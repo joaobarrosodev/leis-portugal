@@ -1,0 +1,1011 @@
+---
+schema_version: '1.0'
+id: pt:dre:565417:por
+title: Decreto-Lei n.º 330/90
+short_title: null
+summary: Aprova o Código da Publicidade
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e Recursos Naturais
+proposing_entity: null
+official_number: 330/90
+official_date: null
+publication_date: '1990-10-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 245/1990, Série I de 1990-10-23
+  number: '245'
+  series: I
+  supplement: null
+  pages: 4353 - 4357
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/10/24500/43534357.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-09-21'
+version_history:
+  file: decreto-lei-330-90.versoes.json
+  count: 12
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1990-10-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-01-22'
+    amending: pt:dre:146566:por
+    amending_title: Decreto-Lei n.º 6/95
+    changes:
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+  - date: '1997-03-30'
+    amending: pt:dre:526180:por
+    amending_title: Decreto-Lei n.º 61/97
+    changes:
+    - Entrada Vigor Diploma
+  - date: '2001-02-16'
+    amending: pt:dre:321285:por
+    amending_title: Decreto-Lei n.º 51/2001
+    changes:
+    - Altera Artigo 17.º
+    - Entrada Vigor Diploma
+  - date: '2002-01-01'
+    amending: pt:dre:536644:por
+    amending_title: Decreto-Lei n.º 332/2001
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 39.º
+    - Entrada Vigor Diploma
+  - date: '2002-04-05'
+    amending: pt:dre:301260:por
+    amending_title: Decreto-Lei n.º 81/2002
+    changes:
+    - Entrada Vigor Diploma
+  - date: '2008-01-01'
+    amending: pt:dre:636938:por
+    amending_title: Lei n.º 37/2007
+    changes:
+    - Altera Artigo 24.º
+    - Entrada Vigor Diploma
+    - Revoga Artigo 18.º
+  - date: '2008-04-01'
+    amending: pt:dre:246504:por
+    amending_title: Decreto-Lei n.º 57/2008
+    changes:
+    - Adita Artigo 42.º
+    - Adita Artigo 43.º
+    - Altera Artigo 11.º
+    - Altera Artigo 16.º
+    - Entrada Vigor Diploma
+    - Revoga Artigo 22.º-B
+  - date: '2011-05-11'
+    amending: pt:dre:276860:por
+    amending_title: Lei n.º 8/2011
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 25.º-A
+  - date: '2015-06-28'
+    amending: pt:dre:67098359:por
+    amending_title: Decreto-Lei n.º 66/2015
+    changes:
+    - Altera Artigo 21.º
+    - Altera Artigo 40.º
+  - date: '2019-06-22'
+    amending: pt:dre:122151046:por
+    amending_title: Lei n.º 30/2019
+    changes:
+    - Adita Artigo 20.º-A
+    - Adita Artigo 20.º-B
+    - Altera Artigo 34.º
+    - Altera Artigo 40.º
+  - date: '2026-09-21'
+    amending: pt:dre:1171382771:por
+    amending_title: Decreto-Lei n.º 184/2026
+    changes:
+    - Altera Artigo 22.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/330/1990/p/cons/20190423/pt/html
+  oj: null
+  dre: '565417'
+  dre_path: /dr/detalhe/decreto-lei/330-1990-565417
+  internal: pt:dre:565417:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1990-565417
+  metadata_url: https://data.dre.pt/eli/dec-lei/330/1990/p/cons/20190423/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-34537375
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-34537375
+  retrieved_at: '2026-10-22T11:50:37Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d399ff33f3fbf042b18009b61e971d24f48dc06c42a648f593645cc94d546c3c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:50:37Z'
+  notes: 12 versão(ões); histórico completo em decreto-lei-330-90.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Conselho Consultivo da Actividade Publicitaria
+- Conselho de Publicidade
+- Criação de Serviços
+- Código da Publicidade
+- Definição de Competências
+- Direcção Geral da Comunicação Social
+- Direcção Geral de Assuntos Farmacêuticos
+- Direcção Geral dos Cuidados de Saúde Primários
+- Fiscalização
+- Instituto Nacional de Defesa do Consumidor
+- Multa
+- Programa Audiovisual
+- Publicidade
+- Radiodifusão
+- Sanção
+- Suporte Publicitário
+- Televisão
+relationships:
+- type: amended_by
+  target: pt:dre:146566:por
+  label: Revoga Artigo 31.º; Revoga Artigo 32.º; Revoga Artigo 33.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566
+  date: '1995-01-17'
+- type: amended_by
+  target: pt:dre:526180:por
+  label: Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1997-526180
+  date: '1997-03-25'
+- type: amended_by
+  target: pt:dre:321285:por
+  label: Altera Artigo 17.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2001-321285
+  date: '2001-02-15'
+- type: amended_by
+  target: pt:dre:536644:por
+  label: Altera Artigo 17.º; Altera Artigo 39.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-2001-536644
+  date: '2001-12-24'
+- type: amended_by
+  target: pt:dre:301260:por
+  label: Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2002-301260
+  date: '2002-04-04'
+- type: amended_by
+  target: pt:dre:636938:por
+  label: Altera Artigo 24.º; Entrada Vigor Diploma; Revoga Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/37-2007-636938
+  date: '2007-08-14'
+- type: amended_by
+  target: pt:dre:246504:por
+  label: Adita Artigo 42.º; Adita Artigo 43.º; Altera Artigo 11.º; Altera Artigo 16.º; Entrada Vigor Diploma; Revoga Artigo
+    22.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504
+  date: '2008-03-26'
+- type: amended_by
+  target: pt:dre:276860:por
+  label: Altera Artigo 8.º; Altera Artigo 24.º; Revoga Artigo 25.º; Revoga Artigo 25.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/8-2011-276860
+  date: '2011-04-11'
+- type: amended_by
+  target: pt:dre:67098359:por
+  label: Altera Artigo 21.º; Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359
+  date: '2015-04-29'
+- type: amended_by
+  target: pt:dre:122151046:por
+  label: Adita Artigo 20.º-A; Adita Artigo 20.º-B; Altera Artigo 34.º; Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-2019-122151046
+  date: '2019-04-23'
+- type: amended_by
+  target: pt:dre:1171382771:por
+  label: Altera Artigo 22.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2026-1171382771
+  date: '2026-09-16'
+article_structure:
+  article_count: 51
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:50:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 330/90
+
+A publicidade assume, nos dias de hoje, uma importância e um alcance significativos, quer no domínio da actividade económica, quer como instrumento privilegiado do fomento da concorrência, sempre benéfica para as empresas e respectivos clientes.
+
+Por isso, importa enquadrar a actividade publicitária como grande motor do mercado, enquanto veículo dinamizador das suas potencialidades e da sua diversidade e, nessa perspectiva, como actividade benéfica e positiva no processo de desenvolvimento de um país.
+
+Em obediência a esse desiderato, a actividade publicitária não pode nem deve ser vista, numa sociedade moderna e desenvolvida, como um mal menor, que se tolera mas não se estimula, e muito menos como resultante de um qualquer estado de necessidade.
+
+Porém, a receptividade de que benefícia no quotidiano dos cidadãos, se lhe confere, por um lado, acrescida importância, não deixa, outrossim, de acarretar uma natural e progressiva responsabilidade, na perspectiva, igualmente merecedora de atenção, da protecção e defesa dos consumidores e das suas legítimas expectativas.
+
+De facto, uma sociedade responsável não pode deixar igualmente de prever e considerar a definição de regras mínimas, cuja inexistência, podendo consumar situações enganosas ou atentatórias dos direitos do cidadão consumidor, permitiria, na prática, desvirtuar o próprio e intrínseco mérito da actividade publicitária.
+
+Sem recorrer a intenções paternalistas e recusando mesmo soluções de cariz proteccionista, o novo Código da Publicidade pretende, com equilíbrio e sentido da realidade, conciliar as duas vertentes enunciadas, sublinhando a sua relevância e alcance económico e social.
+
+Realçando a experiência já adquirida, o caminho já percorrido pela legislação nacional e os contributos recolhidos de todos quantos, directa ou indirectamente, a esta actividade se dedicam, a nova legislação contempla, ainda, a desejável harmonização com a legislação comunitária, nomeadamente com as Directivas n.os <a href="eurlex.asp?ano=1984&id=384L0450" title="Link para Directiva da Comunidade Europeia">84/450/CEE</a> e <a href="eurlex.asp?ano=1989&id=389L0552" title="Link para Directiva da Comunidade Europeia">89/552/CEE</a> e, bem assim, a Convenção Europeia sobre a Televisão sem Fronteiras.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+É aprovado o Código da Publicidade, anexo ao presente diploma e que dele faz parte integrante.
+
+###### Artigo 2.º
+
+1 -É revogado o Decreto-Lei n.º 303/83, de 28 de Junho.
+
+2 - Consideram-se feitas para as correspondentes disposições do presente Código as remissões para o Decreto-Lei n.º 303/83, de 28 de Junho.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 74/93 - Diário da República n.º 58/1993, Série I-A de 1993-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1993-628040)
+
+###### Artigo 3.º
+
+1 - O Código agora aprovado entra em vigor no dia imediato ao da sua publicação, salvo quanto ao disposto nos artigos 24.º, 25.º e 26.º, que entram em vigor a 1 de Outubro de 1991.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 61/97 - Diário da República n.º 71/1997, Série I-A de 1997-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1997-526180)
+
+Visto e aprovado em Conselho de Ministros de 19 de Julho de 1990 - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro - Roberto Artur da Luz Carneiro - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - António Fernando Couto dos Santos - Fernando Nunes Ferreira Real.
+
+Promulgado em 1 de Outubro de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 10 de Outubro de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## Anexo — Código da Publicidade
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Âmbito do diploma
+
+O presente diploma aplica-se a qualquer forma de publicidade, independentemente do suporte utilizado para a sua difusão.
+
+###### Artigo 2.º — Direito aplicável
+
+A publicidade rege-se pelo disposto no presente diploma e, subsidiariamente, pelas normas de direito civil ou comercial.
+
+###### Artigo 3.º — Conceito de publicidade
+
+1 - Considera-se publicidade, para efeitos do presente diploma, qualquer forma de comunicação feita por entidades de natureza pública ou privada, no âmbito de uma actividade comercial, industrial, artesanal ou liberal, com o objectivo directo ou indirecto de:
+
+a) Promover, com vista à sua comercialização ou alienação, quaisquer bens ou serviços;
+
+b) Promover ideias, princípios, iniciativas ou instituições.
+
+2 - Considera-se, também, publicidade qualquer forma de comunicação da Administração Pública, não prevista no número anterior, que tenha por objectivo, directo ou indirecto, promover o fornecimento de bens ou serviços.
+
+3 - Para efeitos do presente diploma, não se considera publicidade a propaganda política.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566)
+
+###### Artigo 4.º — Conceito de actividade publicitária
+
+1 - Considera-se actividade publicitária o conjunto de operações relacionadas com a difusão de uma mensagem publicitária junto dos seus destinatários, bem como as relações jurídicas e técnicas daí emergentes entre anunciantes, profissionais, agências de publicidade e entidades que explorem os suportes publicitários ou que efectuem as referidas operações.
+
+2 - Incluem-se entre as operações referidas no número anterior, designadamente, as de concepção, criação, produção, planificação e distribuição publicitárias.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 5.º — Anunciante, profissional, agência de publicidade, suporte publicitário e destinatário
+
+Para efeitos do disposto no presente diploma, considera-se:
+
+a) Anunciante: a pessoa singular ou colectiva no interesse de quem se realiza a publicidade;
+
+b) Profissional ou agência de publicidade: pessoa singular que exerce a actividade publicitária ou pessoa colectiva que tenha por objecto exclusivo o exercício da actividade publicitária;
+
+c) Suporte publicitário: o veículo utilizado para a transmissão da mensagem publicitária;
+
+d) Destinatário: a pessoa singular ou colectiva a quem a mensagem publicitária se dirige ou que por ela, de qualquer forma, seja atingida.
+
+2 - Não podem constituir suporte publicitário as publicações periódicas informativas editadas pelos órgãos das autarquias locais, salvo se o anunciante for uma empresa municipal de capitais exclusiva ou maioritariamente públicos.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 224/2004 - Diário da República n.º 284/2004, Série I-A de 2004-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2004-209822)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+### Capítulo II — Regime geral da publicidade
+
+#### Secção I — Princípios gerais
+
+###### Artigo 6.º — Princípios da publicidade
+
+A publicidade rege-se pelos princípios da licitude, identificabilidade, veracidade e respeito pelos direitos do consumidor.
+
+###### Artigo 7.º — Princípio da licitude
+
+1 - É proibida a publicidade que, pela sua forma, objecto ou fim, ofenda os valores, princípios e instituições fundamentais constitucionalmente consagrados.
+
+2 - É proibida, nomeadamente, a publicidade que:
+
+a) Se socorra, depreciativamente, de instituições, símbolos nacionais ou religiosos ou personagens históricas;
+
+b) Estimule ou faça apelo a violência, bem como a qualquer actividade ilegal ou criminosa;
+
+c) Atente contra a dignidade da pessoa humana;
+
+d) Contenha qualquer discriminação em relação à raça, língua, território de origem, religião ou sexo;
+
+e) Utilize, sem autorização da própria, a imagem ou as palavras de alguma pessoa;
+
+f) Utilize linguagem obscena;
+
+g) Encorage comportamentos prejudiciais a protecção do ambiente.
+
+h) Tenha como objecto ideias de conteúdo sindical, político ou religioso.
+
+3 - Só é permitida a utilização de línguas de outros países na mensagem publicitária, mesmo que em conjunto com a língua portuguesa, quando aquela tenha os estrangeiros por destinatários exclusivos ou principais, sem prejuízo do disposto no número seguinte.
+
+4 - É admitida a utilização excepcional de palavras ou de expressões em línguas de outros países quando necessárias à obtenção do efeito visado na concepção da mensagem.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566)
+
+###### Artigo 8.º — Princípio da identificabilidade
+
+1 - A publicidade tem de ser inequivocamente identificada como tal, qualquer que seja o meio de difusão utilizado.
+
+2 - A publicidade efectuada na rádio e na televisão deve ser claramente separada da restante programação, através da introdução de um separador no início e no fim do espaço publicitário.
+
+3 - O separador a que se refere o número anterior é constituído, na rádio, por sinais acústicos.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 8/2011 - Diário da República n.º 71/2011, Série I de 2011-04-11](https://diariodarepublica.pt/dr/detalhe/lei/8-2011-276860), em vigor a partir de 2011-05-11
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566)
+
+###### Artigo 9.º — Publicidade oculta ou dissimulada
+
+1 - É vedado o uso de imagens subliminares ou outros meios dissimuladores que explorem a possibilidade de transmitir publicidade sem que os destinatários se apercebam da natureza publicitária da mensagem.
+
+2 - Na transmissão televisiva ou fotográfica de quaisquer acontecimentos ou situações, reais ou simulados, é proibida a focagem directa e exclusiva da publicidade aí existente.
+
+3 - Considera-se publicidade subliminar, para os efeitos do presente diploma, a publicidade que, mediante o recurso a qualquer técnica, possa provocar no destinatário percepções sensoriais de que ele não chegue a tomar consciência.
+
+###### Artigo 10.º — Princípio da veracidade
+
+1 - A publicidade deve respeitar a verdade, não deformando os factos.
+
+2 - As afirmações relativas à origem, natureza, composição, propriedades e condições de aquisição dos bens ou serviços publicitados devem ser exactas e passíveis de prova, a todo o momento, perante as instâncias competentes.
+
+###### Artigo 11.º — Publicidade enganosa
+
+1 - É proibida toda a publicidade que seja enganosa nos termos do Decreto-Lei n.º 57/2008, de 26 de Março, relativo às práticas comerciais desleais das empresas nas relações com os consumidores.
+
+2 - No caso previsto no número anterior, pode a entidade competente para a instrução dos respectivos processos de contra-ordenação exigir que o anunciante apresente provas da exactidão material dos dados de facto contidos na publicidade.
+
+3 - Os dados referidos no número anterior presumem-se inexactos se as provas exigidas não forem apresentadas ou forem insuficientes.
+
+4 - (Revogado).
+
+5 - (Revogado).
+
+> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 57/2008 - Diário da República n.º 60/2008, Série I de 2008-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504), em vigor a partir de 2008-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 12.º — Princípio do respeito pelos direitos do consumidor
+
+É proibida a publicidade que atente contra os direitos do consumidor.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 13.º — Saúde e segurança do consumidor
+
+1 - É proibida a publicidade que encoraje comportamentos prejudiciais à saúde e segurança do consumidor, nomeadamente por deficiente informação acerca da perigosidade do produto ou da especial susceptibilidade da verificação de acidentes em resultado da utilização que lhe é própria.
+
+2 - A publicidade não deve comportar qualquer apresentação visual ou descrição de situações onde a segurança não seja respeitada, salvo justificação de ordem pedagógica.
+
+3 - O disposto nos números anteriores deve ser particularmente acautelado no caso da publicidade especialmente dirigida a crianças, adolescentes, idosos ou deficientes.
+
+#### Secção II — Restrições ao conteúdo da publicidade
+
+###### Artigo 14.º — Menores
+
+1 - A publicidade especialmente dirigida a menores deve ter sempre em conta a sua vulnerabilidade psicológica, abstendo-se, nomeadamente, de:
+
+a) Incitar directamente os menores, explorando a sua inexperiência ou credulidade, a adquirir um determinado bem ou serviço;
+
+b) Incitar directamente os menores a persuadirem os seus pais ou terceiros a comprarem os produtos ou serviços em questão;
+
+c) Conter elementos susceptíveis de fazerem perigar a sua integridade física ou moral, bem como a sua saúde ou segurança, nomeadamente através de cenas de pornografia ou do incitamento à violência;
+
+d) Explorar a confiança especial que os menores depositam nos seus pais, tutores ou professores.
+
+2 - Os menores só podem ser intervenientes principais nas mensagens publicitárias em que se verifique existir uma relação directa entre eles e o produto ou serviço veiculado.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 15.º — Publicidade testemunhal
+
+A publicidade testemunhal deve integrar depoimentos personalizados, genuínos e comprováveis, ligados à experiência do depoente ou de quem ele represente, sendo admitido o depoimento despersonalizado, desde que não seja atribuído a uma testemunha especialmente qualificada, designadamente em razão do uso de uniformes, fardas ou vestimentas características de determinada profissão.
+
+###### Artigo 16.º — Publicidade comparativa
+
+1 - É comparativa a publicidade que identifica, explícita ou implicitamente, um concorrente ou os bens ou serviços oferecidos por um concorrente.
+
+2 - A publicidade comparativa, independentemente do suporte utilizado para a sua difusão, só é consentida, no que respeita à comparação, desde que respeite as seguintes condições:
+
+a) Não seja enganosa, nos termos do artigo 11.º;
+
+b) Compare bens ou serviços que respondam às mesmas necessidades ou que tenham os mesmos objectivos;
+
+c) Compare objectivamente uma ou mais características essenciais, pertinentes, comprováveis e representativas desses bens ou serviços, entre as quais se pode incluir o preço;
+
+d) Não gere confusão no mercado entre os profissionais, entre o anunciante e um concorrente ou entre marcas, designações comerciais, outros sinais distintivos, bens ou serviços do anunciante e os de um concorrente;
+
+e) Não desacredite ou deprecie marcas, designações comerciais, outros sinais distintivos, bens, serviços, actividades ou situação de um concorrente;
+
+f) Se refira, em todos os casos de produtos com denominação de origem, a produtos com a mesma denominação;
+
+g) Não retire partido indevido do renome de uma marca, designação comercial ou outro sinal distintivo de um concorrente ou da denominação de origem de produtos concorrentes;
+
+h) Não apresente um bem ou serviço como sendo imitação ou reprodução de um bem ou serviço cuja marca ou designação comercial seja protegida.
+
+3 - Sempre que a comparação faça referência a uma oferta especial deverá, de forma clara e inequívoca, conter a indicação do seu termo ou, se for o caso, que essa oferta especial depende da disponibilidade dos produtos ou serviços.
+
+4 - Quando a oferta especial a que se refere o número anterior ainda não se tenha iniciado deverá indicar-se também a data de início do período durante o qual é aplicável o preço especial ou qualquer outra condição específica.
+
+5 - O ónus da prova da veracidade da publicidade comparativa recai sobre o anunciante.
+
+> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 57/2008 - Diário da República n.º 60/2008, Série I de 2008-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504), em vigor a partir de 2008-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+#### Secção III — Restrições ao objecto da publicidade
+
+###### Artigo 17.º — Bebidas alcoólicas
+
+1 - A publicidade a bebidas alcoólicas, independentemente do suporte utilizado para a sua difusão, só é consentida quando:
+
+a) Não se dirija especificamente a menores e, em particular, não os apresente a consumir tais bebidas;
+
+b) Não encoraje consumos excessivos;
+
+c) Não menospreze os não consumidores;
+
+d) Não sugira sucesso, êxito social ou especiais aptidões por efeito do consumo;
+
+e) Não sugira a existência, nas bebidas alcoólicas, de propriedades terapêuticas ou de efeitos estimulantes ou sedativos;
+
+f) Não associe o consumo dessas bebidas ao exercício físico ou à condução de veículos;
+
+g) Não sublinhe o teor de álcool das bebidas como qualidade positiva.
+
+2 - É proibida a publicidade a bebidas alcoólicas, na televisão e na rádio, entre as 7 horas e as 22 horas e 30 minutos.
+
+3 - Para efeitos do disposto no número anterior é considerada a hora oficial do local de origem da emissão.
+
+4 - Sem prejuízo do disposto na alínea a) do n.º 2 do artigo 7.º, é proibido associar a publicidade de bebidas alcoólicas aos símbolos nacionais, consagrados no artigo 11.º da Constituição da República Portuguesa.
+
+5 - As comunicações comerciais e a publicidade de quaisquer eventos em que participem menores, designadamente actividades desportivas, culturais, recreativas ou outras, não devem exibir ou fazer qualquer menção, implícita ou explícita, a marca ou marcas de bebidas alcoólicas.
+
+6 - Nos locais onde decorram os eventos referidos no número anterior não podem ser exibidas ou de alguma forma publicitadas marcas de bebidas alcoólicas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 332/2001 - Diário da República n.º 296/2001, Série I-A de 2001-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-2001-536644), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 51/2001 - Diário da República n.º 39/2001, Série I-A de 2001-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2001-321285), em vigor a partir de 2001-02-16
+
+###### Artigo 18.º — Tabaco
+
+São proibidas, sem prejuízo do disposto em legislação especial, todas as formas de publicidade ao tabaco através de suportes sob a jurisdição do Estado Português.
+
+> Revogado pelo/a Artigo 30.º do/a [Lei n.º 37/2007 - Diário da República n.º 156/2007, Série I de 2007-08-14](https://diariodarepublica.pt/dr/detalhe/lei/37-2007-636938), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 19.º — Tratamentos e medicamentos
+
+É proibida a publicidade a tratamentos médicos e a medicamentos que apenas possam ser obtidos mediante receita médica, com excepção da publicidade incluída em publicações técnicas destinadas a médicos e outros profissionais de saúde.
+
+###### Artigo 20.º — Publicidade em estabelecimentos de ensino ou destinada a menores
+
+É proibida a publicidade a bebidas alcoólicas, ao tabaco ou a qualquer tipo de material pornográfico em estabelecimentos de ensino, bem como em quaisquer publicações, programas ou actividades especialmente destinados a menores.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 20.º-A — Restrições a publicidade a produtos que contenham elevado valor energético, teor de sal, açúcar, ácidos gordos saturados e ácidos gordos transformados
+
+1 - A publicidade de géneros alimentícios e bebidas que contenham elevado valor energético, teor de sal, açúcar, ácidos gordos saturados e ácidos gordos transformados é sujeita às restrições constantes dos números seguintes.
+
+2 - É proibida a publicidade a géneros alimentícios e bebidas de elevado valor energético, teor de sal, açúcar, ácidos gordos saturados e ácidos gordos transformados:
+
+a) Em estabelecimentos de ensino pré-escolar, básico e secundário;
+
+b) Em parques infantis públicos e abertos ao público;
+
+c) Num raio circundante de 100 metros dos acessos dos locais referidos nas alíneas anteriores, com exceção dos elementos publicitários afixados em estabelecimentos comerciais, nomeadamente através da colocação de marcas em mobiliário de esplanadas, em toldos ou em letreiros integrados no estabelecimento;
+
+d) Em atividades desportivas, culturais e recreativas organizadas pelas entidades referidas na alínea a).
+
+3 - É ainda proibida a publicidade a géneros alimentícios e bebidas de elevado valor energético, teor de sal, açúcar, ácidos gordos saturados e ácidos gordos transformados:
+
+a) Em serviços de programas televisivos e serviços de comunicação audiovisual a pedido e na rádio nos 30 minutos anteriores e posteriores a programas infantis, e a programas televisivos que tenham um mínimo de 25 % de audiência inferior a 16 anos, bem como na inserção de publicidade nas respetivas interrupções;
+
+b) Em publicidade realizada nas salas de cinema, nos filmes com classificação etária para menores de 16 anos;
+
+c) Em publicações destinadas a menores de 16 anos;
+
+d) Na internet, através de sítios páginas ou redes sociais, bem como em aplicações móveis destinadas a dispositivos que utilizem a internet, quando os seus conteúdos tenham como destinatários os menores de 16 anos.
+
+4 - A publicidade a géneros alimentícios e bebidas de elevado valor energético, teor de sal, açúcar, ácidos gordos saturados e ácidos gordos transformados deve ser clara e objetiva e não relacionar o consumo do produto a potenciais benefícios para a saúde, abstendo-se, designadamente, de:
+
+a) Encorajar consumos excessivos;
+
+b) Menosprezar os não-consumidores;
+
+c) Criar um sentido de urgência ou necessidade premente no consumo do produto anunciado;
+
+d) Transmitir a ideia de facilitismo na sua aquisição, minimizando os seus custos;
+
+e) Transmitir a ideia de benefício no seu consumo exclusivo ou exagerado, comprometendo a valorização de uma dieta variada e equilibrada e um estilo de vida saudável;
+
+f) Associar o consumo do produto à aquisição de estatuto, êxito social, especiais aptidões, popularidade, sucesso ou inteligência;
+
+g) Utilizar em anúncios publicitários figuras, desenhos, personalidades e mascotes, entre outros, que se encontrem relacionados com programas destinados ao público infantil;
+
+h) Comunicar características de géneros alimentícios e bebidas de elevado valor energético, teor de sal, açúcar, ácidos gordos saturados e ácidos gordos transformados como benéficos para a saúde, omitindo os efeitos nocivos dos referidos teores elevados.
+
+5 - Os agentes económicos destinatários do disposto no presente artigo podem vincular-se a restrições mais exigentes do que as constantes nos números anteriores, através da celebração de acordos de autorregulação e de corregulação, de adesão e desvinculação livre.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 30/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/30-2019-122151046), em vigor a partir de 2019-06-22
+
+###### Artigo 20.º-B — Produtos que contenham elevado valor energético, teor de sal, açúcar, ácidos gordos saturados e ácidos gordos transformados
+
+1 - Consideram-se géneros alimentícios e bebidas de elevado valor energético, teor de sal, açúcar, ácidos gordos saturados e ácidos gordos transformados aqueles que contenham uma quantidade dos referidos elementos que comprometa, de acordo com o conhecimento científico disponível, uma dieta variada, equilibrada e saudável.
+
+2 - Para os efeitos previstos no número anterior, a Direção-Geral da Saúde fixa por despacho, tendo em conta as recomendações da Organização Mundial da Saúde e da União Europeia, os valores que devem ser tidos em conta na identificação de elevado valor energético, teor de sal, açúcar, ácidos gordos saturados e ácidos gordos transformados.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 30/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/30-2019-122151046), em vigor a partir de 2019-06-22
+
+###### Artigo 21.º — Jogos e apostas
+
+1 - A publicidade de jogos e apostas deve ser efetuada de forma socialmente responsável, respeitando, nomeadamente, a proteção dos menores, bem como de outros grupos vulneráveis e de risco, privilegiando o aspeto lúdico da atividade dos jogos e apostas e não menosprezando os não jogadores, não apelando a aspetos que se prendam com a obtenção fácil de um ganho, não sugerindo sucesso, êxito social ou especiais aptidões por efeito do jogo, nem encorajando práticas excessivas de jogo ou aposta.
+
+2 - É expressamente proibida a publicidade de jogos e apostas que se dirija ou que utilize menores enquanto intervenientes na mensagem.
+
+3 - É expressamente proibida a publicidade de jogos e apostas no interior de escolas ou outras infraestruturas destinadas à frequência de menores.
+
+4 - É ainda expressamente proibida a publicidade de jogos e apostas a menos de 250 metros em linha reta de escolas ou outras infraestruturas destinadas à frequência de menores.
+
+5 - Nos locais onde decorram eventos destinados a menores ou nos quais estes participem enquanto intervenientes principais, bem como nas comunicações comerciais e na publicidade desses eventos, não devem existir menções, explícitas ou implícitas, a jogos e apostas.
+
+6 - As concessionárias e ou as entidades exploradoras de jogos e apostas não podem ser associadas a qualquer referência ou menção publicitária à concessão de empréstimos.
+
+7 - O disposto no n.º 4 não se aplica aos jogos sociais do Estado.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+###### Artigo 22.º — Cursos
+
+A mensagem publicitária relativa a cursos ou quaisquer outras acções de formação ou aperfeiçoamento intelectual, cultural ou profissional deve indicar:
+
+a) A natureza desses cursos ou acções, de acordo com a designação oficialmente aceite pelos serviços competentes, bem como a duração dos mesmos;
+
+b) A expressão «sem reconhecimento oficial», sempre que este não tenha sido atribuído pelas entidades oficiais competentes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 22.º-A — Veículos automóveis
+
+1 - É proibida a publicidade a veículos automóveis que:
+
+a) Contenha situações ou sugestões de utilização do veículo que possam pôr em risco a segurança pessoal do utente ou de terceiros;
+
+b) Contenha situações ou sugestões de utilização do veículo perturbadoras do meio ambiente;
+
+c) Apresente situações de infracção das regras do Código da Estrada, nomeadamente excesso de velocidade, manobras perigosas, não utilização de acessórios de segurança e desrespeito pela sinalização ou pelos peões.
+
+2 - Para efeitos do presente Código, entende-se por veículos automóveis todos os veículos de tracção mecânica destinados a transitar pelos seus próprios meios nas vias públicas.
+
+3 - É proibida a publicidade, sob qualquer forma, à prática de atos que levem ao incumprimento do estabelecido nos n.ºs 1 a 4 do artigo 8.º do Regulamento da Transformação de Veículos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 184/2026 - Diário da República n.º 180/2026, Série I de 2026-09-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2026-1171382771), em vigor a partir de 2026-09-21, com efeitos a partir de 1990-10-23.
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 74/93 - Diário da República n.º 58/1993, Série I-A de 1993-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1993-628040)
+
+###### Artigo 22.º-B — Produtos e serviços milagrosos
+
+1 - É proibida, sem prejuízo do disposto em legislação especial, a publicidade a bens ou serviços milagrosos.
+
+2 - Considera-se publicidade a bens ou serviços milagrosos, para efeitos do presente diploma, a publicidade que, explorando a ignorância, o medo, a crença ou a superstição dos destinatários, apresente quaisquer bens, produtos, objectos, aparelhos, materiais, substâncias, métodos ou serviços como tendo efeitos específicos automáticos ou garantidos na saúde, bem-estar, sorte ou felicidade dos consumidores ou de terceiros, nomeadamente por permitirem prevenir, diagnosticar, curar ou tratar doenças ou dores, proporcionar vantagens de ordem profissional, económica ou social, bem como alterar as características físicas ou a aparência das pessoas, sem uma objectiva comprovação científica das propriedades, características ou efeitos propagandeados ou sugeridos.
+
+3 - O ónus da comprovação científica a que se refere o número anterior recai sobre o anunciante.
+
+4 - As entidades competentes para a instrução dos processos de contra-ordenação e para a aplicação das medidas cautelares e das coimas previstas no presente diploma podem exigir que o anunciante apresente provas da comprovação científica a que se refere o n.º 2, bem como da exactidão material dos dados de facto e de todos os benefícios propagandeados ou sugeridos na publicidade.
+
+5 - A comprovação científica a que se refere o n.º 2 bem como os dados de facto e os benefícios a que se refere o número anterior presumem-se inexistentes ou inexactos se as provas exigidas não forem imediatamente apresentadas ou forem insuficientes.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 57/2008 - Diário da República n.º 60/2008, Série I de 2008-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504), em vigor a partir de 2008-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+#### Secção IV — Formas especiais de publicidade
+
+###### Artigo 23.º — Publicidade domiciliária e por correspondência
+
+1 - Sem prejuízo do disposto em legislação especial, a publicidade entregue no domicílio do destinatário, por correspondência ou qualquer outro meio, deve conter, de forma clara e precisa:
+
+a) O nome, domicílio e os demais elementos necessários para a identificação do anunciante;
+
+b) A indicação do local onde o destinatário pode obter as informações de que careça;
+
+c) A descrição rigorosa e fiel do bem ou serviço publicitado e suas características;
+
+d) O preço do bem ou serviço e a respectiva forma de pagamento, bem como as condições de aquisição, de garantia e de assistência pós-venda.
+
+2 - Para efeitos das alíneas a) e b) do número anterior, não é admitida a indicação, em exclusivo, de um apartado ou de qualquer outra menção que não permita a localização imediata do anunciante.
+
+3 - A publicidade indicada no n.º 1 só pode referir-se a artigos de que existam amostras disponíveis para exame do destinatário.
+
+4 - O destinatário da publicidade abrangida pelo disposto nos números anteriores não é obrigado a adquirir, guardar ou devolver quaisquer bens ou amostras que lhe tenham sido enviados ou entregues à revelia de solicitação sua.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 24.º — Patrocínio
+
+1 - (Revogado).
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - O conteúdo e a programação de uma emissão patrocinada não podem, em caso algum, ser influenciados pelo patrocinador, por forma a afectar a responsabilidade e a independência editorial do emissor.
+
+6 - Os programas patrocinados não podem incitar à compra ou locação dos bens ou serviços do patrocinador ou de terceiros, especialmente através de referências promocionais específicas a tais bens ou serviços.
+
+> Alterado pelo/a Artigo 8.º do/a [Lei n.º 8/2011 - Diário da República n.º 71/2011, Série I de 2011-04-11](https://diariodarepublica.pt/dr/detalhe/lei/8-2011-276860), em vigor a partir de 2011-05-11
+
+> Alterado pelo/a Artigo 30.º do/a [Lei n.º 37/2007 - Diário da República n.º 156/2007, Série I de 2007-08-14](https://diariodarepublica.pt/dr/detalhe/lei/37-2007-636938), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+### Capítulo III — Publicidade na televisão e televenda
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 25.º — Inserção da publicidade na televisão
+
+1 - A publicidade televisiva deve ser inserida entre programas.
+
+2 - A publicidade só pode ser inserida durante os programas, desde que não atente contra a sua integridade e tenha em conta as suas interrupções naturais, bem como a sua duração e natureza, e de forma a não lesar os direitos de quaisquer titulares.
+
+3 - A publicidade não pode ser inserida durante a transmissão de serviços religiosos.
+
+4 - Os telejornais, os programas de informação política, os programas de actualidade informativa, as revistas de actualidade, os documentários, os programas religiosos e os programas para crianças com duração programada inferior a trinta minutos não podem ser interrompidos por publicidade.
+
+5 - Nos programas compostos por partes autónomas, nas emissões desportivas e nas, manifestações ou espectáculos de estrutura semelhante, que compreendam intervalos, a publicidade só pode ser inserida entre aquelas partes autónomas ou nos intervalos.
+
+6 -Sem prejuízo do disposto no número anterior, entre duas interrupções sucessivas do mesmo programa, para emissão de publicidade, deve mediar um período igual ou superior a vinte minutos.
+
+7 - A transmissão de obras áudio-visuais com duração programada superior a 45 minutos, designadamente longas metragens cinematográficas e filmes concebidos para a televisão, com excepção de séries, folhetins, programas de diversão e documentários, só pode ser interrompida uma vez por cada período completo de 45 minutos, sendo admitida outra interrupção se a duração programada da transmissão exceder em, pelo menos, 20 minutos dois ou mais períodos completos de 45 minutos.
+
+8 - As mensagens publicitárias isoladas só podem ser inseridas a título excepcional.
+
+9 - Para efeitos do disposto no presente artigo, entende-se por duração programada de um programa o tempo efectivo do mesmo, descontando o período dedicado às interrupções, publicitárias e outras.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 8/2011 - Diário da República n.º 71/2011, Série I de 2011-04-11](https://diariodarepublica.pt/dr/detalhe/lei/8-2011-276860), em vigor a partir de 2011-05-11
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566)
+
+###### Artigo 25.º-A — Televenda
+
+1 - Considera-se televenda, para efeitos do presente diploma, a difusão de ofertas directas ao público, realizada por canais televisivos, com vista ao fornecimento de produtos ou à prestação de serviços, incluindo bens imóveis, direitos e obrigações mediante remuneração.
+
+2 - São aplicáveis à televenda, com as necessárias adaptações, as disposições previstas neste Código para a publicidade, sem prejuízo do disposto nos números seguintes.
+
+3 - É proibida a televenda de medicamentos sujeitos a uma autorização de comercialização, assim como a televenda de tratamentos médicos.
+
+4 - A televenda não deve incitar os menores a contratarem a compra ou aluguer de quaisquer bens ou serviços.
+
+> Revogado pelo/a Artigo 8.º do/a [Lei n.º 8/2011 - Diário da República n.º 71/2011, Série I de 2011-04-11](https://diariodarepublica.pt/dr/detalhe/lei/8-2011-276860), em vigor a partir de 2011-05-11
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 26.º — Tempo reservado à publicidade
+
+1 - O tempo consagrado à publicidade não pode ultrapassar 15% do período diário de transmissão, salvo se incluir formas de publicidade referidas no número seguinte, caso em que essa percentagem pode ir até 20%, desde que o volume das mensagens publicitárias propriamente ditas não exceda 15%.
+
+2 - As ofertas directas ao público com vista à venda, compra ou aluguer de produtos, ou à prestação de serviços, não podem exceder uma hora por dia.
+
+3 - O tempo de emissão consagrado às mensagens publicitárias em cada período de uma hora não pode exceder 20%.
+
+4 - Para efeitos de cômputo horário da publicidade, será tomado como referência o período compreendido entre duas unidades de hora, sem desdobramentos em minutos ou segundos.
+
+> Revogado pelo/a Artigo 75.º do/a [Lei n.º 31-A/98 - Diário da República n.º 160/1998, Suplemento n.º 1, Série I-A de 1998-07-14](https://diariodarepublica.pt/dr/detalhe/lei/31-a-1998-601991)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566)
+
+### Capítulo IV — Actividade publicitária
+
+#### Secção I — Publicidade de Estado
+
+###### Artigo 27.º — Publicidade do Estado
+
+A publicidade do Estado é regulada em diploma próprio.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 224/2004 - Diário da República n.º 284/2004, Série I-A de 2004-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-2004-209822)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566)
+
+#### Secção II — Relações entre sujeitos da actividade publicitária
+
+###### Artigo 28.º — Respeito pelos fins contratuais
+
+É proibida a utilização para fins diferentes dos acordados de qualquer ideia, informação ou material publicitário fornecido para fins contratuais relacionados com alguma ou algumas das operações referidas no n.º 2 do artigo 4.º
+
+###### Artigo 29.º — Criação publicitária
+
+1 - As disposições legais sobre direitos de autor aplicam-se à criação publicitária, sem prejuízo do disposto nos números seguintes.
+
+2 - Os direitos de carácter patrimonial sobre a criação publicitária presumem-se, salvo convenção em contrário, cedidos em exclusivo ao seu criador intelectual.
+
+3 - É ilícita a utilização de criações publicitárias sem a autorização dos titulares dos respectivos direitos.
+
+###### Artigo 30.º — Responsabilidade civil
+
+1 - Os anunciantes, os profissionais, as agências de publicidade e quaisquer outras entidades que exerçam a actividade publicitária, bem como os titulares dos suportes publicitários utilizados ou os respectivos concessionários, respondem civil e solidariamente, nos termos gerais, pelos prejuízos causados a terceiros em resultado da difusão de mensagens publicitárias ilícitas.
+
+2 - Os anunciantes eximir-se-ão da responsabilidade prevista no número anterior caso provem não ter tido prévio conhecimento da mensagem publicitária veiculada.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+### Capítulo V — Conselho Consultivo da Actividade Publicitária
+
+###### Artigo 31.º — Natureza e funções
+
+1 - O Conselho Consultivo da Actividade Publicitária é um órgão de consulta do Governo no domínio da actividade publicitária.
+
+2 - São funções do Conselho:
+
+a) Pronunciar-se, a solicitação do membro do Governo competente, sobre as medidas legislativas ou regulamentares em matéria da actividade publicitária;
+
+b) Exercer uma acção pedagógica, através de propostas ou recomendações, visando a melhoria dos padrões qualitativos da mensagem publicitária;
+
+c) Dar parecer técnico consultivo sobre a aplicação do presente diploma e respectiva legislação complementar;
+
+d) Elaborar anualmente um relatório de actividades.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566), em vigor a partir de 1995-01-22
+
+###### Artigo 32.º — Composição
+
+O Conselho Consultivo da Actividade Publicitária é composto pelos seguintes membros:
+
+a) Em representação do Estado e designados pelos competentes membros do Governo:
+
+Um representante da área da comunicação social;
+
+Um representante da área do comércio;
+
+Um representante da área da defesa do consumidor;
+
+Um representante da área da saúde;
+
+b) Em representação dos suportes:
+
+Um representante designado pelas associações de imprensa;
+
+Um representante a designar pelos operadores de radiodifusão;
+
+Um representante a designar pelos operadores de radiotelevisão;
+
+c) Em representação dos anunciantes:
+
+Um representante designado pelas associações dos anunciantes;
+
+d) Em representação da produção:
+
+Um representante a designar pela associação dos produtores e realizadores de filmes publicitários;
+
+e) Em representação das agências de publicidade:
+
+Um representante designado pelas associações das agências de publicidade;
+
+f) Em representação das associações de defesa do consumidor:
+
+Dois representantes das organizações de consumidores a designar pelas mesmas.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566), em vigor a partir de 1995-01-22
+
+###### Artigo 33.º — Funcionamento
+
+1 - O Conselho Consultivo da Actividade Publicitária é presidido pelo director-geral da Comunicação Social.
+
+2 - O Conselho Consultivo da Actividade Publicitária elabora o seu regulamento de funcionamento.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566), em vigor a partir de 1995-01-22
+
+### Capítulo VI — Fiscalização e sanções
+
+###### Artigo 34.º — Sanções
+
+1 - A infração ao disposto no presente diploma constitui contraordenação punível com as seguintes coimas:
+
+a) De 1750 (euro) a 3750 (euro) ou de 3500 (euro) a 45 000 (euro), consoante o infrator seja pessoa singular ou coletiva, por violação do preceituado nos artigos 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 16.º, 20.º, 20.º-A, 22.º-B, 23.º, 24.º, 25.º e 25.º-A;
+
+b) De 200000$00 a 700000$00 ou de 500000$00 a 5000000$00, consoante o infractor seja pessoa singular ou colectiva, por violação do preceituado nos artigos 17.º, 18.º e 19.º;
+
+c) De 75000$00 a 500000$00 ou de 300000$00 a 1600000$00, consoante o infractor seja pessoa singular ou colectiva, por violação do preceituado nos artigos 15.º, 21.º, 22.º e 22.º-A.
+
+2 - A negligência é sempre punível, nos termos gerais.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/30-2019-122151046), em vigor a partir de 2019-06-22
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 74/93 - Diário da República n.º 58/1993, Série I-A de 1993-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1993-628040)
+
+###### Artigo 35.º — Sanções acessórias
+
+1 - Sem prejuízo do disposto no artigo anterior, podem ainda ser aplicadas as seguintes sanções acessórias:
+
+a) Apreensão de objectos utilizados na prática das contra-ordenações;
+
+b) Interdição temporária, até um máximo de dois anos, de exercer a actividade publicitária;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Encerramento temporário das instalações ou estabelecimentos onde se verifique o exercício da actividade publicitária, bem como cancelamento de licenças ou alvarás.
+
+2 - As sanções acessórias previstas nas alíneas b), c) e d) do número anterior só podem ser aplicadas em caso de dolo na prática das correspondentes infracções.
+
+3 - As sanções acessórias previstas nas alíneas c) e d) do n.º 1 têm a duração máxima de dois anos.
+
+4 - Em casos graves ou socialmente relevantes pode a entidade competente para decidir da aplicação da coima ou das sanções acessórias determinar a publicidade da punição por contra-ordenação, a expensas do infractor.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 36.º — Responsabilidade pela contra-ordenação
+
+São punidos como agentes das contra-ordenações previstas no presente diploma o anunciante, o profissional, a agência de publicidade ou qualquer outra entidade que exerça a actividade publicitária, o titular do suporte publicitário ou o respectivo concessionário, bem como qualquer outro interveniente na emissão da mensagem publicitária.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+###### Artigo 37.º — Fiscalização
+
+Sem prejuízo da competência das autoridades policiais e administrativas, compete especialmente ao Instituto do Consumidor a fiscalização do cumprimento do disposto no presente diploma, devendo-lhe ser remetidos os autos de notícia levantados ou as denúncias recebidas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566)
+
+###### Artigo 38.º — Instrução dos processos
+
+A instrução dos processos pelas contra-ordenações previstas neste diploma compete ao Instituto do Consumidor.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566)
+
+###### Artigo 39.º — Aplicação de sanções
+
+1 - A aplicação das coimas previstas no presente diploma compete a uma comissão, constituída pelos seguintes membros:
+
+a) O presidente da comissão referida no n.º 2 do artigo 52.º do Decreto-Lei n.º 28/84, de 20 de Janeiro, que presidirá;
+
+b) O presidente do Instituto do Consumidor;
+
+c) O presidente do Instituto da Comunicação Social.
+
+2 - À comissão mencionada no número anterior aplica-se, com as devidas adaptações, o Decreto-Lei n.º 214/84, de 3 de Julho, sendo apoiada pelo Instituto do Consumidor.
+
+3 - Sempre que a comissão entenda que conjuntamente com a coima é de aplicar alguma das sanções acessórias previstas no presente diploma, remeterá o respectivo processo, acompanhado de proposta fundamentada, ao membro do Governo que tenha a seu cargo a tutela da protecção do consumidor, ao qual compete decidir das sanções acessórias propostas.
+
+4 - Sem prejuízo do disposto no número seguinte, as receitas das coimas revertem:
+
+a) Em 20% para a entidade autuante;
+
+b) Em 20% para o Instituto do Consumidor;
+
+c) Em 60% para o Estado.
+
+5 - As receitas das coimas aplicadas por infracção ao disposto no artigo 17.º revertem:
+
+a) Em 20% para a entidade autuante;
+
+b) Em 20% para o Instituto do Consumidor;
+
+c) Em 60% para um fundo destinado a financiar campanhas de promoção e educação para a saúde e o desenvolvimento de medidas de investigação, prevenção, tratamento e reabilitação dos problemas relacionados com o álcool.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 332/2001 - Diário da República n.º 296/2001, Série I-A de 2001-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-2001-536644), em vigor a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566)
+
+###### Artigo 40.º — Regras especiais sobre competências
+
+1 - A fiscalização do cumprimento do disposto no artigo 19.º, bem como a instrução dos respectivos processos de contra-ordenação e a aplicação das correspondentes coimas e sanções acessórias, competem à Direcção-Geral dos Cuidados de Saúde Primários, à Direcção-Geral dos Assuntos Farmacêuticos e aos respectivos serviços competentes nas Regiões Autónomas dos Açores e da Madeira.
+
+2 - A fiscalização do cumprimento do disposto no artigo 20.º-A, bem como a instrução dos respetivos processos e a aplicação das respetivas coimas e sanções acessórias, competem à Direção-Geral do Consumidor.
+
+3 - A fiscalização do cumprimento do disposto no artigo 21.º, bem como a instrução dos respetivos processos de contraordenação e a aplicação das correspondentes coimas e sanções acessórias, competem ao Serviço de Regulação e Inspeção de Jogos e à comissão de jogos do Instituto do Turismo de Portugal, I.P., nos termos previstos na respetiva lei orgânica.
+
+4 - A fiscalização do cumprimento do disposto no artigo 24.º na actividade de televisão e, bem assim, nos artigos 25.º e 25.º-A, a instrução dos respectivos processos e a aplicação das correspondentes coimas e sanções acessórias competem à entidade administrativa independente reguladora da comunicação social.
+
+5 - As receitas das coimas aplicadas ao abrigo do disposto nos números anteriores revertem em 40% para a entidade instrutora e em 60% para o Estado.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/30-2019-122151046), em vigor a partir de 2019-06-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 66/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), em vigor a partir de 2015-06-28
+
+> Alterado pelo/a Artigo 91.º do/a [Lei n.º 32/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/32-2003-656087)
+
+###### Artigo 41.º — Medidas cautelares
+
+1 - Em caso de publicidade enganosa, publicidade comparativa ilícita ou de publicidade que, pelo seu objecto, forma ou fim, acarrete ou possa acarretar riscos para a saúde, a segurança, os direitos ou os interesses legalmente protegidos dos seus destinatários, de menores ou do público a entidade competente para a aplicação das coimas previstas no presente diploma, sob proposta das entidades com competência para a fiscalização das infracções em matéria de publicidade, pode ordenar medidas cautelares de suspensão, cessação ou proibição daquela publicidade, independentemente de culpa ou da prova de uma perda ou de um prejuízo real.
+
+2 - A adopção das medidas cautelares a que se refere o número anterior deve, sempre que possível, ser precedida da audição do anunciante, do titular ou do concessionário do suporte publicitário, conforme os casos, que dispõem para o efeito do prazo de três dias úteis.
+
+3 - A entidade competente para ordenar a medida cautelar pode exigir que lhe sejam apresentadas provas de exactidão material dos dados de facto contidos na publicidade, nos termos do disposto nos n.os 4 e 5 do artigo 11.º
+
+4 - A entidade competente para ordenar a medida cautelar pode conceder um prazo para que sejam suprimidos os elementos ilícitos da publicidade.
+
+5 - O acto que aplique a medida cautelar de suspensão da publicidade terá de fixar expressamente a sua duração, que não poderá ultrapassar os 60 dias.
+
+6 - O acto que aplique as medidas cautelares a que se refere o n.º 1 poderá determinar a sua publicitação, a expensas do anunciante, do titular ou do concessionário do suporte publicitário, conforme os casos, fixando os termos da respectiva difusão.
+
+7 - Quando a gravidade do caso o justifique ou daí possa resultar a minimização dos efeitos da publicidade ilícita, pode a entidade referida no n.º 1 ordenar ao anunciante, ao titular ou ao concessionário do suporte publicitário, conforme os casos, a difusão, a expensas suas, de publicidade correctora, determinando os termos da respectiva difusão.
+
+8 - Do acto que ordena a aplicação das medidas cautelares a que se refere o n.º 1 cabe recurso, nos termos da lei geral.
+
+9 - O regime previsto no presente artigo também se aplica à publicidade de ideias de conteúdo político ou religioso.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 275/98 - Diário da República n.º 208/1998, Série I-A de 1998-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1998-243884)
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6/95 - Diário da República n.º 14/1995, Série I-A de 1995-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1995-146566)
+
+###### Artigo 42.º — Legitimidade de profissionais e concorrentes
+
+Qualquer profissional ou concorrente com interesse legítimo em lutar contra a publicidade enganosa e garantir o cumprimento das disposições em matéria de publicidade comparativa pode suscitar a intervenção da Direcção-Geral do Consumidor para efeitos do disposto no artigo anterior.
+
+> Aditado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 57/2008 - Diário da República n.º 60/2008, Série I de 2008-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504), em vigor a partir de 2008-04-01
+
+###### Artigo 43.º — Comunicação dirigida exclusivamente a profissionais
+
+O disposto nos artigos 10.º, 11.º e 16.º do presente Código aplica-se apenas à publicidade que não tenha como destinatários os consumidores.
+
+> Aditado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 57/2008 - Diário da República n.º 60/2008, Série I de 2008-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2008-246504), em vigor a partir de 2008-04-01

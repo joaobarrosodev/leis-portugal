@@ -1,0 +1,321 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:572454:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-131008022",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2014-572454",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-02-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "131003003",
+    "131003004",
+    "131003005",
+    "131003006",
+    "131003007",
+    "131003008",
+    "131003009",
+    "131003010",
+    "131003011",
+    "131003012",
+    "131003013",
+    "131003014",
+    "131003015",
+    "131003016",
+    "131003017",
+    "131003018",
+    "131003019",
+    "131003020",
+    "131003021",
+    "131003022"
+   ]
+  },
+  {
+   "date": "2020-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130954977:por",
+     "title": "Decreto Legislativo Regional n.º 9/2020/A",
+     "published": "2020-04-01",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/9-2020-130954977"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "131003003",
+    "131003004",
+    "131003005",
+    "131003025",
+    "131003026",
+    "131003008",
+    "131003009",
+    "131003027",
+    "131003028",
+    "131003012",
+    "131003013",
+    "131003029",
+    "131003015",
+    "131003030",
+    "131003017",
+    "131003018",
+    "131003019",
+    "131003020",
+    "131003024",
+    "131003022",
+    "131003023"
+   ]
+  }
+ ],
+ "fragments": {
+  "131003003": {
+   "fragment_id": "131008023",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 3/2014/A\n\nCRIA O PROGRAMA REGIONAL DE APOIO ÀS SOCIEDADES RECREATIVAS E FILARMÓNICAS DA REGIÃO AUTÓNOMA DOS AÇORES\n\nAs sociedades recreativas e filarmónicas na Região Autónoma dos Açores têm uma relevante importância social, cultural e recreativa.\n\nAs diversas atividades que estas desenvolvem, em particular, na vertente musical, através das bandas filarmónicas, representam a cultura do Povo Açoriano e são fundamentais para a manutenção das tradições culturais e para a formação de muitos jovens.\n\nNesse âmbito, estas coletividades dão um enorme contributo para o enriquecimento socioafetivo dos jovens formando-os artisticamente.\n\nAs sociedades recreativas e filarmónicas não esgotam, contudo, a sua atividade nas ações das bandas filarmónicas tendo as suas sedes sociais um caráter social e recreativo de grande relevo na sociedade Açoriana.\n\nEstas coletividades são as organizações associativas mais antigas da Região Autónoma dos Açores e têm mantido na generalidade uma atividade constante e regular na divulgação dos valores identitários da cultura Açoriana e cujo mérito e persistência importa apoiar na proporção da sua atividade.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, do n.º 1 do artigo 37.º e do artigo 63.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "131003004": {
+   "fragment_id": "131008024",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma cria o Programa Regional de Apoio às Sociedades Recreativas e Filarmónicas da Região Autónoma dos Açores, doravante designado por SOREFIL."
+  },
+  "131003005": {
+   "fragment_id": "131008025",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO SOREFIL visa apoiar a atividade das bandas musicais das sociedades recreativas e filarmónicas da Região Autónoma dos Açores."
+  },
+  "131003006": {
+   "fragment_id": "131008026",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nConstituem objetivos do SOREFIL:\n\na) Apoio à aquisição de instrumentos musicais utilizados única e exclusivamente na prossecução da sua atividade cultural;\n\nb) Apoio à aquisição de fardamento utilizado, única e exclusivamente, na prossecução da sua atividade cultural;\n\nc) Apoio à aquisição de repertório a utilizar, única e exclusivamente, na prossecução da sua atividade cultural;\n\nd) Apoio à conservação, manutenção e reparação de instrumentos musicais."
+  },
+  "131003007": {
+   "fragment_id": "131008027",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Natureza dos apoios\n\n1 - Os apoios a conceder ao abrigo do SOREFIL revestem a natureza de fundo perdido e correspondem até 25% dos encargos referidos no artigo anterior.\n\n2 - Os apoios a conceder no âmbito do n.º 1 abrangem igualmente as seguintes despesas:\n\na) Despesas correntes com fornecimento de eletricidade para as sociedades recreativas e filarmónicas que têm sede própria, bem como, uma atividade cultural regular até um máximo de 25% do montante do apoio concedido;\n\nb) Despesa mensal com os honorários do maestro desde que o mesmo desempenhe a sua atividade, exclusivamente, na sociedade recreativa e filarmónica que se candidata, a qual desenvolva uma atividade cultural regular até um máximo de 25% do montante do apoio concedido."
+  },
+  "131003008": {
+   "fragment_id": "131008028",
+   "type": 11,
+   "heading": "Artigo 5.º — Concessão dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Concessão dos apoios\n\n1 - Os apoios concedidos ao abrigo do SOREFIL decorrem da análise e aprovação de candidatura própria submetida ao departamento do Governo Regional com competência em matéria de cultura.\n\n2 - A concessão dos apoios reveste a forma de contrato de financiamento."
+  },
+  "131003009": {
+   "fragment_id": "131008029",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos\n\nPodem candidatar-se ao SOREFIL as Sociedades Recreativas e Filarmónicas que cumpram cumulativamente os seguintes requisitos:\n\na) Tenham sede na Região Autónoma dos Açores;\n\nb) Tenham regularizada a sua situação contributiva perante a segurança social;\n\nc) Tenham regularizada a sua situação contributiva perante a administração fiscal;\n\nd) Tenham regularizada a sua situação perante a entidade que atribui o subsídio."
+  },
+  "131003010": {
+   "fragment_id": "131008030",
+   "type": 11,
+   "heading": "Artigo 7.º — Instrução da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instrução da candidatura\n\n1 - O pedido de apoio é efetuado em formulário próprio, em modelo a aprovar em diploma regulamentar, e é apresentado junto da direção regional com competência em matéria de cultura e respetivos serviços externos (museus e bibliotecas públicas e arquivos regionais).\n\n2 - O formulário de candidatura pode ser remetido por qualquer meio, acompanhado pelos documentos genéricos e obrigatórios.\n\n3 - Os documentos referidos no número anterior são os seguintes:\n\na) Texto descritivo da atividade proposta;\n\nb) Justificação do interesse cultural da atividade;\n\nc) Orçamento discriminado;\n\nd) Curriculum da coletividade;\n\ne) Relatório das atividades desenvolvidas no ano anterior (caso tenham sido objeto de apoio por parte da direção regional com competência na área da cultura no ano anterior);\n\nf) Documento bancário com o NIB do candidato;\n\ng) Fotocópia do cartão de contribuinte da coletividade e do responsável pelo projeto;\n\nh) Fotocópia do bilhete de identidade/cartão de cidadão do responsável pelo projeto;\n\ni) Declaração comprovativa da situação contributiva regularizada perante a instituição de Previdência ou Segurança Social;\n\nj) Certidão das Finanças.\n\n4 - A direção regional com competência em matéria de cultura pode solicitar aos requerentes, sempre que considere necessário, informações detalhadas e documentos adicionais."
+  },
+  "131003011": {
+   "fragment_id": "131008031",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazo de apresentação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prazo de apresentação dos pedidos de apoio\n\n1 - O prazo de entrega de candidaturas será definido, anualmente, por despacho do membro do Governo Regional com competência em matéria de cultura, até ao dia 31 de janeiro, abrangendo as atividades a desenvolver no ano seguinte.\n\n2 - Após o despacho acima referido, será publicitado, em simultâneo, um aviso de abertura, no Jornal Oficial, em três jornais de expansão regional, no Portal Cultura Açores e no Portal do Governo Regional dos Açores, com a seguinte informação:\n\na) Destinatários do apoio;\n\nb) Montante financeiro global disponível."
+  },
+  "131003012": {
+   "fragment_id": "131008032",
+   "type": 11,
+   "heading": "Artigo 9.º — Exclusão dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exclusão dos pedidos de apoio\n\n1 - A direção regional com competência em matéria de cultura deve excluir os pedidos de apoio quando os requerentes:\n\na) Entreguem as candidaturas fora do prazo estabelecido;\n\nb) Se encontrem em estado de inatividade, de liquidação ou de cessação de atividade;\n\nc) Não tenham a sua situação regularizada perante a Direção Regional da Cultura;\n\nd) Prestem falsas declarações;\n\ne) Não entreguem, na totalidade, os documentos exigidos, no prazo fixado;\n\nf) Não respondam adequadamente às solicitações referidas neste diploma, no prazo de dez dias úteis;\n\ng) Não reúnam as condições de acesso previstas;\n\nh) Tenham sido apoiados integralmente por outras entidades oficiais."
+  },
+  "131003013": {
+   "fragment_id": "131008033",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comissão de apreciação\n\n1 - As candidaturas serão apreciadas por uma comissão a constituir pelo membro do Governo Regional com competência em matéria de cultura.\n\n2 - No prazo de trinta dias, a contar do termo do prazo de apresentação de candidaturas, as comissões de apreciação deliberam sobre as candidaturas, lavrando uma ata fundamentada."
+  },
+  "131003014": {
+   "fragment_id": "131008034",
+   "type": 11,
+   "heading": "Artigo 11.º — Concessão de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Concessão de apoio\n\n1 - O membro do Governo Regional com competência em matéria de cultura decide no prazo de quinze dias úteis a contar da data de receção das atas, contendo as deliberações finais das comissões de apreciação, sobre a viabilidade do apoio e do montante a atribuir.\n\n2 - Sempre que necessário, o membro do Governo Regional com competência em matéria de cultura pode estabelecer um limite máximo de apoio financeiro, de acordo com a disponibilidade orçamental anual definida para o programa.\n\n3 - Os apoios previstos no presente diploma, devem ser realizados no ano civil em que são concedidos.\n\n4 - O apoio atribuído a qualquer título ao abrigo do presente diploma caducará caso se verifique uma das seguintes situações:\n\na) Decorridos sessenta dias após a comunicação da atribuição não tenha sido devolvido o contrato assinado;\n\nb) O beneficiário não cumpra qualquer das obrigações estabelecidas no presente diploma e no contrato assinado;\n\nc) As atividades executadas não correspondam às descritas e aprovadas aquando da candidatura;\n\nd) Decorridos trinta dias após a data prevista para a conclusão da atividade não tenha sido entregue o relatório final.\n\n5 - A concessão dos apoios só produz efeitos após a sua publicação no Jornal Oficial."
+  },
+  "131003015": {
+   "fragment_id": "131008035",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações dos requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Obrigações dos requerentes\n\n1 - Os requerentes ficam sujeitos às seguintes obrigações:\n\na) Executar os projetos nos moldes e prazos previstos na candidatura;\n\nb) Cumprir as obrigações legais, designadamente as fiscais;\n\nc) Fornecer, nos prazos estabelecidos, todas as informações, documentos ou outros elementos que lhes sejam solicitados ao abrigo do disposto no presente diploma;\n\nd) Prestar as contrapartidas no âmbito da atividade cultural desenvolvida que forem estabelecidas no documento formalizador da concessão dos apoios;\n\ne) Entregar cópia do balanço e demonstração de resultados do ano anterior ou documento probatório equivalente, aprovado em assembleia-geral ou similar.\n\n2 - As contrapartidas previstas na alínea d) do número anterior podem consistir nomeadamente na:\n\na) Cedência de instalações;\n\nb) Disponibilização de ingressos;\n\nc) Realização de espetáculos."
+  },
+  "131003016": {
+   "fragment_id": "131008036",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acompanhamento e controlo\n\n1 - Compete ao departamento do Governo Regional com competência em matéria de cultura efetuar o controlo da aplicação dos apoios.\n\n2 - O departamento do Governo Regional com competência em matéria de cultura pode, sempre que o julgue oportuno, promover fiscalizações junto das entidades beneficiárias, obrigando-se estas a facultar toda a informação e apoio que lhes vier a ser solicitado.\n\n3 - Em caso de incumprimento das obrigações mencionadas no artigo 12.º, para além de haver lugar à restituição do apoio já liquidado, acrescido de juros legais, nos termos aplicáveis às dívidas ao Estado, os candidatos ficam impedidos de apresentar qualquer candidatura aos apoios da Direção Regional da Cultura que tenham sido abertos no ano em curso, bem como nos dois anos civis subsequentes.\n\n4 - Os juros contam-se a partir da data de pagamento do apoio até à data do despacho em que o membro do Governo Regional com competência em matéria de cultura reconhecer o incumprimento."
+  },
+  "131003017": {
+   "fragment_id": "131008037",
+   "type": 11,
+   "heading": "Artigo 14.º — Relatório final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Relatório final\n\n1 - O relatório final, de execução técnica e financeira, deverá ser um documento detalhado e pormenorizado, com informação exaustiva, sintética e fundamentada, respeitando o(s) projeto(s)/atividade(s) desenvolvido(a)s apresentado(s) na candidatura e dando cumprimento ao contrato de financiamento.\n\n2 - O relatório final deverá ser remetido à direção regional com competência em matéria de cultura, até trinta dias após a conclusão do projeto.\n\n3 - O processo de candidatura ficará concluído após a análise e aprovação do relatório final pelos serviços da direção regional com competência em matéria de cultura.\n\n4 - O relatório técnico e financeiro deverá conter, no mínimo, os seguintes itens:\n\na) Cópias dos documentos de despesa relativos à totalidade do(s) projeto(s)/atividade(s) desenvolvido(a)s;\n\nb) A descrição das despesas efetuadas ao abrigo do subsídio atribuído pela direção regional com competência em matéria de cultura, de acordo com o quadro abaixo:\n\n(ver documento original)\n\nc) Descrição do custo total do(s) projeto(s)/atividade(s) desenvolvido(a)s, do valor do financiamento próprio, do valor de outros financiamentos, do valor do subsídio atribuído pela direção regional com competência em matéria de cultura, e se for o caso, do valor a ser devolvido à direção regional com competência em matéria de cultura, de acordo com o quadro abaixo:\n\n(ver documento original)\n\nd) Justificação de eventuais desvios financeiros.\n\n5 - O relatório final, bem como a análise efetuada pelos serviços da direção regional com competência em matéria de cultura, serão remetidos à Comissão de Apreciação para redigirem um relatório que sintetize a avalização da execução do programa de atividades e respetiva gestão e execução financeira."
+  },
+  "131003018": {
+   "fragment_id": "131008038",
+   "type": 11,
+   "heading": "Artigo 15.º — Relatório de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Relatório de avaliação\n\nO relatório redigido pela Comissão de Apreciação é entregue ao diretor regional com competência em matéria de cultura, que elaborará um relatório de avaliação do qual consta a apreciação da comissão bem como a apreciação final dos serviços técnicos da direção regional com competência em matéria de cultura, a ser enviado a cada uma das entidades beneficiárias."
+  },
+  "131003019": {
+   "fragment_id": "131008039",
+   "type": 11,
+   "heading": "Artigo 16.º — Relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Relatório anual\n\nO departamento do Governo Regional com competência em matéria de cultura elabora e remete à Assembleia Legislativa da Região Autónoma dos Açores, anualmente, um relatório detalhado sobre os apoios concedidos, a sua execução e os seus destinatários, após aprovação do relatório de avaliação previsto no artigo 15.º."
+  },
+  "131003020": {
+   "fragment_id": "131008040",
+   "type": 11,
+   "heading": "Artigo 17.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Encargos\n\n1 - Os encargos decorrentes da aplicação do presente diploma são inscritos anualmente no plano do departamento do Governo Regional com competência em matéria de cultura.\n\n2 - Quando não haja previsão financeira suficiente para fazer face a encargos respeitantes a candidaturas aprovadas, as despesas transitam para o ano financeiro seguinte, tendo enquadramento prioritário."
+  },
+  "131003021": {
+   "fragment_id": "131008041",
+   "type": 11,
+   "heading": "Artigo 18.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Disposições finais\n\nSerão estabelecidas, por decreto regulamentar regional, todas as especificidades resultantes da entrada em vigor do presente diploma."
+  },
+  "131003022": {
+   "fragment_id": "131008042",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "131003025": {
+   "fragment_id": "131008026",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": "2020-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+   ],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nConstituem objetivos do SOREFIL:\n\na) Apoio à aquisição de instrumentos musicais utilizados única e exclusivamente na prossecução da sua atividade cultural;\n\nb) Apoio à aquisição de fardamento utilizado, única e exclusivamente, na prossecução da sua atividade cultural;\n\nc) Apoio à aquisição de repertório a utilizar, única e exclusivamente, na prossecução da sua atividade cultural;\n\nd) Apoio à conservação, manutenção e reparação de instrumentos musicais, até ao limite de três instrumentos por ano.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+  },
+  "131003026": {
+   "fragment_id": "131008027",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza dos apoios",
+   "in_force_from": "2020-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+   ],
+   "markdown": "###### Artigo 4.º — Natureza dos apoios\n\n1 - Os apoios a conceder ao abrigo do SOREFIL revestem a natureza de fundo perdido e correspondem até 50 % dos encargos referidos no artigo anterior.\n\n2 - Os apoios a conceder no âmbito do n.º 1 abrangem igualmente as seguintes despesas:\n\na) Despesas correntes com fornecimento de eletricidade para as sociedades recreativas e filarmónicas que têm sede própria bem como uma atividade cultural regular;\n\nb) Despesa mensal com os honorários do maestro desde que o mesmo desempenhe a sua atividade na sociedade recreativa e filarmónica que se candidata, a qual desenvolva uma atividade cultural regular.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+  },
+  "131003027": {
+   "fragment_id": "131008030",
+   "type": 11,
+   "heading": "Artigo 7.º — Instrução da candidatura",
+   "in_force_from": "2020-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+   ],
+   "markdown": "###### Artigo 7.º — Instrução da candidatura\n\n1 - O pedido de apoio é efetuado em formulário próprio, em modelo a aprovar por portaria do membro do Governo Regional com competência em matéria de cultura, e é apresentado junto da respetiva direção regional.\n\n2 - O formulário de candidatura pode ser remetido por qualquer meio, acompanhado pelos documentos genéricos e obrigatórios.\n\n3 - Os documentos referidos no número anterior são os seguintes:\n\na) Texto descritivo da atividade proposta;\n\nb) Justificação do interesse cultural da atividade;\n\nc) Orçamento discriminado;\n\nd) Curriculum da coletividade;\n\ne) Relatório das atividades desenvolvidas no ano anterior (caso tenham sido objeto de apoio por parte da direção regional com competência na área da cultura no ano anterior);\n\nf) Documento bancário com o NIB do candidato;\n\ng) Fotocópia do cartão de contribuinte da coletividade e do responsável pelo projeto;\n\nh) Fotocópia do bilhete de identidade/cartão de cidadão do responsável pelo projeto;\n\ni) Declaração comprovativa da situação contributiva regularizada perante a instituição de Previdência ou Segurança Social;\n\nj) Certidão das Finanças.\n\n4 - A direção regional com competência em matéria de cultura pode solicitar aos requerentes, sempre que considere necessário, informações detalhadas e documentos adicionais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+  },
+  "131003028": {
+   "fragment_id": "131008031",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazo de apresentação dos pedidos de apoio",
+   "in_force_from": "2020-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+   ],
+   "markdown": "###### Artigo 8.º — Prazo de apresentação dos pedidos de apoio\n\n1 - O prazo de entrega de candidaturas será definido, anualmente, por despacho do membro do Governo Regional com competência em matéria de cultura, até ao dia 31 de janeiro.\n\n2 - Após o despacho acima referido, será publicitado, em simultâneo, um aviso de abertura, no Jornal Oficial, em três jornais de expansão regional, no Portal Cultura Açores e no Portal do Governo Regional dos Açores, com a seguinte informação:\n\na) Destinatários do apoio;\n\nb) Montante financeiro global disponível.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+  },
+  "131003029": {
+   "fragment_id": "131008034",
+   "type": 11,
+   "heading": "Artigo 11.º — Concessão de apoio",
+   "in_force_from": "2020-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+   ],
+   "markdown": "###### Artigo 11.º — Concessão de apoio\n\n1 - O membro do Governo Regional com competência em matéria de cultura decide no prazo de quinze dias úteis a contar da data de receção das atas, contendo as deliberações finais das comissões de apreciação, sobre a viabilidade do apoio e do montante a atribuir.\n\n2 - Sempre que necessário, o membro do Governo Regional com competência em matéria de cultura pode estabelecer um limite máximo de apoio financeiro, de acordo com a disponibilidade orçamental anual definida para o programa.\n\n3 - Os apoios previstos no presente diploma, devem ser realizados no ano civil em que são concedidos.\n\n4 - O apoio atribuído a qualquer título ao abrigo do presente diploma caducará caso se verifique uma das seguintes situações:\n\na) Decorridos sessenta dias após a comunicação da atribuição não tenha sido devolvido o contrato assinado;\n\nb) O beneficiário não cumpra qualquer das obrigações estabelecidas no presente diploma e no contrato assinado;\n\nc) As atividades executadas não correspondam às descritas e aprovadas aquando da candidatura;\n\nd) Decorridos trinta dias após a data prevista para a conclusão da atividade não tenha sido entregue o relatório final.\n\n5 - A concessão dos apoios só produz efeitos após a sua publicação no Jornal Oficial.\n\n6 - O apoio poderá ser pago, sob a forma de adiantamento, até 80 % do montante total atribuído.\n\n7 - A totalidade do apoio ou, como previsto no número anterior, o remanescente é pago quando os beneficiários apresentarem:\n\na) Faturas, recibos e comprovativos de pagamento das despesas suportadas;\n\nb) Relatório final sobre a execução e resultados, considerando os objetivos inicialmente previstos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+  },
+  "131003030": {
+   "fragment_id": "131008036",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento e controlo",
+   "in_force_from": "2020-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+   ],
+   "markdown": "###### Artigo 13.º — Acompanhamento e controlo\n\n1 - Compete ao departamento do Governo Regional com competência em matéria de cultura efetuar o controlo da aplicação dos apoios.\n\n2 - O departamento do Governo Regional com competência em matéria de cultura pode, sempre que o julgue oportuno, promover fiscalizações junto das entidades beneficiárias, obrigando-se estas a facultar toda a informação e apoio que lhes vier a ser solicitado.\n\n3 - Em caso de incumprimento das obrigações mencionadas no artigo 12.º, ficam os candidatos obrigados à restituição do apoio já liquidado, acrescido de juros legais, nos termos aplicáveis às dívidas ao Estado.\n\n4 - Os juros contam-se a partir da data de pagamento do apoio até à data do despacho em que o membro do Governo Regional com competência em matéria de cultura reconhecer o incumprimento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+  },
+  "131003024": {
+   "fragment_id": "131008041",
+   "type": 11,
+   "heading": "Artigo 18.º — Disposições finais",
+   "in_force_from": "2020-04-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+   ],
+   "markdown": "###### Artigo 18.º — Disposições finais\n\nSerão estabelecidas, por decreto regulamentar regional, todas as especificidades resultantes da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 9/2020/A - Diário da República n.º 65/2020, Série I de 2020-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2020-130954977), em vigor a partir de 2020-04-02"
+  },
+  "131003023": {
+   "fragment_id": "131008043",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 14 de janeiro de 2014.\n\nA Presidente da Assembleia Legislativa, Ana Luísa Luís.\n\nAssinado em Angra do Heroísmo em 29 de janeiro de 2014.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  }
+ }
+}

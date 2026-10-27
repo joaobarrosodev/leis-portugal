@@ -1,0 +1,278 @@
+---
+schema_version: '1.0'
+id: pt:dre:475566:por
+title: Portaria n.º 641/95
+short_title: null
+summary: Altera os anexos da Portaria n.º 241/90, de 4 de Abril, que estabelece os métodos de pesquisa de triquinas em carnes
+  frescas de suíno importadas de países terceiros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 641/95
+official_date: null
+publication_date: '1995-06-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 142/1995, Série I-B de 1995-06-22
+  number: '142'
+  series: I
+  supplement: null
+  pages: 4066 - 4068
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/06/142b00/40664068.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/641/1995/06/22/p/dre/pt/html
+  oj: null
+  dre: '475566'
+  dre_path: /dr/detalhe/portaria/641-1995-475566
+  internal: pt:dre:475566:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/641-1995-475566
+  metadata_url: https://data.dre.pt/eli/port/641/1995/06/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/641-1995-475566
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:07:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c0160c64f13f9b6a258831398a9735412fc28873ccae8022cb09187b2c486991
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carne
+- Carne de Suíno
+- CEE
+- Controlo Sanitário
+- Gado Suíno
+- Importação
+relationships:
+- type: amended_by
+  target: pt:dre:346359:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:31977L0096
+  label: null
+  source: http://data.europa.eu/eli/dir/1977/96/oj
+- type: cites
+  target: celex:31994L0059
+  label: null
+  source: http://data.europa.eu/eli/dir/1994/59/oj
+- type: repealed_by
+  target: pt:dre:346359:por
+  label: "Revogada a Port 241/90, de 04-Abr, na redacção do presente diploma, pelo DEC LEI.111/2006.09.06.2006.MADRP, DR.IS-A\
+    \ [112] de 09.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/111-2006-346359
+  date: '2006-06-09'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:07:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 641/95
+
+de 22 de Junho
+
+Considerando o Decreto-Lei n.º 79/90, de 12 de Março, que transpõe para a ordem jurídica interna a Directiva n.º [77/96/CEE](http://data.europa.eu/eli/dir/1977/96/oj?locale=pt), relativa à. pesquisa de triquinas aquando das importações provenientes de países terceiros de carnes frescas de animais, domésticos da espécie suína e a Portaria n.º 241/90, de 4 de Abril, que estabelece as normas técnicas de execução regulamentar do referido decreto-lei;
+
+Considerando a Directiva n.º [94/59/CE](http://data.europa.eu/eli/dir/1994/59/oj?locale=pt), da Comissão, de 2 de Dezembro de 1994, que altera os anexos da Directiva n.º [77/96/CEE](http://data.europa.eu/eli/dir/1977/96/oj?locale=pt), do Conselho, relativa à pesquisa de triquinas aquando das importações provenientes de países terceiros de carnes frescas de animais domésticos da espécie suína:
+
+Manda o Governo, pelo Ministro da Agricultura, ao abrigo do artigo 2.º do Decreto-Lei n.º 79/90, de 12 de Março, que os anexos da Portaria n.º 241/90, de 4 de Abril, sejam alterados da seguinte forma:
+
+## ANEXO I — Método de pesquisa das triquinas
+
+...
+
+VII - Método de digestão automática de amostras colectivas até 35 g
+
+a) ...
+
+b) ...
+
+c) Técnica:
+
+1) Processo de digestão:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) Por último, adicionam-se 7 g de pepsina. A ordem de adição deve ser estritamente respeitada, a fim de evitar a decomposição da pepsina;
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+2) ...
+
+3) ...
+
+4) Utilização de filtros de membrana - cada filtro de membrana policarbonatada só pode ser utilizado cinco vezes. O filtro deve ser sempre voltado entre duas utilizações. Além disso, o filtro deve ser examinado depois de cada utilização, a fim de detectar eventuais danos que o tornem impróprio para utilização posterior;
+
+5) Método a utilizar quando a digestão é incompleta e, em consequência, a filtração não pode ser realizada - quando o processo automático no misturador é efectuado em conformidade com o n.º 1) da alínea c), abrir a tampa da câmara de reacção e verificar se existe espuma ou permanece líquido na câmara. Em caso positivo, proceder do seguinte modo:
+
+a) Fechar a válvula inferior, localizada debaixo da câmara de reacção;
+
+b) Desmontar o suporte do filtro e transferir o filtro de membrana para uma lâmina de microscópio ou uma placa de Petri;
+
+c) Colocar um novo filtro de membrana no suporte do filtro e fazer a sua montagem;
+
+d) Deitar água na câmara de líquido do misturador até que seja coberto o nível mais baixo do sensor;
+
+e) Efectuar o programa automático de limpeza;
+
+f) Depois de ter terminado o programa de limpeza, abrir a tampa da câmara de reacção e verificar se permanecem líquidos;
+
+g) Se a câmara estiver vazia, desmontar o suporte do filtro e transferir o filtro da membrana com uma pinça para uma lâmina de microscópio ou uma placa de Petri;
+
+h) Os dois filtros da membrana são examinados em conformidade com o n.º 2) da alínea c). No caso de os filtros não poderem ser examinados, repetir todo o processo de digestão, utilizando um período de digestão prolongado, em conformidade com o n.º 1) da alínea c);
+
+6) No caso de ser obtido um resultado positivo ou duvidoso, consoante o resultado obtido com a amostra colectiva, deve tomar-se uma outra amostra de 20 g de cada suíno, em conformidade com a alínea b) anterior. Estas amostras são sujeitas a pesquisa, individualmente, em conformidade com o método acima descrito.
+
+...
+
+## ANEXO IV — Tratamento pelo frio
+
+I - Método 1
+
+1 - As carnes importadas congeladas devem ser conservadas nesse estado.
+
+2 - A instalação técnica e a alimentação em energia da câmara frigorífica devem ser tais que a temperatura indicada no n.º 6 possa atingir-se o mais rapidamente possível e mantida em todos os pontos da câmara frigorífica e na carne.
+
+3 - Todas as embalagens isolantes devem ser removidas antes da congelação, salvo se a carne no momento de introdução na câmara tiver já atingido em todos os pontos a temperatura referida no n.º 6.
+
+4 - Os lotes devem ser conservados separadamente na câmara frigorífica e guardados fechados à chave.
+
+5 - Para cada lote devem ser registados o dia e a hora da introdução na câmara frigorífica.
+
+6 - A temperatura da câmara frigorífica deve atingir, pelo menos, 25ºC, deve ser verificada por aparelhos de medida termoeléctrica e registada de modo contínuo e não deve ser medida em corrente de ar frio. Os aparelhos de medida devem ser guardados à chave. Os gráficos devem ter a indicação dos números correspondentes ao registo da inspecção das carnes a importar, bem como do dia e hora do início da congelação, e ser conservados um ano.
+
+7 - As carnes cujo diâmetro de espessura for igual ou inferior a 25 cm devem ser congeladas, sem interrupção, durante, pelo menos, duzentas e quarenta horas, e no caso das cujo diâmetro ou espessura estiver compreendido entre os 25 cm e 50 cm, pelo menos, durante quatrocentas e oitenta horas. As carnes cujo diâmetro ou espessura for superior a estas dimensões não devem ser submetidas a este processo de congelação. A duração de congelação calcula-se a partir do momento em que for atingida na câmara a temperatura referida no n.º 6.
+
+II - Método 2
+
+Devem ser observadas as disposições gerais constantes dos n.os 1 a 5 do método 1, respeitadas as seguintes combinações de tempo e de temperatura:
+
+1 - As carnes cujo diâmetro ou espessura é igual ou inferior a 15 cm devem ser congeladas nas seguintes condições combinadas de tempo e temperatura:
+
+20 dias a - 15ºC;
+
+10 dias a - 23ºC;
+
+6 dias a - 29ºC.
+
+2 - As carnes cujo diâmetro ou espessura está compreendida entre 15 cm e 50 cm deve ser congelada nas seguintes condições combinadas de tempo e temperatura:
+
+30 dias a - 15ºC;
+
+20 dias a - 25ºC;
+
+12 dias a - 29ºC.
+
+A temperatura na câmara frigorífica não deve exceder a temperatura de inactivação adoptada.
+
+A temperatura deve ser medida por aparelhos de medição termoeléctrica aferidos e constantemente registada, não devendo ser medida na corrente de ar frio. Os aparelhos de medição devem ser guardados em local, fechado à chave. Os gráficos devem trazer à indicação dos números correspondentes do registo da inspecção das carnes para importação, assim como do dia e da hora do início e do fim da congelação, e ser conservados durante um ano.
+
+III - Método 3
+
+Controlo da temperatura no centro das peças de carne
+
+1 - Nos casos em que é controlada a temperatura no centro das peças de carne e em que se encontram preenchidas as condições estabelecidas nos n.os 2 a 6 do método 1, serão aplicáveis as seguintes condições combinadas de tempo e temperatura:
+
+Cento e seis horas a - 18ºC;
+
+Oitenta e duas horas a - 21ºC;
+
+Sessenta e três horas a - 23,5ºC;
+
+Quarenta e oito horas a - 26ºC;
+
+Trinta e cinco horas a - 29ºC;
+
+Vinte e duas horas a - 32ºC;
+
+Oito horas a - 35ºC;
+
+Meia hora a - 37ºC.
+
+2 - As carnes introduzidas já congeladas devem ser mantidas nesse estado.
+
+3 - Os lotes devem ser conservados separadamente na câmara frigorífica e fechados à chave.
+
+4 - Para cada lote, o dia e a hora da introdução na câmara frigorífica devem ser anotados.
+
+5 - A instalação técnica e a alimentação em energia da câmara frigorífica devem ser tais que a temperatura indicada no n.º 1 possa ser atingida muito rapidamente e mantida em todas as partes da carne.
+
+6 - A temperatura deve ser medida por aparelhos de medição termoeléctrica aferidos e constantemente registada. A sonda do termómetro deve ser colocada no centro de uma peça de carne calibrada de dimensão não inferior à peça de carne mais espessa a congelar. Esta peça de carne calibrada deve ser colocada no sítio menos favorável da câmara frigorífica que não esteja próximo do dispositivo de refrigeração nem directamente na corrente de ar frio. Os aparelhos de medição devem ser guardados em local fechado à chave. Os gráficos devem trazer a indicação dos números correspondentes do registo da inspecção de carnes para importação assim como do dia e da hora do início e do fim da congelação e ser conservados durante um ano.
+
+## ANEXO V — Pesquisa de triquina e congelação de carne de cavalo
+
+1 - Pesquisa de triquina
+
+A pesquisa de triquina na carne de cavalo deve ser realizada pelo método de digestão indicado no anexo I, com as seguintes alterações:
+
+a) Devem ser retiradas amostras de, pelo menos, 10 g de musculatura da língua ou dos músculos mastigadores. Na ausência de musculatura da língua ou dos músculos mastigadores, deve ser retirada uma amostra do mesmo tamanho de um pilar do diafragma, na zona de transição entre a parte muscular e parte tendinosa. O músculo deve estar isento de tecido conjuntivo e de gordura;
+
+b) Caso seja aplicado o método da digestão artificial de amostras colectivas em conformidade com os pontos III a VII do anexo I, deve ser digerida uma amostra de 5 g. Para cada digestão o peso total do músculo, por ensaio, não deve exceder 100 g para os métodos III, IV, V e VI do anexo I ou 35 g para o método VII do anexo I;
+
+c) Em caso de resultado positivo, deve-se conservar uma amostra adicional de 10 g para um exame independente posterior.
+
+2 - Congelação da carne de cavalo
+
+Para matar as triquinas por congelação, a carne de cavalo deve ser submetida a um tratamento pelo frio em conformidade com um dos métodos descritos no anexo IV.
+
+Ministério da Agricultura.
+
+Assinada em 30 de Maio de 1995.
+
+Pelo Ministro da Agricultura, Álvaro Santos dos Amaro, Secretário de Estado da Agricultura.

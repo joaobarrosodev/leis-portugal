@@ -1,0 +1,636 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145185:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-75309392",
+ "dre_path": "/dr/detalhe/decreto-lei/123-2011-145185",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75309320",
+    "75309321",
+    "75309322",
+    "75309323",
+    "75309324",
+    "75309325",
+    "75309326",
+    "75309327",
+    "75309328",
+    "75309329",
+    "75309330",
+    "75309331",
+    "75309332",
+    "75309333",
+    "75309334",
+    "75309335",
+    "75309336",
+    "75309337",
+    "75309338",
+    "75309339",
+    "75309340",
+    "75309341",
+    "75309342",
+    "75309343",
+    "75309344",
+    "75309345",
+    "75309346",
+    "75309347",
+    "75309348",
+    "75309349",
+    "75309350",
+    "75309351",
+    "75309352",
+    "75309353",
+    "75309354",
+    "75309355",
+    "75309356",
+    "75309357",
+    "75309359",
+    "75309360",
+    "75309361"
+   ]
+  },
+  {
+   "date": "2016-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75307906:por",
+     "title": "Decreto-Lei n.º 61/2016",
+     "published": "2016-09-12",
+     "dre_path": "/dr/detalhe/decreto-lei/61-2016-75307906"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "75309320",
+    "75309321",
+    "75309322",
+    "75309367",
+    "75309324",
+    "75309325",
+    "75309326",
+    "75309327",
+    "75309328",
+    "75309329",
+    "75309330",
+    "75309331",
+    "75309332",
+    "75309333",
+    "75309334",
+    "75309335",
+    "75309336",
+    "75309337",
+    "75309338",
+    "75309339",
+    "75309340",
+    "75309341",
+    "75309342",
+    "75309343",
+    "75309344",
+    "75309345",
+    "75309346",
+    "75309347",
+    "75309348",
+    "75309349",
+    "75309350",
+    "75309351",
+    "75309352",
+    "75309353",
+    "75309354",
+    "75309355",
+    "75309356",
+    "75309357",
+    "75309358",
+    "75309359",
+    "75309360",
+    "75309361"
+   ]
+  },
+  {
+   "date": "2017-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108028571:por",
+     "title": "Lei n.º 89/2017",
+     "published": "2017-08-21",
+     "dre_path": "/dr/detalhe/lei/89-2017-108028571"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "75309320",
+    "75309321",
+    "75309322",
+    "75309367",
+    "75309324",
+    "75309325",
+    "75309326",
+    "75309327",
+    "75309328",
+    "75309329",
+    "75309330",
+    "75309331",
+    "75309332",
+    "75309333",
+    "75309334",
+    "75309335",
+    "75309336",
+    "75309337",
+    "75309338",
+    "75309339",
+    "108042216",
+    "75309341",
+    "75309342",
+    "75309343",
+    "75309344",
+    "75309345",
+    "75309346",
+    "75309347",
+    "75309348",
+    "75309349",
+    "75309350",
+    "75309351",
+    "75309352",
+    "75309353",
+    "75309354",
+    "75309355",
+    "75309356",
+    "75309357",
+    "75309358",
+    "75309359",
+    "75309360",
+    "75309361"
+   ]
+  },
+  {
+   "date": "2022-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184108564:por",
+     "title": "Decreto-Lei n.º 38/2022",
+     "published": "2022-05-30",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2022-184108564"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "75309320",
+    "75309321",
+    "75309322",
+    "75309367",
+    "75309324",
+    "75309325",
+    "75309326",
+    "75309327",
+    "75309328",
+    "75309329",
+    "75309330",
+    "75309331",
+    "75309332",
+    "75309333",
+    "184183092",
+    "75309335",
+    "75309336",
+    "75309337",
+    "75309338",
+    "184183093",
+    "108042216",
+    "75309341",
+    "75309342",
+    "75309343",
+    "75309344",
+    "75309345",
+    "75309346",
+    "75309347",
+    "75309348",
+    "75309349",
+    "75309350",
+    "75309351",
+    "75309352",
+    "75309353",
+    "75309354",
+    "75309355",
+    "75309356",
+    "75309357",
+    "75309358",
+    "184183094",
+    "184183095",
+    "75309361"
+   ]
+  }
+ ],
+ "fragments": {
+  "75309320": {
+   "fragment_id": "75309393",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 123/2011\n\nde 29 de Dezembro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nO sistema de Justiça é um pilar do Estado de Direito e uma das funções de soberania fundamentais do Estado.\n\nNesse contexto, o Ministério da Justiça deve contribuir para a qualificação e o desenvolvimento sustentável do Estado de Direito, para a reafirmação do valor universal dos direitos do homem, para o reforço da cidadania e para a promoção de uma sociedade assente em princípios e valores democráticos, éticos e de justiça. Deve garantir a tutela judicial efectiva dos interesses legítimos dos cidadãos, em particular dos grupos mais frágeis da sociedade. Deve criar condições ao pleno exercício dos direitos, liberdades e garantias e estabelecer os mecanismos para que a ninguém seja dificultado ou impedido, em razão da sua condição social ou cultural, ou por insuficiência de meios económicos, o conhecimento, o exercício ou a defesa dos seus direitos. Deve pugnar pelo reforço da independência das Magistraturas Judiciais, da autonomia do Ministério Público e o pleno exercício das profissões jurídicas. Deve, enfim, contribuir para a construção de uma sociedade mais livre, igualitária e justa.\n\nA situação económica actual obriga a que se enfatize o esforço de racionalização do sistema de Justiça, em especial dos recursos humanos e materiais disponíveis, no respeito dos princípios atrás enunciados.\n\nNessa medida, e numa lógica da optimização dos meios imprescindíveis à salvaguarda das legítimas exigências de qualidade e eficiência que os cidadãos e as empresas demandam do sistema de Justiça, importava capacitar e potenciar os serviços e organismos do Ministério da Justiça de modo a estarem aptos a darem uma resposta mais eficiente às exigências sectoriais que deles se exige.\n\nA presente orgânica visa adoptar uma estrutura que seja a expressão da necessidade de encontrar um modelo de organização mais reduzido e mais eficiente, e que, simultaneamente, seja capaz de cumprir os objectivos fundamentais da acção governativa. Mas visa também introduzir correcções e ajustamentos tendo em vista a necessidade de incrementar a produtividade e a eficácia da acção administrativa do Ministério e dos organismos nele integrados.\n\nCumprindo esse desiderato, foram revisitadas e ajustadas as atribuições e competências de todos os serviços e organismos do Ministério, de modo a potenciar a sua operacionalidade. Nesse quadro, foram extintos ou reestruturados, por fusão, alguns serviços, tendo-se reforçado áreas de intervenção e competências de outros.\n\nÉ o caso da Direcção-Geral da Política de Justiça que, através do respectivo Gabinete para a Resolução Alternativa de Litígios assume a responsabilidade de optimizar o funcionamento dos meios de resolução alternativa e extrajudicial de conflitos.\n\nA Direcção-Geral dos Serviços Prisionais e a Direcção-Geral da Reinserção Social, por seu turno, dão origem a um único organismo - a Direcção-Geral da Reinserção Social e dos Serviços Prisionais -, o qual vai permitir a criação de sinergias e uma maior articulação entre as áreas da reinserção social e da execução das medidas privativas de liberdade, abrindo caminho às necessárias reformas nos domínios da justiça penal e do direito dos menores.\n\nCom o objectivo de alcançar uma gestão mais activa dos seus recursos, o Instituto das Tecnologias de Informação na Justiça, I. P., e o Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P., são extintos, sendo as suas atribuições racionalizadas e integradas num novo instituto.\n\nAssim:\n\nNos termos do disposto no n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "75309321": {
+   "fragment_id": "75309394",
+   "type": 1,
+   "heading": "Capítulo I — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Missão e atribuições"
+  },
+  "75309322": {
+   "fragment_id": "75309395",
+   "type": 11,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\n1 - O Ministério da Justiça, abreviadamente designado por MJ, é o departamento governamental que tem por missão a concepção, condução, execução e avaliação da política de justiça definida pela Assembleia da República e pelo Governo.\n\n2 - O MJ, no âmbito das suas atribuições, assegura as relações do Governo com os tribunais e o Ministério Público, o Conselho Superior da Magistratura e o Conselho Superior dos Tribunais Administrativos e Fiscais."
+  },
+  "75309323": {
+   "fragment_id": "75309396",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNa prossecução da sua missão, são atribuições do MJ:\n\na) Promover a adopção das medidas adequadas à prossecução da política de Justiça definida pela Assembleia da República e pelo Governo, bem como assegurar o estudo, a elaboração e o acompanhamento da execução das medidas normativas integradas na área da Justiça;\n\nb) Assegurar as relações no domínio da política da Justiça com a União Europeia, outros governos e organizações internacionais, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros e no âmbito dos objectivos fixados para a política externa portuguesa;\n\nc) Assegurar as funções de auditoria, inspecção e fiscalização no âmbito dos serviços integrados no MJ ou relativamente aos organismos na dependência ou sob tutela do ministro;\n\nd) Assegurar o funcionamento adequado do sistema de administração da Justiça no plano judiciário e nos domínios da segurança do tráfego jurídico, da prevenção da litigiosidade e da resolução não jurisdicional de conflitos;\n\ne) Garantir mecanismos adequados de prevenção da criminalidade, de investigação criminal, de execução das medidas penais privativas e não privativas de liberdade, de medidas tutelares educativas e de reinserção social;\n\nf) Assegurar a actividade dos serviços médico-legais e coordenar a actividade e a formação no âmbito da medicina legal e das outras ciências forenses;\n\ng) Promover a protecção da propriedade industrial, a nível nacional e internacional, nomeadamente em colaboração com as organizações internacionais especializadas na matéria das quais Portugal seja membro;\n\nh) Assegurar a formação de magistrados e de quadros necessários para o exercício de funções específicas na área da justiça;\n\ni) Gerir os recursos humanos, financeiros, materiais e os sistemas de informação da justiça, sem prejuízo da competência própria de outros órgãos e departamentos administrativos."
+  },
+  "75309324": {
+   "fragment_id": "75309397",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "75309325": {
+   "fragment_id": "75309398",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\nO MJ prossegue as suas atribuições através de serviços integrados na administração directa do Estado, de organismos integrados na administração indirecta do Estado, de órgãos consultivos e de outras estruturas."
+  },
+  "75309326": {
+   "fragment_id": "75309399",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Administração directa do Estado\n\nIntegram a administração directa do Estado, no âmbito do MJ, os seguintes serviços centrais:\n\na) A Secretaria-Geral;\n\nb) A Inspecção-Geral dos Serviços de Justiça;\n\nc) A Direcção-Geral da Política de Justiça;\n\nd) A Direcção-Geral da Administração da Justiça;\n\ne) A Direcção-Geral de Reinserção e Serviços Prisionais;\n\nf) A Polícia Judiciária."
+  },
+  "75309327": {
+   "fragment_id": "75309400",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Administração indirecta do Estado\n\nProsseguem atribuições do MJ, sob superintendência e tutela do respectivo ministro, os seguintes organismos:\n\na) O Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.;\n\nb) O Instituto dos Registos e do Notariado, I. P.;\n\nc) O Instituto Nacional de Medicina Legal e Ciências Forenses, I. P.;\n\nd) O Instituto Nacional da Propriedade Industrial, I. P."
+  },
+  "75309328": {
+   "fragment_id": "75309401",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos consultivos\n\nÉ órgão consultivo do MJ o Conselho Consultivo da Justiça."
+  },
+  "75309329": {
+   "fragment_id": "75309402",
+   "type": 11,
+   "heading": "Artigo 7.º — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outras estruturas\n\nNo âmbito do MJ funcionam ainda:\n\na) O Centro de Estudos Judiciários;\n\nb) A Comissão de Protecção às Vítimas de Crimes;\n\nc) A Comissão de Programas Especiais de Segurança;\n\nd) A Comissão de Apreciação e Controlo da Actividade dos Administradores da Insolvência."
+  },
+  "75309330": {
+   "fragment_id": "75309403",
+   "type": 1,
+   "heading": "Capítulo III — Serviços, organismos, órgãos consultivos e outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Serviços, organismos, órgãos consultivos e outras estruturas"
+  },
+  "75309331": {
+   "fragment_id": "75309404",
+   "type": 8,
+   "heading": "Secção I — Serviços da administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços da administração directa do Estado"
+  },
+  "75309332": {
+   "fragment_id": "75309405",
+   "type": 11,
+   "heading": "Artigo 8.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Secretaria-Geral\n\n1 - A Secretaria-Geral, abreviadamente designada por SG, tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MJ e aos órgãos e serviços sem estrutura de apoio administrativo, bem como assegurar o apoio aos demais serviços e organismos do MJ nos domínios da gestão e administração de recursos humanos, a contratação pública de bens e serviços, o apoio técnico-jurídico e contencioso e as funções de documentação e arquivo e de relações públicas e protocolo.\n\n2 - A SG prossegue, designadamente, as seguintes atribuições:\n\na) Prestar a assistência técnica e administrativa aos gabinetes dos membros do Governo integrados no MJ, não incluída nas atribuições dos demais serviços do MJ, bem como aos órgãos não dotados de estrutura de apoio administrativo, elaborando e executando os respectivos orçamentos;\n\nb) Promover, coordenar e acompanhar no âmbito do MJ as políticas de organização e de recursos humanos definidas para a Administração Pública, apoiando a tomada de decisão e a respectiva concretização, elaborando os necessários instrumentos de planeamento e de avaliação;\n\nc) Assegurar a gestão e a administração centralizada dos recursos humanos do MJ, designadamente nos domínios do recrutamento e selecção, da administração do pessoal em mobilidade especial e da formação em áreas comuns;\n\nd) Acompanhar a programação e a acção formativa dos trabalhadores dos demais serviços e organismos do MJ, com excepção da formação compreendida na competência exclusiva do Centro de Estudos Judiciários;\n\ne) Assegurar o serviço de consultadoria jurídica aos gabinetes dos membros do Governo integrados no MJ, bem como aos serviços e organismos do ministério, designadamente através da emissão de informações e pareceres, apreciação de reclamações e recursos hierárquicos que àqueles sejam dirigidos e da elaboração de peças processuais em acções e recursos em que sejam visados actos praticados pelos membros do Governo, nas jurisdições comum ou administrativa, bem como actos praticados por dirigentes de serviços do MJ, desde que solicitada pelo membro do Governo competente;\n\nf) Assegurar o acompanhamento de outros assuntos jurídicos atinentes ao MJ, designadamente em sede de execução de decisões judiciais proferidas por tribunais nacionais, comunitários ou internacionais, em matérias relacionadas com o funcionamento dos tribunais, com actuações do MJ não imputáveis a serviço ou organismo determinado, ou de qualquer outra decisão em que a referida execução tenha sido determinada pelo membro do Governo competente;\n\ng) Assegurar, através da unidade ministerial de compras, a contratação pública centralizada de bens e serviços, sem prejuízo da intervenção específica do Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., representando o MJ e conduzindo os respectivos processos aquisitivos, e colaborar com os serviços e organismos do MJ no levantamento e agregação de necessidades;\n\nh) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, modernização e a política de qualidade, no âmbito do MJ, acompanhando os processos de certificação da qualidade;\n\ni) Liquidar, cobrar e registar as receitas próprias;\n\nj) Coordenar as acções referentes à organização e preservação do património e arquivo histórico, promovendo boas práticas de gestão de documentos nos serviços e organismos do MJ e procedendo à recolha, tratamento e conservação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;\n\nl) Organizar e manter um centro de documentação com relevância para a área da Justiça e desenvolver iniciativas de recolha, organização e divulgação de informação, nomeadamente legislativa e jurisprudencial que revelem interesse directo para o MJ;\n\nm) Assegurar o serviço geral de relações públicas e de protocolo do MJ, em articulação com os demais serviços e organismos;\n\nn) Representar, por intermédio do secretário-geral, e assegurar o normal funcionamento do MJ nas áreas que não sejam da competência específica de outros serviços ou organismos e desde que tal representação não seja directamente assumida pelos membros do Governo.\n\n3 - A SG assegura o apoio administrativo e logístico à Comissão da Liberdade Religiosa, órgão independente de consulta da Assembleia da República e do Governo, objecto de regulamentação em diploma próprio.\n\n4 - A SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral adjunto, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "75309333": {
+   "fragment_id": "75309406",
+   "type": 11,
+   "heading": "Artigo 9.º — Inspecção-Geral dos Serviços de Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Inspecção-Geral dos Serviços de Justiça\n\n1 - A Inspecção-Geral dos Serviços de Justiça, abreviadamente designada por IGSJ, tem por missão desempenhar as funções de auditoria, inspecção e fiscalização relativamente a todas as entidades, serviços e organismos dependentes, ou cuja actividade é tutelada ou regulada pelo MJ.\n\n2 - A IGSJ prossegue, designadamente, as seguintes atribuições:\n\na) Realizar inspecções, auditorias, sindicâncias, inquéritos, averiguações, peritagens e outras acções inspectivas que lhe sejam ordenadas ou autorizadas, com vista a avaliar o cumprimento das missões, das normas legais e regulamentares e das instruções governamentais aplicáveis à actividade dos órgãos, serviços e organismos objecto de inspecção, assegurando o acompanhamento das recomendações emitidas;\n\nb) Apreciar queixas, reclamações, denúncias, participações e exposições e realizar acções inspectivas na sequência de indícios apurados ou de solicitações de outras entidades do Estado que lhe sejam apresentadas por eventuais violações da legalidade ou por suspeitas de irregularidade ou deficiência no funcionamento de órgãos, serviços e organismos do MJ;\n\nc) Realizar auditorias financeiras e auditar os sistemas e procedimentos de controlo interno dos serviços e organismos do MJ, no quadro das responsabilidades cometidas ao sistema de controlo interno e participar no Sistema de Controlo Interno da Administração Financeira do Estado;\n\nd) Propor a instauração e instruir processos disciplinares, de inquérito e de averiguações que forem determinados pelo membro do Governo competente ou que por ele sejam avocados;\n\ne) Avaliar a qualidade dos sistemas de informação de gestão, incluindo os indicadores de desempenho, e dos resultados obtidos, propor medidas relativas à organização e ao funcionamento dos órgãos, serviços e organismos do MJ, visando a simplificação de processos, circuitos e comunicações e verificar a realização dos objectivos definidos em programas de modernização administrativa;\n\nf) Apresentar as propostas de medidas legislativas ou regulamentares que, na sequência da sua actuação, se afigurem pertinentes, bem como propor a adopção de medidas tendentes a assegurar ou restabelecer a legalidade dos actos praticados pelos serviços e organismos do MJ;\n\ng) Participar aos órgãos competentes para a investigação criminal os factos com relevância jurídico-criminal e colaborar com aqueles órgãos na obtenção de provas, sempre que tal for solicitado;\n\nh) Liquidar, cobrar e registar as receitas próprias.\n\n3 - A IGSJ é dirigida por um inspector-geral, coadjuvado por um subinspector-geral, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "75309334": {
+   "fragment_id": "75309407",
+   "type": 11,
+   "heading": "Artigo 10.º — Direcção-Geral da Política de Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção-Geral da Política de Justiça\n\n1 - A Direcção-Geral da Política de Justiça, abreviadamente designada por DGPJ, tem por missão prestar apoio técnico, acompanhar e monitorizar políticas, organizar e fomentar o recurso aos tribunais arbitrais, aos julgados de paz e a outros meios extrajudiciais de resolução de conflitos, assegurando o planeamento estratégico e a coordenação das relações externas e de cooperação, e é responsável pela informação estatística da área da justiça.\n\n2 - A DGPJ prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar o planeamento, a concepção, o acompanhamento e a avaliação das políticas, objectivos e prioridades do MJ, bem como o desenvolvimento de meios extrajudiciais de resolução de conflitos e a definição e execução de políticas no domínio da Justiça com a União Europeia, outros governos e organizações internacionais;\n\nb) Conceber, preparar, analisar e apoiar tecnicamente a execução de iniciativas, medidas legislativas, políticas e programas no âmbito do MJ e proceder à sua avaliação;\n\nc) Apoiar a criação e a operacionalização de meios extrajudiciais de composição de conflitos, designadamente a mediação, a conciliação e a arbitragem;\n\nd) Promover a criação e apoiar o funcionamento de centros de arbitragem, julgados de paz e sistemas de mediação;\n\ne) Assegurar os mecanismos adequados de acesso ao direito, designadamente nos domínios da informação e consultas jurídicas e do apoio judiciário;\n\nf) Participar na concepção e colaborar com o Instituto de Gestão Financeira e Equipamentos de Justiça, I. P., no desenvolvimento, na implantação, no funcionamento e na evolução dos sistemas de informação;\n\ng) Coordenar a preparação dos planos de acção, anual e de médio prazo, do MJ, numa óptica de gestão por objectivos, procedendo ao seu acompanhamento e à avaliação da sua execução;\n\nh) Coordenar e orientar os processos sectoriais de planeamento do MJ, auxiliando no desenvolvimento de planos estratégicos para a rede judiciária e para os diversos serviços da administração da Justiça, antecipando e acompanhando as alterações sociais, económicas e normativas na caracterização, localização e actividade dos órgãos, serviços e organismos na área da justiça;\n\ni) Proceder à elaboração de documentos estratégicos para a área da justiça, nomeadamente através da formulação de contributos para as Grandes Opções do Plano, acompanhando e avaliando a sua execução;\n\nj) Conceber, elaborar e difundir instrumentos de planeamento e de avaliação das políticas desenvolvidas no âmbito do MJ;\n\nl) Assegurar o desenvolvimento dos sistemas de avaliação de serviços e organismos no âmbito do MJ, coordenar e controlar a sua aplicação e exercer as demais competências que sejam atribuídas pela lei aos órgãos de planeamento e controlo departamental do SIADAP;\n\nm) Liquidar, cobrar e registar as receitas próprias;\n\nn) Assegurar a recolha, utilização, tratamento, análise e difusão da informação estatística da Justiça, no quadro do sistema estatístico nacional, definindo normas e procedimentos a observar pelos serviços e organismos do MJ, desenvolvendo as operações necessárias ao aperfeiçoamento da produção estatística de interesse para a área da justiça;\n\no) Conduzir a política e articular as acções de cooperação na área da Justiça, coordenar a acção e prestar apoio aos representantes do Estado Português nos órgãos internacionais do sector e promover e apoiar as medidas de cooperação jurídica e judiciária com outros Estados, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\np) Acompanhar e apoiar a política internacional do Estado Português na área da Justiça, coordenando a representação do MJ na negociação de convenções, acordos e tratados internacionais, bem como em comissões, reuniões, conferências ou organizações similares;\n\nq) Acompanhar as questões relativas ao contencioso da União Europeia nas matérias da Justiça;\n\nr) Recolher e estudar as normas de direito internacional e de direito da União Europeia aplicáveis ou em relação às quais o Estado Português se pretenda vincular, bem como estudar e divulgar a jurisprudência, a doutrina e a política comunitárias para o sector.\n\n3 - A DGPJ integra um Gabinete de Relações Internacionais e um Gabinete de Resolução Alternativa de Litígios.\n\n4 - A DGPJ é dirigida por um director-geral, coadjuvado por três subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "75309335": {
+   "fragment_id": "75309408",
+   "type": 11,
+   "heading": "Artigo 11.º — Direcção-Geral da Administração da Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direcção-Geral da Administração da Justiça\n\n1 - A Direcção-Geral da Administração da Justiça, abreviadamente designada por DGAJ, tem por missão assegurar o apoio ao funcionamento dos tribunais.\n\n2 - A DGAJ prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar a definição das políticas de organização e gestão dos tribunais;\n\nb) Participar, em articulação com a DGPJ, na realização de estudos tendentes à modernização e à racionalização dos meios à disposição dos sistemas judiciário, propondo e executando as medidas adequadas;\n\nc) Assegurar a identificação criminal e o registo de contumazes;\n\nd) Programar e executar as acções relativas à gestão e administração dos trabalhadores dos tribunais, incluindo a programação e a execução das acções de formação inicial e subsequente;\n\ne) Dirigir a actividade dos administradores dos tribunais;\n\nf) Coordenar a elaboração, executar e proceder à avaliação da gestão orçamental, financeira e contabilística dos tribunais sem autonomia administrativa, bem como participar na preparação e gestão dos orçamentos, relativamente aos tribunais de 1.ª instância, das magistraturas judicial e do Ministério Público;\n\ng) Participar na concepção e colaborar com o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., no desenvolvimento, implantação, funcionamento e evolução dos sistemas de informação do sistema judiciário;\n\nh) Programar as necessidades de instalações dos tribunais e colaborar com o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., no planeamento e na execução de obras de construção, remodelação ou conservação;\n\ni) Colaborar com a DGPJ na recolha, tratamento e difusão da informação estatística relativa aos tribunais, disponibilizando a informação necessária à elaboração das estatísticas oficiais na área da justiça;\n\nj) Liquidar, cobrar e registar as receitas próprias.\n\n3 - A DGAJ é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "75309336": {
+   "fragment_id": "75309409",
+   "type": 11,
+   "heading": "Artigo 12.º — Direcção-Geral de Reinserção e Serviços Prisionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção-Geral de Reinserção e Serviços Prisionais\n\n1 - A Direcção-Geral de Reinserção e Serviços Prisionais, abreviadamente designada por DGRSP, tem por missão o desenvolvimento das políticas de prevenção criminal, de execução das penas e medidas e de reinserção social e a gestão articulada e complementar dos sistemas tutelar educativo e prisional, assegurando condições compatíveis com a dignidade humana e contribuindo para a defesa da ordem e da paz social.\n\n2 - A DGRSP prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar a definição da política criminal, especialmente nas áreas da prevenção da criminalidade, da reinserção social e da execução das penas e medidas, assegurando a avaliação permanente das condições de funcionamento dos sistemas tutelar educativo e prisional;\n\nb) Assegurar a execução de decisões judiciais que imponham medidas tutelares educativas e penas e medidas alternativas à prisão, bem como a execução de penas e medidas com recurso a meios de vigilância electrónica, prestando a adequada assessoria técnica aos tribunais;\n\nc) Assegurar a execução de decisões judiciais que imponham penas e medidas que devam ser cumpridas no âmbito do sistema prisional e prestar a adequada assessoria técnica aos tribunais;\n\nd) Assegurar a gestão das populações dos centros educativos e dos estabelecimentos prisionais, mantendo em funcionamento sistemas de informação que suportem o planeamento individualizado da execução das medidas tutelares educativas e das penas criminais, garantindo os respectivos sistemas de segurança e a articulação no âmbito do sistema de segurança nacional interno;\n\ne) Assegurar o apoio técnico aos tribunais na tomada de decisão no âmbito dos processos tutelar educativo e penal;\n\nf) Promover a dignificação e humanização das condições de vida nos estabelecimentos tutelares educativos e prisionais, visando a reinserção social, designadamente através da prestação de cuidados de saúde, do ensino, da formação profissional, do trabalho, de iniciativas de carácter cultural e desportivo, da interacção com a comunidade e outras que permitam o desenvolvimento da personalidade;\n\ng) Promover, desenvolver e coordenar programas de tratamento adequados ao perfil criminológico e psicológico e às necessidades de reinserção social e elaborar, executar e avaliar os planos individuais de readaptação social;\n\nh) Coordenar e desenvolver, num quadro de sustentabilidade económica e financeira e em articulação com outras entidades públicas ou privadas, as actividades económicas dos centros educativos e dos estabelecimentos prisionais, com o objectivo de alcançar, nomeadamente, a formação profissional, a empregabilidade e a reintegração profissional, quer durante o cumprimento da pena ou medida, quer na vida livre;\n\ni) Conceber, executar ou participar em programas e acções de prevenção da criminalidade e contribuir para um maior envolvimento da comunidade na administração da justiça tutelar educativa e penal, através da cooperação com outras instituições públicas ou particulares e com cidadãos que prossigam objectivos de prevenção criminal e de reinserção social;\n\nj) Promover a formação técnica especializada dos recursos humanos e colaborar nas acções que lhes sejam dirigidas;\n\nl) Liquidar, cobrar e registar as receitas próprias.\n\nm) Assegurar a gestão e segurança dos centros educativos, dos estabelecimentos prisionais e dos demais equipamentos do sistema de reinserção social e prisional, bem como assegurar, em articulação com o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., as acções de manutenção necessárias ao seu bom funcionamento;\n\nn) Elaborar os planos de segurança geral dos centros educativos e do sistema prisional, bem como os planos específicos das instalações prisionais, assegurando a respectiva execução;\n\no) Programar, em colaboração com a DGPJ, as necessidades de instalações dos centros educativos e dos estabelecimentos prisionais, colaborando com o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., no planeamento e na execução de obras de construção, remodelação ou conservação;\n\np) Colaborar com a DGPJ na recolha, tratamento e divulgação dos dados estatísticos relativos à reinserção social, ao sistema tutelar educativo e ao sistema prisional, disponibilizando a informação necessária à elaboração das estatísticas oficiais na área da justiça.\n\n3 - O modelo de organização e gestão da disponibilização a reclusos de cuidados de saúde equivalentes àqueles que são oferecidos à comunidade em geral, integrado no âmbito do Sistema Nacional de Saúde, com as adaptações necessárias ao meio prisional, é objecto de diploma próprio que fixe as competências e responsabilidades dos Ministérios da Justiça e da Saúde.\n\n4 - A DGRSP integra um serviço interno de auditoria e inspecção, como instrumento essencial à manutenção da ordem, disciplina e organização dos serviços de reinserção social, dos centros educativos e dos estabelecimentos prisionais, cuja coordenação é garantida por magistrados, ouvidos os competentes Conselhos Superiores.\n\n5 - A DGRSP é dirigida por um director-geral, coadjuvado por três subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "75309337": {
+   "fragment_id": "75309410",
+   "type": 11,
+   "heading": "Artigo 13.º — Polícia Judiciária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Polícia Judiciária\n\n1 - A Polícia Judiciária, abreviadamente designada por PJ, é um corpo superior de polícia que tem por missão coadjuvar as autoridades judiciárias na investigação, desenvolver e promover as acções de prevenção e investigação da sua competência ou que lhe sejam cometidas pelas autoridades judiciárias competentes.\n\n2 - A PJ está organizada hierarquicamente na dependência do membro do Governo responsável pela área da justiça e rege-se por legislação própria, que define o seu regime, designadamente quanto às suas atribuições, organização, funcionamento e estatuto de pessoal."
+  },
+  "75309338": {
+   "fragment_id": "75309411",
+   "type": 8,
+   "heading": "Secção II — Organismos da administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Organismos da administração indirecta do Estado"
+  },
+  "75309339": {
+   "fragment_id": "75309412",
+   "type": 11,
+   "heading": "Artigo 14.º — Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.\n\n1 - O Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., abreviadamente designado por IGFEJ, I. P., tem por missão a gestão dos recursos financeiros do MJ, a gestão do património afecto à área da justiça, das infra-estruturas e recursos tecnológicos, bem como a proposta de concepção, a execução e a avaliação dos planos e projectos de informatização, em articulação com os demais serviços e organismos do MJ.\n\n2 - O IGFEJ, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Apresentar a proposta de financiamento mais adequada à actividade do MJ, enquadrada na política orçamental e financeira do Estado e de acordo com o planeamento estratégico definido para o sector;\n\nb) Definir, executar e avaliar, em colaboração com os respectivos serviços e organismos, o orçamento e os planos de investimento do MJ;\n\nc) Liquidar, cobrar e registar as receitas próprias.\n\nd) Requisitar os fundos provenientes da dotação do Orçamento do Estado afecta aos serviços e organismos do MJ;\n\ne) Assegurar procedimentos de contratação pública não abrangidos pela unidade ministerial de compras, em articulação com os demais serviços e organismos do MJ;\n\nf) Promover a realização de estudos relativos ao património imobiliário e às instalações do MJ, nomeadamente dirigidos à previsão das necessidades e à rentabilização do património existente, bem como planear, em articulação com os serviços e organismos do MJ, as necessidades no domínio das instalações;\n\ng) Assegurar, de forma racional e eficiente, a gestão e a administração dos imóveis que constituam o património imobiliário afecto ao MJ, organizando e actualizando o respectivo cadastro e inventário, realizando avaliações, elaborando e executando planos de aquisição, arrendamento e alienação e procedendo à afectação de imóveis para instalação de órgãos, serviços e organismos da área da justiça;\n\nh) Definir o programa de empreitadas de construção, remodelação, ampliação, adaptação e conservação de instalações, coordenando o respectivo planeamento com os serviços e organismos do MJ;\n\ni) Coordenar a definição dos programas preliminares dos projectos com os serviços e organismos do MJ e assegurar a elaboração dos projectos, a gestão dos empreendimentos e a coordenação e fiscalização das empreitadas, até à recepção das mesmas;\n\nj) Assegurar a apresentação de propostas de concepção, execução e manutenção dos recursos tecnológicos e dos sistemas de informação da Justiça, garantindo a sua gestão e administração e o apoio informático aos respectivos utilizadores;\n\nl) Assegurar a permanente e completa adequação dos sistemas de informação às necessidades de gestão e operacionalidade dos órgãos, serviços e organismos da área da justiça, em articulação com estes;\n\nm) Gerir a rede de comunicações da Justiça, em articulação com os serviços e organismos, garantindo a sua segurança e operacionalidade e promovendo a unificação de métodos e processos;\n\nn) Elaborar proposta de articulação do plano estratégico dos sistemas de informação da área da justiça, tendo em atenção a evolução tecnológica e as necessidades globais de formação;\n\no) Elaborar, implementar e coordenar propostas de projectos de investimento, em matéria de informática e comunicações, dos serviços e organismos do MJ e em articulação com estes;\n\np) Construir e manter bases de dados na área da Justiça, designadamente de acesso geral, nas áreas jurídica e documental;\n\nq) Prestar serviços a departamentos da área da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em adequados instrumentos contratuais que determinem, designadamente, os níveis de prestação e respectivas contrapartidas;\n\nr) Exercer funções de certificação no âmbito do MJ.\n\n3 - Junto do IGFEJ, I. P., funciona o Fundo para a Modernização da Justiça.\n\n4 - O IGFEJ, I. P., é dirigido por um conselho directivo, constituído por um presidente e dois vogais."
+  },
+  "75309340": {
+   "fragment_id": "75309413",
+   "type": 11,
+   "heading": "Artigo 15.º — Instituto dos Registos e do Notariado, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instituto dos Registos e do Notariado, I. P.\n\n1 - O Instituto dos Registos e do Notariado, I. P., abreviadamente designado por IRN, I. P., tem por missão executar e acompanhar as políticas relativas aos serviços de registo, tendo em vista assegurar a prestação de serviços aos cidadãos e às empresas no âmbito da identificação e do registo civil, de nacionalidade, predial, comercial, de bens móveis e de pessoas colectivas, bem como assegurar a regulação, controlo e fiscalização da actividade notarial.\n\n2 - O IRN, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar a formulação e concretização das políticas relativas à nacionalidade, à identificação e aos registos civil, predial, comercial, de bens móveis e de pessoas colectivas, e a execução e acompanhamento das medidas decorrentes;\n\nb) Dirigir, coordenar, apoiar, avaliar e fiscalizar a actividade das conservatórias e proceder à uniformização de normas e técnicas relativas à actividade dos registos assegurando o respectivo cumprimento;\n\nc) Garantir a emissão, substituição e o cancelamento do cartão de cidadão, bem como a emissão dos respectivos certificados;\n\nd) Assegurar a recepção da documentação necessária à emissão de passaportes e proceder à entrega dos mesmos;\n\ne) Participar na execução de estudos tendentes à reorganização e modernização dos registos e articular com o IGFEJ, I. P., a implantação, funcionamento e evolução dos respectivos sistemas de informação;\n\nf) Programar, em colaboração com a DGPJ, as necessidades de instalações dos serviços dos registos e colaborar com o IGFEJ, I. P., no planeamento e na execução de obras de construção, remodelação ou conservação;\n\ng) Colaborar com a DGPJ na recolha, tratamento e divulgação dos dados estatísticos relativos aos registos e ao notariado, disponibilizando a informação necessária à elaboração das estatísticas oficiais na área da Justiça;\n\nh) Coordenar a elaboração e a execução e proceder à avaliação da gestão orçamental, financeira e contabilística dos serviços dos registos;\n\ni) Liquidar, cobrar e registar as receitas próprias.\n\nj) Prestar serviços a departamentos da área da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em adequados instrumentos contratuais que determinem, entre outros aspectos, os níveis de prestação e respectivas contrapartidas;\n\nl) Regulamentar, controlar e fiscalizar a actividade notarial e exercer a acção disciplinar sobre os notários, nos termos previstos na lei.\n\n3 - O IRN, I. P., é dotado apenas de autonomia administrativa.\n\n4 - O IRN, I. P., é dirigido por um conselho directivo, constituído por um presidente, um vice-presidente e um vogal."
+  },
+  "75309341": {
+   "fragment_id": "75309414",
+   "type": 11,
+   "heading": "Artigo 16.º — Instituto Nacional de Medicina Legal e Ciências Forenses, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Instituto Nacional de Medicina Legal e Ciências Forenses, I. P.\n\n1 - O Instituto Nacional de Medicina Legal e Ciências Forenses, I. P., abreviadamente designado por INMLCF, I. P., tem por missão assegurar a prestação de serviços periciais médico-legais e forenses, a coordenação científica da actividade no âmbito da medicina legal, e de outras ciências forenses, bem como a promoção da formação e da investigação neste domínio, superintendendo e orientando a actividade dos serviços médico-legais e dos profissionais contratados para o exercício de funções periciais.\n\n2 - O INMLCF, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar a definição da política na área da medicina legal e de outras ciências forenses;\n\nb) Cooperar com os tribunais e demais serviços e entidades que intervêm no sistema de administração da justiça, realizando os exames e as perícias de medicina legal que lhe forem solicitados, nos termos da lei, bem como prestar-lhes apoio técnico e laboratorial especializado, no âmbito das suas atribuições;\n\nc) Superintender a organização e a gestão dos serviços médico-legais no território nacional;\n\nd) Programar e executar as acções relativas à formação, gestão e avaliação dos recursos humanos afectos à área da medicina legal e de outras ciências forenses;\n\ne) Adoptar programas de garantia de qualidade aplicados aos exames e às perícias médico-legais e forenses da sua competência e promover a harmonização das suas metodologias, técnicas e relatórios periciais, nomeadamente emitindo directivas técnico-científicas sobre a matéria;\n\nf) Dirigir, coordenar e fiscalizar a actividade técnico-científica dos serviços médico-legais e dos profissionais contratados para o exercício das funções periciais;\n\ng) Coordenar, orientar e supervisionar a nível nacional as actividades relacionadas com a medicina legal e outras ciências forenses;\n\nh) Promover a formação, bem como a investigação e a divulgação científica no âmbito da medicina legal e de outras ciências forenses e desenvolver formas de colaboração pedagógica com outras instituições;\n\ni) Prestar serviços a entidades públicas e privadas, bem como aos particulares, em domínios que envolvam a aplicação de conhecimentos médico-legais e de outras ciências forenses;\n\nj) Assegurar a articulação com entidades similares estrangeiras e organizações internacionais;\n\nl) Assegurar o funcionamento da base de dados de perfis de ADN;\n\nm) Programar, em colaboração com a DGPJ, as necessidades de instalações dos gabinetes médico-legais e colaborar com o IGFEJ, I. P., no planeamento e na execução de obras de construção, remodelação ou conservação;\n\nn) Colaborar com a DGPJ na recolha, tratamento e divulgação dos dados estatísticos relativos à actividade no âmbito da medicina legal e de outras ciências forenses, disponibilizando a informação necessária à elaboração das estatísticas oficiais na área da justiça;\n\no) Liquidar, cobrar e registar as receitas próprias.\n\n3 - O INMLCF, I. P., tem natureza de laboratório do Estado, sendo a definição das respectivas orientações estratégicas e fixação de objectivos, bem como o acompanhamento da sua execução, articulados com o membro do Governo responsável pela área da ciência.\n\n4 - O INMLCF, I. P., é dirigido por um conselho directivo, constituído por um presidente, um vice-presidente e dois vogais."
+  },
+  "75309342": {
+   "fragment_id": "75309415",
+   "type": 11,
+   "heading": "Artigo 17.º — Instituto Nacional da Propriedade Industrial, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Instituto Nacional da Propriedade Industrial, I. P.\n\n1 - O Instituto Nacional da Propriedade Industrial, I. P., abreviadamente designado por INPI, I. P., tem por missão assegurar a protecção e promoção da propriedade industrial, a nível nacional e internacional, de acordo com a política de modernização e fortalecimento da estrutura empresarial do país, nomeadamente em colaboração com as organizações internacionais especializadas na matéria de que Portugal é membro.\n\n2 - O INPI, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar a definição das políticas da propriedade industrial e acompanhar a execução das medidas delas decorrentes, em articulação com os departamentos governamentais com intervenção nas áreas da economia e da ciência;\n\nb) Promover e propor o aperfeiçoamento da legislação nacional de propriedade industrial, bem como planos e projectos de cooperação internacional na matéria, tendo em conta, designadamente, o desenvolvimento do direito internacional e do direito comunitário sobre a matéria;\n\nc) Assegurar as relações internacionais, europeias e de cooperação com entidades estrangeiras similares no âmbito das suas atribuições, em colaboração com a DGPJ;\n\nd) Assegurar a atribuição e protecção dos direitos privativos da propriedade industrial, visando o reforço da lealdade da concorrência neste domínio e o combate à contrafacção;\n\ne) Zelar pelo cumprimento do Código da Propriedade Industrial e direito internacional aplicável, promovendo as acções necessárias à prevenção e repressão de ilícitos na matéria;\n\nf) Assegurar a representação de Portugal nos organismos de propriedade industrial ou assessorar a representação a nível governamental;\n\ng) Desenvolver acções no sentido de incrementar a protecção dos direitos da propriedade industrial através dos registos e de patentes, em colaboração com o IRN, I. P.;\n\nh) Promover a divulgação de informação relevante em matéria de propriedade industrial;\n\ni) Colaborar com a DGPJ na recolha, tratamento e divulgação dos dados estatísticos relativos à propriedade industrial, disponibilizando a informação necessária à elaboração das estatísticas oficiais na área da justiça;\n\nj) Cooperar com instituições integrantes do Sistema Científico e Tecnológico Nacional tendo em vista a criação de um clima favorável à inovação;\n\nl) Liquidar, cobrar e registar as receitas próprias.\n\n3 - O INPI, I. P., é dirigido por um conselho directivo, constituído por um presidente e dois vogais."
+  },
+  "75309343": {
+   "fragment_id": "75309416",
+   "type": 8,
+   "heading": "Secção III — Órgão consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Órgão consultivo"
+  },
+  "75309344": {
+   "fragment_id": "75309417",
+   "type": 11,
+   "heading": "Artigo 18.º — Conselho Consultivo da Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conselho Consultivo da Justiça\n\n1 - O Conselho Consultivo da Justiça é o órgão de consulta e aconselhamento estratégico do MJ, com competência para fazer propostas e emitir pareceres e recomendações relativas à política global da área de justiça.\n\n2 - A composição e o funcionamento do Conselho Consultivo da Justiça são definidos em diploma próprio."
+  },
+  "75309345": {
+   "fragment_id": "75309418",
+   "type": 8,
+   "heading": "Secção IV — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Outras estruturas"
+  },
+  "75309346": {
+   "fragment_id": "75309419",
+   "type": 11,
+   "heading": "Artigo 19.º — Centro de Estudos Judiciários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Centro de Estudos Judiciários\n\n1 - O Centro de Estudos Judiciários é um estabelecimento de formação que tem por missão:\n\na) Formar profissionalmente magistrados judiciais e magistrados do Ministério Público, bem como assessores dos tribunais;\n\nb) Assegurar acções de formação jurídica e judiciária de advogados, solicitadores e agentes de outros sectores profissionais da Justiça;\n\nc) Estabelecer e desenvolver relações de cooperação com instituições similares, em especial com as dos países de língua portuguesa, promovendo a realização de programas de interesse mútuo;\n\nd) Desenvolver actividades de estudo e de investigação jurídica e judiciária.\n\n2 - O Centro de Estudos Judiciários rege-se por diploma próprio, que define o seu regime, designadamente, quanto às suas atribuições, organização, funcionamento, estatuto de pessoal e estrutura dirigente.\n\n3 - O Centro de Estudos Judiciários é dirigido por um director, coadjuvado por dois directores-adjuntos, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "75309347": {
+   "fragment_id": "75309420",
+   "type": 11,
+   "heading": "Artigo 20.º — Comissão de Protecção às Vítimas de Crimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comissão de Protecção às Vítimas de Crimes\n\n1 - A Comissão de Protecção às Vítimas de Crimes é um órgão administrativo independente responsável, por si ou através dos seus membros, pela concessão de adiantamentos de indemnização por parte do Estado às vítimas de crimes violentos e de violência doméstica.\n\n2 - A composição e o funcionamento da Comissão de Protecção às Vítimas de Crimes são definidos em diploma próprio."
+  },
+  "75309348": {
+   "fragment_id": "75309421",
+   "type": 11,
+   "heading": "Artigo 21.º — Comissão de Programas Especiais de Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comissão de Programas Especiais de Segurança\n\n1 - A Comissão de Programas Especiais de Segurança, funciona na dependência do membro do Governo responsável pela área da justiça, e tem por missão, no âmbito da protecção de testemunhas em processo penal, estabelecer e assegurar a efectivação dos programas especiais de segurança previstos na lei.\n\n2 - A composição e o funcionamento da Comissão de Programas Especiais de Segurança são definidos em diploma próprio."
+  },
+  "75309349": {
+   "fragment_id": "75309422",
+   "type": 11,
+   "heading": "Artigo 22.º — Comissão de Apreciação e Controlo da Actividade dos Administradores da Insolvência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comissão de Apreciação e Controlo da Actividade dos Administradores da Insolvência\n\n1 - A Comissão de Apreciação e Controlo da Actividade dos Administradores da Insolvência, funciona na dependência do membro do Governo responsável pela área da justiça, e é responsável pela admissão à actividade de administrador de insolvência e pelo controlo do seu exercício.\n\n2 - A composição e o funcionamento da Comissão de Apreciação e Controlo da Actividade dos Administradores da Insolvência são definidos em diploma próprio."
+  },
+  "75309350": {
+   "fragment_id": "75309423",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "75309351": {
+   "fragment_id": "75309424",
+   "type": 11,
+   "heading": "Artigo 23.º — Mapas de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Mapas de pessoal dirigente\n\nSão aprovados os mapas de dirigentes superiores da administração directa, indirecta e de outras estruturas do MJ, constantes dos anexos i, ii e iii ao presente decreto-lei, respectivamente, do qual fazem parte integrante."
+  },
+  "75309352": {
+   "fragment_id": "75309425",
+   "type": 11,
+   "heading": "Artigo 24.º — Extinção, criação, fusão e reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Extinção, criação, fusão e reestruturação\n\n1 - É extinto o controlador financeiro.\n\n2 - São criados os seguintes serviços e organismos:\n\na) A Direcção-Geral de Reinserção e Serviços Prisionais;\n\nb) O Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.\n\n3 - São extintos, sendo objecto de fusão, os seguintes serviços e organismos:\n\na) A Direcção-Geral dos Serviços Prisionais, sendo as suas atribuições integradas na Direcção-Geral de Reinserção e Serviços Prisionais;\n\nb) A Direcção-Geral da Reinserção Social, sendo as suas atribuições integradas na Direcção-Geral de Reinserção e Serviços Prisionais;\n\nc) O Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P., sendo as suas atribuições integradas no Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.;\n\nd) O Instituto de Tecnologias de Informação na Justiça, I. P., sendo as suas atribuições integradas no Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.\n\n4 - São objecto de reestruturação os seguintes serviços e organismos:\n\na) O Instituto Nacional de Medicina Legal, I. P., que passa a designar-se Instituto Nacional de Medicina Legal e Ciências Forenses, I. P.;\n\nb) O Fundo para a Modernização da Justiça, que passa a funcionar junto do Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.;\n\nc) O Gabinete para a Resolução Alternativa de Litígios, que é integrado na Direcção-Geral da Política de Justiça.\n\n5 - São ainda objecto de reestruturação os demais serviços e organismos referidos nos artigos 4.º e 5.º, com excepção da PJ."
+  },
+  "75309353": {
+   "fragment_id": "75309426",
+   "type": 11,
+   "heading": "Artigo 25.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Referências legais\n\nAs referências legais feitas aos serviços e organismos objecto de extinção, fusão e reestruturação, mencionadas no artigo anterior, consideram-se feitas aos serviços e organismos que passam a integrar as respectivas atribuições."
+  },
+  "75309354": {
+   "fragment_id": "75309427",
+   "type": 11,
+   "heading": "Artigo 26.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Produção de efeitos\n\n1 - As criações, fusões e reestruturações de serviços e organismos previstas no presente decreto-lei apenas produzem efeitos com a entrada em vigor dos respectivos diplomas orgânicos.\n\n2 - Exceptua-se do disposto no número anterior, a designação dos titulares dos cargos de direcção superior e dos órgãos de direcção dos serviços e organismos previstos nos mapas anexos ao presente decreto-lei, a qual pode ter lugar após a sua entrada em vigor.\n\n3 - Nos casos de fusões, a designação prevista no número anterior depende da prévia cessação de funções, designadamente nos termos do número seguinte, de um número pelo menos igual de dirigentes, assegurando os dirigentes designados a direcção dos serviços e organismos objecto de fusão até à entrada em vigor dos novos diplomas orgânicos.\n\n4 - As comissões de serviço dos titulares de cargos de direcção superior de serviços e organismos cuja reestruturação ou fusão tenha sido determinada pelo presente decreto-lei podem cessar, independentemente do disposto no n.º 1, por despacho fundamentado, quando, por efeito da reestruturação ou fusão, exista necessidade de imprimir nova orientação à gestão dos serviços."
+  },
+  "75309355": {
+   "fragment_id": "75309428",
+   "type": 11,
+   "heading": "Artigo 27.º — Legislação orgânica complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Legislação orgânica complementar\n\n1 - Os diplomas orgânicos pelos quais se procede à criação, fusão e reestruturação dos serviços e organismos do MJ devem ser aprovados no prazo de 60 dias após a entrada em vigor do presente decreto-lei.\n\n2 - Até à entrada em vigor dos diplomas orgânicos a que se refere o número anterior, os serviços e organismos do MJ continuam a reger-se pelas disposições normativas que lhes são aplicáveis."
+  },
+  "75309356": {
+   "fragment_id": "75309429",
+   "type": 11,
+   "heading": "Artigo 28.º — Transição de regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Transição de regimes\n\n1 - São revogadas as normas dos decretos-lei que aprovam a estrutura orgânica dos serviços da administração directa do Estado do MJ.\n\n2 - A revogação prevista no número anterior produz efeitos na data de entrada em vigor dos decretos regulamentares que aprovam as orgânicas dos serviços da administração directa do MJ que lhes sucedem, nos termos do n.º 4 do artigo 7.º e do n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro.\n\n3 - O disposto no número anterior não prejudica o recurso à forma de decreto-lei nos casos em que tal seja exigível.\n\n4 - Os diplomas que aprovam a estrutura orgânica dos institutos públicos revestem a forma prevista na Lei n.º 3/2004, de 15 de Janeiro."
+  },
+  "75309357": {
+   "fragment_id": "75309430",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 206/2006, de 27 de Outubro, alterado pelos Decretos-Leis n.os 120/2010, de 27 de Outubro, e 14/2011, de 25 de Janeiro."
+  },
+  "75309359": {
+   "fragment_id": "75309432",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 23.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 23.º)\n\nCargos de direcção superior da administração directa\n\n(ver documento original)"
+  },
+  "75309360": {
+   "fragment_id": "75309433",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 23.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 23.º)\n\nDirigentes de organismos da administração indirecta\n\n(ver documento original)"
+  },
+  "75309361": {
+   "fragment_id": "75309434",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o artigo 23.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o artigo 23.º)\n\nDirigentes de outras estruturas\n\n(ver documento original)"
+  },
+  "75309367": {
+   "fragment_id": "75309396",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2016-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2016 - Diário da República n.º 175/2016, Série I de 2016-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2016-75307906), em vigor a partir de 2016-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1- Na prossecução da sua missão, são atribuições do MJ:\n\na) Promover a adopção das medidas adequadas à prossecução da política de Justiça definida pela Assembleia da República e pelo Governo, bem como assegurar o estudo, a elaboração e o acompanhamento da execução das medidas normativas integradas na área da Justiça;\n\nb) Assegurar as relações no domínio da política da Justiça com a União Europeia, outros governos e organizações internacionais, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros e no âmbito dos objectivos fixados para a política externa portuguesa;\n\nc) Assegurar as funções de auditoria, inspecção e fiscalização no âmbito dos serviços integrados no MJ ou relativamente aos organismos na dependência ou sob tutela do ministro;\n\nd) Assegurar o funcionamento adequado do sistema de administração da Justiça no plano judiciário e nos domínios da segurança do tráfego jurídico, da prevenção da litigiosidade e da resolução não jurisdicional de conflitos;\n\ne) Garantir mecanismos adequados de prevenção da criminalidade, de investigação criminal, de execução das medidas penais privativas e não privativas de liberdade, de medidas tutelares educativas e de reinserção social;\n\nf) Assegurar a actividade dos serviços médico-legais e coordenar a actividade e a formação no âmbito da medicina legal e das outras ciências forenses;\n\ng) Promover a protecção da propriedade industrial, a nível nacional e internacional, nomeadamente em colaboração com as organizações internacionais especializadas na matéria das quais Portugal seja membro;\n\nh) Assegurar a formação de magistrados e de quadros necessários para o exercício de funções específicas na área da justiça;\n\ni) Gerir os recursos humanos, financeiros, materiais e os sistemas de informação da justiça, sem prejuízo da competência própria de outros órgãos e departamentos administrativos.\n\n2 - A prossecução das atribuições estabelecidas no número anterior pode justificar a concessão de subvenções, ou subsídios a estas equiparados, a entidades dos setores privado, cooperativo e social, nomeadamente nas seguintes áreas de interesse público relevante para a área da justiça:\n\na) Apoio à criança e aos jovens, bem como às demais pessoas que integrem o agregado familiar ou de convivência, no âmbito das matérias especificamente relacionadas com a intervenção de serviços dependentes ou tutelados pelo Ministério da Justiça, nomeadamente em contexto tutelar educativo e de reinserção social;\n\nb) Apoio à vítima e a populações desfavorecidas ou carenciadas em virtude de fenómeno criminal ou de comportamentos desviantes, no âmbito de matérias especificamente relacionadas com a intervenção de serviços ou organismos dependentes ou tutelados pelo Ministério da Justiça;\n\nc) Apoio ao desenvolvimento de projetos que visem a prevenção da litigiosidade, da criminalidade e da vitimização;\n\nd) Apoio ao desenvolvimento de estudos e informação científica sobre os movimentos religiosos;\n\ne) Apoio ao desenvolvimento de projetos no âmbito do acesso ao direito e aos tribunais;\n\nf) Apoio ao desenvolvimento de projetos científicos, formativos ou pedagógicos na área da justiça com efetiva aplicação e repercussão no serviço prestado ou que nele projetem um benefício direto.\n\n3 - À concessão e à publicitação das subvenções referidas no número anterior são aplicáveis as normas e os procedimentos constantes da Lei n.º 64/2013, de 27 de agosto, e do Decreto-Lei n.º 167/2008, de 28 de agosto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2016 - Diário da República n.º 175/2016, Série I de 2016-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2016-75307906), em vigor a partir de 2016-10-01"
+  },
+  "75309358": {
+   "fragment_id": "75309431",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Outubro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Miguel Gubert Morais Leitão - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 9 de Dezembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 12 de Dezembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "108042216": {
+   "fragment_id": "75309413",
+   "type": 11,
+   "heading": "Artigo 15.º — Instituto dos Registos e do Notariado, I. P.",
+   "in_force_from": "2017-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+   ],
+   "markdown": "###### Artigo 15.º — Instituto dos Registos e do Notariado, I. P.\n\n1 - O Instituto dos Registos e do Notariado, I. P., abreviadamente designado por IRN, I. P., tem por missão executar e acompanhar as políticas relativas aos serviços de registo, tendo em vista assegurar a prestação de serviços aos cidadãos e às empresas no âmbito da identificação e do registo civil, de nacionalidade, predial, comercial, de bens móveis e de pessoas colectivas, bem como assegurar a regulação, controlo e fiscalização da actividade notarial.\n\n2 - O IRN, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar a formulação e concretização das políticas relativas à nacionalidade, à identificação e aos registos civil, predial, comercial, de bens móveis e de pessoas colectivas, e a execução e acompanhamento das medidas decorrentes;\n\nb) Dirigir, coordenar, apoiar, avaliar e fiscalizar a actividade das conservatórias e proceder à uniformização de normas e técnicas relativas à actividade dos registos assegurando o respectivo cumprimento;\n\nc) Garantir a emissão, substituição e o cancelamento do cartão de cidadão, bem como a emissão dos respectivos certificados;\n\nd) Assegurar a recepção da documentação necessária à emissão de passaportes e proceder à entrega dos mesmos;\n\ne) Participar na execução de estudos tendentes à reorganização e modernização dos registos e articular com o IGFEJ, I. P., a implantação, funcionamento e evolução dos respectivos sistemas de informação;\n\nf) Programar, em colaboração com a DGPJ, as necessidades de instalações dos serviços dos registos e colaborar com o IGFEJ, I. P., no planeamento e na execução de obras de construção, remodelação ou conservação;\n\ng) Colaborar com a DGPJ na recolha, tratamento e divulgação dos dados estatísticos relativos aos registos e ao notariado, disponibilizando a informação necessária à elaboração das estatísticas oficiais na área da Justiça;\n\nh) Coordenar a elaboração e a execução e proceder à avaliação da gestão orçamental, financeira e contabilística dos serviços dos registos;\n\ni) Liquidar, cobrar e registar as receitas próprias.\n\nj) Prestar serviços a departamentos da área da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em adequados instrumentos contratuais que determinem, entre outros aspectos, os níveis de prestação e respectivas contrapartidas;\n\nl) Regulamentar, controlar e fiscalizar a actividade notarial e exercer a acção disciplinar sobre os notários, nos termos previstos na lei.\n\nm) Cooperar com entidades congéneres ou outras, nacionais ou estrangeiras, designadamente através da celebração de protocolos, acordos ou outros instrumentos jurídicos de colaboração na sua área de atuação, bem como assegurar a representação em organizações internacionais cuja atividade se desenvolva no âmbito da sua missão;\n\nn) Colaborar com as autoridades competentes na definição e na execução das políticas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, bem como assegurar a disponibilização de informação sobre a identificação das pessoas singulares que detêm a propriedade e o controlo de pessoas coletivas e de centros de interesses coletivos sem personalidade jurídica, nos termos previstos na lei.\n\n3 - O IRN, I. P., é dotado apenas de autonomia administrativa.\n\n4 - O IRN, I. P., é dirigido por um conselho directivo, constituído por um presidente, um vice-presidente e um vogal.\n\n> Alterado pelo/a Artigo 18.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+  },
+  "184183092": {
+   "fragment_id": "75309407",
+   "type": 11,
+   "heading": "Artigo 10.º — Direcção-Geral da Política de Justiça",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 10.º — Direcção-Geral da Política de Justiça\n\n1 - A Direcção-Geral da Política de Justiça, abreviadamente designada por DGPJ, tem por missão prestar apoio técnico, acompanhar e monitorizar políticas, organizar e fomentar o recurso aos tribunais arbitrais, aos julgados de paz e a outros meios extrajudiciais de resolução de conflitos, assegurando o planeamento estratégico e a coordenação das relações externas e de cooperação, e é responsável pela informação estatística da área da justiça.\n\n2 - A DGPJ prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar o planeamento, a concepção, o acompanhamento e a avaliação das políticas, objectivos e prioridades do MJ, bem como o desenvolvimento de meios extrajudiciais de resolução de conflitos e a definição e execução de políticas no domínio da Justiça com a União Europeia, outros governos e organizações internacionais;\n\nb) Conceber, preparar, analisar e apoiar tecnicamente a execução de iniciativas, medidas legislativas, políticas e programas no âmbito do MJ e proceder à sua avaliação;\n\nc) Apoiar a criação e a operacionalização de meios extrajudiciais de composição de conflitos, designadamente a mediação, a conciliação e a arbitragem;\n\nd) Promover a criação e apoiar o funcionamento de centros de arbitragem, julgados de paz e sistemas de mediação;\n\ne) Assegurar os mecanismos adequados de acesso ao direito, designadamente nos domínios da informação e consultas jurídicas e do apoio judiciário;\n\nf) Participar na concepção e colaborar com o Instituto de Gestão Financeira e Equipamentos de Justiça, I. P., no desenvolvimento, na implantação, no funcionamento e na evolução dos sistemas de informação;\n\ng) Coordenar a preparação dos planos de acção, anual e de médio prazo, do MJ, numa óptica de gestão por objectivos, procedendo ao seu acompanhamento e à avaliação da sua execução;\n\nh) Coordenar e orientar os processos sectoriais de planeamento do MJ, auxiliando no desenvolvimento de planos estratégicos para a rede judiciária e para os diversos serviços da administração da Justiça, antecipando e acompanhando as alterações sociais, económicas e normativas na caracterização, localização e actividade dos órgãos, serviços e organismos na área da justiça;\n\ni) Proceder à elaboração de documentos estratégicos para a área da justiça, nomeadamente através da formulação de contributos para as Grandes Opções do Plano, acompanhando e avaliando a sua execução;\n\nj) Conceber, elaborar e difundir instrumentos de planeamento e de avaliação das políticas desenvolvidas no âmbito do MJ;\n\nl) Assegurar o desenvolvimento dos sistemas de avaliação de serviços e organismos no âmbito do MJ, coordenar e controlar a sua aplicação e exercer as demais competências que sejam atribuídas pela lei aos órgãos de planeamento e controlo departamental do SIADAP;\n\nm) Liquidar, cobrar e registar as receitas próprias;\n\nn) Assegurar a recolha, utilização, tratamento, análise e difusão da informação estatística da Justiça, no quadro do sistema estatístico nacional, definindo normas e procedimentos a observar pelos serviços e organismos do MJ, desenvolvendo as operações necessárias ao aperfeiçoamento da produção estatística de interesse para a área da justiça;\n\no) Conduzir a política e articular as acções de cooperação na área da Justiça, coordenar a acção e prestar apoio aos representantes do Estado Português nos órgãos internacionais do sector e promover e apoiar as medidas de cooperação jurídica e judiciária com outros Estados, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\np) Acompanhar e apoiar a política internacional do Estado Português na área da Justiça, coordenando a representação do MJ na negociação de convenções, acordos e tratados internacionais, bem como em comissões, reuniões, conferências ou organizações similares;\n\nq) Acompanhar as questões relativas ao contencioso da União Europeia nas matérias da Justiça;\n\nr) Recolher e estudar as normas de direito internacional e de direito da União Europeia aplicáveis ou em relação às quais o Estado Português se pretenda vincular, bem como estudar e divulgar a jurisprudência, a doutrina e a política comunitárias para o sector.\n\n3 - A DGPJ integra um Gabinete de Relações Internacionais e um Gabinete de Resolução Alternativa de Litígios.\n\n4 - A DGPJ é dirigida por um diretor-geral, coadjuvado por dois subdiretores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "184183093": {
+   "fragment_id": "75309412",
+   "type": 11,
+   "heading": "Artigo 14.º — Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 14.º — Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.\n\n1 - O Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., abreviadamente designado por IGFEJ, I. P., tem por missão a gestão dos recursos financeiros do MJ, a gestão do património afecto à área da justiça, das infra-estruturas e recursos tecnológicos, bem como a proposta de concepção, a execução e a avaliação dos planos e projectos de informatização, em articulação com os demais serviços e organismos do MJ.\n\n2 - O IGFEJ, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Apresentar a proposta de financiamento mais adequada à actividade do MJ, enquadrada na política orçamental e financeira do Estado e de acordo com o planeamento estratégico definido para o sector;\n\nb) Definir, executar e avaliar, em colaboração com os respectivos serviços e organismos, o orçamento e os planos de investimento do MJ;\n\nc) Liquidar, cobrar e registar as receitas próprias.\n\nd) Requisitar os fundos provenientes da dotação do Orçamento do Estado afecta aos serviços e organismos do MJ;\n\ne) Assegurar procedimentos de contratação pública não abrangidos pela unidade ministerial de compras, em articulação com os demais serviços e organismos do MJ;\n\nf) Promover a realização de estudos relativos ao património imobiliário e às instalações do MJ, nomeadamente dirigidos à previsão das necessidades e à rentabilização do património existente, bem como planear, em articulação com os serviços e organismos do MJ, as necessidades no domínio das instalações;\n\ng) Assegurar, de forma racional e eficiente, a gestão e a administração dos imóveis que constituam o património imobiliário afecto ao MJ, organizando e actualizando o respectivo cadastro e inventário, realizando avaliações, elaborando e executando planos de aquisição, arrendamento e alienação e procedendo à afectação de imóveis para instalação de órgãos, serviços e organismos da área da justiça;\n\nh) Definir o programa de empreitadas de construção, remodelação, ampliação, adaptação e conservação de instalações, coordenando o respectivo planeamento com os serviços e organismos do MJ;\n\ni) Coordenar a definição dos programas preliminares dos projectos com os serviços e organismos do MJ e assegurar a elaboração dos projectos, a gestão dos empreendimentos e a coordenação e fiscalização das empreitadas, até à recepção das mesmas;\n\nj) Assegurar a apresentação de propostas de concepção, execução e manutenção dos recursos tecnológicos e dos sistemas de informação da Justiça, garantindo a sua gestão e administração e o apoio informático aos respectivos utilizadores;\n\nl) Assegurar a permanente e completa adequação dos sistemas de informação às necessidades de gestão e operacionalidade dos órgãos, serviços e organismos da área da justiça, em articulação com estes;\n\nm) Gerir a rede de comunicações da Justiça, em articulação com os serviços e organismos, garantindo a sua segurança e operacionalidade e promovendo a unificação de métodos e processos;\n\nn) Elaborar proposta de articulação do plano estratégico dos sistemas de informação da área da justiça, tendo em atenção a evolução tecnológica e as necessidades globais de formação;\n\no) Elaborar, implementar e coordenar propostas de projectos de investimento, em matéria de informática e comunicações, dos serviços e organismos do MJ e em articulação com estes;\n\np) Construir e manter bases de dados na área da Justiça, designadamente de acesso geral, nas áreas jurídica e documental;\n\nq) Prestar serviços a departamentos da área da justiça, a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em adequados instrumentos contratuais que determinem, designadamente, os níveis de prestação e respectivas contrapartidas;\n\nr) Exercer funções de certificação no âmbito do MJ.\n\n3 - Junto do IGFEJ, I. P., funciona o Fundo para a Modernização da Justiça.\n\n4 - O IGFEJ, I. P., é dirigido por um conselho diretivo constituído por um presidente, um vice-presidente e dois vogais.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "184183094": {
+   "fragment_id": "75309432",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 23.º)",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 23.º)\n\nCargos de direção superior da administração direta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "184183095": {
+   "fragment_id": "75309433",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 23.º)",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 23.º)\n\nDirigentes de organismos da administração indireta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  }
+ }
+}

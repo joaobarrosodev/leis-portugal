@@ -1,0 +1,348 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176334:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-1017674642",
+ "dre_path": "/dr/detalhe/decreto-lei/111-1998-176334",
+ "source_lastmod": "2026-10-08",
+ "versions": [
+  {
+   "date": "1998-12-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222177:por",
+     "title": "Decreto-Lei n.º 388/98",
+     "published": "1998-12-04",
+     "dre_path": "/dr/detalhe/decreto-lei/388-1998-222177"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "1018226775",
+    "1018226975",
+    "1018227175",
+    "1018227375",
+    "1018227575",
+    "1018227775",
+    "1018227975",
+    "1177967775",
+    "1018228375",
+    "1018228575",
+    "1018228775",
+    "1018228975",
+    "1018229175",
+    "1018229375",
+    "1018229575",
+    "1018229775",
+    "1018229975",
+    "1018230175",
+    "1018230375",
+    "1018230575",
+    "1018230775",
+    "1018230975"
+   ]
+  },
+  {
+   "date": "2001-10-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:626255:por",
+     "title": "Decreto-Lei n.º 278/2001",
+     "published": "2001-10-19",
+     "dre_path": "/dr/detalhe/decreto-lei/278-2001-626255"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Revoga Artigo 16.º",
+    "Revoga Anexo N.º 1"
+   ],
+   "fragments": [
+    "1018226775",
+    "1018226975",
+    "1018227175",
+    "1018227375",
+    "1018227575",
+    "1018227775",
+    "1178214675",
+    "1177967775",
+    "1018228375",
+    "1018228575",
+    "1018228775",
+    "1018228975",
+    "1018229175",
+    "1018229375",
+    "1018229575",
+    "1018229775",
+    "1178214875",
+    "1018230175",
+    "1018230375",
+    "1018230575",
+    "1018230775",
+    "1178215075"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:469069:por",
+     "title": "Decreto-Lei n.º 229/2005",
+     "published": "2005-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/229-2005-469069"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "1018226775",
+    "1018226975",
+    "1018227175",
+    "1018227375",
+    "1018227575",
+    "1018227775",
+    "1178214675",
+    "1177967775",
+    "1178499175",
+    "1018228575",
+    "1018228775",
+    "1018228975",
+    "1018229175",
+    "1018229375",
+    "1018229575",
+    "1018229775",
+    "1178214875",
+    "1018230175",
+    "1018230375",
+    "1018230575",
+    "1018230775",
+    "1178215075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1018226775": {
+   "fragment_id": "1018226675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 142/90, de 4 de Maio, veio regular pela primeira vez o enquadramento e a especificidade própria da actividade desenvolvida pelo pessoal enquadrado na carreira de guarda florestal.\n\nEntretanto, o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas foi reestruturado ao abrigo do Decreto-Lei n.º 74/96, de 18 de Junho, tendo sido cometidas à Direcção-Geral das Florestas (DGF) as funções de coordenação e apoio à execução da política florestal, nomeadamente nos domínios do ordenamento e da protecção agro-florestal, da produção, transformação e comercialização dos produtos da floresta e dos recursos piscícolas das águas interiores e cinegéticos, e foi publicada a Lei de Bases da Política Florestal, aprovada pela Lei n.º 33/96, de 17 de Agosto, que atribui à DGF o estatuto de autoridade florestal nacional.\n\nÉ este novo quadro institucional que exige uma carreira de guarda florestal ajustada ao papel fundamental que desenvolve, incluindo a sua revalorização profissional.\n\nUm maior grau habilitacional para ingresso na carreira, um maior ênfase na formação profissional, a criação de incentivos de cariz social, são essenciais no quadro da reestruturação da carreira de guarda florestal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1018226975": {
+   "fragment_id": "1018226875",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nA carreira de guarda florestal da Direcção-Geral das Florestas, do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, desenvolve-se pelas categorias de mestre florestal principal, mestre florestal e guarda florestal, correspondendo-lhe a escala salarial constante do anexo n.º 1 ao presente diploma, do qual faz parte integrante."
+  },
+  "1018227175": {
+   "fragment_id": "1018227075",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência genérica dos guardas florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência genérica dos guardas florestais\n\n1 - O pessoal da carreira de guarda florestal assegura todas as acções de polícia florestal, de caça e pesca.\n\n2 - No exercício das funções referidas no número anterior compete-lhe, designadamente:\n\na) Fiscalizar o cumprimento da legislação florestal, da caça e da pesca;\n\nb) Levantar autos de notícia pelas infracções de que tiver conhecimento no exercício das suas funções e adoptar as medidas cautelares e de polícia necessárias e urgentes para assegurar os meios de prova, bem como relativamente a objectos susceptíveis de apreensão, e proceder à detenção e a actos de investigação e inquérito, nos termos da lei de processo penal;\n\nc) Exercer funções de sensibilização e vigilância na área florestal nacional;\n\nd) Participar na prevenção e detecção de incêndios florestais e colaborar no seu combate;\n\ne) Investigar as causas dos fogos florestais."
+  },
+  "1018227375": {
+   "fragment_id": "1018227275",
+   "type": 11,
+   "heading": "Artigo 3.º — Ingresso e acesso na carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ingresso e acesso na carreira\n\n1 - O recrutamento para a categoria de mestre florestal principal faz-se por concurso, que inclui como métodos de selecção uma prova de conhecimentos e a avaliação curricular, de entre mestres florestais com pelo menos três anos na categoria e classificação de serviço não inferior a Bom.\n\n2 - O recrutamento para a categoria de mestre florestal faz-se por concurso, que inclui como métodos de selecção um curso de formação profissional e a avaliação curricular, de entre guardas florestais com pelo menos três anos na categoria e classificação de serviço não inferior a Bom.\n\n3 - O conteúdo programático e o sistema de funcionamento e avaliação do curso de formação profissional referido no número anterior será estabelecido por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n4 - O recrutamento para a categoria de guarda florestal faz-se, após aprovação em estágio, de entre indivíduos habilitados com o 11.º ano de escolaridade ou equiparado, tendo preferência os que possuírem um curso técnico-profissional qualificante de nível 3 nas áreas florestal e agro-florestal."
+  },
+  "1018227575": {
+   "fragment_id": "1018227475",
+   "type": 11,
+   "heading": "Artigo 4.º — Formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Formação profissional\n\nO pessoal integrado na carreira de guarda florestal tem direito a receber formação profissional, inicial e contínua, adequada ao pleno desempenho das funções que lhe estão atribuídas, à sua valorização humana e profissional e à sua promoção na carreira."
+  },
+  "1018227775": {
+   "fragment_id": "1018227675",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime de estágio\n\n1 - O recrutamento para o estágio de ingresso na carreira de guarda florestal faz-se por concurso, de acordo com as normas constantes da lei geral e as específicas para o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas para os concursos de ingresso.\n\n2 - O estágio tem a duração de um ano, findo o qual os estagiários aprovados serão ordenados em função da classificação atribuída por júri nomeado para o efeito e providos, a título definitivo, nos lugares vagos de guarda florestal.\n\n3 - O número de indivíduos admitidos a estágio não pode ultrapassar em mais de 15% o número de lugares vagos na respectiva categoria de ingresso.\n\n4 - A admissão ao estágio faz-se de entre indíviduos habilitados com o 11.º ano, tendo preferência os que possuírem um curso técnico-profissional qualificante de nível 3 nas áreas florestal e agro-florestal e que reúnam os requisitos gerais e específicos de provimento, de idade inferior a 28 anos, completados no ano do concurso.\n\n5 - O estágio decorrerá sob a orientação da Direcção-Geral das Florestas.\n\n6 - Os estagiários que não obtiverem aproveitamento regressarão ao lugar de origem ou ser-lhes-á imediatamente rescindido o contrato, sem direito a qualquer indemnização, consoante se trate de indivíduos vinculados ou não à função pública.\n\n7 - Os indivíduos aprovados em estágio e que se encontrem dentro das vagas serão providos a título definitivo, contando o tempo de estágio para efeitos de promoção e progressão na categoria de ingresso da respectiva carreira."
+  },
+  "1018227975": {
+   "fragment_id": "1018227875",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos dos estagiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direitos dos estagiários\n\nO pessoal em regime de estágio tem direito ao suplemento de risco nas condições previstas no artigo 16.º do presente diploma, sendo-lhe aplicável o regime de protecção social da função pública, em termos idênticos ao restante pessoal da carreira de guarda florestal."
+  },
+  "1177967775": {
+   "fragment_id": "1018228075",
+   "type": 11,
+   "heading": "Artigo 7.º — Fardamento",
+   "in_force_from": "1998-12-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 388/98 - Diário da República n.º 280/1998, Série I-A de 1998-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1998-222177), em vigor a partir de 1998-12-09."
+   ],
+   "markdown": "###### Artigo 7.º — Fardamento\n\nO pessoal da carreira de guarda florestal no exercício das suas funções e o pessoal em regime de estágio é obrigado a apresentar-se devidamente fardado, em conformidade com o disposto em regulamento a aprovar por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n> Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 388/98 - Diário da República n.º 280/1998, Série I-A de 1998-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1998-222177), em vigor a partir de 1998-12-09."
+  },
+  "1018228375": {
+   "fragment_id": "1018228275",
+   "type": 11,
+   "heading": "Artigo 8.º — Aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aposentação\n\n1 - O pessoal da carreira de guarda florestal pode requerer a passagem à situação de aposentado logo que atinja 55 anos de idade.\n\n2 - O pessoal que requeira a aposentação após completar 60 anos de idade beneficia do aumento de 20%, para efeitos de aposentação, sobre o tempo de serviço efectivo prestado na carreira de guarda florestal, mediante a liquidação das respectivas quotas à Caixa Geral de Aposentações.\n\n3 - O disposto no número anterior é também aplicável ao pessoal que, independentemente da idade, tenha direito à aposentação extraordinária, nos termos do artigo 38.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro."
+  },
+  "1018228575": {
+   "fragment_id": "1018228475",
+   "type": 11,
+   "heading": "Artigo 9.º — Trabalho semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Trabalho semanal\n\n1 - A duração semanal de trabalho é de trinta e sete horas semanais a partir de 1 de Janeiro de 1998, aplicando-se, para os anos subsequentes, o disposto na alínea d) do n.º 1 do artigo 2.º do Decreto-Lei n.º 159/96, de 4 de Setembro.\n\n2 - São considerados dias normais de trabalho todos os dias da semana, incluindo sábados, domingos e feriados.\n\n3 - As situações de trabalho extraordinário, de descanso semanal e descanso complementar, bem como a fixação da modalidade de horário, são definidas na programação de serviço a estabelecer mensalmente pelos núcleos regionais do corpo da guarda florestal da Direcção-Geral das Florestas, devendo, pelo menos uma vez por mês, fazer-se coincidir aqueles dias de descanso com o sábado e o domingo.\n\n4 - A programação a que se refere o número anterior pode ser alterada, devendo ser comunicada aos interessados com a antecedência de uma semana, salvo casos excepcionais, em que a referida comunicação poderá ser feita com a antecedência de quarenta e oito horas."
+  },
+  "1018228775": {
+   "fragment_id": "1018228675",
+   "type": 11,
+   "heading": "Artigo 10.º — Serviço permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Serviço permanente\n\n1 - O serviço do pessoal da carreira de guarda florestal considera-se de carácter permanente e obrigatório.\n\n2 - O pessoal, ainda que se encontre em período de folga ou descanso, deve tomar todas as providências necessárias para prevenir ou resolver quaisquer sinistros, ocorrências e infracções inerentes às normas legais de âmbito florestal."
+  },
+  "1018228975": {
+   "fragment_id": "1018228875",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime especial de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime especial de trabalho\n\n1 - Sempre que o horário diário de trabalho coincida, no todo ou em parte, com o período de trabalho nocturno, a remuneração respectiva é acrescida nos termos do artigo 27.º, n.º 3, do Decreto-Lei n.º 187/88, de 27 de Maio.\n\n2 - As situações de trabalho extraordinário e a prestação de trabalho em dias de descanso semanal e descanso complementar, programados nos termos do n.º 3 do artigo 9.º do presente diploma, bem como nos dias feriados, são igualmente remuneradas nos termos do Decreto-Lei n.º 187/88, de 27 de Maio, alterado pelo Decreto-Lei n.º 159/96, de 4 de Setembro."
+  },
+  "1018229175": {
+   "fragment_id": "1018229075",
+   "type": 11,
+   "heading": "Artigo 12.º — Domicílio profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Domicílio profissional\n\n1 - Para efeito de atribuição de ajudas de custo, aplicam-se as normas legais em vigor na função pública.\n\n2 - Os estagiários que tenham concluído com aproveitamento o respectivo estágio e se encontrem dentro das vagas são colocados de acordo com o ordenamento final de estágio, cabendo-lhes, por ordem decrescente, a escolha do lugar posto a concurso, de acordo com a distribuição de vagas, obrigatoriamente indicadas aquando da abertura do mesmo."
+  },
+  "1018229375": {
+   "fragment_id": "1018229275",
+   "type": 11,
+   "heading": "Artigo 13.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Patrocínio judiciário\n\n1 - O elemento do pessoal de carreira de guarda florestal que seja arguido em processo judicial por actos cometidos ou ocorridos no exercício e por causa das suas funções tem direito a ser assistido por advogado retribuído a expensas do Estado, através da Direcção-Geral das Florestas, bem como a transporte e ajudas de custo, quando a localização do tribunal ou das entidades policiais o justifique.\n\n2 - O advogado referido no n.º 1 anterior é indicado pela Direcção-Geral das Florestas, ouvido o interessado, em termos a regulamentar."
+  },
+  "1018229575": {
+   "fragment_id": "1018229475",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime de transição\n\n1 - Os actuais titulares das categorias de mestre florestal principal, mestre florestal e guarda florestal, bem como os estagiários, transitam para a mesma categoria e correspondente escalão.\n\n2 - Os titulares das categorias de mestre florestal e guarda florestal que à data de transição tenham seis ou mais anos de permanência no último escalão da respectiva categoria transitam, de imediato, para o escalão seguinte.\n\n3 - Sempre que, à data da transição, possuírem mais de três anos no último escalão, o tempo remanescente conta para efeitos de progressão.\n\n4 - A mudança de escalão opera-se quando ficar completo o módulo de tempo de três anos contado desde a data da transição, com excepção do previsto no número anterior."
+  },
+  "1018229775": {
+   "fragment_id": "1018229675",
+   "type": 11,
+   "heading": "Artigo 15.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Encargos\n\n1 - Os encargos resultantes da aplicação do presente diploma são suportados por dotação a inscrever no orçamento da Direcção-Geral das Florestas.\n\n2 - A produção de efeitos financeiros decorrentes da aplicação do presente diploma nunca será anterior à sua entrada em vigor."
+  },
+  "1018229975": {
+   "fragment_id": "1018229875",
+   "type": 11,
+   "heading": "Artigo 16.º — Suplemento de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Suplemento de risco\n\nAté à publicação de legislação específica sobre suplemento de risco, mantém-se transitoriamente em vigor o artigo 6.º do Decreto-Lei n.º 142/90, de 4 de Maio."
+  },
+  "1018230175": {
+   "fragment_id": "1018230075",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime supletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime supletivo\n\nEm tudo o que não estiver especialmente previsto neste diploma em matéria de regime retributivo aplica-se, subsidiariamente, o Decreto-Lei n.º 353-A/89, de 16 de Outubro, e legislação complementar."
+  },
+  "1018230375": {
+   "fragment_id": "1018230275",
+   "type": 11,
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\nÉ revogado o Decreto-Lei n.º 142/90, de 4 de Maio, à excepção do artigo 6.º"
+  },
+  "1018230575": {
+   "fragment_id": "1018230475",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma produz efeitos a partir de 1 de Janeiro de 1998."
+  },
+  "1018230775": {
+   "fragment_id": "1018230675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Fernando Manuel Van-Zeller Gomes da Silva.\n\nPromulgado em 9 de Abril de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 16 de Abril de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1018230975": {
+   "fragment_id": "1018230875",
+   "type": 14,
+   "heading": "Anexo N.º 1 — Carreira de guarda florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo N.º 1 — Carreira de guarda florestal\n\n(ver tabela no documento original)"
+  },
+  "1178214675": {
+   "fragment_id": "1018227875",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos dos estagiários",
+   "in_force_from": "2001-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 278/2001 - Diário da República n.º 243/2001, Série I-A de 2001-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2001-626255), em vigor a partir de 2001-10-24."
+   ],
+   "markdown": "###### Artigo 6.º — Direitos dos estagiários\n\nAo pessoal em regime de estágio é aplicável o regime de protecção social da função pública, em termos idênticos ao restante pessoal da carreira de guarda florestal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 278/2001 - Diário da República n.º 243/2001, Série I-A de 2001-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2001-626255), em vigor a partir de 2001-10-24."
+  },
+  "1178214875": {
+   "fragment_id": "1018229875",
+   "type": 11,
+   "heading": "Artigo 16.º — Suplemento de risco",
+   "in_force_from": "2001-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 278/2001 - Diário da República n.º 243/2001, Série I-A de 2001-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2001-626255), em vigor a partir de 2001-10-24."
+   ],
+   "markdown": "###### Artigo 16.º — Suplemento de risco\n\nAté à publicação de legislação específica sobre suplemento de risco, mantém-se transitoriamente em vigor o artigo 6.º do Decreto-Lei n.º 142/90, de 4 de Maio.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 278/2001 - Diário da República n.º 243/2001, Série I-A de 2001-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2001-626255), em vigor a partir de 2001-10-24."
+  },
+  "1178215075": {
+   "fragment_id": "1018230875",
+   "type": 14,
+   "heading": "Anexo N.º 1 — Carreira de guarda florestal",
+   "in_force_from": "2001-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 278/2001 - Diário da República n.º 243/2001, Série I-A de 2001-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2001-626255), em vigor a partir de 2001-10-24, com efeitos a partir de 2001-08-01."
+   ],
+   "markdown": "## Anexo N.º 1 — Carreira de guarda florestal\n\n(ver tabela no documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 278/2001 - Diário da República n.º 243/2001, Série I-A de 2001-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2001-626255), em vigor a partir de 2001-10-24, com efeitos a partir de 2001-08-01."
+  },
+  "1178499175": {
+   "fragment_id": "1018228275",
+   "type": 11,
+   "heading": "Artigo 8.º — Aposentação",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 8.º — Aposentação\n\n1 - O pessoal da carreira de guarda florestal pode requerer a passagem à situação de aposentado logo que atinja 55 anos de idade.\n\n2 - O pessoal que requeira a aposentação após completar 60 anos de idade beneficia do aumento de 20%, para efeitos de aposentação, sobre o tempo de serviço efectivo prestado na carreira de guarda florestal, mediante a liquidação das respectivas quotas à Caixa Geral de Aposentações.\n\n3 - O disposto no número anterior é também aplicável ao pessoal que, independentemente da idade, tenha direito à aposentação extraordinária, nos termos do artigo 38.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01."
+  }
+ }
+}

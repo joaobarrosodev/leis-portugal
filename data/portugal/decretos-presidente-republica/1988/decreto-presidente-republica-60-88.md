@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:380131:por
+title: Decreto do Presidente da República n.º 60/88
+short_title: null
+summary: Ratifica a Convenção para o Estabelecimento de Uma Organização Europeia para a Exploração de Satélites Meteorológicos
+  (EUMETSAT)
+jurisdiction: portugal
+territory: null
+document_type: decreto-presidente-republica
+document_type_label: Decreto do Presidente da República
+issuing_authority:
+- Presidência da República
+proposing_entity: null
+official_number: 60/88
+official_date: null
+publication_date: '1988-08-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 191/1988, Série I de 1988-08-19
+  number: '191'
+  series: I
+  supplement: null
+  pages: 3442 - 3442
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/08/19100/34423442.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '380131'
+  dre_path: /dr/detalhe/decreto-presidente-republica/60-1988-380131
+  internal: pt:dre:380131:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/60-1988-380131
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/60-1988-380131
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:03:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a2e4d697225a50162d4ee71ecd86764a9b21a62dc628e478c7c7b04c52963809
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:03:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Eumetsat
+- Genebra
+- Meteorologia
+- Portugal
+relationships:
+- type: cites
+  target: pt:dre:378081:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:03:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Presidente da República n.º 60/88
+
+O Presidente da República decreta, nos termos do artigo 138.º, alínea b), da Constituição, o seguinte:
+
+É ratificada a Convenção para o Estabelecimento de Uma Organização Europeia para a Exploração de Satélites Meteorológicos (EUMETSAT), aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 16/88](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/16-1988-378081), de 5 de Julho.
+
+Assinado em 28 de Julho de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 8 de Agosto de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -1,0 +1,188 @@
+---
+schema_version: '1.0'
+id: pt:dre:1152409211:por
+title: Resolução do Conselho de Ministros n.º 154/2026
+short_title: null
+summary: Autoriza a reprogramação dos encargos plurianuais da Resolução do Conselho de Ministros n.º 69/2025, de 20 de março,
+  que determina à Infraestruturas de Portugal, S. A., o estudo e concretização dos projetos rodoviários prioritários.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 154/2026
+official_date: null
+publication_date: '2026-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/2026, Série I de 2026-07-27
+  number: '143'
+  series: I
+  supplement: null
+  pages: 38 - 39
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/07/14300/0003800039.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/154/2026/07/27/p/dre/pt/html
+  oj: null
+  dre: '1152409211'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/154-2026-1152409211
+  internal: pt:dre:1152409211:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-2026-1152409211
+  metadata_url: https://data.dre.pt/eli/resolconsmin/154/2026/07/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/154-2026-1152409211
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:47:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4e21b3a1408cdd5479b9244e4add1cfe7aae57ed65f3b419588d7e7d91bee0b1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:47:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização de Despesas
+- Despesas Públicas
+- Infraestruturas de Portugal SA
+- Obras Públicas
+- Plano Rodoviario
+- Rede de Estradas
+relationships:
+- type: amends
+  target: pt:numero:resolucao-conselho-ministros:69/2025
+  label: Altera, com efeitos a partir de 17 de julho de 2026, o n.º 11 e o anexo da Resolução do Conselho de Ministros n.º
+    69/2025, de 20 de março, Diário da República n.º 56/2025, Série I
+  source: null
+  date: '2025-03-20'
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: pt:dre:629160:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/2007/11/13/p/dre
+- type: cites
+  target: pt:dre:911693279:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/69/2025/03/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:47:52Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 154/2026
+
+O [Decreto-Lei n.º 380/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-2007-629160), de 13 de novembro, que aprova as Bases da Concessão da Rede Rodoviária Nacional, atribui à IP - Infraestruturas de Portugal, S. A. (IP, S. A.), que sucedeu à EP - Estradas de Portugal, S. A., a mencionada concessão, estabelecendo que lhe compete a conservação, a exploração, a requalificação e o alargamento das vias que integram a Rede Rodoviária Nacional e, ainda, a conceção, projeto, construção, conservação, exploração, requalificação e alargamento das vias que integram a Rede Rodoviária Nacional Futura.
+
+Adicionalmente, as referidas Bases da Concessão estabelecem que a rede rodoviária deve ser disponibilizada de acordo com os níveis de serviço estabelecidos para cada tipo de via e prosseguir os objetivos de redução da sinistralidade e de sustentabilidade ambiental, devendo a IP, S. A., efetuar as reparações, renovações, adaptações, requalificações e alargamentos que, de acordo com as Bases da Concessão da Rede Rodoviária Nacional, para o efeito se tornem necessárias.
+
+Consequentemente, para o efeito, foi aprovada a [Resolução do Conselho de Ministros n.º 69/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/69-2025-911693279), de 20 de março, dando execução ao disposto nas Bases da Concessão da Rede Rodoviária Nacional, segundo as quais o Estado, na qualidade de concedente, impõe à IP, S. A., que proceda ao desenvolvimento das ações necessárias à concretização de um conjunto de projetos prioritários de infraestruturas rodoviárias.
+
+Assim, o n.º 1 da referida resolução, determina que a IP, S. A., prossiga os estudos tendo em vista a implementação dos seguintes projetos rodoviários:
+
+a) Variante EN222 - A32 (Nó Canedo)/IC2 Serrinha (Castelo de Paiva);
+
+b) IP8 (A26) - aumento de capacidade na ligação entre Sines e a A2 - troço 2: lanço IP8 entre Roncão e Grândola Norte (IC1);
+
+c) IC35 - Rans/Entre-os-Rios;
+
+d) Ligação de Baião a Ponte de Ermida - troço 2 - EN321-2 Baião/Lodão (construção de variante);
+
+e) EN103 - Vinhais/Bragança - troço 2 (construção de variante).
+
+E o n.º 2 da referida resolução, determina que a IP, S. A., desenvolva as ações necessárias à execução das seguintes intervenções de adaptação e requalificação:
+
+a) EN/ER218 - ponte sobre rio Maçãs (ligação Vimioso/Bragança);
+
+b) EN101/EN14 - no de Infias (Braga);
+
+c) EN341 - Alfarelos (EN342)/Taveiro (acesso ao Terminal Ferroviário de Alfarelos).
+
+Por outro lado os n.os10 e 11 do mesmo diploma, autorizam a IP, S. A., a assumir os encargos plurianuais e a realizar a despesa necessária à implementação dos projetos referidos nos n.os1 e 2, até ao montante máximo global de 446 710 000,00 €, ao qual acresce, se aplicável, o imposto sobre o valor acrescentado, à taxa legal em vigor, abrangendo os anos de 2025 a 2028.
+
+Ora considerando que, para o efeito, a IP, S. A., deu sequência aos procedimentos para a materialização dos projetos, em resultado dos quais, se veio a verificar que os montantes inicialmente considerados carecem de ajustamento em termos de valor e de período, sem alteração do montante global, torna-se necessário proceder à atualização (i) do respetivo cronograma financeiro de encargos plurianuais anteriormente autorizados e (ii) da repartição plurianual, alargando o período temporal até ao ano de 2030.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e da alínea a) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Alterar o n.º 11 da [Resolução do Conselho de Ministros n.º 69/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/69-2025-911693279), de 20 de março, que passa a ter a seguinte redação:
+
+«11 - Determinar que os encargos orçamentais resultantes do número anterior são repartidos, nos termos discriminados na tabela anexa à presente resolução e da qual faz parte integrante, de acordo com os seguintes limites anuais:
+
+a) 2025 - 222 248,88 €;
+
+b) 2026 - 20 674 637,96 €;
+
+c) 2027 - 161 428 291,38 €;
+
+d) 2028 - 210 821 049,85 €;
+
+e) 2029 - 51 513 771,93 €;
+
+f) 2030 - 2 050 000,00 €.»
+
+2 - Alterar o anexo a que se referem o n.º 11, a alínea b) do n.º 12 e as alíneas b) e c) do n.º 13 da [Resolução do Conselho de Ministros n.º 69/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/69-2025-911693279), de 20 de março, com a redação constante do anexo à presente resolução e da qual faz parte integrante.
+
+3 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 17 de julho de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+## ANEXO — (a que se refere o n.º 2)
+
+«ANEXO
+
+[a que se referem o n.º 11, a alínea b) do n.º 12 e as alíneas b) e c) do n.º 13]
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152409211/1152409058.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1152409211/1152409059.png) |
+| --- |
+
+»
+
+119949136

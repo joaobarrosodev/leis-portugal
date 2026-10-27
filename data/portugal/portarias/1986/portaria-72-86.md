@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:193449:por
+title: Portaria n.º 72/86
+short_title: null
+summary: Lança em circulação, cumulativamente com as que estão em vigor, uma emissão de selos com tarja fosforescente alusiva
+  aos castelos e brasões de Portugal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações - Secretaria de Estado dos Transportes e Comunicações
+proposing_entity: null
+official_number: 72/86
+official_date: null
+publication_date: '1986-03-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 57/1986, Série I de 1986-03-10
+  number: '57'
+  series: I
+  supplement: null
+  pages: 577 - 577
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/03/05700/05770577.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '193449'
+  dre_path: /dr/detalhe/portaria/72-1986-193449
+  internal: pt:dre:193449:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/72-1986-193449
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/72-1986-193449
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:57:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 478617f8a57828af5eb5d60969d2f9916e21cdc4a8d6e1bce825cb0deae9624a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:57:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Brasão de Armas
+- SELO Postal
+- Serviço Postal
+relationships:
+- type: cites
+  target: pt:dre:179355:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:57:03Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 72/86
+
+de 10 de Março
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes e Comunicações, que, ao abrigo das disposições do artigo 4.º do [Decreto-Lei n.º 360/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1985-179355), de 3 de Setembro, seja lançada em circulação, cumulativamente com as que estão em vigor, uma emissão de selos com tarja fosforescente alusiva aos castelos e brasões de Portugal, com as seguintes características:
+
+Autor: José Luís Tinoco e José Bènard Guedes.
+
+Dimensão: 40 mm x 30,6 mm.
+
+Picotado: 12 x 12 1/2.
+
+Impressor: INCM.
+
+1.º dia de circulação: 18 de Fevereiro de 1986.
+
+Taxas, motivos e quantidades:
+
+22$50 - Castelo da Feira - 1000000;
+
+22$50 - Castelo de Beja - 1000000;
+
+Carteiras contendo 4 selos de 22$50 do Castelo da Feira e ilustradas ao centro com o brasão de Aveiro - 100000;
+
+Carteiras contendo 4 selos de 22$50 do Castelo de Beja e ilustradas ao centro com o brasão de Beja - 100000;
+
+Secretaria de Estado dos Transportes e Comunicações.
+
+Assinada em 30 de Janeiro de 1986.
+
+O Secretário de Estado dos Transportes e Comunicações, Gonçalo Manuel Bourbon Sequeira Braga.

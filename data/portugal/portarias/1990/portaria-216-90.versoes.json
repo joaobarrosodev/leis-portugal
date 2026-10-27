@@ -1,0 +1,57 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:333350:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-1055043935",
+ "dre_path": "/dr/detalhe/portaria/216-1990-333350",
+ "source_lastmod": "2026-07-27",
+ "versions": [
+  {
+   "date": "1990-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:182442:por",
+     "title": "Declaração",
+     "published": "1990-04-30",
+     "dre_path": "/dr/detalhe/declaracao/1990-182442"
+    }
+   ],
+   "changes": [
+    "Retifica Anexo"
+   ],
+   "fragments": [
+    "1055162175",
+    "1055162375",
+    "1151728675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1055162175": {
+   "fragment_id": "1055162075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, nos termos do artigo 8.º do Decreto-Lei n.º 104/90, de 23 de Março, o seguinte:\n\n1.º Para efeitos da presente portaria entende-se por:\n\na) Exploração: a empresa agrícola ou o estábulo de negociante, oficialmente controlado, onde os animais de reprodução, de produção ou para abate são criados ou mantidos;\n\nb) Sala colectiva de ordenha mecânica (SCOM): a instalação destinada à ordenha mecânica de vacas com origem em pequenas explorações existentes na sua área de influência, cuja localização, instalação, equipamento e funcionamento obedecem a regulamentação específica;\n\nc) Zona de intervenção sanitária (ZIS): a área do território nacional com dimensão e geografia compatíveis com as medidas de política sanitária e uniformidade ecológica e edafoclimática compatíveis com as medidas de profilaxia;\n\nd) Zona infectada: a área com perímetro de pelo menos 2 km de diâmetro à volta de uma exploração ou SCOM na qual, de acordo com verificações oficiais, tenha sido detectado um caso clínico, serológico ou decorrente de inquérito epizootiológico especializado;\n\ne) Região infectada: a área geográfica alargada, definida pela autoridade sanitária nacional, onde, a partir de dados epidemiológicos oficiais relativos à peripneumonia contagiosa dos bovinos (PPCB), se justifique a adopção de medidas profilácticas uniformes;\n\nf) Inquérito epizootiológico especializado (IEE): o conjunto de acções a desenvolver a partir de uma suspeita clínica ou de inspecção sanitária post mortem que conduza à detecção de um caso de PPCB, confirmado laboratorialmente, que permita a identificação da exploração de origem do animal, com vista à aplicação das medidas previstas no Plano;\n\ng) Teste sorológico oficial: o teste de fixação do complemento (método de Campbell e Turner, modificado), levado a efeito em laboratório oficial ou em outro, àquele referenciado e oficialmente autorizado.\n\n2.º A peripneumonia contagiosa dos bovinos é uma doença de declaração obrigatória, constante do quadro nosonecrológico anexo ao Decreto-Lei n.º 39209, de 14 de Maio de 1953.\n\n3.º É expressamente proibida a imunoprofilaxia e o tratamento terapêutico da doença.\n\n4.º O rastreio é obrigatório para todos os bovinos maiores de seis meses, nas condições enumeradas nos n.os 8.º, 9.º e 10.º\n\n5.º O teste sorológico é o da F-C (método modificado de Campbell-Turner), referenciado ao Laboratório Nacional de Investigação Veterinária e complementado, em caso de positividade, com o 9 antigénio B 304 (Micoplamacapricolum).\n\n6.º As explorações são objecto de registo e classificação obrigatória relativamente à PPCB, em conformidade com o anexo a esta portaria.\n\n7.º São declaradas regiões infectadas as áreas das Direcções Regionais de Entre Douro e Minho (ZIS 1, 2 e 3) e da Beira Litoral (ZIS 7, 8 e 9).\n\n8.º Todos os bovinos maiores de seis meses existentes nas regiões infectadas deverão submeter-se, pelo menos, a dois controlos sorológicos por ano, intervalados de seis meses, até que hajam reagido negativamente a dois testes serológicos consecutivos.\n\n9.º Na periferia das regiões infectadas, numa área definida pelos concelhos limítrofes, das Direcções Regionais de Trás-os-Montes, Beira Interior e Ribatejo e Oeste será efectuado um rastreio serológico anual a, pelo menos, 50% do efectivo bovino maior de seis meses.\n\n10.º No restante território nacional proceder-se-á ao rastreio sorológico anual e aleatório de cerca de 10% do efectivo bovino maior de seis meses.\n\n11.º No espaço de tempo que medeia entre as colheitas de sangue e a notificação oficial dos proprietários deverão observar-se nas explorações as competentes medidas de vigilância sanitária e controlo de movimentação dos bovinos.\n\n12.º No caso de diagnóstico clínico, sorológico ou decorrente de IEE, o proprietário será de imediato notificado oficialmente e a exploração colocada sob rigoroso sequestro e vigilância sanitária.\n\n13.º Os animais destinados a abate sanitário serão marcados individualmente, de acordo com a Portaria n.º 789/73, de 13 de Novembro.\n\n14.º O animal ou animais considerados infectados e os coabitantes serão abatidos nos 30 dias seguintes à notificação do proprietário, sob controlo oficial, em conformidade com o disposto no n.º 17.º\n\n15.º O criador será indemnizado pelo abate sanitário dos animais e terá direito às demais compensações, em conformidade com a legislação em vigor.\n\n16.º Quando verificada a situação prevista no n.º 12.º há lugar a:\n\nI) Declaração de zona infectada;\n\nII) Proibição de movimentação de bovinos para fora das zonas infectadas, excepto para abate imediato, até que todos os bovinos maiores de seis meses hajam reagido negativamente a três testes serológicos, intervalados de dois meses;\n\nIII) Proibição da frequência das SCOM aos bovinos de exploração em sequestro até que todos hajam reagido negativamente a, pelo menos, três testes serológicos, intervalados de dois meses.\n\n17.º Para efeitos do disposto no n.º 14.º:\n\na) Nos efectivos até cinco bovinos será ordenado o abate sanitário da totalidade daqueles animais, independentemente da idade;\n\nb) Nos efectivos com mais de cinco bovinos ou nas salas colectivas de ordenha mecânica, quando a percentagem de animais clinicamente doentes ou serologicamente positivo exceda os 30% da totalidade, proceder-se-á ao seu abate na totalidade;\n\nc) Quando a percentagem de casos clínicos e soro-positivos for menor de 30%, só aqueles serão submetidos a abate sanitário, a menos que, por determinação oficial alicerçada em razões sanitárias ou a pedido do proprietário e com concordância oficial, se proceda ao abate na totalidade do efectivo.\n\n18.º O transporte dos bovinos clinicamente doentes, infectados, suspeitos e coabitantes para o matadouro será efectuado sob controlo oficial.\n\n19.º Aquando do vazio sanitário decorrente do referido nas alíneas a) e b) do n.º 17.º, proceder-se-á à limpeza e desinfecção das instalações e equipamento, sob controlo oficial.\n\n20.º O repovoamento far-se-á, sob autorização e controlo oficial, em estrito cumprimento das medidas de profilaxia em vigor, relativamente ao estatuto sanitário de origem, em conformidade com o anexo a esta portaria.\n\nMinistério da Agricultura, Pescas e Alimentação."
+  },
+  "1055162375": {
+   "fragment_id": "1055162275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 23 de Março de 1990.\n\nO Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha."
+  },
+  "1151728675": {
+   "fragment_id": "1055162475",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "1990-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182442), em vigor a partir de 1990-04-30."
+   ],
+   "markdown": "## Anexo\n\nPara efeitos de classificação sanitária das explorações relativamente à PPCB considera-se:\n\n1 - Isenta de PPCB:\n\n1.1 - A exploração ou SCOM onde nunca se hajam verificado casos clínicos, sorológicos ou decorrentes de IEE da doença;\n\n1.2 - A exploração ou SCOM onde, no decurso dos últimos 12 meses ou após vazio sanitário, se não hajam verificado casos clínicos ou decorrentes de IEE e em que todos os animais maiores de seis meses tenham obtido resultados negativos de dois testes sorológicos consecutivos, intervalados de seis meses;\n\n1.3 - A exploração ou SCOM situada em zona infectada na qual, no decurso dos últimos 12 meses, se não hajam verificado casos clínicos ou decorrentes de IEE e em que todos os animais maiores de seis meses tenham obtido resultados negativos em, pelo menos, três testes sorológicos consecutivos, intervalados de dois meses.\n\n2 - Em saneamento activo de PPCB:\n\n2.1 - A exploração ou SCOM, nas condições expressas na alínea c) do n.º 17.º, onde, após retirado para abate sanitário o último animal e levantado o sequestro, todos os animais maiores de seis meses tenham obtido resultados negativos em, pelo menos, dois testes sorológicos, intervalados de dois meses;\n\n2.2 - A execução destas medidas condicionam a ascensão ao estatuto sanitário superior;\n\n2.3 - A estas explorações é concedido o prazo de 18 meses para ascender de classificação.\n\n3 - Exploração suspeita de PPCB:\n\n3.1 - A exploração onde, após retirado para abate sanitário o último animal, estejam em curso as medidas preconizadas no n.º 2.1;\n\n3.2 - A execução destas medidas condiciona a ascensão ao estatuto sanitário superior;\n\n3.3 - A estas explorações é concedido o prazo de 24 meses para ascender de classificação.\n\n4 - Exploração infectada:\n\n4.1 - A exploração nas condições definidas no n.º 12.º e em transição para o estatuto imediatamente superior.\n\n5 - Nos casos definidos nos n.os 1 e 2 deste anexo só poderão ser introduzidos nas explorações animais:\n\n5.1 - Identificados individualmente;\n\n5.2 - Provenientes de explorações ou estabelecimentos de negociantes com estatuto sanitário idêntico ou superior, oficialmente comprovado;\n\n5.3 - Que não hajam contactado com outros animais susceptíveis em feiras, parques de gado e meios de transporte não oficialmente controlados.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182442), em vigor a partir de 1990-04-30."
+  }
+ }
+}

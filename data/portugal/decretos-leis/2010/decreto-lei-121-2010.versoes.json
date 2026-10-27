@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:307663:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-72797315",
+ "dre_path": "/dr/detalhe/decreto-lei/121-2010-307663",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-10-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "72784238",
+    "72784239",
+    "72784240",
+    "72784241",
+    "72784242",
+    "72784243",
+    "72784244",
+    "72784245",
+    "72784246",
+    "72784247",
+    "72784248"
+   ]
+  },
+  {
+   "date": "2016-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73740375:por",
+     "title": "Lei n.º 2/2016",
+     "published": "2016-02-29",
+     "dre_path": "/dr/detalhe/lei/2-2016-73740375"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "72784238",
+    "72784239",
+    "72784240",
+    "73723429",
+    "72784242",
+    "72784243",
+    "72784244",
+    "72784245",
+    "72784246",
+    "72784247",
+    "72784248",
+    "72784249"
+   ]
+  }
+ ],
+ "fragments": {
+  "72784238": {
+   "fragment_id": "72797316",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 121/2010\n\nde 27 de Outubro\n\nO presente decreto-lei procede à regulamentação do regime jurídico do apadrinhamento civil, aprovado pela Lei n.º 103/2009, de 11 de Setembro, concretizando os requisitos e os procedimentos necessários à habilitação da pessoa que pretende apadrinhar uma criança.\n\nA regulamentação da Lei n.º 103/2009, de 11 de Setembro, é necessária para que o regime jurídico do apadrinhamento civil possa produzir efeitos, e consequentemente concretizar novas respostas para crianças e jovens em risco, que permanecem em instituições de acolhimento, e que não beneficiam de forma plena dos cuidados parentais dos progenitores e que não se encontram em situação de adoptabilidade.\n\nO apadrinhamento civil permite que crianças e jovens em risco possam, a título definitivo, viver e criar laços de afectividade com uma família, que assume os poderes e os deveres dos pais, mantendo a criança, contudo, a sua filiação biológica.\n\nA criança ou jovem é integrada num ambiente familiar, ficando confiada a uma pessoa ou a uma família, que exerce os poderes próprios dos pais, através do vínculo do apadrinhamento civil, estabelecendo-se entre eles vínculos afectivos que permitam o bem-estar e desenvolvimento da criança.\n\nPorque está em causa o projecto de vida de crianças e jovens, o superior interesse da criança impõe a certificação das competências pessoais mínimas através de um processo de habilitação que avalia a idoneidade e a autonomia de vida das pessoas que pretendem adoptar.\n\nDe facto, apesar de os efeitos do apadrinhamento civil implicarem um regime mais simplificado e célere do que o regime da adopção, a habilitação dos padrinhos não deve ser, por isso, menos exigente do que a selecção dos candidatos a adoptantes, uma vez que, em ambos os casos, está em causa a constituição de um vínculo afectivo e jurídico entre uma criança ou jovem e um adulto ou família, com a atribuição de responsabilidades parentais.\n\nPor isso, a habilitação dos padrinhos pressupõe não só uma avaliação das capacidades dos candidatos ao apadrinhamento civil para estabelecerem relações afectivas próximas com uma criança ou jovem e para exercerem as inerentes responsabilidades parentais mas também uma avaliação das suas capacidades para estabelecerem relações de cooperação com os pais da criança ou jovem, tal como a lei exige.\n\nNa habilitação dos padrinhos torna-se, portanto, essencial proceder à avaliação de determinados elementos, nomeadamente a capacidade para o exercício das responsabilidades parentais, a disponibilidade para respeitar os direitos dos pais ou de outras pessoas relevantes para a criança ou o jovem, assim como a capacidade e disponibilidade dos padrinhos para promover a cooperação com os pais na criação das condições adequadas ao bem-estar e desenvolvimento da criança ou do jovem.\n\nDe facto, a constituição do vínculo de apadrinhamento civil nas condições previstas na Lei n.º 103/2009, de 11 de Setembro, não exclui o seu relacionamento com os progenitores, nos termos estabelecidos no compromisso ou decisão de apadrinhamento, nomeadamente no que respeita ao regime de visitas, pretendendo-se, com isto, uma cooperação entre os padrinhos e os pais da criança ou do jovem que concorra para o seu bem-estar e desenvolvimento integral.\n\nO presente decreto-lei permite ainda a intervenção, na habilitação de padrinhos, de instituições que disponham dos meios adequados e com as quais o organismo competente da segurança social celebre, para o efeito, acordos de cooperação.\n\nFoi ouvida a Comissão Nacional de Protecção das Crianças e Jovens em Risco.\n\nFoi promovida a audição do Observatório Permanente da Adopção.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "72784239": {
+   "fragment_id": "72797317",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei define os procedimentos para a habilitação dos padrinhos e procede à regulamentação da Lei n.º 103/2009, de 11 de Setembro."
+  },
+  "72784240": {
+   "fragment_id": "72797318",
+   "type": 11,
+   "heading": "Artigo 2.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Candidatura\n\n1 - Quem pretenda apadrinhar civilmente uma criança ou jovem deve comunicar essa intenção ao centro distrital de segurança social da sua área de residência, mediante preenchimento de uma ficha de candidatura.\n\n2 - A ficha de candidatura é acompanhada de todos os documentos necessários à comprovação dos requisitos previstos na Lei n.º 103/2009, de 11 de Setembro, e no artigo seguinte.\n\n3 - A falta de qualquer documento exigido no número anterior determina a rejeição liminar da candidatura.\n\n4 - Verificados os requisitos legais, o centro distrital de segurança social da sua área de residência comunica aos candidatos a admissão da candidatura ou a sua rejeição liminar."
+  },
+  "72784241": {
+   "fragment_id": "72797319",
+   "type": 11,
+   "heading": "Artigo 3.º — Factores de habilitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Factores de habilitação\n\n1 - A certificação, para efeitos do artigo 12.º da Lei n.º 103/2009, de 11 de Setembro, da idoneidade e autonomia de vida que permita ao candidato assumir as responsabilidades próprias do vínculo de apadrinhamento civil depende, para além da verificação dos requisitos gerais previstos na lei, da ponderação dos seguintes factores:\n\na) Personalidade, maturidade, capacidade afectiva e estabilidade emocional;\n\nb) Capacidades educativas e relacionais para responder às necessidades específicas da criança ou do jovem e para promover o seu desenvolvimento integral;\n\nc) Condições de higiene e de habitação;\n\nd) Situação económica, profissional e familiar;\n\ne) Ausência de limitações de saúde que impeçam prestar os cuidados necessários à criança ou ao jovem;\n\nf) Motivação e expectativas para a candidatura ao apadrinhamento civil;\n\ng) Disponibilidade para cooperar com o apoio previsto no artigo 20.º da Lei n.º 103/2009, de 11 de Setembro;\n\nh) Disponibilidade para receber a formação que os organismos competentes vierem a proporcionar;\n\ni) Disponibilidade para respeitar os direitos dos pais ou de outras pessoas relevantes para a criança ou o jovem;\n\nj) Capacidade e disponibilidade para promover a cooperação com os pais na criação das condições adequadas ao bem-estar e desenvolvimento da criança ou do jovem;\n\nl) Posição dos membros do agregado familiar dos candidatos, e por outros familiares com influência na dinâmica da família, face ao vínculo do apadrinhamento civil.\n\n2 - A habilitação depende, ainda, de o candidato ou de qualquer das pessoas que com ele coabitem não terem sido condenados, por sentença transitada em julgado, por qualquer dos crimes previstos na alínea a) do n.º 3 do artigo 2.º da Lei n.º 113/2009, de 17 de Setembro, devendo o respectivo certificado do registo criminal ser emitido nos termos dos n.os 4 e 5 do artigo 2.º da referida lei.\n\n3 - O candidato a padrinho não pode, igualmente, estar inibido do exercício das responsabilidades parentais nem ter o seu exercício limitado nos termos do artigo 1918.º do Código Civil.\n\n4 - Para efeitos da ponderação a que se refere o n.º 1, é, ainda, aplicável à habilitação dos padrinhos, com as necessárias adaptações, o disposto no artigo 3.º da Lei n.º 9/2010, de 31 de Março, e no artigo 7.º da Lei n.º 7/2001, de 11 de Maio."
+  },
+  "72784242": {
+   "fragment_id": "72797320",
+   "type": 11,
+   "heading": "Artigo 4.º — Decisão sobre a habilitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Decisão sobre a habilitação\n\n1 - A decisão sobre a habilitação dos padrinhos é precedida da elaboração de relatório psicossocial dos candidatos pelo centro distrital de segurança social da sua área de residência ou por qualquer das entidades previstas no artigo 7.º\n\n2 - A decisão a que se refere o número anterior é proferida no prazo de seis meses contados a partir da data de entrega da ficha de candidatura, instruída nos termos do artigo 2.º"
+  },
+  "72784243": {
+   "fragment_id": "72797321",
+   "type": 11,
+   "heading": "Artigo 5.º — Casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Casos especiais\n\n1 - As pessoas indicadas no n.º 5 do artigo 11.º da Lei n.º 103/2009, de 11 de Setembro, que pretendam apadrinhar devem apresentar, ao centro distrital de segurança social da sua área de residência, a informação prevista nas alíneas f) a l) do n.º 1 do artigo 3.º\n\n2 - Para efeitos do número anterior, o organismo da segurança social procede à audição da Comissão de Protecção de Crianças e Jovens que aplicou a medida ou da entidade que realizou a avaliação em que se baseou a decisão judicial de aplicação da medida ou de instauração da tutela.\n\n3 - Sempre que da informação prestada nos termos dos números anteriores resultem motivos que justifiquem a necessidade de uma avaliação global das pessoas referidas no n.º 1, o organismo da segurança social deve proceder à mesma nos termos do artigo 3.º"
+  },
+  "72784244": {
+   "fragment_id": "72797322",
+   "type": 11,
+   "heading": "Artigo 6.º — Alargamento da relação de apadrinhamento civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alargamento da relação de apadrinhamento civil\n\n1 - Sem prejuízo do número seguinte, a relação de apadrinhamento civil pode ser alargada ao cônjuge ou à pessoa que viva em união de facto com quem tenha apadrinhado civilmente uma criança ou jovem, desde que efectuada a respectiva habilitação, nos termos dos artigos 3.º a 5.º, e se mantenham as condições da relação inicial.\n\n2 - Ao alargamento da relação de apadrinhamento civil aplica-se o disposto no artigo 13.º da Lei n.º 103/2009, de 11 de Setembro, correndo o respectivo procedimento no processo em que foi constituída, por decisão ou homologação, a relação de apadrinhamento já constituída."
+  },
+  "72784245": {
+   "fragment_id": "72797323",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência\n\n1 - São competentes para receber a ficha de candidatura os centros distritais do Instituto da Segurança Social, I. P., o Instituto de Acção Social da Região Autónoma dos Açores, o Centro de Segurança Social da Região Autónoma da Madeira e, no concelho de Lisboa, a Santa Casa da Misericórdia de Lisboa.\n\n2 - Podem ainda receber a ficha de candidatura os organismos que tenham celebrado acordos de cooperação, nos termos do artigo seguinte."
+  },
+  "72784246": {
+   "fragment_id": "72797324",
+   "type": 11,
+   "heading": "Artigo 8.º — Acordos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acordos de cooperação\n\n1 - Para os efeitos previstos no n.º 3 do artigo 12.º da Lei n.º 103/2009, de 11 de Setembro, nos acordos de cooperação existentes com instituições na área da infância e juventude que desenvolvem respostas sociais no âmbito da protecção de crianças e jovens em situação de perigo, entende-se por meios adequados a constituição de uma equipa técnica multidisciplinar, composta por profissionais com formação diversificada no domínio da capacitação das famílias e do desenvolvimento integral da criança ou do jovem, assim como da logística necessária à respectiva intervenção.\n\n2 - É obrigação da instituição garantir a formação inicial e contínua da equipa técnica, bem como a sua supervisão e avaliação, com base em instrumentos de referência criados e disponibilizados pelo Instituto da Segurança Social, I. P.\n\n3 - Os acordos de cooperação devem prever o modo de evitar que o mesmo candidato mantenha candidaturas simultâneas em diferentes organismos competentes.\n\n4 - As alterações aos acordos de cooperação referidos no n.º 1 estão condicionadas às disponibilidades orçamentais afectas ao organismo competente da segurança social."
+  },
+  "72784247": {
+   "fragment_id": "72797325",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação e formação\n\nAs entidades previstas no artigo 7.º devem proporcionar aos interessados as informações que considerem relevantes para a realização de uma candidatura consciente, assim como garantir aos candidatos habilitados a formação conveniente para o sucesso do apadrinhamento civil."
+  },
+  "72784248": {
+   "fragment_id": "72797326",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 60 dias após a sua publicação."
+  },
+  "73723429": {
+   "fragment_id": "72797319",
+   "type": 11,
+   "heading": "Artigo 3.º — Factores de habilitação",
+   "in_force_from": "2016-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 2/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/2-2016-73740375), em vigor a partir de 2016-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Factores de habilitação\n\n1 - A certificação, para efeitos do artigo 12.º da Lei n.º 103/2009, de 11 de Setembro, da idoneidade e autonomia de vida que permita ao candidato assumir as responsabilidades próprias do vínculo de apadrinhamento civil depende, para além da verificação dos requisitos gerais previstos na lei, da ponderação dos seguintes factores:\n\na) Personalidade, maturidade, capacidade afectiva e estabilidade emocional;\n\nb) Capacidades educativas e relacionais para responder às necessidades específicas da criança ou do jovem e para promover o seu desenvolvimento integral;\n\nc) Condições de higiene e de habitação;\n\nd) Situação económica, profissional e familiar;\n\ne) Ausência de limitações de saúde que impeçam prestar os cuidados necessários à criança ou ao jovem;\n\nf) Motivação e expectativas para a candidatura ao apadrinhamento civil;\n\ng) Disponibilidade para cooperar com o apoio previsto no artigo 20.º da Lei n.º 103/2009, de 11 de Setembro;\n\nh) Disponibilidade para receber a formação que os organismos competentes vierem a proporcionar;\n\ni) Disponibilidade para respeitar os direitos dos pais ou de outras pessoas relevantes para a criança ou o jovem;\n\nj) Capacidade e disponibilidade para promover a cooperação com os pais na criação das condições adequadas ao bem-estar e desenvolvimento da criança ou do jovem;\n\nl) Posição dos membros do agregado familiar dos candidatos, e por outros familiares com influência na dinâmica da família, face ao vínculo do apadrinhamento civil.\n\n2 - A habilitação depende, ainda, de o candidato ou de qualquer das pessoas que com ele coabitem não terem sido condenados, por sentença transitada em julgado, por qualquer dos crimes previstos na alínea a) do n.º 3 do artigo 2.º da Lei n.º 113/2009, de 17 de Setembro, devendo o respectivo certificado do registo criminal ser emitido nos termos dos n.os 4 e 5 do artigo 2.º da referida lei.\n\n3 - O candidato a padrinho não pode, igualmente, estar inibido do exercício das responsabilidades parentais nem ter o seu exercício limitado nos termos do artigo 1918.º do Código Civil.\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 2/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/2-2016-73740375), em vigor a partir de 2016-03-01"
+  },
+  "72784249": {
+   "fragment_id": "72797328",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": ""
+  }
+ }
+}

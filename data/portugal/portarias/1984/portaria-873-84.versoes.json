@@ -1,0 +1,192 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:401066:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-893147260",
+ "dre_path": "/dr/detalhe/portaria/873-1984-401066",
+ "source_lastmod": "2024-10-25",
+ "versions": [
+  {
+   "date": "1984-11-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "893113183"
+   ]
+  },
+  {
+   "date": "1985-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144041:por",
+     "title": "Declaração",
+     "published": "1985-01-31",
+     "dre_path": "/dr/detalhe/declaracao/1985-144041"
+    }
+   ],
+   "changes": [
+    "Retifica Anexo I"
+   ],
+   "fragments": [
+    "893113183",
+    "893113185",
+    "893113186",
+    "893113187",
+    "893113188",
+    "893113189",
+    "893113190",
+    "893113191",
+    "893113192",
+    "893113193",
+    "893113194",
+    "893113195",
+    "893113196",
+    "893113184",
+    "893113202",
+    "893113198",
+    "893113199"
+   ]
+  }
+ ],
+ "fragments": {
+  "893113183": {
+   "fragment_id": "893147261",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 873/84\n\nde 24 de Novembro\n\nSob proposta do conselho científico da Faculdade de Letras da Universidade do Porto:\n\nAo abrigo do disposto nos Decretos-Leis n.os 173/80, de 29 de Maio, e 263/80, de 7 de Agosto, e no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:"
+  },
+  "893113185": {
+   "fragment_id": "893147263",
+   "type": 11,
+   "heading": "1.º — (Criação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — (Criação)\n\nA Universidade do Porto, através da Faculdade de Letras, confere o grau de mestre em:\n\na) Filosofia do Conhecimento;\n\nb) Filosofia Medieval;\n\nc) Filosofia Social e Política."
+  },
+  "893113186": {
+   "fragment_id": "893147264",
+   "type": 11,
+   "heading": "2.º — (Organização do curso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º — (Organização do curso)\n\nOs cursos especializados conducentes aos mestrados referidos no n.º 1.º, adiante simplesmente designados «cursos», organizam-se pelo sistema de unidades de crédito."
+  },
+  "893113187": {
+   "fragment_id": "893147265",
+   "type": 11,
+   "heading": "3.º — (Estrutura curricular)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º — (Estrutura curricular)\n\nA área científica e estrutura curricular dos cursos é a descrita nos anexos I a III a esta portaria."
+  },
+  "893113188": {
+   "fragment_id": "893147266",
+   "type": 11,
+   "heading": "4.º — (Duração normal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º — (Duração normal)\n\nA duração normal de cada curso é de 2 anos lectivos."
+  },
+  "893113189": {
+   "fragment_id": "893147267",
+   "type": 11,
+   "heading": "5.º — (Precedências)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — (Precedências)\n\nA tabela e o regime de precedências serão fixados pelo conselho científico."
+  },
+  "893113190": {
+   "fragment_id": "893147268",
+   "type": 11,
+   "heading": "6.º — (Habilitações de acesso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º — (Habilitações de acesso)\n\n1 - São admitidos à candidatura à matrícula nos cursos os titulares da licenciatura em Filosofia ou habilitação legalmente equivalente, com a classificação mínima de 14 valores.\n\n2 - Será igualmente exigido:\n\na) Para o curso de mestrado em Filosofia Social e Política, o conhecimento passivo de uma língua estrangeira, de entre um elenco a definir pelo conselho científico, a avaliar de acordo com critérios a fixar por este;\n\nb) Para o curso de mestrado em Filosofia Medieval, o conhecimento passivo de uma língua estrangeira, de entre um elenco a definir pelo conselho científico, e de latim básico, ambos a avaliar de acordo com critérios a fixar por aquele conselho."
+  },
+  "893113191": {
+   "fragment_id": "893147269",
+   "type": 11,
+   "heading": "7.º — («Números clausus»)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º — («Números clausus»)\n\n1 - Os numeri clausi dos cursos serão fixados anualmente por despacho do reitor da Universidade do Porto.\n\n2 - No mesmo despacho será igualmente fixada uma percentagem dos numeri clausi destinada prioritariamente a docentes de estabelecimentos de ensino superior."
+  },
+  "893113192": {
+   "fragment_id": "893147270",
+   "type": 11,
+   "heading": "8.º — (Critérios de selecção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º — (Critérios de selecção)\n\n1 - Os candidatos à matrícula no curso serão seleccionados pelo conselho científico tendo em consideração os seguintes critérios:\n\na) Classificação da licenciatura a que se refere o n.º 6.º;\n\nb) Currículos académico, científico e técnico;\n\nc) Experiência docente.\n\n2 - Será igualmente tida em consideração, nomeadamente para as vagas referidas no n.º 2 do n.º 7.º, uma equilibrada satisfação da procura por docentes de outros estabelecimentos de ensino superior.\n\n3 - O conselho científico poderá submeter os candidatos aos cursos à realização de provas académicas de selecção para avaliação do nível daqueles nas áreas científicas de base correspondentes aos cursos, bem como determinar a obrigatoriedade de frequência com aproveitamento de determinadas disciplinas do elenco de licenciaturas, ou outras, como condição prévia para a candidatura à matrícula.\n\n4 - A selecção será feita pelo conselho científico, de cuja decisão não cabe recurso, salvo se arguida de vício de forma."
+  },
+  "893113193": {
+   "fragment_id": "893147271",
+   "type": 11,
+   "heading": "9.º — (Regime geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º — (Regime geral)\n\nAs regras de matrícula e inscrição e, bem assim, do regime de faltas, de avaliação de conhecimentos e de classificação para as disciplinas que integram os cursos serão as previstas na lei para os cursos de licenciatura, naquilo em que não forem contrariadas pelo disposto na presente portaria e pela natureza dos cursos."
+  },
+  "893113194": {
+   "fragment_id": "893147272",
+   "type": 11,
+   "heading": "10.º — (Calendário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º — (Calendário)\n\nOs prazos da candidatura e inscrição e o calendário lectivo serão fixados pelo despacho a que se refere o n.º 7.º"
+  },
+  "893113195": {
+   "fragment_id": "893147273",
+   "type": 11,
+   "heading": "11.º — (Dispensa das provas complementares de doutoramento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º — (Dispensa das provas complementares de doutoramento)\n\nOs titulares de aprovação nos cursos terão dispensa da prova a que se refere o n.º 3 do artigo 8.º do Decreto-Lei n.º 388/70, de 18 de Agosto, para a obtenção do grau de doutor nas especialidades correspondentes."
+  },
+  "893113196": {
+   "fragment_id": "893147274",
+   "type": 11,
+   "heading": "12.º — (Entrada em funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º — (Entrada em funcionamento)\n\nA entrada em funcionamento dos cursos ficará dependente da existência na Universidade dos recursos humanos e materiais necessários à sua completa concretização.\n\nMinistério da Educação."
+  },
+  "893113184": {
+   "fragment_id": "893147262",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 9 de Outubro de 1984.\n\nO Ministro da Educação, José Augusto Seabra."
+  },
+  "893113202": {
+   "fragment_id": "893269675",
+   "type": 14,
+   "heading": "Anexo I — Filosofia do Conhecimento",
+   "in_force_from": "1985-01-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 26/1985, 2º Suplemento, Série I de 1985-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-144041), em vigor a partir de 1985-01-31"
+   ],
+   "markdown": "## Anexo I — Filosofia do Conhecimento\n\n1 - Área científica do curso:\n\nFilosofia do Conhecimento.\n\n2 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\na) História da Filosofia Moderna e Contemporânea...10\n\nb) História da Filosofia em Portugal - Épocas Moderna e Contemporânea ... 8\n\nTotal ... 18\n\n> Retificado pelo/a [Declaração - Diário da República n.º 26/1985, 2º Suplemento, Série I de 1985-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-144041), em vigor a partir de 1985-01-31"
+  },
+  "893113198": {
+   "fragment_id": "893269684",
+   "type": 14,
+   "heading": "Anexo II — Filosofia Medieval",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Filosofia Medieval\n\n1 - Área científica do curso:\n\nFilosofia Medieval.\n\n2 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\na) Pensamento Medieval dos Séculos XIII e XIV ... 12\n\nb) Latim Medieval ... 6\n\nTotal ... 18"
+  },
+  "893113199": {
+   "fragment_id": "893269686",
+   "type": 14,
+   "heading": "Anexo III — Filosofia Social e Política",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Filosofia Social e Política\n\n1 - Área científica do curso:\n\nFilosofia Social e Política.\n\n2 - Áreas científicas e unidades de crédito necessárias à obtenção do curso:\n\na) Filosofia Social e Política e Sociologia Política ... 12\n\nb) História das Doutrinas Sociais e Políticas ... 6\n\nTotal ... 18"
+  }
+ }
+}

@@ -1,0 +1,157 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:603490:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-107461572",
+ "dre_path": "/dr/detalhe/portaria/312-2009-603490",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-03-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107460697",
+    "107460698",
+    "107460699",
+    "107460700",
+    "107460701",
+    "107460702",
+    "107460703",
+    "107460704"
+   ]
+  },
+  {
+   "date": "2013-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499518:por",
+     "title": "Portaria n.º 279/2013",
+     "published": "2013-08-26",
+     "dre_path": "/dr/detalhe/portaria/279-2013-499518"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "107460697",
+    "107460698",
+    "107460725",
+    "107460726",
+    "107460701",
+    "107460727",
+    "107460703",
+    "107460704",
+    "107460705"
+   ]
+  }
+ ],
+ "fragments": {
+  "107460697": {
+   "fragment_id": "107461573",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 312/2009\n\nde 30 de Março\n\nO Decreto-Lei n.º 226/2008, de 20 de Novembro, adoptou diversas medidas destinadas a aperfeiçoar o modelo adoptado pela designada Reforma da Acção Executiva, que entrou em vigor em 15 de Setembro de 2003, aprofundando-o e criando condições para ser mais simples, eficaz e apto a evitar acções judiciais desnecessárias.\n\nEm conjugação com as medidas adoptadas para evitar acções judiciais desnecessárias, foram introduzidos mecanismos destinados a apoiar os executados em situação de sobreendividamento, procurando desta forma criar o elo de ligação que faltava entre o sistema de justiça e as entidades que prestam apoio ao sobreendividamento.\n\nCom efeito, os processos executivos, que se destinam muito frequentemente à cobrança judicial de dívidas, constituem uma componente muito significativa do sistema de justiça, tendo correspondido, em 2005, 2006 e 2007, a, respectivamente, 41,1 %, 36,1 % e 36,9 % das acções judiciais. Considerando esta utilização intensiva do sistema judicial para a cobrança de dívidas, este torna-se um precioso auxiliar para detectar potenciais situações de sobreendividamento e encaminhá-las para as entidades habilitadas a prestar apoio a estas situações.\n\nAssim, são criadas duas novas medidas destinadas a detectar e apoiar pessoas em situação de sobreendividamento.\n\nEm primeiro lugar, nas execuções extintas por não terem sido encontrados bens penhoráveis, é dada aos executados em situação de sobreendividamento a possibilidade de suspender a inclusão do registo do seu nome na lista pública de execuções, quando aderirem a um plano de pagamento elaborado por uma entidade específica e enquanto o estiverem a cumprir.\n\nEm segundo lugar, no caso dos processos de execução submetidos a centros de arbitragem em que o executado seja uma pessoa em situação de sobreendividamento, é dada a possibilidade de suspensão do processo por acordo entre as partes, se o executado aderir a um plano de pagamentos elaborado por uma entidade específica e enquanto o estiver a cumprir.\n\nRefira-se que a importância destas medidas se situa em dois planos. Por um lado, uma pessoa em situação de sobreendividamento é, em primeira linha, alguém que necessita de auxílio para reconstruir a sua situação financeira e poder voltar a honrar os seus compromissos. Daí que a preocupação essencial deva ser a de criar condições para a ajudar a criar um plano de pagamentos com os seus credores. Por outro, a criação de um plano de pagamentos por acordo entre a pessoa sobreendividada e os seus credores é, igualmente, uma situação mais vantajosa para estes, que assim vêm novamente como possível a recuperação de créditos que, de outra forma, seria muito difícil.\n\nA concretização destas medidas exige que se estabeleça a ligação entre os sistemas de apoio a situações de sobreendividamento, a lista pública de execuções e os centros de arbitragem de acção executiva. Esta ligação destina-se a garantir, por um lado, a suspensão dos registos constantes da lista pública de execuções referentes a executados sobreendividados, durante o prazo para elaboração e o cumprimento do plano de pagamento de dívida elaborado com o auxílio das entidades credenciadas, bem como a inclusão desses mesmos registos quando não tenha sido possível obter um acordo ou quando o mesmo não esteja a ser cumprido. Por outro, a garantir a suspensão dos processos de execução submetidos aos centros de arbitragem e referentes a executados sobreendividados, durante o cumprimento do plano de pagamento de dívida elaborado com o auxílio das entidades credenciadas, bem como a continuação desse mesmo processo quando não esteja a ser cumprido o plano de pagamento de dívida elaborado com o auxílio das entidades credenciadas.\n\nCom este objectivo, a presente portaria visa regular o regime aplicável ao reconhecimento dos sistemas de apoio ao sobreendividamento, que é uma condição essencial para garantir a ligação entre os sistemas de apoio a situações de sobreendividamento, a lista pública de execuções e os centros de arbitragem de acção executiva.\n\nOs sistemas de apoio ao sobreendividamento constituem um conjunto de mecanismos colocados à disposição de pessoas sobreendividadas por entidades habilitadas a prestar esses serviços e que têm como objectivo aconselhar, informar e acompanhar qualquer pessoa em situação de sobreendividamento na elaboração de um plano de pagamentos, através de procedimentos conciliatórios ou de mediação.\n\nTendo em vista a disponibilização destes sistemas de apoio aos executados sobreendividados, a presente portaria concretiza os passos a dar pelas entidades que prestam estes serviços para ver reconhecidos esses sistemas.\n\nAssim, em primeiro lugar, estabelece-se que qualquer pessoa colectiva, pública ou privada, pode requerer o reconhecimento de sistemas de apoio a situações de sobreendividamento.\n\nEm segundo lugar, procede-se à identificação das condições que, à data do pedido, devem ser cumpridas pelas entidades requerentes e pelos seus sistemas de apoio ao sobreendividamento, tendo em vista o respectivo reconhecimento. A portaria estabelece ainda que o incumprimento superveniente de qualquer uma destas condições acarreta a caducidade do reconhecimento atribuído.\n\nEm terceiro lugar, prevê-se que o pedido de reconhecimento do sistema de apoio ao sobreendividamento seja enviado por meios electrónicos, de acordo com um formulário a disponibilizar pelo Gabinete para a Resolução Alternativa de Litígios (GRAL) e instruído com a documentação necessária.\n\nFinalmente, atribui-se ao GRAL e ao seu director a competência para instruir e proferir a decisão final respeitante ao reconhecimento dos sistemas de apoio ao sobreendividamento.\n\nAssim:\n\nAo abrigo do n.º 2 do artigo 16.º-C do Decreto-Lei n.º 201/2003, de 10 de Setembro, e do artigo 18.º do Decreto-Lei n.º 226/2008, de 20 de Novembro, manda o Governo, pelo Ministro da Justiça, o seguinte:"
+  },
+  "107460698": {
+   "fragment_id": "107461574",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regulamenta o regime aplicável ao reconhecimento dos sistemas de apoio a situações de sobreendividamento, destinados a aconselhar, informar e acompanhar qualquer pessoa em situação de sobreendividamento na elaboração de um plano de pagamentos, através de procedimentos de negociação, conciliatórios ou de mediação, adiante designado por reconhecimento."
+  },
+  "107460699": {
+   "fragment_id": "107463575",
+   "type": 11,
+   "heading": "Artigo 2.º — Reconhecimento de sistemas de apoio ao sobreendividamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Reconhecimento de sistemas de apoio ao sobreendividamento\n\n1 - O reconhecimento pode ser solicitado por qualquer pessoa colectiva de direito público ou privado, que preencha os requisitos de candidatura previstos na presente portaria.\n\n2 - O reconhecimento confere às entidades requerentes a credenciação dos seus sistemas pelo Ministério da Justiça para o efeito de criação de uma ligação entre os sistemas reconhecidos, a lista pública de execuções e centros de arbitragem da acção executiva.\n\n3 - A criação da ligação entre o sistema de apoio a situações de sobreendividamento reconhecido, a lista pública de execuções e centros de arbitragem de acção executiva permite:\n\na) A suspensão dos registos constantes da lista pública de execuções referentes a executados sobreendividados, durante o prazo de 60 dias após o primeiro contacto pelo sobreendividado para elaboração do plano de pagamento de dívida com o auxílio das entidades credenciadas e durante o período de cumprimento desse plano, caso seja elaborado;\n\nb) A inclusão ou reinclusão dos registos constantes da lista pública de execuções referentes a executados sobreendividados, quando não tenha sido possível obter um acordo no prazo de 60 dias após o primeiro contacto pelo sobreendividado ou quando não esteja a ser cumprido o plano de pagamento de dívida elaborado com o auxílio das entidades credenciadas;\n\nc) A suspensão dos processos de execução submetidos aos centros de arbitragem e referentes a executados sobreendividados durante o prazo de 60 dias aceite pelos exequentes após o primeiro contacto pelo sobreendividado para criação do plano de pagamento de dívida elaborado com o auxílio das entidades credenciadas;\n\nd) A suspensão dos processos de execução submetidos aos centros de arbitragem e referentes a executados sobreendividados durante o período de cumprimento do plano referido na alínea anterior;\n\ne) O fim do período de suspensão dos processos de execução submetidos aos centros de arbitragem e referentes a executados sobreendividados, quando não tenha sido possível elaborar o plano de pagamento de dívida no prazo de 60 dias referido na alínea c) ou quando não esteja a ser cumprido o plano de pagamento de dívida elaborado com o auxílio das entidades credenciadas.\n\n4 - O reconhecimento é facultativo."
+  },
+  "107460700": {
+   "fragment_id": "107463576",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições gerais\n\n1 - A entidade requerente deve, à data do pedido, cumprir as seguintes condições:\n\na) Encontrar-se legalmente constituída;\n\nb) Possuir a situação regularizada face à administração fiscal e à segurança social;\n\nc) Integrar um responsável pela coordenação do sistema de apoio a situações de sobreendividamento.\n\n2 - Todos os sistemas de apoio a situações de sobreendividamento a reconhecer devem cumprir, cumulativamente, as seguintes condições:\n\na) Assegurar o diagnóstico de situações de sobreendividamento, designadamente para garantir que o sistema é utilizado por pessoas em efectiva situação de sobreendividamento e evitar a sua utilização abusiva ou com propósitos dilatórios;\n\nb) Privilegiar os mecanismos de negociação, conciliação ou mediação na obtenção de acordos entre devedores sobreendividados e credores;\n\nc) Garantir um elevado rigor técnico na elaboração dos planos de apoio ao sobreendividamento, através da supervisão do sistema por profissionais formados em Direito, Economia e Psicologia;\n\nd) Prevenir futuras situações de sobreendividamento, nomeadamente através da prestação de informação aos sobreendividados sobre noções indispensáveis de gestão de orçamento familiar;\n\ne) Garantir a comunicação por via electrónica a centros de arbitragem em matéria de acção executiva de acordos alcançados entre sobreendividados e entidades credoras, bem como do prazo de cumprimento estipulado, quando exista;\n\nf) Garantir a comunicação por via electrónica a centros de arbitragem em matéria de acção executiva do incumprimento de acordos alcançados entre sobreendividados e entidades credoras;\n\ng) Garantir a comunicação, preferencialmente por via electrónica, ao Gabinete para a Resolução Alternativa de Litígios (GRAL) e ao agente de execução da não inclusão ou inclusão de uma pessoa na lista pública de execuções;\n\nh) Garantir a celeridade do procedimento de apoio ao sobreendividamento e o cumprimento dos prazos estabelecidos no n.º 3 do artigo anterior."
+  },
+  "107460701": {
+   "fragment_id": "107463577",
+   "type": 11,
+   "heading": "Artigo 4.º — Apresentação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apresentação do pedido\n\n1 - A entidade interessada em obter o reconhecimento previsto nesta portaria deve dirigir por meios electrónicos um requerimento ao GRAL, preenchido de acordo com o modelo disponibilizado por este gabinete na sua página electrónica.\n\n2 - O pedido referido no número anterior deve ser instruído com os seguintes elementos:\n\na) Código de acesso à certidão permanente de registo comercial, número de identificação fiscal e endereço de correio electrónico;\n\nb) Denominação do sistema de apoio a situações de sobreendividamento;\n\nc) Descrição detalhada do procedimento de apoio ao sobreendividamento utilizado, com identificação dos mecanismos de negociação, conciliação ou mediação;\n\nd) Identificação do responsável pela coordenação do sistema de apoio a situações de sobreendividamento e respectivo currículo;\n\ne) Identificação da formação profissional dos responsáveis pelo acompanhamento do sobreendividado e apresentação dos respectivos currículos;\n\nf) Identificação dos critérios de caracterização do perfil do sobreendividado."
+  },
+  "107460702": {
+   "fragment_id": "107463578",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimento para reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento para reconhecimento\n\nApresentado o pedido nos termos do artigo anterior, compete ao GRAL proceder à instrução do processo de reconhecimento, devendo o respectivo director proferir a decisão no prazo máximo de 30 dias."
+  },
+  "107460703": {
+   "fragment_id": "107463579",
+   "type": 11,
+   "heading": "Artigo 6.º — Caducidade do reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Caducidade do reconhecimento\n\nA falta ou incumprimento superveniente de alguma das condições previstas no artigo 3.º determina a caducidade do reconhecimento atribuído nos termos da presente portaria."
+  },
+  "107460704": {
+   "fragment_id": "107463580",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 31 de Março de 2009."
+  },
+  "107460725": {
+   "fragment_id": "107463575",
+   "type": 11,
+   "heading": "Artigo 2.º — Reconhecimento de sistemas de apoio ao sobreendividamento",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 279/2013 - Diário da República n.º 163/2013, Série I de 2013-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/279-2013-499518), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Reconhecimento de sistemas de apoio ao sobreendividamento\n\n1 - O reconhecimento pode ser solicitado por qualquer pessoa colectiva de direito público ou privado, que preencha os requisitos de candidatura previstos na presente portaria.\n\n2 - O reconhecimento confere às entidades requerentes a credenciação dos seus sistemas pelo Ministério da Justiça para o efeito de criação de uma ligação entre os sistemas reconhecidos e a lista pública de execuções.\n\n3 - A criação da ligação entre o sistema de apoio a situações de sobre-endividamento reconhecido e a lista pública de execuções permite:\n\na) A suspensão dos registos constantes da lista pública de execuções referentes a executados sobreendividados, durante o prazo de 60 dias após o primeiro contacto pelo sobreendividado para elaboração do plano de pagamento de dívida com o auxílio das entidades credenciadas e durante o período de cumprimento desse plano, caso seja elaborado;\n\nb) A inclusão ou reinclusão dos registos constantes da lista pública de execuções referentes a executados sobreendividados, quando não tenha sido possível obter um acordo no prazo de 60 dias após o primeiro contacto pelo sobreendividado ou quando não esteja a ser cumprido o plano de pagamento de dívida elaborado com o auxílio das entidades credenciadas;\n\nc) [Revogada];\n\nd) [Revogada];\n\ne) [Revogada].\n\n4 - O reconhecimento é facultativo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 279/2013 - Diário da República n.º 163/2013, Série I de 2013-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/279-2013-499518), em vigor a partir de 2013-09-01"
+  },
+  "107460726": {
+   "fragment_id": "107463576",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições gerais",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 279/2013 - Diário da República n.º 163/2013, Série I de 2013-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/279-2013-499518), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Condições gerais\n\n1 - A entidade requerente deve, à data do pedido, cumprir as seguintes condições:\n\na) Encontrar-se legalmente constituída;\n\nb) Possuir a situação regularizada face à administração fiscal e à segurança social;\n\nc) Integrar um responsável pela coordenação do sistema de apoio a situações de sobreendividamento.\n\n2 - Todos os sistemas de apoio a situações de sobreendividamento a reconhecer devem cumprir, cumulativamente, as seguintes condições:\n\na) Assegurar o diagnóstico de situações de sobreendividamento, designadamente para garantir que o sistema é utilizado por pessoas em efectiva situação de sobreendividamento e evitar a sua utilização abusiva ou com propósitos dilatórios;\n\nb) Privilegiar os mecanismos de negociação, conciliação ou mediação na obtenção de acordos entre devedores sobreendividados e credores;\n\nc) Garantir um elevado rigor técnico na elaboração dos planos de apoio ao sobreendividamento, através da supervisão do sistema por profissionais formados em Direito, Economia e Psicologia;\n\nd) Prevenir futuras situações de sobreendividamento, nomeadamente através da prestação de informação aos sobreendividados sobre noções indispensáveis de gestão de orçamento familiar;\n\ne) [Revogada];\n\nf) [Revogada];\n\ng) Garantir a comunicação, preferencialmente por via eletrónica, ao Gabinete para a Resolução Alternativa de Litígios (GRAL), que se integra na Direção-Geral da Política de Justiça (DGPJ), e ao agente de execução da não inclusão ou inclusão de uma pessoa na lista pública de execuções;\n\nh) Garantir a celeridade do procedimento de apoio ao sobreendividamento e o cumprimento dos prazos estabelecidos no n.º 3 do artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 279/2013 - Diário da República n.º 163/2013, Série I de 2013-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/279-2013-499518), em vigor a partir de 2013-09-01"
+  },
+  "107460727": {
+   "fragment_id": "107463578",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimento para reconhecimento",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 279/2013 - Diário da República n.º 163/2013, Série I de 2013-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/279-2013-499518), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### Artigo 5.º — Procedimento para reconhecimento\n\nApresentado o pedido nos termos do artigo anterior, compete ao GRAL proceder à instrução do processo de reconhecimento, devendo a decisão ser proferida no prazo máximo de 30 dias.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 279/2013 - Diário da República n.º 163/2013, Série I de 2013-08-26](https://diariodarepublica.pt/dr/detalhe/portaria/279-2013-499518), em vigor a partir de 2013-09-01"
+  },
+  "107460705": {
+   "fragment_id": "107463581",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 27 de Março de 2009."
+  }
+ }
+}

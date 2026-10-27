@@ -1,0 +1,454 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:156296214:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-156296217",
+ "dre_path": "/dr/detalhe/decreto-lei/10-a-2021-156296214",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-02-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202172408",
+    "156295579",
+    "156295580",
+    "156295581",
+    "156295582",
+    "156295583",
+    "156295584",
+    "156295585",
+    "156295586",
+    "156295587",
+    "156295588",
+    "156295589",
+    "156295590",
+    "156295591",
+    "156295592",
+    "156295593"
+   ]
+  },
+  {
+   "date": "2021-04-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160994173:por",
+     "title": "Lei n.º 17/2021",
+     "published": "2021-04-07",
+     "dre_path": "/dr/detalhe/lei/17-2021-160994173"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "156295578",
+    "156295579",
+    "161056175",
+    "156295581",
+    "161056176",
+    "156295583",
+    "161056177",
+    "161056178",
+    "156295586",
+    "156295587",
+    "156295588",
+    "156295589",
+    "156295590",
+    "156295591",
+    "156295592",
+    "156295593",
+    "156295594"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202172408",
+    "202172409",
+    "202172410",
+    "202172411",
+    "202172412",
+    "202172413",
+    "202172414",
+    "202172415",
+    "202172416",
+    "202172417",
+    "202172418",
+    "202172419",
+    "202172420",
+    "202172421",
+    "202172422",
+    "202172423",
+    "202172424"
+   ]
+  }
+ ],
+ "fragments": {
+  "202172408": {
+   "fragment_id": "156296218",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10-A/2021\n\nde 2 de fevereiro\n\nSumário: Estabelece mecanismos excecionais de gestão de profissionais de saúde para realização de atividade assistencial, no âmbito da pandemia da doença COVID-19.\n\nO atual agravamento da situação epidemiológica nacional, causada pela infeção pelo novo coronavírus, tem colocado o sistema de saúde português e, em especial o Serviço Nacional de Saúde (SNS), sob uma elevada pressão de procura de cuidados de saúde.\n\nCom efeito, sem prejuízo do investimento realizado no SNS, desde a identificação do novo vírus SARS-CoV-2, nomeadamente em instalações, equipamentos, dispositivos médicos e medicamentos, a disponibilidade de profissionais de saúde permanece o maior desafio por superar. Trata-se de uma dificuldade sentida por todos os sistemas de saúde desde a primeira vaga da pandemia, que tem motivado a busca de soluções de reforço da força de trabalho disponível, como se encontra descrito, no relatório Health at a Glance: Europe 2020 State of Health in the EU Cycle.\n\nNeste contexto, pese embora as medidas já adotadas e que se mantêm em vigor em matéria de regimes excecionais de recrutamento e fixação de profissionais de saúde ao SNS, o Governo entende ser necessária a definição de medidas adicionais, de caráter extraordinário e transitório, aplicáveis aos serviços e estabelecimentos do SNS, de forma a enquadrar o esforço adicional destes trabalhadores, especialmente, daqueles que são prestadores diretos de cuidados, conferindo aos respetivos órgãos de administração mecanismos excecionais de gestão de profissionais de saúde que, no atual contexto, reforcem a disponibilidade para a prestação de cuidados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156295579": {
+   "fragment_id": "156296219",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece mecanismos excecionais de gestão de profissionais de saúde para realização de atividade assistencial, no âmbito da pandemia da doença COVID-19, nos serviços e estabelecimentos de saúde do Serviço Nacional de Saúde (SNS)."
+  },
+  "156295580": {
+   "fragment_id": "156296220",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nOs mecanismos de gestão previstos no presente decreto-lei só podem ser usados para fazer face ao aumento excecional e temporário das funções diretamente relacionadas com a pandemia da doença COVID-19, incluindo o respetivo Plano de Vacinação, e enquanto se mantiver essa necessidade."
+  },
+  "156295581": {
+   "fragment_id": "156296221",
+   "type": 11,
+   "heading": "Artigo 3.º — Remuneração do trabalho suplementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Remuneração do trabalho suplementar\n\n1 - O trabalho suplementar realizado pelos prestadores diretos de cuidados de saúde em funções no âmbito do combate à pandemia da doença COVID-19 é remunerado com acréscimo de 50 % sobre a remuneração correspondente à que caberia por igual período de trabalho suplementar.\n\n2 - Sem prejuízo do disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, fica suspenso o limite remuneratório estabelecido no n.º 7 do artigo 7.º do Decreto-Lei n.º 62/79, de 30 de março."
+  },
+  "156295582": {
+   "fragment_id": "156296222",
+   "type": 11,
+   "heading": "Artigo 4.º — Horário acrescido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Horário acrescido\n\n1 - Sempre que as necessidades de resposta à pandemia da doença COVID-19 o exijam, os enfermeiros e os assistentes operacionais com relação jurídica de emprego, independentemente da natureza jurídica do vínculo, sujeitos ao regime de 35 horas de trabalho semanal podem, com o seu acordo, praticar um regime de horário acrescido, a que corresponde uma carga horária semanal de 42 horas.\n\n2 - O regime de horário acrescido previsto no número anterior é atribuído pelo órgão máximo de gestão ou administração do serviço ou estabelecimento de saúde, a título excecional e por urgente conveniência do serviço, e produz efeitos imediatos.\n\n3 - O regime de horário acrescido confere o direito a um acréscimo remuneratório, a título de suplemento, correspondente a 37 % da remuneração base, cuja perceção só é devida em condições de prestação de trabalho efetivo.\n\n4 - Nos casos em que o regime de horário acrescido não seja assegurado pelo período completo de um mês, o suplemento referido no número anterior é proporcional ao número de horas que excedam as correspondentes ao tempo completo."
+  },
+  "156295583": {
+   "fragment_id": "156296223",
+   "type": 11,
+   "heading": "Artigo 5.º — Contratação excecional de médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contratação excecional de médicos\n\n1 - Os órgãos máximos de gestão dos serviços e estabelecimentos de saúde do SNS podem autorizar a contratação a termo resolutivo incerto de médicos a quem tenha sido reconhecido pela Ordem dos Médicos o exercício autónomo da Medicina, sempre que essa contratação se mostre indispensável para a prestação de cuidados de saúde no âmbito da pandemia da doença COVID-19, e enquanto essa situação se mantiver, com dispensa do cumprimento de quaisquer outras formalidades.\n\n2 - Os médicos contratados ao abrigo do número anterior auferem a remuneração correspondente à 1.ª posição, índice 90, do internato médico e ficam sujeitos a um período normal de trabalho semanal de 40 horas."
+  },
+  "156295584": {
+   "fragment_id": "156296224",
+   "type": 11,
+   "heading": "Artigo 6.º — Contratação de médicos aposentados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contratação de médicos aposentados\n\n1 - Os órgãos máximos de gestão ou administração dos serviços ou estabelecimentos de saúde do SNS podem, durante o período de vigência do presente decreto-lei, autorizar a contratação de médicos aposentados a termo resolutivo incerto, ao abrigo do Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual, sempre que essa contratação se mostre indispensável para a prestação de cuidados de saúde no âmbito da pandemia da doença COVID-19, e enquanto essa situação se mantiver.\n\n2 - Os contratos celebrados ao abrigo do disposto no número anterior vigoram pelo período máximo de 12 meses e não são considerados para efeitos do disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual.\n\n3 - Em tudo quanto não contrariar o disposto no presente artigo, aplica-se o regime previsto no Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual, bem como no artigo 54.º da Lei n.º 75-B/2020, de 31 de dezembro."
+  },
+  "156295585": {
+   "fragment_id": "156296225",
+   "type": 11,
+   "heading": "Artigo 7.º — Contratação de enfermeiros aposentados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contratação de enfermeiros aposentados\n\n1 - Os órgãos máximos de gestão ou administração dos serviços ou estabelecimentos de saúde do SNS podem autorizar a contratação de enfermeiros aposentados para exercer funções públicas ou prestar trabalho remunerado, sempre que essa contratação se mostre indispensável para a prestação de cuidados de saúde no âmbito da pandemia da doença COVID-19, e enquanto essa situação se mantiver.\n\n2 - Os enfermeiros referidos no número anterior são contratados ao abrigo e nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, e têm direito a manter a respetiva pensão de aposentação, acrescida de 75 % da remuneração correspondente à categoria e, consoante o caso, à posição remuneratória ou escalão detido à data da aposentação.\n\n3 - Sem prejuízo do disposto no número anterior, nos casos em que a atividade contratada pressuponha uma carga horária inferior à do regime de trabalho detido à data da aposentação, nos termos legalmente estabelecidos, o enfermeiro aposentado é remunerado na proporção do respetivo período normal de trabalho semanal.\n\n4 - Para os efeitos do número anterior, se o período normal de trabalho não for igual em cada semana, é considerada a respetiva média no período de referência de um mês.\n\n5 - Os contratos celebrados ao abrigo dos números anteriores vigoram pelo período máximo de 12 meses.\n\n6 - O disposto no presente artigo não prejudica o regime previsto no artigo 6.º-C do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual."
+  },
+  "156295586": {
+   "fragment_id": "156296226",
+   "type": 11,
+   "heading": "Artigo 8.º — Remuneração de trabalho por turnos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Remuneração de trabalho por turnos\n\n1 - Os órgãos máximos de gestão ou administração dos serviços ou estabelecimentos de saúde podem autorizar um modelo remuneratório para realização de turnos com recurso a médicos especialistas e enfermeiros, com vínculo ao SNS, sempre que se mostre indispensável para a prestação de cuidados de saúde no âmbito da pandemia da doença COVID-19, nos termos previstos nos números seguintes.\n\n2 - Este regime é aplicável:\n\na) Aos trabalhadores com vínculo ao SNS que não pertençam ao mapa de pessoal da entidade, considerando-se, desde já, autorizada a respetiva acumulação de funções;\n\nb) Aos trabalhadores com respetivo mapa de pessoal e se encontrem sujeitos a um horário específico que os dispense da prestação de trabalho em período noturno e aos fins de semana, desde que para tal manifestem disponibilidade.\n\n3 - O trabalho realizado ao abrigo do presente artigo é considerado trabalho suplementar, e remunerado exclusivamente nos seguintes termos:\n\na) Turnos de 6 horas, grupo de pessoal médico:\n\ni) Trabalho diurno, dias úteis - (euro) 162,49;\n\nii) Trabalho noturno, dias úteis e trabalho diurno aos sábados, domingos e feriados - (euro) 218,20;\n\niii) Trabalho noturno aos sábados, domingos e feriados - (euro) 273,91;\n\nb) Turnos de 12 horas, grupo de pessoal médico:\n\ni) Trabalho diurno, dias úteis - (euro) 329,62;\n\nii) Trabalho noturno, dias úteis e trabalho diurno aos sábados, domingos e feriados - (euro) 441,04;\n\niii) Trabalho noturno aos sábados, domingos e feriados - (euro) 552,46;\n\nc) Turnos de 6 horas para enfermeiros:\n\ni) Trabalho diurno, dias úteis - (euro) 71,23;\n\nii) Trabalho noturno, dias úteis e trabalho diurno aos sábados, domingos e feriados - (euro) 95,65;\n\niii) Trabalho noturno aos sábados, domingos e feriados - (euro) 120,07;\n\nd) Turnos de 12 horas para enfermeiros:\n\ni) Trabalho diurno, dias úteis - (euro) 144,49;\n\nii) Trabalho noturno, dias úteis e trabalho diurno aos sábados, domingos e feriados - (euro) 193,33;\n\niii) Trabalho noturno aos sábados, domingos e feriados - (euro) 242,17.\n\n4 - Nas situações em que os turnos abranjam tipologias de horários distintas, é considerado, para efeitos de pagamento, o montante que corresponda ao maior número de horas realizadas.\n\n5 - O pagamento dos turnos realizados por profissionais vinculados ao SNS, nos termos previstos no n.º 2, é assegurado pela entidade a que o respetivo profissional se encontra vinculado, com direito de regresso sobre a entidade que dele beneficia."
+  },
+  "156295587": {
+   "fragment_id": "156296227",
+   "type": 11,
+   "heading": "Artigo 9.º — Contratação de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contratação de prestação de serviços\n\nEm situações manifestamente excecionais, designadamente, quando a necessidade de profissionais de saúde não possa ser satisfeita por recurso a relações jurídicas de emprego a constituir ou pelos mecanismos previstos nos artigos anteriores, pode o órgão máximo de gestão ou administração dos serviços e estabelecimentos de saúde do SNS autorizar, com dispensa de quaisquer formalidades e pelo período de vigência do presente decreto-lei, a celebração de contratos de prestação e de aquisição de serviços, sendo comunicados à Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.)."
+  },
+  "156295588": {
+   "fragment_id": "156296228",
+   "type": 11,
+   "heading": "Artigo 10.º — Afetação do período normal de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Afetação do período normal de trabalho\n\nDurante a vigência do presente decreto-lei, independentemente da carreira que esteja em causa, o período normal de trabalho dos trabalhadores de serviços e estabelecimentos de saúde do SNS pode ser integralmente afeto a atividades diretamente relacionadas com o tratamento da COVID-19."
+  },
+  "156295589": {
+   "fragment_id": "156296229",
+   "type": 11,
+   "heading": "Artigo 11.º — Realização de estágios curriculares e extracurriculares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Realização de estágios curriculares e extracurriculares\n\nOs órgãos máximos de gestão dos serviços e estabelecimentos de saúde do SNS devem autorizar a realização de estágios curriculares e extracurriculares que lhes sejam solicitados por alunos do ensino superior da área da saúde que frequentem o último ano do respetivo curso, sempre que estes se disponibilizem, sob a supervisão de um orientador a designar para o efeito, a desenvolver atividades de apoio no âmbito da pandemia da doença COVID-19."
+  },
+  "156295590": {
+   "fragment_id": "156296230",
+   "type": 11,
+   "heading": "Artigo 12.º — Designação de delegados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Designação de delegados de saúde\n\n1 - Pode, a título excecional, ser dispensada a qualificação médica estabelecida dos delegados de saúde no n.º 4 do artigo 4.º do Decreto-Lei n.º 82/2009, de 2 de abril, na sua redação atual.\n\n2 - A designação nos termos do disposto no número anterior tem a duração máxima de um ano."
+  },
+  "156295591": {
+   "fragment_id": "156296231",
+   "type": 11,
+   "heading": "Artigo 13.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Dever de informação\n\nTodas as contratações efetuadas ao abrigo do presente decreto-lei são comunicadas à ACSS, I. P., que informa, mensalmente, para conhecimento e registo, a Direção-Geral do Orçamento."
+  },
+  "156295592": {
+   "fragment_id": "156296232",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nSão revogados os artigos 6.º-B e 6.º-D do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual."
+  },
+  "156295593": {
+   "fragment_id": "156296233",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e vigência\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O presente decreto-lei vigora por um período de 60 dias, a contar da data da sua entrada em vigor, sem prejuízo dos efeitos que decorram dos mecanismos de contratação previstos nos artigos 5.º, 6.º e 7.º"
+  },
+  "156295578": {
+   "fragment_id": "156296218",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10-A/2021\n\nde 2 de fevereiro\n\nSumário: Estabelece mecanismos excecionais de gestão de profissionais de saúde para realização de atividade assistencial, no âmbito da pandemia da doença COVID-19.\n\nO atual agravamento da situação epidemiológica nacional, causada pela infeção pelo novo coronavírus, tem colocado o sistema de saúde português e, em especial o Serviço Nacional de Saúde (SNS), sob uma elevada pressão de procura de cuidados de saúde.\n\nCom efeito, sem prejuízo do investimento realizado no SNS, desde a identificação do novo vírus SARS-CoV-2, nomeadamente em instalações, equipamentos, dispositivos médicos e medicamentos, a disponibilidade de profissionais de saúde permanece o maior desafio por superar. Trata-se de uma dificuldade sentida por todos os sistemas de saúde desde a primeira vaga da pandemia, que tem motivado a busca de soluções de reforço da força de trabalho disponível, como se encontra descrito, no relatório Health at a Glance: Europe 2020 State of Health in the EU Cycle.\n\nNeste contexto, pese embora as medidas já adotadas e que se mantêm em vigor em matéria de regimes excecionais de recrutamento e fixação de profissionais de saúde ao SNS, o Governo entende ser necessária a definição de medidas adicionais, de caráter extraordinário e transitório, aplicáveis aos serviços e estabelecimentos do SNS, de forma a enquadrar o esforço adicional destes trabalhadores, especialmente, daqueles que são prestadores diretos de cuidados, conferindo aos respetivos órgãos de administração mecanismos excecionais de gestão de profissionais de saúde que, no atual contexto, reforcem a disponibilidade para a prestação de cuidados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "161056175": {
+   "fragment_id": "156296220",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2021-04-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nOs mecanismos de gestão previstos no presente decreto-lei só podem ser usados para fazer face ao aumento excecional e temporário das funções diretamente relacionadas com a pandemia da doença COVID-19, incluindo o respetivo Plano de Vacinação, e enquanto se mantiver esta necessidade, assim como para a recuperação da atividade assistencial suspensa, ao nível dos cuidados de saúde primários e dos cuidados hospitalares.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+  },
+  "161056176": {
+   "fragment_id": "156296222",
+   "type": 11,
+   "heading": "Artigo 4.º — Horário acrescido",
+   "in_force_from": "2021-04-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 4.º — Horário acrescido\n\n1 - Sempre que as necessidades de resposta à pandemia da doença COVID-19 e a recuperação da atividade assistencial nos cuidados de saúde primários e nos cuidados hospitalares o exijam, os enfermeiros, os técnicos superiores nas áreas de diagnóstico e terapêutica, os técnicos superiores de saúde, os assistentes técnicos e os assistentes operacionais com relação jurídica de emprego, independentemente da natureza jurídica do vínculo, sujeitos ao regime de 35 horas de trabalho semanal ou outro regime que seja inferior a 40 horas de trabalho semanal podem, com o seu acordo, praticar um regime de horário acrescido, a que corresponde uma carga horária semanal de 42 horas.\n\n2 - O regime de horário acrescido previsto no número anterior é atribuído pelo órgão máximo de gestão ou administração do serviço ou estabelecimento de saúde, a título excecional e por urgente conveniência do serviço, e produz efeitos imediatos.\n\n3 - O regime de horário acrescido confere o direito a um acréscimo remuneratório, a título de suplemento, correspondente a 37 % da remuneração base, cuja perceção só é devida em condições de prestação de trabalho efetivo.\n\n4 - Nos casos em que o regime de horário acrescido não seja assegurado pelo período completo de um mês, o suplemento referido no número anterior é proporcional ao número de horas que excedam as correspondentes ao tempo completo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+  },
+  "161056177": {
+   "fragment_id": "156296224",
+   "type": 11,
+   "heading": "Artigo 6.º — Contratação de médicos aposentados",
+   "in_force_from": "2021-04-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 6.º — Contratação de médicos aposentados\n\n1 - Os órgãos máximos de gestão ou administração dos serviços ou estabelecimentos de saúde do SNS podem, durante o período de vigência do presente decreto-lei, autorizar a contratação de médicos aposentados a termo resolutivo incerto, ao abrigo do Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual, sempre que essa contratação se mostre indispensável para a prestação de cuidados no âmbito da pandemia da doença COVID-19, enquanto essa situação se mantiver, e no âmbito da recuperação da atividade assistencial nos cuidados de saúde primários e nos cuidados hospitalares.\n\n2 - Os contratos celebrados ao abrigo do disposto no número anterior vigoram pelo período máximo de 12 meses e não são considerados para efeitos do disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual.\n\n3 - Em tudo quanto não contrariar o disposto no presente artigo, aplica-se o regime previsto no Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual, bem como no artigo 54.º da Lei n.º 75-B/2020, de 31 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+  },
+  "161056178": {
+   "fragment_id": "156296225",
+   "type": 11,
+   "heading": "Artigo 7.º — Contratação de enfermeiros aposentados",
+   "in_force_from": "2021-04-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 7.º — Contratação de enfermeiros aposentados\n\n1 - Os órgãos máximos de gestão ou administração dos serviços ou estabelecimentos de saúde do SNS podem autorizar a contratação de enfermeiros aposentados para exercer funções públicas ou prestar trabalho remunerado, sempre que essa contratação se mostre indispensável para a prestação de cuidados no âmbito da pandemia da doença COVID-19, enquanto essa situação se mantiver, e no âmbito da recuperação da atividade assistencial nos cuidados de saúde primários e nos cuidados hospitalares.\n\n2 - Os enfermeiros referidos no número anterior são contratados ao abrigo e nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, e têm direito a manter a respetiva pensão de aposentação, acrescida de 75 % da remuneração correspondente à categoria e, consoante o caso, à posição remuneratória ou escalão detido à data da aposentação.\n\n3 - Sem prejuízo do disposto no número anterior, nos casos em que a atividade contratada pressuponha uma carga horária inferior à do regime de trabalho detido à data da aposentação, nos termos legalmente estabelecidos, o enfermeiro aposentado é remunerado na proporção do respetivo período normal de trabalho semanal.\n\n4 - Para os efeitos do número anterior, se o período normal de trabalho não for igual em cada semana, é considerada a respetiva média no período de referência de um mês.\n\n5 - Os contratos celebrados ao abrigo dos números anteriores vigoram pelo período máximo de 12 meses.\n\n6 - O disposto no presente artigo não prejudica o regime previsto no artigo 6.º-C do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+  },
+  "156295594": {
+   "fragment_id": "156296234",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de janeiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 2 de fevereiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 2 de fevereiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113943473"
+  },
+  "202172409": {
+   "fragment_id": "156296219",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece mecanismos excecionais de gestão de profissionais de saúde para realização de atividade assistencial, no âmbito da pandemia da doença COVID-19, nos serviços e estabelecimentos de saúde do Serviço Nacional de Saúde (SNS).\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172410": {
+   "fragment_id": "156296220",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nOs mecanismos de gestão previstos no presente decreto-lei só podem ser usados para fazer face ao aumento excecional e temporário das funções diretamente relacionadas com a pandemia da doença COVID-19, incluindo o respetivo Plano de Vacinação, e enquanto se mantiver esta necessidade, assim como para a recuperação da atividade assistencial suspensa, ao nível dos cuidados de saúde primários e dos cuidados hospitalares.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+  },
+  "202172411": {
+   "fragment_id": "156296221",
+   "type": 11,
+   "heading": "Artigo 3.º — Remuneração do trabalho suplementar",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Remuneração do trabalho suplementar\n\n1 - O trabalho suplementar realizado pelos prestadores diretos de cuidados de saúde em funções no âmbito do combate à pandemia da doença COVID-19 é remunerado com acréscimo de 50 % sobre a remuneração correspondente à que caberia por igual período de trabalho suplementar.\n\n2 - Sem prejuízo do disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, fica suspenso o limite remuneratório estabelecido no n.º 7 do artigo 7.º do Decreto-Lei n.º 62/79, de 30 de março.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172412": {
+   "fragment_id": "156296222",
+   "type": 11,
+   "heading": "Artigo 4.º — Horário acrescido",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 4.º — Horário acrescido\n\n1 - Sempre que as necessidades de resposta à pandemia da doença COVID-19 e a recuperação da atividade assistencial nos cuidados de saúde primários e nos cuidados hospitalares o exijam, os enfermeiros, os técnicos superiores nas áreas de diagnóstico e terapêutica, os técnicos superiores de saúde, os assistentes técnicos e os assistentes operacionais com relação jurídica de emprego, independentemente da natureza jurídica do vínculo, sujeitos ao regime de 35 horas de trabalho semanal ou outro regime que seja inferior a 40 horas de trabalho semanal podem, com o seu acordo, praticar um regime de horário acrescido, a que corresponde uma carga horária semanal de 42 horas.\n\n2 - O regime de horário acrescido previsto no número anterior é atribuído pelo órgão máximo de gestão ou administração do serviço ou estabelecimento de saúde, a título excecional e por urgente conveniência do serviço, e produz efeitos imediatos.\n\n3 - O regime de horário acrescido confere o direito a um acréscimo remuneratório, a título de suplemento, correspondente a 37 % da remuneração base, cuja perceção só é devida em condições de prestação de trabalho efetivo.\n\n4 - Nos casos em que o regime de horário acrescido não seja assegurado pelo período completo de um mês, o suplemento referido no número anterior é proporcional ao número de horas que excedam as correspondentes ao tempo completo.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+  },
+  "202172413": {
+   "fragment_id": "156296223",
+   "type": 11,
+   "heading": "Artigo 5.º — Contratação excecional de médicos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Contratação excecional de médicos\n\n1 - Os órgãos máximos de gestão dos serviços e estabelecimentos de saúde do SNS podem autorizar a contratação a termo resolutivo incerto de médicos a quem tenha sido reconhecido pela Ordem dos Médicos o exercício autónomo da Medicina, sempre que essa contratação se mostre indispensável para a prestação de cuidados de saúde no âmbito da pandemia da doença COVID-19, e enquanto essa situação se mantiver, com dispensa do cumprimento de quaisquer outras formalidades.\n\n2 - Os médicos contratados ao abrigo do número anterior auferem a remuneração correspondente à 1.ª posição, índice 90, do internato médico e ficam sujeitos a um período normal de trabalho semanal de 40 horas.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172414": {
+   "fragment_id": "156296224",
+   "type": 11,
+   "heading": "Artigo 6.º — Contratação de médicos aposentados",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 6.º — Contratação de médicos aposentados\n\n1 - Os órgãos máximos de gestão ou administração dos serviços ou estabelecimentos de saúde do SNS podem, durante o período de vigência do presente decreto-lei, autorizar a contratação de médicos aposentados a termo resolutivo incerto, ao abrigo do Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual, sempre que essa contratação se mostre indispensável para a prestação de cuidados no âmbito da pandemia da doença COVID-19, enquanto essa situação se mantiver, e no âmbito da recuperação da atividade assistencial nos cuidados de saúde primários e nos cuidados hospitalares.\n\n2 - Os contratos celebrados ao abrigo do disposto no número anterior vigoram pelo período máximo de 12 meses e não são considerados para efeitos do disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual.\n\n3 - Em tudo quanto não contrariar o disposto no presente artigo, aplica-se o regime previsto no Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual, bem como no artigo 54.º da Lei n.º 75-B/2020, de 31 de dezembro.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+  },
+  "202172415": {
+   "fragment_id": "156296225",
+   "type": 11,
+   "heading": "Artigo 7.º — Contratação de enfermeiros aposentados",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+   ],
+   "markdown": "###### Artigo 7.º — Contratação de enfermeiros aposentados\n\n1 - Os órgãos máximos de gestão ou administração dos serviços ou estabelecimentos de saúde do SNS podem autorizar a contratação de enfermeiros aposentados para exercer funções públicas ou prestar trabalho remunerado, sempre que essa contratação se mostre indispensável para a prestação de cuidados no âmbito da pandemia da doença COVID-19, enquanto essa situação se mantiver, e no âmbito da recuperação da atividade assistencial nos cuidados de saúde primários e nos cuidados hospitalares.\n\n2 - Os enfermeiros referidos no número anterior são contratados ao abrigo e nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, e têm direito a manter a respetiva pensão de aposentação, acrescida de 75 % da remuneração correspondente à categoria e, consoante o caso, à posição remuneratória ou escalão detido à data da aposentação.\n\n3 - Sem prejuízo do disposto no número anterior, nos casos em que a atividade contratada pressuponha uma carga horária inferior à do regime de trabalho detido à data da aposentação, nos termos legalmente estabelecidos, o enfermeiro aposentado é remunerado na proporção do respetivo período normal de trabalho semanal.\n\n4 - Para os efeitos do número anterior, se o período normal de trabalho não for igual em cada semana, é considerada a respetiva média no período de referência de um mês.\n\n5 - Os contratos celebrados ao abrigo dos números anteriores vigoram pelo período máximo de 12 meses.\n\n6 - O disposto no presente artigo não prejudica o regime previsto no artigo 6.º-C do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/17-2021-160994173), em vigor a partir de 2021-04-08"
+  },
+  "202172416": {
+   "fragment_id": "156296226",
+   "type": 11,
+   "heading": "Artigo 8.º — Remuneração de trabalho por turnos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Remuneração de trabalho por turnos\n\n1 - Os órgãos máximos de gestão ou administração dos serviços ou estabelecimentos de saúde podem autorizar um modelo remuneratório para realização de turnos com recurso a médicos especialistas e enfermeiros, com vínculo ao SNS, sempre que se mostre indispensável para a prestação de cuidados de saúde no âmbito da pandemia da doença COVID-19, nos termos previstos nos números seguintes.\n\n2 - Este regime é aplicável:\n\na) Aos trabalhadores com vínculo ao SNS que não pertençam ao mapa de pessoal da entidade, considerando-se, desde já, autorizada a respetiva acumulação de funções;\n\nb) Aos trabalhadores com respetivo mapa de pessoal e se encontrem sujeitos a um horário específico que os dispense da prestação de trabalho em período noturno e aos fins de semana, desde que para tal manifestem disponibilidade.\n\n3 - O trabalho realizado ao abrigo do presente artigo é considerado trabalho suplementar, e remunerado exclusivamente nos seguintes termos:\n\na) Turnos de 6 horas, grupo de pessoal médico:\n\ni) Trabalho diurno, dias úteis - (euro) 162,49;\n\nii) Trabalho noturno, dias úteis e trabalho diurno aos sábados, domingos e feriados - (euro) 218,20;\n\niii) Trabalho noturno aos sábados, domingos e feriados - (euro) 273,91;\n\nb) Turnos de 12 horas, grupo de pessoal médico:\n\ni) Trabalho diurno, dias úteis - (euro) 329,62;\n\nii) Trabalho noturno, dias úteis e trabalho diurno aos sábados, domingos e feriados - (euro) 441,04;\n\niii) Trabalho noturno aos sábados, domingos e feriados - (euro) 552,46;\n\nc) Turnos de 6 horas para enfermeiros:\n\ni) Trabalho diurno, dias úteis - (euro) 71,23;\n\nii) Trabalho noturno, dias úteis e trabalho diurno aos sábados, domingos e feriados - (euro) 95,65;\n\niii) Trabalho noturno aos sábados, domingos e feriados - (euro) 120,07;\n\nd) Turnos de 12 horas para enfermeiros:\n\ni) Trabalho diurno, dias úteis - (euro) 144,49;\n\nii) Trabalho noturno, dias úteis e trabalho diurno aos sábados, domingos e feriados - (euro) 193,33;\n\niii) Trabalho noturno aos sábados, domingos e feriados - (euro) 242,17.\n\n4 - Nas situações em que os turnos abranjam tipologias de horários distintas, é considerado, para efeitos de pagamento, o montante que corresponda ao maior número de horas realizadas.\n\n5 - O pagamento dos turnos realizados por profissionais vinculados ao SNS, nos termos previstos no n.º 2, é assegurado pela entidade a que o respetivo profissional se encontra vinculado, com direito de regresso sobre a entidade que dele beneficia.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172417": {
+   "fragment_id": "156296227",
+   "type": 11,
+   "heading": "Artigo 9.º — Contratação de prestação de serviços",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 9.º — Contratação de prestação de serviços\n\nEm situações manifestamente excecionais, designadamente, quando a necessidade de profissionais de saúde não possa ser satisfeita por recurso a relações jurídicas de emprego a constituir ou pelos mecanismos previstos nos artigos anteriores, pode o órgão máximo de gestão ou administração dos serviços e estabelecimentos de saúde do SNS autorizar, com dispensa de quaisquer formalidades e pelo período de vigência do presente decreto-lei, a celebração de contratos de prestação e de aquisição de serviços, sendo comunicados à Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.).\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172418": {
+   "fragment_id": "156296228",
+   "type": 11,
+   "heading": "Artigo 10.º — Afetação do período normal de trabalho",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 10.º — Afetação do período normal de trabalho\n\nDurante a vigência do presente decreto-lei, independentemente da carreira que esteja em causa, o período normal de trabalho dos trabalhadores de serviços e estabelecimentos de saúde do SNS pode ser integralmente afeto a atividades diretamente relacionadas com o tratamento da COVID-19.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172419": {
+   "fragment_id": "156296229",
+   "type": 11,
+   "heading": "Artigo 11.º — Realização de estágios curriculares e extracurriculares",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Realização de estágios curriculares e extracurriculares\n\nOs órgãos máximos de gestão dos serviços e estabelecimentos de saúde do SNS devem autorizar a realização de estágios curriculares e extracurriculares que lhes sejam solicitados por alunos do ensino superior da área da saúde que frequentem o último ano do respetivo curso, sempre que estes se disponibilizem, sob a supervisão de um orientador a designar para o efeito, a desenvolver atividades de apoio no âmbito da pandemia da doença COVID-19.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172420": {
+   "fragment_id": "156296230",
+   "type": 11,
+   "heading": "Artigo 12.º — Designação de delegados de saúde",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Designação de delegados de saúde\n\n1 - Pode, a título excecional, ser dispensada a qualificação médica estabelecida dos delegados de saúde no n.º 4 do artigo 4.º do Decreto-Lei n.º 82/2009, de 2 de abril, na sua redação atual.\n\n2 - A designação nos termos do disposto no número anterior tem a duração máxima de um ano.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172421": {
+   "fragment_id": "156296231",
+   "type": 11,
+   "heading": "Artigo 13.º — Dever de informação",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 13.º — Dever de informação\n\nTodas as contratações efetuadas ao abrigo do presente decreto-lei são comunicadas à ACSS, I. P., que informa, mensalmente, para conhecimento e registo, a Direção-Geral do Orçamento.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172422": {
+   "fragment_id": "156296232",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nSão revogados os artigos 6.º-B e 6.º-D do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172423": {
+   "fragment_id": "156296233",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor e vigência",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e vigência\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O presente decreto-lei vigora por um período de 60 dias, a contar da data da sua entrada em vigor, sem prejuízo dos efeitos que decorram dos mecanismos de contratação previstos nos artigos 5.º, 6.º e 7.º\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172424": {
+   "fragment_id": "156296234",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de janeiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 2 de fevereiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 2 de fevereiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113943473\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

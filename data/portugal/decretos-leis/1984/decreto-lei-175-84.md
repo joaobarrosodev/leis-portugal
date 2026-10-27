@@ -1,0 +1,164 @@
+---
+schema_version: '1.0'
+id: pt:dre:384427:por
+title: Decreto-Lei n.º 175/84
+short_title: null
+summary: Estabelece normas relativas à aplicação das taxas de ausência para o estrangeiro de cidadãos sujeitos a obrigações
+  militares
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 175/84
+official_date: null
+publication_date: '1984-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 120/1984, Série I de 1984-05-24
+  number: '120'
+  series: I
+  supplement: null
+  pages: 1676 - 1677
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/05/12000/16761677.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '384427'
+  dre_path: /dr/detalhe/decreto-lei/175-1984-384427
+  internal: pt:dre:384427:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1984-384427
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1984-384427
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:57:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9cd3910f5e8dcb93ab518e77da7262c9303ae24300b4817c2982ed18cc17a990
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contribuições e Impostos
+- Serviço Militar
+- TAXA Militar
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:397319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491224:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:57:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 175/84
+
+de 24 de Maio
+
+Considerando justo e conveniente definir as condições em que os cidadãos sujeitos a obrigações militares face à Lei do Serviço Militar têm direito a beneficiar da redução ou isenção das taxas fixadas pela [Portaria n.º 1007-A/82](https://diariodarepublica.pt/dr/detalhe/portaria/1007-a-1982-491224), de 28 de Outubro, a que estão sujeitas as licenças militares e as declarações de ausência para o estrangeiro constantes do [Decreto-Lei n.º 301/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1982-397319), de 30 de Julho;
+
+Considerando necessário definir a situação decorrente dos encargos de expediente e outros, à semelhança do que sobre esta matéria vigorava anteriormente à publicação do referido decreto-lei:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - Os cidadãos recenseados ainda não incorporados nas Forças Armadas nem alistados na reserva territorial, referidos no artigo 3.º, alínea a), do [Decreto-Lei n.º 301/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1982-397319), de 30 de Julho, beneficiam da redução de 50% sobre o valor da taxa da licença militar de ausência para o estrangeiro, modelo n.º 1/AE, quando se encontrem nas seguintes condições:
+
+a) Adiados das obrigações militares por motivo de estudos ou do exercício de actividades técnicas profissionais ou laborais no estrangeiro;
+
+b) Recrutados pela Secretaria de Estado da Emigração para o cumprimento de contratos de trabalho por períodos entre 3 e 12 meses, findo os quais regressam a Portugal para voltarem de novo no cumprimento de novos contratos.
+
+2 - A taxa referida no n.º 1 é liquidada uma única vez, devendo os que dela beneficiarem ser igualmente isentos nas ausências posteriores.
+
+Art. 2.º Os cidadãos pertencentes às tropas licenciadas ou à reserva territorial com idades compreendidas entre os 29 e os 40 anos, bem como os militares dos quadros permanentes com a mesma idade, em condições de lhes ser facultada a declaração de ausência para o estrangeiro modelo n.º 2/AE, beneficiam igualmente da redução de 50% sobre o valor normal da taxa a que está sujeita esta declaração, se não puderem beneficiar da sua isenção nos termos adiante referidos.
+
+Art. 3.º Os cidadãos pertencentes às tropas territoriais ou à reserva territorial com idade superior aos 40 anos, bem como os militares dos quadros permanentes com a mesma idade, em condições de lhes ser facultada a declaração de ausência para o estrangeiro, beneficiam da redução de 75% sobre o valor normal da taxa de declaração modelo n.º 2/AE, se não puderem beneficiar da sua isenção nos termos adiante referidos.
+
+Art. 4.º O montante destas taxas, quer a liquidar por inteiro quer beneficiando das reduções atrás referidas, deve ainda ser reduzido a metade quando reportado a ausência por tempo não superior a 1 ano, ou quando os interessados o hajam já liquidado em ausências anteriores.
+
+Art. 5.º Os cidadãos recenseados ainda não incorporados nas Forças Armadas nem alistados na reserva territorial, referidos no artigo 3.º, alínea a), do [Decreto-Lei n.º 301/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1982-397319), de 30 de Julho, estão isentos da taxa de licença modelo n.º 1/AE, quando se encontrem nas seguintes condições:
+
+a) Cidadãos portugueses nascidos e residentes no estrangeiro e os que lá se fixaram antes do início das obrigações militares;
+
+b) Cidadãos que pretendam ausentar-se para Macau;
+
+c) Cidadãos que pretendam ausentar-se para países de expressão portuguesa ao abrigo de acordos de cooperação mútua;
+
+d) Alunos dos seminários ou institutos de formação missionária, para concluírem no estrangeiro a sua formação religiosa, bem como os alunos da Escola Náutica quando embarcarem em navios nacionais ou estrangeiros para efeitos de estágio;
+
+e) Tripulantes de aeronaves ou de navios mercantes nacionais e os embarcados em navios ou embarcações nacionais destinados à pesca do bacalhau ou pesca longínqua;
+
+f) Cidadãos adiados das obrigações militares por motivo de estudo, estágios, especializações ou bolsas de estudo no estrangeiro necessários às Forças Armadas ou de excepcional interesse para o País ou que ali vão exercer um serviço ou actividade civil reconhecida de superior e excepcional interesse nacional.
+
+Art. 6.º Os cidadãos na situação de disponibilidade pertencentes às tropas licenciadas ou territoriais alistados na reserva territorial ou os militares dos quadros permanentes nas situações de comissão especial e de licença ilimitada ou da reserva fora do serviço efectivo, referidos no artigo 3.º, alíneas b), c) e d), do [Decreto-Lei n.º 301/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1982-397319), de 30 de Julho, estão isentos da taxa a que está sujeita a declaração modelo n.º 2/AE, quando se encontrem nas seguintes condições:
+
+a) Situação semelhante às referidas nas alíneas b), c), d) e e) do artigo anterior;
+
+b) Situação semelhante à referida na alínea b) do artigo 1.º ou que se ausentem definitivamente do País desde que comprovem por certificado passado pela Secretaria de Estado da Emigração que foi requerida a emissão de passaporte nos termos legais;
+
+c) Cidadãos que pretendam ausentar-se para o estrangeiro para frequência de cursos, estágios, especializações ou bolsas de estudo necessários às Forças Armadas ou de excepcional interesse para o País ou que ali vão exercer um serviço ou actividade civil reconhecida de superior e excepcional interesse nacional;
+
+d) Cidadãos inaptos para o serviço militar, incapazes de angariar meios de subsistência.
+
+Art. 7.º Os cidadãos sujeitos à licença militar modelo n.º 1/AE ou à declaração modelo n.º 2/AE estão obrigados à liquidação dos encargos de expediente fixados por despacho do Ministro da Defesa Nacional, bem como ao pagamento do selo previsto na Lei do Imposto do Selo e do selo da Liga dos Combatentes, ainda que se encontrem nas condições expressas nos números anteriores e que, como tal, tenham direito às reduções ou isenções das taxas ali referidas.
+
+Visto e aprovado em Conselho de Ministros de 10 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Jaime José Matos da Gama - Ernâni Rodrigues Lopes.
+
+Promulgado em 7 de Maio de 1984.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 9 de Maio de 1984.
+
+O Primeiro-Ministro, Mário Soares.

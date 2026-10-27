@@ -1,0 +1,586 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:333155:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-885956098",
+ "dre_path": "/dr/detalhe/decreto-lei/87-1990-333155",
+ "source_lastmod": "2024-09-06",
+ "versions": [
+  {
+   "date": "1990-03-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885925951",
+    "885925952",
+    "885925953",
+    "885925954",
+    "885925955",
+    "885925956",
+    "885925957",
+    "885925958",
+    "885925959",
+    "885925960",
+    "885925961",
+    "885925962",
+    "885925963",
+    "885925964",
+    "885925965",
+    "885925966",
+    "885925967",
+    "885925968",
+    "885925969",
+    "885925970",
+    "885925971",
+    "885925972",
+    "885925973",
+    "885925974",
+    "885926475",
+    "885926476",
+    "885926477",
+    "885926478",
+    "885926479",
+    "885926480",
+    "885926481",
+    "885926482",
+    "885926483",
+    "885926484",
+    "885926485",
+    "885926486",
+    "885926487",
+    "885926488",
+    "885926489",
+    "885926490",
+    "885926491",
+    "885926492",
+    "885926493",
+    "885926494",
+    "885926495",
+    "885926496",
+    "885926497",
+    "885926498",
+    "885926499",
+    "885926500",
+    "885926501",
+    "885926502",
+    "885926503",
+    "885926504",
+    "885926505",
+    "885926506",
+    "885926507",
+    "885926508",
+    "885926509",
+    "885926510",
+    "885926511",
+    "885926512"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:528461:por",
+     "title": "Declaração",
+     "published": "1990-06-30",
+     "dre_path": "/dr/detalhe/declaracao/1990-528461",
+     "date": "1990-03-21"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "885925951": {
+   "fragment_id": "885956099",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 87/90\n\nde 16 de Março\n\nO Decreto-Lei n.º 90/90, de 16 de Março, ao estabelecer o novo regime jurídico a que fica sujeito o exercício das actividades de prospecção, pesquisa e exploração dos recursos geológicos, remeteu, no seu artigo 51.º, para legislação própria a fixação da disciplina específica aplicável a cada tipo de recurso.\n\nNestes termos, e no que concerne aos recursos geotérmicos, são desenvolvidos pelo presente diploma os princípios orientadores do exercício das actividades referidas, com vista ao seu racional aproveitamento técnico-económico e valorização, de acordo com o conhecimento técnico-científico já hoje adquirido e os interesses da economia nacional.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 13/89, de 29 de Junho, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "885925952": {
+   "fragment_id": "885956100",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "885925953": {
+   "fragment_id": "885956101",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma é aplicável ao aproveitamento dos recursos geotérmicos."
+  },
+  "885925954": {
+   "fragment_id": "885956102",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) Ministro - o Ministro da Indústria e Energia;\n\nb) Direcção-Geral - a Direcção-Geral de Geologia e Minas;\n\nc) Prospecção e pesquisa - as actividades que visam a descoberta e caracterização de fluidos e formações geológicas até à revelação da susceptibilidade de aproveitamento económico do seu calor;\n\nd) Exploração - a actividade posterior à prospecção e pesquisa, visando o aproveitamento económico do calor.\n\n2 - As competências atribuídas nos termos do presente diploma ao Ministro da Indústria e Energia incluem a faculdade de delegação nos restantes membros do Governo que o coadjuvam e de subdelegação destes últimos nos respectivos directores-gerais."
+  },
+  "885925955": {
+   "fragment_id": "885956103",
+   "type": 11,
+   "heading": "Artigo 3.º — Qualificação do recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Qualificação do recurso\n\nA qualificação de um fluido ou uma formação geológica como recurso geotérmico compete ao Ministro, sob proposta da Direcção-Geral, e deve ser fundamentada na existência de tecnologias que tornem possível o aproveitamento do calor, ouvida a Direcção-Geral de Energia."
+  },
+  "885925956": {
+   "fragment_id": "885956104",
+   "type": 1,
+   "heading": "Capítulo II — Da licença de prospecção e pesquisa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da licença de prospecção e pesquisa"
+  },
+  "885925957": {
+   "fragment_id": "885956105",
+   "type": 11,
+   "heading": "Artigo 4.º — Proposta inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Proposta inicial\n\n1 - As propostas contratuais dos interessados na atribuição de direitos de prospecção e pesquisa são apresentadas em requerimento dirigido ao Ministro e entregue na Direcção-Geral, dele devendo constar todos os elementos pertinentes para a sua apreciação, nomeadamente:\n\na) A identificação da área pretendida;\n\nb) O plano geral dos trabalhos a executar, devidamente fundamentado;\n\nc) O volume do investimento previsto e o seu financiamento;\n\nd) Os elementos comprovativos de que o requerente dispõe de idoneidade e capacidade técnica e financeira.\n\n2 - A Direcção-Geral, após a audição do requerente, no prazo que lhe for fixado, poderá propor desde logo o indeferimento da pretensão nos seguintes casos:\n\na) Se considerar que não estão garantidas as condições mínimas de viabilidade do projecto ou da sua conveniente execução;\n\nb) Por razões de interesse público.\n\n3 - Para efeitos do disposto no n.º 4 do artigo 13.º do Decreto-Lei n.º 90/90, de 16 de Março, serão, entre outros, critérios definidores da preferência na adjudicação de contrato os mencionados nas alíneas b), c) e d) do n.º 1 do presente artigo.\n\n4 - A Direcção-Geral fundamentará, nos termos gerais, o prazo fixado a que se refere o n.º 2, bem como o indeferimento de pretensão."
+  },
+  "885925958": {
+   "fragment_id": "885956106",
+   "type": 11,
+   "heading": "Artigo 5.º — Caução provisória, publicidade e esclarecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Caução provisória, publicidade e esclarecimentos\n\n1 - Não se verificando a hipótese prevista no n.º 2 do artigo anterior, a Direcção-Geral notificará o requerente para prestar a caução provisória prevista no artigo 48.º e, uma vez prestada, procederá à publicação de aviso no Diário da República, num jornal da sede do município onde se situa a área pretendida e em dois jornais de grande circulação, sendo um de Lisboa e outro do Porto, através dos quais dará conhecimento público do conteúdo do requerimento e convidará todos os interessados a apresentar reclamações, devidamente fundamentadas, no prazo de 30 dias.\n\n2 - Findo o prazo referido no número anterior, a Direcção-Geral pode solicitar ao requerente esclarecimentos das condições por este propostas.\n\n3 - Concluído o processo, deve a Direcção-Geral, no prazo de 90 dias contados do termo do final do período a que se reporta o n.º 1, submeter a decisão para despacho do Ministro a pretensão formulada, já instruída com o seu próprio parecer."
+  },
+  "885925959": {
+   "fragment_id": "885956107",
+   "type": 11,
+   "heading": "Artigo 6.º — Concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Concurso\n\n1 - O Ministro, sob proposta da Direcção-Geral e independentemente da apresentação de requerimento por qualquer interessado, pode determinar a formulação de convite para a apresentação de propostas de actividades de prospecção e pesquisa na área definida através da realização de concurso público ou limitado.\n\n2 - Para efeitos do disposto no número anterior, será publicado aviso no Diário da República, num jornal da sede do município onde se situa a área em causa e em dois jornais de grande circulação, sendo um de Lisboa e outro do Porto, nele se fixando prazo para apresentação de propostas e eventuais reclamações.\n\n3 - Findo o prazo fixado, a Direcção-Geral solicitará esclarecimentos aos candidatos, considerará eventuais reclamações, colherá quaisquer outros elementos que julgue pertinentes e, finalmente, apresentará o seu parecer à consideração do Ministro, o qual decidirá sobre a atribuição dos direitos de prospecção e pesquisa.\n\n4 - Quando, relativamente ao titular de direitos de prospecção e pesquisa, se verifique a situação prevista no n.º 2 do artigo 49.º do Decreto-Lei n.º 90/90, de 16 de Março, será aberto novo concurso, nos termos dos números anteriores, sendo fixadas desde logo as condições essenciais.\n\n5 - Se o concurso referido no número anterior ficar deserto, será repetido, sem a imposição de qualquer valor para a posição contratual."
+  },
+  "885925960": {
+   "fragment_id": "885956108",
+   "type": 11,
+   "heading": "Artigo 7.º — Contrato para prospecção e pesquisa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contrato para prospecção e pesquisa\n\n1 - Decidida a atribuição de direitos de prospecção e pesquisa, a Direcção-Geral notifica o interessado para a celebração do respectivo contrato entre o Estado, representado pelo Ministro, e o mesmo interessado, do qual constarão:\n\na) A identificação do titular dos direitos;\n\nb) A delimitação da área abrangida;\n\nc) O período inicial de vigência do contrato e respectivas prorrogações;\n\nd) O programa geral de trabalhos e plano de investimentos mínimos;\n\ne) A periodicidade da apresentação de planos e relatórios da actividade;\n\nf) O valor da caução definitiva, a prestar nos termos do artigo 49.º deste diploma;\n\ng) Os fundamentos para a rescisão do contrato, nos termos do artigo 20.º do Decreto-Lei n.º 90/90, de 16 de Março.\n\n2 - Quando for caso disso, do contrato poderão ainda constar condições especiais relativas a outros direitos e obrigações.\n\n3 - Quando for caso disso, do contrato poderão ainda constar as condições essenciais relativas a eventuais futuras concessões, nomeadamente:\n\na) Direitos do interessado;\n\nb) Prazo da concessão e condições da reversão de bens e direitos para o Estado;\n\nc) Compensações a atribuir ao Estado;\n\nd) Obrigações relativas à consideração do interesse público no aproveitamento dos recursos ou outras que possam representar benefícios para o desenvolvimento do País;\n\ne) Condições de revisão contratual.\n\n4 - A Direcção-Geral fará publicar no Diário da República um extracto do contrato, contendo os seus elementos essenciais, para conhecimento público."
+  },
+  "885925961": {
+   "fragment_id": "885956109",
+   "type": 11,
+   "heading": "Artigo 8.º — Direitos inerentes à licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direitos inerentes à licença\n\nNo âmbito e na vigência do contrato de prospecção e pesquisa poderá o titular dos direitos realizar os estudos e trabalhos necessários ao esclarecimento das estruturas geológicas em terrenos vizinhos da área abrangida pelo mesmo, sempre que a Direcção-Geral fundamentadamente reconheça essa necessidade, mediante a observância das condições por esta fixadas e sem prejuízo de terceiros."
+  },
+  "885925962": {
+   "fragment_id": "885956110",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações decorrentes da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações decorrentes da licença\n\nPara além do cumprimento das obrigações descritas no artigo 16.º do Decreto-Lei n.º 90/90, de 16 de Março, o titular dos direitos de prospecção e pesquisa deverá:\n\na) Submeter à Direcção-Geral os programas e relatórios do progresso dos trabalhos, de acordo com os prazos e especificações por esta estabelecidos ou previstos no respectivo contrato, e comunicar-lhe prontamente todos os factos relevantes para o conhecimento geológico da área abrangida;\n\nb) Conservar devidamente os testemunhos de sondagens e entregá-los, adequadamente acondicionados e classificados, à Direcção-Geral no termo da vigência do contrato;\n\nc) Contabilizar as despesas em escrita apropriada, por forma a permitir a correcta apreciação dos investimentos realizados;\n\nd) Cumprir as instruções que lhe forem transmitidas pela Direcção-Geral no âmbito do contrato."
+  },
+  "885925963": {
+   "fragment_id": "885956111",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas cautelares\n\nA Direcção-Geral pode ordenar, oficiosamente ou a requerimento do titular dos direitos de prospecção e pesquisa, as medidas cautelares que tiver por necessárias à protecção do recurso, fundamentando-as."
+  },
+  "885925964": {
+   "fragment_id": "885956112",
+   "type": 11,
+   "heading": "Artigo 11.º — Transmissão da posição contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Transmissão da posição contratual\n\n1 - Quando o titular de direitos de prospecção e pesquisa pretender transmitir a sua posição contratual, deve solicitar autorização para tanto, em requerimento dirigido ao Ministro e entregue na Direcção-Geral, indicando expressamente:\n\na) A entidade para a qual pretende transmitir a sua posição contratual;\n\nb) Os motivos determinantes da sua pretensão;\n\nc) As condições de transmissão.\n\n2 - Ao requerimento deverá ser junta declaração do transmissário de que aceita as condições indicadas, acompanhada de elementos demonstrativos esclarecedores da sua capacidade técnica e financeira.\n\n3 - A Direcção-Geral apreciará os motivos determinantes da pretensão e as condições de transmissão, colherá os elementos adicionais que entender por necessários e submeterá o requerimento a decisão do Ministro, acompanhado do seu parecer devidamente fundamentado.\n\n4 - Se o requerimento for deferido, serão notificados o requerente e o transmissário para a celebração do contrato de cessão da posição contratual."
+  },
+  "885925965": {
+   "fragment_id": "885956113",
+   "type": 11,
+   "heading": "Artigo 12.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Caducidade\n\nO contrato de prospecção e pesquisa caducará nos seguintes casos:\n\na) Decurso do prazo de vigência;\n\nb) Morte da pessoa singular ou extinção da pessoa colectiva titular dos direitos."
+  },
+  "885925966": {
+   "fragment_id": "885956114",
+   "type": 11,
+   "heading": "Artigo 13.º — Extinção por acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Extinção por acordo\n\nA extinção por acordo entre as partes do contrato de prospecção e pesquisa deverá obedecer às mesmas formalidades a que obedeceu a sua celebração."
+  },
+  "885925967": {
+   "fragment_id": "885956115",
+   "type": 11,
+   "heading": "Artigo 14.º — Rescisão por iniciativa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Rescisão por iniciativa do Estado\n\n1 - O Ministro pode determinar a rescisão do contrato, nos termos previstos no artigo 20.º do Decreto-Lei n.º 90/90, de 16 de Março, por despacho fundamentado, o qual será comunicado ao titular dos respectivos direitos e publicado no Diário da República.\n\n2 - O despacho referido no número anterior será proferido sobre proposta da Direcção-Geral, formulada após inquérito pela mesma mandado instaurar e do qual deverão constar:\n\na) Notificação ao titular dos direitos de prospecção e pesquisa, com indicação das obrigações violadas e fixação de prazo, não inferior a 30 dias, para apresentação da sua defesa;\n\nb) Defesa escrita, quando apresentada no prazo fixado."
+  },
+  "885925968": {
+   "fragment_id": "885956116",
+   "type": 11,
+   "heading": "Artigo 15.º — Rescisão por iniciativa do titular dos direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Rescisão por iniciativa do titular dos direitos\n\n1 - O titular dos direitos de prospecção e pesquisa que decida usar da faculdade prevista na alínea d) do artigo 20.º do Decreto-Lei n.º 90/90, de 16 de Março, deverá declarar perante a Direcção-Geral a rescisão de contrato, oferecendo, simultaneamente, os elementos que, em seu entender, bastem para a prova da existência de fundamento legal.\n\n2 - A Direcção-Geral apreciará os elementos oferecidos e outros que entenda considerar e remeterá a declaração, acompanhada do seu próprio parecer, ao Ministro.\n\n3 - No caso de ser entendido não se encontrar provada a existência do fundamento legal invocado, deve a Direcção-Geral comunicar tal entendimento ao titular dos direitos de prospecção e pesquisa para os devidos efeitos.\n\n4 - A falta de comunicação pela Direcção-Geral no prazo de 60 dias após a declaração referida no n.º 1 considerar-se-á como aceitação tácita da prova oferecida."
+  },
+  "885925969": {
+   "fragment_id": "885956117",
+   "type": 1,
+   "heading": "Capítulo III — Da concessão de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da concessão de exploração"
+  },
+  "885925970": {
+   "fragment_id": "885956118",
+   "type": 11,
+   "heading": "Artigo 16.º — Atribuição de concessão de exploração na sequência de prospecção e pesquisa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Atribuição de concessão de exploração na sequência de prospecção e pesquisa\n\n1 - Para obtenção de concessão de exploração na área abrangida por contrato para prospecção e pesquisa o titular destes direitos entregará na Direcção-Geral requerimento, dirigido ao Ministro, do qual constem todos os elementos pertinentes para a sua apreciação, nomeadamente:\n\na) Identificação da empresa, pessoa singular ou colectiva constituída ou a constituir, com indicação da respectiva sede e capital social, a favor da qual é requerida a concessão;\n\nb) Localização da área demarcada, com a indicação da respectiva freguesia, município e distrito;\n\nc) Indicação da delimitação proposta para a área pretendida;\n\nd) Caracterização do recurso geotérmico;\n\ne) Indicação do responsável pela futura direcção técnica dos trabalhos.\n\n2 - Ao requerimento mencionado no número anterior deverão ser juntos pelo interessado os seguintes documentos:\n\na) Certidão do acto constitutivo da entidade para a qual é requerida a concessão, ou seu projecto, se ainda não estiver constituída, bem como, quando for caso disso, relação dos seus sócios e corpos gerentes, com indicação do capital social subscrito e realizado ou forma prevista para a sua realização;\n\nb) Termo de responsabilidade do director técnico proposto;\n\nc) Planta topográfica, à escala 1:10000, reportada a dois marcos geodésicos, com a implantação das captações e da demarcação pretendida;\n\nd) Estudo geológico da área, com a descrição dos furos executados e das captações existentes e, bem assim, a caracterização detalhada do recurso;\n\ne) Projecto das captações definitivas;\n\nf) Memória descritiva relativa ao aproveitamento económico do recurso;\n\ng) Quaisquer outros elementos necessários para a apreciação do pedido.\n\n3 - A Direcção-Geral fará publicar anúncio no Diário da República, num jornal do município respectivo e em dois jornais de grande circulação, sendo um de Lisboa e outro do Porto, anunciando a apresentação do requerimento e convidando todos os interessados a apresentar reclamações no prazo de 30 dias.\n\n4 - A Direcção-Geral, se necessitar de mais elementos para a apreciação do pedido formulado, notificará fundamentadamente o requerente para que os apresente, em prazo razoável.\n\n5 - Concluído o processo, deverá a Direcção-Geral, no prazo máximo de 120 dias contados do termo final do período a que se reporta o n.º 3, submeter a decisão do Ministro o pedido apresentado, já instruído com o seu próprio parecer.\n\n6 - Caso sejam reconhecidos a existência de um recurso geotérmico e o preenchimento de todas as condições exigíveis, o Ministro outorgará a concessão requerida, mediante a celebração de contrato administrativo.\n\n7 - A Direcção-Geral fará publicar no Diário da República um extracto do contrato, contendo os seus elementos essenciais, para conhecimento público."
+  },
+  "885925971": {
+   "fragment_id": "885956119",
+   "type": 11,
+   "heading": "Artigo 17.º — Atribuição directa de concessão a requerimento do interessado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Atribuição directa de concessão a requerimento do interessado\n\n1 - Qualquer entidade poderá requerer a concessão de exploração de um recurso geotérmico existente em área disponível ou abrangida por direitos de prospecção e pesquisa em vigor desde que estes últimos não respeitem ao mesmo recurso.\n\n2 - O requerimento, formulado e complementado em termos análogos aos referidos no artigo anterior será dirigido ao Ministro e entregue na Direcção-Geral.\n\n3 - A Direcção-Geral, após a audição do requerente, no prazo que lhe for fixado, poderá propor desde logo o indeferimento do pedido nos seguintes casos:\n\na) Quando reconheça não exisitirem condições que justifiquem a atribuição da concessão, por insuficiências imputáveis, quer ao requerente, quer ao conhecimento existente do recurso geotérmico;\n\nb) Por razões de interesse público."
+  },
+  "885925972": {
+   "fragment_id": "885956120",
+   "type": 11,
+   "heading": "Artigo 18.º — Processo para a atribuição directa da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Processo para a atribuição directa da concessão\n\nNão se verificando a hipótese prevista no n.º 3 do artigo anterior, a Direcção-Geral notificará o requerente para prestar a caução provisória prevista no artigo 48.º e, uma vez esta prestada, seguir-se-ão os termos indicados nos n.os 3 e seguintes do artigo 16.º"
+  },
+  "885925973": {
+   "fragment_id": "885956121",
+   "type": 11,
+   "heading": "Artigo 19.º — Atribuição directa de concessão na sequência de concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Atribuição directa de concessão na sequência de concurso\n\n1 - O Ministro, sob proposta da Direcção-Geral, poderá determinar a abertura de concurso para a apresentação de propostas para a atribuição directa de uma concessão, nos termos previstos no n.º 2 do artigo 21.º do Decreto-Lei n.º 90/90, de 16 de Março, para o que mandará publicar aviso, nos termos indicados no n.º 2 do artigo 6.º do presente diploma.\n\n2 - Recebidas as propostas e as eventuais reclamações, a Direcção-Geral pode solicitar esclarecimentos das propostas e colher quaisquer outros elementos que julgue pertinentes e apresentará o seu parecer à consideração do Ministro, o qual decidirá, podendo não outorgar a concessão.\n\n3 - Quando, realtivamente à posição contratual de um concessionário, se verifiquem as situações previstas no n.º 2 do artigo 49.º e no n.º 2 do artigo 50.º do Decreto-Lei n.º 90/90, de 16 de Março, será aberto concurso para atribuição da concessão em causa, nos termos dos números anteriores, fixando-se desde logo um valor, calculado nos termos previstos nos n.os 4 e 5 do artigo 31.º do presente diploma.\n\n4 - Se o concurso ficar deserto, será repetido, sem imposição de qualquer valor."
+  },
+  "885925974": {
+   "fragment_id": "885956122",
+   "type": 11,
+   "heading": "Artigo 20.º — Contrato de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contrato de concessão\n\nLogo que tenha sido decidida a atribuição de uma concessão, a Direcção-Geral notificará o interessado para a celebração do respectivo contrato administrativo, do qual constarão:\n\na) A identificação do concessionário;\n\nb) A delimitação da área concedida, através da respectiva demarcação;\n\nc) A caracterização do recurso geotérmico cuja exploração é concedida;\n\nd) O prazo da concessão e as condições exigidas para eventuais prorrogações;\n\ne) A indicação dos direitos e obrigações recíprocos, nomeadamente:\n\nI) As condições de reversão da concessão para o Estado;\n\nII) As compensações a atribuir pelo concessionário ao Estado;\n\nIII) A finalidade do aproveitamento;\n\nIV) As captações aprovadas;\n\nV) A estrutura jurídica e financeira a que terá de obedecer o concessionário;\n\nVI) As condições de revisão contratual;\n\nVII) A periodicidade da apresentação de planos e relatórios de actividade;\n\nVIII) Os fundamentos para a rescisão do contrato, nos termos do artigo 29.º do Decreto-Lei n.º 90/90, de 16 de Março;\n\nIX) O valor da caução definitiva, a prestar nos termos do artigo 49.º;\n\nf) As condições especiais a que, eventualmente, fique sujeito o concessionário, nomeadamente as previstas na alínea c) do n.º 2 do artigo 30.º"
+  },
+  "885926475": {
+   "fragment_id": "885956123",
+   "type": 11,
+   "heading": "Artigo 21.º — Transmissão de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Transmissão de concessão\n\nQuando um concessionário pretender transmitir a sua posição contratual, deve requerer autorização para tanto, nos termos previstos no artigo 11.º, seguindo-se a respectiva tramitação."
+  },
+  "885926476": {
+   "fragment_id": "885956124",
+   "type": 11,
+   "heading": "Artigo 22.º — Demarcação da área da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Demarcação da área da concessão\n\n1 - A demarcação da área abrangida por uma concessão será referida a pontos fixos do terreno, sempre que possível definidos por coordenadas.\n\n2 - A demarcação deverá ter a forma que permita o melhor aproveitamento do recurso, não excedendo a área razoável para esse fim.\n\n3 - Por efeito da demarcação não poderá verificar-se a sobreposição de áreas, mesmo que se trate de recursos diferentes.\n\n4 - O técnico da Direcção-Geral encarregado de proceder à demarcação verificará no terreno a exactidão da planta apresentada e a conformidade da demarcação proposta com o estabelecido no n.º 2 deste artigo.\n\n5 - Caso nada exista a objectar, o técnico referido no número anterior aceitará a demarcação, lavrando auto, que será assinado por si e pelo requerente.\n\n6 - Se a planta apresentada pelo requerente não tiver o rigor suficiente, deverá ser fixado um prazo para a apresentação de nova planta pelo interessado.\n\n7 - Se a demarcação proposta não merecer a aceitação do técnico da Direcção-Geral, este modificá-la-á, de modo a satisfazer o disposto no n.º 2 deste artigo, lavrando o auto respectivo, o qual será assinado por si e pelo requerente, podendo este último, se assim o entender, nele formular as suas reclamações."
+  },
+  "885926477": {
+   "fragment_id": "885956125",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração da área da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração da área da concessão\n\n1 - No caso de o concessionário pretender a redução ou o alargamento da área demarcada, deverá apresentar requerimento nesse sentido, devidamente fundamentado.\n\n2 - A Direcção-Geral submeterá o requerimento apresentado, acompanhado do seu parecer, a decisão do Ministro.\n\n3 - A redução ou o alargamento da área da concessão por iniciativa do Estado deverão resultar de despacho do Ministro, sob proposta da Direcção-Geral, obtido o acordo do concessionário."
+  },
+  "885926478": {
+   "fragment_id": "885956126",
+   "type": 11,
+   "heading": "Artigo 24.º — Plano de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Plano de exploração\n\n1 - O concessionário executará os trabalhos de exploração do recurso geotérmico de acordo com um plano previamente aprovado pela Direcção-Geral.\n\n2 - O plano de exploração deverá, em regra, conter:\n\na) A memória descritiva sobre as características do recurso;\n\nb) A descrição pormenorizada dos processos de exploração.\n\n3 - O concessionário submeterá, de igual modo, à prévia aprovação pela Direcção-Geral as revisões necessárias do plano de exploração, nelas se incluindo as alterações e substituições adequadas face à evolução do conhecimento do recurso ou da técnica e às necessidades de variação de escala de produção.\n\n4 - A Direcção-Geral pode, fundamentando as suas pretensões, solicitar esclarecimentos ao concessionário, exigir maior detalhe e impor as alterações ao plano de exploração que tiver por necessárias para melhorar o aproveitamento técnico-económico do recurso ou a protecção do ambiente.\n\n5 - As revisões do plano de exploração considerar-se-ão tacitamente aprovadas quando, decorrido o prazo de 60 dias sobre a data da sua apresentação, a Direcção-Geral sobre elas se não tiver pronunciado."
+  },
+  "885926479": {
+   "fragment_id": "885956127",
+   "type": 11,
+   "heading": "Artigo 25.º — Direcção técnica da exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Direcção técnica da exploração\n\n1 - A exploração não poderá ser realizada sem que a dirija pessoa idónea, a qual, para efeitos legais, será denominada «director técnico».\n\n2 - As funções de director técnico apenas poderão ser desempenhadas por quem preencha os seguintes requisitos:\n\na) Possua diploma de curso do ensino superior politécnico ou equivalente, de especialidade adequada, podendo a Direcção-Geral, no caso de exploração de grande importância ou complexidade técnica, exigir a formação universitária;\n\nb) Tenha idoneidade técnica e disponibilidade, reconhecidas pela Direcção-Geral, para o desempenho do cargo.\n\n3 - O director técnico deverá dar assistência efectiva aos trabalhos, na falta do que poderá a Direcção-Geral exigir a sua substituição.\n\n4 - A responsabilidade do director técnico subsistirá enquanto não for comunicada à Direcção-Geral, por ele ou pelo concessionário, a cessação das suas funções.\n\n5 - Em caso de vacatura do cargo de director técnico, deverá o concessionário comunicar o facto, com a maior brevidade, à Direcção-Geral, com a proposta do novo director técnico, acompanhada do respectivo termo de responsabilidade."
+  },
+  "885926480": {
+   "fragment_id": "885956128",
+   "type": 11,
+   "heading": "Artigo 26.º — Suspensão autorizada de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Suspensão autorizada de exploração\n\n1 - A suspensão de exploração definida pelo artigo 28.º do Decreto-Lei 90/90, de 16 de Março, deverá ser imediatamente participada pelo concessionário à Direcção-Geral.\n\n2 - Se o concessionário pretender que, nos termos do Decreto-Lei n.º 90/90, de 16 de Março, a suspensão seja autorizada, dirigirá requerimento nesse sentido, devidamente fundamentado, ao Ministro, realizando a sua entrega na Direcção-Geral.\n\n3 - A Direcção-Geral, após a obtenção de todos os elementos de informação que tenha por necessários, submeterá o requerimento apresentado a decisão do Ministro.\n\n4 - A renovação da autorização concedida deverá ser requerida anualmente no decurso do mês de Janeiro."
+  },
+  "885926481": {
+   "fragment_id": "885956129",
+   "type": 11,
+   "heading": "Artigo 27.º — Suspensão não autorizada da exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Suspensão não autorizada da exploração\n\n1 - Quando verifique a suspensão não autorizada da exploração, a Direcção-Geral notificará o concessionário respectivo para, no prazo que lhe for fundamentadamente fixado, pôr termo à aludida situação.\n\n2 - Se, findo o prazo fixado previsto no número anterior, se mantiver a situação aí mencionada, a suspensão de exploração é considerada ilícita."
+  },
+  "885926482": {
+   "fragment_id": "885956130",
+   "type": 11,
+   "heading": "Artigo 28.º — Extinção por caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Extinção por caducidade\n\n1 - O contrato de concessão caducará nos casos seguintes:\n\na) Decurso do prazo de vigência;\n\nb) Morte de pessoa singular ou extinção de pessoa colectiva titular da concessão;\n\nc) Esgotamento do recurso objecto de concessão.\n\n2 - A Direcção-Geral fará publicar no Diário da República a caducidade do contrato, quando ela se verifique.\n\n3 - No caso de caducidade do contrato por decurso do seu prazo, todos os bens afectos à exploração passarão para a propriedade do Estado, salvo se de outro modo se encontrar estabelecido.\n\n4 - A caducidade do contrato por esgotamento do recurso objecto de concessão será declarada por despacho do Ministro, sob proposta da Direcção-Geral, ouvido o respectivo concessionário.\n\n5 - Para efeitos do disposto no presente artigo, considera-se esgotamento a irreversível queda acentuada do caudal ou a degradação das características do recurso.\n\n6 - No caso de caducidade do contrato por esgotamento do recurso objecto de concessão, os bens afectos à exploração passarão para a propriedade perfeita do seu titular, ressalvados os direitos de terceiros."
+  },
+  "885926483": {
+   "fragment_id": "885956131",
+   "type": 11,
+   "heading": "Artigo 29.º — Extinção por acordo ou por rescisão do titular da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Extinção por acordo ou por rescisão do titular da concessão\n\nA extinção do contrato por acordo entre as partes ou por rescisão do titular da concessão deverá obedecer às mesmas formalidades a que obedeceu a sua celebração."
+  },
+  "885926484": {
+   "fragment_id": "885956132",
+   "type": 11,
+   "heading": "Artigo 30.º — Extinção por rescisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Extinção por rescisão\n\n1 - A rescisão do contrato de concessão por parte do Estado, nos termos do disposto na alínea c) do artigo 29.º do Decreto-Lei n.º 90/90, de 16 de Março, será declarada por despacho do Ministro, publicado no Diário da República.\n\n2 - Sem prejuízo do disposto na alínea c) do artigo 29.º do Decreto-Lei n.º 90/90, de 16 de Março, para efeitos de rescisão do contrato de concessão por parte do Estado, considera-se que se verifica o não cumprimento das obrigações do concessionário, nomeadamente, quando:\n\na) No prazo marcado não adopte as providências urgentes que tiverem sido fundamentadamente ordenadas pela Direcção-Geral para a adequada exploração do recurso;\n\nb) Não reponha a caução definitiva no seu valor inicial ou não preste a caução eventual nos prazos fixados no presente diploma;\n\nc) Não inicie os trabalhos para exploração no prazo fixado por lei ou no contrato de concessão;\n\nd) Coloque a exploração na situação de suspensão ilícita.\n\n3 - O despacho do Ministro que declare a rescisão do contrato de concessão deverá ser proferido sobre proposta da Direcção-Geral, formulada em inquérito pela mesma mandado instaurar e do qual deverá sempre constar:\n\na) Notificação ao titular da concessão, com fixação fundamentada de prazo razoável para a apresentação da sua defesa;\n\nb) Defesa escrita do titular da concessão, quando apresentada no prazo fixado.\n\n4 - A rescisão do contrato de concessão não afecta a propriedade dos bens do concessionário, mas, quando expressamente determinada em despacho do Ministro, envolve a continuação da afectação à exploração das obras e bens imóveis pelo prazo de dois anos, findo o qual, se não houver retoma da exploração, passarão os mesmos a propriedade perfeita do seu titular, ressalvados os direitos de terceiros.\n\n5 - No caso de retoma da exploração dentro do prazo de dois anos, as obras e bens imóveis afectos à exploração manter-se-ão na mesma situação jurídica em que se encontrarem, salvo os que forem propriedade do concessionário, os quais poderão ser objecto de expropriação a favor do novo concessionário, se este pretender continuar a utilizá-los na exploração e não chegar a acordo com o proprietário quanto à sua aquisição ou locação.\n\n6 - O novo concessionário deverá informar o proprietário dos bens, no prazo de 60 dias após a outorga do seu contrato de concessão, se pretende continuar a usá-los.\n\n7 - Na falta da comunicação mencionada no número anterior, os bens passarão à propriedade perfeita do seu titular."
+  },
+  "885926485": {
+   "fragment_id": "885956133",
+   "type": 11,
+   "heading": "Artigo 31.º — Resgate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Resgate\n\n1 - A concessão poderá ser resgatada, mediante justa indemnização, por motivos de utilidade pública.\n\n2 - O resgate da concessão será decidido por resolução do Conselho de Ministros, sob proposta do Ministro.\n\n3 - O resgate da concessão abrange a sub-rogação em todos os créditos e a assunção de todos os débitos do concessionário decorrentes do exercício daquela exploração e envolve a expropriação por utilidade pública dos bens imóveis do concessionário afectos à concessão, bem como dos bens móveis que, desligados da exploração, não apresentem interesse para o seu proprietário.\n\n4 - No cálculo da indemnização a atribuir pelo resgate da concessão atender-se-á ao valor real dos bens integrantes ou afectos à exploração nas datas do resgate, não se considerando qualquer sobrevalorização integrada no preço anteriormente pago por uma eventual transmissão de concessão.\n\n5 - Ao montante calculado de acordo com o previsto no n.º 4 acrescerão:\n\na) Uma quantia equivalente aos lucros líquidos previstos para um período adicional de cinco anos, estimados com base na média dos lucros líquidos dos últimos três anos;\n\nb) Um juro pelo período que mediar entre a data da perda da concessão e a data do pagamento da indemnização, calculado à taxa de desconto do Banco de Portugal."
+  },
+  "885926486": {
+   "fragment_id": "885956134",
+   "type": 1,
+   "heading": "Capítulo IV — Dos direitos de ocupação e expropriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Dos direitos de ocupação e expropriação"
+  },
+  "885926487": {
+   "fragment_id": "885956135",
+   "type": 11,
+   "heading": "Artigo 32.º — Da ocupação de terrenos particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Da ocupação de terrenos particulares\n\n1 - A ocupação de terrenos pelos titulares de direitos de prospecção e pesquisa prevista no artigo 32.º do Decreto-Lei n.º 90/90, de 16 de Março, deve acolher a prévia concordância dos respectivos proprietários.\n\n2 - Na falta de acordo com o proprietário, por recusa deste em conceder autorização ou por serem inaceitáveis as condições exigidas, o titular dos direitos de prospecção e pesquisa ou de exploração pode interpelá-lo para que, no prazo de 10 dias e por escrito, lhe comunique essa recusa ou lhe transmita as condições que exige.\n\n3 - De posse da comunicação do proprietário, ou se este não responder dentro do prazo, pode o titular dos direitos de prospecção e pesquisa ou de exploração requerer ao juiz da comarca o suprimento da autorização, nos termos do Código de Processo Civil.\n\n4 - O pedido deverá ser instruído com parecer da Direcção-Geral sobre proposta do requerente, quanto aos trabalhos a realizar, e indicando em que medida poderão estes afectar os terrenos em causa.\n\n5 - O juiz suprirá a autorização do proprietário, fixando a renda anual pela ocupação e arbitrando uma caução destinada a cobrir os eventuais prejuízos emergentes dos trabalhos propostos, a qual não excederá o valor da renda anual.\n\n6 - A renda anual será, em princípio, equivalente ao rendimento líquido que se considera provável para a cultura mais remuneradora do terreno, acrescido de 20%, mas o juiz poderá ter em conta outras possíveis utilizações do terreno, para além da exploração agrícola, fixando então o valor da renda, de acordo com o seu prudente arbítrio.\n\n7 - Se, decorridos 30 dias sobre o pedido de suprimento, não for possível proferir sentença, deve o juiz, a requerimento do respectivo titular dos direitos de prospecção e pesquisa ou de exploração temporária, fixar uma renda e uma caução provisórias, podendo o interessado ocupar o terreno a partir da data em que tiver depositado no tribunal a primeira renda provisória e constituído a caução provisória fixada, em termos aceites pelo mesmo tribunal."
+  },
+  "885926488": {
+   "fragment_id": "885956136",
+   "type": 11,
+   "heading": "Artigo 33.º — Domínio privado de pessoas colectivas de direito público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Domínio privado de pessoas colectivas de direito público\n\n1 - Em terrenos do domínio privado de pessoas colectivas de direito público o consentimento para a ocupação prevista no artigo 32.º do Decreto-Lei n.º 90/90, de 16 de Março, e a definição da renda correspondente competem àquelas entidades, tendo em atenção os critérios definidos no artigo anterior.\n\n2 - O pedido de consentimento para a ocupação deverá ser instruído com o parecer da Direcção-Geral mencionado no n.º 4 do artigo anterior e a decisão deverá ser tomada no prazo máximo de 30 dias.\n\n3 - No caso de o parecer da Direcção-Geral ser favorável e o pedido ter sido indeferido ou de a renda fixada ser considerada excessiva pelo titular dos direitos de prospecção e pesquisa ou de exploração, proceder-se-á conforme o previsto nos n.os 3 e seguintes do artigo anterior, com as necessárias adaptações."
+  },
+  "885926489": {
+   "fragment_id": "885956137",
+   "type": 11,
+   "heading": "Artigo 34.º — Domínio público de pessoas colectivas de direito público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Domínio público de pessoas colectivas de direito público\n\n1 - Em terrenos do domínio público afectos a pessoas colectivas de direito público caberá a estas entidades conceder as necessárias autorizações para a ocupação prevista no artigo 32.º do Decreto-Lei n.º 90/90, de 16 de Março, e bem assim definir a respectiva renda.\n\n2 - No caso de o pedido, instruído com o parecer favorável da Direcção-Geral a que se refere o n.º 4 do artigo 32.º, ter sido indeferido ou de a renda fixada ser considerada excessiva pelo titular dos direitos de prospecção e pesquisa ou de exploração, caberá recurso para os tribunais administrativos, sendo então aplicável o disposto nos n.os 3 e seguintes daquele artigo, com as necessárias adaptações."
+  },
+  "885926490": {
+   "fragment_id": "885956138",
+   "type": 11,
+   "heading": "Artigo 35.º — Domínios público e privado do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Domínios público e privado do Estado\n\n1 - Em terrenos do domínio público e do domínio privado do Estado a autorização para a ocupação prevista no artigo 32.º do Decreto-Lei n.º 90/90, de 16 de Março, será concedida por despacho do ministro que superintender na respectiva administração, o qual fixará também a renda correspondente, com faculdade de delegação nos restantes membros do Governo que o coadjuvam.\n\n2 - O pedido de autorização dever ser instruído com o parecer da Direcção-Geral mencionado no n.º 4 do artigo 32.º"
+  },
+  "885926491": {
+   "fragment_id": "885956139",
+   "type": 11,
+   "heading": "Artigo 36.º — Autorização tácita e efeitos de autorização administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Autorização tácita e efeitos de autorização administrativa\n\n1 - Se, nos casos previstos pelos artigos 33.º, 34.º e 35.º, a entidade a quem foi requerida a autorização ou o consentimento para a ocupação nada responder no decurso do prazo de 30 dias, considerar-se-á concedida a autorização, a título gratuito.\n\n2 - A autorização administrativa para a ocupação de terrenos comuns ou públicos, expressa ou tácita, será considerada, para todos os efeitos, um acto constitutivo de direitos."
+  },
+  "885926492": {
+   "fragment_id": "885956140",
+   "type": 11,
+   "heading": "Artigo 37.º — Condicionalismos da ocupação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Condicionalismos da ocupação\n\n1 - A ocupação de terrenos ficará subordinada aos condicionalismos decorrentes das normas em vigor e, bem assim, às determinações das autarquias competentes, tomadas por iniciativa própria ou na sequência de reclamações apresentadas pelos interessados, para defesa de edifícios, obras ou instalações que o interesse geral obrigue a acautelar.\n\n2 - Quando sejam impostas medidas de defesa, deverão ser as mesmas definidas sob parecer da Direcção-Geral."
+  },
+  "885926493": {
+   "fragment_id": "885956141",
+   "type": 11,
+   "heading": "Artigo 38.º — Direito à expropriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Direito à expropriação\n\n1 - O concessionário que necessitar de ocupar terrenos de prédios sujeitos ao regime de direito privado abrangidos na área demarcada deverá diligenciar com vista à compra ou arrendamento dos mesmos.\n\n2 - Na falta de acordo, e desde que a ocupação dos imóveis em causa seja reconhecida pela Direcção-Geral como necessária à exploração, poderá o respectivo concessionário requerer a sua expropriação."
+  },
+  "885926494": {
+   "fragment_id": "885956142",
+   "type": 1,
+   "heading": "Capítulo V — Da supervisão e fomento na actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Da supervisão e fomento na actividade"
+  },
+  "885926495": {
+   "fragment_id": "885956143",
+   "type": 11,
+   "heading": "Artigo 39.º — Relatórios de prospecção e pesquisa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Relatórios de prospecção e pesquisa\n\nOs titulares de direitos de prospecção e pesquisa deverão enviar à Direcção-Geral relatórios da sua actividade, com periodicidade semestral, e prestar-lhe, além disso, todas as informações que lhe forem directa e concretamente solicitadas."
+  },
+  "885926496": {
+   "fragment_id": "885956144",
+   "type": 11,
+   "heading": "Artigo 40.º — Dados estatísticos e relatórios técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Dados estatísticos e relatórios técnicos\n\n1 - Os concessionários deverão enviar à Direcção-Geral:\n\na) Até ao fim do mês de Março de cada ano, o mapa estatístico respeitante ao ano anterior, elaborado de acordo com o modelo aprovado;\n\nb) Até ao fim do mês, um relatório técnico contendo todos os elementos que permitam avaliar a actividade desenvolvida no ano anterior.\n\n2 - Para além do referido no número anterior, deverão ainda os concessionários facultar à Direcção-Geral todos os estudos, análises e relatórios com interesse para o melhor conhecimento do recurso e dos processos de exploração.\n\n3 - Todos os elementos facultados pelos concessionários à Direcção-Geral são confidenciais."
+  },
+  "885926497": {
+   "fragment_id": "885956145",
+   "type": 11,
+   "heading": "Artigo 41.º — Apoio da Direcção-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Apoio da Direcção-Geral\n\n1 - A Direcção-Geral poderá prestar apoio aos interessados, nomeadamente:\n\na) Fazendo beneficiar dos conhecimentos técnicos e científicos adquiridos na actividade dos seus vários serviços os que deles carecerem;\n\nb) Realizando trabalhos de campo, laboratoriais ou outros estudos que contribuam para a resolução de problemas técnicos.\n\n2 - O apoio a que se refere o número anterior poderá ser ou não remunerado.\n\n3 - A Direcção-Geral pretará ainda, sempre que tal se justifique, o apoio administrativo solicitado pelos interessados com vista ao bom andamento das suas actividades.\n\n4 - Por seu lado, deverão os titulares definidos neste diploma facultar à Direcção-Geral todos os elementos de informação que possam contribuir para o melhor conhecimento geológico do território ou recurso objecto de direito atribuído."
+  },
+  "885926498": {
+   "fragment_id": "885956146",
+   "type": 1,
+   "heading": "Capítulo VI — Da preservação do ambiente e da paisagem no exercício das actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Da preservação do ambiente e da paisagem no exercício das actividades"
+  },
+  "885926499": {
+   "fragment_id": "885956147",
+   "type": 11,
+   "heading": "Artigo 42.º — Protecção do ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Protecção do ambiente\n\n1 - Aos titulares de direitos de prospecção e pesquisa e de direitos de exploração compete tomar as providências adequadas à garantia da minimização do impacte ambiental das respectivas actividades.\n\n2 - Relativamente ao exercício das actividades a que se refere o presente diploma, poderá a Direcção-Geral impor medidas especiais para a protecção do ambiente, fundamentando-as, com observância das recomendações técnicas emanadas dos órgãos ou serviços competentes da Administração."
+  },
+  "885926500": {
+   "fragment_id": "885956148",
+   "type": 11,
+   "heading": "Artigo 43.º — Recuperação paisagística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Recuperação paisagística\n\nA exploração e o abandono dos recursos objecto do presente diploma ficarão sujeitos, designadamente, às seguintes medidas:\n\na) Construção de instalações adaptadas, o mais possível, à paisagem envolvente;\n\nb) Finda a exploração, e desde que tecnicamente possível, reconstituição dos terrenos para utilização segundo as finalidades a que estavam adstritos antes do início da mesma, salvo se de outro modo tiver sido estabelecido em plano aprovado pelas entidades competentes."
+  },
+  "885926501": {
+   "fragment_id": "885956149",
+   "type": 1,
+   "heading": "Capítulo VII — Da disciplina da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Da disciplina da actividade"
+  },
+  "885926502": {
+   "fragment_id": "885956150",
+   "type": 11,
+   "heading": "Artigo 44.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Fiscalização\n\n1 - Compete à Direcção-Geral fiscalizar as actividades dos titulares dos contratos de prospecção e pesquisa ou de exploração reguladas no presente diploma, com vista a fazer cumprir as obrigações legais e contratuais a que ficam vinculados, tendo em vista o melhor aproveitamento e a protecção dos recursos.\n\n2 - No uso da competência definida no número anterior, poderá a Direcção-Geral determinar, em concreto, fundamentando-as, a adopção de medidas ou a execução de trabalhos com vista a ocorrer a situações especiais.\n\n3 - A fiscalização das condições de higiene e segurança do trabalho será assegurada pela Inspecção-Geral do Trabalho, enquanto a protecção do ambiente e a recuperação paisagística serão fiscalizadas pela respectiva comissão de coordenação regional ou pelo Serviço Nacional de Parques, Reservas e Conservação da Natureza."
+  },
+  "885926503": {
+   "fragment_id": "885956151",
+   "type": 11,
+   "heading": "Artigo 45.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima mínima de 1000000$00 e máxima de 6000000$00 o exercício de qualquer das actividades previstas no presente diploma sem o necessário contrato ou autorização e, bem assim, a inobservância das medidas ordenadas nos termos do artigo 10.º e do n.º 2 do artigo 42.º e do disposto na alínea b) do artigo 43.º\n\n2 - A violação do disposto nos n.os 1, 2, 3 e 5 do artigo 25.º constitui contra-ordenação punível com coima de 250000$00 a 3000000$00.\n\n3 - A infracção da medida constante da alínea a) do artigo 43.º constitui contra-ordenação punível com coima de 400000$00 a 2000000$00.\n\n4 - A violação da disciplina prevista nos artigos 9.º e 39.º e, bem assim, nos n.os 1 e 2 do artigo 40.º e n.º 4 do artigo 41.º será punida com coima de 75000$00 a 1000000$00.\n\n5 - Em todas as infracções previstas nos números anteriores será sempre punível a negligência.\n\n6 - O limite máximo das coimas a aplicar a pessoas singulares, nos termos do presente artigo, é de 500000$00."
+  },
+  "885926504": {
+   "fragment_id": "885956152",
+   "type": 11,
+   "heading": "Artigo 46.º — Tramitação processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Tramitação processual\n\n1 - A iniciativa para a instauração e instrução dos processos de contra-ordenação compete à Direcção-Geral.\n\n2 - A aplicação das coimas previstas no presente diploma é da competência do director-geral de Geologia e Minas.\n\n3 - O produto da aplicação das coimas constituirá, em 60% do seu montante, receita do Estado e, em 40%, receita da Direcção-Geral."
+  },
+  "885926505": {
+   "fragment_id": "885956153",
+   "type": 11,
+   "heading": "Artigo 47.º — Actuação dos agentes e funcionários da Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Actuação dos agentes e funcionários da Administração\n\nOs agentes ou funcionários da Administração aos quais, nos termos da disciplina estabelecida no presente diploma, fica cometida a fiscalização deverão nortear a sua actuação com vista a assegurar a necessária ponderação e eficácia na transição dos regimes jurídicos aplicáveis às actividades aqui mencionadas, compatibilizando os interesses do Estado com os dos titulares dos direitos de prospecção, pesquisa e exploração."
+  },
+  "885926506": {
+   "fragment_id": "885956154",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições diversas"
+  },
+  "885926507": {
+   "fragment_id": "885956155",
+   "type": 11,
+   "heading": "Artigo 48.º — Caução provisória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Caução provisória\n\n1 - A caução provisória exigida ao requerente de direitos de prospecção e pesquisa ou de exploração ou a candidato num concurso para atribuição desses direitos poderá ser prestada por qualquer meio idóneo, designadamente através de garantia bancária ou seguro-caução.\n\n2 - A caução provisória garantirá ao Estado a disposição de o requerente ou candidato se vincular ao exercício da prospecção e pesquisa ou da exploração nos termos propostos ou acordados e será cobrada pelo Estado quando o particular se recusar a aceitar os direitos e obrigações que lhe venham a ser outorgados em conformidade com os referidos termos, entendendo-se haver recusa sempre que, por sua culpa, o processo se mantenha sem andamento por prazo superior a 60 dias.\n\n3 - A caução provisória deverá ser restituída ao requerente ou candidato logo que se verifique a atribuição dos direitos em causa."
+  },
+  "885926508": {
+   "fragment_id": "885956156",
+   "type": 11,
+   "heading": "Artigo 49.º — Caução definitiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Caução definitiva\n\n1 - Uma caução definitiva será exigida ao titular de direitos de prospecção e pesquisa ou de exploração, podendo ser prestada por qualquer meio idóneo, designadamente através de garantia bancária ou seguro-caução.\n\n2 - A caução definitiva responderá pelo integral cumprimento por parte do titular dos direitos de prospecção e pesquisa ou de exploração das obrigações assumidas, nos termos da lei ou do respectivo contrato, e, designadamente, pelas coimas que lhe vierem a ser aplicadas, pelas indemnizações que tiver de pagar e pelos custos dos trabalhos a que se achava obrigado e que não tenha executado.\n\n3 - A caução deverá ser reposta no seu primitivo valor no prazo de 30 dias sempre que, por sua conta, for efectuado algum pagamento devido."
+  },
+  "885926509": {
+   "fragment_id": "885956157",
+   "type": 11,
+   "heading": "Artigo 50.º — Caução eventual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Caução eventual\n\nNos casos de insuficiência da caução definitiva, será o titular dos direitos de prospecção e pesquisa ou de exploração obrigado a prestar, no prazo de 60 dias, uma caução, fixada pela Direcção-Geral, como garantia do cumprimento da obrigação de execução de medidas, pagamento de coimas ou compensação de danos."
+  },
+  "885926510": {
+   "fragment_id": "885956158",
+   "type": 11,
+   "heading": "Artigo 51.º — Danos emergentes de empreendimentos de interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Danos emergentes de empreendimentos de interesse público\n\n1 - Quando a realização de um empreendimento de interesse público implicar prejuízo para a exploração do recurso, deverá o facto ser participado à Direcção-Geral e ao concessionário, a fim de se seleccionarem as medidas adequadas à máxima redução dos danos daí emergentes, com vista à sua aplicação.\n\n2 - A Direcção-Geral poderá, no caso previsto no número anterior, ordenar as providências urgentes que sejam consideradas necessárias, fundamentando-as, cujo custo de concretização será imputado à entidade responsável pelo empreendimento.\n\n3 - As obras definitivas ficarão a cargo da entidade responsável pelo empreendimento e serão executadas segundo planos aprovados por despacho conjunto do Ministro e do que superintender na actividade no âmbito da qual se insere a concretização do empreendimento, ouvido o concessionário."
+  },
+  "885926511": {
+   "fragment_id": "885956159",
+   "type": 11,
+   "heading": "Artigo 52.º — Publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Publicações\n\nTodas as publicações a efectuar por força do disposto no presente diploma, anteriores ou posteriores à assinatura de qualquer contrato, constituirão encargo dos interessados na atribuição dos direitos de prospecção e pesquisa ou de exploração."
+  },
+  "885926512": {
+   "fragment_id": "885956160",
+   "type": 11,
+   "heading": "Artigo 53.º — Direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Direitos adquiridos\n\n1 - Os titulares de direitos adquiridos ao abrigo da legislação anterior ao Decreto-Lei n.º 90/90, de 16 de Março, serão notificados pela Direcção-Geral para a celebração dos contratos previstos no mesmo diploma legal.\n\n2 - Nos contratos a celebrar serão respeitados os direitos adquiridos e concedido o período de adaptação que fundamentadamente se mostrar justificado pelas circunstâncias de cada caso."
+  }
+ }
+}

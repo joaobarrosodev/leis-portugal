@@ -1,0 +1,219 @@
+---
+schema_version: '1.0'
+id: pt:dre:176305:por
+title: Decreto-Lei n.º 49414
+short_title: null
+summary: Autoriza os governadores-gerais de Angola e de Moçambique a contrair, em cada uma das referidas províncias, empréstimos
+  denominados «Obrigações de fomento ultramarino, 6 por cento, 1969, III Plano de Fomento, para 1968-1973», até à importância
+  total de 1 milhão de contos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Ministro
+proposing_entity: null
+official_number: '49414'
+official_date: null
+publication_date: '1969-11-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 275/1969, 2º Suplemento, Série I de 1969-11-24
+  number: '275'
+  series: I
+  supplement: null
+  pages: 40 - 42
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/11/27502/00400042.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '176305'
+  dre_path: /dr/detalhe/decreto-lei/49414-1969-176305
+  internal: pt:dre:176305:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49414-1969-176305
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49414-1969-176305
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:11:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 29e6ecb006ec32a742822bda57fb3b1a7caad099ab359ab5773c982e320549dc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:11:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- Empréstimo
+- Governador
+- Moçambique.Colónia Portuguesa
+- Obrigações
+relationships:
+- type: amended_by
+  target: pt:dre:684584:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:605813:por
+  label: "Elevado para 1500000 contos a importância total nominal do empréstimo autorizado neste diploma pelo DEC LEI.300/72.14.08.1972.MU,\
+    \ DG.IS [189-Supl] de 14.08.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/300-1972-605813
+  date: '1972-08-14'
+- type: amended_by
+  target: pt:dre:684584:por
+  label: "Elevada para 1200000 contos a importância total nominal do empréstimo autorizado no presente diploma pelo DEC LEI.79/73.02.03.1973.MU,\
+    \ DG.IS [52] de 02.03.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-1973-684584
+  date: '1973-03-02'
+- type: cites
+  target: pt:dre:390781:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:11:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49414
+
+De conformidade com o estabelecido nos Decretos-Leis n.os 46378 e 46379, de 11 de Junho de 1965, promoveram-se em Angola e em Moçambique as primeiras emissões de títulos de dívida pública interna, cujo produto foi sendo aplicado no financiamento de obras de valorização económica desses territórios, enquadradas na execução dos respectivos planos de fomento.
+
+O êxito alcançado com esta iniciativa justifica que se lhe dê, agora, a devida continuidade, embora adaptando as normas reguladoras dos empréstimos a emitir aos novos condicionalismo que entretanto foram surgindo na vida económica das províncias ultramarinas mutuárias.
+
+A importância máxima das obrigações a emitir anualmente não fica prèviamente estabelecida, o que permitirá ajustar, em cada uma das províncias mutuárias, o ritmo de emissão às necessidades de financiamento que forem ocorrendo, tendo em conta as participações que puderem obter-se de outras proveniências.
+
+As garantias de que gozam as obrigações a emitir nos termos deste decreto-lei mantêm-se, entretanto, em condições semelhantes às que foram adoptadas nos diplomas de 11 de Junho de 1965, continuando o Estado a assegurar, com o seu aval, o reembolso integral dos novos empréstimos.
+
+Atendendo às alterações entretanto verificadas no funcionamento dos mercados financeiros - tanto nacionais como internacionais -, foi decidido reduzir de vinte para doze anos o prazo de amortização dos empréstimos e aumentar de 5 para 6 por cento a taxa do juro anual a atribuir às obrigações que o representam.
+
+Por outro lado, com vista a tornar mais aliciante a subscrição dos empréstimos em causa, decidiu-se que o capital e juros das respectivas obrigações ficariam isentos de todos os impostos, em qualquer território nacional, e que também fosse directamente efectuado, pelas províncias mutuárias, o pagamento do capital e juros dos empréstimos, nos territórios para onde tivesse sido autorizada a exportação das obrigações.
+
+Finalmente, omitem-se neste decreto-lei as disposições consignadas nos diplomas de 11 de Junho de 1965, que conferiam às instituições de crédito de Angola e de Moçambique, tomadoras das obrigações representativas dos empréstimos pelos mesmos autorizados, a possibilidade de obter, em termos de perfeito automatismo, crédito dos respectivos bancos emissores.
+
+Ao inserir, nos mencionados diplomas, preceitos que instituam, para a banca local, um princípio de recurso automático ao crédito dos bancos emissores, teve-se em vista aumentar as possibilidades de colocação dos empréstimos, de que não havia qualquer tradição na vida financeira das províncias mutuárias. Mas logo se reconheceu que tal princípio não seria de manter em relação a empréstimos futuros, já que daí necessàriamente adviriam vultosas responsabilidades potenciais para os bancos emissores ultramarinos e redução das possibilidades de regular, em termos efectivos, o funcionamento dos mercados monetários locais.
+
+Espera-se que as instituições de crédito de Angola e de Moçambique venham a participar activamente na subscrição das obrigações representativas dos novos empréstimos, tendo em conta não só os objectivos de fomento que os fundos assim recolhidos se destinam a satisfazer, mas também o interesse financeiro próprio dessas aplicações, mesmo no quadro das normas que presentemente regem a cobertura das suas operações passivas.
+
+Espera-se, ainda, que as favoráveis condições de prazo e de juro dos empréstimos a emitir contribuam para estimular a tomada das respectivas obrigações por empresas e particulares, embora se reconheça que a angariação deste tipo de poupanças, por via da colocação de títulos da dívida pública, só pode atingir resultados significativos depois de instituídas bolsas de fundos nas províncias de Angola e Moçambique.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. Os governadores-gerais de Angola e de Moçambique ficam autorizados, respectivamente, a contrair, em cada uma daquelas províncias, empréstimos amortizáveis denominados «Obrigações de fomento ultramarino, 6 por cento, 1969, III Plano de Fomento para 1968-1973» até à importância total nominal de 1 milhão de contos, cujo produto se destina a financiar empreendimentos económicos incluídos no III Plano de Fomento dos mesmos territórios.
+
+2. A importância máxima das obrigações a emitir anualmente em cada província, ao abrigo do disposto no número anterior, será fixada por decreto dos Ministros das Finanças e do Ultramar.
+
+Art. 2.º As obrigações dos empréstimos ora autorizados gozarão do aval do Estado, que garante o integral pagamento do seu capital e juros, nos termos estabelecidos por este diploma.
+
+Art. 3.º As séries dos empréstimos a que alude o artigo 1.º serão emitidas por meio de obrigação geral, organizada pela Direcção Provincial dos Serviços de Fazenda e Contabilidade da província ultramarina interessada, de harmonia com o presente diploma, assinada pelo governador-geral da mesma província e visada pelo respectivo Tribunal Administrativo, como Tribunal de Contas, e da qual constará a declaração, assinada pelo Ministro das Finanças, de que a Nação Portuguesa se constitui garante e principal pagadora, dando o aval do Estado, nos termos atrás referidos, à respectiva obrigação geral.
+
+Art. 4.º Estes empréstimos, cujo serviço fica a cargo das Direcções Provinciais dos Serviços de Fazenda e Contabilidade de Angola e Moçambique, na parte que directamente respeita a cada uma dessas províncias, desdobrar-se-ão em séries de 100000 contos, como for determinado pelos Ministros das Finanças e do Ultramar nos diplomas que autorizem a emissão das correspondentes obrigações gerais.
+
+Art. 5.º - 1. A representação dos empréstimos far-se-á em obrigações do valor nominal de 1000$00, em títulos de cupão, ao portador, de 1, 5, 10, 50 e 100 obrigações e em certificados de dívida inscrita.
+
+2. Cada certificado de dívida inscrita poderá representar qualquer número de obrigações e ser nominativo ou assentado ao portador.
+
+3. Os títulos e certificados referidos no n.º 1 deste artigo levarão a assinatura de chancela do governador-geral da província ultramarina interessada, serão autenticados por aposição do selo branco da respectiva Direcção Provincial dos Serviços de Fazenda e Contabilidade e conterão ainda a assinatura autógrafa do director dos mesmos serviços.
+
+4. Excepcionalmente, poderão ser provisórios os títulos das primeiras séries emitidas, fazendo-se a sua substituição, no prazo máximo de um ano, por títulos definitivos.
+
+5. Os certificados de dívida inscrita a que se refere o n.º 2 do presente artigo poderão, a todo o tempo, ser desdobrados mediante pedido fundamentado dos seus titulares.
+
+Art. 6.º - 1. Cada série destes empréstimos deverá ser obrigatòriamente amortizada ao par, por sorteio, em oito anuidades iguais de 12500 contos, realizando-se a primeira amortização quatro anos depois da data da respectiva emissão.
+
+2. O governador-geral de cada uma das províncias ultramarinas interessadas poderá, na parte que lhe diz respeito, antecipar a amortização das obrigações em qualquer altura, mediante prévia autorização conjunta dos Ministros das Finanças e do Ultramar, ou efectuar, nos mesmos termos, quaisquer amortizações extraordinárias.
+
+Art. 7.º - 1. O juro das obrigações de que trata o presente diploma será de 6 por cento ao ano, pagável aos semestres, em 15 de Janeiro e 15 de Julho, vencendo-se o primeiro juro das obrigações de cada série numa destas datas, que se indicará expressamente no diploma que autoriza a emissão da respectiva obrigação geral.
+
+2. Do mesmo diploma constará a data da primeira amortização de cada série.
+
+Art. 8.º As obrigações representativas deste empréstimo gozarão dos seguintes direitos, isenções e regalias:
+
+a) Pagamento integral dos juros e reembolsos, a partir do vencimento ou amortização, por força das receitas gerais das respectivas províncias ultramarinas, na parte que a cada uma diz respeito, e de harmonia com o preceituado nos n.os II e III da base LVI e na alínea a) do n.º II da base LXI da Lei Orgânica do Ultramar Português;
+
+b) Recebimento de juros e reembolsos na moeda do território nacional para onde tiverem sido exportadas, nos termos do presente diploma, sendo os respectivos pagamentos efectuados por força das disponibilidades das contas do Tesouro das províncias mutuárias existentes no mesmo território;
+
+c) Isenção de todos os impostos, quer ordinários, quer extraordinários, sobre o capital ou juros, inclusive os do selo, salvo o imposo sobre as sucessões e doações, quando devido pela transmissão do capital;
+
+d) Impenhorabilidade, excepto quando voluntàriamente oferecidas;
+
+e) Recebimento por antecipação, dentro do bimestre anterior ao vencimento, de juros correspondentes ao tempo decorrido, mediante pagamento de um prémio sobre a importância antecipada, calculado à taxa de desconto do banco emissor da província ultramarina mutuária e tendo em conta o tempo que faltar para o referido vencimento.
+
+Art. 9.º Por portaria dos Ministros das Finanças e do Ultramar far-se-á o desdobramento a que se refere o artigo 4.º, em séries sucessivas ou simultâneas, consoante se julgar oportuno, e determinar-se-á a emissão das obrigações gerais correspondentes.
+
+Art. 10.º Poderão os governadores-gerais das províncias ultramarinas interessadas contratar com os respectivos bancos emissores ou com outras instituições de crédito da mesma província a colocação, no todo ou em parte, dos títulos ou fazê-la por subscrição pública ou por venda no mercado, não devendo, porém, o encargo efectivo do empréstimo, excluídas as despesas da sua representação, exceder 6 1/4 por cento.
+
+Art. 11.º - 1. Salvo circunstâncias excepcionais, expressamente reconhecidas pelo Ministro do Ultramar, fica vedado aos bancos emissores ultramarinos a aquisição de obrigações do empréstimo regulado pelo presente diploma.
+
+2. Exceptuam-se do disposto no número anterior as aquisições efectuadas por efeito de subscrição para a colocação no mercado ou, no caso de reembolso de crédito próprio, por qualquer meio legal de aquisição, incluindo a arrematação judicial.
+
+3. Os bancos emissores deverão alienar, no prazo que julgarem compatível com os seus interesses, as obrigações adquiridas nos termos e para os fins previstos no n.º 2 deste artigo, as quais não vencerão quaisquer juros enquanto permanecerem na titularidade dos mesmos bancos.
+
+Art. 12.º - 1. No orçamento de cada uma das províncias ultramarinas mutuárias serão inscritas as verbas indispensáveis para ocorrer aos encargos das diferentes séries, a emitir, dos empréstimos autorizados por este decreto-lei.
+
+2. As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+
+Art. 13.º - 1. As obrigações emitidas em Angola e Moçambique, nos termos do presente diploma, podem ser adquiridas pelos residentes em territórios diferentes daquele onde se efectuar a emissão.
+
+2. As operações de que trata o n.º 1 do presente artigo serão realizadas de conformidade com a legislação que regula a execução de pagamentos entre territórios nacionais, tendo igualmente em conta as regras processuais constantes dos artigos 15.º a 22.º dos Decretos-Leis n.os 46378 e 46379, de 11 de Junho de 1965.
+
+Art. 14.º - 1. As Inspecções Provinciais de Crédito e Seguros de Angola e de Moçambique, por um lado, e cada uma das entidades responsáveis pelo licenciamento das operações de capitais nos restantes territórios, por outro, deverão conceder as autorizações que lhes forem solicitadas com vista à exportação, para qualquer território nacional, das obrigações adquiridas de conformidade com o previsto no artigo anterior.
+
+2. Poderão ser também livremente exportadas para outros territórios nacionais as obrigações adquiridas por qualquer entidade, nas províncias de Angola e de Moçambique, com fundos cuja transferência devesse ser autorizada nos termos da legislação em vigor.
+
+3. As Inspecções Provinciais de Angola e de Moçambique aporão, em todas as obrigações cuja exportação autorizarem, carimbo indicativo dessa autorização, referindo, nomeadamente, o território nacional para onde a exportação deverá ser efectuada.
+
+Art. 15.º - 1. As obrigações emitidas de harmonia com o estabelecido no presente diploma são transmissíveis por todos os modos admitidos em direito, mas só podem negociar-se fora de cada uma das províncias ultramarinas mutuárias os títulos cuja exportação tiver sido efectuada nos termos do artigo anterior.
+
+2. As infracções ao disposto no número antecedente serão punidas nos termos do [Decreto-Lei n.º 47918](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47918-1967-390781), de 8 de Setembro de 1967.
+
+Art. 16.º As províncias ultramarinas de Angola e de Moçambique efectuarão o pagamento de juros e amortizações dos títulos emitidos nos termos deste decreto-lei, que tiverem sido exportados para outros territórios nacionais, directamente nos territórios para onde tiver sido autorizada essa exportação.
+
+Art. 17.º Os pagamentos a que se refere o artigo anterior serão realizados por força das disponibilidades existentes nas contas do Tesouro das províncias ultramarinas mutuárias.
+
+Art. 18.º As obrigações de que trata o presente diploma serão admitidas à cotação nas bolsas de valores existentes no território nacional, com dispensa de todos os encargos, incluindo emolumentos e imposto do selo.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 24 de Novembro de 1969.
+
+Publique-se.
+
+Presidência da República, 24 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

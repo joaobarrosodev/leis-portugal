@@ -1,0 +1,153 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007L0054:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007L0054-20130711",
+ "dre_path": null,
+ "source_lastmod": "2013-07-11",
+ "versions": [
+  {
+   "date": "2007-08-30",
+   "future": false,
+   "celex": "32007L0054",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "faef8f901ff6e797",
+    "73ac57eb0b0de186",
+    "7a1bfb10a7094111",
+    "121bc7f29193c6b3",
+    "2f41df3334f46907",
+    "58f79065266246e9"
+   ]
+  },
+  {
+   "date": "2007-09-19",
+   "future": false,
+   "celex": "02007L0054-20070919",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Notas",
+    "Adita ANEXO"
+   ],
+   "fragments": [
+    "155ffd55fcc1248d",
+    "73ac57eb0b0de186",
+    "7a1bfb10a7094111",
+    "121bc7f29193c6b3",
+    "5c8b3cd719ea97c8",
+    "ee7d715ac797c214",
+    "1825643b2383a51e"
+   ]
+  },
+  {
+   "date": "2013-07-11",
+   "future": false,
+   "celex": "02007L0054-20130711",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e803092499784c27"
+   ]
+  }
+ ],
+ "fragments": {
+  "faef8f901ff6e797": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Agosto de 2007\n\nque altera a Directiva 76/768/CEE do Conselho, no que se refere aos produtos cosméticos, a fim de adaptar os seus anexos II e III ao progresso técnico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos [([^1])](http://publications.europa.eu/resource/cellar/0999f4bc-7535-487b-83c0-f540fd57b5c7.0018.02/DOC_1#ntr1-L_2007226PT.01002101-E0001), nomeadamente o n.º 2 do artigo 8.º,\n\nApós consulta do Comité Científico dos Produtos de Consumo,\n\nConsiderando o seguinte:\n\n(1) No seguimento da publicação, em 2001, de um estudo científico intitulado «*Use of permanent hair dyes and bladder cancer risk*», o Comité Científico dos Produtos Cosméticos e dos Produtos não Alimentares Destinados aos Consumidores, substituído pelo Comité Científico dos Produtos de Consumo (CCPC) pela Decisão 2004/210/CE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/0999f4bc-7535-487b-83c0-f540fd57b5c7.0018.02/DOC_1#ntr2-L_2007226PT.01002101-E0002), concluiu que os riscos potenciais constituíam motivo de preocupação, tendo recomendado à Comissão que tomasse medidas adicionais para controlar a utilização de produtos químicos nos corantes capilares.\n\n(2) O Comité Científico dos Produtos de Consumo recomendou uma estratégia geral de avaliação da segurança dos corantes capilares, incluindo os requisitos a aplicar na realização de ensaios da potencial genotoxicidade/mutagenicidade das substâncias que entram na composição dos corantes capilares.\n\n(3) Tendo em conta os pareceres do CCPC, a Comissão, os Estados-Membros e as partes interessadas acordaram numa estratégia geral para estabelecer a disciplina em matéria de substâncias que entram na composição dos corantes capilares, segundo a qual se solicitou à indústria que apresentasse um caderno técnico com dados científicos sobre os corantes capilares que o CCPC deve avaliar.\n\n(4) Devem incluir-se no anexo II as substâncias para as quais não tenham sido apresentados dossiês de segurança actualizados que permitam realizar uma avaliação dos riscos adequada.\n\n(5) No entanto, a 4,4’-diaminodifenilamina e seus sais, a 4-dietilamino-o-toluidina e seus sais, a N,N-dietil-p-fenilenodiamina e seus sais, a N,N-dimetil-p-fenilenodiamina e seus sais e a tolueno-3,4-diamina e seus sais encontram-se actualmente referenciadas com os números de ordem 8 e 9 na primeira parte do anexo III, tratando-se de entradas gerais. Por conseguinte, deveriam ser expressamente suprimidas dessas entradas gerais do anexo III, sendo adequado incluí-las no anexo II. Convém, portanto, alterar os referidos anexos em conformidade.\n\n(6) A Directiva 76/768/CEE deve, por conseguinte, ser alterada em conformidade.\n\n(7) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Produtos Cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "73ac57eb0b0de186": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos II e III da Directiva 76/768/CEE são alterados em conformidade com o anexo à presente directiva."
+  },
+  "7a1bfb10a7094111": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem adoptar e publicar, o mais tardar em 18 de Março de 2008, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto das referidas disposições bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros devem aplicar tais disposições a partir de 18 de Junho de 2008. As disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "2f41df3334f46907": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 29 de Agosto de 2007.\n\n***Pela Comissão***\n\n**Günter VERHEUGEN**\n\n***Vice-Presidente***\n\n---"
+  },
+  "58f79065266246e9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/0999f4bc-7535-487b-83c0-f540fd57b5c7.0018.02/DOC_1#ntc1-L_2007226PT.01002101-E0001) [JO L 262 de 27.9.1976, p. 169](http://publications.europa.eu/resource/oj/JOL_1976_262_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2007/22/CE da Comissão ([JO L 101 de 18.4.2007, p. 11](http://publications.europa.eu/resource/oj/JOL_2007_101_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/0999f4bc-7535-487b-83c0-f540fd57b5c7.0018.02/DOC_1#ntc2-L_2007226PT.01002101-E0002) [JO L 66 de 4.3.2004, p. 45](http://publications.europa.eu/resource/oj/JOL_2004_066_R_TOC)."
+  },
+  "155ffd55fcc1248d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Agosto de 2007\n\nque altera a Directiva 76/768/CEE do Conselho, no que se refere aos produtos cosméticos, a fim de adaptar os seus anexos II e III ao progresso técnico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos ([^1^](http://publications.europa.eu/resource/cellar/f3a5a65b-d26e-460a-8a58-e8037fb1057a.0018.03/DOC_1#E0001)), nomeadamente o n.º 2 do artigo 8.º,\n\nApós consulta do Comité Científico dos Produtos de Consumo,\n\n(1) No seguimento da publicação, em 2001, de um estudo científico intitulado «*Use of permanent hair dyes and bladder cancer risk*», o Comité Científico dos Produtos Cosméticos e dos Produtos não Alimentares Destinados aos Consumidores, substituído pelo Comité Científico dos Produtos de Consumo (CCPC) pela Decisão 2004/210/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/f3a5a65b-d26e-460a-8a58-e8037fb1057a.0018.03/DOC_1#E0002)), concluiu que os riscos potenciais constituíam motivo de preocupação, tendo recomendado à Comissão que tomasse medidas adicionais para controlar a utilização de produtos químicos nos corantes capilares.\n\n(2) O Comité Científico dos Produtos de Consumo recomendou uma estratégia geral de avaliação da segurança dos corantes capilares, incluindo os requisitos a aplicar na realização de ensaios da potencial genotoxicidade/mutagenicidade das substâncias que entram na composição dos corantes capilares.\n\n(3) Tendo em conta os pareceres do CCPC, a Comissão, os Estados-Membros e as partes interessadas acordaram numa estratégia geral para estabelecer a disciplina em matéria de substâncias que entram na composição dos corantes capilares, segundo a qual se solicitou à indústria que apresentasse um caderno técnico com dados científicos sobre os corantes capilares que o CCPC deve avaliar.\n\n(4) Devem incluir-se no anexo II as substâncias para as quais não tenham sido apresentados dossiês de segurança actualizados que permitam realizar uma avaliação dos riscos adequada.\n\n(5) No entanto, a 4,4’-diaminodifenilamina e seus sais, a 4-dietilamino-o-toluidina e seus sais, a N,N-dietil-p-fenilenodiamina e seus sais, a N,N-dimetil-p-fenilenodiamina e seus sais e a tolueno-3,4-diamina e seus sais encontram-se actualmente referenciadas com os números de ordem 8 e 9 na primeira parte do anexo III, tratando-se de entradas gerais. Por conseguinte, deveriam ser expressamente suprimidas dessas entradas gerais do anexo III, sendo adequado incluí-las no anexo II. Convém, portanto, alterar os referidos anexos em conformidade.\n\n(6) A Directiva 76/768/CEE deve, por conseguinte, ser alterada em conformidade.\n\n(7) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Produtos Cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5c8b3cd719ea97c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "ee7d715ac797c214": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nA Directiva 76/768/CEE é alterada do seguinte modo:\n\n1. No anexo II são aditados os números de ordem 1244 a 1328 seguintes:\n\nNúmero de ordem Denominação química/denominação INCI\n\n«1244 1-Metil-2,4,5-tri-hidroxibenzeno (n.º CAS 1124-09-0) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1245 2,6-Di-hidroxi-4-metilpiridina (n.º CAS 4664-16-8) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1246 5-Hidroxi-1,4-benzodioxano (n.º CAS 10288-36-5) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1247 3,4-Metilenodioxifenol (n.º CAS 533-31-3) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1248 3,4-Metilenodioxianilina (n.º CAS 14268-66-7) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1249 Hidroxipiridinona (n.º CAS 822-89-9) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1250 3-Nitro-4-aminofenoxietanol (n.º CAS 50982-74-6) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1251 2-Metoxi-4-nitrofenol (n.º CAS 3251-56-7) (4-Nitroguaiacol) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1252 CI Acid Black 131 (n.º CAS 12219-01-1) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1253 1,3,5-Tri-hidroxibenzeno (n.º CAS 108-73-6) (Phloroglucinol) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1254 Triacetato de 1,2,4-benzenotriilo (n.º CAS 613-03-6) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1255 2,2’-Iminodietanol, produtos da reacção com epicloridrina e 2-nitro-1,4-benzenodiamina (n.º CAS 68478-64-8) (n.º CAS 158571-58-5) (HC Blue n.º 5) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1256 N-Metil-1,4-diaminoantraquinona, produtos da reacção com epicloridrina e monoetanolamina (n.º CAS 158571-57-4) (HC Blue n.º 4) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1257 Ácido 4-aminobenzenossulfónico (n.º CAS 121-57-3) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1258 Ácido 3,3’-(sulfonilbis(2-nitro-4,1-fenileno)imino)bis(6-(fenilamino))benzenossulfónico e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1259 3(ou5)-((4-(Benzilmetilamino)fenil)azo)-1,2-(ou1,4)-dimetil-1H-1,2,4-triazólio e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1260 2,2’-((3-Cloro-4-((2,6-dicloro-4-nitrofenil)azo)fenil)imino)bisetanol (n.º CAS 23355-64-8) (Disperse Brown 1) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1261 Benzotiazólio, 2-[[4-[etil(2-hidroxietil)amino]fenil]azo]-6-metoxi-3-metil-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1262 2-[(4-Cloro-2-nitrofenil)azo]-N-(2-metoxifenil)-3-oxobutanamida (n.º CAS 13515-40-7) (Pigment Yellow 73) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1263 2,2’-[(3,3’-Dicloro[1,1’-bifenil]-4,4’-diil)bis(azo)]bis[3-oxo-N-fenilbutanamida] (n.º CAS 6358-85-6) (Pigment Yellow 12) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1264 Ácido 2,2’-(1,2-etenodiil)bis[5-(4-etoxifenyl)azo]benzenossulfónico e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1265 2,3-Di-hidro-2,2-dimetil-6-[(4-(fenilazo)-1-naftalenil)azo]-1H-pirimidina (n.º CAS 4197-25-5) (Solvent Black 3) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1266 Ácido 3(ou5)-[[4-[(7-amino-1-hidroxi-3-sulfonato-2-naftil)azo]-1-naftil]azo]salicílico e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1267 Ácido 2-naftalenossulfónico, 7-(benzoíl-amino)-4-hidroxi-3-[[4-[(4-sulfofenil)azo]fenil]azo]-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1268 [μ-((7,7’-Iminobis(4-hidroxi-3-((2-hidroxi-5-(N-metilsulfamoíl)fenil]azo)naftaleno-2-sulfonato))(6-)))dicuprato(2-) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1269 Ácido 3-[(4-(acetilamino)fenil)azo]-4-hidroxi-7-[[[[5-hidroxi-6-(fenilazo)-7-sulfo-2-naftalenil]amino]carbonil]amino]-2-naftalenossulfónico e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1270 Ácido 2-naftalenossulfónico, 7,7’-(carbonildiimino)bis(4-hidroxi-3-[[2-sulfo-4-[(4-sulfofenil)azo]fenil]azo]-, (n.º CAS 25188-41-4) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1271 Etanamínio, N-(4-[bis[4-(dietilamino)fenil]metileno]-2,5-ciclohexadien-1-ilideno)-N-etil-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1272 3H-Indólio, 2-[[(4-metoxifenil)metil-hidrazono]metil]-1,3,3-trimetil-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1273 3H-Indólio, 2-(2-((2,4-dimetoxifenil)amino)etenil)-1,3,3-trimetil-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1274 Essência de nigrosina solúvel (n.º CAS 11099-03-9) (Solvent Black 5) quando usado como substância que entra na composição de corantes capilares\n\n1275 Fenoxazín-5-io, 3,7-bis(dietilamino)-, (n.º CAS 47367-75-9) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1276 Benzo[a]fenoxazín-7-io, 9-(dimetilamino)-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1277 6-Amino-2-(2,4-dimetilfenil)-1H-benzo[de]isoquinolina-1,3(2H)-diona (n.º CAS 2478-20-8) (Solvent Yellow 44) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1278 1-Amino-4-[[4-[(dimetilamino)metil]fenil]amino]antraquinona (n.º CAS 12217-43-5) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1279 Ácido lacaico (CI Natural Red 25) (n.º CAS 60687-93-6) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1280 Ácido benzenossulfónico, 5-[(2,4-dinitrofenil)amino]-2-(fenilamino)-, (n.º CAS 15347-52-1) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1281 4-[(4-Nitrofenil)azo]anilina (n.º CAS 730-40-5) (Disperse Orange 3) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1282 4-Nitro-m-fenilenodiamina (n.º CAS 5131-58-8) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1283 1-Amino-4-(metilamino)-9,10-antracenodiona (n.º CAS 1220-94-6) (Disperse Violet 4) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1284 N-Metil-3-nitro-p-fenilenodiamina (n.º CAS 2973-21-9) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1285 N1-(2-Hidroxietil)-4-nitro-o-fenilenodiamina (n.º CAS 56932-44-6) (HC Yellow n.º 5) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1286 N1-(Tris(hidroximetil))metil-4-nitro-1,2-fenilenodiamina (n.º CAS 56932-45-7) (HC Yellow n.º 3) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1287 2-Nitro-N-hidroxietil-p-anisidina (n.º CAS 57524-53-5) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1288 N,N’-Dimetil-N-hidroxietil-3-nitro-p-fenilenodiamina (n.º CAS 10228-03-2) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1289 3-(N-Metil-N-(4-metilamino-3-nitrofenil)amino)propano-1,2-diol (n.º CAS 93633-79-5) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1290 Ácido 4-etilamino-3-nitrobenzóico (n.º CAS 2788-74-1) (N-Etil-3-Nitro PABA) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1291 (8-[(4-Amino-2-nitrofenil)azo]-7-hidroxi-2-naftil)trimetilamónio e seus sais, excepto o Basic Red 118 (n.º CAS 71134-97-9) como impureza no Basic Brown 17), quando usado como substância que entra na composição de corantes capilares\n\n1292 5-((4-(Dimetilamino)fenil)azo)-1,4-dimetil-1H-1,2,4-triazólio e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1293 m-Fenilenodiamina, 4-(fenilazo)-, (n.º CAS 495-54-5) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1294 1,3-Benzenodiamina, 4-metil-6-(fenilazo)-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1295 Ácido 2,7-naftalenodissulfónico, 5-(acetilamino)-4-hidroxi-3-((2-metifenil)azo)-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1296 4,4’-[(4-Metil-1,3-fenileno)bis(azo)]bis[6-metil-1,3-benzenodiamina] (n.º CAS 4482-25-1) (Basic Brown 4) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1297 Benzenamínio, 3-[[4-[[diamino(fenilazo)fenil]azo]-2-metilfenil]azo]-N,N,N-trimetil-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1298 Benzenamínio, 3-[[4-[[diamino(fenilazo)fenil]azo]-1-naftalenil]azo]-N,N,N-trimetil-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1299 Etanamínio, N-[4-[(4-(dietilamino)fenil)fenilmetileno]-2,5-ciclohexadien-1-ilideno]-N-etil-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1300 9,10-Antracenodiona, 1-[(2-hidroxietil)amino]-4-(metilamino)- (n.º CAS 86722-66-9) e seus derivados e sais, quando usado como substância que entra na composição de corantes capilares\n\n1301 1,4-Diamino-2-metoxi-9,10-antracenodiona (n.º CAS 2872-48-2) (Disperse Red 11) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1302 1,4-Di-hidroxi-5,8-bis[(2-hidroxietil)amino]antraquinona (n.º CAS 3179-90-6) (Disperse Blue 7) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1303 1-[(3-Aminopropil)amino]-4-(metilamino)antraquinona e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1304 N-[6-[(2-Cloro-4-hidroxifenil)imino]-4-metoxi-3-oxo-1,4-ciclohexadien-1-il]acetamida (n.º CAS 66612-11-1) (HC Yellow n.º 8) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1305 [6-[[3-Cloro-4-(metilamino)fenil]imino]-4-metil-3-oxociclohexa-1,4-dien-1-il]ureia (n.º CAS 56330-88-2) (HC Red n.º 9) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1306 Fenotiazín-5-io, 3,7-bis(dimetilamino)-, e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1307 4,6-Bis(2-hidroxietoxi)-m-fenilenodiamina e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1308 5-Amino-2,6-dimetoxi-3-hidroxipiridina (n.º CAS 104333-03-1) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1309 4,4’-Diaminodifenilamina (n.º CAS 537-65-5) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1310 4-Dietilamino-o-toluidina (n.º CAS 148-71-0) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1311 N,N-Dietil-p-fenilenodiamina (n.º CAS 93-05-0) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1312 N,N-Dimetil-p-fenilenodiamina (n.º CAS 99-98-9) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1313 Tolueno-3,4-diamina (n.º CAS 496-72-0) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1314 2,4-Diamino-5-metilfenoxietanol (n.º CAS 141614-05-3) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1315 6-Amino-o-cresol (n.º CAS 17672-22-9) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1316 Hidroxietilaminometil-p-aminofenol (n.º CAS 110952-46-0) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1317 2-Amino-3-nitrofenol (n.º CAS 603-85-0) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1318 2-Cloro-5-nitro-N-hidroxietil-p-fenilenodiamina (n.º CAS 50610-28-1) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1319 2-Nitro-p-fenilenodiamina (n.º CAS 5307-14-2) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1320 Hidroxietil-2,6-dinitro-p-anisidina (n.º CAS 122252-11-3) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1321 6-Nitro-2,5-piridinadiamina (n.º CAS 69825-83-8) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1322 Fenazínio, 3,7-diamino-2,8-dimetil-5-fenil-, e seus sais quando usado como substância que entra na composição de corantes capilares\n\n1323 Ácido 3-hidroxi-4-[(2-hidroxinaftil)azo]-7-nitronaftaleno-1-sulfónico (n.º CAS 16279-54-2) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1324 3-[(2-Nitro-4-(trifluorometil)fenil)amino]propano-1,2-diol (n.º CAS 104333-00-8) (HC Yellow n.º 6) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1325 2-[(4-Cloro-2-nitrofenil)amino]etanol (n.º CAS 59320-13-7) (HC Yellow n.º 12) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1326 3-[[4-[(2-Hidroxietil)metilamino]-2-nitrofenil]amino]-1,2-propanodiol (n.º CAS 173994-75-7) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1327 3-[[4-[Etil(2-hidroxietil)amino]-2-nitrofenil]amino]-1,2-propanodiol (n.º CAS 114087-41-1) e seus sais, quando usado como substância que entra na composição de corantes capilares\n\n1328 Etanamínio, N-[4-[[4-(dietilamino)fenil][4-(etilamino)-1-naftalenil]metileno]-2,5-ciclohexadien-1-ilideno]-N-etil-, e seus sais, quando usado como substância que entra na composição de corantes capilares»\n\n2. O anexo III é alterado do seguinte modo:\n\na) A primeira parte é alterada da seguinte forma:\n\ni) no número de ordem 8, o texto da coluna b «p-Fenilenodiamina e respectivos derivados N-substituídos e seus sais; derivados N-substituídos de o-fenilenodiamina (^5^), com excepção dos derivados referidos noutras posições do presente anexo» é substituído por «p-Fenilenodiamina e respectivos derivados N-substituídos e seus sais; derivados N-substituídos de o-fenilenodiamina (^5^), com excepção dos derivados referidos noutras posições do presente anexo e nos números de ordem 1309, 1311 e 1312 do anexo II»,\n\nii) no número de ordem 9, o texto da coluna b «Diaminotoluenos, seus derivados substituídos no azoto seus sais (^1^), com excepção da substância 364 do anexo II» é substituído por «Metilfenilenodiaminas e respectivos derivados N-substituídos e seus sais (^1^), com excepção das substâncias referidas nos números de ordem 364, 1310 e 1313 do anexo II»;\n\nb) Na segunda parte, são suprimidos os números de ordem 1, 2, 8, 13, 15, 30, 41, 43, 45, 46, 51, 52, 53, e 54.\n\n---"
+  },
+  "1825643b2383a51e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f3a5a65b-d26e-460a-8a58-e8037fb1057a.0018.03/DOC_1#src.E0001)) JO L 262 de 27.9.1976, p. 169. Directiva com a última redacção que lhe foi dada pela Directiva 2007/22/CE da Comissão (JO L 101 de 18.4.2007, p. 11).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f3a5a65b-d26e-460a-8a58-e8037fb1057a.0018.03/DOC_1#src.E0002)) JO L 66 de 4.3.2004, p. 45."
+  },
+  "e803092499784c27": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2007L0054 — PT — 11.07.2013 — 001.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32007L0054) [DIRECTIVA 2007/54/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32007L0054) [de 29 de Agosto de 2007](http://publications.europa.eu/resource/celex/32007L0054) [que altera a Directiva 76/768/CEE do Conselho, no que se refere aos produtos cosméticos, a fim de adaptar os seus anexos II e III ao progresso técnico](http://publications.europa.eu/resource/celex/32007L0054) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32007L0054) (JO L 226, 30.8.2007, p.21)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1223/2009 do Parlamento Europeu e do Conselho de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1223) — L 342 — 59 — 22.12.2009"
+  }
+ }
+}

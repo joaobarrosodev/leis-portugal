@@ -1,0 +1,556 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:138461836:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-138516384",
+ "dre_path": "/dr/detalhe/lei/26-2020-138461836",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-07-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "138516286",
+    "138516287",
+    "138516288",
+    "138516289",
+    "138516290",
+    "138516291",
+    "138516292",
+    "138516293",
+    "138516294",
+    "138516295",
+    "138516296",
+    "138516297",
+    "138516298",
+    "138516299",
+    "138516300",
+    "138516301",
+    "138516302",
+    "138516303",
+    "138516304",
+    "138516305",
+    "138516306",
+    "138516307",
+    "138516308",
+    "138516309",
+    "138516310",
+    "138516311",
+    "138516312",
+    "138516313",
+    "138516314",
+    "138516315",
+    "138516316",
+    "138516317",
+    "138516318",
+    "138516319",
+    "138516320",
+    "138516321",
+    "138516322",
+    "138516323",
+    "138516324"
+   ]
+  },
+  {
+   "date": "2020-08-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140013522:por",
+     "title": "Decreto-Lei n.º 53/2020",
+     "published": "2020-08-11",
+     "dre_path": "/dr/detalhe/decreto-lei/53-2020-140013522"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "138516286",
+    "138516287",
+    "138516288",
+    "138516289",
+    "138516290",
+    "138516291",
+    "138516292",
+    "138516293",
+    "138516294",
+    "138516295",
+    "138516296",
+    "138516297",
+    "138516298",
+    "138516299",
+    "138516300",
+    "138516301",
+    "138516302",
+    "138516303",
+    "138516304",
+    "138516305",
+    "138516306",
+    "138516307",
+    "138516308",
+    "138516309",
+    "138516310",
+    "138516311",
+    "138516312",
+    "138516313",
+    "138516314",
+    "138516315",
+    "138516316",
+    "138516317",
+    "138516318",
+    "140052090",
+    "140052091",
+    "138516321",
+    "138516322",
+    "138516323",
+    "138516324",
+    "138516325"
+   ]
+  },
+  {
+   "date": "2026-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1129390702:por",
+     "title": "Lei n.º 26/2026",
+     "published": "2026-06-03",
+     "dre_path": "/dr/detalhe/lei/26-2026-1129390702"
+    }
+   ],
+   "changes": [
+    "Altera Diploma",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "138516286",
+    "138516287",
+    "138516288",
+    "1129523975",
+    "138516290",
+    "138516291",
+    "138516292",
+    "138516293",
+    "138516294",
+    "138516295",
+    "138516296",
+    "138516297",
+    "138516298",
+    "138516299",
+    "138516300",
+    "138516301",
+    "1129524175",
+    "138516303",
+    "138516304",
+    "138516305",
+    "1129524375",
+    "138516307",
+    "138516308",
+    "1129524575",
+    "138516310",
+    "138516311",
+    "138516312",
+    "138516313",
+    "138516314",
+    "138516315",
+    "138516316",
+    "138516317",
+    "138516318",
+    "140052090",
+    "140052091",
+    "138516321",
+    "138516322",
+    "138516323",
+    "138516324",
+    "138516325"
+   ]
+  }
+ ],
+ "fragments": {
+  "138516286": {
+   "fragment_id": "138516385",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 26/2020\n\nde 21 de julho\n\nSumário: Estabelece a obrigação de comunicação à Autoridade Tributária e Aduaneira de determinados mecanismos internos ou transfronteiriços com relevância fiscal, transpondo a Diretiva (UE) 2018/822 do Conselho, de 25 de maio de 2018, e revogando o Decreto-Lei n.º 29/2008, de 25 de fevereiro.\n\nEstabelece a obrigação de comunicação à Autoridade Tributária e Aduaneira de determinados mecanismos internos ou transfronteiriços com relevância fiscal, transpondo a Diretiva (UE) 2018/822 do Conselho, de 25 de maio de 2018, e revogando o Decreto-Lei n.º 29/2008, de 25 de fevereiro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "138516287": {
+   "fragment_id": "138516386",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "138516288": {
+   "fragment_id": "138516387",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei:\n\na) Estabelece a obrigação de comunicação à Autoridade Tributária e Aduaneira (AT), para as finalidades nela previstas, de determinados mecanismos internos ou transfronteiriços com relevância fiscal;\n\nb) Procede à transposição para a ordem jurídica interna da Diretiva (UE) 2018/822 do Conselho, de 25 de maio de 2018, que altera a Diretiva 2011/16/UE do Conselho, de 15 de fevereiro de 2011, no que respeita à troca automática de informações obrigatória no domínio da fiscalidade em relação aos mecanismos transfronteiriços a comunicar."
+  },
+  "138516289": {
+   "fragment_id": "138516388",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do disposto na presente lei, entende-se por:\n\na) «Ativos intangíveis difíceis de avaliar», os ativos intangíveis ou os direitos sobre ativos intangíveis para os quais, no momento da sua transferência entre empresas associadas, não existam elementos de comparação fiáveis, e, no momento da conclusão dessa operação, as projeções de fluxos de caixa futuros ou de rendimentos previstos resultantes do ativo intangível transferido, ou os pressupostos utilizados na avaliação do ativo intangível, sejam altamente incertos, dificultando a tarefa de prever, na altura da transferência, o nível de sucesso final do ativo intangível;\n\nb) «Características-chave», as que traduzem, objetivamente e por si mesmas, a indiciação de um potencial risco de evasão fiscal, incluindo o contornar de obrigações legais de informação sobre contas financeiras ou de identificação dos beneficiários efetivos;\n\nc) «Contribuinte relevante», qualquer pessoa ou entidade sem personalidade jurídica à qual seja disponibilizado para aplicação um mecanismo a comunicar ou que esteja preparada para aplicar um mecanismo a comunicar ou que tenha aplicado uma qualquer etapa ou parte de um mecanismo a comunicar;\n\nd) «Empresa associada», uma pessoa que esteja relacionada com outra pessoa, pelo menos, de uma das seguintes formas:\n\ni) Uma pessoa participa na gestão de outra pessoa por estar em posição de exercer uma influência significativa sobre a outra pessoa;\n\nii) Uma pessoa participa no controlo de outra pessoa através de uma participação superior a 25 % dos direitos de voto;\n\niii) Uma pessoa participa no capital de outra pessoa através de um direito de propriedade que, direta ou indiretamente, seja superior a 25 % do capital;\n\niv) Uma pessoa tem direito a 25 %, ou mais, dos lucros de outra pessoa;\n\ne) «Intermediário», qualquer pessoa que conceba, comercialize, organize ou disponibilize para aplicação ou administre a aplicação de um mecanismo a comunicar, não integrando estas atuações a mera comunicação de informação estritamente descritiva de regimes tributários existentes, incluindo benefícios fiscais, e o aconselhamento estritamente prestado quanto a uma situação tributária já existente do contribuinte relevante, incluindo o exercício do mandato no âmbito do procedimento administrativo tributário, do processo de impugnação tributária, do processo penal tributário ou do processo de contraordenação tributária, incluindo o aconselhamento relativo à condução dos respetivos trâmites;\n\nf) «Mecanismo», qualquer plano, projeto, proposta, conselho, instrução ou recomendação, exteriorizados expressa ou tacitamente, objeto ou não de concretização em acordo ou transação, constituído por uma construção com uma ou mais de uma etapa ou parte, ou por uma série de construções, simultâneas ou sequenciais, podendo ser comercializável ou personalizado;\n\ng) «Mecanismos comercializáveis», os mecanismos concebidos, comercializados, prontos a aplicar ou disponibilizados para aplicação, dispensando uma adaptação substancial dos mesmos;\n\nh) «Mecanismos internos», os que, em função das suas características objetivas, sejam aptos a ser aplicados ou a produzir efeitos, total ou parcialmente, em território português e não sejam mecanismos transfronteiriços;\n\ni) «Mecanismos personalizados», quaisquer mecanismos que não sejam considerados mecanismos comercializáveis;\n\nj) «Mecanismos transfronteiriços», os que apresentam estrutura transfronteiriça por respeitarem a mais do que um Estado-Membro da União Europeia ou a um Estado-Membro e um país terceiro, caso se verifique, pelo menos, uma das seguintes condições:\n\ni) Nem todos os participantes no mecanismo sejam, para efeitos fiscais, residentes na mesma jurisdição;\n\nii) Algum dos participantes no mecanismo seja, para efeitos fiscais, simultaneamente residente em mais do que uma jurisdição;\n\niii) Algum dos participantes no mecanismo exerça uma atividade noutra jurisdição através de um estabelecimento estável situado nessa jurisdição e o mecanismo constitua uma parte ou a totalidade da atividade desse estabelecimento estável;\n\niv) Algum dos participantes no mecanismo exerça uma atividade noutra jurisdição sem ser residente para efeitos fiscais nessa jurisdição nem criar um estabelecimento estável situado nessa jurisdição;\n\nv) O mecanismo tenha um possível impacto na troca automática de informações relativas a contas financeiras ou na identificação do beneficiário efetivo;\n\nk) «Teste do benefício principal», aquele que se considera satisfeito se for possível determinar, sem dúvidas razoáveis, que a obtenção de uma vantagem fiscal, na esfera jurídica do contribuinte relevante ou de terceiro, é o benefício principal ou um dos benefícios principais que, objetivamente e à luz de todos os factos e circunstâncias pertinentes, pode razoavelmente esperar-se do mecanismo;\n\nl) «Vantagem fiscal», a redução, eliminação ou diferimento temporal de imposto, incluindo a utilização de prejuízos fiscais, ou a obtenção de benefício fiscal, que não se alcançaria, no todo ou em parte, sem a utilização do mecanismo.\n\n2 - Para efeitos da alínea d) do número anterior:\n\na) Se mais de uma pessoa participar na gestão, controlo, capital ou lucros da mesma pessoa, todas as pessoas em causa são consideradas empresas associadas;\n\nb) Se as mesmas pessoas participarem na gestão, controlo, capital ou lucros de mais de uma pessoa, todas as pessoas em causa são consideradas empresas associadas;\n\nc) A pessoa que aja em conjunto com outra pessoa no que respeita aos direitos de voto ou ao capital social de uma entidade é tratada como detendo uma participação na totalidade dos direitos de voto ou do capital social dessa entidade que sejam detidos pela outra pessoa;\n\nd) Em participações indiretas, o cumprimento dos requisitos estabelecidos na subalínea iii) da alínea d) do número anterior é determinado através da multiplicação das percentagens de participação pelos sucessivos níveis, considerando-se que uma pessoa que detenha mais de 50 % dos direitos de voto detém 100 %;\n\ne) Um indivíduo, o seu cônjuge e os seus parentes na linha reta ascendente ou descendente são considerados uma única pessoa."
+  },
+  "138516290": {
+   "fragment_id": "138516389",
+   "type": 1,
+   "heading": "Capítulo II — Âmbito da obrigação de comunicação de mecanismos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Âmbito da obrigação de comunicação de mecanismos"
+  },
+  "138516291": {
+   "fragment_id": "138516390",
+   "type": 8,
+   "heading": "Secção I — Mecanismos transfronteiriços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Mecanismos transfronteiriços"
+  },
+  "138516292": {
+   "fragment_id": "138516391",
+   "type": 11,
+   "heading": "Artigo 3.º — Mecanismos transfronteiriços a comunicar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Mecanismos transfronteiriços a comunicar\n\nDeve ser comunicado à AT qualquer mecanismo transfronteiriço que contenha, pelo menos, uma das características-chave tipificadas no artigo 5.º"
+  },
+  "138516293": {
+   "fragment_id": "138516392",
+   "type": 11,
+   "heading": "Artigo 4.º — Impostos abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Impostos abrangidos\n\nEstão abrangidos pela obrigação de comunicação prevista na presente secção os impostos de qualquer natureza, cobrados pelos Estados-Membros, ou em seu nome, ou pelas suas subdivisões políticas territoriais ou administrativas, ou em nome destas, incluindo as autarquias locais, cobrados no território a que são aplicáveis os tratados por força do artigo 52.º do Tratado da União Europeia, com exceção do imposto sobre o valor acrescentado, dos direitos aduaneiros, dos impostos especiais de consumo abrangidos por outra legislação da União Europeia em matéria de cooperação administrativa entre Estados-Membros e das contribuições obrigatórias para a segurança social devidas a um Estado-Membro, a uma subdivisão do Estado-Membro, ou às instituições de segurança social de direito público."
+  },
+  "138516294": {
+   "fragment_id": "138516393",
+   "type": 11,
+   "heading": "Artigo 5.º — Características-chave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Características-chave\n\n1 - Considera-se estarem presentes características-chave genéricas relacionadas com o teste do benefício principal, sempre que:\n\na) O contribuinte relevante ou qualquer outro participante no mecanismo se comprometa a não revelar a quaisquer terceiros, designadamente a outros intermediários ou à AT, de que modo o mecanismo pode proporcionar uma vantagem fiscal;\n\nb) O intermediário tenha direito a receber honorários pelo mecanismo, considerando-se também como tais as provisões, os juros ou as remunerações para custos de financiamento e outros encargos, e esses honorários sejam fixados por referência ao montante da vantagem fiscal resultante do mecanismo ou ao facto de o mecanismo efetivamente permitir ou não a obtenção de uma vantagem fiscal, podendo incluir a obrigação de restituição, parcial ou total, dos honorários, caso não seja obtida parte ou a totalidade da vantagem fiscal pretendida;\n\nc) O mecanismo implique documentos e ou uma estrutura substancialmente normalizados e que esteja disponível para mais do que um contribuinte relevante, sem que o mecanismo precise de ser substancialmente adaptado para ser aplicado.\n\n2 - Considera-se estarem presentes características-chave específicas relacionadas com o teste do benefício principal, sempre que:\n\na) Um dos participantes no mecanismo tome medidas artificiosas que consistam na aquisição de uma empresa deficitária, na cessação da atividade principal dessa empresa e na utilização das perdas respetivas para reduzir os seus encargos fiscais, incluindo através da transferência dessas perdas para outra jurisdição ou da aceleração da utilização das mesmas;\n\nb) Um mecanismo tenha por efeito converter rendimento em capital, donativos ou outras categorias de rendimentos tributados mais favoravelmente, isentos de tributação ou não sujeitos a tributação;\n\nc) Um mecanismo inclua operações circulares que resultem num «carrossel» de fundos (round-tripping), através do envolvimento de entidades interpostas sem outra função comercial primária ou de operações que se compensem ou anulem mutuamente, ou que tenham outras características semelhantes.\n\n3 - Considera-se estarem presentes características-chave específicas relacionadas com operações transfronteiriças, sempre que:\n\na) Um mecanismo envolva a dedutibilidade de pagamentos transfronteiriços efetuados entre duas ou mais empresas associadas e em que se verifique, pelo menos, uma das seguintes condições:\n\ni) O destinatário não seja residente, para efeitos fiscais, em nenhuma jurisdição fiscal;\n\nii) Embora o destinatário seja residente, para efeitos fiscais, numa jurisdição fiscal, esta conste de lista de jurisdições de países terceiros que tenham sido avaliadas como não cooperantes pelos Estados-Membros, coletivamente ou no âmbito da Organização para a Cooperação e Desenvolvimento Económico (OCDE);\n\niii) Embora o destinatário seja residente, para efeitos fiscais, numa jurisdição fiscal, essa jurisdição não o sujeite a qualquer imposto sobre as sociedades ou o sujeite a um imposto sobre as sociedades, isentando-o ou aplicando-lhe uma taxa nominal inferior a 1 %;\n\niv) O pagamento seja tributado mais favoravelmente, isento de tributação ou não sujeito a tributação na jurisdição em que o destinatário reside para efeitos fiscais;\n\nb) Sejam requeridas em mais do que uma jurisdição fiscal deduções sobre a mesma depreciação de um ativo;\n\nc) Seja requerida em mais do que uma jurisdição fiscal a eliminação ou atenuação da dupla tributação relativamente à mesma rubrica de rendimento ou de capital;\n\nd) Um mecanismo inclua transferências de ativos e exista nas jurisdições fiscais envolvidas uma diferença material no montante tratado como pagável relativamente a esses ativos.\n\n4 - Considera-se estarem presentes características-chave específicas relacionadas com obrigações legais de informação sobre contas financeiras ou de identificação dos beneficiários efetivos, sempre que:\n\na) Um mecanismo possa ter o efeito de contornar a obrigação de apresentação de informações estabelecida nas normas que dão execução ao direito da União Europeia sobre a troca automática de informações relativas a contas financeiras ou em quaisquer acordos equivalentes, incluindo acordos com países terceiros, ou de tirar proveito da ausência de tais normas ou acordos, e em que se verifique, pelo menos, uma das seguintes condições:\n\ni) O recurso a uma conta, produto ou investimento que não seja, ou pretenda não ser, uma conta financeira, mas que tenha características substancialmente semelhantes às de uma conta financeira;\n\nii) A transferência de contas financeiras ou de ativos financeiros para jurisdições que não estejam sujeitas à troca automática de informações relativas a contas financeiras com o Estado de residência do contribuinte relevante, bem como outra qualquer utilização dessas jurisdições;\n\niii) A reclassificação de rendimentos ou de capital em produtos ou pagamentos que não sejam objeto da troca automática de informações relativas a contas financeiras;\n\niv) A transferência ou a conversão de uma instituição financeira, de uma conta financeira ou dos ativos aí contidos para instituição financeira, conta financeira ou ativos não sujeitos à obrigação de comunicação de informações ao abrigo da troca automática de informações relativas a contas financeiras;\n\nv) O recurso a entidades jurídicas, mecanismos ou estruturas que eliminem, ou que pretendam eliminar, a obrigação, ao abrigo da troca automática de informações relativas a contas financeiras, de comunicação da identidade de um ou mais titulares de contas financeiras ou de pessoas que exerçam o controlo;\n\nvi) O defraudar dos procedimentos de devida diligência, ou a exploração de lacunas nos mesmos, utilizados por instituições financeiras para cumprirem as suas obrigações de apresentação de informações relativas a contas financeiras, incluindo a utilização de jurisdições com regimes inadequados ou insuficientes para garantir a aplicação da legislação contra o branqueamento de capitais ou com exigências de transparência insuficientes relativamente a pessoas coletivas ou mecanismos legais;\n\nb) Um mecanismo envolva uma cadeia não transparente de propriedade jurídica ou de beneficiários efetivos, com recurso a pessoas, mecanismos ou estruturas legais:\n\ni) Que não prossigam uma atividade económica substancial apoiada por pessoal, equipamento, ativos e instalações adequados; e\n\nii) Sejam constituídas, geridas, residentes, controladas ou estabelecidas em qualquer jurisdição que não a jurisdição de residência de um ou mais dos beneficiários efetivos dos ativos detidos por essas pessoas, mecanismos ou estruturas legais; e, ainda,\n\niii) Em que não seja possível identificar os beneficiários efetivos dessas pessoas, mecanismos ou estruturas legais, aplicando-se a definição de «beneficiários efetivos» constante da Lei n.º 83/2017, de 18 de agosto.\n\n5 - Considera-se estarem presentes características-chave específicas relacionadas com preços de transferência, sempre que:\n\na) Um mecanismo envolva a utilização de regimes de salvaguarda ou proteção unilateralmente assumidos numa jurisdição mas não previstos no consenso internacional consagrado nas normas da OCDE sobre preços de transferência;\n\nb) Um mecanismo envolva a transferência de ativos intangíveis difíceis de avaliar;\n\nc) Um mecanismo envolva uma transferência transfronteiriça, no seio do grupo de empresas associadas, de funções e ou riscos e ou ativos, se os resultados anuais projetados antes de juros e impostos (EBIT), durante o período de três anos seguinte à transferência, do cedente ou cedentes, forem inferiores a 50 % dos EBIT anuais projetados desse ou desses cedentes caso a transferência não tivesse sido efetuada."
+  },
+  "138516295": {
+   "fragment_id": "138516394",
+   "type": 11,
+   "heading": "Artigo 6.º — Teste do benefício principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Teste do benefício principal\n\nAs características-chave constantes do n.º 1, do n.º 2 e das subalíneas iii) e iv) da alínea a) do n.º 3 do artigo anterior só relevam para efeitos da obrigação de comunicação se nelas puder considerar-se verificado o teste do benefício principal."
+  },
+  "138516296": {
+   "fragment_id": "138516395",
+   "type": 8,
+   "heading": "Secção II — Mecanismos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Mecanismos internos"
+  },
+  "138516297": {
+   "fragment_id": "138516396",
+   "type": 11,
+   "heading": "Artigo 7.º — Mecanismos internos a comunicar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mecanismos internos a comunicar\n\nDeve ser comunicado à AT qualquer mecanismo interno que contenha, pelo menos, uma das características-chave tipificadas nos n.os 2 a 5 do artigo 5.º, sem prejuízo da necessidade de se considerar verificado o teste do benefício principal, quando aplicável."
+  },
+  "138516298": {
+   "fragment_id": "138516397",
+   "type": 11,
+   "heading": "Artigo 8.º — Impostos abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Impostos abrangidos\n\nEstão abrangidos pela obrigação de comunicação prevista na presente secção os seguintes impostos:\n\na) Imposto sobre o rendimento das pessoas singulares, bem como as tributações autónomas com estas relacionadas;\n\nb) Imposto sobre o rendimento das pessoas coletivas, bem como as tributações autónomas e as derramas com este relacionadas;\n\nc) Imposto sobre o valor acrescentado;\n\nd) Imposto municipal sobre imóveis;\n\ne) Imposto municipal sobre as transmissões onerosas de imóveis;\n\nf) Imposto do selo."
+  },
+  "138516299": {
+   "fragment_id": "138516398",
+   "type": 1,
+   "heading": "Capítulo III — Sujeitos e objeto da obrigação de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Sujeitos e objeto da obrigação de comunicação"
+  },
+  "138516300": {
+   "fragment_id": "138516399",
+   "type": 8,
+   "heading": "Secção I — Intermediário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Intermediário"
+  },
+  "138516301": {
+   "fragment_id": "138516400",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigação de comunicação do intermediário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigação de comunicação do intermediário\n\n1 - A obrigação de comunicação à AT dos mecanismos previstos no artigo 3.º e no artigo 7.º incide, conforme estatuído na presente lei, sobre o intermediário, desde que preencha, pelo menos, uma das seguintes condições:\n\na) Seja residente, para efeitos fiscais, no território português;\n\nb) Tenha um estabelecimento estável em território português através do qual sejam prestados os serviços relacionados com o mecanismo;\n\nc) Seja constituído em Portugal ou regido pela legislação portuguesa;\n\nd) Esteja registado em Portugal junto de uma associação profissional relacionada com a prestação de serviços de natureza jurídica, fiscal ou de consultoria.\n\n2 - A obrigação de comunicação referida no número anterior, e a sua qualificação como intermediário, é extensível a qualquer pessoa que, preenchendo, pelo menos, uma das condições ali referidas, e tendo em conta os factos e circunstâncias pertinentes e com base na informação disponível e nos conhecimentos e competências relevantes necessários para prestar esses serviços, saiba ou possa razoavelmente esperar-se que saiba que se comprometeu a prestar, diretamente ou através de outras pessoas, ajuda, assistência ou aconselhamento na conceção, comercialização, organização ou disponibilização para a aplicação de um mecanismo a comunicar ou que se comprometeu à administração da aplicação de um tal mecanismo.\n\n3 - Para efeitos do número anterior, qualquer pessoa tem o direito de, à prova apresentada pela AT, contrapor provas de que não sabia ou de que não podia razoavelmente esperar-se que soubesse que estava envolvida num mecanismo a comunicar, podendo para tal fazer referência a todos os factos e circunstâncias pertinentes, bem como à informação disponível e aos seus conhecimentos e competências relevantes."
+  },
+  "138516302": {
+   "fragment_id": "138516401",
+   "type": 11,
+   "heading": "Artigo 10.º — Cumprimento da obrigação de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cumprimento da obrigação de comunicação\n\n1 - Nas situações não cobertas pelo dever legal ou contratual de sigilo, o intermediário deve comunicar à AT todas as informações que sejam do seu conhecimento ou que estejam na sua posse ou sob o seu controlo relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º, devendo fazê-lo no prazo de 30 dias seguidos, a contar, consoante o que ocorrer primeiro, do dia seguinte àquele em que o mecanismo a comunicar seja disponibilizado para ser aplicado ou do dia seguinte àquele em que o mecanismo a comunicar esteja pronto para ser aplicado ou do momento em que tenha sido realizado o primeiro passo na aplicação do mecanismo a comunicar, sem prejuízo do disposto no artigo 13.º\n\n2 - Ainda que se verifique o dever legal ou contratual de sigilo, o intermediário deve comunicar à AT todas as informações que sejam do seu conhecimento ou que estejam na sua posse ou sob o seu controlo relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º, nos casos em que se verifique a obrigação subsidiária de comunicação prevista no n.º 4 do artigo 13.º\n\n3 - A pessoa considerada intermediário nos termos do n.º 2 do artigo anterior é igualmente obrigada a comunicar à AT todas as informações que sejam do seu conhecimento ou que estejam na sua posse ou sob o seu controlo relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º, devendo fazê-lo no prazo de 30 dias seguidos, a contar do dia seguinte àquele em que prestou, diretamente ou através de outras pessoas, ajuda, assistência ou aconselhamento.\n\n4 - Tratando-se da comunicação de um mecanismo comercializável, o intermediário deve, ainda, apresentar à AT, de três em três meses, um relatório de atualização que inclua as novas informações que tenham surgido desde a comunicação inicial ou desde a apresentação do relatório anterior quanto aos elementos referidos nas alíneas a), d), g) e h) do n.º 1 do artigo 15.º\n\n5 - Caso o intermediário esteja sujeito à obrigação de comunicação de informações sobre o mecanismo transfronteiriço a comunicar também perante as autoridades competentes de outros Estados-Membros, essas informações são comunicadas apenas às autoridades competentes, conforme o que primeiro se verificar:\n\na) Do Estado-Membro em que o intermediário seja residente para efeitos fiscais;\n\nb) Do Estado-Membro em que o intermediário tenha um estabelecimento estável através do qual sejam prestados os serviços relacionados com o mecanismo a comunicar;\n\nc) Do Estado-Membro em que o intermediário esteja constituído ou por cujas leis seja regido;\n\nd) Do Estado-Membro em que o intermediário esteja registado junto de uma associação profissional relacionada com a prestação de serviços de natureza jurídica, fiscal ou de consultoria.\n\n6 - Se do disposto no número anterior resultar uma obrigação múltipla de comunicação de informações que inclua uma comunicação à AT, o intermediário fica dispensado dessa comunicação à AT se junto desta produzir, no prazo previsto nos n.os 1, 2 ou 3, consoante o caso, acrescido de 10 dias seguidos, prova documental de que as mesmas informações foram já comunicadas a outro Estado-Membro.\n\n7 - Havendo mais do que um intermediário, a obrigação que exista de comunicação de informações à AT incumbe a todos os intermediários envolvidos num mesmo mecanismo a comunicar.\n\n8 - Os intermediários ficam dispensados da comunicação referida no número anterior se, no prazo previsto nos n.os 1, 2 ou 3, consoante o caso, acrescido de 10 dias seguidos, apresentarem junto da AT prova documental de que as mesmas informações foram já comunicadas à AT por outro intermediário.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 53/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522) O prazo de 30 dias previsto neste artigo, conta-se a partir de 1 de janeiro de 2021 nos casos em que: a) Um mecanismo a comunicar for disponibilizado para aplicação, ou estiver pronto para ser aplicado, ou o primeiro passo da sua aplicação tiver sido realizado entre 1 de julho e 31 de dezembro de 2020; ou b) Os intermediários tiverem prestado, diretamente ou através de outras pessoas, ajuda, assistência ou aconselhamento, nos termos do n.º 3 do artigo 10.º da Lei n.º 26/2020, de 21 de julho, entre 1 de julho e 31 de dezembro de 2020."
+  },
+  "138516303": {
+   "fragment_id": "138516402",
+   "type": 8,
+   "heading": "Secção II — Contribuinte relevante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Contribuinte relevante"
+  },
+  "138516304": {
+   "fragment_id": "138516403",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigação de comunicação do contribuinte relevante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigação de comunicação do contribuinte relevante\n\nA obrigação de comunicação à AT dos mecanismos previstos no artigo 3.º e no artigo 7.º incide, conforme estatuído na presente lei, sobre o contribuinte relevante, desde que este preencha, pelo menos, uma das seguintes condições:\n\na) Seja residente, para efeitos fiscais, em território português;\n\nb) Tenha um estabelecimento estável em território português que beneficie do mecanismo;\n\nc) Receba ou gere rendimentos em território português;\n\nd) Exerça uma atividade em território português;\n\ne) Esteja registado, para efeitos fiscais, em Portugal."
+  },
+  "138516305": {
+   "fragment_id": "138516404",
+   "type": 11,
+   "heading": "Artigo 12.º — Cumprimento da obrigação de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cumprimento da obrigação de comunicação\n\n1 - Inexistindo um intermediário nos termos previstos no artigo 9.º, recai sobre o contribuinte relevante a obrigação de comunicar à AT todas as informações relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º, devendo fazê-lo no prazo de 30 dias seguidos, a contar, consoante o que ocorrer primeiro, do dia seguinte àquele em que o mecanismo a comunicar seja disponibilizado para aplicação, do dia seguinte àquele em que o mecanismo a comunicar esteja pronto para aplicação ou do dia seguinte àquele em que seja realizado o primeiro passo da aplicação do mecanismo a comunicar, sem prejuízo do disposto no artigo seguinte.\n\n2 - Para além da obrigação de comunicação prevista no número anterior, o contribuinte relevante deve, em cada um dos anos em que aplique o mecanismo comunicado, disso informar a AT, incluindo uma atualização das informações anteriormente comunicadas.\n\n3 - Caso o contribuinte relevante esteja sujeito à obrigação de comunicação de informações sobre o mecanismo transfronteiriço a comunicar também perante as autoridades competentes de outros Estados-Membros, essas informações são comunicadas apenas às autoridades competentes, conforme o que primeiro se verificar:\n\na) Do Estado-Membro em que o contribuinte relevante seja residente para efeitos fiscais;\n\nb) Do Estado-Membro em que o contribuinte relevante tenha um estabelecimento estável que beneficie do mecanismo;\n\nc) Do Estado-Membro em que o contribuinte relevante receba rendimentos ou gere lucros, apesar de não ser residente para efeitos fiscais nem ter um estabelecimento estável em nenhum Estado-Membro;\n\nd) Do Estado-Membro em que o contribuinte relevante exerça uma atividade, apesar de não ser residente para efeitos fiscais nem ter um estabelecimento estável em nenhum Estado-Membro.\n\n4 - Se do disposto no número anterior resultar uma obrigação múltipla de comunicação de informações que inclua a AT, o contribuinte relevante fica dispensado dessa comunicação à AT se junto desta produzir, no prazo previsto nos n.os 1 ou 2, consoante o caso, acrescido de 10 dias seguidos, prova documental de que as mesmas informações foram já comunicadas a outro Estado-Membro.\n\n5 - Havendo mais do que um contribuinte relevante, a obrigação que exista de comunicação de informações à AT incumbe, conforme o que primeiro ocorrer, ao contribuinte relevante que haja acordado com o intermediário o mecanismo a comunicar ou ao contribuinte relevante que administre a aplicação do mesmo.\n\n6 - Os contribuintes relevantes ficam dispensados da comunicação referida no número anterior se, no prazo previsto nos n.os 1 ou 2, consoante o caso, acrescido de 10 dias seguidos, apresentarem junto da AT prova documental de que as mesmas informações já foram comunicadas à AT por outro contribuinte relevante.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 53/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522) O prazo de 30 dias previsto neste artigo, conta-se a partir de 1 de janeiro de 2021 nos casos em que: a) Um mecanismo a comunicar for disponibilizado para aplicação, ou estiver pronto para ser aplicado, ou o primeiro passo da sua aplicação tiver sido realizado entre 1 de julho e 31 de dezembro de 2020; ou b) Os intermediários tiverem prestado, diretamente ou através de outras pessoas, ajuda, assistência ou aconselhamento, nos termos do n.º 3 do artigo 10.º da Lei n.º 26/2020, de 21 de julho, entre 1 de julho e 31 de dezembro de 2020."
+  },
+  "138516306": {
+   "fragment_id": "138516405",
+   "type": 11,
+   "heading": "Artigo 13.º — Cumprimento da obrigação de comunicação em caso de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cumprimento da obrigação de comunicação em caso de sigilo\n\n1 - Nas situações cobertas pelo dever legal ou contratual de sigilo, a obrigação de comunicação à AT de todas as informações relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º recai sobre o contribuinte relevante, sem prejuízo da obrigação subsidiária de comunicação do intermediário prevista no n.º 4.\n\n2 - Para efeitos do disposto no número anterior, o intermediário notifica o contribuinte relevante no prazo de cinco dias seguidos, contados nos termos do n.º 1 ou 3 do artigo 10.º, consoante o caso, de que este deve cumprir a obrigação de comunicação a que se refere o artigo anterior.\n\n3 - O contribuinte relevante informa o intermediário, no prazo de 30 dias seguidos a contar da receção da notificação deste último, do cumprimento da obrigação de comunicação referida no artigo anterior, apresentando ao intermediário o comprovativo de submissão da declaração perante a AT.\n\n4 - No caso de o intermediário não ter sido informado do cumprimento do dever de comunicação pelo contribuinte relevante nos termos do número anterior, a comunicação das informações relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º deve ser cumprida pelo intermediário, no prazo de 10 dias seguidos.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 53/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522) O prazo de cinco dias seguidos previsto no n.º 2 do artigo 13.º da Lei n.º 26/2020, de 21 de julho, conta-se a partir de 1 de janeiro de 2021, nas situações cobertas pelo dever legal ou contratual de sigilo que envolvam a comunicação de mecanismo disponibilizado para aplicação, ou pronto para ser aplicado, ou cujo primeiro passo da sua aplicação tiver sido realizado entre 1 de julho e 31 de dezembro de 2020."
+  },
+  "138516307": {
+   "fragment_id": "138516406",
+   "type": 8,
+   "heading": "Secção III — Objeto da obrigação de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Objeto da obrigação de comunicação"
+  },
+  "138516308": {
+   "fragment_id": "138516407",
+   "type": 11,
+   "heading": "Artigo 14.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Dever de sigilo\n\n1 - O cumprimento das obrigações de comunicação a que estão adstritos os intermediários e os contribuintes relevantes prevalece sobre o dever de sigilo a que, legal ou contratualmente, os mesmos estejam obrigados, não podendo este ser por eles invocado no âmbito da presente lei.\n\n2 - O disposto no número anterior exclui qualquer tipo de responsabilidade das pessoas nele referidas por violação do dever de sigilo a que estivessem vinculadas.\n\n3 - Sem prejuízo do disposto nos artigos 16.º e 17.º, as informações comunicadas à AT nos termos da presente lei ficam abrangidas pelo dever de sigilo previsto no artigo 64.º da Lei Geral Tributária."
+  },
+  "138516309": {
+   "fragment_id": "138516408",
+   "type": 11,
+   "heading": "Artigo 15.º — Informações a comunicar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Informações a comunicar\n\n1 - As informações a comunicar à AT relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º pelo intermediário ou pelo contribuinte relevante, consoante aquele que esteja sujeito à obrigação de comunicação nos termos da presente lei, devem incluir, conforme aplicável, os seguintes elementos:\n\na) A identificação dos intermediários e dos contribuintes relevantes, incluindo respetivos nomes, datas e locais de nascimento, tratando-se de pessoas singulares, residências para efeitos fiscais, números de identificação fiscal e, se aplicável, as pessoas que sejam empresas associadas do contribuinte relevante;\n\nb) Os detalhes da característica-chave ou das características-chave que configurem o mecanismo como um mecanismo a comunicar;\n\nc) Uma síntese do conteúdo do mecanismo a comunicar, incluindo a referência do nome por que seja vulgarmente conhecido, caso exista, e uma descrição, em termos abstratos, das atividades empresariais relevantes ou dispositivos normativos pertinentes, a menos que aquela descrição conduza à revelação de um segredo comercial, industrial ou profissional ou de um processo comercial, ou ainda de informações cuja revelação seja contrária à ordem pública;\n\nd) A data em que tenha sido ou venha a ser realizado o primeiro passo na aplicação do mecanismo a comunicar;\n\ne) Os detalhes das disposições normativas que formam a base do mecanismo a comunicar, podendo tais disposições, consoante o mecanismo, integrar mais do que uma jurisdição;\n\nf) O valor das operações que constituem o próprio mecanismo a comunicar, independentemente da vantagem fiscal que se espera do mecanismo;\n\ng) A identificação do Estado-Membro dos contribuintes relevantes e de qualquer outro Estado-Membro suscetível de estar relacionado com o mecanismo a comunicar;\n\nh) A identificação de qualquer outra pessoa ou entidade sem personalidade jurídica num Estado-Membro suscetível de ser abrangida pelo mecanismo a comunicar, com indicação dos Estados-Membros a que essa pessoa ou entidade esteja ligada.\n\n2 - A AT pode notificar, nos termos do Código de Procedimento e de Processo Tributário, o sujeito da obrigação de comunicação para que este, num prazo a fixar entre 10 e 20 dias seguidos, esclareça, aperfeiçoe ou complete devidamente a informação referida no número anterior.\n\n3 - As informações referidas nos números anteriores constam, no respeito pelas exigências legais aplicáveis à proteção dos dados nela contidos, de uma base de dados nacional da AT, acedível pelos órgãos e serviços desta para prossecução das respetivas competências e para as finalidades previstas nos artigos 16.º e 17.º\n\n4 - Sem prejuízo do direito de acesso e retificação dos dados pessoais comunicados ao abrigo da presente lei, os mesmos devem ser mantidos até ao final do décimo quinto ano seguinte àquele a que respeitem, sendo obrigatoriamente destruídos no prazo de seis meses após o decurso deste prazo."
+  },
+  "138516310": {
+   "fragment_id": "138516409",
+   "type": 1,
+   "heading": "Capítulo IV — Finalidades da informação comunicada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Finalidades da informação comunicada"
+  },
+  "138516311": {
+   "fragment_id": "138516410",
+   "type": 11,
+   "heading": "Artigo 16.º — Troca automática de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Troca automática de informações\n\n1 - As informações referidas no artigo anterior que sejam comunicadas à AT, se relativas a mecanismos transfronteiriços, são por esta comunicadas às autoridades competentes de todos os outros Estados-Membros, por meio de uma troca automática e em conformidade com as medidas práticas adotadas pela Comissão Europeia inerentes aos formulários normalizados e ao diretório central seguro a nível dos Estados-Membros sobre a cooperação administrativa no domínio da fiscalidade.\n\n2 - A troca automática ocorre no prazo de um mês a contar da data de fim do trimestre em que as informações tenham sido comunicadas à AT.\n\n3 - As autoridades competentes de todos os Estados-Membros têm acesso às informações registadas no diretório referido no n.º 1.\n\n4 - A Comissão Europeia tem acesso às informações referidas no artigo anterior, com exceção das referidas nas alíneas a), c) e h) do n.º 1 do artigo anterior."
+  },
+  "138516312": {
+   "fragment_id": "138516411",
+   "type": 11,
+   "heading": "Artigo 17.º — Finalidades internas da informação comunicada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Finalidades internas da informação comunicada\n\n1 - Na posse das informações referidas no artigo 15.º que lhe foram comunicadas, a AT, para além do disposto no artigo anterior, procede:\n\na) Ao enquadramento, de acordo com as normas em vigor, das situações tributárias reveladas pelos mecanismos comunicados;\n\nb) À conceção e proposta das medidas normativas adequadas a um melhor enquadramento das situações tributárias reveladas pelos mecanismos comunicados;\n\nc) À adequação da programação e da ação da inspeção tributária face à relevância dos mecanismos comunicados;\n\nd) À divulgação, no portal das finanças, para efeitos de prevenção da evasão fiscal, dos mecanismos comunicados, sem identificação dos respetivos participantes e em termos abstratos e sintéticos, podendo esta divulgação incluir mecanismos de que a AT tenha tomado conhecimento por si mesma.\n\n2 - O disposto na alínea d) do número anterior não é aplicável caso a divulgação do mecanismo, face à complexidade ou novidade deste, se revele inadequada para efeitos de prevenção da evasão fiscal ou da defesa do interesse público prosseguido pela AT.\n\n3 - Sem prejuízo das competências dos demais órgãos e serviços da AT, constitui uma prerrogativa da inspeção tributária a verificação do cumprimento das obrigações previstas na presente lei."
+  },
+  "138516313": {
+   "fragment_id": "138516412",
+   "type": 11,
+   "heading": "Artigo 18.º — Enquadramento fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Enquadramento fiscal\n\nA ausência de pronúncia da AT sobre um mecanismo que lhe seja comunicado nos termos da presente lei não tem por efeito qualquer aceitação tácita do enquadramento fiscal pretendido com esse mecanismo."
+  },
+  "138516314": {
+   "fragment_id": "138516413",
+   "type": 1,
+   "heading": "Capítulo V — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime sancionatório"
+  },
+  "138516315": {
+   "fragment_id": "138516414",
+   "type": 11,
+   "heading": "Artigo 19.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contraordenações\n\n1 - A falta de apresentação ou a apresentação fora do prazo legal, à AT, de qualquer das comunicações exigidas nos artigos 10.º, 12.º e 13.º, incluindo a falta de produção ou a produção fora do prazo legal da prova exigida nos n.os 6 e 8 do artigo 10.º e nos n.os 4 e 6 do artigo 12.º, é punível com coima de (euro) 6000 a (euro) 80 000.\n\n2 - As omissões ou inexatidões relativas às informações exigidas no n.º 1 do artigo 15.º são puníveis com coima de (euro) 2000 a (euro) 60 000.\n\n3 - A falta de apresentação ou a apresentação fora do prazo legal, à AT, de qualquer dos esclarecimentos, aperfeiçoamentos ou complementos exigidos, conforme previsto no n.º 2 do artigo 15.º, é punível com coima de (euro) 3000 a (euro) 80 000.\n\n4 - A falta de apresentação ou a apresentação fora do prazo legal, à AT, de qualquer das comunicações, incluindo a falta de produção ou a produção fora do prazo legal da prova, ou de qualquer dos esclarecimentos, aperfeiçoamentos ou complementos, bem como as omissões ou inexatidões relativas às informações a comunicar, conforme exigido no n.º 1 do artigo 22.º, são puníveis, consoante o caso, nos termos dos números anteriores, sendo os limites das coimas reduzidos para um quinto."
+  },
+  "138516316": {
+   "fragment_id": "138516415",
+   "type": 11,
+   "heading": "Artigo 20.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime aplicável\n\n1 - As contraordenações previstas no artigo anterior constituem contraordenações tributárias, sendo-lhes aplicável, com as devidas adaptações, o Regime Geral das Infrações Tributárias, salvo o disposto no número seguinte.\n\n2 - Compete ao membro do Governo responsável pela área das finanças, com possibilidade de delegação, a prática de todos os atos nos processos de contraordenação, bem como a decisão de aplicação das coimas e sanções acessórias."
+  },
+  "138516317": {
+   "fragment_id": "138516416",
+   "type": 11,
+   "heading": "Artigo 21.º — Cumprimento da obrigação omitida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cumprimento da obrigação omitida\n\nO pagamento da coima e o cumprimento da sanção acessória que tenham sido aplicadas não exoneram do cumprimento de qualquer das obrigações previstas na presente lei."
+  },
+  "138516318": {
+   "fragment_id": "138516417",
+   "type": 1,
+   "heading": "Capítulo VI — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime transitório"
+  },
+  "138516319": {
+   "fragment_id": "138516418",
+   "type": 11,
+   "heading": "Artigo 22.º — Mecanismos a comunicar já disponíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Mecanismos a comunicar já disponíveis\n\n1 - Os intermediários e os contribuintes relevantes, consoante o caso e conforme previsto nos artigos 10.º, 12.º e 15.º, comunicam à AT, até 31 de agosto de 2020, para as finalidades previstas nos artigos 16.º e 17.º, qualquer mecanismo transfronteiriço a comunicar cujo primeiro passo da sua aplicação tenha ocorrido ou venha a ocorrer no período entre 25 de junho de 2018 e 30 de junho de 2020.\n\n2 - Nas situações referidas no número anterior, em que se verifique a existência de dever legal ou contratual de sigilo, a obrigação de comunicação é do contribuinte relevante, devendo, nesse caso, o intermediário notificá-lo, no prazo de 10 dias seguidos após a entrada em vigor do presente diploma, para que cumpra a obrigação de comunicação dos mecanismos transfronteiriços referidos no número anterior, no prazo de 30 dias seguidos a contar da referida notificação, devendo o intermediário cumprir subsidiariamente aquela obrigação de comunicação até 31 de agosto de 2020 no caso de não ter sido informado do cumprimento do dever de comunicação pelo contribuinte relevante naquele prazo de 30 dias.\n\n3 - Para efeitos do disposto nos números anteriores, o prazo adicional de 10 dias previsto nos n.os 6 e 8 do artigo 10.º e n.os 4 e 6 do artigo 12.º termina a 10 de setembro de 2020."
+  },
+  "138516320": {
+   "fragment_id": "138516419",
+   "type": 11,
+   "heading": "Artigo 23.º — Início da troca automática de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Início da troca automática de informações\n\nA primeira comunicação de informações pela AT às autoridades competentes de todos os outros Estados-Membros, conforme previsto no artigo 16.º, ocorre até 31 de outubro de 2020."
+  },
+  "138516321": {
+   "fragment_id": "138516420",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "138516322": {
+   "fragment_id": "138516421",
+   "type": 11,
+   "heading": "Artigo 24.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regulamentação\n\nSão aprovados por portaria do membro do Governo responsável pela área das finanças os modelos de declarações para cumprimento das obrigações previstas na presente lei, incluindo as especificações e instruções de preenchimento e os procedimentos de entrega respetivos."
+  },
+  "138516323": {
+   "fragment_id": "138516422",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 29/2008, de 25 de fevereiro."
+  },
+  "138516324": {
+   "fragment_id": "138516423",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor e produção de efeitos\n\n1 - A presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - Sem prejuízo do disposto no número anterior e no artigo 22.º, a presente lei produz efeitos a partir de 1 de julho de 2020."
+  },
+  "140052090": {
+   "fragment_id": "138516418",
+   "type": 11,
+   "heading": "Artigo 22.º — Mecanismos a comunicar já disponíveis",
+   "in_force_from": "2020-08-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522), em vigor a partir de 2020-08-12"
+   ],
+   "markdown": "###### Artigo 22.º — Mecanismos a comunicar já disponíveis\n\n1 - Os intermediários e os contribuintes relevantes, consoante o caso e conforme previsto nos artigos 10.º, 12.º e 15.º, comunicam à AT, até 28 de fevereiro de 2021, para as finalidades previstas nos artigos 16.º e 17.º, qualquer mecanismo transfronteiriço a comunicar cujo primeiro passo da sua aplicação tenha ocorrido no período entre 25 de junho de 2018 e 30 de junho de 2020.\n\n2 - Nas situações referidas no número anterior, em que se verifique a existência de dever legal ou contratual de sigilo, a obrigação de comunicação é do contribuinte relevante, devendo, nesse caso, o intermediário notificá-lo, até 1 de dezembro de 2020, para que cumpra a obrigação de comunicação dos mecanismos transfronteiriços referidos no número anterior, no prazo de 30 dias seguidos a contar da referida notificação, devendo o intermediário cumprir subsidiariamente aquela obrigação de comunicação até 28 de fevereiro de 2021 no caso de não ter sido informado do cumprimento do dever de comunicação pelo contribuinte relevante naquele prazo de 30 dias.\n\n3 - Para efeitos do disposto nos números anteriores, o prazo adicional de 10 dias previsto nos n.os 6 e 8 do artigo 10.º e nos n.os 4 e 6 do artigo 12.º termina a 10 de março de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522), em vigor a partir de 2020-08-12"
+  },
+  "140052091": {
+   "fragment_id": "138516419",
+   "type": 11,
+   "heading": "Artigo 23.º — Início da troca automática de informações",
+   "in_force_from": "2020-08-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522), em vigor a partir de 2020-08-12"
+   ],
+   "markdown": "###### Artigo 23.º — Início da troca automática de informações\n\nA primeira comunicação de informações pela AT às autoridades competentes de todos os outros Estados-Membros, conforme previsto no artigo 16.º, ocorre até 30 de abril de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522), em vigor a partir de 2020-08-12"
+  },
+  "138516325": {
+   "fragment_id": "138516424",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de maio de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 11 de julho de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 15 de julho de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113406475"
+  },
+  "1129523975": {
+   "fragment_id": "138516388",
+   "type": 0,
+   "heading": "Artigo .º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 26/2026 - Diário da República n.º 107/2026, Série I de 2026-06-03](https://diariodarepublica.pt/dr/detalhe/lei/26-2026-1129390702)."
+   ],
+   "markdown": "> Alterado pelo/a Artigo 9.º do/a [Lei n.º 26/2026 - Diário da República n.º 107/2026, Série I de 2026-06-03](https://diariodarepublica.pt/dr/detalhe/lei/26-2026-1129390702)."
+  },
+  "1129524175": {
+   "fragment_id": "138516401",
+   "type": 11,
+   "heading": "Artigo 10.º — Cumprimento da obrigação de comunicação",
+   "in_force_from": "2026-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 26/2026 - Diário da República n.º 107/2026, Série I de 2026-06-03](https://diariodarepublica.pt/dr/detalhe/lei/26-2026-1129390702), em vigor a partir de 2026-06-08, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 10.º — Cumprimento da obrigação de comunicação\n\n1 - Nas situações não cobertas pelo dever legal de sigilo profissional, o intermediário deve comunicar à AT todas as informações que sejam do seu conhecimento ou que estejam na sua posse ou sob o seu controlo relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º, devendo fazê-lo no prazo de 30 dias seguidos, a contar, consoante o que ocorrer primeiro, do dia seguinte àquele em que o mecanismo a comunicar seja disponibilizado para ser aplicado ou do dia seguinte àquele em que o mecanismo a comunicar esteja pronto para ser aplicado ou do momento em que tenha sido realizado o primeiro passo na aplicação do mecanismo a comunicar, sem prejuízo do disposto no artigo 13.º\n\n2 - Ainda que se verifique o dever legal de sigilo profissional, o intermediário deve comunicar à AT todas as informações que sejam do seu conhecimento ou que estejam na sua posse ou sob o seu controlo relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º, nos casos em que se verifique a obrigação subsidiária de comunicação prevista nos n.os 4 ou 5 do artigo 13.º\n\n3 - A pessoa considerada intermediário nos termos do n.º 2 do artigo anterior é igualmente obrigada a comunicar à AT todas as informações que sejam do seu conhecimento ou que estejam na sua posse ou sob o seu controlo relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º, devendo fazê-lo no prazo de 30 dias seguidos, a contar do dia seguinte àquele em que prestou, diretamente ou através de outras pessoas, ajuda, assistência ou aconselhamento.\n\n4 - Tratando-se da comunicação de um mecanismo comercializável, o intermediário deve, ainda, apresentar à AT, de três em três meses, um relatório de atualização que inclua as novas informações que tenham surgido desde a comunicação inicial ou desde a apresentação do relatório anterior quanto aos elementos referidos nas alíneas a), d), g) e h) do n.º 1 do artigo 15.º\n\n5 - Caso o intermediário esteja sujeito à obrigação de comunicação de informações sobre o mecanismo transfronteiriço a comunicar também perante as autoridades competentes de outros Estados-Membros, essas informações são comunicadas apenas às autoridades competentes, conforme o que primeiro se verificar:\n\na) Do Estado-Membro em que o intermediário seja residente para efeitos fiscais;\n\nb) Do Estado-Membro em que o intermediário tenha um estabelecimento estável através do qual sejam prestados os serviços relacionados com o mecanismo a comunicar;\n\nc) Do Estado-Membro em que o intermediário esteja constituído ou por cujas leis seja regido;\n\nd) Do Estado-Membro em que o intermediário esteja registado junto de uma associação profissional relacionada com a prestação de serviços de natureza jurídica, fiscal ou de consultoria.\n\n6 - Se do disposto no número anterior resultar uma obrigação múltipla de comunicação de informações que inclua uma comunicação à AT, o intermediário fica dispensado dessa comunicação à AT se junto desta produzir, no prazo previsto nos n.os 1, 2 ou 3, consoante o caso, acrescido de 10 dias seguidos, prova documental de que as mesmas informações foram já comunicadas a outro Estado-Membro.\n\n7 - Havendo mais do que um intermediário, a obrigação que exista de comunicação de informações à AT incumbe a todos os intermediários envolvidos num mesmo mecanismo a comunicar.\n\n8 - Os intermediários ficam dispensados da comunicação referida no número anterior se, no prazo previsto nos n.os 1, 2 ou 3, consoante o caso, acrescido de 10 dias seguidos, apresentarem junto da AT prova documental de que as mesmas informações foram já comunicadas à AT por outro intermediário.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 53/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522) O prazo de 30 dias previsto neste artigo, conta-se a partir de 1 de janeiro de 2021 nos casos em que: a) Um mecanismo a comunicar for disponibilizado para aplicação, ou estiver pronto para ser aplicado, ou o primeiro passo da sua aplicação tiver sido realizado entre 1 de julho e 31 de dezembro de 2020; ou b) Os intermediários tiverem prestado, diretamente ou através de outras pessoas, ajuda, assistência ou aconselhamento, nos termos do n.º 3 do artigo 10.º da Lei n.º 26/2020, de 21 de julho, entre 1 de julho e 31 de dezembro de 2020.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 26/2026 - Diário da República n.º 107/2026, Série I de 2026-06-03](https://diariodarepublica.pt/dr/detalhe/lei/26-2026-1129390702), em vigor a partir de 2026-06-08, com efeitos a partir de 2026-01-01."
+  },
+  "1129524375": {
+   "fragment_id": "138516405",
+   "type": 11,
+   "heading": "Artigo 13.º — Cumprimento da obrigação de comunicação em caso de sigilo",
+   "in_force_from": "2026-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 26/2026 - Diário da República n.º 107/2026, Série I de 2026-06-03](https://diariodarepublica.pt/dr/detalhe/lei/26-2026-1129390702), em vigor a partir de 2026-06-08, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 13.º — Cumprimento da obrigação de comunicação em caso de sigilo\n\n1 - Nas situações cobertas pelo dever legal de sigilo profissional, a obrigação de comunicação à AT de todas as informações relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º recai sobre o contribuinte relevante, sem prejuízo da obrigação subsidiária de comunicação do intermediário prevista nos n.os 4 ou 5.\n\n2 - Para efeitos do disposto no número anterior, o intermediário notifica o contribuinte relevante no prazo de cinco dias seguidos, contados nos termos do n.º 1 ou 3 do artigo 10.º, consoante o caso, de que este deve cumprir a obrigação de comunicação a que se refere o artigo anterior.\n\n3 - O contribuinte relevante informa o intermediário, no prazo de 30 dias seguidos a contar da receção da notificação deste último, do cumprimento da obrigação de comunicação referida no artigo anterior, apresentando ao intermediário o comprovativo de submissão da declaração perante a AT.\n\n4 - No caso de o intermediário não ter sido informado do cumprimento do dever de comunicação pelo contribuinte relevante nos termos do número anterior, a comunicação das informações relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º deve ser cumprida pelo intermediário, no prazo de 10 dias seguidos.\n\n5 - O disposto nos números anteriores aplica-se às situações em que o cliente do intermediário sujeito ao dever legal de sigilo profissional é outro intermediário, caso em que é este o notificado nos termos do n.º 2, subsistindo a obrigação subsidiária daquele prevista no n.º 4 se este cliente intermediário o não informar de que ele próprio cumpriu a obrigação de comunicação, apresentando o comprovativo previsto no n.º 3, ou o não informar por escrito, se também ele estiver sujeito ao dever legal de sigilo profissional, de que ele próprio notificou o contribuinte relevante nos termos do n.º 2 e para efeitos dos n.os 3 e 4.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 53/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2020-140013522) O prazo de cinco dias seguidos previsto no n.º 2 do artigo 13.º da Lei n.º 26/2020, de 21 de julho, conta-se a partir de 1 de janeiro de 2021, nas situações cobertas pelo dever legal ou contratual de sigilo que envolvam a comunicação de mecanismo disponibilizado para aplicação, ou pronto para ser aplicado, ou cujo primeiro passo da sua aplicação tiver sido realizado entre 1 de julho e 31 de dezembro de 2020.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 26/2026 - Diário da República n.º 107/2026, Série I de 2026-06-03](https://diariodarepublica.pt/dr/detalhe/lei/26-2026-1129390702), em vigor a partir de 2026-06-08, com efeitos a partir de 2026-01-01."
+  },
+  "1129524575": {
+   "fragment_id": "138516408",
+   "type": 11,
+   "heading": "Artigo 15.º — Informações a comunicar",
+   "in_force_from": "2026-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 26/2026 - Diário da República n.º 107/2026, Série I de 2026-06-03](https://diariodarepublica.pt/dr/detalhe/lei/26-2026-1129390702), em vigor a partir de 2026-06-08, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 15.º — Informações a comunicar\n\n1 - As informações a comunicar à AT relativas a qualquer um dos mecanismos previstos no artigo 3.º e no artigo 7.º pelo intermediário ou pelo contribuinte relevante, consoante aquele que esteja sujeito à obrigação de comunicação nos termos da presente lei, devem incluir, conforme aplicável, os seguintes elementos:\n\na) A identificação dos intermediários, desde que não sujeitos ao sigilo profissional legalmente protegido em relação a um mecanismo a comunicar, e dos contribuintes relevantes, incluindo os respetivos nomes, datas e locais de nascimento, tratando-se de pessoas singulares, residências para efeitos fiscais, números de identificação fiscal e, se aplicável, as pessoas que sejam empresas associadas do contribuinte relevante;\n\nb) Os detalhes da característica-chave ou das características-chave que configurem o mecanismo como um mecanismo a comunicar;\n\nc) Uma síntese do conteúdo do mecanismo a comunicar, incluindo a referência ao nome por que é vulgarmente conhecido, caso exista, uma descrição dos principais elementos da sua estrutura, das transações eventualmente implicadas e do modo de operação, bem como quaisquer outras informações, como os dispositivos normativos pertinentes, que possam ajudar a AT a avaliar um potencial risco fiscal, sem conduzir à revelação de um segredo comercial, industrial ou profissional ou de um processo comercial, ou ainda de informações cuja divulgação seja contrária à ordem pública;\n\nd) A data em que tenha sido ou venha a ser realizado o primeiro passo na aplicação do mecanismo a comunicar;\n\ne) Os detalhes das disposições normativas que formam a base do mecanismo a comunicar, podendo tais disposições, consoante o mecanismo, integrar mais do que uma jurisdição;\n\nf) O valor das operações que constituem o próprio mecanismo a comunicar, independentemente da vantagem fiscal que se espera do mecanismo;\n\ng) A identificação do Estado-Membro dos contribuintes relevantes e de qualquer outro Estado-Membro suscetível de estar relacionado com o mecanismo a comunicar;\n\nh) A identificação de qualquer outra pessoa ou entidade sem personalidade jurídica num Estado-Membro suscetível de ser abrangida pelo mecanismo a comunicar, com indicação dos Estados-Membros a que essa pessoa ou entidade esteja ligada.\n\n2 - A AT pode notificar, nos termos do Código de Procedimento e de Processo Tributário, o sujeito da obrigação de comunicação para que este, num prazo a fixar entre 10 e 20 dias seguidos, esclareça, aperfeiçoe ou complete devidamente a informação referida no número anterior.\n\n3 - As informações referidas nos números anteriores constam, no respeito pelas exigências legais aplicáveis à proteção dos dados nela contidos, de uma base de dados nacional da AT, acedível pelos órgãos e serviços desta para prossecução das respetivas competências e para as finalidades previstas nos artigos 16.º e 17.º\n\n4 - Sem prejuízo do direito de acesso e retificação dos dados pessoais comunicados ao abrigo da presente lei, os mesmos devem ser mantidos até ao final do décimo quinto ano seguinte àquele a que respeitem, sendo obrigatoriamente destruídos no prazo de seis meses após o decurso deste prazo.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 26/2026 - Diário da República n.º 107/2026, Série I de 2026-06-03](https://diariodarepublica.pt/dr/detalhe/lei/26-2026-1129390702), em vigor a partir de 2026-06-08, com efeitos a partir de 2026-01-01."
+  }
+ }
+}

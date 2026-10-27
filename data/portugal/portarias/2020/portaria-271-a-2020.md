@@ -1,0 +1,1138 @@
+---
+schema_version: '1.0'
+id: pt:dre:149532792:por
+title: Portaria n.º 271-A/2020
+short_title: null
+summary: Aprova o Regulamento do Programa APOIAR
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Economia e Transição Digital, Finanças e Planeamento
+proposing_entity: null
+official_number: 271-A/2020
+official_date: null
+publication_date: '2020-11-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/2020, 2º Suplemento, Série I de 2020-11-24
+  number: '229'
+  series: I
+  supplement: 2º Suplemento
+  pages: 22-(2) a 22-(11)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/11/22902/0000200011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-12-14'
+version_history:
+  file: portaria-271-a-2020.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-16'
+    amending: pt:dre:154361181:por
+    amending_title: Portaria n.º 15-B/2021
+    changes:
+    - Adita Artigo 13.º-A
+    - Adita Artigo 13.º-B
+    - Adita Artigo 13.º-C
+    - Adita Artigo 13.º-D
+    - Adita Capítulo V
+    - Adita Artigo 13.º-E
+    - Adita Artigo 13.º-F
+    - Adita Artigo 13.º-G
+    - Adita Artigo 13.º-H
+    - Adita Capítulo VI
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Capítulo IV
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Anexo A
+    - Altera Secção I
+  - date: '2021-03-25'
+    amending: pt:dre:160195066:por
+    amending_title: Portaria n.º 69-A/2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º-B
+    - Altera Artigo 13.º-C
+    - Altera Artigo 13.º-F
+    - Altera Artigo 13.º-G
+    - Altera Artigo 16.º
+  - date: '2021-08-03'
+    amending: pt:dre:168903112:por
+    amending_title: Portaria n.º 168-B/2021
+    changes:
+    - Adita Artigo 18.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º-G
+    - Altera Artigo 16.º
+  - date: '2021-11-12'
+    amending: pt:dre:174278983:por
+    amending_title: Portaria n.º 248-A/2021
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 13.º-B
+  - date: '2021-12-24'
+    amending: pt:dre:176519579:por
+    amending_title: Portaria n.º 317-B/2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º-B
+    - Altera Artigo 13.º-C
+    - Altera Artigo 13.º-G
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+  - date: '2022-12-14'
+    amending: pt:dre:204672332:por
+    amending_title: Portaria n.º 295-A/2022
+    changes:
+    - Adita Capítulo VI
+    - Adita Artigo 13.º-I
+    - Adita Artigo 13.º-J
+    - Adita Artigo 13.º-K
+    - Adita Artigo 13.º-L
+    - Adita Anexo C
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Capítulo VI
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/271-a/2020/p/cons/20221213/pt/html
+  oj: null
+  dre: '149532792'
+  dre_path: /dr/detalhe/portaria/271-a-2020-149532792
+  internal: pt:dre:149532792:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2020-149532792
+  metadata_url: https://data.dre.pt/eli/port/271-a/2020/p/cons/20221213/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-154361196
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-154361196
+  retrieved_at: '2026-10-22T12:37:07Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: fbd56dab1fc4a77e96b92066c564093eb4cb3040e3a3879f279ea37f53d53f2d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:37:07Z'
+  notes: 7 versão(ões); histórico completo em portaria-271-a-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Fiscal
+- Agência para o Desenvolvimento e Coesão
+- Ajuda Comunitária
+- Ajuda não Reembolsável
+- Autoridade Tributária e Aduaneira
+- Financiamento
+- Empresa
+- CAE
+- Inspeção Geral de Finanças
+- Certificação Electrónica
+- Gestão Financeira
+- Definição de Competências
+- Controlo Sanitário
+- Saúde Pública
+- Estabelecimento de Restauração
+- Fiscalização
+- Fundos CE
+- Pagamento
+- Instituto do Turismo de Portugal
+- Tesouraria
+- Doença Infecciosa
+- Epidemia
+- Desenvolvimento Económico
+- Política Económica
+- Posto de Trabalho
+- Prestação de Serviços
+- Emprego
+- Política de Emprego
+- Microempresa
+- Pequenas e Médias Empresas
+- Regulamento
+- PME
+- Segurança Social
+- IAPMEI
+- Subsídio não Reembolsável
+- PORTUGAL 2020
+- Programa Operacional Temático Competitividade e Internacionalização
+- Balcão 2020
+- Programa APOIAR
+relationships:
+- type: amended_by
+  target: pt:dre:154361181:por
+  label: Adita Artigo 13.º-A; Adita Artigo 13.º-B; Adita Artigo 13.º-C; Adita Artigo 13.º-D; Adita Capítulo V; Adita Artigo
+    13.º-E; Adita Artigo 13.º-F; Adita Artigo 13.º-G; Adita Artigo 13.º-H; Adita Capítulo VI; Altera Artigo 1.º; Altera Artigo
+    2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181
+  date: '2021-01-15'
+- type: amended_by
+  target: pt:dre:160195066:por
+  label: Altera Artigo 1.º; Altera Artigo 8.º; Altera Artigo 13.º-B; Altera Artigo 13.º-C; Altera Artigo 13.º-F; Altera Artigo
+    13.º-G; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/69-a-2021-160195066
+  date: '2021-03-24'
+- type: amended_by
+  target: pt:dre:168903112:por
+  label: Adita Artigo 18.º; Altera Artigo 8.º; Altera Artigo 13.º-G; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/168-b-2021-168903112
+  date: '2021-08-02'
+- type: amended_by
+  target: pt:dre:174278983:por
+  label: Altera Artigo 5.º; Altera Artigo 13.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/248-a-2021-174278983
+  date: '2021-11-11'
+- type: amended_by
+  target: pt:dre:176519579:por
+  label: Altera Artigo 1.º; Altera Artigo 8.º; Altera Artigo 13.º-B; Altera Artigo 13.º-C; Altera Artigo 13.º-G; Altera Artigo
+    14.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/317-b-2021-176519579
+  date: '2021-12-23'
+- type: amended_by
+  target: pt:dre:204672332:por
+  label: Adita Capítulo VI; Adita Artigo 13.º-I; Adita Artigo 13.º-J; Adita Artigo 13.º-K; Adita Artigo 13.º-L; Adita Anexo
+    C; Altera Artigo 1.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 11.º; Altera Capítulo VI; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332
+  date: '2022-12-13'
+- type: cites
+  target: celex:32013R1301
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1301/oj
+- type: cites
+  target: celex:32013R1407
+  label: null
+  source: null
+- type: cites
+  target: celex:32014R0651
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/651/oj
+- type: cites
+  target: celex:32020R0460
+  label: null
+  source: http://data.europa.eu/eli/reg/2020/460/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/96-b/2020/11/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/96-b/2020/11/12/p/dre
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/2003/361/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/2003/361/oj
+- type: cites
+  target: pt:dre:126869983:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/169-b/2019/12/03/p/dre
+- type: cites
+  target: pt:dre:147412974:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/92-a/2020/11/02/p/dre
+- type: cites
+  target: pt:dre:149103950:por
+  label: null
+  source: http://data.dre.pt/eli/dec/9/2020/11/21/p/dre
+- type: cites
+  target: pt:dre:149104781:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/101/2020/11/20/p/dre
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+- type: cites
+  target: pt:dre:629439:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/372/2007/11/06/p/dre
+- type: cites
+  target: pt:dre:66108237:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6/2015/01/08/p/dre
+article_structure:
+  article_count: 33
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:37:07Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 271-A/2020
+
+Portaria n.º 271-A/2020
+
+de 24 de novembro
+
+Sumário: Aprova o Regulamento do Programa APOIAR.
+
+Atendendo ao agravamento da situação epidemiológica, o Presidente da República procedeu novamente à declaração do estado de emergência, com efeitos a 6 de novembro de 2020, tendo sido adotadas novas medidas e restrições com vista à prevenção e resposta à pandemia da doença COVID-19. Estas medidas, sendo fundamentais do ponto de vista da saúde pública, provocam impactos na atividade económica, em particular nas empresas de menor dimensão e nos setores mais dependentes do mercado interno e do turismo.
+
+Para além dos apoios já lançados, que, numa primeira fase, visaram sobretudo acautelar a manutenção dos postos de trabalho, impõe-se agora a necessidade de desenvolver e implementar novos instrumentos destinados a apoiar as empresas a suportarem os seus custos de funcionamento, mitigando assim os impactos negativos sobre a faturação causados pela pandemia e contribuindo para a subsistência das empresas viáveis e que se encontram, temporariamente, com dificuldade para fazer face aos seus compromissos de curto prazo.
+
+Neste enquadramento, a Comissão Europeia (CE) lançou a iniciativa CRII (Coronavirus Response Investment Initiative) que permitiu, através da modificação do Regulamento (UE) n.º 1301/2013, de 17 de dezembro, alterado pelo Regulamento (UE) 2020/460, de 30 de março, a possibilidade do FEDER apoiar o financiamento de fundo de maneio das pequenas e médias empresas, como medida temporária para dar uma resposta eficaz à crise de saúde pública.
+
+Paralelamente, a 13 de outubro de 2020, a CE emitiu a comunicação C/2020/7127 - JO C 3401, de 13 de outubro de 2020, em matéria de auxílios de Estado em contexto COVID, alargando o âmbito do «Quadro temporário relativo a medidas de auxílio estatal em apoio da economia no atual contexto do surto de COVID-19», na qual se continuam a prever medidas de acesso à liquidez, bem como o apoio a empresas que enfrentam dificuldades financeiras devido ao surto de COVID-19 ou agravadas pelo mesmo. O presente sistema de incentivos é criado ao abrigo do referido quadro temporário.
+
+Através da Resolução do Conselho de Ministros n.º 101/2020, de 20 de novembro, foi aprovado um primeiro conjunto de medidas que se constitui como um instrumento de apoio à tesouraria das micro e pequenas empresas, que atuem em setores particularmente afetados pelas medidas de confinamento, assegurando e preservando a sua liquidez no mercado e a continuidade da sua atividade económica durante e após o surto pandémico.
+
+Por decisão do Conselho de Ministros, a 12 de novembro, este instrumento foi reforçado, estabelecendo-se uma medida adicional de apoio às empresas do setor da restauração, afetadas pelas restrições ao funcionamento decorrentes do estado de emergência decretado a 6 de novembro e que, atendendo às especificidades do setor, abrange micro, pequenas e também as médias empresas.
+
+O presente Regulamento estabelece, assim, o Sistema de Incentivos à Liquidez, designado Programa APOIAR, o qual inclui as medidas «APOIAR.PT» e «APOIAR RESTAURAÇÃO».
+
+O Decreto-Lei n.º 6/2015, de 8 de janeiro, que procede à aprovação do enquadramento nacional dos sistemas de incentivos às empresas, define as condições e as regras a observar na criação de sistemas de incentivos aplicáveis às empresas no território do continente. A Comissão Técnica dos Sistemas de Incentivos, criada no âmbito deste enquadramento, emitiu o parecer favorável previsto no artigo 7.º do referido diploma.
+
+Nos termos do n.º 3 do artigo 10.º do Decreto-Lei n.º 137/2014, de 12 de setembro, na sua atual redação, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento para o período 2014-2020, as deliberações tomadas pela CIC Portugal 2020, no exercício da aprovação de regulamentação específica, são adotadas por portaria.
+
+Assim, ao abrigo da Resolução do Conselho de Ministros n.º 101/2020, de 20 de novembro, e nos termos das disposições conjugadas do n.º 3 do artigo 10.º do Decreto-Lei n.º 137/2014, de 12 de setembro, na sua atual redação, e do n.º 4 do artigo 22.º do Decreto-Lei n.º 169-B/2019, de 3 de dezembro, na sua atual redação, que aprovou o regime de organização e funcionamento do XXII Governo Constitucional, manda o Governo, pelo Ministro de Estado, da Economia e da Transição Digital, pelo Ministro do Planeamento e pelo Secretário de Estado Adjunto e dos Assuntos Fiscais, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É criado o Sistema de Incentivos à Liquidez, doravante designado Programa APOIAR, cujo Regulamento consta do anexo à presente Portaria, da qual faz parte integrante.
+
+###### Artigo 2.º — Aprovação
+
+O Regulamento foi aprovado pela Deliberação n.º 36/2020 da Comissão Interministerial de Coordenação do Acordo de Parceria - CIC Portugal 2020, de 23 de novembro de 2020.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 23 de novembro de 2020.
+
+O Ministro de Estado, da Economia e da Transição Digital, Pedro Gramaxo de Carvalho Siza Vieira. - O Ministro do Planeamento, Ângelo Nelson Rosário de Souza. - O Secretário de Estado Adjunto e dos Assuntos Fiscais, António Mendonça Mendes.
+
+## Anexo — REGULAMENTO ESPECÍFICO DO APOIO À LIQUIDEZ «PROGRAMA APOIAR»
+
+### Capítulo I — Disposições Gerais
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente regulamento tem por objeto a criação do Sistema de Incentivos à Liquidez, doravante designado por Programa APOIAR, sendo financiado pelos Fundos Europeus Estruturais e de Investimento (FEEI), no respeito pelas regras definidas no Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação, por reembolsos de incentivos de quadros comunitários já encerrados e, no caso da medida 'APOIAR TURISMO', nos termos previstos no artigo 13.º-I do presente regulamento.
+
+2 - O Sistema de Incentivos previsto neste regulamento é financiado pelo Programa Operacional Temático Competitividade e Internacionalização (COMPETE 2020) e, no caso do 'APOIAR TURISMO', pelo Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.), com recurso a transferências do subsetor Estado, nos termos do artigo 13.º-I do presente regulamento.
+
+3 - O Programa APOIAR, criado para mitigar os impactos negativos sobre a atividade económica decorrentes das medidas de proteção da saúde pública associadas à pandemia COVID-19, visa promover o apoio à liquidez, à eficiência operacional, à manutenção de emprego e à saúde financeira de curto prazo das empresas, estruturando-se nas seguintes medidas:
+
+a) 'APOIAR.PT';
+
+b) 'APOIAR RESTAURAÇÃO';
+
+c) 'APOIAR + SIMPLES';
+
+d) 'APOIAR RENDAS'.
+
+e) 'APOIAR TURISMO'.
+
+4 - No âmbito do Programa APOIAR, as decisões de concessão de incentivo por parte da autoridade de gestão (AG) do Programa Operacional Temático Competitividade e Internacionalização são adotadas até 30 de junho de 2022, com exceção da medida 'APOIAR TURISMO'.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317-B/2021 - Diário da República n.º 247/2021, 2º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-b-2021-176519579), em vigor a partir de 2021-12-24, produz efeitos a partir de 2021-12-24
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-A/2021 - Diário da República n.º 58/2021, 2º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/portaria/69-a-2021-160195066), em vigor a partir de 2021-03-25
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 2.º — Definições
+
+Para além das definições constantes no artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação, entende-se por:
+
+a) «Atividade económica da empresa», o código da atividade económica principal da empresa, de acordo com a classificação portuguesa das atividades económicas, registado na plataforma Sistema de Informação da Classificação Portuguesa de Atividades Económicas (SICAE);
+
+b) «Empresa», qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado;
+
+c) «PME», empresa que emprega menos de 250 pessoas e cujo volume de negócios anual não excede 50 milhões de euros ou cujo balanço total anual não excede 43 milhões de euros, nos termos da Recomendação n.º 2003/361/CE, da Comissão Europeia, de 6 de maio;
+
+d) «Microempresa», «Pequena empresa» e «Média empresa», PME definidas nos termos da Recomendação n.º 2003/361/CE, da Comissão Europeia, de 6 de maio;
+
+e) 'Faturação', montante total da base tributável das faturas e dos documentos equivalentes, excluído das faturas anuladas e deduzido das notas de crédito, comunicadas à Autoridade Tributária e Aduaneira (AT) através do sistema e-Fatura, relativamente a todas as operações e atividades económicas desenvolvidas pelo beneficiário.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 3.º — Âmbito territorial
+
+O Programa APOIAR tem aplicação em todo o território de Portugal continental.
+
+###### Artigo 4.º — Tipologia e prioridades de investimento
+
+Nos casos em que o financiamento é assegurado pelos FEEI, a tipologia de investimento designada por Programa APOIAR enquadra -se na prioridade de investimento 3.3 'Concessão de apoio à criação e ao alargamento de capacidades avançadas de desenvolvimento de produtos e serviços', do objetivo temático 3, do Programa Operacional Temático Competitividade e Internacionalização, sem prejuízo da possibilidade do seu posterior enquadramento na dotação REACT/FEDER deste Programa Operacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 5.º — Procedimentos de análise, seleção e decisão das candidaturas
+
+1 - As candidaturas são apresentadas no âmbito de aviso para apresentação de candidaturas (AAC) publicado pela AG do Programa Operacional Temático Competitividade e Internacionalização e submetidas através de formulário eletrónico simplificado disponível no Balcão 2020, no sítio na Internet https://balcao.portugal2020.pt, com exceção da medida 'APOIAR TURISMO' em que os pedidos de apoio são formalizados nos termos previstos no artigo 13.º-L.
+
+2 - As candidaturas de um único beneficiário ao Programa APOIAR, nas modalidades 'APOIAR.PT' e 'APOIAR RESTAURAÇÃO', podem ser apresentadas em simultâneo, tendo por base o mesmo formulário de candidatura, nos termos a definir nos avisos para apresentação de candidatura.
+
+3 - As candidaturas ou os pedidos de apoio são avaliados com base nos critérios de elegibilidade e condições de acesso previstos nos artigos 7.º, 11.º, 13.º-B, 13.º-F e 13.º-J do presente Regulamento, sem prejuízo da observância da legislação especialmente aplicável.
+
+4 - As candidaturas que cumpram os critérios de elegibilidade e condições de acesso referidos no número anterior são selecionadas pela Autoridade de Gestão do Programa Operacional Temático Competitividade e Internacionalização, considerando o momento de entrada da candidatura, até ao limite orçamental estabelecido no aviso para apresentação de candidaturas, com exceção da medida 'APOIAR TURISMO', que respeita o disposto no artigo 13.º-L.
+
+5 - As decisões sobre as candidaturas ou os pedidos de apoio são adotadas no prazo de 20 dias após a data de apresentação da candidatura, descontando-se deste prazo o tempo de resposta aos esclarecimentos solicitados.
+
+6 - Com exceção da medida 'APOIAR TURISMO', que respeita os procedimentos enunciados no artigo 13.º-L do presente Regulamento, a aceitação da decisão da concessão do apoio é feita mediante a confirmação do termo de aceitação, eletronicamente na Plataforma de Acesso Simplificado (PAS), disponível no sítio na Internet https://pas.compete2020.gov.pt, nos termos a definir nos avisos para apresentação de candidatura.
+
+7 - Com exceção da medida 'APOIAR TURISMO', que respeita os procedimentos enunciados no artigo 13.º-L do presente Regulamento, a decisão de aprovação caduca caso o termo de aceitação não seja confirmado pelo beneficiário no prazo máximo de 30 dias, a contar da data da notificação da decisão, salvo por motivo justificado, não imputável ao beneficiário e aceite pela autoridade de gestão, ou no caso de não se verificar a diminuição da faturação nos termos dos artigos 7.º, 11.º, 13.º-B e 13.º-F, na sequência da consulta à AT no sistema e-Fatura.
+
+9 - Conforme estabelecido nos artigos 36.º e 37.º do Decreto-Lei n.º 137/2014, de 12 de setembro, na sua redação atual, os Organismos Intermédios responsáveis pelos pagamentos e acompanhamento da execução dos projetos são o IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), e o Turismo de Portugal, I. P., em função da CAE principal do beneficiário, conforme os anexos A, B e C.
+
+10 - Nos casos em que a decisão de aprovação não tenha caducado, o disposto no n.º 7 é aplicável retroativamente às candidaturas já aprovadas e sem termo de aceitação confirmado.
+
+> Nota: [Artigo 3.º, Portaria n.º 248-A/2021 - Diário da República n.º 219/2021, 1º Suplemento, Série I de 2021-11-11](https://diariodarepublica.pt/dr/detalhe/portaria/248-a-2021-174278983) Produz efeitos à data da entrada em vigor do Regulamento do Programa APOIAR, aprovado em Anexo à Portaria n.º 271-A/2020, de 24 de novembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 248-A/2021 - Diário da República n.º 219/2021, 1º Suplemento, Série I de 2021-11-11](https://diariodarepublica.pt/dr/detalhe/portaria/248-a-2021-174278983), em vigor a partir de 2021-11-12
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+### Capítulo II — APOIAR.PT
+
+###### Artigo 6.º — Beneficiários no APOIAR.PT
+
+São beneficiários no 'APOIAR.PT':
+
+a) As PME de qualquer natureza e sob qualquer forma jurídica, nos termos da definição constante na alínea c) do artigo 2.º;
+
+b) As empresas de qualquer natureza e sob qualquer forma jurídica que, não sendo PME pelo facto de empregarem 250 pessoas ou mais, nos termos da definição constante na alínea c) do artigo 2.º, cumprem o critério de ter um volume de negócios anual, calculado de acordo com essa definição, não superior a 50 milhões de euros.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 7.º — Critérios de elegibilidade dos beneficiários e condições de acesso ao APOIAR.PT
+
+1 - No âmbito do 'APOIAR.PT' são exigíveis os seguintes critérios e condições de acesso relativos aos beneficiários:
+
+a) Estar legalmente constituído a 1 de janeiro de 2020;
+
+b) Desenvolver atividade económica principal, nos termos da definição constante na alínea a) do artigo 2.º, inserida na lista de CAE prevista no Anexo A, e encontrar-se em atividade;
+
+c) Dispor de contabilidade organizada, nos termos da legislação aplicável;
+
+d) Não ter sido objeto de um processo de insolvência, nos termos do Código da Insolvência e Recuperação de Empresas, e não ter beneficiado dos auxílios de emergência ou auxílios à reestruturação;
+
+e) Possuir capitais próprios positivos à data de 31 de dezembro de 2019, exceto no caso de empresas que tenham iniciado a atividade após 1 de janeiro 2019, ou demonstrar evidências de capitalização, através de novas entradas de capital (capital social, incorporação de suprimentos e/ou prestações suplementares de capital), validadas por contabilista certificado, que permita anular o valor negativo dos capitais próprios existentes a 31 de dezembro de 2019;
+
+f) Dispor, quando aplicável, da certificação eletrónica que comprova o estatuto de PME, nos termos previstos no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, emitida pelo IAPMEI, I. P.;
+
+g) Declarar uma diminuição da faturação comunicada à AT no sistema e-Fatura de, pelo menos, 25 % em 2020, face ao ano anterior, ou, no caso de empresas que iniciaram atividade no ano de 2019, declarar uma diminuição da faturação média mensal comunicada à AT no sistema e-Fatura de, pelo menos, 25 % em 2020, face à média mensal do período de atividade decorrido até 29 de fevereiro de 2020, considerando apenas os meses civis completos;
+
+h) Apresentar declaração subscrita por contabilista certificado responsável pela contabilidade da empresa, na qual conste o apuramento da diminuição registada na faturação da empresa em 2020, face ao ano anterior, ou, no caso de empresas que iniciaram atividade no ano de 2019, face ao que resulta da aplicação da média mensal determinada nos termos da alínea anterior ao período de 12 meses;
+
+i) Ter a situação regularizada em matéria de reposições, no âmbito dos financiamentos dos FEEI;
+
+j) Ter a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social, a verificar até ao momento da confirmação do termo de aceitação;
+
+k) No caso das médias empresas e das empresas a que se refere a alínea b) do artigo 6.º, não ser uma empresa em dificuldade a 31 de dezembro de 2019, de acordo com a definição prevista no n.º 2 do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;
+
+l) No caso das empresas a que se refere a alínea b) do artigo 6.º, apresentar declaração de cumprimento do critério referente ao volume de negócios aí estabelecido, no exercício de 2019.
+
+2 - Na apresentação da candidatura, a comprovação das condições previstas nas alíneas c), d), e), h), k) e l) do número anterior faz-se mediante apresentação de declaração de cumprimento, subscrita pelo beneficiário sob compromisso de honra, sendo as restantes condições confirmadas através dos procedimentos automáticos do Balcão 2020.
+
+3 - Para efeitos de comprovação da condição prevista nas alíneas b), g) e j) do n.º 1, o candidato, no momento de submissão da candidatura, deve autorizar a Agência para o Desenvolvimento e Coesão, I. P. (AD&C, I. P.) a proceder à verificação da quebra de faturação comunicada à AT no sistema e-Fatura, bem como à consulta da informação relativa à situação tributária e à informação cadastral relativa à atividade, sendo para o efeito celebrado um protocolo de troca de informação entre estas entidades.
+
+4 - O disposto nas alíneas e), g), h) e j) do anterior n.º 1 aplica-se retroativamente às candidaturas já submetidas, nos termos a definir nos avisos para apresentação de candidatura, quando aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14, produz efeitos a partir de 2020-11-25
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 8.º — Taxa de financiamento e forma de apoio no APOIAR.PT
+
+1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.
+
+2 - A taxa de financiamento a atribuir é de 20 % do montante da diminuição da faturação da empresa, calculada nos termos da alínea h) do n.º 1 do artigo anterior, com os seguintes limites máximos:
+
+a) 10.000 euros para as microempresas, 55.000 euros para as pequenas empresas e 135.000 euros para as médias empresas e para as empresas a que se refere a alínea b) do artigo 6.º, sem prejuízo do n.º 5, no caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %;
+
+b) 15.000 euros para as microempresas, 82.500 euros para as pequenas empresas e 202.500 euros para as médias empresas e para as empresas a que se refere a alínea b) artigo 6.º, sem prejuízo do n.º 5, no caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %.
+
+3 - No caso das micro e pequenas empresas cuja atividade principal se manteve encerrada por determinação legal ou administrativa, enquadrada nos CAE 56302, 56304, 56305, 93210 e 93294, os limites máximos referidos no número anterior são alargados para:
+
+a) 55.000 euros para as microempresas e 135.000 euros para as pequenas empresas, no caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %;
+
+b) 82.500 euros para as microempresas e 202.500 euros para as pequenas empresas, no caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %.
+
+4 - (Revogado.)
+
+5 - Como apoio extraordinário à manutenção da atividade em 2021, é atribuído um apoio equivalente ao incentivo apurado correspondente ao 4.º trimestre de 2020, sendo os limites máximos definidos no n.º 2 majorados nos seguintes termos:
+
+a) No caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %:
+
+i) Em 2.500 euros para as microempresas;
+
+ii) Em 13 750 euros para as pequenas empresas e para as microempresas a que se refere o n.º 3, sem prejuízo do número seguinte;
+
+iii) Em 33 750 euros para as médias empresas, para as empresas a que se refere a alínea b) do artigo 6.º, e para as pequenas empresas a que se refere o n.º 3, sem prejuízo do número seguinte.
+
+b) No caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %:
+
+i) Em 3.750 euros para as microempresas;
+
+ii) Em 20 625 euros para as pequenas empresas e para as microempresas a que se refere o n.º 3, sem prejuízo do número seguinte;
+
+iii) Em 50 625 euros para as médias empresas, para as empresas a que se refere a alínea b) do artigo 6.º, e para as pequenas empresas a que se refere o n.º 3, sem prejuízo do número seguinte
+
+6 - No caso das empresas cuja atividade principal se manteve encerrada por determinação legal ou administrativa, enquadrada nos CAE 56302, 56304 e 56305, o apoio extraordinário à manutenção da atividade em 2021 referido no número anterior é duplicado, sendo os limites máximos definidos no n.º 2 majorados nos seguintes termos:
+
+a) No caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %:
+
+i) Em 27 500 euros para as microempresas;
+
+ii) Em 67 500 euros para as pequenas e médias empresas e para as empresas a que se refere a alínea b) do artigo 6.º
+
+b) No caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %:
+
+i) Em 41 250 euros para as microempresas;
+
+ii) Em 101 250 euros para as pequenas e médias empresas e para as empresas a que se refere a alínea b) do artigo 6.º
+
+7 - No caso das empresas com atividade principal afetada pelas determinações legais ou administrativas decorrentes da situação de calamidade, decretada pela Resolução do Conselho de Ministros n.º 157/2021, de 27 de novembro, na sua redação atual, enquadrada nos CAE 56302, 56304 e 56305, 59 e 90, é atribuído um apoio suplementar de valor equivalente ao apurado nos termos do n.º 5, sendo os limites máximos definidos nos anteriores n.os 5 e 6, alterados nos seguintes termos:
+
+a) No caso das empresas cuja atividade principal se enquadra nos CAE 56302, 56304 e 56305, com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %, os limites definidos na alínea a) do n.º 6 são alargados para:
+
+i) 55 000 euros para as microempresas;
+
+ii) 135 000 euros para as pequenas e médias empresas e para as empresas a que se refere a alínea b) do artigo 6.º;
+
+b) No caso das empresas cuja atividade principal se enquadra nos CAE 56302, 56304 e 56305, com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %, os limites definidos na alínea b) do n.º 6 são alargados para:
+
+i) 82 500 euros para as microempresas;
+
+ii) 202 500 euros para as pequenas e médias empresas e para as empresas a que se refere a alínea b) do artigo 6.º;
+
+c) No caso das empresas cuja atividade principal se enquadra nos CAE 59 e 90, com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %, os limites definidos na alínea a) do n.º 5 são alargados para:
+
+i) 5000 euros para as microempresas;
+
+ii) 27 500 euros para as pequenas empresas;
+
+iii) 67 500 euros para as médias empresas e para as empresas a que se refere a alínea b) do artigo 6.º;
+
+d) No caso das empresas cuja atividade principal se enquadra nos CAE 59 e 90, com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %, os limites definidos na alínea b) do n.º 5 são alargados para:
+
+i) 7500 euros para as microempresas;
+
+ii) 41 250 euros para as pequenas empresas;
+
+iii) 101 250 euros para as médias empresas e para as empresas a que se refere a alínea b) do artigo 6.º
+
+8 - O disposto nos números anteriores aplica-se retroativamente às candidaturas já submetidas, cabendo à autoridade de gestão proceder ao ajustamento do apoio, nos termos a definir nos avisos para apresentação de candidatura.
+
+9 - No caso das empresas elegíveis às medidas 'APOIAR RESTAURAÇÃO' e 'APOIAR RENDAS', o incentivo apurado nos termos dos números anteriores é acumulável com o incentivo que resultar da aplicação do disposto nos artigos 12.º e 13.º-C.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317-B/2021 - Diário da República n.º 247/2021, 2º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-b-2021-176519579), em vigor a partir de 2021-12-24, produz efeitos a partir de 2021-12-24
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168-B/2021 - Diário da República n.º 148/2021, 2º Suplemento, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-b-2021-168903112), em vigor a partir de 2021-08-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-A/2021 - Diário da República n.º 58/2021, 2º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/portaria/69-a-2021-160195066), em vigor a partir de 2021-03-25
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 9.º — Pagamentos aos beneficiários no APOIAR.PT
+
+1 - Os pagamentos aos beneficiários são efetuados pelos Organismos Intermédios referidos no n.º 9 do artigo 5.º do presente Regulamento.
+
+2 - Os pedidos de pagamento são apresentados pelos beneficiários no Balcão 2020, nos termos que vierem a ser definidos no aviso para apresentação de candidaturas.
+
+3 - Sempre que se verifique o incumprimento de qualquer das obrigações previstas no artigo 14.º ou a ocorrência de qualquer irregularidade, nomeadamente a prestação de falsas declarações no âmbito da concessão do apoio, pode haver lugar à recuperação dos apoios, nos termos previstos no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação.
+
+4 - A recuperação referida no número anterior, na falta de pagamento voluntário no prazo fixado, pode ser realizada coercivamente com recurso ao processo de execução fiscal, nos termos e condições previstos no Código de Procedimento e de Processo Tributário.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+### Capítulo III — APOIAR RESTAURAÇÃO
+
+###### Artigo 10.º — Beneficiários no APOIAR RESTAURAÇÃO
+
+São beneficiários no 'APOIAR RESTAURAÇÃO':
+
+a) As PME de qualquer natureza e sob qualquer forma jurídica, nos termos da definição constante na alínea c) do artigo 2.º;
+
+b) As empresas de qualquer natureza e sob qualquer forma jurídica que, não sendo PME pelo facto de empregarem 250 pessoas ou mais, nos termos da definição constante na alínea c) do artigo 2.º, cumprem o critério de ter um volume de negócios anual, calculado de acordo com essa definição, não superior a 50 milhões de euros.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 11.º — Critérios de elegibilidade dos beneficiários e condições de acesso ao APOIAR RESTAURAÇÃO
+
+1 - No âmbito da medida 'APOIAR RESTAURAÇÃO' são exigíveis os seguintes critérios e condições de acesso relativos aos beneficiários:
+
+a) Estar legalmente constituído a 1 de março de 2020;
+
+b) Desenvolver atividade económica principal, nos termos da definição constante na alínea a) do artigo 2.º, inserida na lista de CAE prevista no Anexo B, e encontrar-se em atividade;
+
+c) Ter sede num dos concelhos do território nacional continental abrangidos pela suspensão de atividades prevista na Resolução do Conselho de Ministros n.º 92-A/2020, de 2 de novembro, alterada pela Resolução do Conselho de Ministros n.º 96-B/2020, de 12 de novembro, bem como no Decreto n.º 9/2020, de 21 de novembro, no Decreto n.º 11/2020, de 6 de dezembro, no Decreto n.º 11-A/2020, de 21 de dezembro, e no Decreto n.º 2-A/2021, de 7 de janeiro;
+
+d) Ter sido abrangido pela suspensão de atividades referida na alínea anterior, no período relevante para o cálculo e atribuição do apoio;
+
+e) Dispor de contabilidade organizada, nos termos da legislação aplicável;
+
+f) Não ter sido objeto de um processo de insolvência, nos termos do Código da Insolvência e Recuperação de Empresas, e não ter beneficiado dos auxílios de emergência ou auxílios à reestruturação;
+
+g) Possuir capitais próprios positivos à data de 31 de dezembro de 2019, exceto no caso de empresas que tenham iniciado a atividade após 1 de janeiro 2019, ou demonstrar evidências de capitalização, através de novas entradas de capital (capital social, incorporação de suprimentos e/ou prestações suplementares de capital), validadas por contabilista certificado, que permita anular o valor negativo dos capitais próprios existentes a 31 de dezembro de 2019;
+
+h) No caso das médias empresas e das empresas a que se refere a alínea b) do artigo 10.º, não ser uma empresa em dificuldade a 31 de dezembro de 2019, de acordo com a definição prevista no artigo 2.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;
+
+i) Dispor, quando aplicável, da certificação eletrónica que comprova o estatuto de PME, nos termos previstos no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, emitida pelo IAPMEI, I. P.;
+
+j) Declarar uma diminuição da faturação média diária comunicada à AT no sistema e-Fatura nos dias em que vigore a suspensão de atividades referida na alínea d), face à média de faturação diária registada nos fins de semana compreendidos entre o dia 1 de janeiro de 2020 e 31 de outubro de 2020, ou, no caso das empresas constituídas em 2020, no período de atividade decorrido até 31 de outubro de 2020;
+
+k) Apresentar declaração subscrita por contabilista certificado responsável pela contabilidade da empresa, na qual conste o apuramento da diminuição registada na faturação da empresa, nos dias em que vigore a suspensão de atividades referida na alínea d), determinada nos termos da alínea anterior;
+
+l) Ter a situação regularizada em matéria de reposições, no âmbito dos financiamentos dos FEEI;
+
+m) Ter a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social, a verificar até ao momento da confirmação do termo de aceitação;
+
+n) No caso das empresas a que se refere a alínea b) do artigo 10.º, apresentar declaração de cumprimento do critério referente ao volume de negócios aí estabelecido, no exercício de 2019, ou, no caso das empresas que iniciaram atividade após 1 de janeiro de 2020, declarar um volume de negócios médio mensal em 2020 não superior a 4,2 milhões de euros.
+
+2 - Na apresentação da candidatura, a comprovação das condições previstas nas alíneas e), f), g), h), k) e n) do número anterior faz-se mediante apresentação de declaração de cumprimento, subscrita pelo beneficiário sob compromisso de honra, sendo as restantes condições confirmadas através dos procedimentos automáticos do Balcão 2020.
+
+3 - Para efeitos de comprovação das condições previstas nas alíneas b), j), k) e m) do n.º 1, o candidato, no momento de submissão da candidatura, deve autorizar a AD&C, I. P., a proceder à verificação da faturação comunicada à AT no sistema e-Fatura, bem como à consulta da informação relativa à situação tributária e à informação cadastral relativa à atividade, sendo para o efeito celebrado um protocolo de troca de informação entre estas entidades.
+
+4 - Os avisos para apresentação de candidaturas podem ainda definir, em função da evolução da situação, ajustamentos nos critérios de elegibilidade previstos no presente artigo.
+
+5 - O disposto nas alíneas g) e m) do anterior n.º 1 aplica-se retroativamente às candidaturas já submetidas, nos termos a definir nos avisos para apresentação de candidatura quando aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14, produz efeitos a partir de 2020-11-25
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 12.º — Taxa de financiamento e forma de apoio no APOIAR RESTAURAÇÃO
+
+1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.
+
+2 - A taxa de financiamento a atribuir é de 20 % do montante da diminuição da faturação, calculada nos termos da alínea k) do n.º 1 do artigo anterior.
+
+###### Artigo 13.º — Pagamentos aos beneficiários no APOIAR RESTAURAÇÃO
+
+1 - Os pagamentos aos beneficiários são efetuados pelo Turismo de Portugal, I. P.
+
+2 - Os pedidos de pagamento são apresentados pelos beneficiários no Balcão 2020, nos termos que vierem a ser definidos no aviso para apresentação de candidaturas.
+
+3 - Sempre que se verifique o incumprimento de qualquer das obrigações previstas no artigo 14.º ou a ocorrência de qualquer irregularidade, nomeadamente a prestação de falsas declarações no âmbito da concessão do apoio, pode haver lugar à recuperação dos apoios, nos termos previstos no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação.
+
+4 - A recuperação referida no número anterior, na falta de pagamento voluntário no prazo fixado, pode ser realizada coercivamente com recurso ao processo de execução fiscal, nos termos e condições previstos no Código de Procedimento e de Processo Tributário.
+
+### Capítulo IV — APOIAR RENDAS
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 13.º-A — Beneficiários no 'APOIAR RENDAS'
+
+São beneficiários no 'APOIAR RENDAS':
+
+a) As PME de qualquer natureza e sob qualquer forma jurídica, nos termos da definição constante na alínea c) do artigo 2.º;
+
+b) As empresas de qualquer natureza e sob qualquer forma jurídica que, não sendo PME pelo facto de empregarem 250 pessoas ou mais, nos termos da definição constante na alínea c) do artigo 2.º, cumprem o critério de ter um volume de negócios anual, calculado de acordo com essa definição, não superior a 50 milhões de euros.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 13.º-B — Critérios de elegibilidade dos beneficiários e condições de acesso ao 'APOIAR RENDAS'
+
+1 - No âmbito do 'APOIAR RENDAS' são exigíveis os seguintes critérios e condições de acesso relativos aos beneficiários:
+
+a) Estar legalmente constituído a 1 de janeiro de 2020;
+
+b) Desenvolver atividade económica principal, nos termos da definição constante na alínea a) do artigo 2.º, inserida na lista de CAE prevista no anexo A, e encontrar-se em atividade;
+
+c) Ser arrendatário num contrato de arrendamento para fins não habitacionais, comunicado no Portal das Finanças, com início em data anterior a 13 de março de 2020 e relativamente ao qual, à data da candidatura, não exista ou seja ineficaz qualquer causa de cessação do contrato;
+
+d) Não ter sido objeto de um processo de insolvência, nos termos do Código da Insolvência e Recuperação de Empresas, e não ter beneficiado dos auxílios de emergência ou auxílios à reestruturação;
+
+e) Possuir capitais próprios positivos à data de 31 de dezembro de 2019, exceto no caso de empresas que tenham iniciado a atividade após 1 de janeiro 2019 e no caso dos empresários em nome individual, ou demonstrar evidências de capitalização, através de novas entradas de capital (capital social, incorporação de suprimentos e/ou prestações suplementares de capital), validadas por contabilista certificado, que permita anular o valor negativo dos capitais próprios existentes a 31 de dezembro de 2019;
+
+f) No caso das médias empresas e das empresas a que se refere a alínea b) do artigo 13.º-A, não ser uma empresa em dificuldade a 31 de dezembro de 2019, de acordo com a definição prevista no n.º 2 do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;
+
+g) Dispor, quando aplicável, da certificação eletrónica que comprova o estatuto de PME, nos termos previstos no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, emitida pelo IAPMEI, I. P.;
+
+h) Declarar uma diminuição da faturação comunicada à AT no sistema e-Fatura de, pelo menos, 25 % em 2020, face ao ano anterior, ou, no caso de empresas que iniciaram atividade no ano de 2019, declarar uma diminuição da faturação média mensal comunicada à AT no sistema e-Fatura de, pelo menos, 25 % em 2020, face à média mensal do período de atividade decorrido até 29 de fevereiro de 2020, considerando apenas os meses civis completos;
+
+i) Ter a situação regularizada em matéria de reposições, no âmbito dos financiamentos dos FEEI;
+
+j) Ter a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social, a verificar até ao momento da confirmação do termo de aceitação;
+
+k) No caso das empresas a que se refere a alínea b) do artigo 13.º-A, apresentar declaração de cumprimento do critério referente ao volume de negócios aí estabelecido, no exercício de 2019.
+
+2 - Na apresentação da candidatura, a comprovação das condições previstas na parte final da alínea c) e nas alíneas d), e), f) e k) do número anterior faz-se mediante apresentação de declaração de cumprimento, subscrita pelo beneficiário sob compromisso de honra, sendo as restantes condições confirmadas através dos procedimentos automáticos do Balcão 2020.
+
+3 - Para efeitos de comprovação das condições previstas nas alíneas b), c), h) e j) do n.º 1, o candidato, no momento de submissão da candidatura, deve autorizar a AD&C, I. P., a proceder à verificação da quebra de faturação comunicada à AT no sistema e-Fatura, bem como à consulta da informação relativa aos contratos de arrendamento, à situação tributária e à informação cadastral relativa à atividade, sendo para o efeito celebrado um protocolo de troca de informação entre estas entidades, salvo, quanto às primeiras, em casos devidamente fundamentados, nos termos a definir pela autoridade de gestão.
+
+4 - Em alternativa ou em complemento à alínea c) do n.º 1 pode constituir condição de acesso relativa aos beneficiários ser parte num qualquer contrato de exploração ou cedência de imóvel para fins comerciais, com início em data anterior a 13 de março de 2020, exceto quando esteja em causa um estabelecimento inserido em conjunto comercial.
+
+5 - Para efeitos do disposto no número anterior, a comprovação da condição aí referida faz-se mediante junção de:
+
+a) Declaração do beneficiário, sob compromisso de honra, de que não existe ou é ineficaz qualquer causa de cessação do contrato;
+
+b) Declaração, sob compromisso de honra, do contabilista certificado da empresa, na qual este atesta que o beneficiário é parte no contrato e qual o valor do contrato que corresponde ao uso do imóvel, no caso de o mesmo abranger outras variáveis para além do imóvel e esse valor não estar discriminado no contrato.
+
+> Nota: [Artigo 3.º, Portaria n.º 248-A/2021 - Diário da República n.º 219/2021, 1º Suplemento, Série I de 2021-11-11](https://diariodarepublica.pt/dr/detalhe/portaria/248-a-2021-174278983) Produz efeitos à data da entrada em vigor do Regulamento do Programa APOIAR, aprovado em Anexo à Portaria n.º 271-A/2020, de 24 de novembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317-B/2021 - Diário da República n.º 247/2021, 2º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-b-2021-176519579), em vigor a partir de 2021-12-24, produz efeitos a partir de 2021-01-16
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 248-A/2021 - Diário da República n.º 219/2021, 1º Suplemento, Série I de 2021-11-11](https://diariodarepublica.pt/dr/detalhe/portaria/248-a-2021-174278983), em vigor a partir de 2021-11-12
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-A/2021 - Diário da República n.º 58/2021, 2º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/portaria/69-a-2021-160195066), em vigor a partir de 2021-03-25
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 13.º-C — Taxa de financiamento e forma de apoio no 'APOIAR RENDAS'
+
+1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.
+
+2 - A taxa de financiamento a atribuir é de:
+
+a) 30 % do valor da renda mensal de referência, até ao limite máximo de 1200 euros por mês e por estabelecimento, durante seis meses, no caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura, determinada nos termos da alínea h) do n.º 1 do artigo anterior entre 25 % e 40 %;
+
+b) 50 % do valor da renda mensal de referência, até ao limite máximo de 2000 euros por mês e por estabelecimento, durante seis meses, no caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura, determinada nos termos da alínea h) do n.º 1 do artigo anterior superior a 40 %.
+
+3 - Para efeitos do número anterior, entende-se por "renda mensal de referência":
+
+a) O valor resultante de contrato de arrendamento em vigor a 1 de dezembro de 2020;
+
+b) O valor mensal relativo ao imóvel em vigor a 1 de dezembro de 2020, nos casos a que se refere o n.º 4 do artigo anterior, que conste da declaração de contabilista certificado.
+
+4 - O apoio global resultante da aplicação do disposto no n.º 2 não pode exceder o limite máximo de 40 000 euros por empresa.
+
+5 - No caso das empresas elegíveis às medidas 'APOIAR.PT', 'APOIAR RESTAURAÇÃO' ou 'APOIAR + SIMPLES', o incentivo apurado nos termos dos números anteriores é acumulável com o incentivo que resultar da aplicação do disposto nos artigos 8.º, 12.º e 13.º-G.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317-B/2021 - Diário da República n.º 247/2021, 2º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-b-2021-176519579), em vigor a partir de 2021-12-24, produz efeitos a partir de 2021-01-16
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-A/2021 - Diário da República n.º 58/2021, 2º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/portaria/69-a-2021-160195066), em vigor a partir de 2021-03-25
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 13.º-D — Pagamentos aos beneficiários no 'APOIAR RENDAS'
+
+1 - Os pagamentos aos beneficiários são efetuados pelos organismos intermédios referidos no n.º 9 do artigo 5.º do presente Regulamento.
+
+2 - Os pedidos de pagamento são apresentados pelos beneficiários no Balcão 2020, nos termos que vierem a ser definidos no aviso para apresentação de candidaturas.
+
+3 - Sempre que se verifique o incumprimento de qualquer das obrigações previstas no artigo 14.º ou a ocorrência de qualquer irregularidade, nomeadamente a prestação de falsas declarações no âmbito da concessão do apoio, pode haver lugar à recuperação dos apoios, nos termos previstos no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação.
+
+4 - A recuperação referida no número anterior, na falta de pagamento voluntário no prazo fixado, pode ser realizada coercivamente com recurso ao processo de execução fiscal, nos termos e condições previstos no Código de Procedimento e de Processo Tributário.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+### Capítulo V — APOIAR + SIMPLES
+
+> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 13.º-E — Beneficiários no 'APOIAR + SIMPLES'
+
+São beneficiários os empresários em nome individual (ENI) sem contabilidade organizada.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 13.º-F — Critérios de elegibilidade dos beneficiários e condições de acesso ao 'APOIAR + SIMPLES'
+
+1 - No âmbito da medida "APOIAR + SIMPLES" são exigíveis os seguintes critérios e condições de acesso relativos aos beneficiários:
+
+a) Ter declarado início ou reinício de atividade junto da AT até 1 de janeiro de 2020;
+
+b) Desenvolver atividade económica principal, nos termos da definição constante na alínea a) do artigo 2.º, inserida na lista de CAE prevista no anexo A, e encontrar-se em atividade;
+
+c) Dispor da certificação eletrónica que comprova o estatuto de PME, nos termos previstos no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, emitida pelo IAPMEI, I. P.;
+
+d) Declarar uma diminuição da faturação comunicada à AT no sistema e-Fatura de, pelo menos, 25 % em 2020, face ao ano anterior, ou, no caso de empresas que iniciaram atividade no ano de 2019, declarar uma diminuição da faturação média mensal comunicada à AT no sistema e-Fatura de, pelo menos, 25 % em 2020, face à média mensal do período de atividade decorrido até 29 de fevereiro de 2020, considerando apenas os meses civis completos;
+
+e) Apresentar declaração na qual conste o apuramento da diminuição registada na faturação da empresa em 2020, face ao ano anterior, ou, no caso de empresas que iniciaram atividade no ano de 2019, face ao que resulta da aplicação da média mensal determinada nos termos da alínea anterior ao período de 12 meses;
+
+f) Ter a situação regularizada em matéria de reposições, no âmbito dos financiamentos dos FEEI;
+
+g) Ter a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social, a verificar até ao momento da confirmação do termo de aceitação;
+
+h) (Revogada.)
+
+2 - Na apresentação da candidatura, a comprovação da condição prevista na alínea e) do número anterior faz-se mediante apresentação de declaração de cumprimento, subscrita pelo beneficiário sob compromisso de honra, sendo as restantes condições confirmadas através dos procedimentos automáticos do Balcão 2020.
+
+3 - Para efeitos de comprovação das condições previstas nas alíneas b), d) e g) do n.º 1, o candidato, no momento de submissão da candidatura, deve autorizar a AD&C, I. P. a proceder à verificação da quebra de faturação comunicada à AT no sistema e-Fatura, bem como à consulta da informação relativa à situação tributária e à informação cadastral relativa à atividade, sendo para o efeito celebrado um protocolo de troca de informação entre estas entidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-A/2021 - Diário da República n.º 58/2021, 2º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/portaria/69-a-2021-160195066), em vigor a partir de 2021-03-25
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 13.º-G — Taxa de financiamento e forma de apoio no 'APOIAR + SIMPLES'
+
+1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.
+
+2 - A taxa de financiamento a atribuir é de 20 % do montante da diminuição da faturação da empresa, calculada nos termos da alínea e) do n.º 1 do artigo anterior, com os seguintes limites máximos:
+
+a) 4.000 euros por empresa, sem prejuízo do n.º 4, no caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %;
+
+b) 6.000 euros por empresa, sem prejuízo do n.º 4, no caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %.
+
+3 - No caso das empresas cuja atividade principal se manteve encerrada por determinação legal ou administrativa, enquadrada nos CAE 56302, 56304, 56305, 93210 e 93294, os limites máximos referidos no número anterior são alargados para:
+
+a) 10.000 euros por empresa, no caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %;
+
+b) 15.000 euros por empresa, no caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %.
+
+4 - Como apoio extraordinário à manutenção da atividade em 2021, é atribuído um apoio equivalente ao incentivo apurado correspondente ao 4.º trimestre de 2020, sendo os limites máximos definidos no n.º 2 majorados nos seguintes termos:
+
+a) No caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %, em 1000 euros ou 2500 euros no caso das empresas a que se refere o n.º 3, sem prejuízo do número seguinte;
+
+b) No caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %, em 1500 euros ou 3750 euros no caso das empresas a que se refere o n.º 3, sem prejuízo do número seguinte.
+
+5 - No caso das empresas cuja atividade principal se manteve encerrada por determinação legal ou administrativa, enquadrada nos CAE 56302, 56304 e 56305, o apoio extraordinário à manutenção da atividade em 2021 referido no número anterior é duplicado, sendo os limites máximos definidos no n.º 2 majorados nos seguintes termos:
+
+a) No caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %, em 5000 euros;
+
+b) No caso das empresas com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %, em 7500 euros.
+
+6 - No caso das empresas com atividade principal afetada pelas determinações legais ou administrativas decorrentes da situação de calamidade, decretada pela Resolução do Conselho de Ministros n.º 157/2021, de 27 de novembro, na sua redação atual, enquadrada nos CAE 56302, 56304, 56305, 59 e 90, é atribuído um apoio suplementar de valor equivalente ao apurado nos termos do n.º 4, sendo os limites máximos definidos nos anteriores n.os 4 e 5 alterados nos seguintes termos:
+
+a) No caso das empresas cuja atividade principal se enquadra nos CAE 56302, 56304 e 56305, com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %, o limite definido na alínea a) do n.º 5 é alargado para 10 000 euros;
+
+b) No caso das empresas cuja atividade principal se enquadra nos CAE 56302, 56304 e 56305, com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %, o limite definido na alínea b) do n.º 5 é alargado para 15 000 euros;
+
+c) No caso das empresas cuja atividade principal se enquadra nos CAE 59 e 90, com uma diminuição da faturação comunicada à AT no sistema e-Fatura entre 25 % e 50 %, o limite definido na alínea a) do n.º 4 é alargado para 2000 euros;
+
+d) No caso das empresas cuja atividade principal se enquadra nos CAE 59 e 90, com uma diminuição da faturação comunicada à AT no sistema e-Fatura superior a 50 %, o limite definido na alínea b) do n.º 4 é alargado para 3000 euros.
+
+7 - O disposto nos números anteriores aplica-se retroativamente às candidaturas já submetidas, cabendo à autoridade de gestão proceder ao ajustamento do apoio, nos termos a definir nos avisos para apresentação de candidatura.
+
+8 - No caso dos ENI elegíveis à medida 'APOIAR RENDAS', o incentivo apurado nos termos dos números anteriores é acumulável com o incentivo que resultar da aplicação do disposto no artigo 13.º-C.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317-B/2021 - Diário da República n.º 247/2021, 2º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-b-2021-176519579), em vigor a partir de 2021-12-24, produz efeitos a partir de 2021-12-24
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168-B/2021 - Diário da República n.º 148/2021, 2º Suplemento, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-b-2021-168903112), em vigor a partir de 2021-08-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-A/2021 - Diário da República n.º 58/2021, 2º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/portaria/69-a-2021-160195066), em vigor a partir de 2021-03-25
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 13.º-H — Pagamento aos beneficiários no 'APOIAR + SIMPLES'
+
+1 - Os pagamentos aos beneficiários são efetuados pelos organismos intermédios referidos no n.º 9 do artigo 5.º do presente Regulamento.
+
+2 - Os pedidos de pagamento são apresentados pelos beneficiários no Balcão 2020, nos termos que vierem a ser definidos no aviso para apresentação de candidaturas.
+
+3 - Sempre que se verifique o incumprimento de qualquer das obrigações previstas no artigo 14.º ou a ocorrência de qualquer irregularidade, nomeadamente a prestação de falsas declarações no âmbito da concessão do apoio, pode haver lugar à recuperação dos apoios, nos termos previstos no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação.
+
+4 - A recuperação referida no número anterior, na falta de pagamento voluntário no prazo fixado, pode ser realizada coercivamente com recurso ao processo de execução fiscal, nos termos e condições previstos no Código de Procedimento e de Processo Tributário.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+### Capítulo VI — APOIAR TURISMO
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14
+
+###### Artigo 13.º-I — Beneficiários e dotação no 'APOIAR TURISMO'
+
+1 - São beneficiárias no 'APOIAR TURISMO' as empresas que, cumprindo as condições de elegibilidade previstas no artigo seguinte, desenvolvam atividade económica principal inserida na lista de CAE prevista no anexo C à presente portaria e tenham tido uma candidatura aprovada ao abrigo do Programa APOIAR, nas medidas 'APOIAR.PT', 'APOIAR + SIMPLES' ou 'APOIAR RESTAURAÇÃO'.
+
+2 - A dotação para financiamento de operações ao abrigo da medida 'APOIAR TURISMO' é de 70 milhões de euros, a transferir do subsetor Estado para o Turismo de Portugal, I. P.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14
+
+###### Artigo 13.º-J — Critérios de elegibilidade dos beneficiários e condições de acesso ao 'APOIAR TURISMO'
+
+1 - No âmbito da medida 'APOIAR TURISMO' são exigíveis os seguintes critérios e condições de acesso relativos aos beneficiários, a cumprir à data da formalização do pedido:
+
+a) Desenvolver atividade económica principal, nos termos da definição constante na alínea a) do artigo 2.º, inserida na lista de CAE prevista no anexo C;
+
+b) Ter tido uma candidatura aprovada ao abrigo das medidas 'APOIAR.PT', 'APOIAR RESTAURAÇÃO' ou 'APOIAR + SIMPLES';
+
+c) Encontrar-se em atividade;
+
+d) Ter a situação regularizada em matéria de reposições, no âmbito dos financiamentos dos FEEI;
+
+e) Ter a situação regularizada perante a segurança social e a administração fiscal;
+
+f) Não ter sido objeto de um processo de insolvência, nos termos do Código da Insolvência e Recuperação de Empresas.
+
+2 - A comprovação das condições previstas nas alíneas c) e f) do número anterior faz-se mediante apresentação de declaração de cumprimento, subscrita pelo beneficiário sob compromisso de honra, sendo as restantes condições confirmadas através de procedimentos automáticos do Balcão 2020.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14
+
+###### Artigo 13.º-K — Taxa de financiamento e forma de apoio no 'APOIAR TURISMO'
+
+1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.
+
+2 - O apoio a conceder corresponde a 10 % do apoio financeiro final pago e recebido, cumulativamente, por cada empresa beneficiária no âmbito das medidas 'APOIAR.PT', 'APOIAR + SIMPLES' e 'APOIAR RESTAURAÇÃO', observando-se o disposto no número seguinte.
+
+3 - Se, da aplicação do disposto no número anterior e do número de pedidos de apoio apresentados nos termos do artigo seguinte, a dotação orçamental prevista para a medida 'APOIAR TURISMO' não for integralmente comprometida, o valor não utilizado é redistribuído de forma proporcional pelas empresas beneficiárias em função do apoio inicialmente apurado, não podendo, contudo, cada uma receber, no final, um valor de apoio superior a 50 % do valor do apoio final pago e recebido, cumulativamente, no âmbito das medidas 'APOIAR.PT', 'APOIAR + SIMPLES' e 'APOIAR RESTAURAÇÃO'.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14
+
+###### Artigo 13.º-L — Pedido de apoio e pagamentos aos beneficiários no 'APOIAR TURISMO'
+
+1 - O pedido de apoio ao abrigo da medida APOIAR TURISMO, único por cada empresa beneficiária, é apresentado através de formulário eletrónico simplificado disponível no Balcão dos Fundos, até sete dias úteis após a entrada em vigor do presente diploma.
+
+2 - No pedido de apoio a que se refere o número anterior, a empresa beneficiária:
+
+a) Confirma o pedido do apoio e o respetivo IBAN;
+
+b) Declara o cumprimento dos critérios de elegibilidade e das condições de acesso referidos nas alíneas c) e f) do n.º 1 do artigo 13.º-J do presente diploma;
+
+c) Aceita o cumprimento das obrigações a que se refere o artigo 14.º do presente diploma.
+
+3 - Após a submissão do pedido de apoio e a validação das condições de elegibilidade e apuramento do valor do incentivo nos termos do artigo 13.º-K do presente diploma, o Turismo de Portugal, I. P., profere decisão sobre os pedidos de concessão de apoio.
+
+4 - O prazo referido no n.º 1 do presente artigo pode ser prorrogado pelo membro do Governo com tutela sobre o setor do turismo.
+
+5 - Os pagamentos aos beneficiários são processados pelo Turismo de Portugal, I. P.
+
+6 - Previamente ao pagamento, compete ao Turismo de Portugal, I. P., a validação junto da Agência para o Desenvolvimento e Coesão, I. P., do enquadramento em matéria de regras de auxílios de minimis.
+
+7 - Sempre que se verifique o incumprimento de qualquer das obrigações previstas no artigo 14.º ou a ocorrência de qualquer irregularidade, nomeadamente a prestação de falsas declarações no âmbito da concessão do apoio, pode haver lugar à recuperação dos apoios, nos termos previstos no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação.
+
+8 - A recuperação referida no número anterior, na falta de pagamento voluntário no prazo fixado, pode ser realizada coercivamente com recurso ao processo de execução fiscal, nos termos e condições previstos no Código de Procedimento e de Processo Tributário.»
+
+2 - É aditado ao Regulamento do Programa APOIAR, aprovado em anexo à Portaria n.º 271-A/2020, 24 de novembro, na sua redação atual, da qual faz parte integrante, o anexo C, com a redação constante do anexo i à presente portaria, do qual faz parte integrante.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14
+
+### Capítulo VII — Disposições Comuns
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14
+
+> Aditado pelo/a Artigo 5.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 14.º — Obrigações dos beneficiários
+
+1 - Durante o período de concessão do apoio, contado a partir da data de submissão da candidatura, e nos 60 dias úteis subsequentes à apresentação do pedido de pagamento final ou do pagamento final do apoio no caso das medidas que não carecem de apresentação deste pedido, o beneficiário não pode:
+
+a) Distribuir lucros e dividendos, sob qualquer forma, nomeadamente a título de levantamento por conta;
+
+b) Fazer cessar contratos de trabalho ao abrigo das modalidades de despedimento coletivo, de despedimento por extinção do posto de trabalho, ou de despedimento por inadaptação, previstos nos artigos 359.º, 367.º e 373.º do Código do Trabalho, respetivamente, nem iniciar os respetivos procedimentos;
+
+c) Cessar a atividade.
+
+2 - No caso da medida 'APOIAR RENDAS', os beneficiários estão igualmente sujeitos à obrigação de conservar, por um período de dois anos após o pagamento final, comprovativos de pagamento de rendas aos senhorios realizados no 1.º semestre de 2021, de montante, pelo menos, igual ao do apoio concedido.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317-B/2021 - Diário da República n.º 247/2021, 2º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-b-2021-176519579), em vigor a partir de 2021-12-24, produz efeitos a partir de 2021-12-24
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 15.º — Acompanhamento e controlo
+
+1 - A função de controlo e auditoria visa assegurar que os recursos financeiros são utilizados de acordo com os seus objetivos e cumprem a legislação aplicável.
+
+2 - O sistema de gestão e controlo do Programa APOIAR é da responsabilidade da Autoridade de Gestão do Programa Operacional Temático Competitividade e Internacionalização, sem prejuízo das competências que forem delegadas nos Organismos Intermédios e das competências próprias da AD&C, I. P., e da Inspeção-Geral de Finanças, enquanto Autoridade de Auditoria.
+
+3 - No âmbito das atividades a desenvolver, serão efetuadas auditorias por amostragem aos beneficiários, bem como outras ações que visem confirmar a realização dos objetivos prosseguidos com os apoios junto dos beneficiários.
+
+###### Artigo 16.º — Enquadramento europeu de auxílios de Estado
+
+1 - Os apoios atribuídos no âmbito das medidas 'APOIAR.PT', 'APOIAR RESTAURAÇÃO' e 'APOIAR RENDAS', com exceção dos n.os 6 e 7 do artigo 8.º, respeitam o regime de auxílios do Estado, ao abrigo da comunicação intitulada 'Quadro temporário relativo a medidas de auxílio estatal em apoio da economia no atual contexto do surto de COVID-19' - secção 3.1 'Montantes limitados de auxílio' - Comunicação da Comissão de 19 de março de 2020 [C(2020) 1863] e das suas alterações [C(2020) 2215, de 3 de abril de 2020, C(2020) 3156, de 8 de maio de 2020, C(2020) 4509, de 29 de junho de 2020, C(2020) 7127, de 13 de outubro de 2020, C(2021) 564, de 28 de janeiro de 2021, e C(2021) 8442, de 18 de novembro de 2021].
+
+2 - Os apoios atribuídos no âmbito das medidas 'APOIAR + SIMPLES', 'APOIAR TURISMO' e dos n.os 6 e 7 do artigo 8.º respeitam o regime de auxílios do Estado, ao abrigo do Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, relativo aos auxílios de minimis.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 317-B/2021 - Diário da República n.º 247/2021, 2º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/317-b-2021-176519579), em vigor a partir de 2021-12-24, produz efeitos a partir de 2021-12-24
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168-B/2021 - Diário da República n.º 148/2021, 2º Suplemento, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-b-2021-168903112), em vigor a partir de 2021-08-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-A/2021 - Diário da República n.º 58/2021, 2º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/portaria/69-a-2021-160195066), em vigor a partir de 2021-03-25
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 17.º — Cumulação de auxílios
+
+Os apoios atribuídos ao abrigo do Programa APOIAR são acumuláveis entre si, sendo ainda acumuláveis com outros incentivos e apoios públicos, devendo o incentivo total acumulado respeitar os limites comunitários aplicáveis em matéria de regras de auxílios do Estado.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+###### Artigo 18.º — Novos apoios
+
+1 - No contexto da retoma económica, e com vista a estimular a adaptação e consolidação de novos modelos de negócio e a adaptação aos novos desafios pós-COVID, podem ser promovidas novas medidas que visem apoiar as empresas e entidades da envolvente empresarial.
+
+2 - Os apoios referidos no número anterior são regulamentados em sede de aviso para apresentação de candidaturas.»
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 168-B/2021 - Diário da República n.º 148/2021, 2º Suplemento, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-b-2021-168903112), em vigor a partir de 2021-08-03
+
+## Anexo A — Lista de Códigos de Atividades Elegíveis
+
+Secção G - Comércio por grosso e a retalho; reparação de veículos automóveis e motociclos, exceto combustíveis
+
+45: Comércio, manutenção e reparação, de veículos automóveis e motociclos
+
+46: Comércio por grosso (inclui agentes), exceto de veículos automóveis e motociclos, com exceção de:
+
+46120: Agentes do comércio por grosso de combustíveis, minérios, metais e de produtos químicos para a indústria
+
+46711: Comércio por grosso de produtos petrolíferos
+
+46712: Comércio por grosso de combustíveis sólidos, líquidos e gasosos, não derivados do petróleo
+
+47: Comércio a retalho, exceto de veículos automóveis e motociclos, com exceção de:
+
+47300: Comércio a retalho de combustível para veículos a motor, em estabelecimentos especializados
+
+47783: Comércio a retalho de combustíveis para uso doméstico, em estabelecimentos especializados
+
+> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+#### Secção I — - Alojamento, Restauração e Similares
+
+55(*): Alojamento.
+
+56(*): Restauração e similares.
+
+Outras atividades turísticas:
+
+493: Outros transportes terrestres de passageiros.
+
+50102: Transportes costeiros e locais de passageiros.
+
+50300: Transportes de passageiros por vias navegáveis interiores.
+
+77(*): Atividades de aluguer.
+
+79(*): Agências de viagem, operadores turísticos, outros serviços de reservas e atividades relacionadas.
+
+823(*): Organização de feiras, congressos e outros eventos similares.
+
+86905(*): Atividades termais.
+
+93210(*): Atividades dos parques de diversão e temáticos.
+
+93211(*): Atividades de parques de diversão itinerantes.
+
+93292(*): Atividades dos portos de recreio (marinas).
+
+93293(*): Organização de atividades de animação turística.
+
+93294(*): Outras atividades de diversão e recreativas, n. e.
+
+93295(*): Outras atividades de diversão itinerantes.
+
+Outras atividades culturais:
+
+90(*): Atividades de teatro, de música, de dança e outras atividades artísticas e literárias.
+
+91(*): Atividades das bibliotecas, arquivos, museus e outras atividades culturais.
+
+581: Edição de livros, de jornais e de outras publicações.
+
+59: Atividades cinematográficas, de vídeo, de produção de programas de televisão, de gravação de som e de edição de música.
+
+60: Atividades de rádio e de televisão.
+
+73: Publicidade, estudos de mercado e sondagens de opinião.
+
+741: Atividades de design.
+
+742: Atividades fotográficas.
+
+Atividades de serviços mais afetadas pelas medidas de combate à pandemia:
+
+855: Outras atividades educativas.
+
+856: Atividades de serviços de apoio à educação.
+
+86230: Atividades de medicina dentária e odontologia.
+
+93110(*): Gestão de instalações desportivas.
+
+93130: Atividades de ginásio (fitness).
+
+93192(*): Outras atividades desportivas, n. e.
+
+95: Reparação de computadores e de bens de uso pessoal e doméstico.
+
+96: Outras atividades de serviços pessoais.
+
+(*) Atividades cujo acompanhamento da execução dos projetos é da responsabilidade do Turismo de Portugal, I. P., sendo todas as restantes da responsabilidade do IAPMEI, I. P.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 15-B/2021 - Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/portaria/15-b-2021-154361181), em vigor a partir de 2021-01-16
+
+## Anexo B — Lista de Códigos de Atividade Elegíveis no APOIAR RESTAURAÇÃO
+
+56*: Restauração e similares
+
+* Atividades cujo acompanhamento da execução dos projetos é da responsabilidade do Turismo de Portugal, I. P., sendo todas as restantes da responsabilidade do IAPMEI, I. P.
+
+113761896
+
+## Anexo C — Lista de Códigos de Atividade Elegíveis no APOIAR TURISMO
+
+Secção I - Alojamento, restauração e similares
+
+55: Alojamento.
+
+56: Restauração e similares.
+
+Secção II - Outras atividades turísticas
+
+77: Atividades de aluguer.
+
+79: Agências de viagem, operadores turísticos, outros serviços de reservas e atividades relacionadas.
+
+823: Organização de feiras, congressos e outros eventos similares.
+
+86905: Atividades termais.
+
+93210: Atividades dos parques de diversão e temáticos.
+
+93211: Atividades de parques de diversão itinerantes.
+
+93292: Atividades dos portos de recreio (marinas).
+
+93293: Organização de atividades de animação turística.
+
+93294: Outras atividades de diversão e recreativas, n. e.
+
+93295: Outras atividades de diversão itinerantes.
+
+Secção III - Outras atividades culturais
+
+90: Atividades de teatro, de música, de dança e outras atividades artísticas e literárias.
+
+91: Atividades das bibliotecas, arquivos, museus e outras atividades culturais.
+
+Secção IV - Atividades de serviços
+
+93110: Gestão de instalações desportivas.
+
+93192: Outras atividades desportivas, n. e.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 295-A/2022 - Diário da República n.º 238/2022, 1º Suplemento, Série I de 2022-12-13](https://diariodarepublica.pt/dr/detalhe/portaria/295-a-2022-204672332), em vigor a partir de 2022-12-14

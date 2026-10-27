@@ -1,0 +1,241 @@
+---
+schema_version: '1.0'
+id: pt:dre:3135836:por
+title: Resolução n.º 35/2012
+short_title: null
+summary: Designa os membros do conselho diretivo do Instituto de Seguros de Portugal
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 35/2012
+official_date: null
+publication_date: '2012-09-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 171/2012, Série II de 2012-09-04
+  number: '171'
+  series: II
+  supplement: null
+  pages: 30607 - 30608
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/09/171000000/3060730608.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3135836'
+  dre_path: /dr/detalhe/resolucao/35-2012-3135836
+  internal: pt:dre:3135836:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/35-2012-3135836
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/35-2012-3135836
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:14:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 87796bce9ea58563207a87fab197de893aa4d23fffb8f5b48ea1e3afdcee7aad
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:14:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Diretivo
+- Instituto de Seguros de Portugal
+- Nomeação
+- Presidente
+- Vice-presidente
+- Vogal
+relationships:
+- type: cites
+  target: pt:dre:520259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:544415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:603511:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:647508:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:14:57Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 35/2012
+
+Nos termos do disposto no artigo 9.º dos Estatutos do Instituto de Seguros de Portugal (ISP), aprovados em anexo ao [Decreto-Lei n.º 289/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-2001-603511), de 13 de novembro, alterado pelo [Decreto-Lei n.º 195/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2002-647508), de 29 de setembro, o presidente e demais membros do conselho diretivo são nomeados por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, para um mandato de cinco anos, renovável uma vez por igual período, de entre pessoas com reconhecida idoneidade, independência e competência.
+
+O presidente, Fernando Dias Nogueira, nomeado pela resolução n.º 95/2006, publicada no Diário da República, 2.ª série, de 2 de outubro de 2006, o vice-presidente, António Manuel da Silva Osório, e o vogal Rodrigo Fernandes Homem de Lucena nomeados pela resolução n.º 105/2006, publicada no Diário da República, 2.ª série, de 19 de dezembro de 2006, e o vogal Rui Carlos Alvarez Carp nomeado pela resolução n.º 35/2007, publicada no Diário da República, 2.ª série, de 24 de julho de 2007, terminaram os seus mandatos, pelo que cumpre proceder à nomeação dos novos membros daquele Instituto.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do Estatuto do Gestor Público, aprovado pelo [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, republicado em anexo ao [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e retificado pela Declaração de Retificação n.º 2/2012, de 25 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as designações constantes da presente resolução.
+
+Assim:
+
+Nos termos do artigo 9.º dos Estatutos do Instituto de Seguros de Portugal, aprovados em anexo ao [Decreto-Lei n.º 289/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/289-2001-603511), de 13 de novembro, alterado pelo [Decreto-Lei n.º 195/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2002-647508), de 29 de setembro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, sob proposta do Ministro de Estado e das Finanças, para o conselho diretivo do Instituto de Seguros de Portugal (ISP), para o quinquénio 2012-2016, José António Figueiredo Almaça, Filipe Alexandre Aleman Ferreira Serrano e Maria de Nazaré Rala Esparteiro Barroso, respetivamente, para os cargos de presidente, vice-presidente e vogal, cujas idoneidade, experiência e competência profissionais são patentes nas sinopses curriculares que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Estabelecer que a presente resolução produz efeitos a partir do dia 1 de setembro de 2012.
+
+23 de agosto de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — Notas curriculares (síntese)
+
+Nota curricular de José António Figueiredo Almaça
+
+1 - Dados pessoais:
+
+Nome: José António Figueiredo Almaça;
+
+Data de nascimento: 22 de novembro de 1952.
+
+2 - Formação académica:
+
+1976 - bacharelato em Contabilidade e Administração - ISCAL;
+
+1984 - licenciatura em Gestão - UL;
+
+1997 - doutoramento em Ciências Económicas e Empresariais pela Universidade Autónoma de Madrid.
+
+3 - Atividade profissional atual:
+
+Desde 2009 - Provedor do Cliente da CA - Seguros, Companhia de Seguros de Ramos Reais, S. A., e vogal do Conselho Fiscal das companhias Victoria Internacional de Portugal, SGPS, S. A., Victoria - Seguros, S. A., e Victoria - Seguros de Vida, S. A.
+
+4 - Funções anteriores
+
+2005-2006 - Presidente do Comité de Investimentos da Finanser, S. A.;
+
+1994-2009 - Presidente do Conselho Fiscal da Companhia de Seguros Victoria, S. A.;
+
+1994-1996 - Administrador do World Trade Center - Lisboa;
+
+1983-1984 - Administrador-Delegado das minas de Jalles, S. A.
+
+5 - Outras atividades:
+
+Desde 2010 - Professor da EBS - Extremadura Business School;
+
+Desde 1998 - Professor Convidado da Universidade da Extremadura no Curso de Doutoramento em Economia Financeira e Contabilidade;
+
+1998-2008 - Professor Honorário da Universidade Autónoma de Madrid no curso de Doutoramento em Banca e Bolsa;
+
+Desde 1986 - Professor Catedrático da Universidade Autónoma de Lisboa na área de Gestão Estratégica e Estratégia Empresarial.
+
+Nota curricular de Filipe Alexandre Aleman Ferreira Serrano
+
+1 - Dados pessoais:
+
+Nome: Filipe Alexandre Aleman Ferreira Serrano;
+
+Data de nascimento: 27 de agosto de 1968.
+
+2 - Formação académica:
+
+1991 - licenciatura em Matemática Aplicada ao Ramo das Ciências Atuariais;
+
+1995 - mestrado em Gestão/MBA com especialização em Finanças pela Universidade Técnica de Lisboa.
+
+3 - Atividade profissional atual:
+
+Desde 2006 - Diretor do Departamento de Gestão de Riscos e Atuariado Vida na Direção de Gestão de Risco na Companhia de Seguros Fidelidade-Mundial e Império Bonança.
+
+4 - Funções anteriores
+
+1996-2006 - Diretor do Departamento de Desenvolvimento e Atuariado do Ramo Vida na Companhia de Seguros Fidelidade-Mundial e Império Bonança;
+
+Desde 1997 - Consultor/Atuário Responsável da Sociedade Gestora de Fundos de pensões da Caixa Geral de Depósitos;
+
+1994-1996 - Assessor do ramo Vida na Companhia de Seguros Fidelidade;
+
+1991-1993 - Atuário do Ramo Vida na Companhia de Seguros Fidelidade.
+
+5 - Outras atividades:
+
+Desde 2006 - Docente da Pós-Graduação em Gestão de Bancos e Seguros no Instituto de Estatística e Gestão de Informação/Universidade Nova de Lisboa;
+
+Desde 2003 - Docente da Pós-Graduação em Gestão Bancária e Seguradora no ISEG/IDEFE;
+
+Desde 1992 - Docente na Universidade Lusófona de Humanidades e Tecnologias.
+
+Nota curricular de Maria de Nazaré Rala Esparteiro
+
+1 - Dados pessoais:
+
+Nome: Maria de Nazaré Rala Esparteiro;
+
+Data de nascimento: 9 de abril de 1958.
+
+2 - Formação académica:
+
+1987 - licenciatura em Organização e Gestão de Empresas;
+
+2000 - doutoramento em Administração de Empresas e Contabilidade pela Universidade de Navarra - Pamplona (Espanha).
+
+3 - Atividade profissional atual:
+
+Desde 2002 - Professora Auxiliar no Instituto Superior de Economia e Gestão (ISEG)/Universidade Técnica de Lisboa.
+
+4 - Funções anteriores:
+
+2007-2009 - Vogal do Conselho Diretivo e do Conselho Administrativo do Instituto Superior de Economia e Gestão (ISEG)/Universidade Técnica de Lisboa;
+
+2000-2008 - Docente (cursos breves) no Instituto Superior de Gestão Bancária (ISGB);
+
+1994-1999 - Professora Associada na Universidade Autónoma de Lisboa;
+
+1994-1997 - Professora Auxiliar na Universidade Católica Portuguesa;
+
+1988-2007 - Inspetora/Técnica de Supervisão no Instituto de Seguros de Portugal.
+
+5 - Outras atividades:
+
+Desde 2007 - Presidente do Instituto dos Atuários Portugueses (IAA);
+
+Desde 2009 - Membro do Subcomité Executivo da International ActuarialAssociation;
+
+2008-2009 - Vice-Presidente do International Education Program Comittee da International Actuarial;
+
+Desde 2005 - Delegate do Instituto dos Atuários Portugueses nos Comités de Educação do Groupe Consultatif Actuarial Européen e na International Actuarial Association.
+
+15552012

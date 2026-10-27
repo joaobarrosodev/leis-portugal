@@ -1,0 +1,273 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:181532082:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-224163602",
+ "dre_path": "/dr/detalhe/portaria/135-2022-181532082",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-04-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "224118463",
+    "224118464",
+    "224118465",
+    "224118466",
+    "224118467",
+    "224118468",
+    "224118469"
+   ]
+  },
+  {
+   "date": "2023-11-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224139032:por",
+     "title": "Portaria n.º 346-B/2023",
+     "published": "2023-11-10",
+     "dre_path": "/dr/detalhe/portaria/346-b-2023-224139032"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "224118463",
+    "224201687",
+    "224201688",
+    "224201689",
+    "224201690",
+    "224201691",
+    "224201692",
+    "224201693",
+    "224201694"
+   ]
+  },
+  {
+   "date": "2024-06-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:869771074:por",
+     "title": "Portaria n.º 170-A/2024/1",
+     "published": "2024-06-21",
+     "dre_path": "/dr/detalhe/portaria/170-a-2024-869771074"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "224118463",
+    "224201687",
+    "869571748",
+    "869571749",
+    "224201690",
+    "224201691",
+    "224201692",
+    "224201693",
+    "224201694"
+   ]
+  },
+  {
+   "date": "2025-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:907471180:por",
+     "title": "Portaria n.º 37/2025/1",
+     "published": "2025-02-14",
+     "dre_path": "/dr/detalhe/portaria/37-2025-907471180"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "224118463",
+    "224201687",
+    "907522723",
+    "869571749",
+    "224201690",
+    "224201691",
+    "224201692",
+    "224201693",
+    "224201694"
+   ]
+  }
+ ],
+ "fragments": {
+  "224118463": {
+   "fragment_id": "224163603",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 135/2022\n\nde 1 de abril\n\nSumário: Procede à regulamentação dos deveres de recolha e comunicação de informação entre a Estrutura de Missão «Recuperar Portugal» e a Autoridade Tributária e Aduaneira (AT), bem como das condições específicas do mecanismo de transferência do montante equivalente ao imposto sobre o valor acrescentado (IVA).\n\nO Decreto-Lei n.º 53-B/2021, de 23 de junho, aprovou, no seu artigo 16.º, um mecanismo excecional de transferência do montante equivalente ao imposto sobre o valor acrescentado (IVA) incorrido ou a incorrer por parte dos beneficiários diretos, intermediários ou finais, que assumam a natureza de entidades previstas no artigo 2.º da Lei de Enquadramento Orçamental (LEO), aprovada pela Lei n.º 151/2015, de 11 de setembro, na sua redação atual, a favor destes e que por si tenha que ser diretamente suportado em despesas de execução de projetos exclusivamente financiados pelo PRR devidamente contratualizados entre a «Recuperar Portugal» e os beneficiários diretos e intermediários, e entre estes últimos e os respetivos beneficiários finais.\n\nSem prejuízo do mecanismo supracitado aplicável aos beneficiários diretos, intermediários ou finais, que assumam a natureza de entidades previstas no artigo 2.º da Lei de Enquadramento Orçamental (LEO), aprovada pela Lei n.º 151/2015, de 11 de setembro, na sua redação atual, entende-se ser possível considerar também aplicável idêntico mecanismo de financiamento para o IVA suportado nos projetos financiados pelo PRR, desenvolvidos pelas autarquias ou entidades intermunicipais que colaborem com a administração central na prossecução de objetivos, e os quais sejam da competência desta, a possibilidade de ser financiado o montante equivalente ao IVA que suportem, considerando-se para tal adequado o quadro legal a que se referem os artigos 22.º-A e 71.º da Lei n.º 73/2013, de 3 de setembro, na sua redação em vigor.\n\nNo que se concerne ao mecanismo extraordinário a que se refere o artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, cabe aos beneficiários que tenham recebido o montante equivalente ao IVA comunicar à «Recuperar Portugal» as despesas de execução dos projetos exclusivamente financiados pelo PRR, e esta à Autoridade Tributária e Aduaneira (AT), nos termos definidos na presente portaria.\n\nAssim, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro do Planeamento, ao abrigo do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, o seguinte:"
+  },
+  "224118464": {
+   "fragment_id": "224163604",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria procede à regulamentação dos deveres de recolha e comunicação de informação que incumbem aos beneficiários diretos, intermediários e finais que beneficiem do mecanismo de transferência do montante equivalente ao imposto sobre o valor acrescentado (IVA) previsto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho.\n\n2 - A presente portaria procede ainda à regulamentação dos deveres de recolha e comunicação entre a Estrutura de Missão «Recuperar Portugal» («Recuperar Portugal») e por parte desta a Autoridade Tributária e Aduaneira (AT), bem como das condições específicas de funcionamento e operacionalização do mecanismo de transferência do montante equivalente ao imposto sobre o valor acrescentado (IVA) previsto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho."
+  },
+  "224118465": {
+   "fragment_id": "224163605",
+   "type": 11,
+   "heading": "Artigo 2.º — Comunicação do montante equivalente ao IVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comunicação do montante equivalente ao IVA\n\n1 - A comunicação dos beneficiários à «Recuperar Portugal» para efeitos do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, é efetuada em simultâneo com o pedido de pagamento através do preenchimento do formulário eletrónico fornecido pela «Recuperar Portugal», o qual deve identificar, face aos dados das faturas comunicadas nos termos do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, bem como dos fornecedores estrangeiros, os seguintes dados:\n\na) O número de identificação fiscal do beneficiário direto, intermediário ou final, consoante os casos;\n\nb) O número de identificação fiscal do fornecedor;\n\nc) O número da fatura e a data da sua emissão; e\n\nd) O valor total e o valor do IVA liquidado.\n\n2 - Para efeitos de preenchimento do formulário previsto no número anterior, os beneficiários devem recolher e remeter os seguintes documentos de suporte:\n\na) Faturas;\n\nb) Declarações aduaneiras de importação;\n\nc) Documentos que titulem a liquidação do IVA quando esta compete ao adquirente dos bens ou serviços;\n\nd) Documentos comprovativos de restituições ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, e do Decreto-Lei n.º 54/2020, de 11 de agosto.\n\n3 - Até ao termo do mês de fevereiro do ano seguinte os beneficiários devem ainda comunicar à «Recuperar Portugal», para os efeitos previstos no n.º 2 do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, os dados referidos nos números anteriores com referência ao ano anterior.\n\n4 - As comunicações referidas no número anterior efetuadas por beneficiários que sejam sujeitos passivos de IVA, nos termos do artigo 2.º do Código do IVA, são certificadas por contabilista certificado independente, nos termos definidos no artigo 3.º da Portaria n.º 303/2020, de 28 de dezembro, quer quanto ao montante equivalente ao IVA restituído ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, e do Decreto-Lei n.º 54/2020, de 11 de agosto, como ainda ao imposto deduzido por documento de suporte e à conformidade legal dos respetivos documentos."
+  },
+  "224118466": {
+   "fragment_id": "224163606",
+   "type": 11,
+   "heading": "Artigo 3.º — Comunicação entre a «Recuperar Portugal» e a AT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comunicação entre a «Recuperar Portugal» e a AT\n\n1 - Após a comunicação prevista no n.º 2 do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, a «Recuperar Portugal» disponibiliza à AT para confirmação, face aos dados das faturas comunicadas nos termos do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, os dados referidos no n.º 3 do artigo anterior, com exceção do previsto no número seguinte.\n\n2 - A AT pode ainda observar e controlar, em cumprimento das suas atribuições legalmente estabelecidas, as seguintes realidades tributárias:\n\na) O valor do imposto deduzido por documento de suporte certificado, nos termos do n.º 4 do artigo anterior; e\n\nb) A conformidade legal dos documentos de suporte.\n\n3 - As trocas de informação previstas no n.º 1 devem ser efetuadas por transmissão eletrónica de dados, no âmbito de um protocolo a celebrar entre a «Recuperar Portugal», a Agência para a Modernização Administrativa, I. P. (AMA, I. P.), e a AT."
+  },
+  "224118467": {
+   "fragment_id": "224163607",
+   "type": 11,
+   "heading": "Artigo 4.º — Conta-corrente de IVA e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conta-corrente de IVA e financiamento\n\n1 - É constituída uma conta-corrente entre a AT, a Agência, I. P., a DGO e a ERPM e gerida por esta, que regista todos os pagamentos efetuados aos beneficiários, as transferências do Orçamento do Estado a favor da Agência, I. P., e de todos os restantes movimentos a crédito ou a débito, sendo neste último caso da responsabilidade da DGO.\n\n2 - Os montantes equivalentes ao IVA abrangidos pelo mecanismo previsto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, apurados no âmbito da conta-corrente a que se refere o número anterior, são financiados através de verbas do Orçamento do Estado e transferidos a favor da Agência de Desenvolvimento e Coesão, I. P. (Agência, I. P.), e por esta aos respetivos beneficiários.\n\n3 - Sem prejuízo do disposto no número anterior, podem ainda ser assegurados os montantes equivalentes ao IVA abrangidos pelo mecanismo previsto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, mediante a inscrição do respetivo montante, apurado no âmbito da conta-corrente, no orçamento anual de cada beneficiário, em sede da respetiva Lei do Orçamento do Estado, mediante verificação da DGO."
+  },
+  "224118468": {
+   "fragment_id": "224163608",
+   "type": 11,
+   "heading": "Artigo 5.º — Transmissão eletrónica de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transmissão eletrónica de dados\n\nTodas as comunicações entre a AT, a «Recuperar Portugal» e a Agência, I. P., são efetuadas por transmissão eletrónica de dados."
+  },
+  "224118469": {
+   "fragment_id": "224163609",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n2 - A comunicação prevista no artigo 2.º, n.º 3, dos documentos de suporte relativos ao período de 2021 é efetuada até ao termo do mês de junho de 2022."
+  },
+  "224201687": {
+   "fragment_id": "224163604",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria procede à regulamentação dos deveres de recolha e comunicação de informação que incumbem aos beneficiários diretos, intermediários e finais que, nos termos do Decreto-Lei n.º 53-B/2021, de 23 de junho, e da lei do Orçamento do Estado, beneficiem do mecanismo da transferência do montante equivalente ao imposto sobre o valor acrescentado (IVA) efetivamente suportado no âmbito de projetos financiados, a título de subvenções ou empréstimos, exclusivamente pelo Plano de Recuperação e Resiliência (PRR), ao abrigo, quando aplicável com as necessárias adaptações, do disposto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho.\n\n2 - A presente portaria procede ainda à regulamentação dos deveres de recolha e comunicação entre a Estrutura de Missão «Recuperar Portugal» («Recuperar Portugal») e por parte desta a Autoridade Tributária e Aduaneira (AT), bem como das condições específicas de funcionamento e operacionalização do mecanismo de transferência do montante equivalente ao imposto sobre o valor acrescentado (IVA) previsto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+  },
+  "224201688": {
+   "fragment_id": "224163605",
+   "type": 11,
+   "heading": "Artigo 2.º — Comunicação do montante equivalente ao IVA",
+   "in_force_from": "2023-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+   ],
+   "markdown": "###### Artigo 2.º — Comunicação do montante equivalente ao IVA\n\n1 - A comunicação dos beneficiários à «Recuperar Portugal» para efeitos do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, é efetuada em simultâneo com o pedido de pagamento através do preenchimento do formulário eletrónico fornecido pela «Recuperar Portugal», o qual deve identificar, face aos dados das faturas comunicadas nos termos do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, bem como dos fornecedores estrangeiros, os seguintes dados:\n\na) O número de identificação fiscal do beneficiário direto, intermediário ou final, consoante os casos;\n\nb) O número de identificação fiscal do fornecedor;\n\nc) O número da fatura e a data da sua emissão; e\n\nd) O valor total e o valor do IVA liquidado.\n\ne) O montante do IVA restituído, designadamente ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, ou do Decreto-Lei n.º 54/2020, de 11 de agosto, bem como o montante do IVA restituível que não tenha ainda sido restituído; e\n\nf) O montante do IVA deduzido pelo adquirente, bem como o montante do IVA dedutível ao abrigo da legislação fiscal ainda que não deduzido.\n\n2 - Para efeitos de preenchimento do formulário previsto no número anterior, os beneficiários devem recolher e remeter à «Recuperar Portugal» os seguintes elementos de suporte:\n\na) Dados das faturas, nos termos definido no número anterior;\n\nb) Declarações aduaneiras de importação, quando aplicável;\n\nc) Documentos que titulem a liquidação do IVA quando esta compete ao adquirente dos bens ou serviços, quando aplicável;\n\nd) Documentos comprovativos de restituições ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, e do Decreto-Lei n.º 54/2020, de 11 de agosto, quando aplicável;\n\ne) Declaração de compromisso do beneficiário, subscrito pelo respetivo dirigente máximo, pelo órgão de administração, pela gerência ou equiparável, de que o montante solicitado, correspondente ao valor do IVA a transferir, não foi nem será deduzido ou restituído;\n\nf) Declaração de compromisso do beneficiário, subscrito pelo respetivo dirigente máximo, de que, em caso de emissão de nota de crédito, de anulação da fatura ou de devolução ou compensação do valor do IVA à entidade beneficiária a qualquer outro título, o correspondente montante será devolvido no prazo máximo de 10 dias úteis, à entidade que procedeu à transferência prevista no n.º 6 do artigo 4.º-A.\n\n3 - Até ao termo do mês de fevereiro do ano seguinte os beneficiários devem ainda comunicar à «Recuperar Portugal», para os efeitos previstos no n.º 2 do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, os dados referidos nos números anteriores com referência ao ano anterior e que não tenham sido comunicados anteriormente.\n\n4 - As comunicações referidas nos números anteriores, efetuadas por beneficiários que sejam sujeitos passivos de IVA, nos termos do artigo 2.º do Código do IVA, são acompanhadas de certificação por contabilista certificado independente, nos termos definidos no artigo 3.º da Portaria n.º 303/2020, de 28 de dezembro, quer quanto ao montante equivalente ao IVA restituído ou restituível ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, e do Decreto-Lei n.º 54/2020, de 11 de agosto, como ainda ao imposto deduzido e ao imposto dedutível por documento de suporte e à conformidade legal dos respetivos documentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+  },
+  "224201689": {
+   "fragment_id": "224163606",
+   "type": 11,
+   "heading": "Artigo 3.º — Comunicação entre a «Recuperar Portugal» e a AT",
+   "in_force_from": "2023-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+   ],
+   "markdown": "###### Artigo 3.º — Comunicação entre a «Recuperar Portugal» e a AT\n\n1 - Após a comunicação prevista no n.º 2 do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, a «Recuperar Portugal» disponibiliza à AT para confirmação, face aos dados das faturas comunicadas nos termos do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, os dados referidos no n.º 1 do artigo anterior, sem prejuízo do previsto no número seguinte.\n\n2 - A AT pode ainda observar e controlar, em cumprimento das suas atribuições legalmente estabelecidas, as seguintes realidades tributárias:\n\na) O valor do imposto deduzido por documento de suporte certificado, nos termos do n.º 4 do artigo anterior; e\n\nb) A conformidade legal dos documentos de suporte.\n\n3 - As trocas de informação previstas no n.º 1 devem ser efetuadas por transmissão eletrónica de dados, no âmbito de um protocolo a celebrar entre a «Recuperar Portugal», a Agência para a Modernização Administrativa, I. P. (AMA, I. P.), e a AT.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+  },
+  "224201690": {
+   "fragment_id": "224163607",
+   "type": 11,
+   "heading": "Artigo 4.º — Conta-corrente de IVA e financiamento",
+   "in_force_from": "2023-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+   ],
+   "markdown": "###### Artigo 4.º — Conta-corrente de IVA e financiamento\n\n1 - É constituída uma conta-corrente entre a AT, a Agência, I. P., a DGO e a «Recuperar Portugal» e gerida por esta, que regista todos os pagamentos efetuados aos beneficiários, as transferências do Orçamento do Estado a favor da Agência, I. P., e de todos os restantes movimentos a crédito ou a débito, sendo neste último caso da responsabilidade da DGO.\n\n2 - Os montantes equivalentes ao IVA abrangidos pelo mecanismo previsto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, apurados no âmbito da conta-corrente a que se refere o número anterior, são financiados através de verbas do Orçamento do Estado e transferidos a favor da Agência, I. P., e por esta aos respetivos beneficiários, sem prejuízo do regime aplicável às transferências dos montantes equivalentes ao IVA efetivamente suportado no âmbito de projetos financiados a título de empréstimos, que são operacionalizadas diretamente através da Direção-Geral do Tesouro e Finanças (DGTF).\n\n3 - Sem prejuízo do disposto no número anterior, podem ainda ser assegurados os montantes equivalentes ao IVA abrangidos pelo mecanismo previsto no artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, mediante a inscrição do respetivo montante, apurado no âmbito da conta-corrente, no orçamento anual de cada beneficiário, em sede da respetiva Lei do Orçamento do Estado, mediante verificação da DGO.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+  },
+  "224201691": {
+   "fragment_id": "224163628",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Operacionalização",
+   "in_force_from": "2023-11-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+   ],
+   "markdown": "###### Artigo 4.º-A — Operacionalização\n\n1 - A operacionalização das transferências a efetuar pelo Orçamento do Estado nos termos do disposto no n.º 5 do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, é precedida de um pedido de alteração orçamental de reforço submetido pela Agência, I. P.\n\n2 - O pedido de alteração orçamental referido no número anterior é submetido com uma periodicidade mínima trimestral, de acordo com ordem de pagamento emitida pela «Recuperar Portugal» para um conjunto de beneficiários.\n\n3 - O reforço orçamental referido nos números anteriores é efetuado nos termos das instruções da DGO em matéria de alterações orçamentais, devendo ser instruído com os seguintes elementos:\n\na) Ordem de pagamento com o apuramento do montante equivalente ao IVA, efetuado nos termos previstos no artigo 2.º, com indicação dos respetivos beneficiários;\n\nb) Confirmação, pela «Recuperar Portugal», com base nos dados fornecidos pelos beneficiários e confirmados pela AT, do montante equivalente ao IVA a transferir correspondente às quantias de imposto não elegíveis em sede de PRR e que não foi deduzido em sede de IVA.\n\n4 - Após decisão favorável do membro do Governo responsável pela área das finanças, proferida no prazo de 20 dias úteis após a data da submissão do pedido de alteração orçamental, os montantes equivalentes ao IVA são transferidos para a Agência, I. P., no prazo máximo de 10 dias úteis após a solicitação de transferência de fundos.\n\n5 - Os montantes equivalentes ao IVA efetivamente suportados no âmbito de projetos financiados a título de empréstimos são transferidos diretamente pela DGTF, após recebidas as instruções de pagamento da «Recuperar Portugal», relativamente aos montantes apurados nos termos dos números anteriores, com recurso a verbas inscritas ou a inscrever no capítulo 60 do Ministério das Finanças.\n\n6 - A Agência, I. P., no que respeita a subvenções a fundo perdido, ou a DGTF, no que respeita a empréstimos, procedem à transferência dos valores para os beneficiários, no prazo de dois dias úteis após o recebimento dos fundos, e registam nos sistemas contabilísticos respetivos as alterações orçamentais, as solicitações de transferências de fundos e os pagamentos a favor dos beneficiários, dando conhecimento desses registos à «Recuperar Portugal».\n\n7 - A informação aos beneficiários intermediários do montante dos pagamentos aos beneficiários finais é assegurada pela «Recuperar Portugal».\n\n8 - A transferência para os beneficiários do montante equivalente ao IVA está sujeita às regras gerais de movimentação da tesouraria do Estado, sem prejuízo do disposto no Decreto-Lei n.º 53-B/2021, de 23 de junho.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+  },
+  "224201692": {
+   "fragment_id": "224163608",
+   "type": 11,
+   "heading": "Artigo 5.º — Transmissão eletrónica de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transmissão eletrónica de dados\n\nTodas as comunicações entre a AT, a «Recuperar Portugal» e a Agência, I. P., são efetuadas por transmissão eletrónica de dados."
+  },
+  "224201693": {
+   "fragment_id": "224163609",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n2 - A comunicação prevista no artigo 2.º, n.º 3, dos documentos de suporte relativos ao período de 2021 é efetuada até ao termo do mês de junho de 2022."
+  },
+  "224201694": {
+   "fragment_id": "224163610",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 24 de março de 2022.\n\nO Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão. - O Ministro do Planeamento, Ângelo Nelson Rosário de Souza.\n\n115160335"
+  },
+  "869571748": {
+   "fragment_id": "224163605",
+   "type": 11,
+   "heading": "Artigo 2.º — Comunicação do montante equivalente ao IVA",
+   "in_force_from": "2024-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2024/1 - Diário da República n.º 119/2024, Suplemento, Série I de 2024-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2024-869771074), em vigor a partir de 2024-06-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+   ],
+   "markdown": "###### Artigo 2.º — Comunicação do montante equivalente ao IVA\n\n1 - A comunicação dos beneficiários à «Recuperar Portugal» para efeitos do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, é efetuada em simultâneo com o pedido de pagamento através do preenchimento do formulário eletrónico fornecido pela «Recuperar Portugal», o qual deve identificar, face aos dados das faturas comunicadas nos termos do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, bem como dos fornecedores estrangeiros, os seguintes dados:\n\na) O número de identificação fiscal do beneficiário direto, intermediário ou final, consoante os casos;\n\nb) O número de identificação fiscal do fornecedor;\n\nc) O número da fatura e a data da sua emissão; e\n\nd) O valor total e o valor do IVA liquidado.\n\ne) O montante do IVA restituído, designadamente ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, ou do Decreto-Lei n.º 54/2020, de 11 de agosto, bem como o montante do IVA restituível que não tenha ainda sido restituído; e\n\nf) O montante do IVA deduzido pelo adquirente, bem como o montante do IVA dedutível ao abrigo da legislação fiscal ainda que não deduzido.\n\n2 - Para efeitos de preenchimento do formulário previsto no número anterior, os beneficiários devem recolher e remeter à «Recuperar Portugal» os seguintes elementos de suporte:\n\na) Dados das faturas, nos termos definido no número anterior;\n\nb) Declarações aduaneiras de importação, quando aplicável;\n\nc) Documentos que titulem a liquidação do IVA quando esta compete ao adquirente dos bens ou serviços, quando aplicável;\n\nd) Documentos comprovativos de restituições ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, e do Decreto-Lei n.º 54/2020, de 11 de agosto, quando aplicável;\n\ne) Declaração de compromisso do beneficiário, subscrito pelo respetivo dirigente máximo, pelo órgão de administração, pela gerência ou equiparável, de que o montante solicitado, correspondente ao valor do IVA a transferir, não foi nem será deduzido ou restituído;\n\nf) Declaração de compromisso do beneficiário, subscrito pelo respetivo dirigente máximo, de que, em caso de emissão de nota de crédito, de anulação da fatura ou de devolução ou compensação do valor do IVA à entidade beneficiária a qualquer outro título, o correspondente montante será devolvido no prazo máximo de 10 dias úteis, à entidade que procedeu à transferência prevista no n.º 6 do artigo 4.º-A.\n\n3 - Até ao termo do mês de fevereiro do ano seguinte os beneficiários devem ainda comunicar à «Recuperar Portugal», para os efeitos previstos no n.º 2 do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, os dados referidos nos números anteriores com referência ao ano anterior e que não tenham sido comunicados anteriormente.\n\n4 - As comunicações referidas nos números anteriores, efetuadas por beneficiários que sejam sujeitos passivos de IVA, nos termos do artigo 2.º do Código do IVA, são acompanhadas de certificação por contabilista certificado, quer quanto ao montante equivalente ao IVA restituído ou restituível ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, e do Decreto-Lei n.º 54/2020, de 11 de agosto, como ainda ao imposto deduzido e ao imposto dedutível por documento de suporte e à conformidade legal dos respetivos documentos.\n\n5 - Os beneficiários integrados na administração central, regional e local que não tenham natureza, forma e designação de empresa, no subsetor da segurança social, e as entidades públicas reclassificadas, ficam dispensados de apresentação da certificação por contabilista certificado, prevista no número anterior, sendo a mesma substituída por certificação pelo respetivo contabilista público previsto no artigo 8.º do Decreto-Lei n.º 192/2015, de 11 de setembro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2024/1 - Diário da República n.º 119/2024, Suplemento, Série I de 2024-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2024-869771074), em vigor a partir de 2024-06-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+  },
+  "869571749": {
+   "fragment_id": "224163606",
+   "type": 11,
+   "heading": "Artigo 3.º — Comunicação entre a «Recuperar Portugal» e a AT",
+   "in_force_from": "2024-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2024/1 - Diário da República n.º 119/2024, Suplemento, Série I de 2024-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2024-869771074), em vigor a partir de 2024-06-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+   ],
+   "markdown": "###### Artigo 3.º — Comunicação entre a «Recuperar Portugal» e a AT\n\n1 - Após a comunicação prevista no n.º 2 do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, a \"Recuperar Portugal\" disponibiliza à AT para confirmação, face aos dados das faturas comunicadas nos termos do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, os dados referidos no n.º 1 do artigo anterior, sem prejuízo do previsto no número seguinte.\n\n2 - A AT pode ainda observar e controlar, em cumprimento das suas atribuições legalmente estabelecidas, as seguintes realidades tributárias:\n\na) O valor do imposto deduzido por documento de suporte certificado, nos termos do n.º 4 do artigo anterior; e\n\nb) A conformidade legal dos documentos de suporte.\n\n3 - A pedido da \"Recuperar Portugal\" a AT disponibiliza informação sobre o enquadramento fiscal dos beneficiários relativamente ao IVA, para verificação das condições de acesso ao mecanismo.\n\n4 - As trocas de informação previstas no n.º 1 e no n.º 3 devem ser efetuadas por transmissão eletrónica de dados, no âmbito de um protocolo a celebrar entre a \"Recuperar Portugal\", a Agência para a Modernização Administrativa, I. P. (AMA, I. P.), e a AT.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2024/1 - Diário da República n.º 119/2024, Suplemento, Série I de 2024-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2024-869771074), em vigor a partir de 2024-06-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+  },
+  "907522723": {
+   "fragment_id": "224163605",
+   "type": 11,
+   "heading": "Artigo 2.º — Comunicação do montante equivalente ao IVA",
+   "in_force_from": "2025-02-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 37/2025/1 - Diário da República n.º 32/2025, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/37-2025-907471180), em vigor a partir de 2025-02-15",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2024/1 - Diário da República n.º 119/2024, Suplemento, Série I de 2024-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2024-869771074), em vigor a partir de 2024-06-22",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+   ],
+   "markdown": "###### Artigo 2.º — Comunicação do montante equivalente ao IVA\n\n1 - A comunicação dos beneficiários à «Recuperar Portugal» para efeitos do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, é efetuada em simultâneo com o pedido de pagamento através do preenchimento do formulário eletrónico fornecido pela «Recuperar Portugal», o qual deve identificar, face aos dados das faturas comunicadas nos termos do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, bem como dos fornecedores estrangeiros, os seguintes dados:\n\na) O número de identificação fiscal do beneficiário direto, intermediário ou final, consoante os casos;\n\nb) O número de identificação fiscal do fornecedor;\n\nc) O número da fatura e a data da sua emissão; e\n\nd) O valor total e o valor do IVA liquidado.\n\ne) O montante do IVA restituído, designadamente ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, ou do Decreto-Lei n.º 54/2020, de 11 de agosto, bem como o montante do IVA restituível que não tenha ainda sido restituído; e\n\nf) O montante do IVA deduzido pelo adquirente, bem como o montante do IVA dedutível ao abrigo da legislação fiscal ainda que não deduzido.\n\n2 - Para efeitos de preenchimento do formulário previsto no número anterior, os beneficiários devem recolher e remeter à «Recuperar Portugal» os seguintes elementos de suporte:\n\na) Dados das faturas, nos termos definido no número anterior;\n\nb) Declarações aduaneiras de importação, quando aplicável;\n\nc) Documentos que titulem a liquidação do IVA quando esta compete ao adquirente dos bens ou serviços, quando aplicável;\n\nd) Documentos comprovativos de restituições ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, e do Decreto-Lei n.º 54/2020, de 11 de agosto, quando aplicável;\n\ne) Declaração de compromisso do beneficiário, subscrito pelo respetivo dirigente máximo, pelo órgão de administração, pela gerência ou equiparável, de que o montante solicitado, correspondente ao valor do IVA a transferir, não foi nem será deduzido ou restituído;\n\nf) Declaração de compromisso do beneficiário, subscrito pelo respetivo dirigente máximo, de que, em caso de emissão de nota de crédito, de anulação da fatura ou de devolução ou compensação do valor do IVA à entidade beneficiária a qualquer outro título, o correspondente montante será devolvido no prazo máximo de 10 dias úteis, à entidade que procedeu à transferência prevista no n.º 6 do artigo 4.º-A.\n\n3 - Até ao termo do mês de fevereiro do ano seguinte os beneficiários devem ainda comunicar à «Recuperar Portugal», para os efeitos previstos no n.º 2 do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, os dados referidos nos números anteriores com referência ao ano anterior e que não tenham sido comunicados anteriormente.\n\n4 - As comunicações referidas nos números anteriores, efetuadas por beneficiários que sejam sujeitos passivos de IVA, nos termos do artigo 2.º do Código do IVA, são acompanhadas de certificação por contabilista certificado, quer quanto ao montante equivalente ao IVA restituído ou restituível ao abrigo do Decreto-Lei n.º 84/2017, de 21 de julho, e do Decreto-Lei n.º 54/2020, de 11 de agosto, como ainda ao imposto deduzido e ao imposto dedutível por documento de suporte e à conformidade legal dos respetivos documentos.\n\n5 - Os beneficiários integrados na administração central, regional e local que não tenham natureza, forma e designação de empresa, no subsetor da segurança social, e as entidades públicas reclassificadas, ficam dispensados de apresentação da certificação por contabilista certificado, prevista no número anterior, sendo a mesma substituída por certificação pelo respetivo contabilista público previsto no artigo 8.º do Decreto-Lei n.º 192/2015, de 11 de setembro, na sua redação atual, ou, quando não possuam contabilista público, pela entidade responsável pela regularidade técnica na prestação nas contas e na execução da contabilidade pública.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 37/2025/1 - Diário da República n.º 32/2025, Série I de 2025-02-14](https://diariodarepublica.pt/dr/detalhe/portaria/37-2025-907471180), em vigor a partir de 2025-02-15\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170-A/2024/1 - Diário da República n.º 119/2024, Suplemento, Série I de 2024-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/170-a-2024-869771074), em vigor a partir de 2024-06-22\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 346-B/2023 - Diário da República n.º 218/2023, 2º Suplemento, Série I de 2023-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/346-b-2023-224139032), em vigor a partir de 2023-11-11"
+  }
+ }
+}

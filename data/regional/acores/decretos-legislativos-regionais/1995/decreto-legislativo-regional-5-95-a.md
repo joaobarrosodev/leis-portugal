@@ -1,0 +1,145 @@
+---
+schema_version: '1.0'
+id: pt:dre:223810:por
+title: Decreto Legislativo Regional n.º 5/95/A
+short_title: null
+summary: Altera o artigo 6.º do Decreto Legislativo Regional n.º 5/91/A, de 8 de Março (estabelece adaptações necessárias
+  na aplicação à Região Autónoma dos Açores do Decreto-Lei n.º 69/90, de 2 de Março, que disciplina o regime jurídico dos
+  planos municipais de ordenamento do território). Revoga o Decreto Legislativo Regional n.º 14/93/A, de 10 de Agosto
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 5/95/A
+official_date: null
+publication_date: '1995-04-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 93/1995, Série I-A de 1995-04-20
+  number: '93'
+  series: I
+  supplement: null
+  pages: 2255 - 2256
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/04/093a00/22552256.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/5/1995/04/20/a/dre/pt/html
+  oj: null
+  dre: '223810'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/5-1995-223810
+  internal: pt:dre:223810:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1995-223810
+  metadata_url: https://data.dre.pt/eli/declegreg/5/1995/04/20/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1995-223810
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:18:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f468a014a15bc661f0b3334f7af2d60617f94362788211ff9bc8464d26f9775b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:18:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Administração Local
+- Ordenamento do Território
+- Plano de Urbanização
+- Plano Director Municipal
+- Política de Solos
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:435050:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358130:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/14/1993/08/10/a/dre
+- type: cites
+  target: pt:dre:459431:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/5/1991/03/08/a/dre
+- type: repealed_by
+  target: pt:numero:decreto-legislativo-regional:9/96/A
+  label: REVOGADO PELO DLR 9/96/A DE 14-MAI DR.IS-A [136] DE 14/JUN/1996 /1996
+  source: null
+  date: '1996-06-14'
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:18:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 5/95/A
+
+Alteração ao [Decreto Legislativo Regional n.º 5/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1991-459431), de 8 de Março
+
+Considerando que todos os municípios da Região adjudicaram já a elaboração dos respectivos planos municipais de ordenamento do território (PDM), os quais se encontram em fase adiantada;
+
+Considerando que a insularidade é o principal factor que tem obstado a que os trabalhos técnicos não tenham decorrido com a celeridade esperada, defraudando assim as expectivas dos municípios que apontavam para a sua conclusão até ao fim do último ano;
+
+Considerando que, dado o exposto, não tem cabimento nesta fase terminal a imposição de datas aos municípios, o que só teria justificação em fase anterior à adjudicação da elaboração dos PDM;
+
+Considerando a alteração às datas fixadas no artigo 32.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, através do [Decreto Legislativo Regional n.º 5/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1991-459431), de 8 de Março, alterado pelo [Decreto Legislativo Regional n.º 14/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1993-358130), de 10 de Agosto;
+
+Considerando ainda que essa alteração deixou de produzir efeitos em 31 de Dezembro último, pelo que se torna necessário voltar a ampliar aquele prazo:
+
+A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
+
+Artigo 1.º O artigo 6.º do [Decreto Legislativo Regional n.º 5/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1991-459431), de 8 de Março, passa a ter a seguinte redacção:
+
+###### Artigo 6.º — Prazos
+
+Na Região Autónoma dos Açores as datas previstas no artigo 32.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, entendem-se reportadas a 31 de Dezembro de 1995 e a 1 de Janeiro de 1996.
+
+Art. 2.º É revogado o [Decreto Legislativo Regional n.º 14/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-1993-358130), de 10 de Agosto.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Janeiro de 1995.
+
+O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.
+
+Assinado em Angra do Heroísmo em 3 de Março de 1995.
+
+Publique-se.
+
+O Ministro da República para Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

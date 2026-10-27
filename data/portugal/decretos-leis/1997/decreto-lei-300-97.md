@@ -1,0 +1,301 @@
+---
+schema_version: '1.0'
+id: pt:dre:674472:por
+title: Decreto-Lei n.º 300/97
+short_title: null
+summary: Cria a carreira de psicólogo dos serviços de psicologia e orientação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 300/97
+official_date: null
+publication_date: '1997-10-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 253/1997, Série I-A de 1997-10-31
+  number: '253'
+  series: I
+  supplement: null
+  pages: 5986 - 5990
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/10/253a00/59865990.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/300/1997/10/31/p/dre/pt/html
+  oj: null
+  dre: '674472'
+  dre_path: /dr/detalhe/decreto-lei/300-1997-674472
+  internal: pt:dre:674472:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1997-674472
+  metadata_url: https://data.dre.pt/eli/dec-lei/300/1997/10/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1997-674472
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:53:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a57c8accaeb9a26240951e38a28f069dcf5755afbdc19694e6dacce582f8b9f2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:53:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio Pedagógico
+- Apoio Psicológico
+- Carreira Profissional
+- Direcção Regional de Educação
+- Ensino Básico
+- Estabelecimento de Ensino
+- Ministério da Educação
+- Orientação Escolar
+- Quadro de Pessoal
+- Serviço de Psicologia e Orientação
+relationships:
+- type: amended_by
+  target: pt:dre:453254:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:2723694:por
+  label: "Alterado o quadro de pessoal da DRE do Centro por PORT.266/2003(2ªSÉRIE).2003.02.03.MF e ME, DR.IIS [45] de 22/Fev/2003.\
+    \ \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/266-2003-2723694
+  date: '2003-02-22'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: "Determinada a transição para a carreira Geral de Técnico Superior, nos termos do art. 2º, dos trabalhadores integrados\
+    \ nas carreiras ou titulares das categorias previstas no presente diploma, extintas a partir da entrada em vigor do Regime\
+    \ de Contrato de Trabalho em Funções Públicas (RCTFP) e revogado a partir da mesma data, pelo DEC LEI.121/2008.11.07.2008.MFAP,\
+    \ DR.IS [133] de 11.07.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639489:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/190/1991/05/17/p/dre
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:53:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 300/97
+
+de 31 de Outubro
+
+A criação da carreira de psicólogo no âmbito do Ministério da Educação constitui uma antiga aspiração por parte dos profissionais que há longos anos exercem funções no sistema educativo. As expectativas abertas com a constituição dos serviços de psicologia e orientação foram sendo sucessivamente adiadas, muito embora o [Decreto-Lei n.º 190/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1991-639489), de 17 de Maio, estabelecesse que os psicólogos colocados naqueles serviços deveriam estar providos em lugares de carreira a criar no prazo de 90 dias após a publicação do diploma.
+
+Perante a inexistência da carreira de psicólogo recorreu-se, anualmente, ao recrutamento de profissionais através de contratação como docentes de técnicas especiais, situação que urge resolver à luz do Programa do Governo neste domínio.
+
+De facto, a qualidade da educação está intimamente dependente dos recursos pedagógicos de que a escola dispõe para acompanhamento do percurso escolar dos seus alunos. Este acompanhamento pressupõe uma intervenção pedagógica individualizada sempre que sejam detectadas situações de dificuldade, mas igualmente implica apoiar os alunos nas escolhas que terão de fazer ao longo da sua escolaridade, facilitando o desenvolvimento da sua identidade e a construção do seu próprio projecto de vida. A escola não pode ser alheia a estas questões e o papel dos serviços de psicologia e orientação é o de possibilitar a adequação das respostas educativas às necessidade dos alunos.
+
+A natureza, atribuições e competências dos serviços de psicologia e orientação requerem, do ponto de vista da gestão dos recursos humanos, uma racionalização que flexibilize o desempenho dos respectivos profissionais, de acordo com a dinâmica da rede escolar. Neste contexto, torna-se evidente que a gestão optimizada da carreira dos psicólogos será alcançada através de uma efectiva descentralização dos mecanismos jurídicos que a consubstanciem. É nesse sentido que se opta pela criação de quadros de vinculação no âmbito das direcções regionais de educação, possibilitando que, periodicamente, se proceda à afectação de psicólogos às escolas sede dos serviços de psicologia e orientação de acordo com as necessidades próprias da comunidade educativa em que se inserem.
+
+Consagra-se ainda que as condições de trabalho do psicólogo não podem, em caso algum, colidir com o código deontológico da sua prática profissional.
+
+Ouvidas as associações representativas;
+
+Assim:
+
+Ao abrigo do n.º 2 do artigo 14.º do [Decreto-Lei n.º 190/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1991-639489), de 17 de Maio, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o regime jurídico da carreira de psicólogo no âmbito do Ministério da Educação.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O regime estabelecido no presente diploma aplica-se aos serviços de psicologia e orientação dos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário criados pelo [Decreto-Lei n.º 190/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1991-639489), de 17 de Maio.
+
+###### Artigo 3.º — Carreira de psicólogo
+
+1 - A carreira de psicólogo dos serviços de psicologia e orientação integra-se no grupo de pessoal técnico superior e estrutura-se nos termos fixados na lei geral, sem prejuízo do disposto no número seguinte.
+
+2 - A carreira de psicólogo desenvolve-se pelas categorias de psicólogo assessor principal, psicólogo assessor, psicólogo principal, psicólogo de 1.ª classe e psicólogo de 2.ª classe.
+
+###### Artigo 4.º — Conteúdo funcional
+
+O psicólogo desenvolve as suas funções em contexto escolar, competindo-lhe, designadamente:
+
+a) Contribuir, através da sua intervenção especializada, para o desenvolvimento integral dos alunos e para a construção da sua identidade pessoal;
+
+b) Conceber e participar na definição de estratégias e na aplicação de procedimentos de orientação educativa que promovam o acompanhamento do aluno ao longo do seu percurso escolar;
+
+c) Intervir, a nível psicológico e psicopedagógico, na observação, orientação e apoio dos alunos, promovendo a cooperação de professores, pais e encarregados de educação em articulação com os recursos da comunidade;
+
+d) Participar nos processos de avaliação multidisciplinar e interdisciplinar, tendo em vista a elaboração de programas educativos individuais, e acompanhar a sua concretização;
+
+e) Desenvolver programas e acções de aconselhamento pessoal e vocacional a nível individual ou de grupo;
+
+f) Colaborar no levantamento de necessidades da comunidade educativa com o fim de propor a realização de acções de prevenção e medidas educativas adequadas, designadamente a situação específica de alunos também escolarizados no estrangeiro ou cujos pais residam e trabalhem fora do País;
+
+g) Participar em experiências pedagógicas, bem como em projectos de investigação e em acções de formação do pessoal docente e não docente;
+
+h) Colaborar no estudo, concepção e planeamento de medidas que visem a melhoria do sistema educativo e acompanhar o desenvolvimento de projectos.
+
+###### Artigo 5.º — Ingresso e acesso na carreira
+
+1 - O ingresso na carreira efectua-se nos termos previstos na lei geral para ingresso nas carreiras do grupo de pessoal técnico superior.
+
+2 - Constitui requisito especial de ingresso a licenciatura em Psicologia ou habilitação legalmente equiparada.
+
+3 - Consideram-se condições preferenciais de selecção a formação académica específica e a experiência profissional na área da psicologia educacional ou em áreas relacionadas com o conteúdo funcional referido no artigo anterior.
+
+4 - O acesso na carreira e a progressão nas respectivas categorias obedece ao disposto na lei geral.
+
+###### Artigo 6.º — Quadros
+
+1 - Os quadros de pessoal abrangidos pelo presente diploma são os seguintes:
+
+a) Quadros de vinculação;
+
+b) Quadros de afectação.
+
+2 - Em cada direcção regional de educação será criado um quadro de vinculação com a carreira de psicólogo para os serviços de psicologia e orientação.
+
+3 - Cada serviço de psicologia e orientação disporá de um quadro de afectação, localizado na escola sede, cuja dotação será aprovada por despacho do Ministro da Educação, sob proposta do respectivo director regional de educação.
+
+4 - Os quadros das direcções regionais de educação são os constantes dos mapas anexos a este diploma, que poderão ser revistos nos termos da lei geral.
+
+5 - Os quadros referidos no n.º 3 deste artigo apenas indicarão o número total de psicólogos a afectar, independentemente das categorias da respectiva carreira.
+
+###### Artigo 7.º — Mobilidade
+
+1 - Consideram-se instrumentos de mobilidade do pessoal abrangido por este diploma:
+
+a) O concurso;
+
+b) A permuta;
+
+c) A transferência;
+
+d) A requisição e o destacamento.
+
+2 - Aos instrumentos de mobilidade previstos no número anterior aplica-se a lei geral.
+
+###### Artigo 8.º — Licença sabática
+
+1 - Aos psicólogos de nomeação definitiva com pelo menos oito anos de tempo de serviço nos serviços de psicologia e orientação podem ser concedidas licenças sabáticas, em termos a fixar por despacho do Ministro da Educação.
+
+2 - A licença sabática corresponde à dispensa das actividades, destinando-se à formação ou à realização de trabalhos de investigação na área da psicologia educacional.
+
+###### Artigo 9.º — Equiparação a bolseiro
+
+Aos psicólogos pode ser concedida equiparação a bolseiro nos termos da lei geral.
+
+###### Artigo 10.º — Recrutamento e selecção
+
+O recrutamento e selecção do pessoal abrangido por este diploma para os quadros de vinculação efectua-se por concurso de provimento nos termos da lei geral, sem prejuízo do disposto no n.os 2 e 3 do artigo 5.º
+
+###### Artigo 11.º — Estágio
+
+1 - O estágio de ingresso na carreira realiza-se nos termos previstos na lei geral, salvo o disposto nos números seguintes.
+
+2 - O estágio tem carácter probatório, a duração de um ano e processa-se em regime de contrato administrativo de provimento ou em comissão extraordinária de serviço, caso se trate de funcionário já vinculado a quadro da Administração Pública.
+
+3 - O estágio decorre sob a supervisão de um psicólogo de nomeação definitiva, designado pelo director regional de educação e com, pelo menos, cinco anos de serviço efectivo em serviços de psicologia e orientação.
+
+4 - Compete ao supervisor de estágio elaborar o plano de estágio e submetê-lo à aprovação do órgão de administração e gestão da escola sede do respectivo serviço de psicologia e orientação.
+
+5 - O relatório de estágio é apreciado por um júri constituído por um elemento da administração e gestão da escola ou área escolar, pelo supervisor do estágio e pelo coordenador do serviço de psicologia e orientação.
+
+6 - A apreciação do relatório referido no número anterior é homologada pelo respectivo director regional de educação.
+
+###### Artigo 12.º — Classificação de serviço
+
+A classificação de serviço do pessoal abrangido por este diploma efectua-se de acordo com regulamentação a definir através de portaria.
+
+###### Artigo 13.º — Vinculação
+
+1 - São integrados nos quadros de vinculação criados pelo presente diploma os psicólogos que vêm exercendo funções nos serviços de psicologia e orientação em regime de contrato administrativo de provimento.
+
+2 - Podem ser integrados nos quadros de vinculação os psicólogos com nomeação no quadro único do Ministério da Educação e que se encontrem em exercício de funções nos serviços de psicologia e orientação.
+
+3 - A integração referida nos números anteriores será feita de acordo com as seguintes regras:
+
+a) O pessoal referido no n.º 1 é integrado na categoria de ingresso, em escalão a determinar de acordo com o tempo de serviço prestado como contratado nas respectivas funções;
+
+b) O pessoal referido no n.º 2 é integrado de acordo com o estabelecido no artigo 18.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+
+4 - A integração faz-se por lista nominativa, aprovada pelo director regional de educação, publicada no Diário da República, após visto do Tribunal de Contas.
+
+###### Artigo 14.º — Afectação
+
+1 - Para efeitos de colocação nos quadros de afectação, os psicólogos que reúnam as condições referidas nos n.os 1 e 2 do artigo anterior poderão manifestar a sua preferência em relação ao quadro em que desejam ser integrados, mediante requerimento ao director regional de educação competente.
+
+2 - Compete aos directores regionais de educação decidir sobre cada um dos requerimentos, tendo em atenção, na ordenação das preferências, os seguintes critérios:
+
+a) Tempo de serviço como psicólogo em estabelecimentos de educação ou de ensino públicos, dando-se preferência àquele que prestou serviço no ano lectivo anterior na escola a que se candidata;
+
+b) Média aritmética da classificação final da licenciatura em Psicologia e da classificação do estágio curricular;
+
+c) Idade, com preferência pelo mais velho.
+
+###### Artigo 15.º — Contagem do tempo de serviço
+
+Ao pessoal integrado nos termos do artigo 13.º será contado, na categoria de integração e para efeitos de promoção, todo o tempo de serviço prestado nas respectivas funções em regime de contrato.
+
+###### Artigo 16.º — Exercício transitório de funções
+
+Os psicólogos abrangidos pelo presente diploma mantêm-se em funções nos respectivos serviços até à integração prevista no artigo 13.º
+
+###### Artigo 17.º — Código deontológico
+
+Ao exercício das funções de psicólogo aplica-se o código deontológico da prática profissional da psicologia adoptado pelas associações científico-profissionais portuguesas e internacionais.
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte à sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Jorge Paulo Sacadura Almeida Coelho.
+
+Promulgado em 10 de Outubro de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 14 de Outubro de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## ANEXO — Quadros de vinculação previstos no artigo 6.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1997/10/253a00/59865990.pdf)

@@ -1,0 +1,425 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010L0024:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010L0024-20100420",
+ "dre_path": null,
+ "source_lastmod": "2010-04-20",
+ "versions": [
+  {
+   "date": "2010-03-31",
+   "future": false,
+   "celex": "32010L0024",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c7781cf5bd8c4404",
+    "f6c2eb219fe1b284",
+    "e17a2adcfbbdd4cc",
+    "a97cd31d0b6f9fa5",
+    "f167e9373fd2b355",
+    "e784b4f75a3adc97",
+    "931b534de221744f",
+    "f0f8c960bfdbce9b",
+    "e08780d81d0d4ed4",
+    "d4b7fe4df415032c",
+    "09f60cbcd8e6dc6f",
+    "bd1c6517d01acda6",
+    "1e7a0903d2eed348",
+    "0a5b6038a56d998d",
+    "378bfc3479713e19",
+    "0407b6b238d396d3",
+    "1ecfc79da3f1ac7f",
+    "c3fd9fe68cfbb0de",
+    "5d7affc732a11563",
+    "27b79c4d552164e5",
+    "7102e8107a125ed5",
+    "f1f8ebde59c04832",
+    "dbb6839edf74dc9f",
+    "17ce053b88f2d118",
+    "07ef2191c42c6b84",
+    "918e803b92871d66",
+    "c7eb8ce4c6ae3724",
+    "30933f8e57c0b773",
+    "6d17be18c6272487",
+    "40ed6b62e188ac6f",
+    "2230c1397d2a2137",
+    "5a67ebdd0bce5c72",
+    "f4076be8129b38d7",
+    "c6b5670755e61038",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "81954c8713b21ff8",
+    "c619e582cb0b7b11",
+    "a0f7f1ad973dc504",
+    "b1db8e233de6c6bf",
+    "0c70a1f5352b5d84",
+    "43fb9142759faebd",
+    "eab3b0ae1aace9ca",
+    "cbdc8dab6de0aaee",
+    "68f783a2e721f93f"
+   ]
+  }
+ ],
+ "fragments": {
+  "c7781cf5bd8c4404": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Março de 2010\n\nrelativa à assistência mútua em matéria de cobrança de créditos respeitantes a impostos, direitos e outras medidas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente os artigos 113.º e 115.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/9d591360-c832-4ca7-b9b9-fcaae395ef00.0018.02/DOC_1#ntr1-L_2010084PT.01000101-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/9d591360-c832-4ca7-b9b9-fcaae395ef00.0018.02/DOC_1#ntr2-L_2010084PT.01000101-E0002),\n\nDeliberando de acordo com um processo legislativo especial,\n\nConsiderando o seguinte:\n\n(1) A assistência mútua entre Estados-Membros em matéria de cobrança recíproca dos respectivos créditos e dos da União respeitantes a determinados impostos e outras medidas contribui para o bom funcionamento do mercado interno. Garante a neutralidade fiscal e tem permitido que os Estados-Membros procedam à abolição de medidas de protecção discriminatórias destinadas a evitar a fraude e as perdas orçamentais.\n\n(2) As disposições relativas à assistência mútua em matéria de cobrança foram inicialmente consagradas pela Directiva 76/308/CEE do Conselho, de 15 de Março de 1976, relativa à assistência mútua em matéria de cobrança de créditos resultantes de operações que fazem parte do sistema de financiamento do Fundo Europeu de Orientação e Garantia Agrícola, bem como de direitos niveladores agrícolas e de direitos aduaneiros [([^3])](http://publications.europa.eu/resource/cellar/9d591360-c832-4ca7-b9b9-fcaae395ef00.0018.02/DOC_1#ntr3-L_2010084PT.01000101-E0003). Essa directiva e os respectivos actos modificativos foram codificados pela Directiva 2008/55/CE do Conselho, de 26 de Maio de 2008, relativa à assistência mútua em matéria de cobrança de créditos respeitantes a certas quotizações, direitos, impostos e outras medidas [([^4])](http://publications.europa.eu/resource/cellar/9d591360-c832-4ca7-b9b9-fcaae395ef00.0018.02/DOC_1#ntr4-L_2010084PT.01000101-E0004).\n\n(3) Contudo, as mencionadas disposições, embora constituíssem um primeiro passo para melhorar os processos de cobrança na União graças à aproximação das regras nacionais aplicáveis, revelaram-se insuficientes para dar resposta às exigências da evolução do mercado interno nos últimos 30 anos.\n\n(4) Para melhor salvaguardar os interesses financeiros dos Estados-Membros e a neutralidade do mercado interno, é necessário que o âmbito da assistência mútua à cobrança seja extensivo a créditos respeitantes a impostos e direitos ainda não abrangidos pela assistência mútua à cobrança, enquanto que, para fazer face ao aumento dos pedidos de assistência e obter melhores resultados, é necessário conferir maior eficácia à assistência à cobrança e facilitar a sua utilização prática. Para atingir esses objectivos, são necessárias adaptações importantes, pelo que uma simples modificação da actual Directiva 2008/55/CE não seria suficiente. Essa directiva deverá por conseguinte ser revogada e substituída por um novo instrumento jurídico, assente nos resultados da Directiva 2008/55/CE mas estabelecendo sempre que necessário regras mais claras e mais precisas.\n\n(5) A existência de regras mais claras deverá fomentar uma troca de informações mais ampla entre Estados-Membros. Deverá também garantir a cobertura de todas as pessoas singulares e colectivas na União, tendo em conta a gama cada vez mais vasta de estruturas jurídicas, que inclui não só as estruturas tradicionais como os *trusts* e as fundações, mas também novos instrumentos que possam ser instituídos por contribuintes nos Estados-Membros. Deverá ainda permitir ter em conta todas as formas que possam assumir os créditos das autoridades públicas respeitantes a impostos, direitos, quotizações, restituições e intervenções, designadamente todos os créditos pecuniários do contribuinte em causa ou de terceiros que substituam o crédito inicial. São necessárias regras mais claras principalmente para melhor definir os direitos e obrigações de todas as partes em causa.\n\n(6) As disposições consagradas pela presente directiva não deverão prejudicar as competências dos Estados-Membros em matéria de determinação das medidas de cobrança disponíveis na sua legislação interna. Contudo, é necessário garantir que o bom funcionamento do sistema de assistência mútua previsto na presente directiva não seja comprometido nem pelas disparidades entre legislações nacionais nem pela falta de coordenação entre autoridades competentes.\n\n(7) A assistência mútua pode consistir no seguinte: a autoridade requerida pode prestar à autoridade requerente as informações de que esta necessite para a cobrança dos créditos constituídos no Estado-Membro requerente e notificar ao devedor todos os documentos respeitantes a tais créditos emanados do Estado-Membro requerente. A autoridade requerida pode também proceder, a pedido da autoridade requerente, à cobrança dos créditos constituídos no Estado-Membro requerente, ou tomar medidas cautelares para garantir a sua cobrança.\n\n(8) A adopção de um título executivo uniforme no Estado-Membro requerido, e bem assim a adopção de um formulário-tipo para notificação de instrumentos e decisões respeitantes ao crédito, deverão permitir resolver os problemas de reconhecimento e tradução de instrumentos emanados de outro Estado-Membro, que constituem uma das principais causas da ineficácia do actual regime de assistência.\n\n(9) Deverá ser criada uma base jurídica para a troca de informações sem pedido prévio sobre reembolsos de impostos específicos. Por razões de eficácia, deverá ser também consagrada a possibilidade de os funcionários fiscais de um Estado-Membro assistirem a inquéritos administrativos noutro Estado-Membro ou de neles participarem. Deverá ser igualmente prevista uma troca de informações mais directa entre serviços, com vista a conferir maior celeridade e eficácia à assistência.\n\n(10) Tendo em conta a crescente mobilidade do mercado interno, bem como as restrições impostas pelo Tratado ou por outros diplomas em relação às garantias que podem ser exigidas a contribuintes não estabelecidos no território nacional, deverão ser alargadas as possibilidades de solicitar a cobrança ou aplicação de medidas cautelares noutro Estado-Membro. Sendo a antiguidade de um crédito um factor determinante, os Estados-Membros deverão poder apresentar um pedido de assistência mútua, mesmo que não tenham sido ainda totalmente esgotados os meios internos de cobrança, designadamente quando o recurso a esses procedimentos no Estado-Membro requerente puder implicar dificuldades desproporcionadas.\n\n(11) Os Estados-Membros estarão aptos a tratar os pedidos com maior celeridade e facilidade se estiver prevista uma obrigação geral de comunicação dos pedidos e dos documentos em suporte digital e através de uma rede electrónica, com regras precisas quanto à utilização das línguas.\n\n(12) No decurso do processo de cobrança no Estado-Membro requerido, o interessado pode impugnar o crédito, a notificação efectuada pelas autoridades do Estado-Membro requerente ou o título executivo da sua cobrança. Deverá estabelecer-se que, nestes casos, a acção de impugnação deve ser instaurada pelo interessado perante a instância competente do Estado-Membro requerente e que a autoridade requerida pode suspender, salvo pedido em contrário da autoridade requerente, o processo de execução já iniciado, até ser proferida uma decisão pela instância competente do Estado-Membro requerente.\n\n(13) Para incentivar os Estados-Membros a consagrarem recursos suficientes à cobrança dos créditos de outros Estados-Membros, o Estado-Membro requerido deverá poder recuperar junto do devedor as despesas relacionadas com a cobrança.\n\n(14) Será garantida maior eficácia se, ao dar seguimento a um pedido de assistência, a autoridade requerida puder exercer as competências que lhe são conferidas pela respectiva legislação nacional aplicável a créditos relativos a impostos ou direitos da mesma natureza ou de natureza similar. Na ausência de impostos ou direitos de natureza similar, o procedimento mais adequado será o previsto na legislação do Estado-Membro requerido para os créditos relativos ao imposto sobre o rendimento das pessoas singulares. A legislação nacional não deverá, regra geral, aplicar-se às preferências atribuídas a créditos constituídos no Estado-Membro requerido. Todavia, deverá ser prevista a possibilidade de tornar as preferências extensivas a créditos de outros Estados-Membros com base num acordo entre os Estados-Membros em causa.\n\n(15) Em matéria de prescrição, é necessário simplificar as regras em vigor, consagrando-se que, regra geral, a suspensão, interrupção ou prorrogação dos prazos de prescrição seja regida pelas disposições legislativas em vigor no Estado-Membro requerido, salvo se estas não as admitirem.\n\n(16) A eficácia exige que as informações transmitidas no âmbito da assistência mútua possam ser utilizadas, para outros fins além dos previstos na presente directiva, no Estado-Membro que recebe as informações, sempre que tal seja permitido pela legislação interna tanto do Estado-Membro que presta as informações como do Estado-Membro que as recebe.\n\n(17) O disposto na presente directiva não impede o cumprimento de quaisquer obrigações em matéria de prestação de uma assistência mais ampla decorrentes de acordos ou convénios bilaterais ou multilaterais.\n\n(18) As medidas necessárias à execução da presente directiva devem ser adoptadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^5])](http://publications.europa.eu/resource/cellar/9d591360-c832-4ca7-b9b9-fcaae395ef00.0018.02/DOC_1#ntr5-L_2010084PT.01000101-E0005).\n\n(19) Nos termos do ponto 34 do Acordo Interinstitucional «Legislar Melhor», os Estados-Membros são encorajados a elaborar, para si próprios e no interesse da União, os seus próprios quadros, que ilustrem, na medida do possível, a concordância entre a presente directiva e as medidas de transposição, e a publicá-los.\n\n(20) Atendendo a que os objectivos da presente directiva, nomeadamente o estabelecimento de um sistema uniforme de assistência à cobrança no mercado interno, não podem ser suficientemente realizados pelos Estados-Membros e podem, pois, devido à uniformidade, eficácia e eficiência exigidas, ser mais bem alcançados ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(21) A presente directiva respeita os direitos fundamentais e observa os princípios reconhecidos, designadamente, pela Carta dos Direitos Fundamentais da União Europeia,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "a97cd31d0b6f9fa5": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente directiva estabelece as regras nos termos das quais os Estados-Membros devem prestar assistência à cobrança, num Estado-Membro, de quaisquer créditos referidos no artigo 2.º constituídos noutro Estado-Membro."
+  },
+  "f167e9373fd2b355": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. A presente directiva é aplicável aos créditos respeitantes a:\n\na) Todos os impostos e direitos, independentemente da sua natureza, cobrados por um Estado-Membro ou em seu nome, ou pelas suas subdivisões territoriais ou administrativas, incluindo as autoridades locais, ou em seu nome, ou em nome da União;\n\nb) Restituições, intervenções e outras medidas que façam parte do sistema de financiamento integral ou parcial do Fundo Europeu Agrícola de Garantia (FEAGA) e do Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), incluindo as importâncias a receber no âmbito destas acções;\n\nc) Quotizações e outros direitos previstos no âmbito da organização comum do mercado para o sector do açúcar.\n\n2. O âmbito de aplicação da presente directiva inclui:\n\na) Sanções, multas, taxas e sobretaxas de natureza administrativa respeitantes a créditos para os quais possa ser solicitada assistência mútua nos termos do n.º 1, cominadas pelas autoridades administrativas competentes para cobrar os impostos ou direitos em causa ou realizar inquéritos administrativos a respeito dos mesmos, ou confirmadas por órgãos administrativos ou judiciais a pedido dessas autoridades administrativas;\n\nb) Taxas relativas a certificados e documentos similares emitidos no âmbito de processos administrativos relacionados com impostos e direitos;\n\nc) Juros e despesas respeitantes a créditos para os quais possa ser solicitada assistência mútua nos termos do n.º 1 ou das alíneas a) ou b) do presente número.\n\n3. A presente directiva não é aplicável a:\n\na) Contribuições obrigatórias para a segurança social devidas ao Estado-Membro ou a uma subdivisão do Estado-Membro, ou a instituições de segurança social de direito público;\n\nb) Taxas não referidas no n.º 2;\n\nc) Direitos de natureza contratual, tais como pagamento de serviços públicos;\n\nd) Sanções penais cominadas com base numa acção movida pelo Ministério Público ou outras sanções penais não abrangidas pela alínea a) do n.º 2."
+  },
+  "e784b4f75a3adc97": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\na) «Autoridade requerente», um serviço central de ligação, um serviço de ligação ou um departamento de ligação de um Estado-Membro que formule um pedido de assistência relativo a um crédito referido no artigo 2.º;\n\nb) «Autoridade requerida», um serviço central de ligação, um serviço de ligação ou um departamento de ligação de um Estado-Membro ao qual seja dirigido um pedido de assistência;\n\nc) «Pessoa»: i) Uma pessoa singular; ii) Uma pessoa colectiva; iii) Sempre que a legislação em vigor o preveja, uma associação de pessoas à qual tenha sido reconhecida capacidade para praticar actos jurídicos, mas que não possua o estatuto de pessoa colectiva; ou iv) Qualquer outra estrutura jurídica seja qual for a sua natureza ou forma, dotada ou não de personalidade jurídica, cujos activos — de que seja proprietária ou gestora — e rendimentos deles derivados estejam sujeitos a qualquer um dos impostos abrangidos pela presente directiva;\n\ni) Uma pessoa singular;\n\nii) Uma pessoa colectiva;\n\niii) Sempre que a legislação em vigor o preveja, uma associação de pessoas à qual tenha sido reconhecida capacidade para praticar actos jurídicos, mas que não possua o estatuto de pessoa colectiva; ou\n\niv) Qualquer outra estrutura jurídica seja qual for a sua natureza ou forma, dotada ou não de personalidade jurídica, cujos activos — de que seja proprietária ou gestora — e rendimentos deles derivados estejam sujeitos a qualquer um dos impostos abrangidos pela presente directiva;\n\nd) «Por via electrónica», a utilização de equipamento electrónico de processamento (incluindo a compressão digital) e de armazenagem de dados, através de fios, radiocomunicações, meios ópticos ou outros meios electromagnéticos;\n\ne) «Rede CCN», a plataforma comum baseada na rede comum de comunicações (CCN), desenvolvida pela União para todas as transmissões por via electrónica entre autoridades competentes nos domínios aduaneiro e fiscal."
+  },
+  "931b534de221744f": {
+   "fragment_id": "Artigo 4.º — Organização",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organização\n\n1. Até 20 de Maio de 2010, cada Estado-Membro informa a Comissão da respectiva autoridade ou autoridades competentes (a seguir designadas «autoridade competente») para efeitos da presente directiva e informa sem demora a Comissão de qualquer alteração da mesma.\n\nA Comissão deve manter as informações recebidas à disposição dos outros Estados-Membros e publicar no *Jornal Oficial da União Europeia* uma lista das autoridades competentes dos Estados-Membros.\n\n2. A autoridade competente designa um serviço central de ligação como responsável principal pelos contactos com os outros Estados-Membros no domínio da assistência mútua abrangida pela presente directiva.\n\nO serviço central de ligação pode também ser designado como responsável pelos contactos com a Comissão.\n\n3. A autoridade competente de cada Estado-Membro pode designar serviços de ligação como responsáveis pelos contactos com outros Estados-Membros no âmbito da assistência mútua no que diz respeito a um ou mais tipos ou categorias específicas de impostos e direitos a que se refere o artigo 2.º.\n\n4. A autoridade competente de cada Estado-Membro pode designar serviços diferentes do serviço central de ligação ou dos serviços de ligação para actuarem como departamentos de ligação. Os departamentos de ligação solicitam ou prestam assistência mútua ao abrigo da presente directiva no âmbito das suas competências territoriais ou operacionais específicas.\n\n5. Sempre que um serviço de ligação ou um departamento de ligação receba um pedido de assistência mútua que exija uma acção fora da competência que lhe tenha sido atribuída, deve transmiti-lo de imediato ao serviço ou departamento competente, se estes forem conhecidos, ou ao serviço central de ligação, e informar do facto a autoridade requerente.\n\n6. A autoridade competente de cada Estado-Membro informa a Comissão do serviço central de ligação ou de quaisquer serviços ou departamentos de ligação que tenha designado. A Comissão deve manter as informações recebidas à disposição dos Estados-Membros.\n\n7. Cada comunicação deve ser enviada pelo serviço central de ligação ou em seu nome ou, numa base casuística, com o acordo desse serviço, que deve garantir a eficácia da comunicação."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "e08780d81d0d4ed4": {
+   "fragment_id": "TROCA DE INFORMAÇÕES",
+   "type": "divisao",
+   "heading": "TROCA DE INFORMAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TROCA DE INFORMAÇÕES"
+  },
+  "d4b7fe4df415032c": {
+   "fragment_id": "Artigo 5.º — Pedido de informações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Pedido de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido de informações\n\n1. A pedido da autoridade requerente, a autoridade requerida faculta quaisquer informações que sejam previsivelmente úteis à autoridade requerente para efeitos da cobrança dos créditos a que se refere o artigo 2.º.\n\nPara a prestação dessas informações, a autoridade requerida manda efectuar os inquéritos administrativos que sejam necessários à obtenção das mesmas.\n\n2. A autoridade requerida não é obrigada a transmitir informações:\n\na) Que não esteja em condições de obter para a cobrança de créditos similares constituídos no Estado-Membro requerido;\n\nb) Que divulguem um segredo comercial, industrial ou profissional;\n\nc) Cuja divulgação seja de natureza a atentar contra a segurança ou a ordem pública do Estado-Membro requerido.\n\n3. O disposto no n.º 2 não pode, em caso algum, ser interpretado no sentido de autorizar a autoridade requerida de um Estado-Membro a não prestar informações apenas pelo facto de as informações em causa estarem na posse de uma instituição bancária, de outra instituição financeira, de uma pessoa designada ou actuando na qualidade de agente ou de fiduciário ou estarem relacionadas com uma participação no capital de uma pessoa.\n\n4. A autoridade requerida informa a autoridade requerente dos motivos que obstam a que o pedido de informações seja satisfeito."
+  },
+  "09f60cbcd8e6dc6f": {
+   "fragment_id": "Artigo 6.º — Troca de informações sem pedido prévio",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Troca de informações sem pedido prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Troca de informações sem pedido prévio\n\nSe um reembolso de impostos ou direitos, com excepção do imposto sobre o valor acrescentado, disser respeito a pessoas estabelecidas ou residentes noutro Estado-Membro, o Estado-Membro a partir do qual deve ser efectuado o reembolso pode informar do futuro reembolso o Estado-Membro de estabelecimento ou residência."
+  },
+  "bd1c6517d01acda6": {
+   "fragment_id": "Artigo 7.º — Presença nos serviços administrativos e participação nos inquéritos administrativos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Presença nos serviços administrativos e participação nos inquéritos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Presença nos serviços administrativos e participação nos inquéritos administrativos\n\n1. Mediante acordo entre a autoridade requerente e a autoridade requerida e nos termos fixados por esta última, os funcionários autorizados pela autoridade requerida podem, tendo em vista promover a assistência mútua prevista na presente directiva:\n\na) Estar presentes nos serviços em que exercem funções as autoridades administrativas do Estado-Membro requerido;\n\nb) Estar presentes durante os inquéritos administrativos realizados no território do Estado-Membro requerido;\n\nc) Prestar assistência aos funcionários competentes do Estado-Membro requerido no âmbito de processos judiciais em curso nesse Estado-Membro.\n\n2. Na medida em que a legislação em vigor no Estado-Membro requerido o permita, o acordo a que se refere a alínea b) do n.º 1 pode prever que os funcionários do Estado-Membro requerente tenham a possibilidade de entrevistar pessoas e analisar registos.\n\n3. Os funcionários autorizados pela autoridade requerente que façam uso das possibilidades previstas nos n.^os^ 1 e 2 devem poder apresentar, a qualquer momento, um mandato escrito em que estejam indicadas a sua identidade e qualidade oficial."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "0a5b6038a56d998d": {
+   "fragment_id": "ASSISTÊNCIA À NOTIFICAÇÃO DE DOCUMENTOS",
+   "type": "divisao",
+   "heading": "ASSISTÊNCIA À NOTIFICAÇÃO DE DOCUMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ASSISTÊNCIA À NOTIFICAÇÃO DE DOCUMENTOS"
+  },
+  "378bfc3479713e19": {
+   "fragment_id": "Artigo 8.º — Pedido de notificação de certos documentos respeitantes a créditos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Pedido de notificação de certos documentos respeitantes a créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pedido de notificação de certos documentos respeitantes a créditos\n\n1. A pedido da autoridade requerente, a autoridade requerida notifica ao destinatário todos os documentos, nomeadamente de natureza judicial, emanados do Estado-Membro requerente, que digam respeito a um crédito referido no artigo 2.º ou à sua cobrança.\n\nO pedido de notificação deve ser acompanhado de um formulário-tipo que contenha pelo menos as seguintes informações:\n\na) Nome, endereço e outros dados relevantes para a identificação do destinatário;\n\nb) Objectivo da notificação e período dentro do qual a notificação deve ser feita;\n\nc) Descrição do documento anexado bem como da natureza e montante do crédito em causa;\n\nd) Nome, endereço e outros contactos: i) do serviço responsável pelo documento anexado e, se diferente, ii) do serviço onde podem ser obtidas informações complementares sobre o documento notificado ou sobre as possibilidades de impugnação da obrigação de pagamento.\n\ni) do serviço responsável pelo documento anexado e, se diferente,\n\nii) do serviço onde podem ser obtidas informações complementares sobre o documento notificado ou sobre as possibilidades de impugnação da obrigação de pagamento.\n\n2. A autoridade requerente apresenta um pedido de notificação ao abrigo do presente artigo apenas quando não estiver em condições de notificar nos termos das normas jurídicas em vigor para a notificação do documento em causa no Estado-Membro requerente, ou quando tal notificação puder implicar dificuldades desproporcionadas.\n\n3. A autoridade requerida informa imediatamente a autoridade requerente do seguimento dado ao pedido de notificação e, em especial, da data em que o destinatário foi notificado do documento."
+  },
+  "0407b6b238d396d3": {
+   "fragment_id": "Artigo 9.º — Meios de notificação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Meios de notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Meios de notificação\n\n1. A autoridade requerida garante que a notificação no Estado-Membro requerido seja efectuada nos termos das disposições legislativas e regulamentares e das práticas administrativas nacionais em vigor no Estado-Membro requerido.\n\n2. O n.º 1 não obsta a qualquer outra forma de notificação efectuada por uma autoridade competente do Estado-Membro requerente nos termos das regras em vigor nesse Estado-Membro.\n\nUma autoridade competente estabelecida no Estado-Membro requerente pode notificar directamente qualquer documento por carta registada ou por via electrónica a uma pessoa estabelecida no território de outro Estado-Membro."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "c3fd9fe68cfbb0de": {
+   "fragment_id": "COBRANÇA OU MEDIDAS CAUTELARES",
+   "type": "divisao",
+   "heading": "COBRANÇA OU MEDIDAS CAUTELARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COBRANÇA OU MEDIDAS CAUTELARES"
+  },
+  "5d7affc732a11563": {
+   "fragment_id": "Artigo 10.º — Pedido de cobrança",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Pedido de cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pedido de cobrança\n\n1. A pedido da autoridade requerente, a autoridade requerida cobra os créditos que sejam objecto de um título executivo no Estado-Membro requerente.\n\n2. Logo que tenha conhecimento de qualquer informação útil respeitante ao processo que deu origem ao pedido de cobrança, a autoridade requerente comunica-a à autoridade requerida."
+  },
+  "27b79c4d552164e5": {
+   "fragment_id": "Artigo 11.º — Condições que regem um pedido de cobrança",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Condições que regem um pedido de cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Condições que regem um pedido de cobrança\n\n1. A autoridade requerente não pode apresentar um pedido de cobrança se e enquanto o crédito e/ou o respectivo título executivo no Estado-Membro requerente forem objecto de impugnação nesse Estado, salvo nos casos em que seja aplicável o terceiro parágrafo do n.º 4 do artigo 14.º.\n\n2. Antes de a autoridade requerente apresentar um pedido de cobrança, devem ser aplicados os procedimentos de cobrança adequados disponíveis no Estado-Membro requerente, salvo nos seguintes casos:\n\na) Quando for patente que não existem activos a cobrar no Estado-Membro requerente ou que tais procedimentos não conduzirão ao pagamento integral do crédito, e a autoridade requerente dispuser de informações específicas indicando que o interessado dispõe de activos no Estado-Membro requerido;\n\nb) Quando o recurso a esses procedimentos no Estado-Membro requerente puder implicar dificuldades desproporcionadas."
+  },
+  "7102e8107a125ed5": {
+   "fragment_id": "Artigo 12.º — Título executivo no Estado-Membro requerido e documentos conexos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Título executivo no Estado-Membro requerido e documentos conexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Título executivo no Estado-Membro requerido e documentos conexos\n\n1. Os pedidos de cobrança são acompanhados de um título executivo uniforme no Estado-Membro requerido.\n\nEste título executivo uniforme no Estado-Membro requerido reflecte o conteúdo essencial do título executivo inicial e constitui a única base para a cobrança e as medidas cautelares tomadas no Estado-Membro requerido. Não está sujeito a nenhum acto de reconhecimento, completamento ou substituição nesse Estado-Membro.\n\nO título executivo uniforme deve conter pelo menos as seguintes informações:\n\na) Informações relevantes para a identificação do título executivo inicial, uma descrição do crédito, incluindo a sua natureza, o período por ele abrangido, todas as datas relevantes para o processo de execução, bem como o montante do crédito e os seus diferentes componentes tais como capital, juros vencidos, etc.;\n\nb) Nome e outros dados relevantes para a identificação do devedor;\n\nc) Nome, endereço e outros contactos: i) do serviço responsável pela liquidação do crédito e, se diferente, ii) do serviço onde podem ser obtidas informações complementares sobre o crédito ou as possibilidades de impugnação da obrigação de pagamento.\n\ni) do serviço responsável pela liquidação do crédito e, se diferente,\n\nii) do serviço onde podem ser obtidas informações complementares sobre o crédito ou as possibilidades de impugnação da obrigação de pagamento.\n\n2. O pedido de cobrança de um crédito pode ser acompanhado de outros documentos respeitantes a esse crédito, emitidos no Estado-Membro requerente."
+  },
+  "f1f8ebde59c04832": {
+   "fragment_id": "Artigo 13.º — Execução do pedido de cobrança",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Execução do pedido de cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Execução do pedido de cobrança\n\n1. Para efeitos da cobrança no Estado-Membro requerido, todos os créditos que sejam objecto de um pedido de cobrança devem ser tratados como créditos do Estado-Membro requerido, salvo disposição em contrário da presente directiva. A autoridade requerida faz uso das competências e dos procedimentos previstos pelas disposições legislativas, regulamentares ou administrativas do Estado-Membro requerido aplicáveis aos créditos relativos aos mesmos impostos ou direitos ou, na sua ausência, a impostos ou direitos similares, salvo disposição em contrário da presente directiva.\n\nSe considerar que, no seu território, não são cobrados impostos ou direitos da mesma natureza ou de natureza similar, a autoridade requerida faz uso das competências e dos procedimentos previstos pelas disposições legislativas, regulamentares e administrativas do Estado-Membro requerido aplicáveis aos créditos relativos ao imposto sobre o rendimento das pessoas singulares, salvo disposição em contrário da presente directiva.\n\nO Estado-Membro requerido não é obrigado a conceder aos créditos de outros Estados-Membros as preferências concedidas a créditos similares nele constituídos, salvo acordo em contrário entre os Estados-Membros em causa ou disposição em contrário na legislação do Estado-Membro requerido. Um Estado-Membro que conceda preferências a créditos de outro Estado-Membro não pode recusar conceder as mesmas preferências a créditos da mesma natureza ou de natureza similar dos demais Estados-Membros, nas mesmas condições.\n\nO Estado-Membro requerido procede à cobrança na sua própria moeda.\n\n2. A autoridade requerida informa com a devida diligência a autoridade requerente do seguimento dado ao pedido de cobrança.\n\n3. A partir da data de recepção do pedido de cobrança, são aplicáveis juros do mora pela autoridade requerida, nos termos das disposições legislativas, regulamentares e administrativas em vigor no Estado-Membro requerido.\n\n4. A autoridade requerida pode, desde que as disposições legislativas, regulamentares e administrativas em vigor no Estado-Membro requerido o permitam, conceder ao devedor um prazo para pagamento ou autorizar um pagamento escalonado e pode cobrar juros sobre o mesmo. A autoridade requerida informa seguidamente a autoridade requerente de qualquer decisão nesse sentido.\n\n5. Sem prejuízo do disposto no n.º 1 do artigo 20.º, a autoridade requerida remete à autoridade requerente os montantes cobrados referentes ao crédito e os juros a que se referem os n.^os^ 3 e 4."
+  },
+  "dbb6839edf74dc9f": {
+   "fragment_id": "Artigo 14.º — Litígios",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Litígios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Litígios\n\n1. Os litígios relativos ao crédito, ao título executivo inicial no Estado-Membro requerente ou ao título executivo uniforme no Estado-Membro requerido e os litígios sobre a validade de uma notificação efectuada por uma autoridade competente do Estado-Membro requerente são dirimidos pelas instâncias competentes do Estado-Membro requerente. Se, durante o processo de cobrança, o crédito, o título executivo inicial no Estado-Membro requerente ou o título executivo uniforme no Estado-Membro requerido for impugnado por uma parte interessada, a autoridade requerida informa essa parte de que a acção deve ser por ela instaurada perante a instância competente do Estado-Membro requerente, nos termos das disposições legislativas em vigor nesse Estado.\n\n2. Os litígios relativos às medidas de execução tomadas no Estado-Membro requerido ou à validade de uma notificação efectuada por uma autoridade competente do Estado-Membro requerido são dirimidos pela instância competente desse Estado-Membro, nos termos das disposições legislativas e regulamentares que nele vigorem.\n\n3. Quando uma das acções a que se refere o n.º 1 for instaurada perante a instância competente do Estado-Membro requerente, a autoridade requerente informa do facto a autoridade requerida, indicando os elementos do crédito que não são objecto de impugnação.\n\n4. A partir do momento em que a autoridade requerida receba a informação a que se refere o n.º 3, transmitida pela autoridade requerente ou pelo interessado, deve proceder à suspensão do processo de execução, no que diz respeito à parte impugnada do crédito, ficando a aguardar a decisão da instância competente na matéria, salvo pedido em contrário da autoridade requerente nos termos do terceiro parágrafo do presente número.\n\nA pedido da autoridade requerente, ou se tal for considerado de outro modo necessário pela autoridade requerida, e sem prejuízo do disposto no artigo 16.º, a autoridade requerida pode tomar medidas cautelares para garantir a cobrança, desde que as disposições legislativas ou regulamentares em vigor no Estado-Membro requerido o permitam.\n\nA autoridade requerente pode, nos termos das disposições legislativas e regulamentares e das práticas administrativas em vigor no Estado-Membro requerente, solicitar à autoridade requerida que proceda à cobrança de um crédito impugnado ou da parte impugnada de um crédito, desde que as disposições legislativas e regulamentares e as práticas administrativas em vigor no Estado-Membro requerido o permitam. Todos os pedidos desta natureza devem ser fundamentados. Se o devedor obtiver ganho de causa na acção de impugnação, a autoridade requerente deve proceder ao reembolso de quaisquer montantes cobrados, bem como ao pagamento de qualquer compensação devida, nos termos das disposições legislativas em vigor no Estado-Membro requerido.\n\nSe tiver sido iniciado um procedimento amigável pelas autoridades competentes do Estado-Membro requerente ou do Estado-Membro requerido, e o resultado desse procedimento puder afectar o crédito para o qual foi pedida assistência, as medidas de cobrança são suspensas ou interrompidas até que aquele procedimento esteja concluído, a menos que o mesmo diga respeito a um caso de urgência imediata devido a fraude ou insolvência. Se as medidas de cobrança forem suspensas ou interrompidas, é aplicável o segundo parágrafo."
+  },
+  "17ce053b88f2d118": {
+   "fragment_id": "Artigo 15.º — Alteração ou cancelamento do pedido de assistência à cobrança",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Alteração ou cancelamento do pedido de assistência à cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alteração ou cancelamento do pedido de assistência à cobrança\n\n1. A autoridade requerente informa imediatamente a autoridade requerida de qualquer alteração subsequente do seu pedido de cobrança ou do cancelamento do pedido, indicando as razões da alteração ou do cancelamento.\n\n2. Se a alteração do pedido ocorrer na sequência de uma decisão da instância competente a que se refere o n.º 1 do artigo 14.º, a autoridade requerente transmite essa decisão juntamente com o novo título executivo uniforme no Estado-Membro requerido. A autoridade requerida prossegue, então, a tramitação do procedimento de cobrança com base no novo título.\n\nA cobrança ou as medidas cautelares já tomadas com base no título executivo uniforme inicial no Estado-Membro requerido podem ser prosseguidas com base no novo título, a não ser que a alteração do pedido seja devida à invalidade do título executivo inicial no Estado-Membro requerente ou do título executivo uniforme inicial no Estado-Membro requerido.\n\nSão aplicáveis ao novo título os artigos 12.º e 14.º."
+  },
+  "07ef2191c42c6b84": {
+   "fragment_id": "Artigo 16.º — Pedido de medidas cautelares",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Pedido de medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pedido de medidas cautelares\n\n1. A pedido da autoridade requerente, a autoridade requerida toma medidas cautelares, se autorizadas pelo seu direito nacional e nos termos das suas práticas administrativas, com vista a garantir a cobrança sempre que um crédito ou o título executivo no Estado-Membro requerente seja objecto de impugnação no momento em que o pedido é efectuado ou sempre que o crédito não tenha ainda sido objecto de um título executivo no Estado-Membro requerente, na medida em que sejam igualmente admitidas medidas cautelares, numa situação idêntica, pelo direito nacional e pelas práticas administrativas do Estado-Membro requerente.\n\nO documento relativo à aplicação de medidas cautelares no Estado-Membro requerente e respeitante ao crédito para o qual é solicitada assistência mútua, se for caso disso, é anexado ao pedido de medidas cautelares no Estado-Membro requerido. Esse documento não está sujeito a nenhum acto de reconhecimento, completamento ou substituição no Estado-Membro requerido.\n\n2. O pedido de medidas cautelares pode ser acompanhado de outros documentos respeitantes ao crédito em causa, emitidos no Estado-Membro requerente."
+  },
+  "918e803b92871d66": {
+   "fragment_id": "Artigo 17.º — Disposições que regem o pedido de medidas cautelares",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Disposições que regem o pedido de medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Disposições que regem o pedido de medidas cautelares\n\nPara efeitos do artigo 16.º, aplica-se *mutatis mutandis* o disposto no n.º 2 do artigo 10.º, nos n.^os^ 1 e 2 do artigo 13.º, e nos artigos 14.º e 15.º."
+  },
+  "c7eb8ce4c6ae3724": {
+   "fragment_id": "Artigo 18.º — Limites às obrigações da autoridade requerida",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Limites às obrigações da autoridade requerida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Limites às obrigações da autoridade requerida\n\n1. A autoridade requerida não é obrigada a conceder a assistência prevista nos artigos 10.º a 16.º se, tendo em conta a situação do devedor, a cobrança do crédito puder criar graves dificuldades de natureza económica ou social no Estado-Membro requerido, desde que as disposições legislativas e regulamentares e as práticas administrativas em vigor nesse Estado-Membro admitam esta excepção em relação aos créditos nacionais.\n\n2. A autoridade requerida não é obrigada a conceder a assistência prevista nos artigos 5.º e 7.º a 16.º se o pedido inicial de assistência ao abrigo do artigo 5.º, 7.º, 8.º, 10.º ou 16.º for apresentado em relação a créditos com mais de cinco anos, contados desde a data de vencimento do crédito no Estado-Membro requerente até à data do pedido de assistência inicial.\n\nNo entanto, nos casos em que o crédito ou o título executivo inicial no Estado-Membro requerente seja impugnado, considera-se que o prazo de cinco anos começa a correr no momento em que é estabelecido no Estado-Membro requerente que o crédito ou o título executivo deixa de poder ser impugnado.\n\nAlém disso, nos casos em que é concedido um adiamento do prazo de pagamento ou um plano de pagamento escalonado pelas autoridades competentes do Estado-Membro requerente, considera-se que o prazo de cinco anos começa a correr no momento em que termina o prazo total de pagamento.\n\nTodavia, nesses casos a autoridade requerida não é obrigada a conceder a assistência em relação a créditos com mais de dez anos, contados desde a data de vencimento do crédito no Estado-Membro requerente.\n\n3. Um Estado-Membro não é obrigado a conceder assistência se o montante total dos créditos abrangidos pela presente directiva para os quais seja solicitada assistência for inferior a 1 500 EUR.\n\n4. A autoridade requerida informa a autoridade requerente dos motivos que obstam a que o pedido de assistência seja satisfeito."
+  },
+  "30933f8e57c0b773": {
+   "fragment_id": "Artigo 19.º — Questões relativas à prescrição",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Questões relativas à prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Questões relativas à prescrição\n\n1. As questões relativas aos prazos de prescrição são regidas exclusivamente pelas disposições legislativas em vigor no Estado-Membro requerente.\n\n2. No que diz respeito à suspensão, interrupção ou prorrogação dos prazos de prescrição, considera-se que os actos de cobrança efectuados pela autoridade requerida, ou em seu nome, dando seguimento a um pedido de assistência e que tenham por efeito suspender, interromper ou prorrogar o prazo de prescrição nos termos das disposições legislativas em vigor no Estado-Membro requerido produzem o mesmo efeito no Estado-Membro requerente, desde que esteja previsto o efeito correspondente nas disposições legislativas em vigor no Estado-Membro requerente.\n\nSe a suspensão, interrupção ou prorrogação do prazo de prescrição não for possível nos termos das disposições legislativas em vigor no Estado-Membro requerido, os actos de cobrança de créditos efectuados pela autoridade requerida, ou em seu nome, dando seguimento a um pedido de assistência e que, se fossem efectuados pela autoridade requerente ou em seu nome no Estado-Membro requerente, teriam tido por efeito suspender, interromper ou prorrogar o prazo de prescrição nos termos das disposições legislativas em vigor no Estado-Membro requerente são considerados, para esse efeito, como tendo sido praticados neste último Estado.\n\nOs n.^os^ 1 e 2 não prejudicam o direito de as autoridades competentes no Estado-Membro requerente tomarem medidas destinadas a suspender, interromper ou prorrogar o prazo de prescrição nos termos das disposições legislativas em vigor nesse Estado-Membro.\n\n3. A autoridade requerente e a autoridade requerida informam-se mutuamente de qualquer medida que interrompa, suspenda ou prorrogue o prazo de prescrição do crédito que tenha sido objecto de um pedido de cobrança ou de medidas cautelares, ou que possa produzir esse efeito."
+  },
+  "6d17be18c6272487": {
+   "fragment_id": "Artigo 20.º — Despesas",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Despesas\n\n1. Para além dos montantes a que se refere o n.º 5 do artigo 13.º a autoridade requerida procura recuperar junto da pessoa em causa e conservar as despesas relacionadas com a cobrança em que tenha incorrido, nos termos das disposições legislativas e regulamentares do Estado-Membro requerido.\n\n2. Os Estados-Membros renunciam reciprocamente a qualquer restituição de despesas resultantes da assistência mútua que se tenham prestado ao abrigo da presente directiva.\n\nNo entanto, se a cobrança se revelar particularmente difícil, envolver um montante de despesas muito elevado ou estiver relacionada com a criminalidade organizada, a autoridade requerente e a autoridade requerida podem acordar em modalidades de reembolso específicas para esses casos.\n\n3. Não obstante o disposto no n.º 2, o Estado-Membro requerente continua a ser responsável, em relação ao Estado-Membro requerido, por todas as despesas suportadas e por todos os prejuízos sofridos em resultado de acções consideradas não fundadas quanto à substância do crédito ou à validade do título executivo e/ou de medidas cautelares emitido pela autoridade requerente."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "2230c1397d2a2137": {
+   "fragment_id": "DISPOSIÇÕES DE CARÁCTER GERAL APLICÁVEIS A TODOS OS TIPOS DE PEDIDOS DE ASSISTÊNCIA",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DE CARÁCTER GERAL APLICÁVEIS A TODOS OS TIPOS DE PEDIDOS DE ASSISTÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DE CARÁCTER GERAL APLICÁVEIS A TODOS OS TIPOS DE PEDIDOS DE ASSISTÊNCIA"
+  },
+  "5a67ebdd0bce5c72": {
+   "fragment_id": "Artigo 21.º — Formulários-tipo e meios de comunicação",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Formulários-tipo e meios de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Formulários-tipo e meios de comunicação\n\n1. Os pedidos de informações ao abrigo do n.º 1 do artigo 5.º, os pedidos de notificação ao abrigo do n.º 1 do artigo 8.º, os pedidos de cobrança ao abrigo do n.º 1 do artigo 10.º ou os pedidos de medidas cautelares ao abrigo do n.º 1 do artigo 16.º são enviados por via electrónica, através de um formulário-tipo, a menos que tal seja impraticável por razões técnicas. Se possível, estes formulários são utilizados igualmente para qualquer outra comunicação relativa ao pedido.\n\nO título executivo uniforme no Estado-Membro requerido, o documento relativo às medidas cautelares no Estado-Membro requerente, bem como os outros documentos a que se referem os artigos 12.º e 16.º são igualmente enviados por via electrónica, a menos que tal seja impraticável por razões técnicas.\n\nSe for caso disso, os formulários-tipo podem ser acompanhados de relatórios, declarações e qualquer outro documento, ou de cópias autenticadas ou extractos dos mesmos, que devem ser igualmente enviados por via electrónica, a menos que tal seja impraticável por razões técnicas.\n\nOs formulários-tipo e a comunicação por via electrónica podem ser igualmente utilizados para a troca de informações prevista no artigo 6.º.\n\n2. O disposto no n.º 1 não é aplicável às informações e documentos obtidos no âmbito da presença em serviços administrativos de outro Estado-Membro ou da participação em inquéritos administrativos noutro Estado-Membro nos termos do artigo 7.º.\n\n3. O facto de a comunicação não ser realizada por via electrónica ou através de formulários-tipo não compromete a validade das informações obtidas ou das medidas tomadas em resposta a um pedido de assistência."
+  },
+  "f4076be8129b38d7": {
+   "fragment_id": "Artigo 22.º — Regime linguístico",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Regime linguístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime linguístico\n\n1. Todos os pedidos de assistência, formulários-tipo de notificação e títulos executivos uniformes nos Estados-Membros requeridos são enviados na língua oficial ou numa das línguas oficiais do Estado-Membro requerido ou acompanhados de uma tradução para essa língua. O facto de determinadas partes desses documentos estarem redigidas numa língua diferente da língua oficial, ou de uma das línguas oficiais, do Estado-Membro requerido não compromete a validade dos mesmos nem a validade do processo, na medida em que essa outra língua seja uma das línguas acordadas entre os Estados-Membros em causa.\n\n2. Os documentos que são objecto de um pedido de notificação ao abrigo do artigo 8.º podem ser enviados à autoridade requerida numa língua oficial do Estado-Membro requerente.\n\n3. Quando um pedido for acompanhado de documentos diferentes daqueles a que se referem os n.^os^ 1 e 2, a autoridade requerida pode, se necessário, exigir da autoridade requerente uma tradução desses documentos para a língua oficial, ou uma das línguas oficiais, do Estado-Membro requerido, ou para qualquer outra língua bilateralmente acordada entre os Estados-Membros em causa."
+  },
+  "c6b5670755e61038": {
+   "fragment_id": "Artigo 23.º — Divulgação de informações e de documentos",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Divulgação de informações e de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Divulgação de informações e de documentos\n\n1. As informações comunicadas sob qualquer forma por força da presente directiva estão sujeitas ao segredo profissional e beneficiam da protecção concedida a informações da mesma natureza pela legislação nacional do Estado-Membro que as recebeu.\n\nTais informações podem ser utilizadas para efeitos da aplicação de medidas executórias ou cautelares respeitantes aos créditos abrangidos pela presente directiva. Poderão também ser utilizadas para liquidação e execução das contribuições obrigatórias para a segurança social.\n\n2. As pessoas devidamente acreditadas pela Autoridade de Acreditação de Segurança da Comissão Europeia apenas podem ter acesso a estas informações desde que tal seja necessário para o acompanhamento, manutenção e desenvolvimento da rede CCN.\n\n3. O Estado-Membro que presta as informações autoriza a sua utilização para fins que não estejam previstos no n.º 1, no Estado-Membro que recebe as informações se, ao abrigo da legislação do Estado-Membro que presta as informações, estas puderem ser utilizadas para fins semelhantes.\n\n4. Se a autoridade requerente ou a autoridade requerida considerar que as informações obtidas ao abrigo da presente directiva podem ser úteis a um terceiro Estado-Membro para os efeitos a que se refere o n.º 1, pode transmitir a este último essas informações, desde que essa transmissão seja efectuada nos termos das regras e procedimentos estabelecidos na presente directiva. Deve informar o Estado-Membro de origem das informações da sua intenção de partilhar essas informações com um terceiro Estado-Membro. O Estado-Membro de origem das informações pode opor-se a essa partilha de informações no prazo de dez dias úteis a contar da data de recepção da comunicação proveniente do Estado-Membro que pretende partilhar as informações.\n\n5. A autorização para utilizar informações ao abrigo do n.º 3 que tenham sido transmitidas ao abrigo do n.º 4 só pode ser concedida pelo Estado-Membro do qual emanam as informações.\n\n6. As informações comunicadas sob qualquer forma por força da presente directiva podem ser invocadas ou utilizadas como prova por todas as autoridades do Estado-Membro que recebe as informações, do mesmo modo que as informações semelhantes obtidas no território desse Estado."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "81954c8713b21ff8": {
+   "fragment_id": "Artigo 24.º — Aplicação de outros acordos em matéria de assistência",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Aplicação de outros acordos em matéria de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Aplicação de outros acordos em matéria de assistência\n\n1. O disposto na presente directiva não prejudica o cumprimento de quaisquer obrigações em matéria de prestação de uma assistência mais ampla decorrentes de acordos ou convénios bilaterais ou multilaterais, incluindo no domínio da notificação dos actos judiciais ou extrajudiciais.\n\n2. Quando os Estados-Membros celebrarem acordos ou convénios bilaterais ou multilaterais sobre questões abrangidas pela presente directiva, devem informar sem demora a Comissão desse facto, salvo se esses acordos ou convénios visarem a resolução de casos específicos. Por seu lado, a Comissão informa os demais Estados-Membros.\n\n3. Ao prestarem uma assistência mútua mais ampla ao abrigo de qualquer acordo ou convénio bilateral ou multilateral, os Estados-Membros podem utilizar a rede de comunicações electrónicas e os formulários-tipo adoptados para a execução da presente directiva."
+  },
+  "c619e582cb0b7b11": {
+   "fragment_id": "Artigo 25.º — Comitologia",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Comitologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comitologia\n\n1. A Comissão é assistida pelo Comité de Cobrança.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no artigo 5.º, n.º 6, da Decisão 1999/468/CE é de três meses."
+  },
+  "a0f7f1ad973dc504": {
+   "fragment_id": "Artigo 26.º — Disposições de execução",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Disposições de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Disposições de execução\n\nA Comissão adopta, nos termos do n.º 2 do artigo 25.º, as disposições de execução dos n.^os^ 2, 3 e 4 do artigo 4.º, do n.º 1 do artigo 5.º, dos artigos 8.º e 10.º, do n.º 1 do artigo 12.º, dos n.^os^ 2, 3, 4 e 5 do artigo 13.º, do artigo 15.º, do n.º 1 do artigo 16.º e do n.º 1 do artigo 21.º.\n\nEstas disposições de execução incidem, pelo menos, nos seguintes elementos:\n\na) As disposições práticas que regem a organização dos contactos entre os serviços centrais de ligação, os outros serviços de ligação e os departamentos de ligação, a que se referem os n.^os^ 2, 3 e 4 do artigo 4.º, dos diferentes Estados-Membros, bem como os contactos com a Comissão;\n\nb) Os meios através dos quais podem ser transmitidas as comunicações entre autoridades;\n\nc) O formato e outras especificações dos formulários-tipo a utilizar para efeitos do n.º 1 do artigo 5.º, do artigo 8.º, do n.º 1 do artigo 10.º, do n.º 1 do artigo 12.º e do n.º 1 do artigo 16.º;\n\nd) A conversão dos montantes a cobrar e a transferência dos montantes cobrados."
+  },
+  "b1db8e233de6c6bf": {
+   "fragment_id": "Artigo 27.º — Comunicação de informações",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Comunicação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Comunicação de informações\n\n1. Cada Estado-Membro informa anualmente a Comissão, até 31 de Março, dos seguintes elementos:\n\na) Número de pedidos de informações, de notificação, de cobrança ou de medidas cautelares enviados a cada Estado-Membro requerido e recebidos de cada Estado-Membro requerente numa base anual;\n\nb) Montante dos créditos objecto de um pedido de assistência à cobrança e montantes cobrados.\n\n2. Os Estados-Membros podem ainda fornecer qualquer outra informação que possa contribuir para avaliar a assistência mútua prestada ao abrigo da presente directiva.\n\n3. De cinco em cinco anos, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre o funcionamento do regime estabelecido pela presente directiva."
+  },
+  "0c70a1f5352b5d84": {
+   "fragment_id": "Artigo 28.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Transposição\n\n1. Os Estados-Membros devem adoptar e publicar, até 31 de Dezembro de 2011, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva e informar imediatamente a Comissão desse facto.\n\nOs Estados-Membros devem aplicar essas disposições a partir de 1 de Janeiro de 2012.\n\nQuando os Estados-Membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adoptarem nas matérias reguladas pela presente directiva."
+  },
+  "43fb9142759faebd": {
+   "fragment_id": "Artigo 29.º — Revogação da Directiva 2008/55/CE",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Revogação da Directiva 2008/55/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Revogação da Directiva 2008/55/CE\n\nA Directiva 2008/55/CE é revogada com efeitos a partir de 1 de Janeiro de 2012.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva."
+  },
+  "eab3b0ae1aace9ca": {
+   "fragment_id": "Artigo 30.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "cbdc8dab6de0aaee": {
+   "fragment_id": "Artigo 31.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 16 de Março de 2010.\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**E. SALGADO**\n\n---"
+  },
+  "68f783a2e721f93f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/9d591360-c832-4ca7-b9b9-fcaae395ef00.0018.02/DOC_1#ntc1-L_2010084PT.01000101-E0001) Parecer de 10 de Fevereiro de 2010 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/9d591360-c832-4ca7-b9b9-fcaae395ef00.0018.02/DOC_1#ntc2-L_2010084PT.01000101-E0002) Parecer de 16 de Julho de 2009 (ainda não publicado no Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/9d591360-c832-4ca7-b9b9-fcaae395ef00.0018.02/DOC_1#ntc3-L_2010084PT.01000101-E0003) [JO L 73 de 19.3.1976, p. 18](http://publications.europa.eu/resource/oj/JOL_1976_073_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/9d591360-c832-4ca7-b9b9-fcaae395ef00.0018.02/DOC_1#ntc4-L_2010084PT.01000101-E0004) [JO L 150 de 10.6.2008, p. 28](http://publications.europa.eu/resource/oj/JOL_2008_150_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/9d591360-c832-4ca7-b9b9-fcaae395ef00.0018.02/DOC_1#ntc5-L_2010084PT.01000101-E0005) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC)."
+  }
+ }
+}

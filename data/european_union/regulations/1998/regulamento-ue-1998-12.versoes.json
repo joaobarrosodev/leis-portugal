@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998R0012:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998R0012-20111204",
+ "dre_path": null,
+ "source_lastmod": "2011-12-04",
+ "versions": [
+  {
+   "date": "1998-01-08",
+   "future": false,
+   "celex": "31998R0012",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1aa1d8accf9aad51",
+    "54a66f2ee7b626a9",
+    "288037d8e698027f",
+    "69f21d08b766c6bd",
+    "6d9bd34553c48a3e",
+    "c6cdc87cd8b74452",
+    "2518c62c3a206a27",
+    "53c3115412b6094b",
+    "016713f01ab39e28",
+    "34a1fd39929a44a9",
+    "993c6a7b7ae9c08a",
+    "c7701a9889da53e5",
+    "65d4b50c2b40ebe7",
+    "8963c03a2527fb5a",
+    "2d1f5add5d696090",
+    "f24789a68d3a9988"
+   ]
+  }
+ ],
+ "fragments": {
+  "1aa1d8accf9aad51": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 12/98 do Conselho de 11 de Dezembro de 1997 que fixa as condições em que os transportadores não residentes podem efectuar serviços de transporte rodoviário de passageiros num Estado-membro** *Jornal Oficial nº L 004 de 08/01/1998 p. 0010 - 0014*\n\nREGULAMENTO (CE) Nº 12/98 DO CONSELHO de 11 de Dezembro de 1997 que fixa as condições em que os transportadores não residentes podem efectuar serviços de transporte rodoviário de passageiros num Estado-membro\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o seu artigo 75º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do artigo 189ºC do Tratado (3),\n\n(1) Considerando que o Regulamento (CEE) nº 2454/92 do Conselho, de 23 de Julho de 1992, que fixa as condições em que as transportadoras não residentes podem efectuar serviços de transporte rodoviário de passageiros num Estado-membro (4), foi anulado pelo acórdão de 1 de Junho de 1994 (5) do Tribunal de Justiça;\n\n(2) Considerando que, nos termos do nº 1, alínea b), do artigo 75º do Tratado, a criação de uma política comum de transportes implica, inter alia, o estabelecimento das condições em que os transportadores não residentes podem efectuar serviços de transporte num Estado-membro;\n\n(3) Considerando que a referida disposição implica a supressão de todas as restrições relativamente ao prestador dos serviços devido à sua nacionalidade ou ao facto de estar estabelecido num Estado-membro diferente daquele em que o serviço deve ser prestado;\n\n(4) Considerando que se deve submeter estes prestadores de serviços a regimes comparáveis, por forma a limitar desigualdades nas condições de concorrência devido à nacionalidade e ao país de estabelecimento e favorecer desse modo a aproximação progressiva das legislações nacionais;\n\n(5) Considerando que as definições dos diferentes serviços de transporte de autocarro devem ser as mesmas que as adoptadas no âmbito dos transportes internacionais;\n\n(6) Considerando que se deve assegurar o acesso dos transportadores não residentes a certas modalidades de serviços de transportes de autocarro tendo em conta as características especiais de cada modalidade de serviço;\n\n(7) Considerando que é necessário determinar as disposições aplicáveis aos transportes de cabotagem;\n\n(8) Considerando que as disposições da Directiva 96/71/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 1996, relativa ao destacamento de trabalhadores no âmbito de uma prestação de serviços (6), se aplicam no caso em que, para a prestação de serviços regulares especializados, os transportadores destacam, a partir do Estado-membro em que trabalham habitualmente, trabalhadores que com eles mantêm uma relação de trabalho;\n\n(9) Considerando que, no que se refere aos serviços regulares, se deve admitir à cabotagem, em certas condições, nomeadamente a aplicação da legislação do Estado-membro de acolhimento, unicamente os serviços regulares executados durante um serviço regular internacional, com exclusão dos serviços urbanos e suburbanos;\n\n(10) Considerando que é necessário adoptar disposições que permitam intervir no mercado dos transportes em causa quando se verifique uma perturbação grave;\n\n(11) Considerando que deve ser criado um comité consultivo encarregado de assistir a Comissão na elaboração de documentos relativos à execução dos transportes de cabotagem na forma de serviços ocasionais e de aconselhar a Comissão em matéria de medidas de salvaguarda;\n\n(12) Considerando que é conveniente que os Estados-membros se entreajudem com vista à boa aplicação do presente regulamento, nomeadamente em matéria de sanções aplicáveis em caso de infracção;\n\n(13) Considerando que compete aos Estados-membros tomarem as medidas necessárias para dar execução ao presente regulamento;\n\n(14) Considerando que é conveniente acompanhar a aplicação do presente regulamento com base num relatório a apresentar pela Comissão;\n\n(15) Considerando que o referido acórdão do Tribunal de Justiça, que anulou o Regulamento (CEE) nº 2454/92, mantém os efeitos do regulamento até que o Conselho adopte uma nova regulamentação sobre a matéria; que o presente regulamento só será aplicado dezoito meses após a sua entrada em vigor; que, por conseguinte, se deve considerar que os efeitos do regulamento anulado se mantêm até à aplicação plena do presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "54a66f2ee7b626a9": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nQualquer transportador rodoviário de passageiros por conta de outrem, titular da licença comunitária prevista no artigo 3ºA do Regulamento (CEE) nº 684/92 do Conselho, de 16 de Março de 1992, que estabelece regras comuns para os transportes internacionais de passageiros em autocarro (7), fica autorizado, de acordo com as condições fixadas pelo presente regulamento e sem discriminação devido à nacionalidade ou ao local de estabelecimento, a efectuar, a título temporário, transportes nacionais rodoviários de passageiros por conta de outrem noutro Estado-membro, a seguir designado «Estado-membro de acolhimento», sem aí dispor de uma sede ou de outro estabelecimento.\n\nEsses transportes nacionais são a seguir designados «transportes de cabotagem»."
+  },
+  "288037d8e698027f": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Serviços regulares»: os serviços que asseguram o transporte de passageiros com uma frequência e num trajecto determinados e em que os passageiros podem ser embarcados e desembarcados em paragens previamente fixadas. Os serviços regulares são acessíveis a toda a gente, apesar da eventual obrigação de reservar. O carácter regular do serviço não é afectado por as condições de exploração do serviço serem adaptadas;\n\n2. «Serviços regulares especializados»: os serviços regulares que asseguram o transporte de determinadas categorias de passageiros, com exclusão de outros passageiros, com uma frequência e num trajecto determinados e em que os passageiros podem ser embarcados e desembarcados em paragens previamente fixadas.\n\nOs serviços regulares especializados incluem, nomeadamente:\n\na) O transporte de trabalhadores entre o domicílio e o respectivo local de trabalho;\n\nb) O transporte de estudantes entre o domicílio e o respectivo estabelecimento de ensino;\n\nc) O transporte de militares entre o domicílio e o local de aquartelamento, bem como o das respectivas famílias.\n\nO carácter regular dos serviços especializados não é afectado por a organização do transporte ser adaptada às necessidades variáveis dos utentes;\n\n3. «Serviços ocasionais»: os serviços que não correspondem à definição de serviços regulares, incluindo os serviços regulares especializados, e que se caracterizam, nomeadamente, pelo facto de assegurarem o transporte de grupos constituídos por iniciativa de um comitente ou do próprio transportador. Estes serviços não perdem o carácter ocasional por serem efectuados com uma certa frequência;\n\n4. «Veículos»: os veículos automóveis que, pelo seu tipo de construção e equipamento, estão aptos a transportar mais de nove pessoas, incluindo o condutor, e se destinam a esse efeito."
+  },
+  "69f21d08b766c6bd": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nSão autorizados transportes de cabotagem para os seguintes serviços:\n\n1. Serviços regulares especializados, desde que cobertos por um contrato celebrado entre o organizador e o transportador;\n\n2. Serviços ocasionais;\n\n3. Serviços regulares, desde que sejam efectuados por ocasião de um serviço regular internacional, nos termos do disposto no Regulamento (CEE) nº 684/92, por um transportador não residente no Estado-membro de acolhimento.\n\nO transporte de cabotagem não pode ser executado independentemente desse serviço internacional.\n\nOs serviços urbanos e suburbanos são excluídos do âmbito de aplicação do presente ponto.\n\nEntende-se por «serviços urbanos e suburbanos» os serviços de transporte que satisfazem as necessidades de um centro urbano ou de uma aglomeração, bem como as necessidades do transporte entre esse centro ou esta aglomeração e os arredores."
+  },
+  "6d9bd34553c48a3e": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. A realização dos transportes de cabotagem previstos no artigo 3º está sujeita, sob reserva da aplicação da regulamentação comunitária, às disposições legislativas, regulamentares e administrativas em vigor no Estado-membro de acolhimento nos seguintes domínios:\n\na) Preço e condições do contrato de transporte;\n\nb) Massas e dimensões dos veículos rodoviários. Os valores das massas e dimensões podem eventualmente ultrapassar os aplicáveis no Estado-membro de estabelecimento do transportador, mas não podem, em caso algum, ultrapassar os valores técnicos constantes do certificado de conformidade;\n\nc) Requisitos relativos ao transporte de determinadas categorias de passageiros, nomeadamente estudantes, crianças e pessoas com mobilidade reduzida;\n\nd) Períodos de condução e de repouso;\n\ne) Imposto sobre o valor acrescentado (IVA) aplicável aos serviços de transporte. Neste domínio, a alínea a) do nº 1 do artigo 21º da Directiva 77/388/CEE do Conselho, de 17 de Maio de 1977, relativa à harmonização das legislações dos Estados-membros respeitantes aos impostos sobre o volume de negócios - sistema comum do imposto sobre o valor acrescentado: matéria colectável uniforme (8), aplica-se às prestações referidas no artigo 1º do presente regulamento.\n\n2. A realização de transportes de cabotagem sob forma dos serviços previstos no ponto 3 do artigo 3º está sujeita, sob reserva da aplicação da regulamentação comunitária, às disposições legislativas, regulamentares e administrativas em vigor no Estado-membro de acolhimento respeitantes às autorizações, aos processos de concursos públicos, aos trajectos a assegurar, à regularidade, à continuidade, à frequência e aos itinerários.\n\n3. As normas técnicas de construção e equipamento de veículos a que devem obedecer os veículos utilizados nos transportes de cabotagem são as impostas aos veículos autorizados a circular nos transportes internacionais.\n\n4. As disposições nacionais referidas nos nºs 1 e 2 devem ser aplicadas pelos Estados-membros aos transportadores não residentes nas mesmas condições que as impostas aos seus próprios nacionais, a fim de impedir, de modo eficaz, qualquer discriminação, manifesta ou dissimulada, com base na nacionalidade ou no local de estabelecimento.\n\n5. Se, tendo em conta a experiência adquirida, se verificar a necessidade de alterar a lista dos domínios das disposições do Estado-membro de acolhimento referidos no nº 1, o Conselho deliberará por maioria qualificada, sob proposta da Comissão."
+  },
+  "c6cdc87cd8b74452": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA licença comunitária, ou uma cópia autenticada desta, deve seguir a bordo do veículo e ser apresentada sempre que solicitada pelos agentes responsáveis pelo controlo."
+  },
+  "2518c62c3a206a27": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os transportes de cabotagem sob forma de serviços ocasionais são efectuados ao abrigo de um documento de controlo, folha de itinerário, que deve seguir a bordo do veículo e ser apresentado sempre que solicitado pelos agentes responsáveis pelo controlo.\n\n2. A folha de itinerário, cujo modelo deve ser estabelecido pela Comissão nos termos do procedimento previsto no artigo 8º, deve incluir os seguintes elementos de informação:\n\na) Pontos de partida e de destino do serviço;\n\nb) Datas de início e de fim do serviço.\n\n3. As folhas de itinerário são emitidas em cadernetas autenticadas pela autoridade ou organismo competente do Estado-membro de estabelecimento. O modelo da caderneta de folhas de itinerário deve ser estabelecido pela Comissão nos termos do procedimento previsto no artigo 8º\n\n4. No caso dos serviços regulares especializados, é considerado documento de controlo o contrato celebrado entre o transportador e o organizador do transporte ou uma cópia autenticada do mesmo.\n\nTodavia, as folhas de itinerário devem ser preenchidas sob a forma de recapitulação mensal.\n\n5. As folhas de itinerário utilizadas são reenviadas à autoridade ou organismo competentes do Estado-membro de estabelecimento segundo modalidades a determinar por essa autoridade ou organismo."
+  },
+  "53c3115412b6094b": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. No fim de cada trimestre e num prazo de três meses, que a Comissão pode reduzir para um mês no caso referido no artigo 9º, a autoridade ou organismo competente de cada Estado-membro deve comunicar à Comissão os dados relativos às operações de cabotagem sob forma de serviços regulares, especializados e ocasionais que tenham sido efectuadas nesse trimestre pelos transportadores residentes.\n\nEssa comunicação deve ser efectuada por meio de um quadro elaborado em conformidade com o modelo estabelecido pela Comissão nos termos do procedimento previsto no artigo 8º\n\n2. As autoridades competentes do Estado-membro de acolhimento devem comunicar anualmente à Comissão o levantamento estatístico do número de autorizações de serviços de cabotagem executados sob forma dos serviços regulares referidos no ponto 3 dos artigo 3º\n\n3. A Comissão deve comunicar, logo que possível, aos Estados-membros os quadros recapitulativos elaborados com base nos dados que lhe tiverem sido transmitidos nos termos do nº 1."
+  },
+  "016713f01ab39e28": {
+   "fragment_id": "Artigo 8º — Sempre que se faça referência ao presente artigo, a Comissão será assistida pelo comité consultivo referido no artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 8º — Sempre que se faça referência ao presente artigo, a Comissão será assistida pelo comité consultivo referido no artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Sempre que se faça referência ao presente artigo, a Comissão será assistida pelo comité consultivo referido no artigo 10º\n\nO representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa, se necessário procedendo a uma votação.\n\nEsse parecer deve ser exarado em acta; além disso, cada Estado-membro tem o direito de solicitar que a sua posição conste da acta.\n\nA Comissão tomará na melhor conta o parecer emitido pelo comité. O comité será por ela informado do modo como esse parecer foi tomado em consideração."
+  },
+  "34a1fd39929a44a9": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Em caso de perturbação grave do mercado de transportes nacionais de uma determinada zona geográfica devida à actividade de cabotagem ou agravada pela mesma, qualquer Estado-membro pode recorrer à Comissão com vista à adopção de medidas de protecção, comunicando-lhe as informações necessárias e as medidas que prevê tomar em relação aos transportadores residentes.\n\n2. Para efeitos do nº 1, entende-se por:\n\n- «perturbação grave do mercado de transportes nacionais de uma determinada zona geográfica» o aparecimento nesse mercado de problemas dele específicos susceptíveis de provocar um excedente grave, potencialmente duradouro, da oferta em relação à procura, que represente uma ameaça para o equilíbrio financeiro e a sobrevivência de grande número de empresas de transporte rodoviário de passageiros,\n\n- «zona geográfica» uma zona que engloba uma parte ou a totalidade do território de um Estado-membro ou que se estende a parte ou à totalidade do território de outros Estados-membros.\n\n3. A Comissão analisa a situação e, após consulta ao comité consultivo referido no artigo 10º, decide, no prazo de um mês após a recepção do pedido de Estado-membro, se deve ou não tomar medidas de protecção, adoptando-as em caso afirmativo.\n\nAs medidas tomadas em conformidade com o presente artigo vigoram por um período não superior a seis meses, prorrogável uma vez por um período equivalente.\n\nA Comissão deve notificar imediatamente os Estados-membros e o Conselho de qualquer decisão tomada ao abrigo do presente número.\n\n4. Caso a Comissão decida tomar medidas de protecção relativas a um ou vários Estados-membros, as autoridades competentes dos Estados-membros em questão devem tomar medidas de alcance equivalente em relação aos transportadores residentes e do facto informar a Comissão.\n\nEstas medidas devem ser aplicadas o mais tardar a partir da mesma data que as medidas de protecção decididas pela Comissão.\n\n5. Cada Estado-membro pode submeter à apreciação do Conselho a decisão da Comissão referida no nº 3, no prazo de 30 dias a contar da notificação da mesma.\n\nO Conselho, deliberando por maioria qualificada, pode adoptar uma decisão diferente no prazo de 30 dias a contar da data da recepção do pedido do Estado-membro ou, no caso de o assunto ter sido submetido por vários Estados-membros, a contar da data da recepção do primeiro pedido.\n\nSão aplicáveis à decisão do Conselho os períodos de vigência previstos no segundo parágrafo do nº 3.\n\nAs autoridades competentes dos Estados-membros em questão devem tomar medidas de alcance equivalente em relação aos transportadores residentes e informar do facto a Comissão.\n\nSe o Conselho não tomar uma decisão no prazo referido no segundo parágrafo, a decisão da Comissão tornar-se-á definitiva.\n\n6. Se considerar necessária a prorrogação das medidas referidas no nº 3, a Comissão deve apresentar uma proposta ao Conselho, que deliberará por maioria qualificada."
+  },
+  "993c6a7b7ae9c08a": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. A Comissão será assistida por um comité consultivo, constituído por representantes dos Estados-membros e presidido por um representante da Comissão.\n\nO comité, agindo nos termos do procedimento previsto no artigo 8º, assiste a Comissão na elaboração dos modelos de folha de itinerário, de caderneta de folhas de itenerário e de quadro referidos nos artigos 6º e 7º\n\n2. Além disso, o comité aconselha a Comissão sobre:\n\n- os pedidos apresentados pelos Estados-membros ao abrigo do nº 1 do artigo 9º,\n\n- as medidas destinadas a resolver a perturbação grave do mercado referidas no artigo 9º, especialmente sobre a sua aplicação prática.\n\n3. O comité elaborará o seu regulamento interno."
+  },
+  "c7701a9889da53e5": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Os Estados-membros devem prestar-se assistência mútua com vista à aplicação do presente regulamento.\n\n2. Sem prejuízo das acções penais que possam ser intentadas, o Estado-membro de acolhimento pode aplicar sanções contra qualquer transportador não residente que tiver cometido no seu território, por ocasião de um transporte de cabotagem, infracções ao presente regulamento ou à regulamentação comunitária e nacional em matéria de transportes.\n\nEstas sanções são aplicadas numa base não discriminatória e em conformidade com o nº 3.\n\n3. As sanções referidas no nº 2 podem consistir, nomeadamente, numa advertência ou, em caso de infracção grave ou de infracções menores repetidas, numa proibição temporária dos transportes de cabotagem no território do Estado-membro de acolhimento em que foi cometida a infracção.\n\nEm caso de apresentação de uma licença comunitária, autorização ou cópia autenticada falsificadas, os documentos falsificados são imediatamente apreendidos e, se for caso disso, enviados logo que possível às autoridades competentes do Estado-membro de estabelecimento do transportador.\n\n4. As autoridades competentes do Estado-membro de acolhimento devem notificar as autoridades competentes do Estado-membro de estabelecimento das infracções verificadas e das sanções eventualmente adoptadas contra o transportador, podendo, em caso de infracção grave ou de infracções menores repetidas, fazer acompanhar a referida notificação de um pedido de sanção.\n\nEm caso de infracção grave ou de infracções menores repetidas, as autoridades competentes do Estado-membro de estabelecimento devem avaliar a conveniência de aplicar uma sanção adequada ao transportador em causa; essas autoridades devem ter em conta a sanção eventualmente aplicada no Estado-membro de acolhimento e garantir que as sanções aplicadas ao transportador são, no seu conjunto, proporcionais à infracção ou infracções que as originaram.\n\nA sanção aplicada pelas autoridades competentes do Estado-membro de estabelecimento, após consulta às autoridades competentes do Estado-membro de acolhimento, pode ir até à retirada da autorização de exercer a profissão de transportador rodoviário de passageiros.\n\nAs autoridades competentes do Estado-membro de estabelecimento podem igualmente, nos termos de legislação interna, citar o transportador em causa perante uma instância nacional competente.\n\nEssas autoridades devem informar as autoridades competentes do Estado-membro de acolhimento das decisões adoptadas em conformidade com o presente parágrafo."
+  },
+  "65d4b50c2b40ebe7": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nOs Estados-membros devem garantir aos transportadores a possibilidade de interporem recurso jurisdicional contra as sanções de natureza administrativa que lhes tenham sido aplicadas."
+  },
+  "8963c03a2527fb5a": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. A Comissão deve apresentar ao Parlamento Europeu e ao Conselho, até 30 de Junho de 1998, um relatório sobre os resultados da aplicação do Regulamento (CEE) nº 2454/92 e sobre o funcionamento dos «serviços regulares» nos Estados-membros.\n\n2. A Comissão deve apresentar ao Parlamento Europeu e ao Conselho, até 31 de Dezembro de 1999, um relatório sobre a aplicação do presente regulamento, nomeadamente sobre a incidência dos transportes de cabotagem no mercado dos transportes nacionais."
+  },
+  "2d1f5add5d696090": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nOs Estados-membros porão em vigor, em tempo útil, as disposições legislativas, regulamentares e administrativas relativas à execução do presente regulamento e comunicá-las-ão à Comissão."
+  },
+  "f24789a68d3a9988": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 11 de Junho de 1999.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 11 de Dezembro de 1997.\n\nPelo Conselho\n\nO Presidente\n\nM. DELVAUX-STEHRES\n\n(1) JO C 60 de 29. 2. 1996, p. 10, e JO C 124 de 21. 4. 1994, p. 73.\n\n(2) JO C 30 de 30. 1. 1997, p. 40.\n\n(3) Parecer do Parlamento Europeu de 28 de Novembro de 1996 (JO C 380 de 16. 12. 1996, p. 35), posição comum do Conselho de 14 de Abril de 1997 (JO C 164 de 30. 5. 1997, p. 17) e decisão do Parlamento Europeu de 16 de Julho de 1997 (JO C 286 de 22. 9. 1997, p. 84).\n\n(4) JO L 251 de 29. 8. 1992, p. 1.\n\n(5) Acórdão de 1 de Junho de 1994 no processo C-388/92, Parlamento Europeu contra Conselho (Colectânea 1994, p. I-2081).\n\n(6) JO L 18 de 21. 1. 1997, p. 1.\n\n(7) JO L 74 de 20. 3. 1992, p. 1. Regulamento alterado pelo Regulamento (CE) nº 11/98 (ver página 1 do presente Jornal Oficial).\n\n(8) JO L 145 de 13. 6. 1977, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 96/95/CE (JO L 338 de 28. 12. 1996, p. 89)."
+  }
+ }
+}

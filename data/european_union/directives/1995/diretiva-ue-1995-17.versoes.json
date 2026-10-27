@@ -1,0 +1,362 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995L0017:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0017-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1995-06-23",
+   "future": false,
+   "celex": "31995L0017",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944083cb88ef729b",
+    "f64d0d3e2948e0ad",
+    "51ea203a07eca644",
+    "9a5826fa5a000c87",
+    "0df55d9ba7e3ad85",
+    "aa766079388f7023",
+    "c642eb1d91d9a12b",
+    "4ba308abc2e6b1de",
+    "1f74c5bfb5ccb788",
+    "29de528140098c42",
+    "93ce693b3bd8db10",
+    "d91961e1a367b34c",
+    "dedf44d6d5aa133d",
+    "19a7ac73f44429eb",
+    "b2b07be181f3a8ff"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01995L0017-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0081:por",
+     "title": "DIRECTIVA 2006/81/CE DA COMISSÃO de 23 de Outubro de 2006",
+     "published": null,
+     "celex": "32006L0081"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita ANEXO",
+    "Adita MODALIDADES DE CONCESSÃO DO NÚMERO DE REGISTO PREVISTO NO ARTIGO 4.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime ANEXO — MODALIDADES DE CONCESSÃO DO NÚMERO DE REGISTO PREVISTO NO ARTIGO 4º"
+   ],
+   "fragments": [
+    "53b87dcc7f83304e",
+    "5cfd0ca6a096582f",
+    "bb22f6e37cc3436c",
+    "9628cef2b1b14f62",
+    "6ea27bad980c8eb7",
+    "0f6834df1c384887",
+    "e6600b83e4df9718",
+    "877e2e0034f32b91",
+    "73ffa1203931abeb",
+    "cb51aacbb64eb25f",
+    "e9d00dcd32ec3c91",
+    "8e0a5cb329f13ab1",
+    "2bd51106e2d34105",
+    "7d7e6f9f8da274ba",
+    "10220b9774fa9034",
+    "108451f5c012c472",
+    "589f8baae364bfbf"
+   ]
+  }
+ ],
+ "fragments": {
+  "944083cb88ef729b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 95/17/CE da Comissão, de 19 de Junho de 1995, que estabelece as normas de execução da Directiva 76/768/CEE do Conselho, no que diz respeito à não inscrição de um ou de vários ingredientes na lista prevista para a rotulagem dos produtos cosméticos** *Jornal Oficial nº L 140 de 23/06/1995 p. 0026 - 0029*\n\nDIRECTIVA 95/17/CE DA COMISSÃO de 19 de Junho de 1995 que estabelece as normas de execução da Directiva 76/768/CEE do Conselho, no que diz respeito à não inscrição de um ou de vários ingredientes na lista prevista para a rotulagem dos produtos cosméticos (Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-membros respeitantes aos produtos cosméticos (1), com a última redacção que lhe foi dada pela Directiva 94/32/CE da Comissão (2), e, nomeadamente, o nº 1, alínea g), do seu artigo 6º,\n\nConsiderando que é necessário definir os critérios e as condições em que um fabricante pode solicitar, por razões de confidencialidade comercial, a não inscrição de um ou de vários ingredientes na lista dos ingredientes que deve constar, pelo menos, na embalagem dos produtos cosméticos ou, em caso de impossibilidade prática, numa literatura, rótulo, cinta ou cartão juntos;\n\nConsiderando que a confidencialidade não pode, no entanto, prejudicar as outras obrigações decorrentes da Directiva 76/768/CEE e as responsabilidades decorrentes, em especial dos artigos relativos à segurança do produto cosmético, dos anexos e das disposições respeitantes às informações necessárias a um tratamento médico adequado e ao processo a que as autoridades nacionais de controlo têm que recorrer;\n\nConsiderando que a confidencialidade não pode prejudicar a segurança dos consumidores;\n\nConsiderando que o pedido de confidencialidade deve ser apresentado no Estado-membro do local de fabrico ou de primeira importação para o mercado comunitário à disposição do qual devem ser igualmente colocadas, para fins de controlo, as informações referidas no artigo 7ºA da Directiva 76/768/CEE, conforme alterado pela Directiva 93/35/CEE (3);\n\nConsiderando que, para ser devidamente apreciado e controlado, o pedido deve conter todos os elementos necessários à identificação dos requerentes, à identificação e à avaliação da segurança para a saúde humana do ingrediente tal como utilizado no(s) produto(s) cosmético(s), à utilização previsível do ingrediente em causa, bem como os motivos que possam justificar a confidencialidade e o(s) nome(s) do ou dos produtos que contenham o ingrediente;\n\nConsiderando que, por razões económicas e de respeito dos direitos da defesa, importa que a autoridade competente informe o requerente, num prazo breve que não exceda, salvo por motivos excepcionais, quatro meses, da decisão sobre a pretensão apresentada e que qualquer indeferimento do pedido de confidencialidade deve ser devidamente fundamentado e as possibilidades de recurso e respectivos prazos claramente indicados;\n\nConsiderando que, por razões de controlo e de transparência, importa que a autoridade competente atribua um número de registo a todo e qualquer ingrediente relativamente ao qual defira um pedido de confidencialidade e que o referido número substitua o ingrediente na lista dos ingredientes referida no nº 1, alínea g), do artigo 6º da Directiva 76/768/CEE;\n\nConsiderando que quaisquer modificações das informações contidas no pedido inicial devem ser comunicadas pelo requerente à autoridade competente, a qual pode revogar a permissão de confidencialidade concedida, tendo em conta essas modificações ou se novos elementos se impuserem por razões imperativas de saúde pública;\n\nConsiderando que a duração do benefício da confidencialidade não deve ultrapassar cinco anos sem prejuízo de uma prorrogação excepcional por um período máximo de três anos;\n\nConsiderando que, por razões do controlo da segurança dos produtos e para o bom funcionamento da directiva, importa que a Comissão e os outros Estados-membros sejam suficientemente informados das decisões tomadas pela autoridade competente, por um lado, e, por outro, que estas decisões sejam, salvo contestação excepcional, reconhecidas em todo o território da Comunidade;\n\nConsiderando que as medidas previstas pela presente directiva estão em conformidade com o parecer do Comité para a adaptação ao progresso técnico das directivas que visam a eliminação de entraves técnicos ao comércio no sector dos produtos cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f64d0d3e2948e0ad": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente directiva é aplicável sem prejuízo das outras obrigações decorrentes da Directiva 76/768/CEE e das responsabilidades daí decorrentes e em especial dos seus artigos 2º, 4º, 5º, 7º, nº 3, e 7ºA."
+  },
+  "51ea203a07eca644": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nO fabricante, o seu mandatário ou a pessoa por conta de quem um produto cosmético é fabricado ou o responsável pela colocação no mercado de um produto cosmético importado que, por razões de segredo comercial, deseje a não inscrição de um ou de vários ingredientes de um produto cosmético na lista referida no nº 1, alínea g), do artigo 6º da Directiva 76/768/CEE apresentará para o efeito um pedido à autoridade competente referida no artigo 10º da presente directiva do Estado-membro do local de fabrico ou da primeira importação antes da colocação do produto no mercado comunitário."
+  },
+  "9a5826fa5a000c87": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nO pedido referido no artigo 2º deve mencionar os seguintes elementos:\n\na) Nome ou firma e endereço ou sede social do requerente;\n\nb) Uma identificação precisa do ingrediente para o qual é requerida a confidencialidade, a saber:\n\n- números CAS, EINECS e colour index, denominação química, denominação IUPAC, denominação Inci (1), denominação da farmacopeia europeia, denominação comum internacional da OMS e denominação da nomenclatura comum prevista no nº 2 do artigo 7º da Directiva 76/768/CEE, caso existam,\n\n- a denominação Elincs e o número oficial que lhe foi atribuído em caso de notificação com base na Directiva 67/548/CEE do Conselho (2), bem como a indicação do deferimento ou indeferimento de um pedido de confidencialidade com base no artigo 19º da mesma directiva,\n\n- se os nomes e os números referidos no primeiro e no segundo travessões não existirem - por exemplo, quando se trata de alguns ingredientes de origem natural -, o nome do material de base, o nome da parte da planta ou do animal utilizado, os nomes dos componentes do ingrediente, tais como solventes ou conservantes;\n\nc) A avaliação da segurança do ingrediente, para a saúde humana tal como foi utilizado no(s) produto(s) acabado(s), tomando em consideração o perfil toxicológico, a estrutura química e o nível de exposição do ingrediente de acordo com as condições especificadas no nº 1, alíneas d) e e), e nº 2 do artigo 7ºA da Directiva 76/768/CEE;\n\nd) A utilização previsível do ingrediente e em especial as diferentes categorias de produtos em que será utilizado;\n\ne) Uma exposição pormenorizada dos motivos, devidamente documentada, pelos quais a confidencialidade é excepcionalmente requerida, por exemplo:\n\n- o facto de a identidade do ingrediente ou a sua função no produto cosmético a comercializar não estar descrita na literatura e ser desconhecido do estado da arte,\n\n- o facto de a informação ainda não ser do domínio público, embora tenha sido solicitado o registo da patente para o ingrediente ou a sua utilização,\n\n- o facto de, se for conhecida a informação, ela ser facilmente reproduzível, com prejuízo para o requerente;\n\nf) Caso seja conhecido, o nome de cada produto que conterá o ingrediente e, se se previr a utilização de nomes diferentes no mercado comunitário, indicações precisas sobre cada um deles.\n\nSe o nome do produto ainda não for conhecido, poderá ser comunicado ulteriormente, sendo, no entanto, essa comunicação obrigatoriamente feita 15 dias antes da colocação no mercado.\n\nSe o ingrediente for utilizado em vários produtos, basta um único pedido desde que esses produtos sejam claramente indicados à autoridade competente;\n\ng) Uma declaração em que se indique se foi apresentado um pedido à autoridade competente de outro Estado-membro relativo ao ingrediente para o qual é requerida a confidencialidade e o seguimento dado a esse pedido."
+  },
+  "0df55d9ba7e3ad85": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Após recepção do pedido de confidencialidade em conformidade com o disposto no artigo 3º, a autoridade competente analisá-lo-á num prazo que não poderá exceder quatro meses e informará por escrito o requerente da decisão tomada. Em caso de deferimento, a autoridade comunicará igualmente ao requerente o número de registo que atribuiu ao ingrediente em causa nos termos das regras previstas no anexo. Todavia, em caso de motivos excepcionais, a autoridade competente pode informar por escrito o requerente de que será necessário um prazo suplementar, que não pode exceder dois meses, para examinar o seu pedido.\n\n2. Todos os indeferimentos dos pedidos de confidencialidade devem ser justificados, devendo ser claramente indicadas ao requerente as possibilidades de recurso, bem como os prazos em que devem ser interpostos."
+  },
+  "aa766079388f7023": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nO número de registo referido no nº 1 do artigo 4º substitui o ingrediente em questão na lista prevista no nº 1, alínea g), do artigo 6º da Directiva 76/768/CEE."
+  },
+  "c642eb1d91d9a12b": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Toda e qualquer modificação das informações fornecidas em conformidade com o artigo 3º devem ser comunicadas o mais rapidamente possível à autoridade competente que concedeu a confidencialidade. Quando se trate de modificações dos nomes dos produtos cosméticos nos quais o ingrediente está integrado, estas devem ser comunicadas à autoridade competente pelo menos 15 dias antes da colocação no mercado dos produtos com novos nomes.\n\n2. Tendo em conta as modificações referidas no número anterior, ou se novos elementos o impuserem, em especial por razões imperativas de saúde pública, a autoridade competente pode revogar o acto de deferimento de confidencialidade. Neste caso, informará o requerente da nova decisão no prazo e de acordo com as regras previstas no artigo 4º"
+  },
+  "4ba308abc2e6b1de": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nA decisão que concede o benefício da confidencialidade é eficaz durante cinco anos.\n\nSe o beneficiário dessa decisão entender que existem razões excepcionais que justifiquem uma prorrogação da eficácia, pode para o efeito apresentar um pedido fundamentado à autoridade competente que deferiu inicialmente a confidencialidade.\n\nA autoridade competente pronunciar-se-á sobre o novo pedido no prazo e de acordo com as condições previstas no artigo 4º A prorrogação da concessão de confidencialidade não pode exceder um período de três anos."
+  },
+  "1f74c5bfb5ccb788": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Os Estados-membros informarão a Comissão e os outros Estados-membros das suas decisões de concessão e da prorrogação da concessão da confidencialidade indicando o nome ou a firma e o endereço ou a sede social dos requerentes, os nomes dos produtos cosméticos que contêm o ingrediente para o qual foi concedida a confidencialidade, bem como o número de registo referido no nº 1 do artigo 4º A Comissão e os outros Estados-membros podem obter, mediante pedido, uma cópia do processo de que conste o pedido de confidencialidade e a decisão da autoridade competente.\n\nNeste âmbito, em especial, as autoridades competentes dos Estados-membros e a Comissão garantirão a manutenção de uma cooperação adequada entre si.\n\n2. Os Estados-membros informarão a Comissão e os outros Estados-membros das suas decisões fundamentadas de indeferimento ou de revogação da confidencialidade, ou de recusa de prorrogação da confidencialidade.\n\n3. Os Estados-membros e a Comissão adoptarão as medidas necessárias para que os dados confidenciais de que tiverem conhecimento não sejam indevidamente divulgados."
+  },
+  "29de528140098c42": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros reconhecerão as decisões tomadas por uma autoridade competente em matéria de concessão ou de prorrogação da confidencialidade.\n\nTodavia, se, após ter tido conhecimento da informação ou da cópia do processo de acordo com as disposições previstas no nº 1 do artigo 8º, um Estado-membro contestar uma decisão tomada pela autoridade competente de outro Estado-membro, pode requerer à Comissão que tome uma decisão de acordo com o procedimento previsto no artigo 10º da Directiva 76/768/CEE."
+  },
+  "93ce693b3bd8db10": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros designarão as autoridades competentes previstas pela presente directiva e comunicá-las-ão à Comissão que publicará a respectiva lista no Jornal Oficial. Um Estado-membro pode igualmente designar a autoridade competente de outro Estado-membro que aceita para fins de exame, em casos excepcionais, dos pedidos referidos no artigo 2º"
+  },
+  "d91961e1a367b34c": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 30 de Novembro de 1995. Desse facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-membros devem conter uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-membros determinarão o modo como tal referência será feita.\n\n2. Os Estados-membros comunicarão à Comissão o texto das normas de direito interno que adoptarem no domínio regulado pela presente directiva."
+  },
+  "dedf44d6d5aa133d": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nA presente directiva entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "19a7ac73f44429eb": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 19 de Junho de 1995.\n\nPela Comissão Emma BONINO Membro da Comissão"
+  },
+  "b2b07be181f3a8ff": {
+   "fragment_id": "ANEXO — MODALIDADES DE CONCESSÃO DO NÚMERO DE REGISTO PREVISTO NO ARTIGO 4º",
+   "type": "divisao",
+   "heading": "ANEXO — MODALIDADES DE CONCESSÃO DO NÚMERO DE REGISTO PREVISTO NO ARTIGO 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — MODALIDADES DE CONCESSÃO DO NÚMERO DE REGISTO PREVISTO NO ARTIGO 4º\n\n1. O número de registo previsto no artigo 4º compreende sete algarismos, correspondendo os dois primeiros ao ano de concessão da confidencialidade, os dois seguintes ao código atribuído a cada Estado-membro nos termos do nº 2 infra e os três últimos são atribuídos pela autoridade competente.\n\n2. São os seguintes os códigos atribuídos a cada Estado-membro:\n\n01 França 02 Bélgica 03 Países Baixos 04 Alemanha 05 Itália 06 Reino Unido 07 Irlanda 08 Dinamarca 09 Luxemburgo 10 Grécia 11 Espanha 12 Portugal 13 Finlândia 14 Áustria 15 Suécia"
+  },
+  "53b87dcc7f83304e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Junho de 1995\n\nque estabelece as normas de execução da Directiva 76/768/CEE do Conselho, no que diz respeito à não inscrição de um ou de vários ingredientes na lista prevista para a rotulagem dos produtos cosméticos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-membros respeitantes aos produtos cosméticos ([^1^](http://publications.europa.eu/resource/cellar/791d3a90-aff2-4fb1-9f60-ea6828d4a80d.0017.03/DOC_1#E0001)), com a última redacção que lhe foi dada pela Directiva 94/32/CE da Comissão ([^2^](http://publications.europa.eu/resource/cellar/791d3a90-aff2-4fb1-9f60-ea6828d4a80d.0017.03/DOC_1#E0002)), e, nomeadamente, o n.º 1, alínea g), do seu artigo 6.º,\n\nConsiderando que é necessário definir os critérios e as condições em que um fabricante pode solicitar, por razões de confidencialidade comercial, a não inscrição de um ou de vários ingredientes na lista dos ingredientes que deve constar, pelo menos, na embalagem dos produtos cosméticos ou, em caso de impossibilidade prática, numa literatura, rótulo, cinta ou cartão juntos;\n\nConsiderando que a confidencialidade não pode, no entanto, prejudicar as outras obrigações decorrentes da Directiva 76/768/CEE e as responsabilidades decorrentes, em especial dos artigos relativos à segurança do produto cosmético, dos anexos e das disposições respeitantes às informações necessárias a um tratamento médico adequado e ao processo a que as autoridades nacionais de controlo têm que recorrer;\n\nConsiderando que a confidencialidade não pode prejudicar a segurança dos consumidores;\n\nConsiderando que o pedido de confidencialidade deve ser apresentado no Estado-membro do local de fabrico ou de primeira importação para o mercado comunitário à disposição do qual devem ser igualmente colocadas, para fins de controlo, as informações referidas no artigo 7.ºA da Directiva 76/768/CEE, conforme alterado pela Directiva 93/35/CEE ([^3^](http://publications.europa.eu/resource/cellar/791d3a90-aff2-4fb1-9f60-ea6828d4a80d.0017.03/DOC_1#E0003));\n\nConsiderando que, para ser devidamente apreciado e controlado, o pedido deve conter todos os elementos necessários à identificação dos requerentes, à identificação e à avaliação da segurança para a saúde humana do ingrediente tal como utilizado no(s) produto(s) cosmético(s), à utilização previsível do ingrediente em causa, bem como os motivos que possam justificar a confidencialidade e o(s) nome(s) do ou dos produtos que contenham o ingrediente;\n\nConsiderando que, por razões económicas e de respeito dos direitos da defesa, importa que a autoridade competente informe o requerente, num prazo breve que não exceda, salvo por motivos excepcionais, quatro meses, da decisão sobre a pretensão apresentada e que qualquer indeferimento do pedido de confidencialidade deve ser devidamente fundamentado e as possibilidades de recurso e respectivos prazos claramente indicados;\n\nConsiderando que, por razões de controlo e de transparência, importa que a autoridade competente atribua um número de registo a todo e qualquer ingrediente relativamente ao qual defira um pedido de confidencialidade e que o referido número substitua o ingrediente na lista dos ingredientes referida no n.º 1, alínea g), do artigo 6.º da Directiva 76/768/CEE;\n\nConsiderando que quaisquer modificações das informações contidas no pedido inicial devem ser comunicadas pelo requerente à autoridade competente, a qual pode revogar a permissão de confidencialidade concedida, tendo em conta essas modificações ou se novos elementos se impuserem por razões imperativas de saúde pública;\n\nConsiderando que a duração do benefício da confidencialidade não deve ultrapassar cinco anos sem prejuízo de uma prorrogação excepcional por um período máximo de três anos;\n\nConsiderando que, por razões do controlo da segurança dos produtos e para o bom funcionamento da directiva, importa que a Comissão e os outros Estados-membros sejam suficientemente informados das decisões tomadas pela autoridade competente, por um lado, e, por outro, que estas decisões sejam, salvo contestação excepcional, reconhecidas em todo o território da Comunidade;\n\nConsiderando que as medidas previstas pela presente directiva estão em conformidade com o parecer do Comité para a adaptação ao progresso técnico das directivas que visam a eliminação de entraves técnicos ao comércio no sector dos produtos cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5cfd0ca6a096582f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva é aplicável sem prejuízo das outras obrigações decorrentes da Directiva 76/768/CEE e das responsabilidades daí decorrentes e em especial dos seus artigos 2.º, 4.º, 5.º, 7.º, n.º 3, e 7.ºA."
+  },
+  "bb22f6e37cc3436c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO fabricante, o seu mandatário ou a pessoa por conta de quem um produto cosmético é fabricado ou o responsável pela colocação no mercado de um produto cosmético importado que, por razões de segredo comercial, deseje a não inscrição de um ou de vários ingredientes de um produto cosmético na lista referida no n.º 1, alínea g), do artigo 6.º da Directiva 76/768/CEE apresentará para o efeito um pedido à autoridade competente referida no artigo 10.º da presente directiva do Estado-membro do local de fabrico ou da primeira importação antes da colocação do produto no mercado comunitário."
+  },
+  "9628cef2b1b14f62": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO pedido referido no artigo 2.º deve mencionar os seguintes elementos:\n\na) Nome ou firma e endereço ou sede social do requerente;\n\nb) Uma identificação precisa do ingrediente para o qual é requerida a confidencialidade, a saber:\n\n— números CAS, EINECS e *colour index*, denominação química, denominação IUPAC, denominação Inci ([^4^](http://publications.europa.eu/resource/cellar/791d3a90-aff2-4fb1-9f60-ea6828d4a80d.0017.03/DOC_1#E0004)), denominação da farmacopeia europeia, denominação comum internacional da OMS e denominação da nomenclatura comum prevista no n.º 2 do artigo 7.º da Directiva 76/768/CEE, caso existam,\n\n— a denominação Elincs e o número oficial que lhe foi atribuído em caso de notificação com base na Directiva 67/548/CEE do Conselho ([^5^](http://publications.europa.eu/resource/cellar/791d3a90-aff2-4fb1-9f60-ea6828d4a80d.0017.03/DOC_1#E0005)), bem como a indicação do deferimento ou indeferimento de um pedido de confidencialidade com base no artigo 19.º da mesma directiva,\n\n— se os nomes e os números referidos no primeiro e no segundo travessões não existirem — por exemplo, quando se trata de alguns ingredientes de origem natural —, o nome do material de base, o nome da parte da planta ou do animal utilizado, os nomes dos componentes do ingrediente, tais como solventes ou conservantes;\n\nc) A avaliação da segurança do ingrediente, para a saúde humana tal como foi utilizado no(s) produto(s) acabado(s), tomando em consideração o perfil toxicológico, a estrutura química e o nível de exposição do ingrediente de acordo com as condições especificadas no n.º 1, alíneas d) e e), e n.º 2 do artigo 7.ºA da Directiva 76/768/CEE;\n\nd) A utilização previsível do ingrediente e em especial as diferentes categorias de produtos em que será utilizado;\n\ne) Uma exposição pormenorizada dos motivos, devidamente documentada, pelos quais a confidencialidade é excepcionalmente requerida, por exemplo:\n\n— o facto de a identidade do ingrediente ou a sua função no produto cosmético a comercializar não estar descrita na literatura e ser desconhecido do estado da arte,\n\n— o facto de a informação ainda não ser do domínio público, embora tenha sido solicitado o registo da patente para o ingrediente ou a sua utilização,\n\n— o facto de, se for conhecida a informação, ela ser facilmente reproduzível, com prejuízo para o requerente;\n\nf) Caso seja conhecido, o nome de cada produto que conterá o ingrediente e, se se previr a utilização de nomes diferentes no mercado comunitário, indicações precisas sobre cada um deles.\n\ng) Uma declaração em que se indique se foi apresentado um pedido à autoridade competente de outro Estado-membro relativo ao ingrediente para o qual é requerida a confidencialidade e o seguimento dado a esse pedido."
+  },
+  "6ea27bad980c8eb7": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Após recepção do pedido de confidencialidade em conformidade com o disposto no artigo 3.º, a autoridade competente analisá-lo-á num prazo que não poderá exceder quatro meses e informará por escrito o requerente da decisão tomada. Em caso de deferimento, a autoridade comunicará igualmente ao requerente o número de registo que atribuiu ao ingrediente em causa nos termos das regras previstas no anexo. Todavia, em caso de motivos excepcionais, a autoridade competente pode informar por escrito o requerente de que será necessário um prazo suplementar, que não pode exceder dois meses, para examinar o seu pedido.\n\n2. Todos os indeferimentos dos pedidos de confidencialidade devem ser justificados, devendo ser claramente indicadas ao requerente as possibilidades de recurso, bem como os prazos em que devem ser interpostos."
+  },
+  "0f6834df1c384887": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO número de registo referido no n.º 1 do artigo 4.º substitui o ingrediente em questão na lista prevista no n.º 1, alínea g), do artigo 6.º da Directiva 76/768/CEE."
+  },
+  "e6600b83e4df9718": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Toda e qualquer modificação das informações fornecidas em conformidade com o artigo 3.º devem ser comunicadas o mais rapidamente possível à autoridade competente que concedeu a confidencialidade. Quando se trate de modificações dos nomes dos produtos cosméticos nos quais o ingrediente está integrado, estas devem ser comunicadas à autoridade competente pelo menos 15 dias antes da colocação no mercado dos produtos com novos nomes.\n\n2. Tendo em conta as modificações referidas no número anterior, ou se novos elementos o impuserem, em especial por razões imperativas de saúde pública, a autoridade competente pode revogar o acto de deferimento de confidencialidade. Neste caso, informará o requerente da nova decisão no prazo e de acordo com as regras previstas no artigo 4.º"
+  },
+  "877e2e0034f32b91": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA decisão que concede o benefício da confidencialidade é eficaz durante cinco anos.\n\nSe o beneficiário dessa decisão entender que existem razões excepcionais que justifiquem uma prorrogação da eficácia, pode para o efeito apresentar um pedido fundamentado à autoridade competente que deferiu inicialmente a confidencialidade.\n\nA autoridade competente pronunciar-se-á sobre o novo pedido no prazo e de acordo com as condições previstas no artigo 4.º\n\nA prorrogação da concessão de confidencialidade não pode exceder um período de três anos."
+  },
+  "73ffa1203931abeb": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-membros informarão a Comissão e os outros Estados-membros das suas decisões de concessão e da prorrogação da concessão da confidencialidade indicando o nome ou a firma e o endereço ou a sede social dos requerentes, os nomes dos produtos cosméticos que contêm o ingrediente para o qual foi concedida a confidencialidade, bem como o número de registo referido no n.º 1 do artigo 4.º\n\nA Comissão e os outros Estados-membros podem obter, mediante pedido, uma cópia do processo de que conste o pedido de confidencialidade e a decisão da autoridade competente.\n\nNeste âmbito, em especial, as autoridades competentes dos Estados-membros e a Comissão garantirão a manutenção de uma cooperação adequada entre si.\n\n2. Os Estados-membros informarão a Comissão e os outros Estados-membros das suas decisões fundamentadas de indeferimento ou de revogação da confidencialidade, ou de recusa de prorrogação da confidencialidade.\n\n3. Os Estados-membros e a Comissão adoptarão as medidas necessárias para que os dados confidenciais de que tiverem conhecimento não sejam indevidamente divulgados."
+  },
+  "cb51aacbb64eb25f": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros reconhecerão as decisões tomadas por uma autoridade competente em matéria de concessão ou de prorrogação da confidencialidade.\n\nTodavia, se, após ter tido conhecimento da informação ou da cópia do processo de acordo com as disposições previstas no n.º 1 do artigo 8.º, um Estado-membro contestar uma decisão tomada pela autoridade competente de outro Estado-membro, pode requerer à Comissão que tome uma decisão de acordo com o procedimento previsto no artigo 10.º da Directiva 76/768/CEE."
+  },
+  "e9d00dcd32ec3c91": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros designarão as autoridades competentes previstas pela presente directiva e comunicá-las-ão à Comissão que publicará a respectiva lista no Jornal Oficial. Um Estado-membro pode igualmente designar a autoridade competente de outro Estado-membro que aceita para fins de exame, em casos excepcionais, dos pedidos referidos no artigo 2.º"
+  },
+  "8e0a5cb329f13ab1": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 30 de Novembro de 1995. Desse facto informarão imediatamente a Comissão.\n\nAs disposições adoptadas pelos Estados-membros devem conter uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-membros determinarão o modo como tal referência será feita.\n\n2. Os Estados-membros comunicarão à Comissão o texto das normas de direito interno que adoptarem no domínio regulado pela presente directiva."
+  },
+  "2bd51106e2d34105": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA presente directiva entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "7d7e6f9f8da274ba": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "108451f5c012c472": {
+   "fragment_id": "MODALIDADES DE CONCESSÃO DO NÚMERO DE REGISTO PREVISTO NO ARTIGO 4.º",
+   "type": "divisao",
+   "heading": "MODALIDADES DE CONCESSÃO DO NÚMERO DE REGISTO PREVISTO NO ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODALIDADES DE CONCESSÃO DO NÚMERO DE REGISTO PREVISTO NO ARTIGO 4.º\n\n1. O número de registo previsto no artigo 4.º compreende sete algarismos, correspondendo os dois primeiros ao ano de concessão da confidencialidade, os dois seguintes ao código atribuído a cada Estado-membro nos termos do n.º 2 infra e os três últimos são atribuídos pela autoridade competente.\n\n2. São os seguintes os códigos atribuídos a cada Estado-membro: 01 França 02 Bélgica 03 Países Baixos 04 Alemanha 05 Itália 06 Reino Unido 07 Irlanda 08 Dinamarca 09 Luxemburgo 10 Grécia 11 Espanha 12 Portugal 13 Finlândia 14 Áustria 15 Suécia [▼A1](http://publications.europa.eu/resource/celex/12003T) 16 República Checa 17 Estónia 18 Chipre 19 Letónia 20 Lituânia 21 Hungria 22 Malta 23 Polónia 24 Eslovénia 25 Eslováquia [▼M1](http://publications.europa.eu/resource/celex/32006L0081) 26 Bulgária 27 Roménia.\n\n---"
+  },
+  "589f8baae364bfbf": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/791d3a90-aff2-4fb1-9f60-ea6828d4a80d.0017.03/DOC_1#src.E0001)) JO n.º L 262 de 27.9.1976, p. 169.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/791d3a90-aff2-4fb1-9f60-ea6828d4a80d.0017.03/DOC_1#src.E0002)) JO n.º L 181 de 15.7.1994, p. 31.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/791d3a90-aff2-4fb1-9f60-ea6828d4a80d.0017.03/DOC_1#src.E0003)) JO n.º L 151 de 23.6.1993, p. 32.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/791d3a90-aff2-4fb1-9f60-ea6828d4a80d.0017.03/DOC_1#src.E0004)) Anteriormente denominação CTFA.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/791d3a90-aff2-4fb1-9f60-ea6828d4a80d.0017.03/DOC_1#src.E0005)) JO n.º 196 de 16.8.1967, p. 1."
+  }
+ }
+}

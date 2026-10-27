@@ -1,0 +1,2145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:173481:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-164868294",
+ "dre_path": "/dr/detalhe/decreto-lei/296-a-1998-173481",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-09-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "164867944",
+    "164867945",
+    "164867946",
+    "164867947",
+    "164867948",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "164867954",
+    "164867955",
+    "164867956",
+    "164867957",
+    "164867958",
+    "164867959",
+    "164867960",
+    "164867961",
+    "164867962",
+    "164867963",
+    "164867964",
+    "164867965",
+    "164867966",
+    "164867967",
+    "164867968",
+    "164867969",
+    "164867970",
+    "164867971",
+    "164867972",
+    "164867973",
+    "164867974",
+    "164868875",
+    "164868876",
+    "164868877",
+    "164868878",
+    "164868879",
+    "164868880",
+    "164868881",
+    "164868882",
+    "164868883",
+    "164868884",
+    "164868885",
+    "164868886",
+    "164868887",
+    "164868888",
+    "164868889",
+    "164868890",
+    "164868891",
+    "164868892",
+    "164868893",
+    "164868894",
+    "164868895",
+    "164868896",
+    "164868897",
+    "164868898",
+    "164868899"
+   ]
+  },
+  {
+   "date": "1999-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138571:por",
+     "title": "Decreto-Lei n.º 99/99",
+     "published": "1999-03-30",
+     "dre_path": "/dr/detalhe/decreto-lei/99-1999-138571"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "164867944",
+    "164867945",
+    "164867946",
+    "164867947",
+    "164867948",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "164867954",
+    "164867955",
+    "164867956",
+    "164867957",
+    "164867958",
+    "164867959",
+    "164867960",
+    "164867961",
+    "164867962",
+    "164867963",
+    "164867964",
+    "164867965",
+    "164867966",
+    "164867967",
+    "164867968",
+    "164867969",
+    "164868901",
+    "164867971",
+    "164867972",
+    "164867973",
+    "164867974",
+    "164868875",
+    "164868876",
+    "164868877",
+    "164868878",
+    "164868879",
+    "164868880",
+    "164868881",
+    "164868882",
+    "164868883",
+    "164868884",
+    "164868885",
+    "164868886",
+    "164868887",
+    "164868888",
+    "164868889",
+    "164868890",
+    "164868891",
+    "164868892",
+    "164868893",
+    "164868894",
+    "164868895",
+    "164868896",
+    "164868897",
+    "164868898",
+    "164868899",
+    "164868900"
+   ]
+  },
+  {
+   "date": "2003-02-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:199778:por",
+     "title": "Decreto-Lei n.º 26/2003",
+     "published": "2003-02-07",
+     "dre_path": "/dr/detalhe/decreto-lei/26-2003-199778"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 20.º-A",
+    "Adita Artigo 47.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 35.º"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "164867944",
+    "164867945",
+    "164867946",
+    "164867947",
+    "164867948",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "164867954",
+    "164867955",
+    "164868968",
+    "164867957",
+    "164867958",
+    "164867959",
+    "164867960",
+    "164867961",
+    "164867962",
+    "164867963",
+    "164867964",
+    "164868969",
+    "164867966",
+    "164868970",
+    "164871079",
+    "164871080",
+    "164867969",
+    "164868972",
+    "164868973",
+    "164867972",
+    "164867973",
+    "164868974",
+    "164871075",
+    "164868876",
+    "164871076",
+    "164868878",
+    "164868879",
+    "164868880",
+    "164868881",
+    "164868882",
+    "164871077",
+    "164868884",
+    "164868885",
+    "164871078",
+    "164868887",
+    "164868888",
+    "164868889",
+    "164868890",
+    "164868891",
+    "164868892",
+    "164868893",
+    "164868894",
+    "164868895",
+    "164868896",
+    "164868897",
+    "164868898",
+    "164868899",
+    "164871081",
+    "164868900"
+   ]
+  },
+  {
+   "date": "2004-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:210421:por",
+     "title": "Decreto-Lei n.º 76/2004",
+     "published": "2004-03-27",
+     "dre_path": "/dr/detalhe/decreto-lei/76-2004-210421"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º",
+    "Altera Artigo 42.º"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "164867944",
+    "164867945",
+    "164867946",
+    "164867947",
+    "164867948",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "164867954",
+    "164867955",
+    "164868968",
+    "164867957",
+    "164867958",
+    "164867959",
+    "164867960",
+    "164867961",
+    "164867962",
+    "164867963",
+    "164867964",
+    "164868969",
+    "164867966",
+    "164868970",
+    "164871079",
+    "164871080",
+    "164867969",
+    "164868972",
+    "164868973",
+    "164867972",
+    "164867973",
+    "164868974",
+    "164871075",
+    "164868876",
+    "164871076",
+    "164871086",
+    "164868879",
+    "164868880",
+    "164868881",
+    "164868882",
+    "164871077",
+    "164868884",
+    "164868885",
+    "164871078",
+    "164868887",
+    "164868888",
+    "164868889",
+    "164868890",
+    "164868891",
+    "164868892",
+    "164868893",
+    "164868894",
+    "164871087",
+    "164868896",
+    "164868897",
+    "164868898",
+    "164868899",
+    "164871081",
+    "164868900"
+   ]
+  },
+  {
+   "date": "2004-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:517468:por",
+     "title": "Decreto-Lei n.º 158/2004",
+     "published": "2004-06-30",
+     "dre_path": "/dr/detalhe/decreto-lei/158-2004-517468"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 47.º"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "164867944",
+    "164867945",
+    "164867946",
+    "164867947",
+    "164867948",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "164867954",
+    "164867955",
+    "164868968",
+    "164867957",
+    "164867958",
+    "164867959",
+    "164867960",
+    "164867961",
+    "164867962",
+    "164867963",
+    "164867964",
+    "164868969",
+    "164867966",
+    "164868970",
+    "164871079",
+    "164871092",
+    "164867969",
+    "164868972",
+    "164868973",
+    "164867972",
+    "164867973",
+    "164868974",
+    "164871075",
+    "164868876",
+    "164871076",
+    "164871086",
+    "164868879",
+    "164868880",
+    "164868881",
+    "164868882",
+    "164871077",
+    "164868884",
+    "164868885",
+    "164871078",
+    "164868887",
+    "164868888",
+    "164868889",
+    "164868890",
+    "164868891",
+    "164868892",
+    "164868893",
+    "164868894",
+    "164871093",
+    "164868896",
+    "164868897",
+    "164868898",
+    "164868899",
+    "164871094",
+    "164868900"
+   ]
+  },
+  {
+   "date": "2006-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:399197:por",
+     "title": "Decreto-Lei n.º 147-A/2006",
+     "published": "2006-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/147-a-2006-399197"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 42.º"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "164867944",
+    "164867945",
+    "164867946",
+    "164867947",
+    "164867948",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "164867954",
+    "164867955",
+    "164868968",
+    "164867957",
+    "164867958",
+    "164867959",
+    "164867960",
+    "164867961",
+    "164867962",
+    "164867963",
+    "164867964",
+    "164868969",
+    "164867966",
+    "164868970",
+    "164871079",
+    "164871092",
+    "164867969",
+    "164868972",
+    "164868973",
+    "164867972",
+    "164867973",
+    "164868974",
+    "164871075",
+    "164868876",
+    "164871076",
+    "164871086",
+    "164868879",
+    "164868880",
+    "164868881",
+    "164868882",
+    "164871077",
+    "164868884",
+    "164868885",
+    "164871078",
+    "164868887",
+    "164868888",
+    "164868889",
+    "164868890",
+    "164868891",
+    "164868892",
+    "164868893",
+    "164868894",
+    "164871099",
+    "164868896",
+    "164868897",
+    "164868898",
+    "164868899",
+    "164871094",
+    "164868900"
+   ]
+  },
+  {
+   "date": "2007-02-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:517845:por",
+     "title": "Decreto-Lei n.º 40/2007",
+     "published": "2007-02-20",
+     "dre_path": "/dr/detalhe/decreto-lei/40-2007-517845"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 20.º-B"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "164867944",
+    "164867945",
+    "164867946",
+    "164867947",
+    "164867948",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "164867954",
+    "164867955",
+    "164868968",
+    "164867957",
+    "164867958",
+    "164867959",
+    "164867960",
+    "164867961",
+    "164867962",
+    "164867963",
+    "164867964",
+    "164868969",
+    "164867966",
+    "164868970",
+    "164871079",
+    "164871119",
+    "164871120",
+    "164867969",
+    "164868972",
+    "164868973",
+    "164867972",
+    "164867973",
+    "164868974",
+    "164871075",
+    "164868876",
+    "164871126",
+    "164871127",
+    "164868879",
+    "164868880",
+    "164868881",
+    "164868882",
+    "164871077",
+    "164868884",
+    "164868885",
+    "164871078",
+    "164868887",
+    "164868888",
+    "164871128",
+    "164871129",
+    "164871130",
+    "164868892",
+    "164868893",
+    "164868894",
+    "164871099",
+    "164868896",
+    "164868897",
+    "164868898",
+    "164868899",
+    "164871094",
+    "164868900"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:517833:por",
+     "title": "Decreto-Lei n.º 45/2007",
+     "published": "2007-02-23",
+     "dre_path": "/dr/detalhe/decreto-lei/45-2007-517833",
+     "date": "2007-02-28"
+    }
+   ]
+  },
+  {
+   "date": "2008-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:448963:por",
+     "title": "Decreto-Lei n.º 90/2008",
+     "published": "2008-05-30",
+     "dre_path": "/dr/detalhe/decreto-lei/90-2008-448963"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 20.º-A",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 42.º",
+    "Revoga Artigo 44.º"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "164867944",
+    "164872901",
+    "164867946",
+    "164872902",
+    "164872903",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "164867954",
+    "164867955",
+    "164868968",
+    "164867957",
+    "164867958",
+    "164867959",
+    "164867960",
+    "164867961",
+    "164867962",
+    "164867963",
+    "164867964",
+    "164868969",
+    "164867966",
+    "164872904",
+    "164872905",
+    "164871119",
+    "164872906",
+    "164867969",
+    "164872907",
+    "164872908",
+    "164867972",
+    "164867973",
+    "164868974",
+    "164872909",
+    "164868876",
+    "164871126",
+    "164871127",
+    "164868879",
+    "164868880",
+    "164868881",
+    "164868882",
+    "164871077",
+    "164868884",
+    "164868885",
+    "164871078",
+    "164868887",
+    "164868888",
+    "164871128",
+    "164871129",
+    "164871130",
+    "164868892",
+    "164872910",
+    "164868894",
+    "164872911",
+    "164868896",
+    "164872912",
+    "164868898",
+    "164868899",
+    "164871094",
+    "164868900"
+   ]
+  },
+  {
+   "date": "2020-04-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:131016733:por",
+     "title": "Decreto-Lei n.º 11/2020",
+     "published": "2020-04-02",
+     "dre_path": "/dr/detalhe/decreto-lei/11-2020-131016733"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 20.º-A"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "164867944",
+    "164872901",
+    "164867946",
+    "164872902",
+    "164872903",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "164872913",
+    "164867955",
+    "164868968",
+    "164867957",
+    "164867958",
+    "164867959",
+    "164867960",
+    "164867961",
+    "164867962",
+    "164867963",
+    "164867964",
+    "164868969",
+    "164867966",
+    "164872904",
+    "164872914",
+    "164871119",
+    "164872906",
+    "164867969",
+    "164872907",
+    "164872908",
+    "164867972",
+    "164867973",
+    "164868974",
+    "164872909",
+    "164868876",
+    "164871126",
+    "164871127",
+    "164868879",
+    "164868880",
+    "164868881",
+    "164868882",
+    "164871077",
+    "164868884",
+    "164868885",
+    "164871078",
+    "164868887",
+    "164868888",
+    "164871128",
+    "164871129",
+    "164871130",
+    "164868892",
+    "164872910",
+    "164868894",
+    "164872911",
+    "164868896",
+    "164872912",
+    "164868898",
+    "164868899",
+    "164871094",
+    "164868900"
+   ]
+  },
+  {
+   "date": "2023-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216512899:por",
+     "title": "Decreto-Lei n.º 64-A/2023",
+     "published": "2023-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/64-a-2023-216512899"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 20.º-A",
+    "Altera Artigo 21.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 41.º"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "216567178",
+    "216567179",
+    "216567180",
+    "216567181",
+    "216567182",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "216567183",
+    "164867955",
+    "164868968",
+    "164867957",
+    "216567184",
+    "216567185",
+    "164867960",
+    "164867961",
+    "216567186",
+    "164867963",
+    "164867964",
+    "164868969",
+    "216567187",
+    "216567188",
+    "216567189",
+    "216567197",
+    "216567190",
+    "164867969",
+    "164872907",
+    "164872908",
+    "164867972",
+    "164867973",
+    "164868974",
+    "216567191",
+    "164868876",
+    "216567192",
+    "164871127",
+    "216567193",
+    "216567194",
+    "164868881",
+    "164868882",
+    "164871077",
+    "164868884",
+    "164868885",
+    "164871078",
+    "164868887",
+    "164868888",
+    "164871128",
+    "164871129",
+    "164871130",
+    "164868892",
+    "164872910",
+    "216567195",
+    "164872911",
+    "164868896",
+    "164872912",
+    "164868898",
+    "164868899",
+    "164871094",
+    "164868900"
+   ]
+  },
+  {
+   "date": "2025-03-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:911303059:por",
+     "title": "Decreto-Lei n.º 17/2025",
+     "published": "2025-03-18",
+     "dre_path": "/dr/detalhe/decreto-lei/17-2025-911303059"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "216567178",
+    "216567179",
+    "216567180",
+    "216567181",
+    "216567182",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "216567183",
+    "164867955",
+    "164868968",
+    "164867957",
+    "216567184",
+    "216567185",
+    "164867960",
+    "164867961",
+    "216567186",
+    "164867963",
+    "164867964",
+    "164868969",
+    "216567187",
+    "911304769",
+    "216567189",
+    "216567197",
+    "911304770",
+    "164867969",
+    "164872907",
+    "164872908",
+    "164867972",
+    "164867973",
+    "164868974",
+    "216567191",
+    "164868876",
+    "216567192",
+    "164871127",
+    "216567193",
+    "216567194",
+    "164868881",
+    "164868882",
+    "164871077",
+    "164868884",
+    "164868885",
+    "164871078",
+    "164868887",
+    "164868888",
+    "164871128",
+    "164871129",
+    "164871130",
+    "164868892",
+    "164872910",
+    "216567195",
+    "164872911",
+    "164868896",
+    "164872912",
+    "164868898",
+    "164868899",
+    "164871094",
+    "164868900"
+   ]
+  },
+  {
+   "date": "2026-02-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1051282294:por",
+     "title": "Decreto-Lei n.º 56/2026",
+     "published": "2026-02-16",
+     "dre_path": "/dr/detalhe/decreto-lei/56-2026-1051282294"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "164867942",
+    "164867943",
+    "216567178",
+    "216567179",
+    "216567180",
+    "216567181",
+    "216567182",
+    "164867949",
+    "164867950",
+    "164867951",
+    "164867952",
+    "164867953",
+    "216567183",
+    "164867955",
+    "164868968",
+    "164867957",
+    "216567184",
+    "216567185",
+    "164867960",
+    "164867961",
+    "216567186",
+    "164867963",
+    "164867964",
+    "164868969",
+    "216567187",
+    "1051456154",
+    "216567189",
+    "216567197",
+    "911304770",
+    "164867969",
+    "164872907",
+    "164872908",
+    "164867972",
+    "164867973",
+    "164868974",
+    "216567191",
+    "164868876",
+    "216567192",
+    "164871127",
+    "216567193",
+    "216567194",
+    "164868881",
+    "164868882",
+    "164871077",
+    "164868884",
+    "164868885",
+    "164871078",
+    "164868887",
+    "164868888",
+    "164871128",
+    "164871129",
+    "164871130",
+    "164868892",
+    "164872910",
+    "216567195",
+    "164872911",
+    "164868896",
+    "164872912",
+    "164868898",
+    "164868899",
+    "164871094",
+    "164868900"
+   ]
+  }
+ ],
+ "fragments": {
+  "164867942": {
+   "fragment_id": "164868295",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 296-A/98\n\nde 25 de Setembro\n\nNos termos da nova redacção do artigo 12.º da Lei de Bases do Sistema Educativo (Lei n.º 46/86, de 14 de Outubro, alterada pela Lei n.º 115/97, de 19 de Setembro), têm acesso ao ensino superior os estudantes habilitados com um curso do ensino secundário que façam prova de capacidade para a sua frequência.\n\nAinda nos termos dessa norma legal, o processo de avaliação da capacidade para a frequência, bem como o da selecção e seriação dos candidatos ao ingresso em cada curso e estabelecimento de ensino superior, passa a ser da competência dos estabelecimentos de ensino superior, sujeito, embora, a alguns princípios básicos, de onde se destacam:\n\na) A democraticidade, equidade e igualdade de oportunidades;\n\nb) A objectividade dos critérios;\n\nc) A universalidade das regras;\n\nd) A valorização do percurso educativo feito no ensino secundário, incluindo a utilização obrigatória da classificação final deste no processo de seriação;\n\ne) A coordenação dos estabelecimentos de ensino superior para a realização da avaliação, selecção e seriação, por forma a evitar a proliferação de provas;\n\nf) O carácter nacional da candidatura ao ensino superior público, a realizar pelos serviços da administração central e regional da educação.\n\nO presente diploma visa dar concretização ao novo quadro legal nesta matéria, desenvolvendo, no quadro do artigo 12.º da Lei de Bases do Sistema Educativo, os princípios gerais a que deve estar sujeito o acesso e ingresso no ensino superior.\n\nForam ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos, a Associação Portuguesa do Ensino Superior Privado e a Confederação Nacional das Associações de Pais.\n\nAssim:\n\nNo desenvolvimento da Lei de Bases do Sistema Educativo (Lei n.º 46/86, de 14 de Outubro, alterada pela Lei n.º 115/97, de 19 de Setembro), e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, nos termos do n.º 5 do artigo 112.º da Constituição, o seguinte:"
+  },
+  "164867943": {
+   "fragment_id": "164868296",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "164867944": {
+   "fragment_id": "164868297",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula o regime de acesso e ingresso no ensino superior."
+  },
+  "164867945": {
+   "fragment_id": "164868298",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito e aplicação\n\nEste regime aplica-se ao acesso e ingresso nos estabelecimentos de ensino superior público e particular e cooperativo para a frequência de cursos de bacharelato e de licenciatura."
+  },
+  "164867946": {
+   "fragment_id": "164868299",
+   "type": 11,
+   "heading": "Artigo 3.º — Limitações quantitativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Limitações quantitativas\n\nO ingresso em cada par estabelecimento/curso de ensino superior está sujeito a limitações quantitativas, decorrentes do número de vagas fixado anualmente nos termos do presente diploma."
+  },
+  "164867947": {
+   "fragment_id": "164868300",
+   "type": 11,
+   "heading": "Artigo 4.º — Fixação das vagas para as instituições de ensino superior público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fixação das vagas para as instituições de ensino superior público\n\n1 - As vagas para os cursos das instituições de ensino superior público tuteladas exclusivamente pelo Ministério da Educação são fixadas anualmente pelos órgãos legal e estatutariamente competentes de cada instituição e comunicadas ao Departamento do Ensino Superior, acompanhadas da respectiva fundamentação, até data a estabelecer nos termos do artigo 40.º\n\n2 - O Ministro da Educação pode determinar a simples divulgação das vagas ou, ouvidas as instituições, aprovar as mesmas com alterações, se entender que tal se justifica tendo em vista a respectiva adequação à política educativa.\n\n3 - No caso referido na parte final do número anterior, a fixação das vagas é feita por portaria do Ministro da Educação."
+  },
+  "164867948": {
+   "fragment_id": "164868301",
+   "type": 11,
+   "heading": "Artigo 5.º — Fixação das vagas para outras instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fixação das vagas para outras instituições\n\n1 - As vagas para os cursos das restantes instituições de ensino superior são fixadas anualmente, sob proposta do órgão legal e estatutariamente competente de cada instituição, nos seguintes termos:\n\na) Para os cursos das instituições de ensino superior público sujeitas a dupla tutela, por portaria conjunta dos ministros da tutela;\n\nb) Para os cursos das instituições de ensino superior particular e cooperativo, por portaria do Ministro da Educação.\n\n2 - As instituições de ensino superior comunicam ao Departamento do Ensino Superior, anualmente, até data a fixar nos termos do artigo 40.º, o número de vagas proposto para o ingresso nos seus cursos no ano lectivo seguinte.\n\n3 - As propostas apresentadas pelas instituições de ensino superior devem ser acompanhadas da respectiva fundamentação."
+  },
+  "164867949": {
+   "fragment_id": "164868302",
+   "type": 11,
+   "heading": "Artigo 6.º — Preenchimento das vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Preenchimento das vagas\n\nO preenchimento das vagas em cada par estabelecimento/curso de ensino superior é feito por concurso."
+  },
+  "164867950": {
+   "fragment_id": "164868303",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de candidatura\n\nSó pode candidatar-se à matrícula e inscrição no ensino superior o estudante que satisfaça cumulativamente as seguintes condições:\n\na) Ser titular de um curso de ensino secundário, ou de habilitação legalmente equivalente;\n\nb) Fazer prova de capacidade para a frequência do ensino superior."
+  },
+  "164867951": {
+   "fragment_id": "164868304",
+   "type": 11,
+   "heading": "Artigo 8.º — Avaliação da capacidade para a frequência do ensino superior e selecção e seriação dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Avaliação da capacidade para a frequência do ensino superior e selecção e seriação dos candidatos\n\nCompete aos estabelecimentos de ensino superior, nos termos do presente diploma, a fixação da forma de realização da avaliação da capacidade para a frequência, bem como dos critérios de selecção e seriação dos candidatos."
+  },
+  "164867952": {
+   "fragment_id": "164868305",
+   "type": 1,
+   "heading": "Capítulo II — Comissão Nacional de Acesso ao Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Comissão Nacional de Acesso ao Ensino Superior"
+  },
+  "164867953": {
+   "fragment_id": "164868306",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão Nacional de Acesso ao Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comissão Nacional de Acesso ao Ensino Superior\n\nOs estabelecimentos de ensino superior coordenam-se obrigatoriamente para a avaliação da capacidade para a frequência, bem como para a fixação dos critérios de selecção e seriação dos candidatos à matrícula e inscrição nos seus cursos, no âmbito da Comissão Nacional de Acesso ao Ensino Superior (CNAES)."
+  },
+  "164867954": {
+   "fragment_id": "164868307",
+   "type": 11,
+   "heading": "Artigo 10.º — Composição da CNAES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição da CNAES\n\n1 - A CNAES é constituída por:\n\na) Dois representantes dos estabelecimentos de ensino superior universitário público nomeados pelo Conselho de Reitores das Universidades Portuguesas;\n\nb) Dois representantes dos estabelecimentos de ensino superior politécnico público nomeados pelo Conselho Coordenador dos Institutos Superiores Politécnicos;\n\nc) Três representantes dos estabelecimentos de ensino superior particular e cooperativo nomeados por despacho do Ministro da Educação, ouvidas as organizações representativas dos mesmos.\n\n2 - A CNAES escolhe de entre os seus membros um presidente e um vice-presidente."
+  },
+  "164867955": {
+   "fragment_id": "164868308",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência da CNAES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência da CNAES\n\n1 - A direcção de todo o processo relacionado com a avaliação da capacidade para a frequência, bem como com a fixação dos critérios de selecção e seriação dos candidatos à matrícula e inscrição no ensino superior, compete à CNAES, nos termos fixados no presente diploma.\n\n2 - A CNAES aprova a sua organização e o seu regulamento interno."
+  },
+  "164867956": {
+   "fragment_id": "164868309",
+   "type": 11,
+   "heading": "Artigo 12.º — Fornecimento de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fornecimento de informações\n\nO Departamento do Ensino Superior, o Departamento do Ensino Secundário, o Gabinete de Avaliação Educativa e as instituições de ensino superior facultam à CNAES as informações que esta lhes solicite referentes ao processo de realização dos exames nacionais do ensino secundário e ao processo de candidatura."
+  },
+  "164867957": {
+   "fragment_id": "164868310",
+   "type": 11,
+   "heading": "Artigo 13.º — Publicidade das deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Publicidade das deliberações\n\nAs deliberações da CNAES que revistam natureza genérica são objecto de publicação na 2.ª série do Diário da República."
+  },
+  "164867958": {
+   "fragment_id": "164868311",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Encargos\n\n1 - Os encargos com o funcionamento da CNAES são satisfeitos pelas correspondentes verbas inscritas no orçamento do Ministério da Educação e pelas receitas decorrentes da sua actividade.\n\n2 - Aos membros da Comissão é devida uma gratificação mensal, de montante a fixar por despacho conjunto dos Ministros das Finanças e da Educação.\n\n3 - A percepção da gratificação a que se refere o número anterior é compatível com o exercício de funções docentes ou de investigação em regime de dedicação exclusiva."
+  },
+  "164867959": {
+   "fragment_id": "164868312",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apoio logístico\n\nO Ministério da Educação afecta à CNAES os meios humanos e materiais necessários ao desempenho das suas funções."
+  },
+  "164867960": {
+   "fragment_id": "164868313",
+   "type": 1,
+   "heading": "Capítulo III — Avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Avaliação da capacidade para a frequência"
+  },
+  "164867961": {
+   "fragment_id": "164868314",
+   "type": 8,
+   "heading": "Secção I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Princípios gerais"
+  },
+  "164867962": {
+   "fragment_id": "164868315",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Avaliação da capacidade para a frequência\n\n1 - A realização da avaliação da capacidade para a frequência é feita através de provas de ingresso.\n\n2 - Quando as aptidões físicas, funcionais ou vocacionais assumam particular relevância para o ingresso num determinado curso, os estabelecimentos de ensino superior podem fixar pré-requisitos de acesso a esse curso para além das provas de ingresso.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 34/2022 - Diário da República n.º 98/2022, Série I de 2022-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2022-183691729) derroga, para efeitos de acesso e ingresso no ensino superior no ano letivo de 2022-2023, por candidatos abrangidos pelo presente decreto-lei, o n.º 1 do presente artigo,\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 70-C/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-c-2021-169269297) Derroga o n.º 1 do presente artigo, estabelecendo o regime transitório aplicável ao ano letivo de 2021-2022. A derrogação dispensa os candidatos da substituição de provas de ingresso pelos exames finais de disciplinas, passando a utilizar-se, para efeitos de cálculo da respetiva nota de candidatura, a classificação final das disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam, convertida para a escala de 0 a 200 quando necessário.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 33/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2020-136990468) Derroga o n.º 1 do presente artigo, estabelecendo o regime transitório aplicável ao ano letivo de 2020-2021. A derrogação dispensa os candidatos da substituição de provas de ingresso pelos exames finais de disciplinas, passando a utilizar-se, para efeitos de cálculo da respetiva nota de candidatura, a classificação final das disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam, convertida para a escala de 0 a 200 quando necessário."
+  },
+  "164867963": {
+   "fragment_id": "164868316",
+   "type": 8,
+   "heading": "Secção II — Provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Provas de ingresso"
+  },
+  "164867964": {
+   "fragment_id": "164868317",
+   "type": 11,
+   "heading": "Artigo 17.º — Provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Provas de ingresso\n\nAs provas de ingresso:\n\na) Adoptam critérios objectivos de avaliação;\n\nb) Revestem a forma mais adequada aos seus objectivos;\n\nc) São eliminatórias;\n\nd) São de realização anual."
+  },
+  "164867965": {
+   "fragment_id": "164868318",
+   "type": 11,
+   "heading": "Artigo 18.º — Elenco de provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Elenco de provas de ingresso\n\nO elenco de provas de ingresso é fixado pela CNAES, sob proposta das instituições de ensino superior."
+  },
+  "164867966": {
+   "fragment_id": "164868319",
+   "type": 11,
+   "heading": "Artigo 19.º — Concretização das provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Concretização das provas de ingresso\n\nA CNAES decide acerca da forma de realização das provas de ingresso, podendo:\n\na) Elaborar e realizar, sob a sua direcção, provas expressamente destinadas a esse fim;\n\nb) Utilizar exames nacionais do ensino secundário, sempre que entenda que os mesmos satisfazem os objectivos que se pretendem alcançar com as provas de ingresso."
+  },
+  "164867967": {
+   "fragment_id": "164868320",
+   "type": 11,
+   "heading": "Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso\n\n1 - De entre o elenco a que se refere o artigo 18.º, cada estabelecimento de ensino superior fixa, através dos seus órgãos legal e estatutariamente competentes, as provas que exige para o ingresso em cada um dos seus cursos.\n\n2 - Cada estabelecimento de ensino superior pode ainda, através dos seus órgãos legal e estatutariamente competentes, determinar que os estudantes titulares de determinados cursos não portugueses legalmente equivalentes ao ensino secundário português possam apresentar, em lugar das provas escolhidas nos termos do número anterior, os exames finais de determinadas disciplinas desses cursos."
+  },
+  "164867968": {
+   "fragment_id": "164868321",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências da CNAES em matéria de provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências da CNAES em matéria de provas de ingresso\n\n1 - Em matéria de provas de ingresso, compete à CNAES, nomeadamente:\n\na) A fixação do elenco das provas;\n\nb) A fixação do número mínimo e máximo de provas que pode ser exigido por cada estabelecimento em relação a cada um dos seus cursos;\n\nc) A fixação do número mínimo e máximo de elencos alternativos de provas que pode ser exigido por cada estabelecimento em relação a cada um dos seus cursos;\n\nd) A homologação dos elencos de provas escolhidos por cada estabelecimento para cada curso;\n\ne) A regulamentação da aplicação do disposto no n.º 2 do artigo 20.º;\n\nf) A fixação do calendário de todo o processo, em articulação com os departamentos competentes do Ministério da Educação;\n\ng) A divulgação de toda a informação relevante.\n\n2 - Em relação às provas a que se refere a alínea a) do artigo 19.º, compete à CNAES, nomeadamente:\n\na) A nomeação do júri de cada uma das provas;\n\nb) A fixação das orientações gerais a que os júris se devem subordinar na elaboração dos objectivos, programa, estrutura e critérios de classificação das provas;\n\nc) A aprovação dos objectivos, programa, estrutura e critérios de classificação de cada prova;\n\nd) A fixação das regras de realização das provas;\n\ne) A fixação dos montantes a satisfazer pelos estudantes pela realização dos actos relacionados com a realização das provas;\n\nf) A direcção da realização das provas;\n\ng) A direcção do processo de classificação das provas;\n\nh) A homologação das classificações das provas."
+  },
+  "164867969": {
+   "fragment_id": "164868322",
+   "type": 8,
+   "heading": "Secção III — Pré-requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Pré-requisitos"
+  },
+  "164867970": {
+   "fragment_id": "164868323",
+   "type": 11,
+   "heading": "Artigo 22.º — Pré-requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pré-requisitos\n\n1 - Os pré-requisitos:\n\na) São realizados por cada estabelecimento de ensino superior;\n\nb) São avaliados de forma objectiva e tecnicamente rigorosa;\n\nc) Podem, consoante a sua natureza, destinar-se à selecção e seriação ou apenas à seriação dos candidatos;\n\nd) São de realização anual.\n\n2 - Os pré-requisitos são objecto de regulamento a elaborar por cada estabelecimento e sujeito a homologação da CNAES.\n\n3 - As instituições que exijam pré-requisitos para cursos similares coordenam-se obrigatoriamente para a avaliação dos mesmos."
+  },
+  "164867971": {
+   "fragment_id": "164868324",
+   "type": 11,
+   "heading": "Artigo 23.º — Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Coordenação\n\nA coordenação do processo referente aos pré-requisitos compete à CNAES, a quem incumbe, nomeadamente:\n\na) Fixar as regras gerais a que está sujeita a sua criação e regulamentação;\n\nb) Concretizar a coordenação entre as instituições que exijam pré-requisitos similares;\n\nc) Homologar os regulamentos de realização dos pré-requisitos;\n\nd) Fixar as normas para a sua certificação;\n\ne) Fixar o respectivo calendário geral de regulamentação, realização e certificação, em articulação com os departamentos competentes do Ministério da Educação."
+  },
+  "164867972": {
+   "fragment_id": "164868325",
+   "type": 1,
+   "heading": "Capítulo IV — Selecção e seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Selecção e seriação"
+  },
+  "164867973": {
+   "fragment_id": "164868326",
+   "type": 11,
+   "heading": "Artigo 24.º — Selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Selecção\n\nA selecção dos candidatos a cada curso em cada estabelecimento é realizada com base:\n\na) Nas provas de ingresso, onde deve ser obtida uma classificação mínima;\n\nb) Nos pré-requisitos que revistam natureza eliminatória, caso sejam exigidos;\n\nc) Na nota de candidatura a que se refere o artigo 26.º, onde deve ser obtida uma classificação mínima."
+  },
+  "164867974": {
+   "fragment_id": "164868327",
+   "type": 11,
+   "heading": "Artigo 25.º — Classificações mínimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Classificações mínimas\n\nAs classificações mínimas a que se referem as alíneas a) e c) do artigo anterior são fixadas anualmente por cada estabelecimento de ensino superior para cada um dos seus cursos."
+  },
+  "164868875": {
+   "fragment_id": "164868328",
+   "type": 11,
+   "heading": "Artigo 26.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Seriação\n\nA seriação dos candidatos a cada curso em cada estabelecimento é realizada com base numa nota de candidatura, cuja fórmula é fixada pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior, a qual integra exclusivamente:\n\na) A classificação final do ensino secundário, com um peso não inferior a 50%;\n\nb) A classificação da ou das provas de ingresso, com um peso não inferior a 35%;\n\nc) A classificação dos pré-requisitos de seriação, quando exigidos, com um peso não superior a 15%."
+  },
+  "164868876": {
+   "fragment_id": "164868329",
+   "type": 1,
+   "heading": "Capítulo V — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Candidatura"
+  },
+  "164868877": {
+   "fragment_id": "164868330",
+   "type": 11,
+   "heading": "Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público\n\n1 - A candidatura aos cursos ministrados em estabelecimentos de ensino superior público é feita através de um concurso nacional organizado pelo Departamento do Ensino Superior do Ministério da Educação com a colaboração dos serviços regionais deste Ministério, dos serviços regionais de educação das Regiões Autónomas dos Açores e da Madeira e dos serviços de educação do território de Macau.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) Os estabelecimentos de ensino superior sujeitos à dupla tutela:\n\n1) Dos Ministérios da Defesa Nacional e da Educação;\n\n2) Dos Ministérios da Administração Interna e da Educação;\n\nem que a candidatura é feita através de concursos locais organizados por cada estabelecimento de ensino;\n\nb) Os pares estabelecimento/curso cujas especiais características justifiquem a realização de um concurso local.\n\n3 - A realização dos concursos locais a que se refere a alínea b) do número anterior está sujeita a autorização expressa por portaria do Ministro da Educação, a requerimento do estabelecimento de ensino superior e colhido o parecer favorável da CNAES.\n\n4 - A portaria a que se refere o número anterior fixa as normas gerais a que deve obedecer o processo de avaliação de capacidade para a frequência, selecção e de seriação dos candidatos."
+  },
+  "164868878": {
+   "fragment_id": "164868331",
+   "type": 11,
+   "heading": "Artigo 28.º — Regulamento do concurso nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regulamento do concurso nacional\n\nCompete ao Ministro da Educação, ouvida a CNAES, aprovar, por portaria, o regulamento geral do concurso nacional, o qual contempla, nomeadamente:\n\na) Os contingentes em que as vagas se repartirão;\n\nb) Os princípios a que obedecem as preferências regionais para acesso aos cursos de ensino superior ministrados nas Regiões Autónomas da Madeira e dos Açores por parte dos residentes nestas Regiões;\n\nc) Os princípios a que obedecem as preferências regionais e habilitacionais para acesso aos cursos do ensino superior politécnico;\n\nd) O número de pares estabelecimento/curso a que cada estudante se pode candidatar;\n\ne) As regras de desempate no âmbito do processo de seriação a que se refere o artigo 26.º;\n\nf) As regras de colocação;\n\ng) As regras processuais necessárias;\n\nh) As regras de matrícula e inscrição."
+  },
+  "164868879": {
+   "fragment_id": "164868332",
+   "type": 11,
+   "heading": "Artigo 29.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo\n\nA candidatura aos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo é feita através de concursos institucionais organizados por cada estabelecimento de ensino."
+  },
+  "164868880": {
+   "fragment_id": "164868333",
+   "type": 11,
+   "heading": "Artigo 30.º — Regulamento dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regulamento dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo\n\nCompete ao Ministro da Educação, ouvida a CNAES, aprovar, por portaria, o regulamento geral dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo, fixando e regulando, nomeadamente, os aspectos a que se refere o artigo 28.º"
+  },
+  "164868881": {
+   "fragment_id": "164868334",
+   "type": 1,
+   "heading": "Capítulo VI — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Comissão de acompanhamento"
+  },
+  "164868882": {
+   "fragment_id": "164868335",
+   "type": 11,
+   "heading": "Artigo 31.º — Criação e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Criação e competências\n\nÉ criada uma comissão de acompanhamento do regime de acesso ao ensino superior, com as seguintes competências:\n\na) Acompanhar a execução do processo de acesso ao ensino superior;\n\nb) Elaborar um relatório anual de avaliação do sistema de acesso ao ensino superior;\n\nc) Emitir parecer sobre questões genéricas ou específicas relacionadas com o sistema de acesso ao ensino superior, quer por iniciativa do seu presidente, quer a solicitação do Ministro da Educação."
+  },
+  "164868883": {
+   "fragment_id": "164868336",
+   "type": 11,
+   "heading": "Artigo 32.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Composição\n\nA comissão é composta por:\n\na) O director do Departamento do Ensino Superior, que preside;\n\nb) Um representante do Departamento do Ensino Secundário;\n\nc) Um representante do Gabinete de Avaliação Educativa;\n\nd) Um representante dos estabelecimentos de ensino superior universitário público designado pelo Conselho de Reitores das Universidades Portuguesas;\n\ne) Um representante dos estabelecimentos de ensino superior politécnico público designado pelo Conselho Coordenador dos Institutos Superiores Politécnicos;\n\nf) Um representante dos estabelecimentos de ensino superior particular e cooperativo universitário designado por despacho do Ministro da Educação, ouvidas as organizações representativas dos mesmos;\n\ng) Um representante dos estabelecimentos de ensino superior particular e cooperativo politécnico designado por despacho do Ministro da Educação, ouvidas as organizações representativas dos mesmos;\n\nh) O presidente do Conselho Nacional de Exames do Ensino Secundário;\n\ni) Um representante das associações de pais, designado por despacho do Ministro da Educação, ouvidas as organizações representativas das mesmas;\n\nj) Um representante das associações de estudantes do ensino superior;\n\nl) Um representante das associações de estudantes do ensino secundário."
+  },
+  "164868884": {
+   "fragment_id": "164868337",
+   "type": 11,
+   "heading": "Artigo 33.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Funcionamento\n\nA comissão fixa as suas regras internas de funcionamento."
+  },
+  "164868885": {
+   "fragment_id": "164868338",
+   "type": 11,
+   "heading": "Artigo 34.º — Colaboração de especialistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Colaboração de especialistas\n\nA comissão pode solicitar ao Ministro da Educação a colaboração de especialistas quando tal seja considerado necessário para o bom andamento dos seus trabalhos."
+  },
+  "164868886": {
+   "fragment_id": "164868339",
+   "type": 11,
+   "heading": "Artigo 35.º — Fornecimento de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Fornecimento de informações\n\nOs Departamentos do Ensino Superior e do Ensino Secundário e as instituições de ensino superior facultam à comissão as informações que esta lhes solicite referentes ao processo de realização dos exames nacionais do ensino secundário e ao processo de candidatura."
+  },
+  "164868887": {
+   "fragment_id": "164868340",
+   "type": 11,
+   "heading": "Artigo 36.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Encargos\n\nOs encargos com o funcionamento da comissão são satisfeitos por conta das verbas apropriadas inscritas no orçamento do Departamento do Ensino Superior."
+  },
+  "164868888": {
+   "fragment_id": "164868341",
+   "type": 1,
+   "heading": "Capítulo VII — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Informação"
+  },
+  "164868889": {
+   "fragment_id": "164868342",
+   "type": 11,
+   "heading": "Artigo 37.º — Guia do ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Guia do ensino superior\n\n1 - O Departamento do Ensino Superior promove a edição anual de um guia do ensino superior contendo toda a informação relevante para os candidatos ao ensino superior acerca dos estabelecimentos e cursos existentes.\n\n2 - As instituições de ensino superior fornecem ao Departamento do Ensino Superior todos os elementos necessários à elaboração do guia do ensino superior."
+  },
+  "164868890": {
+   "fragment_id": "164868343",
+   "type": 11,
+   "heading": "Artigo 38.º — Guias para o acesso ao ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Guias para o acesso ao ensino superior\n\nA CNAES e o Departamento do Ensino Superior promovem a edição anual das publicações necessárias à divulgação das informações relevantes acerca do acesso ao ensino superior, nomeadamente as normas legais aplicáveis, as provas de ingresso, os pré-requisitos, as preferências regionais e outras, as classificações mínimas, a fórmula da nota de candidatura e as vagas para a candidatura a cada par estabelecimento/curso."
+  },
+  "164868891": {
+   "fragment_id": "164868344",
+   "type": 11,
+   "heading": "Artigo 39.º — Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Internet\n\nO Departamento do Ensino Superior deve igualmente assegurar a divulgação da informação a que se referem os artigos 37.º e 38.º através da Internet."
+  },
+  "164868892": {
+   "fragment_id": "164868345",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "164868893": {
+   "fragment_id": "164868346",
+   "type": 11,
+   "heading": "Artigo 40.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Prazos\n\nOs prazos em que, em cada ano lectivo, devem ser praticados os actos previstos no presente diploma são fixados anualmente por portaria do Ministro da Educação."
+  },
+  "164868894": {
+   "fragment_id": "164868347",
+   "type": 11,
+   "heading": "Artigo 41.º — Emigrantes e seus familiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Emigrantes e seus familiares\n\nPara os candidatos emigrantes e seus familiares, a habilitação a que se refere a alínea a) do artigo 7.º pode, em termos a regular por portaria do Ministro da Educação, ser substituída por um curso terminal do ensino secundário do país estrangeiro de residência aí obtido e que aí constitua habilitação de acesso ao ensino superior."
+  },
+  "164868895": {
+   "fragment_id": "164868348",
+   "type": 11,
+   "heading": "Artigo 42.º — Melhoria da classificação final do ensino secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Melhoria da classificação final do ensino secundário\n\n1 - As limitações vigentes quanto à realização de exames de disciplinas do ensino secundário para melhoria de classificação não são aplicáveis quando tais melhorias tiverem como objectivo o acesso ao ensino superior.\n\n2 - Da aplicação do disposto no número anterior não pode resultar a realização de mais de um exame da mesma disciplina na mesma fase de exames de um ano lectivo."
+  },
+  "164868896": {
+   "fragment_id": "164868349",
+   "type": 11,
+   "heading": "Artigo 43.º — Ausência de comunicação de propostas ou decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Ausência de comunicação de propostas ou decisões\n\nQuando, dentro dos prazos fixados e comunicados nos termos do presente diploma, não se verifique, por motivo imputável à instituição de ensino superior, a comunicação de propostas ou decisões que devessem ter lugar e que sejam indispensáveis à prossecução tempestiva das acções referentes ao acesso e ingresso no ensino superior, a sua fixação é feita, após comunicação aos órgãos competentes da instituição em causa, por deliberação da CNAES."
+  },
+  "164868897": {
+   "fragment_id": "164868350",
+   "type": 11,
+   "heading": "Artigo 44.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Matrícula e inscrição\n\n1 - Em cada ano lectivo, cada estudante apenas pode estar matriculado e inscrito numa instituição e curso de ensino superior.\n\n2 - Quando não seja observado o disposto no número anterior, apenas se considera válida a primeira matrícula."
+  },
+  "164868898": {
+   "fragment_id": "164868351",
+   "type": 11,
+   "heading": "Artigo 45.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Aplicação\n\nEste diploma aplica-se a partir do acesso e ingresso no ano lectivo de 1999-2000, inclusive."
+  },
+  "164868899": {
+   "fragment_id": "164868352",
+   "type": 11,
+   "heading": "Artigo 46.º — Cessação de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Cessação de vigência\n\nA partir do final do processo de acesso e ingresso no ensino superior no ano lectivo de 1998-1999, cessa a sua vigência o Decreto-Lei n.º 28-B/96, de 4 de Abril, alterado pelo Decreto-Lei n.º 75/97, de 3 de Abril, com excepção dos artigos 52.º a 59.º"
+  },
+  "164868901": {
+   "fragment_id": "164868323",
+   "type": 11,
+   "heading": "Artigo 22.º — Pré-requisitos",
+   "in_force_from": "1999-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/99 - Diário da República n.º 75/1999, Série I-A de 1999-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), em vigor a partir de 1999-03-31"
+   ],
+   "markdown": "###### Artigo 22.º — Pré-requisitos\n\n1 - Os pré-requisitos:\n\na) São realizados por cada estabelecimento de ensino superior;\n\nb) São avaliados de forma objectiva e tecnicamente rigorosa;\n\nc) Podem, consoante a sua natureza, destinar-se à selecção, à selecção e seriação ou apenas à seriação dos candidatos;\n\nd) São de realização anual.\n\n2 - Os pré-requisitos são objecto de regulamento a elaborar por cada estabelecimento e sujeito a homologação da CNAES.\n\n3 - As instituições que exijam pré-requisitos para cursos similares coordenam-se obrigatoriamente para a avaliação dos mesmos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/99 - Diário da República n.º 75/1999, Série I-A de 1999-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), em vigor a partir de 1999-03-31"
+  },
+  "164868900": {
+   "fragment_id": "164868353",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - Armando António Martins Vara - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Eduardo Carrega Marçal Grilo - Francisco Ventura Ramos.\n\nPromulgado em 23 de Setembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 24 de Setembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "164868968": {
+   "fragment_id": "164868309",
+   "type": 11,
+   "heading": "Artigo 12.º — Fornecimento de informações",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 12.º — Fornecimento de informações\n\nA Direcção-Geral do Ensino Superior, os serviços competentes do Ministério da Educação e os estabelecimentos de ensino superior facultam à CNAES as informações que esta lhes solicite referentes ao processo de realização dos exames nacionais do ensino secundário e ao processo de candidatura.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164868969": {
+   "fragment_id": "164868318",
+   "type": 11,
+   "heading": "Artigo 18.º — Elenco de provas de ingresso",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 18.º — Elenco de provas de ingresso\n\n1 - O elenco de provas de ingresso é fixado pela CNAES, sob proposta das instituições de ensino superior.\n\n2 - O elenco de provas de ingresso pode ser organizado em subelencos por áreas de estudo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164868970": {
+   "fragment_id": "164868320",
+   "type": 11,
+   "heading": "Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso\n\n1 - De entre o elenco a que se refere o artigo 18.º, cada estabelecimento de ensino superior fixa, através do seu órgão legal e estatutariamente competente, as provas que exige para o ingresso em cada um dos seus cursos.\n\n2 - Quando o elenco estiver organizado em subelencos por áreas de estudo, a fixação das provas para cada par estabelecimento/curso é feita de entre as provas que constituem o subelenco em que se integra o curso.\n\n3 - O número de provas exigidas para o ingresso em cada par estabelecimento/curso não pode ser superior a dois.\n\n4 - O número de elencos alternativos de provas fixado para cada par estabelecimento/curso não pode ser superior a três.\n\n5 - A solicitação fundamentada do órgão legal e estatutariamente competente do estabelecimento de ensino superior, a CNAES pode autorizar que, para determinados pares estabelecimento/curso, o número de elencos a que se refere o número anterior seja elevado até um máximo de seis.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871079": {
+   "fragment_id": "164870824",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Substituição das provas",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 20.º-A — Substituição das provas\n\n1 - Para os estudantes titulares de cursos não portugueses legalmente equivalentes ao ensino secundário português, as provas de ingresso fixadas nos termos do artigo 20.º podem ser substituídas por exames finais de disciplinas daqueles cursos que satisfaçam cumulativamente as seguintes condições:\n\na) Terem âmbito nacional;\n\nb) Terem sido realizados no ano lectivo que antecede imediatamente o ano a que se refere a candidatura;\n\nc) Referirem-se a disciplinas homólogas das provas de ingresso.\n\n2 - Consideram-se homólogas as disciplinas que, ainda que com denominações diferentes, tenham nível e objectivos idênticos e conteúdos similares aos do programa da prova de ingresso que visam substituir.\n\n3 - Cabe a cada estabelecimento de ensino superior decidir, através do seu órgão legal e estatutariamente competente, acerca da aplicação do previsto no n.º 1 a um ou mais dos seus cursos.\n\n4 - A classificação dos exames a que se refere o n.º 1 na sua utilização como provas de ingresso é a atribuída nos termos das normas que os regulam convertida para a escala de 0 a 200.\n\n5 - Os estudantes que pretendam beneficiar do disposto no presente artigo não podem recorrer às provas de ingresso a que se refere o artigo 19.º quando tenham realizado exames de disciplinas homólogas dessas provas que satisfaçam o disposto no n.º 1.\n\n6 - Compete à CNAES:\n\na) Regulamentar a aplicação do disposto no presente artigo;\n\nb) Homologar as decisões a que se refere o n.º 3.\n\n7 - Compete ainda à CNAES, considerando o parecer do serviço competente do Ministério da Educação:\n\na) Decidir acerca da homologia a que se refere o n.º 2, designadamente aprovando tabelas de correspondência;\n\nb) Fixar as regras para a conversão de classificações a que se refere o n.º 4.\n\n8 - As decisões a que se referem os n.os 3, 6 e 7 são proferidas e divulgadas até 31 de Maio do ano que antecede o ano de realização da candidatura.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871080": {
+   "fragment_id": "164868321",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências da CNAES em matéria de provas de ingresso",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 21.º — Competências da CNAES em matéria de provas de ingresso\n\n1 - Em matéria de provas de ingresso, compete à CNAES, nomeadamente:\n\na) A fixação do elenco e subelencos de provas e dos cursos integrados em cada área de organização dos subelencos;\n\nb) A concessão da autorização a que se refere o n.º 5 do artigo 20.º;\n\nc) A homologação dos elencos de provas escolhidos por cada estabelecimento para cada curso;\n\nd) O exercício das competências previstas nos n.os 6 e 7 do artigo 20.º-A;\n\ne) A fixação do calendário de todo o processo, em articulação com a Direcção-Geral do Ensino Superior e com os serviços competentes do Ministério da Educação;\n\nf) A divulgação de toda a informação relevante.\n\n2 - Em relação às provas a que se refere a alínea a) do artigo 19.º, compete à CNAES, nomeadamente:\n\na) A nomeação do júri de cada uma das provas;\n\nb) A fixação das orientações gerais a que os júris se devem subordinar na elaboração dos objectivos, programa, estrutura e critérios de classificação das provas;\n\nc) A aprovação dos objectivos, programa, estrutura e critérios de classificação de cada prova;\n\nd) A fixação das regras de realização das provas;\n\ne) A fixação dos montantes a satisfazer pelos estudantes pela realização dos actos relacionados com a realização das provas;\n\nf) A direcção da realização das provas;\n\ng) A direcção do processo de classificação das provas;\n\nh) A homologação das classificações das provas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164868972": {
+   "fragment_id": "164868323",
+   "type": 11,
+   "heading": "Artigo 22.º — Pré-requisitos",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/99 - Diário da República n.º 75/1999, Série I-A de 1999-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), em vigor a partir de 1999-03-31"
+   ],
+   "markdown": "###### Artigo 22.º — Pré-requisitos\n\n1 - Os pré-requisitos:\n\na) São realizados por cada estabelecimento de ensino superior;\n\nb) São avaliados de forma objectiva e tecnicamente rigorosa;\n\nc) Podem, consoante a sua natureza, destinar-se à selecção, à selecção e seriação ou apenas à seriação dos candidatos;\n\nd) São de realização anual.\n\n2 - As instituições que exijam pré-requisitos para cursos similares coordenam-se obrigatoriamente para a avaliação dos mesmos.\n\n3 - Cada pré-requisito é objecto de um regulamento aprovado pelos órgãos legal e estatutariamente competentes dos estabelecimentos de ensino superior que o tenham exigido.\n\n4 - Os regulamentos dos pré-requisitos estão sujeitos a homologação pela CNAES e são publicados na 2.ª série do Diário da República.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/99 - Diário da República n.º 75/1999, Série I-A de 1999-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), em vigor a partir de 1999-03-31"
+  },
+  "164868973": {
+   "fragment_id": "164868324",
+   "type": 11,
+   "heading": "Artigo 23.º — Coordenação",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 23.º — Coordenação\n\nA coordenação do processo referente aos pré-requisitos compete à CNAES, a quem incumbe, nomeadamente:\n\na) Fixar as regras gerais a que está sujeita a sua criação e regulamentação;\n\nb) Concretizar a coordenação entre as instituições que exijam pré-requisitos similares;\n\nc) Homologar os regulamentos de realização dos pré-requisitos;\n\nd) Fixar as normas para a sua certificação;\n\ne) Fixar o respectivo calendário geral de regulamentação, realização e certificação em articulação com a Direcção-Geral do Ensino Superior e com os serviços competentes do Ministério da Educação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164868974": {
+   "fragment_id": "164868327",
+   "type": 11,
+   "heading": "Artigo 25.º — Classificações mínimas",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 25.º — Classificações mínimas\n\n1 - As classificações mínimas a que se referem as alíneas a) e c) do artigo anterior são fixadas anualmente pelo órgão legal e estatutariamente competente de cada estabelecimento de ensino superior para cada um dos seus cursos.\n\n2 - A classificação mínima a que se refere a alínea a) do artigo anterior é fixada num valor igual ou superior a 95 pontos na escala de 0 a 200.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871075": {
+   "fragment_id": "164868328",
+   "type": 11,
+   "heading": "Artigo 26.º — Seriação",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 26.º — Seriação\n\n1 - A seriação dos candidatos a cada curso em cada estabelecimento é realizada com base numa nota de candidatura, cuja fórmula é fixada pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior, a qual integra exclusivamente:\n\na) A classificação final do ensino secundário, com um peso não inferior a 50%;\n\nb) A classificação da ou das provas de ingresso, com um peso não inferior a 35%;\n\nc) A classificação dos pré-requisitos de seriação, quando exigidos, com um peso não superior a 15%.\n\n2 - Para este fim, a classificação final do ensino secundário dos cursos portugueses é calculada nos termos das normas legais aplicáveis a cada caso, até às décimas, sem arredondamento, e convertida para a escala de 0 a 200.\n\n3 - Para este fim, a classificação final do ensino secundário dos cursos não portugueses legalmente equivalentes ao ensino secundário português, bem como dos cursos a que se refere a parte final do artigo 41.º, é a atribuída nos termos das normas que os regulam, convertida para a escala de 0 a 200 nos termos de regras fixadas por despacho do Ministro da Educação.\n\n4 - A classificação das provas de ingresso a que se refere a alínea a) do artigo 19.º é atribuída na escala de 0 a 200.\n\n5 - A classificação dos exames nacionais do ensino secundário é atribuída na escala de 0 a 200.\n\n6 - A classificação dos pré-requisitos de seriação é atribuída na escala de 0 a 200.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871076": {
+   "fragment_id": "164868330",
+   "type": 11,
+   "heading": "Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público\n\n1 - A candidatura aos cursos ministrados em estabelecimentos de ensino superior público é feita através de um concurso nacional organizado pela Direcção-Geral do Ensino Superior com a colaboração dos serviços regionais do Ministério da Educação e dos serviços regionais de educação das Regiões Autónomas dos Açores e da Madeira.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) Os estabelecimentos de ensino superior sujeitos à dupla tutela:\n\n1) Dos Ministérios da Defesa Nacional e da Educação;\n\n2) Dos Ministérios da Administração Interna e da Educação;\n\nem que a candidatura é feita através de concursos locais organizados por cada estabelecimento de ensino;\n\nb) Os pares estabelecimento/curso cujas especiais características justifiquem a realização de um concurso local.\n\n3 - A realização dos concursos locais a que se refere a alínea b) do número anterior está sujeita a autorização expressa por portaria do Ministro da Educação, a requerimento do estabelecimento de ensino superior e colhido o parecer favorável da CNAES.\n\n4 - A portaria a que se refere o número anterior fixa as normas gerais a que deve obedecer o processo de avaliação de capacidade para a frequência, selecção e de seriação dos candidatos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871077": {
+   "fragment_id": "164868336",
+   "type": 11,
+   "heading": "Artigo 32.º — Composição",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 32.º — Composição\n\nA comissão é composta por:\n\na) O director do Departamento do Ensino Superior, que preside;\n\nb) Dois representantes dos serviços do Ministério da Educação responsáveis pelo ensino secundário e pelos exames nacionais do ensino secundário;\n\nc) Um representante dos estabelecimentos de ensino superior universitário público designado pelo Conselho de Reitores das Universidades Portuguesas;\n\nd) Um representante dos estabelecimentos de ensino superior politécnico público designado pelo Conselho Coordenador dos Institutos Superiores Politécnicos;\n\ne) Um representante dos estabelecimentos de ensino superior particular e cooperativo universitário designado por despacho do Ministro da Educação, ouvidas as organizações representativas dos mesmos;\n\nf) Um representante dos estabelecimentos de ensino superior particular e cooperativo politécnico designado por despacho do Ministro da Educação, ouvidas as organizações representativas dos mesmos;\n\ng) O presidente do Conselho Nacional de Exames do Ensino Secundário;\n\nh) Um representante das associações de pais, designado por despacho do Ministro da Educação, ouvidas as organizações representativas das mesmas;\n\ni) Um representante das associações de estudantes do ensino superior;\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871078": {
+   "fragment_id": "164868339",
+   "type": 11,
+   "heading": "Artigo 35.º — Fornecimento de informações",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 35.º — Fornecimento de informações\n\nA Direcção-Geral do Ensino Superior, os serviços competentes do Ministério da Educação e os estabelecimentos de ensino superior facultam à Comissão as informações que esta lhes solicite referentes ao processo de realização dos exames nacionais do ensino secundário e ao processo de candidatura.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871081": {
+   "fragment_id": "164870825",
+   "type": 11,
+   "heading": "Artigo 47.º — Disposição transitória",
+   "in_force_from": "2003-02-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 47.º — Disposição transitória\n\nA classificação final do ensino secundário dos cursos já extintos não é objecto de novo cálculo nos termos do n.º 2 do artigo 26.º, sendo apenas convertida para a escala de 0 a 200.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871086": {
+   "fragment_id": "164868331",
+   "type": 11,
+   "heading": "Artigo 28.º — Regulamento do concurso nacional",
+   "in_force_from": "2004-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+   ],
+   "markdown": "###### Artigo 28.º — Regulamento do concurso nacional\n\nCompete ao Ministro da Ciência e do Ensino Superior, ouvida a CNAES e os órgãos de governo próprio das Regiões Autónomas, aprovar, por portaria, o Regulamento Geral do Concurso Nacional, o qual contempla, nomeadamente:\n\na) Os contingentes em que as vagas se repartirão;\n\nb) Os princípios a que obedecem as preferências regionais para acesso aos cursos de ensino superior ministrados nas Regiões Autónomas da Madeira e dos Açores por parte dos residentes nestas Regiões;\n\nc) Os princípios a que obedecem as preferências regionais e habilitacionais para acesso aos cursos do ensino superior politécnico;\n\nd) O número de pares estabelecimento/curso a que cada estudante se pode candidatar;\n\ne) As regras de desempate no âmbito do processo de seriação a que se refere o artigo 26.º;\n\nf) As regras de colocação;\n\ng) As regras de utilização das vagas sobrantes, designadamente através da abertura de uma ou mais fases complementares de candidatura;\n\nh) As regras processuais necessárias;\n\ni) As regras de matrícula e inscrição.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+  },
+  "164871087": {
+   "fragment_id": "164868348",
+   "type": 11,
+   "heading": "Artigo 42.º — Melhoria da classificação final do ensino secundário",
+   "in_force_from": "2004-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+   ],
+   "markdown": "###### Artigo 42.º — Melhoria da classificação final do ensino secundário\n\n1 - As limitações vigentes quanto à realização de exames de disciplinas do ensino secundário para melhoria de classificação não são aplicáveis quando tais melhorias forem obtidas em provas de exame de âmbito nacional e tiverem como objectivo o acesso ao ensino superior.\n\n2 - As melhorias de classificação obtidas na segunda fase dos exames nacionais do ensino secundário não podem ser utilizadas no âmbito da primeira fase dos concursos a que se refere o capítulo V.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+  },
+  "164871092": {
+   "fragment_id": "164868321",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências da CNAES em matéria de provas de ingresso",
+   "in_force_from": "2004-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 21.º — Competências da CNAES em matéria de provas de ingresso\n\n1 - Em matéria de provas de ingresso, compete à CNAES, nomeadamente:\n\na) A fixação do elenco e subelencos de provas e dos cursos integrados em cada área de organização dos subelencos;\n\nb) A concessão da autorização a que se refere o n.º 5 do artigo 20.º;\n\nd) As condições de utilização dos exames a que se refere a alínea b) do artigo 19.º;\n\nc) A homologação dos elencos de provas escolhidos por cada estabelecimento para cada curso;\n\ne) O exercício das competências previstas nos n.os 6 e 7 do artigo 20.º-A;\n\nf) A fixação do calendário de todo o processo, em articulação com a Direcção-Geral do Ensino Superior e com os serviços competentes do Ministério da Educação;\n\ng) A divulgação de toda a informação relevante.\n\n2 - Em relação às provas a que se refere a alínea a) do artigo 19.º, compete à CNAES, nomeadamente:\n\na) A nomeação do júri de cada uma das provas;\n\nb) A fixação das orientações gerais a que os júris se devem subordinar na elaboração dos objectivos, programa, estrutura e critérios de classificação das provas;\n\nc) A aprovação dos objectivos, programa, estrutura e critérios de classificação de cada prova;\n\nd) A fixação das regras de realização das provas;\n\ne) A fixação dos montantes a satisfazer pelos estudantes pela realização dos actos relacionados com a realização das provas;\n\nf) A direcção da realização das provas;\n\ng) A direcção do processo de classificação das provas;\n\nh) A homologação das classificações das provas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871093": {
+   "fragment_id": "164868348",
+   "type": 11,
+   "heading": "Artigo 42.º — Melhoria da classificação final do ensino secundário",
+   "in_force_from": "2004-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+   ],
+   "markdown": "###### Artigo 42.º — Melhoria da classificação final do ensino secundário\n\n1 - As limitações vigentes quanto à realização de exames de disciplinas do ensino secundário para melhoria da classificação final do ensino secundário não são aplicáveis quando tais melhorias forem obtidas em provas de exame de âmbito nacional e tiverem como objectivo o acesso ao ensino superior.\n\n2 - Em cada ano lectivo, a classificação final do ensino secundário utilizada na primeira fase dos concursos a que se refere o capítulo V só pode integrar melhorias de classificação resultantes de exames realizados:\n\na) Em anos lectivos anteriores;\n\nb) Na primeira fase dos exames nacionais do ensino secundário desse ano lectivo;\n\nc) Na segunda fase dos exames nacionais do ensino secundário desse ano lectivo, quando o estudante não tenha realizado o mesmo exame na primeira fase.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+  },
+  "164871094": {
+   "fragment_id": "164870825",
+   "type": 11,
+   "heading": "Artigo 47.º — Disposição transitória",
+   "in_force_from": "2004-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 47.º — Disposição transitória\n\n1-A classificação final do ensino secundário dos cursos já extintos não é objecto de novo cálculo nos termos do n.º 2 do artigo 26.º, sendo apenas convertida para a escala de 0 a 200.\n\n2 - As melhorias de classificação do ensino secundário obtidas até ao ano lectivo de 2002-2003, inclusive, ao abrigo da redacção inicial do n.º 1 do artigo 42.º, através da realização de exames do ensino secundário de equivalência à frequência conservam a sua validade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871099": {
+   "fragment_id": "164868348",
+   "type": 11,
+   "heading": "Artigo 42.º — Melhoria da classificação final do ensino secundário",
+   "in_force_from": "2006-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 147-A/2006 - Diário da República n.º 146/2006, 1º Suplemento, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), em vigor a partir de 2006-08-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+   ],
+   "markdown": "###### Artigo 42.º — Melhoria da classificação final do ensino secundário\n\n1 - As limitações vigentes quanto à realização de exames de disciplinas do ensino secundário para melhoria da classificação final do ensino secundário não são aplicáveis quando tais melhorias forem obtidas em provas de exame de âmbito nacional e tiverem como objectivo o acesso ao ensino superior.\n\n2 - Em cada ano lectivo, a classificação final do ensino secundário utilizada na primeira fase dos concursos a que se refere o capítulo V só pode integrar melhorias de classificação resultantes de exames realizados:\n\na) Em anos lectivos anteriores;\n\nb) Na primeira fase dos exames nacionais do ensino secundário desse ano lectivo;\n\nc) Na 2.ª fase dos exames nacionais do ensino secundário desse ano lectivo, quando o estudante não tenha realizado o mesmo exame na 1.ª fase ou quando tal seja permitido, por despacho fundamentado do membro do Governo com a tutela sobre o ensino secundário, em razão de circunstâncias excepcionais verificadas no processo de avaliação e susceptíveis de prejudicar gravemente os candidatos ou de pôr em causa o princípio da igualdade entre candidaturas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 147-A/2006 - Diário da República n.º 146/2006, 1º Suplemento, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), em vigor a partir de 2006-08-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+  },
+  "164871119": {
+   "fragment_id": "164870863",
+   "type": 11,
+   "heading": "Artigo 20.º-B — Acesso ao curso de Medicina",
+   "in_force_from": "2007-02-25",
+   "changed_by": [
+    "Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 40/2007 - Diário da República n.º 36/2007, Série I de 2007-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), em vigor a partir de 2007-02-25"
+   ],
+   "markdown": "###### Artigo 20.º-B — Acesso ao curso de Medicina\n\n1 - As provas de ingresso ao curso de Medicina integram, obrigatoriamente, as áreas de Biologia, Física, Matemática e Química.\n\n2 - Se a concretização do disposto no número anterior o tornar indispensável, o número de provas de ingresso para acesso ao curso de Medicina pode ser de três.\n\n> Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 40/2007 - Diário da República n.º 36/2007, Série I de 2007-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), em vigor a partir de 2007-02-25"
+  },
+  "164871120": {
+   "fragment_id": "164868321",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências da CNAES em matéria de provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 21.º — Competências da CNAES em matéria de provas de ingresso\n\n1 - Em matéria de provas de ingresso, compete à CNAES, nomeadamente:\n\na) A fixação do elenco e subelencos de provas e dos cursos integrados em cada área de organização dos subelencos;\n\nb) A concessão da autorização a que se refere o n.º 5 do artigo 20.º;\n\nd) As condições de utilização dos exames a que se refere a alínea b) do artigo 19.º;\n\nc) A homologação dos elencos de provas escolhidos por cada estabelecimento para cada curso;\n\ne) O exercício das competências previstas nos n.os 6 e 7 do artigo 20.º-A;\n\nf) A fixação do calendário de todo o processo, em articulação com a Direcção-Geral do Ensino Superior e com os serviços competentes do Ministério da Educação;\n\ng) A divulgação de toda a informação relevante.\n\n2 - Em relação às provas a que se refere a alínea a) do artigo 19.º, compete à CNAES, nomeadamente:\n\na) A nomeação do júri de cada uma das provas;\n\nb) A fixação das orientações gerais a que os júris se devem subordinar na elaboração dos objectivos, programa, estrutura e critérios de classificação das provas;\n\nc) A aprovação dos objectivos, programa, estrutura e critérios de classificação de cada prova;\n\nd) A fixação das regras de realização das provas;\n\ne) A fixação dos montantes a satisfazer pelos estudantes pela realização dos actos relacionados com a realização das provas;\n\nf) A direcção da realização das provas;\n\ng) A direcção do processo de classificação das provas;\n\nh) A homologação das classificações das provas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871126": {
+   "fragment_id": "164868330",
+   "type": 11,
+   "heading": "Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público",
+   "in_force_from": "2007-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público\n\n1 - A candidatura aos cursos ministrados em estabelecimentos de ensino superior público é feita através de um concurso nacional organizado pela Direcção-Geral do Ensino Superior com a colaboração dos serviços regionais do Ministério da Educação e dos serviços regionais de educação das Regiões Autónomas dos Açores e da Madeira.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) Os estabelecimentos de ensino superior sujeitos à dupla tutela:\n\n1) Dos Ministérios da Defesa Nacional e da Educação;\n\n2) Dos Ministérios da Administração Interna e da Educação;\n\nem que a candidatura é feita através de concursos locais organizados por cada estabelecimento de ensino;\n\nb) Os pares estabelecimento/curso cujas especiais características justifiquem a realização de um concurso local.\n\n3 - A realização dos concursos locais a que se refere a alínea b) do número anterior está sujeita a autorização expressa por portaria do Ministro da Educação, a requerimento do estabelecimento de ensino superior e colhido o parecer favorável da CNAES.\n\n4 - A portaria a que se refere o número anterior fixa as normas gerais a que deve obedecer o processo de avaliação de capacidade para a frequência, selecção e de seriação dos candidatos.\n\n5 - A apresentação da candidatura ao concurso nacional pode ser realizada através da Internet.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164871127": {
+   "fragment_id": "164868331",
+   "type": 11,
+   "heading": "Artigo 28.º — Regulamento do concurso nacional",
+   "in_force_from": "2007-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+   ],
+   "markdown": "###### Artigo 28.º — Regulamento do concurso nacional\n\nCompete ao Ministro da Ciência e do Ensino Superior, ouvida a CNAES e os órgãos de governo próprio das Regiões Autónomas, aprovar, por portaria, o Regulamento Geral do Concurso Nacional, o qual contempla, nomeadamente:\n\na) Os contingentes em que as vagas se repartirão;\n\nb) Os princípios a que obedecem as preferências regionais para acesso aos cursos de ensino superior ministrados nas Regiões Autónomas da Madeira e dos Açores por parte dos residentes nestas Regiões;\n\nc) Os princípios a que obedecem as preferências regionais e habilitacionais para acesso aos cursos do ensino superior politécnico;\n\nd) O número de pares estabelecimento/curso a que cada estudante se pode candidatar;\n\ne) As regras de desempate no âmbito do processo de seriação a que se refere o artigo 26.º;\n\nf) As regras de colocação;\n\ng) As regras de utilização das vagas sobrantes, designadamente através da abertura de uma ou mais fases complementares de candidatura;\n\nh) As regras processuais necessárias, incluindo as referentes à apresentação da candidatura através da Internet;\n\ni) As regras de matrícula e inscrição.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+  },
+  "164871128": {
+   "fragment_id": "164868342",
+   "type": 11,
+   "heading": "Artigo 37.º — Guia do ensino superior",
+   "in_force_from": "2007-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28"
+   ],
+   "markdown": "###### Artigo 37.º — Guia do ensino superior\n\n1 - A Direcção-Geral do Ensino Superior assegura a divulgação através da Internet, e de outros meios que considerar adequados, de toda a informação relevante para os candidatos ao ensino superior acerca dos estabelecimentos e cursos existentes.\n\n2 - As instituições de ensino superior fornecem à Direcção-Geral do Ensino Superior todos os elementos necessários à divulgação daquela informação\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28"
+  },
+  "164871129": {
+   "fragment_id": "164868343",
+   "type": 11,
+   "heading": "Artigo 38.º — Informação sobre o acesso ao ensino superior",
+   "in_force_from": "2007-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28"
+   ],
+   "markdown": "###### Artigo 38.º — Informação sobre o acesso ao ensino superior\n\nA Direcção-Geral do Ensino Superior assegura a divulgação através da Internet e de outros meios que considerar adequados de toda a informação relevante acerca do acesso ao ensino superior, nomeadamente a referente às normas legais aplicáveis, às provas de ingresso, aos pré-requisitos, às preferências regionais e outras, às classificações mínimas, à fórmula da nota de candidatura e às vagas para a candidatura a cada par estabelecimento/curso.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28"
+  },
+  "164871130": {
+   "fragment_id": "164868344",
+   "type": 11,
+   "heading": "Artigo 39.º — Internet",
+   "in_force_from": "2007-02-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28"
+   ],
+   "markdown": "###### Artigo 39.º — Internet\n\nO Departamento do Ensino Superior deve igualmente assegurar a divulgação da informação a que se referem os artigos 37.º e 38.º através da Internet.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28"
+  },
+  "164872901": {
+   "fragment_id": "164868298",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e aplicação",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito e aplicação\n\nEste regime aplica-se ao acesso e ingresso nos estabelecimentos de ensino superior público e particular e cooperativo para a frequência de ciclos de estudos de licenciatura e integrados de mestrado, adiante designados por cursos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+  },
+  "164872902": {
+   "fragment_id": "164868300",
+   "type": 11,
+   "heading": "Artigo 4.º — Fixação das vagas",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+   ],
+   "markdown": "###### Artigo 4.º — Fixação das vagas\n\nAs vagas para os cursos das instituições de ensino superior públicas e privadas são fixadas, anualmente, pelos órgãos legal e estatutariamente competentes de cada instituição nos termos do artigo 64.º da Lei n.º 62/2007, de 10 de Setembro, e comunicadas à Direcção-Geral do Ensino Superior, acompanhadas da respectiva fundamentação, no prazo fixado nos termos do artigo 40.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+  },
+  "164872903": {
+   "fragment_id": "164868301",
+   "type": 11,
+   "heading": "Artigo 5.º — Fixação das vagas para as instituições de ensino militar e policial",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+   ],
+   "markdown": "###### Artigo 5.º — Fixação das vagas para as instituições de ensino militar e policial\n\nExceptuam-se do disposto no artigo anterior as vagas para as instituições de ensino superior militar e policial, que são fixadas, anualmente, por portaria conjunta dos ministros da tutela.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+  },
+  "164872904": {
+   "fragment_id": "164868320",
+   "type": 11,
+   "heading": "Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso\n\n1 - De entre o elenco a que se refere o artigo 18.º, cada estabelecimento de ensino superior fixa, através do seu órgão legal e estatutariamente competente, as provas que exige para o ingresso em cada um dos seus cursos.\n\n2 - Quando o elenco estiver organizado em subelencos por áreas de estudo, a fixação das provas para cada par estabelecimento/curso é feita de entre as provas que constituem o subelenco em que se integra o curso.\n\n3 - O número de provas exigidas para o ingresso em cada par estabelecimento/curso não pode ser superior a dois.\n\n4 - O número de elencos alternativos de provas fixado para cada par estabelecimento/curso não pode ser superior a três.\n\n5 - A solicitação fundamentada do órgão legal e estatutariamente competente do estabelecimento de ensino superior, a CNAES pode autorizar que, para determinados pares estabelecimento/curso, o número de elencos a que se refere o número anterior seja elevado até um máximo de seis.\n\n6 - À fixação das disciplinas sobre que devem incidir as provas de capacidade para a frequência dos ciclos de estudos de licenciatura ou integrados de mestrado aplica-se igualmente o disposto no artigo 181.º da Lei n.º 62/2007, de 10 de Setembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164872905": {
+   "fragment_id": "164870824",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Substituição das provas",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 20.º-A — Substituição das provas\n\n1 - Para os estudantes titulares de cursos não portugueses legalmente equivalentes ao ensino secundário português, as provas de ingresso fixadas nos termos do artigo 20.º podem ser substituídas por exames finais de disciplinas daqueles cursos que satisfaçam cumulativamente as seguintes condições:\n\na) Terem âmbito nacional;\n\nb) (Revogado.)\n\nc) Referirem-se a disciplinas homólogas das provas de ingresso.\n\n2 - Consideram-se homólogas as disciplinas que, ainda que com denominações diferentes, tenham nível e objectivos idênticos e conteúdos similares aos do programa da prova de ingresso que visam substituir.\n\n3 - Cabe a cada estabelecimento de ensino superior decidir, através do seu órgão legal e estatutariamente competente, acerca da aplicação do previsto no n.º 1 a um ou mais dos seus cursos.\n\n4 - A classificação dos exames a que se refere o n.º 1 na sua utilização como provas de ingresso é a atribuída nos termos das normas que os regulam convertida para a escala de 0 a 200.\n\n5 - Os estudantes que pretendam beneficiar do disposto no presente artigo não podem recorrer às provas de ingresso a que se refere o artigo 19.º quando tenham realizado exames de disciplinas homólogas dessas provas que satisfaçam o disposto no n.º 1.\n\n6 - Compete à CNAES:\n\na) Regulamentar a aplicação do disposto no presente artigo;\n\nb) Decidir acerca da homologação a que se refere o n.º 2, designadamente aprovando tabelas de correspondência;\n\nc) Homologar as decisões a que se refere o n.º 3.\n\nd) Fixar as regras para a conversão de classificações a que se refere o n.º 4.\n\n7 - (Revogado.)\n\n8 - As decisões a que se referem os n.os 3 e 6 são proferidas e divulgadas até 31 de Maio do ano que antecede o ano de realização da candidatura.\n\n9 - Os exames a que se refere o n.º 1 podem ser utilizados como provas de ingresso por um prazo idêntico ao fixado pela CNAES para a utilização dos exames nacionais do ensino secundário.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164872906": {
+   "fragment_id": "164868321",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências da CNAES em matéria de provas de ingresso",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 21.º — Competências da CNAES em matéria de provas de ingresso\n\n1 - Em matéria de provas de ingresso, compete à CNAES, nomeadamente:\n\na) A fixação do elenco e subelencos de provas e dos cursos integrados em cada área de organização dos subelencos;\n\nb) A concessão da autorização a que se refere o n.º 5 do artigo 20.º;\n\nc) As condições de utilização dos exames a que se refere a alínea b) do artigo 19.º;\n\nd) As condições de utilização dos exames a que se refere a alínea b) do artigo 19.º e o n.º 1 do artigo 20.º-A;\n\ne) O exercício das competências previstas nos n.os 6 e 7 do artigo 20.º-A;\n\nf) O exercício das competências previstas no n.º 6 do artigo 20.º-A;\n\ng) A divulgação de toda a informação relevante.\n\n2 - Em relação às provas a que se refere a alínea a) do artigo 19.º, compete à CNAES, nomeadamente:\n\na) A nomeação do júri de cada uma das provas;\n\nb) A fixação das orientações gerais a que os júris se devem subordinar na elaboração dos objectivos, programa, estrutura e critérios de classificação das provas;\n\nc) A aprovação dos objectivos, programa, estrutura e critérios de classificação de cada prova;\n\nd) A fixação das regras de realização das provas;\n\ne) A fixação dos montantes a satisfazer pelos estudantes pela realização dos actos relacionados com a realização das provas;\n\nf) A direcção da realização das provas;\n\ng) A direcção do processo de classificação das provas;\n\nh) A homologação das classificações das provas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164872907": {
+   "fragment_id": "164868323",
+   "type": 11,
+   "heading": "Artigo 22.º — Pré-requisitos",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/99 - Diário da República n.º 75/1999, Série I-A de 1999-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), em vigor a partir de 1999-03-31"
+   ],
+   "markdown": "###### Artigo 22.º — Pré-requisitos\n\n1 - Os pré-requisitos:\n\na) São realizados por cada estabelecimento de ensino superior;\n\nb) São avaliados de forma objectiva e tecnicamente rigorosa;\n\nc) Podem, consoante a sua natureza, destinar-se à selecção, à selecção e seriação ou apenas à seriação dos candidatos;\n\nd) São de realização anual.\n\n2 - As instituições que exijam pré-requisitos para cursos similares coordenam-se obrigatoriamente para a avaliação dos mesmos.\n\n3 - Cada pré-requisito é objecto de um regulamento aprovado pela CNAES sob proposta dos órgãos legal e estatutariamente competentes dos estabelecimentos de ensino superior que o tenham exigido.\n\n4 - Os regulamentos dos pré-requisitos são publicados na 2.ª série do Diário da República.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/99 - Diário da República n.º 75/1999, Série I-A de 1999-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), em vigor a partir de 1999-03-31"
+  },
+  "164872908": {
+   "fragment_id": "164868324",
+   "type": 11,
+   "heading": "Artigo 23.º — Coordenação",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 23.º — Coordenação\n\nA coordenação do processo referente aos pré-requisitos compete à CNAES, a quem incumbe, nomeadamente:\n\na) Fixar as regras gerais a que está sujeita a sua criação e regulamentação;\n\nb) Concretizar a coordenação entre as instituições que exijam pré-requisitos similares;\n\nc) Aprovar os regulamentos de realização dos pré-requisitos;\n\nd) Fixar as normas para a sua certificação;\n\ne) Fixar o respectivo calendário geral de regulamentação, realização e certificação em articulação com a Direcção-Geral do Ensino Superior e com os serviços competentes do Ministério da Educação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164872909": {
+   "fragment_id": "164868328",
+   "type": 11,
+   "heading": "Artigo 26.º — Seriação",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 26.º — Seriação\n\n1 - A seriação dos candidatos a cada curso em cada estabelecimento é realizada com base numa nota de candidatura, cuja fórmula é fixada pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior, a qual integra exclusivamente:\n\na) A classificação final do ensino secundário, com um peso não inferior a 50%;\n\nb) A classificação da ou das provas de ingresso, com um peso não inferior a 35%;\n\nc) A classificação dos pré-requisitos de seriação, quando exigidos, com um peso não superior a 15%.\n\n2 - Para este fim, a classificação final do ensino secundário dos cursos portugueses é calculada nos termos das normas legais aplicáveis a cada caso, até às décimas, sem arredondamento, e convertida para a escala de 0 a 200.\n\n3 - Para este fim, a classificação final do ensino secundário dos cursos não portugueses legalmente equivalentes ao ensino secundário português, bem como dos cursos a que se refere a parte final do artigo 41.º, é a atribuída nos termos das normas que os regulam, convertida para a escala de 0 a 200 nos termos de regras fixadas por despacho do Ministro da Educação.\n\n4 - A classificação das provas de ingresso a que se refere a alínea a) do artigo 19.º é atribuída na escala de 0 a 200.\n\n5 - A classificação dos exames nacionais do ensino secundário é atribuída na escala de 0 a 200.\n\n6 - A classificação dos pré-requisitos de seriação é atribuída na escala de 0 a 200.\n\n7 - O valor da classificação final do ensino secundário, para os fins do presente artigo, para os candidatos cujo diploma de ensino secundário, nos termos da lei, não inclua essa classificação, é fixado de acordo com critérios a aprovar por deliberação da CNAES, os quais terão em consideração os resultados obtidos nas provas de ingresso realizadas por aqueles.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "164872910": {
+   "fragment_id": "164868346",
+   "type": 11,
+   "heading": "Artigo 40.º — Prazos",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+   ],
+   "markdown": "###### Artigo 40.º — Prazos\n\nOs prazos em que, em cada ano lectivo, devem ser praticados os actos previstos no presente diploma são fixados anualmente por despacho do director-geral do Ensino Superior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+  },
+  "164872911": {
+   "fragment_id": "164868348",
+   "type": 11,
+   "heading": "Artigo 42.º — Melhoria da classificação final do ensino secundário",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 147-A/2006 - Diário da República n.º 146/2006, 1º Suplemento, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), em vigor a partir de 2006-08-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+   ],
+   "markdown": "###### Artigo 42.º — Melhoria da classificação final do ensino secundário\n\n1 - As limitações vigentes quanto à realização de exames de disciplinas do ensino secundário para melhoria da classificação final do ensino secundário não são aplicáveis quando tais melhorias forem obtidas em provas de exame de âmbito nacional e tiverem como objectivo o acesso ao ensino superior.\n\n2 - Em cada ano lectivo, a classificação final do ensino secundário utilizada na primeira fase dos concursos a que se refere o capítulo V só pode integrar melhorias de classificação resultantes de exames realizados:\n\na) Em anos lectivos anteriores;\n\nb) Na primeira fase dos exames nacionais do ensino secundário desse ano lectivo;\n\nc) Na 2.ª fase dos exames nacionais do ensino secundário desse ano lectivo, quando o estudante não tenha realizado o mesmo exame na 1.ª fase, estando legalmente habilitado para o fazer.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 147-A/2006 - Diário da República n.º 146/2006, 1º Suplemento, Série I de 2006-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), em vigor a partir de 2006-08-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 76/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), em vigor a partir de 2004-04-01"
+  },
+  "164872912": {
+   "fragment_id": "164868350",
+   "type": 11,
+   "heading": "Artigo 44.º — Matrícula e inscrição",
+   "in_force_from": "2008-05-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+   ],
+   "markdown": "###### Artigo 44.º — Matrícula e inscrição\n\n1 - Em cada ano lectivo, cada estudante apenas pode estar matriculado e inscrito numa instituição e curso de ensino superior.\n\n2 - Quando não seja observado o disposto no número anterior, apenas se considera válida a primeira matrícula.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+  },
+  "164872913": {
+   "fragment_id": "164868307",
+   "type": 11,
+   "heading": "Artigo 10.º — Composição da CNAES",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 10.º — Composição da CNAES\n\n1 - A CNAES é constituída por:\n\na) Dois representantes dos estabelecimentos de ensino superior universitário público nomeados pelo Conselho de Reitores das Universidades Portuguesas;\n\nb) Dois representantes dos estabelecimentos de ensino superior politécnico público nomeados pelo Conselho Coordenador dos Institutos Superiores Politécnicos;\n\nc) Três representantes dos estabelecimentos de ensino superior particular e cooperativo nomeados pela Associação Portuguesa do Ensino Superior Privado.\n\n2 - A CNAES escolhe de entre os seus membros um presidente e um vice-presidente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "164872914": {
+   "fragment_id": "164870824",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Substituição das provas",
+   "in_force_from": "2020-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 20.º-A — Substituição das provas\n\n1 - Para os estudantes titulares de cursos não portugueses legalmente equivalentes ao ensino secundário português, as provas de ingresso fixadas nos termos do artigo 20.º podem ser substituídas por exames finais de disciplinas daqueles cursos que satisfaçam cumulativamente as seguintes condições:\n\na) Terem âmbito nacional;\n\nb) (Revogado.)\n\nc) Referirem-se a disciplinas homólogas das provas de ingresso.\n\n2 - Consideram-se homólogas as disciplinas que, ainda que com denominações diferentes, tenham nível e objectivos idênticos e conteúdos similares aos do programa da prova de ingresso que visam substituir.\n\n3 - Cabe a cada estabelecimento de ensino superior decidir, através do seu órgão legal e estatutariamente competente, acerca da aplicação do previsto no n.º 1 a um ou mais dos seus cursos.\n\n4 - A classificação dos exames a que se refere o n.º 1 na sua utilização como provas de ingresso é a atribuída nos termos das normas que os regulam convertida para a escala de 0 a 200.\n\n5 - Os estudantes que pretendam beneficiar do disposto no presente artigo não podem recorrer às provas de ingresso a que se refere o artigo 19.º quando tenham realizado exames de disciplinas homólogas dessas provas que satisfaçam o disposto no n.º 1.\n\n6 - Compete à CNAES:\n\na) Regulamentar a aplicação do disposto no presente artigo;\n\nb) Decidir acerca da homologação a que se refere o n.º 2, designadamente aprovando tabelas de correspondência;\n\nc) Homologar as decisões a que se refere o n.º 3.\n\nd) Fixar as regras para a conversão de classificações a que se refere o n.º 4.\n\n7 - (Revogado.)\n\n8 - As decisões a que referem os n.os 3 e 6 são proferidas até 31 de maio do ano da realização da candidatura.\n\n9 - Os exames a que se refere o n.º 1 podem ser utilizados como provas de ingresso por um prazo idêntico ao fixado pela CNAES para a utilização dos exames nacionais do ensino secundário.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "216567178": {
+   "fragment_id": "164868297",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei regula o regime geral de acesso e ingresso no ensino superior.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567179": {
+   "fragment_id": "164868298",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e aplicação",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito e aplicação\n\n1 - Este regime aplica-se ao acesso e ingresso nas instituições de ensino superior públicas e privadas para a frequência de ciclos de estudos de licenciatura e integrados de mestrado, adiante designados por cursos.\n\n2 - O acesso e ingresso nos cursos ministrados no regime de ensino à distância é regulado por legislação especial.\n\n3 - O acesso e ingresso na Universidade Católica Portuguesa é realizado nos termos do Decreto-Lei n.º 128/90, de 17 de abril, na sua redação atual, sem prejuízo dos deveres de comunicação à Direção-Geral do Ensino Superior (DGES) das vagas e condições de ingresso fixadas para cada ciclo de estudos.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+  },
+  "216567180": {
+   "fragment_id": "164868299",
+   "type": 11,
+   "heading": "Artigo 3.º — Limitações quantitativas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — Limitações quantitativas\n\nO ingresso em cada par instituição/ciclo de estudos está sujeito a limitações quantitativas, decorrentes do número de vagas fixado nos termos do presente decreto-lei.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567181": {
+   "fragment_id": "164868300",
+   "type": 11,
+   "heading": "Artigo 4.º — Fixação das vagas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+   ],
+   "markdown": "###### Artigo 4.º — Fixação das vagas\n\nAs vagas para os cursos das instituições de ensino superior públicas e privadas são fixadas pelos órgãos legal e estatutariamente competentes de cada instituição nos termos do artigo 64.º da Lei n.º 62/2007, de 10 de setembro, na sua redação atual, e comunicadas à DGES, no prazo fixado nos termos do artigo 40.º\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+  },
+  "216567182": {
+   "fragment_id": "164868301",
+   "type": 11,
+   "heading": "Artigo 5.º — Fixação das vagas para as instituições de ensino militar e policial",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+   ],
+   "markdown": "###### Artigo 5.º — Fixação das vagas para as instituições de ensino militar e policial\n\nExcetuam-se do disposto no artigo anterior as vagas para as instituições de ensino superior militar e policial, que são fixadas por despacho dos membros do Governo responsáveis pelas áreas da defesa nacional e da administração interna, respetivamente\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31"
+  },
+  "216567183": {
+   "fragment_id": "164868307",
+   "type": 11,
+   "heading": "Artigo 10.º — Composição da CNAES",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+   ],
+   "markdown": "###### Artigo 10.º — Composição da CNAES\n\n1 - A CNAES é constituída por:\n\na) Dois representantes dos estabelecimentos de ensino superior universitário público nomeados pelo Conselho de Reitores das Universidades Portuguesas;\n\nb) Dois representantes dos estabelecimentos de ensino superior politécnico público nomeados pelo Conselho Coordenador dos Institutos Superiores Politécnicos;\n\nc) Três representantes dos estabelecimentos de ensino superior particular e cooperativo nomeados pela Associação Portuguesa do Ensino Superior Privado.\n\n2 - A CNAES escolhe de entre os seus membros um presidente e um vice-presidente.\n\n3 - O mandato dos membros da CNAES é de quatro anos, renovável uma vez por igual período.\n\n4 - Em caso de cessação antecipada do mandato, o novo representante inicia novo mandato.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07"
+  },
+  "216567184": {
+   "fragment_id": "164868311",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 14.º — Encargos\n\n1 - Os encargos com o funcionamento da CNAES são satisfeitos pelas correspondentes verbas inscritas no orçamento da DGES e pelas receitas decorrentes da sua atividade.\n\n2 - Aos membros da Comissão é devida uma gratificação mensal, de montante fixado por despacho dos membros do Governo responsáveis pelas áreas das finanças e do ensino superior.\n\n3 - A percepção da gratificação a que se refere o número anterior é compatível com o exercício de funções docentes ou de investigação em regime de dedicação exclusiva.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567185": {
+   "fragment_id": "164868312",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio logístico",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 15.º — Apoio logístico\n\nA DGES afeta à CNAES os meios humanos e materiais necessários ao desempenho das suas funções.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567186": {
+   "fragment_id": "164868315",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação da capacidade para a frequência",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 16.º — Avaliação da capacidade para a frequência\n\n1 - A realização da avaliação da capacidade para a frequência é feita através de provas de ingresso.\n\n2 - Quando as aptidões físicas, funcionais ou vocacionais assumam particular relevância para o ingresso num determinado curso, os estabelecimentos de ensino superior podem fixar pré-requisitos de acesso a esse curso para além das provas de ingresso.\n\n3 - As instituições de ensino superior militar e policial podem realizar provas de seleção para avaliação das aptidões físicas, funcionais ou vocacionais.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 34/2022 - Diário da República n.º 98/2022, Série I de 2022-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2022-183691729) derroga, para efeitos de acesso e ingresso no ensino superior no ano letivo de 2022-2023, por candidatos abrangidos pelo presente decreto-lei, o n.º 1 do presente artigo,\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 70-C/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-c-2021-169269297) Derroga o n.º 1 do presente artigo, estabelecendo o regime transitório aplicável ao ano letivo de 2021-2022. A derrogação dispensa os candidatos da substituição de provas de ingresso pelos exames finais de disciplinas, passando a utilizar-se, para efeitos de cálculo da respetiva nota de candidatura, a classificação final das disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam, convertida para a escala de 0 a 200 quando necessário.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 33/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2020-136990468) Derroga o n.º 1 do presente artigo, estabelecendo o regime transitório aplicável ao ano letivo de 2020-2021. A derrogação dispensa os candidatos da substituição de provas de ingresso pelos exames finais de disciplinas, passando a utilizar-se, para efeitos de cálculo da respetiva nota de candidatura, a classificação final das disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam, convertida para a escala de 0 a 200 quando necessário.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567187": {
+   "fragment_id": "164868319",
+   "type": 11,
+   "heading": "Artigo 19.º — Concretização das provas de ingresso",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 19.º — Concretização das provas de ingresso\n\nSão utilizadas como provas de ingresso os exames nacionais do ensino secundário.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567188": {
+   "fragment_id": "164868320",
+   "type": 11,
+   "heading": "Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso\n\n1 - De entre o elenco a que se refere o artigo 18.º, cada estabelecimento de ensino superior fixa, através do seu órgão legal e estatutariamente competente, as provas que exige para o ingresso em cada um dos seus cursos.\n\n2 - Quando o elenco estiver organizado em subelencos por áreas de estudo, a fixação das provas para cada par estabelecimento/curso é feita de entre as provas que constituem o subelenco em que se integra o curso.\n\n3 - O número de provas exigidas para o ingresso em cada par instituição/ciclo de estudos não pode ser inferior a dois e superior a três.\n\n4 - O número de elencos alternativos de provas fixado para cada par estabelecimento/curso não pode ser superior a três.\n\n5 - A solicitação fundamentada do órgão legal e estatutariamente competente do estabelecimento de ensino superior, a CNAES pode autorizar que, para determinados pares estabelecimento/curso, o número de elencos a que se refere o número anterior seja elevado até um máximo de seis.\n\n6 - À fixação das disciplinas sobre que devem incidir as provas de capacidade para a frequência dos ciclos de estudos de licenciatura ou integrados de mestrado aplica-se igualmente o disposto no artigo 181.º da Lei n.º 62/2007, de 10 de Setembro.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "216567189": {
+   "fragment_id": "164870824",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Substituição das provas",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 20.º-A — Substituição das provas\n\n1 - Para os estudantes titulares de cursos não portugueses legalmente equivalentes ao ensino secundário português, as provas de ingresso fixadas nos termos do artigo 20.º podem ser substituídas por exames finais de disciplinas daqueles cursos que satisfaçam cumulativamente as seguintes condições:\n\na) Terem âmbito ou reconhecimento nacional;\n\nb) (Revogado.)\n\nc) Referirem-se a disciplinas homólogas das provas de ingresso.\n\n2 - Consideram-se homólogas as disciplinas que, ainda que com denominações diferentes, tenham nível e objectivos idênticos e conteúdos similares aos do programa da prova de ingresso que visam substituir.\n\n3 - (Revogado.)\n\n4 - A classificação dos exames a que se refere o n.º 1 na sua utilização como provas de ingresso é a atribuída nos termos das normas que os regulam convertida para a escala de 0 a 200.\n\n5 - Os estudantes que pretendam beneficiar do disposto no presente artigo não podem recorrer às provas de ingresso a que se refere o artigo 19.º quando tenham realizado exames de disciplinas homólogas dessas provas que satisfaçam o disposto no n.º 1.\n\n6 - Compete à CNAES:\n\na) Regulamentar a aplicação do disposto no presente artigo;\n\nb) Decidir acerca da homologação a que se refere o n.º 2, designadamente aprovando tabelas de correspondência;\n\nc) (Revogada.)\n\nd) Fixar as regras para a conversão de classificações a que se refere o n.º 4.\n\n7 - (Revogado.)\n\n8 - As decisões a que se refere o n.º 6 são proferidas até 31 de maio do ano da realização da candidatura.\n\n9 - Os exames a que se refere o n.º 1 podem ser utilizados como provas de ingresso por um prazo idêntico ao fixado pela CNAES para a utilização dos exames nacionais do ensino secundário.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 34/2022 - Diário da República n.º 98/2022, Série I de 2022-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2022-183691729) derroga, para efeitos de acesso e ingresso no ensino superior no ano letivo de 2022-2023, por candidatos abrangidos pelo presente decreto-lei, o presente artigo,\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 70-C/2021 - Diário da República n.º 152/2021, 1º Suplemento, Série I de 2021-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-c-2021-169269297) Derroga o presente artigo, estabelecendo o regime transitório aplicável ao ano letivo de 2021-2022. A derrogação dispensa os candidatos da substituição de provas de ingresso pelos exames finais de disciplinas, passando a utilizar-se, para efeitos de cálculo da respetiva nota de candidatura, a classificação final das disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam, convertida para a escala de 0 a 200 quando necessário.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 33/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2020-136990468) Derroga o presente artigo, estabelecendo o regime transitório aplicável ao ano letivo de 2020-2021. A derrogação dispensa os candidatos da substituição de provas de ingresso pelos exames finais de disciplinas, passando a utilizar-se, para efeitos de cálculo da respetiva nota de candidatura, a classificação final das disciplinas do respetivo ensino secundário que sejam correspondentes às provas de ingresso exigidas para o acesso ao par instituição/ciclo de estudos a que se candidatam, convertida para a escala de 0 a 200 quando necessário.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 11/2020 - Diário da República n.º 66/2020, Série I de 2020-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2020-131016733), em vigor a partir de 2020-04-07\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "216567197": {
+   "fragment_id": "164870863",
+   "type": 11,
+   "heading": "Artigo 20.º-B — Acesso ao curso de Medicina",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899)",
+    "Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 40/2007 - Diário da República n.º 36/2007, Série I de 2007-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), em vigor a partir de 2007-02-25"
+   ],
+   "markdown": "###### Artigo 20.º-B — Acesso ao curso de Medicina\n\n1 - As provas de ingresso ao curso de Medicina integram, obrigatoriamente, as áreas de Biologia, Física, Matemática e Química.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899)\n\n> Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 40/2007 - Diário da República n.º 36/2007, Série I de 2007-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), em vigor a partir de 2007-02-25"
+  },
+  "216567190": {
+   "fragment_id": "164868321",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências da CNAES em matéria de provas de ingresso",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 21.º — Competências da CNAES em matéria de provas de ingresso\n\n1 - Em matéria de provas de ingresso, compete à CNAES, nomeadamente:\n\na) A fixação do elenco e subelencos de provas e dos cursos integrados em cada área de organização dos subelencos;\n\nb) A concessão da autorização a que se refere o n.º 5 do artigo 20.º;\n\nc) As condições de utilização dos exames a que se refere o artigo 19.º;\n\nd) As condições de utilização dos exames a que se refere o artigo 19.º e o n.º 1 do artigo 20.º-A;\n\ne) O exercício das competências previstas nos n.os 6 e 7 do artigo 20.º-A;\n\nf) O exercício das competências previstas no n.º 6 do artigo 20.º-A;\n\ng) A divulgação de toda a informação relevante.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "216567191": {
+   "fragment_id": "164868328",
+   "type": 11,
+   "heading": "Artigo 26.º — Seriação",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 26.º — Seriação\n\n1 - A seriação dos candidatos a cada curso em cada estabelecimento é realizada com base numa nota de candidatura, cuja fórmula é fixada pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior, a qual integra exclusivamente:\n\na) A classificação final do ensino secundário, com um peso não inferior a 40 %;\n\nb) A classificação das provas de ingresso, com um peso não inferior a 45 %;\n\nc) A classificação dos pré-requisitos de seriação, quando exigidos, com um peso não superior a 15%.\n\n2 - O peso das provas de ingresso referidas na alínea b) do número anterior não pode ser inferior ao peso da classificação final do secundário referida na alínea a) do número anterior.\n\n3 - O peso de cada prova de ingresso referida na alínea b) do n.º 1 pode variar entre 15 % e 30 %.\n\n4 - Para este fim, a classificação final do ensino secundário dos cursos portugueses é calculada nos termos das normas legais aplicáveis a cada caso, até às décimas, sem arredondamento, e convertida para a escala de 0 a 200.\n\n5 - Para este fim, a classificação final do ensino secundário dos cursos não portugueses legalmente equivalentes ao ensino secundário português, bem como dos cursos a que se refere a parte final do artigo 41.º, é a atribuída nos termos das normas que os regulam, convertida para a escala de 0 a 200 nos termos de regras fixadas por despacho do Ministro da Educação.\n\n6 - A classificação das provas de ingresso a que se refere o artigo 19.º é atribuída na escala de 0 a 200.\n\n7 - A classificação dos exames nacionais do ensino secundário é atribuída na escala de 0 a 200.\n\n8 - A classificação dos pré-requisitos de seriação é atribuída na escala de 0 a 200.\n\n9 - O valor da classificação final do ensino secundário, para os fins do presente artigo, para os candidatos cujo diploma de ensino secundário, nos termos da lei, não inclua essa classificação, é fixado de acordo com critérios a aprovar por deliberação da CNAES, os quais terão em consideração os resultados obtidos nas provas de ingresso realizadas por aqueles.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "216567192": {
+   "fragment_id": "164868330",
+   "type": 11,
+   "heading": "Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 27.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior público\n\n1 - A candidatura aos cursos ministrados em instituições de ensino superior público é feita através de um concurso nacional organizado pela DGES com a colaboração dos serviços do Ministério da Educação e dos serviços regionais de educação das Regiões Autónomas dos Açores e da Madeira.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) As instituições de ensino superior militar e policial, em que a candidatura é feita através de concursos locais organizados por cada instituição de ensino superior;\n\nb) Os pares estabelecimento/curso cujas especiais características justifiquem a realização de um concurso local.\n\nc) Os cursos ministrados no regime de ensino à distância.\n\n3 - A realização dos concursos locais a que se refere a alínea b) do número anterior está sujeita a autorização expressa por portaria do membro do Governo responsável pela área do ensino superior, a requerimento da instituição de ensino superior e colhido o parecer favorável da CNAES.\n\n4 - A portaria a que se refere o número anterior fixa as normas gerais a que deve obedecer o processo de avaliação de capacidade para a frequência, selecção e de seriação dos candidatos.\n\n5 - A apresentação da candidatura ao concurso nacional é realizada através da Internet.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 45/2007 - Diário da República n.º 39/2007, Série I de 2007-02-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), em vigor a partir de 2007-02-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "216567193": {
+   "fragment_id": "164868332",
+   "type": 11,
+   "heading": "Artigo 29.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 29.º — Candidatura aos cursos ministrados em estabelecimentos de ensino superior particular e cooperativo\n\nCandidatura aos cursos ministrados em estabelecimentos de ensino superior privados\n\nA candidatura aos cursos ministrados em estabelecimentos de ensino superior privados é feita através de concursos institucionais organizados por cada estabelecimento de ensino.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567194": {
+   "fragment_id": "164868333",
+   "type": 11,
+   "heading": "Artigo 30.º — Regulamento dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior privados",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 30.º — Regulamento dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior privados\n\nCompete ao membro do Governo responsável pela área do ensino superior, ouvida a CNAES, aprovar, por portaria, o regulamento geral dos concursos institucionais para ingresso nos cursos ministrados em estabelecimentos de ensino superior privados, fixando e regulando, nomeadamente, os aspetos a que se refere o artigo 28.º\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "216567195": {
+   "fragment_id": "164868347",
+   "type": 11,
+   "heading": "Artigo 41.º — Candidatos emigrantes, familiares que com eles residam e lusodescendentes",
+   "in_force_from": "2023-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+   ],
+   "markdown": "###### Artigo 41.º — Candidatos emigrantes, familiares que com eles residam e lusodescendentes\n\nPara os candidatos emigrantes, familiares que com eles residam e lusodescendentes, a habilitação a que se refere a alínea a) do artigo 7.º pode, em termos a regular por portaria, ser substituída por um curso terminal do ensino secundário do país estrangeiro de residência aí obtido e que aí constitua habilitação de acesso ao ensino superior.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01"
+  },
+  "911304769": {
+   "fragment_id": "164868320",
+   "type": 11,
+   "heading": "Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2025-911303059), em vigor a partir de 2025-03-23",
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso\n\n1 - De entre o elenco a que se refere o artigo 18.º, cada estabelecimento de ensino superior fixa, através do seu órgão legal e estatutariamente competente, as provas que exige para o ingresso em cada um dos seus cursos.\n\n2 - Quando o elenco estiver organizado em subelencos por áreas de estudo, a fixação das provas para cada par estabelecimento/curso é feita de entre as provas que constituem o subelenco em que se integra o curso.\n\n3 - O número de provas exigidas para o ingresso em cada par instituição/ciclo de estudos não pode ser inferior a dois e superior a três.\n\n4 - O número de elencos alternativos de provas fixado para cada par instituição/ciclo de estudos não pode ser superior a seis.\n\n5 - (Revogado.)\n\n6 - À fixação das disciplinas sobre que devem incidir as provas de capacidade para a frequência dos ciclos de estudos de licenciatura ou integrados de mestrado aplica-se igualmente o disposto no artigo 181.º da Lei n.º 62/2007, de 10 de Setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2025-911303059), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "911304770": {
+   "fragment_id": "164868321",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências da CNAES em matéria de provas de ingresso",
+   "in_force_from": "2025-03-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 17/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2025-911303059), em vigor a partir de 2025-03-23",
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 21.º — Competências da CNAES em matéria de provas de ingresso\n\n1 - Em matéria de provas de ingresso, compete à CNAES, nomeadamente:\n\na) A fixação do elenco e subelencos de provas e dos cursos integrados em cada área de organização dos subelencos;\n\nb) [Revogada.];\n\nc) As condições de utilização dos exames a que se refere o artigo 19.º;\n\nd) As condições de utilização dos exames a que se refere o artigo 19.º e o n.º 1 do artigo 20.º-A;\n\ne) O exercício das competências previstas nos n.os 6 e 7 do artigo 20.º-A;\n\nf) O exercício das competências previstas no n.º 6 do artigo 20.º-A;\n\ng) A divulgação de toda a informação relevante.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 17/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2025-911303059), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 158/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), em vigor a partir de 2004-07-05\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  },
+  "1051456154": {
+   "fragment_id": "164868320",
+   "type": 11,
+   "heading": "Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso",
+   "in_force_from": "2026-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2026-1051282294), em vigor a partir de 2026-02-21",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2025-911303059), em vigor a partir de 2025-03-23",
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+   ],
+   "markdown": "###### Artigo 20.º — Provas para ingresso em cada par estabelecimento/curso\n\n1 - De entre o elenco a que se refere o artigo 18.º, cada estabelecimento de ensino superior fixa, através do seu órgão legal e estatutariamente competente, as provas que exige para o ingresso em cada um dos seus cursos.\n\n2 - Quando o elenco estiver organizado em subelencos por áreas de estudo, a fixação das provas para cada par estabelecimento/curso é feita de entre as provas que constituem o subelenco em que se integra o curso.\n\n3 - O número de provas exigidas para o ingresso em cada par instituição/ciclo de estudos não pode ser inferior a um nem superior a três.\n\n4 - O número de elencos alternativos de provas fixado para cada par instituição/ciclo de estudos não pode ser superior a seis.\n\n5 - (Revogado.)\n\n6 - À fixação das disciplinas sobre que devem incidir as provas de capacidade para a frequência dos ciclos de estudos de licenciatura ou integrados de mestrado aplica-se igualmente o disposto no artigo 181.º da Lei n.º 62/2007, de 10 de Setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2026-1051282294), em vigor a partir de 2026-02-21\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2025 - Diário da República n.º 54/2025, Série I de 2025-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2025-911303059), em vigor a partir de 2025-03-23\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 64-A/2023 - Diário da República n.º 147/2023, 2º Suplemento, Série I de 2023-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-a-2023-216512899), em vigor a partir de 2023-08-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2008 - Diário da República n.º 104/2008, Série I de 2008-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), em vigor a partir de 2008-05-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 26/2003 - Diário da República n.º 32/2003, Série I-A de 2003-02-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), em vigor a partir de 2003-02-12"
+  }
+ }
+}

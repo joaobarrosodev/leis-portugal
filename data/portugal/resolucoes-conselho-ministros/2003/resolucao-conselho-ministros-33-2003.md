@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:220721:por
+title: Resolução do Conselho de Ministros n.º 33/2003
+short_title: null
+summary: Autoriza a abertura do procedimento com vista à adjudicação da empreitada de concepção e construção das novas instalações
+  da Polícia Judiciária em Caxias
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 33/2003
+official_date: null
+publication_date: '2003-03-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 56/2003, Série I-B de 2003-03-07
+  number: '56'
+  series: I
+  supplement: null
+  pages: 1573 - 1574
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/03/056b00/15731574.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/33/2003/03/07/p/dre/pt/html
+  oj: null
+  dre: '220721'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/33-2003-220721
+  internal: pt:dre:220721:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-2003-220721
+  metadata_url: https://data.dre.pt/eli/resolconsmin/33/2003/03/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-2003-220721
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:48:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 696958206cbeb358d443804dea75fec763c164e886e5bec2a1934e2ab4a6b477
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:48:16Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de BENS
+- Conselho de Ministros
+- Construção Civil
+- Delegação de Competências
+- Direcção Geral do Património do Estado
+- Directoria Nacional da Polícia Judiciária
+- Edifício Público
+- Empreitada de Obras Públicas
+- Financiamento
+- Governo XV
+- Instituto de Gestão Financeira e Patrimonial da Justiça
+- Ministro da Justiça
+- Oeiras
+- Piddac
+- Polícia Judiciária
+relationships:
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:195802:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/217/1997/08/20/p/dre
+- type: cites
+  target: pt:dre:251978:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/50/2002/03/02/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:549396:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:48:16Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 33/2003
+
+O Ministério da Justiça, através do Instituto de Gestão Financeira e Patrimonial da Justiça, pretende construir em terrenos afectos a este Ministério e pertencentes, uns ao Estado Português e, outros, ao Instituto de Gestão Financeira e Patrimonial da Justiça, sitos em Caxias, uma nova sede para os serviços da Directoria Nacional e para a Directoria de Lisboa da Polícia Judiciária, que se encontram dispersos, actualmente, por oito edifícios, seis dos quais são propriedade do Estado Português.
+
+Estes oito edifícios são, face às necessidades actuais, totalmente desadequados para o exercício das funções cometidas a este organismo, sendo pois urgente dotar a Polícia Judiciária de novas instalações, mais espaçosas, seguras, modernas e adequadas do ponto de vista funcional.
+
+Um novo e único edifício permitirá assegurar todas estas necessidades, garantindo à Polícia Judiciária os meios logísticos adequados aos desafios que actualmente se lhe colocam.
+
+O projecto e a construção de tais instalações levantam, porém, e desde logo, prementes problemas de segurança e da correspondente e necessária confidencialidade. Assim, foi promovida a classificação deste processo, nos termos do [Decreto-Lei n.º 217/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1997-195802), de 20 de Agosto, e dos artigos 6.º e 9.º da [Resolução do Conselho de Ministros n.º 37/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/37-1989-549396), de 24 de Outubro, com o grau de segurança de confidencial.
+
+A adjudicação do contrato de concepção do projecto e da realização da empreitada de construção das novas instalações da Polícia Judiciária, em Caxias, não depende legalmente, por isso, da adopção de qualquer procedimento concursal, pois o princípio previsto, em geral, no Código do Procedimento Administrativo e, em particular, no n.º 1 do artigo 47.º do [Decreto-Lei n.º 59/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1999-152526), de 2 de Março, e no n.º 1 do artigo 80.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, de que os contratos administrativos devem ser precedidos de concurso público, admite excepções, consubstanciadas em situações que concretamente careçam de especial tutela ou protecção, como esses mesmos diplomas, aliás, prevêem em relação precisamente aos contratos secretos, nos termos dos seus artigos 136.º e 77.º, respectivamente.
+
+Ora, estando envolvidos no presente contrato o projecto, a construção e a montagem de instalações fulcrais da segurança e protecção do Estado, como acontece com os sistemas informáticos e de comunicações ligados à investigação e à perseguição criminal, laboratórios de polícia científica, depósitos de armamento e munições, registos e arquivos criminais e estabelecimento prisional para arguidos, o Governo dispensa o contrato ou contratos respectivos das regras da precedência de concurso fixadas na lei, desde que se adoptem, para o efeito, fórmulas concursais limitadas (às entidades credenciadas pelas autoridades nacionais em matéria de segurança) com negociação de propostas e modeladas em função dos interesses da segurança e confidencialidade inerentes a este processo, para evitar que saiam de mãos confiáveis os planos dessas instalações.
+
+Quanto ao financiamento da obra em causa, será assegurado por receitas geradas após alienação do património imobiliário actualmente afecto à Polícia Judiciária, na cidade de Lisboa, o qual ficará disponível com a transferência dos seus serviços para as novas instalações. Sendo necessário, porém, ir assegurando, muito antes dessa transferência, o pagamento do projecto e da empreitada de realização da obra, impõe-se adoptar um procedimento que permita realizar a necessária receita (ou parte dela) antes mesmo da efectiva alienação dos imóveis.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar, ao abrigo do disposto no artigo 17.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, o Instituto de Gestão Financeira e Patrimonial da Justiça a abrir procedimento destinado à adjudicação da empreitada de concepção-construção das novas instalações da Polícia Judiciária, em Caxias.
+
+2 - Classificar o contrato e o processo de contratação relativo à concepção-construção das novas instalações da Polícia Judiciária, em Caxias, como confidencial e subtraí-lo às regras concursais da alínea e) do n.º 1 do artigo 136.º do [Decreto-Lei n.º 59/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1999-152526), de 2 de Março, e da alínea i) do n.º 1 do artigo 77.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho.
+
+3 - Determinar que, na medida em que os interesses da segurança nisso consintam, seja aberto um concurso de concepção/construção, com acento adjudicatório quer no projecto apresentado quer na proposta da sua execução, entre os empreiteiros ou agrupamentos por eles encabeçados, seguido de negociação dos projectos/propostas seleccionados, nos termos que forem fixados nos respectivos documentos de concurso.
+
+4 - Determinar que o concurso a abrir se cinja às entidades credenciadas junto do Gabinete Nacional de Segurança, nos termos do [Decreto-Lei n.º 217/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1997-195802), de 20 de Agosto, e da [Resolução do Conselho de Ministros n.º 37/89](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/37-1989-549396), de 24 de Outubro.
+
+5 - Determinar que o Instituto de Gestão Financeira e Patrimonial da Justiça promoverá a negociação e a prestação por entidades financeiras - com consulta prévia a, pelo menos, três entidades financeiras credenciadas - dos financiamentos ligados à antecipação da receita da alienação do património imobiliário afecto à Polícia Judiciária, podendo recorrer para o efeito aos instrumentos jurídicos e financeiros que se mostrem adequados, incluindo a reserva de fruição, a oneração dos imóveis ou a sua integração na operação financeira a realizar, com observância do disposto nas regras aplicáveis, designadamente no [Decreto-Lei n.º 50/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2002-251978), de 2 de Março.
+
+6 - O património imobiliário a alienar consta do anexo à presente resolução.
+
+7 - Determinar que a alienação do património referido no número anterior é efectuada pela Direcção-Geral do Património, sob proposta do Instituto de Gestão Financeira e Patrimonial da Justiça, nos termos legais.
+
+8 - Determinar que o financiamento será, ainda, na medida do necessário, assegurado por verbas inscritas no PIDDAC de 2003 e anos seguintes do Instituto de Gestão Financeira e Patrimonial da Justiça.
+
+9 - Delegar na Ministra da Justiça, nos termos do disposto no artigo 35.º do Código do Procedimento Administrativo e do artigo 27.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, a competência para aprovar o ofício-convite, o programa do concurso, o caderno de encargos e a constituição das comissões de abertura e análise das propostas, relativos ao procedimento de contratação para as novas instalações da Polícia Judiciária.
+
+Presidência do Conselho de Ministros, 13 de Fevereiro de 2003. - O Primeiro-Ministro, José Manuel Durão Barroso.
+
+## ANEXO
+
+Avenida de José Malhoa, lote 1680.
+
+Largo do Andaluz, 17 e 17-A.
+
+Rua de Angra do Heroísmo, 3 e 3-A.
+
+Rua de Alexandre Herculano, 42-A.
+
+Avenida do Duque de Loulé, 39 e 39-A.
+
+Rua de Gomes Freire, 174.

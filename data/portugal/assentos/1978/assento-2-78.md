@@ -1,0 +1,170 @@
+---
+schema_version: '1.0'
+id: pt:dre:447359:por
+title: Assento n.º 2/78
+short_title: null
+summary: Processo n.º 66378. - Recurso para o tribunal pleno, em que são recorrentes João Maria dos Anjos & Ca., Lda., e outro
+  e recorridos Trindade e Teixeira, Lda., Pedro de Campos e outros
+jurisdiction: portugal
+territory: null
+document_type: assento
+document_type_label: Assento
+issuing_authority:
+- Supremo Tribunal de Justiça
+proposing_entity: null
+official_number: 2/78
+official_date: null
+publication_date: '1978-03-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 68/1978, Série I de 1978-03-22
+  number: '68'
+  series: I
+  supplement: null
+  pages: 566 - 568
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/03/06800/05660568.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '447359'
+  dre_path: /dr/detalhe/assento/2-1978-447359
+  internal: pt:dre:447359:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/assento/2-1978-447359
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/assento/2-1978-447359
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:26:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7a077e7d67c7d03aa65c63527eb798ca9c53186e246727b49209f9b46f8af389
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:26:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código do Processo Civil
+- Definição de Competências
+- Interpretação do Direito
+- Supremo Tribunal de Justiça
+relationships:
+- type: cites
+  target: pt:dre:360129:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:26:08Z'
+  warnings: []
+  errors: []
+---
+
+# Assento n.º 2/78
+
+Processo n.º 66378. - Recurso para o tribunal pleno, em que são recorrentes João Maria dos Anjos & Ca., Lda., e outro e recorridos Trindade e Teixeira, Lda., Pedro de Campos e outros.
+
+Acordam no Supremo Tribunal de Justiça, em tribunal pleno:
+
+João Maria dos Anjos & Ca., Lda., e outro (Companhia de Seguros Confiança) recorreram para o tribunal pleno do Acórdão deste Supremo Tribunal de 29 de Abril de 1975, tirado na revista n.º 65241 (fotocópia a fl. 14), por considerarem tal acórdão em contradição sobre a mesma questão fundamental de direito com o Acórdão de 3 de Novembro de 1964, também deste Supremo Tribunal, publicado no Boletim do Ministério da Justiça, n.º 141, p. 302.
+
+A invocada contradição resultaria, segundo alegam, do facto de o acórdão recorrido ter decidido que as entidades patronais e suas seguradoras que, por virtude de condenação imposta pelo competente tribunal por acidente de trabalho, e simultaneamente de viação, pagaram ou têm de pagar indemnização ao lesado ficam sub-rogadas nos direitos deste contra o causador do acidente (lesante) quer relativamente às quantias já pagas, quer às que devam para o futuro, enquanto o Acórdão de 3 de Novembro de 1964, invocado em contradição com aquele, decidiu que essas entidades apenas têm o direito de, por sub-rogação legal, haverem do terceiro responsável pelo acidente as quantias já pagas.
+
+Verificados pela secção os pressupostos da admissibilidade do recurso para o tribunal pleno, alegaram oportunamente as partes e emitiu o Exmo. Representante do Ministério Público, a fls. 43 e seguintes, seu douto parecer.
+
+As recorrentes pretendem que se profira assento no sentido de que a sub-rogação não tem lugar em relação a prestações futuras, sendo também essa a posição do ilustre representante do Ministério Público no seu já referido douto parecer.
+
+Por seu lado, a recorrida pronuncia-se no sentido de que, «a vir a ser proferido um assento neste processo, e qualquer que seja o seu teor [...], não deixará de se confirmar o acórdão recorrido, pelo menos no que diz respeito aos pagamentos já efectuados ao A., a liquidar em execução de sentença, fazendo-se então depender de novas acções a intentar - uma por mês - o reembolso da A. [...]».
+
+Tudo visto.
+
+A secção, como já se referiu no relato, pronunciou-se pela existência da invocada contradição entre os acórdãos em causa, mas porque essa decisão não vincula o tribunal pleno (n.º 3 do artigo 766.º do Código de Processo Civil), importa revê-la sem contudo deixar de tomar-se em consideração a discordância manifestada pela recorrida na sua resposta a fl. 41 relativamente a tal decisão.
+
+Vejamos então:
+
+O exame atento dos acórdãos em apreço - o recorrido e o dito em oposição - permite concluir, tal como foi decidido no acórdão a fl. 33, proferido ao abrigo do n.º 1 do artigo 766.º do Código de Processo Civil, pela existência da invocada contradição de julgados.
+
+O acerto de tal decisão é por de mais evidente.
+
+Daí que nova justificação da conclusão ali formulada envolveria a repetição da fundamentação já produzida sobre o problema e que a posição assumida pela recorrida na sua mencionada resposta a fl. 41 não afecta de modo algum.
+
+A recorrida, com efeito, coloca o problema em causa em termos inadmissíveis face ao decidido nos mencionados acórdãos.
+
+Efectivamente, tais arestos, contrariamente ao afirmado pela recorrida, embora aceitem que as entidades patronais e as suas seguradoras têm direito, por sub-rogação legal, ao reembolso do que for pago por virtude do acidente de trabalho, que o foi também de viação, acabaram por proferir decisões contrárias no que respeita às prestações reembolsáveis em termos de sub-rogação.
+
+Enquanto o acórdão recorrido decidiu que a entidade patronal e a sua seguradora podiam exigir do terceiro responsável pelo acidente todas as quantias da condenação que lhes fora imposta, quer as que já pagaram, quer as que devam para o futuro, o Acórdão de 3 de Novembro de 1964 só admitiu o ressarcimento das prestações já satisfeitas.
+
+E é esse precisamente o conflito de jurisprudência que se pretende ver resolvido por um assento.
+
+Não se verifica, pois, qualquer obstáculo legal ao conhecimento do objecto do recurso, designadamente no que respeita a terem sido proferidos no domínio da mesma legislação os referidos dois acórdãos, o que o acórdão a fl. 33 decidiu também em termos concludentes.
+
+Quanto ao fundo:
+
+Dispunha o artigo 7.º da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129), de 27 de Julho de 1936, que «sem prejuízo da responsabilidade patronal, quando existir, os sinistrados ou, por sub-rogação legal, a entidade ou seguradora têm, quando o acidente for produzido por culpa de terceiros, acção contra estes nos termos da lei geral».
+
+Este preceito, segundo doutrinam o Prof. Vaz Serra «Estudo sobre a sub-rogação do segurador», in Revista de Legislação e Jurisprudência, ano 94, p. 177, n.º 13, p. 257, 2.ª col., nota 1, e anotações a acórdãos deste Supremo Tribunal, na Revista de Legislação e Jurisprudência, anos 98.º, p. 190, 99.º, p. 24, 104.º, pp. 144 e seguintes, 105.º, p. 42, e 108.º, p. 39, nota 1) e Antunes Varela (Revista de Legislação e Jurisprudência, ano 103.º, pp. 22 e seguintes), ao conferir, por sub-rogação legal, à entidade patronal ou seguradora acção contra terceiros responsáveis pelo acidente, teve em vista não só reconhecer um direito de sub-rogação legal a favor daquelas entidades, mas ainda um direito de regresso independente dos direitos do lesado contra terceiros.
+
+Reconheceu, pois, esse normativo o direito de as referidas entidades serem indemnizadas por terceiros nos termos em que, segundo a lei geral, estes são responsáveis, sub-rogando-os, contudo, nos direitos do lesado contra o terceiro responsável.
+
+A sub-rogação assim criada em favor da entidade patronal ou da respectiva seguradora está sujeita às regras gerais do referido instituto, das quais se destacam, com especial relevo no caso sub specie, a que a faz depender do facto do pagamento.
+
+Não há sub-rogação sem satisfação efectiva da prestação; o pagamento, como pressuposto daquela, é a condição e medida dos direitos do sub-rogado.
+
+Daí que em princípio se tenha por indiscutível que a entidade patronal ou a seguradora só possam exigir do terceiro responsável pelo acidente o que houverem pago e não o que tenham a pagar no futuro.
+
+Sempre, de resto, a doutrina concebeu a figura jurídica da sub-rogação como dependente do facto do pagamento, quer no domínio do Código Civil de 1867 (artigos 778.º e seguintes) - Dias Ferreira, Código Civil Português Anotado, 2.ª ed., vol. 2.º, p. 75; Guilherme Moreira, Instituições de Direito Civil Português, vol. 2.º, pp. 218 e 222; Pires de Lima e Antunes Varela, Noções Fundamentais de Direito Civil, vol. 1.º, p. 388, e o Estudo do Prof. Vaz Serra no Boletim do Ministério da Justiça, n.º 37, pp. 57 e seguintes, com vista à elaboração do novo Código Civil e, ainda, o estudo do mesmo ilustre professor sobre a «Sub-rogação do segurador», na Revista de Legislação e Jurisprudência, ano 94.º, pp. 177 e seguintes -, quer na vigência do actual Código Civil (artigos 589.º e seguintes) - Pires de Lima e Antunes Varela, Código Civil Anotado, vol. 1.º, pp. 421 e seguintes; Antunes Varela, Das Obrigações em Geral, 2.ª ed., vol. 2.º, pp. 295 e 307; Rodrigues Bastos, Obrigações em Geral, vol. 3.º, p. 160, e Mário de Brito, Código Civil Anotado, vol. 2.º, p. 353.
+
+Inviável será, pois, por falta de efectiva satisfação da prestação, o exercício de um direito sub-rogatório relativamente a prestações futuras.
+
+Neste sentido se havia fixado a jurisprudência deste Supremo Tribunal (Acórdão de 16 de Janeiro de 1973, in Boletim do Ministério da Justiça, n.º 223, p. 205, e os demais ali referidos), da qual se afastaram os Acórdãos de 18 de Maio de 1965 (Boletim do Ministério da Justiça, n.º 147, p. 269) e de 18 de Junho de 1965 (Boletim do Ministério da Justiça, n.º 148, p. 233), este fundado no artigo 472, n.º 2, do Código de Processo Civil, e aquele nos artigos 662.º e 804.º do mesmo diploma, bem como o ora recorrido, que seguiu a orientação deste último.
+
+A doutrina destes acórdãos, que mereceu o apoio da Revista dos Tribunais (ano 85, p. 247), enquanto fundamentada no n.º 2 do artigo 472.º do Código de Processo Civil, e parecer desfavorável do Prof. Vaz Serra («anotações aos respectivos acórdãos» na Revista de Legislação e Jurisprudência, ano 99.º, p. 20 e notas e p. 360), conquanto ofereça apreciáveis vantagens de ordem processual - redução do número de acções que na orientação adversa será necessário propor para o reembolso das prestações que foram sendo pagas e consequentemente benefício para a boa administração da justiça - não é conforme ao rigor dos princípios nem susceptível de uma construção legal aceitável.
+
+Não é que se ponha em dúvida a admissibilidade de um pedido de condenação em prestações futuras, aliás permitido pelo n.º 2 do artigo 472.º do Código de Processo Civil, mas sim que a entidade patronal ou seguradora tenha legitimidade para o formular.
+
+Estas só podem pedir o que tiverem pago, visto que só pelo pagamento ficam sub-rogadas nos direitos do lesado contra o terceiro responsável.
+
+Se, pois, só pelo pagamento se verifica a substituição do credor originário, na titularidade do direito à prestação, pelo terceiro que cumpre em lugar do devedor, apresentando-se, assim, o sub-rogado como que um sucessor do credor, dificilmente se justificaria a condenação do devedor a pagar àquele.
+
+Afigura-se, portanto, inaceitável a doutrina dos arestos em apreço, não obstante as vantagens que conferiria às entidades patronal e seguradora, visto a solução apontada ser, como acabou por ponderar o Prof. Vaz Serra no aludido comentário de fl. 361 do ano 99.º da Revista de Legislação e Jurisprudência, «[...] duvidosa, sendo preciso, para a aceitar, dar à lei uma interpretação bastante ousada».
+
+Pelo exposto, revogam o acórdão recorrido na parte em que condenou os réus, ora recorrentes, a satisfazerem às ora recorridas, entidade patronal e sua seguradora, respectivamente, as prestações que, mercê da condenação imposta pelo competente tribunal de trabalho, estas estavam a pagar e as que ainda deverem pagar, e tiram o seguinte assento:
+
+A sub-rogação não se verifica em relação a prestações futuras.
+
+Custas pelos recorrentes.
+
+Lisboa, 9 de Novembro de 1977. - Alberto Alves Pinto - Bruto da Costa - Daniel Ferreira - Abel de de Campos - Santos Victor - José Montenegro - Eduardo Botelho de Sousa - Avelino da Costa Ferreira Júnior - Costa Soares - Octávio Dias Garcia - Hernâni de Lencastre - Oliveira Carvalho - Adriano Vera Jardim - João Moura - Artur Moreira da Fonseca - Aquilino Ribeiro - José Garcia da Fonseca (vencido quanto a oposição entre os acórdãos) - Rodrigues Bastos (vencido. Votei a confirmação do acórdão recorrido, firmando-se assento nesse sentido).
+
+Está conforme.
+
+Secretaria do Supremo Tribunal de Justiça, 8 de Março de 1978. - O Escrivão de Direito, Hernâni Cardita.

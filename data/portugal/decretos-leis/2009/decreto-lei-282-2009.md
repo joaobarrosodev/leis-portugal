@@ -1,0 +1,386 @@
+---
+schema_version: '1.0'
+id: pt:dre:491420:por
+title: Decreto-Lei n.º 282/2009
+short_title: null
+summary: Extingue o INSCOOP - Instituto António Sérgio do Sector Cooperativo, I. P., e cria a Cooperativa António Sérgio para
+  a Economia Social - Cooperativa de Interesse Público de Responsabilidade Limitada
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 282/2009
+official_date: null
+publication_date: '2009-10-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/2009, Série I de 2009-10-07
+  number: '194'
+  series: I
+  supplement: null
+  pages: 7346 - 7349
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/10/19400/0734607349.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-04-05'
+version_history:
+  file: decreto-lei-282-2009.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-10-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-04-05'
+    amending: pt:dre:106824980:por
+    amending_title: Decreto-Lei n.º 39/2017
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/282/2009/p/cons/20170404/pt/html
+  oj: null
+  dre: '491420'
+  dre_path: /dr/detalhe/decreto-lei/282-2009-491420
+  internal: pt:dre:491420:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-2009-491420
+  metadata_url: https://data.dre.pt/eli/dec-lei/282/2009/p/cons/20170404/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-862896810
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-862896810
+  retrieved_at: '2026-10-22T13:04:55Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: acd0f760271fef1628c42deb639398ff7eb66520a0d8a5e705d15a6895122e27
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:04:55Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-282-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Capital Social
+- Gestão Financeira
+- Instituto António Sérgio do Sector Cooperativo
+- Sector Cooperativo
+- Cooperativa António Sérgio
+- Criação de Serviços
+- Cooperativa
+- Regies Cooperativas
+- Extinção de Serviços
+- Gestão Orçamental
+- Integração de Trabalhadores
+- Regime Jurídico
+- Transferência de Competências
+- Transferência Patrimonial
+- Utilidade Pública
+relationships:
+- type: amended_by
+  target: pt:dre:106824980:por
+  label: Altera Artigo 4.º; Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2017-106824980
+  date: '2017-04-04'
+- type: cites
+  target: pt:dre:233304:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/204/1992/10/02/p/dre
+- type: cites
+  target: pt:dre:240610:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/124/2005/08/04/p/dre
+- type: cites
+  target: pt:dre:398496:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/326-b/2007/09/28/p/dre
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:545639:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:627799:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/391/2007/12/13/p/dre
+- type: cites
+  target: pt:dre:649909:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/39/2006/04/21/p/dre
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:04:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 282/2009
+
+Decreto-Lei n.º 282/2009
+
+de 7 de Outubro
+
+O Programa do XVII Governo Constitucional elege o fortalecimento do papel da economia social como uma das suas áreas prioritárias de intervenção. Esta aposta funda-se no reconhecimento de que o sector da economia social contribui decisivamente para a criação de riqueza e para a criação de emprego, concorrendo também, em grande medida, para a simultânea promoção da coesão social e da racionalização dos recursos públicos, atenta a sua capacidade de gerar mais oferta social a custos inferiores.
+
+O sector cooperativo e social constitui um dos pilares fundamentais da organização económico-social do Estado, e um dos sectores de propriedade dos meios de produção constitucionalmente consagrados, nos termos do disposto na alínea f) do artigo 80.º e no n.º 4 do artigo 82.º da Constituição da República Portuguesa.
+
+A União Europeia tem, igualmente, reconhecido à economia social um importante papel potenciador de um desenvolvimento sócio-económico mais equilibrado e solidário, tendo, neste contexto, promovido iniciativas destinadas a implantar estatutos jurídicos comunitários atinentes aos modelos cooperativo, mutualista e associativo.
+
+Neste sentido, foi aprovada recentemente a Resolução do Parlamento Europeu, 2008/2250 (INI), de 19 de Fevereiro de 2009, sobre a economia social, a qual sublinha que «a economia social, ao aliar rendibilidade e solidariedade, desempenha um papel essencial na economia europeia, criando empregos de elevada qualidade, reforçando a coesão social, económica e regional, a solidariedade e um tipo de economia com valores democráticos que põe as pessoas em primeiro lugar, para além de apoiar o desenvolvimento sustentável e a inovação social, ambiental e tecnológica».
+
+Independentemente da diversidade de estatutos jurídicos que podem adoptar, as organizações da economia social partilham princípios e valores comuns, designadamente o espírito de iniciativa e de entreajuda, determinantes para o fortalecimento da democracia participativa e para a construção de uma sociedade mais solidária, para além de apresentarem um forte denominador comum ao combinarem a actividade económica sem fins lucrativos, com a prossecução de fins de declarado interesse público. Organizações comprovadamente capazes de induzir uma maior intervenção cívica e maior responsabilização colectiva na promoção do bem-estar social.
+
+Importa sublinhar que esses valores estão claramente em consonância com os princípios orientadores do modelo de governação das políticas públicas, que hoje reclamam novas formas de relacionamento entre o Estado, os cidadãos e as instituições da economia social e do terceiro sector em geral.
+
+Nesta perspectiva, o reforço da aliança entre o Estado e as organizações da economia social é crucial face à sua capacidade de desenvolver, no interior das economias de mercado, redes de solidariedade, dinâmicas e espaços de resolução de problemas, numa base de proximidade, revitalizando novos modelos de interacção entre o Estado a sociedade civil organizada e o mercado.
+
+A Resolução do Conselho de Ministros n.º 124/2005, de 4 de Agosto, criou o Programa para a Reestruturação da Administração Central do Estado (PRACE), com os objectivos de modernizar e racionalizar a administração central, melhorar a qualidade dos serviços prestados aos cidadãos e colocar a administração central mais próxima e dialogante com o cidadão.
+
+Na sequência dos trabalhos do PRACE, foi decidido, na subalínea i) da alínea e) do n.º 21 da Resolução do Conselho de Ministros n.º 39/2006, de 21 de Abril, que o INSCOOP deixaria de integrar a administração central do Estado.
+
+Isso mesmo foi consagrado na nova orgânica do Ministério do Trabalho e da Solidariedade Social (MTSS), aprovada pelo Decreto-Lei n.º 211/2006, 27 de Outubro, alterada pelo Decreto-Lei n.º 326-B/2007, de 28 de Setembro, que prevê, no n.º 2 do seu artigo 39.º, a externalização do Instituto António Sérgio do Sector Cooperativo, I. P. (INSCOOP), «através da aprovação de novo enquadramento jurídico».
+
+O presente decreto-lei vem, assim, autorizar a instituição de uma cooperativa de interesse público - Cooperativa António Sérgio para a Economia Social - Cooperativa de Interesse Público de Responsabilidade Limitada - que suceda ao INSCOOP em todos os seus direitos, obrigações e poderes públicos de autoridade, bem como no exercício das suas competências e na prossecução das suas atribuições de serviço público, passando a assumir a natureza jurídica mais consentânea com as respectivas características e o tipo de actividades a prosseguir, e ainda, concretizar a extinção do INSCOOP e estabelecer os termos, as condições e os efeitos dessa mesma extinção.
+
+A Cooperativa António Sérgio para a Economia Social - Cooperativa de Interesse Público de Responsabilidade Limitada a criar, nos termos da lei, congregará o Estado e diversas organizações que compõem o sector cooperativo e social, visando aprofundar a cooperação entre o Estado e as referidas entidades, criando as condições institucionais favoráveis ao alcance dos objectivos comuns de reforço e dinamização do papel da economia social e de protecção e respeito pelos princípios que norteiam as actividades das cooperativas, promovendo o envolvimento e responsabilização de todos os intervenientes e beneficiando do contacto privilegiado com as circunstâncias que reclamam o exercício da autoridade pública.
+
+Foi ouvido o Instituto António Sérgio do Sector Cooperativo, I. P.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Extinção
+
+Pelo presente decreto-lei é extinto o INSCOOP - Instituto António Sérgio do Sector Cooperativo, I. P., adiante apenas designado por INSCOOP.
+
+###### Artigo 2.º — Instituição
+
+É autorizada a criação pelo Estado Português da Cooperativa António Sérgio para a Economia Social - Cooperativa de Interesse Público de Responsabilidade Limitada, adiante designada apenas Cooperativa António Sérgio, que agrega o Estado e outras entidades do sector cooperativo e da economia social.
+
+###### Artigo 3.º — Sucessão
+
+A Cooperativa António Sérgio sucede ao INSCOOP no conjunto dos seus direitos, obrigações e poderes públicos de autoridade, bem como na prossecução dos seus fins e atribuições de serviço público.
+
+###### Artigo 4.º — Objeto e atribuições
+
+1 - A Cooperativa António Sérgio tem por objeto promover o fortalecimento do setor da economia social, aprofundando a cooperação entre o Estado e as organizações que o integram, tendo em vista estimular o seu potencial ao serviço da promoção do desenvolvimento socioeconómico do País, bem como a prossecução de políticas na área do voluntariado.
+
+2 - A Cooperativa António Sérgio tem como atribuições:
+
+a) Incentivar a constituição de organizações da economia social, divulgando a sua importância no desenvolvimento das áreas de actividade e comunidades onde se inserem;
+
+b) Promover e difundir os princípios e valores prosseguidos pelas várias organizações da economia social;
+
+c) Dinamizar a actividade económica e social do sector da economia social;
+
+d) Fomentar o reconhecimento e capacitação institucional das organizações da economia social;
+
+e) Promover e colaborar na dinamização da formação no sector da economia social, nomeadamente através do reforço da qualificação dos profissionais e da sustentabilidade das organizações do sector;
+
+f) Promover o desenvolvimento de acções de divulgação do sector da economia social, reforçando a sua visibilidade;
+
+g) Promover e apoiar a realização de estudos e investigação sobre o sector da economia social;
+
+h) Promover e apoiar a criação e a atribuição de prémios;
+
+i) Promover e colaborar com as instituições representativas das várias organizações do sector da economia social, assim como com instituições públicas e privadas, na prestação de apoio técnico, nos domínios, fiscal, legal e financeiro;
+
+j) Promover a criação de parcerias entre as entidades da economia social, autarquias, agentes locais e redes sociais capazes de gerar novas dinâmicas no território;
+
+l) Celebrar acordos de cooperação e protocolos com entidades públicas e privadas de âmbito nacional e internacional;
+
+m) Emitir pareceres e pronunciar-se sobre propostas de legislação relativas ao sector da economia social;
+
+n) Elaborar, publicar e manter atualizada em sítio próprio a base de dados permanente das entidades da economia social;
+
+o) Participar nos conselhos, comissões ou grupos de trabalho nacionais ou internacionais com ligação ou interesse para o sector da economia social.
+
+p) Assegurar a criação e a manutenção de uma conta satélite para a economia social, desenvolvida no âmbito do sistema estatístico nacional.
+
+3 - Organizar e manter atualizado o Centro de Documentação e Informação António Sérgio.
+
+4 - São, ainda, atribuições da Cooperativa António Sérgio:
+
+a) Fiscalizar a utilização da forma cooperativa, com respeito pelos princípios e normas relativos à sua constituição e funcionamento;
+
+b) Emitir, anualmente, credencial comprovativa da legal constituição e regular funcionamento das cooperativas;
+
+c) Requerer, através do Ministério Público, junto do tribunal competente, a dissolução das cooperativas que não respeitem, na sua constituição ou no seu funcionamento, os princípios cooperativos, que utilizem sistematicamente meios ilícitos para a prossecução do seu objeto e que recorram à forma de cooperativa para alcançar indevidamente benefícios fiscais ou outros atribuídos por entidades públicas;
+
+d) Requerer, junto do serviço do registo competente, o procedimento administrativo de dissolução das cooperativas cuja actividade não coincida com o objecto expresso nos estatutos;
+
+e) Recolher os elementos referentes às cooperativas ou organizações do setor cooperativo que permitam manter atualizados todos os elementos que se lhes referem, designadamente, os relativos à sua constituição, à alteração de estatutos, às atividades desenvolvidas, aos relatórios anuais de gestão e de prestação de contas;
+
+f) Assegurar, nos termos do Código Cooperativo, o procedimento de contraordenação e a aplicação de coimas.
+
+5 - A Cooperativa António Sérgio, na área do voluntariado, prossegue as atribuições que se seguem:
+
+a) Desenvolver as ações adequadas ao conhecimento e caracterização do universo dos voluntários e das organizações promotoras de atividades de voluntariado;
+
+b) Emitir o cartão de identificação do Voluntário;
+
+c) Dinamizar ações de formação, bem como outros programas que contribuam para uma melhor qualidade e eficácia do trabalho voluntário, a título individual ou em articulação com as organizações promotoras de atividades de voluntariado;
+
+d) Conceder apoio técnico às organizações promotoras de atividades de voluntariado, mediante, nomeadamente, a disponibilização de informação com interesse para o exercício do voluntariado;
+
+e) Promover e divulgar o voluntariado como forma de participação social e de solidariedade entre os cidadãos, através dos meios adequados, incluindo os meios de comunicação social;
+
+f) Submeter para parecer, obrigatório e não vinculativo, o Plano de Atividades, nas matérias relativas à área do voluntariado, ao Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social.
+
+6 - No âmbito das suas atribuições compete à Cooperativa António Sérgio:
+
+a) Financiar ou cofinanciar, nomeadamente através de fundos comunitários, programas e projetos no quadro do Plano de Atividades e do Orçamento aprovados, designadamente, através da atribuição de bolsas e de subsídios;
+
+b) Acompanhar a execução dos projetos e programas previstos na alínea anterior.
+
+7 - Compete, ainda, à Cooperativa António Sérgio prosseguir as demais atribuições que lhe forem conferidas por lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2017-106824980), em vigor a partir de 2017-04-05
+
+###### Artigo 5.º — Património
+
+1 - O património de natureza mobiliário, com ou sem registo, de que seja titular o INSCOOP, agora extinto, é transferido para a Cooperativa António Sérgio, por efeito do presente decreto-lei e sem dependência de qualquer outra formalidade.
+
+2 - São transferidas para a Cooperativa António Sérgio, sem dependência de qualquer formalidade, as posições contratuais em todos os contratos e protocolos celebrados pelo INSCOOP.
+
+###### Artigo 6.º — Transição de pessoal
+
+1 - Os trabalhadores em funções públicas no INSCOOP transitam para um mapa de pessoal da Cooperativa António Sérgio, cujos postos de trabalho são extintos à medida que vagarem, ao qual é aplicável o regime jurídico dos trabalhadores em funções públicas.
+
+2 - Os trabalhadores em funções públicas no INSCOOP afectos à prossecução das atribuições daquele organismo, ora transferidas para a Cooperativa António Sérgio, transitam para o mapa referido no número anterior.
+
+3 - O processo de identificação do pessoal referido no número anterior obedece ao disposto na Lei n.º 53/2006, de 7 de Dezembro.
+
+4 - Os trabalhadores referidos no n.º 1 podem optar pelo regime do contrato individual de trabalho, no prazo de um ano a contar da data da notificação que lhe seja feita pelo serviço, nos termos do n.º 7 do artigo 16.º da Lei n.º 53/2006, de 7 de Dezembro, ou, quando não haja lugar à aplicação de métodos de selecção, da publicitação das listas e mapas a que se refere o n.º 3 do artigo 14.º da referida lei.
+
+5 - O direito de opção é exercido mediante declaração escrita, individual e irrevogável, dirigida ao dirigente do INSCOOP que, em representação do Estado, assegure o processo de extinção do Instituto, ou à direcção da Cooperativa, caso a mesma se encontre já no exercício de funções, no prazo previsto no número anterior.
+
+6 - A celebração do contrato individual de trabalho implica a exoneração do lugar de origem e a cessação do vínculo à Administração Pública, que se torna efectiva com a publicação na 2.ª série do Diário da República.
+
+###### Artigo 7.º — Capital
+
+O capital social da Cooperativa António Sérgio, variável e ilimitado, tem o valor mínimo inicial de (euro) 200 000, representado por 200 títulos, de (euro) 1000 cada um.
+
+###### Artigo 8.º — Subscrição do Estado
+
+O Estado, representado pelo Instituto de Emprego e da Formação Profissional, I. P., subscreve 200 títulos, no valor global de (euro) 200 000, realizados em dinheiro.
+
+###### Artigo 9.º — Aumento e alienação do capital da parte pública
+
+1 - A participação do Estado pode ser aumentada por deliberação da assembleia geral da Cooperativa António Sérgio.
+
+2 - O Estado pode subscrever os aumentos de capital que vierem a ser aprovados em assembleia geral, bem como alienar parte do seu capital, sendo que, em caso algum, pode a participação do Estado ser inferior a 60 % do capital social da Cooperativa António Sérgio.
+
+###### Artigo 10.º — Exoneração da parte pública
+
+A exoneração da participação do Estado apenas pode ser determinada por resolução do Conselho de Ministros, devendo ser comunicada à assembleia geral da cooperativa de interesse público com a antecedência mínima de 180 dias.
+
+###### Artigo 11.º — Representação do Estado
+
+A parte pública está representada nos órgãos sociais da Cooperativa António Sérgio na proporção do respectivo capital social, competindo a sua designação e exoneração ao membro do Governo responsável pela área do trabalho e da solidariedade social.
+
+###### Artigo 12.º — Reservas
+
+1 - Dos excedentes líquidos apurados no final de cada exercício, um montante mínimo, equivalente a 25 % dos mesmos, reverte para as reservas obrigatórias.
+
+2 - Pode ser deliberada em assembleia geral a constituição de outras reservas que devam ser consideradas obrigatórias, para além das previstas nos artigos 96.º e 97.º do Código Cooperativo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2017-106824980), em vigor a partir de 2017-04-05
+
+###### Artigo 13.º — Utilidade pública
+
+À Cooperativa António Sérgio é reconhecida utilidade pública, nos termos e para os efeitos do Decreto-Lei n.º 460/77, de 7 de Novembro, alterado pelo Decreto-Lei n.º 391/2007, de 13 de Dezembro.
+
+###### Artigo 14.º — Afectação orçamental
+
+1 - As verbas inscritas no Orçamento do Estado de 2009 ou no orçamento da segurança social para 2009 ou nos orçamentos de serviços da administração central do Estado para o extinto INSCOOP são transferidas para a Cooperativa António Sérgio.
+
+2 - A partir do ano de 2010, o membro do Governo responsável pela área do trabalho e da solidariedade social inscreve no orçamento da segurança social, ou no orçamento do Instituto de Emprego e da Formação Profissional, I. P., ou no orçamento de outro organismo sob sua tutela, verbas para assegurar a comparticipação financeira do Estado, como contrapartida das atribuições sociais e de serviço público prosseguidas pela Cooperativa António Sérgio.
+
+3 - Para além do disposto no número anterior, a execução das atribuições sociais da Cooperativa António Sérgio pode, ainda, ser financiada através de comparticipações e subsídios provenientes de candidaturas aos Fundos da União.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2017-106824980), em vigor a partir de 2017-04-05
+
+###### Artigo 15.º — Valor probatório
+
+1 - O presente decreto-lei é título bastante e suficiente para a celebração de quaisquer actos notariais, registrais ou outros, que sejam necessários para concretizar a transferência de posições jurídicas previstas no presente decreto-lei, bem como para a transferência de património.
+
+2 - Quaisquer referências, legais, regulamentares ou contratuais, feitas ao INSCOOP, devem ser tidas como feitas à Cooperativa António Sérgio.
+
+3 - Quaisquer referências legais, regulamentares ou contratuais feitas ao Conselho Nacional para a Promoção do Voluntariado devem ser tidas como feitas à Cooperativa António Sérgio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2017-106824980), em vigor a partir de 2017-04-05
+
+###### Artigo 16.º — Alteração ao Decreto-Lei n.º 31/84, de 21 de Janeiro
+
+O artigo 1.º do Decreto-Lei n.º 31/84, de 21 de Janeiro, passa a ter a seguinte redacção:
+
+«Artigo 1.º
+
+[...]
+
+1 - As régies cooperativas, ou cooperativas de interesse público, são pessoas em que, para a prossecução dos seus fins, se associam o Estado ou outras pessoas colectivas de direito público e cooperativas ou utentes dos bens e serviços produzidos ou pessoas colectivas de direito privado, sem fins lucrativos.
+
+2 - ...
+
+3 - ...»
+
+###### Artigo 17.º — Disposição transitória
+
+1 - Com a entrada em vigor do presente decreto-lei cabe ao dirigente do INSCOOP, em representação do Estado, assegurar o respectivo processo de extinção, bem como assegurar a implementação da Cooperativa António Sérgio, o seu normal funcionamento e a prossecução das suas actividades correntes, até à eleição dos órgãos sociais da Cooperativa.
+
+2 - A extinção prevista no artigo 1.º produz efeitos 10 dias depois da entrada em vigor do presente decreto-lei.
+
+###### Artigo 18.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 63/90, de 20 de Fevereiro, alterado pelo Decreto-Lei n.º 204/92, de 2 de Outubro.
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva.
+
+Promulgado em 24 de Setembro de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 25 de Setembro de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

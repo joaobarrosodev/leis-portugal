@@ -1,0 +1,1095 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005R0768:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R0768-20190414",
+ "dre_path": null,
+ "source_lastmod": "2019-04-14",
+ "versions": [
+  {
+   "date": "2006-06-16",
+   "future": false,
+   "celex": "32005R0768",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9a4bbe8c63db8853",
+    "226c39ffd0a88dad",
+    "11fe57129bb55292",
+    "49d30bfaa4b84240",
+    "960bff9d061ea10b",
+    "f0f8c960bfdbce9b",
+    "5c7b7caeb02f0d06",
+    "b3ba2c78af3209e5",
+    "b8ab9c2f5beb3d46",
+    "9311f68753bbfc01",
+    "0971cdede023ba2e",
+    "6bee09286b61c55a",
+    "1e7a0903d2eed348",
+    "f46430c401532f73",
+    "3ccd472e4ac511cb",
+    "09848302a0906197",
+    "ebcca7aa07de4e10",
+    "f39a396cd24dff8c",
+    "c415803edb0b8e5d",
+    "eeb8af60f2875663",
+    "c54ba494b10149d0",
+    "673588d84612ed01",
+    "d4f1cc422dd9f0c1",
+    "66290fe660081050",
+    "1ecfc79da3f1ac7f",
+    "d8ef928da5b17f22",
+    "32b825adff483297",
+    "622c7cc9fbb6f161",
+    "6d827008cf5a412c",
+    "b9d2e48236a1f3bc",
+    "480cd33eecf2e653",
+    "cd45c3f159b3c483",
+    "a83a214a9a8dbece",
+    "c33f11cf16e9e10f",
+    "c12a0b7f1314663b",
+    "cec6470bd0585589",
+    "9884f62c1f3701b8",
+    "23eac7e4f754b8b0",
+    "04e863fd802a015b",
+    "22ce43ec2a59b11a",
+    "af89d0f3af3809d6",
+    "1e86ce90ea8b8eca",
+    "9f93db54b4edcc76",
+    "40ed6b62e188ac6f",
+    "6e028bd1d966d922",
+    "4ba2c32e4adb1873",
+    "1dae4d98ee888639",
+    "8a046276f9bd8da7",
+    "89e0bd9eea14e12d",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "dbe8a5b026ef03af",
+    "da0c084010326205",
+    "fcf0dd9352e10eaf",
+    "c140fe1017a7004b",
+    "896cd81fb70b9766",
+    "8caa7fe29d34262e"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "celex": "02005R0768-20100101",
+   "acts": [
+    {
+     "id": "eu:celex:32009R1224:por",
+     "title": "REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009",
+     "published": null,
+     "celex": "32009R1224"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Missão",
+    "Altera Artigo 5.º — Atribuições relativas à coordenação operacional",
+    "Altera Artigo 8.º — Execução das obrigações da Comunidade em matéria de controlo e inspecção",
+    "Altera Artigo 19.º — Pessoal",
+    "Altera Artigo 22.º — Línguas",
+    "Altera Artigo 36.º — Execução e controlo do orçamento",
+    "Altera Artigo 38.º — Disposições financeiras",
+    "Altera Artigo 41.º — Alteração",
+    "Altera Artigo 42.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 7.º — Apoio à Comissão e aos Estados-Membros",
+    "Adita Artigo 9.º — Execução de programas específicos de controlo e de inspecção",
+    "Adita CAPÍTULO III-A",
+    "Adita COMPETÊNCIAS DA AGÊNCIA",
+    "Adita Artigo 17.ºA — Designação de agentes da Agência como inspectores comunitários",
+    "Adita Artigo 17.ºB — Medidas adoptadas pela da Agência",
+    "Adita Artigo 17.ºC — Cooperação",
+    "Adita Artigo 17.ºD — Unidade de emergência",
+    "Adita Artigo 17.ºE — Tarefas da unidade de emergência",
+    "Adita Artigo 17.ºF — Programa de trabalho plurianual",
+    "Adita Artigo 17.ºG — Cooperação em matéria de assuntos marítimos",
+    "Adita Artigo 17.ºH — Regras de execução",
+    "Suprime Artigo 7.º — Apoio aos Estados-Membros",
+    "Suprime Artigo 9.º — Execução de programas específicos de controlo e inspecção",
+    "Suprime «Artigo 34.º-C"
+   ],
+   "fragments": [
+    "0e718f9197635ffd",
+    "226c39ffd0a88dad",
+    "11fe57129bb55292",
+    "49d30bfaa4b84240",
+    "960bff9d061ea10b",
+    "f0f8c960bfdbce9b",
+    "5c7b7caeb02f0d06",
+    "325c2a62b9ea7faa",
+    "b8ab9c2f5beb3d46",
+    "df83bc9e2913519b",
+    "0971cdede023ba2e",
+    "2277cb7a5c56fa9c",
+    "1e7a0903d2eed348",
+    "f46430c401532f73",
+    "0676369e27299440",
+    "aff11fb08a24f769",
+    "ebcca7aa07de4e10",
+    "f39a396cd24dff8c",
+    "c415803edb0b8e5d",
+    "eeb8af60f2875663",
+    "c54ba494b10149d0",
+    "673588d84612ed01",
+    "d4f1cc422dd9f0c1",
+    "66290fe660081050",
+    "b0342bc1df002810",
+    "3c9ea3b6d10bda55",
+    "32c6758fc65a1fa7",
+    "0299f55e1af143d5",
+    "6ab400ced793e8d7",
+    "b9d0fb93a0c4ba54",
+    "1607aed8a0fa7cd5",
+    "800cecd4562c9ca2",
+    "d2943a7fa30331fc",
+    "f84e168c1c7cea40",
+    "1ecfc79da3f1ac7f",
+    "d8ef928da5b17f22",
+    "32b825adff483297",
+    "e24f6f9cf79073d7",
+    "6d827008cf5a412c",
+    "b9d2e48236a1f3bc",
+    "00de6c3b161a00b0",
+    "cd45c3f159b3c483",
+    "a83a214a9a8dbece",
+    "c33f11cf16e9e10f",
+    "c12a0b7f1314663b",
+    "cec6470bd0585589",
+    "9884f62c1f3701b8",
+    "23eac7e4f754b8b0",
+    "04e863fd802a015b",
+    "22ce43ec2a59b11a",
+    "af89d0f3af3809d6",
+    "1e86ce90ea8b8eca",
+    "9f93db54b4edcc76",
+    "40ed6b62e188ac6f",
+    "6e028bd1d966d922",
+    "4ba2c32e4adb1873",
+    "ef65679cf35560db",
+    "8a046276f9bd8da7",
+    "8cf76fb5bd5ef27b",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "dbe8a5b026ef03af",
+    "da0c084010326205",
+    "2caf474d4a0d01a4",
+    "e729b316b0b82887",
+    "7dafc274214c60e3"
+   ]
+  },
+  {
+   "date": "2016-10-06",
+   "future": false,
+   "celex": "02005R0768-20161006",
+   "acts": [
+    {
+     "id": "eu:celex:32016R1626:por",
+     "title": "REGULAMENTO (UE) 2016/1626 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2016",
+     "published": null,
+     "celex": "32016R1626"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objectivo",
+    "Altera Artigo 3.º — Missão",
+    "Altera Artigo 7.º — Apoio à Comissão e aos Estados-Membros",
+    "Altera Artigo 19.º — Pessoal",
+    "Altera Artigo 22.º — Línguas",
+    "Altera Artigo 36.º — Execução e controlo do orçamento",
+    "Altera Artigo 38.º — Disposições financeiras",
+    "Altera Artigo 41.º — Alteração",
+    "Altera Notas",
+    "Adita Artigo 7.º-A — Cooperação europeia no domínio das funções de guarda costeira"
+   ],
+   "fragments": [
+    "53b5e0252ef9a811",
+    "226c39ffd0a88dad",
+    "11fe57129bb55292",
+    "76b8dd5cc0d76191",
+    "960bff9d061ea10b",
+    "f0f8c960bfdbce9b",
+    "5c7b7caeb02f0d06",
+    "d98fa69e2fb4ebd1",
+    "b8ab9c2f5beb3d46",
+    "df83bc9e2913519b",
+    "0971cdede023ba2e",
+    "1262540baff91bfe",
+    "d06fc65dfa2b1402",
+    "1e7a0903d2eed348",
+    "f46430c401532f73",
+    "0676369e27299440",
+    "aff11fb08a24f769",
+    "ebcca7aa07de4e10",
+    "f39a396cd24dff8c",
+    "c415803edb0b8e5d",
+    "eeb8af60f2875663",
+    "c54ba494b10149d0",
+    "673588d84612ed01",
+    "d4f1cc422dd9f0c1",
+    "66290fe660081050",
+    "b0342bc1df002810",
+    "3c9ea3b6d10bda55",
+    "32c6758fc65a1fa7",
+    "0299f55e1af143d5",
+    "6ab400ced793e8d7",
+    "b9d0fb93a0c4ba54",
+    "1607aed8a0fa7cd5",
+    "800cecd4562c9ca2",
+    "d2943a7fa30331fc",
+    "f84e168c1c7cea40",
+    "1ecfc79da3f1ac7f",
+    "d8ef928da5b17f22",
+    "32b825adff483297",
+    "0ac74b191d364f00",
+    "6d827008cf5a412c",
+    "b9d2e48236a1f3bc",
+    "02142eb1979c1fa1",
+    "cd45c3f159b3c483",
+    "a83a214a9a8dbece",
+    "c33f11cf16e9e10f",
+    "c12a0b7f1314663b",
+    "cec6470bd0585589",
+    "9884f62c1f3701b8",
+    "23eac7e4f754b8b0",
+    "04e863fd802a015b",
+    "22ce43ec2a59b11a",
+    "af89d0f3af3809d6",
+    "1e86ce90ea8b8eca",
+    "9f93db54b4edcc76",
+    "40ed6b62e188ac6f",
+    "6e028bd1d966d922",
+    "4ba2c32e4adb1873",
+    "0f9efc64a63b9ab2",
+    "8a046276f9bd8da7",
+    "cc69473068a5ee99",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "dbe8a5b026ef03af",
+    "da0c084010326205",
+    "b76478451c8d4db2",
+    "e729b316b0b82887",
+    "edb998a023f5e11d"
+   ]
+  },
+  {
+   "date": "2019-04-14",
+   "future": false,
+   "celex": "02005R0768-20190414",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime OBJECTIVO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+    "Suprime Artigo 1.º — Objectivo",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime CAPÍTULO II",
+    "Suprime MISSÃO E ATRIBUIÇÕES DA AGÊNCIA",
+    "Suprime Artigo 3.º — Missão",
+    "Suprime Artigo 4.º — Atribuições relativas às obrigações internacionais da Comunidade em matéria de controlo e inspecção",
+    "Suprime Artigo 5.º — Atribuições relativas à coordenação operacional",
+    "Suprime Artigo 6.º — Prestação de serviços contratuais aos Estados-Membros",
+    "Suprime Artigo 7.º — Apoio à Comissão e aos Estados-Membros",
+    "Suprime Artigo 7.º-A — Cooperação europeia no domínio das funções de guarda costeira",
+    "Suprime CAPÍTULO III",
+    "Suprime COORDENAÇÃO OPERACIONAL",
+    "Suprime Artigo 8.º — Execução das obrigações da Comunidade em matéria de controlo e inspecção",
+    "Suprime Artigo 9.º — Execução de programas específicos de controlo e de inspecção",
+    "Suprime Artigo 10.º — Conteúdo dos planos de utilização conjunta",
+    "Suprime Artigo 11.º — Notificação dos meios de controlo e inspecção",
+    "Suprime Artigo 12.º — Procedimento para a adopção de planos de utilização conjunta",
+    "Suprime Artigo 13.º — Execução dos planos de utilização conjunta",
+    "Suprime Artigo 14.º — Avaliação dos planos de utilização conjunta",
+    "Suprime Artigo 15.º — Actividades de pesca que não sejam objecto de programas de controlo e inspecção",
+    "Suprime Artigo 16.º — Rede de informação",
+    "Suprime Artigo 17.º — Regras de execução",
+    "Suprime CAPÍTULO III-A",
+    "Suprime COMPETÊNCIAS DA AGÊNCIA",
+    "Suprime Artigo 17.ºA — Designação de agentes da Agência como inspectores comunitários",
+    "Suprime Artigo 17.ºB — Medidas adoptadas pela da Agência",
+    "Suprime Artigo 17.ºC — Cooperação",
+    "Suprime Artigo 17.ºD — Unidade de emergência",
+    "Suprime Artigo 17.ºE — Tarefas da unidade de emergência",
+    "Suprime Artigo 17.ºF — Programa de trabalho plurianual",
+    "Suprime Artigo 17.ºG — Cooperação em matéria de assuntos marítimos",
+    "Suprime Artigo 17.ºH — Regras de execução",
+    "Suprime CAPÍTULO IV",
+    "Suprime ESTRUTURA INTERNA E FUNCIONAMENTO",
+    "Suprime Artigo 18.º — Estatuto jurídico e sede principal",
+    "Suprime Artigo 19.º — Pessoal",
+    "Suprime Artigo 20.º — Privilégios e imunidades",
+    "Suprime Artigo 21.º — Responsabilidade",
+    "Suprime Artigo 22.º — Línguas",
+    "Suprime Artigo 23.º — Criação e competências do Conselho de Administração",
+    "Suprime Artigo 24.º — Composição do Conselho de Administração",
+    "Suprime Artigo 25.º — Presidência do Conselho de Administração",
+    "Suprime Artigo 26.º — Reuniões",
+    "Suprime Artigo 27.º — Votação",
+    "Suprime Artigo 28.º — Declaração de interesses",
+    "Suprime Artigo 29.º — Funções e competências do director executivo",
+    "Suprime Artigo 30.º — Nomeação e demissão do director executivo",
+    "Suprime Artigo 31.º — Conselho Consultivo",
+    "Suprime Artigo 32.º — Transparência e comunicação",
+    "Suprime Artigo 33.º — Confidencialidade",
+    "Suprime Artigo 34.º — Acesso às informações",
+    "Suprime CAPÍTULO V",
+    "Suprime DISPOSIÇÕES FINANCEIRAS",
+    "Suprime Artigo 35.º — Orçamento",
+    "Suprime Artigo 36.º — Execução e controlo do orçamento",
+    "Suprime Artigo 37.º — Luta contra a fraude",
+    "Suprime Artigo 38.º — Disposições financeiras",
+    "Suprime CAPÍTULO VI",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 39.º — Avaliação",
+    "Suprime Artigo 40.º — Início da actividade da Agência",
+    "Suprime Artigo 41.º — Alteração",
+    "Suprime Artigo 42.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "983547c9d2ab4282"
+   ]
+  }
+ ],
+ "fragments": {
+  "9a4bbe8c63db8853": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Abril de 2005\n\nque estabelece uma Agência Comunitária de Controlo das Pescas e que altera o Regulamento (CEE) n.º 2847/93 que institui um regime de controlo aplicável à política comum das pescas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr1-L_2005128PT.01000101-E0001),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas [([^2])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr2-L_2005128PT.01000101-E0002), exige que os Estados-Membros assegurem o controlo, a inspecção e a execução eficazes das regras da política comum das pescas e cooperem entre si e com países terceiros para esse efeito.\n\n(2) Para cumprir estas obrigações, é necessário que os Estados-Membros coordenem as suas actividades de controlo e inspecção no seu território, nas águas comunitárias e internacionais, de acordo com o direito internacional e, designadamente, com as obrigações que incumbem à Comunidade no âmbito das organizações regionais de pesca e por força dos acordos com países terceiros.\n\n(3) Nenhum sistema de inspecção pode ser compensador sem que se proceda a inspecções em terra. Por esse motivo, os planos de utilização conjunta devem também abranger o território.\n\n(4) Graças à coordenação operacional das actividades de controlo e inspecção, essa cooperação deve contribuir para a exploração sustentável dos recursos aquáticos vivos, bem como assegurar a existência de condições equitativas para os profissionais do sector das pescas que participam na exploração dos recursos, reduzindo, assim, as distorções da concorrência.\n\n(5) O controlo e inspecção efectivos das pescas são considerados essenciais para combater a pesca ilegal, não declarada e não regulamentada.\n\n(6) Sem prejuízo das responsabilidades dos Estados-Membros, decorrentes do Regulamento (CE) n.º 2371/2002, afigura-se necessário dispor de um organismo comunitário técnico e administrativo para organizar a cooperação e a coordenação entre Estados-Membros no respeitante ao controlo e à inspecção das pescas.\n\n(7) Para o efeito, é conveniente estabelecer uma Agência Comunitária de Controlo das Pescas (seguidamente designada «Agência»), no âmbito da estrutura institucional existente da Comunidade e atendendo à repartição de competências entre a Comissão e os Estados-Membros.\n\n(8) Para garantir a realização dos objectivos que presidem à criação da Agência, é necessário definir as suas tarefas.\n\n(9) Em especial, a Agência deve, a pedido da Comissão, apoiar a Comunidade e os Estados-Membros nas suas relações com países terceiros e/ou organizações regionais de pesca e cooperar com as suas autoridades competentes no âmbito das obrigações internacionais que incumbem à Comunidade.\n\n(10) É, além disso, necessário trabalhar no sentido da aplicação efectiva dos procedimentos comunitários em matéria de inspecção. A Agência poderá, com o tempo, tornar-se uma fonte de referência do apoio científico e técnico prestado ao controlo e à inspecção das pescas.\n\n(11) A fim de cumprir os objectivos da política comum das pescas, que consistem em prever uma exploração sustentável dos recursos aquáticos vivos no contexto do desenvolvimento sustentável, o Conselho deve aprovar medidas em matéria de conservação, gestão e exploração dos recursos aquáticos vivos.\n\n(12) Para garantir a boa execução destas medidas, os Estados-Membros devem recorrer a meios adequados de controlo e execução. Para tornar esse controlo e execução mais efectivos e mais eficazes, é adequado que a Comissão aprove programas específicos de controlo e inspecção, nos termos do procedimento previsto no n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002 e em concertação com os Estados-Membros interessados. O Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas [([^3])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr3-L_2005128PT.01000101-E0003), deve ser alterado em conformidade.\n\n(13) É conveniente que a Agência assegure a coordenação da cooperação operacional entre os Estados-Membros em conformidade com planos de utilização conjunta, que organizam a utilização dos meios de controlo e inspecção disponíveis dos Estados-Membros em causa, por forma a dar cumprimento aos programas de controlo e inspecção. As actividades de controlo e inspecção da pesca dos Estados-Membros devem ser exercidas em conformidade com critérios, prioridades, marcos de referência e procedimentos comuns em matéria de actividades de inspecção e controlo, definidos com base nesses programas.\n\n(14) A adopção de um programa de controlo e inspecção obriga os Estados-Membros a prestarem efectivamente os recursos necessários à execução do programa. É necessário que os Estados-Membros notifiquem rapidamente a Agência sobre os meios de controlo e inspecção com que pretendem executar tal programa. Os planos de utilização conjunta não devem impor obrigações adicionais em termos de controlo, inspecção e execução, nem relativamente à disponibilização dos recursos necessários neste contexto.\n\n(15) A Agência só deve preparar um plano de utilização conjunta se tal estiver previsto no programa de trabalho.\n\n(16) O programa de trabalho deve ser aprovado pelo Conselho de Administração, que garante o consenso suficiente, nomeadamente no que se refere a uma melhor adequação das tarefas previstas para a Agência no programa de trabalho aos recursos de que a Agência dispõe, com base em informações fornecidas pelos Estados-Membros.\n\n(17) A principal tarefa do director executivo consiste em garantir, nas suas consultas com os membros do Conselho de Administração e com os Estados-Membros, a existência de uma adequação suficiente entre os objectivos do programa de trabalho para cada ano e os recursos disponibilizados à Agência pelos Estados-Membros para a execução desse programa.\n\n(18) O director executivo deve nomeadamente elaborar planos de utilização específicos, utilizando os recursos notificados pelos Estados-Membros para a execução de cada programa de controlo e inspecção e respeitando as regras e objectivos estabelecidos no programa específico de controlo e inspecção em que se baseia o plano de utilização conjunta, bem como outras regras pertinentes, como as que se referem aos inspectores comunitários.\n\n(19) Neste contexto, é necessário que o director executivo saiba gerir o calendário de molde a dar aos Estados-Membros tempo suficiente para que forneçam os respectivos comentários, com base nos seus conhecimentos operacionais específicos, no âmbito do plano de trabalho da Agência e dos prazos previstos no presente regulamento. É necessário que o director executivo tenha em conta os interesses dos Estados-Membros interessados nas pescas abrangidas por cada plano. A fim de garantir uma coordenação eficiente e atempada das actividades conjuntas de controlo e inspecção, é necessário prever um procedimento que permita decidir sobre a aprovação dos planos, sempre que os Estados-Membros interessados não consigam chegar a acordo.\n\n(20) O procedimento de elaboração e aprovação dos planos de utilização conjunta fora das águas comunitárias deve ser semelhante ao adoptado para as águas comunitárias. Na base desses planos de utilização conjunta, deve existir um programa internacional de controlo e inspecção que gere obrigações internacionais em matéria de controlo e inspecção susceptíveis de vincular a Comunidade.\n\n(21) Para fins de execução dos planos de utilização conjunta, os Estados-Membros interessados devem mobilizar e utilizar os meios de controlo e inspecção que tiverem atribuído a esses planos. A Agência deve avaliar se os meios de controlo e inspecção disponíveis são suficientes e, se for caso disso, informar os Estados-Membros interessados e a Comissão de que os meios não são suficientes para desempenhar as tarefas exigidas no âmbito do programa de controlo e inspecção.\n\n(22) Se os Estados-Membros respeitarem as suas obrigações em matéria de controlo e inspecção, nomeadamente ao abrigo do programa específico de controlo e inspecção aprovado nos termos do Regulamento (CE) n.º 2371/2002, a Agência não deve ter competência para impor obrigações adicionais através de planos de utilização conjunta, nem para impor sanções aos Estados-Membros.\n\n(23) A Agência deve examinar regularmente a eficácia dos planos de utilização conjunta.\n\n(24) É adequado prever a possibilidade de aprovar normas de execução específicas para a adopção e aprovação de planos de utilização conjunta. Pode ser útil recorrer a esta possibilidade depois de a Agência ter começado a funcionar e o director executivo considerar que essas normas devem ser previstas na legislação comunitária.\n\n(25) Sempre que lhe seja formulado um pedido nesse sentido, a Agência deve poder prestar serviços contratuais relativamente aos meios de controlo e inspecção a utilizar conjuntamente pelos Estados-Membros interessados.\n\n(26) Para a execução das atribuições da Agência, a Comissão, os Estados-Membros e a Agência devem trocar todas as informações úteis sobre o controlo e a inspecção através de uma rede de informação.\n\n(27) O estatuto e a estrutura da Agência devem corresponder ao carácter objectivo dos resultados a atingir e permitir-lhe exercer as suas funções em estreita cooperação com os Estados-Membros e a Comissão. A Agência deve, pois, beneficiar de autonomia jurídica, financeira e administrativa e, ao mesmo tempo, manter estreitas relações com as instituições da Comunidade e com os Estados-Membros. Para esse efeito, é necessário e adequado que a Agência seja um organismo comunitário, com personalidade jurídica, que exerça as competências que lhe são conferidas pelo presente regulamento.\n\n(28) No que se refere à responsabilidade contratual da Agência, que é regulada pela lei aplicável aos contratos por ela celebrados, o Tribunal de Justiça deverá ser competente para decidir com fundamento em cláusula de arbitragem constante do contrato. O Tribunal de Justiça deverá igualmente ser competente para conhecer dos litígios relativos à reparação dos danos em sede de responsabilidade extracontratual da Agência, de acordo com os princípios gerais comuns aos direitos dos Estados-Membros.\n\n(29) A Comissão e os Estados-Membros deverão estar representados no âmbito de um Conselho de Administração incumbido de zelar por que a Agência funcione de forma correcta e eficaz.\n\n(30) Deverá ser criado um Conselho Consultivo para dar parecer ao director executivo e para garantir uma estreita cooperação com as partes interessadas.\n\n(31) Dado que compete à Agência cumprir as obrigações da Comunidade e, a pedido da Comissão, cooperar com países terceiros e organizações regionais de pesca no âmbito das obrigações internacionais da Comunidade, é conveniente que o presidente do Conselho de Administração seja eleito de entre os representantes da Comissão.\n\n(32) As regras de votação no âmbito do Conselho de Administração deverão ter em conta o interesse dos Estados-Membros e da Comissão no funcionamento eficaz da Agência.\n\n(33) É conveniente prever a participação nas deliberações do Conselho de Administração de um representante do Conselho Consultivo sem direito a voto.\n\n(34) É necessário fixar as regras relativas à nomeação e à demissão do director executivo da Agência, assim como as regras que regem o exercício das suas funções.\n\n(35) A fim de favorecer o funcionamento transparente da Agência, o Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão [([^4])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr4-L_2005128PT.01000101-E0004), deverá ser aplicável sem restrições à Agência.\n\n(36) No interesse da protecção da vida privada das pessoas singulares, é conveniente que o Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2000, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados [([^5])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr5-L_2005128PT.01000101-E0005), seja aplicável ao presente regulamento.\n\n(37) A fim de assegurar a sua autonomia e independência funcionais, é necessário dotar a Agência de um orçamento próprio, cujas receitas sejam constituídas por uma contribuição da Comunidade e pelos pagamentos efectuados para remunerar serviços contratuais prestados pela Agência. O processo orçamental comunitário deverá ser aplicável no que se refere à contribuição comunitária e a quaisquer outros subsídios imputáveis ao orçamento geral da União Europeia. A auditoria das contas deve ser efectuada pelo Tribunal de Contas.\n\n(38) Na luta contra a fraude, a corrupção e outras acções ilícitas, as disposições do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) [([^6])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr6-L_2005128PT.01000101-E0006), deverão aplicar-se sem quaisquer restrições à Agência, que deverá ficar também sujeita ao Acordo Interinstitucional, de 25 de Maio de 1999, entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias relativo aos inquéritos internos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) [([^7])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr7-L_2005128PT.01000101-E0007).\n\n(39) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^8])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr8-L_2005128PT.01000101-E0008),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "11fe57129bb55292": {
+   "fragment_id": "OBJECTIVO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "type": "divisao",
+   "heading": "OBJECTIVO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTIVO, ÂMBITO DE APLICAÇÃO E DEFINIÇÕES"
+  },
+  "49d30bfaa4b84240": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO presente regulamento institui uma Agência Comunitária de Controlo das Pescas (seguidamente designada «Agência») cujo objectivo consiste em organizar a coordenação operacional das actividades de controlo e inspecção da pesca exercidas pelos Estados-Membros e auxiliá-los a cooperar por forma a que sejam respeitadas as regras da política comum das pescas a fim de garantir a aplicação efectiva e uniforme dessa política."
+  },
+  "960bff9d061ea10b": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Controlo e inspecção», quaisquer medidas adoptadas pelos Estados-Membros, nomeadamente nos termos dos artigos 23.º, 24.º e 28.º do Regulamento (CE) n.º 2371/2002, a fim de assegurar o controlo e a inspecção das actividades de pesca no âmbito da política comum das pescas, incluindo as actividades de vigilância e de acompanhamento, tais como os sistemas de monitorização de navios ou os programas de observação;\n\nb) «Meios de controlo e inspecção», os navios, as aeronaves, os veículos e outros recursos materiais, bem como os inspectores, os observadores e outros recursos humanos utilizados pelos Estados-Membros para efeitos de controlo e inspecção;\n\nc) «Plano de utilização conjunta», um plano que define as disposições operacionais relativas à utilização dos meios de controlo e inspecção disponíveis;\n\nd) «Programa internacional de controlo e inspecção», um programa que define os objectivos, assim como as prioridades e procedimentos comuns, das actividades de controlo e inspecção, com vista à execução das obrigações internacionais da Comunidade nesta matéria;\n\ne) «Programa específico de controlo e inspecção», um programa que define os objectivos, assim como as prioridades e procedimentos comuns, das actividades de controlo e inspecção estabelecidas em conformidade com o artigo 34.º-C do Regulamento (CEE) n.º 2847/93;\n\nf) «Pesca», as actividades de pesca que exploram determinadas unidades populacionais, tal como definidas pelo Conselho nomeadamente nos termos dos artigos 5.º e 6.º do Regulamento (CE) n.º 2371/2002;\n\ng) «Inspectores comunitários», os inspectores constantes da lista referida no n.º 4 do artigo 28.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "5c7b7caeb02f0d06": {
+   "fragment_id": "MISSÃO E ATRIBUIÇÕES DA AGÊNCIA",
+   "type": "divisao",
+   "heading": "MISSÃO E ATRIBUIÇÕES DA AGÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MISSÃO E ATRIBUIÇÕES DA AGÊNCIA"
+  },
+  "b3ba2c78af3209e5": {
+   "fragment_id": "Artigo 3.º — Missão",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\nA missão da Agência consiste em:\n\na) Coordenar as actividades de controlo e inspecção exercidas pelos Estados-Membros, relacionadas com as obrigações da Comunidade em matéria de controlo e inspecção;\n\nb) Coordenar a utilização dos meios nacionais de controlo e inspecção mobilizados pelos Estados-Membros interessados, em conformidade com o presente regulamento;\n\nc) Auxiliar os Estados-Membros a comunicar à Comissão e a terceiros as informações relativas às actividades de pesca e às actividades de controlo e inspecção;\n\nd) No domínio das suas competências, prestar apoio aos Estados-Membros no cumprimento das tarefas e obrigações decorrentes da política comum das pescas;\n\ne) Apoiar os Estados-Membros e a Comissão na harmonização da aplicação da política comum das pescas em toda a Comunidade;\n\nf) Contribuir para o trabalho dos Estados-Membros e da Comissão em matéria de investigação e desenvolvimento de técnicas de controlo e inspecção;\n\ng) Contribuir para a coordenação das acções de formação de inspectores e para o intercâmbio de experiências entre Estados-Membros;\n\nh) Coordenar as operações de combate à pesca ilegal, não declarada e não regulamentada, em conformidade com as normas comunitárias."
+  },
+  "b8ab9c2f5beb3d46": {
+   "fragment_id": "Artigo 4.º — Atribuições relativas às obrigações internacionais da Comunidade em matéria de controlo e inspecção",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Atribuições relativas às obrigações internacionais da Comunidade em matéria de controlo e inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições relativas às obrigações internacionais da Comunidade em matéria de controlo e inspecção\n\n1. A pedido da Comissão, a Agência:\n\na) Apoia a Comunidade e os Estados-Membros nas suas relações com países terceiros e organizações regionais internacionais de pesca de que a Comunidade é membro;\n\nb) Coopera com as autoridades competentes de organizações regionais internacionais de pesca no respeitante às obrigações da Comunidade em matéria de controlo e inspecção no âmbito de acordos de trabalho celebrados com essas organizações.\n\n2. A pedido da Comissão, a Agência pode cooperar com as autoridades competentes de países terceiros em questões ligadas ao controlo e à inspecção, no âmbito de acordos celebrados entre a Comunidade e esses países.\n\n3. No seu âmbito de competências, a Agência pode desempenhar tarefas, em nome dos Estados-Membros, no âmbito de acordos de pesca internacionais de que a Comunidade é parte."
+  },
+  "9311f68753bbfc01": {
+   "fragment_id": "Artigo 5.º — Atribuições relativas à coordenação operacional",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Atribuições relativas à coordenação operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições relativas à coordenação operacional\n\n1. A coordenação operacional da Agência abrange a inspecção e o controlo das actividades de pesca, incluindo a importação, o transporte e o desembarque dos produtos da pesca até ao momento em que esses produtos são recebidos pelo primeiro comprador após o desembarque.\n\n2. Para efeitos de coordenação operacional, a Agência estabelece planos de utilização conjunta e organiza a coordenação operacional do controlo e da inspecção, a efectuar pelos Estados-Membros, em conformidade com o capítulo III."
+  },
+  "0971cdede023ba2e": {
+   "fragment_id": "Artigo 6.º — Prestação de serviços contratuais aos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Prestação de serviços contratuais aos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prestação de serviços contratuais aos Estados-Membros\n\nA pedido dos Estados-Membros, a Agência pode prestar-lhes serviços contratuais relacionados com o controlo e inspecção decorrentes das obrigações que lhes incumbem em matéria de pescas nas águas comunitárias e/ou internacionais, nomeadamente na área do fretamento, da exploração e contratação de recursos humanos para as plataformas de controlo e inspecção, assim como da disponibilização de observadores para operações conjuntas realizadas pelos Estados-Membros interessados."
+  },
+  "6bee09286b61c55a": {
+   "fragment_id": "Artigo 7.º — Apoio aos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Apoio aos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio aos Estados-Membros\n\nA fim de apoiar os Estados-Membros no melhor cumprimento das obrigações decorrentes da política comum das pescas, a Agência deve nomeadamente:\n\na) Estabelecer e desenvolver um currículo de base para a formação de instrutores dos inspectores das pescas dos Estados-Membros e prever cursos de formação e seminários suplementares para esses inspectores e outro pessoal envolvido em actividades de monitorização, controlo e inspecção;\n\nb) Encarregar-se, a pedido dos Estados-Membros, da compra comum de bens e serviços relacionados com as actividades de controlo e inspecção exercidas pelos Estados-Membros e preparar e coordenar a execução pelos Estados-Membros de projectos-piloto comuns;\n\nc) Elaborar procedimentos operacionais comuns respeitantes às actividades comuns de controlo e inspecção exercidas por dois ou mais Estados-Membros;\n\nd) Definir os critérios aplicáveis ao intercâmbio de meios de controlo e inspecção dos Estados-Membros entre si, e entre Estados-Membros e países terceiros, assim como ao fornecimento desses meios pelos Estados-Membros."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "f46430c401532f73": {
+   "fragment_id": "COORDENAÇÃO OPERACIONAL",
+   "type": "divisao",
+   "heading": "COORDENAÇÃO OPERACIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COORDENAÇÃO OPERACIONAL"
+  },
+  "3ccd472e4ac511cb": {
+   "fragment_id": "Artigo 8.º — Execução das obrigações da Comunidade em matéria de controlo e inspecção",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Execução das obrigações da Comunidade em matéria de controlo e inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Execução das obrigações da Comunidade em matéria de controlo e inspecção\n\nA pedido da Comissão, a Agência coordena as actividades de controlo e inspecção exercidas pelos Estados-Membros com base em programas internacionais de controlo e inspecção, mediante o estabelecimento de planos de utilização conjunta."
+  },
+  "09848302a0906197": {
+   "fragment_id": "Artigo 9.º — Execução de programas específicos de controlo e inspecção",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Execução de programas específicos de controlo e inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Execução de programas específicos de controlo e inspecção\n\nA Agência coordena a execução dos programas específicos de controlo e inspecção, estabelecidos em conformidade com o artigo 34.º-C do Regulamento (CEE) n.º 2847/93, através de planos de utilização conjunta."
+  },
+  "ebcca7aa07de4e10": {
+   "fragment_id": "Artigo 10.º — Conteúdo dos planos de utilização conjunta",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Conteúdo dos planos de utilização conjunta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conteúdo dos planos de utilização conjunta\n\nCada plano de utilização conjunta:\n\na) Preenche os requisitos do programa de controlo e inspecção pertinente;\n\nb) Aplica os critérios, os marcos de referência, as prioridades e os procedimentos comuns de inspecção determinados pela Comissão em programas de controlo e inspecção;\n\nc) Procura adaptar, em função das necessidades, os meios nacionais de controlo e inspecção existentes, notificados em conformidade com o n.º 2 do artigo 11.º, e organizar a sua utilização;\n\nd) Organiza a utilização dos recursos humanos e materiais, atendendo aos períodos e às zonas em que estes têm de ser utilizados, nomeadamente o funcionamento das equipas de inspectores comunitários provenientes de mais do que um Estado-Membro;\n\ne) Tem em conta as obrigações existentes que incumbem aos Estados-Membros interessados no que se refere a outros planos de utilização conjunta, bem como quaisquer exigências locais e regionais específicas;\n\nf) Define as condições que permitem aos meios de controlo e inspecção de um Estado-Membro penetrar em águas da soberania e jurisdição de outro Estado-Membro."
+  },
+  "f39a396cd24dff8c": {
+   "fragment_id": "Artigo 11.º — Notificação dos meios de controlo e inspecção",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Notificação dos meios de controlo e inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Notificação dos meios de controlo e inspecção\n\n1. Até 15 de Outubro de cada ano, os Estados-Membros notificam à Agência os meios de que dispõem para efeitos de controlo e inspecção no ano subsequente.\n\n2. Cada Estado-Membro notifica à Agência os meios com que pretende executar o programa internacional ou um programa específico de controlo e inspecção que lhe interesse, o mais tardar um mês a contar da data de notificação aos Estados-Membros da decisão que estabelece um destes programas."
+  },
+  "c415803edb0b8e5d": {
+   "fragment_id": "Artigo 12.º — Procedimento para a adopção de planos de utilização conjunta",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Procedimento para a adopção de planos de utilização conjunta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento para a adopção de planos de utilização conjunta\n\n1. Com base nas notificações previstas no n.º 2 do artigo 11.º e no prazo de três meses a contar da recepção dessas notificações, o director executivo da Agência estabelece um projecto de plano de utilização conjunta em concertação com os Estados-Membros interessados.\n\n2. O projecto de plano de utilização conjunta identifica os meios de controlo e inspecção a mobilizar com vista à execução do programa de controlo e inspecção a que o plano se refere, com base no interesse dos Estados-Membros envolvidos nas actividades de pesca pertinentes.\n\nO interesse de um Estado-Membro numa dada actividade de pesca é avaliado atendendo aos seguintes critérios cujo peso relativo depende das características específicas de cada plano:\n\na) A extensão relativa das águas sujeitas (se for o caso) à sua soberania ou jurisdição e abrangidas pelo plano de utilização conjunta;\n\nb) A quantidade de pescado desembarcado no seu território, em dado período de referência, proporcionalmente aos desembarques totais da actividade de pesca que é objecto de um plano de utilização conjunta;\n\nc) O número relativo de navios de pesca comunitários que arvoram o seu pavilhão (potência do motor e arqueação bruta) e participam na actividade de pesca que é objecto de um plano de utilização conjunta em relação ao número total de navios que participam nessa actividade;\n\nd) O volume relativo da quota que lhe foi atribuída ou, à falta de quota, das capturas que efectuou num dado período de referência nessa actividade de pesca.\n\n3. Se, aquando da elaboração de um projecto de plano de utilização conjunta, se verificar que os meios de controlo e inspecção disponíveis não são suficientes para cumprir os requisitos do programa de controlo e inspecção pertinente, o director executivo da Agência notificará rapidamente os Estados-Membros interessados e a Comissão desse facto.\n\n4. O director executivo notifica os Estados-Membros interessados e a Comissão sobre o projecto de plano de utilização conjunta. Se, no prazo de 15 dias úteis a contar da data da notificação, os Estados-Membros interessados ou a Comissão não tiverem levantado objecções, o director executivo aprovará o plano.\n\n5. Se um ou mais Estados-Membros interessados ou a Comissão levantarem objecções, o director executivo remeterá o assunto para a Comissão. A Comissão poderá ajustar o plano de acordo com as necessidades e aprová-lo nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002.\n\n6. Cada plano de utilização conjunta deve ser examinado todos os anos pela Agência em consulta com os Estados-Membros interessados, a fim de atender a qualquer novo programa de controlo e inspecção a que sejam sujeitos os Estados-Membros interessados e a quaisquer prioridades determinadas pela Comissão nos programas de controlo e inspecção."
+  },
+  "eeb8af60f2875663": {
+   "fragment_id": "Artigo 13.º — Execução dos planos de utilização conjunta",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Execução dos planos de utilização conjunta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Execução dos planos de utilização conjunta\n\n1. As actividades comuns de controlo e inspecção são realizadas com base nos planos de utilização conjunta.\n\n2. Os Estados-Membros interessados num plano de utilização conjunta:\n\na) Disponibilizam os meios de controlo e inspecção identificados com vista ao plano de utilização conjunta;\n\nb) Designam um ponto de contacto/coordenador nacional único, com competências suficientes para poder responder atempadamente a pedidos da Agência relacionados com a execução do plano de utilização conjunta, e desse facto notificam a Agência;\n\nc) Utilizam os meios de controlo e inspecção mobilizados em conformidade com o plano de utilização conjunta e os requisitos referidos no n.º 4;\n\nd) Fornecem à Agência o acesso em linha às informações necessárias à execução do plano de utilização conjunta;\n\ne) Cooperam com a Agência para efeitos de execução do plano de utilização conjunta;\n\nf) Velam por que todas as actividades dos meios de controlo e inspecção, atribuídos a um plano comunitário de utilização conjunta, sejam exercidas em conformidade com as regras da política comum das pescas.\n\n3. Sem prejuízo das obrigações contraídas pelos Estados-Membros no quadro de um plano de utilização conjunta estabelecido em conformidade com o artigo 12.º, o comando e a supervisão dos meios de controlo e inspecção atribuídos a um plano de utilização conjunta são da responsabilidade das autoridades nacionais competentes nos termos do direito interno.\n\n4. O director executivo pode definir os requisitos de execução de um plano de utilização conjunta aprovado ao abrigo do artigo 12.º Esses requisitos devem permanecer dentro dos limites do plano."
+  },
+  "c54ba494b10149d0": {
+   "fragment_id": "Artigo 14.º — Avaliação dos planos de utilização conjunta",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Avaliação dos planos de utilização conjunta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Avaliação dos planos de utilização conjunta\n\nA Agência procede a uma avaliação anual da eficácia de cada plano de utilização conjunta e a uma análise destinada a determinar, com base nos elementos disponíveis, se existe um risco de as actividades de pesca não cumprirem as medidas de controlo aplicáveis. Essas avaliações são comunicadas prontamente ao Parlamento Europeu, à Comissão e aos Estados-Membros."
+  },
+  "673588d84612ed01": {
+   "fragment_id": "Artigo 15.º — Actividades de pesca que não sejam objecto de programas de controlo e inspecção",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Actividades de pesca que não sejam objecto de programas de controlo e inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Actividades de pesca que não sejam objecto de programas de controlo e inspecção\n\nDois ou mais Estados-Membros podem solicitar à Agência que coordene a utilização dos seus meios de controlo e inspecção numa actividade de pesca ou numa zona que não seja objecto de um programa de controlo e inspecção. A coordenação é assegurada em conformidade com os critérios e as prioridades em matéria de controlo e inspecção determinados de comum acordo entre os Estados-Membros interessados."
+  },
+  "d4f1cc422dd9f0c1": {
+   "fragment_id": "Artigo 16.º — Rede de informação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Rede de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Rede de informação\n\n1. A Comissão, a Agência e as autoridades competentes dos Estados-Membros procedem ao intercâmbio de todas as informações úteis de que disponham relativamente às actividades comuns de controlo e inspecção nas águas comunitárias e internacionais.\n\n2. Cada autoridade nacional competente adopta, em conformidade com a legislação comunitária aplicável, as medidas necessárias para garantir um nível de confidencialidade adequado das informações que recebe nos termos do presente artigo, em conformidade com o artigo 37.º do Regulamento (CEE) n.º 2847/93."
+  },
+  "66290fe660081050": {
+   "fragment_id": "Artigo 17.º — Regras de execução",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Regras de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regras de execução\n\nAs regras de execução do presente capítulo podem ser adoptadas nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002.\n\nEssas regras podem abranger, nomeadamente, os procedimentos de elaboração e adopção de projectos de planos de utilização conjunta."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "d8ef928da5b17f22": {
+   "fragment_id": "ESTRUTURA INTERNA E FUNCIONAMENTO",
+   "type": "divisao",
+   "heading": "ESTRUTURA INTERNA E FUNCIONAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ESTRUTURA INTERNA E FUNCIONAMENTO"
+  },
+  "32b825adff483297": {
+   "fragment_id": "Artigo 18.º — Estatuto jurídico e sede principal",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Estatuto jurídico e sede principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Estatuto jurídico e sede principal\n\n1. A Agência é um organismo da Comunidade. Tem personalidade jurídica.\n\n2. Em cada um dos Estados-Membros, a Agência goza da mais ampla capacidade jurídica reconhecida às pessoas colectivas pelas legislações nacionais. Pode, nomeadamente, adquirir ou alienar bens móveis e imóveis e estar em juízo.\n\n3. A Agência é representada pelo seu director executivo.\n\n4. A Agência tem sede em Vigo, Espanha."
+  },
+  "622c7cc9fbb6f161": {
+   "fragment_id": "Artigo 19.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pessoal\n\n1. São aplicáveis ao pessoal da Agência o Estatuto dos funcionários das Comunidades Europeias e o Regime aplicável aos outros agentes das Comunidades Europeias, estabelecidos no Regulamento (CEE, Euratom, CECA) n.º 259/68 [([^9])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr9-L_2005128PT.01000101-E0009), e as regulamentações na matéria aprovadas de comum acordo pelas instituições das Comunidades Europeias para efeitos da aplicação desse estatuto e desse regime. O Conselho de Administração, com o acordo da Comissão, aprova as regras de execução necessárias.\n\n2. Sem prejuízo do disposto no artigo 30.º, as competências conferidas à autoridade investida do poder de nomeação pelo Estatuto dos funcionários, bem como pelo Regime aplicável aos outros agentes, são exercidas pela Agência no que diz respeito ao seu próprio pessoal.\n\n3. O pessoal da Agência é composto por funcionários afectados ou destacados temporariamente pela Comissão, e por outros agentes recrutados pela Agência por um período estritamente limitado às necessidades da Agência.\n\nA Agência pode também empregar agentes destacados pelos Estados-Membros a título temporário."
+  },
+  "6d827008cf5a412c": {
+   "fragment_id": "Artigo 20.º — Privilégios e imunidades",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Privilégios e imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Privilégios e imunidades\n\nO protocolo relativo aos privilégios e imunidades das Comunidades Europeias é aplicável à Agência."
+  },
+  "b9d2e48236a1f3bc": {
+   "fragment_id": "Artigo 21.º — Responsabilidade",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Responsabilidade\n\n1. A responsabilidade contratual da Agência é regulada pela lei aplicável ao contrato em causa.\n\n2. O Tribunal de Justiça é competente para decidir com fundamento em cláusula de arbitragem constante de um contrato celebrado pela Agência.\n\n3. Em matéria de responsabilidade extracontratual, a Agência deve indemnizar, de acordo com os princípios gerais comuns aos direitos dos Estados-Membros, os danos causados por si ou pelos seus agentes no exercício das suas funções. O Tribunal de Justiça é competente para conhecer dos litígios relativos à reparação desses danos.\n\n4. A responsabilidade pessoal dos agentes perante a Agência é regulada pelas disposições do Estatuto dos funcionários ou do regime que lhes é aplicável."
+  },
+  "480cd33eecf2e653": {
+   "fragment_id": "Artigo 22.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Línguas\n\n1. As disposições do Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia [([^10])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr10-L_2005128PT.01000101-E0010), são aplicáveis à Agência.\n\n2. Os serviços de tradução necessários ao funcionamento da Agência são assegurados pelo Centro de Tradução dos Organismos da União Europeia."
+  },
+  "cd45c3f159b3c483": {
+   "fragment_id": "Artigo 23.º — Criação e competências do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Criação e competências do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Criação e competências do Conselho de Administração\n\n1. A Agência dispõe de um Conselho de Administração.\n\n2. O Conselho de Administração:\n\na) Nomeia e demite o director executivo, nos termos do artigo 30.º;\n\nb) Aprova, até 30 de Abril de cada ano, o relatório geral da Agência referente ao ano anterior e envia-o ao Parlamento Europeu, ao Conselho, à Comissão, ao Tribunal de Contas e aos Estados-Membros. O relatório é tornado público;\n\nc) Aprova, até 30 de Outubro de cada ano e tendo em conta o parecer da Comissão e dos Estados-Membros, o programa de trabalho da Agência para o ano seguinte e envia-o ao Parlamento Europeu, ao Conselho, à Comissão e aos Estados-Membros. Do programa de trabalho constam as prioridades da Agência. Esse programa dará prioridade às tarefas da Agência relativas aos programas de controlo e vigilância. Será aprovado sem prejuízo do processo orçamental comunitário anual. Se, no prazo de 30 dias a contar da data da aprovação do programa de trabalho, a Comissão manifestar o seu desacordo com o citado programa, o Conselho de Administração voltará a analisar o programa de trabalho e aprová-lo-á, eventualmente alterado, no prazo de dois meses, em segunda leitura;\n\nd) Aprova o orçamento definitivo da Agência antes do início do exercício orçamental, ajustando-o, se necessário, em função da contribuição comunitária e das outras receitas da Agência;\n\ne) Exerce as suas funções em matéria de orçamento da Agência, de acordo com o disposto nos artigos 35.º, 36.º e 38.º;\n\nf) Exerce a autoridade disciplinar sobre o director executivo;\n\ng) Aprova o seu regulamento interno que pode prever, se necessário, a constituição de subcomités do Conselho de Administração;\n\nh) Adopta os procedimentos necessários para a execução pela Agência das respectivas atribuições."
+  },
+  "a83a214a9a8dbece": {
+   "fragment_id": "Artigo 24.º — Composição do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Composição do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Composição do Conselho de Administração\n\n1. O Conselho de Administração é composto por representantes dos Estados-Membros e por seis representantes da Comissão. Cada Estado-Membro tem direito a nomear um membro. Os Estados-Membros e a Comissão nomeiam um suplente por cada membro efectivo, que representará esse membro em caso de ausência.\n\n2. Os membros do Conselho de Administração são nomeados com base no respectivo grau de experiência e dos seus conhecimentos no domínio do controlo e inspecção das pescas.\n\n3. A duração do mandato é de cinco anos a contar da data de nomeação. O mandato é renovável."
+  },
+  "c33f11cf16e9e10f": {
+   "fragment_id": "Artigo 25.º — Presidência do Conselho de Administração",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Presidência do Conselho de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Presidência do Conselho de Administração\n\n1. O Conselho de Administração elege de entre os representantes da Comissão um presidente. O Conselho de Administração elege de entre os seus membros um vice-presidente. O vice-presidente substitui automaticamente o presidente em caso de impedimento.\n\n2. A duração do mandato do presidente e do vice-presidente é de três anos e termina no momento em que deixarem de ser membros do Conselho de Administração. Este mandato é renovável uma vez."
+  },
+  "c12a0b7f1314663b": {
+   "fragment_id": "Artigo 26.º — Reuniões",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reuniões\n\n1. O Conselho de Administração reúne-se por convocação do seu presidente. A ordem de trabalhos é determinada pelo presidente, atendendo às propostas dos membros do Conselho de Administração e do director executivo da Agência.\n\n2. O director executivo e o representante nomeado pelo Conselho Consultivo tomam parte nas deliberações sem direito a voto.\n\n3. O Conselho de Administração reúne-se em sessão ordinária pelo menos uma vez por ano. Além disso, reúne-se por iniciativa do seu presidente ou a pedido da Comissão ou de um terço dos Estados-Membros representados no Conselho de Administração.\n\n4. Quando se trate de uma questão confidencial ou exista um conflito de interesses, o Conselho de Administração pode decidir examinar questões específicas da sua ordem de trabalhos sem a presença do representante nomeado pelo Conselho Consultivo. As regras de execução desta disposição podem constar do regulamento interno.\n\n5. O Conselho de Administração pode convidar qualquer pessoa, cujo parecer tenha interesse, a assistir às suas reuniões na qualidade de observador.\n\n6. Os membros do Conselho de Administração podem, nos termos do regulamento interno, fazer assistir-se por conselheiros ou peritos.\n\n7. O secretariado do Conselho de Administração é assegurado pela Agência."
+  },
+  "cec6470bd0585589": {
+   "fragment_id": "Artigo 27.º — Votação",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Votação\n\n1. O Conselho de Administração delibera por maioria absoluta de votos.\n\n2. Cada membro dispõe de um voto. Em caso de ausência de um membro, o seu suplente pode exercer o seu direito de voto.\n\n3. O regulamento interno estabelece regras de votação mais pormenorizadas, nomeadamente as condições em que um membro se pode fazer representar por um outro, bem como eventuais requisitos em matéria de quórum."
+  },
+  "9884f62c1f3701b8": {
+   "fragment_id": "Artigo 28.º — Declaração de interesses",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Declaração de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Declaração de interesses\n\nOs membros do Conselho de Administração efectuam uma declaração de interesses, indicando, quer a inexistência de quaisquer interesses que possam ser considerados prejudiciais para a sua independência, quer a existência de quaisquer interesses directos ou indirectos que possam ser considerados prejudiciais para a sua independência. Estas declarações são feitas anualmente por escrito ou quando surgir um conflito de interesses relativamente aos pontos da ordem de trabalhos. Nesse caso, o membro em questão não pode votar sobre os referidos pontos."
+  },
+  "23eac7e4f754b8b0": {
+   "fragment_id": "Artigo 29.º — Funções e competências do director executivo",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Funções e competências do director executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Funções e competências do director executivo\n\n1. A Agência é gerida pelo seu director executivo. Sem prejuízo das competências respectivas da Comissão e do Conselho de Administração, o director executivo não solicita nem aceita instruções de nenhum governo ou qualquer outra entidade.\n\n2. No exercício das suas funções, o director executivo dá cumprimento aos princípios da política comum das pescas.\n\n3. O director executivo tem as seguintes funções e competências:\n\na) Prepara o projecto de programa de trabalho e apresenta-o ao Conselho de Administração, após consulta à Comissão e aos Estados-Membros. Toma as medidas necessárias para que o programa de trabalho seja executado nos limites definidos pelo presente regulamento, pelas suas regras de execução ou por qualquer regulamentação aplicável;\n\nb) Toma as medidas necessárias, nomeadamente através da adopção de instruções administrativas internas e da publicação de comunicações, com vista a assegurar a organização e o funcionamento da Agência de acordo com o disposto no presente regulamento;\n\nc) Toma as medidas necessárias, nomeadamente através da adopção de decisões relativas às responsabilidades da Agência nos termos dos capítulos II e III, nomeadamente no que se refere ao fretamento e à exploração de meios de controlo e inspecção e à exploração de uma rede de informação;\n\nd) Responde aos pedidos da Comissão e aos pedidos de apoio dos Estados-Membros nos termos dos artigos 6.º, 7.º e 15.º;\n\ne) Organiza um sistema efectivo de acompanhamento que lhe permita comparar as realizações da Agência com os seus objectivos operacionais. Nesta base, o director executivo prepara, todos os anos, um projecto de relatório geral que apresenta ao Conselho de Administração. O director executivo estabelece procedimentos de avaliação regular que correspondem às normas profissionais reconhecidas;\n\nf) Exerce, em relação ao pessoal, as competências previstas no n.º 2 do artigo 19.º;\n\ng) Elabora a previsão das receitas e despesas da Agência de acordo com o artigo 35.º e executa o orçamento de acordo com o artigo 36.º;\n\n4. O director executivo responde pelos seus actos perante o Conselho de Administração."
+  },
+  "04e863fd802a015b": {
+   "fragment_id": "Artigo 30.º — Nomeação e demissão do director executivo",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Nomeação e demissão do director executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Nomeação e demissão do director executivo\n\n1. O director executivo é nomeado pelo Conselho de Administração com base no mérito e na experiência comprovada relevante no domínio da política comum das pescas e do controlo e inspecção das pescas, a partir de uma lista de, pelo menos, dois candidatos propostos pela Comissão após um processo de selecção consecutivo à publicação do lugar no *Jornal Oficial da União Europeia* e de um convite à manifestação de interesse noutras publicações.\n\n2. O Conselho de Administração tem o poder de demitir o director executivo. O Conselho de Administração delibera sobre esta questão a pedido da Comissão ou de um terço dos seus membros.\n\n3. O Conselho de Administração toma as decisões referidas nos n.^os^ 1 e 2 por maioria de dois terços dos seus membros.\n\n4. O mandato do director executivo tem uma duração de cinco anos. O mandato é renovável uma vez, por um novo período de cinco anos, sob proposta da Comissão e mediante aprovação do Conselho de Administração por maioria de dois terços dos seus membros."
+  },
+  "22ce43ec2a59b11a": {
+   "fragment_id": "Artigo 31.º — Conselho Consultivo",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Conselho Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Conselho Consultivo\n\n1. O Conselho Consultivo é composto por representantes dos conselhos consultivos regionais previstos no artigo 31.º do Regulamento (CE) n.º 2371/2002, sendo cada representante designado por cada um dos conselhos consultivos regionais. Os representantes podem ser substituídos por suplentes que são designados na mesma ocasião.\n\n2. Os membros do Conselho Consultivo não podem ser membros do Conselho de Administração. O Conselho Consultivo designa um dos seus membros para tomar parte nas deliberações do Conselho de Administração, sem direito a voto.\n\n3. A pedido do director executivo, o Conselho Consultivo aconselha-o no exercício das responsabilidades que lhe incumbem nos termos do presente regulamento.\n\n4. O Conselho Consultivo é presidido pelo director executivo. Reúne pelo menos uma vez por ano por convocação do seu presidente.\n\n5. A Agência fornece ao Conselho Consultivo o apoio logístico necessário e secretaria as suas reuniões.\n\n6. Os membros do Conselho de Administração podem participar nas reuniões do Conselho Consultivo."
+  },
+  "af89d0f3af3809d6": {
+   "fragment_id": "Artigo 32.º — Transparência e comunicação",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Transparência e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Transparência e comunicação\n\n1. O Regulamento (CE) n.º 1049/2001 é aplicável aos documentos detidos pela Agência.\n\n2. O Conselho de Administração aprovará as regras de execução do Regulamento (CE) n.º 1049/2001 no prazo de seis meses a contar da data da sua primeira reunião.\n\n3. A Agência pode apresentar comunicações, por iniciativa própria, nos domínios da sua competência. Em especial, deve assegurar que sejam rapidamente fornecidas ao público e a quaisquer partes interessadas informações objectivas, fiáveis e facilmente compreensíveis sobre o seu trabalho.\n\n4. O Conselho de Administração estabelece as normas internas necessárias para a aplicação do n.º 3.\n\n5. As decisões tomadas pela Agência ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado.\n\n6. As informações recolhidas pela Comissão e pela Agência, de acordo com o presente regulamento, estão sujeitas às disposições do Regulamento (CE) n.º 45/2001."
+  },
+  "1e86ce90ea8b8eca": {
+   "fragment_id": "Artigo 33.º — Confidencialidade",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Confidencialidade\n\n1. Os membros do Conselho de Administração, o director executivo e os membros do pessoal da Agência estão sujeitos à obrigação de confidencialidade prevista no artigo 287.º do Tratado, mesmo após a cessação das suas funções.\n\n2. O Conselho de Administração estabelecerá mediante normas internas as regras de execução da obrigação de confidencialidade prevista no n.º 1."
+  },
+  "9f93db54b4edcc76": {
+   "fragment_id": "Artigo 34.º — Acesso às informações",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Acesso às informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Acesso às informações\n\n1. A Comissão tem pleno acesso a todas as informações recolhidas pela Agência. A pedido da Comissão e sob a forma por ela especificada, a Agência fornece-lhe quaisquer informações, assim como uma avaliação das mesmas.\n\n2. Os Estados-Membros a que diga respeito uma operação específica da Agência têm acesso às informações recolhidas pela Agência relativamente a essa operação, em condições a determinar nos termos do n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "6e028bd1d966d922": {
+   "fragment_id": "DISPOSIÇÕES FINANCEIRAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINANCEIRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINANCEIRAS"
+  },
+  "4ba2c32e4adb1873": {
+   "fragment_id": "Artigo 35.º — Orçamento",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Orçamento\n\n1. As receitas da Agência provêm:\n\na) De uma contribuição da Comunidade, inscrita no orçamento geral da União Europeia (secção «Comissão»);\n\nb) Da remuneração de serviços prestados pela Agência aos Estados-Membros em conformidade com o artigo 6.º;\n\nc) De taxas cobradas pela Agência por serviços de publicação, formação profissional e/ou quaisquer outros serviços prestados.\n\n2. As despesas da Agência incluem as despesas de pessoal, administrativas, de infra-estrutura e de funcionamento.\n\n3. O director executivo elabora um projecto de mapa previsional das receitas e despesas da Agência para o exercício orçamental seguinte e transmite-o ao Conselho de Administração, acompanhado de um projecto de quadro de pessoal.\n\n4. As receitas e as despesas devem ser equilibradas.\n\n5. O Conselho de Administração elabora anualmente, com base num projecto de mapa previsional das receitas e despesas, o mapa previsional das receitas e despesas da Agência para o exercício seguinte.\n\n6. Este mapa previsional, que deve incluir um projecto de quadro de pessoal e é acompanhado do programa de trabalho provisório, é transmitido pelo Conselho de Administração, até 31 de Março, à Comissão.\n\n7. A Comissão transmite o mapa previsional ao Parlamento Europeu e ao Conselho (seguidamente designados «autoridade orçamental») juntamente com o anteprojecto de orçamento geral da União Europeia.\n\n8. Com base no mapa previsional, a Comissão procede à inscrição, no anteprojecto de orçamento geral da União Europeia, das previsões que considera necessárias no que respeita ao quadro de pessoal e ao montante da subvenção a cargo do orçamento geral, que submeterá à apreciação da autoridade orçamental nos termos do disposto no artigo 272.º do Tratado.\n\n9. A autoridade orçamental autoriza as dotações para a subvenção destinada à Agência. A autoridade orçamental aprova o quadro de pessoal da Agência.\n\n10. O orçamento é aprovado pelo Conselho de Administração, tornando-se definitivo após a aprovação definitiva do orçamento geral da União Europeia. O orçamento é adaptado em conformidade, se for caso disso.\n\n11. O Conselho de Administração notifica, com a maior brevidade, a autoridade orçamental da sua intenção de realizar qualquer projecto susceptível de ter incidências financeiras importantes sobre o financiamento do orçamento, nomeadamente os projectos de natureza imobiliária, tais como o arrendamento ou a aquisição de imóveis. Do facto informa a Comissão.\n\n12. Sempre que um ramo da autoridade orçamental tiver notificado a sua intenção de emitir um parecer, transmiti-lo-á ao Conselho de Administração no prazo de seis semanas a contar da notificação do projecto."
+  },
+  "1dae4d98ee888639": {
+   "fragment_id": "Artigo 36.º — Execução e controlo do orçamento",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Execução e controlo do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Execução e controlo do orçamento\n\n1. O director executivo executa o orçamento da Agência.\n\n2. Até ao dia 1 de Março seguinte ao exercício encerrado, o contabilista da Agência comunica ao contabilista da Comissão as contas provisórias acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Comissão consolida as contas provisórias das instituições e dos organismos descentralizados nos termos do disposto no artigo 128.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^11])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr11-L_2005128PT.01000101-E0011) (seguidamente designado «Regulamento Financeiro»).\n\n3. Até ao dia 31 de Março seguinte ao exercício encerrado, o contabilista da Comissão transmite ao Tribunal de Contas as contas provisórias da Agência acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O relatório sobre a gestão orçamental e financeira do exercício é igualmente enviado ao Parlamento Europeu e ao Conselho.\n\n4. Após recepção das observações formuladas pelo Tribunal de Contas relativamente às contas provisórias da Agência, nos termos do disposto no artigo 129.º do Regulamento Financeiro, o director executivo elabora as contas definitivas da Agência, sob sua própria responsabilidade, e transmite-as, para parecer, ao Conselho de Administração.\n\n5. O Conselho de Administração emite um parecer sobre as contas definitivas da Agência.\n\n6. Até ao dia 1 de Julho do ano seguinte, o director executivo transmite ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas acompanhadas do parecer do Conselho de Administração.\n\n7. As contas definitivas são publicadas.\n\n8. A Agência estabelece uma função de auditoria interna que deve ser desempenhada em conformidade com as normas internacionais pertinentes.\n\n9. O director executivo envia ao Tribunal de Contas uma resposta às observações deste último, até 30 de Setembro. Envia igualmente essa resposta ao Conselho de Administração.\n\n10. O director executivo submete à apreciação do Parlamento Europeu, a pedido deste último, tal como previsto no n.º 3 do artigo 146.º do Regulamento Financeiro, qualquer informação necessária ao bom desenrolar do processo de quitação relativamente ao exercício em causa.\n\n11. Sob recomendação do Conselho, o Parlamento Europeu dá ao director executivo da Agência, antes de 30 de Abril do segundo ano subsequente, quitação da execução do orçamento do exercício em causa."
+  },
+  "8a046276f9bd8da7": {
+   "fragment_id": "Artigo 37.º — Luta contra a fraude",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Luta contra a fraude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Luta contra a fraude\n\n1. Na luta contra a fraude, a corrupção e outras acções ilícitas, as disposições do Regulamento (CE) n.º 1073/1999 são aplicáveis sem quaisquer restrições à Agência.\n\n2. A Agência aderirá ao Acordo Interinstitucional de 25 de Maio de 1999 relativo aos inquéritos internos efectuados pelo OLAF e publica, sem demora, as disposições adequadas aplicáveis a todo o seu pessoal.\n\n3. As decisões de financiamento, bem como quaisquer contratos e instrumentos de execução delas decorrentes, devem dispor expressamente que o Tribunal de Contas e o OLAF podem, se for necessário, proceder a controlos, no terreno, dos beneficiários dos fundos da Agência e dos agentes responsáveis pela respectiva atribuição."
+  },
+  "89e0bd9eea14e12d": {
+   "fragment_id": "Artigo 38.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Disposições financeiras\n\nO Conselho de Administração, depois de recebido o acordo da Comissão e o parecer do Tribunal de Contas, aprova a regulamentação financeira da Agência. Esta regulamentação só pode divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 23 de Dezembro de 2002, que institui o Regulamento Financeiro Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias [([^12])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr12-L_2005128PT.01000101-E0012), se as exigências específicas do funcionamento da Agência o impuserem e desde que a Comissão dê previamente o seu acordo."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "dbe8a5b026ef03af": {
+   "fragment_id": "Artigo 39.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Avaliação\n\n1. No prazo de cinco anos a contar da data de entrada em que a Agência tenha assumido as suas responsabilidades e, posteriormente, de cinco em cinco anos, o Conselho de Administração encomenda uma avaliação externa independente da execução do presente regulamento. A Comissão coloca à disposição da Agência qualquer informação que esta considere relevante para tal avaliação.\n\n2. Cada avaliação deve incidir no impacto do presente regulamento, na utilidade, pertinência e eficácia da Agência e dos seus métodos de trabalho, assim como na medida em que a Agência contribui para a realização de um elevado nível de cumprimento das regras da política comum das pescas. O Conselho de Administração estabelece mandatos específicos com o acordo da Comissão, após consulta às partes interessadas.\n\n3. O Conselho de Administração recebe a avaliação e formula recomendações dirigidas à Comissão relativamente a alterações ao presente regulamento, à Agência e aos seus métodos de trabalho. Os resultados da avaliação e as recomendações são enviados pela Comissão ao Parlamento Europeu e ao Conselho e são tornados públicos."
+  },
+  "da0c084010326205": {
+   "fragment_id": "Artigo 40.º — Início da actividade da Agência",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Início da actividade da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Início da actividade da Agência\n\nA Agência deve iniciar a sua actividade no prazo de 12 meses a contar da data de entrada em vigor do presente regulamento."
+  },
+  "fcf0dd9352e10eaf": {
+   "fragment_id": "Artigo 41.º — Alteração",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Alteração\n\nO artigo 34.º-C do Regulamento (CEE) n.º 2847/93 passa a ter a seguinte redacção:"
+  },
+  "c140fe1017a7004b": {
+   "fragment_id": "«Artigo 34.º-C",
+   "type": "divisao",
+   "heading": "«Artigo 34.º-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### «Artigo 34.º-C\n\n1. A Comissão determinará, nos termos do artigo 36.º e em concertação com os Estados-Membros interessados, quais das actividades de pesca que envolvem dois ou mais Estados-Membros serão submetidas a programas específicos de controlo e inspecção, assim como as condições que regem tais programas.\n\nO programa específico de controlo e inspecção determinará quais das actividades de pesca que envolvem dois ou mais Estados-Membros serão submetidas ao programa, assim como as condições que regem tais actividades.\n\nCada programa específico de controlo e inspecção enunciará os seus objectivos, prioridades e procedimentos comuns, assim como os marcos de referência para as actividades de controlo e inspecção, os resultados que se esperam das medidas especificadas e a estratégia necessária para assegurar que as actividades de controlo e inspecção sejam o mais uniformes, eficazes e económicas possível. Cada programa identificará os Estados-Membros interessados.\n\nOs programas específicos de controlo e inspecção não podem ter uma duração superior a três anos ou a qualquer período definido para esse efeito num plano de recuperação aprovado em conformidade com o artigo 5.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e exploração susceptível dos recursos haliêuticos no âmbito da política comum das pescas[([^*1])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr*1-L_2005128PT.01000101-E0013) ou com um plano de gestão aprovado em conformidade com o artigo 6.º do mesmo regulamento.\n\nOs programas específicos de controlo e inspecção serão executados pelos Estados-Membros interessados com base em planos de utilização conjunta estabelecidos no âmbito do Regulamento (CE) n.º 768/2005 do Conselho, de 26 de Abril de 2005, que estabelece uma Agência Comunitária de Controlo das Pescas e que altera o Regulamento (CEE) n.º 2847/93 que institui um regime de controlo aplicável à política comum das pescas[([^*2])](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntr*2-L_2005128PT.01000101-E0014).\n\n2. A Comissão controlará e avaliará os resultados de cada programa específico de controlo e inspecção e apresentará um relatório ao Parlamento Europeu e ao Conselho, em conformidade com o n.º 4 do artigo 27.º do Regulamento (CE) n.º 2371/2002.\n\n---"
+  },
+  "896cd81fb70b9766": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^*1^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc*1-L_2005128PT.01000101-E0013) [JO L 358 de 21.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\"\n\n> [(^*2^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc*2-L_2005128PT.01000101-E0014) [JO L 128 de 21.5.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_128_R_TOC).».\""
+  },
+  "8caa7fe29d34262e": {
+   "fragment_id": "Artigo 42.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 26 de Abril de 2005.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**F. BODEN**\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc1-L_2005128PT.01000101-E0001) Parecer de 23 de Fevereiro de 2005 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc2-L_2005128PT.01000101-E0002) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc3-L_2005128PT.01000101-E0003) [JO L 261 de 20.10.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_261_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1954/2003 ([JO L 289 de 7.11.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_289_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc4-L_2005128PT.01000101-E0004) [JO L 145 de 31.5.2001, p. 43](http://publications.europa.eu/resource/oj/JOL_2001_145_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc5-L_2005128PT.01000101-E0005) [JO L 8 de 12.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc6-L_2005128PT.01000101-E0006) [JO L 136 de 31.5.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_136_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc7-L_2005128PT.01000101-E0007) [JO L 136 de 31.5.1999, p. 15](http://publications.europa.eu/resource/oj/JOL_1999_136_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc8-L_2005128PT.01000101-E0008) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC). (Rectificação no [JO L 269 de 19.10.1999, p. 15](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC).)\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc9-L_2005128PT.01000101-E0009) [JO L 56 de 4.3.1968, p. 1](http://publications.europa.eu/resource/oj/JOL_1968_056_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE, Euratom) n.º 723/2004 ([JO L 124 de 27.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_124_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc10-L_2005128PT.01000101-E0010) [JO 17 de 6.10.1958, p. 385/58](http://publications.europa.eu/resource/oj/JOP_1958_017_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc11-L_2005128PT.01000101-E0011) [JO L 248 de 16.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_248_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/a9fb86e0-8de1-48a7-a954-41f48d158fce.0016.03/DOC_1#ntc12-L_2005128PT.01000101-E0012) [JO L 357 de 31.12.2002, p. 72](http://publications.europa.eu/resource/oj/JOL_2002_357_R_TOC)."
+  },
+  "0e718f9197635ffd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Abril de 2005\n\nque estabelece uma Agência Comunitária de Controlo das Pescas e que altera o Regulamento (CEE) n.º 2847/93 que institui um regime de controlo aplicável à política comum das pescas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0001)),\n\n(1) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da política comum das pescas ([^2^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0002)), exige que os Estados-Membros assegurem o controlo, a inspecção e a execução eficazes das regras da política comum das pescas e cooperem entre si e com países terceiros para esse efeito.\n\n(2) Para cumprir estas obrigações, é necessário que os Estados-Membros coordenem as suas actividades de controlo e inspecção no seu território, nas águas comunitárias e internacionais, de acordo com o direito internacional e, designadamente, com as obrigações que incumbem à Comunidade no âmbito das organizações regionais de pesca e por força dos acordos com países terceiros.\n\n(3) Nenhum sistema de inspecção pode ser compensador sem que se proceda a inspecções em terra. Por esse motivo, os planos de utilização conjunta devem também abranger o território.\n\n(4) Graças à coordenação operacional das actividades de controlo e inspecção, essa cooperação deve contribuir para a exploração sustentável dos recursos aquáticos vivos, bem como assegurar a existência de condições equitativas para os profissionais do sector das pescas que participam na exploração dos recursos, reduzindo, assim, as distorções da concorrência.\n\n(5) O controlo e inspecção efectivos das pescas são considerados essenciais para combater a pesca ilegal, não declarada e não regulamentada.\n\n(6) Sem prejuízo das responsabilidades dos Estados-Membros, decorrentes do Regulamento (CE) n.º 2371/2002, afigura-se necessário dispor de um organismo comunitário técnico e administrativo para organizar a cooperação e a coordenação entre Estados-Membros no respeitante ao controlo e à inspecção das pescas.\n\n(7) Para o efeito, é conveniente estabelecer uma Agência Comunitária de Controlo das Pescas (seguidamente designada «Agência»), no âmbito da estrutura institucional existente da Comunidade e atendendo à repartição de competências entre a Comissão e os Estados-Membros.\n\n(8) Para garantir a realização dos objectivos que presidem à criação da Agência, é necessário definir as suas tarefas.\n\n(9) Em especial, a Agência deve, a pedido da Comissão, apoiar a Comunidade e os Estados-Membros nas suas relações com países terceiros e/ou organizações regionais de pesca e cooperar com as suas autoridades competentes no âmbito das obrigações internacionais que incumbem à Comunidade.\n\n(10) É, além disso, necessário trabalhar no sentido da aplicação efectiva dos procedimentos comunitários em matéria de inspecção. A Agência poderá, com o tempo, tornar-se uma fonte de referência do apoio científico e técnico prestado ao controlo e à inspecção das pescas.\n\n(11) A fim de cumprir os objectivos da política comum das pescas, que consistem em prever uma exploração sustentável dos recursos aquáticos vivos no contexto do desenvolvimento sustentável, o Conselho deve aprovar medidas em matéria de conservação, gestão e exploração dos recursos aquáticos vivos.\n\n(12) Para garantir a boa execução destas medidas, os Estados-Membros devem recorrer a meios adequados de controlo e execução. Para tornar esse controlo e execução mais efectivos e mais eficazes, é adequado que a Comissão aprove programas específicos de controlo e inspecção, nos termos do procedimento previsto no n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002 e em concertação com os Estados-Membros interessados. O Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas ([^3^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0003)), deve ser alterado em conformidade.\n\n(13) É conveniente que a Agência assegure a coordenação da cooperação operacional entre os Estados-Membros em conformidade com planos de utilização conjunta, que organizam a utilização dos meios de controlo e inspecção disponíveis dos Estados-Membros em causa, por forma a dar cumprimento aos programas de controlo e inspecção. As actividades de controlo e inspecção da pesca dos Estados-Membros devem ser exercidas em conformidade com critérios, prioridades, marcos de referência e procedimentos comuns em matéria de actividades de inspecção e controlo, definidos com base nesses programas.\n\n(14) A adopção de um programa de controlo e inspecção obriga os Estados-Membros a prestarem efectivamente os recursos necessários à execução do programa. É necessário que os Estados-Membros notifiquem rapidamente a Agência sobre os meios de controlo e inspecção com que pretendem executar tal programa. Os planos de utilização conjunta não devem impor obrigações adicionais em termos de controlo, inspecção e execução, nem relativamente à disponibilização dos recursos necessários neste contexto.\n\n(15) A Agência só deve preparar um plano de utilização conjunta se tal estiver previsto no programa de trabalho.\n\n(16) O programa de trabalho deve ser aprovado pelo Conselho de Administração, que garante o consenso suficiente, nomeadamente no que se refere a uma melhor adequação das tarefas previstas para a Agência no programa de trabalho aos recursos de que a Agência dispõe, com base em informações fornecidas pelos Estados-Membros.\n\n(17) A principal tarefa do director executivo consiste em garantir, nas suas consultas com os membros do Conselho de Administração e com os Estados-Membros, a existência de uma adequação suficiente entre os objectivos do programa de trabalho para cada ano e os recursos disponibilizados à Agência pelos Estados-Membros para a execução desse programa.\n\n(18) O director executivo deve nomeadamente elaborar planos de utilização específicos, utilizando os recursos notificados pelos Estados-Membros para a execução de cada programa de controlo e inspecção e respeitando as regras e objectivos estabelecidos no programa específico de controlo e inspecção em que se baseia o plano de utilização conjunta, bem como outras regras pertinentes, como as que se referem aos inspectores comunitários.\n\n(19) Neste contexto, é necessário que o director executivo saiba gerir o calendário de molde a dar aos Estados-Membros tempo suficiente para que forneçam os respectivos comentários, com base nos seus conhecimentos operacionais específicos, no âmbito do plano de trabalho da Agência e dos prazos previstos no presente regulamento. É necessário que o director executivo tenha em conta os interesses dos Estados-Membros interessados nas pescas abrangidas por cada plano. A fim de garantir uma coordenação eficiente e atempada das actividades conjuntas de controlo e inspecção, é necessário prever um procedimento que permita decidir sobre a aprovação dos planos, sempre que os Estados-Membros interessados não consigam chegar a acordo.\n\n(20) O procedimento de elaboração e aprovação dos planos de utilização conjunta fora das águas comunitárias deve ser semelhante ao adoptado para as águas comunitárias. Na base desses planos de utilização conjunta, deve existir um programa internacional de controlo e inspecção que gere obrigações internacionais em matéria de controlo e inspecção susceptíveis de vincular a Comunidade.\n\n(21) Para fins de execução dos planos de utilização conjunta, os Estados-Membros interessados devem mobilizar e utilizar os meios de controlo e inspecção que tiverem atribuído a esses planos. A Agência deve avaliar se os meios de controlo e inspecção disponíveis são suficientes e, se for caso disso, informar os Estados-Membros interessados e a Comissão de que os meios não são suficientes para desempenhar as tarefas exigidas no âmbito do programa de controlo e inspecção.\n\n(22) Se os Estados-Membros respeitarem as suas obrigações em matéria de controlo e inspecção, nomeadamente ao abrigo do programa específico de controlo e inspecção aprovado nos termos do Regulamento (CE) n.º 2371/2002, a Agência não deve ter competência para impor obrigações adicionais através de planos de utilização conjunta, nem para impor sanções aos Estados-Membros.\n\n(23) A Agência deve examinar regularmente a eficácia dos planos de utilização conjunta.\n\n(24) É adequado prever a possibilidade de aprovar normas de execução específicas para a adopção e aprovação de planos de utilização conjunta. Pode ser útil recorrer a esta possibilidade depois de a Agência ter começado a funcionar e o director executivo considerar que essas normas devem ser previstas na legislação comunitária.\n\n(25) Sempre que lhe seja formulado um pedido nesse sentido, a Agência deve poder prestar serviços contratuais relativamente aos meios de controlo e inspecção a utilizar conjuntamente pelos Estados-Membros interessados.\n\n(26) Para a execução das atribuições da Agência, a Comissão, os Estados-Membros e a Agência devem trocar todas as informações úteis sobre o controlo e a inspecção através de uma rede de informação.\n\n(27) O estatuto e a estrutura da Agência devem corresponder ao carácter objectivo dos resultados a atingir e permitir-lhe exercer as suas funções em estreita cooperação com os Estados-Membros e a Comissão. A Agência deve, pois, beneficiar de autonomia jurídica, financeira e administrativa e, ao mesmo tempo, manter estreitas relações com as instituições da Comunidade e com os Estados-Membros. Para esse efeito, é necessário e adequado que a Agência seja um organismo comunitário, com personalidade jurídica, que exerça as competências que lhe são conferidas pelo presente regulamento.\n\n(28) No que se refere à responsabilidade contratual da Agência, que é regulada pela lei aplicável aos contratos por ela celebrados, o Tribunal de Justiça deverá ser competente para decidir com fundamento em cláusula de arbitragem constante do contrato. O Tribunal de Justiça deverá igualmente ser competente para conhecer dos litígios relativos à reparação dos danos em sede de responsabilidade extracontratual da Agência, de acordo com os princípios gerais comuns aos direitos dos Estados-Membros.\n\n(29) A Comissão e os Estados-Membros deverão estar representados no âmbito de um Conselho de Administração incumbido de zelar por que a Agência funcione de forma correcta e eficaz.\n\n(30) Deverá ser criado um Conselho Consultivo para dar parecer ao director executivo e para garantir uma estreita cooperação com as partes interessadas.\n\n(31) Dado que compete à Agência cumprir as obrigações da Comunidade e, a pedido da Comissão, cooperar com países terceiros e organizações regionais de pesca no âmbito das obrigações internacionais da Comunidade, é conveniente que o presidente do Conselho de Administração seja eleito de entre os representantes da Comissão.\n\n(32) As regras de votação no âmbito do Conselho de Administração deverão ter em conta o interesse dos Estados-Membros e da Comissão no funcionamento eficaz da Agência.\n\n(33) É conveniente prever a participação nas deliberações do Conselho de Administração de um representante do Conselho Consultivo sem direito a voto.\n\n(34) É necessário fixar as regras relativas à nomeação e à demissão do director executivo da Agência, assim como as regras que regem o exercício das suas funções.\n\n(35) A fim de favorecer o funcionamento transparente da Agência, o Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^4^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0004)), deverá ser aplicável sem restrições à Agência.\n\n(36) No interesse da protecção da vida privada das pessoas singulares, é conveniente que o Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2000, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados ([^5^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0005)), seja aplicável ao presente regulamento.\n\n(37) A fim de assegurar a sua autonomia e independência funcionais, é necessário dotar a Agência de um orçamento próprio, cujas receitas sejam constituídas por uma contribuição da Comunidade e pelos pagamentos efectuados para remunerar serviços contratuais prestados pela Agência. O processo orçamental comunitário deverá ser aplicável no que se refere à contribuição comunitária e a quaisquer outros subsídios imputáveis ao orçamento geral da União Europeia. A auditoria das contas deve ser efectuada pelo Tribunal de Contas.\n\n(38) Na luta contra a fraude, a corrupção e outras acções ilícitas, as disposições do Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho, de 25 de Maio de 1999, relativo aos inquéritos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^6^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0006)), deverão aplicar-se sem quaisquer restrições à Agência, que deverá ficar também sujeita ao Acordo Interinstitucional, de 25 de Maio de 1999, entre o Parlamento Europeu, o Conselho da União Europeia e a Comissão das Comunidades Europeias relativo aos inquéritos internos efectuados pelo Organismo Europeu de Luta Antifraude (OLAF) ([^7^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0007)).\n\n(39) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0008)),\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "325c2a62b9ea7faa": {
+   "fragment_id": "Artigo 3.º — Missão",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\nA missão da Agência consiste em:\n\na) Coordenar as actividades de controlo e inspecção exercidas pelos Estados-Membros, relacionadas com as obrigações da Comunidade em matéria de controlo e inspecção;\n\nb) Coordenar a utilização dos meios nacionais de controlo e inspecção mobilizados pelos Estados-Membros interessados, em conformidade com o presente regulamento;\n\nc) Auxiliar os Estados-Membros a comunicar à Comissão e a terceiros as informações relativas às actividades de pesca e às actividades de controlo e inspecção;\n\nd) No domínio das suas competências, prestar apoio aos Estados-Membros no cumprimento das tarefas e obrigações decorrentes da política comum das pescas;\n\ne) Apoiar os Estados-Membros e a Comissão na harmonização da aplicação da política comum das pescas em toda a Comunidade;\n\nf) Contribuir para o trabalho dos Estados-Membros e da Comissão em matéria de investigação e desenvolvimento de técnicas de controlo e inspecção;\n\ng) Contribuir para a coordenação das acções de formação de inspectores e para o intercâmbio de experiências entre Estados-Membros;\n\nh) Coordenar as operações de combate à pesca ilegal, não declarada e não regulamentada, em conformidade com as normas comunitárias;\n\ni) Contribuir para a execução uniforme do regime de controlo da Política Comum das Pescas, incluindo, designadamente:\n\n— a organização da coordenação operacional das actividades de controlo dos Estados-Membros para a execução de programas específicos de controlo, programas de controlo da pesca ilegal não declarada e não regulamentada (INN) e programas internacionais de controlo,\n\n— as inspecções necessárias à realização das tarefas da Agência nos termos do artigo 17.º-A."
+  },
+  "df83bc9e2913519b": {
+   "fragment_id": "Artigo 5.º — Atribuições relativas à coordenação operacional",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Atribuições relativas à coordenação operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições relativas à coordenação operacional\n\n1. A coordenação operacional da Agência incide no controlo de todas as actividades abrangidas pela Política Comum das Pescas.\n\n2. Para efeitos de coordenação operacional, a Agência estabelece planos de utilização conjunta e organiza a coordenação operacional do controlo e da inspecção, a efectuar pelos Estados-Membros, em conformidade com o capítulo III.\n\n3. Para reforçar a coordenação operacional entre os Estados-Membros, a Agência pode estabelecer planos operacionais com os Estados-Membros em causa e coordenar a sua execução."
+  },
+  "2277cb7a5c56fa9c": {
+   "fragment_id": "Artigo 7.º — Apoio à Comissão e aos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Apoio à Comissão e aos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio à Comissão e aos Estados-Membros\n\nA Agência apoia a Comissão e os Estados-Membros a fim de lhes permitir satisfazer de forma rigorosa, uniforme e eficaz as obrigações que lhes incumbem no âmbito das regras da Política Comum das Pescas, nomeadamente no que se refere à luta contra a pesca INN e às suas relações com os países terceiros. A Agência, nomeadamente:\n\na) Estabelece e desenvolve um currículo de base de formação dos instrutores dos serviços de inspecção das pescas dos Estados-Membros e prevê cursos de formação e seminários suplementares para esses agentes e outro pessoal envolvido em actividades de controlo e de inspecção;\n\nb) Estabelece e desenvolve um currículo de base para a formação dos inspectores comunitários antes do início das suas actividades e prevê regularmente formações e seminários de actualização suplementares para esses agentes;\n\nc) Encarrega-se, a pedido dos Estados-Membros, da aquisição conjunta de bens e serviços relacionados com as actividades de controlo exercidas pelos Estados-Membros e prepara e coordena a execução pelos Estados-Membros de projectos-piloto comuns;\n\nd) Elabora procedimentos operacionais comuns respeitantes às actividades comuns de controlo exercidas por dois ou mais Estados-Membros;\n\ne) Define os critérios aplicáveis ao intercâmbio de meios de controlo e inspecção dos Estados-Membros entre si, e entre Estados-Membros e países terceiros, assim como ao fornecimento desses meios pelos Estados-Membros;\n\nf) Conduz análises de risco com base em dados relativos às capturas, aos desembarques e ao esforço de pesca, bem como análises de risco sobre os desembarques não declarados, incluindo, nomeadamente, a comparação dos dados relativos às capturas e às importações com os relativos às exportações e ao consumo nacional;\n\ng) Desenvolve, a pedido da Comissão ou dos Estados-Membros, metodologias e procedimentos comuns de inspecção;\n\nh) Apoia os Estados-Membros, a pedido destes, no cumprimento das suas obrigações nacionais e comunitárias e outras suas obrigações internacionais, nomeadamente em matéria de luta contra a pesca INN, bem como das obrigações assumidas no quadro das organizações regionais de gestão das pescas;\n\ni) Promove e coordena o desenvolvimento de metodologias uniformes de gestão do risco nos domínios da sua competência;\n\nj) Coordena e promove a cooperação entre Estados-Membros e normas comuns para o desenvolvimento dos planos de amostragem definidos no Regulamento (CE) n.º 1224/2009 do Conselho, de 20 de Novembro de 2009, que institui um regime comunitário de controlo a fim de assegurar o cumprimento das regras da Política Comum das Pescas ([^9^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0009))."
+  },
+  "0676369e27299440": {
+   "fragment_id": "Artigo 8.º — Execução das obrigações da Comunidade em matéria de controlo e inspecção",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Execução das obrigações da Comunidade em matéria de controlo e inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Execução das obrigações da Comunidade em matéria de controlo e inspecção\n\n1. A pedido da Comissão, a Agência coordena as actividades de controlo e inspecção exercidas pelos Estados-Membros com base em programas internacionais de controlo e inspecção, mediante o estabelecimento de planos de utilização conjunta.\n\n2. A Agência pode adquirir, alugar ou fretar o equipamento necessário para a execução dos planos de utilização conjunta referidos no n.º 1."
+  },
+  "aff11fb08a24f769": {
+   "fragment_id": "Artigo 9.º — Execução de programas específicos de controlo e de inspecção",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Execução de programas específicos de controlo e de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Execução de programas específicos de controlo e de inspecção\n\n1. A Agência coordena a execução dos programas específicos de controlo e inspecção estabelecidos em conformidade com o artigo 95.º do Regulamento (CE) n.º 1224/2009, através de planos de utilização conjunta.\n\n2. A Agência pode adquirir, alugar ou fretar o equipamento necessário para a execução dos planos de utilização conjunta referidos no n.º 1."
+  },
+  "b0342bc1df002810": {
+   "fragment_id": "CAPÍTULO III-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO III-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III-A"
+  },
+  "3c9ea3b6d10bda55": {
+   "fragment_id": "COMPETÊNCIAS DA AGÊNCIA",
+   "type": "divisao",
+   "heading": "COMPETÊNCIAS DA AGÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMPETÊNCIAS DA AGÊNCIA"
+  },
+  "32c6758fc65a1fa7": {
+   "fragment_id": "Artigo 17.ºA — Designação de agentes da Agência como inspectores comunitários",
+   "type": "artigo",
+   "heading": "Artigo 17.ºA — Designação de agentes da Agência como inspectores comunitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.ºA — Designação de agentes da Agência como inspectores comunitários\n\nOs agentes da Agência podem ser designados em águas internacionais como inspectores comunitários em conformidade com o artigo 79.º do Regulamento (CE) n.º 1224/2009."
+  },
+  "0299f55e1af143d5": {
+   "fragment_id": "Artigo 17.ºB — Medidas adoptadas pela da Agência",
+   "type": "artigo",
+   "heading": "Artigo 17.ºB — Medidas adoptadas pela da Agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.ºB — Medidas adoptadas pela da Agência\n\nSempre que apropriado, a Agência:\n\na) Emite manuais sobre normas de inspecção harmonizadas;\n\nb) Elabora e actualiza regularmente documentos de orientação que reflictam as melhores práticas no domínio do controlo da Política Comum das Pescas, inclusive no que diz respeito à formação dos agentes encarregados do controlo;\n\nc) Presta à Comissão o apoio técnico e administrativo necessário para o desempenho das suas tarefas."
+  },
+  "6ab400ced793e8d7": {
+   "fragment_id": "Artigo 17.ºC — Cooperação",
+   "type": "artigo",
+   "heading": "Artigo 17.ºC — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.ºC — Cooperação\n\n1. Os Estados-Membros e a Comissão cooperam com a Agência e prestam-lhe a assistência necessária para que possa cumprir a sua missão.\n\n2. Tendo presentes as diferenças entre os sistemas jurídicos dos Estados-Membros, a Agência facilita a cooperação entre Estados-Membros e entre eles e a Comissão no âmbito da elaboração de normas de controlo harmonizadas, em conformidade com a legislação comunitária e tomando em consideração as melhores práticas nos Estados-Membros, bem como as normas acordadas internacionalmente."
+  },
+  "b9d0fb93a0c4ba54": {
+   "fragment_id": "Artigo 17.ºD — Unidade de emergência",
+   "type": "artigo",
+   "heading": "Artigo 17.ºD — Unidade de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.ºD — Unidade de emergência\n\n1. Sempre que a Comissão, por sua própria iniciativa ou a pedido de, pelo menos, dois Estados-Membros, identifique uma situação que implique um risco grave directo, indirecto ou potencial para a Política Comum das Pescas e que esse risco não possa ser impedido, eliminado ou reduzido pelos meios existentes ou não possa ser gerido adequadamente, a Agência é imediatamente notificada do facto.\n\n2. Na sequência dessa notificação ou por sua própria iniciativa, a Agência cria imediatamente uma unidade de emergência e informa do facto a Comissão."
+  },
+  "1607aed8a0fa7cd5": {
+   "fragment_id": "Artigo 17.ºE — Tarefas da unidade de emergência",
+   "type": "artigo",
+   "heading": "Artigo 17.ºE — Tarefas da unidade de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.ºE — Tarefas da unidade de emergência\n\n1. A unidade de emergência criada pela Agência é responsável pela recolha e avaliação de todas as informações pertinentes, bem como pela identificação das opções disponíveis para prevenir, eliminar ou reduzir o risco para a Política Comum das Pescas com a maior eficácia e rapidez possíveis.\n\n2. A unidade de emergência pode solicitar a assistência de qualquer entidade pública ou privada cujos conhecimentos e experiência considere necessários para dar uma resposta eficaz à situação de emergência.\n\n3. A Agência assegura a coordenação necessária para permitir uma reacção adequada e atempada à situação de emergência.\n\n4. Se for caso disso, a unidade de emergência mantém a população informada dos riscos envolvidos e das medidas tomadas."
+  },
+  "800cecd4562c9ca2": {
+   "fragment_id": "Artigo 17.ºF — Programa de trabalho plurianual",
+   "type": "artigo",
+   "heading": "Artigo 17.ºF — Programa de trabalho plurianual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.ºF — Programa de trabalho plurianual\n\n1. O programa de trabalho plurianual da Agência estabelece os seus objectivos globais, o mandato, as tarefas, os indicadores de desempenho e as prioridades para cada acção da Agência por um período de cinco anos. Esse programa inclui uma apresentação do plano para os recursos humanos e uma estimativa das dotações orçamentais a disponibilizar para a consecução dos objectivos no referido período quinquenal.\n\n2. O programa de trabalho plurianual é apresentado segundo a metodologia e o sistema de gestão por actividades desenvolvidos pela Comissão e é aprovado pelo Conselho de Administração.\n\n3. O programa de trabalho anual mencionado no artigo 23.º, n.º 2, alínea c), remete para o programa de trabalho plurianual. Os aditamentos, alterações ou supressões relativamente ao programa de trabalho do ano anterior e os progressos alcançados na consecução dos objectivos globais e das prioridades do programa de trabalho plurianual devem ser claramente indicados."
+  },
+  "d2943a7fa30331fc": {
+   "fragment_id": "Artigo 17.ºG — Cooperação em matéria de assuntos marítimos",
+   "type": "artigo",
+   "heading": "Artigo 17.ºG — Cooperação em matéria de assuntos marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.ºG — Cooperação em matéria de assuntos marítimos\n\nA Agência contribui para a execução da política marítima integrada da UE e, em particular, conclui acordos administrativos com outros organismos nos domínios cobertos pelo presente regulamento após aprovação pelo Conselho de Administração. O director executivo informa do facto a Comissão e os Estados-Membros na fase inicial dessas negociações."
+  },
+  "f84e168c1c7cea40": {
+   "fragment_id": "Artigo 17.ºH — Regras de execução",
+   "type": "artigo",
+   "heading": "Artigo 17.ºH — Regras de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.ºH — Regras de execução\n\nAs regras de execução do presente capítulo são aprovadas nos termos do artigo 30.º, n.º 2, do Regulamento (CE) n.º 2371/2002.\n\nEssas regras podem abranger nomeadamente a elaboração de planos para dar resposta a uma emergência, a criação de uma unidade de emergência e os procedimentos práticos a aplicar."
+  },
+  "e24f6f9cf79073d7": {
+   "fragment_id": "Artigo 19.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pessoal\n\n1. São aplicáveis ao pessoal da Agência o Estatuto dos funcionários das Comunidades Europeias e o Regime aplicável aos outros agentes das Comunidades Europeias, estabelecidos no Regulamento (CEE, Euratom, CECA) n.º 259/68 ([^10^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0010)), e as regulamentações na matéria aprovadas de comum acordo pelas instituições das Comunidades Europeias para efeitos da aplicação desse estatuto e desse regime. O Conselho de Administração, com o acordo da Comissão, aprova as regras de execução necessárias.\n\n2. Sem prejuízo do disposto no artigo 30.º, as competências conferidas à autoridade investida do poder de nomeação pelo Estatuto dos funcionários, bem como pelo Regime aplicável aos outros agentes, são exercidas pela Agência no que diz respeito ao seu próprio pessoal.\n\n3. O pessoal da Agência é composto por funcionários afectados ou destacados temporariamente pela Comissão, e por outros agentes recrutados pela Agência por um período estritamente limitado às necessidades da Agência.\n\nA Agência pode também empregar agentes destacados pelos Estados-Membros a título temporário."
+  },
+  "00de6c3b161a00b0": {
+   "fragment_id": "Artigo 22.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Línguas\n\n1. As disposições do Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia ([^11^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0011)), são aplicáveis à Agência.\n\n2. Os serviços de tradução necessários ao funcionamento da Agência são assegurados pelo Centro de Tradução dos Organismos da União Europeia."
+  },
+  "ef65679cf35560db": {
+   "fragment_id": "Artigo 36.º — Execução e controlo do orçamento",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Execução e controlo do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Execução e controlo do orçamento\n\n1. O director executivo executa o orçamento da Agência.\n\n2. Até ao dia 1 de Março seguinte ao exercício encerrado, o contabilista da Agência comunica ao contabilista da Comissão as contas provisórias acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Comissão consolida as contas provisórias das instituições e dos organismos descentralizados nos termos do disposto no artigo 128.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^12^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0012)) (seguidamente designado «Regulamento Financeiro»).\n\n3. Até ao dia 31 de Março seguinte ao exercício encerrado, o contabilista da Comissão transmite ao Tribunal de Contas as contas provisórias da Agência acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O relatório sobre a gestão orçamental e financeira do exercício é igualmente enviado ao Parlamento Europeu e ao Conselho.\n\n4. Após recepção das observações formuladas pelo Tribunal de Contas relativamente às contas provisórias da Agência, nos termos do disposto no artigo 129.º do Regulamento Financeiro, o director executivo elabora as contas definitivas da Agência, sob sua própria responsabilidade, e transmite-as, para parecer, ao Conselho de Administração.\n\n5. O Conselho de Administração emite um parecer sobre as contas definitivas da Agência.\n\n6. Até ao dia 1 de Julho do ano seguinte, o director executivo transmite ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas acompanhadas do parecer do Conselho de Administração.\n\n7. As contas definitivas são publicadas.\n\n8. A Agência estabelece uma função de auditoria interna que deve ser desempenhada em conformidade com as normas internacionais pertinentes.\n\n9. O director executivo envia ao Tribunal de Contas uma resposta às observações deste último, até 30 de Setembro. Envia igualmente essa resposta ao Conselho de Administração.\n\n10. O director executivo submete à apreciação do Parlamento Europeu, a pedido deste último, tal como previsto no n.º 3 do artigo 146.º do Regulamento Financeiro, qualquer informação necessária ao bom desenrolar do processo de quitação relativamente ao exercício em causa.\n\n11. Sob recomendação do Conselho, o Parlamento Europeu dá ao director executivo da Agência, antes de 30 de Abril do segundo ano subsequente, quitação da execução do orçamento do exercício em causa."
+  },
+  "8cf76fb5bd5ef27b": {
+   "fragment_id": "Artigo 38.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Disposições financeiras\n\nO Conselho de Administração, depois de recebido o acordo da Comissão e o parecer do Tribunal de Contas, aprova a regulamentação financeira da Agência. Esta regulamentação só pode divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 23 de Dezembro de 2002, que institui o Regulamento Financeiro Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^13^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0013)), se as exigências específicas do funcionamento da Agência o impuserem e desde que a Comissão dê previamente o seu acordo."
+  },
+  "2caf474d4a0d01a4": {
+   "fragment_id": "Artigo 41.º — Alteração",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Alteração\n\nO artigo 34.º-C do Regulamento (CEE) n.º 2847/93 passa a ter a seguinte redacção:\n\n1. A Comissão determinará, nos termos do artigo 36.º e em concertação com os Estados-Membros interessados, quais das actividades de pesca que envolvem dois ou mais Estados-Membros serão submetidas a programas específicos de controlo e inspecção, assim como as condições que regem tais programas.\n\nO programa específico de controlo e inspecção determinará quais das actividades de pesca que envolvem dois ou mais Estados-Membros serão submetidas ao programa, assim como as condições que regem tais actividades.\n\nCada programa específico de controlo e inspecção enunciará os seus objectivos, prioridades e procedimentos comuns, assim como os marcos de referência para as actividades de controlo e inspecção, os resultados que se esperam das medidas especificadas e a estratégia necessária para assegurar que as actividades de controlo e inspecção sejam o mais uniformes, eficazes e económicas possível. Cada programa identificará os Estados-Membros interessados.\n\nOs programas específicos de controlo e inspecção não podem ter uma duração superior a três anos ou a qualquer período definido para esse efeito num plano de recuperação aprovado em conformidade com o artigo 5.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e exploração susceptível dos recursos haliêuticos no âmbito da política comum das pescas ([^14^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0014)) ou com um plano de gestão aprovado em conformidade com o artigo 6.º do mesmo regulamento.\n\nOs programas específicos de controlo e inspecção serão executados pelos Estados-Membros interessados com base em planos de utilização conjunta estabelecidos no âmbito do Regulamento (CE) n.º 768/2005 do Conselho, de 26 de Abril de 2005, que estabelece uma Agência Comunitária de Controlo das Pescas e que altera o Regulamento (CEE) n.º 2847/93 que institui um regime de controlo aplicável à política comum das pescas ([^15^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#E0015)).\n\n2. A Comissão controlará e avaliará os resultados de cada programa específico de controlo e inspecção e apresentará um relatório ao Parlamento Europeu e ao Conselho, em conformidade com o n.º 4 do artigo 27.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "e729b316b0b82887": {
+   "fragment_id": "Artigo 42.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "7dafc274214c60e3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0001)) Parecer de 23 de Fevereiro de 2005 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0002)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0003)) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1954/2003 (JO L 289 de 7.11.2003, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0004)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0005)) JO L 8 de 12.1.2001, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0006)) JO L 136 de 31.5.1999, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0007)) JO L 136 de 31.5.1999, p. 15.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23. (Rectificação no JO L 269 de 19.10.1999, p. 15.)\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0009)) JO L 343 de 22.12.2009, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0010)) JO L 56 de 4.3.1968, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE, Euratom) n.º 723/2004 (JO L 124 de 27.4.2004, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0011)) JO 17 de 6.10.1958, p. 385/58.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0012)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0013)) JO L 357 de 31.12.2002, p. 72.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0014)) JO L 358 de 21.12.2002, p. 59.\n\n> ([^15^](http://publications.europa.eu/resource/cellar/b325cc19-4be9-4592-805e-6a8425975beb.0018.03/DOC_1#src.E0015)) JO L 128 de 21.5.2005, p. 1.»."
+  },
+  "53b5e0252ef9a811": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Abril de 2005\n\nque estabelece uma [**►M2**](http://publications.europa.eu/resource/celex/32016R1626) Agência Europeia de Controlo das Pescas**◄** e que altera o Regulamento (CEE) n.º 2847/93 que institui um regime de controlo aplicável à política comum das pescas"
+  },
+  "76b8dd5cc0d76191": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO presente regulamento institui uma [**►M2**](http://publications.europa.eu/resource/celex/32016R1626) Agência Europeia de Controlo das Pescas**◄** (seguidamente designada «Agência») cujo objectivo consiste em organizar a coordenação operacional das actividades de controlo e inspecção da pesca exercidas pelos Estados-Membros e auxiliá-los a cooperar por forma a que sejam respeitadas as regras da política comum das pescas a fim de garantir a aplicação efectiva e uniforme dessa política."
+  },
+  "d98fa69e2fb4ebd1": {
+   "fragment_id": "Artigo 3.º — Missão",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\nA missão da Agência consiste em:\n\na) Coordenar as actividades de controlo e inspecção exercidas pelos Estados-Membros, relacionadas com as obrigações da Comunidade em matéria de controlo e inspecção;\n\nb) Coordenar a utilização dos meios nacionais de controlo e inspecção mobilizados pelos Estados-Membros interessados, em conformidade com o presente regulamento;\n\nc) Auxiliar os Estados-Membros a comunicar à Comissão e a terceiros as informações relativas às actividades de pesca e às actividades de controlo e inspecção;\n\nd) No domínio das suas competências, prestar apoio aos Estados-Membros no cumprimento das tarefas e obrigações decorrentes da política comum das pescas;\n\ne) Apoiar os Estados-Membros e a Comissão na harmonização da aplicação da política comum das pescas em toda a Comunidade;\n\nf) Contribuir para o trabalho dos Estados-Membros e da Comissão em matéria de investigação e desenvolvimento de técnicas de controlo e inspecção;\n\ng) Contribuir para a coordenação das acções de formação de inspectores e para o intercâmbio de experiências entre Estados-Membros;\n\nh) Coordenar as operações de combate à pesca ilegal, não declarada e não regulamentada, em conformidade com as normas comunitárias;\n\ni) Contribuir para a execução uniforme do regime de controlo da Política Comum das Pescas, incluindo, designadamente:\n\n— a organização da coordenação operacional das actividades de controlo dos Estados-Membros para a execução de programas específicos de controlo, programas de controlo da pesca ilegal não declarada e não regulamentada (INN) e programas internacionais de controlo,\n\n— as inspecções necessárias à realização das tarefas da Agência nos termos do artigo 17.º-A;\n\nj) Cooperar com a Agência Europeia da Guarda de Fronteiras e Costeira, criada pelo Regulamento (UE) 2016/1624 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#E0001)), e com a Agência Europeia da Segurança Marítima, criada pelo Regulamento (CE) n.º 1406/2002 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#E0002)), no âmbito dos respetivos mandatos, a fim de apoiar as autoridades nacionais que exercem funções de guarda costeira, tal como previsto no artigo 7.º-A do presente regulamento, através da disponibilização de serviços, informações, equipamentos e formação, bem como da coordenação de operações polivalentes."
+  },
+  "1262540baff91bfe": {
+   "fragment_id": "Artigo 7.º — Apoio à Comissão e aos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Apoio à Comissão e aos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio à Comissão e aos Estados-Membros\n\nA Agência apoia a Comissão e os Estados-Membros a fim de lhes permitir satisfazer de forma rigorosa, uniforme e eficaz as obrigações que lhes incumbem no âmbito das regras da Política Comum das Pescas, nomeadamente no que se refere à luta contra a pesca INN e às suas relações com os países terceiros. A Agência, nomeadamente:\n\na) Estabelece e desenvolve um currículo de base de formação dos instrutores dos serviços de inspecção das pescas dos Estados-Membros e prevê cursos de formação e seminários suplementares para esses agentes e outro pessoal envolvido em actividades de controlo e de inspecção;\n\nb) Estabelece e desenvolve um currículo de base para a formação dos inspectores comunitários antes do início das suas actividades e prevê regularmente formações e seminários de actualização suplementares para esses agentes;\n\nc) Encarrega-se, a pedido dos Estados-Membros, da aquisição conjunta de bens e serviços relacionados com as actividades de controlo exercidas pelos Estados-Membros e prepara e coordena a execução pelos Estados-Membros de projectos-piloto comuns;\n\nd) Elabora procedimentos operacionais comuns respeitantes às actividades comuns de controlo exercidas por dois ou mais Estados-Membros;\n\ne) Define os critérios aplicáveis ao intercâmbio de meios de controlo e inspecção dos Estados-Membros entre si, e entre Estados-Membros e países terceiros, assim como ao fornecimento desses meios pelos Estados-Membros;\n\nf) Conduz análises de risco com base em dados relativos às capturas, aos desembarques e ao esforço de pesca, bem como análises de risco sobre os desembarques não declarados, incluindo, nomeadamente, a comparação dos dados relativos às capturas e às importações com os relativos às exportações e ao consumo nacional;\n\ng) Desenvolve, a pedido da Comissão ou dos Estados-Membros, metodologias e procedimentos comuns de inspecção;\n\nh) Apoia os Estados-Membros, a pedido destes, no cumprimento das suas obrigações nacionais e comunitárias e outras suas obrigações internacionais, nomeadamente em matéria de luta contra a pesca INN, bem como das obrigações assumidas no quadro das organizações regionais de gestão das pescas;\n\ni) Promove e coordena o desenvolvimento de metodologias uniformes de gestão do risco nos domínios da sua competência;\n\nj) Coordena e promove a cooperação entre Estados-Membros e normas comuns para o desenvolvimento dos planos de amostragem definidos no Regulamento (CE) n.º 1224/2009 do Conselho, de 20 de Novembro de 2009, que institui um regime comunitário de controlo a fim de assegurar o cumprimento das regras da Política Comum das Pescas ([^3^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#E0003))."
+  },
+  "d06fc65dfa2b1402": {
+   "fragment_id": "Artigo 7.º-A — Cooperação europeia no domínio das funções de guarda costeira",
+   "type": "artigo",
+   "heading": "Artigo 7.º-A — Cooperação europeia no domínio das funções de guarda costeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-A — Cooperação europeia no domínio das funções de guarda costeira\n\n1. A Agência, em cooperação com a Agência Europeia da Guarda de Fronteiras e Costeira e com a Agência Europeia da Segurança Marítima, apoia as autoridades nacionais que exercem funções de guarda costeira a nível nacional e da União e, se for caso disso, a nível internacional, através de:\n\na) Partilha, compilação e análise de informações disponíveis nos sistemas de sinalização a bordo de navios e outros sistemas de informação alojados nessas agências ou acessíveis às mesmas, nos termos das respetivas bases jurídicas e sem prejuízo da propriedade dos dados pelos Estados-Membros;\n\nb) Prestação de serviços de vigilância e de comunicação com base em tecnologia de ponta, incluindo infraestruturas espaciais e terrestres e sensores instalados em qualquer tipo de plataforma;\n\nc) Desenvolvimento de capacidades através da elaboração de orientações, de recomendações e da definição de boas práticas, bem como da realização de ações de formação e do intercâmbio de pessoal;\n\nd) Reforço da troca de informações e da cooperação no âmbito do exercício das funções de guarda costeira, nomeadamente através da análise dos desafios operacionais e do risco emergente no domínio marítimo;\n\ne) Partilha de capacidades através do planeamento e da execução de operações polivalentes e da partilha de recursos e de outras competências, na medida em que estas atividades sejam coordenadas por aquelas agências e tenham o acordo das autoridades competentes dos Estados-Membros em causa.\n\n2. As formas precisas de cooperação no exercício das funções de guarda costeira entre a Agência, a Agência Europeia da Guarda de Fronteiras e Costeira e a Agência Europeia da Segurança Marítima devem ser determinadas através de um acordo de trabalho, nos termos dos seus mandatos respetivos e da regulamentação financeira aplicável a essas agências. Esse acordo é aprovado pelo Conselho de Administração da Agência, pelo Conselho de Administração da Agência Europeia da Guarda de Fronteiras e Costeira e pelo Conselho de Administração da Agência Europeia da Segurança Marítima.\n\n3. A Comissão, em estreita cooperação com os Estados-Membros, com a Agência, com a Agência Europeia da Guarda de Fronteiras e Costeira e com a Agência Europeia da Segurança Marítima, disponibiliza um manual prático sobre a cooperação europeia no que se respeita às funções de guarda costeira. Esse manual contém orientações, recomendações e boas práticas para o intercâmbio de informações. A Comissão adota o manual sob a forma de uma recomendação."
+  },
+  "0ac74b191d364f00": {
+   "fragment_id": "Artigo 19.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pessoal\n\n1. São aplicáveis ao pessoal da Agência o Estatuto dos funcionários das Comunidades Europeias e o Regime aplicável aos outros agentes das Comunidades Europeias, estabelecidos no Regulamento (CEE, Euratom, CECA) n.º 259/68 ([^4^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#E0004)), e as regulamentações na matéria aprovadas de comum acordo pelas instituições das Comunidades Europeias para efeitos da aplicação desse estatuto e desse regime. O Conselho de Administração, com o acordo da Comissão, aprova as regras de execução necessárias.\n\n2. Sem prejuízo do disposto no artigo 30.º, as competências conferidas à autoridade investida do poder de nomeação pelo Estatuto dos funcionários, bem como pelo Regime aplicável aos outros agentes, são exercidas pela Agência no que diz respeito ao seu próprio pessoal.\n\n3. O pessoal da Agência é composto por funcionários afectados ou destacados temporariamente pela Comissão, e por outros agentes recrutados pela Agência por um período estritamente limitado às necessidades da Agência.\n\nA Agência pode também empregar agentes destacados pelos Estados-Membros a título temporário."
+  },
+  "02142eb1979c1fa1": {
+   "fragment_id": "Artigo 22.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Línguas\n\n1. As disposições do Regulamento n.º 1, de 15 de Abril de 1958, que estabelece o regime linguístico da Comunidade Económica Europeia ([^5^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#E0005)), são aplicáveis à Agência.\n\n2. Os serviços de tradução necessários ao funcionamento da Agência são assegurados pelo Centro de Tradução dos Organismos da União Europeia."
+  },
+  "0f9efc64a63b9ab2": {
+   "fragment_id": "Artigo 36.º — Execução e controlo do orçamento",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Execução e controlo do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Execução e controlo do orçamento\n\n1. O director executivo executa o orçamento da Agência.\n\n2. Até ao dia 1 de Março seguinte ao exercício encerrado, o contabilista da Agência comunica ao contabilista da Comissão as contas provisórias acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Comissão consolida as contas provisórias das instituições e dos organismos descentralizados nos termos do disposto no artigo 128.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, de 25 de Junho de 2002, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^6^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#E0006)) (seguidamente designado «Regulamento Financeiro»).\n\n3. Até ao dia 31 de Março seguinte ao exercício encerrado, o contabilista da Comissão transmite ao Tribunal de Contas as contas provisórias da Agência acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O relatório sobre a gestão orçamental e financeira do exercício é igualmente enviado ao Parlamento Europeu e ao Conselho.\n\n4. Após recepção das observações formuladas pelo Tribunal de Contas relativamente às contas provisórias da Agência, nos termos do disposto no artigo 129.º do Regulamento Financeiro, o director executivo elabora as contas definitivas da Agência, sob sua própria responsabilidade, e transmite-as, para parecer, ao Conselho de Administração.\n\n5. O Conselho de Administração emite um parecer sobre as contas definitivas da Agência.\n\n6. Até ao dia 1 de Julho do ano seguinte, o director executivo transmite ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas acompanhadas do parecer do Conselho de Administração.\n\n7. As contas definitivas são publicadas.\n\n8. A Agência estabelece uma função de auditoria interna que deve ser desempenhada em conformidade com as normas internacionais pertinentes.\n\n9. O director executivo envia ao Tribunal de Contas uma resposta às observações deste último, até 30 de Setembro. Envia igualmente essa resposta ao Conselho de Administração.\n\n10. O director executivo submete à apreciação do Parlamento Europeu, a pedido deste último, tal como previsto no n.º 3 do artigo 146.º do Regulamento Financeiro, qualquer informação necessária ao bom desenrolar do processo de quitação relativamente ao exercício em causa.\n\n11. Sob recomendação do Conselho, o Parlamento Europeu dá ao director executivo da Agência, antes de 30 de Abril do segundo ano subsequente, quitação da execução do orçamento do exercício em causa."
+  },
+  "cc69473068a5ee99": {
+   "fragment_id": "Artigo 38.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Disposições financeiras\n\nO Conselho de Administração, depois de recebido o acordo da Comissão e o parecer do Tribunal de Contas, aprova a regulamentação financeira da Agência. Esta regulamentação só pode divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 23 de Dezembro de 2002, que institui o Regulamento Financeiro Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^7^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#E0007)), se as exigências específicas do funcionamento da Agência o impuserem e desde que a Comissão dê previamente o seu acordo."
+  },
+  "b76478451c8d4db2": {
+   "fragment_id": "Artigo 41.º — Alteração",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Alteração\n\nO artigo 34.º-C do Regulamento (CEE) n.º 2847/93 passa a ter a seguinte redacção:\n\n1. A Comissão determinará, nos termos do artigo 36.º e em concertação com os Estados-Membros interessados, quais das actividades de pesca que envolvem dois ou mais Estados-Membros serão submetidas a programas específicos de controlo e inspecção, assim como as condições que regem tais programas.\n\nO programa específico de controlo e inspecção determinará quais das actividades de pesca que envolvem dois ou mais Estados-Membros serão submetidas ao programa, assim como as condições que regem tais actividades.\n\nCada programa específico de controlo e inspecção enunciará os seus objectivos, prioridades e procedimentos comuns, assim como os marcos de referência para as actividades de controlo e inspecção, os resultados que se esperam das medidas especificadas e a estratégia necessária para assegurar que as actividades de controlo e inspecção sejam o mais uniformes, eficazes e económicas possível. Cada programa identificará os Estados-Membros interessados.\n\nOs programas específicos de controlo e inspecção não podem ter uma duração superior a três anos ou a qualquer período definido para esse efeito num plano de recuperação aprovado em conformidade com o artigo 5.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e exploração susceptível dos recursos haliêuticos no âmbito da política comum das pescas ([^8^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#E0008)) ou com um plano de gestão aprovado em conformidade com o artigo 6.º do mesmo regulamento.\n\nOs programas específicos de controlo e inspecção serão executados pelos Estados-Membros interessados com base em planos de utilização conjunta estabelecidos no âmbito do Regulamento (CE) n.º 768/2005 do Conselho, de 26 de Abril de 2005, que estabelece uma Agência Comunitária de Controlo das Pescas e que altera o Regulamento (CEE) n.º 2847/93 que institui um regime de controlo aplicável à política comum das pescas ([^9^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#E0009)).\n\n2. A Comissão controlará e avaliará os resultados de cada programa específico de controlo e inspecção e apresentará um relatório ao Parlamento Europeu e ao Conselho, em conformidade com o n.º 4 do artigo 27.º do Regulamento (CE) n.º 2371/2002."
+  },
+  "edb998a023f5e11d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#src.E0001)) Regulamento (UE) 2016/1624 do Parlamento Europeu e do Conselho, de 14 de setembro de 2016, relativo à Guarda Europeia de Fronteiras e Costeira, que altera o Regulamento (UE) 2016/399 do Parlamento Europeu e do Conselho e que revoga o Regulamento (CE) n.º 863/2007 do Parlamento Europeu e do Conselho, o Regulamento (CE) n.º 2007/2004 do Conselho e a Decisão 2005/267/CE do Conselho (JO L 251 de 16.9.2016, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#src.E0002)) Regulamento (CE) n.º 1406/2002 do Parlamento Europeu e do Conselho, de 27 de junho de 2002, que institui a Agência Europeia da Segurança Marítima (JO L 208 de 5.8.2002, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#src.E0003)) JO L 343 de 22.12.2009, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#src.E0004)) JO L 56 de 4.3.1968, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE, Euratom) n.º 723/2004 (JO L 124 de 27.4.2004, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#src.E0005)) JO 17 de 6.10.1958, p. 385/58.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#src.E0006)) JO L 248 de 16.9.2002, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#src.E0007)) JO L 357 de 31.12.2002, p. 72.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#src.E0008)) JO L 358 de 21.12.2002, p. 59.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/478dc728-9d40-42a7-8cb4-2f85ecb6f57d.0015.02/DOC_1#src.E0009)) JO L 128 de 21.5.2005, p. 1.»."
+  },
+  "983547c9d2ab4282": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02005R0768 — PT — 14.04.2019 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32005R0768) [REGULAMENTO (CE) N.º 768/2005 DO CONSELHO](http://publications.europa.eu/resource/celex/32005R0768) [de 26 de Abril de 2005](http://publications.europa.eu/resource/celex/32005R0768) [que estabelece uma Agência Europeia de Controlo das Pescas e que altera o Regulamento (CEE) n.º 2847/93 que institui um regime de controlo aplicável à política comum das pescas](http://publications.europa.eu/resource/celex/32005R0768) (JO L 128, 21.5.2005, p.1)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/473 do Parlamento Europeu e do Conselho de 19 de março de 2019](http://publications.europa.eu/resource/celex/32019R0473) — L 83 — 18 — 25.3.2019"
+  }
+ }
+}

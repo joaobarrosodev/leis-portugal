@@ -1,0 +1,228 @@
+---
+schema_version: '1.0'
+id: pt:dre:449195:por
+title: Resolução do Conselho de Ministros n.º 87/2008
+short_title: null
+summary: Cria a estrutura de missão Lojas do Cidadão de Segunda Geração (Lojas 2G)
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 87/2008
+official_date: null
+publication_date: '2008-05-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 101/2008, Série I de 2008-05-27
+  number: '101'
+  series: I
+  supplement: null
+  pages: 2954 - 2955
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/05/10100/0295402955.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/87/2008/05/27/p/dre/pt/html
+  oj: null
+  dre: '449195'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/87-2008-449195
+  internal: pt:dre:449195:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2008-449195
+  metadata_url: https://data.dre.pt/eli/resolconsmin/87/2008/05/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/87-2008-449195
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:58:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8c48fb65b7893cfd5cc40b4e3977bc94a3e6eed2f597a29ff07fc127d11342f3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:58:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adjunto
+- Admissão de Pessoal
+- Agência para a Modernização Administrativa
+- Definição de Competências
+- Equipa de Missão
+- Gestor
+- Loja do Cidadão
+- Nomeação
+relationships:
+- type: amended_by
+  target: pt:dre:3373187:por
+  label: "Confirmada a comissão de serviço do Licenciado Eduardo Elísio Silva Peralta Feio, para o cargo de gestor da Estrutura\
+    \ de Missão Lojas do Cidadão de Segunda Geração, nomeado pela presente resolução, pelo DESP.27388/2009.22.12.2009.PCM,\
+    \ DR.IIS [246] de 22.12.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho/27388-2009-3373187
+  date: '2009-12-22'
+- type: cites
+  target: pt:dre:272037:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/2004/06/22/p/dre
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520191:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/105/2007/04/03/p/dre
+- type: cites
+  target: pt:dre:521024:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/116/2007/04/27/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:58:13Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 87/2008
+
+O Programa do XVII Governo Constitucional refere a modernização dos serviços públicos como um dos seus principais objectivos, preconizando uma maior qualidade e proximidade dos serviços aos seus utentes, designadamente pelo alargamento e reformulação das Lojas do Cidadão.
+
+Desde a data da sua criação, em 1999, as Lojas do Cidadão têm vindo a colher uma clara preferência dos cidadãos nas suas interacções mais frequentes com os serviços públicos. Justifica-se assim o alargamento desta rede e o desenvolvimento do conceito, oferecendo aos cidadãos e às empresas uma maior integração de serviços em função dos seus eventos de vida.
+
+Racionalizar, geográfica e financeiramente, o modelo de distribuição de serviços públicos, sem perda de proximidade para o cidadão e com economias em termos de custos de instalação e exploração é também um dos objectivos centrais deste Programa.
+
+Deste modo, as novas lojas do cidadão devem concentrar no mesmo espaço serviços públicos (da administração central e também municipal) e serviços privados conexos em função da procura e das necessidades existentes em cada local.
+
+Prevê-se igualmente a sua adequada articulação com outros canais de distribuição, nomeadamente o canal voz e Internet, através de uma plataforma multicanal, assegurando um atendimento mais normalizado e conveniente a todos os cidadãos.
+
+Pelas razões invocadas, este projecto foi claramente acolhido pelo Quadro de Referência Estratégico Nacional, no âmbito da modernização administrativa.
+
+Sem prejuízo da ampla difusão, a médio prazo, deste novo modelo, o objectivo traçado para o biénio de 2008-2009 é o de instalar um número não inferior a 30 lojas do cidadão.
+
+A amplitude das tarefas a desenvolver para o arranque, desenvolvimento e consolidação deste projecto de expansão conferem-lhe uma natureza extraordinária e exigem uma estrutura e uma liderança exclusivamente dedicadas, o que é não compatível com o regular funcionamento da Agência para a Modernização Administrativa, I. P., abreviadamente designada por AMA, I. P., criada pelo [Decreto-Lei n.º 116/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2007-521024), de 27 de Abril.
+
+Com efeito, nesta primeira fase, é necessário aperfeiçoar e consolidar a concepção do novo modelo de loja, procurar e contratualizar os espaços necessários para acolher as novas lojas, definir um conjunto de procedimentos padronizados para a aquisição dos bens e serviços necessários à adaptação daqueles espaços e à instalação das lojas, fiscalizar a sua execução, determinar a estrutura de custos e assegurar a sua sustentabilidade e elaborar os instrumentos necessários à contratualização entre a AMA, I. P., e os utilizadores públicos e privados de cada um dos espaços.
+
+À AMA, I. P., compete gerir as lojas do cidadão e os centros de formalidades de empresas actualmente em funcionamento, preparar desde já a gestão das novas lojas e os novos serviços integrados que nelas serão disponibilizados e coordenar os trabalhos necessários ao desenvolvimento da plataforma multicanal de suporte a toda a rede, para além de dever prosseguir regularmente todo um conjunto de outras atribuições da maior relevância para a modernização da Administração Pública nas áreas da administração electrónica e simplificação administrativa.
+
+Torna-se, assim, imperativa e urgente a criação de uma estrutura de missão que, em conjunto com a AMA, I. P., e beneficiando da experiência adquirida por este instituto, prepare e execute a primeira fase do projecto de expansão da rede nacional de lojas do cidadão nos termos e prazo definidos pelo Governo.
+
+Assim:
+
+Nos termos do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, na redacção dada pelo [Decreto-Lei n.º 105/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2007-520191), de 3 de Abril, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar a estrutura de missão Lojas do Cidadão de Segunda Geração, adiante designada por Lojas 2G, que se constitui como unidade de missão para o desenvolvimento deste projecto.
+
+2 - Determinar que compete à Lojas 2G, em estreita articulação com a Agência para a Modernização Administrativa, I. P., abreviadamente designada por AMA, I. P., desenvolver as acções que permitam preparar e executar a primeira fase do plano de expansão da rede nacional de lojas do cidadão, designadamente:
+
+a) Identificar, em articulação com os municípios e com os serviços e organismos da administração central do Estado, em especial nas áreas das finanças, da segurança social e dos registos, quais os serviços do Estado e das autarquias oferecidos pelas novas lojas;
+
+b) Fazer o levantamento preciso das áreas necessárias em função dos serviços a oferecer e da procura estimada;
+
+c) Proceder à identificação dos espaços mais adequados à instalação das lojas, preferencialmente em imóveis do Estado ou das autarquias, e preparar a respectiva contratação, procurando associar a melhoria da qualidade do serviço à maior racionalização possível do modelo de distribuição;
+
+d) Apurar com precisão a estrutura de custos de utilização de cada espaço e preparar a contratação com os utilizadores públicos e privados, conferindo sustentabilidade ao funcionamento das lojas;
+
+e) Elaborar e apresentar à AMA, I. P., e à tutela o plano de expansão da rede de lojas do cidadão para o biénio de 2008-2009, com identificação e caracterização sumária dos espaços, descrição dos serviços públicos a disponibilizar, estimativa dos custos por loja com a aquisição de bens e serviços e cronograma da instalação;
+
+f) Centralizar e apreciar as solicitações de municípios ou serviços públicos para aditamento de novas lojas ao plano de expansão previsto na alínea anterior;
+
+g) Preparar, com base no modelo de referência a fornecer pela AMA, I. P., o programa funcional de cada uma das novas lojas;
+
+h) Preparar os procedimentos pré-contratuais para aquisição dos serviços de adaptação do modelo de referência aos diferentes espaços contratualizados e dos bens e serviços indispensáveis à reconfiguração destes espaços e instalação da loja, submetendo-os à entidade competente, em razão do valor, para autorizar a despesa;
+
+i) Coordenar toda a execução dos contratos celebrados para execução do plano de expansão.
+
+3 - Fixar como duração da estrutura de missão o prazo de 24 meses.
+
+4 - Determinar que a Lojas 2G é dirigida por um gestor, na qualidade de responsável da estrutura de missão, ao qual é atribuído o estatuto correspondente a cargo de direcção superior do 1.º grau.
+
+5 - Nomear para gestor da Lojas 2G o licenciado Eduardo Elísio Silva Peralta Feio, cujo curriculum vitae, anexo, atesta a idoneidade, experiência e competência profissionais indicadas para o desempenho destas altas funções.
+
+6 - Estabelecer que o responsável da estrutura de missão é coadjuvado por dois adjuntos equiparados, para efeitos de remuneração, a cargo de direcção intermédia do 1.º grau.
+
+7 - Determinar que os adjuntos do responsável da estrutura de missão são recrutados através de destacamento e requisição de entre pessoal pertencente aos serviços e organismos da Administração Pública ou de contrato individual de trabalho a termo certo, nos termos da [Lei n.º 23/2004](https://diariodarepublica.pt/dr/detalhe/lei/23-2004-272037), de 22 de Junho.
+
+8 - Determinar que, para efeitos do disposto nos artigos 11.º e 12.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, na sua actual redacção, e da alínea g) do n.º 1 e do n.º 5 do artigo 9.º da [Lei n.º 23/2004](https://diariodarepublica.pt/dr/detalhe/lei/23-2004-272037), de 22 de Agosto, são descongeladas as admissões indispensáveis ao recrutamento dos adjuntos do responsável da estrutura de missão.
+
+9 - Determinar que os encargos orçamentais decorrentes das actividades da Lojas 2G, quer no que respeita ao responsável pela estrutura de missão e restante equipa quer no que respeita à execução do plano de expansão são suportados pelo orçamento da AMA, I. P.
+
+10 - Estabelecer que a AMA, I. P., presta o apoio técnico, administrativo e logístico ao funcionamento da Lojas 2G.
+
+11 - Determinar que a presente resolução produz efeitos a partir de 16 de Maio de 2008.
+
+Presidência do Conselho de Ministros, 8 de Maio de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+Curriculum vitae
+
+Nome - Eduardo Elísio Silva Peralta Feio.
+
+1 - Habilitações académicas:
+
+Mestrando em Administração e Políticas Públicas, no Instituto Superior de Ciências do Trabalho e da Empresa, em Lisboa;
+
+Licenciado em Planeamento Regional e Urbano pela Universidade de Aveiro;
+
+Curso Avançado de Gestão Pública (CAGEP) no INA.
+
+2 - Experiência profissional:
+
+Director-geral de Infra-Estruturas e Equipamentos, do Ministério da Administração Interna, de 2007 a 2008;
+
+Director do Gabinete de Estudos e de Planeamento de Instalações, do Ministério da Administração Interna, de 2005 a 2007;
+
+Vereador da Câmara Municipal de Aveiro, desde 1998 a 2005, desempenhando funções em regime de tempo inteiro, tendo assumido os pelouros das obras municipais, trânsito e mobilidade e ambiente. Entre 1998 e 2001, assumiu ainda o pelouro do planeamento urbanístico, tendo, entre 2000 e 2005, assumido o cargo de vice-presidente da Câmara Municipal de Aveiro;
+
+Entre 1994 e 1997, foi vereador da Câmara Municipal de Aveiro em regime de não permanência;
+
+Membro do conselho de administração da Associação de Municípios da Ria, de 2001 a 2005;
+
+Membro do conselho de administração da Associação de Municípios do Carvoeiro-Vouga, de 1998 a 2005;
+
+Administrador dos Serviços Municipalizados de Aveiro, de 1998 a 2005;
+
+Administrador da MOVEAVEIRO - Empresa de Mobilidade, E. M., desde Fevereiro a Outubro de 2005;
+
+Presidente do conselho fiscal da ERSUC, Resíduos Sólidos do Centro, S. A., desde Março de 1998 a Julho de 2005;
+
+Administrador não executivo da ERSUC, Resíduos Sólidos do Centro, S. A., desde Julho até Outubro de 2005;
+
+Participou como supervisor no estudo promovido pelo Centro de Estudos Sociais da Faculdade de Economia da Universidade de Coimbra - «O funcionamento dos tribunais», em 1995;
+
+Entre 1991 e 1996, participou na organização do trabalho de campo e no estudo de casos em diversos estudos promovidos pelo CIDEC - Centro Interdisciplinar de Estudos Económicos do ISCTE para avaliação de programas comunitários;
+
+Professor contratado de Geografia na C+S de Ílhavo, de 1990 a 1991;
+
+Professor contratado de Geografia da C+S de Albergaria-a-Velha, de 1991 a 1992.

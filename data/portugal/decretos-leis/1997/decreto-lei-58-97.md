@@ -1,0 +1,520 @@
+---
+schema_version: '1.0'
+id: pt:dre:517442:por
+title: Decreto-Lei n.º 58/97
+short_title: null
+summary: Aprova a orgânica do Gabinete das Relações Internacionais do Ministério da Cultura
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 58/97
+official_date: null
+publication_date: '1997-03-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 66/1997, Série I-A de 1997-03-19
+  number: '66'
+  series: I
+  supplement: null
+  pages: 1256 - 1260
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/03/066a00/12561260.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2007-04-01'
+version_history:
+  file: decreto-lei-58-97.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1997-03-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-11-23'
+    amending: pt:dre:448749:por
+    amending_title: Decreto-Lei n.º 255/2002
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+  - date: '2007-04-01'
+    amending: pt:dre:520448:por
+    amending_title: Decreto Regulamentar n.º 33/2007
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/58/1997/p/cons/20070329/pt/html
+  oj: null
+  dre: '517442'
+  dre_path: /dr/detalhe/decreto-lei/58-1997-517442
+  internal: pt:dre:517442:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1997-517442
+  metadata_url: https://data.dre.pt/eli/dec-lei/58/1997/p/cons/20070329/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-169358377
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-169358377
+  retrieved_at: '2026-10-22T12:44:51Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ade6bdee9c46309bd35f953edff2516ac6097cca353f57029d212d8f1688bfce
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:44:51Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-58-97.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Cultura Portuguesa
+- Ministério da Cultura
+- Gabinete de Relações Internacionais
+- Orgânica
+- Política Cultural
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:448749:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749
+  date: '2002-11-22'
+- type: amended_by
+  target: pt:dre:520448:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448
+  date: '2007-03-29'
+- type: cites
+  target: pt:dre:410289:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/106-h/1992/06/01/p/dre
+article_structure:
+  article_count: 19
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:44:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 58/97
+
+Decreto-Lei n.º 58/97
+
+de 19 de Março
+
+Considerando que a política externa do Estado compreende uma vertente cultural de importância crescente, em cuja concepção e execução o Ministério da Cultura é chamado a prestar uma colaboração activa;
+
+Considerando que cabe ao Ministério da Cultura assegurar o suporte de representação de Portugal nas organizações com competência na área da cultura, participando na negociação e execução de projectos gerados em tais organizações;
+
+Considerando que a intervenção da União Europeia há muito que deixou de ter um carácter exclusivamente económico e que o Tratado da União Europeia tem um novo capítulo dedicado à cultura;
+
+Considerando que, nestes termos, se torna necessário preparar, estudar e acompanhar a intervenção do Ministério da Cultura nas sessões do Conselho da União Europeia ou em outras reuniões desta organização;
+
+Considerando as vantagens de centralizar num único serviço a informação relativa às acções de intercâmbio levadas a cabo por outros serviços ou organismos do Ministério, por forma que constantemente seja possível ter-se uma visão de conjunto das relações externas e desde que tais organismos não tenham competência internacional;
+
+Considerando que é necessário difundir todas as acções com o estrangeiro levadas a cabo por organismos ou serviços dependentes do Ministério da Cultura;
+
+Considerando, por outro lado, a relevância que se atribui à formação pós-universitária nas disciplinas da cultura, em particular quando se trate de artistas, intérpretes ou executantes;
+
+Considerando que a importância crescente da vertente cultural das relações do Estado, quer a nível interno, quer a nível internacional, implica a reformulação das disposições do Decreto Regulamentar n.º 56/81, de 22 de Dezembro, que estabeleceu o quadro geral de competências e atribuições do Gabinete das Relações Culturais Internacionais, bem como dos restantes diplomas que o completaram, designadamente o Decreto Regulamentar n.º 13/83, de 22 de Fevereiro, e o Decreto-Lei n.º 106-H/92, de 1 de Junho:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Natureza e atribuições
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+###### Artigo 1.º — Natureza
+
+O Gabinete das Relações Culturais Internacionais, adiante designado por GRCI, é um serviço dotado de autonomia administrativa, na dependência do Ministro da Cultura, com a missão de contribuir para a divulgação e promoção da cultura portuguesa e de assegurar e acompanhar as relações internacionais no âmbito da participação do Estado em organizações internacionais com competência na área da cultura, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros na formulação e condução da política externa.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+###### Artigo 2.º — Atribuições
+
+1 - São atribuições do GRCI:
+
+a) Conceber, coordenar, apoiar ou financiar projectos de iniciativa pública ou privada que se destinem a promover a cultura portuguesa no estrangeiro ou a receber os valores culturais estrangeiros em Portugal;
+
+b) Participar na negociação e conclusão dos acordos internacionais de cooperação cultural, assegurando a respectiva execução nas áreas da competência do Ministério da Cultura;
+
+c) Representar o Ministério da Cultura nas organizações internacionais com competência na área da cultura;
+
+d) Apoiar acções de formação pós-universitária no estrangeiro, através de concessão de bolsas de estudo de longa e de curta duração ou da concessão de subsídios para o efeito;
+
+e) Estudar e acompanhar os assuntos comunitários, quer no aspecto legislativo, quer contencioso, respeitando o quadro institucional em vigor;
+
+f) Assessorar o Ministro da Cultura, designadamente na preparação de missões ministeriais ao estrangeiro, na recepção de individualidades estrangeiras em território nacional, na realização de estudos sobre regimes que vigoram noutros países, na preparação de diplomas legislativos, na negociação de acordos ou contratos com entidades estrangeiras;
+
+g) Recolher, tratar e difundir toda a informação relativa a acções com o estrangeiro levadas a cabo por organismos ou serviços dependentes do Ministério da Cultura;
+
+h) Emitir parecer sobre as acções a que se reporta a alínea anterior, quando solicitado ou quando as mesmas sejam efectivadas por serviços que não detenham competência específica para o efeito;
+
+i) Celebrar protocolos ou contratos com entidades públicas ou privadas, nacionais ou estrangeiras, no âmbito das suas atribuições;
+
+j) Assegurar a edição de publicações referentes às actividades de divulgação que levar a cabo ou de outro modo difundir as acções que promova.
+
+l) Preparar, organizar, coordenar e assegurar o desenvolvimento de acções de divulgação e promoção da cultura portuguesa, no plano nacional e no plano internacional.
+
+2 - O GRCI tem competência para atribuir apoios financeiros destinados a desenvolver acções no âmbito das suas atribuições, de acordo com regulamento a aprovar por decreto regulamentar.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+### Capítulo II — Órgãos e serviços
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+###### Artigo 3.º — Órgãos e serviços
+
+O GRI compreende os seguintes órgãos e serviços:
+
+a) Director;
+
+b) Direcção de Serviços de Projectos e de Divulgação;
+
+c) Direcção de Serviços de Relações Internacionais;
+
+d) Departamento de Assuntos Europeus;
+
+e) Centro de Informação e Documentação;
+
+f) Divisão dos Serviços Administrativos.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+###### Artigo 4.º — Director
+
+1 - O GRI é dirigido por um director, coadjuvado por um subdirector.
+
+2 - Compete ao director:
+
+a) Exercer os poderes de direcção, orientação e disciplina em relação aos serviços e funcionários do GRCI;
+
+b) Participar na prossecução da política governamental no domínio da divulgação da cultura portuguesa, elaborando, para o efeito, propostas a incluir no plano de actividades, a aprovar pelo Ministro da Cultura;
+
+c) Assegurar a concretização da política cultural interna e externa definida pelo Governo, através da coordenação, organização e direcção eficazes dos recursos afectos ao Gabinete;
+
+d) Assegurar a representação do GRI, nomeadamente em comissões, grupos de trabalho ou outras actividades de organismos nacionais e internacionais;
+
+e) Autorizar a realização de despesas e seu pagamento em actos de gestão corrente;
+
+f) Exercer as demais competências nele delegadas ou subdelegadas pelo Ministro da Cultura.
+
+3 - O director é substituído, nas suas faltas ou impedimentos, pelo subdirector, no qual pode delegar ou subdelegar competências.
+
+4 - O director e o subdirector são equiparados, para todos os efeitos legais, a director-geral e subdirector-geral, respectivamente.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+###### Artigo 5.º — Direcção de Serviços de Projectos e de Divulgação
+
+À Direcção de Serviços de Projectos e de Divulgação compete:
+
+a) Conceber, propor e executar projectos de divulgação da cultura portuguesa e assegurar o desenvolvimento de actividades de promoção da cultura portuguesa, no plano nacional e no plano internacional;
+
+b) Emitir parecer sobre a organização de actividades culturais da iniciativa de outros serviços ou organismos do Ministério da Cultura, no âmbito da divulgação da cultura portuguesa;
+
+c) Colaborar na programação das actividades culturais dos institutos e centros portugueses no estrangeiro;
+
+d) Recolher, tratar e difundir toda a informação sobre as actividades de divulgação de cultura portuguesa no estrangeiro;
+
+e) Apoiar a participação portuguesa nas mostras internacionais pluridisciplinares;
+
+f) Conceber, coordenar e executar projectos de divulgação de valores estrangeiros em Portugal.
+
+2 - A Direcção de Serviços de Projectos e de Divulgação é dirigida por um director de serviços.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+###### Artigo 6.º — Direcção de Serviços das Relações Internacionais
+
+À Direcção de Serviços das Relações Internacionais compete:
+
+a) Preparar a contribuição do Ministério da Cultura em todos os actos relativos a tratados, acordos ou convénios bilaterais ou multilaterais na área da cultura;
+
+b) Participar, com outros departamentos nacionais e estrangeiros, sob orientação do MNE, na negociação e conclusão dos acordos ou convénios internacionais, assegurando a respectiva execução nas áreas da competência do Ministério da Cultura;
+
+c) Preparar e acompanhar as actividades previstas no âmbito dos acordos culturais, no estrangeiro e no País;
+
+d) Coordenar a realização, no País, dos programas culturais que se verifiquem no âmbito dos organismos internacionais;
+
+e) Representar o Ministro da Cultura nas organizações internacionais com competência na área da cultura, em particular na UNESCO e no Conselho da Europa, através da participação em reuniões ou missões internacionais;
+
+f) Promover, coordenar e emitir parecer sobre a instituição e atribuição de bolsas de estudo pós-universitárias ou de apoios em regime de subsídios avulsos em áreas e segundo critérios a determinar anualmente, no âmbito das competências do Ministério da Cultura;
+
+g) Propor anualmente e de acordo com a legislação em vigor, a constituição de uma comissão ad hoc para apreciação e selecção dos pedidos de bolsas de estudo referidos na alínea anterior.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+###### Artigo 7.º — Departamento de Assuntos Europeus
+
+1 - Ao Departamento de Assuntos Europeus compete:
+
+a) Estudar e acompanhar os assuntos da União Europeia que se relacionem com a área de competência do Ministério da Cultura;
+
+b) Assegurar a representação do Ministério da Cultura nos grupos de trabalho ou comités sectoriais que funcionam junto dos órgãos comunitários;
+
+c) Preparar a participação do Ministério da Cultura nas sessões do Conselho da União Europeia ou em outras reuniões no âmbito desta organização;
+
+d) Proceder ao tratamento e distribuição da documentação proveniente das instituições comunitárias;
+
+e) Representar o Ministro da Cultura na preparação das respostas a dar no âmbito do contencioso comunitário, em articulação com o MNE;
+
+f) Promover reuniões internas para preparar a participação do Ministério da Cultura em instituições comunitárias;
+
+g) Propor a representação nacional aos grupos de trabalho ou comités sectoriais das instituições comunitárias, no âmbito das atribuições do Ministério da Cultura.
+
+h) Propor a representação nacional aos grupos de trabalho ou comités sectoriais no âmbito das atribuições do Ministério da Cultura.
+
+2 - O Departamento de Assuntos Europeus é equiparado a direcção de serviços.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+###### Artigo 8.º — Centro de Informação e Documentação
+
+1 - Ao Centro de Informação e Documentação compete:
+
+a) Recolher informação e documentação junto das organizações internacionais;
+
+b) Recolher, sistematizar e organizar uma base de dados capaz de responder às solicitações nacionais e estrangeiras na área da cultura;
+
+c) Recolher, sistematizar e organizar uma base de dados com a documentação, em qualquer suporte, relacionada com as actividades que eram desenvolvidas pela extinta CNCDP.
+
+d) Assegurar canais de comunicação, a nível interno, que permitam a circulação da informação.
+
+2 - O Centro de Informação e Documentação é dirigido por um chefe de divisão.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+###### Artigo 9.º — Divisão dos Serviços Administrativos
+
+1 - A Repartição de Serviços Administrativos compreende:
+
+a) A Secção de Pessoal, Expediente e Arquivo;
+
+b) A Secção de Contabilidade, Tesouraria e Aprovisionamento.
+
+2 - À Divisão dos Serviços Administrativos, através da Secção de Pessoal, Expediente e Arquivo, compete:
+
+a) Organizar os processos de admissão, requisição, transferência e quaisquer outras formas de mobilidade dos funcionários;
+
+b) Organizar e manter actualizados os registos biográficos;
+
+c) Assegurar o expediente relativo ao pessoal;
+
+d) Dar entradas e saídas ao correio do GRI, registar, classificar e proceder ao encaminhamento dos documentos;
+
+e) Expedir e distribuir a correspondência emanada do GRI;
+
+f) Organizar o arquivo corrente, mantendo-o operacional e de fácil acesso;
+
+g) Informatizar os arquivos.
+
+3 - À Divisão dos Serviços Administrativos, através da Secção de Contabilidade, Tesouraria e Aprovisionamento, compete:
+
+a) Elaborar o projecto de orçamento do GRI e apresentar os elementos indispensáveis à execução de balancetes e relatórios financeiros periódicos e finais;
+
+b) Organizar e manter actualizada a contabilidade, processando, conferindo, liquidando e pagando as despesas relativas à execução dos orçamentos;
+
+c) Assegurar a cobrança e arrecadação de receitas;
+
+d) Verificar as importâncias dos fundos permanentes à sua guarda;
+
+e) Assegurar os movimentos de tesouraria;
+
+f) Organizar e manter actualizado o inventário dos bens do GRI;
+
+g) Realizar as acções necessárias à aquisição, conservação, reparação, locação e alienação de quaisquer bens móveis ou imóveis afectos ao GRI;
+
+h) Zelar pela segurança e higiene dos edifícios em que os serviços se encontram instalados.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+### Capítulo III — Administração financeira e patrimonial
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+###### Artigo 10.º — Instrumentos de gestão
+
+1 - A gestão financeira e patrimonial do GRI é disciplinada pelos seguintes instrumentos de gestão previsional:
+
+a) Plano anual de actividades;
+
+b) Orçamento anual;
+
+c) Relatórios de actividades e financeiro.
+
+2 - Sem prejuízo do disposto no número anterior, podem ainda ser elaborados programas plurianuais de actividades e financeiros.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+###### Artigo 11.º — Receitas
+
+1 - Constituem receitas do GRCI, além das dotações que lhe sejam atribuídas no Orçamento do Estado:
+
+a) Os subsídios e comparticipações que lhe forem concedidos por quaisquer entidades de direito público ou privado, nacionais ou estrangeiras;
+
+b) O produto da venda de publicações e outros trabalhos editados pelo GRI, bem como dos direitos de propriedade intelectual aos mesmos referentes;
+
+c) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+d) As receitas provenientes de subsídios ou outros donativos de instituições nacionais ou estrangeiras, as resultantes de publicações e edições, qualquer que seja o suporte, de reproduções de obras de arte, de medalhas e de bilhetes de ingresso.
+
+2 - As receitas enumeradas no número anterior são afectas ao pagamento das despesas do GRI mediante inscrição de dotações com compensação em receitas.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+### Capítulo IV — Pessoal
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+###### Artigo 12.º — Quadros de pessoal
+
+1 - O GRCI dispõe do quadro de pessoal dirigente constante do mapa anexo ao presente diploma, que deste faz parte integrante.
+
+2 - O GRCI dispõe também de um quadro de pessoal sujeito ao regime da função pública, a aprovar por portaria conjunta dos Ministros das Finanças e da Cultura.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+###### Artigo 13.º — Transição de pessoal
+
+1 - O pessoal que integra o actual quadro de pessoal do GRI transita para o quadro previsto no n.º 2 do artigo anterior, para a mesma carreira, categoria e escalão que possui, sem prejuízo dos processos de reclassificação profissional que se justifiquem de acordo com o Decreto-Lei n.º 497/99, de 19 de Novembro.
+
+2 - A transição de pessoal para o quadro do DGCPRI é feita por lista nominativa aprovada por despacho do Ministro da Cultura, sujeita a publicação no Diário da República.
+
+3 - A transição de pessoal para o quadro do GRI é feita por lista nominativa aprovada por despacho do Ministro da Cultura, sujeita a fiscalização prévia do Tribunal de Contas e publicação no Diário da República.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 255/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2002-448749), em vigor a partir de 2002-11-23
+
+###### Artigo 14.º — Distribuição de pessoal pelos serviços
+
+A distribuição de pessoal pelos diversos serviços é feita mediante despacho do director do GRI, tendo em conta as necessidades de serviço e as qualificações dos funcionários.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+### Capítulo V — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+###### Artigo 15.º — Cessação das comissões de serviço
+
+1 - Com a entrada em vigor do presente diploma cessam as comissões de serviço do pessoal dirigente anteriormente nomeado em cargos dirigentes do GRCI.
+
+2 - Sem prejuízo do disposto no número anterior e até à nomeação dos novos titulares, o pessoal referido manter-se-á em funções de gestão corrente nas unidades orgânicas que sucedam ou integrem funcionalmente as competências daquelas em que se encontravam nomeados.
+
+3 - A identificação nominal das situações previstas no número anterior será efectuada por despacho do Ministro da Cultura.
+
+4 - Sempre que a complexidade e responsabilidade do conteúdo funcional dos cargos referidos o justificar, poderão os mesmos, alternativamente, ser exercidos em regime de substituição, podendo tal nomeação recair nos titulares das comissões de serviço cessantes.
+
+5 - O disposto no número anterior não prejudica a possibilidade da sua renomeação nos novos cargos, nos termos da lei.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+###### Artigo 16.º — Concursos, contratos, requisições e destacamentos
+
+1 - Mantêm-se válidos os concursos abertos anteriormente à data de entrada em vigor do presente diploma, bem como os contratos de pessoal que se encontrem em execução, exceptuada a ocorrência, automática ou superveniente, de fundamentação para a sua cessação a qualquer título.
+
+2 - Mantêm-se até ao termo da sua validade, salvo despacho em contrário a emitir no prazo de 30 dias após a transição para o novo quadro de pessoal, as requisições e destacamentos de pessoal do GRCI noutros serviços ou destes no GRCI.
+
+3 - Até à aprovação do quadro de pessoal do GRI, mantêm-se ao serviço os funcionários da ex-Direcção-Geral dos Serviços de Gestão e Organização que aí desempenhem funções.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+###### Artigo 17.º — Sucessão
+
+Todas as referências feitas na lei ou em negócio jurídico ao GRCI entendem-se feitas ao GRI, a partir da data da entrada em vigor do presente diploma
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+###### Artigo 18.º — Norma revogatória
+
+São revogados os Decretos Regulamentares n.os 56/81, de 22 de Dezembro, e 13/83, de 22 de Fevereiro.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da respectiva publicação.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+Visto e aprovado em Conselho de Ministros de 16 de Dezembro de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Fernando Teixeira dos Santos - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.
+
+Promulgado em 14 de Fevereiro de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 18 de Fevereiro de 1997.
+
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01
+
+## Anexo — Quadro de pessoal dirigente do GRI a que se refere o artigo 12.º
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 33/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-2007-520448), em vigor a partir de 2007-04-01

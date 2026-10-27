@@ -1,0 +1,361 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:315339:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-156102037",
+ "dre_path": "/dr/detalhe/decreto-lei/323-f-2000-315339",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156106101",
+    "156106102",
+    "156106103",
+    "156106105",
+    "156106111",
+    "156106117",
+    "156106104",
+    "156106106",
+    "156106107",
+    "156106108",
+    "156106109",
+    "156106110",
+    "156106112",
+    "156106113",
+    "156106114",
+    "156106115",
+    "156106116",
+    "156106118",
+    "156106119",
+    "156106120",
+    "156106121",
+    "156106122",
+    "156106123",
+    "156106124",
+    "156106125",
+    "156106126",
+    "156106127"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "156106101",
+    "156106102",
+    "156106103",
+    "156256234",
+    "156256237",
+    "156256240",
+    "156106106",
+    "156106107",
+    "156106108",
+    "156106109",
+    "156106110",
+    "156106112",
+    "156106113",
+    "156106114",
+    "156106115",
+    "156106116",
+    "156106128",
+    "156106119",
+    "156106129",
+    "156106121",
+    "156106122",
+    "156106130",
+    "156106124",
+    "156106125",
+    "156106126",
+    "156106127"
+   ]
+  }
+ ],
+ "fragments": {
+  "156106101": {
+   "fragment_id": "156102038",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 323-F/2000\n\nde 20 de Dezembro\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2000&id=300R1760\" title=\"Link para Regulamento da Comunidade Europeia\">1760/2000</a>, do Parlamento Europeu e do Conselho, de 17 de Julho, estabelece um regime de identificação e registo de bovinos, bem como um regime relativo à rotulagem da carne de bovino e dos produtos à base de carne de bovino, e revogou o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1997&id=397R0820\" title=\"Link para Regulamento da Comunidade Europeia\">820/97</a>, do Conselho, de 21 de Abril.\n\nAs regras de execução deste regime foram estabelecidas pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2000&id=300R1825\" title=\"Link para Regulamento da Comunidade Europeia\">1825/2000</a>, da Comissão, de 25 de Agosto.\n\nO regime instituído por aqueles regulamentos tem por finalidade dar satisfação a certas exigências de interesse público, nomeadamente quanto à protecção da saúde humana e da sanidade animal, por forma a manter e reforçar a confiança do consumidor na carne de bovino e dos produtos à base de carne de bovino.\n\nÉ, desse modo, instituído o cumprimento obrigatório de um determinado número de requisitos relativos a rotulagem da carne de bovinos e dos produtos à base de carne de bovinos.\n\nÉ igualmente instituído, um regime de rotulagem facultativa para as indicações não exigidas pelo regime de rotulagem obrigatória, pelo que se torna necessário proceder à definição das entidades competentes para a aplicação desse regime.\n\nResulta também do regime instituído que cabe a cada Estado membro criar o seu próprio regime de sanções, bem como todas as medidas necessárias para uma correcta aplicação da regulamentação comunitária em questão, pelo que se impõe que se estabeleçam as contra-ordenações e coimas que lhes devem corresponder.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos do disposto na alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156106102": {
+   "fragment_id": "156102039",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente decreto-lei estabelece as regras a que deve obedecer a rotulagem obrigatória e facultativa da carne de bovino, desde o abate, e enquanto esta mantenha as características próprias dos seus tecidos musculares, até à entrada em unidades transformadoras ou à venda ao consumidor final, bem como estabelecer o respectivo regime sancionatório.\n\n2 - A rotulagem obrigatória abrange toda a carne de bovino, fresca, refrigerada e congelada, que se integre nos códigos constantes do artigo 12.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2000&id=300R1760\" title=\"Link para Regulamento da Comunidade Europeia\">1760/2000</a>, do Parlamento Europeu e do Conselho, de 17 de Julho.\n\n3 - O presente diploma aplica-se igualmente à carne de bovino destinada a ser fornecida a restaurantes, hotéis, hospitais, cantinas e outras actividades similares.\n\n4 - O disposto no presente diploma é aplicável sem prejuízo do disposto no Decreto-Lei n.º 560/99, de 18 de Dezembro, e demais legislação comunitária ou nacional relativa à carne de bovino e aos produtos à base de carne de bovino, designadamente a relativa à protecção das medidas geográficas e denominações de origem dos produtos agrícolas e dos géneros alimentícios."
+  },
+  "156106103": {
+   "fragment_id": "156102040",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos de aplicação do disposto neste diploma, e sem prejuízo das definições constantes do artigo 12.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2000&id=300R1760\" title=\"Link para Regulamento da Comunidade Europeia\">1760/2000</a>, do Parlamento Europeu e do Conselho, de 17 de Julho, e do artigo 5.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2000&id=300R1825\" title=\"Link para Regulamento da Comunidade Europeia\">1825/2000</a>, da Comissão, de 25 de Agosto, entende-se por:\n\na) Carne pré-embalada - carne acondicionada em embalagem, antes de ser apresentada para venda, de forma que não possa ser alterada sem violação da respectiva embalagem, incluindo aquela que se destina à venda imediata de acordo com o disposto na alínea c) do n.º 1 do artigo 4.º do Decreto-Lei n.º 560/99, de 18 de Dezembro, e a carne pré-acondicionada - embalagem do dia - referida no n.º 1 do artigo 19.º do anexo ao Decreto-Lei n.º 158/97, de 24 de Junho;\n\nb) Carne não pré-embalada - carne apresentada para venda ao consumidor final avulso e carne acondicionada no posto de venda a pedido do comprador;\n\nc) Lote - grupo de animais cujas carcaças ou carne, desmanchadas ou cortadas em estabelecimentos de desmancha aprovados, apresentem as menções obrigatórias nos respectivos rótulos iguais entre si, de acordo com o disposto nas alíneas b) e c) dos n.os 2 e 5 do artigo 13.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2000&id=300R1760\" title=\"Link para Regulamento da Comunidade Europeia\">1760/2000</a>, do Parlamento Europeu e do Conselho, de 17 de Julho, não podendo a dimensão do grupo, em caso algum, exceder a produção de um dia desse mesmo estabelecimento, ou carne picada, em estabelecimentos aprovados para o efeito, a partir de todos os grupos referidos anteriormente, desde que picados no mesmo dia e proveniente do mesmo país de abate."
+  },
+  "156106105": {
+   "fragment_id": "156102042",
+   "type": 1,
+   "heading": "Capítulo I — Regime de rotulagem obrigatória da carne de bovino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Regime de rotulagem obrigatória da carne de bovino"
+  },
+  "156106111": {
+   "fragment_id": "156102048",
+   "type": 1,
+   "heading": "Capítulo II — Regime de rotulagem facultativa da carne de bovino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime de rotulagem facultativa da carne de bovino"
+  },
+  "156106117": {
+   "fragment_id": "156102054",
+   "type": 1,
+   "heading": "Capítulo III — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições gerais"
+  },
+  "156106104": {
+   "fragment_id": "156102041",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "156106106": {
+   "fragment_id": "156102043",
+   "type": 11,
+   "heading": "Artigo 3.º — Menções obrigatórias no rótulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Menções obrigatórias no rótulo\n\n1 - O rótulo deve conter as seguintes indicações:\n\na) Um número ou código de referência que assegure a relação entre a carne de bovino e o animal ou animais. Este número pode ser o número de identificação do animal específico de que a carne provem ou o número de identificação a um grupo de animais;\n\nb) O número de aprovação do matadouro em que o animal ou grupo de animais foi abatido e o Estado membro ou país terceiro em que se encontra estabelecido o matadouro. A indicação deve ser feita nos seguintes termos: «batido em: (nome do Estado membro ou do país terceiro) (número da aprovação)»\n\nc) O número de aprovação do estabelecimento de desmancha em que a carcaça ou o grupo de carcaças foi desmanchado e o Estado membro ou país terceiro em que se encontra estabelecido. A indicação deve ser feita nos seguintes termos: «Desmancha em: (nome do Estado membro ou do país terceiro) (número da aprovação)».\n\n2 - Adicionalmente, a partir de 1 de Janeiro de 2002, o rótulo deve conter as seguintes menções:\n\na) O nome do Estado membro ou o país terceiro de nascimento;\n\nb) Os nomes dos Estados membros ou dos países terceiros em que se processou a engorda;\n\nc) O nome do Estado membro ou do país terceiro em que ocorreu o abate.\n\n3 - Contudo, se a carne de bovino provier de animais nascidos, criados e abatidos:\n\na) No mesmo Estado membro, a indicação pode ser «Origem: (nome do Estado membro e, facultativamente, o símbolo nacional)»;\n\nb) Num mesmo país terceiro, a indicação pode ser «Origem: (nome do país terceiro e, facultativamente, o símbolo nacional)».\n\n4 - No caso da carne proveniente de bovinos nascidos, criados e abatidos em Portugal, o disposto no número anterior aplica-se a partir de 1 de Janeiro de 2001.\n\n5 - Em derrogação ao disposto no n.º 1:\n\na) No caso da carne picada, o rótulo deve cumprir as disposições do artigo 14.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2000&id=300R1760\" title=\"Link para Regulamento da Comunidade Europeia\">1760/2000</a>, do Parlamento Europeu e do Conselho, de 17 de Julho, incluindo aquela que resultar da mistura de carne de varias espécies, quando a percentagem de carne de bovino, relativamente ao total de carne picada, for superior a 50%;\n\nb) No caso de carne de bovino proveniente de países terceiros, o rótulo deve respeitar as disposições previstas no artigo 15.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2000&id=300R1760\" title=\"Link para Regulamento da Comunidade Europeia\">1760/2000</a>, do Parlamento Europeu e do Conselho, de 17 de Julho.\n\n6 - Não é aplicável à rotulagem da carne de bovino o disposto na alínea f) do n.º 2 do artigo 3.º do Decreto-Lei n.º 560/99, de 18 de Dezembro."
+  },
+  "156106107": {
+   "fragment_id": "156102044",
+   "type": 11,
+   "heading": "Artigo 4.º — Características do rótulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Características do rótulo\n\nCaso o rótulo seja colocado directamente sobre a carne, ele deverá ser inviolável, impermeável e resistente ao rasgamento; deverá também ser de um material que obedeça a todas as regras de higiene e, nomeadamente, que não altere as características organolépticas da carne e ou não transmita a esta substâncias nocivas à saúde humana."
+  },
+  "156106108": {
+   "fragment_id": "156102045",
+   "type": 11,
+   "heading": "Artigo 5.º — Aposição do rótulo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aposição do rótulo\n\n1 - O rótulo deverá ser aposto de maneira a não se perder nem ser facilmente removível e deverá ser colocado:\n\na) No caso das carcaças, na face externa de cada um dos quartos traseiros e quartos dianteiros;\n\nb) No caso da carne em peças, directamente sobre a peça ou nas respectivas embalagens;\n\nc) No caso da carne resultante do corte fino e da carne picada, directamente sobre as respectivas embalagens.\n\n2 - Tratando-se de carne não pré-embalada para venda ao consumidor final, o rótulo poderá ser colocado no expositor, junto à peça ou peças de carne a que se refere, desde que em local visível e perfeitamente identificável com a carne em questão.\n\n3 - Quando toda a carne em exposição no estabelecimento de venda ao consumidor final, num determinado período temporal, tiver o mesmo rótulo, este poderá ser substituído, durante esse período, por um letreiro que retome as informações do rótulo proveniente da fase de comercialização imediatamente anterior."
+  },
+  "156106109": {
+   "fragment_id": "156102046",
+   "type": 11,
+   "heading": "Artigo 6.º — Modo de apresentação das indicações obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Modo de apresentação das indicações obrigatórias\n\n1 - As menções referidas no artigo 3.º devem ser inscritas em caracteres indeléveis, facilmente visíveis e legíveis, redigidas em termos claros e precisos, não podendo qualquer delas ser dissimulada ou encoberta por outras menções ou imagens, nem autorizada qualquer sobreposição.\n\n2 - As menções e os símbolos nacionais constantes nos rótulos devem ter:\n\na) No caso das letras e dos números, no mínimo, 6 mm de altura à saída do matadouro e 2 mm de altura, no mínimo, à saída da sala de desmancha e do estabelecimento de picagem;\n\nb) No caso dos símbolos nacionais, no máximo, um oitavo da superfície do rótulo.\n\n3 - Os estabelecimentos de venda ao consumidor final devem cumprir as exigências mínimas referidas no número anterior, devendo as menções obrigatórias referidas no artigo 3.º encontrar-se de forma evidente e destacada relativamente às restantes menções constantes do rótulo.\n\n4 - O nome dos países deve ser escrito por extenso e em letras maiúsculas.\n\n5 - No caso do rótulo da carne proveniente de bovinos nascidos, criados e abatidos em Portugal, as indicações obrigatórias referidas no artigo 3.º e o símbolo nacional deverão ser apresentados de acordo com o modelo aprovado por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "156106110": {
+   "fragment_id": "156102047",
+   "type": 11,
+   "heading": "Artigo 7.º — Registos obrigatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Registos obrigatórios\n\n1 - Todos os operadores envolvidos no circuito de comercialização da carne de bovino são obrigados a manter um registo actualizado, manual ou informático ou documental, de entradas e saídas de carcaças e ou carne, em cada fase da produção e da venda, de modo a assegurar a veracidade da informação contida no rótulo.\n\n2 - Nos registos deverá estar demonstrado com clareza a formação dos lotes, quando esta se verifique.\n\n3 - Na carne de bovino em circulação, nomeadamente na destinada a ser fornecida às entidades referidas no n.º 3 do artigo 1.º do presente diploma, deverão constar dos respectivos documentos de acompanhamento, caso a carne não se encontre rotulada, as menções obrigatórias que permitam assegurar a rasteabilidade da mesma.\n\n4 - Estes registos devem ser mantidos durante três anos, podendo os organismos competentes para a fiscalização solicitar a consulta dos mesmos a qualquer momento até ao termo do prazo acima referido."
+  },
+  "156106112": {
+   "fragment_id": "156102049",
+   "type": 11,
+   "heading": "Artigo 8.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Âmbito\n\nCaso os operadores pretendam incluir nos rótulos quaisquer outras indicações que não as expressamente previstas no capítulo I do presente diploma e na restante legislação comunitária e nacional em vigor, deverão fazê-lo em conformidade com as regras da secção II do título II do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2000&id=300R1760\" title=\"Link para Regulamento da Comunidade Europeia\">1760/2000</a>, do Parlamento Europeu e do Conselho, de 17 de Julho, e do presente capítulo."
+  },
+  "156106113": {
+   "fragment_id": "156102050",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência\n\n1 - No âmbito deste capítulo compete ao Gabinete de Planeamento e Política Agro-Alimentar, adiante designado por GPPAA:\n\na) Receber, analisar e aprovar o caderno de especificações, bem como revogar a respectiva aprovação;\n\nb) Autorizar a inclusão no rótulo de outras menções para alem das expressamente previstas no título II, secção I, do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2000&id=300R1760\" title=\"Link para Regulamento da Comunidade Europeia\">1760/2000</a>, do Parlamento Europeu e do Conselho, de 17 de Julho;\n\nc) Reconhecer os organismos independentes de controlo, bem como revogar os reconhecimentos;\n\nd) Organizar um registo central e actualizado das especificações aprovadas e, nomeadamente, de todos os operadores e organizações responsáveis pela rotulagem da carne de bovino, indicando o organismo independente de controlo encarregado dos controlos;\n\ne) Promover a publicação anual de um inventário actualizado, contendo as listas dos organismos de controlo reconhecidos e dos operadores e organizações profissionais abrangidos pelos cadernos de especificações aprovados;\n\nf) Notificar a comissão das regras de execução, controlos e sanções aplicáveis;\n\ng) Comunicar, trimestralmente, à Comissão uma actualização da lista de todas as indicações facultativas aprovadas em Portugal.\n\n2 - O disposto nas alíneas a) e b) do número anterior deve ser precedido de parecer prévio da Direcção-Geral do Desenvolvimento Rural, a emitir no prazo de 15 dias úteis a contar da data de recepção do pedido."
+  },
+  "156106114": {
+   "fragment_id": "156102051",
+   "type": 11,
+   "heading": "Artigo 10.º — Reconhecimento dos organismos independentes de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reconhecimento dos organismos independentes de controlo\n\n1 - Os organismos independentes de controlo devem satisfazer os critérios estabelecidos na norma europeia EN 45011.\n\n2 - Os organismos independentes de controlo deverão apresentar:\n\na) O plano tipo de controlo a executar, contemplando a descrição pormenorizada das acções de controlo, sua natureza e frequência e respectivos registos;\n\nb) As medidas correctivas e as sanções previstas em caso de verificação de irregularidades.\n\n3 - Os procedimentos referidos nos números anteriores serão reavaliados, pelo menos, anualmente.\n\n4 - Um organismo independente de controlo pode ser reconhecido para diversos produtos, devendo, no entanto, o reconhecimento ser obtido caso a caso."
+  },
+  "156106115": {
+   "fragment_id": "156102052",
+   "type": 11,
+   "heading": "Artigo 11.º — Manutenção do reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Manutenção do reconhecimento\n\n1 - A manutenção do reconhecimento obriga o organismo independente de controlo a:\n\na) Assegurar as funções para as quais foi reconhecido;\n\nb) Manter o GPPAA informado sobre eventuais alterações efectuadas nos procedimentos que serviam de base à avaliação inicial;\n\nc) Instituir procedimentos de cooperação com o GPPAA, designadamente facultando o acesso dos funcionários e agentes às suas instalações e fornecendo todas as informações solicitadas;\n\nd) Enviar, anualmente e nos prazos requeridos, a lista dos produtores e transformadores sujeitos ao regime de controlo, bem como o seu relatório de actividades;\n\ne) Cumprir os demais requisitos específicos constantes dos regulamentos comunitários aplicáveis.\n\n2 - O reconhecimento pode ser revogado quando se verifique o incumprimento face ao estipulado no número anterior ou a solicitação do próprio organismo de controlo."
+  },
+  "156106116": {
+   "fragment_id": "156102053",
+   "type": 11,
+   "heading": "Artigo 12.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Publicação\n\n1 - A síntese dos principais elementos de cada caderno de especificações e o respectivo rótulo serão publicados no Diário da República, 2.ª série, podendo, no prazo de 15 dias a contar da publicação, ser deduzida oposição.\n\n2 - O reconhecimento de um organismo independente de controlo, bem como a sua revogação, fica sujeito à publicação dos respectivos avisos no Diário da República, 2.ª série."
+  },
+  "156106118": {
+   "fragment_id": "156102055",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\nCompete à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar, à Direcção-Geral de Veterinária e às direcções regionais de agricultura assegurar o cumprimento das normas do presente diploma e as suas disposições regulamentares, sem prejuízo das competências atribuídas por lei a outras entidades."
+  },
+  "156106119": {
+   "fragment_id": "156102056",
+   "type": 11,
+   "heading": "Artigo 14.º — Restrições à comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Restrições à comercialização\n\n1 - Sempre que a carne de bovino não tenha sido rotulada de acordo com a legislação em vigor, deverá a mesma ser retirada do mercado até que se proceda à rotulagem em conformidade com as regras estabelecidas.\n\n2 - Se a carne a que se refere o número anterior não for rotulada de novo em conformidade com o disposto no presente diploma, mas respeitar todas as normas veterinárias e de higiene em vigor, poderá ser directamente enviada para transformação em produtos à base de carne."
+  },
+  "156106120": {
+   "fragment_id": "156102057",
+   "type": 11,
+   "heading": "Artigo 15.º — Tipificação das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Tipificação das contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima, cujo montante mínimo é de 50000$00 ou 250000$00 e o máximo de 750000$00 ou 9000000$00, consoante o agente seja pessoa singular ou colectiva:\n\na) A falta, inexactidão ou deficiência das indicações na rotulagem da carne de bovino;\n\nb) A existência na rotulagem de indicações não permitidas ou a utilização abusiva dos distintivos previstos na legislação;\n\nc) A alteração, ocultação ou danificação das indicações obrigatórias constantes no rótulo;\n\nd) O incumprimento das obrigações resultantes do caderno de especificações;\n\ne) O incumprimento das regras de aposição e apresentação dos rótulos;\n\nf) O incumprimento das regras relativas ao modo de apresentação das menções;\n\ng) A falta, inexactidão ou deficiência nos registos, assim como o incumprimento do prazo para conservação dos mesmos;\n\nh) O incumprimento quanto às regras para a formação de lotes.\n\n2 - A tentativa e a negligência são puníveis."
+  },
+  "156106121": {
+   "fragment_id": "156102058",
+   "type": 11,
+   "heading": "Artigo 16.º — Entidades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entidades responsáveis\n\n1 - Para efeitos de aplicação das respectivas coimas, são considerados responsáveis pela violação das regras previstas no presente diploma os operadores e as organizações obrigadas a rotular, a qualquer nível da comercialização, incluindo aqueles que o pretendam fazer no ponto de venda.\n\n2 - São igualmente responsáveis todos os outros operadores que, apesar de não obrigados a rotular, intervenham no circuito comercial da carne."
+  },
+  "156106122": {
+   "fragment_id": "156102059",
+   "type": 11,
+   "heading": "Artigo 17.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Sanções acessórias\n\n1 - Das decisões definitivas que, no âmbito do disposto no presente diploma, sancionem infracções de especial gravidade, pode ser dada publicidade pela entidade que as aplicar, sendo os respectivos encargos suportados pelo infractor.\n\n2 - A publicidade a que se refere o número anterior será efectivada pela publicação do extracto da decisão definitiva num jornal nacional de grande tiragem, bem como pela afixação de edital, por período não inferior a 30 dias, no próprio estabelecimento comercial ou industrial ou no local do exercício da actividade, por forma que seja bem visível ao público.\n\n3 - Nos casos em que a sanção aplicada resulte do incumprimento das obrigações constantes do caderno de especificações aprovado, no âmbito do regime de rotulagem facultativa, poderá ser retirada a respectiva aprovação.\n\n4 - Constituem ainda sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças e alvarás;\n\nc) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nd) Suspensão de autorizações, licenças e alvarás, pelo prazo de dois anos, contados a partir da decisão condenatória definitiva."
+  },
+  "156106123": {
+   "fragment_id": "156102060",
+   "type": 11,
+   "heading": "Artigo 18.º — Instrução dos processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Instrução dos processos de contra-ordenação\n\n1 - A aplicação das coimas e sanções acessórias compete ao director-geral de Fiscalização e Controlo da Qualidade Alimentar.\n\n2 - A entidade que levantar o auto de notícia instruirá igualmente o competente processo de contra-ordenação.\n\n3 - A afectação do produto das coimas cobradas far-se-á da seguinte forma:\n\na) 20% para a entidade que levantou o auto e instruiu o processo;\n\nb) 20% para a entidade que aplicou a coima;\n\nc) 60% para os cofres do Estado."
+  },
+  "156106124": {
+   "fragment_id": "156102061",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições complementares\n\nSerão definidas por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas as normas de execução do presente diploma."
+  },
+  "156106125": {
+   "fragment_id": "156102062",
+   "type": 11,
+   "heading": "Artigo 20.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regiões Autónomas\n\nNas Regiões Autónomas dos Açores e da Madeira, o controlo e fiscalização do cumprimento das normas estabelecidas no presente diploma cabem aos serviços competentes das respectivas administrações regionais."
+  },
+  "156106126": {
+   "fragment_id": "156102063",
+   "type": 11,
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\nÉ revogado o Despacho Normativo n.º 40/97, de 31 de Julho."
+  },
+  "156106127": {
+   "fragment_id": "156102064",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 30 de Novembro de 2000. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Mário Cristina de Sousa - Luís Manuel Capoulas Santos.\n\nPromulgado em 19 de Dezembro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 19 de Dezembro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "156256234": {
+   "fragment_id": "156102042",
+   "type": 1,
+   "heading": "Capítulo I — Regime de rotulagem obrigatória da carne de bovino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Regime de rotulagem obrigatória da carne de bovino"
+  },
+  "156256237": {
+   "fragment_id": "156102048",
+   "type": 1,
+   "heading": "Capítulo II — Regime de rotulagem facultativa da carne de bovino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime de rotulagem facultativa da carne de bovino"
+  },
+  "156256240": {
+   "fragment_id": "156102054",
+   "type": 1,
+   "heading": "Capítulo III — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições gerais"
+  },
+  "156106128": {
+   "fragment_id": "156102055",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\nSem prejuízo das competências atribuídas por lei a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento das normas do presente diploma e as suas disposições regulamentares.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156106129": {
+   "fragment_id": "156102057",
+   "type": 11,
+   "heading": "Artigo 15.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 15.º — Contraordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A falta, inexactidão ou deficiência das indicações na rotulagem da carne de bovino;\n\nb) A existência na rotulagem de indicações não permitidas ou a utilização abusiva dos distintivos previstos na legislação;\n\nc) A alteração, ocultação ou danificação das indicações obrigatórias constantes no rótulo;\n\nd) O incumprimento das obrigações resultantes do caderno de especificações;\n\ne) O incumprimento das regras de aposição e apresentação dos rótulos;\n\nf) O incumprimento das regras relativas ao modo de apresentação das menções;\n\ng) A falta, inexactidão ou deficiência nos registos, assim como o incumprimento do prazo para conservação dos mesmos;\n\nh) O incumprimento quanto às regras para a formação de lotes.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156106130": {
+   "fragment_id": "156102060",
+   "type": 11,
+   "heading": "Artigo 18.º — Instrução e decisão",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 18.º — Instrução e decisão\n\n1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

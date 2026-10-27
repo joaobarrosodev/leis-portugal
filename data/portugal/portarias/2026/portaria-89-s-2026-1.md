@@ -1,0 +1,399 @@
+---
+schema_version: '1.0'
+id: pt:dre:1058814981:por
+title: Portaria n.º 89-S/2026/1
+short_title: null
+summary: Aprova o plano de gestão da Zona Especial de Conservação (ZEC) Rio Minho (PTCON0019) e da Zona de Proteção Especial
+  (ZPE) Estuários dos Rios Minho e Coura (PTZPE0001).
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Economia e Coesão Territorial, Ambiente e Energia e Agricultura e Mar
+proposing_entity: null
+official_number: 89-S/2026/1
+official_date: null
+publication_date: '2026-02-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/2026, Suplemento, Série I de 2026-02-23
+  number: '37'
+  series: I
+  supplement: null
+  pages: 111 - 144
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/02/03704/0011100144.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/89-s/2026/02/23/p/dre/pt/html
+  oj: null
+  dre: '1058814981'
+  dre_path: /dr/detalhe/portaria/89-s-2026-1058814981
+  internal: pt:dre:1058814981:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-s-2026-1058814981
+  metadata_url: https://data.dre.pt/eli/port/89-s/2026/02/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-s-2026-1058814981
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:33:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d550e43aef13f44152bc804de413dca6c4d07fc2271fc315778cb5b648fe2af8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:33:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Avaliação de Impacte Ambiental
+- Contraordenação
+- Diversidade Biológica
+- Espécie Protegida
+- Instituto da Conservação da Natureza e das Florestas
+- Ordenamento do Território
+- Proteção do Ambiente
+- Proteção dos Animais
+- Rede Natura 2000
+- Regulamentação de Atos Legislativos
+- RIO Minho
+- Vida Selvagem
+- ZONA de Protecção Especial dos Estuarios dos RIOS Minho e Coura
+- Zona Especial de Conservação
+relationships:
+- type: cites
+  target: pt:dre:1025550890:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/19/2026/01/27/p/dre
+- type: cites
+  target: pt:dre:130273578:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/1/2020/03/16/p/dre
+- type: cites
+  target: pt:dre:154987:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/384-b/1999/09/23/p/dre
+- type: cites
+  target: pt:dre:531828:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/140/1999/04/24/p/dre
+- type: cites
+  target: pt:dre:536213:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/156-a/2013/11/08/p/dre
+- type: cites
+  target: pt:dre:608175:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/49/2005/02/24/p/dre
+- type: cites
+  target: pt:dre:926483751:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/87-a/2025/07/25/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:33:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 89-S/2026/1
+
+de 23 de fevereiro
+
+O [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, procedeu à designação como Zona Especial de Conservação (ZEC) do Sítio de Importância Comunitária (SIC) Rio Minho (PTCON0019), identificando a respetiva área e coordenadas geográficas, assim como a sua localização e limites geográficos. O referido diploma determinou, ainda, que as medidas e ações complementares de conservação de habitats e espécies são definidas em planos de gestão, a aprovar por portaria nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, alterado pelos Decretos-Leis n.os[49/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), de 24 de fevereiro, e [156-A/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), de 8 de novembro.
+
+Paralelamente, ao abrigo da Diretiva Aves e conforme previsto no artigo 6.º do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação original, então vigente, o [Decreto-Lei n.º 384-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1999-154987), de 23 de setembro, procedeu à classificação da Zona de Proteção Especial (ZPE) Estuários dos Rios Minho e Coura (PTZPE0001), cuja área, delimitada nos termos do artigo 2.º e do anexo i do referido decreto-lei, na sua redação atual, se sobrepõe parcialmente à da ZEC Rio Minho.
+
+Posteriormente, o [Decreto-Lei n.º 19/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2026-1025550890), de 27 de janeiro, completou o processo de classificação da ZEC Rio Minho, ao contemplar no respetivo plano de gestão a identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens protegidos, constantes dos anexos i e ii da Diretiva Habitats com presença significativa na sua área, e fixar, em função das características específicas do seu território e das exigências ecológicas desses tipos de habitat e espécies, objetivos de conservação direcionados à manutenção ou ao restabelecimento do seu estado de conservação favorável, para além de especificar medidas de conservação aplicáveis às espécies de aves com presença significativa na ZPE Estuários dos Rios Minho e Coura, visando assegurar os objetivos de conservação específicos destas espécies.
+
+Com vista à prossecução dos objetivos fixados, o referido decreto-lei definiu, ainda, medidas de conservação preventivas e regulamentares, tipificadas em medidas de ordenamento do território e medidas de gestão necessárias para evitar a deterioração dos tipos de habitat naturais e seminaturais e dos habitats das espécies protegidas e com presença significativa na ZEC e na ZPE, bem como a perturbação significativa dessas espécies.
+
+Neste contexto, cumpre agora aprovar o plano de gestão da ZEC Rio Minho e da ZPE Estuários dos Rios Minho e Coura, numa abordagem integrada que dê resposta às exigências ecológicas específicas da ZEC e da ZPE, procedendo à identificação dos tipos de habitat naturais e seminaturais e das espécies da flora e fauna selvagens com presença significativa na sua área e que justificaram o seu reconhecimento como SIC pela Comissão Europeia e a sua subsequente classificação como ZEC, incluindo as tendências populacionais favoráveis das espécies de aves com ocorrência regular na ZPE, bem como adotando um conjunto de medidas e ações de conservação complementares, designadamente medidas de gestão ativa e de suporte, conforme o disposto no artigo 13.º do [Decreto-Lei n.º 19/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2026-1025550890), de 27 de janeiro. O plano de gestão da ZEC Rio Minho e da ZPE Estuários dos Rios Minho e Coura tem também por função estabelecer as prioridades de conservação da zona, identificando as espécies e os tipos de habitat protegidos com presença significativa na ZEC e na ZPE em relação aos quais se impõem medidas mais urgentes.
+
+Assim, ao abrigo do disposto na alínea a) do n.º 3 do artigo 7.º e nos n.os1 e 2 do artigo 7.º-B do [Decreto-Lei n.º 140/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828), de 24 de abril, na sua redação atual, no artigo 5.º do [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, e no artigo 13.º do [Decreto-Lei n.º 19/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2026-1025550890), de 27 de janeiro, em conjugação com os artigos 15.º, 25.º e 27.º do [Decreto-Lei n.º 87-A/2025](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2025-926483751), de 25 de julho, na sua redação atual, que aprova o regime de organização e funcionamento do XXV Governo Constitucional, manda o Governo, pelo Ministro da Economia e da Coesão Territorial, pela Ministra do Ambiente e Energia e pelo Ministro da Agricultura e Mar, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria aprova o plano de gestão da Zona Especial de Conservação (ZEC) Rio Minho e da Zona de Proteção Especial (ZPE) Estuários dos Rios Minho e Coura, anexo à presente portaria e que dela faz parte integrante.
+
+###### Artigo 2.º — Âmbito
+
+1 - O plano de gestão da ZEC Rio Minho e da ZPE Estuários dos Rios Minho e Coura identifica os tipos de habitat naturais e seminaturais e as espécies da flora e fauna selvagens com presença significativa, incluindo as tendências populacionais favoráveis das espécies de aves com ocorrência regular, na ZEC Rio Minho e ZPE Estuários dos Rios Minho e Coura e adota medidas e ações complementares de conservação.
+
+2 - O plano de gestão da ZEC Rio Minho e da ZPE Estuários dos Rios Minho e Coura deve ser aplicado em conjunto e simultaneamente com o [Decreto Regulamentar n.º 1/2020](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2020-130273578), de 16 de março, com o [Decreto-Lei n.º 384-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-b-1999-154987), de 23 de setembro, na sua redação atual, e com o [Decreto-Lei n.º 19/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2026-1025550890), de 27 de janeiro, que fixou os objetivos específicos para a sua conservação e estabeleceu as medidas de conservação de natureza regulamentar necessárias para atingir esses objetivos e os objetivos de conservação das espécies de aves protegidas de ocorrência regular na ZPE.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 20 de fevereiro de 2026.
+
+O Ministro da Economia e da Coesão Territorial, Manuel Castro Almeida. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho. - O Ministro da Agricultura e Mar, José Manuel Fernandes.
+
+## ANEXO — (a que se refere o artigo 1.º)
+
+PLANO DE GESTÃO DA ZEC RIO MINHO (PTCON0019) E DA ZPE ESTUÁRIOS DOS RIOS MINHOE COURA (PTZPE0001)
+
+LOCALIZAÇÃO
+
+A ZEC Rio Minho e a ZPE Estuários dos Rios Minho e Coura abrangem uma área total aproximada de 5140 ha e a sua área terrestre localiza-se nos concelhos de Caminha, Vila Nova de Cerveira, Valença, Monção e Melgaço, conforme se apresenta no Quadro 1. A ZEC Rio Minho abrange 4371 ha e a ZPE Estuários dos Rios Minho e Coura 3393 ha (incluindo neste caso uma área marinha de 2,4 km2, cerca de 5 % da área total destas áreas classificadas), estando os seus limites disponíveis no geocatálogo da Autoridade Nacional da Conservação da Natureza e Biodiversidade.
+
+QUADRO 1
+
+Unidades territoriais abrangidas pelas ZEC Rio Minho e ZPE Estuários dos Rios Minho e Coura
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815287.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815288.png) |
+| --- |
+
+CARACTERIZAÇÃO
+
+ZEC Rio Minho
+
+Consiste numa área com uma estrutura linear, dominada pelo rio Minho. Este é um dos rios em Portugal menos intervencionados por grandes empreendimentos hidráulicos, ainda que seja afetado por variações de caudal, devidas a descargas de barragens localizadas a montante.
+
+Ao longo do vale predomina a agricultura de regadio, em pequenas parcelas, intercalada por usos florestais dispersos, com ocorrências significativas de sebes, matas e matos, originando um mosaico diversificado. Os povoados acompanham o vale, ocorrendo alguns centros urbanos de maiores dimensões, correspondentes às sedes de concelho. É um rio muito importante para a conservação de espécies piscícolas migradoras.
+
+A bacia hidrográfica deste rio é uma das duas no país onde o salmão (Salmo salar) ainda ocorre, representando a maior sub-população desta espécie, embora o número de indivíduos seja extremamente baixo. De salientar ainda a ocorrência de outros peixes migradores como sável (Alosa alosa), savelha (Alosa fallax) e lampreia-marinha (Petromyzon marinus) e de peixes dulciaquícolas, como a panjorca (Achondrostoma arcasii), o ruivaco (Achondrostoma oligolepis) e a boga-do-norte (Pseudochondrostoma duriense). Importante também para algumas espécies associadas ao meio aquático e vegetação ribeirinha, como o lagarto-de-água (Lacerta schreiberi) o cágado-de-carapaça-estriada (Emys orbicularis) e a libélula (Oxygastra curtisii).
+
+A ZEC reúne um conjunto de tipos de habitat húmidos de elevada importância ecológica, incluindo matas ripícolas dominadas por Alnus glutinosa e Salix spp. (habitat 91E0), comunidades permanentes de leitos de cheia rochosos (habitat 6160), juncais e sapais, destacando-se um extenso complexo sapal-juncal junto à foz do rio Coura (tipos de habitat 1320, 1330), e uma zona estuarina (habitat 1130) de cariz atlântico.
+
+ZPE Estuários dos Rios Minho e Coura
+
+Esta ZPE estende-se desde Valença até à foz do rio Minho, incluindo ainda a Mata Nacional do Camarido. A ZPE reúne um conjunto de habitats húmidos de elevada importância ecológica, nomeadamente águas estuarinas, bancos de vasa e de areia, sapais, matas ripícolas, caniçais e juncais.
+
+Na zona central do estuário a velocidade do fluxo diminui, permitindo a acumulação de depósitos sedimentares e a formação de ínsuas, sendo algumas utilizadas para exploração agrícola e pecuária.
+
+Esta área alberga avifauna muito diversificada, com destaque para as aves aquáticas invernantes, que ocorrem em maior concentração entre os finais de outubro e os princípios de março. De notar a importância destas áreas para a águia-sapeira (Circus aeruginosus), o garçote (Ixobrychus minutus), a garça-vermelha (Ardea purpurea). É também um local importante de passagem migratória para passeriformes, nomeadamente as áreas de caniçal na confluência dos dois rios e as manchas de floresta aluvial.
+
+No contexto dos territórios abrangidos pela ZEC Rio Minho e pela ZPE Estuários dos Rios Minho e Coura, destacam-se três classes de ocupação de solo dominantes: as áreas agrícolas, as florestas e as zonas húmidas naturais. Com efeito, estas frações territoriais representam cerca de 74 % da área de estudo, sendo que as florestas predominam sobre as demais, particularmente nas áreas terrestres (COS 2018).
+
+Desde logo, destacam-se as florestas de folhosas autóctones que ocupam mais de 21 % do território, segundo uma faixa longitudinal (quase contínua) desde as áreas mais interiores até ao litoral. Contíguas a estas, mas distribuídas de modo mais intermitente, destacam-se as florestas de resinosas (8,68 %) que são constituídas por pinheiro-bravo. Os eucaliptais (floresta alóctone) também estão presentes, mas estão circunscritas a alguns setores, ocupando cerca de 4 % do território em estudo. A este nível destaca-se ainda a quase inexistência de manchas de espécies invasoras (0,05 %). De referir, que como nesta zona impera o minifúndio, há manchas de eucalipto e de invasoras que por serem de pequena dimensão não se encontram na COS 2018 porque a área mínima é de um hectare. Todavia estas pequenas manchas estão dispersas por todo o território e a sua área estará subestimada, tendo tendência a aumentar.
+
+Um pouco à semelhança das manchas florestais, as áreas agrícolas distribuem-se ao longo de uma franja quase contínua entre os limites interiores (a nordeste) e o litoral, ocupando mais de 16 % do território. Efetivamente, ao longo das margens dos rios Minho e Coura identificam-se importantes terrenos agrícolas que são dominados por culturas temporárias de sequeiro e regadio, e por vinhas. Os pomares (em particular na Veiga de Valença) e a vinha têm aumentado a área de ocupação. A importância destas áreas é acrescida pela presença de zonas com mosaico agroflorestal (2,60 %).
+
+A presença de extensas áreas marcadas por zonas húmidas naturais (20,4 %), de importantes cursos de água (mais de 10 %) e de oceano (4,48 %), acrescentam ao território em estudo uma particular relevância hídrica. Mais de 80 % das zonas húmidas naturais circunscrevem-se às desembocaduras dos rios Minho e Coura, sendo que as demais áreas são essencialmente sapais.
+
+Os territórios artificializados também assumem uma importante distribuição na área de estudo (7,4 %). Ocupam uma fração descontínua e heterogénea “pautada” por aglomerados populacionais (tecido edificado contínuo e descontínuo), infraestruturas e várias redes de transporte.
+
+Os matos e matagais, embora ocupem uma fração territorial ligeiramente acima de 3 %, distribuem-se um pouco por toda a área compreendida pela ZEC Rio Minho e pela ZPE Estuários dos Rios Minho e Coura.
+
+Entre as demais classes de ocupação territorial destacam-se dois padrões de distribuição. De facto (como seria expectável), as praias, dunas e areais costeiros (0,50 %) localizam-se em zonas de desembocadura e à face do Oceano Atlântico. Por seu turno, os prados e pastagens, e as áreas de vegetação esparsa, podem encontrar-se (sob a forma de ínfimas frações) em diferentes setores da área de estudo.
+
+VALORES NATURAIS
+
+Na ZEC, ocorrem com presença significativa 12 tipos de habitat (Quadro 2), uma espécie da flora e 12 espécies da fauna (Quadro 3), dos anexos I e II da Diretiva Habitats, respetivamente.
+
+Esta ZEC assume especial relevância para a conservação de nove tipos de habitat, uma espécie da flora e 10 espécies da fauna (que não aves) valores que constituem prioridades de conservação e para os quais se impõem medidas de gestão mais urgentes (valores alvo assinalados com um # e a negrito nos Quadros 2 e 3).
+
+QUADRO 2
+
+Tipos de habitat do anexo I da Diretiva Habitats com presença significativa na ZEC
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815289.png) |
+| --- |
+
+QUADRO 3
+
+Espécies do anexo II da Diretiva Habitats com presença significativa na ZEC
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815290.png) |
+| --- |
+
+Entre um extenso elenco de espécies de aves protegidas (do anexo I da Diretiva Aves e espécies migradoras não incluídas nesse anexo com ocorrência regular) com presença significativa na ZPE Estuários dos Rios Minho e Coura, esta é considerada especialmente relevante para três espécies (valores alvo assinalados com um # e a negrito no Quadro 4) e para os grupos de Passeriformes migradores de matos e bosques e de Passeriformes migradores de caniçais e galerias ripícolas.
+
+QUADRO 4
+
+Espécies de aves do anexo I da Diretiva Aves e espécies migradoras não incluídas nesse anexo e cuja ocorrência seja regular, com presença significativa na ZPE
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815291.png) |
+| --- |
+
+OBJETIVOS DE CONSERVAÇÃO
+
+Os objetivos de conservação são identificados no Quadro 5 e constituem o quadro de referência das medidas de conservação definidas para a gestão das ZEC e ZPE. São ainda identificadas as metas a atingir no período de vigência do plano e os respetivos indicadores de resultado.
+
+A integridade ecológica das ZEC e ZPE fica, deste modo, enquadrada pelo conjunto dos objetivos de conservação adiante definidos, cuja prossecução permitirá contribuir para os objetivos da Diretiva Habitats, ou seja, assegurar a biodiversidade, através da manutenção ou restabelecimento do estado de conservação favorável dos tipos de habitat e das espécies presentes nos sítios e para a coerência da Rede Natura 2000.
+
+Considerando o grau de desconhecimento existente da condição ecológica dos invertebrados Oxygastra curtisii e Euphydryas aurinia na fauna, para estas espécies não são identificados objetivos de conservação para a gestão desta ZEC, sendo certo, no entanto, que beneficiarão das medidas de conservação a adotar na conservação dos restantes valores associados aos biótopos preferencialmente utilizados por elas. O plano identifica uma medida de conservação complementar visando, entre outros objetivos, colmatar as lacunas de conhecimento de forma a permitir futuramente a definição dos objetivos de conservação para estas espécies de invertebrados.
+
+QUADRO 5
+
+Objetivos de conservação para a gestão das ZEC e ZPE
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815292.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815293.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815294.png) |
+| --- |
+
+MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
+
+O Plano de Gestão identifica as medidas de conservação complementares às previstas no [Decreto-Lei n.º 19/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2026-1025550890), de 27 de janeiro, que visam dar resposta às exigências ecológicas dos valores com prioridade em termos de conservação (valores alvo), definidas em função da condição destes e dos condicionamentos e contextos de ordem legal, social, organizacional, económica e financeira.
+
+As medidas de conservação complementares estabelecidas para a gestão da ZEC Rio Minho e da ZPE Estuários dos Rios Minho e Coura e respetivo quadro operacional estão identificados no Quadro 6, com a definição dos indicadores de realização, as respetivas metas, as entidades envolvidas na execução e a calendarização.
+
+A informação relevante para a execução das medidas de conservação complementares é apresentada de forma detalhada nas “Fichas das Medidas de Conservação Complementares”.
+
+QUADRO 6
+
+Quadro operacional das medidas de conservação complementares
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815295.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815296.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815297.png) |
+| --- |
+
+MEDIDAS DE CONSERVAÇÃO REGULAMENTARES
+
+O plano de gestão aplica-se complementarmente a um conjunto de medidas de natureza regulamentar e preventiva, identificadas e operacionalizadas no [Decreto-Lei n.º 19/2026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2026-1025550890), de 27 de janeiro.
+
+VIGÊNCIA DO PLANO DE GESTÃO
+
+O plano de gestão terá uma vigência de dez anos.
+
+ACOMPANHAMENTO
+
+A execução do Plano de Gestão da ZEC Rio Minho e da ZPE Estuários dos Rios Minho e Coura é objeto de acompanhamento continuado ao longo do seu período de vigência.
+
+O acompanhamento é coordenado pelo ICNF com a participação das autoridades corresponsáveis em razão da matéria, das administrações central e local, das entidades representativas dos agentes e operadores dos setores económico, social, da sociedade civil e dos proprietários, relevantes para a prossecução dos objetivos do plano.
+
+Será efetuada uma avaliação intercalar ao quinto ano de vigência do plano, a qual incluirá o ponto de situação intermédio da execução das medidas, um balanço das medidas concluídas, das medidas em curso e das medidas não iniciadas. Da análise da realização intermédia atingida face às metas estabelecidas para a medida, a entidade responsável pelo acompanhamento do plano de gestão deverá decidir sobre as alterações necessárias no plano de gestão, num quadro de articulação institucional, a propor às respetivas tutelas. Caso seja necessário, deverá ser elaborada uma versão revista das fichas das medidas de conservação.
+
+No final do seu período de vigência, a eficácia do plano de gestão deve ser avaliada num exercício de análise cruzada entre o grau de execução das medidas de conservação e a evolução da condição dos valores alvo. Para esta avaliação relacionam-se os resultados finais da execução das medidas (através dos indicadores de realização) e do cumprimento dos objetivos de conservação (através dos indicadores de resultado). O relatório desta avaliação final deverá também incluir a análise da evolução dos fatores externos com eventual impacto na gestão das ZEC e ZPE (por exemplo, das pressões e atividades mais relevantes, das condicionantes legais e dos instrumentos de financiamento das medidas de conservação), a descrição da análise efetuada no período em causa para a evolução dos indicadores de realização, a descrição das alterações intercalares efetuadas e respetiva fundamentação, e as propostas de alteração do plano de gestão.
+
+A aferição dos indicadores de resultado decorrerá dos procedimentos correntes de monitorização da Rede Natura 2000 a que o Estado português está obrigado no âmbito da implementação da Diretiva Habitats.
+
+No Quadro 7 apresenta-se um modelo de matriz que permitirá estabelecer, em sede de avaliação final da implementação do plano de gestão, a correspondência entre as medidas de conservação complementares e os objetivos de conservação para os quais concorrem, cuja avaliação final permite decidir sobre a necessidade de manutenção/exclusão/alteração da medida no ciclo de programação seguinte.
+
+QUADRO 7
+
+Modelo de matriz de avaliação final da implementação do plano de gestão
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815298.png) |
+| --- |
+
+FICHAS DE MEDIDAS DE CONSERVAÇÃO COMPLEMENTARES
+
+Fontes de Financiamento - Glossário:
+
+PEPAC - Plano Estratégico da Política Agrícola Comum para Portugal 2023-2027;
+
+Norte 2030 - Programa Operacional Regional do Centro (FEDER);
+
+MAR 2030 - Programa nacional para aplicação do Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura;
+
+LIFE - Instrumento de financiamento da União Europeia para o ambiente e a ação climática;
+
+INTERREG - Programa Operacional de Cooperação Transfronteiriça (FEDER);
+
+PRR - Plano de Recuperação e Resiliência;
+
+I&D - Investigação e Desenvolvimento;
+
+OE - Orçamento de Estado;
+
+OM - Orçamento Municipal;
+
+PNA-PNGIFR - Programa Nacional de Ação do Plano Nacional de Gestão Integrada de Fogos Rurais.
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815299.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815300.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815301.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815302.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815303.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815304.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815305.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815306.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815307.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815308.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815309.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815310.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815311.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815312.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815313.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815314.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815315.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815316.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815317.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815318.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/1058814981/1058815319.png) |
+| --- |
+
+119947774

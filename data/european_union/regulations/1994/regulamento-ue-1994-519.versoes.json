@@ -1,0 +1,329 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994R0519:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994R0519-20090806",
+ "dre_path": null,
+ "source_lastmod": "2009-08-06",
+ "versions": [
+  {
+   "date": "1994-03-10",
+   "future": false,
+   "celex": "31994R0519",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2488ce369606fef2",
+    "61283473f81632f3",
+    "62b90a2f0e00e1d4",
+    "6182d4a4d0c2998f",
+    "ef87754c0846aa23",
+    "38f129dd0ba7cdb0",
+    "2ad87a55df5c3c62",
+    "d4c07deadd57c704",
+    "21c13cf4dd8debf8",
+    "b9a7a8018d31592b",
+    "097dc3e95d252858",
+    "66f94fa4fa669880",
+    "02e622241e4501a0",
+    "1337b4edbed0726c",
+    "0c3f62962ffc4792",
+    "3c3f5c5e7df5b2e9",
+    "dcdbfd5982ff8ed2",
+    "c6c53f391c7b63ce",
+    "28084a84629b576d",
+    "355d306892c35540",
+    "7c0292b9b240b2d1",
+    "ad184c372f45f9e3",
+    "e0eac869c5c909e4",
+    "b1d0186c8a11c4d4",
+    "6db6d1e8ea2197f1",
+    "4eb5464f4a93042e",
+    "44666d5e4df1b996",
+    "1755b8a93196ee05",
+    "e8a7f8770dc74328"
+   ]
+  },
+  {
+   "date": "2009-08-06",
+   "future": false,
+   "celex": "01994R0519-20090806",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime TÍTULO I Princípios gerais — Artigo 1º",
+    "Suprime TÍTULO II Procedimento comunitário de informação e de consulta — Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime TÍTULO III Procedimento comunitário de inquérito — Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime TÍTULO IV Vigilância — Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime TÍTULO V Medidas de salvaguarda — Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime TÍTULO VI Disposições finais — Artigo 19º",
+    "Suprime Artigo 20º",
+    "Suprime Artigo 21º",
+    "Suprime Artigo 22º",
+    "Suprime Artigo 23º",
+    "Suprime Artigo 24º",
+    "Suprime ANEXO I — Lista de países terceiros Albânia",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III",
+    "Suprime ANEXO IV — Lista das menções que devem figurar nas casas do documento de vigilância DOCUMENTO DE VIGILÂNCIA"
+   ],
+   "fragments": [
+    "6621cfa6cf1ba5b3"
+   ]
+  }
+ ],
+ "fragments": {
+  "2488ce369606fef2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) nº 519/94 do Conselho, de 7 de Março de 1994, relativo ao regime comum aplicável às importações de certos países terceiros e que revoga os Regulamentos (CEE) nº 1765/82, (CEE) nº 1766/82 e (CEE) nº 3420/83** *Jornal Oficial nº L 067 de 10/03/1994 p. 0089 - 0103 Edição especial finlandesa: Capítulo 11 Fascículo 29 p. 0206 Edição especial sueca: Capítulo 11 Fascículo 29 p. 0206*\n\nREGULAMENTO (CE) Nº 519/94 DO CONSELHO de 7 de Março de 1994 relativo ao regime comum aplicável às importações de certos países terceiros e que revoga os Regulamentos (CEE) nº 1765/82, (CEE) nº 1766/82 e (CEE) nº 3420/83\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 113º,\n\nTendo em conta a regulamentação que estabelece a organização comum dos mercados agrícolas, bem como a regulamentação adoptada nos termos do artigo 235º do Tratado, aplicável aos produtos agrícolas transformados, nomeadamente as disposições que permitem uma derrogação ao princípio geral da substituição das restrições quantitativas ou medidas de efeito equivalente unicamente pelas medidas previstas nessas regulamentações,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que a política comercial comum deve assentar em princípios uniformes; que os regimes de importação aplicáveis a determinados países terceiros por força dos Regulamentos (CEE) nº 1765/82 do Conselho, de 30 de Junho de 1982, relativo ao regime comum aplicável às importações de países de comércio de Estado (1), (CEE) nº 1766/82 do Conselho, de 30 de Junho de 1982, relativo ao regime comum aplicável às importações da República Popular da China (2) e (CEE) nº 3420/83 do Conselho, de 14 de Novembro de 1983, relativo aos regimes de importação dos produtos originários dos países de comércio de Estado, não liberalizados a nível da Comunidade (3), constituem um elemento importante desta política; que, todavia, esta política deve ser completada, uma vez que os regimes vigentes prevêem ainda excepções e derrogações que pemitem que os Estados-membros continuem a aplicar medidas nacionais à importação de determinados produtos originários dos países terceiros em causa;\n\nConsiderando que, nos termos do artigo 7ºA do Tratado, o mercado interno compreende, desde 1 de Janeiro de 1993, um espaço sem fronteiras internas no qual está assegurada a livre circulação de mercadorias, pessoas, serviços e capitais;\n\nConsiderando que, deste modo, a realização da política comercial comum no domínio do regime aplicável às importações constitui o complemento necessário para a realização do mercado interno, sendo o único meio capaz de assegurar que a regulamentação das trocas comerciais da Comunidade com os países terceiros reflicta correctamente a integração dos mercados;\n\nConsiderando que, para alcançar uma maior uniformização dos regimes de importação é necessário eliminar as excepções e derrogações decorrentes das medidas nacionais de política comercial ainda em vigor e, em especial as restrições quantitativas mantidas pelos Estados-membros ao abrigo do Regulamento (CEE) nº 3420/83; que esta uniformização se deve realizar prevendo, tanto quanto possível e tendo em conta as particularidades do sistema económico dos países terceiros em causa, disposições análogas às do regime comum aplicável aos outros países terceiros;\n\nConsiderando que a liberalização das importações, ou seja, a ausência de restrições quantitativas, deve constituir, por conseguinte, o ponto de partida do regime comunitário;\n\nConsiderando que, todavia, em relação a um número limitado de produtos originários da República Popular da China, importa, devido ao carácter sensível de determinados sectores da indústria comunitária, incluir no presente regulamento restrições quantitativas e medidas de vigilância aplicáveis a nível comunitário; que é conveniente prever um procedimento de controlo e de verificação dessas medidas, com vista a adoptá-las à evolução da situação;\n\nConsiderando que, em relação a outros produtos, a Comissão deverá examinar as condições das importações, a sua evolução e os diversos elementos da situação económica e comercial, bem como das medidas eventualmente a tomar;\n\nConsiderando que, em relação a esses produtos, se pode revelar necessário submeter certas importações a vigilância comunitária;\n\nConsiderando que, além disso, compete à Comissão e ao Conselho adoptarem as medidas de protecção exigidas pelos interesses da Comunidade, tendo, simultaneamente em devida conta as obrigações internacionais existentes;\n\nConsiderando que é possível que medidas de vigilância ou de salvaguarda limitadas a uma ou mais regiões da Comunidade, se revelem mais adequadas do que medidas aplicáveis ao conjunto da Comunidade; que, todavia, essas medidas só devem ser autorizadas a título excepcional e se não houver soluções alternativas; que importa assegurar que essas medidas sejam temporárias e perturbem o menos possível o funcionamento do mercado interno;\n\nConsiderando que, caso seja aplicável a vigilância comunitária, é conveniente sujeitar a introdução em livre prática dos produtos em causa à apresentação de um documento de importação que satisfaça critérios uniformes; que este documento deve, a simples pedido do importador, ser visado pelas autoridades dos Estados-membros dentro de um determinado prazo, sem que, por esse motivo, seja constituído a favor do importador um direito de importação; que, por conseguinte, esse documento será válido apenas enquanto o regime de importação não sofrer alterações;\n\nConsiderando que, no interesse da Comunidade, é necessário assegurar entre os Estados-membros e a Comissão, uma troca de informações o mais completa possível no que diz respeito aos resultados da vigilância comunitária;\n\nConsiderando que a experiência demonstrou a necessidade de se adoptarem critérios mais precisos de avaliação do eventual prejuízo e de se estabelecer um processo de inquérito, sem, no entanto, se excluir a possibilidade de a Comissão adoptar as medidas adequadas em caso de urgência;\n\nConsiderando que, para o efeito, se deverão estabelecer disposições mais pormenorizadas em relação à abertura desses inquéritos, aos controlos e às verificações necessários, à audição dos interessados, ao tratamento das informações recebidas, bem como aos critérios de avaliação dos prejuízos;\n\nConsiderando que as disposições sobre os inquéritos estabelecidas no presente regulamento não prejudicam a legislação comunitária e nacional em matéria de segredo profissional;\n\nConsiderando que é igualmente necessário estabelecer prazos para dar início aos inquéritos e para decidir se as medidas são adequadas por forma a garantir que essas decisões sejam tomadas rapidamente, a fim de aumentar a segurança jurídica dos operadores económicos em questão;\n\nConsiderando que a uniformização do regime de importação exige que as formalidades a cumprir pelos importadores sejam simplificadas e idênticas, independentemente do local de desalfandegamento das mercadorias; que, para o efeito, é oportuno que as eventuais formalidades sejam cumpridas através de formulários conformes ao modelo anexo ao presente regulamento;\n\nConsiderando que os documentos de importação emitidos no âmbito das medidas de vigilância comunitárias devem ser válidos em toda a Comunidade, independentemente do Estado-membro de emissão;\n\nConsiderando que o regime assim estabelecido deixou de justificar a manutenção de dois regimes comunitários distintos em relação aos países de comércio de Estado e à República Popular da China;\n\nConsiderando que se realizou a consulta prevista nos termos do Regulamento (CEE) nº 2616/85 do Conselho, de 16 de Setembro de 1985, relativo à conclusão do Acordo de cooperação comercial e económica entre a Comunidade Económica Europeia e a República Popular da China (4);\n\nConsiderando que os produtos têxteis abrangidos pelo Regulamento (CE) nº 517/94, de 7 de Março de 1994, relativo ao regime comum aplicável às importações de produtos têxteis de determinados países terceiros não abrangidos por acordos, protocolos ou outros convénios bilaterais ou por outras regras comunitárias específicas de importações (5), são objecto de um tratamento específico a nível comunitário e internacional; que, por essa razão, deverão ser totalmente excluídos do âmbito de aplicação do presente regulamento;\n\nConsiderando que as disposições do presente regulamento são aplicáveis sem prejuízo dos artigos 77º, 81º, 244º, 249º e 280º do Acto de Adesão de Espanha e de Portugal;\n\nConsiderando que, nestas condições, é necessário revogar os Regulamentos (CEE) nº 1765/82, (CEE) nº 1766/82 e (CEE) nº 3420/83,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "61283473f81632f3": {
+   "fragment_id": "TÍTULO I Princípios gerais — Artigo 1º",
+   "type": "divisao",
+   "heading": "TÍTULO I Princípios gerais — Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I Princípios gerais — Artigo 1º\n\n1. O presente regulamento é aplicável às importações dos produtos abrangidos pelo Tratado, originários dos países terceiros referidos no anexo I, com excepção dos produtos têxteis abrangidos pelo Regulamento (CE) nº 517/94.\n\n2. A importação para a Comunidade dos produtos referidos no nº 1 é livre, não se encontrando sujeita a quaisquer restrições quantitativas, sem prejuízo:\n\n- das medidas que possam ser adoptadas ao abrigo do título V,\n\n- dos contingentes quantitativos referidos no anexo II.\n\n3. A importação para a Comunidade dos produtos referidos no anexo III está sujeita a vigilância comunitária nos termos das regras previstas no artigo 10º\n\n4. A pedido de um Estado-membro ou por iniciativa da Comissão, os anexos II e III podem ser objecto de consultas no comité previsto no artigo 4º\n\nNo termo dessas consultas, a Comissão, nos termos do procedimento previsto no artigo 16º, poderá propor ao Conselho as medidas necessárias para a adaptação dos anexos II e III, conforme previsto no título III e, quando aplicáveis, nos títulos IV e V do presente regulamento."
+  },
+  "62b90a2f0e00e1d4": {
+   "fragment_id": "TÍTULO II Procedimento comunitário de informação e de consulta — Artigo 2º",
+   "type": "divisao",
+   "heading": "TÍTULO II Procedimento comunitário de informação e de consulta — Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II Procedimento comunitário de informação e de consulta — Artigo 2º\n\nSe a evolução das importações tornar necessário o recurso a medidas de vigilância ou de salvaguarda, a Comissão será informada desse facto pelos Estados-membros. Essa informação deve conter os elementos de prova disponíveis, determinados com base nos critérios definidos no artigo 8º A Comissão comunicará sem demora esta informação a todos os Estados-membros."
+  },
+  "6182d4a4d0c2998f": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nPodem realizar-se consultas, quer a pedido de um Estado-membro quer por iniciativa da Comissão. Estas consultas deverão realizar-se no prazo de oito dias úteis a contar da recepção pela Comissão da informação referida no artigo 2º e, de qualquer modo, antes da aplicação de qualquer medida comunitária de vigilância ou de salvaguarda."
+  },
+  "ef87754c0846aa23": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. As consultas efectuar-se-ao no âmbito de um comité consultivo, a seguir designado « comité », composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O comité reunir-se-á por convocação do seu presidente, o qual comunicará aos Estados-membros, no mais curto prazo possível, todos os elementos de informação considerados úteis.\n\n3. As consultas incidirão nomeadamente sobre:\n\na) As condições relativas às importações e à sua evolução, bem como os diversos aspectos da situação económica e comercial do produto em causa, designadamente no âmbito do exame dos anexo II e III;\n\nb) As questões relativas à gestão dos acordos comerciais entre a Comunidade e os países terceiros referidos no anexo I;\n\nc) As medidas que eventualmente seja conveniente tomar.\n\n4. Em caso de necessidade, as consultas podem realizar-se por escrito. Neste caso, a Comissão informará os Estados-membros de que, num prazo de cinco a oito dias úteis, a fixar pela Comissão, poderão emitir parecer ou solicitar uma consulta oral."
+  },
+  "38f129dd0ba7cdb0": {
+   "fragment_id": "TÍTULO III Procedimento comunitário de inquérito — Artigo 5º",
+   "type": "divisao",
+   "heading": "TÍTULO III Procedimento comunitário de inquérito — Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III Procedimento comunitário de inquérito — Artigo 5º\n\n1. Quando, terminadas as consultas, a Comissão considerar que existem elementos de prova suficientes para justificar a abertura de um inquérito, deverá:\n\na) Proceder à abertura de um inquérito no prazo de um mês a contar da recepção das informações de um Estado-membro e publicar um anúncio no Jornal Oficial das Comunidades Europeias; esse anúncio conterá um resumo das informações recebidas e precisará que todas as informações consideradas úteis devem ser comunicadas à Comissão; a Comissão fixará igualmente o prazo para os interessados comunicarem a sua opinião por escrito e fornecerem informações, a fim dessas opiniões e informações serem tomadas em consideração no inquérito; deverá fixar ainda o prazo para os interessados pedirem para ser ouvidos pela Comissão, nos termos do nº 4;\n\nb) Dar início ao inquérito, em cooperação com os Estados-membros.\n\n2. A Comissão procurará obter todas as informações que considere necessárias e, quando o julgar oportuno, após consulta ao comité procurará confirmar tais informações junto dos importadores, comerciantes, agentes, produtores, associações e organizações comerciais.\n\nA Comissão será assistida nessas funções pelos agentes do Estado-membro em cujo território se efectuam os controlos, desde que este se tenha manifestado nesse sentido.\n\nOs interessados que, em conformidade com a alínea a) do nº 1, se tenham dado a conhecer, bem como os representantes do país exportador, podem analisar todas as informações fornecidas à Comissão no âmbito do inquérito, com excepção dos documentos internos elaborados pelas autoridades comunitárias ou dos Estados-membros, desde que tal seja importante para a defesa dos seus interesses e as informações em causa não sejam confidenciais, na acepção do artigo 7º, e sejam utilizadas pela Comissão no inquérito. Para o efeito, deverão enviar à Comissão um pedido por escrito indicando a informação pretendida.\n\n3. Os Estados-membros fornecerão à Comissão, a seu pedido e de acordo com as regras que esta defina, as informações de que disponham sobre a evolução do mercado do produto sujeito a inquérito.\n\n4. A Comissão pode ouvir os interessados. Este devem ser ouvidos quando o tenham solicitado por escrito, no prazo fixado no anúncio publicado no Jornal Oficial das Comunidades Europeias, e quando demonstrarem que podem ser efectivamente afectados pelo resultado do inquérito e existem razões especiais para serem ouvidos.\n\n5. Quando as informações não sejam fornecidas dentro dos prazos previstos no presente regulamento ou estabelecidos pela Comissão nos termos do presente regulamento, ou se se verificarem obstáculos significativos ao inquérito, podem ser elaboradas conclusões com base nos dados disponíveis. Se a Comissão verificar que um interessado ou um terceiro lhe forneceu informações falsas ou susceptíveis de induzir em erro, não terá em conta essas informações e poderá fazer uso dos dados disponíveis.\n\n6. Quando, após as consultas referidas no nº 1, a Comissão considerar que não existem elementos de prova suficientes para justificar a abertura de um inquérito, informará os Estados-membros da sua decisão no prazo de um mês a contar da recepção das informações dos Estados-membros."
+  },
+  "2ad87a55df5c3c62": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Concluído o inquérito, a Comissão submeterá à apreciação do comité um relatório sobre os seus resultados.\n\n2. Quando, no prazo de nove meses a contar do início do inquérito, a Comissão considerar que não são necessárias medidas comunitárias de vigilância ou de salvaguarda, encerrará o inquérito, no prazo de um mês, após consulta do comité. A decisão de encerrar o inquérito, que deverá indicar as principais conclusões da investigação e um resumo das suas razões será publicada no Jornal Oficial das Comunidades Europeias.\n\n3. Se a Comissão considerar que são necessárias medidas comunitárias de vigilância ou de salvaguarda, tomará as decisões necessárias para o efeito nos termos dos títulos IV e V, o mais tardar nove meses após o início do inquérito. Em circunstâncias excepcionais, este prazo poderá ser prorrogado por um período máximo de dois meses; nesse caso, a comissão publicará um aviso no Jornal Oficial das Comunidades Europeias indicando o prazo da prorrogação e um resumo das razões que o justificam.\n\n4. O disposto no presente título não obsta a que sejam tomadas, em qualquer momento, medidas de vigilância nos termos dos artigos 9º a 14º ou, se uma situação crítica em que qualquer atraso cause um prejuízo dificilmente sanável exigir intervenção imediata, medidas de salvaguarda nos termos dos artigos 15º a 17º\n\nNese caso, a Comissão tomará imediatamente as medidas de inquérito que considere ainda necessárias. Os respectivos resultados serão utilizados no reexame das medidas tomadas."
+  },
+  "d4c07deadd57c704": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. As informações recebidas nos termos do presente regulamento só podem ser utilizadas para os fins para que tiverem sido solicitadas.\n\n2. a) O Conselho, a Comissão e os Estados-membros, bem como os respectivos funcionários, não divulgarão quaisquer informações de natureza confidencial recebidas nos termos do presente regulamento ou fornecidas a título confidencial, salvo autorização expressa de quem as tenha fornecido.\n\nb) Cada pedido de tratamento confidencial indicará os motivos pelos quais a informação é confidencial.\n\nTodavia, se se verificar que um pedido de tratamento confidencial não é justificado e que quem forneceu a informação não pretende torná-la pública nem autorizar a sua divulgação integral ou resumida, a informação em causa pode não ser tomada em consideração.\n\n3. As informações serão sempre consideradas confidenciais se a sua divulgação for susceptível de ter consequências desfavoráveis significativas para quem a tiver prestado ou for a sua fonte.\n\n4. Os nºs 1, 2 e 3 não obstam a que as autoridades da Comunidade façam referência a informações gerais, em especial aos motivos em que se fundamentam as decisões tomadas nos termos do presente regulamento. Estas autoridades devem, contudo, ter em conta o interesse legítimo das pessoas singulares e colectivas em causa, no sentido de não serem revelados os seus segredos comerciais."
+  },
+  "21c13cf4dd8debf8": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. O exame da evolução das importações, das condições em que as mesmas se efectuam e do prejuízo grave ou da ameaça de prejuízo grave delas resultante para os produtores comunitários, incidirá nomeadamente sobre os seguintes factores:\n\na) Volume das importações, nomeadamente quando estas tenham aumentado significativamente, quer em termos absolutos quer em relação à produção ou ao consumo na Comunidade;\n\nb) Preços das importações, nomeadamente para determinar se houve subcotação significativa do preço em relação ao preço de um produto similar na Comunidade;\n\nc) Consequente impacte nos produtores comunitários de produtos similares ou directamente concorrentes, a partir da evolução de certos factores económicos, como:\n\n- produção,\n\n- utilização de capacidades,\n\n- existências,\n\n- vendas,\n\n- parte de mercado,\n\n- preços (isto é, diminuição dos preços ou impedimento das subidas de preços que normalmente se teriam verificado),\n\n- lucros,\n\n- rendimentos do capital,\n\n- fluxo de caixa (cash-flow),\n\n- emprego.\n\n2. Na condução do seu inquérito, a Comissão levará em conta o sistema económico específico do país a que se refere o anexo I.\n\n3. Quando for alegada uma ameaça de prejuízo grave, a Comissão examinará igualmente se é claramente previsível tratar-se de uma situação especial susceptível de se transformar em prejuízo real. A este respeito, podem igualmente ter-se em conta factores como:\n\na) A taxa de aumento das exportações para a Comunidade;\n\nb) A capacidade de exportação do país de origem ou de exportação, existente ou a existir num futuro previsível, e a probabilidade de as exportações resultantes dessa capacidade se destinarem à Comunidade."
+  },
+  "b9a7a8018d31592b": {
+   "fragment_id": "TÍTULO IV Vigilância — Artigo 9º",
+   "type": "divisao",
+   "heading": "TÍTULO IV Vigilância — Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV Vigilância — Artigo 9º\n\n1. Quando os interesses da Comunidade o exigirem, a Comissão pode, a pedido de um Estado-membro ou por sua própria iniciativa:\n\na) Decidir sujeitar à vigilância comunitária a posteriori determinadas importações, nos termos do procedimento por ela definido;\n\nb) Decidir, para efeitos de controlo da sua evolução, sujeitar determinadas importações a uma vigilância comunitária prévia, nos termos do artigo 10º\n\n2. A vigência das medidas de vigilância será limitada. Salvo disposição em contrário, a validade destas medidas cessará no final do segundo semestre seguinte àquele em que tiverem sido tomadas."
+  },
+  "097dc3e95d252858": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. Os produtos sujeitos a vigilância comunitária prévia só podem ser colocados em livre prática após apresentação de um documento de importação. Esse documento será visado pela autoridade competente designada pelos Estados-membros, sem encargos, para todas as quantidades pedidas, no prazo máximo de cinco dias úteis a contar da recepção pela autoridade nacional competente de uma declaração efectuada por qualquer importador comunitário, independentemente do local em que estiver estabelecido na Comunidade. Salvo prova em contrário, esta declaração considerar-se-á recebida no prazo máximo de três dias úteis a contar da sua apresentação à autoridade nacional competente.\n\n2. O documento de importação, bem como a declaração do importador serão emitidos num formulário conforme com o modelo que consta em anexo.\n\nPoderão ser exigidas informações complementares para além das prestadas no formulário acima mencionado. Essas informações deverão ser referidas na decisão de colocação sob vigilância.\n\n3. O documento de importação será válido em toda a Comunidade, independentemente do Estado-membro que o tenha emitido.\n\n4. Se o preço unitário ao qual se efectua a transacção exceder em menos de 5 % o preço indicado no documento de importação ou se o valor ou a quantidade dos produtos apresentados para importação exceder, no total, em menos de 5 % o valor ou a quantidade indicados no citado documento, a introdução em livre prática dos produtos em causa não é prejudicada. A Comissão após de ouvidos os pareceres emitidos no âmbito do comité e tendo em conta a natureza dos produtos e outras particularidades das transacções em causa, pode fixar uma percentagem diferente que, todavia, não deverá normalmente exceder 10 %.\n\n5. O documento de importação só poderá ser utilizado durante a vigência do regime de liberalização das importações para as transacções em causa, não podendo em caso algum ser usado depois de expirado o período a fixar ao mesmo tempo e de acordo com o mesmo procedimento que a colocação sob vigilância, o qual será determinado tendo em conta a natureza dos produtos e outras particularidades das transacções.\n\n6. Quando exigido pela decisão tomada por força do artigo 9º, a origem dos produtos sob vigilância comunitária deve ser comprovada mediante um certificado de origem. O disposto no presente número não prejudica outras disposições relativas à apresentação de tal certificado.\n\n7. Quando um produto sujeito a vigilância comunitária prévia for objecto de uma medida de salvaguarda regional num Estado-membro, a autorização de importação concedida por esse Estado pode substituir o documento de importação."
+  },
+  "66f94fa4fa669880": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nQuando os interesses da Comunidade o exigirem, a Comissão pode, a pedido de um Estado-membro ou por sua própria iniciativa, no caso de ser provável que se venha a verificar a situação referida no nº 1 do artigo 15º:\n\n- limitar o prazo de validade do documento de importação eventualmente exigido,\n\n- sujeitar a emissão desse documento a determinadas condições e, a título excepcional, à inserção de uma cláusula de revogação ou, com uma periodicidade e durante um período a indicar pela Comissão, ao procedimento de informação e de consulta prévias referido no artigo 3º"
+  },
+  "02e622241e4501a0": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nSe, terminado o prazo de oito dias úteis após o fim das consultas, as importações de um produto não tiverem sido submetidas a vigilância comunitária prévia, a Comissão pode, nos termos do artigo 17º, sujeitar as importações destinadas a uma ou mais regiões da Comunidade a vigilância limitada."
+  },
+  "1337b4edbed0726c": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Os produtos sujeitos a vigilância regional só podem ser colocados em livre prática na região em causa após apresentação de um documento de importação. Esse documento será visado pela autoridade competente designada pelo ou pelos Estados-membros em questão, sem encargos, para todas as quantidades pedidas, no prazo máximo de cinco dias úteis a contar da recepção pela autoridade nacional competente de uma declaração de qualquer importador comunitário, independentemente do local em que estiver estabelecido na Comunidade. Salvo prova em contrário, esta declaração considerar-se-á recebida no prazo máximo de três dias úteis a contar da sua apresentação à autoridade nacional competente. O documento de importação só poderá ser utilizado durante a vigência do regime de liberalização das importações para as transacções em causa.\n\n2. O documento de importação, bem como a declaração do importador, serão emitidos num formulário conforme com o modelo que consta em anexo.\n\nPoderão ser exigidas informações complementares para além das prestadas no formulário acima mencionado. Essas informações deverão ser referidas na decisão de colocação sob vigilância."
+  },
+  "0c3f62962ffc4792": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Em caso de vigilância comunitária ou regional, os Estados-membros informarão a Comissão nos primeiros 10 dias de cada mês:\n\na) Se se tratar de vigilância prévia, das quantidades e dos montantes, calculados com base nos preços CIF, das mercadorias para as quais foram emitidos ou visados documentos de importação durante o período anterior;\n\nb) Em qualquer caso, das importações realizadas durante o período anterior ao referido na alínea a).\n\nAs informações fornecidas pelos Estados-membros serão discriminadas por produto e por país.\n\nPodem ser estabelecidas regras diferentes ao mesmo tempo e de acordo com o mesmo procedimento que para a colocação sob vigilância.\n\n2. Quando a natureza dos produtos ou situações especiais o tornem necessário, a Comissão pode, a pedido de um Estado-membro ou por sua própria iniciativa, modificar a periodicidade da apresentação das informações.\n\n3. A Comissão informará os Estados-membros."
+  },
+  "3c3f5c5e7df5b2e9": {
+   "fragment_id": "TÍTULO V Medidas de salvaguarda — Artigo 15º",
+   "type": "divisao",
+   "heading": "TÍTULO V Medidas de salvaguarda — Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V Medidas de salvaguarda — Artigo 15º\n\n1. Se um produto for importado na Comunidade em quantidades de tal modo elevadas ou em condições tais que causem ou ameacem causar um prejuízo grave aos produtores comunitários de produtos similares ou directamente concorrentes, a Comissão pode, para salvaguardar os interesses da Comunidade, a pedido de um Estado-membro ou por sua própria iniciativa, modificar o regime de importação do produto em causa, subordinando a sua introdução em livre prática à apresentação de uma autorização de importação, a conceder de acordo com as regras e dentro dos limites que ela própria fixar.\n\n2. As medidas adoptadas serão imediatamente comunicadas ao Conselho e aos Estados-membros e serão imediatamente aplicáveis.\n\n3. a) As medidas referidas no presente artigo aplicar-se-ao a qualquer produto introduzido em livre prática após a sua entrada em vigor. Nos termos do artigo 17º, poderão ser limitadas a uma ou mais regiões da Comunidade.\n\nb) Estas medidas não impedirão, todavia, a introdução em livre prática dos produtos que se encontrem já a caminho da Comunidade, desde que não seja possível alterar o seu destino e desde que os produtos cuja introdução em livre prática esteja, nos termos dos artigos 10º e 13º, subordinada à apresentação de um documento de importação, venham efectivamente acompanhados desse documento.\n\n4. Quando a intervenção da Comissão tenha sido solicitada por um Estado-membro, a Comissão pronunciar-se-á no prazo máximo de cinco dias úteis a contar da recepção do pedido.\n\n5. Qualquer decisão da Comissão por força do presente artigo será comunicada ao Conselho e aos Estados-membros. Qualquer Estado-membro pode submeter a decisão à apreciação do Conselho no prazo de um mês a contar da data da comunicação.\n\n6. Se um Estado-membro submeter a decisão da Comissão à apreciação do Conselho, este pode, deliberando por maioria qualificada, confirmar, alterar ou revogar referida decisão.\n\nSe, no prazo de três meses a contar da data em que a questão tenha sido submetida ao Conselho, este ainda não tiver deliberado, considerar-se-á revogada a medida tomada pela Comissão."
+  },
+  "dcdbfd5982ff8ed2": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. O Conselho poderá, deliberando por maioria qualificada sob proposta da Comissão, adoptar medidas adequadas, em especial na situação referida no nº 1 do artigo 15º\n\n2. É aplicável o disposto no nº 3 do artigo 15º"
+  },
+  "c6c53f391c7b63ce": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nQuando, com base, nomeadamente, nos factores referidos no artigo 8º, se verifique que estão reunidas as condições de adopção de medidas ao abrigo do título IV e do artigo 15º numa ou mais regiões da Comunidade, a Comissão, depois de ter considerado soluções alternativas, pode autorizar a título excepcional a aplicação de medidas de vigilância ou de salvaguarda limitadas a essa ou essas regiões, se considerar que medidas aplicadas a nível regional são mais adequadas do que medidas aplicadas em toda a Comunidade.\n\nEssas medidas devem ser temporárias e perturbar o menos possível o funcionamento do mercado interno.\n\nEssas medidas serão adoptadas nos termos, respectivamente, dos artigos 9º e 15º"
+  },
+  "28084a84629b576d": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\n1. Durante o período de aplicação das medidas de vigilância ou de salvaguarda tomadas nos termos dos títulos IV e V, proceder-se-á a consultas no âmbito do comité, a pedido de um Estado-membro ou por iniciativa da Comissão, com vista a:\n\na) Examinar os efeitos dessas medidas;\n\nb) Verificar se a sua manutenção se justifica.\n\n2. Quando, na sequência das consultas referidas no nº 1, a Comissão considerar que se impõe a revogação ou a alteração de quaisquer medidas de vigilância ou de salvaguarda adoptadas nos termos dos títulos IV e V:\n\na) Se o Conselho não tiver tomado qualquer decisão sobre a medida adoptada pela Comissão, esta alterará ou revogará sem tardar a referida medida e apresentará imediatamente um relatório ao Conselho;\n\nb) Em todos ou outros casos, a Comissão proporá ao Conselho a alteração ou revogação da medida por este adoptada; o Conselho deliberará por maioria qualificada.\n\nQuando a decisão disser respeito a medidas de vigilância regional, será aplicável a partir do sexto dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "355d306892c35540": {
+   "fragment_id": "TÍTULO VI Disposições finais — Artigo 19º",
+   "type": "divisao",
+   "heading": "TÍTULO VI Disposições finais — Artigo 19º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI Disposições finais — Artigo 19º\n\n1. O presente regulamento não prejudica o cumprimento das obrigações decorrentes dos regimes específicos previstos nos acordos concluídos entre a Comunidade e países terceiros.\n\n2. a) Sem prejuízo de outras disposições comunitárias, o presente regulamento não prejudica a adopção ou a aplicação pelos Estados-membros de:\n\ni) proibições, restrições quantitativas ou medidas de vigilância justificadas por razões de moralidade pública e segurança pública; de protecção da saúde e da vida das pessoas e animais ou de preservação das plantas; de protecção do património nacional de valor artístico, histórico ou arqueológico; ou de protecção da propriedade industrial e comercial;\n\nii) formalidades especiais em matéria de câmbio;\n\niii) formalidades introduzidas por força de acordos internacionais nos termos do Tratado.\n\nb) Os Estados-membros informarão a Comissão das medidas ou formalidades a adoptar ou alterar nos termos do presente número. Em caso de extrema urgência, as medidas ou formalidades nacionais em causa serão comunicadas à Comissão imediatamente após a sua adopção."
+  },
+  "7c0292b9b240b2d1": {
+   "fragment_id": "Artigo 20º",
+   "type": "artigo",
+   "heading": "Artigo 20º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º\n\n1. O presente regulamento não prejudica a aplicação da regulamentação que estabelece a organização comum dos mercados agrícolas ou das disposições administrativas comunitárias ou nacionais dela decorrentes, nem da regulamentação específica adoptada nos termos do artigo 235º do Tratado aplicável às mercadorias resultantes da transformação de produtos agrícolas; o presente regulamento é aplicável a título supletivo da referida regulamentação.\n\n2. No entanto, os artigos 9º a 14º e 18º não são aplicáveis aos produtos objecto das regulamentações referidas no nº 1 em relação aos quais o regime comunitário de trocas comerciais com países terceiros preveja a apresentação de uma licença ou outro documento de importação.\n\nOs artigos 15º, 17º e 18º não são aplicáveis aos produtos em relação aos quais o regime comunitário de trocas comerciais com países terceiros preveja a aplicação de restrições quantitativas à importação."
+  },
+  "ad184c372f45f9e3": {
+   "fragment_id": "Artigo 21º",
+   "type": "artigo",
+   "heading": "Artigo 21º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º\n\nAté 31 de Dezembro de 1995, Espanha e Portugal poderão manter as restrições quantitativas aplicáveis aos produtos agrícolas referidos nos artigos 77º, 81º, 244º, 249º e 280º do Acto de Adesão."
+  },
+  "e0eac869c5c909e4": {
+   "fragment_id": "Artigo 22º",
+   "type": "artigo",
+   "heading": "Artigo 22º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º\n\nEm 1994, o nível dos contingentes referidos no nº 2 do artigo 1º será reduzido proporcionalmente ao período de aplicação, tal como se indica no anexo II.\n\nNão estão sujeitos a contingentes comunitários e poderão ser colocados em livre prática na Comunidade:\n\n- os produtos que já se encontrem a caminho da Comunidade à data de publicação do presente regulamento no Jornal Oficial das Comunidades Europeias, desde que não seja possível alterar o seu destino;\n\n- os produtos cuja licença de importação tenha sido emitida pelas autoridades nacionais competentes nos termos do disposto no título IV do Regulamento (CEE) nº 3420/83 e que sejam efectivamente acompanhados dessa licença.\n\nO disposto no Regulamento (CE) do Conselho nº 520/94, de 7 de Março de 1994, que estabelece um procedimento comum de gestão dos contingentes quantitativos (6), é aplicável aos contingentes referidos no anexo II."
+  },
+  "b1d0186c8a11c4d4": {
+   "fragment_id": "Artigo 23º",
+   "type": "artigo",
+   "heading": "Artigo 23º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º\n\nSão revogados os Regulamentos (CEE) nºs 1765/82, 1766/82 e 3420/83. As referências aos regulamentos revogados consideram-se feitas ao presente regulamento."
+  },
+  "6db6d1e8ea2197f1": {
+   "fragment_id": "Artigo 24º",
+   "type": "artigo",
+   "heading": "Artigo 24º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º\n\nO presente regulamento entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 15 de Março de 1994.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 7 de Março de 1994.\n\nPelo Conselho\n\nO Presidente\n\nTh. PANGALOS\n\n(1) JO nº L 195 de 5. 7. 1982, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1013/93 (JO nº L 105 de 30. 4. 1993, p. 1).\n\n(2) JO nº L 195 de 5. 7. 1982, p. 21. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1409/86 (JO nº L 128 de 14. 5. 1986, p. 25).\n\n(3) JO nº L 346 de 8. 12. 1983, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 848/92 (JO nº L 89 de 4. 4. 1992, p. 1).\n\n(4) JO nº L 250 de 19. 9. 1985, p. 2.\n\n(5) Ver página 1 do presente Jornal Oficial.\n\n(6) JO nº L 66 de 10. 3. 1994, p. 1."
+  },
+  "4eb5464f4a93042e": {
+   "fragment_id": "ANEXO I — Lista de países terceiros Albânia",
+   "type": "divisao",
+   "heading": "ANEXO I — Lista de países terceiros Albânia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Lista de países terceiros Albânia\n\nArménia\n\nAzerbaijão\n\nBielorrússia\n\nCazaquistão\n\nCoreia do Norte\n\nEstónia\n\nGeórgia\n\nLetónia\n\nLituânia\n\nMoldávia\n\nMongólia\n\nQuirguizistão\n\nRepública Popular da China\n\nRússia\n\nTajiquistão\n\nTurcomenistão\n\nUcrânia\n\nUsbequistão\n\nVietname"
+  },
+  "44666d5e4df1b996": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nLista dos contingentes para determinados produtos originários da China \"\" ID=\"1\">Luvas> ID=\"2\">4203 29> ID=\"3\">95 865 000 ecus> ID=\"4\">75 893 125 ecus \"> ID=\"1\">Calçado dos códigos SH/NC> ID=\"2\">ex 6402 19 (1) 6402 99 (1)> ID=\"3\">35 000 000 pares> ID=\"4\">27 708 333 pares \"> ID=\"2\">ex 6403 19 (1)> ID=\"3\">2 750 000 pares> ID=\"4\">2 177 083 pares \"> ID=\"2\">6403 51 6403 59> ID=\"3\">2 500 000 pares> ID=\"4\">1 979 167 pares \"> ID=\"2\">ex 6403 91 (1) ex 6403 99 (1)> ID=\"3\">9 926 000 pares> ID=\"4\">7 858 083 pares \"> ID=\"2\">ex 6404 11 (1)> ID=\"3\">16 850 000 pares> ID=\"4\">13 339 583 pares \"> ID=\"2\">6404 19 10> ID=\"3\">29 052 000 pares> ID=\"4\">22 999 500 pares \"> ID=\"1\">Louça de mesa e de cozinha, de porcelana> ID=\"2\">6911 10> ID=\"3\">39 000 toneladas> ID=\"4\">30 875 toneladas \"> ID=\"1\">Louça de mesa e de cozinha, com excepção da de porcelana> ID=\"2\">6912 00> ID=\"3\">29 700 toneladas> ID=\"4\">23 513 toneladas \"> ID=\"1\">Objectos de vidro para serviço de mesa, cozinha, toucador, etc.> ID=\"2\">7013> ID=\"3\">11 000 toneladas> ID=\"4\">8 708 toneladas \"> ID=\"1\">Aparelhos receptores de radiodifusão, dos códigos SH/NC> ID=\"2\">8527 21 8527 29> ID=\"3\">2 100 000 unidades 170 000 unidades> ID=\"4\">1 662 500 unidades 134 583 unidades \"> ID=\"1\">Brinquedos dos códigos SH/NC> ID=\"2\">9503 41 9503 49 9503 90> ID=\"3\">200 798 000 ecus 83 851 000 ecus 508 016 000 ecus> ID=\"4\">158 965 083 ecus 66 382 042 ecus 402 179 333 ecus\"\"\n\n>\n\n(1) Excepto calçado que exija tecnologia especial: calçado com um preço CIF por par igual ou superior a 12 ecus, para uso em actividades desportivas, com sola moldada numa ou em diversas camadas, não injectada, fabricada com materiais sintéticos especialmente concebidos para amortecer os choques ocasionados por movimentos verticais ou laterais, e com características técnicas como, por exemplo, coxins herméticos contendo gás ou um fluido, componentes mecânicos para absorver ou neutralizar o impacte, ou materiais como polímeros de baixa densidade."
+  },
+  "1755b8a93196ee05": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nLista dos produtos originários da República Popular da China, sujeitos a vigilância comunitária \"\" ID=\"1\">Preparações alimentícias dos códigos SH/NC:> ID=\"2\">1901 90 90 \"> ID=\"1\">Chicória torrada:> ID=\"2\">2101 30 11 \"> ID=\"1\">Outros sucedâneos do café torrados:> ID=\"2\">2101 30 19 \"> ID=\"1\">Trióxido de crómio:> ID=\"2\">2819 10 00 \"> ID=\"1\">Cloreto de amónio:> ID=\"2\">2827 10 00 \"> ID=\"1\">Outros poliálcoois:> ID=\"2\">2905 49 90 \"> ID=\"1\">Ácido cítrico:> ID=\"2\">2918 14 00 \"> ID=\"1\">Monotióis:> ID=\"2\">2934 90 60 \"> ID=\"1\">Tetraciclinas e seus derivados:> ID=\"2\">2941 30 00 \"> ID=\"1\">Cloranfenicol:> ID=\"2\">2941 40 00 \"> ID=\"1\">Corantes básicos e preparações à base desses corantes:> ID=\"2\">3204 13 00 \"> ID=\"1\">Corantes de cuba e preparações à base desses corantes:> ID=\"2\">3204 15 00 \"> ID=\"1\">Corantes reagentes e preparações à base desses corantes:> ID=\"2\">3204 16 00 \"> ID=\"1\">Outros corantes, incluídas as misturas:> ID=\"2\">3204 19 00 \"> ID=\"1\">Artigos pirotécnicos:> ID=\"2\">3604 \"> ID=\"1\">Álcoois polivinílicos:> ID=\"2\">3905 20 00 \"> ID=\"1\">Calçado dos códigos SH/NC:> ID=\"2\">ex 6402 19 (1) ex 6402 99 (1) ex 6403 19 (1) ex 6403 91 (1) ex 6403 99 (1) ex 6404 11 (1)\"> ID=\"1\">Tubos, algerozes ou calhas e acessórios para canalizações, de cerâmica:> ID=\"2\">6906 00 00 \"> ID=\"1\">Ladrilhos e placas, para pavimentação ou revestimento, não vidrados nem esmaltados:> ID=\"2\">6907 10 00 \"> ID=\"1\">Estatuetas e outros objectos de ornamentação de porcelana:> ID=\"2\">6913 10 \"> ID=\"1\">Outro vidro dos códigos SH/NC:> ID=\"2\">7004 90 \"> ID=\"1\">Garrafões, garrafas e outros recipientes de vidro próprios para transporte ou embalagem:> ID=\"2\">7010 \"> ID=\"1\">Zinco não ligado contendo, em peso, menos de 99,99 % de zinco:> ID=\"2\">7901 12 \"> ID=\"1\">Bicicletas e outros cicloveículos sem motor> ID=\"2\">8712 00 \"> ID=\"1\">Brinquedos dos códigos SH/NC:> ID=\"2\">9503 30 9503 60 \"> ID=\"1\">Cartas de jogar:> ID=\"2\">9504 40 \"> ID=\"1\">Vassouras e escovas dos códigos SH/NC:> ID=\"2\">9603 21 9603 29 9603 30 9603 40 9603 90\n\n\"\">\n\n(1) Calçado que exija tecnologia especial: calçado com um preço CIF por par igual ou superior a 12 ecus, para uso em actividades desportivas, com sola moldada numa ou em diversas camadas, não injectada, fabricada com materiais sintéticos especialmente concebidos para amortecer os choques ocasionados por movimentos verticais ou laterais, e com características técnicas como, por exemplo, coxins herméticos contendo gás ou um fluido, componentes mecânicos para absorver ou neutralizar o impacte, ou materiais como polímeros de baixa densidade."
+  },
+  "e8a7f8770dc74328": {
+   "fragment_id": "ANEXO IV — Lista das menções que devem figurar nas casas do documento de vigilância DOCUMENTO DE VIGILÂNCIA",
+   "type": "divisao",
+   "heading": "ANEXO IV — Lista das menções que devem figurar nas casas do documento de vigilância DOCUMENTO DE VIGILÂNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — Lista das menções que devem figurar nas casas do documento de vigilância DOCUMENTO DE VIGILÂNCIA\n\n1. Requerente\n\n(nome, endereço completo, país)\n\n2. Número de registo\n\n3. Expedidor (nome, endereço, país)\n\n4. Autoridade emissora competente\n\n(nome e endereço)\n\n5. Declarante (nome e endereço)\n\n6. Data limite do prazo de validade\n\n7. País de origem\n\n8. País de destino\n\n9. Local e data previstos para a importação\n\n10. Referência ao regulamento (CE) que instituiu a vigilância\n\n11. Designação das mercadorias, marcas e números, quantidade e natureza dos volumes\n\n12. Código das mercadorias (NC)\n\n13. Massa bruta (kg)\n\n14. Massa líquida (kg)\n\n15. Unidades suplementares\n\n16. Valor CIF fronteira CE em ecus\n\n17. Menções complementares\n\n18. Certificação pelo requerente:\n\nO abaixo-assinado certifica que as informações que constam do presente pedido são exactas e prestadas de boa fé.\n\nData e local\n\n(assinatura) (carimbo)\n\n19. Visto da autoridade competente\n\nData\n\nAssinatura Carimbo\n\nOriginal destinado ao requerente\n\nExemplar destinado à autoridade competente\n\nCOMUNIDADE EUROPEIA DOCUMENTO DE VIGILÂNCIA\n\n1. Requerente (nome, endereço completo, país) 2. Número de registo\n\n3. Expedidor (nome, endereço, país) 4. Autoridade competente de emissão (nome e endereço)\n\n5. Declarante (nome e endereço) 6. Data limite do prazo de validade\n\n7. País de origem 8. País de proveniência\n\n9. Local e data previstos para a importação 10. Referência ao regulamento (CE) que instituiu a vigilância\n\n11. Designação das mercadorias, marcas e números, quantidade e natureza dos volumes 12. Código das mercadorias (NC)\n\n13. Massa bruta (kg)\n\n14. Massa líquida (kg)\n\n15. Unidades suplementares\n\n16. Valor CIF fronteira CE em ecus\n\n17. Menções complementares\n\n18. Certificação pelo requerente:\n\nO abaixo assinado certifica que as informações que constam do presente pedido são exactas e prestadas de boa fé.\n\n19. Visto da autoridade competente Lugar e data:\n\nData:\n\nAssinatura: Carimbo:\n\n(assinatura) (carimbo)\n\n1 Original destinado à autoridade competente 1\n\nCOMUNIDADE EUROPEIA DOCUMENTO DE VIGILÂNCIA\n\n1. Requerente (nome, endereço completo, país) 2. Número de registo\n\n3. Expedidor (nome, endereço, país) 4. Autoridade competente de emissão (nome e endereço)\n\n5. Declarante (nome e endereço) 6. Data limite do prazo de validade\n\n7. País de origem 8. País de proveniência\n\n9. Local e data previstos para a importação 10. Referência ao regulamento (CE) que instituiu a vigilância\n\n11. Designação das mercadorias, marcas e números, quantidade e natureza dos volumes 12. Código das mercadorias (NC)\n\n13. Massa bruta (kg)\n\n14. Massa líquida (kg)\n\n15. Unidades suplementares\n\n16. Valor CIF fronteira CE em ecus\n\n17. Menções complementares\n\n18. Certificação pelo requerente:\n\nO abaixo assinado certifica que as informações que constam do presente pedido são exactas e prestadas de boa fé.\n\n19. Visto da autoridade competente Lugar e data:\n\nData:\n\nAssinatura: Carimbo:\n\n(assinatura) (carimbo)\n\n2 Exemplar destinado à autoridade competente 2"
+  },
+  "6621cfa6cf1ba5b3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994R0519 — PT — 06.08.2009 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31994R0519) [REGULAMENTO (CE) Nº 519/94 DO CONSELHO](http://publications.europa.eu/resource/celex/31994R0519) [de 7 de Março de 1994](http://publications.europa.eu/resource/celex/31994R0519) [relativo ao regime comum aplicável às importações de certos países terceiros e que revoga os Regulamentos (CEE) nº 1765/82, (CEE) nº 1766/82 e (CEE) nº 3420/83](http://publications.europa.eu/resource/celex/31994R0519) (JO L 067, 10.3.1994, p.89)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 625/2009 do Conselho de 7 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0625) — L 185 — 1 — 17.7.2009"
+  }
+ }
+}

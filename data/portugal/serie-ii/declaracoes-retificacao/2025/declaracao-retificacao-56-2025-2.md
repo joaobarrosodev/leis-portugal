@@ -1,0 +1,91 @@
+---
+schema_version: '1.0'
+id: pt:dre:904363745:por
+title: Declaração de Retificação n.º 56/2025/2
+short_title: null
+summary: Retifica o Edital n.º 63/2025, publicado no Diário da República, 2.ª série, n.º 8, de 13 de janeiro de 2025.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Marco de Canaveses
+proposing_entity: null
+official_number: 56/2025/2
+official_date: null
+publication_date: '2025-01-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 14/2025, Série II de 2025-01-21
+  number: '14'
+  series: II
+  supplement: null
+  pages: 570 - 570
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/01/014000000/0057000570.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '904363745'
+  dre_path: /dr/detalhe/declaracao-retificacao/56-2025-904363745
+  internal: pt:dre:904363745:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/56-2025-904363745
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/56-2025-904363745
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:59:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d185130de6bb38fe72be49c0bbb907843400d8fc58187ba1a5788784fd2c9c94
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:59:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:59:56Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 56/2025/2
+
+Retificação ao Edital n.º 63/2025, inserto no Diário da República, 2.ª série, n.º 8 de 13 de janeiro de 2025
+
+Por ter saído com inexatidão o Edital n.º 63/2025, publicado no Diário da República, 2.ª série, n.º 8, de 13 de janeiro de 2025, referente à aprovação da tabela de taxas e outras receitas - ano 2025, retifica-se que onde se lê «pelo INE (1.020 %) deve ler-se «pelo INE (1.020)».
+
+14 de janeiro de 2025. - A Presidente da Câmara Municipal, Dr.ª Cristina Vieira.
+
+318566646

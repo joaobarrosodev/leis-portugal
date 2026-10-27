@@ -1,0 +1,237 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:550177:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-137808769",
+ "dre_path": "/dr/detalhe/decreto-lei/383-1989-550177",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1989-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "137704427",
+    "137704428",
+    "137704429",
+    "137704430",
+    "137704431",
+    "137704432",
+    "137704433",
+    "137704434",
+    "137704435",
+    "137704436",
+    "137704437",
+    "137704438",
+    "137704439",
+    "137704440",
+    "137704441",
+    "137704442"
+   ]
+  },
+  {
+   "date": "2001-06-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165044:por",
+     "title": "Decreto-Lei n.º 131/2001",
+     "published": "2001-04-24",
+     "dre_path": "/dr/detalhe/decreto-lei/131-2001-165044"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "137704427",
+    "137704428",
+    "137704429",
+    "137704451",
+    "137704431",
+    "137704432",
+    "137704433",
+    "137704434",
+    "137704449",
+    "137704450",
+    "137704437",
+    "137704438",
+    "137704439",
+    "137704440",
+    "137704441",
+    "137704442",
+    "137704443"
+   ]
+  }
+ ],
+ "fragments": {
+  "137704427": {
+   "fragment_id": "137808770",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 383/89\n\nde 6 de Novembro\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1985&id=385L0374\" title=\"Link para Directiva da Comunidade Europeia\">85/374/CEE</a>, do Conselho, de 25 de Julho de 1985, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados membros em matéria da responsabilidade decorrente de produtos defeituosos.\n\nNo artigo 1.º consagra-se o princípio fundamental de responsabilidade objectiva do produtor, desenvolvido nas normas sucessivas. É a solução preconizada pela doutrina como a mais adequada à protecção do consumidor na produção técnica moderna, em que perpassa o propósito de alcançar uma justa repartição de riscos e um correspondente equilíbrio de interesses entre o lesado e o produtor.\n\nA tutela eficaz do lesado justifica:\n\na) A noção ampla de produtor;\n\nb) A solidariedade de vários responsáveis;\n\nc) A não diminuição da responsabilidade do produtor pela intervenção de terceiro que tenha contribuído para causar o dano;\n\nd) A inderrogabilidade do regime da responsabilidade;\n\ne) A preservação da responsabilidade decorrente de outras disposições legais.\n\nO intuito de não agravar demasiado a posição do produtor leva a que a responsabilidade objectiva não seja absoluta e explica:\n\na) O elenco de causas de exclusão da responsabilidade, de que faz parte o estado dos conhecimentos científicos e técnicos, não se tendo usado da faculdade concedida pela directiva de introduzir a responsabilidade pelos chamados riscos do desenvolvimento;\n\nb) O limite máximo da responsabilidade global pelos danos pessoais em série, de acordo com a nossa tradição jurídica, num montante equivalente ao mínimo consentido pela directiva, e apesar de esta não admitir um limite ao ressarcimento de cada lesado;\n\nc) O prazo de prescrição de três anos, bem como o prazo de caducidade de 10 anos.\n\nSaliente-se, por último, que este diploma não se aplica aos produtos agrícolas naturais que não tenham sofrido qualquer transformação, aos acidentes nucleares e aos produtos postos em circulação antes da sua entrada em vigor.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "137704428": {
+   "fragment_id": "137808771",
+   "type": 11,
+   "heading": "Artigo 1.º — Responsabilidade objectiva do produtor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Responsabilidade objectiva do produtor\n\nO produtor é responsável, independentemente de culpa, pelos danos causados por defeitos dos produtos que põe em circulação."
+  },
+  "137704429": {
+   "fragment_id": "137808772",
+   "type": 11,
+   "heading": "Artigo 2.º — Produtor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Produtor\n\n1 - Produtor é o fabricante do produto acabado, de uma parte componente ou de matéria-prima, e ainda quem se apresente como tal pela aposição no produto do seu nome, marca ou outro sinal distintivo.\n\n2 - Considera-se também produtor:\n\na) Aquele que, na Comunidade Económica Europeia e no exercício da sua actividade comercial, importe do exterior da mesma produtos para venda, aluguer, locação financeira ou outra qualquer forma de distribuição;\n\nb) Qualquer fornecedor de produto cujo produtor comunitário ou importador não esteja identificado, salvo se, notificado por escrito, comunicar ao lesado no prazo de três meses, igualmente por escrito, a identidade de um ou outro, ou a de algum fornecedor precedente."
+  },
+  "137704430": {
+   "fragment_id": "137808773",
+   "type": 11,
+   "heading": "Artigo 3.º — Produto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produto\n\n1 - Entende-se por produto qualquer coisa móvel, ainda que incorporada noutra coisa móvel ou imóvel.\n\n2 - Exceptuam-se os produtos do solo, da pecuária, da pesca e da caça, quando não tenham sofrido qualquer transformação."
+  },
+  "137704431": {
+   "fragment_id": "137808774",
+   "type": 11,
+   "heading": "Artigo 4.º — Defeito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Defeito\n\n1 - Um produto é defeituoso quando não oferece a segurança com que legitimamente se pode contar, tendo em atenção todas as circunstâncias, designadamente a sua apresentação, a utilização que dele razoavelmente possa ser feita e o momento da sua entrada em circulação.\n\n2 - Não se considera defeituoso um produto pelo simples facto de posteriormente ser posto em circulação outro mais aperfeiçoado."
+  },
+  "137704432": {
+   "fragment_id": "137808975",
+   "type": 11,
+   "heading": "Artigo 5.º — Exclusão de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exclusão de responsabilidade\n\nO produtor não é responsável se provar:\n\na) Que não pôs o produto em circulação;\n\nb) Que, tendo em conta as circunstâncias, se pode razoavelmente admitir a inexistência do defeito no momento da entrada do produto em circulação;\n\nc) Que não fabricou o produto para venda ou qualquer outra forma de distribuição com um objectivo económico, nem o produziu ou distribuiu no âmbito da sua actividade profissional;\n\nd) Que o defeito é devido à conformidade do produto com normas imperativas estabelecidas pelas autoridades públicas;\n\ne) Que o estado dos conhecimentos científicos e técnicos, no momento em que pôs o produto em circulação, não permitia detectar a existência do defeito;\n\nf) Que, no caso de parte componente, o defeito é imputável à concepção do produto em que foi incorporada ou às instruções dadas pelo fabricante do mesmo."
+  },
+  "137704433": {
+   "fragment_id": "137808976",
+   "type": 11,
+   "heading": "Artigo 6.º — Responsabilidade solidária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Responsabilidade solidária\n\n1 - Se várias pessoas forem responsáveis pelos danos, é solidária a sua responsabilidade.\n\n2 - Nas relações internas, deve atender-se às circunstâncias, em especial ao risco criado por cada responsável, à gravidade da culpa com que eventualmente tenha agido e à sua contribuição para o dano.\n\n3 - Em caso de dúvida, a repartição da responsabilidade faz-se em partes iguais."
+  },
+  "137704434": {
+   "fragment_id": "137808977",
+   "type": 11,
+   "heading": "Artigo 7.º — Concurso do lesado e de terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Concurso do lesado e de terceiro\n\n1 - Quando um facto culposo do lesado tiver concorrido para o dano, pode o tribunal, tendo em conta todas as circunstâncias, reduzir ou excluir a indemnização.\n\n2 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo anterior, a responsabilidade do produtor não é reduzida quando a intervenção de um terceiro tiver concorrido para o dano."
+  },
+  "137704435": {
+   "fragment_id": "137808978",
+   "type": 11,
+   "heading": "Artigo 8.º — Danos ressarcíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Danos ressarcíveis\n\n1 - São ressarcíveis os danos resultantes de morte ou lesão pessoal e os danos em coisa diversa do produto defeituoso, desde que seja normalmente destinada ao uso ou consumo privado e o lesado lhe tenha dado principalmente este destino.\n\n2 - Os danos causados em coisas só são indemnizáveis na medida em que excedam a verba de 70000$00."
+  },
+  "137704436": {
+   "fragment_id": "137808979",
+   "type": 11,
+   "heading": "Artigo 9.º — Limite máximo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Limite máximo\n\n1 - No caso de morte ou lesão de várias pessoas causada por produtos idênticos que apresentem o mesmo defeito, o ressarcimento total não pode ultrapassar o montante de 10000 milhões de escudos.\n\n2 - O juiz pode fixar uma reparação de montante provisório a cada um dos lesados, tendo em conta a eventualidade de novas lesões causadas pelo mesmo facto virem a ser deduzidas em juízo."
+  },
+  "137704437": {
+   "fragment_id": "137808980",
+   "type": 11,
+   "heading": "Artigo 10.º — Inderrogabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Inderrogabilidade\n\nNão pode ser excluída ou limitada a responsabilidade perante o lesado, tendo-se por não escritas as estipulações em contrário."
+  },
+  "137704438": {
+   "fragment_id": "137808981",
+   "type": 11,
+   "heading": "Artigo 11.º — Prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prescrição\n\nO direito ao ressarcimento prescreve no prazo de três anos a contar da data em que o lesado teve ou deveria ter tido conhecimento do dano, do defeito e da identidade do produtor."
+  },
+  "137704439": {
+   "fragment_id": "137808982",
+   "type": 11,
+   "heading": "Artigo 12.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Caducidade\n\nDecorridos 10 anos sobre a data em que o produtor pôs em circulação o produto causador do dano, caduca o direito ao ressarcimento, salvo se estiver pendente acção intentada pelo lesado."
+  },
+  "137704440": {
+   "fragment_id": "137808983",
+   "type": 11,
+   "heading": "Artigo 13.º — Outras disposições legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Outras disposições legais\n\nO presente diploma não afasta a responsabilidade decorrente de outras disposições legais."
+  },
+  "137704441": {
+   "fragment_id": "137808984",
+   "type": 11,
+   "heading": "Artigo 14.º — Acidentes nucleares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acidentes nucleares\n\nAos danos provenientes de acidentes nucleares regulados por convenções internacionais vigentes no Estado Português não são aplicáveis as disposições do presente diploma."
+  },
+  "137704442": {
+   "fragment_id": "137808985",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma transitória\n\nEste diploma não se aplica aos danos causados por produtos postos em circulação antes da sua entrada em vigor."
+  },
+  "137704451": {
+   "fragment_id": "137808773",
+   "type": 11,
+   "heading": "Artigo 3.º — Produto",
+   "in_force_from": "2001-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2001 - Diário da República n.º 96/2001, Série I-A de 2001-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2001-165044), em vigor a partir de 2001-06-23"
+   ],
+   "markdown": "###### Artigo 3.º — Produto\n\n1 - Entende-se por produto qualquer coisa móvel, ainda que incorporada noutra coisa móvel ou imóvel.\n\n2 - ( Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2001 - Diário da República n.º 96/2001, Série I-A de 2001-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2001-165044), em vigor a partir de 2001-06-23"
+  },
+  "137704449": {
+   "fragment_id": "137808978",
+   "type": 11,
+   "heading": "Artigo 8.º — Danos ressarcíveis",
+   "in_force_from": "2001-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 131/2001 - Diário da República n.º 96/2001, Série I-A de 2001-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2001-165044), em vigor a partir de 2001-06-23"
+   ],
+   "markdown": "###### Artigo 8.º — Danos ressarcíveis\n\n1 - São ressarcíveis os danos resultantes de morte ou lesão pessoal e os danos em coisa diversa do produto defeituoso, desde que seja normalmente destinada ao uso ou consumo privado e o lesado lhe tenha dado principalmente este destino.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 131/2001 - Diário da República n.º 96/2001, Série I-A de 2001-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2001-165044), em vigor a partir de 2001-06-23"
+  },
+  "137704450": {
+   "fragment_id": "137808979",
+   "type": 11,
+   "heading": "Artigo 9.º — Limites",
+   "in_force_from": "2001-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 131/2001 - Diário da República n.º 96/2001, Série I-A de 2001-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2001-165044), em vigor a partir de 2001-06-23"
+   ],
+   "markdown": "###### Artigo 9.º — Limites\n\nOs danos causados em coisas a que se refere o artigo anterior só são indemnizáveis na medida em que excedam o valor de (euro) 500 ou 100241$00.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 131/2001 - Diário da República n.º 96/2001, Série I-A de 2001-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2001-165044), em vigor a partir de 2001-06-23"
+  },
+  "137704443": {
+   "fragment_id": "137808986",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Setembro de 1989. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Joaquim Fernando Nogueira - Luís Fernando Mira Amaral - Licínio Alberto de Almeida Cunha.\n\nPromulgado em 5 de Outubro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Outubro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

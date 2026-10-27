@@ -1,0 +1,353 @@
+---
+schema_version: '1.0'
+id: pt:dre:175335:por
+title: Decreto-Lei n.º 196/2012
+short_title: null
+summary: Aprova a orgânica do Instituto de Informática, I. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Solidariedade e da Segurança Social
+proposing_entity: null
+official_number: 196/2012
+official_date: null
+publication_date: '2012-08-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 163/2012, Série I de 2012-08-23
+  number: '163'
+  series: I
+  supplement: null
+  pages: 4648 - 4650
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/08/16300/0464804650.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-07-29'
+version_history:
+  file: decreto-lei-196-2012.versoes.json
+  count: 4
+  source_lastmod: '2026-07-28'
+  versions:
+  - date: '2012-08-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-06-01'
+    amending: pt:dre:184108564:por
+    amending_title: Decreto-Lei n.º 38/2022
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+  - date: '2026-03-01'
+    amending: pt:dre:1049254411:por
+    amending_title: Decreto-Lei n.º 39/2026
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 14.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º
+    - Revoga Artigo 7.º
+  - date: '2026-07-29'
+    amending: pt:dre:1152696596:por
+    amending_title: Decreto-Lei n.º 150/2026
+    changes:
+    - Altera Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/196/2012/p/cons/20260728/pt/html
+  oj: null
+  dre: '175335'
+  dre_path: /dr/detalhe/decreto-lei/196-2012-175335
+  internal: pt:dre:175335:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2012-175335
+  metadata_url: https://data.dre.pt/eli/dec-lei/196/2012/p/cons/20260728/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-184181023
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-184181023
+  retrieved_at: '2026-10-22T13:47:15Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-07-28T00:00:00Z'
+integrity:
+  source_sha256: d360800dd2a33ae0d56409328c1e3c94cad9842063ca1e697b7c0f50192ade5a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:47:15Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-196-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fiscal Único
+- Pessoal Dirigente
+- Definição de Competências
+- Conselho Diretivo
+- Conselho Consultivo
+- Instituto de Informática
+- Orgânica
+- Presidente
+- Vice-presidente
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:184108564:por
+  label: Altera Artigo 1.º; Altera Artigo 8.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564
+  date: '2022-05-30'
+- type: amended_by
+  target: pt:dre:1049254411:por
+  label: Adita Artigo 3.º-A; Adita Artigo 14.º-A; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 9.º;
+    Altera Artigo 13.º; Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411
+  date: '2026-02-13'
+- type: amended_by
+  target: pt:dre:1152696596:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596
+  date: '2026-07-28'
+- type: cites
+  target: pt:dre:455423:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/154/2008/08/06/p/dre
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:638542:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/2007/05/29/p/dre
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:47:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 196/2012
+
+Decreto-Lei n.º 196/2012
+
+de 23 de agosto
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+O funcionamento do sistema da segurança social necessita da existência de uma entidade capaz de construir, gerir e melhorar o sistema de informação que suporta os dados resultantes das relações contributivas e não contributivas. O Instituto de Informática, I. P., é essa entidade, cabendo-lhe assegurar o tratamento da informação existente no sistema. No presente diploma procurou-se assegurar a existência de condições apropriadas para satisfazer as necessidades do instituto, permitindo-lhe exercer as suas funções de guardião do sistema de informação da segurança social.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - O Instituto de Informática, I. P., doravante abreviadamente designado II, I. P., é um instituto público de regime especial nos termos da lei integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.
+
+2 - O II, I. P., prossegue atribuições do Ministério do Trabalho, Solidariedade e Segurança Social (MTSSS), sob superintendência e tutela do respetivo ministro.
+
+3 - O II, I. P., é equiparado a entidade pública empresarial, no âmbito das suas atribuições de construção, gestão e operação de sistemas aplicacionais e de infraestruturas tecnológicas nas áreas de tecnologias de informação e comunicação dos serviços e organismos da área governativa do trabalho, solidariedade e segurança social, numa lógica de serviços comuns partilhados, para efeitos de recrutamento de trabalhadores que desempenhem funções correspondentes ao conteúdo funcional das carreiras de técnico de informática e especialista de informática.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411), em vigor a partir de 2026-03-01
+
+> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - O II, I. P., é um organismo central com jurisdição sobre todo o território nacional.
+
+2 - O II, I. P., tem sede em Porto Salvo.
+
+###### Artigo 3.º — Missão
+
+1 - O II, I. P., tem por missão definir e propor as políticas e estratégias de tecnologias de informação e comunicação, garantindo o planeamento, conceção, execução e avaliação das iniciativas de transformação digital dos serviços e organismos do MTSSS, e dos serviços por estes prestados à sociedade.
+
+2 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411), em vigor a partir de 2026-03-01
+
+###### Artigo 3.º-A — Atribuições
+
+São atribuições do II, I. P.:
+
+a) Assegurar a coordenação da transformação digital dos serviços prestados pelos serviços e organismos do MTSSS, em articulação com a Agência para a Reforma Tecnológica do Estado, I. P. (ARTE, I. P.);
+
+b) Elaborar o plano estratégico de sistemas de informação de todos os serviços e organismos do MTSSS, em articulação com a ARTE, I. P.;
+
+c) Definir e controlar o cumprimento de normas e procedimentos relativos à seleção, aquisição e utilização de infraestruturas tecnológicas e sistemas de informação, enquanto organismo setorial do MTSSS, para as áreas das tecnologias de informação e comunicação em articulação com a ARTE, I. P.;
+
+d) Assegurar a construção, gestão e operação de sistemas aplicacionais e de infraestruturas tecnológicas nas áreas de tecnologias de informação e comunicação dos serviços e organismos do MTSSS, numa lógica de serviços comuns partilhados;
+
+e) Promover a unificação e a racionalização de métodos, recursos, processos e infraestruturas tecnológicas e de comunicação nos serviços e organismos do MTSSS, assegurando, designadamente, e nos termos fixados no plano estratégico previsto na alínea b), a aquisição, instalação e funcionamento dos equipamentos informáticos, bem como a sua substituição;
+
+f) Assegurar a interoperabilidade com os organismos com atribuições interministeriais na área das tecnologias de informação e comunicação, em articulação com a ARTE, I. P.;
+
+g) Prestar serviços a departamentos da área governativa do trabalho, solidariedade e segurança social, bem como a outros departamentos da Administração Pública, a empresas públicas ou a entidades privadas, com base em adequados instrumentos contratuais que determinem, designadamente, os níveis de prestação e respetivas contrapartidas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 39/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411), em vigor a partir de 2026-03-01
+
+###### Artigo 4.º — Órgãos
+
+São órgãos do II, I. P.:
+
+a) O conselho diretivo;
+
+b) O fiscal único;
+
+c) O conselho consultivo.
+
+###### Artigo 5.º — Conselho diretivo
+
+1 - O conselho diretivo é composto por um presidente, um vice-presidente e dois vogais.
+
+2 - Compete ao conselho diretivo dirigir e orientar a ação dos órgãos e serviços do II, I. P., nos termos das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411), em vigor a partir de 2026-03-01
+
+###### Artigo 6.º — Fiscal único
+
+O fiscal único é designado e tem as competências previstas na lei-quadro dos institutos públicos.
+
+###### Artigo 7.º — Conselho consultivo
+
+1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do II, I. P., e nas tomadas de decisão do conselho diretivo.
+
+2 - O conselho consultivo é constituído pelos dirigentes máximos dos serviços e organismos integrados nas administrações direta e indireta do Ministério da Solidariedade e da Segurança Social e dos serviços e organismos do Ministério da Economia e do Emprego que prossigam atribuições nas áreas relacionadas com as relações de trabalho e emprego e por um representante de cada um dos parceiros sociais.
+
+3 - O conselho consultivo é ainda constituído pelo diretor-geral da Autoridade Tributária e Aduaneira, sempre que estejam em causa matérias relacionadas com a coleta de contribuições.
+
+4 - O presidente e os representantes dos parceiros sociais são designados pelos membros do Governo responsáveis pelas áreas da solidariedade, da segurança social, da economia e do emprego.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411), em vigor a partir de 2026-03-01
+
+###### Artigo 8.º — Organização interna
+
+A organização interna do II, I. P., é a prevista nos respetivos estatutos e regulamentos internos, a aprovar nos termos da Lei-Quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, na sua redação atual.
+
+> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01
+
+###### Artigo 9.º — Estatuto dos membros do conselho diretivo
+
+Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestor público, tendo por referência as empresas públicas classificadas como grupo A.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411), em vigor a partir de 2026-03-01
+
+###### Artigo 10.º — Receitas
+
+1 - O II, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado e pelo orçamento da segurança social.
+
+2 - O II, I. P., dispõe ainda das seguintes receitas próprias:
+
+a) As contrapartidas de serviços prestados a pessoas coletivas públicas e a entidades privadas;
+
+b) As que resultem de direitos de propriedade de produtos e patentes que venham a ser por si desenvolvidas;
+
+c) O produto da venda de publicações, no âmbito das suas atribuições;
+
+d) Os subsídios, os prémios e as doações que lhe forem atribuídos por entidade nacional ou estrangeira;
+
+e) As heranças e os legados;
+
+f) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - As receitas próprias referidas no número anterior são consignadas à realização de despesas do II, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.
+
+###### Artigo 11.º — Despesas
+
+Constituem despesas do II, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições.
+
+###### Artigo 12.º — Património
+
+O património do II, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular.
+
+###### Artigo 13.º — Cargos dirigentes intermédios
+
+1 - É cargo de direção intermédia de 1.º grau do II, I. P., o diretor de departamento.
+
+2 - São cargos de direção intermédia de 2.º grau do II, I. P., os diretores de unidade e o secretário do conselho diretivo.
+
+3 - A remuneração base dos cargos de direção intermédia identificados nos números anteriores é determinada em percentagem da remuneração total do vogal do conselho diretivo do II, I. P., nas seguintes proporções:
+
+a) Para o cargo de diretor de departamento: até 75 % da remuneração total do vogal do conselho diretivo do II, I. P.;
+
+b) Para o cargo de diretor de unidade: até 65 % da remuneração total do vogal do conselho diretivo do II, I. P.;
+
+c) Para o cargo de secretário do conselho diretivo, é de 50 % da remuneração total do vogal do conselho diretivo do II, I. P.
+
+4 - A remuneração dos cargos de diretor de departamento e de diretor de unidade é estabelecida, em cada momento, por despacho dos membros do Governo responsáveis pelas áreas das finanças e do trabalho, solidariedade e segurança social por referência aos valores fixados para os cargos de diretor e de coordenador na Entidade de Serviços Partilhados da Administração Pública, I. P.
+
+5 - Os limites definidos nos números anteriores englobam todas as componentes remuneratórias.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411), em vigor a partir de 2026-03-01
+
+###### Artigo 14.º — Área de recrutamento de cargos dirigentes intermédios
+
+Podem candidatar-se aos procedimentos concursais para os cargos de direção intermédia do II, I. P., os trabalhadores em funções públicas contratados ou designados por tempo indeterminado da carreira técnica das carreiras específicas do II, I. P., ou em regime de contrato individual de trabalho sem termo do II, I. P., que possuam licenciatura e que reúnam aptidão técnica para o exercício de funções de direção, coordenação e controlo com, pelo menos, seis ou quatro anos de experiência profissional, consoante se trate de cargos de direção intermédia de 1.º ou 2.º grau, respetivamente.
+
+> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01
+
+###### Artigo 14.º-A — Trabalhadores em cedência de interesse público no Instituto de Informática, I. P.
+
+1 - Atenta a equiparação a entidade pública empresarial prevista no n.º 3 do artigo 1.º, o II, I. P., pode propor a celebração de acordos de cedência de interesse público a trabalhadores detentores de contrato de trabalho em funções públicas, com ou sem vínculo ao II, I. P., nos termos previstos nos artigos 241.º e seguintes da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual e demais legislação aplicável, para desempenho de funções em carreira prevista no regulamento de carreiras do II, I. P.
+
+2 - O previsto no número anterior não prejudica a manutenção do vínculo de emprego público.
+
+3 - A cedência de interesse público no II, I. P., prevista no n.º 1, apenas pode ocorrer após aprovação do novo regulamento de carreiras do II, I. P., pelos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e do trabalho, solidariedade e segurança social.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 39/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2026-1049254411), em vigor a partir de 2026-03-01
+
+###### Artigo 15.º — Norma transitória
+
+Durante a vigência do Programa de Assistência Económica e Financeira, da aplicação das regras de fixação de remuneração estabelecidas pelo presente diploma não pode resultar um aumento da remuneração efetivamente paga aos cargos de direção intermédia, designados ou a designar, tendo por referência a remuneração atribuída à data de entrada em vigor do presente diploma, sem prejuízo do eventual exercício da opção pelo vencimento do lugar de origem nas novas designações.
+
+###### Artigo 16.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 211/2007, de 29 de maio, alterado pelo Decreto-Lei n.º 154/2008, de 6 de agosto.
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 5 de julho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.
+
+Promulgado em 10 de agosto de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 14 de agosto de 2012.
+
+Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.

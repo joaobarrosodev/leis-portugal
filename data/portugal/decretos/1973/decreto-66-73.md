@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:684785:por
+title: Decreto n.º 66/73
+short_title: null
+summary: Determina várias providências sobre a classificação e comercialização dos vinhos e derivados no ultramar
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Economia
+proposing_entity: null
+official_number: 66/73
+official_date: null
+publication_date: '1973-02-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 48/1973, Série I de 1973-02-26
+  number: '48'
+  series: I
+  supplement: null
+  pages: 306 - 306
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/02/04800/03060306.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '684785'
+  dre_path: /dr/detalhe/decreto/66-1973-684785
+  internal: pt:dre:684785:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/66-1973-684785
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/66-1973-684785
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:31:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6c6734d12ae44aed97e379386ffe45cc0aae253783b32d997676f649b07bee05
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:31:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:155187:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:156977:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:446321:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:511671:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690063:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:31:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 66/73
+
+de 26 de Fevereiro
+
+Por motivo de urgência, ao abrigo do § 3.º do artigo 136.º da Constituição;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+
+Artigo 1.º - 1. As definições e classificação dos vinhos e derivados em vigor no ultramar, por força da alínea a) do artigo 10.º do [Decreto n.º 176/70](https://diariodarepublica.pt/dr/detalhe/decreto/176-1970-225874), de 20 de Abril, rectificado pelo [Decreto n.º 9/71](https://diariodarepublica.pt/dr/detalhe/decreto/9-1971-446321), de 14 de Janeiro, são complementadas:
+
+a) Quanto a vinhos espumantes naturais e espumosos gasificados, pelo [Decreto-Lei n.º 44778](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44778-1962-155187), de 7 de Dezembro de 1962;
+
+b) Quanto a vinhos aperitivos e medicinais, pelo [Decreto-Lei n.º 46642](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46642-1965-511671), de 13 de Novembro de 1965; e
+
+c) Quanto a aguardentes de origem vínica, pela [Portaria n.º 610/72](https://diariodarepublica.pt/dr/detalhe/portaria/610-1972-690063), de 14 de Outubro.
+
+2. Na legislação regulamentar a publicar pelas províncias ultramarinas deverão ser observadas as definições e classificação conferidas aos vinhos típicos regionais pelos diplomas regulamentares das respectivas regiões demarcadas.
+
+Art. 2.º A norma III anexa ao [Decreto n.º 176/70](https://diariodarepublica.pt/dr/detalhe/decreto/176-1970-225874) passa a ter a seguinte redacção:
+
+III) - 1. Para a comercialização dos vinhos recebidos a granel da metrópole, bem como no fabrico e preparação de derivados, só poderão ser efectuadas as operações correntes, tais como a trasfega, a filtragem, a colagem, a lotagem, a pasteurização, a refrigeração, o tratamento pelo calor, e outras sancionadas pelo uso, e adicionados apenas os produtos previstos no artigo 13.º do [Decreto-Lei n.º 35846](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35846-1946-156977), de 2 de Setembro de 1946, e, bem assim, os produtos mencionados e aplicados nas condições dos despachos ministeriais publicados no Diário do Governo, 1.ª série, n.º 180, de 12 de Setembro de 1950 (goma arábica); n.º 134, de 30 de Junho de 1951 (bentonite); n.º 137, de 11 de Junho de 1964 (ácidos sórbico e ascórbico) e n.º 177, de 29 de Julho de 1964 (ácido metatartárico).
+
+2. Não é permitida a venda em mistura dos aditivos autorizados, devendo, cada qual, obedecer ao Codex Enológico Internacional, publicado pelo Office International de la Vigne et du Vin.
+
+3. Quanto a contaminantes, devem ser observados os limites máximos fixados para o boro, bromo total, flúor, chumbo, arsénio e sódio excedentário no Anexo C à Convenção Internacional para a Unificação dos Métodos de Análise e de Apreciação de Vinhos, já em vigor no ultramar por virtude do [Decreto n.º 9/71](https://diariodarepublica.pt/dr/detalhe/decreto/9-1971-446321).
+
+Art. 3.º A alínea a) da norma XLV anexa ao [Decreto n.º 176/70](https://diariodarepublica.pt/dr/detalhe/decreto/176-1970-225874), de 20 de Abril, passa a ter a seguinte redacção:
+
+XLV) Independentemente de outras proibições que venham a ser estabelecidas pela legislação provincial, no fabrico, preparação e comercialização de aguardentes só poderá ser permitido:
+
+a) O uso do caramelo como corante nas condições determinadas pelo despacho ministerial publicado no Diário do Governo, 1.ª série, n.º 145, de 24 de Junho de 1966;
+
+b) (Sem alteração.)
+
+c) (Sem alteração.)
+
+d) (Sem alteração.)
+
+e) (Sem alteração.)
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 9 de Fevereiro de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

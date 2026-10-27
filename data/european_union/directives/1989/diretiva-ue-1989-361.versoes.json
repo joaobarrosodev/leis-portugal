@@ -1,0 +1,266 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0361:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0361-20080903",
+ "dre_path": null,
+ "source_lastmod": "2008-09-03",
+ "versions": [
+  {
+   "date": "1989-06-06",
+   "future": false,
+   "celex": "31989L0361",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0a1fb988abc788fc",
+    "8e058d5b4a73ace3",
+    "e54cdff1c5ae90ef",
+    "fa96151c3c40f2ba",
+    "9f040324165eb6dc",
+    "de21728aa3852205",
+    "f94d6a1dbebeaade",
+    "a1e6f565d34e42b1",
+    "25ab6a2ce1ef3d5e",
+    "73ddaddf0c2ffea5",
+    "cea6cc545f16c622"
+   ]
+  },
+  {
+   "date": "2008-09-03",
+   "future": false,
+   "celex": "01989L0361-20080903",
+   "acts": [
+    {
+     "id": "eu:celex:32008L0073:por",
+     "title": "DIRECTIVA 2008/73/CE DO CONSELHO Texto relevante para efeitos do EEE de 15 de Julho de 2008",
+     "published": null,
+     "celex": "32008L0073"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º"
+   ],
+   "fragments": [
+    "6fc3957ef2d582fc",
+    "9ea76be7c13bbb5d",
+    "3d6ced858062a951",
+    "7eef7939eca4fb46",
+    "98362440c1329d02",
+    "1fcdb96102bbf7c9",
+    "e8c20a3b926ebfeb",
+    "c90488d707bf750e",
+    "1328c2be39d82871",
+    "362cfe0280eb0d1a",
+    "22271c89e70db9d0",
+    "520176fe2ba5c0d3"
+   ]
+  }
+ ],
+ "fragments": {
+  "0a1fb988abc788fc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/361/CEE do Conselho, de 30 de Maio de 1989, relativa aos animais reprodutores de raça pura das espécies ovina e caprina** *Jornal Oficial nº L 153 de 06/06/1989 p. 0030 - 0031 Edição especial finlandesa: Capítulo 3 Fascículo 29 p. 0107 Edição especial sueca: Capítulo 3 Fascículo 29 p. 0107*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 30 de Maio de 1989\n\nrelativa aos animais reprodutores de raça pura das espécies ovina e caprina\n\n(89/361/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a criação e a produção de animais das espécies ovina e caprina ocupam um lugar importante na agricultura da Comunidade; que podem constituir uma fonte de rendimentos para uma parte da população agrícola;\n\nConsiderando que é conveniente incentivar a produção de animais das espécies ovina e caprina e que a obtenção de resultados satisfatórios neste domínio depende, em larga medida, da utilização de animais de raça pura;\n\nConsiderando que existem disparidades em matéria de inscrição nos livros genealógicos; que estas disparidades constituem um entrave às trocas comerciais intracomunitárias; que a liberalização total das trocas comerciais pressupõe a posterior harmonização, nomeadamente no que respeita à inscrição nos livros genealógicos;\n\nConsiderando que é conveniente, para eliminar as referidas disparidades e contribuir, desse modo, para o aumento da produtividade da agricultura no sector considerado, liberalizar as trocas comerciais intracomunitárias;\n\nConsiderando que os Estados-membros devem ter a possibilidade de exigir a apresentação de certificados estabelecidos de acordo com um procedimento comunitário;\n\nConsiderando que se deve prever que as importações de ovinos e de caprinos reprodutores de raça pura provenientes de países terceiros não possam efectuar-se sob condições menos severas que as aplicadas na Comunidade;\n\nConsiderando que é conveniente tomar medidas de aplicação em determinados domínios de carácter técnico; que, para a aplicação das medidas previstas, se justifica prever um processo que estabeleça uma cooperação estreita entre os Estados-membros e a Comissão no âmbito do Comité Zootécnico Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8e058d5b4a73ace3": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva diz respeito aos problemas zootécnicos que podem surgir por ocasião de trocas comerciais intracomunitárias de animais reprodutores de raça pura das espécies ovina e caprina e dos respectivos espermas, óvulos e embriões.\n\n2. Até à entrada em vigor das disposições comunitárias na matéria, as normas de política sanitária relativas às trocas comerciais intracomunitárias ficam sujeitas ao direito nacional, na observância das regras gerais do Tratado."
+  },
+  "e54cdff1c5ae90ef": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nNa acepção da presente directiva, entende-se por:\n\na) Ovinos ou caprinos reprodutores de raça pura: qualquer animal das espécies ovina ou caprina cujos pais e avós estejam inscritos ou registados num livro genealógico da mesma raça e que ele próprio se encontre quer inscrito quer registado e susceptível de aí ser inscrito;\n\nb) Livro genealógico: qualquer livro, registo, ficheiro ou suporte informático\n\n- mantido quer por uma organização ou associação de criadores aprovada oficialmente pelo Estado-membro em que esta organização ou associação se encontre estabelecida quer por um serviço oficial do Estado-membro em causa\n\ne\n\n- no qual são inscritos ou registados os ovinos ou caprinos reprodutores de raça pura de uma raça determinada, com menção dos seus ascendentes."
+  },
+  "fa96151c3c40f2ba": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros não podem proibir, restringir ou dificultar por razões zootécnicas:\n\n- as trocas comerciais intracomunitárias de reprodutores ovinos e caprinos de raça pura ou dos respectivos espermas, óvulos e embriões,\n\n- a aprovação oficial das organizações ou associações de criadores que mantenham ou criem livros genealógicos nos termos do artigo 4º\n\n2. Todavia, os Estados-membros podem manter as disposições nacionais conformes com as regras gerais do Tratado, até à entrada em vigor das decisões comunitárias sobre a matéria referidas nos artigos 4º e 6º"
+  },
+  "9f040324165eb6dc": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nA Comissão, segundo o procedimento previsto no artigo 8º, fixará, antes de 1 de Janeiro de 1991:\n\n- os critérios de aprovação das organizações e associações de criadores que mantenham ou criem livros genealógicos,\n\n- os critérios de inscrição e registo nos livros genealógicos,\n\n- os métodos de controlo das capacidades e de apreciação do valor genético dos ovinos e caprinos reprodutores de raça pura,\n\n- os critérios de admissão do reprodutor ou da reprodutora à reprodução e de utilização dos respectivos espermas, óvulos e embriões."
+  },
+  "de21728aa3852205": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros informarão a Comissão e os outros Estados-membros das aprovações concedidas às organizações e associações de criadores que mantenham ou criem livros genealógicos e satisfaçam os critérios a estabelecer de acordo com o primeiro travessão do artigo 4º,"
+  },
+  "f94d6a1dbebeaade": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros podem exigir que os ovinos ou caprinos reprodutores de raça pura, bem como os respectivos espermas, óvulos e embriões, sejam acompanhados, aquando da sua comercialização, de um certificado zootécnico conforme a um modelo estabelecido pela Comissão nos termos do artigo 8º"
+  },
+  "a1e6f565d34e42b1": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nAté à entrada em aplicação de uma regulamentação comunitária na matéria, as condições zootécnicas aplicáveis às importações de ovinos ou caprinos reprodutores de raça pura e dos respectivos espermas, óvulos e embriões, provenientes de países terceiros, não devem ser mais favoráveis que as que regem as trocas intracomunitárias."
+  },
+  "25ab6a2ce1ef3d5e": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nNo caso de ser feita referência ao procedimento definido no presente artigo, o Comité Zootécnico Permanente, instituído pela Decisão 77/505/CEE (1), deliberará de acordo com as regras constantes do artigo 11º da Directiva 88/661/CEE (2),"
+  },
+  "73ddaddf0c2ffea5": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros porão em vigor as normas legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, o mais tardar em 1 de Janeiro de 1991. Desse facto informarão imediatamente a Comissão."
+  },
+  "cea6cc545f16c622": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 30 de Maio de 1989.\n\nPelo Conselho\n\nO Presidente\n\nC. ROMERO HERRERA\n\n(1) JO nº C 348 de 23. 12. 1987, p. 6.\n\n(2) JO nº C 94 de 11. 4. 1988, p. 182.\n\n(3) JO nº C 80 de 28. 3. 1988, p. 35.\n\n(1) JO nº L 206 de 12. 8. 1977, p. 11.\n\n(2) JO nº L 382 de 31. 12. 1988, p. 36."
+  },
+  "6fc3957ef2d582fc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Maio de 1989\n\nrelativa aos animais reprodutores de raça pura das espécies ovina e caprina\n\n(89/361/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/59de1e07-5b72-44d5-9750-aa5342e1fbf7.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/59de1e07-5b72-44d5-9750-aa5342e1fbf7.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/59de1e07-5b72-44d5-9750-aa5342e1fbf7.0018.03/DOC_1#E0003)),\n\nConsiderando que a criação e a produção de animais das espécies ovina e caprina ocupam um lugar importante na agricultura da Comunidade; que podem constituir uma fonte de rendimentos para uma parte da população agrícola;\n\nConsiderando que é conveniente incentivar a produção de animais das espécies ovina e caprina e que a obtenção de resultados satisfatórios neste domínio depende, em larga medida, da utilização de animais de raça pura;\n\nConsiderando que existem disparidades em matéria de inscrição nos livros genealógicos; que estas disparidades constituem um entrave às trocas comerciais intracomunitárias; que a liberalização total das trocas comerciais pressupõe a posterior harmonização, nomeadamente no que respeita à inscrição nos livros genealógicos;\n\nConsiderando que é conveniente, para eliminar as referidas disparidades e contribuir, desse modo, para o aumento da produtividade da agricultura no sector considerado, liberalizar as trocas comerciais intracomunitárias;\n\nConsiderando que os Estados-membros devem ter a possibilidade de exigir a apresentação de certificados estabelecidos de acordo com um procedimento comunitário;\n\nConsiderando que se deve prever que as importações de ovinos e de caprinos reprodutores de raça pura provenientes de países terceiros não possam efectuar-se sob condições menos severas que as aplicadas na Comunidade;\n\nConsiderando que é conveniente tomar medidas de aplicação em determinados domínios de carácter técnico; que, para a aplicação das medidas previstas, se justifica prever um processo que estabeleça uma cooperação estreita entre os Estados-membros e a Comissão no âmbito do Comité Zootécnico Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9ea76be7c13bbb5d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva diz respeito aos problemas zootécnicos que podem surgir por ocasião de trocas comerciais intracomunitárias de animais reprodutores de raça pura das espécies ovina e caprina e dos respectivos espermas, óvulos e embriões.\n\n2. Até à entrada em vigor das disposições comunitárias na matéria, as normas de política sanitária relativas às trocas comerciais intracomunitárias ficam sujeitas ao direito nacional, na observância das regras gerais do Tratado."
+  },
+  "3d6ced858062a951": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNa acepção da presente directiva, entende-se por:\n\na) Ovinos ou caprinos reprodutores de raça pura: qualquer animal das espécies ovina ou caprina cujos pais e avós estejam inscritos ou registados num livro genealógico da mesma raça e que ele próprio se encontre quer inscrito quer registado e susceptível de aí ser inscrito;\n\nb) Livro genealógico: qualquer livro, registo, ficheiro ou suporte informático\n\n— mantido quer por uma organização ou associação de criadores aprovada oficialmente pelo Estado-membro em que esta organização ou associação se encontre estabelecida quer por um serviço oficial do Estado-membro em causa\n\n— e\n\n— no qual são inscritos ou registados os ovinos ou caprinos reprodutores de raça pura de uma raça determinada, com menção dos seus ascendentes."
+  },
+  "7eef7939eca4fb46": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-membros não podem proibir, restringir ou dificultar por razões zootécnicas:\n\n— as trocas comerciais intracomunitárias de reprodutores ovinos e caprinos de raça pura ou dos respectivos espermas, óvulos e embriões,\n\n— a aprovação oficial das organizações ou associações de criadores que mantenham ou criem livros genealógicos nos termos do artigo 4.º\n\n2. Todavia, os Estados-membros podem manter as disposições nacionais conformes com as regras gerais do Tratado, até à entrada em vigor das decisões comunitárias sobre a matéria referidas nos artigos 4.º e 6.º"
+  },
+  "98362440c1329d02": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Comissão, segundo o procedimento previsto no artigo 8.º, fixará, antes de 1 de Janeiro de 1991:\n\n— os critérios de aprovação das organizações e associações de criadores que mantenham ou criem livros genealógicos,\n\n— os critérios de inscrição e registo nos livros genealógicos,\n\n— os métodos de controlo das capacidades e de apreciação do valor genético dos ovinos e caprinos reprodutores de raça pura,\n\n— os critérios de admissão do reprodutor ou da reprodutora à reprodução e de utilização dos respectivos espermas, óvulos e embriões."
+  },
+  "1fcdb96102bbf7c9": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros elaboram e mantêm actualizada a lista dos organismos referidos no primeiro travessão da alínea b) do artigo 2.º oficialmente aprovados para efeitos de manutenção ou estabelecimento de livros genealógicos e que satisfaçam os critérios a estabelecer de acordo com o primeiro travessão do artigo 4.º, que disponibilizam aos demais Estados-Membros e ao público.\n\nPodem ser aprovadas de execução nos termos do artigo 8.º regras de execução para uma aplicação uniformizada do presente artigo."
+  },
+  "e8c20a3b926ebfeb": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros podem exigir que os ovinos ou caprinos reprodutores de raça pura, bem como os respectivos espermas, óvulos e embriões, sejam acompanhados, aquando da sua comercialização, de um certificado zootécnico conforme a um modelo estabelecido pela Comissão nos termos do artigo 8.º"
+  },
+  "c90488d707bf750e": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAté à entrada em aplicação de uma regulamentação comunitária na matéria, as condições zootécnicas aplicáveis às importações de ovinos ou caprinos reprodutores de raça pura e dos respectivos espermas, óvulos e embriões, provenientes de países terceiros, não devem ser mais favoráveis que as que regem as trocas intracomunitárias."
+  },
+  "1328c2be39d82871": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nNo caso de ser feita referência ao procedimento definido no presente artigo, o Comité Zootécnico Permanente, instituído pela Decisão 77/505/CEE ([^4^](http://publications.europa.eu/resource/cellar/59de1e07-5b72-44d5-9750-aa5342e1fbf7.0018.03/DOC_1#E0004)), deliberará de acordo com as regras constantes do artigo 11.º da Directiva 88/66.1/CEE ([^5^](http://publications.europa.eu/resource/cellar/59de1e07-5b72-44d5-9750-aa5342e1fbf7.0018.03/DOC_1#E0005)),"
+  },
+  "362cfe0280eb0d1a": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros porão em vigor as normas legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, o mais tardar em 1 de Janeiro de 1991. Desse facto informarão imediatamente a Comissão."
+  },
+  "22271c89e70db9d0": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "520176fe2ba5c0d3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/59de1e07-5b72-44d5-9750-aa5342e1fbf7.0018.03/DOC_1#src.E0001)) JO n.º C 348 de 23.12.1987, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/59de1e07-5b72-44d5-9750-aa5342e1fbf7.0018.03/DOC_1#src.E0002)) JO n.º C 94 de 11.4.1988, p. 182.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/59de1e07-5b72-44d5-9750-aa5342e1fbf7.0018.03/DOC_1#src.E0003)) JO n.º C 80 de 28.3.1988, p. 35.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/59de1e07-5b72-44d5-9750-aa5342e1fbf7.0018.03/DOC_1#src.E0004)) JO n.º L 206 de 12.8.1977, p. 11.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/59de1e07-5b72-44d5-9750-aa5342e1fbf7.0018.03/DOC_1#src.E0005)) JO n.º L 382 de 31.12.1988, p. 36."
+  }
+ }
+}

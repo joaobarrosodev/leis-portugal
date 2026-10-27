@@ -1,0 +1,325 @@
+---
+schema_version: '1.0'
+id: pt:dre:122195230:por
+title: Decreto-Lei n.º 57/2019
+short_title: null
+summary: Concretiza a transferência de competências dos municípios para os órgãos das freguesias
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Administração Interna
+official_number: 57/2019
+official_date: null
+publication_date: '2019-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2019, Série I de 2019-04-30
+  number: '83'
+  series: I
+  supplement: null
+  pages: 2284 - 2287
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/04/08300/0228402287.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-04-01'
+version_history:
+  file: decreto-lei-57-2019.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-04-01'
+    amending: pt:dre:130893436:por
+    amending_title: Lei n.º 2/2020
+    changes:
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/57/2019/p/cons/20200331/pt/html
+  oj: null
+  dre: '122195230'
+  dre_path: /dr/detalhe/decreto-lei/57-2019-122195230
+  internal: pt:dre:122195230:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2019-122195230
+  metadata_url: https://data.dre.pt/eli/dec-lei/57/2019/p/cons/20200331/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-122322659
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-122322659
+  retrieved_at: '2026-10-22T12:26:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 581205e6885f63b0c77dddbe8a839b68d0236d5794251272a33412aa41735681
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:26:09Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-57-2019.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação de Municípios
+- Autoridade Tributária e Aduaneira
+- Financiamento
+- Imposto Municipal sobre Imóveis
+- Definição de Competências
+- Descentralização
+- Direção Geral das Autarquias Locais
+- Fundo de Equilibrio Financeiro
+- IRS
+- Integração de Trabalhadores
+- Publicitação
+- Junta de Freguesia
+- Orçamento Geral do Estado
+- Internet
+- Quadro de Pessoal
+- Administração Local
+- Câmara Municipal
+- Taxa
+- Transferência de Competências
+- Autarquia Local
+- Balcão do Empreendedor
+relationships:
+- type: amended_by
+  target: pt:dre:122317424:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/21-2019-122317424
+  date: '2019-05-16'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: cites
+  target: pt:dre:116068877:por
+  label: null
+  source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
+article_structure:
+  article_count: 12
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:26:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 57/2019
+
+Decreto-Lei n.º 57/2019
+
+de 30 de abril
+
+O Programa do XXI Governo Constitucional prevê reforçar as competências das autarquias locais, bem como das suas estruturas associativas, numa lógica de descentralização e subsidiariedade, salvaguardando melhor, assim, o interesse dos cidadãos e das empresas que procuram da parte da Administração Pública uma resposta pronta, ágil e adequada.
+
+O reforço da autonomia local é concretizado não só através da descentralização de competências da Administração direta e indireta do Estado para as autarquias locais e para as suas estruturas associativas, mas também através da redistribuição de competências entre a Administração autárquica.
+
+Sendo as freguesias as autarquias locais cujos órgãos se encontram mais próximos dos cidadãos, o Programa do XXI Governo Constitucional preconiza a afirmação do seu papel como polos essenciais da democracia de proximidade e da igualdade no acesso aos serviços públicos, procurando, também, contribuir para o desenvolvimento das regiões mais periféricas e do interior, assim assegurando uma maior coesão territorial.
+
+Usando o processo de reorganização administrativa de Lisboa como referência, pretende-se que as freguesias exerçam competências em domínios que hoje são atribuídas apenas por delegação legal, por vezes ao sabor de estratégias políticas meramente conjunturais.
+
+Neste sentido, o presente decreto-lei concretiza a Lei n.º 50/2018, de 16 de agosto, a qual estabelece o reforço de várias competências das freguesias em domínios integrados na esfera jurídica dos municípios.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei concretiza a transferência de competências dos municípios para os órgãos das freguesias, ao abrigo do n.º 2 do artigo 38.º da Lei n.º 50/2018, de 16 de agosto.
+
+###### Artigo 2.º — Transferência de competências
+
+1 - É da competência dos órgãos das freguesias:
+
+a) A gestão e manutenção de espaços verdes;
+
+b) A limpeza das vias e espaços públicos, sarjetas e sumidouros;
+
+c) A manutenção, reparação e substituição do mobiliário urbano instalado no espaço público, com exceção daquele que seja objeto de concessão;
+
+d) A gestão e manutenção corrente de feiras e mercados;
+
+e) A realização de pequenas reparações nos estabelecimentos de educação pré-escolar e do primeiro ciclo do ensino básico;
+
+f) A manutenção dos espaços envolventes dos estabelecimentos de educação pré-escolar e do primeiro ciclo do ensino básico;
+
+g) A utilização e ocupação da via pública;
+
+h) O licenciamento da afixação de publicidade de natureza comercial, quando a mensagem está relacionada com bens ou serviços comercializados no próprio estabelecimento ou ocupa o domínio público contíguo à fachada do mesmo;
+
+i) A autorização da atividade de exploração de máquinas de diversão;
+
+j) A autorização da colocação de recintos improvisados;
+
+k) A autorização da realização de espetáculos desportivos e divertimentos na via pública, jardins e outros lugares públicos ao ar livre, desde que estes se realizem exclusivamente na sua área de jurisdição;
+
+l) A autorização da realização de acampamentos ocasionais;
+
+m) A autorização da realização de fogueiras e do lançamento e queima de artigos pirotécnicos, designadamente foguetes e balonas, bem como a autorização ou receção das comunicações prévias relativas a queimas e queimadas.
+
+2 - As competências previstas nas alíneas d), g), h), j), k) e m) do número anterior são exercidas pelas freguesias nos termos das disposições constantes dos respetivos regulamentos municipais.
+
+3 - A assembleia municipal, sob proposta da câmara municipal, pode deliberar manter no âmbito de intervenção do município as competências referidas no n.º 1, no todo ou em parte, que se revelem indispensáveis para a gestão direta pelo município e tenham natureza estruturante para o município ou para a execução de missões de interesse geral e comum a toda ou a uma parte significativa do município.
+
+4 - No caso referido no número anterior, a proposta da câmara municipal apresentada à assembleia municipal é acompanhada do parecer de cada uma das juntas de freguesia em causa, as quais têm 10 dias úteis para se pronunciar após a notificação efetuada para esse efeito pela câmara municipal.
+
+5 - Sem prejuízo do disposto no n.º 3, consideram-se feitas às freguesias as referências efetuadas aos municípios nos diplomas legais que regulam o exercício das competências transferidas no âmbito do presente decreto-lei.
+
+> Retificado pelo/a [Declaração de Retificação n.º 21/2019 - Diário da República n.º 94/2019, Série I de 2019-05-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/21-2019-122317424), em vigor a partir de 2019-05-01
+
+###### Artigo 3.º — Exercício das competências
+
+Todas as competências previstas no presente decreto-lei são exercidas pelas juntas de freguesia, sem prejuízo da intervenção das assembleias de freguesia nos casos legalmente prescritos.
+
+###### Artigo 4.º — Universalidade
+
+As transferências de competências têm caráter universal, sendo diferenciadas em função da natureza e dimensão das freguesias, considerando a sua população e capacidade de execução.
+
+### Capítulo II — Procedimento de transferência de recursos dos municípios para as freguesias
+
+###### Artigo 5.º — Início do procedimento
+
+1 - No prazo de 90 dias corridos após a entrada em vigor do presente decreto-lei, a câmara municipal e cada uma das juntas de freguesia acordam uma proposta para a transferência de recursos para as freguesias, com vista ao exercício das competências previstas no artigo 2.º, a qual deve conter a indicação dos recursos humanos e/ou patrimoniais e/ou financeiros que, anualmente, são transferidos para cada uma das freguesias na decorrência da transferência das competências.
+
+2 - A proposta para a transferência de recursos para as freguesias que obtenha o acordo da câmara municipal e da junta de freguesia é submetida à aprovação dos órgãos deliberativos respetivos nos 30 dias corridos subsequentes.
+
+3 - Caso não haja acordo entre a câmara municipal e a junta de freguesia, esta, depois de submeter a sua proposta de transferência de recursos à apreciação da assembleia de freguesia, pode requerer ao presidente da câmara municipal que aprecie e delibere sobre a proposta em reunião de câmara municipal, o que deve ocorrer nos 30 dias corridos subsequentes ao recebimento do requerimento.
+
+4 - Depois de apreciada em reunião da câmara municipal a proposta de transferência de recursos prevista no número anterior, o presidente da câmara municipal, no prazo de 30 dias corridos, solicita a sua apreciação e votação na assembleia municipal.
+
+5 - No caso referido no n.º 3, a câmara municipal não pode propor alterações à proposta da junta de freguesia.
+
+6 - Na falta de acordo entre a câmara municipal e a junta de freguesia ou no caso de deliberação negativa de qualquer uma das assembleias, a câmara municipal e a junta de freguesia devem reiniciar novo procedimento com vista à transferência de recursos.
+
+###### Artigo 6.º — Formalização da transferência de recursos
+
+1 - No prazo de 15 dias corridos após a deliberação favorável dos órgãos deliberativos do município e da freguesia quanto aos termos da transferência de recursos, é celebrado o auto de transferência dos mesmos.
+
+2 - O auto prevê expressamente a identificação e quantificação dos recursos humanos e/ou patrimoniais e/ou financeiros que são transferidos para a freguesia.
+
+3 - Os recursos previstos no número anterior podem ser alterados por acordo entre o município e a freguesia, aplicando-se, com as necessárias adaptações, o procedimento previsto no artigo anterior e nos números anteriores.
+
+4 - Os recursos previstos no n.º 2 mantêm-se para os anos subsequentes, caso não exista deliberação em contrário de algum dos órgãos deliberativos referidos no n.º 1.
+
+5 - As deliberações autorizadoras da transferência de recursos são obrigatoriamente comunicadas pelo município à Direção-Geral das Autarquias Locais (DGAL) até 30 de junho do ano anterior ao do início do exercício da competência pela freguesia, para efeitos de inscrição no Orçamento do Estado do ano seguinte.
+
+6 - Para efeitos de inscrição nos Orçamentos do Estado dos anos subsequentes, o município comunica à DGAL, até 30 de junho de cada ano, as deliberações referidas no número anterior, se ocorrer alteração às inicialmente comunicadas.
+
+7 - Na ausência da comunicação prevista no número anterior, ou em caso de comunicação efetuada fora do prazo, a DGAL procede à inscrição, no Orçamento do Estado do ano seguinte, dos últimos montantes que tiverem sido comunicados pelo município.
+
+8 - A comunicação do município referida no n.º 5 é acompanhada de mapa discriminativo dos recursos financeiros a transferir para cada freguesia para o período respetivo, através de formulário próprio disponibilizado pela DGAL.
+
+###### Artigo 7.º — Reversão das competências
+
+1 - Pode ocorrer a reversão das novas competências transferidas para as freguesias por acordo entre as partes.
+
+2 - A reversão das competências produz efeitos em data a acordar entre as partes e implica o regresso dos recursos humanos e patrimoniais afetos àquelas competências.
+
+3 - No caso referido no número anterior, os postos de trabalho da mesma carreira e número que tenham sido transferidos para as freguesias são aditados ao mapa de pessoal do município.
+
+###### Artigo 8.º — Transição de trabalhadores
+
+1 - A transferência das competências previstas no presente decreto-lei pode, nos termos a acordar entre o município e as respetivas freguesias, determinar a transição dos trabalhadores com vínculo de emprego público, que exerçam atividades integradas naquelas competências, do mapa de pessoal da câmara municipal em que estejam integrados para o mapa de pessoal da junta de freguesia.
+
+2 - A transição referida no número anterior implica a sucessão na posição jurídica entre os empregadores públicos, de origem e de destino, envolvidos, mantendo-se inalterados, quanto às restantes matérias, os contratos de trabalho em funções públicas, designadamente quanto à situação jurídico-funcional que os trabalhadores detêm à data da transição.
+
+3 - Para efeitos do disposto no n.º 1, os trabalhadores com maior antiguidade no desenvolvimento das atividades têm preferência na escolha da freguesia para a qual pretendem transitar e, em condições de igualdade de antiguidade, releva consecutivamente a avaliação de desempenho quantitativamente superior no último período de avaliação, a avaliação obtida no parâmetro de «Resultados», e o tempo de serviço relevante na carreira e no exercício de funções públicas.
+
+4 - A alteração de posicionamento remuneratório, nos termos legalmente previstos para a respetiva carreira e categoria, dos trabalhadores que transitam e o respetivo aumento de despesa implicam a consequente revisão dos recursos financeiros transferidos para as freguesias.
+
+5 - Caso não seja necessário transitar todos os trabalhadores da câmara municipal que estão afetos ao desenvolvimento das atividades integradas nas competências transferidas para as freguesias, a seleção dos trabalhadores que não transitam e dos que transitam e, de entre estes, dos que transitam para cada uma das freguesias, observa os critérios referidos no n.º 3.
+
+6 - No caso referido no número anterior, os trabalhadores que se mantêm no município são reafetados a outras funções nos serviços da câmara municipal.
+
+7 - As situações de mobilidade, em todas as suas modalidades, existentes à data da transição mantêm-se até ao final do seu prazo, salvo se o trabalhador ou o serviço de origem se opuserem no prazo de 20 dias corridos após comunicação nesse sentido efetuada pela câmara municipal.
+
+8 - Caso o trabalhador ou o serviço de origem se oponham à continuação da situação de mobilidade, o trabalhador regressa ao serviço de origem no dia seguinte ao do envio para publicação no Diário da República da lista nominativa referida no n.º 10.
+
+9 - Para os efeitos referidos no número anterior, o presidente da câmara municipal deve, com uma antecedência mínima de cinco dias corridos relativamente ao dia de envio da listagem para publicação no Diário da República, informar o trabalhador e o serviço de origem que irá proceder a esse envio.
+
+10 - A transição dos trabalhadores para os mapas de pessoal das juntas de freguesia prevista no n.º 1 produz efeitos com a publicação de lista nominativa dos referidos trabalhadores, organizada por freguesia, na 2.ª série do Diário da República.
+
+11 - A lista referida no número anterior contém obrigatoriamente a caracterização do posto de trabalho de origem e na junta de freguesia de destino, bem como a carreira, categoria e posição remuneratória de cada trabalhador.
+
+12 - Os postos de trabalho necessários para dar cumprimento ao disposto nos números anteriores são automaticamente aditados ao mapa de pessoal da junta de freguesia para onde transitam os trabalhadores referidos no n.º 1.
+
+13 - Os processos individuais dos trabalhadores são entregues pelos serviços da câmara municipal nos serviços da junta de freguesia de destino, no prazo de 90 dias corridos após a publicação referida no n.º 10.
+
+###### Artigo 9.º — Recursos financeiros
+
+1 - Os recursos financeiros afetos às transferências de novas competências para as freguesias provêm do orçamento municipal, após deliberação das assembleias municipal e de freguesia, e são calculados tendo por base a estrutura de despesas e de receitas que os municípios respetivos têm com o exercício dessas mesmas competências, não podendo ser inferiores aos constantes de acordos ou contratos respeitantes às mesmas matérias.
+
+2 - Os recursos financeiros referidos no número anterior são financiados por receita proveniente do Fundo de Equilíbrio Financeiro, da participação variável no Imposto sobre o Rendimento das Pessoas Singulares (IRS) e da participação na receita do IVA dos respetivos municípios, sendo transferidos pela DGAL até ao dia 15 de cada mês, por dedução àquelas transferências para cada município.
+
+3 - Caso os montantes previstos no número anterior sejam insuficientes para garantir os recursos financeiros a transferir para as freguesias, os mesmos são financiados por receitas provenientes do Imposto Municipal sobre Imóveis (IMI).
+
+4 - A dedução das receitas provenientes do IRS e do IMI prevista nos números anteriores é efetuada pela Autoridade Tributária e Aduaneira e transferida mensalmente para a DGAL até ao dia 10 de cada mês.
+
+> Alterado pelo/a Artigo 423.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+### Capítulo III — Disposições transitórias e finais
+
+###### Artigo 10.º — Harmonização de procedimentos
+
+Quando a atividade a desenvolver pelo requerente abranja o território de mais do que uma freguesia, os procedimentos previstos no presente decreto-lei devem ser harmonizados, recorrendo-se, sempre que possível, a meios de tramitação eletrónica, nomeadamente ao Balcão do Empreendedor.
+
+###### Artigo 11.º — Norma transitória
+
+1 - Até à celebração do auto de transferência de recursos referido no n.º 1 do artigo 6.º, as competências atribuídas às freguesias nos termos do n.º 1 do artigo 2.º continuam a ser asseguradas pelos municípios.
+
+2 - Para o início do exercício das novas competências em 2019, o prazo de comunicação à DGAL, referido no n.º 5 do artigo 6.º, ocorre no prazo de 15 dias corridos após as deliberações referidas no n.º 1 do mesmo artigo.
+
+3 - Em 2019, o processamento do primeiro duodécimo relativo às transferências de novas competências para as freguesias ocorre no mês seguinte ao da entrada na DGAL da comunicação referida no número anterior.
+
+4 - Nos casos em que as freguesias tenham informado a DGAL e o município que não pretendem o exercício das competências em 2019, o prazo de 90 dias referido no n.º 1 do artigo 5.º inicia-se após o prazo referido na alínea b) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto.
+
+###### Artigo 12.º — Entrada em vigor e produção de efeitos
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto, e do disposto no número seguinte.
+
+2 - Relativamente ao ano de 2019, as freguesias que não pretendam a transferência de competências previstas no presente decreto-lei comunicam esse facto à DGAL, após prévia deliberação dos seus órgãos deliberativos, até 60 dias corridos após a entrada em vigor do presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 14 de março de 2019. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Eduardo Arménio do Nascimento Cabrita.
+
+Promulgado em 11 de abril de 2019.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 15 de abril de 2019.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112256542

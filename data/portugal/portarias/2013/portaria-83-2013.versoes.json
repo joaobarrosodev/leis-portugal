@@ -1,0 +1,225 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:259236:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-128415710",
+ "dre_path": "/dr/detalhe/portaria/83-2013-259236",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-02-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "153652839",
+    "128414459",
+    "128414460",
+    "128414461",
+    "128414462"
+   ]
+  },
+  {
+   "date": "2020-01-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:128415686:por",
+     "title": "Portaria n.º 15/2020",
+     "published": "2020-01-23",
+     "dre_path": "/dr/detalhe/portaria/15-2020-128415686"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "128414464",
+    "128414465",
+    "128414466",
+    "128414467",
+    "128414468",
+    "128414469"
+   ]
+  },
+  {
+   "date": "2021-01-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:153663457:por",
+     "title": "Portaria n.º 13/2021",
+     "published": "2021-01-12",
+     "dre_path": "/dr/detalhe/portaria/13-2021-153663457"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "153652839",
+    "153652840",
+    "153652841",
+    "153652842",
+    "153652843",
+    "153652844"
+   ]
+  }
+ ],
+ "fragments": {
+  "153652839": {
+   "fragment_id": "128415711",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-01-13",
+   "changed_by": [],
+   "markdown": "Portaria n.º 83/2013\n\nde 26 de fevereiro\n\nO Decreto-Lei n.º 172/2006 de 23 de agosto, alterado e republicado pelo Decreto-Lei n.º 215-B/2012, de 8 de outubro, e o Decreto-Lei n.º 140/2006, de 26 de julho, alterado e republicado pelo Decreto-Lei n.º 231/2012, de 26 de outubro, estabelecem o regime jurídico das atividades de comercialização de eletricidade e de gás natural, respetivamente. Os referidos diplomas preveem que pela apreciação do pedido de registo e pela efetivação do registo para o exercício das atividades de comercialização de eletricidade e gás natural é devida uma taxa que reverte a favor da Direção-Geral de Energia e Geologia, remetendo para portaria do membro do Governo responsável pela área da energia a fixação do respetivo montante.\n\nPela presente portaria fixa-se assim o montante da referida taxa, estabelecendo-se ainda o procedimento para o respetivo pagamento, através de uma referência gerada logo após a apresentação do pedido de registo no balcão único eletrónico dos serviços, ou, sempre que este não esteja disponível, de quaisquer meios de pagamento legalmente previstos.\n\nAssim:\n\nAo abrigo do disposto no n.º 9 do artigo 46.º do Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237 -B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, 104/2010, de 29 de setembro, e 215-B/2012, de 8 de outubro, que operou a sua republicação, e do n.º 9 do artigo 34.º do Decreto-Lei n.º 140/2006, de 26 de julho, alterado pelos Decretos-Leis n.os 65/2008, de 9 de abril, 66/2010, de 11 de junho e 231/2012, de 26 de outubro, que operou a sua republicação, manda o Governo, pelo Secretário de Estado da Energia, o seguinte:\n\n> Nota: [Artigo 5.º, Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686) A Portaria encontra-se revogada no que respeita à aplicação da taxa devida pela apreciação do pedido de registo e da efetivação do registo da atividade de comercialização de eletricidade."
+  },
+  "128414459": {
+   "fragment_id": "128415712",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria fixa o valor da taxa devida pela apreciação do pedido e pela efetivação do registo para o exercício das atividades de comercialização de eletricidade e de gás natural, ao abrigo do disposto no n.º 9 do artigo 46.º do Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237 -B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, 104/2010, de 29 de setembro, e 215-B/2012, de 8 de outubro, que operou a sua republicação, e do n.º 9 do artigo 34.º do Decreto-Lei n.º 140/2006, de 26 de julho, alterado pelos Decretos-Leis n.os 65/2008, de 9 de abril, 66/2010, de 11 de junho e 231/2012, de 26 de outubro, que operou a sua republicação, respetivamente."
+  },
+  "128414460": {
+   "fragment_id": "128415713",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxa de registo da atividade de comercialização de eletricidade e gás natural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Taxa de registo da atividade de comercialização de eletricidade e gás natural\n\n1 - A taxa devida pela apreciação do pedido e pela efetivação do registo da atividade de comercialização de eletricidade ou de gás natural é fixada em (euro) 1 000.\n\n2 - A taxa prevista no número anterior é devida à Direção-Geral de Energia e Geologia (DGEG) pelo requerente do registo da atividade de comercialização de eletricidade ou de gás natural.\n\n3 - A taxa prevista no n.º 1 pode ser atualizada anualmente de acordo com um coeficiente de atualização resultante da totalidade da variação do índice de preços no consumidor, no continente, sem habitação, correspondente aos últimos 12 meses, apurado e publicado pelo Instituto Nacional de Estatística, I. P. (INE, I.P.), sendo o respetivo valor arredondado para a dezena de euro imediatamente superior.\n\n4 - Para efeitos do disposto no número anterior, o valor da taxa é atualizado mediante aviso do aviso do diretor-geral da DGEG publicitado no sítio da Internet da DGEG."
+  },
+  "128414461": {
+   "fragment_id": "128415714",
+   "type": 11,
+   "heading": "Artigo 3.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pagamento\n\n1 - Após a apresentação do pedido de registo para o exercício da atividade de comercialização de eletricidade ou de gás natural no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, é de imediato gerada automaticamente uma referência para o pagamento da taxa prevista no artigo anterior.\n\n2 - O pagamento da taxa referida no artigo anterior deve ser efetuado no prazo de 5 dias após a geração da referência para pagamento, sob pena de rejeição liminar do pedido de registo\n\n3 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto n.º 1, o requerente do registo deve proceder ao pagamento da taxa devida no prazo previsto no número anterior através de quaisquer outros meios de pagamento legalmente admissíveis."
+  },
+  "128414462": {
+   "fragment_id": "128415715",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação."
+  },
+  "128414464": {
+   "fragment_id": "128415711",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+   ],
+   "markdown": "Portaria n.º 83/2013\n\nde 26 de fevereiro\n\nO Decreto-Lei n.º 172/2006 de 23 de agosto, alterado e republicado pelo Decreto-Lei n.º 215-B/2012, de 8 de outubro, e o Decreto-Lei n.º 140/2006, de 26 de julho, alterado e republicado pelo Decreto-Lei n.º 231/2012, de 26 de outubro, estabelecem o regime jurídico das atividades de comercialização de eletricidade e de gás natural, respetivamente. Os referidos diplomas preveem que pela apreciação do pedido de registo e pela efetivação do registo para o exercício das atividades de comercialização de eletricidade e gás natural é devida uma taxa que reverte a favor da Direção-Geral de Energia e Geologia, remetendo para portaria do membro do Governo responsável pela área da energia a fixação do respetivo montante.\n\nPela presente portaria fixa-se assim o montante da referida taxa, estabelecendo-se ainda o procedimento para o respetivo pagamento, através de uma referência gerada logo após a apresentação do pedido de registo no balcão único eletrónico dos serviços, ou, sempre que este não esteja disponível, de quaisquer meios de pagamento legalmente previstos.\n\nAssim:\n\nAo abrigo do disposto no n.º 9 do artigo 46.º do Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237 -B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, 104/2010, de 29 de setembro, e 215-B/2012, de 8 de outubro, que operou a sua republicação, e do n.º 9 do artigo 34.º do Decreto-Lei n.º 140/2006, de 26 de julho, alterado pelos Decretos-Leis n.os 65/2008, de 9 de abril, 66/2010, de 11 de junho e 231/2012, de 26 de outubro, que operou a sua republicação, manda o Governo, pelo Secretário de Estado da Energia, o seguinte:\n\n> Nota: [Artigo 5.º, Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686) A Portaria encontra-se revogada no que respeita à aplicação da taxa devida pela apreciação do pedido de registo e da efetivação do registo da atividade de comercialização de eletricidade.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+  },
+  "128414465": {
+   "fragment_id": "128415712",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria fixa o valor da taxa devida pela apreciação do pedido e pela efetivação do registo para o exercício das atividades de comercialização de eletricidade e de gás natural, ao abrigo do disposto no n.º 9 do artigo 46.º do Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237 -B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, 104/2010, de 29 de setembro, e 215-B/2012, de 8 de outubro, que operou a sua republicação, e do n.º 9 do artigo 34.º do Decreto-Lei n.º 140/2006, de 26 de julho, alterado pelos Decretos-Leis n.os 65/2008, de 9 de abril, 66/2010, de 11 de junho e 231/2012, de 26 de outubro, que operou a sua republicação, respetivamente.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+  },
+  "128414466": {
+   "fragment_id": "128415713",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxa de registo da atividade de comercialização de eletricidade e gás natural",
+   "in_force_from": "2020-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+   ],
+   "markdown": "###### Artigo 2.º — Taxa de registo da atividade de comercialização de eletricidade e gás natural\n\n1 - A taxa devida pela apreciação do pedido e pela efetivação do registo da atividade de comercialização de eletricidade ou de gás natural é fixada em (euro) 1 000.\n\n2 - A taxa prevista no número anterior é devida à Direção-Geral de Energia e Geologia (DGEG) pelo requerente do registo da atividade de comercialização de eletricidade ou de gás natural.\n\n3 - A taxa prevista no n.º 1 pode ser atualizada anualmente de acordo com um coeficiente de atualização resultante da totalidade da variação do índice de preços no consumidor, no continente, sem habitação, correspondente aos últimos 12 meses, apurado e publicado pelo Instituto Nacional de Estatística, I. P. (INE, I.P.), sendo o respetivo valor arredondado para a dezena de euro imediatamente superior.\n\n4 - Para efeitos do disposto no número anterior, o valor da taxa é atualizado mediante aviso do aviso do diretor-geral da DGEG publicitado no sítio da Internet da DGEG.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+  },
+  "128414467": {
+   "fragment_id": "128415714",
+   "type": 11,
+   "heading": "Artigo 3.º — Pagamento",
+   "in_force_from": "2020-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+   ],
+   "markdown": "###### Artigo 3.º — Pagamento\n\n1 - Após a apresentação do pedido de registo para o exercício da atividade de comercialização de eletricidade ou de gás natural no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, é de imediato gerada automaticamente uma referência para o pagamento da taxa prevista no artigo anterior.\n\n2 - O pagamento da taxa referida no artigo anterior deve ser efetuado no prazo de 5 dias após a geração da referência para pagamento, sob pena de rejeição liminar do pedido de registo\n\n3 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto n.º 1, o requerente do registo deve proceder ao pagamento da taxa devida no prazo previsto no número anterior através de quaisquer outros meios de pagamento legalmente admissíveis.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+  },
+  "128414468": {
+   "fragment_id": "128415715",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2020-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+  },
+  "128414469": {
+   "fragment_id": "128415716",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+   ],
+   "markdown": "O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 13 de fevereiro de 2013.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+  },
+  "153652840": {
+   "fragment_id": "128415712",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-01-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 13/2021 - Diário da República n.º 7/2021, Série I de 2021-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/13-2021-153663457), em vigor a partir de 2021-01-13",
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria fixa o valor da taxa devida pela apreciação do pedido e pela efetivação do registo para o exercício das atividades de comercialização de eletricidade e de gás natural, ao abrigo do disposto no n.º 9 do artigo 46.º do Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237 -B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, 104/2010, de 29 de setembro, e 215-B/2012, de 8 de outubro, que operou a sua republicação, e do n.º 9 do artigo 34.º do Decreto-Lei n.º 140/2006, de 26 de julho, alterado pelos Decretos-Leis n.os 65/2008, de 9 de abril, 66/2010, de 11 de junho e 231/2012, de 26 de outubro, que operou a sua republicação, respetivamente.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 13/2021 - Diário da República n.º 7/2021, Série I de 2021-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/13-2021-153663457), em vigor a partir de 2021-01-13\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+  },
+  "153652841": {
+   "fragment_id": "128415713",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxa de registo da atividade de comercialização de eletricidade e gás natural",
+   "in_force_from": "2021-01-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 13/2021 - Diário da República n.º 7/2021, Série I de 2021-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/13-2021-153663457), em vigor a partir de 2021-01-13",
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+   ],
+   "markdown": "###### Artigo 2.º — Taxa de registo da atividade de comercialização de eletricidade e gás natural\n\n1 - A taxa devida pela apreciação do pedido e pela efetivação do registo da atividade de comercialização de eletricidade ou de gás natural é fixada em (euro) 1 000.\n\n2 - A taxa prevista no número anterior é devida à Direção-Geral de Energia e Geologia (DGEG) pelo requerente do registo da atividade de comercialização de eletricidade ou de gás natural.\n\n3 - A taxa prevista no n.º 1 pode ser atualizada anualmente de acordo com um coeficiente de atualização resultante da totalidade da variação do índice de preços no consumidor, no continente, sem habitação, correspondente aos últimos 12 meses, apurado e publicado pelo Instituto Nacional de Estatística, I. P. (INE, I.P.), sendo o respetivo valor arredondado para a dezena de euro imediatamente superior.\n\n4 - Para efeitos do disposto no número anterior, o valor da taxa é atualizado mediante aviso do aviso do diretor-geral da DGEG publicitado no sítio da Internet da DGEG.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 13/2021 - Diário da República n.º 7/2021, Série I de 2021-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/13-2021-153663457), em vigor a partir de 2021-01-13\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+  },
+  "153652842": {
+   "fragment_id": "128415714",
+   "type": 11,
+   "heading": "Artigo 3.º — Pagamento",
+   "in_force_from": "2021-01-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 13/2021 - Diário da República n.º 7/2021, Série I de 2021-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/13-2021-153663457), em vigor a partir de 2021-01-13",
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+   ],
+   "markdown": "###### Artigo 3.º — Pagamento\n\n1 - Após a apresentação do pedido de registo para o exercício da atividade de comercialização de eletricidade ou de gás natural no balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, é de imediato gerada automaticamente uma referência para o pagamento da taxa prevista no artigo anterior.\n\n2 - O pagamento da taxa referida no artigo anterior deve ser efetuado no prazo de 5 dias após a geração da referência para pagamento, sob pena de rejeição liminar do pedido de registo\n\n3 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto n.º 1, o requerente do registo deve proceder ao pagamento da taxa devida no prazo previsto no número anterior através de quaisquer outros meios de pagamento legalmente admissíveis.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 13/2021 - Diário da República n.º 7/2021, Série I de 2021-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/13-2021-153663457), em vigor a partir de 2021-01-13\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+  },
+  "153652843": {
+   "fragment_id": "128415715",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2021-01-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 13/2021 - Diário da República n.º 7/2021, Série I de 2021-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/13-2021-153663457), em vigor a partir de 2021-01-13",
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 13/2021 - Diário da República n.º 7/2021, Série I de 2021-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/13-2021-153663457), em vigor a partir de 2021-01-13\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+  },
+  "153652844": {
+   "fragment_id": "128415716",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-01-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 13/2021 - Diário da República n.º 7/2021, Série I de 2021-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/13-2021-153663457), em vigor a partir de 2021-01-13",
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+   ],
+   "markdown": "O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 13 de fevereiro de 2013.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 13/2021 - Diário da República n.º 7/2021, Série I de 2021-01-12](https://diariodarepublica.pt/dr/detalhe/portaria/13-2021-153663457), em vigor a partir de 2021-01-13\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 15/2020 - Diário da República n.º 16/2020, Série I de 2020-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/15-2020-128415686), em vigor a partir de 2020-01-24"
+  }
+ }
+}

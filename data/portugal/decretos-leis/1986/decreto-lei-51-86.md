@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:196761:por
+title: Decreto-Lei n.º 51/86
+short_title: null
+summary: Define o regime de constituição e funcionamento das comissões arbitrais previstas no artigo 16.º da Lei n.º 80/77,
+  de 26 de Outubro, com a redacção do Decreto-Lei n.º 343/80, de 2 de Setembro, ratificado pela Lei n.º 36/81, de 31 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 51/86
+official_date: null
+publication_date: '1986-03-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/1986, Série I de 1986-03-14
+  number: '61'
+  series: I
+  supplement: null
+  pages: 615 - 618
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/03/06100/06150618.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '196761'
+  dre_path: /dr/detalhe/decreto-lei/51-1986-196761
+  internal: pt:dre:196761:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1986-196761
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1986-196761
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:16:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ce89b9562c0b0961111506e0c2aa63c0af2f9476ff8d15baf0fcf6834f1dfe77
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:16:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Arbitral
+- Expropriação
+- Indemnização
+- Nacionalização
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:304536:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:numero:decreto-lei:351/87
+  label: ALTERADO O ARTIGO 26 PELO DECRETO LEI 351/87, DE 5 DE NOVEMBRO, PUBLICADO NO DR.IS, 255
+  source: null
+  date: '1987-11-05'
+- type: cites
+  target: pt:dre:277309:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577899:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:304536:por
+  label: "Revogado pelo DEC LEI.332/91.06.09.1991.MF, DR.IS-A [205] de 06.09.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/332-1991-304536
+  date: '1991-09-06'
+article_structure:
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:16:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 51/86
+
+de 14 de Março
+
+A lei n.º 80/77, de 26 de Outubro, no seu artigo 16.º, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 343/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1980-463997), de 2 de Setembro, ratificado pela [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), de 31 de Agosto, estipula que, sem prejuízo do recurso para outras instâncias competentes, a resolução de quaisquer litígios relativos à titularidade do direito à indemnização e à sua fixação, liquidação e efectivação possa ser feita por comissões arbitrais.
+
+Pelo presente diploma regulamenta-se a execução da referida disposição, com vista ao funcionamento das mesmas comissões.
+
+Nestes termos, no desenvolvimento do regime contido na [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro:
+
+O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+Artigo 1.º As comissões arbitrais previstas no artigo 16.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, com a redacção do [Decreto-Lei n.º 343/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1980-463997), de 2 de Setembro, ratificado pela [Lei n.º 36/81](https://diariodarepublica.pt/dr/detalhe/lei/36-1981-577899), de 31 de Agosto, serão criadas e funcionarão nas condições reguladas no presente diploma.
+
+Art. 2.º - 1 - As comissões arbitrais funcionarão na área da comarca de Lisboa e terão jurisdição em todo o território nacional.
+
+2 - O apoio administrativo às comissões arbitrais e cometido à Direcção-Geral da Junta do Crédito Público, adiante designada, abreviadamente, por DGJCP.
+
+### CAPÍTULO II — Composição e estatuto
+
+Art. 3.º As comissões arbitrais serão constituídas a partir de requerimento dos titulares do direito à indemnização dirigido ao Ministro das Finanças, de acordo com os seguintes princípios:
+
+a) Só pode haver uma comissão arbitral para os ex-sócios ou accionistas de uma mesma empresa nacionalizada;
+
+b) Só pode haver uma comissão arbitral para os comproprietários de um mesmo bem nacionalizado ou expropriado.
+
+Art. 4.º - 1 - Cada comissão arbitral será constituída por três membros, sendo um representante do Governo, outro da parte litigante e o terceiro, que presidirá, um árbitro escolhido por mútuo acordo entre os dois primeiros.
+
+2 - Os árbitros hão-de ser cidadãos portugueses, capazes e de reconhecida probidade.
+
+Art. 5.º - 1 - Os requerimentos visando a criação de comissões arbitrais só terão efeito se forem enviados ao Ministro das Finanças no prazo de 30 dias a contar da data do despacho ou acto que seja causa de litígio e serão remetidos à DGJCP.
+
+2 - Nos requerimentos referidos no número anterior, a parte litigante, tendo em atenção o artigo 11.º deste diploma, identificará o seu árbitro, indicando o seu domicílio e juntando declaração dele de aceitação do cargo em papel selado e com assinatura reconhecida.
+
+Art. 6.º O árbitro indicado nos termos do n.º 2 do artigo anterior é considerado provisório quando não esteja já constituída uma única comissão arbitral para os litígios respeitantes aos ex-sócios ou accionistas da mesma empresa ou do mesmo bem expropriado, devendo neste caso proceder-se do seguinte modo:
+
+a) A DGJCP informará a parte litigante que apresentar o primeiro requerimento ou, no caso de simultaneidade, titular da maior indemnização para, dentro do prazo de quinze dias, promover, com as despesas a seu cargo, a publicação de anúncio no Diário da República, 3.ª série, e em dois dos jornais de grande circulação, um de Lisboa e outro do Porto, de harmonia com o modelo anexo a este diploma;
+
+b) Qualquer titular de direito a indemnização respeitante à empresa ou bem referido no anúncio poderá indicar outro árbitro, por carta registada remetida à DGJCP no prazo de quinze dias a contar da publicação do anúncio no Diário da República, juntando prova da sua identidade, qualidade de titular de indemnização e declaração do árbitro de aceitação do cargo;
+
+c) Sendo sugeridos mais árbitros por virtude dos anúncios ou de sucessivos requerimentos respeitantes à mesma empresa ou mesmo bem nacionalizado, a escolha do que integrará a comissão será feita por sorteio público, a realizar na DGJCP no primeiro dia útil cinco dias após a data limite derivada do anúncio no Diário da República;
+
+d) A escolha do árbitro resultante do sorteio fica sujeita a homologação pelo Ministro das Finanças no prazo de 30 dias a contar da data do sorteio, nomeadamente tendo em consideração o disposto no n.º 2 do artigo 4.º e no artigo 11.º deste diploma, devendo o despacho de homologação ser publicado no Diário da República, 2.ª série;
+
+e) Nos casos de compropriedade de prédios rústicos nacionalizados ou expropriados ou de sociedades por quotas, o anúncio e sorteio serão dispensados se a parte litigante juntar declaração de todos os restantes comproprietários ou sócios, com reconhecimento notarial, aceitando o árbitro escolhido pela mesma parte, seguindo-se a homologação nos termos da alínea anterior, sem necessidade de publicação.
+
+Art. 7.º O Governo, mediante despacho do Ministro das Finanças, designará o seu árbitro no prazo de 30 dias a contar da solicitação de constituição da comissão arbitral.
+
+Art. 8.º - 1 - A partir do conhecimento da identidade do árbitro da parte litigante, o árbitro designado pelo Governo tomará a iniciativa de se reunir com o mesmo, a fim de procederem à escolha, por mútuo acordo, do presidente da comissão arbitral, lavrando-se acta final da qual conste o resultado das diligências, as quais se não poderão prolongar por mais de quinze dias.
+
+2 - Na falta de acordo, a parte litigante, no prazo de dez dias, requererá ao Ministro da Justiça a designação do árbitro presidente, o qual será nomeado nos 30 dias seguintes.
+
+Art. 9.º O presidente da comissão arbitral tomará posse perante o Ministro das Finanças ou perante quem o mesmo delegue, tomando os restantes árbitros posse perante o presidente da comissão.
+
+Art. 10.º Cada comissão arbitral entra em funcionamento a partir da posse dos seus membros.
+
+Art. 11.º - 1 - Não podem intervir como árbitros as pessoas em relação às quais se verifiquem as causas de impedimento ou os motivos de suspeição a que estão sujeitos os juízes de direito.
+
+2 - A falta dos requisitos do n.º 2 do artigo 4.º e a existência de impedimentos ou suspeições terão de ser arguidas no prazo de cinco dias a contar da entrada em funcionamento da comissão arbitral ou na própria petição inicial em relação a outra parte litigante que verifique a falta dos requisitos ou em relação à qual possam existir os impedimentos ou suspeições, sendo logo oferecidas as provas.
+
+3 - Produzidas as provas e outras diligências que se considerem necessárias, o incidente será resolvido, sem recurso, quanto aos restantes árbitros, pelo presidente da comissão arbitral e, quanto a este, pelo presidente do Tribunal da Relação de Lisboa, suspendendo-se a contagem do prazo de decisão do litígio.
+
+Art. 12.º Nos casos de faltas permanentes, ou de impedimentos e suspeições justificadas, serão os árbitros substituídos mediante nova designação ou escolha, nos termos previstos neste diploma.
+
+### CAPÍTULO III — Competência e poderes
+
+Art. 13.º Compete às comissões arbitrais a resolução de quaisquer litígios relativos à titularidade do direito à indemnização e à sua fixação, liquidação e efectivação.
+
+Art. 14.º As comissões arbitrais julgarão face ao direito vigente aplicável ao processo indemnizatório.
+
+### CAPÍTULO IV — Processo e funcionamento
+
+Art. 15.º O processo perante as comissões arbitrais segue o regime previsto neste diploma.
+
+Art. 16.º Os requerimentos para constituição da comissão arbitral servem de petição inicial, pelo que devem conter os seguintes elementos:
+
+a) Nome completo ou denominação, domicílio, número e natureza do documento de identificação da parte litigante de entre os admitidos pelo n.º 4 da [Portaria n.º 359/78](https://diariodarepublica.pt/dr/detalhe/portaria/359-1978-298054), de 7 de Julho, número de contribuinte e documento comprovativo de que é titular de direito à indemnização e seu montante;
+
+b) Identificação dos bens nacionalizados ou expropriados que constituam causa de litígio;
+
+c) Data e objecto do despacho ou acto impugnado;
+
+d) Fundamentos de facto e de direito e formulação precisa do pedido;
+
+e) Assinatura reconhecida por notário ou por exibição do bilhete de identidade da parte litigante ou do seu representante legal, neste caso juntando documento comprovativo desta qualidade.
+
+Art. 17.º - 1 - Não existindo comissão arbitral para apreciação do objecto do litígio, a DGJCP promoverá a remessa da petição inicial ao Ministro das Finanças para efeitos do disposto no artigo 7.º deste decreto-lei.
+
+2 - Existindo já a comissão arbitral para resolução dos casos respeitantes à empresa ou bem nacionalizado, será desde logo entregue a petição inicial ao respectivo presidente, para os termos posteriores.
+
+Art. 18.º Aos presidentes de comissões arbitrais compete o exercício das funções que lhes são atribuídas no presente diploma e de todas as demais necessárias ao funcionamento, apreciação e julgamento dos processos, coadjuvados pelos restantes árbitros.
+
+Art. 19.º As comissões arbitrais funcionam em plenário, com a periodicidade definida pelo respectivo presidente, que dirigirá as sessões, lavrando-se acta das mesmas.
+
+Art. 20.º À conferência só assistem os árbitros que nela devam intervir, podendo, todavia, ser convocadas para tomarem parte na discussão, sem voto, pessoas com conhecimentos especializados sobre os assuntos a versar.
+
+Art. 21.º Não há lugar a alegações nem serão ouvidas as partes depois da preparação e antes da decisão da causa.
+
+Art. 22.º As decisões das comissões arbitrais deverão ser devidamente fundamentadas, concluindo pela deliberação final, e são tomadas por maioria de votos, tendo o respectivo presidente, em caso de empate, voto de qualidade.
+
+Art. 23.º As comissões arbitrais devem emitir as suas decisões no prazo máximo de 60 dias após a sua entrada em funcionamento para apreciação de cada litígio.
+
+Art. 24.º As decisões das comissões arbitrais terão validade após a homologação por despacho do Ministro das Finanças, publicado no Diário da República, 2.ª série.
+
+Art. 25.º Dos despachos que recaiam sobre decisões das comissões arbitrais cabe recurso para o Supremo Tribunal Administrativo.
+
+Art. 26.º - 1 - Os processos junto das comissões arbitrais estão isentos de preparos e custas, sendo devido o imposto do selo.
+
+2 - O Ministro das Finanças fixará, por despacho, os emolumentos devidos ao árbitro presidente, os quais serão satisfeitos pelo litigante.
+
+Art. 27.º Serão tomadas as providências orçamentais necessárias à execução deste diploma.
+
+Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+Promulgado em 28 de Fevereiro de 1986.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 4 de Março de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## ANEXO — Aviso para constituição das comissões arbitrais previstas na [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro
+
+Avisam-se os ... (ex-sócios ou accionistas da mesma empresa ou ex-comproprietários do mesmo bem nacionalizado ou expropriado), de ... (denominação social da empresa ou identificação do bem nacionalizado ou expropriado), de que foi indicado ... (nome, profissão e morada), para servir de árbitro da parte litigante na comissão arbitral a constituir nos termos do artigo 16.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, com a redacção dada pelo [Decreto-Lei n.º 343/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1980-463997), de 2 de Setembro.
+
+De harmonia com o Decreto-Lei n.º 51/86, de 14 de Março, poderão ser indicados outros árbitros pelos restantes ... (ex-sócios, ex-accionistas ou ex-comproprietários) da referida ... (empresa ou bem nacionalizado ou expropriado) no prazo de quinze dias a contar da publicação deste anúncio no Diário da República, por carta registada dirigida à Direcção-Geral da Junta do Crédito Público, Praça do Comércio, 1194 Lisboa Codex, acompanhada de prova da sua identidade, qualidade de titular de indemnização e declaração do árbrito de aceitação do cargo em papel selado e com assinatura reconhecida, para efeito da aplicação do disposto no artigo 6.º do Decreto-Lei n.º 51/86, de 14 de Março.
+
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

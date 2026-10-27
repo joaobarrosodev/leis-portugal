@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1071585556:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2026-1171080175",
+ "dre_path": "/dr/detalhe/aviso/5659-2026-1071585556",
+ "source_lastmod": "2026-09-21",
+ "versions": [
+  {
+   "date": "2026-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1171080375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1171080375": {
+   "fragment_id": "1171080275",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Maria das Dores Marques Banheiro Meira, Presidente da Câmara Municipal de Setúbal, torna público que nos termos e para os efeitos do disposto nos Artigos 139.º e 140.º, do novo Código do Procedimento Administrativo (CPA), aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, foi aprovado o “Tarifário de Abastecimento de Água, Saneamento de Águas Residuais e de Recolha de Resíduos Urbanos no Concelho de Setúbal para 2026”, tendo sido presente à reunião ordinária da Câmara Municipal realizada em 23 de janeiro de 2026, cujo texto se anexa ao presente aviso, podendo ser também consultado na página oficial do Município na internet em www.mun-setubal.pt."
+  }
+ }
+}

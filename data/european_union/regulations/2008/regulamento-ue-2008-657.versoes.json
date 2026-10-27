@@ -1,0 +1,722 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R0657:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R0657-20170113",
+ "dre_path": null,
+ "source_lastmod": "2017-01-13",
+ "versions": [
+  {
+   "date": "2008-07-11",
+   "future": false,
+   "celex": "32008R0657",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b12b7a0884f26f1c",
+    "9b96511422a16657",
+    "31fb41dfc2d3d2b8",
+    "ff50a5216006b8bb",
+    "ff8f5c88b5ad9477",
+    "c7b092b89e146092",
+    "b5199dcc435e0508",
+    "24f982d0f0933102",
+    "ef49ef7f8cba4585",
+    "e4e18c28ab7ffd7f",
+    "3eaded81283c0faf",
+    "c2790ded1bf016de",
+    "7c61f7682b6c2b77",
+    "a4172f3d643f2aba",
+    "9dc7565ae8092f8e",
+    "c871946053217091",
+    "d6d0891dcf10b2fa",
+    "9368ccf1c61aca3d",
+    "7a2e9680235d7de8",
+    "84cf91b8e5750b79",
+    "e3c283338e731681",
+    "107f40ab21aef618"
+   ]
+  },
+  {
+   "date": "2009-10-17",
+   "future": false,
+   "celex": "02008R0657-20091017",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0966:por",
+     "title": "REGULAMENTO (CE) N. o 966/2009 DA COMISSÃO de 15 de Outubro de 2009",
+     "published": null,
+     "celex": "32009R0966"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 15.º — Controlos e sanções",
+    "Altera Artigo 20.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita LISTA DOS PRODUTOS ELEGÍVEIS PARA A AJUDA COMUNITÁRIA",
+    "Adita Categoria I",
+    "Adita Categoria II",
+    "Adita Categoria III",
+    "Adita Categoria IV",
+    "Adita Categoria V",
+    "Adita ANEXO II",
+    "Adita Montantes da ajuda",
+    "Adita ANEXO III",
+    "Adita Requisitos mínimos aplicáveis ao cartaz sobre o regime europeu de distribuição de leite às escolas",
+    "Adita ANEXO IV"
+   ],
+   "fragments": [
+    "5131a51eab05932b",
+    "9b96511422a16657",
+    "31fb41dfc2d3d2b8",
+    "ff50a5216006b8bb",
+    "ff8f5c88b5ad9477",
+    "c7b092b89e146092",
+    "b5199dcc435e0508",
+    "24f982d0f0933102",
+    "ef49ef7f8cba4585",
+    "e4e18c28ab7ffd7f",
+    "3eaded81283c0faf",
+    "c2790ded1bf016de",
+    "7c61f7682b6c2b77",
+    "a4172f3d643f2aba",
+    "9dc7565ae8092f8e",
+    "209e1fe9ae80acbf",
+    "d6d0891dcf10b2fa",
+    "9368ccf1c61aca3d",
+    "7a2e9680235d7de8",
+    "84cf91b8e5750b79",
+    "a67707b89b3ad131",
+    "d664376e2a8dcecd",
+    "7c27736ab6e365ec",
+    "c2256f034396e7a8",
+    "bd6368469ceceb9f",
+    "a49ca75ed3d6d420",
+    "d8f672b8ceacf902",
+    "d6a915135ea1cb3f",
+    "852174729551523b",
+    "a1fb637929fa9cab",
+    "720af75c92791b10",
+    "cafe9062ddf31b9f",
+    "31cd2a4adc4a44a2",
+    "d736b55b2a403df1"
+   ]
+  },
+  {
+   "date": "2011-10-11",
+   "future": false,
+   "celex": "02008R0657-20111011",
+   "acts": [
+    {
+     "id": "eu:celex:32011R0996:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 996/2011 DA COMISSÃO de 7 de Outubro de 2011",
+     "published": null,
+     "celex": "32011R0996"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 15.º — Controlos e sanções",
+    "Altera Categoria I",
+    "Altera Categoria II",
+    "Altera Categoria III",
+    "Altera Categoria V",
+    "Altera Notas",
+    "Adita Artigo 17.º — Notificações",
+    "Suprime Artigo 17.º — Comunicações"
+   ],
+   "fragments": [
+    "35be340804d53ded",
+    "9b96511422a16657",
+    "31fb41dfc2d3d2b8",
+    "ff50a5216006b8bb",
+    "ff8f5c88b5ad9477",
+    "c7b092b89e146092",
+    "b5199dcc435e0508",
+    "24f982d0f0933102",
+    "ef49ef7f8cba4585",
+    "e4e18c28ab7ffd7f",
+    "3eaded81283c0faf",
+    "c2790ded1bf016de",
+    "7c61f7682b6c2b77",
+    "a4172f3d643f2aba",
+    "9dc7565ae8092f8e",
+    "3262b8c8a7349c40",
+    "d6d0891dcf10b2fa",
+    "23b75fd12388a797",
+    "7a2e9680235d7de8",
+    "84cf91b8e5750b79",
+    "a67707b89b3ad131",
+    "d664376e2a8dcecd",
+    "7c27736ab6e365ec",
+    "46f1bf5d6eb90396",
+    "9d625f6bb8b0927e",
+    "453adde789f06a39",
+    "d8f672b8ceacf902",
+    "5c0a408a432acfab",
+    "852174729551523b",
+    "a1fb637929fa9cab",
+    "720af75c92791b10",
+    "cafe9062ddf31b9f",
+    "31cd2a4adc4a44a2",
+    "020f7cbcf0496c01"
+   ]
+  },
+  {
+   "date": "2013-08-01",
+   "future": false,
+   "celex": "02008R0657-20130801",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0756:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 756/2013 DA COMISSÃO de 6 de agosto de 2013",
+     "published": null,
+     "celex": "32013R0756"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 11.º — Pedido de pagamento da ajuda",
+    "Altera Artigo 15.º — Controlos e sanções",
+    "Altera Artigo 17.º — Notificações",
+    "Altera Categoria I",
+    "Altera Categoria II",
+    "Altera Categoria III",
+    "Altera Categoria V",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "7b8a9611c7dd028f",
+    "9b96511422a16657",
+    "31fb41dfc2d3d2b8",
+    "ff50a5216006b8bb",
+    "ff8f5c88b5ad9477",
+    "c7b092b89e146092",
+    "b5199dcc435e0508",
+    "24f982d0f0933102",
+    "ef49ef7f8cba4585",
+    "e4e18c28ab7ffd7f",
+    "3eaded81283c0faf",
+    "f187ca06138e70f5",
+    "7c61f7682b6c2b77",
+    "a4172f3d643f2aba",
+    "9dc7565ae8092f8e",
+    "08204a1c9a9d4790",
+    "d6d0891dcf10b2fa",
+    "c6890f0802b706fd",
+    "7a2e9680235d7de8",
+    "84cf91b8e5750b79",
+    "a67707b89b3ad131",
+    "d664376e2a8dcecd",
+    "7c27736ab6e365ec",
+    "c256f9ad85f895e1",
+    "cb25c4e01b5b2f41",
+    "df3a9bc1e70f8ce7",
+    "d8f672b8ceacf902",
+    "7951aa7fa703a190",
+    "852174729551523b",
+    "a1fb637929fa9cab",
+    "720af75c92791b10",
+    "cafe9062ddf31b9f",
+    "31cd2a4adc4a44a2",
+    "d979ded67b7954da"
+   ]
+  },
+  {
+   "date": "2017-01-13",
+   "future": false,
+   "celex": "02008R0657-20170113",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Beneficiários da ajuda",
+    "Suprime Artigo 3.º — Produtos elegíveis",
+    "Suprime Artigo 4.º — Montante da ajuda",
+    "Suprime Artigo 5.º — Quantidade máxima subvencionável",
+    "Suprime Artigo 6.º — Condições gerais para a concessão da ajuda",
+    "Suprime Artigo 7.º — Aprovação dos requerentes",
+    "Suprime Artigo 8.º — Condições gerais de aprovação",
+    "Suprime Artigo 9.º — Condições específicas para a aprovação de determinados requerentes",
+    "Suprime Artigo 10.º — Suspensão e revogação da aprovação",
+    "Suprime Artigo 11.º — Pedido de pagamento da ajuda",
+    "Suprime Artigo 12.º — Pagamento da ajuda",
+    "Suprime Artigo 13.º — Pagamento de adiantamentos",
+    "Suprime Artigo 14.º — Controlo do preço",
+    "Suprime Artigo 15.º — Controlos e sanções",
+    "Suprime Artigo 16.º — Cartaz sobre o regime europeu de distribuição de leite às escolas",
+    "Suprime Artigo 17.º — Notificações",
+    "Suprime Artigo 18.º — Revogação",
+    "Suprime Artigo 19.º — Disposição transitória",
+    "Suprime Artigo 20.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime LISTA DOS PRODUTOS ELEGÍVEIS PARA A AJUDA COMUNITÁRIA",
+    "Suprime Categoria I",
+    "Suprime Categoria II",
+    "Suprime Categoria III",
+    "Suprime Categoria IV",
+    "Suprime Categoria V",
+    "Suprime ANEXO II",
+    "Suprime Montantes da ajuda",
+    "Suprime ANEXO III",
+    "Suprime Requisitos mínimos aplicáveis ao cartaz sobre o regime europeu de distribuição de leite às escolas",
+    "Suprime ANEXO IV",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "539fb2969e87ecfc"
+   ]
+  }
+ ],
+ "fragments": {
+  "b12b7a0884f26f1c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Julho de 2008\n\nque estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à concessão de uma ajuda comunitária para a distribuição de leite e de determinados produtos lácteos aos alunos, nos estabelecimentos de ensino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») [([^1])](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntr1-L_2008183PT.01001701-E0001), nomeadamente o artigo 102.º em conjugação com o artigo 4.º,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 2707/2000 da Comissão, de 11 de Dezembro de 2000, que estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino [([^2])](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntr2-L_2008183PT.01001701-E0002), foi substancialmente alterado diversas vezes [([^3])](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntr3-L_2008183PT.01001701-E0003). Atendendo a que é necessário efectuar novas alterações, por razões de clareza e racionalidade esse regulamento deve ser revogado e substituído por um novo regulamento.\n\n(2) A ajuda para a distribuição de leite e de determinados produtos lácteos aos alunos deve estar à disposição de jardins-de-infância, outros estabelecimentos de ensino pré-escolar e estabelecimentos de ensino primário e secundário. No âmbito da luta contra a obesidade, e a fim de proporcionar leite e produtos lácteos saudáveis às crianças, os tipos de estabelecimento referidos devem ser tratados equitativamente e ter acesso ao regime. De modo a simplificar a gestão do regime, o consumo pelos alunos no decurso de estadias em colónias de férias deve ser excluído.\n\n(3) A fim de clarificar a aplicação do regime de ajuda, deve especificar-se que os alunos apenas devem beneficiar da ajuda durante os dias lectivos. Além disso, o número total de dias lectivos, excluindo os feriados, deve ser confirmado pelas autoridades educativas ou pelo estabelecimento de ensino de cada Estado-Membro.\n\n(4) A experiência mostrou que é difícil controlar a utilização de produtos lácteos subvencionados na preparação de refeições destinadas aos alunos. Além disso, a referida utilização não constitui uma forma eficaz de alcançar o objectivo educativo do regime. A preparação de refeições deve, pois, ser restringida em conformidade.\n\n(5) De modo a ter em conta os diferentes hábitos de consumo de leite e de determinados produtos lácteos na Comunidade, e para dar resposta às tendências actuais em matéria de saúde e nutrição, a lista de produtos elegíveis deve ser alargada e simplificada, deixando simultaneamente aos Estados-Membros a possibilidade de determinarem a sua própria gama de produtos em conformidade com essa lista.\n\n(6) A fim de assegurar que os produtos elegíveis para a ajuda proporcionem um nível elevado de protecção da saúde, os referidos produtos devem ser preparados de acordo com os requisitos do Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo à higiene dos géneros alimentícios [([^4])](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntr4-L_2008183PT.01001701-E0004), e apresentar a marca de identificação exigida pelo Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal [([^5])](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntr5-L_2008183PT.01001701-E0005).\n\n(7) Para efeitos da gestão e supervisão do regime de ajuda, deve estabelecer-se um procedimento de aprovação dos requerentes.\n\n(8) Para determinar o montante da ajuda para os diversos produtos elegíveis deve ter-se em conta o montante fixado para o leite no artigo 102.º do Regulamento (CE) n.º 1234/2007, bem como as relações técnicas entre os produtos.\n\n(9) No que respeita ao pagamento da ajuda, importa especificar as condições que os requerentes da mesma devem satisfazer, bem como as regras aplicáveis à apresentação dos pedidos, às verificações a efectuar e sanções a aplicar pelas autoridades competentes e às modalidades de pagamento.\n\n(10) O n.º 4 do artigo 102.º do Regulamento (CE) n.º 1234/2007 estipula que a ajuda é concedida em relação a uma quantidade máxima diária de 0,25 litros de equivalente-leite por aluno. Há que especificar as equivalências entre o leite e cada um dos restantes produtos.\n\n(11) Os Estados-Membros devem estabelecer as regras de supervisão do regime de ajuda, de modo a garantir que o montante da ajuda seja devidamente repercutido no preço pago pelos beneficiários e que os produtos subvencionados não sejam desviados do destino previsto.\n\n(12) A fim de proteger os interesses financeiros da Comunidade, devem ser adoptadas medidas adequadas de controlo para combater as irregularidades e a fraude. Essas medidas de controlo devem incluir uma verificação administrativa completa e verificações no local. O âmbito, teor, calendário e comunicação dos resultados dessas medidas de controlo devem ser especificados a fim de garantir uma abordagem equitativa e uniforme entre Estados-Membros, tendo em conta as suas diferentes formas de aplicação do regime. Além disso, os montantes indevidamente pagos devem ser recuperados e devem prever-se sanções para dissuadir os requerentes de cometer acções fraudulentas.\n\n(13) A fim de simplificar o trabalho administrativo dos Estados-Membros, o cálculo da quantidade máxima subvencionável a título da ajuda deve ser efectuado com base no número de alunos que frequentam regularmente um estabelecimento conforme estabelecido na lista do requerente.\n\n(14) A experiência mostrou que os beneficiários não estão devidamente cientes do papel desempenhado pela União Europeia no regime de distribuição de leite às escolas. A subvenção do regime pela União Europeia deve, pois, ser claramente indicada em cada estabelecimento de ensino que participa no regime de distribuição de leite às escolas.\n\n(15) Certas informações relacionadas com o regime de distribuição de leite às escolas devem ser transmitidas à Comissão anualmente para efeitos de seguimento.\n\n(16) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9b96511422a16657": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 no que respeita à concessão de uma ajuda comunitária para a distribuição de determinados produtos lácteos aos alunos, nos estabelecimentos de ensino (a seguir denominada «ajuda»), nos termos do artigo 102.º do referido regulamento."
+  },
+  "31fb41dfc2d3d2b8": {
+   "fragment_id": "Artigo 2.º — Beneficiários da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Beneficiários da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários da ajuda\n\nOs beneficiários da ajuda são os alunos que frequentam regularmente um estabelecimento de ensino incluído numa das seguintes categorias: jardins-de-infância e outros estabelecimentos de ensino pré-escolar e estabelecimentos de ensino primário e secundário, administrados ou reconhecidos pela autoridade competente do Estado-Membro."
+  },
+  "ff50a5216006b8bb": {
+   "fragment_id": "Artigo 3.º — Produtos elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Produtos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produtos elegíveis\n\n1. Os Estados-Membros podem pagar a ajuda relativamente aos produtos elegíveis constantes da lista do anexo I. Os Estados-Membros podem aplicar normas mais estritas, na observância dos requisitos aplicáveis aos produtos elegíveis especificados no anexo I.\n\n2. No que respeita aos departamentos ultramarinos franceses, o leite achocolatado ou leite aromatizado, referido no anexo I, pode ser leite reconstituído.\n\n3. Os Estados-Membros podem autorizar a adição de, no máximo, 5 mg de flúor por quilograma de produto aos produtos da categoria I.\n\n4. Só é concedida ajuda em relação aos produtos enumerados no anexo I do presente regulamento se os mesmos satisfizerem os requisitos do Regulamento (CE) n.º 852/2004 e do Regulamento (CE) n.º 853/2004, nomeadamente serem preparados num estabelecimento aprovado, e cumprirem os requisitos respeitantes às marcas de identificação enunciados na secção I do anexo II do Regulamento (CE) n.º 853/2004."
+  },
+  "ff8f5c88b5ad9477": {
+   "fragment_id": "Artigo 4.º — Montante da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Montante da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante da ajuda\n\n1. Os montantes da ajuda constam do anexo II.\n\n2. Em caso de alteração do montante da ajuda, expresso em euros, o referido montante, no que respeita às quantidades fornecidas no mês em curso, é o montante aplicável no primeiro dia do mês.\n\n3. Se as quantidades de produtos fornecidos forem expressas em litros, a conversão de litros em quilogramas é efectuada por aplicação do coeficiente 1,03."
+  },
+  "c7b092b89e146092": {
+   "fragment_id": "Artigo 5.º — Quantidade máxima subvencionável",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Quantidade máxima subvencionável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Quantidade máxima subvencionável\n\n1. Os Estados-Membros verificam se a quantidade máxima de 0,25 litros referida no n.º 4 do artigo 102.º do Regulamento (CE) n.º 1234/2007 não é excedida, tendo em conta o número de dias lectivos e o número de alunos que frequentam regularmente o estabelecimento durante o período abrangido por um pedido de pagamento da ajuda, bem como o coeficiente referido no n.º 3 do artigo 4.º do presente regulamento.\n\n2. No caso dos produtos das categorias II a V do anexo I, são utilizadas para a verificação referida no n.º 1 as seguintes equivalências:\n\na) Categoria II: 100 kg = 90 kg de leite;\n\nb) Categoria III: 100 kg = 300 kg de leite;\n\nc) Categoria IV: 100 kg = 899 kg de leite;\n\nd) Categoria V: 100 kg = 765 kg de leite.\n\n3. Os beneficiários especificados no artigo 2.º beneficiam da ajuda somente nos dias lectivos. O número total de dias lectivos, excluindo os feriados, é comunicado pelas autoridades educativas ou pelo estabelecimento de ensino à autoridade competente do Estado-Membro em questão e, se for caso disso, ao requerente. Os alunos não beneficiam da ajuda durante as suas estadias em colónias de férias.\n\n4. O leite e os produtos lácteos utilizados na preparação de refeições não beneficiam da ajuda.\n\nNo entanto, podem beneficiar da ajuda o leite e os produtos lácteos utilizados na preparação de refeições nas instalações do estabelecimento de ensino e não submetidos a tratamento térmico. Além disso, pode ser autorizado o aquecimento dos produtos enumerados na categoria I, alíneas a) e b), do anexo I.\n\n5. Para efeitos do n.º 4, no que respeita à diferenciação dos produtos utilizados em preparados aquecidos e em preparados não aquecidos e/ou consumo directo, pode ser utilizado um coeficiente, estabelecido com base nas quantidades utilizadas no passado e/ou em receitas, com a aprovação do Estado-Membro em causa."
+  },
+  "b5199dcc435e0508": {
+   "fragment_id": "Artigo 6.º — Condições gerais para a concessão da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Condições gerais para a concessão da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições gerais para a concessão da ajuda\n\n1. Um pedido de ajuda só é válido se for apresentado por um requerente aprovado, em conformidade com os artigos 7.º, 8.º e 9.º, para a distribuição de produtos comunitários enumerados no anexo I.\n\n2. A ajuda pode ser pedida por:\n\na) Um estabelecimento de ensino;\n\nb) Autoridades educativas que efectuem o pedido para os produtos distribuídos aos alunos sob a sua competência;\n\nc) O fornecedor dos produtos, caso tal seja previsto pelo Estado-Membro;\n\nd) Uma organização que efectue o pedido de ajuda por conta de um ou mais estabelecimentos de ensino ou autoridades educativas, constituída especificamente para a finalidade em causa, caso tal seja previsto pelo Estado-Membro."
+  },
+  "24f982d0f0933102": {
+   "fragment_id": "Artigo 7.º — Aprovação dos requerentes",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Aprovação dos requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aprovação dos requerentes\n\nOs requerentes da ajuda devem ser aprovados para esse fim pela autoridade competente do Estado-Membro em cujo território se situa o estabelecimento de ensino ao qual os produtos são fornecidos."
+  },
+  "ef49ef7f8cba4585": {
+   "fragment_id": "Artigo 8.º — Condições gerais de aprovação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Condições gerais de aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições gerais de aprovação\n\n1. A aprovação fica subordinada aos seguintes compromissos, assumidos por escrito pelo requerente perante a autoridade competente:\n\na) Utilizar apenas os produtos para consumo, em conformidade com o presente regulamento, pelos alunos exclusivamente do seu estabelecimento de ensino ou dos estabelecimentos de ensino para os quais solicite a ajuda;\n\nb) Reembolsar as ajudas pagas indevidamente para as quantidades em causa, caso se tenha verificado que os produtos não foram distribuídos aos beneficiários referidos no artigo 2.º ou que a ajuda foi paga para quantidades diferentes das estabelecidas em conformidade com o artigo 5.º;\n\nc) Colocar à disposição das autoridades competentes, a pedido destas, documentos justificativos;\n\nd) Submeter-se a qualquer verificação decidida pela autoridade competente do Estado-Membro em causa, nomeadamente no que respeita à verificação de registos e à inspecção no local.\n\n2. As aprovações concedidas nos termos dos artigos 7.º, 8.º e 9.º do Regulamento (CE) n.º 2707/2000 permanecem válidas para efeitos do presente regulamento."
+  },
+  "e4e18c28ab7ffd7f": {
+   "fragment_id": "Artigo 9.º — Condições específicas para a aprovação de determinados requerentes",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Condições específicas para a aprovação de determinados requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições específicas para a aprovação de determinados requerentes\n\nCaso a ajuda seja pedida por um requerente referido no n.º 2, alíneas c) e d), do artigo 6.º, o requerente deve, além dos compromissos referidos no artigo 8.º, assumir, por escrito, um compromisso de manter registos dos nomes e endereços dos estabelecimentos de ensino, ou, se for caso disso, das autoridades educativas, bem como dos produtos vendidos ou fornecidos a esses estabelecimentos ou autoridades e das respectivas quantidades."
+  },
+  "3eaded81283c0faf": {
+   "fragment_id": "Artigo 10.º — Suspensão e revogação da aprovação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Suspensão e revogação da aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Suspensão e revogação da aprovação\n\nCaso se constate que um requerente da ajuda deixou de satisfazer as condições referidas nos artigos 8.º e 9.º ou qualquer outra obrigação decorrente do presente regulamento, a aprovação é suspensa por um período de um a doze meses ou revogada, consoante a gravidade da irregularidade.\n\nAs medidas referidas não são aplicáveis em caso de força maior ou se o Estado-Membro constatar que a irregularidade não foi cometida deliberadamente ou por negligência, ou se a mesma for de importância menor.\n\nEm caso de revogação da aprovação, esta última pode ser restabelecida, a pedido do interessado, decorrido um período de, pelo menos, doze meses."
+  },
+  "c2790ded1bf016de": {
+   "fragment_id": "Artigo 11.º — Pedido de pagamento da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Pedido de pagamento da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pedido de pagamento da ajuda\n\n1. O pedido de pagamento da ajuda deve obedecer às especificações da autoridade competente do Estado-Membro e incluir, pelo menos, as seguintes informações:\n\na) Quantidades distribuídas por categoria e subcategoria de produto;\n\nb) Nome e endereço ou número de identificação único do estabelecimento de ensino ou das autoridades educativas a que se refere a informação referida na alínea a).\n\n2. Os Estados-Membros determinam a periodicidade dos pedidos, que podem abranger entre um e sete meses.\n\n3. Salvo em caso de força maior, para serem admissíveis, os pedidos de pagamento da ajuda devem ser correctamente preenchidos e apresentados até ao último dia do terceiro mês subsequente ao final do período a que se referem.\n\nNo caso de se verificar um atraso inferior a dois meses em relação ao prazo referido, a ajuda é paga, embora com as seguintes reduções:\n\na) 5 % do respectivo montante, se o atraso for inferior ou igual a um mês;\n\nb) 10 % do respectivo montante, se o atraso for superior a um mês mas inferior a dois meses.\n\n4. Os montantes indicados nos pedidos devem ser comprovados por documentos justificativos postos à disposição das autoridades competentes. Estes documentos devem indicar separadamente o preço de cada produto entregue e conter a indicação da sua quitação ou ser acompanhados da prova de pagamento."
+  },
+  "7c61f7682b6c2b77": {
+   "fragment_id": "Artigo 12.º — Pagamento da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Pagamento da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento da ajuda\n\n1. Sem prejuízo do n.º 4 do artigo 11.º, a ajuda apenas é paga aos fornecedores ou organizações referidos no n.º 2, alíneas c) e d), do artigo 6.º:\n\na) Mediante apresentação de um recibo que especifique as quantidades efectivamente entregues; ou\n\nb) Com base num relatório de inspecção elaborado pela autoridade competente antes do pagamento final da ajuda, que comprove que se encontram reunidas as condições necessárias ao pagamento; ou\n\nc) Se tal for autorizado pelo Estado-Membro, mediante apresentação de uma prova alternativa de que as quantidades fornecidas no âmbito do presente regulamento foram pagas.\n\n2. O pagamento da ajuda é efectuado pela autoridade competente no prazo de três meses a contar do dia de entrega do pedido válido e devidamente preenchido referido no artigo 11.º, salvo no caso de ter sido iniciado um inquérito administrativo."
+  },
+  "a4172f3d643f2aba": {
+   "fragment_id": "Artigo 13.º — Pagamento de adiantamentos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Pagamento de adiantamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pagamento de adiantamentos\n\n1. Os Estados-Membros podem pagar um adiantamento de montante igual ao da ajuda pedida, após constituição de uma garantia igual a 110 % do montante adiantado.\n\n2. Se um fornecedor ou organização referidos no n.º 2, alíneas c) e d), do artigo 6.º efectuar um pedido de adiantamento, a autoridade competente pode pagar esse adiantamento com base nas quantidades entregues, sem exigir os documentos justificativos referidos no n.º 1 do artigo 12.º. No prazo de um mês a contar do pagamento do adiantamento, o fornecedor ou organização envia à autoridade competente os documentos necessários ao pagamento final da ajuda, excepto se a autoridade em causa elaborar o relatório previsto no n.º 1, alínea b), do artigo 12.º"
+  },
+  "9dc7565ae8092f8e": {
+   "fragment_id": "Artigo 14.º — Controlo do preço",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Controlo do preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Controlo do preço\n\n1. Os Estados-Membros tomam as medidas necessárias para assegurar que o montante da ajuda se repercuta devidamente no preço pago pelo beneficiário.\n\n2. Os Estados-Membros podem fixar preços máximos a pagar pelos beneficiários relativamente aos diversos produtos enumerados no anexo I distribuídos no seu território."
+  },
+  "c871946053217091": {
+   "fragment_id": "Artigo 15.º — Controlos e sanções",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Controlos e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Controlos e sanções\n\n1. Os Estados-Membros tomam todas as medidas necessárias para assegurar a observância do presente regulamento. Essas medidas incluem uma verificação administrativa completa dos pedidos de ajuda, a complementar por verificações no local conforme especificado nos n.^os^ 2 a 8.\n\n2. As verificações administrativas incidem em todos os pedidos de ajuda e incluem a verificação dos documentos justificativos, conforme definidos pelos Estados-Membros, referentes à entrega dos produtos e à observância da quantidade máxima por aluno e por dia referida no n.º 1 do artigo 5.º\n\nAs verificações administrativas referidas no primeiro parágrafo são complementadas por verificações no local que incidem, nomeadamente, nos seguintes elementos:\n\na) Repercussão da ajuda no preço pago pelo beneficiário;\n\nb) Registos referidos no artigo 9.º, incluindo registos financeiros, tais como facturas de compra e venda e extractos bancários;\n\nc) Utilização dos produtos subvencionados em conformidade com o presente regulamento, nomeadamente no caso de existirem indícios de uma eventual irregularidade.\n\n3. O número total de verificações no local efectuadas em relação a cada período compreendido entre 1 de Agosto e 31 de Julho abrange pelo menos 5 % de todos os requerentes referidos no artigo 6.º. Quando o número de requerentes de um Estado-Membro for inferior a 100, são efectuadas verificações no local nas instalações de cinco requerentes. Quando o número de requerentes de um Estado-Membro for inferior a cinco, são controlados 100 % dos requerentes. O número total de verificações no local efectuadas em relação a cada período compreendido entre 1 de Agosto e 31 de Julho abrange, além disso, pelo menos 5 % da ajuda distribuída a nível nacional.\n\n4. As verificações no local são efectuadas durante o período compreendido entre 1 de Agosto e 31 de Julho e incidem, pelo menos, nos doze meses precedentes.\n\n5. Os requerentes submetidos a verificações no local são seleccionados pela autoridade de controlo competente tendo devidamente em conta as diferentes áreas geográficas e com base numa análise de risco que atenda especialmente à natureza recorrente dos erros e aos resultados das verificações efectuadas em anos anteriores. A análise de risco tem também em conta os diferentes montantes de ajuda em causa e os tipos de requerentes referidos no n.º 2 do artigo 6.º\n\n6. Nos casos em que o pedido de ajuda seja apresentado por um requerente referido no n.º 2, alíneas b), c) e d), do artigo 6.º, a verificação no local efectuada nas instalações do requerente é complementada por verificações no local nas instalações de, pelo menos, dois estabelecimentos de ensino ou, pelo menos, 1 % dos estabelecimentos de ensino constantes da lista do requerente, se este último valor for superior.\n\n7. Desde que o objectivo do controlo não fique comprometido, pode efectuar-se, com a antecedência estritamente necessária, um pré-aviso da sua realização.\n\n8. A autoridade de controlo competente elabora um relatório de controlo de cada verificação no local. O relatório contém uma descrição precisa dos diferentes elementos controlados.\n\nO relatório de controlo divide-se nas seguintes partes:\n\na) Uma parte geral que contém, nomeadamente, as seguintes informações: i) regime, período abrangido, pedidos controlados, quantidades de produtos lácteos relativamente aos quais a ajuda foi paga e montante financeiro correspondente, ii) pessoas responsáveis presentes;\n\ni) regime, período abrangido, pedidos controlados, quantidades de produtos lácteos relativamente aos quais a ajuda foi paga e montante financeiro correspondente,\n\nii) pessoas responsáveis presentes;\n\nb) Uma parte na qual as verificações efectuadas são descritas separadamente, que contém, nomeadamente, as seguintes informações: i) documentos verificados, ii) natureza e extensão das verificações efectuadas, iii) observações e conclusões.\n\ni) documentos verificados,\n\nii) natureza e extensão das verificações efectuadas,\n\niii) observações e conclusões.\n\n9. Para a recuperação de montantes pagos indevidamente, são aplicáveis *mutatis mutandis* os n.^os^ 1, 3, 4 e 8 do artigo 73.º do Regulamento (CE) n.º 796/2004 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntr6-L_2008183PT.01001701-E0006).\n\n10. Sem prejuízo do artigo 10.º, em caso de fraude, o requerente paga, além dos montantes correspondentes à recuperação de pagamentos indevidos em conformidade com o n.º 9, um montante igual à diferença entre o montante inicialmente pago e o montante a que o requerente teria direito."
+  },
+  "d6d0891dcf10b2fa": {
+   "fragment_id": "Artigo 16.º — Cartaz sobre o regime europeu de distribuição de leite às escolas",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Cartaz sobre o regime europeu de distribuição de leite às escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cartaz sobre o regime europeu de distribuição de leite às escolas\n\nOs estabelecimentos de ensino que distribuem produtos em conformidade com o presente regulamento devem criar ou dispor já de um cartaz em conformidade com os requisitos mínimos estabelecidos no anexo III, a afixar em permanência num local situado à entrada principal do estabelecimento, de modo a estar claramente visível e legível."
+  },
+  "9368ccf1c61aca3d": {
+   "fragment_id": "Artigo 17.º — Comunicações",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Comunicações\n\n1. Até ao dia 30 de Novembro seguinte ao termo do período transacto compreendido entre 1 de Agosto e 31 de Julho, os Estados-Membros transmitem à Comissão informações sintéticas sobre o número de estabelecimentos de ensino e de requerentes que participaram, as verificações no local efectuadas e os correspondentes resultados.\n\n2. Os Estados-Membros transmitem anualmente à Comissão, antes de 31 de Janeiro, pelo menos as seguintes informações relativas ao período transacto compreendido entre 1 de Agosto e 31 de Julho:\n\na) As quantidades de leite e de produtos lácteos, discriminadas por categorias e subcategorias, relativamente às quais tenham sido pagas ajudas durante o período transacto compreendido entre 1 de Agosto e 31 de Julho, bem como a quantidade máxima permitida e o cálculo dessa quantidade;\n\nb) Uma estimativa do número de alunos que participam no regime de distribuição de leite às escolas.\n\n3. O formato e o teor das comunicações são definidos com base em modelos postos à disposição dos Estados-Membros pela Comissão. Esses modelos não são aplicáveis antes de o Comité de Gestão para a Organização Comum dos Mercados Agrícolas ter sido informado."
+  },
+  "7a2e9680235d7de8": {
+   "fragment_id": "Artigo 18.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revogação\n\nÉ revogado o Regulamento (CE) n.º 2707/2000.\n\nAs remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento e devem ser lidas de acordo com o quadro de correspondência constante do anexo IV."
+  },
+  "84cf91b8e5750b79": {
+   "fragment_id": "Artigo 19.º — Disposição transitória",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposição transitória\n\n1. O Regulamento (CE) n.º 2707/2000 mantém-se aplicável às entregas efectuadas antes de 1 de Agosto de 2008.\n\n2. As autorizações concedidas em conformidade com o n.º 3 do artigo 2.º do Regulamento (CE) n.º 2707/2000 mantêm-se aplicáveis até 31 de Dezembro de 2008."
+  },
+  "e3c283338e731681": {
+   "fragment_id": "Artigo 20.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Agosto de 2008.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 10 de Julho de 2008.\n\n***Pela Comissão***\n\n**Mariann FISCHER BOEL**\n\n***Membro da Comissão***\n\n---"
+  },
+  "107f40ab21aef618": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntc1-L_2008183PT.01001701-E0001) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 510/2008 da Comissão ([JO L 149 de 7.6.2008, p. 61](http://publications.europa.eu/resource/oj/JOL_2008_149_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntc2-L_2008183PT.01001701-E0002) [JO L 311 de 12.12.2000, p. 37](http://publications.europa.eu/resource/oj/JOL_2000_311_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1544/2007 ([JO L 337 de 21.12.2007, p. 64](http://publications.europa.eu/resource/oj/JOL_2007_337_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntc3-L_2008183PT.01001701-E0003) Ver anexo IV.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntc4-L_2008183PT.01001701-E0004) [JO L 139 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_139_R_TOC). Rectificação no [JO L 226 de 25.6.2004, p. 3](http://publications.europa.eu/resource/oj/JOL_2004_226_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntc5-L_2008183PT.01001701-E0005) [JO L 139 de 30.4.2004, p. 55](http://publications.europa.eu/resource/oj/JOL_2004_139_R_TOC). Rectificação no [JO L 226 de 25.6.2004, p. 22](http://publications.europa.eu/resource/oj/JOL_2004_226_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1243/2007 da Comissão ([JO L 281 de 25.10.2007, p. 8](http://publications.europa.eu/resource/oj/JOL_2007_281_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/ca5253ec-6708-4f56-a3e0-a8214e6bcdd7.0018.02/DOC_1#ntc6-L_2008183PT.01001701-E0006) [JO L 141 de 30.4.2004, p. 18](http://publications.europa.eu/resource/oj/JOL_2004_141_R_TOC)."
+  },
+  "5131a51eab05932b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Julho de 2008\n\nque estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à concessão de uma ajuda comunitária para a distribuição de leite e de determinados produtos lácteos aos alunos, nos estabelecimentos de ensino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0001)), nomeadamente o artigo 102.º em conjugação com o artigo 4.º,\n\n(1) O Regulamento (CE) n.º 2707/2000 da Comissão, de 11 de Dezembro de 2000, que estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino ([^2^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0002)), foi substancialmente alterado diversas vezes ([^3^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0003)). Atendendo a que é necessário efectuar novas alterações, por razões de clareza e racionalidade esse regulamento deve ser revogado e substituído por um novo regulamento.\n\n(2) A ajuda para a distribuição de leite e de determinados produtos lácteos aos alunos deve estar à disposição de jardins-de-infância, outros estabelecimentos de ensino pré-escolar e estabelecimentos de ensino primário e secundário. No âmbito da luta contra a obesidade, e a fim de proporcionar leite e produtos lácteos saudáveis às crianças, os tipos de estabelecimento referidos devem ser tratados equitativamente e ter acesso ao regime. De modo a simplificar a gestão do regime, o consumo pelos alunos no decurso de estadias em colónias de férias deve ser excluído.\n\n(3) A fim de clarificar a aplicação do regime de ajuda, deve especificar-se que os alunos apenas devem beneficiar da ajuda durante os dias lectivos. Além disso, o número total de dias lectivos, excluindo os feriados, deve ser confirmado pelas autoridades educativas ou pelo estabelecimento de ensino de cada Estado-Membro.\n\n(4) A experiência mostrou que é difícil controlar a utilização de produtos lácteos subvencionados na preparação de refeições destinadas aos alunos. Além disso, a referida utilização não constitui uma forma eficaz de alcançar o objectivo educativo do regime. A preparação de refeições deve, pois, ser restringida em conformidade.\n\n(5) De modo a ter em conta os diferentes hábitos de consumo de leite e de determinados produtos lácteos na Comunidade, e para dar resposta às tendências actuais em matéria de saúde e nutrição, a lista de produtos elegíveis deve ser alargada e simplificada, deixando simultaneamente aos Estados-Membros a possibilidade de determinarem a sua própria gama de produtos em conformidade com essa lista.\n\n(6) A fim de assegurar que os produtos elegíveis para a ajuda proporcionem um nível elevado de protecção da saúde, os referidos produtos devem ser preparados de acordo com os requisitos do Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo à higiene dos géneros alimentícios ([^4^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0004)), e apresentar a marca de identificação exigida pelo Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal ([^5^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0005)).\n\n(7) Para efeitos da gestão e supervisão do regime de ajuda, deve estabelecer-se um procedimento de aprovação dos requerentes.\n\n(8) Para determinar o montante da ajuda para os diversos produtos elegíveis deve ter-se em conta o montante fixado para o leite no artigo 102.º do Regulamento (CE) n.º 1234/2007, bem como as relações técnicas entre os produtos.\n\n(9) No que respeita ao pagamento da ajuda, importa especificar as condições que os requerentes da mesma devem satisfazer, bem como as regras aplicáveis à apresentação dos pedidos, às verificações a efectuar e sanções a aplicar pelas autoridades competentes e às modalidades de pagamento.\n\n(10) O n.º 4 do artigo 102.º do Regulamento (CE) n.º 1234/2007 estipula que a ajuda é concedida em relação a uma quantidade máxima diária de 0,25 litros de equivalente-leite por aluno. Há que especificar as equivalências entre o leite e cada um dos restantes produtos.\n\n(11) Os Estados-Membros devem estabelecer as regras de supervisão do regime de ajuda, de modo a garantir que o montante da ajuda seja devidamente repercutido no preço pago pelos beneficiários e que os produtos subvencionados não sejam desviados do destino previsto.\n\n(12) A fim de proteger os interesses financeiros da Comunidade, devem ser adoptadas medidas adequadas de controlo para combater as irregularidades e a fraude. Essas medidas de controlo devem incluir uma verificação administrativa completa e verificações no local. O âmbito, teor, calendário e comunicação dos resultados dessas medidas de controlo devem ser especificados a fim de garantir uma abordagem equitativa e uniforme entre Estados-Membros, tendo em conta as suas diferentes formas de aplicação do regime. Além disso, os montantes indevidamente pagos devem ser recuperados e devem prever-se sanções para dissuadir os requerentes de cometer acções fraudulentas.\n\n(13) A fim de simplificar o trabalho administrativo dos Estados-Membros, o cálculo da quantidade máxima subvencionável a título da ajuda deve ser efectuado com base no número de alunos que frequentam regularmente um estabelecimento conforme estabelecido na lista do requerente.\n\n(14) A experiência mostrou que os beneficiários não estão devidamente cientes do papel desempenhado pela União Europeia no regime de distribuição de leite às escolas. A subvenção do regime pela União Europeia deve, pois, ser claramente indicada em cada estabelecimento de ensino que participa no regime de distribuição de leite às escolas.\n\n(15) Certas informações relacionadas com o regime de distribuição de leite às escolas devem ser transmitidas à Comissão anualmente para efeitos de seguimento.\n\n(16) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "209e1fe9ae80acbf": {
+   "fragment_id": "Artigo 15.º — Controlos e sanções",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Controlos e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Controlos e sanções\n\n1. Os Estados-Membros tomam todas as medidas necessárias para assegurar a observância do presente regulamento. Essas medidas incluem uma verificação administrativa completa dos pedidos de ajuda, a complementar por verificações no local conforme especificado nos n.^os^ 2 a 8.\n\n2. As verificações administrativas incidem em todos os pedidos de ajuda e incluem a verificação dos documentos justificativos, conforme definidos pelos Estados-Membros, referentes à entrega dos produtos e à observância da quantidade máxima por aluno e por dia referida no n.º 1 do artigo 5.º\n\nAs verificações administrativas referidas no primeiro parágrafo são complementadas por verificações no local que incidem, nomeadamente, nos seguintes elementos:\n\na) Repercussão da ajuda no preço pago pelo beneficiário;\n\nb) Registos referidos no artigo 9.º, incluindo registos financeiros, tais como facturas de compra e venda e extractos bancários;\n\nc) Utilização dos produtos subvencionados em conformidade com o presente regulamento, nomeadamente no caso de existirem indícios de uma eventual irregularidade.\n\n3. O número total de verificações no local efectuadas em relação a cada período compreendido entre 1 de Agosto e 31 de Julho abrange pelo menos 5 % de todos os requerentes referidos no artigo 6.º. Quando o número de requerentes de um Estado-Membro for inferior a 100, são efectuadas verificações no local nas instalações de cinco requerentes. Quando o número de requerentes de um Estado-Membro for inferior a cinco, são controlados 100 % dos requerentes. O número total de verificações no local efectuadas em relação a cada período compreendido entre 1 de Agosto e 31 de Julho abrange, além disso, pelo menos 5 % da ajuda distribuída a nível nacional.\n\n4. As verificações no local são efectuadas durante o período compreendido entre 1 de Agosto e 31 de Julho e incidem, pelo menos, nos doze meses precedentes.\n\n5. Os requerentes submetidos a verificações no local são seleccionados pela autoridade de controlo competente tendo devidamente em conta as diferentes áreas geográficas e com base numa análise de risco que atenda especialmente à natureza recorrente dos erros e aos resultados das verificações efectuadas em anos anteriores. A análise de risco tem também em conta os diferentes montantes de ajuda em causa e os tipos de requerentes referidos no n.º 2 do artigo 6.º\n\n6. Nos casos em que o pedido de ajuda seja apresentado por um requerente referido no n.º 2, alíneas b), c) e d), do artigo 6.º, a verificação no local efectuada nas instalações do requerente é complementada por verificações no local nas instalações de, pelo menos, dois estabelecimentos de ensino ou, pelo menos, 1 % dos estabelecimentos de ensino constantes da lista do requerente, se este último valor for superior.\n\n7. Desde que o objectivo do controlo não fique comprometido, pode efectuar-se, com a antecedência estritamente necessária, um pré-aviso da sua realização.\n\n8. A autoridade de controlo competente elabora um relatório de controlo de cada verificação no local. O relatório contém uma descrição precisa dos diferentes elementos controlados.\n\nO relatório de controlo divide-se nas seguintes partes:\n\na) Uma parte geral que contém, nomeadamente, as seguintes informações:\n\ni) regime, período abrangido, pedidos controlados, quantidades de produtos lácteos relativamente aos quais a ajuda foi paga e montante financeiro correspondente,\n\nii) pessoas responsáveis presentes;\n\nb) Uma parte na qual as verificações efectuadas são descritas separadamente, que contém, nomeadamente, as seguintes informações:\n\ni) documentos verificados,\n\nii) natureza e extensão das verificações efectuadas,\n\niii) observações e conclusões.\n\n9. Para a recuperação de montantes pagos indevidamente, são aplicáveis *mutatis mutandis* os n.^os^ 1, 3, 4 e 8 do artigo 73.º do Regulamento (CE) n.º 796/2004 da Comissão ([^6^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0006)).\n\n10. Sem prejuízo do artigo 10.º, em caso de fraude, o requerente paga, além dos montantes correspondentes à recuperação de pagamentos indevidos em conformidade com o n.º 9, um montante igual à diferença entre o montante inicialmente pago e o montante a que o requerente teria direito."
+  },
+  "a67707b89b3ad131": {
+   "fragment_id": "Artigo 20.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Agosto de 2008.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "7c27736ab6e365ec": {
+   "fragment_id": "LISTA DOS PRODUTOS ELEGÍVEIS PARA A AJUDA COMUNITÁRIA",
+   "type": "divisao",
+   "heading": "LISTA DOS PRODUTOS ELEGÍVEIS PARA A AJUDA COMUNITÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA DOS PRODUTOS ELEGÍVEIS PARA A AJUDA COMUNITÁRIA"
+  },
+  "c2256f034396e7a8": {
+   "fragment_id": "Categoria I",
+   "type": "divisao",
+   "heading": "Categoria I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria I\n\na) Leite tratado termicamente ([^7^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0007));\n\nb) Leite tratado termicamente, achocolatado, com sumos de frutos ([^8^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0008)) ou aromatizado, com teor ponderal de leite referido na alínea a) não inferior a 90 % e com, no máximo, 7 % de açúcares adicionados ([^9^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0009)) e/ou mel;\n\nc) Produtos lácteos fermentados com ou sem sumos de frutos [(9)](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0008), aromatizados ou não, com teor ponderal de leite referido na alínea a) não inferior a 90 % e com, no máximo, 7 % de açúcares adicionados [(9)](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0009) e/ou mel."
+  },
+  "bd6368469ceceb9f": {
+   "fragment_id": "Categoria II",
+   "type": "divisao",
+   "heading": "Categoria II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria II\n\nProdutos lácteos aromatizados e não aromatizados com frutos ([^10^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0010)), fermentados ou não, com teor ponderal de leite referido na alínea a) da categoria I não inferior a 75 % e com, no máximo, 7 % de açúcares adicionados ([^11^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0011)) e/ou mel."
+  },
+  "a49ca75ed3d6d420": {
+   "fragment_id": "Categoria III",
+   "type": "divisao",
+   "heading": "Categoria III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria III\n\nQueijos frescos e queijos fundidos, com teor ponderal de ingredientes não lácteos ([^12^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0012)) não superior a 10 %."
+  },
+  "d8f672b8ceacf902": {
+   "fragment_id": "Categoria IV",
+   "type": "divisao",
+   "heading": "Categoria IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria IV\n\nQueijos «Grana Padano» e «Parmigiano Reggiano»."
+  },
+  "d6a915135ea1cb3f": {
+   "fragment_id": "Categoria V",
+   "type": "divisao",
+   "heading": "Categoria V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria V\n\nQueijos com teor ponderal de ingredientes não lácteos não superior a 10 %, não incluídos nas categorias III e IV [(12)](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#E0012)."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "a1fb637929fa9cab": {
+   "fragment_id": "Montantes da ajuda",
+   "type": "divisao",
+   "heading": "Montantes da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Montantes da ajuda\n\na) 18,15 EUR/100 kg de produtos da categoria I;\n\nb) 16,34 EUR/100 kg de produtos da categoria II;\n\nc) 54,45 EUR/100 kg de produtos da categoria III;\n\nd) 163,14 EUR/100 kg de produtos da categoria IV;\n\ne) 138,85 EUR/100 kg de produtos da categoria V."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "cafe9062ddf31b9f": {
+   "fragment_id": "Requisitos mínimos aplicáveis ao cartaz sobre o regime europeu de distribuição de leite às escolas",
+   "type": "divisao",
+   "heading": "Requisitos mínimos aplicáveis ao cartaz sobre o regime europeu de distribuição de leite às escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos mínimos aplicáveis ao cartaz sobre o regime europeu de distribuição de leite às escolas\n\n*Dimensões do cartaz*: A3 ou maior\n\n*Letras*: 1 cm ou mais\n\n*Título*: Regime europeu de distribuição de leite às escolas\n\n*Conteúdo*: Pelo menos a seguinte frase, em função do tipo de estabelecimento de ensino:\n\n«O nosso/a nossa [tipo de estabelecimento de ensino (por exemplo, jardim-de-infância/estabelecimento de ensino pré-escolar/escola)] distribui produtos lácteos subvencionados pela União Europeia ao abrigo do regime europeu de distribuição de leite às escolas.».\n\nRecomenda-se que sejam frisados os benefícios nutricionais e que sejam dados conselhos de nutrição às crianças.\n\n*Afixação*: Local situado à entrada principal do estabelecimento, de modo a estar claramente visível e legível."
+  },
+  "31cd2a4adc4a44a2": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\nRegulamento (CE) n.º 2707/2000 Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º, n.º 1, alíneas a), b) e c) Artigo 2.º\n\nArtigo 2.º, n.º 2 —\n\nArtigo 2.º, n.º 3 —\n\nArtigo 3.º Artigo 3.º, n.º 1, primeira frase\n\n— Artigo 3.º, n.º 1, segunda frase\n\nArtigo 3.º, n.^os^ 2, 3 e 4 Artigo 3.º, n.^os^ 2, 3 e 4\n\nArtigo 4.º, n.º 1 Artigo 4.º, n.º 1\n\nArtigo 4.º, n.º 2 —\n\nArtigo 4.º, n.º 3, primeiro parágrafo Artigo 4.º, n.º 2\n\nArtigo 4.º, n.º 3, segundo parágrafo —\n\nArtigo 4.º, n.º 4 Artigo 4.º, n.º 3\n\nArtigo 5.º —\n\n— Artigo 5.º\n\nArtigo 6.º, n.º 1 —\n\n— Artigo 6.º, n.º 1\n\nArtigo 6.º, n.º 2 Artigo 6.º, n.º 2\n\nArtigo 7.º Artigo 7.º\n\nArtigo 8.º Artigo 8.º, n.º 1\n\n— Artigo 8.º, n.º 2\n\nArtigo 9.º, n.º 1 Artigo 9.º\n\nArtigo 9.º, n.º 2 —\n\nArtigo 10.º Artigo 10.º\n\nArtigo 11.º Artigo 11.º\n\nArtigo 12.º, n.º 1, alínea a) Artigo 12.º, n.º 1, alínea a)\n\nArtigo 12.º, n.º 1, alínea b) Artigo 12.º, n.º 1, alínea b)\n\nArtigo 12.º, n.º 1, alínea c) —\n\n— Artigo 12.º, n.º 1, alínea c)\n\nArtigo 12.º, n.º 2 Artigo 12.º, n.º 2\n\nArtigo 12.º, n.º 3 —\n\nArtigo 13.º, n.^os^ 1 e 2 Artigo 13.º, n.^os^ 1 e 2\n\nArtigo 13.º, n.º 3 —\n\nArtigo 14.º, n.º 1, primeiro parágrafo Artigo 14.º, n.º 1\n\nArtigo 14.º, n.º 1, segundo parágrafo, primeira frase Artigo 14.º, n.º 2\n\nArtigo 14.º, n.º 1, segundo parágrafo, segunda e terceira frases —\n\nArtigo 14.º, n.^os^ 2 e 3 —\n\nArtigo 15.º —\n\n— Artigo 15.º\n\nArtigo 16.º —\n\n— Artigo 16.º\n\nArtigo 17.º —\n\n— Artigos 17.º a 20.º\n\nAnexo I —\n\n— Anexo I\n\nAnexo II —\n\n— Anexo II\n\n— Anexo III\n\n— Anexo IV\n\n---"
+  },
+  "d736b55b2a403df1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 510/2008 da Comissão (JO L 149 de 7.6.2008, p. 61).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0002)) JO L 311 de 12.12.2000, p. 37. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1544/2007 (JO L 337 de 21.12.2007, p. 64).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0003)) Ver anexo IV.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0004)) JO L 139 de 30.4.2004, p. 1. Rectificação no JO L 226 de 25.6.2004, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0005)) JO L 139 de 30.4.2004, p. 55. Rectificação no JO L 226 de 25.6.2004, p. 22. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1243/2007 da Comissão (JO L 281 de 25.10.2007, p. 8).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0006)) JO L 141 de 30.4.2004, p. 18.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0007)) Incluindo bebidas à base de leite, sem lactose.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0008)) Os sumos de frutos são utilizados em conformidade com a Directiva 2001/112/CE do Conselho, de 20 de Dezembro de 2001, relativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0009)) Para efeitos desta categoria, entende-se por açúcares qualquer dos produtos abrangidos pelos códigos NC 1701 e 1702. Nos produtos abrangidos por esta categoria, os edulcorantes são utilizados em conformidade com a Directiva 94/35/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos edulcorantes para utilização nos géneros alimentares.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0010)) Para efeitos desta categoria, os produtos lácteos com frutos contêm sempre frutos, polpa de frutos, polme de frutos ou sumos de frutos. Para efeitos desta categoria, entende-se por frutos qualquer dos produtos abrangidos pelo capítulo 8 da Nomenclatura Combinada. Os sumos de frutos, a polpa de frutos e o polme de frutos são utilizados em conformidade com a Directiva 2001/112/CE do Conselho, de 20 de Dezembro de 2001, relativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0011)) Para efeitos desta categoria, entende-se por açúcares qualquer dos produtos abrangidos pelos códigos NC 1701 e 1702. Os açúcares adicionados aos frutos devem estar incluídos na percentagem máxima de 7 % de açúcares adicionados. Nos produtos abrangidos por esta categoria, os edulcorantes são utilizados em conformidade com a Directiva 94/35/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos edulcorantes para utilização nos géneros alimentares.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/b88b5aa1-ae05-4ea7-9da6-b3a0955e5e7f.0018.03/DOC_1#src.E0012)) Os produtos abrangidos por esta categoria têm de respeitar o disposto no ponto II do anexo XII do Regulamento (CE) n.º 1234/2007."
+  },
+  "35be340804d53ded": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Julho de 2008\n\nque estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à concessão de uma ajuda comunitária para a distribuição de leite e de determinados produtos lácteos aos alunos, nos estabelecimentos de ensino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0001)), nomeadamente o artigo 102.º em conjugação com o artigo 4.º,\n\n(1) O Regulamento (CE) n.º 2707/2000 da Comissão, de 11 de Dezembro de 2000, que estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino ([^2^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0002)), foi substancialmente alterado diversas vezes ([^3^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0003)). Atendendo a que é necessário efectuar novas alterações, por razões de clareza e racionalidade esse regulamento deve ser revogado e substituído por um novo regulamento.\n\n(2) A ajuda para a distribuição de leite e de determinados produtos lácteos aos alunos deve estar à disposição de jardins-de-infância, outros estabelecimentos de ensino pré-escolar e estabelecimentos de ensino primário e secundário. No âmbito da luta contra a obesidade, e a fim de proporcionar leite e produtos lácteos saudáveis às crianças, os tipos de estabelecimento referidos devem ser tratados equitativamente e ter acesso ao regime. De modo a simplificar a gestão do regime, o consumo pelos alunos no decurso de estadias em colónias de férias deve ser excluído.\n\n(3) A fim de clarificar a aplicação do regime de ajuda, deve especificar-se que os alunos apenas devem beneficiar da ajuda durante os dias lectivos. Além disso, o número total de dias lectivos, excluindo os feriados, deve ser confirmado pelas autoridades educativas ou pelo estabelecimento de ensino de cada Estado-Membro.\n\n(4) A experiência mostrou que é difícil controlar a utilização de produtos lácteos subvencionados na preparação de refeições destinadas aos alunos. Além disso, a referida utilização não constitui uma forma eficaz de alcançar o objectivo educativo do regime. A preparação de refeições deve, pois, ser restringida em conformidade.\n\n(5) De modo a ter em conta os diferentes hábitos de consumo de leite e de determinados produtos lácteos na Comunidade, e para dar resposta às tendências actuais em matéria de saúde e nutrição, a lista de produtos elegíveis deve ser alargada e simplificada, deixando simultaneamente aos Estados-Membros a possibilidade de determinarem a sua própria gama de produtos em conformidade com essa lista.\n\n(6) A fim de assegurar que os produtos elegíveis para a ajuda proporcionem um nível elevado de protecção da saúde, os referidos produtos devem ser preparados de acordo com os requisitos do Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo à higiene dos géneros alimentícios ([^4^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0004)), e apresentar a marca de identificação exigida pelo Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal ([^5^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0005)).\n\n(7) Para efeitos da gestão e supervisão do regime de ajuda, deve estabelecer-se um procedimento de aprovação dos requerentes.\n\n(8) Para determinar o montante da ajuda para os diversos produtos elegíveis deve ter-se em conta o montante fixado para o leite no artigo 102.º do Regulamento (CE) n.º 1234/2007, bem como as relações técnicas entre os produtos.\n\n(9) No que respeita ao pagamento da ajuda, importa especificar as condições que os requerentes da mesma devem satisfazer, bem como as regras aplicáveis à apresentação dos pedidos, às verificações a efectuar e sanções a aplicar pelas autoridades competentes e às modalidades de pagamento.\n\n(10) O n.º 4 do artigo 102.º do Regulamento (CE) n.º 1234/2007 estipula que a ajuda é concedida em relação a uma quantidade máxima diária de 0,25 litros de equivalente-leite por aluno. Há que especificar as equivalências entre o leite e cada um dos restantes produtos.\n\n(11) Os Estados-Membros devem estabelecer as regras de supervisão do regime de ajuda, de modo a garantir que o montante da ajuda seja devidamente repercutido no preço pago pelos beneficiários e que os produtos subvencionados não sejam desviados do destino previsto.\n\n(12) A fim de proteger os interesses financeiros da Comunidade, devem ser adoptadas medidas adequadas de controlo para combater as irregularidades e a fraude. Essas medidas de controlo devem incluir uma verificação administrativa completa e verificações no local. O âmbito, teor, calendário e comunicação dos resultados dessas medidas de controlo devem ser especificados a fim de garantir uma abordagem equitativa e uniforme entre Estados-Membros, tendo em conta as suas diferentes formas de aplicação do regime. Além disso, os montantes indevidamente pagos devem ser recuperados e devem prever-se sanções para dissuadir os requerentes de cometer acções fraudulentas.\n\n(13) A fim de simplificar o trabalho administrativo dos Estados-Membros, o cálculo da quantidade máxima subvencionável a título da ajuda deve ser efectuado com base no número de alunos que frequentam regularmente um estabelecimento conforme estabelecido na lista do requerente.\n\n(14) A experiência mostrou que os beneficiários não estão devidamente cientes do papel desempenhado pela União Europeia no regime de distribuição de leite às escolas. A subvenção do regime pela União Europeia deve, pois, ser claramente indicada em cada estabelecimento de ensino que participa no regime de distribuição de leite às escolas.\n\n(15) Certas informações relacionadas com o regime de distribuição de leite às escolas devem ser transmitidas à Comissão anualmente para efeitos de seguimento.\n\n(16) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3262b8c8a7349c40": {
+   "fragment_id": "Artigo 15.º — Controlos e sanções",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Controlos e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Controlos e sanções\n\n1. Os Estados-Membros tomam todas as medidas necessárias para assegurar a observância do presente regulamento. Essas medidas incluem uma verificação administrativa completa dos pedidos de ajuda, a complementar por verificações no local conforme especificado nos n.^os^ 2 a 8.\n\n2. As verificações administrativas incidem em todos os pedidos de ajuda e incluem a verificação dos documentos justificativos, conforme definidos pelos Estados-Membros, referentes à entrega dos produtos e à observância da quantidade máxima por aluno e por dia referida no n.º 1 do artigo 5.º\n\nAs verificações administrativas referidas no primeiro parágrafo são complementadas por verificações no local que incidem, nomeadamente, nos seguintes elementos:\n\na) Repercussão da ajuda no preço pago pelo beneficiário;\n\nb) Registos referidos no artigo 9.º, incluindo registos financeiros, tais como facturas de compra e venda e extractos bancários;\n\nc) Utilização dos produtos subvencionados em conformidade com o presente regulamento, nomeadamente no caso de existirem indícios de uma eventual irregularidade.\n\n3. O número total de verificações no local efectuadas em relação a cada período compreendido entre 1 de Agosto e 31 de Julho abrange pelo menos 5 % de todos os requerentes referidos no artigo 6.º. Quando o número de requerentes de um Estado-Membro for inferior a 100, são efectuadas verificações no local nas instalações de cinco requerentes. Quando o número de requerentes de um Estado-Membro for inferior a cinco, são controlados 100 % dos requerentes. O número total de verificações no local efectuadas em relação a cada período compreendido entre 1 de Agosto e 31 de Julho abrange, além disso, pelo menos 5 % da ajuda distribuída a nível nacional.\n\n4. As verificações no local são efectuadas durante o período compreendido entre 1 de Agosto e 31 de Julho e incidem, pelo menos, nos doze meses precedentes.\n\n5. Os requerentes submetidos a verificações no local são seleccionados pela autoridade de controlo competente tendo devidamente em conta as diferentes áreas geográficas e com base numa análise de risco que atenda especialmente à natureza recorrente dos erros e aos resultados das verificações efectuadas em anos anteriores. A análise de risco tem também em conta os diferentes montantes de ajuda em causa e os tipos de requerentes referidos no n.º 2 do artigo 6.º\n\n6. Nos casos em que o pedido de ajuda seja apresentado por um requerente referido no n.º 2, alíneas b), c) e d), do artigo 6.º, a verificação no local efectuada nas instalações do requerente é complementada por verificações no local nas instalações de, pelo menos, dois estabelecimentos de ensino ou, pelo menos, 1 % dos estabelecimentos de ensino constantes da lista do requerente, se este último valor for superior.\n\n7. Desde que o objectivo do controlo não fique comprometido, pode efectuar-se, com a antecedência estritamente necessária, um pré-aviso da sua realização.\n\n8. A autoridade de controlo competente elabora um relatório de controlo de cada verificação no local. O relatório contém uma descrição precisa dos diferentes elementos controlados.\n\nO relatório de controlo divide-se nas seguintes partes:\n\na) Uma parte geral que contém, nomeadamente, as seguintes informações:\n\ni) regime, período abrangido, pedidos controlados, quantidades de produtos lácteos relativamente aos quais a ajuda foi paga e montante financeiro correspondente,\n\nii) pessoas responsáveis presentes;\n\nb) Uma parte na qual as verificações efectuadas são descritas separadamente, que contém, nomeadamente, as seguintes informações:\n\ni) documentos verificados,\n\nii) natureza e extensão das verificações efectuadas,\n\niii) observações e conclusões.\n\n9. Para a recuperação de montantes pagos indevidamente, são aplicáveis *mutatis mutandis* os n.^os^ 1, 3, 4 e 8 do artigo 73.º do Regulamento (CE) n.º 796/2004 da Comissão ([^6^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0006)).\n\n10. Sem prejuízo do artigo 10.º, em caso de fraude, o requerente paga, além dos montantes correspondentes à recuperação de pagamentos indevidos em conformidade com o n.º 9, um montante igual à diferença entre o montante inicialmente pago e o montante a que o requerente teria direito."
+  },
+  "23b75fd12388a797": {
+   "fragment_id": "Artigo 17.º — Notificações",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Notificações\n\n1. Até ao dia 31 de Janeiro seguinte ao termo do período transacto compreendido entre 1 de Agosto e 31 de Julho, os Estados-Membros transmitem à Comissão as seguintes informações, discriminadas por requerente na acepção do artigo 6.º do presente regulamento:\n\na) Número de requerentes;\n\nb) Número de requerentes controlados;\n\nc) Número total de estabelecimentos de ensino a que esses requerentes controlados entregaram os produtos elegíveis para a ajuda comunitária e número de operações de controlo no local nesses estabelecimentos de ensino;\n\nd) Número de verificações da composição dos produtos;\n\ne) Montante das ajudas pedidas, pagas e verificadas no local (em euros);\n\nf) Redução das ajudas após verificação administrativa (em euros);\n\ng) Redução das ajudas por atraso no pedido, nos termos do artigo 11.º, n.º 3 (em euros);\n\nh) Ajudas recuperadas na sequência de verificações no local, nos termos do artigo 15.º, n.º 9 (em euros);\n\ni) Sanções aplicadas em caso de fraude, nos termos do artigo 15.º, n.º 10 (em euros);\n\nj) Número de autorizações revogadas ou suspensas, nos termos do artigo 10.º.\n\n2. Os Estados-Membros transmitem anualmente à Comissão, antes de 31 de Janeiro, pelo menos as seguintes informações relativas ao período transacto compreendido entre 1 de Agosto e 31 de Julho:\n\na) As quantidades de leite e de produtos lácteos, discriminadas por categorias e subcategorias, relativamente às quais tenham sido pagas ajudas;\n\nb) As quantidades máximas admissíveis;\n\nc) As despesas da UE;\n\nd) O número aproximado de alunos que participam no regime de distribuição de leite às escolas;\n\ne) O pagamento nacional complementar.\n\n3. As notificações referidas no presente regulamento são efectuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0007))."
+  },
+  "46f1bf5d6eb90396": {
+   "fragment_id": "Categoria I",
+   "type": "divisao",
+   "heading": "Categoria I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria I\n\na) Leite tratado termicamente ([^8^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0008));\n\nb) Leite tratado termicamente, achocolatado, com sumos de frutos ([^9^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0009)) ou aromatizado, com teor ponderal de leite referido na alínea a) não inferior a 90 % e com, no máximo, 7 % de açúcares adicionados ([^10^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0010)) e/ou mel;\n\nc) Produtos lácteos fermentados com ou sem sumos de frutos [(10)](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0009), aromatizados ou não, com teor ponderal de leite referido na alínea a) não inferior a 90 % e com, no máximo, 7 % de açúcares adicionados [(10)](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0010) e/ou mel."
+  },
+  "9d625f6bb8b0927e": {
+   "fragment_id": "Categoria II",
+   "type": "divisao",
+   "heading": "Categoria II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria II\n\nProdutos lácteos aromatizados e não aromatizados com frutos ([^11^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0011)), fermentados ou não, com teor ponderal de leite referido na alínea a) da categoria I não inferior a 75 % e com, no máximo, 7 % de açúcares adicionados ([^12^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0012)) e/ou mel."
+  },
+  "453adde789f06a39": {
+   "fragment_id": "Categoria III",
+   "type": "divisao",
+   "heading": "Categoria III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria III\n\nQueijos frescos e queijos fundidos, com teor ponderal de ingredientes não lácteos ([^13^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0013)) não superior a 10 %."
+  },
+  "5c0a408a432acfab": {
+   "fragment_id": "Categoria V",
+   "type": "divisao",
+   "heading": "Categoria V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria V\n\nQueijos com teor ponderal de ingredientes não lácteos não superior a 10 %, não incluídos nas categorias III e IV [(13)](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#E0013)."
+  },
+  "020f7cbcf0496c01": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 510/2008 da Comissão (JO L 149 de 7.6.2008, p. 61).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0002)) JO L 311 de 12.12.2000, p. 37. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1544/2007 (JO L 337 de 21.12.2007, p. 64).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0003)) Ver anexo IV.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0004)) JO L 139 de 30.4.2004, p. 1. Rectificação no JO L 226 de 25.6.2004, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0005)) JO L 139 de 30.4.2004, p. 55. Rectificação no JO L 226 de 25.6.2004, p. 22. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1243/2007 da Comissão (JO L 281 de 25.10.2007, p. 8).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0006)) JO L 141 de 30.4.2004, p. 18.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0007)) JO L 228 de 1.9.2009, p. 3.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0008)) Incluindo bebidas à base de leite, sem lactose.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0009)) Os sumos de frutos são utilizados em conformidade com a Directiva 2001/112/CE do Conselho, de 20 de Dezembro de 2001, relativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0010)) Para efeitos desta categoria, entende-se por açúcares qualquer dos produtos abrangidos pelos códigos NC 1701 e 1702. Nos produtos abrangidos por esta categoria, os edulcorantes são utilizados em conformidade com a Directiva 94/35/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos edulcorantes para utilização nos géneros alimentares.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0011)) Para efeitos desta categoria, os produtos lácteos com frutos contêm sempre frutos, polpa de frutos, polme de frutos ou sumos de frutos. Para efeitos desta categoria, entende-se por frutos qualquer dos produtos abrangidos pelo capítulo 8 da Nomenclatura Combinada. Os sumos de frutos, a polpa de frutos e o polme de frutos são utilizados em conformidade com a Directiva 2001/112/CE do Conselho, de 20 de Dezembro de 2001, relativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0012)) Para efeitos desta categoria, entende-se por açúcares qualquer dos produtos abrangidos pelos códigos NC 1701 e 1702. Os açúcares adicionados aos frutos devem estar incluídos na percentagem máxima de 7 % de açúcares adicionados. Nos produtos abrangidos por esta categoria, os edulcorantes são utilizados em conformidade com a Directiva 94/35/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos edulcorantes para utilização nos géneros alimentares.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/96c9dc47-b045-491e-808d-92db0145b7ce.0018.03/DOC_1#src.E0013)) Os produtos abrangidos por esta categoria têm de respeitar o disposto no ponto II do anexo XII do Regulamento (CE) n.º 1234/2007."
+  },
+  "7b8a9611c7dd028f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Julho de 2008\n\nque estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à concessão de uma ajuda comunitária para a distribuição de leite e de determinados produtos lácteos aos alunos, nos estabelecimentos de ensino\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0001)), nomeadamente o artigo 102.º em conjugação com o artigo 4.º,\n\n(1) O Regulamento (CE) n.º 2707/2000 da Comissão, de 11 de Dezembro de 2000, que estabelece as normas de execução do Regulamento (CE) n.º 1255/1999 do Conselho no que respeita à concessão de uma ajuda comunitária para o fornecimento de leite e de determinados produtos lácteos aos alunos de estabelecimentos de ensino ([^2^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0002)), foi substancialmente alterado diversas vezes ([^3^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0003)). Atendendo a que é necessário efectuar novas alterações, por razões de clareza e racionalidade esse regulamento deve ser revogado e substituído por um novo regulamento.\n\n(2) A ajuda para a distribuição de leite e de determinados produtos lácteos aos alunos deve estar à disposição de jardins-de-infância, outros estabelecimentos de ensino pré-escolar e estabelecimentos de ensino primário e secundário. No âmbito da luta contra a obesidade, e a fim de proporcionar leite e produtos lácteos saudáveis às crianças, os tipos de estabelecimento referidos devem ser tratados equitativamente e ter acesso ao regime. De modo a simplificar a gestão do regime, o consumo pelos alunos no decurso de estadias em colónias de férias deve ser excluído.\n\n(3) A fim de clarificar a aplicação do regime de ajuda, deve especificar-se que os alunos apenas devem beneficiar da ajuda durante os dias lectivos. Além disso, o número total de dias lectivos, excluindo os feriados, deve ser confirmado pelas autoridades educativas ou pelo estabelecimento de ensino de cada Estado-Membro.\n\n(4) A experiência mostrou que é difícil controlar a utilização de produtos lácteos subvencionados na preparação de refeições destinadas aos alunos. Além disso, a referida utilização não constitui uma forma eficaz de alcançar o objectivo educativo do regime. A preparação de refeições deve, pois, ser restringida em conformidade.\n\n(5) De modo a ter em conta os diferentes hábitos de consumo de leite e de determinados produtos lácteos na Comunidade, e para dar resposta às tendências actuais em matéria de saúde e nutrição, a lista de produtos elegíveis deve ser alargada e simplificada, deixando simultaneamente aos Estados-Membros a possibilidade de determinarem a sua própria gama de produtos em conformidade com essa lista.\n\n(6) A fim de assegurar que os produtos elegíveis para a ajuda proporcionem um nível elevado de protecção da saúde, os referidos produtos devem ser preparados de acordo com os requisitos do Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativo à higiene dos géneros alimentícios ([^4^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0004)), e apresentar a marca de identificação exigida pelo Regulamento (CE) n.º 853/2004 do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal ([^5^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0005)).\n\n(7) Para efeitos da gestão e supervisão do regime de ajuda, deve estabelecer-se um procedimento de aprovação dos requerentes.\n\n(8) Para determinar o montante da ajuda para os diversos produtos elegíveis deve ter-se em conta o montante fixado para o leite no artigo 102.º do Regulamento (CE) n.º 1234/2007, bem como as relações técnicas entre os produtos.\n\n(9) No que respeita ao pagamento da ajuda, importa especificar as condições que os requerentes da mesma devem satisfazer, bem como as regras aplicáveis à apresentação dos pedidos, às verificações a efectuar e sanções a aplicar pelas autoridades competentes e às modalidades de pagamento.\n\n(10) O n.º 4 do artigo 102.º do Regulamento (CE) n.º 1234/2007 estipula que a ajuda é concedida em relação a uma quantidade máxima diária de 0,25 litros de equivalente-leite por aluno. Há que especificar as equivalências entre o leite e cada um dos restantes produtos.\n\n(11) Os Estados-Membros devem estabelecer as regras de supervisão do regime de ajuda, de modo a garantir que o montante da ajuda seja devidamente repercutido no preço pago pelos beneficiários e que os produtos subvencionados não sejam desviados do destino previsto.\n\n(12) A fim de proteger os interesses financeiros da Comunidade, devem ser adoptadas medidas adequadas de controlo para combater as irregularidades e a fraude. Essas medidas de controlo devem incluir uma verificação administrativa completa e verificações no local. O âmbito, teor, calendário e comunicação dos resultados dessas medidas de controlo devem ser especificados a fim de garantir uma abordagem equitativa e uniforme entre Estados-Membros, tendo em conta as suas diferentes formas de aplicação do regime. Além disso, os montantes indevidamente pagos devem ser recuperados e devem prever-se sanções para dissuadir os requerentes de cometer acções fraudulentas.\n\n(13) A fim de simplificar o trabalho administrativo dos Estados-Membros, o cálculo da quantidade máxima subvencionável a título da ajuda deve ser efectuado com base no número de alunos que frequentam regularmente um estabelecimento conforme estabelecido na lista do requerente.\n\n(14) A experiência mostrou que os beneficiários não estão devidamente cientes do papel desempenhado pela União Europeia no regime de distribuição de leite às escolas. A subvenção do regime pela União Europeia deve, pois, ser claramente indicada em cada estabelecimento de ensino que participa no regime de distribuição de leite às escolas.\n\n(15) Certas informações relacionadas com o regime de distribuição de leite às escolas devem ser transmitidas à Comissão anualmente para efeitos de seguimento.\n\n(16) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f187ca06138e70f5": {
+   "fragment_id": "Artigo 11.º — Pedido de pagamento da ajuda",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Pedido de pagamento da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pedido de pagamento da ajuda\n\n1. O pedido de pagamento da ajuda deve obedecer às especificações da autoridade competente do Estado-Membro e incluir, pelo menos, as seguintes informações:\n\na) Quantidades distribuídas por categoria e subcategoria de produto;\n\nb) Nome e endereço ou número de identificação único do estabelecimento de ensino ou das autoridades educativas a que se refere a informação referida na alínea a).\n\n2. Os Estados-Membros determinam a periodicidade dos pedidos, que podem abranger períodos de um a sete meses num único ano letivo, compreendido entre 1 de agosto e 31 de julho.\n\n3. Salvo em caso de força maior, para serem admissíveis, os pedidos de pagamento da ajuda devem ser correctamente preenchidos e apresentados até ao último dia do terceiro mês subsequente ao final do período a que se referem.\n\nNo caso de se verificar um atraso inferior a dois meses em relação ao prazo referido, a ajuda é paga, embora com as seguintes reduções:\n\na) 5 % do respectivo montante, se o atraso for inferior ou igual a um mês;\n\nb) 10 % do respectivo montante, se o atraso for superior a um mês mas inferior a dois meses.\n\n4. Os montantes indicados nos pedidos devem ser comprovados por documentos justificativos postos à disposição das autoridades competentes. Estes documentos devem indicar separadamente o preço de cada produto entregue e conter a indicação da sua quitação ou ser acompanhados da prova de pagamento."
+  },
+  "08204a1c9a9d4790": {
+   "fragment_id": "Artigo 15.º — Controlos e sanções",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Controlos e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Controlos e sanções\n\n1. Os Estados-Membros tomam todas as medidas necessárias para assegurar a observância do presente regulamento. Essas medidas incluem uma verificação administrativa completa dos pedidos de ajuda, a complementar por verificações no local conforme especificado nos n.^os^ 2 a 8.\n\n2. As verificações administrativas incidem em todos os pedidos de ajuda e incluem a verificação dos documentos justificativos, conforme definidos pelos Estados-Membros, referentes à entrega dos produtos e à observância da quantidade máxima por aluno e por dia referida no n.º 1 do artigo 5.º\n\nAs verificações administrativas referidas no primeiro parágrafo são complementadas por verificações no local que incidem, nomeadamente, nos seguintes elementos:\n\na) Repercussão da ajuda no preço pago pelo beneficiário;\n\nb) Registos referidos no artigo 9.º, incluindo registos financeiros, tais como facturas de compra e venda e extractos bancários;\n\nc) Utilização dos produtos subvencionados em conformidade com o presente regulamento, nomeadamente no caso de existirem indícios de uma eventual irregularidade.\n\n3. O número total de verificações no local efectuadas em relação a cada período compreendido entre 1 de Agosto e 31 de Julho abrange pelo menos 5 % de todos os requerentes referidos no artigo 6.º. Quando o número de requerentes de um Estado-Membro for inferior a 100, são efectuadas verificações no local nas instalações de cinco requerentes. Quando o número de requerentes de um Estado-Membro for inferior a cinco, são controlados 100 % dos requerentes. O número total de verificações no local efectuadas em relação a cada período compreendido entre 1 de Agosto e 31 de Julho abrange, além disso, pelo menos 5 % da ajuda distribuída a nível nacional.\n\n4. As verificações no local são efetuadas durante o ano letivo a que se referem, compreendido entre 1 de agosto e 31 de julho (período N), ou nos doze meses seguintes (período N + 1), ou em ambos.\n\nAs verificações no local devem abranger um período de, pelo menos, quatro meses do ano letivo a que se referem (período N).\n\nAs verificações no local devem ser consideradas concluídas quando for disponibilizado o respetivo relatório, referido no n.º 8.\n\n5. Os requerentes submetidos a verificações no local são seleccionados pela autoridade de controlo competente tendo devidamente em conta as diferentes áreas geográficas e com base numa análise de risco que atenda especialmente à natureza recorrente dos erros e aos resultados das verificações efectuadas em anos anteriores. A análise de risco tem também em conta os diferentes montantes de ajuda em causa e os tipos de requerentes referidos no n.º 2 do artigo 6.º\n\n6. Nos casos em que o pedido de ajuda seja apresentado por um requerente referido no n.º 2, alíneas b), c) e d), do artigo 6.º, a verificação no local efectuada nas instalações do requerente é complementada por verificações no local nas instalações de, pelo menos, dois estabelecimentos de ensino ou, pelo menos, 1 % dos estabelecimentos de ensino constantes da lista do requerente, se este último valor for superior.\n\n7. Desde que o objectivo do controlo não fique comprometido, pode efectuar-se, com a antecedência estritamente necessária, um pré-aviso da sua realização.\n\n8. A autoridade de controlo competente elabora um relatório de controlo de cada verificação no local. O relatório contém uma descrição precisa dos diferentes elementos controlados.\n\nO relatório de controlo divide-se nas seguintes partes:\n\na) Uma parte geral que contém, nomeadamente, as seguintes informações:\n\ni) regime, período abrangido, pedidos controlados, quantidades de produtos lácteos relativamente aos quais a ajuda foi paga e montante financeiro correspondente,\n\nii) pessoas responsáveis presentes;\n\nb) Uma parte na qual as verificações efectuadas são descritas separadamente, que contém, nomeadamente, as seguintes informações:\n\ni) documentos verificados,\n\nii) natureza e extensão das verificações efectuadas,\n\niii) observações e conclusões.\n\nTodos os relatórios de controlo devem estar concluídos, o mais tardar, 12 meses após o termo do ano letivo, compreendido entre 1 de agosto e 31 de julho, a que se referem as verificações no local correspondentes (período N + 1).\n\n9. Para a recuperação de montantes pagos indevidamente, são aplicáveis *mutatis mutandis* os n.^os^ 1, 3, 4 e 8 do artigo 73.º do Regulamento (CE) n.º 796/2004 da Comissão ([^6^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0006)).\n\n10. Sem prejuízo do artigo 10.º, em caso de fraude, o requerente paga, além dos montantes correspondentes à recuperação de pagamentos indevidos em conformidade com o n.º 9, um montante igual à diferença entre o montante inicialmente pago e o montante a que o requerente teria direito."
+  },
+  "c6890f0802b706fd": {
+   "fragment_id": "Artigo 17.º — Notificações",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Notificações\n\n1. Até 31 de outubro de cada ano, os Estados-Membros transmitem à Comissão as seguintes informações respeitantes aos produtos distribuídos durante o ano letivo, compreendido entre 1 de agosto e 31 de julho, que terminou no ano civil anterior, discriminadas por requerente na aceção do artigo 6.º do presente regulamento:\n\na) Número de requerentes;\n\nb) Número de requerentes controlados;\n\nc) Número total de estabelecimentos de ensino a que esses requerentes controlados entregaram os produtos elegíveis para a ajuda comunitária e número de operações de controlo no local nesses estabelecimentos de ensino;\n\nd) Número de verificações da composição dos produtos;\n\ne) Montante das ajudas pedidas, pagas e verificadas no local (em euros);\n\nf) Redução das ajudas após verificação administrativa (em euros);\n\ng) Redução das ajudas por atraso no pedido, nos termos do artigo 11.º, n.º 3 (em euros);\n\nh) Ajudas recuperadas na sequência de verificações no local, nos termos do artigo 15.º, n.º 9 (em euros);\n\ni) Sanções aplicadas em caso de fraude, nos termos do artigo 15.º, n.º 10 (em euros);\n\nj) Número de autorizações revogadas ou suspensas, nos termos do artigo 10.º.\n\n2. Os Estados-Membros transmitem anualmente à Comissão, antes de 31 de Janeiro, pelo menos as seguintes informações relativas ao período transacto compreendido entre 1 de Agosto e 31 de Julho:\n\na) As quantidades de leite e de produtos lácteos, discriminadas por categorias e subcategorias, relativamente às quais tenham sido pagas ajudas;\n\nb) As quantidades máximas admissíveis;\n\nc) As despesas da UE;\n\nd) O número aproximado de alunos que participam no regime de distribuição de leite às escolas;\n\ne) O pagamento nacional complementar;\n\nf) O número aproximado de alunos que frequentam regularmente todos os estabelecimentos de ensino participantes no regime de distribuição de leite às escolas;\n\ng) O número aproximado de alunos elegíveis para o regime de distribuição de leite às escolas.\n\n3. As notificações referidas no presente regulamento são efectuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0007))."
+  },
+  "c256f9ad85f895e1": {
+   "fragment_id": "Categoria I",
+   "type": "divisao",
+   "heading": "Categoria I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria I\n\na) Leite tratado termicamente ([^8^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0008));\n\nb) Leite tratado termicamente, achocolatado, com sumos de frutos ([^9^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0009)) ou aromatizado, com teor ponderal de leite referido na alínea a) não inferior a 90 % e com, no máximo, 7 % de açúcares adicionados ([^10^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0010)) e/ou mel;\n\nc) Produtos lácteos fermentados com ou sem sumos de frutos [(10)](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0009), aromatizados ou não, com teor ponderal de leite referido na alínea a) não inferior a 90 % e com, no máximo, 7 % de açúcares adicionados [(10)](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0010) e/ou mel."
+  },
+  "cb25c4e01b5b2f41": {
+   "fragment_id": "Categoria II",
+   "type": "divisao",
+   "heading": "Categoria II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria II\n\nProdutos lácteos aromatizados e não aromatizados com frutos ([^11^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0011)), fermentados ou não, com teor ponderal de leite referido na alínea a) da categoria I não inferior a 75 % e com, no máximo, 7 % de açúcares adicionados ([^12^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0012)) e/ou mel."
+  },
+  "df3a9bc1e70f8ce7": {
+   "fragment_id": "Categoria III",
+   "type": "divisao",
+   "heading": "Categoria III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria III\n\nQueijos frescos e queijos fundidos, com teor ponderal de ingredientes não lácteos ([^13^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0013)) não superior a 10 %."
+  },
+  "7951aa7fa703a190": {
+   "fragment_id": "Categoria V",
+   "type": "divisao",
+   "heading": "Categoria V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Categoria V\n\nQueijos com teor ponderal de ingredientes não lácteos não superior a 10 %, não incluídos nas categorias III e IV [(13)](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#E0013)."
+  },
+  "d979ded67b7954da": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 510/2008 da Comissão (JO L 149 de 7.6.2008, p. 61).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0002)) JO L 311 de 12.12.2000, p. 37. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1544/2007 (JO L 337 de 21.12.2007, p. 64).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0003)) Ver anexo IV.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0004)) JO L 139 de 30.4.2004, p. 1. Rectificação no JO L 226 de 25.6.2004, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0005)) JO L 139 de 30.4.2004, p. 55. Rectificação no JO L 226 de 25.6.2004, p. 22. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1243/2007 da Comissão (JO L 281 de 25.10.2007, p. 8).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0006)) JO L 141 de 30.4.2004, p. 18.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0007)) JO L 228 de 1.9.2009, p. 3.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0008)) Incluindo bebidas à base de leite, sem lactose.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0009)) Os sumos de frutos são utilizados em conformidade com a Directiva 2001/112/CE do Conselho, de 20 de Dezembro de 2001, relativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0010)) Para efeitos desta categoria, entende-se por açúcares qualquer dos produtos abrangidos pelos códigos NC 1701 e 1702. Nos produtos abrangidos por esta categoria, os edulcorantes são utilizados em conformidade com a Directiva 94/35/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos edulcorantes para utilização nos géneros alimentares.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0011)) Para efeitos desta categoria, os produtos lácteos com frutos contêm sempre frutos, polpa de frutos, polme de frutos ou sumos de frutos. Para efeitos desta categoria, entende-se por frutos qualquer dos produtos abrangidos pelo capítulo 8 da Nomenclatura Combinada. Os sumos de frutos, a polpa de frutos e o polme de frutos são utilizados em conformidade com a Directiva 2001/112/CE do Conselho, de 20 de Dezembro de 2001, relativa aos sumos de frutos e a determinados produtos similares destinados à alimentação humana.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0012)) Para efeitos desta categoria, entende-se por açúcares qualquer dos produtos abrangidos pelos códigos NC 1701 e 1702. Os açúcares adicionados aos frutos devem estar incluídos na percentagem máxima de 7 % de açúcares adicionados. Nos produtos abrangidos por esta categoria, os edulcorantes são utilizados em conformidade com a Directiva 94/35/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos edulcorantes para utilização nos géneros alimentares.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/49cfc412-6d68-40e6-89f0-87f39a53252e.0018.03/DOC_1#src.E0013)) Os produtos abrangidos por esta categoria têm de respeitar o disposto no ponto II do anexo XII do Regulamento (CE) n.º 1234/2007."
+  },
+  "539fb2969e87ecfc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02008R0657 — PT — 13.01.2017 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32008R0657) [REGULAMENTO (CE) N.º 657/2008 DA COMISSÃO](http://publications.europa.eu/resource/celex/32008R0657) [de 10 de Julho de 2008](http://publications.europa.eu/resource/celex/32008R0657) [que estabelece as normas de execução do Regulamento (CE) n.º 1234/2007 do Conselho no que respeita à concessão de uma ajuda comunitária para a distribuição de leite e de determinados produtos lácteos aos alunos, nos estabelecimentos de ensino](http://publications.europa.eu/resource/celex/32008R0657) (JO L 183, 11.7.2008, p.17)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) 2017/40 da Comissão de 3 de novembro de 2016](http://publications.europa.eu/resource/celex/32017R0040) — L 5 — 11 — 10.1.2017"
+  }
+ }
+}

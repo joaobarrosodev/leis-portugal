@@ -1,0 +1,505 @@
+---
+schema_version: '1.0'
+id: pt:dre:201065:por
+title: Decreto-Lei n.º 49033
+short_title: null
+summary: Institui, no Ministério das Obras Públicas, o Fundo de Fomento da Habitação, organismo com personalidade jurídica
+  e autonomia administrativa e financeira - Extingue, a partir de 1 de Julho de 1969, o Serviço de Construção de Casas Económicas
+  instituído junto da Direcção-Geral dos Edifícios e Monumentos Nacionais pelo Decreto-Lei n.º 28912 e abate vários lugares
+  nos quadros do Ministério das Obras Públicas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas - Gabinete do Ministro
+proposing_entity: null
+official_number: '49033'
+official_date: null
+publication_date: '1969-05-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 126/1969, Série I de 1969-05-28
+  number: '126'
+  series: I
+  supplement: null
+  pages: 581 - 586
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/05/12600/05810586.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '201065'
+  dre_path: /dr/detalhe/decreto-lei/49033-1969-201065
+  internal: pt:dre:201065:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:09:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 96ff5caa4fb7ecbfa165e5709a27f85154b4ea066f0e9637bc13bcb60a35319b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CASA do Estado
+- Criação de Serviços
+- Definição de Competências
+- Extinção de Serviços
+- Formas de Provimento
+- Fundo de Fomento da Habitação
+- Gestão de Recursos Humanos
+- Gestão Financeira
+- Gestão Orçamental
+- Habitação Social
+- Ministério das Obras Públicas
+- Orgânica
+- Personalidade Jurídica
+- Política de Habitação
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Serviço de Construção de Casas Económicas
+relationships:
+- type: amended_by
+  target: pt:dre:391994:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:631380:por
+  label: "Alterados os arts. 2º, 3º, 4º, 5º, 6º, 7º, 8º, 11º, 12º, 17º e 23º, e substituído o quadro de pessoal anexo pelo\
+    \ DEC LEI.473/71.06.11.1971.MOP, DG.IS [261] de 06.11.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/473-1971-631380
+  date: '1971-11-06'
+- type: amended_by
+  target: pt:dre:370784:por
+  label: "Extinta a Delegação na Madeira do Fundo do Fomento da Habitação, pelo DEC LEI.365/79.1979.09.04.PCM, DR.IS [204]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/365-1979-370784
+  date: '1979-09-04'
+- type: amended_by
+  target: pt:dre:391994:por
+  label: "Extinto o Fundo de Fomento da Habitação, pelo DEC LEI.214/82.1982.05.29.MHOPT, DR.IS [122]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-1982-391994
+  date: '1982-05-29'
+- type: cites
+  target: pt:dre:156579:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231125:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339857:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:340652:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:348144:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432236:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:610718:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:690220:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665133:por
+  label: "Revogado, a partir de 04.01.1973, com as alterações constantes do Dec Lei 473/71 de 06-Nov, pelo DEC LEI.583/72.30.12.1972.MOP,\
+    \ DG.IS [302] de 30.12.1972, sem prejuízo do disposto no art. 27º deste último diploma, que manteve transitoriamente em\
+    \ vigor os arts. 20º a 26º do presente.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/583-1972-665133
+  date: '1972-12-30'
+article_structure:
+  article_count: 0
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:09:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49033
+
+1. Com a publicação de um dos seis primeiros diplomas corporativos - o [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933 -, o Estado colocou a habitação em plano cimeiro das suas realizações, definindo os princípios a observar na construção de casas económicas em colaboração com as câmaras municipais, pessoas colectivas de utilidade pública administrativa e organismos corporativos e lançando a solução portuguesa da moradia de propriedade resolúvel.
+
+Desde então o problema social da habitação vem sendo persistentemente tratado através de medidas que mais uma vez vale a pena recordar, agora que, com o presente diploma, o Governo pretende promover um novo e mais vigoroso impulso neste sector.
+
+No domínio das casas económicas importa assinalar especialmente os seguintes passos:
+
+O [Decreto-Lei n.º 28912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28912-1938-348144), de 12 de Agosto de 1938, facultou a intervenção das instituições de previdência, organismos corporativos e empresas concessionárias de serviços públicos na obra das casas económicas e criou no Ministério das Obras Públicas, integrado na Direcção-Geral dos Edifícios e Monumentos Nacionais, o Serviço de Construção de Casas Económicas;
+
+O [Decreto-Lei n.º 33278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33278-1943-405974), de 24 de Novembro de 1943, determinou a construção de 4000 casas económicas nas cidades de Lisboa, Porto e Coimbra e no concelho de Almada (zona de influência da Base Naval do Alfeite); as respectivas condições financeiras foram alteradas pelo [Decreto-Lei n.º 35602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35602-1946-339857), de 17 de Abril de 1946, que dotou o Fundo das Casas Económicas com a importância de 320000 contos destinada à construção daquelas casas;
+
+As regras de cooperação das instituições de previdência na resolução do problema da habitação, através da aplicação de valores em casas económicas construídas em comparticipação com o Estado, são revistas em 25 de Abril de 1946, pelo [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652);
+
+O [Decreto-Lei n.º 40246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40246-1955-238396), de 6 de Julho de 1955, torna possível mobilizar meios financeiros das instituições de previdência para o desenvolvimento da política habitacional;
+
+Além das classes de casas económicas previstas nos Decretos-Leis n.os 23052 e 33278, o [Decreto-Lei n.º 40552](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40552-1956-306225), de 12 de Março de 1956, cria uma nova classe de casas económicas destinada a abranger as famílias de modestos recursos;
+
+Finalmente, o [Decreto-Lei n.º 46097](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46097-1964-535213), de 23 de Dezembro de 1964, veio permitir que a Direcção-Geral dos Edifícios e Monumentos Nacionais, pelo Serviço de Construção de Casas Económicas, procedesse à aquisição directa dos terrenos destinados à construção de casas económicas e à sua urbanização.
+
+No tocante a este último diploma, é de assinalar que a experiência adquirida nos empreendimentos realizados até à data da sua publicação evidenciara na verdade as dificuldades que as câmaras municipais têm de adquirir terrenos e bem assim de executar os correspondentes trabalhos de urbanização, dificuldades que haviam impedido de completar em Lisboa e Porto o programa de construção de casas económicas fixado em 1943 pelo citado [Decreto-Lei n.º 33278](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33278-1943-405974).
+
+2. Considerando a situação daqueles cujas condições de vida não são compatíveis com o regime das casas económicas, em especial os ocupantes de bairros clandestinos a demolir, o já referido [Decreto-Lei n.º 28912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28912-1938-348144) autorizou o Governo a promover e subsidiar a construção, em Lisboa, de 1000 casas desmontáveis, a que se seguiu a determinação para edificar outras 1000 casas, das quais 500 em Lisboa e 500 no Porto, e a construção, na mesma modalidade, de 100 casas desmontáveis em Coimbra.
+
+Como extensão desta actividade, o [Decreto-Lei n.º 34486](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34486-1945-615631), de 6 de Abril de 1945, estabeleceu que o Governo promoveria, no prazo de cinco anos, por intermédio dos corpos administrativos e Misericórdias, a construção de 5000 casas destinadas ao alojamento de famílias pobres nos centros populacionais do continente e das ilhas adjacentes. A construção das casas e a aquisição e urbanização dos terrenos podem beneficiar de subsídios, não superiores a 10000$00 por casa, concedidos em partes iguais pelo Estado e pelo Fundo de Desemprego.
+
+O número de casas a construir ao abrigo deste diploma foi aumentado para 10000 pelo [Decreto-Lei n.º 35578](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35578-1946-339264), de 4 de Abril de 1946.
+
+Por outro lado, reconhecida a necessidade de fomentar a construção da habitação social e de resolver o problema do inquilinato das famílias impossibilitadas de converter-se em proprietárias de moradias económicas, a [Lei n.º 2007](https://diariodarepublica.pt/dr/detalhe/lei/2007-1945-610718), de 7 de Maio de 1945, criou a casa de renda económica.
+
+Pouco depois, o [Decreto-Lei n.º 36212](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36212-1947-415048), de 7 de Abril de 1947, definiu uma nova modalidade de construção de prédios de rendimento - a casa de renda limitada -, baseada na prévia fixação da renda total máxima a cobrar pelos andares destinados a habitação, mediante a concessão de facilidades, tanto na cedência de terrenos municipais como em isenções fiscais.
+
+A [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, abriu um novo e vasto campo de acção no fomento da habitação através da concessão de empréstimos pelas instituições de previdência aos seus beneficiários e contribuintes para aquisição, construção ou beneficiação de habitações.
+
+A construção de casa própria é contemplada pelas disposições do [Decreto-Lei n.º 44645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44645-1962-156579), de 25 de Outubro de 1962, dirigidas ao problema do alojamento das famílias mais carecidas de recursos. As câmaras municipais e as juntas de freguesia ficaram autorizadas a vender a chefes de família, independentemente de hasta pública, lotes de terreno de que disponham ou que adquiram para esse efeito, com destino à construção da sua própria habitação, e ao Ministério das Obras Públicas foi facultado conceder aos beneficiários do regime deste diploma subsídios reembolsáveis até à importância global de 1/4 do custo das casas a construir.
+
+Dois diplomas de excepcional alcance para a resolução do problema da habitação nas cidades de Lisboa e Porto merecem referência separada. Com a colaboração da Câmara Municipal do Porto elaborou o Governo o plano, posto em execução pelo [Decreto-Lei n.º 40616](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40616-1956-231125), de 28 de Maio de 1956, de construção no prazo de dez anos de um mínimo de 6000 habitações, expressamente destinadas a outras tantas famílias ao tempo moradoras nas «ilhas» e bairros insalubres de natureza semelhante existentes na cidade.
+
+Por sua vez, o [Decreto-Lei n.º 42454](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42454-1959-432236), de 18 de Agosto de 1959, estabeleceu medidas destinadas a assegurar à Câmara Municipal de Lisboa as condições necessárias para urbanizar novas zonas habitacionais na área administrativa da cidade, por forma a poder oferecer às entidades interessadas, tanto oficiais como particulares, os terrenos indispensáveis para a construção de habitações.
+
+Teve-se principalmente em vista com este decreto satisfazer as necessidades da população, inclusive as resultantes do seu desenvolvimento, em ordem especialmente à protecção dos agregados familiares de menores recursos, a substituição dos chamados «bairros de lata» por habitações adequadas e de renda módica e o realojamento das famílias atingidas por obras de urbanização ou vivendo em partes de casas e quartos arrendados ou outras formas de habitação social e moralmente inconvenientes.
+
+3. A resenha feita nos parágrafos antecedentes documenta de alguma forma a crescente importância atribuída à problemática do sector habitacional, importância que determinou o Governo a conceder-lhe carácter prioritário no Plano Intercalar e no III Plano de Fomento, incluindo o incremento da construção da habitação social entre os objectivos capitais do nosso desenvolvimento sócio-económico.
+
+Aliás, durante os trabalhos preparatórios dos referidos Planos, procedeu-se a rigoroso exame crítico das nossas carências neste domínio e foram apontadas soluções que constituem sólida base para uma política nacional da habitação e correspondentes providências de carácter institucional, financeiro e técnico que permitam pôr ao serviço dessa política todos os meios humanos e materiais com que se possa contar.
+
+O Ministério das Obras Públicas deve desempenhar papel decisivo na execução da referida política nacional da habitação, já que importa executá-la em coordenação com o planeamento urbano.
+
+De facto, é já indiscutível a necessidade de articular as políticas habitacional e urbanística, pois são bem conhecidas - como se salienta no III Plano de Fomento - as consequências nocivas de uma actuação insuficiente neste sentido, designadamente a elevação do preço de terrenos, a adopção de soluções de emergência e os mais prejuízos decorrentes da improvisação e da falta de coordenação.
+
+Não houvesse outras razões, a vantagem de melhor inserir o fomento da habitação social numa política de equipamento seria suficiente para justificar a necessidade de o Ministério das Obras Públicas intensificar e aperfeiçoar a acção há muito prosseguida no domínio da habitação.
+
+Este o principal motivo da criação do Fundo de Fomento da Habitação, instrumento de política que visa contribuir para a resolução do problema habitacional especialmente das classes não beneficiárias dos planos da habitação das caixas de previdência ou de quaisquer outras instituições semelhantes.
+
+Mas pretendeu-se igualmente com a instituição do Fundo colaborar no esforço concertado de reforma administrativa em que o Governo está empenhado.
+
+Há mais de trinta anos que na Direcção-Geral dos Edifícios e Monumentos Nacionais funciona o Serviço de Construção de Casas Económicas, que, apesar de deficientemente dotado, pois nunca a lei lhe proporcionou um quadro permanente de pessoal técnico, é o depositário de uma larga experiência.
+
+São também numerosas as atribuições da Direcção-Geral dos Serviços de Urbanização em matéria de habitação, aliás exercidas por um serviço especial - o Gabinete de Estudos da Habitação.
+
+Com a criação do Fundo de Fomento da Habitação, a que são cometidas todas as atribuições do Ministério das Obras Públicas em matéria da habitação, centraliza-se num único organismo a prossecução de diversas medidas de política habitacional estabelecidas legalmente e que, algumas vezes, vinham a não ser aproveitadas em todo o seu alcance.
+
+O Fundo integrará no seu quadro o pessoal tanto do Gabinete de Estudos da Habitação como do Serviço de Construção de Casas Económicas, fortalecendo-se deste modo a futura acção do Ministério no sector habitacional, concentrando meios humanos que são parcos e diminuindo gastos.
+
+4. Em muito contribuiu para a definição das atribuições e competência do Fundo de Fomento da Habitação a experiência do Ministério das Obras Públicas no decurso de longos anos no domínio da habitação. Mas importa salientar a acção desenvolvida no cumprimento do plano de realojamento dos desalojados pelas inundações de 20 de Novembro de 1967, estabelecido pelo Ministério das Obras Públicas e pela Fundação Calouste Gulbenkian, plano esse que entre nós bem se pode considerar, sob variados aspectos, autêntica experiência piloto em matéria de habitação social.
+
+Por outro lado, considerou-se que o pormenorizado regime das casas económicas se adaptava, na generalidade, à linha de actuação e aos objectivos de política habitacional a prosseguir pelo Fundo, na modalidade de propriedade resolúvel, razão que justificou a sua adopção em tudo o que expressamente não se encontre previsto neste diploma e no decreto regulamntar.
+
+Aliás, o reconhecimento da obra realizada no sector da habitação por outras entidades, públicas e privadas, e o propósito de conjugar esforços coordenando acções e transmitindo experiências, levou também a estabelecer no presente diploma a possibilidade de colaboração - que se pretende constante e intensa - do Ministério das Obras Públicas com quaisquer entidades que, a título permanente ou eventual, se proponham contribuir para a realização dos objectivos do Fundo.
+
+Por outro lado, decidiu-se facultar aos órgãos dirigentes do novo organismo suficiente maleabilidade na adopção das modalidades de construção de casas para arrendamento ou a atribuir em regime de propriedade resolúvel, de forma a poderem encontrar as melhores soluções para os diversos estratos da população portuguesa, já que em todos eles as carências no domínio da habitação se fazem sentir, em grau diverso embora.
+
+Finalmente, importa assinalar que, apesar de se pretender, antes de mais, com a instituição do Fundo, fomentar a construção da habitação social, correspondendo a uma das mais prementes necessidades nacionais, se inclui entre as atribuições do novo organismo o estudo sistemático da problemática social da habitação, com vista a contribuir para o aperfeiçoamento da nossa política habitacional, programada e prosseguida esta nos termos globais estabelecidos no Plano de Fomento em execução.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e promulgo, para valer como lei, o seguinte:
+
+### CAPÍTULO I — Natureza, atribuições e competência
+
+Artigo 1.º - 1. É instituído, no Ministério das Obras Públicas, o Fundo de Fomento da Habitação, com o fim de contribuir para a resolução do problema habitacional, especialmente dos indivíduos não beneficiados pela actividade desenvolvida, no domínio da habitação, pelas caixas de previdência ou outras instituições semelhantes.
+
+2. O Fundo é um organismo com personalidade jurídica e autonomia administrativa e financeira.
+
+Art. 2.º - 1. Constituem atribuições do Fundo o estudo da problemática social da habitação e a realização, no âmbito da competência do Ministério das Obras Públicas, da política habitacional definida pelo Governo.
+
+2. Serão prosseguidas pelo Fundo as atribuições cometidas ao Ministério das Obras Públicas em matérias de habitação.
+
+Art. 3.º Para prossecução das suas atribuições, cabe ao Fundo:
+
+a) Adquirir terrenos para construção;
+
+b) Urbanizar os terrenos adquiridos nos termos da alínea anterior;
+
+c) Construir casas para habitação nos mencionados terrenos;
+
+d) Arrendar ou atribuir em regime de propriedade resolúvel as habitações construídas e que legalmente o não devam ser por outra entidade;
+
+e) Colaborar com quaisquer entidades que, a título permanente ou eventual, se proponham contribuir para a realização dos objectivos do Fundo, designadamente com as câmaras municipais e as Misericórdias;
+
+f) Conceder subsídios para construção, nos termos do artigo 6.º do [Decreto-Lei n.º 44645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44645-1962-156579), de 25 de Outubro de 1962;
+
+g) Superintender, nos termos legais, na construção das casas económicas;
+
+h) Assistir tècnicamente as câmaras municipais, designadamente para cumprimento do disposto no § 4.º do artigo 8.º do [Decreto-Lei n.º 35611](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35611-1946-340652), de 25 de Abril de 1946.
+
+Art. 4.º Sem prejuízo do disposto no n.º 1 do artigo 6.º, carecerá sempre de autorização do Ministro das Obras Públicas:
+
+a) A colaboração referida na alínea e) do artigo 3.º, quando solicitada pelas entidades interessadas;
+
+b) A concessão dos subsídios referidos na alínea f) do artigo 3.º, que será requerida por intermédio das câmaras municipais dos concelhos onde os interessados pretendam construir;
+
+c) A aprovação de contratos de valor superior a 400000$00, bem como a realização de despesas superiores a esse montante, que sejam relativas a trabalhos não compreendidos no plano anual de actividades ou que não tenham sido já, por qualquer forma, superiormente autorizadas.
+
+Art. 5.º - 1. As condições em que deverá processar-se a colaboração dos serviços do Ministério com os das câmaras municipais dos concelhos abrangidos pelos planos de construções do Fundo constarão de despacho do Ministro das Obras Públicas.
+
+2. A conservação dos arruamentos próprios e de acesso aos agrupamentos de habitações, incluindo os passeios, e das canalizações de esgotos, água e luz fica a cargo das câmaras municipais.
+
+Art. 6.º - 1. O Fundo submeterá, anualmente, à aprovação do Ministro das Obras Públicas o seu plano de actividades, incluindo um programa de construções que deverá ser elaborado atendendo ao nível social das pessoas a beneficiar e onde se indicará o número e o tipo das casas a arrendar e a distribuir em regime de propriedade resolúvel.
+
+2. Do programa de construções constarão obrigatòriamente as importâncias a pagar pelos moradores, tendo em atenção as suas possibilidades económicas, o custo dos fogos e o nível das rendas praticadas na localidade.
+
+3. Sempre que a lei o exija, o plano de actividades referido no n.º 1 será igualmente submetido, na parte correspondente, à aprovação dos Ministros competentes.
+
+Art. 7.º - 1. O número de casas destinadas ao alojamento de famílias pobres, a construir nos termos da legislação em vigor, constará do plano de actividades a que se refere o n.º 1 do artigo anterior.
+
+2. O Ministro das Obras Públicas fixará anualmente, por portaria, a importância da contribuição do Fundo para a construção das casas referidas no n.º 1.
+
+### CAPÍTULO II — Dos meios financeiros
+
+Art. 8.º - 1. Constituem receitas do Fundo:
+
+a) As verbas que lhe forem destinadas pelo Governo, designadamente as provenientes de dotações orçamentais e de comparticipações do Fundo de Desemprego, bem como as do Fundo das Casas Económicas previstas no n.º 2 deste artigo;
+
+b) As comparticipações das autarquias locais, pessoas colectivas de utilidade pública administrativa e organismos corporativos;
+
+c) Quaisquer donativos, heranças ou legados;
+
+d) Os rendimentos das casas integradas no seu património, já distribuídas ou a distribuir, em regime de arrendamento ou de propriedade resolúvel;
+
+e) Os rendimentos dos depósitos em dinheiro feitos por conta do Fundo na Caixa Geral de Depósitos, Crédito e Previdência;
+
+f) As importâncias provenientes de empréstimos contraídos na Caixa Geral de Depósitos, Crédito e Previdência.
+
+2. As dotações especiais do Orçamento Geral do Estado e do Fundo de Desemprego referidas no artigo 6.º do [Decreto-Lei n.º 44645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44645-1962-156579), de 25 de Outubro de 1962, bem como as importâncias provenientes do Fundo das Casas Económicas referidas no § 3.º do artigo 6.º do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, no artigo 11.º do [Decreto-Lei n.º 35602](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35602-1946-339857), de 17 de Abril de 1946, e no § 1.º do artigo 5.º do [Decreto-Lei n.º 40246](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40246-1955-238396), de 6 de Julho de 1955, passarão a ser inscritas como receitas do Fundo.
+
+3. As comparticipações das entidades referidas na alínea b) do n.º 1 poderão consistir na cedência de terrenos, desde que estes reúnam as condições para a prossecução das finalidades do Fundo.
+
+Art. 9.º - 1. O Fundo arrecadará e administrará as suas receitas e satisfará por meio delas os encargos da sua actividade.
+
+2. Para tanto organizará o orçamento anual das suas receitas e despesas, o qual será sujeito à aprovação do Ministro das Obras Públicas e ao visto do Ministro das Finanças.
+
+3. As alterações ao orçamento anual do Fundo serão realizadas todas as vezes que se mostrar indispensável, por meio de orçamentos suplementares sujeitos às formalidades indicadas no número anterior.
+
+4. Os saldos apurados no fim de cada ano económico serão transferidos para a gerência do ano seguinte, a fim de serem utilizados pelo Fundo.
+
+### CAPÍTULO III — Dos órgãos directivos
+
+Art. 10.º São órgãos do Fundo:
+
+a) O presidente;
+
+b) O conselho directivo;
+
+c) O conselho administrativo.
+
+Art. 11.º Além do presidente, constituem o conselho directivo do Fundo:
+
+a) Um representante do Ministério das Finanças;
+
+b) Dois representantes do Ministério das Obras Públicas;
+
+c) Um representante do Ministério das Corporações e Previdência Social;
+
+d) Um representante da Corporação da Indústria;
+
+e) Cinco representantes dos municípios;
+
+f) Dois representantes das entidades privadas cuja acção se enquadre nos objectivos do presente diploma.
+
+Art. 12.º - 1. O conselho administrativo é constituído pelo presidente do Fundo, por três vogais do conselho directivo, anualmente designados para o efeito, e pelo director dos serviços.
+
+2. Às reuniões do conselho administrativo assistirá sempre um delegado do Tribunal de Contas, sem voto.
+
+Art. 13.º A competência dos órgãos directivos será fixada em decreto regulamentar.
+
+### CAPÍTULO IV — Do pessoal
+
+Art. 14.º - 1. O quadro e vencimentos do pessoal vitalício do Fundo são os constantes do mapa anexo ao presente diploma.
+
+2. Além do pessoal do quadro referido no n.º 1 poderá ser contratado ou assalariado o pessoal indispensável à boa execução dos serviços.
+
+Art. 15.º A organização interna do Fundo e os modos de recrutamento e provimento do seu pessoal serão definidos em decreto regulamentar.
+
+Art. 16.º - 1. O lugar de presidente do Fundo será provido, em comissão de serviço, por tempo indeterminado, mediante livre escolha do Ministro das Obras Públicas, cabendo-lhe o vencimento correspondente à letra B do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+
+2. Se a nomeação recair em funcionário público ou administrativo, será feita sem prejuízo da sua substituição interina no quadro a que pertencer e da contagem para todos os efeitos legais, como prestado no mesmo quadro, do tempo de serviço na comissão.
+
+3. O presidente do Fundo poderá desempenhar o seu cargo em regime de acumulação com outras funções públicas, sendo nesse caso remunerado por gratificação de montante a fixar pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças, sem sujeição ao limite de vencimentos estabelecido no artigo 20.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+
+Art. 17.º - 1. Os membros do conselho directivo, com excepção dos que pertençam ao conselho administrativo, têm direito ao abono de uma senha de presença por cada sessão a que assistirem, de montante a fixar por despacho do Ministro das Obras Públicas, com o acordo do Ministro das Finanças.
+
+2. Os vogais do conselho administrativo têm direito a uma gratificação mensal a fixar pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças, acumulável com quaisquer remunerações, mesmo que ultrapassem o limite legal.
+
+3. Os membros dos conselhos directivo e administrativo, quando tenham de se deslocar no desempenho das suas funções, terão direito ao abono de transportes e ajudas de custo, nos termos da legislação vigente.
+
+### CAPÍTULO V — Da distribuição das casas e do regime da sua utilização
+
+Art. 18.º - 1. A distribuição das casas do Fundo far-se-á mediante concurso, nos termos de regulamento a publicar.
+
+2. Serão organizados concursos separados para o arrendamento das casas do Fundo e para a sua atribuição em regime de propriedade resolúvel.
+
+Art. 19.º Podem concorrer à distribuição das casas do Fundo os chefes de família que tenham, juntamente com todos os membros do seu agregado familiar, boa conduta moral e cívica e não possuam habitação própria adequada, nem possam obtê-la mediante denúncia de contrato de arrendamento de casa própria nos termos da lei geral.
+
+Art. 20.º O arrendamento das casas do Fundo fica sujeito, em tudo o que não estiver em oposição com o disposto no presente diploma, às respectivas normas da lei geral.
+
+Art. 21.º - 1. A actualização das rendas só é permitida:
+
+a) Quando se registe variação apreciável do custo da construção ou do custo de vida;
+
+b) Quando se verifique sensível melhoria na situação económica do agregado familiar do inquilino.
+
+2. No caso previsto na alínea a) do número anterior, o critério a seguir fundamentar-se-á nos índices publicados pelo Instituto Nacional de Estatística e atenderá também à situação económica do agregado familiar.
+
+3. No caso previsto na alínea b) do n.º 1, não serão de considerar os aumentos dos rendimentos do agregado inferiores a 30 por cento.
+
+4. A actualização das rendas fica sujeita, em cada caso, à homologação do Ministro das Obras Públicas.
+
+Art. 22.º É proibida a sublocação total ou parcial das casas do Fundo, sob pena de multa igual à renda de seis meses, e também de despejo em caso de reincidência.
+
+Art. 23.º Independentemente de procedimento judicial, poderá o Fundo resolver os contratos dos arrendatários que, para obtenção das respectivas casas, hajam incorrido em qualquer das irregularidades previstas no regulamento do presente diploma.
+
+Art. 24.º O regime das habitações distribuídas pelo Fundo na modalidade de propriedade resolúvel fica sujeito à legislação que vigorar para as casas económicas, em tudo o que não for contrário ao estabelecido no presente decreto-lei e diplomas que o regulamentem.
+
+Art. 25.º - 1. As casas distribuídas pelo Fundo em regime de propriedade resolúvel gozam de isenção de contribuição predial por quinze anos, a contar da data em que forem consideradas em condições de habitabilidade.
+
+2. A aquisição das casas referidas no número anterior fica isenta de sisa.
+
+3. A transmissão por morte, das casas referidas no n.º 1, quando operada entre o primitivo adquirente e o seu cônjuge, descendentes ou ascendentes, desde que na herança não haja outros bens, além da casa e do respectivo mobiliário, com valor superior ao imposto que seria devido, fica isenta do imposto sobre as sucessões e doações.
+
+Art. 26.º As casas distribuídas ou a distribuir ao abrigo do plano de realojamento dos desalojados pelas inundações de 25 de Novembro de 1967, estabelecido pelo Ministério das Obras Públicas e pela Fundação Calouste Gulbenkian, são integradas no património do Fundo, bem como os terrenos onde estejam construídas e as respectivas infra-estruturas, e ficam sujeitas ao regime estabelecido neste diploma.
+
+### CAPÍTULO VI — Disposições finais e transitórias
+
+Art. 27.º São declaradas de utilidade pública urgente as expropriações necessárias à construção, pelo Fundo, de prédios para habitação e bem assim as que se destinem às obras dos respectivos acessos, infra-estruturas e equipamentos urbanísticos.
+
+Art. 28.º - 1. O primeiro provimento dos lugares do quadro do pessoal do Fundo poderá ser feito:
+
+a) De entre funcionários vitalícios e contratados da Direcção-Geral dos Edifícios e Monumentos Nacionais e da Direcção-Geral dos Serviços de Urbanização;
+
+b) De entre pessoal do Serviço de Construção de Casas Económicas, da Direcção-Geral dos Edifícios e Monumentos Nacionais, e da Direcção-Geral dos Serviços de Urbanização que à data da entrada em vigor deste diploma e há mais de três anos se encontre ao serviço, com boas informações, fora dos quadros permanentes, em regime de contrato ou sob qualquer outro título, e bem assim o que na mesma data exerça funções em regime de interinidade ou seja abonado por subsídios ou comparticipações do Fundo de Desemprego.
+
+2. O provimento previsto no número anterior resultará de lista aprovada pelo Ministro das Obras Públicas e publicada no Diário do Governo, donde conste o lugar em que cada funcionário fica provido.
+
+3. Na elaboração da lista levar-se-ão em conta as habilitações e a antiguidade dos interessados, que serão providos em lugares de categoria correspondente à dos que estiverem ocupando e, tanto quanto possível, em classe correspondente àquela a que se encontrem equiparados, com dispensa de concurso e do limite de idade máximo para admissão em lugares de acesso.
+
+4. A colocação do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salva a anotação das novas situações pelo Tribunal de Contas.
+
+Art. 29.º - 1. O pessoal contratado pelo Serviço de Construção de Casas Económicas transita para o Fundo de Fomento da Habitação na situação que presentemente ocupa, mantendo-se em vigor, relativamente a cada um dos interessados, os contratos de prestação de serviço lavrados nos termos da legislação própria do mencionado organismo.
+
+2. Consideram-se válidos, mediante simples averbamento visado pelo Ministro das Obras Públicas, todos os contratos de prestação de serviço lavrados nos termos da legislação própria do organismo extinto pelo artigo 34.º do presente diploma.
+
+Art. 30.º - 1. Os funcionários que ingressem no quadro do pessoal do Fundo, já inscritos ou a inscrever na Caixa Geral de Aposentações, poderão ter a sua inscrição reportada à data em que foram admitidos ao serviço do Estado, mediante o pagamento da quota legal da indemnização devida, nos termos do disposto no artigo 12.º e seus §§ 1.º e 2.º do [Decreto-Lei n.º 26503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26503-1936-690220), de 6 de Abril de 1936, e no artigo 11.º e seu § único do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.
+
+2. É concedido o prazo de cento e oitenta dias, contado a partir da data do presente decreto-lei, a todo o pessoal abrangido pelo disposto no corpo deste artigo para requerer, querendo, a contagem de todo o tempo de serviço já prestado ao Estado em qualquer situação, inclusive a de assalariamento, ainda que remunerado através de verbas globais.
+
+Art. 31.º Enquanto o Fundo não iniciar as suas actividades, a distribuição das casas referidas no artigo 26.º e as importâncias a pagar a título de renda pela sua ocupação serão estabelecidas por despacho do Ministro das Obras Públicas sobre proposta das respectivas câmaras municipais.
+
+Art. 32.º Os reembolsos previstos no Orçamento Geral do Estado em vigor, a efectuar pelo Fundo das Casas Económicas, passam a competir ao Fundo de Fomento da Habitação.
+
+Art. 33.º A Secretaria-Geral do Ministério das Obras Públicas elaborará o primeiro orçamento do Fundo de Fomento da Habitação, que será aprovado e visado nos termos do n.º 2 do artigo 9.º
+
+Art. 34.º - 1. O presente diploma entrará em vigor no dia 1 de Julho de 1969, ficando extinto, a partir dessa data, o Serviço de Construção de Casas Económicas, instituído junto da Direcção-Geral dos Edifícios e Monumentos Nacionais pelo [Decreto-Lei n.º 28912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28912-1938-348144), de 12 de Agosto de 1938.
+
+2. Poderá, todavia, ser publicada antes daquela data, mas para produzir efeitos a partir da mesma, a lista a que se refere o artigo 28.º
+
+3. São abatidos aos quadros do Ministério das Obras Públicas os lugares indicados em mapa anexo ao presente diploma.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
+
+Promulgado em 19 de Maio de 1969.
+
+Publique-se.
+
+Presidência da República, 28 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Mapa a que se refere o artigo 14.º, n.º 1, do Decreto-Lei n.º 49033, de 28 de Maio de 1969
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/05/12600/05810586.pdf)
+
+Mapa a que se refere o n.º 3 do artigo 34.º do Decreto-Lei n.º 49033, de 28 de Maio de 1969
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/05/12600/05810586.pdf)
+
+Ministério das Obras Públicas. 19 de Maio de 1969. - O Ministro das Obras Públicas, Rui Alves da Silva Sanches.

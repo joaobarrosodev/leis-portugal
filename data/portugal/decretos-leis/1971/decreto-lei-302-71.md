@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:642733:por
+title: Decreto-Lei n.º 302/71
+short_title: null
+summary: Autoriza a Sociedade dos Armadores das Pescas em Moçambique, S. A. R. L. - Arpem, a importar do estrangeiro, com
+  isenção de direitos e da taxa dos emolumentos gerais, três embarcações de ferro de tonelagem bruta inferior a 1000 t cada
+  uma, destinadas exclusivamente às suas actividades de pesca
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ultramar - Inspecção Superior das Alfândegas do Ultramar
+proposing_entity: null
+official_number: 302/71
+official_date: null
+publication_date: '1971-07-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 164/1971, Série I de 1971-07-14
+  number: '164'
+  series: I
+  supplement: null
+  pages: 1011 - 1012
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/07/16400/10111012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '642733'
+  dre_path: /dr/detalhe/decreto-lei/302-1971-642733
+  internal: pt:dre:642733:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1971-642733
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1971-642733
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:19:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4a85e73cb1c83ec4c9123fe00cae9cd8c1962846a6313beaca63ef8a36b51693
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:19:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Contribuições e Impostos
+- Embarcação
+- Empresa
+- Importação
+- Isenção de Taxas e Emolumentos
+- Isenção Fiscal
+- Moçambique.Colónia Portuguesa
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:19:22Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 302/71
+
+de 14 de Julho
+
+1. A exploração da potencialidade do sector das pescas e o apoio paralelo às actividades privadas interessadas e a concessão de facilidades para a modernização e ampliação da frota pesqueira são objectivos programados no III Plano de Fomento.
+
+2. A Sociedade dos Armadores das Pescas em Moçambique, S. A. R. L. - Arpem propõe-se alargar e desenvolver a indústria da pesca na província de Moçambique, com vista à expansão das exportações, nomeadamente para o estrangeiro.
+
+3. Considerando a interesse que apresenta o empreendimento quer como vínculo de fomento e valorização económica, quer como contributo para o saneamento da balança de pagamentos.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É autorizada a Sociedade dos Armadores das Pescas em Moçambique, S. A. R. L. - Arpem, a importar do estrangeiro, com isenção de direitos e da taxa dos emolumentos gerais, três embarcações de ferro de tonelagem bruta inferior a 1000 t cada uma, destinadas exclusivamente às suas actividades de pesca.
+
+Art. 2.º As embarcações a que se refere o artigo 1.º serão registadas na Capitania do Porto da Beira e a mudança de registo para qualquer capitania de outro território nacional implicará o pagamento dos direitos e mais imposições devidos, como se fossem importadas directamente do estrangeiro.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 8 de Julho de 1971.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
+
+Para ser presente à Assembleia Nacional.

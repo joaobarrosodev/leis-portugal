@@ -1,0 +1,231 @@
+---
+schema_version: '1.0'
+id: pt:dre:621750:por
+title: Portaria n.º 317-H/86
+short_title: null
+summary: Autoriza o Instituto Politécnico de Faro, através da Escola Superior de Tecnologia e Gestão, a conferir o grau de
+  bacharel em Construção Civil, Equipamentos Térmicos e Gestão e regula os respectivos cursos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Cultura
+proposing_entity: null
+official_number: 317-H/86
+official_date: null
+publication_date: '1986-06-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 142/1986, 1º Suplemento, Série I de 1986-06-24
+  number: '142'
+  series: I
+  supplement: null
+  pages: 1486-(25) a 1486-(33)
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14201/00250033.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '621750'
+  dre_path: /dr/detalhe/portaria/317-h-1986-621750
+  internal: pt:dre:621750:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-h-1986-621750
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/317-h-1986-621750
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:45:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3e3af40744bc62634182caeb9266989238847c9641bbea248b04d45eb042219b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:45:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bacharelato
+- Curso de Construção Civil
+- Curso de Equipamentos Térmicos
+- Curso de Gestão
+- Escola Superior de Tecnologia e Gestão
+- Faro
+- Instituto Politécnico
+- Plano de Estudos
+relationships:
+- type: amended_by
+  target: pt:dre:566596:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:554577:por
+  label: "Derrogada, na parte referente à regulamentação do curso de bacharelato em Construção Civil, pela PORT.929/90.02.10.1990.ME,\
+    \ DR.IS [228] de 02.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/929-1990-554577
+  date: '1990-10-02'
+- type: amended_by
+  target: pt:dre:554584:por
+  label: "Derrogada, na parte referente à regulamentação do curso de bacharelato em Equipamentos Térmicos, pela PORT.930/90.02.10.1990.ME,\
+    \ DR.IS [228] de 02.10.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/930-1990-554584
+  date: '1990-10-02'
+- type: cites
+  target: pt:dre:311376:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512431:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:566596:por
+  label: "Revogada pela PORT.1117/90.13.11.1990.ME, DR.IS [262] de 13.11.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1117-1990-566596
+  date: '1990-11-13'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:45:45Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 317-H/86
+
+de 24 de Junho
+
+Sob proposta das comissões instaladoras do Instituto Politécnico de Faro e da sua Escola Superior de Tecnologia e Gestão;
+
+Considerando o disposto no [Decreto do Governo n.º 18/83](https://diariodarepublica.pt/dr/detalhe/decreto-governo/18-1983-311376), de 26 de Fevereiro:
+
+Ao abrigo do capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o seguinte:
+
+1.º
+
+(Criação)
+
+O Instituto Politécnico de Faro, através da Escola Superior de Tecnologia e Gestão, confere o grau de bacharel em:
+
+a) Construção Civil;
+
+b) Equipamentos Térmicos;
+
+c) Gestão;
+
+ministrando, em consequência, os respectivos cursos.
+
+2.º
+
+(Opções)
+
+O curso de bacharelato em Gestão desdobra-se nas opções de:
+
+a) Gestão Agrícola e Cooperativa;
+
+b) Gestão Hoteleira;
+
+c) Gestão das Pequenas e Médias Empresas Industriais;
+
+d) Gestão Regional e Local Pública.
+
+3.º
+
+(Planos de estudos)
+
+Os planos de estudos dos cursos de bacharelato a que se refere o n.º 1.º são os constantes dos anexos I a III à presente portaria.
+
+4.º
+
+(Estágios)
+
+1 - A Escola Superior de Tecnologia e Gestão organizará estágios em todos os cursos no final de cada ano curricular.
+
+2 - Os estágios revestem carácter escolar e têm por objectivo a aproximação do aluno à realidade da futura actividade profissional.
+
+3 - Os estágios serão objecto de avaliação, que se traduzirá numa classificação.
+
+4 - A realização e avaliação dos estágios obedecerá a regulamento a aprovar pela comissão instaladora da Escola Superior de Tecnologia e Gestão, sob proposta do respectivo conselho científico.
+
+5 - O regulamento a que se refere o n.º 4 estará sujeito a homologação pela comissão instaladora do Instituto Politécnico.
+
+5.º
+
+(Tabela e regime de precedências)
+
+1 - A tabela e o regime de precedências são fixados pelo conselho científico.
+
+2 - O regime de transição de ano é parte integrante do regime de precedências.
+
+3 - Na fixação do regime de transição de ano, o número máximo de disciplinas a que se refere o n.º 1 do artigo único do [Decreto n.º 46646](https://diariodarepublica.pt/dr/detalhe/decreto/46646-1965-512431), de 16 de Novembro de 1965, não pode ser excedido, podendo ser condicionado ao ano curricular a que as disciplinas devam pertencer ou assumir o valor zero.
+
+6.º
+
+(Classificação final)
+
+1 - A classificação final de cada curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas que integram o respectivo plano de estudos e das classificações dos estágios a que se refere o n.º 4.º
+
+2 - Os coeficientes de ponderação são fixados pelo conselho científico.
+
+7.º
+
+(Condições para a obtenção do grau)
+
+É condição para a obtenção do grau de bacharel a aprovação cumulativa:
+
+a) Na totalidade das disciplinas que integram o respectivo plano de estudos;
+
+b) Nos estágios a que se refere o n.º 4.º
+
+8.º
+
+(Entrada em funcionamento)
+
+Os cursos entrarão em funcionamento progressivamente, ano curricular a ano curricular, a partir do ano lectivo de 1986-1987.
+
+9.º
+
+(Entrada em vigor)
+
+A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+Ministério da Educação e Cultura.
+
+Assinada em 16 de Junho de 1986.
+
+Pelo Ministro da Educação e Cultura, Fernando Nunes Ferreira Real, Secretário de Estado do Ensino Superior.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/06/14201/00250033.pdf)

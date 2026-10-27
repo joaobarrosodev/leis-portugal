@@ -1,0 +1,495 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31998L0059:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0059-20151009",
+ "dre_path": null,
+ "source_lastmod": "2015-10-09",
+ "versions": [
+  {
+   "date": "1998-08-12",
+   "future": false,
+   "celex": "31998L0059",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e1a20eb37cd50000",
+    "1356bdfbad5f265a",
+    "b2bd00bbaf74bf64",
+    "2bee111fa01daecc",
+    "4a72e4e37e90b242",
+    "7cc7648936795d7c",
+    "1d541345f324c324",
+    "0da16995d92721e0",
+    "ae9fa4529f140fa1",
+    "76f7829dfaeb6bb9",
+    "b998ae596565e814",
+    "b3dd5460fdd962ac",
+    "5a5a79eee154f4d2",
+    "227d7673ae9eb206",
+    "dc21b29723858d79",
+    "6977c4a8b5f322cf",
+    "6e271921df92bf82",
+    "17bd5a7b0a91ad4d"
+   ]
+  },
+  {
+   "date": "2015-10-09",
+   "future": false,
+   "celex": "01998L0059-20151009",
+   "acts": [
+    {
+     "id": "eu:celex:32015L1794:por",
+     "title": "DIRETIVA (UE) 2015/1794 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de outubro de 2015",
+     "published": null,
+     "celex": "32015L1794"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita SECÇÃO I",
+    "Adita Definições e âmbito de aplicação",
+    "Adita Artigo 1.º",
+    "Adita SECÇÃO II",
+    "Adita Informação e consulta",
+    "Adita Artigo 2.º",
+    "Adita SECÇÃO III",
+    "Adita Processo de despedimento e colectivo",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita SECÇÃO IV",
+    "Adita Disposições finais",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita ANEXO I",
+    "Adita PARTE A",
+    "Adita Directivas revogadas",
+    "Adita (referidas no artigo 8.º)",
+    "Adita PARTE B",
+    "Adita Lista dos prazos de transposição para o direito nacional",
+    "Adita ANEXO II",
+    "Adita Notas",
+    "Suprime SECÇÃO I — Definições e âmbito de aplicação",
+    "Suprime Artigo 1º",
+    "Suprime SECÇÃO II — Informação e consulta",
+    "Suprime Artigo 2º",
+    "Suprime SECÇÃO III — Processo de despedimento e colectivo",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime SECÇÃO IV — Disposições finais",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime ANEXO I — PARTE A",
+    "Suprime PARTE B — Lista dos prazos de transposição para o direito nacional (referidas no artigo 8º)",
+    "Suprime ANEXO II — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "0afc5aac34adb36d",
+    "19572906891c0646",
+    "31fed25364cd7b3e",
+    "006737389e842ee8",
+    "0b50b9972a75b595",
+    "e000c157fb7cbd05",
+    "75f862f50450151d",
+    "b4f1bfdbc841cf04",
+    "e367986f66b06ae8",
+    "5d54eaa5af3c3b4b",
+    "ce1d8544fc07f65c",
+    "b9c1c438fac65788",
+    "bbdde795c58f027f",
+    "ffabc6c3a60ed9c0",
+    "8b5be73923dd5970",
+    "ea7e8b10f6370220",
+    "f7eff64fab39ef64",
+    "784c6a1d691e0116",
+    "04406bc216af5287",
+    "d664376e2a8dcecd",
+    "87cee521b2f0bb1e",
+    "cd6b2e297a0fe9e9",
+    "7a804539ba5ca9b4",
+    "6041be3baf7dcb43",
+    "3cd5eadd4c115538",
+    "b3b39b9720f1a2df",
+    "6b9c20c47ca5e5e1",
+    "fc1f8a72da89ec01"
+   ]
+  }
+ ],
+ "fragments": {
+  "e1a20eb37cd50000": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 98/59/CE do Conselho de 20 de Julho de 1998 relativa à aproximação das legislações dos Estados-membros respeitantes aos despedimentos colectivos** *Jornal Oficial nº L 225 de 12/08/1998 p. 0016 - 0021*\n\nDIRECTIVA 98/59/CE DO CONSELHO de 20 de Julho de 1998 relativa à aproximação das legislações dos Estados-membros respeitantes aos despedimentos colectivos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\n(1) Considerando que, por motivos de lógica e clareza, é conveniente proceder à codificação da Directiva 75/129/CEE do Conselho, de 17 de Janeiro de 1975, relativa à aproximação das legislações dos Estados-membros respeitantes aos despedimentos colectivos (3);\n\n(2) Considerando que se deve reforçar a protecção dos trabalhadores em caso de despedimento colectivo, tendo em conta a necessidade de um desenvolvimento económico e social equilibrado na Comunidade;\n\n(3) Considerando que, apesar de uma evolução convergente, subsistem diferenças entre as disposições em vigor nos Estados-membros no que respeita às modalidades e ao processo dos despedimentos colectivos, bem como às medidas susceptíveis de atenuar as consequências destes despedimentos para os trabalhadores;\n\n(4) Considerando que estas diferenças podem ter uma incidência directa no funcionamento do mercado interno;\n\n(5) Considerando que a Resolução do Conselho de 21 de Janeiro de 1974, respeitante a um programa de acção social (4), prevê uma directiva para a aproximação das legislações dos Estados-membros relativas aos despedimentos colectivos;\n\n(6) Considerando que a Carta comunitária dos direitos sociais fundamentais dos trabalhadores, adoptada na reunião do Conselho Europeu realizada em Estrasburgo, em 9 de Dezembro de 1989, pelos chefes de Estado ou de Governo de onze Estados-membros declara, nomeadamente, no primeiro parágrafo, primeira frase, e no segundo parágrafo do seu ponto 7, no primeiro parágrafo do seu ponto 17 e no terceiro travessão do seu ponto 18;\n\n«7. A concretização do mercado interno deve conduzir a uma melhoria das condições da vida e de trabalho dos trabalhadores na Comunidade Europeia.\n\nEsta melhoria deve implicar, nos casos em que tal for necessário, o desenvolvimento de certos aspectos da regulamentação do trabalho, designadamente os relacionados com os processos de despedimento colectivo ou as falências.\n\n(...)\n\n17. A informação, a consulta e a participação dos trabalhadores devem ser desenvolvidas segundo regras adequadas e tendo em conta as práticas em vigor nos diferentes Estados-membros.\n\n(...)\n\n18. A informação, a consulta e a participação referidas devem ser accionadas em tempo útil, nomeadamente nos seguintes casos:\n\n(-...)\n\n(-...)\n\n- por ocasião de processos de despedimento colectivo,\n\n(-...)»;\n\n(7) Considerando que é necessário, portanto, promover esta aproximação numa via de progresso, nos termos do artigo 117º do Tratado;\n\n(8) Considerando que, para o cálculo do número de despedimentos previsto na definição de despedimentos colectivos na acepção da presente directiva, convém equiparar a despedimentos outras formas de cessação do contrato de trabalho por iniciativa do empregador, desde que o número de despedimentos seja, pelo menos, de cinco;\n\n(9) Considerando que é conveniente prever que a presente directiva seja, em princípio, igualmente aplicável aos despedimentos colectivos resultantes da cessação das actividades do estabelecimento determinada por decisão judicial;\n\n(10) Considerando que é conveniente dar aos Estados-membros a possibilidade de prever que os representantes dos trabalhadores possam recorrer a peritos em virtude da complexidade técnica das matérias susceptíveis de informação e de consulta;\n\n(11) Considerando que é conveniente assegurar que as obrigações dos empregadores em matéria de informação, de consulta e de notificação sejam aplicáveis independentemente do facto de a decisão relativa aos despedimentos colectivos emanar do empregador ou de uma empresa que sobre ele exerça uma actividade de controlo;\n\n(12) Considerando que é conveniente que os Estados-membros zelem por que os representantes dos trabalhadores e/ou os trabalhadores tenham à sua disposição processos administrativos e/ou judiciais destinados a assegurar a observância das obrigações instituídas pela presente directiva;\n\n(13) Considerando que a presente directiva não deve prejudicar as obrigações dos Estados-membros relativas aos prazos de transposição das directivas que figuram no anexo I, parte B,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1356bdfbad5f265a": {
+   "fragment_id": "SECÇÃO I — Definições e âmbito de aplicação",
+   "type": "divisao",
+   "heading": "SECÇÃO I — Definições e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Definições e âmbito de aplicação"
+  },
+  "b2bd00bbaf74bf64": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. Para efeitos da aplicação da presente directiva:\n\na) Entende-se por «despedimentos colectivos» os despedimentos efectuados por um empregador, por um ou vários motivos não inerentes à pessoa dos trabalhadores, quando o número de despedimentos abranger, segundo a escolha efectuada pelos Estados-membros:\n\ni) ou, num período de 30 dias:\n\n- no mínimo 10 trabalhadores, nos estabelecimentos que empreguem habitualmente mais de 20 e menos de 100,\n\n- no mínimo 10 % do número dos trabalhadores, nos estabelecimentos que empreguem habitualmente no mínimo 100 e menos de 300 trabalhadores,\n\n- no mínimo 30 trabalhadores, nos estabelecimentos que empreguem habitualmente no mínimo 300;\n\nii) ou, num período de 90 dias, no mínimo 20 trabalhadores, qualquer que seja o número de trabalhadores habitualmente empregados nos estabelecimentos em questão;\n\nb) Entende-se por «representantes dos trabalhadores» os representantes dos trabalhadores previstos pela legislação ou pela prática dos Estados-membros.\n\nPara o cálculo do número de despedimentos previsto no primeiro parágrafo, alínea a), são equiparadas a despedimentos as cessações do contrato de trabalho por iniciativa do empregador por um ou vários motivos não inerentes à pessoa dos trabalhadores, desde que o número de despedimentos seja, pelo menos, de cinco.\n\n2. A presente directiva não é aplicável:\n\na) Aos despedimentos colectivos efectuados no âmbito de contratos de trabalho a prazo ou à tarefa, salvo se estes despedimentos forem efectuados antes do termo ou do cumprimento destes contratos;\n\nb) Aos trabalhadores das administrações públicas ou dos estabelecimentos de direito público (ou das entidades equivalentes nos Estados-membros que não conheçam esta noção);\n\nc) As tripulações dos navios de mar."
+  },
+  "2bee111fa01daecc": {
+   "fragment_id": "SECÇÃO II — Informação e consulta",
+   "type": "divisao",
+   "heading": "SECÇÃO II — Informação e consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Informação e consulta"
+  },
+  "4a72e4e37e90b242": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Sempre que tenciona efectuar despedimentos colectivos, a entidade patronal é obrigada a consultar em tempo útil os representantes dos trabalhadores, com o objectivo de chegar a um acordo.\n\n2. As consultas incidirão, pelo menos, sobre as possibilidades de evitar ou de reduzir os despedimentos colectivos, bem como sobre os meios de atenuar as suas consequências recorrendo a medidas sociais de acompanhamento destinadas, nomeadamente, a auxiliar a reintegração ou reconversão dos trabalhadores despedidos.\n\nOs Estados-membros podem prever que os representantes dos trabalhadores possam recorrer a peritos, nos termos das legislações e/ou práticas nacionais.\n\n3. Para que os representantes dos trabalhadores possam formular propostas construtivas, o empregador deve, em tempo útil, no decurso das consultas:\n\na) Facultar-lhes todas as informações necessárias; e\n\nb) Comunicar-lhes, sempre por escrito:\n\ni) os motivos do despedimento previsto,\n\nii) o número e as categorias dos trabalhadores a despedir,\n\niii) o número e as categorias dos trabalhadores habitualmente empregados,\n\niv) o período durante o qual se pretende efectuar os despedimentos,\n\nv) os critérios a utilizar na selecção dos trabalhadores a despedir, na medida em que as leis e/ou práticas nacionais dêem essa competência ao empregador,\n\nvi) o método previsto para o cálculo de qualquer eventual indemnização de despedimento que não a que decorre das leis e/ou práticas nacionais.\n\nO empregador deve remeter cópia à autoridade pública competente pelo menos dos elementos da comunicação escrita previstos nas subalíneas i) a v) da alínea b).\n\n4. As obrigações previstas nos nºs 1, 2 e 3 são aplicáveis independentemente de a decisão dos despedimentos colectivos ser tomada pelo empregador ou por uma empresa que o controle.\n\nQuanto às alegadas infracções às obrigações de informação, consulta e notificação previstas na presente directiva, não será tomada em consideração qualquer justificação do empregador fundamentada no facto de as informações necessárias não lhe terem sido fornecidas pela empresa cuja decisão deu origem dos despedimentos colectivos."
+  },
+  "7cc7648936795d7c": {
+   "fragment_id": "SECÇÃO III — Processo de despedimento e colectivo",
+   "type": "divisao",
+   "heading": "SECÇÃO III — Processo de despedimento e colectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Processo de despedimento e colectivo"
+  },
+  "1d541345f324c324": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. O empregador deve notificar por escrito a autoridade pública competente de qualquer projecto de despedimento colectivo.\n\nNo entanto, os Estados-membros podem prever que, caso de um projecto de despedimento colectivo resultante da cessação das actividades de um estabelecimento na sequência de uma decisão judicial, o empregador seja obrigado a notificar por escrito a autoridade pública competente apenas se esta a solicitar.\n\nA notificação deve conter todas as informações úteis respeitantes ao projecto de despedimento colectivo e às consultas aos representantes dos trabalhadores previstas no artigo 2º, nomeadamente, os motivos do despedimento, o número de trabalhadores a despedir, o número dos trabalhadores habitualmente empregados e o período no decurso do qual se pretende efectuar os despedimentos.\n\n2. O empregador deve remeter aos representantes dos trabalhadores uma cópia da notificação prevista no nº 1.\n\nOs representantes dos trabalhadores podem transmitir as suas eventuais observações à autoridade pública competente."
+  },
+  "0da16995d92721e0": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os despedimentos colectivos, de cujo projecto tenha sido notificada a autoridade pública competente, não podem produzir efeitos antes de decorridos 30 dias após a notificação prevista no nº 1 do artigo 3º e devem respeitar as disposições reguladoras dos direitos individuais em matéria de aviso prévio de despedimento.\n\nOs Estados-membros podem conceder à autoridade pública competente a faculdade de reduzir o prazo referido no primeiro parágrafo deste número.\n\n2. A autoridade pública competente aproveitará o prazo referido no nº 1 para procurar soluções para os problemas criados pelos despedimentos colectivos previstos.\n\n3. Quando o prazo inicial previsto no nº 1 for inferior a 60 dias, os Estados-membros podem conceder à autoridade pública competente a faculdade de determinar a dilatação do prazo inicial até 60 dias após a notificação, sempre que se verifique o risco de não se encontrar, no prazo inicial, solução para os problemas criados pelos despedimentos colectivos previstos.\n\nOs Estados-membros podem conceder à autoridade pública competente mais amplas faculdades de dilatação de prazo.\n\nO empregador deve ser informado da dilatação e dos seus motivos antes de expirar o prazo inicial previsto no nº 1.\n\n4. Os Estados-membros não são obrigados a aplicar o presente artigo em caso de despedimentos colectivos resultantes da cessação das actividades de um estabelecimento, quando esta resultar de uma decisão judicial."
+  },
+  "ae9fa4529f140fa1": {
+   "fragment_id": "SECÇÃO IV — Disposições finais",
+   "type": "divisao",
+   "heading": "SECÇÃO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposições finais"
+  },
+  "76f7829dfaeb6bb9": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA presente directiva não prejudica a faculdade que os Estados-membros têm de aplicar ou de introduzir disposições legislativas, regulamentares ou administrativas mais favoráveis aos trabalhadores ou de permitir ou promover a aplicação de disposições convencionais mais favoráveis aos trabalhadores."
+  },
+  "b998ae596565e814": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros devem prever a existência de procedimentos administrativos e/ou judiciais para fazer cumprir as obrigações instituídas pela presente directiva a que possam recorrer os representantes dos trabalhadores e/ou os trabalhadores."
+  },
+  "b3dd5460fdd962ac": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nOs Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno já adoptadas ou que vierem a adoptar no domínio regulado pela presente directiva."
+  },
+  "5a5a79eee154f4d2": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. As directivas que constam da parte A do anexo I, são revogadas, sem prejuízo das obrigações dos Estados-membros relativamente aos prazos de transposição das referidas directivas que constam da parte B do anexo I.\n\n2. As referências feitas às directivas revogadas devem entender-se como feitas à presente directiva e ser lidas de acordo com o quadro de correspondência que consta do anexo II."
+  },
+  "227d7673ae9eb206": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "dc21b29723858d79": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 20 de Julho de 1998.\n\nPelo Conselho\n\nO Presidente\n\nW. MOLTERER\n\n(1) JO C 210 de 6. 7. 1998.\n\n(2) JO C 158 de 26. 5. 1997, p. 11.\n\n(3) JO L 48 de 22. 2. 1975, p. 29. Directiva alterada pela Directiva 92/56/CEE (JO L 245 de 26. 8. 1992, p. 3).\n\n(4) JO C 13 de 12. 2. 1974, p. 1."
+  },
+  "6977c4a8b5f322cf": {
+   "fragment_id": "ANEXO I — PARTE A",
+   "type": "divisao",
+   "heading": "ANEXO I — PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — PARTE A\n\nDirectivas revogadas (referidas no artigo 8º)\n\nDirectiva 75/129/CEE do Conselho e sua modificação:\n\nDirectiva 92/56/CEE do Conselho."
+  },
+  "6e271921df92bf82": {
+   "fragment_id": "PARTE B — Lista dos prazos de transposição para o direito nacional (referidas no artigo 8º)",
+   "type": "divisao",
+   "heading": "PARTE B — Lista dos prazos de transposição para o direito nacional (referidas no artigo 8º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B — Lista dos prazos de transposição para o direito nacional (referidas no artigo 8º)\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "17bd5a7b0a91ad4d": {
+   "fragment_id": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >POSIÇÃO NUMA TABELA>"
+  },
+  "0afc5aac34adb36d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Julho de 1998\n\nrelativa à aproximação das legislações dos Estados-membros respeitantes aos despedimentos colectivos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 100.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/4536855b-5b01-4f1a-a4b0-f83f971714c8.0015.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/4536855b-5b01-4f1a-a4b0-f83f971714c8.0015.02/DOC_1#E0002)),\n\n(1) Considerando que, por motivos de lógica e clareza, é conveniente proceder à codificação da Directiva 75/129/CEE do Conselho, de 17 de Janeiro de 1975, relativa à aproximação das legislações dos Estados-membros respeitantes aos despedimentos colectivos ([^3^](http://publications.europa.eu/resource/cellar/4536855b-5b01-4f1a-a4b0-f83f971714c8.0015.02/DOC_1#E0003));\n\n(2) Considerando que se deve reforçar a protecção dos trabalhadores em caso de despedimento colectivo, tendo em conta a necessidade de um desenvolvimento económico e social equilibrado na Comunidade;\n\n(3) Considerando que, apesar de uma evolução convergente, subsistem diferenças entre as disposições em vigor nos Estados-membros no que respeita às modalidades e ao processo dos despedimentos colectivos, bem como às medidas susceptíveis de atenuar as consequências destes despedimentos para os trabalhadores;\n\n(4) Considerando que estas diferenças podem ter uma incidência directa no funcionamento do mercado interno;\n\n(5) Considerando que a Resolução do Conselho de 21 de Janeiro de 1974, respeitante a um programa de acção social ([^4^](http://publications.europa.eu/resource/cellar/4536855b-5b01-4f1a-a4b0-f83f971714c8.0015.02/DOC_1#E0004)), prevê uma directiva para a aproximação das legislações dos Estados-membros relativas aos despedimentos colectivos;\n\n(6) Considerando que a Carta comunitária dos direitos sociais fundamentais dos trabalhadores, adoptada na reunião do Conselho Europeu realizada em Estrasburgo, em 9 de Dezembro de 1989, pelos chefes de Estado ou de Governo de onze Estados-membros declara, nomeadamente, no primeiro parágrafo, primeira frase, e no segundo parágrafo do seu ponto 7, no primeiro parágrafo do seu ponto 17 e no terceiro travessão do seu ponto 18; «7. A concretização do mercado interno deve conduzir a uma melhoria das condições da vida e de trabalho dos trabalhadores na Comunidade Europeia. Esta melhoria deve implicar, nos casos em que tal for necessário, o desenvolvimento de certos aspectos da regulamentação do trabalho, designadamente os relacionados com os processos de despedimento colectivo ou as falências. (…) 17. A informação, a consulta e a participação dos trabalhadores devem ser desenvolvidas segundo regras adequadas e tendo em conta as práticas em vigor nos diferentes Estados-membros. (…) 18. A informação, a consulta e a participação referidas devem ser accionadas em tempo útil, nomeadamente nos seguintes casos: (—…) (—…) — por ocasião de processos de despedimento colectivo, (—…)»;\n\n(7) Considerando que é necessário, portanto, promover esta aproximação numa via de progresso, nos termos do artigo 117.º do Tratado;\n\n(8) Considerando que, para o cálculo do número de despedimentos previsto na definição de despedimentos colectivos na acepção da presente directiva, convém equiparar a despedimentos outras formas de cessação do contrato de trabalho por iniciativa do empregador, desde que o número de despedimentos seja, pelo menos, de cinco;\n\n(9) Considerando que é conveniente prever que a presente directiva seja, em princípio, igualmente aplicável aos despedimentos colectivos resultantes da cessação das actividades do estabelecimento determinada por decisão judicial;\n\n(10) Considerando que é conveniente dar aos Estados-membros a possiblidade de prever que os representantes dos trabalhadores possam recorrer aperitos em virtude da complexidade técnica das matérias susceptíveis de informação e de consulta;\n\n(11) Considerando que é conveniente assegurar que as obrigações dos empregadores em matéria de informação, de consulta e de notificação sejam aplicáveis independentemente do facto de a decisão relativa aos despedimentos colectivos emanar do empregador ou de uma empresa que sobre ele exerça uma actividade de controlo;\n\n(12) Considerando que é conveniente que os Estados-membros zelem por que os representantes dos trabalhadores e/ou os trabalhadores tenham à sua disposição processos administrativos e/ou judiciais destinados a assegurar a observância das obrigações instituídas pela presente directiva;\n\n(13) Considerando que a presente directiva não deve prejudicar as obrigações dos Estados-membros relativas aos prazos de transposição das directivas que figuram no anexo I, parte B,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "31fed25364cd7b3e": {
+   "fragment_id": "Definições e âmbito de aplicação",
+   "type": "divisao",
+   "heading": "Definições e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definições e âmbito de aplicação"
+  },
+  "006737389e842ee8": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para efeitos da aplicação da presente directiva:\n\na) Entende-se por «despedimentos colectivos» os despedimentos efectuados por um empregador, por um ou vários motivos não inerentes à pessoa dos trabalhadores, quando o número de despedimentos abranger, segundo a escolha efectuada pelos Estados-membros:\n\ni) ou, num período de 30 dias:\n\n— no mínimo 10 trabalhadores, nos estabelecimentos que empreguem habitualmente mais de 20 e menos de 100,\n\n— no mínimo 10 % do número dos trabalhadores, nos estabelecimentos que empreguem habitualmente no mínimo 100 e menos de 300 trabalhadores,\n\n— no mínimo 30 trabalhadores, nos estabelecimentos que empreguem habitualmente no mínimo 300;\n\nii) ou, num período de 90 dias, no mínimo 20 trabalhadores, qualquer que seja o número de trabalhadores habitualmente empregados nos estabelecimentos em questão;\n\nb) Entende-se por «representantes dos trabalhadores» os representantes dos trabalhadores previstos pela legislação ou pela prática dos Estados-membros.\n\nPara o cálculo do número de despedimentos previsto no primeiro parágrafo, alínea a), são equiparadas a despedimentos as cessações do contrato de trabalho por iniciativa do empregador por um ou vários motivos não inerentes à pessoa dos trabalhadores, desde que o número de despedimentos seja, pelo menos, de cinco.\n\n2. A presente directiva não é aplicável:\n\na) Aos despedimentos colectivos efectuados no âmbito de contratos de trabalho a prazo ou à tarefa, salvo se estes despedimentos forem efectuados antes do termo ou do cumprimento destes contratos;\n\nb) Aos trabalhadores das administrações públicas ou dos estabelecimentos de direito público (ou das entidades equivalentes nos Estados-membros que não conheçam esta noção)."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "e000c157fb7cbd05": {
+   "fragment_id": "Informação e consulta",
+   "type": "divisao",
+   "heading": "Informação e consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Informação e consulta"
+  },
+  "75f862f50450151d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Sempre que tenciona efectuar despedimentos colectivos, a entidade patronal é obrigada a consultar em tempo útil os representantes dos trabalhadores, com o objectivo de chegar a um acordo.\n\n2. As consultas incidirão, pelo menos, sobre as possibilidades de evitar ou de reduzir os despedimentos colectivos, bem como sobre os meios de atenuar as suas consequências recorrendo a medidas sociais de acompanhamento destinadas, nomeadamente, a auxiliar a reintegração ou reconversão dos trabalhadores despedidos.\n\nOs Estados-membros podem prever que os representantes dos trabalhadores possam recorrer a peritos, nos termos das legislações e/ou práticas nacionais.\n\n3. Para que os representantes dos trabalhadores possam formular propostas construtivas, o empregador deve, em tempo útil, no decurso das consultas:\n\na) Facultar-lhes todas as informações necessárias; e\n\nb) Comunicar-lhes, sempre por escrito:\n\ni) os motivos do despedimento previsto,\n\nii) o número e as categorias dos trabalhadores a despedir,\n\niii) o número e as categorias dos trabalhadores habitualmente empregados,\n\niv) o período durante o qual se pretende efectuar os despedimentos,\n\nv) os critérios a utilizar na selecção dos trabalhadores a despedir, na medida em que as leis e/ou práticas nacionais dêem essa competência ao empregador,\n\nvi) o método previsto para o cálculo de qualquer eventual indemnização de despedimento que não a que decorre das leis e/ou práticas nacionais.\n\nO empregador deve remeter cópia à autoridade pública competente pelo menos dos elementos da comunicação escrita previstos nas subalíneas i) a v) da alínea b).\n\n4. As obrigações previstas nos n.^os^ 1, 2 e 3 são aplicáveis independentemente de a decisão dos despedimentos colectivos ser tomada pelo empregador ou por uma empresa que o controle.\n\nQuanto às alegadas infracções às obrigações de informação, consulta e notificação previstas na presente directiva, não será tomada em consideração qualquer justificação do empregador fundamentada no facto de as informações necessárias não lhe terem sido fornecidas pela empresa cuja decisão deu origem dos despedimentos colectivos."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "e367986f66b06ae8": {
+   "fragment_id": "Processo de despedimento e colectivo",
+   "type": "divisao",
+   "heading": "Processo de despedimento e colectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Processo de despedimento e colectivo"
+  },
+  "5d54eaa5af3c3b4b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O empregador deve notificar por escrito a autoridade pública competente de qualquer projecto de despedimento colectivo.\n\nNo entanto, os Estados-membros podem prever que, caso de um projecto de despedimento colectivo resultante da cessação das actividades de um estabelecimento na sequência de uma decisão judicial, o empregador seja obrigado a notificar por escrito a autoridade pública competente apenas se esta a solicitar.\n\nCaso o projeto de despedimento coletivo diga respeito a membros da tripulação de um navio de mar, o empregador deve notificar a autoridade competente do Estado do pavilhão que o navio arvora.\n\nA notificação deve conter todas as informações úteis respeitantes ao projecto de despedimento colectivo e às consultas aos representantes dos trabalhadores previstas no artigo 2.º, nomeadamente, os motivos do despedimento, o número de trabalhadores a despedir, o número dos trabalhadores habitualmente empregados e o período no decurso do qual se pretende efectuar os despedimentos.\n\n2. O empregador deve remeter aos representantes dos trabalhadores uma cópia da notificação prevista no n.º 1.\n\nOs representantes dos trabalhadores podem transmitir as suas eventuais observações à autoridade pública competente."
+  },
+  "ce1d8544fc07f65c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os despedimentos colectivos, de cujo projecto tenha sido notificada a autoridade pública competente, não podem produzir efeitos antes de decorridos 30 dias após a notificação prevista no n.º 1 do artigo 3.º e devem respeitar as disposições reguladoras dos direitos individuais em matéria de aviso prévio de despedimento.\n\nOs Estados-membros podem conceder à autoridade pública competente a faculdade de reduzir o prazo referido no primeiro parágrafo deste número.\n\n2. A autoridade pública competente aproveitará o prazo referido no n.º 1 para procurar soluções para os problemas criados pelos despedimentos colectivos previstos.\n\n3. Quando o prazo inicial previsto no n.º 1 for inferior a 60 dias, os Estados-membros podem conceder à autoridade pública competente a faculdade de determinar a dilatação do prazo inicial até 60 dias após a notificação, sempre que se verifique o risco de não se encontrar, no prazo inicial, solução para os problemas criados pelos despedimentos colectivos previstos.\n\nOs Estados-membros podem conceder à autoridade pública competente mais amplas faculdades de dilatação de prazo.\n\nO empregador deve ser informado da dilatação e dos seus motivos antes de expirar o prazo inicial previsto no n.º 1.\n\n4. Os Estados-membros não são obrigados a aplicar o presente artigo em caso de despedimentos colectivos resultantes da cessação das actividades de um estabelecimento, quando esta resultar de uma decisão judicial."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "ffabc6c3a60ed9c0": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente directiva não prejudica a faculdade que os Estados-membros têm de aplicar ou de introduzir disposições legislativas, regulamentares ou administrativas mais favoráveis aos trabalhadores ou de permitir ou promover a aplicação de disposições convencionais mais favoráveis aos trabalhadores."
+  },
+  "8b5be73923dd5970": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros devem prever a existência de procedimentos administrativos e/ou judiciais para fazer cumprir as obrigações instituídas pela presente directiva a que possam recorrer os representantes dos trabalhadores e/ou os trabalhadores."
+  },
+  "ea7e8b10f6370220": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros comunicarão à Comissão o texto das disposições essenciais de direito interno já adoptadas ou que vierem a adoptar no domínio regulado pela presente directiva."
+  },
+  "f7eff64fab39ef64": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As directivas que constam da parte A do anexo I, são revogadas, sem prejuízo das obrigações dos Estados-membros relativamente aos prazos de transposição das referidas directivas que constam da parte B do anexo I.\n\n2. As referências feitas às directivas revogadas devem entender-se como feitas à presente directiva e ser lidas de acordo com o quadro de correspondência que consta do anexo II."
+  },
+  "784c6a1d691e0116": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "04406bc216af5287": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "cd6b2e297a0fe9e9": {
+   "fragment_id": "Directivas revogadas",
+   "type": "divisao",
+   "heading": "Directivas revogadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Directivas revogadas"
+  },
+  "7a804539ba5ca9b4": {
+   "fragment_id": "(referidas no artigo 8.º)",
+   "type": "divisao",
+   "heading": "(referidas no artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidas no artigo 8.º)\n\nDirectiva 75/129/CEE do Conselho e sua modificação:\n\nDirectiva 92/56/CEE do Conselho."
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "3cd5eadd4c115538": {
+   "fragment_id": "Lista dos prazos de transposição para o direito nacional",
+   "type": "divisao",
+   "heading": "Lista dos prazos de transposição para o direito nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista dos prazos de transposição para o direito nacional"
+  },
+  "b3b39b9720f1a2df": {
+   "fragment_id": "(referidas no artigo 8.º)",
+   "type": "divisao",
+   "heading": "(referidas no artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidas no artigo 8.º)\n\nDirectiva Data limite de transposição\n\n75/129/CEE (JO L 48 de 22. 2. 1975, p. 29) 19 de Fevereiro de 1977\n\n92/56/CEE (JO L 245 de 26. 8. 1992, p. 3) 24 de Junho de 1994"
+  },
+  "6b9c20c47ca5e5e1": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nDirectiva 75/129/CEE Presente directiva\n\nArtigo 1.º, n.º 1, primeiro parágrafo, alínea a), primeiro travessão, ponto 1 Artigo 1.º, n.º 1, primeiro parágrafo, alínea a) i), primeiro travessão\n\nArtigo 1.º, n.º 1, primeiro parágrafo, alínea a), primeiro travessão, ponto 2 Artigo 1, n.º 1, primeiro parágrafo, alínea a) i), segundo travessão\n\nArtigo 1.º, n.º 1, primeiro parágrafo, alínea a), primeiro travessão, ponto 3 Artigo 1.º, n.º 1, primeiro parágrafo, alínea a) i), terceiro travessão\n\nArtigo 1.º, n.º 1, primeiro parágrafo, alínea a), segundo travessão Artigo 1.º, n.º 1, primeiro parágrafo, alínea a) ii)\n\nArtigo 1.º, n.º 1, primeiro parágrafo, alínea b) Artigo 1.º, n.º 1, primeiro parágrafo, alínea b)\n\nArtigo 1.º, n.º 1, segundo parágrafo Artigo 1.º, n.º 1, segundo parágrafo\n\nArtigo 1.º, n.º 2 Artigo 1.º, n.º 2\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º Artigo 3.º\n\nArtigo 4.º Artigo 4.º\n\nArtigo 5.º Artigo 5.º\n\nArtigo 5.ºA Artigo 6.º\n\nArtigo 6.º, n.º 1 —\n\nArtigo 6.º, n.º 2 Artigo 7.º\n\nArtigo 7.º —\n\n— Artigo 8.º\n\n— Artigo 9.º\n\n— Artigo 10.º\n\n— Anexo I\n\n— Anexo II\n\n---"
+  },
+  "fc1f8a72da89ec01": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4536855b-5b01-4f1a-a4b0-f83f971714c8.0015.02/DOC_1#src.E0001)) JO C 210 de 6. 7. 1998.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4536855b-5b01-4f1a-a4b0-f83f971714c8.0015.02/DOC_1#src.E0002)) JO C 158 de 26. 5. 1997, p. 11.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4536855b-5b01-4f1a-a4b0-f83f971714c8.0015.02/DOC_1#src.E0003)) JO L 48 de 22. 2. 1975, p. 29. Directiva alterada pela Directiva 92/56/CEE (JO L 245 de 26. 8. 1992, p. 3).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4536855b-5b01-4f1a-a4b0-f83f971714c8.0015.02/DOC_1#src.E0004)) JO C 13 de 12. 2. 1974, p. 1."
+  }
+ }
+}

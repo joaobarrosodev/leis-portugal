@@ -1,0 +1,257 @@
+---
+schema_version: '1.0'
+id: pt:dre:564984:por
+title: Decreto n.º 114/81
+short_title: null
+summary: Aprova o Acordo de Cooperação Consular entre a República Portuguesa e a República da Guiné-Bissau
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Gabinete Coordenador para a Cooperação
+proposing_entity: null
+official_number: 114/81
+official_date: null
+publication_date: '1981-09-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 204/1981, Série I de 1981-09-05
+  number: '204'
+  series: I
+  supplement: null
+  pages: 2377 - 2379
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20400/23772379.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '564984'
+  dre_path: /dr/detalhe/decreto/114-1981-564984
+  internal: pt:dre:564984:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/114-1981-564984
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/114-1981-564984
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:56:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3ba747a9ef073f7d8d6bb38a29ff38bec07ba64191ad6d6e01d2f434b81f2540
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:56:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Admissão de Estrangeiros
+- Bissau
+- Cidadão Nacional
+- Consulado
+- Convenção
+- Cooperação Consular
+- Embaixada
+- Emolumento Consular
+- Guiné-Bissau
+- Passaporte
+- Portugal
+- Protecção e Assistência Consular
+relationships:
+- type: amended_by
+  target: pt:dre:477639:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:477639:por
+  label: "Aprovado o Protocolo Adicional à Convenção pelo DEC.16/98.1998.06.30.MNE DR.IS-A [148]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/16-1998-477639
+  date: '1998-06-30'
+- type: corrected_by
+  target: pt:dre:562466:por
+  label: Rectificado pela DECL.DD6352.19.10.1981.PCM, DR.IS [249] de 29.10.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-562466
+  date: '1981-10-19'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:56:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 114/81
+
+de 5 de Setembro
+
+O Governo decreta, nos termos da alínea e) do artigo 200.º da Constituição, o seguinte:
+
+Artigo único. É aprovado o Acordo de Cooperação Consular entre a República Portuguesa e a República da Guiné-Bissau, assinado em 24 de Fevereiro de 1979, cujo texto vai anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 6 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Assinado em 21 de Agosto de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+ACORDO DE COOPERAÇÃO CONSULAR ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU
+
+O Governo da República Portuguesa e o Governo da República da Guiné-Bissau:
+
+Considerando os laços especiais de amizade e solidariedade existentes entre os povos de Portugal e da Guiné-Bissau;
+
+Considerando o interesse comum em prosseguir uma política de cooperação no sentido de reforçar esses laços;
+
+Considerando o n.º 2 do artigo 1.º e o artigo 9.º do Acordo Geral de Cooperação e Amizade, que prevêem formas de cooperação recíproca em todos os domínios, essencialmente nos domínios diplomático e consular, em ordem à protecção dos interesses de Portugal e da Guiné-Bissau e dos respectivos cidadãos;
+
+Tendo em consideração o artigo 8.º da Convenção de Viena sobre Relações Consulares,
+
+decidem concluir o seguinte:
+
+Acordo de Cooperação Consular
+
+###### ARTIGO 1.º
+
+1 - A República Portuguesa e a República da Guiné-Bissau, a seguir denominadas «Partes Contratantes», assegurarão, na medida do possível e nos termos das convenções internacionais sobre relações consulares de que cada uma seja signatária, a protecção consular dos interesses de nacionais da Guiné-Bissau ou de Portugal onde não exista um posto consular guineense ou português.
+
+2 - Para os efeitos previstos no número anterior, cada uma das Partes Contratantes comunicará à outra por nota quais os Estados onde deseja que aos seus nacionais seja prestada protecção consular nos termos do presente Acordo. A Parte Contratante cuja cooperação é solicitada comunicará em nota de resposta os postos de que dispõe aptos a prestá-la.
+
+3 - Os postos consulares de cada uma das Partes Contratantes prestarão colaboração aos postos consulares da outra, ainda que fiquem situados na mesma área de jurisdição, sempre que por estes últimos lhes seja solicitada assistência em matéria relativa ao exercício de funções consulares.
+
+###### ARTIGO 2.º
+
+O disposto no artigo 1.º aplicar-se-á nos termos dos artigos seguintes, mediante pedido de consentimento dirigido aos Estados receptores interessados e sob reserva de aceitação por parte destes.
+
+###### ARTIGO 3.º
+
+Os funcionários enviados por cada uma das Partes Contratantes, quando devidamente credenciados, poderão ser recebidos nos postos consulares da outra, a fim de se inteirarem dos assuntos que digam respeito aos respectivos Estados e seus nacionais, ficando, contudo, sob a orientação do chefe do posto em que são recebidos.
+
+###### ARTIGO 4.º
+
+O Estado Português, na medida das suas possibilidades e quando assim for solicitado pelo Estudo da Guiné-Bissau, prestará assistência para a formação e aperfeiçoamento do respectivo pessoal consular.
+
+###### ARTIGO 5.º
+
+Os postos consulares de cada uma das Partes Contratantes indicados nos termos do n.º 2 do artigo 1.º promoverão, a pedido dos interessados, a inscrição dos cidadãos da outra Parte Contratante residentes na sua área de jurisdição ou que ali se encontrem ocasionalmente, passando-lhes a correspondente cédula ou certificado de inscrição, com a menção da respectiva nacionalidade.
+
+###### ARTIGO 6.º
+
+Os agentes consulares de cada uma das Partes Contratantes indicados nos termos do n.º 2 do artigo 1.º poderão, em nome da outra, proceder na qualidade de notário e de conservador do registo civil e exercer funções similares, assim como certas funções de carácter administrativo, desde que não contrariem as leis e regulamentos desta última e do Estado receptor.
+
+###### ARTIGO 7.º
+
+1 - Os postos consulares de cada uma das Partes Contratantes receberão os pedidos de passaporte apresentados por cidadãos nacionais da outra e enviá-los-ão, devidamente acompanhados da importância do custo do impresso, ao seu próprio Ministério dos Negócios Estrangeiros ou ao Comissariado de Estado dos Negócios Estrangeiros, respectivamente, que os transmitirão à representação diplomática ou consular da Parte beneficiária.
+
+2 - No caso de tal se tomar conveniente, poderá o posto consular que recebe o pedido ser autorizado a transmiti-lo directamente a um posto consular, próximo, da outra Parte.
+
+3 - O passaporte emitido será enviado ao posto consular que recebeu o respectivo pedido. Em caso de recusa, esse posto será notificado.
+
+4 - Qualquer das Partes Contratantes poderá solicitar à outra que algum ou alguns dos respectivos postos consulares emitam directamente passaportes aos cidadãos da primeira. Neste caso, a Parte beneficiária fornecerá impressos de passaporte com a indicação dos requisitos a que deverá obedecer a sua concessão.
+
+5 - O custo dos impressos será indicado pela Parte beneficiária. O posto consular cobrá-lo-á aos interessados e enviará uma relação mensal dos passaportes concedidos ao seu próprio Ministério ou ao Comissariado de Estado, que a transmitirão, acompanhada do valor dos impressos, representação diplomática da outra Parte.
+
+6 - Nas hipóteses previstas nos n.os 1 e 2, o posto consular poderá cobrar ao interessado uma taxa pelo serviço a prestar e receberá ainda um quantitativo correspondente ao emolumento, que será transferido para a entidade emitente de acordo com as normas a estabelecer.
+
+7 - Em caso de necessidade os postos consulares de cada uma das Partes solicitarão anuência da outra Parte para a emissão, a favor de nacionais desta última, de passaporte ou outro documento similar de acordo com a lei do nacional requerente.
+
+###### ARTIGO 8.º
+
+1 - Os postos consulares de cada uma das Partes Contratantes poderão receber pedidos de vistos do entrada formulados por cidadãos estrangeiros que pretendam entrar em território da outra e enviá-los ao seu próprio Ministério dos Negócios Estrangeiros ou ao Comissariado de Estado dos Negócios Estrangeiros, respectivamente, que os transmitirão à representação diplomática ou consular da Parte competente para conceder o visto solicitado.
+
+2 - O visto, que constará de um documento apropriado, será enviado ao posto consular que transmitiu o pedido.
+
+3 - Em casos excepcionais, nomeadamente quando se trate de diplomatas ou de técnicos cuja presença imediata seja de interesse para uma das Partes Contratantes, o pedido poderá ser transmitido por via telegráfica e dele constará o nome, a data de nascimento, a nacionalidade e a profissão do interessado, o número de passaporte ou de outro documento com que viaja e a entidade com que pretende contactar.
+
+###### ARTIGO 9.º
+
+1 - Os agentes consulares de cada uma das Partes Contratantes poderão efectuar repatriações e prestar socorros aos cidadãos da outra que residam na sua área de jurisdição ou nela se encontrem ocasionalmente, a pedido destes, desde que provem encontrar-se permanente ou temporariamente desprovidos de recursos e não tenham localmente possibilidades de os conseguir.
+
+2 - Para os fins do número anterior, os agentes consulares transmitirão os pedidos ao seu próprio Ministério dos Negócios Estrangeiros ou ao Comissariado de Estado dos Negócios Estrangeiros, respectivamente, que obterão da representação diplomática ou consular da Parte interessada o necessário acordo para proceder à repatriação ou prestação de socorros e o comunicarão ao posto consular que recebeu o pedido.
+
+3 - Cada uma das Partes Contratantes reembolsará à outra os adiantamentos efectuados e as despesas feitas pelos agentes consulares no interesse exclusivo da Parte beneficiária ou dos seus nacionais.
+
+###### ARTIGO 10.º
+
+Os postos consulares de cada uma das Partes Contratantes procurarão salvaguardar os interesses dos nacionais da outra, nos casos de sucessão que ocorra no território do Estado receptor, e os interesses dos menores e incapazes, particularmente quando para eles for requerida a tutela ou curatela.
+
+###### ARTIGO 11.º
+
+Os postos consulares de cada uma das Partes Contratantes prestarão assistência aos nacionais da outra junto das autoridades locais do Estado receptor nas questões relativas aos seus interesses particulares e comerciais e assisti-los-ão, na medida do possível, perante os tribunais locais.
+
+###### ARTIGO 12.º
+
+Os postos consulares de cada uma das Partes Contratantes procurarão dar cumprimento aos actos judiciais e extrajudiciais solicitados pela outra Parte em conformidade com a prática internacional em vigor e de acordo com as leis e regulamentos do Estado receptor.
+
+###### ARTIGO 13.º
+
+Os postos consulares de cada uma das Partes Contratantes prestarão assistência aos barcos e aeronaves, arvorando o pavilhão da outra quando solicitados pelo respectivo capitão ou comandante.
+
+###### ARTIGO 14.º
+
+Os agentes consulares de cada uma das Partes Contratantes, por indicação expressa das autoridades da outra, a ser recebida por intermédio do seu próprio Ministério dos Negócios Estrangeiros ou do Comissariado de Estado dos Negócios Estrangeiros, poderão exercer a favor de cidadãos desta última Parte outras funções não especificadas no presente Acordo que, segundo a prática internacional, caibam nas atribuições consulares.
+
+###### ARTIGO 15.º
+
+1 - O impresso para o processo individual, o impresso para a cédula ou certificado de inscrição, os impressos para pedidos de passaporte e para documentos de viagem, os impressos destinados à prática dos actos consulares mencionados no artigo 6., os textos legais que regulam a prática dos mesmos actos e os correspondentes livros de assentos e extractos serão fornecidos pelo Ministério dos Negócios Estrangeiros ou pelo Comissariado de Estado dos Negócios Estrangeiros da Parte beneficiária.
+
+2 - Em caso de reconhecida urgência, se não lhes for possível dispor dos impressos previstos no número anterior, os postos consulares utilizarão os seus próprios modelos de impressos nos actos praticados a favor dos nacionais da outra Parte Contratante, averbando nos mesmos a menção da nacionalidade do beneficiário do acto.
+
+###### ARTIGO 16.º
+
+1 - Os emolumentos devidos pela prática dos actos consulares a que se refere o presente Acordo serão cobrados em conformidade com a tabela de emolumentos vigente nos postos consulares que praticam os mencionados actos e reverterão a favor dos respectivos cofres consulares.
+
+2 - O disposto no número anterior não prejudica a eventual aplicação de imposto, taxa ou similar previsto na lei interna do Estado do nacional requerente no acto da legalização do documento.
+
+###### ARTIGO 17.º
+
+Quaisquer dúvidas ou dificuldades surgidas na interpretação e aplicação deste Acordo serão resolvidas por via diplomática.
+
+###### ARTIGO 18.º
+
+O presente Acordo poderá ser complementado por protocolos adicionais.
+
+###### ARTIGO 19.º
+
+Cada uma das Partes Contratantes poderá suspender temporariamente a aplicação do presente Acordo, no todo ou em parte, desde que notifique, por vía diplomática, a outra com trinta dias de antecedência.
+
+###### ARTIGO 20.º
+
+O presente Acordo entrará em vigor provisoriamente na data da sua assinatura e definitivamente na data da troca de notas confirmando a sua aprovação em conformidade com os requisitos constitucionais de ambos os países e manter-se-á vigente até doze meses depois da data em que qualquer Parte Contratante notifique, por via diplomática, a outra Parte do seu desejo de denunciar o Acordo.
+
+Feito em Bissau, aos 24 de Fevereiro de 1979, em dois exemplares, fazendo ambos os textos igualmente fé.
+
+Pelo Governo da República Portuguesa:
+
+João de Freitas Cruz.
+
+Pelo Governo da República da Guiné-Bissau:
+
+Victor Saúde Maria.

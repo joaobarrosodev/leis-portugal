@@ -1,0 +1,219 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R1222:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1222-20210501",
+ "dre_path": null,
+ "source_lastmod": "2021-05-01",
+ "versions": [
+  {
+   "date": "2009-12-22",
+   "future": false,
+   "celex": "32009R1222",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bad37e981f385ad3",
+    "0214041d6cb1e816",
+    "3015f3d8298b3370",
+    "768fd861f39bdd54",
+    "0e1d86b7f00ed85f",
+    "e99bc0ca0ed3b516",
+    "2c6e552917059967",
+    "5a2cc9c8cb970098",
+    "454a2bd7790968ad",
+    "a32e41586dc293cd",
+    "85ba501fac58ff9c",
+    "5fcaf563bb47be53",
+    "ba1c2110e172e51c",
+    "1dd37889831caf3e",
+    "4b59cf53d7aeae3f",
+    "6b9da6e2b4b273ef",
+    "b1202ec1b1686868",
+    "b78a8326c8af6976"
+   ]
+  },
+  {
+   "date": "2021-05-01",
+   "future": false,
+   "celex": "02009R1222-20210501",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objectivo e objecto",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime Artigo 4.º — Responsabilidades dos fornecedores de pneus",
+    "Suprime Artigo 5.º — Responsabilidades dos distribuidores de pneus",
+    "Suprime Artigo 6.º — Responsabilidades dos fornecedores e dos distribuidores de veículos",
+    "Suprime Artigo 7.º — Métodos de ensaio harmonizados",
+    "Suprime Artigo 8.º — Procedimento de verificação",
+    "Suprime Artigo 9.º — Mercado interno",
+    "Suprime Artigo 10.º — Incentivos",
+    "Suprime Artigo 11.º — Alterações e adaptação ao progresso técnico",
+    "Suprime Artigo 12.º — Cumprimento",
+    "Suprime Artigo 13.º — Procedimento de Comité",
+    "Suprime Artigo 14.º — Revisão",
+    "Suprime Artigo 15.º — Disposição transitória",
+    "Suprime Artigo 16.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "f01258e52488d6e9"
+   ]
+  }
+ ],
+ "fragments": {
+  "bad37e981f385ad3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Novembro de 2009\n\nrelativo à rotulagem dos pneus no que respeita à eficiência energética e a outros parâmetros essenciais\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntr1-L_2009342PT.01004601-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntr2-L_2009342PT.01004601-E0002),\n\nConsiderando o seguinte:\n\n(1) Como sublinhado na Comunicação da Comissão, de 8 de Julho de 2008, intitulada «Tornar o transporte mais ecológico», face às alterações climáticas e à necessidade de apoiar a competitividade da Europa a mobilidade sustentável é um dos mais importantes desafios que se colocam à Comunidade.\n\n(2) A Comunicação da Comissão, de 19 de Outubro de 2006, intitulada «Plano de acção para a eficiência energética – Concretizar o potencial» realçou o potencial associado à redução do consumo total de energia em 20 % até 2020 através de uma série de acções precisas, entre as quais a rotulagem dos pneus.\n\n(3) A Comunicação da Comissão, 7 de Fevereiro de 2007, intitulada «Resultados da análise da estratégia comunitária para a redução das emissões de CO2 dos veículos de passageiros e dos veículos comerciais ligeiros» pôs em evidência o potencial associado à redução das emissões de CO2 através de medidas complementares para os componentes de veículos com maior impacto no consumo de combustível, como os pneus.\n\n(4) Devido principalmente à sua resistência ao rolamento, os pneus representam 20 % a 30 % do consumo de combustível dos veículos. Uma redução dessa resistência pode, por conseguinte, contribuir significativamente para a eficiência energética dos transportes rodoviários e, consequentemente, para a redução das emissões.\n\n(5) Os pneus caracterizam-se por uma série de parâmetros inter-relacionados. A melhoria de um desses parâmetros, como o da resistência ao rolamento, pode produzir um efeito negativo noutros parâmetros, como o da aderência em pavimento molhado, ao passo que a melhoria deste último pode ter um efeito negativo no ruído exterior de rolamento. Os fabricantes de pneus devem ser incentivados a optimizar todos os parâmetros, para além dos padrões já alcançados.\n\n(6) Os pneus energeticamente eficientes são rentáveis, dado que as economias de combustível compensam largamente o preço de compra mais elevado decorrente dos maiores custos de produção.\n\n(7) O Regulamento (CE) n.º 661/2009 do Parlamento Europeu e do Conselho, de 13 de Julho de 2009, relativo às prescrições para homologação no que se refere à segurança geral dos veículos a motor, seus reboques e sistemas, componentes e unidades técnicas a eles destinados [([^3])](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntr3-L_2009342PT.01004601-E0003), estabelece requisitos mínimos para a resistência dos pneus ao rolamento. Os avanços tecnológicos permitem diminuir significativamente as perdas de energia devidas à resistência dos pneus ao rolamento, indo mais além desses requisitos mínimos. Para reduzir o impacto ambiental do transporte rodoviário, convém, pois, estabelecer disposições que incentivem os utilizadores finais a adquirir pneus energeticamente mais eficientes, prestando informações harmonizadas acerca deste parâmetro.\n\n(8) O ruído do tráfego é muito incomodativo e tem efeitos prejudiciais na saúde. O Regulamento (CE) n.º 661/2009 estabelece requisitos mínimos para a resistência dos pneus ao rolamento. Os avanços tecnológicos permitem diminuir significativamente o ruído exterior de rolamento e ir mais além desses requisitos mínimos. Para reduzir o ruído produzido pelo tráfego, convém, pois, estabelecer disposições que incentivem os utilizadores finais a adquirir pneus que produzam um menor ruído exterior de rolamento, prestando informações harmonizadas acerca deste parâmetro.\n\n(9) A prestação de informações harmonizadas sobre o ruído exterior de rolamento facilitará igualmente a aplicação de medidas contra o ruído do tráfego e contribuirá para uma maior sensibilização para o efeito dos pneus nesse ruído, no quadro da Directiva 2002/49/CE do Parlamento Europeu e do Conselho, de 25 de Junho de 2002, relativa à avaliação e gestão do ruído ambiente [([^4])](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntr4-L_2009342PT.01004601-E0004).\n\n(10) O Regulamento (CE) n.º 661/2009 estabelece requisitos mínimos para a aderência dos pneus em pavimento molhado. Os avanços tecnológicos permitem melhorar significativamente a aderência em pavimento molhado, indo mais além desses requisitos mínimos, e reduzir assim as distâncias de travagem em pavimento molhado. Para melhorar a segurança rodoviária, convém, pois, estabelecer disposições que incentivem os utilizadores finais a adquirir pneus de alto desempenho em matéria de aderência em pavimento molhado, prestando informações harmonizadas acerca deste parâmetro.\n\n(11) A prestação de informações sobre a aderência em pavimento molhado pode não ter em conta o desempenho primário dos pneus especificamente concebidos para condições de neve e gelo. Tendo em conta o facto de não existirem ainda métodos de ensaio harmonizados para esses pneus, convém prever a possibilidade de adaptar posteriormente a classe de aderência.\n\n(12) A prestação de informações sobre os parâmetros dos pneus na forma de rótulo normalizado é susceptível de influenciar as decisões de compra dos utilizadores finais no sentido de pneus mais seguros, mais silenciosos e mais eficientes em termos energéticos. É provável que, por sua vez, isso incentive os fabricantes de pneus a optimizarem os referidos parâmetros, abrindo assim caminho a um consumo e a uma produção mais sustentáveis.\n\n(13) A multiplicidade de regras em matéria de rotulagem dos pneus nos diversos Estados-Membros criaria barreiras ao comércio intracomunitário e aumentaria a carga administrativa e os custos dos ensaios para os fabricantes de pneus.\n\n(14) Os pneus de substituição representam 78 % do mercado de pneus. Justifica-se, por conseguinte, informar os utilizadores finais acerca dos parâmetros dos pneus de substituição, assim como dos pneus que equipam os veículos novos.\n\n(15) A prestação de mais informações sobre a eficiência energética dos pneus e sobre outros parâmetros é relevante para os consumidores, incluindo os gestores de frotas e as empresas de transporte, que, na falta de um sistema de rotulagem e de ensaio harmonizado, não podem facilmente comparar os parâmetros das diferentes marcas de pneus. Importa, portanto, incluir os pneus das classes C1, C2 e C3 no âmbito de aplicação do presente regulamento.\n\n(16) O rótulo energético que classifica os produtos numa escala de «A a G», aplicado aos electrodomésticos nos termos da Directiva 92/75/CEE do Conselho, de 22 de Setembro de 1992, relativa à indicação do consumo de energia e outros recursos dos aparelhos domésticos por meio de rotulagem e outras indicações uniformes relativas aos produtos [([^5])](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntr5-L_2009342PT.01004601-E0005), é bem conhecido dos consumidores e provou ser eficaz na promoção de aparelhos mais eficientes. Deverá utilizar-se o mesmo formato para o rótulo da eficiência energética dos pneus.\n\n(17) A exibição de um rótulo nos pneus no ponto de venda e também no material técnico promocional deverá garantir que os distribuidores, assim como os potenciais utilizadores finais, recebam informações harmonizadas sobre a eficiência energética dos pneus, a sua aderência em pavimento molhado e o respectivo ruído exterior de rolamento no momento e no local em que é tomada a decisão de compra.\n\n(18) Alguns utilizadores finais escolhem os pneus antes de chegarem ao ponto de venda ou encomendam-nos pelo correio. Para garantir que esses utilizadores finais também possam fazer uma escolha informada com base em informações harmonizadas acerca da eficiência energética dos pneus, do seu desempenho em termos de aderência em pavimento molhado e do respectivo ruído exterior de rolamento, todo o material técnico promocional, nomeadamente o material disponibilizado na internet, deverá ostentar rótulos. O material técnico promocional não inclui anúncios em cartazes, jornais, revistas, emissões de rádio, televisão ou formatos em linha semelhantes.\n\n(19) Os potenciais utilizadores finais deverão obter informações que expliquem cada um dos elementos do rótulo e a sua relevância. Essas informações deverão ser incluídas no material técnico promocional, nomeadamente nos sítios *web* dos fornecedores.\n\n(20) As informações deverão ser prestadas de acordo com métodos de ensaio harmonizados, que devem ser fiáveis, exactos e reproduzíveis, para permitir que os utilizadores finais comparem os diferentes pneus e que os fabricantes limitem os custos de ensaio.\n\n(21) Para reduzirem as emissões de gases com efeito de estufa e aumentarem a segurança dos transportes rodoviários, alguns Estados-Membros poderão estabelecer incentivos à aquisição de pneus energeticamente eficientes, mais seguros e mais silenciosos. Convém definir categorias mínimas de eficiência energética e de aderência em pavimento molhado abaixo das quais esses incentivos não possam ser concedidos, para evitar a fragmentação do mercado interno. Esses incentivos poderão constituir auxílios estatais. O presente regulamento não poderá prejudicar os resultados de eventuais processos relativos a auxílios estatais que possam ser intentados ao abrigo dos artigos 87.º e 88.º do Tratado e não poderá abranger matérias tributárias e fiscais.\n\n(22) O cumprimento das disposições sobre rotulagem pelos fornecedores e distribuidores é essencial para atingir os objectivos dessas disposições e para garantir condições equitativas em toda a Comunidade. Os Estados-Membros deverão, por conseguinte, monitorizar esse cumprimento através da fiscalização do mercado e de controlos regulares *ex post* nos termos, em particular, do Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho, de 9 de Julho de 2008, que estabelece os requisitos de acreditação e fiscalização do mercado relativos à comercialização de produtos [([^6])](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntr6-L_2009342PT.01004601-E0006).\n\n23. Na execução das disposições relevantes do presente regulamento, o Estados-Membros deverão evitar medidas que imponham obrigações injustificadas, burocráticas e rígidas às pequenas e médias empresas.\n\n(24) Os fornecedores e distribuidores de pneus deverão ser incentivados a cumprirem o disposto no presente regulamento antes de 2012, para acelerar o reconhecimento do rótulo e a concretização das suas vantagens.\n\n(25) As medidas necessárias à aplicação do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^7])](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntr7-L_2009342PT.01004601-E0007).\n\n(26) Em especial, deverá ser atribuída competência à Comissão para impor requisitos de classificação no que respeita à aderência em pavimento molhado dos pneus das classes C2 e C3, para adaptar a classificação dos pneus especificamente concebidos para condições de neve e gelo e para adaptar os anexos ao progresso técnico, incluindo os métodos de ensaio e as tolerâncias relevantes. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais do presente regulamento, complementando-o, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(27) O presente regulamento deverá ser avaliado para determinar a compreensão do rótulo pelos utilizadores finais e a capacidade do mesmo para transformar o mercado,\n\nAPROVARAM O PRESENTE REGULAMENTO:"
+  },
+  "0214041d6cb1e816": {
+   "fragment_id": "Artigo 1.º — Objectivo e objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e objecto\n\n1. O objectivo do presente regulamento é aumentar a segurança e a eficiência económica e ambiental do transporte rodoviário através da promoção de pneus energeticamente eficientes, seguros e com baixas emissões sonoras.\n\n2. O presente regulamento estabelece um quadro para a prestação de informações harmonizadas sobre os parâmetros dos pneus através de rotulagem, permitindo que os utilizadores finais façam escolhas informadas na aquisição de pneus."
+  },
+  "3015f3d8298b3370": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se aos pneus C1, C2 e C3.\n\n2. O presente regulamento não se aplica a:\n\na) Pneus recauchutados;\n\nb) Pneus todo-o-terreno profissionais;\n\nc) Pneus concebidos exclusivamente para equiparem veículos matriculados pela primeira vez antes de 1 de Outubro de 1990;\n\nd) Pneus sobresselentes de utilização temporária do tipo T;\n\ne) Pneus cuja categoria de velocidade seja inferior a 80 km/h;\n\nf) Pneus cujo diâmetro nominal da jante não exceda 254 mm ou seja igual ou superior a 635 mm;\n\ng) Pneus equipados com dispositivos suplementares para melhorar as propriedades de tracção, como os pneus com pregos;\n\nh) Pneus concebidos apenas para equiparem veículos destinados exclusivamente a corridas de automóveis."
+  },
+  "768fd861f39bdd54": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1. «Pneus C1, C2 e C3», as classes de pneus definidas no artigo 8.º do Regulamento (CE) n.º 661/2009;\n\n2. «Pneus sobresselentes de utilização temporária do tipo T», pneus sobresselentes de utilização temporária previstos para utilização a uma pressão de enchimento superior à prescrita para pneus convencionais e reforçados;\n\n3. «Ponto de venda», o local onde os pneus estão expostos ou armazenados e à venda para os utilizadores finais, incluindo os salões de exposição de automóveis no que respeita aos pneus não montados nos veículos e que estão à venda para os utilizadores finais;\n\n4. «Material técnico promocional», manuais técnicos, brochuras, prospectos e catálogos (impressos, em formato electrónico, ou em linha), assim como páginas internet, utilizados na promoção de pneus e destinados aos utilizadores finais ou distribuidores, que descrevem os parâmetros específicos dos pneus;\n\n5. «Documentação técnica», informações relativas aos pneus, incluindo o fabricante e a marca do pneu; descrição do tipo de pneu ou do grupo de pneus determinado para efeitos da declaração da classe de eficiência energética, da classe de aderência em pavimento molhado e do valor do ruído exterior de rolamento; os relatórios dos ensaios e a exactidão dos mesmos;\n\n6. «Fabricante», a pessoa singular ou colectiva que fabrique um produto ou o faça projectar ou fabricar e o comercialize em seu nome ou sob a sua marca;\n\n7. «Importador», qualquer pessoa singular ou colectiva estabelecida na Comunidade que coloque um produto proveniente de um país terceiro no mercado comunitário;\n\n8. «Mandatário», a pessoa singular ou colectiva estabelecida na Comunidade, mandatada por escrito pelo fabricante para praticar determinados actos em seu nome em cumprimento de deveres que lhe são impostos pelo presente regulamento;\n\n9. «Fornecedor», o fabricante ou o seu mandatário na Comunidade ou o importador;\n\n10. «Distribuidor», a pessoa singular ou colectiva no circuito comercial, além do fabricante ou do importador, que disponibilize pneus no mercado;\n\n11. «Disponibilização no mercado», a oferta de um produto para distribuição ou utilização no mercado comunitário no âmbito de uma actividade comercial, a título oneroso ou gratuito;\n\n12. «Utilizador final», um consumidor, bem como um gestor de frota ou uma empresa de transporte rodoviário, que compre ou se prevê que compre um pneu;\n\n13. «Parâmetro essencial», um parâmetro dos pneus, como a resistência ao rolamento, a aderência em pavimento molhado ou o ruído exterior de rolamento, que produz um impacto assinalável no ambiente, na segurança rodoviária ou na saúde durante a utilização do pneu."
+  },
+  "0e1d86b7f00ed85f": {
+   "fragment_id": "Artigo 4.º — Responsabilidades dos fornecedores de pneus",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Responsabilidades dos fornecedores de pneus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidades dos fornecedores de pneus\n\n1. Os fornecedores devem garantir que os pneus C1 e C2 entregues aos distribuidores ou aos utilizadores finais:\n\na) Têm aplicado no seu piso um autocolante com a indicação da classe de eficiência energética nos termos do anexo I, parte A, a classe e o valor medido do ruído exterior de rolamento nos termos do anexo I, parte C, e, se for esse o caso, a classe de aderência em pavimento molhado nos termos do anexo I, parte B; ou\n\nb) Para cada lote de um ou mais pneus entregues, são acompanhados de um rótulo impresso com a indicação da classe de eficiência energética nos termos do anexo I, parte A, a classe e o valor medido do ruído exterior de rolamento nos termos do anexo I, parte C, e, se for esse o caso, a classe de aderência em pavimento molhado nos termos do anexo I, parte B.\n\n2. Os formatos do autocolante e do rótulo referidos no n.º 1 devem cumprir o disposto no anexo II.\n\n3. Os fornecedores devem declarar, no material técnico promocional, incluindo nas suas páginas internet, a classe de eficiência energética, a classe e o valor medido do ruído exterior de rolamento e, se for esse o caso, a classe de aderência em pavimento molhado dos pneus C1, C2 e C3, nos termos do anexo I, pela ordem especificada no anexo III.\n\n4. Os fornecedores devem manter a documentação técnica à disposição das autoridades dos Estados-Membros que a solicitem, durante um período de cinco anos a contar da data em que o último pneu de um determinado tipo tenha sido disponibilizado no mercado. A documentação técnica deve ser suficientemente detalhada para permitir às autoridades verificarem a exactidão das informações prestadas no rótulo sobre a eficiência energética, a aderência em pavimento molhado e o ruído exterior de rolamento."
+  },
+  "e99bc0ca0ed3b516": {
+   "fragment_id": "Artigo 5.º — Responsabilidades dos distribuidores de pneus",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Responsabilidades dos distribuidores de pneus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Responsabilidades dos distribuidores de pneus\n\n1. Os distribuidores devem garantir que:\n\na) No ponto de venda, os pneus ostentem em local claramente visível o autocolante disponibilizado pelos fornecedores nos termos da alínea a) do n.º 1 do artigo 4.º; ou\n\nb) Antes da venda do pneu, o rótulo referido na alínea b) do n.º 1 do artigo 4.º esteja claramente à vista do utilizador final, na proximidade imediata do pneu no ponto de venda.\n\n2. Caso os pneus para venda não estejam à vista do utilizador final, os distribuidores devem prestar-lhe informações sobre a classe de eficiência energética, de aderência em pavimento molhado e a classe e o valor medido do ruído exterior de rolamento desses pneus.\n\n3. Para os pneus C1, C2 e C3, os distribuidores devem declarar, nas facturas entregues ao utilizador final no momento da compra ou juntamente com estas, a classe de eficiência energética, o valor medido do ruído exterior de rolamento e, se for esse o caso, a classe de aderência em pavimento molhado nos termos do anexo I."
+  },
+  "2c6e552917059967": {
+   "fragment_id": "Artigo 6.º — Responsabilidades dos fornecedores e dos distribuidores de veículos",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Responsabilidades dos fornecedores e dos distribuidores de veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Responsabilidades dos fornecedores e dos distribuidores de veículos\n\nSempre que seja oferecida aos utilizadores finais a escolha entre vários tipos de pneus para montagem num veículo novo que tencionem adquirir, os fornecedores e distribuidores de veículos devem, antes da venda e para cada pneu oferecido, prestar-lhes informações sobre a classe de eficiência energética, a classe e o valor medido do ruído exterior de rolamento e, se for esse o caso, a classe de aderência em pavimento molhado dos pneus C1, C2 e C3, nos termos do anexo I e na ordem especificada no anexo III. Essas informações devem ser incluídas, pelo menos, no material técnico promocional."
+  },
+  "5a2cc9c8cb970098": {
+   "fragment_id": "Artigo 7.º — Métodos de ensaio harmonizados",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Métodos de ensaio harmonizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Métodos de ensaio harmonizados\n\nAs informações a prestar nos termos dos artigos 4.º, 5.º e 6.º relativamente à classe de eficiência energética, à classe e ao valor medido do ruído exterior de rolamento e à classe de aderência em pavimento molhado dos pneus devem ser obtidas através da aplicação dos métodos de ensaio harmonizados a que se refere o anexo I."
+  },
+  "454a2bd7790968ad": {
+   "fragment_id": "Artigo 8.º — Procedimento de verificação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Procedimento de verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimento de verificação\n\nOs Estados-Membros avaliam a conformidade das classes declaradas de eficiência energética e de aderência em pavimento molhado, na acepção do anexo I, partes A e B, e da classe e do valor medido do ruído exterior de rolamento declarados, na acepção do anexo I, parte C, nos termos do anexo IV."
+  },
+  "a32e41586dc293cd": {
+   "fragment_id": "Artigo 9.º — Mercado interno",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Mercado interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Mercado interno\n\n1. Sempre que se cumpram os requisitos do presente regulamento, os Estados-Membros não podem proibir nem restringir a disponibilização no mercado dos pneus a que se refere o artigo 2 por motivos relacionados com as informações sobre o produto.\n\n2. Salvo prova em contrário, os Estados-Membros consideram que os rótulos e as informações sobre o produto cumprem o disposto no presente regulamento. Aqueles podem exigir aos fornecedores a apresentação de documentação técnica, nos termos do n.º 4 do artigo 4.º, para avaliar a exactidão dos valores e classes declarados."
+  },
+  "85ba501fac58ff9c": {
+   "fragment_id": "Artigo 10.º — Incentivos",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Incentivos\n\nOs Estados-Membros não podem conceder incentivos no que respeita a pneus classificados abaixo da classe C de eficiência energética ou de aderência em pavimento molhado, na acepção do anexo I, partes A e B respectivamente. As medidas tributárias e fiscais não constituem incentivos para efeitos do presente regulamento."
+  },
+  "5fcaf563bb47be53": {
+   "fragment_id": "Artigo 11.º — Alterações e adaptação ao progresso técnico",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Alterações e adaptação ao progresso técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alterações e adaptação ao progresso técnico\n\nAs seguintes medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, nomeadamente completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 13.º:\n\na) Introdução de requisitos em matéria de informação no que respeita à aderência em pavimento molhado para os pneus C2 e C3, desde que estejam disponíveis métodos de ensaio harmonizados adequados;\n\nb) Adaptação, caso se justifique, da classificação da aderência às especificidades técnicas dos pneus concebidos com o principal objectivo de obterem, em condições de gelo e/ou neve, um desempenho melhor do que o dos pneus normais no que respeita à sua capacidade para iniciar, manter ou suspender a marcha do veículo;\n\nc) Adaptação dos anexos I a IV ao progresso técnico."
+  },
+  "ba1c2110e172e51c": {
+   "fragment_id": "Artigo 12.º — Cumprimento",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Cumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cumprimento\n\nNos termos do Regulamento (CE) n.º 765/2008, os Estados-Membros garantem que as autoridades responsáveis pela fiscalização do mercado verifiquem o cumprimento das exigências dos artigos 4.º, 5.º e 6.º do presente regulamento."
+  },
+  "1dd37889831caf3e": {
+   "fragment_id": "Artigo 13.º — Procedimento de Comité",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Procedimento de Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Procedimento de Comité\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "4b59cf53d7aeae3f": {
+   "fragment_id": "Artigo 14.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Revisão\n\n1. A Comissão avalia a necessidade de rever o presente regulamento, tomando em consideração nomeadamente:\n\na) A eficácia do rótulo em termos de sensibilização dos utilizadores finais, em especial se o disposto na alínea b) do n.º 1 do artigo 4.º for tão eficaz para a consecução dos objectivos do presente regulamento como o disposto na alínea a) do n.º 1 do artigo 4.º;\n\nb) A possibilidade de alargar o sistema de rotulagem aos pneus recauchutados;\n\nc) A necessidade de introduzir novos parâmetros para os pneus, tais como a quilometragem;\n\nd) As informações sobre parâmetros dos pneus prestadas pelos fornecedores e pelos distribuidores de veículos aos utilizadores finais.\n\n2. A Comissão apresenta o resultado desta avaliação ao Parlamento Europeu e ao Conselho até 1 de Março de 2016 e, se for caso disso, apresenta propostas ao Parlamento Europeu e ao Conselho."
+  },
+  "6b9da6e2b4b273ef": {
+   "fragment_id": "Artigo 15.º — Disposição transitória",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposição transitória\n\nOs artigos 4.º e 5.º não se aplicam aos pneus produzidos antes de 1 de Julho de 2012."
+  },
+  "b1202ec1b1686868": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Novembro de 2012.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 25 de Novembro de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BUZEK**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**Å. TORSTENSSON**\n\n---"
+  },
+  "b78a8326c8af6976": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntc1-L_2009342PT.01004601-E0001) [JO C 228 de 22.9.2009, p. 81](http://publications.europa.eu/resource/oj/JOC_2009_228_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntc2-L_2009342PT.01004601-E0002) Parecer do Parlamento Europeu de 22 de Abril de 2009 (ainda não publicado no Jornal Oficial), Posição Comum do Conselho de 20 de Novembro de 2009 (ainda não publicada no Jornal Oficial) e Posição do Parlamento Europeu de 24 de Novembro de 2009 (ainda não publicada no Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntc3-L_2009342PT.01004601-E0003) [JO L 200 de 31.7.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_200_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntc4-L_2009342PT.01004601-E0004) [JO L 189 de 18.7.2002, p. 12](http://publications.europa.eu/resource/oj/JOL_2002_189_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntc5-L_2009342PT.01004601-E0005) [JO L 297 de 13.10.1992, p. 16](http://publications.europa.eu/resource/oj/JOL_1992_297_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntc6-L_2009342PT.01004601-E0006) [JO L 218 de 13.8.2008, p. 30](http://publications.europa.eu/resource/oj/JOL_2008_218_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/9c8fccaa-0dca-4748-815d-8f04a3d1c732.0019.02/DOC_1#ntc7-L_2009342PT.01004601-E0007) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC)."
+  },
+  "f01258e52488d6e9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02009R1222 — PT — 01.05.2021 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32009R1222) [REGULAMENTO (CE) N.º 1222/2009 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32009R1222) [de 25 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1222) [relativo à rotulagem dos pneus no que respeita à eficiência energética e a outros parâmetros essenciais](http://publications.europa.eu/resource/celex/32009R1222) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009R1222) (JO L 342, 22.12.2009, p.46)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2020/740 do Parlamento Europeu e do Conselho de 25 de maio de 2020](http://publications.europa.eu/resource/celex/32020R0740) — L 177 — 1 — 5.6.2020"
+  }
+ }
+}

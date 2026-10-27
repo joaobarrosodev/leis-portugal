@@ -1,0 +1,674 @@
+---
+schema_version: '1.0'
+id: pt:dre:210543863:por
+title: Decreto-Lei n.º 20-B/2023
+short_title: null
+summary: Cria apoios extraordinários de apoio às famílias para pagamento da renda e da prestação de contratos de crédito
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Finanças e Habitação
+official_number: 20-B/2023
+official_date: null
+publication_date: '2023-03-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 58/2023, 1º Suplemento, Série I de 2023-03-22
+  number: '58'
+  series: I
+  supplement: 1º Suplemento
+  pages: 38-(32) a 38-(40)
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05801/0003200040.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-07-03'
+version_history:
+  file: decreto-lei-20-b-2023.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2023-03-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-10-07'
+    amending: pt:dre:222477692:por
+    amending_title: Lei n.º 56/2023
+    changes:
+    - Adita Artigo 5.º-A
+  - date: '2023-10-12'
+    amending: pt:dre:222645051:por
+    amending_title: Decreto-Lei n.º 91/2023
+    changes:
+    - Adita Artigo 14.º-A
+    - Adita Artigo 21.º-A
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 25.º
+  - date: '2023-11-10'
+    amending: pt:dre:224081985:por
+    amending_title: Decreto-Lei n.º 103-B/2023
+    changes:
+    - Adita Artigo 5.º-B
+    - Adita Artigo 10.º-A
+    - Adita Artigo 24.º-A
+    - Adita Artigo 24.º-B
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+  - date: '2024-07-03'
+    amending: pt:dre:870515825:por
+    amending_title: Decreto-Lei n.º 43/2024
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/20-b/2023/p/cons/20240702/pt/html
+  oj: null
+  dre: '210543863'
+  dre_path: /dr/detalhe/decreto-lei/20-b-2023-210543863
+  internal: pt:dre:210543863:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-b-2023-210543863
+  metadata_url: https://data.dre.pt/eli/dec-lei/20-b/2023/p/cons/20240702/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-210911375
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-210911375
+  retrieved_at: '2026-10-22T12:55:49Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3869acc00b2624ff71bd2f747cd6d428036c758a8b95557f3f25f79ff02e5788
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:55:49Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-20-b-2023.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Autoridade Tributária e Aduaneira
+- Beneficiário
+- Política Fiscal
+- Política de Família
+- Supervisão Financeira
+- Consumidor
+- Contrato de Financiamento
+- Crédito à Habitação
+- Crédito ao Consumo
+- Direção Geral do Tesouro e Finanças
+- Banco de Portugal
+- IRS
+- Instituição Financeira de Crédito
+- Crédito Bancário
+- Instituto da Habitação e da Reabilitação Urbana
+- Política de Habitação
+- Informação do Consumidor
+- Proteção do Consumidor
+- Segurança Social
+- Subsídio de Apoio Social
+- Rendimento Anual Bruto Corrigido
+- TAXA de JURO
+- Direito à Habitação
+- Subsídio de Apoio ao Cuidador Informal Principal
+- Apoio Extraordinário a Titulares de Rendimentos e Prestações Sociais
+relationships:
+- type: amended_by
+  target: pt:dre:222477692:por
+  label: Adita Artigo 5.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692
+  date: '2023-10-06'
+- type: amended_by
+  target: pt:dre:222645051:por
+  label: Adita Artigo 14.º-A; Adita Artigo 21.º-A; Altera Artigo 14.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo
+    25.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2023-222645051
+  date: '2023-10-11'
+- type: amended_by
+  target: pt:dre:224081985:por
+  label: Adita Artigo 5.º-B; Adita Artigo 10.º-A; Adita Artigo 24.º-A; Adita Artigo 24.º-B; Altera Artigo 4.º; Altera Artigo
+    5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985
+  date: '2023-11-09'
+- type: amended_by
+  target: pt:dre:870515825:por
+  label: Altera Artigo 3.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2024-870515825
+  date: '2024-07-02'
+- type: cites
+  target: pt:dre:107561581:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74-a/2017/06/23/p/dre
+- type: cites
+  target: pt:dre:179064:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/175/2012/08/02/p/dre
+- type: cites
+  target: pt:dre:203898270:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/80-a/2022/11/25/p/dre
+- type: cites
+  target: pt:dre:205557210:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/90-c/2022/12/30/p/dre
+- type: cites
+  target: pt:dre:275619:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+article_structure:
+  article_count: 33
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:55:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 20-B/2023
+
+Decreto-Lei n.º 20-B/2023
+
+de 22 de março
+
+Sumário: Cria apoios extraordinários de apoio às famílias para pagamento da renda e da prestação de contratos de crédito.
+
+Nos últimos anos, o Governo assumiu o seu compromisso com a habitação pública e com o reforço do papel do Estado na promoção direta de respostas habitacionais, fundamental para inverter um paradigma de resposta fundamentalmente centrado no mercado privado e que foi incapaz de assegurar a provisão e acesso à habitação para todos.
+
+Esta necessidade de robustecer o parque habitacional público não invalida, contudo, a importância de um mercado de arrendamento privado saudável e que proporcione rendas a preços compatíveis com os rendimentos das famílias.
+
+Por este motivo, é fulcral adotar-se mecanismos de articulação com o mercado de arrendamento privado, com especial enfoque na criação de resposta mais imediatas para as famílias com menores rendimentos e rendimentos médios, conforme veio já cuidar o Decreto-Lei n.º 90-C/2022, de 30 de dezembro, que prevê a melhoria e o aumento do leque de jovens que podem aceder ao programa Porta 65 - Arrendamento por Jovens, em particular através da atualização dos tetos máximos de renda, e uma revisão operacional, tendo em vista a simplificação e desburocratização do Programa de Apoio ao Arrendamento.
+
+A promoção de políticas públicas de habitação não deve ser estática e deve ter a capacidade de se adaptar às necessidades sentidas em cada momento pela população. Neste sentido, o Governo, consciente do contexto geopolítico e geoeconómico atual, que se traduziu na maior taxa de inflação dos últimos anos e, por consequência, dos custos de vida, aprova um novo conjunto de respostas mais imediatas que visam fazer frente aos impactos económicos referidos com efeitos diretos nos rendimentos das famílias e no acesso à habitação.
+
+Por um lado, é criado um apoio extraordinário à renda, destinado a arrendatários com taxas de esforço superiores a 35 %, com rendimentos até ao limite máximo do sexto escalão do imposto sobre o rendimento das pessoas singulares (IRS) e com contratos celebrados até 15 de março de 2023, que permite apoiar já no imediato as famílias num valor de apoio que poderá ascender aos (euro) 200 mensais, pago pela segurança social.
+
+Este apoio, que é atribuído oficiosamente, sem necessidade de pedido, destina-se ainda às pessoas que, não sendo obrigadas à entrega de declaração anual do IRS, tenham rendimentos mensais de trabalho declarados à segurança social ou sejam beneficiárias de prestações sociais, até ao montante mensal correspondente a 1/14 do limite máximo do sexto escalão do IRS.
+
+Por outro lado, o atual contexto de inflação originou uma aceleração na normalização da política monetária do Banco Central Europeu, invertendo a tendência de taxas de juro reduzidas. Assim, tem-se assistido a um acréscimo dos indexantes de referência que são utilizados para definir a componente variável da taxa de juro aplicável em contratos de crédito para aquisição ou construção de habitação própria permanente.
+
+Em Portugal, a maioria dos créditos à habitação são contratados com taxa de juro variável. Em consequência, o aumento do serviço da dívida associado à variação dos indexantes de referência nos contratos de crédito à habitação revela-se significativo.
+
+A concessão de crédito à habitação é acompanhada por uma avaliação prévia dos mutuários, de modo a aferir a respetiva capacidade financeira, designadamente através da aplicação de critérios de solvabilidade em cenários mais gravosos em termos de taxa de esforço mensal.
+
+Para mitigar o risco de incumprimento decorrente do impacto do aumento de indexantes de referência em contratos de crédito, nomeadamente por força da taxa de esforço, o Decreto-Lei n.º 80-A/2022, de 25 de novembro, estabeleceu um conjunto de procedimentos de acompanhamento, avaliação e, verificadas certas condições, de apresentação de propostas de clientes.
+
+Não obstante, considera-se necessário atender à realidade efetivamente sentida pelas famílias, decorrente da rápida variação do indexante de referência, com incidência num dos principais encargos do orçamento familiar, o crédito para a aquisição ou construção de habitação própria permanente, através da criação de medidas que mitiguem o seu impacto.
+
+Neste contexto, procede-se à criação de um apoio aos mutuários de contratos de crédito para aquisição ou construção de habitação própria permanente, abrangidos pelo Decreto-Lei n.º 74-A/2017, de 23 de junho, na sua redação atual, sob a forma de bonificação temporária de juros quando o indexante ultrapasse um determinado limiar.
+
+Por fim, determina-se que, quando o contrato de crédito se destine à aquisição ou construção de habitação própria permanente, o mutuante deve permitir ao consumidor optar por uma modalidade de taxa de juro variável, fixa ou mista.
+
+Através destas medidas, com o objetivo concreto de proteger as famílias e aumentar o seu rendimento disponível, aprofunda-se a concretização do desígnio nacional de garantir habitação digna a todos.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.
+
+Foi promovida a audição da Associação Nacional de Freguesias.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à criação de apoios extraordinários e temporários de apoio às famílias para pagamento:
+
+a) Da renda de contrato de arrendamento ou subarrendamento de primeira habitação;
+
+b) Da prestação de contratos de crédito para aquisição, obras ou construção de habitação própria e permanente.
+
+###### Artigo 2.º — Âmbito territorial
+
+O presente decreto-lei é aplicável em todo o território nacional.
+
+###### Artigo 3.º — Âmbito de aplicação
+
+1 - Os apoios extraordinários criados pelo presente decreto-lei aplicam-se a obrigações emergentes de contratos celebrados até 15 de março de 2023.
+
+2 - O disposto no número anterior aplica-se, excecional e temporariamente, a contratos de arrendamento celebrados após 15 de março de 2023, em que comprovadamente o contrato de arrendamento anterior tenha cessado, por iniciativa do senhorio, e o contrato em vigor diga respeito ao mesmo locatário e ao mesmo imóvel, devendo corresponder à habitação permanente e domicílio fiscal do respetivo arrendatário ou subarrendatário beneficiário.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2024 - Diário da República n.º 126/2024, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2024-870515825), em vigor a partir de 2024-07-03
+
+###### Artigo 4.º — Beneficiários
+
+1 - Podem beneficiar dos apoios extraordinários à renda ou à prestação creditícia os agregados familiares que, cumulativamente:
+
+a) Tenham residência fiscal em Portugal;
+
+b) Sejam titulares de contratos de arrendamento ou subarrendamento de primeira habitação, devidamente registados junto da Autoridade Tributária e Aduaneira (AT), ou de contrato de mútuo para compra, obras ou construção de habitação própria e permanente;
+
+c) Tenham um rendimento anual igual ou inferior ao limite máximo do sexto escalão da tabela prevista no n.º 1 do artigo 68.º do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), aprovado em anexo ao Decreto-Lei n.º 442-A/88, de 30 de novembro, na sua redação atual, em vigor à data da atribuição do apoio;
+
+d) Tenham uma taxa de esforço igual ou superior a 35 % do seu rendimento anual com os encargos anuais de pagamento das rendas ou das prestações creditícias abrangidas pelo presente decreto-lei.
+
+2 - Podem ainda beneficiar dos apoios previstos no presente decreto-lei as pessoas singulares que, reunindo os requisitos indicados nas alíneas a), b) e d) do número anterior, não estejam obrigadas à entrega de declaração anual do IRS e que tenham rendimentos mensais de trabalho declarados à segurança social ou sejam beneficiárias das seguintes prestações sociais:
+
+a) Pensões de velhice, sobrevivência, invalidez ou pensões sociais;
+
+b) Prestações de desemprego;
+
+c) Prestações de parentalidade;
+
+d) Subsídios de doença e doença profissional, com período de atribuição não inferior a um mês;
+
+e) Rendimento social de inserção;
+
+f) Prestação social para a inclusão;
+
+g) Complemento solidário para idosos;
+
+h) Subsídio de apoio ao cuidador informal principal.
+
+3 - Podem ainda beneficiar dos apoios previstos no presente decreto-lei as pessoas singulares que, reunindo os requisitos indicados nas alíneas a), b) e d) do n.º 1, não estejam obrigadas à entrega de declaração anual do IRS e que sejam beneficiárias de pensões por aposentação, reforma e sobrevivência do regime de proteção social convergente, bem como de prestações enquadradas no seguro social voluntário atribuídas aos bolseiros de investigação nele inscritos.
+
+4 - Para efeitos do disposto nos n.os 2 e 3, o total mensal de rendimentos não pode ultrapassar o montante correspondente a 1/14 do valor do limite máximo do sexto escalão da tabela prevista no n.º 1 do artigo 68.º do Código do IRS, em vigor à data da atribuição do apoio.
+
+5 - Em caso de pluralidade de titulares de contrato de arrendamento ou subarrendamento devidamente registado junto da AT, podem beneficiar do apoio extraordinário à renda cada um desses titulares, nos termos previstos nos artigos seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103-B/2023 - Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), em vigor a partir de 2023-11-10, produz efeitos a partir de 2024-01-01
+
+###### Artigo 5.º — Rendimento anual e rendimento médio mensal
+
+1 - Para efeitos do disposto no presente decreto-lei, considera-se «rendimento anual» o total do rendimento para determinação da taxa apurado pela AT na liquidação do IRS do beneficiário referente ao último período de tributação disponível.
+
+2 - No caso dos beneficiários casados ou unidos de facto, o rendimento anual é apurado:
+
+a) Quando tenham optado pela tributação conjunta, pela aplicação do quociente familiar ao total do rendimento para determinação da taxa do IRS apurado relativamente aos dois sujeitos passivos na sua liquidação conjunta, referente ao último período de tributação disponível;
+
+b) Quando tenham optado pela tributação separada, pela aplicação do quociente familiar à soma do total do rendimento para determinação da taxa do IRS apurado na liquidação relativa a cada um dos sujeitos passivos nas suas liquidações individuais, referente ao último período de tributação disponível.
+
+3 - Consideram-se, ainda, para efeitos do disposto no n.º 1 os seguintes rendimentos:
+
+a) Os rendimentos sujeitos a retenção na fonte a título definitivo, mediante aplicação de taxa liberatória, que não tenham sido englobados;
+
+b) Os rendimentos excluídos de tributação ao abrigo do artigo 12.º-A do Código do IRS;
+
+c) Os rendimentos obtidos no estrangeiro a que seja aplicado o método de isenção para efeitos de eliminação da dupla tributação jurídica internacional; e
+
+d) Os montantes de prestações sociais reportadas na declaração modelo 43.
+
+4 - O rendimento médio mensal do agregado familiar corresponde a 1/14 do total do rendimento para determinação da taxa do IRS apurado para os sujeitos passivos do agregado familiar nas liquidações daquele imposto referentes ao último período de tributação disponível.
+
+5 - Nos casos previstos no n.º 2 do artigo anterior, é considerado o total de rendimentos apurados pela segurança social para o agregado familiar do titular do contrato, com base nos três meses precedentes.
+
+6 - Nos casos previstos no n.º 3 do artigo anterior, é considerado o total de rendimentos apurados pela Caixa Geral de Aposentações ou pela Fundação para a Ciência e a Tecnologia, I. P., conforme aplicável, para o agregado familiar titular do contrato, com base nos três meses precedentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103-B/2023 - Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), em vigor a partir de 2023-11-10, produz efeitos a partir de 2024-01-01
+
+###### Artigo 5.º-A — Impenhorabilidade dos apoios extraordinários
+
+Os apoios extraordinários atribuídos nos termos do presente decreto-lei são impenhoráveis.
+
+> Aditado pelo/a Artigo 49.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 5.º-B — Rendimentos abrangidos
+
+1 - O conceito de «rendimento anual» a que se refere o artigo 5.º deve entender-se como incluindo os rendimentos considerados para determinação da taxa geral de IRS aplicável, incluindo as deduções específicas aos rendimentos de IRS considerados para determinação da taxa, bem como os rendimentos considerados para efeitos da aplicação das taxas especiais a que se refere o artigo 72.º do Código do IRS.
+
+2 - O disposto no número anterior tem caráter interpretativo, ficando salvaguardados todos os efeitos já produzidos decorrentes da execução do presente decreto-lei, nos termos do n.º 1 do artigo 13.º do Código Civil.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103-B/2023 - Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), em vigor a partir de 2023-11-10
+
+### Capítulo II — Apoio extraordinário à renda
+
+###### Artigo 6.º — Modelo do apoio
+
+1 - O apoio extraordinário à renda é mensal, não reembolsável, e corresponde a uma percentagem do valor da renda mensal fixado no contrato de arrendamento ou subarrendamento abrangido pelo presente decreto-lei.
+
+2 - O apoio extraordinário à renda é pago até ao dia 20 de cada mês.
+
+3 - O apoio extraordinário à renda suporta a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento médio mensal dos titulares do contrato de arrendamento ou subarrendamento, nos termos dos artigos 5.º e 5.º-B, de uma taxa de esforço máxima de 35 %.
+
+4 - Ao montante do apoio apurado nos termos dos números anteriores são deduzidos os montantes de outros apoios financeiros à renda atribuídos pelo Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.)
+
+5 - O montante mensal do apoio extraordinário à renda tem o limite máximo de (euro) 200.
+
+6 - Quando o montante resultante do disposto nos números anteriores seja inferior a (euro) 20, o apoio é pago semestralmente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103-B/2023 - Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), em vigor a partir de 2023-11-10, produz efeitos a partir de 2024-01-01
+
+###### Artigo 7.º — Valor da renda mensal
+
+1 - O valor da renda mensal, para efeitos do presente apoio, corresponde ao valor da renda comunicado através da declaração modelo 2 do imposto do selo, à AT.
+
+2 - Em caso de pluralidade de titulares de contrato de arrendamento ou subarrendamento devidamente registado junto da AT, o valor da renda mensal é dividido por cada um dos titulares em partes iguais, sempre que não coincida com o agregado familiar.
+
+###### Artigo 8.º — Procedimento de atribuição
+
+1 - O apoio é atribuído oficiosamente pelo IHRU, I. P.
+
+2 - A informação relativa aos apoios atribuídos é transmitida anualmente, até ao dia 15 de novembro, pelo IHRU, I. P., à segurança social, com a indicação do beneficiário e do valor do apoio, para efeitos de pagamento mensal no subsequente ano civil, nos termos do artigo seguinte.
+
+3 - O apoio atribuído nos termos do n.º 1 é pago ao beneficiário pela segurança social por transferência bancária para o IBAN constante do seu sistema de informação.
+
+4 - Para cumprimento do disposto nos n.os 2 e 3, o valor correspondente aos encargos processados é transferido trimestralmente para o Instituto de Gestão Financeira da Segurança Social, I. P., com origem em verbas do Orçamento do Estado.
+
+5 - O presente apoio está enquadrado no subsistema de solidariedade do orçamento da segurança social.
+
+6 - Sem prejuízo do disposto no n.º 1, a atribuição do apoio extraordinário à renda fica sujeita a validação prévia pelos beneficiários dos dados utilizados no respetivo apuramento quando:
+
+a) Existam incongruências entre as declarações fiscais dos rendimentos prediais dos senhorios, as declarações fiscais relativas ao recebimento ou faturação de rendas, as participações dos contratos de arrendamento e as declarações fiscais dos locatários, identificadas pela AT junto do IHRU, I. P.; ou
+
+b) O montante da renda seja superior aos rendimentos dos beneficiários.
+
+7 - A validação prevista no número anterior é efetuada, após a comunicação prevista no n.º 1 do artigo 10.º, no portal da habitação.
+
+8 - Sempre que os beneficiários confirmem os dados utilizados no apuramento do apoio, a informação considera-se validada, não carecendo de evidências adicionais.
+
+9 - Sempre que os beneficiários não confirmem os dados utilizados no apuramento do apoio, podem apresentar evidências que determinem o recálculo do apoio.
+
+10 - Nos casos previstos no número anterior, o IHRU, I. P., remete a informação recebida à AT, à segurança social, à Caixa Geral de Aposentações ou à Fundação para a Ciência e a Tecnologia, I. P., conforme aplicável, para, no prazo de 30 dias, procederem à respetiva validação.
+
+11 - A validação das informações respeitantes aos contratos de arrendamento ou subarrendamento de habitação permanente é efetuada pela AT através de um dos seguintes elementos:
+
+a) Recibos de renda eletrónicos, quanto aos contratos que sejam objeto do apoio;
+
+b) Modelo 44, através do montante das rendas recebidas relativas aos contratos que sejam objeto do apoio;
+
+c) Faturas emitidas pelo senhorio ao inquilino.
+
+12 - Para efeitos do disposto no número anterior, considera-se validada a informação prestada relativa à renda sempre que o valor indicado pelos beneficiários seja igual ou inferior ao apurado pela AT através da mensualização do valor anual das rendas apurado nos termos do número anterior.
+
+13 - A validação das informações respeitantes ao rendimento é efetuada pela AT, segurança social, Caixa Geral de Aposentações ou pela Fundação para a Ciência e a Tecnologia, I. P., consoante o caso, com base nos seus sistemas de informação.
+
+14 - Para efeitos do disposto no número anterior, considera-se validada a informação prestada sempre que o valor do rendimento indicado pelos beneficiários seja igual ou superior ao apurado pelas entidades.
+
+15 - Nos casos em que a informação prestada seja validada, nos termos previstos nos n.os 11 a 14, o IHRU, I. P., procede ao recálculo do valor do apoio e comunica-o à segurança social, até ao dia 5 de cada mês, para posterior processamento dos pagamentos com efeitos retroativos a janeiro do ano civil a que respeita a validação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103-B/2023 - Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), em vigor a partir de 2023-11-10, produz efeitos a partir de 2024-01-01
+
+###### Artigo 9.º — Elementos de informação
+
+1 - A AT transmite anualmente, até ao dia 30 de outubro, ao IHRU, I. P., nos termos do n.º 4 do artigo 20.º do Decreto-Lei n.º 175/2012, de 2 de agosto, na sua redação atual, os seguintes dados:
+
+a) Número de identificação fiscal dos locatários e valor da renda, dos contratos ativos de arrendamento e subarrendamento habitacional permanente de prédios urbanos, com renda mensal, comunicados através da declaração modelo 2 do imposto do selo, desde que o contrato tenha tido início até 15 de março de 2023;
+
+b) Total do rendimento para determinação da taxa, apurado na liquidação, referente à liquidação do IRS daqueles locatários, nos termos dos artigos 5.º e 5.º-B, e por locatário sempre que se trate de agregados familiares distintos;
+
+c) O número de identificação fiscal dos locatários sujeitos a validação prévia dos dados nos termos da alínea a) do n.º 6 do artigo anterior.
+
+2 - Os dados previstos no número anterior apenas são transmitidos pela AT quando:
+
+a) A taxa de esforço for igual ou superior a 35 %;
+
+b) O rendimento anual não seja superior ao limite máximo do sexto escalão da tabela prevista no n.º 1 do artigo 68.º do Código do IRS, em vigor à data da atribuição do apoio;
+
+c) O titular do contrato de arrendamento ou subarrendamento não constar como não residente no País na liquidação do IRS efetuada no ano civil imediatamente anterior, com base nos rendimentos do ano precedente àquele.
+
+3 - A AT, quando não disponha da informação prevista na alínea b) do n.º 1, transmite, anualmente, até ao dia 15 de outubro, à segurança social, à Caixa Geral de Aposentações, à Fundação para a Ciência e a Tecnologia, I. P., e ao IHRU, I. P., os dados previstos na alínea a) do n.º 1, para efeitos de aferição do universo previsto no n.º 2 do artigo 4.º
+
+4 - Após a aferição prevista no número anterior, a segurança social, a Caixa Geral de Aposentações e a Fundação para a Ciência e a Tecnologia, I. P., transmitem anualmente, até ao dia 30 de outubro, ao IHRU, I. P., a informação constante do n.º 2 do artigo 4.º
+
+5 - A AT transmite mensalmente, até ao dia 15 de cada mês, à segurança social, com conhecimento ao IHRU, I. P., nos termos do n.º 4 do artigo 20.º do Decreto-Lei n.º 175/2012, de 2 de agosto, na sua redação atual, as cessações dos contratos identificados na alínea a) do n.º 1.
+
+6 - A segurança social transmite ao IHRU, I. P., mensalmente, informação relativa ao processamento dos pagamentos, bem como a identificação dos beneficiários a quem não foi possível efetuar o pagamento por falta de informação relativa ao IBAN.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103-B/2023 - Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), em vigor a partir de 2023-11-10, produz efeitos a partir de 2024-01-01
+
+###### Artigo 10.º — Comunicação aos agregados elegíveis
+
+1 - Depois de aferidos a elegibilidade e o valor do apoio, nos termos dos artigos 8.º e 9.º, a AT informa os beneficiários dos dados considerados para o apuramento do apoio, o respetivo montante e duração, bem como, nos casos previstos no n.º 6 do artigo 8.º, da necessidade de validação prévia no portal da habitação.
+
+2 - Para efeitos do disposto no número anterior, o IHRU, I. P., transmite anualmente, até ao dia 15 de novembro, à AT, os elementos subjacentes ao apuramento do apoio e respetivo valor atribuído, por NIF de cada beneficiário.
+
+3 - A comunicação referida no n.º 1 é remetida no prazo de cinco dias úteis a contar da comunicação do IHRU, I. P., prevista no número anterior.
+
+4 - Os beneficiários devem comunicar à AT qualquer desconformidade quanto aos dados que serviram de base ao cálculo do apoio extraordinário.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103-B/2023 - Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), em vigor a partir de 2023-11-10, produz efeitos a partir de 2024-01-01
+
+###### Artigo 10.º-A — Reclamações e pedidos de esclarecimento
+
+1 - Sem prejuízo do disposto no n.º 6 e seguintes do artigo 8.º, os beneficiários do apoio podem apresentar reclamações e pedidos de esclarecimento junto do IHRU, I. P., no portal da habitação, no prazo de 60 dias contados da comunicação prevista no n.º 1 do artigo anterior.
+
+2 - Os agregados que não receberem a comunicação prevista no n.º 1 do artigo anterior podem remeter no portal da habitação evidências da respetiva elegibilidade, até ao último dia útil do mês de março do ano a que respeita o apoio.
+
+3 - Nos casos previstos nos números anteriores, o IHRU, I. P., remete a informação recebida à AT, à segurança social, à Caixa Geral de Aposentações ou à Fundação para a Ciência e a Tecnologia, I. P., conforme aplicável, para, no prazo de 30 dias, procederem à respetiva validação, nos termos dos n.os 11 a 14 do artigo 8.º
+
+4 - Sempre que da informação prestada resultem alterações decorrentes do valor do apoio ou da respetiva elegibilidade, o IHRU, I. P., procede ao cálculo ou recálculo do apoio, conforme aplicável, e comunica-o à segurança social até ao dia 5 de cada mês, para posterior processamento dos pagamentos com efeitos retroativos ao momento a partir do qual se verificam tais alterações, com a correspondente compensação em prestações futuras do apoio, quando aplicável.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103-B/2023 - Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), em vigor a partir de 2023-11-10
+
+###### Artigo 11.º — Cessação do apoio
+
+O pagamento do apoio cessa com a comunicação da cessação do contrato de arrendamento ou subarrendamento pela AT, exceto nas situações previstas do n.º 2 do artigo 3.º, ou a requerimento de qualquer dos interessados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 43/2024 - Diário da República n.º 126/2024, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2024-870515825), em vigor a partir de 2024-07-03
+
+###### Artigo 12.º — Norma transitória sobre o apoio extraordinário à renda
+
+1 - O primeiro pagamento do apoio relativo ao ano civil de 2023 computa a totalidade dos montantes devidos desde 1 de janeiro de 2023.
+
+2 - Sem prejuízo do disposto nos artigos 8.º e 9.º, para efeitos de atribuição do apoio extraordinário à renda relativo ao ano de 2023, são considerados os seguintes procedimentos:
+
+a) A AT transmite ao IHRU, I. P., e à segurança social os dados referidos no artigo 9.º, no prazo de 10 dias úteis a contar da entrada em vigor do presente decreto-lei;
+
+b) A segurança social transmite ao IHRU, I. P., as informações constantes do n.º 4 do artigo 9.º, no prazo de 10 dias úteis após a receção dos dados da AT;
+
+c) O IHRU, I. P., transmite à segurança social as informações constantes do n.º 2 do artigo 8.º, no prazo de 10 dias úteis, após a receção dos dados previstos na alínea anterior;
+
+d) O IHRU, I. P., transmite à AT, no mesmo prazo previsto na alínea anterior, os elementos referidos no n.º 2 do artigo 10.º
+
+### Capítulo III — Contratos de crédito para aquisição ou construção de habitação própria permanente
+
+###### Artigo 13.º — Âmbito de aplicação da bonificação temporária
+
+O presente apoio aplica-se aos contratos de crédito para aquisição, construção ou obras em habitação própria permanente, abrangidos pelo Decreto-Lei n.º 74-A/2017, de 23 de junho, na sua redação atual, celebrados com instituições de crédito, sociedades financeiras e sucursais de instituições de crédito e de instituições financeiras a operar em Portugal, doravante designadas por «instituições», que preencham cumulativamente os seguintes requisitos:
+
+a) Sejam contratos a taxa de juro variável ou, sendo contratos a taxa de juro mista, se encontrem em período de taxa de juro variável; e
+
+b) O montante inicialmente contratado seja igual ou inferior a (euro) 250 000.
+
+###### Artigo 14.º — Requisitos de acesso
+
+1 - São elegíveis os mutuários que, sendo beneficiários, nos termos do artigo 4.º, cumpram ainda os seguintes requisitos:
+
+a) Tenham as suas prestações no contrato de crédito referido no artigo anterior devidamente regularizadas;
+
+b) (Revogada.)
+
+c) Tenham um rendimento anual igual ou inferior ao limite máximo do sexto escalão da tabela prevista no n.º 1 do artigo 68.º do Código do IRS ou que, estando acima, tenham sofrido uma quebra superior a 20 % dos seus rendimentos que os enquadre até ao limite máximo do sexto escalão.
+
+2 - Para efeitos do presente apoio, considera-se 'rendimento anual' o rendimento coletável tributado às taxas gerais previstas no artigo 68.º do Código do IRS, acrescido dos rendimentos isentos e englobados para efeitos da determinação da taxa nos termos da legislação fiscal, deduzido do quociente dos rendimentos produzidos em anos anteriores, nos termos do artigo 74.º do Código do IRS, constante da liquidação do IRS do beneficiário referente ao último período de tributação disponível, não sendo elegíveis os mutuários que sejam titulares de património financeiro que inclua, nomeadamente, depósitos, instrumentos financeiros, seguros de capitalização ou certificados de aforro ou Tesouro, com valor total superior a 62 vezes o indexante de apoios sociais (IAS).
+
+3 - Para efeitos do disposto no n.º 1, quando o contrato de crédito tenha mais do que um mutuário, os requisitos de elegibilidade aplicam-se a todos os mutuários conjuntamente.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 91/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2023-222645051), em vigor a partir de 2023-10-12, produz efeitos a partir de 2023-01-01
+
+###### Artigo 14.º-A — Dever de diligência reforçado
+
+Quando os mutuários apresentem uma taxa de esforço igual ou superior a 100 %, as instituições:
+
+a) Aplicam medidas acrescidas de diligência, solicitando os documentos e as informações que entendam adequadas para a verificação dos requisitos para a atribuição da medida;
+
+b) Informam o mutuário de que as entidades responsáveis pela fiscalização do presente decreto-lei podem aceder à informação necessária à confirmação da veracidade das declarações prestadas.
+
+> Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 91/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2023-222645051), em vigor a partir de 2023-10-12
+
+###### Artigo 15.º — Pedido de acesso
+
+1 - O mutuário apresenta, por meio físico ou por meio eletrónico, o pedido de acesso à bonificação junto da respetiva instituição.
+
+2 - Sem prejuízo do disposto no número seguinte, o pedido do mutuário é acompanhado dos seguintes elementos:
+
+a) Última declaração de rendimentos para fins tributários ou última nota de liquidação do imposto do rendimento de pessoas singulares ou, ainda, tratando-se de mutuários que se encontram dispensados da apresentação de declaração de rendimentos, nos termos do artigo 58.º do Código do IRS, qualquer outro documento idóneo que comprove o limite previsto na alínea c) do n.º 1 do artigo anterior;
+
+b) Informação atualizada sobre rendimentos, caso se aplique o disposto na parte final da alínea c) do n.º 1 do artigo anterior;
+
+c) Informação atualizada sobre o respetivo património financeiro.
+
+3 - Para apuramento da taxa de esforço, é aplicável, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 4.º do Decreto-Lei n.º 80-A/2022, de 25 de novembro.
+
+4 - As instituições comunicam ao mutuário, no prazo de 10 dias úteis contados da receção do pedido completo, se preenche os requisitos de elegibilidade de acesso à bonificação.
+
+5 - A bonificação é aplicada na prestação imediatamente seguinte à comunicação prevista no número anterior, sem prejuízo do disposto no n.º 2 do artigo 19.º
+
+6 - É condição para a manutenção da bonificação o cumprimento das prestações referidas na alínea a) do n.º 1 do artigo anterior.
+
+###### Artigo 16.º — Bonificação
+
+1 - A bonificação temporária de juros é aplicável quando o indexante do contrato de crédito for igual ou superior a 3 %.
+
+2 - (Revogado.)
+
+3 - A bonificação incide sobre a diferença entre o valor do indexante apurado contratualmente e o limiar de 3 % referido no n.º 1.
+
+4 - (Revogado.)
+
+5 - A bonificação corresponde a:
+
+a) 100 % do valor apurado nos termos do n.º 3, quando o mutuário tenha uma taxa de esforço igual ou superior a 50 %;
+
+b) 75 % do valor apurado nos termos do n.º 3, quando o mutuário tenha uma taxa de esforço igual ou superior a 35 % e inferior a 50 %.
+
+6 - Quando o montante mensal da bonificação, apurado nos termos dos números anteriores, for inferior a 10 euros, será este o valor mensal atribuído.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 91/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2023-222645051), em vigor a partir de 2023-10-12, produz efeitos a partir de 2023-01-01
+
+###### Artigo 17.º — Montante máximo da bonificação
+
+O montante anual máximo de bonificação, por contrato de crédito, é de 800 euros.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 91/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2023-222645051), em vigor a partir de 2023-10-12
+
+###### Artigo 18.º — Contratos de crédito anteriores a 2011
+
+É descontado ao benefício concedido nos termos do artigo anterior o montante equivalente à dedução à coleta que resulte dos encargos previstos nas alíneas b) a d) do n.º 1 do artigo 78.º-E do Código do IRS, por referência ao último período de tributação disponível.
+
+###### Artigo 19.º — Operacionalização
+
+1 - O pagamento das bonificações de juros é efetuado através de dotações inscritas no capítulo 60 do Orçamento do Estado gerido pela Direção-Geral do Tesouro e Finanças (DGTF).
+
+2 - Os procedimentos a observar entre a DGTF e as instituições, relativos ao pagamento da bonificação, e respetiva gestão, controlo, amortização e cobrança constam de protocolo a celebrar entre as mesmas, no prazo de 15 dias úteis a contar da entrada em vigor do presente decreto-lei.
+
+3 - As instituições não podem cobrar comissões ou encargos pelo processamento da bonificação.
+
+4 - O primeiro pagamento da bonificação inclui o montante referente aos meses anteriores, a partir do mês do ano de 2023 em que se verifiquem os requisitos de elegibilidade.
+
+###### Artigo 20.º — Dever de informação
+
+As instituições comunicam mensalmente aos mutuários, através de suporte duradouro, nomeadamente por via do extrato bancário, o montante da bonificação atribuída nos termos do presente decreto-lei.
+
+###### Artigo 21.º — Supervisão
+
+O Banco de Portugal supervisiona o cumprimento dos deveres das instituições decorrentes do presente decreto-lei e pode proceder à sua regulamentação, nomeadamente em matéria de deveres de informação aos mutuários.
+
+###### Artigo 21.º-A — Fiscalização
+
+A Inspeção-Geral de Finanças procede à realização de auditorias aos montantes pagos ao abrigo do presente capítulo, incluindo aos contratos de crédito celebrados com os mutuários referidos no artigo 14.º-A.
+
+> Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 91/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2023-222645051), em vigor a partir de 2023-10-12, produz efeitos a partir de 2023-01-01
+
+###### Artigo 22.º — Alteração ao Decreto-Lei n.º 74-A/2017, de 23 de junho
+
+O artigo 13.º do Decreto-Lei n.º 74-A/2017, de 23 de junho, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 13.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - [...]
+
+9 - [...]
+
+10 - Quando o contrato de crédito se destine à aquisição ou construção de habitação própria permanente, o mutuante apresenta ao consumidor:
+
+a) A ficha de informação normalizada, prevista no n.º 1, com a simulação das condições do contrato de crédito para as modalidades de taxa de juro variável, fixa e mista;
+
+b) Uma proposta de contrato de crédito com a modalidade de taxa de juro escolhida pelo consumidor, na sequência da simulação prevista na alínea anterior.»
+
+### Capítulo IV — Disposições complementares e finais
+
+###### Artigo 23.º — Imposto sobre o rendimento das pessoas singulares e contribuições para a segurança social
+
+Sobre os montantes do apoio previstos no presente decreto-lei não incide IRS, nem contribuições para a segurança social.
+
+###### Artigo 24.º — Pagamentos indevidos
+
+1 - As pessoas que acedam aos apoios previstos no presente decreto-lei através da prestação de informações falsas são responsáveis pelos danos causados, bem como pelos custos incorridos com a aplicação dos apoios, sem prejuízo de outro tipo de responsabilidade gerada pela conduta.
+
+2 - As quantias recebidas ao abrigo do disposto no presente decreto-lei de forma indevida devem ser repostas, nos termos do disposto no Decreto-Lei n.º 155/92, de 28 de julho, na sua redação atual.
+
+###### Artigo 24.º-A — Exceção à aplicação da condição de recursos
+
+Ao apoio extraordinário à renda previsto no presente decreto-lei não é aplicável a condição de recursos prevista no Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103-B/2023 - Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), em vigor a partir de 2023-11-10
+
+###### Artigo 24.º-B — Exceção ao conceito de rendimento disponível no âmbito do Código da Insolvência e Recuperação de Empresas
+
+O apoio extraordinário à renda previsto no presente decreto-lei não constitui rendimento disponível para efeitos do regime de cessão de rendimento disponível, previsto no artigo 239.º do Código da Insolvência e Recuperação de Empresas, aprovado em anexo ao Decreto-Lei n.º 53/2004, de 18 de março, na sua redação atual.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103-B/2023 - Diário da República n.º 217/2023, 1º Suplemento, Série I de 2023-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), em vigor a partir de 2023-11-10
+
+###### Artigo 25.º — Entrada em vigor e vigência
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - O disposto nos artigos 3.º a 12.º vigora até 31 de dezembro de 2028.
+
+3 - O disposto nos artigos 13.º a 21.º-A vigora até 31 de dezembro de 2024.
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 91/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2023-222645051), em vigor a partir de 2023-10-12
+
+###### Artigo 26.º — Produção de efeitos
+
+O disposto no presente decreto-lei produz efeitos desde 1 de janeiro de 2023.
+
+Visto e aprovado em Conselho de Ministros de 16 de março de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - Ana Catarina Veiga dos Santos Mendonça Mendes - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marina Sola Gonçalves - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
+
+Promulgado em 21 de março de 2023.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 22 de março de 2023.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+116300353

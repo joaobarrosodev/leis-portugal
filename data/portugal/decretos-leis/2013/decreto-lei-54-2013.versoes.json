@@ -1,0 +1,298 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:260418:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-155903236",
+ "dre_path": "/dr/detalhe/decreto-lei/54-2013-260418",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-04-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "155904998",
+    "155904999",
+    "155905000",
+    "155905001",
+    "155905002",
+    "155905003",
+    "155905004",
+    "155905005",
+    "155905006",
+    "155905007",
+    "155905008",
+    "155905009",
+    "155905010",
+    "155905011",
+    "155905012",
+    "155905013",
+    "155905014",
+    "155905015",
+    "155905016",
+    "155905017",
+    "155905019"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "155904998",
+    "155904999",
+    "155905000",
+    "155905001",
+    "155905002",
+    "155905003",
+    "155905004",
+    "155905005",
+    "155905006",
+    "156104885",
+    "156104886",
+    "156104887",
+    "155905010",
+    "155905011",
+    "155905012",
+    "156104888",
+    "155905014",
+    "155905015",
+    "155905016",
+    "155905017",
+    "155905018",
+    "155905019"
+   ]
+  }
+ ],
+ "fragments": {
+  "155904998": {
+   "fragment_id": "155903237",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 54/2013\n\nde 17 de abril\n\nÉ com elevada preocupação que, em Portugal, como em outros países europeus, se vem assistindo à abertura de locais dedicados à venda indiscriminada de substâncias psicoativas que, embora ameacem gravemente a saúde pública, não se encontram previstas na legislação penal, facto que vem condicionando a adoção de providências pelas autoridades, nomeadamente as de saúde, de segurança alimentar e económica. Novas substâncias psicoativas surgem no mercado a um ritmo de inovação que ultrapassa os meios previstos no Decreto-Lei n.º 15/93, de 22 de janeiro.\n\nO seu consumo, por ingestão, por inalação, por aspiração, por aplicação sobre a pele ou por quaisquer outras vias de absorção humana, representa comprovadamente um perigo concreto para a integridade física e psíquica das pessoas e, consequentemente, um risco para a saúde pública. O grau de dependência física e psíquica provocado por estas substâncias aproxima-se e, em determinadas situações, pode exceder, aquele que é causado por muitas substâncias ilícitas. Além disso, tem sido identificado clinicamente um nexo de causalidade com distúrbios psiquiátricos, incluindo episódios psicóticos, com distúrbios neurológicos e com complicações cardíacas graves. Acresce que neste mercado circulam substâncias cujos efeitos sobre a fisiologia humana são muitas vezes ainda mal conhecidas na sua plenitude, o que torna muito difícil o tratamento das intoxicações agudas e dos efeitos de longo prazo.\n\nComercializadas, não raro, a preços módicos, sob a forma de incensos, sais de banho, pílulas sem outra caracterização, ervas, fungos ou fertilizantes, as novas substâncias psicoativas vêm conhecendo uma procura crescente, sobretudo entre os adolescentes. Sob variadas designações, sendo a mais comum a de «smartshops», os locais de venda publicitam como inócuas para a saúde drogas sintéticas, plantas e fungos que vêm sendo objeto de alerta por instâncias internacionais e da União Europeia, designadamente o Observatório Europeu da Droga e da Toxicodependência, assim como o Conselho, através da Decisão n.º <a href=\"eurlex.asp?ano=2005&id=305D0387\" title=\"Link para Decisão da Comunidade Europeia\">2005/387/JAI</a>, de 10 de maio de 2005, relativa ao intercâmbio de informações, avaliação de riscos e controlo de novas substâncias psicoativas. Especialmente difícil de controlar mostra-se a venda à distância, facilitada por encomendas e pagamentos efetuados por meios eletrónicos, e que apresenta sinais de expansão.\n\nA defesa da saúde é um dever consagrado no n.º 1 do artigo 64.º da Constituição da República Portuguesa, pelo que, existindo consenso formado em torno da perigosidade de novas substâncias psicoativas já conhecidas e da suscetibilidade de, assim, prever novas contraordenações, julgou-se, ainda, indispensável estabelecer medidas sanitárias de efeito imediato contra a produção, distribuição, venda, dispensa, importação, exportação e publicidade de outras novas substâncias que venham a surgir no mercado, perante a ameaça grave e imprevisível que estas substâncias encerram.\n\nAssim, e de acordo com o disposto na alínea b) do n.º 3 da Base XIX da Lei n.º 48/90, de 24 de agosto, alterada pela Lei n.º 27/2002, de 8 de novembro, o presente decreto-lei prevê a possibilidade de as autoridades de saúde territorialmente competentes determinarem o encerramento dos estabelecimentos ou outros locais abertos ao público ou a suspensão da atividade para os fins considerados de grave risco para a saúde pública.\n\nO presente decreto-lei foi comunicado à Comissão Europeia, nos termos do disposto na alínea a) do n.º 1 do artigo 4.º e do n.º 1 do artigo 7.º do Decreto-Lei n.º 58/2000, de 18 de abril.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "155904999": {
+   "fragment_id": "155903238",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei define o regime jurídico da prevenção e proteção contra a publicidade e o comércio das novas substâncias psicoativas."
+  },
+  "155905000": {
+   "fragment_id": "155903239",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nConsideram-se novas substâncias psicoativas as substâncias não especificamente enquadradas e controladas ao abrigo de legislação própria que, em estado puro ou numa preparação, podem constituir uma ameaça para a saúde pública comparável à das substâncias previstas naquela legislação, com perigo para a vida ou para a saúde e integridade física, devido aos efeitos no sistema nervoso central, podendo induzir alterações significativas a nível da função motora, bem como das funções mentais, designadamente do raciocínio, juízo crítico e comportamento, muitas vezes com estados de delírio, alucinações ou extrema euforia, podendo causar dependência e, em certos casos, produzir danos duradouros ou mesmo permanentes sobre a saúde dos consumidores."
+  },
+  "155905001": {
+   "fragment_id": "155903240",
+   "type": 11,
+   "heading": "Artigo 3.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Classificação\n\nPara efeitos do presente decreto-lei, são consideradas novas substâncias psicoativas as substâncias definidas nos termos do artigo anterior, constantes de lista a aprovar por portaria do membro do Governo responsável pela área da saúde, bem como os derivados, os isómeros e os sais daquelas substâncias, sempre que a sua existência seja possível, compreendendo todos os preparados em que as mesmas estejam associadas a outros compostos."
+  },
+  "155905002": {
+   "fragment_id": "155903241",
+   "type": 11,
+   "heading": "Artigo 4.º — Proibição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Proibição\n\n1 - É proibido produzir, importar, exportar, publicitar, distribuir, vender, deter ou disponibilizar novas substâncias psicoativas, exceto quando destinadas a fins industriais ou uso farmacêutico, desde que devidamente autorizados pelo INFARMED- Autoridade Nacional do Medicamento e Produtos de Saúde, I.P.\n\n2 - A proibição do número anterior compreende a venda ambulante, os métodos de venda ao domicílio e equiparada, os eventos de exposição e amostra de produtos, bem como a venda à distância de novas substâncias psicoativas, nomeadamente por catálogo ou em sítios na Internet."
+  },
+  "155905003": {
+   "fragment_id": "155903242",
+   "type": 11,
+   "heading": "Artigo 5.º — Autoridades competentes e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autoridades competentes e fiscalização\n\n1 - À Autoridade de Segurança Alimentar e Económica (ASAE) são atribuídos poderes para fiscalizar e fazer cumprir o disposto no presente decreto-lei, sem prejuízo das competências cometidas às forças de segurança, às autoridades de saúde e a outras entidades.\n\n2 - À ASAE compete nomeadamente:\n\na) Promover ações de natureza inspetiva;\n\nb) Fiscalizar a cadeia de comercialização;\n\nc) Coadjuvar as autoridades competentes na investigação e promoção de inquéritos, realização de perícias e de quaisquer outras diligências, nomeadamente o encerramento e a cessação da utilização de um determinado local.\n\n3 - As autoridades referidas no n.º 1 podem, no decurso da fiscalização, determinar o encerramento imediato e provisório do estabelecimento, por um período não superior a 12 horas, quando e enquanto tal se revele indispensável para:\n\na) A recolha de elementos de prova;\n\nb) A apreensão dos objetos utilizados na prática da infração; e ou\n\nc) Para a identificação dos agentes da infração.\n\n4 - A determinação do encerramento provisório do estabelecimento pode também ocorrer, por um período não superior a 12 horas, se, perante a deteção de uma infração em flagrante delito, ocorrer perigo sério de continuação da atividade ilícita.\n\n5 - A instrução dos processos compete à ASAE, a quem as demais entidades fiscalizadoras remetem os respetivos autos e outros elementos, designadamente probatórios.\n\n6 - Compete ao Inspetor-Geral da ASAE aplicar as coimas e sanções acessórias previstas no presente decreto-lei.\n\n7 - A competência das autoridades de saúde para encerrar estabelecimentos ou determinar a suspensão da atividade sempre que se verifique grave risco para a saúde pública, em nada exime os órgãos municipais de ordenarem o despejo administrativo, quando se justifique, nem de adotarem outras medidas de tutela da legalidade necessárias para garantir que as edificações ou suas frações autónomas são utilizadas para o fim que, segundo critérios de urbanismo e de ordenamento do território, haja sido autorizado.\n\n8 - O Laboratório da Polícia Científica da Polícia Judiciária, o Instituto Nacional de Medicinal Legal e Ciências Forenses I.P., e o INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I.P., são as autoridades competentes para realizar as análises e perícias previstas no presente decreto-lei, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da administração interna, da justiça e da saúde."
+  },
+  "155905004": {
+   "fragment_id": "155903243",
+   "type": 11,
+   "heading": "Artigo 6.º — Encerramento pelas autoridades de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Encerramento pelas autoridades de saúde\n\n1 - A autoridade de saúde competente determina o encerramento dos locais onde as novas substâncias psicoativas sejam produzidas, distribuídas, vendidas ou disponibilizadas, ou simplesmente conservadas para estes fins ou para exportação.\n\n2 - Se no mesmo local onde as novas substâncias psicoativas forem produzidas, distribuídas, vendidas, disponibilizadas ou conservadas, forem também produzidos, vendidos ou disponibilizados outros bens ou prestados outros serviços, a autoridade de saúde determina a suspensão da atividade, sem prejuízo do integral encerramento transitório do espaço ou estabelecimento, pelo prazo máximo de três meses, se for estritamente necessário para remover a ameaça à saúde pública.\n\n3 - As ordens de encerramento ou de suspensão da atividade são fundamentadas e notificadas e presumem-se urgentes para efeito de dispensa da audiência dos interessados, prevista na alínea a) do n.º 1 do artigo 103.º do Código do Procedimento Administrativo.\n\n4 - A notificação faz-se com advertência para as possíveis consequências criminais da desobediência junto de quem se encontre a trabalhar ou a prestar serviço relacionado com a atividade proibida e, quando possível, ao proprietário do imóvel.\n\n5 - É suficiente, em casos devidamente fundamentados, a afixação de edital junto do acesso principal ao espaço ou estabelecimento onde são praticadas as atividades proibidas.\n\n6 - As ordens de encerramento e de suspensão da atividade são transmitidas pela autoridade de saúde à força de segurança territorialmente competente e à ASAE."
+  },
+  "155905005": {
+   "fragment_id": "155903244",
+   "type": 11,
+   "heading": "Artigo 7.º — Precaução sanitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Precaução sanitária\n\n1 - Sempre que exista suspeita de grave risco para a saúde humana imputado a um produto suscetível de ser considerado uma nova substância psicoativa, deve a autoridade de saúde competente retirar o produto para análise, bem como os equipamentos ou utensílios afetos ao uso específico do mesmo, pelo período necessário à confirmação da suspeita.\n\n2 - Confirmada a suspeita de grave risco para a saúde humana pelo Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD), a autoridade de saúde suspende provisoriamente a produção, importação, exportação, publicitação, distribuição, venda ou disponibilização do produto retirado para análise, aplicando-se o disposto no n.º 3 do artigo anterior.\n\n3 - Da decisão de suspensão constam as razões por que se considera o consumo do produto representativo de um grave risco para a saúde pública.\n\n4 - A decisão referida no n.º 2 caduca no prazo de 30 dias, exceto se o produto for incluído na lista referida no artigo 3.º\n\n5 - Os médicos que, ao prestarem cuidados de saúde ou ao realizarem perícias médico-legais, encontrem indícios de um dano à saúde potencialmente imputável ao consumo de uma substância, notificam, de imediato, a autoridade de saúde competente e o SICAD."
+  },
+  "155905006": {
+   "fragment_id": "155903245",
+   "type": 11,
+   "heading": "Artigo 8.º — Apreensão de objetos e produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apreensão de objetos e produtos\n\n1 - São provisoriamente apreendidos pelas entidades competentes para a fiscalização os produtos que contenham novas substâncias psicoativas e os objetos que sirvam ou estejam destinados a servir para a prática de infrações ao disposto no artigo 4.º, ou que por esta forem produzidos, e bem assim quaisquer outros que se revelem suscetíveis de servir de prova.\n\n2 - Os objetos são restituídos logo que se tornar desnecessário manter a apreensão para efeitos de prova, a menos que a autoridade competente pretenda declará-los perdidos a favor do Estado.\n\n3 - Em qualquer caso, os objetos são restituídos logo que a decisão condenatória se torne definitiva, salvo se tiverem sido declarados perdidos a favor do Estado."
+  },
+  "155905007": {
+   "fragment_id": "155903246",
+   "type": 11,
+   "heading": "Artigo 9.º — Determinação da medida da coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Determinação da medida da coima\n\n1 - A medida da coima é determinada em função da gravidade da contraordenação, da culpa e do benefício económico que o infrator retirou da prática do ilícito.\n\n2 - Se o agente tiver retirado da infração um benefício económico calculável superior ao limite máximo da coima, e não existirem outros meios de o eliminar, pode a coima elevar-se até ao montante do benefício, não devendo todavia a elevação exceder um terço do limite máximo legalmente estabelecido.\n\n3 - Quando houver lugar à atenuação especial da punição por contraordenação, os limites máximo e mínimo da coima são reduzidos para metade."
+  },
+  "155905008": {
+   "fragment_id": "155903247",
+   "type": 11,
+   "heading": "Artigo 10.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contraordenações\n\n1 - A infração ao disposto no artigo 4.º constitui contraordenação punível, no caso das pessoas singulares, com coima no valor mínimo de (euro) 750 e máximo legal previsto de (euro) 3 740 e, no caso das pessoas coletivas, no valor mínimo de (euro) 5 000 e máximo legal previsto de (euro) 44 890.\n\n2 - À detenção de substância psicoativa para mero consumo próprio é aplicável o disposto na Lei n.º 30/2000, de 29 de novembro, com as necessárias adaptações.\n\n3 - A tentativa e a negligência são puníveis."
+  },
+  "155905009": {
+   "fragment_id": "155903248",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções acessórias\n\n1 - Cumulativamente com as coimas previstas no artigo anterior e nos termos da lei, podem ser aplicadas as seguintes sanções acessórias:\n\na) Perda a favor do Estado dos objetos pertencentes ao agente e que se encontrem na causa ou origem da infração ou destinados a servir para a prática de uma contraordenação, ou que por esta foram produzidos;\n\nb) Interdição do exercício de profissões ou atividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades públicas ou de capitais públicos;\n\nd) Privação do direito de participação ou arrematação em concursos públicos promovidos por entidades públicas ou de capitais públicos, de fornecimento de bens e serviços, ou de concessão de serviços, licenças ou alvarás;\n\ne) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções previstas nas alíneas b) a e) do número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória definitiva."
+  },
+  "155905010": {
+   "fragment_id": "155903249",
+   "type": 11,
+   "heading": "Artigo 12.º — Objetos pertencentes a terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Objetos pertencentes a terceiro\n\nA perda a favor do Estado de objetos pertencentes a terceiro só pode ter lugar:\n\na) Quando os seus titulares tiverem concorrido, com culpa, para a sua utilização ou produção, ou do facto tiverem tirado vantagens; ou\n\nb) Quando os objetos forem, por qualquer título, adquiridos após a prática do facto, conhecendo os adquirentes a proveniência."
+  },
+  "155905011": {
+   "fragment_id": "155903250",
+   "type": 11,
+   "heading": "Artigo 13.º — Ações de resposta integrada do SICAD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Ações de resposta integrada do SICAD\n\n1 - O âmbito dos programas e das estruturas sociossanitárias criados pelo Decreto-Lei n.º 183/2001, de 21 de junho, e bem como os demais programas de prevenção, redução de riscos e minimização de danos, de reinserção social e de tratamento do consumo de substâncias psicoativas, dos comportamentos aditivos e das dependências, a cargo do SICAD, é extensivo às novas substâncias psicoativas.\n\n2 - Sempre que, por aplicação das normas do presente decreto-lei, sejam instaurados procedimentos contraordenacionais, adotadas medidas de precaução sanitária, determinado o encerramento ou a suspensão da atividade, cumpre à autoridade responsável notificar o SICAD.\n\n3 - Compete ao Diretor-Geral do SICAD transmitir às autoridades de saúde a identificação de substâncias suscetíveis de serem consideradas novas substâncias psicoativas, para efeito de fiscalização.\n\n4 - O Diretor-Geral do SICAD propõe ao membro do Governo responsável pela área da saúde a introdução de novas substâncias psicoativas na lista referida no artigo 3.º"
+  },
+  "155905012": {
+   "fragment_id": "155903251",
+   "type": 11,
+   "heading": "Artigo 14.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Notificação\n\n1 - A detenção de novas substâncias psicoativas por menores tem por consequência a notificação da ocorrência:\n\na) Ao respetivo representante legal;\n\nb) Ao núcleo de apoio a crianças e jovens em risco localizado no centro de saúde ou no hospital da área de residência do menor, nos casos de reincidência, ou de impossibilidade de notificação do representante legal.\n\n2 - As notificações previstas no número anterior são da competência das entidades fiscalizadoras.\n\n3 - As notificações são efetuadas através de modelo próprio, que consta do anexo ao presente decreto-lei e que dele faz parte integrante.\n\n4 - As entidades referidas no n.º 2 devem ainda diligenciar, pelos meios estritamente adequados e necessários e sempre com preservação da vida privada do menor e da sua família, nos termos do disposto no artigo 3.º da Lei n.º 147/99, de 1 de setembro, alterada pela Lei n.º 31/2003, de 22 de agosto.\n\n5 - Para efeitos do disposto no número anterior, as entidades referidas no n.º 2 podem solicitar a cooperação das autoridades públicas competentes, nomeadamente da Comissão de Proteção de Crianças e Jovens ou do representante do Ministério Público territorialmente competentes."
+  },
+  "155905013": {
+   "fragment_id": "155903252",
+   "type": 11,
+   "heading": "Artigo 15.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Receitas\n\n1 - O produto das coimas é distribuído da seguinte forma:\n\na) 60% para o Estado;\n\nb) 10% para a ASAE;\n\nc) 10% para o SICAD;\n\nd) 5% para a Polícia Judiciária;\n\ne) 5% para o Instituto Nacional de Medicina Legal e Ciências Forenses, I.P.;\n\nf) 10% para a entidade autuante.\n\n2 - A afetação do produto das coimas quando aplicadas nas Regiões Autónomas constitui receita própria das mesmas."
+  },
+  "155905014": {
+   "fragment_id": "155903253",
+   "type": 11,
+   "heading": "Artigo 16.º — Âmbito territorial de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Âmbito territorial de aplicação\n\nO presente decreto-lei aplica-se em todo o território nacional, sem prejuízo do disposto em diploma próprio das Regiões Autónomas."
+  },
+  "155905015": {
+   "fragment_id": "155903254",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrega voluntária de novas substâncias psicoativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrega voluntária de novas substâncias psicoativas\n\n1 - Sem prejuízo do disposto no presente decreto-lei, quem se dedicar às atividades referidas no artigo 4.º, deve entregar, em qualquer posto da Guarda Nacional Republicana ou esquadra da Polícia de Segurança Pública, todos os produtos que se encontram na sua posse e que contenham quaisquer novas substâncias psicoativas identificadas na lista referida no artigo 3.º\n\n2 - A Guarda Nacional Republicana ou a Polícia de Segurança Pública lavra um termo de entrega, descrevendo as substâncias e as respetivas quantidades, entregando cópia do termo àquele que as tiver entregue.\n\n3 - A entrega das novas substâncias psicoativas, nos termos do n.º 1, exclui a responsabilidade contraordenacional do seu possuidor relativamente aos produtos entregues, desde que efetuada no prazo máximo de 15 dias a contar da data de entrada em vigor do presente decreto-lei.\n\n4 - A autoridade a cuja guarda tenham sido confiados quaisquer produtos nos termos do n.º 1, deve promover a sua entrega imediata à Unidade Nacional de Combate ao Tráfico de Estupefacientes da Polícia Judiciária para efeitos da respetiva destruição."
+  },
+  "155905016": {
+   "fragment_id": "155903255",
+   "type": 11,
+   "heading": "Artigo 18.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Disposições finais\n\nA aplicação do presente decreto-lei não afasta a aplicação de outras normas gerais e especiais, nomeadamente, das relativas:\n\na) À classificação, embalagem e rotulagem de preparações perigosas;\n\nb) Ao registo, avaliação, autorização e restrição de produtos químicos, bem como as que regulam a importação e exportação de produtos químicos perigosos;\n\nc) Ao controlo dos medicamentos devidamente utilizados em cuidados de saúde humanos ou veterinários;\n\nd) Aos géneros alimentícios, compreendendo as regras sobre apresentação, rotulagem, embalagem, tratamento e manuseamento;\n\ne) Aos produtos agrícolas, hortícolas, frutícolas e outros de origem vegetal;\n\nf) Aos produtos cosméticos e de higiene corporal;\n\ng) Ao controlo do mercado lícito de estupefacientes e substâncias psicotrópicas, de precursores e outros produtos químicos suscetíveis de utilização no fabrico de droga, inventariadas nos Regulamentos (CE) n.os <a href=\"eurlex.asp?ano=2004&id=304R0273\" title=\"Link para Regulamento da Comunidade Europeia\">273/2004</a>, do Parlamento Europeu e do Conselho, de 11 de fevereiro, e <a href=\"eurlex.asp?ano=2005&id=305R0111\" title=\"Link para Regulamento da Comunidade Europeia\">111/2005</a>, do Conselho, de 22 de dezembro de 2004;\n\nh) Ao tabagismo;\n\ni) Às bebidas alcoólicas;\n\nj) À cessação da utilização e ao despejo administrativo das edificações ou suas frações autónomas, destinadas a assegurar a sua utilização em conformidade com o uso previsto na licença ou autorização de utilização e em outros atos administrativos permissivos do funcionamento, laboração ou abertura ao público."
+  },
+  "155905017": {
+   "fragment_id": "155903256",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "155905019": {
+   "fragment_id": "155903258",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 14.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 14.º)\n\nEntidade (identificação da entidade que efetua a notificação)\n\n___\n\nA ___ vem, nos termos do disposto no n.º 3 do artigo 14.º do Decreto-Lei n.º 54/2013, de 17 de abril, notificar V. Exa., na qualidade de representante legal do menor/ entidade referida na alínea b) do n.º 1 do artigo 14.º ___, nascido a ___/___/___, portador do documento de identificação n.º ___, filho de ___ e de ___, e residente na ___ da ocorrência que a seguir se transcreve:\n\n___\n\n___, ___ de ___ de 20___\n\nO Agente\n\n___"
+  },
+  "156104885": {
+   "fragment_id": "155903246",
+   "type": 11,
+   "heading": "Artigo 9.º — Determinação da medida da coima",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 9.º — Determinação da medida da coima\n\n1 - A medida da coima é determinada em função da gravidade da contraordenação, da culpa e do benefício económico que o infrator retirou da prática do ilícito.\n\n2 - Se o agente tiver retirado da infração um benefício económico calculável superior ao limite máximo da coima, são aplicáveis os critérios especiais de medida da coima, previstos no Regime Jurídico das Contraordenações Económicas (RJCE).\n\n3 - A atenuação especial da coima, nos casos em que seja aplicável, é determinada nos termos do RJCE.\n\n> Alterado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156104886": {
+   "fragment_id": "155903247",
+   "type": 11,
+   "heading": "Artigo 10.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 10.º — Contraordenações\n\n1 - A infração ao disposto no artigo 4.º constitui contraordenação económica muito grave, punível nos termos do RJCE.\n\n2 - À detenção de substância psicoativa para mero consumo próprio é aplicável o disposto na Lei n.º 30/2000, de 29 de novembro, com as necessárias adaptações.\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156104887": {
+   "fragment_id": "155903248",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 11.º — Sanções acessórias\n\n1 - Cumulativamente com as coimas previstas no artigo anterior e nos termos do RJCE, podem ser aplicadas as seguintes sanções acessórias:\n\na) Perda a favor do Estado dos objetos pertencentes ao agente e que se encontrem na causa ou origem da infração ou destinados a servir para a prática de uma contraordenação, ou que por esta foram produzidos;\n\nb) Interdição do exercício de profissões ou atividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades públicas ou de capitais públicos;\n\nd) Privação do direito de participação ou arrematação em concursos públicos promovidos por entidades públicas ou de capitais públicos, de fornecimento de bens e serviços, ou de concessão de serviços, licenças ou alvarás;\n\ne) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções previstas nas alíneas b) a e) do número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória definitiva.\n\n> Alterado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156104888": {
+   "fragment_id": "155903252",
+   "type": 11,
+   "heading": "Artigo 15.º — Distribuição do produto da coima",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 15.º — Distribuição do produto da coima\n\n1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas neste diploma é repartido nos termos do RJCE.\n\n2 - A afetação do produto das coimas quando aplicadas nas Regiões Autónomas constitui receita própria das mesmas.\n\n> Alterado pelo/a Artigo 128.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155905018": {
+   "fragment_id": "155903257",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de março de 2013. - Pedro Passos Coelho - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo.\n\nPromulgado em 9 de abril de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de abril de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

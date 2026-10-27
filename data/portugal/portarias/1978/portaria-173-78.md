@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:446972:por
+title: Portaria n.º 173/78
+short_title: null
+summary: Dá nova redacção ao artigo 4.º do Regulamento das Juntas Médicas da Armada, aprovado pela Portaria n.º 21407, de
+  19 de Julho de 1965
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Armada
+proposing_entity: null
+official_number: 173/78
+official_date: null
+publication_date: '1978-03-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 74/1978, Série I de 1978-03-30
+  number: '74'
+  series: I
+  supplement: null
+  pages: 606 - 606
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/03/07400/06060606.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '446972'
+  dre_path: /dr/detalhe/portaria/173-1978-446972
+  internal: pt:dre:446972:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/173-1978-446972
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/173-1978-446972
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:34:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2273923f88b87968029d0bf75b806fb0ef091b965ed66ed1fdd81d9a81ce4547
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:34:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Junta Médica da Armada
+- Marinha
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:292280:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:34:13Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 173/78
+
+de 30 de Março
+
+Entendendo-se conveniente garantir que a Junta de Recrutamento e Selecção da Direcção do Serviço do Pessoal seja constituída, em condições normais, exclusivamente por médicos navais:
+
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, que o artigo 4.º do Regulamento das Juntas Médicas da Armada, aprovado e posto em execução pela [Portaria n.º 21407](https://diariodarepublica.pt/dr/detalhe/portaria/21407-1965-292280), de 19 de Julho de 1965, passe a ter a seguinte redacção:
+
+...
+
+Art. 4.º A Junta de Recrutamento e Selecção da Direcção do Serviço do Pessoal é constituída por três médicos navais, servindo o mais antigo de presidente e o mais moderno de secretário.
+
+§ único. Quando o número de indivíduos a inspeccionar o justifique, será aumentado o número de médicos navais, na medida do necessário, e nomeado um oficial da classe dos oficiais técnicos para servir de secretário.
+
+...
+
+Estado-Maior da Armada, 15 de Março de 1978. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante.

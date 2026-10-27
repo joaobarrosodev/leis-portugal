@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:405351:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1967-161898082",
+ "dre_path": "/dr/detalhe/decreto-lei/48191-1967-405351",
+ "source_lastmod": "2025-05-26",
+ "versions": [
+  {
+   "date": "1967-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919748948",
+    "161897982",
+    "161897983",
+    "161897984",
+    "161897985",
+    "161897986"
+   ]
+  },
+  {
+   "date": "1968-01-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:241054:por",
+     "title": "Declaração",
+     "published": "1968-01-08",
+     "dre_path": "/dr/detalhe/declaracao/1968-241054"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 5.º"
+   ],
+   "fragments": [
+    "161897981",
+    "161897982",
+    "161897983",
+    "161897984",
+    "161897985",
+    "919442533",
+    "919442532"
+   ]
+  },
+  {
+   "date": "1968-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:262803:por",
+     "title": "Decreto-Lei n.º 48725",
+     "published": "1968-12-03",
+     "dre_path": "/dr/detalhe/decreto-lei/48725-1968-262803"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "161897981",
+    "919442540",
+    "161897983",
+    "161897984",
+    "161897985",
+    "919442533",
+    "919442532"
+   ]
+  },
+  {
+   "date": "1982-11-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:415639:por",
+     "title": "Decreto-Lei n.º 458-B/82",
+     "published": "1982-11-24",
+     "dre_path": "/dr/detalhe/decreto-lei/458-b-1982-415639"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "161897981",
+    "919653176",
+    "161897983",
+    "161897984",
+    "161897985",
+    "919442533",
+    "919442532"
+   ]
+  },
+  {
+   "date": "1986-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:219127:por",
+     "title": "Decreto-Lei n.º 254/86",
+     "published": "1986-08-26",
+     "dre_path": "/dr/detalhe/decreto-lei/254-1986-219127"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "919748948",
+    "919748949",
+    "919748950",
+    "919748951",
+    "919748952",
+    "919748953",
+    "919748954"
+   ]
+  }
+ ],
+ "fragments": {
+  "919748948": {
+   "fragment_id": "161898083",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1986-08-27",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 48191\n\nO notável incremento do tráfego nos portos do Douro e Leixões e a crescente especialização dos serviços solicitados à respectiva Administração deram particular relevo ao desequilíbrio, desde há muito verificado, entre os encargos que oneram os seus utentes e a amplitude e melhoria dos serviços que ambos os portos prestam, decorrentes dos importantes investimentos ùltimamente realizados.\n\nPara se encontrar um justo equilíbrio, e na conformidade de uma tradição que se identifica com o progresso do segundo complexo portuário do País, considera-se preferível fazer incidir sobre as mercadorias que mais directamente beneficiam, pela redução dos fretes e pela rapidez e segurança nas operações, das amplas reformas já efectuadas e em curso o encargo de uma actualização que se tem por inadiável.\n\nA diversidade das taxas quanto a mercadorias descarregadas e carregadas encontra justificação na diferente utilidade e extensão dos serviços prestados a umas e a outras.\n\nPor outro lado, quer para respeitar uma terminologia mais perfeita, quer por ser essa a expressão real da imposição sobre as mercadorias movimentadas, aproveita-se a oportunidade para substituir a imprópria denominação de «imposto de cais» pela de «taxa de porto», que é, de resto, a adoptada no porto de Lisboa.\n\nNestes termos, ouvido o Conselho de Ministros para os Assuntos Económicos;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "161897982": {
+   "fragment_id": "161898084",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO imposto de cais criado nos portos do Douro e Leixões pelo Decreto n.º 12122, de 13 de Agosto de 1926, é substituído por uma «taxa de porto» de 1 por cento e 1 por mil sobre o valor, respectivamente, das mercadorias descarregadas e carregadas, submetidas a despacho na sede da Alfândega do Porto e suas dependências na área portuária do Douro e Leixões.\n\n§ único. O Ministro das Comunicações poderá, por simples despacho, bonificar ou isentar desta taxa as mercadorias em cabotagem, em trânsito, em baldeação e em regime de reexportação ou reimportação."
+  },
+  "161897983": {
+   "fragment_id": "161898085",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA «taxa de porto» será calculada a partir do valor das mercadorias aceite pela Alfândega e a sua cobrança efectuar-se-á por intermédio das estâncias aduaneiras competentes, constituindo receita ordinária da Administração dos referidos portos, nos termos e para os efeitos do Decreto-Lei n.º 36977, de 20 de Julho de 1948."
+  },
+  "161897984": {
+   "fragment_id": "161898086",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA «taxa de porto» poderá ser modificada por decreto simples, referendado pelos Ministros das Finanças, Economia e Comunicações, e passará a ser incluída no Regulamento de Tarifas dos Portos do Douro e Leixões."
+  },
+  "161897985": {
+   "fragment_id": "161898087",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSão revogados o Decreto n.º 12122, de 13 de Agosto de 1926, e o Decreto-Lei n.º 38024, de 1 de Novembro de 1950."
+  },
+  "161897986": {
+   "fragment_id": "161898088",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente diploma entra em vigor em 1 de Janeiro de 1968."
+  },
+  "161897981": {
+   "fragment_id": "161898083",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 48191\n\nO notável incremento do tráfego nos portos do Douro e Leixões e a crescente especialização dos serviços solicitados à respectiva Administração deram particular relevo ao desequilíbrio, desde há muito verificado, entre os encargos que oneram os seus utentes e a amplitude e melhoria dos serviços que ambos os portos prestam, decorrentes dos importantes investimentos ùltimamente realizados.\n\nPara se encontrar um justo equilíbrio, e na conformidade de uma tradição que se identifica com o progresso do segundo complexo portuário do País, considera-se preferível fazer incidir sobre as mercadorias que mais directamente beneficiam, pela redução dos fretes e pela rapidez e segurança nas operações, das amplas reformas já efectuadas e em curso o encargo de uma actualização que se tem por inadiável.\n\nA diversidade das taxas quanto a mercadorias descarregadas e carregadas encontra justificação na diferente utilidade e extensão dos serviços prestados a umas e a outras.\n\nPor outro lado, quer para respeitar uma terminologia mais perfeita, quer por ser essa a expressão real da imposição sobre as mercadorias movimentadas, aproveita-se a oportunidade para substituir a imprópria denominação de «imposto de cais» pela de «taxa de porto», que é, de resto, a adoptada no porto de Lisboa.\n\nNestes termos, ouvido o Conselho de Ministros para os Assuntos Económicos;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "919442533": {
+   "fragment_id": "161898088",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1968-01-08",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 6/1968, Série I de 1968-01-08](https://diariodarepublica.pt/dr/detalhe/declaracao/1968-241054), em vigor a partir de 1968-01-08"
+   ],
+   "markdown": "###### Artigo 5.º\n\nO presente diploma entra em vigor em 10 de Janeiro de 1968.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 6/1968, Série I de 1968-01-08](https://diariodarepublica.pt/dr/detalhe/declaracao/1968-241054), em vigor a partir de 1968-01-08"
+  },
+  "919442532": {
+   "fragment_id": "919523517",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Publique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "919442540": {
+   "fragment_id": "161898084",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1968-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48725 - Diário do Governo n.º 284/1968, Série I de 1968-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48725-1968-262803), em vigor a partir de 1968-12-08"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO imposto de cais criado nos portos do Douro e Leixões pelo Decreto n.º 12122, de 13 de Agosto de 1926, é substituído por uma «taxa de porto» de 1 por cento e 1 por mil sobre o valor, respectivamente, das mercadorias descarregadas e carregadas, submetidas a despacho na sede da Alfândega do Porto e suas dependências na área portuária do Douro e Leixões.\n\n§ único. O Ministro das Comunicações poderá, por simples despacho, bonificar ou isentar desta taxa as mercadorias em cabotagem, em trânsito, em baldeação, em transferência e em regime de reexportação ou reimportação.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48725 - Diário do Governo n.º 284/1968, Série I de 1968-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48725-1968-262803), em vigor a partir de 1968-12-08"
+  },
+  "919653176": {
+   "fragment_id": "161898084",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1982-11-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 458-B/82 - Diário da República n.º 272/1982, 1º Suplemento, Série I de 1982-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-b-1982-415639), em vigor a partir de 1982-11-29",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48725 - Diário do Governo n.º 284/1968, Série I de 1968-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48725-1968-262803), em vigor a partir de 1968-12-08"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO imposto de cais criado nos portos do Douro e Leixões pelo Decreto n.º 12122, de 13 de Agosto de 1926, é substituído por uma taxa de porto de 0,7% e 1(por mil) sobre o valor, respectivamente, das mercadorias descarregadas e carregadas, submetidas a despacho na sede da Alfândega do Porto e suas dependências na área portuária do Douro e Leixões.\n\n§ único. O Ministro das Comunicações poderá, por simples despacho, bonificar ou isentar desta taxa as mercadorias em cabotagem, em trânsito, em baldeação, em transferência e em regime de reexportação ou reimportação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 458-B/82 - Diário da República n.º 272/1982, 1º Suplemento, Série I de 1982-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-b-1982-415639), em vigor a partir de 1982-11-29\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48725 - Diário do Governo n.º 284/1968, Série I de 1968-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48725-1968-262803), em vigor a partir de 1968-12-08"
+  },
+  "919748949": {
+   "fragment_id": "161898084",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1986-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 458-B/82 - Diário da República n.º 272/1982, 1º Suplemento, Série I de 1982-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-b-1982-415639), em vigor a partir de 1982-11-29",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48725 - Diário do Governo n.º 284/1968, Série I de 1968-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48725-1968-262803), em vigor a partir de 1968-12-08"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO imposto de cais criado nos portos do Douro e Leixões pelo Decreto n.º 12122, de 13 de Agosto de 1926, é substituído por uma taxa de porto de 0,7% e 1(por mil) sobre o valor, respectivamente, das mercadorias descarregadas e carregadas, submetidas a despacho na sede da Alfândega do Porto e suas dependências na área portuária do Douro e Leixões.\n\n§ único. O Ministro das Comunicações poderá, por simples despacho, bonificar ou isentar desta taxa as mercadorias em cabotagem, em trânsito, em baldeação, em transferência e em regime de reexportação ou reimportação.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 458-B/82 - Diário da República n.º 272/1982, 1º Suplemento, Série I de 1982-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-b-1982-415639), em vigor a partir de 1982-11-29\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 48725 - Diário do Governo n.º 284/1968, Série I de 1968-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48725-1968-262803), em vigor a partir de 1968-12-08"
+  },
+  "919748950": {
+   "fragment_id": "161898085",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1986-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA «taxa de porto» será calculada a partir do valor das mercadorias aceite pela Alfândega e a sua cobrança efectuar-se-á por intermédio das estâncias aduaneiras competentes, constituindo receita ordinária da Administração dos referidos portos, nos termos e para os efeitos do Decreto-Lei n.º 36977, de 20 de Julho de 1948.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27"
+  },
+  "919748951": {
+   "fragment_id": "161898086",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1986-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27"
+   ],
+   "markdown": "###### Artigo 3.º\n\nA «taxa de porto» poderá ser modificada por decreto simples, referendado pelos Ministros das Finanças, Economia e Comunicações, e passará a ser incluída no Regulamento de Tarifas dos Portos do Douro e Leixões.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27"
+  },
+  "919748952": {
+   "fragment_id": "161898087",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1986-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27"
+   ],
+   "markdown": "###### Artigo 4.º\n\nSão revogados o Decreto n.º 12122, de 13 de Agosto de 1926, e o Decreto-Lei n.º 38024, de 1 de Novembro de 1950.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27"
+  },
+  "919748953": {
+   "fragment_id": "161898088",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1986-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27",
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 6/1968, Série I de 1968-01-08](https://diariodarepublica.pt/dr/detalhe/declaracao/1968-241054), em vigor a partir de 1968-01-08"
+   ],
+   "markdown": "###### Artigo 5.º\n\nO presente diploma entra em vigor em 10 de Janeiro de 1968.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 6/1968, Série I de 1968-01-08](https://diariodarepublica.pt/dr/detalhe/declaracao/1968-241054), em vigor a partir de 1968-01-08"
+  },
+  "919748954": {
+   "fragment_id": "919523517",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1986-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27"
+   ],
+   "markdown": "Publique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 254/86 - Diário da República n.º 195/1986, Série I de 1986-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1986-219127), em vigor a partir de 1986-08-27"
+  }
+ }
+}

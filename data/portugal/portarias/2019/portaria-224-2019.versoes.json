@@ -1,0 +1,157 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:123279822:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-222280776",
+ "dre_path": "/dr/detalhe/portaria/224-2019-123279822",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-07-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "222200486",
+    "222200487",
+    "222200488",
+    "222200489",
+    "222200490",
+    "222200491",
+    "222200492",
+    "222200494"
+   ]
+  },
+  {
+   "date": "2023-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222239440:por",
+     "title": "Portaria n.º 292/2023",
+     "published": "2023-09-29",
+     "dre_path": "/dr/detalhe/portaria/292-2023-222239440"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "222200486",
+    "222200495",
+    "222200488",
+    "222200496",
+    "222200497",
+    "222200491",
+    "222200492",
+    "222200493",
+    "222200494"
+   ]
+  }
+ ],
+ "fragments": {
+  "222200486": {
+   "fragment_id": "222280777",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 224/2019\n\nde 18 de julho\n\nSumário: Portaria que regulamenta o modelo e as formalidades a cumprir para a requisição e fornecimento da estampilha aplicável aos cigarros e ao tabaco de enrolar que beneficiam de isenção de Imposto sobre o Tabaco, ao abrigo das alíneas a), b), c), d) e f) do n.º 1 do artigo 6.º, do artigo 6.º-A e das alíneas b) e c) do n.º 1 do artigo 102.º do Código dos Impostos Especiais de Consumo, devidamente acondicionados em embalagens individuais.\n\nA Lei n.º 37/2007, de 14 de agosto, que aprova as normas para a proteção dos cidadãos da exposição involuntária ao fumo do tabaco e medidas de redução da procura relacionadas com a dependência e a cessação do seu consumo prevê, no n.º 1 do seu artigo 13.º-B, que todas as embalagens individuais de produtos do tabaco comercializados devem apresentar um elemento de segurança inviolável, que cumpra as normas da União Europeia aplicáveis, composto por elementos visíveis e invisíveis, que deve ser impresso ou afixado de modo inamovível e indelével e que não pode ser dissimulado ou separado, inclusive por estampilhas especiais e marcas de preço.\n\nNos termos do n.º 3 daquela disposição legal, a estampilha especial definida pela Autoridade Tributária e Aduaneira e fornecida pela Imprensa Nacional-Casa da Moeda, S. A., é utilizada como elemento de segurança, devendo, para este efeito, ser adaptada de forma a cumprir as especificações exigidas pela Decisão de Execução (UE) 2018/576, da Comissão, de 15 de dezembro de 2017, relativa às normas técnicas para os elementos de segurança aplicados aos produtos do tabaco.\n\nNesta conformidade, foi publicada a Portaria n.º 119/2019, de 22 de abril, a qual regulamenta o modelo e as formalidades a cumprir para a requisição, fornecimento e controlo da estampilha especial aplicável aos produtos sujeitos ao Imposto sobre o Tabaco (IT), nos termos estabelecidos pelo Código dos Impostos Especiais de Consumo (CIEC), destinados a serem introduzidos no consumo em território nacional, estampilha essa que integra o elemento de segurança.\n\nConsiderando que a estampilha especial ali prevista apresenta natureza fiscal, em virtude de ter como objetivo atestar o cumprimento das obrigações estabelecidas no CIEC, nomeadamente, o pagamento do IT, o n.º 4 do artigo 1.º da Portaria n.º 119/2019, de 22 de abril, exclui do seu âmbito de aplicação os produtos do tabaco que beneficiam de isenção do IT.\n\nContudo, tais produtos não se encontram dispensados do cumprimento da obrigação estabelecida no n.º 1 do artigo 13.º-B da Lei n.º 37/2007, de 14 de agosto, devendo, por esse motivo, apresentar o elemento de segurança.\n\nImpõe-se, assim, criar uma estampilha cuja aplicação se circunscreva, por ora, aos cigarros e ao tabaco de enrolar, por força do disposto no n.º 4 do artigo 13.º-B daquela lei, conferindo suporte ao elemento de segurança e permitindo, desta forma, cumprir as normas técnicas previstas na Decisão de Execução (UE) 2018/576, da Comissão, de 15 de dezembro de 2017.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos dos n.os 1 e 2 do artigo 110.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, o seguinte:"
+  },
+  "222200487": {
+   "fragment_id": "222280778",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente portaria regulamenta o modelo e as formalidades a cumprir para a requisição e fornecimento da estampilha aplicável aos cigarros e ao tabaco de enrolar que beneficiam de isenção de Imposto sobre o Tabaco, ao abrigo das alíneas a), b), c), d) e f) do n.º 1 do artigo 6.º, do artigo 6.º-A e das alíneas b) e c) do n.º 1 do artigo 102.º do Código dos Impostos Especiais de Consumo, devidamente acondicionados em embalagens individuais.\n\n2 - Para efeitos do número anterior é considerada embalagem individual, a embalagem mais pequena de um produto do tabaco que é colocada no mercado.\n\n3 - A estampilha referida no n.º 1 é utilizada como elemento de segurança, em conformidade com o disposto no n.º 3 do artigo 13.º-B da Lei n.º 37/2007, de 14 de agosto, cumprindo as especificações exigidas pela Decisão de Execução (UE) 2018/576 da Comissão, de 15 de dezembro de 2017, relativa às normas técnicas para os elementos de segurança aplicados aos produtos do tabaco.\n\n> Nota: [Artigo 3.º, Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440) As alterações ao presente artigo, no que diz respeito aos produtos do tabaco que não sejam cigarros ou tabaco de enrolar, aplicam-se àqueles que forem produzidos ou introduzidos em livre prática a partir de 20 de maio de 2024."
+  },
+  "222200488": {
+   "fragment_id": "222280779",
+   "type": 11,
+   "heading": "Artigo 2.º — Modelo e preço da estampilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Modelo e preço da estampilha\n\n1 - O modelo e especificações técnicas da estampilha constam do anexo à presente portaria.\n\n2 - As estampilhas são vendidas pela Imprensa Nacional-Casa da Moeda, S. A. (INCM), pelo montante correspondente ao preço unitário.\n\n3 - O preço unitário da estampilha é fixado anualmente até ao final do mês de junho do ano precedente, por despacho do Ministro das Finanças."
+  },
+  "222200489": {
+   "fragment_id": "222280780",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisição e fornecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisição e fornecimento\n\n1 - As estampilhas devem ser requisitadas à INCM por transmissão eletrónica de dados, através do Portal da Autoridade Tributária e Aduaneira, no sítio das «Declarações Eletrónicas» da área aduaneira.\n\n2 - As estampilhas são fornecidas em maços de 500 unidades.\n\n3 - A INCM informa os requisitantes, por via eletrónica, das quantidades de estampilhas fornecidas.\n\n> Nota: [Artigo 3.º, Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440) As alterações ao presente artigo, no que diz respeito aos produtos do tabaco que não sejam cigarros ou tabaco de enrolar, aplicam-se àqueles que forem produzidos ou introduzidos em livre prática a partir de 20 de maio de 2024."
+  },
+  "222200490": {
+   "fragment_id": "222280781",
+   "type": 11,
+   "heading": "Artigo 4.º — Aposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aposição\n\n1 - As estampilhas são apostas nas embalagens individuais de cigarros e de tabaco de enrolar nos entrepostos fiscais de produção, nos entrepostos fiscais de armazenagem, nos entrepostos aduaneiros e nos armazéns de depósito temporário.\n\n2 - Sem prejuízo do disposto no número anterior, as estampilhas podem ser remetidas para fora do território nacional, para efeitos de aposição nas embalagens individuais de cigarros e de tabaco de enrolar durante o processo de fabrico, sendo este procedimento obrigatório no caso de receção de produtos por destinatários registados e destinatários registados temporários.\n\n3 - Os operadores económicos devem proceder à aposição das estampilhas nas embalagens individuais, em local perfeitamente visível e de modo a garantirem que não seja possível a sua reutilização.\n\n4 - Nos casos em que as embalagens individuais sejam celofanadas, as estampilhas devem ser apostas por baixo do celofane.\n\n> Nota: [Artigo 3.º, Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440) As alterações ao presente artigo, no que diz respeito aos produtos do tabaco que não sejam cigarros ou tabaco de enrolar, aplicam-se àqueles que forem produzidos ou introduzidos em livre prática a partir de 20 de maio de 2024."
+  },
+  "222200491": {
+   "fragment_id": "222280782",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições finais e transitórias\n\n1 - A estampilha prevista no artigo 2.º é aplicável aos cigarros e ao tabaco de enrolar produzidos ou introduzidos em livre prática a partir de 19 de agosto de 2019.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 2.º, o montante correspondente ao preço unitário da estampilha é fixado em (euro) 0,00447, para os anos de 2019 e 2020."
+  },
+  "222200492": {
+   "fragment_id": "222280783",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato à sua publicação."
+  },
+  "222200494": {
+   "fragment_id": "222280785",
+   "type": 14,
+   "heading": "Anexo — Modelo e especificações técnicas da estampilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Modelo e especificações técnicas da estampilha\n\nI - Modelo:\n\n(ver documento original)\n\nII - Cor: Verde sobre um fundo amarelo.\n\nIII - Especificações do modelo:\n\n1 - Tamanho: 32,084 mm de comprimento x 16 mm de largura.\n\n2 - Personalização da estampilha especial por número de série composto por 5 (cinco) letras e 3 (três) números.\n\n112447046"
+  },
+  "222200495": {
+   "fragment_id": "222280778",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2023-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440), em vigor a partir de 2023-09-30"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A presente portaria regulamenta o modelo e as formalidades a cumprir para a requisição e fornecimento da estampilha aplicável aos produtos do tabaco que beneficiam de isenção de imposto sobre o tabaco, ao abrigo das alíneas a), b), c), d) e f) do n.º 1 do artigo 6.º, do artigo 6.º-A e das alíneas b) e c) do n.º 1 do artigo 102.º do Código dos Impostos Especiais de Consumo, devidamente acondicionados em embalagens individuais.\n\n2 - Para efeitos do número anterior é considerada embalagem individual, a embalagem mais pequena de um produto do tabaco que é colocada no mercado.\n\n3 - A estampilha referida no n.º 1 é utilizada como elemento de segurança, em conformidade com o disposto no n.º 3 do artigo 13.º-B da Lei n.º 37/2007, de 14 de agosto, cumprindo as especificações exigidas pela Decisão de Execução (UE) 2018/576 da Comissão, de 15 de dezembro de 2017, relativa às normas técnicas para os elementos de segurança aplicados aos produtos do tabaco.\n\n> Nota: [Artigo 3.º, Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440) As alterações ao presente artigo, no que diz respeito aos produtos do tabaco que não sejam cigarros ou tabaco de enrolar, aplicam-se àqueles que forem produzidos ou introduzidos em livre prática a partir de 20 de maio de 2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440), em vigor a partir de 2023-09-30"
+  },
+  "222200496": {
+   "fragment_id": "222280780",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisição e fornecimento",
+   "in_force_from": "2023-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440), em vigor a partir de 2023-09-30"
+   ],
+   "markdown": "###### Artigo 3.º — Requisição e fornecimento\n\n1 - As estampilhas devem ser requisitadas à INCM por transmissão eletrónica de dados, através do Portal da Autoridade Tributária e Aduaneira, no sítio das 'Declarações Eletrónicas' da área aduaneira:\n\na) Pelos operadores económicos, no caso de deterem o estatuto de depositário autorizado, destinatário registado ou destinatário registado temporário;\n\nb) Pela estância aduaneira onde processem as suas obrigações declarativas, no caso de operadores económicos não mencionados na alínea anterior.\n\n2 - As estampilhas são fornecidas em maços de 500 unidades.\n\n3 - A INCM informa os requisitantes, por via eletrónica, das quantidades de estampilhas fornecidas.\n\n> Nota: [Artigo 3.º, Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440) As alterações ao presente artigo, no que diz respeito aos produtos do tabaco que não sejam cigarros ou tabaco de enrolar, aplicam-se àqueles que forem produzidos ou introduzidos em livre prática a partir de 20 de maio de 2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440), em vigor a partir de 2023-09-30"
+  },
+  "222200497": {
+   "fragment_id": "222280781",
+   "type": 11,
+   "heading": "Artigo 4.º — Aposição",
+   "in_force_from": "2023-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440), em vigor a partir de 2023-09-30"
+   ],
+   "markdown": "###### Artigo 4.º — Aposição\n\n1 - As estampilhas são apostas nas embalagens individuais dos produtos do tabaco nos entrepostos fiscais de produção, nos entrepostos fiscais de armazenagem, nos entrepostos aduaneiros e nos armazéns de depósito temporário.\n\n2 - Sem prejuízo do disposto no número anterior, as estampilhas podem ser remetidas para outros Estados membros, para efeitos de aposição nas embalagens individuais dos produtos do tabaco durante o processo de fabrico, sendo este procedimento obrigatório no caso de receção de produtos por destinatários registados e destinatários registados temporários.\n\n3 - Os operadores económicos devem proceder à aposição das estampilhas nas embalagens individuais, em local perfeitamente visível e de modo a garantirem que não seja possível a sua reutilização.\n\n4 - Nos casos em que as embalagens individuais sejam celofanadas, as estampilhas devem ser apostas por baixo do celofane.\n\n> Nota: [Artigo 3.º, Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440) As alterações ao presente artigo, no que diz respeito aos produtos do tabaco que não sejam cigarros ou tabaco de enrolar, aplicam-se àqueles que forem produzidos ou introduzidos em livre prática a partir de 20 de maio de 2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2023 - Diário da República n.º 190/2023, Série I de 2023-09-29](https://diariodarepublica.pt/dr/detalhe/portaria/292-2023-222239440), em vigor a partir de 2023-09-30"
+  },
+  "222200493": {
+   "fragment_id": "222280784",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 15 de julho de 2019."
+  }
+ }
+}

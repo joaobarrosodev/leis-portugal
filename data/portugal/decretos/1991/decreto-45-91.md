@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:667946:por
+title: Decreto n.º 45/91
+short_title: null
+summary: Rectifica a versão em língua portuguesa do Acordo entre o Governo da República Portuguesa e o Governo da República
+  Federal da Áustria Relativo ao Transporte Rodoviário Internacional de Passageiros e Mercadorias
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 45/91
+official_date: null
+publication_date: '1991-07-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 153/1991, Série I-A de 1991-07-06
+  number: '153'
+  series: I
+  supplement: null
+  pages: 3484 - 3484
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/07/153a00/34843484.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/45/1991/07/06/p/dre/pt/html
+  oj: null
+  dre: '667946'
+  dre_path: /dr/detalhe/decreto/45-1991-667946
+  internal: pt:dre:667946:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-1991-667946
+  metadata_url: https://data.dre.pt/eli/dec/45/1991/07/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45-1991-667946
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:04:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3eb05502faa79e8d2e9dbabcc38fb015146c7940d2aeca7d8628ae0879c40e1c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:04:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Áustria
+- Convenção
+- Portugal
+- Transporte
+- Transporte de Passageiros
+- Viena
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:04:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45/91
+
+de 6 de Julho
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição o Governo decreta o seguinte:
+
+Artigo único. - 1 - É rectificada a versão em língua portuguesa do n.º 1 do artigo 12.º do Acordo entre o Governo da República Portuguesa e o Governo da República Federal da Áustria Relativo ao Transporte Rodoviário Internacional de Passageiros e Mercadorias, assinado em Viena, em 18 de Abril de 1985, e aprovado pelo Decreto n.º 18/86, de 4 de Dezembro, sendo a sua nova redacção a seguinte:
+
+Os veículos matriculados no território de qualquer das Partes Contratantes estão isentos dos impostos e das taxas que incidam sobre a exploração ou posse dos veículos a motor no território da outra Parte Contratante.
+
+2 - É rectificada a versão em língua portuguesa do n.º 2 do artigo 12.º do Acordo referido no número anterior, cuja nova redacção é a seguinte:
+
+A isenção referida no n.º 1 não abrangerá os impostos ou as taxas sobre consumo de combustíveis nem as portagens (encargos especiais pela utilização de pontes, túneis, batelões ou troços de estrada específicos).
+
+Visto e aprovado em Conselho de Ministros de 29 de Maio de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - João de Deus Rogado Salvador Pinheiro - Joaquim Martins Ferreira do Amaral.
+
+Assinado em 19 de Junho de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 22 de Junho de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

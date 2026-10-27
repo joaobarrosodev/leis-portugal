@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:318969:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-934135236",
+ "dre_path": "/dr/detalhe/portaria/102-2001-318969",
+ "source_lastmod": "2025-09-04",
+ "versions": [
+  {
+   "date": "2001-02-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "933651633"
+   ]
+  }
+ ],
+ "fragments": {
+  "933651633": {
+   "fragment_id": "934135237",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 102/2001\n\nde 16 de Fevereiro\n\nA requerimento da ARCA - Associação Recreativa de Coimbra Artística, entidade instituidora da Escola de Tecnologias Artísticas de Coimbra, reconhecida oficialmente pela Portaria n.º 964/89, de 31 de Outubro, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (Decreto-Lei n.º 271/89, de 19 de Agosto);\n\nConsiderando o disposto na Portaria n.º 1096/95, de 5 de Setembro;\n\nTendo em vista o disposto no artigo 67.º e no n.º 5 do artigo 53.º do Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo Decreto-Lei n.º 16/94, de 22 de Janeiro, alterado, por ratificação, pela Lei n.º 37/94, de 11 de Novembro, e pelo Decreto-Lei n.º 94/99, de 23 de Março);\n\nAo abrigo do disposto no artigo 64.º do referido Estatuto:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:"
+  }
+ }
+}

@@ -1,0 +1,339 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31984R2261:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01984R2261-20051101",
+ "dre_path": null,
+ "source_lastmod": "2005-11-01",
+ "versions": [
+  {
+   "date": "1984-08-03",
+   "future": false,
+   "celex": "31984R2261",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7a059ccbdab8f1ac",
+    "9bb05a6f78bbffcc",
+    "2bc1f3a6d999fdf6",
+    "a7e8835cb859bb3d",
+    "a9fe88b7ff454bb1",
+    "14ce5c12246c2ac0",
+    "25a370c0732190c8",
+    "31b3d719a81f5024",
+    "5522bbf1489b6029",
+    "f3c3d6d1895b2583",
+    "2d3644ff9744cb5e",
+    "30e936b12839aee0",
+    "340c2eab6c74bb30",
+    "7bb93ae290ed6a84",
+    "8c33b5d86da3f74f",
+    "9386b652e4079fc1",
+    "0ad52d31ff725ff9",
+    "409075b26c243aed",
+    "69b8d0b22e9b42cc",
+    "72d7e552cc261e66",
+    "efc6b5b6a6eff9ff",
+    "ff55da0505e2539c",
+    "e05c531bdfd2d8b3",
+    "b05d5fd768a00e82",
+    "78378a782d3d2fdc",
+    "dd2668ac5a283900",
+    "a927ea284bae65e7",
+    "5cd14d6d2e26737d",
+    "6d7a50a19f43ab8c",
+    "80840f5cacb99466"
+   ]
+  },
+  {
+   "date": "2005-11-01",
+   "future": false,
+   "celex": "01984R2261-20051101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — Disposições Gerais",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime CAPÍTULO II — Obrigações dos olivicultores",
+    "Suprime Artigo 3o",
+    "Suprime CAPÍTULO III — Organizações de produtores",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime CAPÍTULO IV — Uniões de organizações de produtores",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime CAPÍTULO V — Regras comuns às organizações de produtores de azeite e às suas uniões",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime CAPÍTULO VI — Regime dos controlos",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime CAPÍTULO VII — Disposições finais",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o"
+   ],
+   "fragments": [
+    "f7ef6c7a0f815928"
+   ]
+  }
+ ],
+ "fragments": {
+  "7a059ccbdab8f1ac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2261/84 do Conselho, de 17 de Julho de 1984, qua adopta as regras gerais relativas à concessão de ajudas à produção de azeite e às organizações de produtores** *Jornal Oficial nº L 208 de 03/08/1984 p. 0003 - 0010 Edição especial espanhola: Capítulo 03 Fascículo 31 p. 0232 Edição especial portuguesa: Capítulo 03 Fascículo 31 p. 0232 Edição especial finlandesa: Capítulo 3 Fascículo 17 p. 0252 Edição especial sueca: Capítulo 3 Fascículo 17 p. 0252*\n\nREGULAMENTO (CEE) No 2261/84 DO CONSELHO de 17 de Julho de 1984 que adopta as regras gerais relativas à concessão de ajudas à produção de azeite e às organizações de produtores\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento no 136/66/CEE do Conselho, de 22 de Setembro de 1966, que estabelece uma organização comum de mercado no sector das matérias gordas (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) no 2260/84 (2) e, nomeadamente, o no 4 do seu artigo 5o,\n\nTendo em conta a proposta da Comissão,\n\nConsiderando que o artigo 5o do Regulamento no 136/66/CEE instituiu um regime de ajuda à produção de azeite; que esta ajuda, com base nas superfícies existentes em determinada data, é concedida em função da quantidade de azeite efectivamente produzida, aos olivicultores que são membros das organizações de produtores, referidas no no 1 do artigo 20o C do Regulamento no 136/66/CEE e cuja produção média é de pelo menos 100 quilogramas de azeite por campanha, enquanto que para outros olivicultores é concedido em função do número e da capacidade de produção das oliveiras bem como dos rendimentos destas últimas, estabelecidos de forma fixa, e sob condição de que as azeitonas produzidas tenham sido colhidas;\n\nConsiderando que, enquanto não existir o cadastro olivícola, há que calcular a ajuda para os olivicultores em causa em função dos rendimentos médios das oliveiras;\n\nConsiderando que, para assegurar o bom funcionamento de regime de ajudas é necessário determinar os tipos de azeite para os quais a ajuda é concedida;\n\nConsiderando que, para assegurar um bom funcionamento do regime de ajudas, convém precisar os direitos e as obrigações de todas as pessoas interessadas neste regime, ou seja, olivicultores, organizações de produtores e uniões destas organizações bem como os Estados-membros em causa;\n\nConsiderando que as organizações de produtores de azeite referidas no no 1 do artigo 20o C do Regulamento no 136/66/CEE devem ser constituídas por um número mínimo de membros ou representar uma percentagem mínima de olivicultores ou de produção de azeite; que estes limites devem ser fixados a níveis que tenham em conta, por um lado, a necessidade de uma acção eficaz das organizações e, por outro lado, as possibilidades de controlo dos Estados-membros produtores; que, a fim de assegurar às organizações uma gestão eficaz, devem determinar-se certas condições complementares que os olivicultores membros devem preencher;\n\nConsiderando que as uniões das organizações de produtores de azeite referidas no no 2 do artigo 20o C do dito regulamento devem ser compostas por um número mínimo de organizações ou representar uma percentagem mínima da produção nacional; que estes limites devem ser fixados em níveis que permitam que as tarefas particulares de coordenação e de controlo que estas uniões devem executar possam ser cumpridas de modo eficaz;\n\nConsiderando que o artigo 20o C do dito regulamento previu para as organizações de produtores e respectivas uniões determinadas tarefas de verificação e de coordenação; que convém desde já definir as operações a efectuar para o cumprimento dessas tarefas;\n\nConsiderando que, num espírito de boa gestão administrativa as organizações de produtores, bem como as respectivas uniões apresentam um pedido de reconhecimento junto das autoridades nacionais competentes em tempo útil antes do início da campanha; que o Estado-membro decide sobre este pedido num prazo razoável;\n\nConsiderando que, em conformidade com o no 1 do artigo 20o D do Regulamento no 136/66/CEE, uma percentagem da ajuda pode ser retida, a fim de contribuir para os custos resultantes das operações de controlo em relação às organizações de produtores e suas uniões, que convém assegurar que as verbas retidas sejam utilizadas apenas para o financiamento das tarefas previstas nos nos 1 e 2 do artigo 20o C do dito regulamento;\n\nConsiderando que o no 2 do artigo 20o D do regulamento acima citado reservou às uniões o benefício de adiantamentos sobre o montante da ajuda; que, por razões de boa gestão administrativa, convém prever que este adiantamento não ultrapasse uma determinada percentagem do montante da ajuda;\n\nConsiderando que para assegurar um bom funcionamento do regime da ajuda à produção a conceder aos olivicultores membros de uma organização do produtores, convém prever que esta ajuda seja paga apenas em relação às quantidades de azeite obtidas nos lagares autorizados; que, com vista à sua autorização convém que os lagares interessados respeitem um certo número de condições;\n\nConsiderando que a ajuda em questão representa um interesse considerável para os produtores de azeite e que constitui um encargo financeiro para a Comunidade; que, para garantir que esta ajuda seja concedida unicamente em relação ao azeite que dele pode beneficiar, é conveniente prever um regime de controlo administrativo adequado;\n\nConsiderando que, num espírito de boa gestão do regime da ajuda é necessário prever que, em caso de dúvida referente à produção efectiva de um olivicultor, o Estado-membro determina a quantidade de azeite admissível ao auxílio;\n\nConsiderando que a experiência mostrou que, tendo em conta o número de olivicultores a controlar e apesar de se ter criado no plano normativo um grande número de controlos específicos se colocam problemas à execução pontual e eficaz dos controlos e das verificações; que, a fim de resolver estes problemas se torna necessário constituir, em cada Estado-membro produtor, um ficheiro informatizado que compreenda todos os elementos adequados para facilitar as operações de controle e de investigação rápida das irregularidades,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "9bb05a6f78bbffcc": {
+   "fragment_id": "CAPÍTULO I — Disposições Gerais",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Disposições Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições Gerais"
+  },
+  "2bc1f3a6d999fdf6": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nA partir da campanha de comercialização de 1984/1985, aplicam-se as regras gerais definidas no presente regulamento para a concessão da ajuda à produção de azeite referida no artigo 5o do Regulamento no 136/66/CEE."
+  },
+  "a7e8835cb859bb3d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. A ajuda à produção é concedida para o azeite, desde que este corresponda às definições que figuram nos pontos 1 e 4 do anexo ao Regulamento no 136/66/CEE e as superfícies cultivadas tenham sido objecto da declaração prevista no no 1 do artigo 1o do Regulamento (CEE) no 1590/83 (3) ou estejam em conformidade com os critérios definidos no no 2 do artigo 1o deste último regulamento.\n\n2. A ajuda é concedida aos olivicultores estabelecidos nos Estados-membros. Na acepção do presente regulamento, entende-se por olivicultor o agricultor que explora um olival que produz azeitonas destinadas à produção de azeite.\n\n3. A ajuda é concedida mediante pedido apresentado pelos interessados ao Estado-membro no qual o azeite foi produzido.\n\n4. No caso de olivicultores que são membros de uma organização de produtores referida no no 1 do artigo 20o C do Regulamento no 136/66/CEE e cuja produção média seja pelo menos de 100 quilogramas de azeite por campanha, a ajuda é concedida em conformidade com o no 2, primeiro travessão, do artigo 5o do Regulamento no 136/66/CEE para a quantidade de azeite efectivamente produzida num lagar autorizado, sem prejuízo do disposto no artigo 7o.\n\nEm relação aos outros olivicultores, a ajuda é concedida em conformidade com o no 2, segundo travessão, do artigo 5o do Regulamento no 136/66/CEE e é igual á resultante da aplicação do rendimento em azeitona e em azeite estabelecidos de forma fixa em conformidade com o artigo 18o, ao número de oliveiras em produção.\n\n5. Para as campanhas de comercialização de 1984/1985 e 1985/1986, os Estados-membros produtores determinam os olivicultores, cuja produção média é de pelo menos 100 quilogramas de azeite por campanha e que têm direito à ajuda concedida em função da quantidade de azeite efectivamente produzida, aplicando em relacção a cada campanha os rendimentos em azeitonas e em azeite, fixados em conformidade com o artigo 18o, ao número de oliveiras em produção.\n\n6. Antes de 31 de Março de 1986, o Conselho, deliberando por maioria qualificada sob proposta da Comissão, estabelece os critérios a aplicar para a determinação, a partir da campanha de 1986/1987, dos olivicultores cuja produção média é de pelo menos 100 quilogramas de azeite por campanha."
+  },
+  "a9fe88b7ff454bb1": {
+   "fragment_id": "CAPÍTULO II — Obrigações dos olivicultores",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Obrigações dos olivicultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Obrigações dos olivicultores"
+  },
+  "14ce5c12246c2ac0": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Cada olivicultor apresentará às autoridades competentes do Estado-membro em causa, no início da campanha e antes de uma data a determinar, uma declaração de cultura que no momento da sua primeira apresentação inclua:\n\n- as informações relativas às oliveiras cultivadas e à sua localização,\n\n- uma cópia da declaração apresentada para efeitos de elaboração do cadastro olivícola. No que se refere à Grécia e até à elaboração do cadastro olivícola neste Estado-membro, esta declaração pode ser substituída pela referida no no 1 do artigo 1o do Regulamento (CEE) no 1590/83.\n\n2. Para as campanhas seguintes, antes de uma data a determinar, cada olivicultor apresentará uma declaração complementar que indique as alterações eventualmente verificadas ou que declare que não há alterações relativamente à sua precedente declaração de cultura.\n\n3. Os olivicultores que são membros de uma organização de produtores apresentam à organização à qual pertencem antes de uma data a determinar um pedido de ajuda individual, que inclua a prova da trituração das azeitonas ou a factura de venda das azeitonas ou estes dois elementos.\n\n4. Os olivicultores referidos no no 3 entregam a declaração de cultura e o pedido de ajuda por intermédio da sua organização.\n\n5. Um olivicultor só pode ser membro de uma única organização de produtores para as superfícies situadas na mesma zona administrativa e apenas pode apresentar uma declaração de cultura e um único pedido de ajuda para essas superfícies.\n\nCaso um destes olivicultores deixe de fazer parte da sua organização antes da expiração do período previsto no no 1, alínea g), primeiro travessão do artigo 20o C do Regulamento no 136/66/CEE, não pode aderir a outra organização prevista pelo presente regulamento, durante o tempo que falta decorrer até à expiração daquele período.\n\nA organização de produtores em causa comunicará ao Estado-membro os nomes dos olivicultores referidos no segundo parágrafo.\n\n6. Em relação aos olivicultores que não são membros de uma organização de produtores, a declaração de cultura por eles apresentada vale como pedido de ajuda se for completada, antes de uma data a determinar, por:\n\n- uma declaração de que procedeu, para a campanha em curso, à colheita das azeitonas,\n\ne\n\n- a indicação do destino das azeitonas.\n\n7. O desrespeito por parte dos olivicultores das obrigações previstas no presente artigo tem como consequência a recusa da ajuda."
+  },
+  "25a370c0732190c8": {
+   "fragment_id": "CAPÍTULO III — Organizações de produtores",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Organizações de produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Organizações de produtores"
+  },
+  "31b3d719a81f5024": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Sem prejuízo das outras condições referidas no no 1 do artigo 20o C do Regulamento no 136/66/CEE, uma organização de produtores só pode ser reconhecida nos termos do dito regulamento, se:\n\na) For composta por um mínimo de 700 olivicultores sempre que agir como organização de produção e de valorização das azeitonas e do azeite,\n\nou se\n\nb) For, nos outros casos, composta por um mínimo de 1200 olivicultores; caso uma ou várias organizações de produção ou de valorização de azeitonas e de azeite forem membros da organização em causa, os olivicultores assim agrupados serão considerados individualmente para o cálculo do número mínimo acima referido,\n\nou se\n\nc) Representar uma percentagem de pelo menos 25 % dos olivicultores ou produção de azeite da região económica onde está constituída.\n\n2. Apenas podem ser membros de uma organização de produtores os olivicultores que forem proprietários de um olival que explorem ou os olivicultores que explorem um olival por um período mínimo de três anos.\n\nPara este efeito, os olivicultores apresentam à organização de produtores de que são membros as informações necessárias para provar a sua condição de produtor, bem como as relativas a qualquer alteração verificada depois do seu pedido de adesão.\n\n3. Na acepção do presente regulamento, entende-se por região económica uma região que, segundo os critérios a fixar pelo Estado-membro em causa, tendo em conta a situação da olivicultura, apresente condições de produção semelhantes.\n\n4. Os Estados-membros tomarão as medidas necessárias a fim de estimular a criação de agrupamentos de produtores na acepção do Regulamento (CEE) no 1360/78 (4) ou de outras organizações de produção e de valorização das azeitonas e do azeite, susceptíveis de serem reconhecidas como organizações de produtores na acepção do presente regulamento."
+  },
+  "5522bbf1489b6029": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. A fim de obter o reconhecimento desde o início de uma campanha, a organização de produtores apresentará, o mais tardar até 30 de Junho da campanha precedente, um pedido à autoridade competente do Estado-membro em causa.\n\n2. O mais tardar até 15 de Outubro a seguir à recepção do pedido, a autoridade competente, após ter verificado se estão preenchidas as condições referidas no no 1 do artigo 20o C do Regulamento no 136/66/CEE bem como as do artigo 4o, pronuncia-se sobre o pedido e comunica imediatamente a sua decisão à organização em causa bem como à Comissão.\n\nO reconhecimento produz efeitos a partir do início da campanha a seguir àquela em que o pedido foi entregue.\n\n3. As organizações de produtores reconhecidas declaram à autoridade competente, o mais tardar até 30 de Junho de cada ano, as eventuais modificações verificadas na sua estrutura depois do seu reconhecimento da sua última declaração anual e os eventuais pedidos de exclusão e de adesão recebidos.\n\nCom base nesta declaração e nos resultados dos seus eventuais controlos, a autoridade competente verificará se as condições requeridas para o reconhecimento continuam a ser respeitadas.\n\nCaso estas condições deixem de ser respeitadas ou a estrutura de uma organização não permita a verificação da produção dos seus membros, a autoridade competente deve proceder imediatamente, e o mais tardar antes do início da campanha seguinte, à retirada de reconhecimento comunicando esta decisão à Comissão."
+  },
+  "f3c3d6d1895b2583": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. As organizações de produtores reconhecidas:\n\n- entregam, em conformidade com o no 1 do artigo 3o, as declarações de cultura de todos os seus membros,\n\n- efectuam no local um controlo dos elementos de uma percentagem destas declarações a determinar,\n\n- apresentam, uma vez por mês, os pedidos de ajuda dos membros sob uma forma normalizada e adequada para o tratamento informático previsto no artigo 16o A ajuda é pedida para a quantidade produzida pelos membros que atingiram a sua produção de azeite, se os controlos referidos no artigo 8o foram efectuados e as obrigações daí resultantes cumpridas.\n\nTodos os pedidos relativos à produção de uma campanha devem, sob pena de exclusão, ser apresentadas antes de uma data a determinar.\n\n2. Caso uma organização de produtores adira a uma união, as declarações de cultura e os pedidos de ajuda dos olivicultores-membros devem ser apresentados pela União."
+  },
+  "2d3644ff9744cb5e": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nCaso um olivicultor membro de uma organização de produtores:\n\n- tenha igualmente tomado de arrendamento olivais por um período inferior a três anos,\n\n- tenha vendido parcial ou totalmente a sua produção de azeitonas,\n\n- tenha aderido à organização de produtores no decurso de una companha,\n\na quantidade admitida a beneficiar da ajuda não pode incidir sobre uma quantidade de azeite superior à quantidade de azeite determinada forfetariamente através da aplicação ao número de oliveiras em produção os rendimentos em azeitonas e em azeite fixados em conformidade com o artigo 18o."
+  },
+  "30e936b12839aee0": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Antes da apresentação do pedido de ajuda, cada organização de produtores verifica a quantidade de azeite para o qual a ajuda é pedida por cada um dos seus membros. Com vista a esta verificação as organizações de produtores controlam nomeadamente:\n\n- a compatibilidade entre a produção de azeitonas declarada por cada olivicultor como tendo sido triturada num lagar autorizado e os dados que resultem da sua declaração de cultura, com base em critérios a determinar,\n\n- a correspondência entre as indicações fornecidas por cada olivicultor referentes, por um lado, às quantidades de azeitonas trituradas e às quantidades de azeite obtidas e, por outro lado, às quantidades de azeitonas e de azeite indicadas no registo de existências dos lagares aprovados.\n\n2. A organização de produtores transmite às autoridades competentes do Estado-membro em causa os processos dos seus membros nos casos seguintes:\n\n- sempre que não se verificar a compatibilidade referida no no 1, primeiro travessão, após a organização em causa ter colhido todos os documentos comprovativos e todos os elementos úteis para a determinação da quantidade efectivamente produzida,\n\n- sempre que não se verificar a correspondência referida no no 1, segundo travessão,\n\n- sempre que os dados que figuram na declaração de cultura não corresponderem à situação verificada no momento dos controlos."
+  },
+  "340c2eab6c74bb30": {
+   "fragment_id": "CAPÍTULO IV — Uniões de organizações de produtores",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Uniões de organizações de produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Uniões de organizações de produtores"
+  },
+  "7bb93ae290ed6a84": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Sem prejuízo das condições referidas no no 2 artigo 20o C do Regulamento no 136/66/CEE uma união só pode ser reconhecida se for composta por um mínimo de dez organizações de produtores reconhecidas em conformidade com o artigo 5o ou de um número de organizações que representem pelo menos 5 % da produção de azeite do Estado-membro em causa.\n\nTodavia, as organizações de produtores que compõem uma união devem pertencer a várias regiões económicas.\n\n2. No que se refere ao reconhecimento e sua retirada, o artigo 5o aplica-se igualmente às uniões."
+  },
+  "8c33b5d86da3f74f": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nAs uniões referidas no no 2 do artigo 20o C do Regulamento no 136/66/CEE:\n\n- coordenam as actividades das organizações que as compõem e velam para que as suas actividades estejam em conformidade com as disposições do presente regulamento e, nomeadamente, procedem directamente e segundo uma percentagem a determinar à verificação do modo como são efectuados os controlos referidos nos artigos 6o e 8o,\n\n- entregam junto das autoridades competentes as declarações de cultura e os pedidos de ajuda que lhes são transmitidos pelas organizações que as compõem,\n\n- recebem do Estado-membro em causa os adiantamentos em relação à ajuda à produção referidos no artigo 12o, bem como o saldo das ajudas e procedem imediatamente à sua repartição entre os produtores membros das organizações que as compõem."
+  },
+  "9386b652e4079fc1": {
+   "fragment_id": "CAPÍTULO V — Regras comuns às organizações de produtores de azeite e às suas uniões",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — Regras comuns às organizações de produtores de azeite e às suas uniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Regras comuns às organizações de produtores de azeite e às suas uniões"
+  },
+  "0ad52d31ff725ff9": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. O montante de retenção referida no no 1 do artigo 20o D do Regulamento no 136/66/CEE é utilizado do modo seguinte:\n\na) Um valor a determinar é pago em cada união em função do número dos membros das organizações de produtores de que cada união é composta;\n\nb) O saldo é pago a todas as organizações de produtores em função:\n\n- do número de pedidos de ajuda individuais que são apresentados a cada organização pelos seus membros,\n\n- dos controlos efectuados em aplicação do regime de ajuda.\n\n2. Os Estados-membros produtores certificam-se que as verbas destinadas às uniões e às organizações de produtores em aplicação do no 1 são utilizadas exclusivamente para fins de financiamento das actividades que lhes incumbem nos termos do presente regulamento.\n\n3. Se as verbas não forem utilizadas no todo ou em parte em conformidade com o no 2, devem ser reembolsadas ao Estados-membro e são descontadas das despesas financiadas pelo Fundo Europeu de Orientação e de Garantia Agrícola.\n\n4. A fim de facilitar o funcionamento das uniões e das organizações de produtores, os Estados-membros estão autorizados a pagar-lhes, no início de cada campanha, um adiantamento forfetário a determinar em função do número de aderentes.\n\n5. Os Estados-membros produtores determinam as modalidades de atribuição da ajuda e os prazos de pagamento aos olivicultores."
+  },
+  "409075b26c243aed": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Cada Estado-membro produtor está autorizado a pagar às uniões de organizações de produtores um adiantamento sobre o montante das ajudas pedidas.\n\n2. Durante as campanhas de 1984/1985, 1985/1986 e 1986/1987, o adiantamento referido no no 1 não pode ultrapassar, para cada olivicultor:\n\n- o valor que resulta da aplicação dos rendimentos em azeitonas e em azeite fixados em conformidade com o artigo 18o, ao número de oliveiras em produção resultante das declarações de cultura, ou valor que resulta da quantidade indicada no pedido, se esta quantidade for inferior à anteriormente referida,\n\nou\n\n- 50 % do valor resultante da média das ajudas efectivamente pagas no decurso das duas campanhas precedentes.\n\nArtículo 13o\n\n1. Apenas serão autorizados pelos Estados-membros os lagares cujos titulares:\n\na) Tenham transmitido ao respectivo Estado-membro, segundo critérios a determinar, todas as informações relativas ao seu equipamento técnico e à sua capacidade real de trituração, bem como toda a alteração que se lhes refira;\n\nb) Se tenham comprometido a submeter-se a qualquer controlo previsto no âmbito da aplicação do regime de ajuda, a aceitar no seu estabelecimento todos os meios de controlo considerados necessários e a permitir o eventual controlo da contabilidade financeira;\n\nc) Não tenham sido objecto de procedimento judicial, no decurso da campanha precedente, por irregularidades verificadas no momento dos controlos efectuados em execução do artigo 14o e do presente artigo; no que se refere à autorização para a campanha de 1984/1985:\n\n- não tenham sido objecto de procedimento judicial por irregularidades verificadas no momento dos controlos efectuados para a campanha de 1983/1984 em execução dos artigos 7o e 9o do Regulamento (CEE) no 2959/82 (5),\n\ne\n\n- não tenham sido objecto de uma retirada da autorização por um período além de 31 de Outubro de 1984 por força desse mesmo regulamento;\n\nd) Se comprometem a ter um registo de existências normalizado que corresponda a critérios a determinar.\n\n2. O Estado-membro em causa, antes de conceder uma autorização, verifica se as condições de autorização estão preenchidas, e mais particularmente, através de um controlo no local, verifica o equipamento técnico e a capacidade real de trituração dos lagares.\n\n3. Durante as campanhas de 1984/1985 e de 1985/1986, o Estado-membro em causa pode conceder uma autorização provisória ao langar interessado, desde a apresentação do seu pedido de autorização contendo os elementos referidos no no 1.\n\nEsta autorização provisória passa a definitiva desde que o Estado-membro em causa verifique estarem preenchidas as condições de autorização previstas no no 1.\n\nCaso se verifique que uma das condições referidas no no 1 não foi preenchida a autorização provisória será retirada.\n\n4. Se uma das condições da autorização prevista no no 1 deixar de estar preenchida, a autorização é retirada por um período com uma duração em função da gravidade da infracção.\n\n5. Em caso de retirada da autorização em conformidade com os nos 3 e 4, não pode ser concedida uma nova autorização durante todo o período da retirada:\n\n- à mesma pessoa singular ou colectiva que explore o lagar em causa,\n\nou\n\n- a qualquer pessoa singular ou colectiva que queira explorar o lagar em causa, a menos que prove, de modo considerado satisfatório pelo Estado-membro interessado, que o pedido de uma nova autorização não se destina a contornar a sanção prevista.\n\n6. Caso a retirada da autorização de um lagar possa ter consequências graves sobre a capacidade de trituração numa determinada zona de produção, pode ser decidido autorizar esse lagar sob um regime de controlo especial."
+  },
+  "69b8d0b22e9b42cc": {
+   "fragment_id": "CAPÍTULO VI — Regime dos controlos",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — Regime dos controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Regime dos controlos"
+  },
+  "72d7e552cc261e66": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Cada Estado-membro produtor aplica um regime de controlos que garanta que o produto para o qual a ajuda é concedida tem direito ao benefício dessa ajuda.\n\n2. Os Estados-membros produtores controlarão a actividade se cada organização de produtores e se cada união e, nomeadamente, as operações de controlo efectuadas por estes organismos.\n\n3. No decurso de cada campanha e, nomeadamente, no decurso do período de trituração, os Estados-membros produtores controlam no local a actividade e o registo de existências numa percentagem de lagares autorizados a determinar.\n\nOs lagares escolhidos devem ser representativos das capacidades de trituração de uma zona de produção.\n\n4. No que se refere ao azeite referido no ponto 1, anexo do Regulamento no 136/66/CEE e produzido por olivicultores que não sejam membros de uma organização de produtores, o controlo é efectuado por sondagem, no local, e deve permitir verificar:\n\n- a exactidão das declarações de cultura,\n\n- o destino das azeitonas colhidas para a produção de azeite e, se possível, a transformação efectiva dessas azeitonas em azeite.\n\nOs controlos incidem sobre uma percentagem de olivicultores a determinar e tendo em conta, nomeadamente, a dimensão das explorações.\n\n5. Para a realização dos controlos e verificações referidas, o Estado-membro utiliza, entre outros meios, os ficheiros informatizados, referidos no artigo 16o.\n\nEstes ficheiros são utilizados para orientar os controlos a efectuar por força dos nos 1 a 4."
+  },
+  "efc6b5b6a6eff9ff": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. O Estado-membro determina a quantidade de azeite admissível à ajuda com base nos pedidos apresentados em conformidade com os artigos 3o e 6o, tendo em conta todos os elementos adequados e, nomeadamente, o conjunto dos controlos e das verificações previstas pelo presente regulamento.\n\nNo que se refere ao azeite referido no ponto 4 do anexo do Regulamento no 136/66/CEE a quantidade admissível ao benefício da ajuda é determinada com base na produção de azeite referida no ponto 1 do dito anexo.\n\n2. O Estado-membro determina a quantidade de azeite admissível à ajuda para os produtores associados cujos processos lhe tenham sido transmitidos pelas respectivas organizações em conformidade com o no 2 do artigo 8o.\n\n3. Sempre que os controlos referidos nos artigos 13o e 14o não permitem confirmar os dados que figuram no registo de existências de um lagar autorizado, o Estado-membro em causa, sem prejuízo das sanções eventualmente aplicáveis ao lagar em questão, determina a quantidade de azeite admissível à ajuda para cada produtor membro de uma organização que tenha feito triturar a sua produção de azeitonas no dito lagar.\n\n4. Com vista à determinação da quantidade admissível à ajuda, nomeadamente, nos casos referidos nos nos 2 e 3, o Estado membro tomará em consideração, nomeadamente, os rendimentos em azeitonas e em azeite estabelecidos forfetariamente em conformidade com o artigo 18o."
+  },
+  "ff55da0505e2539c": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. Cada Estado-membro produtor constitui e mantém actualizados ficheiros permanentes informatizados de dados olivícolas.\n\n2. Estes ficheiros devem conter pelo menos:\n\na) No que se refere a cada olivicultor e relativamente a cada campanha para a qual ele apresentou um pedido de ajuda:\n\n- os elementos referidos na declaração de cultura prevista no artigo 3o,\n\n- as quantidades de azeite produzidas e que foram objecto de um pedido de ajuda à produção, e as quantidades para as quais a ajuda é paga,\n\n- os elementos que resultam dos controlos no local de que o olivicultor foi objecto;\n\nb) No que se refere às organizações de produtores e suas uniões, todos os elementos que permitem verificar as suas actividades no âmbito do presente regime, bem como os resultados dos controlos efectuados pelos Estados-membros;\n\nc) No que se refere aos lagares e para cada campanha, os dados que figuram no registo de existências, os elementos relativos ao equipamento e à capacidade de trituração, bem como os resultados dos controlos efectuados por força do presente regulamento;\n\nd) Os rendimentos indicativos anuais de cada zona homogénea de produção."
+  },
+  "e05c531bdfd2d8b3": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. Os ficheiros referidos no artigo 16o são confidenciais.\n\nTêm acesso a estes ficheiros:\n\n- as autoridades nacionais habilitadas pelo Estado-membro,\n\n- os agentes da Comissão, em colaboração com os funcionários competentes dos Estados-membros e em conformidade com o Regulamento (CEE) no 729/70 (6) com a última redacção que lhe foi dada pelo Regulamento (CEE) no 3509/80 (7), nomeadamente, no que se refere aos procedimentos previstos,\n\n- as organizações de produtores e respectivas uniões, para os elementos que os Estados-membros julguem necessários, com vista ao controlo eficaz dos seus membros actuais respectivos.\n\n2. Os ficheiros criados e o sistema de tratamento utilizado para o seu controlo devem ser compatíveis com o sistema informático utilizado por cada Estado-membro produtor para o cadastro olivícola."
+  },
+  "b05d5fd768a00e82": {
+   "fragment_id": "CAPÍTULO VII — Disposições finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições finais"
+  },
+  "78378a782d3d2fdc": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nOs rendimentos em azeitonas e em azeite referidos no no 2, segundo travessão, primeiro parágrafo, do artigo 5o do Regulamento no 136/66/CEE são fixados por zonas homogéneas de produção o mais tardar até 31 de Maio de cada ano, com base nos dados fornecidos pelos Estados-membros produtores o mais tardar até 30 de Abril de cada ano."
+  },
+  "dd2668ac5a283900": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nAs regras de aplicação do presente regulamento são adoptadas segundo o processo previsto no artigo 38o do Regulamento no 136/66/CEE.\n\nSegundo o mesmo processo são fixados:\n\n- os rendimentos referidos no artigo 18o,\n\n- o valor referido no no 1, alínea a), do artigo 11o."
+  },
+  "a927ea284bae65e7": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nA fim de assegurar uma passagem harmoniosa do regime actualmente em vigor para o instaurado pelo presente regulamento, a Comissão pode decidir, em relação à campanha 1984/1985, segundo o processo referido no artigo 38o do Regulamento no 136/66/CEE, todas as medidas necessárias.\n\nCom o fim de assegurar o respeito pelos objectivos visados pelo presente regulamento e tendo em conta os problemas específicos que podem surgir em certos Estados-membros na aplicação destas disposições, os Estados-membros em causa podem, após consulta da Comissão tomando em consideração critérios suplementares conceder, para um período transitório de três campanhas a partir da campanha de 1984/1985, um reconhecimento provisório às organizações de produtores e às uniões que o solicitem."
+  },
+  "5cd14d6d2e26737d": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\nAntes do fim do terceiro ano de aplicação do presente regulamento, a Comissão apresentará ao Conselho um relatório relativo ao funcionamento do regime previsto no presente regulamento, acompanhado de propostas que permitam ao Conselho rever este regime."
+  },
+  "6d7a50a19f43ab8c": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\nOs Estados-membros comunicarão à Comissão as medidas tomadas no âmbito do presente regulamento."
+  },
+  "80840f5cacb99466": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\nO presente regulamento entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 17 de Julho de 1984.\n\nPelo Conselho\n\nO Presidente\n\nA. DEASY\n\n(1) JO no 172 de 30. 9. 1966, p. 3025/66.(2) JO no L 208 de 3. 8. 1984, p. 3.(3) JO no L 163 de 22. 6. 1983, p. 39.(4) JO no L 166 de 23. 6. 1970, p. 1.(5) JO no L 309 de 5. 11. 1982, p. 30.(6) JO no L 94 de 28. 4. 1970, p. 2.(7) JO no L 367 de 31. 12. 1980, p. 87."
+  },
+  "f7ef6c7a0f815928": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1984R2261 — PT — 01.11.2005 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31984R2261) [REGULAMENTO (CEE) Nº 2261/84 DO CONSELHO](http://publications.europa.eu/resource/celex/31984R2261) [de 17 de Julho de 1984](http://publications.europa.eu/resource/celex/31984R2261) [qua adopta as regras gerais relativas à concessão de ajudas à produção de azeite e às organizações de produtores](http://publications.europa.eu/resource/celex/31984R2261) (JO L 208, 3.8.1984, p.3)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 865/2004 do Conselho de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0865) — L 161 — 97 — 30.4.2004"
+  }
+ }
+}

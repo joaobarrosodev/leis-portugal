@@ -1,0 +1,364 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:227178:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1986-894206705",
+ "dre_path": "/dr/detalhe/portaria/222-1986-227178",
+ "source_lastmod": "2024-10-30",
+ "versions": [
+  {
+   "date": "1986-05-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "894206626",
+    "894206597",
+    "894206598",
+    "894206599",
+    "894206600",
+    "894206601",
+    "894206602",
+    "894206603",
+    "894206604",
+    "894206605"
+   ]
+  },
+  {
+   "date": "1986-06-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:228833:por",
+     "title": "Portaria n.º 283/86",
+     "published": "1986-06-16",
+     "dre_path": "/dr/detalhe/portaria/283-1986-228833"
+    }
+   ],
+   "changes": [
+    "Adita 10.º"
+   ],
+   "fragments": [
+    "894206592",
+    "894206597",
+    "894206598",
+    "894206599",
+    "894206600",
+    "894206601",
+    "894206602",
+    "894206603",
+    "894206604",
+    "894206605",
+    "894206621",
+    "894206622",
+    "894206623",
+    "894206624",
+    "894206625"
+   ]
+  },
+  {
+   "date": "2024-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:893982656:por",
+     "title": "Portaria n.º 282/2024/1",
+     "published": "2024-10-30",
+     "dre_path": "/dr/detalhe/portaria/282-2024-893982656"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "894206626",
+    "894206627",
+    "894206628",
+    "894206629",
+    "894206630",
+    "894206631",
+    "894206632",
+    "894206633",
+    "894206634",
+    "894206635",
+    "894206636",
+    "894206637",
+    "894206638",
+    "894206639",
+    "894206640"
+   ]
+  }
+ ],
+ "fragments": {
+  "894206626": {
+   "fragment_id": "894206706",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-10-31",
+   "changed_by": [],
+   "markdown": "Portaria n.º 222/86\n\nde 16 de Maio\n\nO Decreto-Lei n.º 344-A/83, de 25 de Julho, criou o Ministério da Saúde, no qual foram integrados os organismos e serviços do âmbito da Secretaria de Estado da Saúde, pertencente ao Ministério dos Assuntos Sociais, que foi extinto pelo mesmo diploma, e ainda a Secretaria-Geral do referido Ministério dos Assuntos Sociais.\n\nAssim, tornando-se necessário dispor de um meio de identificação para o pessoal do Gabinete do Ministro da Saúde, bem como do pessoal dos diversos serviços integrados no Ministério da Saúde:\n\nManda o Governo da República Portuguesa, pelo Ministro da Saúde, ao abrigo do disposto na alínea d) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "894206597": {
+   "fragment_id": "894206711",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nSão aprovados os modelos de cartões de identidade A, B e C, anexos a esta portaria."
+  },
+  "894206598": {
+   "fragment_id": "894206712",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nOs cartões modelo A são para uso dos membros do Gabinete ministerial, bem como eventualmente de outro pessoal que lhe preste serviço, os quais serão autenticados com a assinatura do Ministro e com aposição do selo branco de modo a cobrir o canto inferior esquerdo da fotografia."
+  },
+  "894206599": {
+   "fragment_id": "894206713",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nOs cartões modelo B são para uso do pessoal dirigente do Ministério da Saúde ou com funções de inspecção."
+  },
+  "894206600": {
+   "fragment_id": "894206714",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nOs cartões modelo C são para uso do pessoal do Ministério da Saúde não referido no n.º 3.º desta portaria."
+  },
+  "894206601": {
+   "fragment_id": "894206715",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nA emissão dos cartões é da competência da Secretaria-Geral, que, em livro próprio, fará o seu registo, onde constarão os elementos de identificação necessários."
+  },
+  "894206602": {
+   "fragment_id": "894206716",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nOs modelos B e C são autenticados com a assinatura do secretário-geral e aposição do selo branco a cobrir o canto inferior esquerdo da fotografia."
+  },
+  "894206603": {
+   "fragment_id": "894206717",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nOs cartões de identidade serão válidos pelo período correspondente ao exercício de funções que os mesmos comprovam, devendo ser devolvidos pelos seus titulares logo que se verifique alteração da sua situação funcional para a adequada substituição ou simples recolha."
+  },
+  "894206604": {
+   "fragment_id": "894206718",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nNo caso de ser passada 2.ª via por motivo de extravio ou deterioração, far-se-á referência expressa no cartão, mantendo-se, no entanto, o mesmo número."
+  },
+  "894206605": {
+   "fragment_id": "894206719",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nSão válidos os cartões emitidos ao abrigo da Portaria n.º 330/74, de 24 de Abril, enquanto se mantiverem as situações funcionais dos seus titulares."
+  },
+  "894206592": {
+   "fragment_id": "894206706",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 222/86\n\nde 16 de Maio\n\nO Decreto-Lei n.º 344-A/83, de 25 de Julho, criou o Ministério da Saúde, no qual foram integrados os organismos e serviços do âmbito da Secretaria de Estado da Saúde, pertencente ao Ministério dos Assuntos Sociais, que foi extinto pelo mesmo diploma, e ainda a Secretaria-Geral do referido Ministério dos Assuntos Sociais.\n\nAssim, tornando-se necessário dispor de um meio de identificação para o pessoal do Gabinete do Ministro da Saúde, bem como do pessoal dos diversos serviços integrados no Ministério da Saúde:\n\nManda o Governo da República Portuguesa, pelo Ministro da Saúde, ao abrigo do disposto na alínea d) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "894206621": {
+   "fragment_id": "894206737",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": "1986-06-21",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 283/86 - Diário da República n.º 135/1986, Série I de 1986-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/283-1986-228833), em vigor a partir de 1986-06-21"
+   ],
+   "markdown": "###### 10.º\n\nOs modelos anexos à presente portaria tem o formato 105 mm x 75 mm e constituem modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.\n\n> Aditado pelo/a [Portaria n.º 283/86 - Diário da República n.º 135/1986, Série I de 1986-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/283-1986-228833), em vigor a partir de 1986-06-21"
+  },
+  "894206622": {
+   "fragment_id": "894206707",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Saúde.\n\nAssinada em 18 de Abril de 1986.\n\nA Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares."
+  },
+  "894206623": {
+   "fragment_id": "894206708",
+   "type": 14,
+   "heading": "MODELO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MODELO A\n\n(ver documento original)"
+  },
+  "894206624": {
+   "fragment_id": "894206709",
+   "type": 14,
+   "heading": "MODELO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MODELO B\n\n(ver documento original)"
+  },
+  "894206625": {
+   "fragment_id": "894206710",
+   "type": 14,
+   "heading": "MODELO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## MODELO C\n\n(ver documento original)"
+  },
+  "894206627": {
+   "fragment_id": "894206711",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### 1.º\n\nSão aprovados os modelos de cartões de identidade A, B e C, anexos a esta portaria.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206628": {
+   "fragment_id": "894206712",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### 2.º\n\nOs cartões modelo A são para uso dos membros do Gabinete ministerial, bem como eventualmente de outro pessoal que lhe preste serviço, os quais serão autenticados com a assinatura do Ministro e com aposição do selo branco de modo a cobrir o canto inferior esquerdo da fotografia.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206629": {
+   "fragment_id": "894206713",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### 3.º\n\nOs cartões modelo B são para uso do pessoal dirigente do Ministério da Saúde ou com funções de inspecção.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206630": {
+   "fragment_id": "894206714",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### 4.º\n\nOs cartões modelo C são para uso do pessoal do Ministério da Saúde não referido no n.º 3.º desta portaria.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206631": {
+   "fragment_id": "894206715",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### 5.º\n\nA emissão dos cartões é da competência da Secretaria-Geral, que, em livro próprio, fará o seu registo, onde constarão os elementos de identificação necessários.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206632": {
+   "fragment_id": "894206716",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### 6.º\n\nOs modelos B e C são autenticados com a assinatura do secretário-geral e aposição do selo branco a cobrir o canto inferior esquerdo da fotografia.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206633": {
+   "fragment_id": "894206717",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### 7.º\n\nOs cartões de identidade serão válidos pelo período correspondente ao exercício de funções que os mesmos comprovam, devendo ser devolvidos pelos seus titulares logo que se verifique alteração da sua situação funcional para a adequada substituição ou simples recolha.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206634": {
+   "fragment_id": "894206718",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### 8.º\n\nNo caso de ser passada 2.ª via por motivo de extravio ou deterioração, far-se-á referência expressa no cartão, mantendo-se, no entanto, o mesmo número.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206635": {
+   "fragment_id": "894206719",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### 9.º\n\nSão válidos os cartões emitidos ao abrigo da Portaria n.º 330/74, de 24 de Abril, enquanto se mantiverem as situações funcionais dos seus titulares.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206636": {
+   "fragment_id": "894206737",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31",
+    "Aditado pelo/a [Portaria n.º 283/86 - Diário da República n.º 135/1986, Série I de 1986-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/283-1986-228833), em vigor a partir de 1986-06-21"
+   ],
+   "markdown": "###### 10.º\n\nOs modelos anexos à presente portaria tem o formato 105 mm x 75 mm e constituem modelo exclusivo da Imprensa Nacional-Casa da Moeda, E. P.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31\n\n> Aditado pelo/a [Portaria n.º 283/86 - Diário da República n.º 135/1986, Série I de 1986-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/283-1986-228833), em vigor a partir de 1986-06-21"
+  },
+  "894206637": {
+   "fragment_id": "894206707",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "Ministério da Saúde.\n\nAssinada em 18 de Abril de 1986.\n\nA Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206638": {
+   "fragment_id": "894206708",
+   "type": 14,
+   "heading": "MODELO A",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "## MODELO A\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206639": {
+   "fragment_id": "894206709",
+   "type": 14,
+   "heading": "MODELO B",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "## MODELO B\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  },
+  "894206640": {
+   "fragment_id": "894206710",
+   "type": 14,
+   "heading": "MODELO C",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "## MODELO C\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 282/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/282-2024-893982656), em vigor a partir de 2024-10-31"
+  }
+ }
+}

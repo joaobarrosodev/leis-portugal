@@ -1,0 +1,945 @@
+---
+schema_version: '1.0'
+id: pt:dre:483458:por
+title: Decreto-Lei n.º 27-C/2000
+short_title: null
+summary: Cria o sistema de acesso aos serviços mínimos bancários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 27-C/2000
+official_date: null
+publication_date: '2000-03-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/2000, 1º Suplemento, Série I-A de 2000-03-10
+  number: '59'
+  series: I
+  supplement: 1º Suplemento
+  pages: 898-(2) a 898-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/03/059a01/00020005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-08-27'
+version_history:
+  file: decreto-lei-27-c-2000.versoes.json
+  count: 9
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2000-03-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-05-21'
+    amending: pt:dre:287779:por
+    amending_title: Lei n.º 19/2011
+    changes:
+    - Adita Artigo 7.º-A
+    - Adita Artigo 7.º-B
+    - Adita Artigo 7.º-C
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Revoga Anexo
+  - date: '2012-10-18'
+    amending: pt:dre:192418:por
+    amending_title: Decreto-Lei n.º 225/2012
+    changes:
+    - Adita Artigo 4.º-A
+    - Adita Artigo 4.º-B
+    - Adita Artigo 4.º-C
+    - Adita Artigo 4.º-D
+    - Adita Artigo 7.º-D
+    - Adita Base VIII
+    - Adita Base IX
+    - Adita Base X
+    - Adita Base XI
+    - Adita Base XII
+    - Adita Base XIII
+    - Adita Base XIV
+    - Adita Base XV
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 7.º-C
+    - Altera Base I
+    - Altera Base II
+    - Altera Base III
+    - Altera Base IV
+    - Altera Base V
+    - Altera Base VI
+    - Altera Base VII
+  - date: '2015-10-04'
+    amending: pt:dre:69727377:por
+    amending_title: Lei n.º 66/2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 4.º-B
+    - Altera Artigo 4.º-C
+    - Altera Artigo 4.º-D
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º-A
+    - Altera Artigo 7.º-B
+    - Revoga Artigo 7.º
+    - Revoga Anexo
+  - date: '2018-01-01'
+    amending: pt:dre:108074436:por
+    amending_title: Decreto-Lei n.º 107/2017
+    changes:
+    - Adita Artigo 5.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 4.º-D
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º-A
+    - Altera Artigo 7.º-D
+    - Revoga Artigo 6.º
+  - date: '2018-05-09'
+    amending: pt:dre:115235753:por
+    amending_title: Lei n.º 21/2018
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 4.º-B
+    - Altera Artigo 4.º-D
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º-A
+    - Altera Artigo 7.º-C
+    - Altera Artigo 7.º-D
+  - date: '2021-01-01'
+    amending: pt:dre:166099792:por
+    amending_title: Decreto-Lei n.º 56/2021
+    changes:
+    - Altera Artigo 4.º
+  - date: '2021-07-01'
+    amending: pt:dre:166099792:por
+    amending_title: Decreto-Lei n.º 56/2021
+    changes:
+    - Altera Artigo 4.º-A
+    - Altera Artigo 7.º-D
+  - date: '2023-08-27'
+    amending: pt:dre:213650800:por
+    amending_title: Lei n.º 24/2023
+    changes:
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/27-c/2000/p/cons/20230529/pt/html
+  oj: null
+  dre: '483458'
+  dre_path: /dr/detalhe/decreto-lei/27-c-2000-483458
+  internal: pt:dre:483458:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-c-2000-483458
+  metadata_url: https://data.dre.pt/eli/dec-lei/27-c/2000/p/cons/20230529/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-106398173
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-106398173
+  retrieved_at: '2026-10-22T12:10:18Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ad14a5460423fa67e98f20d826674230f07cfa7462168dec6916f0bb08bb3d26
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:10:18Z'
+  notes: 9 versão(ões); histórico completo em decreto-lei-27-c-2000.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituição de Crédito
+- Moeda Eletrónica
+- Conta Bancária
+- Banca
+- Crédito Bancário
+- Serviços Mínimos
+relationships:
+- type: amended_by
+  target: pt:dre:287779:por
+  label: Adita Artigo 7.º-A; Adita Artigo 7.º-B; Adita Artigo 7.º-C; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º;
+    Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Revoga Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779
+  date: '2011-05-20'
+- type: amended_by
+  target: pt:dre:192418:por
+  label: Adita Artigo 4.º-A; Adita Artigo 4.º-B; Adita Artigo 4.º-C; Adita Artigo 4.º-D; Adita Artigo 7.º-D; Adita Base VIII;
+    Adita Base IX; Adita Base X; Adita Base XI; Adita Base XII; Adita Base XIII; Adita Base XIV; Adita Base XV; Altera Artigo
+    1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418
+  date: '2012-10-17'
+- type: amended_by
+  target: pt:dre:69727377:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 4.º-A; Altera Artigo 4.º-B; Altera Artigo
+    4.º-C; Altera Artigo 4.º-D; Altera Artigo 5.º; Altera Artigo 7.º-A; Altera Artigo 7.º-B; Revoga Artigo 7.º; Revoga Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377
+  date: '2015-07-06'
+- type: amended_by
+  target: pt:dre:108074436:por
+  label: Adita Artigo 5.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 4.º-A;
+    Altera Artigo 4.º-D; Altera Artigo 5.º; Altera Artigo 7.º-A; Altera Artigo 7.º-D; Revoga Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436
+  date: '2017-08-30'
+- type: amended_by
+  target: pt:dre:115235753:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 4.º-B; Altera Artigo 4.º-D; Altera Artigo 5.º; Altera Artigo
+    7.º-A; Altera Artigo 7.º-C; Altera Artigo 7.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/lei/21-2018-115235753
+  date: '2018-05-08'
+- type: amended_by
+  target: pt:dre:140631199:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 4.º-B; Altera Artigo 4.º-D; Altera Artigo 5.º; Altera Artigo
+    7.º-A; Altera Artigo 7.º-C; Altera Artigo 7.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/lei/44-2020-140631199
+  date: '2020-08-19'
+- type: amended_by
+  target: pt:dre:166099792:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792
+  date: '2021-06-30'
+- type: amended_by
+  target: pt:dre:213650800:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800
+  date: '2023-05-29'
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/298/1992/12/31/p/dre
+article_structure:
+  article_count: 32
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:10:18Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 27-C/2000
+
+Decreto-Lei n.º 27-C/2000
+
+de 10 de Março
+
+A actividade financeira e bancária assume, nos nossos dias, relevância preponderante na organização económica e social das famílias, inclusive como vector de organização e gestão do respectivo orçamento.
+
+A indisponibilidade de certos serviços financeiros e bancários, além de óbice ao rápido acesso ou mesmo entrave à obtenção de bens e serviços, muitas vezes de carácter essencial, é susceptível de consubstanciar factor de exclusão ou estigmatização social.
+
+Nesse âmbito, as evoluções nos últimos anos de certos tipos de serviços financeiros e bancários, especialmente no que diz respeito aos métodos de pagamento automático, tomam a titularidade de conta bancária à ordem e de cartão de débito para sua movimentação necessidades de natureza essencial.
+
+Constata-se que as actuais regras de mercado neste sector tornam inacessível a alguns particulares os referidos serviços financeiros e bancários, pelo que é pertinente a intervenção do Estado na criação de condições que garantam, a esses cidadãos, a possibilidade de utilização dos mesmos serviços.
+
+A experiência colhida ao nível do direito comparado mostra-nos que tal medida, de grande alcance social, só será conseguida mediante a colaboração activa dos operadores que a ela queiram ficar adstritos. Daí que se tenha optado por um regime de adesão voluntária das instituições de crédito, em detrimento de um sistema impositivo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+1 - É instituído o sistema de acesso, pelas pessoas singulares, aos serviços mínimos bancários, nos termos e condições deste diploma.
+
+2 - Para efeitos do presente diploma, entende-se por:
+
+a) 'Serviços mínimos bancários':
+
+i) Serviços relativos à constituição, manutenção, gestão e titularidade de conta de depósito à ordem;
+
+ii) Titularidade de cartão de débito;
+
+iii) Acesso à movimentação da conta através de caixas automáticos no interior da União Europeia, homebanking e balcões da instituição de crédito;
+
+iv) Operações incluídas: depósitos, levantamentos, pagamentos de bens e serviços, débitos diretos e transferências, incluindo ordens permanentes, no interior da União Europeia, e transferências através de aplicações de pagamento operadas por terceiros;
+
+v)  (Revogada.)
+
+b) 'Instituições de crédito' as empresas cuja atividade consiste em receber do público depósitos ou outros fundos reembolsáveis, a fim de os aplicarem por conta própria mediante a concessão de crédito, previstas nas alíneas a) a c) do artigo 3.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro;
+
+c) Conta de depósito à ordem - entregas em numerário ou equivalente a instituição de crédito, para sua guarda, sendo a respectiva restituição exigível a todo o tempo sem qualquer encargo para o titular da conta;
+
+d) 'Conta de serviços mínimos bancários' a conta de depósito à ordem em euros a disponibilizar pelas instituições de crédito, nas condições e termos previstos no presente diploma;
+
+e) 'Cartão de débito' o instrumento de movimentação ou de transferência eletrónica de fundos, por recurso a caixas automáticos ou a terminais de pagamento automáticos;
+
+f) Titular da conta - a pessoa singular com quem as instituições de crédito celebrem contratos de depósito, nos termos deste diploma.
+
+g) 'Interessado' a pessoa singular que solicite a prestação de serviços mínimos bancários junto de instituição de crédito, abrangendo qualquer consumidor que tenha o direito de residir num Estado-Membro em virtude do direito da União Europeia ou nacional, nos quais se incluem os consumidores sem domicílio fixo, os requerentes de asilo e os consumidores a quem não é concedida autorização de residência, mas cuja expulsão é impossível por motivos de facto ou de direito;
+
+h) 'Facilidade de descoberto' contrato expresso pelo qual uma instituição de crédito permite a uma pessoa singular dispor de fundos que excedem o saldo da respetiva conta de depósito à ordem;
+
+i) 'Ultrapassagem de crédito' descoberto aceite tacitamente pela instituição de crédito, que, por essa via, permite à pessoa singular dispor de fundos que excedem o saldo da sua conta de depósito à ordem;
+
+j) 'Suporte duradouro' qualquer instrumento que permita ao interessado ou ao titular de conta de serviços mínimos bancários armazenar informações que lhe sejam pessoalmente dirigidas, de modo que esta, no futuro, possa aceder facilmente à informação armazenada durante um período de tempo adequado aos fins a que esta se destina e, bem assim, reproduzir essa informação de forma integral e inalterada.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2020 - Diário da República n.º 161/2020, Série I de 2020-08-19](https://diariodarepublica.pt/dr/detalhe/lei/44-2020-140631199), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Artigo 2.º — Objecto
+
+1 - Os interessados podem aceder aos serviços mínimos bancários previstos na alínea a) do n.º 2 do artigo anterior, através da abertura de uma conta de serviços mínimos bancários em instituição de crédito à sua escolha ou, nos casos em que já sejam titulares de uma conta de depósito à ordem em instituição de crédito, da conversão dessa conta em conta de serviços mínimos bancários, nos termos e condições previstos no presente diploma
+
+2 - (Revogado.)
+
+3 - As instituições de crédito utilizam, para efeitos de abertura de conta de serviços mínimos bancários e da conversão de conta de depósito à ordem em conta de serviços mínimos bancários, documentos contratuais e impressos que façam expressa alusão à sua finalidade, mediante a inclusão, em lugar de destaque, da expressão "Serviços mínimos bancários", e deles dando cópia ao titular da conta.
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Artigo 3.º — Comissões, despesas ou outros encargos
+
+1 - Sem prejuízo do disposto no n.º 3 do presente artigo e no artigo 5.º, pelos serviços e operações em euros referidos na alínea a) do n.º 2 do artigo 1.º, não podem ser cobrados, pelas instituições de crédito, comissões, despesas ou outros encargos que, anualmente, e no seu conjunto, representem valor superior ao equivalente a 1 % do valor do indexante dos apoios sociais.
+
+2 - A comissão referida no número anterior inclui as transferências intrabancárias, as transferências efetuadas através de caixas automáticos, 48 transferências interbancárias, por cada ano civil, efetuadas através de homebanking ou de aplicações próprias, 5 transferências, por cada mês, com o limite de 30 euros por operação, realizadas através de aplicações de pagamento operadas por terceiros.
+
+3 - O titular da conta suporta os custos, normalmente praticados pela respetiva instituição de crédito e previstos em preçário, pelos serviços e operações não abrangidos pelos números anteriores, bem como pelos custos devidos pela emissão do cartão de débito caso venha a solicitar a substituição deste cartão antes de decorridos 18 meses sobre a data da respetiva emissão, salvo se a sua validade for inferior a este prazo ou o motivo da substituição for imputável à instituição de crédito.
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), em vigor a partir de 2023-08-27
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2020 - Diário da República n.º 161/2020, Série I de 2020-08-19](https://diariodarepublica.pt/dr/detalhe/lei/44-2020-140631199), em vigor a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/lei/21-2018-115235753), em vigor a partir de 2018-05-09
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Artigo 4.º — Abertura da conta de serviços mínimos bancários e recusa legítima
+
+1 - A abertura de conta de serviços mínimos bancários depende da celebração de contrato de depósito à ordem junto de uma instituição de crédito que disponibilize, ao público, os serviços que integram os serviços mínimos bancários, pelo interessado que não seja titular de outra conta de depósito à ordem, junto de uma instituição de crédito estabelecida em território nacional, salvo no caso previsto no n.º 3 do artigo 4.º-B, ou no caso de o interessado declarar que foi notificado de que a sua conta de pagamento irá ser encerrada.
+
+2 - O interessado deve declarar nos impressos de abertura de conta, ou em documento a eles anexo, que não é titular de outra conta de depósito à ordem, salvo no caso previsto no n.º 3 do artigo 4.º-B, ou que foi notificado de que a sua conta de pagamento será encerrada.
+
+3 - Após a receção de um pedido completo de acesso a conta de serviços mínimos bancários pelo interessado, a instituição de crédito abre a conta desse tipo ou recusa o pedido de acesso a uma conta deste tipo, em qualquer caso sem demora indevida e o mais tardar 10 dias úteis após a receção desse pedido.
+
+4 - As instituições de crédito, previamente à declaração referida no n.º 2, prestam informação ao interessado mediante comunicação em papel ou noutro suporte duradouro sobre:
+
+a) O carácter facultativo da declaração;
+
+b) As consequências da eventual recusa da emissão da declaração;
+
+c) (Revogada).
+
+d) As consequências decorrentes da eventual detenção de outra conta de depósito à ordem titulada pelo interessado no momento da abertura de conta de serviços mínimos bancários ou, posteriormente, durante a vigência do contrato de depósito à ordem.
+
+5 - Para além das situações previstas na lei e nos regulamentos em vigor, as instituições de crédito apenas podem recusar a abertura de conta de serviços mínimos bancários se:
+
+a) À data do pedido de abertura de conta, o interessado for titular de uma ou mais contas de depósito à ordem em instituição de crédito, salvo nos casos previstos nos n.os 3 e 4 do artigo 4.º-B;
+
+b) O interessado recusar a emissão da declaração prevista no n.º 2;
+
+c) [Revogada].
+
+6 - [Revogado].
+
+7 - Em caso de recusa da abertura de uma conta de serviços mínimos bancários, as instituições de crédito informam imediatamente o interessado, mediante comunicação em papel ou noutro suporte duradouro, e de forma gratuita, sobre:
+
+a) Os motivos que justificaram a recusa;
+
+b) Os mecanismos de reação à disposição do interessado, nomeadamente a possibilidade de apresentação de reclamação à autoridade de supervisão e o recurso a meios de resolução alternativa de litígios, bem como os dados de contacto para esses efeitos.
+
+8 - O disposto no número anterior não se aplica se a prestação dessas informações for proibida pela legislação nacional ou da União, ou se for contrária a objetivos de ordem pública ou de segurança pública.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 56/2021 - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/lei/21-2018-115235753), em vigor a partir de 2018-05-09
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Artigo 4.º-A — Conversão de conta de depósito à ordem em conta de serviços mínimos bancários
+
+1 - O acesso aos serviços mínimos bancários através da conversão de conta de depósito à ordem já existente em conta de serviços mínimos bancários depende da solicitação do interessado, podendo concretizar-se através:
+
+a) Do encerramento da conta de depósito à ordem domiciliada em instituição de crédito e abertura de conta de serviços mínimos bancários junto de outra instituição de crédito, mediante celebração do respetivo contrato de depósito à ordem; ou
+
+b) Da conversão direta da conta de depósito à ordem em conta de serviços mínimos bancários, mediante a celebração de aditamento ao contrato de depósito à ordem existente.
+
+2 - A conversão de conta de depósito à ordem em conta de serviços mínimos bancários não pode acarretar custos para os respetivos titulares.
+
+3 - O disposto nos n.os 2 a 7 do artigo anterior e no artigo 4.º-D é aplicável, com as necessárias adaptações, à conversão de conta de depósito à ordem em conta de serviços mínimos bancários.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 56/2021 - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Artigo 4.º-B — Titularidade
+
+1 - A conta de serviços mínimos bancários pode ser titulada por uma ou por várias pessoas singulares.
+
+2 - Quando seja solicitada a contitularidade de conta de serviços mínimos bancários, seja no momento de abertura ou da conversão de conta, seja em momento posterior, a instituição de crédito pode legitimamente recusar a abertura de conta, a sua conversão ou o aditamento de novos titulares caso uma das pessoas singulares que tenha solicitado a contitularidade não reúna os requisitos previstos no artigo 4.º.
+
+3 - Sem prejuízo do previsto nos números anteriores, a pessoa singular que seja titular de outra conta de depósito pode aceder aos serviços mínimos bancários desde que um dos contitulares da conta de serviços mínimos bancários seja uma pessoa singular com mais de 65 anos ou dependente de terceiros.
+
+4 - Sem prejuízo do previsto nos n.os 1 e 2, em caso de contitularidade de conta de serviços mínimos bancários com uma pessoa singular com mais de 65 anos ou dependente de terceiros, a pessoa singular com menos de 65 anos ou que não seja dependente pode continuar a aceder individualmente à conta de serviços mínimos bancários.
+
+5 - Para efeitos do disposto neste artigo, considera-se dependente de terceiros aquele que apresente um grau de invalidez permanente, devidamente comprovado pela entidade competente, igual ou superior a 60 %.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/lei/21-2018-115235753), em vigor a partir de 2018-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Artigo 4.º-C — Prestação de serviços mínimos bancários
+
+1 - As instituições de crédito disponibilizam os serviços elencados na alínea a) do n.º 2 do artigo 1.º.
+
+2 - Na prestação de serviços mínimos bancários, as instituições de crédito observam as condições legal e regulamentarmente estabelecidas, nomeadamente em matéria de deveres de informação, e respeitam os mesmos padrões de qualidade e eficiência que são exigidos para a prestação dos serviços bancários em causa a pessoas singulares que não se encontrem abrangidas por este sistema.
+
+3 - As instituições de crédito não podem atribuir aos serviços prestados ao abrigo do presente diploma características específicas que resultem em condições mais restritivas para a sua utilização do que as existentes nos mesmos serviços quando prestados fora do âmbito do presente diploma.
+
+4 - Para além da especificação dos elementos exigidos na lei e nos regulamentos aplicáveis, o contrato de depósito à ordem referido no n.º 1 do artigo 4.º e na alínea a) do n.º 1 do artigo 4.º-A, bem como o aditamento previsto na alínea b) do n.º 1 do artigo 4.º-A devem:
+
+a) Identificar a conta de depósito à ordem como uma conta de serviços mínimos bancários; e
+
+b) Descrever os serviços bancários associados e as condições da sua prestação.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Artigo 4.º-D — Deveres complementares
+
+1 - É expressamente vedado às instituições de crédito:
+
+a) Exigir aos interessados na abertura de conta de serviços mínimos bancários documentos, impressos ou comprovativos adicionais aos que são necessários para a abertura de uma conta de depósito à ordem fora dos termos e condições previstos no presente diploma;
+
+b) Condicionar a abertura de conta de serviços mínimos bancários ao depósito de um valor mínimo ou à aquisição de produtos ou serviços adicionais;
+
+c) Exigir a aquisição de títulos representativos do capital da instituição de crédito, salvo se a condição vigorar para todos os clientes dessa instituição;
+
+d) Oferecer, explícita ou implicitamente, quaisquer facilidades de descoberto associadas às contas de serviços mínimos bancários;
+
+e) Permitir a ultrapassagem de crédito em contas de serviços mínimos bancários.
+
+f) Impedir que, com fundamento na titularidade de uma conta de serviços mínimos bancários, o respetivo titular adquira produtos e serviços adicionais oferecidos pela instituição de crédito ao custo praticado pela respetiva instituição de crédito e previstos em preçário estabelecido pela instituição de crédito.
+
+2 - O disposto na alínea e) do número anterior não se aplica às operações realizadas com cartão de débito.
+
+3 - O cartão de débito de serviços mínimos bancários não pode ter caraterísticas específicas que resultem em condições mais restritivas para a sua utilização do que as existentes para os cartões de débito disponibilizados fora do âmbito do presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/lei/21-2018-115235753), em vigor a partir de 2018-05-09
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Artigo 5.º — Resolução do contrato de depósito à ordem
+
+1 - Sem prejuízo da possibilidade de resolução prevista noutras disposições legais, as instituições de crédito apenas podem resolver o contrato de depósito à ordem quando:
+
+a) O titular utilizou deliberadamente a conta para fins contrários à lei;
+
+b) O titular não realizou qualquer das operações enumeradas na subalínea iv) da alínea a) do n.º 2 do artigo 1.º durante, pelo menos, 24 meses consecutivos;
+
+c) O titular prestou informações incorretas para obter a conta de serviços mínimos bancários, quando não preenchia os requisitos de acesso à mesma;
+
+d) O titular deixou de ser residente legal na União Europeia, não se tratando de um consumidor sem domicílio fixo ou requerente de asilo ao abrigo da Convenção de Genebra de 28 de julho de 1951, relativa ao Estatuto dos Refugiados e do respetivo Protocolo de 31 de janeiro de 1967, bem como de outros tratados internacionais pertinentes;
+
+e) O titular, durante a vigência do contrato de depósito à ordem celebrado ou convertido ao abrigo do presente diploma, detém uma outra conta de depósito à ordem numa instituição de crédito em Portugal, que lhe permite utilizar os serviços enumerados na alínea a) do n.º 2 do artigo 1.º deste diploma, salvo nos casos previstos nos n.os 3 e 4 do artigo 4.º-B.
+
+2 - A resolução do contrato de depósito à ordem com fundamento num dos motivos mencionados nas alíneas a) e c) do número anterior produz efeitos imediatos.
+
+3 - Nos casos abrangidos pelas alíneas b), d) e e) do n.º 1 do presente artigo, a resolução produz os seus efeitos 60 dias após a data da comunicação prevista no n.º 5.
+
+4 - Salvo no caso da alínea b) do n.º 1, as instituições de crédito podem exigir ao titular o pagamento da diferença entre as comissões, despesas ou outros encargos habitualmente associados à prestação dos serviços da alínea a) do n.º 2 do artigo 1.º, e as comissões, despesas ou outros encargos suportados pelo titular ao abrigo do artigo 3.º, pelos serviços entretanto disponibilizados.
+
+5 - A comunicação da resolução é efetuada a título gratuito, mediante declaração ao titular, em papel ou através de qualquer outro suporte duradouro, com indicação dos motivos e da justificação da resolução, e, sendo caso disso, da exigência de pagamento das comissões e despesas referidas no número anterior, salvo se tal informação não puder ser prestada por razões de segurança objetivamente fundamentadas ou se for proibida por outras disposições legais aplicáveis.
+
+6 - A comunicação prevista no número anterior deve ainda conter a informação relativa aos procedimentos de reclamação e aos meios de resolução alternativa de litígios ao dispor do titular, facultando os dados de contacto necessários.
+
+7 - Em caso de resolução do contrato de depósito à ordem nos termos do n.º 1, as instituições de crédito estão obrigadas a proceder à devolução do saldo depositado na conta de serviços mínimos bancários aos respetivos titulares.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/lei/21-2018-115235753), em vigor a partir de 2018-05-09
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Artigo 5.º-A — Disponibilização de meios de resolução alternativa de litígios
+
+1 - Sem prejuízo do acesso, pelos titulares, aos meios judiciais competentes, as instituições de crédito devem assegurar aos respetivos titulares de contas de serviços mínimos bancários o acesso a meios extrajudiciais eficazes e adequados de reclamação e de resolução de litígios de valor igual ou inferior à alçada dos tribunais de 1.ª instância, respeitantes aos direitos e deveres estabelecidos no presente decreto-lei.
+
+2 - Para efeitos do disposto no número anterior, os prestadores de serviços de pagamento aderem a, pelo menos, duas entidades que possibilitem a resolução alternativa de litígios, nos termos previstos na Lei n.º 144/2015, de 8 de setembro.
+
+3 - As instituições de crédito devem ainda assegurar que a resolução de litígios transfronteiriços seja encaminhada para entidade signatária do protocolo de adesão à rede FIN-NET de cooperação na resolução alternativa de litígios transfronteiriços no setor financeiro, podendo a escolha recair sobre uma das entidades mencionadas nos números anteriores.
+
+4 - As instituições de crédito comunicam ao Banco de Portugal as entidades a que hajam aderido nos termos do n.º 2, no prazo de 15 dias após a adesão, sem prejuízo de outras obrigações de comunicação previstas na Lei n.º 144/2015, de 8 de outubro.
+
+5 - O Banco de Portugal divulga no seu sítio na Internet as entidades a que se refere o número anterior.
+
+> Aditado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436), em vigor a partir de 2018-01-01
+
+###### Artigo 6.º — Protecção de dados
+
+1 - A consulta de dados junto das entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito, a que alude o n.º 2 do artigo 4.º, tem como finalidade exclusiva a confirmação da inexistência de qualquer cartão daquela natureza em nome do declarante e consequente direito de acesso aos serviços mínimos bancários, sendo apenas admitida quando realizada por instituição de crédito aderente ao sistema ora instituído.
+
+2 - No âmbito da consulta referida no número anterior, previamente autorizada pelo respetivo titular, encontra-se vedado às instituições de crédito aderentes o acesso a quaisquer outros dados para além da confirmação de inexistência de cartão de crédito ou débito em nome desse titular, designadamente os relativos às características ou identidade do cartão ou da conta à qual se encontre subordinado.
+
+3 - As instituições de crédito aderentes garantem aos titulares das contas, nos impressos ou na declaração a que alude o n.º 2 do artigo 4.º, o direito à informação sobre a qualidade dos dados a consultar, a respetiva finalidade, bem como o direito dos titulares de acesso, retificação e eliminação dos respetivos dados.
+
+4 - A consulta referida no n.º 1 pode ser realizada no momento da abertura da conta e durante a vigência do contrato de depósito à ordem celebrado no âmbito dos serviços mínimos bancários, tendo em vista a possibilidade de resolução prevista no n.º 4 do artigo anterior, sendo o titular da conta informado desta faculdade em momento anterior à concessão da autorização.
+
+5 - A declaração a que se refere o n.º 2 do artigo 4.º não prejudica as demais limitações e obrigações impostas pela legislação relativa à proteção das pessoas singulares no que concerne ao tratamento de dados pessoais.
+
+6 - O tratamento de dados pessoais previsto no presente diploma fica sujeito ao regime jurídico estabelecido pela Lei da Proteção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de outubro.
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Artigo 7.º — Adesão ao sistema
+
+Os protocolos a celebrar entre o membro do Governo responsável pela área da defesa do consumidor, o Banco de Portugal e as instituições de crédito que pretendam aderir a este sistema devem observar as bases constantes no anexo ao presente diploma, que dele faz parte integrante.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Artigo 7.º-A — Deveres de informação
+
+1 - [Revogado].
+
+2 - As instituições de crédito devem:
+
+a) Divulgar publicamente nas suas agências as condições de contratação e manutenção das contas bancárias de depósito à ordem constituídas ao abrigo do presente diploma, indicando expressamente que não é necessária a aquisição de produtos ou serviços adicionais para aceder a uma conta de serviços mínimos;
+
+b) Informar os seus clientes da possibilidade de conversão da actual conta bancária em conta bancária de serviços mínimos bancários ao abrigo do presente diploma, e os respectivos pressupostos daquela conversão, com o primeiro extracto de cada ano.
+
+c) Disponibilizar informação aos seus clientes sobre o procedimento de acesso a meios de resolução alternativa de litígios.
+
+3 - Para os efeitos e termos previstos no presente artigo, o Banco de Portugal deve definir, mediante aviso, qual a informação a ser divulgada e a forma adequada para a sua publicitação.
+
+4 - Sem prejuízo do disposto no n.º 2, as instituições de crédito encontram-se obrigadas a cumprir os deveres de prestação de informação adicional sobre serviços mínimos bancários definidos, mediante aviso, pelo Banco de Portugal.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/lei/21-2018-115235753), em vigor a partir de 2018-05-09
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Artigo 7.º-B — Publicitação pela segurança social
+
+Os serviços da segurança social devem comunicar às pessoas singulares a existência de serviços mínimos bancários e respetivas condições de acesso, de forma clara e percetível, através dos meios de comunicação e publicitação habitualmente utilizados, sendo a referida divulgação obrigatória no momento do requerimento das respetivas prestações sociais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Artigo 7.º-C — Supervisão do sistema
+
+1 - O Banco de Portugal é responsável pela supervisão do sistema, tendo presente a função reservada ao banco central no quadro do sistema financeiro, tal como decorre da Lei Orgânica do Banco de Portugal e do Regime Geral das Instituições de Crédito e Sociedades Financeiras aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro.
+
+2 - O Banco de Portugal avalia a aplicação das regras previstas no presente diploma, publicando os resultados dessa avaliação no seu relatório de supervisão comportamental, discriminando por instituição financeira o tipo de incumprimentos verificados no âmbito da sua competência fiscalizadora.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/lei/21-2018-115235753), em vigor a partir de 2018-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Artigo 7.º-D — Regime sancionatório
+
+1 - Constituem contraordenações leves, puníveis com coima entre (euro) 100 e (euro) 10 000:
+
+a) A falta de identificação, nos documentos contratuais e impressos, da conta como sendo de serviços mínimos bancários, bem como a falta de descrição dos serviços bancários associados e condições da sua prestação, em violação do disposto no n.º 3 do artigo 2.º e no n.º 4 do artigo 4.º-C;
+
+b) (Revogada.)
+
+c) (Revogada);
+
+d) (Revogada.)
+
+2 - Constituem contraordenações graves, puníveis com coima entre (euro) 200 e (euro) 20 000:
+
+a) A cobrança de comissões, despesas ou outros encargos que, anualmente e no seu conjunto, representem valor superior ao equivalente a 1 % do valor do indexante dos apoios sociais, em violação do disposto nos n.os 1 e 2 do artigo 3.º;
+
+b) O incumprimento do prazo legalmente previsto para a abertura de conta de serviços mínimos bancários ou para a comunicação da recusa do pedido de acesso à mesma;
+
+c) A não prestação de informação ao interessado em papel ou outro suporte duradouro sobre os elementos previstos nas alíneas a), b) e d) do n.º 4 do artigo 4.º;
+
+d) A recusa da abertura de conta de serviços mínimos bancários, ou de conversão de conta já existente em conta de serviços mínimos bancários, fora das situações previstas no n.º 5 do artigo 4.º ou, havendo contitularidade, fora da situação prevista no n.º 2 do artigo 4.º-B.
+
+e) A não prestação de informação ao interessado, em papel ou outro suporte duradouro, sobre os motivos que justificaram a recusa de abertura de conta de serviços mínimos bancários, ou de conversão de conta já existente em conta de serviços mínimos bancários, em violação do disposto no n.º 7 do artigo 4.º;
+
+f) A não disponibilização dos serviços que integram os serviços mínimos bancários, em violação do disposto no n.º 1 do artigo 4.º-C;
+
+g) A exigência, ao interessado, de elementos adicionais aos que são necessários para a abertura de uma conta de depósito à ordem que não seja de serviços mínimos bancários, em violação do disposto na alínea a) do n.º 1 do artigo 4.º-D;
+
+h) O condicionamento da abertura de conta de serviços mínimos bancários, ou de conversão de conta já existente em conta de serviços mínimos bancários, ao depósito de um valor mínimo ou à aquisição de produtos ou serviços adicionais, em violação do disposto na alínea b) do n.º 1 do artigo 4.º-D;
+
+i) A exigência de aquisição de títulos representativos de capital da instituição de crédito, salvo se a condição vigorar para todos os clientes dessa instituição, em violação do disposto na alínea c) do n.º 1 do artigo 4.º-D;
+
+j) A oferta, explícita ou implícita, de quaisquer facilidades de descoberto associadas às contas de serviços mínimos bancários ou a aceitação de ultrapassagem de crédito, em violação do disposto nas alíneas d) e e) do n.º 1 do artigo 4.º-D;
+
+K) A resolução do contrato de depósito em violação do disposto no n.º 1 do artigo 5.º;
+
+l) A não comunicação de resolução mediante declaração ao titular, em papel ou através de qualquer outro suporte duradouro, com indicação dos motivos e da justificação da resolução, e, sendo caso disso, da exigência de pagamento das comissões e despesas referidas no n.º 4 do artigo 5.º, salvo se tal informação não puder ser prestada por razões de segurança objetivamente fundamentadas ou se for proibida por outras disposições legais aplicáveis, em violação do disposto no n.º 5 do artigo 5.º;
+
+m) A não inclusão na comunicação prevista no artigo 5.º da informação relativa aos procedimentos de reclamação e aos meios de resolução alternativa de litígios ao dispor do titular, facultando os dados de contacto necessários, em violação do disposto no n.º 6 do artigo 5.º;
+
+n) A não devolução do saldo depositado na conta de serviços mínimos bancários aos respetivos titulares, em violação do disposto no n.º 7 do artigo 5.º;
+
+o) A exigência de pagamento de comissões, despesas ou outros encargos nos casos em que o presente diploma proíba a sua cobrança, em violação do disposto no n.º 3 do artigo 3.º, no n.º 7 do artigo 4.º, no n.º 2 do artigo 4.º-A e no n.º 4 do artigo 5.º;
+
+p) O incumprimento dos deveres relacionados com a disponibilização de meios de resolução alternativa de litígios, previstos nos n.os 1, 2 e 3 do artigo 5.º-A;
+
+q) O incumprimento, no prazo determinado, do dever de comunicação ao Banco de Portugal, em violação do disposto no n.º 4 do artigo 5.º-A.
+
+r) A atribuição aos serviços mínimos bancários de características específicas que resultem em condições mais restritivas para a sua utilização do que as existentes nos mesmos serviços quando prestados fora do âmbito do presente diploma, em violação do disposto no n.º 3 do artigo 4.º-C e nos n.º 2 e 3 do artigo 4.º-D;
+
+s) O condicionamento à aquisição de produtos ou serviços adicionais oferecidos pela instituição de crédito ao custo praticado pela respetiva instituição de crédito e previstos em preçário, violando o disposto na alínea f) do n.º 1 do artigo 4.º-D;
+
+t) A violação dos deveres de informação previstos no artigo 7.º-A e na regulamentação emitida ao seu abrigo.
+
+3 - Compete ao Banco de Portugal a averiguação das contraordenações previstas no presente diploma, bem como a instrução dos respetivos processos e a aplicação das correspondentes sanções.
+
+4 - Ao apuramento da responsabilidade pelas contraordenações a que se refere o presente diploma e ao respetivo processamento são subsidiariamente aplicáveis as disposições previstas no título xi do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro.
+
+5 - O valor das coimas reverte em:
+
+a) 60 % para o Estado;
+
+b) 40 % para o Fundo de Garantia de Depósitos.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 56/2021 - Diário da República n.º 125/2021, Série I de 2021-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2021-166099792), em vigor a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/lei/21-2018-115235753), em vigor a partir de 2018-05-09
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 107/2017 - Diário da República n.º 167/2017, Série I de 2017-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2017-108074436), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 18 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Armando António Martins Vara.
+
+Promulgado em 6 de Março de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 9 de Março de 2000.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — BASES DE PROTOCOLO ANEXAS
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Base I — Objeto
+
+Através do presente protocolo, a instituição de crédito outorgante adere ao sistema de serviços mínimos bancários instituído pelo Decreto-Lei n.º 27-C/2000, de 10 de março, alterado pela Lei n.º 19/2011, de 20 de maio, e pelo Decreto-Lei n.º 225/2012, de 17 de outubro, comprometendo-se a prestar serviços mínimos bancários às pessoas singulares que o solicitem, nos termos e condições previstas no regime jurídico dos serviços mínimos bancários e do presente protocolo.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Base II — Definições
+
+Para efeitos do presente protocolo, entende-se por:
+
+a) «Regime jurídico dos serviços mínimos bancários» o regime jurídico que enquadra a prestação de serviços mínimos bancários, aprovado pelo Decreto-Lei n.º 27-C/2000, de 10 de março, alterado pela Lei n.º 19/2011, de 20 de maio, e pelo Decreto-Lei n.º 225/2012, de 17 de outubro;
+
+b) «Serviços mínimos bancários»:
+
+i) Serviços relativos à constituição, manutenção, gestão e titularidade de conta de depósito à ordem;
+
+ii) Titularidade de cartão de débito;
+
+iii) Acesso à movimentação da conta através de caixas automáticas, serviço de homebanking e balcões da instituição de crédito;
+
+iv) Operações incluídas: depósitos, levantamentos, pagamentos de bens e serviços, débitos diretos e transferências intrabancárias nacionais;
+
+c) «Conta de depósito à ordem» entregas em numerário ou equivalente a instituição de crédito, para sua guarda, sendo a respetiva restituição exigível a todo o tempo sem qualquer encargo para o titular da conta;
+
+d) «Conta de serviços mínimos bancários» conta de depósito à ordem a disponibilizar pela instituição de crédito outorgante, nos termos e condições previstos no regime jurídico dos serviços mínimos bancários e no presente protocolo;
+
+e) «Cartão de débito» instrumento de movimentação ou transferência eletrónica de fundos, por recurso a terminais automáticos de pagamento ou levantamento, instalados nas instituições de crédito ou em estabelecimentos comerciais;
+
+f) «Titular da conta» a pessoa singular com quem a instituição de crédito outorgante celebre contrato de depósito à ordem, nos termos do regime jurídico dos serviços mínimos bancários;
+
+g) «Interessado» a pessoa singular que solicite a prestação de serviços mínimos bancários junto da instituição de crédito outorgante;
+
+h) «Facilidade de descoberto» contrato expresso pelo qual uma instituição de crédito permite a uma pessoa singular dispor de fundos que excedem o saldo da respetiva conta de depósito à ordem;
+
+i) «Ultrapassagem de crédito» descoberto aceite tacitamente pela instituição de crédito, que, por essa via, permite à pessoa singular dispor de fundos que excedem o saldo da sua conta de depósito à ordem;
+
+j) «Suporte duradouro» qualquer instrumento que permita ao interessado ou ao titular de conta de serviços mínimos bancários armazenar informações que lhe sejam pessoalmente dirigidas, de modo a que esta, no futuro, possa aceder facilmente à informação armazenada durante um período de tempo adequado aos fins a que esta se destina e, bem assim, reproduzir essa informação de forma integral e inalterada.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Base III — Acesso aos serviços mínimos bancários
+
+1 - A instituição de crédito outorgante presta os serviços mínimos bancários previstos na alínea b) da base ii às pessoas singulares que, cumprindo os requisitos previstos no regime jurídico dos serviços mínimos bancários, solicitem a abertura de conta de serviços mínimos bancários ou a conversão de conta de depósito à ordem já existente em conta de serviços mínimos bancários.
+
+2 - A instituição de crédito outorgante obriga-se a incluir, em local de destaque dos documentos contratuais e dos impressos que utilize para efeitos da abertura de conta de serviços mínimos bancários e da conversão de conta de depósito à ordem em conta de serviços mínimos bancários, a expressão «Serviços mínimos bancários», e deles dando cópia ao titular da conta.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Base IV — Comissões, despesas ou outros encargos
+
+1 - Sem prejuízo do disposto no n.º 2 e na base x, a instituição de crédito outorgante não pode cobrar comissões, despesas ou outros encargos pela prestação dos serviços referidos na alínea b) da base ii ao abrigo do presente protocolo e do regime jurídico dos serviços mínimos bancários que, anualmente, e no seu conjunto, representem valor superior ao equivalente a 1 % da remuneração mínima mensal garantida.
+
+2 - O titular da conta suporta os custos normalmente praticados pela instituição de crédito outorgante pela emissão do cartão de débito caso venha a solicitar a substituição deste cartão antes de decorridos 18 meses sobre a data da respetiva emissão, salvo se a sua validade for inferior a este prazo ou a causa de substituição for imputável à instituição de crédito.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Base V — Abertura da conta de serviços mínimos bancários e recusa legítima
+
+1 - A prestação de serviços mínimos bancários a pessoa singular que não seja titular de conta de depósito à ordem depende da abertura de conta de serviços mínimos bancários junto da instituição de crédito outorgante, através da celebração do respetivo contrato de depósito à ordem.
+
+2 - A instituição de crédito outorgante obriga-se a inserir nos impressos de abertura de conta, ou em documento a eles anexo, os termos da declaração a emitir pelo interessado quanto à titularidade de contas de depósito à ordem e à autorização de consulta das entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito, nos termos previstos no n.º 2 do artigo 4.º do regime jurídico dos serviços mínimos bancários.
+
+3 - A instituição de crédito outorgante, previamente à subscrição da declaração referida no número anterior, informa o interessado mediante comunicação em papel ou noutro suporte duradouro sobre:
+
+a) O carácter facultativo da declaração;
+
+b) As consequências da eventual recusa da emissão da declaração;
+
+c) A possibilidade de a consulta de dados junto das entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito poder ocorrer tanto no momento da abertura de conta de serviços mínimos bancários como durante a vigência do contrato de depósito à ordem;
+
+d) As consequências decorrentes da eventual deteção de uma outra conta de depósito à ordem titulada pelo interessado e, bem assim, e da eventual identificação de cartões de crédito ou débito em seu nome no momento da abertura de conta de serviços mínimos bancários ou, posteriormente, durante a vigência do contrato de depósito à ordem.
+
+4 - Para além das situações previstas na lei e nos regulamentos aplicáveis, a instituição de crédito outorgante apenas pode recusar a abertura de conta de serviços mínimos bancários se:
+
+a) À data do pedido de abertura de conta, o interessado for titular de uma ou mais contas de depósito à ordem em instituição de crédito;
+
+b) O interessado recusar a emissão da declaração prevista no n.º 2;
+
+c) As entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito, no âmbito da consulta prevista no n.º 2 e na base xii, confirmarem a existência de cartão de débito ou de crédito em nome do interessado.
+
+5 - Em caso de recusa de abertura de uma conta de serviços mínimos bancários, a instituição de crédito outorgante informa imediatamente e de forma gratuita o interessado, mediante comunicação em papel ou noutro suporte duradouro, sobre os motivos que justificaram aquela recusa.
+
+6 - A instituição de crédito outorgante não pode:
+
+a) Exigir às pessoas singulares que solicitem a abertura de conta de serviços mínimos bancários documentos, impressos ou comprovativos adicionais aos que são necessários para a abertura de uma conta de depósito à ordem fora dos termos e condições previstos no regime jurídico dos serviços mínimos bancários; e
+
+b) Condicionar a abertura de conta de serviços mínimos bancários à aquisição de produtos ou serviços adicionais.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Base VI — Conversão de conta de depósito à ordem em conta de serviços mínimos bancários
+
+1 - A prestação de serviços mínimos por parte da instituição de crédito outorgante pode igualmente resultar da conversão, a pedido do interessado, de conta de depósito à ordem já existente em conta de serviços mínimos bancários.
+
+2 - A conversão pode ser efetuada através:
+
+a) Do encerramento da conta de depósito à ordem domiciliada em outra instituição de crédito e abertura, no prazo de sete dias úteis após a entrega de todos os documentos necessários para o efeito, de conta de serviços mínimos junto da instituição de crédito outorgante, mediante celebração do respetivo contrato de depósito à ordem, sendo aplicável o disposto na base v; ou
+
+b) Da conversão direta da conta de depósito à ordem já domiciliada na instituição de crédito outorgante em conta de serviços mínimos bancários, mediante a celebração de aditamento ao contrato de depósito à ordem existente, sendo aplicável, com as necessárias adaptações, o disposto na base v.
+
+3 - A instituição de crédito outorgante não pode cobrar qualquer comissão, despesa ou outro encargo ao interessado que solicite a conversão de conta de depósito à ordem em conta de serviços mínimos bancários, incluindo nas situações em que a conversão se efetue através da modalidade referida na alínea a) do número anterior.
+
+4 - Quando a conversão de conta de depósito à ordem em conta de serviços mínimos bancários seja efetuada através da modalidade referida na alínea a) do n.º 2, a instituição de crédito outorgante deve informar o interessado sobre as normas legais e regulamentares, bem como sobre os mecanismos de autorregulação existentes neste domínio, nomeadamente, no que respeita à mobilidade de serviços bancários.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Base VII — Titularidade
+
+1 - A conta de serviços mínimos bancários pode ser titulada por uma ou por várias pessoas singulares.
+
+2 - Quando seja solicitada a contitularidade de conta de serviços mínimos bancários, seja no momento da abertura ou da conversão da conta, seja em momento posterior, a instituição de crédito outorgante pode legitimamente recusar a abertura de conta, a sua conversão ou o aditamento de novos titulares caso uma das pessoas singulares que tenha solicitado a contitularidade incumpra os requisitos previstos no n.º 4 da base v.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 19/2011 - Diário da República n.º 98/2011, Série I de 2011-05-20](https://diariodarepublica.pt/dr/detalhe/lei/19-2011-287779), em vigor a partir de 2011-05-21
+
+###### Base VIII — Prestação de serviços mínimos bancários
+
+1 - Na prestação de serviços mínimos bancários, a instituição de crédito outorgante observa as condições legal e regulamentarmente estabelecidas, nomeadamente em matéria de deveres de informação, e respeitar os mesmos padrões de qualidade e eficiência que são exigidos para a prestação dos serviços bancários em causa a pessoas singulares que não tenham solicitado a prestação de serviços mínimos bancários.
+
+2 - A instituição de crédito outorgante não pode atribuir aos serviços prestados ao abrigo do regime jurídico dos serviços mínimos bancários características específicas que resultem em condições mais restritivas para a sua utilização do que as existentes nos mesmos serviços quando prestados fora do âmbito do presente protocolo e do regime jurídico dos serviços mínimos bancários.
+
+3 - Para além da especificação dos elementos exigidos na lei e nos regulamentos aplicáveis, o contrato de depósito à ordem referido no n.º 1 da base v e na alínea a) do n.º 2 da base vi, bem como o aditamento previsto na alínea b) do n.º 2 da base vi deve:
+
+a) Identificar a conta de depósito à ordem como uma conta de serviços mínimos bancários; e
+
+b) Descrever os serviços bancários associados e as condições da sua prestação.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Base IX — Deveres complementares
+
+A instituição de crédito outorgante não pode oferecer, explícita ou implicitamente, quaisquer facilidades de descoberto associadas às contas de serviços mínimos bancários, nem permitir a ultrapassagem de crédito em contas de serviços mínimos bancários.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Base X — Casos especiais de resolução
+
+1 - A instituição de crédito outorgante pode resolver o contrato de depósito depois de decorrido, pelo menos, um ano após a abertura ou conversão de conta de depósito à ordem em conta de serviços mínimos bancários, se, nos seis meses anteriores, essa conta apresentar um saldo médio anual inferior a 5 % da remuneração mínima mensal garantida e não tiverem sido realizadas quaisquer operações bancárias nesse mesmo período de tempo.
+
+2 - O titular da conta de serviços mínimos bancários deve ser informado do exercício do direito referido no número anterior com, pelo menos, 60 dias de antecedência face à data prevista para a resolução do contrato, através de comunicação em papel ou em qualquer outro suporte duradouro.
+
+3 - Caso exerça o direito conferido pelo disposto no n.º 1, a instituição de crédito outorgante devolve ao titular da conta de serviços mínimos bancários o saldo aí depositado, não lhe podendo exigir o pagamento de quaisquer comissões, despesas ou outros encargos.
+
+4 - A instituição de crédito outorgante pode igualmente resolver um contrato de depósito celebrado ou alterado ao abrigo do regime jurídico dos serviços mínimos bancários se, durante a respetiva vigência, verificar que o titular da conta de serviços mínimos bancários possui uma outra conta de depósito à ordem em instituição de crédito.
+
+5 - Caso ocorra a situação descrita no número anterior, a instituição de crédito outorgante pode exigir do titular da conta de serviços mínimos bancários, se a ele houver lugar, o pagamento das comissões e despesas habitualmente associadas à prestação dos serviços entretanto disponibilizados nos termos da alínea a) do n.º 2 do artigo 1.º do regime jurídico dos serviços mínimos bancários.
+
+6 - A instituição de crédito outorgante notifica o titular da conta de serviços mínimos da resolução do contrato de depósito com fundamento na situação prevista no n.º 4 e, sendo caso disso, da exigência de pagamento das comissões e despesas referidas no número anterior, com, pelo menos, 30 dias de antecedência a contar da data prevista para a resolução, mediante comunicação em papel ou noutro suporte duradouro.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Base XI — Divulgação dos serviços mínimos bancários
+
+1 - A instituição de crédito outorgante obriga-se a publicitar a celebração do presente protocolo e a sua adesão ao sistema de serviços mínimos bancários estabelecido pelo regime jurídico dos serviços mínimos bancários.
+
+2 - A instituição de crédito outorgante obriga-se ainda, nos termos definidos por aviso do Banco de Portugal a:
+
+a) Divulgar publicamente nas suas agências as condições de contratação e manutenção das contas bancárias de depósito à ordem constituídas ao abrigo do regime jurídico dos serviços mínimos bancários;
+
+b) Informar os seus clientes da possibilidade de conversão da atual conta bancária em conta de serviços mínimos bancários ao abrigo do regime jurídico dos serviços mínimos bancários, e os respetivos pressupostos daquela conversão, com o primeiro extrato de cada ano.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Base XII — Proteção de dados
+
+1 - A consulta de dados junto das entidades gestoras dos sistemas de funcionamento dos cartões de crédito e débito, a que alude o n.º 2 da base v, tem como finalidade exclusiva a confirmação da inexistência de qualquer cartão daquela natureza em nome do declarante e consequente direito de acesso aos serviços mínimos bancários, estando a sua realização regulada pelo disposto nos artigos 4.º e 6.º do regime jurídico dos serviços mínimos bancários.
+
+2 - A instituição de crédito outorgante garante aos titulares das contas, nos impressos ou na declaração referidos no n.º 2 da base v, o direito à informação sobre a qualidade dos dados a consultar, a respetiva finalidade, bem como sobre o acesso, a retificação e a eliminação dos dados em causa.
+
+3 - A instituição de crédito outorgante pode realizar a consulta referida no n.º 1 no momento da abertura da conta e durante a vigência do contrato de depósito à ordem celebrado no âmbito do regime jurídico dos serviços mínimos bancários, tendo em vista a possibilidade de resolução prevista na base x, sendo o titular da conta informado desta faculdade em momento anterior à concessão de autorização.
+
+4 - A declaração a que se refere o n.º 2 da base v não prejudica as demais limitações e obrigações impostas pela legislação relativa à proteção das pessoas singulares no que concerne ao tratamento de dados pessoais.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Base XIII — Regime sancionatório
+
+A instituição de crédito outorgante reconhece e aceita que a violação do protocolo e, concomitantemente, do regime jurídico dos serviços mínimos bancários que lhe subjaz e o regula, determina a aplicação do regime sancionatório previsto no referido regime legal.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Base XIV — Cessação de prestação de serviços mínimos bancários
+
+1 - A instituição de crédito outorgante pode cessar a prestação de serviços mínimos bancários, denunciando o presente protocolo, mediante o envio de comunicação escrita ao membro do Governo responsável pela área da defesa do consumidor e ao Banco de Portugal com, pelo menos, 180 dias de antecedência relativamente à data prevista para essa cessação.
+
+2 - Sempre que tal se verifique, a instituição de crédito outorgante deve notificar os clientes que sejam titulares de contas de serviços mínimos bancários desse facto e das consequências dele resultantes, com a antecedência mínima de 60 dias relativamente à data prevista para essa cessação.
+
+3 - A instituição de crédito outorgante converte unilateralmente as contas de serviços mínimos bancários em contas de depósito à ordem sujeitas às condições por si normalmente praticadas caso, decorrido o prazo previsto no n.º 2, os respetivos titulares não tenham procedido ao encerramento da conta de serviços mínimos bancários.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18
+
+###### Base XV — Entrada em vigor
+
+O presente protocolo produz efeitos após a sua assinatura.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 66/2015 - Diário da República n.º 129/2015, Série I de 2015-07-06](https://diariodarepublica.pt/dr/detalhe/lei/66-2015-69727377), em vigor a partir de 2015-10-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 225/2012 - Diário da República n.º 201/2012, Série I de 2012-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2012-192418), em vigor a partir de 2012-10-18

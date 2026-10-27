@@ -1,0 +1,326 @@
+---
+schema_version: '1.0'
+id: pt:dre:658435:por
+title: Decreto Regulamentar n.º 48/94
+short_title: null
+summary: Estabelece as atribuições, organização e competências do Comando Operacional das Forças Terrestres, de outros comandos
+  operacionais e das unidades e grandes unidades operacionais
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 48/94
+official_date: null
+publication_date: '1994-09-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 203/1994, Série I-B de 1994-09-02
+  number: '203'
+  series: I
+  supplement: null
+  pages: 5189 - 5191
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/09/203b00/51895191.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/48/1994/09/02/p/dre/pt/html
+  oj: null
+  dre: '658435'
+  dre_path: /dr/detalhe/decreto-regulamentar/48-1994-658435
+  internal: pt:dre:658435:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1994-658435
+  metadata_url: https://data.dre.pt/eli/decregul/48/1994/09/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1994-658435
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:22:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9c9cd8a8ad782c546ef8819f8abb04150b37f49cf46c3fcd53653b5b139ab5b9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comando Operacional das Forças Terrestres
+- Exército
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:635820:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:657445:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/50/1993/02/26/p/dre
+- type: corrected_by
+  target: pt:dre:355897:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 235/94, DE 30 DE NOVEMBRO, PUBLICADA NO DR.IS-B, 277, 4SUPL, DE 941130.\0\
+    \ 941130."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/235-1994-355897
+  date: '1994-11-30'
+- type: repealed_by
+  target: pt:dre:635820:por
+  label: "Revogado pelo DR.74/2007.02.07.2007.MDN, DR.IS [125] de 02.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/74-2007-635820
+  date: '2007-07-02'
+article_structure:
+  article_count: 18
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:22:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 48/94
+
+de 2 de Setembro
+
+No contexto da reorganização do Exértico, estabelecida pelo [Decreto-Lei n.º 50/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1993-657445), de 26 de Fevereiro, refere-se, no artigo 23.º, que são elementos da componente operacional do sistema de forças nacional o Comando Operacional das Forças Terrestres, outros comandos operacionais e as grandes unidades e unidades destinadas ao cumprimento de missões de natureza operacional.
+
+Dispõe o artigo 30.º do referido diploma que as atribuições, competências e organização dos órgãos e serviços que constituem o Exército são estabelecidas por decreto regulamentar.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 30.º do [Decreto-Lei n.º 50/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1993-657445), de 26 de Fevereiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Comando Operacional das Forças Terrestres
+
+###### Artigo 1.º — Natureza
+
+O Comando Operacional das Forças Terrestres (COFT) é, em tempo de paz, o principal comando da estrutura operacional do Exército.
+
+###### Artigo 2.º — Competências
+
+1 - Ao COFT compete:
+
+a) Estudar e planear o emprego das forças que incumbe ao Exército aprontar e manter;
+
+b) Planear e conduzir o treino operacional dessas forças;
+
+c) Planear e empregar forças e meios em situações de calamidade pública e em missões de interesse público.
+
+2 - Compete ainda ao COFT, em estados de excepção ou de guerra, exercer o comando operacional das forças e meios que lhe forem atribuídos.
+
+###### Artigo 3.º — Estrutura
+
+1 - O COFT compreende:
+
+a) O comandante;
+
+b) O 2.º comandante;
+
+c) O estado-maior (EM);
+
+d) O Centro de Operações Terrestres (COT);
+
+e) Os órgãos de apoio.
+
+2 - O COFT dispõe de um núcleo permanente com uma composição reduzida.
+
+###### Artigo 4.º — Comandante
+
+1 - O comandante do COFT é um general na directa dependência do Chefe do Estado-Maior do Exército (CEME).
+
+2 - Compete ao comandante do COFT, de acordo com as directivas do CEME:
+
+a) Em tempo de paz, exercer o comando operacional sobre as grandes unidades operacionais ou outras colocadas na sua dependência;
+
+b) Em estados de excepção ou de guerra, exercer o comando operacional sobre os comandos operacionais subordinados ao COFT e sobre as forças e meios que lhe forem atribuídos.
+
+3 - Na ausência e impedimento do comandante do COFT, o comando é exercido por oficial general a designar.
+
+###### Artigo 5.º — 2.º comandante
+
+Compete ao 2.º comandante do COFT coadjuvar o comandante no exercício das suas competências.
+
+###### Artigo 6.º — Estado-maior
+
+1 - O EM é o órgão de planeamento e apoio à decisão do comandante do COFT.
+
+2 - O EM compreende:
+
+a) O chefe do estado-maior (CEM);
+
+b) A secção do chefe de estado-maior, à qual incumbe apoiar o CEM e estabelecer as ligações adequadas;
+
+c) O estado-maior-coordenador, ao qual incumbe o planeamento e o apoio à decisão do comandante do COFT;
+
+d) O estado-maior técnico, ao qual incumbe apoiar o comandante do COFT e o estado-maior-coordenador nos aspectos técnicos das respectivas áreas de responsabilidade.
+
+3 - O EM é dirigido pelo CEM, competindo-lhe superintender e coordenar a actuação das repartições e secções que integram o EM.
+
+###### Artigo 7.º — Centro de Operações Terrestres
+
+1 - O COT é o componente do COFT destinado a facilitar e acelerar as acções de comando e de estado-maior na conduta das operações tácticas em curso.
+
+2 - O COT é constituído por elementos das repartições e secções do EM, sendo a sua composição variável em função da situação específica.
+
+3 - O COT é chefiado por um oficial, em acumulação de funções.
+
+###### Artigo 8.º — Órgãos de apoio
+
+1 - Os órgãos de apoio são integrados numa unidade de apoio de serviços.
+
+2 - A unidade de apoio de serviços assegura os apoios administrativo-logísticos, excepto o financeiro, e de segurança das instalações e de comunicações necessárias ao funcionamento do COFT.
+
+3 - A unidade de apoio de serviços é comandada por um capitão e compreende:
+
+a) O comando;
+
+b) A secretaria;
+
+c) O centro de comunicações;
+
+d) A secção de aquartelamento;
+
+e) A secção de alimentação;
+
+f) A secção de transportes;
+
+g) O posto de socorros.
+
+### CAPÍTULO II — Outros comandos operacionais
+
+###### Artigo 9.º — Comandos subordinados ao COFT
+
+1 - São comandos operacionais subordinados ao COFT:
+
+a) O Comando Administrativo-Logístico;
+
+b) O Comando do Primeiro Corpo do Exército.
+
+2 - Os comandos referidos no número anterior existem em ordem de batalha e são activados quando necessário.
+
+###### Artigo 10.º — Comando Administrativo-Logístico
+
+O Comando Administrativo-Logístico (CAL) é um comando operacional subordinado ao COFT com a missão de executar o apoio administrativo-logístico a todas as forças do COFT empenhadas em operações.
+
+###### Artigo 11.º — Competências
+
+Ao CAL compete:
+
+a) Comandar as unidades de apoio de serviços que lhe forem atribuídas;
+
+b) Planear e dirigir o apoio de serviços através dos seus centros funcionais e demais comandos subordinados;
+
+c) Apoiar o comando e o EM do COFT no planeamento administrativo-logístico;
+
+d) Garantir o apoio administrativo-logístico aos comandos operacionais e às unidades atribuídas ao COFT.
+
+###### Artigo 12.º — Estrutura
+
+O CAL compreende:
+
+a) O comando;
+
+b) As unidades de apoio de serviços de apoio geral, de apoio geral-apoio directo e de apoio directo, em número variável consoante as necessidades específicas de apoio a prestar.
+
+###### Artigo 13.º — Comando do Primeiro Corpo do Exército
+
+O comando do Primeiro Corpo do Exército (ICE) é um comando operacional subordinado ao COFT que se destina a exercer o comando e controlo das forças e meios que lhe forem atribuídos.
+
+###### Artigo 14.º — Competências
+
+Ao Comando do ICE compete:
+
+a) Comandar as forças e meios que lhe forem atribuídos;
+
+b) Participar em exercícios no âmbito do treino operacional das forças e meios do Exército, quando determinado.
+
+###### Artigo 15.º — Estrutura
+
+1 - O Comando do ICE compreende:
+
+a) O comandante;
+
+b) O 2.º comandante;
+
+c) O estado-maior;
+
+d) Os órgãos de apoio.
+
+2 - Os órgãos de apoio são integrados numa unidade de apoio de serviços à qual incumbe assegurar o apoio nas áreas da alimentação, sanitária, manutenção de equipamentos e defesa imediata.
+
+### CAPÍTULO III — Unidades e grandes unidades de natureza operacional
+
+###### Artigo 16.º — Unidades de natureza operacional
+
+As unidades de natureza operacional são as forças aprontadas pelos elementos da estrutura territorial cuja finalidade principal visa o cumprimento de missões operacionais.
+
+###### Artigo 17.º — Grandes unidades de natureza operacional
+
+1 - As grandes unidades de natureza operacional são escalões de forças que integram unidades operacionais, dispondo de uma organização equilibrada de elementos de comando, de manobra e de apoio que lhes permitem efectuar o treino operacional e conduzir operações independentes.
+
+2 - São grandes unidades de natureza operacional:
+
+a) A Brigada Mecanizada Independente;
+
+b) A Brigada Ligeira de Intervenção;
+
+c) A Brigada Aerotransportada Independente;
+
+d) As três brigadas de defesa do território.
+
+3 - As brigadas de defesa do território, referidas na alínea d) do número anterior, dispõem de um núcleo permanente em ordem de batalha, sendo as suas unidades levantadas, quando necessário, por mobilização.
+
+###### Artigo 18.º — Competências
+
+Às grandes unidades de natureza operacional compete:
+
+a) Planear e executar as acções operacionais terrestres e o apoio logístico das suas forças, em consequência de ordens, directivas e planos superiores;
+
+b) Garantir a instrução colectiva do seu pessoal, o treino das suas subunidades e a manutenção do respectivo material e equipamento, de acordo com os planos e programas estabelecidos;
+
+c) Garantir a prontidão operacional que lhes for determinada;
+
+d) Actuar em qualquer ponto do território nacional, conduzindo acções independentes ou integrando um comando de escalão superior;
+
+e) Participar em acções operacionais e exercícios desenvolvidos em território nacional ou no estrangeiro, no âmbito de compromissos internacionais assumidos pelo País;
+
+f) Planear e executar outras actividades ou acções que lhes sejam determinadas pelo CEME.
+
+Presidência do Conselho de Ministros, 4 de Abril de 1994.
+
+Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.
+
+Promulgado em 27 de Julho de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 29 de Julho de 1994.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

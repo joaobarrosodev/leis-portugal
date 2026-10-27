@@ -1,0 +1,481 @@
+---
+schema_version: '1.0'
+id: pt:dre:210875030:por
+title: Decreto Regulamentar Regional n.º 9/2023/A
+short_title: null
+summary: Estabelece o modelo de governação e as competências da Autoridade de Gestão do Programa da Região Autónoma dos Açores
+  2021-2027
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 9/2023/A
+official_date: null
+publication_date: '2023-03-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/2023, Série I de 2023-03-23
+  number: '59'
+  series: I
+  supplement: null
+  pages: 23 - 30
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/03/05900/0002300030.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-06-19'
+version_history:
+  file: decreto-regulamentar-regional-9-2023-a.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2023-03-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-07-25'
+    amending: pt:dre:216055970:por
+    amending_title: Decreto Regulamentar Regional n.º 16/2023/A
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 11.º
+  - date: '2024-01-04'
+    amending: pt:dre:836079151:por
+    amending_title: Decreto Regulamentar Regional n.º 2/2024/A
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 9.º
+  - date: '2024-06-19'
+    amending: pt:dre:868787352:por
+    amending_title: Decreto Regulamentar Regional n.º 5/2024/A
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/9/2023/a/cons/20240618/pt/html
+  oj: null
+  dre: '210875030'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/9-2023-210875030
+  internal: pt:dre:210875030:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2023-210875030
+  metadata_url: https://data.dre.pt/eli/decregulreg/9/2023/a/cons/20240618/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2023-836105756
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2023-836105756
+  retrieved_at: '2026-10-22T13:01:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a99dc5e85739f9beecf354a7c811e015b41760c2d610527bbd872544b548fa69
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:01:56Z'
+  notes: 4 versão(ões); histórico completo em decreto-regulamentar-regional-9-2023-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Comité de Acompanhamento
+- Governo Regional
+- Política de Cooperação
+- Definição de Competências
+- Regulamentação de Atos Legislativos
+- Direcção Regional do Planeamento e Fundos Estruturais
+- Diretor Regional
+- União Europeia
+- FEDER
+- Gestão Orçamental
+- Conselho do Governo Regional
+- Publicitação
+- Página na Internet
+- Política Comunitária
+- Regulamento
+- Regulamento CE
+- Açores
+- Autoridade de Gestão
+- Fundo Social Europeu Mais
+- Açores 2030
+relationships:
+- type: amended_by
+  target: pt:dre:216055970:por
+  label: Altera Artigo 5.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2023-216055970
+  date: '2023-07-24'
+- type: amended_by
+  target: pt:dre:836079151:por
+  label: Altera Artigo 2.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2024-836079151
+  date: '2024-01-03'
+- type: amended_by
+  target: pt:dre:868787352:por
+  label: Altera Artigo 2.º; Altera Artigo 7.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2024-868787352
+  date: '2024-06-18'
+- type: cites
+  target: celex:32021R1060
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/1060/oj
+- type: cites
+  target: pt:dre:206478423:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/5/2023/01/25/p/dre
+article_structure:
+  article_count: 15
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:01:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 9/2023/A
+
+Decreto Regulamentar Regional n.º 9/2023/A
+
+Sumário: Estabelece o modelo de governação e as competências da Autoridade de Gestão do Programa da Região Autónoma dos Açores 2021-2027.
+
+Estabelece o modelo de governação e as competências da Autoridade de Gestão do Programa da Região Autónoma dos Açores 2021-2027
+
+O novo período de programação da Política de Coesão da União Europeia para 2021-2027 consubstancia-se, em larga medida, com a implementação de programas aprovados pela Comissão Europeia.
+
+O programa regional na Região Autónoma dos Açores, para o período de programação 2021-2027, doravante Programa Açores 2030, que integra o Portugal 2030, aprovado pela Comissão Europeia a 14 de dezembro de 2022, financiado pelo Fundo Europeu de Desenvolvimento Regional (FEDER) e pelo Fundo Social Europeu Mais (FSE+), reflete um amplo conjunto de consultas e contributos de agentes regionais e materializa as principais opções estratégicas em matéria de política regional de desenvolvimento expressas na Resolução do Conselho do Governo Regional n.º 207/2021, de 17 de agosto, publicada no Jornal Oficial, 1.ª série, n.º 137, de 17 de agosto de 2021, alinhadas com as orientações da União Europeia, com a Estratégia Portugal 2030, com o Acordo de Parceria Portugal 2030 e com os documentos setoriais de orientação estratégica regional, exigindo um sistema de governação eficiente e eficaz, no quadro legislativo em que se insere.
+
+O Programa Açores 2030 contempla diversas vertentes das políticas públicas orientadas para o crescimento económico e inteligente, do fomento do emprego qualificado, da coesão social, da mobilidade enquanto pilar da coesão económica e social, da sustentabilidade ambiental e resiliência às alterações climáticas, da digitalização e proximidade da administração, permitindo às entidades regionais o acesso a recursos financeiros que viabilizam os seus projetos de desenvolvimento nas diferentes áreas de intervenção e setores da economia e da sociedade.
+
+Nos termos do Decreto-Lei n.º 5/2023, de 25 de janeiro, que estabelece o modelo de governação dos fundos europeus para o período de programação 2021-2027, e sem prejuízo da sua aplicabilidade, com as necessárias adaptações, às Regiões Autónomas, devem constar de regulamentação própria as dimensões de coordenação política regional e de gestão regional dos respetivos programas, complementares às competências das autoridades nacionais relativas a certificação, pagamentos, auditoria, monitorização e avaliação, comunicação, sistemas de informação e controlo.
+
+Nos termos do artigo 18.º do referido diploma, são os governos das Regiões Autónomas que definem, por diploma próprio, a natureza, a composição e as competências das autoridades de gestão dos programas das respetivas Regiões e nomeiam os respetivos responsáveis.
+
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, conjugado com a alínea d) do n.º 1 do artigo 89.º e n.º 1 do artigo 91.º, ambos do Estatuto Político-Administrativo da Região Autónoma dos Açores e do artigo 18.º do Decreto-Lei n.º 5/2023, de 25 de janeiro, o Governo Regional decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto regulamentar regional estabelece o modelo de governação e define a natureza e as competências da Autoridade de Gestão do Programa da Região Autónoma dos Açores 2021-2027, doravante designado por Açores 2030, e ainda cria um órgão consultivo de apoio à Autoridade de Gestão, e concretiza a estrutura do Comité de Acompanhamento e define alguns aspetos da sua execução, tendo em conta a realidade e especificidades da Região Autónoma dos Açores (RAA).
+
+2 - O Açores 2030 é financiado pelo Fundo Europeu de Desenvolvimento Regional (FEDER) e pelo Fundo Social Europeu Mais (FSE+).
+
+### Capítulo II — Coordenação
+
+###### Artigo 2.º — Coordenação política
+
+1 - A coordenação política do Açores 2030 compete ao Conselho do Governo Regional da Região Autónoma dos Açores e ao membro do Governo Regional responsável pela gestão global de fundos europeus na RAA, nos termos definidos nos números seguintes.
+
+2 - Compete ao Conselho do Governo Regional:
+
+a) Coordenar a política e estratégia regional do Açores 2030;
+
+b) Pronunciar-se sobre questões de articulação entre o Açores 2030 e outros programas com aplicação na RAA, ou ainda outras fontes de financiamento europeu a que a Região e beneficiários regionais possam ter acesso;
+
+c) Aprovar a regulamentação geral regional de aplicação dos fundos europeus do Açores 2030, prevista no n.º 1 do artigo 13.º;
+
+d) Apreciar os relatórios de execução anuais e o relatório de execução final do Açores 2030;
+
+e) Tomar conhecimento do acompanhamento técnico das condições habilitadoras do programa, zelando pelo respetivo cumprimento, ao longo do período de programação;
+
+f) Designar o representante da Região Autónoma dos Açores na Comissão Interministerial de Coordenação do Portugal 2030;
+
+g) Pronunciar-se sobre questões que, pela sua relevância, lhe sejam presentes pelo membro do Governo Regional responsável pela gestão global de fundos europeus na RAA, bem como pela Autoridade de Gestão, através deste.
+
+h) Homologar as metodologias de opções de custos simplificados, definidas ao abrigo das alíneas a), c) e d) do n.º 3 do artigo 53.º do Regulamento (UE) 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho de 2021, propostas pelas autoridades de gestão, após parecer do órgão de coordenação técnica e avaliação ex ante da autoridade de auditoria.
+
+3 - Compete ao membro do Governo Regional responsável pela gestão global de fundos europeus na RAA, sob proposta da Autoridade de Gestão:
+
+a) Homologar o relatório final de desempenho do programa aprovado pelo Comité de Acompanhamento;
+
+b) Homologar as propostas de reprogramação aprovadas pelo Comité de Acompanhamento;
+
+c) Aprovar o plano anual de avisos para apresentação de candidaturas;
+
+d) Homologar a lista de Organismos Intermédios e os termos em que devem ser exercidas as funções ou tarefas que lhes sejam confiadas;
+
+e) Aprovar a composição do Comité de Acompanhamento;
+
+f) Aprovar mecanismos que permitam ultrapassar, em termos de aprovação de apoios, a dotação orçamental afeta aos programas, com o objetivo de compensar quebras dos valores aprovados;
+
+g) Aprovar a abertura de avisos para apresentação de candidaturas que não se encontrem previstos no plano anual referido na alínea c).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 5/2024/A - Diário da República n.º 116/2024, Série I de 2024-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2024-868787352), em vigor a partir de 2024-06-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2024/A - Diário da República n.º 2/2024, Série I de 2024-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2024-836079151), em vigor a partir de 2024-01-04
+
+###### Artigo 3.º — Órgão de coordenação técnica
+
+A função de coordenação técnica do Portugal 2030, no qual se insere o Açores 2030, é assegurada pela Agência, I. P., nos termos da secção iii do capítulo ii do Decreto-Lei n.º 5/2023, de 25 de janeiro.
+
+### Capítulo III — Gestão do Açores 2030
+
+#### Secção I — Autoridade de Gestão
+
+###### Artigo 4.º — Autoridade de Gestão do Açores 2030
+
+1 - A Autoridade de Gestão do Açores 2030 é a Direção Regional do Planeamento e Fundos Estruturais (DRPFE).
+
+2 - O Gestor do Açores 2030 é o Diretor Regional do Planeamento e Fundos Estruturais.
+
+3 - A Autoridade de Gestão do Açores 2030 é apoiada por uma estrutura técnica de gestão, que respeita os princípios da independência e da segregação de funções e corresponde à exigência necessária para assegurar as competências para a boa gestão do programa.
+
+4 - A Autoridade de Gestão do Açores 2030 conta com uma Unidade de Coordenação, a qual constitui um órgão de natureza consultiva.
+
+5 - Participam ainda na gestão do Açores 2030 as entidades que venham a ser a ela associadas, nos termos de acordos escritos de delegação de competências a celebrar entre a Autoridade de Gestão e estas entidades, as quais são designadas de Organismos Intermédios.
+
+###### Artigo 5.º — Competências da Autoridade de Gestão
+
+1 - Sem prejuízo das competências definidas no artigo 15.º do Decreto-Lei n.º 5/2023, de 25 de janeiro, bem como na legislação da União Europeia, designadamente no Regulamento (UE) n.º 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho, são competências da Autoridade de Gestão do Açores 2030:
+
+a) Assegurar a interlocução, no plano técnico, com o órgão de coordenação técnica do Portugal 2030;
+
+b) Propor a lista de Organismos Intermédios, bem como os termos em que devem ser exercidas as funções ou tarefas de gestão que lhes sejam confiadas, para homologação pelo órgão competente, de acordo com a alínea d) do n.º 3 do artigo 2.º;
+
+c) Supervisionar o exercício das funções de gestão, sendo responsável pelo cumprimento dos acordos escritos celebrados com os Organismos Intermédios;
+
+d) Elaborar o respetivo plano anual de avisos e proceder à respetiva articulação funcional, para subsequente submissão à aprovação pelo membro do Governo Regional responsável pela gestão global de fundos europeus na RAA, nos termos da alínea c) do n.º 3 do artigo 2.º;
+
+e) Elaborar e propor avisos para apresentação de candidaturas que não se encontrem contemplados no plano anual referido na alínea anterior, a submeter à aprovação do membro do Governo Regional responsável pela gestão global de fundos europeus na RAA, de acordo com a alínea g) do n.º 3 do artigo 2.º;
+
+f) Assegurar, após a aprovação, a abertura dos avisos para apresentação de candidaturas referidos nas alíneas anteriores;
+
+g) Elaborar e aprovar orientações de gestão aplicáveis ao Açores 2030 e acompanhar a respetiva aplicação;
+
+h) Definir e aplicar, após aprovação pelo respetivo Comité de Acompanhamento, a metodologia e os critérios utilizados na seleção das operações;
+
+i) Deliberar sobre as candidaturas, nos termos do artigo 73.º do Regulamento (UE) n.º 2021/1060 do Parlamento Europeu e do Conselho, de 24 de junho;
+
+j) Elaborar e propor as reprogramações do Açores 2030 para aprovação pelo Comité de Acompanhamento e subsequente envio para homologação, de acordo com a alínea b) do n.º 3 do artigo 2.º;
+
+k) Verificar que as operações a aprovar estão cobertas pelas disponibilidades financeiras do programa, sem prejuízo do previsto na alínea seguinte;
+
+l) Propor para aprovação, nos termos da alínea f) do n.º 3 do artigo 2.º, mecanismos que permitam ultrapassar, em termos de aprovações de apoios, a dotação orçamental afeta ao programa, com o objetivo de compensar quebras de valores aprovados, assumindo a responsabilidade de identificar e propor fontes alternativas para o respetivo financiamento;
+
+m) Apresentar, para aprovação pelo respetivo Comité de Acompanhamento, e subsequente homologação prevista na alínea a) do n.º 3 do artigo 2.º, o relatório final de desempenho, a submeter à Comissão Europeia, nos termos do Regulamento (UE) n.º 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho;
+
+n) Executar as seguintes tarefas de gestão do Açores 2030 nos termos do artigo 74.º do Regulamento (UE) n.º 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho:
+
+i) Realizar verificações de gestão, que incluem verificações administrativas para os pedidos de pagamento apresentados pelos beneficiários e verificações no local para as operações;
+
+ii) Assegurar, sob reserva das disponibilidades de fundos, que o beneficiário recebe integralmente o montante devido;
+
+iii) Adotar medidas e procedimentos antifraude eficazes;
+
+iv) Prevenir, detetar e corrigir irregularidades;
+
+v) Confirmar que as despesas inscritas nas contas são legais e regulares;
+
+vi) Elaborar a declaração de gestão.
+
+o) Apoiar os trabalhos do Comité de Acompanhamento nos termos do artigo 75.º do Regulamento (UE) n.º 2021/1060, do Parlamento Europeu e do Conselho, de 24 de junho;
+
+p) Registar e armazenar eletronicamente os dados relativos a cada operação, necessários para efeitos de acompanhamento, avaliação, gestão financeira, verificação e auditoria, e garantir a segurança, integridade e confidencialidade dos dados, bem como a autenticação do utilizador.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 16/2023/A - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2023-216055970), em vigor a partir de 2023-07-25
+
+#### Secção II — Gestor do Açores 2030
+
+###### Artigo 6.º — Competências do Gestor do Açores 2030
+
+1 - O Gestor do Açores 2030 é o Diretor Regional do Planeamento e Fundos Estruturais.
+
+2 - São competências do Gestor do Açores 2030:
+
+a) Dirigir e coordenar as tarefas da Autoridade de Gestão;
+
+b) Convocar e presidir às reuniões da Unidade de Coordenação;
+
+c) Convocar e presidir às reuniões do Comité de Acompanhamento;
+
+d) Representar o Açores 2030 nos órgãos nacionais de gestão, monitorização, avaliação e acompanhamento do Portugal 2030, bem como nas demais instituições nacionais, europeias e internacionais;
+
+e) Exercer os demais poderes de representação da Autoridade de Gestão, vinculando-a validamente, quer na outorga de contratos, quer na prática de quaisquer outros atos.
+
+3 - As competências do Gestor do Açores 2030 são exercidas em respeito pelos normativos regionais, nacionais e comunitários, e tendo em conta as necessárias articulações com os órgãos nacionais de gestão do Portugal 2030.
+
+4 - As competências mencionadas no artigo anterior são exercidas atento o disposto na alínea a) do n.º 2, podendo ser delegadas pelo Diretor Regional do Planeamento e Fundos Estruturais, enquanto gestor do programa, em outros dirigentes da DRPFE.
+
+#### Secção III — Organismos Intermédios
+
+###### Artigo 7.º — Organismos Intermédios
+
+1 - As competências de gestão do Açores 2030 podem ser atribuídas, mediante acordo escrito, em Organismos Intermédios.
+
+2 - Os requisitos, enquadramento legal, conteúdo mínimo dos acordos referidos no número anterior são os que constam do artigo 19.º do Decreto-Lei n.º 5/2023, de 25 de janeiro.
+
+3 - A elaboração de regulamentação específica e respetiva proposta de aprovação, nas matérias que tenham sido objeto de atribuição de competências, nos termos previstos no n.º 1, é da responsabilidade dos respetivos Organismos Intermédios, nos termos do n.º 3 do artigo 13.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 5/2024/A - Diário da República n.º 116/2024, Série I de 2024-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2024-868787352), em vigor a partir de 2024-06-19
+
+### Capítulo IV — Unidade de Coordenação
+
+###### Artigo 8.º — Composição e funcionamento da Unidade de Coordenação
+
+1 - Pelo presente diploma, é criada a Unidade de Coordenação, cuja composição é aprovada por despacho do membro do Governo Regional responsável pela gestão global de fundos europeus na RAA, sob proposta da Autoridade de Gestão, integrando, designadamente, os seguintes representantes:
+
+a) Da Autoridade de Gestão, que preside;
+
+b) Dos Organismos Intermédios.
+
+2 - Podem ser convidados a participar nas reuniões da Unidade de Coordenação outras entidades regionais competentes em razão da matéria.
+
+3 - A Unidade de Coordenação reúne sempre que necessário, podendo, em regulamento interno, ser fixada uma periodicidade mínima das reuniões.
+
+4 - As matérias submetidas a votação pela Unidade de Coordenação são objeto de deliberação nas reuniões a que sejam presentes.
+
+###### Artigo 9.º — Competências da Unidade de Coordenação
+
+São competências da Unidade de Coordenação:
+
+a) Apoiar a Autoridade de Gestão na concretização dos objetivos definidos, bem como na execução do Açores 2030;
+
+b) Analisar e discutir as propostas, para decisão do Gestor do Açores 2030, das candidaturas dos Organismos Intermédios.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 2/2024/A - Diário da República n.º 2/2024, Série I de 2024-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2024-836079151), em vigor a partir de 2024-01-04
+
+### Capítulo V — Comité de Acompanhamento
+
+###### Artigo 10.º — Composição e funcionamento do Comité de Acompanhamento
+
+1 - É instituído um Comité de Acompanhamento para o Programa Açores 2030, enquanto órgão responsável pelo acompanhamento do desempenho do Açores 2030.
+
+2 - A composição do Comité de Acompanhamento é proposta e aprovada nos termos da alínea e) do n.º 3 do artigo 2.º, devendo assegurar a representação, seja com direito a voto, como observadores e, ou, convidados, ou a título consultivo e de acompanhamento, das áreas seguintes:
+
+a) Autoridade de Gestão;
+
+b) Comissão Europeia;
+
+c) Órgão de Coordenação Técnica;
+
+d) Autoridade de Certificação;
+
+e) Autoridade de Auditoria;
+
+f) Organismos Intermédios do Programa;
+
+g) Autoridades de Gestão dos demais programas do Portugal 2030;
+
+h) Outras entidades responsáveis pela gestão de instrumentos financeiros, em razão das matérias;
+
+i) Serviços ou organismos da administração regional relevantes em razão da matéria;
+
+j) Associação de Municípios da Região Autónoma dos Açores e Delegação Regional da Associação Nacional de Freguesias;
+
+k) Sociedade civil, parceiros económicos e sociais, organizações relevantes da economia social, parceiros ambientais, organizações não-governamentais, organismos de investigação e do ensino superior e da área da cultura;
+
+l) Entidades públicas responsáveis pelo cumprimento das condições habilitadoras aplicáveis ao programa;
+
+m) Organismos responsáveis pela promoção da inclusão social, dos direitos fundamentais, dos direitos das pessoas com deficiência, da igualdade de género e da não discriminação;
+
+n) Outros representantes convidados pelo presidente do comité de acompanhamento, quando a natureza da matéria o justifique.
+
+3 - O Comité de Acompanhamento é presidido pelo Gestor do Açores 2030.
+
+4 - O Comité de Acompanhamento aprova o seu regulamento interno, onde são detalhados os procedimentos a seguir, bem como o exercício do direito a voto.
+
+5 - O Comité de Acompanhamento reúne sempre que necessário, assegurando-se uma periodicidade mínima anual.
+
+6 - Sempre que se revele impossível o recurso a uma reunião presencial ou com recurso a meios telemáticos, é realizada a consulta, por escrito, aos membros do Comité de Acompanhamento, sobre os assuntos constantes da agenda da reunião.
+
+7 - Os membros do Comité de Acompanhamento não são remunerados.
+
+8 - O regulamento interno, bem como a lista dos membros do Comité de Acompanhamento são publicados no sítio da Internet do Açores 2030.
+
+###### Artigo 11.º — Competências do Comité de Acompanhamento
+
+1 - Compete ao Comité de Acompanhamento a análise dos elementos seguintes:
+
+a) Os progressos realizados na execução do Açores 2030, bem como na consecução dos objetivos intermédios e das metas, incluindo quaisquer problemas que afetem o desempenho do programa e as medidas tomadas para os resolver;
+
+b) A contribuição do Açores 2030 para fazer face aos desafios relacionados com a respetiva execução, identificados nas recomendações pertinentes específicas, por país;
+
+c) Os elementos da avaliação ex ante;
+
+d) Os progressos alcançados na realização das avaliações, sínteses das avaliações e o seguimento dado às constatações efetuadas;
+
+e) A execução de ações de comunicação e de promoção da notoriedade;
+
+f) Os progressos realizados na execução de operações de importância estratégica, se for caso disso;
+
+g) O cumprimento das condições habilitadoras e a sua aplicação ao longo do período de programação.
+
+2 - Compete ao Comité de Acompanhamento aprovar os elementos seguintes:
+
+a) A metodologia e os critérios utilizados na seleção das operações, incluindo as eventuais alterações aos mesmos, sob proposta da Autoridade de Gestão;
+
+b) A proposta de reprogramação do Açores 2030, apresentada pela Autoridade de Gestão, para homologação, nos termos da alínea b) do n.º 3 do artigo 2.º;
+
+c) O plano de comunicação do programa Açores 2030 e eventuais alterações ao mesmo, sob proposta da Autoridade de Gestão;
+
+d) O plano de avaliação do Açores 2030 e eventuais alterações ao mesmo, sob proposta da Autoridade de Gestão.
+
+e) O relatório final de desempenho, a apresentar à Comissão Europeia, sob proposta da Autoridade de Gestão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 16/2023/A - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2023-216055970), em vigor a partir de 2023-07-25
+
+### Capítulo VI — Disposições complementares
+
+###### Artigo 12.º — Abordagem territorial do Açores 2030
+
+1 - A abordagem territorial do Açores 2030 assenta num quadro estratégico de base regional, desenvolvido em alinhamento com orientações da União Europeia, da Estratégia Portugal 2030, do Acordo de Parceria Portugal 2030, garantindo a mais ampla participação nas diversas escalas em que é desenvolvido.
+
+2 - O regime da abordagem territorial do Açores 2030 consta de regulamentação própria a aprovar por Resolução de Conselho de Governo Regional.
+
+###### Artigo 13.º — Regulamentação do Açores 2030
+
+1 - A regulamentação geral do Açores 2030 é proposta pela Autoridade de Gestão ao Conselho do Governo Regional para aprovação, por resolução, nos termos da alínea c) do n.º 2 do artigo 2.º
+
+2 - A regulamentação específica do Açores 2030 é aprovada por portaria do membro do Governo Regional competente na matéria, em função da respetiva área envolvida, após parecer vinculativo da Autoridade de Gestão.
+
+3 - A regulamentação específica dos Açores 2030 referida no n.º 3 do artigo 7.º é aprovada por portaria do membro do Governo Regional competente na matéria, em função da respetiva área envolvida, após parecer vinculativo da Autoridade de Gestão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 5/2024/A - Diário da República n.º 116/2024, Série I de 2024-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2024-868787352), em vigor a partir de 2024-06-19
+
+###### Artigo 14.º — Execução do Açores 2030
+
+1 - A governação e execução do Açores 2030 subordina-se aos princípios orientadores gerais previstos no artigo 2.º do Decreto-Lei n.º 5/2023, de 25 de janeiro.
+
+2 - A execução do Açores 2030 faz-se em articulação com todos os órgãos do Portugal 2030 com atuação na globalidade do território nacional, designadamente de Coordenação Política, de Coordenação Técnica, de Auditoria e Controlo, Pagador e de Certificação.
+
+### Capítulo VII — Disposições finais
+
+###### Artigo 15.º — Produção de efeitos e entrada em vigor
+
+1 - O presente diploma produz efeitos no dia 6 de março de 2023.
+
+2 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 4 de março de 2023.
+
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
+
+Assinado em Angra do Heroísmo em 20 de março de 2023.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+116290975

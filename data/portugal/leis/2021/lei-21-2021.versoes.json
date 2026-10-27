@@ -1,0 +1,232 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:161766414:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-161766464",
+ "dre_path": "/dr/detalhe/lei/21-2021-161766414",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-04-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "161794924",
+    "161794925",
+    "161794926",
+    "161794927",
+    "161794928",
+    "161794929",
+    "161794930",
+    "161794931",
+    "161794932",
+    "161794933"
+   ]
+  },
+  {
+   "date": "2023-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213132930:por",
+     "title": "Lei n.º 20/2023",
+     "published": "2023-05-17",
+     "dre_path": "/dr/detalhe/lei/20-2023-213132930"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "161794924",
+    "161794925",
+    "161794926",
+    "161794927",
+    "161794928",
+    "161794929",
+    "161794930",
+    "161794931",
+    "213109262",
+    "161794933",
+    "161794934"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "161794924",
+    "161794925",
+    "838758696",
+    "161794927",
+    "161794928",
+    "161794929",
+    "161794930",
+    "161794931",
+    "213109262",
+    "161794933",
+    "161794934"
+   ]
+  },
+  {
+   "date": "2026-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993270096:por",
+     "title": "Lei n.º 73-A/2025",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/lei/73-a-2025-993270096"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "161794924",
+    "161794925",
+    "1001144432",
+    "161794927",
+    "161794928",
+    "161794929",
+    "161794930",
+    "161794931",
+    "213109262",
+    "161794933",
+    "161794934"
+   ]
+  }
+ ],
+ "fragments": {
+  "161794924": {
+   "fragment_id": "161766465",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 21/2021\n\nde 20 de abril\n\nSumário: Altera o Estatuto dos Benefícios Fiscais, o Código do Imposto do Selo, o Código Fiscal do Investimento, o Código do Imposto sobre os Veículos e o Código do Imposto Único de Circulação e cria uma medida extraordinária de contagem de prazos no âmbito do IRC.\n\nAltera o Estatuto dos Benefícios Fiscais, o Código do Imposto do Selo, o Código Fiscal do Investimento, o Código do Imposto sobre os Veículos e o Código do Imposto Único de Circulação e cria uma medida extraordinária de contagem de prazos no âmbito do IRC\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "161794925": {
+   "fragment_id": "161766466",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei procede à alteração:\n\na) Do Estatuto dos Benefícios Fiscais (EBF), aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho;\n\nb) Do Código do Imposto do Selo, aprovado em anexo à Lei n.º 150/99, de 11 de setembro;\n\nc) Do Código Fiscal do Investimento (CFI), aprovado em anexo ao Decreto-Lei n.º 162/2014, de 31 de outubro;\n\nd) Do Código do Imposto sobre Veículos, aprovado em anexo à Lei n.º 22-A/2007, de 29 de junho;\n\ne) Do Código do Imposto Único de Circulação, aprovado em anexo à Lei n.º 22-A/2007, de 29 de junho.\n\n2 - A presente lei cria uma medida extraordinária de contagem de prazos no âmbito do Código do Imposto sobre o Rendimento das Pessoas Coletivas (Código do IRC), aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, e do CFI."
+  },
+  "161794926": {
+   "fragment_id": "161766467",
+   "type": 11,
+   "heading": "Artigo 2.º — Prorrogação no âmbito do Estatuto dos Benefícios Fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prorrogação no âmbito do Estatuto dos Benefícios Fiscais\n\n1 - A vigência dos artigos 28.º, 29.º, 30.º, 31.º, 32.º-B, 32.º-C, 52.º, 53.º, 54.º, 55.º, 59.º, 63.º e 64.º do EBF, é prorrogada até 31 de dezembro de 2025.\n\n2 - A vigência dos n.os 4 a 20 do artigo 33.º do EBF, para efeitos da remissão do n.º 13 do artigo 36.º-A, é prorrogada até 31 de dezembro de 2027.\n\n3 - A vigência do artigo 58.º do EBF é prorrogada até 31 de dezembro de 2021."
+  },
+  "161794927": {
+   "fragment_id": "161766468",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Estatuto dos Benefícios Fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Estatuto dos Benefícios Fiscais\n\nOs artigos 3.º, 28.º, 36.º-A e 52.º do EBF passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - O disposto no n.º 1 não se aplica aos benefícios fiscais constantes dos artigos 16.º, 17.º, 18.º, 21.º, 22.º, 22.º-A, 23.º, 24.º, 32.º, 44.º, 60.º, 62.º-B e 66.º-A, bem como ao capítulo v da parte ii do presente Estatuto.\n\nArtigo 28.º\n\n[...]\n\nFicam isentos de IRS ou de IRC os juros de capitais provenientes do estrangeiro, representativos de empréstimos e rendas de locação de equipamentos importados de natureza industrial, comercial ou científica, de que sejam devedores o Estado, as Regiões Autónomas, as autarquias locais e as suas federações ou uniões, ou qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, compreendidos os institutos públicos, e as empresas que prestem serviços públicos, desde que os credores tenham o domicílio no estrangeiro, e não disponham em território português de estabelecimento estável ao qual o empréstimo seja imputado.\n\nArtigo 36.º-A\n\n[...]\n\n1 - Os rendimentos das entidades licenciadas para operar na Zona Franca da Madeira a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2021 são tributados em IRC, até 31 de dezembro de 2027, à taxa de 5 %, nos seguintes termos:\n\na) [...];\n\nb) [...];\n\nc) [...].\n\n2 - [...].\n\n3 - [...]:\n\na) 20,1 % do valor acrescentado bruto gerado anualmente na Região Autónoma da Madeira; ou\n\nb) 30,1 % dos custos anuais de mão-de-obra suportados na Região Autónoma da Madeira; ou\n\nc) 15,1 % do volume anual de negócios realizado na Região Autónoma da Madeira.\n\n4 - [...].\n\n5 - Os limites máximos da matéria coletável previstos no número anterior são determinados em função do número de postos de trabalho que as entidades beneficiárias mantêm em cada exercício, tendo por referência o seguinte:\n\na) O número de postos de trabalho é determinado por referência ao número de pessoas que aufiram rendimentos de trabalho dependente, pagos ou colocados à disposição pela entidade licenciada, desde que residam, para efeitos fiscais, na Região Autónoma da Madeira ou, não residindo, nela exerçam a sua atividade ou sejam trabalhadores ou tripulantes de navios ou embarcações de recreio registados no Registo Internacional de Navios da Madeira (MAR);\n\nb) Os trabalhadores a tempo indeterminado, parcial ou intermitente são considerados proporcionalmente ao praticado a tempo inteiro numa situação comparável, medido em número de unidades de trabalho-ano (UTA);\n\nc) São excluídos do cômputo do número de postos de trabalho:\n\ni) Os trabalhadores cedidos por empresas de trabalho temporário, no que respeita às respetivas entidades utilizadoras;\n\nii) Os trabalhadores em regime de cedência ocasional, no que respeita à entidade cessionária;\n\niii) Os trabalhadores em regime de pluralidade de empregadores, quando o empregador que representa os demais no âmbito da relação de trabalho não se encontre licenciado na Zona Franca da Madeira.\n\n6 - [...].\n\n7 - As entidades licenciadas na Zona Franca da Madeira, a partir de 1 de janeiro de 2015 e até 31 de dezembro de 2021, podem, designadamente, exercer as seguintes atividades económicas relacionadas com:\n\na) [...];\n\nb) [...];\n\nc) [...]:\n\nd) [...]:\n\ne) [...];\n\nf) [...]:\n\ng) [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - [...].\n\n13 - [...].\n\n14 - [...].\n\n15 - [...].\n\n16 - [...]\n\n17 - Para efeitos do n.º 3, consideram-se gerados, suportados ou realizados na Região Autónoma da Madeira os rendimentos e ganhos, bem como os gastos e perdas, imputáveis à atividade realizada pela entidade licenciada através de uma estrutura empresarial adequada localizada na Região Autónoma da Madeira.\n\n18 - O disposto no n.º 5 é aplicável, com as devidas adaptações, à criação de postos de trabalho prevista nos n.os 2 e 6 do presente artigo.\n\nArtigo 52.º\n\nEntidades gestoras de denominações de origem e indicações geográficas\n\nFicam isentas de IRC, exceto quanto aos rendimentos de capitais tal como definidos para efeitos de IRS, as entidades gestoras de denominações de origem e indicações geográficas dos vinhos, vinagres, bebidas espirituosas de origem vínica e produtos vitivinícolas aromatizados reconhecidas nos termos da legislação aplicável.»"
+  },
+  "161794928": {
+   "fragment_id": "161766469",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Código Fiscal do Investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Código Fiscal do Investimento\n\nOs artigos 2.º e 43.º do CFI passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - Até 31 de dezembro de 2021, podem ser concedidos benefícios fiscais, em regime contratual, com um período de vigência até 10 anos a contar da conclusão do projeto de investimento, aos projetos de investimento, tal como são caracterizados no presente capítulo, cujas aplicações relevantes sejam de montante igual ou superior a 3 000 000 (euro).\n\n2 - [...].\n\n3 - [...].\n\nArtigo 43.º\n\n[...]\n\n1 - Em conformidade com o mapa nacional de auxílios estatais com finalidade regional para o período de 1 de junho de 2014 a 31 de dezembro de 2021, aprovado pela Comissão Europeia em 11 de junho de 2014 e prorrogado em 2 de julho de 2020, os limites máximos aplicáveis aos benefícios fiscais concedidos às empresas no âmbito do regime de benefícios fiscais contratuais ao investimento produtivo e do RFAI são os seguintes:\n\n[...]\n\n2 - [...].\n\n3 - [...].»"
+  },
+  "161794929": {
+   "fragment_id": "161766470",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Código do Imposto do Selo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Código do Imposto do Selo\n\nO artigo 7.º do Código do Imposto do Selo passa a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - [...].\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nl) [...];\n\nm) O reporte de valores mobiliários ou direitos equiparados realizado em mercado regulamentado ou em sistema de negociação multilateral ou organizado, bem como o reporte e a garantia financeira realizados pelas instituições financeiras, designadamente por instituições de crédito e sociedades financeiras, com interposição de contrapartes centrais;\n\nn) [...];\n\no) [...];\n\np) [...];\n\nq) [...];\n\nr) [...];\n\ns) [...];\n\nt) [...];\n\nu) [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].»"
+  },
+  "161794930": {
+   "fragment_id": "161766471",
+   "type": 11,
+   "heading": "Artigo 6.º — Medida extraordinária de contagem de prazos no âmbito do imposto sobre o rendimento das pessoas coletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Medida extraordinária de contagem de prazos no âmbito do imposto sobre o rendimento das pessoas coletivas\n\nFica suspensa, durante o período de tributação de 2020 e durante o período de tributação seguinte, a contagem:\n\na) Do prazo de reinvestimento previsto na alínea a) do n.º 1 do artigo 48.º do Código do IRC;\n\nb) Dos prazos de dedução à coleta previstos no n.º 3 do artigo 23.º e no n.º 4 do artigo 38.º do CFI."
+  },
+  "161794931": {
+   "fragment_id": "161766472",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nSão revogadas:\n\na) A alínea c) do n.º 2 do artigo 2.º do Código do Imposto sobre Veículos, aprovado em anexo à Lei n.º 22-A/2007, de 29 de junho;\n\nb) A alínea a) do n.º 8 do artigo 5.º Código do Imposto Único de Circulação, aprovado em anexo à Lei n.º 22-A/2007, de 29 de junho."
+  },
+  "161794932": {
+   "fragment_id": "161766473",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\n1 - A presente lei produz efeitos desde 1 de janeiro de 2021, exceto a prorrogação do artigo 58.º do EBF prevista no n.º 3 do artigo 2.º e a medida extraordinária prevista no artigo 6.º, cujos efeitos retroagem a 1 de janeiro de 2020.\n\n2 - Sem prejuízo do disposto no número anterior, as alterações introduzidas pelo artigo anterior produzem efeitos a partir de 1 de julho de 2021.\n\n3 - Sem prejuízo do disposto nos números anteriores, o disposto no artigo 28.º do EBF, na redação anterior à introduzida pela presente lei, continua a ser aplicável relativamente aos contratos celebrados até 31 de dezembro de 2020, ainda que o requerimento a que alude o referido artigo seja apresentado em data posterior, desde que dentro do prazo previsto na alínea a) do n.º 3 do artigo 65.º do Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro."
+  },
+  "161794933": {
+   "fragment_id": "161766474",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nSem prejuízo do disposto no artigo anterior, a presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "213109262": {
+   "fragment_id": "161766473",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": "2023-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 20/2023 - Diário da República n.º 95/2023, Série I de 2023-05-17](https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930), em vigor a partir de 2023-05-18, produz efeitos a partir de 2023-07-01"
+   ],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\n1 - A presente lei produz efeitos desde 1 de janeiro de 2021, exceto a prorrogação do artigo 58.º do EBF prevista no n.º 3 do artigo 2.º e a medida extraordinária prevista no artigo 6.º, cujos efeitos retroagem a 1 de janeiro de 2020.\n\n2 - Sem prejuízo do disposto no número anterior, as alterações introduzidas pelo artigo anterior produzem efeitos a partir de 1 de julho de 2021.\n\n3 - Sem prejuízo do disposto nos números anteriores, o disposto no artigo 28.º do EBF, na redação anterior à introduzida pela presente lei, continua a ser aplicável aos contratos celebrados até 31 de dezembro de 2020, ainda que o requerimento a que alude o referido artigo seja apresentado em data posterior, desde que dentro do prazo previsto na alínea a) do n.º 3 do artigo 65.º do Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro, aplicando-se a redação atual às alterações contratuais que ocorram após 1 de janeiro de 2021.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 20/2023 - Diário da República n.º 95/2023, Série I de 2023-05-17](https://diariodarepublica.pt/dr/detalhe/lei/20-2023-213132930), em vigor a partir de 2023-05-18, produz efeitos a partir de 2023-07-01"
+  },
+  "161794934": {
+   "fragment_id": "161827575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 25 de março de 2021.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 7 de abril de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 13 de abril de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114149075"
+  },
+  "838758696": {
+   "fragment_id": "161766467",
+   "type": 11,
+   "heading": "Artigo 2.º — Prorrogação no âmbito do Estatuto dos Benefícios Fiscais",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 308.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Prorrogação no âmbito do Estatuto dos Benefícios Fiscais\n\n1 - A vigência dos artigos 28.º, 29.º, 30.º, 31.º, 32.º-B, 32.º-C, 52.º, 53.º, 54.º, 55.º, 59.º, 63.º e 64.º do EBF, é prorrogada até 31 de dezembro de 2025.\n\n2 - A vigência dos n.os 4 a 20 do artigo 33.º do EBF, para efeitos da remissão do n.º 13 do artigo 36.º-A do EBF, é prorrogada até 31 de dezembro de 2028.\n\n3 - A vigência do artigo 58.º do EBF é prorrogada até 31 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 308.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "1001144432": {
+   "fragment_id": "161766467",
+   "type": 11,
+   "heading": "Artigo 2.º — Prorrogação no âmbito do Estatuto dos Benefícios Fiscais",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 74.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01",
+    "Alterado pelo/a Artigo 308.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Prorrogação no âmbito do Estatuto dos Benefícios Fiscais\n\n1 - A vigência dos artigos 28.º, 29.º, 30.º, 31.º, 32.º-B, 32.º-C, 52.º, 53.º, 54.º, 55.º, 59.º, 63.º e 64.º do EBF, é prorrogada até 31 de dezembro de 2025.\n\n2 - A vigência dos n.os 4 a 20 do artigo 33.º do EBF, para efeitos da remissão do n.º 13 do artigo 36.º-A, é prorrogada até 31 de dezembro de 2033.\n\n3 - A vigência do artigo 58.º do EBF é prorrogada até 31 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 74.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01\n\n> Alterado pelo/a Artigo 308.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  }
+ }
+}

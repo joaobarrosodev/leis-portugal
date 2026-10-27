@@ -1,0 +1,151 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:449467:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-224510112",
+ "dre_path": "/dr/detalhe/portaria/416-2008-449467",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-06-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "224458707",
+    "224458708",
+    "224458709",
+    "224458710"
+   ]
+  },
+  {
+   "date": "2023-11-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224462296:por",
+     "title": "Portaria n.º 379-A/2023",
+     "published": "2023-11-17",
+     "dre_path": "/dr/detalhe/portaria/379-a-2023-224462296"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "224458707",
+    "224458712",
+    "224458713",
+    "224458710",
+    "224458711"
+   ]
+  },
+  {
+   "date": "2025-09-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:934502553:por",
+     "title": "Portaria n.º 303/2025/1",
+     "published": "2025-09-09",
+     "dre_path": "/dr/detalhe/portaria/303-2025-934502553"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "224458707",
+    "934733601",
+    "934733602",
+    "224458710",
+    "224458711"
+   ]
+  }
+ ],
+ "fragments": {
+  "224458707": {
+   "fragment_id": "224510113",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 416/2008\n\nde 11 de Junho\n\nA Lei n.º 53/2007, de 31 de Agosto, definiu a missão, atribuições e a organização interna da Polícia de Segurança Pública (PSP). Através da Portaria n.º 383/2008, de 29 de Maio, dos Ministros das Finanças e da Administração Pública e da Administração Interna, foram definidos a estrutura nuclear da unidade Direcção Nacional da PSP (DNPSP) e o respectivo quadro de dirigentes. Foram criadas 13 unidades nucleares, 11 distribuídas pelas unidades orgânicas - 6 na área de operações e segurança, 3 na área de recursos humanos e 2 na área de logística e finanças - , e 2 junto do director nacional. Importa, agora, determinar o número máximo de unidades orgânicas flexíveis daquela unidade, que se fixa em 35. Determina-se, ainda, quais as unidades nucleares criadas pela citada portaria conjunta que prosseguem atribuições da PSP exclusiva ou predominantemente policiais, delegando-se no director nacional da PSP a competência para determinar quais de entre as unidades flexíveis que venha a criar, no âmbito das unidades nucleares aqui especificadas, as que igualmente prosseguem atribuições exclusiva ou predominantemente policiais.\n\nAssim:\n\nAo abrigo do n.º 5 do artigo 21.º da Lei n.º 4/2004, de 15 de Janeiro, e da alínea c) do n.º 4 do artigo 65.º da Lei n.º 53/2007, de 31 de Agosto:\n\nManda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "224458708": {
+   "fragment_id": "224510114",
+   "type": 11,
+   "heading": "Artigo 1.º — Unidades orgânicas flexíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis, designadas por divisão, da DNPSP é fixado em 35."
+  },
+  "224458709": {
+   "fragment_id": "224510115",
+   "type": 11,
+   "heading": "Artigo 2.º — Serviços exclusiva ou predominantemente policiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Serviços exclusiva ou predominantemente policiais\n\n1 - Nos termos e para os efeitos da alínea c) do n.º 4 do artigo 65.º da Lei n.º 53/2007, de 31 de Agosto, prosseguem atribuições exclusiva ou predominantemente policiais os seguintes departamentos da DNPSP:\n\na) Departamento de Apoio Geral;\n\nb) Departamento de Operações;\n\nc) Departamento de Informações Policiais;\n\nd) Departamento de Investigação Criminal;\n\ne) Departamento de Armas e Explosivos;\n\nf) Departamento de Segurança Privada;\n\ng) Departamento de Formação.\n\n2 - Compete ao director nacional da PSP definir, de entre as unidades flexíveis que, por seu despacho, vierem a ser criadas nos departamentos mencionados no número anterior, bem como no Departamento de Sistemas de Informação e Comunicações e no Departamento de Logística, aquelas que prosseguem atribuições exclusiva ou predominantemente policiais."
+  },
+  "224458710": {
+   "fragment_id": "224510116",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria produz efeitos desde o dia 30 de Maio de 2008."
+  },
+  "224458712": {
+   "fragment_id": "224510114",
+   "type": 11,
+   "heading": "Artigo 1.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2023-11-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2023-224462296), em vigor a partir de 2023-11-18"
+   ],
+   "markdown": "###### Artigo 1.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis, designadas por divisão, centro de comando e controlo estratégico ou gabinete, da DNPSP é fixado em 44.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2023-224462296), em vigor a partir de 2023-11-18"
+  },
+  "224458713": {
+   "fragment_id": "224510115",
+   "type": 11,
+   "heading": "Artigo 2.º — Serviços exclusiva ou predominantemente policiais",
+   "in_force_from": "2023-11-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2023-224462296), em vigor a partir de 2023-11-18"
+   ],
+   "markdown": "###### Artigo 2.º — Serviços exclusiva ou predominantemente policiais\n\n1 - Nos termos e para os efeitos da alínea c) do n.º 4 do artigo 65.º da Lei n.º 53/2007, de 31 de agosto, na sua redação atual, prosseguem atribuições exclusiva ou predominantemente policiais, na estrutura de serviços da DNPSP, os seguintes departamentos:\n\na) Departamento de Apoio Geral;\n\nb) Departamento de Operações;\n\nc) Departamento de Informações Policiais;\n\nd) Departamento de Investigação Criminal;\n\ne) Departamento de Armas e Explosivos;\n\nf) Departamento de Segurança Privada;\n\ng) Departamento de Sistemas de Informação e Comunicações;\n\nh) Departamento de Segurança Aeroportuária;\n\ni) Departamento de Gestão Integrada de Fronteiras;\n\nj) Departamento de Formação.\n\n2 - Compete ao diretor nacional da PSP definir quais as unidades orgânicas flexíveis, a criar por seu despacho nos departamentos mencionados no número anterior, que prosseguem atribuições exclusiva ou predominantemente policiais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2023-224462296), em vigor a partir de 2023-11-18"
+  },
+  "224458711": {
+   "fragment_id": "224510117",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Administração Interna, Rui Carlos Pereira, em 29 de Maio de 2008."
+  },
+  "934733601": {
+   "fragment_id": "224510114",
+   "type": 11,
+   "heading": "Artigo 1.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2025-09-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2023-224462296), em vigor a partir de 2023-11-18"
+   ],
+   "markdown": "###### Artigo 1.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis, designadas por divisão, centro de comando e controlo estratégico ou gabinete, da DNPSP é fixado em 50.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2023-224462296), em vigor a partir de 2023-11-18"
+  },
+  "934733602": {
+   "fragment_id": "224510115",
+   "type": 11,
+   "heading": "Artigo 2.º — Serviços exclusiva ou predominantemente policiais",
+   "in_force_from": "2025-09-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2023-224462296), em vigor a partir de 2023-11-18"
+   ],
+   "markdown": "###### Artigo 2.º — Serviços exclusiva ou predominantemente policiais\n\n1 - Nos termos e para os efeitos da alínea c) do n.º 4 do artigo 65.º da Lei n.º 53/2007, de 31 de agosto, na sua redação atual, prosseguem atribuições exclusiva ou predominantemente policiais, na estrutura da DNPSP, os seguintes departamentos e unidades centrais:\n\na) Departamento de Apoio Geral;\n\nb) Departamento de Operações;\n\nc) Departamento de Informações Policiais;\n\nd) Departamento de Investigação Criminal;\n\ne) Departamento de Armas e Explosivos;\n\nf) Departamento de Segurança Privada;\n\ng) Departamento de Sistemas de Informação e Comunicações;\n\nh) Unidade Central de Gestão de Fronteiras;\n\ni) Unidade Central de Retorno e Readmissão;\n\nj) Unidade Central de Estrangeiros e Migrações;\n\nk) Unidade Central de Segurança da Aviação Civil;\n\nl) Departamento de Formação.\n\n2 - Compete ao diretor nacional da PSP definir quais as unidades orgânicas flexíveis, a criar por seu despacho nos departamentos e unidades mencionados no número anterior, que prosseguem atribuições exclusiva ou predominantemente policiais.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 303/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/303-2025-934502553), em vigor a partir de 2025-09-10\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-A/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-a-2023-224462296), em vigor a partir de 2023-11-18"
+  }
+ }
+}

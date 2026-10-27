@@ -1,0 +1,352 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32019L1833:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L1833-20200624",
+ "dre_path": null,
+ "source_lastmod": "2020-06-24",
+ "versions": [
+  {
+   "date": "2019-10-31",
+   "future": false,
+   "celex": "32019L1833",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "717cb05d3dd64715",
+    "9fad144227fbf732",
+    "7a64c923015d3570",
+    "9109a091b79074a2",
+    "0510ed34a9625a28",
+    "d98bfa77cf69633b"
+   ]
+  },
+  {
+   "date": "2020-06-24",
+   "future": false,
+   "celex": "02019L1833-20200624",
+   "acts": [
+    {
+     "id": "eu:celex:32020L0739:por",
+     "title": "DIRETIVA (UE) 2020/739 DA COMISSÃO de 3 de junho de 2020",
+     "published": null,
+     "celex": "32020L0739"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Adita ANEXO",
+    "Adita «ANEXO I",
+    "Adita LISTA INDICATIVA DE ATIVIDADES PROFISSIONAIS",
+    "Adita (artigo 4.º, n.º 2)",
+    "Adita NOTA INTRODUTÓRIA",
+    "Adita «ANEXO III",
+    "Adita CLASSIFICAÇÃO COMUNITÁRIA",
+    "Adita (artigo 2.º, segundo parágrafo, e artigo 18.º)",
+    "Adita NOTAS INTRODUTÓRIAS",
+    "Adita BACTÉRIAS",
+    "Adita e afins",
+    "Adita VÍRUS ()",
+    "Adita AGENTES DE DOENÇAS PRIÓNICAS",
+    "Adita PARASITAS",
+    "Adita FUNGOS",
+    "Adita «ANEXO V",
+    "Adita RECOMENDAÇÕES RELATIVAS ÀS MEDIDAS E AOS NÍVEIS DE CONFINAMENTO",
+    "Adita [artigo 15.º, n.º 3, e artigo 16.º, n.º 1, alíneas a) e b)]",
+    "Adita «ANEXO VI",
+    "Adita CONFINAMENTO PARA PROCESSOS INDUSTRIAIS",
+    "Adita [artigo 4.º, n.º 1 e artigo 16.º, n.º 2, alínea a)]",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "c7c68c83392c8f06",
+    "9fad144227fbf732",
+    "f51b11ffb8f06e4f",
+    "9109a091b79074a2",
+    "2ff5c156fa40123c",
+    "f86475061a1c72a3",
+    "f5a44b04acdf4fb3",
+    "541f3600ca5844b3",
+    "1e99092a9d69763f",
+    "484f6191a9c11956",
+    "2fa1db701fd240cf",
+    "dc95ca64ea80a35c",
+    "d89615adb680d5c3",
+    "565bacad0cbd92ed",
+    "78150b07d976e1ba",
+    "a54a379093735d5a",
+    "b4417f17bfde48ea",
+    "16868309fb9be4d1",
+    "2ad0ad7d442594eb",
+    "b0a7769cda2982e2",
+    "376d4e6f3c0ceba1",
+    "e099ac0c06f488e8",
+    "867f8b0d4442c30b",
+    "8cb624f2fd2b7576",
+    "0a436cb81be90d89",
+    "76ab398095371cc7",
+    "7b0e772d93499bd5",
+    "6230c15a7931726f"
+   ]
+  }
+ ],
+ "fragments": {
+  "717cb05d3dd64715": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de outubro de 2019\n\nque altera os anexos I, III, V e VI da Diretiva 2000/54/CE do Parlamento Europeu e do Conselho no que respeita a adaptações de carácter exclusivamente técnico\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2000/54/CE do Parlamento Europeu e do Conselho, de 18 de Setembro de 2000, relativa à proteção dos trabalhadores contra riscos ligados à exposição a agentes biológicos durante o trabalho [([^1])](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2019279PT.01005401-E0001), nomeadamente o artigo 19.º;\n\nConsiderando o seguinte:\n\n(1) O princípio 10 do Pilar Europeu dos Direitos Sociais [([^2])](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2019279PT.01005401-E0002), proclamado em Gotemburgo em 17 de novembro de 2017, estabelece que todos os trabalhadores têm direito a um ambiente de trabalho são, seguro e bem adaptado. O direito dos trabalhadores a um elevado nível de proteção da sua saúde e segurança no trabalho, assim como a um ambiente de trabalho que esteja adaptado às suas necessidades profissionais e lhes permita prolongar a sua participação no mercado de trabalho, inclui a proteção dos trabalhadores contra a exposição a agentes biológicos no trabalho.\n\n(2) A aplicação das diretivas relativas à saúde e segurança dos trabalhadores no trabalho, incluindo a Diretiva 2000/54/CE, foi objeto de uma avaliação *ex post* designada por «avaliação REFIT». A avaliação incidiu na pertinência das diretivas, na investigação e nos novos conhecimentos científicos nos diferentes domínios em questão. A avaliação REFIT, a que se refere o documento de trabalho dos serviços da Comissão [([^3])](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2019279PT.01005401-E0003), conclui, designadamente, que a lista de agentes biológicos classificados constante do anexo III da Diretiva 2000/54/CE tem de ser atualizada à luz da evolução científica e técnica, devendo ser reforçada a coerência com outras diretivas pertinentes.\n\n(3) Na comunicação «Condições de trabalho mais seguras e mais saudáveis para todos - Modernização da política e da legislação da UE em matéria de segurança e saúde no trabalho» [([^4])](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2019279PT.01005401-E0004), a Comissão reiterou que, embora a avaliação REFIT do acervo da UE em matéria de saúde e segurança no trabalho tenha confirmado que a legislação neste domínio é, de um modo geral, eficaz e adequada à sua finalidade, há margem para atualizar regras obsoletas e garantir uma melhor e mais ampla proteção, bem como um cumprimento e uma aplicação mais eficazes da legislação. A Comissão destaca a necessidade específica de atualizar a lista de agentes biológicos constante do anexo III da Diretiva 2000/54/CE.\n\n(4) A Diretiva 2000/54/CE estabelece disposições para proteger os trabalhadores contra os riscos para a sua saúde e segurança resultantes ou suscetíveis de resultar de uma exposição a agentes biológicos durante o trabalho, incluindo a prevenção desses riscos. A Diretiva 2000/54/CE aplica-se às atividades em que os trabalhadores estejam expostos ou possam estar expostos a agentes biológicos em consequência do seu trabalho e estabelece as medidas a tomar em relação a qualquer atividade suscetível de apresentar um risco de exposição a agentes biológicos para determinar a natureza, o grau e o tempo de exposição dos trabalhadores a esses agentes.\n\n(5) Uma vez que os resultados de uma avaliação de riscos podem demonstrar uma exposição involuntária a agentes biológicos, poderá haver outras atividades profissionais não incluídas no anexo I da Diretiva 2000/54/CE que devem também ser consideradas. Por conseguinte, a lista indicativa das atividades profissionais enunciadas no anexo I da Diretiva 2000/54/CE deve ser alterada de modo a incluir uma frase introdutória que esclareça o caráter não exaustivo da lista.\n\n(6) O anexo III da Diretiva 2000/54/CE estabelece a lista de agentes biológicos reconhecidamente infecciosos para os seres humanos, classificados de acordo com o seu nível de risco de infeção. De acordo com a nota introdutória 6 no mesmo anexo, a lista deve ser alterada de modo a ter em conta o estado dos conhecimentos mais recentes relativamente à evolução científica que induziu mudanças significativas desde a última atualização da lista, nomeadamente no que toca aos seguintes aspetos: taxonomia, nomenclatura, classificação e características dos agentes biológicos, bem como a existência de novos agentes biológicos.\n\n(7) Os anexos V e VI da Diretiva 2000/54/CE estabelecem as medidas e os níveis de confinamento para os laboratórios, as instalações para animais e a indústria. Os anexos V e VI devem ser alterados e reestruturados a fim de terem em conta as medidas de confinamento e outras medidas de proteção incluídas na Diretiva 2009/41/CE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2019279PT.01005401-E0005).\n\n(8) Na elaboração da presente atualização dos anexos I, III, V e VI da Diretiva 2000/54/CE, foi tida em conta a necessidade de manter os atuais níveis de proteção dos trabalhadores que estejam ou possam estar expostos a agentes biológicos em consequência do seu trabalho, e assegurar que as alterações só incidem em evoluções científicas neste domínio, implicando adaptações no local de trabalho de carácter exclusivamente técnico.\n\n(9) O Comité Consultivo para a Segurança e a Saúde no Local de Trabalho foi consultado sobre as medidas resultantes da adoção da Comunicação da Comissão «Condições de trabalho mais seguras e mais saudáveis para todos — Modernização da política e da legislação da UE em matéria de saúde e segurança no trabalho» que são necessárias para assegurar a eficácia e a adequação da legislação da União relativa à saúde e à segurança no trabalho.\n\n(10) No seu «Parecer sobre a modernização das seis diretivas relativas à segurança e saúde no trabalho por forma a garantir condições de trabalho mais seguras e mais saudáveis para todos» [([^6])](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2019279PT.01005401-E0006), adotado em 6 de dezembro de 2017, o Comité Consultivo para a Segurança e a Saúde no Local de Trabalho recomenda a alteração da Diretiva 2000/54/CE no intuito de reforçar a sua relevância e eficácia.\n\n(11) Num parecer subsequente sobre atualizações técnicas dos anexos da Diretiva Agentes Biológicos (2000/54/CE) [([^7])](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2019279PT.01005401-E0007), adotado em 31 de maio de 2018, o Comité Consultivo para a Segurança e a Saúde no Local de Trabalho recomenda atualizações específicas dos anexos I, III, V e VI que reflitam os últimos desenvolvimentos tecnológicos e científicos neste domínio.\n\n(12) Na elaboração da presente atualização dos anexos I, III, V e VI da Diretiva 2000/54/CE, a Comissão foi assistida por peritos representantes dos Estados-Membros que prestaram apoio técnico e científico.\n\n(13) Em conformidade com a Declaração Política Conjunta sobre os documentos explicativos [([^8])](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntr8-L_2019279PT.01005401-E0008), adotada pelos Estados-Membros e pela Comissão em 28 de setembro de 2011, os Estados-Membros assumiram o compromisso de fazer acompanhar a notificação das suas medidas de transposição, nos casos em que tal se justifique, de um ou mais documentos que expliquem a relação entre as componentes de uma diretiva e as partes correspondentes dos instrumentos nacionais de transposição.\n\n(14) As medidas previstas na presente diretiva estão em conformidade com o parecer do Comité instituído pelo artigo 17.º da Diretiva 89/391/CEE do Conselho [([^9])](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntr9-L_2019279PT.01005401-E0009),\n\nADOTOU A PRESENTE DIRETIVA:"
+  },
+  "9fad144227fbf732": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs anexos I, III, V e VI da Diretiva 2000/54/CE são substituídos pelo texto do anexo da presente diretiva."
+  },
+  "7a64c923015d3570": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva até 20 de novembro de 2021. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.\n\nAs disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades da referência são estabelecidas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "9109a091b79074a2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "0510ed34a9625a28": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente diretiva.\n\nFeito em Bruxelas, em 24 de outubro de 2019.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**Jean-Claude JUNCKER**\n\n---"
+  },
+  "d98bfa77cf69633b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2019279PT.01005401-E0001) [JO L 262 de 17.10.2000, p. 21](http://publications.europa.eu/resource/oj/JOL_2000_262_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2019279PT.01005401-E0002) Pilar Europeu dos Direitos Sociais, novembro de 2017, https://ec.europa.eu/commission/priorities/deeper-and-fairer-economic-and-monetary-union/european-pillar-social-rights_enhttps://ec.europa.eu/commission/priorities/deeper-and-fairer-economic-and-monetary-union/european-pillar-social-rights_pt\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2019279PT.01005401-E0003) SWD(2017) 10 final\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2019279PT.01005401-E0004) COM(2017) 12.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2019279PT.01005401-E0005) Diretiva 2009/41/CE do Parlamento Europeu e do Conselho, de 6 de maio de 2009, relativa à utilização confinada de microrganismos geneticamente modificados ([JO L 125 de 21.5.2009, p. 75](http://publications.europa.eu/resource/oj/JOL_2009_125_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2019279PT.01005401-E0006) Comité Consultivo para a Segurança e a Saúde no Local de Trabalho, Documento 1718/2017.\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2019279PT.01005401-E0007) Comité Consultivo para a Segurança e a Saúde no Local de Trabalho, Documento 434/18.\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntc8-L_2019279PT.01005401-E0008) [JO C 369 de 17.12.2011, p. 14](http://publications.europa.eu/resource/oj/JOC_2011_369_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018.03/DOC_1#ntc9-L_2019279PT.01005401-E0009) Diretiva 89/391/CEE do Conselho, de 12 de junho de 1989, relativa à aplicação de medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([JO L 183 de 29.6.1989, p. 1](http://publications.europa.eu/resource/oj/JOL_1989_183_R_TOC))."
+  },
+  "c7c68c83392c8f06": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de outubro de 2019\n\nque altera os anexos I, III, V e VI da Diretiva 2000/54/CE do Parlamento Europeu e do Conselho no que respeita a adaptações de carácter exclusivamente técnico"
+  },
+  "f51b11ffb8f06e4f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem pôr em vigor, até 20 de novembro de 2021, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Todavia, os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento às alterações dos anexos V e VI da Diretiva 2000/54/CE, na medida em que digam respeito ao agente biológico SARS-CoV-2, até 24 de novembro de 2020.\n\nOs Estados-Membros devem comunicar imediatamente à Comissão o texto das disposições referidas no primeiro parágrafo.\n\nAs disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros estabelecem o modo como deve ser feita a referência.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "2ff5c156fa40123c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente diretiva."
+  },
+  "f86475061a1c72a3": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n(1) O anexo I da Diretiva 2000/54/CE passa a ter a seguinte redação:"
+  },
+  "f5a44b04acdf4fb3": {
+   "fragment_id": "«ANEXO I",
+   "type": "divisao",
+   "heading": "«ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «ANEXO I"
+  },
+  "541f3600ca5844b3": {
+   "fragment_id": "LISTA INDICATIVA DE ATIVIDADES PROFISSIONAIS",
+   "type": "divisao",
+   "heading": "LISTA INDICATIVA DE ATIVIDADES PROFISSIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LISTA INDICATIVA DE ATIVIDADES PROFISSIONAIS"
+  },
+  "1e99092a9d69763f": {
+   "fragment_id": "(artigo 4.º, n.º 2)",
+   "type": "divisao",
+   "heading": "(artigo 4.º, n.º 2)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (artigo 4.º, n.º 2)"
+  },
+  "484f6191a9c11956": {
+   "fragment_id": "NOTA INTRODUTÓRIA",
+   "type": "divisao",
+   "heading": "NOTA INTRODUTÓRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### NOTA INTRODUTÓRIA\n\nNos casos em que os resultados da avaliação de riscos, efetuada em conformidade com o artigo 3.º e o artigo 4.º, n.º 2, da presente diretiva, demonstrarem uma exposição involuntária a agentes biológicos, é possível que haja outras atividades profissionais, não incluídas no presente anexo, que devem ser consideradas.\n\n1. Trabalho em unidades de produção alimentar.\n\n2. Trabalho agrícola.\n\n3. Atividades profissionais em que há contacto com animais e/ou produtos de origem animal.\n\n4. Trabalho em unidades sanitárias, incluindo unidades de isolamento e de autópsia.\n\n5. Trabalho em laboratórios clínicos, veterinários e de diagnóstico, excluindo laboratórios microbiológicos de diagnóstico.\n\n6. Trabalho em unidades de eliminação de detritos.\n\n7. Trabalho em instalações de tratamento de águas de esgoto.»\n\n(2) O anexo III da Diretiva 2000/54/CE passa a ter a seguinte redação:"
+  },
+  "2fa1db701fd240cf": {
+   "fragment_id": "«ANEXO III",
+   "type": "divisao",
+   "heading": "«ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «ANEXO III"
+  },
+  "dc95ca64ea80a35c": {
+   "fragment_id": "CLASSIFICAÇÃO COMUNITÁRIA",
+   "type": "divisao",
+   "heading": "CLASSIFICAÇÃO COMUNITÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CLASSIFICAÇÃO COMUNITÁRIA"
+  },
+  "d89615adb680d5c3": {
+   "fragment_id": "(artigo 2.º, segundo parágrafo, e artigo 18.º)",
+   "type": "divisao",
+   "heading": "(artigo 2.º, segundo parágrafo, e artigo 18.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (artigo 2.º, segundo parágrafo, e artigo 18.º)"
+  },
+  "565bacad0cbd92ed": {
+   "fragment_id": "NOTAS INTRODUTÓRIAS",
+   "type": "divisao",
+   "heading": "NOTAS INTRODUTÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### NOTAS INTRODUTÓRIAS\n\n1. De acordo com o âmbito de aplicação da diretiva, só devem ser incluídos na classificação os agentes reconhecidamente infecciosos para o ser humano.\n\n2. A classificação dos agentes biológicos baseia-se nos efeitos de tais agentes sobre trabalhadores saudáveis.\n\n3. Os agentes biológicos que não tenham sido incluídos nos grupos 2 a 4 da lista não pertencem implicitamente ao grupo 1.\n\n4. No caso de estirpes atenuadas ou que perderam genes reconhecidos de virulência, não tem que ser necessariamente aplicado o isolamento imposto pela classificação da estirpe-mãe, sob condição de uma adequada avaliação do risco no local de trabalho.\n\n5. A nomenclatura dos agentes utilizada na elaboração da presente classificação reflete e está em conformidade com os acordos internacionais mais recentes sobre a taxonomia e a nomenclatura dos agentes, em vigor aquando da sua preparação.\n\n6. A lista de agentes biológicos classificados reflete o estado dos conhecimentos no momento da sua elaboração.\n\n7. Os Estados-Membros asseguram que todos os vírus já isolados no ser humano e que ainda não tenham sido avaliados e classificados no anexo serão classificados no mínimo no grupo 2, exceto se os Estados-Membros tiverem a prova de que não são suscetíveis de provocar uma doença no ser humano.\n\n8. Determinados agentes biológicos classificados no grupo 3 e indicados na lista anexa por um duplo asterisco ^(**)^ podem apresentar um risco de infeção limitado para os trabalhadores, porque não são geralmente infecciosos por transmissão por via aérea.\n\n9. Os imperativos em matéria de isolamento decorrentes da classificação dos parasitas aplicam-se unicamente aos diferentes estádios do ciclo do parasita suscetíveis de serem infecciosos para o ser humano no local de trabalho.\n\n10. Por outro lado, a lista contém indicações em separado quando os agentes biológicos são suscetíveis de dar origem a reações alérgicas ou tóxicas, quando existe uma vacina eficaz ou quando se revele oportuno guardar durante mais de 10 anos a lista dos trabalhadores a eles expostos.\n\nA: Possíveis efeitos alérgicos\n\nD: Lista dos trabalhadores expostos a este agente biológico, a conservar durante mais de 10 anos após o final da sua última exposição conhecida\n\nT: Produção de toxinas\n\nV: Vacina eficaz disponível e registada na UE"
+  },
+  "78150b07d976e1ba": {
+   "fragment_id": "BACTÉRIAS",
+   "type": "divisao",
+   "heading": "BACTÉRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### BACTÉRIAS"
+  },
+  "a54a379093735d5a": {
+   "fragment_id": "e afins",
+   "type": "divisao",
+   "heading": "e afins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### e afins\n\n*Nota:* No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção “spp.” refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver nota introdutória 3 para mais pormenores.\n\n| Agente biológico | Classificação | Notas |\n| --- | --- | --- |\n| *Actinomadura madurae* | 2 |  |\n| *Actinomadura pelletieri* | 2 |  |\n| *Actinomyces gerencseriae* | 2 |  |\n| *Actinomyces israelii* | 2 |  |\n| *Actinomyces* spp. | 2 |  |\n| *Aggregatibacter actinomycetemcomitans (Actinobacillus actinomycetemcomitans)* | 2 |  |\n| *Anaplasma* spp. | 2 |  |\n| *Arcanobacterium haemolyticum (Corynebacterium haenolyticum)* | 2 |  |\n| *Arcobacter butzleri* | 2 |  |\n| *Bacillus anthracis* | 3 | T |\n| *Bacteroides fragilis* | 2 |  |\n| *Bacteroides* spp. | 2 |  |\n| *Bartonella bacilliformis* | 2 |  |\n| *Bartonella quintana (Rochalimaea quintana)* | 2 |  |\n| *Bartonella (Rochalimaea)* spp. | 2 |  |\n| *Bordetella bronchiseptica* | 2 |  |\n| *Bordetella parapertussis* | 2 |  |\n| *Bordetella pertussis* | 2 | T, V |\n| *Bordetella* spp. | 2 |  |\n| *Borrelia burgdorferi* | 2 |  |\n| *Borrelia duttonii* | 2 |  |\n| *Borrelia recurrentis* | 2 |  |\n| *Borrelia* spp. | 2 |  |\n| *Brachyspira* spp. | 2 |  |\n| *Brucella abortus* | 3 |  |\n| *Brucella canis* | 3 |  |\n| *Brucella inopinata* | 3 |  |\n| *Brucella melitensis* | 3 |  |\n| *Brucella suis* | 3 |  |\n| *Burkholderia cepacia* | 2 |  |\n| *Burkholderia mallei (Pseudomonas mallei)* | 3 |  |\n| *Burkholderia pseudomallei (Pseudomonas pseudomallei)* | 3 | D |\n| *Campylobacter fetus* subsp. *fetus* | 2 |  |\n| *Campylobacter fetus* subsp. *venerealis* | 2 |  |\n| *Campylobacter jejuni* subsp. *doylei* | 2 |  |\n| *Campylobacter jejuni* subsp. *jejuni* | 2 |  |\n| *Campylobacter* spp. | 2 |  |\n| *Cardiobacterium hominis* | 2 |  |\n| *Cardiobacterium valvarum* | 2 |  |\n| *Chlamydia abortus (Chlamydophila abortus)* | 2 |  |\n| *Chlamydia caviae (Chlamydophila caviae)* | 2 |  |\n| *Chlamydia felis (Chlamydophila felis)* | 2 |  |\n| *Chlamydia pneumoniae (Chlamydophila pneumoniae)* | 2 |  |\n| *Chlamydia psittaci (Chlamydophila psittaci)* (estirpes de aviário) | 3 |  |\n| *Chlamydia psittaci (Chlamydophila psittaci)* (outras estirpes) | 2 |  |\n| *Chlamydia trachomatis (Chlamydophila trachomatis)* | 2 |  |\n| *Clostridium botulinum* | 2 | T |\n| *Clostridium difficile* | 2 | T |\n| *Clostridium perfringens* | 2 | T |\n| *Clostridium tetani* | 2 | T, V |\n| *Clostridium* spp. | 2 |  |\n| *Corynebacterium diphtheriae* | 2 | T, V |\n| *Corynebacterium minutissimum* | 2 |  |\n| *Corynebacterium pseudotuberculosis* | 2 | T |\n| *Corynebacterium ulcerans* | 2 | T |\n| *Corynebacterium* spp. | 2 |  |\n| *Coxiella burnetii* | 3 |  |\n| *Edwardsiella tarda* | 2 |  |\n| *Ehrlichia* spp. | 2 |  |\n| *Eikenella corrodens* | 2 |  |\n| *Elizabethkingia meningoseptica (Flavobacterium meningosepticum)* | 2 |  |\n| *Enterobacter aerogenes (Klebsiella mobilis)* | 2 |  |\n| *Enterobacter cloacae* subsp. *cloacae (Enterobacter cloacae)* | 2 |  |\n| *Enterobacter* spp. | 2 |  |\n| *Enterococcus* spp. | 2 |  |\n| *Erysipelothrix rhusiopathiae* | 2 |  |\n| *Escherichia coli* (excluindo as estirpes não patogénicas) | 2 |  |\n| *Escherichia coli, verocytotoxigenic strains* (por exemplo O157:H7 ou O103) | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0001) | T |\n| *Fluoribacter bozemanae (Legionella)* | 2 |  |\n| *Francisella hispaniensis* | 2 |  |\n| *Francisella tularensis* subsp. *holarctica* | 2 |  |\n| *Francisella tularensis* subsp. *mediasiatica* | 2 |  |\n| *Francisella tularensis* subsp. *novicida* | 2 |  |\n| *Francisella tularensis* subsp. *tularensis* | 3 |  |\n| *Fusobacterium necrophorum* subsp. *funduliforme* | 2 |  |\n| *Fusobacterium necrophorum* subsp. *necrophorum* | 2 |  |\n| *Gardnerella vaginalis* | 2 |  |\n| *Haemophilus ducreyi* | 2 |  |\n| *Haemophilus influenzae* | 2 | V |\n| *Haemophilus* spp. | 2 |  |\n| *Helicobacter pylori* | 2 |  |\n| *Helicobacter* spp. | 2 |  |\n| *Klebsiella oxytoca* | 2 |  |\n| *Klebsiella pneumoniae* subsp. *ozaenae* | 2 |  |\n| *Klebsiella pneumoniae* subsp. *pneumoniae* | 2 |  |\n| *Klebsiella pneumoniae* subsp. *rhinoscleromatis* | 2 |  |\n| *Klebsiella* spp. | 2 |  |\n| *Legionella pneumophila* subsp. *fraseri* | 2 |  |\n| *Legionella pneumophila* subsp. *pascullei* | 2 |  |\n| *Legionella pneumophila* subsp. *pneumophila* | 2 |  |\n| *Legionella* spp. | 2 |  |\n| *Leptospira interrogans* (todos os serotipos) | 2 |  |\n| *Leptospira interrogans* spp. | 2 |  |\n| *Listeria monocytogenes* | 2 |  |\n| *Listeria ivanovii* subsp. *ivanovii* | 2 |  |\n| *Listeria invanovii* subsp. *londoniensis* | 2 |  |\n| *Morganella morganii* subsp. *morganii (Proteus morganii)* | 2 |  |\n| *Morganella morganii* subsp. *sibonii* | 2 |  |\n| *Mycobacterium abscessus* subsp. *abscessus* | 2 |  |\n| *Mycobacterium africanum* | 3 | V |\n| *Mycobacterium avium* subsp. *avium (Mycobacterium avium)* | 2 |  |\n| *Mycobacterium avium* subsp. *paratuberculosis (Mycobacterium paratuberculosis)* | 2 |  |\n| *Mycobacterium avium* subsp. *silvaticum* | 2 |  |\n| *Mycobacterium bovis* | 3 | V |\n| *Mycobacterium caprae (Mycobacterium tuberculosis* subsp. *caprae)* | 3 |  |\n| *Mycobacterium chelonae* | 2 |  |\n| *Mycobacterium chimaera* | 2 |  |\n| *Mycobacterium fortuitum* | 2 |  |\n| *Mycobacterium intracellulare* | 2 |  |\n| *Mycobacterium kansasii* | 2 |  |\n| *Mycobacterium leprae* | 3 |  |\n| *Mycobacterium malmoense* | 2 |  |\n| *Mycobacterium marinum* | 2 |  |\n| *Mycobacterium microti* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0001) |  |\n| *Mycobacterium pinnipedii* | 3 |  |\n| *Mycobacterium scrofulaceum* | 2 |  |\n| *Mycobacterium simiae* | 2 |  |\n| *Mycobacterium szulgai* | 2 |  |\n| *Mycobacterium tuberculosis* | 3 | V |\n| *Mycobacterium ulcerans* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0001) |  |\n| *Mycobacterium xenopi* | 2 |  |\n| *Mycoplasma hominis* | 2 |  |\n| *Mycoplasma pneumoniae* | 2 |  |\n| *Mycoplasma* spp. | 2 |  |\n| *Neisseria gonorrhoeae* | 2 |  |\n| *Neisseria meningitidis* | 2 | V |\n| *Neorickettsia sennetsu (Rickettsia sennetsu, Ehrlichia sennetsu)* | 2 |  |\n| *Nocardia asteroides* | 2 |  |\n| *Nocardia brasiliensis* | 2 |  |\n| *Nocardia farcinica* | 2 |  |\n| *Nocardia nova* | 2 |  |\n| *Nocardia otitidiscaviarum* | 2 |  |\n| *Nocardia* spp. | 2 |  |\n| *Orientia tsutsugamushi (Rickettsia tsutsugamushi)* | 3 |  |\n| *Pasteurella multocida* subsp. *gallicida (Pasteurella gallicida)* | 2 |  |\n| *Pasteurella multocida* subsp. *multocida* | 2 |  |\n| *Pasteurella multocida* subsp. *septica* | 2 |  |\n| *Pasteurella* spp. | 2 |  |\n| *Peptostreptococcus anaerobius* | 2 |  |\n| *Plesiomonas shigelloides* | 2 |  |\n| *Porphyromonas* spp. | 2 |  |\n| *Prevotella* spp. | 2 |  |\n| *Proteus mirabilis* | 2 |  |\n| *Proteus penneri* | 2 |  |\n| *Proteus vulgaris* | 2 |  |\n| *Providencia alcalifaciens (Proteus inconstans)* | 2 |  |\n| *Providencia rettgeri (Proteus rettgeri)* | 2 |  |\n| *Providencia* spp. | 2 |  |\n| *Pseudomonas aeruginosa* | 2 | T |\n| *Rhodococcus hoagii (Corynebacterium equii)* | 2 |  |\n| *Rickettsia africae* | 3 |  |\n| *Rickettsia akari* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0001) |  |\n| *Rickettsia australis* | 3 |  |\n| *Rickettsia canadensis* | 2 |  |\n| *Rickettsia conorii* | 3 |  |\n| *Rickettsia heilongjiangensis* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0001) |  |\n| *Rickettsia japonica* | 3 |  |\n| *Rickettsia montanensis* | 2 |  |\n| *Rickettsia typhi* | 3 |  |\n| *Rickettsia prowazekii* | 3 |  |\n| *Rickettsia rickettsii* | 3 |  |\n| *Rickettsia sibirica* | 3 |  |\n| *Rickettsia* spp. | 2 |  |\n| *Salmonella enterica (choleraesuis)* subsp. *arizonae* | 2 |  |\n| *Salmonella Enteritidis* | 2 |  |\n| *Salmonella Paratyphi A, B, C* | 2 | V |\n| *Salmonella Typhi* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0001) | V |\n| *Salmonella Typhimurium* | 2 |  |\n| *Salmonella* (outros serotipos) | 2 |  |\n| *Shigella boydii* | 2 |  |\n| *Shigella dysenteriae* (tipo 1) | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0001) | T |\n| *Shigella dysenteriae,* com exceção do tipo 1 | 2 |  |\n| *Shigella flexneri* | 2 |  |\n| *Shigella sonnei* | 2 |  |\n| *Staphylococcus aureus* | 2 | T |\n| *Streptobacillus moniliformis* | 2 |  |\n| *Streptococcus agalactiae* | 2 |  |\n| *Streptococcus dysgalactiae* subsp. *equisimilis* | 2 |  |\n| *Streptococcus pneumoniae* | 2 | T, V |\n| *Streptococcus pyogenes* | 2 | T |\n| *Streptococcus suis* | 2 |  |\n| *Streptococcus* spp. | 2 |  |\n| *Treponema carateum* | 2 |  |\n| *Treponema pallidum* | 2 |  |\n| *Treponema pertenue* | 2 |  |\n| *Treponema* spp. | 2 |  |\n| *Trueperella pyogenes* | 2 |  |\n| *Ureaplasma parvum* | 2 |  |\n| *Ureaplasma urealyticum* | 2 |  |\n| *Vibrio cholerae* (incluindo El Tor) | 2 | T, V |\n| *Vibrio parahaemolyticus (Benecka parahaemolytica)* | 2 |  |\n| *Vibrio* spp. | 2 |  |\n| *Yersinia enterocolitica* subsp. *enterolitica* | 2 |  |\n| *Yersinia enterocolitica* subsp. *palearctica* | 2 |  |\n| *Yersinia pestis* | 3 |  |\n| *Yersinia pseudotuberculosis* | 2 |  |\n| *Yersinia* spp. | 2 |  |\n| (^*1^)Ver nota introdutória n.º 8. |  |  |"
+  },
+  "b4417f17bfde48ea": {
+   "fragment_id": "VÍRUS ()",
+   "type": "divisao",
+   "heading": "VÍRUS ()",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### VÍRUS ()\n\n(*) Ver nota introdutória n.º 7.\n\n*Nota*: Os vírus foram listados em função da sua ordem (O), da sua família (F) e do seu género (G).\n\n| Agente biológico (espécie de vírus ou ordem da taxonomia indicada) | Classificação | Notas |\n| --- | --- | --- |\n| *Bunyavirales* (O) |  |  |\n| *Hantaviridae* (F) |  |  |\n| Ortohantavírus (G) |  |  |\n| Ortohantavírus dos Andes (espécie de hantavírus que causa síndrome pulmonar por hantavírus [HPS]) | 3 |  |\n| Ortohantavírus Bayou | 3 |  |\n| Ortohantavírus Black Creek Canal | 3 |  |\n| Ortohantavírus Cano Delgadito | 3 |  |\n| Ortohantavírus Choclo | 3 |  |\n| Ortohantavírus Dobrava-Belgrado (espécie de hantavírus que causa febre hemorrágica com síndrome renal [HFRS]) | 3 |  |\n| Ortohantavírus El Moro Canyon | 3 |  |\n| Ortohantavírus Hantaan (espécie de hantavírus que causa febre hemorrágica com síndrome renal [HFRS]) | 3 |  |\n| Ortohantavírus Laguna Negra | 3 |  |\n| Ortohantavírus Prospect Hill | 2 |  |\n| Ortohantavírus Puumala (espécie de hantavírus que causa nefropatia epidémica [NE]) | 2 |  |\n| Ortohantavírus Seul (espécie de hantavírus que causa febre hemorrágica com síndrome renal [HFRS]) | 3 |  |\n| Ortohantavírus Sin Nombre (espécie de hantavírus que causa síndrome pulmonar por hantavírus [HPS]) | 3 |  |\n| Outros hantavírus reconhecidamente patogénicos | 2 |  |\n| *Nairoviridae* (F) |  |  |\n| Ortonairovírus (G) |  |  |\n| Ortonairovírus da febre hemorrágica da Crimeia/Congo | 4 |  |\n| Ortonairovírus Dugbe | 2 |  |\n| Ortonairovírus Hazara | 2 |  |\n| Ortonairovírus da doença dos ovinos de Nairóbi | 2 |  |\n| Outros nairovírus reconhecidamente patogénicos | 2 |  |\n| *Peribunyaviridae* (F) |  |  |\n| Ortobuniavírus (G) |  |  |\n| Ortobuniavírus Bunyamwera (vírus Germiston) | 2 |  |\n| Ortobuniavírus da encefalite da Califórnia | 2 |  |\n| Ortobuniavírus Oropouche | 3 |  |\n| Outros ortobuniavírus reconhecidamente patogénicos | 2 |  |\n| *Phenuiviridae* (F) |  |  |\n| Flebovírus (G) |  |  |\n| Flebovírus Bhanja | 2 |  |\n| Flebovírus Punta Toro | 2 |  |\n| Flebovírus da febre do vale do Rift | 3 |  |\n| Flebovírus Nápoles da febre papatasi (vírus Toscana) | 2 |  |\n| Flebovírus SFTS (vírus da síndrome de febre grave com trombocitopenia) | 3 |  |\n| Outros flebovírus reconhecidamente patogénicos | 2 |  |\n| *Herpesvirales* (O) |  |  |\n| *Herpesviridae* (F) |  |  |\n| Citomegalovírus (G) |  |  |\n| Betaherpesvírus humano 5 (Citomegalovírus) | 2 |  |\n| Linfocriptovírus (G) |  |  |\n| Gamaherpesvírus humano 4 (vírus de Epstein-Barr) | 2 |  |\n| Radinovírus (G) |  |  |\n| Gamaherpesvírus humano 8 | 2 | D |\n| Roseolovírus (G) |  |  |\n| Betaherpesvírus humano 6A (vírus linfotrópico humano B) | 2 |  |\n| Betaherpesvírus humano 6B | 2 |  |\n| Betaherpesvírus humano 7 | 2 |  |\n| Simplexvírus (G) |  |  |\n| Alfaherpesvírus Macacine 1 (herpesvírus simiae, vírus herpes B) | 3 |  |\n| Alfaherpesvírus humano 1 (herpesvírus humano 1, vírus herpes simplex tipo 1) | 2 |  |\n| Alfaherpesvírus humano 2 (herpesvírus humano 2, vírus herpes simplex tipo 2) | 2 |  |\n| Varicelovírus (G) |  |  |\n| Alfaherpesvírus humano 3 (herpesvírus varicela-zóster) | 2 | V |\n| *Mononegavirales* (O) |  |  |\n| *Filoviridae* (F) |  |  |\n| Vírus Ébola (G) | 4 |  |\n| Vírus Marburgo (G) |  |  |\n| Vírus Marburgo | 4 |  |\n| *Paramyxoviridae* (F) |  |  |\n| Avulavírus (G) |  |  |\n| Vírus da doença de Newcastle | 2 |  |\n| Henipavírus (G) |  |  |\n| Henipavírus Hendra | 4 |  |\n| Henipavírus Nipah | 4 |  |\n| Morbilivírus (G) |  |  |\n| Morbilivírus do sarampo | 2 | V |\n| Respirovírus (G) |  |  |\n| Respirovírus humano 1 (vírus da parainfluenza tipo 1) | 2 |  |\n| Respirovírus humano 3 (vírus da parainfluenza tipo 3) | 2 |  |\n| Rubulavírus (G) |  |  |\n| Rubulavírus da papeira | 2 | V |\n| Rubulavírus humano 2 (vírus da parainfluenza tipo 2) | 2 |  |\n| Rubulavírus humano 4 (vírus da parainfluenza tipo 4) | 2 |  |\n| *Pneumoviridae* (F) |  |  |\n| Metapneumovírus (G) |  |  |\n| Ortopneumovírus (G) |  |  |\n| Ortopneumovírus humano (vírus sincicial respiratório) | 2 |  |\n| *Rhabdoviridae* (F) |  |  |\n| Lissavírus (G) |  |  |\n| Lissavírus do morcego australiano | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | V |\n| Lissavírus Duvenhage | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | V |\n| Lissavírus do morcego europeu 1 | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | V |\n| Lissavírus do morcego europeu 2 | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | V |\n| Lissavírus do morcego de Lagos | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) |  |\n| Lissavírus Mokola | 3 |  |\n| Lissavírus da raiva | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | V |\n| Vesiculovírus (G) |  |  |\n| Vírus da estomatite vesicular, vesiculovírus Alagoas | 2 |  |\n| Vírus da estomatite vesicular, vesiculovírus Indiana | 2 |  |\n| Vírus da estomatite vesicular, vesiculovírus New Jersey | 2 |  |\n| Lissavírus Piry (vírus Piry) | 2 |  |\n| *Nidovirales* (O) |  |  |\n| *Coronaviridae* (F) |  |  |\n| Betacoronavírus (G) |  |  |\n| Coronavírus relacionado com a síndrome respiratória aguda grave (vírus SRAG) | 3 |  |\n| Coronavírus da síndrome respiratória do Médio Oriente (vírus MERS) | 3 |  |\n| Outros *Coronaviridae* reconhecidamente patogénicos | 2 |  |\n| *Picornavirales* (O) |  |  |\n| *Picornaviridae* (F) |  |  |\n| Cardiovírus (G) |  |  |\n| Vírus Saffold | 2 |  |\n| Cosavírus (G) |  |  |\n| Cosavírus A | 2 |  |\n| Enterovírus (G) |  |  |\n| Enterovírus A | 2 |  |\n| Enterovírus B | 2 |  |\n| Enterovírus C | 2 |  |\n| Enterovírus D, enterovírus humano tipo 70 (vírus da conjuntivite hemorrágica aguda) | 2 |  |\n| Rinovírus | 2 |  |\n| Poliovírus, tipos 1 e 3 | 2 | V |\n| Poliovírus, tipo 2 [(^1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0003) | 3 | V |\n| Hepatovírus (G) |  |  |\n| Hepatovírus A (vírus da hepatite A, enterovírus humano tipo 72) | 2 | V |\n| Kobuvírus (G) |  |  |\n| Aichivírus A (aichivírus 1) | 2 |  |\n| Parechovírus (G) |  |  |\n| Parechovírus A | 2 |  |\n| Parechovírus B (vírus Ljungan) | 2 |  |\n| Outros *Picornaviridae* reconhecidamente patogénicos | 2 |  |\n| Não atribuída (O) |  |  |\n| *Adenoviridae* (F) | 2 |  |\n| *Astroviridae* (F) | 2 |  |\n| *Arenaviridae* (F) |  |  |\n| Mamarenavírus (G) |  |  |\n| Mamarenavírus brasileiro | 4 |  |\n| Mamarenavírus Chapare | 4 |  |\n| Mamarenavírus Flexal | 3 |  |\n| Mamarenavírus Guanarito | 4 |  |\n| Mamarenavírus Junín | 4 |  |\n| Mamarenavírus Lassa | 4 |  |\n| Mamarenavírus Lujo | 4 |  |\n| Mamarenavírus da coriomeningite linfocitária, estirpes neurotrópicas | 2 |  |\n| Mamarenavírus da coriomeningite linfocitária, outras estirpes | 2 |  |\n| Mamarenavírus Machupo | 4 |  |\n| Mamarenavírus Mobala | 2 |  |\n| Mamarenavírus Mopeia | 2 |  |\n| Mamarenavírus Tacaribe | 2 |  |\n| Mamarenavírus Whitewater Arroyo | 3 |  |\n| *Caliciviridae* (F) |  |  |\n| Norovírus (G) |  |  |\n| Norovírus (vírus de Norwalk) | 2 |  |\n| Outros *Caliciviridae* reconhecidamente patogénicos | 2 |  |\n| *Hepadnaviridae* (F) |  |  |\n| Ortohepadnavírus (G) |  |  |\n| Vírus da hepatite B | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | V, D |\n| *Hepeviridae* (F) |  |  |\n| Ortohepevírus (G) |  |  |\n| Ortohepevírus A (vírus da hepatite E) | 2 |  |\n| *Flaviviridae* (F) |  |  |\n| Flavivírus (G) |  |  |\n| Vírus Dengue | 3 |  |\n| Vírus da encefalite japonesa | 3 | V |\n| Vírus da doença da floresta de Kyasanur | 3 | V |\n| Vírus da encefalomielite ovina (*louping ill*) | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) |  |\n| Vírus da encefalite Murray Valley (vírus da encefalite da Austrália) | 3 |  |\n| Vírus da febre hemorrágica de Omsk | 3 |  |\n| Vírus Powassan | 3 |  |\n| Vírus Rocio | 3 |  |\n| Vírus da encefalite St. Louis | 3 |  |\n| Vírus da encefalite transmitida por carraças |  |  |\n| Vírus Absettarov | 3 |  |\n| Vírus Hanzalova | 3 |  |\n| Vírus Hypr | 3 |  |\n| Vírus Kumlinge | 3 |  |\n| Vírus Negishi | 3 |  |\n| Vírus da encefalite verno-estival da Rússia [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0005) | 3 | V |\n| Vírus da encefalite transmitida por carraças (subtipo da Europa Central) | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | V |\n| Vírus da encefalite transmitida por carraças (subtipo do Extremo Oriente) | 3 |  |\n| Vírus da encefalite transmitida por carraças (subtipo da Sibéria) | 3 | V |\n| Vírus Wesselsbron | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) |  |\n| Vírus do Vale do Nilo | 3 |  |\n| Vírus da febre amarela | 3 | V |\n| Vírus Zika | 2 |  |\n| Outros flavivírus reconhecidamente patogénicos | 2 |  |\n| Hepacivírus (G) |  |  |\n| Hepacivírus C (vírus da hepatite C) | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | D |\n| *Orthomyxoviridae* (F) |  |  |\n| Gamainfluenzavírus (G) |  |  |\n| Vírus da gripe C | 2 | V [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0007) |\n| Vírus da gripe A (G) |  |  |\n| Vírus da gripe aviária de alta patogenicidade HPAIV (H5), p. ex. H5N1 | 3 |  |\n| Vírus da gripe aviária de alta patogenicidade HPAIV (H7), p. ex. H7N7 e H7N9 | 3 |  |\n| Vírus da gripe A | 2 | V [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0007) |\n| Vírus A da gripe A/Nova Iorque/1/18 (H1N1) (gripe espanhola 1918) | 3 |  |\n| Vírus A da gripe A/Singapura/1/57 (H2N2) | 3 |  |\n| Vírus da gripe aviária de baixa patogenicidade (GABP) H7N9 | 3 |  |\n| Vírus da gripe B (G) |  |  |\n| Vírus da gripe B | 2 | V [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0007) |\n| Vírus Thogoto (G) |  |  |\n| Vírus Dhori (*orthomyxoviridae* transmitido por carraças: Dhori) | 2 |  |\n| Vírus Thogoto (*orthomyxoviridae* transmitido por carraças: Thogoto) | 2 |  |\n| *Papillomaviridae* (F) | 2 | D [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0008) |\n| *Parvoviridae* (F) |  |  |\n| Eritroparvovírus (G) |  |  |\n| Eritroparvovírus de primatas 1 (parvovírus humano, vírus B 19) | 2 |  |\n| *Polyomaviridae* (F) |  |  |\n| Betapoliomavírus (G) |  |  |\n| Betapoliomavírus humano 1 (vírus BK) | 2 | D [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0008) |\n| Poliomavírus humano 2 (vírus JC) | 2 | D [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0008) |\n| *Poxviridae* (F) |  |  |\n| Moluscipoxvírus (G) |  |  |\n| Vírus do molusco contagioso | 2 |  |\n| Ortopoxvírus (G) |  |  |\n| Vírus da varíola bovina | 2 |  |\n| Vírus da varíola do macaco | 3 | V |\n| Vírus Vaccinia [incluindo vírus da varíola do búfalo [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0009), vírus da varíola do elefante [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0010), vírus da varíola do coelho [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0011)] | 2 |  |\n| Vírus da varíola (*major & minor*) | 4 | V |\n| Parapoxvírus (G) |  |  |\n| Vírus Orf | 2 |  |\n| Vírus da pseudo varíola bovina (vírus dos nódulos dos tratadores de vacas, parapoxvírus bovis) | 2 |  |\n| Yatapoxvírus (G) |  |  |\n| Vírus Tanapox | 2 |  |\n| Vírus do tumor do macaco de Yaba | 2 |  |\n| *Reoviridae* (F) |  |  |\n| Seadornavírus (G) |  |  |\n| Vírus Banna | 2 |  |\n| Coltivírus (G) | 2 |  |\n| Rotavírus (G) | 2 |  |\n| Orbivírus (G) | 2 |  |\n| *Retroviridae* (F) |  |  |\n| Deltaretrovírus (G) |  |  |\n| Vírus linfotrópico-T de primatas 1 (vírus linfotrópico de células T humanas, tipo 1) | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | D |\n| Vírus linfotrópico-T de primatas 2 (vírus linfotrópico de células T humanas, tipo 2) | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | D |\n| Lentivírus (G) |  |  |\n| Vírus da imunodeficiência humana tipo 1 | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | D |\n| Vírus da imunodeficiência humana tipo 2 | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) | D |\n| Vírus da imunodeficiência símia (SIV) [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0012) | 2 |  |\n| *Togaviridae* (F) |  |  |\n| Alfavírus (G) |  |  |\n| Cabassouvírus | 3 |  |\n| Vírus da encefalomielite equina do Leste | 3 | V |\n| Vírus Bebaru | 2 |  |\n| Vírus Chikungunya | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) |  |\n| Vírus Everglades | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) |  |\n| Vírus Mayaro | 3 |  |\n| Vírus Mucambo | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) |  |\n| Vírus Ndumu | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) |  |\n| Vírus O’nyong-nyong | 2 |  |\n| Vírus Ross River | 2 |  |\n| Vírus da floresta de Semliki | 2 |  |\n| Vírus Sindbis | 2 |  |\n| Vírus Tonate | 3 [(^*2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0004) |  |\n| Vírus da encefalomielite equina da Venezuela | 3 | V |\n| Vírus da encefalomielite equina do Oeste | 3 | V |\n| Outros alfavírus reconhecidamente patogénicos | 2 |  |\n| Rubivírus (G) |  |  |\n| Vírus da rubéola | 2 | V |\n| Não atribuída (F) |  |  |\n| Deltavírus (G) |  |  |\n| Vírus da hepatite delta [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0006) | 2 | V, D |\n| (^*1^)Ver nota introdutória n.º 7. (^1^)Classificação de acordo com o Plano de Ação Mundial da OMS para minimizar os riscos de poliovírus associados à instalação, após erradicação de tipos específicos de poliovírus selvagens e cessação sequencial da utilização da vacina oral contra a poliomielite. (^*2^)Ver nota introdutória n.º 8. (^2^)Encefalite transmitida por carraças. (^3^)O vírus da hepatite delta só é patogénico para os trabalhadores na presença de uma infeção simultânea ou secundária provocada pelo vírus da hepatite B. A vacinação contra o vírus da hepatite B protegerá, por conseguinte, os trabalhadores não afetados pelo vírus da hepatite B contra os vírus da hepatite delta. (^4^)Unicamente no que respeita aos tipos A e B. (^5^)Para os trabalhos que impliquem um contacto direto com estes agentes. (^6^)Nesta rubrica podem ser identificados dois vírus: um tipo de vírus da varíola de búfalo e uma variante do vírus Vaccinia. (^7^)Variante do vírus da varíola bovina. (^8^)Variante de Vaccinia. (^9^)Não existe atualmente nenhuma prova de doença em seres humanos provocada por outros retrovírus de origem símia. Como precaução, recomenda-se um confinamento de nível 3 para os trabalhos com tais retrovírus. |  |  |"
+  },
+  "16868309fb9be4d1": {
+   "fragment_id": "AGENTES DE DOENÇAS PRIÓNICAS",
+   "type": "divisao",
+   "heading": "AGENTES DE DOENÇAS PRIÓNICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AGENTES DE DOENÇAS PRIÓNICAS\n\n| Agente biológico | Classificação | Notas |\n| --- | --- | --- |\n| Agente da doença de Creutzfeldt-Jakob | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0013) | D [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0014) |\n| Variante da doença de Creutzfeldt-Jakob | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0013) | D [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0014) |\n| Agente da encefalopatia espongiforme bovina (BSE) e outras EET animais conexas | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0013) | D [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0014) |\n| Agente da síndrome de Gerstmann-Sträussler-Scheinker | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0013) | D [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0014) |\n| Agente de Kuru | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0013) | D [()](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0014) |\n| Agente do tremor epizoótico dos ovinos (*scrapie*) | 2 |  |\n| (^*1^)Ver nota introdutória n.º 8. (^1^)Para os trabalhos que impliquem um contacto direto com estes agentes. |  |  |"
+  },
+  "2ad0ad7d442594eb": {
+   "fragment_id": "PARASITAS",
+   "type": "divisao",
+   "heading": "PARASITAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARASITAS\n\n*Nota:* No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção “spp.” refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver nota introdutória 3 para mais pormenores.\n\n| Agente biológico | Classificação | Notas |\n| --- | --- | --- |\n| *Acanthamoeba castellani* | 2 |  |\n| *Ancylostoma duodenale* | 2 |  |\n| *Angiostrongylus cantonensis* | 2 |  |\n| *Angiostrongylus costaricensis* | 2 |  |\n| *Anisakis simplex* | 2 | A |\n| *Ascaris lumbricoides* | 2 | A |\n| *Ascaris suum* | 2 | A |\n| *Babesia divergens* | 2 |  |\n| *Babesia microti* | 2 |  |\n| *Balamuthia mandrillaris* | 3 |  |\n| *Balantidium coli* | 2 |  |\n| *Brugia malayi* | 2 |  |\n| *Brugia pahangi* | 2 |  |\n| *Brugia timori* | 2 |  |\n| *Capillaria philippinensis* | 2 |  |\n| *Capillaria* spp. | 2 |  |\n| *Clonorchis sinensis (Opisthorchis sinensis)* | 2 |  |\n| *Clonorchis viverrini (Opisthirchis viverrini)* | 2 |  |\n| *Cryptosporidium hominis* | 2 |  |\n| *Cryptosporidium parvum* | 2 |  |\n| *Cyclospora cayetanensis* | 2 |  |\n| *Dicrocoelium dentriticum* | 2 |  |\n| *Dipetalonema streptocerca* | 2 |  |\n| *Diphyllobothrium latum* | 2 |  |\n| *Dracunculus medinensis* | 2 |  |\n| *Echinococcus granulosus* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Echinococcus multilocularis* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Echinococcus oligarthrus* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Echinococcus vogeli* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Entamoeba histolytica* | 2 |  |\n| *Enterobius vermicularis* | 2 |  |\n| *Enterocytozoon bieneusi* | 2 |  |\n| *Fasciola gigantica* | 2 |  |\n| *Fasciola hepatica* | 2 |  |\n| *Fasciolopsis buski* | 2 |  |\n| *Giardia lamblia (Giardia duodenalis, Giardia intestinalis)* | 2 |  |\n| *Heterophyes* spp. | 2 |  |\n| *Hymenolepis diminuta* | 2 |  |\n| *Hymenolepis nana* | 2 |  |\n| *Leishmania aethiopica* | 2 |  |\n| *Leishmania braziliensis* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Leishmania donovani* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Leishmania guyanensis (Viannia guyanensis)* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Leishmania infantum (Leishmania chagasi)* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Leishmania major* | 2 |  |\n| *Leishmania mexicana* | 2 |  |\n| *Leishmania panamensis (Viannia panamensis)* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Leishmania peruviana* | 2 |  |\n| *Leishmania tropica* | 2 |  |\n| *Leishmania* spp. | 2 |  |\n| *Loa loa* | 2 |  |\n| *Mansonella ozzardi* | 2 |  |\n| *Mansonella perstans* | 2 |  |\n| *Mansonella streptocerca* | 2 |  |\n| *Metagonimus* spp. | 2 |  |\n| *Naegleria fowleri* | 3 |  |\n| *Necator americanus* | 2 |  |\n| *Onchocerca volvulus* | 2 |  |\n| *Opisthorchis felineus* | 2 |  |\n| *Opisthorchis* spp. | 2 |  |\n| *Paragonimus westermani* | 2 |  |\n| *Paragonimus* spp. | 2 |  |\n| *Plasmodium falciparum* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Plasmodium knowlesi* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Plasmodium* spp. (humano e símio) | 2 |  |\n| *Sarcocystis suihominis* | 2 |  |\n| *Schistosoma haematobium* | 2 |  |\n| *Schistosoma intercalatum* | 2 |  |\n| *Schistosoma japonicum* | 2 |  |\n| *Schistosoma mansoni* | 2 |  |\n| *Schistosoma mekongi* | 2 |  |\n| *Strongyloides stercoralis* | 2 |  |\n| *Strongyloides* spp. | 2 |  |\n| *Taenia saginata* | 2 |  |\n| *Taenia solium* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Toxocara canis* | 2 |  |\n| *Toxocara cati* | 2 |  |\n| *Toxoplasma gondii* | 2 |  |\n| *Trichinella nativa* | 2 |  |\n| *Trichinella nelsoni* | 2 |  |\n| *Trichinella pseudospiralis* | 2 |  |\n| *Trichinella spiralis* | 2 |  |\n| *Trichomonas vaginalis* | 2 |  |\n| *Trichostrongylus orientalis* | 2 |  |\n| *Trichostrongylus* spp. | 2 |  |\n| *Trichuris trichiura* | 2 |  |\n| *Trypanosoma brucei brucei* | 2 |  |\n| *Trypanosoma brucei gambiense* | 2 |  |\n| *Trypanosoma brucei rhodesiense* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Trypanosoma cruzi* | 3 [(^*1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0015) |  |\n| *Wuchereria bancrofti* | 2 |  |\n| (^*1^)Ver nota introdutória n.º 8. |  |  |"
+  },
+  "b0a7769cda2982e2": {
+   "fragment_id": "FUNGOS",
+   "type": "divisao",
+   "heading": "FUNGOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FUNGOS\n\n*Nota:* No que se refere aos agentes biológicos constantes da presente lista, a entrada da totalidade do género com a menção “spp.” refere-se às outras espécies que pertencem a esse género que não foram especificamente incluídas na lista, mas que são conhecidas por serem patogénicas para o homem. Ver nota introdutória 3 para mais pormenores.\n\n| Agente biológico | Classificação | Notas |\n| --- | --- | --- |\n| *Aspergillus flavus* | 2 | A |\n| *Aspergillus fumigatus* | 2 | A |\n| *Aspergillus* spp. | 2 |  |\n| *Blastomyces dermatitidis (Ajellomyces dermatitidis)* | 3 |  |\n| *Blastomyces gilchristii* | 3 |  |\n| *Candida albicans* | 2 | A |\n| *Candida dubliniensis* | 2 |  |\n| *Candida glabrata* | 2 |  |\n| *Candida parapsilosis* | 2 |  |\n| *Candida tropicalis* | 2 |  |\n| *Cladophialophora bantiana (Xylohypha bantiana, Cladosporium bantianum,* *trichoides)* | 3 |  |\n| *Cladophialophora modesta* | 3 |  |\n| *Cladophialophora* spp. | 2 |  |\n| *Coccidioides immitis* | 3 | A |\n| *Coccidioides posadasii* | 3 | A |\n| *Cryptococcus gattii (Filobasidiella neoformans var. bacillispora)* | 2 | A |\n| *Cryptococcus neoformans (Filobasidiella neoformans var. neoformans)* | 2 | A |\n| *Emmonsia parva* var*. parva* | 2 |  |\n| *Emmonsia parva* var*. crescens* | 2 |  |\n| *Epidermophyton floccosum* | 2 | A |\n| *Epidermophyton* spp. | 2 |  |\n| *Fonsecaea pedrosoi* | 2 |  |\n| *Histoplasma capsulatum* | 3 |  |\n| *Histoplasma capsulatum var. farciminosum* | 3 |  |\n| *Histoplasma duboisii* | 3 |  |\n| *Madurella grisea* | 2 |  |\n| *Madurella mycetomatis* | 2 |  |\n| *Microsporum* spp. | 2 | A |\n| *Nannizzia* spp. | 2 |  |\n| *Neotestudina rosatii* | 2 |  |\n| *Paracoccidioides brasiliensis* | 3 | A |\n| *Paracoccidioides lutzii* | 3 |  |\n| *Paraphyton* spp. | 2 |  |\n| *Rhinocladiella mackenziei* | 3 |  |\n| *Scedosporium apiospermum* | 2 |  |\n| *Scedosporium prolificans (inflatum)* | 2 |  |\n| *Sporothrix schenckii* | 2 |  |\n| *Talaromyces marneffei (Penicillium marneffei)* | 2 | A |\n| *Trichophyton rubrum* | 2 | A |\n| *Trichophyton tonsurans* | 2 | A |\n| *Trichophyton* spp. | 2» |  |\n\n(3) O anexo V da Diretiva 2000/54/CE passa a ter a seguinte redação:"
+  },
+  "376d4e6f3c0ceba1": {
+   "fragment_id": "«ANEXO V",
+   "type": "divisao",
+   "heading": "«ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «ANEXO V"
+  },
+  "e099ac0c06f488e8": {
+   "fragment_id": "RECOMENDAÇÕES RELATIVAS ÀS MEDIDAS E AOS NÍVEIS DE CONFINAMENTO",
+   "type": "divisao",
+   "heading": "RECOMENDAÇÕES RELATIVAS ÀS MEDIDAS E AOS NÍVEIS DE CONFINAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECOMENDAÇÕES RELATIVAS ÀS MEDIDAS E AOS NÍVEIS DE CONFINAMENTO"
+  },
+  "867f8b0d4442c30b": {
+   "fragment_id": "[artigo 15.º, n.º 3, e artigo 16.º, n.º 1, alíneas a) e b)]",
+   "type": "divisao",
+   "heading": "[artigo 15.º, n.º 3, e artigo 16.º, n.º 1, alíneas a) e b)]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [artigo 15.º, n.º 3, e artigo 16.º, n.º 1, alíneas a) e b)]"
+  },
+  "8cb624f2fd2b7576": {
+   "fragment_id": "NOTA INTRODUTÓRIA",
+   "type": "divisao",
+   "heading": "NOTA INTRODUTÓRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### NOTA INTRODUTÓRIA\n\nAs medidas referidas neste anexo devem ser aplicadas de acordo com a natureza das atividades, avaliação do risco para os trabalhadores e natureza do agente biológico em questão.\n\nNo quadro, a menção “Recomendado” significa que as medidas devem, em princípio, ser aplicadas, a não ser que os resultados da avaliação referida no artigo 3.º, n.º 2, indiquem o contrário.\n\n| A. Medidas de confinamento | B. Níveis de confinamento |  |  |\n| --- | --- | --- | --- |\n| 2 | 3 | 4 |  |\n| Local de trabalho |  |  |  |\n| 1. O local de trabalho deve estar separado de quaisquer outras atividades no mesmo edifício | Não | Recomendado | Sim |\n| 2. O local de trabalho deve poder ser hermeticamente fechado para permitir a fumigação | Não | Recomendado | Sim |\n| Instalações |  |  |  |\n| 3. O material infetado, incluindo qualquer animal, deve ser manipulado em câmaras de segurança ou isoladores ou noutro meio de confinamento adequados | Se for necessário | Sim, quando a infecção for transmissível pelo ar | Sim |\n| Equipamento |  |  |  |\n| 4. Os dispositivos de admissão e evacuação de ar do local de trabalho devem ser munidos de filtros absolutos (HEPA^1^) ou equivalente) | Não | Sim, na evacuação do ar | Sim, na admissão e na evacuação do ar |\n| 5. O local de trabalho deve ser mantido a uma pressão negativa em relação à atmosfera | Não | Recomendado | Sim |\n| 6. As superfícies devem ser impermeáveis e de limpeza fácil | Sim, as bancadas e o pavimento | Sim, as bancadas, o pavimento e outras superfícies determinadas pela avaliação do risco | Sim, as bancadas, as paredes, o pavimento e o teto |\n| 7. As superfícies devem ser resistentes a ácidos, bases, solventes e desinfetantes | Recomendado | Sim | Sim |\n| Sistema de trabalho |  |  |  |\n| 8. O acesso deve ser restrito aos trabalhadores autorizados | Recomendado | Sim | Sim, através de um compartimento estanque^2^ |\n| 9. Controlo eficiente de vetores (por exemplo, roedores e insetos) | Recomendado | Sim | Sim |\n| 10. Medidas de desinfeção especificadas | Sim | Sim | Sim |\n| 11. Armazenagem com segurança de um agente biológico | Sim | Sim | Sim, armazenagem com segurança |\n| 12. O pessoal deve tomar um duche antes de sair da área confinada | Não | Recomendado | Recomendado |\n| Resíduos |  |  |  |\n| 13. Procedimento de inativação validado para garantir a eliminação de carcaças de animais em segurança | Recomendado | Sim, no local ou no exterior | Sim, no local |\n| Outras medidas |  |  |  |\n| 14. Laboratórios contendo o seu próprio equipamento | Não | Recomendado | Sim |\n| 15. Janela de observação, ou equivalente, que permita ver os ocupantes | Recomendado | Recomendado | Sim» |\n| (^1^) ^1^ HEPA: filtro de partículas de alta eficiência (^2^) ^2^ Compartimento estanque: o acesso deve ser feito através de um compartimento estanque que é uma câmara isolada do laboratório. O lado não contaminado do compartimento estanque deve estar separado do lado restrito por vestiários ou chuveiros, preferivelmente através de portas com mecanismo de engate. |  |  |  |\n\n(4) O anexo VI da Diretiva 2000/54/CE passa a ter a seguinte redação:"
+  },
+  "0a436cb81be90d89": {
+   "fragment_id": "«ANEXO VI",
+   "type": "divisao",
+   "heading": "«ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## «ANEXO VI"
+  },
+  "76ab398095371cc7": {
+   "fragment_id": "CONFINAMENTO PARA PROCESSOS INDUSTRIAIS",
+   "type": "divisao",
+   "heading": "CONFINAMENTO PARA PROCESSOS INDUSTRIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONFINAMENTO PARA PROCESSOS INDUSTRIAIS"
+  },
+  "7b0e772d93499bd5": {
+   "fragment_id": "[artigo 4.º, n.º 1 e artigo 16.º, n.º 2, alínea a)]",
+   "type": "divisao",
+   "heading": "[artigo 4.º, n.º 1 e artigo 16.º, n.º 2, alínea a)]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### [artigo 4.º, n.º 1 e artigo 16.º, n.º 2, alínea a)]"
+  },
+  "6230c15a7931726f": {
+   "fragment_id": "NOTA INTRODUTÓRIA",
+   "type": "divisao",
+   "heading": "NOTA INTRODUTÓRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### NOTA INTRODUTÓRIA\n\nNo quadro, a menção “Recomendado” significa que as medidas devem, em princípio, ser aplicadas, a não ser que os resultados da avaliação referida no artigo 3.º, n.º 2, indiquem o contrário.\n\nAgentes biológicos do grupo 1\n\nQuando o trabalho envolva agentes biológicos do grupo 1, incluindo as vacinas vivas atenuadas, deverão ser respeitados os princípios da boa segurança e higiene no trabalho.\n\nAgentes biológicos dos grupos 2, 3 e 4\n\nPoderá revelar-se necessário selecionar e combinar exigências de confinamento de várias das categorias adiante referidas, em função da avaliação do risco relacionado com um determinado processo ou uma parte de um processo.\n\n| A. Medidas de confinamento | B. Níveis de confinamento |  |  |\n| --- | --- | --- | --- |\n| 2 | 3 | 4 |  |\n| Gerais |  |  |  |\n| 1. Os organismos viáveis devem ser manipulados num sistema que separe fisicamente o processo do ambiente | Sim | Sim | Sim |\n| 2. Os gases de escape provenientes do sistema fechado devem ser tratados de modo a: | Minimizar a libertação | Evitar a libertação | Evitar a libertação |\n| 3. A recolha de amostras, a adição de materiais ao sistema fechado e a transferência de organismos viáveis para outro sistema fechado devem ser feitas de modo a: | Minimizar a libertação | Evitar a libertação | Evitar a libertação |\n| 4. Os fluidos de culturas em grande quantidade não devem ser removidos do sistema fechado, a menos que os organismos viáveis tenham sido: | Inativados por processos físicos ou químicos comprovados | Inativados por processos físicos ou químicos comprovados | Inativados por processos físicos ou químicos comprovados |\n| 5. Os selos devem ser concebidos de modo a: | Minimizar a libertação | Evitar a libertação | Evitar a libertação |\n| 6. A área controlada deve ser concebida de forma a conter o derramamento de todo o conteúdo do sistema fechado | Não | Recomendado | Sim |\n| 7. A área controlada deve poder ser hermeticamente fechada para permitir a fumigação | Não | Recomendado | Sim |\n| Instalações |  |  |  |\n| 8. Devem ser previstas instalações de descontaminação e lavagem destinadas ao pessoal | Sim | Sim | Sim |\n| Equipamento |  |  |  |\n| 9. Os dispositivos de admissão e evacuação da área controlada devem ser munidos de filtros HEPA [(^1^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0018) | Não | Recomendado | Sim |\n| 10. A área controlada deve ser mantida a uma pressão negativa em relação à atmosfera | Não | Recomendado | Sim |\n| 11. A área controlada deve ser convenientemente ventilada de modo a minimizar a contaminação do ar | Recomendado | Recomendado | Sim |\n| Sistema de trabalho |  |  |  |\n| 12. Os sistemas fechados [(^2^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0019) devem localizar-se numa área controlada | Recomendado | Recomendado | Sim, e de construção específica |\n| 13. Devem ser afixados sinais de perigo biológico | Recomendado | Sim | Sim |\n| 14. O acesso deve ser restrito apenas a pessoal autorizado | Recomendado | Sim | Sim, através de um compartimento estanque [(^3^)](http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1#E0020) |\n| 15. O pessoal deve tomar um duche antes de abandonar a área controlada | Não | Recomendado | Sim |\n| 16. O pessoal deve utilizar vestuário de proteção | Sim, vestuário de trabalho | Sim | Sim, uma muda completa |\n| Resíduos |  |  |  |\n| 17. Os efluentes provenientes dos tanques e chuveiros devem ser recolhidos e inativados antes de serem escoados | Não | Recomendado | Sim |\n| 18. Tratamento dos efluentes antes da descarga final | Inativados por processos físicos ou químicos comprovados | Inativados por processos físicos ou químicos comprovados | Inativados por processos físicos ou químicos comprovados» |\n| (^1^)HEPA: filtro de partículas de alta eficiência (^2^)Sistema fechado: um sistema que separe fisicamente o processo do ambiente (por exemplo, incubadora, cubas, tanques, etc.). (^3^)Compartimento estanque: o acesso deve ser feito através de um compartimento estanque que é uma câmara isolada do laboratório. O lado não contaminado do compartimento estanque deve estar separado do lado restrito por vestiários ou chuveiros, preferivelmente através de portas com mecanismo de engate. |  |  |  |"
+  }
+ }
+}

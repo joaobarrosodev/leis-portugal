@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:226977:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-207628496",
+ "dre_path": "/dr/detalhe/decreto-lei/120-1986-226977",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-05-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "207628335",
+    "207628336",
+    "207628337",
+    "207628338",
+    "207628339",
+    "207628340",
+    "207628341",
+    "207628342"
+   ]
+  },
+  {
+   "date": "2023-02-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207272800:por",
+     "title": "Decreto-Lei n.º 11/2023",
+     "published": "2023-02-10",
+     "dre_path": "/dr/detalhe/decreto-lei/11-2023-207272800"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "207628335",
+    "207628344",
+    "207628337",
+    "207628338",
+    "207628339",
+    "207628340",
+    "207628341",
+    "207628342",
+    "207628343"
+   ]
+  }
+ ],
+ "fragments": {
+  "207628335": {
+   "fragment_id": "207628497",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 120/86\n\nde 28 de Maio\n\nDesde há longos anos que a olivicultura nacional atravessa uma grave crise derivada de condições estruturais e conjunturais desfavoráveis que têm conduzido a um progressivo decréscimo da quantidade de azeite produzido, a um aumento incomportável dos custos de produção e, em muitos casos, ao desinteresse pela cultura da oliveira, o que deu lugar não só ao abandono, mas mesmo ao arranque sistemático em vastas áreas, com substituição por outras culturas.\n\nTodavia, apesar das enormes delapidações sofridas, o olival português constitui ainda hoje, no conjunto das actividades agrárias, um património de altíssimo valor que interessa preservar a todo o custo. Na realidade, caracteriza-se como um factor de equilíbrio social, económico e ecológico em muitas regiões do País, além de que representa uma reserva de carácter estratégico, pois o azeite - alimento ímpar na dieta da população portuguesa - pode contribuir decisivamente para a autonomia do nosso aprovisionamento em gorduras alimentares, hoje fortemente dependente do exterior, com elevadíssimo dispêndio de divisas.\n\nAssim, há que assegurar a adequada protecção do olival, mas sem perder de vista que a sua exploração tem de modernizar-se, encaminhando-a para uma intensificação que assegure altos níveis de rendibilidade e com custos e padrões de qualidade que lhe permitam enfrentar a dura concorrência dos óleos provenientes de sementes oleaginosas.\n\nPara tanto, haverá, por um lado, que proceder à reestruturação do olival nas zonas para o efeito mais vocacionadas e em que a sua exploração tenha vincado interesse económico e social e, por outro, à reconversão nas áreas em que a cultura olivícola seja marginal ou possa ser vantajosamente substituída por outras de mais elevada rendibilidade, mas sempre dentro da óptica do ordenamento regional estabelecido.\n\nContudo, para que as referidas acções sejam exequíveis, torna-se necessário rever e ajustar a legislação que proíbe o arranque de oliveiras, aliás de há muito obsoleta e que, na generalidade, não tem sido observada, dadas as vastas áreas de olival que têm sido sacrificadas.\n\nÉ esse o objectivo do presente diploma, o qual, sem perder de vista a adequada protecção do património olivícola nacional, permite a maleabilidade necessária à execução das acções de reestruturação e de reconversão programadas e assegura às direcções regionais de agricultura o indispensável controle das áreas onde serão executadas.\n\nNestes termos, o Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:"
+  },
+  "207628336": {
+   "fragment_id": "207628498",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNo território do continente, o arranque e corte raso de oliveiras só pode ser efectuado mediante prévia autorização concedida pelas direcções regionais de agricultura, dentro das respectivas áreas de actuação."
+  },
+  "207628337": {
+   "fragment_id": "207628499",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do disposto no artigo anterior, as autorizações de arranque ou de corte serão concedidas no caso de se verificar qualquer uma das condições seguintes:\n\na) Quando as oliveiras tiverem atingido um estado de decrepitude ou de doença irrecuperáveis que torne a sua exploração antieconómica;\n\nb) Quando, em virtude da natureza ou declive do terreno, as oliveiras se situarem em zonas marginais para a sua cultura, tornando excessivamente onerosa a respectiva exploração, devendo, no entanto, ser assegurada a defesa do solo contra a erosão através da implantação de outras culturas;\n\nc) Quando as densidades de povoamento forem inferiores a 45 árvores por hectare;\n\nd) Quando o arranque se destinar a viabilizar outras culturas de maior rendibilidade ou de comprovado interesse económico e social;\n\ne) Quando o arranque se destinar a implantação de novo olival;\n\nf) Quando o corte raso tenha como objectivo a regeneração do olival existente;\n\ng) Quando o arranque tenha como objectivo a obtenção de parcelas estremes de vinha, em regiões vinícolas oficialmente demarcadas;\n\nh) Quando o arranque se destinar a obras com finalidade exclusivamente agrícola de reconhecida utilidade ou para habitação dos agricultores;\n\ni) Quando o arranque seja efectuado em zonas de expansão urbana previstas em planos directores municipais e em áreas de desenvolvimento urbano prioritário;\n\nj) Quando o arranque seja efectuado em zonas destinadas a obras de hidráulica agrícola, a vias de comunicação ou construções e empreendimentos de interesse nacional, regional e local, bem como a obras de defesa do património cultural, e como tal reconhecidos pelos ministérios competentes;\n\nl) Quando o arranque seja efectuado em áreas de explorações mineiras nos termos legais."
+  },
+  "207628338": {
+   "fragment_id": "207628500",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O pedido de arranque ou de corte raso de oliveiras será efectuado pelo respectivo proprietário ou possuidor em requerimento dirigido ao director regional de agricultura da respectiva área, contendo, além da respectiva identificação, os elementos seguintes:\n\na) Localização da parcela (concelho, freguesia, lugar, nome e situação do prédio rústico onde se situam as oliveiras);\n\nb) Número de pés a arrancar ou a cortar e área ocupada;\n\nc) Justificação do pedido nos termos do artigo anterior.\n\n2 - No caso de o pedido ter como fundamento a utilização do solo prevista na alínea i) do artigo 2.º, o requerente deverá apresentar documento autêntico, emitido pela respectiva câmara municipal, que comprove a referida utilização.\n\n3 - No caso de o pedido ter como fundamento a utilização prevista nas alíneas e) e f) do artigo 2.º, o interessado entregará uma declaração em que se compromete a seguir na implantação do novo olival, ou na regeneração do existente, as indicações técnicas dos serviços regionais, bem como o prazo da sua execução, que não deverá exceder três anos a partir da data do deferimento.\n\n4 - A área abrangida pelas operações referidas no número anterior não poderá, em princípio, ser inferior a 5 h por ano, podendo, no entanto, os serviços regionais fixar uma área diferente se a estrutura fundiária das diferentes zonas o aconselhar, exceptuando-se as situações em que as áreas a implantar ou a regenerar sejam inferiores a 5 ha, caso em que as operações em causa poderão desdobrar-se por dois anos.\n\n5 - Os requerimentos a que se refere o n.º 1 do presente artigo deverão ser entregues nas sedes das zonas agrárias da área da residência do proprietário ou do possuidor das oliveiras, com a antecedência mínima de 60 dias em relação à data prevista para o início das respectivas operações, considerando-se deferidos os que não obtenham despacho no prazo de 60 dias, a contar da data da sua entrega.\n\n6 - Não carecem de autorização prévia o arranque ou o corte de oliveiras isoladas."
+  },
+  "207628339": {
+   "fragment_id": "207628501",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - O despacho que recair sobre o pedido a que se refere o artigo 3.º será imediatamente comunicado por escrito ao interessado.\n\n2 - No caso de indeferimento, o requerente pode interpor recurso hierárquico necessário para o Ministro da Agricultura, Pescas e Alimentação, em requerimento a apresentar no prazo de 30 dias, o qual, antes de ser submetido a despacho, deverá ser acompanhado de parecer da Direcção-Geral da Agricultura."
+  },
+  "207628340": {
+   "fragment_id": "207628502",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Aquele que, sendo o proprietário ou possuidor de oliveiras, as cortar, arrancar ou por qualquer modo e voluntariamente as fizer perecer, ou consentir em quaisquer actos que determinem o seu perecimento, praticará contra-ordenação punida com coima de 20000$00 a 200000$00 por cada hectare atingido por esses actos.\n\n2 - Aquele que, não sendo proprietário ou possuidor de oliveiras, praticar qualquer dos actos identificados no número anterior praticará contra-ordenação punida com coima de 50000$00 a 300000$00 por cada hectare atingido por esses actos.\n\n3 - Nos casos em que forem autorizadas as operações de substituição ou de regeneração do olival previstas nas alíneas e) e f) do artigo 2.º, a sua não efectivação constitui contra-ordenação punível com coima de 20000$00 a 100000$00 por hectare e por ano.\n\n4 - Os directores regionais de agricultura, ou os seus substitutos legais, da área onde se situem os olivais são as autoridades competentes para aplicação das coimas previstas neste diploma."
+  },
+  "207628341": {
+   "fragment_id": "207628503",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - A fiscalização do cumprimento das disposições do presente diploma compete às direcções regionais de agricultura, com a colaboração das câmaras municipais e autoridades policiais da respectiva área, bem como a todas as entidades que tenham atribuições no âmbito do ordenamento do território e da preservação da reserva agrícola.\n\n2 - O produto das coimas reverterá para a direcção regional de agricultura da área onde se verificar a prática da contra-ordenação."
+  },
+  "207628342": {
+   "fragment_id": "207628504",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nFicam revogados o Decreto n.º 3387, de 26 de Setembro de 1917, e o Decreto-Lei n.º 29391, de 9 de Janeiro de 1939."
+  },
+  "207628344": {
+   "fragment_id": "207628498",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2023-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - No território do continente, o arranque e corte raso de oliveiras só pode ser efectuado mediante prévia autorização concedida pelas direcções regionais de agricultura, dentro das respectivas áreas de actuação.\n\n2 - Excetua-se do disposto no número anterior o arranque ou corte de oliveiras quando necessários para um projeto que esteja sujeito a procedimento de avaliação de impacte ambiental ou de avaliação de incidências ambientais em fase de projeto de execução e o arranque ou corte resulte da declaração de impacte ambiental ou da decisão favorável sobre a conformidade ambiental do projeto de execução, ficando dispensado qualquer tipo de autorização.\n\n3 - O disposto no número anterior também se aplica a projetos em fase de anteprojeto, quando os mesmos possuam grau de detalhe suficiente para identificar o arranque ou corte.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01"
+  },
+  "207628343": {
+   "fragment_id": "207628505",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Abril de 1986. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Luís Francisco Valente de Oliveira - Álvaro Roque de Pinho Bissaia Barreto.\n\nPromulgado em 10 de Maio de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Maio de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

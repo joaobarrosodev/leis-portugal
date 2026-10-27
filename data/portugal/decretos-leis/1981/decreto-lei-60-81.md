@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:389472:por
+title: Decreto-Lei n.º 60/81
+short_title: null
+summary: Adopta as providências que forem julgadas convenientes e oportunas - visando incentivar o espírito criativo dos seus
+  membros militares, militarizados e civis -, por forma a atingir-se um maior desenvolvimento científico, tecnológico ou cultural
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 60/81
+official_date: null
+publication_date: '1981-04-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 77/1981, Série I de 1981-04-02
+  number: '77'
+  series: I
+  supplement: null
+  pages: 822 - 823
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/04/07700/08220823.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '389472'
+  dre_path: /dr/detalhe/decreto-lei/60-1981-389472
+  internal: pt:dre:389472:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1981-389472
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1981-389472
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:40:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: cc1b1116e85fbd918c3dd0db596faa38709df72ff71031d592cf25600c15fd1f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:40:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Animação Sócio-cultural
+- Forças Armadas
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:40:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 60/81
+
+de 2 de Abril
+
+Considerando do maior interesse para as forças armadas, e bem assim para o contexto nacional em que as mesmas se inserem, o desenvolvimento do espírito criativo dos elementos que as integram;
+
+Considerando que o aproveitamento daquele espírito criativo poderá contribuir para um aumento da eficiência e da economia nas forças armadas;
+
+Considerando, finalmente, que tal espírito pode e deve ser fomentado através de estímulos de vária ordem:
+
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - No âmbito das forças armadas serão adoptadas as providências que forem julgadas convenientes e oportunas visando incentivar o espírito criativo dos seus membros - militares, militarizados e civis -, por forma a atingir-se um maior desenvolvimento científico, tecnológico ou cultural.
+
+2 - O referido espírito criativo deverá contribuir para um aumento da eficiência e da economia das forças armadas através de medidas que:
+
+a) Simplifiquem ou aperfeiçoem procedimentos;
+
+b) Aumentem a produtividade;
+
+c) Aperfeiçoem as condições de trabalho e os métodos de operar equipamentos;
+
+d) Aperfeiçoem a organização;
+
+e) Melhorem a manutenção e a conservação do material;
+
+f) Economizem energia;
+
+g) Aumentem a segurança;
+
+h) Protejam a saúde;
+
+i) Contemplem outras acções enquadradas no espírito deste diploma.
+
+Art. 2.º Aos trabalhos de reconhecido mérito poderão ser atribuídas recompensas de ordem disciplinar, estatutária, pecuniária ou outras que vierem a ser estabelecidas em cada ramo das forças armadas por despacho do respectivo Chefe de Estado-Maior.
+
+Art. 3.º Os encargos resultantes da execução do presente diploma serão suportados por verbas próprias dos orçamentos militares.
+
+Art. 4.º O presente diploma será regulamentado mediante portaria conjunta dos Chefes de Estado-Maior.
+
+Visto e aprovado em Conselho da Revolução em 11 de Março de 1981.
+
+Promulgado em 18 de Março de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

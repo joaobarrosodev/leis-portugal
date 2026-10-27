@@ -1,0 +1,470 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31980L0068:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01980L0068-20131222",
+ "dre_path": null,
+ "source_lastmod": "2013-12-22",
+ "versions": [
+  {
+   "date": "1980-01-26",
+   "future": false,
+   "celex": "31980L0068",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f0d6b6d0c5ef6dfe",
+    "465ef824a2f8d2aa",
+    "a1709a33174e4c28",
+    "b91b24c61c8139e1",
+    "5ac7d88a250d977f",
+    "bc60d4f06e6819a2",
+    "d05f1e8ef68eaf34",
+    "d778a1e39d289301",
+    "c5df8664d8677a9d",
+    "3b886f4b53237f8e",
+    "117740637e1dc34b",
+    "d072b6da50c197f8",
+    "821493073bbda2dc",
+    "1b1b83d86a21b734",
+    "091c28437318d18d",
+    "027242e38a89e9f3",
+    "c65e59b0b06e62e8",
+    "f2eb1e8d8a117cc5",
+    "19f5bcef8f270c60",
+    "08195846bcfd2a2d",
+    "139ea8108b148a6c",
+    "496a53026254ba0b",
+    "d86da0b5b34268b7",
+    "b101ea683f20f58a"
+   ]
+  },
+  {
+   "date": "1991-12-23",
+   "future": false,
+   "celex": "01980L0068-19911223",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1o",
+    "Altera Artigo 4o",
+    "Altera Artigo 5o",
+    "Altera Artigo 8o",
+    "Altera Artigo 10o",
+    "Altera Artigo 21o",
+    "Altera Artigo 22o",
+    "Altera ANEXO — LISTA I DE FAMÍLIAS E GRUPOS DE SUBSTÂNCIAS",
+    "Adita Artigo 2",
+    "Adita Artigo 16o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 16o"
+   ],
+   "fragments": [
+    "c7ee09c718b7d621",
+    "327611a10019e1f9",
+    "350685e041be76d3",
+    "b91b24c61c8139e1",
+    "3a2a22a5b4700fe6",
+    "de0bece6e5585064",
+    "98bfb2fb9139ea31",
+    "5e98f65b79611c61",
+    "6c7535550cdf19d7",
+    "7c91c736fb9c48c9",
+    "3b76da1ef0371cfb",
+    "e3e9bb1715067d9c",
+    "063576a85d1a1ba2",
+    "1b1b83d86a21b734",
+    "8c82a868a9085a91",
+    "47babd34381a0bcb",
+    "5635652e39c226c4",
+    "f2eb1e8d8a117cc5",
+    "19f5bcef8f270c60",
+    "08195846bcfd2a2d",
+    "139ea8108b148a6c",
+    "b40f7a4afba967b3",
+    "a47572af5b3e6f06",
+    "ac77e7c0468f2a79"
+   ]
+  },
+  {
+   "date": "2013-12-22",
+   "future": false,
+   "celex": "01980L0068-20131222",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime ANEXO — LISTA I DE FAMÍLIAS E GRUPOS DE SUBSTÂNCIAS"
+   ],
+   "fragments": [
+    "93071b9f8a96497d"
+   ]
+  }
+ ],
+ "fragments": {
+  "f0d6b6d0c5ef6dfe": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 80/68/CEE do Conselho, de 17 de Dezembro de 1979, relativa à protecção das águas subterrâneas contra a poluição causada por certas substâncias perigosas** *Jornal Oficial nº L 020 de 26/01/1980 p. 0043 - 0048 Edição especial grega: Capítulo 15 Fascículo 1 p. 0240 Edição especial espanhola: Capítulo 15 Fascículo 2 p. 0162 Edição especial portuguesa: Capítulo 15 Fascículo 2 p. 0162 Edição especial finlandesa: Capítulo 15 Fascículo 2 p. 0211 Edição especial sueca: Capítulo 15 Fascículo 2 p. 0211*\n\nDIRECTIVA DO CONSELHO de 17 de Dezembro de 1979 relativa à protecção das águas subterrâneas contra a poluição causada por certas substâncias perigosas\n\n(80/68/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o.\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que se impõe uma acção com vista à protecção das águas subterrâneas da Comunidade contra a poluição, especialmente a causada por certas substâncias tóxicas, persistentes e bioacumuláveis;\n\nConsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente de 1973 (4), completado pelo de 1977 (5), prevê um certo número de medidas destinadas a proteger as águas subterrâneas contra certos poluentes;\n\nConsiderando que a Directiva 76/461/CEE do Conselho, de 4 de Maio de 1976, relativa à poluição causada por certas substâncias perigosas lançadas no meio aquático da Comunidade (6), prevê, no artigo 4o, a aplicação de uma directiva específica para as águas subterrâneas;\n\nConsiderando que uma disparidade entre as disposições já aplicáveis ou em via de preparação nos diferentes Estados-membros, no que se refere à descarga de certas substâncias perigosas nas águas subterrâneas pode criar condições de concorrência desiguais e ter, por isso, uma incidência directa no funcionamento do mercado comum; que é conveniente, pois, proceder a uma aproximação das legislações prevista no artigo 100o do Tratado;\n\nConsiderando que se torna necessário conjugar essa aproximação das legislações com uma acção por parte das Comunidades no domínio da protecção do ambiente e da melhoria da qualidade de vida; que é conveniente, portanto, prever, nesse domínio, certas disposições específicas; que, não tendo sido previstos no Tratado os poderes de acção necessários para esse efeito, convém recorrer ao artigo 235o do Tratado;\n\nConsiderando que convém excluir do âmbito de aplicação da presente directiva, por um lado, as descargas dos efluentes domésticos provenientes de certas habitações isoladas e, por outro, as descargas que contenham substâncias constantes das Listas I e II em quantidades e concentrações muito pequenas, em virtude do diminuto perigo de poluição e da dificuldade em exercer um controlo dessas descargas; que é também conveniente excluir as descargas de matérias que contenham substâncias radioactivas, que serão objecto de uma regulamentação comunitária específica;\n\nConsiderando que, para assegurar uma protecção eficaz das águas subterrâneas da Comunidade, é necessário impedir a descarga de substâncias constantes da Lista I e limitar a descarga de substâncias constantes da Lista II;\n\nConsiderando que é necessário distinguir entre, por um lado, as descargas directas de substâncias perigosas nas águas subterrâneas e, por outro, as acções susceptíveis de conduzir a uma descarga indirecta dessas substâncias;\n\nConsiderando que, com excepção das descargas directas de substâncias constantes na Lista I, que são proibidas a priori, qualquer descarga deve ser submetida a um regime de autorização; que tal autorização só deve ser concedida depois de um estudo do meio receptor;\n\nConsiderando que devem ser previstas excepções ao regime de interdição de descargas nas águas subterrâneas de substâncias constantes da Lista I, após estudo do meio receptor e autorização prévia, se a descarga for efectuada em águas subterrâneas que, de maneira constante, são impróprias para qualquer outro uso, designadamente para usos domésticos ou agrícolas;\n\nConsiderando que é conveniente submeter a um regime específico as recargas artificiais das águas subterrâneas destinadas ao abastecimento de água das populações;\n\nConsiderando que as autoridades competentes dos Estados-membros devem fiscalizar a observância das condições impostas pela autorização, assim como as incidências das descargas nas águas subterrâneas;\n\nConsiderando que deve ser mantido um inventário das autorizações das descargas das substâncias constantes da Lista I e das descargas directas de substâncias constantes da Lista II, efectuadas nas águas subterrâneas, assim como um inventário das autorizações de recargas artificiais das águas subterrâneas para a gestão pública;\n\nConsiderando que, na medida em que a República Helénica se tornará membro da Comunidade Económica Europeia a partir de 1 de Janeiro de 1981, de acordo com o acto relativo às condições de adesão da República Helénica e às adaptações dos tratados, e tendo em conta a insuficiência da sua infra-estrutura técnica e administrativa, se torna necessário que passe de dois para quatro anos o prazo imposto aos Estados-membros para porem em vigor as disposições legislativas, regulamentares e administrativas indispensáveis para darem cumprimento à presente directiva;\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "465ef824a2f8d2aa": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva tem por objectivo impedir a poluição das águas subterrâneas por substâncias pertencentes às famílias e grupos de substâncias enunciadas nas Listas I e II do anexo, a seguir denominadas «substâncias constantes das Listas I e II», e reduzir ou eliminar, na medida do possível, as consequências da sua actual poluição.\n\n2. Na acepção da presente directiva, entende-se por:\n\na) «Águas subterrâneas», quaisquer águas que se encontrem sob a superfície do solo na zona de saturação e que estão em contacto directo com o solo ou subsolo;\n\nb) «Descarga directa», a introdução nas águas subterrâneas de substâncias constantes das Listas I e II sem encaminhamento no solo ou no subsolo;\n\nc) «Descarga indirecta», a introdução nas águas subterrâneas de substâncias constantes das Listas I e II após encaminhamento no solo ou subsolo;\n\nd) «Poluição», a descarga de substâncias ou energia efectuada pelo homem nas águas subterrâneas, directa ou indirectamente, e que tenha consequências de natureza a pôr em perigo a saúde humana ou o abastecimento de água, a prejudicar os recursos vivos e o sistema ecológico aquático ou ainda outras utilizações legítimas das águas."
+  },
+  "a1709a33174e4c28": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nA presente directiva não se aplica:\n\na) As descargas dos efluentes domésticos provenientes de habitações isoladas, que não estão ligadas a uma rede de esgotos e se encontram situadas fora das zonas de protecção de captações de água destinada ao consumo humano;\n\nb) As descargas que a autoridade competente do Estado-membro em questão verificou conterem substâncias constantes das Listas I e II em quantidade e concentração tão pequenas que excluem qualquer perigo presente ou futuro de degradação da qualidade das águas subterrâneas receptoras;\n\nc) Ás descargas de matérias que contenham substâncias radioactivas."
+  },
+  "b91b24c61c8139e1": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nOs Estados-membros tomam as medidas necessárias para:\n\na) Impedir a introdução nas águas subterrâneas de substâncias constantes da Lista I;\n\nb) Limitar a introdução de substâncias constantes da Lista II nas águas subterrâneas, a fim de evitar a poluição dessas águas por essas substâncias."
+  },
+  "5ac7d88a250d977f": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Para cumprimento da obrigação prevista na alínea a) do artigo 3o, os Estados-membros:\n\n- proíbem qualquer descarga directa de substâncias constantes da Lista I,\n\n- submetem a uma investigação prévia as acções de eliminação ou de depósito para eliminar essas substâncias, susceptíveis de levar a uma descarga indirecta. Em face do resultado da investigação, os Estados-membros proíbem essa acção ou concedem uma autorização, desde que sejam respeitadas todas as precauções técnicas necessárias para impedir essa descarga,\n\n- tomam as medidas adequadas que julgarem necessárias para evitar qualquer descarga indirecta de substâncias constantes da Lista I, devido a acções efectuadas à superfície ou no interior do solo diferentes das mencionadas no segundo travessão. Desse facto informam a Comissão, que, à luz dessas informações, pode submeter ao Conselho propostas de revisão da presente directiva.\n\n2. Todavia, se uma investigação prévia revelar que as águas subterrâneas nas quais se prevê uma descarga de substâncias constantes da Lista I, são permanentemente impróprias para qualquer uso, designadamente para uso doméstico ou agrícola, os Estados-membros podem autorizar a descarga dessas substâncias, desde que a presença delas não entrave a exploração dos recursos do solo.\n\nTais autorizações só podem ser concedidas se forem respeitadas todas as precauções técnicas, a fim de que essas substâncias não possam atingir outros sistemas aquáticos ou prejudicar outros ecossistemas.\n\n3. Os Estados-membros podem, após investigação prévia, autorizar as descargas devidas à reinjecção, na mesma toalha de água, das águas de uso geotérmico, de esgotamento de minas e de pedreiras ou das águas aspiradas em certos trabalhos de construção civil."
+  },
+  "bc60d4f06e6819a2": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Para cumprimento da obrigação prevista na alínea b) do artigo 3o, os Estados-membros submetem a uma investigação prévia:\n\n- qualquer descarga de substâncias constantes da Lista II, de forma a eliminar tais descargas;\n\n- as acções de eliminação ou de depósito com vista a eliminar essas substâncias, susceptíveis de levar a uma descarga indirecta.\n\nEm face dos resultados dessa investigação, os Estados-membros podem conceder qualquer autorização desde que sejam respeitadas todas as precauções técnicas que permitem evitar a poluição das águas subterrâneas por essas substâncias.\n\n2. Os Estados-membros tomam ainda as medidas adequadas que julgarem necessárias para limitar qualquer descarga de substâncias constantes da Lista II, devido a acções efectuadas à superfície ou no interior do solo diferentes das mencionadas no no 1."
+  },
+  "d05f1e8ef68eaf34": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nPor derrogação dos artigos 4o e 5o, as recargas artificiais das águas subterrâneas para a gestão pública dessas águas ficam sujeitas a uma autorização especial, concedida, caso a caso, pelos Estados-membros. Tal autorização só é concedida se não houver risco de poluição das águas subterrâneas."
+  },
+  "d778a1e39d289301": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nAs investigações prévias previstas nos artigos 4o e 5o devem incluir um estudo das condições hidrogeológicas da respectiva zona, do eventual poder depurador do solo e subsolo, dos riscos de poluição e alteração da qualidade das águas subterrâneas pela descarga e determinar se, do ponto de vista do ambiente, a descarga nessas águas constitui uma solução adequada."
+  },
+  "c5df8664d8677a9d": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nAs autorizações previstas nos artigos 4o, 5o e 6o só podem ser concedidas pelas autoridades competentes dos Estados-membros após ser verificado que o controlo contínuo das águas subterrâneas, e especialmente da sua qualidade, está assegurado."
+  },
+  "3b886f4b53237f8e": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nQuando uma descarga directa for autorizada de acordo com os nos 2 e 3 do artigo 4o, ou com o artigo 5o, ou quando uma acção de eliminação de águas usadas que conduz inevitavelmente a uma descarga indirecta for autorizada de acordo com o artigo 5o, a autorização deve determinar designadamente:\n\n- o local da descarga;\n\n- a técnica da descarga;\n\n- as precauções indispensáveis tendo especialmente em conta a natureza e a concentração das substâncias presentes nos efluentes, as características do meio receptor, assim como a proximidade das captações de água, especialmente de água potável, termal e mineral;\n\n- a quantidade máxima admissível de uma substância nos efluentes durante um ou vários períodos determinados e as condições apropriadas para a concentração dessas substâncias;\n\n- os dispositivos que permitem o controlo dos efluentes evacuados nas águas subterrâneas;\n\n- se necessário, as medidas que permitem o controlo contínuo das águas subterrâneas, e designadamente da sua qualidade."
+  },
+  "117740637e1dc34b": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nQuando, de acordo com os artigos 4o e 5o, for autorizada uma acção de eliminação ou de depósito com vista à eliminação, susceptível de conduzir a uma descarga indirecta, essa autorização deve determinar designadamente:\n\n- o local onde se situa essa acção;\n\n- os métodos de eliminação ou de depósito utilizados;\n\n- as precauções indispensáveis, tendo em conta especialmente a natureza e a concentração das substâncias presentes nas matérias a eliminar ou a pôr em depósito, as características do meio receptor, assim como a proximidade das captações de água, especialmente de água potável, termal e mineral;\n\n- a quantidade máxima admissível, durante um ou vários períodos determinados, das matérias que contêm substâncias constantes das Listas I e II e, se possível, dessas próprias substâncias, a eliminar ou a pôr em depósito, assim como as condições apropriadas relativas à concentração dessas substâncias;\n\n- para os casos previstos no no 1 do artigo 4o, e no no 1 do artigo 5o, as precauções técnicas a tomar para impedir qualquer descarga de substâncias constantes da Lista I nas águas subterrâneas e evitar a poluição dessas águas por substâncias constantes da Lista II;\n\n- se necessário, as medidas que permitem o controlo das águas subterrâneas, e designadamente da sua qualidade."
+  },
+  "d072b6da50c197f8": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nAs autorizações previstas nos artigos 4o e 5o só podem ser concedidas por um período limitado; devem ser revistas, pelo menos, de quatro em quatro anos e podem ser prorrogadas, modificadas ou revogadas."
+  },
+  "821493073bbda2dc": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Se o requerente de uma autorização, nos termos dos artigos 4o ou 5o, declarar que não se encontra em posição de respeitar as condições que lhe são impostas ou se a autoridade competente do Estado-membro em questão verificar essa impossibilidade, a autorização é recusada.\n\n2. Se as condições impostas numa autorização não forem respeitadas, a autoridade competente do Estado-membro em questão toma as medidas convenientes de forma a que as condições sejam cumpridas; se necessário, revoga a autorização."
+  },
+  "1b1b83d86a21b734": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nAs autoridades competentes dos Estados-membros fiscalizam a observância das condições impostas pelas autorizações, assim como as incidências das descargas nas águas subterrâneas."
+  },
+  "091c28437318d18d": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nPara as descargas de substâncias constantes das Listas I e II existentes aquando da notificação da presente directiva, os Estados-membros podem prever um prazo máximo de quatro anos depois da entrada em vigor das disposições previstas no no 1 do artigo 21o, decorrido o qual esses descargas devem obedecer ao estipulado na presente directiva."
+  },
+  "027242e38a89e9f3": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nAs autoridades competentes dos Estados-membros mantêm um inventário das autorizações previstas no artigo 4o, das descargas de substâncias constantes da Lista I, das autorizações previstas no artigo 5o das descargas directas de substâncias constantes da Lista II e das autorizações previstas no artigo 6o."
+  },
+  "c65e59b0b06e62e8": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. Para efeitos da aplicação da presente directiva os Estados-membros fornecem à Comissão, a pedido desta, caso por caso, todas as informações necessárias e, designadamente, as relativas:\n\na) Aos resultados das investigações prévias previstas nos artigos 4o e 5o;\n\nb) Aos pormenores das autorizações concedidas;\n\nc) Aos resultados da fiscalização e dos controlos efectuados;\n\nd) Aos resultados dos inventários previstos no artigo 15o.\n\n2. As informações recolhidas nos termos do presente artigo só podem ser utilizadas para o fim para que foram pedidas.\n\n3. A Comissão e as autoridades competentes dos Estados-membros, assim como os respectivos funcionários e outros agentes, não podem divulgar as informações que obtiveram em aplicação da presente directiva e que, pela própria natureza, ficam abrangidas pelo segredo profissional.\n\n4. Os no 2 e 3 não obstam à publicação de informações gerais ou de estudos que não contenham indicações individuais sobre as empresas ou associações de empresas."
+  },
+  "f2eb1e8d8a117cc5": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nNo caso de descargas nas águas subterrâneas transfronteiriças, a autoridade competente do Estado-membro que tenciona autorizar essas descargas informa os outros Estados-membros em questão antes de conceder uma autorização. A pedido de um desses Estados-membros e antes da concessão de uma autorização, serão realizadas consultas em que a Comissão pode participar."
+  },
+  "19f5bcef8f270c60": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nA aplicação das medidas adoptadas em virtude da presente directiva não pode, em caso algum, provocar directa ou indirectamente a poluição das águas mencionadas no artigo 1o."
+  },
+  "08195846bcfd2a2d": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nUm ou vários Estados-membros podem, se for caso disso, fixar individual ou conjuntamente medidas mais severas que as previstas na presente directiva."
+  },
+  "139ea8108b148a6c": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nO Conselho, deliberando sob proposta da Comissão, revê e, se necessário, completa as Listas I e II, tendo em conta a experiência adquirida e, se for caso disso, transfere certas substâncias da Lista II para a Lista I."
+  },
+  "496a53026254ba0b": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, no prazo de dois anos a contar da sua notificação, e desse facto informam imediatamente a Comissão.\n\nTodavia, este prazo é alargado para quatro anos para a República Helénica, sob reserva da sua adesão em 1 de Janeiro de 1981.\n\n2. Os Estados-membros comunicam à Comissão o texto das disposições principais de direito nacional que adoptarem no domínio regulado pela presente directiva.\n\n3. Logo que um Estado-membro fizer entrar em vigor as disposições previstas no no 1, as disposições da Directiva 76/464/CEE, relativas às águas subterrâneas, deixam de ser aplicáveis."
+  },
+  "d86da0b5b34268b7": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 17 de Dezembro de 1979.\n\nPelo Conselho\n\nO Presidente\n\nS. BARRETT\n\n(1) JO no C 37 de 14. 2. 1978, p. 3.(2) JO no C 296 de 11. 12. 1973, p. 35.(3) JO no C 283 de 27. 11. 1978, p. 39.(4) JO no C 112 de 20. 12. 1973, p. 3.(5) JO no C 139 de 13. 6. 1977, p. 3.(6) JO no L 129 de 18. 5. 1976, p. 23."
+  },
+  "b101ea683f20f58a": {
+   "fragment_id": "ANEXO — LISTA I DE FAMÍLIAS E GRUPOS DE SUBSTÂNCIAS",
+   "type": "divisao",
+   "heading": "ANEXO — LISTA I DE FAMÍLIAS E GRUPOS DE SUBSTÂNCIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — LISTA I DE FAMÍLIAS E GRUPOS DE SUBSTÂNCIAS\n\nA Lista I compreende as substâncias individuais que fazem parte das famílias e grupos de substâncias a seguir enumerados, com excepção das substâncias que são consideradas inadequadas para a Lista I, em função do diminuto perigo de toxicidade, de persistência e de bioacumulação.\n\nEssas substâncias que, quanto à toxicidade, persistência e bioacumulação, são adequadas para a Lista II, devem ser classificadas na Lista II.\n\n1. Compostos orgânicos de halogénio e substâncias que podem produzir esses compostos no meio aquático.\n\n2. Compostos orgânicos de fósforo.\n\n3. Compostos orgânicos de estanho.\n\n4. Substâncias que possuem um poder cancerígeno, mutágeno ou teratógeno no meio aquático ou por intermédio deste (1).\n\n5. Mercúrio e compostos de mercúrio.\n\n6. Cádmio e compostos de cádmio.\n\n7. Óleos minerais e hidrocarburetos.\n\n8. Cianetos.\n\nLISTA II DE FAMÍLIAS E GRUPOS DE SUBSTÂNCIAS\n\nA Lista II compreende as substâncias individuais e as categorias de substâncias que fazem parte das famílias e grupos de substâncias a seguir enumerados e que podem ter um efeito prejudicial nas águas subterrâneas.\n\n1. Metalóides e metais a seguir indicados, assim como os respectivos compostos:\n\n1. zinco;\n\n2. cobre;\n\n3. níquel;\n\n4. crómio;\n\n5. chumbo;\n\n6. selénio;\n\n7. arsénico;\n\n8. antimónio;\n\n9. molibdeno;\n\n10. titânio;\n\n11. estanho;\n\n12. bário;\n\n13. berílio;\n\n14. boro;\n\n15. urânio;\n\n16. vanádio;\n\n17. cobalto;\n\n18. tálio;\n\n19. telúrio;\n\n20. prata.\n\n2. Biócidos e seus derivados que não figuram na Lista I.\n\n3. Substâncias que têm um efeito prejudicial no sabor e/ou no cheiro das águas subterrâneas, assim como os compostos susceptíveis de produzir essas substâncias nas águas e torná-las impróprias para o consumo humano.\n\n4. Compostos orgânicos de silício tóxicos ou persistentes e substâncias que podem produzir esses compostos nas águas, com exclusão dos que são biologicamente inofensivos ou que se transformam rapidamente na água em substâncias inofensivas.\n\n5. Compostos inorgânicos de fósforo e fósforo elementar.\n\n6. Fluoretos.\n\n7. Amoníaco e nitritos.\n\n(1) São incluídas na categoria 4 da presente lista certas substâncias inseridas na Lista II, na medida em que têm um poder cancerígeno, mutágeno ou teratógeno."
+  },
+  "c7ee09c718b7d621": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1980L0068 — PT — 23.12.1991 — 001.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31980L0068:PT:NOT) [DIRECTIVA DO CONSELHO de 17 de Dezembro de 1979 relativa à protecção das águas subterrâneas contra a poluição causada por certas substâncias perigosas (80/68/CEE)](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31980L0068:PT:NOT) (JO L 020, 26.1.1980, p.43)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT) | [Directiva do Conselho de 23 de Dezembro de 1991](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT) | L 377 | 48 | 31.12.1991 |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31980L0068:PT:NOT)\n\nDIRECTIVA DO CONSELHO\n\nde 17 de Dezembro de 1979\n\nrelativa à protecção das águas subterrâneas contra a poluição causada por certas substâncias perigosas\n\n(80/68/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100o e 235o.\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#E0003)),\n\nConsiderando que se impõe uma acção com vista à protecção das águas subterrâneas da Comunidade contra a poluição, especialmente a causada por certas substâncias tóxicas, persistentes e bioacumuláveis;\n\nConsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente de 1973 ([4](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#E0004)), completado pelo de 1977 ([5](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#E0005)), prevê um certo número de medidas destinadas a proteger as águas subterrâneas contra certos poluentes;\n\nConsiderando que a Directiva 76/461/CEE do Conselho, de 4 de Maio de 1976, relativa à poluição causada por certas substâncias perigosas lançadas no meio aquático da Comunidade ([6](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#E0006)), prevê, no artigo 4o, a aplicação de uma directiva específica para as águas subterrâneas;\n\nConsiderando que uma disparidade entre as disposições já aplicáveis ou em via de preparação nos diferentes Estados-membros, no que se refere à descarga de certas substâncias perigosas nas águas subterrâneas pode criar condições de concorrência desiguais e ter, por isso, uma incidência directa no funcionamento do mercado comum; que é conveniente, pois, proceder a uma aproximação das legislações prevista no artigo 100o do Tratado;\n\nConsiderando que se torna necessário conjugar essa aproximação das legislações com uma acção por parte das Comunidades no domínio da protecção do ambiente e da melhoria da qualidade de vida; que é conveniente, portanto, prever, nesse domínio, certas disposições específicas; que, náo tendo sido previstos no Tratado os poderes de acção necessários para esse efeito, convém recorrer ao artigo 235o do Tratado;\n\nConsiderando que convém excluir do âmbito de aplicação da presente directiva, por um lado, as descargas dos efluentes domésticos provenientes de certas habitações isoladas e, por outro, as descargas que contenham substâncias constantes das Listas I e II em quantidades e concentrações muito pequenas, em virtude do diminuto perigo de poluição e da dificuldade em exercer um controlo dessas descargas; que é também conveniente excluir as descargas de matérias que contenham substâncias radioactivas, que seráo objecto de uma regulamentação comunitária específica;\n\nConsiderando que, para assegurar uma protecção eficaz das águas subterrâneas da Comunidade, é necessário impedir a descarga de substâncias constantes da Lista I e limitar a descarga de substâncias constantes da Lista II;\n\nConsiderando que é necessário distinguir entre, por um lado, as descargas directas de substâncias perigosas nas águas subterrâneas e, por outro, as acções susceptíveis de conduzir a uma descarga indirecta dessas substâncias;\n\nConsiderando que, com excepção das descargas directas de substâncias cqnstantes na Lista I, que são proibidas a priori, qualquer descarga deve ser submetida a um regime de autorização; que tal autorização só deve ser concedida depois de um estudo do meio receptor;\n\nConsiderando que devem ser previstas excepções ao regime de interdição de descargas nas águas subterrâneas de substâncias constantes da Lista I, após estudo do meio receptor e autorização prévia, se a descarga for efectuada em águas subterrâneas que, de maneira constante, são impróprias para qualquer outro uso, designadamente para usos domésticos ou agrícolas;\n\nConsiderando que é conveniente submeter a um regime específico as recargas artificiais das águas subterrâneas destinadas ao abastecimento de água das populações;\n\nConsiderando que as autoridades competentes dos Estados-membros devem fiscalizar a observância das condições impostas pela autorização, assim como as incidências das descargas nas águas subterrâneas;\n\nConsiderando que deve ser mantido um inventário das autorizações das descargas das substâncias constantes da Lista I e das descargas directas de substâncias constantes da Lista II, efectuadas nas águas subterrâneas, assim como um inventário das autorizações de recargas artificiais das águas subterrneas (SIC! subterrâneas) para a gestão pública;\n\nConsiderando que, na medida em que a República Helénica se tornará membro da Comunidade Económica Europeia a partir de 1 de Janeiro de 1981, de acordo com o acto relativo ás condições de adesão da República Helénica e ás adaptações dos tratados, e tendo em conta a insuficiência da sua infra-estrutura técnica e administrativa, se torna necessário que passe de dois para quatro anos o prazo imposto aos Estados-membros para porem em vigor as disposições legislativas, regulamentares e administrativas indispensáveis para darem cumprimento à presente directiva;\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "327611a10019e1f9": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva tem por objectivo impedir a poluição das águas subterrâneas por substâncias pertencentes ás famílias e grupos de substâncias enunciadas nas Listas I e II do anexo, a seguir denominadas «substâncias constantes das Listas I e II», e reduzir ou eliminar, na medida do possível, as consequências da sua actual poluição.\n\n2. Na acepção da presente directiva, entende-se por:\n\na) «Águas subterrâneas», quaisquer águas que se encontrem sob a superfície do solo na zona de saturação e que estão em contacto directo com o solo ou subsolo;\n\nb) «Descarga directa», a introdução nas águas subterrâneas de substâncias constantes das Listas I e II sem encaminhamento no solo ou no subsolo;\n\nc) «Descarga indirecta», a introdução nas águas subterrâneas de substâncias constantes das Listas I e II após encaminhamento no solo ou subsolo;\n\nd) «Poluição», a descarga de substâncias ou energia efectuada pelo homem nas águas subterrâneas, directa ou indirectamente, e que tenha consequências de natureza a pór em perigo a saúde humana ou o abastecimento de água, a prejudicar os recursos vivos e o sistema ecológico aquático ou ainda outras utilizações legítimas das águas."
+  },
+  "350685e041be76d3": {
+   "fragment_id": "Artigo 2",
+   "type": "artigo",
+   "heading": "Artigo 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2\n\nA presente directiva não se aplica:\n\na) As descargas dos efluentes domésticos provenientes de habitações isoladas, que não estão ligadas a uma rede de esgotos e se encontram situadas fora das zonas de protecção de captações de água destinada ao consumo humano;\n\nb) As descargas que a autoridade competente do Estado-membro em questão verificou conterem substâncias constantes das Listas I e II em quantidade e concentração tão pequenas que excluem qualquer perigo presente ou futuro de degradação da qualidade das águas subterrâneas receptoras;\n\nc) Ás descargas de matérias que contenham substâncias radioactivas."
+  },
+  "3a2a22a5b4700fe6": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Para cumprimento da obrigação prevista na alínea a) do artigo 3o, os Estados-membros:\n\n— proíbem qualquer descarga directa de substâncias constantes da Lista I,\n\n— submetem a uma investigação prévia as acções de eliminação ou de depósito para eliminar essas substâncias, susceptíveis de levar a uma descarga indirecta. Em face do resultado da investigação, os Estados-membros proibem essa acção ou concedem uma autorização, desde que sejam respeitadas todas as precauções técnicas necessárias para impedir essa descarga,\n\n— tomam as medidas adequadas que julgarem necessárias para evitar qualquer descarga indirecta de substâncias constantes da Lista I, devido a acções efectuadas à superfície ou no interior do solo diferentes das mencionadas no segundo travessão. Desse facto informam a Comissão, que, à luz dessas informações, pode submeter ao Conselho propostas de revisão da presente directiva.\n\n2. Todavia, se uma investigação prévia revelar que as águas subterrâneas nas quais se prevê uma descarga de substâncias constantes da Lista I, são permanentemente impróprias para qualquer uso, designadamente para uso doméstico ou agrícola, os Estados-membros podem autorizar a descarga dessas substâncias, desde que a presença delas não entrave a exploração dos recursos do solo.\n\nTais autorizações só podem ser concedidas se forem respeitadas todas as precauções técnicas, a fim de que essas substâncias não possam atingir outros sistemas aquáticos ou prejudicar outros ecossistemas.\n\n3. Os Estados-membros podem, após investigação prévia, autorizar as descargas devidas à reinjecção, na mesma toalha de água, das águas de uso geotérmico, de esgotamento de minas e de pedreiras ou das águas aspiradas em certos trabalhos de constução civil."
+  },
+  "de0bece6e5585064": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Para curnprimento da obrigação prevista na alínea b) do artigo 3o, os Estados-membros submetem a uma investigação prévia:\n\n— qualquer descarga de substâncias constantes da Lista II, de forma a eliminar tais descargas;\n\n— as acções de eliminação ou de depósito com vista a eliminar essas substâncias, susceptíveis de levar a uma descarga indirecta.\n\nEm face dos resultados dessa investigação, os Estados-membros podem conceder qualquer autorização desde que sejam respeitadas todas as precauções técnicas que permitem evitar a poluição das águas subterrâneas por essas substâncias.\n\n2. Os Estados-membros tomam ainda as medidas adequadas que julgarem necessárias para limitar qualquer descarga de substâncias constantes da Lista II, devido a acções efectuadas à superfície ou no interior do solo diferentes das mencionadas no n.o 1."
+  },
+  "98bfb2fb9139ea31": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nPor derrogação dos artigos 4.o e 5.o, as recargas artificiais das águas subterrâneas para a gestão pública dessas águas ficam sujeitas a uma autorização especial, concedida, caso a caso, pelos Estados-membros. Tal autorização só é concedida se não houver risco de poluição das águas subterrâneas."
+  },
+  "5e98f65b79611c61": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nAs investigações prévias previstas nos artigos 4.o e 5.o devem incluir um estudo das condições hidrogeológicas da respectiva zona, do eventual poder depurador do solo e subsolo, dos riscos de poluição e alteração da qualidade das águas subterrâneas pela descarga e determinar se, do ponto de vista do ambiente, a descarga nessas águas constitui uma solução adequada."
+  },
+  "6c7535550cdf19d7": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nAs autorizações previstas nos artigos 4.o, 5.o e 6.o só podem ser concedidas pelas autoridades competentes dos Estados-membros após ser verificado que o controlo continuo das águas subterrâneas, e especialmente da sua qualidade, está assegurado."
+  },
+  "7c91c736fb9c48c9": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nQuando uma descarga directa for autorizada de acordo com os nos 2 e 3 do artigo 4.o, ou com o artigo 5.o, ou quando uma acção de eliminação de águas usadas que conduz inevitavelmente a uma descarga indirecta for autorizada de acordo com o artigo 5.o, a autorização deve determinar designadamente:\n\n— o local da descarga;\n\n— a técnica da descarga;\n\n— as precauções indispensáveis tendo especialmente em conta a natureza e a concentração das substâncias presentes nos efluentes, as características do meio receptor, assim como a proximidade das captações de água, especialmente de água potável, termal e mineral;\n\n— a quantidade máxima admissível de uma substância nos efluentes durante um ou vários períodos determinadose as condições apropriadas para a concentração dessas substâncias;\n\n— os dispositivos que permitem o controlo dos efluentes evacuados nas águas subterrâneas;\n\n— se necessário, as medidas que permitem o controlo contínuo das águas subterrâneas, e designadamente da sua qualidade."
+  },
+  "3b76da1ef0371cfb": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nQuando, de acordo com os artigos 4.o e 5.o, for autorizada uma acção de eliminação ou de depósito com vista à elirninação, susceptível de conduzir a uma descarga indirecta, essa autorização deve determinar designadamente:\n\n— o local onde se situa essa acção;\n\n— os métodos de eliminação ou de depósito utilizados;\n\n— as precauções indispensáveis, tendo em conta especialmente a natureza e a concentração das substâncias presentes nas matérias a eliminar ou a pôr em depósito, as características do meio receptor, assim como a proximidade das captações de água, especialmente de água potável, termal e mineral;\n\n— a quantidade máxima admissível, durante um ou vários períodos determinados, das matérias que contém substâncias constantes das Listas I e II e, se possível, dessas próprias substâncias, a eliminar ou a pôr em depósito, assim como as condições apropriadas relativas à concentração dessas substâncias;\n\n— para os casos previstos no n.o 1 do artigo 4.o, e no n.o 1 do artigo 5.o, as precauções técnicas a tomar para impedir qualquer descarga de substâncias constantes da Lista I nas águas subterrâneas e evitar a poluição dessas águas por substâncias constantes da Lista II;\n\n— se necessário, as medidas que permitem o controlo das águas subterrâneas, e designadamente da sua qualidade."
+  },
+  "e3e9bb1715067d9c": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nAs autorizações previstas nos artigos 4.o e 5.o só podem ser concedidas por um período limitado; devem ser revistas, pelo menos, de quatro em quatro anos e podem ser prorrogadas, modificadas ou revogadas."
+  },
+  "063576a85d1a1ba2": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. Se o requerente de uma autorização, nos termos dos artigos 4.o ou 5.o, declarar que não se encontra em posição de respeitar as condições que lhe são impostas ou se a autoridade competente do Estado-membro em questão verificar essa impossibilidade, a autorização é recusada.\n\n2. Se as condições impostas numa autorização não forem respeitadas, a autoridade competente do Estado-membro em questão toma as medidas convenientes de forma a que as condições sejam cumpridas; se necessário, revoga a autorização."
+  },
+  "8c82a868a9085a91": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nPara as descargas de substâncias constantes das Listas I e II existentes aquando da notificação da presente directiva, os Estados-membros podem prever um prazo máximo de quatro anos depois da entrada em vigor das disposições previstas no n.o 1 do artigo 21.o, decorrido o qual esses descargas devem obedecer ao estipulado na presente directiva."
+  },
+  "47babd34381a0bcb": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nAs autoridades competentes dos Estados-membros mantêm um inventário das autorizações previstas no artigo 4.o, das descargas de substâncias constantes da Lista I, das autorizações previstas no artigo 5.o das descargas directas de substâncias constantes da Lista II e das autorizações previstas no artigo 6.o."
+  },
+  "5635652e39c226c4": {
+   "fragment_id": "Artigo 16o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+   "type": "artigo",
+   "heading": "Artigo 16o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991L0692:PT:NOT)\n\n1. De três em três anos os Estados-membros transmitirão à Comissão informações sobre a aplicação da presente directiva, no âmbito de um relatório sectorial que abranja igualmente as outras directivas comunitárias pertinentes. Esse relatório deve ser elaborado com base num questionário ou num esquema elaborado pela Comissão de acordo com o procedimento previsto no artigo 6.o da Directiva 91/692/CEE ([7](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#E0007)). Esse questionário ou esquema deve ser enviado aos Estados-membros seis meses antes do início do período abrangido pelo relatório. O relatório deve ser enviado à Comissão num prazo de nove meses a contar do final de período de três anos a que se refere.\n\nO primeiro relatório abrangerá o período de 1993 a 1995, inclusive.\n\nA Comissão publicará um relatório comunitário sobre a aplicação da directiva num prazo de noves meses a contar da recepção dos relatórios dos Estados-membros.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31980L0068:PT:NOT)\n\n2 As informações recolhidas nos termos do presente artigo só podem ser utilizadas para o fim para que foram pedidas.\n\n3. A Comissão e as autoridades competentes dos Estados-membros, assim como os respectivos funcionários e outros agentes, não podem divulgar as informações que obtiveram em aplicação da presente directiva e que, pela própria natureza, ficam abrangidas pelo segredo profissional.\n\n4. Os nos 2 e 3 não obstam à publicação de informaçõesgerais ou de estudos que não contenham indicações individuais sobre as empresas ou associações de empresas."
+  },
+  "b40f7a4afba967b3": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, no prazo de dois anos a contar da sua notificação, e desse facto informam imediatamente a Comissão.\n\nTodavia, este prazo é alargado para quatro anos para a República Helénica, sob reserva da sua adesão em 1 de Janeiro de 1981.\n\n2. Os Estados-membros comunicam à Comissão o texto das disposições principais de direito nacional que adoptarem no domínio regulado pela presente directiva.\n\n3. Logo que um Estado-membro fizer entrar em vigor as disposições previstas no n.o 1, as disposições da Directiva 76/464/CEE, relativas ás águas subterrâneas, deixam de ser aplicáveis."
+  },
+  "a47572af5b3e6f06": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "ac77e7c0468f2a79": {
+   "fragment_id": "ANEXO — LISTA I DE FAMÍLIAS E GRUPOS DE SUBSTÂNCIAS",
+   "type": "divisao",
+   "heading": "ANEXO — LISTA I DE FAMÍLIAS E GRUPOS DE SUBSTÂNCIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — LISTA I DE FAMÍLIAS E GRUPOS DE SUBSTÂNCIAS\n\nA Lista I compreende as substâncias individuais que fazem parte das famílias e grupos de substâncias a seguir enumerados, com excepção das substâncias que são consideradas inadequadas para a Lista I, em função do diminuto perigo de toxicidade, de persisténcia e de bioacumulação.\n\nEssas substâncias que, quanto à toxicidade, persistência e bioacumulação, são adequadas para a Lista II, devem ser classificadas na Lista II.\n\n1. Compostos orgánicos de halogénio e substâncias que podem produzir esses compostos no meio aquático.\n\n2. Compostos orgânicos de fósforo.\n\n3. Compostos orgânicos de estanho.\n\n4. substâncias que possuem um poder cancerígeno, mutágeno ou teratógeno no meio aquático ou por intermédio deste ([8](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#E0008)).\n\n5. Mercúrio e compostos de mercúrio.\n\n6. Cádmio e compostos de cádmio.\n\n7. Óleos minerais e hidrocarburetos.\n\n8. Cianetos.\n\nLISTA II DE FAMÍLIAS E GRUPOS DE SUBSTÂNCIAS\n\nA Lista II compreende as substâncias individuais e as categorias de substâncias que fazem parte das famílias e grupos de substâncias a seguir enumerados e que podem ter um efeito prejudicial nas águas subterrâneas.\n\n1. Metalóides e metais a seguir indicados, assim como os respectivos compostos:\n\n1. zinco;\n\n2. cobre;\n\n3. níquel;\n\n4. crómio;\n\n5. chumbo;\n\n6. selénio;\n\n7. arsénico;\n\n8. antimónio;\n\n9. molibdeno;\n\n10. titânio;\n\n11. estanho;\n\n12. bário;\n\n13. berílio;\n\n14. boro;\n\n15. urânio;\n\n16. vanádio;\n\n17. cobalto;\n\n18. tálio;\n\n19. telúrio;\n\n20. prata\n\n2. Biócidos e seus derivados que não figuram na Lista I.\n\n3. Substâncias que têm urn efeito prejudicial no sabor e/ou no cheiro das águas subterrâneas, assim como os compostos susceptíveis de produzir essas substâncias nas águas e torná-las impróprias para o consumo humano.\n\n4. Compostos orgânicos de silício tóxicos ou persistentes e substâncias que podem produzir esses compostos nas águas, com exclusão dos que são biologicamente inofensivos ou que se transformam rapidamente na água em substâncias inofensivas.\n\n5. Compostos inorgânicos de fósforo e fósforo elementar.\n\n6. Fluoretos.\n\n7. Amoníaco e nitritos.\n\n([1](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#src.E0001)) JO no C 37 de 14. 2. 1978, p. 3.\n\n([2](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#src.E0002)) JO no C 296 de 11. 12. 1978, p. 35.\n\n([3](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#src.E0003)) JO no C 283 de 27. 11. 1978, p. 39.\n\n([4](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#src.E0004)) JO no C 112 de 20. 12. 1973, p. 3.\n\n([5](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#src.E0005)) JO no C 139 de 13. 6. 1977, p. 3.\n\n([6](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#src.E0006)) JO no L 129 de 18. 5. 1976, p. 23.\n\n([7](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#src.E0007)) JO no L 377 de 31. 12. 1991, p. 48.\n\n([8](http://publications.europa.eu/resource/cellar/4c82f675-ecc0-4ec4-9479-ac71e7e9285f.0018.02/DOC_1#src.E0008)) São incluídas na categoria 4 da presente lista certas substâncias inseridas na Lista II, na medida em que têm um poder cancerígeno, mutágeno ou teratógeno."
+  },
+  "93071b9f8a96497d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1980L0068 — PT — 22.12.2013 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31980L0068) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31980L0068) [de 17 de Dezembro de 1979](http://publications.europa.eu/resource/celex/31980L0068) [relativa à protecção das águas subterrâneas contra a poluição causada por certas substâncias perigosas](http://publications.europa.eu/resource/celex/31980L0068) [(80/68/CEE)](http://publications.europa.eu/resource/celex/31980L0068) (JO L 020, 26.1.1980, p.43)\n\n**revogado por:**\n\n- [DIRECTIVA 2000/60/CE do Parlamento Europeu e do Conselho de 23 de Outubro de 2000](http://publications.europa.eu/resource/celex/32000L0060) — L 327 — 1 — 22.12.2000"
+  }
+ }
+}

@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:451223:por
+title: Despacho Normativo n.º 119/83
+short_title: null
+summary: Dá nova redacção ao artigo 4.º, n.º 5, alínea c), do Despacho Normativo n.º 375/79, de 24 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Trabalho - Gabinete do Ministro
+proposing_entity: null
+official_number: 119/83
+official_date: null
+publication_date: '1983-05-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/1983, Série I de 1983-05-17
+  number: '113'
+  series: I
+  supplement: null
+  pages: 1790 - 1790
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11300/17901790.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '451223'
+  dre_path: /dr/detalhe/despacho-normativo/119-1983-451223
+  internal: pt:dre:451223:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/119-1983-451223
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/119-1983-451223
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:22:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1ba42701c7fe5203bb38feba0c8fb6d861503f9f3d2223f819c8221b5126b42e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:22:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Desemprego
+- Emprego
+- Subsídio de Desemprego
+- Trabalho
+relationships:
+- type: cites
+  target: pt:dre:365896:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:22:31Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 119/83
+
+Considerando que o regime jurídico constante do [Despacho Normativo n.º 375/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/375-1979-365896), de 24 de Dezembro, prevê uma tramitação processual simplificada tendo em vista a consecução atempada de soluções oportunas e eficazes face aos interesses em causa;
+
+Considerando que aquelas não devem ver reduzido o seu alcance útil, provocado por dificuldades de cabimentação orçamental:
+
+Nestes termos, estabelece-se que:
+
+1 - O artigo 4.º, n.º 5, alínea c), do [Despacho Normativo n.º 375/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/375-1979-365896), de 24 de Dezembro, passa a ter a seguinte redacção:
+
+###### ARTIGO 4.º — (Processo administrativo)
+
+...
+
+5 - ...
+
+a) ...
+
+b) ...
+
+c) Processamento, através do Instituto do Emprego e Formação Profissional (IEFP), dos apoios financeiros concedidos por este diploma referentes a empresas com 50 ou menos postos de trabalho, sendo os restantes processados através do Gabinete de Gestão do Fundo de Desemprego (GGFD).
+
+2 - O presente diploma poder-se-á aplicar, por necessidades orçamentais, a quaisquer apoios cujo processamento esteja previsto que seja efectuado através do IEFP.
+
+Ministério do Trabalho, 22 de Abril de 1983. - O Ministro do Trabalho, Luís Alberto Ferrero Morales.

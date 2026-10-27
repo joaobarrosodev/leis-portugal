@@ -1,0 +1,727 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:123025739:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-124568069",
+ "dre_path": "/dr/detalhe/decreto-lei/92-2019-123025739",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-07-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124572087",
+    "124572088",
+    "124572089",
+    "124572090",
+    "124572091",
+    "124572092",
+    "124572093",
+    "124572094",
+    "124572095",
+    "124572096",
+    "124572097",
+    "124572098",
+    "124572099",
+    "124572100",
+    "124572101",
+    "124572102",
+    "124572103",
+    "124572104",
+    "124572105",
+    "124572106",
+    "124572107",
+    "124572108",
+    "124572109",
+    "124572110",
+    "124572111",
+    "124572112",
+    "124572113",
+    "124572114",
+    "124572115",
+    "124572116",
+    "124572117",
+    "124572118",
+    "124572119",
+    "124572120",
+    "124572121",
+    "124572122",
+    "124572123",
+    "124572124",
+    "124572125",
+    "124572126",
+    "124572127",
+    "124572128",
+    "124572129",
+    "124572130",
+    "124572131",
+    "124572132",
+    "124572133",
+    "124572134",
+    "124572135",
+    "124572136",
+    "124572137",
+    "124572138",
+    "124572139",
+    "124572140",
+    "124572141",
+    "124572142",
+    "124572143",
+    "124572144",
+    "124572146",
+    "124572147",
+    "124572148"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:124539894:por",
+     "title": "Declaração de Retificação n.º 40-B/2019",
+     "published": "2019-09-06",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/40-b-2019-124539894",
+     "date": "2019-07-11"
+    }
+   ]
+  },
+  {
+   "date": "2023-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213706992:por",
+     "title": "Lei n.º 25/2023",
+     "published": "2023-05-30",
+     "dre_path": "/dr/detalhe/lei/25-2023-213706992"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Anexo II",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "124572087",
+    "124572088",
+    "124572089",
+    "124572090",
+    "124572091",
+    "124572092",
+    "124572093",
+    "124572094",
+    "124572095",
+    "124572096",
+    "124572097",
+    "124572098",
+    "124572099",
+    "124572100",
+    "124572101",
+    "124572102",
+    "124572103",
+    "124572104",
+    "124572105",
+    "124572106",
+    "124572107",
+    "124572108",
+    "124572109",
+    "124572110",
+    "124572111",
+    "124572112",
+    "124572113",
+    "124572114",
+    "124572115",
+    "124572116",
+    "124572117",
+    "124572118",
+    "124572119",
+    "124572120",
+    "124572121",
+    "124572122",
+    "124572123",
+    "124572124",
+    "124572125",
+    "213749679",
+    "213749680",
+    "124572128",
+    "124572149",
+    "124572130",
+    "124572131",
+    "124572132",
+    "124572133",
+    "124572134",
+    "124572135",
+    "124572136",
+    "124572137",
+    "124572138",
+    "124572139",
+    "124572140",
+    "124572141",
+    "124572142",
+    "124572143",
+    "124572144",
+    "124572145",
+    "124572150",
+    "213749681",
+    "213749682"
+   ]
+  }
+ ],
+ "fragments": {
+  "124572087": {
+   "fragment_id": "124568070",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 92/2019\n\nde 10 de julho\n\nA Estratégia Nacional para a Conservação da Natureza e Biodiversidade para 2030 (ENCNB 2030), aprovada pela Resolução do Conselho de Ministros n.º 55/2018, de 7 de maio, propugna uma visão de longo prazo para a melhoria do estado de conservação do património natural, através de uma progressiva apropriação pela sociedade da importância e do valor da biodiversidade no desenvolvimento do país, identificando medidas destinadas a preservá-la face às principais ameaças que se perspetivam hoje e num futuro próximo. A proliferação das espécies exóticas que ameaçam os ecossistemas, habitats ou espécies é aí identificada como uma das principais ameaças à biodiversidade e que afeta os valores naturais no território, sendo a revisão do quadro legislativo nacional uma das medidas preconizadas para a combater e reforçar a conservação da natureza.\n\nO presente decreto-lei, ao proceder à revisão do regime instituído pelo Decreto-Lei n.º 565/99, de 21 de dezembro, concretiza uma das medidas previstas na ENCNB 2030, permitindo, simultaneamente, dar plena execução no ordenamento jurídico nacional ao regime instituído pelo Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014, relativo à prevenção e gestão da introdução e propagação de espécies exóticas invasoras.\n\nNum quadro de necessária adaptação à rápida mutação da sociedade e à inovação dos regimes que têm vindo a ser desenvolvidos por instrumentos legislativos de âmbito nacional e internacional, mantêm-se, ainda assim, institutos preventivos do regime que tem vigorado nas últimas duas décadas no nosso país, sobretudo o de restrição máxima à introdução na natureza de espécies exóticas, que apenas deve ser equacionada como uma situação de último recurso e de absoluta excecionalidade da utilização de espécies invasoras, tendo presente que a preservação da biodiversidade depende da efetiva salvaguarda das espécies autóctones que devem ser amplamente protegidas.\n\nCom efeito, num mundo pautado pelo comércio global e pelas alterações climáticas, a complexidade ou impossibilidade de prever com rigor o comportamento de determinadas espécies exóticas, quando livremente transacionadas ou introduzidas na natureza, obriga a uma especial cautela por parte das entidades competentes, quer através da contínua investigação e estudo que permitam um grau de conhecimento razoável para fundamentar uma decisão ponderada sobre a possibilidade de fixação de novas espécies no território, quer através da exigência de especiais requisitos para o efeito e do estabelecimento de condições resolutivas que permitam a todo o tempo fazer cessar e conter qualquer efeito adverso não esperado para a biodiversidade.\n\nPresidiu, portanto, à formulação das soluções consagradas no presente decreto-lei um equilíbrio indispensável à luz da atual sociedade de risco e de incerteza, não deixando de se permitir, por um lado, a inovação, a iniciativa privada e a exploração económica, mas consagrando, por outro lado, regras e mecanismos que assegurem a salvaguarda dos interesses públicos ambientais, de tal modo que esses empreendimentos não comprometam a preservação da biodiversidade e contribuam para um desenvolvimento sustentável dos territórios e do país.\n\nAssim, a introdução na natureza de espécies exóticas é escrutinada à luz do princípio da função social e pública do património natural, bem como do princípio da precaução e, deste modo, restringida às situações em que é demonstrada a sua inocuidade, dependendo para este efeito de autorização do Instituto de Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), ouvido o Instituto Português do Mar e da Atmosfera, I. P. (IPMA, I. P.), no que respeita às espécies marinhas ou que habitam águas de transição.\n\nNo que diz respeito à detenção, criação ou cultivo de espécies exóticas, institui-se um sistema de licenças para a criação de animais para a produção de plantas ou para a detenção de espécies exóticas com fins comerciais, científicos ou pedagógicos, fundado na verificação de determinados pressupostos que excluam o risco de evasão e disseminação ou que o reduzam a uma expressão mínima aceitável. Este licenciamento deverá contribuir para um recenseamento dos criadores e viveiristas de espécies exóticas no nosso país e para o devido acompanhamento, pelas entidades competentes, da sua atividade relativa à reprodução de espécimes de espécies de fauna ou de flora e à respetiva circulação no território nacional. Para esse efeito, é estabelecido como condição de licenciamento a entrega pelos criadores e viveiristas dos elementos necessários à organização de um registo atualizado por parte da autoridade nacional para a conservação da natureza e da biodiversidade.\n\nAtualiza-se, ainda, a terminologia de harmonia com a mais recente legislação que tem vindo a ser aprovada relativamente a espécies exóticas e investe-se numa cultura preventiva, definindo e clarificando as regras e os procedimentos a cumprir pelos interessados na investigação, na produção e no comércio de espécies não autóctones.\n\nEm complemento a este sistema de prevenção, instituem-se mecanismos de monitorização, deteção precoce e reação rápida para conter a propagação de espécies invasoras, que envolve a participação em rede de diversos setores de atividade e níveis de governação, a que acresce a manutenção dos planos de controlo, contenção e controlo e erradicação já previstos nos regimes jurídicos anteriores, mas cuja elaboração ganhará agora uma maior efetividade.\n\nDevido à posição de charneira biogeográfica, Portugal tem uma localização especialmente sensível no que diz respeito à probabilidade de aclimatação de espécies não indígenas disseminadas na natureza, cingindo-se, pois, a utilização de espécies invasoras a situações de absoluta excecionalidade e aos territórios com ocorrências confirmadas em momento prévio ao regime que agora se estabelece. É nestes termos que se prevê um licenciamento excecional para a investigação de espécies invasoras ou para a sua exploração económica, tendo em conta os benefícios sociais e económicos relevantes e procurando acautelar os potenciais efeitos indesejáveis para a manutenção da biodiversidade, nomeadamente através da adoção de mecanismos de monitorização que permitam uma deteção precoce e uma reação rápida face a situações de evasão ou disseminação.\n\nEste regime tem por base uma Lista Nacional de Espécies Invasoras que, sem prejudicar a efetividade e autonomia da lista das espécies que causam preocupação na União, constitui um importante referencial cujo conteúdo é sujeito a alterações no tempo de acordo com a dinâmica inerente ao desenvolvimento do conhecimento científico sobre a fauna e flora não autóctone e à propagação destas no território.\n\nÉ, ainda, criado um regime específico para a produção de espécies que são atualmente usadas na aquicultura e na agricultura, incluídas no anexo III ao presente decreto-lei, com vista à salvaguarda de efeitos indesejados na conservação da natureza e da biodiversidade. A produção destas espécies pode ocorrer, assim, apenas nas áreas fixadas para o efeito nos instrumentos de gestão territorial e nos instrumentos de ordenamento marítimo, para as quais são elaborados planos de controlo.\n\nEm contraponto, e em benefício de uma maior clareza e segurança jurídicas, é instituída, em termos inovadores, uma lista com as espécies exóticas cuja introdução e ocorrência sem efeitos adversos no território nacional, ou parte dele, estão já identificadas e confirmadas, não justificando, assim, a aplicação das regras do presente regime e do qual ficam isentas.\n\nPor fim, adapta-se o quadro sancionatório ao regime das contraordenações ambientais constante da Lei n.º 50/2006, de 29 de agosto, na sua redação atual.\n\nForam ouvidos os órgãos próprios de Governo das Regiões Autónomas.\n\nFoi promovida a audição da Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 19/2014, de 14 de abril que aprovou as Bases da Política do Ambiente, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "124572088": {
+   "fragment_id": "124568071",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "124572089": {
+   "fragment_id": "124568072",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente decreto-lei estabelece o regime jurídico aplicável ao controlo, à detenção, à introdução na natureza e ao repovoamento de espécies exóticas e assegura a execução, na ordem jurídica nacional, do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014, relativo à prevenção e gestão da introdução e propagação de espécies exóticas invasoras.\n\n2 - O regime jurídico referido no número anterior abrange todas as espécies exóticas, incluindo as espécies invasoras identificadas nos termos do presente decreto-lei.\n\n3 - O regime jurídico referido no n.º 1 não se aplica à introdução na natureza, à detenção ou utilização de:\n\na) Organismos geneticamente modificados, ou de produtos que os contenham, objeto de legislação própria;\n\nb) Organismos patogénicos causadores de doenças animais ou humanas, objeto de legislação própria de proteção sanitária ou saúde humana;\n\nc) Organismos prejudiciais aos vegetais e produtos vegetais, objeto de legislação própria de proteção fitossanitária;\n\nd) Microrganismos fabricados ou importados para utilização em produtos fitofarmacêuticos já autorizados na União Europeia ou em relação aos quais esteja em curso uma avaliação nos termos do Regulamento (CE) n.º 1107/2009 do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, relativo à colocação dos produtos fitofarmacêuticos no mercado;\n\ne) Microrganismos fabricados ou importados para utilização em produtos biocidas já autorizados na União Europeia ou em relação aos quais esteja em curso uma avaliação nos termos do Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho, de 22 de maio de 2012, relativo à disponibilização no mercado e à utilização de produtos biocidas;\n\nf) Organismos utilizados como auxiliares na luta biológica, quando previstos em legislação própria;\n\ng) Organismos aquáticos nocivos e agentes patogénicos provenientes das águas de lastro e sedimentos dos navios, objeto de legislação própria;\n\nh) Espécies objeto de exploração agrícola, hortícola, frutícola e vitícola quando incluídas nos catálogos oficiais, comuns ou nacionais, de variedades das referidas espécies.\n\n4 - A lista atualizada de espécies exóticas não incluídas na Lista Nacional de Espécies Invasoras criada ao abrigo do presente decreto-lei, cuja introdução e ocorrência num determinado território, ou parte dele, estão já identificadas e confirmadas pelo Instituto da Conservação da Natureza e das Florestas, I. P., (ICNF, I. P.), ouvido o Instituto Português do Mar e da Atmosfera, I. P. (IPMA, I. P.), no que respeita a espécies marinhas ou de águas de transição, é disponibilizada em lista da responsabilidade do ICNF, I. P., e publicitada no respetivo sítio na Internet."
+  },
+  "124572090": {
+   "fragment_id": "124568073",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Análise de risco» - procedimento pelo qual se avaliam as consequências da introdução na natureza e a probabilidade de estabelecimento no meio natural de uma espécie exótica;\n\nb) «Animal de companhia de espécie exótica» - qualquer animal de espécie exótica detido ou destinado a ser detido pelo homem, designadamente em sua casa, para seu entretenimento e enquanto companhia ou ornamento;\n\nc) «Contenção» - ações destinadas a criar barreiras que minimizem o risco de uma população de uma espécie invasora se dispersar e propagar para além da área invadida;\n\nd) «Controlo da população» - ações letais ou não letais aplicadas a uma população de uma espécie invasora com vista a manter o número de indivíduos o mais baixo possível, minimizando a sua capacidade invasora e os impactos negativos na biodiversidade e nos serviços dos ecossistemas a ela associados, na saúde humana ou na economia;\n\ne) «Criadores, viveiristas ou produtores de sementes» - pessoas singulares ou coletivas que procedem à produção, reprodução ou propagação de espécimes de espécies de fauna ou de flora e que promovem a sua circulação, seja por doação, cedência, troca ou comercialização;\n\nf) «Erradicação» - ações letais ou não letais aplicadas a uma população de uma espécie invasora com vista à sua eliminação completa e permanente num dado território;\n\ng) «Espaço confinado» - instalações fechadas para a manutenção de organismos, das quais não é possível a evasão ou a disseminação;\n\nh) «Espécie» - conjunto de indivíduos inter-reprodutores com a mesma morfologia hereditária e um ciclo de vida comum, incluindo quaisquer categorias taxonómicas inferiores ou as suas populações geograficamente isoladas;\n\ni) «Espécie exótica» - qualquer espécime vivo de uma espécie, subespécie ou categoria taxonómica inferior de animais, plantas, fungos ou microrganismos introduzido fora da sua área de distribuição natural, incluindo quaisquer partes, gâmetas, sementes, ovos ou propágulos dessa espécie, bem como quaisquer híbridos, variedades ou raças, que possam sobreviver e posteriormente reproduzir-se;\n\nj) «Espécie invasora» - espécie exótica cuja introdução na natureza ou propagação num dado território ameaça ou tem um impacto adverso na diversidade biológica e nos serviços dos ecossistemas a ela associados, ou tem outros impactos adversos;\n\nk) «Espécie indígena» - qualquer espécie originária de um determinado território ou tendo aí área natural de distribuição, passada ou presente, excluindo os seus híbridos com espécies exóticas;\n\nl) «Espécime» - qualquer indivíduo vivo de uma espécie da flora ou da fauna, ou qualquer porção que possa sobreviver ou reproduzir-se, incluindo gâmetas, propágulos, sementes e ovos;\n\nm) «Introdução» - disseminação ou libertação por ação humana, intencional ou acidental, em espaço não confinado, de um ou mais espécimes de uma espécie exótica em território no qual essa espécie não se encontra presente;\n\nn) «Planta ornamental» - toda a planta que se destine a fins ornamentais, quer de interior quer de exterior, independentemente de ser ou não utilizada na produção de flor ou de folhagem de corte;\n\no) «Repovoamento» - disseminação ou libertação, num dado território, de um ou mais espécimes de uma espécie exótica aí previamente introduzida;\n\np) «Risco ecológico» - potencial impacto negativo, suscetível de ameaçar a diversidade biológica e os serviços dos ecossistemas a ela associados num dado território;\n\nq) «Território» - unidade geográfica equivalente ao continente, à plataforma continental ou a cada uma das ilhas das Regiões Autónomas dos Açores e da Madeira e, no caso de espécies dulçaquícolas, a cada uma das bacias hidrográficas."
+  },
+  "124572091": {
+   "fragment_id": "124568074",
+   "type": 11,
+   "heading": "Artigo 3.º — Autoridade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridade competente\n\n1 - O ICNF, I. P., é a autoridade nacional competente nos termos e para os efeitos do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014.\n\n2 - Sem prejuízo do disposto no número anterior, para efeitos dos controlos oficiais referidos no artigo 15.º do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014, são competentes a Direção-Geral de Alimentação e Veterinária (DGAV) e a Autoridade Tributária e Aduaneira (AT).\n\n3 - Para efeitos do disposto no número anterior, a DGAV deve celebrar protocolo com o ICNF, I. P."
+  },
+  "124572092": {
+   "fragment_id": "124572275",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidade licenciadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidade licenciadora\n\nA concessão ou revogação de licenças, e respetivos averbamentos, ao abrigo do presente decreto-lei é da competência do ICNF, I. P."
+  },
+  "124572093": {
+   "fragment_id": "124572276",
+   "type": 1,
+   "heading": "Capítulo II — Prevenção e controlo de espécies exóticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Prevenção e controlo de espécies exóticas"
+  },
+  "124572094": {
+   "fragment_id": "124572277",
+   "type": 8,
+   "heading": "Secção I — Detenção, cultivo e criação e comércio de espécies exóticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Detenção, cultivo e criação e comércio de espécies exóticas"
+  },
+  "124572095": {
+   "fragment_id": "124572278",
+   "type": 11,
+   "heading": "Artigo 5.º — Licença para detenção, cultivo e criação de espécies exóticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Licença para detenção, cultivo e criação de espécies exóticas\n\n1 - É sujeita a licença a detenção, cultivo ou criação, por pessoas singulares ou coletivas, de espécimes de espécies exóticas para fins comerciais, científicos ou pedagógicos, nomeadamente em:\n\na) Jardins botânicos, estufas, viveiros, hortos, lojas de plantas, jardins e outras estruturas produtoras ou fornecedoras de materiais de multiplicação de plantas;\n\nb) Parques zoológicos, safaris, circos e outras atividades de exibição de animais selvagens;\n\nc) Aquários, lojas e outros locais de venda de animais;\n\nd) Instalações para criação de animais.\n\n2 - São isentas da licença referida no número anterior as situações de:\n\na) Detenção, cultivo ou criação de espécimes de espécies exóticas identificadas nos termos do n.º 4 do artigo 1.º, quando circunscritos a um determinado território, ou parte dele, onde a introdução dessa espécie está confirmada;\n\nb) Aquicultura praticada em espaço confinado, com espécies não incluídas na Lista Nacional de Espécies Invasoras referida no artigo 17.º, de acordo com o regime do Regulamento (CE) n.º 708/2007, do Conselho, de 11 de junho de 2007, relativo à utilização na aquicultura de espécies exóticas e de espécies ausentes localmente, na sua redação atual.\n\n3 - A licença referida no n.º 1 dispensa a consulta e a emissão de parecer obrigatório e vinculativo do ICNF, I. P., previstas na alínea f) do n.º 1 do artigo 6.º do Decreto-Lei n.º 40/2017, de 4 de abril, no respeitante à utilização de espécies exóticas em aquicultura."
+  },
+  "124572096": {
+   "fragment_id": "124572279",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições para o licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições para o licenciamento\n\n1 - A licença referida no artigo anterior só pode ser concedida mediante:\n\na) Demonstração do cumprimento dos requisitos mínimos de segurança das instalações destinadas às espécies exóticas que o requerente pretenda deter, em termos que impeçam a sua evasão ou disseminação, de acordo com a legislação específica aplicável;\n\nb) Discriminação do destino previsto para os espécimes das espécies que o requerente pretenda deter, na eventualidade de revogação de licença, suspensão ou cessação da atividade;\n\nc) Entrega, quando aplicável, dos elementos necessários para efeitos de registo de titulares de licenças para cultivo ou criação de espécies exóticas, nos termos do n.º 2 do artigo 9.º\n\n2 - Ficam dispensados do cumprimento da condição prevista na alínea c) do número anterior os criadores e viveiristas que já tenham entregado junto do ICNF, I. P., ao abrigo de outras normas legais ou regulamentares relativas a espécimes vivos de espécies exóticas, os elementos necessários e atualizados para efeitos do registo."
+  },
+  "124572097": {
+   "fragment_id": "124572280",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazos para o pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prazos para o pedido de licenciamento\n\n1 - A licença para detenção, cultivo ou criação de espécimes de espécies exóticas para fins comerciais, científicos ou pedagógicos é emitida no prazo de 45 dias após a receção do respetivo requerimento.\n\n2 - Na ausência de notificação da decisão final sobre o pedido de licenciamento, no prazo referido no número anterior, há lugar a deferimento tácito e emissão de licença nos termos do artigo seguinte."
+  },
+  "124572098": {
+   "fragment_id": "124572281",
+   "type": 11,
+   "heading": "Artigo 8.º — Emissão de licença, renovação e averbamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Emissão de licença, renovação e averbamentos\n\n1 - A emissão ou renovação de uma licença, e respetivos averbamentos, para a detenção, cultivo ou criação de espécies exóticas está sujeita ao pagamento de uma taxa, conforme o disposto no artigo 42.º\n\n2 - A falta de pagamento da taxa, no prazo devido, tem as consequências previstas no artigo 133.º do Código de Procedimento Administrativo."
+  },
+  "124572099": {
+   "fragment_id": "124572282",
+   "type": 11,
+   "heading": "Artigo 9.º — Registo de titulares de licenças para cultivo ou criação de espécies exóticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Registo de titulares de licenças para cultivo ou criação de espécies exóticas\n\n1 - A entidade licenciadora organiza, mantém e atualiza um registo dos titulares das licenças emitidas, ao abrigo dos artigos 5.º e 21.º, para efeitos de criação e produção de espécies exóticas.\n\n2 - Os elementos necessários a fornecer pelos criadores ou viveiristas para efeitos do registo, e os termos para o seu cumprimento, são fixados por portaria do membro do Governo responsável pela área da conservação da natureza."
+  },
+  "124572100": {
+   "fragment_id": "124572283",
+   "type": 11,
+   "heading": "Artigo 10.º — Duração da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Duração da licença\n\n1 - A licença para detenção, cultivo e criação de espécies exóticas é válida pelo prazo de três anos a contar da data da sua emissão.\n\n2 - Há lugar a renovação da licença quando solicitada até 60 dias antes do termo do prazo da licença e uma vez confirmada a manutenção dos requisitos para a sua emissão.\n\n3 - Os prazos referidos nos números anteriores não são aplicáveis às atividades não permanentes de exibição de animais selvagens, sujeitas a licenciamento específico para cada evento."
+  },
+  "124572101": {
+   "fragment_id": "124572284",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos e deveres decorrentes da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos e deveres decorrentes da licença\n\n1 - O titular de licença para a detenção, produção e criação de espécies exóticas tem o direito de as utilizar para os fins previstos nos termos da licença concedida para o efeito, bem como o de solicitar a necessária autorização para a respetiva introdução na natureza de acordo com o previsto na secção II do presente capítulo.\n\n2 - O detentor, produtor e criador de espécies exóticas fica obrigado a:\n\na) Manter as instalações nas condições sanitárias, de bem-estar e de segurança adequadas às espécies exóticas que detenham de acordo com a legislação específica em vigor;\n\nb) Permitir a vistoria das instalações pelas entidades de fiscalização competentes indicadas no presente decreto-lei;\n\nc) Proceder à alteração das suas instalações de acordo com as recomendações e no prazo fixado pelas entidades de fiscalização competentes indicadas no presente decreto-lei;\n\nd) Organizar e manter atualizado um inventário dos espécimes das espécies exóticas que detenha;\n\ne) Fazer a marcação dos espécimes de espécies da fauna exóticas que detenham, quando tecnicamente possível e nos termos indicados na licença, nomeadamente com microchips, anilhas, brincos, tatuagens, telemetria ou outros métodos adequados, de modo a poder ser identificado o respetivo detentor, produtor ou criador em caso de evasão;\n\nf) Dar cumprimento às medidas previstas quanto ao destino dos espécimes que detenha em caso de cessação da atividade ou de revogação da licença para detenção, cultivo ou criação de espécies exóticas;\n\ng) Afixar no seu estabelecimento, no caso de instalações para o comércio de plantas ornamentais ou de animais de companhia, um aviso em local bem visível ao público, conforme o modelo do anexo I ao presente decreto-lei, que dele faz parte integrante, alertando para a responsabilidade dos detentores de espécies exóticas pelo risco da respetiva disseminação ou evasão;\n\nh) Prestar a informação referida na alínea anterior, por escrito, aos adquirentes de espécies exóticas, no caso de comércio de plantas ornamentais ou de animais de companhia, bem como sobre as medidas que podem e devem ser adotadas para evitar o risco de disseminação ou evasão;\n\ni) Manter o registo de vendas de espécies exóticas, com identificação do comprador e comprovativo de que o mesmo foi informado dos riscos associados aos espécimes adquiridos, da responsabilidade por os prevenir e das medidas adequadas para esse efeito.\n\n3 - O detentor, produtor e criador de espécies exóticas deve comunicar de imediato ao ICNF, I. P., logo que detetada, a evasão ou disseminação acidental de qualquer espécime de uma espécie exótica."
+  },
+  "124572102": {
+   "fragment_id": "124572285",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação da licença\n\n1 - Verificando-se o incumprimento das obrigações referidas no n.º 2 do artigo anterior, a entidade licenciadora notifica o infrator para adotar as ações necessárias para evitar a revogação da licença, em prazo não inferior a cinco dias, indicando o modo como o cumprimento das ações a adotar deve ser comunicado e evidenciado.\n\n2 - O incumprimento do disposto no número anterior e do dever de comunicação referido no n.º 3 do artigo anterior por parte do detentor, produtor ou criador determina a revogação da respetiva licença concedida para detenção, cultivo e criação de espécies exóticas.\n\n3 - A prestação de falsas declarações por parte dos titulares de licenças concedidas para detenção, cultivo e criação de espécies exóticas determina a respetiva revogação.\n\n4 - A revogação da licença obriga o detentor, criador ou viveirista de espécies ao cumprimento do disposto na alínea b) do n.º 1 do artigo 6.º\n\n5 - A revogação da licença inibe o infrator de apresentar novo pedido de licenciamento nos três anos seguintes."
+  },
+  "124572103": {
+   "fragment_id": "124572286",
+   "type": 8,
+   "heading": "Secção II — Introdução na natureza de espécies exóticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Introdução na natureza de espécies exóticas"
+  },
+  "124572104": {
+   "fragment_id": "124572287",
+   "type": 11,
+   "heading": "Artigo 13.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Autorização\n\nA introdução na natureza de espécies exóticas está sujeita a autorização do ICNF, I. P., observados os requisitos previstos no artigo seguinte."
+  },
+  "124572105": {
+   "fragment_id": "124572288",
+   "type": 11,
+   "heading": "Artigo 14.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Requisitos\n\n1 - A autorização para a introdução na natureza de uma espécie exótica depende da verificação cumulativa das seguintes condições:\n\na) A entidade requerente ter uma licença para a detenção, criação ou cultivo de espécies exóticas, de vigência superior ao prazo previsto para a introdução na natureza da espécie exótica;\n\nb) A espécie objeto da pretensão não estar incluída na Lista Nacional de Espécies Invasoras criada ao abrigo do presente decreto-lei;\n\nc) A introdução na natureza em causa representar vantagens inequívocas para o homem ou para as biocenoses naturais;\n\nd) Não haver nenhuma espécie indígena apta para o fim pretendido;\n\ne) Análise de risco favorável à introdução na natureza da espécie exótica; e\n\nf) Quando referente a uma introdução na natureza em áreas classificadas, ilhas sem população humana residente, lagoas e lagunas naturais, demonstrar ser a única ação eficaz para a conservação da natureza ou para a salvaguarda da saúde ou segurança públicas.\n\n2 - A análise de risco referida na alínea e) do número anterior, a realizar por entidade externa imparcial, é da responsabilidade do interessado, devendo basear-se em informação científica sobre o risco conhecido relacionado com a introdução na natureza e conter elementos sobre:\n\na) A taxonomia, etologia e ecologia, nomeadamente habitat, dieta e relações interespecíficas da espécie em causa;\n\nb) A biologia da reprodução, as patologias, a capacidade de dispersão e os riscos de hibridação com espécies indígenas;\n\nc) O habitat de suporte, compreendendo a avaliação das consequências da introdução na natureza sobre esse habitat e os circundantes e das medidas apropriadas para reduzir ou minimizar os seus efeitos negativos;\n\nd) Os riscos da introdução na natureza em causa, bem como as medidas que possam ser tomadas para eliminar ou controlar a população introduzida, incluindo a viabilidade e custos das mesmas, caso surjam efeitos imprevistos e danosos dessa introdução na natureza;\n\ne) As introduções da espécie em causa noutros locais, quando tenham ocorrido, e as suas consequências;\n\nf) A identificação da entidade responsável pelo processo de introdução na natureza em causa e a descrição dos métodos a utilizar.\n\n3 - No caso de insuficiência de informação científica que permita a análise de risco ecológico exigida na alínea e) do n.º 1, deve ser apresentado relatório favorável de ensaio controlado, com espécimes da espécie em causa, em local confinado com características ecológicas semelhantes às do território onde se pretende efetuar a introdução na natureza, realizado por entidade competente."
+  },
+  "124572106": {
+   "fragment_id": "124572289",
+   "type": 11,
+   "heading": "Artigo 15.º — Quarentena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Quarentena\n\nOs espécimes autorizados nos termos do presente capítulo podem ser sujeitos a um período de quarentena sanitária específica para cada situação, de acordo com o definido pelas autoridades veterinárias ou fitossanitárias competentes."
+  },
+  "124572107": {
+   "fragment_id": "124572290",
+   "type": 1,
+   "heading": "Capítulo III — Espécies invasoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Espécies invasoras"
+  },
+  "124572108": {
+   "fragment_id": "124572291",
+   "type": 8,
+   "heading": "Secção I — Regime de interdição de espécies invasoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regime de interdição de espécies invasoras"
+  },
+  "124572109": {
+   "fragment_id": "124572292",
+   "type": 11,
+   "heading": "Artigo 16.º — Interdição de espécies invasoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Interdição de espécies invasoras\n\nÉ interdita a detenção, cultivo, criação, comércio, introdução na natureza e o repovoamento de espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras referida no artigo seguinte."
+  },
+  "124572110": {
+   "fragment_id": "124572293",
+   "type": 11,
+   "heading": "Artigo 17.º — Lista Nacional de Espécies Invasoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Lista Nacional de Espécies Invasoras\n\n1 - É criada uma Lista Nacional de Espécies Invasoras constante do anexo II do presente decreto-lei, que dele faz parte integrante, na qual se incluem:\n\na) As espécies exóticas em relação às quais existe informação científica e técnica que permite classificá-las como invasoras em Portugal continental;\n\nb) As espécies exóticas em relação às quais existe informação científica e técnica que permite classificá-las como invasoras nas Regiões Autónomas dos Açores e da Madeira, considerando o disposto no n.º 3 do artigo 43.º;\n\nc) As espécies exóticas consideradas de risco ecológico ou classificadas como invasoras em normas de âmbito nacional ou em instrumentos internacionais ratificados por Portugal;\n\nd) As espécies exóticas invasoras que suscitam preocupação na União, identificadas em lista adotada ao abrigo do Regulamento (UE) n.º 1143/2014, do Parlamento e do Conselho, de 22 de outubro de 2014.\n\n2 - A Lista Nacional de Espécies Invasoras deve ser publicitada no sítio da Internet do ICNF, I. P., enquanto autoridade competente nos termos do artigo 3.º e autoridade nacional para a conservação da natureza e da biodiversidade.\n\n3 - A revisão da Lista Nacional de Espécies Invasoras deve realizar-se com uma periodicidade não superior a seis anos, sem prejuízo de poder ocorrer a qualquer momento, sempre que justificável."
+  },
+  "124572111": {
+   "fragment_id": "124572294",
+   "type": 11,
+   "heading": "Artigo 18.º — Inclusão na lista nacional de espécies invasoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Inclusão na lista nacional de espécies invasoras\n\n1 - O procedimento com vista à inclusão na Lista Nacional de Espécies Invasoras inicia-se oficiosamente ou a requerimento de qualquer interessado, de acordo com modelo de requerimento inicial disponibilizado no sítio na Internet do ICNF, I. P.\n\n2 - Quando o procedimento diga respeito à inclusão de espécies marinhas ou de águas de transição na Lista Nacional de Espécies Invasoras, o ICNF, I. P., em momento prévio à notificação aos interessados do projeto de decisão, deve ouvir o IPMA, I. P., que se pronuncia, querendo, em prazo não superior a dez dias.\n\n3 - A decisão de abertura ou de arquivamento do procedimento para a inclusão na Lista Nacional de Espécies Invasoras é fundamentada, notificada ao interessado e aos respetivos detentores, registados de acordo com o disposto na alínea c) do artigo 6.º, e publicitada no sítio do ICNF, I. P., na Internet indicando-se os efeitos referidos no artigo seguinte.\n\n4 - O projeto de decisão de inclusão na Lista Nacional de Espécies Invasoras é sujeito a audiência prévia dos interessados ou, quando aplicável, a consulta pública, nos termos do Código do Procedimento Administrativo.\n\n5 - A decisão final do procedimento com vista à inclusão na Lista Nacional de Espécies Invasoras cabe ao Governo, sob a forma de decreto-lei, mediante proposta do membro do Governo responsável pela área da conservação da natureza e da biodiversidade."
+  },
+  "124572112": {
+   "fragment_id": "124572295",
+   "type": 11,
+   "heading": "Artigo 19.º — Efeitos da inclusão na Lista Nacional de Espécies Invasoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Efeitos da inclusão na Lista Nacional de Espécies Invasoras\n\n1 - A inclusão de espécies na Lista Nacional de Espécies Invasoras tem como efeitos a sujeição ao disposto no artigo 16.º, nomeadamente:\n\na) Interdição de introdução na natureza ou repovoamento;\n\nb) Interdição de detenção, cedência, compra, venda, oferta de venda, transporte, cultivo, criação ou utilização como planta ornamental ou animal de companhia;\n\nc) Interdição de devolução à natureza de espécimes que sejam capturados ou colhidos no exercício de uma atividade regulada por legislação especial, nomeadamente a caça ou a pesca;\n\nd) Adoção de medidas de gestão adequadas;\n\ne) Erradicação, por parte dos detentores, criadores ou viveiristas, ainda que sem fins comerciais, sem prejuízo do disposto nos números seguintes;\n\nf) A promoção, quando aplicável, dos planos previstos no n.º 1 do artigo 28.º\n\n2 - Aos detentores de animais de companhia, mantidos para fins não comerciais, que sejam incluídos na Lista Nacional de Espécies Invasoras, aplica-se, com as necessárias adaptações, o disposto no artigo 31.º do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014.\n\n3 - Aos titulares de licenças concedidas ao abrigo do disposto no n.º 1 do artigo 5.º, relativamente a espécies que sejam incluídas na Lista Nacional de Espécies Invasoras, aplica-se, com as necessárias adaptações, o disposto no n.º 1 do artigo 32.º do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014."
+  },
+  "124572113": {
+   "fragment_id": "124572296",
+   "type": 11,
+   "heading": "Artigo 20.º — Exclusão da Lista Nacional de Espécies Invasoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Exclusão da Lista Nacional de Espécies Invasoras\n\nAo procedimento com vista à exclusão da Lista Nacional de Espécies Invasoras aplica-se, com as necessárias adaptações, o previsto no artigo 18.º"
+  },
+  "124572114": {
+   "fragment_id": "124572297",
+   "type": 11,
+   "heading": "Artigo 21.º — Licenciamento excecional para espécies invasoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Licenciamento excecional para espécies invasoras\n\n1 - A título excecional, cumpridas as condições previstas no artigo 8.º e, na medida do aplicável, do artigo 9.º, ambos do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014, podem ser emitidas licenças relativamente às espécies incluídas na Lista Nacional de Espécies Invasoras nas seguintes situações:\n\na) A detenção, a cedência, a compra, o transporte, o cultivo e a criação em espaços confinados, quando para fins exclusivamente científicos, por entidades com esse fim no seu objeto social, ou para produção científica e subsequente utilização terapêutica quando inevitável para benefício da saúde humana, e cumpridas as particulares condições de segurança exigidas, atendendo ao risco específico de cada uma das espécies em causa;\n\nb) A utilização de espécies em aquicultura já presentes, à entrada em vigor do presente decreto-lei, num determinado território, ou parte dele, quando praticada em espaço confinado, de acordo com o disposto no n.º 3 do artigo 3.º, no n.º 1 e na alínea a) do n.º 2 do artigo 4.º do Regulamento (CE) n.º 708/2007, do Conselho, de 11 de junho de 2007, na sua redação atual;\n\nc) A exploração económica de determinadas espécies já presentes, à entrada em vigor do presente decreto-lei, num determinado território, ou parte dele, e que seja objeto de reconhecimento de interesse público económico ou social, nos termos previstos no artigo seguinte.\n\n2 - Podem, ainda, ser emitidas licenças, a título excecional, para a detenção, a cedência, a compra, a venda, a oferta de venda e o transporte de espécimes de espécies já presentes, à entrada em vigor do presente decreto-lei, num determinado território, ou parte dele, cuja captura ou colheita esteja prevista em planos de ação ou de controlo, contenção ou erradicação previstos nos termos dos artigos 28.º e 29.º\n\n3 - Às situações referidas nos números anteriores aplicam-se, com as devidas adaptações, as disposições dos artigos 6.º, 8.º, 10.º e 12.º\n\n4 - As licenças referidas nos n.os 1 e 2 podem ser retiradas a qualquer momento pela entidade licenciadora, a título temporário ou definitivo, conforme adequado, no caso de se verificarem efeitos adversos para a biodiversidade ou serviços de ecossistemas associados, com fundamento no conhecimento científico disponível ou, na sua insuficiência, no princípio da precaução."
+  },
+  "124572115": {
+   "fragment_id": "124572298",
+   "type": 11,
+   "heading": "Artigo 22.º — Reconhecimento de interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reconhecimento de interesse público\n\n1 - Mediante despacho dos membros do Governo responsáveis pelas áreas do ambiente, da saúde e da atividade económica ou social em causa, pode, excecionalmente, ser reconhecido o interesse público para as situações previstas na alínea c) do n.º 1 do artigo anterior, desde que não implique repovoamentos nem novas introduções.\n\n2 - O pedido de licença por reconhecido interesse público identifica as medidas de contenção e renaturalização do espaço utilizado no final da exploração ou da eliminação total dos efetivos e é apresentado de acordo com modelo de requerimento inicial disponibilizado no sítio do ICNF, I. P., na Internet.\n\n3 - O ICNF, I. P., é responsável pela instrução do procedimento e proposta de decisão.\n\n4 - O reconhecimento de interesse público económico ou social para o licenciamento de espécies exóticas invasoras que suscitam preocupação na União depende de prévia autorização da Comissão Europeia prevista no artigo 9.º do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014."
+  },
+  "124572116": {
+   "fragment_id": "124572299",
+   "type": 8,
+   "heading": "Secção II — Sistema de gestão, controlo e alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Sistema de gestão, controlo e alerta"
+  },
+  "124572117": {
+   "fragment_id": "124572300",
+   "type": 11,
+   "heading": "Artigo 23.º — Sistema de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Sistema de vigilância\n\n1 - O ICNF, I. P., é responsável pelo desenvolvimento, manutenção e funcionamento de um sistema de vigilância para a recolha e o registo de informações sobre a ocorrência de espécies invasoras, com o intuito de evitar a sua propagação.\n\n2 - O sistema de vigilância referido no número anterior compreende um sistema de informação geográfica dos focos potenciais de invasões biológicas e deve gerir e coordenar a informação disponibilizada pelo público e organizações interessadas e difundir essa informação entre os pontos focais da rede de alerta criada ao abrigo do presente decreto-lei.\n\n3 - O sistema de informação geográfica referido no número anterior é aberto ao público, para assegurar a sua participação na rede de alerta, e é acessível através da plataforma eletrónica disponível no sítio do ICNF, I. P., na Internet."
+  },
+  "124572118": {
+   "fragment_id": "124572301",
+   "type": 11,
+   "heading": "Artigo 24.º — Deteção precoce",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Deteção precoce\n\nA disseminação ou libertação acidental, bem como a observação na natureza em locais onde a sua presença era desconhecida, de espécimes de espécies constantes nos anexos II e III ao presente decreto-lei, deve ser imediatamente comunicada ao ICNF, I. P., preferencialmente através da plataforma eletrónica referida no n.º 3 do artigo anterior."
+  },
+  "124572119": {
+   "fragment_id": "124572302",
+   "type": 11,
+   "heading": "Artigo 25.º — Rede de alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Rede de alerta\n\n1 - É criada uma rede de alerta para a vigilância de espécies invasoras, designada rede de alerta, para a coordenação e a comunicação entre as autoridades competentes.\n\n2 - O ICNF, I. P., é responsável pela implementação e pelo apoio técnico necessário ao funcionamento da rede de alerta.\n\n3 - Integram a rede de alerta o ICNF, I. P., que coordena, e os pontos focais designados pela DGAV para as áreas da sanidade animal e da fitossanidade, pela AT, pela autoridade administrativa da convenção sobre o comércio internacional das espécies de fauna e flora selvagens e ameaçadas de extinção (CITES) principal, pelas autoridades competentes das Regiões Autónomas dos Açores e da Madeira, pela Guarda Nacional Republicana (GNR) e por outras entidades da Administração central com competências no âmbito do presente decreto-lei.\n\n4 - Integram, ainda, a rede de alerta, sob proposta do ICNF, I. P., os pontos focais indicados pelos criadores e viveiristas de espécies usadas em aquicultura e agricultura, nos termos do artigo 31.º\n\n5 - É da responsabilidade dos pontos focais da rede de alerta:\n\na) Informar rapidamente a rede de alerta sobre a disseminação ou libertação acidental, bem como a existência de novos focos ou populações de espécies invasoras e a sua identificação, localização, riscos e extensão;\n\nb) Informar a rede de alerta quanto à possibilidade de uma resposta rápida com ações de erradicação e controlo."
+  },
+  "124572120": {
+   "fragment_id": "124572303",
+   "type": 11,
+   "heading": "Artigo 26.º — Notificação à Comissão Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Notificação à Comissão Europeia\n\n1 - Nos termos do artigo 12.º do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014, o ICNF, I. P., enquanto autoridade nacional, deve informar a Comissão Europeia das espécies incluídas na Lista Nacional de Espécies Invasoras e notificá-la das medidas aplicadas de acordo com o regime do presente decreto-lei.\n\n2 - Nos termos dos artigos 16.º e 17.º do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014, o ICNF, I. P., deve notificar a Comissão Europeia da deteção precoce da presença ou introdução na natureza de espécies invasoras que suscitam preocupação na União e das medidas de erradicação tomadas e resultados obtidos."
+  },
+  "124572121": {
+   "fragment_id": "124572304",
+   "type": 11,
+   "heading": "Artigo 27.º — Medidas preventivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Medidas preventivas\n\n1 - No prazo de três meses após a deteção precoce de uma nova espécie invasora, as entidades competentes devem aplicar medidas de erradicação eficazes para a completa e definitiva remoção da população da espécie exótica invasora em causa, tendo em devida conta a saúde humana e o ambiente.\n\n2 - Caso sejam detetados espécimes de espécies constantes da Lista Nacional de Espécies Invasoras em bens ou produtos existentes no mercado ou em circulação comercial, devem as autoridades competentes imobilizar e isolar esses bens ou produtos até verificarem e garantirem que os mesmos não contêm propágulos ou qualquer porção dessas espécies que possam sobreviver ou reproduzir-se, ou, na impossibilidade dessa garantia, efetuar a sua limpeza, desinfeção ou destruição.\n\n3 - Nas atividades recreativas e desportivas desenvolvidas em águas interiores, as autoridades administrativas responsáveis pela gestão dos recursos hídricos e pela atividade em causa devem sujeitar a medidas de prevenção e controlo as embarcações e outros materiais utilizados, de modo a evitar a introdução ou disseminação acidental nessas águas de espécies constantes da Lista Nacional de Espécies Invasoras."
+  },
+  "124572122": {
+   "fragment_id": "124572305",
+   "type": 11,
+   "heading": "Artigo 28.º — Planos de controlo, contenção ou erradicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Planos de controlo, contenção ou erradicação\n\n1 - As espécies constantes da Lista Nacional de Espécies Invasoras com ocorrência verificada no território nacional devem ser objeto de planos de ação nacionais ou locais com vista ao seu controlo, contenção ou erradicação, os quais podem também abarcar grupos de espécies com características semelhantes.\n\n2 - Para efeitos do número anterior, o ICNF, I. P., identifica de forma atualizada no respetivo sítio na Internet, até seis meses após a primeira ocorrência verificada no território nacional, as espécies do anexo II ao presente decreto-lei a sujeitar, respetivamente, a planos de controlo, contenção ou erradicação, bem como as entidades competentes e o prazo para a respetiva elaboração.\n\n3 - Os planos de ação nacionais são promovidos pelas entidades competentes em razão da matéria, em articulação com o ICNF, I. P., e aprovados por Resolução do Conselho de Ministros.\n\n4 - Os planos de ação locais são promovidos por qualquer entidade pública ou privada com competência ou interesse na matéria, e aprovados pelo ICNF, I. P.\n\n5 - Os planos de ação definem prioridades de atuação de acordo com a gravidade da ameaça e o grau de dificuldade previsto para a erradicação, contenção ou controlo das espécies em causa e devem incluir medidas proporcionais ao impacto ambiental causado e adequadas às circunstâncias específicas de cada território e espécie, com base numa análise de custos e benefícios, compreendendo, tanto quanto possível, a recuperação dos ecossistemas degradados, danificados ou destruídos e a prevenção de novas introduções.\n\n6 - Os modelos dos planos de ação, incluindo os conteúdos referidos no número anterior, são elaborados pelo ICNF, I. P., e disponibilizados no respetivo sítio na Internet.\n\n7 - No âmbito das ações de aplicação dos planos controlo, contenção ou erradicação, devem também ser objeto de monitorização outras espécies constantes da Lista Nacional de Espécies Invasoras, sempre que os seus espécimes possam ser capturados ou colhidos durante essas ações.\n\n8 - Os espécimes de espécies constantes da Lista Nacional de Espécies Invasoras apreendidos numa ação de fiscalização ou recolhidos ou capturados no decorrer de um plano de controlo, contenção ou erradicação são eliminados, exceto quando um plano de controlo lhes preveja outro destino que não permita a sua disseminação ou quando sejam necessários para fins científicos nos termos previstos no presente decreto-lei.\n\n9 - A recolha ou captura de espécies exóticas marinhas ou que habitam águas de transição que integrem a Lista Nacional de Espécies Invasoras são enquadradas em planos de controlo ou de contenção, podendo aí ser previsto destino diverso da eliminação, uma vez salvaguardado o risco de dispersão.\n\n10 - Sempre que estejam em causa espécimes de espécies da fauna, durante os processos de erradicação, contenção ou controlo devem ser adotadas as medidas necessárias para lhes minimizar a dor, a angústia e o sofrimento."
+  },
+  "124572123": {
+   "fragment_id": "124572306",
+   "type": 11,
+   "heading": "Artigo 29.º — Planos de ação para as vias prioritárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Planos de ação para as vias prioritárias\n\n1 - O ICNF, I. P., em articulação com as entidades públicas setorialmente competentes, deve realizar uma análise exaustiva das vias de propagação e introdução acidental na natureza de espécies invasoras, incluindo nas águas marinhas, e identificar as vias de introdução que exigem uma ação prioritária devido ao volume das espécies ou aos danos reais e potenciais causados pelas espécies introduzidas por essas vias.\n\n2 - No prazo previsto no artigo 13.º do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014, e tendo por base a análise das vias de propagação e introdução acidental na natureza referida no número anterior, o ICNF, I. P., propõe os planos de ação que forem necessários para controlar as vias prioritárias identificadas.\n\n3 - Os planos de ação para as vias prioritárias devem incluir os calendários de atuação, definir os meios, os instrumentos financeiros e fiscais e os instrumentos de execução disponíveis para a sua concretização e descrever as medidas a adotar para evitar a introdução na natureza ou o repovoamento de espécies invasoras no território nacional.\n\n4 - Os planos de ação para as vias prioritárias são aprovados por Resolução do Conselho de Ministros."
+  },
+  "124572124": {
+   "fragment_id": "124572307",
+   "type": 11,
+   "heading": "Artigo 30.º — Procedimentos fronteiriços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Procedimentos fronteiriços\n\n1 - Quando detetada, em mercadorias apresentadas para inspeção nos Postos de Inspeção Fronteiriços (PIF), veterinários ou fitossanitários, a presença de espécimes vivos ou propágulos viáveis de espécies incluídas na Lista Nacional de Espécies Invasoras, as mesmas são rejeitadas pela autoridade veterinária ou fitossanitária e o seu importador ou representante é notificado para decidir, num prazo não superior a 48 horas, se os espécimes em causa são destruídos ou devolvidos ao país de origem.\n\n2 - No âmbito das suas atribuições, cabe às autoridades aduaneiras, quer nos terminais de passageiros de portos, quer nos terminais de aeroportos, efetuar controlos visando detetar a presença de plantas ou animais vivos de espécies exóticas e, caso os detetem, comunicar este facto às autoridades competentes, que procedem à sua identificação, e, sendo espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, determinam a sua rejeição, sendo o seu detentor notificado para decidir, num prazo não superior a 48 horas, se os espécimes em causa são destruídos ou devolvidos ao país de origem.\n\n3 - Quando detetada, em mercadorias apresentadas para inspeção nos PIF, a presença acidental, como clandestinos ou contaminantes, de espécimes vivos ou propágulos viáveis de espécies exóticas, as mesmas são retidas pelas autoridades competentes, que procedem à sua identificação e, caso se trate de espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, determinam a rejeição das mercadorias em causa e notificam o seu importador ou representante para decidir, num prazo não superior a 48 horas, se as mesmas são destruídas ou devolvidas ao país de origem ou, caso haja garantia de que ficam livres dos espécimes clandestinos ou contaminantes detetados e dos seus propágulos viáveis, limpas e desinfetadas.\n\n4 - Quando, ao procederem aos respetivos controlos de desalfandegamento, as autoridades aduaneiras detetarem nas mercadorias sujeitas a verificação a presença de espécimes vivos ou propágulos viáveis suspeitos de pertencerem a espécies exóticas, e que não foram apresentados a um PIF, as autoridades aduaneiras suspendem a autorização de saída dos produtos e comunicam o facto às autoridades competentes, que procedem à sua identificação, e, caso se trate de espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, determinam a rejeição das mercadorias em causa, sendo o seu importador ou representante notificado para decidir, num prazo não superior a 48 horas, se os espécimes em causa são destruídos ou devolvidos ao país de origem.\n\n5 - A autoridade competente comunica à alfândega a decisão do importador das mercadorias ou detentor dos espécimes e, consoante a mesma, é responsável conjuntamente com as autoridades aduaneiras pela execução e supervisão da destruição ou eutanásia dos espécimes, da limpeza e desinfeção ou destruição das mercadorias ou da devolução dos espécimes ou das mercadorias em causa ao país de origem.\n\n6 - Os custos resultantes da estadia, eutanásia, destruição, reexpedição, limpeza, desinfeção ou outras medidas destinadas a eliminar os espécimes detetados ou seus propágulos ficam a cargo do importador ou representante das mercadorias ou do detentor dos espécimes em causa.\n\n7 - O disposto nos números anteriores não prejudica a aplicação das normas legais e regulamentares da União Europeia aplicáveis."
+  },
+  "124572125": {
+   "fragment_id": "124572308",
+   "type": 1,
+   "heading": "Capítulo IV — Regime excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime excecional"
+  },
+  "124572126": {
+   "fragment_id": "124572309",
+   "type": 11,
+   "heading": "Artigo 31.º — Espécies usadas em aquicultura e agricultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Espécies usadas em aquicultura e agricultura\n\n1 - Às espécies usadas em aquicultura e agricultura incluídas no anexo III ao presente decreto-lei, aplica-se o previsto no presente capítulo.\n\n2 - Os criadores e viveiristas de espécies referidas no número anterior devem cumprir os deveres de zelo e reporte, nos termos do disposto nos artigos 24.º e 25.º, bem como os planos de controlo previstos no artigo seguinte."
+  },
+  "124572127": {
+   "fragment_id": "124572310",
+   "type": 11,
+   "heading": "Artigo 32.º — Planos de controlo para espécies usadas em aquicultura e agricultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Planos de controlo para espécies usadas em aquicultura e agricultura\n\n1 - Para as espécies incluídas no anexo III ao presente decreto-lei são elaborados planos de controlo.\n\n2 - Os termos e os prazos de elaboração dos planos de controlo, bem como as áreas onde se aplicam, são definidos por portaria aprovada pelos membros do Governo responsáveis pelas áreas do ordenamento do território, da conservação da natureza e da atividade económica em causa.\n\n3 - Quando os instrumentos de gestão territorial e os instrumentos de ordenamento do espaço marítimo nacional definam as áreas para as quais seja permitida a aquicultura ou a agricultura com as espécies incluídas no anexo III ao presente decreto-lei, são estas as que devem ser consideradas para efeito de aplicação dos planos de controlo.\n\n4 - Os planos de controlo devem ser elaborados, na sequência da publicação da portaria referida no n.º 2, pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) ou pela Direção-Geral da Alimentação e Veterinária (DGAV), de acordo com a atividade económica em causa, em articulação com o ICNF, I. P."
+  },
+  "124572128": {
+   "fragment_id": "124572311",
+   "type": 1,
+   "heading": "Capítulo V — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime sancionatório"
+  },
+  "124572129": {
+   "fragment_id": "124572312",
+   "type": 11,
+   "heading": "Artigo 33.º — Contraordenações ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Contraordenações ambientais\n\n1 - Constitui contraordenação ambiental muito grave, punível nos termos da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, a prática dos seguintes atos e atividades:\n\na) A introdução na natureza de qualquer espécie exótica incluída na Lista Nacional de Espécies Invasoras, em violação ao disposto no artigo 16.º e na alínea a) do n.º 1 do artigo 19.º;\n\nb) O repovoamento de espécies exóticas incluídas na Lista Nacional de Espécies Invasoras, em violação ao disposto no artigo 16.º e na alínea a) do n.º 1 do artigo 19.º;\n\nc) A compra, venda, oferta de venda, cultivo, criação ou comércio como planta ornamental ou animal de companhia de espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, em violação ao disposto no artigo 16.º e na alínea c) do n.º 1 do artigo 19.º;\n\nd) O incumprimento das obrigações dos criadores e viveiristas de espécies usadas na aquicultura e na agricultura, em violação do disposto no n.º 5 do artigo 25.º e nos artigos 31.º e 32.º;\n\ne) O incumprimento das particulares condições de segurança exigidas, atendendo ao risco específico das espécies incluídas na Lista Nacional de Espécies Invasoras detidas ou transportadas, em violação ao disposto na alínea a) do n.º 1 do artigo 21.º;\n\nf) O não cumprimento das medidas de renaturalização do espaço utilizado ou de eliminação total de efetivos no final do período de exploração, quando excecionalmente autorizada, de espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, em violação ao disposto na alínea g) do n.º 1 do artigo 21.º e no n.º 2 do artigo 22.º\n\n2 - Constitui contraordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, a prática dos seguintes atos e atividades:\n\na) O não cumprimento das condições sanitárias, de bem-estar ou de segurança adequadas às espécies exóticas detidas, em violação ao disposto na alínea a) do n.º 2 do artigo 11.º;\n\nb) A falta de marcação dos espécimes de espécies da fauna exótica detidos, em violação ao disposto na alínea e) do n.º 2 do artigo 11.º;\n\nc) O não cumprimento das medidas previstas quanto ao destino dos espécimes detidos em caso de cessação da atividade ou de revogação da licença para detenção, cultivo ou criação de espécies exóticas, em violação ao disposto na alínea f) do artigo 11.º e no n.º 3 do artigo 12.º;\n\nd) A introdução na natureza, não autorizada, de espécies exóticas não incluídas na Lista Nacional de Espécies Invasoras, em violação ao disposto no artigo 13.º;\n\ne) O não cumprimento das medidas de quarentena definidas numa autorização de introdução na natureza de uma espécie exótica, em violação ao disposto no artigo 15.º;\n\nf) A detenção, cedência, transporte ou utilização como planta ornamental ou animal de companhia de espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, em violação ao disposto no artigo 16.º e na alínea b) do artigo 19.º;\n\ng) A não retenção e devolução ao meio natural dos espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras que tenham sido colhidos ou capturados, em violação ao disposto na alínea b) do n.º 1 do artigo 21.º;\n\nh) O não cumprimento das condições requeridas para a aquicultura em espaço confinado, em violação ao disposto no n.º 2 do artigo 21.º\n\n3 - Constitui contraordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, a prática dos seguintes atos e atividades:\n\na) A detenção, cultivo ou criação de espécimes de espécies exóticas para fins comerciais, científicos ou pedagógicos sem a necessária licença, em violação ao disposto no n.º 1 do artigo 5.º;\n\nb) Impedir ou de alguma forma dificultar a vistoria, pelas entidades de fiscalização, das instalações de detenção de espécimes de espécies exóticas, em violação ao disposto na alínea b) do n.º 2 do artigo 11.º;\n\nc) A falta do registo, ou a sua não atualização, dos espécimes de espécies exóticas detidos, em violação ao disposto na alínea d) do n.º 2 do artigo 11.º;\n\nd) A falta de afixação nos estabelecimentos para o comércio de plantas ornamentais e de animais de companhia do aviso alertando para os riscos da disseminação ou evasão de espécies exóticas, em violação ao disposto na alínea f) do n.º 2 do artigo 11.º;\n\ne) O não cumprimento do dever de comunicação de qualquer evasão ou disseminação acidental detetada, em violação ao disposto no n.º 3 do artigo 11.º e no artigo 24.º\n\n4 - A condenação pela prática das contraordenações ambientais muito graves previstas no n.º 1, bem como, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstrata aplicável, das contraordenações ambientais graves previstas no n.º 2, é objeto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual."
+  },
+  "124572130": {
+   "fragment_id": "124572313",
+   "type": 11,
+   "heading": "Artigo 34.º — Apreensão cautelar e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Apreensão cautelar e sanções acessórias\n\n1 - A entidade competente para o processamento das contraordenações e aplicação das coimas pode proceder a apreensões cautelares e aplicar as sanções acessórias que se mostrem adequadas, nos termos do disposto na Lei n.º 50/2006, de 29 de agosto, na sua redação atual.\n\n2 - Em caso de apreensão de espécimes de espécies constantes da Lista Nacional de Espécies Invasoras, deve ser observado o disposto no n.º 8 do artigo 28.º"
+  },
+  "124572131": {
+   "fragment_id": "124572314",
+   "type": 11,
+   "heading": "Artigo 35.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Fiscalização\n\nA fiscalização do cumprimento do disposto no presente decreto-lei compete ao ICNF, I. P., às Comissões de Coordenação e Desenvolvimento Regional, às direções regionais de agricultura e pescas, à DGAV, à DGRM, à Agência Portuguesa do Ambiente, I. P., à AT, à GNR e à Polícia de Segurança Pública."
+  },
+  "124572132": {
+   "fragment_id": "124572315",
+   "type": 11,
+   "heading": "Artigo 36.º — Instrução de processos e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Instrução de processos e aplicação de sanções\n\nO ICNF, I. P., é a autoridade competente para o processamento das contraordenações e aplicação das coimas e sanções acessórias previstas nos artigos 33.º e 34.º, sem prejuízo do disposto no artigo 71.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual."
+  },
+  "124572133": {
+   "fragment_id": "124572316",
+   "type": 11,
+   "heading": "Artigo 37.º — Reposição da situação anterior e adoção de medidas minimizadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Reposição da situação anterior e adoção de medidas minimizadoras\n\n1 - Sem prejuízo do procedimento contraordenacional e da aplicação das sanções acessórias, o infrator está obrigado a remover as causas da infração e a repor a situação anterior à sua prática, bem como a minimizar os efeitos decorrentes da mesma ou a adotar as medidas que lhe sejam comunicadas pelo ICNF, I. P., como adequadas à prevenção de danos ambientais.\n\n2 - Sempre que os deveres referidos no número anterior não sejam voluntariamente cumpridos, o ICNF, I. P., atua diretamente por conta do infrator, podendo as respetivas despesas, se necessário, ser cobradas coercivamente através do processo previsto para as execuções fiscais.\n\n3 - Para efeitos do disposto no número anterior, a certidão passada pelo ICNF, I. P., comprovativa das quantias despendidas, serve de título executivo."
+  },
+  "124572134": {
+   "fragment_id": "124572317",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "124572135": {
+   "fragment_id": "124572318",
+   "type": 11,
+   "heading": "Artigo 38.º — Licenças concedidas ao abrigo do Decreto-Lei n.º 565/99, de 21 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Licenças concedidas ao abrigo do Decreto-Lei n.º 565/99, de 21 de dezembro\n\n1 - Os titulares de licenças válidas concedidas nos termos do n.º 4 do artigo 8.º e do artigo 9.º do Decreto-Lei n.º 565/99, de 21 de dezembro, devem solicitar a emissão das licenças previstas nos artigos 5.º e 21.º, após a entrada em vigor do presente decreto-lei, no prazo de 90 dias.\n\n2 - A emissão das licenças referidas no número anterior obedece às normas da secção I do capítulo II, e dos artigos 21.º e 22.º, ficando isentas do pagamento das taxas previstas no artigo 42.º\n\n3 - Até à emissão, pelo ICNF, I. P., das licenças previstas nos artigos 5.º e 21.º, mantêm-se válidas as licenças concedidas nos termos do n.º 4 do artigo 8.º e do artigo 9.º do Decreto-Lei n.º 565/99, de 21 de dezembro, sem prejuízo do regime aplicável às espécies exóticas invasoras que suscitam preocupação na União."
+  },
+  "124572136": {
+   "fragment_id": "124572319",
+   "type": 11,
+   "heading": "Artigo 39.º — Plantas ornamentais detidas sem fins comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Plantas ornamentais detidas sem fins comerciais\n\n1 - Sem prejuízo do regime aplicável às espécies exóticas invasoras que suscitam preocupação na União, os proprietários e os detentores de plantas ornamentais das espécies exóticas incluídas na Lista Nacional de Espécies Invasoras, introduzidas na natureza e mantidas sem fins comerciais ao abrigo do Decreto-Lei n.º 565/99, de 21 de dezembro, aí não identificadas como invasoras ou de risco ecológico, devem informar o ICNF, I. P., da localização desses espécimes e proceder à sua erradicação, no prazo de seis meses a contar da data de entrada em vigor do presente decreto-lei.\n\n2 - Excetuam-se do disposto no número anterior os espécimes detidos em jardins botânicos, que podem ser mantidos em espaço confinado ou desde que adotadas as medidas adequadas para evitar a sua propagação no meio natural, ao abrigo do disposto na alínea a) do n.º 1 do artigo 21.º, ficando interdita a sua comercialização ou cedência.\n\n3 - Até ao termo do prazo para a erradicação prevista no n.º 1, os proprietários e detentores devem adotar as medidas de prevenção adequadas para evitar o repovoamento e novas introduções."
+  },
+  "124572137": {
+   "fragment_id": "124572320",
+   "type": 11,
+   "heading": "Artigo 40.º — Animais de companhia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Animais de companhia\n\nAos proprietários e detentores de animais de companhia, mantidos sem fins comerciais, ao abrigo do Decreto-Lei n.º 565/99, de 21 de dezembro, aí não identificados como invasores ou de risco ecológico, e que integrem a Lista Nacional de Espécies Invasoras, aplica-se o disposto no n.º 2 do artigo 19.º"
+  },
+  "124572138": {
+   "fragment_id": "124572321",
+   "type": 11,
+   "heading": "Artigo 41.º — Operadores comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Operadores comerciais\n\nAos operadores comerciais que se dediquem à produção e exploração de espécimes de espécies ao abrigo do Decreto-Lei n.º 565/99, de 21 de dezembro, aí não identificadas como invasoras ou de risco ecológico, e que integrem agora a Lista Nacional de Espécies Invasoras, aplica-se o disposto no n.º 3 do artigo 19.º"
+  },
+  "124572139": {
+   "fragment_id": "124572322",
+   "type": 11,
+   "heading": "Artigo 42.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Taxas\n\n1 - A emissão ou renovação das licenças previstas nos artigos 5.º e 21.º, e respetivos averbamentos, é sujeita a taxas, cujo montante é definido por portaria aprovada pelos membros do Governo responsáveis pelas áreas das finanças e do ambiente.\n\n2 - As importâncias pagas pelas taxas referidas no número anterior constituem receitas do ICNF, I. P."
+  },
+  "124572140": {
+   "fragment_id": "124572323",
+   "type": 11,
+   "heading": "Artigo 43.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Regiões Autónomas\n\n1 - O regime previsto no presente decreto-lei é aplicável às Regiões Autónomas dos Açores e da Madeira, com as adaptações a introduzir por diploma regional adequado.\n\n2 - Sem prejuízo do previsto no número anterior, cabe às Regiões Autónomas dos Açores e da Madeira a definição das listas referidas no n.º 2 do artigo 6.º do Regulamento (UE) n.º 1143/2014, do Parlamento Europeu e do Conselho, de 22 de outubro de 2014.\n\n3 - Até à entrada em vigor dos diplomas regionais referidos no n.º 1, aplica-se o regime previsto no presente decreto-lei, incluindo os respetivos anexos, cabendo às autoridades regionais competentes a fiscalização do seu cumprimento e aplicação do regime sancionatório."
+  },
+  "124572141": {
+   "fragment_id": "124572324",
+   "type": 11,
+   "heading": "Artigo 44.º — Remissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Remissões\n\nAs remissões para o Decreto-Lei n.º 565/99, de 21 de dezembro, constantes de lei, regulamento ou qualquer outro ato, consideram-se feitas para as disposições equivalentes do presente decreto-lei."
+  },
+  "124572142": {
+   "fragment_id": "124572325",
+   "type": 11,
+   "heading": "Artigo 45.º — Articulação de regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Articulação de regimes\n\nO disposto no presente decreto-lei não prejudica o regime específico para a devolução à água das espécies autorizadas na pesca lúdica e desportiva e na pesca profissional previsto no Decreto-Lei n.º 112/2017, de 6 de setembro, e na Portaria n.º 360/2017, de 22 de novembro, na sua redação atual."
+  },
+  "124572143": {
+   "fragment_id": "124572326",
+   "type": 11,
+   "heading": "Artigo 46.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 565/99, de 21 de dezembro."
+  },
+  "124572144": {
+   "fragment_id": "124572327",
+   "type": 11,
+   "heading": "Artigo 47.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "124572146": {
+   "fragment_id": "124572329",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nModelo do aviso a afixar pelos comerciantes nos estabelecimentos de plantas ornamentais e animais de companhia, conforme previsto na alínea g) do n.º 2 do artigo 11.º\n\nANTES DE ADQUIRIR UMA PLANTA ORNAMENTAL OU UM ANIMAL DE COMPANHIA SAIBA QUE:\n\nHá espécies que, por não serem originárias do território nacional ou de uma sua área geograficamente isolada, nem tendo aí área natural de distribuição, passada ou presente, são designadas de ESPÉCIES EXÓTICAS, NÃO INDÍGENAS, ou ALÓCTONES.\n\nA disseminação ou libertação, intencional ou acidental, de um ou mais exemplares de espécies exóticas, incluindo os seus gâmetas, sementes, ovos, propágulos ou qualquer porção que possa sobreviver e reproduzir-se, é considerada uma INTRODUÇÃO NA NATUREZA.\n\nA introdução na natureza de espécies exóticas pode causar prejuízos irreversíveis à FLORA e FAUNA INDÍGENAS, através da competição ou predação, assim como pode afetar seriamente as atividades económicas e a saúde pública, incluindo a transmissão de agentes patogénicos ou parasitas.\n\nA detenção de um ou mais exemplares de espécies exóticas implica o cumprimento de REQUISITOS MÍNIMOS DE SEGURANÇA que impeçam a sua evasão ou disseminação.\n\nA introdução na natureza de espécies exóticas está sujeita a AUTORIZAÇÃO, incorrendo os infratores em responsabilidade contraordenacional sancionada com coimas, para além do pagamento dos custos de ativação de mecanismos de controlo a que possam dar origem e de reposição da situação anterior à infração.\n\nA introdução na natureza de espécies exóticas é regulada pelo DECRETO-LEI N.º XXX/2019, de XX de XXXXXX.\n\nMais informação disponível na página eletrónica do Instituto da Conservação da Natureza e das Florestas, I. P., ou através dos seguintes contactos:\n\nTel.:\n\nEmail:"
+  },
+  "124572147": {
+   "fragment_id": "124572330",
+   "type": 14,
+   "heading": "Anexo II — Lista Nacional de Espécies Invasoras, conforme previsto no n.º 1 do artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Lista Nacional de Espécies Invasoras, conforme previsto no n.º 1 do artigo 17.º\n\nAlgas\n\nAnotrichium cf. okamurae Baldock\n\nAnotrichium furcellatum (J. Agardh) Baldock\n\nAntithamnion amphigeneum A.J.K.Millar\n\nAntithamnion densum (Surh) M.A. Howe\n\nAntithamnion nipponicum Yamada et Inagaki\n\nAntithamnionella spirographidis (Schiffner) E. M. Wollaston\n\nAntithamnionella ternifolia (J.D. Hooker & Harvey) Lyle\n\nAsparagopsis armata Harvey\n\nColpomenia peregrina Sauvageau\n\nDasya sessilis Yamada\n\nGambierdiscus excentricus, S.Fraga *\n\nGracilaria vermiculophylla (Ohmi) Papenfuss\n\nGrateloupia turuturu Yamada\n\nGymnodinium catenatum Graham\n\nOstreopsis cf. ovata Fukuyo *\n\nSargassum muticum (Yendo) Fensholt\n\nSymphyocladia marchantioides (Harvey) Falkenberg\n\nUndaria pinnatifida (Harvey) Suringar\n\nPlantas\n\nAbutilon sonneratianum (Cav.) Sweet *\n\nAbutilon theophrasti Medik.\n\nAcacia spp.\n\nAcanthus mollis L *\n\nAcer negundo L.\n\nAcer pseudoplatanus L. *\n\nAdiantum hispidulum Sw. *\n\nAdiantum raddianum C. Presl *\n\nAgapanthus praecox Willd. ssp. orientalis (F. M. Leight) F. M. Leight *\n\nAgave americana L.\n\nAgeratina adenophora (Spreng.) R.M.King & H.Rob.\n\nAgeratina riparia (Regel) R. M. King & H. Rob. *\n\nAlbizzia lophanta (Will.) Benth\n\nAlbizzia julibrissin Durazz.\n\nAilanthus altissima (Miller) Swingle\n\nAloe arborescens Mill. *\n\nAlternanthera philoxeroides (Mart.) Griseb.\n\nAlternanthera caracasana Kunth\n\nAlternanthera nodiflora R. Br.\n\nAlternanthera pungens Kunth\n\nAmaranthus albus L.\n\nAmaranthus blitoides S. Watson\n\nAmaranthus blitum L. ssp. emarginatus (Moq. ex Uline & Bray) Carretero, Muñoz Garmendia & Pedrol\n\nAmaranthus caudatus L.\n\nAmaranthus cruentus L.\n\nAmaranthus deflexus L.\n\nAmaranthus hybridus L.\n\nAmaranthus hypochondriacus L.\n\nAmaranthus muricatus (Gillies ex Moq.) Hieron.\n\nAmaranthus paniculatus L.\n\nAmaranthus powellii S. Watson\n\nAmaranthus retroflexus L.\n\nAmaranthus viridis L.\n\nAmaranthus x ozanonii Thell. ex Priszter\n\nAmaryllis belladonna L *\n\nAptenia cordifolia (L. f.) Schwantes *\n\nAraujia sericifera Brot.\n\nArctotheca calendula (L.) Levyns\n\nArundo donax L.\n\nAsclepias curassavica L.\n\nAsclepias syriaca L.\n\nAsparagus asparagoides (L.) Druce *\n\nAster squamatus (Spreng.) Hieron.\n\nAtriplex rosea L. *\n\nAtriplex semibaccata R. Br. *\n\nAzolla filiculoides Lam.\n\nBaccharis halimifolia L.\n\nBaccharis spicata (Lam.) Baill.\n\nBidens aurea (Aiton) Sherff\n\nBidens frondosa L.\n\nBidens pilosa L.\n\nBrachiaria mutica (Forssk.) Stapf *\n\nCabomba caroliniana Gray\n\nCardiospermum grandiflorum Sw. *\n\nCarpobrotus acinaciformis (L.) L. Bolus\n\nCarpobrotus edulis (L.) N.E. Br.\n\nCenchrus ciliaris L. *\n\nCentranthus ruber (L.) DC. *\n\nChasmanthe aethiopica (L.) N.E. Br. *\n\nChrysanthemum coronarium L. *\n\nCirsium vulgare (Savi) Ten. *\n\nColocasia esculenta (L.) Schott *\n\nCommelina diffusa Burm. F. *\n\nConyza bonariensis (L.) Cronq.\n\nConyza canadensis (L.) Cronq.\n\nConyza sumatrensis (Retz.) E. Walker\n\nCoronopus didymus (L.) J.E. Sm. *\n\nCortaderia selloana (Schultes & Schultes fil.) Ascherson & Graebner\n\nCotula australis (Sieber ex Spreng.) Hook. fil. *\n\nCotula coronopifolia L.\n\nCrassula ovata (Mill.) Druce *\n\nCrassula multicava Lem. *\n\nCrinum bulbispermum (Burm.) Milne-Redh. & Schweick. *\n\nCrocosmia x crocosmiiflora (Lemoine) N.E. Br. *\n\nCyperus rotundus L.\n\nCyrtomium falcatum (L. fil.) C. Presl *\n\nCytisus scoparius (L.) Link *\n\nCytisus striatus (Hill) Rothm. *\n\nDatura innoxia Mill. *\n\nDatura stramonium L.\n\nDelairea odorata Lem. (= Senecio mikanoides Otto ex Walp.) *\n\nDoodia caudata (Cav.) R. Br. *\n\nDuchesnea indica (Andr.) Focke *\n\nEgeria densa Planch.\n\nEichhornia crassipes (C.F.P. Mart.) Solms-Laub.\n\nElodea canadensis Michx\n\nElodea nuttallii (Planch.) St. John\n\nErigeron karvinskianus DC.\n\nEryngium pandanifolium Cham. & Schlecht.\n\nEschscholzia californica Champ. *\n\nFallopia baldschuanica (Regel) J. Holub\n\nFallopia japonica (Houtt.) Ronse Decr. (= Reynoutria japonica Houtt.)\n\nFallopia sachalinensis (Schmidt) Ronse Decr.\n\nFallopia x bohemica (J. Chrtek & A. Chrtková) J. P. Bailey\n\nFuschia arborescens Sims *\n\nFuschia magellanica Lam. *\n\nGalinsoga parviflora Cav.\n\nGalinsoga quadriradiata Ruiz et Pav.*\n\nGleditsia triacanthos L.\n\nGomphocarpus fruticosus (L.) Aiton fil.\n\nGunnera tinctoria (Molina) Mirbel\n\nHakea salicifolia (Vent.) B.L. Burtt\n\nHakea sericea Schrad.\n\nHedychium gardnerianum Ker-Gawl.\n\nHelichrysum foetidum (L.) Cass. *\n\nHeracleum mantegazzianum Sommier & Levier\n\nHeracleum persicum Fischer\n\nHeracleum sosnowskyi Mandenova\n\nHolcus lanatus L. *\n\nHydrangea macrophylla (Thunb.) Ser. *\n\nHydrilla verticillata (L. f.) Royle\n\nHydrocotyle ranunculoides L. f.\n\nImpatiens glandulifera Royle\n\nIpomoea acuminata (Vahl) Roemer & Schult.\n\nIpomoea indica (Burm.) Merr.\n\nIpomea purpurea (L.) Roth *\n\nIsatis tinctoria L. *\n\nKalanchoe daigremontiana Raym.-Hamet & H. Perrier *\n\nKalanchoe delagonensis Eckl. et Zeyh. *\n\nKalanchoe fedtschenkoi Raym.-Hamet et Perrier *\n\nKalanchoe pinnata (Lam.) Pers. N *\n\nLagarosiphon major (Ridley) Moss\n\nLantana camara L.\n\nLepidium didymum L. *\n\nLeptospermum scoparium J. R. Forst. & G. Forst. *\n\nLeucaena leucocephala (Lam.) De Wit *\n\nLeycesteria formosa Wall. *\n\nLonicera japonica Thunb.\n\nLudwigia grandiflora (Michx.) Greuter & Burdet\n\nLudwigia peploides (Kunth) Raven\n\nLudwigia uruguayensis (Cambess.) H.Hara\n\nLycopersicon esculentum Mill. var. esculentum *\n\nLysichiton americanus Hultén & St. John\n\nMalephora crocea (Jacq.) Schwantes *\n\nMelinis repens (Willd.) Zizka *\n\nMalvastrum coromandelianum (L.) Garcke *\n\nMicrostegium vimineum (Trin.) A. Camus\n\nMyriophyllum aquaticum (Velloso) Verdc.\n\nMyriophyllum brasiliensis Camb.\n\nMyriophyllum heterophyllum Michaux\n\nNicotiana glauca R.C. Graham\n\nNymphaea mexicana Zucc.\n\nOpuntia elata Salm-Dyck\n\nOpuntia maxima Miller\n\nOpuntia subulata (Muehlenpf.) Engelm (= Austrocylindropuntia subulata)\n\nOpuntia tuna (L.) Mill. *\n\nOxalis corniculata L. *\n\nOxalis pes-caprae L.\n\nOxalis purpurea L.\n\nParaserianthes lophantha (Willd.) I.C. Nielsen [=Albizia distachya (Vent) J.F. Macbr.] *\n\nParthenium hysterophorus L.\n\nPaspalum paspalodes (Michx) Scribner\n\nPaspalum vaginatum Swartz\n\nPassiflora tripartita (Juss.) Poir. var. mollissima (Kunth) Holm-Niels. & P. Jørg. *\n\nPaulownia tomentosa (Thunberg) Steudel\n\nPelargonium inquinans (L.) L'Hér. ex Ait. *\n\nPennisetum purpureum Schum. *\n\nPennisetum setaceum (Forssk.) Chiov.\n\nPennisetum villosum R. Br. ex Fresen\n\nPersicaria perfoliata (L.) H. Gross (= Polygonum perfoliatum L.)\n\nPetroselinum crispum (Mill.) A.W. Hill *\n\nPhysalis peruviana L. *\n\nPhytolacca americana L.\n\nPistia stratiotes L.\n\nPittosporum undulatum Vent.\n\nPodranea ricasoliana (Tanfani) Sprague *\n\nPolygonum capitatum Buch.-Ham.ex D.Don *\n\nPueraria lobata (Willdenow) Ohwi (= P. montana var lobata)\n\nPsidium cattleyanum Sabine *\n\nRhus coriaria L. *\n\nRicinus communis L.\n\nRobinia pseudoacacia L.\n\nSagittaria latifolia Willd.\n\nSalpichroa origanifolia (Lam.) Thell. *\n\nSalvinia molesta D.S. Mitchell\n\nSenecio bicolor (Willd.) Tod. ssp. cinerea (DC.) Chater\n\nSenecio inaequidens DC.\n\nSenecio mikanioides Otto ex Walp. *\n\nSenecio petasites (Sims) DC. *\n\nSetaria verticillata (L.) P. Beauv. *\n\nSolanum lycopersicum L. var. lycopersicum *\n\nSolanum mauritianum Scop.\n\nSoleirolia soleirolii (Req.) Dandy *\n\nSorghum halepense (L.) Pers.\n\nSpartina densiflora Brongn.\n\nSymphyotrichum subulatum (Michx.) G. L. Nesom var. squamatum (Spreng.) S. D. Sundb. *\n\nTamarix gallica L. *\n\nTetragonia tetragonioides (Pall.) Kuntze *\n\nTradescantia fluminensis Velloso\n\nTradescantia zebrina Hort. ex Bosse Vollst. *\n\nTropaeolum majus L.\n\nUlex europaeus L. *\n\nUlex minor Roth *\n\nVerbena bonariensis L. *\n\nVerbena rigida Spreng. *\n\nVinca major L. *\n\nZantedeschia aethiopica (L.) Spreng.*\n\nMoluscos\n\nAchatina (= Lissachatina) fulica\n\nAnodonta woodiana\n\nArion distinctus *\n\nArion hortensis *\n\nCorbicula fluminea\n\nCornu aspersum *\n\nDeroceras invadens *\n\nDeroceras reticulatum *\n\nDreissena bugensis\n\nDreissena polymorpha\n\nEuglandina rosea *\n\nLimnoperna fortunei\n\nLimax maximus *\n\nMya arenaria\n\nPomacea canaliculata\n\nPomacea insularum\n\nPotamopyrgus antipodarum\n\nPteropurpura (= Ocinebrellus) inornata\n\nRuditapes philippinarum\n\nTheba pisana *\n\nInsetos\n\nLasius neglectus\n\nLinepithema humile\n\nPheidole megacephala\n\nVespa spp. (todas as espécies não europeias)\n\nCrustáceos\n\nAmphibalanus amphitrite\n\nAustrominius modestus\n\nCherax destructor\n\nEriocheir sinensis\n\nOrconectes spp.\n\nPacifastacus leniusculus\n\nProcambarus clarkii\n\nProcambarus fallax forma virginalis\n\nOutros invertebrados\n\nBlackfordia virginica\n\nBotryllus schlosseri\n\nCorella eumyota\n\nDesdemona ornata\n\nTricellaria inopinata\n\nPeixes\n\nAlburnus alburnus\n\nAmeiurus melas (= Ictalurus meles)\n\nAustraloheros facetus (Cichlasoma facetum)\n\nCarassius auratus\n\nCarassius gibelio\n\nChanna spp.\n\nCtenopharyngodon idella\n\nEsox lucius\n\nFundulus heteroclitus\n\nGambusia holbrooki\n\nGobio lozanoi\n\nGymnocephalus cernuus\n\nHypophthalmichthys molitrix\n\nIctalurus punctatus\n\nLepomis cyanellus\n\nLepomis gibbosus\n\nMicropterus salmoides\n\nMisgurnus anguillicaudatus\n\nOreochromis spp.\n\nOsmerus mordax\n\nPerca fluviatilis\n\nPerccottus glenii\n\nPseudorasbora parva\n\nPterois spp.\n\nRutilus rutilus\n\nSalvelinus fontinalis\n\nSander lucioperca\n\nScardinius erythrophthalmus\n\nSilurus glanis\n\nTilapia spp.\n\nAnfíbios\n\nBufo marinus\n\nLithobates catesbeianus (= Rana catesbeiana)\n\nRana ridibunda\n\nXenopus laevis\n\nRépteis\n\nChelydra serpentina\n\nChrysemys picta\n\nGraptemys spp.\n\nHemidactylus mabouia *\n\nMacroclemys temminckii\n\nPseudemys spp.\n\nRamphotyphlops braminus *\n\nTarentola mauritanica *\n\nLampropeltis getula ssp. californiae *\n\nTrachemys spp.\n\nAves\n\nAcridotheres cristatellus\n\nAcridotheres tristis\n\nAlectoris chukar\n\nAlectoris graeca\n\nAlopochen aegyptiacus\n\nCorvus splendens\n\nCoturnix japonica\n\nEuplectes afer\n\nEstrila astrild *\n\nMyiopsitta monachus *\n\nPoicephalus senegalus *\n\nOxyura jamaicensis\n\nStreptopelia decaocto *\n\nPloceus melanocephalus\n\nPycnonotus cafer\n\nPsittacula krameri *\n\nQuelea quelea\n\nThreskiornis aethiopicus\n\nMamíferos\n\nAmmotragus lervia\n\nCallosciurus erythraeus\n\nCapra hircus *\n\nCastor canadensis\n\nErinaceus spp. *\n\nFelis silvestris f. catus *\n\nHerpestes javanicus\n\nHystrix cristata\n\nMuntiacus reevesi\n\nMus musculus *\n\nMus domesticus *\n\nMustela spp. *\n\nMyocastor coypus\n\nNasua nasua\n\nNeovison (= Mustela) vison\n\nNyctereutes procyonoides\n\nOndatra zibethicus\n\nOryctolagus cuniculus *\n\nProcyon spp.\n\nRattus spp. *\n\nSciurus carolinensis\n\nSciurus niger\n\nTamias sibiricus\n\n(*) Espécies classificadas como invasoras apenas na Região Autónoma da Madeira."
+  },
+  "124572148": {
+   "fragment_id": "124572331",
+   "type": 14,
+   "heading": "Anexo III — Lista de espécies sujeitas ao regime de exceção, conforme previsto no capítulo IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Lista de espécies sujeitas ao regime de exceção, conforme previsto no capítulo IV\n\nMoluscos\n\nCrassostrea gigas\n\nPeixes\n\nCyprinus carpio\n\nOncorhynchus mykiss\n\nFlora\n\nOpuntia ficus-indica (L.) Miller\n\n112421385"
+  },
+  "213749679": {
+   "fragment_id": "124572309",
+   "type": 11,
+   "heading": "Artigo 31.º — Espécies usadas em aquicultura, agricultura e pesca em águas interiores",
+   "in_force_from": "2023-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/lei/25-2023-213706992), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "###### Artigo 31.º — Espécies usadas em aquicultura, agricultura e pesca em águas interiores\n\n1 - Às espécies usadas em aquicultura, agricultura e pesca em águas interiores incluídas no anexo iii do presente decreto-lei, aplica-se o previsto no presente capítulo.\n\n2 - Os criadores e viveiristas de espécies referidas no número anterior devem cumprir os deveres de zelo e reporte, nos termos do disposto nos artigos 24.º e 25.º, bem como os planos de controlo previstos no artigo seguinte.\n\n3 - Os espécimes que sejam capturados ou colhidos no exercício da atividade piscatória regulada por legislação especial podem ser devolvidos à natureza, nos termos do Decreto-Lei n.º 112/2017, de 6 de setembro, que estabelece o regime jurídico do ordenamento e da gestão sustentável dos recursos aquícolas das águas interiores, e da Portaria n.º 108/2018, de 20 de abril, que define as condicionantes aplicáveis às espécies objeto de pesca lúdica e desportiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/lei/25-2023-213706992), em vigor a partir de 2023-05-31"
+  },
+  "213749680": {
+   "fragment_id": "124572310",
+   "type": 11,
+   "heading": "Artigo 32.º — Planos de controlo para espécies usadas em aquicultura, agricultura e pesca em águas interiores",
+   "in_force_from": "2023-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/lei/25-2023-213706992), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "###### Artigo 32.º — Planos de controlo para espécies usadas em aquicultura, agricultura e pesca em águas interiores\n\n1 - Para as espécies incluídas no anexo III ao presente decreto-lei são elaborados planos de controlo.\n\n2 - Os termos e os prazos de elaboração dos planos de controlo, bem como as áreas onde se aplicam, são definidos por portaria aprovada pelos membros do Governo responsáveis pelas áreas do ordenamento do território, da conservação da natureza e da atividade económica em causa.\n\n3 - Quando os instrumentos de gestão territorial e os instrumentos de ordenamento do espaço marítimo nacional definam as áreas para as quais seja permitida a aquicultura ou a agricultura com as espécies incluídas no anexo III ao presente decreto-lei, são estas as que devem ser consideradas para efeito de aplicação dos planos de controlo.\n\n4 - Os planos de controlo devem ser elaborados, na sequência da publicação da portaria referida no n.º 2, pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) ou pela Direção-Geral da Alimentação e Veterinária (DGAV), de acordo com a atividade económica em causa, em articulação com o ICNF, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/lei/25-2023-213706992), em vigor a partir de 2023-05-31"
+  },
+  "124572149": {
+   "fragment_id": "124572312",
+   "type": 11,
+   "heading": "Artigo 33.º — Contraordenações ambientais",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 40-B/2019 - Diário da República n.º 171/2019, 2º Suplemento, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-b-2019-124539894), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "###### Artigo 33.º — Contraordenações ambientais\n\n1 - Constitui contraordenação ambiental muito grave, punível nos termos da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, a prática dos seguintes atos e atividades:\n\na) A introdução na natureza de qualquer espécie exótica incluída na Lista Nacional de Espécies Invasoras, em violação ao disposto no artigo 16.º e na alínea a) do n.º 1 do artigo 19.º;\n\nb) O repovoamento de espécies exóticas incluídas na Lista Nacional de Espécies Invasoras, em violação ao disposto no artigo 16.º e na alínea a) do n.º 1 do artigo 19.º;\n\nc) A compra, venda, oferta de venda, cedência, cultivo, criação ou comércio como planta ornamental ou animal de companhia de espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, em violação ao disposto no artigo 16.º e na alínea b) do n.º 1 do artigo 19.º;\n\nd) O incumprimento das obrigações dos criadores e viveiristas de espécies usadas na aquicultura e na agricultura, em violação do disposto no n.º 5 do artigo 25.º e nos artigos 31.º e 32.º;\n\ne) O incumprimento das particulares condições de segurança exigidas, atendendo ao risco específico das espécies incluídas na Lista Nacional de Espécies Invasoras detidas ou transportadas, em violação ao disposto na alínea a) do n.º 1 do artigo 21.º;\n\nf) O não cumprimento das medidas de renaturalização do espaço utilizado ou de eliminação total de efetivos no final do período de exploração, quando excecionalmente autorizada, de espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, em violação ao disposto no n.º 2 do artigo 22.º\n\n2 - Constitui contraordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, a prática dos seguintes atos e atividades:\n\na) O não cumprimento das condições sanitárias, de bem-estar ou de segurança adequadas às espécies exóticas detidas, em violação ao disposto na alínea a) do n.º 2 do artigo 11.º;\n\nb) A falta de marcação dos espécimes de espécies da fauna exótica detidos, em violação ao disposto na alínea e) do n.º 2 do artigo 11.º;\n\nc) O não cumprimento das medidas previstas quanto ao destino dos espécimes detidos em caso de cessação da atividade ou de revogação da licença para detenção, cultivo ou criação de espécies exóticas, em violação ao disposto na alínea f) do n.º 2 do artigo 11.º e no n.º 3 do artigo 12.º;\n\nd) A introdução na natureza, não autorizada, de espécies exóticas não incluídas na Lista Nacional de Espécies Invasoras, em violação ao disposto no artigo 13.º;\n\ne) O não cumprimento das medidas de quarentena definidas numa autorização de introdução na natureza de uma espécie exótica, em violação ao disposto no artigo 15.º;\n\nf) A detenção, cedência, transporte ou utilização como planta ornamental ou animal de companhia de espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras, em violação ao disposto no artigo 16.º e na alínea b) do artigo 19.º;\n\ng) A não retenção e devolução ao meio natural dos espécimes de espécies incluídas na Lista Nacional de Espécies Invasoras que tenham sido colhidos ou capturados, em violação ao disposto na alínea c) do n.º 1 do artigo 19.º;\n\nh) O não cumprimento das condições requeridas para a aquicultura em espaço confinado, em violação ao disposto na alínea b) do n.º 1 do artigo 21.º\n\n3 - Constitui contraordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de agosto, na sua redação atual, a prática dos seguintes atos e atividades:\n\na) A detenção, cultivo ou criação de espécimes de espécies exóticas para fins comerciais, científicos ou pedagógicos sem a necessária licença, em violação ao disposto no n.º 1 do artigo 5.º;\n\nb) Impedir ou de alguma forma dificultar a vistoria, pelas entidades de fiscalização, das instalações de detenção de espécimes de espécies exóticas, em violação ao disposto na alínea b) do n.º 2 do artigo 11.º;\n\nc) A falta do registo, ou a sua não atualização, dos espécimes de espécies exóticas detidos, em violação ao disposto na alínea d) do n.º 2 do artigo 11.º;\n\nd) A falta de afixação nos estabelecimentos para o comércio de plantas ornamentais e de animais de companhia do aviso alertando para os riscos da disseminação ou evasão de espécies exóticas, em violação ao disposto na alínea g) do n.º 2 do artigo 11.º;\n\ne) O não cumprimento do dever de comunicação de qualquer evasão ou disseminação acidental detetada, em violação ao disposto no n.º 3 do artigo 11.º e no artigo 24.º\n\n4 - A condenação pela prática das contraordenações ambientais muito graves previstas no n.º 1, bem como, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstrata aplicável, das contraordenações ambientais graves previstas no n.º 2, é objeto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de agosto, na sua redação atual.\n\n> Retificado pelo/a [Declaração de Retificação n.º 40-B/2019 - Diário da República n.º 171/2019, 2º Suplemento, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-b-2019-124539894), em vigor a partir de 2019-07-11"
+  },
+  "124572145": {
+   "fragment_id": "124572328",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de junho de 2019. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Eduardo Arménio do Nascimento Cabrita - Pedro Gramaxo de Carvalho Siza Vieira - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.\n\nPromulgado em 28 de junho de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 3 de julho de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "124572150": {
+   "fragment_id": "124572329",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2019-07-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 40-B/2019 - Diário da República n.º 171/2019, 2º Suplemento, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-b-2019-124539894), em vigor a partir de 2019-07-11"
+   ],
+   "markdown": "## Anexo I\n\nModelo do aviso a afixar pelos comerciantes nos estabelecimentos de plantas ornamentais e animais de companhia, conforme previsto na alínea g) do n.º 2 do artigo 11.º\n\nANTES DE ADQUIRIR UMA PLANTA ORNAMENTAL OU UM ANIMAL DE COMPANHIA SAIBA QUE:\n\nHá espécies que, por não serem originárias do território nacional ou de uma sua área geograficamente isolada, nem tendo aí área natural de distribuição, passada ou presente, são designadas de ESPÉCIES EXÓTICAS, NÃO INDÍGENAS, ou ALÓCTONES.\n\nA disseminação ou libertação, intencional ou acidental, de um ou mais exemplares de espécies exóticas, incluindo os seus gâmetas, sementes, ovos, propágulos ou qualquer porção que possa sobreviver e reproduzir-se, é considerada uma INTRODUÇÃO NA NATUREZA.\n\nA introdução na natureza de espécies exóticas pode causar prejuízos irreversíveis à FLORA e FAUNA INDÍGENAS, através da competição ou predação, assim como pode afetar seriamente as atividades económicas e a saúde pública, incluindo a transmissão de agentes patogénicos ou parasitas.\n\nA detenção de um ou mais exemplares de espécies exóticas implica o cumprimento de REQUISITOS MÍNIMOS DE SEGURANÇA que impeçam a sua evasão ou disseminação.\n\nA introdução na natureza de espécies exóticas está sujeita a AUTORIZAÇÃO, incorrendo os infratores em responsabilidade contraordenacional sancionada com coimas, para além do pagamento dos custos de ativação de mecanismos de controlo a que possam dar origem e de reposição da situação anterior à infração.\n\nA introdução na natureza de espécies exóticas é regulada pelo Decreto-Lei n.º 92/2019, de 10 de julho.\n\nMais informação disponível na página eletrónica do Instituto da Conservação da Natureza e das Florestas, I. P., ou através dos respetivos contactos.\n\n> Retificado pelo/a [Declaração de Retificação n.º 40-B/2019 - Diário da República n.º 171/2019, 2º Suplemento, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-b-2019-124539894), em vigor a partir de 2019-07-11"
+  },
+  "213749681": {
+   "fragment_id": "124572330",
+   "type": 14,
+   "heading": "Anexo II — Lista Nacional de Espécies Invasoras, conforme previsto no n.º 1 do artigo 17.º",
+   "in_force_from": "2023-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 25/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/lei/25-2023-213706992), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "## Anexo II — Lista Nacional de Espécies Invasoras, conforme previsto no n.º 1 do artigo 17.º\n\nAlgas\n\nAnotrichium cf. okamurae Baldock\n\nAnotrichium furcellatum (J. Agardh) Baldock\n\nAntithamnion amphigeneum A.J.K.Millar\n\nAntithamnion densum (Surh) M.A. Howe\n\nAntithamnion nipponicum Yamada et Inagaki\n\nAntithamnionella spirographidis (Schiffner) E. M. Wollaston\n\nAntithamnionella ternifolia (J.D. Hooker & Harvey) Lyle\n\nAsparagopsis armata Harvey\n\nColpomenia peregrina Sauvageau\n\nDasya sessilis Yamada\n\nGambierdiscus excentricus, S.Fraga *\n\nGracilaria vermiculophylla (Ohmi) Papenfuss\n\nGrateloupia turuturu Yamada\n\nGymnodinium catenatum Graham\n\nOstreopsis cf. ovata Fukuyo *\n\nSargassum muticum (Yendo) Fensholt\n\nSymphyocladia marchantioides (Harvey) Falkenberg\n\nUndaria pinnatifida (Harvey) Suringar\n\nPlantas\n\nAbutilon sonneratianum (Cav.) Sweet *\n\nAbutilon theophrasti Medik.\n\nAcacia spp.\n\nAcanthus mollis L *\n\nAcer negundo L.\n\nAcer pseudoplatanus L. *\n\nAdiantum hispidulum Sw. *\n\nAdiantum raddianum C. Presl *\n\nAgapanthus praecox Willd. ssp. orientalis (F. M. Leight) F. M. Leight *\n\nAgave americana L.\n\nAgeratina adenophora (Spreng.) R.M.King & H.Rob.\n\nAgeratina riparia (Regel) R. M. King & H. Rob. *\n\nAlbizzia lophanta (Will.) Benth\n\nAlbizzia julibrissin Durazz.\n\nAilanthus altissima (Miller) Swingle\n\nAloe arborescens Mill. *\n\nAlternanthera philoxeroides (Mart.) Griseb.\n\nAlternanthera caracasana Kunth\n\nAlternanthera nodiflora R. Br.\n\nAlternanthera pungens Kunth\n\nAmaranthus albus L.\n\nAmaranthus blitoides S. Watson\n\nAmaranthus blitum L. ssp. emarginatus (Moq. ex Uline & Bray) Carretero, Muñoz Garmendia & Pedrol\n\nAmaranthus caudatus L.\n\nAmaranthus cruentus L.\n\nAmaranthus deflexus L.\n\nAmaranthus hybridus L.\n\nAmaranthus hypochondriacus L.\n\nAmaranthus muricatus (Gillies ex Moq.) Hieron.\n\nAmaranthus paniculatus L.\n\nAmaranthus powellii S. Watson\n\nAmaranthus retroflexus L.\n\nAmaranthus viridis L.\n\nAmaranthus x ozanonii Thell. ex Priszter\n\nAmaryllis belladonna L *\n\nAptenia cordifolia (L. f.) Schwantes *\n\nAraujia sericifera Brot.\n\nArctotheca calendula (L.) Levyns\n\nArundo donax L.\n\nAsclepias curassavica L.\n\nAsclepias syriaca L.\n\nAsparagus asparagoides (L.) Druce *\n\nAster squamatus (Spreng.) Hieron.\n\nAtriplex rosea L. *\n\nAtriplex semibaccata R. Br. *\n\nAzolla filiculoides Lam.\n\nBaccharis halimifolia L.\n\nBaccharis spicata (Lam.) Baill.\n\nBidens aurea (Aiton) Sherff\n\nBidens frondosa L.\n\nBidens pilosa L.\n\nBrachiaria mutica (Forssk.) Stapf *\n\nCabomba caroliniana Gray\n\nCardiospermum grandiflorum Sw. *\n\nCarpobrotus acinaciformis (L.) L. Bolus\n\nCarpobrotus edulis (L.) N.E. Br.\n\nCenchrus ciliaris L. *\n\nCentranthus ruber (L.) DC. *\n\nChasmanthe aethiopica (L.) N.E. Br. *\n\nChrysanthemum coronarium L. *\n\nCirsium vulgare (Savi) Ten. *\n\nColocasia esculenta (L.) Schott *\n\nCommelina diffusa Burm. F. *\n\nConyza bonariensis (L.) Cronq.\n\nConyza canadensis (L.) Cronq.\n\nConyza sumatrensis (Retz.) E. Walker\n\nCoronopus didymus (L.) J.E. Sm. *\n\nCortaderia selloana (Schultes & Schultes fil.) Ascherson & Graebner\n\nCotula australis (Sieber ex Spreng.) Hook. fil. *\n\nCotula coronopifolia L.\n\nCrassula ovata (Mill.) Druce *\n\nCrassula multicava Lem. *\n\nCrinum bulbispermum (Burm.) Milne-Redh. & Schweick. *\n\nCrocosmia x crocosmiiflora (Lemoine) N.E. Br. *\n\nCyperus rotundus L.\n\nCyrtomium falcatum (L. fil.) C. Presl *\n\nCytisus scoparius (L.) Link *\n\nCytisus striatus (Hill) Rothm. *\n\nDatura innoxia Mill. *\n\nDatura stramonium L.\n\nDelairea odorata Lem. (= Senecio mikanoides Otto ex Walp.) *\n\nDoodia caudata (Cav.) R. Br. *\n\nDuchesnea indica (Andr.) Focke *\n\nEgeria densa Planch.\n\nEichhornia crassipes (C.F.P. Mart.) Solms-Laub.\n\nElodea canadensis Michx\n\nElodea nuttallii (Planch.) St. John\n\nErigeron karvinskianus DC.\n\nEryngium pandanifolium Cham. & Schlecht.\n\nEschscholzia californica Champ. *\n\nFallopia baldschuanica (Regel) J. Holub\n\nFallopia japonica (Houtt.) Ronse Decr. (= Reynoutria japonica Houtt.)\n\nFallopia sachalinensis (Schmidt) Ronse Decr.\n\nFallopia x bohemica (J. Chrtek & A. Chrtková) J. P. Bailey\n\nFuschia arborescens Sims *\n\nFuschia magellanica Lam. *\n\nGalinsoga parviflora Cav.\n\nGalinsoga quadriradiata Ruiz et Pav.*\n\nGleditsia triacanthos L.\n\nGomphocarpus fruticosus (L.) Aiton fil.\n\nGunnera tinctoria (Molina) Mirbel\n\nHakea salicifolia (Vent.) B.L. Burtt\n\nHakea sericea Schrad.\n\nHedychium gardnerianum Ker-Gawl.\n\nHelichrysum foetidum (L.) Cass. *\n\nHeracleum mantegazzianum Sommier & Levier\n\nHeracleum persicum Fischer\n\nHeracleum sosnowskyi Mandenova\n\nHolcus lanatus L. *\n\nHydrangea macrophylla (Thunb.) Ser. *\n\nHydrilla verticillata (L. f.) Royle\n\nHydrocotyle ranunculoides L. f.\n\nImpatiens glandulifera Royle\n\nIpomoea acuminata (Vahl) Roemer & Schult.\n\nIpomoea indica (Burm.) Merr.\n\nIpomea purpurea (L.) Roth *\n\nIsatis tinctoria L. *\n\nKalanchoe daigremontiana Raym.-Hamet & H. Perrier *\n\nKalanchoe delagonensis Eckl. et Zeyh. *\n\nKalanchoe fedtschenkoi Raym.-Hamet et Perrier *\n\nKalanchoe pinnata (Lam.) Pers. N *\n\nLagarosiphon major (Ridley) Moss\n\nLantana camara L.\n\nLepidium didymum L. *\n\nLeptospermum scoparium J. R. Forst. & G. Forst. *\n\nLeucaena leucocephala (Lam.) De Wit *\n\nLeycesteria formosa Wall. *\n\nLonicera japonica Thunb.\n\nLudwigia grandiflora (Michx.) Greuter & Burdet\n\nLudwigia peploides (Kunth) Raven\n\nLudwigia uruguayensis (Cambess.) H.Hara\n\nLycopersicon esculentum Mill. var. esculentum *\n\nLysichiton americanus Hultén & St. John\n\nMalephora crocea (Jacq.) Schwantes *\n\nMelinis repens (Willd.) Zizka *\n\nMalvastrum coromandelianum (L.) Garcke *\n\nMicrostegium vimineum (Trin.) A. Camus\n\nMyriophyllum aquaticum (Velloso) Verdc.\n\nMyriophyllum brasiliensis Camb.\n\nMyriophyllum heterophyllum Michaux\n\nNicotiana glauca R.C. Graham\n\nNymphaea mexicana Zucc.\n\nOpuntia elata Salm-Dyck\n\nOpuntia maxima Miller\n\nOpuntia subulata (Muehlenpf.) Engelm (= Austrocylindropuntia subulata)\n\nOpuntia tuna (L.) Mill. *\n\nOxalis corniculata L. *\n\nOxalis pes-caprae L.\n\nOxalis purpurea L.\n\nParaserianthes lophantha (Willd.) I.C. Nielsen [=Albizia distachya (Vent) J.F. Macbr.] *\n\nParthenium hysterophorus L.\n\nPaspalum paspalodes (Michx) Scribner\n\nPaspalum vaginatum Swartz\n\nPassiflora tripartita (Juss.) Poir. var. mollissima (Kunth) Holm-Niels. & P. Jørg. *\n\nPaulownia tomentosa (Thunberg) Steudel\n\nPelargonium inquinans (L.) L'Hér. ex Ait. *\n\nPennisetum purpureum Schum. *\n\nPennisetum setaceum (Forssk.) Chiov.\n\nPennisetum villosum R. Br. ex Fresen\n\nPersicaria perfoliata (L.) H. Gross (= Polygonum perfoliatum L.)\n\nPetroselinum crispum (Mill.) A.W. Hill *\n\nPhysalis peruviana L. *\n\nPhytolacca americana L.\n\nPistia stratiotes L.\n\nPittosporum undulatum Vent.\n\nPodranea ricasoliana (Tanfani) Sprague *\n\nPolygonum capitatum Buch.-Ham.ex D.Don *\n\nPueraria lobata (Willdenow) Ohwi (= P. montana var lobata)\n\nPsidium cattleyanum Sabine *\n\nRhus coriaria L. *\n\nRicinus communis L.\n\nRobinia pseudoacacia L.\n\nSagittaria latifolia Willd.\n\nSalpichroa origanifolia (Lam.) Thell. *\n\nSalvinia molesta D.S. Mitchell\n\nSenecio bicolor (Willd.) Tod. ssp. cinerea (DC.) Chater\n\nSenecio inaequidens DC.\n\nSenecio mikanioides Otto ex Walp. *\n\nSenecio petasites (Sims) DC. *\n\nSetaria verticillata (L.) P. Beauv. *\n\nSolanum lycopersicum L. var. lycopersicum *\n\nSolanum mauritianum Scop.\n\nSoleirolia soleirolii (Req.) Dandy *\n\nSorghum halepense (L.) Pers.\n\nSpartina densiflora Brongn.\n\nSymphyotrichum subulatum (Michx.) G. L. Nesom var. squamatum (Spreng.) S. D. Sundb. *\n\nTamarix gallica L. *\n\nTetragonia tetragonioides (Pall.) Kuntze *\n\nTradescantia fluminensis Velloso\n\nTradescantia zebrina Hort. ex Bosse Vollst. *\n\nTropaeolum majus L.\n\nUlex europaeus L. *\n\nUlex minor Roth *\n\nVerbena bonariensis L. *\n\nVerbena rigida Spreng. *\n\nVinca major L. *\n\nZantedeschia aethiopica (L.) Spreng.*\n\nMoluscos\n\nAchatina (= Lissachatina) fulica\n\nAnodonta woodiana\n\nArion distinctus *\n\nArion hortensis *\n\nCorbicula fluminea\n\nCornu aspersum *\n\nDeroceras invadens *\n\nDeroceras reticulatum *\n\nDreissena bugensis\n\nDreissena polymorpha\n\nEuglandina rosea *\n\nLimnoperna fortunei\n\nLimax maximus *\n\nMya arenaria\n\nPomacea canaliculata\n\nPomacea insularum\n\nPotamopyrgus antipodarum\n\nPteropurpura (= Ocinebrellus) inornata\n\nRuditapes philippinarum\n\nTheba pisana *\n\nInsetos\n\nLasius neglectus\n\nLinepithema humile\n\nPheidole megacephala\n\nVespa spp. (todas as espécies não europeias)\n\nCrustáceos\n\nAmphibalanus amphitrite\n\nAustrominius modestus\n\nCherax destructor\n\nEriocheir sinensis\n\nOrconectes spp.\n\nPacifastacus leniusculus\n\nProcambarus clarkii\n\nProcambarus fallax forma virginalis\n\nOutros invertebrados\n\nBlackfordia virginica\n\nBotryllus schlosseri\n\nCorella eumyota\n\nDesdemona ornata\n\nTricellaria inopinata\n\nPeixes\n\nAlburnus alburnus\n\nAmeiurus melas (= Ictalurus meles)\n\nAustraloheros facetus (Cichlasoma facetum)\n\nCarassius auratus\n\nCarassius gibelio\n\nChanna spp.\n\nCtenopharyngodon idella\n\nEsox lucius\n\nFundulus heteroclitus\n\nGambusia holbrooki\n\nGobio lozanoi\n\nGymnocephalus cernuus\n\nHypophthalmichthys molitrix\n\nIctalurus punctatus\n\nLepomis cyanellus\n\nLepomis gibbosus\n\nMisgurnus anguillicaudatus\n\nOreochromis spp.\n\nOsmerus mordax\n\nPerca fluviatilis\n\nPerccottus glenii\n\nPseudorasbora parva\n\nPterois spp.\n\nRutilus rutilus\n\nSalvelinus fontinalis\n\nSander lucioperca\n\nScardinius erythrophthalmus\n\nSilurus glanis\n\nTilapia spp.\n\nAnfíbios\n\nBufo marinus\n\nLithobates catesbeianus (= Rana catesbeiana)\n\nRana ridibunda\n\nXenopus laevis\n\nRépteis\n\nChelydra serpentina\n\nChrysemys picta\n\nGraptemys spp.\n\nHemidactylus mabouia *\n\nMacroclemys temminckii\n\nPseudemys spp.\n\nRamphotyphlops braminus *\n\nTarentola mauritanica *\n\nLampropeltis getula ssp. californiae *\n\nTrachemys spp.\n\nAves\n\nAcridotheres cristatellus\n\nAcridotheres tristis\n\nAlectoris chukar\n\nAlectoris graeca\n\nAlopochen aegyptiacus\n\nCorvus splendens\n\nCoturnix japonica\n\nEuplectes afer\n\nEstrila astrild *\n\nMyiopsitta monachus *\n\nPoicephalus senegalus *\n\nOxyura jamaicensis\n\nStreptopelia decaocto *\n\nPloceus melanocephalus\n\nPycnonotus cafer\n\nPsittacula krameri *\n\nQuelea quelea\n\nThreskiornis aethiopicus\n\nMamíferos\n\nAmmotragus lervia\n\nCallosciurus erythraeus\n\nCapra hircus *\n\nCastor canadensis\n\nErinaceus spp. *\n\nFelis silvestris f. catus *\n\nHerpestes javanicus\n\nHystrix cristata\n\nMuntiacus reevesi\n\nMus musculus *\n\nMus domesticus *\n\nMustela spp. *\n\nMyocastor coypus\n\nNasua nasua\n\nNeovison (= Mustela) vison\n\nNyctereutes procyonoides\n\nOndatra zibethicus\n\nOryctolagus cuniculus *\n\nProcyon spp.\n\nRattus spp. *\n\nSciurus carolinensis\n\nSciurus niger\n\nTamias sibiricus\n\n(*) Espécies classificadas como invasoras apenas na Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 25/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/lei/25-2023-213706992), em vigor a partir de 2023-05-31"
+  },
+  "213749682": {
+   "fragment_id": "124572331",
+   "type": 14,
+   "heading": "Anexo III — Lista de espécies sujeitas ao regime de exceção, conforme previsto no capítulo IV",
+   "in_force_from": "2023-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 25/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/lei/25-2023-213706992), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "## Anexo III — Lista de espécies sujeitas ao regime de exceção, conforme previsto no capítulo IV\n\nMoluscos\n\nCrassostrea gigas\n\nPeixes\n\nCyprinus carpio\n\nMicropterus salmoides\n\nOncorhynchus mykiss\n\nFlora\n\nOpuntia ficus-indica (L.) Miller\n\n112421385\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 25/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/lei/25-2023-213706992), em vigor a partir de 2023-05-31"
+  }
+ }
+}

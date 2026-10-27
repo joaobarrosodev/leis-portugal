@@ -1,0 +1,340 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:518029:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-151155582",
+ "dre_path": "/dr/detalhe/portaria/176-2007-518029",
+ "source_lastmod": "2025-06-06",
+ "versions": [
+  {
+   "date": "2007-02-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921846046",
+    "151144204",
+    "151144205",
+    "151144206",
+    "151144207",
+    "151144208",
+    "151144209",
+    "151144210",
+    "151144211",
+    "151144212",
+    "151144213",
+    "151144214",
+    "151144215",
+    "151144216",
+    "151144217"
+   ]
+  },
+  {
+   "date": "2020-12-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151036061:por",
+     "title": "Portaria n.º 286/2020",
+     "published": "2020-12-14",
+     "dre_path": "/dr/detalhe/portaria/286-2020-151036061"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "921846046",
+    "921846047",
+    "921846048",
+    "921846049",
+    "921846050",
+    "921846051",
+    "921846052",
+    "921846053",
+    "921846054",
+    "921846055",
+    "921846056",
+    "921846057",
+    "921846058",
+    "921846059",
+    "921846060",
+    "921846061"
+   ]
+  }
+ ],
+ "fragments": {
+  "921846046": {
+   "fragment_id": "151155583",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-12-15",
+   "changed_by": [],
+   "markdown": "Portaria n.º 176/2007\n\nde 9 de Fevereiro\n\nConsiderando que a nova lei do associativismo jovem conferiu a possibilidade de as associações de estudantes do ensino secundário das escolas públicas e particulares beneficiarem de um subsídio anual que permita contribuir para uma melhor gestão e planificação das suas actividades, face ao espaço que as mesmas assumem naquele universo estudantil;\n\nConsiderando que aquele diploma legal remete para regulamentação conjunta entre os membros do Governo responsáveis pelas áreas da juventude e da educação;\n\nConsiderando, ainda, a necessidade de clarificar as regras de atribuição do referido subsídio:\n\nOuvido o Conselho Consultivo da Juventude:\n\nManda o Governo, pelos Secretários de Estado da Juventude e do Desporto e da Educação, em cumprimento do disposto no n.º 8 do artigo 40.º da Lei n.º 23/2006, de 23 de Junho, ao abrigo do n.º 2 do artigo 2.º do Decreto-Lei n.º 70/96, de 4 de Junho, o seguinte:"
+  },
+  "151144204": {
+   "fragment_id": "151155584",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regula a atribuição de um subsídio anual às associações de estudantes do ensino secundário das escolas públicas e particulares."
+  },
+  "151144205": {
+   "fragment_id": "151155585",
+   "type": 11,
+   "heading": "Artigo 2.º — Sujeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sujeitos\n\n1 - Podem candidatar-se ao respectivo subsídio anual:\n\na) As associações de estudantes do ensino secundário das escolas públicas, para atribuição de um apoio anual a suportar pelo orçamento de receitas próprias da escola pública a que aquelas pertencem;\n\nb) As associações de estudantes do ensino secundário das escolas particulares, para atribuição de um apoio anual a suportar pelo Instituto Português da Juventude (IPJ).\n\n2 - É condição de atribuição do subsídio o prévio reconhecimento e ou inscrição no Registo Nacional do Associativismo Jovem (RNAJ) das associações mencionadas no número anterior, nos termos da regulamentação aplicável."
+  },
+  "151144206": {
+   "fragment_id": "151155586",
+   "type": 11,
+   "heading": "Artigo 3.º — Candidatura e procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Candidatura e procedimento\n\n1 - As candidaturas são apresentadas e preenchidas por um utilizador, em ficha disponibilizada no sítio da Internet a indicar pelo IPJ.\n\n2 - Cabe ao IPJ confirmar os elementos da ficha de inscrição, fazendo-o através de suporte electrónico, para o utilizador.\n\n3 - Para além da ficha, a candidatura só fica completa quando depositados ou enviados por fax ou carta registada com aviso de recepção, ao IPJ, os seguintes documentos:\n\na) Plano de actividades para o ano civil em causa, com descrição das actividades a realizar, dos objectivos a atingir, dos recursos humanos e dos bens materiais necessários;\n\nb) Orçamento detalhado correspondente ao ano civil em que decorrem as actividades.\n\n4 - A candidatura deve ser formalizada até 20 de Dezembro de cada ano.\n\n5 - É ao IPJ que cabe avaliar as candidaturas apresentadas, devendo comunicar a respectiva avaliação aos membros do Governo competentes para proferir despacho.\n\n6 - As candidaturas apresentadas pelas associações de estudantes do ensino secundário das escolas privadas são decididas, por despacho, pelo membro do Governo responsável pela área da juventude.\n\n7 - As candidaturas apresentadas pelas associações de estudantes do ensino secundário das escolas públicas são decididas por despacho conjunto dos membros do Governo responsáveis pelas áreas da juventude e da educação.\n\n8 - Após despacho dos membros do Governo correspondentes, o IPJ comunica a decisão ao utilizador via endereço electrónico."
+  },
+  "151144207": {
+   "fragment_id": "151155587",
+   "type": 11,
+   "heading": "Artigo 4.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Financiamento\n\n1 - É o IPJ que financia as candidaturas apresentadas pelas associações das escolas secundárias do ensino privado.\n\n2 - São os estabelecimentos públicos com ensino secundário, que a associação representa, que atribuem o subsídio às associações cujas candidaturas tenham sido aprovadas pelo IPJ.\n\n3 - Para efeitos do disposto nos n.os 1 e 2 do presente artigo é de aplicar, por candidatura, a seguinte fórmula:\n\n(euro) 0,15 x Número de alunos do ensino secundário dos estabelecimentos de ensino que a associação representa\n\n4 - O apuramento do número de alunos referido no número anterior é feito com base na informação anualmente prestada ao IPJ pelo Ministério da Educação, através do envio, no início de cada ano, da lista de estabelecimentos do ensino público e privado, com identificação do número de alunos inscritos em cada uma das escolas, no nível do ensino secundário.\n\n5 - O não cumprimento do disposto no número anterior em tempo de análise da candidatura para efeitos de financiamento impede a observância do prazo, por parte do IPJ, para o apuramento do subsídio a atribuir à associação.\n\n6 - Cabe ao Ministério da Educação financiar as candidaturas apresentadas pelas associações das escolas secundárias do ensino público, de acordo com os seguintes procedimentos:\n\nO IPJ, até 31 de Março de cada ano, comunica ao Ministério da Educação (Gabinete de Gestão Financeira) e a cada um dos estabelecimentos de ensino que tenham associação de estudantes com candidatura aprovada a verba a atribuir à respectiva associação com contrapartida em receitas próprias não consignadas."
+  },
+  "151144208": {
+   "fragment_id": "151155588",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidades de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modalidades de pagamento\n\nAprovada a candidatura, o subsídio é pago pelo IPJ para as associações de estudantes do ensino secundário das escolas particulares e pelos estabelecimentos do ensino público para as associações de estudantes do ensino secundário das escolas públicas, após informadas pelo IPJ, em duas tranches, da seguinte forma:\n\na) 70% do valor total a pagar de uma só vez entre 15 de Abril e 30 de Maio;\n\nb) Os restantes 30% 15 dias após a entrega do relatório intercalar, pelo IPJ, e comunicação deste à escola respectiva de que o remanescente pode ser pago."
+  },
+  "151144209": {
+   "fragment_id": "151155589",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação\n\n1 - No ano em que decorre a candidatura apoiada, as associações de estudantes devem:\n\na) Elaborar e entregar um relatório intercalar até 15 de Outubro em formato a disponibilizar pelo IPJ no respectivo sítio da Internet;\n\nb) Elaborar um relatório final até 1 de Março do ano seguinte acompanhado dos respectivos documentos comprovativos das despesas efectuadas, bem como relatório e contas referente ao ano económico no qual decorreram as actividades.\n\n2 - O modelo de relatório final e o modelo do relatório e contas ficarão disponíveis no sítio da Internet, em formato a disponibilizar pelo IPJ.\n\n3 - Os comprovativos das despesas legalmente aceites correspondem ao definido nos Códigos do IVA e das Sociedades Comerciais, em concordância com as normas fiscais e contabilísticas em vigor.\n\n4 - Sempre que se verifique mudança ou alteração da direcção, no ano civil em que decorrem as actividades aprovadas, deve ser preenchido, no prazo máximo de 20 dias após a tomada de posse da nova direcção e com carácter especial, um relatório intercalar.\n\n5 - O disposto no número anterior não tem aplicação sempre que a mudança de direcção decorra em tempo útil de entrega do relatório intercalar referido na alínea a) do n.º 1 do presente artigo."
+  },
+  "151144210": {
+   "fragment_id": "151155590",
+   "type": 11,
+   "heading": "Artigo 7.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sanções\n\n1 - A não entrega dos documentos previstos no artigo 2.º impede a apresentação da respectiva candidatura.\n\n2 - A não entrega do relatório intercalar impede o pagamento da tranche a que se refere a alínea b) do artigo 4.º\n\n3 - A não entrega dos documentos constantes da alínea b) do n.º 1 do artigo 5.º impede a candidatura ao subsídio para o ano seguinte.\n\n4 - Independentemente do disposto no número anterior, são de aplicar, com as necessárias adaptações, as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho.\n\n5 - Compete à comissão executiva aplicar as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho, após proposta fundamentada dos serviços."
+  },
+  "151144211": {
+   "fragment_id": "151155591",
+   "type": 11,
+   "heading": "Artigo 8.º — Valor documental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Valor documental\n\n1 - Só podem ser utilizados os factos constantes de documentos que legalmente os comprovem.\n\n2 - Os documentos em língua estrangeira só podem ser aceites quando traduzidos na língua portuguesa.\n\n3 - Ao valor probatório dos documentos electrónicos aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 290-D/99, de 2 de Agosto."
+  },
+  "151144212": {
+   "fragment_id": "151155592",
+   "type": 11,
+   "heading": "Artigo 9.º — Circulação electrónica de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Circulação electrónica de documentos\n\nAs entidades mencionadas neste regulamento privilegiam a divulgação e troca de documentos entre si através de meios electrónicos."
+  },
+  "151144213": {
+   "fragment_id": "151155593",
+   "type": 11,
+   "heading": "Artigo 10.º — Impugnação das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Impugnação das decisões\n\nÀ reclamação ou recurso das decisões em matéria de registo aplica-se, com as necessárias adaptações, o disposto no Código do Procedimento Administrativo."
+  },
+  "151144214": {
+   "fragment_id": "151155594",
+   "type": 11,
+   "heading": "Artigo 11.º — Conservação de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conservação de documentos\n\nTodos os documentos originais referentes à candidatura apoiada pelo presente programa devem ser carimbados com carimbo fornecido pelo IPJ e conservado pelas associações, pelo período de quatro anos, devendo, ainda, estar disponíveis para entrega por solicitação do IPJ ou de qualquer entidade auditora no prazo de vinte e quatro horas."
+  },
+  "151144215": {
+   "fragment_id": "151155595",
+   "type": 11,
+   "heading": "Artigo 12.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Aplicação subsidiária\n\nA presente portaria não afasta a aplicação subsidiária da Lei n.º 23/2006, de 23 de Junho."
+  },
+  "151144216": {
+   "fragment_id": "151155596",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma transitória\n\n1 - Excepcionam-se do disposto no n.º 2 do artigo 1.º as associações que já beneficiem de registo no RNAJ aquando da entrada em vigor da presente portaria, para as quais será efectuada a transição de registos nos termos da regulamentação aplicável.\n\n2 - No 1.º ano de vigência da presente portaria devem as associações entregar um relatório e contas correspondente às actividades desenvolvidas e apoiadas no ano civil e económico de 2006, até 31 de Maio de 2007, sob pena de não receberem a tranche a que se refere a alínea b) do artigo 4.º\n\n3 - Excepcionalmente, para o ano de 2007, as candidaturas podem ser apresentadas até 20 de Fevereiro, sendo a transferência referente à 1.ª tranche efectuada até 30 de Junho."
+  },
+  "151144217": {
+   "fragment_id": "151155597",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 10 de Janeiro de 2007."
+  },
+  "921846047": {
+   "fragment_id": "151155584",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regula a atribuição de um subsídio anual às associações de estudantes do ensino secundário das escolas públicas e particulares.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "921846048": {
+   "fragment_id": "151155585",
+   "type": 11,
+   "heading": "Artigo 2.º — Sujeitos",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 2.º — Sujeitos\n\n1 - Podem candidatar-se ao respectivo subsídio anual:\n\na) As associações de estudantes do ensino secundário das escolas públicas, para atribuição de um apoio anual a suportar pelo orçamento de receitas próprias da escola pública a que aquelas pertencem;\n\nb) As associações de estudantes do ensino secundário das escolas particulares, para atribuição de um apoio anual a suportar pelo Instituto Português da Juventude (IPJ).\n\n2 - É condição de atribuição do subsídio o prévio reconhecimento e ou inscrição no Registo Nacional do Associativismo Jovem (RNAJ) das associações mencionadas no número anterior, nos termos da regulamentação aplicável.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "921846049": {
+   "fragment_id": "151155586",
+   "type": 11,
+   "heading": "Artigo 3.º — Candidatura e procedimento",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 3.º — Candidatura e procedimento\n\n1 - As candidaturas são apresentadas e preenchidas por um utilizador, em ficha disponibilizada no sítio da Internet a indicar pelo IPJ.\n\n2 - Cabe ao IPJ confirmar os elementos da ficha de inscrição, fazendo-o através de suporte electrónico, para o utilizador.\n\n3 - Para além da ficha, a candidatura só fica completa quando depositados ou enviados por fax ou carta registada com aviso de recepção, ao IPJ, os seguintes documentos:\n\na) Plano de actividades para o ano civil em causa, com descrição das actividades a realizar, dos objectivos a atingir, dos recursos humanos e dos bens materiais necessários;\n\nb) Orçamento detalhado correspondente ao ano civil em que decorrem as actividades.\n\n4 - A candidatura deve ser formalizada até 20 de Dezembro de cada ano.\n\n5 - É ao IPJ que cabe avaliar as candidaturas apresentadas, devendo comunicar a respectiva avaliação aos membros do Governo competentes para proferir despacho.\n\n6 - As candidaturas apresentadas pelas associações de estudantes do ensino secundário das escolas privadas são decididas, por despacho, pelo membro do Governo responsável pela área da juventude.\n\n7 - As candidaturas apresentadas pelas associações de estudantes do ensino secundário das escolas públicas são decididas por despacho conjunto dos membros do Governo responsáveis pelas áreas da juventude e da educação.\n\n8 - Após despacho dos membros do Governo correspondentes, o IPJ comunica a decisão ao utilizador via endereço electrónico.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "921846050": {
+   "fragment_id": "151155587",
+   "type": 11,
+   "heading": "Artigo 4.º — Financiamento",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15",
+    "Retificado pelo/a [Declaração de Rectificação n.º 22/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2007-520474), produz efeitos a partir de 2007-02-10"
+   ],
+   "markdown": "###### Artigo 4.º — Financiamento\n\n1 - É o IPJ que financia as candidaturas apresentadas pelas associações das escolas secundárias do ensino privado.\n\n2 - São os estabelecimentos públicos com ensino secundário, que a associação representa, que atribuem o subsídio às associações cujas candidaturas tenham sido aprovadas pelo IPJ.\n\n3 - Para efeitos do disposto nos n.os 1 e 2 do presente artigo é de aplicar, por candidatura, a seguinte fórmula:\n\n(euro) 0,15 x Número de alunos do ensino secundário dos estabelecimentos de ensino que a associação representa\n\n4 - O apuramento do número de alunos referido no número anterior é feito com base na informação anualmente prestada ao IPJ pelo Ministério da Educação, através do envio, no início de cada ano, da lista de estabelecimentos do ensino público e privado, com identificação do número de alunos inscritos em cada uma das escolas, no nível do ensino secundário.\n\n5 - O não cumprimento do disposto no número anterior em tempo de análise da candidatura para efeitos de financiamento impede a observância do prazo, por parte do IPJ, para o apuramento do subsídio a atribuir à associação.\n\n6 - Cabe ao Ministério da Educação financiar as candidaturas apresentadas pelas associações das escolas secundárias do ensino público, de acordo com os seguintes procedimentos:\n\na) O IPJ, até 31 de Março de cada ano, comunica ao Ministério da Educação (Gabinete de Gestão Financeira) e a cada um dos estabelecimentos de ensino que tenham associação de estudantes com candidatura aprovada a verba a atribuir à respectiva associação com contrapartida em receitas próprias não consignadas.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15\n\n> Retificado pelo/a [Declaração de Rectificação n.º 22/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2007-520474), produz efeitos a partir de 2007-02-10"
+  },
+  "921846051": {
+   "fragment_id": "151155588",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidades de pagamento",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 5.º — Modalidades de pagamento\n\nAprovada a candidatura, o subsídio é pago pelo IPJ para as associações de estudantes do ensino secundário das escolas particulares e pelos estabelecimentos do ensino público para as associações de estudantes do ensino secundário das escolas públicas, após informadas pelo IPJ, em duas tranches, da seguinte forma:\n\na) 70% do valor total a pagar de uma só vez entre 15 de Abril e 30 de Maio;\n\nb) Os restantes 30% 15 dias após a entrega do relatório intercalar, pelo IPJ, e comunicação deste à escola respectiva de que o remanescente pode ser pago.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "921846052": {
+   "fragment_id": "151155589",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 6.º — Avaliação\n\n1 - No ano em que decorre a candidatura apoiada, as associações de estudantes devem:\n\na) Elaborar e entregar um relatório intercalar até 15 de Outubro em formato a disponibilizar pelo IPJ no respectivo sítio da Internet;\n\nb) Elaborar um relatório final até 1 de Março do ano seguinte acompanhado dos respectivos documentos comprovativos das despesas efectuadas, bem como relatório e contas referente ao ano económico no qual decorreram as actividades.\n\n2 - O modelo de relatório final e o modelo do relatório e contas ficarão disponíveis no sítio da Internet, em formato a disponibilizar pelo IPJ.\n\n3 - Os comprovativos das despesas legalmente aceites correspondem ao definido nos Códigos do IVA e das Sociedades Comerciais, em concordância com as normas fiscais e contabilísticas em vigor.\n\n4 - Sempre que se verifique mudança ou alteração da direcção, no ano civil em que decorrem as actividades aprovadas, deve ser preenchido, no prazo máximo de 20 dias após a tomada de posse da nova direcção e com carácter especial, um relatório intercalar.\n\n5 - O disposto no número anterior não tem aplicação sempre que a mudança de direcção decorra em tempo útil de entrega do relatório intercalar referido na alínea a) do n.º 1 do presente artigo.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "921846053": {
+   "fragment_id": "151155590",
+   "type": 11,
+   "heading": "Artigo 7.º — Sanções",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15",
+    "Retificado pelo/a [Declaração de Rectificação n.º 22/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2007-520474), produz efeitos a partir de 2007-02-10"
+   ],
+   "markdown": "###### Artigo 7.º — Sanções\n\n1 - A não entrega dos documentos previstos no n.º 3 do artigo 3.º impede a apresentação da respectiva candidatura.\n\n2 - A não entrega do relatório intercalar impede o pagamento da tranche a que se refere a alínea b) do artigo 5.º\n\n3 - A não entrega dos documentos constantes da alínea b) do n.º 1 do artigo 6.º, impede a candidatura ao subsídio para o ano seguinte.\n\n4 - Independentemente do disposto no número anterior, são de aplicar, com as necessárias adaptações, as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho.\n\n5 - Compete à comissão executiva aplicar as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho, após proposta fundamentada dos serviços.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15\n\n> Retificado pelo/a [Declaração de Rectificação n.º 22/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2007-520474), produz efeitos a partir de 2007-02-10"
+  },
+  "921846054": {
+   "fragment_id": "151155591",
+   "type": 11,
+   "heading": "Artigo 8.º — Valor documental",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 8.º — Valor documental\n\n1 - Só podem ser utilizados os factos constantes de documentos que legalmente os comprovem.\n\n2 - Os documentos em língua estrangeira só podem ser aceites quando traduzidos na língua portuguesa.\n\n3 - Ao valor probatório dos documentos electrónicos aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 290-D/99, de 2 de Agosto.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "921846055": {
+   "fragment_id": "151155592",
+   "type": 11,
+   "heading": "Artigo 9.º — Circulação electrónica de documentos",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 9.º — Circulação electrónica de documentos\n\nAs entidades mencionadas neste regulamento privilegiam a divulgação e troca de documentos entre si através de meios electrónicos.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "921846056": {
+   "fragment_id": "151155593",
+   "type": 11,
+   "heading": "Artigo 10.º — Impugnação das decisões",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 10.º — Impugnação das decisões\n\nÀ reclamação ou recurso das decisões em matéria de registo aplica-se, com as necessárias adaptações, o disposto no Código do Procedimento Administrativo.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "921846057": {
+   "fragment_id": "151155594",
+   "type": 11,
+   "heading": "Artigo 11.º — Conservação de documentos",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 11.º — Conservação de documentos\n\nTodos os documentos originais referentes à candidatura apoiada pelo presente programa devem ser carimbados com carimbo fornecido pelo IPJ e conservado pelas associações, pelo período de quatro anos, devendo, ainda, estar disponíveis para entrega por solicitação do IPJ ou de qualquer entidade auditora no prazo de vinte e quatro horas.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "921846058": {
+   "fragment_id": "151155595",
+   "type": 11,
+   "heading": "Artigo 12.º — Aplicação subsidiária",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 12.º — Aplicação subsidiária\n\nA presente portaria não afasta a aplicação subsidiária da Lei n.º 23/2006, de 23 de Junho.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "921846059": {
+   "fragment_id": "151155596",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma transitória",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15",
+    "Retificado pelo/a [Declaração de Rectificação n.º 22/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2007-520474), produz efeitos a partir de 2007-02-10"
+   ],
+   "markdown": "###### Artigo 13.º — Norma transitória\n\n1 - Excepcionam-se do disposto no n.º 2 do artigo 2.º as associações que já beneficiem de registo no RNAJ aquando da entrada em vigor da presente portaria, para as quais será efectuada a transição de registos nos termos da regulamentação aplicável.\n\n2 - No 1.º ano de vigência da presente portaria devem as associações entregar um relatório e contas correspondente às actividades desenvolvidas e apoiadas no ano civil e económico de 2006, até 31 de Maio de 2007, sob pena de não receberem a tranche a que se refere alínea b) do artigo 5.º\n\n3 - Excepcionalmente, para o ano de 2007, as candidaturas podem ser apresentadas até 20 de Fevereiro, sendo a transferência referente à 1.ª tranche efectuada até 30 de Junho.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15\n\n> Retificado pelo/a [Declaração de Rectificação n.º 22/2007 - Diário da República n.º 60/2007, Série I de 2007-03-26](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-2007-520474), produz efeitos a partir de 2007-02-10"
+  },
+  "921846060": {
+   "fragment_id": "151155597",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 10 de Janeiro de 2007.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "921846061": {
+   "fragment_id": "151155598",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "O Secretário de Estado da Juventude e do Desporto, Laurentino José Monteiro Castro Dias. - O Secretário de Estado da Educação, Valter Victorino Lemos.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  }
+ }
+}

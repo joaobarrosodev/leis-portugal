@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:412024:por
+title: Portaria n.º 835/73
+short_title: null
+summary: Adopta medidas tendentes à defesa das existências de albacora
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Gabinete do Ministro
+proposing_entity: null
+official_number: 835/73
+official_date: null
+publication_date: '1973-11-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 276/1973, Série I de 1973-11-26
+  number: '276'
+  series: I
+  supplement: null
+  pages: 2285 - 2286
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/11/27600/22852286.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '412024'
+  dre_path: /dr/detalhe/portaria/835-1973-412024
+  internal: pt:dre:412024:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/835-1973-412024
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/835-1973-412024
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:16:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 90d887516408a740664af5737f3cddaf97d09a026673741babfcd1568ec08903
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:16:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:16:09Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 835/73
+
+de 26 de Novembro
+
+Com vista à conservação das existências de albacora, foi aprovada, por unanimidade, na segunda sessão ordinária, de 29 de Novembro de 1972, do Conselho da Comissão Internacional para a Conservação de Tunídeos do Atlântico, da qual Portugal é membro, a adopção de medidas tendentes à defesa daquela espécie, tendo para o efeito sido recomendado aos países signatários que tomem as disposições necessárias para a sua execução.
+
+Nestas condições:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+
+1. É proibido, excepto nas condições do n.º 2, manter a bordo, desembarcar, vender, expor ou oferecer para venda, inteiros ou não, espécimes de albacora (yellow tuna fin) com menos de 3,200 kg.
+
+2. É permitido manter a bordo, desembarcar, vender, expor ou oferecer para venda, inteiros ou não, espécimes de albacora (yellow tuna fin) com menos de 3,200 kg, quando o número desses espécimes não exceda 15% do número total de albacoras mantidas a bordo, desembarcadas, vendidas, expostas ou oferecidas para venda numa mesma ocasião.
+
+Ministério da Marinha, 12 de Novembro de 1973. - O Ministro da Marinha, Manuel Pereira Crespo.

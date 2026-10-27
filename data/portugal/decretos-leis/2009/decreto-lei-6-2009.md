@@ -1,0 +1,1029 @@
+---
+schema_version: '1.0'
+id: pt:dre:396878:por
+title: Decreto-Lei n.º 6/2009
+short_title: null
+summary: Estabelece o regime de colocação no mercado de pilhas e acumuladores e o regime de recolha, tratamento, reciclagem
+  e eliminação dos resíduos de pilhas e de acumuladores, transpondo para a ordem jurídica interna a Directiva n.º 2006/66/CE,
+  do Parlamento Europeu e do Conselho, de 6 de Setembro, relativa a pilhas e acumuladores e respectivos resíduos e que revoga
+  a Directiva n.º 91/157/CEE, do Conselho, de 18 de Março, alterada pela Directiva n.º 2008/12/CE, do Parlamento Europeu e
+  do Conselho, de 11 de Março
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 6/2009
+official_date: null
+publication_date: '2009-01-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 3/2009, Série I de 2009-01-06
+  number: '3'
+  series: I
+  supplement: null
+  pages: 127 - 136
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/01/00300/0012700136.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-01-01'
+version_history:
+  file: decreto-lei-6-2009.versoes.json
+  count: 5
+  source_lastmod: '2025-06-25'
+  versions:
+  - date: '2009-01-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-04'
+    amending: pt:dre:490706:por
+    amending_title: Decreto-Lei n.º 266/2009
+    changes:
+    - Adita Artigo 34.º-A
+    - Altera Artigo 28.º
+  - date: '2011-06-18'
+    amending: pt:dre:670034:por
+    amending_title: Decreto-Lei n.º 73/2011
+    changes:
+    - Altera Artigo 23.º
+    - Revoga Artigo 24.º
+  - date: '2015-08-30'
+    amending: pt:dre:70095699:por
+    amending_title: Decreto-Lei n.º 173/2015
+    changes:
+    - Adita Artigo 10.º-A
+    - Adita Artigo 19.º-A
+    - Adita Artigo 21.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 28.º
+  - date: '2018-01-01'
+    amending: pt:dre:114337042:por
+    amending_title: Decreto-Lei n.º 152-D/2017
+    changes:
+    - Revoga Capítulo I
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Capítulo II
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 10.º-A
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Capítulo III
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 19.º-A
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 21.º-A
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Capítulo V
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Capítulo VI
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/6/2009/p/cons/20171211/pt/html
+  oj: null
+  dre: '396878'
+  dre_path: /dr/detalhe/decreto-lei/6-2009-396878
+  internal: pt:dre:396878:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2009-396878
+  metadata_url: https://data.dre.pt/eli/dec-lei/6/2009/p/cons/20171211/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70095759
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70095759
+  retrieved_at: '2026-10-22T13:30:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-25T00:00:00Z'
+integrity:
+  source_sha256: 696fd04c0edf569586832c44a5d56ff1d99f0bb1b80da5a55bcd5193ca65a9df
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:30:46Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-6-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Região Autónoma
+- Gestão de Resíduos
+- Financiamento
+- Multa
+- Contra-ordenação
+- Definição de Competências
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Equipamento Eléctrico
+- Etiquetagem
+- Fabrico Industrial
+- Fiscalização
+- Gestor
+- ASAE
+- Licenciamento
+- Embalagem
+- Inspecção Geral do Ambiente e do Ordenamento do Território
+- Proteção do Ambiente
+- Tratamento de Resíduos
+- Receita Própria
+- Sanção
+- Eliminação de Resíduos
+- Registo Comercial
+- Comércio
+- Agência Portuguesa do Ambiente
+relationships:
+- type: amended_by
+  target: pt:dre:490706:por
+  label: Adita Artigo 34.º-A; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2009-490706
+  date: '2009-09-29'
+- type: amended_by
+  target: pt:dre:670034:por
+  label: Altera Artigo 23.º; Revoga Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034
+  date: '2011-06-17'
+- type: amended_by
+  target: pt:dre:70095699:por
+  label: Adita Artigo 10.º-A; Adita Artigo 19.º-A; Adita Artigo 21.º-A; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo
+    6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 13.º; Altera Artigo 17.º;
+    Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 23.º; Altera Artigo 25.º; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699
+  date: '2015-08-25'
+- type: amended_by
+  target: pt:dre:114337042:por
+  label: Revoga Capítulo I; Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Capítulo II; Revoga Artigo 4.º;
+    Revoga Artigo 5.º; Revoga Artigo 6.º; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º; Revoga
+    Artigo 10.º-A; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo 15.º; Revoga
+    Capítulo III; Revoga Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
+- type: cites
+  target: celex:31991L0157
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/157/oj
+- type: cites
+  target: celex:31998L0101
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/101/oj
+- type: cites
+  target: celex:32006L0066
+  label: null
+  source: http://data.europa.eu/eli/dir/2006/66/oj
+- type: cites
+  target: celex:32008D0763
+  label: null
+  source: http://data.europa.eu/eli/dec/2008/763/oj
+- type: cites
+  target: celex:32008L0012
+  label: null
+  source: http://data.europa.eu/eli/dir/2008/12/oj
+- type: cites
+  target: celex:32012R0493
+  label: null
+  source: null
+- type: transposes
+  target: celex:31991L0157
+  label: null
+  source: null
+- type: transposes
+  target: celex:32006L0066
+  label: null
+  source: null
+article_structure:
+  article_count: 41
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:30:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 6/2009
+
+Decreto-Lei n.º 6/2009
+
+de 6 de Janeiro
+
+O Decreto-Lei n.º 62/2001, de 19 de Fevereiro, transpôs para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0101" title="Link para Directiva da Comunidade Europeia">98/101/CE</a>, da Comissão, de 22 de Dezembro, que adaptou ao progresso técnico a Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0157" title="Link para Directiva da Comunidade Europeia">91/157/CEE</a>, do Conselho, de 18 de Março, relativa a pilhas e acumuladores contendo determinadas substâncias perigosas. Neste enquadramento, o referido decreto-lei remeteu a gestão deste fluxo de resíduos para dois programas de acção relativos a acumuladores de veículos industriais e similares e a pilhas e outros acumuladores, consubstanciados na Portaria n.º 572/2001, de 6 de Junho. Remeteu ainda a definição das regras relativas ao sistema integrado de pilhas e outros acumuladores para a Portaria n.º 571/2001, de 6 de Junho.
+
+A Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0066" title="Link para Directiva da Comunidade Europeia">2006/66/CE</a>, do Parlamento Europeu e do Conselho, de 6 de Setembro, relativa a pilhas e acumuladores e respectivos resíduos, alterada pela Directiva n.º <a href="eurlex.asp?ano=2008&id=308L0012" title="Link para Directiva da Comunidade Europeia">2008/12/CE</a>, do Parlamento Europeu e do Conselho, de 11 de Março, veio entretanto revogar a Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0157" title="Link para Directiva da Comunidade Europeia">91/157/CEE</a>, do Conselho, de 18 de Março.
+
+Em consonância com a Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0066" title="Link para Directiva da Comunidade Europeia">2006/66/CE</a>, do Parlamento Europeu e do Conselho, de 6 de Setembro, o presente decreto-lei dá particular enfoque à necessidade de redução da quantidade de substâncias perigosas incorporadas nas pilhas e acumuladores, em especial o mercúrio, o cádmio e o chumbo. Neste contexto, preconiza um desempenho ambiental tendencialmente mais elevado por parte dos agentes económicos que intervêm no ciclo de vida das pilhas e acumuladores, desde os fabricantes destes produtos aos operadores de gestão dos resíduos resultantes e proíbe a comercialização de pilhas e acumuladores contendo mercúrio ou cádmio acima de determinados valores de concentração.
+
+O presente decreto-lei prevê, ainda, o reforço da recolha selectiva através da fixação de taxas mínimas de recolha de resíduos de pilhas e acumuladores portáteis, bem como o aumento da reciclagem, estabelecendo rendimentos mínimos para esta operação de gestão.
+
+Preconiza também a adopção dos princípios da auto-suficiência, da prevenção e redução, da hierarquia das operações de gestão de resíduos, da responsabilidade do cidadão, da regulação da gestão de resíduos e da equivalência e co-responsabiliza todos os intervenientes no ciclo de vida das pilhas e acumuladores pela sua gestão, na medida da respectiva intervenção e responsabilidade. Atribui aos produtores a obrigação de assegurarem a recolha selectiva, o tratamento, a reciclagem e a eliminação dos resíduos de pilhas e acumuladores, permitindo-lhes optar por um sistema integrado, transferindo a sua responsabilidade para a respectiva entidade gestora.
+
+O presente decreto-lei não deixou de ter em consideração outros regimes de gestão de fluxos específicos em vigor, designadamente os consagrados no Decreto-Lei n.º 196/2003, de 23 de Agosto, com a redacção que lhe foi dada pelos Decretos-Leis n.os 178/2006, de 5 de Setembro, e 64/2008, de 8 de Abril, sobre veículos em fim de vida, e no Decreto-Lei n.º 230/2004, de 10 de Dezembro, com a redacção que lhe foi dada pelos Decretos-Leis n.os 174/2005, de 25 de Outubro, e 178/2006, de 5 de Setembro, sobre resíduos de equipamentos eléctricos e electrónicos. Procurou-se, neste contexto, uma abordagem comum, baseada na aplicação de princípios de gestão idênticos, permitindo uma boa articulação entre as entidades gestoras daqueles fluxos, obviando duplas tributações e optimizando sinergias.
+
+Nestes termos, o presente decreto-lei procede à transposição para direito interno da Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0066" title="Link para Directiva da Comunidade Europeia">2006/66/CE</a>, do Parlamento Europeu e do Conselho, de 6 de Setembro, relativa a pilhas e acumuladores e respectivos resíduos, revogando o Decreto-Lei n.º 62/2001, de 19 de Fevereiro, e as Portarias n.os 571/2001 e 572/2001, de 6 de Junho.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foram promovidas as diligências necessárias à audição da Assembleia Legislativa da Região Autónoma dos Açores.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece o regime de colocação no mercado de pilhas e acumuladores e o regime de recolha, tratamento, reciclagem e eliminação dos resíduos de pilhas e de acumuladores, transpondo para a ordem jurídica interna a Diretiva n.º 2006/66/CE, do Parlamento Europeu e do Conselho, de 6 de setembro, relativa a pilhas e acumuladores e respetivos resíduos, que revoga a Diretiva n.º 91/157/CEE, do Conselho, de 18 de março, alterada pelas Diretivas n.os 2008/12/CE, 2008/103/CE e 2013/56/UE, todas do Parlamento Europeu e do Conselho, de 11 de março de 2008, de 19 de novembro de 2008 e de 20 de novembro de 2013, respetivamente.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se às pilhas e acumuladores, independentemente da sua forma, volume, peso, materiais constituintes ou utilização.
+
+2 - Excluem-se do âmbito de aplicação do presente decreto-lei as pilhas e acumuladores utilizados em:
+
+a) Aparelhos associados à defesa e segurança do Estado, designadamente armas, munições e material bélico desde que destinados a fins exclusivamente militares;
+
+b) Aparelhos concebidos para serem enviados para o espaço.
+
+3 - O disposto no presente decreto-lei não prejudica a aplicação do Decreto-Lei n.º 196/2003, de 23 de Agosto, com a redacção que lhe foi dada pelos Decretos-Leis n.os 178/2006, de 5 de Setembro, e 64/2008, de 8 de Abril, e do Decreto-Lei n.º 230/2004, de 10 de Dezembro, com a redacção que lhe foi dada pelos Decretos-Leis n.os 174/2005, de 25 de Outubro, e 178/2006, de 5 de Setembro.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Aparelho» qualquer equipamento eléctrico ou electrónico definido nos termos da alínea a) do artigo 3.º do Decreto-Lei n.º 230/2004, de 10 de Dezembro, que seja alimentado por pilhas ou acumuladores ou susceptível de o ser;
+
+b) «Bateria de pilhas» o conjunto de pilhas ou acumuladores ligados entre si e ou encerrados num invólucro formando uma unidade completa, não destinada a ser separada, nem aberta pelo utilizador final;
+
+c) «Bateria ou acumulador industriais» a bateria ou acumulador concebidos exclusivamente para fins industriais ou profissionais ou utilizados em qualquer tipo de veículos eléctricos, designadamente os utilizados como fonte de energia de emergência ou de reserva nos hospitais, aeroportos ou escritórios, os concebidos exclusivamente para terminais de pagamento portáteis em lojas e restaurantes e para leitores de código de barras em lojas, os utilizados em instrumentação ou em diversos tipos de aparelhos de medição, os utilizados em ligação com aplicações de energias renováveis como os painéis solares e os utilizados em veículos eléctricos, como, por exemplo, carros, cadeiras de rodas, bicicletas, veículos utilizados nos aeroportos e veículos automáticos de transporte;
+
+d) «Bateria ou acumulador para veículos automóveis» a bateria ou acumulador utilizados para fornecer energia ao motor de arranque, para as luzes ou para a ignição;
+
+e) «Colocação no mercado» o fornecimento ou disponibilização de um produto a terceiros, a título oneroso ou gratuito, incluindo a importação para o território nacional;
+
+f) «Distribuidor» qualquer pessoa singular ou colectiva que, no âmbito da sua actividade profissional, forneça pilhas e acumuladores a um utilizador final;
+
+g) «Eliminação» qualquer das operações previstas na alínea j) do artigo 3.º do Decreto-Lei n.º 178/2006, de 5 de Setembro;
+
+h) «Ferramenta eléctrica sem fios» qualquer aparelho portátil, discriminado na categoria 6 do anexo i do Decreto-Lei n.º 230/2004, de 10 de Dezembro, alimentado por pilhas ou acumuladores e destinado a actividades de construção, manutenção ou jardinagem;
+
+i) «Operadores económicos» quaisquer produtores, distribuidores ou operadores de gestão de resíduos;
+
+j) «Pilha-botão» pequena pilha ou pequeno acumulador cilíndrico portátil de diâmetro superior à altura, utilizado para fins especiais, designadamente para aparelhos auditivos, relógios, pequenos aparelhos portáteis e dispositivos de alimentação de reserva;
+
+l) «Pilha ou acumulador» qualquer fonte de energia eléctrica obtida por transformação directa de energia química, constituída por uma ou mais células primárias não recarregáveis ou por um ou mais elementos secundários recarregáveis;
+
+m) «Pilha ou acumulador portátil» qualquer pilha, pilha-botão, bateria de pilhas ou acumulador que seja fechado hermeticamente, possa ser transportado à mão e não seja uma bateria ou acumulador industrial, nem uma bateria ou acumulador para veículos automóveis, nomeadamente as pilhas constituídas por um elemento único, como, por exemplo, as pilhas AA e AAA, bem como as pilhas e acumuladores utilizados em telemóveis, computadores portáteis, ferramentas eléctricas sem fios, brinquedos e aparelhos domésticos;
+
+n) «Produtor» qualquer pessoa singular ou colectiva que coloque, no âmbito da sua actividade profissional, pela primeira vez no mercado nacional, pilhas ou acumuladores, incluindo os incorporados em aparelhos ou veículos, independentemente da técnica de venda utilizada, incluindo a venda através da comunicação à distância;
+
+o) «Reciclagem» a operação de gestão de resíduos prevista na alínea s) do artigo 3.º do Decreto-Lei n.º 178/2006, de 5 de Setembro;
+
+p) «Resíduos de baterias e acumuladores provenientes de utilizadores finais particulares» resíduos de baterias e acumuladores provenientes do setor doméstico, bem como os provenientes de fontes comerciais, industriais, institucionais e outras que, pela sua natureza e quantidade, sejam semelhantes aos resíduos de baterias e acumuladores provenientes do setor doméstico;
+
+q) «Resíduo de pilha ou acumulador» uma pilha ou acumulador que constitua um resíduo na acepção da alínea u) do artigo 3.º do Decreto-Lei n.º 178/2006, de 5 de Setembro;
+
+r) «Taxa de recolha» a percentagem mássica obtida através do quociente entre os resíduos de pilhas e acumuladores portáteis recolhidos a nível nacional num dado ano civil e a média das pilhas e acumuladores vendidos nesse ano civil e nos dois anos anteriores aos utilizadores finais directamente pelos produtores ou através de terceiros;
+
+s) «Tratamento» qualquer actividade efectuada depois de os resíduos de pilhas e acumuladores terem sido entregues a uma instalação para fins de triagem, de preparação para a reciclagem ou de preparação para a eliminação.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+### Capítulo II — Gestão de pilhas e acumuladores e dos respectivos resíduos
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 4.º — Princípios de gestão
+
+A gestão de pilhas e acumuladores e dos respectivos resíduos realizam-se de acordo com os princípios da auto-suficiência, da prevenção e redução, da hierarquia das operações de gestão de resíduos, da responsabilidade do cidadão, da regulação da gestão de resíduos e da equivalência previstos no Decreto-Lei n.º 178/2006, de 5 de Setembro.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 5.º — Responsabilidade da gestão
+
+Todos os intervenientes no ciclo de vida das pilhas e acumuladores, desde a sua concepção, fabrico, comercialização e utilização até ao manuseamento dos respectivos resíduos, são co-responsáveis pela sua gestão, devendo contribuir, na medida da respectiva intervenção e responsabilidade, para o funcionamento dos sistemas de gestão criados nos termos do presente decreto-lei.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 6.º — Obrigações dos fabricantes de pilhas ou acumuladores e dos fabricantes dos aparelhos que os contêm incorporados
+
+1 - Os fabricantes de pilhas ou acumuladores devem conceber pilhas e acumuladores que progressivamente contenham menos substâncias perigosas, designadamente através da substituição dos metais pesados como o mercúrio, o cádmio e o chumbo, por forma a diminuir o seu impacte negativo no ambiente e na saúde humana.
+
+2 - Os fabricantes de aparelhos que contêm pilhas ou acumuladores incorporados devem assegurar que os mesmos são:
+
+a) Concebidos de modo a facilitar a remoção dos resíduos de pilhas ou acumuladores pelos utilizadores finais ou por profissionais qualificados que sejam independentes do fabricante;
+
+b) Acompanhados de instruções que informem o utilizador final, ou os profissionais qualificados independentes, sobre o tipo de pilhas ou acumuladores neles incorporados e sobre a remoção segura dos respetivos resíduos.
+
+3 - O disposto no número anterior não é aplicável quando, por razões médicas, de segurança, de desempenho do aparelho ou de preservação de dados, seja necessária a continuidade do fornecimento de energia exigindo uma ligação permanente entre o aparelho e a pilha ou acumulador.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 7.º — Proibição de colocação no mercado
+
+1 - Sem prejuízo do disposto nos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 196/2003, de 23 de Agosto, é proibida a colocação no mercado de:
+
+a) Pilhas ou acumuladores, incorporados ou não em aparelhos, que contenham um teor ponderal de mercúrio superior a 5 ppm;
+
+b) Pilhas ou acumuladores portáteis, incluindo os incorporados em aparelhos, com um teor ponderal de cádmio superior a 20 ppm.
+
+2 - O disposto na alínea a) do número anterior não é aplicável às pilhas-botão com um teor ponderal de mercúrio inferior a 20 000 ppm até 1 de outubro de 2015.
+
+3 - O disposto na alínea b) do n.º 1 não é aplicável:
+
+a) Às pilhas e acumuladores portáteis utilizados em sistemas de alarme e de emergência, incluindo iluminação de emergência e aparelhos médicos;
+
+b) Às pilhas e acumuladores portáteis utilizados em ferramentas elétricas sem fios até 31 de dezembro de 2016.
+
+4 - As pilhas e acumuladores que não satisfaçam os requisitos do presente artigo mas que tenham sido legalmente colocados no mercado antes da data de aplicação das respetivas proibições podem continuar a ser comercializados até ao esgotamento das existências.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 8.º — Metas de recolha de resíduos de pilhas e acumuladores portáteis
+
+1 - Os produtores devem adoptar as medidas necessárias para que sejam, no mínimo, garantidas as seguintes taxas de recolha de resíduos de pilhas e acumuladores portáteis:
+
+a) 25 %, até 31 de Dezembro de 2011;
+
+b) 45 %, até 26 de setembro de 2016.
+
+2 - O cálculo das taxas de recolha referidas no número anterior inclui as pilhas e acumuladores incorporados ou não em aparelhos e obedece aos seguintes requisitos cumulativos:
+
+a) Ter por referência o ano civil completo de 2011;
+
+b) Obedecer ao sistema de controlo do cumprimento das metas previsto no anexo i ao presente decreto-lei, do qual faz parte integrante;
+
+c) Adoptar a metodologia comum prevista na Decisão da Comissão Europeia n.º <a href="eurlex.asp?ano=2008&id=308D0763" title="Link para Decisão da Comunidade Europeia">2008/763/CE</a>, de 29 de Setembro, para o cálculo das vendas anuais de pilhas e acumuladores portáteis aos utilizadores finais.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 9.º — Recolha de resíduos de pilhas e acumuladores portáteis
+
+1 - Os utilizadores finais estão obrigados a proceder à entrega dos resíduos de pilhas e acumuladores portáteis que detenham, sem quaisquer encargos, em pontos de recolha selectiva destinados para o efeito.
+
+2 - Os produtores, individualmente ou através de entidade gestora licenciada nos termos do presente decreto-lei, devem assegurar a instalação de pontos de recolha selectiva de resíduos de pilhas e acumuladores portáteis e suportar os demais custos decorrentes da referida operação de recolha.
+
+3 - A rede de recolha selectiva de resíduos de pilhas e acumuladores portáteis, constituída pelos pontos de recolha referidos no número anterior, é estruturada a partir da conjugação de:
+
+a) Sistemas municipais, intermunicipais e multimunicipais, criados no âmbito das atribuições autárquicas de recolha de resíduos urbanos;
+
+b) Distribuidores, que asseguram a retoma de resíduos de pilhas e acumuladores portáteis;
+
+c) Outros pontos de recolha instalados pela entidade gestora licenciada nos termos do presente decreto-lei ou por produtores, designadamente em unidades de saúde e escolas.
+
+4 - Os distribuidores de pilhas e acumuladores portáteis estão obrigados a aceitar a devolução dos respectivos resíduos, independentemente da sua composição química e da sua origem, sem encargos para os utilizadores finais e sem que estes tenham de adquirir novas pilhas ou acumuladores.
+
+5 - Para efeitos do disposto no número anterior, os distribuidores de pilhas e acumuladores portáteis são obrigados a dispor nas suas instalações de recipientes específicos para recolha selectiva de resíduos de pilhas e acumuladores portáteis em local bem identificado e acessível.
+
+6 - A recolha de resíduos de pilhas e acumuladores portáteis pode ser efectuada em conjunto com os sistemas de gestão de resíduos de equipamentos eléctricos e electrónicos previstos no Decreto-Lei n.º 230/2004, de 10 de Dezembro, caso em que as entidades gestoras devem acordar as condições da respectiva participação.
+
+7 - Os pontos de recolha seletiva referidos no presente artigo não estão sujeitos aos requisitos de licenciamento ou registo, nos termos, respetivamente, dos artigos 23.º e 45.º do Decreto-Lei n.º 178/2006, de 5 de setembro.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 10.º — Recolha de resíduos de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis provenientes de utilizadores finais particulares
+
+1 - Os utilizadores finais particulares estão obrigados a entregar os resíduos de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis que detenham, sem quaisquer encargos, nos termos previstos nos números seguintes, consoante aplicável.
+
+2 - Os distribuidores de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis estão obrigados a aceitar a devolução dos respetivos resíduos pelos utilizadores finais particulares, independentemente da sua composição química, à razão de um por um, no âmbito do fornecimento de uma nova bateria ou acumulador.
+
+3 - Os produtores de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis, individualmente ou através de entidade gestora licenciada nos termos do presente decreto-lei, devem assegurar a existência de pontos de recolha seletiva dos respetivos resíduos e suportar os inerentes custos de instalação e funcionamento.
+
+4 - A devolução dos resíduos de baterias e acumuladores de veículos automóveis particulares não comerciais nos pontos de recolha referidos no número anterior é livre de quaisquer encargos para o utilizador final particular e não depende da aquisição de novas baterias ou acumuladores.
+
+5 - Os resíduos de baterias e acumuladores recolhidos selectivamente devem ser acondicionados em recipientes estanques, com uma composição que não reaja com os componentes dos referidos resíduos, e armazenados com o líquido no seu interior e na posição vertical, com aberturas fechadas e voltadas para cima.
+
+6 - A recolha de resíduos de baterias e acumuladores para veículos automóveis pode ser efectuada em conjunto com os sistemas de gestão de veículos em fim de vida previstos no Decreto-Lei n.º 196/2003, de 23 de Agosto, na sua redacção actual, caso em que as entidades gestoras devem acordar as condições da respectiva participação.
+
+7 - Sem prejuízo do disposto no n.º 5, os distribuidores, no âmbito da obrigação estabelecida no n.º 2, e os pontos de recolha seletiva referidos no n.º 3, não estão sujeitos aos requisitos de licenciamento ou registo, nos termos, respetivamente, dos artigos 23.º e 45.º do Decreto-Lei n.º 178/2006, de 5 de setembro.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 10.º-A — Recolha de resíduos de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis provenientes de utilizadores finais não particulares
+
+1 - Os utilizadores finais não particulares procedem ao encaminhamento dos resíduos de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis que detenham através de uma entidade gestora licenciada, nos termos do presente decreto-lei, ou de um operador licenciado para o tratamento desses resíduos.
+
+2 - Cabe aos produtores de pilhas e acumuladores, individualmente ou através de uma entidade gestora licenciada, a responsabilidade pela organização da recolha de resíduos de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis provenientes de utilizadores finais não particulares, bem como os inerentes custos de instalação e funcionamento.
+
+3 - Os resíduos de baterias e acumuladores recolhidos seletivamente devem ser acondicionados em recipientes estanques, com uma composição que não reaja com os componentes dos referidos resíduos, e armazenados com o líquido no seu interior e na posição vertical, com aberturas fechadas e voltadas para cima.
+
+4 - A recolha de resíduos de baterias e acumuladores para veículos automóveis pode ser efetuada em conjunto com os sistemas de gestão de veículos em fim de vida, previstos no Decreto-Lei n.º 196/2003, de 23 de agosto, caso em que as entidades gestoras devem acordar as condições da respetiva participação.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 11.º — Requisitos dos sistemas de recolha
+
+Os sistemas de recolha selectiva referidos nos artigos anteriores devem assegurar a cobertura de todo o território nacional e ter em conta critérios de densidade populacional e de acessibilidade, garantindo, assim, a prevenção de riscos para o ambiente, a saúde e a segurança das pessoas.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 12.º — Rotulagem
+
+1 - Os produtores estão obrigados a rotular as pilhas, os acumuladores ou as baterias de pilhas colocados no mercado comunitário com o símbolo cujo modelo consta do anexo ii ao presente decreto-lei, do qual faz parte integrante, por forma a facilitar a recolha selectiva dos respectivos resíduos.
+
+2 - Os produtores de pilhas e acumuladores portáteis e de baterias e acumuladores para veículos automóveis estão obrigados, até 26 de Setembro de 2009, a indicar nos mesmos de forma visível, legível e indelével a respectiva capacidade, de acordo com os métodos harmonizados de determinação da capacidade e do uso apropriado a definir pela Comissão Europeia.
+
+3 - As pilhas, os acumuladores e as pilhas-botão que contenham mais de 5 ppm de mercúrio, mais de 20 ppm de cádmio ou mais de 40 ppm de chumbo são marcados com o símbolo químico correspondente ao metal pesado em causa, o qual é impresso por baixo do símbolo referido no n.º 1 e deve abranger uma superfície mínima equivalente a um quarto da dimensão deste símbolo.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 13.º — Tratamento, reciclagem e eliminação de pilhas e acumuladores portáteis e de baterias, acumuladores industriais, bem como de baterias e acumuladores para veículos automóveis
+
+1 - Cabe aos produtores, individualmente ou através da entidade gestora licenciada nos termos do presente decreto-lei, assegurar o tratamento, reciclagem e ou eliminação dos resíduos de pilhas e acumuladores recolhidos nos termos dos artigos 9.º e 10.º, suportando os custos líquidos decorrentes dessas operações, bem como os custos das operações intermédias de transporte, armazenagem e triagem.
+
+2 - Os processos de tratamento e de reciclagem devem cumprir o disposto no Decreto-Lei n.º 178/2006, de 5 de Setembro, e demais legislação aplicável, devendo ainda os operadores observar os seguintes requisitos mínimos:
+
+a) Extracção de todos os fluidos e ácidos realizada em instalações, incluindo as de armazenagem temporária, com superfícies e cobertura impermeáveis adequadas ou em contentores adequados;
+
+b) Atingir, até 26 de Setembro de 2011, os seguintes rendimentos mínimos:
+
+i) Reciclagem de 65 %, em massa, das pilhas e acumuladores de chumbo-ácido, incluindo a reciclagem do mais elevado teor possível de chumbo que seja tecnicamente viável, evitando simultaneamente custos excessivos;
+
+ii) Reciclagem de 75 %, em massa, das pilhas e acumuladores de níquel-cádmio, incluindo a reciclagem do mais elevado teor possível de cádmio que seja tecnicamente viável, evitando simultaneamente custos excessivos;
+
+iii) Reciclagem de 50 %, em massa, de outros resíduos de pilhas e de acumuladores.
+
+3 - É proibida a eliminação por deposição em aterro ou por incineração de resíduos de baterias e acumuladores industriais e para veículos automóveis.
+
+4 - A eliminação em aterro ou armazenamento subterrâneo de resíduos de pilhas e de acumuladores portáteis que contenham mercúrio, cádmio ou chumbo só é admissível nos seguintes casos:
+
+a) Quando o encaminhamento para valorização não seja viável;
+
+b) Quando resulte de um plano de gestão de resíduos, aprovado nos termos do Decreto-Lei n.º 178/2006, de 5 de Setembro, que preveja a eliminação progressiva dos referidos metais pesados e que demonstre, com base numa avaliação ambiental, económica e social, que a opção de eliminação é preferível à de reciclagem.
+
+5 - Compete à Agência Portuguesa do Ambiente (APA) publicitar, no seu sítio na Internet, a avaliação ambiental referida no número anterior, bem como notificar a Comissão das medidas adoptadas nos termos do Decreto-Lei n.º 58/2000, de 18 de Abril, relativas aos procedimentos de informação no domínio das normas e regulamentação técnicas e às regras relativas aos serviços da sociedade de informação.
+
+6 - Os operadores de reciclagem devem calcular o rendimento dos seus processos de acordo com o método definido no Regulamento (UE) n.º 493/2012, da Comissão, de 11 de junho de 2012, e enviar à Agência Portuguesa do Ambiente, I. P. (APA, I. P.), o respetivo relatório nos prazos e com o conteúdo aí previstos.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+> Retificado pelo/a [Declaração de Rectificação n.º 18-A/2009 - Diário da República n.º 46/2009, 1º Suplemento, Série I de 2009-03-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-a-2009-344411), produz efeitos a partir de 2009-01-07
+
+###### Artigo 14.º — Tecnologias de fabrico de pilhas e acumuladores e de tratamento e de reciclagem dos respectivos de resíduos
+
+Os produtores de pilhas e acumuladores devem promover a investigação e o desenvolvimento de novas tecnologias de fabrico, bem como de tratamento e de reciclagem dos respectivos resíduos, tendo em vista a melhoria do desempenho ambiental das pilhas e acumuladores ao longo do ciclo de vida.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 15.º — Custo ambiental
+
+Os custos da recolha, tratamento e reciclagem de resíduos de pilhas e acumuladores portáteis não são discriminados no preço de venda ao utilizador final.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+### Capítulo III — Sistema integrado e sistema individual
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 16.º — Sistemas de gestão de resíduos de pilhas e acumuladores
+
+1 - Até 26 de Setembro de 2009, todos os produtores de pilhas e acumuladores são obrigados a submeter a gestão dos respectivos resíduos a um sistema integrado ou a um sistema individual, para efeitos do cumprimento das obrigações estabelecidas no presente decreto-lei.
+
+2 - Os produtores devem garantir que os sistemas referidos no número anterior utilizam as melhores técnicas disponíveis para a protecção da saúde e do ambiente, bem como para o tratamento e reciclagem de resíduos de pilhas e acumuladores.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 17.º — Sistema integrado
+
+1 - Caso o produtor opte pela adesão a um sistema integrado, a responsabilidade pela gestão dos resíduos de pilhas e acumuladores é transferida para a entidade gestora desse sistema.
+
+2 - A transferência de responsabilidade referida no número anterior pode ser parcial, quando relativa a alguns dos resíduos, ou total, quando abranja todos os resíduos.
+
+3 - A transferência de responsabilidades de cada produtor para a entidade gestora é objeto de contrato escrito, do qual constam, sob pena de nulidade, obrigatoriamente os seguintes elementos:
+
+a) Características das pilhas e acumuladores abrangidos;
+
+b) Previsão da quantidade de resíduos de pilhas e acumuladores recolhidos anualmente pela entidade gestora;
+
+c) Acções de controlo a desenvolver pela entidade gestora, de forma a verificar o cumprimento das condições estipuladas no contrato;
+
+d) Prestações financeiras devidas à entidade gestora e a forma da sua actualização.
+
+e) A possibilidade de rescisão anual por parte do produtor;
+
+f) A possibilidade de denúncia, por qualquer das partes, mediante comunicação escrita à contraparte com a antecedência mínima de três meses em relação ao termo do prazo de vigência;
+
+g) A obrigatoriedade de transmissão de informação periódica por parte do produtor e a responsabilidade deste pela sua qualidade e veracidade, prevendo a necessidade de certificação dos dados transmitidos de forma proporcionada face à dimensão do produtor;
+
+h) A obrigatoriedade de prestação de informação, por parte da entidade gestora, sobre as ações desenvolvidas e os respetivos resultados alcançados, particularmente no que se refere às categorias de pilhas e acumuladores que dizem respeito ao produtor.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 18.º — Entidade gestora
+
+1 - A entidade gestora é uma pessoa coletiva de direito privado, de natureza associativa ou societária, responsável pela gestão de resíduos de pilhas e acumuladores, constituída pelos produtores, obrigatoriamente.
+
+2 - Os resultados contabilísticos da entidade gestora devem ser obrigatoriamente reinvestidos ou utilizados na sua actividade ou actividades conexas, podendo ser constituídos em provisões ou reservas para operações futuras, sendo expressamente vedada a distribuição de resultados, dividendos ou lucros pelos accionistas, sócios ou associados.
+
+3 - A entidade gestora não pode celebrar contratos com operadores de gestão de resíduos que impeçam o livre acesso à actividade de gestão de resíduos por outros operadores.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699) A alteração introduzida no presente artigo, aplica-se aos procedimentos de licenciamento de entidades gestoras, incluindo renovação de licenças, que se encontrem em curso à data da entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+> Retificado pelo/a [Declaração de Rectificação n.º 18-A/2009 - Diário da República n.º 46/2009, 1º Suplemento, Série I de 2009-03-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-a-2009-344411), produz efeitos a partir de 2009-01-07
+
+###### Artigo 19.º — Financiamento da entidade gestora
+
+1 - A entidade gestora é financiada, nomeadamente, através de uma prestação financeira a suportar pelos produtores em função da quantidade e das características das pilhas e acumuladores colocados no mercado, sendo os valores das prestações financeiras obtidos por via da fórmula a ser fixada em sede de licença a atribuir à entidade gestora nos termos do artigo seguinte.
+
+2 - Para a definição da fórmula prevista no número anterior e respetivos pressupostos, a APA, I. P., pode proceder à consulta de outras entidades que se constituam como partes interessadas.
+
+3 - A entidade gestora pode proceder à atualização anual dos valores da prestação financeira por aplicação direta da fórmula prevista no n.º 1, transmitindo-os à APA, I. P., com uma antecedência mínima de 30 dias, para publicitação no seu sítio na Internet.
+
+4 - Compete à APA, I. P., a realização de auditorias sobre a informação transmitida nos termos do número anterior.
+
+5 - A fórmula prevista no n.º 1 pode ser revista anualmente, na sequência de proposta da entidade gestora a apresentar à APA, I. P., até 30 de setembro do ano anterior àquele a que diz respeito, sendo aprovada por despacho do membro do governo responsável pela área do ambiente.
+
+6 - Sem prejuízo do disposto no número anterior e caso a evolução das circunstâncias o aconselhe, a APA, I. P., pode determinar a abertura do procedimento de revisão da fórmula prevista no n.º 1.
+
+7 - A entidade gestora não pode cobrar aos produtores quaisquer valores adicionais para além das prestações financeiras previstas no n.º 1.
+
+8 - A entidade gestora deve prever prestações financeiras diferenciadas em função do impacte ambiental das pilhas e acumuladores e do custo real de gestão dos respetivos resíduos, nomeadamente no que respeita à utilização de substâncias ou misturas perigosas e à facilidade de reciclagem dos produtos e das matérias-primas secundárias valiosas que eles contêm.
+
+9 - A entidade gestora deve prever condições específicas a acordar com os produtores face à dimensão da atividade e nas situações pontuais de colocação de pilhas e acumuladores no mercado, nos termos a definir na sua licença.
+
+10 - A entidade gestora deve desenvolver e implementar mecanismos apropriados para assegurar o reembolso dos valores de prestação financeira aos produtores, no caso de as pilhas e acumuladores serem transferidos para colocação no mercado fora do território nacional.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699) A alteração introduzida no presente artigo, aplica-se aos procedimentos de licenciamento de entidades gestoras, incluindo renovação de licenças, que se encontrem em curso à data da entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 19.º-A — Pequenos produtores
+
+1 - Mediante aprovação prévia da Comissão Europeia, os produtores que, relativamente à dimensão do mercado nacional, comercializem em Portugal quantidades muito pequenas de pilhas e acumuladores, podem ficar isentos da prestação financeira prevista no n.º 1 do artigo anterior, nos termos do número seguinte, desde que tal isenção não prejudique o correto funcionamento dos sistemas de recolha e reciclagem criados nos termos dos artigos 9.º, 10.º, 10.º-A, 11.º e 13.º.
+
+2 - A isenção da prestação financeira prevista no número anterior é realizada a partir da definição, pela APA, I. P., das quantidades em causa, após consulta dos diferentes intervenientes no sector, nomeadamente associações de produtores de pilhas e acumuladores e entidades gestoras.
+
+3 - A APA, I. P., publicita as medidas de isenção propostas e os respetivos fundamentos e notifica-as à Comissão, para que as aprove ou rejeite, e aos outros Estados-Membros.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 20.º — Licenciamento da entidade gestora
+
+1 - A atividade das entidades gestoras é objeto de licença concedida por despacho do membro do Governo responsável pela área do ambiente.
+
+2 - Para efeitos da concessão da licença, a candidata a entidade gestora apresenta à APA, I. P., preferencialmente de forma desmaterializada, por via eletrónica, requerimento que demonstre a sua capacidade técnica e financeira para a gestão de pilhas e acumuladores, instruído com os seguintes elementos:
+
+a) Estatutos constitutivos ou proposta de estatutos constitutivos;
+
+b) Mapa de pessoal com a identificação das competências técnicas;
+
+c) Âmbito temporal e territorial da atividade do sistema integrado;
+
+d) Detalhe das regras ou regulamentos previstos a serem observados pelos produtores aderentes da entidade gestora;
+
+e) Detalhe sobre as regras previstas para disseminar informações importantes para os produtores aderentes da entidade gestora de forma precisa e oportuna;
+
+f) Tipos e características técnicas das pilhas e acumuladores abrangidos;
+
+g) Previsão das quantidades de pilhas e acumuladores a colocar no mercado, em Portugal, pelos produtores aderentes, anualmente, por categoria e respetivos pressupostos;
+
+h) Previsão das quantidades de resíduos de pilhas e acumuladores a recolher, anualmente, por categoria e respetivos pressupostos;
+
+i) Metas e objetivos de gestão a atingir anualmente;
+
+j) Definição e estruturação da rede de sistemas de recolha e sua evolução, com a identificação, quando possível, dos diferentes intervenientes e a respetiva estimativa da quantidade de resíduos de pilhas e acumuladores recolhidos;
+
+k) Modo como propõe assegurar o correto tratamento dos resíduos de pilhas e acumuladores, incluindo o acompanhamento técnico das operações de gestão de resíduos de pilhas e acumuladores e a promoção das melhores tecnologias disponíveis;
+
+l) Esquema de monitorização e controlo do sistema, incluindo o controlo das vendas anuais de pilhas e acumuladores e do fluxo resultante de resíduos de pilhas e acumuladores, bem como a gestão da informação relativa aos produtores, locais de recolha e dos operadores de transporte e de tratamento dos resíduos de pilhas e acumuladores recolhidos e tratados;
+
+m) Fórmula de determinação dos valores de prestação financeira exigida aos produtores, prevista no n.º 1 do artigo anterior, e respetivos pressupostos;
+
+n) Condições de articulação da actividade da entidade gestora com os restantes operadores económicos, em especial o modo como se propõe assegurar a gestão dos resíduos de pilhas e acumuladores recolhidos por estes;
+
+o) Condições de articulação com outras entidades gestoras que recolham resíduos de pilhas e acumuladores e de outros fluxos específicos de resíduos, designadamente tendo em vista evitar a dupla cobrança das prestações financeiras devidas a estes sistemas;
+
+p) Definição de uma verba destinada ao financiamento de campanhas de informação e sensibilização dos utilizadores de pilhas e acumuladores sobre os procedimentos a adoptar para a gestão dos respectivos resíduos de pilhas e acumuladores, bem como sobre os perigos de uma eliminação não controlada destes resíduos;
+
+q) Definição de uma verba destinada ao financiamento de projetos de investigação e desenvolvimento;
+
+r) Estratégia no âmbito da prevenção da produção de resíduos de pilhas e acumuladores, incluindo a reutilização;
+
+s) Descrição do circuito económico concebido para a gestão de resíduos de pilhas e acumuladores, incluindo informação detalhada relativa aos diversos fluxos financeiros e as bases relativas à receita ou custo associado aos vários destinos possíveis, nomeadamente a reciclagem e outras formas de valorização, incluindo a preparação para reutilização, evidenciando os termos da relação entre a entidade gestora e outras entidades envolvidas.
+
+3 - No âmbito do requerimento previsto no número anterior, a candidata a entidade gestora deve evidenciar que realizou as necessárias consultas às partes interessadas com vista ao planeamento da atividade do sistema integrado, nomeadamente assegurando as condições de articulação previstas nas alíneas n) e o) do número anterior.
+
+4 - Compete à APA, I. P., coordenar e instruir o procedimento de licenciamento da entidade gestora, no âmbito do qual aprecia o requerimento previsto no presente artigo, avalia a capacidade técnica e financeira da candidata e, caso considere necessário, apresenta, fundamentadamente, propostas de alterações.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699) A alteração introduzida no presente artigo, aplica-se aos procedimentos de licenciamento de entidades gestoras, incluindo renovação de licenças, que se encontrem em curso à data da entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 21.º — Informação e sensibilização dos utilizadores
+
+1 - A entidade gestora deve promover campanhas de informação e sensibilização pública sobre os procedimentos a adoptar em matéria de gestão de resíduos de pilhas e acumuladores.
+
+2 - As campanhas referidas no número anterior devem incluir, pelo menos, informação sobre:
+
+a) A obrigação de não depositar resíduos de pilhas e acumuladores como resíduos urbanos indiferenciados, contribuindo para a sua recolha selectiva;
+
+b) Os sistemas de recolha selectiva disponíveis e os respectivos locais de deposição voluntária;
+
+c) As funções da entidade gestora no âmbito da gestão de resíduos de pilhas e acumuladores;
+
+d) Os efeitos sobre o ambiente e a saúde humana decorrentes da presença de substâncias perigosas nos resíduos de pilhas e acumuladores;
+
+e) O significado do símbolo referido no artigo 12.º, bem como dos símbolos químicos do mercúrio (Hg), do cádmio (Cd) e do chumbo (Pb).
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 21.º-A — Mecanismo de compensação entre entidades gestoras
+
+1 - Sempre que uma entidade gestora assume a responsabilidade pela gestão de pilhas e acumuladores da competência de outra entidade gestora, por referência à respetiva quota de mercado, tem direito a uma compensação.
+
+2 - O mecanismo de compensação é assegurado por uma entidade independente das entidades gestoras, a qual deve reunir, designadamente, os seguintes requisitos:
+
+a) Não ter qualquer interesse, direto ou indireto, quer no resultado da compensação quer na informação obtida no âmbito do mecanismo de compensação, confidencial ou outra a que tenha acesso;
+
+b) Não possuir qualquer interesse, direto ou indireto, nas entidades gestoras e nos operadores de gestão de resíduos;
+
+c) Não ser dependente financeira ou profissionalmente das entidades gestoras ou dos operadores de gestão de resíduos.
+
+3 - As regras sobre a estrutura, organização, modo de funcionamento e responsabilidades do mecanismo de compensação são definidas por despacho do membro do Governo responsável pela área do ambiente.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 22.º — Sistema individual
+
+1 - Em alternativa ao sistema integrado previsto nos artigos 17.º e seguintes, os produtores de pilhas e acumuladores podem optar por assumir as suas obrigações de gestão de resíduos de pilhas e acumuladores a título individual.
+
+2 - O sistema individual de gestão de resíduos referido no número anterior carece de autorização da APA, a qual é concedida desde que o produtor demonstre cumprir as obrigações previstas para o sistema integrado.
+
+3 - O regime estabelecido para o sistema integrado é aplicável, com as necessárias adaptações, ao sistema individual de gestão de resíduos de pilhas e acumuladores.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+### Capítulo IV — Registo de produtores de pilhas e acumuladores
+
+###### Artigo 23.º — Registo de produtores
+
+1 - Os produtores de pilhas e acumuladores registam-se, junto da APA, I. P., apenas uma vez, nos termos do disposto no artigo 45.º do Decreto-Lei n.º 178/2006, de 5 de setembro.
+
+2 - Para efeitos do registo previsto no número anterior, os produtores de pilhas e acumuladores informam o seguinte:
+
+a) Nome do produtor, número de identificação fiscal (nacional ou europeu), código de atividade económica (CAE) e contactos (morada, telefone, fax, correio eletrónico, página de internet, pessoa de contacto e os respetivos números de fax e endereço de e-mail, se disponíveis);
+
+b) Data do pedido de registo;
+
+c) O tipo e marcas de pilhas e acumuladores colocados no mercado anualmente, incluindo pilhas e acumuladores portáteis, baterias e acumuladores industriais e baterias e acumuladores para veículos automóveis;
+
+d) Indicação do sistema de gestão por que optaram em relação a cada tipo de pilha e acumulador.
+
+3 - Os produtores de pilhas e acumuladores devem comunicar à APA, I. P., quaisquer alterações que ocorram relativamente à informações enviada nos termos do número anterior, no prazo máximo de 30 dias após a sua ocorrência, bem como a cancelar o seu registo quando deixem de exercer a atividade.
+
+4 - Os produtores não estão obrigados a apresentar quaisquer outras informações para fins de registo para além das referidas no n.º 2 e podem cumprir as obrigações previstas no presente artigo individualmente ou através de uma entidade gestora licenciada.
+
+5 - As falsas declarações, prestadas no cumprimento das obrigações previstas no presente artigo, podem fazer incorrer o requerente no crime de falsas declarações, nos termos previstos no Código Penal.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699) A alteração introduzida no presente artigo, só produz efeitos a partir da entrada em funcionamento do registo de produtores, nos termos do disposto no artigo 45.º do Decreto-Lei n.º 178/2006, de 5 de setembro.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 24.º — Entidade de registo
+
+1 - A entidade de registo é uma pessoa colectiva, sem fins lucrativos, responsável pela organização e manutenção do registo de produtores.
+
+2 - Os resultados contabilísticos da entidade de registo são obrigatoriamente reinvestidos ou utilizados na sua actividade ou actividades conexas, podendo ser constituídos em provisões ou reservas para operações futuras, sendo expressamente vedada a distribuição de resultados.
+
+3 - A actividade da entidade de registo carece de licença a conceder pela APA e depende da sua capacidade técnica.
+
+4 - Para efeitos da concessão da licença, a entidade de registo apresenta à APA um requerimento do qual consta obrigatoriamente o seguinte:
+
+a) Estatutos constitutivos;
+
+b) Descrição pormenorizada dos sistemas e procedimentos de registo;
+
+c) Metodologia de controlo das quantidades de pilhas e acumuladores colocadas e vendidas no mercado;
+
+d) Taxas a cobrar pelo procedimento de registo;
+
+e) Procedimentos de informação periódica à APA;
+
+f) Meios de disponibilização pública da informação recolhida no registo.
+
+> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 25.º — Entidade responsável pelo registo de produtores
+
+1 - Compete à APA, I. P., enquanto entidade responsável pelo registo de produtores:
+
+a) Assegurar, organizar e manter o registo obrigatório e periódico de produtores, de acordo com os requisitos definidos no artigo 23.º;
+
+b) Executar todas as atividades conexas com o registo, designadamente a classificação de pilhas e acumuladores, a gestão e atribuição do número de produtor nacional de pilhas e acumuladores e a prestação de informação ao público;
+
+c) Cobrar taxas de registo baseadas nos custos e proporcionadas.
+
+2 - As informações prestadas à entidade de registo, que constituam segredo comercial ou industrial, são confidenciais.
+
+3 - Tendo em vista o exercício das suas competências enquanto entidade responsável pelo registo, a APA, I. P., pode solicitar informações, acerca dos produtores de pilhas e acumuladores, junto de outros organismos e entidades públicas, designadamente junto do Instituto Nacional de Estatística, I. P..
+
+4 - Na falta dos requisitos referidos na alínea a) do n.º 1, a APA fixa os requisitos a que deve obedecer o registo, disponibilizando-os no seu sítio na Internet.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699) A alteração introduzida no presente artigo, só produz efeitos a partir da entrada em funcionamento do registo de produtores, nos termos do disposto no artigo 45.º do Decreto-Lei n.º 178/2006, de 5 de setembro.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+###### Artigo 26.º — Taxas
+
+1 - Pelos actos praticados pela APA, ao abrigo do disposto no presente decreto-lei, são devidas as taxas previstas no artigo 54.º do Decreto-Lei n.º 178/2006, de 5 de Setembro.
+
+2 - Os sistemas de gestão de resíduos de pilhas e acumuladores estão sujeitos ao pagamento de taxa de gestão de resíduos, nos termos do disposto no artigo 58.º do Decreto-Lei n.º 178/2006, de 5 de Setembro, e das condições fixadas na respectiva licença ou autorização.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+### Capítulo V — Fiscalização e regime sancionatório
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 27.º — Inspecção e fiscalização
+
+A inspecção e a fiscalização do cumprimento do presente decreto-lei competem à Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT), à Autoridade de Segurança Alimentar e Económica (ASAE), à Direcção-Geral de Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) e às autoridades policiais.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 28.º — Contra-ordenações
+
+1 - Constitui contra-ordenação ambiental muito grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:
+
+a) A colocação no mercado de pilhas ou acumuladores em violação do disposto nas alíneas a) ou b) do n.º 1 do artigo 7.º;
+
+b) Não cumprimento pelos produtores da obrigação de assegurar o tratamento, reciclagem e ou eliminação dos resíduos de pilhas e acumuladores recolhidos nos termos do n.º 1 do artigo 13.º;
+
+c) Não cumprimento, por parte dos operadores, dos requisitos mínimos do processo de tratamento e reciclagem previstos no n.º 2 do artigo 13.º;
+
+d) Eliminação em aterro ou por incineração de resíduos de baterias e acumuladores industriais e para veículos automóveis em violação do disposto no n.º 3 artigo 13.º;
+
+e) Eliminação em aterro ou armazenamento subterrâneo de resíduos de pilhas e acumuladores portáteis que contenham mercúrio, cádmio ou chumbo, sem que se verifique qualquer uma das condições de admissibilidade fixadas no n.º 4 do artigo 13.º;
+
+f) A violação, por parte dos produtores de pilhas ou acumuladores, da obrigação de submeter a gestão dos resíduos de pilhas ou acumuladores a um sistema integrado ou a sistema individual, nos termos do artigo 16.º
+
+g) A não retirada do mercado de pilhas e acumuladores nos termos previstos no artigo 34.º-A.
+
+2 - Constitui contra-ordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, a prática dos seguintes actos:
+
+a) Não cumprimento, pelos fabricantes de aparelhos que contenham pilhas ou acumuladores, das obrigações previstas no n.º 2 do artigo 6.º;
+
+b) Não cumprimento, por parte dos produtores de pilhas e acumuladores portáteis, ou por parte da entidade gestora do sistema integrado no caso de transferência de responsabilidade, das taxas de recolha fixadas no n.º 1 do artigo 8.º;
+
+c) Não cumprimento, por parte dos utilizadores finais, da obrigação de proceder à entrega de resíduos de pilhas ou acumuladores nos pontos de recolha seletiva destinados para o efeito, nos termos do n.º 1 do artigo 9.º, do n.º 1 do artigo 10.º e do n.º 1 do artigo 10.º-A;
+
+d) Não cumprimento, por parte dos produtores, do dever de assegurar a instalação de pontos de recolha selectiva de pilhas e acumuladores portáteis e suportar os demais custos decorrentes da recolha selectiva, nos termos do n.º 2 do artigo 9.º;
+
+e) Não cumprimento, por parte dos distribuidores de pilhas e acumuladores portáteis, do dever de aceitar a devolução dos respectivos resíduos, nos termos do n.º 4 do artigo 9.º;
+
+f) Não cumprimento, por parte dos distribuidores de pilhas e acumuladores portáteis, do dever de dispor de recipientes específicos para recolha selectiva, nos termos do n.º 5 do artigo 9.º;
+
+g) Não cumprimento, por parte dos distribuidores de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis, da obrigação de aceitar a devolução dos respetivos resíduos, nos termos do n.º 2 do artigo 10.º;
+
+h) Não cumprimento, por parte dos produtores de baterias e acumuladores industriais e de baterias e acumuladores para veículos automóveis, do dever de assegurar a existência de pontos de recolha seletiva dos respetivos resíduos e suportar os inerentes custos de instalação e funcionamento, nos termos do n.º 3 do artigo 10.º e do n.º 2 do artigo 10.º-A;
+
+i) Não cumprimento da obrigação de acondicionamento dos resíduos de baterias e acumuladores nas condições previstas no n.º 5 do artigo 10.º e no n.º 3 do artigo 10.º-A;
+
+j) Não cumprimento, por parte dos produtores de pilhas, acumuladores ou baterias de pilhas, da obrigação de proceder à respectiva rotulagem nos termos do n.º 1 do artigo 12.º;
+
+l) Não cumprimento, por parte dos produtores de pilhas e acumuladores portáteis e de baterias e acumuladores para veículos automóveis, da obrigação de rotulagem, nos termos do n.º 2 do artigo 12.º;
+
+m) A discriminação dos custos da recolha, tratamento e reciclagem de resíduos de pilhas ou acumuladores portáteis no custo final em violação do disposto no artigo 15.º;
+
+n) Não cumprimento, pelos produtores de pilhas e acumuladores, da obrigação de garantir que os sistemas individuais ou integrados utilizem as melhores técnicas disponíveis para a protecção da saúde e do ambiente, para o tratamento e reciclagem de resíduos de pilhas e acumuladores, nos termos do n.º 2 do artigo 16.º;
+
+o) Violação, por parte da entidade gestora, da obrigação de reinvestir ou utilizar na sua actividade ou actividades conexas os resultados contabilísticos da sua actividade nos termos do n.º 2 do artigo 18.º;
+
+p) Violação, por parte da entidade gestora, da proibição de distribuição de resultados, dividendos ou lucros, nos termos do n.º 2 do artigo 18.º;
+
+q) A celebração de contratos pela entidade gestora em violação do disposto no n.º 3 do artigo 18.º;
+
+r) A adopção de um sistema integrado de gestão de resíduos de pilhas e acumuladores por parte dos produtores sem que a entidade gestora possua a licença prevista no n.º 1 do artigo 20.º;
+
+s) Não cumprimento, por parte da entidade gestora, das obrigações relativas à informação e sensibilização dos utilizadores, nos termos do artigo 21.º;
+
+t) A adopção de um sistema individual de gestão de resíduos de pilhas e acumuladores, por parte dos produtores, sem a obtenção da autorização da APA prevista no n.º 2 do artigo 22.º;
+
+u) [Revogada];
+
+v) Não cumprimento, por parte dos produtores, da obrigação de registo inicial ou periódico ou de comunicar corretamente as informações, nos termos previstos no artigo 23.º;
+
+x) [Revogada];
+
+z) [Revogada];
+
+aa) [Revogada].
+
+3 - Pode ser objecto de publicidade, nos termos do artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, a condenação pela prática de contra-ordenações muito graves previstas no n.º 1 do presente artigo, bem como pela prática das infracções graves previstas no n.º 2, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699) A revogação das alíneas x), z) e aa) do n.º 2 do presente artigo só produz efeitos a partir da entrada em funcionamento do registo de produtores, nos termos do disposto no artigo 45.º do Decreto-Lei n.º 178/2006, de 5 de setembro.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 173/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2015-70095699), em vigor a partir de 2015-08-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 266/2009 - Diário da República n.º 189/2009, Série I de 2009-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2009-490706), em vigor a partir de 2009-10-04
+
+###### Artigo 29.º — Sanções acessórias
+
+1 - Sempre que a gravidade da infracção o justifique, pode a entidade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto.
+
+2 - A autoridade competente pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 30.º — Instrução de processos e aplicação de sanções
+
+Compete à IGAOT a instrução dos processos de contra-ordenação instaurados no âmbito do presente decreto-lei, bem como a aplicação das correspondentes coimas e sanções acessórias.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 31.º — Produto das coimas
+
+O produto das coimas previstas no presente decreto-lei é afectado de acordo com o disposto no artigo 73.º da Lei n.º 50/2006, de 29 de Agosto.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+### Capítulo VI — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 32.º — Relatórios
+
+Para cumprimento das obrigações anuais e trienais de informação à Comissão Europeia, a APA, com o apoio da Comissão de Acompanhamento de Fluxos Específicos, elabora relatórios de acordo com a estrutura, formato e métodos de cálculo estabelecidos nas decisões comunitárias aplicáveis.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 33.º — Regime subsidiário
+
+Em tudo o que não estiver especialmente regulado no presente decreto-lei em matéria de gestão de resíduos de pilhas e acumuladores, aplica-se subsidiariamente o Decreto-Lei n.º 178/2006, de 5 de Setembro.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 34.º — Disposição transitória
+
+1 - Até à constituição da entidade de registo referida no artigo 23.º, a entidade gestora a que se refere o artigo 18.º procede, nos termos do n.º 2 do artigo 23.º e do artigo 25.º, ao registo dos produtores, cuja responsabilidade pela gestão dos resíduos tenha sido transferida para esta entidade.
+
+2 - Para efeitos do disposto no número anterior, a entidade gestora está sujeita à obtenção de licença nos termos do artigo 24.º
+
+3 - No caso referido no presente artigo, a APA procede ao registo dos produtores que submetam a gestão de resíduos a um sistema individual.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 34.º-A — Retirada do mercado
+
+Os produtores devem assegurar que as pilhas e acumuladores colocados no mercado entre 26 de Setembro de 2008 e 7 de Janeiro de 2009 sejam retirados do mercado, quando não cumpram os requisitos definidos no presente decreto-lei.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 266/2009 - Diário da República n.º 189/2009, Série I de 2009-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2009-490706), em vigor a partir de 2009-10-04
+
+###### Artigo 35.º — Norma revogatória
+
+São revogados o Decreto-Lei n.º 62/2001, de 19 de Fevereiro, e as Portarias n.os 571/2001 e 572/2001, de 6 de Junho.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 36.º — Aplicação às Regiões Autónomas
+
+1 - As disposições do presente decreto-lei aplicam-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma.
+
+2 - Os serviços e organismos das respectivas administrações regionais autónomas devem remeter à APA a informação necessária ao cumprimento da obrigação de envio do relatório nacional de execução do presente decreto-lei à Comissão Europeia.
+
+3 - O produto das coimas e taxas aplicadas nas Regiões Autónomas constituem receita própria da Região.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 37.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+Visto e aprovado em Conselho de Ministros de 16 de Outubro de 2008. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho.
+
+Promulgado em 15 de Dezembro de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 17 de Dezembro de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — Sistema de controlo do cumprimento das metas de recolha de pilhas e acumuladores portáteis previsto na alínea b) do n.º 2 do artigo 8.º
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+## Anexo II — Símbolo para a marcação a que se refere o n.º 1 do artigo 12.º
+
+1 - O símbolo que indica a recolha separada de resíduos de pilhas e acumuladores é constituído por um contentor de lixo barrado com uma cruz, conforme indicado infra. O símbolo deve observar os seguintes requisitos:
+
+a) Ser impresso de forma visível, legível e indelével;
+
+b) Ocupar, no mínimo, 3 % da superfície da face maior da pilha, acumulador ou bateria de pilhas;
+
+c) Ter uma dimensão máxima de 5 cm x 5 cm;
+
+d) Ocupar, no caso das pilhas cilíndricas, pelo menos 1,5 % da superfície da pilha ou acumulador e ter uma dimensão máxima de 5 cm x 5 cm.
+
+2 - Caso a pilha, acumulador ou bateria de pilhas tenha uma dimensão reduzida face aos requisitos referidos no número anterior, não é obrigatória a sua marcação, devendo imprimir-se na embalagem o símbolo com a dimensão mínima de 1 cm x 1 cm.
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01

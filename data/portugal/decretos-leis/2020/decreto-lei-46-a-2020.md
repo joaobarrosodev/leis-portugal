@@ -1,0 +1,815 @@
+---
+schema_version: '1.0'
+id: pt:dre:139209038:por
+title: Decreto-Lei n.º 46-A/2020
+short_title: null
+summary: Cria o apoio extraordinário à retoma progressiva de atividade em empresas em situação de crise empresarial com redução
+  temporária do período normal de trabalho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Trabalho, Solidariedade e Segurança Social
+official_number: 46-A/2020
+official_date: null
+publication_date: '2020-07-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2020, 1º Suplemento, Série I de 2020-07-30
+  number: '147'
+  series: I
+  supplement: 1º Suplemento
+  pages: 13-(2) a 13-(10)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/07/14701/0000200010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-10-01'
+version_history:
+  file: decreto-lei-46-a-2020.versoes.json
+  count: 11
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-10-20'
+    amending: pt:dre:145714398:por
+    amending_title: Decreto-Lei n.º 90/2020
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+  - date: '2020-11-19'
+    amending: pt:dre:148853501:por
+    amending_title: Decreto-Lei n.º 98/2020
+    changes:
+    - Altera Artigo 15.º
+  - date: '2020-11-28'
+    amending: pt:dre:149971740:por
+    amending_title: Decreto-Lei n.º 101-A/2020
+    changes:
+    - Adita Artigo 3.º-A
+  - date: '2021-01-20'
+    amending: pt:dre:154202310:por
+    amending_title: Decreto-Lei n.º 6-C/2021
+    changes:
+    - Adita Artigo 14.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+  - date: '2021-01-27'
+    amending: pt:dre:154946852:por
+    amending_title: Decreto-Lei n.º 8-B/2021
+    changes:
+    - Altera Artigo 15.º
+  - date: '2021-03-25'
+    amending: pt:dre:160149401:por
+    amending_title: Decreto-Lei n.º 23-A/2021
+    changes:
+    - Adita Artigo 10.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 14.º-A
+  - date: '2021-05-13'
+    amending: pt:dre:163158834:por
+    amending_title: Decreto-Lei n.º 32/2021
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 14.º-A
+  - date: '2021-07-07'
+    amending: pt:dre:166579339:por
+    amending_title: Decreto-Lei n.º 56-A/2021
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 17.º
+  - date: '2021-08-14'
+    amending: pt:dre:169529634:por
+    amending_title: Decreto-Lei n.º 71-A/2021
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º
+  - date: '2022-10-01'
+    amending: pt:dre:201773286:por
+    amending_title: Decreto-Lei n.º 66-A/2022
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/46-a/2020/p/cons/20210813/pt/html
+  oj: null
+  dre: '139209038'
+  dre_path: /dr/detalhe/decreto-lei/46-a-2020-139209038
+  internal: pt:dre:139209038:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-a-2020-139209038
+  metadata_url: https://data.dre.pt/eli/dec-lei/46-a/2020/p/cons/20210813/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-145714432
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-145714432
+  retrieved_at: '2026-10-22T12:35:23Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ab02cac7c7ed4751154f621a850e27178a0cbd77300237994d1d32da5bb99a16
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:35:23Z'
+  notes: 11 versão(ões); histórico completo em decreto-lei-46-a-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Industrial
+- Financiamento
+- Empresa
+- Epidemia
+- Emprego
+- Remuneração
+- Trabalhador por Conta de Outrem
+relationships:
+- type: amended_by
+  target: pt:dre:145714398:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398
+  date: '2020-10-19'
+- type: amended_by
+  target: pt:dre:148853501:por
+  label: Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2020-148853501
+  date: '2020-11-18'
+- type: amended_by
+  target: pt:dre:149971740:por
+  label: Adita Artigo 3.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-a-2020-149971740
+  date: '2020-11-27'
+- type: amended_by
+  target: pt:dre:154202310:por
+  label: Adita Artigo 14.º-A; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º;
+    Altera Artigo 17.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310
+  date: '2021-01-15'
+- type: amended_by
+  target: pt:dre:154946852:por
+  label: Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-b-2021-154946852
+  date: '2021-01-22'
+- type: amended_by
+  target: pt:dre:160149401:por
+  label: Adita Artigo 10.º-A; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 14.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-a-2021-160149401
+  date: '2021-03-24'
+- type: amended_by
+  target: pt:dre:163158834:por
+  label: Altera Artigo 5.º; Altera Artigo 14.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2021-163158834
+  date: '2021-05-12'
+- type: amended_by
+  target: pt:dre:166579339:por
+  label: Altera Artigo 5.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-a-2021-166579339
+  date: '2021-07-06'
+- type: amended_by
+  target: pt:dre:169529634:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 12.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-a-2021-169529634
+  date: '2021-08-13'
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
+- type: cites
+  target: pt:dre:130779506:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10-g/2020/03/26/p/dre
+- type: cites
+  target: pt:dre:130893436:por
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+- type: cites
+  target: pt:dre:131393158:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/14-g/2020/04/13/p/dre
+- type: cites
+  target: pt:dre:135391594:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+- type: cites
+  target: pt:dre:136260572:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/27-b/2020/06/19/p/dre
+- type: cites
+  target: pt:dre:489761:por
+  label: null
+  source: http://data.dre.pt/eli/lei/107/2009/09/14/p/dre
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+article_structure:
+  article_count: 22
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:35:23Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 46-A/2020
+
+Decreto-Lei n.º 46-A/2020
+
+de 30 de julho
+
+Sumário: Cria o apoio extraordinário à retoma progressiva de atividade em empresas em situação de crise empresarial com redução temporária do período normal de trabalho.
+
+No seguimento da adoção de um vasto leque de medidas excecionais, designadamente para proteger o emprego, importa definir um quadro de intervenções que garantam uma progressiva estabilização nos planos económico e social.
+
+Neste contexto, importa desde logo reavaliar as medidas de apoio à manutenção do emprego, calibrando esses instrumentos no sentido de incentivar a retoma da atividade económica e ao mesmo tempo promover a progressiva convergência da retribuição dos trabalhadores abrangidos por esses instrumentos para os 100 % do seu salário.
+
+Neste quadro, o Programa de Estabilização Económica e Social, aprovado pela Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, prevê um conjunto de instrumentos para apoiar a manutenção dos postos de trabalho no contexto da retoma da atividade económica, estabelecendo designadamente a criação de um apoio extraordinário à retoma progressiva.
+
+Foram ouvidos os parceiros sociais.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 325.º-A da Lei n.º 2/2020, de 31 de março, na sua redação atual, e nos termos do artigo 100.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, e das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 7.º, Decreto-Lei n.º 23-A/2021 - Diário da República n.º 58/2021, 1º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-a-2021-160149401) É prorrogada até 30 de setembro de 2021 a vigência do Decreto-Lei n.º 46-A/2020, de 30 de julho.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310) É prorrogada até 30 de junho de 2021 a vigência do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual..
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei cria o apoio extraordinário à retoma progressiva de atividade em empresas em situação de crise empresarial, com redução temporária do período normal de trabalho (PNT), no âmbito do Programa de Estabilização Económica e Social, e o apoio simplificado para microempresas em situação de crise empresarial, tendo em vista a manutenção de postos de trabalho.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O apoio extraordinário referido no artigo anterior aplica-se aos empregadores de natureza privada, incluindo os do setor social, que tenham sido afetados pela pandemia da doença COVID-19 e que se encontrem, em consequência dela, em situação de crise empresarial.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 3.º — Situação de crise empresarial
+
+1 - Para efeitos do presente decreto-lei, considera-se situação de crise empresarial aquela em que se verifique uma quebra de faturação igual ou superior a 25 %, no mês civil completo imediatamente anterior ao mês civil a que se refere o pedido inicial de apoio ou de prorrogação, face ao mês homólogo do ano anterior ou do ano de 2019, ou face à média mensal dos seis meses anteriores a esse período.
+
+2 - Para quem tenha iniciado a atividade há menos de 24 meses, a quebra de faturação referida no número anterior é aferida face à média da faturação mensal entre o início da atividade e o penúltimo mês completo anterior ao mês civil a que se refere o pedido inicial de apoio ou de prorrogação.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2020 - Diário da República n.º 203/2020, Série I de 2020-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398), em vigor a partir de 2020-10-20
+
+###### Artigo 3.º-A — Situação de crise empresarial por limitação à atividade por decisão do Governo
+
+1 - No decurso do mês de dezembro de 2020, e durante a vigência do Decreto n.º 9/2020, de 21 de novembro, ou outro que lhe vier a suceder com o mesmo objeto, o empregador que se encontre na situação prevista no artigo anterior pode requerer o apoio financeiro a que se refere o artigo 7.º, nos seguintes termos:
+
+a) Até ao limite máximo de redução do PNT correspondente ao escalão de quebra de faturação imediatamente seguinte ao do limite pelo qual se encontrava abrangido no mês de novembro de 2020, quando já beneficie do apoio extraordinário criado pelo presente decreto-lei;
+
+b) Até ao limite máximo de redução do PNT correspondente ao escalão de quebra de faturação imediatamente seguinte ao da quebra de faturação verificada no mês de novembro de 2020, quando não beneficie do apoio extraordinário criado pelo presente decreto-lei e se encontre em situação de crise empresarial nos termos do artigo anterior.
+
+2 - Para efeitos do disposto no número anterior, o empregador tem o dever de manter o normal funcionamento da sua atividade durante o mês civil completo a que se refere o pedido inicial de apoio ou de prorrogação, exceto nos períodos em que sejam determinadas limitações à atividade por decisão do Governo.
+
+3 - O pedido de apoio financeiro a que se refere o n.º 1 é requerido nos termos do artigo 11.º, com as devidas adaptações.
+
+4 - A situação prevista no n.º 1 é atestada por declaração do empregador sob compromisso de honra.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101-A/2020 - Diário da República n.º 232/2020, 2º Suplemento, Série I de 2020-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-a-2020-149971740), em vigor a partir de 2020-11-28
+
+###### Artigo 4.º — Apoio extraordinário à retoma progressiva de atividade com redução temporária de período normal de trabalho
+
+1 - O empregador que esteja em situação de crise empresarial, nos termos do artigo 3.º, pode aceder ao apoio extraordinário à retoma progressiva de atividade com redução temporária do PNT de todos ou alguns dos seus trabalhadores.
+
+2 - Para efeitos de aplicação da redução temporária do PNT, o empregador comunica, por escrito, aos trabalhadores a abranger pela respetiva decisão, a percentagem de redução por trabalhador e a duração previsível de aplicação da medida, ouvidos os delegados sindicais e comissões de trabalhadores, quando existam, podendo o empregador fixar um prazo para pronúncia destes, nunca inferior a três dias úteis.
+
+3 - A redução do PNT prevista no n.º 1 tem a duração de um mês civil, sendo prorrogável mensalmente até à data de cessação da produção de efeitos do presente decreto-lei, nos termos do artigo 19.º
+
+4 - Para efeitos do disposto no número anterior, a interrupção da redução temporária do PNT, com a respetiva suspensão do apoio, não prejudica a possibilidade de prorrogação do mesmo, podendo esta ser requerida em meses interpolados.
+
+5 - O apoio é cumulável com os planos de formação previstos no artigo 10.º, aprovados por uma das seguintes entidades:
+
+a) Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.); ou
+
+b) Programa Operacional Competitividade e Internacionalização (POCI).
+
+6 - Durante a redução do PNT, o trabalhador pode exercer outra atividade remunerada, sem prejuízo do dever estabelecido no n.º 8 do artigo 6.º
+
+7 - Enquanto se verificar a aplicação da redução do PNT, o empregador pode proceder à admissão de novo trabalhador, exceto para o preenchimento de posto de trabalho suscetível de ser assegurado por trabalhador em situação de redução, podendo ainda, em qualquer situação, renovar contrato a termo ou converter contrato a termo em contrato por tempo indeterminado.
+
+8 - O disposto no n.º 1 é aplicável aos membros de órgãos estatutários que exerçam funções de gerência, com declarações de remuneração, registo de contribuições na segurança social e com trabalhadores a seu cargo.
+
+9 - Aos membros de órgãos estatutários a que se refere o número anterior são aplicados os limites de redução do PNT das alíneas a) a c) do n.º 1 do artigo 5.º, até ao limite da redução do PNT aplicável aos trabalhadores a seu cargo.
+
+10 - Independentemente da data de apresentação do pedido de apoio previsto no presente artigo, o empregador só pode beneficiar desse apoio até ao final do mês em que, por determinação legislativa ou administrativa de fonte governamental, vigorem medidas restritivas de atividades económicas, tais como regras em matérias de horário de funcionamento, de ocupação ou de lotação de estabelecimentos ou eventos, bem como limitações à circulação de pessoas no território, ou condicionamento de acesso de turistas oriundos dos principais mercados emissores de turistas, no âmbito da pandemia da doença COVID-19.
+
+11 - Para efeitos do número anterior, consideram-se como principais mercados emissores de turistas os definidos, mediante despacho, pelos membros do Governo responsáveis pelas áreas da economia, das finanças e do trabalho, solidariedade e segurança social.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71-A/2021 - Diário da República n.º 157/2021, 1º Suplemento, Série I de 2021-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-a-2021-169529634), em vigor a partir de 2021-08-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23-A/2021 - Diário da República n.º 58/2021, 1º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-a-2021-160149401), em vigor a partir de 2021-03-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2020 - Diário da República n.º 203/2020, Série I de 2020-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398), em vigor a partir de 2020-10-20
+
+###### Artigo 5.º — Limites máximos de redução do período normal de trabalho
+
+1 - A redução temporária do PNT, por trabalhador, tem os seguintes limites:
+
+a) No caso de empregador com quebra de faturação igual ou superior a 25 %, a redução do PNT, por trabalhador, pode ser no máximo de 33 %;
+
+b) No caso de empregador com quebra de faturação igual ou superior a 40 %, a redução do PNT, por trabalhador, pode ser no máximo de 40 %;
+
+c) No caso de empregador com quebra de faturação igual ou superior a 60 %, a redução do PNT, por trabalhador, pode ser no máximo de 60 %;
+
+d) No caso de empregador com quebra de faturação igual ou superior a 75 %, a redução do PNT, por trabalhador, pode ser no máximo:
+
+i) (Revogada.)
+
+ii) Até 100 % até ao limite de 75 % dos trabalhadores ao seu serviço por estabelecimento, sem prejuízo do disposto no n.º 4;
+
+iii) Até 100 % para o empregador dos setores de bares, discotecas, parques recreativos e fornecimento ou montagem de eventos, com as empresas abrangidas definidas por portaria dos membros do Governo responsáveis pelas áreas da economia, das finanças e da segurança social, designadamente através da respetiva Classificação Portuguesa das Atividades Económicas, desde que o encerramento de instalações e estabelecimentos seja estabelecido por determinação legislativa ou administrativa de fonte governamental, no contexto das medidas aplicadas no âmbito da pandemia da doença COVID-19.
+
+2 - Para efeitos de fiscalização, a redução do PNT é aferida em termos médios, por trabalhador, no final de cada mês, com respeito pelos limites máximos do PNT diário e semanal previstos no artigo 203.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, ou os previstos em instrumento de regulamentação coletiva de trabalho aplicável.
+
+3 - (Revogado.)
+
+4 - O empregador pode, em alternativa ao disposto na subalínea ii) da alínea d) do n.º 1, reduzir até 75 % o PNT, até à totalidade dos trabalhadores ao seu serviço por estabelecimento.
+
+5 - Para efeitos de fiscalização, a percentagem de trabalhadores referida na subalínea ii) da alínea d) do n.º 1 é aferida pela declaração de remunerações do mês correspondente.
+
+6 - Para efeitos do disposto no presente artigo, o empregador tem o dever de manter em funcionamento a sua atividade em todos os estabelecimentos, salvo nas situações em que o encerramento de instalações e estabelecimentos seja estabelecido por determinação legislativa ou administrativa de fonte governamental, no âmbito da pandemia da doença COVID-19.
+
+7 - As situações previstas na subalínea ii) da alínea d) do n.º 1, no n.º 4 e no número anterior são atestadas por declaração do empregador sob compromisso de honra no formulário mencionado no artigo 11.º
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 71-A/2021 - Diário da República n.º 157/2021, 1º Suplemento, Série I de 2021-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-a-2021-169529634) O disposto na alínea d) do n.º 1, no n.º 4, no n.º 6 e no n.º 7 do presente artigo, com a redação conferida pelo decreto-lei n.º 71-A/2021, de 13 de agosto, produz efeitos a partir de 1 de outubro de 2021.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 90/2020 - Diário da República n.º 203/2020, Série I de 2020-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398) O n.º 2 do artigo 5.º do Decreto-Lei n.º 46-A/2020, de 30 de julho, na redação dada pelo presente decreto-lei, produz efeitos desde 1 de agosto de 2020.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71-A/2021 - Diário da República n.º 157/2021, 1º Suplemento, Série I de 2021-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-a-2021-169529634), em vigor a partir de 2021-08-14
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 56-A/2021 - Diário da República n.º 129/2021, 1º Suplemento, Série I de 2021-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-a-2021-166579339), em vigor a partir de 2021-07-07
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2021 - Diário da República n.º 92/2021, Série I de 2021-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2021-163158834), em vigor a partir de 2021-05-13, produz efeitos a partir de 2021-05-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2020 - Diário da República n.º 203/2020, Série I de 2020-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398), em vigor a partir de 2020-10-20
+
+###### Artigo 6.º — Retribuição e compensação retributiva
+
+1 - Durante a redução do PNT, o trabalhador tem direito à retribuição correspondente às horas de trabalho prestadas, calculada nos termos do artigo 271.º do Código do Trabalho.
+
+2 - Durante aquele período, o trabalhador tem ainda direito a uma compensação retributiva mensal correspondente às horas não trabalhadas, paga pelo empregador, no valor de quatro quintos da sua retribuição normal ilíquida, até ao triplo da retribuição mínima mensal garantida (RMMG).
+
+3 - Se da aplicação conjunta do disposto nos números anteriores resultar montante mensal inferior à retribuição normal ilíquida do trabalhador, o valor da compensação retributiva pago pela segurança social é aumentado na medida do estritamente necessário de modo a assegurar aquela retribuição, até ao limite máximo de uma retribuição normal ilíquida correspondente a três vezes o valor da RMMG, sem prejuízo do disposto no n.º 6.
+
+4 - Para efeitos do disposto no n.º 2, a compensação retributiva é calculada proporcionalmente às horas não trabalhadas e entende-se como retribuição normal ilíquida o conjunto das componentes remuneratórias regulares normalmente declaradas à segurança social e habitualmente pagas ao trabalhador, relativas a:
+
+a) Remuneração base;
+
+b) Prémios mensais;
+
+c) Subsídios regulares mensais, incluindo de trabalho por turnos;
+
+d) Subsídio de refeição, nos casos em que este integra o conceito de retribuição;
+
+e) Trabalho noturno.
+
+5 - Os valores remuneratórios identificados no número anterior correspondem, respetivamente, aos códigos «P», «B», «M» «R» e «T» da tabela dos códigos de remuneração necessários ao preenchimento da declaração de remuneração, aprovada em anexo ao Despacho n.º 2-I/SESS/2011, de 16 de fevereiro.
+
+6 - Cada componente remuneratória referida nas alíneas b), c) e e) do n.º 4 considera-se regular quando o trabalhador a tenha recebido em pelo menos 10 meses, no período compreendido entre março de 2019 e fevereiro de 2020, ou em proporção idêntica no caso de o trabalhador estar vinculado ao empregador há menos de 12 meses.
+
+7 - (Revogado).
+
+8 - Para efeitos do disposto no n.º 2, o trabalhador que exerça ou venha a exercer atividade remunerada fora da empresa deve comunicar tal facto ao empregador, no prazo de cinco dias a contar do início dessa atividade, para efeitos de eventual redução da compensação retributiva, sob pena de perda do direito à mesma, de constituição do dever de restituição dos montantes recebidos a este título e, ainda, de prática de infração disciplinar grave.
+
+9 - O empregador deve comunicar à segurança social a situação referida no número anterior, no prazo de dois dias a contar da data em que dela teve conhecimento.
+
+10 - O disposto no n.º 6 é objeto de fiscalização através de verificação oficiosa por parte dos serviços competentes da segurança social.
+
+11 - Durante o período de redução do PNT, aplica-se, para efeitos do registo de equivalências, o disposto na alínea i) do n.º 1 do artigo 72.º e no artigo 73.º do Decreto Regulamentar n.º 1-A/2011, de 3 de janeiro, na sua redação atual.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23-A/2021 - Diário da República n.º 58/2021, 1º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-a-2021-160149401), em vigor a partir de 2021-03-25, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2020 - Diário da República n.º 203/2020, Série I de 2020-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398), em vigor a partir de 2020-10-20
+
+###### Artigo 7.º — Apoio financeiro
+
+1 - Durante a redução do PNT o empregador tem direito a um apoio financeiro exclusivamente para efeitos de pagamento da compensação retributiva aos trabalhadores abrangidos pela redução.
+
+2 - O apoio referido no número anterior corresponde a 70 % da compensação retributiva, sendo suportado pela segurança social e cabendo ao empregador assegurar os remanescentes 30 %.
+
+3 - Nas situações em que a redução do PNT seja superior a 60 %, nos termos previstos na alínea d) do n.º 1 do artigo 5.º, o apoio referido no n.º 1 corresponde a 100 % da compensação retributiva, sendo suportado pela segurança social.
+
+4 - A segurança social transfere o respetivo apoio ao empregador para pagar a compensação retributiva do trabalhador, não podendo o mesmo ser utilizado para fim diverso.
+
+5 - O pagamento da retribuição, conjuntamente com a compensação retributiva, é efetuado pelo empregador na respetiva data de vencimento.
+
+6 - O pagamento do apoio financeiro referido no n.º 1 é efetuado, obrigatoriamente, por transferência bancária.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2020 - Diário da República n.º 203/2020, Série I de 2020-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398), em vigor a partir de 2020-10-20
+
+###### Artigo 8.º — Apoio adicional
+
+1 - Sem prejuízo do apoio financeiro previsto no artigo anterior, nas situações em que a quebra de faturação a que se refere o n.º 1 do artigo 5.º seja igual ou superior a 75 %, o empregador tem direito a um apoio adicional correspondente a 35 % da retribuição normal ilíquida pelas horas trabalhadas devidas a cada trabalhador com redução do PNT.
+
+2 - A soma do apoio adicional referido no número anterior e do apoio referido no artigo 7.º não pode ultrapassar o valor de três vezes a RMMG.
+
+3 - Para efeitos do disposto no n.º 1, o conceito de retribuição normal ilíquida é aferido nos termos do disposto no n.º 4 do artigo 6.º
+
+4 - O apoio adicional é transferido pela segurança social para o empregador, para efeitos de pagamento da retribuição devida ao trabalhador, não podendo o mesmo ser utilizado para fim diverso.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 9.º — Dispensa parcial e isenção do pagamento de contribuições para a segurança social
+
+1 - O empregador que seja considerado micro, pequena ou média empresa e que beneficie do apoio previsto no artigo 4.º tem direito à dispensa de 50 % do pagamento de contribuições a seu cargo relativas aos trabalhadores abrangidos, calculadas sobre o valor da compensação retributiva a que se refere o n.º 2 do artigo 6.º
+
+2 - (Revogado.)
+
+3 - A dispensa de 50 % do pagamento de contribuições prevista no presente artigo é aplicável por referência aos trabalhadores abrangidos e aos meses em que o empregador seja beneficiário do apoio.
+
+4 - Nos meses de março, abril e maio de 2021, o empregador dos setores do turismo e da cultura, com quebra de faturação:
+
+a) Inferior a 75 %, e que, por isso, suporte parte da compensação retributiva correspondente aos custos salariais com as horas não trabalhadas, tem direito à isenção do pagamento de contribuições a seu cargo relativas aos trabalhadores abrangidos, calculadas sobre o valor da compensação retributiva a que se refere o n.º 2 do artigo 6.º;
+
+b) Igual ou superior a 75 %, tem direito à dispensa parcial de 50 % do pagamento de contribuições a seu cargo relativas aos trabalhadores abrangidos, calculadas sobre o valor da compensação retributiva a que se refere o n.º 2 do artigo 6.º, sem prejuízo do direito ao apoio correspondente a 100 % da compensação retributiva nos termos do n.º 3 do artigo 7.º;
+
+5 - A isenção total ou a dispensa parcial do pagamento de contribuições prevista no presente artigo é reconhecida oficiosamente.
+
+6 - A dimensão da empresa afere-se nos termos dos n.os 1 e 2 do artigo 100.º do Código do Trabalho.
+
+7 - Para efeitos do disposto no número anterior, o número de trabalhadores a ter em conta em empresa no primeiro ano de atividade é o existente no mês anterior ao da entrada em vigor do presente decreto-lei.
+
+8 - A Classificação Portuguesa das Atividades Económicas das empresas abrangidas pelo n.º 4 é definida por portaria dos membros do Governo responsáveis pelas áreas da economia, das finanças, da cultura e da segurança social.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23-A/2021 - Diário da República n.º 58/2021, 1º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-a-2021-160149401), em vigor a partir de 2021-03-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+###### Artigo 10.º — Plano de formação
+
+1 - Por cada mês de apoio extraordinário à retoma progressiva de atividade com redução temporária do PNT, o empregador adquire o direito a um plano de formação.
+
+2 - O plano de formação previsto no número anterior confere o direito a uma bolsa no valor máximo de 70 % do indexante dos apoios sociais (IAS) por trabalhador abrangido, destinada ao empregador, que tem direito ao montante equivalente a 30 % do IAS, e ao trabalhador, que tem direito ao montante equivalente a 40 % do IAS nas situações em que a retribuição ilíquida do trabalhador seja inferior à sua retribuição normal ilíquida, e deve:
+
+a) Ser implementado em articulação com o empregador, cabendo ao IEFP, I. P., a sua aprovação, podendo ser desenvolvido à distância, quando possível e as condições o permitam;
+
+b) Contribuir para a melhoria das competências profissionais dos trabalhadores, sempre que possível aumentando o seu nível de qualificação, e contribuir para o aumento da competitividade da empresa;
+
+c) Corresponder às modalidades de formação previstas no âmbito do Sistema Nacional de Qualificações;
+
+d) Ser implementado fora do horário de prestação efetiva de trabalho, desde que dentro do PNT;
+
+e) Ter início no período em que o empregador beneficia do apoio extraordinário à retoma progressiva de atividade com redução temporária de PNT;
+
+f) Assegurar a frequência de, no mínimo, 50 horas de formação por trabalhador num período de 30 dias.
+
+3 - A bolsa referida no número anterior é suportada pelo IEFP, I. P., sendo paga diretamente ao empregador, quando aplicável, que assume a responsabilidade de entregar ao trabalhador o montante devido, em função do número de horas de formação efetivamente frequentadas.
+
+4 - O empregador pode optar por apresentar uma candidatura por cada plano de formação ou uma candidatura integrada de planos de formação, submetendo através do sítio na Internet do IEFP, I. P., os seguintes elementos:
+
+a) Declaração sob compromisso de honra em como submeteu o pedido de apoio junto da segurança social; ou
+
+b) Comprovativo de deferimento do apoio por parte da segurança social;
+
+c) Listagem nominativa dos trabalhadores a abranger.
+
+5 - A formação pode iniciar-se após a decisão de aprovação do IEFP, I. P., com base nos elementos referidos no número anterior, e sem prejuízo do disposto no número seguinte relativamente ao pagamento.
+
+6 - Nos casos referidos na alínea a) do n.º 4, o pagamento de 85 % do valor aprovado em candidatura ocorre após apresentação pelo empregador do comprovativo de deferimento do apoio por parte da segurança social.
+
+7 - Nos casos referidos na alínea b) do n.º 4, o início da formação dá lugar ao pagamento de 85 % do valor aprovado em candidatura.
+
+8 - Com a conclusão dos planos de formação, é feito o apuramento do montante a que o empregador tem direito, e o pagamento do remanescente, se a ele houver lugar, até ao limite de 15 % do valor aprovado em candidatura.
+
+9 - Para a operacionalização do plano de formação referido no n.º 1 são entidades formadoras:
+
+a) Os centros de emprego e formação profissional da rede do IEFP, I. P., incluindo, designadamente, os centros de gestão direta e os centros protocolares;
+
+b) No âmbito da cooperação com entidades formadoras externas, e desde que integradas na bolsa criada pelo IEFP, I. P., para o efeito, as entidades formadoras certificadas pela Direção-Geral do Emprego e das Relações do Trabalho (DGERT), ou entidades que, pela sua natureza jurídica e âmbito de atuação, não careçam de requerer a certificação como entidade formadora, caso contemplem nos diplomas de criação ou autorização de funcionamento, o desenvolvimento de atividades formativas;
+
+c) No mesmo âmbito, os parceiros sociais com assento na comissão permanente de concertação social ou organizações setoriais ou regionais suas associadas, desde que sejam entidades formadoras certificadas pela DGERT e desde que celebrado o devido acordo de cooperação com o IEFP, I. P.
+
+10 - Pode ainda ser desenvolvido um plano de formação aprovado no âmbito dos apoios concedidos pelo POCI, conforme previsto na alínea b) do n.º 5 do artigo 4.º, em articulação com os apoios previstos nos números anteriores, nas condições que vierem a ser definidas em aviso a publicar no Balcão 2020.
+
+11 - Os planos de formação referidos nas alíneas a) e b) do n.º 5 do artigo 4.º podem ser acumulados.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2020 - Diário da República n.º 203/2020, Série I de 2020-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398), em vigor a partir de 2020-10-20
+
+###### Artigo 10.º-A — Adiamento excecional do início de planos de formação
+
+1 - Sem prejuízo do disposto no artigo anterior, o plano de formação aprovado pelo IEFP, I. P., que não tenha tido início no período previsto na alínea e) do n.º 2 do artigo anterior por força da suspensão das atividades formativas presenciais por determinação legislativa ou administrativa de fonte governamental, tem início no prazo máximo de cinco dias úteis após o termo daquela suspensão, ainda que o empregador já não se encontre a beneficiar do apoio extraordinário à retoma progressiva de atividade.
+
+2 - Na situação referida no número anterior, após apresentação do comprovativo de deferimento do apoio extraordinário à retoma progressiva por parte da segurança social, o empregador tem direito ao pagamento adiantado de 85 % do valor da bolsa de formação aprovada em candidatura antes do início da formação.
+
+3 - O incumprimento do disposto no n.º 1 implica a imediata cessação do pagamento da bolsa por trabalhador abrangido e a restituição dos montantes já recebidos a título de adiantamento.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23-A/2021 - Diário da República n.º 58/2021, 1º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-a-2021-160149401), em vigor a partir de 2021-03-25
+
+###### Artigo 11.º — Regime de acesso
+
+1 - Para efeitos de acesso ao apoio extraordinário à retoma progressiva de atividade com redução temporária do PNT, o empregador deve remeter requerimento eletrónico, em formulário próprio a disponibilizar pela segurança social, até ao final do mês seguinte àquele a que o pedido inicial de apoio ou de prorrogação diz respeito.
+
+2 - (Revogado.)
+
+3 - O formulário referido no n.º 1 é submetido através da segurança social direta, contendo declaração do empregador e certificação do contabilista certificado que atestem a situação de crise empresarial nos termos do artigo 3.º, sendo acompanhado de listagem nominativa dos trabalhadores a abranger, respetivo número de segurança social, retribuição normal ilíquida calculada nos termos do n.º 4 do artigo 6.º e indicação da redução do PNT a aplicar, em termos médios mensais, por trabalhador.
+
+4 - Sem prejuízo do disposto nos números anteriores, e para efeitos de verificação do cumprimento da situação de crise empresarial a que se refere o artigo 3.º, no mês seguinte ao pagamento dos apoios a que se referem os artigos 7.º e 8.º, os serviços competentes da segurança social remetem à Autoridade Tributária e Aduaneira (AT) a identificação das entidades empregadoras beneficiárias e a percentagem de quebra de faturação necessária para o acesso aos apoios requeridos.
+
+5 - Para efeitos de apresentação do requerimento referido no n.º 1, o empregador deve ter, comprovadamente, as situações contributiva e tributária regularizadas perante a segurança social e a AT.
+
+6 - Para efeitos do disposto no número anterior, o empregador autoriza a consulta online da situação tributária perante a AT, procedendo a segurança social à consulta oficiosa da situação contributiva.
+
+7 - O empregador que inicie a aplicação da redução do PNT em momento anterior ao da decisão do serviço competente da segurança social sobre o requerimento referido no n.º 1, assume os efeitos decorrentes do eventual indeferimento do mesmo.
+
+8 - O empregador pode, a todo o momento, fazer cessar a concessão do presente apoio, através de formulário próprio, a disponibilizar pela segurança social, e submetido através da segurança social direta.
+
+9 - O apoio extraordinário à retoma progressiva de atividade e respetivas prorrogações são tramitados de forma automatizada.
+
+10 - Nas situações em que a AT verifique que da informação de faturação transmitida pelos sujeitos passivos resulta a desconformidade com a situação de crise empresarial através da verificação a que se refere o n.º 4, a AT informa os serviços competentes da segurança social dessa divergência.
+
+11 - Nas situações referidas no número anterior, os serviços competentes da segurança social notificam o empregador da divergência identificada pela AT, dando início ao procedimento de restituição de prestações indevidamente pagas, nos termos do Decreto-Lei n.º 133/88, de 20 de abril, na sua redação atual.
+
+12 - Nas situações a que se refere o n.º 10, os serviços competentes da segurança social suspendem ainda, no mês seguinte ao pagamento dos apoios, o pagamento dos pedidos seguintes dos apoios a que se referem os artigos 7.º a 9.º
+
+13 - Sem prejuízo do disposto nos números anteriores, noutros casos em que, durante o período de concessão do apoio extraordinário à retoma progressiva de atividade e respetivas prorrogações, sejam feitos pagamentos que venham a revelar-se indevidos há lugar a compensação dos mesmos nos valores de apoios que o empregador esteja ou venha a receber, nos termos previstos no Decreto-Lei n.º 133/88, de 20 de abril, na sua redação atual.
+
+14 - Sem prejuízo dos necessários acertos a realizar em sede contributiva, no caso de a quebra de faturação indicada no requerimento ser superior à apurada nos termos do n.º 10, mas permita o acesso ao apoio em modalidade diferente, pode o empregador submeter novo requerimento, comprovando a devolução à segurança social da parcela do valor indevidamente recebido.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2020 - Diário da República n.º 203/2020, Série I de 2020-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398), em vigor a partir de 2020-10-20
+
+###### Artigo 12.º — Deveres do empregador
+
+1 - Durante o período de redução do PNT o empregador deve cumprir os deveres previstos no contrato individual de trabalho, na lei e em instrumento de regulamentação coletiva de trabalho aplicável, bem como:
+
+a) Manter, comprovadamente, as situações contributiva e tributária regularizadas perante a segurança social e a AT;
+
+b) Efetuar pontualmente o pagamento da compensação retributiva, bem como o acréscimo a que haja lugar em caso de formação profissional;
+
+c) Pagar pontualmente as contribuições e quotizações para a segurança social sobre a retribuição auferida pelos trabalhadores, sem prejuízo do disposto no artigo 9.º;
+
+d) Não aumentar a retribuição ou outra prestação patrimonial atribuída a membro de corpos sociais, enquanto a segurança social comparticipar na compensação retributiva atribuída aos trabalhadores.
+
+2 - Durante o período de redução, bem como nos 90 dias seguintes, o empregador não pode:
+
+a) Fazer cessar contratos de trabalho ao abrigo das modalidades de despedimento coletivo, de despedimento por extinção do posto de trabalho, ou de despedimento por inadaptação, previstos nos artigos 359.º, 367.º e 373.º do Código do Trabalho, respetivamente, nem iniciar os respetivos procedimentos; e
+
+b) Distribuir dividendos, sob qualquer forma, nomeadamente a título de levantamento por conta.
+
+3 - O empregador não pode:
+
+a) Prestar falsas declarações no âmbito da concessão do presente apoio;
+
+b) Exigir a prestação de trabalho a trabalhador abrangido pela redução do PNT para além do número de horas declarado no requerimento a que se refere o artigo anterior.
+
+4 - A violação do disposto nos números anteriores implica a imediata cessação dos apoios previstos nos artigos 7.º a 10.º e a restituição ou pagamento, conforme o caso, ao serviço competente da segurança social, ou ao IEFP, I. P., dos montantes já recebidos ou isentados.
+
+5 - Sem prejuízo do disposto no número anterior, a prestação de falsas declarações para a obtenção dos apoios previstos no presente decreto-lei pode configurar responsabilidade civil e criminal, nos termos legalmente aplicáveis.
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 71-A/2021 - Diário da República n.º 157/2021, 1º Suplemento, Série I de 2021-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-a-2021-169529634) O disposto no n.º 2 do artigo 12.º do presente artigo, com a redação conferida pelo decreto-lei n.º 71-A/2021, de 13 de agosto, produz efeitos a partir de 1 de outubro de 2021.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71-A/2021 - Diário da República n.º 157/2021, 1º Suplemento, Série I de 2021-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-a-2021-169529634), em vigor a partir de 2021-08-14
+
+###### Artigo 13.º — Deveres do trabalhador
+
+1- Durante o período de redução do PNT o trabalhador deve cumprir os deveres previstos no contrato individual de trabalho, na lei e em instrumento de regulamentação coletiva de trabalho aplicável, bem como:
+
+a) Caso exerça atividade remunerada fora da empresa, comunicar o facto ao empregador, no prazo de cinco dias a contar do início dessa atividade, para efeitos de eventual redução na compensação retributiva, sem prejuízo do disposto no n.º 9 do artigo 6.º; e
+
+b) Frequentar as ações de formação profissional previstas no n.º 5 do artigo 4.º, quando aplicável.
+
+2 - Não obstante o disposto no número anterior, durante o período de redução do PNT a 100 %, mantêm-se os deveres do trabalhador que não pressuponham a prestação efetiva de trabalho, nomeadamente o dever de frequentar ações de formação profissional que lhe sejam indicadas pelo empregador e o de cumprir outras ordens e instruções decorrentes do poder de direção que não envolvam a prestação de trabalho.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2020 - Diário da República n.º 203/2020, Série I de 2020-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398), em vigor a partir de 2020-10-20
+
+###### Artigo 14.º — Efeitos da redução do período normal de trabalho em férias, subsídio de férias ou de Natal
+
+1 - O tempo de redução do PNT não afeta o vencimento e a duração do período de férias.
+
+2 - O período de aplicação da redução do PNT não prejudica a marcação e o gozo de férias, nos termos gerais, tendo o trabalhador direito ao pagamento pelo empregador da retribuição e da compensação retributiva prevista no artigo 6.º, acrescida do subsídio de férias, pago pelo empregador, que seria devido em condições normais de trabalho.
+
+3 - Relativamente ao ano de 2020, o trabalhador tem direito a subsídio de Natal por inteiro, sendo comparticipado, pela segurança social, o montante correspondente ao duodécimo de metade da compensação retributiva relativa ao número de meses de atribuição do apoio durante o ano de 2020, e pelo empregador, o restante, caso a data de pagamento daquele subsídio tenha coincidido com o período de aplicação do apoio extraordinário à retoma progressiva de atividade.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+###### Artigo 14.º-A — Apoio simplificado para microempresas à manutenção dos postos de trabalho
+
+1 - O empregador que esteja em situação de crise empresarial, nos termos do artigo 3.º, que seja considerado microempresa, nos termos do n.º 1 do artigo 100.º do Código do Trabalho, e que tenha beneficiado do apoio previsto no artigo 5.º do Decreto-Lei n.º 10-G/2020, de 26 de março, na sua redação atual, ou que beneficie do apoio previsto no artigo 4.º do presente decreto-lei, tem direito a um apoio financeiro à manutenção dos postos de trabalho, no valor de duas RMMG por trabalhador abrangido por aqueles apoios, pago de forma faseada ao longo de seis meses.
+
+2 - Para efeitos do disposto no número anterior, o número de trabalhadores da empresa é aferido por referência ao mês anterior à apresentação do requerimento previsto no número seguinte, tendo como limite o número de trabalhadores abrangidos pelos apoios referidos no número anterior no último mês da sua aplicação.
+
+3 - O apoio financeiro previsto no n.º 1 é concedido pelo IEFP, I. P., mediante apresentação de requerimento, sendo pago numa prestação por trimestre após verificação do cumprimento da situação de crise empresarial prevista no artigo 3.º
+
+4 - O empregador que beneficie do presente apoio deve cumprir os deveres previstos no contrato de trabalho, na lei e em instrumento de regulamentação coletiva de trabalho aplicável, bem como:
+
+a) Manter, comprovadamente, as situações contributiva e tributária regularizadas perante a segurança social e a AT;
+
+b) Não fazer cessar, durante o período de concessão do apoio, bem como nos 90 dias seguintes, contratos de trabalho por despedimento coletivo, despedimento por extinção do posto de trabalho e despedimento por inadaptação, previstos nos artigos 359.º, 367.º e 373.º do Código do Trabalho, nem iniciar os respetivos procedimentos;
+
+c) Manter, durante o período de concessão do apoio, bem como nos 90 dias seguintes, o nível de emprego observado no mês anterior ao da candidatura.
+
+5 - Para efeitos da verificação do nível de emprego, não são contabilizados os contratos de trabalho que cessem, mediante comprovação pelo empregador:
+
+a) Por caducidade nos termos do artigo 343.º do Código do Trabalho;
+
+b) Por denúncia pelo trabalhador;
+
+c) Na sequência de despedimento com justa causa promovido pelo empregador.
+
+6 - Não relevam as situações em que a variação do nível de emprego decorra de transmissão de estabelecimento, de parte de estabelecimento, ou equivalente, quando concomitantemente haja garantia, legal ou convencional, da manutenção pelo adquirente dos contratos de trabalho transmitidos.
+
+7 - Os serviços do IEFP, I. P., e do Instituto da Segurança Social, I. P. (ISS, I. P.), procedem à troca de informação relevante para efeitos de concessão dos apoios previstos no presente artigo.
+
+8 - A violação do disposto no presente artigo implica a imediata cessação do apoio e a restituição ou pagamento, conforme o caso, ao IEFP, I. P., dos montantes já recebidos.
+
+9 - Sem prejuízo do disposto no n.º 1, o empregador que, durante o primeiro semestre de 2021, tenha beneficiado do apoio a que refere o n.º 1, que, no mês de junho de 2021, se mantenha em situação de crise empresarial, nos termos do artigo 3.º, e ainda que, em 2021, não tenha beneficiado do apoio extraordinário à manutenção de contrato de trabalho, nos termos do artigo 2.º do Decreto-Lei n.º 6-E/2021, de 15 de janeiro, na sua redação atual, ou do apoio extraordinário à retoma progressiva de atividade previsto no artigo 4.º do Decreto-Lei n.º 46-A/2020, de 30 de julho, na sua redação atual, tem direito a requerer uma RMMG adicional entre julho e setembro de 2021.
+
+10 - Só pode beneficiar do apoio previsto no presente artigo o empregador que, no primeiro trimestre de 2021, não tenha beneficiado do apoio extraordinário à manutenção de contrato de trabalho, nos termos do artigo 2.º do Decreto-Lei n.º 6-E/2021, de 15 de janeiro, na sua redação atual, ou do apoio extraordinário à retoma progressiva de atividade previsto no artigo 4.º do presente decreto-lei.
+
+11 - O apoio financeiro previsto no presente artigo é regulamentado por portaria do membro do Governo responsável pela área do trabalho, designadamente no que respeita aos procedimentos, condições e termos de acesso.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2021 - Diário da República n.º 92/2021, Série I de 2021-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2021-163158834), em vigor a partir de 2021-05-13, produz efeitos a partir de 2021-05-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23-A/2021 - Diário da República n.º 58/2021, 1º Suplemento, Série I de 2021-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-a-2021-160149401), em vigor a partir de 2021-03-25
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+###### Artigo 15.º — Cumulação e sequencialidade de apoios
+
+1 - O acesso aos apoios previstos nos artigos 4.º e 14.º-A não são cumuláveis, procedendo o IEFP, I. P., e o serviço competente da segurança social à verificação de eventual acumulação indevida de apoios, simultânea ou sequencial, através de troca oficiosa de informação
+
+2 - O empregador não pode beneficiar simultaneamente dos apoios previstos no presente decreto-lei e no Decreto-Lei n.º 10-G/2020, de 26 de março, na sua redação atual, nem das medidas de redução ou suspensão previstas nos artigos 298.º e seguintes do Código do Trabalho.
+
+3 - O acesso aos apoios previstos no presente decreto-lei e o acesso ao incentivo extraordinário à normalização da atividade empresarial previsto no Decreto-Lei n.º 27-B/2020, de 19 de junho, na sua redação atual, excluem-se mutuamente, até janeiro de 2021, inclusive, procedendo o IEFP, I. P., e o serviço competente da segurança social à verificação de eventual acumulação indevida de apoios, simultânea ou sequencial, através de troca oficiosa de informação.
+
+4 - A verificação do incumprimento do disposto nos números anteriores determina a imediata cessação dos apoios e a restituição e pagamento, ao IEFP, I. P., e ao ISS, I. P., respetivamente, da totalidade do montante já recebido e isentado no âmbito dos respetivos apoios.
+
+5 - O empregador que recorra aos apoios previstos no presente decreto-lei pode, findos tais apoios, recorrer à aplicação das medidas de redução ou suspensão previstas nos artigos 298.º e seguintes do Código do Trabalho, não se aplicando o disposto no artigo 298.º-A do Código do Trabalho.
+
+6- (Revogado).
+
+7 - Ao empregador que tenha recorrido à aplicação das medidas de redução ou suspensão previstas nos artigos 298.º e seguintes do Código do Trabalho e que pretenda aceder aos apoios previstos no presente decreto-lei não se aplica o disposto no artigo 298.º-A do Código do Trabalho.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 8-B/2021 - Diário da República n.º 15/2021, 1º Suplemento, Série I de 2021-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-b-2021-154946852), em vigor a partir de 2021-01-27, produz efeitos a partir de 2021-01-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 98/2020 - Diário da República n.º 225/2020, Série I de 2020-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2020-148853501), em vigor a partir de 2020-11-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2020 - Diário da República n.º 203/2020, Série I de 2020-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398), em vigor a partir de 2020-10-20, produz efeitos a partir de 2020-08-01
+
+###### Artigo 16.º — Fiscalização e regime contraordenacional
+
+1 - Constitui contraordenação leve a violação do disposto no n.º 2 do artigo 4.º e no n.º 8 do artigo 6.º
+
+2 - Constitui contraordenação grave a violação do disposto no n.º 1 do artigo 7.º, na alínea d) do n.º 1, no n.º 2 e na alínea b) do n.º 3 do artigo 12.º e no artigo 14.º
+
+3 - A fiscalização do cumprimento do presente decreto-lei compete à Autoridade para as Condições de Trabalho, ao serviço competente da segurança social e ao IEFP, I. P.
+
+4 - Aplica-se às infrações por violação do presente decreto-lei o regime geral das contraordenações laborais previsto nos artigos 548.º a 566.º do Código do Trabalho, ou o regime contraordenacional previsto nos artigos 221.º a 248.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, consoante o caso.
+
+5 - O processamento das contraordenações segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro, na sua redação atual.
+
+6 - Os empregadores devem, para comprovação dos factos em que se baseia o pedido de apoio e respetivas prorrogações, preservar a informação relevante durante o período de três anos.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2020 - Diário da República n.º 203/2020, Série I de 2020-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2020-145714398), em vigor a partir de 2020-10-20
+
+###### Artigo 17.º — Financiamento
+
+1 - Os valores da compensação retributiva pagos pela segurança social nos termos do artigo 7.º são financiados pelo Orçamento do Estado.
+
+2 - O apoio financeiro pago pelo IEFP, I. P., nos termos do artigo 14.º-A, é financiado pelo Orçamento do Estado, podendo também ser financiado através de transferências do orçamento da segurança social para o IEFP, I. P., tendo por base financiamento do Orçamento do Estado, sendo aplicáveis, sem prejuízo da aplicação de saldos de gerência, as regras estabelecidas no artigo 144.º da Lei n.º 75-B/2020, de 31 de dezembro.
+
+3 - A perda de receita resultante das dispensas e isenções contributivas e das equivalências à entrada de contribuições concedidas ao abrigo do presente decreto-lei é integralmente financiada por transferências do Orçamento do Estado.
+
+4 - Os apoios previstos no presente decreto-lei são passíveis de financiamento europeu, sendo-lhes aplicáveis as respetivas disposições do direito nacional e da união europeia.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 56-A/2021 - Diário da República n.º 129/2021, 1º Suplemento, Série I de 2021-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-a-2021-166579339), em vigor a partir de 2021-07-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+###### Artigo 18.º — Avaliação
+
+As medidas previstas no presente decreto-lei são objeto de avaliação regular por parte da Comissão Permanente da Concertação Social.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 19.º — Entrada em vigor
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - (Revogado).
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71-A/2021 - Diário da República n.º 157/2021, 1º Suplemento, Série I de 2021-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-a-2021-169529634), em vigor a partir de 2021-08-14
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6-C/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-c-2021-154202310), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+Visto e aprovado em Conselho de Ministros de 27 de julho de 2020. - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.
+
+Promulgado em 29 de julho de 2020.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 30 de julho de 2020.
+
+Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+113454305
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01

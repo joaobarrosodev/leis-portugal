@@ -1,0 +1,1195 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0104:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0104-20070627",
+ "dre_path": null,
+ "source_lastmod": "2007-06-27",
+ "versions": [
+  {
+   "date": "1992-12-31",
+   "future": false,
+   "celex": "31992L0104",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ae91371e04f2291b",
+    "3331e357c38269c7",
+    "c0f0018ca027539f",
+    "500bfdfd2a9d01dc",
+    "a3fe8f98a62561b9",
+    "3c0a29f0d16e0e44",
+    "6799da38cc8efbec",
+    "b7de9a6f8d69aa05",
+    "8715964313f1faf0",
+    "369699940ebe650b",
+    "9b72437995580351",
+    "9796c544739472d9",
+    "03f87b6c8b3d3f95",
+    "1b7b3b4ff5b9b28a",
+    "3ad8f711c6de82b2",
+    "44b8163d0ff5d088",
+    "449711b7a6b84458",
+    "b00a6b608b5ff993",
+    "b171f045737fccb7",
+    "1f609cfd31572cfb",
+    "bd1943227671fe6c",
+    "dd563e9efd08c148"
+   ]
+  },
+  {
+   "date": "2007-06-27",
+   "future": false,
+   "celex": "01992L0104-20070627",
+   "acts": [
+    {
+     "id": "eu:celex:32007L0030:por",
+     "title": "DIRECTIVA 2007/30/CE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20 de Junho de 2007",
+     "published": null,
+     "celex": "32007L0030"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita SECÇÃO I",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita Artigo 1.º — Objecto",
+    "Adita Artigo 2.º — Definições",
+    "Adita SECÇÃO II",
+    "Adita OBRIGAÇÕES DA ENTIDADE PATRONAL",
+    "Adita Artigo 3.º — Obrigações gerais",
+    "Adita Artigo 4.º — Protecção contra incêndios, explosões e atmosferas nocivas",
+    "Adita Artigo 5.º — Meios de evacuação e salvação",
+    "Adita Artigo 6.º — Sistemas de comunicação, aviso e alarme",
+    "Adita Artigo 7.º — Informação dos trabalhadores",
+    "Adita Artigo 8.º — Controlo de saúde",
+    "Adita Artigo 9.º — Consulta e participação dos trabalhadores",
+    "Adita Artigo 10.º — Prescrições mínimas de segurança e de saúde",
+    "Adita SECÇÃO III",
+    "Adita DISPOSIÇÕES DIVERSAS",
+    "Adita Artigo 11.º — Adaptação do anexo",
+    "Adita Artigo 12.º — Indústrias extractivas por dragagem",
+    "Adita Artigo 13.º — Disposições finais",
+    "Adita Artigo 14.º",
+    "Adita ANEXO",
+    "Adita PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE A QUE SE REFERE O ARTIGO 10.º DA DIRECTIVA",
+    "Adita Observação preliminar",
+    "Adita PARTE A",
+    "Adita PRESCRIÇÕES MÍNIMAS COMUNS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO OU SUBTERRÂNEAS E ÀS RESPECTIVAS DEPENDÊNCIAS DE SUPERFÍCIE",
+    "Adita 1. Vigilância e organização",
+    "Adita 1.1. Organização dos locais de trabalho",
+    "Adita 1.2. Pessoa responsável",
+    "Adita 1.3. Vigilância",
+    "Adita 1.4. Trabalhadores competentes",
+    "Adita 1.5. Informação, instruções e formação",
+    "Adita 1.6. Instruções escritas",
+    "Adita 1.7. Formas de actuar seguras",
+    "Adita 1.8. Licença de trabalho",
+    "Adita 1.9. Análise periódica das medidas de segurança e de saúde",
+    "Adita 2. Equipamentos e instalações mecânicas e eléctricas",
+    "Adita 2.1. Generalidades",
+    "Adita 2.2. Disposições especiais",
+    "Adita 3. Manutenção",
+    "Adita 3.1. Manutenção geral",
+    "Adita 3.2. Manutenção do material de segurança",
+    "Adita 4. Protecção, contra riscos de explosão, atmosferas nocivas e riscos de incêndio",
+    "Adita 4.1. Generalidades",
+    "Adita 4.2. Protecção contra riscos de explosão",
+    "Adita 4.3. Protecção contra atmosferas nocivas",
+    "Adita 4.4. Protecção contra riscos de incêndio",
+    "Adita 5. Explosivos e acessórios de tiro",
+    "Adita 6. Vias de circulação",
+    "Adita 7. Locais de trabalho exteriores",
+    "Adita 8. Zonas de perigo",
+    "Adita 9. Vias e saídas de emergência",
+    "Adita 10. Meios de evacuação e salvação",
+    "Adita 11. Exercícios de segurança",
+    "Adita 12. Equipamento de primeiros socorros",
+    "Adita 13. Iluminação natural e artificial",
+    "Adita 14. Equipamentos sanitários",
+    "Adita 14.1. Vestiário e armários para roupa",
+    "Adita 14.2. Balneários e lavatórios",
+    "Adita 14.3. Retretes e lavatórios",
+    "Adita 15. Depósitos de estéreis e outras áreas de armazenamento",
+    "Adita 16. Anexos de superfície (disposições específicas suplementares)",
+    "Adita 16.1. Estabilidade e solidez",
+    "Adita 16.2. Pavimentos, paredes, tectos e telhados dos locais de trabalho",
+    "Adita 16.3. Dimensões e volume de ar nos locais de trabalho — espaço para liberdade de movimentos no posto de trabalho",
+    "Adita 16.4. Janelas e clarabóias",
+    "Adita 16.5. Portas e portões",
+    "Adita 16.6. Ventilação dos locais de trabalho fechados",
+    "Adita 16.7. Temperatura dos locais de trabalho",
+    "Adita 16.8. Salas de descanso",
+    "Adita 17. Mulheres grávidas e lactantes",
+    "Adita 18. Trabalhadores deficientes",
+    "Adita PARTE B",
+    "Adita PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO",
+    "Adita 1. Generalidades",
+    "Adita 2. Exploração",
+    "Adita PARTE C",
+    "Adita PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVASSUBTERRÂNEAS",
+    "Adita 2. Planta dos trabalhos subterrâneos",
+    "Adita 3. Saídas",
+    "Adita 4. Áreas de trabalho",
+    "Adita 5. Transportes",
+    "Adita 6. Entivação e estabilidade de terrenos",
+    "Adita 7. Ventilação",
+    "Adita 8. Minas ou pedreiras grisutosas",
+    "Adita 9. Minas ou pedreiras com poeiras inflamáveis",
+    "Adita 10. Libertações instantâneas de gás, resvalamentos de terreno e irrupções súbitas de água",
+    "Adita 11. Incêndios, fogos e aquecimento",
+    "Adita 12. Medidas de precaução ligadas à retirada do pessoal",
+    "Adita 13. Iluminação",
+    "Adita 14. Controlo de presenças no fundo",
+    "Adita 15. Organização do salvamento",
+    "Adita Notas",
+    "Suprime SECÇÃO I — DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1° — Objecto",
+    "Suprime Artigo 2° — Definições",
+    "Suprime SECÇÃO II — OBRIGAÇÕES DA ENTIDADE PATRONAL",
+    "Suprime Artigo 3° — Obrigações gerais",
+    "Suprime Artigo 4° — Protecção contra incêndios, explosões e atmosferas",
+    "Suprime Artigo 5° — Meios de evacuação e salvação",
+    "Suprime Artigo 6° — Sistemas de comunicação, aviso e alarme",
+    "Suprime Artigo 7° — Informação dos trabalhadores",
+    "Suprime Artigo 8° — Controlo de saúde",
+    "Suprime Artigo 9° — Consulta e participação dos trabalhadores",
+    "Suprime Artigo 10° — Prescrições mínimas de segurança e de saúde",
+    "Suprime SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+    "Suprime Artigo 11° — Adaptação do anexo",
+    "Suprime Artigo 12° — Indústrias extractivas por dragagem",
+    "Suprime Artigo 13° — Disposições finais",
+    "Suprime Artigo 14°",
+    "Suprime ANEXO — PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE A QUE SE REFERE O ARTIGO 10° DA DIRECTIVA",
+    "Suprime PARTE A — PRESCRIÇÕES MÍNIMAS COMUNS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO OU SUBTERRÂNEAS E ÀS RESPECTIVAS DEPENDÊNCIAS DE SUPERFÍCIE",
+    "Suprime PARTE B — PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO",
+    "Suprime PARTE C — PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS"
+   ],
+   "fragments": [
+    "ab79ca2d9937ecd6",
+    "19572906891c0646",
+    "e17a2adcfbbdd4cc",
+    "8099aa6e3858d738",
+    "4aa44f4a0fee6d93",
+    "0b50b9972a75b595",
+    "20ed23c93a7b0cd5",
+    "4290e7c527c2088a",
+    "dbe9ce50990aff8d",
+    "8c12f6e905177dea",
+    "e3b1843f5d40a10a",
+    "66675e82fa7aaf13",
+    "4a5f1f10eea31a7a",
+    "c27da1b92d39a244",
+    "47defad23657f795",
+    "b4f1bfdbc841cf04",
+    "4f0027fbf9863594",
+    "3197086ee485cb25",
+    "c3345b064a49e409",
+    "a7d141ee50d1d0fc",
+    "93f7be9cb1d3e0bd",
+    "10220b9774fa9034",
+    "5b293da9231268c6",
+    "d1e1e2d8b00656f1",
+    "c7d0279d82ad71c6",
+    "c91e103b886fbe36",
+    "bc32e6d41310e7f2",
+    "bbfb14b1fe8e24ad",
+    "e85df4c1b9050585",
+    "dc77b1d8bbc3cdc2",
+    "18f84875af81e568",
+    "ae48f129cc0295d3",
+    "ca22b379160e2643",
+    "5c88c6f3146eaf74",
+    "b0cbb58baa43b324",
+    "3faad472710371d2",
+    "55b60cc80a5d1d97",
+    "47dd7e6155de76cb",
+    "c88cc5b1d121ef20",
+    "1ad8114d7eb4a756",
+    "4d1d359fc255fb6b",
+    "71813b1c16415844",
+    "d29806f435f4e575",
+    "f9ef9d3cfc381053",
+    "561539f6637d8109",
+    "3f33bc3f610455c9",
+    "68cc4b207443beb0",
+    "4715243a72ab4845",
+    "62519ce9dbbe207d",
+    "5c6069f97cf02546",
+    "ce2afe3c15d26cf3",
+    "876b6ea75286e593",
+    "55b01c9c6a77bf99",
+    "4252f0bcca38790f",
+    "da26bc138ff4745d",
+    "ec41e6198e4cc5a1",
+    "d618ebcf684b25d8",
+    "f88133beb9901496",
+    "1cda0b12f577f7de",
+    "26f0bd2629c2e2ed",
+    "135bec4d1f7c29b4",
+    "371b6ea67b61f931",
+    "495a0bce3ce40b60",
+    "13b49923801b5aad",
+    "70aa3b6b616cd5ae",
+    "1c6a5e574bf60ea1",
+    "412188875dc29651",
+    "4802978e26a951ff",
+    "61945b82a7cd9437",
+    "2c192af842b202ed",
+    "7aa2ea4b3b4f915d",
+    "00407dc6d11c6c08",
+    "b8e186e213931897",
+    "2d8723fd47c0fe3b",
+    "8990286f18e746f8",
+    "3ed21b0e6ccf24b8",
+    "91225de3a1c3c9e6",
+    "6fd31dda4a19ce31",
+    "c8d427546db69cb9",
+    "87aa7803128c7f7e",
+    "897b283e20bba7a9",
+    "8743dedb5a26a8ed",
+    "e49e7f4da87d9d15",
+    "202711d18c56927c",
+    "0717f57033ab2fc1",
+    "f72617317332e336",
+    "6a8909344c490103",
+    "a8c5ac8ff4c455c7",
+    "6ef20901b3a2a35a",
+    "d53542e1a3696412",
+    "cd434ec222f89a80",
+    "d09bf9c2210ac3bd",
+    "de4a57cea09e6c1e",
+    "bc13ffeba457df2d"
+   ]
+  }
+ ],
+ "fragments": {
+  "ae91371e04f2291b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 92/104/CEE do Conselho, de 3 de Dezembro de 1992, relativa às prescrições mínimas destinadas a melhorar a protecção em matéria de segurança e saúde dos trabalhadores das indústrias extractivas a céu aberto ou subterrâneas (décima segunda directiva especial na acepção do nº 1 do artigo 16º da Directiva 89/391/CEE)** *Jornal Oficial nº L 404 de 31/12/1992 p. 0010 - 0025 Edição especial finlandesa: Capítulo 5 Fascículo 6 p. 0027 Edição especial sueca: Capítulo 5 Fascículo 6 p. 0027*\n\nDIRECTIVA 92/104/ CEE DO CONSELHO de 3 de Dezembro de 1992 relativa às prescrições mínimas destinadas a melhorar a protecção em matéria de segurança e saúde dos trabalhadores das indústrias extractivas a céu aberto ou subterrâneas (décima segunda directiva especial na acepção do n° 1 do artigo 16° da Directiva 89/391/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118°A,\n\nTendo em conta a proposta da Comissão (1), elaborado após consulta ao Órgão Permanente para a Segurança e a Salubridade nas Minas de Hulha e Outras Indústrias Extractivas,\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que o artigo 118°A do Tratado prevê que o Conselho adopte, por meio de directiva, prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de garantir um maior nível de protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas contrárias à criação e ao desenvolvimento de pequenas e médias empresas;\n\nConsiderando que a melhoria das condições de segurança, de higiene e de saúde dos trabalhadores no trabalho é um objectivo que não deve depender de considerações de carácter puramente económico;\n\nConsiderando que a Directiva 89/654/CEE do Conselho, de 30 de Novembro de 1989, relativa às prescrições mínimas de seguranca e de saúde para os locais de trabalho (primeira directiva especial na acepção do n° 1 do artigo 16° da Directiva 89/391/CEE) (4), não se aplica às indústrias extractivas;\n\nConsiderando que a observância das prescrições mínimas adequadas para assegurar um melhor nível de segurança e de saúde nas indústrias extractivas a céu aberto ou subterrâneas constitui um imperativo para a segurança e a saúde dos trabalhadores;\n\nConsiderando que as indústrias extractivas a céu aberto ou subterrâneas constituem um sector de actividade susceptível de expor os trabalhadores a riscos especialmente elevados;\n\nConsiderando que a presente directiva é uma directiva especial na acepção do n° 1 do artigo 16° da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinados a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho (5); que, por esse facto, as disposições da referida directiva se aplicam plenamente no domínio das indústrias extractivas a céu aberto ou subterrâneas, sem prejuízo de disposições mais restritivas e/ou específicas da presente directiva;\n\nConsiderando que as dependências de superfície das indústrias extractivas a céu aberto ou subterrâneas que não são necessárias às indústrias extractivas a céu aberto ou subterrâneas, definidas na alínea a) do artigo 2° da presente directiva, estão sujeitas às disposições da Directiva 89/654/CEE;\n\nConsiderando que, em 3 de Novembro de 1992, o Conselho adoptou a Directiva 92/91/CEE, relativa às prescrições mínimas destinadas a melhorar a protecção em matéria de segurança e saúde dos trabalhadores das indústrias extractivas por perfuração (décima primeira directiva especial na acepção do n° 1 do artigo 16° da Directiva 89/391/CEE) (6);\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "3331e357c38269c7": {
+   "fragment_id": "SECÇÃO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "SECÇÃO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — DISPOSIÇÕES GERAIS"
+  },
+  "c0f0018ca027539f": {
+   "fragment_id": "Artigo 1° — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1° — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1° — Objecto\n\n1. A presente directiva, que é a décima segunda directiva especial na acepção do n° 1 do artigo 16° da Directiva 89/391/CEE, define as prescrições mínimas de protecção em matéria de segurança e saúde dos trabalhadores das indústrias extractivas a céu aberto ou subterrâneas definidas na alínea a) do artigo 2°\n\n2. As disposições da Directiva 89/391/CEE aplicam-se plenamente no sector a que se refere o n° 1, sem prejuízo de disposições mais restritivas e/ou específicas da presente directiva."
+  },
+  "500bfdfd2a9d01dc": {
+   "fragment_id": "Artigo 2° — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2° — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2° — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) Indústria extractiva a céu aberto ou subterrânea: todas as indústrias que pratiquem as actividades:\n\n- de extracção, no sentido restrito do termo, de minérios a céu aberto ou subterrânea e/ou\n\n- de prospecção, tendo em vista essa extracção, e/ou\n\n- de preparação das matérias extraídas para venda, com exclusão das actividades de transformação das matérias extraídas,\n\ne excluindo as indústrias extractivas por perfuração definidas na alínea a) do artigo 2° da Directiva 92/91/CEE;\n\nb) Locais de trabalho: o conjunto dos locais destinados à implantação de postos de trabalho, incluindo as actividades e as instalações directa ou indirectamente relacionadas com as indústrias extractivas a céu aberto ou subterrâneas, incluindo os depósitos de estéreis e outras áreas de armazenamento e, se necessário, os alojamentos a que os trabalhadores tenham acesso no contexto do seu trabalho."
+  },
+  "a3fe8f98a62561b9": {
+   "fragment_id": "SECÇÃO II — OBRIGAÇÕES DA ENTIDADE PATRONAL",
+   "type": "divisao",
+   "heading": "SECÇÃO II — OBRIGAÇÕES DA ENTIDADE PATRONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — OBRIGAÇÕES DA ENTIDADE PATRONAL"
+  },
+  "3c0a29f0d16e0e44": {
+   "fragment_id": "Artigo 3° — Obrigações gerais",
+   "type": "artigo",
+   "heading": "Artigo 3° — Obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3° — Obrigações gerais\n\n1. Para garantir a segurança e a saúde dos trabalhadores, a entidade patronal tomará as medidas necessárias para que:\n\na) Os locais de trabalho sejam concebidos, construídos, equipados, postos a funcionar, utilizados e mantidos de forma a que os trabalhadores possam desempenhar as funções que lhes são confiadas sem perigo para a sua segurança e/ou saúde e/ou para as dos outros trabalhadores;\n\nb) A exploração dos locais de trabalho ocupados por trabalhadores se faça sob a supervisão de um responsável;\n\nc) As tarefas que envolvam riscos especiais sejam confiadas exclusivamente a trabalhadores competentes e executadas de acordo com as instruções fornecidas;\n\nd) Todas as instruções de segurança sejam compreensíveis por todos os trabalhadores a que se destinam;\n\ne) Sejam criadas instalações adequadas de primeiros socorros;\n\nf) Se proceda a todos os exercícios de segurança com intervalos regulares.\n\n2. A entidade patronal garantirá a elaboração e utilização de um documento em matéria de segurança e de saúde, adiante designado «documento de segurança e saúde» que preencha os requisitos pertinentes dos artigos 6°, 9° e 10° da Directiva 89/391/CEE.\n\nO documento de segurança e saúde demonstrará, nomeadamente, que:\n\n- os riscos a que estão expostos os trabalhadores no local de trabalhos foram determinados e avaliados;\n\n- serão tomadas as medidas adequadas para cumprir os objectivos estipulados na presente directiva;\n\n- a concepção, utilização e manutenção do local de trabalho e dos equipamentos são seguros.\n\nO documento de segurança e saúde deve ser preparado antes do início do trabalho e revisto sempre que o local de trabalho sofrer alterações, ampliações e transformações importantes.\n\n3. Quando estiverem presentes trabalhadores de diferentes empresas no mesmo local de trabalho, cada entidade patronal é responsável por todas as matérias que se encontram sob o seu controlo.\n\nA entidade patronal que, de acordo com as legislações e/ou a prática nacionais, seja responsável pelo local de trabalho coordenará a aplicação de todas as medidas relativas à segurança e à saúde dos trabalhadores e especificará, no documento de segurança e saúde, a finalidade, as medidas e as modalidades de execução dessa coordenação.\n\nA coordenação não afecta a responsabilidade individual de cada entidade patronal prevista na Directiva 89/391/CEE.\n\n4. O mais cedo possível, a entidade patronal apresentará às autoridades competentes um relatório sobre todos os acidentes de trabalho graves e/ou mortais, bem como sobre quaisquer outras situações de perigo grave."
+  },
+  "6799da38cc8efbec": {
+   "fragment_id": "Artigo 4° — Protecção contra incêndios, explosões e atmosferas",
+   "type": "artigo",
+   "heading": "Artigo 4° — Protecção contra incêndios, explosões e atmosferas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4° — Protecção contra incêndios, explosões e atmosferas\n\nnocivas\n\nA entidade patronal tomará as medidas e precauções adequadas ao tipo de exploração para:\n\n- evitar, detectar e combater a deflagração e propagação de incêndios e explosões\n\ne\n\n- impedir a formação de atmosferas explosivas e/ou nocivas para a saúde."
+  },
+  "b7de9a6f8d69aa05": {
+   "fragment_id": "Artigo 5° — Meios de evacuação e salvação",
+   "type": "artigo",
+   "heading": "Artigo 5° — Meios de evacuação e salvação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5° — Meios de evacuação e salvação\n\nA entidade patronal deve prestar especial atenção à existência e à manutenção dos meios adequados de evacuação e salvação, para que, em caso de perigo, os trabalhadores tenham a possibilidade de evacuar convenientemente os locais de trabalho, rapidamente e em segurança."
+  },
+  "8715964313f1faf0": {
+   "fragment_id": "Artigo 6° — Sistemas de comunicação, aviso e alarme",
+   "type": "artigo",
+   "heading": "Artigo 6° — Sistemas de comunicação, aviso e alarme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6° — Sistemas de comunicação, aviso e alarme\n\nA entidade patronal tomará as medidas necessárias para fornecer os sistemas de alarme e outros meios de comunicação necessários para permitir, se necessário, o desencadeamento imediato de operações de socorro, evacuação e salvação."
+  },
+  "369699940ebe650b": {
+   "fragment_id": "Artigo 7° — Informação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 7° — Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7° — Informação dos trabalhadores\n\n1. Sem prejuízo do artigo 10° da Directiva 89/391/CEE, os trabalhadores e/ou os seus representantes serão informados de todas as medidas a tomar em relação à segurança e saúde nos locais de trabalho, particularmente as relativas à aplicação dos artigos 3° a 6°\n\n2. As informações devem ser compreensíveis pelos trabalhadores a que se destinam."
+  },
+  "9b72437995580351": {
+   "fragment_id": "Artigo 8° — Controlo de saúde",
+   "type": "artigo",
+   "heading": "Artigo 8° — Controlo de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8° — Controlo de saúde\n\n1. Para garantir um controlo adequado da saúde dos trabalhadores em função dos riscos relacionados com a sua segurança e saúde no trabalho, serão estabelecidas medidas nos termos das legislações e/ou práticas nacionais.\n\n2. As medidas a que se refere o n° 1 devem permitir que todos os trabalhadores beneficiem ou sejam objecto de um controlo de saúde, antes de serem afectados a tarefas relacionadas com as actividades a que se refere o artigo 2° e, seguidamente, com intervalos regulares.\n\n3. O controlo de saúde pode fazer parte de um sistema nacional de saúde."
+  },
+  "9796c544739472d9": {
+   "fragment_id": "Artigo 9° — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 9° — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9° — Consulta e participação dos trabalhadores\n\nOs trabalhadores e/ou os seus representantes serão consultados e participarão, nos termos do artigo 11° da Directiva 89/391/CEE, nas matérias abrangidas pela presente directiva."
+  },
+  "03f87b6c8b3d3f95": {
+   "fragment_id": "Artigo 10° — Prescrições mínimas de segurança e de saúde",
+   "type": "artigo",
+   "heading": "Artigo 10° — Prescrições mínimas de segurança e de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10° — Prescrições mínimas de segurança e de saúde\n\n1. Os locais de trabalho utilizados pela primeira vez após a data do início da aplicação da presente directiva, a que se refere o n° 1 do artigo 13°, devem respeitar as prescrições mínimas de segurança e de saúde constantes do anexo.\n\n2. Os locais de trabalho que já estiverem a ser utilizados antes da data do início da aplicação da presente directiva, a que se refere o n° 1 do artigo 13°, devem passar a respeitar, o mais rapidamente possível e o mais tardar até nove anos a contar dessa data, às prescrições mínimas de segurança e de saúde incluídas no anexo.\n\n3. Sempre que os locais de trabalho sofram modificações, ampliações e/ou transformações após a data do início da aplicação da presente directiva a que se refere o n° 1 do artigo 13°, a entidade patronal tomará as medidas necessárias para que essas modificações, amplicações e/ou transformações respeitem as prescrições mínimas correspondentes, incluídas no anexo."
+  },
+  "1b7b3b4ff5b9b28a": {
+   "fragment_id": "SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "SECÇÃO III — DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — DISPOSIÇÕES DIVERSAS"
+  },
+  "3ad8f711c6de82b2": {
+   "fragment_id": "Artigo 11° — Adaptação do anexo",
+   "type": "artigo",
+   "heading": "Artigo 11° — Adaptação do anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11° — Adaptação do anexo\n\nAs adaptações de natureza estritamente técnica do anexo, em função:\n\n- da adopção de directivas em matéria de harmonização técnica e de normalização, relativas às indústrias extractivas a céu aberto ou subterrâneas,\n\ne/ou\n\n- do progresso técnico, da evolução das regulamentações ou especificações internacionais ou dos conhecimentos relativos às indústrias extractivas a céu aberto ou subterrâneas,\n\nserão adoptadas de acordo com o procedimento previsto no artigo 17° da Directiva 89/391/CEE."
+  },
+  "44b8163d0ff5d088": {
+   "fragment_id": "Artigo 12° — Indústrias extractivas por dragagem",
+   "type": "artigo",
+   "heading": "Artigo 12° — Indústrias extractivas por dragagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12° — Indústrias extractivas por dragagem\n\nOs Estados-membros têm a possibilidade de não aplicar a presente directiva às indústrias extractivas por dragagem, desde que assegurem aos respectivos trabalhadores uma protecção conforme aos princípios gerais de protecção da segurança e da saúde dos trabalhadores, contidos na presente directiva, atendendo aos riscos específicos ligados às indústrias extractivas por dragagem."
+  },
+  "449711b7a6b84458": {
+   "fragment_id": "Artigo 13° — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 13° — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13° — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, o mais tardar 24 meses após a sua adopção, e desse facto informarão imediatamente a Comissão.\n\n2. As disposições previstas no n° 1 adoptadas pelos Estados-membros incluirão uma referência à presente directiva ou serão acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que vierem a adoptar nas matérias reguladas pela presente directiva.\n\n4. Os Estados-membros enviarão à Comissão, de cinco em cinco anos, um relatório sobre a execução prática das disposições da presente directiva, do qual constarão as opiniões dos parceiros sociais.\n\nA Comissão informará o Parlamento Europeu, o Conselho, o Comité Económico e Social, o Órgão Permanente para a Segurança e a Salubridade nas Minas de Hulha e Outras Indústrias Extractivas, bem como o Comité Consultivo para a Segurança, a Higiene e a Protecção da Saúde no Local de Trabalho sobre o teor desse relatório."
+  },
+  "b00a6b608b5ff993": {
+   "fragment_id": "Artigo 14°",
+   "type": "artigo",
+   "heading": "Artigo 14°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14°\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 3 de Dezembro de 1992.\n\nPelo Conselho\n\nO Presidente\n\nG. SHEPHARD\n\n(1) JO n° C 58 de 5. 3. 1992, p. 3.\n\n(2) JO n° C 150 de 15. 6. 1992, p. 128, e\n\nJO n° C 305 de 23. 11. 1992.\n\n(3) JO n° C 169 de 6. 7. 1992, p. 28.\n\n(4) JO n° L 393 de 30. 12. 1989, p. 1.\n\n(5) JO n° L 183 de 29. 6. 1989, p. 1.\n\n(6) JO n° L 348 de 28. 11. 1992, p. 9."
+  },
+  "b171f045737fccb7": {
+   "fragment_id": "ANEXO — PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE A QUE SE REFERE O ARTIGO 10° DA DIRECTIVA",
+   "type": "divisao",
+   "heading": "ANEXO — PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE A QUE SE REFERE O ARTIGO 10° DA DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE A QUE SE REFERE O ARTIGO 10° DA DIRECTIVA\n\nObservação preliminar\n\nAs obrigações previstas no presente anexo aplicam-se sempre que as características do local de trabalho ou da actividade, as circunstâncias ou um risco especial o exijam."
+  },
+  "1f609cfd31572cfb": {
+   "fragment_id": "PARTE A — PRESCRIÇÕES MÍNIMAS COMUNS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO OU SUBTERRÂNEAS E ÀS RESPECTIVAS DEPENDÊNCIAS DE SUPERFÍCIE",
+   "type": "divisao",
+   "heading": "PARTE A — PRESCRIÇÕES MÍNIMAS COMUNS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO OU SUBTERRÂNEAS E ÀS RESPECTIVAS DEPENDÊNCIAS DE SUPERFÍCIE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE A — PRESCRIÇÕES MÍNIMAS COMUNS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO OU SUBTERRÂNEAS E ÀS RESPECTIVAS DEPENDÊNCIAS DE SUPERFÍCIE\n\n1. Vigilância e organização\n\n1.1. Organização dos locais de trabalho\n\n1.1.1. Os locais de trabalho devem ser concebidos de forma a garantir uma protecção adequada contra os riscos. Devem também ser mantidos em bom estado e as substâncias ou os depósitos perigosos devem ser removidos ou vigiados, de modo a não porem em perigo a saúde e a segurança dos trabalhadores.\n\n1.1.2. Os postos de trabalho devem ser concebidos e instalados segundo princípios ergonómicos, tendo em conta a necessidade de os trabalhadores poderem acompanhar as operações que se desenrolam nos seus postos de trabalho.\n\n1.1.3. Sempre que os postos de trabalho forem ocupados por trabalhadores isolados, estes devem beneficiar de uma vigilância adequada ou poder permanecer em contacto por meios de telecomunicação.\n\n1.2. Pessoa responsável\n\nTodos os locais de trabalho ocupados por trabalhadores devem estar permanentemente colocados sob a responsabilidade de uma pessoa responsável que possua as qualidades e a competência exigidas para essa função pela legislação e/ou a prática nacionais, designada pela entidade patronal.\n\nPode ser a própria entidade patronal a assumir a responsabilidade pelo local de trabalho referida no primeiro parágrafo, se possuir as qualidades e a competência exigidas para o efeito pelas legislações e/ou práticas nacionais.\n\n1.3. Vigilância\n\nPara se garantir a segurança e a saúde dos trabalhadores durante todas as operações realizadas, a vigilância deve ser garantida por pessoas que possuam as qualidades e a competência exigidas para essas funções, de acordo com as legislações e/ou as práticas nacionais, e que tenham sido designadas pela entidade patronal ou em seu nome e actuem em seu nome.\n\nQuando o documento de segurança e saúde o exigir, os locais de trabalho ocupados devem ser visitados pelo menos uma vez durante cada período de trabalho.\n\nPode ser a própria entidade patronal a garantir a vigilância referida no primeiro parágrafo, se possuir as qualidades e a competência exigidas para o efeito pelas legislações e/ou pelas práticas nacionais.\n\n1.4. Trabalhadores competentes\n\nEm todos os locais de trabalho ocupados por trabalhadores deve existir um número suficiente de trabalhadores que possua as qualidades, a experiência e a formação necessárias ao exercício das funções que lhes foram confiadas.\n\n1.5. Informação, instruções e formação\n\nOs trabalhadores devem dispor da informação, das instruções e das acções de formação e reciclagem necessárias para preservar a sua segurança e a sua saúde.\n\nA entidade patronal deve assegurar que os trabalhadores recebem instruções compreensíveis, a fim de não comprometerem a sua segurança e saúde, bem como a dos outros trabalhadores.\n\n1.6. Instruções escritas\n\nDevem ser elaboradas para cada local de trabalho instruções escritas que definam as regras a cumprir para assegurar a segurança e a saúde dos trabalhadores e garantam uma utilização segura do material.\n\nEssas instruções devem igualmente incluir indicações sobre a utilização dos equipamentos de socorro e as medidas a tomar em caso de emergência no local de trabalho ou nas suas imediações.\n\n1.7. Formas de actuar seguras\n\nEm todos os locais de trabalho e para cada actividade, devem ser utilizadas formas de actuar seguras.\n\n1.8. Licença de trabalho\n\nSempre que o documento de segurança e de saúde o exigir, deve ser criado um sistema de licenças de trabalho para a execução dos trabalhos perigosos e dos trabalhos que normalmente não apresentem perigo mas que possam ocasionar riscos graves ao interferirem com outras operações.\n\nA licença de trabalho deve ser emitida por uma pessoa responsável antes do início dos trabalhos e deve especificar as condições a preencher e as precauções a tomar antes, durante e após os trabalhos.\n\n1.9. Análise periódica das medidas de segurança e de saúde\n\nA entidade patronal deve garantir a análise periódica das medidas tomadas em matéria de segurança e de saúde dos trabalhadores, incluindo o sistema de gestão da segurança e da saúde, a fim de garantir a observância das exigências da directiva.\n\n2. Equipamentos e instalações mecânicas e eléctricas\n\n2.1. Generalidades\n\nA escolha, instalação, entrada em serviço, funcionamento e manutenção dos equipamentos mecânicos e eléctricos devem ser efectuados tendo em devida conta a segurança e a saúde dos trabalhadores e tomando em consideração outras disposições da presente directiva e das directivas 89/392/CEE (1) e 89/655/CEE (2).\n\nSe esses equipamentos estiverem implantados numa área onde existam ou possam existir riscos de incêndio ou explosão devido à inflamação de gases, de vapores ou de líquidos voláteis, devem ser adaptados à sua utilização nessa área.\n\nEm caso de avaria, os equipamentos devem ser munidos, se necessário, de dispositivos de protecção adequados e de sistemas de segurança.\n\n2.2. Disposições especiais\n\nOs equipamentos e as instalações mecânicas devem apresentar resistência suficiente, ser isentos de defeitos visíveis e adequados ao tipo de utilização a que se destinam.\n\nOs equipamentos e as instalações eléctricas devem possuir capacidade e potência suficientes para o uso a que se destinam.\n\nOs equipamentos e as instalações mecânicas e eléctricas devem ser instalados e protegidos de forma a evitar qualquer perigo.\n\n3. Manutenção\n\n3.1. Manutenção geral\n\nÉ necessário estabelecer um programa adequado que preveja a inspecção sistemática, a manutenção e, se necessário, o ensaio dos equipamentos e das instalações mecânicas e eléctricas.\n\nA manutenção, a inspecção e o ensaio de qualquer componente das instalações ou dos equipamentos devem ser realizados por agentes competentes.\n\nDevem ser estabelecidas e devidamente arquivadas fichas de inspecção e ensaio.\n\n3.2. Manutenção do material de segurança\n\nDeve existir um material de segurança adequado, pronto a ser utilizado a qualquer momento e sempre em bom estado de funcionamento.\n\nA sua manutenção deve ser efectuada tendo devidamente em conta as actividades exercidas.\n\n4. Protecção contra riscos de explosão, atmosferas nocivas e riscos de incêndio\n\n4.1. Generalidades\n\n4.1.1. Devem ser tomadas medidas para avaliar a presença de substâncias nocivas e/ou potencialmente explosivas na atmosfera e para medir a concentração dessas substâncias.\n\nQuando o documento de segurança e saúde o exigir, devem ser previstos aparelhos de vigilância para registo automático e contínuo das concentrações de gás em pontos específicos, dispositivos de alarme automático, sistemas de corte automático das instalações eléctricas e dos sistemas de paragem automática dos motores de combustão interna.\n\nSempre que se prevejam medições automáticas, os valores medidos devem ser registados e conservados de acordo com o previsto no documento de segurança e de saúde.\n\n4.1.2. É proibido fumar nas zonas que apresentem riscos específicos de incêndio ou de explosão.\n\nÉ igualmente proibida a utilização de chama não protegida nestas zonas, assim como a realização de qualquer trabalho que possa apresentar risco de inflamação, excepto se tiverem sido tomadas precauções suficientes para evitar a deflagração de um incêndio ou de uma explosão.\n\n4.2. Protecção contra riscos de explosão\n\n4.2.1. Devem ser tomadas todas as medidas necessárias para combater a formação e a acumulação de atmosferas explosivas.\n\n4.2.2. No interior das zonas que apresentem riscos de explosão, devem ser tomadas todas as medidas necessárias para impedir a inflamação de atmosferas explosivas.\n\n4.2.3. Deve ser estabelecido um plano de prevenção contra explosões que especifique os equipamentos e as medidas necessárias.\n\n4.3. Protecção contra atmosferas nocivas\n\n4.3.1. Quando se acumulem ou se possam acumular substâncias nocivas na atmosfera, devem ser tomadas medidas adequadas para:\n\na) Assegurar a sua eliminação na fonte; ou\n\nb) Extraí-las na fonte ou eliminá-las; ou\n\nc) Diluir as acumulações dessas substâncias,\n\nde modo a que não haja risco para os trabalhadores.\n\nO sistema deve estar em condições de dispersar essas substâncias nocivas por forma a que não haja risco para os trabalhadores.\n\n4.3.2. Sem prejuízo da Directiva 89/656/CEE (1), nas zonas onde os trabalhadores possam, eventualmente, estar expostos a atmosferas nocivas para a saúde, devem estar disponíveis em número suficiente equipamentos respiratórios e de reanimação adequados.\n\nNesses casos, é conveniente providenciar para garantir a presença de um número suficiente de trabalhadores no local de trabalho que saibam utilizar esse material.\n\nO material deve ser devidamente armazenado e mantido.\n\n4.3.3. Se se verificar ou for susceptível de se verificar a presença de gases tóxicos na atmosfera, deve estar sempre disponível um plano de protecção que indique os equipamentos disponíveis e as medidas preventivas adoptadas.\n\n4.4. Protecção contra riscos de incêndio\n\n4.4.1. A concepção, construção, equipamento, entrada em serviço, utilização ou manutenção dos locais de trabalho devem ser sempre acompanhados de medidas adequadas para evitar a deflagração ou a propagação de incêndios a partir das fontes identificadas no documento de segurança e saúde.\n\nDevem ser tomadas disposições para que qualquer início de incêndio seja dominado de forma rápida e eficaz.\n\n4.4.2. Os locais de trabalho devem ser equipados com dispositivos apropriados de combate aos incêndios e, se necessário, com detectores de incêndio e sistemas de alarme.\n\n4.4.3. O equipamento não automático de combate aos incêndios deve ser de fácil acesso e manipulação e, se necessário, protegido contra os riscos de deterioração.\n\n4.4.4. No local de trabalho deve ser mantido um plano de segurança para casos de incêndio, especificando as medidas a tomar nos termos dos artigos 3°, 4°, 5° e 6° da presente directiva para evitar, detectar e combater a deflagração e propagação de incêndios.\n\n4.4.5. O equipamento de combate aos incêndios deve estar sinalizado em conformidade com as normas nacionais que transpõem a Directiva 92/58/CEE (1).\n\nEsta sinalização deve ser duradoura e estar afixada em locais adequados.\n\n5. Explosivos e acessórios de tiro\n\nA conservação, o transporte e a utilização de explosivos e acessórios de tiro devem ser efectuados por pessoal competente devidamente autorizado.\n\nEstas operações devem ser organizadas e executadas de modo a prevenir quaisquer riscos para os trabalhadores.\n\n6. Vias de circulação\n\n6.1. O acesso aos locais de trabalho não deve apresentar riscos e deve ser possível evacuá-los rapidamente e com toda a segurança, em caso de emergência.\n\n6.2. As vias de circulação, incluindo as escadas, os escadotes fixos, os cais e as rampas de carga, devem ser calculadas, dimensionadas e localizadas de forma a que peões ou veículos possam utilizá-las facilmente, com toda a segurança, de acordo com os fins a que se destinam e de modo a que os trabalhadores ocupados na proximidade dessas vias de circulação não corram qualquer risco.\n\n6.3. O cálculo das dimensões das vias destinadas à circulação de pessoas e/ou de mercadorias deve depender do número potencial de utentes e do tipo de empresa.\n\nSempre que forem utilizados meios de transporte nas vias de circulação, deve ser prevista uma distância de segurança suficiente para os peões.\n\n6.4. As vias de circulação destinadas a veículos devem passar a uma distância suficiente das portas, portões, passagens para peões, corredores e escadas.\n\n6.5. O traçado das vias de circulação e de acesso deve ser claramente assinalado, de modo a garantir a protecção dos trabalhadores.\n\n6.6. Se nos locais de trabalho penetrarem veículos ou máquinas, devem ser estabelecidas as necessárias regras de circulação.\n\n7. Locais de trabalho exteriores\n\n7.1. Os postos de trabalho, as vias de circulação e outros locais ou instalações ao ar livre, utilizados ou ocupados pelos trabalhadores no exercício das suas funções, devem ser concebidos de forma a que a circulação de peões e veículos se possa processar com segurança.\n\n7.2. Os locais de trabalho ao ar livre devem ser suficientemente iluminados com luz artificial sempre que não for suficiente a iluminação natural.\n\n7.3. Se forem ocupados postos de trabalho exteriores, estes últimos devem, na medida do possível, ser concebidos de forma a que os trabalhadores:\n\na) Estejam protegidos contra as influências atmosféricas e, se necessário, contra a queda de objectos;\n\nb) Não se encontrem expostos a níveis sonoros nocivos nem a qualquer influência exterior nociva (por exemplo, gases, vapores ou poeiras);\n\nc) Possam abandonar rapidamente os postos de trabalho, em caso de perigo, ou ser rapidamente socorridos;\n\nd) Não possam escorregar ou cair.\n\n8. Zonas de perigo\n\n8.1. As zonas de perigo devem ser assinaladas de modo bem visível.\n\n8.2. Se, devido à natureza do trabalho, os locais de trabalho incluírem zonas de perigo onde possa haver riscos, nomeadamente, de queda do trabalhador ou de queda de objectos, na medida do possível, esses locais devem ser equipados com dispositivos que evitem a entrada a trabalhadores não autorizados nessas zonas.\n\n8.3. Devem ser tomadas as medidas apropriadas para proteger os trabalhadores autorizados a entrar nas zonas de perigo.\n\n9. Vias e saídas de emergência\n\n9.1. Em caso de perigo, todos os postos de trabalho devem poder ser evacuados rapidamente e em condições de segurança máxima para os trabalhadores.\n\n9.2. As vias e saídas de emergência devem permanecer desobstruídas e desembocar o mais directamente possível no ar livre ou numa zona de segurança, num ponto de concentração ou num posto de evacuação seguro.\n\n9.3. O número, distribuição e dimensões das vias e saídas de emergência dependem da utilização, do equipamento e das dimensões dos locais de trabalho, bem como do número máximo de pessoas que possam estar presentes nesses locais.\n\n9.4. As portas de emergência devem-se abrir para o exterior.\n\nAs portas de emergência não devem ser fechadas de modo a impedir a sua abertura fácil e imediata por qualquer pessoa que tenha necessidade de as utilizar em caso de emergência.\n\n9.5. As portas de emergência não devem ser fechadas à chave.\n\nAs vias e saídas de emergência, assim como as vias de circulação e as portas que lhes dão acesso, não devem ser obstruídas com objectos, de forma a poderem ser utilizadas sem obstáculos em qualquer altura.\n\n9.6. As vias e saídas de emergência que necessitem de iluminação devem ser equipadas com uma iluminação de segurança de intensidade suficiente para os casos de avaria na iluminação.\n\n9.7. As vias e saídas específicas de emergência devem ser sinalizadas de acordo com as normas nacionais de transposição da Directiva 92/58/CEE.\n\n10. Meios de evacuação e salvação\n\n10.1. Os trabalhadores devem receber formação sobre as medidas apropriadas a tomar em caso de emergência.\n\n10.2. Deve existir equipamento de salvamento pronto a ser utilizado em locais adequados e de fácil acesso, sinalizado de acordo com as normas nacionais de transposição da Directiva 92/58/CEE.\n\n11. Exercícios de segurança\n\nEm todos os locais de trabalho habitualmente ocupados devem ser realizados exercícios de segurança com intervalos regulares.\n\nEsses exercícios destinam-se, nomeadamente, a formar e a verificar a aptidão dos trabalhadores que, em caso de emergência, estão encarregados de executar tarefas precisas que requeiram a utilização, a manipulação ou o funcionamento de equipamentos de emergência.\n\nSe necessário, os trabalhadores também devem poder exercitar-se na utilização, manipulação e funcionamento desse equipamento.\n\n12. Equipamento de primeiros socorros\n\n12.1. Deve-se prever a existência de equipamento de primeiros socorros adaptado à actividade exercida, em todos os locais onde as condições de trabalho o exijam.\n\nEsse equipamento deve ser devidamente sinalizado e facilmente acessível.\n\n12.2. Sempre que a importância das instalações, o tipo de actividade praticado e a frequência dos acidentes o exijam, devem ser previstas uma ou várias salas destinadas a primeiros socorros.\n\nAs instruções sobre os primeiros socorros a prestar em caso de acidente devem ser afixadas de forma bem visível nessas salas.\n\n12.3. As salas destinadas aos primeiros socorros devem possuir as instalações e o material de primeiros socorros indispensáveis e permitirem o fácil acesso de macas.\n\nEssas salas devem ser sinalizadas de acordo com as normas nacionais que transpõem a Directiva 92/58/CEE.\n\n12.4. Deve também haver material de primeiros socorros disponível em todos os locais onde as condições de trabalho o exijam.\n\nEsse material deve ser devidamente sinalizado e facilmente acessível.\n\n12.5. Deve ser dada formação a um número suficiente de trabalhadores sobre a utilização do material de primeiros socorros fornecido.\n\n13. Iluminação natural e artificial\n\n13.1. Todos os locais de trabalho devem dispor de sistemas de iluminação que abranjam todas as áreas e forneçam iluminação suficiente, de forma a garantir a saúde e a segurança dos trabalhadores.\n\n13.2. Na medida do possível, os locais de trabalho devem dispor de luz natural suficiente e, consoante as condições climáticas, estar equipados com dispositivos que permitam uma iluminação artificial adequada à protecção da segurança e da saúde dos trabalhadores.\n\n13.3. As instalações de iluminação dos locais de trabalho e das vias de comunicação devem ser concebidas de forma a que o tipo de iluminação previsto não apresente riscos de acidente para os trabalhadores.\n\n13.4. Os locais de trabalho em que os trabalhadores estejam expostos a riscos em caso de avaria da iluminação artificial devem prever uma iluminação de segurança de intensidade suficiente.\n\nCaso não seja possível, os trabalhadores devem dispor de aparelhos individuais de iluminação.\n\n14. Equipamentos sanitários\n\n14.1. Vestiário e armários para roupa\n\n14.1.1. Os trabalhadores devem ter à sua disposição vestiários adequados sempre que tenham de utilizar vestuário de trabalho especial e não lhes possa ser solicitado, por motivos de saúde ou de decoro, que mudem de roupa numa outra divisão.\n\nOs vestiários devem ser de fácil acesso, possuir uma capacidade suficiente e estar equipados com assentos.\n\n14.1.2. Os vestiários devem ter dimensões suficientes e possuir equipamentos que permitam a cada trabalhador fechar a sua roupa à chave durante o tempo de trabalho.\n\nSe as circunstâncias o exigirem (por exemplo, presença de substâncias perigosas, humidade, sujidade), os armários para o vestuário de trabalho devem estar separados dos armários para vestuário de uso privado.\n\nDeve ser previsto equipamento que permita a cada trabalhador secar o vestuário de trabalho.\n\n14.1.3. Devem ser previstos vestiários separados ou uma utilização separada dos vestiários para homens e mulheres.\n\n14.1.4. Quando não forem necessários vestiários na acepção do ponto 15.1.1, cada trabalhador deve poder dispor de um espaço destinado à arrumação do seu vestuário.\n\n14.2. Balneários e lavatórios\n\n14.2.1. Os trabalhadores devem dispor de chuveiros adequados e suficientes sempre que o tipo de actividade ou a salubridade o exijam.\n\nDevem ser previstos chuveiros separados ou uma utilização separada dos chuveiros para homens e mulheres.\n\n14.2.2. Os chuveiros devem possuir dimensões suficientes de forma a permitir que cada trabalhador possa tratar da sua higiene pessoal sem qualquer entrave e em condições de higiene apropriadas.\n\nOs chuveiros devem ser equipados de água quente e fria.\n\n14.2.3. Quando não forem necessários chuveiros na acepção do ponto 14.2.1, devem ser instalados lavatórios suficientes e adequados com água quente e fria, na proximidade dos postos de trabalho e dos vestiários.\n\nDevem ser previstos lavatórios separados ou uma utilização separada dos lavatórios para homens e mulheres, sempre que tal seja necessário por razões de decoro.\n\n14.3. Retretes e lavatórios\n\nOs trabalhadores devem dispor, na proximidade dos seus postos de trabalho, das salas de descanso, dos vestiários e dos balneários ou lavatórios, de instalações especiais equipadas com um número suficiente de retretes e lavatórios.\n\nDevem ser previstas retretes separadas ou uma utilização separada das retretes para homens e mulheres.\n\nNas indústrias extractivas subterrâneas, os equipamentos sanitários a que se refere o presente ponto podem estar localizados à superfície.\n\n15. Depósitos de estéreis e outras áreas de armazenamento\n\nOs depósitos de estéreis, as montureiras, as escórias e outras áreas de armazenamento, assim como as bacias de decantação devem ser concebidos, construídos, dispostos e sujeitos a manutenção, de modo a garantir a sua estabilidade, assim como a segurança e a saúde dos trabalhadores.\n\n16. Anexos de superfície (disposições específicas suplementares)\n\n16.1. Estabilidade e solidez\n\nOs locais de trabalho devem ser concebidos, construídos, instalados, explorados, vigiados e sujeitos a manutenção, de modo a poderem resistir às solicitações externas a que possam ser sujeitos.\n\nDevem possuir estruturas e solidez apropriadas ao seu tipo de utilização.\n\n16.2. Pavimentos, paredes, tectos e telhados dos locais de trabalho\n\n16.2.1. Os pavimentos das salas devem-se encontrar isentos de saliências, buracos ou planos inclinados perigosos; devem ser fixos, estáveis e não escorregadios.\n\nOs locais de trabalho em que estejam instalados postos de trabalho devem apresentar um isolamento térmico suficiente, tendo em conta o tipo de empresa e a actividade física dos trabalhadores.\n\n16.2.2. As superfícies dos pavimentos, das paredes e dos tectos das salas devem ser de molde a poderem ser limpas e reparadas de forma a garantir as condições de higiene adequadas.\n\n16.2.3. As divisórias transparentes ou translúcidas, nomeadamente as divisórias totalmente envidraçadas nas salas ou na vizinhança dos postos de trabalho e das vias de circulação, devem estar claramente sinalizadas e ser constituídas por materiais de segurança ou estar separadas desses postos de trabalho e das vias de circulação, de forma a que os trabalhadores não possam entrar em contacto com elas nem ficar feridos, caso se estilhacem.\n\n16.2.4. O acesso a telhados construídos com materiais que não ofereçam resistência suficiente só pode ser autorizado se forem fornecidos equipamentos destinados a permitir que o trabalho seja realizado com segurança.\n\n16.3. Dimensões e volume de ar nos locais de trabalho - espaço para liberdade de movimentos no posto de trabalho\n\n16.3.1. Os locais de trabalho devem possuir uma superfície, altura e volume de ar que permitam aos trabalhadores executar o seu trabalho sem pôr em risco a sua segurança, a sua saúde e o seu bem-estar.\n\n16.3.2. As dimensões de superfície livre no posto de trabalho devem permitir que o trabalhador disponha de suficiente liberdade de movimentos nas suas actividades e possa efectuar o seu trabalho em segurança.\n\n16.4. Janelas e clarabóias\n\n16.4.1. As janelas, as clarabóias e as sistemas de ventilação dotados de mecanismos de abertura, regulação e bloqueio devem ser concebidos de forma a funcionar com toda a segurança.\n\nA sua localização não deve ser escolhida de forma a evitar que constituam um risco para os trabalhadores, quando esses sistemas estiverem abertos.\n\n16.4.2. As janelas e as clarabóias devem poder ser limpas sem risco.\n\n16.5. Portas e portões\n\n16.5.1. A posição, o número, os materiais utilizados no fabrico e as dimensões das portas e dos portões devem ser determinados pela natureza e utilização dos locais ou recintos.\n\n16.5.2. Nas portas transparentes deve ser colocada uma marca à altura dos olhos.\n\n16.5.3. As portas e os portões basculantes devem ser transparentes ou possuir painéis transparentes.\n\n16.5.4. Sempre que as superfícies transparentes ou translúcidas das portas e portões não forem constituídas por material de segurança e se temer que os trabalhadores possam ficar feridos em caso de estilhaçamento, essas superfícies devem ser protegidas contra o estilhaçamento.\n\n16.5.5. As portas de correr devem possuir um sistema de segurança que as impeça de sair das calhas e de cair inopinadamente.\n\n16.5.6. As portas e os portões que abram na vertical devem possuir um sistema de segurança que impeça a sua queda inopinada.\n\n16.5.7. As portas situadas nas vias de emergência devem ser assinaladas de forma adequada.\n\nDevem poder ser abertas do interior, em qualquer momento e sem ajuda especial.\n\nSempre que os locais de trabalho estiverem ocupados, as portas deverão estar em condições de poderem ser abertas.\n\n16.5.8. Na proximidade imediata dos portões essencialmente destinados à circulação de veículos, a menos que se trate de passagens seguras para peões, deverão existir portas para a circulação de peões assinaladas de modo bem visível e permanentemente desobstruídas.\n\n16.5.9. As portas e os portões mecânicos devem funcionar sem risco de acidente para os trabalhadores.\n\nDevem possuir dispositivos de paragem de emergência facilmente identificáveis e acessíveis e também devem poder ser abertos manualmente, salvo se abrirem automaticamente em caso de falta de energia.\n\n16.6. Ventilação dos locais de trabalho fechados\n\n16.6.1. Nos locais de trabalho fechados, é necessário garantir, tendo em conta os métodos de trabalho e os condicionalismos físicos impostos aos trabalhadores, que estes disponham de ar puro em quantidade suficiente.\n\nSe for utilizada uma instalação de ventilação, deve ser mantida em bom estado de funcionamento.\n\nDeve ser previsto um sistema de controlo que assinale todas as avarias, sempre que isso seja necessário para a saúde dos trabalhadores.\n\n16.6.2. Se forem utilizadas instalações de ar condicionado ou de ventilação mecânica, devem funcionar de forma a que os trabalhadores não fiquem expostos a correntes de ar incómodas.\n\nDevem ser rapidamente eliminados quaisquer detritos ou sujidades susceptíveis de provocar, por poluição do ar respirável, um risco imediato para a saúde dos trabalhadores.\n\n16.7. Temperatura dos locais de trabalho\n\n16.7.1. Durante o tempo de trabalho, a temperatura nos locais de trabalho deve ser adequada ao organismo humano, tendo em conta os métodos de trabalho utilizados e os condicionalismos físicos impostos aos trabalhadores.\n\n16.7.2. A temperatura dos locais de descanso, dos locais destinados ao pessoal em serviço de permanência, das instalações sanitárias, das cantinas e das instalações de primeiros socorros deve corresponder à utilização específica desses locais.\n\n16.7.3. As janelas, clarabóias e paredes envidraçadas devem permitir evitar uma excessiva exposição dos locais de trabalho ao sol, tendo em conta o tipo do trabalho e a natureza dos locais de trabalho.\n\n16.8. Salas de descanso\n\n16.8.1. Quando a segurança ou a saúde dos trabalhadores o exijam, nomeadamente em função do tipo de actividade que exerçam e do número de efectivos existentes, os trabalhadores devem dispor de um local de descanso facilmente acessível.\n\nEsta disposição não é aplicável sempre que o pessoal trabalhe em escritórios ou em locais de trabalho semelhantes que ofereçam possibilidades de descontracção equivalentes nos períodos de descanso.\n\n16.8.2. As salas de descanso devem possuir dimensões suficientes e estar equipadas com mesas e assentos de espaldar compatíveis com o número de trabalhadores existentes.\n\n16.8.3. Nas salas de descanso devem ser tomadas medidas adequadas de protecção dos não fumadores contra os incómodos causados pelo fumo do tabaco.\n\n16.8.4. Quando o tempo de trabalho for regular e frequentemente interrompido e não existam salas de descanso, devem ser colocadas à disposição do pessoal outras instalações que possam ser utilizadas durante a interrupção de trabalho e sempre que a segurança ou a saúde dos trabalhadores o exijam.\n\nDevem-se prever medidas adequadas de protecção dos não-fumadores contra os incómodos causados pelo fumo do tabaco.\n\n17. Mulheres grávidas e lactantes\n\nAs mulheres grávidas e lactantes devem ter a possibilidade de se estender para descansar, em condições apropriadas.\n\n18. Trabalhadores deficientes\n\nOs locais de trabalho devem ser concebidos tendo em conta, se for caso disso, os trabalhadores deficientes.\n\nEsta disposição aplica-se, nomeadamente, a portas, vias de comunicação, escadas, balneários, lavatórios, retretes e postos de trabalho directamente utilizados ou ocupados por trabalhadores deficientes."
+  },
+  "bd1943227671fe6c": {
+   "fragment_id": "PARTE B — PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO",
+   "type": "divisao",
+   "heading": "PARTE B — PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE B — PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO\n\n1. Generalidades\n\n1.1. Sem prejuízo do disposto no n° 2 do artigo 3°, a entidade patronal que, em conformidade com as legislações e/ou as práticas nacionais, for responsável pelos locais de trabalho abrangidos pela presente parte B deve-se certificar de que o documento de segurança e de saúde comprove que foram tomadas todas as medidas adequadas para proteger a segurança e saúde dos trabalhadores, quer em circunstâncias normais quer em circunstâncias críticas.\n\n1.2. O documento de segurança e de saúde deve ser periodicamente actualizado e encontrar-se disponível no local de trabalho.\n\nOs trabalhos devem ser executados em conformidade com este documento.\n\n2. Exploração\n\n2.1. Os trabalhos devem ser planificados tendo em conta os elementos do documento de segurança relativos aos riscos de desabamento ou deslizamento dos terrenos.\n\nA altura e a inclinação das frentes, tanto de decapagem como de desmonte, devem pois ser definidas, a título preventivo, em função da natureza e da estabilidade dos terrenos, assim como dos métodos de exploração.\n\n2.2. Os degraus e as vias de comunicação devem ter uma estabilidade e dimensões adaptadas aos equipamentos que nelas operam.\n\nDevem ser construídos e manutencionados de modo a que a circulação dos equipamentos se faça com segurança.\n\n2.3. As frentes de decapagem e de desmonte sobreminentes a postos de trabalho e vias de circulação devem ser inspeccionadas, antes de se iniciar o trabalho, para garantir a ausência de massas ou rochas não consolidadas.\n\nSe for caso disso, deve-se proceder ao saneamento das frentes.\n\n2.4. As frentes e os depósitos de produtos de escavação devem ser explorados de modo a não criar instabilidade."
+  },
+  "dd563e9efd08c148": {
+   "fragment_id": "PARTE C — PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS",
+   "type": "divisao",
+   "heading": "PARTE C — PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE C — PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS\n\nSUBTERRÂNEAS\n\n1. Generalidades\n\n1.1. Sem prejuízo do disposto no n° 2 do artigo 3°, a entidade patronal que, em conformidade com as legislações e/ou as práticas nacionais, for responsável pelos locais de trabalho abrangidos pela presente parte C deve-se certificar de que o documento de segurança e de saúde comprove que foram tomadas todas as medidas adequadas para proteger a segurança e saúde dos trabalhadores, quer em circunstâncias normais quer em circunstâncias críticas.\n\n1.2. O documento de segurança e de saúde deve ser periodicamente actualizado e estar disponível nos locais de trabalho.\n\nOs trabalhos devem ser executados de acordo com o documento de segurança e de saúde.\n\n2. Planta dos trabalhos subterrâneos\n\n2.1. Devem ser estabelecidas plantas dos trabalhos substerrâneos à escala apropriada a uma representação clara.\n\nAlém das galerias e dos trabalhos de exploração, devem representar os elementos conhecidos que possam ter influência sobre a exploração e sua segurança.\n\nAs plantas devem poder ser facilmente consultadas e devem ser conservadas durante o tempo que a segurança exigir.\n\n2.2. As plantas dos trabalhos subterrâneos devem ser periodicamente actualizadas e estar disponíveis nos locais de trabalho.\n\n3. Saídas\n\nEm toda e qualquer exploração subterrânea devem existir pelo menos duas saídas distintas para a superfície, de construção sólida e estável, e facilmente acessíveis ao pessoal do fundo.\n\nAs saídas em que a circulação requer um esforço importante dos trabalhadores devem ser equipadas com meios mecânicos de transporte de pessoal.\n\n4. Áreas de trabalho\n\nAs áreas de trabalho onde decorrem os trabalhos subterrâneos devem ser traçadas, utilizadas, equipadas e manutencionadas de modo a que o pessoal possa nelas circular e/ou trabalhar com o menor risco possível.\n\nAs galerias devem ter instalada uma sinalização que facilite a orientação do pessoal.\n\n5. Transportes\n\n5.1. As instalações de transporte devem ser montadas, utilizadas e manutencionadas de modo a garantir a segurança e a saúde dos seus operadores e utilizadores e do pessoal que se encontre na sua proximidade.\n\n5.2. As instalações mecânicas para transporte de pessoal devem ser devidamente concebidas e utilizadas de acordo com instruções escritas específicas.\n\n6. Entivação e estabilidade de terrenos\n\nOs trabalhos subterrâneos devem ser escorados, a título provisório ou definitivo, logo após a sua abertura, a não ser que a sua estabilidade garanta a segurança dos trabalhadores. A entivação deve ser feita de acordo com esquemas e instruções escritas.\n\nOs trabalhos acessíveis aos trabalhadores devem ser regularmente inspeccionados sob o ponto de vista da estabilidade dos terrenos e a entivação deve ser objecto de manutenção em conformidade.\n\n7. Ventilação\n\n7.1. Os trabalhos subterrâneos com acesso autorizado devem ser ventilados de modo apropriado.\n\nDeve-se prever ventilação permanente para manter, com margem de segurança suficiente:\n\n- uma atmosfera sã,\n\n- uma atmosfera na qual os riscos de explosão e de poeiras respiráveis estejam controlados,\n\n- uma atmosfera na qual haja condições de trabalho adequadas durante o período de laboração, tendo em conta os métodos de trabalho utilizados e os condicionalismos físicos impostos aos trabalhadores.\n\n7.2. Sempre que a ventilação natural não seja suficiente para garantir as condições do ponto 7.1, a ventilação principal deve ser garantida por meio de um ou mais ventiladores mecânicos.\n\nDevem ser tomadas as medidas necessárias para garantir a estabilidade e a continuidade da ventilação.\n\nA depressão dos ventiladores principais deve ser controlada de modo contínuo e deve ser instalado um sistema de alarme automático para assinalar as paragens intempestivas.\n\n7.3. Os parâmetros da ventilação devem ser medidos periodicamente e registados.\n\nDeve ser elaborado e actualizado periodicamente um plano de ventilação em que sejam indicadas as características úteis do sistema. Este plano deve estar disponível no local de trabalho.\n\n8. Minas ou pedreiras grisutosas\n\n8.1. Por mina grisutosa entende-se toda a mina ou pedreira subterrânea onde é susceptível de se formar grisu em quantidade tal que não se possa excluir o risco de formação de uma atmosfera explosiva.\n\n8.2. Nas minas grisutosas a ventilação principal deve ser garantida por um ou mais ventiladores mecânicos.\n\n8.3. A exploração deve ser conduzida tendo em conta a possibilidade de libertação de grisu.\n\nDevem ser tomadas as medidas necessárias para impedir, na medida do possível, os riscos devidos ao grisu.\n\n8.4. A ventilação secundária deve ser limitada aos trabalhos preparatórios de exploração e aos trabalhos de abatimento, assim como aos compartimentos ligados directamente a uma galeria percorrida pela ventilação principal.\n\nOs desmontes só podem ser ventilados com ventilação secundária se forem tomadas medidas complementares capazes de garantir a segurança e a saúde dos trabalhadores.\n\n8.5. As medidas de ventilação previstas no ponto 7.3 devem ser completadas com o controlo dos teores em grisu.\n\nQuando o documento de segurança e saúde o exigir, o teor de grisu deve ser vigiado continuamente nos circuitos de retorno de ar das instalações de desmonte mecanizado e abatimento, assim como nas frentes de escavação mecanizada sem saída.\n\n8.6. Só podem ser utilizados explosivos e acessórios de tiro previstos para minas grisutosas.\n\n8.7. As disposições do ponto 4.1.2 da parte A são substituídas pelas seguintes:\n\n- não é permitido fumar ou levar para dentro da mina tabaco para fumar ou qualquer objecto próprio para fazer lume,\n\n- só excepcionalmente e mediante medidas específicas que garantam a segurança e a saúde dos trabalhadores se poderá proceder a operações com maçaricos ou de soldadura ou outras actividades comparáveis.\n\n9. Minas ou pedreiras com poeiras inflamáveis\n\n9.1. As minas de carvão são consideradas minas com poeiras inflamáveis, a menos que o documento de segurança e saúde indique que nenhum dos veios explorados produz poeira susceptível de propagar uma explosão.\n\n9.2. Nas minas com poeiras inflamáveis aplicam-se, mutatis mutandis, as disposições dos pontos 8.6 e 8.7 da parte C.\n\n9.3. Devem ser tomadas as medidas necessárias para reduzir os depósitos de poeiras inflamáveis e/ou proceder à sua remoção, neutralização ou fixação.\n\n9.4. A propagação de uma explosão de poeiras inflamáveis e/ou de grisu, susceptível de desencadear outras explosões de poeiras inflamáveis, deve ser limitada por meio de um sistema de barragens.\n\nA localização deste sistema constará de um documento actualizado periodicamente e disponível no local de trabalho.\n\n10. Libertações instantâneas de gás, resvalamentos de terreno e irrupções súbitas de água\n\n10.1. Nas zonas com risco de libertação instantânea de gás (com ou sem projecção de minerais ou rochas), de resvalamentos de terreno ou de irrupções súbitas de água deve ser devidamente concebido e conduzido um programa de exploração, a fim de assegurar, na medida do possível, um método de trabalho seguro e a protecção dos trabalhadores.\n\n10.2. Devem ser tomadas as medidas necessárias para que seja possível identificar as zonas de risco, proteger o pessoal ocupado nos trabalhos nestas zonas ou que para lá se dirijam e controlar os riscos.\n\n11. Incêndios, fogos e aquecimento\n\n11.1. Devem ser tomadas medidas no sentido de evitar e, se necessário, detectar precocemente as subidas anómalas de temperatura.\n\n11.2. A introdução de materiais combustíveis nos trabalhos subterrâneos deve ser limitada à quantidade estritamente necessária.\n\n11.3. Quando for necessário utilizar fluidos hidráulicos (fluidos para a transmissão de energia mecânica hidrostática e/ou hidrocinética) devem ser utilizados, na medida do possível, fluidos dificilmente inflamáveis, para se evitar o risco de incêndio ou a sua propagação.\n\nOs fluidos hidráulicos devem estar em conformidade com as especificações e condições de ensaio relativas à resistência ao fogo e com critérios de higiene.\n\nQuando são utilizados fluidos hidráulicos que não estão em conformidade com as especificações, condições e critérios referidos no segundo parágrafo, devem ser tomadas precauções suplementares para evitar o maior risco de incêndio e a sua propagação.\n\n12. >Medidas de precaução ligadas à retirada do pessoal\n\nA fim de poder recuar em segurança, o pessoal deve, em função do risco, dispor de um aparelho individual de protecção respiratória.\n\nOs trabalhadores devem receber instruções de utilização do aparelho.\n\nEste aparelho deve ficar depositado na instalação em causa, controlando-se regularmente o seu bom estado.\n\n13. Iluminação\n\nAs disposições do ponto 13 da parte A são substituídas pelas seguintes:\n\n- os trabalhadores devem dispor de uma lanterna individual, adaptada à respectiva utilização.\n\n- os postos de trabalho devem ser equipados, na medida do possível, de dispositivos que permitam a iluminação artificial adequada para protecção da segurança e da saúde dos trabalhadores,\n\n- as instalações de iluminação devem estar localizadas de modo a que o tipo de iluminação previsto não apresente riscos de acidente para os trabalhadores.\n\n14. Controlo de presenças no fundo\n\nA organização do trabalho deve permitir conhecer a qualquer momento o pessoal presente no fundo.\n\n15. Organização do salvamento\n\nA fim de poder desencadear rápida e eficazmente uma acção apropriada em caso de sinistro importante, deve ser prevista uma organização de salvamento.\n\nEsta deve dispor, para poder intervir em qualquer local de extracção ou de trabalhos subterrâneos, de um número suficiente de salvadores treinados e do material de intervenção adequado.\n\n(1) JO n° L 183 de 29. 6. 1989, p. 9. Alterada pela Directiva 91/368/CEE (JO n° L 198 de 22. 7. 1991, p. 16).\n\n(2)JO n° L 393 de 30. 12. 1989, p. 13.\n\n(1) JO n° L 393 de 30. 12. 1989, p. 18.\n\n(1) JO n° L 245 de 26. 8. 1992, p. 23."
+  },
+  "ab79ca2d9937ecd6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Dezembro de 1992\n\nrelativa às prescrições mínimas destinadas a melhorar a protecção em matéria de segurança e saúde dos trabalhadores das indústrias extractivas a céu aberto ou subterrâneas (décima segunda directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 118.º A,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#E0001)), elaborado após consulta ao Órgão Permanente para a Segurança e a Salubridade nas Minas de Hulha e Outras Indústrias Extractivas,\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#E0003)),\n\nConsiderando que o artigo 118.º A do Tratado prevê que o Conselho adopte, por meio de directiva, prescrições mínimas destinadas a promover a melhoria, nomeadamente, das condições de trabalho, a fim de garantir um maior nível de protecção da segurança e da saúde dos trabalhadores;\n\nConsiderando que, nos termos do referido artigo, essas directivas devem evitar impor disciplinas administrativas, financeiras e jurídicas contrárias à criação e ao desenvolvimento de pequenas e médias empresas;\n\nConsiderando que a melhoria das condições de segurança, de higiene e de saúde dos trabalhadores no trabalho é um objectivo que não deve depender de considerações de carácter puramente económico;\n\nConsiderando que a Directiva 89/654/CEE do Conselho, de 30 de Novembro de 1989, relativa às prescrições mínimas de segurança e de saúde para os locais de trabalho (primeira directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^4^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#E0004)), não se aplica às indústrias extractivas;\n\nConsiderando que a observância das prescrições mínimas adequadas para assegurar um melhor nível de segurança e de saúde nas indústrias extractivas a céu aberto ou subterrâneas constitui um imperativo para a segurança e a saúde dos trabalhadores;\n\nConsiderando que as indústrias extractivas a céu aberto ou subterrâneas constituem um sector de actividade susceptível de expor os trabalhadores a riscos especialmente elevados;\n\nConsiderando que a presente directiva é uma directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE do Conselho, de 12 de Junho de 1989, relativa à aplicação de medidas destinados a promover a melhoria da segurança e da saúde dos trabalhadores no trabalho ([^5^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#E0005)); que, por esse facto, as disposições da referida directiva se aplicam plenamente no domínio das indústrias extractivas a céu aberto ou subterrâneas, sem prejuízo de disposições mais restritivas e/ou específicas da presente directiva;\n\nConsiderando que as dependências de superfície das indústrias extractivas a céu aberto ou subterrâneas que não são necessárias às indústrias extractivas a céu aberto ou subterrâneas, definidas na alínea a) do artigo 2.º da presente directiva, estão sujeitas às disposições da Directiva 89/654/CEE;\n\nConsiderando que, em 3 de Novembro de 1992, o Conselho adoptou a Directiva 92/91/CEE, relativa às prescrições mínimas destinadas a melhorar a protecção em matéria de segurança e saúde dos trabalhadores das indústrias extractivas por perfuração (décima primeira directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE) ([^6^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#E0006));\n\nConsiderando que a presente directiva constitui um elemento concreto no âmbito da realização da dimensão social do mercado interno,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "8099aa6e3858d738": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. A presente directiva, que é a décima segunda directiva especial na acepção do n.º 1 do artigo 16.º da Directiva 89/391/CEE, define as prescrições mínimas de protecção em matéria de segurança e saúde dos trabalhadores das indústrias extractivas a céu aberto ou subterrâneas definidas na alínea a) do artigo 2.º\n\n2. As disposições da Directiva 89/391/CEE apli-cam-se plenamente no sector a que se refere o n.º 1, sem prejuízo de disposições mais restritivas e/ou específicas da presente directiva."
+  },
+  "4aa44f4a0fee6d93": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) *Indústria extractiva a céu aberto ou subterrânea:* todas as indústrias que pratiquem as actividades:\n\n— de extracção, no sentido restrito do termo, de minérios a céu aberto ou subterrânea e/ou\n\n— de prospecção, tendo em vista essa extracção, e/ou\n\n— de preparação das matérias extraídas para venda, com exclusão das actividades de transformação das matérias extraídas,\n\nb) *Locais de trabalho:* o conjunto dos locais destinados à implantação de postos de trabalho, incluindo as actividades e as instalações directa ou indirectamente relacionadas com as indústrias extractivas a céu aberto ou subterrâneas, incluindo os depósitos de estéreis e outras áreas de armazenamento e, se necessário, os alojamentos a que os, trabalhadores tenham acesso no contexto do seu trabalho."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "20ed23c93a7b0cd5": {
+   "fragment_id": "OBRIGAÇÕES DA ENTIDADE PATRONAL",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DA ENTIDADE PATRONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DA ENTIDADE PATRONAL"
+  },
+  "4290e7c527c2088a": {
+   "fragment_id": "Artigo 3.º — Obrigações gerais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Obrigações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigações gerais\n\n1. Para garantir a segurança e a saúde dos trabalhadores, a entidade patronal tomará as medidas necessárias para que:\n\na) Os locais de trabalho sejam concebidos, construídos, equipados, postos a funcionar, utilizados e mantidos de forma a que os trabalhadores possam desempenhar as funções que lhes são confiadas sem perigo para a sua segurança e/ou saúde e/ou para as dos outros trabalhadores;\n\nb) A exploração dos locais de trabalho ocupados por trabalhadores se faça sob a supervisão de um responsável;\n\nc) As tarefas que envolvam riscos especiais sejam confiadas exclusivamente a trabalhadores competentes e executadas de acordo com as instruções fornecidas;\n\nd) Todas as instruções de segurança sejam compreensíveis por todos os trabalhadores a que se destinam;\n\ne) Sejam criadas instalações adequadas de primeiros socorros;\n\nf) Se proceda a todos os exercícios de segurança com intervalos regulares.\n\n2. A entidade patronal garantirá a elaboração e utilização de um documento em matéria de segurança e de saúde, adiante designado «documento de segurança e saúde» que preencha os requisitos pertinentes dos artigos 6.º, 9.º e 10.º da Directiva 89/391/CEE.\n\nO documento de segurança e saúde demonstrará, nomeadamente, que:\n\n— os riscos a que estão expostos os trabalhadores no local de trabalhos foram determinados e avaliados;\n\n— serão tomadas as medidas adequadas para cumprir os objectivos estipulados na presente directiva;\n\n— a concepção, utilização e manutenção do local de trabalho e dos equipamentos são seguros.\n\nO documento de segurança e saúde deve ser preparado antes do início do trabalho e revisto sempre que o local de trabalho sofrer alterações, ampliações e transformações importantes.\n\n3. Quando estiverem presentes trabalhadores de diferentes empresas no mesmo local de trabalho, cada entidade patronal é responsável por todas as matérias que se encontram sob o seu controlo.\n\nA entidade patronal que, de acordo com as legislações e/ou a prática nacionais, seja responsável pelo local de trabalho coordenará a aplicação de todas as medidas relativas à segurança e à saúde dos trabalhadores e especificará, no documento de segurança e saúde, a finalidade, as medidas e as modalidades de execução dessa coordenação.\n\nA coordenação não afecta a responsabilidade individual de cada entidade patronal prevista na Directiva 89/391/CEE.\n\n4. O mais cedo possível, a entidade patronal apresentará às autoridades competentes um relatório sobre todos os acidentes de trabalho graves e/ou mortais, bem como sobre quaisquer outras situações de perigo grave."
+  },
+  "dbe9ce50990aff8d": {
+   "fragment_id": "Artigo 4.º — Protecção contra incêndios, explosões e atmosferas nocivas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Protecção contra incêndios, explosões e atmosferas nocivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Protecção contra incêndios, explosões e atmosferas nocivas\n\nA entidade patronal tomará as medidas e precauções adequadas ao tipo de exploração para:\n\n— evitar, detectar e combater a deflagração e propagação de incêndios e explosões\n\n— e\n\n— impedir a formação de atmosferas explosivas e/ou nocivas para a saúde."
+  },
+  "8c12f6e905177dea": {
+   "fragment_id": "Artigo 5.º — Meios de evacuação e salvação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Meios de evacuação e salvação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Meios de evacuação e salvação\n\nA entidade patronal deve prestar especial atenção à existência e à manutenção dos meios adequados de evacuação e salvação, para que, em caso de perigo, os trabalhadores tenham a possibilidade de evacuar convenientemente os locais de trabalho, rapidamente e em segurança."
+  },
+  "e3b1843f5d40a10a": {
+   "fragment_id": "Artigo 6.º — Sistemas de comunicação, aviso e alarme",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Sistemas de comunicação, aviso e alarme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sistemas de comunicação, aviso e alarme\n\nA entidade patronal tomará as medidas necessárias para fornecer os sistemas de alarme e outros meios de comunicação necessários para permitir, se necessário, o desencadeamento imediato de operações de socorro, evacuação e salvação."
+  },
+  "66675e82fa7aaf13": {
+   "fragment_id": "Artigo 7.º — Informação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Informação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Informação dos trabalhadores\n\n1. Sem prejuízo do artigo 10.º da Directiva 89/391/CEE, os trabalhadores e/ou os seus representantes serão informados de todas as medidas a tomar em relação à segurança e saúde nos locais de trabalho, particularmente as relativas à aplicação dos artigos 3.º a 6.º\n\n2. As informações devem ser compreensíveis pelos trabalhadores a que se destinam."
+  },
+  "4a5f1f10eea31a7a": {
+   "fragment_id": "Artigo 8.º — Controlo de saúde",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Controlo de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlo de saúde\n\n1. Para garantir um controlo adequado da saúde dos trabalhadores em função dos riscos relacionados com a sua segurança e saúde no trabalho, serão estabelecidas medidas nos termos das legislações e/ou práticas nacionais.\n\n2. As medidas a que se refere o n.º 1 devem permitir que todos os trabalhadores beneficiem ou sejam objecto de um controlo de saúde, antes de serem afectados a tarefas relacionadas com as actividades a que se refere o artigo 2.º e, seguidamente, com intervalos regulares.\n\n3. O controlo de saúde pode fazer parte de um sistema nacional de saúde."
+  },
+  "c27da1b92d39a244": {
+   "fragment_id": "Artigo 9.º — Consulta e participação dos trabalhadores",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Consulta e participação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Consulta e participação dos trabalhadores\n\nOs trabalhadores e/ou os seus representantes serão consultados e participarão, nos termos do artigo 11.º da Directiva 89/391/CEE, nas matérias abrangidas pela presente directiva."
+  },
+  "47defad23657f795": {
+   "fragment_id": "Artigo 10.º — Prescrições mínimas de segurança e de saúde",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Prescrições mínimas de segurança e de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prescrições mínimas de segurança e de saúde\n\n1. Os locais de trabalho utilizados pela primeira vez após a data do início da aplicação da presente directiva, a que se refere o nº 1 do artigo 13.º, devem respeitar as prescrições mínimas de segurança e de saúde constantes do anexo.\n\n2. Os locais de trabalho que já estiverem a ser utilizados antes da data do início da aplicação da presente directiva, a que se refere o n.º 1 do artigo 13.º, devem passar a respeitar, o mais rapidamente possível e o mais tardar até nove anos a contar dessa data, às prescrições mínimas de segurança e de saúde incluídas no anexo.\n\n3. Sempre que os locais de trabalho sofram modificações, ampliações e/ou transformações após a data do início da aplicação da presente directiva a que se refere o n.º 1 do artigo 13.º, a entidade patronal tomará as medidas necessárias para que essas modificações, amplicações e/ou transformações respeitem as prescrições mínimas correspondentes, incluídas no anexo."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "4f0027fbf9863594": {
+   "fragment_id": "DISPOSIÇÕES DIVERSAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES DIVERSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES DIVERSAS"
+  },
+  "3197086ee485cb25": {
+   "fragment_id": "Artigo 11.º — Adaptação do anexo",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Adaptação do anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Adaptação do anexo\n\nAs adaptações de natureza estritamente técnica do anexo, em função:\n\n— da adopção de directivas em matéria de harmonização técnica e de normalização, relativas às indústrias extractivas a céu aberto ou subterrâneas,\n\n— e/ou\n\n— do progresso técnico, da evolução das regulamentações ou especificações internacionais ou dos conhecimentos relativos às indústrias extractivas a céu aberto ou subterrâneas,\n\nserão adoptadas de acordo com o procedimento previsto no artigo 17.º da Directiva 89/391/CEE."
+  },
+  "c3345b064a49e409": {
+   "fragment_id": "Artigo 12.º — Indústrias extractivas por dragagem",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Indústrias extractivas por dragagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Indústrias extractivas por dragagem\n\nOs Estados-membros têm a possibilidade de não aplicar a presente directiva às indústrias extractivas por dragagem, desde que assegurem aos respectivos trabalhadores uma protecção conforme aos princípios gerais de protecção da segurança e da saúde dos trabalhadores, contidos na presente directiva, atendendo aos riscos específicos ligados às indústrias extractivas por dragagem."
+  },
+  "a7d141ee50d1d0fc": {
+   "fragment_id": "Artigo 13.º — Disposições finais",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições finais\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva, o mais tardar 24 meses após a sua adopção, e desse facto informarão imediatamente a Comissão.\n\n2. As disposições previstas no n.º 1 adoptadas pelos Estados-membros incluirão uma referência à presente directiva ou serão acompanhadas dessa referência na sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno já adoptadas ou que vierem a adoptar nas matérias reguladas pela presente directiva."
+  },
+  "93f7be9cb1d3e0bd": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "5b293da9231268c6": {
+   "fragment_id": "PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE A QUE SE REFERE O ARTIGO 10.º DA DIRECTIVA",
+   "type": "divisao",
+   "heading": "PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE A QUE SE REFERE O ARTIGO 10.º DA DIRECTIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRESCRIÇÕES MÍNIMAS DE SEGURANÇA E DE SAÚDE A QUE SE REFERE O ARTIGO 10.º DA DIRECTIVA"
+  },
+  "d1e1e2d8b00656f1": {
+   "fragment_id": "Observação preliminar",
+   "type": "divisao",
+   "heading": "Observação preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Observação preliminar\n\nAs obrigações previstas no presente anexo aplicam-se sempre que as características do local de trabalho ou da actividade, as circunstâncias ou um risco especial o exijam."
+  },
+  "c7d0279d82ad71c6": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE A"
+  },
+  "c91e103b886fbe36": {
+   "fragment_id": "PRESCRIÇÕES MÍNIMAS COMUNS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO OU SUBTERRÂNEAS E ÀS RESPECTIVAS DEPENDÊNCIAS DE SUPERFÍCIE",
+   "type": "divisao",
+   "heading": "PRESCRIÇÕES MÍNIMAS COMUNS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO OU SUBTERRÂNEAS E ÀS RESPECTIVAS DEPENDÊNCIAS DE SUPERFÍCIE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PRESCRIÇÕES MÍNIMAS COMUNS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO OU SUBTERRÂNEAS E ÀS RESPECTIVAS DEPENDÊNCIAS DE SUPERFÍCIE"
+  },
+  "bc32e6d41310e7f2": {
+   "fragment_id": "1. Vigilância e organização",
+   "type": "divisao",
+   "heading": "1. Vigilância e organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Vigilância e organização"
+  },
+  "bbfb14b1fe8e24ad": {
+   "fragment_id": "1.1. Organização dos locais de trabalho",
+   "type": "divisao",
+   "heading": "1.1. Organização dos locais de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.1. Organização dos locais de trabalho\n\n1.1.1. Os locais de trabalho devem ser concebidos de forma a garantir uma protecção adequada contra os riscos. Devem também ser mantidos em bom estado e as substâncias ou os depósitos perigosos devem ser removidos ou vigiados, de modo a não porem em perigo a saúde e a segurança dos trabalhadores.\n\n1.1.2. Os postos de trabalho devem ser concebidos e instalados segundo princípios ergonómicos, tendo em conta a necessidade de os trabalhadores poderem acompanhar as operações que se desenrolam nos seus postos de trabalho.\n\n1.1.3. Sempre que os postos de trabalho forem ocupados por trabalhadores isolados, estes devem beneficiar, de uma vigilância adequada ou poder permanecer em contacto por meios de telecomunicação."
+  },
+  "e85df4c1b9050585": {
+   "fragment_id": "1.2. Pessoa responsável",
+   "type": "divisao",
+   "heading": "1.2. Pessoa responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.2. Pessoa responsável\n\nTodos os locais de trabalho ocupados por trabalhadores devem estar permanentemente colocados sob a responsabilidade de uma pessoa responsável que possua as qualidades e a competência exigidas para essa função pela legislação e/ou a prática nacionais, designada pela entidade patronal.\n\nPode ser a própria entidade patronal a assumir a responsabilidade pelo local de trabalho referida no primeiro parágrafo, se possuir as qualidades e a competência exigidas para o efeito pelas legislações e/ou práticas nacionais."
+  },
+  "dc77b1d8bbc3cdc2": {
+   "fragment_id": "1.3. Vigilância",
+   "type": "divisao",
+   "heading": "1.3. Vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.3. Vigilância\n\nPara se garantir a segurança e a saúde dos trabalhadores durante todas as operações realizadas, a vigilância deve ser garantida por pessoas que possuam as qualidades e a competência exigidas para essas funções, de acordo com as legislações e/ou as práticas nacionais, e que tenham sido designadas pela entidade patronal ou em seu nome e actuem em seu nome.\n\nQuando o documento de segurança e saúde o exigir, os locais de trabalho ocupados devem ser visitados pelo menos uma vez durante cada período de trabalho.\n\nPode ser a própria entidade patronal a garantir a vigilância referida no primeiro parágrafo, se possuir as qualidades e a competência exigidas para o efeito pelas legislações e/ou pelas práticas nacionais."
+  },
+  "18f84875af81e568": {
+   "fragment_id": "1.4. Trabalhadores competentes",
+   "type": "divisao",
+   "heading": "1.4. Trabalhadores competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.4. Trabalhadores competentes\n\nEm todos os locais de trabalho ocupados por trabalhadores deve existir um número suficiente de trabalhadores que possua as qualidades, a experiência e a formação necessárias ao exercício das funções que lhes foram confiadas."
+  },
+  "ae48f129cc0295d3": {
+   "fragment_id": "1.5. Informação, instruções e formação",
+   "type": "divisao",
+   "heading": "1.5. Informação, instruções e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.5. Informação, instruções e formação\n\nOs trabalhadores devem dispor da informação, das instruções e das acções de formação e reciclagem necessárias para preservar a sua segurança e a sua saúde.\n\nA entidade patronal deve assegurar que os trabalhadores recebem instruções compreensíveis, a fim de não comprometerem a sua segurança e saúde, bem como a dos outros trabalhadores."
+  },
+  "ca22b379160e2643": {
+   "fragment_id": "1.6. Instruções escritas",
+   "type": "divisao",
+   "heading": "1.6. Instruções escritas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.6. Instruções escritas\n\nDevem ser elaboradas para cada local de trabalho instruções escritas que definam as regras a cumprir para assegurar a segurança e a saúde dos trabalhadores e garantam uma utilização segura do material.\n\nEssas instruções devem igualmente incluir indicações sobre a utilização dos equipamentos de socorro e as medidas a tomar em caso de emergência no local de trabalho ou nas suas imediações."
+  },
+  "5c88c6f3146eaf74": {
+   "fragment_id": "1.7. Formas de actuar seguras",
+   "type": "divisao",
+   "heading": "1.7. Formas de actuar seguras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.7. Formas de actuar seguras\n\nEm todos os locais de trabalho e para cada actividade, devem ser utilizadas formas de actuar seguras."
+  },
+  "b0cbb58baa43b324": {
+   "fragment_id": "1.8. Licença de trabalho",
+   "type": "divisao",
+   "heading": "1.8. Licença de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.8. Licença de trabalho\n\nSempre que o documento de segurança e de saúde o exigir, deve ser criado um sistema de licenças de trabalho para a execução dos trabalhos perigosos e dos trabalhos que normalmente não apresentem perigo mas que possam ocasionar riscos graves ao interferirem com outras operações.\n\nA licença de trabalho deve ser emitida por uma pessoa responsável antes do início dos trabalhos e deve especificar as condições a preencher e as precauções a tomar antes, durante e após os trabalhos."
+  },
+  "3faad472710371d2": {
+   "fragment_id": "1.9. Análise periódica das medidas de segurança e de saúde",
+   "type": "divisao",
+   "heading": "1.9. Análise periódica das medidas de segurança e de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1.9. Análise periódica das medidas de segurança e de saúde\n\nA entidade patronal deve garantir a análise periódica das medidas tomadas em matéria de segurança e de saúde dos trabalhadores, incluindo o sistema de gestão da segurança e da saúde, a fim de garantir a observância das exigências da directiva."
+  },
+  "55b60cc80a5d1d97": {
+   "fragment_id": "2. Equipamentos e instalações mecânicas e eléctricas",
+   "type": "divisao",
+   "heading": "2. Equipamentos e instalações mecânicas e eléctricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Equipamentos e instalações mecânicas e eléctricas"
+  },
+  "47dd7e6155de76cb": {
+   "fragment_id": "2.1. Generalidades",
+   "type": "divisao",
+   "heading": "2.1. Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Generalidades\n\nA escolha, instalação, entrada em serviço, funcionamento e manutenção dos equipamentos mecânicos e eléctricos devem ser efectuados tendo em devida conta a segurança e a saúde dos trabalhadores e tomando em consideração outras disposições da presente directiva e das directivas 89/392/CEE ([^7^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#E0007)) e 89/655/CEE ([^8^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#E0008)).\n\nSe esses equipamentos estiverem implantados numa área onde existam ou possam existir riscos de incêndio ou explosão devido à inflamação de gases, de vapores ou de líquidos voláteis, devem ser adaptados à sua utilização nessa área.\n\nEm caso de avaria, os equipamentos devem ser munidos, se necessário, de dispositivos de protecção adequados e de sistemas de segurança."
+  },
+  "c88cc5b1d121ef20": {
+   "fragment_id": "2.2. Disposições especiais",
+   "type": "divisao",
+   "heading": "2.2. Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Disposições especiais\n\nOs equipamentos e as instalações mecânicas devem apresentar resistência suficiente, ser isentos de defeitos visíveis e adequados ao tipo de utilização a que se destinam.\n\nOs equipamentos e as instalações eléctricas devem possuir capacidade e potência suficientes para o uso a que se destinam.\n\nOs equipamentos e as instalações mecânicas e eléctricas devem ser instalados e protegidos de forma a evitar qualquer perigo."
+  },
+  "1ad8114d7eb4a756": {
+   "fragment_id": "3. Manutenção",
+   "type": "divisao",
+   "heading": "3. Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Manutenção"
+  },
+  "4d1d359fc255fb6b": {
+   "fragment_id": "3.1. Manutenção geral",
+   "type": "divisao",
+   "heading": "3.1. Manutenção geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Manutenção geral\n\nÉ necessário estabelecer um programa adequado que preveja a inspecção sistemática, a manutenção e, se necessário, o ensaio dos equipamentos e das instalações mecânicas e eléctricas.\n\nA manutenção, a inspecção e o ensaio de qualquer componente das instalações ou dos equipamentos devem ser realizados por agentes competentes.\n\nDevem ser estabelecidas e devidamente arquivadas fichas de inspecção e ensaio."
+  },
+  "71813b1c16415844": {
+   "fragment_id": "3.2. Manutenção do material de segurança",
+   "type": "divisao",
+   "heading": "3.2. Manutenção do material de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Manutenção do material de segurança\n\nDeve existir um material de segurança adequado, pronto a ser utilizado a qualquer momento e sempre em bom estado de funcionamento.\n\nA sua manutenção deve ser efectuada tendo devidamente em conta as actividades exercidas."
+  },
+  "d29806f435f4e575": {
+   "fragment_id": "4. Protecção, contra riscos de explosão, atmosferas nocivas e riscos de incêndio",
+   "type": "divisao",
+   "heading": "4. Protecção, contra riscos de explosão, atmosferas nocivas e riscos de incêndio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Protecção, contra riscos de explosão, atmosferas nocivas e riscos de incêndio"
+  },
+  "f9ef9d3cfc381053": {
+   "fragment_id": "4.1. Generalidades",
+   "type": "divisao",
+   "heading": "4.1. Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.1. Generalidades\n\n4.1.1. Devem ser tomadas medidas para avaliar a presença de substâncias nocivas e/ou potencialmente explosivas na atmosfera e para medir a concentração dessas substâncias.\n\n4.1.2. É proibido fumar nas zonas que apresentem riscos específicos de incêndio ou de explosão."
+  },
+  "561539f6637d8109": {
+   "fragment_id": "4.2. Protecção contra riscos de explosão",
+   "type": "divisao",
+   "heading": "4.2. Protecção contra riscos de explosão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.2. Protecção contra riscos de explosão\n\n4.2.1. Devem ser tomadas todas as medidas necessárias para combater a formação e a acumulação de atmosferas explosivas.\n\n4.2.2. No interior das zonas que apresentem riscos de explosão, devem ser tomadas todas as medidas necessárias para impedir a inflamação de atmosferas explosivas.\n\n4.2.3. Deve ser estabelecido um plano de prevenção contra explosões que especifique os equipamentos e as medidas necessárias."
+  },
+  "3f33bc3f610455c9": {
+   "fragment_id": "4.3. Protecção contra atmosferas nocivas",
+   "type": "divisao",
+   "heading": "4.3. Protecção contra atmosferas nocivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.3. Protecção contra atmosferas nocivas\n\n4.3.1. Quando se acumulem ou se possam acumular substâncias nocivas na atmosfera, devem ser tomadas medidas adequadas para:\n\na) Assegurar a sua eliminação na fonte; ou\n\nb) Extraí-las na fonte ou eliminá-las; ou\n\nc) Diluir as acumulações dessas substâncias,\n\n4.3.2. Sem prejuízo da Directiva 89/656/CEE ([^9^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#E0009)), nas zonas onde os trabalhadores possam, eventualmente, estar expostos a atmosferas nocivas para a saúde, devem estar disponíveis em número suficiente equipamentos respiratórios e de reanimação adequados.\n\n4.3.3. Se se verificar ou for susceptível de se verificar a presença de gases tóxicos na atmosfera, deve estar sempre disponível um plano de protecção que indique os equipamentos disponíveis e as medidas preventivas adoptadas."
+  },
+  "68cc4b207443beb0": {
+   "fragment_id": "4.4. Protecção contra riscos de incêndio",
+   "type": "divisao",
+   "heading": "4.4. Protecção contra riscos de incêndio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4.4. Protecção contra riscos de incêndio\n\n4.4.1. A concepção, construção, equipamento, entrada em serviço, utilização ou manutenção dos locais de trabalho devem ser sempre acompanhados de medidas adequadas para evitar a deflagração ou a propagação de incêndios a partir das fontes identificadas no documento de segurança e saúde.\n\n4.4.2. Os locais de trabalho devem ser equipados com dispositivos apropriados de combate aos incêndios e, se necessário, com detectores de incêndio e sistemas de alarme.\n\n4.4.3. O equipamento não automático de combate aos incêndios deve ser de fácil acesso e manipulação e, se necessário, protegido contra os riscos de deterioração.\n\n4.4.4. No local de trabalho deve ser mantido um plano de segurança para casos de incêndio, especificando as medidas a tomar nos termos dos artigos 3.º, 4.º, 5.º e 6.º da presente directiva para evitar, detectar e combater a deflagração e propagação de incêndios.\n\n4.4.5. O equipamento de combate aos incêndios deve estar sinalizado em conformidade com as normas nacionais que transpõem a Directiva 92/58/CEE ([^10^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#E0010))."
+  },
+  "4715243a72ab4845": {
+   "fragment_id": "5. Explosivos e acessórios de tiro",
+   "type": "divisao",
+   "heading": "5. Explosivos e acessórios de tiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Explosivos e acessórios de tiro\n\nA conservação, o transporte e a utilização de explosivos e acessórios de tiro devem ser efectuados por pessoal competente devidamente autorizado.\n\nEstas operações devem ser organizadas e executadas de modo a prevenir quaisquer riscos para os trabalhadores."
+  },
+  "62519ce9dbbe207d": {
+   "fragment_id": "6. Vias de circulação",
+   "type": "divisao",
+   "heading": "6. Vias de circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Vias de circulação\n\n6.1. O acesso aos locais de trabalho não deve apresentar riscos e deve ser possível evacuá-los rapidamente e com toda a segurança, em caso de emergência.\n\n6.2. As vias de circulação, incluindo as escadas, os escadotes fixos, os cais e as rampas de carga, devem ser calculadas, dimensionadas e localizadas de forma a que peões ou veículos possam utilizá-las facilmente, com toda a segurança, de acordo com os fins a que se destinam e de modo a que os trabalhadores ocupados na proximidade dessas vias de circulação não corram qualquer risco.\n\n6.3. O cálculo das dimensões das vias destinadas à circulação de pessoas e/ou de mercadorias deve depender do número potencial de utentes e do tipo de empresa. Sempre que forem utilizados meios de transporte nas vias de circulação, deve ser prevista uma distância de segurança suficiente para os peões.\n\n6.4. As vias de circulação destinadas a veículos devem passar a uma distância suficiente das portas, portões, passagens para peões, corredores e escadas.\n\n6.5. O traçado das vias de circulação e de acesso deve ser claramente assinalado, de modo a garantir a protecção dos trabalhadores.\n\n6.6. Se nos locais de trabalho penetrarem veículos ou máquinas, devem ser estabelecidas as necessárias regras de circulação."
+  },
+  "5c6069f97cf02546": {
+   "fragment_id": "7. Locais de trabalho exteriores",
+   "type": "divisao",
+   "heading": "7. Locais de trabalho exteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Locais de trabalho exteriores\n\n7.1. Os postos de trabalho, as vias de circulação e outros locais ou instalações ao ar livre, utilizados ou ocupados pelos trabalhadores no exercício das suas funções, devem ser concebidos de forma a que a circulação de peões e veículos se possa processar com segurança.\n\n7.2. Os locais de trabalho ao ar livre devem ser suficientemente iluminados com luz artificial sempre que não for suficiente a iluminação natural.\n\n7.3. Se forem ocupados postos de trabalho exteriores, estes últimos devem, na medida do possível, ser concebidos de forma a que os trabalhadores: a) Estejam protegidos contra as influências atmosféricas e, se necessário, contra a queda de objectos; b) Não se encontrem expostos a níveis sonoros nocivos nem a qualquer influência exterior nociva (por exemplo, gases, vapores ou poeiras); c) Possam abandonar rapidamente os postos de trabalho, em caso de perigo, ou ser rapidamente socorridos; d) Não possam escorregar ou cair."
+  },
+  "ce2afe3c15d26cf3": {
+   "fragment_id": "8. Zonas de perigo",
+   "type": "divisao",
+   "heading": "8. Zonas de perigo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. Zonas de perigo\n\n8.1. As zonas de perigo devem ser assinaladas de modo bem visível.\n\n8.2. Se, devido à natureza do trabalho, os locais de trabalho incluírem zonas de perigo onde possa haver riscos, nomeadamente, de queda do trabalhador ou de queda de objectos, na medida do possível, esses locais devem ser equipados com dispositivos que evitem a entrada a trabalhadores não autorizados nessas zonas.\n\n8.3. Devem ser tomadas as medidas apropriadas para proteger os trabalhadores autorizados a entrar nas zonas de perigo."
+  },
+  "876b6ea75286e593": {
+   "fragment_id": "9. Vias e saídas de emergência",
+   "type": "divisao",
+   "heading": "9. Vias e saídas de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. Vias e saídas de emergência\n\n9.1. Em caso de perigo, todos os postos de trabalho devem poder ser evacuados rapidamente e em condições de segurança máxima para os trabalhadores.\n\n9.2. As vias e saídas de emergência devem permanecer desobstruídas e desembocar o mais directamente possível no ar livre ou numa zona de segurança, num ponto de concentração ou num posto de evacuação seguro.\n\n9.3. O número, distribuição e dimensões das vias e saídas de emergência dependem da utilização, do equipamento e das dimensões dos locais de trabalho, bem como do número máximo de pessoas que possam estar presentes nesses locais.\n\n9.4. As portas de emergência devem-se abrir para o exterior. As portas de emergência não devem ser fechadas de modo a impedir a sua abertura fácil e imediata por qualquer pessoa que tenha necessidade de as utilizar em caso de emergência.\n\n9.5. As portas de emergência não devem ser fechadas à chave. As vias e saídas de emergência, assim como as vias de circulação e as portas que lhes dão acesso, não devem ser obstruídas com objectos, de forma a poderem ser utilizadas sem obstáculos em qualquer altura.\n\n9.6. As vias e saídas de emergência que necessitem de iluminação devem ser equipadas com uma iluminação de segurança de intensidade suficiente para os casos de avaria na iluminação.\n\n9.7. As vias e saídas específicas de emergência devem ser sinalizadas de acordo com as normas nacionais de transposição da Directiva 92/58/CEE."
+  },
+  "55b01c9c6a77bf99": {
+   "fragment_id": "10. Meios de evacuação e salvação",
+   "type": "divisao",
+   "heading": "10. Meios de evacuação e salvação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. Meios de evacuação e salvação\n\n10.1. Os trabalhadores devem receber formação sobre as medidas apropriadas a tomar em caso de emergência.\n\n10.2. Deve existir equipamento dè salvamento pronto a ser utilizado em locais adequados e de fácil acesso, sinalizado de acordo com as normas nacionais de transposição da Directiva 92/58/CEE."
+  },
+  "4252f0bcca38790f": {
+   "fragment_id": "11. Exercícios de segurança",
+   "type": "divisao",
+   "heading": "11. Exercícios de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. Exercícios de segurança\n\nEm todos os locais de trabalho habitualmente ocupados devem ser realizados exercícios de segurança com intervalos regulares.\n\nEsses exercícios destinam-se, nomeadamente, a formar e a verificar a aptidão dos trabalhadores que, em caso de emergência, estão encarregados de executar tarefas precisas que requeiram a utilização, a manipulação ou o funcionamento de equipamentos de emergência.\n\nSe necessário, os trabalhadores também devem poder exercitar-se na utilização, manipulação e funcionamento desse equipamento."
+  },
+  "da26bc138ff4745d": {
+   "fragment_id": "12. Equipamento de primeiros socorros",
+   "type": "divisao",
+   "heading": "12. Equipamento de primeiros socorros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. Equipamento de primeiros socorros\n\n12.1. Deve-se prever a existência de equipamento de primeiros socorros adaptado à actividade exercida, em todos os locais onde as condições de trabalho o exijam. Esse equipamento deve ser devidamente sinalizado e facilmente acessível.\n\n12.2. Sempre que a importância das instalações, o tipo de actividade praticado e a frequência dos acidentes o exijam, devem ser previstas uma ou várias salas destinadas a primeiros socorros. As instruções sobre os primeiros socorros a prestar em caso de acidente devem ser afixadas de forma bem visível nessas salas.\n\n12.3. As salas destinadas aos primeiros socorros devem possuir as instalações e o material de primeiros socorros indispensáveis e permitirem o fácil acesso de macas. Essas salas devem ser sinalizadas de acordo com as normas nacionais que transpõem a Directiva 92/58/CEE.\n\n12.4. Deve também haver material de primeiros socorros disponível em todos os locais onde as condições de trabalho o exijam. Esse material deve ser devidamente sinalizado e facilmente acessível.\n\n12.5. Deve ser dada formação a um número suficiente de trabalhadores sobre a utilização do material de primeiros socorros fornecido."
+  },
+  "ec41e6198e4cc5a1": {
+   "fragment_id": "13. Iluminação natural e artificial",
+   "type": "divisao",
+   "heading": "13. Iluminação natural e artificial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13. Iluminação natural e artificial\n\n13.1. Todos os locais de trabalho devem dispor de sistemas de iluminação que abranjam todas as áreas e forneçam iluminação suficiente, de forma a garantir a saúde e a segurança dos trabalhadores.\n\n13.2. Na medida do possível, os locais de trabalho devem dispor de luz natural suficiente e, consoante as condições climáticas, estar equipados com dispositivos que permitam uma iluminação artificial adequada à protecção da segurança e da saúde dos trabalhadores.\n\n13.3. As instalações de iluminação dos locais de trabalho e das vias de comunicação devem ser concebidas de forma a que o tipo de iluminação previsto não apresente riscos de acidente para os trabalhadores.\n\n13.4. Os locais de trabalho em que os trabalhadores estejam expostos a riscos em caso de avaria da iluminação artificial devem prever uma iluminação de segurança de intensidade suficiente. Caso não seja possível, os trabalhadores devem dispor de aparelhos individuais de iluminação."
+  },
+  "d618ebcf684b25d8": {
+   "fragment_id": "14. Equipamentos sanitários",
+   "type": "divisao",
+   "heading": "14. Equipamentos sanitários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14. Equipamentos sanitários"
+  },
+  "f88133beb9901496": {
+   "fragment_id": "14.1. Vestiário e armários para roupa",
+   "type": "divisao",
+   "heading": "14.1. Vestiário e armários para roupa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14.1. Vestiário e armários para roupa\n\n14.1.1. Os trabalhadores devem ter à sua disposição vestiários adequados sempre que tenham de utilizar vestuário de trabalho especial e não lhes possa ser solicitado, por motivos de saúde ou de decoro, que mudem de roupa numa outra divisão.\n\n14.1.2. Os vestiários devem ter dimensões suficientes e possuir equipamentos que permitam a cada trabalhador fechar a sua roupa à chave durante o tempo de trabalho.\n\n14.1.3. Devem ser previstos vestiários separados ou uma utilização separada dos vestiários para homens e mulheres.\n\n14.1.4. Quando não forem necessários vestiários na acepção do ponto 15.1.1, cada trabalhador deve poder dispor de um espaço destinado à arrumação do seu vestuário."
+  },
+  "1cda0b12f577f7de": {
+   "fragment_id": "14.2. Balneários e lavatórios",
+   "type": "divisao",
+   "heading": "14.2. Balneários e lavatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14.2. Balneários e lavatórios\n\n14.2.1. Os trabalhadores devem dispor de chuveiros adequados e suficientes sempre que o tipo de actividade ou a salubridade o exijam.\n\n14.2.2. Os chuveiros devem possuir dimensões suficientes de forma a permitir que cada trabalhador possa tratar da sua higiene pessoal sem qualquer entrave e em condições de higiene apropriadas.\n\n14.2.3. Quando não forem necessários chuveiros na acepção do ponto 14.2.1, devem ser instalados lavatórios suficientes e adequados com água quente e fria, na proximidade dos postos de trabalho e dos vestiários."
+  },
+  "26f0bd2629c2e2ed": {
+   "fragment_id": "14.3. Retretes e lavatórios",
+   "type": "divisao",
+   "heading": "14.3. Retretes e lavatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14.3. Retretes e lavatórios\n\nOs trabalhadores devem dispor, na proximidade dos seus postos de trabalho, das salas de descanso, dos vestiários e dos balneários ou lavatórios, de instalações especiais equipadas com um número suficiente de retretes e lavatórios.\n\nDevem ser previstas retretes separadas ou uma utilização separada das retretes para homens e mulheres.\n\nNas indústrias extractivas subterrâneas, os equipamentos sanitários a que se refere o presente ponto podem estar localizados à superfície."
+  },
+  "135bec4d1f7c29b4": {
+   "fragment_id": "15. Depósitos de estéreis e outras áreas de armazenamento",
+   "type": "divisao",
+   "heading": "15. Depósitos de estéreis e outras áreas de armazenamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 15. Depósitos de estéreis e outras áreas de armazenamento\n\nOs depósitos de estéreis, as montureiras, as escórias e outras áreas de armazenamento, assim como as bacias de decantação devem ser concebidos, construídos, dispostos e sujeitos a manutenção, de modo a garantir a sua estabilidade, assim como a segurança e a saúde dos trabalhadores."
+  },
+  "371b6ea67b61f931": {
+   "fragment_id": "16. Anexos de superfície (disposições específicas suplementares)",
+   "type": "divisao",
+   "heading": "16. Anexos de superfície (disposições específicas suplementares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16. Anexos de superfície (disposições específicas suplementares)"
+  },
+  "495a0bce3ce40b60": {
+   "fragment_id": "16.1. Estabilidade e solidez",
+   "type": "divisao",
+   "heading": "16.1. Estabilidade e solidez",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16.1. Estabilidade e solidez\n\nOs locais de trabalho devem ser concebidos, construídos, instalados, explorados, vigiados e sujeitos a manutenção, de modo a poderem resistir às solicitações externas a que possam ser sujeitos.\n\nDevem possuir estruturas e solidez apropriadas ao seu tipo de utilização."
+  },
+  "13b49923801b5aad": {
+   "fragment_id": "16.2. Pavimentos, paredes, tectos e telhados dos locais de trabalho",
+   "type": "divisao",
+   "heading": "16.2. Pavimentos, paredes, tectos e telhados dos locais de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16.2. Pavimentos, paredes, tectos e telhados dos locais de trabalho\n\n16.2.1. Os pavimentos das salas devem-se encontrar isentos de saliências, buracos ou planos inclinados perigosos; devem ser fixos, estáveis e não escorregadios.\n\n16.2.2. As superfícies dos pavimentos, das paredes e dos tectos das salas devem ser de molde a poderem ser limpas e reparadas de forma a garantir as condições de higiene adequadas.\n\n16.2.3. As divisórias transparentes ou translúcidas, nomeadamente as divisórias totalmente envidraçadas nas salas ou na vizinhança dos postos de trabalho e das vias de circulação, devem estar claramente sinalizadas e ser constituídas por materiais de segurança ou estar separadas desses postos de trabalho e das vias de circulação, de forma a que os trabalhadores não possam entrar em contacto com elas nem ficar feridos, caso se estilhacem.\n\n16.2.4. O acesso a telhados construídos com materiais que não ofereçam resistência suficiente só pode ser autorizado se forem fornecidos equipamentos destinados a permitir que o trabalho seja realizado com segurança."
+  },
+  "70aa3b6b616cd5ae": {
+   "fragment_id": "16.3. Dimensões e volume de ar nos locais de trabalho — espaço para liberdade de movimentos no posto de trabalho",
+   "type": "divisao",
+   "heading": "16.3. Dimensões e volume de ar nos locais de trabalho — espaço para liberdade de movimentos no posto de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16.3. Dimensões e volume de ar nos locais de trabalho — espaço para liberdade de movimentos no posto de trabalho\n\n16.3.1. Os locais de trabalho devem possuir uma superfície, altura e volume de ar que permitam aos trabalhadores executar o seu trabalho sem pôr em risco a sua segurança, a sua saúde e o seu bem-estar.\n\n16.3.2. As dimensões de superfície livre no posto de trabalho devem permitir que o trabalhador disponha de suficiente liberdade de movimentos nas suas actividades e possa efectuar o seu trabalho em segurança."
+  },
+  "1c6a5e574bf60ea1": {
+   "fragment_id": "16.4. Janelas e clarabóias",
+   "type": "divisao",
+   "heading": "16.4. Janelas e clarabóias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16.4. Janelas e clarabóias\n\n16.4.1. As janelas, as clarabóias e as sistemas de ventilação dotados de mecanismos de abertura, regulação e bloqueio devem ser concebidos de forma a funcionar com toda a segurança.\n\n16.4.2. As janelas e as clarabóias devem poder ser limpas sem risco."
+  },
+  "412188875dc29651": {
+   "fragment_id": "16.5. Portas e portões",
+   "type": "divisao",
+   "heading": "16.5. Portas e portões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16.5. Portas e portões\n\n16.5.1. A posição, o número, os materiais utilizados no fabrico e as dimensões das portas e dos portões devem ser determinados pela natureza e utilização dos locais ou recintos.\n\n16.5.2. Nas portas transparentes deve ser colocada uma marca à altura dos olhos.\n\n16.5.3. As porus e os portões basculantes devem ser transparentes ou possuir painéis transparentes.\n\n16.5.4. Sempre que as superfícies transparentes ou translúcidas das portas e portões não forem constituídas por material de segurança e se temer que os trabalhadores possam ficar feridos em caso de estilhaçamento, essas superfícies devem ser protegidas contra o estilhaçamento.\n\n16.5.5. As portas de correr devem possuir um sistema de segurança que as impeça de sair das calhas e de cair inopinadamente.\n\n16.5.6. As portas e os portões que abram na vertical devem possuir um sistema de segurança que impeça a sua queda inopinada.\n\n16.5.7. As portas situadas nas vias de emergência devem ser assinaladas de forma adequada.\n\n16.5.8. Na proximidade imediata dos portões essencialmente destinados à circulação de veículos, a menos que se trate de passagens seguras para peões, deverão existir portas para a circulação de peões assinaladas de modo bem visível e permanentemente desobstruídas.\n\n16.5.9. As portas e os portões mecânicos devem funcionar sem risco de acidente para os trabalhadores."
+  },
+  "4802978e26a951ff": {
+   "fragment_id": "16.6. Ventilação dos locais de trabalho fechados",
+   "type": "divisao",
+   "heading": "16.6. Ventilação dos locais de trabalho fechados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16.6. Ventilação dos locais de trabalho fechados\n\n16.6.1. Nos locais de trabalho fechados, é necessário garantir, tendo em conta os métodos de trabalho e os condicionalismos físicos impostos aos trabalhadores, que estes disponham de ar puro em quantidade suficiente.\n\n16.6.2. Se forem utilizadas instalações de ar condicionado ou de ventilação mecânica, devem funcionar de forma a que os trabalhadores não fiquem expostos a correntes de ar incómodas."
+  },
+  "61945b82a7cd9437": {
+   "fragment_id": "16.7. Temperatura dos locais de trabalho",
+   "type": "divisao",
+   "heading": "16.7. Temperatura dos locais de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16.7. Temperatura dos locais de trabalho\n\n16.7.1. Durante o tempo de trabalho, a temperatura nos locais de trabalho deve ser adequada ao organismo humano, tendo em conta os métodos de trabalho utilizados e os condicionalismos físicos impostos aos trabalhadores.\n\n16.7.2. A temperatura dos locais de descanso, dos locais destinados ao pessoal em serviço de permanência, das instalações sanitárias, das cantinas e das instalações de primeiros socorros deve corresponder à utilização especifica desses locais.\n\n16.7.3. As janelas, clarabóias e paredes envidraçadas devem permitir evitar uma excessiva exposição dos locais de trabalho ao sol, tendo em conta o tipo do trabalho e a natureza dos locais de trabalho."
+  },
+  "2c192af842b202ed": {
+   "fragment_id": "16.8. Salas de descanso",
+   "type": "divisao",
+   "heading": "16.8. Salas de descanso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 16.8. Salas de descanso\n\n16.8.1. Quando a segurança ou a saúde dos trabalhadores o exijam, nomeadamente em função, do tipo de actividade que exerçam e do número de efectivos existentes, os trabalhadores devem dispor de um local de descanso facilmente acessível.\n\n16.8.2. As salas de descanso devem possuir dimensões suficientes e estar equipadas com mesas e assentos de espaldar compatíveis com o número de trabalhadores existentes.\n\n16.8.3. Nas salas de descanso devem ser tomadas medidas adequadas de protecção dos não fumadores contra os incómodos causados pelo fumo do tabaco.\n\n16.8.4. Quando o tempo de trabalho for regular e frequentemente interrompido e não existam salas de descanso, devem ser colocadas à disposição do pessoal outras instalações que possam ser utilizadas durante a interrupção de trabalho e sempre que a segurança ou a saúde dos trabalhadores o exijam."
+  },
+  "7aa2ea4b3b4f915d": {
+   "fragment_id": "17. Mulheres grávidas e lactantes",
+   "type": "divisao",
+   "heading": "17. Mulheres grávidas e lactantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 17. Mulheres grávidas e lactantes\n\nAs mulheres grávidas e lactantes devem ter a possibilidade de se estender para descansar, em condições apropriadas."
+  },
+  "00407dc6d11c6c08": {
+   "fragment_id": "18. Trabalhadores deficientes",
+   "type": "divisao",
+   "heading": "18. Trabalhadores deficientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 18. Trabalhadores deficientes\n\nOs locais de trabalho devem ser concebidos tendo em conta, se for caso disso, os trabalhadores deficientes.\n\nEsta disposição aplica-se, nomeadamente, a portas, vias de comunicação, escadas, balneários, lavatórios, retretes e postos de trabalho directamente utilizados ou ocupados por trabalhadores deficientes."
+  },
+  "b8e186e213931897": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE B"
+  },
+  "2d8723fd47c0fe3b": {
+   "fragment_id": "PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO",
+   "type": "divisao",
+   "heading": "PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVAS A CÉU ABERTO"
+  },
+  "8990286f18e746f8": {
+   "fragment_id": "1. Generalidades",
+   "type": "divisao",
+   "heading": "1. Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Generalidades\n\n1.1. Sem prejuízo do disposto no n.º 2 do artigo 3.º, a entidade patronal que, em conformidade com as legislações e/ou as práticas nacionais, for responsável pelos locais de trabalho abrangidos pela presente parte B deve-se certificar de que o documento de segurança e de saúde comprove que foram tomadas todas as medidas adequadas para proteger a segurança e saúde dos trabalhadores, quer em circunstâncias normais quer em circunstâncias críticas.\n\n1.2. O documento de segurança e de saúde deve ser periodicamente actualizado é encontrar-se disponível no local de trabalho. Os trabalhos devem ser executados em conformidade com este documento."
+  },
+  "3ed21b0e6ccf24b8": {
+   "fragment_id": "2. Exploração",
+   "type": "divisao",
+   "heading": "2. Exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Exploração\n\n2.1. Os trabalhos devem ser planificados tendo em conta os elementos do documento de segurança relativos aos riscos de desabamento ou deslizamento dos terrenos. A altura e a inclinação das frentes, unto de decapagem como de desmonte, devem pois ser definidas, a título preventivo, em função da natureza e da estabilidade dos terrenos, assim como dos métodos de exploração.\n\n2.2. Os degraus e as vias de comunicação devem ter uma estabilidade e dimensões adaptadas aos equipamentos que nelas operam. Devem ser construídos e manutencionados de modo a que a circulação dos equipamentos se faça com segurança.\n\n2.3. As frentes de decapagem e de desmonte sobreminentes a postos de trabalho e vias de circulação devem ser inspeccionadas, antes de se iniciar o trabalho, para garantir a ausência de massas ou rochas não consolidadas. Se for caso disso, deve-se proceder ao saneamento das frentes.\n\n2.4. As frentes e os depósitos de produtos de escavação devem ser explorados de modo a não criar instabilidade."
+  },
+  "91225de3a1c3c9e6": {
+   "fragment_id": "PARTE C",
+   "type": "divisao",
+   "heading": "PARTE C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PARTE C"
+  },
+  "6fd31dda4a19ce31": {
+   "fragment_id": "PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVASSUBTERRÂNEAS",
+   "type": "divisao",
+   "heading": "PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVASSUBTERRÂNEAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### PRESCRIÇÕES MÍNIMAS ESPECÍFICAS APLICÁVEIS ÀS INDÚSTRIAS EXTRACTIVASSUBTERRÂNEAS"
+  },
+  "c8d427546db69cb9": {
+   "fragment_id": "1. Generalidades",
+   "type": "divisao",
+   "heading": "1. Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Generalidades\n\n1.1. Sem prejuízo do disposto no n.º 2 do artigo 3.º, a entidade patronal que, em conformidade com as legislações e/ou as práticas nacionais, for responsável pelos locais de trabalho abrangidos pela presente parte C deve-se certificar de que o documento de segurança e de saúde comprove que foram tomadas todas as medidas adequadas para proteger a segurança e saúde dos trabalhadores, quer em circunstâncias normais quer em circunstâncias críticas.\n\n1.2. O documento de segurança e de saúde deve ser periodicamente actualizado e estar disponível nos locais de trabalho. Os trabalhos devem ser executados de acordo com o documento de segurança e de saúde."
+  },
+  "87aa7803128c7f7e": {
+   "fragment_id": "2. Planta dos trabalhos subterrâneos",
+   "type": "divisao",
+   "heading": "2. Planta dos trabalhos subterrâneos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Planta dos trabalhos subterrâneos\n\n2.1. Devem ser estabelecidas plantas dos trabalhos substerrâneos à escala apropriada a uma representação clara. Além das galerias e dos trabalhos de exploração, devem representar os elementos conhecidos que possam ter influência sobre a exploração e sua segurança. As plantas devem poder ser facilmente consultadas e devem ser conservadas durante o tempo que a segurança exigir.\n\n2.2. As plantas dos trabalhos subterrâneos devem ser periodicamente actualizadas e estar disponíveis nos locais de trabalho."
+  },
+  "897b283e20bba7a9": {
+   "fragment_id": "3. Saídas",
+   "type": "divisao",
+   "heading": "3. Saídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Saídas\n\nEm toda e qualquer exploração subterrânea devem existir pelo menos duas saídas distintas para a superfície, de construção sólida e estável, e facilmente acessíveis ao pessoal do fundo.\n\nAs saídas em que a circulação requer um esforço importante dos trabalhadores devem ser equipadas com meios mecânicos de transporte de pessoal."
+  },
+  "8743dedb5a26a8ed": {
+   "fragment_id": "4. Áreas de trabalho",
+   "type": "divisao",
+   "heading": "4. Áreas de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Áreas de trabalho\n\nAs áreas de trabalho onde decorrem os trabalhos subterrâneos devem ser traçadas, utilizadas, equipadas e manutencionadas de modo a que o pessoal possa nelas circular e/ou trabalhar com o menor risco possível.\n\nAs galerias devem ter instalada uma sinalização que facilite a orientação do pessoal."
+  },
+  "e49e7f4da87d9d15": {
+   "fragment_id": "5. Transportes",
+   "type": "divisao",
+   "heading": "5. Transportes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Transportes\n\n5.1. As instalações de transporte devem ser montadas, utilizadas e manutencionadas de modo a garantir a segurança e a saúde dos seus operadores e utilizadores e do pessoal que se encontre na sua proximidade.\n\n5.2. As instalações mecânicas para transporte de pessoal devem ser devidamente concebidas e utilizadas de acordo com instruções escritas específicas."
+  },
+  "202711d18c56927c": {
+   "fragment_id": "6. Entivação e estabilidade de terrenos",
+   "type": "divisao",
+   "heading": "6. Entivação e estabilidade de terrenos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Entivação e estabilidade de terrenos\n\nOs trabalhos subterrâneos devem ser escorados, a título provisório ou definitivo, logo após a sua abertura, a não ser que a sua estabilidade garanta a segurança dos trabalhadores. A entivação deve ser feita de acordo com esquemas e instruções escritas.\n\nOs trabalhos acessíveis aos trabalhadores devem ser regularmente inspeccionados sob o ponto de vista da estabilidade dos terrenos e a entivação deve ser objecto de manutenção em conformidade."
+  },
+  "0717f57033ab2fc1": {
+   "fragment_id": "7. Ventilação",
+   "type": "divisao",
+   "heading": "7. Ventilação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 7. Ventilação\n\n7.1. Os trabalhos subterrâneos com acesso autorizado devem ser ventilados de modo apropriado.Deve-se prever ventilação permanente para manter, com margem de segurança suficiente: — uma atmosfera sã, — uma atmosfera na qual os riscos de explosão e de poeiras respiráveis estejam controlados, — uma atmosfera na qual haja condições de trabalho adequadas durante o período de laboração, tendo em conta os métodos de trabalho utilizados e os condicionalismos físicos impostos aos trabalhadores.\n\n7.2. Sempre que a ventilação natural não seja suficiente para garantir as condições do ponto 7.1, a ventilação principal deve ser garantida por meio de um ou mais ventiladores mecânicos. Devem ser tomadas as medidas necessárias para garantir a estabilidade e a continuidade da ventilação. A depressão dos ventiladores principais deve ser controlada de modo contínuo e deve ser instalado um sistema de alarme automático para assinalar as paragens intempestivas.\n\n7.3. Os parâmetros da ventilação devem ser medidos periodicamente e registados. Deve ser elaborado e actualizado periodicamente um plano de ventilação em que sejam indicadas as características úteis do sistema. Este plano deve estar disponível no local de trabalho."
+  },
+  "f72617317332e336": {
+   "fragment_id": "8. Minas ou pedreiras grisutosas",
+   "type": "divisao",
+   "heading": "8. Minas ou pedreiras grisutosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 8. Minas ou pedreiras grisutosas\n\n8.1. Por mina grisutosa entende-se toda a mina ou pedreira subterrânea onde é susceptível de se formar grisu em quantidade tal que não se possa excluir o risco de formação de uma atmosfera explosiva.\n\n8.2. Nas minas grisutosas a ventilação principal deve ser garantida por um ou mais ventiladores mecânicos.\n\n8.3. A exploração deve ser conduzida tendo em conta a possibilidade de libertação de grisu. Devem ser tomadas as medidas necessárias para impedir, na medida do possível, os riscos devidos ao grisu.\n\n8.4. A ventilação secundária deve ser limitada aos trabalhos preparatórios de exploração e aos trabalhos de abatimento, assim como aos compartimentos ligados directamente a uma galeria percorrida pela ventilação principal. Os desmontes só podem ser ventilados com ventilação secundária se forem tomadas medidas complementares capazes de garantir a segurança e a saúde dos trabalhadores.\n\n8.5. As medidas de ventilação previstas no ponto 7.3 devem ser completadas com o controlo dos teores em grisu. Quando o documento de segurança e saúde o exigir, o teor de grisu deve ser vigiado continuamente nos circuitos de retorno de ar das instalações de desmonte mecanizado e abatimento, assim como nas frentes de escavação mecanizada sem saída.\n\n8.6. Só podem ser utilizados explosivos e acessórios de tiro previstos para minas grisutosas.\n\n8.7. As disposições do ponto 4.1.2 da parte A são substituídas pelas seguintes: — não é permitido fumar ou levar para dentro da mina tabaco para fumar ou qualquer objecto próprio para fazer lume, — só excepcionalmente e mediante medidas específicas que garantam a segurança e a saúde dos trabalhadores se poderá proceder a operações com maçaricos ou de soldadura ou outras actividades comparáveis."
+  },
+  "6a8909344c490103": {
+   "fragment_id": "9. Minas ou pedreiras com poeiras inflamáveis",
+   "type": "divisao",
+   "heading": "9. Minas ou pedreiras com poeiras inflamáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 9. Minas ou pedreiras com poeiras inflamáveis\n\n9.1. As minas de carvão são consideradas minas com poeiras inflamáveis, a menos que o documento de segurança e saúde indique que nenhum dos veios explorados produz poeira susceptível de propagar uma explosão.\n\n9.2. Nas minas com poeiras inflamáveis aplicam-se, mutatis mutandis, as disposições dos pontos 8.6 e 8.7 da parte C.\n\n9.3. Devem ser tomadas as medidas necessárias para reduzir os depósitos de poeiras inflamáveis e/ou proceder à sua remoção, neutralização ou fixação.\n\n9.4. A propagação de uma explosão de poeiras inflamáveis e/ou de grisu, susceptível de desencadear outras explosões de poeiras inflamáveis, deve ser limitada por meio de um sistema de barragens. A localização deste sistema constará de um documento actualizado periodicamente e disponível no local de trabalho."
+  },
+  "a8c5ac8ff4c455c7": {
+   "fragment_id": "10. Libertações instantâneas de gás, resvalamentos de terreno e irrupções súbitas de água",
+   "type": "divisao",
+   "heading": "10. Libertações instantâneas de gás, resvalamentos de terreno e irrupções súbitas de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 10. Libertações instantâneas de gás, resvalamentos de terreno e irrupções súbitas de água\n\n10.1. Nas zonas com risco de libertação instantânea de gás (com ou sem projecção de minerais ou rochas), de resvalamentos de terreno ou de irrupções súbitas de água deve ser devidamente concebido e conduzido um programa de exploração, a fim de assegurar, na medida do possível, um método de trabalho seguro e a protecção dos trabalhadores.\n\n10.2. Devem ser tomadas as medidas necessárias para que seja possível identificar as zonas de risco, proteger o pessoal ocupado nos trabalhos nestas zonas ou que para lá se dirijam e controlar os riscos."
+  },
+  "6ef20901b3a2a35a": {
+   "fragment_id": "11. Incêndios, fogos e aquecimento",
+   "type": "divisao",
+   "heading": "11. Incêndios, fogos e aquecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 11. Incêndios, fogos e aquecimento\n\n11.1. Devem ser tomadas medidas no sentido de evitar e, se necessário, detectar precocemente as subidas anómalas de temperatura.\n\n11.2. A introdução de materiais combustíveis nos trabalhos subterrâneos deve ser limitada à quantidade estritamente necessária.\n\n11.3. Quando for necessário utilizar fluidos hidráulicos (fluidos para a transmissão de energia mecânica hidrostática e/ou hidrocinética) devem ser utilizados, na medida do possível, fluidos dificilmente inflamáveis, para se evitar o risco de incêndio ou a sua propagação. Os fluidos hidráulicos devem estar em conformidade com as especificações e condições de ensaio relativas à resistência ao fogo e com critérios de higiene. Quando são utilizados fluidos hidráulicos que não estão em conformidade com as especificações, condições e critérios referidos no segundo parágrafo, devem ser tomadas precauções suplementares para evitar o maior risco de incêndio e a sua propagação."
+  },
+  "d53542e1a3696412": {
+   "fragment_id": "12. Medidas de precaução ligadas à retirada do pessoal",
+   "type": "divisao",
+   "heading": "12. Medidas de precaução ligadas à retirada do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 12. Medidas de precaução ligadas à retirada do pessoal\n\nA fim de poder recuar em segurança, o pessoal deve, em função do risco, dispor de um aparelho individual de protecção respiratória.\n\nOs trabalhadores devem receber instruções de utilização do aparelho.\n\nEste aparelho deve ficar depositado na instalação em causa, controlando-se regularmente o seu bom estado."
+  },
+  "cd434ec222f89a80": {
+   "fragment_id": "13. Iluminação",
+   "type": "divisao",
+   "heading": "13. Iluminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 13. Iluminação\n\nAs disposições do ponto 13 da parte A são substituídas pelas seguintes:\n\n— os trabalhadores devem dispor de uma lanterna individual, adaptada à respectiva utilização.\n\n— os postos de trabalho devem ser equipados, na medida do possível, de dispositivos que permitam a iluminação artificial adequada para protecção da segurança e da saúde dos trabalhadores,\n\n— as instalações de iluminação devem estar localizadas de modo a que o tipo de iluminação previsto não apresente riscos de acidente para os trabalhadores."
+  },
+  "d09bf9c2210ac3bd": {
+   "fragment_id": "14. Controlo de presenças no fundo",
+   "type": "divisao",
+   "heading": "14. Controlo de presenças no fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 14. Controlo de presenças no fundo\n\nA organização do trabalho deve permitir conhecer a qualquer momento o pessoal presente no fundo."
+  },
+  "de4a57cea09e6c1e": {
+   "fragment_id": "15. Organização do salvamento",
+   "type": "divisao",
+   "heading": "15. Organização do salvamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 15. Organização do salvamento\n\nA fim de poder desencadear rápida e eficazmente uma acção apropriada em caso de sinistro importante, deve ser prevista uma organização de salvamento.\n\nEsta deve dispor, para poder intervir em qualquer local de extracção ou de trabalhos subterrâneos, de um número suficiente de salvadores treinados e do material de intervenção adequado.\n\n---"
+  },
+  "bc13ffeba457df2d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#src.E0001)) JO n.º C 58 de 5.3.1992, p. 3.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#src.E0002)) JO n.º C 150 de 15.6.1992, p. 128, e JO n.º C 305 de 23.11.1992.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#src.E0003)) JO n.º C 169 de 6.7.1992, p. 28.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#src.E0004)) JO n.º L 393 de 30.12.1989, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#src.E0005)) JO n.º L 183 de 29.6.1989, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#src.E0006)) JO n.º L 348 de 28.11.1992, p. 9.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#src.E0007)) JO n.º L 183 de 29.6.1989, p. 9. Alterada pela Directiva 91/368/CEE (JO n.º L 198 de 22.7.1991, p. 16).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#src.E0008)) JO n.º L 393 de 30.12.1989, p. 13.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#src.E0009)) JO n.º L 393 de 30.12.1989, p. 18.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/d13d49c8-3165-40a8-8bc6-8fea5a4164f4.0019.03/DOC_1#src.E0010)) JO n.º L 245 de 26.8.1992, p. 23."
+  }
+ }
+}

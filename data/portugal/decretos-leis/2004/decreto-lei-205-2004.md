@@ -1,0 +1,299 @@
+---
+schema_version: '1.0'
+id: pt:dre:480523:por
+title: Decreto-Lei n.º 205/2004
+short_title: null
+summary: Transpõe para a ordem jurídica nacional a Directiva n.º 2004/59/CE, da Comissão, de 23 de Abril, no que se refere
+  aos limites máximos de bromopropilato, e a Directiva n.º 2004/61/CE, da Comissão, de 26 de Abril, no respeitante à fixação
+  de limites máximos de resíduos de certos pesticidas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 205/2004
+official_date: null
+publication_date: '2004-08-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 195/2004, Série I-A de 2004-08-19
+  number: '195'
+  series: I
+  supplement: null
+  pages: 5405 - 5418
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/08/195a00/54055418.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/205/2004/08/19/p/dre/pt/html
+  oj: null
+  dre: '480523'
+  dre_path: /dr/detalhe/decreto-lei/205-2004-480523
+  internal: pt:dre:480523:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2004-480523
+  metadata_url: https://data.dre.pt/eli/dec-lei/205/2004/08/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2004-480523
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:45:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bda2de74f0bac2160cab97b77c798393e937460e6a35ddee99a8644f7671e564
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:45:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Aproximação das Legislações
+- Cereal
+- Contra-ordenação
+- Controlo Sanitário
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Direcção Regional de Agricultura
+- Fiscalização
+- Fruto
+- Limite Máximo de Resíduos
+- Madeira.região Autónoma
+- Multa
+- Produto Agrícola
+- Produto Alimentar
+- Produto Fitofarmacêutico
+- Produto Hortícola
+- Proteção do Consumidor
+- Saúde Pública
+- Substância Perigosa
+relationships:
+- type: amended_by
+  target: pt:dre:601372:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:358492:por
+  label: "Suprimida uma rúbrica do anexo II da Portaria 488/90, de 29 de Junho, alterada pelo presente diploma, pelo DEC LEI.123/2006.28.06.2006.MADRP,\
+    \ DR.IS-A [123] de 28.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2006-358492
+  date: '2006-06-28'
+- type: amended_by
+  target: pt:dre:639288:por
+  label: "Suprimidas algumas rubricas no anexo II da Port 488/90 de 29-Jun, com a redacção conferida no presente diploma,\
+    \ pelo DEC LEI.235/2007.19.06.2007.MADRP, DR.IS [116] de 19.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/235-2007-639288
+  date: '2007-06-19'
+- type: amended_by
+  target: pt:dre:246821:por
+  label: "Suprimida uma rubrica ao Anexo pelo DEC LEI.51/2008.20.03.2008.MADRP, DR.IS [57] de 20.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/51-2008-246821
+  date: '2008-03-20'
+- type: amended_by
+  target: pt:dre:452889:por
+  label: "Alterado o anexo do Dec Lei 116/2004 de 18-Mai, com a redacção conferida no presente diploma, pelo DEC LEI.202/2008.09.10.2008.MADRP,\
+    \ DR.IS [196] de 09.10.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2008-452889
+  date: '2008-10-09'
+- type: cites
+  target: celex:32002R2076
+  label: null
+  source: http://data.europa.eu/eli/reg/2002/2076/oj
+- type: cites
+  target: celex:32003L0113
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/113/oj
+- type: cites
+  target: celex:32004L0059
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/59/oj
+- type: cites
+  target: celex:32004L0061
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/61/oj
+- type: corrected_by
+  target: pt:dre:576110:por
+  label: "Rectificado pela DECL-RECT.90/2004.12.10.2004.PCM, DR.IS-A [245] de 18.10.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/90-2004-576110
+  date: '2004-10-12'
+- type: repealed_by
+  target: pt:dre:601372:por
+  label: "Revogado, nos termos do art. 13.º, pelo DEC LEI.39/2009.10.02.2009.MADRP, DR.IS [28] de 10.02.2009\0009\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/39-2009-601372
+  date: '2009-02-10'
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:45:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 205/2004
+
+de 19 de Agosto
+
+A aprovação da Directiva n.º [2004/59/CE](https://data.europa.eu/eli/dir/2004/59/oj?locale=pt), da Comissão, de 23 de Abril, que veio estabelecer novos limites máximos de resíduos e alterar outros já estabelecidos, respeitantes à substância activa bromopropilato em produtos fitofarmacêuticos, permitidos à superfície ou no interior de produtos agrícolas de origem vegetal, incluindo frutos, hortícolas e cereais, implica que se proceda à sua transposição para o direito interno através da publicação do presente diploma, introduzindo-se, concomitantemente, uma alteração ao Decreto-Lei n.º 68/2003, de 8 de Abril, no que respeita à referida substância activa.
+
+Entretanto, foi publicada no Jornal Oficial da União Europeia, n.º L 104, de 8 de Abril de 2004, uma rectificação à Directiva n.º [2003/113/CE](https://data.europa.eu/eli/dir/2003/113/oj?locale=pt), da Comissão, de 3 de Dezembro, directiva esta transposta pelo Decreto-Lei n.º 116/2004, de 18 de Maio, pelo que importa introduzir as alterações em causa neste diploma.
+
+Aproveita-se a oportunidade, por um lado, para aprovar seis novos limites máximos de resíduos, a nível nacional, respeitantes a seis substâncias activas de produtos fitofarmacêuticos, no âmbito das Portarias n.os 649/96, 102/97 e 1101/99, respectivamente de 12 de Novembro, de 14 de Fevereiro e de 21 de Dezembro, e, por outro, revoga-se uma disposição do Decreto-Lei n.º 156/2003, de 18 de Julho, relativa à substância activa metidatião, por não estar conforme com a legislação comunitária pertinente.
+
+Foi, igualmente, aprovada a Directiva n.º [2004/61/CE](https://data.europa.eu/eli/dir/2004/61/oj?locale=pt), da Comissão, de 26 de Abril, que veio estabelecer novos limites máximos de resíduos e alterar outros já estabelecidos, respeitantes a 13 substâncias activas de produtos fitofarmacêuticos, cuja utilização na Comunidade Europeia é proibida, o que implica, também, a necessária transposição para o direito nacional desta directiva, na parte respeitante aos produtos agrícolas de origem vegetal, e, consequentemente, introduzir alterações às Portarias n.os 488/90, 492/90 e 127/94, respectivamente de 29 de Junho, de 30 de Junho e de 1 de Março, e ao Decreto-Lei n.º 27/2000, de 3 de Março.
+
+Por último, na aplicação deste diploma, importa ter presente o Decreto-Lei n.º 144/2003, de 2 de Julho, que estabelece o regime dos limites máximos de resíduos de produtos fitofarmacêuticos permitidos nos produtos agrícolas de origem vegetal destinados à alimentação humana ou, ainda que ocasionalmente, à alimentação animal, assim como nestes produtos agrícolas secados ou transformados, ou incorporados em alimentos compostos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma transpõe para a ordem jurídica interna:
+
+a) A Directiva n.º [2004/59/CE](https://data.europa.eu/eli/dir/2004/59/oj?locale=pt), da Comissão, de 23 de Abril, que veio estabelecer novos limites máximos de resíduos e alterar outros já estabelecidos respeitantes à substância activa bromopropilato em produtos fitofarmacêuticos permitidos à superfície ou no interior de produtos agrícolas de origem vegetal, incluindo frutos, hortícolas e cereais;
+
+b) A Directiva n.º [2004/61/CE](https://data.europa.eu/eli/dir/2004/61/oj?locale=pt), da Comissão, de 26 de Abril, na parte respeitante aos produtos agrícolas de origem vegetal, que veio estabelecer novos limites máximos de resíduos e alterar outros já estabelecidos respeitantes a 13 substâncias activas de produtos fitofarmacêuticos cuja utilização na Comunidade Europeia é proibida.
+
+###### Artigo 2.º — Aprovação de novos limites máximos de resíduos
+
+1 - É aprovada a lista de limites máximos de resíduos (LMR) da substância activa bromopropilato em produtos fitofarmacéuticos, permitidos em determinados produtos agrícolas de origem vegetal, incluindo frutos, hortícolas e cereais, que constitui o anexo I ao presente diploma e dele faz parte integrante.
+
+2 - Os valores de LMR constantes no anexo I referido no número anterior que tenham a indicação «t» são provisórios, nos termos do Regulamento (CE) n.º [2076/2002](https://data.europa.eu/eli/reg/2002/2076/oj?locale=pt), da Comissão, de 20 de Novembro.
+
+###### Artigo 3.º — Alteração à Portaria n.º 649/96, de 12 de Novembro
+
+No anexo da Portaria n.º 649/96, de 12 de Novembro, com as alterações que lhe foram introduzidas pelas Portarias n.os 102/97 e 1101/99, respectivamente de 14 de Fevereiro e de 21 de Dezembro, e pelos Decretos-Leis n.os 27/2000, 215/2001, 31/2002, 245/2002, 68/2003, 156/2003 e 300/2003, respectivamente de 3 de Março, de 2 de Agosto, de 19 de Fevereiro, de 8 de Novembro, de 8 de Abril, de 18 de Julho e de 8 de Dezembro, na rubrica referente à substância activa pirimicarbe é estabelecido em 1 mg/kg o valor do LMR em coentros.
+
+###### Artigo 4.º — Alteração à Portaria n.º 102/97, de 14 de Fevereiro
+
+No anexo da Portaria n.º 102/97, de 14 de Fevereiro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 27/2000, 215/2001, 245/2002, 68/2003 e 116/2004, respectivamente de 3 de Março, de 2 de Agosto, de 8 de Novembro, de 8 de Abril e de 18 de Maio, na rubrica referente à substância activa fluazifope-P-butilo é estabelecido em 0,5 mg/kg o valor do LMR em pastinagas.
+
+###### Artigo 5.º — Alteração à Portaria n.º 1101/99, de 21 de Dezembro
+
+O anexo da Portaria n.º 1101/99, de 21 de Dezembro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 215/2001, 31/2002, 245/2002, 156/2003 e 116/2004, respectivamente de 2 de Agosto, de 19 de Fevereiro, de 8 de Novembro, de 18 de Julho e de 18 de Maio, é alterado do seguinte modo:
+
+a) Na rubrica referente à substância activa acrinatina, é estabelecido em 0,2 mg/kg o valor do LMR em beringela;
+
+b) Na rubrica referente à substância activa difenoconazol, é estabelecido em 0,2 mg/kg o valor do LMR em couve-bróculo;
+
+c) Na rubrica referente à substância activa hidrocloreto de formetanato, é estabelecido em 0,5 mg/kg o valor do LMR em beringela;
+
+d) Na rubrica referente à substância activa imidaclopride, é estabelecido em 0,5 mg/kg o valor do LMR em beringela.
+
+###### Artigo 6.º — Alteração ao Decreto-Lei n.º 68/2003, de 8 de Abril
+
+No anexo do Decreto-Lei n.º 68/2003, de 8 de Abril, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 300/2003 e 116/2004, respectivamente de 8 de Dezembro e de 18 de Maio, é suprimida a rubrica referente à substância activa bromopropilato.
+
+###### Artigo 7.º — Alteração ao Decreto-Lei n.º 116/2004, de 18 de Maio
+
+O anexo do Decreto-Lei n.º 116/2004, de 18 de Maio, é alterado do seguinte modo:
+
+a) Na rubrica referente à substância activa ciazofamida, o valor do LMR em sementes de oleaginosas é substituído por 0,02 (*) (p) mg/kg;
+
+b) Na rubrica referente à substância activa pendimetalina, o valor do LMR em sementes de oleaginosas é substituído por 0,1 (*) (p) mg/kg.
+
+###### Artigo 8.º — LMR de substâncias activas cuja utilização na Comunidade Europeia é proibida
+
+1 - É aprovada a lista de LMR de 13 substâncias activas de produtos fitofarmacêuticos cuja utilização na Comunidade Europeia é proibida, que constitui o anexo II ao presente diploma e dele faz parte integrante.
+
+2 - Nos casos a que se refere o número anterior, os LMR estabelecidos correspondentes ao limite de determinação analítica nos produtos frescos devem aplicar-se igualmente aos produtos compostos e transformados.
+
+###### Artigo 9.º — Alteração à Portaria n.º 488/90, de 29 de Junho
+
+No anexo II da Portaria n.º 488/90, de 29 de Junho, com as alterações que lhe foram introduzidas pelas Portarias n.os 127/94 e 102/97, respectivamente de 1 de Março e de 14 de Fevereiro, e pelos Decretos-Leis n.os 21/2001, 215/2001, 68/2003, 300/2003 e 116/2004, respectivamente de 30 de Janeiro, de 2 de Agosto, de 8 de Abril, de 4 de Dezembro e de 18 de Maio, é suprimida a rubrica referente à substância activa canfecloro.
+
+###### Artigo 10.º — Alteração à Portaria n.º 492/90, de 30 de Junho
+
+No anexo II da Portaria n.º 492/90, de 30 de Junho, com as alterações que lhe foram introduzidas pelas Portarias n.os 48/94, 625/96 e 49/97, respectivamente de 18 de Janeiro, de 4 de Novembro e de 18 de Janeiro, e pelos Decretos-Leis n.os 215/2001 e 68/2003, respectivamente de 2 de Agosto e de 8 de Abril, são suprimidas as rubricas referentes às substâncias activas aldrina, clordano, dieldrina, hexaclorobenzeno (HCB) e hexaclorociclo-hexano (HCH).
+
+###### Artigo 11.º — Alteração à Portaria n.º 127/94, de 1 de Março
+
+No anexo II da Portaria n.º 127/94, de 1 de Março, com as alterações que lhe foram introduzidas pela Portaria n.º 102/97, de 14 de Fevereiro, e pelos Decretos-Leis n.os 27/2000, 21/2001, 215/2001, 300/2003 e 116/2004, respectivamente de 3 de Março, de 30 de Janeiro, de 2 de Agosto, de 8 de Dezembro e de 18 de Maio, são suprimidas as rubricas referentes às substâncias activas 1,2-dibromoetano, binapacril, canfecloro e dinosebe.
+
+###### Artigo 12.º — Alteração ao Decreto-Lei n.º 27/2000, de 3 de Março
+
+No anexo B do Decreto-Lei n.º 27/2000, de 3 de Março, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 215/2001, 256/2001, 245/2002, 68/2003 e 156/2003, respectivamente de 2 de Agosto, de 22 de Setembro, de 8 de Novembro, de 8 de Abril e de 18 de Julho, são suprimidas as rubricas referentes às substâncias activas aldrina, dieldrina, hexaclorobenzeno (HCB) e hexaclorociclo-hexano (HCH).
+
+###### Artigo 13.º — Contra-ordenação
+
+1 - Constitui contra-ordenação punível com coima cujo limite mínimo é de (euro) 500 e o máximo se eleva a (euro) 3740, no caso de o agente da infracção ser pessoa singular, e a (euro) 44890, no caso de ser pessoa colectiva, qualquer entrega, a título oneroso ou gratuito, dos produtos agrícolas de origem vegetal, após a sua colheita, que contenham níveis de resíduos de produtos fitofarmacéuticos superiores aos estabelecidos nos artigos 2.º a 5.º, 7.º e 8.º
+
+2 - A tentativa e a negligência são puníveis.
+
+###### Artigo 14.º — Levantamento, instrução e decisão das contra-ordenações
+
+1 - A fiscalização e o levantamento dos autos de contra-ordenação competem às direcções regionais de agricultura (DRA) e à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA), assim como às autoridades policiais e fiscalizadoras.
+
+2 - A instrução dos processos e a aplicação das coimas competem à DGFCQA.
+
+###### Artigo 15.º — Competências das Regiões Autónomas
+
+Nas Regiões Autónomas dos Açores e da Madeira, as competências cometidas às DRA e à DGFCQA são exercidas pelos respectivos órgãos de governo próprio.
+
+###### Artigo 16.º — Produto das coimas
+
+O produto das coimas cobradas é distribuído da seguinte forma:
+
+a) 10% para a entidade que levantou o auto;
+
+b) 30% para a entidade que instruiu o processo e aplicou a coima;
+
+c) 60% para o Estado.
+
+###### Artigo 17.º — Revogação
+
+É revogada a alínea b) do n.º 1 do artigo 2.º do Decreto-Lei n.º 156/2003, de 18 de Julho.
+
+###### Artigo 18.º — Produção de efeitos
+
+O disposto no artigo 8.º e no anexo II do presente diploma produz efeitos a partir de 26 de Janeiro de 2005.
+
+Visto e aprovado em Conselho de Ministros de 1 de Julho de 2004. - Maria Manuela Dias Ferreira Leite - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - Arlindo Marques da Cunha.
+
+Promulgado em 2 de Agosto de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 5 de Agosto de 2004.
+
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
+
+## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
+
+Resíduos de substâncias activas de produtos fitofarmacêuticos e LMR (miligramas/quilogramas)
+
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/08/195a00/54055418.pdf)](https://files.diariodarepublica.pt/1s/2004/08/195a00/54055418.pdf)
+
+## ANEXO II — (a que se refere o n.º 1 do artigo 8.º)
+
+Resíduos de substâncias activas de produtos fitofarmacêuticos e LMR (miligramas/quilogramas)
+
+[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/08/195a00/54055418.pdf)](https://files.diariodarepublica.pt/1s/2004/08/195a00/54055418.pdf)

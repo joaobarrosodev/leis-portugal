@@ -1,0 +1,1064 @@
+---
+schema_version: '1.0'
+id: pt:dre:499513:por
+title: Portaria n.º 280/2013
+short_title: null
+summary: Regula vários aspetos da tramitação eletrónica dos processos judiciais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 280/2013
+official_date: null
+publication_date: '2013-08-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 163/2013, Série I de 2013-08-26
+  number: '163'
+  series: I
+  supplement: null
+  pages: 5159 - 5165
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/08/16300/0515905165.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-10-20'
+version_history:
+  file: portaria-280-2013.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2013-08-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-05-29'
+    amending: pt:dre:107477151:por
+    amending_title: Declaração de Retificação n.º 16/2017; Portaria n.º 170/2017
+    changes:
+    - Retifica Artigo 28.º
+    - Adita Artigo 27.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 17.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Revoga Artigo 2.º
+  - date: '2018-09-30'
+    amending: pt:dre:116433035:por
+    amending_title: Portaria n.º 267/2018
+    changes:
+    - Adita Artigo 12.º-A
+    - Adita Artigo 15.º-A
+    - Adita Artigo 15.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 27.º-A
+  - date: '2023-05-11'
+    amending: pt:dre:210982935:por
+    amending_title: Portaria n.º 86/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+  - date: '2023-11-15'
+    amending: pt:dre:224227443:por
+    amending_title: Portaria n.º 360-A/2023
+    changes:
+    - Altera Artigo 10.º
+  - date: '2024-12-03'
+    amending: pt:dre:890961427:por
+    amending_title: Portaria n.º 266/2024/1
+    changes:
+    - Adita Artigo 26.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º-A
+    - Altera Artigo 16.º
+    - Altera Capítulo IV
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 27.º-A
+    - Altera Artigo 28.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 36.º
+  - date: '2025-10-20'
+    amending: pt:dre:939191643:por
+    amending_title: Portaria n.º 350-A/2025/1
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 12.º-A
+    - Revoga Artigo 13.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 15.º-A
+    - Revoga Artigo 15.º-B
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 26.º-A
+    - Revoga Artigo 27.º
+    - Revoga Artigo 27.º-A
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/280/2013/p/cons/20251009/pt/html
+  oj: null
+  dre: '499513'
+  dre_path: /dr/detalhe/portaria/280-2013-499513
+  internal: pt:dre:499513:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/280-2013-499513
+  metadata_url: https://data.dre.pt/eli/port/280/2013/p/cons/20251009/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-34581075
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-34581075
+  retrieved_at: '2026-10-22T11:54:31Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 5dab8cebf8c2b6df0f8333fd71dbc6550663e9ee1d826137b7ce57f217d4e3b1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:54:31Z'
+  notes: 7 versão(ões); histórico completo em portaria-280-2013.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Recurso
+- Processo Declarativo
+- Advogado
+- Processo Civil
+- Ajuda Judicial
+- Certificação Electrónica
+- Código do Processo Civil
+- Direcção Geral da Segurança Social
+- Serviços de Registo e Notariado
+- Documentação
+- Formulário Eletrónico
+- Oficial de Justiça
+- Homologação
+- Instituto Nacional de Medicina Legal e Ciências Forenses
+- Publicitação
+- Juiz
+- Magistrado do Ministério Público
+- Documento Eletrónico
+- Direcção Geral de Reinserção e Serviços Prisionais
+- Notificação
+- Página na Internet
+- Recluso
+- Processo Judicial
+- Código da Execução das Penas e das Medidas Privativas da Liberdade
+- Assinatura Digital
+- Regime Jurídico
+- Processo de Execução
+- Agente de Execução
+- Solicitador
+- Custas Judiciais
+- Tribunal
+relationships:
+- type: amended_by
+  target: pt:dre:502992:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2013-502992
+  date: '2013-10-25'
+- type: amended_by
+  target: pt:dre:107078025:por
+  label: Retifica Artigo 28.º; Adita Artigo 27.º-A; Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo
+    8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 17.º; Altera Artigo 27.º; Altera Artigo 28.º; Revoga Artigo
+    2.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025
+  date: '2017-05-25'
+- type: amended_by
+  target: pt:dre:107477151:por
+  label: Retifica Artigo 28.º; Adita Artigo 27.º-A; Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo
+    8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 17.º; Altera Artigo 27.º; Altera Artigo 28.º; Revoga Artigo
+    2.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/16-2017-107477151
+  date: '2017-06-06'
+- type: amended_by
+  target: pt:dre:116433035:por
+  label: Adita Artigo 12.º-A; Adita Artigo 15.º-A; Adita Artigo 15.º-B; Altera Artigo 1.º; Altera Artigo 6.º; Altera Artigo
+    7.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 15.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo
+    24.º; Altera Artigo 25.º; Altera Artigo 27.º; Altera Artigo 27.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035
+  date: '2018-09-20'
+- type: amended_by
+  target: pt:dre:210982935:por
+  label: Altera Artigo 1.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/86-2023-210982935
+  date: '2023-03-27'
+- type: amended_by
+  target: pt:dre:224227443:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/360-a-2023-224227443
+  date: '2023-11-14'
+- type: amended_by
+  target: pt:dre:890961427:por
+  label: Adita Artigo 26.º-A; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 9.º; Altera Artigo 12.º-A;
+    Altera Artigo 16.º; Altera Capítulo IV; Altera Artigo 19.º; Altera Artigo 21.º; Altera Artigo 23.º; Altera Artigo 25.º;
+    Altera Artigo 27.º; Altera Artigo 27.º-A; Altera Artigo 28.º; Revoga Artigo 14.º; Revoga Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427
+  date: '2024-10-15'
+- type: amended_by
+  target: pt:dre:939191643:por
+  label: Revoga Artigo 1.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga Artigo 5.º; Revoga Artigo 6.º; Revoga Artigo 7.º;
+    Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 12.º-A;
+    Revoga Artigo 13.º; Revoga Artigo 15.º; Revoga Artigo 15.º-A; Revoga Artigo 15.º-B; Revoga Artigo 16.º; Revoga Artigo
+    17.º; Revoga Artigo 18.º; Revoga Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643
+  date: '2025-10-09'
+- type: cites
+  target: pt:dre:260394:por
+  label: null
+  source: http://data.dre.pt/eli/lei/29/2013/04/19/p/dre
+- type: cites
+  target: pt:dre:497406:por
+  label: null
+  source: http://data.dre.pt/eli/lei/41/2013/06/26/p/dre
+- type: cites
+  target: pt:dre:511829:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2003/09/10/p/dre
+article_structure:
+  article_count: 43
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:54:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 280/2013
+
+Portaria n.º 280/2013
+
+de 26 de agosto
+
+A entrada em vigor do novo Código de Processo Civil, aprovado pela Lei n.º 41/2013, de 26 de junho, implica necessariamente a revisão de um conjunto de matérias que procedem à sua regulamentação.
+
+É o caso da tramitação eletrónica de processos, até aqui regulamentada pela Portaria n.º 114/2008, de 6 de fevereiro.
+
+As alterações ora introduzidas a esse regime não são muito significativas, até porque a utilização de sistemas informáticos para a tramitação eletrónica de processos tem-se revelado, em Portugal, uma experiência bem sucedida, com larga aceitação entre os profissionais forenses que diariamente utilizam o sistema informático de suporte à atividade dos tribunais.
+
+No entanto, as inúmeras alterações sofridas pela Portaria n.º 114/2008, de 6 de fevereiro, que incluíram inclusivamente alterações de sistematização, não facilitam a sua leitura e interpretação. Motivo pelo qual se aproveita a oportunidade para proceder à sua revogação, sendo substituída por uma nova portaria que, para além de proceder às alterações ao regime decorrentes do novo Código de Processo Civil, não sofre das vicissitudes sistemáticas que a Portaria n.º 114/2008 atualmente revela.
+
+Quanto às alterações agora introduzidas ao regime da tramitação eletrónica de processos judiciais, e para além de alteração das remissões efetuadas para o Código de Processo Civil em função da alteração da numeração dos artigos deste, importa desde logo referir a introdução de uma norma que identifica claramente qual o sistema informático onde se realiza a tramitação eletrónica dos processos. Não se tratando de uma inovação relativamente ao que sucede na prática, passa a estar expressamente previsto na regulamentação da tramitação eletrónica de processos.
+
+Em segundo lugar, importa referir uma alteração ao regime da apresentação de peças processuais, nomeadamente quando a dimensão do conjunto formado pela peça e os documentos que a acompanham excede o limite de 3 Mb. Nestas situações, e caso o limite seja excedido não pela dimensão da peça mas dos documentos que a acompanham, a peça deve ser apresentada por via eletrónica, tal como já hoje sucede, mas devendo os documentos ser igualmente enviados por via eletrónica, em requerimentos sucessivos. Estes requerimentos, que não podem exceder o referido limite de 3 Mb, devem ser apresentados no mesmo dia da peça processual a que respeitam, ou, caso esta seja uma petição inicial ou outra peça que deva ser distribuída, até ao final do dia seguinte ao da distribuição.
+
+Outra inovação, decorrente diretamente do novo regime de citação edital previsto no Código de Processo Civil, prende-se com a definição do sítio da Internet onde é publicado o anúncio relativo à citação edital, adotando-se a solução até agora em vigor para as citações editais no regime processual civil experimental, prevista na Portaria n.º 1097/2006, de 13 de outubro.
+
+Por fim, procede-se à regulamentação do regime de comunicações eletrónicas entre os tribunais e os agentes de execução, matéria até 1 de setembro de 2013 regulada pelo Decreto-Lei n.º 202/2003, de 10 de setembro, mas que, à luz da lógica subjacente ao novo Código de Processo Civil, deve naturalmente ser tratada no diploma que regula a tramitação eletrónica de processos. Também aqui as alterações introduzidas visam sobretudo refletir os inúmeros desenvolvimentos que esta matéria sofreu nos últimos anos, não representando por isso uma solução inovadora face à prática nos tribunais.
+
+Uma última nota para referir que esta portaria regulamenta igualmente o disposto no n.º 2 do artigo 14.º da Lei n.º 29/2013, de 19 de abril, devendo a apresentação de um acordo de homologação obtido em mediação ser efetuada, quando realizada por via eletrónica, nos mesmos termos que qualquer outra peça processual.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 132.º, no n.º 5 do artigo 172.º, no n.º 1 do artigo 240.º e no n.º 8 do artigo 552.º do Código de Processo Civil, aprovado pela Lei n.º 41/2013, de 26 de junho, e no n.º 2 do artigo 14.º da Lei n.º 29/2013, de 19 de abril, manda o Governo, pela Ministra da Justiça, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - A presente portaria regulamenta a tramitação eletrónica dos processos nos tribunais judiciais e nos serviços do Ministério Público.
+
+2 - (Revogado.)
+
+3 - No que respeita à tramitação eletrónica nos tribunais judiciais de 1.ª instância das impugnações judiciais das decisões e das demais medidas das autoridades administrativas tomadas em processo de contraordenação, o regime previsto na presente portaria é aplicável apenas a partir do momento em que os autos são presentes ao juiz.
+
+4 - (Revogado.)
+
+5 - O disposto no n.º 1 abrange, designadamente:
+
+a) As ações principais, os procedimentos cautelares, os incidentes, as notificações avulsas e quaisquer outros procedimentos que corram por apenso ou de forma autónoma;
+
+b) As fases processuais dirigidas pelo Ministério Público, nomeadamente a fase de inquérito do processo penal, a fase de inquérito do processo tutelar educativo e a fase conciliatória do processo para efetivação de direitos resultantes de acidente de trabalho;
+
+c) Os procedimentos e atos legalmente atribuídos ao Ministério Público.
+
+6 - Para os efeitos do disposto nos números anteriores, a presente portaria regulamenta os seguintes aspetos:
+
+a) Definição do sistema informático no qual é efetuada a tramitação eletrónica;
+
+b) Apresentação de peças processuais e documentos por transmissão eletrónica de dados, incluindo a apresentação do requerimento de interposição de recurso, das alegações e contra-alegações de recurso e da reclamação contra o indeferimento do recurso e a subida dos recursos, nos termos dos artigos 643.º, 644.º, 646.º, 671.º, 688.º e 696.º do Código de Processo Civil, e a apresentação do requerimento de interposição de recurso, das motivações, da reclamação contra a não admissão ou retenção do recurso, e da resposta ao recurso, nos termos dos artigos 405.º, 411.º e 413.º do Código de Processo Penal;
+
+c) Apresentação de peças processuais e documentos pelos magistrados do Ministério Público nos processos em que intervenham no exercício das suas competências;
+
+d) Comprovação do prévio pagamento da taxa de justiça e demais quantias devidas a título de custas, de multa ou outra penalidade, ou da concessão do benefício do apoio judiciário, de acordo com o n.º 4 do artigo 145.º, o n.º 7 do artigo 552.º e o n.º 1 do artigo 570.º do Código de Processo Civil e com a alínea a) do n.º 1 e o n.º 2 do artigo 14.º e com os n.os 2 e 8 do artigo 32.º do Regulamento das Custas Processuais;
+
+e) Designação de agente de execução que efetua a citação, de acordo com a alínea g) do n.º 1 e os n.os 11 e 12 do artigo 552.º do Código de Processo Civil;
+
+f) Distribuição por meios eletrónicos, prevista no artigo 204.º, no n.º 2 do artigo 207.º, do artigo 208.º e do n.º 2 do artigo 209.º do Código de Processo Civil e na alínea b) do n.º 2 do artigo 150.º do Código da Execução das Penas e Medidas Privativas de Liberdade;
+
+g) Prática de atos por meios eletrónicos por magistrados judiciais e do Ministério Público e funcionários judiciais;
+
+h) Publicação do anúncio de citação edital em página informática de acesso público;
+
+i) Notificações dirigidas a mandatários e entre mandatários, por transmissão eletrónica de dados, nos termos do artigo 248.º, do artigo 252.º e do artigo 255.º do Código de Processo Civil e do n.º 11 do artigo 113.º do Código de Processo Penal;
+
+j) Consulta eletrónica dos processos, nos termos admitidos pela lei;
+
+k) Organização no processo físico das peças eletrónicas;
+
+l) Comunicações entre tribunais e entre estes e os agentes de execução.
+
+m) Prática de atos processuais pelos mandatários perante administradores judiciais por via eletrónica, nos termos do n.º 2 do artigo 17.º e do n.º 2 do artigo 128.º do Código da Insolvência e da Recuperação de Empresas.
+
+n) Organização do processo único do recluso;
+
+o) Comunicações previstas no artigo 477.º do Código de Processo Penal, por transmissão eletrónica de dados.
+
+7 - (Revogado.)
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 86/2023 - Diário da República n.º 61/2023, Série I de 2023-03-27](https://diariodarepublica.pt/dr/detalhe/portaria/86-2023-210982935), em vigor a partir de 2023-05-11
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025), em vigor a partir de 2017-05-29
+
+> Rectificado pelo/a [Declaração de Retificação n.º 44/2013 - Diário da República n.º 207/2013, Série I de 2013-10-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2013-502992), em vigor a partir de 2013-09-01, produz efeitos a partir de 2013-09-01
+
+###### Artigo 2.º — Âmbito de aplicação
+
+A regulamentação dos aspetos previstos no n.º 1 do artigo anterior aplica-se à tramitação eletrónica:
+
+a) Das ações declarativas cíveis, procedimentos cautelares e notificações judiciais avulsas, com exceção dos processos de promoção e proteção das crianças e jovens em perigo e dos pedidos de indemnização civil ou dos processos de execução de natureza cível deduzidos no âmbito de um processo penal;
+
+b) Das ações executivas cíveis e de todos os incidentes que corram por apenso à execução, sem prejuízo do previsto em regulamentação específica do processo executivo.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 170/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025), em vigor a partir de 2017-05-29
+
+###### Artigo 3.º — Sistema informático de suporte à atividade dos tribunais
+
+1 - A tramitação eletrónica prevista na presente portaria é efetuada no sistema informático de suporte à atividade dos tribunais.
+
+2 - O sistema informático previsto no número anterior disponibiliza módulos específicos para a tramitação do processo e prática de atos por magistrados judiciais, magistrados do Ministério Público e funcionários judiciais, e para a prática de atos e consulta de processos.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+### Capítulo II — Apresentação de peças processuais e documentos
+
+###### Artigo 4.º — Apresentação de peças processuais e documentos por via eletrónica
+
+1 - A apresentação de peças processuais e documentos por transmissão eletrónica de dados dispensa a remessa dos respetivos originais, duplicados e cópias, nos termos da lei.
+
+2 - O disposto no n.º 1 não prejudica:
+
+a) O dever de exibição das peças processuais em suporte de papel e dos originais dos documentos juntos pelas partes por transmissão eletrónica de dados, sempre que o magistrado o determine, designadamente, quando:
+
+i) Duvidar da autenticidade ou genuinidade das peças ou dos documentos;
+
+ii) For necessário realizar perícia à letra ou assinatura dos documentos.
+
+b) (Revogada.)
+
+3 - A apresentação de peças processuais e documentos pelos magistrados do Ministério Público é efetuada por transmissão eletrónica de dados, através de módulo específico do sistema informático de suporte à atividade dos tribunais.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025), em vigor a partir de 2017-05-29
+
+###### Artigo 5.º — Sistema informático de suporte à atividade dos tribunais e registo de utilizadores
+
+1 - A apresentação de peças processuais e documentos por transmissão eletrónica de dados por mandatários judiciais é efetuada através do sistema informático de suporte à atividade dos tribunais, no endereço eletrónico https://citius.tribunaisnet.mj.pt, de acordo com os procedimentos e instruções aí constantes.
+
+2 - O registo e a gestão de acessos ao sistema informático referido no número anterior por advogados, advogados estagiários e solicitadores são efetuados pela entidade responsável pela gestão de acessos ao sistema informático, com base na informação transmitida, respetivamente, pela Ordem dos Advogados e pela Ordem dos Solicitadores e dos Agentes de Execução, respeitante à validade e às vicissitudes da inscrição junto dessas associações públicas profissionais.
+
+3 - Após o registo previsto no número anterior, são entregues os elementos secretos, pessoais e intransmissíveis que permitem o acesso à área reservada do sistema informático de suporte à atividade dos tribunais.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025), em vigor a partir de 2017-05-29
+
+###### Artigo 6.º — Formulários e ficheiros anexos
+
+1 - A apresentação de peças processuais é efetuada através do preenchimento de formulários disponibilizados no endereço eletrónico referido no artigo anterior, aos quais se anexam:
+
+a) Ficheiros com a restante informação legalmente exigida, conteúdo material da peça processual e demais informação que o mandatário considere relevante e que não se enquadre em nenhum campo dos formulários; e
+
+b) De forma individualizada, os documentos que devem acompanhar a peça processual.
+
+2 - A informação inserida nos formulários é refletida num documento que, juntamente com os ficheiros anexos referidos na alínea a) do número anterior, faz parte, para todos os efeitos, da peça processual.
+
+3 - O documento contendo a informação inserida nos formulários deve ser assinado digitalmente através de certificado de assinatura eletrónica que garanta de forma permanente a qualidade profissional do signatário, podendo ser utilizado para o efeito o Sistema de Certificação de Atributos Profissionais associado ao Cartão de Cidadão e à Chave Móvel Digital.
+
+4 - A assinatura referida no número anterior é efetuada no sistema informático de suporte à atividade dos tribunais no momento da apresentação da peça processual, assegurando o sistema informático que essa assinatura garante a integridade, integralidade e não repúdio da peça processual.
+
+5 - Podem ser entregues em suporte físico os documentos:
+
+a) Cujo suporte físico não seja em papel ou cujo papel tenha uma espessura superior a 127 g/m2 ou inferior a 50 g/m2;
+
+b) Em formatos superiores a A4.
+
+6 - A entrega dos documentos referidos no número anterior deve ser efetuada no prazo de cinco dias após o envio dos formulários e ficheiros através do sistema informático de suporte à atividade dos tribunais.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2019-04-02
+
+###### Artigo 7.º — Preenchimento dos formulários
+
+1 - Quando existam campos no formulário para a inserção de informação específica, essa informação deve ser indicada no campo respetivo, não podendo ser apresentada unicamente nos ficheiros anexos.
+
+2 - Em caso de desconformidade entre o conteúdo dos formulários e o conteúdo dos ficheiros anexos, prevalece a informação constante dos formulários, ainda que estes não se encontrem preenchidos.
+
+3 - O disposto no número anterior não prejudica a possibilidade de a mesma ser corrigida, a requerimento da parte, sem prejuízo de a questão poder ser suscitada oficiosamente.
+
+4 - Nos casos em que o formulário não se encontre preenchido na parte relativa à identificação das testemunhas e demais informação referente a estas, constando tais elementos dos ficheiros anexos referidos na alínea a) do n.º 1 do artigo anterior, a secretaria procede à notificação da parte para preencher, no prazo de 10 dias, o respetivo formulário, sob pena de se considerar apenas o conteúdo do formulário inicial.
+
+5 - Existindo um formulário específico para a finalidade ou peça processual que se pretende apresentar, deve o mesmo ser usado obrigatoriamente pelo mandatário.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30
+
+###### Artigo 8.º — Formato dos ficheiros e documentos anexos
+
+Os ficheiros e documentos referidos no n.º 1 do artigo 6.º devem ter os seguintes formatos:
+
+a) Portable document format (.pdf), preferencialmente na versão PDF/A e com conteúdo pesquisável, quando se trate de documento escrito;
+
+b) Moving Pictures Expert Group 4 Part 14 (MP4) com codificação vídeo H.264 AVC e codificação áudio MPEG-2 Audio Layer III (MP3) ou Advanced Audio Coding (AAC), quando se trate de documento vídeo;
+
+c) Portable Network Graphics (PNG) ou Joint Photographic Experts Group (JPEG), quando o documento seja exclusivamente uma imagem;
+
+d) MPEG-2 Audio Layer III (MP3) ou Ogg Encapsulation Format Version 0 (OGG) com codificação áudio Vorbis I, quando se trate de documento áudio.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025), em vigor a partir de 2017-05-29
+
+###### Artigo 9.º — Pagamento de taxa de justiça e benefício do apoio judiciário
+
+1 - O responsável pelo prévio pagamento da taxa de justiça ou de outra quantia devida a título de custas, de multa ou outra penalidade deve indicar, em campo próprio dos formulários de apresentação de peça processual constantes do sistema informático de suporte à atividade dos tribunais, a referência que consta do documento único de cobrança (DUC), encontrando-se dispensado de juntar ao processo o respetivo documento comprovativo do pagamento.
+
+2 - Nos casos referidos no número anterior, a comprovação do prévio pagamento é efetuada automaticamente por comunicação entre o Sistema de Cobranças do Estado, o sistema informático de registo das custas processuais e o sistema informático de suporte à atividade dos tribunais.
+
+3 - Nos casos em que cabe à secretaria notificar o responsável para o pagamento da taxa de justiça ou de outra quantia devida a título de custas, de multa ou outra penalidade, e seja emitida guia acompanhada de DUC para esse efeito, a comprovação do pagamento efetua-se automaticamente por simples comunicação eletrónica entre os sistemas referidos no número anterior, estando o responsável pelo pagamento dispensado de indicar, nos termos do n.º 1, a referência que consta do DUC.
+
+4 - Nos casos em que a lei exija a junção de documento comprovativo do pagamento das quantias a que se refere o n.º 1, o mesmo é apresentado por transmissão eletrónica de dados, nos termos da alínea b) do n.º 1 do artigo 6.º
+
+5 - O pedido ou a concessão do benefício do apoio judiciário são comprovados através da apresentação, por transmissão eletrónica de dados, dos correspondentes documentos comprovativos, nos termos definidos para os restantes documentos na alínea b) do n.º 1 do artigo 6.º.
+
+6 - O disposto no n.º 1 não se aplica na fase de inquérito do processo penal, devendo o responsável pelo prévio pagamento da taxa de justiça juntar ao processo o documento comprovativo do pagamento, nos termos do n.º 4.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025), em vigor a partir de 2017-05-29
+
+###### Artigo 10.º — Dimensão da peça processual
+
+1 - A peça processual, cada documento, ou o conjunto da peça processual e dos documentos, não pode exceder a dimensão de 20 MB.
+
+2 - Nos casos em que o limite previsto no número anterior seja excedido em virtude da dimensão da peça processual, a sua apresentação, bem como dos documentos que a acompanhem, deve ser efetuada através dos meios previstos no n.º 7 do artigo 144.º do Código de Processo Civil.
+
+3 - Nos casos em que o limite previsto no n.º 1 seja excedido em virtude da dimensão dos documentos, a peça processual deve ser apresentada através do sistema informático de suporte à atividade dos tribunais, devendo os documentos, no mesmo dia, ser apresentados pela mesma via, através de um único requerimento ou, quando tal não seja possível por desrespeitar o limite previsto no n.º 1, através do menor número possível de requerimentos.
+
+4 - Quando a peça em causa seja uma petição inicial ou outro ato processual sujeito a distribuição, a apresentação dos documentos prevista no número anterior deve ser efetuada até ao final do dia seguinte ao da distribuição.
+
+5 - Os documentos previstos nos n.os 3 e 4 que, por si só, desrespeitem o limite previsto no n.º 1 devem ser apresentados pelos meios previstos no n.º 7 do artigo 144.º do Código de Processo Civil, no prazo de cinco dias após a entrega da peça processual, juntamente com o respetivo comprovativo de entrega disponibilizado pelo sistema informático de suporte à atividade dos tribunais.
+
+6 - Nas situações previstas nos n.os 2 e 5, não devem ser apresentados os duplicados ou cópias da peça processual ou dos documentos.
+
+7 - Os documentos nos formatos previstos nas alíneas b) e d) do artigo 8.º não são tidos em consideração para efeitos do disposto no n.º 1, podendo o conjunto desses documentos ter, por peça processual, uma dimensão que não exceda os 100 MB.
+
+8 - Nos casos em que o limite previsto no número anterior seja ultrapassado devem os documentos ser divididos no menor número possível de requerimentos que respeitem esse limite.
+
+9 - Nos casos em que um único documento por si só exceda o limite previsto no n.º 7, deve o mesmo:
+
+a) Caso a sua dimensão não exceda 1 GB, ser entregue ao tribunal através de suporte eletrónico de dados com interface de acesso USB 2.0 ou 3.0 do tipo A e com sistema de ficheiros formatado em FAT32;
+
+b) Caso a sua dimensão exceda 1 GB, ser dividido no menor número de ficheiros que respeitem esse limite, que devem ser entregues ao tribunal através de suporte eletrónico de dados com interface de acesso USB 2.0 ou 3.0 do tipo A e com sistema de ficheiros formatado em FAT32.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 360-A/2023 - Diário da República n.º 220/2023, 1º Suplemento, Série I de 2023-11-14](https://diariodarepublica.pt/dr/detalhe/portaria/360-a-2023-224227443), em vigor a partir de 2023-11-15
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025), em vigor a partir de 2017-05-29
+
+###### Artigo 11.º — Designação de agente de execução
+
+1 - Quando, nos formulários, o autor designe agente de execução para efetuar a citação, este é notificado da designação, por via eletrónica, através do sistema informático de suporte à atividade dos agentes de execução.
+
+2 - O agente de execução tem cinco dias após a notificação para declarar que não aceita a designação, nos termos do n.º 8 do artigo 552.º do Código de Processo Civil.
+
+3 - A não aceitação da designação pelo agente de execução é efetuada no sistema informático de suporte à atividade dos agentes de execução e imediatamente notificada ao autor, que é igualmente notificado para, em 10 dias, indicar outro agente de execução, sob pena de a citação ser efetuada nos termos gerais.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+###### Artigo 12.º — Apresentação de peças processuais por mais de um mandatário
+
+1 - Nos casos em que a peça processual deva ser assinada por mais do que um mandatário, deve seguir-se o seguinte procedimento:
+
+a) Um dos mandatários procede à entrega da peça processual, assinando-a digitalmente através do sistema informático de suporte à atividade dos tribunais (http://citius.tribunaisnet.mj.pt) e indicando, no formulário, os mandatários que igualmente a devem assinar;
+
+b) No prazo máximo de dois dias após a distribuição do processo, no caso de requerimento, petição inicial ou petição inicial conjunta, ou após a receção da peça processual enviada, nos demais casos, os mandatários indicados no formulário enviam, através do sistema informático de suporte à atividade dos tribunais, uma declaração eletrónica de adesão à peça, assinada digitalmente.
+
+2 - A apresentação de peça processual por mais de um mandatário através do sistema informático de suporte à atividade dos tribunais está dependente do registo prévio de todos os mandatários que apresentam a peça, nos termos do n.º 2 do artigo 5.º.
+
+3 - Nos casos de não adesão por parte dos mandatários indicados no formulário no prazo fixado na alínea b) do n.º 1, considera-se que a peça processual não foi apresentada e anula-se a respetiva distribuição nos casos de requerimento, petição inicial ou petição inicial conjunta.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+###### Artigo 12.º-A — Digitalização pela secretaria e consulta de documentos em suporte físico
+
+1 - Sem prejuízo do disposto nos números seguintes, a apresentação de peças processuais e respetivos documentos em suporte físico, quando admitida pela lei, implica a sua digitalização pela respetiva secretaria.
+
+2 - Podem não ser digitalizados pela secretaria, sendo arquivados e conservados nos termos da lei, os documentos:
+
+a) Cujo suporte físico não seja em papel ou cujo papel tenha uma espessura superior a 127 g/m2 ou inferior a 50 g/m2;
+
+b) Em formatos superiores a A4;
+
+c) Que possam ser danificados pelo processo de digitalização, atendendo, designadamente, ao seu estado de conservação.
+
+3 - Os documentos que não se encontrem em suporte informático são consultados na secretaria onde é tramitado o respetivo processo, nos termos da lei.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30
+
+###### Artigo 13.º — Requisitos da transmissão eletrónica de dados
+
+O sistema informático de suporte à atividade dos tribunais assegura:
+
+a) A certificação da data e hora de expedição;
+
+b) A disponibilização ao utilizador de cópia da peça processual e dos documentos enviados com a aposição da data e hora de entrega certificada;
+
+c) A disponibilização ao utilizador de mensagem nos casos em que não seja possível a receção, informando da impossibilidade de entrega da peça processual e dos documentos através do sistema informático.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+###### Artigo 14.º — Ficheiro informático a solicitação do juiz
+
+Quando, nos casos previstos no n.º 8 do artigo 144.º do Código de Processo Civil, o juiz solicite, ao abrigo do disposto no n.º 5 do artigo 148.º do Código de Processo Civil, ficheiro informático contendo as peças apresentadas em suporte de papel, este deve ser enviado através do sistema informático de suporte à atividade dos tribunais.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+###### Artigo 15.º — Recursos
+
+1 - Sem prejuízo do disposto no número seguinte, em caso de recurso o processo é remetido eletronicamente através do sistema informático de suporte à atividade dos tribunais ao tribunal superior, sendo apenas remetido em suporte de papel o suporte físico do processo constituído nos termos do artigo 28.º
+
+2 - Nos recursos com subida em separado:
+
+a) As partes devem indicar, em complemento do disposto no n.º 1 do artigo 646.º do Código de Processo Civil, as peças ou documentos dos quais, por não constarem em formato eletrónico no processo e constarem apenas do suporte físico do mesmo, pretendam certidão para instruir o recurso;
+
+b) O recurso é remetido eletronicamente, através do sistema informático de suporte à atividade dos tribunais, ao tribunal superior, podendo este consultar por via eletrónica o processo e respetivos apensos que correm no tribunal recorrido.
+
+3 - Quando haja lugar a reclamação contra o indeferimento do recurso, esta é remetida eletronicamente, através do sistema informático de suporte à atividade dos tribunais, ao tribunal superior.
+
+4 - [Revogado.]
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30
+
+###### Artigo 15.º-A — Prática de atos perante administradores judiciais
+
+Quando a lei não imponha forma diversa, os atos processuais escritos dos mandatários praticados perante os administradores judiciais no âmbito dos processos regulados pelo Código da Insolvência e da Recuperação de Empresas, aprovado em anexo ao Decreto-Lei n.º 53/2004, de 18 de março, são praticados por transmissão eletrónica de dados através do sistema informático de suporte à atividade dos tribunais, aplicando-se com as necessárias adaptações o disposto na presente portaria quanto à prática de atos perante o tribunal.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2019-04-02
+
+###### Artigo 15.º-B — Requisitos técnicos para acesso e prática de atos
+
+1 - Os requisitos técnicos para acesso, consulta e prática eletrónica de atos processuais através do sistema informático de suporte à atividade dos tribunais ou da Área de Serviços Digitais dos Tribunais, por mandatários, pelas partes ou por quem revele interesse atendível na consulta, são fixados por despacho do membro do Governo responsável pela área de sistemas de informação da Justiça, o qual determina, nomeadamente:
+
+a) Os sistemas operativos suportados e respetivas versões;
+
+b) Os navegadores de acesso suportados e respetivas versões;
+
+c) O sistema de assinatura eletrónica de peças processuais.
+
+2 - O suporte técnico a incidentes relacionados com a utilização do sistema de suporte à atividade dos tribunais por mandatários e administradores judiciais apenas pode ser dado às incidências ocorridas com recurso à utilização das versões dos sistemas operativos e navegadores estabelecidos nos termos do número anterior e que sejam também contemporaneamente suportados pelo respetivo fabricante.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30
+
+### Capítulo III — Distribuição
+
+###### Artigo 16.º — Distribuição por meios eletrónicos
+
+1 - A distribuição dos atos processuais a que se refere a alínea f) do n.º 6 do artigo 1.º é efetuada de forma eletrónica, através do sistema informático de suporte à atividade dos tribunais.
+
+2 - A distribuição através do sistema informático não obsta a que se proceda a uma classificação manual prévia dos atos processuais quando não seja possível efetuar tal classificação de forma automática.
+
+3 - A distribuição eletrónica é efetuada uma vez por dia, nos dias úteis, em horário fixo a definir pelo presidente do tribunal, sem prejuízo da realização de distribuições extraordinárias quando a urgência do processo o justifique.
+
+4 - A distribuição eletrónica é efetuada por tribunal, exceto no caso dos tribunais de comarca, em que é efetuada por núcleo.
+
+5 - O tribunal publica a hora da distribuição ordinária na área de serviços digitais dos tribunais, acessível no endereço eletrónico https://tribunais.org.pt.
+
+6 - Os intervenientes nas distribuições, incluindo nas extraordinárias, são designados do seguinte modo:
+
+a) O presidente do tribunal designa um juiz para presidir e um substituto, para os casos em que aquele se encontre impedido;
+
+b) O magistrado do Ministério Público coordenador ou o magistrado do Ministério Público que assegure a coordenação do Ministério Público nos tribunais superiores designa um magistrado do Ministério Público para assistir e um substituto, para os casos em que aquele se encontre impedido;
+
+c) O administrador judiciário ou o secretário do tribunal superior designa um oficial de justiça para secretariar e um substituto, para os casos em que aquele se encontre impedido;
+
+d) A Ordem dos Advogados pode designar um advogado para assistir e um substituto, para os casos em que aquele se encontre impedido.
+
+7 - Caso haja necessidade de proceder a uma distribuição extraordinária, a hora e o local são comunicados, logo que possível, pela secretaria a quem, nos termos do número anterior, caiba designar os intervenientes.
+
+8 - Antes de se iniciar a operação de distribuição o oficial de justiça informa os intervenientes do local onde podem ser consultadas as decisões, as deliberações, os provimentos e as orientações que condicionam as operações de distribuição efetuadas naquele tribunal.
+
+9 - As decisões, as deliberações, os provimentos e as orientações que condicionam as operações de distribuição são publicadas e mantidas atualizadas pelo presidente do tribunal na área de serviços digitais dos tribunais, acessível no endereço eletrónico https://tribunais.org.pt, conservando-se o seu histórico.
+
+10 - Finda a operação de distribuição, o sistema apresenta os respetivos resultados e, por determinação do juiz que preside, é desencadeada no sistema informático uma nova operação de distribuição, ficando consignado em ata o seu fundamento, quando:
+
+a) Forem distribuídos processos a juízes que se saiba estarem impedidos de neles intervir;
+
+b) Se verificar alguma irregularidade ou erro.
+
+11 - Nos casos previstos do número anterior, a nova operação de distribuição abrange os processos e juízes relativamente aos quais se verificou a situação que a justifica e, no caso da alínea a), o sistema informático não permite que os processos sejam novamente distribuídos aos juízes impedidos.
+
+12 - Cabe ao juiz que preside declarar a conclusão das operações de distribuição.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 86/2023 - Diário da República n.º 61/2023, Série I de 2023-03-27](https://diariodarepublica.pt/dr/detalhe/portaria/86-2023-210982935), em vigor a partir de 2023-05-11
+
+###### Artigo 17.º — Tramitação da recusa de atos processuais eletrónicos
+
+1 - Tendo sido efetuada a distribuição eletrónica ou tendo sido os atos processuais praticados e apresentados eletronicamente, deve a unidade de processos verificar a ocorrência dos fundamentos de recusa previstos nas alíneas f) e h) do artigo 558.º do Código de Processo Civil.
+
+2 - Havendo fundamento para a recusa deve a unidade de processos efetuar a notificação da mesma por via eletrónica.
+
+3 - Sem prejuízo do benefício concedido ao autor nos termos do artigo 560.º do Código do Processo Civil, decorrido que seja o prazo para reclamação da recusa, ou, havendo reclamação, após o trânsito em julgado da decisão que confirme o não recebimento, considera-se a peça recusada, dando-se a respetiva baixa na distribuição.
+
+4 - (Revogado.)
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 86/2023 - Diário da República n.º 61/2023, Série I de 2023-03-27](https://diariodarepublica.pt/dr/detalhe/portaria/86-2023-210982935), em vigor a partir de 2023-05-11
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025), em vigor a partir de 2017-05-29
+
+###### Artigo 18.º — Pauta e ata
+
+1 - A publicação dos resultados da distribuição por meio de pauta é efetuada, às 17 horas de Portugal continental, na área de serviços digitais dos tribunais, acessível no endereço eletrónico https://tribunais.org.pt, durante um período de seis meses.
+
+2 - A ata documenta:
+
+a) A data da distribuição e as horas do seu início e fim;
+
+b) A identificação da unidade central em que ocorreu a distribuição;
+
+c) O nome e a função dos intervenientes;
+
+d) As operações de distribuição efetuadas;
+
+e) Os impedimentos identificados, os respetivos motivos e os processos abrangidos;
+
+f) A atribuição de um processo a um juiz e os respetivos fundamentos legais;
+
+g) As informações que os intervenientes pretendam consignar.
+
+3 - Os resultados de cada operação de distribuição constam em anexo à ata.
+
+4 - Declarada a conclusão da distribuição, a ata é assinada pelo juiz, pelo magistrado do Ministério Público, pelo oficial de justiça e pelo advogado.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 86/2023 - Diário da República n.º 61/2023, Série I de 2023-03-27](https://diariodarepublica.pt/dr/detalhe/portaria/86-2023-210982935), em vigor a partir de 2023-05-11
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2018-11-27
+
+### Capítulo IV — Atos de magistrados e funcionários judiciais
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+###### Artigo 19.º — Atos de magistrados
+
+1 - Os atos de magistrados judiciais e de magistrados do Ministério Público são praticados no sistema informático de suporte à atividade dos tribunais, com aposição de assinatura eletrónica qualificada ou avançada.
+
+2 - A assinatura eletrónica efetuada nos termos do número anterior substitui e dispensa para todos os efeitos a assinatura autógrafa em suporte de papel dos atos processuais.
+
+3 - O disposto no n.º 1 não é obrigatório para os atos praticados por juízes conselheiros nos processos no Supremo Tribunal de Justiça.
+
+4 - Quando, nos termos do número anterior, o ato não seja praticado no sistema informático de suporte à atividade dos tribunais, compete à respetiva secretaria proceder à sua digitalização e inserção no referido sistema.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30
+
+###### Artigo 20.º — Requisito adicional de segurança
+
+Para os efeitos previstos no artigo anterior, apenas podem ser utilizados os seguintes meios de assinatura eletrónica:
+
+a) Certificados de assinatura eletrónica qualificada emitidos no âmbito do Sistema de Certificação Eletrónica do Estado;
+
+b) Certificados de assinatura eletrónica avançada especialmente emitidos para o efeito pelo Instituto de Gestão Financeira e Equipamentos da Justiça, I. P..
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+###### Artigo 21.º — Atos dos funcionários
+
+1 - Os atos dos funcionários são praticados no sistema informático de suporte à atividade dos tribunais.
+
+2 - Os atos referidos no número anterior não carecem de qualquer tipo de assinatura para serem válidos nem devem ser impressos, valendo apenas, para todos os efeitos legais, a sua versão eletrónica.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+###### Artigo 22.º — Consulta de informação por via eletrónica
+
+1 - Quando, no âmbito do processo, seja necessário consultar informação disponível eletronicamente da titularidade de serviços da Administração Pública, essa consulta deve ser efetuada diretamente pelo tribunal por meios eletrónicos sempre que as condições técnicas o permitam.
+
+2 - A informação consultada nos termos do número anterior tem valor idêntico a uma certidão emitida pelo serviço competente, nos termos da lei.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+###### Artigo 23.º — Assinatura dos autos e termos pelas partes, seus representantes ou testemunhas
+
+Quando não for possível apor a assinatura eletrónica aos autos e termos que devem ser assinados pelas partes, seus representantes ou testemunhas, estes são impressos e é-lhes aposta assinatura autógrafa, devendo a respetiva secretaria arquivar e conservar os originais no processo correspondente.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+### Capítulo V — Citação edital e notificações
+
+###### Artigo 24.º — Citação edital
+
+O anúncio relativo à citação edital previsto no artigo 240.º do Código de Processo Civil é publicado na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2018-11-27
+
+###### Artigo 25.º — Notificações eletrónicas dirigidas a mandatários e ao Ministério Público
+
+1 - As notificações por transmissão eletrónica de dados dirigidas a mandatários são realizadas através do sistema informático de suporte à atividade dos tribunais, que assegura automaticamente a sua disponibilização e consulta no endereço eletrónico http://citius.tribunaisnet.mj.pt.
+
+2 - Quando o ato processual a notificar contenha documentos que apenas existam no processo em suporte físico, deve ser enviada cópia dos mesmos ao mandatário, por carta registada dirigida ao seu escritório ou domicílio escolhido, podendo igualmente ser notificado pessoalmente pelo funcionário quando se encontre no edifício do tribunal.
+
+3 - O disposto no presente artigo e no artigo seguinte aplica-se às notificações enviadas pelo ou para o Ministério Público.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30
+
+> Rectificado pelo/a [Declaração de Retificação n.º 44/2013 - Diário da República n.º 207/2013, Série I de 2013-10-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2013-502992), em vigor a partir de 2013-09-01, produz efeitos a partir de 2013-09-01
+
+###### Artigo 26.º — Notificações eletrónicas entre mandatários
+
+1 - O sistema informático de suporte à atividade dos tribunais assegura, mediante indicação do mandatário notificante, a notificação por transmissão eletrónica de dados automaticamente apôs a apresentação de qualquer peça processual ou documentos através do sistema informático de suporte à atividade dos tribunais.
+
+2 - Sem prejuízo do disposto nos números seguintes, o mandatário notificante fica dispensado do envio de qualquer cópia ou duplicado à contraparte da peça processual ou documento entregue através do sistema informático de suporte à atividade dos tribunais e de juntar aos autos documento comprovativo da data de notificação à contraparte.
+
+3 - Quando o ato processual a notificar contenha documentos entregues em suporte físico, nos termos do disposto no n.º 5 do artigo 6.º ou do n.º 4 do artigo 10.º, deve ser disponibilizada cópia dos mesmos à contraparte, no prazo máximo de cinco dias, por um dos meios previstos no n.º 7 do artigo 144.º do Código de Processo Civil, aplicável com as necessárias adaptações.
+
+4 - A declaração feita pelo mandatário, nos formulários, da data em que procedeu ou vai proceder ao envio dos documentos referidos no número anterior dispensa o envio de documento comprovativo desse envio, sem prejuízo de o juiz poder determinar a sua apresentação, caso a data declarada seja contestada ou exista outro motivo que o justifique.
+
+5 - Nos casos em que o mandatário declare, nos formulários, que vai proceder ao envio da notificação à contraparte, esse envio deve ser feito no prazo máximo de um dia útil.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+### Capítulo VI — Consulta eletrónica de processos
+
+###### Artigo 26.º-A — Consulta de processos
+
+1 - À consulta eletrónica de processos aplicam-se as restrições de acesso e consulta legalmente previstas.
+
+2 - Para efeitos do disposto no número anterior, o sistema informático de suporte à atividade dos tribunais garante a confidencialidade dos processos sempre que a lei determine limitações à sua publicidade, nomeadamente quando se trate de processos que se encontram em segredo de justiça.
+
+3 - Quando a consulta do processo pelo requerente dependa de prévio despacho do magistrado competente, a consulta eletrónica é solicitada à respetiva secretaria nos termos dos artigos 27.º e 27.º-A, que, em caso de deferimento parcial ou total do pedido, disponibiliza o processo ou parte dele pelo período de 10 dias.
+
+4 - Para efeitos do disposto no número anterior, considera-se ‘deferimento parcial’ aquele que resulte de despacho do magistrado competente que admita apenas a consulta pelo requerente de determinadas peças, documentos, autos, termos processuais ou outros elementos que constem do processo de forma individualizada, sem prejuízo do disposto no número seguinte, cabendo, nesse caso, à respetiva secretaria a classificação no sistema de informação dos elementos do processo que ficam excluídos da consulta.
+
+5 - O sistema de informação de suporte à atividade dos tribunais possibilita ao magistrado competente, ou à secretaria em cumprimento de despacho, a exclusão total da consulta eletrónica de elementos que constem do processo de forma individualizada, mas não de páginas ou partes desses documentos.
+
+6 - Nos casos em que o despacho do magistrado competente indefira a consulta de determinadas páginas ou partes de documentos, a consulta parcial do processo é efetuada junto da respetiva secretaria, não ficando o mesmo disponível para consulta por via eletrónica.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03, produz efeitos a partir de 2025-04-03
+
+###### Artigo 27.º — Consulta de processos por advogados e solicitadores
+
+1 - Quando admitida por lei ou despacho, a consulta de processos por parte de advogados, advogados estagiários e solicitadores é efetuada:
+
+a) Relativamente à informação processual, incluindo as peças e os documentos, existentes em suporte eletrónico, através do sistema informático de suporte à atividade dos tribunais, com base no número identificador do processo; ou
+
+b) Junto da respetiva secretaria.
+
+2 - O acesso ao sistema informático de suporte à atividade dos tribunais para efeitos de consulta de processos requer o prévio registo dos advogados e solicitadores, nos termos do n.º 2 do artigo 5.º
+
+3 - (Revogado.)
+
+4 - A consulta por advogados, advogados estagiários e solicitadores de processos nos quais não exerçam o mandato judicial, quando admitida por lei, é solicitada à respetiva secretaria através do sistema de informação de suporte à atividade dos tribunais, que disponibiliza o processo por um período de 10 dias para consulta na área reservada do mandatário naquele sistema.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03, produz efeitos a partir de 2025-04-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2019-04-02
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025), em vigor a partir de 2017-05-29
+
+###### Artigo 27.º-A — Consulta de processos por não mandatários
+
+1 - Quando admitida por lei ou despacho, a consulta dos processos nos tribunais judiciais por quem não é advogado, advogado-estagiário ou solicitador efetua-se na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, mediante autenticação prévia com recurso ao certificado digital de autenticação integrado no cartão do cidadão ou à chave móvel digital, podendo ser utilizado para o efeito o Sistema de Certificação de Atributos Profissionais associado a estes, e processa-se de acordo com os procedimentos e instruções constantes daquele endereço eletrónico.
+
+2 - O acesso à área reservada do endereço eletrónico referido no número anterior pode ser efetuado também, em computadores existentes para o efeito nos tribunais, através de código de acesso, válido por 4 horas, emitido por qualquer secretaria de um tribunal judicial ou administrativo e fiscal ou de serviço do Ministério Público, após confirmação presencial da identidade do requerente e, quando aplicável, dos seus poderes de representação.
+
+3 - (Revogado.)
+
+4 - No âmbito da consulta de processos executivos com agente de execução designado que não seja oficial de justiça, o agente de execução pode disponibilizar informações complementares sobre o estado do processo.
+
+5 - Quando a lei preveja a consulta de processo por quem nisso revele interesse atendível, esta efetua-se nos termos previstos nos n.os 1 e 2, sendo o processo disponibilizado na área reservada do referido endereço eletrónico apenas após apreciação do tribunal ou da respetiva secretaria, consoante os casos, e pelo período de 10 dias.
+
+6 - (Revogado.)
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03, produz efeitos a partir de 2025-04-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 170/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025), em vigor a partir de 2017-05-29
+
+### Capítulo VII — Organização do processo
+
+###### Artigo 28.º — Peças processuais e documentos em suporte físico
+
+1 - Do suporte físico do processo apenas devem constar as peças, os autos e os termos processuais que, sendo relevantes para a decisão material da causa, sejam indicados pelo magistrado competente, em despacho fundamentado em cada processo, considerando-se como não sendo relevantes, designadamente:
+
+a) Requerimentos para alteração da marcação de audiência de julgamento;
+
+b) Despachos de expediente e respetivos atos de cumprimento, que visem atos de mera gestão processual e respostas obtidas, tais como:
+
+i) Despachos que ordenem a citação ou notificação das partes;
+
+ii) Despachos de marcação de audiência de julgamento;
+
+iii) Despachos de remessa de um processo ao Ministério Público;
+
+iv) Despachos de realização de diligências entre serviços, nomeadamente órgãos de polícia criminal, conservatórias de registos, Instituto Nacional de Medicina Legal e Ciências Forenses, I. P., Direção-Geral de Reinserção e Serviços Prisionais e Direção-Geral da Segurança Social;
+
+v) Vistos em fiscalização e em correição;
+
+c) Aceitação da designação do agente de execução para efetuar a citação;
+
+d) Comunicações internas;
+
+e) Certidões negativas resultantes da consulta às bases de dados de serviços da Administração Pública através de meios eletrónicos;
+
+f) Atos próprios, comunicações ou notificações do agente de execução.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+> Retificado pelo/a [Declaração de Retificação n.º 16/2017 - Diário da República n.º 109/2017, Série I de 2017-06-06](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/16-2017-107477151), em vigor a partir de 2017-05-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 170/2017 - Diário da República n.º 101/2017, Série I de 2017-05-25](https://diariodarepublica.pt/dr/detalhe/portaria/170-2017-107078025), em vigor a partir de 2017-05-29
+
+### Capítulo VIII — Comunicações entre tribunais e entre tribunais e agentes de execução
+
+###### Artigo 29.º — Certidões
+
+1 - A passagem de certidões de termos e atos prevista no n.º 1 do artigo 170.º do Código de Processo Civil, quando tenha por fim a junção das mesmas a processo judicial pendente, é efetuada eletronicamente, devendo a secretaria enviar a certidão para o tribunal onde o referido processo foi distribuído.
+
+2 - O envio da certidão é efetuado, sempre que possível, através do sistema informático, com a indicação do processo a que se destina e de quem requereu a certidão.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+###### Artigo 30.º — Comunicação de atos entre serviços judiciais
+
+1 - A transmissão de quaisquer mensagens entre serviços judiciais e a expedição ou devolução de cartas precatórias deve ser efetuada, sempre que possível, através do sistema informático, sem prejuízo do disposto no n.º 5 do artigo 172.º do Código de Processo Civil quanto aos atos urgentes.
+
+2 - Nos casos previstos no artigo 175.º do Código de Processo Civil, não sendo possível o exame do autógrafo, planta, desenho ou gráfico em virtude do seu envio digital ou através de reprodução fotográfica digital, este é remetido com a carta por via postal registada.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+###### Artigo 31.º — Comunicação entre os tribunais e os agentes de execução
+
+1 - As comunicações entre os tribunais e os agentes de execução, incluindo notificações, envio de documentos ou qualquer outra mensagem do tribunal dirigida ao agente de execução ou do agente de execução dirigida ao processo, à secretaria ou destinada ao juiz ou ao magistrado do Ministério Público, são efetuadas através do sistema informático de suporte à atividade dos tribunais e do sistema informático de suporte à atividade dos agentes de execução, respetivamente.
+
+2 - A utilização dos sistemas informáticos referidos no número anterior deve garantir o registo das comunicações efetuadas, com identificação do respetivo emissor e destinatário, data de transmissão e número de processo a que a transmissão se refere.
+
+3 - Os documentos apresentados pelo agente de execução nos termos do n.º 1 têm a força probatória dos originais, nos termos definidos para as certidões, sem prejuízo de o juiz poder determinar a apresentação dos originais, nos termos da lei.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+### Capítulo IX — Disposições específicas aplicáveis aos processos da competência dos tribunais e juízos de execução de penas
+
+###### Artigo 32.º — Disposições aplicáveis
+
+Aos processos da competência dos tribunais ou juízos de execução das penas são aplicáveis as disposições da presente portaria, com as especificidades previstas no presente capítulo.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+###### Artigo 33.º — Processo único de recluso
+
+1 - Quando for recebida no tribunal de execução das penas comunicação de aplicação de pena ou medida privativa da liberdade, nos termos do artigo 35.º, é distribuído e autuado o processo único de recluso, se ainda não existir.
+
+2 - Os demais processos e incidentes relativos ao mesmo recluso são apensados aos autos referidos no número anterior.
+
+3 - Os autos referidos no n.º 1 são reabertos sempre que o tribunal o entender conveniente ou quando dê entrada expediente a que não deva corresponder forma de processo ou incidente autónomo.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+> Rectificado pelo/a [Declaração de Retificação n.º 44/2013 - Diário da República n.º 207/2013, Série I de 2013-10-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2013-502992), em vigor a partir de 2013-09-01, produz efeitos a partir de 2013-09-01
+
+###### Artigo 34.º — Publicação dos resultados da distribuição
+
+O disposto no artigo 18.º não é aplicável aos processos da competência dos tribunais ou juízos de execução das penas.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+###### Artigo 35.º — Comunicação da sentença e da aplicação de medida de coação
+
+1 - As comunicações previstas no artigo 477.º do Código de Processo Penal são realizadas pela secretaria judicial, a requerimento do Ministério Público, por transmissão eletrónica de dados, nos termos dos números seguintes.
+
+2 - São transmitidos os seguintes dados:
+
+a) Número do processo;
+
+b) Identificação do condenado;
+
+c) Crime ou crimes pelos quais houve condenação, identificados pelas designações dos tipos legais e pelas disposições legais onde estão previstos;
+
+d) Pena ou penas aplicadas na sentença;
+
+e) Datas calculadas e homologadas nos termos dos n.os 2, 3 e 4 do artigo 477.º do Código de Processo Penal.
+
+3 - Quando for aplicada ao arguido prisão preventiva ou internamento preventivo são transmitidos ao tribunal de execução das penas e aos serviços prisionais os seguintes dados:
+
+a) Número do processo;
+
+b) Identificação do arguido;
+
+c) Crime ou crimes imputados, identificados pelas designações dos tipos legais e pelas disposições legais onde estão previstos;
+
+d) Medida de coação aplicada.
+
+4 - Sempre que necessário, os dados referidos nos n.os 2 e 3 são preenchidos previamente pelo oficial de justiça.
+
+5 - À comunicação são anexados os ficheiros contendo a sentença e o cômputo da pena homologado ou o despacho de aplicação da medida de coação, respetivamente.
+
+6 - Quando não seja possível o envio dos documentos referidos no número anterior por via eletrónica ou quando estes estejam sujeitos a segredo de justiça, o envio é feito em suporte físico, sem prejuízo do disposto nos n.os 1 a 4.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+### Capítulo X — Disposições finais e transitórias
+
+###### Artigo 36.º — Envio do processo ao juiz de círculo
+
+Quando haja lugar à prática de atos pelo juiz de círculo, o processo é remetido eletronicamente através do sistema informático de suporte à atividade dos tribunais, só podendo ser enviados em suporte de papel os documentos relevantes para a decisão material da causa constantes do processo em suporte físico, nos termos do artigo 28.º, desde que o juiz o determine.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 266/2024/1 - Diário da República n.º 200/2024, Série I de 2024-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/266-2024-890961427), em vigor a partir de 2024-12-03
+
+###### Artigo 37.º — Norma revogatória
+
+São revogadas as Portarias n.os 114/2008, de 6 de fevereiro, e 1097/2006, de 13 de outubro.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+###### Artigo 38.º — Entrada de vigor
+
+A presente portaria entra em vigor a 1 de setembro de 2013.
+
+> Revogado pelo/a Artigo 40.º do/a [Portaria n.º 350-A/2025/1 - Diário da República n.º 195/2025, Suplemento, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/portaria/350-a-2025-939191643), em vigor a partir de 2025-10-20
+
+A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 21 de agosto de 2013.

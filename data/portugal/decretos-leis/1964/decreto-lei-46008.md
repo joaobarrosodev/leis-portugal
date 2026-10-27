@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:536610:por
+title: Decreto-Lei n.º 46008
+short_title: null
+summary: Cria no Ministério da Educação Nacional o cargo de Subsecretário de Estado da Juventude e Desportos - Mantém o cargo
+  de Subsecretário de Estado da Educação, que passa a denominar-se Subsecretário de Estado da Administração Escolar
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho
+proposing_entity: null
+official_number: '46008'
+official_date: null
+publication_date: '1964-11-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 261/1964, Série I de 1964-11-06
+  number: '261'
+  series: I
+  supplement: null
+  pages: 1575 - 1576
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/11/26100/15751576.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '536610'
+  dre_path: /dr/detalhe/decreto-lei/46008-1964-536610
+  internal: pt:dre:536610:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46008-1964-536610
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46008-1964-536610
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:51:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9bf624c9402bd2338eccf8a5b7378a0bb0078d7562cbafdf5de7c3994243626d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:51:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Lugares
+- Ministério da Educação Nacional
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:477645:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:51:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 46008
+
+Considerando o número cada vez maior e a complexidade também cada vez maior dos assuntos de que tem de se ocupar o Ministério da Educação Nacional;
+
+Considerando, em particular, a crescente importância que revestem os problemas da formação da juventude e os das actividades gimnodesportivas, que, aliás, desempenham relevante papel naquela formação;
+
+Considerando, em razão do exposto, a conveniência de haver no referido Ministério um Subsecretário de Estado que tenha por missão específica auxiliar o Ministro na resolução destes problemas;
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. É criado no Ministério da Educação Nacional o cargo de Subsecretário de Estado da Juventude e Desportos.
+
+2. O cargo de Subsecretário de Estado da Educação Nacional, criado pelo [Decreto-Lei n.º 30692](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30692-1940-477645), de 27 de Agosto de 1940, mantém-se, mas com mudança de denominação, que passa a ser a de Subsecretário de Estado da Administração Escolar.
+
+3. O Subsecretário de Estado da Administração Escolar, como titular do cargo mais antigo, tem precedência sobre o Subsecretário de Estado da Juventude e Desportos.
+
+Art. 2.º - 1. O Ministro da Educação Nacional estabelecerá a discriminação dos assuntos em que cada um dos respectivos Subsecretários intervirá, em colaboração com ele ou por delegação sua, dentro da ideia geral de que o Subsecretário de Estado da Administração Escolar se ocupará de assuntos de carácter administrativo e pedagógico e o Subsecretário de Estado da Juventude e Desportos de assuntos relativos à formação da juventude e actividades gimnodesportivas.
+
+2. Cada um dos Subsecretários substitui o outro nas suas faltas ou impedimentos.
+
+Art. 3.º O presente decreto-lei entra imediatamente em vigor.
+
+Publique-se cumpra-se como nele se contém.
+
+Paços do Governo da República, 6 de Novembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

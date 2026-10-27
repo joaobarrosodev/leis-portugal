@@ -1,0 +1,416 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002L0091:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002L0091-20120201",
+ "dre_path": null,
+ "source_lastmod": "2012-02-01",
+ "versions": [
+  {
+   "date": "2003-01-04",
+   "future": false,
+   "celex": "32002L0091",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "06157e0f34a50a7a",
+    "39df3174703f9bbd",
+    "1a8c9060d7150b2a",
+    "f5ec9735e24fb8eb",
+    "5dd54193d8f12521",
+    "4434d53dac56ca1f",
+    "7aeb1ccf7c6cef97",
+    "4133ef55b8ee26cf",
+    "bc0088409d6b186c",
+    "97009e56815ce610",
+    "9620691027928e7b",
+    "8533dbe45cc446fe",
+    "635e771d935cdffc",
+    "86faf2f5be283d23",
+    "c5e708a31cce61b3",
+    "f0801aa722dbb625",
+    "99ea121f2be12856",
+    "5ad74c98f8e7dd3a",
+    "754ce11746569e10"
+   ]
+  },
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "celex": "02002L0091-20081211",
+   "acts": [
+    {
+     "id": "eu:celex:32008R1137:por",
+     "title": "REGULAMENTO (CE) N. o 1137/2008 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Outubro de 2008",
+     "published": null,
+     "celex": "32008R1137"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Adopção da metodologia",
+    "Altera Artigo 8.º — Inspecção de caldeiras",
+    "Altera Artigo 13.º — Adaptação do enquadramento para a metodologia de cálculo",
+    "Altera Artigo 17.º — Destinatários",
+    "Adita Artigo 14.º",
+    "Adita ANEXO",
+    "Adita Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.º)",
+    "Adita Notas",
+    "Suprime Artigo 14.º — Comité",
+    "Suprime ANEXO — Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.o)"
+   ],
+   "fragments": [
+    "5989f5a133bcbdc7",
+    "39df3174703f9bbd",
+    "872b2d4024bc4988",
+    "8ad94546f49690df",
+    "5f45a47c2bf25499",
+    "76eed870f37af9f3",
+    "3135bf4d7f02382e",
+    "719c47a6d1bc16f0",
+    "a758076058e2e909",
+    "97009e56815ce610",
+    "9620691027928e7b",
+    "181646b63402f452",
+    "635e771d935cdffc",
+    "fcbfdbe47ed501d2",
+    "4482364b03e7eb4e",
+    "aa3c0dbcf5ad2dff",
+    "6ca3cad250ba522c",
+    "337c24ec8d19d764",
+    "10220b9774fa9034",
+    "023140a3e074d408",
+    "25df1a9504d2c6ff"
+   ]
+  },
+  {
+   "date": "2012-02-01",
+   "future": false,
+   "celex": "02002L0091-20120201",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objectivo",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Adopção da metodologia",
+    "Suprime Artigo 4.º — Estabelecimento de requisitos de desempenho energético",
+    "Suprime Artigo 5.º — Edifícios novos",
+    "Suprime Artigo 6.º — Edifícios existentes",
+    "Suprime Artigo 7.º — Certificado de desempenho energético",
+    "Suprime Artigo 8.º — Inspecção de caldeiras",
+    "Suprime Artigo 9.º — Inspecção dos sistemas de ar condicionado",
+    "Suprime Artigo 10.º — Peritos independentes",
+    "Suprime Artigo 11.º — Avaliação",
+    "Suprime Artigo 12.º — Informação",
+    "Suprime Artigo 13.º — Adaptação do enquadramento para a metodologia de cálculo",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º — Transposição",
+    "Suprime Artigo 16.º — Entrada em vigor",
+    "Suprime Artigo 17.º — Destinatários",
+    "Suprime ANEXO",
+    "Suprime Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.º)",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "f48384c03e4ea68e"
+   ]
+  }
+ ],
+ "fragments": {
+  "06157e0f34a50a7a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2002/91/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002, relativa ao desempenho energético dos edifícios** *Jornal Oficial nº L 001 de 04/01/2003 p. 0065 - 0071*\n\nDirectiva 2002/91/CE do Parlamento Europeu e do Conselho\n\nde 16 de Dezembro de 2002\n\nrelativa ao desempenho energético dos edifícios\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente o n.o 1 do seu artigo 175.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nTendo em conta o parecer do Comité das Regiões(3),\n\nDeliberando nos termos do artigo 251.o do Tratado(4),\n\nConsiderando o seguinte:\n\n(1) O artigo 6.o do Tratado prevê que as exigências de protecção do ambiente sejam integradas na definição e execução das políticas e acções da Comunidade.\n\n(2) Os recursos naturais, a cuja utilização prudente e racional se refere o artigo 174.o do Tratado, incluem os produtos petrolíferos, o gás natural e os combustíveis sólidos, que constituem fontes de energia essenciais e, simultaneamente, as principais fontes de emissão de dióxido de carbono.\n\n(3) A maior eficiência energética constitui uma parte importante do pacote de políticas e de medidas necessárias ao cumprimento do Protocolo de Quioto, devendo pois constar de qualquer pacote de políticas que visem o cumprimento de outros compromissos.\n\n(4) A gestão da procura de energia é um importante instrumento para a Comunidade ter influência no mercado global da energia e, por conseguinte, na segurança do abastecimento energético a médio e longo prazos.\n\n(5) Nas suas conclusões de 30 de Maio e 5 de Dezembro de 2000, o Conselho aprovou o plano de acção da Comissão para a eficiência energética e pediu medidas específicas para o sector dos edifícios.\n\n(6) O sector residencial e terciário, a maior parte do qual constituído por edifícios, absorve mais de 40 % do consumo final de energia da Comunidade e encontra-se em expansão, tendência que deverá vir a acentuar o respectivo consumo de energia e, por conseguinte, as correspondentes emissões de dióxido de carbono.\n\n(7) A Directiva 93/76/CEE do Conselho, de 13 de Setembro de 1993, relativa à limitação das emissões de dióxido de carbono através do aumento da eficácia energética (SAVE)(5), e que impõe que os Estados-Membros elaborem, apliquem e comuniquem programas relativos à eficiência energética dos edifícios, começa agora a evidenciar alguns benefícios importantes. É todavia necessário um instrumento jurídico complementar para instituir acções mais concretas, com vista a materializar o grande potencial não consumado de economias de energia e reduzir as grandes diferenças entre os Estados-Membros no que respeita aos resultados neste sector.\n\n(8) A Directiva 89/106/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros no que respeita aos produtos de construção(6), impõe que a obra e as instalações de aquecimento, arrefecimento e ventilação sejam concebidas e realizadas de modo a que a quantidade de energia necessária à sua utilização seja baixa, tendo em conta as condições climáticas do local e os ocupantes.\n\n(9) As medidas destinadas a melhorar o desempenho energético dos edifícios deverão ter em conta as condições climáticas e locais, bem como o ambiente interior e a rentabilidade económica. Essas medidas não contrariarão outros requisitos essenciais relativos aos edifícios, tais como a acessibilidade, as regras da boa arte e a utilização prevista do edifício.\n\n(10) O desempenho energético dos edifícios deve ser calculado com base numa metodologia, que poderá ser diferenciada a nível regional, que integre, para além do isolamento térmico, outros factores com influência crescente, como as instalações de aquecimento e ar condicionado, a aplicação de fontes de energia renováveis e a concepção dos próprios edifícios. Uma abordagem comum deste processo, por intermédio de peritos qualificados e/ou acreditados, cuja independência deverá ser garantida com base em critérios objectivos, contribuirá para nivelar as condições no que respeita aos esforços desenvolvidos nos Estados-Membros em matéria de economia de energia no sector dos edifícios e conferirá transparência aos potenciais proprietários ou utentes no que respeita ao desempenho energético do mercado imobiliário comunitário.\n\n(11) A Comissão tenciona desenvolver determinadas normas, como a EN 832 e a prEN 13790, para terem também em conta os sistemas de ar condicionado e de iluminação.\n\n(12) Dado o impacto que, a longo prazo, os edifícios vão ter em termos de consumo de energia, os novos edifícios deverão cumprir requisitos mínimos de desempenho energético, adaptados às condições climáticas locais. As boas práticas deverão, neste contexto, orientar-se para a melhor utilização possível de factores relevantes para reforçar o desempenho energético. Como a aplicação de sistemas alternativos de fornecimento de energia não está, em geral, aproveitada no seu máximo potencial, justifica-se uma avaliação da viabilidade técnica, ambiental e económica desses sistemas. Essa avaliação pode ser efectuada pelos Estados-Membros, através de um estudo que resultará numa lista de medidas de conservação da energia, para condições médias do mercado local, que satisfaçam critérios de rentabilidade económica. Antes do arranque da construção, poderão ser necessários estudos específicos caso a medida, ou medidas, sejam consideradas viáveis.\n\n(13) As grandes obras de renovação de edifícios existentes acima de uma determinada dimensão devem ser consideradas uma oportunidade para tomar medidas economicamente rentáveis de melhoria do desempenho energético. Grandes obras de renovação são os casos em que o custo total da renovação relacionada com a envolvente do edifício e/ou instalações de energia, como o aquecimento, o fornecimento de água quente, o ar condicionado, a ventilação e a iluminação é superior a 25 % do valor do edifício, excluindo o valor do terreno em que este está situado, ou em que é renovada mais de 25 % da envolvente do edifício.\n\n(14) Todavia, a melhoria do desempenho energético global de um edifício existente não significa necessariamente a renovação total do edifício, podendo limitar-se aos componentes que são mais importantes para o seu desempenho energético e que são economicamente rentáveis.\n\n(15) Os requisitos para a renovação dos edifícios existentes não deverão ser incompatíveis com a função pretendida, a qualidade ou o carácter do edifício. Deverá ser possível recuperar os custos suplementares inerentes a essa renovação dentro de um prazo razoável em relação à vida técnica esperada do investimento com as correspondentes economias de energia.\n\n(16) O processo de certificação pode ser apoiado por programas com o objectivo de facilitar um acesso equitativo ao aumento do desempenho energético, ou baseado em acordos entre organizações de partes interessadas e um organismo designado pelo Estado-Membro ou realizado por empresas de serviços de energia que concordem em se comprometer na realização dos investimentos identificados. Estes regimes devem ser supervisados e acompanhados pelos Estados-Membros, que deverão igualmente facilitar o recurso a sistemas de incentivo. Na medida do possível, o certificado deve descrever a situação efectiva do desempenho energético do edifício, podendo ser revisto nesse sentido. Os edifícios públicos e os edifícios frequentemente visitados pelo público devem dar o exemplo de tomar na devida conta as considerações ambientais e energéticas, pelo que devem ser regularmente sujeitos à certificação energética. A divulgação ao público desta informação sobre desempenho energético deve ser reforçada, mediante uma exibição clara dos certificados energéticos. Além disso, a exibição das temperaturas interiores oficialmente recomendadas, juntamente com a temperatura efectivamente medida, deverá desencorajar a utilização incorrecta dos sistemas de aquecimento, ar condicionado e ventilação e contribuir assim para evitar o desperdício de energia e salvaguardar condições climáticas confortáveis (conforto térmico) em relação à temperatura exterior.\n\n(17) Os Estados-Membros também podem utilizar outros meios ou medidas não mencionados na presente directiva, a fim de incentivar um maior rendimento energético. Os Estados-Membros devem encorajar a boa gestão energética, tendo em conta a intensidade da utilização dos edifícios.\n\n(18) Nos últimos anos o número de aparelhos de ar condicionado tem vindo a aumentar nos países do sul da Europa. Este facto cria importantes dificuldades nas horas de ponta, problema que tem por consequência um aumento do preço da energia eléctrica e uma deterioração do equilíbrio energético nesses países. Consequentemente deverá ser dada prioridade a estratégias que contribuam para melhorar o comportamento térmico dos edifícios durante o Verão. Concretamente, devem desenvolver-se ainda mais as técnicas de arrefecimento passivo, principalmente as que contribuem para melhorar a qualidade do clima interior e o microclima em torno dos edifícios.\n\n(19) A manutenção regular das caldeiras e dos sistemas de ar condicionado por pessoal qualificado contribui para manter estes dispositivos correctamente regulados, de acordo com as suas especificações, de forma a garantir o seu funcionamento optimizado nas perspectivas do ambiente, da segurança e da energia. É pertinente uma avaliação independente de toda a instalação de aquecimento sempre que, por motivos de rentabilidade económica, possa ser de considerar a sua substituição.\n\n(20) A facturação, aos inquilinos dos edifícios, dos custos de aquecimento, ar condicionado e água quente, calculados em proporção ao consumo efectivo, poderá contribuir para a poupança de energia no sector residencial. Os inquilinos devem ter a possibilidade de regular o seu próprio consumo de aquecimento e água quente, na medida em que tal seja eficaz em termos de custos.\n\n(21) Segundo os princípios da subsidiariedade e da proporcionalidade, previstos no artigo 5.o do Tratado, os princípios gerais de um sistema de requisitos de desempenho energético e respectivos objectivos devem ser estabelecidos a nível comunitário, mas as normas de execução devem ser deixadas ao critério dos Estados-Membros, permitindo-lhes assim determinar o regime que melhor corresponda à sua situação específica. A presente directiva limita-se ao mínimo exigido para a consecução desses objectivos, não ultrapassando o que para tal se torne necessário.\n\n(22) Deve ser prevista a possibilidade de o método de cálculo do desempenho energético dos edifícios ser rapidamente adaptado e de os Estados-Membros procederem regularmente à revisão dos requisitos mínimos em função do progresso técnico - nomeadamente no que respeita às propriedades (ou qualidade) de isolamento do material de construção e da evolução em matéria de normalização.\n\n(23) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(7),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "39df3174703f9bbd": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO objectivo da presente directiva é promover a melhoria do desempenho energético dos edifícios na Comunidade, tendo em conta as condições climáticas externas e as condições locais, bem como as exigências em matéria de clima interior e a rentabilidade económica.\n\nA presente directiva estabelece requisitos em matéria de:\n\na) Enquadramento geral para uma metodologia de cálculo do desempenho energético integrado dos edifícios;\n\nb) Aplicação de requisitos mínimos para o desempenho energético dos novos edifícios;\n\nc) Aplicação de requisitos mínimos para o desempenho energético dos grandes edifícios existentes que sejam sujeitos a importantes obras de renovação;\n\nd) Certificação energética dos edifícios; e\n\ne) Inspecção regular de caldeiras e instalações de ar condicionado nos edifícios e, complementarmente, avaliação da instalação de aquecimento quando as caldeiras tenham mais de 15 anos."
+  },
+  "1a8c9060d7150b2a": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. \"Edifício\", uma construção coberta, com paredes, na qual é utilizada energia para condicionar o clima interior; este termo pode designar a totalidade de um edifício ou partes dele que tenham sido concebidas ou alteradas a fim de serem utilizadas separadamente;\n\n2. \"Rendimento energético de um edifício\", a quantidade de energia efectivamente consumida ou calculada para satisfazer as diferentes necessidades associadas à utilização normalizada do edifício, que podem incluir, entre outras, o aquecimento, o aquecimento da água, a refrigeração, a ventilação e a iluminação. Esta fracção deve ser traduzida por um ou mais indicadores numéricos, cujo cálculo tenha tido em conta o isolamento, as características técnicas e da instalação, a concepção e a localização em relação aos aspectos climáticos, a orientação e a influência das estruturas vizinhas, a autoprodução de energia e outros factores, incluindo o clima interior, com influência nas necessidades de energia;\n\n3. \"Certificado de desempenho energético de um edifício\", um certificado reconhecido pelo Estado-Membro ou por uma pessoa colectiva designada por esse Estado, que inclui o resultado do cálculo do desempenho energético do edifício segundo uma metodologia com base no enquadramento geral definido no anexo;\n\n4. \"Co-geração (produção combinada de calor e electricidade)\", a conversão simultânea de combustíveis primários em energia mecânica ou eléctrica e térmica, satisfazendo certos critérios de qualidade de eficiência energética;\n\n5. \"Sistema de ar condicionado\", a combinação de todos os componentes necessários para fornecer uma forma de tratamento do ar em que a temperatura é controlada ou pode ser reduzida, eventualmente em combinação com o controlo da ventilação, humidade e pureza do ar;\n\n6. \"Caldeira\", o conjunto formado pelo corpo da caldeira e pelo queimador, destinado a transmitir à água o calor libertado por um processo de combustão;\n\n7. \"Potência nominal útil (expressa em kW)\", a potência calorífica máxima fixada e garantida pelo construtor, que pode ser fornecida em funcionamento contínuo, respeitando o rendimento útil por ele anunciado;\n\n8. \"Bomba de calor\", o dispositivo ou a instalação que extrai calor a baixa temperatura do ar, da água ou da terra e que fornece calor ao edifício."
+  },
+  "f5ec9735e24fb8eb": {
+   "fragment_id": "Artigo 3.º — Adopção da metodologia",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Adopção da metodologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Adopção da metodologia\n\nOs Estados-Membros aplicam uma metodologia, a nível nacional ou regional, para o cálculo do desempenho energético dos edifícios, com base no enquadramento geral estabelecido no anexo. As partes 1 e 2 deste enquadramento são adaptadas ao progresso técnico nos termos do n.o 2 do artigo 14.o, tendo em conta os requisitos ou normas em vigor na legislação do Estado-Membro.\n\nEste método é estabelecido a nível nacional ou regional.\n\nO desempenho energético de um edifício deve ser expresso de modo transparente, podendo incluir um indicador de emissão de CO2."
+  },
+  "5dd54193d8f12521": {
+   "fragment_id": "Artigo 4.º — Estabelecimento de requisitos de desempenho energético",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Estabelecimento de requisitos de desempenho energético",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estabelecimento de requisitos de desempenho energético\n\n1. Os Estados-Membros tomam as medidas necessárias para assegurar que sejam estabelecidos requisitos mínimos em matéria de desempenho energético dos edifícios, com base na metodologia a que se refere o artigo 3.o Ao estabelecer os requisitos, os Estados-Membros podem fazer uma distinção entre edifícios novos e edifícios existentes e entre diferentes categorias de edifícios. Estes requisitos devem ter em conta as condições gerais de clima interior, de forma a evitar possíveis impactos negativos, como uma ventilação inadequada, bem como as particularidades locais, a utilização a que se destina o edifício e a sua idade. Estes requisitos devem ser revistos a intervalos regulares que não deverão ser superiores a cinco anos e, se necessário, actualizados a fim de reflectir o progresso técnico no sector dos edifícios.\n\n2. Os requisitos de desempenho energético são aplicados nos termos dos artigos 5.o e 6.o\n\n3. Os Estados-Membros podem decidir não estabelecer ou aplicar os requisitos a que se refere o n.o 1 às seguintes categorias de edifícios:\n\n- edifícios e monumentos oficialmente protegidos como parte de determinado ambiente ou devido ao seu valor arquitectónico ou histórico especial, quando o cumprimento dos requisitos altere de forma inaceitável o seu carácter ou aspecto,\n\n- edifícios utilizados como locais de culto ou para actividades religiosas,\n\n- edifícios temporários, com um período previsto de utilização máximo de dois anos, instalações industriais, oficinas e edifícios agrícolas não residenciais com necessidade reduzida de energia e edifícios agrícolas não residenciais utilizados por um sector abrangido por um acordo sectorial nacional sobre desempenho energético,\n\n- edifícios residenciais destinados a serem utilizados durante menos de quatro meses por ano,\n\n- edifícios autónomos com uma área útil total inferior a 50 m2,"
+  },
+  "4434d53dac56ca1f": {
+   "fragment_id": "Artigo 5.º — Edifícios novos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Edifícios novos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Edifícios novos\n\nOs Estados-Membros tomam as medidas necessárias para assegurar que os edifícios novos cumpram os requisitos mínimos de desempenho energético indicados no artigo 4.o\n\nRelativamente aos edifícios novos com uma área útil total superior a 1000 m2, os Estados-Membros devem assegurar que seja estudada a viabilidade técnica, ambiental e económica de sistemas alternativos, tais como:\n\n- sistemas descentralizados de fornecimento energético baseados em energias renováveis,\n\n- co-geração,\n\n- sistemas urbanos ou colectivos de aquecimento ou arrefecimento, se existirem,\n\n- bombas de calor, sob certas condições,\n\ne que esta seja tomada em consideração antes de se iniciar a construção."
+  },
+  "7aeb1ccf7c6cef97": {
+   "fragment_id": "Artigo 6.º — Edifícios existentes",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Edifícios existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Edifícios existentes\n\nOs Estados-Membros tomam as medidas necessárias para assegurar que, aquando da realização de obras de renovação importantes em edifícios com uma área útil total superior a 1000 m2, o seu desempenho energético seja melhorado, de forma a cumprir requisitos mínimos, na medida em que tal seja possível do ponto de vista técnico, funcional e económico. Os Estados-Membros definem esses requisitos mínimos de desempenho energético com base nos requisitos de desempenho energético estabelecidos para os edifícios nos termos do artigo 4.o Os requisitos podem ser estabelecidos para o edifício renovado no seu conjunto ou para os sistemas ou componentes renovados quando estes façam parte de uma renovação a efectuar dentro de um prazo limitado, com o objectivo acima referido de melhorar o desempenho energético global do edifício."
+  },
+  "4133ef55b8ee26cf": {
+   "fragment_id": "Artigo 7.º — Certificado de desempenho energético",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Certificado de desempenho energético",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Certificado de desempenho energético\n\n1. Os Estados-Membros asseguram que, aquando da construção, da venda ou do arrendamento de um edifício, seja fornecido um certificado de desempenho energético ao proprietário ou por este ao potencial comprador ou arrendatário, consoante o caso. A validade do certificado não deve ser superior a 10 anos.\n\nA certificação para apartamentos ou unidades concebidas para utilização separada em edifícios pode ser baseada:\n\n- numa certificação comum de todo o edifício, para edifícios com um sistema de aquecimento comum,\n\n- na avaliação de outro apartamento representativo no mesmo edifício.\n\nOs Estados-Membros podem excluir da aplicação do presente número as categorias a que se refere o n.o 3 do artigo 4.o\n\n2. O certificado de desempenho energético de um edifício deve incluir valores de referência, como valores regulamentares legais e marcos comparativos, para que os consumidores possam comparar e avaliar o desempenho energético do edifício. O certificado deve ser acompanhado de recomendações relativas à melhoria do desempenho energético sob condições de rentabilidade económica.\n\nO objectivo dos certificados limita-se ao fornecimento de informação, e quaisquer efeitos desses certificados em termos de procedimentos legais ou outros são decididos segundo as normas nacionais.\n\n3. Quanto aos edifícios com uma área útil total superior a 1000 m2 ocupados por autoridades públicas e por instituições que prestem serviços públicos a um grande número de pessoas e sejam por isso frequentemente visitados por essas pessoas, os Estados-Membros devem tomar as medidas necessárias para assegurar que seja afixado em posição de destaque, claramente visível pelo público em geral, um certificado de desempenho energético com 10 anos no máximo.\n\nTambém pode ser claramente afixada a gama de temperaturas interiores recomendadas e a verificada e, se for caso disso, outros factores climáticos relevantes."
+  },
+  "bc0088409d6b186c": {
+   "fragment_id": "Artigo 8.º — Inspecção de caldeiras",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Inspecção de caldeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inspecção de caldeiras\n\nNo que se refere à redução do consumo de energia e à limitação das emissões de dióxido de carbono, os Estados-Membros devem:\n\na) Estabelecer as medidas necessárias para uma inspecção regular das caldeiras alimentadas por combustíveis líquidos ou sólidos não renováveis de potência nominal útil de 20 a 100 kW. Essa inspecção pode também ser aplicada a caldeiras que utilizem outros combustíveis.\n\nAs caldeiras com uma potência nominal útil superior a 100 kW devem ser inspeccionadas pelo menos de dois em dois anos. Para as caldeiras a gás, este período pode ser aumentado para quatro anos.\n\nRelativamente às instalações de aquecimento com caldeiras cuja potência nominal útil seja superior a 20 kW e com mais de 15 anos, os Estados-Membros devem estabelecer as medidas necessárias para ser efectuada uma inspecção única de toda a instalação de aquecimento. Com base nesta inspecção, que inclui uma avaliação do rendimento da caldeira e da adequação da sua capacidade em função dos requisitos de aquecimento do edifício, os peritos devem fornecer aos utilizadores recomendações sobre a substituição das caldeiras, outras alterações ao sistema de aquecimento e sobre soluções alternativas; ou\n\nb) Tomar medidas para assegurar que sejam fornecidas recomendações aos utilizadores sobre a substituição das caldeiras, outras alterações ao sistema de aquecimento e sobre soluções alternativas que podem incluir inspecções para avaliar a eficiência e a potência adequada da caldeira. O impacto geral desta abordagem deve ser aproximadamente equivalente ao que resulta do disposto na alínea a). Os Estados-Membros que adoptem esta opção devem apresentar à Comissão, de dois em dois anos, um relatório sobre a equivalência da sua abordagem."
+  },
+  "97009e56815ce610": {
+   "fragment_id": "Artigo 9.º — Inspecção dos sistemas de ar condicionado",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Inspecção dos sistemas de ar condicionado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Inspecção dos sistemas de ar condicionado\n\nNo que se refere à redução do consumo de energia e à limitação das emissões de dióxido de carbono, os Estados-Membros devem estabelecer as medidas necessárias para uma inspecção regular dos sistemas de ar condicionado com potência nominal útil superior a 12 kW.\n\nEssa inspecção inclui uma avaliação do desempenho do sistema de ar condicionado e a adequação da sua potência em função dos requisitos de climatização do edifício. Devem ser fornecidas aos utilizadores recomendações sobre a eventual melhoria ou substituição do sistema de ar condicionado e soluções alternativas."
+  },
+  "9620691027928e7b": {
+   "fragment_id": "Artigo 10.º — Peritos independentes",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Peritos independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Peritos independentes\n\nOs Estados-Membros asseguram que a certificação dos edifícios e a elaboração das recomendações de acompanhamento, bem como a inspecção das caldeiras e sistemas de ar condicionado sejam efectuadas de forma independente por peritos qualificados e/ou acreditados, actuando a título individual ou ao serviço de organismos públicos ou privados."
+  },
+  "8533dbe45cc446fe": {
+   "fragment_id": "Artigo 11.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Avaliação\n\nA Comissão, assistida pelo comité criado pelo artigo 14.o, procede à avaliação da presente directiva em função da experiência adquirida durante a sua aplicação e, se necessário, apresentará propostas relativas, designadamente, a:\n\na) Eventuais medidas complementares respeitantes às obras de renovação em edifícios com uma área útil total inferior a 1000m2;\n\nb) Incentivos gerais relativos a novas medidas de eficiência energética em edifícios."
+  },
+  "635e771d935cdffc": {
+   "fragment_id": "Artigo 12.º — Informação",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informação\n\nOs Estados-Membros podem tomar as medidas necessárias para informar os utilizadores de edifícios sobre os vários métodos e práticas que contribuem para a melhoria do desempenho energético. A pedido dos Estados-Membros, a Comissão assistirá os Estados-Membros na realização de campanhas de informação, que poderão ser objecto de programas comunitários."
+  },
+  "86faf2f5be283d23": {
+   "fragment_id": "Artigo 13.º — Adaptação do enquadramento para a metodologia de cálculo",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Adaptação do enquadramento para a metodologia de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Adaptação do enquadramento para a metodologia de cálculo\n\nAs partes 1 e 2 do anexo são reanalisadas a intervalos regulares, não inferiores a dois anos.\n\nAs alterações eventualmente necessárias para adaptar as partes 1 e 2 do anexo ao progresso técnico são aprovadas nos termos do n.o 2 do artigo 14.o"
+  },
+  "c5e708a31cce61b3": {
+   "fragment_id": "Artigo 14.º — Comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comité\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE tendo-se em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "f0801aa722dbb625": {
+   "fragment_id": "Artigo 15.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 4 de Janeiro de 2006 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Quando não disponham de peritos qualificados e/ou acreditados em número suficiente, os Estados-Membros poderão beneficiar de um período adicional de três anos para aplicar integralmente o disposto nos artigos 7.o, 8.o e 9.o Sempre que recorram a esta possibilidade, os Estados-Membros devem notificar a Comissão, fornecendo-lhe uma justificação apropriada, bem como um calendário relativo à execução da presente directiva."
+  },
+  "99ea121f2be12856": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "5ad74c98f8e7dd3a": {
+   "fragment_id": "Artigo 17.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 16 de Dezembro de 2002.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nO Presidente\n\nM. Fischer Boel\n\n(1) JO C 213 E de 31.7.2001, p. 266 e JO C 203 E de 27.8.2002, p. 69.\n\n(2) JO C 36 de 8.2.2002, p. 20.\n\n(3) JO C 107 de 3.5.2002, p. 76.\n\n(4) Parecer do Parlamento Europeu de 6 de Fevereiro de 2002 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 7 de Junho de 2002 (JO C 197 E de 20.8.2002, p. 6) e decisão do Parlamento Europeu de 10 de Outubro de 2002 (ainda não publicada no Jornal Oficial).\n\n(5) JO L 237 de 22.9.1993, p. 28.\n\n(6) JO L 40 de 11.2.1989, p. 12.\n\n(7) JO L 184 de 17.7.1999, p. 23."
+  },
+  "754ce11746569e10": {
+   "fragment_id": "ANEXO — Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.o)",
+   "type": "divisao",
+   "heading": "ANEXO — Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.o)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.o)\n\n1. A metodologia de cálculo do desempenho energético dos edifícios integrará pelo menos os seguintes aspectos:\n\na) Características térmicas do edifício (envolvente e divisões internas, etc.). Estas características poderão também incluir a estanquidade ao ar;\n\nb) Instalação de aquecimento e fornecimento de água quente, incluindo as respectivas características de isolamento;\n\nc) Instalação de ar condicionado;\n\nd) Ventilação;\n\ne) Instalação fixa de iluminação (em especial do sector não residencial);\n\nf) Posição e orientação dos edifícios, incluindo condições climáticas exteriores;\n\ng) Sistemas solares passivos e protecção solar;\n\nh) Ventilação natural;\n\ni) Condições climáticas interiores, incluindo as de projecto.\n\n2. Neste cálculo, deve ser tida em conta, quando for caso disso, a influência positiva dos seguintes aspectos:\n\na) Sistemas solares activos e outros sistemas de aquecimento e produção de electricidade baseados em fontes de energia renováveis;\n\nb) Electricidade produzida por sistemas de co-geração;\n\nc) Sistemas urbanos ou colectivos de aquecimento e arrefecimento;\n\nd) Iluminação natural.\n\n3. Para efeitos deste cálculo, os edifícios devem ser devidamente classificados em categorias tais como:\n\na) Habitações unifamiliares de diversos tipos;\n\nb) Edifícios de apartamentos;\n\nc) Edifícios de escritórios;\n\nd) Estabelecimentos escolares;\n\ne) Hospitais;\n\nf) Hotéis e restaurantes;\n\ng) Instalações desportivas;\n\nh) Edifícios destinados a serviços de comércio grossista e retalhista;\n\ni) Outros tipos de edifícios que consomem energia."
+  },
+  "5989f5a133bcbdc7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 2002\n\nrelativa ao desempenho energético dos edifícios\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente o n.º 1 do seu artigo 175.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#E0004)),\n\n(1) O artigo 6.º do Tratado prevê que as exigências de protecção do ambiente sejam integradas na definição e execução das políticas e acções da Comunidade.\n\n(2) Os recursos naturais, a cuja utilização prudente e racional se refere o artigo 174.º do Tratado, incluem os produtos petrolíferos, o gás natural e os combustíveis sólidos, que constituem fontes de energia essenciais e, simultaneamente, as principais fontes de emissão de dióxido de carbono.\n\n(3) A maior eficiência energética constitui uma parte importante do pacote de políticas e de medidas necessárias ao cumprimento do Protocolo de Quioto, devendo pois constar de qualquer pacote de políticas que visem o cumprimento de outros compromissos.\n\n(4) A gestão da procura de energia é um importante instrumento para a Comunidade ter influência no mercado global da energia e, por conseguinte, na segurança do abastecimento energético a médio e longo prazos.\n\n(5) Nas suas conclusões de 30 de Maio e 5 de Dezembro de 2000, o Conselho aprovou o plano de acção da Comissão para a eficiência energética e pediu medidas específicas para o sector dos edifícios.\n\n(6) O sector residencial e terciário, a maior parte do qual constituído por edifícios, absorve mais de 40 % do consumo final de energia da Comunidade e encontra-se em expansão, tendência que deverá vir a acentuar o respectivo consumo de energia e, por conseguinte, as correspondentes emissões de dióxido de carbono.\n\n(7) A Directiva 93/76/CEE do Conselho, de 13 de Setembro de 1993, relativa à limitação das emissões de dióxido de carbono através do aumento da eficácia energética (SAVE) ([^5^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#E0005)), e que impõe que os Estados-Membros elaborem, apliquem e comuniquem programas relativos à eficiência energética dos edifícios, começa agora a evidenciar alguns benefícios importantes. É todavia necessário um instrumento jurídico complementar para instituir acções mais concretas, com vista a materializar o grande potencial não consumado de economias de energia e reduzir as grandes diferenças entre os Estados-Membros no que respeita aos resultados neste sector.\n\n(8) A Directiva 89/106/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros no que respeita aos produtos de construção ([^6^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#E0006)), impõe que a obra e as instalações de aquecimento, arrefecimento e ventilação sejam concebidas e realizadas de modo a que a quantidade de energia necessária à sua utilização seja baixa, tendo em conta as condições climáticas do local e os ocupantes.\n\n(9) As medidas destinadas a melhorar o desempenho energético dos edifícios deverão ter em conta as condições climáticas e locais, bem como o ambiente interior e a rentabilidade económica. Essas medidas não contrariarão outros requisitos essenciais relativos aos edifícios, tais como a acessibilidade, as regras da boa arte e a utilização prevista do edifício.\n\n(10) O desempenho energético dos edifícios deve ser calculado com base numa metodologia, que poderá ser diferenciada a nível regional, que integre, para além do isolamento térmico, outros factores com influência crescente, como as instalações de aquecimento e ar condicionado, a aplicação de fontes de energia renováveis e a concepção dos próprios edifícios. Uma abordagem comum deste processo, por intermédio de peritos qualificados e/ou acreditados, cuja independência deverá ser garantida com base em critérios objectivos, contribuirá para nivelar as condições no que respeita aos esforços desenvolvidos nos Estados-Membros em matéria de economia de energia no sector dos edifícios e conferirá transparência aos potenciais proprietários ou utentes no que respeita ao desempenho energético do mercado imobiliário comunitário.\n\n(11) A Comissão tenciona desenvolver determinadas normas, como a EN 832 e a prEN 13790, para terem também em conta os sistemas de ar condicionado e de iluminação.\n\n(12) Dado o impacto que, a longo prazo, os edifícios vão ter em termos de consumo de energia, os novos edifícios deverão cumprir requisitos mínimos de desempenho energético, adaptados às condições climáticas locais. As boas práticas deverão, neste contexto, orientar-se para a melhor utilização possível de factores relevantes para reforçar o desempenho energético. Como a aplicação de sistemas alternativos de fornecimento de energia não está, em geral, aproveitada no seu máximo potencial, justifica-se uma avaliação da viabilidade técnica, ambiental e económica desses sistemas. Essa avaliação pode ser efectuada pelos Estados-Membros, através de um estudo que resultará numa lista de medidas de conservação da energia, para condições médias do mercado local, que satisfaçam critérios de rentabilidade económica. Antes do arranque da construção, poderão ser necessários estudos específicos caso a medida, ou medidas, sejam consideradas viáveis.\n\n(13) As grandes obras de renovação de edifícios existentes acima de uma determinada dimensão devem ser consideradas uma oportunidade para tomar medidas economicamente rentáveis de melhoria do desempenho energético. Grandes obras de renovação são os casos em que o custo total da renovação relacionada com a envolvente do edifício e/ou instalações de energia, como o aquecimento, o fornecimento de água quente, o ar condicionado, a ventilação e a iluminação é superior a 25 % do valor do edifício, excluindo o valor do terreno em que este está situado, ou em que é renovada mais de 25 % da envolvente do edifício.\n\n(14) Todavia, a melhoria do desempenho energético global de um edifício existente não significa necessariamente a renovação total do edifício, podendo limitar-se aos componentes que são mais importantes para o seu desempenho energético e que são economicamente rentáveis.\n\n(15) Os requisitos para a renovação dos edifícios existentes não deverão ser incompatíveis com a função pretendida, a qualidade ou o carácter do edifício. Deverá ser possível recuperar os custos suplementares inerentes a essa renovação dentro de um prazo razoável em relação à vida técnica esperada do investimento com as correspondentes economias de energia.\n\n(16) O processo de certificação pode ser apoiado por programas com o objectivo de facilitar um acesso equitativo ao aumento do desempenho energético, ou baseado em acordos entre organizações de partes interessadas e um organismo designado pelo Estado-Membro ou realizado por empresas de serviços de energia que concordem em se comprometer na realização dos investimentos identificados. Estes regimes devem ser supervisados e acompanhados pelos Estados-Membros, que deverão igualmente facilitar o recurso a sistemas de incentivo. Na medida do possível, o certificado deve descrever a situação efectiva do desempenho energético do edifício, podendo ser revisto nesse sentido. Os edifícios públicos e os edifícios frequentemente visitados pelo público devem dar o exemplo de tomar na devida conta as considerações ambientais e energéticas, pelo que devem ser regularmente sujeitos à certificação energética. A divulgação ao público desta informação sobre desempenho energético deve ser reforçada, mediante uma exibição clara dos certificados energéticos. Além disso, a exibição das temperaturas interiores oficialmente recomendadas, juntamente com a temperatura efectivamente medida, deverá desencorajar a utilização incorrecta dos sistemas de aquecimento, ar condicionado e ventilação e contribuir assim para evitar o desperdício de energia e salvaguardar condições climáticas confortáveis (conforto térmico) em relação à temperatura exterior.\n\n(17) Os Estados-Membros também podem utilizar outros meios ou medidas não mencionados na presente directiva, a fim de incentivar um maior rendimento energético. Os Estados-Membros devem encorajar a boa gestão energética, tendo em conta a intensidade da utilização dos edifícios.\n\n(18) Nos últimos anos o número de aparelhos de ar condicionado tem vindo a aumentar nos países do sul da Europa. Este facto cria importantes dificuldades nas horas de ponta, problema que tem por consequência um aumento do preço da energia eléctrica e uma deterioração do equilíbrio energético nesses países. Consequentemente deverá ser dada prioridade a estratégias que contribuam para melhorar o comportamento térmico dos edifícios durante o Verão. Concretamente, devem desenvolver-se ainda mais as técnicas de arrefecimento passivo, principalmente as que contribuem para melhorar a qualidade do clima interior e o microclima em torno dos edifícios.\n\n(19) A manutenção regular das caldeiras e dos sistemas de ar condicionado por pessoal qualificado contribui para manter estes dispositivos correctamente regulados, de acordo com as suas especificações, de forma a garantir o seu funcionamento optimizado nas perspectivas do ambiente, da segurança e da energia. É pertinente uma avaliação independente de toda a instalação de aquecimento sempre que, por motivos de rentabilidade económica, possa ser de considerar a sua substituição.\n\n(20) A facturação, aos inquilinos dos edifícios, dos custos de aquecimento, ar condicionado e água quente, calculados em proporção ao consumo efectivo, poderá contribuir para a poupança de energia no sector residencial. Os inquilinos devem ter a possibilidade de regular o seu próprio consumo de aquecimento e água quente, na medida em que tal seja eficaz em termos de custos.\n\n(21) Segundo os princípios da subsidiariedade e da proporcionalidade, previstos no artigo 5.º do Tratado, os princípios gerais de um sistema de requisitos de desempenho energético e respectivos objectivos devem ser estabelecidos a nível comunitário, mas as normas de execução devem ser deixadas ao critério dos Estados-Membros, permitindo-lhes assim determinar o regime que melhor corresponda à sua situação específica. A presente directiva limita-se ao mínimo exigido para a consecução desses objectivos, não ultrapassando o que para tal se torne necessário.\n\n(22) Deve ser prevista a possibilidade de o método de cálculo do desempenho energético dos edifícios ser rapidamente adaptado e de os Estados-Membros procederem regularmente à revisão dos requisitos mínimos em função do progresso técnico — nomeadamente no que respeita às propriedades (ou qualidade) de isolamento do material de construção e da evolução em matéria de normalização.\n\n(23) As medidas necessárias à execução da presente directiva serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#E0007)),\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "872b2d4024bc4988": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\n1. «Edifício», uma construção coberta, com paredes, na qual é utilizada energia para condicionar o clima interior; este termo pode designar a totalidade de um edifício ou partes dele que tenham sido concebidas ou alteradas a fim de serem utilizadas separadamente;\n\n2. «Rendimento energético de um edifício», a quantidade de energia efectivamente consumida ou calculada para satisfazer as diferentes necessidades associadas à utilização normalizada do edifício, que podem incluir, entre outras, o aquecimento, o aquecimento da água, a refrigeração, a ventilação e a iluminação. Esta fracção deve ser traduzida por um ou mais indicadores numéricos, cujo cálculo tenha tido em conta o isolamento, as características técnicas e da instalação, a concepção e a localização em relação aos aspectos climáticos, a orientação e a influência das estruturas vizinhas, a autoprodução de energia e outros factores, incluindo o clima interior, com influência nas necessidades de energia;\n\n3. «Certificado de desempenho energético de um edifício», um certificado reconhecido pelo Estado-Membro ou por uma pessoa colectiva designada por esse Estado, que inclui o resultado do cálculo do desempenho energético do edifício segundo uma metodologia com base no enquadramento geral definido no anexo;\n\n4. «Co-geração (produção combinada de calor e electricidade)», a conversão simultânea de combustíveis primários em energia mecânica ou eléctrica e térmica, satisfazendo certos critérios de qualidade de eficiência energética;\n\n5. «Sistema de ar condicionado», a combinação de todos os componentes necessários para fornecer uma forma de tratamento do ar em que a temperatura é controlada ou pode ser reduzida, eventualmente em combinação com o controlo da ventilação, humidade e pureza do ar;\n\n6. «Caldeira», o conjunto formado pelo corpo da caldeira e pelo queimador, destinado a transmitir à água o calor libertado por um processo de combustão;\n\n7. «Potência nominal útil (expressa em kW)», a potência calorífica máxima fixada e garantida pelo construtor, que pode ser fornecida em funcionamento contínuo, respeitando o rendimento útil por ele anunciado;\n\n8. «Bomba de calor», o dispositivo ou a instalação que extrai calor a baixa temperatura do ar, da água ou da terra e que fornece calor ao edifício."
+  },
+  "8ad94546f49690df": {
+   "fragment_id": "Artigo 3.º — Adopção da metodologia",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Adopção da metodologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Adopção da metodologia\n\nOs Estados-Membros aplicam uma metodologia, a nível nacional ou regional, para o cálculo do desempenho energético dos edifícios, com base no enquadramento geral estabelecido no anexo da presente directiva. A Comissão adapta as partes 1 e 2 do anexo ao progresso técnico, tendo em conta os requisitos ou normas em vigor na legislação nacional. Essas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo referido no n.º 2 do artigo 14.º.\n\nEste método é estabelecido a nível nacional ou regional.\n\nO desempenho energético de um edifício deve ser expresso de modo transparente, podendo incluir um indicador de emissão de CO2."
+  },
+  "5f45a47c2bf25499": {
+   "fragment_id": "Artigo 4.º — Estabelecimento de requisitos de desempenho energético",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Estabelecimento de requisitos de desempenho energético",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estabelecimento de requisitos de desempenho energético\n\n1. Os Estados-Membros tomam as medidas necessárias para assegurar que sejam estabelecidos requisitos mínimos em matéria de desempenho energético dos edifícios, com base na metodologia a que se refere o artigo 3.º Ao estabelecer os requisitos, os Estados-Membros podem fazer uma distinção entre edifícios novos e edifícios existentes e entre diferentes categorias de edifícios. Estes requisitos devem ter em conta as condições gerais de clima interior, de forma a evitar possíveis impactos negativos, como uma ventilação inadequada, bem como as particularidades locais, a utilização a que se destina o edifício e a sua idade. Estes requisitos devem ser revistos a intervalos regulares que não deverão ser superiores a cinco anos e, se necessário, actualizados a fim de reflectir o progresso técnico no sector dos edifícios.\n\n2. Os requisitos de desempenho energético são aplicados nos termos dos artigos 5.º e 6.º\n\n3. Os Estados-Membros podem decidir não estabelecer ou aplicar os requisitos a que se refere o n.º 1 às seguintes categorias de edifícios:\n\n— edifícios e monumentos oficialmente protegidos como parte de determinado ambiente ou devido ao seu valor arquitectónico ou histórico especial, quando o cumprimento dos requisitos altere de forma inaceitável o seu carácter ou aspecto,\n\n— edifícios utilizados como locais de culto ou para actividades religiosas,\n\n— edifícios temporários, com um período previsto de utilização máximo de dois anos, instalações industriais, oficinas e edifícios agrícolas não residenciais com necessidade reduzida de energia e edifícios agrícolas não residenciais utilizados por um sector abrangido por um acordo sectorial nacional sobre desempenho energético,\n\n— edifícios residenciais destinados a serem utilizados durante menos de quatro meses por ano,\n\n— edifícios autónomos com uma área útil total inferior a 50 m^2^,"
+  },
+  "76eed870f37af9f3": {
+   "fragment_id": "Artigo 5.º — Edifícios novos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Edifícios novos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Edifícios novos\n\nOs Estados-Membros tomam as medidas necessárias para assegurar que os edifícios novos cumpram os requisitos mínimos de desempenho energético indicados no artigo 4.º\n\nRelativamente aos edifícios novos com uma área útil total superior a 1000 m^2^, os Estados-Membros devem assegurar que seja estudada a viabilidade técnica, ambiental e económica de sistemas alternativos, tais como:\n\n— sistemas descentralizados de fornecimento energético baseados em energias renováveis,\n\n— co-geração,\n\n— sistemas urbanos ou colectivos de aquecimento ou arrefecimento, se existirem,\n\n— bombas de calor, sob certas condições,\n\ne que esta seja tomada em consideração antes de se iniciar a construção."
+  },
+  "3135bf4d7f02382e": {
+   "fragment_id": "Artigo 6.º — Edifícios existentes",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Edifícios existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Edifícios existentes\n\nOs Estados-Membros tomam as medidas necessárias para assegurar que, aquando da realização de obras de renovação importantes em edifícios com uma área útil total superior a 1000 m^2^, o seu desempenho energético seja melhorado, de forma a cumprir requisitos mínimos, na medida em que tal seja possível do ponto de vista técnico, funcional e económico. Os Estados-Membros definem esses requisitos mínimos de desempenho energético com base nos requisitos de desempenho energético estabelecidos para os edifícios nos termos do artigo 4.º Os requisitos podem ser estabelecidos para o edifício renovado no seu conjunto ou para os sistemas ou componentes renovados quando estes façam parte de uma renovação a efectuar dentro de um prazo limitado, com o objectivo acima referido de melhorar o desempenho energético global do edifício."
+  },
+  "719c47a6d1bc16f0": {
+   "fragment_id": "Artigo 7.º — Certificado de desempenho energético",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Certificado de desempenho energético",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Certificado de desempenho energético\n\n1. Os Estados-Membros asseguram que, aquando da construção, da venda ou do arrendamento de um edifício, seja fornecido um certificado de desempenho energético ao proprietário ou por este ao potencial comprador ou arrendatário, consoante o caso. A validade do certificado não deve ser superior a 10 anos.\n\nA certificação para apartamentos ou unidades concebidas para utilização separada em edifícios pode ser baseada:\n\n— numa certificação comum de todo o edifício, para edifícios com um sistema de aquecimento comum,\n\n— na avaliação de outro apartamento representativo no mesmo edifício.\n\nOs Estados-Membros podem excluir da aplicação do presente número as categorias a que se refere o n.º 3 do artigo 4.º\n\n2. O certificado de desempenho energético de um edifício deve incluir valores de referência, como valores regulamentares legais e marcos comparativos, para que os consumidores possam comparar e avaliar o desempenho energético do edifício. O certificado deve ser acompanhado de recomendações relativas à melhoria do desempenho energético sob condições de rentabilidade económica.\n\nO objectivo dos certificados limita-se ao fornecimento de informação, e quaisquer efeitos desses certificados em termos de procedimentos legais ou outros são decididos segundo as normas nacionais.\n\n3. Quanto aos edifícios com uma área útil total superior a 1000 m^2^ ocupados por autoridades públicas e por instituições que prestem serviços públicos a um grande número de pessoas e sejam por isso frequentemente visitados por essas pessoas, os Estados-Membros devem tomar as medidas necessárias para assegurar que seja afixado em posição de destaque, claramente visível pelo público em geral, um certificado de desempenho energético com 10 anos no máximo.\n\nTambém pode ser claramente afixada a gama de temperaturas interiores recomendadas e a verificada e, se for caso disso, outros factores climáticos relevantes."
+  },
+  "a758076058e2e909": {
+   "fragment_id": "Artigo 8.º — Inspecção de caldeiras",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Inspecção de caldeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Inspecção de caldeiras\n\nNo que se refere à redução do consumo de energia e à limitação das emissões de dióxido de carbono, os Estados-Membros devem:\n\na) Estabelecer as medidas necessárias para uma inspecção regular das caldeiras alimentadas por combustíveis líquidos ou sólidos não renováveis de potência nominal útil de 20 a 100 kW. Essa inspecção pode também ser aplicada a caldeiras que utilizem outros combustíveis.\n\nb) Tomar medidas para assegurar que sejam fornecidas recomendações aos utilizadores sobre a substituição das caldeiras, outras alterações ao sistema de aquecimento e sobre soluções alternativas que podem incluir inspecções para avaliar a eficiência e a potência adequada da caldeira. O impacto geral desta abordagem deve ser aproximadamente equivalente ao que resulta do disposto na alínea a). Os Estados-Membros que adoptem esta opção devem apresentar à Comissão, de dois em dois anos, um relatório sobre a equivalência da sua abordagem."
+  },
+  "181646b63402f452": {
+   "fragment_id": "Artigo 11.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Avaliação\n\nA Comissão, assistida pelo comité criado pelo artigo 14.º, procede à avaliação da presente directiva em função da experiência adquirida durante a sua aplicação e, se necessário, apresentará propostas relativas, designadamente, a:\n\na) Eventuais medidas complementares respeitantes às obras de renovação em edifícios com uma área útil total inferior a 1000m^2^;\n\nb) Incentivos gerais relativos a novas medidas de eficiência energética em edifícios."
+  },
+  "fcbfdbe47ed501d2": {
+   "fragment_id": "Artigo 13.º — Adaptação do enquadramento para a metodologia de cálculo",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Adaptação do enquadramento para a metodologia de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Adaptação do enquadramento para a metodologia de cálculo\n\nAs partes 1 e 2 do anexo são reanalisadas a intervalos regulares, não inferiores a dois anos.\n\nAs adaptações das partes 1 e 2 do anexo da presente directiva ao progresso técnico, que consistam em medidas que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se referem o n.º 2 do artigo 14.º."
+  },
+  "4482364b03e7eb4e": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nProcedimento de comité\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "aa3c0dbcf5ad2dff": {
+   "fragment_id": "Artigo 15.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 4 de Janeiro de 2006 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Quando não disponham de peritos qualificados e/ou acreditados em número suficiente, os Estados-Membros poderão beneficiar de um período adicional de três anos para aplicar integralmente o disposto nos artigos 7.º, 8.º e 9.º Sempre que recorram a esta possibilidade, os Estados-Membros devem notificar a Comissão, fornecendo-lhe uma justificação apropriada, bem como um calendário relativo à execução da presente directiva."
+  },
+  "6ca3cad250ba522c": {
+   "fragment_id": "Artigo 16.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "337c24ec8d19d764": {
+   "fragment_id": "Artigo 17.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "023140a3e074d408": {
+   "fragment_id": "Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.º)",
+   "type": "divisao",
+   "heading": "Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Enquadramento geral para o cálculo do desempenho energético dos edifícios (artigo 3.º)\n\n1. A metodologia de cálculo do desempenho energético dos edifícios integrará pelo menos os seguintes aspectos:\n\na) Características térmicas do edifício (envolvente e divisões internas, etc.). Estas características poderão também incluir a estanquidade ao ar;\n\nb) Instalação de aquecimento e fornecimento de água quente, incluindo as respectivas características de isolamento;\n\nc) Instalação de ar condicionado;\n\nd) Ventilação;\n\ne) Instalação fixa de iluminação (em especial do sector não residencial);\n\nf) Posição e orientação dos edifícios, incluindo condições climáticas exteriores;\n\ng) Sistemas solares passivos e protecção solar;\n\nh) Ventilação natural;\n\ni) Condições climáticas interiores, incluindo as de projecto.\n\n2. Neste cálculo, deve ser tida em conta, quando for caso disso, a influência positiva dos seguintes aspectos:\n\na) Sistemas solares activos e outros sistemas de aquecimento e produção de electricidade baseados em fontes de energia renováveis;\n\nb) Electricidade produzida por sistemas de co-geração;\n\nc) Sistemas urbanos ou colectivos de aquecimento e arrefecimento;\n\nd) Iluminação natural.\n\n3. Para efeitos deste cálculo, os edifícios devem ser devidamente classificados em categorias tais como:\n\na) Habitações unifamiliares de diversos tipos;\n\nb) Edifícios de apartamentos;\n\nc) Edifícios de escritórios;\n\nd) Estabelecimentos escolares;\n\ne) Hospitais;\n\nf) Hotéis e restaurantes;\n\ng) Instalações desportivas;\n\nh) Edifícios destinados a serviços de comércio grossista e retalhista;\n\ni) Outros tipos de edifícios que consomem energia.\n\n---"
+  },
+  "25df1a9504d2c6ff": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#src.E0001)) JO C 213 E de 31.7.2001, p. 266 e JO C 203 E de 27.8.2002, p. 69.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#src.E0002)) JO C 36 de 8.2.2002, p. 20.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#src.E0003)) JO C 107 de 3.5.2002, p. 76.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 6 de Fevereiro de 2002 (ainda não publicado no Jornal Oficial), posição comum do Conselho de 7 de Junho de 2002 (JO C 197 E de 20.8.2002, p. 6) e decisão do Parlamento Europeu de 10 de Outubro de 2002 (ainda não publicada no Jornal Oficial).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#src.E0005)) JO L 237 de 22.9.1993, p. 28.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#src.E0006)) JO L 40 de 11.2.1989, p. 12.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/63a03f2b-dda7-4525-bb14-5f320b1f4abd.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "f48384c03e4ea68e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002L0091 — PT — 01.02.2012 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002L0091) [DIRECTIVA 2002/91/CE DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32002L0091) [de 16 de Dezembro de 2002](http://publications.europa.eu/resource/celex/32002L0091) [relativa ao desempenho energético dos edifícios](http://publications.europa.eu/resource/celex/32002L0091) (JO L 001, 4.1.2003, p.65)\n\n**revogado por:**\n\n- [Directiva 2010/31/UE do Parlamento Europeu e do Conselho de 19 de Maio de 2010](http://publications.europa.eu/resource/celex/32010L0031) — L 153 — 13 — 18.6.2010"
+  }
+ }
+}

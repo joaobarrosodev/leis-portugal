@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: pt:dre:147385:por
+title: Decreto-Lei n.º 513-Y/79
+short_title: null
+summary: Estabelece disposições relativas à formalidade do visto dos processos pelo Tribunal de Contas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 513-Y/79
+official_date: null
+publication_date: '1979-12-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 297/1979, 1º Suplemento, Série I de 1979-12-27
+  number: '297'
+  series: I
+  supplement: null
+  pages: 3366-(14) a 3366-(15)
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29701/00140015.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '147385'
+  dre_path: /dr/detalhe/decreto-lei/513-y-1979-147385
+  internal: pt:dre:147385:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-y-1979-147385
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-y-1979-147385
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:24:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0b4e797f6bb477071d9f974b028bab531ff97dcd639e4735e7f3537c202568a0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Admissão de Pessoal
+- Aquisição de Bens e Serviços
+- Empreitada de Obras Públicas
+- Fiscalização
+- Formas de Provimento
+- Gestão de Recursos Humanos
+- Tribunal de Contas
+- Visto do Tribunal de Contas
+relationships:
+- type: cites
+  target: pt:dre:299429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416391:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582381:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:24:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 513-Y/79
+
+de 27 de Dezembro
+
+O empolamento actual das actividades da Administração Pública no campo da reestruturação de quadros e da criação de novos serviços veio reflectir-se de modo sensível na acção do Tribunal de Contas, cujos serviços do visto não têm podido responder atempadamente ao anormal afluxo de processos, prejudicando assim, particularmente, a correcta movimentação do pessoal.
+
+No sentido de tentar desbloquear a situação, considerou-se aconselhável não só tornar mais simples a organização dos processos e alargar o campo das isenções à formalidade do visto, mas, especialmente, estabelecer como regra que os diplomas respeitantes a provimento de lugares possam ser executados na sua plenitude, incluindo a tomada de posse dos funcionários e o processamento de abonos, antes do visto do Tribunal, desde que a entidade competente, normalmente o Ministro da pasta, reconheça expressamente a urgente conveniência de serviço.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os diplomas ou despachos para provimento de cargos ou lugares deverão ser remetidos ao Tribunal acompanhados pelos documentos seguintes:
+
+a) Declaração, feita pelo interessado, de que não exerce qualquer cargo ou função nos serviços do Estado, de autarquias locais ou pessoas colectivas de utilidade pública administrativa, nem fica abrangido por quaisquer disposições legais relativas a incompatibilidades, ou declaração do cargo ou função que porventura exerça em qualquer das condições mencionadas, com expressa indicação de que dele pediu a exoneração, caso se verifique incompatibilidade ou acumulação não permitida;
+
+b) Declaração do responsável do serviço a que pertence o lugar a prover de que o provido reúne todas as condições legais para o provimento e de que se cumpriram todas as formalidades exigidas por lei, com observação, se for caso disso, das disposições do artigo 4.º do [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro, e da alínea b) do n.º 3 do artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, e ainda, quando se trate de indivíduo que não seja funcionário do Estado, de que se encontra arquivada no processo individual do interessado a documentação exigida para o provimento;
+
+c) Documento comprovativo das habilitações literárias.
+
+Art. 2.º O preenchimento de cargos ou lugares, mesmo nos casos de alteração de quadros ou de reorganização de serviços, deve ser operado por diploma individual de provimento, excepto na hipótese prevista no n.º 2 do artigo 4.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, segundo a redacção dada pelo artigo único do [Decreto-Lei n.º 257/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1978-299429), de 29 de Agosto, em que será objecto de lista nominativa.
+
+Art. 3.º - 1 - Nos casos de urgente conveniência de serviço expressamente declarada pela autoridade competente, os diplomas ou despachos que impliquem a admissão ou a mudança da situação jurídico-funcional do pessoal podem ser executados e produzir os seus efeitos, designadamente quanto ao exercício de funções e processamento de abonos, antes do visto do Tribunal de Contas e da publicação no Diário da República.
+
+2 - Do texto dos diplomas ou despachos a submeter a visto deverá constar o reconhecimento da urgente conveniência de serviço referida no número anterior.
+
+3 - No prazo de sessenta dias a contar da data do despacho de autorização serão os respectivos processos remetidos ao Tribunal para efeito de visto, suspendendo-se os abonos a partir do dia imediato ao termo daquele prazo se até então a remessa não for efectuada.
+
+4 - Os processos devolvidos aos serviços para obtenção de informações complementares ou remessa de documentos deverão ser de novo remetidos ao Tribunal dentro de trinta dias após a data da devolução, considerando-se sem efeito quando tal não se verifique, daí resultando a cessação dos abonos.
+
+5 - No caso de não serem respeitados os prazos fixados nos n.os 3 e 4 por negligência ou culpa dos serviços, deverá ser instaurado procedimento disciplinar contra o funcionário ou funcionários responsáveis.
+
+6 - Sem prejuízo da comunicação a que se refere o artigo 59.º do Regimento aprovado pelo [Decreto n.º 1831](https://diariodarepublica.pt/dr/detalhe/decreto/1831-1915-416391), de 17 de Agosto de 1915, a recusa do visto aos diplomas e despachos referidos no n.º 1 deste artigo será também comunicada aos serviços respectivos por ofício da Direcção-Geral do Tribunal de Contas, acompanhado de uma cópia da resolução, e determina a cessação dos abonos a partir da data em que da recusa for dado conhecimento ao interessado, o que deverá verificar-se no prazo de quinze dias contados a partir da data do mesmo ofício, não havendo lugar à reposição das remunerações já percebidas.
+
+Art. 4.º O disposto na segunda parte do n.º 1 e nos n.os 4, 5 e 6 do artigo anterior aplica-se aos diplomas ou despachos pendentes de decisão no Tribunal de Contas, os quais poderão ser imediatamente executados se acerca deles for declarada pela entidade competente a urgente conveniência de serviço.
+
+Art. 5.º Para além das isenções expressamente previstas noutras disposições legais, não carecem de visto do Tribunal, mas tão-somente da publicação prévia no Diário da República, os diplomas ou despachos referentes a:
+
+a) Reversão de vencimento de exercício;
+
+b) Fixação de gratificações;
+
+c) Requisição e destacamento de pessoal;
+
+d) Nomeações interinas ou em comissão de serviço, quando esta não seja a forma normal do provimento dos cargos;
+
+e) Substituição de cargos.
+
+Art. 6.º Os processos referentes a empreitadas ou fornecimentos de material, sujeitos a visto, serão instruídos com o duplicado do documento a visar, com cópia ou fotocópia autenticada do aviso de abertura do concurso público ou da autorização da dispensa deste ou da realização de concurso limitado, bem como, sendo caso disso, do caderno de encargos e do auto de abertura das propostas.
+
+Art. 7.º - 1 - Não estão sujeitos a visto os títulos definitivos dos contratos precedidos de minuta visada, devendo os serviços, no prazo de trinta dias após a celebração desses contratos, remeter ao Tribunal cópias ou fotocópias devidamente autenticadas dos contratos, a fim de ser verificada a sua conformidade.
+
+2 - Os emolumentos previstos no artigo 6.º do [Decreto-Lei n.º 356/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1973-421409), de 14 de Julho, são contados pelo valor da minuta visada e devidos após a celebração do respectivo contrato.
+
+Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco.
+
+Promulgado em 17 de Dezembro de 1979.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

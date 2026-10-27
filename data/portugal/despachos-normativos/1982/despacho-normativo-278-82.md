@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:379310:por
+title: Despacho Normativo n.º 278/82
+short_title: null
+summary: Aprova a programação escalonada de preenchimento de lugares vagos e nunca providos do Instituto Geográfico e Cadastral
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Reforma Administrativa - Instituto Geográfico e Cadastral
+proposing_entity: null
+official_number: 278/82
+official_date: null
+publication_date: '1982-12-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 286/1982, Série I de 1982-12-13
+  number: '286'
+  series: I
+  supplement: null
+  pages: 4088 - 4089
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/12/28600/40884089.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '379310'
+  dre_path: /dr/detalhe/despacho-normativo/278-1982-379310
+  internal: pt:dre:379310:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/278-1982-379310
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/278-1982-379310
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:19:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 63d833957febb7612d41c47ac75b6fe1fa7ed4c7bd0ef7d5a041346b0a3e9b0b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:19:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Admissão de Pessoal
+- Delegação Regional
+- Funcionário Público
+- Gestão de Recursos Humanos
+- Instituto Geográfico e Cadastral
+- Mobilidade de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:19:49Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 278/82
+
+Considerando que as necessidades de serviço do Instituto Geográfico e Cadastral determinam um reforço a curto prazo nas admissões de pessoal para prestar serviço nas delegações regionais já em funcionamento, bem como naquelas cuja abertura se prevê para o corrente ano;
+
+Considerando que o pessoal técnico a admitir para os trabalhos de campo do próximo ano carece de um período prévio de formação e adaptação às técnicas e métodos de trabalho específicos do Instituto;
+
+Considerando, também, que a alta média de idades e de antiguidade de serviço dos seus funcionários aconselha a implementação de uma política de rejuvenescimento do pessoal do Instituto:
+
+Nestes termos, determina-se, ao abrigo do n.º 1 do artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, o seguinte:
+
+É aprovada a programação escalonada de preenchimento de lugares vagos e nunca providos do Instituto Geográfico e Cadastral constante do mapa anexo a este despacho.
+
+Ministérios das Finanças e do Plano e da Reforma Administrativa, 23 de Novembro de 1982. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Reforma Administrativa, António Jorge de Figueiredo Lopes.
+
+MAPA ANEXO
+
+Programação escalonada de preenchimento de lugares vagos e nunca providos do Instituto Geográfico e Cadastral, a que se refere o n.º 1 do artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/12/28600/40884089.pdf)

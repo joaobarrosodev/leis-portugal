@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75708274:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-115397205",
+ "dre_path": "/dr/detalhe/portaria/287-2016-75708274",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115393787",
+    "115393788",
+    "115393789",
+    "115393790",
+    "115393791",
+    "115393792",
+    "115393793"
+   ]
+  },
+  {
+   "date": "2018-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115397198:por",
+     "title": "Portaria n.º 154/2018",
+     "published": "2018-05-28",
+     "dre_path": "/dr/detalhe/portaria/154-2018-115397198"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "115393787",
+    "115393788",
+    "115393800",
+    "115393790",
+    "115393791",
+    "115393792",
+    "115393793",
+    "115393794"
+   ]
+  }
+ ],
+ "fragments": {
+  "115393787": {
+   "fragment_id": "115397206",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 287/2016\n\nde 10 de novembro\n\nOs trabalhadores abrangidos pelo Fundo Especial de Segurança Social do Pessoal da Indústria de Lanifícios, têm vindo a beneficiar de um regime especial de comparticipação no preço dos medicamentos, em conformidade com o disposto no despacho conjunto dos Secretários de Estado da Saúde e da Segurança Social, de 2 de maio de 1995, publicado no Diário da República, 2.ª série, n.º 131, de 6 de junho de 1995.\n\nDesde a data da emissão do referido Despacho, os regimes de comparticipação do Estado no preço dos medicamentos têm sofrido profundas alterações, de que se destaca, entre outras, a criação do Sistema de Preços de Referência e a obrigatoriedade de prescrição de medicamentos por denominação comum internacional das substâncias ativas, nos termos resultantes da Lei n.º 11/2012, de 8 de março, que alterou vários artigos do Decreto-Lei n.º 176/2006, de 30 de agosto.\n\nPor este motivo, quando exista, pelo menos, um medicamento genérico no mercado há lugar à criação de um grupo homogéneo, ao qual se encontra associado um preço de referência, que corresponde à média dos cinco preços mais baixos praticados no mercado, tendo em consideração os medicamentos que integrem aquele grupo homogéneo.\n\nAtendendo à necessidade de garantir a sustentabilidade do Serviço Nacional de Saúde e dando acolhimento às recomendações da Inspeção de Atividades em Saúde, importa introduzir no mencionado regime especial de comparticipação as necessárias adaptações, de modo a torná-lo mais adequado ao regime jurídico em vigor, prevendo que a comparticipação aplicável a este grupo especial de utentes incida sobre o preço de referência, quando o medicamento prescrito esteja integrado num grupo homogéneo.\n\nOptou-se por não acolher as referidas recomendações no que respeita à obtenção pelo beneficiário junto da Administração Regional de Saúde, I. P., territorialmente competente, do diferencial de comparticipação entre o regime geral e este regime excecional, alterando-se assim o paradigma atualmente vigente.\n\nPara assegurar a efetiva monitorização, a prescrição e dispensa ao abrigo do presente despacho obedece às regras já regulamentadas na Portaria n.º 224/2015, de 27 de julho.\n\nO n.º 2 do artigo 22.º do Sistema Nacional de Avaliação de Tecnologias de Saúde, aprovado pelo Decreto-Lei n.º 97/2015, de 1 de junho, permite a existência de regimes especiais de comparticipação em função de certos grupos especiais de utentes, como é o caso dos beneficiários do Fundo Especial de Segurança Social do Pessoal da Indústria de Lanifícios.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 22.º do Sistema Nacional de Avaliação de Tecnologias de Saúde, aprovado pelo Decreto-Lei n.º 97/2015, de 1 de junho, manda o Governo, pela Secretária de Estado da Segurança Social e pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "115393788": {
+   "fragment_id": "115397207",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria aprova o regime excecional de comparticipação do Estado no preço dos medicamentos aplicável aos pensionistas e aos futuros pensionistas que tenham descontado, especificamente até 1984, para o Fundo Especial de Segurança Social do Pessoal da Indústria de Lanifícios."
+  },
+  "115393789": {
+   "fragment_id": "115397208",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime excecional\n\n1 - O regime de comparticipação dos medicamentos aplicável aos pensionistas e aos futuros pensionistas que tenham descontado, especificamente até 1984, para o Fundo Especial de Segurança Social do Pessoal da Indústria de Lanifícios, é de 100 % do preço de venda ao público dos medicamentos comparticipados, sem prejuízo do disposto no número seguinte.\n\n2 - Caso o medicamento se insira em grupo homogéneo, a comparticipação do Estado na aquisição do medicamento faz-se nos seguintes termos:\n\na) O valor máximo da comparticipação é calculado por aplicação da percentagem de 100 % sobre o preço de referência do grupo homogéneo;\n\nb) Se o PVP do medicamento for inferior ao valor apurado nos termos da alínea anterior, a comparticipação do Estado limita-se apenas àquele preço."
+  },
+  "115393790": {
+   "fragment_id": "115397209",
+   "type": 11,
+   "heading": "Artigo 3.º — Verificação da qualidade de beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Verificação da qualidade de beneficiário\n\nA verificação e validação da qualidade de beneficiário para efeitos do artigo 2.º tem lugar no momento da prescrição, mediante informação a disponibilizar pelo Instituto de Segurança Social, I. P., à Serviços Partilhados do Ministério da Saúde, E. P. E."
+  },
+  "115393791": {
+   "fragment_id": "115397210",
+   "type": 11,
+   "heading": "Artigo 4.º — Dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dispensa\n\nNo momento da dispensa do medicamento, a farmácia considera a comparticipação prevista nesta portaria."
+  },
+  "115393792": {
+   "fragment_id": "115397211",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições transitórias\n\n1 - A Administração Central do Sistema de Saúde, I. P., a Serviços Partilhados do Ministério da Saúde, E. P. E., e o Instituto de Segurança Social, I. P., devem articular-se de modo a estabelecer as formalidades e os mecanismos que se mostrem adequados e necessários à disponibilização da lista atualizada dos beneficiários referidos no artigo 2.º\n\n2 - A adaptação dos sistemas de prescrição, de dispensa e de integração com o Centro de Conferência de Faturas, deve ocorrer até 31 de dezembro de 2016."
+  },
+  "115393793": {
+   "fragment_id": "115397212",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte.\n\n2 - O regime excecional de comparticipação estabelecido nesta portaria produz efeitos a 1 de janeiro de 2017."
+  },
+  "115393800": {
+   "fragment_id": "115397208",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime Excecional",
+   "in_force_from": "2018-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154/2018 - Diário da República n.º 102/2018, Série I de 2018-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/154-2018-115397198), em vigor a partir de 2018-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Regime Excecional\n\n1 - O regime de comparticipação dos medicamentos aplicável aos pensionistas e aos futuros pensionistas que tenham descontado, especificamente até 1984, para o Fundo Especial de Segurança Social do Pessoal da Indústria de Lanifícios, é de 100 % do preço de venda ao público dos medicamentos comparticipados.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154/2018 - Diário da República n.º 102/2018, Série I de 2018-05-28](https://diariodarepublica.pt/dr/detalhe/portaria/154-2018-115397198), em vigor a partir de 2018-06-01"
+  },
+  "115393794": {
+   "fragment_id": "115397213",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Secretária de Estado da Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim, em 27 de outubro de 2016. - O Secretário de Estado da Saúde, Manuel Martins dos Santos Delgado, em 19 de outubro de 2016."
+  }
+ }
+}

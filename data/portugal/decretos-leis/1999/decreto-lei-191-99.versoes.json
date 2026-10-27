@@ -1,0 +1,664 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:310379:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-869643927",
+ "dre_path": "/dr/detalhe/decreto-lei/191-1999-310379",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-06-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869634918",
+    "869634919",
+    "869634920",
+    "869634921",
+    "869634922",
+    "869634923",
+    "869634924",
+    "869634925",
+    "869634926",
+    "869634927",
+    "869634928",
+    "869634929",
+    "869634930",
+    "869634931",
+    "869634932",
+    "869634933",
+    "869634934",
+    "869634935",
+    "869634936",
+    "869634937",
+    "869634938",
+    "869634939",
+    "869634940",
+    "869634941",
+    "869634942",
+    "869634943",
+    "869634944",
+    "869634945",
+    "869634946",
+    "869634947",
+    "869634948",
+    "869634949",
+    "869634950",
+    "869634951",
+    "869634952",
+    "869634953",
+    "869634954",
+    "869634955",
+    "869634956",
+    "869634957",
+    "869634958",
+    "869634959",
+    "869634960",
+    "869634961",
+    "869634962",
+    "869634963",
+    "869634964",
+    "869634965",
+    "869634966",
+    "869634967",
+    "869634968",
+    "869634969",
+    "869634970",
+    "869634971",
+    "869634972",
+    "869634973",
+    "869634974",
+    "869761075",
+    "869761076"
+   ]
+  },
+  {
+   "date": "2004-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:669556:por",
+     "title": "Lei n.º 107-B/2003",
+     "published": "2003-12-31",
+     "dre_path": "/dr/detalhe/lei/107-b-2003-669556"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "869634918",
+    "869761077",
+    "869761078",
+    "869761079",
+    "869634919",
+    "869634920",
+    "869761084",
+    "869634922",
+    "869634923",
+    "869634924",
+    "869634925",
+    "869634926",
+    "869634927",
+    "869634928",
+    "869634929",
+    "869634930",
+    "869634931",
+    "869634932",
+    "869634933",
+    "869634934",
+    "869634935",
+    "869634936",
+    "869634937",
+    "869634938",
+    "869634939",
+    "869634940",
+    "869634941",
+    "869634942",
+    "869634943",
+    "869634944",
+    "869634945",
+    "869634946",
+    "869634947",
+    "869634948",
+    "869634949",
+    "869634950",
+    "869634951",
+    "869634952",
+    "869634953",
+    "869634954",
+    "869634955",
+    "869634956",
+    "869634957",
+    "869634958",
+    "869634959",
+    "869634960",
+    "869634961",
+    "869634962",
+    "869634963",
+    "869634964",
+    "869634965",
+    "869634966",
+    "869634967",
+    "869634968",
+    "869634969",
+    "869634970",
+    "869634971",
+    "869634972",
+    "869634973",
+    "869634974",
+    "869761075",
+    "869761076"
+   ]
+  }
+ ],
+ "fragments": {
+  "869634918": {
+   "fragment_id": "869643928",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 191/99\n\nde 5 de Junho\n\nA revisão do regime da tesouraria do Estado visa garantir o suporte jurídico necessário à prossecução de um objectivo primordial -a prosseguir essencialmente através da Direcção-Geral do Tesouro (DGT)-, que consiste na optimização da gestão global dos fundos públicos, entre os quais merecem particular atenção os excedentes e disponibilidades de tesouraria tanto dos serviços integrados do Estado, como dos seus serviços e fundos autónomos.\n\nDiversos factores condicionam e impõem a revisão pretendida, tanto factores externos como internos, de que são exemplos quer as exigências decorrentes da estabilidade imposta pela União Económica e Monetária e pela moeda única, quer a reforma da administração financeira do Estado e a reforma orçamental, que contam exactamente com o rigor orçamental como um dos seus principais objectivos e estabelecem já como linha de desenvolvimento o aprofundamento da unidade de tesouraria.\n\nAo nível do Governo, já a Lei Orgânica do Ministério das Finanças havia centrado a missão da nova DGT na administração da tesouraria do Estado, à semelhança, aliás, do que sucede com o Tesouro nos Estados europeus mais modernos. Por isso, e em conformidade com a Lei Orgânica da DGT, aprovada pelo Decreto-Lei n.º 186/98, de 7 de Julho, criou-se o suporte organizacional indispensável à assunção dos novos desafios cometidos à tesouraria do Estado mediante uma estrutura especificamente vocacionada para o planeamento e o acompanhamento dos fluxos de tesouraria, numa óptica de gestão previsional e integrada de fundos.\n\nCom o propósito de simultaneamente desburocratizar e aproximar, com comodidade, Administração e administrados, simplificando e uniformizando os procedimentos de cobrança e alargando a respectiva rede, o presente diploma pretende também clarificar o âmbito das operações de tesouraria, as quais abrangem os movimentos de fundos, quer em execução do Orçamento do Estado, quer através de operações específicas do Tesouro nas situações e com os limites previstos no capítulo IV do diploma.\n\nPor outro lado, a generalização da utilização de meios de pagamento do Tesouro é mais uma das medidas estratégicas que visam o aprofundamento da unidade de tesouraria. Nesse sentido, reforça-se a utilização de meios de pagamento do Tesouro - para pagamento das despesas orçamentais e para saídas de fundos por operações específicas do Tesouro -, mediante a utilização de sistemas de pagamento locais disponibilizados para esse efeito pela DGT.\n\nPor fim, para efeitos da concretização do princípio da unidade de tesouraria, e sem prejuízo das excepções previstas quer para o caso específico da segurança social, quer para as Regiões Autónomas e para as autarquias locais, configura-se a DGT como organismo central de recepção e gestão de fundos dos serviços integrados do Estado e dos serviços e fundos autónomos, com as competências que melhor se desenvolvem no artigo 2.º e se regulamentarão, por portaria do Ministro das Finanças, ao abrigo da alínea a) do n.º 1 do artigo 30.º\n\nTrata-se, assim, de uma analogia com a actividade bancária. Porém, uma analogia que remonta ao liberalismo e tem, por isso, não só larga tradição no direito financeiro português, como também um expresso reconhecimento no regime - que agora se revoga - constante do Decreto-Lei n.º 371/91, de 8 de Outubro, em desenvolvimento da Lei de Bases da Contabilidade Pública.\n\nCaberá à DGT, relativamente aos serviços integrados do Estado, colaborar na execução do respectivo orçamento, efectivando a cobrança das receitas e o pagamento das despesas públicas, e relativamente aos serviços e fundos autónomos, de carácter administrativo ou empresarial, assegurar-lhes a prestação de serviços equiparados aos da actividade bancária, com base nas contas por estes abertas naquela Direcção-Geral.\n\nFoi ouvido o Instituto de Gestão do Crédito Público.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 66.º da Lei n.º 87-B/98, de 31 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "869634919": {
+   "fragment_id": "869643929",
+   "type": 1,
+   "heading": "Capítulo I — Enquadramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Enquadramento"
+  },
+  "869634920": {
+   "fragment_id": "869643930",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de intervenção\n\n1 - A actividade da tesouraria do Estado compreende a movimentação de fundos públicos, quer em execução do Orçamento do Estado, quer através de operações específicas do Tesouro (OET).\n\n2 - Cabe à Direcção-Geral do Tesouro a gestão global dos movimentos de fundos públicos referidos no número anterior, designados, em geral, por operações de tesouraria, e a correspondente relevação na contabilidade do Tesouro, sem prejuízo do disposto no n.º 5.\n\n3 - Relativamente às OET, cabe ainda à Direcção-Geral do Tesouro a respectiva contabilização e controlo.\n\n4 - A Direcção-Geral do Tesouro pode efectuar operações próprias dos bancos na medida do estritamente necessário à realização das operações de tesouraria previstas no presente diploma.\n\n5 - A segurança social dispõe de uma tesouraria única, em articulação com a tesouraria do Estado e regulada por diploma próprio, que assegura a efectivação da cobrança das suas receitas, bem como dos pagamentos conexos com as correspondentes modalidades de protecção social."
+  },
+  "869634921": {
+   "fragment_id": "869643931",
+   "type": 11,
+   "heading": "Artigo 2.º — Unidade de tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Unidade de tesouraria\n\n1 - Cabe à Direcção-Geral do Tesouro:\n\na) Colaborar na execução do orçamento dos serviços integrados do Estado, efectivando a cobrança das receitas e o pagamento das despesas públicas;\n\nb) Assegurar aos serviços e fundos autónomos a prestação de serviços equiparados aos da actividade bancária, nas mesmas condições de eficiência.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, devem os serviços e fundos autónomos, de carácter administrativo ou empresarial, dispor de contas abertas na Direcção-Geral do Tesouro, através das quais promovem as respectivas operações de cobrança e pagamento e onde mantêm depositados os seus excedentes e disponibilidades de tesouraria.\n\n3 - As Regiões Autónomas e as autarquias locais, incluindo os respectivos serviços e fundos autónomos, podem, igualmente, dispor de contas abertas na Direcção-Geral do Tesouro, para efeito de prestação, por parte desta, de serviços equiparados aos da actividade bancária, em apoio às suas tesourarias.\n\n4 - As contas abertas na Direcção-Geral do Tesouro, em execução do disposto nos números anteriores, são remuneradas."
+  },
+  "869634922": {
+   "fragment_id": "869643932",
+   "type": 11,
+   "heading": "Artigo 3.º — Equilíbrio da tesouraria do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Equilíbrio da tesouraria do Estado\n\nPara fazer face a necessidades ocasionais de tesouraria, a Direcção-Geral do Tesouro articula com o Instituto de Gestão do Crédito Público o accionamento de instrumentos de financiamento de muito curto prazo, nas condições que vierem a ser estabelecidas, para o efeito, por despacho do Ministro das Finanças."
+  },
+  "869634923": {
+   "fragment_id": "869643933",
+   "type": 1,
+   "heading": "Capítulo II — Entrada de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Entrada de fundos"
+  },
+  "869634924": {
+   "fragment_id": "869643934",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito\n\nA gestão da entrada de fundos compreende a organização, o acompanhamento e o controlo da cobrança das receitas e a correspondente centralização dos fundos."
+  },
+  "869634925": {
+   "fragment_id": "869643935",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades de cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades de cobrança\n\n1 - A cobrança das receitas é efectuada por serviços públicos com funções de caixa, bem como pelas entidades colaboradoras na cobrança que se encontrem habilitadas a prestar tais serviços.\n\n2 - Para afeitos do presente diploma, a cobrança das receitas corresponde à sua arrecadação."
+  },
+  "869634926": {
+   "fragment_id": "869643936",
+   "type": 11,
+   "heading": "Artigo 6.º — Rede de cobranças do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Rede de cobranças do Estado\n\n1 - A rede de cobranças do Estado é integrada pelos serviços públicos com funções de caixa do Tesouro e pelas entidades colaboradoras na cobrança, nos termos do disposto no artigo anterior.\n\n2 - A gestão e o controlo da rede de cobranças do Estado são assegurados pela Direcção-Geral do Tesouro.\n\n3 - A gestão da rede de cobranças do Estado, designadamente a definição das entidades autorizadas a cobrar cada receita, subordina-se ao princípio da aproximação da Administração aos administrados de acordo com critérios de comodidade, economicidade e razoabilidade.\n\n4 - Podem integrar a rede de cobranças do Estado outros serviços públicos que cobrem receitas próprias."
+  },
+  "869634927": {
+   "fragment_id": "869643937",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços com funções de caixa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços com funções de caixa\n\n1 - São serviços com funções de caixa os serviços da Direcção-Geral do Tesouro, as tesourarias da Fazenda Pública e outros serviços públicos autorizados para o efeito por despacho do Ministro das Finanças.\n\n2 - As condições de funcionamento dos serviços com funções de caixa e as regras a respeitar para a remessa de fundos à Direcção-Geral do Tesouro, escrituração, arquivo de documentos, informação e controlo de cobrança serão estabelecidas por portaria do Ministro das Finanças."
+  },
+  "869634928": {
+   "fragment_id": "869643938",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades colaboradoras na cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidades colaboradoras na cobrança\n\n1 - A Direcção-Geral do Tesouro pode, ouvidas as entidades administradoras das respectivas receitas, celebrar contratos com instituições de crédito ou outras entidades, através dos quais se regulam as condições da prestação dos serviços de cobrança por parte destas e, designadamente, as receitas abrangidas, o custo do serviço, a forma e o prazo de entrega ao Tesouro dos fundos cobrados, os circuitos de documentação e informação, bem como as consequências do seu incumprimento.\n\n2 - Os contratos celebrados nos termos do número anterior são publicitados através de aviso publicado na 2.ª série do Diário da República.\n\n3 - O controlo do cumprimento das condições contratuais acordadas com as entidades colaboradoras na cobrança referidas no n.º 1 é exercido pela Direcção-Geral do Tesouro.\n\n4 - Sem prejuízo do disposto no número anterior, a Direcção-Geral do Tesouro ou, nos termos previstos nos respectivos contratos, as próprias entidades colaboradoras na cobrança providenciarão o fornecimento às entidades administradoras da receita da informação necessária ao exercício das respectivas atribuições.\n\n5 - Excepcionalmente e para efeitos contabilísticos, as entidades colaboradoras podem, por despacho do Ministro das Finanças, ser equiparadas a serviços com funções de caixa."
+  },
+  "869634929": {
+   "fragment_id": "869643939",
+   "type": 11,
+   "heading": "Artigo 9.º — Locais de cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Locais de cobrança\n\nO pagamento pode ser efectuado junto de qualquer das entidades cobradoras autorizadas a cobrar cada receita, independentemente do lugar do domicílio, sede, direcção efectiva ou estabelecimento do devedor."
+  },
+  "869634930": {
+   "fragment_id": "869643940",
+   "type": 11,
+   "heading": "Artigo 10.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Divulgação\n\n1 - A Direcção-Geral do Tesouro promoverá a divulgação dos locais de cobrança de cada receita através dos meios mais adequados para o efeito.\n\n2 - A Direcção-Geral do Tesouro providenciará ainda para que a identificação dos locais de cobrança das receitas seja feita através da afixação nos mesmos de um símbolo adequado."
+  },
+  "869634931": {
+   "fragment_id": "869643941",
+   "type": 11,
+   "heading": "Artigo 11.º — Documento único de cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Documento único de cobrança\n\n1 - O documento único de cobrança (DUC) é o título que exprime a obrigação pecuniária decorrente da relação entre o Estado e o devedor.\n\n2 - O DUC é também utilizado para titular a entrada, na tesouraria do Estado, de fundos que, nos termos da lei, se destinem a terceiros.\n\n3 - Os serviços que administram as receitas emitem DUC, que enviam directamente ao devedor, dos quais devem constar, nomeadamente, os seguintes elementos:\n\na) Identificação do organismo ou serviço processador;\n\nb) Período a que respeita;\n\nc) Número atribuído ao documento;\n\nd) Identificação da entidade devedora, incluindo o número de identificação fiscal;\n\ne) Natureza da receita;\n\nf) Montante da receita;\n\ng) Data limite de pagamento.\n\n4 - Nos casos de autoliquidação, de retenção na fonte e de pagamento por conta previstos na lei, o DUC é preenchido pelo devedor.\n\n5 - O DUC é apresentado no acto do pagamento, sendo a dívida que titula satisfeita por inteiro nesse mesmo acto, através de um dos meios de pagamento enumerados no n.º 1 do artigo 15.º"
+  },
+  "869634932": {
+   "fragment_id": "869643942",
+   "type": 11,
+   "heading": "Artigo 12.º — Condições de emissão do DUC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condições de emissão do DUC\n\n1 - Cada DUC titula uma única receita e as demais imposições legais que devam ser exigidas conjuntamente com a receita principal.\n\n2 - O modelo do DUC e as instruções para o seu preenchimento e processamento são aprovados por portaria do Ministro das Finanças, a qual pode excepcionar, a título transitório, a aplicação do DUC a determinadas receitas."
+  },
+  "869634933": {
+   "fragment_id": "869643943",
+   "type": 11,
+   "heading": "Artigo 13.º — Deficiências essenciais do DUC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deficiências essenciais do DUC\n\n1 - É recusado o pagamento de dívidas tituladas por DUC que não contenham as menções referidas nas alíneas d), e) e f) do n.º 3 do artigo 11.º\n\n2 - Nos casos em que as deficiências sejam imputadas ao serviço processador, deve este emitir um novo DUC para pagamento da respectiva dívida, sem encargos adicionais para o devedor, devendo o pagamento ser efectuado nos prazos referidos no artigo 21.º\n\n3 - Quando a recusa referida no n.º 1 incida sobre um DUC que deva ser preenchido pelo devedor, tal facto não o desonera das consequências legais da falta de pagamento ou do pagamento extemporâneo da respectiva receita."
+  },
+  "869634934": {
+   "fragment_id": "869643944",
+   "type": 11,
+   "heading": "Artigo 14.º — Outras deficiências do DUC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Outras deficiências do DUC\n\n1 - Se o DUC contiver incorrecções que inviabilizem o seu tratamento subsequente ao pagamento, compete ao serviço que administra a receita providenciar para que as mesmas sejam supridas.\n\n2 - Nos casos em que o DUC seja preenchido pelo devedor e as incorrecções respeitem a elementos cujo suprimento não seja possível pelo serviço que administra a receita, procederá o referido serviço à notificação do devedor para que supra tais incorrecções, em prazo a fixar entre 15 e 60 dias."
+  },
+  "869634935": {
+   "fragment_id": "869643945",
+   "type": 11,
+   "heading": "Artigo 15.º — Meios de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Meios de pagamento\n\n1 - O pagamento das receitas tituladas pelos DUC deve ser efectuado nos termos e condições do presente diploma, através da utilização dos seguintes meios:\n\na) Moeda corrente;\n\nb) Cheque, débito em conta, transferência conta a conta e transferência de fundos;\n\nc) Outros meios de pagamento do tipo e com as características dos utilizados pelos bancos ou previstos na lei.\n\n2 - No pagamento de receita titulada por DUC pode ser utilizado mais de um meio de pagamento.\n\n3 - Salvo nos pagamentos efectuados com moeda corrente, podem ser recusados os pagamentos cujo meio de pagamento seja de quantitativo diferente do da receita que se destina a pagar.\n\n4 - No caso de se verificar um excesso no acto de cobrança em relação ao montante em dívida, poderá proceder-se à sua restituição, desde que seja de montante igual ou superior a 5 euros.\n\n5 - Se o montante cobrado em excesso não for reclamado no prazo de três meses após detecção do erro, o mesmo reverte a favor do Estado."
+  },
+  "869634936": {
+   "fragment_id": "869643946",
+   "type": 11,
+   "heading": "Artigo 16.º — Regras de utilização do cheque",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regras de utilização do cheque\n\n1 - A aceitação do cheque enquanto meio de pagamento depende do preenchimento cumulativo dos seguintes requisitos:\n\na) O respectivo montante não pode diferir do montante correspondente ao DUC;\n\nb) A data de emissão deve coincidir com a data da sua entrega ou de um dos dois dias anteriores, exceptuando o disposto no n.º 2;\n\nc) Deve ser emitido à ordem da Direcção-Geral do Tesouro e cruzado;\n\nd) Deve ser aposto no verso o número do DUC.\n\n2 - No caso de a data de emissão não ser indicada, compete à entidade cobradora proceder à respectiva aposição, a qual deve coincidir com a data da entrega.\n\n3 - A omissão dos requisitos enunciados nos números anteriores que não sejam ou não possam ser preenchidos no momento da cobrança e nos exactos termos aí previstos, implica a não aceitação do cheque por parte da entidade cobradora.\n\n4 - Se o pagamento for efectuado no banco sacado, este pode recusar a operação se o saldo da entidade sacadora for insuficiente para o efeito, nos termos e com os limites decorrentes dos artigos 8.º e 9.º do Decreto-Lei n.º 454/91, de 28 de Dezembro, com a redacção dada pelo Decreto-Lei n.º 316/97, de 19 de Novembro.\n\n5 - O Ministro das Finanças poderá estabelecer, por portaria, as situações em que o uso de cheque visado seja obrigatório."
+  },
+  "869634937": {
+   "fragment_id": "869643947",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamento através do correio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pagamento através do correio\n\nSempre que o pagamento da dívida titulada pelo DUC seja efectuado através do correio, o cheque deve ser remetido à Direcção-Geral do Tesouro, salvo nos casos previstos na lei ou naqueles em que, por despacho do Ministro das Finanças, for estabelecido que o cheque seja remetido a outro serviço ou organismo público."
+  },
+  "869634938": {
+   "fragment_id": "869643948",
+   "type": 11,
+   "heading": "Artigo 18.º — Quitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Quitação\n\n1 - A entidade cobradora dá quitação no DUC através da validação informática do caixa, por aposição de selo de validação da cobrança, através de recibo específico ou por outra forma de validação aprovada por despacho do director-geral do Tesouro.\n\n2 - O documento de quitação do pagamento deve manter-se na posse do devedor durante o decurso do prazo de prescrição aplicável à respectiva dívida.\n\n3 - Por despacho do director-geral do Tesouro são aprovados os modelos do selo de validação da cobrança e do recibo específico referidos no n.º 1."
+  },
+  "869634939": {
+   "fragment_id": "869643949",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamentos nulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamentos nulos\n\n1 - São considerados nulos os pagamentos que não permitam a cobrança da receita devido a vícios que afectem o respectivo meio de pagamento.\n\n2 - No caso da utilização de cheque, considera-se que o mesmo não permite a cobrança da receita quando:\n\na) Na sua emissão tiver existido preterição de algum dos requisitos formais que impossibilite o seu pagamento pelo sacado;\n\nb) A entidade sacada recuse o seu pagamento por falta ou insuficiência de provisão;\n\nc) O sacador tenha levantado os fundos necessários ao seu pagamento, proibido à entidade sacada o pagamento desse cheque, encerrado a conta sacada ou alterado as condições da sua movimentação, impedindo dessa forma o pagamento do cheque.\n\n3 - Quando o sacado recuse o pagamento do cheque por erro que lhe seja imputável, ficará responsabilizado pelas consequências legais decorrentes da não efectivação da cobrança da receita que o mesmo se destinava a satisfazer."
+  },
+  "869634940": {
+   "fragment_id": "869643950",
+   "type": 11,
+   "heading": "Artigo 20.º — Efeito liberatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Efeito liberatório\n\nO pagamento efectuado junto das entidades referidas nos artigos 5.º e 8.º através de qualquer dos meios enunciados no artigo 15.º libera o devedor da respectiva obrigação, salvo nas situações previstas no n.º 2 do artigo 14.º e no artigo 19.º"
+  },
+  "869634941": {
+   "fragment_id": "869643951",
+   "type": 11,
+   "heading": "Artigo 21.º — Pagamento voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Pagamento voluntário\n\n1 - Constitui pagamento voluntário de dívidas ao Estado o pagamento efectuado nos prazos de vencimento estabelecidos legal ou contratualmente.\n\n2 - Quando os regimes referidos no número anterior não estipulem prazo, este terminará no final do mês imediato ao da emissão do documento de cobrança ou da notificação para pagamento, quando legalmente exigida, se a própria notificação também não o referir."
+  },
+  "869634942": {
+   "fragment_id": "869643952",
+   "type": 11,
+   "heading": "Artigo 22.º — Mora do devedor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Mora do devedor\n\n1 - O não pagamento das dívidas nos prazos para cumprimento voluntário legalmente previstos determina, salvo o disposto em lei especial:\n\na) A constituição em mora do devedor;\n\nb) A extracção da certidão de dívida para efeitos de cobrança coerciva.\n\n2 - São competentes para a liquidação de juros de mora, bem como para a extracção das certidões de dívida, os serviços que administram as respectivas receitas.\n\n3 - Estando a dívida a ser exigida em execução fiscal, a competência para a liquidação dos juros de mora, bem como o processamento do respectivo documento de cobrança, pertence ao serviço onde correr termos o processo.\n\n4 - Quando o serviço competente para a extracção da certidão de dívida seja diferente daquele a que compete a instauração do processo de execução fiscal, devê-la-á remeter a este no prazo de 30 dias.\n\n5 - Não se consideram excepcionadas no n.º 1, para efeitos de extracção da certidão de dívida, as dívidas cujos diplomas prevêem o pagamento com juros de mora anteriormente à extracção daquela certidão."
+  },
+  "869634943": {
+   "fragment_id": "869643953",
+   "type": 1,
+   "heading": "Capítulo III — Saídas de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Saídas de fundos"
+  },
+  "869634944": {
+   "fragment_id": "869643954",
+   "type": 11,
+   "heading": "Artigo 23.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Âmbito\n\nA gestão da saída de fundos integra a execução do pagamento das operações orçamentais, bem como das OET."
+  },
+  "869634945": {
+   "fragment_id": "869643955",
+   "type": 11,
+   "heading": "Artigo 24.º — Realização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Realização\n\n1 - A saída de fundos da tesouraria do Estado realiza-se com utilização de meios de pagamento do Tesouro.\n\n2 - A natureza, as características e o regime dos meios de pagamento mencionados no número anterior obedecem ao disposto na lei geral e nos respectivos regulamentos.\n\n3 - São objecto de despacho do director-geral do Tesouro as caixas que poderão efectuar pagamentos."
+  },
+  "869634946": {
+   "fragment_id": "869643956",
+   "type": 11,
+   "heading": "Artigo 25.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Autorização\n\n1 - É da competência do director-geral do Tesouro autorizar as saídas de fundos por operações orçamentais e por OET.\n\n2 - Relativamente aos serviços que utilizem sistemas locais de emissão de meios de pagamento do Tesouro, a autorização a que se refere o número anterior considera-se concedida mediante a disponibilização da funcionalidade em causa.\n\n3 - As condições de utilização do sistema referido no número anterior serão definidas por despacho do director-geral do Tesouro.\n\n4 - O regime de saídas de fundos respeita as regras sobre autonomia orçamental aplicáveis aos serviços e fundos autónomos e a outras entidades que dela beneficiem."
+  },
+  "869634947": {
+   "fragment_id": "869643957",
+   "type": 11,
+   "heading": "Artigo 26.º — Restituições e reembolsos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Restituições e reembolsos\n\n1 - Os reembolsos e restituições a que houver lugar em decorrência do cálculo de imposto ou por devolução de receita indevidamente cobrada, respectivamente, são determinados pelas entidades que procedem à liquidação da respectiva receita.\n\n2 - Os reembolsos são efectuados através dos meios de pagamento do Tesouro, nas condições definidas por despacho do director-geral do Tesouro ou acordadas com a entidade que administra a respectiva receita."
+  },
+  "869634948": {
+   "fragment_id": "869643958",
+   "type": 11,
+   "heading": "Artigo 27.º — Meios de pagamento do Tesouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Meios de pagamento do Tesouro\n\n1 - O pagamento das despesas orçamentais bem como as saídas dos fundos por OET são efectuados através de meios de pagamento do Tesouro.\n\n2 - Cabe à Direcção-Geral do Tesouro a gestão dos meios de pagamento do Tesouro."
+  },
+  "869634949": {
+   "fragment_id": "869643959",
+   "type": 11,
+   "heading": "Artigo 28.º — Cheques",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Cheques\n\n1 - Quando o meio de pagamento utilizado revista a forma de cheque sobre o Tesouro, este será nominativo «não à ordem» e cruzado.\n\n2 - Nos casos em que os serviços emissores considerem imprescindível o endosso do cheque, este poderá ser «à ordem» e cruzado."
+  },
+  "869634950": {
+   "fragment_id": "869643960",
+   "type": 11,
+   "heading": "Artigo 29.º — Arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Arquivo\n\nA prova de efectivação dos pagamentos e o arquivo dos suportes documentais, tanto físicos como de base informática, processam-se nos termos aplicáveis aos bancos e de acordo com o regulamento do sistema de compensação interbancária em vigor."
+  },
+  "869634951": {
+   "fragment_id": "869643961",
+   "type": 1,
+   "heading": "Capítulo IV — Operações específicas do Tesouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Operações específicas do Tesouro"
+  },
+  "869634952": {
+   "fragment_id": "869643962",
+   "type": 11,
+   "heading": "Artigo 30.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Âmbito\n\n1 - A movimentação de fundos destinados a assegurar a gestão da tesouraria, bem como a prestação de serviços a entidades que disponham de contas na Direcção-Geral do Tesouro, designa-se OET quando se destine, nos termos legalmente previstos, a:\n\na) Assegurar a gestão de fundos a cargo da Direcção-Geral do Tesouro;\n\nb) Antecipar a saída de fundos previstos no Orçamento do Estado de modo a permitir a satisfação oportuna de encargos orçamentais;\n\nc) Antecipar fundos previstos no Orçamento da União Europeia;\n\nd) Antecipar fundos a autarquias locais e Regiões Autónomas; e\n\ne) Outras situações devidamente justificadas, que tenham consagração nas leis do Orçamento do Estado.\n\n2 - Para efeitos do disposto no número anterior, as OET, quando envolvam saída de fundos da tesouraria, dependem de autorização do director-geral do Tesouro.\n\n3 - A regulamentação das condições das operações previstas nas alíneas a) a e) do n.º 1 será objecto de portaria do Ministro das Finanças."
+  },
+  "869634953": {
+   "fragment_id": "869643963",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Regime\n\n1 - A saída de fundos por OET depende da existência de fundos na respectiva conta, salvo o disposto nas alíneas b) a d) do artigo anterior e as situações previstas em lei especial.\n\n2 - As antecipações previstas nas alíneas b) a d) do artigo anterior dependem da existência de disponibilidades na tesouraria, bem como da respectiva previsão orçamental, tendo em conta, quando for o caso, as previsões de cobrança efectiva das receitas a antecipar."
+  },
+  "869634954": {
+   "fragment_id": "869643964",
+   "type": 11,
+   "heading": "Artigo 32.º — Regularização das OET",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regularização das OET\n\n1 - As OET devem ser regularizadas no ano económico em que tiverem lugar, com as seguintes excepções:\n\na) As previstas na alínea a) do n.º 1 do artigo 30.º podem transitar de ano;\n\nb) As previstas nas alíneas c) e d) do n.º 1 do artigo 30.º podem ser regularizadas até ao final do período complementar da execução orçamental, relativa à arrecadação das receitas do respectivo ano económico, da entidade beneficiária da antecipação.\n\n2 - A regularização das OET previstas na alínea b) do n.º 1 do artigo 30.º deve ser efectuada por via orçamental, por conta do ano económico em que tiverem lugar."
+  },
+  "869634955": {
+   "fragment_id": "869643965",
+   "type": 11,
+   "heading": "Artigo 33.º — Cobrança coerciva das dívidas de OET",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Cobrança coerciva das dívidas de OET\n\nA cobrança coerciva dos créditos da Direcção-Geral do Tesouro, resultantes da movimentação de fundos por OET, equiparados a créditos do Estado quando for o caso, será efectuada, nos termos previstos na lei, através de processo de execução fiscal."
+  },
+  "869634956": {
+   "fragment_id": "869643966",
+   "type": 1,
+   "heading": "Capítulo V — Contabilidade do Tesouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Contabilidade do Tesouro"
+  },
+  "869634957": {
+   "fragment_id": "869643967",
+   "type": 11,
+   "heading": "Artigo 34.º — Princípios contabilísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Princípios contabilísticos\n\nO registo das operações de tesouraria é organizado de acordo com os princípios constantes do Plano Oficial de Contabilidade Pública."
+  },
+  "869634958": {
+   "fragment_id": "869643968",
+   "type": 11,
+   "heading": "Artigo 35.º — Finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Finalidades\n\nO registo da movimentação de fundos tem as seguintes finalidades:\n\na) Racionalização, simplificação e integração dos fluxos de informação;\n\nb) Obtenção de informação para gestão e controlo da tesouraria do Estado;\n\nc) Controlo das entradas e saídas de fundos na tesouraria do Estado;\n\nd) Contabilização das entradas e saídas de fundos por operações de tesouraria;\n\ne) Relevação dos saldos da tesouraria do Estado;\n\nf) Apuramento dos saldos das contas."
+  },
+  "869634959": {
+   "fragment_id": "869643969",
+   "type": 11,
+   "heading": "Artigo 36.º — Controlo e contabilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Controlo e contabilização\n\nCabe à Direcção-Geral do Tesouro a centralização, o controlo e a contabilização dos fundos movimentados."
+  },
+  "869634960": {
+   "fragment_id": "869643970",
+   "type": 11,
+   "heading": "Artigo 37.º — Plano de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Plano de contas\n\n1 - As contas e as regras de movimentação a utilizar para registo da entrada e saída de fundos e para a relevação dos respectivos saldos constam de plano de contas próprio, a articular com o Plano Oficial de Contabilidade Pública.\n\n2 - É da competência do director-geral do Tesouro a abertura e encerramento de contas."
+  },
+  "869634961": {
+   "fragment_id": "869643971",
+   "type": 11,
+   "heading": "Artigo 38.º — Regularização de saldos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Regularização de saldos\n\n1 - Os saldos credores das contas de terceiros e os devedores das contas de disponibilidades podem transitar de ano.\n\n2 - Os saldos credores das contas de disponibilidades podem transitar de ano, devendo, no entanto, ser regularizados no prazo de seis meses.\n\n3 - Os saldos devedores das contas de terceiros devem ser regularizados dentro do ano económico a que respeitam, salvo o disposto nas alíneas c) e e) do n.º 1 do artigo 30.º\n\n4 - Os saldos devedores referidos no número anterior, bem como os decorrentes de operações de regularização relativas a acertos de fim de ano, podem transitar para os anos seguintes, não podendo ultrapassar o limite a fixar anualmente pela Lei do Orçamento do Estado, com as excepções nela previstas."
+  },
+  "869634962": {
+   "fragment_id": "869643972",
+   "type": 11,
+   "heading": "Artigo 39.º — Escrituração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Escrituração\n\n1 - A escrituração da entrada de fundos é da competência dos serviços com funções de caixa.\n\n2 - A escrituração da saída de fundos é da competência dos serviços da Direcção-Geral do Tesouro.\n\n3 - Sem prejuízo do disposto no n.º 2, o director-geral do Tesouro poderá autorizar a escrituração de saídas de fundos por parte de outras entidades.\n\n4 - A escrituração dos restantes movimentos de fundos é assegurada, nos termos definidos por despacho do director-geral do Tesouro, pelos serviços directamente envolvidos na sua efectivação."
+  },
+  "869634963": {
+   "fragment_id": "869643973",
+   "type": 11,
+   "heading": "Artigo 40.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Regulamentação\n\n1 - As condições de funcionamento e controlo das caixas bem como o regime dos alcances serão definidos por diploma autónomo.\n\n2 - As normas referentes à contabilização de fundos serão objecto de portaria do Ministro das Finanças."
+  },
+  "869634964": {
+   "fragment_id": "869643974",
+   "type": 11,
+   "heading": "Artigo 41.º — Utilização dos meios informáticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Utilização dos meios informáticos\n\nOs movimentos de fundos na tesouraria do Estado e os correspondentes suportes documentais e contabilísticos podem ser efectuados através de meios informáticos."
+  },
+  "869634965": {
+   "fragment_id": "869760975",
+   "type": 11,
+   "heading": "Artigo 42.º — Informação à Direcção-Geral do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Informação à Direcção-Geral do Orçamento\n\n1 - A Direcção-Geral do Tesouro envia à Direcção-Geral do Orçamento, até ao dia 15 do mês seguinte a que respeitam, os elementos contabilísticos necessários à elaboração da Conta Geral do Estado, nomeadamente o balancete das contas de operações de tesouraria, evidenciando os respectivos movimentos mensais e acumulados segundo a natureza das operações envolvidas.\n\n2 - Exceptua-se do disposto no número anterior a informação relativa ao mês de Dezembro, a qual é enviada até 15 de Fevereiro do ano seguinte."
+  },
+  "869634966": {
+   "fragment_id": "869760976",
+   "type": 11,
+   "heading": "Artigo 43.º — Responsabilidade financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Responsabilidade financeira\n\n1 - A Direcção-Geral do Tesouro dá quitação aos responsáveis pela movimentação de fundos da tesouraria do Estado relativamente aos depósitos efectuados na conta do Tesouro cujos valores constantes da conta de gerência correspondem aos escriturados e contabilizados.\n\n2 - A conta de gerência será elaborada pelo responsável da caixa, devendo os valores dela constantes corresponder aos escriturados e contabilizados."
+  },
+  "869634967": {
+   "fragment_id": "869760977",
+   "type": 11,
+   "heading": "Artigo 44.º — Arquivo dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Arquivo dos documentos\n\n1 - Os documentos de suporte contabilístico serão arquivados nas caixas quando comprovativos da respectiva escrituração, sem prejuízo do referido nos artigos 39.º e 41.º\n\n2 - Nos serviços da Direcção-Geral do Tesouro são arquivados os balancetes e restantes documentos.\n\n3 - Os documentos referidos nos números anteriores são mantidos em arquivo pelo prazo de cinco anos, podendo, para o mesmo efeito, ser substituídos pela sua representação informática."
+  },
+  "869634968": {
+   "fragment_id": "869760978",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "869634969": {
+   "fragment_id": "869760979",
+   "type": 11,
+   "heading": "Artigo 45.º — Contabilização de reembolsos e de restituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Contabilização de reembolsos e de restituições\n\n1 - Na elaboração da Conta Geral do Estado são expressos os movimentos de fundos derivados das anulações da receita orçamental decorrentes dos reembolsos e das restituições.\n\n2 - O registo referido no número anterior processa-se através da inserção nas tabelas da receita de colunas para os registos de reembolsos de impostos e restituições de cobrança, adaptando-se em conformidade os registos para a relevação de receita bruta e líquida."
+  },
+  "869634970": {
+   "fragment_id": "869760980",
+   "type": 11,
+   "heading": "Artigo 46.º — Desenvolvimento tecnológico e informático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Desenvolvimento tecnológico e informático\n\n1 - A Direcção-Geral do Tesouro promoverá o desenvolvimento dos meios tecnológicos e informáticos no âmbito da tesouraria do Estado, por forma a garantir as melhores condições de qualidade e eficiência no desempenho das suas atribuições.\n\n2 - Para efeitos do disposto no número anterior, e no âmbito do presente diploma, será inscrita a dotação orçamental adequada."
+  },
+  "869634971": {
+   "fragment_id": "869760981",
+   "type": 11,
+   "heading": "Artigo 47.º — Adaptação ao DUC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Adaptação ao DUC\n\n1 - Os documentos de cobrança que não obedeçam às especificidades do DUC serão gradualmente substituídos pelo DUC, à medida em que forem sendo criados os dispositivos administrativos e informáticos a tal indispensáveis.\n\n2 - As disposições contidas nos artigos 11.º a 22.º do presente diploma aplicam-se, com as necessárias adaptações, aos restantes documentos de cobrança que não o DUC."
+  },
+  "869634972": {
+   "fragment_id": "869760982",
+   "type": 11,
+   "heading": "Artigo 48.º — Adaptação ao euro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Adaptação ao euro\n\nPara efeitos do disposto no n.º 2 do artigo 15.º e até 31 de Dezembro de 2001, os meios de pagamento utilizados têm de ter a mesma denominação."
+  },
+  "869634973": {
+   "fragment_id": "869760983",
+   "type": 11,
+   "heading": "Artigo 49.º — Adaptação dos protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Adaptação dos protocolos\n\nOs protocolos estabelecidos com as entidades colaboradoras na cobrança, que se encontrem actualmente em execução, serão, ouvidas as entidades administradoras das respectivas receitas e na medida do que for necessário, objecto de revisão ou substituição, até 31 de Dezembro de 1999, em conformidade com o presente diploma."
+  },
+  "869634974": {
+   "fragment_id": "869760984",
+   "type": 11,
+   "heading": "Artigo 50.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Regime transitório\n\n1 - Enquanto não estiverem criados os dispositivos legais e administrativos necessários à aplicação do presente diploma, mantém-se, na medida do necessário, o regime anterior e respectiva regulamentação.\n\n2 - Enquanto não se encontrarem reunidas as condições para o cumprimento do disposto no artigo 9.º, o pagamento processa-se exclusivamente perante as entidades cobradoras autorizadas a efectuar essa cobrança, podendo ser fixado o balcão competente para o efeito.\n\n3 - Os depósitos dos excedentes e disponibilidades de tesouraria dos serviços e fundos autónomos tornam-se obrigatórios a partir do início do 3.º ano económico posterior ao da entrada em vigor do presente diploma."
+  },
+  "869761075": {
+   "fragment_id": "869760985",
+   "type": 11,
+   "heading": "Artigo 51.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Revogação\n\n1 - Sem prejuízo do disposto no artigo anterior, são revogados os seguintes diplomas:\n\na) O Decreto-Lei n.º 332/90, de 29 de Outubro, com as alterações introduzidas pelo Decreto-Lei n.º 275-A/93, de 9 de Agosto;\n\nb) O Decreto-Lei n.º 371/91, de 8 de Outubro, com as alterações introduzidas pelo Decreto-Lei n.º 187/98, de 8 de Julho;\n\nc) O Decreto-Lei n.º 275-A/93, de 9 de Agosto, com as alterações introduzidas pelo Decreto-Lei n.º 113/95, de 25 de Maio, pela Lei n.º 52-C/96, de 27 de Dezembro, e pela Lei n.º 127-B/97, de 20 de Dezembro.\n\n2 - As normas constantes do presente diploma prevalecem sobre quaisquer disposições gerais ou especiais que disponham em contrário, designadamente as que se referem a procedimentos de cobrança."
+  },
+  "869761076": {
+   "fragment_id": "869760986",
+   "type": 11,
+   "heading": "Artigo 52.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "869761077": {
+   "fragment_id": "869760987",
+   "type": 11,
+   "heading": "Artigo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo\n\nÉ aprovado o regime da tesouraria do Estado, que constitui o anexo ao presente diploma e dele faz parte integrante."
+  },
+  "869761078": {
+   "fragment_id": "869760988",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Março de 1999. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Osvaldo Sarmento e Castro - Luís Manuel Capoulas Santos - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - António Luís Santos da Costa - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 14 de Maio de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 25 de Maio de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "869761079": {
+   "fragment_id": "869760989",
+   "type": 14,
+   "heading": "Anexo — REGIME DA TESOURARIA DO ESTADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGIME DA TESOURARIA DO ESTADO"
+  },
+  "869761084": {
+   "fragment_id": "869643931",
+   "type": 11,
+   "heading": "Artigo 2.º — Unidade de tesouraria",
+   "in_force_from": "2004-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 55.º do/a [Lei n.º 107-B/2003 - Diário da República n.º 301/2003, 2º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), produz efeitos a partir de 2000-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Unidade de tesouraria\n\n1 - Cabe à Direcção-Geral do Tesouro:\n\na) Colaborar na execução do orçamento dos serviços integrados do Estado, efectivando a cobrança das receitas e o pagamento das despesas públicas;\n\nb) Assegurar aos serviços e fundos autónomos a prestação de serviços equiparados aos da actividade bancária, nas mesmas condições de eficiência.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, devem os serviços e fundos autónomos, de carácter administrativo ou empresarial, dispor de contas abertas na Direcção-Geral do Tesouro, através das quais promovem as respectivas operações de cobrança e pagamento e onde mantêm depositados os seus excedentes e disponibilidades de tesouraria.\n\n3 - As Regiões Autónomas e as autarquias locais, incluindo os respectivos serviços e fundos autónomos, podem, igualmente, dispor de contas abertas na Direcção-Geral do Tesouro, para efeito de prestação, por parte desta, de serviços equiparados aos da actividade bancária, em apoio às suas tesourarias.\n\n4 - As contas abertas na Direcção-Geral do Tesouro, em execução do disposto nos números anteriores, são remuneradas.\n\n5 - Constitui receita afecta à actividade da Direcção-Geral do Tesouro a remuneração auferida pela gestão global dos fundos públicos e pela prestação dos serviços equiparados aos da actividade bancária previstos no presente artigo.\n\n6 - A receita referida no número anterior é consignada ao pagamento das despesas da Direcção-Geral do Tesouro previstas no n.º 4 e de outros custos específicos da prestação de serviços equiparados aos da actividade bancária e da participação nos sistemas de compensação interbancária, mediante inscrição de dotações com compensação em receita.\n\n> Alterado pelo/a Artigo 55.º do/a [Lei n.º 107-B/2003 - Diário da República n.º 301/2003, 2º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 3-B/2000 - Diário da República n.º 80/2000, 2º Suplemento, Série I-A de 2000-04-04](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), produz efeitos a partir de 2000-01-01"
+  }
+ }
+}

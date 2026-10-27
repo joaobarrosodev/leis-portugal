@@ -1,0 +1,641 @@
+---
+schema_version: '1.0'
+id: pt:dre:334627:por
+title: Decreto-Lei n.º 60/90
+short_title: null
+summary: Altera o Código do Registo Predial
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 60/90
+official_date: null
+publication_date: '1990-02-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 38/1990, Série I de 1990-02-14
+  number: '38'
+  series: I
+  supplement: null
+  pages: 613 - 618
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/02/03800/06130618.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '334627'
+  dre_path: /dr/detalhe/decreto-lei/60-1990-334627
+  internal: pt:dre:334627:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1990-334627
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1990-334627
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:05:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c2b9d0f780e49850d6e07297fa27150d848e4efcc00504150d48473e94b8d137
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:05:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código do Registo Predial
+- Registo Predial
+relationships:
+- type: amended_by
+  target: pt:dre:499550:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:500048:por
+  label: "Alterado o art. 40.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.80/92.07.05.1992.MJ, DR.IS-A [105] de 07.05.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/80-1992-500048
+  date: '1992-05-07'
+- type: amended_by
+  target: pt:numero:decreto-lei:80/92
+  label: Alterado o artigo 40.º do Código do Registo Predial (aprovado pelo Decreto-Lei 224/84, de 06 de Julho), pelo Decreto-Lei
+    80/92, de 07 de Maio, DR.IS-A [105]
+  source: null
+  date: '1992-05-07'
+- type: amended_by
+  target: pt:dre:648374:por
+  label: "Alterado o art. 72.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.30/93.12.02.1993.MJ, DR.IS-A [36] de 12.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1993-648374
+  date: '1993-02-12'
+- type: amended_by
+  target: pt:dre:389636:por
+  label: "Alterado o art. 65º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 0-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.255/93.15.07.1993.MJ, DR.IS-A [164] de 15.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/255-1993-389636
+  date: '1993-07-15'
+- type: amended_by
+  target: pt:dre:657045:por
+  label: "Alterados os art.s 40º, 44º e 114º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção\
+    \ do presente diploma, pelo DEC LEI.227/94.08.09.1994.MJ, DR.IS-A [208] de 08.09.1994\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/227-1994-657045
+  date: '1994-09-08'
+- type: amended_by
+  target: pt:dre:553668:por
+  label: "Mantido em vigor o n.º 2 do art 148º do Código do Registo Predial, aprovado pelo Dec-Lei 224/84, de 06-Jun, na redacção\
+    \ do art 1º do presente diploma, pelo DEC LEI.224-A/96.26.11.1996.MJ, DR.IS-A [274-2ºSupl] de 26.11.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/224-a-1996-553668
+  date: '1996-11-26'
+- type: amended_by
+  target: pt:dre:508858:por
+  label: "Alterado o art. 147º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo presente diploma, pelo DEC LEI.375-A/99.20.09.1999.MJ, DR.IS-A [220-Supl] de 20.09.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/375-a-1999-508858
+  date: '1999-09-20'
+- type: amended_by
+  target: pt:dre:632723:por
+  label: "Alterados os art.s 9.º, 28.º, 30.º, 32.º, 44.º, 47.º, 65.º, 72.º, 83.º, 110.º, 141.º, 142.º, 143.º, 144.º, 145.º,\
+    \ 148.º, 149.º e 151.º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.533/99.1999.12.11.MJ DR.IS-A [287]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/533-1999-632723
+  date: '1999-12-11'
+- type: amended_by
+  target: pt:dre:621554:por
+  label: "Alterados os arts. 116º e 129.º do Código de Registo Predial aprovado pelo Dec Lei 224/84 de 06-Jun, alterados pelo\
+    \ presente diploma, pelo DEC LEI.273/2001.2001.10.13.MJ, DR.IS-A [238]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/273-2001-621554
+  date: '2001-10-13'
+- type: amended_by
+  target: pt:dre:499204:por
+  label: "Alterado o art. 56º do Código do Registo Predial aprovado pelo Dec Lei 224/84 de 06-Jul, com a redacção constante\
+    \ do presente diploma, pelo DEC LEI.263-A/2007.23.07.2007.MJ, DR.IS [140-Supl] de 23.07.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-a-2007-499204
+  date: '2007-07-23'
+- type: amended_by
+  target: pt:dre:456492:por
+  label: "Alterados os art.s 9º, 28º, 33º, 34º, 35º, 38º, 44º, 47º, 56º, 59º, 66º, 72º, 82º, 83º, 87º, 90º, 110º, 111º, 113º,\
+    \ 129º, 140º, 141º, 142º, 144º, 145º, 146º, 147º, 148º, 149º, 151º e revogados os art.s 30º e 32º, nº 3 do art. 33º, nº\
+    \ 3º do art. 38º, art. 40º, al.s d), e) ,e f) do nº 1 do art. 44º, art. 65º, al. a) do nº 1 do art. 66º, al. e) do nº\
+    \ 1 do art. 82º, art. 114º, nºs 4 e 5 do art. 129º, nº 2 do art. 141º, nºs 3, 4 e 5 do art. 142º, art. 143º, nº 2 do art\
+    \ 147º e art 152º do Código do Registo Predial aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente diploma,\
+    \ pelo DEC LEI.116/2008.04.07.2008.MJ, DR.IS [128] de 04.07.2008\08\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-2008-456492
+  date: '2008-07-04'
+- type: amended_by
+  target: pt:dre:608757:por
+  label: "Alterado o art. 56º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-Jul, na redacção do presente\
+    \ diploma, pelo DEC LEI.122/2009.21.05.2009.MJ, DR.IS [98] de 21.05.2009\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/122-2009-608757
+  date: '2009-05-21'
+- type: amended_by
+  target: pt:dre:493506:por
+  label: "Alterados os art.s 47º e 59º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06 -Jul, na redacção\
+    \ do presente diploma, pelo DEC LEI.185/2009.12.08.2009.MFAP, DR.IS [155] de 12.08.2009\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/185-2009-493506
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:176071:por
+  label: "Altera o art. 110º do Código do Registo Predial, aprovado pelo Dec Lei 224/84, de 06-jul, na redação do presente\
+    \ diploma, pelo DEC LEI.209/2012.19.09.2012.MJ, DR.IS [182] de 19.09.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/209-2012-176071
+  date: '2012-09-19'
+- type: amended_by
+  target: pt:dre:499550:por
+  label: "Alterados os arts. 44º, 66º, 140º, 141º, 145º, 147º, 148º, 149º e 151º do Código do Registo Predial aprovado pelo\
+    \ Dec Lei 224/84, de 06-jul, na redação do presente diploma, pelo DEC LEI.125/2013.30.08.2013.MJ, DR.IS [167] de 30.08.2013\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-2013-499550
+  date: '2013-08-30'
+- type: cites
+  target: pt:dre:591313:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:575543:por
+  label: Rectificados a al. b) do art. 3º, o nº 2 do art. 30º, a al. a) do art. 35º e o nº 1 do art. 90º pela DECL.DD3408.1990.03.31.PCM
+    DR.IS [76]SUPL
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1990-575543
+  date: '1990-03-16'
+article_structure:
+  article_count: 39
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:05:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 60/90
+
+de 14 de Fevereiro
+
+O presente diploma introduz diversas alterações ao Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, com a preocupação de garantir, juntamente com as modificações também introduzidas nas áreas do notariado e do registo civil, avançar decisivamente na simplificação, desburocratização e modernização dos serviços, preocupação maior de toda a Administração Pública.
+
+Pretende-se, no essencial, assegurar maior facilidade no acesso dos utentes ao registo predial.
+
+É assim que, na sequência da criação do sistema de fichas, que veio substituir os obsoletos livros em uso - o que representou notável modernização na técnica do registo e importante passo para a introdução da informática no registo predial -, importa agora aplicar este sistema a todos os registos a efectuar por inscrição, reservando-se os livros apenas para os registos, a lavrar por averbamento, que respeitem a inscrições anteriores.
+
+A harmonização do registo e da matriz nos termos actualmente em vigor é causa de número elevado de dúvidas e recusas, sem contrapartida evidente para a segurança da identificação do prédio.
+
+Mantém-se por isso a exigência dessa harmonização apenas quanto aos prédios rústicos submetidos a cadastro geométrico e ainda quanto à área dos restantes prédios rústicos e dos urbanos.
+
+A norma do artigo 9.º do Código veio diminuir drasticamente o campo de aplicação da regra da inscrição prévia do registo. Cumpre reconhecê-lo, fixando com rigor o princípio do trato sucessivo.
+
+Na via da simplificação, elimina-se a exigência de reconhecimento presencial da assinatura das declarações que servem de base a determinados registos.
+
+Limita-se, por outro lado, a exigência de requisição de certidão por meio de impresso oficial aos casos em que se torne indispensável identificar de forma circunstanciada o objecto do pedido, designadamente por se tratar de prédio não descrito.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º Os artigos 9.º, 28.º, 30.º, 32.º, 33.º, 34.º, 35.º, 38.º, 40.º, 44.º, 47.º, 56.º, 57.º, 59.º, 65.º, 66.º, 72.º, 82.º, 83.º, 87.º, 90.º, 110.º, 111.º, 113.º, 114.º, 116.º, 129.º, 140.º, 141.º, 142.º, 143.º, 144.º, 145.º, 146.º, 147.º, 148.º, 149.º, 151.º e 152.º do Código do Registo Predial, aprovado pelo [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, passam a ter a seguinte redacção:
+
+###### Artigo 9.º — [...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) Os actos de transmissão ou oneração outorgados por quem tenha adquirido, em instrumento lavrado no mesmo dia, os bens transmitidos ou onerados:
+
+c) ...
+
+3 - ...
+
+###### Artigo 28.º — [...]
+
+1 - Os prédios rústicos situados nos concelhos onde vigore o cadastro geométrico não podem ser descritos, nem actualizadas as respectivas descrições, em contradição com a correspondente inscrição matricial ou com o pedido da sua rectificação ou alteração.
+
+2 - Na descrição dos prédios urbanos e dos prédios rústicos ainda não submetidos ao cadastro geométrico, a exigência da harmonização é limitada aos números dos artigos matriciais e suas alterações e à área dos prédios.
+
+3 - ...
+
+###### Artigo 30.º — [...]
+
+1 - Nos títulos respeitantes a factos sujeitos a registo, a identificação dos prédios não pode ser feita em contradição com a inscrição na matriz, nos termos do artigo 28.º, nem com a respectiva descrição, salvo se, quanto a esta, os interessados esclarecerem que a divergência resulta de alteração superveniente ou que, tratando-se de matriz não cadastral, provém de simples erro de medição.
+
+2 - No caso de erro previsto na última parte do número anterior, devem os interessados juntar a planta do prédio, assinada por todos os proprietários confinantes.
+
+3 - A assinatura de qualquer proprietário confinante pode ser suprida pela sua notificação judicial, desde que não seja deduzida oposição no prazo de 15 dias.
+
+4 - A oposição referida no número anterior é anotada à descrição mediante apresentação de requerimento do notificado.
+
+###### Artigo 32.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Se a participação para a inscrição na matriz ou o pedido da sua rectificação ou alteração não tiverem sido feitos pelo proprietário ou possuidor, deve o interessado, sendo terceiro, fazer prova de que deu conhecimento à repartição de finanças da omissão ou alteração ou do erro existente.
+
+###### Artigo 33.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - A certidão a que se refere o número anterior é gratuita.
+
+###### Artigo 34.º — [...]
+
+1 - O registo definitivo de aquisição de direitos nos termos da alínea c) do n.º 2 do artigo 9.º ou de constituição de encargos por negócio jurídico depende da prévia inscrição dos bens em nome de quem os transmite ou onera.
+
+2 - ...
+
+###### Artigo 35.º — Dispensa de inscrição intermédia
+
+É dispensada a inscrição intermédia em nome dos titulares de bens ou direitos que façam parte de herança indivisa para o registo de:
+
+a) Aquisição de bens, operada em execução ou em inventário, para pagamento de dívidas de tornas;
+
+b) Aquisição em cumprimento de contrato-promessa de alienação ou em sua execução específica.
+
+###### Artigo 38.º — [...]
+
+1 - Os averbamentos às descrições só podem ser pedidos:
+
+a) Pelo proprietário ou possuidor definitivamente inscrito ou com a sua intervenção;
+
+b) Por qualquer interessado inscrito ou com a sua intervenção, não havendo proprietário ou possuidor inscrito;
+
+c) Por qualquer interessado inscrito que tenha requerido a notificação judicial do proprietário ou possuidor inscrito, não havendo oposição deste no prazo de 15 dias.
+
+2 - ...
+
+3 - ...
+
+4 - A oposição referida na alínea c) do n.º 1 é anotada à descrição mediante apresentação de requerimento do proprietário ou possuidor inscrito.
+
+###### Artigo 40.º — [...]
+
+1 - ...
+
+2 - Idêntica obrigação lhe incumbe quanto às doações que produzam efeitos independentemente de aceitação.
+
+3 - Para efeitos do disposto no número anterior, deve o notário remeter ao Ministério Público, até ao dia 15 de cada mês, certidão dos actos realizados no mês anterior.
+
+###### Artigo 44.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+2 - Os documentos comprovativos da descrição e do teor da inscrição matricial devem ter sido passados com antecedência não superior a seis meses em relação à data do título.
+
+3 - Se o prédio não estiver descrito, deve ser comprovada essa circunstância por certidão passada pela conservatória com antecedência não superior a três meses.
+
+4 - Da certidão dos actos referidos no n.º 1, passada para fins de registo, devem constar todos os elementos aí previstos.
+
+###### Artigo 47.º — [...]
+
+1 - O registo provisório de aquisição de um direito ou de constituição de hipoteca voluntária, antes de titulado o negócio, é feito com base em declaração do proprietário ou titular do direito.
+
+2 - A assinatura do declarante deve ser reconhecida presencialmente, salvo se for feita na presença do funcionário da conservatória competente para o registo.
+
+3 - O registo provisório de aquisição pode também ser feito com base em contrato-promessa de alienação, com reconhecimento presencial da assinatura dos outorgantes.
+
+###### Artigo 56.º — Cancelamento de hipoteca
+
+O cancelamento do registo de hipoteca é feito com base em documento autêntico ou autenticado de que conste o consentimento do credor.
+
+###### Artigo 57.º — Cancelamento de hipoteca para garantia de pensões periódicas
+
+A hipoteca para garantia de pensões periódicas é cancelada em face da certidão de óbito do respectivo titular e de algum dos seguintes documentos:
+
+a) Recibos de pagamento das pensões vencidas nos cinco anos anteriores à morte do pensionista;
+
+b) Declaração, assinada pelos herdeiros habilitados do pensionista, de não estar em dívida nenhuma pensão;
+
+c) Certidão, passada pelo tribunal da residência dos devedores, comprovativa de não ter sido distribuído no último decénio processo para cobrança das pensões, se o pensionista tiver morrido há mais de cinco anos.
+
+###### Artigo 59.º — [...]
+
+1 - O cancelamento dos registos provisórios por natureza, de aquisição e de hipoteca voluntária e o cancelamento dos registos provisórios por dúvidas são feitos com base em declaração do respectivo titular.
+
+2 - A assinatura do declarante deve ser reconhecida presencialmente, salvo se for feita perante o funcionário da conservatória competente para o registo.
+
+3 - No caso de existirem registos dependentes dos registos referidos no número anterior é igualmente necessário o consentimento dos respectivos titulares, prestado em declaração com idêntica formalidade.
+
+4 - O cancelamento do registo provisório de acção é feito com base em certidão da decisão, transitada em julgado, que absolva o réu do pedido ou da instância, a julgue extinta ou a declare interrompida.
+
+###### Artigo 65.º — Apresentação pelo correio
+
+1 - ...
+
+2 - O apresentante deve enviar os documentos e a requisição em carta registada, fazendo-os acompanhar do respectivo preparo e identificando-se nos termos previstos no n.º 2 do artigo 42.º
+
+3 - ...
+
+###### Artigo 66.º — [...]
+
+1 - A apresentação deve ser rejeitada apenas nos seguintes casos:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Quando o pedido não for feito em impresso de modelo aprovado, salvo nos casos de rectificação de registo e de anotação não oficiosa prevista na lei.
+
+2 - No caso de ser rejeitada, a requisição é devolvida com despacho justificativo do conservador.
+
+###### Artigo 72.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Presume-se assegurado o pagamento dos direitos correspondentes às transmissões operadas em inventário judicial e em escritura de doação, bem como às que tenham ocorrido há mais de 20 anos.
+
+###### Artigo 82.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) O valor patrimonial constante da matriz ou, na sua falta, o valor venal;
+
+f) ...
+
+2 - ...
+
+3 - ...
+
+###### Artigo 83.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) A menção do fim a que se destina.
+
+2 - ...
+
+a) ...
+
+b) ...
+
+3 - ...
+
+###### Artigo 87.º — [...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) As descrições dos prédios de cada proprietário submetidos a emparcelamento.
+
+3 - ...
+
+###### Artigo 90.º — [...]
+
+1 - Os elementos das descrições devem ser oficiosamente actualizados quando a alteração conste de documento expedido por entidade competente para comprovar o facto ou lavrado com intervenção da pessoa legítima para pedir a actualização.
+
+2 - Enquanto não se verificar a intervenção prevista no número anterior, a actualização é anotada à descrição, inutilizando-se a anotação se a intervenção não ocorrer dentro do prazo de vigência do registo que lhe deu origem.
+
+###### Artigo 110.º — [...]
+
+1 - As repartições de finanças procederão à conferência dos títulos de registo com as matrizes prediais quando em harmonia com a descrição predial, neles anotando o artigo e o valor patrimonial do prédio.
+
+2 - ...
+
+###### Artigo 111.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - Tratando-se de prédio não descrito deve indicar-se a natureza do prédio, a sua situação, as confrontações, o artigo da matriz e o nome, estado e residência do proprietário ou possuidor actual, bem como dos dois imediatamente anteriores, salvo, quanto a estes, se o requisitante alegar na requisição as razões justificativas do seu desconhecimento.
+
+4 - Se a requisição respeitar a quota-parte de prédio indiviso, deve conter o nome, estado e residência de todos os comproprietários.
+
+5 - Podem ser pedidas verbalmente fotocópias com valor de certidão dos registos e despachos e de quaisquer documentos.
+
+###### Artigo 113.º — [...]
+
+1 - As certidões são passados no prazo máximo de cinco dias, sempre que possível por fotocópia.
+
+2 - ...
+
+3 - ...
+
+###### Artigo 114.º — [...]
+
+1 - As certidões para prova da omissão dos prédios no registo destinadas a instruir inventário obrigatório são requisitadas com a indicação do fim a que se destinam e a respectiva conta entra em regra de custas, havendo-as.
+
+2 - ...
+
+3 - O regime de custas previsto no n.º 1 é aplicável às certidões requisitadas pelo Ministério Público ou por outras entidades que gozem de isenção emolumentar.
+
+###### Artigo 116.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O processo de justificação previsto na lei sobre emparcelamento substitui, com as necessárias adaptações, a escritura de justificação notarial.
+
+###### Artigo 129.º — [...]
+
+1 - O juiz ordenará a citação dos interessados para deduzirem oposição no prazo de 10 dias.
+
+2 - Se for deduzida oposição, seguem-se os termos do processo sumário.
+
+3 - Se não for deduzida oposição, o juiz ordenará as diligências que entender convenientes e decidirá sobre o mérito do pedido.
+
+###### Artigo 140.º — Reclamação
+
+1 - Do despacho de recusa do conservador em efectuar qualquer acto de registo nos termos requeridos cabe reclamação para o próprio conservador.
+
+2 - A recusa de rectificação de registos só pode ser apreciada no processo próprio regulado neste Código.
+
+3 - A impugnação de erros de conta dos actos e da recusa de passagem de certidões só pode ser feita por recurso hierárquico, depois de desatendida a reclamação para o próprio conservador.
+
+4 - Quando a recusa se fundamente em vício de que alegadamente enfermem os títulos lavrados por notário, a este assiste o direito de interpor reclamação, devendo o processo, neste caso, ser instruído com a autorização escrita do interessado presumivelmente prejudicado com a decisão.
+
+###### Artigo 141.º — Formalidades da reclamação
+
+1 - A reclamação deve ser escrita e fundamentada.
+
+2 - O prazo para a dedução é de 30 dias a contar do termo do prazo para o registo ou da notificação a que se refere o n.º 1 do artigo 71.º; tratando-se de reclamação contra a recusa de passagem de certidões, o prazo conta-se a partir do termo do prazo legal para a emissão.
+
+3 - No prazo de cinco dias o conservador deve apreciar a reclamação e proferir despacho fundamentado a reparar ou a manter a decisão.
+
+4 - O despacho é sempre notificado ao reclamante no prazo de 48 horas.
+
+###### Artigo 142.º — Recurso hierárquico
+
+1 - Do despacho que tiver indeferido a reclamação cabe recurso hierárquico para o director-geral dos Registos e do Notariado.
+
+2 - O prazo para interposição do recurso hierárquico é de 30 dias a contar da data da notificação do despacho referido no n.º 3 do artigo anterior.
+
+3 - A interposição do recurso considera-se feita com a apresentação da petição na conservatória.
+
+4 - No prazo de cinco dias o conservador deve remeter todo o processo à Direcção-Geral dos Registos e do Notariado, instruído com o de reclamação e com fotocópia do despacho de recusa e dos documentos que julgar necessários.
+
+###### Artigo 143.º — Apreciação do recurso hierárquico
+
+1 - O recurso hierárquico é decidido no prazo de 90 dias pelo director-geral dos Registos e do Notariado, que pode determinar que previamente seja ouvido o Conselho Técnico.
+
+2 - Quando haja de ser ouvido, o Conselho Técnico deve pronunciar-se no prazo máximo de 60 dias.
+
+3 - A decisão do director-geral diferente do parecer do Conselho Técnico deve ser fundamentada.
+
+4 - A decisão proferida é notificada ao reclamante por carta registada e comunicada ao conservador reclamado.
+
+###### Artigo 144.º — Registos dependentes
+
+1 - No caso de recusa, julgados procedentes a reclamação, o recurso hierárquico ou o recurso contencioso, deve anotar-se a caducidade dos registos provisórios incompatíveis com o acto inicialmente recusado e converter-se oficiosamente os registos dependentes.
+
+2 - Verificando-se a caducidade do direito de impugnação ou qualquer dos factos previstos no n.º 2 do artigo 149.º, é anotada a caducidade dos registos dependentes e são convertidos os registos incompatíveis.
+
+###### Artigo 145.º — Recurso contencioso
+
+1 - Tendo o recurso hierárquico sido julgado improcedente, o interessado pode interpor recurso contencioso do despacho do conservador.
+
+2 - O recurso é interposto para o tribunal da comarca no prazo de 20 dias a contar da data da notificação da decisão que tiver julgado improcedente o recurso hierárquico.
+
+3 - À interposição do recurso contencioso é aplicável o disposto no n.º 3 do artigo 142.º
+
+4 - No prazo de 10 dias o conservador deve remeter o processo a juízo, instruído com o de recurso hierárquico.
+
+###### Artigo 146.º — Julgamento do recurso contencioso
+
+1 - Recebido em juízo e independentemente de despacho, o processo vai com vista ao Ministério Público para emissão de parecer.
+
+2 - O juiz que tenha intervindo no processo donde conste o acto cujo registo está em causa fica impedido de julgar o recurso contencioso.
+
+###### Artigo 147.º — [...]
+
+1 - Da sentença proferida em processo de recurso contencioso podem sempre interpor recurso para a Relação, com efeito suspensivo, o interessado, o conservador e o Ministério Público.
+
+2 - O recurso é processado e julgado como agravo em matéria cível.
+
+3 - Do acórdão da Relação cabe agravo, nos termos da lei do processo, para o Supremo Tribunal de Justiça.
+
+4 - Decidido definitivamente o recurso contencioso, o chefe da secretaria deve remeter à conservatória certidão da decisão proferida; se houver desistência ou deserção do recuso ou se estiver parado mais de 30 dias por inércia do recorrente, deve o facto ser também comunicado.
+
+###### Artigo 148.º — Valor do recurso e isenção
+
+1 - O valor do recurso contencioso é o do facto cujo registo foi recusado ou feito provisoriamente por dúvidas.
+
+2 - Os conservadores são dispensados de preparos e isentos de custas, ainda que os motivos da recusa ou da provisoriedade sejam julgados improcedentes, salvo se tiverem agido com dolo.
+
+###### Artigo 149.º — Efeitos da impugnação
+
+1 - A interposição da reclamação e de recurso deve ser imediatamente anotada na ficha respectiva a seguir à anotação da recusa ou ao registo provisório.
+
+2 - São ainda anotadas a improcedência ou a desistência da impugnação, bem como a deserção do recurso ou paragem durante mais de 30 dias por inércia dos recorrentes.
+
+3 - Com a interposição do recuso fica suspenso o prazo de caducidade do registo provisório, até lhe serem anotados os factos referidos no número anterior.
+
+4 - Se o recurso for julgado procedente, o conservador lavrará o registo recusado, com base na apresentação correspondente à recusa, ou converterá oficiosamente o registo provisório.
+
+###### Artigo 151.º — [...]
+
+1 - ...
+
+2 - Nos casos de doação previstos no artigo 40.º, incumbe ao representante do incapaz o pagamento da conta, com dispensa de preparo.
+
+3 - ...
+
+4 - ...
+
+###### Artigo 152.º — [...]
+
+1 - ...
+
+2 - Os emolumentos dos actos de registo respeitantes a aquisições de prédios ou fracções autónomas em regime de habitação a custos controlados são reduzidos a 50% do seu valor.
+
+3 - Salvo disposição em contrário, todos os livros, fichas, verbetes ou impressos previstos neste Código e exclusivamente destinados ao serviço do registo não carecem de selo.
+
+Art. 2.º - 1 - O sistema de fichas previsto no Código do Registo Predial aplica-se integralmente aos registos a lavrar por inscrição, mantendo-se a sequência numérica das descrições por cada freguesia, de acordo com as disposições legais aplicáveis.
+
+2 - Para os actos de registo a efectuar por averbamento que respeitem a descrições anteriores podem ser transitoriamente utilizados os livros B, C, F e G, escriturados nos mesmos termos que as fichas, com as adaptações necessárias; o mesmo regime pode ser autorizado por despacho do director-geral dos Registos e do Notariado para os outros actos, sempre que tal se justifique.
+
+3 - Até à total substituição dos livros e à medida que forem sendo pedidos novos actos de registo serão extractadas nas fichas as descrições e inscrições em vigor que lhes digam respeito.
+
+4 - A cada descrição extractada é atribuído o número de ordem que lhe vier a caber dentro de cada freguesia, anotando-se na ficha o número e as folhas que tinha no livro e neste a referência à ficha.
+
+Art. 3.º O cancelamento de inscrição relativa a crédito que tenha sido sujeito a manifesto fiscal pode ser feito com base em certidão comprovativa de qualquer dos seguintes factos:
+
+a) Ter sido cancelado o manifesto há mais de 10 anos;
+
+b) Não constar o crédito dos livros para lançamento do imposto sobre a aplicação de capitais referente aos últimos cinco anos no caso de um manifesto dever ter sido feito há mais de 10 anos.
+
+Art. 4.º O presente diploma entra em vigor no primeiro dia do terceiro mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira.
+
+Promulgado em 31 de Janeiro de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 2 de Fevereiro de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

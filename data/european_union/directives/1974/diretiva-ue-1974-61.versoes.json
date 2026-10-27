@@ -1,0 +1,49 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31974L0061:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01974L0061-20141101",
+ "dre_path": null,
+ "source_lastmod": "2014-11-01",
+ "versions": [
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01974L0061-20130701",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f1602177ed0c751a"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "celex": "01974L0061-20141101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "6f50027249723889"
+   ]
+  }
+ ],
+ "fragments": {
+  "f1602177ed0c751a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1974L0061 — PT — 01.07.2013 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31974L0061) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31974L0061) [de 17 de Dezembro de 1973](http://publications.europa.eu/resource/celex/31974L0061) [relativa à aproximação das legislações dos Estados-membros respeitantes aos dispositivos de protecção contra a utilização não autorizada dos veículos a motor](http://publications.europa.eu/resource/celex/31974L0061) [(74/61/CEE)](http://publications.europa.eu/resource/celex/31974L0061) (JO L 038, 11.2.1974, p.22)\n\n**revogado por:**"
+  },
+  "6f50027249723889": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1974L0061 — PT — 01.11.2014 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31974L0061) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31974L0061) [de 17 de Dezembro de 1973](http://publications.europa.eu/resource/celex/31974L0061) [relativa à aproximação das legislações dos Estados-membros respeitantes aos dispositivos de protecção contra a utilização não autorizada dos veículos a motor](http://publications.europa.eu/resource/celex/31974L0061) [(74/61/CEE)](http://publications.europa.eu/resource/celex/31974L0061) (JO L 038, 11.2.1974, p.22)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 661/2009 do Parlamento Europeu e do Conselho de 13 de Julho de 2009](http://publications.europa.eu/resource/celex/32009R0661) — L 200 — 1 — 31.7.2009"
+  }
+ }
+}

@@ -1,0 +1,318 @@
+---
+schema_version: '1.0'
+id: pt:dre:66655594:por
+title: Decreto-Lei n.º 33/2015
+short_title: null
+summary: Estabelece obrigações relativas à exportação e importação de produtos químicos perigosos, assegurando a execução,
+  na ordem jurídica interna, do Regulamento (UE) n.º 649/2012, do Parlamento Europeu e do Conselho, de 4 de julho de 2012
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, Ordenamento do Território e Energia
+proposing_entity: null
+official_number: 33/2015
+official_date: null
+publication_date: '2015-03-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 44/2015, Série I de 2015-03-04
+  number: '44'
+  series: I
+  supplement: null
+  pages: 1310 - 1312
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/03/04400/0131001312.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/33/2015/03/04/p/dre/pt/html
+  oj: null
+  dre: '66655594'
+  dre_path: /dr/detalhe/decreto-lei/33-2015-66655594
+  internal: pt:dre:66655594:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2015-66655594
+  metadata_url: https://data.dre.pt/eli/dec-lei/33/2015/03/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2015-66655594
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:29:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 11e5219fbfc080be1da8eaddcef492bcc3f0af2c5cccdc0520a532a574d42a78
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:29:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Agência Europeia dos Produtos Químicos
+- Agência Portuguesa do Ambiente
+- ASAE
+- Autoridade Nacional
+- Autoridade Tributária e Aduaneira
+- Comércio Internacional
+- Comissão CE
+- Contra-ordenação
+- Definição de Competências
+- Exportação
+- Fiscalização
+- Importação
+- Inspeção Geral da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Madeira.região Autónoma
+- Multa
+- Produto Químico
+- Proteção do Ambiente
+- Regulamento
+- Regulamento CE
+relationships:
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Atualizadas as taxas previstas no art. 10.º do presente diploma, pelo(a) Lei n.º 71/2018 - Diário da República n.º
+    251/2018, Série I de 2018-12-31 nos termos do seu art. 245.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Atualizadas as taxas previstas no art. 10.º do presente diploma pelo(a) Lei n.º 2/2020 - Diário da República n.º
+    64/2020, Série I de 2020-03-31 nos termos do seu art. 299.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Atualizadas, as taxas previstas no art. 10.º do presente diploma, pelo(a) Lei n.º 75-B/2020 - Diário da República
+    n.º 253/2020, 1º Suplemento, Série I de 2020-12-31, nos termos do seu art. 319.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-b-2020-152639825
+  date: '2020-12-31'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Atualizadas, em 2022, as taxas previstas no art. 10.º pelo(a) Lei n.º 12/2022 - Diário da República n.º 122/2022,
+    Série I de 2022-06-27 nos termos do art. 241.º desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/12-2022-185224662
+  date: '2022-06-27'
+- type: cites
+  target: celex:32006R1907
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1907/oj
+- type: cites
+  target: celex:32008R0689
+  label: null
+  source: http://data.europa.eu/eli/reg/2008/689/oj
+- type: cites
+  target: celex:32008R1272
+  label: null
+  source: http://data.europa.eu/eli/reg/2008/1272/oj
+- type: cites
+  target: celex:32012R0649
+  label: null
+  source: http://data.europa.eu/eli/reg/2012/649/oj
+- type: cites
+  target: pt:dre:279442:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/36/2011/03/09/p/dre
+- type: cites
+  target: pt:dre:488489:por
+  label: null
+  source: http://data.dre.pt/eli/lei/89/2009/08/31/p/dre
+- type: cites
+  target: pt:dre:540820:por
+  label: null
+  source: http://data.dre.pt/eli/lei/50/2006/08/29/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:29:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 33/2015
+
+de 4 de março
+
+O [Regulamento (UE) n.º 649/2012](https://data.europa.eu/eli/reg/2012/649/oj?locale=pt), do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativo à exportação e importação de produtos químicos perigosos, adiante designado por Regulamento PIC, que revogou o [Regulamento (CE) n.º 689/2008](https://data.europa.eu/eli/reg/2008/689/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de junho de 2008, relativo à exportação e importação de produtos químicos perigosos, tem por objetivo aplicar a Convenção de Roterdão relativa ao Procedimento de Prévia Informação e Consentimento para Determinados Produtos Químicos e Pesticidas Perigosos no Comércio Internacional (PIC), bem como promover uma partilha de responsabilidades e incentivar os esforços de cooperação no domínio do movimento internacional de produtos químicos perigosos, a fim de proteger a saúde humana e o ambiente e contribuir para uma utilização ambientalmente racional dos produtos químicos perigosos.
+
+O Regulamento PIC visa, igualmente, alcançar a coerência com outros atos normativos da União Europeia, harmonizando a terminologia com a que consta do [Regulamento (CE) n.º 1907/2006](https://data.europa.eu/eli/reg/2006/1907/oj?locale=pt), do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, relativo ao registo, avaliação, autorização e restrição de produtos químicos (REACH), e do [Regulamento (CE) n.º 1272/2008](https://data.europa.eu/eli/reg/2008/1272/oj?locale=pt), do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas.
+
+O Regulamento PIC mantém, no essencial, o conteúdo e a estrutura do regulamento precedente, incluindo um sistema comum de regras de notificação e de informação de exportação às autoridades competentes dos Estados-Membros, para produtos químicos perigosos proibidos ou severamente restringidos no seio da União Europeia, cuja execução na ordem jurídica interna tem sido assegurada pelo [Decreto-Lei n.º 36/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2011-279442), de 9 de março.
+
+A Agência Europeia dos Produtos Químicos (ECHA) é a entidade responsável por manter e desenvolver a base de dados europeia sobre exportação e importação de produtos químicos perigosos, inicialmente criada pela Comissão Europeia, bem como por exercer funções ligadas aos aspetos administrativos, técnicos e científicos da aplicação da Convenção e do intercâmbio de informações, para além do dever de prestar assistência e orientação técnica e científica à indústria, às autoridades nacionais designadas dos países da UE e de países terceiros e à Comissão Europeia. Em Portugal, a Agência Portuguesa do Ambiente, I. P., é a autoridade nacional competente.
+
+O Regulamento PIC disciplina, ainda, a exportação de produtos químicos perigosos proibidos ou severamente restringidos na União Europeia, abrangidos no âmbito de aplicação da Convenção de Roterdão, e prevê a obrigatoriedade de fornecimento, à autoridade nacional competente, por parte dos importadores e exportadores, de informação sobre as quantidades anuais importadas e exportadas.
+
+Através do presente decreto-lei pretende-se assegurar a execução do Regulamento PIC na ordem jurídica interna portuguesa.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei assegura a execução, na ordem jurídica interna, do [Regulamento (UE) n.º 649/2012](https://data.europa.eu/eli/reg/2012/649/oj?locale=pt), do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativo à exportação e importação de produtos químicos perigosos, adiante designado por Regulamento PIC.
+
+###### Artigo 2.º — Autoridade nacional
+
+A Agência Portuguesa do Ambiente, I. P. (APA, I. P.), é a autoridade nacional competente para executar as obrigações do Estado Português decorrentes do Regulamento PIC.
+
+###### Artigo 3.º — Controlo de importação e exportação de produtos químicos
+
+Compete à Autoridade Tributária e Aduaneira (AT) o exercício das competências de controlo da importação e exportação dos produtos químicos incluídos no anexo I do Regulamento PIC, bem como a elaboração de relatórios sobre essa atividade.
+
+###### Artigo 4.º — Comunicação de dados
+
+1 - A APA, I. P., assegura a comunicação de dados à Agência Europeia dos Produtos Químicos (ECHA) e à Comissão Europeia sobre a aplicação dos procedimentos previstos no Regulamento PIC.
+
+2 - Para efeitos do cumprimento do disposto no número anterior, a AT, a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT) e a Autoridade de Segurança Alimentar e Económica (ASAE) transmitem à APA, I. P., as informações relativas aos controlos aduaneiros e às infrações, sanções e medidas corretivas aplicadas.
+
+3 - As entidades previstas no número anterior fornecem, igualmente, à APA, I. P., a informação que seja considerada necessária para a aplicação do Regulamento PIC.
+
+###### Artigo 5.º — Fiscalização
+
+Sem prejuízo das competências atribuídas por lei a outras autoridades policiais e fiscalizadoras, a fiscalização do cumprimento do disposto no presente decreto-lei compete à IGAMAOT, no âmbito das respetivas competências.
+
+###### Artigo 6.º — Contraordenações ambientais
+
+1 - Constitui contraordenação ambiental grave, nos termos do disposto na [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, alterada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de agosto, a prática das seguintes infrações ao Regulamento PIC:
+
+a) A exportação efetuada ao abrigo do previsto no n.º 3 do artigo 2.º do Regulamento PIC sem um número de identificação de referência especial;
+
+b) A exportação de produtos químicos ao abrigo do n.º 3 do artigo 2.º do Regulamento PIC, em quantidades superiores a 10 kg por exportador, para cada país de importação e por ano civil, em violação das disposições do presente decreto-lei;
+
+c) A violação da obrigação de notificação à APA, I. P., da primeira exportação de um produto químico incluído na Lista dos Produtos Químicos que consta na parte 1 do anexo I do Regulamento PIC, prevista no n.º 2 do artigo 8.º do Regulamento PIC;
+
+d) A violação da obrigação de notificação à APA, I. P., da primeira exportação de cada produto químico em cada ano civil, referente às exportações subsequentes, prevista no n.º 2 do artigo 8.º do Regulamento PIC;
+
+e) A violação da obrigação de realizar nova notificação à APA, I. P., após a entrada em vigor de alterações na legislação comunitária relativa à colocação no mercado, utilização ou rotulagem de substâncias, ou caso a composição da mistura em causa seja alterada de forma que implique uma alteração da respetiva rotulagem, prevista no n.º 4 do artigo 8.º do Regulamento PIC;
+
+f) A violação, pelo exportador, do dever de fornecer a informação adicional sobre os produtos químicos exportados que lhe seja solicitada, estabelecido no n.º 7 do artigo 8.º do Regulamento PIC;
+
+g) A violação, pelo exportador ou pelo importador na União Europeia, do dever de informação sobre o comércio de produtos químicos, estabelecido no n.º 1 do artigo 10.º do Regulamento PIC;
+
+h) A violação, pelo exportador ou pelo importador, do dever de fornecer a informação adicional relativa ao comércio de produtos químicos necessária à aplicação do Regulamento PIC, que lhes seja solicitada pela APA, I. P., ou pela Comissão Europeia, estabelecido no n.º 2 do artigo 10.º do Regulamento PIC;
+
+i) A violação, pelo exportador ou pelo importador, do dever de fornecer à Comissão Europeia toda a informação relevante disponível, designadamente a relativa a programas nacionais ou internacionais de controlo de produtos químicos, estabelecido no n.º 4 do artigo 11.º do Regulamento PIC;
+
+j) O incumprimento das decisões constantes das respostas de importação, prevista no n.º 4 do artigo 14.º do Regulamento PIC;
+
+k) A violação da proibição de exportação de produtos químicos sem consentimento expresso, prevista no n.º 6 do artigo 14.º do Regulamento PIC;
+
+l) A violação da proibição de exportação de produtos químicos com uma data de validade inferior a seis meses, prevista no n.º 10 do artigo 14.º do Regulamento PIC;
+
+m) A violação do dever de assegurar que o rótulo contém as informações específicas sobre condições de armazenamento e de estabilidade no armazenamento, estabelecido no n.º 11 do artigo 14.º do Regulamento PIC;
+
+n) A violação do dever de assegurar que os pesticidas exportados obedecem às especificações relativas ao grau de pureza estabelecidas na legislação comunitária, estabelecido no n.º 11 do artigo 14.º do Regulamento PIC;
+
+o) A violação, por parte do exportador, dos procedimentos de notificação de exportação estabelecidos nas alíneas a) e b) do n.º 1 do artigo 15.º do Regulamento PIC;
+
+p) A violação da proibição de exportação de produtos químicos e artigos cuja utilização está proibida na União Europeia, prevista no n.º 2 do artigo 15.º do Regulamento PIC;
+
+q) A violação, por parte do exportador, da obrigação de indicar o prazo de validade e a data de produção dos produtos químicos perigosos no rótulo da embalagem, quando aplicável, prevista no n.º 2 do artigo 17.º do Regulamento PIC;
+
+r) A violação, por parte do exportador, da obrigação de fornecer a informação contida no rótulo e na ficha de dados de segurança na língua oficial ou principal do país ou região de destino, prevista no n.º 4 do artigo 17.º do Regulamento PIC;
+
+s) A violação da obrigação de obter um número de identificação de referência especial e de o apresentar na declaração de exportação, nos casos previstos no n.º 2 do artigo 19.º do Regulamento PIC.
+
+2 - Constitui contraordenação ambiental leve, nos termos do disposto na [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, alterada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de agosto, a prática das seguintes infrações ao Regulamento PIC:
+
+a) A violação, pelo exportador, da obrigação de cumprimento do prazo de 35 dias para notificar a APA, I. P., antes da data prevista para a primeira exportação de um produto químico incluído na lista da parte 1 do anexo I do Regulamento PIC, nos termos do n.º 2 do artigo 8.º do mesmo Regulamento;
+
+b) O incumprimento dos requisitos, em matéria de informação, para a notificação de exportação estabelecidos no anexo II do Regulamento PIC, nos termos do n.º 2 do artigo 8.º do mesmo Regulamento;
+
+c) A violação, por parte do exportador, da obrigação de cumprimento do prazo de 35 dias para notificar a APA, I. P., antes da data prevista para a primeira exportação de um produto químico em cada ano civil, nos casos referentes às exportações subsequentes, nos termos do n.º 2 do artigo 8.º do Regulamento PIC;
+
+d) O incumprimento dos requisitos, em matéria de informação, para a nova notificação de exportação estabelecidos no anexo II do Regulamento PIC, nos termos do n.º 4 do artigo 8.º do mesmo Regulamento;
+
+e) A violação, pelo exportador e pelo importador, do prazo estabelecido no n.º 1 do artigo 10.º do Regulamento PIC, relativo ao dever de informação sobre o comércio de produtos químicos;
+
+f) A violação, pelo exportador ou pelo importador, do prazo estabelecido no n.º 4 do artigo 11.º do Regulamento PIC, relativo à obrigação de fornecer à Comissão Europeia informação relevante de que disponham, designadamente a relativa a programas nacionais ou internacionais de controlo de produtos químicos;
+
+g) A violação, por parte do exportador de pesticidas, da obrigação de assegurar a otimização da dimensão e embalagem dos contentores, nos termos do n.º 10 do artigo 14.º do Regulamento PIC;
+
+h) A violação da obrigação de prestação de informação, nos termos do anexo VI do Regulamento PIC, sobre movimentos em trânsito, prevista no n.º 2 do artigo 16.º do Regulamento PIC.
+
+3 - A tentativa e a negligência são puníveis nos termos do disposto na [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, alterada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de agosto.
+
+4 - Sempre que a gravidade da infração o justifique, pode a IGAMAOT, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, alterada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de agosto.
+
+5 - Pode ser objeto de publicidade, nos termos do disposto no artigo 38.º da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, alterada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de agosto, a condenação pela prática das infrações graves previstas no n.º 1, quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável.
+
+###### Artigo 7.º — Medidas cautelares
+
+As entidades competentes para a fiscalização do disposto no presente decreto-lei podem determinar a aplicação de medidas cautelares, incluindo a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, alterada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de agosto.
+
+###### Artigo 8.º — Instrução, decisão dos processos e sanções acessórias
+
+1 - Qualquer autoridade referida no artigo 5.º ou agente de autoridade que, no exercício das suas funções de fiscalização, detete a prática de contraordenação por violação do presente decreto-lei, levanta ou manda levantar o correspondente auto de notícia.
+
+2 - Sempre que o auto de notícia for levantado pela IGAMAOT, a instrução do correspondente processo de contraordenação e a aplicação das coimas e das sanções acessórias competem à autoridade autuante.
+
+3 - Quando o auto de notícia for levantado por entidade diversa, o mesmo é remetido à IGAMAOT, no prazo de 10 dias, para instrução do correspondente processo de contraordenação e aplicação das coimas e das sanções acessórias.
+
+###### Artigo 9.º — Destino do produto das coimas
+
+O produto das coimas relativas às contraordenações previstas no presente decreto-lei é afetado nos termos do artigo 73.º da [Lei n.º 50/2006](https://diariodarepublica.pt/dr/detalhe/lei/50-2006-540820), de 29 de agosto, alterada pela [Lei n.º 89/2009](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), de 31 de agosto.
+
+###### Artigo 10.º — Taxas
+
+1 - Pela análise de cada notificação de exportação, incluindo eventual procedimento de pedido de consentimento expresso, nos termos dos n.os 2 e 4 do artigo 8.º e dos n.os 6 e 7 do artigo 14.º do Regulamento PIC, é devido o pagamento à APA, I. P., de uma taxa no valor de 250 euros.
+
+2 - O pagamento da taxa é efetuado previamente pelo exportador, sendo o respetivo comprovativo apresentado com o pedido de consentimento expresso ou de notificação de exportação, e constitui receita própria da APA, I. P..
+
+3 - O valor da taxa é anualmente atualizado, de acordo com o índice de preços no consumidor publicado pelo Instituto Nacional de Estatística, arredondando-se o resultado da casa decimal superior, e divulgado pela APA, I. P., no seu sítio na Internet.
+
+###### Artigo 11.º — Regiões Autónomas
+
+1 - O presente decreto-lei aplica-se às Regiões Autónomas com as adaptações determinadas pelo interesse específico, cabendo a sua execução administrativa aos órgãos e serviços das respetivas administrações regionais, sem prejuízo da gestão a nível nacional.
+
+2 - Os serviços e organismos das respetivas administrações regionais devem remeter à APA, I. P., a informação necessária ao cumprimento das obrigações constantes do artigo 4.º
+
+3 - O produto das taxas e das coimas aplicadas nas Regiões Autónomas constitui receita própria destas.
+
+###### Artigo 12.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 36/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2011-279442), de 9 de março.
+
+Visto e aprovado em Conselho de Ministros de 18 de dezembro de 2014. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - Rui Manuel Parente Chancerelle de Machete - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva.
+
+Promulgado em 24 de fevereiro de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 26 de fevereiro de 2015.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

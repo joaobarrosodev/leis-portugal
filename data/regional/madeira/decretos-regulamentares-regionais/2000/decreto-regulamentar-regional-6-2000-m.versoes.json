@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:411354:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2000-169780002",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/6-2000-411354",
+ "source_lastmod": "2025-06-25",
+ "versions": [
+  {
+   "date": "2000-03-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "922571060",
+    "169779959",
+    "169779960",
+    "169779961",
+    "169779962"
+   ]
+  },
+  {
+   "date": "2001-05-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:314198:por",
+     "title": "Decreto Regulamentar Regional n.º 7/2001/M",
+     "published": "2001-05-11",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/7-2001-314198"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "922571060",
+    "922571061",
+    "922571062",
+    "922571063",
+    "922571064",
+    "922571065"
+   ]
+  }
+ ],
+ "fragments": {
+  "922571060": {
+   "fragment_id": "169780003",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2001-05-12",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 6/2000/M\n\nAltera o Decreto Regulamentar Regional n.º 11/97/M, de 12 de Maio, que aprova a orgânica da Direcção Regional dos Transportes Terrestres.\n\nCom a publicação do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, da Lei n.º 44/99, de 11 de Junho, e do Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto, verificou-se a necessidade premente de se proceder à reorganização da orgânica da Direcção Regional dos Transportes Terrestres, mais concretamente no que toca à reorganização da área administrativa.\n\nDeste modo, importa dar execução ao estatuído nos diplomas acima referidos, procedendo-se à alteração daquela orgânica.\n\nAssim:\n\nNos termos da alínea d) do n.º 1 do artigo 227.º e do artigo 231.º, n.º 5, da Constituição da República Portuguesa, do artigo 69.º, alíneas c) e d), do Estatuto Político-Administrativo da Região Autónoma da Madeira, revisto pela Lei n.º 130/99, de 21 de Agosto, e do Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "169779959": {
+   "fragment_id": "169780004",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA estrutura orgânica da Direcção Regional dos Transportes Terrestres, publicada em anexo ao Decreto Regulamentar Regional n.º 11/97/M, de 12 de Maio, é alterada nos termos dos artigos seguintes."
+  },
+  "169779960": {
+   "fragment_id": "169780005",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs artigos 5.º, 9.º, 13.º, 16.º e 19.º passam a ter as seguintes redacções:\n\n«SECÇÃO III\n\nGabinete Técnico de Apoio\n\nArtigo 5.º\n\nAtribuições e estrutura\n\n1 - ...\n\n2 - ...\n\n3 - O GTA compreende um Departamento dos Serviços Administrativos.\n\n4 - O Departamento dos Serviços Administrativos, abreviadamente designado por DSA, é o serviço de apoio administrativo e logístico da DRTT, competindo-lhe, nomeadamente, o seguinte:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n5 - O DSA compreende as seguintes secções:\n\na) ...\n\nb) ...\n\nArtigo 9.º\n\nDivisão de Viação\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n2 - A Divisão de Viação compreende o Departamento Administrativo dos Serviços de Viação.\n\n3 - O Departamento Administrativo dos Serviços de Viação, abreviadamente designado DASV, é o serviço que assegura o normal funcionamento da Divisão de Viação no plano administrativo, competindo-lhe, nomeadamente:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n4 - O DASV compreende as seguintes secções:\n\na) Secção de Condutores;\n\nb) Secção de Segurança Rodoviária.\n\nArtigo 13.º\n\nEstrutura\n\nA DSTT compreende:\n\na) ...\n\nb) ...\n\nc) O Departamento Administrativo dos Transportes Terrestres.\n\nArtigo 16.º\n\nDepartamento Administrativo dos Transportes Terrestres\n\n1 - O Departamento Administrativo dos Transportes Terrestres, abreviadamente designado por DATT, é o serviço que assegura o normal funcionamento da DSTT no plano administrativo, competindo-lhe, nomeadamente:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n2 - O DATT compreende as seguintes secções:\n\na) Secção de Registo;\n\nb) Secção de Arquivo;\n\nc) Secção de Veículos.\n\nArtigo 19.º\n\nCarreira de inspector de viação\n\n1 - ...\n\n2 - A carreira de inspector de viação integra-se no grupo de pessoal técnico-profissional e desenvolve-se pelas categorias de inspector de viação de 2.ª classe, de 1.ª classe, principal, especialista e especialista principal.\n\n3 - O recrutamento para as categorias de inspector de viação especialista principal, especialista, principal e de 1.ª classe faz-se de acordo com as regras estabelecidas nas alíneas b) e c) do n.º 1 do artigo 6.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro.\n\n4 - O recrutamento para a categoria de inspector de viação de 2.ª classe faz-se de acordo com o estabelecido na alínea d) do n.º 1 do artigo 6.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, ou de entre indivíduos habilitados com o curso complementar do ensino secundário ou equivalente, aprovados em estágio, com classificação não inferior a Bom (14 valores), possuidores de carta de condução que os habilite para a condução de veículos das categorias A, B e C.»"
+  },
+  "169779961": {
+   "fragment_id": "169780006",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAo Decreto Regulamentar Regional n.º 11/97/M, de 12 de Maio, são aditados os artigos 18.º-A, 18.º-B, 18.º-C, 21.º-A e 21.º-B, com as seguintes redacções:\n\n«Artigo 18.º-A\n\nCarreira de coordenador\n\n1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.\n\n2 - O recrutamento para as categorias de coordenador especialista e de coordenador faz-se, respectivamente, de entre coordenadores e assistentes administrativos, com o mínimo de três anos na respectiva carreira, estes últimos com comprovada experiência na área administrativa.\n\nArtigo 18.º-B\n\nRemuneração\n\nOs escalões salariais da carreira de coordenador referida no artigo anterior são os constantes do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto.\n\nArtigo 18.º-C\n\nRegras de transição para a carreira de coordenador\n\n1 - Os chefes de secção actualmente afectos à DRTT transitam, independentemente de quaisquer formalidades, para a categoria de coordenador especialista.\n\n2 - A transição faz-se índice igual ou, na falta de coincidência, índice mais aproximado àquele em que se encontrem posicionados.\n\n3 - Quando o funcionário for integrado em igual índice, o tempo de serviço prestado no escalão de origem releva para efeitos de progressão.\n\n4 - A transição faz-se por aplicação deste diploma e produz efeitos à data da sua publicação.\n\nArtigo 21.º-A\n\nChefes de departamento\n\n1 - São criados no quadro de pessoal da DRTT três lugares de chefe de departamento, a extinguir quando vagarem.\n\n2 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n3 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.\n\n4 - Quando da transição resulte um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeitos de progressão na nova categoria.\n\n5 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.\n\nArtigo 21.º-B\n\nCom a entrada em vigor do presente diploma são extintos os lugares de chefe de repartição.»"
+  },
+  "169779962": {
+   "fragment_id": "169780007",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nEste diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "922571061": {
+   "fragment_id": "169780004",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "###### Artigo 1.º\n\nA estrutura orgânica da Direcção Regional dos Transportes Terrestres, publicada em anexo ao Decreto Regulamentar Regional n.º 11/97/M, de 12 de Maio, é alterada nos termos dos artigos seguintes.\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "922571062": {
+   "fragment_id": "169780005",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs artigos 5.º, 9.º, 13.º, 16.º e 19.º passam a ter as seguintes redacções:\n\n«SECÇÃO III\n\nGabinete Técnico de Apoio\n\nArtigo 5.º\n\nAtribuições e estrutura\n\n1 - ...\n\n2 - ...\n\n3 - O GTA compreende um Departamento dos Serviços Administrativos.\n\n4 - O Departamento dos Serviços Administrativos, abreviadamente designado por DSA, é o serviço de apoio administrativo e logístico da DRTT, competindo-lhe, nomeadamente, o seguinte:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n5 - O DSA compreende as seguintes secções:\n\na) ...\n\nb) ...\n\nArtigo 9.º\n\nDivisão de Viação\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n2 - A Divisão de Viação compreende o Departamento Administrativo dos Serviços de Viação.\n\n3 - O Departamento Administrativo dos Serviços de Viação, abreviadamente designado DASV, é o serviço que assegura o normal funcionamento da Divisão de Viação no plano administrativo, competindo-lhe, nomeadamente:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n4 - O DASV compreende as seguintes secções:\n\na) Secção de Condutores;\n\nb) Secção de Segurança Rodoviária.\n\nArtigo 13.º\n\nEstrutura\n\nA DSTT compreende:\n\na) ...\n\nb) ...\n\nc) O Departamento Administrativo dos Transportes Terrestres.\n\nArtigo 16.º\n\nDepartamento Administrativo dos Transportes Terrestres\n\n1 - O Departamento Administrativo dos Transportes Terrestres, abreviadamente designado por DATT, é o serviço que assegura o normal funcionamento da DSTT no plano administrativo, competindo-lhe, nomeadamente:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n2 - O DATT compreende as seguintes secções:\n\na) Secção de Registo;\n\nb) Secção de Arquivo;\n\nc) Secção de Veículos.\n\nArtigo 19.º\n\nCarreira de inspector de viação\n\n1 - ...\n\n2 - A carreira de inspector de viação integra-se no grupo de pessoal técnico-profissional e desenvolve-se pelas categorias de inspector de viação de 2.ª classe, de 1.ª classe, principal, especialista e especialista principal.\n\n3 - O recrutamento para as categorias de inspector de viação especialista principal, especialista, principal e de 1.ª classe faz-se de acordo com as regras estabelecidas nas alíneas b) e c) do n.º 1 do artigo 6.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro.\n\n4 - O recrutamento para a categoria de inspector de viação de 2.ª classe faz-se de acordo com o estabelecido na alínea d) do n.º 1 do artigo 6.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, ou de entre indivíduos habilitados com o curso complementar do ensino secundário ou equivalente, aprovados em estágio, com classificação não inferior a Bom (14 valores), possuidores de carta de condução que os habilite para a condução de veículos das categorias A, B e C.»\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "922571063": {
+   "fragment_id": "169780006",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12",
+    "Retificado pelo/a [Declaração de Rectificação n.º 5-I/2000 - Diário da República n.º 77/2000, 3º Suplemento, Série I-B de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-i-2000-184044), produz efeitos a partir de 2000-03-16"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAo Decreto Regulamentar Regional n.º 11/97/M, de 12 de Maio, são aditados os artigos 18.º-A, 18.º-B, 18.º-C, 21.º-A e 21.º-B, com as seguintes redacções:\n\n«Artigo 18.º-A\n\nCarreira de coordenador\n\n1 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.\n\n2 - O recrutamento para as categorias de coordenador especialista e de coordenador faz-se, respectivamente, de entre coordenadores e assistentes administrativos, com o mínimo de três anos na respectiva carreira, estes últimos com comprovada experiência na área administrativa.\n\nArtigo 18.º-B\n\nRemuneração\n\nOs escalões salariais da carreira de coordenador referida no artigo anterior são os constantes do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto.\n\nArtigo 18.º-C\n\nRegras de transição para a carreira de coordenador\n\n1 - Os chefes de secção actualmente afectos à DRTT transitam, independentemente de quaisquer formalidades, para a categoria de coordenador.\n\n2 - A transição faz-se índice igual ou, na falta de coincidência, índice mais aproximado àquele em que se encontrem posicionados.\n\n3 - Quando o funcionário for integrado em igual índice, o tempo de serviço prestado no escalão de origem releva para efeitos de progressão.\n\n4 - A transição faz-se por aplicação deste diploma e produz efeitos à data da sua publicação.\n\nArtigo 21.º-A\n\nChefes de departamento\n\n1 - São criados no quadro de pessoal da DRTT três lugares de chefe de departamento, a extinguir quando vagarem.\n\n2 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n3 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.\n\n4 - Quando da transição resulte um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeitos de progressão na nova categoria.\n\n5 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.\n\nArtigo 21.º-B\n\nCom a entrada em vigor do presente diploma são extintos os lugares de chefe de repartição.»\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12\n\n> Retificado pelo/a [Declaração de Rectificação n.º 5-I/2000 - Diário da República n.º 77/2000, 3º Suplemento, Série I-B de 2000-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/5-i-2000-184044), produz efeitos a partir de 2000-03-16"
+  },
+  "922571064": {
+   "fragment_id": "169780007",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "###### Artigo 4.º\n\nEste diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  },
+  "922571065": {
+   "fragment_id": "169780008",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2001-05-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional em 17 de Janeiro de 2000.\n\nPelo Presidente do Governo Regional, José Paulo Baptista Fontes.\n\nAssinado em 15 de Fevereiro de 2000.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.\n\n> Revogado pelo/a Artigo 100.º do/a [Decreto Regulamentar Regional n.º 7/2001/M - Diário da República n.º 109/2001, Série I-B de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), em vigor a partir de 2001-05-12"
+  }
+ }
+}

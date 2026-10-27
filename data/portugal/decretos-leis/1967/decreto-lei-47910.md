@@ -1,0 +1,212 @@
+---
+schema_version: '1.0'
+id: pt:dre:390268:por
+title: Decreto-Lei n.º 47910
+short_title: null
+summary: Promulga o novo ajustamento das regras concernentes às reservas de caixa e formas de coberturas complementares das
+  responsabilidades a curto prazo dos bancos comerciais no continente e ilhas adjacentes - Revoga o corpo e o § 1.º do artigo
+  57.º e os artigos 60.º e 62.º do Decreto-Lei n.º 42641 e os artigos 2.º a 6.º, 21.º e 24.º do Decreto-Lei n.º 46492
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Gabinete do Ministro
+proposing_entity: null
+official_number: '47910'
+official_date: null
+publication_date: '1967-09-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 209/1967, Série I de 1967-09-07
+  number: '209'
+  series: I
+  supplement: null
+  pages: 1609 - 1610
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/09/20900/16091610.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390268'
+  dre_path: /dr/detalhe/decreto-lei/47910-1967-390268
+  internal: pt:dre:390268:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47910-1967-390268
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47910-1967-390268
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5a0a3cf87a4173bdef38eb4af3723ef429ff5941536ef06f6a181496da5e5ef5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:02:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Bancária
+- Banco Comercial
+- Crédito Bancário
+- Instituição de Crédito
+relationships:
+- type: amended_by
+  target: pt:dre:526201:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:237460:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:237461:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477832:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:526201:por
+  label: "Revogado pelo DEC LEI.48948.03.04.1969.MF, DG.IS [79] de 03.04.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48948-1969-526201
+  date: '1969-04-03'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:02:23Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 47910
+
+Pelo [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), de 18 de Agosto de 1965, foram revistos, e completados de certo modo, os condicionalismos sobre reservas de caixa e demais coberturas de responsabilidades dos bancos comerciais no continente e ilhas adjacentes que haviam sido estabelecidos pelos artigos 57.º a 60.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959. A evolução do mercado monetário e a aplicação dos princípios estatuídos naquele diploma justificam novo ajustamento das regras concernentes às ditas reservas de caixa e formas de coberturas complementares das responsabilidades a curto prazo das referidas instituições de crédito, nomeadamente com vista a solucionar algumas dúvidas surgidas quanto à incorporação de determinados valores naquelas coberturas e a facultar maior flexibilidade funcional às mesmas instituições, sem prejuízo dos princípios gerais das garantias de liquidez e solvabilidade estatuídos no citado [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968).
+
+Nestas circunstâncias:
+
+Considerando o previsto no artigo 22.º da [Lei n.º 2131](https://diariodarepublica.pt/dr/detalhe/lei/2131-1966-477832), de 26 de Dezembro de 1966, o disposto no [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e no [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333) de 18 de Agosto de 1965;
+
+Tendo em atenção as sugestões formuladas pelo Banco de Portugal, na sua qualidade de banco emissor, central e de reserva, em conformidade com o artigo 24.º deste último diploma;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º São consideradas disponibilidades de caixa dos bancos comerciais:
+
+a) O dinheiro em cofre;
+
+b) Os depósitos à ordem no banco emissor da metrópole e nas outras instituições de crédito;
+
+c) As promissórias do fomento nacional.
+
+§ único. Os vales de correio e os cheques à vista emitidos por entidades de reconhecida idoneidade sobre instituições de crédito domiciliadas no País poderão ser considerados como dinheiro em cofre apenas pelo tempo estritamente indispensável à sua cobrança ou compensação, o qual nunca poderá exceder três dias, mas com exclusão dos cheques emitidos pelos bancos comerciais quer sobre as suas próprias sucursais, ou vice-versa, quer sobre outras instituições de crédito.
+
+Art. 2.º O valor das disponibilidades de caixa dos bancos comerciais, constituídas por dinheiro em cofre, depósitos à ordem no banco emissor da metrópole e promissórias do fomento nacional, deverá ser, em qualquer momento, igual, pelo menos, à soma das seguintes importâncias:
+
+a) 14 por cento das responsabilidades à vista em moeda nacional;
+
+b) 9 por cento do total dos depósitos em moeda nacional a prazo ou com pré-aviso iguais ou superiores a 30 dias e até 90 dias, inclusive;
+
+c) 6 por cento do total dos depósitos em moeda nacional constituídos por prazo superior a 90 dias.
+
+§ 1.º Nas disponibilidades de caixa a que se refere o presente artigo, a importância dos cheques à vista e vales de correio que forem considerados como dinheiro em cofre de harmonia com o disposto no § único do artigo precedente não poderá ultrapassar 15 por cento do valor total dessas disponibilidades.
+
+§ 2.º Além dos depósitos à ordem e das demais responsabilidades imediatamente exigíveis e das responsabilidades mencionadas no artigo 30.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, são considerados como responsabilidades à vista, para efeitos deste artigo, os depósitos em moeda nacional com pré-aviso inferior a 30 dias.
+
+Art. 3.º Para determinação da situação de liquidez dos bancos comerciais, os excedentes das disponibilidades de caixa, com a constituição indicada no artigo 2.º, sobre as importâncias mínimas apuradas em conformidade com o disposto no mesmo artigo serão considerados como coberturas das diversas categorias de responsabilidades nele enumeradas, proporcionalmente às referidas importâncias mínimas.
+
+Art. 4.º A parte do valor das responsabilidades em moeda nacional mencionadas nas alíneas a) e b) do corpo do artigo 2.º que exceda a importância das disponibilidades de caixa com a composição indicada no mesmo artigo e calculada nos termos do artigo anterior deverá estar sempre totalmente garantida pelos valores seguintes:
+
+a) Ouro amoedado ou em barra;
+
+b) Notas e moedas estrangeiras de curso legal nos respectivos países;
+
+c) Disponibilidades em moedas estrangeiras realizáveis a prazo não superior a 180 dias e constituídas por saldos em bancos domiciliados no estrangeiro, por cheques à vista e ordens de pagamento passadas por entidades de reconhecido crédito sobre esses bancos, por letras em carteiras aceites por bancos e outras pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro, por cupões de títulos pagáveis no estrangeiro e por bilhetes de tesouro ou outras obrigações análogas de um Estado estrangeiro, deduzidas essas disponibilidades das responsabilidades totais em moeda estrangeira exigíveis a prazo também não superior a 180 dias;
+
+d) Valores dos títulos estrangeiros mencionados no § único do artigo 35.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461) e cotados na bolsa e dos haveres em moeda estrangeira que os bancos comerciais possuam ou detenham ao abrigo de autorizações concedidas pela Inspecção-Geral de Crédito e Seguros, nos termos previstos nos artigos 19.º e 20.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962, contanto que estes haveres sejam liquidáveis em prazo não superior a um ano;
+
+e) Saldos em instituições de crédito domiciliadas no País pagáveis à vista ou com pré-aviso inferior a 30 dias, os cheques à vista e os vales de correio não contados para efeito do artigo 1.º ou que excedam o limite estabelecido no § 1.º do artigo 2.º e as ordens de pagamento emitidas por entidades de reconhecida idoneidade sobre aquelas instituições;
+
+f) Títulos da dívida pública portuguesa, incluindo as promissórias não contadas para os efeitos do artigo 1.º, e obrigações com garantia do Estado emitidas por quaisquer empresas;
+
+g) Acções e obrigações não garantidas pelo Estado, emitidas por empresas domiciliadas no País e cotadas na bolsa;
+
+h) Valores da carteira comercial a prazo não superior a 180 dias representados por letras, livranças, extractos de factura e warrants descontados e, bem assim, letras sobre o estrangeiro não incluídas na alínea c) do presente artigo;
+
+i) Valores de cupões de títulos de obrigação emitidos por empresas domiciliadas no País e de títulos da dívida pública portuguesa;
+
+j) disponibilidades e valores realizáveis até 180 dias em posse de correspondentes no País;
+
+l) Empréstimos ou contas correntes a prazo não superior a um ano, caucionados por qualquer forma admitida em direito;
+
+m) Saldos em instituições de crédito domiciliadas no País pagáveis no prazo máximo de 180 dias.
+
+§ 1.º Não serão contáveis nos valores referidos nas alíneas f) e g) do corpo do presente artigo os títulos representativos de participações financeiras e, bem assim, os que forem dados em caução. Quanto aos títulos depositados no Banco de Portugal em caução por efeito de contratos de empréstimos entre este Banco e os bancos comerciais, apenas não será contada a parte correspondente às importâncias que vieram a ser efectivamente utilizadas nos termos destes contratos.
+
+§ 2.º Para efeitos do disposto no corpo do presente artigo, os valores nele mencionados deverão contar-se em conformidade com o estabelecido no artigo 61.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
+
+Art. 5.º A importância total das responsabilidades à vista em moeda nacional dos bancos comerciais e dos depósitos em moeda nacional constituídos nos mesmos bancos por prazos ou com pré-avisos iguais ou superiores a 30 dias deverá estar integralmente garantida, em qualquer momento, pela soma dos seguintes valores:
+
+a)As disponibilidades de caixa referidas no artigo 2.º;
+
+b) Os valores activos mencionados no artigo precedente;
+
+c) Os valores de carteira comercial a prazo superior a 180 dias, mas não a dois anos, representados por letras, livranças, extractos de factura e warrants descontados;
+
+d) Os empréstimos e contas correntes a prazos superiores a um ano, mas não a dois anos, caucionados por qualquer forma admitida em direito.
+
+§ único. As importâncias dos valores referidos nas alíneas c) e d) do corpo do presente artigo que não resultarem da aplicação de capitais próprios dos bancos comerciais nunca poderão exceder o montante dos depósitos em moeda nacional constituídos nos mesmos bancos por prazos superiores a 90 dias, salvo nos casos previstos na alínea c) do artigo seguinte deste diploma.
+
+Art. 6.º O Ministro das Finanças poderá, sob parecer do Banco de Portugal e ouvido o Conselho Nacional de Crédito, estabelecer, por portaria:
+
+a) A participação das promissórias do fomento nacional e o limite da representação dos cheques à vista e dos vales de correio nas disponibilidades de caixa referidas no artigo 2.º;
+
+b) Os limites e as condições a que devem obedecer as coberturas mencionadas no corpo do artigo 4.º e no corpo do artigo 5.º;
+
+c) As condições em que valores não indicados no corpo do artigo 4.º e no corpo do artigo 5.º, ou aí referidos, mas a prazos superiores aos estabelecidos nos mesmos números, poderão ser contados nas coberturas das responsabilidades em moeda nacional dos bancos comerciais;
+
+d) As relações referidas no artigo 71.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968).
+
+Art. 7.º O Banco de Portugal, na sua qualidade de banco emissor, central e de reserva, poderá alterar, com o acordo do Ministro das Finanças, as percentagens das disponibilidades de caixa indicadas no artigo 2.º do presente diploma.
+
+Art. 8.º São revogados o corpo e o § 1.º do artigo 57.º e os artigos 60.º e 62.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968) e os artigos 2.º a 6.º, 21.º e 24.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333).
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 7 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vez - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

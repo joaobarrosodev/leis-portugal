@@ -1,0 +1,186 @@
+---
+schema_version: '1.0'
+id: pt:dre:165420:por
+title: Resolução da Assembleia da República n.º 8/99
+short_title: null
+summary: Aprova, para adesão, a Quarta Emenda ao Acordo Relativo ao Fundo Monetário Internacional (FMI), a que Portugal deliberou
+  aderir através do Decreto-Lei n.º 41338, de 21 de Novembro de 1960
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 8/99
+official_date: null
+publication_date: '1999-02-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 46/1999, Série I-A de 1999-02-24
+  number: '46'
+  series: I
+  supplement: null
+  pages: 1028 - 1030
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/02/046a00/10281030.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/8/1999/02/24/p/dre/pt/html
+  oj: null
+  dre: '165420'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/8-1999-165420
+  internal: pt:dre:165420:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-1999-165420
+  metadata_url: https://data.dre.pt/eli/resolassrep/8/1999/02/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/8-1999-165420
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:06:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ad2f1a335d5f41338446dcb48d50655419aca0cd128178a0056248a0af526605
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:06:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bretton Woods
+- Convenção
+- FMI
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:165427:por
+  label: "Ratificada a Quarta Emenda ao Acordo Relativo ao FMI, aprovada para adesão pelo presente diploma, pelo DEC.66/99.24.02.1999.PR,\
+    \ DR.IS-A [46] de 24.02.1999\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/66-1999-165427
+  date: '1999-02-24'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:06:34Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 8/99
+
+Aprova, para adesão, a Quarta Emenda ao Acordo Relativo ao Fundo Monetário Internacional (FMI), a que Portugal deliberou aderir através do Decreto-Lei n.º 41338, de 21 de Novembro de 1960.
+
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar, para adesão, a 4.ª Emenda ao Acordo Relativo ao Fundo Monetário Internacional, elaborada em conformidade com a Resolução n.º 52/4 da Assembleia de Governadores, cujo texto na versão autêntica em língua inglesa e respectiva tradução em português seguem em anexo, dele fazendo parte integrante.
+
+Aprovada em 11 de Dezembro de 1998.
+
+O Presidente da Assembleia da República, António de Almeida Santos.
+
+FOURTH AMENDMENT OF THE ARTICLES OF AGREEMENT OF THE INTERNATIONAL MONETARY FUND
+
+The Governments on whose behalf the present Agreement is signed agree as follows:
+
+1 - The text of article XV, section 1, shall be amended to read as follows:
+
+«(a) To meet the need, as and when it arises, for a supplement to existing reserve assets, the Fund is authorized to allocate special drawing rights in accordance with the provisions of article XVIII to members that are participants in the Special Drawing Rights Department.
+
+(b) In addition, the Fund shall allocate special drawing rights to members that are participants in the Special Drawing Rights Department in accordance with the provisions of schedule M.»
+
+2 - A new schedule M shall be added to the articles, to read as follows:
+
+«SCHEDULE M
+
+Special one-time allocation of special drawing rights
+
+1 - Subject to 4 below, each member that, as of September 19, 1997, is a participant in the Special Drawing Rights Department shall, on the 30th day following the effective date of the Fourth Amendment of this Agreement, receive an allocation of special drawing rights in an amount that will result in its net cumulative allocation of special drawing rights being equal to 29.315788813 per cent of its quota as of September 19, 1997, provided that, for participants whose quotas have not been adjusted as proposed in Resolution no. 45-2 of the Board of Governors, calculations shall be made on the basis of the quotas proposed in that resolution.
+
+2 - (a) Subject to 4 below, each country that becomes a participant in the Special Drawing Rights Department after September 19, 1997, but within three months of the date of its membership in the Fund shall receive an allocation of special drawing rights in an amount calculated in accordance with (b) and (c) below on the 30th day following the later of: (i) the date on which the new member becomes a participant in the Special Drawing Rights Department, or (ii) the effective date of the Fourth Amendment of this Agreement.
+
+(b) For the purposes of (a) above, each participant shall receive an amount of special drawing rights that will result in such participant's net cumulative allocation being equal to 29.315788813 per cent of its quota as of the date on which the member becomes a participant in the Special Drawing Rights Department, as adjusted:
+
+(i) First, by multiplying 29.315788813 per cent by the ratio of the total of quotas, as calculated under 1 above, of the participants described in (c) below to the total of quotas of such participants as of the date on which the member became a participant in the Special Drawing Rights Department; and
+
+(ii) Second, by multiplying the product of (i) above by the ratio of the total of the sum of the net cumulative allocations of special drawing rights received under article XVIII of the participants described in (c) below as of the date on which the member became a participant in the Special Drawing Rights Department and the allocations received by such participants under 1 above to the total of the sum of the net cumulative allocations of special drawing rights received under article XVIII of such participants as of September 19, 1997, and the allocations received by such participants under 1 above.
+
+(c) For the purposes of the adjustments to be made under (b) above, the participants in the Special Drawing Rights Department shall be members that are participants as of September 19, 1997, and (i) continue to be participants in the Special Drawing Rights Department as of the date on which the member became a participant in the Special Drawing Rights Department, and (ii) have received all allocations made by the Fund after September 19, 1997.
+
+3 - (a) Subject to 4 below, if the Federal Republic of Yugoslavia (Serbia/Montenegro) succeeds to the membership in the Fund and the participation in the Special Drawing Rights Department of the former Socialist Federal Republic of Yugoslavia in accordance with the terms and conditions of Executive Board Decision no. 10237-(92/150), adopted December 14, 1992, it shall receive an allocation of special drawing rights in an amount calculated in accordance with (b) below on the 30th day following the later of: (i) the date on wich the Federal Republic of Yugoslavia (Serbia/Montenegro) succeeds to membership in the Fund and participation in the Special Drawing Rights Department in accordance with the therms and conditions of Executive Board Decision no. 10237-(92/150), or (ii) the effective date of the Fourth Amendment of this Agreement.
+
+(b) For the purposes of (a) above, the Federal Republic of Yugoslavia (Serbia-Montenegro) shall receive an amount of special drawing rights that will result in its net cumulative allocation being equal to 29.315788813 per cent of the quota proposed to it under paragraph 3 - (c) of Executive Board Decision no. 10237-(92/150), as adjusted in accordance with 2 - (b) (ii) and (c) above as of the date on which the Federal Republic of Yugoslavia (Serbia/Montenegro) qualifies for an allocation under (a) above.
+
+4 - The Fund shall not allocate special drawing rights under this schedule to those participants that have notified the Fund in writing prior to the date of the allocation of their desire not to receive the allocation.
+
+5 - (a) If, at the time an allocation is made to participant under 1, 2 ou 3 above, the participant has overdue obligations to the Fund, the special drawing rights so allocated shall be deposited and held in an escrow account within the Special Drawing Rights Department and shall be released to the participant upon discharge of all its overdue obligations to the Fund.
+
+(b) Special drawing rights being held in an escrow account shall not be available for any use and shall not be included in any calculations of allocations or holdings of special drawing rights for the purposes of the articles, except for calculations under this schedule. If special drawing rights allocated to a participant are held in an escrow account when the participant terminates its participation in the Special Drawing Rights Department or when it is decided to liquidate the Special Drawing Rights Department, such special drawing rights shall be canceled.
+
+(c) For purposes of this paragraph, overdue obligations to the Fund consist of overdue repurchases and charges in the general resources account, overdue charges and assessments in the Special Drawing Rights Department, and overdue liabilities to the Fund as trustee.
+
+(d) Except for the provisions of this paragraph, the principle of separation between the General Department and the Special Drawing Rights Department and the unconditional character os special drawing rights as reserve assets shall be maintained.»
+
+QUARTA EMENDA AO ACORDO RELATIVO AO FUNDO MONETÁRIO INTERNACIONAL
+
+Os Governos em nome dos quais o presente Acordo é assinado acordam o seguinte:
+
+1 - O texto do artigo XV, secção I, passa a ter a seguinte redacção:
+
+«a) A fim de satisfazer a necessidade, quando e na medida em que ela surgir, de completar os activos de reserva existentes, o Fundo é autorizado a atribuir direitos de saque especiais, nos termos do previsto no artigo XVIII, aos membros que participem no Departamento de Direitos de Saque Especiais;
+
+b) Complementarmente, o Fundo atribuirá direitos de saque especiais aos membros que participem no Departamento de Direitos de Saque Especiais nos termos previstos no anexo M.»
+
+2 - O acordo passa a incluir um novo anexo M, com a seguinte redacção:
+
+«ANEXO M
+
+Atribuição especial única de direitos de saque especiais
+
+1 - Sob reserva das disposições do n.º 4 abaixo, cada membro que em 19 de Setembro de 1997 participe no Departamento de Direitos de Saque Especiais, no 30.º dia após a data de entrada em vigor da Quarta Emenda a este Acordo, receberá uma atribuição de direitos de saque especiais num montante que resultará na respectiva atribuição cumulativa líquida de direitos de saque especial igual a 29,315788813% da respectiva quota em 19 de Setembro de 1997, estipulando-se que para os participantes cujas quotas não tenham sido ajustadas de acordo com a Resolução n.º 45-2 da Assembleia de Governadores os cálculos deverão ser feitos com base nas quotas propostas naquela Resolução.
+
+2 - a) Sob reserva das disposições do n.º 4 abaixo, cada país que se torne participante do Departamento de Direitos de Saque Especiais posteriormente a 19 de Setembro de 1997 e no prazo de três meses a contar da adesão ao Fundo receberá uma atribuição de direitos de saque especiais num montante calculado de acordo com o disposto nos parágrafos b) e c) abaixo, no 30.º dia após a última das seguintes datas: (i) a data em que o novo membro se tornou participante do Departamento de Direitos de Saque Especiais, ou (ii) a data da entrada em vigor da Quarta Emenda a este Acordo.
+
+b) No cumprimento do parágrafo a) acima, cada participante receberá um montante de direitos de saque especiais, que resultará numa atribuição cumulativa líquida igual a 29,315788813% da sua quota na data em que o membro se tornou participante do Departamento de Direitos de Saque Especiais, com o seguinte ajustamento:
+
+i) Primeiro, multiplicando 29,315788813% pelo rácio entre o total das quotas dos participantes referidos no parágrafo c) abaixo, calculadas nos termos do n.º 1 acima, e o total das quotas dos participantes existentes na data em que o membro se tornou participante do Departamento de Direitos de Saque Especiais; e
+
+ii) Segundo, multiplicando o produto de (i) acima pelo rácio do total da soma das atribuições cumulativas líquidas de direitos de saque especiais recebidas ao abrigo do artigo XVIII pelos participantes referidos no parágrafo c) abaixo na data em que o membro se tornou participante do Departamento de Direitos de Saque Especiais e as atribuições recebidas por tais participantes ao abrigo do n.º 1 acima, relativamente ao total da soma das atribuições cumulativas líquidas de direitos de saque especiais recebidas ao abrigo do artigo XVIII por tais participantes, tal como definidos em 19 de Setembro de 1997, e as atribuições recebidas por tais participantes ao abrigo do n.º 1 acima.
+
+c) Para efeitos dos ajustamentos ao abrigo do parágrafo b) acima, os participantes do Departamento de Direitos de Saque Especiais devem ser membros que sejam participantes em 19 de Setembro de 1997 e (i) continuem a ser participantes do Departamento de Direitos de Saque Especiais na data em que o membro se tornou participante do Departamento de Direitos de Saque Especiais e (ii) tenham recebido todas as atribuições feitas pelo Fundo após 19 de Setembro de 1997.
+
+3 - a) Sob reserva das disposições do n.º 4 abaixo, se a República Federal da Jugoslávia (Sérvia/Montenegro) suceder, como membro no Fundo e participante no Departamento de Direitos de Saque Especiais, à antiga República Federal Socialista da Jugoslávia de acordo com os termos e condições da Decisão do Directório Executivo n.º 10237-(92/150), adoptada em 14 de Dezembro de 1992, receberá uma atribuição de direitos de saque especiais num montante calculado de acordo com o parágrafo b) abaixo, no 30.º dia após a última das seguintes datas: (i) a data em que a República Federal da Jugoslávia (Sérvia/Montenegro) suceda como membro no Fundo e participante no Departamento de Direitos de Saque Especiais de acordo com os termos e condições da Decisão do Conselho de Administração n.º 10237-(92/150), ou (ii) a data da entrada em vigor da Quarta Emenda a este Acordo.
+
+b) Para efeitos do parágrafo a) acima, a República Federal da Jugoslávia (Sérvia/Montenegro) receberá um montante de direitos de saque especiais que resultará na respectiva atribuição cumulativa líquida igual a 29,315788813% da quota a ela proposta nos termos do parágrafo 3 - c) da Decisão do Directório Executivo n.º 10237-(92/150), ajustada de acordo com o n.º 2 - b) (ii) e c) acima na data em que a República Federal da Jugoslávia (Sérvia/Montenegro) seja qualificada para a atribuição nos termos do parágrafo a) acima.
+
+4 - O Fundo não atribuirá direitos de saque especiais nos termos deste anexo aos participantes que notifiquem por escrito o Fundo, previamente à data de atribuição, da sua vontade de não receber a atribuição.
+
+5 - a) Se, na data em que for efectuada uma atribuição a um participante nos termos dos n.os 1, 2 ou 3 acima, o participante tiver obrigações em atraso com o Fundo, os direitos de saque especiais então atribuídos deverão ser depositados e retidos numa conta congelada no Departamento de Direitos de Saque Especiais e serão libertados para o participante após regularização de todas as suas obrigações em atraso para com o Fundo.
+
+b) Os direitos de saque especiais que estejam retidos numa conta congelada não serão utilizados para quaisquer fins e não serão incluídos em quaisquer cálculos para atribuições ou haveres em direitos de saque especiais para efeitos do Acordo Relativo ao Fundo Monetário Internacional, excepto para cálculos no âmbito deste anexo. Se os direitos de saque especiais atribuídos a um participante se encontrarem depositados numa conta congelada quando o participante cessar a sua participação no Departamento de Direitos de Saque Especiais ou quando se decidir a liquidação do Departamento de Direitos de Saque Especiais, tais direitos de saque especiais serão cancelados.
+
+c) Para efeitos deste parágrafo, as obrigações em atraso para com o Fundo referem-se às recompras e comissões em atraso na conta de recursos gerais, ao capital e juros em atraso de empréstimos da conta de desembolso especial, às comissões e contribuições em atraso no Departamento de Direitos de Saque Especiais e outras responsabilidades em atraso para com o Fundo como depositário.
+
+d) Excepto para efeitos deste parágrafo, o princípio de separação entre o Departamento Geral e o Departamento de Direitos de Saque Especiais e o carácter incondicional dos direitos de saque especiais como activos de reserva deverão ser mantidos.»

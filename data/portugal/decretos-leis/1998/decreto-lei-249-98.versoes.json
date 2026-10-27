@@ -1,0 +1,1138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:438072:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-889627396",
+ "dre_path": "/dr/detalhe/decreto-lei/249-1998-438072",
+ "source_lastmod": "2024-10-01",
+ "versions": [
+  {
+   "date": "1998-08-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889628194",
+    "889628195",
+    "889628196",
+    "889628197",
+    "889628198",
+    "889628199",
+    "889628200",
+    "889628201",
+    "889628202",
+    "889628203",
+    "889628204",
+    "889628205",
+    "889628206",
+    "889628207",
+    "889628208",
+    "889628209",
+    "889628210",
+    "889628211",
+    "889628212",
+    "889628213",
+    "889628214",
+    "889628215",
+    "889628216",
+    "889628217",
+    "889628218",
+    "889628219",
+    "889628220",
+    "889628221",
+    "889628222",
+    "889628223",
+    "889628224",
+    "889628225",
+    "889628226",
+    "889628227",
+    "889628228",
+    "889628229",
+    "889628230",
+    "889628231",
+    "889628232",
+    "889628233",
+    "889628234",
+    "889628235",
+    "889628236",
+    "889628237",
+    "889628238",
+    "889628240"
+   ]
+  },
+  {
+   "date": "2007-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520464:por",
+     "title": "Decreto-Lei n.º 79/2007",
+     "published": "2007-03-29",
+     "dre_path": "/dr/detalhe/decreto-lei/79-2007-520464"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo I",
+    "Revoga Capítulo II",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "889628194",
+    "889634081",
+    "889634082",
+    "889634083",
+    "889634084",
+    "889634085",
+    "889634086",
+    "889634087",
+    "889634088",
+    "889634089",
+    "889634090",
+    "889634091",
+    "889634092",
+    "889628207",
+    "889628208",
+    "889634093",
+    "889628210",
+    "889628211",
+    "889628212",
+    "889628213",
+    "889628214",
+    "889628215",
+    "889628216",
+    "889628217",
+    "889628218",
+    "889628219",
+    "889628220",
+    "889634094",
+    "889634095",
+    "889628223",
+    "889628224",
+    "889628225",
+    "889634096",
+    "889628227",
+    "889628228",
+    "889628229",
+    "889628230",
+    "889628231",
+    "889634097",
+    "889628233",
+    "889634098",
+    "889634099",
+    "889634100",
+    "889634101",
+    "889634102",
+    "889628239",
+    "889770134"
+   ]
+  },
+  {
+   "date": "2007-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:636396:por",
+     "title": "Decreto-Lei n.º 276/2007",
+     "published": "2007-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/276-2007-636396"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 28.º"
+   ],
+   "fragments": [
+    "889628194",
+    "889634081",
+    "889634082",
+    "889634083",
+    "889634084",
+    "889634085",
+    "889634086",
+    "889634087",
+    "889634088",
+    "889634089",
+    "889634090",
+    "889634091",
+    "889634092",
+    "889628207",
+    "889628208",
+    "889634093",
+    "889634105",
+    "889634106",
+    "889634107",
+    "889634108",
+    "889628214",
+    "889634109",
+    "889634110",
+    "889634111",
+    "889634112",
+    "889628219",
+    "889628220",
+    "889634094",
+    "889634095",
+    "889628223",
+    "889628224",
+    "889628225",
+    "889634096",
+    "889628227",
+    "889634113",
+    "889628229",
+    "889628230",
+    "889628231",
+    "889634097",
+    "889628233",
+    "889634098",
+    "889634099",
+    "889634100",
+    "889634101",
+    "889634102",
+    "889628239",
+    "889770134"
+   ]
+  },
+  {
+   "date": "2009-08-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493034:por",
+     "title": "Decreto-Lei n.º 170/2009",
+     "published": "2009-08-03",
+     "dre_path": "/dr/detalhe/decreto-lei/170-2009-493034"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 32.º"
+   ],
+   "fragments": [
+    "889628194",
+    "889634081",
+    "889634082",
+    "889634083",
+    "889634084",
+    "889634085",
+    "889634086",
+    "889634087",
+    "889634088",
+    "889634089",
+    "889634090",
+    "889634091",
+    "889634092",
+    "889628207",
+    "889628208",
+    "889634093",
+    "889634105",
+    "889634106",
+    "889634107",
+    "889634108",
+    "889628214",
+    "889634109",
+    "889634110",
+    "889634111",
+    "889634112",
+    "889628219",
+    "889634116",
+    "889634094",
+    "889634095",
+    "889628223",
+    "889634117",
+    "889634114",
+    "889634115",
+    "889634118",
+    "889634113",
+    "889634119",
+    "889634120",
+    "889628231",
+    "889634097",
+    "889634121",
+    "889634098",
+    "889634099",
+    "889634100",
+    "889634101",
+    "889634102",
+    "889628239",
+    "889770134"
+   ]
+  },
+  {
+   "date": "2012-04-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553002:por",
+     "title": "Decreto-Lei n.º 96/2012",
+     "published": "2012-04-23",
+     "dre_path": "/dr/detalhe/decreto-lei/96-2012-553002"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 23.º"
+   ],
+   "fragments": [
+    "889628194",
+    "889634081",
+    "889634082",
+    "889634083",
+    "889634084",
+    "889634085",
+    "889634086",
+    "889634087",
+    "889634088",
+    "889634089",
+    "889634090",
+    "889634091",
+    "889634092",
+    "889628207",
+    "889628208",
+    "889634093",
+    "889634105",
+    "889634106",
+    "889634107",
+    "889634108",
+    "889628214",
+    "889634109",
+    "889634110",
+    "889634111",
+    "889634112",
+    "889628219",
+    "889634116",
+    "889634094",
+    "889634095",
+    "889634141",
+    "889634117",
+    "889634114",
+    "889634115",
+    "889634118",
+    "889634113",
+    "889634119",
+    "889634120",
+    "889628231",
+    "889634097",
+    "889634121",
+    "889634098",
+    "889634099",
+    "889634100",
+    "889634101",
+    "889634102",
+    "889628239",
+    "889770134"
+   ]
+  }
+ ],
+ "fragments": {
+  "889628194": {
+   "fragment_id": "889627397",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 249/98\n\nde 11 de Agosto\n\nOs anteriores diplomas orgânicos da Inspecção-Geral de Finanças, em particular o Decreto-Lei n.º 513-Z/79, de 27 de Dezembro, e, mais recentemente, o Decreto-Lei n.º 353/89, de 16 de Outubro, representaram, ao seu tempo, a consagração de modelos de organização e de exercício do controlo que, hoje podemos constatar, contribuíram para desenvolver na consciência nacional o sentido da necessidade da emergência de uma verdadeira cultura do controlo que, no domínio do controlo financeiro, situasse o nosso país a par do percurso já então trilhado no mundo moderno.\n\nCom efeito, os princípios que têm orientado a intervenção da Inspecção-Geral de Finanças, na linha do melhor exemplo de outros organismos congéneres, também sustentados na experiência adquirida e modelados por aqueles instrumentos legais, têm contribuído para afirmar o primado do controlo das finanças públicas, como fundamento estruturante, próprio do Estado de direito democrático.\n\nTodavia, o controlo da administração financeira do Estado vem sendo progressivamente confrontado com novos factores, internos e externos, que aconselham, sem embargo das virtualidades que o modelo vigente revelou, a evolução para soluções estratégicas que permitam encarar esses novos desafios com os instrumentos, legais e operacionais, que se revelam mais adequados.\n\nNeste sentido, deverá ser reiterada e renovada a aposta decisiva na coordenação do funcionamento dos sistemas de controlo interno dos fluxos financeiros de fundos públicos, nacionais e comunitários, desde logo, como instrumento estratégico de garantia da consolidação de umas finanças públicas sólidas e sustentadas, como exigência maior da construção da União Económica e Monetária.\n\nÉ, aliás, no âmbito do desenvolvimento deste processo de integração económica da União Europeia que se perfilam, neste virar de século, importantes modificações no acervo normativo que enquadra o exercício da gestão pública, que não poderão deixar de reconhecer no controlo financeiro um parceiro indispensável à sua concretização, avultando, neste domínio, a intervenção da Inspecção-Geral de Finanças, enquanto interlocutor nacional.\n\nTambém, internamente, o nosso legislador tem orientado a sua actuação no sentido de instituir o controlo da administração financeira do Estado numa perspectiva sistémica e integrada, funcionando de forma articulada, com independência técnica, como já anunciavam o Decreto-Lei n.º 184/89, de 2 de Junho, que instituiu o controlo de alto nível, e, mais especificamente, o Decreto-Lei n.º 99/94, de 19 de Abril, que desenvolveu o sistema nacional de controlo da aplicação dos fundos estruturais da União Europeia, através da previsão de três níveis de controlo - o controlo de primeiro nível, o controlo sectorial ou de segundo nível e, por fim, o controlo de alto nível, desempenhado pela Inspecção-Geral de Finanças, a quem compete, nomeadamente, promover a coordenação do funcionamento de todo o Sistema.\n\nMais recentemente, o Decreto-Lei n.º 158/96, de 3 de Setembro, que aprovou a Lei Orgânica do Ministério das Finanças, veio consolidar o reconhecimento normativo do papel desempenhado pela Inspecção-Geral de Finanças, como coordenador do sistema de controlo interno da administração financeira do Estado, valorizando a sua vocação no sentido do controlo horizontal da administração financeira da receita e despesa públicas.\n\nNesta mesma linha, deve ser entendido o diploma que, em execução do artigo 11.º da Lei n.º 52-C/96, de 27 de Dezembro, que aprovou o Orçamento do Estado para 1997, vem estruturar o sistema de controlo interno da administração financeira do Estado, consagrando, agora, de forma alargada, o exercício sistémico, estruturado e coerente do controlo das finanças públicas.\n\nÉ neste contexto que importa adequar o estatuto orgânico da Inspecção-Geral de Finanças, reafirmando a sua natureza de serviço de controlo de alto nível da administração financeira do Estado, orientado para a análise da legalidade e da regularidade da receita e despesa públicas e para a apreciação da sua racionalidade económica, visando sempre a boa gestão financeira dos fundos públicos, nacionais e comunitários.\n\nCom efeito, em face destes novos desafios, que trazem consigo responsabilidades acrescidas, aproveitou-se o momento para racionalizar e repensar a organização, em ordem a um modelo de funcionamento interno mais actualizado que, de forma sustentada, tenha a virtualidade de perspectivar as exigências com as quais a Inspecção-Geral de Finanças se verá confrontada, no quadro de uma evolução de médio e longo prazos.\n\nÉ neste sentido que a presente revisão orgânica aponta para a redefinição das áreas de coordenação e de intervenção operacional, a par de uma necessária flexibilidade na adequação dos recursos, dando, também por esta via, exemplo de economia, na linha da própria reforma orgânica do Ministério das Finanças, com a consciência de que é necessário evoluir no sentido da optimização da estrutura e da gestão das organizações.\n\nTodavia, deve registar-se que se trata, agora com outro fôlego, de prosseguir um caminho que a Inspecção-Geral de Finanças já havia encetado, procurando formas de valorizar os seus recursos e agilizar a sua intervenção, como resulta da economia do Decreto-Lei n.º 162/95, de 6 de Julho, que, com esta preocupação, introduziu ajustamentos no quadro orgânico anterior.\n\nOptou-se, assim, por um modelo de organização e de procedimentos, cuja implementação vem, comprovadamente, na última década, dando resultados positivos, e que aposta na simplificação e na flexibilização estrutural. No capítulo da gestão, importa assinalar a substituição da actual departamentalização em serviços, por áreas de especialização, mais vocacionadas para, em cada momento e em face de objectivos concretos, conferir maior operacionalidade à actuação do controlo estratégico.\n\nConsagra-se um quadro único para a carreira de inspecção de alto nível, cuja dotação é determinada com base na realidade actual e visa acautelar as legítimas expectativas entretanto criadas.\n\nPor outro lado, os instrumentos previsionais e de gestão devem ser entendidos numa perspectiva integrada, tendo em vista a concretização da missão, no contexto do Programa do Governo, das Grandes Opções do Plano, do Orçamento do Estado e das orientações superiores, acompanhando em cada momento as exigências de intervenção, de acordo com os recursos disponíveis.\n\nConscientes de que num organismo com esta missão é determinante o valor acrescido representado pelos recursos humanos, este modelo aposta decisivamente no desenvolvimento e valorização dos mesmos.\n\nDo mesmo modo, procede-se à consagração expressa de um conjunto de princípios que, modelando as condições do exercício da actividade da Inspecção-Geral de Finanças, constituem um verdadeiro estatuto ético.\n\nPor outro lado, a par da opção por um processo de provimento que acolhe, como elemento nuclear, a avaliação do desempenho, mantém-se a previsão de um criterioso regime de impedimentos e incompatibilidades, ditado pela especificidade da função.\n\nNeste sentido, houve também a preocupação de prever mecanismos que permitam contribuir para dignificar o exercício da função inspectiva, tendo presente as condições ambientais estruturalmente adversas em que é desenvolvida, o risco que envolve e, bem assim, a necessidade de fazer face à forte competitividade externa a que se encontra sujeita.\n\nNeste quadro, e sem prejuízo de se assegurar a transição com base na actual estrutura remuneratória, torna-se necessário, no âmbito da revisão dos regimes das carreiras, evoluir para soluções mais adequadas às particulares exigências do exercício da função inspectiva, por forma a salvaguardar a sua eficácia.\n\nAssume o Governo este passo de modernização organizativa, concretizando-a num serviço que, por natureza, desempenha uma missão nuclear na defesa da legalidade, da regularidade e da boa gestão financeira, aspectos primeiros na vida de uma sã Administração Pública.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "889628195": {
+   "fragment_id": "889627398",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão e âmbito de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, missão e âmbito de intervenção"
+  },
+  "889628196": {
+   "fragment_id": "889627399",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\nA Inspecção-Geral de Finanças (IGF) é o serviço do Ministério das Finanças integrado na administração directa do Estado, dotado de autonomia administrativa, que tem por missão fundamental o controlo da administração financeira do Estado e o apoio técnico especializado, e que funciona na directa dependência do Ministro das Finanças."
+  },
+  "889628197": {
+   "fragment_id": "889627400",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de intervenção\n\n1 - Enquanto serviço de controlo da administração financeira do Estado, incumbe especialmente à IGF o exercício do controlo nos domínios orçamental, económico, financeiro e patrimonial, de acordo com os princípios da legalidade, da regularidade e da boa gestão financeira, contribuindo para a economia, a eficácia e a eficiência na obtenção das receitas públicas e na realização das despesas públicas, nacionais e comunitárias, para o que desenvolve as seguintes tarefas:\n\na) Realizar acções de coordenação, articulação e avaliação da fiabilidade dos sistemas de controlo interno dos fluxos financeiros de fundos públicos, nacionais e comunitários;\n\nb) Propor medidas destinadas a melhoria da estrutura, organização e funcionamento dos referidos sistemas e acompanhar a respectiva implantação e evolução;\n\nc) Realizar auditorias, inspecções, análises de natureza económico-financeira, exames fiscais e outras acções de controlo às entidades, públicas e privadas, abrangidas pela sua intervenção;\n\nd) Desempenhar as funções de interlocutor nacional da Comissão Europeia, nos domínios do controlo financeiro e das fraudes e irregularidade em prejuízo do orçamento comunitário;\n\ne) Realizar sindicâncias, inquéritos e averiguações nas entidades abrangidas pela sua intervenção, bem como desenvolver o procedimento disciplinar quando for o caso;\n\nf) Exercer as demais funções que resultem da lei, de normativos e de acordos, nacionais ou comunitários, bem como outras que lhe sejam superiormente cometidas.\n\n2 - Enquanto serviço de apoio técnico especializado cabe à IGF desenvolver as seguintes tarefas:\n\na) Elaborar projectos de diplomas legais e dar parecer sobre os que lhe sejam submetidos;\n\nb) Promover a investigação técnica, efectuar estudos e emitir pareceres;\n\nc) Participar, bem como prestar apoio técnico, em júris, comissões e grupos de trabalho, nacionais e comunitários;\n\nd) Assegurar, no âmbito da sua missão, a articulação com entidades congéneres estrangeiras e organizações internacionais;\n\ne) Desempenhar quaisquer outras tarefas de apoio técnico especializado para que se encontre vocacionada.\n\n3 - A intervenção da IGF abrange as entidades do sector público administrativo e empresarial, bem como dos sectores privado e cooperativo, quando sejam sujeitos de relações financeiras ou tributárias com o Estado ou com a União Europeia ou quando se mostre indispensável ao controlo indirecto de quaisquer entidades abrangidas pela sua acção, sem prejuízo das competências específicas de supervisão do Banco de Portugal, do Instituto de Seguros de Portugal e da Comissão do Mercado de Valores Mobiliários.\n\n4 - A IGF tem sede em Lisboa e centros de apoio regional no Porto e em Coimbra, abrangendo o âmbito da sua actuação todo o território nacional."
+  },
+  "889628198": {
+   "fragment_id": "889627401",
+   "type": 1,
+   "heading": "Capítulo II — Organização e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização e gestão"
+  },
+  "889628199": {
+   "fragment_id": "889627402",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios\n\n1 - Na organização e na gestão a IGF adopta um modelo flexível e participado, directamente orientado para a realização da sua missão.\n\n2 - A estrutura das unidades de trabalho e suas funções, bem como as relações hierárquico-funcionais a vigorar na organização são definidas por despacho do Ministro das Finanças, sob proposta do inspector-geral de finanças."
+  },
+  "889628200": {
+   "fragment_id": "889627403",
+   "type": 11,
+   "heading": "Artigo 4.º — Áreas de especialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Áreas de especialização\n\nTendo em conta os princípios enumerados no artigo anterior, a IGF assegura a sua missão e exerce as suas competências através das seguintes áreas de especialização:\n\na) Do sistema nacional de controlo interno e coordenação dos controlos comunitários;\n\nb) Do controlo da gestão pública;\n\nc) Do controlo empresarial público e privado;\n\nd) Do controlo das receitas tributárias;\n\ne) Do controlo tutelar autárquico;\n\nf) Da organização, desenvolvimento e informação."
+  },
+  "889628201": {
+   "fragment_id": "889627404",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estrutura de decisão\n\n1 - A estrutura orgânica da IGF compreende:\n\na) O inspector-geral de finanças;\n\nb) O conselho de inspecção;\n\nc) A direcção operacional;\n\nd) A chefia logística.\n\n2 - O inspector-geral de finanças dirige a IGF, coadjuvado nessa função pelos subinspectores-gerais.\n\n3 - O conselho de inspecção é composto pelo inspector-geral de finanças, que preside, e pelos subinspectores-gerais.\n\n4 - A direcção operacional é assegurada pelos inspectores de finanças directores e pelos inspectores de finanças-chefes.\n\n5 - A chefia logística é assegurada pelos chefes de repartição e pelos secretários de finanças coordenadores."
+  },
+  "889628202": {
+   "fragment_id": "889627405",
+   "type": 11,
+   "heading": "Artigo 6.º — Inspector-geral de finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Inspector-geral de finanças\n\n1 - Compete ao inspector-geral de finanças, para além da competência conferida por lei aos directores-gerais, o seguinte:\n\na) Presidir ao conselho coordenador do sistema nacional de controlo interno, nos termos previstos na lei;\n\nb) Presidir ao conselho de inspecção;\n\nc) Definir e promover a política de qualidade, em especial, dos processos organizativos e do produto final;\n\nd) Definir a política de gestão dos recursos humanos e afectá-los às diversas áreas de especialização, programas e acções;\n\ne) Estabelecer os normativos internos necessários ao cumprimento dos princípios enunciados no artigo 3.º;\n\nf) Assegurar a coordenação do processo de planeamento e avaliação de resultados da actividade da IGF;\n\ng) Ordenar a realização das acções da competência própria da IGF ou superiormente aprovadas, bem como dos controlos cruzados sempre que os mesmos se justifiquem para o seu cabal desempenho.\n\n2 - As áreas referidas no artigo 4.º constituem núcleos de intervenção especializada cuja direcção e supervisão pode ser delegada pelo inspector-geral de finanças nos subinspectores-gerais de finanças.\n\n3 - O inspector-geral de finanças pode delegar nos subinspectores-gerais de finanças a prática de actos da sua competência própria com faculdade de subdelegação.\n\n4 - O inspector-geral de finanças é substituído, nas suas ausências, faltas ou impedimentos, pelo subinspector-geral de finanças a designar para o efeito."
+  },
+  "889628203": {
+   "fragment_id": "889627406",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho de inspecção\n\n1 - O conselho de inspecção é um órgão colegial, de natureza consultiva, ao qual compete apoiar o inspector-geral de finanças no exercício das suas funções.\n\n2 - Ao conselho de inspecção compete, em especial, pronunciar-se sobre:\n\na) A política de qualidade;\n\nb) A política de gestão dos recursos humanos;\n\nc) Os normativos internos para execução do n.º 2 do artigo 3.º;\n\nd) Os instrumentos de gestão referidos no n.º 2 do artigo 10.º\n\n3 - O inspector-geral de finanças pode determinar a participação de outros funcionários nas reuniões do conselho de inspecção, em razão da matéria a tratar."
+  },
+  "889628204": {
+   "fragment_id": "889627407",
+   "type": 11,
+   "heading": "Artigo 8.º — Direcção operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direcção operacional\n\n1 - À direcção operacional incumbe assegurar a execução das actividades com observância da política de qualidade dos processos e dos produtos operativos da IGF.\n\n2 - Aos inspectores de finanças directores será confiada prevalentemente a condução de programas, reservando-se aos inspectores de finanças-chefes maior incidência na coordenação de equipas, sem prejuízo de a ambos poder ser atribuída a execução de acções específicas."
+  },
+  "889628205": {
+   "fragment_id": "889627408",
+   "type": 11,
+   "heading": "Artigo 9.º — Chefia logística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Chefia logística\n\nÀ chefia logística incumbe coordenar todas as acções relacionadas com o apoio administrativo da IGF em geral, sem prejuízo de aos titulares dos cargos de chefia poder ser atribuída a execução de acções específicas."
+  },
+  "889628206": {
+   "fragment_id": "889627409",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Instrumentos de gestão\n\n1 - A IGF orienta a sua actividade na perspectiva do controlo estratégico, preferencialmente com base em programas envolvendo as diferentes áreas de especialização referidas no artigo 4.º\n\n2 - A concretização dos objectivos de actuação da IGF, bem como a execução e avaliação das suas actividades é assegurada, designadamente, através dos seguintes instrumentos de gestão:\n\na) Plano estratégico de médio prazo, actualizado anualmente, contemplando as linhas de orientação da IGF, aprovado pelo Ministro das Finanças;\n\nb) Plano anual de actividades, incluindo o plano de formação, contemplando os diversos programas a desenvolver, detalhados por acções, aprovado pelo Ministro das Finanças;\n\nc) Orçamento anual;\n\nd) Relatório anual de actividades, com síntese do desempenho da IGF no ano anterior, a submeter ao Ministro das Finanças;\n\ne) Conta de gerência e relatório de gestão orçamental, evidenciando o grau de execução do orçamento aprovado;\n\nf) Balanço social."
+  },
+  "889628207": {
+   "fragment_id": "889627410",
+   "type": 1,
+   "heading": "Capítulo III — Exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Exercício da actividade"
+  },
+  "889628208": {
+   "fragment_id": "889627411",
+   "type": 8,
+   "heading": "Secção I — Dos princípios, direitos e garantias de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dos princípios, direitos e garantias de actuação"
+  },
+  "889628209": {
+   "fragment_id": "889627412",
+   "type": 11,
+   "heading": "Artigo 11.º — Intervenção da IGF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Intervenção da IGF\n\nA intervenção da lGF concretiza-se através de acções de sua própria iniciativa com observância dos limites fixados na lei, de acções incluídas no plano anual de actividades, bem como de outras determinadas pelo Ministro das Finanças."
+  },
+  "889628210": {
+   "fragment_id": "889627413",
+   "type": 11,
+   "heading": "Artigo 12.º — Princípio da proporcionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Princípio da proporcionalidade\n\nNo exercício das suas funções, os inspectores da IGF deverão pautar a sua conduta pela adequação dos seus procedimentos aos objectivos da acção."
+  },
+  "889628211": {
+   "fragment_id": "889627414",
+   "type": 11,
+   "heading": "Artigo 13.º — Princípio da cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Princípio da cooperação\n\nSempre que não esteja em causa o êxito da acção ou o dever de sigilo, a IGF deve fornecer às entidades objecto da sua intervenção as informações ou outros esclarecimentos de interesse justificado que lhe sejam solicitados, no contexto da administração aberta aos cidadãos."
+  },
+  "889628212": {
+   "fragment_id": "889627415",
+   "type": 11,
+   "heading": "Artigo 14.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Dever de sigilo\n\nAlém da sujeição aos deveres gerais inerentes ao exercício da função pública, todos os funcionários da IGF estão especialmente obrigados a guardar rigoroso sigilo sobre todos os assuntos de que tomem conhecimento no exercício ou por causa do exercício das suas funções."
+  },
+  "889628213": {
+   "fragment_id": "889627416",
+   "type": 11,
+   "heading": "Artigo 15.º — Garantia do exercício da função inspectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Garantia do exercício da função inspectiva\n\n1 - Aos inspectores da IGF, no exercício da sua actividade, devem ser facultadas pelas autoridades públicas e pelas entidades sujeitas à sua intervenção todas as condições necessárias à garantia da eficácia da acção inspectiva.\n\n2 - Neste contexto, é assegurado aos inspectores da IGF, desde que devidamente identificados e no exercício das suas funções:\n\na) Aceder livremente e permanecer, pelo tempo necessário ao desempenho das funções que lhes forem cometidas, em todos os serviços e dependências das entidades sujeitas à intervenção da IGF;\n\nb) Utilizar instalações adequadas ao exercício das suas funções em condições de dignidade e eficácia;\n\nc) Requisitar e reproduzir documentos, para consulta, suporte ou junção aos relatórios, processos ou autos e, ainda, proceder ao exame de quaisquer elementos pertinentes à acção inspectiva em poder de entidades cuja actividade seja objecto da intervenção da IGF;\n\nd) Trocar correspondência, em serviço, com quaisquer entidades públicas ou privadas sobre questões relacionadas com o desenvolvimento da sua actuação;\n\ne) Ingressar e transitar livremente em quaisquer locais públicos, mediante a exibição do cartão de identificação profissional;\n\nf) Requisitar às autoridades policiais e administrativas a colaboração necessária ao exercício das suas funções;\n\ng) Promover, nos termos legais, a selagem de quaisquer instalações, dependências, cofres ou móveis e a apreensão de documentos e objectos de prova, lavrando o correspondente auto, dispensável caso apenas ocorra simples reprodução de documentos;\n\nh) Proceder, por si ou por recurso a autoridade administrativa ou policial competente ou aos serviços fiscais locais, e cumpridas as formalidades legais, a notificações a que haja lugar em processos de inquéritos, sindicâncias ou disciplinares ou noutros de cuja instrução estejam incumbidos.\n\n3 - Os funcionários da IGF que sejam arguidos em processo judicial, por actos cometidos ou ocorridos no exercício e por causa das suas funções, têm direito a ser assistidos por advogado, indicado pelo inspector-geral de finanças, ouvido o interessado, retribuído a expensas do Estado, bem como a transporte e ajudas de custo quando a localização do tribunal ou das entidades policiais o justifique.\n\n4 - As importâncias eventualmente despendidas nos termos e para os efeitos referidos no número anterior devem ser reembolsadas pelo funcionário que lhes deu causa, no caso de condenação judicial."
+  },
+  "889628214": {
+   "fragment_id": "889627417",
+   "type": 8,
+   "heading": "Secção II — Da eficácia das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da eficácia das acções"
+  },
+  "889628215": {
+   "fragment_id": "889627418",
+   "type": 11,
+   "heading": "Artigo 16.º — Deveres de colaboração e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Deveres de colaboração e informação\n\n1 - As entidades sujeitas à intervenção da IGF devem disponibilizar o acesso ou fornecer os elementos de informação que esta considere necessários ao exercício das suas competências e ao êxito da sua missão, nos moldes, nos suportes e com a periodicidade havida por conveniente, segundo os parâmetros da boa fé.\n\n2 - Os titulares dos órgãos das entidades sujeitas à intervenção da IGF estão obrigados a prestar-lhe ou a fazer prestar as informações e os esclarecimentos, a facultar documentos e a colaborar da forma que lhes for solicitada, no âmbito das suas funções, podendo, para o efeito, ser requisitada a comparência de responsáveis, funcionários e agentes dos serviços e organismos do Estado, nomeadamente, para prestação de declarações ou depoimentos.\n\n3 - A recusa da colaboração devida e a oposição à actuação da IGF podem fazer incorrer o infractor em responsabilidade disciplinar e criminal, nos termos da legislação que ao caso couber.\n\n4 - A IGF deve fazer constar no seu relatório anual de actividades os obstáculos colocados ao normal exercício da sua acção."
+  },
+  "889628216": {
+   "fragment_id": "889627419",
+   "type": 11,
+   "heading": "Artigo 17.º — Princípio do contraditório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Princípio do contraditório\n\n1 - Sem prejuízo das garantias de defesa previstas na lei, e tendo em vista os objectivos de rigor, operacionalidade e eficácia da acção da IGF, esta conduzirá as suas intervenções com observância do princípio do contraditório, excepto quando tal procedimento for susceptível de prejudicar aqueles objectivos.\n\n2 - As modalidades e princípios orientadores da aplicação do princípio do contraditório referido no número anterior são fixados por despacho do Ministro das Finanças."
+  },
+  "889628217": {
+   "fragment_id": "889627420",
+   "type": 11,
+   "heading": "Artigo 18.º — Garantia da eficácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Garantia da eficácia\n\n1 - Na sequência da decisão ministerial sobre os seus relatórios, a IGF assegura o respectivo encaminhamento para os gabinetes dos membros do Governo com responsabilidades de superintendência ou tutela sobre as entidades visadas bem como para estas, se for o caso.\n\n2 - Sem prejuízo do dever de a IGF proceder ao acompanhamento do resultado das recomendações e propostas formuladas, as entidades públicas visadas devem fornecer-lhe, no prazo de 60 dias contados a partir da recepção do relatório, informações sobre as medidas e decisões entretanto adoptadas na sequência da intervenção da IGF, podendo ainda pronunciar-se sobre o efeito da acção."
+  },
+  "889628218": {
+   "fragment_id": "889627421",
+   "type": 11,
+   "heading": "Artigo 19.º — Dever de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dever de participação\n\n1 - Independentemente do disposto no n.º 1 do artigo anterior, a IGF tem o dever de participar às entidades competentes, nacionais e comunitárias, consoante os casos, os factos que apurar no exercício das suas funções susceptíveis de interessarem ao exercício da acção penal, contra-ordenacional ou disciplinar, bem como à determinação de responsabilidades financeiras ou a acções de combate à fraude e irregularidades em prejuízo dos orçamentos nacional e comunitário.\n\n2 - Os inspectores que tiverem conhecimento ou notícia de um crime transmiti-lo-ão ao Ministério Público no mais curto prazo, sem prejuízo da adopção dos actos cautelares necessários e urgentes para assegurar os meios de prova, nos termos previstos no Código de Processo Penal."
+  },
+  "889628219": {
+   "fragment_id": "889627422",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "889628220": {
+   "fragment_id": "889627423",
+   "type": 11,
+   "heading": "Artigo 20.º — Carreira de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Carreira de inspecção\n\nA carreira de inspecção integra o corpo especial de inspecção de alto nível, nos termos do artigo 28.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro."
+  },
+  "889628221": {
+   "fragment_id": "889627424",
+   "type": 11,
+   "heading": "Artigo 21.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Quadro de pessoal\n\n1 - A IGF dispõe do quadro de pessoal constante do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n2 - Ao recrutamento e provimento do pessoal da IGF são aplicáveis as normas estabelecidas na lei geral, salvo o disposto no presente diploma."
+  },
+  "889628222": {
+   "fragment_id": "889627425",
+   "type": 11,
+   "heading": "Artigo 22.º — Classificação anual de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Classificação anual de serviço\n\n1 - Os funcionários da IGF serão objecto de classificação anual de serviço, nas condições definidas por despacho do Ministro das Finanças, com observância dos princípios previstos na lei.\n\n2 - O pessoal dirigente está dispensado da classificação de serviço a que se refere o número anterior."
+  },
+  "889628223": {
+   "fragment_id": "889627426",
+   "type": 11,
+   "heading": "Artigo 23.º — Provimento do pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Provimento do pessoal dirigente\n\n1 - Em face da especificidade das funções de controlo de alto nível, os lugares do pessoal dirigente são providos:\n\na) O de inspector-geral de finanças, por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças, de entre indivíduos de reconhecida competência, qualificação e experiência, licenciados com curso superior adequado ao exercício do respectivo cargo;\n\nb) Os de subinspector-geral de finanças, por despacho do Ministro das Finanças, sob proposta do inspector-geral de finanças, de entre licenciados com curso superior adequado que possuam experiência, qualificação e competência adequadas ao exercício do cargo;\n\nc) Os de inspector de finanças director, de entre inspectores de finanças-chefes ou inspectores de finanças de categoria igual ou superior a inspector de finanças principal, estes com, pelo menos, quatro anos de efectivo serviço na IGF e com classificação de Muito bom no último ano, que possuam qualidades de direcção e experiência adequadas ao exercício do cargo;\n\nd) Os de inspector de finanças-chefe, de entre inspectores com categoria igual ou superior a inspector de finanças com, pelo menos, quatro anos de efectivo serviço na IGF e com classificação de Muito bom no último ano, que possuam qualidades de chefia e experiência adequadas ao exercício do cargo.\n\n2 - De acordo com as especificidades constantes das alíneas a) a d) do número anterior, o provimento dos cargos de inspector-geral de finanças, subinspector-geral de finanças, inspector de finanças director e inspector de finanças-chefe é efectuado em comissão de serviço, nos termos da lei geral aplicável ao pessoal dirigente."
+  },
+  "889628224": {
+   "fragment_id": "889627427",
+   "type": 11,
+   "heading": "Artigo 24.º — Provimento do pessoal da carreira de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Provimento do pessoal da carreira de inspecção\n\n1 - Os lugares da carreira de inspecção são providos:\n\na) Os de inspector de finanças superior principal, de entre inspectores de finanças superiores com pelo menos cinco anos de serviço nessa categoria e classificação de Muito bom no último ano;\n\nb) Os de inspector de finanças superior, de entre inspectores de finanças principais com pelo menos quatro anos de serviço nessa categoria e classificação superior a Bom no último ano;\n\nc) Os de inspector de finanças principal e de inspectores de finanças, de entre, respectivamente, inspectores de finanças com pelo menos três anos de serviço na categoria e classificação não inferior a Bom e inspectores de finanças estagiários que tenham concluído com aproveitamento o respectivo estágio;\n\nd) Os de inspector de finanças estagiário, de entre licenciados com curso superior adequado, recrutados mediante provas de selecção a realizar para o efeito.\n\n2 - O estágio a que se refere a alínea c) do n.º 1 tem a duração de um ano de efectivo serviço, podendo em qualquer momento cessar por exoneração dos estagiários que revelem uma notória inadequação para o exercício da função.\n\n3 - A prova de selecção prevista na alínea d) do n.º 1 incluirá a apreciação do currículo dos interessados, a sua experiência profissional e os conhecimentos e aptidões específicos revelados em entrevistas e provas escritas, das quais poderão ser dispensados os candidatos com média de curso não inferior a 16 valores ou Bom com distinção, caso em que aqueles conhecimentos e aptidões serão avaliados unicamente através de entrevista."
+  },
+  "889628225": {
+   "fragment_id": "889627428",
+   "type": 11,
+   "heading": "Artigo 25.º — Provimento do pessoal técnico de finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Provimento do pessoal técnico de finanças\n\nOs lugares da carreira do pessoal técnico de finanças são providos:\n\na) Os de secretário de finanças coordenador, de entre secretários de finanças especialistas com pelo menos três anos de serviço na categoria, classificação superior a Bom e qualidades de chefia adequadas ao exercício da função;\n\nb) Os de secretário de finanças especialista, de entre secretários de finanças principais com pelo menos três anos de serviço na categoria e classificação não inferior a Bom;\n\nc) Os de secretário de finanças principal, de entre secretários de finanças de 1.ª classe com pelo menos três anos de serviço na categoria e classificação não inferior a Bom;\n\nd) Os de secretários de finanças de 1.ª classe, de entre os secretários de 2.ª classe com pelo menos três anos de serviço na categoria e classificação não inferior a Bom;\n\ne) Os de secretário de finanças de 2.ª classe, de entre secretários de finanças estagiários aprovados no respectivo estágio, com a duração de um ano;\n\nf) Os de secretário de finanças estagiário, de entre indivíduos habilitados com pelo menos o curso complementar do ensino secundário ou equivalente, recrutados mediante provas de selecção a realizar para o efeito.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) A revogação do presente artigo entra em vigor na data do início de vigência do regime do contrato de trabalho em funções públicas."
+  },
+  "889628226": {
+   "fragment_id": "889627429",
+   "type": 11,
+   "heading": "Artigo 26.º — Provimento do restante pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Provimento do restante pessoal\n\nO provimento dos lugares das restantes carreiras previstas no quadro do pessoal da IGF será feito nos termos da lei geral.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) A revogação do presente artigo entra em vigor na data do início de vigência do regime do contrato de trabalho em funções públicas."
+  },
+  "889628227": {
+   "fragment_id": "889627430",
+   "type": 11,
+   "heading": "Artigo 27.º — Regime de provimento e selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regime de provimento e selecção\n\n1 - As nomeações para lugares de secretário de finanças coordenador, bem como para os lugares de ingresso em carreiras em que o recrutamento não seja precedido de estágio, têm carácter provisório durante um ano, findo o qual o provimento se tornará definitivo, se o funcionário revelar aptidão para o lugar, regressando, em caso contrário, à situação anterior.\n\n2 - No provimento dos lugares de ingresso em carreiras em que o recrutamento é precedido de estágio atender-se-á, pela ordem indicada:\n\na) À classificação final do estágio;\n\nb) À graduação para ingresso no estágio.\n\n3 - A formação obtida nos estágios a que alude o número anterior integra-se no âmbito da formação inicial e tem características teórica e prática, com momentos distintos de avaliação."
+  },
+  "889628228": {
+   "fragment_id": "889627431",
+   "type": 11,
+   "heading": "Artigo 28.º — Impedimentos e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Impedimentos e incompatibilidades\n\n1 - O pessoal da IGF está sujeito ao regime geral de impedimentos e incompatibilidades vigente na Administração Pública.\n\n2 - É ainda vedado aos dirigentes e inspectores da IGF:\n\na) Executar quaisquer acções de natureza inspectiva ou disciplinar em que sejam visados parentes ou afins em qualquer grau da linha recta ou até ao 3.º grau da linha colateral;\n\nb) Exercer funções de administração ou gerência em qualquer ramo de comércio, indústria ou serviços;\n\nc) Exercer actividades alheias ao serviço que respeitem a entidades relativamente às quais o funcionário tenha realizado nos últimos três anos quaisquer acções de natureza inspectiva ou disciplinar;\n\nd) Exercer quaisquer outras actividades, públicas ou privadas, alheias ao serviço, salvo as que decorrem do exercício do seu direito de participação na vida pública.\n\n3 - O exercício de actividades mencionadas nas alíneas c) e d) poderá ser autorizado casuisticamente por despacho do Ministro das Finanças, sob parecer do inspector-geral de finanças, desde que não afecte o prestígio da função, não contribua para enfraquecer a respectiva autoridade e não ponha em causa a isenção profissional do funcionário.\n\n4 - O despacho de autorização fixará, para cada caso, as condições em que se permite o exercício de actividade estranha à IGF, podendo a todo o tempo ser revogado com fundamento na inobservância ou desrespeito dessas condições."
+  },
+  "889628229": {
+   "fragment_id": "889627432",
+   "type": 11,
+   "heading": "Artigo 29.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Remunerações\n\nAo pessoal da IGF, incluindo o pessoal dirigente, é mantido o regime remuneratório actualmente em vigor."
+  },
+  "889628230": {
+   "fragment_id": "889627433",
+   "type": 11,
+   "heading": "Artigo 30.º — Domicílio profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Domicílio profissional\n\n1 - O pessoal da IGF tem domicílio profissional na cidade de Lisboa, podendo, por conveniência do serviço, ouvido o interessado e mediante despacho do inspector-geral de finanças, ser fixado nas cidades do Porto ou Coimbra.\n\n2 - Os funcionários com domicílio profissional autorizado fora das localidades referidas no número anterior podem, mediante despacho do inspector-geral de finanças, manter o domicílio autorizado ao abrigo da legislação anterior.\n\n3 - A promoção, nomeação em cargo dirigente ou a alteração do domicílio voluntário por iniciativa do interessado implica a observância do disposto no n.º 1."
+  },
+  "889628231": {
+   "fragment_id": "889627434",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "889628232": {
+   "fragment_id": "889627435",
+   "type": 11,
+   "heading": "Artigo 31.º — Orientação de acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Orientação de acções\n\nO inspector-geral de finanças pode, sempre que ocorram razões de serviço ponderosas, designar temporariamente inspectores de finanças de qualquer categoria para orientar a execução de acções."
+  },
+  "889628233": {
+   "fragment_id": "889627436",
+   "type": 11,
+   "heading": "Artigo 32.º — Preenchimento de lugares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Preenchimento de lugares\n\nQuando, por força da aplicação do presente diploma, os lugares providos em qualquer categoria excedam a respectiva dotação, consideram-se os mesmos preenchidos por conta das vagas existentes nas categorias superiores."
+  },
+  "889628234": {
+   "fragment_id": "889627437",
+   "type": 11,
+   "heading": "Artigo 33.º — Transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Transição\n\n1 - O pessoal da carreira de inspecção transita, na categoria que detém, para o escalão correspondente à remuneração actual.\n\n2 - O pessoal da carreira técnica superior, bem como o pessoal da carreira de técnico de finanças habilitado com curso superior adequado, com mais de dois anos de serviço efectivo na IGF, pode transitar para a carreira de inspecção e é integrado na categoria e escalão correspondente ao nível da remuneração actual ou no escalão imediatamente superior, caso não haja correspondência.\n\n3 - O pessoal da carreira de pessoal técnico de finanças, provido nas categorias de secretário de finanças de 1.ª ou 2.ª classe, com curso superior ou equiparado que não confira o grau de licenciatura, pode transitar para idêntico escalão da categoria de secretário de finanças principal.\n\n4 - O restante pessoal da carreira de pessoal técnico de finanças transita para a categoria e escalão que actualmente detém.\n\n5 - O pessoal da carreira de operador de reprografia que exerce funções de operador de offset transita para esta carreira, desde que possuidor das habilitações literárias e profissionais legalmente exigíveis para ingresso na referida carreira, para a categoria e escalão correspondente ao nível de remuneração actual ou imediatamente superior, caso não haja correspondência.\n\n6 - As transições referidas nos n.os 2 e 4 fazem-se a requerimento dos interessados, a apresentar no prazo de 60 dias contados a partir da data da entrada em vigor do presente diploma."
+  },
+  "889628235": {
+   "fragment_id": "889627438",
+   "type": 11,
+   "heading": "Artigo 34.º — Chefes de repartição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Chefes de repartição\n\nAos chefes de repartição é atribuída a função de coordenação geral de actividades de apoio logístico, nos termos a definir por despacho do inspector-geral de finanças."
+  },
+  "889628236": {
+   "fragment_id": "889627439",
+   "type": 11,
+   "heading": "Artigo 35.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Pessoal\n\nA entrada em vigor do presente diploma não prejudica a manutenção de qualquer relação jurídica de emprego legalmente tutelada vigente na respectiva data."
+  },
+  "889628237": {
+   "fragment_id": "889627440",
+   "type": 11,
+   "heading": "Artigo 36.º — Concursos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Concursos pendentes\n\nNas transições previstas no presente diploma são consideradas as alterações resultantes de concursos de pessoal abertos até à entrada em vigor do presente diploma."
+  },
+  "889628238": {
+   "fragment_id": "889627441",
+   "type": 11,
+   "heading": "Artigo 37.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Norma revogatória\n\n1 - São revogados o n.º 4 do artigo 3.º e o n.º 2 do artigo 9.º do Decreto-Lei n.º 94/87, de 2 de Março, o Decreto-Lei n.º 353/89, de 16 de Outubro, com excepção do n.º 2 do artigo 35.º e do artigo 35.º-A, este introduzido pelo Decreto-Lei n.º 82/97, de 9 de Abril, o Decreto-Lei n.º 155/91, de 23 de Abril, o Decreto-Lei n.º 325/93, de 25 de Setembro, o Decreto-Lei n.º 162/95, de 6 de Julho, o Decreto Regulamentar n.º 33/86, de 20 de Agosto, a Portaria n.º 208/80, de 29 de Abril, a Portaria n.º 719/83, de 24 de Junho, a Portaria n.º 885/85, de 21 de Novembro, a Portaria n.º 415/87, de 19 de Maio, e a Portaria n.º 478/95, de 20 de Maio.\n\n2 - As disposições legais ou regulamentares que remetam para preceitos de anteriores diplomas orgânicos da IGF entendem-se reportadas para as correspondentes disposições do presente diploma, salvo se da interpretação daquelas resultar solução diferente."
+  },
+  "889628240": {
+   "fragment_id": "889627443",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro de pessoal\n\n(ver quadro no documento original)\n\n> Nota: [Portaria n.º 33/2001 - Diário da República n.º 14/2001, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/33-2001-338596) substitui o quadro de pessoal da Inspecção-Geral de Finanças, constante do mapa anexona parte respeitante à carreira de inspecção de alto nível do grupo de pessoal técnico superior, pelo mapa anexo ao à Portaria n.º 33/2001, de 17 de janeiro.\n\n> Nota: [Portaria n.º 657/2000 - Diário da República n.º 199/2000, Série I-B de 2000-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/657-2000-328405) substitui o quadro do pessoal da Inspecção-Geral de Finanças, constante do presente mapa, na parte respeitante às carreiras de regime geral dos grupos de pessoal técnico-profissional e administrativo, pelo mapa anexo ao presente à Portaria n.º 657/2000, de 29 de agosto.\n\n> Nota: [Declaração de Rectificação n.º 13-F/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-f-1998-574713) O quadro de pessoal do presente anexo foi retificado nos seguintes termos: no grupo de pessoal dirigente, onde se lê: «Inspector de finanças - 12 Director (1)» deve ler-se: «Inspector de finanças director (1) - 12» e onde se lê: «Inspector de finanças - 50 Chefe (1)» deve ler-se: «Inspector de finanças-chefe (1) - 50». no grupo de pessoal técnico--profissional (nível 4), onde se lê: «Secretário de finanças - 14 Coordenador» deve ler-se: «Secretário de finanças-coordenador - 14» e onde se lê: «Secretário de finanças Especialista - 14» deve ler-se: «Secretário de finanças especialista - 14»"
+  },
+  "889634081": {
+   "fragment_id": "889627398",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão e âmbito de intervenção",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "### Capítulo I — Natureza, missão e âmbito de intervenção\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634082": {
+   "fragment_id": "889627399",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\nA Inspecção-Geral de Finanças (IGF) é o serviço do Ministério das Finanças integrado na administração directa do Estado, dotado de autonomia administrativa, que tem por missão fundamental o controlo da administração financeira do Estado e o apoio técnico especializado, e que funciona na directa dependência do Ministro das Finanças.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634083": {
+   "fragment_id": "889627400",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de intervenção",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de intervenção\n\n1 - Enquanto serviço de controlo da administração financeira do Estado, incumbe especialmente à IGF o exercício do controlo nos domínios orçamental, económico, financeiro e patrimonial, de acordo com os princípios da legalidade, da regularidade e da boa gestão financeira, contribuindo para a economia, a eficácia e a eficiência na obtenção das receitas públicas e na realização das despesas públicas, nacionais e comunitárias, para o que desenvolve as seguintes tarefas:\n\na) Realizar acções de coordenação, articulação e avaliação da fiabilidade dos sistemas de controlo interno dos fluxos financeiros de fundos públicos, nacionais e comunitários;\n\nb) Propor medidas destinadas a melhoria da estrutura, organização e funcionamento dos referidos sistemas e acompanhar a respectiva implantação e evolução;\n\nc) Realizar auditorias, inspecções, análises de natureza económico-financeira, exames fiscais e outras acções de controlo às entidades, públicas e privadas, abrangidas pela sua intervenção;\n\nd) Desempenhar as funções de interlocutor nacional da Comissão Europeia, nos domínios do controlo financeiro e das fraudes e irregularidade em prejuízo do orçamento comunitário;\n\ne) Realizar sindicâncias, inquéritos e averiguações nas entidades abrangidas pela sua intervenção, bem como desenvolver o procedimento disciplinar quando for o caso;\n\nf) Exercer as demais funções que resultem da lei, de normativos e de acordos, nacionais ou comunitários, bem como outras que lhe sejam superiormente cometidas.\n\n2 - Enquanto serviço de apoio técnico especializado cabe à IGF desenvolver as seguintes tarefas:\n\na) Elaborar projectos de diplomas legais e dar parecer sobre os que lhe sejam submetidos;\n\nb) Promover a investigação técnica, efectuar estudos e emitir pareceres;\n\nc) Participar, bem como prestar apoio técnico, em júris, comissões e grupos de trabalho, nacionais e comunitários;\n\nd) Assegurar, no âmbito da sua missão, a articulação com entidades congéneres estrangeiras e organizações internacionais;\n\ne) Desempenhar quaisquer outras tarefas de apoio técnico especializado para que se encontre vocacionada.\n\n3 - A intervenção da IGF abrange as entidades do sector público administrativo e empresarial, bem como dos sectores privado e cooperativo, quando sejam sujeitos de relações financeiras ou tributárias com o Estado ou com a União Europeia ou quando se mostre indispensável ao controlo indirecto de quaisquer entidades abrangidas pela sua acção, sem prejuízo das competências específicas de supervisão do Banco de Portugal, do Instituto de Seguros de Portugal e da Comissão do Mercado de Valores Mobiliários.\n\n4 - A IGF tem sede em Lisboa e centros de apoio regional no Porto e em Coimbra, abrangendo o âmbito da sua actuação todo o território nacional.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634084": {
+   "fragment_id": "889627401",
+   "type": 1,
+   "heading": "Capítulo II — Organização e gestão",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "### Capítulo II — Organização e gestão\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634085": {
+   "fragment_id": "889627402",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 3.º — Princípios\n\n1 - Na organização e na gestão a IGF adopta um modelo flexível e participado, directamente orientado para a realização da sua missão.\n\n2 - A estrutura das unidades de trabalho e suas funções, bem como as relações hierárquico-funcionais a vigorar na organização são definidas por despacho do Ministro das Finanças, sob proposta do inspector-geral de finanças.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634086": {
+   "fragment_id": "889627403",
+   "type": 11,
+   "heading": "Artigo 4.º — Áreas de especialização",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 4.º — Áreas de especialização\n\nTendo em conta os princípios enumerados no artigo anterior, a IGF assegura a sua missão e exerce as suas competências através das seguintes áreas de especialização:\n\na) Do sistema nacional de controlo interno e coordenação dos controlos comunitários;\n\nb) Do controlo da gestão pública;\n\nc) Do controlo empresarial público e privado;\n\nd) Do controlo das receitas tributárias;\n\ne) Do controlo tutelar autárquico;\n\nf) Da organização, desenvolvimento e informação.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634087": {
+   "fragment_id": "889627404",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura de decisão",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/2002 - Diário da República n.º 86/2002, Série I-A de 2002-04-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2002-303191), produz efeitos a partir de 2002-04-13"
+   ],
+   "markdown": "###### Artigo 5.º — Estrutura de decisão\n\n1 - A estrutura orgânica da IGF compreende:\n\na) O inspector-geral de finanças;\n\nb) O conselho de inspecção;\n\nc) A direcção operacional;\n\nd) A chefia logística.\n\n2 - O inspector-geral de finanças dirige a IGF, coadjuvado nessa função pelos subinspectores-gerais.\n\n3 - O conselho de inspecção é composto pelo inspector-geral de finanças, que preside, e pelos subinspectores-gerais.\n\n4 - A direcção operacional é assegurada pelos inspectores de finanças directores e pelos inspectores de finanças-chefes.\n\n5 - A chefia logística é assegurada pelos secretários de finanças-coordenadores.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/2002 - Diário da República n.º 86/2002, Série I-A de 2002-04-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2002-303191), produz efeitos a partir de 2002-04-13"
+  },
+  "889634088": {
+   "fragment_id": "889627405",
+   "type": 11,
+   "heading": "Artigo 6.º — Inspector-geral de finanças",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 6.º — Inspector-geral de finanças\n\n1 - Compete ao inspector-geral de finanças, para além da competência conferida por lei aos directores-gerais, o seguinte:\n\na) Presidir ao conselho coordenador do sistema nacional de controlo interno, nos termos previstos na lei;\n\nb) Presidir ao conselho de inspecção;\n\nc) Definir e promover a política de qualidade, em especial, dos processos organizativos e do produto final;\n\nd) Definir a política de gestão dos recursos humanos e afectá-los às diversas áreas de especialização, programas e acções;\n\ne) Estabelecer os normativos internos necessários ao cumprimento dos princípios enunciados no artigo 3.º;\n\nf) Assegurar a coordenação do processo de planeamento e avaliação de resultados da actividade da IGF;\n\ng) Ordenar a realização das acções da competência própria da IGF ou superiormente aprovadas, bem como dos controlos cruzados sempre que os mesmos se justifiquem para o seu cabal desempenho.\n\n2 - As áreas referidas no artigo 4.º constituem núcleos de intervenção especializada cuja direcção e supervisão pode ser delegada pelo inspector-geral de finanças nos subinspectores-gerais de finanças.\n\n3 - O inspector-geral de finanças pode delegar nos subinspectores-gerais de finanças a prática de actos da sua competência própria com faculdade de subdelegação.\n\n4 - O inspector-geral de finanças é substituído, nas suas ausências, faltas ou impedimentos, pelo subinspector-geral de finanças a designar para o efeito.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634089": {
+   "fragment_id": "889627406",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho de inspecção",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 7.º — Conselho de inspecção\n\n1 - O conselho de inspecção é um órgão colegial, de natureza consultiva, ao qual compete apoiar o inspector-geral de finanças no exercício das suas funções.\n\n2 - Ao conselho de inspecção compete, em especial, pronunciar-se sobre:\n\na) A política de qualidade;\n\nb) A política de gestão dos recursos humanos;\n\nc) Os normativos internos para execução do n.º 2 do artigo 3.º;\n\nd) Os instrumentos de gestão referidos no n.º 2 do artigo 10.º\n\n3 - O inspector-geral de finanças pode determinar a participação de outros funcionários nas reuniões do conselho de inspecção, em razão da matéria a tratar.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634090": {
+   "fragment_id": "889627407",
+   "type": 11,
+   "heading": "Artigo 8.º — Direcção operacional",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 8.º — Direcção operacional\n\n1 - À direcção operacional incumbe assegurar a execução das actividades com observância da política de qualidade dos processos e dos produtos operativos da IGF.\n\n2 - Aos inspectores de finanças directores será confiada prevalentemente a condução de programas, reservando-se aos inspectores de finanças-chefes maior incidência na coordenação de equipas, sem prejuízo de a ambos poder ser atribuída a execução de acções específicas.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634091": {
+   "fragment_id": "889627408",
+   "type": 11,
+   "heading": "Artigo 9.º — Chefia logística",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 9.º — Chefia logística\n\nÀ chefia logística incumbe coordenar todas as acções relacionadas com o apoio administrativo da IGF em geral, sem prejuízo de aos titulares dos cargos de chefia poder ser atribuída a execução de acções específicas.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634092": {
+   "fragment_id": "889627409",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrumentos de gestão",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 10.º — Instrumentos de gestão\n\n1 - A IGF orienta a sua actividade na perspectiva do controlo estratégico, preferencialmente com base em programas envolvendo as diferentes áreas de especialização referidas no artigo 4.º\n\n2 - A concretização dos objectivos de actuação da IGF, bem como a execução e avaliação das suas actividades é assegurada, designadamente, através dos seguintes instrumentos de gestão:\n\na) Plano estratégico de médio prazo, actualizado anualmente, contemplando as linhas de orientação da IGF, aprovado pelo Ministro das Finanças;\n\nb) Plano anual de actividades, incluindo o plano de formação, contemplando os diversos programas a desenvolver, detalhados por acções, aprovado pelo Ministro das Finanças;\n\nc) Orçamento anual;\n\nd) Relatório anual de actividades, com síntese do desempenho da IGF no ano anterior, a submeter ao Ministro das Finanças;\n\ne) Conta de gerência e relatório de gestão orçamental, evidenciando o grau de execução do orçamento aprovado;\n\nf) Balanço social.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634093": {
+   "fragment_id": "889627412",
+   "type": 11,
+   "heading": "Artigo 11.º — Intervenção da IGF",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 11.º — Intervenção da IGF\n\nA intervenção da lGF concretiza-se através de acções de sua própria iniciativa com observância dos limites fixados na lei, de acções incluídas no plano anual de actividades, bem como de outras determinadas pelo Ministro das Finanças.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634094": {
+   "fragment_id": "889627424",
+   "type": 11,
+   "heading": "Artigo 21.º — Quadro de pessoal",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 21.º — Quadro de pessoal\n\n1 - A IGF dispõe do quadro de pessoal constante do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n2 - Ao recrutamento e provimento do pessoal da IGF são aplicáveis as normas estabelecidas na lei geral, salvo o disposto no presente diploma.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634095": {
+   "fragment_id": "889627425",
+   "type": 11,
+   "heading": "Artigo 22.º — Classificação anual de serviço",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 22.º — Classificação anual de serviço\n\n1 - Os funcionários da IGF serão objecto de classificação anual de serviço, nas condições definidas por despacho do Ministro das Finanças, com observância dos princípios previstos na lei.\n\n2 - O pessoal dirigente está dispensado da classificação de serviço a que se refere o número anterior.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634096": {
+   "fragment_id": "889627429",
+   "type": 11,
+   "heading": "Artigo 26.º — Provimento do restante pessoal",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 26.º — Provimento do restante pessoal\n\nO provimento dos lugares das restantes carreiras previstas no quadro do pessoal da IGF será feito nos termos da lei geral.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634097": {
+   "fragment_id": "889627435",
+   "type": 11,
+   "heading": "Artigo 31.º — Orientação de acções",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 31.º — Orientação de acções\n\nO inspector-geral de finanças pode, sempre que ocorram razões de serviço ponderosas, designar temporariamente inspectores de finanças de qualquer categoria para orientar a execução de acções.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634098": {
+   "fragment_id": "889627437",
+   "type": 11,
+   "heading": "Artigo 33.º — Transição",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 13-F/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-f-1998-574713), produz efeitos a partir de 1998-08-16"
+   ],
+   "markdown": "###### Artigo 33.º — Transição\n\n1 - O pessoal da carreira de inspecção transita, na categoria que detém, para o escalão correspondente à remuneração actual.\n\n2 - O pessoal da carreira técnica superior, bem como o pessoal da carreira de técnico de finanças habilitado com curso superior adequado, com mais de dois anos de serviço efectivo na IGF, pode transitar para a carreira de inspecção e é integrado na categoria e escalão correspondente ao nível da remuneração actual ou no escalão imediatamente superior, caso não haja correspondência.\n\n3 - O pessoal da carreira de pessoal técnico de finanças, provido nas categorias de secretário de finanças de 1.ª ou 2.ª classe, com curso superior ou equiparado que não confira o grau de licenciatura, pode transitar para idêntico escalão da categoria de secretário de finanças principal.\n\n4 - O restante pessoal da carreira de pessoal técnico de finanças transita para a categoria e escalão que actualmente detém.\n\n5 - O pessoal da carreira de operador de reprografia que exerce funções de operador de offset transita para esta carreira, desde que possuidor das habilitações literárias e profissionais legalmente exigíveis para ingresso na referida carreira, para a categoria e escalão correspondente ao nível de remuneração actual ou imediatamente superior, caso não haja correspondência.\n\n6 - As transições referidas nos n.os 2 e 3 fazem-se a requerimento dos interessados, a apresentar no prazo de 60 dias contados a partir da data da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 13-F/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-f-1998-574713), produz efeitos a partir de 1998-08-16"
+  },
+  "889634099": {
+   "fragment_id": "889627438",
+   "type": 11,
+   "heading": "Artigo 34.º — Chefes de repartição",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 91/2002 - Diário da República n.º 86/2002, Série I-A de 2002-04-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2002-303191), produz efeitos a partir de 2002-04-13"
+   ],
+   "markdown": "###### Artigo 34.º — Chefes de repartição\n\nAos chefes de repartição é atribuída a função de coordenação geral de actividades de apoio logístico, nos termos a definir por despacho do inspector-geral de finanças.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 91/2002 - Diário da República n.º 86/2002, Série I-A de 2002-04-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2002-303191), produz efeitos a partir de 2002-04-13"
+  },
+  "889634100": {
+   "fragment_id": "889627439",
+   "type": 11,
+   "heading": "Artigo 35.º — Pessoal",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 35.º — Pessoal\n\nA entrada em vigor do presente diploma não prejudica a manutenção de qualquer relação jurídica de emprego legalmente tutelada vigente na respectiva data.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634101": {
+   "fragment_id": "889627440",
+   "type": 11,
+   "heading": "Artigo 36.º — Concursos pendentes",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 36.º — Concursos pendentes\n\nNas transições previstas no presente diploma são consideradas as alterações resultantes de concursos de pessoal abertos até à entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634102": {
+   "fragment_id": "889627441",
+   "type": 11,
+   "heading": "Artigo 37.º — Norma revogatória",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), produz efeitos a partir de 1998-08-16"
+   ],
+   "markdown": "###### Artigo 37.º — Norma revogatória\n\n1 - São revogados o n.º 4 do artigo 3.º e o n.º 2 do artigo 9.º do Decreto-Lei n.º 94/87, de 2 de Março, o Decreto-Lei n.º 353/89, de 16 de Outubro, com excepção do n.º 2 do artigo 35.º e do artigo 35.º-A, este introduzido pelo Decreto-Lei n.º 82/97, de 9 de Abril, o Decreto-Lei n.º 155/91, de 23 de Abril, o n.º 3 do artigo 65.º do Decreto-Lei n.º 325/93, de 25 de Setembro, o Decreto-Lei n.º 162/95, de 6 de Julho, o Decreto Regulamentar n.º 33/86, de 20 de Agosto, a Portaria n.º 208/80, de 29 de Abril, a Portaria n.º 719/83, de 24 de Junho, a Portaria n.º 885/85, de 21 de Novembro, a Portaria n.º 415/87, de 19 de Maio, e a Portaria n.º 478/95, de 20 de Maio.\n\n2 - As disposições legais ou regulamentares que remetam para preceitos de anteriores diplomas orgânicos da IGF entendem-se reportadas para as correspondentes disposições do presente diploma, salvo se da interpretação daquelas resultar solução diferente.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), produz efeitos a partir de 1998-08-16"
+  },
+  "889628239": {
+   "fragment_id": "889627442",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Abril de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 24 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Julho de 1998.\n\nPelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional."
+  },
+  "889770134": {
+   "fragment_id": "889627443",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal",
+   "in_force_from": "2007-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 13-F/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), produz efeitos a partir de 1998-08-16"
+   ],
+   "markdown": "## Anexo — Quadro de pessoal\n\n(ver quadro no documento original)\n\n> Nota: [Portaria n.º 33/2001 - Diário da República n.º 14/2001, Série I-B de 2001-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/33-2001-338596) substitui o quadro de pessoal da Inspecção-Geral de Finanças, constante do mapa anexona parte respeitante à carreira de inspecção de alto nível do grupo de pessoal técnico superior, pelo mapa anexo ao à Portaria n.º 33/2001, de 17 de janeiro.\n\n> Nota: [Portaria n.º 657/2000 - Diário da República n.º 199/2000, Série I-B de 2000-08-29](https://diariodarepublica.pt/dr/detalhe/portaria/657-2000-328405) substitui o quadro do pessoal da Inspecção-Geral de Finanças, constante do presente mapa, na parte respeitante às carreiras de regime geral dos grupos de pessoal técnico-profissional e administrativo, pelo mapa anexo ao presente à Portaria n.º 657/2000, de 29 de agosto.\n\n> Nota: [Declaração de Rectificação n.º 13-F/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-f-1998-574713) O quadro de pessoal do presente anexo foi retificado nos seguintes termos: no grupo de pessoal dirigente, onde se lê: «Inspector de finanças - 12 Director (1)» deve ler-se: «Inspector de finanças director (1) - 12» e onde se lê: «Inspector de finanças - 50 Chefe (1)» deve ler-se: «Inspector de finanças-chefe (1) - 50». no grupo de pessoal técnico--profissional (nível 4), onde se lê: «Secretário de finanças - 14 Coordenador» deve ler-se: «Secretário de finanças-coordenador - 14» e onde se lê: «Secretário de finanças Especialista - 14» deve ler-se: «Secretário de finanças especialista - 14»\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 13-F/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), produz efeitos a partir de 1998-08-16"
+  },
+  "889634105": {
+   "fragment_id": "889627413",
+   "type": 11,
+   "heading": "Artigo 12.º — Princípio da proporcionalidade",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 12.º — Princípio da proporcionalidade\n\nNo exercício das suas funções, os inspectores da IGF deverão pautar a sua conduta pela adequação dos seus procedimentos aos objectivos da acção.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+  },
+  "889634106": {
+   "fragment_id": "889627414",
+   "type": 11,
+   "heading": "Artigo 13.º — Princípio da cooperação",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 13.º — Princípio da cooperação\n\nSempre que não esteja em causa o êxito da acção ou o dever de sigilo, a IGF deve fornecer às entidades objecto da sua intervenção as informações ou outros esclarecimentos de interesse justificado que lhe sejam solicitados, no contexto da administração aberta aos cidadãos.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+  },
+  "889634107": {
+   "fragment_id": "889627415",
+   "type": 11,
+   "heading": "Artigo 14.º — Dever de sigilo",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 14.º — Dever de sigilo\n\nAlém da sujeição aos deveres gerais inerentes ao exercício da função pública, todos os funcionários da IGF estão especialmente obrigados a guardar rigoroso sigilo sobre todos os assuntos de que tomem conhecimento no exercício ou por causa do exercício das suas funções.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+  },
+  "889634108": {
+   "fragment_id": "889627416",
+   "type": 11,
+   "heading": "Artigo 15.º — Garantia do exercício da função inspectiva",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 15.º — Garantia do exercício da função inspectiva\n\n1 - Aos inspectores da IGF, no exercício da sua actividade, devem ser facultadas pelas autoridades públicas e pelas entidades sujeitas à sua intervenção todas as condições necessárias à garantia da eficácia da acção inspectiva.\n\n2 - Neste contexto, é assegurado aos inspectores da IGF, desde que devidamente identificados e no exercício das suas funções:\n\na) Aceder livremente e permanecer, pelo tempo necessário ao desempenho das funções que lhes forem cometidas, em todos os serviços e dependências das entidades sujeitas à intervenção da IGF;\n\nb) Utilizar instalações adequadas ao exercício das suas funções em condições de dignidade e eficácia;\n\nc) Requisitar e reproduzir documentos, para consulta, suporte ou junção aos relatórios, processos ou autos e, ainda, proceder ao exame de quaisquer elementos pertinentes à acção inspectiva em poder de entidades cuja actividade seja objecto da intervenção da IGF;\n\nd) Trocar correspondência, em serviço, com quaisquer entidades públicas ou privadas sobre questões relacionadas com o desenvolvimento da sua actuação;\n\ne) Ingressar e transitar livremente em quaisquer locais públicos, mediante a exibição do cartão de identificação profissional;\n\nf) Requisitar às autoridades policiais e administrativas a colaboração necessária ao exercício das suas funções;\n\ng) Promover, nos termos legais, a selagem de quaisquer instalações, dependências, cofres ou móveis e a apreensão de documentos e objectos de prova, lavrando o correspondente auto, dispensável caso apenas ocorra simples reprodução de documentos;\n\nh) Proceder, por si ou por recurso a autoridade administrativa ou policial competente ou aos serviços fiscais locais, e cumpridas as formalidades legais, a notificações a que haja lugar em processos de inquéritos, sindicâncias ou disciplinares ou noutros de cuja instrução estejam incumbidos.\n\n3 - Os funcionários da IGF que sejam arguidos em processo judicial, por actos cometidos ou ocorridos no exercício e por causa das suas funções, têm direito a ser assistidos por advogado, indicado pelo inspector-geral de finanças, ouvido o interessado, retribuído a expensas do Estado, bem como a transporte e ajudas de custo quando a localização do tribunal ou das entidades policiais o justifique.\n\n4 - As importâncias eventualmente despendidas nos termos e para os efeitos referidos no número anterior devem ser reembolsadas pelo funcionário que lhes deu causa, no caso de condenação judicial.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+  },
+  "889634109": {
+   "fragment_id": "889627418",
+   "type": 11,
+   "heading": "Artigo 16.º — Deveres de colaboração e informação",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 16.º — Deveres de colaboração e informação\n\n1 - As entidades sujeitas à intervenção da IGF devem disponibilizar o acesso ou fornecer os elementos de informação que esta considere necessários ao exercício das suas competências e ao êxito da sua missão, nos moldes, nos suportes e com a periodicidade havida por conveniente, segundo os parâmetros da boa fé.\n\n2 - Os titulares dos órgãos das entidades sujeitas à intervenção da IGF estão obrigados a prestar-lhe ou a fazer prestar as informações e os esclarecimentos, a facultar documentos e a colaborar da forma que lhes for solicitada, no âmbito das suas funções, podendo, para o efeito, ser requisitada a comparência de responsáveis, funcionários e agentes dos serviços e organismos do Estado, nomeadamente, para prestação de declarações ou depoimentos.\n\n3 - A recusa da colaboração devida e a oposição à actuação da IGF podem fazer incorrer o infractor em responsabilidade disciplinar e criminal, nos termos da legislação que ao caso couber.\n\n4 - A IGF deve fazer constar no seu relatório anual de actividades os obstáculos colocados ao normal exercício da sua acção.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+  },
+  "889634110": {
+   "fragment_id": "889627419",
+   "type": 11,
+   "heading": "Artigo 17.º — Princípio do contraditório",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 17.º — Princípio do contraditório\n\n1 - Sem prejuízo das garantias de defesa previstas na lei, e tendo em vista os objectivos de rigor, operacionalidade e eficácia da acção da IGF, esta conduzirá as suas intervenções com observância do princípio do contraditório, excepto quando tal procedimento for susceptível de prejudicar aqueles objectivos.\n\n2 - As modalidades e princípios orientadores da aplicação do princípio do contraditório referido no número anterior são fixados por despacho do Ministro das Finanças.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+  },
+  "889634111": {
+   "fragment_id": "889627420",
+   "type": 11,
+   "heading": "Artigo 18.º — Garantia da eficácia",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 18.º — Garantia da eficácia\n\n1 - Na sequência da decisão ministerial sobre os seus relatórios, a IGF assegura o respectivo encaminhamento para os gabinetes dos membros do Governo com responsabilidades de superintendência ou tutela sobre as entidades visadas bem como para estas, se for o caso.\n\n2 - Sem prejuízo do dever de a IGF proceder ao acompanhamento do resultado das recomendações e propostas formuladas, as entidades públicas visadas devem fornecer-lhe, no prazo de 60 dias contados a partir da recepção do relatório, informações sobre as medidas e decisões entretanto adoptadas na sequência da intervenção da IGF, podendo ainda pronunciar-se sobre o efeito da acção.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+  },
+  "889634112": {
+   "fragment_id": "889627421",
+   "type": 11,
+   "heading": "Artigo 19.º — Dever de participação",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 19.º — Dever de participação\n\n1 - Independentemente do disposto no n.º 1 do artigo anterior, a IGF tem o dever de participar às entidades competentes, nacionais e comunitárias, consoante os casos, os factos que apurar no exercício das suas funções susceptíveis de interessarem ao exercício da acção penal, contra-ordenacional ou disciplinar, bem como à determinação de responsabilidades financeiras ou a acções de combate à fraude e irregularidades em prejuízo dos orçamentos nacional e comunitário.\n\n2 - Os inspectores que tiverem conhecimento ou notícia de um crime transmiti-lo-ão ao Ministério Público no mais curto prazo, sem prejuízo da adopção dos actos cautelares necessários e urgentes para assegurar os meios de prova, nos termos previstos no Código de Processo Penal.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+  },
+  "889634113": {
+   "fragment_id": "889627431",
+   "type": 11,
+   "heading": "Artigo 28.º — Impedimentos e incompatibilidades",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 28.º — Impedimentos e incompatibilidades\n\n1 - O pessoal da IGF está sujeito ao regime geral de impedimentos e incompatibilidades vigente na Administração Pública.\n\n2 - É ainda vedado aos dirigentes e inspectores da IGF:\n\na) Executar quaisquer acções de natureza inspectiva ou disciplinar em que sejam visados parentes ou afins em qualquer grau da linha recta ou até ao 3.º grau da linha colateral;\n\nb) Exercer funções de administração ou gerência em qualquer ramo de comércio, indústria ou serviços;\n\nc) Exercer actividades alheias ao serviço que respeitem a entidades relativamente às quais o funcionário tenha realizado nos últimos três anos quaisquer acções de natureza inspectiva ou disciplinar;\n\nd) Exercer quaisquer outras actividades, públicas ou privadas, alheias ao serviço, salvo as que decorrem do exercício do seu direito de participação na vida pública.\n\n3 - O exercício de actividades mencionadas nas alíneas c) e d) poderá ser autorizado casuisticamente por despacho do Ministro das Finanças, sob parecer do inspector-geral de finanças, desde que não afecte o prestígio da função, não contribua para enfraquecer a respectiva autoridade e não ponha em causa a isenção profissional do funcionário.\n\n4 - O despacho de autorização fixará, para cada caso, as condições em que se permite o exercício de actividade estranha à IGF, podendo a todo o tempo ser revogado com fundamento na inobservância ou desrespeito dessas condições.\n\n> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 276/2007 - Diário da República n.º 146/2007, Série I de 2007-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), em vigor a partir de 2007-08-01"
+  },
+  "889634116": {
+   "fragment_id": "889627423",
+   "type": 11,
+   "heading": "Artigo 20.º — Carreira de inspecção",
+   "in_force_from": "2009-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+   ],
+   "markdown": "###### Artigo 20.º — Carreira de inspecção\n\nA carreira de inspecção integra o corpo especial de inspecção de alto nível, nos termos do artigo 28.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+  },
+  "889634117": {
+   "fragment_id": "889627427",
+   "type": 11,
+   "heading": "Artigo 24.º — Provimento do pessoal da carreira de inspecção",
+   "in_force_from": "2009-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+   ],
+   "markdown": "###### Artigo 24.º — Provimento do pessoal da carreira de inspecção\n\n1 - Os lugares da carreira de inspecção são providos:\n\na) Os de inspector de finanças superior principal, de entre inspectores de finanças superiores com pelo menos cinco anos de serviço nessa categoria e classificação de Muito bom no último ano;\n\nb) Os de inspector de finanças superior, de entre inspectores de finanças principais com pelo menos quatro anos de serviço nessa categoria e classificação superior a Bom no último ano;\n\nc) Os de inspector de finanças principal e de inspectores de finanças, de entre, respectivamente, inspectores de finanças com pelo menos três anos de serviço na categoria e classificação não inferior a Bom e inspectores de finanças estagiários que tenham concluído com aproveitamento o respectivo estágio;\n\nd) Os de inspector de finanças estagiário, de entre licenciados com curso superior adequado, recrutados mediante provas de selecção a realizar para o efeito.\n\n2 - O estágio a que se refere a alínea c) do n.º 1 tem a duração de um ano de efectivo serviço, podendo em qualquer momento cessar por exoneração dos estagiários que revelem uma notória inadequação para o exercício da função.\n\n3 - A prova de selecção prevista na alínea d) do n.º 1 incluirá a apreciação do currículo dos interessados, a sua experiência profissional e os conhecimentos e aptidões específicos revelados em entrevistas e provas escritas, das quais poderão ser dispensados os candidatos com média de curso não inferior a 16 valores ou Bom com distinção, caso em que aqueles conhecimentos e aptidões serão avaliados unicamente através de entrevista.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+  },
+  "889634114": {
+   "fragment_id": "889627428",
+   "type": 11,
+   "heading": "Artigo 25.º — Provimento do pessoal técnico de finanças",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+   ],
+   "markdown": "###### Artigo 25.º — Provimento do pessoal técnico de finanças\n\nOs lugares da carreira do pessoal técnico de finanças são providos:\n\na) Os de secretário de finanças coordenador, de entre secretários de finanças especialistas com pelo menos três anos de serviço na categoria, classificação superior a Bom e qualidades de chefia adequadas ao exercício da função;\n\nb) Os de secretário de finanças especialista, de entre secretários de finanças principais com pelo menos três anos de serviço na categoria e classificação não inferior a Bom;\n\nc) Os de secretário de finanças principal, de entre secretários de finanças de 1.ª classe com pelo menos três anos de serviço na categoria e classificação não inferior a Bom;\n\nd) Os de secretários de finanças de 1.ª classe, de entre os secretários de 2.ª classe com pelo menos três anos de serviço na categoria e classificação não inferior a Bom;\n\ne) Os de secretário de finanças de 2.ª classe, de entre secretários de finanças estagiários aprovados no respectivo estágio, com a duração de um ano;\n\nf) Os de secretário de finanças estagiário, de entre indivíduos habilitados com pelo menos o curso complementar do ensino secundário ou equivalente, recrutados mediante provas de selecção a realizar para o efeito.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) A revogação do presente artigo entra em vigor na data do início de vigência do regime do contrato de trabalho em funções públicas.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+  },
+  "889634115": {
+   "fragment_id": "889627429",
+   "type": 11,
+   "heading": "Artigo 26.º — Provimento do restante pessoal",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)",
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+   ],
+   "markdown": "###### Artigo 26.º — Provimento do restante pessoal\n\nO provimento dos lugares das restantes carreiras previstas no quadro do pessoal da IGF será feito nos termos da lei geral.\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) A revogação do presente artigo entra em vigor na data do início de vigência do regime do contrato de trabalho em funções públicas.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 79/2007 - Diário da República n.º 63/2007, Série I de 2007-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2007-520464), em vigor a partir de 2007-04-01"
+  },
+  "889634118": {
+   "fragment_id": "889627430",
+   "type": 11,
+   "heading": "Artigo 27.º — Regime de provimento e selecção",
+   "in_force_from": "2009-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+   ],
+   "markdown": "###### Artigo 27.º — Regime de provimento e selecção\n\n1 - As nomeações para lugares de secretário de finanças coordenador, bem como para os lugares de ingresso em carreiras em que o recrutamento não seja precedido de estágio, têm carácter provisório durante um ano, findo o qual o provimento se tornará definitivo, se o funcionário revelar aptidão para o lugar, regressando, em caso contrário, à situação anterior.\n\n2 - No provimento dos lugares de ingresso em carreiras em que o recrutamento é precedido de estágio atender-se-á, pela ordem indicada:\n\na) À classificação final do estágio;\n\nb) À graduação para ingresso no estágio.\n\n3 - A formação obtida nos estágios a que alude o número anterior integra-se no âmbito da formação inicial e tem características teórica e prática, com momentos distintos de avaliação.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+  },
+  "889634119": {
+   "fragment_id": "889627432",
+   "type": 11,
+   "heading": "Artigo 29.º — Remunerações",
+   "in_force_from": "2009-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+   ],
+   "markdown": "###### Artigo 29.º — Remunerações\n\nAo pessoal da IGF, incluindo o pessoal dirigente, é mantido o regime remuneratório actualmente em vigor.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+  },
+  "889634120": {
+   "fragment_id": "889627433",
+   "type": 11,
+   "heading": "Artigo 30.º — Domicílio profissional",
+   "in_force_from": "2009-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+   ],
+   "markdown": "###### Artigo 30.º — Domicílio profissional\n\n1 - O pessoal da IGF tem domicílio profissional na cidade de Lisboa, podendo, por conveniência do serviço, ouvido o interessado e mediante despacho do inspector-geral de finanças, ser fixado nas cidades do Porto ou Coimbra.\n\n2 - Os funcionários com domicílio profissional autorizado fora das localidades referidas no número anterior podem, mediante despacho do inspector-geral de finanças, manter o domicílio autorizado ao abrigo da legislação anterior.\n\n3 - A promoção, nomeação em cargo dirigente ou a alteração do domicílio voluntário por iniciativa do interessado implica a observância do disposto no n.º 1.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+  },
+  "889634121": {
+   "fragment_id": "889627436",
+   "type": 11,
+   "heading": "Artigo 32.º — Preenchimento de lugares",
+   "in_force_from": "2009-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+   ],
+   "markdown": "###### Artigo 32.º — Preenchimento de lugares\n\nQuando, por força da aplicação do presente diploma, os lugares providos em qualquer categoria excedam a respectiva dotação, consideram-se os mesmos preenchidos por conta das vagas existentes nas categorias superiores.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04"
+  },
+  "889634141": {
+   "fragment_id": "889627426",
+   "type": 11,
+   "heading": "Artigo 23.º — Provimento do pessoal dirigente",
+   "in_force_from": "2012-04-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 96/2012 - Diário da República n.º 80/2012, Série I de 2012-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2012-553002), em vigor a partir de 2012-04-24"
+   ],
+   "markdown": "###### Artigo 23.º — Provimento do pessoal dirigente\n\n1 - Em face da especificidade das funções de controlo de alto nível, os lugares do pessoal dirigente são providos:\n\na) O de inspector-geral de finanças, por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças, de entre indivíduos de reconhecida competência, qualificação e experiência, licenciados com curso superior adequado ao exercício do respectivo cargo;\n\nb) Os de subinspector-geral de finanças, por despacho do Ministro das Finanças, sob proposta do inspector-geral de finanças, de entre licenciados com curso superior adequado que possuam experiência, qualificação e competência adequadas ao exercício do cargo;\n\nc) Os de inspector de finanças director, de entre inspectores de finanças-chefes ou inspectores de finanças de categoria igual ou superior a inspector de finanças principal, estes com, pelo menos, quatro anos de efectivo serviço na IGF e com classificação de Muito bom no último ano, que possuam qualidades de direcção e experiência adequadas ao exercício do cargo;\n\nd) Os de inspector de finanças-chefe, de entre inspectores com categoria igual ou superior a inspector de finanças com, pelo menos, quatro anos de efectivo serviço na IGF e com classificação de Muito bom no último ano, que possuam qualidades de chefia e experiência adequadas ao exercício do cargo.\n\n2 - De acordo com as especificidades constantes das alíneas a) a d) do número anterior, o provimento dos cargos de inspector-geral de finanças, subinspector-geral de finanças, inspector de finanças director e inspector de finanças-chefe é efectuado em comissão de serviço, nos termos da lei geral aplicável ao pessoal dirigente.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 96/2012 - Diário da República n.º 80/2012, Série I de 2012-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2012-553002), em vigor a partir de 2012-04-24"
+  }
+ }
+}

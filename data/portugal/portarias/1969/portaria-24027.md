@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:525634:por
+title: Portaria n.º 24027
+short_title: null
+summary: Estabelece o quadro do Gabinete de Urbanização e Habitação da Região de Lourenço Marques
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Ministro
+proposing_entity: null
+official_number: '24027'
+official_date: null
+publication_date: '1969-04-12'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 87/1969, Série I de 1969-04-12
+  number: '87'
+  series: I
+  supplement: null
+  pages: 397 - 398
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/04/08700/03970398.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '525634'
+  dre_path: /dr/detalhe/portaria/24027-1969-525634
+  internal: pt:dre:525634:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/24027-1969-525634
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24027-1969-525634
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:59:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7631de0e27a672e66c538e784bf20f31f11a37bca751dba105c6fff71abaa38c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:59:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527792:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:59:38Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 24027
+
+Torna-se necessário dar urgente execução ao disposto no artigo 7.º do [Decreto-Lei n.º 48860](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48860-1969-527792), de 8 de Fevereiro de 1969, de modo a permitir que o Gabinete de Urbanização e Habitação da Região de Lourenço Marques possa iniciar o seu funcionamento.
+
+Nestes termos, tendo em vista o proposto pelo governador-geral de Moçambique:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+
+1.º É estabelecido o quadro do Gabinete de Urbanização e Habitação da Região de Lourenço Marques, constante do mapa anexo à presente portaria.
+
+§ único. O presente quadro destina-se a assegurar o funcionamento do Gabinete na sua fase inicial de trabalho, devendo, decorrido um ano e mediante proposta do governador-geral de Moçambique, o quadro ser revisto, em conformidade com os programas de estudo e actuação estabelecidos e a orgânica adoptada.
+
+2.º O governador-geral de Moçambique fica autorizado a fixar os subsídios diários abonáveis ao pessoal, ao abrigo do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962.
+
+Ministério do Ultramar, 12 de Abril de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.
+
+Mapa a que se refere o n.º 1.º da Portaria n.º 24027
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/04/08700/03970398.pdf)
+
+Ministério do Ultramar, 12 de Abril de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

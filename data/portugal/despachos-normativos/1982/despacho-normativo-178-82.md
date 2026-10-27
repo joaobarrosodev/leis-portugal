@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:397544:por
+title: Despacho Normativo n.º 178/82
+short_title: null
+summary: Redistribui a verba atribuída às empresas do sector da comunicação social, nos termos da Resolução n.º 109/82, de
+  9 de Julho
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 178/82
+official_date: null
+publication_date: '1982-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 192/1982, Série I de 1982-08-20
+  number: '192'
+  series: I
+  supplement: null
+  pages: 2449 - 2449
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/08/19200/24492449.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '397544'
+  dre_path: /dr/detalhe/despacho-normativo/178-1982-397544
+  internal: pt:dre:397544:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/178-1982-397544
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/178-1982-397544
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:17:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6869e40bd4f7054604549d44e05d71dd8dfcab2173275a32781ab56180805ad3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:17:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atribuição de Verba
+- Comunicação Social
+- Empresa Pública
+- Empresa Pública do Jornal Diário Popular
+- Empresa Pública dos Jornais Notícias e Capital
+- RDP
+- RTP
+relationships:
+- type: cites
+  target: pt:dre:394679:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:17:23Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 178/82
+
+Nos termos da [Resolução n.º 109/82](https://diariodarepublica.pt/dr/detalhe/resolucao/109-1982-394679), publicada no Diário da República, 1.ª série, n.º 156, de 9 de Julho de 1982, foi atribuída às empresas do sector da comunicação social uma verba para dotações de capital relativas a investimentos em 1982 e a saneamento financeiro que totaliza 766,1 milhares de contos.
+
+Verificando-se a oportunidade e conveniência de proceder a uma redistribuição da referida verba, tendo em conta as necessidades reais das empresas que posteriormente se vierem a apurar, ao abrigo do n.º 3 da referida [Resolução n.º 109/82](https://diariodarepublica.pt/dr/detalhe/resolucao/109-1982-394679), o Ministro de Estado e das Finanças e do Plano e o Secretário de Estado Adjunto do Primeiro-Ministro determinam:
+
+1 - A afectação das verbas atribuídas a empresas do sector da comunicação social, nos termos do mapa anexo à [Resolução n.º 109/82](https://diariodarepublica.pt/dr/detalhe/resolucao/109-1982-394679), de 9 de Julho, deverá ser alterada de acordo com a redistribuição constante dos números seguintes.
+
+2 - À RDP - Radiodifusão Portuguesa, E. P., é atribuída uma dotação de capital no valor global de 615,8 milhares de contos, sendo 118,4 milhares de contos para despesas de investimento em 1982 e 497,4 milhares de contos para saneamento financeiro.
+
+3 - À RTP - Radiotelevisão Portuguesa, E. P., é atribuída uma dotação de capital relativa a investimentos em 1982, no valor de 74 milhares de contos.
+
+4 - Para a EPDP - Empresa Pública do Jornal Diário Popular, E. P., mantém-se a dotação de capital no valor de 5 milhares de contos relativa a investimentos em 1982.
+
+5 - À EPNC - Empresa Pública dos Jornais Notícias e Capital, E. P., é atribuída uma dotação de capital no montante de 50 milhares de contos relativa a investimentos em 1982.
+
+6 - Por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Secretário de Estado Adjunto do Primeiro-Ministro será determinada a afectação a empresas não jornalísticas do sector da comunicação social da verba remanescente, no valor de 21,3 milhares de contos.
+
+Presidência do Conselho de Ministros e Ministério das Finanças e do Plano, 30 de Julho de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Secretário de Estado Adjunto do Primeiro-Ministro, por delegação do Primeiro-Ministro, José Carlos Alfaia Pinto Pereira.

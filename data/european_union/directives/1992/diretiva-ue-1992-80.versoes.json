@@ -1,0 +1,235 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992L0080:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992L0080-20110101",
+ "dre_path": null,
+ "source_lastmod": "2011-01-01",
+ "versions": [
+  {
+   "date": "2003-12-20",
+   "future": false,
+   "celex": "01992L0080-20031220",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "de1733a6a3a0ee76",
+    "7b755035995ea5d1",
+    "eeb94f322805745d",
+    "8e87415d3f225904",
+    "426ac92f4f32a8c6",
+    "fc37a660aeb6ac95",
+    "6c28fb836716ad97",
+    "ee1eacce429ff504"
+   ]
+  },
+  {
+   "date": "2010-02-27",
+   "future": false,
+   "celex": "01992L0080-20100227",
+   "acts": [
+    {
+     "id": "eu:celex:31999L0081:por",
+     "title": "DIRECTIVA 1999/81/CE DO CONSELHO de 29 de Julho de 1999",
+     "published": null,
+     "celex": "31999L0081"
+    },
+    {
+     "id": "eu:celex:32002L0010:por",
+     "title": "DIRECTIVA 2002/10/CE DO CONSELHO de 12 de Fevereiro de 2002",
+     "published": null,
+     "celex": "32002L0010"
+    },
+    {
+     "id": "eu:celex:32003L0117:por",
+     "title": "M3",
+     "published": null,
+     "celex": "32003L0117"
+    },
+    {
+     "id": "eu:celex:32010L0012:por",
+     "title": "DIRECTIVA 2010/12/UE DO CONSELHO de 16 de Fevereiro de 2010",
+     "published": null,
+     "celex": "32010L0012"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Adita Artigo 3.º",
+    "Adita Notas",
+    "Suprime Artigo 3.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0081:PT:NOT)"
+   ],
+   "fragments": [
+    "57e19d808394e0c9",
+    "43846f771a927887",
+    "182a10fd67761866",
+    "0e5c27daa07ae7e0",
+    "35176b5567614d0c",
+    "aedb9fc985e1d4dc",
+    "6c28fb836716ad97",
+    "904f9b0cbfde2d74",
+    "f3cf5fcdfc31bd45"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "celex": "01992L0080-20110101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "55d113d89c8a2953"
+   ]
+  }
+ ],
+ "fragments": {
+  "de1733a6a3a0ee76": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1992L0080 — PT — 20.12.2003 — 003.001\n\nEste documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0080:PT:NOT) [DIRECTIVA 92/80/CEE DO CONSELHO de 19 de Outubro de 1992 relativa à aproximação dos impostos sobre os tabacos manufacturados que não sejam cigarros](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0080:PT:NOT) (JO L 316, 31.10.1992, p.10)\n\nAlterado por:\n\n|  |  | Jornal Oficial |  |  |\n| --- | --- | --- | --- | --- |\n| No | page | date |  |  |\n| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0081:PT:NOT) | [Directiva 1999/81/CE do Conselho de 29 de Julho de 1999](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0081:PT:NOT) | L 211 | 47 | 11.8.1999 |\n| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0010:PT:NOT) | [Directiva 2002/10/CE do Conselho de 12 de Fevereiro de 2002](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0010:PT:NOT) | L 46 | 26 | 16.2.2002 |\n| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0117:PT:NOT) | [Directiva 2003/117/CE do Conselho de 5 de Dezembro de 2003](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0117:PT:NOT) | L 333 | 49 | 20.12.2003 |\n\n| NB: Esta versão consolidada contém referências à unidade de conta europeia e/ou ao ecu, que a partir de 1 de Janeiro de 1999 devem ser interpretadas como referências ao euro — Regulamento (CEE) n.o 3308/80 do Conselho (JO L 345 de 20.12.1980, p. 1) e Regulamento (CE) n.o 1103/97 do Conselho (JO L 162 de 19.6.1997, p. 1). |\n| --- |\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0080:PT:NOT)\n\nDIRECTIVA 92/80/CEE DO CONSELHO\n\nde 19 de Outubro de 1992\n\nrelativa à aproximação dos impostos sobre os tabacos manufacturados que não sejam cigarros\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 99.o,\n\nTendo em conta a proposta da Comissão ([1](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#E0003)),\n\nConsiderando que a Directiva 72/464/CEE ([4](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#E0004)) prevê, no título I, disposições gerais em matéria de impostos especiais aplicáveis a todos os tabacos manufacturados; que, no título II, já foram aprovadas disposições específicas no que se refere aos cigarros; que ainda deverão ser aprovadas disposições específicas no que se refere aos outros tabacos manufacturados;\n\nConsiderando que a Directiva 79/32/CEE ([5](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#E0005)) estabeleceu as definições dos diferentes grupos de tabaco manufacturado;\n\nConsiderando que, para a criação do mercado interno em 1 de Janeiro de 1993, é necessário fixar impostos especiais mínimos para os tabacos manufacturados que não sejam cigarros;\n\nConsiderando que se deve fixar uma incidência harmonizada de imposição para todos os produtos pertencentes ao mesmo grupo de tabaco manufacturado;\n\nConsiderando que a fixação de um imposto especial mínimo global, expresso quer em percentagem quer em montante por quilograma quer por número de unidades, é a mais adequada para realizar o mercado interno;\n\nConsiderando que se deve conceder à República Italiana e ao Reino de Espanha, até 31 de Dezembro de 1998, uma eventual taxa de imposição reduzida sobre os charutos e as cigarrilhas em relação aos rolos de tabaco inteiramento constituídos por tabaco natural e que não sejam cigarros;\n\nConsiderando que se deve instaurar um procedimento que permita uma análise periódica das taxas ou montantes previstos na presente directiva, com base num relatório da Comissão que tome em conta todos os elementos necessários;\n\nConsiderando que se deve introduzir um mecanismo que permita a conversão em moeda nacional dos montantes específicos expressos em ecus,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "7b755035995ea5d1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs seguintes grupos de tabacos manufacturados produzidos na Comunidade ou importados de países terceiros estão sujeitos, em cada Estado-membro, a um imposto especial mínimo sobre o consumo, fixado no artigo 3.o:\n\na) Charutos e cigarrilhas;\n\nb) Tabacos de corte fino destinados a cigarros de enrolar;\n\nc) Outros tabacos de fumar."
+  },
+  "eeb94f322805745d": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos de aplicação da presente directiva, as definições dos produtos referidos no artigo 1.o são as previstas respectivamente nos artigos 2.o, 4.o e 4.oA da Directiva 79/32/CEE."
+  },
+  "8e87415d3f225904": {
+   "fragment_id": "Artigo 3.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0081:PT:NOT)",
+   "type": "artigo",
+   "heading": "Artigo 3.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0081:PT:NOT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — [▼M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999L0081:PT:NOT)\n\n1. Os Estados-Membros devem aplicar um imposto especial de consumo que poderá ser:\n\na) Ou ad valorem, calculado sobre os preços máximos de venda ao público de cada produto, livremente determinados pelos fabricantes estabelecidos na Comunidade e pelos importadores de países terceiros em conformidade com o artigo 9.o da Directiva 95/59/CE do Conselho, de 27 de Novembro de 1995, relativa aos impostos que incidem sobre o consumo de tabacos manufacturados, com excepção dos impostos sobre o volume de negócios ([6](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#E0006));\n\nb) Ou específico, quer expresso em montante por quilograma, quer, no caso de charutos e cigarrilhas, pelo número de unidades;\n\nc) Ou misto, incluindo um elemento ad valorem e um elemento específico.\n\nNos casos em que o imposto especial de consumo for ad valorem ou misto, os Estados-Membros podem fixar um montante mínimo de imposto especial de consumo.\n\nO imposto especial de consumo global, expresso em percentagem ou em montante por quilograma ou por número de unidades, deve ser, pelo menos, igual às seguintes taxas ou montantes mínimos:\n\n— charutos e cigarrilhas: 5 % do preço de venda ao público, incluindo todos os impostos, ou 9 euros por 1 000 unidades ou 9 euros por quilograma,\n\n— tabacos de fumar de corte fino destinados a cigarros de enrolar: 30 % do preço de venda ao público, incluindo todos os impostos, ou 24 euros por quilograma,\n\n— outros tabacos de fumar: 20 % do preço de venda ao público, incluindo todos os impostos, ou 18 euros por quilograma.\n\nA partir de 1 de Janeiro de 2001, os montantes de 9 euros, de 24 euros e de 18 euros são substituídos, respectivamente, por 10 euros, 25 euros e 19 euros.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0010:PT:NOT)\n\nA partir de 1 de Julho de 2002, o imposto especial de consumo global aplicado ao tabaco de corte fino destinado a cigarros de enrolar deve ser, pelo menos, igual a 32 % do preço de venda ao público, incluindo todos os impostos, ou a 27 euros por quilograma.\n\nA partir de 1 de Julho de 2003, o imposto especial de consumo global deve ser, pelo menos, igual às seguintes taxas ou montantes mínimos:\n\na) Charutos e cigarrilhas: 5 % do preço de venda ao público, incluindo todos os impostos, ou 11 euros por 1 000 unidades ou por quilograma;\n\nb) Tabaco de corte fino destinado a cigarros de enrolar: 33 % do preço de venda ao público, incluindo todos os impostos, ou 29 euros por quilograma;\n\nc) Outros tabacos de fumar: 20 % do preço de venda ao público, incluindo todos os impostos, ou 20 euros por quilograma.\n\nA partir de 1 de Julho de 2004, o imposto especial de consumo global aplicado ao tabaco de corte fino destinado a cigarros de enrolar deve ser, pelo menos, igual a 36 % do preço de venda ao público, incluindo todos os impostos, ou 32 euros por quilograma.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0080:PT:NOT)\n\n2. As taxas ou montantes referidos no n.o 1 aplicar-se-ão a todos os produtos pertencentes ao grupo de tabacos manufacturados em causa, sem distinções dentro de cada grupo quanto à qualidade, à apresentação, à origem dos produtos, às matérias-primas utilizadas, às características das empresas ou a qualquer outro critério.\n\n3. Durante um período que termina em 31 de Dezembro de 1998, a República Italiana e o Reino de Espanha poderão aplicar aos rolos de tabaco inteiramente constituídos por tabaco natural e que não sejam cigarros uma taxa ou um montante que pode ir até 50 % da taxa nacional normal do imposto especial sobre os charutos e as cigarrilhas e que pode ser inferior à taxa mínima referida no n.o 1.\n\n[▼M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32003L0117:PT:NOT)\n\n4. Em derrogação ao n.o 1 do artigo 3.o, a República Francesa é autorizada a continuar a aplicar, no período compreendido entre 1 de Janeiro de 2003 e 31 de Dezembro de 2009, aos tabacos manufacturados que não sejam cigarros introduzidos no consumo na Córsega, uma taxa do imposto especial reduzida, fixada do seguinte modo:\n\na) Para os charutos e as cigarrilhas: a taxa deve corresponder, pelo menos, a 10 % do preço de venda ao público, incluindo impostos, aplicado na Córsega;\n\nb) Para os tabacos de fumar de corte fino destinados a cigarros de enrolar: a taxa deve corresponder, pelo menos, a 25 % do preço de venda ao público, incluindo impostos, aplicado na Córsega;\n\nc) Para os outros tabacos de fumar: a taxa deve corresponder, pelo menos, a 22 % do preço de venda ao público, incluindo impostos, aplicado na Córsega.\n\n[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0010:PT:NOT)"
+  },
+  "426ac92f4f32a8c6": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nDe quatro em quatro anos, a Comissão apresentará ao Conselho um relatório e, eventualmente, uma proposta sobre as taxas do imposto especial de consumo previstas na presente directiva. O Conselho analisará esse relatório e essa proposta e, deliberando por unanimidade, após consulta ao Parlamento Europeu, tomará as medidas necessárias. O relatório da Comissão e a análise do Conselho devem ter em conta o bom funcionamento do mercado interno, o valor real das taxas do imposto especial de consumo e os objectivos gerais do Tratado.\n\n[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992L0080:PT:NOT)"
+  },
+  "fc37a660aeb6ac95": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os valores em moeda nacional correspondentes ao valor em ecus dos impostos especiais aplicáveis são fixados uma vez por ano. As taxas aplicáveis são calculadas no primeiro dia útil de Outubro e publicadas no Jornal Oficial das Comunidades Europeias produzindo efeitos a partir de 1 de Janeiro do ano civil seguinte.\n\n2. Os Estados-membros podem manter os montantes dos impostos especiais que estiverem em vigor no momento da adaptação anual prevista no n.o 1 se a conversão dos montantes dos impostos especiais expressos em ecus levar a um aumento do imposto expresso em moeda nacional inferior a 5 % ou a 5 ecus, devendo-se considerar o montante que for mais baixo."
+  },
+  "6c28fb836716ad97": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas para dar cumprimento à presente directiva, o mais tardar, em 31 de Dezembro de 1992. Do facto informarão imediatamente a Comissão.\n\nAs disposições aprovadas pelos Estados-membros deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são da responsabilidade dos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão as disposições essenciais de direito interno que aprovarem no domínio regido pela presente directiva."
+  },
+  "ee1eacce429ff504": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n([1](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#src.E0001)) JO n.o C 12 de 18. 1. 1990, p. 8.\n\n([2](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#src.E0002)) JO n.o C 94 de 13. 1. 1992, p. 38.\n\n([3](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#src.E0003)) JO n.o C 225 de 10. 9. 1990, p. 56.\n\n([4](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#src.E0004)) JO n.o L 303 de 31. 12. 1972, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/78/CEE (ver página 5 do presente Jornal Oficial).\n\n([5](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#src.E0005)) JO n.o L 10 de 16. 1. 1979, p. 8.\n\n([6](http://publications.europa.eu/resource/cellar/82bd3663-402e-4f89-a946-b04f360f0efb.0018.02/DOC_1#src.E0006)) JO L 291 de 6.12.1995, p. 40."
+  },
+  "57e19d808394e0c9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Outubro de 1992\n\nrelativa à aproximação dos impostos sobre os tabacos manufacturados que não sejam cigarros\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 99.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#E0003)),\n\nConsiderando que a Directiva 72/464/CEE ([^4^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#E0004)) prevê, no título I, disposições gerais em matéria de impostos especiais aplicáveis a todos os tabacos manufacturados; que, no título II, já foram aprovadas disposições específicas no que se refere aos cigarros; que ainda deverão ser aprovadas disposições específicas no que se refere aos outros tabacos manufacturados;\n\nConsiderando que a Directiva 79/32/CEE ([^5^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#E0005)) estabeleceu as definições dos diferentes grupos de tabaco manufacturado;\n\nConsiderando que, para a criação do mercado interno em 1 de Janeiro de 1993, é necessário fixar impostos especiais mínimos para os tabacos manufacturados que não sejam cigarros;\n\nConsiderando que se deve fixar uma incidência harmonizada de imposição para todos os produtos pertencentes ao mesmo grupo de tabaco manufacturado;\n\nConsiderando que a fixação de um imposto especial mínimo global, expresso quer em percentagem quer em montante por quilograma quer por número de unidades, é a mais adequada para realizar o mercado interno;\n\nConsiderando que se deve conceder à República Italiana e ao Reino de Espanha, até 31 de Dezembro de 1998, uma eventual taxa de imposição reduzida sobre os charutos e as cigarrilhas em relação aos rolos de tabaco inteiramento constituídos por tabaco natural e que não sejam cigarros;\n\nConsiderando que se deve instaurar um procedimento que permita uma análise periódica das taxas ou montantes previstos na presente directiva, com base num relatório da Comissão que tome em conta todos os elementos necessários;\n\nConsiderando que se deve introduzir um mecanismo que permita a conversão em moeda nacional dos montantes específicos expressos em ecus,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "43846f771a927887": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs seguintes grupos de tabacos manufacturados produzidos na Comunidade ou importados de países terceiros estão sujeitos, em cada Estado-membro, a um imposto especial mínimo sobre o consumo, fixado no artigo 3.º:\n\na) Charutos e cigarrilhas;\n\nb) Tabacos de corte fino destinados a cigarros de enrolar;\n\nc) Outros tabacos de fumar."
+  },
+  "182a10fd67761866": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos de aplicação da presente directiva, as definições dos produtos referidos no artigo 1.º são as previstas respectivamente nos artigos 2.º, 4.º e 4.ºA da Directiva 79/32/CEE."
+  },
+  "0e5c27daa07ae7e0": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros devem aplicar um imposto especial de consumo que poderá ser:\n\na) Ou *ad valorem*, calculado sobre os preços máximos de venda ao público de cada produto, livremente determinados pelos fabricantes estabelecidos na Comunidade e pelos importadores de países terceiros em conformidade com o artigo 9.º da Directiva 95/59/CE do Conselho, de 27 de Novembro de 1995, relativa aos impostos que incidem sobre o consumo de tabacos manufacturados, com excepção dos impostos sobre o volume de negócios ([^6^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#E0006));\n\nb) Ou específico, quer expresso em montante por quilograma, quer, no caso de charutos e cigarrilhas, pelo número de unidades;\n\nc) Ou misto, incluindo um elemento *ad valorem* e um elemento específico.\n\nNos casos em que o imposto especial de consumo for *ad valorem* ou misto, os Estados-Membros podem fixar um montante mínimo de imposto especial de consumo.\n\nO imposto especial de consumo global, expresso em percentagem ou em montante por quilograma ou por número de unidades, deve ser, pelo menos, igual às seguintes taxas ou montantes mínimos:\n\n— charutos e cigarrilhas: 5 % do preço de venda ao público, incluindo todos os impostos, ou 9 euros por 1 000 unidades ou 9 euros por quilograma,\n\n— tabacos de fumar de corte fino destinados a cigarros de enrolar: 30 % do preço de venda ao público, incluindo todos os impostos, ou 24 euros por quilograma,\n\n— outros tabacos de fumar: 20 % do preço de venda ao público, incluindo todos os impostos, ou 18 euros por quilograma.\n\nA partir de 1 de Janeiro de 2001, os montantes de 9 euros, de 24 euros e de 18 euros são substituídos, respectivamente, por 10 euros, 25 euros e 19 euros.\n\nA partir de 1 de Julho de 2002, o imposto especial de consumo global aplicado ao tabaco de corte fino destinado a cigarros de enrolar deve ser, pelo menos, igual a 32 % do preço de venda ao público, incluindo todos os impostos, ou a 27 euros por quilograma.\n\nA partir de 1 de Julho de 2003, o imposto especial de consumo global deve ser, pelo menos, igual às seguintes taxas ou montantes mínimos:\n\na) Charutos e cigarrilhas: 5 % do preço de venda ao público, incluindo todos os impostos, ou 11 euros por 1 000 unidades ou por quilograma;\n\nb) Tabaco de corte fino destinado a cigarros de enrolar: 33 % do preço de venda ao público, incluindo todos os impostos, ou 29 euros por quilograma;\n\nc) Outros tabacos de fumar: 20 % do preço de venda ao público, incluindo todos os impostos, ou 20 euros por quilograma.\n\nA partir de 1 de Julho de 2004, o imposto especial de consumo global aplicado ao tabaco de corte fino destinado a cigarros de enrolar deve ser, pelo menos, igual a 36 % do preço de venda ao público, incluindo todos os impostos, ou 32 euros por quilograma.\n\nA partir de 1 de Janeiro de 2011, o imposto especial de consumo global (imposto específico e/ou imposto *ad valorem*, líquidos de IVA) sobre o tabaco para fumar de corte fino destinado a cigarros de enrolar deve representar pelo menos 40 % do preço médio ponderado de venda a retalho do tabaco para fumar de corte fino destinado a cigarros de enrolar introduzido no consumo, ou corresponder a, pelo menos, 40 EUR por quilograma.\n\nA partir de 1 de Janeiro de 2013, o imposto especial de consumo global (imposto específico e/ou imposto *ad valorem*, líquidos de IVA) sobre o tabaco para fumar de corte fino destinado a cigarros de enrolar deve representar pelo menos 43 % do preço médio ponderado de venda a retalho do tabaco para fumar de corte fino destinado a cigarros de enrolar introduzido no consumo, ou corresponder a, pelo menos, 47 EUR por quilograma.\n\nA partir de 1 de Janeiro de 2015, o imposto especial de consumo global (imposto específico e/ou imposto *ad valorem*, líquidos de IVA) sobre o tabaco para fumar de corte fino destinado a cigarros de enrolar deve representar pelo menos 46 % do preço médio ponderado de venda a retalho do tabaco para fumar de corte fino destinado a cigarros de enrolar introduzido no consumo, ou corresponder a, pelo menos, EUR 54 por quilograma.\n\nA partir de 1 de Janeiro de 2018, o imposto especial de consumo global (imposto específico e/ou imposto *ad valorem*, líquidos de IVA) sobre o tabaco para fumar de corte fino destinado a cigarros de enrolar deve representar pelo menos 48 % do preço médio ponderado de venda a retalho do tabaco para fumar de corte fino destinado a cigarros de enrolar introduzido no consumo, ou corresponder a, pelo menos, 60 EUR por quilograma.\n\nA partir de 1 de Janeiro de 2020, o imposto especial de consumo global (imposto específico e/ou imposto *ad valorem*, líquidos de IVA) sobre o tabaco para fumar de corte fino destinado a cigarros de enrolar deve representar pelo menos 50 % do preço médio ponderado de venda a retalho do tabaco para fumar de corte fino destinado a cigarros de enrolar introduzido no consumo, ou corresponder a, pelo menos, 60 EUR por quilograma.\n\nO preço médio ponderado de venda a retalho é calculado por referência ao valor global do tabaco para fumar de corte fino destinado a cigarros de enrolar introduzido no consumo, baseado no preço de venda a retalho incluindo todos os impostos, dividido pela quantidade total do tabaco para fumar de corte fino destinado a cigarros de enrolar introduzido no consumo. É determinado até 1 de Março de cada ano com base nos dados relativos a todas essas introduções no consumo no ano civil anterior.\n\nA partir de 1 de Janeiro de 2011, o imposto especial de consumo global expresso em percentagem, num montante por quilograma ou relativo a um determinado número de unidades deve ser, pelo menos, equivalente ao seguinte:\n\na) No caso de charutos ou cigarrilhas, 5 % do preço de venda a retalho, incluindo todos os impostos, ou 12 EUR por 1 000 unidades ou por quilograma;\n\nb) No caso dos tabacos para fumar, com excepção do tabaco para fumar de corte fino destinado a cigarros de enrolar, 20 % do preço de venda a retalho incluindo todos os impostos, ou 22 EUR por quilograma.\n\n2. As taxas ou montantes referidos no n.º 1 aplicar-se-ão a todos os produtos pertencentes ao grupo de tabacos manufacturados em causa, sem distinções dentro de cada grupo quanto à qualidade, à apresentação, à origem dos produtos, às matérias-primas utilizadas, às características das empresas ou a qualquer outro critério.\n\n3. Durante um período que termina em 31 de Dezembro de 1998, a República Italiana e o Reino de Espanha poderão aplicar aos rolos de tabaco inteiramente constituídos por tabaco natural e que não sejam cigarros uma taxa ou um montante que pode ir até 50 % da taxa nacional normal do imposto especial sobre os charutos e as cigarrilhas e que pode ser inferior à taxa mínima referida no n.º 1.\n\n4. Em derrogação do n.º 1, a França pode continuar a aplicar, no período compreendido entre 1 de Janeiro de 2010 e 31 de Dezembro de 2015, uma taxa reduzida de imposto especial de consumo aos tabacos manufacturados que não sejam cigarros introduzidos no consumo nos departamentos da Córsega. Essa taxa reduzida é fixada do seguinte modo:\n\na) Para os charutos e as cigarrilhas:\n\nb) Para o tabaco para fumar de corte fino destinado a cigarros de enrolar:\n\n— até 31 de Dezembro de 2012, a taxa deve corresponder a, pelo menos, 27 % do preço de venda a retalho, incluindo todos os impostos,\n\n— a partir de 1 de Janeiro de 2013, a taxa deve corresponder a, pelo menos, 30 % do preço de venda a retalho, incluindo todos os impostos,\n\n— a partir de 1 de Janeiro de 2015, a taxa deve corresponder a, pelo menos, 35 % do preço de venda a retalho, incluindo todos os impostos;\n\nc) Para os outros tabacos de fumar:"
+  },
+  "35176b5567614d0c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. De quatro em quatro anos, a Comissão apresenta ao Conselho um relatório e, se necessário, uma proposta sobre as taxas e a estrutura do imposto especial de consumo fixadas na presente directiva.\n\nO relatório da Comissão deve ter em conta o bom funcionamento do mercado interno, o valor real das taxas do imposto especial de consumo e os objectivos gerais do Tratado.\n\n2. O relatório a que se refere o n.º 1 deve basear-se designadamente nas informações prestadas pelos Estados-Membros.\n\n3. A Comissão estabelece, nos termos do artigo 43.º da Directiva 2008/118/CE do Conselho, de 16 de Dezembro de 2008, relativa ao regime geral dos impostos especiais de consumo ([^7^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#E0007)), uma lista dos dados estatísticos necessários para o relatório, com excepção dos dados relativos a pessoas singulares individuais ou a entidades jurídicas. Para além dos dados imediatamente disponíveis para os Estados-Membros, a lista apenas deve conter dados cuja recolha e compilação não envolvam encargos administrativos desproporcionados por parte dos Estados-Membros.\n\n4. A Comissão não publica nem de algum modo revela esses dados caso tal publicação ou revelação conduza à divulgação de um segredo comercial, industrial ou profissional."
+  },
+  "aedb9fc985e1d4dc": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A Comissão publica anualmente o valor do euro em moedas nacionais a aplicar aos montantes do imposto especial de consumo global.\n\nAs taxas de câmbio aplicáveis são calculadas no primeiro dia útil de Outubro e publicadas no *Jornal Oficial da União Europeia* e produzem efeitos a partir de 1 de Janeiro do ano civil seguinte.\n\n2. Os Estados-membros podem manter os montantes dos impostos especiais que estiverem em vigor no momento da adaptação anual prevista no n.º 1 se a conversão dos montantes dos impostos especiais expressos em ecus levar a um aumento do imposto expresso em moeda nacional inferior a 5 % ou a 5 ecus, devendo-se considerar o montante que for mais baixo."
+  },
+  "904f9b0cbfde2d74": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "f3cf5fcdfc31bd45": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#src.E0001)) JO n.º C 12 de 18. 1. 1990, p. 8.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#src.E0002)) JO n.º C 94 de 13. 1. 1992, p. 38.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#src.E0003)) JO n.º C 225 de 10. 9. 1990, p. 56.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#src.E0004)) JO n.º L 303 de 31. 12. 1972, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 92/78/CEE (ver página 5 do presente Jornal Oficial).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#src.E0005)) JO n.º L 10 de 16. 1. 1979, p. 8.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#src.E0006)) JO L 291 de 6.12.1995, p. 40.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/fa6cd568-5ecb-4266-96e1-0566bc724a89.0018.03/DOC_1#src.E0007)) JO L 9 de 14.1.2009, p. 12."
+  },
+  "55d113d89c8a2953": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992L0080 — PT — 01.01.2011 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31992L0080) [DIRECTIVA 92/80/CEE DO CONSELHO](http://publications.europa.eu/resource/celex/31992L0080) [de 19 de Outubro de 1992](http://publications.europa.eu/resource/celex/31992L0080) [relativa à aproximação dos impostos sobre os tabacos manufacturados que não sejam cigarros](http://publications.europa.eu/resource/celex/31992L0080) (JO L 316, 31.10.1992, p.10)\n\n**revogado por:**\n\n- [Directiva 2011/64/UE do Conselho de 21 de Junho de 2011](http://publications.europa.eu/resource/celex/32011L0064) — L 176 — 24 — 5.7.2011"
+  }
+ }
+}

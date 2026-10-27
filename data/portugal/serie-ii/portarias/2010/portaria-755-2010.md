@@ -1,0 +1,248 @@
+---
+schema_version: '1.0'
+id: pt:dre:794410:por
+title: Portaria n.º 755/2010
+short_title: null
+summary: Regulamento de Conservação Arquivística dos documentos de arquivo da Marinha
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Defesa Nacional e da Cultura
+proposing_entity: null
+official_number: 755/2010
+official_date: null
+publication_date: '2010-10-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 207/2010, Série II de 2010-10-25
+  number: '207'
+  series: II
+  supplement: null
+  pages: 52451 - 52573
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/10/207000000/5245152573.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '794410'
+  dre_path: /dr/detalhe/portaria/755-2010-794410
+  internal: pt:dre:794410:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/755-2010-794410
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/755-2010-794410
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:27:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ce5a61c165c6f7384cb46214ad79f295ae6294789641161121475788b1af868d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:27:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arquivística
+- Conservação de Documentos
+- Documentação
+- Documentação Classificada
+- Marinha
+- Regulamento
+- Regulamento Arquivistico
+relationships:
+- type: cites
+  target: pt:dre:291844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:356515:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520446:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629144:por
+  label: null
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:27:42Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 755/2010
+
+A Marinha, no âmbito das suas atribuições e competências, tem vindo a constituir um significativo e relevante acervo documental para o qual cumpre definir estratégias de gestão, conservação e divulgação do seu património arquivístico.
+
+Atendendo à relevância da documentação produzida, quer do ponto de vista administrativo e técnico quer do ponto de vista histórico, nomeadamente no que respeita à salvaguarda da memória histórica e para apoio à investigação no campo militar, científico, político, institucional e da história naval e marítima, entendeu a Marinha ser essencial, no cumprimento do quadro legal em vigor, encontrar estratégias de conservação e divulgação do seu património arquivístico, procurando não só uma adequada gestão do espaço de arquivo, mas também um tratamento técnico dessa documentação e do seu ciclo de vida, de acordo com os princípios consubstanciados no [Decreto-Lei n.º 121/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1992-291844), de 2 de Julho.
+
+Tendo em vista a transformação dos seus arquivos em eficazes, eficientes e úteis fontes de informação, procedeu-se à elaboração de um regulamento de conservação arquivística para preceituar a avaliação, selecção, eliminação e substituição de suporte dos documentos de arquivo da Marinha.
+
+Assim:
+
+Ao abrigo do disposto na alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 447/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1988-356515), de 10 de Dezembro:
+
+Manda o Governo, pelos Ministros da Defesa Nacional e da Cultura, o seguinte:
+
+1.º É aprovado o Regulamento de Conservação Arquivística da Marinha que se publica em anexo à presente portaria e da qual faz parte integrante.
+
+2.º Aos documentos classificados, produzidos e recebidos na Marinha é aplicável regulamentação própria, em especial o previsto nos SEGNAC, instruções para a segurança nacional, salvaguarda e defesa das matérias classificadas, aprovado pela [Resolução do Conselho de Ministros n.º 50/88](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-1988-357076), de 8 de Setembro, alterada pela [Resolução do Conselho de Ministros n.º 13/93](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/13-1993-629144), de 4 de Fevereiro.
+
+3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+19 de Agosto de 2010. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva. - A Ministra da Cultura, Maria Gabriela da Silveira Ferreira Canavilhas.
+
+## ANEXO — Regulamento de Conservação Arquivística da Marinha
+
+###### Artigo 1.º — Âmbito da aplicação
+
+O presente Regulamento é aplicável a toda a documentação produzida e recebida no âmbito das suas atribuições e competências pela Marinha.
+
+###### Artigo 2.º — Avaliação
+
+1 - O processo de avaliação dos documentos de arquivo da Marinha tem por objectivo a determinação do seu valor para efeitos da respectiva conservação permanente ou eliminação, findos os respectivos prazos de conservação em fase activa e semi-activa.
+
+2 - É da responsabilidade da Marinha o âmbito e conteúdo, bem como a fixação dos prazos de conservação dos documentos em fase activa, semi-activa.
+
+3 - As designações das séries documentais estão em consonância com a terminologia oficial da Marinha.
+
+4 - Os prazos de conservação constam da tabela de selecção, que constitui o anexo i ao presente Regulamento e que dele faz parte integrante.
+
+5 - Os referidos prazos de conservação são contados a partir do momento em que os processos, colecções, registos ou dossiers encerram em termos administrativos e não há qualquer possibilidade de serem reabertos.
+
+6 - Compete à Direcção-Geral de Arquivos, adiante designada por DGARQ, a determinação do destino final dos documentos, sob proposta da Marinha.
+
+###### Artigo 3.º — Selecção
+
+1 - A selecção dos documentos a conservar permanentemente em arquivo definitivo deve ser efectuada pela Marinha, de acordo com as orientações estabelecidas na tabela de selecção.
+
+2 - Os documentos aos quais for reconhecido valor arquivístico devem ser conservados em arquivo no suporte original, excepto nos casos cuja substituição seja previamente autorizada, nos termos do n.º 2 do artigo 11.º
+
+###### Artigo 4.º — Tabela de selecção
+
+1 - A tabela de selecção consigna e sintetiza as disposições relativas à avaliação documental.
+
+2 - A tabela de selecção deve ser submetida a revisões periódicas, com vista à sua adequação às alterações da produção documental.
+
+3 - Para efeitos do disposto no número anterior, deve a Marinha obter parecer favorável da DGARQ, enquanto organismo coordenador da política arquivística nacional, mediante proposta devidamente fundamentada.
+
+###### Artigo 5.º — Remessas para arquivo intermédio
+
+1 - Findo os prazos de conservação em fase activa, a documentação com reduzida taxa de utilização deve, de acordo com o estipulado na tabela de selecção, ser remetida do arquivo corrente para o arquivo intermédio.
+
+2 - As remessas de documentos para arquivo intermédio devem ser efectuadas de acordo com a periodicidade que a Marinha vier a determinar.
+
+###### Artigo 6.º — Remessas para arquivo definitivo
+
+1 - Os documentos cujo valor arquivístico justifiquem a sua conservação permanente, de acordo com a tabela de selecção, devem ser remetidos para arquivo definitivo, após o cumprimento dos respectivos prazos de conservação.
+
+2 - As remessas não podem pôr em causa a integridade dos conjuntos documentais.
+
+###### Artigo 7.º — Formalidade das remessas
+
+1 - As remessas dos documentos mencionados nos artigos 5.º e 6.º devem obedecer às seguintes formalidades:
+
+a) Ser acompanhadas de um auto de entrega, a título de prova;
+
+b) O auto de entrega deve ter em anexo uma guia de remessa destinada à identificação e controlo da documentação remetida, obrigatoriamente rubricada e autenticada pelas partes envolvidas no processo;
+
+c) A guia de remessa é feita em triplicado, ficando o original no serviço destinatário, sendo o duplicado devolvido ao serviço de origem;
+
+d) O triplicado é provisoriamente utilizado no arquivo intermédio ou definitivo como instrumento de descrição documental, após ter sido conferido e completado com as referências topográficas e demais informação pertinente, só podendo ser eliminado após a elaboração do respectivo inventário.
+
+2 - Os modelos referidos nas alíneas anteriores são os que constam do anexo ii do presente Regulamento.
+
+###### Artigo 8.º — Eliminação
+
+1 - A eliminação dos documentos aos quais não for reconhecido valor arquivístico, não se justificando a sua conservação permanente, deve ser efectuada logo após o cumprimento dos respectivos prazos de conservação fixados na tabela de selecção.
+
+2 - A eliminação dos documentos referidos no número anterior pode, contudo, ser feita antes de decorridos os referidos prazos, desde que os documentos sejam microfilmados, de acordo com as disposições do artigo 11.º
+
+3 - A eliminação dos documentos que não estejam expressamente mencionados na tabela de selecção carece de autorização expressa da DGARQ.
+
+4 - A decisão sobre o processo de eliminação deve atender a critérios de confidencialidade, racionalidade de meios e custos envolvidos e metodologias ecológicas de preservação do ambiente.
+
+###### Artigo 9.º — Formalidades da eliminação
+
+1 - A eliminação dos documentos a que se refere o artigo anterior deve obedecer às seguintes formalidades:
+
+a) Ser acompanhada de um auto de eliminação, que faz prova do abate patrimonial;
+
+b) O auto de eliminação deve ser assinado pelos responsáveis dos organismos, bem como pelo director do Centro de Documentação, Informação e Arquivo Central da Marinha;
+
+c) O referido auto é feito em duplicado, ficando o original no serviço que procede à eliminação, sendo o duplicado remetido para a DGARQ para conhecimento.
+
+2 - O modelo de auto de eliminação referido no número anterior consta do anexo iii do presente Regulamento e que dele faz parte integrante.
+
+###### Artigo 10.º — Documentação electrónica
+
+1 - Os documentos em suporte electrónico, aos quais for reconhecido valor arquivístico definido na tabela de selecção, são conservados nesse suporte desde que seja expressa e inequivocamente assegurada a sua preservação, fidedignidade, integridade, autenticidade, durabilidade e acessibilidade.
+
+2 - No cumprimento do disposto no número anterior, deve a Marinha elaborar e submeter a parecer na DGARQ um plano de preservação digital no prazo de 24 meses, de acordo com as recomendações para a gestão de arquivos electrónicos desta Direcção-Geral.
+
+###### Artigo 11.º — Substituição do suporte
+
+1 - A substituição do suporte dos documentos pode ser feita de forma que fique clara, expressa e inequivocamente garantida a sua preservação, segurança, autenticidade, durabilidade e acessibilidade, de acordo com as normas técnicas da International Standard Organization, abreviadamente designada por ISO.
+
+2 - A substituição de suporte a que alude o n.º 2 do artigo 3.º só pode ser efectuada mediante parecer favorável da DGARQ, nos termos do n.º 2 do artigo 5.º do [Decreto-Lei n.º 121/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1992-291844), de 2 de Julho.
+
+###### Artigo 12.º — Acessibilidade e comunicabilidade
+
+O acesso e comunicabilidade do arquivo da Marinha atende a critérios de confidencialidade da informação definidos internamente, em conformidade com a lei geral.
+
+###### Artigo 13.º — Fiscalização
+
+Compete à DGARQ, nos termos da alínea b) do n.º 3 do artigo 2.º do [Decreto-Lei n.º 93/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2007-520446), de 29 de Março, auditar o disposto no presente Regulamento.
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/207000000/5245152573.pdf)
+
+Guia de remessa de documentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/207000000/5245152573.pdf)
+
+## ANEXO II — Auto de entrega
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/207000000/5245152573.pdf)
+
+## ANEXO III — Auto de eliminação de documentos
+
+[(ver documento original)](https://files.diariodarepublica.pt/2s/2010/10/207000000/5245152573.pdf)
+
+203777739

@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:169491466:por
+title: Portaria n.º 170/2021
+short_title: null
+summary: Estabelece um regime temporário e específico de isenção da taxa de gestão de resíduos (TGR) aplicável à gestão dos
+  resíduos resultantes da descontaminação da Vala de S. Filipe, no Complexo Químico de Estarreja, no âmbito das ações de resolução
+  do respetivo passivo ambiental
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente e Ação Climática
+proposing_entity: null
+official_number: 170/2021
+official_date: null
+publication_date: '2021-08-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 156/2021, Série I de 2021-08-12
+  number: '156'
+  series: I
+  supplement: null
+  pages: 4 - 5
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15600/0000400005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/170/2021/08/12/p/dre/pt/html
+  oj: null
+  dre: '169491466'
+  dre_path: /dr/detalhe/portaria/170-2021-169491466
+  internal: pt:dre:169491466:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/170-2021-169491466
+  metadata_url: https://data.dre.pt/eli/port/170/2021/08/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/170-2021-169491466
+  consolidated_url: null
+  retrieved_at: '2026-10-27T01:20:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 80ff462b298d8bdfcdcc6d334d4e88bcde6b1200a529745c5cf2ceee5c54b27c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T01:20:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estarreja
+- Gestão de Resíduos
+- Isenção de Taxas e Emolumentos
+- Poluição Industrial
+- Proteção do Ambiente
+- Resíduo
+- Resíduo Industrial
+- Taxa
+- TAXA de Prestação de Serviços
+- Tratamento de Resíduos
+relationships:
+- type: cites
+  target: pt:dre:126869983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540016:por
+  label: null
+  source: null
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T01:20:10Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 170/2021
+
+de 12 de agosto
+
+O ERASE - Agrupamento para a Regeneração Ambiental dos Solos de Estarreja, A. C. E. (ERASE) é um agrupamento complementar de empresas, sem fins lucrativos, constituído em 1998, cujos Estatutos, publicados no Diário da República, 3.ª série, n.º 259/98, 1.º suplemento, de 9 de novembro de 1998, definem, no seu artigo 4.º, como «objeto principal do agrupamento a elaboração de estudos, propostas, prestações e execução de atos, procedimentos e tarefas para recolha e tratamento de resíduos industriais já gerados no Complexo Químico de Estarreja na área do concelho, com vista à respetiva regeneração dos solos e águas».
+
+O ERASE foi constituído com a finalidade de promover a descontaminação e reabilitação de solos em locais contaminados, que constituem um passivo ambiental com origem em atividades industriais na área do Complexo Químico de Estarreja, nomeadamente na Vala de S. Filipe, e, ainda, de gerir os respetivos processos de candidatura a concurso público para a execução da empreitada de reabilitação ambiental.
+
+A recuperação de passivos ambientais constituiu um dos desígnios do Quadro de Referência Nacional (QREN) para o período 2007/2013, mais concretamente do Programa Operacional Temático Valorização do Território.
+
+De entre os passivos ambientais identificados, consideraram-se como prioritários os locais contaminados onde estivessem em risco a saúde humana, ecossistemas e economia da região envolvente e, simultaneamente, não fosse viável a aplicação do princípio do poluidor-pagador, o princípio da responsabilidade, ou se comprovasse a falta de capacidade de internalização dos custos. Em cumprimento do Despacho n.º 28176/2007, de 24 de agosto, foi elaborado o «Documento Enquadrador - Programa Operacional Temático Valorização do Território - Eixo Prioritário III - Recuperação do Passivo Ambiental», de 14 de março de 2008, que define, entre outros, os terrenos afetos à antiga zona industrial de Estarreja como passivo ambiental prioritário. O mesmo documento atribui a responsabilidade pela gestão deste passivo ambiental ao ERASE.
+
+O Complexo Químico de Estarreja foi já objeto de anteriores intervenções no sentido de diminuir o impacto ambiental provocado pela atividade industrial aí desenvolvida, referindo o Documento Enquadrador, anteriormente mencionado, o objetivo de finalizar a recuperação dos terrenos afetos à antiga zona industrial de Estarreja, e retomar a componente global do projeto inicial e não incluído na primeira fase, correspondente à intervenção de remediação ambiental nas valas hidráulicas que atravessam a zona industrial, remediação esta aprovada na totalidade pelo Ministério do Ambiente em 2002.
+
+O ERASE, em coordenação com a Agência Portuguesa do Ambiente, I. P., desenvolveu um projeto em duas fases, sendo a Fase I executada entre 2004 e 2005, e consistindo na remoção de resíduos industriais diversos depositados sobre o solo há mais de cinco décadas, no seu confinamento em célula de resíduos, e na elaboração dos estudos de caracterização da contaminação do mesmo. Neste momento está em curso a execução da Fase II, que consiste na descontaminação dos solos da Vala de S. Filipe, no município de Estarreja, tendo como objetivo a remoção dos solos contaminados por arsénio e mercúrio, e classificados com o código LER (Lista Europeia de Resíduos) 17 05 03* - Solos e rochas, contendo substâncias perigosas, bem como o seu encaminhamento para destino adequado. Após a referida remoção, serão avaliadas as concentrações nos solos subjacentes, sendo removidos os que ainda apresentem concentrações acima dos valores objetivo de remediação, definidos na avaliação quantitativa de risco realizada.
+
+O [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), na sua redação atual, estabelece que «O membro do Governo responsável pela área do Ambiente pode definir, através de portaria, isenções temporárias e específicas» à aplicação da TGR devida pela deposição de resíduos em aterro, «em situações de resolução de passivos ambientais a cargo do Estado, ou em nome deste, quando tenha sido evidenciado que o tratamento dos resíduos em causa não poderia ter sido efetuado, de forma técnica ou economicamente viável, através de operações não sujeitas a TGR» e desde que «a ausência de TGR não ponha em causa os objetivos ambientais».
+
+A remoção dos solos contaminados afigura-se ser a opção tecnicamente mais viável, face à natureza da contaminação em causa e ao facto de parte dos solos se encontrarem em leito e margens de linha de água. Atentas as características dos resíduos e a natureza da contaminação, não sendo os mesmos passíveis de valorização, o encaminhamento para aterro de resíduos perigosos consubstancia o único destino adequado. A deposição dos resíduos em aterro para resíduos perigosos está sujeita ao pagamento de uma taxa de gestão de resíduos (TGR), de acordo com o previsto no artigo 58.º do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de setembro, na sua redação atual. Por conseguinte, afigura-se que o tratamento dos resíduos em causa não pode ser efetuado, de forma técnica ou economicamente viável, através de operações não sujeitas a TGR.
+
+Embora a TGR constitua um importante mecanismo de governança para que se atinjam os objetivos ambientais em termos de gestão de resíduos, não sendo viável o tratamento dos resíduos através de operações não sujeitas àquela taxa, e com vista a viabilizar o cumprimento das referidas ações prioritárias de resolução de passivos ambientais, a isenção da TGR não coloca em causa os objetivos ambientais, uma vez que o destino dos resíduos a remover sempre seria a deposição em aterro.
+
+Assim:
+
+Manda o Governo, pela Secretária de Estado do Ambiente, ao abrigo do disposto nos n.os 21 e 22 do artigo 58.º do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de setembro, na sua redação atual, e no uso das competências delegadas nos termos do n.º 3 do artigo 9.º do [Decreto-Lei n.º 169-B/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-b-2019-126869983), de 3 de dezembro, e da subalínea i) da alínea d) do n.º 2 do Despacho n.º 12149-A/2019 do Ministro do Ambiente e da Ação Climática, de 17 de dezembro, publicado no Diário da República, 2.ª série, n.º 243, suplemento, de 18 de dezembro de 2019, na sua redação atual, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece um regime temporário e específico aplicável às ações de descontaminação da Vala de S. Filipe, mais concretamente à remoção de resíduos classificados com o código LER 17 05 03* - Solos e rochas, contendo substâncias perigosas, no âmbito da resolução dos passivos ambientais existentes no território do Complexo Químico de Estarreja.
+
+###### Artigo 2.º — Regime excecional
+
+As operações de tratamento dos resíduos referidos no artigo 1.º são isentas da aplicação da taxa de gestão de resíduos (TGR) prevista no n.º 6 do artigo 58.º do [Decreto-Lei n.º 178/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), de 5 de setembro, na sua redação atual.
+
+###### Artigo 3.º — Vigência
+
+O regime temporário e específico estabelecido na presente portaria vigora apenas até à conclusão dos trabalhos de remoção dos resíduos depositados na Vala de S. Filipe, no concelho de Estarreja.
+
+###### Artigo 4.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+A Secretária de Estado do Ambiente, Inês dos Santos Costa, em 10 de agosto de 2021.
+
+114486668

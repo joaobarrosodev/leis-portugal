@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R0036:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0036-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "2010-01-19",
+   "future": false,
+   "celex": "32010R0036",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b3c79a9b6079add4",
+    "07c724c0bc1bd656",
+    "3f0104c4f083f59a",
+    "b08f7506e16ca273",
+    "6a65179ca4f8ba3a",
+    "6b8a91c554980dab",
+    "d819334e7df75cdd"
+   ]
+  }
+ ],
+ "fragments": {
+  "b3c79a9b6079add4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Dezembro de 2009\n\nrelativo aos modelos comunitários de carta de maquinista, certificado complementar, cópia autenticada do certificado complementar e formulário de pedido da carta de maquinista, previstos na Directiva 2007/59/CE do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Directiva 2007/59/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2007, relativa à certificação dos maquinistas de locomotivas e comboios no sistema ferroviário da Comunidade [([^1])](http://publications.europa.eu/resource/cellar/990888ee-c624-48a5-8278-3a776ed2e894.0018.03/DOC_1#ntr1-L_2010013PT.01000101-E0001), nomeadamente o artigo 4.º, n.º 4,\n\nTendo em conta a Recomendação n.º ERA/REC/SAF/04-2008 da Agência Ferroviária Europeia, de 19 de Dezembro de 2008, relativa aos formatos harmonizados para as cartas de maquinista, os certificados complementares e as cópias autenticadas dos certificados complementares para os maquinistas, em conformidade com a Directiva 2007/59/CE e com a Recomendação n.º ERA/REC/SAF/06-2008 da Agência Ferroviária Europeia, de 19 de Dezembro de 2008, relativa à utilização de um modelo harmonizado para o formulário de pedido de cartas de maquinista,\n\nConsiderando o seguinte:\n\n(1) Nos termos da Directiva 2007/59/CE, todos os maquinistas devem possuir as aptidões e habilitações necessárias para conduzir comboios e ser titulares da seguinte documentação: uma carta de maquinista que comprove que o titular preenche as condições mínimas relativas aos requisitos médicos, à escolaridade básica e às competências profissionais gerais e um ou mais certificados indicando as infra-estruturas em que o titular está autorizado a conduzir e o material circulante que está autorizado a conduzir.\n\n(2) As legislações dos Estados-Membros relativas às condições de certificação dos maquinistas apresentam diferenças consideráveis. Devem, por conseguinte, ser adoptados modelos harmonizados para a certificação dos maquinistas, facilitando assim a aplicação das regras comunitárias pertinentes.\n\n(3) O objectivo da harmonização das cartas e dos certificados complementares é sobretudo facilitar a mobilidade dos maquinistas não só de um Estado-Membro para outro, mas também de uma empresa ferroviária para outra e, de um modo mais geral, permitir o reconhecimento das cartas de maquinista e dos certificados por todos os intervenientes do sector ferroviário. Para tal, é necessário estabelecer os requisitos mínimos a satisfazer pelos candidatos para obterem a carta de maquinista ou o certificado complementar harmonizado. Para garantirem a uniformidade e a transparência necessárias, os Estados-Membros devem adoptar um modelo harmonizado para as cartas de maquinista, e as empresas ferroviárias e os gestores de infra-estruturas devem emitir certificados complementares harmonizados.\n\n(4) Para as empresas ferroviárias e os gestores de infra-estruturas que empregam ou contratam maquinistas, e em especial para as empresas ferroviárias que exploram serviços internacionais, é importante que o formato dos certificados complementares seja o mesmo nos diferentes Estados-Membros; por conseguinte, esse formato deve ser harmonizado para atestar o cumprimento, pelos maquinistas, de certas condições mínimas, as habilitações profissionais e os conhecimentos linguísticos.\n\n(5) De acordo com o artigo 4.º, n.º 4, da Directiva 2007/59/CE, a Agência Ferroviária Europeia deve preparar um projecto de modelo comunitário de carta de maquinista, de certificado complementar e de cópia autenticada do certificado complementar, e estabelecer também as respectivas características físicas, tendo em conta, ao fazê-lo, a necessidade de combater a falsificação. O mesmo artigo prevê que a Agência recomende a utilização de códigos comunitários para os diferentes tipos de categorias de condução A e B a indicar no certificado complementar. O anexo I, ponto 2, alínea g), da Directiva 2007/59/CE, dispõe que a Comissão deve decidir quais os códigos para as informações adicionais ou as restrições médicas a incluir nas cartas de maquinista.\n\n(6) Cada carta de maquinista atribuída pelos Estados-Membros deve ter um número único; este número deve igualmente tornar mais fácil o registo da carta no registo nacional de cartas de maquinista, a instituir nos termos do artigo 22.º, n.º 1, alínea a), da Directiva 2007/59/CE.\n\n(7) Todas as informações contidas nas cartas de maquinista, nos certificados complementares e nos respectivos registos devem ser utilizadas pelas autoridades responsáveis pela segurança para facilitar a avaliação do processo de certificação do pessoal previsto nos artigos 10.º e 11.º da Directiva 2004/49/CE do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativa à segurança dos caminhos-de-ferro da Comunidade, e que altera a Directiva 95/18/CE do Conselho relativa às licenças das empresas de transporte ferroviário e a Directiva 2001/14/CE relativa à repartição de capacidade da infra-estrutura ferroviária, à aplicação de taxas de utilização da infra-estrutura ferroviária e à certificação da segurança (directiva relativa à segurança ferroviária) [([^2])](http://publications.europa.eu/resource/cellar/990888ee-c624-48a5-8278-3a776ed2e894.0018.03/DOC_1#ntr2-L_2010013PT.01000101-E0002) e acelerar a emissão dos certificados de segurança previstos nesses artigos.\n\n(8) O emprego de maquinistas certificados nos termos da Directiva 2007/59/CE não deverá dispensar as empresas ferroviárias nem os gestores de infra-estruturas da obrigação de instituírem um sistema de acompanhamento e controlo interno das competências e da conduta dos seus maquinistas, nos termos do artigo 9.º e do anexo III da Directiva 2004/49/CE, e deverá fazer parte desse sistema. O certificado complementar harmonizado não deve isentar as empresas ferroviárias e os gestores de infra-estruturas da sua responsabilidade pelo funcionamento seguro da sua parte do sistema ferroviário e, em particular, pela formação do seu pessoal.\n\n(9) O artigo 7.º, n.º 1, da Directiva 2007/59/CE dispõe que as cartas de maquinista são válidas em todo o território da Comunidade e o artigo 4.º, n.º 4, da mesma directiva prevê a instituição de um modelo comunitário. Um formulário harmonizado para o requerimento das cartas facilitará, por conseguinte, o trabalho das autoridades competentes dos Estados-Membros encarregadas de reunir as informações necessárias para as emitir.\n\n(10) Nos termos do artigo 14.º, n.º 1, da Directiva 2007/59/CE, a autoridade competente dos Estados-Membros publica o procedimento a seguir para a obtenção de uma carta de maquinista. Ao estabelecerem esses procedimentos, as autoridades competentes devem incluir disposições sobre a utilização do formulário harmonizado para os pedidos.\n\n(11) O formulário harmonizado de pedido pode ser utilizado para fornecer informações adequadas sobre as disposições nacionais de execução da Directiva 95/46/CE do Parlamento Europeu do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados [([^3])](http://publications.europa.eu/resource/cellar/990888ee-c624-48a5-8278-3a776ed2e894.0018.03/DOC_1#ntr3-L_2010013PT.01000101-E0003), no que respeita à protecção das pessoas aquando do tratamento de dados que lhes digam respeito. As autoridades competentes podem utilizá-lo para obterem a autorização de tratamento dos dados sobre os requerentes de uma carta maquinista ou sobre os titulares de uma carta, sempre que seja necessário.\n\n(12) A adopção de um formulário harmonizado de pedido tem um impacto económico muito limitado e representa um ónus administrativo muito ligeiro, dada a possibilidade de escolha entre um documento impresso e uma interface informática que utilize uma aplicação comum.\n\n(13) Em conformidade com o seu artigo 36.º, n.º 3, a Directiva 2007/59/CE não se aplica a Chipre e a Malta. Por conseguinte, o presente regulamento não deve ser aplicável a Chipre e a Malta enquanto não existir um sistema ferroviário no respectivo território.\n\n(14) As medidas previstas no presente regulamento são conformes com o parecer do Comité para a Interoperabilidade e a Segurança Ferroviárias, instituído nos termos do artigo 21.º da Directiva 96/48/CE,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "07c724c0bc1bd656": {
+   "fragment_id": "Artigo 1.º — Modelo comunitário de carta de maquinista",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Modelo comunitário de carta de maquinista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Modelo comunitário de carta de maquinista\n\nO modelo comunitário definido no anexo I do presente regulamento será utilizado para as cartas de maquinista a que se refere o artigo 4.º, n.º 1, alínea a), da Directiva 2007/59/CE. Será este o modelo utilizado aquando da emissão, renovação, actualização, alteração ou revogação de uma carta de maquinista.\n\nA língua utilizada na carta será uma, ou mais do que uma, língua oficial da Comunidade Europeia."
+  },
+  "3f0104c4f083f59a": {
+   "fragment_id": "Artigo 2.º — Modelo comunitário de certificado complementar",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Modelo comunitário de certificado complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Modelo comunitário de certificado complementar\n\nO modelo comunitário definido no anexo II do presente regulamento será utilizado para os certificados complementares a que se refere o artigo 4.º, n.º 1, alínea b), da Directiva 2007/59/CE.\n\nSerá este o modelo utilizado aquando da emissão, renovação, actualização, alteração ou revogação de um certificado complementar.\n\nA língua utilizada será uma, ou mais do que uma, língua oficial da Comunidade Europeia."
+  },
+  "b08f7506e16ca273": {
+   "fragment_id": "Artigo 3.º — Modelo comunitário de cópia autenticada do certificado complementar",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Modelo comunitário de cópia autenticada do certificado complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Modelo comunitário de cópia autenticada do certificado complementar\n\nO modelo comunitário definido no anexo III do presente regulamento será utilizado para as cópias autenticadas dos certificados complementares emitidos em conformidade com o artigo 17.º da Directiva 2007/59/CE."
+  },
+  "6a65179ca4f8ba3a": {
+   "fragment_id": "Artigo 4.º — Formulário de pedido de carta de maquinista",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Formulário de pedido de carta de maquinista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Formulário de pedido de carta de maquinista\n\n1. O modelo comunitário definido no anexo IV do presente regulamento pode ser utilizado para o formulário de pedido de carta de maquinista a que se refere o artigo 14.º da Directiva 2007/59/CE. Este modelo deve permitir a inclusão de requisitos nacionais que complementem as informações mencionadas no anexo IV do presente regulamento.\n\n2. O modelo comunitário de formulário de pedido pode ser utilizado para pedir uma nova carta de maquinista, uma actualização dos dados constantes da carta, a sua renovação ou a emissão de uma segunda via.\n\n3. As orientações para o preenchimento do modelo comunitário do formulário de pedido constam do anexo IV.\n\n4. As autoridades competentes podem transferir o formato do modelo comunitário para o procedimento a publicar em conformidade com o artigo 14.º, n.º 1, da Directiva 2007/59/CE e para as interfaces informáticas."
+  },
+  "6b8a91c554980dab": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros, excepto em Chipre e em Malta enquanto não existir um sistema ferroviário no respectivo território.\n\nFeito em Bruxelas, em 3 de Dezembro de 2009.\n\n***Pela Comissão***\n\n**José Manuel BARROSO**\n\n***Presidente***\n\n---"
+  },
+  "d819334e7df75cdd": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/990888ee-c624-48a5-8278-3a776ed2e894.0018.03/DOC_1#ntc1-L_2010013PT.01000101-E0001) [JO L 315 de 3.12.2007, p. 51](http://publications.europa.eu/resource/oj/JOL_2007_315_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/990888ee-c624-48a5-8278-3a776ed2e894.0018.03/DOC_1#ntc2-L_2010013PT.01000101-E0002) [JO L 164 de 30.4.2004, p. 44](http://publications.europa.eu/resource/oj/JOL_2004_164_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/990888ee-c624-48a5-8278-3a776ed2e894.0018.03/DOC_1#ntc3-L_2010013PT.01000101-E0003) [JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC)."
+  }
+ }
+}

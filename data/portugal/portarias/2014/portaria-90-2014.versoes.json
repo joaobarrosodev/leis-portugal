@@ -1,0 +1,723 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25343996:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-105323810",
+ "dre_path": "/dr/detalhe/portaria/90-2014-25343996",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-04-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "224327887",
+    "105317771",
+    "105317772",
+    "105317773",
+    "105317774",
+    "105328775",
+    "105328776",
+    "105328777",
+    "105328778",
+    "105328779",
+    "105328780",
+    "105328781",
+    "105328782",
+    "105328783",
+    "105328784",
+    "105328785",
+    "105328786",
+    "105328787",
+    "105328788",
+    "105328789",
+    "105328790",
+    "105328791",
+    "105328793",
+    "105328794"
+   ]
+  },
+  {
+   "date": "2016-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105323791:por",
+     "title": "Portaria n.º 307/2016",
+     "published": "2016-12-07",
+     "dre_path": "/dr/detalhe/portaria/307-2016-105323791"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "105317770",
+    "105317771",
+    "105317772",
+    "105317773",
+    "105317774",
+    "105328800",
+    "105328776",
+    "105328801",
+    "105328802",
+    "105328779",
+    "105328780",
+    "105328781",
+    "105328782",
+    "105328803",
+    "105328804",
+    "105328805",
+    "105328786",
+    "105328806",
+    "105328788",
+    "105328789",
+    "105328790",
+    "105328791",
+    "105328792",
+    "105328793",
+    "105328794"
+   ]
+  },
+  {
+   "date": "2023-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207132976:por",
+     "title": "Portaria n.º 41/2023",
+     "published": "2023-02-07",
+     "dre_path": "/dr/detalhe/portaria/41-2023-207132976"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "105317770",
+    "207110397",
+    "105317772",
+    "207110398",
+    "105317774",
+    "105328800",
+    "105328776",
+    "105328801",
+    "105328802",
+    "105328779",
+    "105328780",
+    "105328781",
+    "105328782",
+    "105328803",
+    "105328804",
+    "105328805",
+    "105328786",
+    "105328806",
+    "105328788",
+    "105328789",
+    "105328790",
+    "105328791",
+    "105328792",
+    "105328793",
+    "105328794"
+   ]
+  },
+  {
+   "date": "2023-11-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224268569:por",
+     "title": "Portaria n.º 375/2023",
+     "published": "2023-11-15",
+     "dre_path": "/dr/detalhe/portaria/375-2023-224268569"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "224327887",
+    "224327888",
+    "224327889",
+    "224327890",
+    "224327891",
+    "224327892",
+    "224327893",
+    "224327894",
+    "224327895",
+    "224327896",
+    "224327897",
+    "224327898",
+    "224327899",
+    "224327900",
+    "224327901",
+    "224327902",
+    "224327903",
+    "224327904",
+    "224327905",
+    "224327906",
+    "224327907",
+    "224327908",
+    "224327909",
+    "224327910",
+    "224327911"
+   ]
+  }
+ ],
+ "fragments": {
+  "224327887": {
+   "fragment_id": "105323811",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-11-16",
+   "changed_by": [],
+   "markdown": "Portaria n.º 90/2014\n\nde 22 de abril\n\nO Decreto-Lei n.º 94/2012, de 20 de abril, reformulou o sistema das taxas incidentes sobre os produtos do sector vitivinícola, autonomizando o financiamento dos regimes de apoio ao desenvolvimento de ações de promoção e de publicidade do vinho e dos produtos vínicos nacionais.\n\nA Portaria n.º 219/2013, de 4 de julho, estabeleceu para o ano de 2013 as regras de aplicação, para o continente, do regime de apoio à promoção do vinho e produtos vínicos e à informação e educação sobre o consumo de bebidas alcoólicas do sector vitivinícola.\n\nA presente portaria define as regras de aplicação do regime de apoio para o ano de 2014 e seguintes, introduzindo uma simplificação nos procedimentos de acesso, eliminando-se a necessidade de elaboração de uma candidatura específica para o efeito, sendo bastante a apresentação dos programas de promoção e publicidade, devidamente aprovados pelos órgãos estatutários das respetivas entidades.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto nas alíneas e) e f) do n.º 1 do artigo 22.º do Decreto-Lei n.º 94/2012, de 20 de abril, e no uso das competências delegadas através do Despacho n.º 3209/2014, de 26 de fevereiro, o seguinte:"
+  },
+  "105317771": {
+   "fragment_id": "105323812",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece, para o continente, o regime de apoio à promoção do vinho e produtos vínicos e à informação e educação sobre o consumo de bebidas alcoólicas do sector vitivinícola."
+  },
+  "105317772": {
+   "fragment_id": "105323813",
+   "type": 11,
+   "heading": "Artigo 2.º — Gestão do apoio à promoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Gestão do apoio à promoção\n\n1 - O Instituto da Vinha e do Vinho, I. P., (IVV, I. P.) é o organismo responsável pela aplicação dos regimes de apoio previstos na presente portaria, competindo-lhe:\n\na) Proceder à divulgação dos avisos para a apresentação dos programas;\n\nb) Proceder à análise e decisão sobre os apoios a conceder aos programas;\n\nc) Fixar o nível de financiamento a atribuir a cada programa;\n\nd) Assegurar o controlo da execução e da avaliação do desempenho dos programas, de acordo com normas previamente estabelecidas;\n\ne) Assegurar os procedimentos necessários relativos a auxílios de Estado.\n\n2 - Para a prossecução das competências referidas no número anterior, o IVV, I. P., pode ser apoiado por outras entidades públicas ou privadas."
+  },
+  "105317773": {
+   "fragment_id": "105323814",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito do apoio\n\n1 - O regime de apoio a que se refere a presente portaria é estabelecido em dois eixos:\n\na) Eixo 1 - \"Apoio à Promoção Genérica\", apoio a programas destinados a informar o público sobre as características dos vinhos e produtos vínicos de origem nacional ou promovê-los junto dos operadores económicos ou consumidores;\n\nb) Eixo 2 - \"Informação e Educação\", apoio a programas relativos ao consumo dos produtos do sector vitivinícola, independentemente do seu país ou região de origem.\n\n2 - O regime de apoio definido para o Eixo 1 não engloba o vinho do Porto nem os vinhos produzidos nos arquipélagos dos Açores e da Madeira."
+  },
+  "105317774": {
+   "fragment_id": "105323815",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia de ações\n\n1 - As ações a desenvolver no Eixo 1 abrangem:\n\na) Ações de relações públicas, promoção ou publicidade que valorizem a imagem e a qualidade dos vinhos e produtos vínicos nacionais;\n\nb) Participação em eventos, feiras ou exposições;\n\nc) Ações de informação sobre as regiões vitivinícolas, produtos com denominação de origem ou indicação geográfica;\n\nd) Ações de formação sobre a apresentação de vinhos e produtos vínicos e formas de consumo;\n\ne) Estudos de mercado e de informação sobre a sua evolução.\n\n2 - As ações a desenvolver no Eixo 2 abrangem:\n\na) Ações de informação e educação que promovam o consumo moderado de bebidas alcoólicas do sector vitivinícola;\n\nb) Ações de divulgação da estratégia comunitária para a redução dos malefícios relacionados com o consumo abusivo de álcool.\n\n3 - As ações abrangidas pelo financiamento no âmbito do Eixo 1 não devem beneficiar empresas específicas ou marcas comerciais e devem, sempre que possível, incluir a comunicação da marca Vinhos de Portugal/Wines of Portugal.\n\n4 - As ações abrangidas pelo financiamento no âmbito do Eixo 2 não podem conter referências a marcas, símbolos de marcas ou qualquer indicação de proveniência."
+  },
+  "105328775": {
+   "fragment_id": "105323816",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários do apoio\n\n1 - São beneficiários do apoio as entidades nacionais que apresentem os seus programas ao IVV, I. P., dentro dos prazos e regras estabelecidas e se enquadrem nas seguintes tipologias:\n\na) Eixo 1 - Organizações interprofissionais de âmbito nacional, sem fins lucrativos, com atividade principal no domínio da promoção de vinhos e produtos vínicos e entidades certificadoras designadas nos termos da legislação aplicável;\n\nb) Eixo 2 - Organizações profissionais do sector do vinho com atividades no âmbito da promoção, bem como as organizações e entidades referidas na alínea anterior.\n\n2 - No âmbito dos Eixos 1 e 2 podem ser apresentados programas a título individual ou em conjunto."
+  },
+  "105328776": {
+   "fragment_id": "105323817",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de elegibilidade\n\nOs candidatos devem observar as seguintes condições gerais de elegibilidade:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respetiva atividade;\n\nc) Possuírem a situação regularizada perante a administração fiscal e a segurança social;\n\nd) Disporem de contabilidade organizada ou outras normas contabilísticas que se apliquem à entidade;\n\ne) Cumprirem os requisitos estabelecidos no aviso para apresentação de programas."
+  },
+  "105328777": {
+   "fragment_id": "105323818",
+   "type": 11,
+   "heading": "Artigo 7.º — Aviso para a apresentação de programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aviso para a apresentação de programas\n\n1 - O financiamento no âmbito do Eixo 1 é atribuído mediante a apresentação de programas ao IVV, I. P., após publicitação de aviso no sítio do IVV, I. P., na Internet, o qual deve definir os prazos e regras aplicáveis, os critérios de atribuição do apoio, a informação adicional a apresentar, bem como o prazo para o IVV, I. P., comunicar o montante de financiamento.\n\n2 - O financiamento no âmbito do Eixo 2 é atribuído mediante concurso, cujo aviso de abertura é divulgado no sítio do IVV, I. P., na Internet, o qual deve estabelecer as prioridades visadas, a metodologia de avaliação dos programas, os prazos e as regras aplicáveis, bem como o prazo para o IVV, I. P., comunicar a decisão.\n\n3 - Os programas relativos ao Eixo 1 e ao Eixo 2 podem incluir ações já iniciadas ou realizadas antes da sua apresentação, devendo esta informação fazer parte da informação adicional.\n\n4 - Os programas apresentados a financiamento no âmbito do Eixo 1 devem ser previamente aprovados pelos órgãos estatutários da entidade beneficiária.\n\n5 - Os programas no âmbito do Eixo 1 são acompanhados dos comprovativos de cumprimento das condições de elegibilidade previstas no artigo 6.º e, ainda, dos seguintes elementos:\n\na) Cópia do programa anual de promoção da entidade;\n\nb) Informação que evidencie a aceitação do programa pelos respetivos órgãos estatutários;\n\nc) Informação sobre o regime de IVA a que o beneficiário do apoio está sujeito;\n\nd) Quadro de financiamento do programa anual, com indicação das fontes de financiamento;\n\ne) Relação das ações por mercado, correspondente estimativa de custos com indicação do valor total e do valor líquido de IVA, e indicação se já foi iniciada ou realizada;\n\nf) Quadro de indicadores de desempenho;\n\ng) Comprovativo de situação regularizada perante a administração fiscal e a segurança social;\n\nh) Informação adicional estabelecida no aviso.\n\n6 - Os programas candidatos ao Eixo 2 são acompanhados dos comprovativos de cumprimento das condições de elegibilidade previstas no artigo 6.º e, ainda, dos seguintes elementos:\n\na) Identificação do proponente;\n\nb) Tipologia da candidatura;\n\nc) Atividade do proponente e regime de IVA a que está sujeito;\n\nd) Capacidade técnica e capacidade financeira;\n\ne) Quadro de financiamento anual das ações;\n\nf) Descrição do programa;\n\ng) Orçamento por ação, correspondente estimativa de custos com indicação do valor total e do valor líquido de IVA, e indicação se a ação já foi iniciada ou realizada;\n\nh) Quadro de indicadores de desempenho;\n\ni) Comprovativo de situação regularizada perante a administração fiscal e a segurança social;\n\nj) Informação adicional prevista no aviso de abertura de concurso."
+  },
+  "105328778": {
+   "fragment_id": "105323819",
+   "type": 11,
+   "heading": "Artigo 8.º — Aceitação e avaliação dos programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aceitação e avaliação dos programas\n\n1 - Para o financiamento no âmbito do Eixo 1 são aceites os programas apresentados que incluam os elementos previstos no n.º 5 do artigo 7.º\n\n2 - Para o financiamento no âmbito do Eixo 2, são aceites os programas apresentados que incluam os elementos previstos no n.º 6 do artigo 7.º e que, após a avaliação do mérito, obtiverem a pontuação mínima de 60 pontos.\n\n3 - Para efeitos do disposto no número anterior, os programas são previamente avaliados numa escala de 0 a 100 pontos, de acordo com os parâmetros e critérios constantes no anexo I à presente portaria, da qual faz parte integrante.\n\n4 - Na avaliação do programa, a fixação, pelo IVV, I. P., do montante de apoio a atribuir a cada entidade, tem em consideração os compromissos já assumidos com cada uma, designadamente no âmbito das medidas referidas no anexo II à presente portaria, da qual faz parte integrante."
+  },
+  "105328779": {
+   "fragment_id": "105323820",
+   "type": 11,
+   "heading": "Artigo 9.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Financiamento\n\n1 - O regime de apoio no âmbito dos Eixos 1 e 2 é financiado ao abrigo do Decreto-Lei n.º 94/2012, de 20 de abril, podendo ainda ser utilizadas outras receitas próprias do IVV, I. P.\n\n2 - O IVV, I. P., define a dotação máxima indicativa dos apoios a conceder no âmbito do Eixo 1, tendo em consideração as disponibilidades orçamentais e os compromissos assumidos com o financiamento de outras medidas referidas no anexo II à presente portaria.\n\n3 - O financiamento a conceder a cada programa é atribuído em função das disponibilidades orçamentais do IVV, I. P., e até ao limite máximo de 80 % do valor total de cada programa.\n\n4 - A percentagem referida no número anterior pode ser aumentada, no Eixo 1, por decisão do Conselho Diretivo do IVV, I. P., em função da dotação disponível e dos montantes candidatos.\n\n5 - Os beneficiários do apoio devem assegurar a parte não financiada pelo presente regime de apoio através de receitas próprias ou de contribuições obrigatórias ou voluntárias do sector, necessárias para a implementação do programa.\n\n6 - Os beneficiários não podem utilizar o financiamento atribuído, em parte ou no todo, em outras medidas de apoio nacionais ou comunitárias.\n\n7 - O financiamento não pode ser utilizado para suportar o imposto sobre o valor acrescentado (IVA), exceto se os beneficiários do apoio estiverem sujeitos ao regime de isenção ou integrados em regime misto.\n\n8 - No financiamento a atribuir no âmbito do Eixo 1 é dada preferência a organizações de âmbito nacional, sem fins lucrativos, com atividade principal no domínio da promoção de vinhos e produtos vínicos, sem prejuízo de outras regras de atribuição de financiamento a definir no aviso para apresentação de programas publicitado pelo IVV, I. P."
+  },
+  "105328780": {
+   "fragment_id": "105323821",
+   "type": 11,
+   "heading": "Artigo 10.º — Mercados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mercados\n\n1 - O financiamento a atribuir no âmbito do Eixo 1 destina-se a ações a desenvolver no mercado nacional e nos restantes Estados-Membros da União Europeia, sem prejuízo do financiamento poder ser utilizado em ações destinadas a mercados diferentes, no caso de organizações de âmbito nacional, sem fins lucrativos, com atividade principal no domínio da promoção de vinhos e produtos vínicos, desde que as mesmas estejam contempladas no programa e sejam aceites pelo IVV, I. P.\n\n2 - O financiamento a atribuir no âmbito do Eixo 2 destina-se a ações a desenvolver no mercado nacional, podendo ser aceite pelo IVV, I. P., quando devidamente justificado nos programas apresentados, a realização de ações nos restantes Estados-Membros da União Europeia."
+  },
+  "105328781": {
+   "fragment_id": "105323822",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas cobertas pelo financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas cobertas pelo financiamento\n\n1 - São aceites as despesas relativas exclusivamente à preparação, implementação, acompanhamento e avaliação das ações, incluindo os correspondentes encargos com pessoal, aquisições de bens e despesas gerais de funcionamento, desde que estes estejam ligados às atividades de promoção genérica, no caso do Eixo 1, ou às atividades de informação e educação, no caso do Eixo 2.\n\n2 - Os programas devem ser acompanhados de informação objetiva sobre a parte do valor consignado aos encargos com pessoal, aquisições de bens e de despesas gerais de funcionamento, o qual não pode exceder 25 % do financiamento atribuído, exceto se o beneficiário do apoio justificar a ausência de alternativas.\n\n3 - Quando o beneficiário do apoio for uma entidade adjudicante são aplicáveis as regras da contratação pública."
+  },
+  "105328782": {
+   "fragment_id": "105323823",
+   "type": 11,
+   "heading": "Artigo 12.º — Montante e pagamento do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Montante e pagamento do apoio\n\n1 - Os montantes destinados ao financiamento de programas no âmbito do Eixo 1 e do Eixo 2 são fixados pelo IVV, I. P., nos termos do artigo 2.º e indicados nos avisos para apresentação de programas.\n\n2 - O pagamento do apoio é concedido sob a forma de subsídios à exploração não reembolsáveis, procedendo o IVV, I. P., a transferências trimestrais para os beneficiários ou, em casos excecionais, em duodécimos mensais, até ao limite máximo que for considerado para cada programa."
+  },
+  "105328783": {
+   "fragment_id": "105323824",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Duração do financiamento\n\nO financiamento aos programas no âmbito do Eixo 1 e do Eixo 2 é atribuído em cada ano civil, podendo o IVV, I. P., autorizar o prolongamento para o encerramento dos programas, até ao máximo de três meses."
+  },
+  "105328784": {
+   "fragment_id": "105323825",
+   "type": 11,
+   "heading": "Artigo 14.º — Formalização da concessão do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Formalização da concessão do financiamento\n\n1 - Os programas aceites tornam-se efetivos com a celebração de um contrato entre o beneficiário e o IVV, I. P.\n\n2 - A não celebração do contrato por razões imputáveis ao beneficiário, no prazo de trinta dias após a comunicação do IVV, I. P., determina a caducidade do direito ao apoio."
+  },
+  "105328785": {
+   "fragment_id": "105323826",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigações do beneficiário\n\n1 - São obrigações do beneficiário:\n\na) Executar o programa nos termos e prazos fixados no contrato;\n\nb) Disponibilizar, dentro dos prazos fixados, todos os elementos solicitados pelas entidades que efetuem o acompanhamento e controlo;\n\nc) Comunicar ao IVV, I. P., as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à decisão de seleção do programa;\n\nd) Manter a contabilidade organizada de acordo com o Plano Oficial de Contabilidade ou com outras normas contabilísticas que se apliquem à entidade;\n\ne) Manter devidamente organizados todos os documentos suscetíveis de comprovar as informações e declarações prestadas, a fundamentação das opções tomadas no âmbito do programa, bem como todos os originais dos documentos comprovativos da realização das despesas, pelo prazo de 5 anos;\n\nf) Apresentar um relatório final da execução do programa, incluindo informação sobre os valores de financiamentos recebidos no quadro de outros apoios financeiros à promoção de vinho e produtos vínicos, nos termos a publicitar no sítio do IVV, I. P., na Internet.\n\n2 - O não cumprimento do disposto na alínea f) do número anterior condiciona a aceitação de futuras candidaturas a este regime de apoio, até à apresentação do respetivo relatório ao IVV, I. P."
+  },
+  "105328786": {
+   "fragment_id": "105323827",
+   "type": 11,
+   "heading": "Artigo 16.º — Modificações ao programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Modificações ao programa\n\n1 - Quaisquer modificações aos programas, nomeadamente por inclusão ou supressão de ações, alterações substanciais do quadro anual de financiamento ou das fontes de financiamento, devem ser comunicadas ao IVV, I. P.\n\n2 - Para efeitos do disposto no número anterior, consideram-se alterações substanciais aquelas que, no quadro de financiamento anual aceite, conduzam a:\n\na) Uma variação do valor total numa percentagem igual ou superior a 10 %; ou\n\nb) Uma variação do valor das fontes de financiamento igual ou superior a 10 pontos percentuais."
+  },
+  "105328787": {
+   "fragment_id": "105323828",
+   "type": 11,
+   "heading": "Artigo 17.º — Saldos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Saldos financeiros\n\nO saldo financeiro resultante da diferença entre o valor total atribuído para a execução de um programa e o total das despesas suportadas pelo financiamento é devolvido ao IVV, I. P., no prazo máximo de seis meses após a conclusão do programa, salvo se for considerado pelo IVV, I. P., como financiamento por conta de novo programa no âmbito do presente regime de apoio."
+  },
+  "105328788": {
+   "fragment_id": "105323829",
+   "type": 11,
+   "heading": "Artigo 18.º — Resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Resolução do contrato\n\n1 - O contrato pode ser resolvido unilateralmente quando se verifique uma das seguintes condições:\n\na) Não cumprimento, por facto imputável ao beneficiário, das suas obrigações legais ou fiscais;\n\nb) Prestação, pelo beneficiário, de informações falsas sobre a sua situação ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento da execução do programa;\n\nc) Incumprimento dos termos do contrato, do disposto na presente portaria ou das regras estabelecidas no aviso para apresentação de programas ou aviso de abertura de concurso.\n\n2 - A resolução do contrato implica a restituição do montante indevidamente pago no prazo de 30 dias úteis a contar da data da sua notificação, acrescidos de juros de mora calculados à taxa em vigor."
+  },
+  "105328789": {
+   "fragment_id": "105323830",
+   "type": 11,
+   "heading": "Artigo 19.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Controlo\n\nOs beneficiários são sujeitos aos controlos administrativos e financeiros determinados pelo IVV, I. P."
+  },
+  "105328790": {
+   "fragment_id": "105323831",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nÉ revogada a Portaria n.º 219/2013, de 4 de julho."
+  },
+  "105328791": {
+   "fragment_id": "105323832",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte à sua publicação."
+  },
+  "105328793": {
+   "fragment_id": "105323834",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 3 do artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 3 do artigo 8.º)\n\nMérito do programa no âmbito do Eixo 2\n\n(ver documento original)"
+  },
+  "105328794": {
+   "fragment_id": "105323835",
+   "type": 14,
+   "heading": "Anexo II — (a que se referem o n.º 4 do artigo 8.º e o n.º 2 do artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se referem o n.º 4 do artigo 8.º e o n.º 2 do artigo 9.º)\n\nMedidas de apoio financiadas com recursos financeiros da taxa de promoção\n\n- Promoção de vinho, enquadrada no programa de apoio nacional previsto no Regulamento (UE) n.º <a href=\"eurlex.asp?ano=2013&id=313R1308\" title=\"Link para Regulamento da Comunidade Europeia\">1308/2013</a>, de 17 de dezembro;\n\n- Programas de promoção relativos ao sector vitivinícola, no âmbito do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0003\" title=\"Link para Regulamento da Comunidade Europeia\">3/2008</a>, do Conselho, de 17 de dezembro de 2007."
+  },
+  "105317770": {
+   "fragment_id": "105323811",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 90/2014\n\nde 22 de abril\n\nO Decreto-Lei n.º 94/2012, de 20 de abril, reformulou o sistema das taxas incidentes sobre os produtos do sector vitivinícola, autonomizando o financiamento dos regimes de apoio ao desenvolvimento de ações de promoção e de publicidade do vinho e dos produtos vínicos nacionais.\n\nA Portaria n.º 219/2013, de 4 de julho, estabeleceu para o ano de 2013 as regras de aplicação, para o continente, do regime de apoio à promoção do vinho e produtos vínicos e à informação e educação sobre o consumo de bebidas alcoólicas do sector vitivinícola.\n\nA presente portaria define as regras de aplicação do regime de apoio para o ano de 2014 e seguintes, introduzindo uma simplificação nos procedimentos de acesso, eliminando-se a necessidade de elaboração de uma candidatura específica para o efeito, sendo bastante a apresentação dos programas de promoção e publicidade, devidamente aprovados pelos órgãos estatutários das respetivas entidades.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto nas alíneas e) e f) do n.º 1 do artigo 22.º do Decreto-Lei n.º 94/2012, de 20 de abril, e no uso das competências delegadas através do Despacho n.º 3209/2014, de 26 de fevereiro, o seguinte:"
+  },
+  "105328800": {
+   "fragment_id": "105323816",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários do apoio",
+   "in_force_from": "2016-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 5.º — Beneficiários do apoio\n\n1 - São beneficiários do apoio as entidades nacionais que apresentem os seus programas ao IVV, I. P., dentro dos prazos e regras estabelecidas e se enquadrem nas seguintes tipologias:\n\na) Eixo 1 - Organizações interprofissionais de âmbito nacional, sem fins lucrativos, com atividade principal no domínio da promoção de vinhos e produtos vínicos e entidades certificadoras designadas nos termos da legislação aplicável;\n\nb) Eixo 2 - As organizações e entidades referidas na alínea anterior, bem como as organizações profissionais que desenvolvem a sua atividade no setor do vinho com atividades no âmbito da promoção e outras entidades de natureza associativa cujo objeto estatutário integre essencialmente a promoção da viticultura e do enoturismo, e que tenham como seus associados, pelo menos, três comissões vitivinícolas regionais.\n\n2 - No âmbito dos Eixos 1 e 2 podem ser apresentados programas a título individual ou em conjunto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "105328801": {
+   "fragment_id": "105323818",
+   "type": 11,
+   "heading": "Artigo 7.º — Aviso para a apresentação de programas",
+   "in_force_from": "2016-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 7.º — Aviso para a apresentação de programas\n\n1 - O financiamento no âmbito do Eixo 1 é atribuído mediante a apresentação de programas ao IVV, I. P., após publicitação de aviso no sítio do IVV, I. P., na Internet, o qual deve definir os prazos e regras aplicáveis, os critérios de atribuição do apoio, a informação adicional a apresentar, bem como o prazo para o IVV, I. P., comunicar o montante de financiamento.\n\n2 - O financiamento no âmbito do Eixo 2 é atribuído mediante concurso, cujo aviso de abertura é divulgado no sítio do IVV, I. P., na Internet, o qual deve estabelecer as prioridades visadas, a metodologia de avaliação dos programas, os prazos e as regras aplicáveis, bem como o prazo para o IVV, I. P., comunicar a decisão.\n\n3 - Os programas relativos ao Eixo 1 e ao Eixo 2 podem incluir ações já iniciadas ou realizadas antes da sua apresentação, devendo esta informação fazer parte da informação adicional.\n\n4 - Os programas apresentados a financiamento no âmbito do Eixo 1 devem ser previamente aprovados pelos órgãos estatutários da entidade beneficiária.\n\n5 - Os programas no âmbito do Eixo 1 são acompanhados dos comprovativos de cumprimento das condições de elegibilidade previstas no artigo 6.º e, ainda, dos seguintes elementos:\n\na) Cópia do programa anual de promoção da entidade;\n\nb) Informação que evidencie a aceitação do programa pelos respetivos órgãos estatutários;\n\nc) Informação sobre o regime de IVA a que o beneficiário do apoio está sujeito;\n\nd) Quadro de financiamento do programa anual, com indicação das fontes de financiamento;\n\ne) Relação das ações por mercado, correspondente estimativa de custos com indicação do valor total e do valor líquido de IVA, e indicação se já foi iniciada ou realizada;\n\nf) Quadro de indicadores de desempenho;\n\ng) Comprovativo ou autorização de consulta da situação regularizada perante a administração fiscal e a segurança social;\n\nh) Informação adicional estabelecida no aviso.\n\n6 - Os programas candidatos ao Eixo 2 são acompanhados dos comprovativos de cumprimento das condições de elegibilidade previstas no artigo 6.º e, ainda, dos seguintes elementos:\n\na) Identificação do proponente;\n\nb) Tipologia da candidatura;\n\nc) Atividade do proponente e regime de IVA a que está sujeito;\n\nd) Capacidade técnica e capacidade financeira;\n\ne) Quadro de financiamento anual das ações;\n\nf) Descrição do programa;\n\ng) Orçamento por ação, correspondente estimativa de custos com indicação do valor total e do valor líquido de IVA, e indicação se a ação já foi iniciada ou realizada;\n\nh) Quadro de indicadores de desempenho;\n\ni) Comprovativo de situação regularizada perante a administração fiscal e a segurança social;\n\nj) Informação adicional prevista no aviso de abertura de concurso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "105328802": {
+   "fragment_id": "105323819",
+   "type": 11,
+   "heading": "Artigo 8.º — Aceitação e avaliação dos programas",
+   "in_force_from": "2016-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 8.º — Aceitação e avaliação dos programas\n\n1 - Para o financiamento no âmbito do Eixo 1 são aceites os programas apresentados que incluam os elementos previstos no n.º 5 do artigo 7.º\n\n2 - Para o financiamento no âmbito do Eixo 2, são aceites os programas apresentados que incluam os elementos previstos no n.º 6 do artigo 7.º e que, após a avaliação do mérito, obtiverem a pontuação mínima de 60 pontos.\n\n3 - Para efeitos do disposto no número anterior, os programas são previamente avaliados numa escala de 0 a 100 pontos, de acordo com os parâmetros e critérios constantes no anexo I à presente portaria, da qual faz parte integrante.\n\n4 - Na avaliação do programa, no âmbito do Eixo 1, a fixação, pelo IVV, I. P., do montante de apoio a atribuir a cada entidade, tem em consideração os compromissos já assumidos com cada uma, designadamente no âmbito das medidas referidas no anexo II à presente portaria, da qual faz parte integrante.\n\n5 - No âmbito de financiamento relativo ao Eixo 2 e caso exista um número de candidaturas superior às verbas disponíveis, estas são distribuídas numa base pro rata.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "105328803": {
+   "fragment_id": "105323824",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração do financiamento",
+   "in_force_from": "2016-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 13.º — Duração do financiamento\n\nO financiamento aos programas no âmbito do Eixo 1 e do Eixo 2 é atribuído em cada ano civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "105328804": {
+   "fragment_id": "105323825",
+   "type": 11,
+   "heading": "Artigo 14.º — Formalização da concessão do financiamento",
+   "in_force_from": "2016-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 14.º — Formalização da concessão do financiamento\n\n1 - Nos termos a definir no aviso, os programas aceites tornam-se efetivos, com a celebração de um contrato ou termo de aceitação, entre beneficiário e o IVV, I. P..\n\n2 - A não celebração do contrato ou termo de aceitação no prazo de trinta dias após a comunicação do IVV. I. P., determina a caducidade do direito ao apoio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "105328805": {
+   "fragment_id": "105323826",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações do beneficiário",
+   "in_force_from": "2016-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 15.º — Obrigações do beneficiário\n\n1 - São obrigações do beneficiário:\n\na) Executar o programa nos termos e prazos fixados no contrato;\n\nb) Disponibilizar, dentro dos prazos fixados, todos os elementos solicitados pelas entidades que efetuem o acompanhamento e controlo;\n\nc) Comunicar ao IVV, I. P., as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à decisão de seleção do programa;\n\nd) Manter a contabilidade organizada de acordo com o Plano Oficial de Contabilidade ou com outras normas contabilísticas que se apliquem à entidade;\n\ne) Manter devidamente organizados todos os documentos suscetíveis de comprovar as informações e declarações prestadas, a fundamentação das opções tomadas no âmbito do programa, bem como todos os originais dos documentos comprovativos da realização das despesas, pelo prazo de 5 anos;\n\nf) Apresentar um relatório final da execução do programa, incluindo informação sobre os valores de financiamentos recebidos no quadro de outros apoios financeiros à promoção de vinho e produtos vínicos, nos termos a publicitar no sítio do IVV, I. P., na Internet.\n\ng) Aderir ao Programa Wine in Moderation, no âmbito do apoio do Eixo 2.\n\n2 - O não cumprimento do disposto na alínea f) do número anterior condiciona a aceitação de futuras candidaturas a este regime de apoio, até à apresentação do respetivo relatório ao IVV, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "105328806": {
+   "fragment_id": "105323828",
+   "type": 11,
+   "heading": "Artigo 17.º — Saldos financeiros",
+   "in_force_from": "2016-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 17.º — Saldos financeiros\n\nO saldo financeiro resultante da diferença entre o valor total atribuído para a execução de um programa e o total das despesas suportadas pelo financiamento é devolvido ao IVV, I. P., no prazo máximo de três meses após a conclusão do programa, salvo se for considerado pelo IVV, I. P., como financiamento por conta de novo programa no âmbito do presente regime de apoio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "105328792": {
+   "fragment_id": "105323833",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 8 de abril de 2014."
+  },
+  "207110397": {
+   "fragment_id": "105323812",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2023 - Diário da República n.º 27/2023, Série I de 2023-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/41-2023-207132976), em vigor a partir de 2023-02-07, produz efeitos a partir de 2023-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de apoio à promoção do vinho e produtos vínicos e à informação e educação sobre o consumo de bebidas alcoólicas do sector vitivinícola.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2023 - Diário da República n.º 27/2023, Série I de 2023-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/41-2023-207132976), em vigor a partir de 2023-02-07, produz efeitos a partir de 2023-01-10"
+  },
+  "207110398": {
+   "fragment_id": "105323814",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito do apoio",
+   "in_force_from": "2023-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2023 - Diário da República n.º 27/2023, Série I de 2023-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/41-2023-207132976), em vigor a partir de 2023-02-07, produz efeitos a partir de 2023-01-10"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito do apoio\n\n1 - O regime de apoio a que se refere a presente portaria é estabelecido em dois eixos:\n\na) Eixo 1 - \"Apoio à Promoção Genérica\", apoio a programas destinados a informar o público sobre as características dos vinhos e produtos vínicos de origem nacional ou promovê-los junto dos operadores económicos ou consumidores;\n\nb) Eixo 2 - \"Informação e Educação\", apoio a programas relativos ao consumo dos produtos do sector vitivinícola, independentemente do seu país ou região de origem.\n\n2 - O regime de apoio definido na presente portaria não se aplica aos vinhos produzidos no arquipélago dos Açores nem, quanto ao Eixo 1, ao vinho do Porto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2023 - Diário da República n.º 27/2023, Série I de 2023-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/41-2023-207132976), em vigor a partir de 2023-02-07, produz efeitos a partir de 2023-01-10"
+  },
+  "224327888": {
+   "fragment_id": "105323812",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2023 - Diário da República n.º 27/2023, Série I de 2023-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/41-2023-207132976), em vigor a partir de 2023-02-07, produz efeitos a partir de 2023-01-10"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de apoio à promoção do vinho e produtos vínicos e à informação e educação sobre o consumo de bebidas alcoólicas do sector vitivinícola.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2023 - Diário da República n.º 27/2023, Série I de 2023-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/41-2023-207132976), em vigor a partir de 2023-02-07, produz efeitos a partir de 2023-01-10"
+  },
+  "224327889": {
+   "fragment_id": "105323813",
+   "type": 11,
+   "heading": "Artigo 2.º — Gestão do apoio à promoção",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 2.º — Gestão do apoio à promoção\n\n1 - O Instituto da Vinha e do Vinho, I. P., (IVV, I. P.) é o organismo responsável pela aplicação dos regimes de apoio previstos na presente portaria, competindo-lhe:\n\na) Proceder à divulgação dos avisos para a apresentação dos programas;\n\nb) Proceder à análise e decisão sobre os apoios a conceder aos programas;\n\nc) Fixar o nível de financiamento a atribuir a cada programa;\n\nd) Assegurar o controlo da execução e da avaliação do desempenho dos programas, de acordo com normas previamente estabelecidas;\n\ne) Assegurar os procedimentos necessários relativos a auxílios de Estado.\n\n2 - Para a prossecução das competências referidas no número anterior, o IVV, I. P., pode ser apoiado por outras entidades públicas ou privadas.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327890": {
+   "fragment_id": "105323814",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito do apoio",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2023 - Diário da República n.º 27/2023, Série I de 2023-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/41-2023-207132976), em vigor a partir de 2023-02-07, produz efeitos a partir de 2023-01-10"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito do apoio\n\n1 - O regime de apoio a que se refere a presente portaria é estabelecido em dois eixos:\n\na) Eixo 1 - \"Apoio à Promoção Genérica\", apoio a programas destinados a informar o público sobre as características dos vinhos e produtos vínicos de origem nacional ou promovê-los junto dos operadores económicos ou consumidores;\n\nb) Eixo 2 - \"Informação e Educação\", apoio a programas relativos ao consumo dos produtos do sector vitivinícola, independentemente do seu país ou região de origem.\n\n2 - O regime de apoio definido na presente portaria não se aplica aos vinhos produzidos no arquipélago dos Açores nem, quanto ao Eixo 1, ao vinho do Porto.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2023 - Diário da República n.º 27/2023, Série I de 2023-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/41-2023-207132976), em vigor a partir de 2023-02-07, produz efeitos a partir de 2023-01-10"
+  },
+  "224327891": {
+   "fragment_id": "105323815",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de ações",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 4.º — Tipologia de ações\n\n1 - As ações a desenvolver no Eixo 1 abrangem:\n\na) Ações de relações públicas, promoção ou publicidade que valorizem a imagem e a qualidade dos vinhos e produtos vínicos nacionais;\n\nb) Participação em eventos, feiras ou exposições;\n\nc) Ações de informação sobre as regiões vitivinícolas, produtos com denominação de origem ou indicação geográfica;\n\nd) Ações de formação sobre a apresentação de vinhos e produtos vínicos e formas de consumo;\n\ne) Estudos de mercado e de informação sobre a sua evolução.\n\n2 - As ações a desenvolver no Eixo 2 abrangem:\n\na) Ações de informação e educação que promovam o consumo moderado de bebidas alcoólicas do sector vitivinícola;\n\nb) Ações de divulgação da estratégia comunitária para a redução dos malefícios relacionados com o consumo abusivo de álcool.\n\n3 - As ações abrangidas pelo financiamento no âmbito do Eixo 1 não devem beneficiar empresas específicas ou marcas comerciais e devem, sempre que possível, incluir a comunicação da marca Vinhos de Portugal/Wines of Portugal.\n\n4 - As ações abrangidas pelo financiamento no âmbito do Eixo 2 não podem conter referências a marcas, símbolos de marcas ou qualquer indicação de proveniência.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327892": {
+   "fragment_id": "105323816",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários do apoio",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 5.º — Beneficiários do apoio\n\n1 - São beneficiários do apoio as entidades nacionais que apresentem os seus programas ao IVV, I. P., dentro dos prazos e regras estabelecidas e se enquadrem nas seguintes tipologias:\n\na) Eixo 1 - Organizações interprofissionais de âmbito nacional, sem fins lucrativos, com atividade principal no domínio da promoção de vinhos e produtos vínicos e entidades certificadoras designadas nos termos da legislação aplicável;\n\nb) Eixo 2 - Organizações e entidades referidas na alínea anterior, bem como as organizações profissionais que desenvolvem a sua atividade no setor do vinho com atividades no âmbito da promoção e outras entidades de natureza associativa cujo objeto estatutário integre essencialmente a promoção da viticultura e do enoturismo, e que tenham como seus associados, pelo menos, quatro comissões vitivinícolas regionais.\n\n2 - No âmbito dos Eixos 1 e 2 podem ser apresentados programas a título individual ou em conjunto.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "224327893": {
+   "fragment_id": "105323817",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de elegibilidade",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 6.º — Condições de elegibilidade\n\nOs candidatos devem observar as seguintes condições gerais de elegibilidade:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respetiva atividade;\n\nc) Possuírem a situação regularizada perante a administração fiscal e a segurança social;\n\nd) Disporem de contabilidade organizada ou outras normas contabilísticas que se apliquem à entidade;\n\ne) Cumprirem os requisitos estabelecidos no aviso para apresentação de programas.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327894": {
+   "fragment_id": "105323818",
+   "type": 11,
+   "heading": "Artigo 7.º — Aviso para a apresentação de programas",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 7.º — Aviso para a apresentação de programas\n\n1 - O financiamento no âmbito do Eixo 1 é atribuído mediante a apresentação de programas ao IVV, I. P., após publicitação de aviso no sítio do IVV, I. P., na Internet, o qual deve definir os prazos e regras aplicáveis, os critérios de atribuição do apoio, a informação adicional a apresentar, bem como o prazo para o IVV, I. P., comunicar o montante de financiamento.\n\n2 - O financiamento no âmbito do Eixo 2 é atribuído mediante concurso, cujo aviso de abertura é divulgado no sítio do IVV, I. P., na Internet, o qual deve estabelecer as prioridades visadas, a metodologia de avaliação dos programas, os prazos e as regras aplicáveis, bem como o prazo para o IVV, I. P., comunicar a decisão.\n\n3 - Os programas relativos ao Eixo 1 e ao Eixo 2 podem incluir ações já iniciadas ou realizadas antes da sua apresentação, devendo esta informação fazer parte da informação adicional.\n\n4 - Os programas apresentados a financiamento no âmbito do Eixo 1 devem ser previamente aprovados pelos órgãos estatutários da entidade beneficiária.\n\n5 - Os programas no âmbito do Eixo 1 são acompanhados dos comprovativos de cumprimento das condições de elegibilidade previstas no artigo 6.º e, ainda, dos seguintes elementos:\n\na) Cópia do programa anual de promoção da entidade;\n\nb) Informação que evidencie a aceitação do programa pelos respetivos órgãos estatutários;\n\nc) Informação sobre o regime de IVA a que o beneficiário do apoio está sujeito;\n\nd) Quadro de financiamento do programa anual, com indicação das fontes de financiamento;\n\ne) Relação das ações por mercado, correspondente estimativa de custos com indicação do valor total e do valor líquido de IVA, e indicação se já foi iniciada ou realizada;\n\nf) Quadro de indicadores de desempenho;\n\ng) Comprovativo ou autorização de consulta da situação regularizada perante a administração fiscal e a segurança social;\n\nh) Informação adicional estabelecida no aviso.\n\n6 - Os programas candidatos ao Eixo 2 são acompanhados dos comprovativos de cumprimento das condições de elegibilidade previstas no artigo 6.º e, ainda, dos seguintes elementos:\n\na) Identificação do proponente;\n\nb) Tipologia da candidatura;\n\nc) Atividade do proponente e regime de IVA a que está sujeito;\n\nd) Capacidade técnica e capacidade financeira;\n\ne) Quadro de financiamento anual das ações;\n\nf) Descrição do programa;\n\ng) Orçamento por ação, correspondente estimativa de custos com indicação do valor total e do valor líquido de IVA, e indicação se a ação já foi iniciada ou realizada;\n\nh) Quadro de indicadores de desempenho;\n\ni) Comprovativo de situação regularizada perante a administração fiscal e a segurança social;\n\nj) Informação adicional prevista no aviso de abertura de concurso.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "224327895": {
+   "fragment_id": "105323819",
+   "type": 11,
+   "heading": "Artigo 8.º — Aceitação e avaliação dos programas",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 8.º — Aceitação e avaliação dos programas\n\n1 - Para o financiamento no âmbito do Eixo 1 são aceites os programas apresentados que incluam os elementos previstos no n.º 5 do artigo 7.º\n\n2 - Para o financiamento no âmbito do Eixo 2, são aceites os programas apresentados que incluam os elementos previstos no n.º 6 do artigo 7.º e que, após a avaliação do mérito, obtiverem a pontuação mínima de 60 pontos.\n\n3 - Para efeitos do disposto no número anterior, os programas são previamente avaliados numa escala de 0 a 100 pontos, de acordo com os parâmetros e critérios constantes no anexo I à presente portaria, da qual faz parte integrante.\n\n4 - Na avaliação do programa, no âmbito do Eixo 1, a fixação, pelo IVV, I. P., do montante de apoio a atribuir a cada entidade, tem em consideração os compromissos já assumidos com cada uma, designadamente no âmbito das medidas referidas no anexo II à presente portaria, da qual faz parte integrante.\n\n5 - No âmbito de financiamento relativo ao Eixo 2 e caso exista um número de candidaturas superior às verbas disponíveis, estas são distribuídas numa base pro rata.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "224327896": {
+   "fragment_id": "105323820",
+   "type": 11,
+   "heading": "Artigo 9.º — Financiamento",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 9.º — Financiamento\n\n1 - O regime de apoio no âmbito dos Eixos 1 e 2 é financiado ao abrigo do Decreto-Lei n.º 94/2012, de 20 de abril, podendo ainda ser utilizadas outras receitas próprias do IVV, I. P.\n\n2 - O IVV, I. P., define a dotação máxima indicativa dos apoios a conceder no âmbito do Eixo 1, tendo em consideração as disponibilidades orçamentais e os compromissos assumidos com o financiamento de outras medidas referidas no anexo II à presente portaria.\n\n3 - O financiamento a conceder a cada programa é atribuído em função das disponibilidades orçamentais do IVV, I. P., e até ao limite máximo de 80 % do valor total de cada programa.\n\n4 - A percentagem referida no número anterior pode ser aumentada, no Eixo 1, por decisão do Conselho Diretivo do IVV, I. P., em função da dotação disponível e dos montantes candidatos.\n\n5 - Os beneficiários do apoio devem assegurar a parte não financiada pelo presente regime de apoio através de receitas próprias ou de contribuições obrigatórias ou voluntárias do sector, necessárias para a implementação do programa.\n\n6 - Os beneficiários não podem utilizar o financiamento atribuído, em parte ou no todo, em outras medidas de apoio nacionais ou comunitárias.\n\n7 - O financiamento não pode ser utilizado para suportar o imposto sobre o valor acrescentado (IVA), exceto se os beneficiários do apoio estiverem sujeitos ao regime de isenção ou integrados em regime misto.\n\n8 - No financiamento a atribuir no âmbito do Eixo 1 é dada preferência a organizações de âmbito nacional, sem fins lucrativos, com atividade principal no domínio da promoção de vinhos e produtos vínicos, sem prejuízo de outras regras de atribuição de financiamento a definir no aviso para apresentação de programas publicitado pelo IVV, I. P.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327897": {
+   "fragment_id": "105323821",
+   "type": 11,
+   "heading": "Artigo 10.º — Mercados",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 10.º — Mercados\n\n1 - O financiamento a atribuir no âmbito do Eixo 1 destina-se a ações a desenvolver no mercado nacional e nos restantes Estados-Membros da União Europeia, sem prejuízo do financiamento poder ser utilizado em ações destinadas a mercados diferentes, no caso de organizações de âmbito nacional, sem fins lucrativos, com atividade principal no domínio da promoção de vinhos e produtos vínicos, desde que as mesmas estejam contempladas no programa e sejam aceites pelo IVV, I. P.\n\n2 - O financiamento a atribuir no âmbito do Eixo 2 destina-se a ações a desenvolver no mercado nacional, podendo ser aceite pelo IVV, I. P., quando devidamente justificado nos programas apresentados, a realização de ações nos restantes Estados-Membros da União Europeia.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327898": {
+   "fragment_id": "105323822",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas cobertas pelo financiamento",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 11.º — Despesas cobertas pelo financiamento\n\n1 - São aceites as despesas relativas exclusivamente à preparação, implementação, acompanhamento e avaliação das ações, incluindo os correspondentes encargos com pessoal, aquisições de bens e despesas gerais de funcionamento, desde que estes estejam ligados às atividades de promoção genérica, no caso do Eixo 1, ou às atividades de informação e educação, no caso do Eixo 2.\n\n2 - Os programas devem ser acompanhados de informação objetiva sobre a parte do valor consignado aos encargos com pessoal, aquisições de bens e de despesas gerais de funcionamento, o qual não pode exceder 25 % do financiamento atribuído, exceto se o beneficiário do apoio justificar a ausência de alternativas.\n\n3 - Quando o beneficiário do apoio for uma entidade adjudicante são aplicáveis as regras da contratação pública.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327899": {
+   "fragment_id": "105323823",
+   "type": 11,
+   "heading": "Artigo 12.º — Montante e pagamento do apoio",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 12.º — Montante e pagamento do apoio\n\n1 - Os montantes destinados ao financiamento de programas no âmbito do Eixo 1 e do Eixo 2 são fixados pelo IVV, I. P., nos termos do artigo 2.º e indicados nos avisos para apresentação de programas.\n\n2 - O pagamento do apoio é concedido sob a forma de subsídios à exploração não reembolsáveis, procedendo o IVV, I. P., a transferências trimestrais para os beneficiários ou, em casos excecionais, em duodécimos mensais, até ao limite máximo que for considerado para cada programa.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327900": {
+   "fragment_id": "105323824",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração do financiamento",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 13.º — Duração do financiamento\n\nO financiamento aos programas no âmbito do Eixo 1 e do Eixo 2 é atribuído em cada ano civil.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "224327901": {
+   "fragment_id": "105323825",
+   "type": 11,
+   "heading": "Artigo 14.º — Formalização da concessão do financiamento",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 14.º — Formalização da concessão do financiamento\n\n1 - Nos termos a definir no aviso, os programas aceites tornam-se efetivos, com a celebração de um contrato ou termo de aceitação, entre beneficiário e o IVV, I. P..\n\n2 - A não celebração do contrato ou termo de aceitação no prazo de trinta dias após a comunicação do IVV. I. P., determina a caducidade do direito ao apoio.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "224327902": {
+   "fragment_id": "105323826",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações do beneficiário",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 15.º — Obrigações do beneficiário\n\n1 - São obrigações do beneficiário:\n\na) Executar o programa nos termos e prazos fixados no contrato;\n\nb) Disponibilizar, dentro dos prazos fixados, todos os elementos solicitados pelas entidades que efetuem o acompanhamento e controlo;\n\nc) Comunicar ao IVV, I. P., as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à decisão de seleção do programa;\n\nd) Manter a contabilidade organizada de acordo com o Plano Oficial de Contabilidade ou com outras normas contabilísticas que se apliquem à entidade;\n\ne) Manter devidamente organizados todos os documentos suscetíveis de comprovar as informações e declarações prestadas, a fundamentação das opções tomadas no âmbito do programa, bem como todos os originais dos documentos comprovativos da realização das despesas, pelo prazo de 5 anos;\n\nf) Apresentar um relatório final da execução do programa, incluindo informação sobre os valores de financiamentos recebidos no quadro de outros apoios financeiros à promoção de vinho e produtos vínicos, nos termos a publicitar no sítio do IVV, I. P., na Internet.\n\ng) Aderir ao Programa Wine in Moderation, no âmbito do apoio do Eixo 2.\n\n2 - O não cumprimento do disposto na alínea f) do número anterior condiciona a aceitação de futuras candidaturas a este regime de apoio, até à apresentação do respetivo relatório ao IVV, I. P.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "224327903": {
+   "fragment_id": "105323827",
+   "type": 11,
+   "heading": "Artigo 16.º — Modificações ao programa",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 16.º — Modificações ao programa\n\n1 - Quaisquer modificações aos programas, nomeadamente por inclusão ou supressão de ações, alterações substanciais do quadro anual de financiamento ou das fontes de financiamento, devem ser comunicadas ao IVV, I. P.\n\n2 - Para efeitos do disposto no número anterior, consideram-se alterações substanciais aquelas que, no quadro de financiamento anual aceite, conduzam a:\n\na) Uma variação do valor total numa percentagem igual ou superior a 10 %; ou\n\nb) Uma variação do valor das fontes de financiamento igual ou superior a 10 pontos percentuais.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327904": {
+   "fragment_id": "105323828",
+   "type": 11,
+   "heading": "Artigo 17.º — Saldos financeiros",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+   ],
+   "markdown": "###### Artigo 17.º — Saldos financeiros\n\nO saldo financeiro resultante da diferença entre o valor total atribuído para a execução de um programa e o total das despesas suportadas pelo financiamento é devolvido ao IVV, I. P., no prazo máximo de três meses após a conclusão do programa, salvo se for considerado pelo IVV, I. P., como financiamento por conta de novo programa no âmbito do presente regime de apoio.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307/2016 - Diário da República n.º 234/2016, Série I de 2016-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/307-2016-105323791), em vigor a partir de 2016-12-08"
+  },
+  "224327905": {
+   "fragment_id": "105323829",
+   "type": 11,
+   "heading": "Artigo 18.º — Resolução do contrato",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 18.º — Resolução do contrato\n\n1 - O contrato pode ser resolvido unilateralmente quando se verifique uma das seguintes condições:\n\na) Não cumprimento, por facto imputável ao beneficiário, das suas obrigações legais ou fiscais;\n\nb) Prestação, pelo beneficiário, de informações falsas sobre a sua situação ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento da execução do programa;\n\nc) Incumprimento dos termos do contrato, do disposto na presente portaria ou das regras estabelecidas no aviso para apresentação de programas ou aviso de abertura de concurso.\n\n2 - A resolução do contrato implica a restituição do montante indevidamente pago no prazo de 30 dias úteis a contar da data da sua notificação, acrescidos de juros de mora calculados à taxa em vigor.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327906": {
+   "fragment_id": "105323830",
+   "type": 11,
+   "heading": "Artigo 19.º — Controlo",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 19.º — Controlo\n\nOs beneficiários são sujeitos aos controlos administrativos e financeiros determinados pelo IVV, I. P.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327907": {
+   "fragment_id": "105323831",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nÉ revogada a Portaria n.º 219/2013, de 4 de julho.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327908": {
+   "fragment_id": "105323832",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte à sua publicação.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327909": {
+   "fragment_id": "105323833",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 8 de abril de 2014.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327910": {
+   "fragment_id": "105323834",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 3 do artigo 8.º)",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 3 do artigo 8.º)\n\nMérito do programa no âmbito do Eixo 2\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  },
+  "224327911": {
+   "fragment_id": "105323835",
+   "type": 14,
+   "heading": "Anexo II — (a que se referem o n.º 4 do artigo 8.º e o n.º 2 do artigo 9.º)",
+   "in_force_from": "2023-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+   ],
+   "markdown": "## Anexo II — (a que se referem o n.º 4 do artigo 8.º e o n.º 2 do artigo 9.º)\n\nMedidas de apoio financiadas com recursos financeiros da taxa de promoção\n\n- Promoção de vinho, enquadrada no programa de apoio nacional previsto no Regulamento (UE) n.º <a href=\"eurlex.asp?ano=2013&id=313R1308\" title=\"Link para Regulamento da Comunidade Europeia\">1308/2013</a>, de 17 de dezembro;\n\n- Programas de promoção relativos ao sector vitivinícola, no âmbito do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0003\" title=\"Link para Regulamento da Comunidade Europeia\">3/2008</a>, do Conselho, de 17 de dezembro de 2007.\n\n> Revogado pelo/a Artigo 26.º do/a [Portaria n.º 375/2023 - Diário da República n.º 221/2023, Série I de 2023-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/375-2023-224268569), em vigor a partir de 2023-11-16"
+  }
+ }
+}

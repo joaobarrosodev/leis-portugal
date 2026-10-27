@@ -1,0 +1,114 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66674008:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-958771135",
+ "dre_path": "/dr/detalhe/portaria/63-2015-66674008",
+ "source_lastmod": "2026-08-25",
+ "versions": [
+  {
+   "date": "2026-11-06",
+   "future": true,
+   "acts": [
+    {
+     "id": "pt:dre:1154555260:por",
+     "title": "Portaria n.º 327/2026/1",
+     "published": "2026-08-06",
+     "dre_path": "/dr/detalhe/portaria/327-2026-1154555260"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "959151075",
+    "959151275",
+    "1155694275",
+    "1155694475",
+    "959151875",
+    "959152075",
+    "959152275",
+    "959152475",
+    "959152675"
+   ]
+  }
+ ],
+ "fragments": {
+  "959151075": {
+   "fragment_id": "959150975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Lei n.º 21/2014, de 16 de abril, que regula a investigação clínica, cria um novo quadro de referência para a investigação clínica com seres humanos em Portugal.\n\nNos termos do n.º 1 do artigo 48.º da Lei n.º 21/2014, de 16 de abril, pelos serviços prestados no âmbito da presente lei são devidas taxas, a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 48.º da Lei n.º 21/2014, de 16 de abril:\n\nManda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro da Saúde, o seguinte:"
+  },
+  "959151275": {
+   "fragment_id": "959151175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma visa fixar as taxas que são devidas pelos atos prestados no âmbito da Lei n.º 21/2014, de 16 de abril."
+  },
+  "1155694275": {
+   "fragment_id": "959151375",
+   "type": 11,
+   "heading": "Artigo 2.º — Custos",
+   "in_force_from": "2026-11-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 327/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/327-2026-1154555260), em vigor a partir de 2026-11-06."
+   ],
+   "markdown": "###### Artigo 2.º — Custos\n\n1 - O custo dos atos relativos aos procedimentos previstos na Lei n.º 21/2014, de 16 de abril, constitui encargo dos requerentes, nos termos da tabela seguinte:\n\na) [Revogado];\n\ni) Correspondendo às fases I a III de desenvolvimento do medicamento - (euro) 1000;\n\nii) Correspondendo à fase IV de desenvolvimento do medicamento - (euro) 600;\n\niii) Correspondendo a estudos de biodisponibilidade e bioequivalência - (euro) 350;\n\niv) Correspondendo a estudos clínicos com intervenção de dispositivos médicos sem marcação CE ou dispositivos médicos que já ostentam marcação CE, mas que irão ser estudados para uma finalidade diferente da prevista no procedimento de avaliação da conformidade - (euro) 1000;\n\nv) Correspondendo a estudos clínicos com intervenção de dispositivos médicos com marcação CE - (euro) 600;\n\nb) Por cada pedido de notificação de realização de estudo clínico:\n\ni) [Revogado];\n\nii) [Revogado];\n\niii) Correspondendo a estudos clínicos com intervenção de produtos cosméticos e de higiene corporal antes da colocação no mercado - (euro) 600;\n\niv) Correspondendo a estudos clínicos com intervenção de produtos cosméticos e de higiene corporal após a colocação no mercado - (euro) 400;\n\nc) [Revogado];\n\nd) [Revogado];\n\ne) [Revogado];\n\nf) Por cada pedido de avaliação pela Comissão de Ética para a Investigação Clínica de estudos clínicos, no caso do centro de estudo clínico envolvido não dispor de comissão de ética para a saúde, nos termos da alínea b) do n.º 3 do artigo 16.º da Lei n.º 21/2014, de 16 de abril:\n\ni) no caso dos estudos observacionais com medicamentos ou com dispositivos médicos - (euro) 350;\n\nii) para os restantes estudos não referidos na alínea anterior - (euro) 150;\n\ng) Por cada pedido de avaliação pela Comissão de Ética para a Investigação Clínica da classificação de estudos como sendo \"estudos com intervenção\" ou \"estudos sem intervenção\" - (euro) 100.\n\n2 - O pagamento das taxas referidas no número anterior é condição do prosseguimento dos pedidos a que respeitam e deve ser efetuado prévia ou simultaneamente com a apresentação destes.\n\n3 - O pagamento das taxas deve ser efetuado por meios eletrónicos.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 327/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/327-2026-1154555260), em vigor a partir de 2026-11-06."
+  },
+  "1155694475": {
+   "fragment_id": "959151575",
+   "type": 11,
+   "heading": "Artigo 3.º — Isenção de custos",
+   "in_force_from": "2026-11-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 327/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/327-2026-1154555260), em vigor a partir de 2026-11-06."
+   ],
+   "markdown": "###### Artigo 3.º — Isenção de custos\n\n1 - [Revogado].\n\n2 - O conselho diretivo do INFARMED, I. P., ouvida a Comissão de Ética para a Investigação Clínica, pode ainda, nas situações previstas nas alíneas f) e g) do n.º 1 do artigo anterior, por deliberação e ponderados que sejam a natureza e finalidade do estudo em causa, conceder isenção dos custos previstos no artigo anterior quando os promotores dos estudos clínicos sejam instituições sem fins lucrativos ou se trate de estudos clínicos de natureza não comercial.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 327/2026/1 - Diário da República n.º 151/2026, Série I de 2026-08-06](https://diariodarepublica.pt/dr/detalhe/portaria/327-2026-1154555260), em vigor a partir de 2026-11-06."
+  },
+  "959151875": {
+   "fragment_id": "959151775",
+   "type": 11,
+   "heading": "Artigo 4.º — Reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reembolso\n\nNo caso de não validação de qualquer dos pedidos a que se refere o artigo 2.º, o INFARMED, I. P., devolverá aos requerentes 90 % das taxas ali previstas, retendo os restantes 10 % a título de despesas administrativas."
+  },
+  "959152075": {
+   "fragment_id": "959151975",
+   "type": 11,
+   "heading": "Artigo 5.º — Destino das receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Destino das receitas\n\nOs valores cobrados ao abrigo dos artigos anteriores constituem receitas do INFARMED, I. P., nos termos do disposto da Lei n.º 21/2014, de 16 de abril."
+  },
+  "959152275": {
+   "fragment_id": "959152175",
+   "type": 11,
+   "heading": "Artigo 6.º — Atualização anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atualização anual\n\nOs custos previstos no artigo 2.º são atualizados anualmente na proporção do aumento da taxa de inflação anual, medida através da variação média do índice de preços no consumidor para o continente, publicada pelo Instituto Nacional de Estatística em dezembro do ano anterior àquele a que a atualização respeita, sendo os respetivos valores divulgados pelo INFARMED, I. P."
+  },
+  "959152475": {
+   "fragment_id": "959152375",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor 30 dias após a sua publicação."
+  },
+  "959152675": {
+   "fragment_id": "959152575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e do Orçamento, em substituição da Ministra de Estado e das Finanças, Hélder Manuel Gomes dos Reis, em 17 de fevereiro de 2015. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 28 de janeiro de 2015."
+  }
+ }
+}

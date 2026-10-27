@@ -1,0 +1,424 @@
+---
+schema_version: '1.0'
+id: pt:dre:277861:por
+title: Decreto Regulamentar Regional n.º 28/77/A
+short_title: null
+summary: Estabelece a orgânica da Secretaria Regional das Finanças
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional das Finanças
+proposing_entity: null
+official_number: 28/77/A
+official_date: null
+publication_date: '1977-11-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 255/1977, Série I de 1977-11-04
+  number: '255'
+  series: I
+  supplement: null
+  pages: 2642 - 2646
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/11/25500/26422646.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '277861'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/28-1977-277861
+  internal: pt:dre:277861:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1977-277861
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-1977-277861
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:24:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f45e4eb329b6319375f75ff6ff06e8d767f22cb07103cd47e94b8c8ccd472680
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:24:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Direção Geral do Orçamento
+- Direcção Geral do Tesouro
+- Direcção Regional do Orçamento e Contabilidade
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- Secretaria Regional das Finanças
+relationships:
+- type: amended_by
+  target: pt:dre:354756:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:393661:por
+  label: "Alterado o art. 22º pelo DRR.4/79/A.1979.02.12.GR-RAA, DR.IS [47] de 24/Fev/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/4-1979-393661
+  date: '1979-02-12'
+- type: amended_by
+  target: pt:dre:678255:por
+  label: "Alterado o quadro de pessoal, pelo DRR.14/80/A.1980.03.06.GR-RAA, DR.IS [255] de 04/Nov/1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/14-1980-678255
+  date: '1980-03-06'
+- type: cites
+  target: pt:dre:139948:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:354756:por
+  label: "Revogado pelo DRR.40/88/A.07.10.1988.GR-RAA, DR.IS [232] de 07.10.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/40-1988-354756
+  date: '1988-10-07'
+article_structure:
+  article_count: 27
+  section_count: 7
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:24:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 28/77/A
+
+Em execução do Decreto Regional n.º 3/76, de 15 de Novembro:
+
+O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+ORGÂNICA DA SECRETARIA REGIONAL DAS FINANÇAS
+
+### CAPÍTULO I — Atribuições e estruturas da Secretaria Regional das Finanças
+
+###### Artigo 1.º
+
+São atribuições da Secretaria Regional das Finanças:
+
+a) Orientar, dirigir e superintender, na Região Autónoma dos Açores, em todos os assuntos referentes à definição e execução das políticas fiscal, orçamental, monetária, financeira e cambial, nos termos da lei;
+
+b) Gerir o património da Região;
+
+c) Participar na definição da política económica regional.
+
+###### Artigo 2.º
+
+A Secretaria Regional das Finanças compreende as seguintes direcções regionais:
+
+a) Direcção Regional do Orçamento e Contabilidade;
+
+b) Direcção Regional do Tesouro.
+
+###### Artigo 3.º
+
+Na dependência directa do Secretário Regional funcionam os seguintes serviços de concepção e apoio da actividade de toda a Secretaria Regional das Finanças:
+
+a) Gabinete do Secretário Regional;
+
+b) Secretaria;
+
+c) Gabinete técnico.
+
+### CAPÍTULO II — Competência do Secretário Regional e dos directores regionais
+
+###### Artigo 4.º
+
+Compete ao Secretário Regional das Finanças:
+
+a) Propor e fazer executar na Região as políticas fiscal, monetária, financeira e cambial nos termos da lei;
+
+b) Assegurar a orientação e a coordenação dos órgãos e serviços que estejam na sua directa dependência;
+
+c) Superintender e coordenar toda a acção da Secretaria Regional.
+
+###### Artigo 5.º
+
+Compete aos directores regionais:
+
+a) Coadjuvar o Secretário Regional, praticando todos os actos da sua competência própria ou delegada;
+
+b) Orientar e coordenar os serviços dependentes das suas direcções regionais.
+
+### CAPÍTULO III — Competência dos serviços de concepção e apoio dependentes do Secretário Regional
+
+Gabinete do Secretário Regional
+
+###### Artigo 6.º
+
+O Gabinete do Secretário Regional das Finanças assegura o apoio à acção governativa deste sector.
+
+###### Artigo 7.º
+
+São membros do Gabinete:
+
+a) O adjunto do Gabinete;
+
+b) O secretário particular.
+
+###### Artigo 8.º
+
+Ao adjunto do Gabinete compete:
+
+a) A direcção do Gabinete;
+
+b) A representação do Secretário Regional nos actos de carácter não estritamente pessoal;
+
+c) A execução das tarefas que por despacho do Secretário Regional lhe forem cometidas, no âmbito dos assuntos decorrentes do Gabinete.
+
+###### Artigo 9.º
+
+1 - Os elementos do Gabinete serão providos livremente pelo Secretário Regional, considerando-se, para todos os efeitos, em exercício de funções desde a data do despacho que os tiver nomeado.
+
+2 - Quando os providos sejam trabalhadores civis do Estado, da Administração Regional ou local, institutos públicos e empresas nacionalizadas ou regionalizadas, exercerão os seus cargos, respectivamente, em comissão de serviço ou em regime de requisição.
+
+###### Artigo 10.º
+
+1 - O vencimento dos membros do Gabinete é o que consta no quadro anexo a este diploma.
+
+2 - Os membros do Gabinete não podem beneficiar de quaisquer gratificações ou abonos por trabalhos extraordinários.
+
+###### Artigo 11.º
+
+O Secretário Regional poderá destacar da Secretaria o máximo de dois funcionários, de categoria não superior a segundo-oficial, para prestarem apoio administrativo ao Gabinete.
+
+Secretaria
+
+###### Artigo 12.º
+
+1 - A secretaria é o órgão de execução dos serviços de interesse comum a toda a Secretaria Regional, designadamente os de expediente, arquivo, pessoal e contabilidade.
+
+2 - À secretaria incumbe especialmente:
+
+a) Assegurar o expediente relativo ao recrutamento, provimento, promoção, aposentação e exoneração do pessoal da Secretaria Regional;
+
+b) Assegurar o registo, encaminhamento e arquivo do expediente do Gabinete do Secretário Regional e das direcções regionais;
+
+c) Prestar apoio administrativo ao gabinete técnico e às comissões e grupos de trabalho constituídos no âmbito da Secretaria Regional;
+
+d) Velar pela segurança e conservação dos edifícios, viaturas, mobiliários e restante equipamento afectos à Secretaria Regional, organizando e mantendo actualizado o seu cadastro;
+
+e) Coordenar e controlar as actividades do pessoal auxiliar;
+
+f) Assegurar o apetrechamento dos serviços da Secretaria Regional, propondo as aquisições e a celebração dos contratos necessários;
+
+g) Elaborar a proposta do orçamento anual da Secretaria Regional e de outros organismos, serviços e comissões, conforme lhe for determinado;
+
+h) Organizar os processos de liquidação de despesas resultantes da execução do orçamento.
+
+3 - A secretaria poderá ainda desempenhar outras funções de ordem técnico-administrativa que lhe sejam determinadas pelo Secretário Regional.
+
+Gabinete técnico
+
+###### Artigo 13.º
+
+O gabinete técnico é um órgão de apoio na formulação, programação e execução da actividade da Secretaria Regional das Finanças, competindo-lhe designadamente:
+
+a) Estudar e dar parecer sobre todas as questões de natureza financeira, económica e jurídica que lhe sejam submetidas;
+
+b) Habilitar o Secretário Regional com os elementos e as informações necessárias à definição e execução regional das políticas fiscal, financeira, monetária e cambial;
+
+c) Assegurar as adequadas ligações com os órgãos regionais de planeamento;
+
+d) Reunir, coordenar e fornecer informação técnico-financeira e económica;
+
+e) Colaborar na preparação e redacção dos projectos de diplomas legais emanados da Secretaria Regional;
+
+f) Elaborar pareceres, informações e estudos jurídicos;
+
+g) Promover iniciativas adequadas ao aperfeiçoamento técnico-profissional do pessoal da Secretaria Regional;
+
+h) Estudar e propor, de colaboração com a Secretaria Regional da Administração Pública, medidas tendentes ao aperfeiçoamento da orgânica da Secretaria Regional das Finanças e dos respectivos serviços com vista à sua eficiência e à racionalização do trabalho.
+
+###### Artigo 14.º
+
+1 - O gabinete técnico será dirigido por um técnico principal do quadro de pessoal da Secretaria Regional das Finanças.
+
+2 - Não estando preenchidos os lugares de técnico principal, o Secretário Regional poderá encarregar da chefia do gabinete um técnico de 1.ª classe ou, na falta deste, um de 2.ª classe, quando tal se mostre indispensável.
+
+### CAPÍTULO IV — Direcção Regional do Orçamento e Contabilidade
+
+###### Artigo 15.º
+
+Compete à Direcção Regional do Orçamento e Contabilidade:
+
+a) Apoiar o Secretário Regional na definição e execução regional das políticas fiscal e orçamental;
+
+b) Organizar o orçamento e a conta da Região;
+
+c) Contabilizar e fiscalizar a administração financeira da Região;
+
+d) Uniformizar e simplificar os serviços de contabilidade de todos os departamentos da Região;
+
+e) Estudar e propor as formas mais económicas de emprego das dotações orçamentais, bem como as providências necessárias para que as verbas orçamentais indiquem claramente a verdadeira e justa aplicação das despesas;
+
+f) Executar na Região as leis tributárias;
+
+g) Estudar e propor as medidas fiscais de carácter normativo regional e informar o Secretário Regional dos resultados e das circunstâncias ou factos observados na execução das leis fiscais;
+
+h) Orientar e superintender nos serviços aduaneiros regionais.
+
+###### Artigo 16.º
+
+A Direcção Regional do Orçamento e Contabilidade dispõe para o desempenho das suas funções de serviços centrais e de serviços externos.
+
+###### Artigo 17.º
+
+1 - São serviços centrais:
+
+a) Direcção de Serviços da Contabilidade Pública Regional;
+
+b) Direcção de Serviços de Contribuições e Impostos.
+
+2 - São serviços externos:
+
+a) Delegação da Direcção de Serviços da Contabilidade Pública Regional em Angra do Heroísmo;
+
+b) Delegação da Direcção de Serviços da Contabilidade Pública Regional na Horta;
+
+c) Delegação da Direcção de Serviços da Contabilidade Pública Regional em Ponta Delgada.
+
+3 - Às delegações referidas no número anterior incumbe contabilizar e fiscalizar as despesas do orçamento da Região e obter os elementos que interessam ao exercício da competência da Direcção Regional do Orçamento e Contabilidade.
+
+4 - Cada uma das delegações a que alude o n.º 2 deste artigo ficará a cargo de um chefe de delegação.
+
+### CAPÍTULO V — Direcção Regional do Tesouro
+
+###### Artigo 18.º
+
+Compete à Direcção Regional do Tesouro:
+
+a) Apoiar o Secretário Regional na definição e contrôle da execução regional das políticas monetária, financeira e cambial, nos termos da lei;
+
+b) Apoiar o Secretário Regional na reestruturação da actividade bancária e seguradora de âmbito regional;
+
+c) Acompanhar a gestão das empresas pertencentes ao sector público, que desenvolvam a sua actividade exclusivamente na Região;
+
+d) Contribuir para a definição da política de participações financeiras da Região Autónoma dos Açores;
+
+e) Propor a realização de contratos de empréstimos a contrair pela Região;
+
+f) Acompanhar as incidências no plano financeiro dos fluxos provenientes do exterior, designadamente os relativos a auxílios e a investimentos estrangeiros na Região;
+
+g) Controlar as operações financeiras que sejam efectuadas por serviços sob a superintendência da Região e pelas pessoas colectivas de direito público de âmbito regional que tenham por objecto principal a realização daquelas operações;
+
+h) Registar e superintender, nos termos da lei, nas operações relativas aos movimentos de fundos da Região com os restantes espaços nacionais e com o estrangeiro;
+
+i) Instruir os processos de concessão de aval da Região, solicitando dos departamentos competentes as informações e elementos necessários à apreciação dos mesmos e assegurar o cumprimento dos encargos emergentes dos avales prestados;
+
+j) Organizar os sistemas de gestão e administração dos bens do domínio público e privado da Região;
+
+l) Promover a aquisição, a qualquer título, para o domínio privado da Região de bens imóveis e semoventes, assim como a aceitação de bens móveis a título gratuito;
+
+m) Promover a alienação dos bens móveis, imóveis e semoventes da Região, em conformidade com a lei;
+
+n) Promover o arrendamento de prédios para a instalação dos serviços da administração regional.
+
+###### Artigo 19.º
+
+1 - Na Direcção Regional do Tesouro funcionarão os seguintes serviços:
+
+a) Repartição do Tesouro;
+
+b) Repartição do Património.
+
+2 - Enquanto o volume dos serviços cometidos às repartições previstas no número anterior não justificar o preenchimento dos dois lugares de chefia, aquelas ficarão a cargo de um só chefe de repartição.
+
+### CAPÍTULO VI — Pessoal
+
+###### Artigo 20.º
+
+1 - O quadro do pessoal da Secretaria Regional das Finanças é o constante do mapa anexo ao presente diploma e será agrupado de acordo com a seguinte classificação:
+
+a) Pessoal dirigente;
+
+b) Pessoal técnico;
+
+c) Pessoal administrativo;
+
+d) Pessoal auxiliar.
+
+2 - O quadro do pessoal a que alude o número anterior poderá ser alterado por decreto regulamentar regional.
+
+3 - O Secretário Regional poderá autorizar que seja contratado além do quadro pessoal destinado a ocorrer a necessidades eventuais ou extraordinárias dos órgãos e serviços nas condições que forem fixadas com acordo do Secretário Regional da Administração Pública.
+
+###### Artigo 21.º
+
+O pessoal da Secretaria Regional das Finanças constitui um quadro único, competindo ao Secretário Regional a sua colocação de harmonia com as necessidades, a conveniência dos serviços e as aptidões dos funcionários.
+
+###### Artigo 22.º
+
+As condições de ingresso, acesso e carreira profissional do pessoal do quadro da Secretaria Regional das Finanças serão, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamentar e, até lá, regular-se-ão pela legislação regional e geral em vigor.
+
+### CAPÍTULO VII — Disposições finais e transitórias
+
+###### Artigo 23.º
+
+Enquanto não forem publicados os diplomas orgânicos de cada órgão ou serviço da Secretaria Regional das Finanças fica o Secretário Regional autorizado a definir, por simples despacho orientador, a estrutura, as atribuições, a competência e o funcionamento dos serviços.
+
+###### Artigo 24.º
+
+1 - Enquanto se não proceder à integração dos serviços periféricos do Ministério das Finanças que exercem a sua actividade na Região Autónoma dos Açores, os serviços de tesouraria e pagadoria das extintas juntas gerais manterão as funções que vinham desempenhando e a sua estrutura de pessoal, conforme o quadro anexo a este diploma.
+
+2 - Os serviços referidos no número anterior funcionarão na dependência da Direcção Regional do Tesouro.
+
+###### Artigo 25.º
+
+É elevado para 600$00 o montante do abono mensal para falhas atribuído aos tesoureiros e pagadores-recebedores das extintas juntas gerais, fixado pelo [Decreto-Lei n.º 421/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/421-1973-419642), de 22 de Agosto.
+
+###### Artigo 26.º
+
+As dúvidas pela aplicação deste diploma serão resolvidas por despacho do Secretário Regional das Finanças, com o acordo do Secretário Regional da Administração Pública, quando estiver em causa matéria da competência desta Secretaria Regional.
+
+###### Artigo 27.º
+
+Fica revogado o [Decreto Regulamentar Regional n.º 10/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1977-139948), de 18 de Abril.
+
+Aprovado em Plenário do Governo Regional em 8 de Setembro de 1977.
+
+Presidência do Governo Regional, 9 de Setembro de 1977. - O Presidente do Governo Regional em Exercício, Raul Gomes dos Santos.
+
+Assinado em Angra do Heroísmo em 1 de Outubro de 1977.
+
+Publique-se.
+
+O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.
+
+Quadro e vencimentos do pessoal a que se refere o artigo 20.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/11/25500/26422646.pdf)
+
+O Presidente do Governo Regional em Exercício, Raul Gomes dos Santos.

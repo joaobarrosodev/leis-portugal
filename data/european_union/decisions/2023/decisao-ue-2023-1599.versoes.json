@@ -1,0 +1,624 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32023D1599:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023D1599-20251204",
+ "dre_path": null,
+ "source_lastmod": "2025-12-04",
+ "versions": [
+  {
+   "date": "2023-08-04",
+   "future": false,
+   "celex": "32023D1599",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2ae10aa7ef26600d",
+    "a2b0587107dc77d3",
+    "7fabed8a0a46afb5",
+    "642554887a7e2431",
+    "637e75fd10f96351",
+    "0cd0c67d84f58838",
+    "9b3cc22f23ade707",
+    "f0e23992e15f2500",
+    "cc3ebfd701fa0967",
+    "2e196d2af6ca0135",
+    "86539ec30d9e00bf",
+    "523999240c468cec",
+    "77eed8ccea8e33e1",
+    "ab506c7b77449127",
+    "b4a6b501f12bf750",
+    "71485d5031a4eec8",
+    "031210ebd25a3eb9",
+    "67bdca889ed4fe0d",
+    "c06ec20a6d358c4d",
+    "220951e5d3b592d9",
+    "9cbff246a7483c08",
+    "f73f7f7b79f60e0a",
+    "3372ad59603318c5",
+    "8c8356a88b2882dd",
+    "bbdde795c58f027f",
+    "81c2f2e6dbcd5e86",
+    "b41181b8677c8828",
+    "6b07f79cb97756cc",
+    "b1c3e146bb139ce0",
+    "8632ce84b2d15a84",
+    "a65f135da77a5828",
+    "f7f63ef11e1fea36"
+   ]
+  },
+  {
+   "date": "2023-08-16",
+   "future": false,
+   "celex": "02023D1599-20230816",
+   "acts": [
+    {
+     "id": "eu:celex:32023D2066:por",
+     "title": "DECISÃO (UE) 2023/2066 DO CONSELHO de 25 de setembro de 2023",
+     "published": null,
+     "celex": "32023D2066"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Estabelecimento",
+    "Altera Artigo 8.º — Segurança",
+    "Altera Artigo 20.º — Divulgações de informações",
+    "Altera Artigo 22.º — Entrada em vigor e cessação da vigência",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "2381c6609551c4d6",
+    "a2b0587107dc77d3",
+    "7fabed8a0a46afb5",
+    "4931fc2c195c6286",
+    "d10c82b1ffa77b1a",
+    "0cd0c67d84f58838",
+    "9b3cc22f23ade707",
+    "f0e23992e15f2500",
+    "cc3ebfd701fa0967",
+    "2e196d2af6ca0135",
+    "86539ec30d9e00bf",
+    "523999240c468cec",
+    "cbea404fa4fc19fe",
+    "ab506c7b77449127",
+    "b4a6b501f12bf750",
+    "98cd27630d91e559",
+    "031210ebd25a3eb9",
+    "67bdca889ed4fe0d",
+    "c06ec20a6d358c4d",
+    "220951e5d3b592d9",
+    "9cbff246a7483c08",
+    "f73f7f7b79f60e0a",
+    "3372ad59603318c5",
+    "8c8356a88b2882dd",
+    "bbdde795c58f027f",
+    "81c2f2e6dbcd5e86",
+    "b41181b8677c8828",
+    "6b07f79cb97756cc",
+    "f421613a446a0d7c",
+    "8632ce84b2d15a84",
+    "04ce368c35768478",
+    "d6883d96d8da61e2"
+   ]
+  },
+  {
+   "date": "2023-12-11",
+   "future": false,
+   "celex": "02023D1599-20231211",
+   "acts": [
+    {
+     "id": "eu:celex:32023D2786:por",
+     "title": "DECISÃO (PESC) 2023/2786 DO CONSELHO de 11 de dezembro de 2023",
+     "published": null,
+     "celex": "32023D2786"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º — Segurança",
+    "Altera Artigo 10.º — Disposições financeiras",
+    "Altera Artigo 15.º — Disposições financeiras",
+    "Altera Artigo 20.º — Divulgações de informações",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "2381c6609551c4d6",
+    "a2b0587107dc77d3",
+    "7fabed8a0a46afb5",
+    "4931fc2c195c6286",
+    "d10c82b1ffa77b1a",
+    "0cd0c67d84f58838",
+    "9b3cc22f23ade707",
+    "f0e23992e15f2500",
+    "cc3ebfd701fa0967",
+    "2e196d2af6ca0135",
+    "86539ec30d9e00bf",
+    "523999240c468cec",
+    "4b5a82cf1aa5b0f8",
+    "ab506c7b77449127",
+    "29f7b0bdd98cb287",
+    "98cd27630d91e559",
+    "031210ebd25a3eb9",
+    "67bdca889ed4fe0d",
+    "c06ec20a6d358c4d",
+    "220951e5d3b592d9",
+    "9cbff246a7483c08",
+    "ff5c906e912f5012",
+    "3372ad59603318c5",
+    "8c8356a88b2882dd",
+    "bbdde795c58f027f",
+    "81c2f2e6dbcd5e86",
+    "b41181b8677c8828",
+    "6b07f79cb97756cc",
+    "0d43de1b06456e9c",
+    "8632ce84b2d15a84",
+    "04ce368c35768478",
+    "65c2f2d7af63f6f5"
+   ]
+  },
+  {
+   "date": "2025-12-04",
+   "future": false,
+   "celex": "02023D1599-20251204",
+   "acts": [
+    {
+     "id": "eu:celex:32025D2472:por",
+     "title": "DECISÃO (PESC) 2025/2472 DO CONSELHO de 4 de dezembro de 2025",
+     "published": null,
+     "celex": "32025D2472"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º — Segurança",
+    "Altera Artigo 10.º — Disposições financeiras",
+    "Altera Artigo 15.º — Disposições financeiras",
+    "Altera Artigo 20.º — Divulgações de informações",
+    "Altera Artigo 22.º — Entrada em vigor e cessação da vigência",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "2381c6609551c4d6",
+    "a2b0587107dc77d3",
+    "7fabed8a0a46afb5",
+    "4931fc2c195c6286",
+    "d10c82b1ffa77b1a",
+    "0cd0c67d84f58838",
+    "9b3cc22f23ade707",
+    "f0e23992e15f2500",
+    "cc3ebfd701fa0967",
+    "2e196d2af6ca0135",
+    "86539ec30d9e00bf",
+    "523999240c468cec",
+    "6c3228c47cebda6c",
+    "ab506c7b77449127",
+    "9f3235364dd55c63",
+    "98cd27630d91e559",
+    "031210ebd25a3eb9",
+    "67bdca889ed4fe0d",
+    "c06ec20a6d358c4d",
+    "220951e5d3b592d9",
+    "9cbff246a7483c08",
+    "615fc443199e800d",
+    "3372ad59603318c5",
+    "8c8356a88b2882dd",
+    "bbdde795c58f027f",
+    "81c2f2e6dbcd5e86",
+    "b41181b8677c8828",
+    "6b07f79cb97756cc",
+    "24201572098cb4ab",
+    "8632ce84b2d15a84",
+    "28007ecf36d84f1f",
+    "d24c9700b34c340c"
+   ]
+  }
+ ],
+ "fragments": {
+  "2ae10aa7ef26600d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de agosto de 2023\n\nrelativa a uma Iniciativa da União Europeia em matéria de Segurança e Defesa em apoio aos países da África Ocidental do Golfo da Guiné\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado da União Europeia, nomeadamente o artigo 42.º, n.º 4, e o artigo 43.º, n.º 2,\n\nTendo em conta a proposta do alto representante da União para os Negócios Estrangeiros e a Política de Segurança,\n\nConsiderando o seguinte:\n\n(1) Em 23 de janeiro de 2023, o Conselho procedeu a uma troca de pontos de vista sobre o Sael e os países costeiros da África Ocidental, confirmando que esta região continua a ser uma prioridade para a União, apesar do agravamento da situação política e de segurança. O Conselho acordou em desenvolver um conceito de gestão de crises, a fim de oferecer aos Estados costeiros do Golfo da Guiné um compromisso concreto e formação e apoio específicos. O Conselho recordou que a União está também a destacar conselheiros militares para as delegações da União para orientar esse esforço.\n\n(2) Em 29 de junho de 2023, o Conselho aprovou um conceito de gestão de crises para uma eventual parceria em matéria de segurança e defesa com os países da África Ocidental do Golfo da Guiné (o «conceito de gestão de crises»). Este conceito de gestão de crises tem por base uma abordagem integrada para uma parceria em matéria de segurança e defesa com esses países, incluindo a criação de uma missão no âmbito da Política Comum de Segurança e Defesa (PCSD) (a «Missão»), complementada pelo destacamento de conselheiros militares para as delegações da União, em conjugação com medidas de assistência no âmbito do Mecanismo Europeu de Apoio à Paz para o fornecimento de equipamento militar e em sinergia com projetos relacionados com a segurança. Além disso, o conceito recomenda que a Missão seja denominada «Iniciativa da UE em matéria de Segurança e Defesa de apoio aos países da África Ocidental do Golfo da Guiné».\n\n(3) Por carta de 6 de julho de 2023, o Presidente da República do Benim convidou a União a destacar a Missão para o seu território.\n\n(4) Por carta de 10 de julho de 2023, o Presidente da República do Gana convidou a União a destacar a Missão para o seu território.\n\n(5) A Missão deverá, por conseguinte, ser estabelecida no Benim e no Gana. Deverá ser possível ao Conselho decidir posteriormente alargar a Missão a outros países da África Ocidental do Golfo da Guiné enunciados no conceito de gestão de crises, a convite destes países.\n\n(6) O Comité Político e de Segurança deverá exercer, sob a responsabilidade do Conselho e do alto representante da União para os Negócios Estrangeiros e a Política de Segurança, o controlo político da Missão, a sua direção estratégica e tomar as decisões relevantes nos termos do artigo 38.º, terceiro parágrafo, do Tratado da União Europeia (TUE).\n\n(7) A Missão deverá ter um pilar civil, sob o comando e controlo estratégicos de um comandante de operação civil, e um pilar militar, sob o comando e controlo estratégicos de um comandante militar. A Célula Conjunta de Coordenação do Apoio, copresidida pelo comandante de operação civil e pelo comandante militar, deverá assegurar a coerência da cadeia de comando.\n\n(8) A Capacidade Civil de Planeamento e Condução deverá ser posta à disposição do comandante de operação civil para a planificação e condução do pilar civil da missão. Para efeitos da Missão, deverá ser reforçada por uma célula de comando e apoio civil.\n\n(9) A Capacidade Militar de Planeamento e Condução deverá ser a estrutura fixa de comando e controlo a nível estratégico militar e deverá ser responsável pelo planeamento e a condução das operações do pilar militar da Missão. Para efeitos da Missão, deverá ser reforçada por uma célula de comando e apoio militar.\n\n(10) No que respeita ao pilar civil da Missão, o chefe da célula de comando e controlo civil deverá exercer as mesmas funções que o Chefe de Missão no quadro de uma missão civil da PCSD. No que respeita ao pilar militar da Missão, o chefe da célula de comando e controlo militar deverá exercer as mesmas funções que o comandante da Força da Missão no quadro de uma missão militar da PCSD.\n\n(11) É necessário negociar e celebrar acordos internacionais relativamente ao estatuto das unidades lideradas pela União e do seu pessoal e à participação de Estados terceiros na missão.\n\n(12) Nos termos do artigo 41.º, n.º 2, do TUE, as despesas operacionais decorrentes do pilar civil da Missão deverão ficar a cargo do orçamento da União, enquanto as despesas operacionais decorrentes do pilar militar da Missão deverão ficar a cargo dos Estados-Membros em conformidade com a Decisão (PESC) 2021/509 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/900b0859-3262-11ee-83b8-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2023196PT.01002501-E0001).\n\n(13) A Missão será conduzida no contexto de uma situação que poderá vir a deteriorar-se e obstar à realização dos objetivos da ação externa da União enunciados no artigo 21.º do Tratado,\n\nADOTOU A PRESENTE DECISÃO:"
+  },
+  "a2b0587107dc77d3": {
+   "fragment_id": "Secção I",
+   "type": "divisao",
+   "heading": "Secção I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "642554887a7e2431": {
+   "fragment_id": "Artigo 1.º — Estabelecimento",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estabelecimento\n\n1. A União conduz uma Missão no âmbito da Política Comum de Segurança e Defesa (PCSD) com o objetivo estratégico de ajudar os países da África Ocidental do Golfo da Guiné em que essa Missão se encontre estabelecida a desenvolver as capacidades adequadas entre as suas forças de segurança e defesa para conter e responder à pressão exercida por grupos armados terroristas.\n\n2. A Missão a que se refere o n.º 1 é denominada «Iniciativa da União Europeia em matéria de Segurança e Defesa em apoio aos países da África Ocidental do Golfo da Guiné» (a «Iniciativa»).\n\n3. A Iniciativa é estabelecida no Benim e no Gana.\n\n4. O Conselho pode decidir que a Iniciativa seja também estabelecida noutros países da África Ocidental do Golfo da Guiné enunciados no conceito de gestão de crises para uma eventual parceria em matéria de segurança e defesa com os países da África Ocidental do Golfo da Guiné, aprovado pelo Conselho em 29 de junho de 2023, a convite desses países."
+  },
+  "637e75fd10f96351": {
+   "fragment_id": "Artigo 2.º — Mandato",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Mandato\n\n1. Na prossecução do objetivo estratégico estabelecido no artigo 1.º, n.º 1, no que diz respeito aos países referidos no artigo 1.º, n.º 3, a Iniciativa:\n\na) Contribui para reforçar a resiliência nas zonas vulneráveis das suas regiões setentrionais através do desenvolvimento das capacidades das suas forças de segurança e defesa;\n\nb) Ministra formação operacional antes do destacamento às suas forças de segurança e defesa;\n\nc) Apoia o reforço em domínios técnicos das suas forças de segurança e defesa;\n\nd) Promove o Estado de direito e a boa governação nos seus setores da segurança, centrando-se nas suas forças de segurança e defesa, e apoia o reforço da confiança entre a sociedade civil e as forças de segurança e defesa.\n\n2. O direito internacional humanitário, os direitos humanos e o princípio da igualdade de género, a proteção da população civil e as agendas decorrentes da Resolução do Conselho de Segurança das Nações Unidas (CSNU) 1325 (2000) sobre as Mulheres, a Paz e a Segurança, da Resolução do CSNU 2250 (2015) sobre a Juventude, a Paz e a Segurança e da Resolução do CSNU 1612 (2005) sobre as Crianças e os Conflitos Armados são integrados plenamente e de uma forma proativa no planeamento estratégico e operacional, nas atividades e nos relatórios da Iniciativa.\n\n3. Numa abordagem flexível e modular, e na medida do necessário para a execução das suas tarefas, a Iniciativa, em especial, destaca equipas de formação móveis, peritos convidados e equipas de resposta a situações de crise para os países referidos no artigo 1.º, n.º 3. A Iniciativa executa projetos civis e militares nesses países na prossecução do seu objetivo estratégico definido no artigo 1.º, n.º 1, e das tarefas definidas no artigo 2.º, n.º 1.\n\n4. A Iniciativa facilita a execução de medidas de assistência no âmbito do Mecanismo Europeu de Apoio à Paz, que podem ser decididas pelo Conselho em apoio aos países referidos no artigo 1.º, n.º 3."
+  },
+  "0cd0c67d84f58838": {
+   "fragment_id": "Artigo 3.º — Controlo político e direção estratégica",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Controlo político e direção estratégica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Controlo político e direção estratégica\n\n1. Sob a responsabilidade do Conselho e do alto representante da União para os Negócios Estrangeiros e a Política de Segurança (o «alto representante»), o Comité Político e de Segurança (CPS) exerce o controlo político e a direção estratégica da Iniciativa. O Conselho autoriza o CPS a tomar as decisões pertinentes nos termos do artigo 38.º do Tratado da União Europeia (TUE). Essa autorização inclui o poder de alterar os documentos de planeamento, incluindo o Plano Operacional para o pilar civil da Iniciativa e o plano da missão para o pilar militar, bem como a cadeia de comando. Inclui igualmente o poder para tomar decisões sobre a nomeação dos chefes das células civil e militar de comando e apoio. O Conselho continua investido dos poderes de decisão no que diz respeito aos objetivos e ao termo da Iniciativa.\n\n2. O Comité Político e de Segurança informa periodicamente o Conselho.\n\n3. O CPS recebe periodicamente da parte do Presidente do Comité Militar da UE (CMUE) relatórios sobre as atividades do pilar militar da Iniciativa. O CPS recebe periodicamente da parte do comandante de operação civil relatórios sobre as atividades do pilar civil da Iniciativa. O CPS pode convidar o comandante de operação civil e o comandante militar a participar nas suas reuniões, sempre que adequado."
+  },
+  "9b3cc22f23ade707": {
+   "fragment_id": "Artigo 4.º — Cadeia de comando e estrutura",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Cadeia de comando e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cadeia de comando e estrutura\n\n1. Enquanto operação de gestão de crises, a Iniciativa dispõe de uma cadeia de comando unificada.\n\n2. A Iniciativa tem sede em Bruxelas.\n\n3. A Iniciativa comporta um pilar civil sob o comando e controlo estratégicos do comandante de operação civil (o «pilar civil»), e um pilar militar sob o comando e controlo estratégicos do comandante militar (o «pilar militar»).\n\n4. A Célula Conjunta de Coordenação do Apoio, copresidida no âmbito da Iniciativa pelo comandante de operação civil e pelo comandante militar, asseguram a unidade da cadeia de comando."
+  },
+  "f0e23992e15f2500": {
+   "fragment_id": "Secção II",
+   "type": "divisao",
+   "heading": "Secção II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção II"
+  },
+  "cc3ebfd701fa0967": {
+   "fragment_id": "Pilar civil",
+   "type": "divisao",
+   "heading": "Pilar civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Pilar civil"
+  },
+  "2e196d2af6ca0135": {
+   "fragment_id": "Artigo 5.º — Comandante de operação civil",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Comandante de operação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comandante de operação civil\n\n1. O diretor-executivo da Capacidade Civil de Planeamento e Condução (CCPC) é o comandante de operação civil para o pilar civil.\n\n2. A CCPC é posta à disposição do comandante de operação civil para efeitos da planificação e condução do pilar civil.\n\n3. O comandante de operação civil exerce o comando e o controlo a nível estratégico do pilar civil, sob o controlo político e a direção estratégica do CPS e sob a autoridade geral do alto representante.\n\n4. O comandante de operação civil assegura a execução adequada e eficaz das decisões do Conselho, assim como das decisões do CPS, no que respeita à condução das operações, designadamente emitindo instruções a nível estratégico dirigidas ao pessoal do pilar civil, conforme necessário, e prestando-lhes aconselhamento e apoio técnico.\n\n5. O comandante de operação civil apresenta relatório ao Conselho por intermédio do alto representante.\n\n6. Todos os membros do pessoal destacados no pilar civil permanecem inteiramente sob o comando das autoridades nacionais do Estado que os destacou de acordo com as regras nacionais, ou da instituição da União em causa ou do Serviço Europeu para a Ação Externa (SEAE), consoante o caso. As autoridades nacionais, instituição da União ou o SEAE, consoante o caso, transferem o controlo operacional do seu pessoal para o comandante de operação civil.\n\n7. O comandante de operação civil é globalmente responsável por assegurar que o dever de diligência da União relativamente ao pessoal do pilar civil seja corretamente cumprido.\n\n8. O comandante de operação civil e os chefes das Delegações da União nos países referidos no artigo 1.º, n.º 3, consultam-se mutuamente, na medida do necessário."
+  },
+  "86539ec30d9e00bf": {
+   "fragment_id": "Artigo 6.º — Chefe da célula civil de comando e apoio",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Chefe da célula civil de comando e apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Chefe da célula civil de comando e apoio\n\n1. A CCPC é reforçada, para efeitos da Iniciativa, por uma célula civil de comando e apoio.\n\n2. O chefe desta célula civil de comando e apoio assume a responsabilidade pelo pilar civil e exerce o seu comando e controlo, a nível operacional. O chefe da célula civil de comando e apoio é diretamente responsável perante o comandante de operação civil e atua de acordo com as instruções do comandante de operação civil.\n\n3. O chefe da célula civil de comando e apoio é o representante do pilar civil no seu domínio de responsabilidade.\n\n4. O chefe da célula civil de comando e apoio exerce a responsabilidade administrativa e logística pelo pilar civil, designadamente a responsabilidade no que respeita aos meios, recursos e informações postos à disposição do pilar civil. O chefe da célula civil de comando e apoio pode delegar funções de gestão relacionadas com questões de pessoal e financeiras em membros do pessoal do pilar civil, sob a responsabilidade geral do chefe da célula civil de comando e apoio.\n\n5. O chefe da célula civil de comando e apoio é responsável pelo controlo disciplinar do pessoal do pilar civil. No que respeita ao pessoal destacado, a ação disciplinar é exercida pela autoridade nacional do Estado em causa de acordo com as suas regras nacionais, pela instituição da União em causa ou pelo SEAE, consoante o caso.\n\n6. O chefe da célula civil de comando e apoio assegura uma visibilidade adequada do pilar civil."
+  },
+  "523999240c468cec": {
+   "fragment_id": "Artigo 7.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pessoal\n\n1. O pilar civil é predominantemente constituído por pessoal destacado pelos Estados-Membros, pelas instituições da União ou pelo SEAE. Cada Estado-Membro, cada instituição da União e o SEAE suportam os custos relacionados com qualquer membro do pessoal que destacarem, incluindo as despesas de deslocação para o local de destacamento e a partir deste último, os salários, a cobertura médica e os subsídios, com exceção das ajudas de custo diárias.\n\n2. O Estado-Membro, a instituição da União ou o SEAE, consoante o caso, respondem por todas as reclamações relacionadas com o destacamento apresentadas pelos seus membros do pessoal destacados para o pilar civil ou que lhes digam respeito, e são responsáveis por quaisquer medidas que seja necessário tomar contra essas pessoas.\n\n3. O pilar civil pode recrutar, numa base contratual, pessoal internacional e local, caso as funções requeridas não possam ser asseguradas pelo pessoal destacado pelos Estados-Membros. Excecionalmente, em casos devidamente justificados e caso não existam candidatos qualificados dos Estados-Membros, podem ser recrutados numa base contratual nacionais dos Estados terceiros participantes.\n\n4. As condições de emprego, os direitos e as obrigações do pessoal internacional e local no pilar civil são estipulados nos contratos celebrados entre o pilar civil e os membros do pessoal em causa."
+  },
+  "77eed8ccea8e33e1": {
+   "fragment_id": "Artigo 8.º — Segurança",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Segurança\n\n1. O comandante de operação civil dirige o trabalho de planeamento das medidas de segurança para o pilar civil e assegura a sua aplicação correta e eficaz pela Iniciativa, nos termos do artigo 5.º.\n\n2. O chefe da célula civil de comando e apoio é responsável pela segurança do pilar civil e pela observância dos requisitos mínimos de segurança que lhe são aplicáveis, em consonância com a política da União em matéria de segurança do pessoal destacado no exterior da União com funções operacionais ao abrigo do título V do TUE, e seus instrumentos de apoio.\n\n3. Antes de tomar posse, o pessoal do pilar civil deve obrigatoriamente receber formação em matéria de segurança, de acordo com o Plano Operacional. Deve ser-lhe também ministrada periodicamente, no teatro de operações, formação de reciclagem organizada pelo funcionário encarregado da segurança.\n\n4. O comandante de operação civil assegura a proteção das informações classificadas da UE, de acordo com a Decisão 2013/488/UE do Conselho [([^2])](http://publications.europa.eu/resource/cellar/900b0859-3262-11ee-83b8-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2023196PT.01002501-E0002)."
+  },
+  "ab506c7b77449127": {
+   "fragment_id": "Artigo 9.º — Disposições jurídicas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Disposições jurídicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições jurídicas\n\nO pilar civil tem a capacidade de adquirir serviços e fornecimentos, celebrar contratos e convénios administrativos, contratar pessoal, ser titular de contas bancárias, adquirir e alienar bens, liquidar obrigações e comparecer em juízo, na medida do que for necessário à execução da presente decisão."
+  },
+  "b4a6b501f12bf750": {
+   "fragment_id": "Artigo 10.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições financeiras\n\n1. O montante de referência financeira destinado a cobrir as despesas relativas ao pilar civil durante os seis meses subsequentes à entrada em vigor da presente decisão é de 1 075 000 EUR. O montante de referência financeira para os períodos subsequentes é determinado pelo Conselho.\n\n2. Todas as despesas para o pilar civil são geridas de acordo com os procedimentos e as regras aplicáveis ao orçamento geral da União. A participação de pessoas singulares e coletivas na adjudicação de contratos pelo pilar civil será aberta sem limitações. Além disso, não é aplicável qualquer regra de origem a produtos adquiridos pelo pilar civil. Sob reserva de aprovação da Comissão, o pilar civil pode celebrar acordos técnicos com os Estados-Membros, os países referidos no artigo 1.º, n.º 3, os Estados terceiros participantes e outros intervenientes internacionais no que diz respeito ao fornecimento de equipamento, serviços e instalações ao pilar civil.\n\n3. O pilar civil é responsável pela execução do seu orçamento. Para o efeito, o pilar civil da Iniciativa assina um acordo com a Comissão. As disposições financeiras respeitam a cadeia de comando prevista nos artigos 4.º, 5.° e 6.° e as necessidades operacionais da Iniciativa.\n\n4. O pilar civil responde plenamente perante a Comissão, que a supervisiona, no que se refere às atividades financeiras empreendidas no âmbito do acordo a que se refere o n.º 3.\n\n5. As despesas relacionadas com o pilar civil são elegíveis a partir da data de adoção da presente decisão."
+  },
+  "71485d5031a4eec8": {
+   "fragment_id": "Artigo 11.º — Célula de projetos civis",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Célula de projetos civis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Célula de projetos civis\n\n1. O pilar civil dispõe de uma célula de projetos civis para identificar e executar projetos civis em apoio das suas funções definidas no artigo 2.º, n.º 1.\n\n2. Na medida do necessário, a célula civil de projetos facilita e presta aconselhamento sobre projetos executados pelos Estados-Membros e Estados terceiros, sob a respetiva responsabilidade, em domínios relacionados com o pilar civil e que promovam os seus objetivos.\n\n3. Sob reserva do n.º 5, o pilar civil fica autorizada a recorrer a contribuições financeiras dos Estados-Membros ou de Estados terceiros para executar projetos identificados que completem de forma coerente as demais ações levadas a cabo pela Iniciativa nos casos seguintes, se o projeto:\n\na) Se encontrar previsto na ficha financeira relativa à presente decisão; ou\n\nb) For integrado no decurso do mandato da Iniciativa mediante alteração, a pedido do comandante de operação civil, dessa ficha financeira.\n\n4. O pilar civil celebra um convénio com as autoridades competentes dos Estados a que se refere no n.º 3, que regule, em particular, as modalidades específicas para dar resposta a todas as queixas apresentadas por terceiros por prejuízos causados por atos ou omissões do pilar civil da Iniciativa na utilização dos fundos colocados à sua disposição por esses Estados.\n\n5. Em caso algum a União ou o alto representante podem ser tidos por responsáveis pelos Estados a que se refere no n.º 3 por atos ou omissões do pilar civil na utilização dos fundos colocados à disposição por esses Estados.\n\n6. O CPS dá o seu acordo à aceitação de uma contribuição financeira de Estados terceiros para a célula de projetos civis."
+  },
+  "031210ebd25a3eb9": {
+   "fragment_id": "Secção III",
+   "type": "divisao",
+   "heading": "Secção III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção III"
+  },
+  "67bdca889ed4fe0d": {
+   "fragment_id": "Pilar militar",
+   "type": "divisao",
+   "heading": "Pilar militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Pilar militar"
+  },
+  "c06ec20a6d358c4d": {
+   "fragment_id": "Artigo 12.º — Comandante militar",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Comandante militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comandante militar\n\n1. O diretor da Capacidade Militar de Planeamento e Condução (CMPC) é o comandante militar responsável para o pilar militar.\n\n2. A CMPC é a estrutura fixa de comando e controlo a nível estratégico militar fora da zona de operações, e será responsável pelo planeamento e pela condução das operações do pilar militar.\n\n3. O comandante militar exerce o comando e o controlo do pilar militar a nível estratégico, sob o controlo político e a direção estratégica do CPS e sob a autoridade geral do alto representante.\n\n4. O comandante militar assegura a execução correta e eficaz das decisões do Conselho e do CPS no que respeita à condução das operações do pilar militar, nomeadamente através de instruções dirigidas ao seu pessoal.\n\n5. O comandante militar apresenta relatórios ao Conselho por intermédio do alto representante.\n\n6. A totalidade do pessoal destacado para o pilar militar permanece inteiramente sob o comando das autoridades nacionais do Estado que o destacou de acordo com as regras nacionais, ou da instituição da União em causa ou do SEAE, consoante o caso. A autoridade nacional, instituição da União ou o SEAE, consoante o caso, transferem o controlo operacional do seu pessoal para o comandante militar.\n\n7. O comandante militar é globalmente responsável por assegurar que o dever de diligência da União relativamente ao pessoal do pilar militar seja corretamente cumprido."
+  },
+  "220951e5d3b592d9": {
+   "fragment_id": "Artigo 13.º — Chefe da célula militar de comando e apoio",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Chefe da célula militar de comando e apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Chefe da célula militar de comando e apoio\n\n1. A CMPC é reforçada, para efeitos da Iniciativa, por uma célula militar de comando e apoio.\n\n2. O chefe desta célula militar de comando e apoio assume a responsabilidade pelo pilar militar e exerce o seu comando e controlo, a nível operacional.\n\n3. O chefe da célula militar de comando e apoio responde diretamente perante o comandante militar e atua de acordo com as instruções do comandante militar."
+  },
+  "9cbff246a7483c08": {
+   "fragment_id": "Artigo 14.º — Direção militar",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Direção militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direção militar\n\n1. O CMUE monitoriza a correta execução das tarefas pelo pilar militar, conduzidas sob a responsabilidade do comandante militar.\n\n2. O CMUE recebe periodicamente relatórios da parte do comandante militar. O CMUE pode convidar o comandante militar e o chefe da célula militar comando e apoio para as suas reuniões, se for caso disso.\n\n3. O presidente do CMUE atua como ponto principal de contacto com o comandante militar."
+  },
+  "f73f7f7b79f60e0a": {
+   "fragment_id": "Artigo 15.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições financeiras\n\n1. Os custos comuns do pilar militar são administrados em conformidade com a Decisão (PESC) 2021/509.\n\n2. O montante de referência financeira para os custos comuns do pilar militar para o período de seis meses após a entrada em vigor da presente decisão é de 179 000 EUR. A percentagem do montante de referência a que se refere o artigo 51.º, n.º 2, da Decisão (PESC) 2021/509 é de 30 % em autorizações e 15 % para pagamentos. O montante de referência financeira para os períodos subsequentes é determinado pelo Conselho."
+  },
+  "3372ad59603318c5": {
+   "fragment_id": "Artigo 16.º — Célula de projetos militares",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Célula de projetos militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Célula de projetos militares\n\n1. O pilar militar dispõe de uma célula de projetos militares para identificar e executar projetos com implicações militares em apoio das suas funções definidas no artigo 2.º, n.º 1.\n\n2. Na medida do necessário, a célula de projetos militares facilita e presta aconselhamento sobre projetos executados pelos Estados-Membros e Estados terceiros, sob a respetiva responsabilidade, em domínios relacionados com o pilar militar e que promovem os seus objetivos.\n\n3. Sob reserva do n.º 5, o comandante militar fica autorizado a recorrer a contribuições financeiras dos Estados-Membros ou de Estados terceiros para executar projetos identificados como complemento coerente das demais ações do pilar militar.\n\n4. O Mecanismo Europeu de Apoio à Paz pode gerir as contribuições financeiras referidas no n.º 3 do presente artigo em conformidade com o artigo 30.º da Decisão (PESC) 2021/509.\n\n5. Em caso algum a União ou o alto representante podem ser tidos por responsáveis pelos Estados a que se refere o n.º 3 por atos ou omissões do comandante militar na utilização dos fundos provenientes dos referidos Estados.\n\n6. O CPS dá o seu acordo à aceitação de uma contribuição financeira de Estados terceiros para a célula militar de projetos."
+  },
+  "8c8356a88b2882dd": {
+   "fragment_id": "Secção IV",
+   "type": "divisao",
+   "heading": "Secção IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção IV"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "81c2f2e6dbcd5e86": {
+   "fragment_id": "Artigo 17.º — Coerência da resposta da União e coordenação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Coerência da resposta da União e coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Coerência da resposta da União e coordenação\n\n1. O alto representante assegura a execução da presente decisão, bem como a sua coerência com a ação externa da União no seu conjunto, incluindo os programas de desenvolvimento da União e os seus programas de assistência humanitária.\n\n2. O comandante de operação civil, o comandante militar e os chefes das Delegações da União nos países a que se refere o artigo 1.º, n.º 3, consultam-se mutuamente, na medida do necessário.\n\n3. Sem prejuízo da cadeia de comando, os chefes da célula civil e militar de comando e apoio recebem orientações políticas a nível local da parte dos chefes das delegações da União nos países referidos no artigo 1.º, n.º 3.\n\n4. Sem prejuízo da cadeia de comando, o pessoal destacado numa delegação da União num país referido no artigo 1.º, n.º 3, recebe orientações políticas a nível local da parte do chefe dessa delegação.\n\n5. A Iniciativa coordena as suas atividades com as atividades bilaterais dos Estados-Membros no domínio da segurança e da defesa nos países referidos no artigo 1.º, n.º 3, e, se for caso disso, com parceiros e organizações regionais, em especial a Comunidade Económica dos Estados da África Ocidental e a Iniciativa de Acra."
+  },
+  "b41181b8677c8828": {
+   "fragment_id": "Artigo 18.º — Participação de Estados terceiros",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Participação de Estados terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Participação de Estados terceiros\n\n1. Sem prejuízo da autonomia decisória da União e do seu quadro institucional único, e de acordo com as orientações pertinentes do Conselho Europeu, Estados terceiros podem ser convidados a participar na Iniciativa.\n\n2. O Conselho autoriza o CPS a convidar Estados terceiros a oferecer o seu contributo e a tomar decisões pertinentes quanto à aceitação dos contributos propostos, sob recomendação do comandante militar e do CMUE, ou do comandante de operação civil, respetivamente.\n\n3. As modalidades exatas da participação de Estados terceiros são objeto de acordos a celebrar ao abrigo do artigo 37.º do TUE e nos termos do procedimento previsto no artigo 218.º do Tratado sobre o Funcionamento da União Europeia (TFUE). Sempre que a União e um Estado terceiro tenham celebrado um acordo que estabeleça um enquadramento para a participação desse Estado nas missões da União no domínio da gestão de crises, as disposições desse acordo são aplicáveis no contexto da Iniciativa.\n\n4. Os Estados terceiros que efetuam contribuições para o pilar civil ou contribuições militares significativas para o pilar militar têm os mesmos direitos e obrigações, em termos de gestão corrente da Iniciativa, que os Estados-Membros que participam na Iniciativa.\n\n5. O Conselho autoriza o CPS a tomar as decisões pertinentes sobre a criação de um comité de contribuintes civil ou militar, caso os Estados terceiros efetuem contribuições para o pilar civil ou contribuições militares significativas para o pilar militar."
+  },
+  "6b07f79cb97756cc": {
+   "fragment_id": "Artigo 19.º — Estatuto da Iniciativa e do seu pessoal",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Estatuto da Iniciativa e do seu pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Estatuto da Iniciativa e do seu pessoal\n\nO estatuto da Iniciativa e do seu pessoal, incluindo os privilégios, as imunidades e outras garantias necessárias à realização e ao bom funcionamento da sua missão, é objeto de um acordo celebrado pela União com cada um dos países referidos no artigo 1.º, n.º 3, em aplicação do artigo 37.º do TUE e em conformidade com o procedimento previsto no artigo 218.º do TFUE."
+  },
+  "b1c3e146bb139ce0": {
+   "fragment_id": "Artigo 20.º — Divulgações de informações",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Divulgações de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Divulgações de informações\n\n1. O alto representante fica autorizado a comunicar aos Estados terceiros associados à presente decisão, quando adequado e em função das necessidades da Iniciativa, informações classificadas da UE produzidas para efeitos da Iniciativa, nos termos da Decisão 2013/488/UE:\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em causa; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» nos outros casos.\n\n2. Em caso de necessidade operacional específica e imediata, o alto representante fica igualmente autorizado a comunicar ao Estado pertinente referido no artigo 1.º, n.º 3, quaisquer informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» produzidas para efeitos da Iniciativa, nos termos da Decisão 2013/488/UE. Para esse efeito, são estabelecidos acordos entre o alto representante e as autoridades competentes daquele Estado.\n\n3. O alto representante fica autorizado a divulgar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à Iniciativa e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho [([^3])](http://publications.europa.eu/resource/cellar/900b0859-3262-11ee-83b8-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2023196PT.01002501-E0003).\n\n4. O alto representante pode delegar os poderes previstos nos n.^os^ 1 a 3, bem como a capacidade de celebrar os acordos a que se refere o n.º 2, no pessoal do SEAE, no comandante de operação civil ou no comandante militar."
+  },
+  "8632ce84b2d15a84": {
+   "fragment_id": "Artigo 21.º — Planeamento e lançamento da Iniciativa",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Planeamento e lançamento da Iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Planeamento e lançamento da Iniciativa\n\nA decisão de lançar a Iniciativa é adotada pelo Conselho após a aprovação do plano de operações para o pilar civil e do plano de missão, incluindo as regras de empenhamento, para o pilar militar."
+  },
+  "a65f135da77a5828": {
+   "fragment_id": "Artigo 22.º — Entrada em vigor e cessação da vigência",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Entrada em vigor e cessação da vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor e cessação da vigência\n\n1. A presente decisão entra em vigor na data da sua adoção.\n\n2. A presente decisão é aplicável por um período de dois anos a contar da data de lançamento da Iniciativa nos termos do artigo 21.º.\n\n3. A presente decisão é revogada em conformidade com os planos aprovados para a cessação da Iniciativa e sem prejuízo dos procedimentos relativos à auditoria e apresentação das contas do pilar militar, estabelecidos na Decisão (PESC) 2021/509.\n\nFeito em Bruxelas, em 3 de agosto de 2023.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**P. NAVARRO RÍOS**\n\n---"
+  },
+  "f7f63ef11e1fea36": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/900b0859-3262-11ee-83b8-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2023196PT.01002501-E0001) Decisão (PESC) 2021/509 do Conselho, de 22 de março de 2021, que cria um Mecanismo Europeu de Apoio à Paz, e revoga a Decisão (PESC) 2015/528 ([JO L 102 de 24.3.2021, p. 14](http://publications.europa.eu/resource/oj/JOL_2021_102_R_TOC)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/900b0859-3262-11ee-83b8-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2023196PT.01002501-E0002) Decisão 2013/488/UE do Conselho, de 23 de setembro de 2013, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE ([JO L 274 de 15.10.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_274_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/900b0859-3262-11ee-83b8-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2023196PT.01002501-E0003) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o seu Regulamento Interno ([JO L 325 de 11.12.2009, p. 35](http://publications.europa.eu/resource/oj/JOL_2009_325_R_TOC))."
+  },
+  "2381c6609551c4d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de agosto de 2023\n\nrelativa a uma Iniciativa da União Europeia em matéria de Segurança e Defesa em apoio aos países da África Ocidental do Golfo da Guiné"
+  },
+  "4931fc2c195c6286": {
+   "fragment_id": "Artigo 1.º — Estabelecimento",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estabelecimento\n\n1. A União conduz uma Missão no âmbito da Política Comum de Segurança e Defesa (PCSD) com o objetivo estratégico de ajudar os países da África Ocidental do Golfo da Guiné em que essa Missão se encontre estabelecida a desenvolver as capacidades adequadas entre as suas forças de segurança e defesa para conter e responder à pressão exercida por grupos armados terroristas.\n\n2. A Missão a que se refere o n.º 1 é denominada “Iniciativa da União Europeia em matéria de Segurança e Defesa em apoio aos países da África Ocidental do Golfo da Guiné” (a “Iniciativa”).\n\n3. A Iniciativa é estabelecida no Benim, na Costa do Marfim, no Gana e no Togo."
+  },
+  "d10c82b1ffa77b1a": {
+   "fragment_id": "Artigo 2.º — Mandato",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Mandato\n\n1.\n\nNa prossecução do objetivo estratégico estabelecido no artigo 1.º, n.º 1, no que diz respeito aos países referidos no artigo 1.º, n.º 3, a Iniciativa:\n\na) Contribui para reforçar a resiliência nas zonas vulneráveis das suas regiões setentrionais através do desenvolvimento das capacidades das suas forças de segurança e defesa;\n\nb) Ministra formação operacional antes do destacamento às suas forças de segurança e defesa;\n\nc) Apoia o reforço em domínios técnicos das suas forças de segurança e defesa;\n\nd) Promove o Estado de direito e a boa governação nos seus setores da segurança, centrando-se nas suas forças de segurança e defesa, e apoia o reforço da confiança entre a sociedade civil e as forças de segurança e defesa.\n\n2. O direito internacional humanitário, os direitos humanos e o princípio da igualdade de género, a proteção da população civil e as agendas decorrentes da Resolução do Conselho de Segurança das Nações Unidas (CSNU) 1325 (2000) sobre as Mulheres, a Paz e a Segurança, da Resolução do CSNU 2250 (2015) sobre a Juventude, a Paz e a Segurança e da Resolução do CSNU 1612 (2005) sobre as Crianças e os Conflitos Armados são integrados plenamente e de uma forma proativa no planeamento estratégico e operacional, nas atividades e nos relatórios da Iniciativa.\n\n3. Numa abordagem flexível e modular, e na medida do necessário para a execução das suas tarefas, a Iniciativa, em especial, destaca equipas de formação móveis, peritos convidados e equipas de resposta a situações de crise para os países referidos no artigo 1.º, n.º 3. A Iniciativa executa projetos civis e militares nesses países na prossecução do seu objetivo estratégico definido no artigo 1.º, n.º 1, e das tarefas definidas no artigo 2.º, n.º 1.\n\n4. A Iniciativa facilita a execução de medidas de assistência no âmbito do Mecanismo Europeu de Apoio à Paz, que podem ser decididas pelo Conselho em apoio aos países referidos no artigo 1.º, n.º 3."
+  },
+  "cbea404fa4fc19fe": {
+   "fragment_id": "Artigo 8.º — Segurança",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Segurança\n\n1. O comandante de operação civil dirige o trabalho de planeamento das medidas de segurança para o pilar civil e assegura a sua aplicação correta e eficaz pela Iniciativa, nos termos do artigo 5.º.\n\n2. O chefe da célula civil de comando e apoio é responsável pela segurança do pilar civil e pela observância dos requisitos mínimos de segurança que lhe são aplicáveis, em consonância com a política da União em matéria de segurança do pessoal destacado no exterior da União com funções operacionais ao abrigo do título V do TUE, e seus instrumentos de apoio.\n\n3. Antes de tomar posse, o pessoal do pilar civil deve obrigatoriamente receber formação em matéria de segurança, de acordo com o Plano Operacional. Deve ser-lhe também ministrada periodicamente, no teatro de operações, formação de reciclagem organizada pelo funcionário encarregado da segurança.\n\n4. O comandante de operação civil assegura a proteção das informações classificadas da UE, de acordo com a Decisão 2013/488/UE do Conselho ([^1^](http://publications.europa.eu/resource/cellar/015aeb27-6d54-11ee-9220-01aa75ed71a1.0014.02/DOC_1#E0001))."
+  },
+  "98cd27630d91e559": {
+   "fragment_id": "Artigo 11.º — Célula de projetos civis",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Célula de projetos civis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Célula de projetos civis\n\n1. O pilar civil dispõe de uma célula de projetos civis para identificar e executar projetos civis em apoio das suas funções definidas no artigo 2.º, n.º 1.\n\n2. Na medida do necessário, a célula civil de projetos facilita e presta aconselhamento sobre projetos executados pelos Estados-Membros e Estados terceiros, sob a respetiva responsabilidade, em domínios relacionados com o pilar civil e que promovam os seus objetivos.\n\n3.\n\nSob reserva do n.º 5, o pilar civil fica autorizada a recorrer a contribuições financeiras dos Estados-Membros ou de Estados terceiros para executar projetos identificados que completem de forma coerente as demais ações levadas a cabo pela Iniciativa nos casos seguintes, se o projeto:\n\na) Se encontrar previsto na ficha financeira relativa à presente decisão; ou\n\nb) For integrado no decurso do mandato da Iniciativa mediante alteração, a pedido do comandante de operação civil, dessa ficha financeira.\n\n4. O pilar civil celebra um convénio com as autoridades competentes dos Estados a que se refere no n.º 3, que regule, em particular, as modalidades específicas para dar resposta a todas as queixas apresentadas por terceiros por prejuízos causados por atos ou omissões do pilar civil da Iniciativa na utilização dos fundos colocados à sua disposição por esses Estados.\n\n5. Em caso algum a União ou o alto representante podem ser tidos por responsáveis pelos Estados a que se refere no n.º 3 por atos ou omissões do pilar civil na utilização dos fundos colocados à disposição por esses Estados.\n\n6. O CPS dá o seu acordo à aceitação de uma contribuição financeira de Estados terceiros para a célula de projetos civis."
+  },
+  "f421613a446a0d7c": {
+   "fragment_id": "Artigo 20.º — Divulgações de informações",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Divulgações de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Divulgações de informações\n\n1.\n\nO alto representante fica autorizado a comunicar aos Estados terceiros associados à presente decisão, quando adequado e em função das necessidades da Iniciativa, informações classificadas da UE produzidas para efeitos da Iniciativa, nos termos da Decisão 2013/488/UE:\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em causa; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» nos outros casos.\n\n2. Em caso de necessidade operacional específica e imediata, o alto representante fica igualmente autorizado a comunicar ao Estado pertinente referido no artigo 1.º, n.º 3, quaisquer informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» produzidas para efeitos da Iniciativa, nos termos da Decisão 2013/488/UE. Para esse efeito, são estabelecidos acordos entre o alto representante e as autoridades competentes daquele Estado.\n\n3. O alto representante fica autorizado a divulgar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à Iniciativa e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho ([^2^](http://publications.europa.eu/resource/cellar/015aeb27-6d54-11ee-9220-01aa75ed71a1.0014.02/DOC_1#E0002)).\n\n4. O alto representante pode delegar os poderes previstos nos n.^os^ 1 a 3, bem como a capacidade de celebrar os acordos a que se refere o n.º 2, no pessoal do SEAE, no comandante de operação civil ou no comandante militar."
+  },
+  "04ce368c35768478": {
+   "fragment_id": "Artigo 22.º — Entrada em vigor e cessação da vigência",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Entrada em vigor e cessação da vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor e cessação da vigência\n\n1. A presente decisão entra em vigor na data da sua adoção.\n\n2. A presente decisão é aplicável por um período de dois anos a contar da data de lançamento da Iniciativa nos termos do artigo 21.º.\n\n3. A presente decisão é revogada em conformidade com os planos aprovados para a cessação da Iniciativa e sem prejuízo dos procedimentos relativos à auditoria e apresentação das contas do pilar militar, estabelecidos na Decisão (PESC) 2021/509.\n\n---"
+  },
+  "d6883d96d8da61e2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/015aeb27-6d54-11ee-9220-01aa75ed71a1.0014.02/DOC_1#src.E0001)) Decisão 2013/488/UE do Conselho, de 23 de setembro de 2013, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE (JO L 274 de 15.10.2013, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/015aeb27-6d54-11ee-9220-01aa75ed71a1.0014.02/DOC_1#src.E0002)) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o seu Regulamento Interno (JO L 325 de 11.12.2009, p. 35)."
+  },
+  "4b5a82cf1aa5b0f8": {
+   "fragment_id": "Artigo 8.º — Segurança",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Segurança\n\n1. O comandante de operação civil dirige o trabalho de planeamento das medidas de segurança para o pilar civil e assegura a sua aplicação correta e eficaz pela Iniciativa, nos termos do artigo 5.º.\n\n2. O chefe da célula civil de comando e apoio é responsável pela segurança do pilar civil e pela observância dos requisitos mínimos de segurança que lhe são aplicáveis, em consonância com a política da União em matéria de segurança do pessoal destacado no exterior da União com funções operacionais ao abrigo do título V do TUE, e seus instrumentos de apoio.\n\n3. Antes de tomar posse, o pessoal do pilar civil deve obrigatoriamente receber formação em matéria de segurança, de acordo com o Plano Operacional. Deve ser-lhe também ministrada periodicamente, no teatro de operações, formação de reciclagem organizada pelo funcionário encarregado da segurança.\n\n4. O comandante de operação civil assegura a proteção das informações classificadas da UE, de acordo com a Decisão 2013/488/UE do Conselho ([^1^](http://publications.europa.eu/resource/cellar/f09ad384-d5a6-11ee-b9d9-01aa75ed71a1.0020.02/DOC_2#E0001))."
+  },
+  "29f7b0bdd98cb287": {
+   "fragment_id": "Artigo 10.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições financeiras\n\n1. O montante de referência financeira destinado a cobrir as despesas relativas ao pilar civil no período compreendido entre 3 de agosto de 2023 e 10 de dezembro de 2025 é de 7 299 839,82 EUR.\n\n2. Todas as despesas para o pilar civil são geridas de acordo com os procedimentos e as regras aplicáveis ao orçamento geral da União. A participação de pessoas singulares e coletivas na adjudicação de contratos pelo pilar civil será aberta sem limitações. Além disso, não é aplicável qualquer regra de origem a produtos adquiridos pelo pilar civil. Sob reserva de aprovação da Comissão, o pilar civil pode celebrar acordos técnicos com os Estados-Membros, os países referidos no artigo 1.º, n.º 3, os Estados terceiros participantes e outros intervenientes internacionais no que diz respeito ao fornecimento de equipamento, serviços e instalações ao pilar civil.\n\n3. O pilar civil é responsável pela execução do seu orçamento. Para o efeito, o pilar civil da Iniciativa assina um acordo com a Comissão. As disposições financeiras respeitam a cadeia de comando prevista nos artigos 4.º, 5.° e 6.° e as necessidades operacionais da Iniciativa.\n\n4. O pilar civil responde plenamente perante a Comissão, que a supervisiona, no que se refere às atividades financeiras empreendidas no âmbito do acordo a que se refere o n.º 3.\n\n5. As despesas relacionadas com o pilar civil são elegíveis a partir da data de adoção da presente decisão."
+  },
+  "ff5c906e912f5012": {
+   "fragment_id": "Artigo 15.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições financeiras\n\n1. Os custos comuns do pilar militar são administrados em conformidade com a Decisão (PESC) 2021/509.\n\n2. O montante de referência financeira para os custos comuns do pilar militar para o período de seis meses após a entrada em vigor da presente decisão é de 179 000 EUR. A percentagem do montante de referência a que se refere o artigo 51.º, n.º 2, da Decisão (PESC) 2021/509 é de 30 % em autorizações e 15 % para pagamentos. O montante de referência financeira para os períodos subsequentes é determinado pelo Conselho.\n\n3. O montante de referência financeira para os custos comuns do pilar militar no período compreendido entre 11 de dezembro de 2023 e 10 de dezembro de 2025 é de 787 000 EUR. A percentagem do montante de referência a que se refere o artigo 51.º, n.º 2, da Decisão (PESC) 2021/509 é de 0 % em autorizações e de 0 % para pagamentos."
+  },
+  "0d43de1b06456e9c": {
+   "fragment_id": "Artigo 20.º — Divulgações de informações",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Divulgações de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Divulgações de informações\n\n1.\n\nO alto representante fica autorizado a comunicar aos Estados terceiros associados à presente decisão, quando adequado e em função das necessidades da Iniciativa, informações classificadas da UE produzidas para efeitos da Iniciativa, nos termos da Decisão 2013/488/UE:\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em causa; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» nos outros casos.\n\n2. Em caso de necessidade operacional específica e imediata, o alto representante fica igualmente autorizado a comunicar ao Estado pertinente referido no artigo 1.º, n.º 3, quaisquer informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» produzidas para efeitos da Iniciativa, nos termos da Decisão 2013/488/UE. Para esse efeito, são estabelecidos acordos entre o alto representante e as autoridades competentes daquele Estado.\n\n3. O alto representante fica autorizado a divulgar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à Iniciativa e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho ([^2^](http://publications.europa.eu/resource/cellar/f09ad384-d5a6-11ee-b9d9-01aa75ed71a1.0020.02/DOC_2#E0002)).\n\n4. O alto representante pode delegar os poderes previstos nos n.^os^ 1 a 3, bem como a capacidade de celebrar os acordos a que se refere o n.º 2, no pessoal do SEAE, no comandante de operação civil ou no comandante militar."
+  },
+  "65c2f2d7af63f6f5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f09ad384-d5a6-11ee-b9d9-01aa75ed71a1.0020.02/DOC_2#src.E0001)) Decisão 2013/488/UE do Conselho, de 23 de setembro de 2013, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE (JO L 274 de 15.10.2013, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f09ad384-d5a6-11ee-b9d9-01aa75ed71a1.0020.02/DOC_2#src.E0002)) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o seu Regulamento Interno (JO L 325 de 11.12.2009, p. 35)."
+  },
+  "6c3228c47cebda6c": {
+   "fragment_id": "Artigo 8.º — Segurança",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Segurança\n\n1. O comandante de operação civil dirige o trabalho de planeamento das medidas de segurança para o pilar civil e assegura a sua aplicação correta e eficaz pela Iniciativa, nos termos do artigo 5.º.\n\n2. O chefe da célula civil de comando e apoio é responsável pela segurança do pilar civil e pela observância dos requisitos mínimos de segurança que lhe são aplicáveis, em consonância com a política da União em matéria de segurança do pessoal destacado no exterior da União com funções operacionais ao abrigo do título V do TUE, e seus instrumentos de apoio.\n\n3. Antes de tomar posse, o pessoal do pilar civil deve obrigatoriamente receber formação em matéria de segurança, de acordo com o Plano Operacional. Deve ser-lhe também ministrada periodicamente, no teatro de operações, formação de reciclagem organizada pelo funcionário encarregado da segurança.\n\n4. O comandante de operação civil assegura a proteção das informações classificadas da UE, de acordo com a Decisão 2013/488/UE do Conselho ([^1^](http://publications.europa.eu/resource/cellar/1f325691-f64e-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#E0001))."
+  },
+  "9f3235364dd55c63": {
+   "fragment_id": "Artigo 10.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições financeiras\n\n1. O montante de referência financeira destinado a cobrir as despesas relativas ao pilar civil no período compreendido entre 3 de agosto de 2023 e 10 de dezembro de 2025 é de 7 299 839,82 EUR.\n\nO montante de referência financeira destinado a cobrir as despesas relativas ao pilar civil no período compreendido entre 11 de dezembro de 2025 e 31 de dezembro de 2027 é de 9 676 375,90 EUR.\n\n2. Todas as despesas para o pilar civil são geridas de acordo com os procedimentos e as regras aplicáveis ao orçamento geral da União. A participação de pessoas singulares e coletivas na adjudicação de contratos pelo pilar civil será aberta sem limitações. Além disso, não é aplicável qualquer regra de origem a produtos adquiridos pelo pilar civil. Sob reserva de aprovação da Comissão, o pilar civil pode celebrar acordos técnicos com os Estados-Membros, os países referidos no artigo 1.º, n.º 3, os Estados terceiros participantes e outros intervenientes internacionais no que diz respeito ao fornecimento de equipamento, serviços e instalações ao pilar civil.\n\n3. O pilar civil é responsável pela execução do seu orçamento. Para o efeito, o pilar civil da Iniciativa assina um acordo com a Comissão. As disposições financeiras respeitam a cadeia de comando prevista nos artigos 4.º, 5.° e 6.° e as necessidades operacionais da Iniciativa.\n\n4. O pilar civil responde plenamente perante a Comissão, que a supervisiona, no que se refere às atividades financeiras empreendidas no âmbito do acordo a que se refere o n.º 3.\n\n5. As despesas relacionadas com o pilar civil são elegíveis a partir da data de adoção da presente decisão."
+  },
+  "615fc443199e800d": {
+   "fragment_id": "Artigo 15.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições financeiras\n\n1. Os custos comuns do pilar militar são administrados em conformidade com a Decisão (PESC) 2021/509.\n\n2. O montante de referência financeira para os custos comuns do pilar militar para o período de seis meses após a entrada em vigor da presente decisão é de 179 000 EUR. A percentagem do montante de referência a que se refere o artigo 51.º, n.º 2, da Decisão (PESC) 2021/509 é de 30 % em autorizações e 15 % para pagamentos. O montante de referência financeira para os períodos subsequentes é determinado pelo Conselho.\n\n3. O montante de referência financeira para os custos comuns do pilar militar no período compreendido entre 11 de dezembro de 2023 e 10 de dezembro de 2025 é de 787 000 EUR. A percentagem do montante de referência a que se refere o artigo 51.º, n.º 2, da Decisão (PESC) 2021/509 é de 0 % em autorizações e de 0 % para pagamentos.\n\n4. O montante de referência financeira para os custos comuns do pilar militar no período compreendido entre 11 de dezembro de 2025 e 31 de dezembro de 2027 é de 10 589 000 EUR. A percentagem do montante de referência a que se refere o artigo 51.º, n.º 2, da Decisão (PESC) 2021/509 é de 0 % em autorizações e 0 % para pagamentos."
+  },
+  "24201572098cb4ab": {
+   "fragment_id": "Artigo 20.º — Divulgações de informações",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Divulgações de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Divulgações de informações\n\n1.\n\nO alto representante fica autorizado a comunicar aos Estados terceiros associados à presente decisão, quando adequado e em função das necessidades da Iniciativa, informações classificadas da UE produzidas para efeitos da Iniciativa, nos termos da Decisão 2013/488/UE:\n\na) Até ao nível previsto nos acordos de segurança das informações aplicáveis celebrados entre a União e o Estado terceiro em causa; ou\n\nb) Até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» nos outros casos.\n\n2. Em caso de necessidade operacional específica e imediata, o alto representante fica igualmente autorizado a comunicar ao Estado pertinente referido no artigo 1.º, n.º 3, quaisquer informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» produzidas para efeitos da Iniciativa, nos termos da Decisão 2013/488/UE. Para esse efeito, são estabelecidos acordos entre o alto representante e as autoridades competentes daquele Estado.\n\n3. O alto representante fica autorizado a divulgar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à Iniciativa e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho ([^2^](http://publications.europa.eu/resource/cellar/1f325691-f64e-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#E0002)).\n\n4. O alto representante pode delegar os poderes previstos nos n.^os^ 1 a 3, bem como a capacidade de celebrar os acordos a que se refere o n.º 2, no pessoal do SEAE, no comandante de operação civil ou no comandante militar."
+  },
+  "28007ecf36d84f1f": {
+   "fragment_id": "Artigo 22.º — Entrada em vigor e cessação da vigência",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Entrada em vigor e cessação da vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor e cessação da vigência\n\n1. A presente decisão entra em vigor na data da sua adoção.\n\n2. A presente decisão é aplicável até 31 de dezembro de 2027.\n\n3. A presente decisão é revogada em conformidade com os planos aprovados para a cessação da Iniciativa e sem prejuízo dos procedimentos relativos à auditoria e apresentação das contas do pilar militar, estabelecidos na Decisão (PESC) 2021/509.\n\n---"
+  },
+  "d24c9700b34c340c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/1f325691-f64e-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Decisão 2013/488/UE do Conselho, de 23 de setembro de 2013, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE (JO L 274 de 15.10.2013, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/1f325691-f64e-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o seu Regulamento Interno (JO L 325 de 11.12.2009, p. 35)."
+  }
+ }
+}

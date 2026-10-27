@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32012L0032:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02012L0032-20160918",
+ "dre_path": null,
+ "source_lastmod": "2016-09-18",
+ "versions": [
+  {
+   "date": "2012-11-10",
+   "future": false,
+   "celex": "32012L0032",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9e58bf3a161a6452",
+    "af7608e8c14a2ae9",
+    "01b29132fc6b5823",
+    "8aee3429abaa0326",
+    "60322c411cd74a04",
+    "5c59d6af619c6802",
+    "07b6e06963b67367"
+   ]
+  }
+ ],
+ "fragments": {
+  "9e58bf3a161a6452": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de outubro de 2012\n\nque altera a Diretiva 96/98/CE do Conselho relativa aos equipamentos marítimos\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 96/98/CE do Conselho, de 20 de dezembro de 1996, relativa aos equipamentos marítimos [([^1])](http://publications.europa.eu/resource/cellar/6c640fb6-2cac-11e2-ad46-01aa75ed71a1.0018.04/DOC_1#ntr1-L_2012312PT.01000101-E0001), nomeadamente o artigo 17.º,\n\nConsiderando o seguinte:\n\n(1) Para os efeitos da Diretiva 96/98/CE, as convenções internacionais e as normas de ensaio são aplicáveis na sua versão atualizada.\n\n(2) Após a adoção do ato mais recente de alteração da Diretiva 96/98/CE, entrou em vigor um conjunto de alterações às convenções internacionais e às normas de ensaio aplicáveis. Essas alterações devem ser incorporadas na Diretiva 96/98/CE.\n\n(3) No mesmo período, a Organização Marítima Internacional e as organizações europeias de normalização adotaram também normas, designadamente normas de ensaio detalhadas, para equipamentos enumerados no anexo A.2 da Diretiva 96/98/CE ou que, não constando dessa enumeração, são considerados importantes para os efeitos da diretiva. Estes equipamentos devem, portanto, ser incorporados no anexo A.1 ou para este transferidos do anexo A.2, consoante o caso.\n\n(4) A Diretiva 96/98/CE deve, por conseguinte, ser alterada.\n\n(5) É razoável permitir que equipamentos recentemente sujeitos a requisitos harmonizados por força da presente diretiva e fabricados antes do termo do prazo para a sua transposição sejam comercializados e colocados a bordo de navios da União Europeia durante um período de transição.\n\n(6) As medidas previstas na presente diretiva estão em conformidade com o parecer do Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS),\n\nADOTOU A PRESENTE DIRETIVA:"
+  },
+  "af7608e8c14a2ae9": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo A da Diretiva 96/98/CE é substituído pelo texto do anexo da presente diretiva."
+  },
+  "01b29132fc6b5823": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs equipamentos que figuram na coluna 1 do anexo A.1 como «novo item» ou como tendo sido transferidos do anexo A.2 e que tenham sido fabricados anteriormente a 30 de novembro de 2013 de acordo com procedimentos de homologação em vigor antes dessa data no território de um Estado-Membro podem continuar a ser comercializados e instalados a bordo de navios da União Europeia até 30 de novembro de 2015."
+  },
+  "8aee3429abaa0326": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros devem adotar e publicar, o mais tardar em 30 de novembro de 2013, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.\n\nOs Estados-Membros devem aplicar as referidas disposições a partir de 30 de novembro de 2013.\n\nAs disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades da referência são adotadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "60322c411cd74a04": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "5c59d6af619c6802": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito em Bruxelas, em 25 de outubro de 2012.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "07b6e06963b67367": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/6c640fb6-2cac-11e2-ad46-01aa75ed71a1.0018.04/DOC_1#ntc1-L_2012312PT.01000101-E0001) [JO L 46 de 17.2.1997, p. 25](http://publications.europa.eu/resource/oj/JOL_1997_046_R_TOC)."
+  }
+ }
+}

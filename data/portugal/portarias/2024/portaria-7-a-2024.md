@@ -1,0 +1,441 @@
+---
+schema_version: '1.0'
+id: pt:dre:836205473:por
+title: Portaria n.º 7-A/2024
+short_title: null
+summary: Define, ao abrigo do artigo 23.º do Regime Jurídico do Serviço Público de Transporte de Passageiros (RJSPTP), aprovado
+  pela Lei n.º 52/2015, de 9 de junho, na sua redação atual, as condições de atribuição dos passes gratuitos para jovens estudantes,
+  nas modalidades sub 18+TP e estudante sub 23+TP, bem como os procedimentos relativos à sua operacionalização e compensação
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros, Finanças, Ambiente e Ação Climática e Coesão Territorial
+proposing_entity: null
+official_number: 7-A/2024
+official_date: null
+publication_date: '2024-01-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05
+  number: '4'
+  series: I
+  supplement: 1º Suplemento
+  pages: 140-(2) a 140-(9)
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/01/00401/0000200009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-07-08'
+version_history:
+  file: portaria-7-a-2024.versoes.json
+  count: 3
+  source_lastmod: '2026-07-16'
+  versions:
+  - date: '2024-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-11-29'
+    amending: pt:dre:898320378:por
+    amending_title: Portaria n.º 307-A/2024/1
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+  - date: '2026-07-08'
+    amending: pt:dre:1144685810:por
+    amending_title: Portaria n.º 287/2026/1
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/7-a/2024/p/cons/20260707/pt/html
+  oj: null
+  dre: '836205473'
+  dre_path: /dr/detalhe/portaria/7-a-2024-836205473
+  internal: pt:dre:836205473:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473
+  metadata_url: https://data.dre.pt/eli/port/7-a/2024/p/cons/20260707/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-836267747
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-836267747
+  retrieved_at: '2026-10-22T13:45:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-07-16T00:00:00Z'
+integrity:
+  source_sha256: 61f7d9c80fdc9178b3189701425637e41e8d3875bde2949e75428b36a92858d7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:45:46Z'
+  notes: 3 versão(ões); histórico completo em portaria-7-a-2024.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ÁREA Metropolitana
+- Titulo de Transporte
+- Criança
+- Comunidade Intermunicipal
+- Direção Geral do Tesouro e Finanças
+- Estudante
+- Jovem
+- Pagamento
+- Instituto da Mobilidade e dos Transportes
+- Transporte de Passageiros
+- Transporte Público
+- Autoridade da Mobilidade e dos Transportes
+relationships:
+- type: amended_by
+  target: pt:dre:898320378:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/307-a-2024-898320378
+  date: '2024-11-28'
+- type: amended_by
+  target: pt:dre:1144685810:por
+  label: Altera Artigo 4.º; Altera Artigo 9.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/287-2026-1144685810
+  date: '2026-07-07'
+- type: cites
+  target: pt:dre:116068879:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/65/2018/08/16/p/dre
+- type: cites
+  target: pt:dre:117008017:por
+  label: null
+  source: http://data.dre.pt/eli/port/298/2018/11/19/p/dre
+- type: cites
+  target: pt:dre:118748848:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/21/2019/01/30/p/dre
+- type: cites
+  target: pt:dre:244881:por
+  label: null
+  source: http://data.dre.pt/eli/port/982-b/2009/09/02/p/dre
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/78/2014/05/14/p/dre
+- type: cites
+  target: pt:dre:538026:por
+  label: null
+  source: http://data.dre.pt/eli/lei/28/2006/07/04/p/dre
+- type: cites
+  target: pt:dre:601694:por
+  label: null
+  source: http://data.dre.pt/eli/port/138/2009/02/03/p/dre
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: http://data.dre.pt/eli/lei/52/2015/06/09/p/dre
+- type: cites
+  target: pt:dre:835864042:por
+  label: null
+  source: http://data.dre.pt/eli/lei/82/2023/12/29/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:45:46Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 7-A/2024
+
+Portaria n.º 7-A/2024
+
+de 5 de janeiro
+
+Sumário: Define, ao abrigo do artigo 23.º do Regime Jurídico do Serviço Público de Transporte de Passageiros (RJSPTP), aprovado pela Lei n.º 52/2015, de 9 de junho, na sua redação atual, as condições de atribuição dos passes gratuitos para jovens estudantes, nas modalidades sub 18+TP e estudante sub 23+TP, bem como os procedimentos relativos à sua operacionalização e compensação.
+
+Os atuais padrões de mobilidade assentam ainda, de forma generalizada, na utilização de veículos particulares. A necessária redução da emissão dos gases com efeito de estufa, que permitirá atingirmos as metas ambientais da neutralidade carbónica, assumidas pelo nosso país, implica uma mudança de comportamentos que passa por incentivar as novas gerações a escolher o transporte público como meio de transporte preferencial.
+
+A Lei do Orçamento do Estado para 2024 prevê a transferência de verba até ao montante de 126 000 000 euros, que se destinam a assegurar a gratuidade dos passes para utilização do transporte público dos jovens estudantes até aos 23 anos.
+
+Para tornar a atribuição deste benefício mais eficiente, importa rever a legislação atual, assegurando uma desburocratização que confira maior agilidade à atribuição deste benefício e uma maior proporcionalidade e justiça na compensação aos operadores que têm a responsabilidade de cumprir com estas obrigações de serviço público.
+
+Assim sendo, tendo em vista desburocratizar a atribuição deste benefício e tendo em conta que a escolaridade é obrigatória para os jovens com idade inferior a 19 anos, estabelece-se que, nestes casos, a apresentação do cartão de cidadão é o comprovativo habilitante e suficiente para ter acesso ao passe gratuito. No caso dos estudantes entre os 19 e os 23 anos, é exigido um comprovativo de inscrição numa unidade de ensino, independentemente de grau de ensino em questão, deixando de existir a restrição que limitava o seu acesso aos estudantes inscritos em instituição de ensino superior.
+
+Procede-se também à eliminação do ónus de prova de que o jovem não tem acesso a outro passe, designadamente a passe de estudante atribuído no âmbito do transporte escolar, o que tornará o acesso ao transporte público gratuito mais universal e permitirá aliviar uma parte significativa dos custos que os municípios têm atualmente como transporte escolar.
+
+No que se refere à abrangência territorial dos passes gratuitos para jovens estudantes, esta deverá assegurar, no mínimo, a realização das deslocações habituais casa-escola, mas possibilita-se que as autoridades de transportes disponibilizem tarifários de abrangência regional, já existentes ou a criar, que proporcionem aos jovens uma mobilidade plena dentro da área metropolitana (AM) ou comunidade intermunicipal (CIM) onde residem.
+
+No sentido de assegurar proporcionalidade nas compensações, impõe-se que cada jovem estudante só possa requisitar um passe, ficando o ónus do incumprimento deste requisito do lado de quem solicita o passe e não dos operadores. Procede-se ainda à implementação de um sistema de compensação aos operadores pela cedência do passe, proporcional à sua efetiva utilização, estipulando que a sua remuneração é efetuada numa base mensal e acautelando que esta medida não virá gerar subcompensações e dificuldades de tesouraria aos operadores e contratos de serviço público em vigor.
+
+A atribuição destes benefícios tem em consideração o estabelecido pela Lei n.º 52/2015, de 9 de junho, na sua redação atual, que procedeu à descentralização do quadro de atribuições e competências do serviço do transporte público de passageiros, competindo às AM e CIM, em articulação com os municípios, a implementação desta portaria. Atribui-se ao Instituto da Mobilidade e dos Transportes, I. P., a competência na agregação da informação a nível nacional e a responsabilidade de assegurar o apoio técnico a estas entidades na operacionalização da presente portaria e à Autoridade de Mobilidade e Transportes a fiscalização e regulação das matérias objeto da presente portaria, no âmbito das suas competências.
+
+Assim, ao abrigo do disposto no artigo 171.º da Lei n.º 82/2023, de 29 de dezembro, conjugado com o artigo 7.º e nos termos do artigo 23.º do Regime Jurídico do Serviço Público de Transporte de Passageiros, aprovado pela Lei n.º 52/2015, de 9 de junho, na sua atual redação, manda o Governo, pela Ministra da Coesão Territorial, pelo Secretário de Estado Adjunto e das Infraestruturas, pelo Secretário de Estado do Tesouro e pelo Secretário de Estado da Mobilidade Urbana, o seguinte:
+
+> Nota: [Artigo 1.º, Portaria n.º 307-A/2024/1 - Diário da República n.º 231/2024, Suplemento, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/portaria/307-a-2024-898320378) Através da Portaria n.º 307-A/2024/1, de 28 de novembro renomeia-se o «passe gratuito para jovens estudantes» para «passe gratuito para jovens».
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria define as condições de atribuição dos passes gratuitos para jovens até aos 23 anos, inclusive, nas modalidades sub18+TP e sub23+TP, designados ‘passes gratuitos para jovens’, bem como os procedimentos relativos à sua operacionalização e compensação.
+
+2 - Os passes gratuitos para jovens têm por objetivo a disponibilização de passes gratuitos a crianças e jovens dos 4 aos 18 anos, inclusive, na modalidade sub18+TP, e a jovens até aos 23 anos, inclusive, na modalidade sub23+TP, designados ‘beneficiários’.
+
+3 - Os passes gratuitos para jovens estudantes são uma modalidade tarifária que confere uma isenção do pagamento dos títulos mensais, intermodais ou monomodais, vigentes nos serviços de transporte público coletivo de passageiros existentes nas áreas geográficas de cada área metropolitana (AM) ou das comunidades intermunicipais (CIM).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307-A/2024/1 - Diário da República n.º 231/2024, Suplemento, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/portaria/307-a-2024-898320378), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-12-01
+
+###### Artigo 2.º — Âmbito
+
+1 - Os passes gratuitos para jovens estudantes incidem sobre os títulos vigentes de transporte público, designados por títulos de referência, cujo preço considera os descontos já promovidos pelos operadores de transportes públicos ou pelas autoridades de transportes, designadamente através do PART - Programa de Apoio à redução tarifária nos Transportes Públicos ou do Programa de Incentivo ao Transporte Público Coletivo de Passageiros (Incentiva+TP), com exceção das situações em que aos títulos correspondam gratuitidades já implementadas pelas autoridades de transportes, casos em que o preço a considerar deve ser o do título de referência com a mesma abrangência geográfica.
+
+2 - Os beneficiários podem optar, em cada momento, por um título de referência, de entre os títulos vigentes, que satisfaça as suas necessidades de deslocação pendular ou pelo título mensal de rede que serve a área geográfica da AM ou da CIM onde residem, quando estes já existam.
+
+3 - Nas áreas geográficas das CIM onde não existem títulos mensais de área ou de rede, os passes gratuitos para jovens podem incidir sobre novos títulos a criar de abrangência regional ou suprarregional, incluindo as AM, não podendo o preço de referência destes títulos ultrapassar respetivamente os 40 euros para deslocações na mesma CIM, de 70 euros para deslocações entre duas CIM e de 110 euros para deslocações que envolvam mais de duas CIM, para efeitos da compensação a atribuir ao abrigo da presente portaria.
+
+4 - Caso o beneficiário, para a realização das suas deslocações pendulares casa-escola ou casa-trabalho, tenha necessidade de utilizar um passe que abranja mais do que uma AM ou CIM, tem de fazer prova de que reside e estuda ou trabalha em regiões distintas e contíguas, nos termos da alínea c) do n.º 1 do artigo 5.º
+
+5 - A gratuitidade para jovens até aos 23 anos não se aplica no caso do passe ferroviário verde.
+
+6 - Os beneficiários não podem beneficiar da gratuitidade de mais de um título em simultâneo, devendo comprometer-se a zelar por este princípio e, em caso de violação desta regra, podem ficar impedidos de aceder ao passe gratuito para os jovens estudantes, nos termos e de acordo com regulamentação a aprovar pelas autoridades de transportes competentes em cada AM ou CIM.
+
+7 - A disponibilização e divulgação dos passes gratuitos para os jovens estudantes é obrigatória, para todas as entidades emissoras de títulos de transporte público, nos termos da Portaria n.º 298/2018, de 19 de novembro, na sua redação atual, nomeadamente operadores de transportes públicos e entidades gestoras de sistemas de bilhética ou outras entidades públicas com competências operacionais em termos de transportes, e deve ser considerada uma obrigação de serviço público conforme previsto no artigo 23.º do Regime Jurídico do Serviço Público de Transporte de Passageiros (RJSPTP), aprovado pela Lei n.º 52/2015, de 9 de junho, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307-A/2024/1 - Diário da República n.º 231/2024, Suplemento, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/portaria/307-a-2024-898320378), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-12-01
+
+###### Artigo 3.º — Beneficiários e direito ao benefício
+
+1 - São beneficiários do passe gratuito para jovens estudantes, na modalidade sub 18+TP, todas as crianças e jovens dos 4 aos 18 anos, sendo o passe válido até ao último dia do mês em que completa 19 anos, sem necessidade de renovação anual.
+
+2 - São beneficiários do passe gratuito para jovens, na modalidade sub23+TP, os jovens dos 18 aos 23 anos, sendo o passe válido até ao último dia do mês em que completa 24 anos, sem necessidade de renovação anual.
+
+3 - Para efeitos do número anterior, os estudantes do ensino superior inscritos em cursos com ciclo de estudos integrado, a que se refere o artigo 19.º do Decreto-Lei n.º 65/2018, de 16 de agosto, beneficiam do acesso ao passe gratuito para jovens estudantes até aos 24 anos, inclusive.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307-A/2024/1 - Diário da República n.º 231/2024, Suplemento, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/portaria/307-a-2024-898320378), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-12-01
+
+###### Artigo 4.º — Entidades competentes
+
+1 - A implementação dos passes gratuitos para os jovens estudantes é da competência das AM e das CIM, nas respetivas áreas geográficas, em articulação com os operadores de transportes e os municípios enquanto autoridades de transportes e titulares de contratos de serviço público.
+
+2 - A entidade responsável pelo financiamento da medida é a Entidade do Tesouro e Finanças (ETF), até ao limite das dotações inscritas no capítulo 60 para o efeito no Orçamento do Estado para cada ano.
+
+3 - A entidade responsável pela agregação da informação a nível nacional é o Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), o qual é também responsável por assegurar o apoio técnico às entidades referidas no número um na operacionalização da presente portaria.
+
+4 - São ainda competentes, no âmbito das respetivas atribuições:
+
+a) A Autoridade da Mobilidade e dos Transportes (AMT), nos termos do Decreto-Lei n.º 78/2014, de 14 de maio, na sua redação atual, da Portaria n.º 298/2018, de 19 de novembro, na sua redação atual, e do Regulamento n.º 430/2019, de 16 de maio;
+
+b) As autoridades de transporte competentes, nos termos do RJSPTP;
+
+c) Os operadores de transportes públicos, os concessionários de transporte público de passageiros e as entidades gestoras de sistemas de bilhética, enquanto entidades emissoras de títulos de transporte público.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 287/2026/1 - Diário da República n.º 129/2026, Série I de 2026-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/287-2026-1144685810), em vigor a partir de 2026-07-08, com efeitos a partir de 2026-07-01.
+
+###### Artigo 5.º — Condições de atribuição dos passes gratuitos para jovens
+
+1 - A disponibilização dos passes gratuitos para os jovens estudantes, é efetuada pelas entidades emissoras de títulos de transporte público, mediante requerimento dos interessados, através do preenchimento do modelo de adesão, devendo aquele requerimento ser acompanhado dos seguintes documentos:
+
+a) Apresentação do cartão de cidadão ou outro documento válido equivalente, que comprove a data de nascimento;
+
+b) (Revogada.)
+
+c) Caso o beneficiário pretenda adquirir um passe que abranja mais do que uma AM ou CIM, deve entregar comprovativo de morada de residência habitual e declaração de matrícula da instituição de ensino onde estuda ou documento comprovativo do local de trabalho.
+
+2 - O modelo de requerimento de adesão, bem como a apresentação dos documentos comprovativos, podem ser adaptados e desmaterializados pelas entidades emissoras de títulos de transporte público, devendo, em qualquer caso, assegurar-se que os modelos utilizados contêm as menções mínimas a definir pelo IMT, I. P.
+
+3 - A validação do preenchimento dos requisitos necessários à atribuição dos passes gratuitos para jovens estudantes é da responsabilidade das entidades emissoras de títulos de transporte público, devendo estas garantir que os beneficiários autorizam a transmissão e tratamento de dados pessoais estritamente necessários à atribuição daqueles passes.
+
+4 - Os passes gratuitos para jovens estudantes conferem o direito ao transporte nas mesmas condições dos títulos de transporte de referência em vigor e que lhe estão associados nas AM ou CIM.
+
+5 - Nos casos previstos na alínea c) do n.º 1 os beneficiários devem anualmente fazer prova da necessidade de um título que abranja mais do que uma CIM ou AM.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307-A/2024/1 - Diário da República n.º 231/2024, Suplemento, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/portaria/307-a-2024-898320378), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-12-01
+
+###### Artigo 6.º — Cartão de suporte
+
+1 - O cartão que serve de suporte aos passes gratuitos para jovens estudantes é o mesmo que serve de suporte aos títulos de transporte vendidos pelas entidades emissoras de títulos de transporte público.
+
+2 - Sempre que esteja em causa a necessidade de aquisição ou de substituição de um cartão para acesso ao transporte, o custo a assumir pelo beneficiário corresponde a 50 % do preço dos cartões de suporte dos títulos de transporte vendidos pelas entidades emissoras de títulos de transporte público.
+
+3 - Aos passes gratuitos para jovens estudantes aplicam-se as regras gerais de utilização dos títulos de transportes vigentes.
+
+4 - As entidades emissoras de títulos de transportes devem assegurar que é possível associar, de forma inequívoca, o título de transporte ao passageiro e respetiva identificação, para efeitos de fiscalização do cumprimento das disposições da presente portaria por parte de qualquer entidade com competências nesta matéria, designadamente os operadores de transportes públicos ou autoridades de transporte.
+
+###### Artigo 7.º — Compensação financeira
+
+1 - A compensação financeira às entidades emissoras de títulos de transporte público, pela disponibilização dos passes gratuitos para jovens estudantes ao abrigo da presente portaria, é determinada com base no valor da tarifa de venda ao público do título de referência e do número de validações realizadas, até se atingir a tarifa de venda ao público do título de referência desse passe, nos termos previstos no número seguinte.
+
+2 - O valor da compensação financeira por cada passe gratuito para jovens estudantes é calculado da seguinte forma:
+
+a) Nas AM:
+
+i) Cada validação corresponde a 5 % do valor do título de referência, pagando-se este valor multiplicado pelo número de validações realizadas até se atingir 20 validações;
+
+ii) Atingidas 20 validações, inclusive, é pago o valor do título de referência por inteiro;
+
+b) Nas CIM:
+
+i) Cada validação corresponde a 10 % do valor do título de referência, pagando-se este valor multiplicado pelo número de validações realizadas até se atingir 10 validações;
+
+ii) Atingidas 10 validações, inclusive, é pago o valor do título de referência por inteiro;
+
+c) Os passes que não tenham qualquer validação, não dão direito a qualquer compensação.
+
+3 - Em 2024, para garantir a remuneração adequada aos operadores de transportes públicos pelo cumprimento da obrigação de serviço público imposta pela presente portaria, as AM e as CIM, em articulação com os municípios, que se veem desonerados de uma parte significativa dos encargos com o transporte escolar previsto no Decreto-Lei n.º 21/2019, de 30 de janeiro, na sua redação atual, devem assegurar, sempre que necessário e justificável, uma compensação adicional que lhes permita atingir as receitas que seriam devidas em 2024, tendo em conta a quantidade de títulos vendidos em 2023 de passes de estudante, passes 418@escola e sub-23@superior, sem prejuízo da verificação da existência de eventual sobrecompensação, pela AMT, nos termos do n.º 6 do artigo 9.º
+
+4 - As CIM e AM, em conjunto com os municípios, devem assegurar que compensações a atribuir aos operadores são realizadas em cumprimento do previsto no artigo 24.º do RJSPTP, publicado em anexo à Lei n.º 52/2015, de 9 de julho, designadamente que a compensação por obrigação de serviço público a atribuir, não excede um montante que corresponda ao efeito financeiro líquido decorrente da soma das incidências, positivas ou negativas, da execução da obrigação de serviço público sobre os custos e as receitas do operador de serviço público.
+
+5 - Para efeitos das obrigações do número anterior os municípios poderão recorrer às verbas atualmente utilizadas para o cumprimento das obrigações de transporte escolar ao abrigo do Decreto-Lei n.º 21/2019, de 30 de janeiro, na sua redação atual, transferindo os montantes necessários para as respetivas AM e CIM.
+
+6 - Nos termos previstos no n.º 1 do artigo 2.º, o valor dos títulos de referência sobre os quais incidem os passes gratuitos para jovens estudante, incluem os descontos e congelamento de preços que são da responsabilidade das autoridades de transporte.
+
+7 - Nos casos previstos no número três, a compensação a atribuir por cada passe gratuito para jovens estudantes nunca pode exceder o valor do respetivo título de referência, nem pode haver compensação de passes sem qualquer validação.
+
+8 - O direito ao recebimento do valor da compensação financeira por parte das entidades emissoras de títulos de transporte, fica condicionado à verificação do disposto no artigo seguinte.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307-A/2024/1 - Diário da República n.º 231/2024, Suplemento, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/portaria/307-a-2024-898320378), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-12-01
+
+###### Artigo 8.º — Obrigações das entidades emissoras de títulos de transporte
+
+1 - As entidades emissoras de títulos de transporte devem fornecer os dados estritamente necessários ao cálculo da compensação financeira a atribuir e para a adequada supervisão e fiscalização da execução da presente portaria.
+
+2 - Para o efeito do disposto no número anterior, cada uma das entidades emissoras de títulos de transporte deve enviar às AM e CIM, mensalmente, diretamente ou através de entidades gestoras de sistemas de bilhética, quando existam, e cumprindo todos os requisitos previstos na legislação em vigor relativa à proteção e tratamento de dados pessoais, a seguinte informação:
+
+a) Listagem dos passageiros a quem foi atribuído ou renovado o benefício, contendo nome do(s) beneficiário(s) e respetivos números de identificação civil e fiscal, bem como o número de cartão de suporte do título de transporte, quando aplicável;
+
+b) Listagem de todos os títulos de transporte vendidos e elegíveis, assinalando para cada um:
+
+i) A tarifa associada ao título de referência;
+
+ii) O número de série do título de transporte vendido e o número de identificação fiscal do passageiro;
+
+iii) A utilização mensal, em termos de número total de validações registadas nos sistemas de bilhética e que correspondam a deslocações efetivas.
+
+3 - São também obrigações das entidades emissoras de títulos de transporte público:
+
+a) Efetuar e manter um registo informático, durante 5 anos, que associe as vendas mensais dos passes gratuitos para jovens estudantes a cada um dos respetivos passageiros, bem como a sua utilização mensal, fornecendo-o às entidades referidas no n.º 1 do artigo 4.º, sempre que solicitado;
+
+b) Facilitar todas as ações de monitorização e auditoria que seja necessário realizar, facultando toda a informação relativa à atribuição dos passes gratuitos para jovens estudantes que seja solicitada, designadamente, para efeitos estatísticos e apuramento de dados históricos das vendas e compensações, relativas a passes de estudante, passes 4_18@escola.tp, passes sub23@superior.tp, ou outros que migrem para os passes previstos na presente portaria;
+
+c) Apresentar anualmente, até 30 de junho, às AM e CIM, que por sua vez remetem ao IMT, I. P., uma previsão da compensação financeira para o ano seguinte, de forma a permitir a respetiva inscrição de dotação orçamental;
+
+d) Cumprir todas as obrigações decorrentes de protocolos ou contratos celebrados ao abrigo da presente portaria;
+
+e) Prestar toda a colaboração necessária no âmbito do disposto na presente portaria.
+
+4 - A disponibilização de informação referida nos n.os 1 e 2 é efetuada por via eletrónica para as AM ou CIM, até ao 15.º dia do mês seguinte a que diz respeito, e é da responsabilidade de cada uma das entidades emissoras de títulos de transporte, podendo ser requerido que a mesma seja enviada mediante formato e procedimento normalizado a definir pelas AM ou CIM em articulação com o IMT, I. P.
+
+5 - As AM e CIM reportam ao IMT, I. P., os dados relativos à implementação dos passes gratuitos para jovens estudantes nos respetivos territórios, para efeitos de monitorização nacional.
+
+6 - A CP - Comboios de Portugal, E. P. E., reporta diretamente ao IMT, I. P., no prazo indicado no n.º 2 do artigo 9.º, os dados relativos a títulos próprios não comparticipados pelas AM e CIM, e onde a presente gratuitidade se aplique.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307-A/2024/1 - Diário da República n.º 231/2024, Suplemento, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/portaria/307-a-2024-898320378), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-12-01
+
+###### Artigo 9.º — Pagamentos e fiscalização da atribuição da compensação financeira
+
+1 - Compete às AM e CIM certificar a informação recebida das entidades emissoras de títulos de transporte e proceder ao cálculo das compensações financeiras.
+
+2 - As AM e CIM remetem mensalmente, até ao último dia de cada mês, ao IMT, I. P., com o desfasamento máximo de 3 meses, o montante da compensação financeira apurada para cada uma das entidades emissoras dos títulos de transporte, acompanhada da informação relativa à respetiva situação contributiva perante a Administração Tributária e a Segurança Social.
+
+3 - [Revogado.]
+
+4 - De forma a garantir o pagamento atempado às entidades emissoras de títulos de transporte, a ETF efetua mensalmente, até ao dia 15 de cada mês, um pagamento convencional por conta às AM, CIM e CP.
+
+5 - O valor do pagamento convencional por conta corresponde à média dos valores reais dos primeiros nove meses do ano anterior a que se referem os pagamentos.
+
+6 - O valor referido no número anterior é determinado pelo IMT, I. P., e por este comunicado à ETF até ao dia cinco de cada mês.
+
+7 - O montante referido no número anterior é ajustado mensalmente pelo IMT, I. P., considerando os acertos decorrentes da diferença entre pagamentos convencionais por conta efetuados anteriormente e os valores reais entretanto apurados em cada mês.
+
+8 - Na ausência de atividade das entidades emissoras de títulos de transporte durante os primeiros nove meses do ano anterior, o pagamento da ETF às AM, CIM e CP é efetuado com base nos valores reais apurados em cada mês.
+
+9 - Compete às AM e CIM proceder, no prazo máximo de 5 dias, após receção do pagamento da ETF referido no n.º 4, ao pagamento a cada uma das entidades emissoras de títulos de transporte em função dos valores apurados.
+
+10 - Os montantes das compensações podem ser corrigidos em consequência da consolidação de dados dos sistemas de bilhética, de ações de supervisão, fiscalização, monitorização e auditoria desenvolvidos pelas AM e CIM, pela AMT ou pela Inspeção-Geral de Finanças - Autoridade de Auditoria, ou ainda em resultado de reclamação apresentada por qualquer operador de transporte público ou autoridade de transportes, sendo os ajustes a que houver lugar acertados no processamento seguinte.
+
+11 - Tendo em conta os mecanismos de transmissão de informação previstos no artigo anterior e no presente artigo, a AMT e a IGF efetuam, anualmente, a supervisão e a auditoria dos montantes das compensações financeiras atribuídas nos termos da presente portaria, no âmbito das suas atribuições, determinando a devolução de montantes ou o acerto de contas em pagamentos subsequentes em caso de desconformidade legal e regulamentar.
+
+12 - Para os efeitos do número anterior, os montantes reportados devem estar adequadamente suportados em registos contabilísticos passíveis de ser auditados, de acordo com as instruções da AMT.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 287/2026/1 - Diário da República n.º 129/2026, Série I de 2026-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/287-2026-1144685810), em vigor a partir de 2026-07-08, com efeitos a partir de 2026-07-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307-A/2024/1 - Diário da República n.º 231/2024, Suplemento, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/portaria/307-a-2024-898320378), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-12-01
+
+###### Artigo 10.º — Regime sancionatório
+
+1 - À violação do regime da presente portaria aplicam-se as regras aplicáveis ao incumprimento das obrigações do serviço público, nos termos previsto no RJSPTP.
+
+2 - O não cumprimento das obrigações decorrentes da presente portaria, por parte de qualquer das entidades emissoras de títulos de transporte público, dá lugar à suspensão do pagamento das compensações financeiras.
+
+3 - O não cumprimento dos prazos de reporte estabelecidos nos n.os 2 e 6 do artigo 9.º dá lugar à suspensão do pagamento convencional por conta estabelecido no n.º 5 do mesmo artigo.
+
+4 - A concessão ou utilização indevida do passe gratuito para jovens estudantes, nomeadamente, a sua não validação, por facto imputável ao utilizador, é punida nos termos da Lei n.º 28/2006, de 4 de julho, na sua redação atual.
+
+5 - Aplicam-se, supletivamente, as regras relativas ao incumprimento de obrigações previstas na demais legislação aplicável, designadamente no regime geral das contraordenações, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 287/2026/1 - Diário da República n.º 129/2026, Série I de 2026-07-07](https://diariodarepublica.pt/dr/detalhe/portaria/287-2026-1144685810), em vigor a partir de 2026-07-08, com efeitos a partir de 2026-07-01.
+
+###### Artigo 11.º — Disposições transitórias
+
+1 - As entidades emissoras de títulos de transporte procedem à reconfiguração dos perfis existentes dos passes 4_18@escola.tp e sub23@superior.tp em vigor, de modo a se conformarem com o estabelecido nesta portaria, assegurando a implementação da sua gratuitidade a partir de 1 de janeiro de 2024.
+
+2 - Os títulos de transporte de utilização mensal preexistentes à entrada em vigor da presente portaria, dirigidos a crianças ou estudantes, nomeadamente aos atuais beneficiários de passes de transporte escolar, ao abrigo do Decreto-Lei n.º 21/2019, de 30 de janeiro, na sua redação atual, podem ser substituídos pelos passes gratuitos para jovens estudantes previsto na presente portaria.
+
+3 - Em 2024, serão assegurados pagamentos por conta das compensações financeiras a atribuir às entidades emissoras de títulos de transporte público para os meses de janeiro, fevereiro e março, tendo por referência estimativas devidamente fundamentadas das AM e CIM, com base nas receitas reais nos meses homólogos de 2023 dos passes 4_18@escola.tp e sub23@ superior.tp e dos passes escolares ou de estudantes que passaram a ser abrangidos pela presente portaria, até ao limite máximo dos duodécimos da dotação prevista para o Orçamento do Estado para 2024.
+
+4 - No primeiro trimestre de 2025, procede-se ao acerto dos valores pagos por conta no primeiro trimestre de 2024, conforme o número anterior, com base nos valores reais apurados, nos meses referidos.
+
+5 - Para o efeito do número anterior, as AM e CIM enviam ao IMT, I. P., até ao dia 10 de cada um dos meses de janeiro, fevereiro e março a sua estimativa de compensações financeiras para o mês anterior, remetendo o IMT, I. P., no prazo máximo de 15 dias consecutivos, a informação agregada à DGTF para que esta proceda à transferência das verbas para as AM e CIM no prazo máximo de 30 dias, as quais procedem ao pagamento a cada uma das entidades emissoras de títulos de transporte no prazo máximo de 5 dias.
+
+6 - No âmbito do previsto no n.º 6 do artigo 9.º, até ao final de 2024, a AMT elaborará uma avaliação das compensações previstas no n.º3 do artigo 7.º
+
+7 - Os operadores de transportes públicos que não disponham de sistema de bilhética com validação automática, devem articular com as autoridades de transporte um mecanismo de reporte, sendo-lhes concedido um prazo de 180 dias, a contar da data de entrada em vigor da presente portaria, para instalação de sistemas de validação automática, salvo casos devidamente fundamentados que evidenciem a impossibilidade de cumprimento deste prazo, os quais devem ser validados pelo IMT que estabelecerá o novo prazo para o cumprimentos desta norma.
+
+8 - Durante o ano de 2024 o IMT, I. P., cria uma base de dados a nível nacional acessível pelas entidades emissoras de títulos de transporte, que permita validar os passes gratuitos para jovens estudantes atribuídos, para efeitos de verificação do requisito estabelecido no n.º 6 do artigo 2.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 307-A/2024/1 - Diário da República n.º 231/2024, Suplemento, Série I de 2024-11-28](https://diariodarepublica.pt/dr/detalhe/portaria/307-a-2024-898320378), em vigor a partir de 2024-11-29, produz efeitos a partir de 2024-12-01
+
+###### Artigo 12.º — Norma revogatória
+
+São revogados:
+
+a) A Portaria n.º 138/2009, de 3 de fevereiro, na sua redação atual, que define as condições de atribuição do «passe escolar 4_18@escola.tp»;
+
+b) A Portaria n.º 982-B/2009, de 2 de setembro, na sua redação atual, que define as condições de atribuição do «passe sub23@superior.tp»;
+
+c) O Despacho n.º 10295/2009, de 20 de abril, que estabelece o Acordo entre o Estado e os operadores de serviço de transporte público coletivo de passageiros para a implementação do «passe 4_18@escola.tp»;
+
+d) O Despacho n.º 15080/2010, de 4 de outubro, que estabelece o Acordo entre o Estado e os operadores de serviço de transporte público coletivo de passageiros para a implementação do «passe sub23@ superior.tp».
+
+###### Artigo 13.º — Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a dia 1 de janeiro de 2024.
+
+Em 5 de janeiro de 2024.
+
+A Ministra da Coesão Territorial, Ana Maria Pereira Abrunhosa Trigueiros de Aragão. - O Secretário de Estado Adjunto e das Infraestruturas, Frederico André Branco dos Reis Francisco. - O Secretário de Estado do Tesouro, Pedro Nuno Pereira de Sousa Rodrigues. - O Secretário de Estado da Mobilidade Urbana, Jorge Moreno Delgado.
+
+117223608

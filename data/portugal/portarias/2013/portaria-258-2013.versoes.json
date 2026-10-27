@@ -1,0 +1,507 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:499214:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-956337474",
+ "dre_path": "/dr/detalhe/portaria/258-2013-499214",
+ "source_lastmod": "2026-07-27",
+ "versions": [
+  {
+   "date": "2013-11-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:503828:por",
+     "title": "Portaria n.º 339/2013",
+     "published": "2013-11-21",
+     "dre_path": "/dr/detalhe/portaria/339-2013-503828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "956626275",
+    "956626475",
+    "1152632175",
+    "956626875",
+    "956627075",
+    "956627275",
+    "956627475",
+    "956627675",
+    "956627875",
+    "956628075",
+    "956628275",
+    "956628475",
+    "956628675",
+    "956628875",
+    "956629075",
+    "956629275",
+    "956629475",
+    "956629675",
+    "956629875",
+    "956630075",
+    "956630275",
+    "956630475",
+    "956630675",
+    "956630875",
+    "956631075",
+    "956631275",
+    "956631475",
+    "956631675",
+    "956631875",
+    "956632075",
+    "956632275",
+    "956632475",
+    "956632675",
+    "956632875",
+    "956633075",
+    "956633275",
+    "956633475",
+    "956633675",
+    "956633875",
+    "956634075",
+    "956634275",
+    "956634475",
+    "956634675",
+    "956634875",
+    "956635075",
+    "956635275",
+    "956635475",
+    "956635675",
+    "956635875",
+    "956636075",
+    "956636275",
+    "956636475",
+    "956636675"
+   ]
+  }
+ ],
+ "fragments": {
+  "956626275": {
+   "fragment_id": "956626175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 186/2006, de 12 de setembro, estabeleceu os princípios norteadores da atribuição de apoios financeiros por parte do Estado no domínio da Saúde.\n\nEste diploma prevê que são suscetíveis de conceder apoio financeiro os serviços e organismos centrais do Ministério da Saúde, mediante a aprovação dos respetivos regulamentos de apoio financeiro por portaria do Ministro responsável pela área da saúde.\n\nNa sequência do processo de reestruturação do Ministério da Saúde (PREMAC), o enquadramento legal da atribuição dos apoios financeiros a pessoas coletivas sem fins lucrativos encontra-se desadequado, pelo que a presente portaria visa regulamentar a concessão de apoios financeiros permitindo aos serviços financiadores harmonizarem as etapas dos procedimentos concursais, evitando a dispersão por outros normativos e atualizando-os face às reestruturações institucionais entretanto ocorridas.\n\nA atribuição de financiamentos deve pautar-se por critérios harmonizados entre as entidades financiadoras de projetos no âmbito do Ministério da Saúde, garantindo o rigor e a transparência dos procedimentos. O atual contexto económico leva a uma necessidade crescente de disponibilizar financiamento a intervenções e projetos que garantam o rigor dos resultados e constituam uma resposta complementar e alinhada com os objetivos do Plano Nacional de Saúde e dos serviços e ou entidades responsáveis pela abertura dos concursos, tendo como finalidade aumentar os ganhos em saúde da população.\n\nEstes pressupostos, aliados à utilização de uma plataforma informática comum, melhoram a gestão integrada e permitem uma visão do investimento realizado pelo Ministério da Saúde.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 186/2006, de 12 de setembro, manda o Governo, pelo Secretário de Estado Adjunto do Ministro da Saúde, o seguinte:"
+  },
+  "956626475": {
+   "fragment_id": "956626375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado o Regulamento dos Programas de Apoio Financeiro a atribuir pelos serviços e organismos centrais do Ministério da Saúde e pelas administrações regionais de saúde a pessoas coletivas privadas sem fins lucrativos, anexo à presente portaria e da qual faz parte integrante."
+  },
+  "1152632175": {
+   "fragment_id": "956626575",
+   "type": 11,
+   "heading": "Artigo 2.º — Disposição transitória",
+   "in_force_from": "2013-11-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 339/2013 - Diário da República n.º 226/2013, Série I de 2013-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/339-2013-503828), em vigor a partir de 2013-11-22, com efeitos a partir de 2013-09-01."
+   ],
+   "markdown": "###### Artigo 2.º — Disposição transitória\n\n1 - Enquanto não estiver em funcionamento a plataforma informática prevista no artigo 6.º, todas as comunicações necessárias ao procedimento previsto no presente Regulamento são efetuadas nas formas previstas no Código do Procedimento Administrativo e nos termos dos avisos de abertura.\n\n2 - As candidaturas a projetos e ações apresentadas ao Instituto Português do Sangue e da Transplantação, IP. antes da entrada em vigor da presente Portaria aplica-se o regime vigente à data da sua entrega.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 339/2013 - Diário da República n.º 226/2013, Série I de 2013-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/339-2013-503828), em vigor a partir de 2013-11-22, com efeitos a partir de 2013-09-01."
+  },
+  "956626875": {
+   "fragment_id": "956626775",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nA presente portaria revoga as Portarias n.os 1089/2006, de 11 de outubro, 418/2007, de 13 de abril, 720/2007, de 11 de junho, na redação dada pela Portaria n.º 90/2008, de 25 de janeiro, 788/2007, de 20 de julho, 1418/2007, de 30 de outubro, 1584/2007, de 13 de dezembro, 616/2008, de 11 de julho, 1176/2008, de 15 de outubro, 1259/2008, de 4 de novembro, 1327/2008, de 18 de novembro e o Despacho n.º 14455/2008, de 26 de maio."
+  },
+  "956627075": {
+   "fragment_id": "956626975",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia do mês subsequente ao da sua publicação."
+  },
+  "956627275": {
+   "fragment_id": "956627175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto do Ministro da Saúde, Fernando Serra Leal da Costa, em 1 de agosto de 2013."
+  },
+  "956627475": {
+   "fragment_id": "956627375",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DOS PROGRAMAS DE APOIO FINANCEIRO A ATRIBUIR PELOS ORGANISMOS DO MINISTÉRIO DA SAÚDE A PESSOAS COLETIVAS PRIVADAS SEM FINS LUCRATIVOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DOS PROGRAMAS DE APOIO FINANCEIRO A ATRIBUIR PELOS ORGANISMOS DO MINISTÉRIO DA SAÚDE A PESSOAS COLETIVAS PRIVADAS SEM FINS LUCRATIVOS"
+  },
+  "956627675": {
+   "fragment_id": "956627575",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "956627875": {
+   "fragment_id": "956627775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Regulamento estabelece as normas aplicáveis à atribuição de apoios financeiros a pessoas coletivas privadas sem fins lucrativos, ao abrigo do Decreto-Lei n.º 186/2006, de 12 de setembro, pelos seguintes organismos do Ministério da Saúde, doravante designados entidades financiadoras:\n\na) Direção-Geral da Saúde;\n\nb) Instituto Português do Sangue e da Transplantação, I. P.;\n\nc) Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências;\n\nd) Administrações Regionais de Saúde, I. P."
+  },
+  "956628075": {
+   "fragment_id": "956627975",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\nPodem beneficiar dos apoios financeiros a que se refere o artigo anterior as pessoas coletivas privadas sem fins lucrativos que apresentem propostas que concorram para a prossecução dos objetivos previstos no artigo 2.º do Decreto-Lei n.º 186/2006, de 12 de setembro, e que venham a ser selecionadas pelas entidades financiadoras na sequência de procedimento de apresentação, apreciação e seleção de candidaturas, nos termos do presente Regulamento."
+  },
+  "956628275": {
+   "fragment_id": "956628175",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito territorial\n\nO presente diploma tem aplicação em território nacional, com exceção das Regiões Autónomas da Madeira e dos Açores."
+  },
+  "956628475": {
+   "fragment_id": "956628375",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios\n\nOs projetos e ações candidatos a financiamento devem obedecer aos seguintes princípios:\n\na) Responder às necessidades previamente identificadas como prioritárias pelas entidades financiadoras;\n\nb) Promover intervenções que respondam, de forma específica e concreta, a problemas identificados nos grupos alvo;\n\nc) Promover, quando aplicável, o envolvimento e a participação das populações alvo e demais entidades públicas e privadas que tenham responsabilidade no tipo de intervenção em causa e na conceção e desenvolvimento de atividades;\n\nd) Promover parcerias técnicas e financeiras numa perspetiva de garantir a sustentabilidade do desenvolvimento das ações e projetos."
+  },
+  "956628675": {
+   "fragment_id": "956628575",
+   "type": 11,
+   "heading": "Artigo 5.º — Cofinanciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cofinanciamento\n\n1 - As entidades financiadoras referidas no artigo 1.º podem acordar no financiamento conjunto do mesmo projeto, na medida em que existam sinergias entre os objetivos do Plano Nacional de Saúde e os objetivos prosseguidos por aqueles serviços, sem prejuízo dos limites previstos no artigo 6.º do Decreto-Lei n.º 186/2006, de 12 de setembro.\n\n2 - Para efeitos do disposto no número anterior, as entidades financiadoras podem acordar:\n\na) Na mera adesão ao procedimento de financiamento aberto por uma delas;\n\nb) Na abertura de procedimento de financiamento conjunto."
+  },
+  "956628875": {
+   "fragment_id": "956628775",
+   "type": 11,
+   "heading": "Artigo 6.º — Gestão dos Programas de Apoio Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Gestão dos Programas de Apoio Financeiro\n\n1 - Para gestão dos Programas de Apoio Financeiro (PAF) é criada uma plataforma informática, denominada Sistema Integrado de Programas de Apoio Financeiro em Saúde (SIPAFS) sob a coordenação da Direção-Geral da Saúde, com acesso seletivo pelas entidades financiadoras.\n\n2 - A Direção-Geral da Saúde pode estabelecer protocolos de colaboração com as outras entidades financiadoras para prosseguir com o funcionamento do SIPAFS."
+  },
+  "956629075": {
+   "fragment_id": "956628975",
+   "type": 1,
+   "heading": "Capítulo II — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Condições de acesso"
+  },
+  "956629275": {
+   "fragment_id": "956629175",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos gerais dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos gerais dos beneficiários\n\nAo abrigo do presente Regulamento só podem beneficiar de financiamento as entidades que:\n\na) Se encontrem regularmente constituídas e, quando sujeitas a registo, estejam devidamente registadas, licenciadas ou autorizadas, se legalmente obrigatório, nomeadamente quando se propõem a intervir em áreas sujeitas a licenciamento ou a autorização pelas entidades competentes;\n\nb) Detenham idoneidade, capacidade organizativa e meios materiais, técnicos e humanos para desenvolver os projetos e as ações propostos;\n\nc) Possuam contabilidade organizada, nos termos da legislação que lhes seja aplicável;\n\nd) Não se encontrem em alguma das circunstâncias referidas no artigo 55.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro;\n\ne) Não tenham sido alvo, nos três anos anteriores, de qualquer rescisão de apoio financeiro concedido por entidades públicas por incumprimento das suas obrigações na execução do contrato de apoio financeiro."
+  },
+  "956629475": {
+   "fragment_id": "956629375",
+   "type": 11,
+   "heading": "Artigo 8.º — Parcerias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Parcerias\n\n1 - No âmbito dos projetos e das ações que possam ser objeto de financiamento podem ser promovidas parcerias.\n\n2 - A cooperação e articulação entre as entidades que componham a parceria referida no número anterior deve ser formalizada em documento próprio de onde conste a expressa identificação das entidades parceiras e os deveres e obrigações de cada uma dessas entidades.\n\n3 - Podem ser parceiros entidades públicas ou privadas que concedam apoio financeiro e/ou técnico.\n\n4 - Nos casos previstos nos números anteriores, as entidades beneficiárias são as únicas responsáveis pela execução do projeto ou programa sujeito a apoio financeiro, salvo convenção em contrário."
+  },
+  "956629675": {
+   "fragment_id": "956629575",
+   "type": 1,
+   "heading": "Capítulo III — Procedimento de apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimento de apresentação de candidaturas"
+  },
+  "956629875": {
+   "fragment_id": "956629775",
+   "type": 11,
+   "heading": "Artigo 9.º — Abertura do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Abertura do procedimento\n\n1 - A abertura do procedimento é publicitada num jornal diário de grande circulação nacional e caso se justifique num jornal local, sendo o aviso publicitado nos sítios da Internet das entidades financiadoras.\n\n2 - O aviso fixa as condições e os termos em que podem ser apresentadas as candidaturas, dele devendo constar obrigatoriamente:\n\na) A modalidade do programa de apoio - programa de apoio a projetos plurianuais ou programa de apoio a projetos pontuais e respetiva duração máxima;\n\nb) O objeto do programa, com identificação das áreas e dos projetos nele enquadráveis;\n\nc) O montante global do apoio financeiro a conceder;\n\nd) A modalidade de financiamento;\n\ne) A percentagem máxima do financiamento a atribuir e sempre que possível o limite máximo do montante a atribuir por projeto;\n\nf) O prazo de apresentação das propostas, que não pode ser superior a 30 dias a contar da data da publicação do aviso;\n\ng) A modalidade de entrega das propostas;\n\nh) Os critérios de seleção das candidaturas."
+  },
+  "956630075": {
+   "fragment_id": "956629975",
+   "type": 11,
+   "heading": "Artigo 10.º — Procedimento de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento de candidatura\n\n1 - Os processos de candidatura devem ser entregues através do SIPAFS.\n\n2 - As comunicações procedimentais previstas no presente Regulamento são praticadas na referida plataforma informática.\n\n3 - Para efeitos de formalização das candidaturas, a entidade deve preencher um formulário próprio disponibilizado pela entidade financiadora e remetê-lo de acordo com a modalidade de entrega definida em aviso de abertura e demais legislação aplicável.\n\n4 - As atividades de formação podem ser financiadas, desde que integradas em projetos mais abrangentes e que revelem pertinência complementar ao projeto base.\n\n5 - Sem prejuízo do disposto no artigo 31.º, para além dos elementos referidos no aviso de abertura e demais legislação aplicável, a candidatura deve ser acompanhada de:\n\na) Cópia do cartão de identificação de pessoa coletiva da entidade proponente;\n\nb) Cópia atualizada dos estatutos, certidão de registo e, quando aplicável, cópia do registo como instituição particular de solidariedade social;\n\nc) Declaração de início de atividade;\n\nd) Declaração, sob compromisso de honra, da não comparticipação financeira de outras entidades no projeto ou ação, com a devida ressalva no que respeita às parcerias estabelecidas;\n\ne) Protocolo de parceria ou documento que demonstre que se encontra assegurado o financiamento da intervenção na parte não dependente da entidade financiadora;\n\nf) Licença de utilização das instalações para prestação de cuidados de saúde ou documentos comprovativos de início do processo, se legalmente obrigatório;\n\ng) Curriculum vitae dos elementos da equipa técnica do projeto;\n\nh) Declaração de inexistência de dívidas perante a segurança social ou administração fiscal;\n\ni) Declaração de que toda a informação prestada é verdadeira, designadamente o cumprimento dos requisitos constantes do artigo 7.º\n\n6 - Sem prejuízo do disposto no artigo 31.º, caso o projeto objeto de financiamento inclua qualquer ação formativa, a candidatura deve ainda ser acompanhada pelos seguintes elementos:\n\na) Plano de formação;\n\nb) Curriculum Vitae e Certificado de Aptidão Pedagógica dos formadores;\n\nc) Conteúdos programáticos, metodologia e instrumentos de avaliação a utilizarem por módulo de formação.\n\n7 - Caso a candidatura não se encontre instruída com os documentos referidos nos números anteriores, a entidade financiadora notifica a entidade candidata para, no prazo de cinco dias úteis, suprir as omissões e deficiências ou apresentar as informações consideradas necessárias, sob pena de exclusão da candidatura."
+  },
+  "956630275": {
+   "fragment_id": "956630175",
+   "type": 11,
+   "heading": "Artigo 11.º — Exclusão de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Exclusão de candidaturas\n\n1 - Constitui motivo de exclusão da candidatura:\n\na) A apresentação da candidatura fora do prazo fixado no aviso de abertura do procedimento;\n\nb) A prestação de falsas declarações pelo concorrente, sem prejuízo da responsabilidade civil e penal a que houver lugar;\n\nc) A circunstância do concorrente não se encontrar com a sua situação financeira regularizada perante a entidade financiadora ou as demais referidas no artigo 1.º;\n\nd) A não apresentação dos elementos previstos no presente Regulamento ou no aviso de abertura.\n\n2 - Nos casos previstos nas alíneas b) e c) do número anterior, a entidade financiadora notifica a entidade candidata da sua intenção de excluir a candidatura, podendo esta, no prazo de cinco dias úteis, pronunciar-se por escrito e ou comprovar que regularizou a situação financeira perante a entidade financiadora ou as demais referidas no número anterior."
+  },
+  "956630475": {
+   "fragment_id": "956630375",
+   "type": 1,
+   "heading": "Capítulo IV — Procedimento de apreciação e seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Procedimento de apreciação e seleção das candidaturas"
+  },
+  "956630675": {
+   "fragment_id": "956630575",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critérios de seleção\n\n1 - Os critérios de seleção das candidaturas são fixados pela entidade responsável pela apreciação das candidaturas, devendo ser concretos, objetivos e adequados ao procedimento em causa e definidos em função do programa de apoio objeto do procedimento.\n\n2 - A entidade responsável pela apreciação das candidaturas deve definir a ponderação a aplicar aos critérios previamente fixados no aviso de abertura do procedimento."
+  },
+  "956630875": {
+   "fragment_id": "956630775",
+   "type": 11,
+   "heading": "Artigo 13.º — Apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apreciação das candidaturas\n\n1 - O processo de apreciação das candidaturas é da responsabilidade das entidades financiadoras, podendo ser solicitado parecer técnico a outras entidades com competência na área de intervenção dos projetos ou ações, avaliadores externos e/ou especialistas, no âmbito das respetivas atribuições.\n\n2 - O parecer referido no número anterior, de natureza consultiva, deve ser emitido no prazo de 15 dias úteis a contar da data de receção do pedido de parecer."
+  },
+  "956631075": {
+   "fragment_id": "956630975",
+   "type": 11,
+   "heading": "Artigo 14.º — Seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Seleção das candidaturas\n\n1 - A seleção das candidaturas compete a uma comissão designada pelo dirigente máximo da entidade financiadora, constituída por 3 elementos.\n\n2 - Caso se justifique, um dos elementos pode ser de uma entidade externa em função das especificidades do programa de apoio objeto do procedimento.\n\n3 - A comissão avalia as candidaturas de acordo com os critérios referidos no artigo 12.º do presente Regulamento.\n\n4 - Sempre que considere necessário, a comissão de seleção pode solicitar documentos e esclarecimentos adicionais às entidades candidatas, para além dos previstos no artigo 10.º, devendo estas responder no prazo máximo de 5 dias úteis, sob pena de exclusão.\n\n5 - Finda a fase de instrução do processo e cumprido o disposto nos números anteriores, a comissão de seleção procede à avaliação das candidaturas.\n\n6 - Os candidatos são notificados da deliberação referida no número anterior, aplicando-se o disposto nos artigos 100.º e seguintes do Código do Procedimento Administrativo.\n\n7 - Sem prejuízo do disposto no artigo 32.º, a deliberação final da comissão de seleção sobre as candidaturas deve conter uma lista de classificação das candidaturas, por ordem decrescente a partir da candidatura mais pontuada, com a respetiva fundamentação.\n\n8 - A decisão de atribuição do apoio financeiro compete ao órgão dirigente máximo da entidade financiadora.\n\n9 - A lista homologada é tornada pública no sítio da Internet da entidade financiadora."
+  },
+  "956631275": {
+   "fragment_id": "956631175",
+   "type": 1,
+   "heading": "Capítulo V — Contratualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Contratualização"
+  },
+  "956631475": {
+   "fragment_id": "956631375",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contrato\n\n1 - A concessão do apoio financeiro é formalizada através de contrato celebrado entre a entidade financiadora e a entidade beneficiária do apoio financeiro.\n\n2 - A Administração Central do Sistema de Saúde, I. P., é parte, enquanto entidade responsável pelos pagamentos a efetuar, nos contratos relativos a projetos financiados pela Direção-Geral da Saúde.\n\n3 - Do contrato deve constar obrigatoriamente:\n\na) A síntese da intervenção com a indicação dos objetivos e as ações a desenvolver, respetivo prazo e resultados a atingir;\n\nb) Período de vigência do contrato;\n\nc) O montante do apoio financeiro e o respetivo plano de pagamentos;\n\nd) Os direitos e deveres das partes e, nomeadamente, a obrigação da entidade beneficiária em publicitar o apoio das entidades financiadoras sempre que haja alusão a qualquer das ações, atividades ou equipamentos apoiados no âmbito da intervenção aprovada;\n\ne) As regras aplicáveis à constituição de um dossier técnico e financeiro de acordo com o artigo 17.º do presente Regulamento ou com o artigo 35.º das disposições especiais aplicáveis ao Instituto Português do Sangue e da Transplantação, I. P. (IPST, I. P.);\n\nf) Os mecanismos de acompanhamento, avaliação e de autoavaliação e as penalizações por incumprimento.\n\n4 - Caso a entidade beneficiária não assine o contrato no prazo de 5 dias úteis a contar da data de receção do mesmo, e sem prejuízo de indemnização por danos pré-contratuais, o procedimento finda quanto a esta, podendo a entidade beneficiária selecionar para a contratação do apoio financeiro a entidade beneficiária que ficou graduada no lugar imediatamente seguinte.\n\n5 - A cessão da posição contratual por parte da entidade beneficiária só pode ter lugar por motivos devidamente fundamentados e após aprovação da entidade financiadora."
+  },
+  "956631675": {
+   "fragment_id": "956631575",
+   "type": 11,
+   "heading": "Artigo 16.º — Obrigações das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Obrigações das entidades beneficiárias\n\nSem prejuízo dos deveres previstos no contrato, as entidades beneficiárias ficam sujeitas aos seguintes deveres:\n\na) Cumprir pronta e integralmente o disposto no presente Regulamento;\n\nb) Executar o projeto ou ação nos termos e prazos fixados no contrato;\n\nc) Entregar, nos prazos estabelecidos, todos os elementos que lhe forem solicitados pela entidade financiadora;\n\nd) Comunicar à entidade financiadora qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projeto ou ação, ou à sua realização pontual;\n\ne) Manter a contabilidade legalmente organizada;\n\nf) Organizar e manter atualizados um dossier técnico e um dossier financeiro nos moldes definidos no artigo 17.º ou no artigo 35.º, os quais devem estar permanentemente disponíveis;\n\ng) Manter na sua posse os bens e ou equipamentos adquiridos com o apoio financeiro, cumprindo os objetivos propostos, pelo período de vigência do projeto;\n\nh) Publicitar o apoio da entidade financiadora em todas as suas ações e atividades desenvolvidas e em todos os bens e ou equipamentos (incluindo material de divulgação) utilizados nos projetos e ações apoiados pela entidade financiadora;\n\ni) Ceder gratuitamente à entidade financiadora o material de divulgação elaborado no âmbito dos projetos financiados, podendo aquela utilizá-los, a todo o tempo, para prosseguir as suas atribuições."
+  },
+  "956631875": {
+   "fragment_id": "956631775",
+   "type": 11,
+   "heading": "Artigo 17.º — Organização do dossier técnico e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Organização do dossier técnico e financeiro\n\n1 - O dossier técnico deve conter os seguintes elementos:\n\na) Memória descritiva do projeto ou ação a desenvolver;\n\nb) Plano de ação e eventuais reformulações do mesmo, com respetiva fundamentação e autorização;\n\nc) Relatórios de avaliação;\n\nd) Mapa de pessoal com respetivo registo de presenças e horas afetas ao projeto ou ação;\n\ne) Parcerias ou protocolos de colaboração que mantenham para o desenvolvimento da intervenção;\n\nf) Registo estatístico, com periodicidade a definir em sede de contrato, que contenha indicadores quantitativos que permitam medir e monitorizar o projeto e seu grau de execução;\n\ng) Programa de formação do pessoal para o qual foi pedido financiamento no âmbito da iniciativa, quando for o caso.\n\n2 - A entidade beneficiária deve abrir e manter em seu nome uma conta bancária específica através da qual são efetuados, exclusivamente, os movimentos relacionados com os recebimentos e os pagamentos referentes ao projeto ou ação financiados.\n\n3 - O dossier financeiro deve conter os seguintes elementos:\n\na) Extratos da conta bancária de afetação exclusiva ao projeto ou ação;\n\nb) Mapas de execução financeira, controlo orçamental e despesa mensais;\n\nc) Documentos justificativos de despesa e de quitação da despesa devidamente carimbados, em modelo a fornecer pela entidade financiadora, de molde a identificar e discriminar a percentagem do apoio financeiro recebido;\n\nd) No caso de haver outras fontes de financiamento para além da entidade financiadora, as mesmas devem constar do registo de distribuição percentual que lhe corresponda;\n\ne) Aos documentos referidos nas alíneas anteriores devem ser apensas declarações de financiamento das entidades beneficiárias e das entidades parceiras quando aplicável.\n\n4 - As entidades beneficiárias ficam obrigadas a, sempre que solicitado, facultar o acesso e entregar cópias do processo técnico e financeiro, à entidade financiadora ou a quem esta mandate para o efeito."
+  },
+  "956632075": {
+   "fragment_id": "956631975",
+   "type": 11,
+   "heading": "Artigo 18.º — Relatório de execução técnico-financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Relatório de execução técnico-financeira\n\n1 - As entidades beneficiárias devem submeter à entidade financiadora relatórios intercalares e finais de execução técnica e financeira.\n\n2 - Os relatórios referidos no n.º 1 devem ser entregues no prazo máximo de 30 dias a contar do termo do período a que respeitam.\n\n3 - A entidade financiadora disponibiliza modelos de relatórios, prevendo elementos de natureza qualitativa e quantitativa, nomeadamente para a avaliação do processo, das metodologias, dos resultados e do impacte."
+  },
+  "956632275": {
+   "fragment_id": "956632175",
+   "type": 11,
+   "heading": "Artigo 19.º — Acompanhamento dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acompanhamento dos projetos\n\n1 - O acompanhamento técnico e financeiro dos projetos e ações é da responsabilidade das entidades financiadoras e, eventualmente, de outra entidade ou especialistas independentes designados pelas entidades financiadoras.\n\n2 - O acompanhamento dos projetos e ações visa prevenir ou detetar irregularidades e confirmar que os apoios financeiros se destinaram aos fins para os quais foram concedidos.\n\n3 - O acompanhamento operacionaliza-se através de visitas aos locais de desenvolvimento dos projetos ou ações, da análise de relatórios de execução técnica e financeira apresentados pelas entidades beneficiárias e/ou pelas entidades indicadas para o efeito.\n\n4 - Sem prejuízo do disposto no número anterior e no n.º 1 do artigo 17.º, as entidades financiadoras podem, a todo o tempo, exigir às entidades beneficiárias a apresentação de documentos considerados necessários à avaliação da execução das ações e projetos apoiados e ao controlo da utilização das verbas atribuídas."
+  },
+  "956632475": {
+   "fragment_id": "956632375",
+   "type": 11,
+   "heading": "Artigo 20.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Avaliação\n\n1 - Os projetos ou ações devem integrar a componente avaliação de forma sistemática, privilegiando-se as seguintes dimensões: diagnóstico inicial, execução, resultados e impacto, devendo ainda referenciar e quantificar os contributos dos parceiros, quando aplicável.\n\n2 - Os projetos com duração plurianual são alvo de avaliação anual, mediante a apresentação de relatórios de execução, da qual depende a sua continuidade nos anos subsequentes, em caso de avaliação positiva.\n\n3 - A avaliação final da execução do projeto ou ação ocorre através da análise do relatório final, conforme previsto no artigo 18.º"
+  },
+  "956632675": {
+   "fragment_id": "956632575",
+   "type": 11,
+   "heading": "Artigo 21.º — Redução e suspensão dos apoios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Redução e suspensão dos apoios financeiros\n\n1 - O apoio financeiro concedido pode ser reduzido ou suspenso pela entidade financiadora, sempre que se verifiquem as seguintes situações:\n\na) Não execução ou desvirtuamento, em parte, da intervenção prevista na iniciativa aprovada e desde que não haja comprometimento dos objetivos principais do programa;\n\nb) Existência de dívidas relativas aos custos aprovados, decorridos 30 dias sobre o pagamento daquelas despesas por parte da entidade financiadora;\n\nc) Existência de deficiências organizativas ou contabilísticas que ponham em causa a execução técnica e financeira da iniciativa.\n\n2 - A suspensão determinada nos termos do número anterior não pode exceder o período de 30 dias, sob pena, da entidade financiadora resolver unilateralmente o contrato nos termos do artigo seguinte."
+  },
+  "956632875": {
+   "fragment_id": "956632775",
+   "type": 11,
+   "heading": "Artigo 22.º — Rescisão do contrato de concessão de apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Rescisão do contrato de concessão de apoio financeiro\n\n1 - Os contratos de concessão de apoios financeiros podem ser rescindidos pela entidade financiadora nos seguintes casos:\n\na) Não cumprimento dos objetivos e obrigações estabelecidas no contrato, nomeadamente o exercício desadequado das atividades propostas;\n\nb) Não cumprimento, por facto imputável à entidade beneficiária, das respetivas obrigações legais e fiscais;\n\nc) Utilização das verbas da iniciativa para fins diferentes dos aprovados;\n\nd) Recusa ou prestação de informações falsas sobre a situação da entidade beneficiária ou viciação de dados fornecidos nas fases de candidatura, de acompanhamento e de avaliação das intervenções.\n\n2 - A rescisão implica a caducidade dos apoios financeiros concedidos, ficando a entidade beneficiária obrigada a repor as importâncias já recebidas acrescidas de juros à taxa legal.\n\n3 - Antes da prática do ato previsto no número anterior, a entidade beneficiária é notificada nos termos dos artigos 100.º e 101.º do Código do Procedimento Administrativo.\n\n4 - Caso a entidade beneficiária não promova voluntariamente, no prazo de 20 dias úteis a contar da notificação do ato previsto no número anterior, o pagamento da quantia nele prevista, é aplicável o previsto no artigo 155.º do Código do Procedimento Administrativo."
+  },
+  "956633075": {
+   "fragment_id": "956632975",
+   "type": 1,
+   "heading": "Capítulo VI — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Financiamento"
+  },
+  "956633275": {
+   "fragment_id": "956633175",
+   "type": 11,
+   "heading": "Artigo 23.º — Elegibilidade de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Elegibilidade de despesas\n\n1 - Todas as despesas a considerar no âmbito das candidaturas destinam-se, exclusivamente, à prossecução dos projetos ou ações e regem-se por princípios de boa administração, boa gestão financeira e otimização dos recursos disponíveis.\n\n2 - As despesas elegíveis têm como implícito, no conceito de despesa, a obrigatoriedade de um pagamento por parte da instituição, que tem também de ser comprovado.\n\n3 - A decisão de elegibilidade das despesas depende do plano de ação aprovado e da definição de rubricas orçamentais elegíveis conforme formulários financeiros próprios a disponibilizar pela entidade financiadora"
+  },
+  "956633475": {
+   "fragment_id": "956633375",
+   "type": 11,
+   "heading": "Artigo 24.º — Alterações ao projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Alterações ao projeto\n\n1 - Caso a entidade beneficiária dos apoios financeiros pretenda introduzir alguma alteração técnica ou que resulte na alteração da estrutura orçamental deve elaborar, no decorrer do período de vigência do projeto ou da ação, pedido devidamente fundamentado em termos técnicos ou financeiros.\n\n2 - A entidade financiadora pode autorizar as alterações ao projeto, desde que:\n\na) Não ultrapassem a duração máxima estabelecida no artigo 5.º do Decreto-Lei n.º 186/2006, de 12 de setembro;\n\nb) Não seja ultrapassado o montante máximo de financiamento atribuído e seja respeitada a percentagem máxima de financiamento prevista na alínea e) do n.º 2 do artigo 9.º;\n\nc) Exista dotação orçamental."
+  },
+  "956633675": {
+   "fragment_id": "956633575",
+   "type": 11,
+   "heading": "Artigo 25.º — Processamento do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Processamento do financiamento\n\n1 - Após assinatura do contrato o financiamento dos projetos ou ações é efetuado preferencialmente, através de um adiantamento seguido de pedidos de reembolso ou de forma faseada.\n\n2 - A escolha da modalidade de financiamento é da responsabilidade da entidade financiadora, devendo as suas especificações constar em aviso de abertura.\n\n3 - O financiamento dos projetos plurianuais é efetuado por referência ao valor previsto para cada ano do projeto, de acordo com o plano orçamental anual aprovado.\n\n4 - A existência de saldo negativo do projeto ou ação, após apuramento de saldo anual, bem como o respetivo montante, devem ser comunicados à entidade beneficiária dos apoios financeiros por carta registada.\n\n5 - O saldo devedor deve ser devolvido no prazo máximo de 30 dias úteis após a receção da comunicação, podendo transitar para o ano seguinte caso a entidade beneficiária justifique fundadamente que o saldo devedor se deveu a atrasos não imputáveis a si no cumprimento de certas ações que transitaram para o ano seguinte."
+  },
+  "956633875": {
+   "fragment_id": "956633775",
+   "type": 1,
+   "heading": "Capítulo VII — Comissão de Coordenação de Apoios Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Comissão de Coordenação de Apoios Financeiros"
+  },
+  "956634075": {
+   "fragment_id": "956633975",
+   "type": 11,
+   "heading": "Artigo 26.º — Comissão de Coordenação de Apoios Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Comissão de Coordenação de Apoios Financeiros\n\n1 - É instituída a comissão de coordenação de apoios financeiros a pessoas coletivas privadas sem fins lucrativos, doravante designada por comissão.\n\n2 - A comissão é constituída pelos dirigentes máximos de cada um dos organismos do Ministério da Saúde com competência para atribuir apoios financeiros nos termos do Decreto-Lei n.º 186/2006, de 12 de setembro, e pelo presidente do conselho diretivo da Administração Central do Sistema de Saúde, I. P.\n\n3 - Os dirigentes máximos dos organismos referidos no número anterior têm a faculdade de designar outra pessoa em sua substituição.\n\n4 - A presidência da comissão compete ao diretor-geral da saúde ou ao representante por si designado."
+  },
+  "956634275": {
+   "fragment_id": "956634175",
+   "type": 11,
+   "heading": "Artigo 27.º — Competências e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competências e funcionamento\n\n1 - Compete à comissão monitorizar a atribuição de apoios financeiros por parte dos organismos do Ministério da Saúde, definir medidas de controlo da informação disponibilizada e propor ao membro do Governo responsável pela área da saúde as medidas de articulação de procedimentos que assegurem a coerência dos critérios entre os vários organismos.\n\n2 - O regulamento interno da comissão é elaborado e submetido a homologação do membro do Governo responsável pela área da saúde."
+  },
+  "956634475": {
+   "fragment_id": "956634375",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições especiais relativas à atribuição de apoios financeiros pelo Instituto Português do Sangue e da Transplantação, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições especiais relativas à atribuição de apoios financeiros pelo Instituto Português do Sangue e da Transplantação, I. P."
+  },
+  "956634675": {
+   "fragment_id": "956634575",
+   "type": 11,
+   "heading": "Artigo 28.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Objetivos\n\nA atribuição dos apoios financeiros previstos no presente Regulamento pelo IPST, I. P., visa fomentar a participação direta e ativa das pessoas coletivas privadas sem fins lucrativos, bem como das respetivas federações, na prossecução dos seguintes objetivos:\n\na) Promoção da educação da população para a dádiva de sangue;\n\nb) Promoção da fidelização dos dadores de sangue;\n\nc) Apoio e dinamização das sessões de colheita de sangue."
+  },
+  "956634875": {
+   "fragment_id": "956634775",
+   "type": 11,
+   "heading": "Artigo 29.º — Projetos e ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Projetos e ações\n\nNo âmbito da presente Portaria podem ser atribuídos apoios financeiros pelo IPST, I. P. a:\n\na) Projetos e ações de duração anual apresentados por pessoas coletivas privadas sem fins lucrativos ou pelas respetivas federações;\n\nb) Projetos e ações de duração inferior a um ano, de âmbito nacional, regional ou local, apresentadas por pessoas coletivas privadas sem fins lucrativos ou pelas respetivas federações, direcionadas para áreas de intervenção de promoção da dádiva e colheita de sangue e para destinatários ou períodos temporais específicos, a determinar pelo IPST, I. P."
+  },
+  "956635075": {
+   "fragment_id": "956634975",
+   "type": 11,
+   "heading": "Artigo 30.º — Áreas de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Áreas de intervenção\n\n1 - Para efeitos de atribuição dos apoios financeiros previstos no presente Regulamento pelo IPST, I. P., podem ser apresentadas candidaturas a projetos ou ações nas seguintes áreas de intervenção de promoção da dádiva e colheita de sangue:\n\na) Informação;\n\nb) Sensibilização;\n\nc) Educação;\n\nd) Promoção e organização de sessões de colheita de sangue.\n\n2 - As candidaturas a projetos ou ações apresentadas nas áreas de intervenção referidas no número anterior dirigem-se, preferencialmente, aos seguintes destinatários:\n\na) À população escolar;\n\nb) Aos jovens entre os 18 e os 34 anos;\n\nc) Ao meio laboral;\n\nd) A comunidades locais;\n\ne) A grupos alvo específicos."
+  },
+  "956635275": {
+   "fragment_id": "956635175",
+   "type": 11,
+   "heading": "Artigo 31.º — Procedimento de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Procedimento de candidatura\n\n1 - As candidaturas apresentadas no âmbito de procedimentos de financiamento abertos pelo IPST, I. P., devem ser acompanhadas dos documentos referidos nas alíneas a) a c) e alíneas h) e i) do n.º 5 do artigo 10.º\n\n2 - Devem ainda acompanhar as candidaturas, os seguintes documentos:\n\na) Declaração sobre a existência de outros apoios financeiros recebidos de serviços e organismos do Ministério da Saúde, com indicação dos projetos e atividades a que os mesmos se destinam e respetiva periodicidade;\n\nb) Declaração sobre a existência de protocolos ou outro tipo de acordos com serviços, organismos ou estabelecimentos dependentes do Ministério da Saúde.\n\nc) Plano de atividades do qual conste a indicação ou descrição das iniciativas a desenvolver.\n\n3 - Quando a candidatura seja apresentada por federações de pessoas coletivas privadas sem fins lucrativos, o plano de atividades previsto na alínea c) do número anterior deve refletir:\n\na) O apoio a conceder à atuação das pessoas coletivas privadas sem fins lucrativos que, pela sua distribuição geográfica, demonstrem maior dificuldade na prossecução dos seus fins, sendo a sua elegibilidade da exclusiva responsabilidade da federação; e\n\nb) As ações de formação e promoção da dádiva a realizar.\n\n4 - As candidaturas apresentadas por federações de pessoas coletivas privadas sem fins lucrativos devem ainda ser, obrigatoriamente, acompanhadas por declaração atualizada da qual conste o número total e a identificação de cada pessoa coletiva privada sem fins lucrativos por si representada."
+  },
+  "956635475": {
+   "fragment_id": "956635375",
+   "type": 11,
+   "heading": "Artigo 32.º — Seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Seleção das candidaturas\n\nA deliberação final da comissão de seleção sobre as candidaturas deve conter a lista das candidaturas aprovadas, com a respetiva fundamentação."
+  },
+  "956635675": {
+   "fragment_id": "956635575",
+   "type": 11,
+   "heading": "Artigo 33.º — Contratualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Contratualização\n\nO contrato que formaliza a concessão de apoio financeiro é remetido pela entidade financiadora à entidade beneficiária, devendo ser assinado por esta no prazo de 5 dias úteis a contar da data de receção do mesmo, sob pena de o procedimento ser dado por findo quanto à entidade beneficiária, sem prejuízo do direito de indemnização por danos pré-contratuais por parte da entidade financiadora."
+  },
+  "956635875": {
+   "fragment_id": "956635775",
+   "type": 11,
+   "heading": "Artigo 34.º — Apoios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Apoios financeiros\n\n1 - O montante financeiro global dos apoios financeiros a conceder no âmbito do presente Regulamento é fixado anualmente.\n\n2 - A verba orçamental afeta ao apoio no âmbito da promoção da dádiva e colheita de sangue é distribuída do seguinte modo:\n\na) Projetos e ações de duração anual apresentados por pessoas coletivas privadas sem fins lucrativos - entre 60% a 85% do montante financeiro global atribuído ao IPST, I. P., nos termos do n.º 1;\n\nb) Projetos e ações de duração anual apresentados por federações de pessoas coletivas privadas sem fins lucrativos - entre 5% a 15% do montante financeiro global atribuído ao IPST, I. P., nos termos do n.º 1;\n\nc) Projetos e ações de duração inferior a um ano, entre 10% a 30% do montante financeiro global atribuído ao IPST, I. P., nos termos do n.º 1.\n\n3 - O montante atribuído pelo IPST, I. P., às federações nos termos do disposto na alínea b) do número anterior visa:\n\na) Apoiar a atuação das pessoas coletivas privadas sem fins lucrativos que, pela sua distribuição geográfica, demonstrem maior dificuldade na prossecução dos seus fins, sendo a sua elegibilidade da exclusiva responsabilidade da federação;\n\nb) Apoiar a realização de ações de formação e promoção da dádiva.\n\n4 - Quando seja apresentada candidatura por mais do que uma federação, a percentagem prevista na alínea b) do n.º 2 do presente artigo é distribuída proporcionalmente, de acordo com o número de pessoas coletivas privadas sem fins lucrativos que integram a respetiva estrutura federativa.\n\n5 - O apoio financeiro a atribuir pelo IPST, I. P., com respeito pelos limites previstos no n.º 2 do presente artigo, tem por base, nomeadamente:\n\na) O número de colheitas efetivas;\n\nb) As ações de promoção propostas;\n\nc) O surgimento de novos dadores e a idade dos mesmos;\n\nd) A adequação, pertinência e consistência das iniciativas e meios propostos;\n\ne) A adequação e pertinência das despesas previstas.\n\n6 - O apoio concedido pelo IPST, I. P., reveste a forma de financiamento não reembolsável."
+  },
+  "956636075": {
+   "fragment_id": "956635975",
+   "type": 11,
+   "heading": "Artigo 35.º — Dossier técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Dossier técnico\n\nO dossier técnico deve conter os elementos previstos nas alíneas a) a c) e f) do n.º 1 do artigo 17.º do presente Regulamento."
+  },
+  "956636275": {
+   "fragment_id": "956636175",
+   "type": 11,
+   "heading": "Artigo 36.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Aplicação subsidiária\n\nEm tudo o que não se encontrar previsto no presente capítulo, é aplicável ao IPST, I. P., as disposições constantes dos Capítulos I a VII do presente Regulamento."
+  },
+  "956636475": {
+   "fragment_id": "956636375",
+   "type": 1,
+   "heading": "Capítulo IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX\n\nDisposições especiais relativas ao Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD)"
+  },
+  "956636675": {
+   "fragment_id": "956636575",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nProgramas de Respostas Integradas"
+  }
+ }
+}

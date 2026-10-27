@@ -1,0 +1,178 @@
+---
+schema_version: '1.0'
+id: pt:dre:548074:por
+title: Decreto n.º 39/89
+short_title: null
+summary: Aprova o Acordo de Cooperação no Domínio da Estatística entre o Governo da República Portuguesa e o Governo da República
+  Democrática de São Tomé e Príncipe
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 39/89
+official_date: null
+publication_date: '1989-09-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 223/1989, Série I de 1989-09-27
+  number: '223'
+  series: I
+  supplement: null
+  pages: 4290 - 4292
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22300/42904292.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '548074'
+  dre_path: /dr/detalhe/decreto/39-1989-548074
+  internal: pt:dre:548074:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-1989-548074
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/39-1989-548074
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:02:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 76a743af9766bacd38ccfb1f32a349322ec94ec3c5fbb858f20b6f553c16e191
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:02:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Estatística
+- Portugal
+- São Tomé
+relationships: []
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:02:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 39/89
+
+de 27 de Setembro
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+Artigo único. É aprovado o Acordo de Cooperação no Domínio da Estatística entre a República Portuguesa e a República Democrática de São Tomé e Príncipe, feito em São Tomé, a 8 de Novembro de 1988, cujo texto original em português vai anexo ao presente decreto,
+
+Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1989. - Aníbal António Cavaco Sila José Manuel Nunes Liberato - João de Deus Rogado Salvador Pinheiro.
+
+Assinado em 13 de Setembro de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 15 de Setembro de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+ACORDO DE COOPERAÇÃO NO DOMÍNIO DA ESTATÍSTICA ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE.
+
+O Governo da República Portuguesa e o Governo da República Democrática de São Tomé e Príncipe, em conformidade com as disposições de acordos de cooperação celebrados entre os dois países e no desejo de contribuírem para a realização de objectivos de interesse comum, acordam, pelo presente Acordo, os princípios pelos quais se regerá a cooperação no domínio técnico-científico da estatística.
+
+###### Artigo 1.º — Objecto
+
+O presente Acordo abrange todo o domínio técnico-científico da produção de estatísticas oficiais, no âmbito dos sistemas estatísticos nacionais dos dois Estados, e estabelece as formas de cooperação entre a Direcção de Estatística (DE), do Ministério da Economia e Finanças, e o Ministério da Cooperação (MC), pelo lado são-tomense, e o Instituto Nacional de Estatística (INE), do Ministério do Planeamento e da Administração do Território, e o Instituto para a Cooperação Económica (ICE), dos Ministérios dos Negócios Estrangeiros e das Finanças, pelo lado português, ou as entidades que lhe venham a suceder funcionalmente, com vista ao aproveitamento das respectivas capacidades na resolução de problemas que se levantem na actividade de produção de informação estatística.
+
+###### Artigo 2.º — Domínio
+
+As acções de cooperação a empreender inserir-se-ão nas áreas referidas nos artigos 3.º, 4.º, 5.º e 6.º, sem prejuízo de outras que, no futuro, venham a ser definidas por acordo das Partes.
+
+###### Artigo 3.º — Da Direcção de Estatística
+
+Na medida das suas possibilidades, a DE compromete-se a:
+
+a) Conceder prioridade aos técnicos do INE, em relação a quaisquer outros, na contratação para assistência técnica com financiamento internacional nas áres do seu domínio de especialidade;
+
+b) Enviar atempadamente ao INE todas as publicações que edite no âmbito da sua actividade, num quadro de regime de permuta.
+
+###### Artigo 4.º — Do Instituto Nacional de Estatística
+
+Na medida das suas possibilidades e em condições a acordar, o INE compromete-se a:
+
+a) Elaborar pareceres e informações técnicos que lhe sejam solicitados pela DE;
+
+b) Apoiar tecnicamente a criação e o funcionamento de um futuro centro de informática da DE, tanto no tocante à definição da configuração do equipamento e estrutura organizativa como em actividades de formação do seu pessoal e ainda de análise, programação e processamento de aplicações com grandes volumes de informação;
+
+c) Sob pedido da DE, prestar-lhe apoio na preparação de eventuais candidaturas de cidadãos são-tomenses ao concurso de admissão ao centro de formação de quadros superiores de estatística especificamente orientado para as necessidades dos países africanos de língua oficial portuguesa, que funcionará no seio do futuro Instituto Nacional Superior de Estatística Aplicada;
+
+d) Proporcionar ao pessoal da DE a frequência de estágios de formação por ela solicitados;
+
+e) Proporcionar a inscrição em cursos internos de formação e aperfeiçoamento profissional que organizar a cidadãos de nacionalidade são-tomense indicados pela DE;
+
+f) Apoiar a realização de acções de formação no domínio da estatística que venham a ter lugar na República Democrática de São Tomé e Príncipe, com envio de pessoal qualificado para ministrar cursos de formação profissional organizados pela DE;
+
+g) Enviar atempadamente à DE todas as publicações que edite no âmbito da sua actividade, num quadro de regime de permuta;
+
+h) Conceder facilidades de carácter administrativo-profissional aos seus técnicos que venham a ser seleccionados e recrutados para efectuarem missões de assistência técnica de interesse directo para a DE, tanto no quadro da cooperação bilateral como no da multilateral.
+
+###### Artigo 5.º — Do Instituto para a Cooperação Económica
+
+Nos termos do programa referido nas alíneas a) e b) do artigo 7.º, o ICE suportará os encargos com as bolsas a conceder em Portugal aos cidadãos são-tomenses que venham a usufruir das actividades de formação mencionadas na alínea d) e no míximo de três bolsas anuais no âmbito da alínea e) do artigo 4.º e, na medida das suas possibilidades, com outras acções de cooperação para as quais não seja possível obter financiamento externo.
+
+###### Artigo 6.º — Troca de informações
+
+As Partes comprometem-se a promover uma troca regular de informações sobre reuniões nacionais e internacionais no domínio técnico-científico da estatística em que participem as instituições que as representam, ressalvando aquelas resguardadas pelo segredo de Estado em cada uma.
+
+###### Artigo 7.º — Gestão do Acordo
+
+A gestão deste Acordo será feita por uma comissão coordenadora, com carácter permanente, que integrará um membro de cada instituição, competindo-lhe:
+
+a) Elaborar os programas de trabalho anuais, cujas linhas gerais deverão estar definidas até 15 de Novembro do ano anterior ao da sua execução;
+
+b) Submeter aos órgãos directivos de cada instituição o programa de trabalho anual, suficientemente detalhado e fundamentado, principalmente no que respeita à definição dos recursos humanos, técnicos e financeiros necessários, de modo que possa ser aprovado até 15 de Dezembro seguinte;
+
+c) Velar pelo cumprimento dos programas aprovados e elaborar até 31 de Janeiro de cada ano um relatório de avaliação da execução do programa aprovado para o ano anterior, com eventuais propostas para o desenvolvimento da cooperação.
+
+###### Artigo 8.º — Validade
+
+O presente Acordo entrará em vigor na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica interna de cada uma das Partes e será válido por um período anual, automaticamente prorrogável, podendo ser denunciado por qualquer das Partes, mediante comunicação escrita à outra, com uma antecedência mínima de 90 dias sobre a data do período então em curso.
+
+Feito em São Tomé, aos 8 de Novembro de 1988 em dois exemplares em língua portuguesa, fazendo ambos igualmente fé.
+
+Pela República Portuguesa:
+
+José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.
+
+Pela República Democrática de São Tomé e Príncipe:
+
+Guilherme Pósser da Costa, Ministro da Cooperação.

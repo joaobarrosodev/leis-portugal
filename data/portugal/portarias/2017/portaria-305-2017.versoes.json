@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108316315:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-915234293",
+ "dre_path": "/dr/detalhe/portaria/305-2017-108316315",
+ "source_lastmod": "2025-04-15",
+ "versions": [
+  {
+   "date": "2017-10-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "915234479",
+    "915234480",
+    "915234481",
+    "915234482",
+    "915234484",
+    "915234485"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:915072121:por",
+     "title": "Portaria n.º 186/2025/1",
+     "published": "2025-04-15",
+     "dre_path": "/dr/detalhe/portaria/186-2025-915072121",
+     "date": "2024-04-20"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "915234479": {
+   "fragment_id": "915234294",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 305/2017\n\nde 17 de outubro\n\nCom o objetivo de reforçar as iniciativas das comunidades portuguesas no estrangeiro, o Decreto-Lei n.º 124/2017, de 27 de setembro, estabeleceu e regulou as condições de atribuição de apoios pelo Ministério dos Negócios Estrangeiros às ações do movimento associativo das comunidades portuguesas.\n\nA nova disciplina pauta-se por um reforço de organização e de rigor na avaliação e aplicação dos meios públicos ao serviço do movimento associativo, em consonância com os princípios gerais que regem a concessão de subvenções públicas, estabelecidos pelo Decreto-Lei n.º 167/2008, de 26 de agosto, alterado pela Lei n.º 64/2013, de 27 de agosto.\n\nO n.º 7 do artigo 5.º e o n.º 5 do artigo 12.º do Decreto-Lei n.º 124/2017, de 27 de setembro, determinam respetivamente que o modelo de formulário de candidatura e o modelo de relatório final são aprovados por portaria do membro do Governo responsável pela área dos assuntos consulares, qualquer deles disponível no Portal das Comunidades Portuguesas.\n\nNo sentido de garantir uma melhor adequação aos vários níveis de domínio das novas tecnologias, mantém-se a possibilidade de preenchimento por forma manual, a par da eletrónica, a escolher em alternativa.\n\nAssim, ao abrigo do disposto no n.º 7 do artigo 5.º e no n.º 5 do artigo 12.º do Decreto-Lei n.º 124/2017, de 27 de setembro, manda o Governo, pelo Ministro dos Negócios Estrangeiros, o seguinte:"
+  },
+  "915234480": {
+   "fragment_id": "915234295",
+   "type": 11,
+   "heading": "Artigo 1.º — Formulário de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Formulário de candidatura\n\nÉ aprovado o modelo de formulário de candidatura à atribuição de apoios, por parte do Ministério dos Negócios Estrangeiros, às ações do movimento associativo, constante do anexo I à presente portaria, da qual faz parte integrante."
+  },
+  "915234481": {
+   "fragment_id": "915234296",
+   "type": 11,
+   "heading": "Artigo 2.º — Relatório final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Relatório final\n\nÉ aprovado o modelo de relatório final de execução do apoio atribuído pelo Ministério dos Negócios Estrangeiros, constante do anexo II à presente portaria, da qual faz parte integrante."
+  },
+  "915234482": {
+   "fragment_id": "915234297",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "915234484": {
+   "fragment_id": "915234299",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 1.º)\n\n(ver documento original)"
+  },
+  "915234485": {
+   "fragment_id": "915234300",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 2.º)\n\n(ver documento original)"
+  }
+ }
+}

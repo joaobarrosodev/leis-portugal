@@ -1,0 +1,280 @@
+---
+schema_version: '1.0'
+id: pt:dre:571261:por
+title: Decreto Regulamentar Regional n.º 6-C/93/M
+short_title: null
+summary: Estabelece a estrutura orgânica da Direcção Regional de Saúde da Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 6-C/93/M
+official_date: null
+publication_date: '1993-03-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 71/1993, 1º Suplemento, Série I-B de 1993-03-25
+  number: '71'
+  series: I
+  supplement: null
+  pages: 1480-(4) a 1480-(7)
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/03/071b01/00040007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/6-c/1993/03/25/m/dre/pt/html
+  oj: null
+  dre: '571261'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/6-c-1993-571261
+  internal: pt:dre:571261:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-c-1993-571261
+  metadata_url: https://data.dre.pt/eli/decregulreg/6-c/1993/03/25/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-c-1993-571261
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:45:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c0f2d7a49818384f7fed5fcf6de4122783eb9b6380137b7a7d5dd536eb202344
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Regional de Saúde
+- Estatuto
+- Madeira.região Autónoma
+- Orgânica
+- Serviço Regional de Saúde
+relationships:
+- type: amended_by
+  target: pt:dre:509787:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:509787:por
+  label: "Extinta a Direcção Regional de Saúde e revogado o presente diploma pelo DRR.3-A/97/M.1997.02.06.PG-RAM, DR.IS-B\
+    \ [31]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-a-1997-509787
+  date: '1997-02-06'
+- type: cites
+  target: pt:dre:232343:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/27/1992/09/24/m/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:681580:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/21/1991/08/07/m/dre
+article_structure:
+  article_count: 12
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:45:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 6-C/93/M
+
+Estabelece a estrutura orgânica da Direcção Regional de Saúde da Região Autónoma da Madeira
+
+O Decreto Legislativo n.º 21/91/M, de 7 de Agosto, que consagra o Estatuto do Sistema Regional de Saúde, estabelece, no seu preâmbulo, que este foi concebido, em termos genéricos, de modo a favorecer a evolução das soluções face às mudanças que viessem a ocorrer. Concretamente, no seu n.º 4, no que respeita à organização e gestão do sistema, afirma-se que, de um ponto de vista normativo, o «conjunto como já fica expresso assumirá as adaptações que sejam aconselhadas no futuro».
+
+Sem prejuízo da necessária articulação, havia, por um lado, que salvaguardar e mesmo reforçar a autonomia e responsabilidade, quer dos serviços prestadores de cuidados diferenciados, quer daqueles que se ocupam dos cuidados de saúde primários. Neste sentido foi dado um passo importante através do [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro, por via do qual se estabelece a estrutura orgânica e o funcionamento do Serviço Regional de Saúde.
+
+A experiência, por outro lado, tem demonstrado a necessidade de separar claramente as competências e responsabilidades no que diz respeito ao nível operativo da prestação de cuidados de saúde e ao nível técnico-normativo e de inspecção. Assim, a criação da Direcção Regional de Saúde vem dotar o aparelho da Secretaria Regional dos Assuntos Sociais de um serviço técnico-normativo e de inspecção para o Serviço Regional de Saúde, de acordo com o previsto no artigo 7.º do [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto.
+
+Ultrapassa-se, pois, a sectorização entre cuidados de saúde primários e cuidados de saúde diferenciados e dá-se ênfase aos princípios da indivisibilidade da protecção da saúde, da unidade de organização e da continuidade técnica e administrativa dos cuidados.
+
+Assim, nos termos do artigo 21.º do [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto, e da alínea d) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o Governo Regional da Madeira decreta o seguinte:
+
+### CAPÍTULO I — Natureza e atribuições
+
+###### Artigo 1.º — Natureza e atribuições
+
+1 - A Direcção Regional de Saúde, abreviadamente designada por DRS, é um órgão com funções de regulamentação, orientação técnico-normativa, planeamento, avaliação e inspecção da actividade desenvolvida pelos órgãos e serviços da Região Autónoma da Madeira que intervêm na área da saúde, tanto a nível dos cuidados diferenciados, como ao nível dos cuidados de saúde primários.
+
+2 - São atribuições da DRS, designadamente:
+
+a) Dar apoio técnico à elaboração de medidas de política de saúde, a definir pelo Secretário Regional dos Assuntos Sociais;
+
+b) Promover e orientar a articulação dos dois centros prestadores de cuidados de saúde, nomeadamente no âmbito da elaboração do plano anual de actividades do Serviço Regional de Saúde, numa perspectiva integrada dos planos de acção daqueles centros;
+
+c) Elaborar orientações e regulamentos que garantam a execução harmoniosa e coordenada da legislação, nomeadamente em matéria de recursos humanos;
+
+d) Elaborar e aplicar instrumentos de inspecção técnica e de avaliação do funcionamento dos organismos que actuam na sua dependência, particularmente da qualidade dos serviços prestados por estes;
+
+e) Desenvolver, em colaboração com o Serviço de Formação Permanente de Pessoal e com os centros regionais, o plano estratégico de formação dos profissionais do Serviço Regional de Saúde, bem como coordenar e enquadrar os respectivos planos anuais;
+
+f) Definir a orientação estratégica e o enquadramento da investigação no campo da saúde, nomeadamente no que diz respeito à sua articulação com o trabalho de pesquisa desenvolvido por entidades nacionais e internacionais;
+
+g) Conceber, promover e executar projectos, estudos e programas em áreas comuns da saúde, não específicas a qualquer dos subsectores;
+
+h) Definir o enquadramento da cooperação a desenvolver pelos centros regionais e cooperar com organizações nacionais e internacionais do sector da saúde;
+
+i) Dirigir e coordenar a elaboração e execução do plano regional de informática da saúde;
+
+j) Elaborar e manter actualizada a Carta de Saúde da Região Autónoma da Madeira;
+
+l) Orientar, avaliar e inspeccionar a actividade farmacêutica;
+
+m) Orientar, avaliar e inspeccionar outras entidades privadas prestadoras de serviços de saúde;
+
+n) Proceder à publicação de informação e estudos relativos ao Serviço Regional de Saúde;
+
+o) Assumir as demais atribuições, competências e tarefas que lhe venham a ser confiadas ou delegadas pelo Secretário Regional dos Assuntos Sociais.
+
+###### Artigo 2.º — Órgãos e serviços
+
+A DRS compreende os seguintes órgãos e serviços:
+
+a) Director regional;
+
+b) Serviço de Apoio Administrativo;
+
+c) Gabinete Técnico.
+
+###### Artigo 3.º — Dependência dos órgãos executivos
+
+O Centro Hospitalar do Funchal (CHF) e o Centro Regional de Saúde (CRS) actuam na dependência da DRS, de acordo com o disposto no Estatuto do Sistema de Saúde da Região Autónoma da Madeira.
+
+###### Artigo 4.º — Director regional
+
+1 - O director regional actua na directa dependência do Secretário Regional dos Assuntos Sociais, competindo-lhe dirigir, orientar e coordenar os serviços que integram a DRS.
+
+2 - Compete, nomeadamente, ao director regional:
+
+a) Representar a DRS;
+
+b) Estabelecer a articulação e a unidade de gestão entre os serviços dependentes da DRS, através do planeamento das actividades do Serviço Regional de Saúde e de outras formas de trabalho;
+
+c) A articulação com os outros sectores da SRAS, nomeadamente com a Direcção Regional de Segurança Social, bem como com outros departamentos do Governo Regional;
+
+d) Orientar e coordenar a cooperação com entidades nacionais e internacionais do sector da saúde;
+
+e) Desempenhar as demais funções que lhe sejam cometidas por lei ou por delegação.
+
+3 - No que diz respeito ao Centro Hospitalar do Funchal e ao Centro Regional de Saúde, cabe ao director regional coordenar todas as tarefas que se situam em áreas comuns de intervenção dos serviços de saúde, nomeadamente aquelas que visam regulamentar, orientar, avaliar e fiscalizar as actividades de promoção da saúde, de prevenção da doença e da prestação dos cuidados.
+
+###### Artigo 5.º — Gabinete Técnico
+
+1 - O Gabinete Técnico é um serviço com funções executivas e de assessoria ao director regional, competindo-lhe, nomeadamente:
+
+a) Emitir informações e pareceres;
+
+b) Conceber, coordenar e executar estudos e projectos relativos às atribuições da DRS;
+
+c) Dar resposta estruturada às responsabilidades de natureza técnico-normativa, de inspecção técnica e de planeamento e avaliação.
+
+2 - O Gabinete adoptará a estrutura considerada mais adequada, designadamente sob a forma de núcleos e projectos.
+
+3 - A coordenação de núcleos e projectos será confiada a profissionais com formação apropriada, que poderão ser equiparados, para efeitos de vencimento, a director de serviços e a chefe de divisão.
+
+4 - Poderá ainda a chefia de projectos ser entregue a especialistas, professores e investigadores não vinculados à SRAS, se tal se verificar necessário, em condições a autorizar caso a caso pelo Secretário Regional dos Assuntos Sociais.
+
+###### Artigo 6.º — Serviço de Apoio Administrativo
+
+O Serviço de Apoio Administrativo tem por funções prestar apoio administrativo geral ao director regional e aos serviços da DRS, designadamente no que diz respeito ao expediente, arquivo e secretariado, e será coordenado por um chefe de secção.
+
+### CAPÍTULO II — Pessoal
+
+###### Artigo 7.º — Carreiras e dotação
+
+1 - O pessoal a recrutar para a DRS é agrupado em:
+
+a) Pessoal dirigente;
+
+b) Pessoal técnico superior;
+
+c) Pessoal técnico;
+
+d) Pessoal técnico-profissional;
+
+e) Pessoal administrativo;
+
+f) Pessoal auxiliar.
+
+2 - Os serviços da DRS poderão ser assegurados por pessoal dos quadros do CHF e do CRS em comissão de serviço extraordinária.
+
+3 - As dotações em pessoal para a DRS, durante o período de instalação, serão estabelecidas em portaria conjunta dos Secretários Regionais das Finanças e dos Assuntos Sociais.
+
+4 - A DRS poderá também fazer face às necessidades de recursos humanos através das formas previstas na lei, nomeadamente estabelecendo protocolos com outras entidades e recorrendo a contratos de tarefa e avença.
+
+###### Artigo 8.º — Regime jurídico do pessoal
+
+O regime jurídico do pessoal é o constante do presente diploma, da legislação específica, das leis aplicáveis ao regime de instalação e das leis gerais aplicáveis à administração regional autónoma.
+
+### CAPÍTULO III — Articulação com outras entidades
+
+###### Artigo 9.º — Articulação com outras entidades
+
+De modo a assegurar a prossecução dos objectivos do Sistema Regional de Saúde, a DRS articular-se-á, na sua acção:
+
+a) Com os restantes serviços da SRAS e, em particular, com a Direcção Regional de Segurança Social, com vista a assegurar a consecução do objectivo comum de defesa e promoção da qualidade de vida dos cidadãos;
+
+b) Com outros sectores da Administração;
+
+c) Com outros organismos, a nível nacional e internacional, cuja cooperação se mostre pertinente para o objectivo atrás referido.
+
+### CAPÍTULO IV — Disposições finais e transitórias
+
+###### Artigo 10.º — Orçamento
+
+1 - A DRS terá as suas despesas cobertas por dotação orçamental, inscrita em capítulo próprio do orçamento da Secretaria Regional dos Assuntos Sociais.
+
+2 - No corrente ano de 1993, os encargos com o funcionamento da DRS serão suportados por verbas inscritas no orçamento da Secretaria Regional dos Assuntos Sociais.
+
+###### Artigo 11.º — Regime de funcionamento
+
+1 - A DRS funcionará em regime de instalação pelo período de um ano, renovável por mais um ano, por despacho do Secretário Regional dos Assuntos Sociais.
+
+2 - Durante esse período, a especificação de competências e funcionamento interno constarão de regulamento a aprovar pelo Secretário Regional dos Assuntos Sociais.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional
+
+em 4 de Março de 1993.
+
+O Presidente do Governo Regional, em exercício, Manuel Jorge Bazenga Marques.
+
+Assinado em 24 de Março de 1993.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

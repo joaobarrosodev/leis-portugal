@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:277098:por
+title: Portaria n.º 651/77
+short_title: null
+summary: Estabelece normas relativas à integração do pessoal da Assessoria Jurídica da Junta de Investigações Científicas
+  do Ultramar na Secretaria-Geral do Ministério da Educação e Investigação Científica
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Educação e Investigação Científica
+proposing_entity: null
+official_number: 651/77
+official_date: null
+publication_date: '1977-10-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 242/1977, Série I de 1977-10-19
+  number: '242'
+  series: I
+  supplement: null
+  pages: 2517 - 2518
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/10/24200/25172518.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '277098'
+  dre_path: /dr/detalhe/portaria/651-1977-277098
+  internal: pt:dre:277098:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/651-1977-277098
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/651-1977-277098
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:27:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 956b8f5112b5a3846da2c949ba08e7435635336e8b11f58f8be696332f74a364
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:27:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Lugares
+- Extinção de Lugares
+- Integração de Trabalhadores
+- Junta de Investigações Científicas do Ultramar
+- Ministério da Educação e Investigação Científica
+- Quadro de Pessoal
+- Secretaria Geral
+relationships:
+- type: cites
+  target: pt:dre:233689:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674193:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:27:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 651/77
+
+de 19 de Outubro
+
+A Junta de Investigações Científicas do Ultramar é um organismo de investigação integrado no Ministério da Educação e Investigação Científica, nos termos do [Decreto-Lei n.º 769-C/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-c-1976-233689), de 23 de Outubro.
+
+Com a publicação do [Decreto-Lei n.º 291/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1977-250845), de 19 de Julho, foi o Ministro da Educação e Investigação Científica autorizado a tomar as providências consideradas necessárias, por meio de portaria, com vista a adequar os organismos e serviços da Junta de Investigações Científicas do Ultramar à prossecução dos objectivos da política de investigação científica, mediante reestruturação, integração ou extinção, total ou parcial, no âmbito da JICU e fora dele.
+
+Considerando que as funções da denominada Assessoria Jurídica da JICU se enquadram na competência da Auditoria Jurídica do MEIC, que funciona junto da respectiva Secretaria-Geral;
+
+Nos termos do artigo 22.º do Decreto-Lei n.º 683-A/76, de 10 de Setembro:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Educação e Investigação Científica e Secretário de Estado da Administração Pública:
+
+1.º - 1 - O pessoal da Junta de Investigações Científicas do Ultramar em serviço no sector denominado Assessoria Jurídica será integrado, mantendo a sua actual categoria, na Secretaria-Geral do Ministério da Educação e Investigação Científica.
+
+2 - A integração far-se-á por lista nominativa elaborada pela referida Secretaria-Geral no prazo de quinze dias, homologada pelo Ministro da Educação e Investigação Científica, com dispensa de todas as formalidades legais, salvo o visto do Tribunal de Contas, publicação no Diário da República e observância dos requisitos legais de habilitações.
+
+2.º Aos mapas referidos nos n.os 1 e 2 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, acrescem os seguintes lugares correspondentes ao pessoal a integrar nos termos do artigo precedente:
+
+a) Ao mapa I, dois lugares de jurista de 2.ª classe e um de técnico auxiliar de 2.ª classe;
+
+b) Ao mapa II, um lugar de segundo-oficial.
+
+3.º Ficam extintos no quadro II «Pessoal técnico» da Junta de Investigações Científicas do Ultramar as categorias de jurista principal e de jurista de 2.ª classe.
+
+4.º O pessoal a que se refere o artigo 1.º poderá ser mandado prestar serviço na Auditoria Jurídica do Ministério da Educação e Investigação Científica por despacho do Ministro.
+
+5.º - 1 - Os encargos com a execução deste diploma serão no presente ano suportados por conta das verbas inscritas no orçamento privativo da Junta de Investigações Científicas do Ultramar destinadas a pessoal dos quadros aprovados por lei que se encontram devidamente assegurados.
+
+2 - No próximo ano esses encargos serão suportados pelas dotações atribuídas à Secretaria-Geral do Ministério da Educação e Investigação Científica, que para tal fica autorizada a proceder a um reforço de verba, se o julgar necessário, mediante a correspondente contrapartida cedida pela Junta de Investigações Científicas do Ultramar.
+
+Presidência do Conselho de Ministros e Ministério da Educação e Investigação Científica, 11 de Outubro de 1977. - O Ministro da Educação e Investigação Científica, Mário Augusto Sottomayor Cardia. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais.

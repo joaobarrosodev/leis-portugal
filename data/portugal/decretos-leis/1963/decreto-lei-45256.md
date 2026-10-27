@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:686788:por
+title: Decreto-Lei n.º 45256
+short_title: null
+summary: Fixa as gratificações, além dos vencimentos que lhes são conferidos, a abonar aos militares da Armada especializados
+  no serviço de mergulhadores
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Marinha - Inspecção de Marinha
+proposing_entity: null
+official_number: '45256'
+official_date: null
+publication_date: '1963-09-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 223/1963, Série I de 1963-09-21
+  number: '223'
+  series: I
+  supplement: null
+  pages: 1495 - 1496
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/09/22300/14951496.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '686788'
+  dre_path: /dr/detalhe/decreto-lei/45256-1963-686788
+  internal: pt:dre:686788:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45256-1963-686788
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45256-1963-686788
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:46:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8a916c0413928e2b3999b31542367032155cc575071c5e3a7ac911386d137ed8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:46:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Forças Armadas
+- Mergulhador
+- Remuneração Acessória
+relationships:
+- type: amended_by
+  target: pt:dre:612421:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:383606:por
+  label: "Alterado o art. 2.º pelo DEC LEI.253-A/79.27.07.1979.CR, DR.IS [172-Supl] de 27.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-a-1979-383606
+  date: '1979-07-27'
+- type: amended_by
+  target: pt:dre:612421:por
+  label: Alterado, a partir de 01.02.89, o art. 2.º (na redação do Dec Lei 253-A/79 de 27-jul) do presente diploma, pelo(a)
+    Decreto-Lei n.º 47/89 - Diário da República n.º 44/1989, Série I de 1989-02-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-1989-612421
+  date: '1989-02-22'
+- type: cites
+  target: pt:dre:385669:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:46:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45256
+
+Considerando que o Serviço de Mergulhadores da Armada sofreu recentemente importante reorganização, pela qual no exercício das várias funções são também admitidos oficiais e sargentos, ao contrário do que sucedia antigamente, em que eram só admitidas praças;
+
+Considerando que dessa reorganização resultou um aumento substancial de funções para os militares especializados neste ramo de serviço naval e que nesse aumento de funções se compreende a execução de missões de natureza militar, muito arriscadas, quer em tempo de paz, quer em tempo de guerra;
+
+Considerando ainda que a Armada tem o mais elevado interesse em que o seu quadro de mergulhadores se encontre devidamente preenchido com indivíduos perfeitamente aptos a desempenharem as tarefas que lhes podem ser exigidas e que para conseguir este fim se torna indispensável atribuir aos componentes desse quadro a justa compensação pelo serviço que desempenham e pelos riscos que correm;
+
+Considerando, finalmente, a conveniência de atribuir uma pequena compensação ao reduzido número de guias de mergulhadores que ficou subsistindo depois da publicação do Regulamento do Serviço de Mergulhadores, guias que têm sido prejudicados no acesso dentro das classes de origem a que pertencem, exactamente por terem devotado todo o seu esforço e actividade à especialidade que abraçaram;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+
+Artigo 1.º Além dos vencimentos que, pela legislação aplicável, são conferidos aos militares da Armada, os oficiais especializados em mergulhadores ou provenientes da classe de mergulhadores e os sargentos e praças da classe de mergulhadores têm direito às seguintes gratificações:
+
+a) Gratificação de serviço de mergulhador, abonável mensalmente a partir da data em que o militar seja qualificado como mergulhador, sempre que tiverem satisfeito o tempo mínimo de 90 minutos por mês de exercícios periódicos regulamentares ou realizado trabalhos com essa duração;
+
+b) Gratificação suplementar, abonável em função da profundidade e do tempo de imersão, quando o mergulhador tenha de estar submetido a pressão (imerso no mar, em tanques ou em câmaras de pressão) na realização de trabalhos próprios da sua especialidade ou executando exercícios de instrução ou de treino.
+
+Art. 2.º As gratificações a que se refere o artigo anterior são fixadas nos quantitativos seguintes:
+
+a) Gratificação de serviço de mergulhador:
+
+Oficiais especializados em mergulhadores-sapadores ... 1500$00
+
+Oficiais provenientes da classe de mergulhadores ... 1500$00
+
+Sargentos e praças da classe de mergulhadores:
+
+1.ª categoria ... 900$00
+
+2.ª categoria ... 700$00
+
+3.ª categoria ... 500$00
+
+b) Gratificação suplementar:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/09/22300/14951496.pdf)
+
+§ único. Durante a frequência de cursos de mergulhadores, no País ou no estrangeiro, os alunos oficiais terão direito à percepção de 75 por cento da correspondente gratificação fixada na alínea a) deste artigo e os alunos sargentos e praças igual percentagem da gratificação estabelecida na mesma disposição para a 3.ª categoria, mas o abono só lhes poderá ser liquidado e pago depois de os mesmos terem atingido uma qualificação equivalente à de mergulhador-vigia.
+
+Art. 3.º Aos mergulhadores-vigias será abonada a gratificação suplementar estipulada na alínea b) do artigo 2.º, sempre que tenham de estar submetidos a pressão (imersos no mar, em tanques ou em câmaras de pressão) na realização de trabalhos próprios da sua qualificação ou executando exercícios de instrução ou de treino.
+
+Art. 4.º Para efeito de gratificação a que se refere a alínea b) do artigo 2.º são considerados os seguintes casos:
+
+1.º O tempo de imersão conta-se, para os mergulhadores-sapadores e vigias, desde que eles se encontrem na água com o seu equipamento próprio e para os mergulhadores normais desde que o capacete mergulhe até que saia da água.
+
+2.º Quando os mergulhadores-sapadores mergulhem com equipamento de circuito fechado serão abonados do dobro dos quantitativos indicados na tabela, tendo em atenção as profundidades por eles atingidas.
+
+3.º O mergulhador que servir de guia a outro mergulhador ou a um grupo de mergulhadores perceberá de gratificação suplementar um quinto da que competir a um dos mergulhadores guiados.
+
+4.º No abono da gratificação por imersões para efeito de exercícios de instrução ou de treino não poderão ser considerados mais de 180 minutos mensais. Quando se verificar excesso e tenham sido diversas as profundidades de imersão o abono será liquidado tendo em conta os números de minutos correspondentes às maiores profundidades.
+
+5.º O abono da gratificação por importância superior à correspondente a 180 minutos mensais só poderá ter lugar por imersões para a execução de serviços ou de trabalhos e carece da autorização prévia do Ministro da Marinha.
+
+Art. 5.º Para efeitos de reserva e de reforma, o tempo de serviço prestado como mergulhador-sapador ou mergulhador normal, desde que este se encontre apto a realizar imersões e sempre que tenha satisfeito os tempos mínimos de exercícios periódicos regulamentares, ou realizado trabalhos com essa duração, será contado com as percentagens de aumento seguintes:
+
+40 por cento o de mergulhador-sapador.
+
+30 por cento o de mergulhador normal.
+
+Art. 6.º Os oficiais especializados em mergulhadores ou provenientes da classe de mergulhadores e os sargentos e praças da classe de mergulhadores têm as suas pensões de reserva e de reforma calculadas nas mesmas condições das do restante pessoal da Armada de idênticas categorias, mas à respectiva fórmula adicionar-se-á um dos termos:
+
+(6/1500) x g x n' ou (6/2000) x g x n'
+
+conforme se trate de mergulhadores-sapadores ou mergulhadores normais.
+
+§ único. O valor máximo de cada um dos termos fixados no corpo deste artigo corresponde a 60 por cento da gratificação consignada na alínea a) do artigo 1.º deste diploma, em que g representa a gratificação de serviço de mergulhadores percebida pelo militar no último posto em que realizou imersões e n' o número de horas de imersão que tiver efectuado, porém com os limites de 150 e de 200 horas, respectivamente para os mergulhadores-sapadores e para os mergulhadores normais.
+
+Art. 7.º Se o militar especializado em mergulhador tiver direito a reforma extraordinária em que haja de se atender à desvalorização, a sua pensão será calculada nos termos da legislação aplicável, entrando também na fórmula de cálculo a gratificação de serviço de mergulhador.
+
+Art. 8.º Os antigos guias de mergulhadores, a que se refere o regulamento aprovado pela [Portaria n.º 12800](https://diariodarepublica.pt/dr/detalhe/portaria/12800-1949-385669), de 30 de Abril de 1949, enquanto se mantiverem ao serviço vencerão a gratificação de serviço de 300$00 mensais e, sempre que executem trabalhos da sua especialidade, terão direito ao abono estabelecido no n.º 3.º do artigo 4.º deste diploma.
+
+Art. 9.º Ficam revogados os Decretos n.os 18344, de 17 de Maio de 1930, e 18619, de 16 de Julho do mesmo ano.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 21 de Setembro de 1963. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

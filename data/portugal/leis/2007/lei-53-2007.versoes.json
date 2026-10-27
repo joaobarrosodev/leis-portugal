@@ -1,0 +1,1266 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:641142:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-174279072",
+ "dre_path": "/dr/detalhe/lei/53-2007-641142",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174332693",
+    "174332694",
+    "174332695",
+    "174332696",
+    "174332697",
+    "174332698",
+    "174332699",
+    "174332700",
+    "174332701",
+    "174332702",
+    "174332703",
+    "174332704",
+    "174332705",
+    "174332706",
+    "174332707",
+    "174332708",
+    "174332709",
+    "174332710",
+    "174332711",
+    "174332712",
+    "174332713",
+    "174332714",
+    "174332715",
+    "174332716",
+    "174332717",
+    "174332718",
+    "174332719",
+    "174332720",
+    "174332721",
+    "174332722",
+    "174332723",
+    "174332724",
+    "174332725",
+    "174332726",
+    "174332727",
+    "174332728",
+    "174332729",
+    "174332730",
+    "174332731",
+    "174332732",
+    "174332733",
+    "174332734",
+    "174332735",
+    "174332736",
+    "174332737",
+    "174332738",
+    "174332739",
+    "174332740",
+    "174332741",
+    "174332742",
+    "174332743",
+    "174332744",
+    "174332745",
+    "174332746",
+    "174332747",
+    "174332748",
+    "174332749",
+    "174332750",
+    "174332751",
+    "174332752",
+    "174332753",
+    "174332754",
+    "174332755",
+    "174332756",
+    "174332757",
+    "174332758",
+    "174332759",
+    "174332760",
+    "174332761",
+    "174332762",
+    "174332763",
+    "174332764",
+    "174332765",
+    "174332766",
+    "174332767",
+    "174332768",
+    "174332769",
+    "174332770",
+    "174332771",
+    "174332772",
+    "174332773",
+    "174332774",
+    "174336175",
+    "174336176",
+    "174336177",
+    "174336178",
+    "174336179",
+    "174336180"
+   ]
+  },
+  {
+   "date": "2022-05-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174244808:por",
+     "title": "Lei n.º 73/2021",
+     "published": "2021-11-12",
+     "dre_path": "/dr/detalhe/lei/73-2021-174244808"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 29.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "174332693",
+    "174332694",
+    "174332695",
+    "174332696",
+    "174332697",
+    "174336182",
+    "174332699",
+    "174332700",
+    "174332701",
+    "174332702",
+    "174332703",
+    "174332704",
+    "174332705",
+    "174332706",
+    "174332707",
+    "174332708",
+    "174332709",
+    "174332710",
+    "174332711",
+    "174332712",
+    "174332713",
+    "174332714",
+    "174332715",
+    "174332716",
+    "174336183",
+    "174332718",
+    "174332719",
+    "174332720",
+    "174332721",
+    "174336184",
+    "174332723",
+    "174332724",
+    "174332725",
+    "174332726",
+    "174332727",
+    "174332728",
+    "174332729",
+    "174332730",
+    "174332731",
+    "174332732",
+    "174336185",
+    "174336186",
+    "174336187",
+    "174336188",
+    "174332736",
+    "174332737",
+    "174332738",
+    "174332739",
+    "174332740",
+    "174332741",
+    "174332742",
+    "174332743",
+    "174332744",
+    "174332745",
+    "174332746",
+    "174332747",
+    "174332748",
+    "174332749",
+    "174332750",
+    "174332751",
+    "174332752",
+    "174332753",
+    "174332754",
+    "174332755",
+    "174332756",
+    "174332757",
+    "174332758",
+    "174332759",
+    "174332760",
+    "174332761",
+    "174332762",
+    "174332763",
+    "174332764",
+    "174332765",
+    "174332766",
+    "174332767",
+    "174332768",
+    "174332769",
+    "174332770",
+    "174332771",
+    "174332772",
+    "174332773",
+    "174332774",
+    "174336175",
+    "174336176",
+    "174336177",
+    "174336178",
+    "174336179",
+    "174336180",
+    "174336181"
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221100276:por",
+     "title": "Lei n.º 53/2023",
+     "published": "2023-08-31",
+     "dre_path": "/dr/detalhe/lei/53-2023-221100276"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "174332693",
+    "174332694",
+    "174332695",
+    "174332696",
+    "174332697",
+    "221053341",
+    "174332699",
+    "174332700",
+    "174332701",
+    "174332702",
+    "174332703",
+    "174332704",
+    "174332705",
+    "174332706",
+    "174332707",
+    "174332708",
+    "174332709",
+    "174332710",
+    "174332711",
+    "174332712",
+    "174332713",
+    "174332714",
+    "174332715",
+    "174332716",
+    "174336183",
+    "174332718",
+    "174332719",
+    "174332720",
+    "174332721",
+    "174336184",
+    "174332723",
+    "174332724",
+    "174332725",
+    "174332726",
+    "174332727",
+    "174332728",
+    "174332729",
+    "174332730",
+    "174332731",
+    "174332732",
+    "174336185",
+    "174336186",
+    "174336187",
+    "174336188",
+    "174332736",
+    "174332737",
+    "174332738",
+    "174332739",
+    "174332740",
+    "174332741",
+    "174332742",
+    "174332743",
+    "174332744",
+    "174332745",
+    "174332746",
+    "174332747",
+    "174332748",
+    "174332749",
+    "174332750",
+    "174332751",
+    "174332752",
+    "174332753",
+    "174332754",
+    "174332755",
+    "174332756",
+    "174332757",
+    "174332758",
+    "174332759",
+    "174332760",
+    "174332761",
+    "174332762",
+    "174332763",
+    "174332764",
+    "174332765",
+    "174332766",
+    "174332767",
+    "174332768",
+    "174332769",
+    "174332770",
+    "174332771",
+    "174332772",
+    "174332773",
+    "174332774",
+    "174336175",
+    "174336176",
+    "174336177",
+    "174336178",
+    "174336179",
+    "174336180",
+    "174336181"
+   ]
+  },
+  {
+   "date": "2025-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:925904931:por",
+     "title": "Lei n.º 55-C/2025",
+     "published": "2025-07-22",
+     "dre_path": "/dr/detalhe/lei/55-c-2025-925904931"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 29.º-A"
+   ],
+   "fragments": [
+    "174332693",
+    "174332694",
+    "174332695",
+    "174332696",
+    "174332697",
+    "926310386",
+    "174332699",
+    "174332700",
+    "174332701",
+    "174332702",
+    "174332703",
+    "174332704",
+    "174332705",
+    "174332706",
+    "174332707",
+    "174332708",
+    "174332709",
+    "174332710",
+    "174332711",
+    "174332712",
+    "174332713",
+    "174332714",
+    "174332715",
+    "174332716",
+    "926310387",
+    "174332718",
+    "174332719",
+    "174332720",
+    "174332721",
+    "926310388",
+    "174332723",
+    "174332724",
+    "174332725",
+    "174332726",
+    "174332727",
+    "174332728",
+    "174332729",
+    "174332730",
+    "174332731",
+    "174332732",
+    "926310389",
+    "174336186",
+    "174336187",
+    "174336188",
+    "174332736",
+    "174332737",
+    "174332738",
+    "174332739",
+    "174332740",
+    "174332741",
+    "174332742",
+    "174332743",
+    "174332744",
+    "174332745",
+    "174332746",
+    "174332747",
+    "174332748",
+    "174332749",
+    "174332750",
+    "174332751",
+    "174332752",
+    "174332753",
+    "174332754",
+    "174332755",
+    "174332756",
+    "174332757",
+    "174332758",
+    "174332759",
+    "174332760",
+    "174332761",
+    "174332762",
+    "174332763",
+    "174332764",
+    "174332765",
+    "174332766",
+    "174332767",
+    "174332768",
+    "174332769",
+    "174332770",
+    "174332771",
+    "174332772",
+    "174332773",
+    "174332774",
+    "174336175",
+    "174336176",
+    "174336177",
+    "174336178",
+    "174336179",
+    "174336180",
+    "174336181"
+   ]
+  }
+ ],
+ "fragments": {
+  "174332693": {
+   "fragment_id": "174279073",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 53/2007\n\nde 31 de Agosto\n\nAprova a orgânica da Polícia de Segurança Pública\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "174332694": {
+   "fragment_id": "174279074",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Disposições gerais"
+  },
+  "174332695": {
+   "fragment_id": "174336075",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, atribuições e símbolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, atribuições e símbolos"
+  },
+  "174332696": {
+   "fragment_id": "174336076",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição\n\n1 - A Polícia de Segurança de Segurança Pública, adiante designada por PSP, é uma força de segurança, uniformizada e armada, com natureza de serviço público e dotada de autonomia administrativa.\n\n2 - A PSP tem por missão assegurar a legalidade democrática, garantir a segurança interna e os direitos dos cidadãos, nos termos da Constituição e da lei.\n\n3 - A PSP está organizada hierarquicamente em todos os níveis da sua estrutura, estando o pessoal com funções policiais sujeito à hierarquia de comando e o pessoal sem funções policiais sujeito às regras gerais de hierarquia da função pública."
+  },
+  "174332697": {
+   "fragment_id": "174336077",
+   "type": 11,
+   "heading": "Artigo 2.º — Dependência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Dependência\n\nA PSP depende do membro do Governo responsável pela área da administração interna e a sua organização é única para todo o território nacional."
+  },
+  "174332698": {
+   "fragment_id": "174336078",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Em situações de normalidade institucional, as atribuições da PSP são as decorrentes da legislação de segurança interna e, em situações de excepção, as resultantes da legislação sobre a defesa nacional e sobre o estado de sítio e de emergência.\n\n2 - Constituem atribuições da PSP:\n\na) Garantir as condições de segurança que permitam o exercício dos direitos e liberdades e o respeito pelas garantias dos cidadãos, bem como o pleno funcionamento das instituições democráticas, no respeito pela legalidade e pelos princípios do Estado de direito;\n\nb) Garantir a ordem e a tranquilidade públicas e a segurança e a protecção das pessoas e dos bens;\n\nc) Prevenir a criminalidade em geral, em coordenação com as demais forças e serviços de segurança;\n\nd) Prevenir a prática dos demais actos contrários à lei e aos regulamentos;\n\ne) Desenvolver as acções de investigação criminal e contra-ordenacional que lhe sejam atribuídas por lei, delegadas pelas autoridades judiciárias ou solicitadas pelas autoridades administrativas;\n\nf) Velar pelo cumprimento das leis e regulamentos relativos à viação terrestre e aos transportes rodoviários e promover e garantir a segurança rodoviária, designadamente através da fiscalização, do ordenamento e da disciplina do trânsito;\n\ng) Garantir a execução dos actos administrativos emanados da autoridade competente que visem impedir o incumprimento da lei ou a sua violação continuada;\n\nh) Participar no controlo da entrada e saída de pessoas e bens no território nacional;\n\ni) Proteger, socorrer e auxiliar os cidadãos e defender e preservar os bens que se encontrem em situações de perigo, por causas provenientes da acção humana ou da natureza;\n\nj) Manter a vigilância e a protecção de pontos sensíveis, nomeadamente infra-estruturas rodoviárias, ferroviárias, aeroportuárias e portuárias, edifícios públicos e outras instalações críticas;\n\nl) Garantir a segurança nos espectáculos, incluindo os desportivos, e noutras actividades de recreação e lazer, nos termos da lei;\n\nm) Prevenir e detectar situações de tráfico e consumo de estupefacientes ou outras substâncias proibidas, através da vigilância e do patrulhamento das zonas referenciadas como locais de tráfico ou consumo;\n\nn) Assegurar o cumprimento das disposições legais e regulamentares referentes à protecção do ambiente, bem como prevenir e investigar os respectivos ilícitos;\n\no) Participar, nos termos da lei e dos compromissos decorrentes de acordos, tratados e convenções internacionais, na execução da política externa, designadamente em operações internacionais de gestão civil de crises, de paz, e humanitárias, no âmbito policial, bem como em missões de cooperação policial internacional e no âmbito da União Europeia e na representação do País em organismos e instituições internacionais;\n\np) Contribuir para a formação e informação em matéria de segurança dos cidadãos;\n\nq) Prosseguir as demais atribuições que lhe forem cometidas por lei.\n\n3 - Constituem ainda atribuições da PSP:\n\na) Licenciar, controlar e fiscalizar o fabrico, armazenamento, comercialização, uso e transporte de armas, munições e substâncias explosivas e equiparadas que não pertençam ou se destinem às Forças Armadas e demais forças e serviços de segurança, sem prejuízo das competências de fiscalização legalmente cometidas a outras entidades;\n\nb) Licenciar, controlar e fiscalizar as actividades de segurança privada e respectiva formação, em cooperação com as demais forças e serviços de segurança e com a Inspecção-Geral da Administração Interna;\n\nc) Garantir a segurança pessoal dos membros dos órgãos de soberania e de altas entidades nacionais ou estrangeiras, bem como de outros cidadãos, quando sujeitos a situação de ameaça relevante;\n\nd) Assegurar o ponto de contacto permanente para intercâmbio internacional de informações relativas aos fenómenos de violência associada ao desporto.\n\n> Nota: [Artigo 5.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela Lei n.º 11/2022."
+  },
+  "174332699": {
+   "fragment_id": "174336079",
+   "type": 11,
+   "heading": "Artigo 4.º — Conflitos de natureza privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conflitos de natureza privada\n\nA PSP não pode dirimir conflitos de natureza privada, devendo, nesses casos, limitar a sua acção à manutenção da ordem pública."
+  },
+  "174332700": {
+   "fragment_id": "174336080",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito territorial\n\n1 - As atribuições da PSP são prosseguidas em todo o território nacional.\n\n2 - No caso de atribuições cometidas simultaneamente à Guarda Nacional Republicana, a área de responsabilidade da PSP é definida por portaria do ministro da tutela.\n\n3 - Fora da área de responsabilidade definida nos termos do número anterior, a intervenção da PSP depende:\n\na) Do pedido de outra força de segurança;\n\nb) De ordem especial;\n\nc) De imposição legal.\n\n4 - A PSP pode prosseguir a sua missão fora do território nacional, desde que legalmente mandatada para esse efeito."
+  },
+  "174332701": {
+   "fragment_id": "174336081",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres de colaboração\n\n1 - A PSP, sem prejuízo das prioridades legais da sua actuação, coopera com as demais forças e serviços de segurança, bem como com as autoridades públicas, designadamente, com os órgãos autárquicos e outros organismos, nos termos da lei.\n\n2 - As autoridades da administração central, regional e local, os serviços públicos e as demais entidades públicas ou privadas devem prestar à PSP a colaboração que legitimamente lhes for solicitada para o exercício das suas funções.\n\n3 - As autoridades administrativas devem comunicar à PSP, quando solicitado, o teor das decisões sobre as infracções que esta lhes tenha participado."
+  },
+  "174332702": {
+   "fragment_id": "174336082",
+   "type": 11,
+   "heading": "Artigo 7.º — Estandarte nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estandarte nacional\n\nA PSP e as suas unidades de polícia, incluindo as unidades constituídas para actuar fora do território nacional, e os estabelecimentos de ensino policial, têm direito ao uso do estandarte nacional."
+  },
+  "174332703": {
+   "fragment_id": "174336083",
+   "type": 11,
+   "heading": "Artigo 8.º — Símbolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Símbolos\n\n1 - A PSP tem direito a brasão de armas, bandeira heráldica, hino e selo branco.\n\n2 - A Direcção Nacional, as unidades de polícia e os estabelecimentos de ensino têm direito a brasão de armas, bandeiras heráldicas e selo branco.\n\n3 - O director nacional tem direito ao uso de galhardete.\n\n4 - Os símbolos previstos nos números anteriores são aprovados por portaria do ministro da tutela."
+  },
+  "174332704": {
+   "fragment_id": "174336084",
+   "type": 1,
+   "heading": "Capítulo II — Autoridades e órgãos de polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Autoridades e órgãos de polícia"
+  },
+  "174332705": {
+   "fragment_id": "174336085",
+   "type": 11,
+   "heading": "Artigo 9.º — Comandantes e agentes de força pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comandantes e agentes de força pública\n\n1 - Os elementos da PSP no exercício do comando de forças têm a categoria de comandantes de força pública.\n\n2 - Considera-se força pública, para efeitos do número anterior, o efectivo mínimo de dois agentes em missão de serviço.\n\n3 - Os elementos da PSP com funções policiais são considerados agentes da força pública e de autoridade quando lhes não deva ser atribuído qualidade superior."
+  },
+  "174332706": {
+   "fragment_id": "174336086",
+   "type": 11,
+   "heading": "Artigo 10.º — Autoridades de polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autoridades de polícia\n\n1 - São consideradas autoridades de polícia:\n\na) O director nacional;\n\nb) Os directores nacionais-adjuntos;\n\nc) O inspector nacional;\n\nd) O comandante da Unidade Especial de Polícia;\n\ne) Os comandantes das unidades e subunidades até ao nível de esquadra;\n\nf) Outros oficiais da PSP, quando no exercício de funções de comando ou chefia operacional.\n\n2 - Compete às autoridades de polícia referidas no número anterior determinar a aplicação das medidas de polícia previstas na lei."
+  },
+  "174332707": {
+   "fragment_id": "174336087",
+   "type": 11,
+   "heading": "Artigo 11.º — Autoridades e órgãos de polícia criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Autoridades e órgãos de polícia criminal\n\n1 - Para efeitos do disposto no Código de Processo Penal, consideram-se:\n\na) «Autoridades de polícia criminal», as entidades referidas no n.º 1 do artigo anterior;\n\nb) «Órgãos de polícia criminal», todos os elementos da PSP com funções policiais incumbidos de realizar quaisquer actos ordenados por autoridade judiciária ou determinados por aquele Código.\n\n2 - Enquanto órgãos de polícia criminal, e sem prejuízo da organização hierárquica da PSP, o pessoal com funções policiais da PSP actua sob a direcção e na dependência funcional da autoridade judiciária competente.\n\n3 - Os actos determinados pelas autoridades judiciárias são realizados pelos elementos para esse efeito designados pela respectiva cadeia de comando, no âmbito da sua autonomia técnica e táctica."
+  },
+  "174332708": {
+   "fragment_id": "174336088",
+   "type": 11,
+   "heading": "Artigo 12.º — Medidas de polícia e meios de coerção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas de polícia e meios de coerção\n\n1 - No âmbito das suas atribuições, a PSP utiliza as medidas de polícia legalmente previstas e nas condições e termos da Constituição e da lei de segurança interna, não podendo impor restrições ou fazer uso dos meios de coerção para além do estritamente necessário.\n\n2 - Quem faltar à obediência devida a ordem ou a mandado legítimos, regularmente comunicados e emanados de autoridade de polícia ou agente de autoridade da PSP, é punido com a pena legalmente prevista para a desobediência qualificada."
+  },
+  "174332709": {
+   "fragment_id": "174336089",
+   "type": 1,
+   "heading": "Capítulo III — Prestação e requisição de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Prestação e requisição de serviços"
+  },
+  "174332710": {
+   "fragment_id": "174336090",
+   "type": 11,
+   "heading": "Artigo 13.º — Requisição de forças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Requisição de forças\n\n1 - As autoridades judiciárias e administrativas podem requisitar à PSP a actuação de forças para a manutenção da ordem e tranquilidade públicas.\n\n2 - A requisição de forças é apresentada junto da autoridade de polícia territorialmente competente, indicando a natureza do serviço a desempenhar e o motivo ou a ordem que as justifica.\n\n3 - As forças requisitadas actuam no quadro das suas competências e de forma a cumprirem a sua missão, mantendo total subordinação aos comandos de que dependem."
+  },
+  "174332711": {
+   "fragment_id": "174336091",
+   "type": 11,
+   "heading": "Artigo 14.º — Prestação de serviços especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prestação de serviços especiais\n\n1 - A PSP pode manter pessoal com funções policiais em organismos de interesse público, em condições definidas por portaria do ministro da tutela.\n\n2 - O pessoal da PSP pode ser nomeado em comissão de serviço para organismos internacionais ou países estrangeiros, em função dos interesses nacionais e dos compromissos assumidos no âmbito da cooperação internacional, nos termos legalmente estabelecidos.\n\n3 - O pessoal referido no n.º 1 cumpre, para efeitos de ordem pública, as directivas do comando com jurisdição na respectiva área.\n\n4 - A PSP pode ainda prestar serviços especiais, mediante solicitação, que, após serem autorizados pela entidade competente, são remunerados pelos respectivos requisitantes nos termos que forem regulamentados."
+  },
+  "174332712": {
+   "fragment_id": "174336092",
+   "type": 11,
+   "heading": "Artigo 15.º — Prestação de serviços a outros organismos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Prestação de serviços a outros organismos públicos\n\n1 - Sem prejuízo da missão que lhe está cometida e no âmbito do dever de coadjuvação dos tribunais, a PSP pode afectar pessoal com funções policiais para a realização das actividades de comunicação dos actos processuais previstos no Código de Processo Penal.\n\n2 - A PSP pode ainda afectar pessoal com funções policiais para prestar serviço a órgãos e entidades da administração central, regional e local.\n\n3 - A prestação e o pagamento das acções previstas nos números anteriores, quando não regulados por lei especial, são objecto de portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e das finanças e pela tutela da entidade requisitante."
+  },
+  "174332713": {
+   "fragment_id": "174336093",
+   "type": 11,
+   "heading": "Artigo 16.º — Colaboração com entidades públicas e privadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Colaboração com entidades públicas e privadas\n\n1 - Sem prejuízo do cumprimento da sua missão, a PSP pode prestar colaboração a outras entidades públicas ou privadas que a solicitem, para garantir a segurança de pessoas e bens ou para a prestação de outros serviços, mediante pedidos concretos que lhe sejam formulados, os quais serão sujeitos a decisão caso a caso.\n\n2 - A administração central poderá estabelecer protocolos com as autarquias locais para a execução das responsabilidades de construção, aquisição ou beneficiação de instalações e edifícios para a PSP sempre que as razões de oportunidade e conveniência o aconselhem.\n\n3 - O pagamento dos serviços efectuados pela PSP ao abrigo do n.º 1 é regulado na portaria referida no n.º 3 do artigo anterior."
+  },
+  "174332714": {
+   "fragment_id": "174336094",
+   "type": 13,
+   "heading": "Título II — Organização geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Organização geral"
+  },
+  "174332715": {
+   "fragment_id": "174336095",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "174332716": {
+   "fragment_id": "174336096",
+   "type": 11,
+   "heading": "Artigo 17.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Estrutura geral\n\nA PSP compreende:\n\na) A Direcção Nacional;\n\nb) As unidades de polícia;\n\nc) Os estabelecimentos de ensino policial."
+  },
+  "174332717": {
+   "fragment_id": "174336097",
+   "type": 11,
+   "heading": "Artigo 18.º — Direcção Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direcção Nacional\n\n1 - A Direcção Nacional compreende:\n\na) O director nacional;\n\nb) Os directores nacionais-adjuntos;\n\nc) O Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde;\n\nd) A Inspecção;\n\ne) As unidades orgânicas de operações e segurança, de recursos humanos e de logística e finanças.\n\n2 - Funcionam, ainda, na dependência do director nacional, o Departamento de Apoio Geral e serviços para as áreas de estudos e planeamento, consultadoria jurídica, deontologia e disciplina, relações públicas e assistência religiosa.\n\n> Nota: [Artigo 5.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html)."
+  },
+  "174332718": {
+   "fragment_id": "174336098",
+   "type": 11,
+   "heading": "Artigo 19.º — Unidades de polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Unidades de polícia\n\n1 - Na PSP existem as seguintes unidades de polícia:\n\na) Unidade Especial de Polícia;\n\nb) Os comandos territoriais de polícia.\n\n2 - São comandos territoriais de polícia:\n\na) Os comandos regionais de polícia;\n\nb) Os Comandos Metropolitanos de Polícia de Lisboa e do Porto;\n\nc) Os comandos distritais de polícia.\n\n3 - Podem ser constituídas unidades de polícia para cumprimento de missões fora do território nacional, nos termos da lei."
+  },
+  "174332719": {
+   "fragment_id": "174336099",
+   "type": 11,
+   "heading": "Artigo 20.º — Estabelecimentos de ensino policial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Estabelecimentos de ensino policial\n\nSão estabelecimentos de ensino policial:\n\na) O Instituto Superior de Ciências Policiais e Segurança Interna;\n\nb) A Escola Prática de Polícia."
+  },
+  "174332720": {
+   "fragment_id": "174336100",
+   "type": 1,
+   "heading": "Capítulo II — Direcção Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direcção Nacional"
+  },
+  "174332721": {
+   "fragment_id": "174336101",
+   "type": 8,
+   "heading": "Secção I — Director nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Director nacional"
+  },
+  "174332722": {
+   "fragment_id": "174336102",
+   "type": 11,
+   "heading": "Artigo 21.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competência\n\n1 - Ao director nacional compete, em geral, comandar, dirigir, coordenar, gerir, controlar e fiscalizar todos os órgãos, comandos, serviços e estabelecimentos de ensino da PSP.\n\n2 - Além das competências próprias dos cargos de direcção superior de 1.º grau, compete ao director nacional:\n\na) Representar a PSP;\n\nb) Presidir ao Conselho Superior de Polícia;\n\nc) Presidir ao Conselho de Deontologia e Disciplina;\n\nd) Colocar e transferir o pessoal com funções policiais e não policiais, de acordo com as necessidades do serviço;\n\ne) Exercer o poder disciplinar;\n\nf) Autorizar o desempenho pela PSP de serviços de carácter especial a pedido de outras entidades;\n\ng) Determinar a realização de inspecções aos órgãos e serviços da PSP em todos os aspectos da sua actividade;\n\nh) Sancionar as licenças arbitradas pelas juntas de saúde;\n\ni) Homologar as decisões da Junta Superior de Saúde;\n\nj) Conceder licenças, autorizações e exercer as demais competências administrativas previstas na lei;\n\nl) Exercer as competências que lhe forem delegadas.\n\n3 - O director nacional pode delegar em todos os níveis de pessoal dirigente as suas competências próprias, salvo se a lei expressamente o impedir.\n\n4 - A competência referida na alínea a) do n.º 2 é delegável em qualquer elemento do pessoal dirigente dos quadros de pessoal da PSP.\n\n5 - O director nacional é coadjuvado por três directores nacionais-adjuntos, que dirigem, respectivamente, as unidades orgânicas de operações e segurança, de recursos humanos e de logística e finanças.\n\n6 - O director nacional é substituído, nas suas faltas ou impedimentos, pelo director nacional-adjunto que dirige a unidade orgânica de operações e segurança.\n\n> Nota: [Artigo 5.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html)."
+  },
+  "174332723": {
+   "fragment_id": "174336103",
+   "type": 11,
+   "heading": "Artigo 22.º — Gabinete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Gabinete\n\n1 - O director nacional é apoiado por um gabinete constituído pelo chefe de gabinete e pelos adjuntos e secretário pessoal.\n\n2 - Compete ao Gabinete do director nacional coadjuvar, assessorar e secretariar o director nacional no exercício das suas funções.\n\n3 - O Gabinete é dirigido por um chefe de gabinete, cargo de direcção intermédia de 1.º grau."
+  },
+  "174332724": {
+   "fragment_id": "174336104",
+   "type": 11,
+   "heading": "Artigo 23.º — Directores nacionais-adjuntos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Directores nacionais-adjuntos\n\nCompete aos directores nacionais-adjuntos:\n\na) Coadjuvar o director nacional no exercício das suas funções;\n\nb) Exercer a direcção e coordenação da unidade orgânica que lhe for atribuída por despacho do director nacional;\n\nc) Exercer as competências delegadas ou subdelegadas pelo director nacional."
+  },
+  "174332725": {
+   "fragment_id": "174336105",
+   "type": 8,
+   "heading": "Secção II — Órgãos de inspecção e consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Órgãos de inspecção e consulta"
+  },
+  "174332726": {
+   "fragment_id": "174336106",
+   "type": 11,
+   "heading": "Artigo 24.º — Órgãos de inspecção e consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Órgãos de inspecção e consulta\n\nNa dependência directa do director nacional funcionam os seguintes órgãos:\n\na) A Inspecção;\n\nb) O Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde, órgãos de consulta."
+  },
+  "174332727": {
+   "fragment_id": "174336107",
+   "type": 11,
+   "heading": "Artigo 25.º — Inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Inspecção\n\n1 - A Inspecção é o serviço, directamente dependente do director nacional, que exerce o controlo interno nos domínios operacional, administrativo, financeiro e técnico, competindo-lhe verificar, acompanhar, avaliar e informar sobre a actuação de todos os serviços da PSP, tendo em vista promover:\n\na) A legalidade, a regularidade, a eficácia e a eficiência da actividade operacional, da gestão orçamental e patrimonial e da gestão de pessoal;\n\nb) A qualidade do serviço prestado à população;\n\nc) O cumprimento dos planos de actividades e das decisões e instruções internas.\n\n2 - A Inspecção é dirigida pelo inspector nacional.\n\n3 - O regulamento interno da Inspecção é aprovado por despacho do ministro da tutela."
+  },
+  "174332728": {
+   "fragment_id": "174336108",
+   "type": 11,
+   "heading": "Artigo 26.º — Conselho Superior de Polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Conselho Superior de Polícia\n\n1 - O Conselho Superior de Polícia (CSP) é um órgão consultivo do director nacional ao qual compete pronunciar-se sobre os assuntos relativos à actividade da PSP e sua relação com as populações, apoiar a decisão do director nacional em assuntos de particular relevância e, em especial:\n\na) Emitir parecer sobre os objectivos, necessidades e planos estratégicos da PSP e a sua execução;\n\nb) Pronunciar-se sobre as providências legais ou regulamentares que digam respeito à PSP, quando solicitado;\n\nc) Pronunciar-se, a solicitação do ministro da tutela, sobre quaisquer assuntos que digam respeito à PSP.\n\n2 - Compõem o CSP:\n\na) O director nacional, que preside;\n\nb) Os directores nacionais-adjuntos;\n\nc) O inspector nacional;\n\nd) Os comandantes regionais dos Açores e da Madeira;\n\ne) Os comandantes metropolitanos de Lisboa e Porto e da Unidade Especial de Polícia;\n\nf) Os directores dos estabelecimentos de ensino policial;\n\ng) Os directores dos serviços responsáveis pelas áreas de operações, recursos humanos e logística;\n\nh) Três comandantes distritais, a nomear pelo director nacional;\n\ni) Quatro vogais eleitos de entre os candidatos apresentados pelas associações sindicais, nos termos da lei;\n\nj) Um vogal eleito de entre os oficiais de posto de superintendente-chefe, superintendente e intendente;\n\nl) Dois vogais eleitos de entre os subintendentes, comissários e subcomissários;\n\nm) Três vogais eleitos de entre os elementos da carreira de chefe;\n\nn) Cinco vogais eleitos de entre os elementos da carreira de agente;\n\no) Um vogal eleito de entre os funcionários pertencentes ao quadro de pessoal sem funções policiais.\n\n3 - A forma de designação e eleição dos membros do CSP e o seu regulamento de funcionamento são aprovados por portaria do ministro da tutela."
+  },
+  "174332729": {
+   "fragment_id": "174336109",
+   "type": 11,
+   "heading": "Artigo 27.º — Conselho de Deontologia e Disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Conselho de Deontologia e Disciplina\n\n1 - O Conselho de Deontologia e Disciplina (CDD) é um órgão de carácter consultivo do director nacional, ao qual compete apreciar e emitir parecer sobre os assuntos que lhe sejam submetidos em matéria de deontologia e disciplina e exercer as competências que a lei e o regulamento disciplinar lhe conferem.\n\n2 - Compõem o CDD:\n\na) O director nacional, que preside;\n\nb) Os directores nacionais-adjuntos;\n\nc) O inspector nacional;\n\nd) Um comandante regional de polícia a designar pelo director nacional;\n\ne) Um comandante metropolitano de polícia, a designar pelo director nacional;\n\nf) Dois comandantes distritais de polícia, a designar pelo director nacional;\n\ng) O director do serviço responsável pela área de deontologia e disciplina;\n\nh) Três vogais eleitos de entre os candidatos apresentados pelas associações sindicais, nos termos da lei.\n\n3 - O regulamento de funcionamento do CDD e a forma de designação e eleição dos membros é aprovado por portaria do ministro da tutela."
+  },
+  "174332730": {
+   "fragment_id": "174336110",
+   "type": 11,
+   "heading": "Artigo 28.º — Junta Superior de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Junta Superior de Saúde\n\n1 - A Junta Superior de Saúde (JSS) é o órgão a que compete julgar o grau de capacidade para o serviço do pessoal da PSP que, por ordem do director nacional, lhe for presente, bem como emitir parecer sobre os recursos relativos a decisões baseadas em pareceres formulados pelas juntas médicas da PSP.\n\n2 - A JSS é constituída por três médicos nomeados pelo director nacional, que designa, de entre eles, o presidente.\n\n3 - Quando funcionar como junta de recurso, a JSS é composta por dois médicos designados pelo director nacional, que não tenham intervindo anteriormente no processo, e por um médico escolhido pelo requerente, o qual, não sendo indicado no prazo que para o efeito for fixado pelo director nacional, é substituído pelo médico que este designar."
+  },
+  "174332731": {
+   "fragment_id": "174336111",
+   "type": 8,
+   "heading": "Secção III — Unidades orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Unidades orgânicas"
+  },
+  "174332732": {
+   "fragment_id": "174336112",
+   "type": 11,
+   "heading": "Artigo 29.º — Operações e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Operações e segurança\n\nA unidade orgânica de operações e segurança compreende as áreas de operações, informações policiais, investigação criminal, armas e explosivos, segurança privada, sistemas de informação e comunicações."
+  },
+  "174332733": {
+   "fragment_id": "174336113",
+   "type": 11,
+   "heading": "Artigo 30.º — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Recursos humanos\n\nA unidade orgânica de recursos humanos compreende as áreas de recursos humanos, formação e saúde e assistência na doença."
+  },
+  "174332734": {
+   "fragment_id": "174336114",
+   "type": 11,
+   "heading": "Artigo 31.º — Logística e finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Logística e finanças\n\nA unidade orgânica de logística e finanças compreende as áreas de logística e gestão financeira."
+  },
+  "174332735": {
+   "fragment_id": "174336115",
+   "type": 11,
+   "heading": "Artigo 32.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Serviços\n\nO número, as competências, a estrutura interna e os cargos de direcção dos serviços das unidades orgânicas são definidos por portaria, nos termos da Lei n.º 4/2004, de 15 de Janeiro, que «estabelece os princípios e as normas a que deve obedecer a organização da administração directa do Estado»."
+  },
+  "174332736": {
+   "fragment_id": "174336116",
+   "type": 8,
+   "heading": "Secção IV — Apoio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Apoio geral"
+  },
+  "174332737": {
+   "fragment_id": "174336117",
+   "type": 11,
+   "heading": "Artigo 33.º — Departamento de Apoio Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Departamento de Apoio Geral\n\n1 - Ao Departamento de Apoio Geral (DAG) compete o enquadramento administrativo, para efeitos operacionais e de disciplina, do pessoal, bem como a administração e o controlo das instalações, dos equipamentos e demais material, e a recepção, expedição e arquivo de toda a correspondência, da Direcção Nacional.\n\n2 - O DAG pode, ainda, prestar apoio administrativo a outras unidades da PSP.\n\n3 - Compete, ainda, ao DAG assegurar o funcionamento da Biblioteca, do Arquivo Central, do Museu e da Banda da PSP.\n\n4 - A Biblioteca da PSP funciona junto do Instituto Superior de Ciências Policiais e Segurança Interna, integrando o seu actual acervo bibliográfico."
+  },
+  "174332738": {
+   "fragment_id": "174336118",
+   "type": 1,
+   "heading": "Capítulo III — Unidades de polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Unidades de polícia"
+  },
+  "174332739": {
+   "fragment_id": "174336119",
+   "type": 8,
+   "heading": "Secção I — Comandos territoriais de polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Comandos territoriais de polícia"
+  },
+  "174332740": {
+   "fragment_id": "174336120",
+   "type": 11,
+   "heading": "Artigo 34.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Caracterização\n\n1 - Os comandos territoriais de polícia são unidades territoriais na dependência directa do director nacional que prosseguem as atribuições da PSP na respectiva área de responsabilidade.\n\n2 - Em cada uma das Regiões Autónomas dos Açores e da Madeira existe um comando regional de polícia, com sede, respectivamente, em Ponta Delgada e no Funchal.\n\n3 - Os Comandos Metropolitanos de Polícia têm sede em Lisboa e no Porto.\n\n4 - Os comandos distritais de polícia têm sede em Aveiro, Beja, Braga, Bragança, Castelo Branco, Coimbra, Évora, Faro, Guarda, Leiria, Portalegre, Santarém, Setúbal, Viana do Castelo, Vila Real e Viseu."
+  },
+  "174332741": {
+   "fragment_id": "174336121",
+   "type": 11,
+   "heading": "Artigo 35.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Organização\n\nOs comandos territoriais de polícia compreendem o comando, serviços e subunidades."
+  },
+  "174332742": {
+   "fragment_id": "174336122",
+   "type": 11,
+   "heading": "Artigo 36.º — Comandantes regionais, metropolitanos e distritais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Comandantes regionais, metropolitanos e distritais\n\n1 - Aos comandantes regionais, metropolitanos e distritais de polícia, na sua área de responsabilidade, compete:\n\na) Representar a PSP;\n\nb) Exercer o comando do respectivo comando territorial, através da gestão e emprego dos meios humanos, materiais e financeiros que lhe estão atribuídos;\n\nc) Nomear os comandantes das subunidades;\n\nd) Colocar e transferir o pessoal de acordo com as necessidades do serviço;\n\ne) Exercer o poder disciplinar;\n\nf) Determinar inspecções a todas as actividades do comando e das subunidades;\n\ng) Exercer as competências delegadas, ou subdelegadas, pelo director nacional, bem como executar e fazer executar todas as determinações deste;\n\nh) Exercer todas as demais competências previstas legalmente em matéria de segurança pública e privada.\n\n2 - Os comandantes regionais, metropolitanos e distritais de polícia podem delegar as suas competências nos respectivos 2.os comandantes, salvo se a lei expressamente o impedir.\n\n3 - Compete, em especial, aos comandantes regionais de polícia:\n\na) O comando de todas as forças da PSP na área da respectiva Região Autónoma;\n\nb) Promover as acções de fiscalização do cumprimento das disposições legais e regulamentares sobre viação terrestre e transportes rodoviários em todas as vias públicas;\n\nc) Articular com o Governo Regional a actividade operacional nas matérias cuja tutela compete à Região;\n\nd) Manter informados os órgãos de governo próprio da Região da situação de segurança no respectivo território;\n\ne) Cooperar com os órgãos da Região em matérias do âmbito das atribuições da PSP e na resolução dos problemas relacionados com as funções policiais que desempenham.\n\n4 - O comandante regional de polícia dos Açores pode delegar as suas competências nos comandantes de divisão.\n\n5 - A competência referida na alínea a) do n.º 1 é delegável em qualquer elemento dos quadros da PSP do respectivo comando."
+  },
+  "174332743": {
+   "fragment_id": "174336123",
+   "type": 11,
+   "heading": "Artigo 37.º — 2.º comandante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — 2.º comandante\n\n1 - Os comandantes regionais, metropolitanos e distritais de polícia são coadjuvados por um 2.º comandante.\n\n2 - Os 2.os comandantes substituem, nas suas faltas ou impedimentos, o respectivo comandante e, são substituídos, nas suas faltas ou impedimentos, pelo oficial mais graduado ou, se houver vários de igual graduação, pelo mais antigo."
+  },
+  "174332744": {
+   "fragment_id": "174336124",
+   "type": 11,
+   "heading": "Artigo 38.º — Subunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Subunidades\n\n1 - As subunidades dos comandos territoriais de polícia são a divisão policial e a esquadra.\n\n2 - As divisões policiais compreendem as áreas operacional e administrativa.\n\n3 - As esquadras são subunidades operacionais."
+  },
+  "174332745": {
+   "fragment_id": "174336125",
+   "type": 11,
+   "heading": "Artigo 39.º — Comando de subunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Comando de subunidades\n\n1 - O comando das subunidades é exercido por um comandante, coadjuvado por um adjunto.\n\n2 - Salvo designação em contrário do comandante do comando territorial de polícia, o adjunto é o elemento mais graduado colocado na respectiva subunidade.\n\n3 - Caso existam vários elementos com a mesma graduação, prefere o mais antigo."
+  },
+  "174332746": {
+   "fragment_id": "174336126",
+   "type": 8,
+   "heading": "Secção II — Unidade Especial de Polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Unidade Especial de Polícia"
+  },
+  "174332747": {
+   "fragment_id": "174336127",
+   "type": 11,
+   "heading": "Artigo 40.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Missão\n\nA Unidade Especial de Polícia (UEP) é uma unidade especialmente vocacionada para operações de manutenção e restabelecimento da ordem pública, resolução e gestão de incidentes críticos, intervenção táctica em situações de violência concertada e de elevada perigosidade, complexidade e risco, segurança de instalações sensíveis e de grandes eventos, segurança pessoal dos membros dos órgãos de soberania e de altas entidades, inactivação de explosivos e segurança em subsolo e aprontamento e projecção de forças para missões internacionais."
+  },
+  "174332748": {
+   "fragment_id": "174336128",
+   "type": 11,
+   "heading": "Artigo 41.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Organização\n\n1 - A UEP compreende as seguintes subunidades operacionais:\n\na) O Corpo de Intervenção;\n\nb) O Grupo de Operações Especiais;\n\nc) O Corpo de Segurança Pessoal;\n\nd) O Centro de Inactivação de Explosivos e Segurança em Subsolo;\n\ne) O Grupo Operacional Cinotécnico.\n\n2 - Por despacho do ministro da tutela, sob proposta do director nacional, podem ser destacadas, ou colocadas com carácter permanente, forças da UEP na dependência operacional, logística e administrativa dos comandos territoriais de polícia."
+  },
+  "174332749": {
+   "fragment_id": "174336129",
+   "type": 11,
+   "heading": "Artigo 42.º — Corpo de Intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Corpo de Intervenção\n\nO Corpo de Intervenção (CI) constitui uma força de reserva à ordem do director nacional, especialmente preparada e destinada a ser utilizada em:\n\na) Acções de manutenção e reposição de ordem pública;\n\nb) Combate a situações de violência concertada;\n\nc) Colaboração com os comandos no patrulhamento, em condições a definir por despacho do director nacional."
+  },
+  "174332750": {
+   "fragment_id": "174336130",
+   "type": 11,
+   "heading": "Artigo 43.º — Grupo de Operações Especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Grupo de Operações Especiais\n\nO Grupo de Operações Especiais (GOE) constitui uma força de reserva da PSP, à ordem do director nacional, destinada, fundamentalmente, a combater situações de violência declarada, cuja resolução ultrapasse os meios normais de actuação."
+  },
+  "174332751": {
+   "fragment_id": "174336131",
+   "type": 11,
+   "heading": "Artigo 44.º — Corpo de Segurança Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Corpo de Segurança Pessoal\n\nO Corpo de Segurança Pessoal (CSP) é uma força especialmente preparada e vocacionada para a segurança pessoal de altas entidades, membros de órgãos de soberania, protecção policial de testemunhas ou outros cidadãos sujeitos a ameaça, no âmbito das atribuições da PSP."
+  },
+  "174332752": {
+   "fragment_id": "174336132",
+   "type": 11,
+   "heading": "Artigo 45.º — Centro de Inactivação de Explosivos e Segurança em Subsolo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Centro de Inactivação de Explosivos e Segurança em Subsolo\n\nO Centro de Inactivação de Explosivos e Segurança em Subsolo (CIEXSS) é um núcleo de direcção e formação técnica da especialidade de detecção e inactivação de engenhos explosivos e de segurança no subsolo."
+  },
+  "174332753": {
+   "fragment_id": "174336133",
+   "type": 11,
+   "heading": "Artigo 46.º — Grupo Operacional Cinotécnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Grupo Operacional Cinotécnico\n\nO Grupo Operacional Cinotécnico (GOC) é uma subunidade especialmente preparada e vocacionada para a aplicação de canídeos no quadro de competências da PSP."
+  },
+  "174332754": {
+   "fragment_id": "174336134",
+   "type": 11,
+   "heading": "Artigo 47.º — Comandante da UEP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Comandante da UEP\n\nSem prejuízo do disposto no n.º 1 do artigo 57.º, o comandante da UEP tem as competências previstas para os comandantes territoriais de polícia."
+  },
+  "174332755": {
+   "fragment_id": "174336135",
+   "type": 8,
+   "heading": "Secção III — Subunidades e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Subunidades e serviços"
+  },
+  "174332756": {
+   "fragment_id": "174336136",
+   "type": 11,
+   "heading": "Artigo 48.º — Subunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Subunidades\n\nA criação e extinção de subunidades dos comandos territoriais de polícia e da UEP são aprovadas por portaria do ministro da tutela."
+  },
+  "174332757": {
+   "fragment_id": "174336137",
+   "type": 11,
+   "heading": "Artigo 49.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Serviços\n\nA criação e extinção e o funcionamento dos serviços dos comandos territoriais de polícia e da UEP são aprovados por portaria do ministro da tutela."
+  },
+  "174332758": {
+   "fragment_id": "174336138",
+   "type": 1,
+   "heading": "Capítulo IV — Estabelecimentos de ensino policial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Estabelecimentos de ensino policial"
+  },
+  "174332759": {
+   "fragment_id": "174336139",
+   "type": 11,
+   "heading": "Artigo 50.º — Instituto Superior de Ciências Policiais e Segurança Interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Instituto Superior de Ciências Policiais e Segurança Interna\n\n1 - O Instituto Superior de Ciências Policiais e Segurança Interna (ISCPSI) é um instituto policial de ensino superior universitário que tem por missão formar oficiais de polícia, promover o seu aperfeiçoamento permanente e realizar, coordenar ou colaborar em projectos de investigação e desenvolvimento no domínio das ciências policiais.\n\n2 - O ISCPSI confere, nos termos da lei, graus académicos na sua área científica.\n\n3 - A organização e funcionamento do ISCPSI são definidos por decreto regulamentar."
+  },
+  "174332760": {
+   "fragment_id": "174336140",
+   "type": 11,
+   "heading": "Artigo 51.º — Escola Prática de Polícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Escola Prática de Polícia\n\n1 - A Escola Prática de Polícia (EPP) é um estabelecimento de ensino policial, na dependência do director nacional, que tem por missão ministrar cursos e estágios de formação, aperfeiçoamento e actualização de agentes e chefes, e de especialização para todo o pessoal da PSP.\n\n2 - A organização e funcionamento da EPP são definidos por decreto regulamentar."
+  },
+  "174332761": {
+   "fragment_id": "174336141",
+   "type": 13,
+   "heading": "Título III — Provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Provimento"
+  },
+  "174332762": {
+   "fragment_id": "174336142",
+   "type": 11,
+   "heading": "Artigo 52.º — Director nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Director nacional\n\n1 - O recrutamento para o cargo de director nacional é feito, por escolha, de entre superintendentes-chefes, ou indivíduos licenciados de reconhecida idoneidade e experiência profissional, vinculados ou não à Administração Pública.\n\n2 - O provimento do cargo é feito mediante despacho conjunto do Primeiro-Ministro e do ministro da tutela.\n\n3 - O cargo é provido em comissão de serviço por um período de três anos, renovável por iguais períodos.\n\n4 - A renovação da comissão de serviço deverá ser comunicada ao interessado até 30 dias antes do seu termo, cessando a mesma automaticamente no final do respectivo período se o ministro da tutela não tiver manifestado expressamente a intenção de a renovar, caso em que o dirigente se manterá no exercício de funções de gestão corrente até à nomeação do novo titular do cargo.\n\n5 - Para efeitos de eventual renovação da comissão de serviço, deve a entidade competente ser informada, com a antecedência mínima de 90 dias, do termo de cada comissão, cessando esta automaticamente no fim do respectivo período sempre que não seja dado cumprimento àquela formalidade.\n\n6 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do ministro da tutela, por iniciativa deste ou a requerimento do interessado."
+  },
+  "174332763": {
+   "fragment_id": "174336143",
+   "type": 11,
+   "heading": "Artigo 53.º — Director nacional-adjunto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Director nacional-adjunto\n\n1 - O recrutamento para o cargo de director nacional-adjunto é feito, por escolha, de entre superintendentes-chefes, ou de entre indivíduos licenciados de reconhecida idoneidade e experiência profissional, vinculados ou não à Administração Pública.\n\n2 - O director nacional-adjunto que dirige a unidade orgânica de operações e segurança, é sempre um superintendente-chefe.\n\n3 - O provimento é feito mediante despacho do ministro da tutela, sendo aplicável o disposto nos n.os 3, 4 e 5 do artigo anterior.\n\n4 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do ministro da tutela, por iniciativa deste, por proposta do director nacional, ou a requerimento do interessado."
+  },
+  "174332764": {
+   "fragment_id": "174336144",
+   "type": 11,
+   "heading": "Artigo 54.º — Inspector nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Inspector nacional\n\n1 - O recrutamento para o cargo de inspector nacional é feito, por escolha, de entre superintendentes-chefes.\n\n2 - É aplicável à comissão de serviço do inspector nacional, o regime previsto nos n.os 3 e 4 do artigo anterior com as devidas adaptações."
+  },
+  "174332765": {
+   "fragment_id": "174336145",
+   "type": 11,
+   "heading": "Artigo 55.º — Recrutamento de comandantes e 2.os comandantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Recrutamento de comandantes e 2.os comandantes\n\n1 - O recrutamento para os cargos de comandante é feito, por escolha, de entre:\n\na) Superintendentes-chefes ou superintendentes, para os cargos de comandante regional e metropolitano de polícia;\n\nb) Superintendentes-chefes ou superintendentes, para o cargo de comandante da UEP;\n\nc) Superintendentes, intendentes ou subintendentes para os cargos de comandante distrital de polícia.\n\n2 - O recrutamento para os cargos de 2.º comandante é feito, por escolha, de entre:\n\na) Superintendentes ou intendentes, para os cargos de 2.º comandante regional e metropolitano de polícia;\n\nb) Superintendentes ou intendentes, para o cargo de 2.º comandante da UEP;\n\nc) Intendentes, subintendentes ou comissários para os cargos de 2.º comandante distrital de polícia.\n\n3 - O ministro da tutela, sob proposta do director nacional, define por despacho o posto do comandante e do 2.º comandante de cada unidade territorial, em função da complexidade do comando e no respeito pelo disposto nos números anteriores."
+  },
+  "174332766": {
+   "fragment_id": "174336146",
+   "type": 11,
+   "heading": "Artigo 56.º — Provimento em comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Provimento em comissão de serviço\n\n1 - O provimento dos cargos de comandante regional, metropolitano, distrital de polícia e da UEP, é feito em comissão de serviço por um período de três anos, renovável, mediante despacho do ministro da tutela, sob proposta do director nacional.\n\n2 - A renovação da comissão de serviço é comunicada ao interessado pela entidade competente até 30 dias antes do seu termo, cessando a mesma automaticamente no final do respectivo período na ausência de comunicação, caso em que o dirigente se mantém no exercício de funções de gestão corrente até à tomada de posse do novo titular do cargo.\n\n3 - Para efeitos de eventual renovação da comissão de serviço, deve a entidade competente ser informada, com a antecedência mínima de 90 dias do termo de cada comissão, cessando esta automaticamente no fim do respectivo período sempre que não seja dado cumprimento àquela formalidade.\n\n4 - Em qualquer momento, as comissões de serviço podem ser dadas por findas por despacho da entidade competente para a nomeação, por sua iniciativa, por proposta do director nacional ou a requerimento do interessado."
+  },
+  "174332767": {
+   "fragment_id": "174336147",
+   "type": 11,
+   "heading": "Artigo 57.º — Outros cargos de comando",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Outros cargos de comando\n\n1 - O provimento dos cargos de comandante do CI, GOE, CSP, CIEXSS e do GOC é feito por despacho do director nacional, sob proposta do comandante da UEP.\n\n2 - O provimento dos cargos de comandante de divisão é feito por despacho do director nacional, sob proposta do respectivo comandante de unidade.\n\n3 - O provimento dos cargos de comandante de esquadra é feito por despacho do respectivo comandante regional, metropolitano ou distrital de polícia."
+  },
+  "174332768": {
+   "fragment_id": "174336148",
+   "type": 11,
+   "heading": "Artigo 58.º — Cargos de direcção intermédia de 1.º grau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Cargos de direcção intermédia de 1.º grau\n\n1 - O recrutamento para cargo de direcção intermédia de 1.º grau é feito em comissão de serviço por um período de três anos, mediante despacho do director nacional, por escolha de entre superintendentes ou funcionários.\n\n2 - O recrutamento para os cargos de direcção intermédia de 1.º grau de serviços com atribuições exclusiva ou predominantemente técnico-policiais é feito exclusivamente de entre superintendentes.\n\n3 - Os serviços com atribuições exclusiva ou predominantemente policiais são determinados por portaria do ministro da tutela.\n\n4 - É aplicável aos dirigentes a que se refere o presente artigo o disposto nos n.os 2 a 4 do artigo 56.º"
+  },
+  "174332769": {
+   "fragment_id": "174336149",
+   "type": 11,
+   "heading": "Artigo 59.º — Cargos de direcção intermédia de 2.º grau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Cargos de direcção intermédia de 2.º grau\n\n1 - O recrutamento para cargo de direcção intermédia de 2.º grau é feito em comissão de serviço por um período de três anos, mediante despacho do director nacional, por escolha de entre intendentes ou funcionários.\n\n2 - O recrutamento para os cargos de direcção intermédia de 2.º grau de serviços com atribuições exclusiva ou predominantemente técnico-policiais é feito exclusivamente de entre intendentes.\n\n3 - Ao provimento e recrutamento para estes cargos é aplicável o disposto no n.º 3 do artigo anterior e nos n.os 2 a 4 do artigo 56.º"
+  },
+  "174332770": {
+   "fragment_id": "174336150",
+   "type": 13,
+   "heading": "Título IV — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Disposições financeiras"
+  },
+  "174332771": {
+   "fragment_id": "174336151",
+   "type": 11,
+   "heading": "Artigo 60.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Receitas\n\nConstituem receitas da PSP:\n\na) As dotações atribuídas pelo Orçamento do Estado;\n\nb) O produto da venda de publicações e as quantias cobradas por actividades ou serviços prestados;\n\nc) Os juros dos depósitos bancários;\n\nd) As receitas próprias consignadas à PSP;\n\ne) Os saldos das receitas consignadas;\n\nf) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título."
+  },
+  "174332772": {
+   "fragment_id": "174336152",
+   "type": 11,
+   "heading": "Artigo 61.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Despesas\n\nConstituem despesas da PSP as que resultem de encargos decorrentes do funcionamento dos seus órgãos e serviços e da actividade operacional, na prossecução das atribuições que lhe estão cometidas."
+  },
+  "174332773": {
+   "fragment_id": "174336153",
+   "type": 11,
+   "heading": "Artigo 62.º — Recrutamento excepcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Recrutamento excepcional\n\n1 - Por despacho do ministro da tutela, sob proposta do director nacional, pode o oficial de polícia com formação e experiência adequadas desempenhar funções correspondentes ao posto imediatamente superior.\n\n2 - O pessoal provido nos termos do número anterior tem os direitos e deveres inerentes à função desempenhada.\n\n3 - O pessoal provido retoma a remuneração devida no posto de origem, quando cessar as funções que desempenhava, sendo-lhe contado o tempo de permanência no posto em que tiver sido provido, para efeitos de mudança de escalão e antiguidade.\n\n4 - Se, durante o tempo em que estiver provido no posto imediato, ocorrer a sua promoção, o elemento manterá o escalão em que se encontrar até que, pelo normal desenvolvimento da progressão esse escalão lhe competir, devendo, para efeitos de antiguidade, ser colocado na posição que lhe competiria no normal desenvolvimento da carreira."
+  },
+  "174332774": {
+   "fragment_id": "174336154",
+   "type": 11,
+   "heading": "Artigo 63.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Taxas\n\nA actividade da PSP pode implicar a aplicação de taxas e a cobrança de despesas a cargo de entidades que especialmente beneficiem com aquela actividade, nos termos a regular em diploma próprio."
+  },
+  "174336175": {
+   "fragment_id": "174336155",
+   "type": 13,
+   "heading": "Título V — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Disposições transitórias e finais"
+  },
+  "174336176": {
+   "fragment_id": "174336156",
+   "type": 11,
+   "heading": "Artigo 64.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Disposição transitória\n\nA organização e funcionamento dos serviços sociais são regulados por diploma próprio."
+  },
+  "174336177": {
+   "fragment_id": "174336157",
+   "type": 11,
+   "heading": "Artigo 65.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Regulamentação\n\n1 - São regulados por diploma próprio:\n\na) A organização e funcionamento do ISCPSI e da EPP;\n\nb) A aplicação de taxas e a cobrança de despesas a cargo de entidades que especialmente beneficiem com a actividade da PSP;\n\nc) O estatuto remuneratório do director nacional.\n\n2 - A prestação e o pagamento dos serviços requisitados à PSP nos termos dos artigos 15.º e 16.º da presente lei são objecto de portaria conjunta do ministro da tutela, do membro do Governo responsável pela área das finanças e, quando aplicável, do membro do Governo com a tutela da entidade requisitante.\n\n3 - O número, as competências e a estrutura interna dos serviços das unidades orgânicas, bem como o quadro de dirigentes da PSP, são definidos por portaria, nos termos da Lei n.º 4/2004, de 15 de Janeiro.\n\n4 - São aprovados por portaria do ministro da tutela:\n\na) A área de responsabilidade da PSP, no caso de atribuições simultaneamente cometidas à Guarda Nacional Republicana, bem como dos comandos territoriais de polícia e respectivas subunidades;\n\nb) As condições em que o pessoal da PSP com funções policiais pode ser afecto a organismos de interesse público;\n\nc) Os serviços com atribuições exclusiva ou predominantemente policiais;\n\nd) A criação e extinção de subunidades dos comandos territoriais de polícia e da UEP;\n\ne) A criação e extinção e o funcionamento dos serviços dos comandos territoriais de polícia, da UEP e dos estabelecimentos de ensino.\n\n5 - São regulados por despacho do ministro da tutela:\n\na) Os tipos de armas em uso pela PSP, bem como as regras do respectivo emprego;\n\nb) O regulamento da Inspecção."
+  },
+  "174336178": {
+   "fragment_id": "174336158",
+   "type": 11,
+   "heading": "Artigo 66.º — Transferência de símbolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Transferência de símbolos\n\n1 - A UEP é a herdeira dos estandartes nacionais do CI, GOE e CSP, incluindo as respectivas condecorações atribuídas.\n\n2 - O CI, GOE e CSP mantêm o direito a brasão de armas e a bandeira heráldica.\n\n3 - Os demais símbolos do CI, GOE e CSP passam, para todos os efeitos, a integrar o património histórico da UEP."
+  },
+  "174336179": {
+   "fragment_id": "174336159",
+   "type": 11,
+   "heading": "Artigo 67.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Norma revogatória\n\nÉ revogada a Lei n.º 5/99, de 27 de Janeiro, com excepção:\n\na) Dos artigos 4.º e 6.º, cuja revogação produz efeitos com a entrada em vigor de uma nova lei de segurança interna;\n\nb) Dos artigos 88.º, 89.º, 90.º a 94.º e 103.º, cuja revogação produz efeitos com a entrada em vigor de um novo estatuto do pessoal da PSP;\n\nc) Do artigo 105.º, cuja revogação produz efeitos com a entrada em vigor da portaria referida no n.º 3 do artigo 65.º"
+  },
+  "174336180": {
+   "fragment_id": "174336160",
+   "type": 11,
+   "heading": "Artigo 68.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Entrada em vigor\n\nA presente lei entra em vigor no prazo de 30 dias, com excepção do artigo 65.º que entra em vigor no dia seguinte ao da publicação."
+  },
+  "174336182": {
+   "fragment_id": "174336078",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2022-05-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Em situações de normalidade institucional, as atribuições da PSP são as decorrentes da legislação de segurança interna e, em situações de excepção, as resultantes da legislação sobre a defesa nacional e sobre o estado de sítio e de emergência.\n\n2 - Constituem atribuições da PSP:\n\na) Garantir as condições de segurança que permitam o exercício dos direitos e liberdades e o respeito pelas garantias dos cidadãos, bem como o pleno funcionamento das instituições democráticas, no respeito pela legalidade e pelos princípios do Estado de direito;\n\nb) Garantir a ordem e a tranquilidade públicas e a segurança e a protecção das pessoas e dos bens;\n\nc) Prevenir a criminalidade em geral, em coordenação com as demais forças e serviços de segurança;\n\nd) Prevenir a prática dos demais actos contrários à lei e aos regulamentos;\n\ne) Desenvolver as acções de investigação criminal e contra-ordenacional que lhe sejam atribuídas por lei, delegadas pelas autoridades judiciárias ou solicitadas pelas autoridades administrativas;\n\nf) Velar pelo cumprimento das leis e regulamentos relativos à viação terrestre e aos transportes rodoviários e promover e garantir a segurança rodoviária, designadamente através da fiscalização, do ordenamento e da disciplina do trânsito;\n\ng) Garantir a execução dos actos administrativos emanados da autoridade competente que visem impedir o incumprimento da lei ou a sua violação continuada;\n\nh) Participar no controlo da entrada e saída de pessoas e bens no território nacional;\n\ni) Proteger, socorrer e auxiliar os cidadãos e defender e preservar os bens que se encontrem em situações de perigo, por causas provenientes da acção humana ou da natureza;\n\nj) Manter a vigilância e a protecção de pontos sensíveis, nomeadamente infra-estruturas rodoviárias, ferroviárias, aeroportuárias e portuárias, edifícios públicos e outras instalações críticas;\n\nl) Garantir a segurança nos espectáculos, incluindo os desportivos, e noutras actividades de recreação e lazer, nos termos da lei;\n\nm) Prevenir e detectar situações de tráfico e consumo de estupefacientes ou outras substâncias proibidas, através da vigilância e do patrulhamento das zonas referenciadas como locais de tráfico ou consumo;\n\nn) Assegurar o cumprimento das disposições legais e regulamentares referentes à protecção do ambiente, bem como prevenir e investigar os respectivos ilícitos;\n\no) Participar, nos termos da lei e dos compromissos decorrentes de acordos, tratados e convenções internacionais, na execução da política externa, designadamente em operações internacionais de gestão civil de crises, de paz, e humanitárias, no âmbito policial, bem como em missões de cooperação policial internacional e no âmbito da União Europeia e na representação do País em organismos e instituições internacionais;\n\np) Contribuir para a formação e informação em matéria de segurança dos cidadãos;\n\nq) Vigiar, fiscalizar e controlar as fronteiras aeroportuárias, assim como a circulação de pessoas nestes postos de fronteira;\n\nr) Vigiar, fiscalizar e controlar os terminais de cruzeiro, nas suas áreas de jurisdição, assim como a circulação de pessoas nestes postos de fronteira;\n\ns) Atribuir vistos na fronteira, nos termos da lei, nas suas áreas de jurisdição;\n\nt) A execução do cumprimento das decisões prévias da entidade competente de afastamento coercivo e das decisões judiciais de expulsão de cidadãos estrangeiros nas suas áreas de jurisdição;\n\nu) Assegurar a execução dos processos de readmissão e assegurar a sua execução, nas suas áreas da jurisdição;\n\nv) Assegurar a realização de controlos móveis e de operações conjuntas com serviços ou forças de segurança congéneres, nacionais ou estrangeiros, nas suas áreas de jurisdição;\n\nx) Gerir os espaços equiparados de instalação temporária nas suas áreas de jurisdição;\n\nz) Prosseguir as demais atribuições que lhe forem cometidas por lei.\n\n3 - Constituem ainda atribuições da PSP:\n\na) Licenciar, controlar e fiscalizar o fabrico, armazenamento, comercialização, uso e transporte de armas, munições e substâncias explosivas e equiparadas que não pertençam ou se destinem às Forças Armadas e demais forças e serviços de segurança, sem prejuízo das competências de fiscalização legalmente cometidas a outras entidades;\n\nb) Licenciar, controlar e fiscalizar as actividades de segurança privada e respectiva formação, em cooperação com as demais forças e serviços de segurança e com a Inspecção-Geral da Administração Interna;\n\nc) Garantir a segurança pessoal dos membros dos órgãos de soberania e de altas entidades nacionais ou estrangeiras, bem como de outros cidadãos, quando sujeitos a situação de ameaça relevante;\n\nd) Assegurar o ponto de contacto permanente para intercâmbio internacional de informações relativas aos fenómenos de violência associada ao desporto.\n\n> Nota: [Artigo 5.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela Lei n.º 11/2022.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+  },
+  "174336183": {
+   "fragment_id": "174336097",
+   "type": 11,
+   "heading": "Artigo 18.º — Direcção Nacional",
+   "in_force_from": "2022-05-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+   ],
+   "markdown": "###### Artigo 18.º — Direcção Nacional\n\n1 - A Direcção Nacional compreende:\n\na) O director nacional;\n\nb) Os directores nacionais-adjuntos;\n\nc) O Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde;\n\nd) A Inspecção;\n\ne) As unidades orgânicas de operações e segurança, de segurança aeroportuária e controlo fronteiriço, de recursos humanos e de logística e finanças.\n\n2 - Funcionam, ainda, na dependência do director nacional, o Departamento de Apoio Geral e serviços para as áreas de estudos e planeamento, consultadoria jurídica, deontologia e disciplina, relações públicas e assistência religiosa.\n\n> Nota: [Artigo 5.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html).\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+  },
+  "174336184": {
+   "fragment_id": "174336102",
+   "type": 11,
+   "heading": "Artigo 21.º — Competência",
+   "in_force_from": "2022-05-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+   ],
+   "markdown": "###### Artigo 21.º — Competência\n\n1 - Ao director nacional compete, em geral, comandar, dirigir, coordenar, gerir, controlar e fiscalizar todos os órgãos, comandos, serviços e estabelecimentos de ensino da PSP.\n\n2 - Além das competências próprias dos cargos de direcção superior de 1.º grau, compete ao director nacional:\n\na) Representar a PSP;\n\nb) Presidir ao Conselho Superior de Polícia;\n\nc) Presidir ao Conselho de Deontologia e Disciplina;\n\nd) Colocar e transferir o pessoal com funções policiais e não policiais, de acordo com as necessidades do serviço;\n\ne) Exercer o poder disciplinar;\n\nf) Autorizar o desempenho pela PSP de serviços de carácter especial a pedido de outras entidades;\n\ng) Determinar a realização de inspecções aos órgãos e serviços da PSP em todos os aspectos da sua actividade;\n\nh) Sancionar as licenças arbitradas pelas juntas de saúde;\n\ni) Homologar as decisões da Junta Superior de Saúde;\n\nj) Conceder licenças, autorizações e exercer as demais competências administrativas previstas na lei;\n\nl) Exercer as competências que lhe forem delegadas.\n\n3 - O director nacional pode delegar em todos os níveis de pessoal dirigente as suas competências próprias, salvo se a lei expressamente o impedir.\n\n4 - A competência referida na alínea a) do n.º 2 é delegável em qualquer elemento do pessoal dirigente dos quadros de pessoal da PSP.\n\n5 - O diretor nacional é coadjuvado por quatro diretores nacionais-adjuntos, que dirigem, respetivamente, as unidades orgânicas de operações e segurança, de segurança aeroportuária e controlo fronteiriço, de recursos humanos e de logística e finanças.\n\n6 - O director nacional é substituído, nas suas faltas ou impedimentos, pelo director nacional-adjunto que dirige a unidade orgânica de operações e segurança.\n\n> Nota: [Artigo 5.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html).\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+  },
+  "174336185": {
+   "fragment_id": "174336164",
+   "type": 11,
+   "heading": "Artigo 29.º-A — Segurança aeroportuária e controlo fronteiriço",
+   "in_force_from": "2022-05-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 8.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+   ],
+   "markdown": "###### Artigo 29.º-A — Segurança aeroportuária e controlo fronteiriço\n\nA unidade orgânica de segurança aeroportuária e controlo fronteiriço compreende as áreas do controlo de entrada e saída de pessoas do território nacional e da segurança das fronteiras aeroportuárias e dos terminais de cruzeiros.\n\n> Nota: [Artigo 8.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) O aditamento do presente artigo produz efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html).\n\n> Aditado pelo/a Artigo 8.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+  },
+  "174336186": {
+   "fragment_id": "174336113",
+   "type": 11,
+   "heading": "Artigo 30.º — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Recursos humanos\n\nA unidade orgânica de recursos humanos compreende as áreas de recursos humanos, formação e saúde e assistência na doença."
+  },
+  "174336187": {
+   "fragment_id": "174336114",
+   "type": 11,
+   "heading": "Artigo 31.º — Logística e finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Logística e finanças\n\nA unidade orgânica de logística e finanças compreende as áreas de logística e gestão financeira."
+  },
+  "174336188": {
+   "fragment_id": "174336115",
+   "type": 11,
+   "heading": "Artigo 32.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Serviços\n\nO número, as competências, a estrutura interna e os cargos de direcção dos serviços das unidades orgânicas são definidos por portaria, nos termos da Lei n.º 4/2004, de 15 de Janeiro, que «estabelece os princípios e as normas a que deve obedecer a organização da administração directa do Estado»."
+  },
+  "174336181": {
+   "fragment_id": "174336161",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de Julho de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 20 de Agosto de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 20 de Agosto de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "221053341": {
+   "fragment_id": "174336078",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 53/2023 - Diário da República n.º 169/2023, Série I de 2023-08-31](https://diariodarepublica.pt/dr/detalhe/lei/53-2023-221100276), em vigor a partir de 2023-10-29",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Em situações de normalidade institucional, as atribuições da PSP são as decorrentes da legislação de segurança interna e, em situações de excepção, as resultantes da legislação sobre a defesa nacional e sobre o estado de sítio e de emergência.\n\n2 - Constituem atribuições da PSP:\n\na) Garantir as condições de segurança que permitam o exercício dos direitos e liberdades e o respeito pelas garantias dos cidadãos, bem como o pleno funcionamento das instituições democráticas, no respeito pela legalidade e pelos princípios do Estado de direito;\n\nb) Garantir a ordem e a tranquilidade públicas e a segurança e a protecção das pessoas e dos bens;\n\nc) Prevenir a criminalidade em geral, em coordenação com as demais forças e serviços de segurança;\n\nd) Prevenir a prática dos demais actos contrários à lei e aos regulamentos;\n\ne) Desenvolver as acções de investigação criminal e contra-ordenacional que lhe sejam atribuídas por lei, delegadas pelas autoridades judiciárias ou solicitadas pelas autoridades administrativas;\n\nf) Velar pelo cumprimento das leis e regulamentos relativos à viação terrestre e aos transportes rodoviários e promover e garantir a segurança rodoviária, designadamente através da fiscalização, do ordenamento e da disciplina do trânsito;\n\ng) Garantir a execução dos actos administrativos emanados da autoridade competente que visem impedir o incumprimento da lei ou a sua violação continuada;\n\nh) Participar no controlo da entrada e saída de pessoas e bens no território nacional;\n\ni) Proteger, socorrer e auxiliar os cidadãos e defender e preservar os bens que se encontrem em situações de perigo, por causas provenientes da acção humana ou da natureza;\n\nj) Manter a vigilância e a protecção de pontos sensíveis, nomeadamente infra-estruturas rodoviárias, ferroviárias, aeroportuárias e portuárias, edifícios públicos e outras instalações críticas;\n\nl) Garantir a segurança nos espectáculos, incluindo os desportivos, e noutras actividades de recreação e lazer, nos termos da lei;\n\nm) Prevenir e detectar situações de tráfico e consumo de estupefacientes ou outras substâncias proibidas, através da vigilância e do patrulhamento das zonas referenciadas como locais de tráfico ou consumo;\n\nn) Assegurar o cumprimento das disposições legais e regulamentares referentes à protecção do ambiente, bem como prevenir e investigar os respectivos ilícitos;\n\no) Participar, nos termos da lei e dos compromissos decorrentes de acordos, tratados e convenções internacionais, na execução da política externa, designadamente em operações internacionais de gestão civil de crises, de paz, e humanitárias, no âmbito policial, bem como em missões de cooperação policial internacional e no âmbito da União Europeia e na representação do País em organismos e instituições internacionais;\n\np) Contribuir para a formação e informação em matéria de segurança dos cidadãos;\n\nq) Vigiar, fiscalizar e controlar as fronteiras aeroportuárias, assim como a circulação de pessoas nestes postos de fronteira;\n\nr) Assegurar a segurança de pessoas e bens, o patrulhamento, a manutenção da ordem pública e a resolução de incidentes tático-policiais nos terminais de cruzeiro integrados na fronteira marítima e localizados na sua área de jurisdição;\n\ns) Atribuir vistos na fronteira, nos termos da lei, nas suas áreas de jurisdição;\n\nt) A execução do cumprimento das decisões prévias da entidade competente de afastamento coercivo e das decisões judiciais de expulsão de cidadãos estrangeiros a concretizar por via aérea;\n\nu) Assegurar a execução dos processos de readmissão, a concretizar por via aérea;\n\nv) Assegurar a realização de controlos móveis e de operações conjuntas com serviços ou forças de segurança congéneres, nacionais ou estrangeiros, nas suas áreas de jurisdição;\n\nx) Gerir os centros de instalação temporária e os espaços equiparados nas suas áreas de jurisdição;\n\nz) Prosseguir as demais atribuições que lhe forem cometidas por lei.\n\n3 - Constituem ainda atribuições da PSP:\n\na) Licenciar, controlar e fiscalizar o fabrico, armazenamento, comercialização, uso e transporte de armas, munições e substâncias explosivas e equiparadas que não pertençam ou se destinem às Forças Armadas e demais forças e serviços de segurança, sem prejuízo das competências de fiscalização legalmente cometidas a outras entidades;\n\nb) Licenciar, controlar e fiscalizar as actividades de segurança privada e respectiva formação, em cooperação com as demais forças e serviços de segurança e com a Inspecção-Geral da Administração Interna;\n\nc) Garantir a segurança pessoal dos membros dos órgãos de soberania e de altas entidades nacionais ou estrangeiras, bem como de outros cidadãos, quando sujeitos a situação de ameaça relevante;\n\nd) Assegurar o ponto de contacto permanente para intercâmbio internacional de informações relativas aos fenómenos de violência associada ao desporto.\n\n> Nota: [Artigo 5.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela Lei n.º 11/2022.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 53/2023 - Diário da República n.º 169/2023, Série I de 2023-08-31](https://diariodarepublica.pt/dr/detalhe/lei/53-2023-221100276), em vigor a partir de 2023-10-29\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+  },
+  "926310386": {
+   "fragment_id": "174336078",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2025-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 55-C/2025 - Diário da República n.º 139/2025, Suplemento, Série I de 2025-07-22](https://diariodarepublica.pt/dr/detalhe/lei/55-c-2025-925904931), em vigor a partir de 2025-08-21",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 53/2023 - Diário da República n.º 169/2023, Série I de 2023-08-31](https://diariodarepublica.pt/dr/detalhe/lei/53-2023-221100276), em vigor a partir de 2023-10-29",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - Em situações de normalidade institucional, as atribuições da PSP são as decorrentes da legislação de segurança interna e, em situações de excepção, as resultantes da legislação sobre a defesa nacional e sobre o estado de sítio e de emergência.\n\n2 - Constituem atribuições da PSP:\n\na) Garantir as condições de segurança que permitam o exercício dos direitos e liberdades e o respeito pelas garantias dos cidadãos, bem como o pleno funcionamento das instituições democráticas, no respeito pela legalidade e pelos princípios do Estado de direito;\n\nb) Garantir a ordem e a tranquilidade públicas e a segurança e a protecção das pessoas e dos bens;\n\nc) Prevenir a criminalidade em geral, em coordenação com as demais forças e serviços de segurança;\n\nd) Prevenir a prática dos demais actos contrários à lei e aos regulamentos;\n\ne) Desenvolver as acções de investigação criminal e contra-ordenacional que lhe sejam atribuídas por lei, delegadas pelas autoridades judiciárias ou solicitadas pelas autoridades administrativas;\n\nf) Velar pelo cumprimento das leis e regulamentos relativos à viação terrestre e aos transportes rodoviários e promover e garantir a segurança rodoviária, designadamente através da fiscalização, do ordenamento e da disciplina do trânsito;\n\ng) Garantir a execução dos actos administrativos emanados da autoridade competente que visem impedir o incumprimento da lei ou a sua violação continuada;\n\nh) Participar no controlo da entrada e saída de pessoas e bens no território nacional;\n\ni) Proteger, socorrer e auxiliar os cidadãos e defender e preservar os bens que se encontrem em situações de perigo, por causas provenientes da acção humana ou da natureza;\n\nj) Manter a vigilância e a protecção de pontos sensíveis, nomeadamente infra-estruturas rodoviárias, ferroviárias, aeroportuárias e portuárias, edifícios públicos e outras instalações críticas;\n\nl) Garantir a segurança nos espectáculos, incluindo os desportivos, e noutras actividades de recreação e lazer, nos termos da lei;\n\nm) Prevenir e detectar situações de tráfico e consumo de estupefacientes ou outras substâncias proibidas, através da vigilância e do patrulhamento das zonas referenciadas como locais de tráfico ou consumo;\n\nn) Assegurar o cumprimento das disposições legais e regulamentares referentes à protecção do ambiente, bem como prevenir e investigar os respectivos ilícitos;\n\no) Participar, nos termos da lei e dos compromissos decorrentes de acordos, tratados e convenções internacionais, na execução da política externa, designadamente em operações internacionais de gestão civil de crises, de paz, e humanitárias, no âmbito policial, bem como em missões de cooperação policial internacional e no âmbito da União Europeia e na representação do País em organismos e instituições internacionais;\n\np) Contribuir para a formação e informação em matéria de segurança dos cidadãos;\n\nq) Vigiar, fiscalizar e controlar as fronteiras aeroportuárias, assim como a circulação de pessoas nestes postos de fronteira;\n\nr) Assegurar a segurança de pessoas e bens, o patrulhamento, a manutenção da ordem pública e a resolução de incidentes tático-policiais nos terminais de cruzeiro integrados na fronteira marítima e localizados na sua área de jurisdição;\n\ns) Atribuir vistos na fronteira, nos termos da lei, nas suas áreas de jurisdição;\n\nt) A execução do cumprimento das decisões prévias da entidade competente de afastamento coercivo e das decisões judiciais de expulsão de cidadãos estrangeiros a concretizar por via aérea;\n\nu) Instruir e gerir os processos de afastamento coercivo, expulsão, readmissão e retorno voluntário de cidadãos estrangeiros, bem como elaborar normas técnicas com vista à uniformização de procedimentos;\n\nv) Executar os afastamentos e as decisões judiciais de expulsão de cidadãos estrangeiros a concretizar por via aérea;\n\nx) Assegurar a execução dos processos de readmissão, a concretizar por via aérea;\n\nz) Assegurar a realização de controlos móveis e de operações conjuntas com serviços ou forças de segurança congéneres, nacionais ou estrangeiros, nas suas áreas de jurisdição;\n\naa) Gerir os centros de instalação temporária e os espaços equiparados;\n\nbb) Fiscalizar a permanência de estrangeiros em território nacional na sua área de jurisdição;\n\ncc) Prosseguir as demais atribuições que lhe forem cometidas por lei.\n\n3 - Constituem ainda atribuições da PSP:\n\na) Licenciar, controlar e fiscalizar o fabrico, armazenamento, comercialização, uso e transporte de armas, munições e substâncias explosivas e equiparadas que não pertençam ou se destinem às Forças Armadas e demais forças e serviços de segurança, sem prejuízo das competências de fiscalização legalmente cometidas a outras entidades;\n\nb) Licenciar, controlar e fiscalizar as actividades de segurança privada e respectiva formação, em cooperação com as demais forças e serviços de segurança e com a Inspecção-Geral da Administração Interna;\n\nc) Garantir a segurança pessoal dos membros dos órgãos de soberania e de altas entidades nacionais ou estrangeiras, bem como de outros cidadãos, quando sujeitos a situação de ameaça relevante;\n\nd) Assegurar o ponto de contacto permanente para intercâmbio internacional de informações relativas aos fenómenos de violência associada ao desporto.\n\n> Nota: [Artigo 5.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela Lei n.º 11/2022.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 55-C/2025 - Diário da República n.º 139/2025, Suplemento, Série I de 2025-07-22](https://diariodarepublica.pt/dr/detalhe/lei/55-c-2025-925904931), em vigor a partir de 2025-08-21\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 53/2023 - Diário da República n.º 169/2023, Série I de 2023-08-31](https://diariodarepublica.pt/dr/detalhe/lei/53-2023-221100276), em vigor a partir de 2023-10-29\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+  },
+  "926310387": {
+   "fragment_id": "174336097",
+   "type": 11,
+   "heading": "Artigo 18.º — Direcção Nacional",
+   "in_force_from": "2025-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 55-C/2025 - Diário da República n.º 139/2025, Suplemento, Série I de 2025-07-22](https://diariodarepublica.pt/dr/detalhe/lei/55-c-2025-925904931), em vigor a partir de 2025-08-21",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+   ],
+   "markdown": "###### Artigo 18.º — Direcção Nacional\n\n1 - A Direcção Nacional compreende:\n\na) O director nacional;\n\nb) Os directores nacionais-adjuntos;\n\nc) O Conselho Superior de Polícia, o Conselho de Deontologia e Disciplina e a Junta Superior de Saúde;\n\nd) A Inspecção;\n\ne) As unidades orgânicas de operações e segurança, de estrangeiros, fronteiras e segurança aeroportuária, de recursos humanos e de logística e finanças.\n\n2 - Funcionam, ainda, na dependência do director nacional, o Departamento de Apoio Geral e serviços para as áreas de estudos e planeamento, consultadoria jurídica, deontologia e disciplina, relações públicas e assistência religiosa.\n\n> Nota: [Artigo 5.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html).\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 55-C/2025 - Diário da República n.º 139/2025, Suplemento, Série I de 2025-07-22](https://diariodarepublica.pt/dr/detalhe/lei/55-c-2025-925904931), em vigor a partir de 2025-08-21\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+  },
+  "926310388": {
+   "fragment_id": "174336102",
+   "type": 11,
+   "heading": "Artigo 21.º — Competência",
+   "in_force_from": "2025-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 55-C/2025 - Diário da República n.º 139/2025, Suplemento, Série I de 2025-07-22](https://diariodarepublica.pt/dr/detalhe/lei/55-c-2025-925904931), em vigor a partir de 2025-08-21",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+   ],
+   "markdown": "###### Artigo 21.º — Competência\n\n1 - Ao director nacional compete, em geral, comandar, dirigir, coordenar, gerir, controlar e fiscalizar todos os órgãos, comandos, serviços e estabelecimentos de ensino da PSP.\n\n2 - Além das competências próprias dos cargos de direcção superior de 1.º grau, compete ao director nacional:\n\na) Representar a PSP;\n\nb) Presidir ao Conselho Superior de Polícia;\n\nc) Presidir ao Conselho de Deontologia e Disciplina;\n\nd) Colocar e transferir o pessoal com funções policiais e não policiais, de acordo com as necessidades do serviço;\n\ne) Exercer o poder disciplinar;\n\nf) Autorizar o desempenho pela PSP de serviços de carácter especial a pedido de outras entidades;\n\ng) Determinar a realização de inspecções aos órgãos e serviços da PSP em todos os aspectos da sua actividade;\n\nh) Sancionar as licenças arbitradas pelas juntas de saúde;\n\ni) Homologar as decisões da Junta Superior de Saúde;\n\nj) Conceder licenças, autorizações e exercer as demais competências administrativas previstas na lei;\n\nl) Exercer as competências que lhe forem delegadas.\n\n3 - O director nacional pode delegar em todos os níveis de pessoal dirigente as suas competências próprias, salvo se a lei expressamente o impedir.\n\n4 - A competência referida na alínea a) do n.º 2 é delegável em qualquer elemento do pessoal dirigente dos quadros de pessoal da PSP.\n\n5 - O diretor nacional é coadjuvado por quatro diretores nacionais-adjuntos, que dirigem, respetivamente, as unidades orgânicas de operações e segurança, estrangeiros, fronteiras e segurança aeroportuária, de recursos humanos e de logística e finanças.\n\n6 - O director nacional é substituído, nas suas faltas ou impedimentos, pelo director nacional-adjunto que dirige a unidade orgânica de operações e segurança.\n\n> Nota: [Artigo 5.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) As alterações introduzidas no presente artigo produzem efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html).\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 55-C/2025 - Diário da República n.º 139/2025, Suplemento, Série I de 2025-07-22](https://diariodarepublica.pt/dr/detalhe/lei/55-c-2025-925904931), em vigor a partir de 2025-08-21\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+  },
+  "926310389": {
+   "fragment_id": "174336164",
+   "type": 11,
+   "heading": "Artigo 29.º-A — Estrangeiros, fronteiras e segurança aeroportuária",
+   "in_force_from": "2025-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 55-C/2025 - Diário da República n.º 139/2025, Suplemento, Série I de 2025-07-22](https://diariodarepublica.pt/dr/detalhe/lei/55-c-2025-925904931), em vigor a partir de 2025-08-21",
+    "Aditado pelo/a Artigo 8.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+   ],
+   "markdown": "###### Artigo 29.º-A — Estrangeiros, fronteiras e segurança aeroportuária\n\n1 - A unidade orgânica de estrangeiros, fronteiras e segurança aeroportuária compreende a Unidade Nacional de Estrangeiros e Fronteiras (UNEF).\n\n2 - A UNEF compreende as seguintes áreas:\n\na) Gestão de fronteiras aeroportuárias;\n\nb) Segurança aeroportuária;\n\nc) Retorno e instalação temporária;\n\nd) Controlo e fiscalização da permanência e da atividade de cidadãos estrangeiros em território nacional, na área de jurisdição da PSP.\n\n> Nota: [Artigo 8.º, Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808) O aditamento do presente artigo produz efeitos apenas a partir da entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do art.º 3.º, da Lei n.º 73/2021, nos termos do art.º 14.º-A do mesmo diploma, aditado pela [Lei n.º 11/2022](https://data.dre.pt/eli/lei/11/2022/05/06/p/dre/pt/html).\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 55-C/2025 - Diário da República n.º 139/2025, Suplemento, Série I de 2025-07-22](https://diariodarepublica.pt/dr/detalhe/lei/55-c-2025-925904931), em vigor a partir de 2025-08-21\n\n> Aditado pelo/a Artigo 8.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-05-11"
+  }
+ }
+}

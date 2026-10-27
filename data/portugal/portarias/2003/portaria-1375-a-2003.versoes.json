@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:658671:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2003-932603708",
+ "dre_path": "/dr/detalhe/portaria/1375-a-2003-658671",
+ "source_lastmod": "2025-08-19",
+ "versions": [
+  {
+   "date": "2003-12-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "932539182"
+   ]
+  }
+ ],
+ "fragments": {
+  "932539182": {
+   "fragment_id": "932603709",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1375-A/2003\n\nde 18 de Dezembro\n\nA Lei n.º 32-B/2002, de 30 de Dezembro, Lei do Orçamento do Estado para 2003, e a Lei n.º 103/2003, de 5 de Dezembro, autorizam o Estado e a segurança social a cederem créditos para efeitos de titularização, incluindo os emergentes de relações jurídico-tributárias, provenientes, designadamente, de impostos directos e indirectos e das contribuições e quotizações para a segurança social.\n\nO artigo 25.º da referida Lei n.º 32-B/2002, no âmbito da recuperação de créditos e outros activos financeiros da segurança social, autoriza o Governo, através do Ministro da Segurança Social e do Trabalho, a proceder à alienação e à titularização dos créditos originados por dívidas dos contribuintes, bem como à cessão da gestão de créditos e outros activos financeiros.\n\nO Decreto-Lei n.º 303/2003, de 5 de Dezembro, na decorrência da Lei n.º 103/2003, veio consagrar as demais regras aplicáveis à cessão de créditos do Estado e da segurança social para efeitos de titularização, bem como identificar os tipos de créditos, os efeitos processuais da respectiva cessão e as operações de gestão e cobrança.\n\nNo n.º 2 do artigo 62.º do Decreto-Lei n.º 453/99, de 5 de Novembro, com a redacção introduzida pelo Decreto-Lei n.º 303/2003, de 5 de Dezembro, prevêem-se os termos e o modo de identificação dos créditos tributários, de forma a garantir a confidencialidade dos dados pessoais relativos aos contribuintes.\n\nNo artigo 7.º do citado decreto-lei são identificados os créditos objecto de cessão pelo Estado e pela segurança social no ano de 2003 e no artigo 6.º do mesmo diploma preceitua-se que o Ministro das Finanças e o ministro competente em função da titularidade dos créditos a ceder definem, mediante portaria, os termos e condições da respectiva operação de titularização.\n\nAssim:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e da Segurança Social e do Trabalho, ao abrigo do artigo 25.º da Lei n.º 32-B/2002, de 30 de Dezembro, do artigo 6.º do Decreto-Lei n.º 303/2003, de 5 de Dezembro, e do n.º 2 do artigo 62.º do Decreto-Lei n.º 453/99, de 5 de Novembro, o seguinte:"
+  }
+ }
+}

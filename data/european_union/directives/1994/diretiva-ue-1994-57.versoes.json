@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0057:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0057-20090617",
+ "dre_path": null,
+ "source_lastmod": "2009-06-17",
+ "versions": [
+  {
+   "date": "1994-12-12",
+   "future": false,
+   "celex": "31994L0057",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9f609b6a9c1e989b",
+    "ccb1f9831370ba23",
+    "9238a2a8b12e3fc7",
+    "bf49341aa9372299",
+    "cc269e95991012fb",
+    "9b154ef54a941743",
+    "134a137afd577309",
+    "c3e88b7b67e8295a",
+    "b102cc4f9857af80",
+    "f66f77278a603dee",
+    "76d8a39dcbb0e4e7",
+    "66033c2983af6cae",
+    "c2ae9a608e9ffe33",
+    "c8b273d1cf75f597",
+    "1f9f81868b808da5",
+    "c413df198e3090f1",
+    "b51e898bb8477e69",
+    "7e2306685b45df86",
+    "14a76e33e6fb512f"
+   ]
+  },
+  {
+   "date": "2009-06-17",
+   "future": false,
+   "celex": "01994L0057-20090617",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime ANEXO — CRITÉRIOS MÍNIMOS PARA AS ORGANIZAÇÕES REFERIDAS NO ARTIGO 3º"
+   ],
+   "fragments": [
+    "703d00004bb28ca2"
+   ]
+  }
+ ],
+ "fragments": {
+  "9f609b6a9c1e989b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/57/CE do Conselho, de 22 de Novembro de 1994, relativa à regras comuns para as organizações de vistoria e inspecção dos navios e para as actividades relevantes das administrações marítimas** *Jornal Oficial nº L 319 de 12/12/1994 p. 0020 - 0027 Edição especial finlandesa: Capítulo 7 Fascículo 5 p. 0178 Edição especial sueca: Capítulo 7 Fascículo 5 p. 0178*\n\nDIRECTIVA 94/57/CE DO CONSELHO de 22 de Novembro de 1994 relativa às regras comuns para as organizações de vistoria e inspecção dos navios e para as actividades relevantes das administrações marítimas\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o nº 2 do seu artigo 84º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do procedimento previsto no artigo 189º do Tratado (3),\n\nConsiderando que, na sua resolução de 8 de Junho de 1993 sobre uma política comum de segurança marítima, o Conselho estabelece como objectivo excluir das águas comunitárias todos os navios que não preencham determinadas normas e dá prioridade à acção comunitária destinada a garantir a aplicação eficaz e uniforme das regras internacionais através da elaboração de normas comuns para as sociedades de classificação (4);\n\nConsiderando que é possível melhorar eficazmente a segurança marítima e a prevenção da poluição marinha, mediante uma aplicação rigorosa das convenções, códigos e resoluções internacionais, prosseguindo ao mesmo tempo o objectivo da livre prestação de serviços;\n\nConsiderando que o controlo da conformidade dos navios com as normas internacionais uniformes de segurança marítima e prevenção da poluição marinha é da responsabilidade dos Estados de pavilhão e dos Estados do porto;\n\nConsiderando que os Estados-membros são responsáveis pela emissão dos certificados internacionais de segurança marítima e prevenção da poluição previstos por convenções como a Solas 74, a Linhas de Carga 66 e a Marpol 73/78, bem como pela aplicação das respectivas disposições;\n\nConsiderando que, ao abrigo destas convenções, todos os Estados-membros podem autorizar, até certo ponto, organizações técnicas a certificar tal conformidade, podendo igualmente delegar a emissão dos certificados de segurança relevantes;\n\nConsiderando que, a nível mundial, grande parte das sociedades de classificação existentes não garantem, quando actuam em nome das administrações nacionais, uma aplicação adequada das regras nem um nível aceitável de fiabilidade, já que não dispõem das estruturas adequadas nem da experiência necessária que lhes permita desempenhar as suas funções de forma altamente profissional;\n\nConsiderando que o objectivo de submeter as sociedades de classificação a normas adequadas não pode ser integralmente alcançado pelos Estados-membros actuando individualmente e que esse objectivo será mais facilmente realizável pela Comunidade;\n\nConsiderando que o modo mais adequado de actuação consiste numa directiva do Conselho que estabeleça os critérios mínimos para o reconhecimento das organizações, deixando o próprio reconhecimento, a aplicação da directiva e os meios de a fazer cumprir a cargo dos Estados-membros;\n\nConsiderando que as normas EN 45004 e EN 29001 constituem, juntamente com as normas da Associação Internacional das Sociedades de Classificação, a seguir designada «IACS», uma garantia adequada da qualidade do funcionamento das organizações;\n\nConsiderando que a emissão do certificado de segurança radioeléctrica para navios cargueiros poderá ser confiada a organismos privados suficientemente especializados e com pessoal qualificado;\n\nConsiderando que as organizações que desejam ser reconhecidas para efeitos da presente directiva deverão apresentar aos Estados-membros informações completas e elementos comprovativos de que satisfazem os critérios mínimos, devendo os Estados-membros notificar à Comissão e aos outros Estados-membros as organizações que reconheceram;\n\nConsiderando que a Comissão poderá conceder um reconhecimento por um prazo de três anos às organizações que não obedeçam aos critérios que determinam o número e a arqueação mínimos dos navios classificados e o número mínimo de inspectores exclusivos, tal como estabelecido no anexo, mas que obedeçam a todos os outros critérios; que o reconhecimento concedido a essas organizações deverá ser prorrogado para além do prazo de três anos, se continuarem a obedecer aos mesmos critérios; que os efeitos do reconhecimento concedido por três anos deverá limitar-se aos Estados-membros requerentes e apenas durante esse prazo;\n\nConsiderando que o estabelecimento do mercado interno pressupõe a livre circulação dos serviços, pelo que as organizações que obedeçam a um conjunto de critérios comuns que garantam o seu profissionalismo e fiabilidade não podem ser impedidas de prestar os seus serviços na Comunidade, desde que os Estados-membros tenham decidido delegar as suas atribuições legais na matéria; que esses Estados-membros podem, no entanto, limitar o número de organizações por si autorizadas em função das suas necessidades e com base em motivo objectivos e transparentes, ficando para tal sujeitos ao controlo da Comissão através dos procedimentos de comitologia;\n\nConsiderando que a aplicação do princípio da liberdade de prestação de serviços de vistoria e inspecção de navios poderá ser gradual, não ultrapassando, no entanto, o prazo fixado;\n\nConsiderando que é necessária uma maior participação das administrações nacionais nas vistorias dos navios e na emissão dos respectivos certificados, de modo a garantir o pleno cumprimento das regras internacionais de segurança, mesmo que os Estados-membros confiem a organizações externas à sua administração o desempenho de atribuições legais; que, por conseguinte, se torna necessária uma estreita colaboração entre as administrações e as organizações, o que poderá implicar que a organização tenha uma representação no território do Estado-membro em nome do qual desempenha funções;\n\nConsiderando a necessidade de instituir um comité de natureza regulamentar para auxiliar a Comissão a garantir uma aplicação efectiva das normas de segurança marítima e ambiental existentes, tendo ao mesmo tempo em conta os procedimentos nacionais de ratificação;\n\nConsiderando que a Comissão deverá agir nos termos do procedimento previsto no artigo 13º para ter em conta os progressos verificados a nível das instâncias internacionais e actualizar os critérios mínimos;\n\nConsiderando que, com base nas informações fornecidas pelos Estados-membros nos termos do artigo 11º, relativas ao desempenho das organizações que agem em seu nome, a Comissão decidirá, nos termos do procedimento previsto no artigo 13º, se deve ou não solicitar aos Estados-membros que anulem o reconhecimento das organizações que deixaram de respeitar os critérios mínimos comuns;\n\nConsiderando que deve, no entanto, ser facultada aos Estados-membros a possibilidade de suspender a autorização de uma organização por razões de perigo grave para a segurança ou o ambiente; que a Comissão deverá rapidamente decidir, nos termos do procedimento acima referido, se é necessário confirmar ou recusar essa medida nacional;\n\nConsiderando que cada Estado-membro deverá avaliar periodicamente o nível de desempenho das organizações que actuam em seu nome e fornecer à Comissão e a todos os outros Estados-membros informações precisas sobre esse desempenho;\n\nConsiderando que é exigido aos Estados-membros, enquanto autoridades portuárias, que promovam a segurança e a prevenção da poluição nas águas comunitárias, através da inspecção prioritária de navios com certificados de organizações que não respeitam os critérios comuns, assegurando deste modo um tratamento que não seja mais favorável para os navios que arvorem pavilhão de um Estado terceiro;\n\nConsiderando que o comité deve agir nos termos do procedimento III A do artigo 2º da Decisão 87/373/CEE do Conselho, de 13 de Julho de 1987, que fixa as modalidades de exercício da competência de execução atribuída à Comissão (5);\n\nConsiderando que as sociedades de classificação devem actualizar e fazer aplicar as suas normas técnicas a fim de harmonizar as regras de segurança e assegurar uma aplicação uniforme de regras internacionais da Comunidade;\n\nConsiderando que, no que respeita ao casco, às máquinas e às instalações eléctricas e de controlo, não existem actualmente normas internacionais uniformes a que os navios devam obedecer durante a fase de construção e durante a sua existência; que essas normas poderão ser estabelecidas com base nas regras das sociedades de classificação reconhecidas ou em regras equivalentes a definir pelas administrações nacionais, nos termos do procedimento previsto na Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas (6),\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "ccb1f9831370ba23": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente directiva institui uma série de medidas a respeitar pelos Estados-membros e pelas organizações que se ocupam da inspecção, vistoria e certificação dos navios, com vista a garantir a sua conformidade com as convenções internacionais sobre segurança marítima e prevenção da poluição marinha, favorecendo simultaneamente o objectivo da livre prestação de serviços. Este processo inclui o desenvolvimento e a aplicação de requisitos de segurança para o casco, as máquinas e as instalações eléctricas e de controlo dos navios abrangidos pelas convenções internacionais."
+  },
+  "9238a2a8b12e3fc7": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Navio», qualquer navio abrangido pelas convenções internacionais;\n\nb) «Navio que arvora o pavilhão de um Estado-membro», qualquer navio que esteja registado num Estado-membro e arvore o respectivo pavilhão nos termos de sua legislação, incluindo os navios registados no Euros a partir do momento em que esse registo for aprovado pelo Conselho. Os navios que não correspondam a esta definição serão equiparados a navios que arvoram pavilhão de um país terceiro;\n\nc) «Inspecções e vistorias», as inspecções e vistorias com carácter obrigatório por força das convenções internacionais;\n\nd) «Convenções internacionais», a Convenção internacional para a salvaguarda da vida humana no mar de 1974, a Convenção internacional sobre linhas de carga de 1966, a Convenção internacional para a prevenção da poluição por navios de 1973/1978, os respectivos protocolos e alterações e ainda os códigos conexos com carácter obrigatório adoptados em todos os Estados-membros, em vigor à data da adopção da presente directiva;\n\ne) «Organização», as sociedades de classificação ou outros organismos privados que procedam à avaliação dos níveis de segurança por conta de uma administração;\n\nf) «Organização reconhecida», qualquer organização reconhecida nos termos do artigo 4º;\n\ng) «Autorização», o acto pelo qual um Estado-membro concede uma autorização ou delega poderes numa organização reconhecida;\n\nh) «Certificado», o certificado emitido por um Estado-membro ou em seu nome em conformidade com as convenções internacionais;\n\ni) «Certificado de classificação», o documento emitido por uma sociedade de classificação comprovativo da adaptação estrutural e mecânica de um navio a uma determinada utilização ou serviço, em conformidade com as suas regras e regulamentações;\n\nj) «Certificado de segurança radioeléctrica para navios cargueiros», o certificado introduzido pelo regulamento das radiocomunicações Solas 74/78, tal como alterado, adoptado pela OMI e que inclui, durante um período de transição que termina em 1 de Fevereiro de 1999, o certificado de segurança radiotelegráfica para navios cargueiros e o certificado de segurança radiotelefónica para navios cargueiros;\n\nk) «Localização», o local da sede social, da administração central ou do estabelecimento principal de uma organização."
+  },
+  "bf49341aa9372299": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Ao assumirem as responsabilidades e obrigações que lhes incumbem por força das convenções internacionais, os Estados-membros deverão assegurar que as respectivas administrações competentes possam garantir uma aplicação adequada das disposições das convenções internacionais, em especial no que respeita à inspecção e vistoria dos navios e à emissão dos certificados e dos certificados de isenção.\n\n2. Sempre que, para efeitos do nº 1, um Estado-membro decida, em relação aos navios que arvorem o seu pavilhão;\n\ni) Autorizar organizações a efectuar, total ou parcialmente, as inspecções e vistorias relacionadas com os certificados, incluindo as que se destinam a avaliar a conformidade com o artigo 14º e, caso necessário, a emitir ou prorrogar os respectivos certificados, ou\n\nii) Confiar a organizações a realização total ou parcial das inspecções e vistorias referidas na alínea i),\n\napenas poderá confiar essas funções a organizações reconhecidas.\n\nCaberá à administração competente aprovar a primeira emissão de certificados de isenção.\n\nContudo, no caso do certificado de segurança radioeléctrica para navios cargueiros, estas funções podem ser confiadas a um organismo privado reconhecido por uma administração competente, e com os conhecimentos técnicos e o pessoal qualificado suficientes para proceder em seu nome à avaliação pormenorizada dos níveis de segurança das comunicações por rádio.\n\n3. Este artigo não diz respeito à certificação de elementos específicos de equipamento náutico."
+  },
+  "cc269e95991012fb": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros apenas poderão reconhecer as organizações que preencham os critérios constantes do anexo. As organizações deverão apresentar aos Estados-membros aos quais solicitem o seu reconhecimento informações completas e elementos comprovativos da sua conformidade com esses critérios. Os Estados-membros deverão notificar devidamente as organizações de que foram reconhecidas.\n\n2. Cada Estado-membro deverá notificar à Comissão e aos outros Estados-membros as organizações por si reconhecidas.\n\n3. Os Estados-membros poderão requerer à Comissão o reconhecimento por três anos das organizações que respeitem todos os critérios estipulados no anexo, excepto os referidos nos nºs 2 e 3 da rubrica «ASPECTOS GERAIS».\n\nO reconhecimento será concedido nos termos do procedimento previsto no artigo 13º O reconhecimento apenas produzirá efeitos nos Estados-membros que tenham apresentado um requerimento nesse sentido.\n\n4. Todas as organizações a que for concedido o reconhecimento serão controladas de perto pelo comité previsto no artigo 7º, nomeadamente com vista à decisão de prorrogar ou não o reconhecimento das organizações referidas no nº 3. A decisão de prorrogar esse reconhecimento não terá em consideração os critérios estabelecidos nos nºs 2 e 3 da rubrica «ASPECTOS GERAIS» do anexo. Deixará de ser aplicável a restrição dos efeitos do reconhecimento prevista no nº 3.\n\n5. A Comissão elaborará e manterá actualizada uma lista das organizações notificadas pelos Estados-membros, em conformidade com os nºs 1, 3 e 4. Essa lista será publicada no Jornal Oficial das Comunidades Europeias."
+  },
+  "9b154ef54a941743": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Em princípio, ao aplicarem o nº 2, alínea i), do artigo 3º, os Estados-membros não se recusarão a autorizar qualquer das organizações reconhecidas localizadas na Comunidade a exercer essas funções, sob reserva do disposto nos artigos 6º e 11º Todavia, os Estados-membros podem restringir o número de organizações que autorizam, em função das suas necessidades, desde que existam motivos transparentes e objectivos para o fazer. A pedido de um Estado-membro, a Comissão adoptará as medidas adequadas, nos termos do procedimento previsto no artigo 13º\n\n2. A título de derrogação, a Comissão poderá isentar temporariamente os Estados-membros da aplicação do disposto no nº 1 até 31 de Dezembro de 1997.\n\n3. Com vista a autorizar uma organização localizada num Estado terceiro a desempenhar parte ou a totalidade das funções referidas no artigo 3º, um Estado-membro poderá solicitar que o referido Estado terceiro conceda um reconhecimento recíproco às organizações reconhecidas localizadas na Comunidade."
+  },
+  "134a137afd577309": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os Estados-membros que decidam actuar nos termos do nº 2 do artigo 3º iniciarão uma relação de trabalho entre a respectiva administração competente e as organizações que actuem em seu nome.\n\n2. Essa relação de trabalho será regida por um acordo formal, escrito e não discriminatório, ou relação jurídica equivalente, que estabeleça quais as tarefas e funções específicas assumidas pelas organizações e que inclua, pelo menos:\n\n- as disposições constantes do anexo II da Resolução A.739(18) da OMI relativa às directrizes de autorização de organizações que actuem em nome de uma administração, com a redacção que tiver na data da adopção da presente directiva,\n\n- a possibilidade de auditorias periódicas por parte da administração ou de um organismo externo imparcial por ela designado das tarefas que as organizações desempenham em seu nome,\n\n- a possibilidade de inspecções aleatórias e minuciosas dos navios,\n\n- disposições relativas à comunicação de informações essenciais sobre a sua frota classificada, as alterações da classificação ou a desclassificação dos navios.\n\n3. O acordo ou relação jurídica equivalente poderá incluir a exigência de que a organização reconhecida disponha de uma representação local no território do Estado-membro em nome do qual exerce as funções referidas no artigo 3º Poderá satisfazer esse requisito uma representação local com carácter jurídico que garanta personalidade jurídica ao abrigo da legislação do Estado-membro e a competência dos seus tribunais nacionais.\n\n4. Cada Estado-membro fornecerá à Comissão informações precisas sobre a relação de trabalho estabelecida em conformidade com o presente artigo. A Comissão informará posteriormente os outros Estados-membros."
+  },
+  "c3e88b7b67e8295a": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nPara coadjuvar a Comissão, é instituído pela presente directiva um comité constituído por representantes dos Estados-membros e presidido pelo representante da Comissão. O comité será convocado pela Comissão pelo menos uma vez por ano ou sempre que necessário se um Estado-membro suspender a autorização de uma organização ao abrigo do disposto no artigo 10º\n\nO comité adoptará o seu regulamento interno."
+  },
+  "b102cc4f9857af80": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. A presente directiva pode ser alterada nos termos do procedimento previsto no artigo 13º a fim de:\n\n- aplicar, para efeitos da presente directiva, as futuras alterações aos códigos internacionais e à resolução referida na alínea d) do artigo 2º e no artigo 6º que vierem a entrar em vigor,\n\n- actualizar os critérios estabelecidos no anexo, tendo especialmente em conta as decisões pertinentes da OMP.\n\n2. Na sequência da adopção de novos instrumentos ou de protocolos às convenções referidas na alínea d) do artigo 2º, o Conselho, deliberando sob proposta da Comissão, decidirá, tendo em conta as formalidades parlamentares dos Estados-membros, bem como as formalidades pertinentes da OMI, sobre as disposições de ratificação dos referidos instrumentos ou protocolos, garantindo a sua aplicação uniforme e simultânea nos Estados-membros."
+  },
+  "f66f77278a603dee": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Nos termos do procedimento previsto no artigo 13º, poderá ser solicitado a cada Estado-membro que revogue o reconhecimento das organizações referidas no artigo 4º que deixem de preencher os critérios constantes do anexo, quando aplicáveis.\n\n2. Ao preparar os projectos de decisão relativos às questões referidas no nº 1, a Comissão deverá ter em conta os relatórios e as informações mencionadas nos artigos 11º e 12º Ao preparar esses projectos de medidas, a Comissão prestará especial atenção ao nível de desempenho das organizações no que se refere à segurança e prevenção da poluição. Os projectos de decisão relativos às questões referidas no nº 1 serão também apresentados ao comité pela Comissão, por iniciativa própria ou a pedido de um Estado-membro."
+  },
+  "76d8a39dcbb0e4e7": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nNão obstante os critérios especificados no anexo, sempre que um Estado-membro considerar que uma organização reconhecida não pode continuar a ser autorizada a desempenhar em seu nome as funções indicadas no artigo 3º, poderá suspender a autorização.\n\nNessas circunstâncias, será aplicável o seguinte procedimento:\n\na) O Estado-membro informará de imediato a Comissão e os outros Estados-membros da sua decisão, bem como dos seus fundamentos;\n\nb) A Comissão averiguará se a suspensão se justifica por motivos de perigo grave para a segurança ou o ambiente;\n\nc) Nos termos do procedimentos previsto no artigo 13º, a Comissão informará o Estado-membro se a sua decisão de suspender a autorização se justifica por motivos de perigo grave para a segurança ou o ambiente e, se não se justificar, solicitará ao Estado-membro que retire a suspensão."
+  },
+  "66033c2983af6cae": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. Caberá a cada Estado-membro verificar se as organizações reconhecidas que actuam em seu nome para efeitos do nº 2 do artigo 3º desempenham efectivamente as funções referidas nesse artigo a contento da respectiva administração competente, e se essas organizações preenchem os critérios especificados no anexo. Poderá fazê-lo através de um controlo directo das organizações reconhecidas pela sua administração competente ou, no caso de organizações localizadas noutro Estado-membro, confiando o controlo dessas organizações à administração de outro Estado-membro.\n\n2. Cada Estado-membro desempenhará esta tarefa de dois em dois anos e apresentará à Comissão e aos outros Estados-membros um relatório sobre os resultados deste controlo o mais tardar até 31 de Março do ano seguinte àquele em que foi avaliado o desempenho.\n\n3. Sempre que, para o desempenho dessa tarefa, um Estado-membro decida confiar o controlo a outro Estado-membro, o seu relatório será apresentado o mais tardar até 30 de Junho do ano seguinte àquele em que foi avaliado o desempenho.\n\n4. Os Estados-membros enviarão à Comissão e aos outros Estados-membros todas as informações relevantes com vista à avaliação do nível de desempenho das organizações."
+  },
+  "c2ae9a608e9ffe33": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. No exercício dos respectivos direitos e obrigações de inspecção enquanto Estados do porto:\n\na) Os Estados-membros deverão garantir que os navios que arvoram pavilhão de um Estado terceiro não sejam objecto de tratamento mais favorável do que os navios autorizados a arvorar o pavilhão de um Estado-membro. Para o efeito, o facto de terem conhecimento de que os certificados desses navios e os certificados de classificação foram emitidos por uma organização que não obedece aos critérios constantes do anexo, com excepção das organizações reconhecidas nos termos dos nºs 3 e 4 do artigo 4º, constituirá um dos principais critérios de selecção dos navios para inspecção;\n\nb) Os Estados-membros adoptarão as medidas adequadas quando os navios não respeitem as normas internacionalmente acordadas e comunicarão à Comissão e ao secretariado do memorando de acordo sobre o controlo dos navios pelo estado do porto os casos em que seja detectada a emissão de certificados válidos de organizações que actuem em nome de um Estado de pavilhão a navios que não preencham os requisitos relevantes das convenções internacionais, bem como qualquer falha detectada num navio que possua um certificado de classificação válido e relativa a componentes do navio abrangidos por esse certificado.\n\n2. Cada Estado-membro elaborará um registo do nível de desempenho das organizações que actuam em nome dos Estados de pavilhão, devendo o mesmo ser actualizado todos os anos e distribuído aos outros Estados-membros e à Comissão."
+  },
+  "c8b273d1cf75f597": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nO seguinte procedimento será aplicável às questões abrangidas pelos nºs 3 e 4 do artigo 4º, pelo nº 1 do artigo 5º, pelos artigos 8º, 9º e 10º e pelo nº 2 do artigo 14º:\n\na) O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar;\n\nb) O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido por maioria, nos termos previstos no nº 2 do artigo 148º do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida nesse artigo. O presidente não participa na votação;\n\nc) A Comissão adoptará as medidas projectadas desde que sejam conformes com o parecer do comité;\n\nd) Se as medidas projectadas não forem conformes com o parecer do comité, ou na falta de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada. Se, no prazo de três meses a contar da data em que o assunto foi submetido à sua apreciação, o Conselho ainda não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "1f9f81868b808da5": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Os Estados-membros deverão assegurar que os navios que arvoram o seu pavilhão sejam construídos e manutencionados de acordo com os requisitos relativos ao casco, às máquinas e às instalações eléctricas e de controlo exigidos por uma organização reconhecida.\n\n2. Um Estado-membro só pode decidir aplicar regras que considere equivalentes às de uma organização reconhecida na condição de as notificar imediatamente à Comissão, nos termos do procedimento previsto na Directiva 83/189/CEE, bem como aos outros Estados-membros, de essas regras não serem contestadas por outro Estado-membro ou pela Comissão nem considerandos e consideradas não equivalentes através do procedimento previsto no artigo 13º"
+  },
+  "c413df198e3090f1": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. As organizações reconhecidas deverão proceder periodicamente a consultas recíprocas com vista a manterem a equivalência das respectivas normas técnicas e da sua aplicação. Deverão apresentar à Comissão relatórios periódicos sobre os mais importantes progressos verificados em matéria de normas.\n\n2. As organizações reconhecidas devem demonstrar o seu desejo de cooperar com as administrações de controlo do Estado do porto sempre que esteja em causa um navio por elas classificado, em especial de modo a facilitar a rectificação de anomalias ou outras discrepâncias detectadas.\n\n3. As organizações reconhecidas devem fornecer à administração todas as informações relevantes no que se refere às mudanças de classificação e à desclassificação dos navios.\n\n4. As organizações reconhecidas não emitirão certificados para navios que tenham sido desclassificados ou que tenham sofrido mudança de classificação por razões de segurança antes de terem consultado as administrações competentes do Estado do pavilhão, a fim de determinarem se é ou não necessária uma inspecção completa."
+  },
+  "b51e898bb8477e69": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva o mais tardar em 31 de Dezembro de 1995.\n\n2. Quando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n3. Os Estados-membros comunicarão imediatamente à Comissão o texto de todas as disposições de direito interno que adoptarem no domínio regido pela presente directiva. A Comissão informará do facto os outros Estados-membros."
+  },
+  "7e2306685b45df86": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 22 de Novembro de 1994.\n\nPelo Conselho\n\nO Presidente\n\nM. WISSMANN\n\n(1) JO nº C 167 de 18. 6. 1993, p. 13.\n\n(2) JO nº C 34 de 2. 2. 1994, p. 14.\n\n(3) Parecer do Parlamento Europeu de 9 de Março de 1994 (JO nº C 91 de 28. 3. 1994, p. 9), posição comum do Conselho de 19 de Setembro de 1994 (JO nº C 301 de 27. 10. 1994, p. 75) e decisão do Parlamento Europeu de 16 de Novembro de 1994 (ainda não publicada no Jornal Oficial).\n\n(4) JO nº C 271 de 7. 10. 1993, p. 1.\n\n(5) JO nº L 197 de 18. 7. 1987, p. 33.\n\n(6) JO nº L 109 de 26. 4. 1983, p. 8. Directiva com a última redacção que lhe foi dada pela Directiva 94/10/CE (JO nº L 100 de 19. 4. 1994, p. 30)."
+  },
+  "14a76e33e6fb512f": {
+   "fragment_id": "ANEXO — CRITÉRIOS MÍNIMOS PARA AS ORGANIZAÇÕES REFERIDAS NO ARTIGO 3º",
+   "type": "divisao",
+   "heading": "ANEXO — CRITÉRIOS MÍNIMOS PARA AS ORGANIZAÇÕES REFERIDAS NO ARTIGO 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — CRITÉRIOS MÍNIMOS PARA AS ORGANIZAÇÕES REFERIDAS NO ARTIGO 3º\n\nA. ASPECTOS GERAIS\n\n1. A organização reconhecida deve poder comprovar que dispõe de vasta experiência na avaliação da concepção e construção de navios mercantes.\n\n2. A organização deve incluir na sua classificação uma frota de pelo menos 1 000 navios de tráfego oceânico (mais de 100 TAB), num total não inferior a cinco milhões de TAB.\n\n3. A organização deverá empregar pessoal técnico em número adequado ao número de navios classificados. No mínimo, serão necessários 100 inspectores próprios para corresponder aos requisitos estabelecidos no nº 2.\n\n4. A organização deverá dispor de um sistema global de regras e regulamentações relativas à concepção, construção e inspecção periódica dos navios mercantes, publicadas e continuamente actualizadas e melhoradas através de programas de investigação e desenvolvimento.\n\n5. O registo dos navios da organização deverá ser publicado anualmente.\n\n6. A organização não deverá ser controlada por armadores, construtores navais ou quaisquer outras entidades comercialmente implicadas no fabrico, equipamento, reparação ou exploração de navios, nem deve o seu rendimento depender substancialmente de uma só entidade comercial.\n\nB. ASPECTOS ESPECÍFICOS\n\n1. A organização deve contar com:\n\na) Pessoal técnico, de gestão, de apoio e de investigação em número suficiente (proporcional às tarefas e aos navios classificados, responsáveis também pelo desenvolvimento de capacidades e por fazer cumprir as regras e regulamentações);\n\nb) Um cobertura mundial assegurada por pessoal técnico próprio ou por pessoal técnico de outras organizações reconhecidas.\n\n2. A organização deve ser regida por um código deontológico.\n\n3. A organização deve ser gerida e administrada de modo a garantir a confidencialidade das informações solicitadas pela administração.\n\n4. A organização deve estar preparada para fornecer à administração as informações relevantes.\n\n5. Os gestores da organização devem definir e documentar a sua política e os seus objectivos e empenhamento em matéria de qualidade e assegurar que essa política é entendida, aplicada e garantida a todos os níveis da organização.\n\n6. A organização deve desenvolver, aplicar e manter um sistema de qualidade interno eficaz, baseado nos aspectos mais apropriados das normas de qualidade internacionalmente reconhecidas e em conformidade com as normas EN 45004 (organismos de inspecção) e EN 29001, segundo a interpretação dos requisitos do sistema de certificação da qualidade de IACS (Quality System Certification Scheme Requirements), que, nomeadamente, garante que:\n\na) As regras e regulamentações da organização sejam estabelecidas e mantidas de forma sistemática;\n\nb) Tais regras e regulamentações sejam respeitadas;\n\nc) Sejam satisfeitos os requisitos referentes às funções legais que a organização é autorizada a desempenhar;\n\nd) Sejam definidas e documentadas as responsabilidades, autoridade e inter-relação do pessoal cujo trabalho afecta a qualidade dos serviços da organização;\n\ne) Todo o trabalho seja levado a cabo em condições controladas;\n\nf) Seja estabelecido um sistema de supervisão que controle as acções e o trabalho efectuado pelos inspectores e pelo pessoal técnico e administrativo empregado directamente pela organização;\n\ng) Os requisitos referentes às principais funções legais que a organização está autorizada a desempenhar só sejam aplicados ou directamente controlados por inspectores próprios seus ou por inspectores de outras organizações reconhecidas;\n\nh) Seja um sistema de qualificação dos inspectores e de actualização contínua dos seus conhecimentos;\n\ni) Sejam mantidos registos que comprovem o cumprimento das normas aplicáveis nos domínios abrangidos pelos serviços prestados, bem como o bom funcionamento do sistema de qualidade; e\n\nj) Seja criado um sistema global de auditorias internas planeadas e documentadas relativas ao desempenho, em todos os locais de trabalho da organização, de actividades relacionadas com a qualidade.\n\n7. A organização deve demonstrar a sua capacidade para:\n\na) Desenvolver e manter actualizado um conjunto próprio e adequado de regras e regulamentações relativas ao casco, às máquinas e às instalações eléctricas e de controlo cujo nível de qualidade seja o das normas técnicas internacionalmente reconhecidas, com base nas quais são emitidos os certificados da Convenção Solas e os certificados de segurança para navio de passageiros (no que se refere à estrutura do navio e aos sistemas de máquinas de bordo essenciais) e os certificados das linhas de carga (no que se refere à resistência do navio);\n\nb) Efectuar todas as inspecções e vistorias exigidas pelas convenções internacionais para a emissão de certificados, incluindo os meios de avaliar, utilizando pessoal profissional qualificado, a aplicação e a manutenção do sistema de gestão de segurança, tanto em terra como a bordo dos navios que deverão estar abrangidos na certificação.\n\n8. O sistema de qualidade da organização deve ser certificado por uma empresa de auditoria independente reconhecida pela administração do Estado em que está localizada.\n\n9. A organização deve permitir que colaborem no desenvolvimento das suas regras e/ou regulamentações representantes da administração e outras partes interessadas."
+  },
+  "703d00004bb28ca2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01994L0057 — PT — 17.06.2009 — 004.002\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31994L0057) [DIRECTIVA 94/57/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31994L0057) [de 22 de Novembro de 1994](http://publications.europa.eu/resource/celex/31994L0057) [relativa às regras comuns para as organizações de vistoria e inspecção dos navios e para as actividades relevantes das administrações marítimas](http://publications.europa.eu/resource/celex/31994L0057) (JO L 319, 12.12.1994, p.20)\n\n**Revogada por:**\n\n- [Directiva 2009/15/CE do Parlamento Europeu e do Conselho de 23 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0015) — L 131 — 47 — 28.5.2009"
+  }
+ }
+}

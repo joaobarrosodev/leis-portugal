@@ -1,0 +1,379 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32000R1227:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02000R1227-20080801",
+ "dre_path": null,
+ "source_lastmod": "2008-08-01",
+ "versions": [
+  {
+   "date": "2000-06-16",
+   "future": false,
+   "celex": "32000R1227",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2aa52c3de0cdd013",
+    "09c58f24a89350b7",
+    "a2d9d1815ebe3423",
+    "1a50b7322a47394b",
+    "87ca2d11517f0076",
+    "19793a318ae6b0cf",
+    "7d911108d0f25676",
+    "d465c3a429709c62",
+    "d3bc3aaccdbf8699",
+    "019e9ef5bb6e631a",
+    "38de024bf5058ac4",
+    "3b0786c5fa72df98",
+    "dab8ac7f1756ca05",
+    "bc065d7046a0dfad",
+    "2c4c6648e4622555",
+    "468e71af3e842382",
+    "0c0cb971eb3fcda3",
+    "487bd0056d1fb231",
+    "64cb3455010100ca",
+    "91db673418359f51",
+    "90b1d103f68d663f",
+    "d436ac0003d7ac68",
+    "cc2e15a013c07cfe",
+    "a6266351162c1c27",
+    "6cd291ca901f2aec",
+    "e8960e7069bb1fd8",
+    "16cb87dad1ca8128",
+    "bf20f2f904d1ac26",
+    "c69b7261430730fe",
+    "6197d84d99ab5c63",
+    "67df84acaed2e1d1",
+    "214132fcd4c24f51",
+    "183509058160c5fa",
+    "b33eefa33a81bfad"
+   ]
+  },
+  {
+   "date": "2008-08-01",
+   "future": false,
+   "celex": "02000R1227-20080801",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I — Âmbito de aplicação",
+    "Suprime Artigo 1.º",
+    "Suprime CAPÍTULO II — Plantação de vinha",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime CAPÍTULO III — Prémios de abandono",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime CAPÍTULO IV — Reestruturação e reconversão",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime CAPÍTULO V — Disposições gerais e relativas à informação",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime CAPÍTULO VI — Disposições transitórias e finais",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime ANEXO — Modelo das comunicações a apresentar no âmbito da aplicação do presente regulamento"
+   ],
+   "fragments": [
+    "e6fbbd2b31afe8ab"
+   ]
+  }
+ ],
+ "fragments": {
+  "2aa52c3de0cdd013": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.o 1227/2000 da Comissão, de 31 de Maio de 2000, que estabelece normas de execução do Regulamento (CE) n.o 1493/1999 do Conselho que estabelece a organização comum do mercado vitivinícola, no referente ao potencial de produção** *Jornal Oficial nº L 143 de 16/06/2000 p. 0001 - 0021*\n\nRegulamento (CE) n.o 1227/2000 da Comissão\n\nde 31 de Maio de 2000\n\nque estabelece normas de execução do Regulamento (CE) n.o 1493/1999 do Conselho que estabelece a organização comum do mercado vitivinícola, no referente ao potencial de produção\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.o 1493/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum do mercado vitivinícola(1), e, nomeadamento, o n.o 2 do seu artigo 7.o e os seus artigos 10.o, 15.o, 23.o e 80.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.o 1493/1999, que substituiu o Regulamento (CEE) n.o 822/87 do Conselho(2), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 1677/1999(3), com efeitos a partir de 1 de Agosto de 2000, contém, no seu título II, disposições relativas ao potencial de produção. É necessário completar o quadro estabelecido nesse título com normas de execução e revogando os regulamentos anteriores na matéria, nomeadamente o Regulamento (CEE) n.o 2314/72 da Comissão(4), com a última redacção que lhe foi dada pelo Regulamento (CEE) n.o 2462/93(5), o Regulamento (CEE) n.o 940/81(6), o Regulamento (CEE) n.o 3800/81(7), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2548/1999(8), o Regulamento (CEE) n.o 2729/88(9), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 2182/97(10), o Regulamento (CEE) n.o\n\n2741/89(11) e o Regulamento (CEE) n.o 3302/90(12).\n\n(2) Assiste aos Estados-Membros, em conformidade com o artigo 22.o do Regulamento (CE) n.o 1493/1999, a possibilidade de adoptarem regras nacionais mais restritivas, em matéria de novas plantações ou replantação de vinha ou de sobreenxertia, do que as estabelecidas no título II daquele regulamento, incluindo a imposição desse tipo de regras no referente à concessão, transferência e utilização de direitos de plantação.\n\n(3) O n.o 3 do artigo 2.o do Regulamento (CE) n.o 1493/1999 prevê que os Estados-Membros possam autorizar a produção de vinho destinado a comercialização, sob reserva do controlo necessário, nas superfícies previstas nas alíneas a) a d) dessa mesma disposição. É necessário estabelecer normas de execução relativas aos pedidos e à data efectiva da regularização, prevendo, designadamente, que esta seja efectuada nos casos em que se justifique, mediante, nomeadamente, a concessão da autorização a partir da data do pedido e a garantia de que não haja produtores a beneficiar de pedidos injustificados. É igualmente necessário que os direitos de plantação que possam ser utilizados no processo de regularização sejam válidos na data do pedido.\n\n(4) O n.o 7 do artigo 2.o do Regulamento (CE) n.o 1493/1999 prevê o arranque compulsivo das parcelas plantadas em violação das restrições à plantação. Os produtos vitivinícolas obtidos a partir de uvas provenientes dessas parcelas antes do arranque não devem ser susceptíveis de perturbar o equilíbrio do mercado, devendo, por isso, ser destilados.\n\n(5) O n.o 1 do artigo 3.o do Regulamento (CE) n.o 1493/1999 prevê a concessão de novos direitos de plantação no âmbito de medidas de emparcelamento ou de expropriação por utilidade pública. Para evitar que a proibição de plantação prevista no n.o 1 do artigo 2.o do Regulamento (CE) n.o 1493/1999 seja posta em causa, os novos direitos de plantação não devem exceder os necessários para plantar uma superfície equivalente a 105 % da superfície perdida pelos produtores no âmbito de tais medidas.\n\n(6) O n.o 1 do artigo 3.o do Regulamento (CE) n.o 1493/1999 prevê igualmente a concessão de novos direitos de plantação em caso de experimentação vitícola. As superfícies plantadas por aplicação desses novos direitos de plantação concedidos só devem ser utilizadas para as finalidades especificadas e os produtos vitivinícolas obtidos a partir de uvas provenientes das mesmas durante e depois do período experimental não devem ser susceptíveis de perturbar o equilíbrio do mercado. Os produtos vitivinícolas obtidos a partir de uvas provenientes dessas superfícies durante o período experimental não devem, portanto, ser comercializados, sem prejuízo do seu consumo no quadro de ensaios. Depois do período experimental, as superfícies em causa devem ser arrancadas ou devem ser utilizados direitos de plantação para que as mesmas possam produzir normalmente. A experimentação vitícola em curso deve poder continuar, sujeita às regras em vigor.\n\n(7) O n.o 1 do artigo 3.o do Regulamento (CE) n.o 1493/1999 prevê igualmente a concessão de novos direitos de plantação em caso de cultura de vinhas-mães de garfo. As superfícies plantadas por aplicação desses novos direitos de plantação concedidos só devem ser utilizadas para as finalidades especificadas e os produtos vitivinícolas obtidos a partir de uvas provenientes das mesmas durante e depois do período de produção das vinhas-mães de garfo não devem ser susceptíveis de perturbar o equilíbrio do mercado. Durante o período de produção, as uvas provenientes dessas superfícies não devem, portanto, ser colhidas ou, se o forem, devem ser destruídas. Depois do período de produção, as superfícies em causa devem ser arrancadas ou devem ser utilizados direitos de plantação para que as mesmas possam produzir normalmente. As culturas de vinhas-mães de garfo existentes devem poder subsistir, sujeitas às regras em vigor.\n\n(8) O n.o 1 do artigo 3.o do Regulamento (CE) n.o 1493/1999 prevê igualmente a concessão de novos direitos de plantação no caso das superfícies cuja produção vitivinícola se destine unicamente ao consumo familiar do viticultor. Todavia, essa situação pode implicar um fardo administrativo excessivo, devido ao elevado número de casos desse tipo em certos Estados-Membros. Os Estados-Membros devem, pois, poder autorizar a existência de tais superfícies, mesmo que as mesmas não tenham sido objecto da concessão de direitos de plantação, desde que, para evitar perturbações do equilíbrio do mercado, as superfícies sejam pequenas e o viticultor não esteja envolvido na produção comercial de vinho. As superfícies e produtores em causa devem ficar sujeitos ao controlo e sanções apropriados, incluindo o arranque das superfícies em questão se as disposições estabelecidas não forem respeitadas.\n\n(9) O n.o 2 do artigo 3.o do Regulamento (CE) n.o 1493/1999 prevê a concessão de novos direitos de plantação para a produção de vqprd ou de vinhos de mesa com direito a indicação geográfica. Essas concessões só podem ter lugar se tiver sido reconhecido que a produção do vinho em questão é largamente inferior à procura. Esse reconhecimento deve basear-se em dados e critérios objectivos.\n\n(10) Para garantir a equivalência e exactidão desses dados objectivos em toda a Comunidade, há que estabelecer que estes incluam o inventário do potencial de produção previsto no artigo 16.o do Regulamento (CE) n.o 1493/1999, ou informação equivalente.\n\n(11) Para evitar perturbações do equilíbrio do mercado, não devem ser concedidos direitos de replantaçãco relativamente a superfícies que tenham sido arrancadas compulsivamente por violação do Regulamento (CE) n.o 1493/1999. Com a mesma finalidade, não devem ser concedidos direitos de replantação com base no arranque de superfícies relativamente às quais tenham sido concedidos direitos de plantação com objectivos distintos da produção comercial de vinho.\n\n(12) O n.o 2 do artigo 4.o do Regulamento (CE) n.o 1493/1999 prevê a concessão de direitos de replantação aos produtores que se comprometam a proceder ao arranque numa superfície plantada com vinha. Para evitar a concessão de direitos de plantação que excedam as reais necessidades do produtor, deve a mesma limitar-se aos quantitativos necessários para a plantação da totalidade da superfície, contabilizados os direitos que o produtor já possua. A concessão de direitos de replantação com base em tal compromisso deve ser acompanhada da constituição de uma garantia que assegure o respeito do mesmo. Para evitar perturbações do equilíbrio do mercado, durante o período de coexistência da superfície plantada de novo e da superfície a arrancar só uma destas poderá produzir vinho destinado a comercialização.\n\n(13) O artigo 5.o do Regulamento (CE) n.o 1493/1999 prevê a criação de reservas nacionais e/ou regionais, a fim de melhorar a gestão do potencial de produção. Para evitar perturbações do equilíbrio do mercado, a transferência de direitos através de um sistema de reservas não deve conduzir a um aumento global do potencial de produção no território dos Estados-Membros, conforme já previsto para a transferência de direitos entre explorações no n.o 4 do artigo 4.o do mesmo regulamento. Em ambos os contextos, os Estados-Membros são autorizados, nos termos do n.o 7 do artigo 5.o, a aplicar coeficientes de redução à transferência de direitos.\n\n(14) O n.o 8 do artigo 5.o do Regulamento (CE) n.o 1493/1999 prevê que um Estado-Membro possa optar por não aplicar o sistema de reservas desde que possa provar que dispõe de um sistema eficaz de gestão dos direitos de plantação em todo o seu território. Neste contexto, um Estado-Membro pode prever a aplicação do sistema de reservas em partes do seu território e de outro sistema eficaz em outras partes do mesmo. Os Estados-Membros que pretendam fazer uso da possibilidade prevista no n.o 8 do artigo 5.o do Regulamento (CE) n.o 1493/1999 devem poder provar a existência de um sistema com tais características e demonstrar a necessidade de quaisquer derrogações das disposições do capítulo I do título II do referido regulamento.\n\n(15) A Comissão pode decidir proceder a atribuições da reserva comunitária de direitos de plantação referida no n.o 1, alínea b), do artigo 6.o do Regulamento (CE) n.o 1493/1999 com base em solicitações dos Estados-Membros nesse sentido.\n\n(16) O capítulo II do título II do Regulamento (CE) n.o 1493/1999 prevê a concessão de prémios pelo abandono definitivo da viticultura numa superfície determinada. Assiste aos Estados-Membros o direito de designarem as zonas do território respectivo que poderão beneficiar do prémio. Todavia, é necessário estabelecer normas de execução comuns no referente aos pedidos, montantes máximos apropriados do prémio e datas apropriadas, nas condições referidas no artigo 10.o do mesmo regulamento.\n\n(17) Por razões de controlo, o pagamento do prémio deve, normalmente, ser efectuado depois do arranque. Todavia, o pagamento poderá ser anterior ao arranque, se for constituída uma garantia que salvaguarde a execução deste último.\n\n(18) O abandono de áreas vitícolas por produtores que sejam membros de agrupamentos de produtores que procedam à transformação conjunta das uvas colhidas pelos seus membros pode reduzir as quantidades de uvas entregues e, consequentemente, aumentar os custos de transformação. É, portanto, razoável prever a compensação desses efeitos negativos.\n\n(19) Na aplicação do capítulo III do título II do Regulamente (CE) n.o 1493/1999, é concedida aos Estados-Membros uma larga margem de decisão sobre o âmbito e a dimensão concretos das ajudas, incluindo, nomeadamente, o pagamento de montantes forfetários, a fixação de montantes máximos de ajuda por hectare e a modulação da ajuda com base em critérios objectivos, atentas as restrições estabelecidas nesse capítulo e as disposições adoptadas em aplicação do mesmo.\n\n(20) É, porém, necessário, estabelecer regras comuns. Nesse sentido, os Estados-Membros devem adoptar regras relativas à dimensão mínima das parcelas em causa, para que o regime tenha um efeito genuíno no potencial de produção. É necessário definir medidas e estabelecer os seus prazos de execução e um acompanhamento adequado. As referidas regras devem cobrir igualmente a utilização dos direitos de replantação resultantes do arranque previsto no plano, de forma a evitar perturbações do equilíbrio do mercado devido a aumentos de rendimentos, e permitir também a concessão de montantes de ajuda superiores, a um nível apropriado, caso os custos envolvidos sejam mais elevados.\n\n(21) Em virtude do artigo 12.o do Regulamento (CE) n.o 1493/1999, os Estados-Membros podem decidir não elaborar eles próprios os planos de reestruturação e reconversão. Dado que os Estados-Membros são os responsáveis pela aprovação dos planos, devem, nesse caso, estabelecer regras relativas à apresentação e aprovação dos mesmos e ao conteúdo mínimo dos planos em causa.\n\n(22) O n.o 3 do artigo 11.o do Regulamento (CE) n.o 1493/1999 prevê que o regime de reestruturação e reconversão das vinhas não abranja a renovação normal das vinhas que tenham chegado ao fim do seu ciclo de vida natural. É necessário tornar mais clara esta frase.\n\n(23) Por razões de controlo, o pagamento das ajudas deve, normalmente, ser efectuado depois da execução da medida específica. Todavia, o pagamento poderá ser efectuado antes da execução da medida, se for constituída uma garantia que salvaguarde a execução da mesma.\n\n(24) Há que estabelecer normas de execução em matéria de planeamento financeiro e de participação no financiamento do regime de reestrutaração e reconversão. Neste contexto, os Estados-Membros devem comunicar regularmente à Comissão a situação do financiamento do regime.\n\n(25) Importa tomar medidas destinadas a garantir a utilização efectiva dos fundos reservados ao financiamento do regime, havendo, nomeadamente, que prever a possibilidade de pré-pagamentos e o necessário ajustamento das verbas atribuídas em função das necessidades e do historial.\n\n(26) As regras gerais da disciplina orçamental, nomeadamente as relativas a declarações incompletas ou incorrectas da parte dos Estados-Membros, devem ser aplicadas a título complementar das regras específicas estabelecidas no presente regulamento.\n\n(27) A gestão financeira concreta do regime será regulada pelas regras adoptadas com vista à execução do Regulamento (CE) n.o 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum(13).\n\n(28) No acompanhamento da execução do título II do Regulamento (CE) n.o 1493/1999 e com vista a uma correcta gestão do mercado, é imperativo que a Comissão disponha de dados apropriados relativos ao potencial de produção, incluindo direitos de plantação, e conheça em pormenor as medidas tomadas pelos Estados-Membros no âmbito da execução daquele título. As informações essenciais necessárias para estes efeitos devem, portanto, ser comunicadas à Comissão no respeito de um modelo estabelecido. Os Estados-Membros devem conservar as restantes informações necessárias ao controlo e auditoria de execução daquele título, para fins de inspecção, durante um período apropriado.\n\n(29) Neste contexto, é necessário definir pormenorizadamente as informações a inserir no inventário referido no artigo 16.o do Regulamento (CE) n.o 1493/1999. Os Estados-Membros que não pretendam tirar partido da possibilidade de regularização das superfícies plantadas ilegalmente, do aumento dos direitos de plantação e das ajudas à reestruturação e reconversão não estão obrigados à realização do inventário.\n\n(30) O artigo 19.o do Regulamento (CE) n.o 1493/1999 delega nos Estados-Membros a classificação das castas destinadas à produção de vinho. É necessário adoptar regras comuns no referente à forma de classificação, às informações a contemplar na mesma e à comunicação e publicação da classificação. Do sistema de classificação enquanto tal não deve resultar qualquer aumento do potencial de produção.\n\n(31) Em princípio, só podem ser incluídas na classificação as castas que possam ser colocadas no mercado em pelo menos um Estado-Membro ao abrigo da Directiva 68/193/CEE do Conselho, de 9 de Abril de 1968, relativa à comercialização dos materiais de propagação vegetativa da vinha(14), com a última redacção que lhe foi dada pelo Acto de Adesão da Áustria, da Finlândia e da Suécia. Todavia, no interesse da conservação do património genético, devem ser elegíveis para classificação outras castas já plantadas antes da entrada em vigor daquela directiva.\n\n(32) Se um produtor for obrigado a proceder à destilação de produtos devido a uma violação das regras comunitárias, não será concedida à destilação ou ao destilado qualquer ajuda comunitária.\n\n(33) Os pagamentos efectuados ao abrigo do título II do Regulamento (CE) n.o 1493/1999 devem ser integralmente liquidados aos beneficiários.\n\n(34) A título de medida transitória, os direitos de plantação regulados pelo Regulamento (CEE) n.o 822/87, que se manteriam válidos até uma data posterior a 31 de Julho de 2000, devem manter-se válidos até essa data posterior, para garantir que não se perderão na transição para o sistema regulado pelo Regulamento (CE) n.o 1493/1999. Pelas mesmas razões, esses direitos, se não forem utilizados até essa data posterior, devem ser transferidos para a reserva regional ou nacional apropriada, quando tenham sido constituídas.\n\n(35) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Vinho,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "09c58f24a89350b7": {
+   "fragment_id": "CAPÍTULO I — Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito de aplicação"
+  },
+  "a2d9d1815ebe3423": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece normas de execução do capítulo I (plantação de vinha), do capítulo II (prémios de abandono), do capítulo III (reestruturação e reconversão) e de parte do capítulo IV (disposições gerais e relativas à informação) do título II (potencial de produção) do Regulamento (CE) n.o 1493/1999."
+  },
+  "1a50b7322a47394b": {
+   "fragment_id": "CAPÍTULO II — Plantação de vinha",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — Plantação de vinha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Plantação de vinha"
+  },
+  "87ca2d11517f0076": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros podem estabelecer uma data-limite para a apresentação, pelos produtores, de pedidos de derrogação a título do n.o 3 do artigo 2.o do Regulamento (CE) n.o 1493/1999.\n\n2. Se um produtor apresentar um pedido de derrogação, o Estado-Membro em questão pode autorizar, durante o período de exame do pedido, a utilização de uvas provenientes das superfícies em causa a partir da data de apresentação do mesmo na produção de vinho destinado a comercialização.\n\n3. Se a derrogação vier a ser concedida, produzirá efeitos a partir da data do pedido.\n\n4. Se a derrogação vier a ser recusada, o Estado-Membro:\n\na) Aplicará uma sanção pecuniária de montante igual a 30 % do valor de mercado do vinho produzido a partir de uvas provenientes das superfícies em causa desde a data de apresentação do pedido até à data da recusa do mesmo; ou\n\nb) Exigirá do produtor a destilação de uma quantitade da produção de vinho equivalente à quantidade de vinho produzida a partir de uvas provenientes das superfícies em causa desde a data de apresentação do pedido e comercializada desde esta data até à data da recusa do mesmo. A produção em causa não poderá ser utilizada na obtenção de produtos de título alcoométrico volúmico adquirido igual ou inferior a 80 % vol.\n\n5. Os Estados-Membros fixarão o período referido no n.o 3, alínea b), do artigo 2.o do Regulamento (CE) n.o 1493/1999, subsequente à plantação das superfícies em causa, para a obtenção, por parte dos produtores, de direitos de replantação. O período em questão não pode ir além de 31 de Março de 2002. Os Estados-Membros só podem conceder derrogações a título daquela disposição se os direitos de replantação em causa forem válidos na data do pedido de derrogação.\n\n6. Os Estados-Membros conservarão um registo de todos os pedidos de derrogação apresentados, do seguimento dado aos mesmos e das acções desenvolvidas ao abrigo do n.o 4 do presente artigo.\n\n7. Os Estados-Membros comunicarão à Comissão, relativamente a cada campanha vitivinícola, a área total objecto de pedidos de derrogação, a área total objecto da concessão de derrogações e a área total objecto da recusa de derrogações. Essa comunicação terá lugar no prazo de três meses a contar do final da campanha vitivinícola em causa.\n\n8. Se uma superfície se destinar a ser arrancada ao abrigo do n.o 7 do artigo 2.o do Regulamento (CE) n.o 1493/1999, os produtos obtidos a partir de uvas dela provenientes só poderão ser colocados em circulação para fins de destilação. A título derrogatório, os Estados-Membros podem estabelecer, em alternativa, que seja destilado vinho de valor equivalente. Nesse caso, os Estados-Membros podem prever igualmente a aplicação de uma sanção administrativa apropriada. Em ambos os casos, os produtos em causa não poderão ser utilizados na obtenção de álcool de título alcoométrico volúmico adquirido igual ou inferior a 80 % vol.\n\n9. Os Estados-Membros conservarão um registo de todos os casos tratados ao abrigo do n.o 7 do artigo 2.o do Regulamento (CE) n.o 1493/1999."
+  },
+  "19793a318ae6b0cf": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Se os Estados-Membros concederem novos direitos de plantação relativamente a superfícies destinadas a novas plantações no âmbito de medidas de emparcelamento ou de expropriação por utilidade pública adoptadas nos termos do direito nacional, zelarão por que esses direitos não sejam concedidos relativamente a uma superfície maior, em termos de cultura estreme, do que 105 % da superfície plantada com vinha que foi objecto das medidas de emparcelamento ou de expropriação por utilidade pública. Os Estados-Membros concervarão um registo de cada caso de concessão de novos direitos de plantação para tais efeitos.\n\n2. Os Estados-Membros conservarão um registo de todos os casos em que concedam novos direitos de plantação relativamente a superfícies destinadas à experimentação vitícola. Esses novos direitos de plantação só serão aplicáveis durante o período experimental.\n\nDurante esse período, os produtos obtidos a partir de uvas provenientes das superfícies em causa não poderão ser comercializados.\n\nTerminado esse período:\n\na) Ou o produtor utiliza novos direitos de plantação concedidos a título do n.o 2 do artigo 3.o do Regulamento (CE) n.o 1493/1999, direitos de replantação ou direitos de plantação atribuídos de uma reserva para que a superfície em causa possa produzir vinho destinado a comercialização; ou\n\nb) As vinhas plantadas nas superfícies em questão serão arrancadas. As despesas ligadas ao arranque dessas vinhas ficarão a cargo do produtor. Os produtos obtidos a partir de uvas provenientes das superfícies a arrancar enquanto estas não forem arrancadas só podem ser postos em circulação para fins de destilação. Os produtos em causa não poderão ser utilizados na obtenção de álcool de título alcoométrico volúmico adquirido igual ou inferior a 80 % vol.\n\n3. Os novos direitos de plantação - e as eventuais condições de utilização dos mesmos ou relativas às superfícies plantadas ao abrigo desses direitos - concedidos antes de 1 de Agosto de 2000 para fins de experimentação vitícola continuarão aplicáveis durante o período experimental. As regras do n.o 2, terceiro parágrafo, são aplicáveis às superfícies em causa depois de terminado o período experimental.\n\n4. Os Estados-Membros conservarão um registo de todos os casos em que concedam novos direitos de plantação relativamente a superfícies destivados à cultura de vichas-mõe de garfos. Esses novos direitos de planteação só serão aplicáveis durante o período de produção das vinhas-mãe de garfos.\n\nDurante esse período, as uvas produzidas nessas vinhas não serão colhidas ou, se o forem, serão destruídas.\n\nTerminado esse período:\n\na) Ou o produtor utiliza novos direitos de plantação concedidos a título do n.o 2 do artigo 3.o do Regulamento (CE) n.o 1493/1999, direitos de replantação ou direitos de plantação atribuídos de uma reserva para que a superfície em causa possa produzir vinho destinado a comercialização; ou\n\nb) As vinhas plantadas nas superfícies em questão serão arrancadas. As despesas ligadas ao arranque dessas vinhas ficarão a cargo do produtor. Os produtos obtidos a partir de uvas provenientes das superfícies a arrancar enquanto estas não forem arrancadas só podem ser postos em circulação para fins de destilação. Os produtos em causa não poderão ser utilizados na obtenção de álcool de título alcoométrico volúmico adquirido igual ou inferior a 80 % vol.\n\n5. Os novos direitos de plantação - e as eventuais condições de utilização dos mesmos ou relativas às superfícies plantadas ao abrigo desses direitos - concedidos antes de 1 de Agosto de 2000 relativamente a superfícies destinadas à cultura de vinhas-mãe de garfos continuarão aplicáveis durante o período de produção das vinhas-mãe de garfos. As regras do n.o 4, terceiro parágrafo, são aplicáveis às superfícies em causa depois de terminado o período experimental.\n\n6. Os Estados-Membros conservarão um registo de cada caso em que concedam novos direitos de plantação relativamente a superfícies cuja produção vitivinícola se destine unicamente ao consumo familiar do viticultor.\n\n7. Em derrogação do n.o 6, e para evitar cargas administrativas excessivas, os Estados-Membros podem prever, em alternativa, que as superfícies cuja produção vitivinícola se destine unicamente ao consumo familiar do viticultor não fiquem sujeitas à exigência de arranque do n.o 7 do artigo 2.o do Regulamento (CE) n.o 1493/1999. Os Estados-Membros só poderão proceder dessa forma se:\n\na) A superfície em questão de cada viticultor não exceder uma área máxima a estabelecer pelo Estado-Membro; e\n\nb) O viticultor em causa não estiver envolvido na produção comercial de vinho.\n\n8. É proibida a comercialização da produção vitivinícola das superfícies referidas nos n.os 6 e 7. Os Estados-Membros implantarão um sistema apropriado de fiscalização desta proibição. Se for detectado qualquer desrespeito desta proibição, além das sanções eventualmente impostas pelo Estado-Membro, a superfície em causa será arrancada a expensas do viticultor. Os produtos obtidos a partir de uvas provenientes das superfícies a arrancar enquanto estas não forem arrancadas só podem ser postos em circulação para fins de destilação. Os produtos em causa não poderão ser utilizados na obtenção de álcool de título alcoométrico volúmico adquirido igual ou inferior a 80 % vol. Os Estados-Membros conservarão um registo de todos os casos tratados ao abrigo do presente número.\n\n9. Os Estados-Membros só podem conceder novos direitos de plantação relativamente a superfícies destinadas à produção de vqprd ou de vinhos de mesa com direito a indicação geográfica se tiverem efectuado uma avaliação que reconheça que a produção do vinho em questão é largamente inferior à procura. As avaliações efectuadas pelos Estados-Membros basear-se-ão em dados e critérios objectivos. Entre esses dados objectivos figurará o inventário do potencial de produção da região em causa, ou informação equivalente. Os Estados-Membros conservarão um registo de todas essas avaliações e dados e critérios objectivos. Quando um Estado-Membro reconhecer que a produção de um vinho com aquelas características é largamente inferior à procura, conservará um registo de cada caso de concessão de novos direitos de plantação relativamente a esse vinho.\n\n10. Os Estados-Membros comunicarão as informações seguintes à Comissão relativamente a cada campanha vitivinícola:\n\na) As áreas totais objecto da concessão de novos direitos de plantação a título dos n.os 1, 2 e 4;\n\nb) A área total objecto da concessão de novos direitos de plantação a título do n.o 6. Todavia, se um Estado-Membro fizer uso da derrogação prevista no n.o 7, comunicará, em vez disso, uma estimativa da área total abrangida, baseada nos resultados da fiscalização efectuada;\n\nc) A área total objecto da concessão de novos direitos de plantação a título do n.o 2 do artigo 3.o do Regulamento (CE) n.o 1493/1999 correspondente a cada vinho abrangido e elementos pormenorizados sobre as avaliações efectuadas, incluindo os dados e critérios objectivos utilizados; e\n\nd) Se os produtores efectuaram algum pagamento pela concessão dos novos direitos de plantação.\n\nEssa comunicação terá lugar no prazo de quatro meses a contar do final da campanha vitivinícola em causa."
+  },
+  "7d911108d0f25676": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Se uma superfície for arrancada ao abrigo do n.o 7 do artigo 2.o ou do n.o 4 do artigo 19.o do Regulamento (CE) n.o 1493/1999 ou do terceiro parágrafo da alínea b) do n.o 2 do artigo 3.o, do terceiro parágrafo da alínea b) do n.o 4 do artigo 3.o, ou do n.o 8 do artigo 3.o do presente regulamento, não serão concedidos quaisquer direitos de replantação. Não serão igualmente concedidos quaisquer direitos de replantação em caso de arranque:\n\na) De quaisquer superfícies plantadas com vinha no âmbito da aplicação de medidas de emparcelamento ou de expropriação por utilidade pública, se tiverem sido concedidos novos direitos de plantação relativamente a essas superfícies a título do n.o 1 do artigo 3.o.\n\nb) De superfícies destinadas a fins de experimentação vitícola, durante o período experimental;\n\nc) De superfícies destinadas à cultura de vinhas-mãe de garfos, durante o período de produção das vinhas-mãe de garfos; ou\n\nd) De superfícies destinadas unicamente ao consumo familiar do viticultor.\n\n2. Os Estados-Membros só podem conceder direitos de replantação a produtores que se comprometam a proceder ao arranque numa superfície plantada com vinha antes do final da terceira campanha subsequente à da plantação da superfície se aqueles poderem comprovar não serem detentores de direitos de plantação que possam utilizar para possibilitar a plantação de vinha em toda a superfície em causa, ou que tais direitos são insuficientes. Os Estados-Membros não concederão a um produtor mais direitos do que os necessários para possibilitar a plantação de vinha em toda a superfície em causa, contabilizados os direitos que aquele já possua. O produtor especificará a superfície a arrancar.\n\n3. Os produtores que assumam o compromisso referido no n.o 2 procederão à constituição de uma garantia. A obrigação de proceder ao arranque na superfície em causa constituirá a exigência principal, na acepção do n.o 2 do artigo 20.o do Regulamento (CEE) n.o 2220/85 da Comissão(15). O montante da garantia será fixado pelo Estado-Membro em causa com base em critérios objectivos. O montante da garantia deve ser proporcionado e suficiente para dissuadir os produtores de desrespeitarem o compromisso assumido.\n\n4. Enquanto o compromisso de proceder ao arranque não for posto em prática, os Estados-Membros zelarão por que, em todas as campanhas vitivinícolas, não exista produção comercial de vinho proveniente, em simultâneo, da superfície a arrancar e da superfície plantada de novo, providenciando para o efeito:\n\na) Que os produtos obtidos a partir de uvas provenientes da superfície plantada de novo só possam ser postos em circulação para fins de destilação. Os produtos em causa não poderão ser utilizados na obtenção de álcool de título alcoométrico volúmico adquirido igual ou inferior a 80 % vol.; ou\n\nb) Que os produtos obtidos a partir de uvas provenientes da superfície a arrancar só possam ser postos em circulação para fins de destilação. Os produtos em causa não poderão ser utilizados na obtenção de álcool de título alcoométrico volúmico adquirido igual ou inferior a 80 % vol.\n\n5. Se o compromisso de proceder ao arranque não for posto em prática dentro do prazo fixado, a superfície que não tiver sido arrancada será tratada como superfície plantada em desrespeito da restrição à plantação do n.o 1 do artigo 2.o do Regulamento (CE) n.o 1493/1999.\n\n6. Os Estados-Membros fiscalizarão a plantação e o arranque nas superfícies em causa.\n\n7. Os Estados-Membros conservarão um registo de todos os casos tratados no âmbito do presente artigo.\n\n8. Os Estados-Membros conservarão um registo de todas as transferências de direitos de replantação entre explorações.\n\n9. Se pretender fazer uso da possibilidade de dilatar o período de exercício dos direitos de replantação de cinco para oito campanhas vitivinícolas a contar do termo da campanha em que foi efectuado o arranque, o Estado-Membro notificá-lo-á à Comissão."
+  },
+  "d465c3a429709c62": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros zelarão por que, da transferência de direitos através de uma reserva nacional e/ou de reservas regionais, não resulte um aumento global do potencial de produção do seu território.\n\n2. Na aplicação do n.o 1, os Estados-Membros:\n\na) Podem utilizar o coeficiente de redução referido no n.o 7 do artigo 5.o do Regulamento (CE) n.o 1493/1999; e\n\nb) Podem aplicar um coeficiente de redução equivalente para outras transferências de direitos através de uma reserva nacional e/ou de reservas regionais.\n\n3. Na aplicação do n.o 4, terceiro parágrafo, do artigo 4.o do Regulamento (CE) n.o 1493/1999, os Estados-Membros podem aplicar igualmente um coeficiente de redução equivalente às transferências de direitos entre explorações.\n\n4. Os Estados-Membros notificarão à Comissão a criação de uma reserva nacional e/ou de reservas regionais de direitos de plantação e, se for caso disso, a sua decisão de não aplicar o regime de reservas.\n\n5. Se um Estado-Membro optar por não aplicar o regime de reservas, transmitirá à Comissão prova da existência de um sistema eficaz de gestão dos direitos de plantação em todo o seu território. Essa comunicação incluirá, nomeadamente, um comprovativo da necessidade de quaisquer derrogações das disposições pertinentes do capítulo I do título II do Regulamento (CE) n.o 1493/1999.\n\n6. Os Estados-Membros conservarão um registo de todos os casos de concessão de direitos de plantação a partir de reservas, de transferência de direitos de plantação entre reservas e de integração de direitos de plantação em reservas. Serão igualmente objecto de registo todos os pagamentos efectuados como contrapartida da integração de direitos numa reserva ou da concessão de direitos de uma reserva."
+  },
+  "d3bc3aaccdbf8699": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os Estados-Membros notificarão à Comissão os elementos relativos à integração dos novos direitos de plantação numa reserva ou reservas, atentos os novos direitos de plantação eventualmente já concedidos a título do n.o 2 do artigo 3.o do Regulamento (CE) n.o 1493/1999.\n\n2. Os Estados-Membros podem solicitar à Comissão que lhes sejam atribuídos novos direitos de plantação mantidos na reserva comunitária. A Comissão pode proceder a essas atribuições em conformidade com o procedimento enunciado no artigo 75.o do Regulamento (CE) n.o 1493/1999."
+  },
+  "019e9ef5bb6e631a": {
+   "fragment_id": "CAPÍTULO III — Prémios de abandono",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — Prémios de abandono",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Prémios de abandono"
+  },
+  "38de024bf5058ac4": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros comunicarão à Comissão as superfícies que eventualmente tenham designado para a possibilidade de concessão do prémio pelo abandono definitivo da vinha e as condições a que essa designação eventualmente esteja sujeita."
+  },
+  "3b0786c5fa72df98": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-Membros estabelecerão um procedimento para a apresentação dos pedidos, no âmbito do qual serão previstos:\n\na) Prazos para a apresentação dos pedidos e as informações necessárias para a formulação dos mesmos;\n\nb) A verificação ulterior da existência das vinhas em causa, da superfície abrangida e do rendimento médio ou capacidade de produção respectivos;\n\nc) A notificação ulterior ao produtor do prémio aplicável;\n\nd) A possibilidade de reexaminar o prémio aplicável notificado se o produtor apresentar um pedido justificado nesse sentido, com notificação do resultado desse reexame;\n\ne) A verificação da execução efectiva do arranque.\n\n2. O prémio será pago depois de verificada a execução efectiva do arranque. Todavia, os Estados-Membros podem prever o pagamento antecipado do prémio ao produtor, antes de cumprida a obrigação de arranque, desde que aquele constitua uma garantia de montante igual a 120 % do prémio. Para efeitos do Regulamento (CEE) n.o 2220/85, a obrigação incidirá sobre o arranque na superfície em causa. Nesse caso, o arranque terá de ter lugar até ao final da campanha vitivinícola seguinte à campanha durante a qual o prémio tiver sido pago.\n\n3. Os Estados-Membros podem prever que, no caso dos produtores que sejam membros de um agrupamento de produtores, na acepção do artigo 39.o do Regulamento (CE) n.o 1493/1999, o prémio seja reduzido num máximo de 15 %. Nesse caso, os montantes correspondentes a essa redução serão pagos ao agrupamento de produtores.\n\n4. Só podem ser concedidos prémios relativamente a superfícies compreendidas entre 10 e 25 ares se a superfície em causa constituir toda a área vitícola da exploração. Nesse caso, o montante máximo do prémio por hectare não poderá exceder 4300 euros.\n\n5. Em relação às superfícies superiores a 25 ares, o montante máximo do prémio por hectare não poderá exceder:\n\na) 1450 euros se o rendimento médio por hectare não exceder 20 hectolitros;\n\nb) 3400 euros se o rendimento médio por hectare exceder 20 hectolitros, mas não exceder 30 hectolitros;\n\nc) 4200 euros se o rendimento médio por hectare exceder 30 hectolitros, mas não exceder 40 hectolitros;\n\nd) 4600 euros se o rendimento médio por hectare exceder 40 hectolitros, mas não exceder 50 hectolitros;\n\ne) 6300 euros se o rendimento médio por hectare exceder 50 hectolitros, mas não exceder 90 hectolitros;\n\nf) 8600 euros se o rendimento médio por hectare exceder 90 hectolitros, mas não exceder 130 hectolitros;\n\ng) 11100 euros se o rendimento médio por hectare exceder 130 hectolitros, mas não exceder 160 hectolitros; e\n\nh) 12300 euros se o rendimento médio por hectare exceder 160 hectolitros.\n\n6. Em derrogação do n.o 4, os Estados-Membros podem decidir conceder prémios relativamente a superfícies compreendidas entre 10 e 25 ares se a superfície em causa não constituir toda a área vitícola da exploração. Nesse caso, aplicar-se-ão os montantes máximos do prémio estabelecidos no n.o 5."
+  },
+  "dab8ac7f1756ca05": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs períodos referidos nas alíneas a), c) e d) do artigo 9.o do Regulamento (CE) n.o 1493/1999 serão de 10 campanhas vitivinícolas cada, após o termo da campanha vitivinícola em causa."
+  },
+  "bc065d7046a0dfad": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-Membros conservarão um registo pormenorizado de cada pedido e do seguimento que lhe for dado.\n\n2. Os Estados-Membros comunicarão à Comissão, relativamente a cada campanha vitivinícola:\n\na) A área total que foi arrancada em contrapartida de prémios concedidos a título do capítulo II do título II do Regulamento (CE) n.o 1493/1999; e\n\nb) Estimativas para a campanha vitivinícola seguinte.\n\nEssa comunicação terá lugar no prazo de quatro meses a contar do final da campanha vitivinícola em causa."
+  },
+  "2c4c6648e4622555": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSe os Estados-Membros concederem auxílios estatais orientados para a satisfação de objectivos similares aos do capítulo II do título II do Regulamento (CE) n.o 1493/1999:\n\na) Conservarão um registo pormenorizado de cada pedido e do seguimento que lhe for dado;\n\nb) Comunicarão à Comissão, relativamente a cada campanha vitivinícola, a área total que foi arrancada unicamente em contrapartida de auxílios estatais e o montante total da ajuda paga. Essa comunicação terá lugar no prazo de quatro meses a contar do final da campanha vitivinícola em causa; e\n\nc) Especificarão, na comunicação efectuada a título do n.o 2 do artigo 10.o do presente regulamento, a proporção da área em causa que foi arrancada em contrapartida de auxílios etatais e de um prémio concedido a título do capítulo II do título II do Regulamento (CE) n.o 1493/1999, bem como o montante total do auxílio estatal pago neste contexto."
+  },
+  "468e71af3e842382": {
+   "fragment_id": "CAPÍTULO IV — Reestruturação e reconversão",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — Reestruturação e reconversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Reestruturação e reconversão"
+  },
+  "0c0cb971eb3fcda3": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nPara efeitos do disposto no n.o 3 do artigo 11.o do Regulamento (CE) n.o 1493/1999, entende-se por renovação normal das vinhas que tenham chegado ao fim do seu ciclo de vida natural a replantação da mesma parcela de terra com a mesma casta, no mesmo sistema de viticultura."
+  },
+  "487bd0056d1fb231": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs Estados-Membros estabelecerão:\n\na) Uma dimensão mínima das parcelas que podem beneficiar de ajudas à reestruturação e reconversão e uma dimensão mínima das parcelas resultantes da reestruturação ou reconversão;\n\nb) Uma definição das medidas a constar dos planos, prazos, não superiores a cinco anos, para a sua execução, que todos os planos devem indicar, relativamente a cada exercício financeiro, as medidas a executar nesse exercício financeiro, bem como a área abrangida por cada medida e procedimentos de fiscalização da execução das medidas;\n\nc) Disposições que limitem a utilização, no âmbito da execução de um plano, de direitos de replantação resultantes do arranque nele previsto, quando daí puder resultar um aumento do rendimento da área abrangida pelo plano. As disposições adoptadas devem garantir a satisfação do objectivo do regime, nomeadamente que não exista um aumento global do potencial de produção do Estado-Membro em causa; e\n\nd) Disposições reguladoras do âmbito (especificado em pormenor) e dos montantes das ajudas a conceder. Sem prejuízo do disposto no capítulo III do título II do Regulamento (CE) n.o 1493/1999 e no presente capítulo, essas disposições podem, designadamente, prever o pagamento de montantes forfetários, o pagamento de montantes máximos de ajuda por hectare ou a modulação da ajuda com base em critérios objectivos. As referidas disposições devem, nomeadamente, prever a concessão de montantes de ajuda superiores, a um nível apropriado, nos casos em que sejam utilizados na execução do plano direitos de replantação resultantes do arranque previsto no mesmo."
+  },
+  "64cb3455010100ca": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSe um Estado-Membro optar por não elaborar ele próprio os planos de reestruturação e reconversão, competir-lhe-á estabelecer:\n\na) As pessoas singulares ou colectivas que podem apresentar projectos de planos;\n\nb) O teor dos projectos de plano, que incluirá uma descrição pormenorizada das medidas propostas e os prazos propostos para a execução das mesmas;\n\nc) A área mínima que os planos de reestruturação e reconversão devem cobrir e todas as derrogações a esta exigência, que devem ser devidamente justificadas e basear-se em critérios objectivos; e\n\nd) O procedimento de apresentação e aprovação dos planos, que incluirá, nomeadamente, os prazos para a apresentação dos projectos de plano e critérios objectivos de definição de prioridades dos mesmos."
+  },
+  "91db673418359f51": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A ajuda será paga depois de verificada a execução da medida específica.\n\n2. Em derrogação do n.o 1, os Estados-Membros podem prever o pagamento antecipado da ajuda ao produtor, antes da execução de uma medida específica, desde que:\n\na) A execução da medida específica já tenha sido iniciada;\n\nb) O produtor tenha constituído uma garantia de montante igual a 120 % da ajuda. Para efeitos do Regulamento (CEE) n.o 2220/85, a obrigação incidirá sobre a execução da medida em causa no prazo de dois anos a contar do pagamento antecipado; e\n\nc) Se o produtor em causa tiver recebido anteriormente um pagamento antecipado da ajuda relativamente a outra medida, essa medida já tenha sido executada.\n\n3. Se a totalidade das medidas relativas a uma exploração, tal como previsto no plano, não for executada dentro dos prazos estabelecidos em conformidade com a alínea b) do artigo 13.o, o produtor devolverá todas as ajudas concedidas no âmbito do plano relativamente a essa exploração. Todavia, se mais de 80 % das medidas forem executados dentro do prazo, o montant a devolver será igual ao dobro da ajuda adicional que seria atribuída pela conclusão da totalidade das medidas do plano."
+  },
+  "90b1d103f68d663f": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os Estados-Membros remeterão à Comissão, até ao dia 30 de Junho, relaivamente ao regime de reestruturação e reconversão:\n\na) Uma declaração das despesas de facto efectuadas no exercício financeiro em curso;\n\nb) Os pedidos relativos ao financiamento ulterior de despesas no exercício financeiro em curso que excedam as verbas atribuídas em conformidade com o n.o 1 do artigo 14.o do Regulamento (CE) n.o 1493/1999 e a área total abrangida em cada caso; e\n\nc) As previsões de despesas revistas e as áreas totais abrangidas para os exercícios financeiros seguintes, até ao final do período previsto para a execução dos planos de reestruturação e reconversão, no respeito da verba atribuída a cada Estado-Membro.\n\n2. Sem prejuízo das regras gerais de disciplina orçamental, sempre que as informações que os Estados-Membros devam transmitir à Comissão de acordo com o n.o 1 estiverem incompletas ou o prazo não tiver sido respeitado, a Comissão reduzirá temporariamente, de modo forfetário, os adiantamentos sobre a contabilização das despesas agrícolas."
+  },
+  "d436ac0003d7ac68": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Relativamente a cada Estado-Membro, as despesas de facto efectuadas e declaradas a título de um determinado exercício financeiro serão financiadas até ao limite dos montantes notificados à Comissão de acordo com o n.o 1, alínea a), do artigo 16.o, desde que esses montantes não excedam, no total, a verba atribuída ao Estado-Membro em conformidade com o n.o 1 do artigo 14.o do Regulamento (CE) n.o 1493/1999.\n\n2. Os pedidos apresentados pelos Estados-Membros em conformidade com a alínea b) do artigo 16.o serão aceites de forma proporcional com base na utilização do montante disponível, depois de deduzido o somatório, referente a todos os Estados-Membros, dos montantes notificados em conformidade com a alínea a) do artigo 16.o à verba total atribuída aos Estados-Membros em conformidade com o n.o 1 do artigo 14.o do Regulamento (CE) n.o 1493/1999. A Comissão notificará aos Estados-Membros, o mais rapidamente possível, após 30 de Junho, em que medida os pedidos podem ser aceites.\n\n3. Sem prejuízo dos n.os 1 e 2, quando a área total notificada em conformidade com o n.o 1, alínea a), do artigo 16.o for inferior ao número de hectares associado à verba atribuída ao Estado-Membro para o exercício financeiro em questão em conformidade com o n.o 1 do artigo 14.o do Regulamento (CE) n.o 1493/1999, as despesas declaradas a título desse exercício só serão financiadas até um limite calculado por redução do limite referido no n.o 1 proporcionalmente à carência de área total notificada.\n\n4. Se as despesas efectivas de um Estado-Membro num determinado exercício financeiro forem inferiores a 75 % dos montantes referidos no n.o 1, as despesas a reconhecer a título do exercício seguinte, e a área total correspondente, serão reduzidas em um terço da diferença verificada entre aquele limiar e as despesas efectivas no exercício em questão.\n\n5. Essa redução não será tida em conta para efeitos das despesas a reconhecer a título do exercício financeiro seguinte àquele em que a redução tiver sido efectuada.\n\n6. Os montantes devolvidos pelos produtores em conformidade com o n.o 3 do artigo 15.o serão deduzidos às despesas a financiar.\n\n7. As referências a um determinado exercício financeiro reportar-se-ão aos pagamentos de facto efectuados pelos Estados-Membros entre 16 de Outubro e 15 de Outubro do ano seguinte."
+  },
+  "cc2e15a013c07cfe": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Os Estados-Membros conservarão um registo pormenorizado de todos os planos, sejam estes aprovados ou não, e de todas as medidas executadas em aplicação dos mesmos.\n\n2. Os Estados-Membros comunicarão à Comissão, relativamente a cada campanha vitivinícola, com uma discriminação por plano, a área inicialmente sujeita a cada plano e o seu rendimento médio e a área resultante da reestruturação e reconversão e uma estimativa do seu rendimento médio. Essa comunicação terá lugar no prazo de quatro meses a contar do final da campanha vitivinícola em causa."
+  },
+  "a6266351162c1c27": {
+   "fragment_id": "CAPÍTULO V — Disposições gerais e relativas à informação",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — Disposições gerais e relativas à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições gerais e relativas à informação"
+  },
+  "6cd291ca901f2aec": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Os Estados-Membros notificarão à Comissão a opção que tomarem relativamente à elaboração do inventário do potencial de produção a nível nacional ou regional.\n\n2. Se um Estado-Membro optar por elaborar o inventário a nível regional e criar igualmente reservas regionais a título do capítulo I do título II do Regulamento (CE) n.o 1493/1999, as regiões utilizadas devem ser idênticas em ambos os casos.\n\n3. As informações constantes do inventário devem:\n\na) No caso das superfícies plantadas com vinhas classificadas como castas para a produção de vinho, ser discriminadas por categoria de vinho (vqprd e vinhos de mesa), incluindo a área adequada para a produção de vinhos com direito a indicação geográfica. Deve igualmente ser explicitada a proporção da área total plantada com cada casta quando a mesma for significativa;\n\nb) No caso dos direitos de plantação existentes, ser discriminadas de forma a explicitarem:\n\ni) uma estimativa da totalidade, em hectares, dos novos direitos de plantação atribuídos a produtores, mas ainda não utilizados,\n\nii) uma estimativa da totalidade, em hectares, dos direitos de replantação detidos pelos produtores, mas ainda não utilizados,\n\niii) a totalidade, em hectares, dos novos direitos de plantação ainda não integrados numa reserva ou reservas ou atribuídos a título do n.o 2 do artigo 3.o do Regulamento (CE) n.o 1493/1999, e\n\niv) a totalidade, em hectares, dos direitos de plantação mantidos na(s) reserva(s); e\n\nc) Se se tratar de um inventário elaborado a nível nacional, ser discriminadas em bases regionais apropriadas.\n\n4. O inventário deve indicar a fonte ou fontes das informações que contenha.\n\n5. No referente à primeira compilação do inventário, este deve conter informações relativas à situação numa data, a escolher pelo Estado-Membro, da campanha vitivinícola precedente. O inventário deve conter igualmente informações relativas a uma campanha vitivinícola histórica de referência, escolhida pelo Estado-Membro, que:\n\na) Tanto quanto possível, seja compilada da mesma forma que as restantes informações do inventário; e\n\nb) Se necessário, pode basear-se em estimativas.\n\n6. O inventário será posteriormente actualizado, com uma periodicidade anual, relativamente à situação na data escolhida."
+  },
+  "e8960e7069bb1fd8": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Na classificação das castas para a produção de vinho, os Estados-Membros indicarão o nome da casta, eventuais sinónimos deste e a cor das uvas.\n\n2. As decisões relativas à classificação das castas devem ser tomadas com base em critérios objectivos, incluindo considerações de aptidão cultural e as características analíticas e organolépticas do vinho produzido a partir de cada casta.\n\n3. Os nomes e sinónimos das castas classificadas devem respeitar os atribuídos:\n\na) Pelo Instituto Internacional da Vinha e do Vinho (IIV);\n\nb) Pela União para a Protecção das Obtenções Vegetais (UPOV); e/ou\n\nc) Pelo Conselho Internacional dos Recursos Fitogenéticos (CIRF).\n\n4. Na classificação de cada casta classificada como casta para a produção de vinho será igualmente indicado se a mesma possui alguma das seguintes utilizações alternativas:\n\na) Casta de uva de mesa;\n\nb) Casta para a produção de aguardente vínica com indicação geográfica;\n\nc) Casta para a produção de uvas destinadas a secagem; ou\n\nd) Casta para a produção de porta-enxertos.\n\n5. A classificação deve igualmente elucidar os casos de homonímia na denominação de castas.\n\n6. Só podem ser incluídas na classificação de um Estado-Membro as castas que possam ser colocadas no mercado em pelo menos um Estado-Membro ao abrigo da Directiva 68/193/CEE.\n\n7. Em derrogação do n.o 6, os Estados-Membros podem incluir nas suas classificações castas que tenham sido plantadas antes da entrada em vigor da Directiva 68/193/CEE e que ainda continuem plantadas, no respectivo território.\n\n8. Se um Estado-Membro, ao qual se aplique o capítulo I do título II do Regulamento (CE) n.o 1493/1999, classificar para a produção de vinho uma casta anteriormente não classificada como tal numa determinada unidade administrativa, quer ao abrigo da legislação comunitária, quer ao abrigo da legislação nacional, as superfícies já plantadas com essa casta não podem ser utilizadas na produção de vinho. Os Estados-Membros implantarão um sistema apropriado de fiscalização desta proibição. A título derrogatório, os Estados-Membros podem autorizar que o produtor em causa utilize novos direitos de plantação concedidos a título do n.o 2 do artigo 3.o do Regulamento (CE) n.o 1493/1999, direitos de replantação ou direitos de plantação atribuídos de uma reserva para que a superfície em questão possa produzir vinho. Os Estados-Membros conservarão um registo de todos esses casos.\n\n9. Os Estados-Membros comunicarão as classificações respectivas à Comissão no decurso de cada campanha vitivinícola, assinalando todas as modificações havidas. Os Estados-Membros comunicarão à Comissão, até 31 de Julho de 2001, todos os recursos à derrogação referida no n.o 7 e se pretendem aplicar a derrogação referida no n.o 8.\n\n10. A Comissão fornecerá as classificações na forma e suporte que entender adequado."
+  },
+  "16cb87dad1ca8128": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Sempre que os Estados-Membros comuniquem à Comissão as medidas adoptadas em aplicação do Regulamento (CE) n.o 1493/1999 e do presente regulamento, facultarão igualmente um breve resumo dessas disposições.\n\n2. Os Estados-Membros conservarão as informações registadas a título do presente regulamento pelo menos durante as 10 campanhas vitivinícolas seguintes à campanha no decurso da qual as mesmas tenham sido registadas.\n\n3. As comunicações a efectuar no âmbito do presente regulamento devem sê-lo no respeito do modelo constante do anexo."
+  },
+  "bf20f2f904d1ac26": {
+   "fragment_id": "CAPÍTULO VI — Disposições transitórias e finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições transitórias e finais"
+  },
+  "c69b7261430730fe": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nQuando, ao abrigo do título II do Regulamento (CE) n.o 1493/1999 ou do presente regulamento, for exigida a um produtor a destilação de um produto, a destilação e o destilado não podem beneficiar de qualquer ajuda financiada pela Comunidade."
+  },
+  "6197d84d99ab5c63": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs pagamentos efectuados ao abrigo do título II do Regulamento (CE) n.o 1493/1999 e do presente regulamento serão integralmente liquidados aos beneficiários."
+  },
+  "67df84acaed2e1d1": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nSão revogados os Regulamentos (CEE) n.o 2314/72, (CEE) n.o 940/81, (CEE) n.o 3800/81, (CEE) n.o 2729/88, (CEE) n.o 2741/89 e (CEE) n.o 3302/90."
+  },
+  "214132fcd4c24f51": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. Os direitos de plantação regidos pelo Regulamento (CEE) n.o 822/87 que, ao abrigo do mesmo, se manteriam válidos até uma data posterior a 31 de Julho de 2000, manter-se-ão válidos até essa data ulterior.\n\n2. Depois da última das datas referidas no n.o 1, os direitos em questão serão automaticamente integrados na reserva nacional ou regional apropriada. Se não tiver sido criada até à data uma reserva apropriada, esses direitos ficarão em suspenso até à criação da mesma. Os direitos em questão serão então automaticamente integrados na reserva."
+  },
+  "183509058160c5fa": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Agosto de 2000.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 31 de Maio de 2000.\n\nPela Comissão\n\nFranz Fischler\n\nMembro da Comissão\n\n(1) JO L 179 de 14.7.1999, p. 1.\n\n(2) JO L 84 de 27.3.1987, p. 1.\n\n(3) JO L 199 de 30.7.1999, p. 8.\n\n(4) JO L 248 de 1.11.1972, p. 53.\n\n(5) JO L 226 de 7.9.1993, p. 1.\n\n(6) JO L 96 de 8.4.1981, p. 10.\n\n(7) JO L 381 de 31.12.1981, p. 1.\n\n(8) JO L 308 de 3.12.1999, p. 5.\n\n(9) JO L 241 de 1.9.1988, p. 108.\n\n(10) JO L 299 de 4.11.1997, p. 3.\n\n(11) JO L 264 de 12.9.1989, p. 5.\n\n(12) JO L 317 de 16.11.1990, p. 25.\n\n(13) JO L 160 de 26.6.1999, p. 103.\n\n(14) JO L 93 de 17.4.1968, p. 15.\n\n(15) JO L 205 de 3.8.1985, p. 5."
+  },
+  "b33eefa33a81bfad": {
+   "fragment_id": "ANEXO — Modelo das comunicações a apresentar no âmbito da aplicação do presente regulamento",
+   "type": "divisao",
+   "heading": "ANEXO — Modelo das comunicações a apresentar no âmbito da aplicação do presente regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Modelo das comunicações a apresentar no âmbito da aplicação do presente regulamento\n\n>PIC FILE= \"L_2000143PT.001302.EPS\">\n\n>PIC FILE= \"L_2000143PT.001401.EPS\">\n\n>PIC FILE= \"L_2000143PT.001402.EPS\">\n\n>PIC FILE= \"L_2000143PT.001501.EPS\">\n\n>PIC FILE= \"L_2000143PT.001502.EPS\">\n\n>PIC FILE= \"L_2000143PT.001601.EPS\">\n\n>PIC FILE= \"L_2000143PT.001602.EPS\">\n\n>PIC FILE= \"L_2000143PT.001701.EPS\">\n\n>PIC FILE= \"L_2000143PT.001702.EPS\">\n\n>PIC FILE= \"L_2000143PT.001801.EPS\">\n\n>PIC FILE= \"L_2000143PT.001802.EPS\">\n\n>PIC FILE= \"L_2000143PT.001901.EPS\">\n\n>PIC FILE= \"L_2000143PT.001902.EPS\">\n\n>PIC FILE= \"L_2000143PT.002001.EPS\">\n\n>PIC FILE= \"L_2000143PT.002002.EPS\">\n\n>PIC FILE= \"L_2000143PT.002101.EPS\">"
+  },
+  "e6fbbd2b31afe8ab": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2000R1227 — PT — 01.08.2008 — 011.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32000R1227) [REGULAMENTO (CE) N.º1227/2000 DA COMISSÃO](http://publications.europa.eu/resource/celex/32000R1227) [de 31 de Maio de 2000](http://publications.europa.eu/resource/celex/32000R1227) [que estabelece normas de execução do Regulamento (CE) n.º 1493/1999 do Conselho que estabelece a organização comum do mercado vitivinícola, no referente ao potencial de produção](http://publications.europa.eu/resource/celex/32000R1227) (JO L 143, 16.6.2000, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 555/2008 da Comissão de 27 de Junho de 2008](http://publications.europa.eu/resource/celex/32008R0555) — L 170 — 1 — 30.6.2008"
+  }
+ }
+}

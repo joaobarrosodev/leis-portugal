@@ -1,0 +1,173 @@
+---
+schema_version: '1.0'
+id: pt:dre:422800:por
+title: Portaria n.º 401/73
+short_title: null
+summary: Fixa os quantitativos das taxas a cobrar pelo Instituto do Azeite e Produtos Oleaginosos sobre o azeite e os restantes
+  óleos directamente comestíveis e suas misturas, bem como a incidência e forma de cobrança das mesmas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Economia
+proposing_entity: null
+official_number: 401/73
+official_date: null
+publication_date: '1973-06-08'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 135/1973, Série I de 1973-06-08
+  number: '135'
+  series: I
+  supplement: null
+  pages: 997 - 998
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/06/13500/09970998.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '422800'
+  dre_path: /dr/detalhe/portaria/401-1973-422800
+  internal: pt:dre:422800:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/401-1973-422800
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/401-1973-422800
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:05:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 61210c55f21b2b183693ac6d710909ed1a4813f381e52f19acccc1955806b4d0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:05:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Azeite
+- Instituto do Azeite e Produtos Oleaginosos
+- ÓLEO Vegetal
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:256646:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:291610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676008:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676013:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:256646:por
+  label: "Revogada pelo DEC LEI.374-J/79.1979.08.10.MCT, DR.IS [209]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/374-j-1979-256646
+  date: '1979-08-10'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:05:53Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 401/73
+
+de 8 de Junho
+
+Ao ser criado o Instituto do Azeite e Produtos Oleaginosos, que veio substituir a Junta Nacional do Azeite e a Comissão Reguladora das Oleaginosas e Óleos Vegetais e que passou a desempenhar algumas das funções do Grémio dos Armazenistas e Exportadores de Azeite, ficaram a aplicar-se transitoriamente, nos termos do artigo 40.º do [Decreto-Lei n.º 426/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610), de 31 de Outubro, os regimes em vigor para as taxas que constituíam receitas daqueles organismos, enquanto estes não fossem revistos.
+
+No que respeita aos produtos oleaginosos, foram publicados recentemente o [Decreto n.º 273/72](https://diariodarepublica.pt/dr/detalhe/decreto/273-1972-676013) e a [Portaria n.º 427/72](https://diariodarepublica.pt/dr/detalhe/portaria/427-1972-676008), de 4 de Agosto, não se justificando qualquer alteração ao regime estabelecido.
+
+Já o mesmo não se verifica com o condicionalismo vigente para as taxas que constituíam receita da Junta Nacional do Azeite, algumas datando de 1937 e outras incidindo apenas sobre alguns dos produtos sujeitos à sua disciplina, o que tem criado situações de desigualdade que importa fazer cessar.
+
+Por outro lado, deixando o Grémio dos Armazenistas e Exportadores de Azeite de cobrar taxas que passaram a constituir receita do Instituto do Azeite e Produtos Oleaginosos, nos termos previstos no n.º 2 do artigo 40.º do [Decreto-Lei n.º 426/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610), mostra-se de toda a conveniência proceder aos devidos ajustamentos.
+
+Assim, sem que a revisão agora efectuada implique alterações significativas no quantitativo global das receitas arrecadadas, estabelecem-se em termos inequívocos, e como se refere no n.º 2 do artigo 29.º do citado decreto-lei, os quantitativos das taxas sobre o azeite e os restantes óleos directamente comestíveis e suas misturas, bem como a incidência e forma de cobrança das mesmas.
+
+As circunstâncias especiais da produção de azeite e da indústria de conservas de peixe em azeite ou molhos justifica que fiquem isentos de taxa o azeite e os óleos destinados àquela indústria.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças e pelo Secretário de Estado do Comércio, ao abrigo do disposto no n.º 2 do artigo 29.º do [Decreto-Lei n.º 426/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1972-291610), de 31 de Outubro, o seguinte:
+
+1.º Constituem receita do Instituto do Azeite e Produtos Oleaginosos as seguintes taxas:
+
+a) A taxa de 75$00 por cada prensa de vara, parafuso ou hidráulica manual;
+
+b) A taxa de 200$00 por cada prensa hidráulica mecânica e por cada extractor;
+
+c) A taxa de 800$00 por cada prensa contínua;
+
+d) A taxa de $05 e $15 por quilograma de azeite transaccionado, respectivamente, pelos armazenistas e pelos exportadores;
+
+e) A taxa de $20 por quilograma de óleo directamente comestível, com excepção do azeite, saído das refinarias ou dos armazéns dos importadores.
+
+2.º - 1. O Instituto do Azeite e Produtos Oleaginosos procederá à liquidação das quantias correspondentes às taxas devidas:
+
+a) Relativamente às taxas referidas nas alíneas a), b) e c) do número anterior, com base no cadastro dos lagares que tenham laborado;
+
+b) Relativamente à taxa mencionada na alínea d) do número anterior, com base nas saídas mensais do azeite indicadas nos mapas de movimento dos armazenistas e dos exportadores;
+
+c) Relativamente à taxa da alínea e) do número anterior, com base nas saídas mensais dos produtos indicados nos mapas de movimento dos refinadores e dos importadores.
+
+2. Os mapas que se referem neste número deverão ser enviados ao Instituto nos prazos e nas condições fixados pelo organismo para este efeito.
+
+3.º - 1. As importâncias liquidadas nos termos das alíneas a), b) e c) do número anterior deverão ser depositadas na Caixa Geral de Depósitos, Crédito e Previdência, respectivamente, pelos proprietários ou donos de exploração de lagares de azeite, pelos armazenistas ou pelos exportadores de azeite e pelos refinadores ou importadores, no prazo de trinta dias, a contar da data da guia de depósito emitida pelo Instituto.
+
+2. Exceptuam-se do disposto no n.º 1 deste número as importâncias de montante inferior a 1000$00, as quais poderão ser pagas directamente por vale de correio, cheque ou à boca do cofre no Instituto do Azeite e Produtos Oleaginosos.
+
+4.º - 1. Ficam isentos das taxas estabelecidas nesta portaria:
+
+a) Os lagares das cooperativas e dos grémios da lavoura e suas federações;
+
+b) O azeite e outros óleos directamente comestíveis utilizados pela indústria de conservas de peixe em azeite ou molhos.
+
+2. O direito à isenção deve ser comprovado pelo interessado perante o Instituto.
+
+5.º O Instituto do Azeite e Produtos Oleaginosos expedirá as instruções que se mostrem necessárias à execução desta portaria.
+
+6.º A falta de entrega ou a entrega fora de prazo dos mapas e outros elementos necessários à liquidação das taxas, bem como as inexactidões ou omissões que nos mesmos se verifiquem, constituem infracção disciplinar punível nos termos do artigo 48.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+
+7.º A presente portaria entra em vigor no primeiro dia do mês seguinte ao decurso do prazo de trinta dias após a data da sua publicação, com excepção das disposições que se referem às taxas relativas aos lagares, as quais só entrarão em vigor na campanha de 1973-1974.
+
+Ministérios das Finanças e da Economia, 24 de Maio de 1973. - O Ministro das Finanças, Manuel Artur Cotta Agostinho Dias. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto.

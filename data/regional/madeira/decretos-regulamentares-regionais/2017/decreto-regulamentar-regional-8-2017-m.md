@@ -1,0 +1,255 @@
+---
+schema_version: '1.0'
+id: pt:dre:107791621:por
+title: Decreto Regulamentar Regional n.º 8/2017/M
+short_title: null
+summary: Regulamenta o Decreto Legislativo Regional n.º 2/2016/M, de 15 de janeiro, que criou o Conselho Económico e da Concertação
+  Social da Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 8/2017/M
+official_date: null
+publication_date: '2017-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2017, Série I de 2017-08-01
+  number: '147'
+  series: I
+  supplement: null
+  pages: 4434 - 4436
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/08/14700/0443404436.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/8/2017/08/01/m/dre/pt/html
+  oj: null
+  dre: '107791621'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/8-2017-107791621
+  internal: pt:dre:107791621:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2017-107791621
+  metadata_url: https://data.dre.pt/eli/decregulreg/8/2017/08/01/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2017-107791621
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:48:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0d8c477e3683b67bca853559d852f067335c85a445c0298498c4ec5c3d8aa051
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Económico e da Concertação Social
+- Definição de Competências
+- Financiamento
+- Madeira.região Autónoma
+- Presidente
+- Regulamento Interno
+- Remuneração
+- SECRETARIA REGIONAL DA INCLUSÃO E ASSUNTOS SOCIAIS
+- Senha de Presença
+relationships:
+- type: amended_by
+  target: pt:dre:128326624:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:128326624:por
+  label: Determinado que a Secretaria Regional de Inclusão Social e Cidadania prestará o apoio instrumental que se mostrar
+    necessário para o regular funcionamento do Conselho Económico e da Concertação Social da Região Autónoma da Madeira até
+    à mobilidade a que se refere o art. 11.º do presente diploma, bem como o apoio logístico ao Conselho até à sua instalação
+    em sede própria, pelo(a) Decreto Regulamentar Regional n.º 10/2020/M - Diário da República n.º 14/2020, Série I de 2020-01-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-2020-128326624
+  date: '2020-01-21'
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:73168880:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2016/01/15/m/dre
+article_structure:
+  article_count: 17
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:48:18Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 8/2017/M
+
+Regulamenta o [Decreto Legislativo Regional n.º 2/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73168880/details/normal?l=1), de 15 de janeiro, que criou o Conselho Económico e da Concertação Social da Região Autónoma da Madeira
+
+O [Decreto Legislativo Regional n.º 2/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73168880/details/normal?l=1), de 15 de janeiro, procedeu à criação do Conselho Económico e da Concertação Social da Região Autónoma da Madeira, que tem por finalidade possibilitar a efetiva participação dos agentes sociais e económicos, na definição da política económica, social e laboral da Madeira, no plano consultivo, de concertação e de arbitragem, fixando as suas atribuições e competências, passando a designá-lo por Conselho Económico e da Concertação Social da Região Autónoma da Madeira.
+
+Foi opção do legislador dotar o Conselho Económico e da Concertação Social da Região Autónoma da Madeira de uma verdadeira intervenção social e laboral, para permitir decisões fundamentadas e assentes no tripartismo, no contributo amplo, sobretudo dos principais agentes da sociedade, como os que integram este Conselho Regional.
+
+No mesmo diploma, são definidas as bases da sua organização e funcionamento, remetendo-se contudo a sua operacionalização para regulamentação própria, por forma a garantir o seu efetivo funcionamento.
+
+Com o presente diploma, procede-se a essa operacionalização, tendo presente a preocupação de proceder à explicitação e desenvolvimento de matérias essenciais à definição de um quadro jurídico completo e coerente, sem retirar aos órgãos do Conselho, no exercício da autonomia que lhe é reconhecida, a definição das normas reguladoras do seu funcionamento interno.
+
+Assim, no desenvolvimento do regime jurídico instituído pelo [Decreto Legislativo Regional n.º 2/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73168880/details/normal?l=1), de 15 de janeiro, em execução do seu artigo 15.º, e nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, e da alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/web/guest/pesquisa/-/search/629666/details/normal?l=1), de 5 de junho, na redação dada pelas [Leis n.os 130/99](https://diariodarepublica.pt/web/guest/pesquisa/-/search/434224/details/normal?l=1), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/web/guest/pesquisa/-/search/303585/details/normal?l=1), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma regulamenta o [Decreto Legislativo Regional n.º 2/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73168880/details/normal?l=1), de 15 de janeiro, que criou o Conselho Económico e da Concertação Social da Região Autónoma da Madeira.
+
+###### Artigo 2.º — Natureza e sede
+
+1 - O Conselho Económico e da Concertação Social da Região Autónoma da Madeira, adiante designado por Conselho, tem por finalidade possibilitar a efetiva participação dos agentes sociais e económicos, na definição da política económica, social e laboral da Madeira, no plano consultivo, de concertação e de arbitragem, nos termos das atribuições e competências estabelecidas ou outras que lhe sejam atribuídas por lei.
+
+2 - O Conselho tem sede no Funchal.
+
+###### Artigo 3.º — Direito de iniciativa
+
+1 - No quadro das competências que lhe são cometidas, o Conselho tem o direito de iniciativa.
+
+2 - O direito de iniciativa pode ser exercido por convocatória do presidente ou por decisão de um terço dos membros do Conselho, devendo neste caso ser apresentada a ordem de trabalhos.
+
+###### Artigo 4.º — Emissão de pareceres
+
+A emissão dos pareceres solicitados ao Conselho tem lugar nos prazos determinados na lei ou nos seus regulamentos internos.
+
+###### Artigo 5.º — Cooperação
+
+O Conselho pode estabelecer relações de cooperação e firmar acordos de permuta de informação com instituições que promovam, designadamente, objetivos de diálogo social, negociação coletiva e concertação.
+
+###### Artigo 6.º — Verificação de poderes
+
+1 - Compete ao presidente, sob proposta do secretário-geral, decidir sobre a conformidade legal do mandato dos membros designados para o Conselho, cabendo a iniciativa de verificação dessa conformidade ao presidente ou a qualquer membro do Conselho.
+
+2 - Das decisões do presidente cabe recurso para o plenário, nos termos a definir no regulamento interno de funcionamento do Conselho.
+
+3 - No processo de designação dos membros representativos de uma pluralidade de entidades da mesma área de interesses, são observados os critérios e procedimentos definidos no regulamento interno de funcionamento do Conselho.
+
+###### Artigo 7.º — Reuniões dos órgãos colegiais
+
+1 - De todas as reuniões dos órgãos colegiais do Conselho são lavradas atas com menção dos membros presentes, da ordem de trabalhos e da matéria relevante da respetiva discussão e votação, nomeadamente todas as declarações de voto produzidas.
+
+2 - Para efeitos do número anterior, os membros do Conselho, disponibilizam resumo escrito das matérias abordadas ou das declarações de voto produzidas.
+
+3 - A aprovação da ata faz-se na reunião subsequente de cada órgão.
+
+4 - O projeto de ata é enviado aos respetivos membros juntamente com a convocatória para a reunião seguinte.
+
+5 - Poderão ser aprovadas, em minuta, deliberações urgentes.
+
+###### Artigo 8.º — Comissão Permanente de Concertação Social
+
+A Comissão Permanente de Concertação Social, cuja competência e composição se encontra definida no artigo 10.º do [Decreto Legislativo Regional n.º 2/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73168880/details/normal?l=1), de 15 de janeiro, dispõe de Regulamento específico, pela mesma aprovado.
+
+###### Artigo 9.º — Comissões especializadas permanentes
+
+1 - São comissões especializadas permanentes:
+
+a) A comissão de política económica e social;
+
+b) Quaisquer outras que venham a ser criadas por decreto regulamentar regional.
+
+2 - A composição da comissão de política económica e social será definida no regulamento interno de funcionamento do Conselho.
+
+3 - As comissões especializadas permanentes elegem de entre os seus membros o respetivo presidente, que assegura a direção dos trabalhos e a ligação com os restantes órgãos do Conselho.
+
+###### Artigo 10.º — Secretário-geral
+
+1 - O Conselho dispõe de um secretário-geral que é nomeado, por despacho do presidente do Conselho de entre indivíduos licenciados, vinculados ou não à Administração Pública, que possuam aptidão e experiência profissional adequada ao exercício das respetivas funções.
+
+2 - O secretário-geral coordena os serviços de apoio técnico e administrativo do Conselho, sendo coadjuvado nas reuniões do Conselho por pessoal por si designado.
+
+3 - As condições de exercício das funções são definidas pelo conselho coordenador.
+
+###### Artigo 11.º — Mobilidade
+
+1 - O presidente do Conselho promove, sob proposta do secretário-geral, a mobilidade do pessoal técnico e administrativo, a que se refere o artigo 16.º do [Decreto Legislativo Regional n.º 2/2016/M](https://diariodarepublica.pt/web/guest/pesquisa/-/search/73168880/details/normal?l=1), de 15 de janeiro, que se rege pelo disposto na Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/25676932/details/normal?l=1), de 20 de junho, na sua atual redação, sem prejuízo do disposto no número seguinte.
+
+2 - A mobilidade tem como limite o prazo de exercício de funções dos membros do Conselho.
+
+###### Artigo 12.º — Financiamento
+
+1 - Os meios financeiros necessários ao funcionamento do Conselho são inscritos no orçamento da Região, e incluídos na verba afeta à Secretaria Regional da Inclusão e Assuntos Sociais, a qual assegura a respetiva transferência ao Conselho.
+
+2 - Para efeitos do número anterior, o conselho coordenador aprova anualmente proposta de orçamento, mediante projeto elaborado pelo secretário-geral.
+
+###### Artigo 13.º — Direito a senhas de presença
+
+A participação nas reuniões dos órgãos do Conselho confere aos membros que não sejam titulares de órgão de Governo próprio da Região ou que não aufiram remunerações devidas por funções desempenhadas no Conselho, direito a senhas de presença, em montante a fixar por despacho do Presidente do Governo Regional, sob proposta do conselho coordenador.
+
+###### Artigo 14.º — Regulamentos internos
+
+1 - Os regulamentos internos do Conselho são publicados na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.
+
+2 - Até à publicação dos regulamentos referidos no número anterior, observa-se, com as necessárias adaptações, no funcionamento dos órgãos do Conselho, o regulamento interno de funcionamento do Conselho Económico e Social da Região Autónoma da Madeira.
+
+###### Artigo 15.º — Remunerações
+
+1 - O presidente do Conselho tem direito a auferir uma remuneração mensal ilíquida correspondente ao valor padrão fixado para os titulares dos cargos de direção superior de 1.º grau.
+
+2 - O secretário-geral tem direito a auferir uma remuneração mensal ilíquida correspondente ao valor padrão fixado para os titulares dos cargos de direção intermédia de 2.º grau.
+
+###### Artigo 16.º — Disposições transitórias
+
+1 - A Secretaria Regional da Inclusão e Assuntos Sociais, prestará o apoio instrumental, que se mostrar necessário para o regular o funcionamento do Conselho, até à mobilidade a que se refere o artigo 11.º do presente diploma.
+
+2 - Os encargos financeiros inerentes ao funcionamento do Conselho são suportados pela dotação orçamental afeta ao Conselho através do Orçamento da Região.
+
+###### Artigo 17.º — Entrada em vigor
+
+1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte.
+
+2 - As normas sobre o abono de remunerações do presidente do Conselho e de senhas de presença nos termos do presente diploma produzem efeitos reportados a 1 de janeiro de 2017.
+
+Aprovado em Conselho do Governo Regional em 13 de julho de 2017.
+
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
+
+Assinado em 19 de julho de 2017.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

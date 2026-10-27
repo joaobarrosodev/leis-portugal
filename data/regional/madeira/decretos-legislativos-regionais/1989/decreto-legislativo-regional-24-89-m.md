@@ -1,0 +1,1956 @@
+---
+schema_version: '1.0'
+id: pt:dre:547059:por
+title: Decreto Legislativo Regional n.º 24/89/M
+short_title: null
+summary: Estabelece a estrutura orgânica da Assembleia Legislativa Regional da Madeira. Revoga o Decreto Regional n.º 19/81/M,
+  de 1 de Outubro
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Regional
+proposing_entity: null
+official_number: 24/89/M
+official_date: null
+publication_date: '1989-09-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 206/1989, Série I de 1989-09-07
+  number: '206'
+  series: I
+  supplement: null
+  pages: 3860 - 3875
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/09/20600/38603875.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-08-03'
+version_history:
+  file: decreto-legislativo-regional-24-89-m.versoes.json
+  count: 10
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1989-09-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-02-21'
+    amending: pt:dre:656824:por
+    amending_title: Decreto Legislativo Regional n.º 2/93/M
+    changes:
+    - Adita Artigo 12.º-A
+    - Adita Artigo 12.º-B
+    - Adita Artigo 12.º-C
+    - Adita Artigo 12.º-D
+    - Adita Secção IV
+    - Adita Artigo 37.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Secção I
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Secção III
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 20.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 53.º
+    - Altera Anexo I
+  - date: '2005-08-06'
+    amending: pt:dre:241858:por
+    amending_title: Decreto Legislativo Regional n.º 14/2005/M
+    changes:
+    - Adita Subsecção IV
+    - Adita Artigo 26.º-A
+    - Adita Artigo 26.º-B
+    - Adita Artigo 26.º-C
+    - Adita Artigo 26.º-D
+    - Adita Artigo 36.º-G
+    - Altera Artigo 1.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º-B
+    - Altera Artigo 23.º
+    - Altera Subsecção IV
+    - Altera Artigo 36.º
+    - Altera Artigo 36.º-B
+    - Altera Artigo 36.º-D
+    - Altera Artigo 36.º-E
+    - Altera Artigo 36.º-F
+    - Altera Artigo 36.º-G
+    - Altera Artigo 36.º-J
+    - Altera Artigo 36.º-K
+    - Altera Artigo 43.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 54.º
+    - Elimina Artigo 36.º-C
+  - date: '2012-08-14'
+    amending: pt:dre:175275:por
+    amending_title: Decreto Legislativo Regional n.º 16/2012/M
+    changes:
+    - Adita Subsecção VII
+    - Adita Artigo 32.º-A
+    - Adita Artigo 34.º-A
+    - Adita Artigo 60.º
+    - Adita Artigo 61.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º-B
+    - Altera Artigo 14.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Subsecção II
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Subsecção IV
+    - Altera Artigo 26.º-A
+    - Altera Subsecção V
+    - Altera Artigo 26.º-B
+    - Altera Subsecção VI
+    - Altera Artigo 26.º-C
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 32.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 36.º-A
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Secção III
+    - Altera Artigo 43.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Revoga Artigo 22.º-A
+    - Revoga Artigo 22.º-B
+    - Revoga Artigo 26.º-D
+    - Revoga Artigo 36.º-B
+  - date: '2014-08-21'
+    amending: pt:dre:56305786:por
+    amending_title: Decreto Legislativo Regional n.º 10/2014/M
+    changes:
+    - Altera Artigo 26.º-C
+  - date: '2015-01-27'
+    amending: pt:dre:66325239:por
+    amending_title: Decreto Legislativo Regional n.º 2/2015/M
+    changes:
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+  - date: '2017-05-24'
+    amending: pt:dre:107061814:por
+    amending_title: Decreto Legislativo Regional n.º 13/2017/M
+    changes:
+    - Adita Artigo 62.º
+    - Adita Artigo 65.º
+    - Adita Anexo V
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 12.º-A
+    - Altera Artigo 12.º-B
+    - Altera Artigo 12.º-C
+    - Altera Artigo 12.º-D
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 26.º-A
+    - Altera Artigo 26.º-B
+    - Altera Artigo 26.º-C
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 37.º
+    - Altera Artigo 37.º-A
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+  - date: '2020-02-01'
+    amending: pt:dre:128771582:por
+    amending_title: Decreto Legislativo Regional n.º 1-A/2020/M
+    changes:
+    - Altera Artigo 20.º
+  - date: '2023-02-16'
+    amending: pt:dre:207485807:por
+    amending_title: Decreto Legislativo Regional n.º 12/2023/M
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 49.º
+  - date: '2023-08-03'
+    amending: pt:dre:216598403:por
+    amending_title: Decreto Legislativo Regional n.º 35/2023/M
+    changes:
+    - Altera Artigo 37.º
+    - Altera Artigo 42.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/24/1989/m/cons/20230802/pt/html
+  oj: null
+  dre: '547059'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/24-1989-547059
+  internal: pt:dre:547059:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1989-547059
+  metadata_url: https://data.dre.pt/eli/declegreg/24/1989/m/cons/20230802/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1989-207925281
+  retrieved_at: '2026-10-22T12:55:44Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 2e5addb7048af3ec469f1a703edd23c45b57b48cc3f7db36c1eabceb109d11ce
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:55:44Z'
+  notes: 10 versão(ões); histórico completo em decreto-legislativo-regional-24-89-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Legislativa Regional
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:192986:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1989-192986
+  date: '1989-11-30'
+- type: amended_by
+  target: pt:dre:656824:por
+  label: Adita Artigo 12.º-A; Adita Artigo 12.º-B; Adita Artigo 12.º-C; Adita Artigo 12.º-D; Adita Secção IV; Adita Artigo
+    37.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Secção I; Altera Artigo 6.º; Altera Artigo 9.º; Altera Secção III;
+    Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 20.º; Altera Artigo 35.º; Altera Artigo 36.º;
+    Altera Artigo 37.º; Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824
+  date: '1993-02-20'
+- type: amended_by
+  target: pt:dre:241858:por
+  label: Adita Subsecção IV; Adita Artigo 26.º-A; Adita Artigo 26.º-B; Adita Artigo 26.º-C; Adita Artigo 26.º-D; Adita Artigo
+    36.º-G; Altera Artigo 1.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º-B; Altera Artigo 23.º; Altera Subsecção
+    IV; Altera Artigo 36.º; Altera Artigo 36.º-B; Altera Artigo 36.º-D; Altera Artigo 36.º-E; Altera Artigo 36.º-F; Altera
+    Artigo 36.º-G; Altera Artigo 36.º-J; Altera Artigo 36.º-K
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858
+  date: '2005-08-05'
+- type: amended_by
+  target: pt:dre:175275:por
+  label: Adita Subsecção VII; Adita Artigo 32.º-A; Adita Artigo 34.º-A; Adita Artigo 60.º; Adita Artigo 61.º; Altera Artigo
+    9.º; Altera Artigo 11.º; Altera Artigo 12.º-B; Altera Artigo 14.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Subsecção
+    II; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Subsecção IV; Altera Artigo 26.º-A; Altera Subsecção
+    V; Altera Artigo 26.º-B; Altera Subsecção VI
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275
+  date: '2012-08-13'
+- type: amended_by
+  target: pt:dre:56305786:por
+  label: Altera Artigo 26.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2014-56305786
+  date: '2014-08-20'
+- type: amended_by
+  target: pt:dre:66325239:por
+  label: Altera Artigo 46.º; Altera Artigo 47.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2015-66325239
+  date: '2015-01-26'
+- type: amended_by
+  target: pt:dre:107061814:por
+  label: Adita Artigo 62.º; Adita Artigo 65.º; Adita Anexo V; Altera Artigo 1.º; Altera Artigo 2.º-A; Altera Artigo 3.º; Altera
+    Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo
+    10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 12.º-A; Altera Artigo 12.º-B; Altera Artigo 12.º-C; Altera
+    Artigo 12.º-D; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814
+  date: '2017-05-23'
+- type: amended_by
+  target: pt:dre:128771582:por
+  label: Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582
+  date: '2020-01-31'
+- type: amended_by
+  target: pt:dre:207485807:por
+  label: Altera Artigo 12.º; Altera Artigo 49.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2023-207485807
+  date: '2023-02-15'
+- type: amended_by
+  target: pt:dre:216598403:por
+  label: Altera Artigo 37.º; Altera Artigo 42.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2023-216598403
+  date: '2023-08-02'
+article_structure:
+  article_count: 77
+  section_count: 36
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:55:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 24/89/M
+
+Decreto Legislativo Regional n.º 24/89/M
+
+Estrutura orgânica da Assembleia Legislativa Regional da Madeira
+
+Conferindo solenidade normativa às históricas aspirações autonomistas das populações insulares, a lei fundamental consagrou um regime político-administrativo próprio para os arquipélagos dos Açores e da Madeira.
+
+Pedra angular deste novo regime surgido em 1976, a Assembleia Regional, agora designada de Assembleia Legislativa Regional, sublinha a expressão vincadamente política, que não administrativa, das autonomias regionais, com o crivo fundamental do poder legislativo ínsito num órgão de governo próprio de raiz marcadamente parlamentar.
+
+A instalação da Assembleia Legislativa Regional em edifício próprio, apto à satisfação das necessidades do seu funcionamento, veio trazer não só a dignificação que o principal órgão de governo próprio exigia, mas também o espaço físico e logístico que permite a instalação dos seus serviços próprios.
+
+À luz desta princípios, foi elaborado o presente decreto legislativo regional, tendo, particularmente, em atenção as novas atribuições e competências conferidas às assembleias regionais, fruto da recente revisão constitucional.
+
+Em síntese, dir-se-á que o presente diploma traduz o repensar, normativamente balizado, de todo um conjunto de situações, carências e necessidades, da mais variada ordem, que a experiência veio a revelar, e para as quais o Decreto Regional n.º 19/81/M, de 1 de Outubro, que pautou a orgânica deste órgão de governo próprio, não conseguiu dar resposta adequada.
+
+Nestes termos:
+
+A Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea a) do artigo 229.º da Constituição da República, o seguinte:
+
+> Nota: [Artigo 4.º, Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275) Em todo o normativo do presente Decreto Legislativo Regional, onde se lê «Gabinete de Informática» passa a vigorar «Departamento de Informática», onde se lê «Divisão de Documentação» passa a vigorar «Centro de Documentação» e onde se lê «quadro de pessoal» passa a vigorar «mapa de pessoal».
+
+> Nota: [Artigo 1.º, Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858) Em todo o normativo do presente Decreto Legislativo Regional, onde se lê «Assembleia Legislativa Regional» passa a vigorar «Assembleia Legislativa».
+
+### Capítulo I — Âmbito
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma tem por objecto definir e regulamentar os instrumentos de gestão administrativa, financeira e de apoio técnico e jurídico que permitam à Assembleia Legislativa Regional o desenvolvimento da sua actividade específica.
+
+2 - A Assembleia Legislativa da Região Autónoma da Madeira tem um regime financeiro privativo, sendo dotada de personalidade jurídica, autonomia administrativa e financeira e património próprio, nos termos da presente lei.
+
+3 - Para efeitos do disposto no n.º 1, a Assembleia Legislativa dispõe de serviços hierarquizados, conforme o organograma anexo ao presente diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+### Capítulo II — Sede, instalações e segurança
+
+###### Artigo 2.º — Sede
+
+1 - A Assembleia Legislativa Regional tem sede no Funchal, em instalações próprias, nas quais se inclui o património conhecido por antigo edifício da Alfândega e respectivas dependências e recheio.
+
+2 - Constituem também património da Assembleia Legislativa Regional as instalações por esta adquiridas e outras previstas na lei.
+
+3 - O Presidente da Assembleia Legislativa Regional pode determinar a mudança da sede da Assembleia, com voto favorável da Conferência dos Presidentes dos Grupos Parlamentares, a ratificar pelo Plenário.
+
+###### Artigo 3.º — Delegações
+
+1 - A Assembleia Legislativa Regional poderá criar delegações na ilha de Porto Santo e noutros locais da Região, por determinação do seu Presidente, após parecer favorável da Conferência dos Presidentes dos Grupos Parlamentares.
+
+2 - As delegações comportarão, sempre que possível, espaço para os grupos e representações parlamentares e de apoio aos deputados à Assembleia da República e ao Parlamento Europeu.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 4.º — Instalações
+
+A Assembleia Legislativa Regional pode requisitar ao departamento competente da Administração Pública, tomar de arrendamento ou adquirir as instalações e estacionamentos que se revelem indispensáveis ao seu funcionamento.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 5.º — Segurança
+
+1 - O Serviço de Segurança constitui a estrutura especialmente encarregada da prevenção, controlo, vigilância, protecção e defesa das instalações e dos bens da Assembleia Legislativa Regional, dos seus serviços e das pessoas que nela exercem funções e permanecem.
+
+2 - A segurança das instalações da Assembleia Legislativa Regional é prestada de forma permanente por um dispositivo autónomo da Polícia de Segurança Pública.
+
+3 - As condições de permanência e de actuação da Polícia de Segurança Pública são definidas pelo Presidente da Assembleia Legislativa Regional, sob proposta do Conselho de Administração, ouvidos o Conselho Consultivo e o Comando Regional da Polícia de Segurança Pública.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+### Capítulo III — Plenário
+
+###### Artigo 6.º — Competência
+
+Ao Plenário, como órgão supremo da Assembleia Legislativa Regional, compete apreciar, discutir e votar:
+
+a) O orçamento anual das receitas e despesas da Assembleia e os orçamentos suplementares;
+
+b) O relatório e a conta.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+### Capítulo IV — Administração da Assembleia Legislativa Regional
+
+#### Secção I — Órgãos da Assembleia Legislativa Regional
+
+https://backoffice.dre.pt/group/backoffice/consolidacao-management?p_p_auth=J6Y9hM4X&p_p_id=ConsolidacaoManagement_WAR_drebackofficeportlet&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_ConsolidacaoManagement_WAR_drebackofficeportlet_taskId=5571826&_ConsolidacaoManagement_WAR_drebackofficeportlet_javax.portlet.action=management&_ConsolidacaoManagement_WAR_drebackofficeportlet_consolidacaoId=208205886#/#manage-consolidacao-top
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 7.º — Órgãos
+
+São órgãos da Assembleia Legislativa Regional:
+
+a) O Presidente da Assembleia Legislativa Regional;
+
+b) O Conselho Consultivo;
+
+c) O Conselho de Administração.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+#### Secção II — Presidente da Assembleia Legislativa Regional
+
+###### Artigo 8.º — Competência
+
+1 - O Presidente da Assembleia Legislativa Regional tem as competências que lhe são atribuídas pela Constituição, pelo Estatuto Político-Administrativo, pela lei e pelo Regimento.
+
+2 - O Presidente da Assembleia Legislativa Regional superintende na administração da Assembleia Legislativa Regional.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+###### Artigo 9.º — Delegação de competências
+
+O Presidente da Assembleia Legislativa Regional pode delegar nos vice-presidentes os poderes que lhe são conferidos no presente decreto legislativo regional.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+###### Artigo 10.º — Gabinete do Presidente
+
+1 - O Presidente da Assembleia Legislativa dispõe de um gabinete constituído por pessoal de sua livre escolha, nomeação e exoneração.
+
+2 - O Gabinete do Presidente da Assembleia Legislativa é constituído por um chefe de gabinete, que coordena, por dois assessores, um adjunto, duas secretárias e um motorista, sendo os seus membros portadores de um cartão de identidade, conforme o anexo ii do presente diploma.
+
+3 - Sem prejuízo do disposto no número anterior, poderão ser chamados a prestar colaboração ao Gabinete, para a realização de estudos, trabalhos ou missões de carácter eventual ou extraordinário, técnicos para o efeito nomeados por despacho do Presidente da Assembleia Legislativa Regional.
+
+4 - A duração, termo e remuneração dos estudos, trabalhos ou missões referidos no número anterior serão estabelecidos pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho de Administração.
+
+5 - O apoio administrativo e auxiliar ao Gabinete pode ainda ser prestado por funcionários dos serviços da Assembleia, destacados para o efeito por despacho do Presidente.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 11.º — Cessação de funções dos membros do Gabinete
+
+Os membros do Gabinete cessam funções no termo do mandato do Presidente da Assembleia Legislativa Regional e, a qualquer tempo, por decisão deste.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+###### Artigo 12.º — Regime aplicável aos membros do Gabinete
+
+1 - Aplica-se aos membros do Gabinete do Presidente da Assembleia Legislativa o regime em vigor do Decreto-Lei n.º 12/2012, de 20 de janeiro, sem prejuízo do disposto no presente artigo e nos n.os 6 e 7 do artigo 49.º
+
+2 - Ao chefe de gabinete, aos assessores e ao adjunto do Presidente da Assembleia Legislativa pode ser atribuído um abono para despesas de representação, a fixar pelo Presidente, ouvido o Conselho de Administração.
+
+3 - Os membros dos Gabinetes do Presidente da Assembleia Legislativa Regional não abrangidos por qualquer regime de segurança social beneficiam, a partir da data da sua nomeação, do regime de previdência aplicável ao funcionalismo público, podendo optar por este no caso de ser abrangido por qualquer outro.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2023/M - Diário da República n.º 33/2023, Série I de 2023-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2023-207485807), em vigor a partir de 2023-02-16, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+###### Artigo 13.º — Apoio aos vice-presidentes da Assembleia Legislativa Regional
+
+1 - Os Vice-Presidentes da Assembleia Legislativa Regional podem ser apoiados por um adjunto ou secretário pessoal e um motorista de sua livre escolha, nomeação e exoneração, que serão portadores de um cartão de identidade, conforme anexo II do presente diploma.
+
+2 - Ao pessoal referido no número anterior é aplicável o disposto no artigo 11.º do presente diploma.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+#### Secção III — Conselho Consultivo
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 14.º — Definição e composição
+
+O Conselho Consultivo é um órgão de consulta, constituído pelos Vice-Presidentes da Mesa da Assembleia Legislativa Regional, pelo secretário-geral, por um deputado designado por cada grupo parlamentar da assembleia e por um representante dos funcionários parlamentares.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 15.º — Atribuições
+
+São atribuições do conselho consultivo pronunciar-se sobre:
+
+a) Política geral de administração e os meios necessários à sua execução;
+
+b) Propostas de orçamento da Assembleia;
+
+c) Relatório e conta da Assembleia;
+
+d) Atos de administração relativos ao património da Assembleia, incluindo a aquisição, alienação, troca ou cedência, de quaisquer bens ou direitos a ele inerentes;
+
+e) Demais matérias relativamente às quais o Presidente da Assembleia entenda ouvi-lo.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 16.º — Funcionamento
+
+1 - O Conselho Consultivo é presidido por um dos Vice-Presidentes, a designar pelo Presidente da Assembleia Legislativa Regional, o qual goza de voto de qualidade em caso de empate.
+
+2 - Nas suas faltas ou impedimentos o presidente do Conselho Consultivo será substituído pelo outro dos vice-presidentes.
+
+3 - Os Vice-Presidentes da Assembleia Legislativa Regional serão substituídos nas suas faltas ou impedimentos pelos secretários da Mesa da Assembleia por si designados.
+
+4 - O secretário-geral será substituído, nas suas faltas ou impedimentos, por quem o Presidente da Assembleia Legislativa Regional designar, nos termos previstos para a sua substituição no Conselho de Administração.
+
+5 - Os deputados designados para o Conselho Consultivo serão substituídos, nas suas faltas ou impedimentos, pelos deputados designados pelos respectivos grupos parlamentares.
+
+6 - O representante dos funcionários parlamentares e o seu substituto são eleitos em plenário do pessoal do quadro, expressamente convocado para o efeito, por voto directo e secreto, pelo período da legislatura.
+
+7 - O Conselho Consultivo reúne por iniciativa do respectivo presidente.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Aditado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 17.º — Cessação de funções
+
+No termo da legislatura ou em caso de dissolução da Assembleia Legislativa Regional, os membros do Conselho Consultivo mantêm-se em funções até à primeira reunião da Assembleia da nova legislatura.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+#### Secção IV — Conselho de Administração
+
+> Aditado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 18.º — Definição e composição
+
+O Conselho de Administração é um órgão de gestão, constituído pelo secretário-geral da Assembleia Legislativa Regional e por dois membros de adequada idoneidade e qualificação, a nomear pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho Consultivo.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 19.º — Atribuições
+
+São atribuições do Conselho de Administração:
+
+a) Exercer a gestão orçamental e financeira da Assembleia, sem prejuízo do disposto no artigo 53.º do presente diploma;
+
+b) Aprovar a proposta de orçamento da Assembleia, submetendo-a ao Presidente da Assembleia;
+
+c) Aprovar o relatório e a conta da Assembleia, submetendo-os ao Presidente da Assembleia e remetendo a conta para parecer do Tribunal de Contas, Secção Regional da Madeira;
+
+d) Deliberar sobre a atribuição de subvenção mensal vitalícia requerida por titulares de cargos políticos na Assembleia Legislativa da Região Autónoma da Madeira;
+
+e) Exercer os actos de administração relativos ao património da Assembleia no que diz respeito aos bens móveis e, relativamente aos bens imóveis, assegurar a sua conservação e beneficiação, bem como propor a sua aquisição, alienação, troca, cedência, aluguer e arrendamento;
+
+f) Pronunciar-se, sob proposta do Secretário-Geral da Assembleia, relativamente à abertura de concursos de pessoal;
+
+g) Pronunciar-se sobre as propostas relativas ao provimento de pessoal.
+
+h) Pronunciar-se sobre os regulamentos necessários à organização interna e ao funcionamento dos serviços.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+> Retificado pelo/a [Declaração - Diário da República n.º 251/1989, 2º Suplemento, Série I de 1989-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-505261), produz efeitos a partir de 1989-09-08
+
+###### Artigo 20.º — Funcionamento e exercício de funções
+
+1 - O Conselho de Administração é presidido pelo secretário-geral da Assembleia, o qual goza de voto de qualidade em caso de empate.
+
+2 - O presidente do Conselho de Administração é substituído nas suas faltas ou impedimentos pelo membro do Conselho de Administração que o Presidente da Assembleia Legislativa Regional designar.
+
+3 - O Conselho de Administração reúne ordinariamente pelo menos uma vez por mês e extraordinariamente quando convocado pelo seu presidente, por sua iniciativa ou a solicitação de dois dos seus membros, com a antecedência mínima de vinte e quatro horas, devendo, neste caso, fazer-se a indicação da ordem do dia.
+
+4 - As deliberações do Conselho de Administração são válidas desde que se verifique a presença de dois dos seus membros, sendo um deles obrigatoriamente o secretário-geral ou o seu substituto, devendo ser lavradas em acta.
+
+5 - Os membros do Conselho de Administração, quando especificamente nomeados para tal função e sejam estranhos à Assembleia Legislativa, terão a remuneração correspondente a 50 % do vencimento ilíquido do secretário-geral, podendo exercer funções a tempo inteiro, desde que tal seja expressamente determinado no despacho de nomeação.
+
+6 - Aos membros do Conselho de Administração nomeados para exercer funções a tempo inteiro, nos termos previstos no número anterior, pode aplicar-se, por despacho do Presidente da Assembleia Legislativa, sob proposta do secretário-geral, o regime especial de trabalho previsto no artigo 49.º
+
+7 - Os membros do Conselho de Administração que desempenhem tal função por inerência a cargo exercido na Assembleia ou recrutados entre pessoas que, a qualquer título, exerçam e continuem a exercer outro cargo na Assembleia Legislativa Regional, bem como os que estejam na situação do n.º 5 deste artigo, terão direito a uma remuneração por dia de reunião a que compareçam correspondente a 1/15 do vencimento ilíquido mensal do secretário-geral da Assembleia Legislativa Regional.
+
+> Alterado pelo/a Artigo 82.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 21.º — Cessação de funções
+
+No termo da legislatura ou em caso de dissolução da Assembleia Legislativa Regional os membros do Conselho de Administração mantêm-se em funções até à nomeação do novo Conselho de Administração.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824)
+
+### Capítulo V — Serviços da Assembleia Legislativa Regional
+
+#### Secção I — Disposições gerais
+
+###### Artigo 22.º — Serviços da Assembleia Legislativa Regional
+
+Os serviços têm por finalidade prestar apoio técnico e administrativo aos órgãos da Assembleia Legislativa Regional e aos deputados, devendo garantir, nomeadamente:
+
+a) O suporte técnico e administrativo no domínio das actividades de secretariado e de apoio directo ao Plenário e às comissões;
+
+b) A elaboração de estudos técnicos especializados necessários à actividade da Assembleia Legislativa Regional;
+
+c) A execução das tarefas necessárias à actividade da Assembleia Legislativa Regional.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+###### Artigo 23.º — Organização interna dos serviços
+
+A organização interna dos serviços e as suas condições de funcionamento são definidas em regulamento próprio, aprovado por despacho do Presidente da Assembleia Legislativa Regional, sob proposta do secretário-geral, obtido o parecer favorável do Conselho de Administração.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+#### Secção II — Órgão e serviços na dependência directa do Presidente da Assembleia Legislativa Regional
+
+##### Subsecção I — Secretário-geral da Assembleia Legislativa Regional
+
+###### Artigo 24.º — Atribuições e competências
+
+O secretário-geral da Assembleia Legislativa Regional superintende em todos os serviços da Assembleia e coordena-os, submetendo a despacho do Presidente os assuntos cuja decisão não esteja no âmbito da sua competência.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+###### Artigo 25.º — Estatuto
+
+1 - O secretário-geral é nomeado pelo Presidente da Assembleia Legislativa, em comissão de serviço e por Legislatura, sem prejuízo do previsto no número seguinte, e permanece em funções até à nomeação do novo secretário-geral.
+
+2 - O secretário-geral da Assembleia Legislativa pode ser exonerado a todo o tempo pelo Presidente da Assembleia Legislativa.
+
+3 - O secretário-geral não pode exercer actividades profissionais privadas nem desempenhar outras funções públicas, salvo as que resultem de inerência ou de actividades de reconhecido interesse público cujo exercício seja autorizado por despacho do Presidente da Assembleia Legislativa Regional.
+
+4 - O secretário-geral é substituído nas suas faltas e impedimentos por quem o Presidente da Assembleia Legislativa Regional designar.
+
+5 - A remuneração do secretário-geral é igual ao vencimento base fixado para o cargo de director-geral, acrescido da diferença entre o vencimento deste e o de subdirector-geral, e poderá ser atribuído um abono para despesas de representação a fixar pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho de Administração, o qual não poderá exceder os limites estabelecidos para os secretários-gerais dos órgãos de soberania.
+
+6 - No exercício das suas atribuições, o secretário-geral dispõe de um serviço de apoio próprio, sendo coadjuvado no exercício das suas funções por um adjunto, nomeado pelo Presidente da Assembleia Legislativa da Região Autónoma da Madeira, sob proposta do secretário-geral e por um secretário, aplicando-se-lhes o disposto no artigo 11.º, sendo portadores de um cartão de identidade, conforme o anexo ii do presente diploma.
+
+7 - O secretário-geral é portador de um cartão de identidade conforme anexo II do presente diploma.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 26.º — Secretaria-Geral
+
+A Secretaria-Geral assegurará o apoio administrativo ao Gabinete do Secretário-Geral e será constituída por funcionários dos serviços da Assembleia Legislativa Regional a destacar para o efeito por despacho do Secretário-Geral.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 27.º — Competência específicas
+
+1 - Ao secretário-geral compete:
+
+a) Propor à aprovação do Presidente da Assembleia Legislativa os regulamentos necessários à organização interna e ao funcionamento dos serviços;
+
+b) Propor à aprovação do Presidente da Assembleia Legislativa a abertura de concursos e o provimento do pessoal após parecer do Conselho de Administração;
+
+c) Conferir posse ao pessoal não dirigente;
+
+d) Autorizar ou determinar a movimentação e colocação de funcionários dentro da estrutura orgânica da Assembleia;
+
+e) Despachar os requerimentos dos funcionários solicitando a aposentação ou apresentação a junta médica, ordinária ou extraordinária, bem como aqueles em que seja solicitada a exoneração;
+
+f) Propor ao Conselho de Administração o plano de formação para o pessoal afeto aos serviços da Assembleia Legislativa;
+
+g) Coordenar a elaboração das propostas referentes ao plano de atividades, ao orçamento, ao relatório de atividades e à conta de gerência no quadro das suas atribuições;
+
+h) Autorizar a realização de despesas, conforme o disposto no artigo 53.º do presente diploma;
+
+i) Autorizar a prestação de serviço extraordinário ou em dias feriados, de descanso semanal e de descanso complementar, bem como autorizar o respetivo processamento, de acordo com as orientações expressas pelo Conselho de Administração;
+
+j) Propor ao Presidente da Assembleia, ouvido o Conselho de Administração, a celebração de Protocolos de cooperação com outras instituições, no domínio social, cultural ou desportivo, que envolvam apoios financeiros;
+
+k) Exercer outras funções que superiormente lhe sejam atribuídas.
+
+2 - O secretário-geral da Assembleia Legislativa pode delegar as suas competências próprias e subdelegar as que lhe tenham sido delegadas com autorização expressa de subdelegação.
+
+3 - Das decisões do secretário-geral cabe recurso hierárquico para o Presidente da Assembleia Legislativa.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24, produz efeitos a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+##### Subsecção II — Gabinete da Presidência
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 28.º — Âmbito funcional
+
+1 - O Gabinete da Presidência é responsável pelo protocolo institucional da Assembleia Legislativa da Região Autónoma da Madeira e funciona na dependência do Presidente da Assembleia Legislativa.
+
+2 - Compete-lhe, nomeadamente:
+
+a) Assegurar todo o serviço de protocolo e receção da Assembleia Legislativa;
+
+b) Prestar apoio às delegações parlamentares nas missões oficiais, quer na Região quer no País e no estrangeiro;
+
+c) Planear e colaborar na realização de solenidades, comemorações e visitas à Assembleia Legislativa.
+
+3 - O Gabinete é constituído por pessoal designado para o efeito por despacho do Presidente.
+
+4 - O apoio administrativo a este Gabinete é assegurado pela Secretaria-Geral.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+#### Secção III — Organização dos serviços
+
+##### Subsecção I — Estrutura orgânica
+
+###### Artigo 29.º — Unidades orgânicas
+
+Os serviços da Assembleia Legislativa compreendem:
+
+a) Direcção de Serviços;
+
+b) Departamento de Informática;
+
+c) Núcleo de Atividade Parlamentar;
+
+d) Departamento de Assessoria Técnica;
+
+e) Departamento de Relações Externas e para a Comunicação Social;
+
+f) Departamento Financeiro.
+
+2 - A organização interna dos serviços, incluindo a criação, alteração, denominação e definição de competências das unidades orgânicas que integram os serviços adequados ao seu funcionamento, faz-se por resolução da Assembleia Legislativa, sob proposta do Conselho de Administração.
+
+3 - Nas unidades orgânicas para as quais não se encontre especificamente atribuído cargo dirigente, poderão ser desempenhadas funções de coordenação, por funcionário pertencente ao mapa de pessoal, designado para o efeito, ao qual poderá ser atribuído um suplemento remuneratório, mediante despacho do Presidente da Assembleia Legislativa, sob proposta do secretário-geral e ouvido o Conselho de Administração, sem prejuízo dos limites máximos estipulados para a carreira de técnico de apoio parlamentar.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+##### Subsecção II — Direcção de Serviços
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 30.º — Atribuições
+
+1 - A Direcção de Serviços é a unidade orgânica especialmente encarregada de superintender, orientar e coordenar os serviços da respectiva Direcção, bem como velar pela assiduidade e disciplina do pessoal que lhe está afecto.
+
+2 - Ao director de serviços compete, especialmente:
+
+a) Coadjuvar o Secretário-Geral no desempenho das suas funções, dando-lhe conhecimento imediato de tudo quanto possa influir no funcionamento dos serviços, prestar-lhe toda a cooperação e sugerir-lhe as providências que repute de convenientes;
+
+b) Superintender nos serviços da Direcção e promover o seu regular andamento, a resolução de todas as dúvidas que lhe forem apresentadas pelos seus subordinados e o cumprimento dos despachos do Secretário-Geral;
+
+c) Promover a instauração de processos disciplinares e propor louvores aos funcionários seus subordinados;
+
+d) Emitir parecer nos processos que deva submeter à apreciação do Secretário-Geral;
+
+e) Elaborar o plano de formação do pessoal afecto aos serviços da Assembleia conforme necessidades apontadas pelas diversas unidades orgânicas da Assembleia e submetê-lo à apreciação do Secretário-Geral;
+
+f) Praticar quaisquer outros atos para que tenha recebido delegação e executar tudo o mais de que for incumbido pelo secretário-geral;
+
+g) Promover atividades lúdico-desportivas e culturais adequadas aos objetivos da promoção institucional e quaisquer atividades destinadas aos deputados e funcionários da Assembleia.
+
+3 - O director de serviços será substituído nas suas faltas ou impedimentos por quem o Secretário-Geral designar.
+
+4 - A Direcção de Serviços integra os seguintes serviços:
+
+a) Centro de Documentação;
+
+b) Departamento de Expediente e Pessoal;
+
+c) Serviços Gerais.
+
+5 - O Centro de Documentação é composto por dois setores:
+
+a) Arquivo;
+
+b) Biblioteca.
+
+6 - Compete ao Centro de Documentação:
+
+a) Recolher, organizar, tratar, armazenar e difundir a informação nacional e estrangeira nas várias áreas do conhecimento;
+
+b) Produzir e difundir cadernos de informação, ou outros produtos, adequados aos temas em apreciação nos vários órgãos da Assembleia Legislativa;
+
+c) Recolher, selecionar, tratar e conservar todos os documentos referentes aos deputados e a atos e factos da Assembleia Legislativa;
+
+d) Recolher, registar, catalogar e indexar e zelar pela conservação de todas as espécies do espólio documental da Assembleia Legislativa;
+
+e) Prestar informações sobre a bibliografia e documentação existentes no acervo e facultar o respetivo acesso nos termos do regulamento interno;
+
+f) Promover e colaborar em atividades de divulgação do património documental e propor a edição e difusão de publicações com interesse para a Assembleia Legislativa e as que respeitam à história do Parlamento, em estreita colaboração com o Departamento de Relações Externas e para a Comunicação Social;
+
+g) Gerir o acervo e o funcionamento da Biblioteca da Assembleia Legislativa;
+
+h) Organizar e assegurar a manutenção do Arquivo Histórico-Parlamentar e o arquivo corrente de todos os serviços da Assembleia Legislativa.
+
+7 - Compete ao Departamento de Expediente e Pessoal:
+
+a) Assegurar a receção e expedição da correspondência;
+
+b) Organizar e assegurar todo o expediente geral;
+
+c) Elaborar e manter atualizado o cadastro dos deputados e de todo o pessoal;
+
+d) Processar todas as informações necessárias ao cálculo dos pagamentos de todos os subsídios, subvenções, remunerações e quaisquer abonos a efetuar pelo Departamento Financeiro;
+
+e) Prestar apoio administrativo aos órgãos e serviços da Assembleia;
+
+f) Elaborar o mapa de férias de todo o pessoal da Assembleia Legislativa.
+
+8 - Compete aos Serviços Gerais:
+
+a) Assegurar a distribuição do expediente e a execução de outras tarefas que lhe sejam determinadas;
+
+b) Assegurar a distribuição das tarefas pelo pessoal auxiliar parlamentar e operário parlamentar, orientando-as e fazendo-as cumprir de acordo com as normas da Assembleia Legislativa;
+
+c) Zelar pela conservação e preservação dos bens e instalações da Assembleia Legislativa Regional;
+
+d) Zelar pela limpeza das instalações;
+
+e) Coordenar a gestão do parque automóvel.
+
+9 - Os Serviços Gerais serão coordenados por um encarregado operacional parlamentar.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+##### Subsecção III — Departamento de Informática
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 31.º — Atribuições
+
+O Gabinete de Informática tem como atribuições os domínios dos sistemas e tecnologias de informação.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 32.º — Competências
+
+1 - Compete ao Gabinete de Informática:
+
+a) Promover, desenvolver e implementar sistemas e tecnologias de informação, de acordo com as necessidades da Assembleia Legislativa Regional;
+
+b) Estruturar e criar condições de acesso à informação relevante a todos os utilizadores do sistema;
+
+c) Promover acções de sensibilização e formação e prestar apoio aos órgãos e serviços da Assembleia Legislativa Regional no domínio dos sistemas e tecnologias de informação;
+
+d) Pronunciar-se nos domínios dos sistemas e tecnologias de informação, quando solicitado, em consonância com os princípios, regras e normas gerais de actuação superiormente aprovadas;
+
+e) Estudar e promover a implementação de uma arquitectura de informação global, coerente e actualizada no âmbito da Assembleia Legislativa Regional.
+
+2 - O Gabinete de Informática é dirigido por um director equiparado a director de serviços.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+##### Subsecção IV — Núcleo de Atividade Parlamentar
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+###### Artigo 33.º — Âmbito funcional
+
+1 - O Núcleo de Atividade Parlamentar é a unidade orgânica encarregada de prestar o apoio técnico e tecnológico à atividade parlamentar, bem como proceder à coordenação integrada dos serviços de apoio ao Plenário e de apoio às comissões.
+
+2 - O Núcleo de Atividade Parlamentar é composto por dois serviços:
+
+a) O Serviço de Apoio ao Plenário;
+
+b) O Serviço de Apoio às Comissões.
+
+3 - O Núcleo de Atividade Parlamentar assegura o apoio e a execução técnica e administrativa nos domínios da atividade parlamentar, redação e o apoio audiovisual, competindo-lhe, nomeadamente:
+
+a) Assegurar o expediente do funcionamento do Plenário, da mesa, das comissões, grupos e representações parlamentares e deputados independentes;
+
+b) Registar e organizar os processos relativos ao funcionamento do Plenário;
+
+c) Registar e organizar os atos submetidos à apreciação da Assembleia Legislativa com anotação dos seus trâmites;
+
+d) Verificar o rigor técnico-jurídico dos textos dos processos legislativos e normativos submetidos para apreciação, propondo as alterações que se mostrem necessárias;
+
+e) Verificar a redação final dos textos da Assembleia Legislativa, de acordo com as deliberações dos seus órgãos, promover a preparação dos respetivos autógrafos e verificar a conformidade dos diplomas e textos publicados com os que foram emanados da Assembleia Legislativa, promovendo os necessários processos de retificação;
+
+f) Elaborar e rever o texto do Diário da Assembleia Legislativa e de outras publicações que lhe sejam cometidas no âmbito da atividade parlamentar;
+
+g) Assegurar o registo e arquivo das atas das reuniões das comissões;
+
+h) Canalizar para o chefe de gabinete o expediente decorrente da relação das comissões com o pessoal e entidades estranhas à Assembleia.
+
+4 - O Núcleo de Atividade Parlamentar é dirigido por um diretor, equiparado a diretor de serviços.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+##### Subsecção V — Departamento de Assessoria Técnica
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858)
+
+###### Artigo 34.º — Âmbito funcional
+
+1 - O Departamento de Assessoria Técnica é a unidade orgânica de apoio técnico e de assessoria na dependência do secretário-geral.
+
+2 - Ao Departamento de Assessoria Técnica compete:
+
+a) Prestar apoio técnico e de assessoria aos Gabinetes do Presidente e dos Vice-Presidentes e à Secretaria-Geral;
+
+b) Verificar quaisquer textos legislativos e normativos cuja apreciação lhe seja solicitada e propor alterações que se mostrem adequadas e anotações técnicas pertinentes;
+
+c) Efetuar os estudos e trabalhos de investigação e de informação de que for incumbido;
+
+d) Assegurar a representação judiciária da Assembleia em Juízo;
+
+e) Recolher, selecionar, tratar e difundir a informação do Diário da República e do Jornal Oficial da Região de interesse para a Assembleia Legislativa;
+
+f) Recolher e difundir jurisprudência nacional e europeia, obtida através do acesso a bases de dados externas;
+
+g) Assegurar o escrutínio das iniciativas legislativas europeias, em coordenação com as Comissões especializadas competentes.
+
+3 - O Departamento de Assessoria Técnica é superintendido pelo adjunto do secretário-geral.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Aditado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+##### Subsecção VI — Departamento de Relações Externas e para a Comunicação Social
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 35.º — Atribuições
+
+1 - O Departamento de Relações Externas e para a Comunicação Social é a unidade orgânica encarregada da divulgação da atividade da Assembleia Legislativa da Região Autónoma da Madeira, da promoção das iniciativas de gestão da imagem institucional e da coordenação da atividade informativa junto dos meios de comunicação social.
+
+2 - Compete-lhe, nomeadamente:
+
+a) Assegurar a edição e difusão das publicações da Assembleia Legislativa, em estreita colaboração com o Arquivo;
+
+b) Coordenar a divulgação, junto dos órgãos de comunicação social, da informação respeitante ao funcionamento da atividade parlamentar;
+
+c) Tratar, arquivar e divulgar a informação produzida por órgãos de comunicação social;
+
+d) Prover ao arquivo, criteriosamente organizado, dos registos áudio, vídeo e de imagem, de atividades e acontecimentos que envolvam a Assembleia Legislativa;
+
+e) Coordenar a divulgação e a gestão de conteúdos do site institucional da Assembleia Legislativa;
+
+f) Apoiar o funcionamento da Sala de Imprensa;
+
+g) Prestar o apoio técnico, tecnológico e administrativo ao serviço do Protocolo da Assembleia Legislativa;
+
+h) Assegurar, em termos de imagem e som, o funcionamento do Plenário e, ainda, eventos para os quais seja determinado tal apoio;
+
+i) Assegurar a gestão, exploração e manutenção do sistema de áudio e do sistema de televisão, incluindo os respetivos equipamentos, pertencentes ao património da Assembleia.
+
+3 - O Departamento de Relações Externas e para a Comunicação Social é dirigido por um técnico de apoio parlamentar coordenador.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 10/2014/M - Diário da República n.º 159/2014, Série I de 2014-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2014-56305786), em vigor a partir de 2014-08-21
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Aditado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+##### Subsecção VII — Departamento Financeiro
+
+> Aditado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+###### Artigo 36.º — Atribuições
+
+1 - O Departamento Financeiro é a unidade orgânica encarregada de executar as orientações que lhe forem determinadas pelo Secretário-Geral em matéria de gestão orçamental e patrimonial.
+
+2 - Na dependência direta deste Departamento funciona o Serviço de Aprovisionamento e Gestão do Património, a quem incumbe assegurar a gestão e a manutenção das instalações e dos equipamentos, bem como do parque automóvel, e assegurar também o aprovisionamento de bens e a aquisição de serviços.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 37.º — Competência
+
+1 - Compete ao Departamento Financeiro:
+
+a) Elaborar as propostas de orçamento e do relatório e conta de acordo com as orientações expressas pelo Conselho de Administração;
+
+b) Dar execução ao orçamento;
+
+c) Assegurar o pagamento de todos os subsídios, subvenções, remunerações e quaisquer abonos processados pelo Departamento de Expediente e Pessoal;
+
+d) Assegurar o aprovisionamento e aquisição de bens e serviços;
+
+e) Conferir, controlar e processar as despesas;
+
+f) Elaborar o inventário geral dos bens, mantendo-o actualizado;
+
+g) Velar pelo cumprimento de serviços relativos à conservação do património.
+
+2 - O Departamento Financeiro é dirigido por um diretor, equiparado a diretor de serviços, titular de cargo de direção intermédia de 1.º grau.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 35/2023/M - Diário da República n.º 149/2023, Série I de 2023-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2023-216598403), em vigor a partir de 2023-08-03
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 38.º — Depósito legal
+
+Todos os serviços e organismos da administração regional e local, os institutos públicos, empresas públicas e organizações cooperativas ficam obrigados a enviar à Divisão de Documentação da Assembleia Legislativa Regional, sob o regime de depósito legal, um exemplar de todas as publicações oficiais e oficiosas que não sejam de mera circulação interna dos serviços.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275)
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+### Capítulo VI — Pessoal dos serviços da Assembleia Legislativa
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+#### Secção I — Disposições gerais
+
+###### Artigo 39.º — Estatuto do pessoal parlamentar
+
+1 - O pessoal da Assembleia Legislativa Regional rege-se por estatuto próprio, nos termos do presente decreto legislativo regional e das resoluções e dos regulamentos da Assembleia Legislativa Regional.
+
+2 - A legislação referente à Administração Pública, bem como o estatuto do pessoal da Assembleia da República, é aplicável, subsidiariamente, aos funcionários da Assembleia Legislativa Regional, com as necessárias adaptações.
+
+3 - Salvo motivo justificado, as férias dos funcionários deverão ser gozadas fora do período de funcionamento efetivo da Assembleia Legislativa da Região Autónoma da Madeira.
+
+4 - O pessoal referido no n.º 1 é portador de um cartão de identidade, conforme o anexo III do presente diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 40.º — Mapa de pessoal
+
+1 - A Assembleia Legislativa Regional dispõe do pessoal constante do quadro anexo I do presente diploma, do qual faz parte integrante.
+
+2 - O quadro do pessoal da Assembleia Legislativa Regional pode ser alterado por resolução da Assembleia mediante proposta no Conselho de Administração.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 41.º — Carreiras e constituição de relação jurídica de emprego parlamentar
+
+1 - Os funcionários parlamentares constituem um corpo especial e permanente e exercem as suas funções integrados em carreiras especiais.
+
+2 - As carreiras especiais parlamentares são pluricategoriais.
+
+3 - O ingresso nas carreiras especiais da Assembleia Legislativa da Região Autónoma da Madeira faz-se pela primeira posição remuneratória das respetivas categorias de base.
+
+4 - Excecionalmente, quando estejam em causa funções de elevada complexidade ou especificidade técnica que requeiram o seu pretérito exercício em condições similares às exigíveis na Assembleia Legislativa da Região Autónoma da Madeira, podem ser recrutados, mediante procedimento concursal para ocupação de posto de trabalho em posição remuneratória superior à de ingresso na categoria de base da carreira parlamentar correspondente, indivíduos que possuam habilitação literária, qualificação e experiência profissional iguais ou superiores às normalmente exigíveis para essa categoria e posição remuneratória.
+
+5 - O recrutamento referido no número anterior só pode ter lugar quando estiverem em causa necessidades permanentes da Assembleia da Legislativa da Madeira.
+
+6 - A caracterização das carreiras especiais e as categorias em que se desdobram, bem como os respetivos conteúdos funcionais, os graus de complexidade funcional e o número de posições remuneratórias de cada categoria são os constantes dos anexos i e iv da presente Estrutura Orgânica, dela fazendo parte integrante.
+
+7 - A relação jurídica de emprego parlamentar constitui-se por celebração de contrato de trabalho parlamentar, em resultado do processo de recrutamento e seleção nos termos previstos no artigo seguinte.
+
+8 - O contrato de trabalho parlamentar é celebrado por tempo indeterminado na sequência da aprovação em concurso e está sujeito à forma escrita.
+
+9 - A relação jurídica de emprego parlamentar constitui-se em regime de comissão de serviço quando se trate:
+
+a) Do exercício de cargos dirigentes;
+
+b) De funções que, nos termos desta Estrutura, só possam ser exercidas neste regime.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 42.º — Carreiras especiais
+
+1 - As carreiras especiais parlamentares são as seguintes:
+
+a) Consultor parlamentar;
+
+b) Técnico de apoio parlamentar;
+
+c) Assistente operacional parlamentar.
+
+2 - À carreira de consultor parlamentar corresponde o grau de complexidade 3, à de técnico de apoio parlamentar o grau de complexidade 2 e à de assistente operacional parlamentar o grau de complexidade 1.
+
+3 - Para a integração na carreira de grau de complexidade 1 é exigida aos candidatos a titularidade da escolaridade obrigatória de acordo com a respetiva idade, que poderá ser acrescida de formação adequada.
+
+4 - Para a integração na carreira de grau de complexidade 2 é exigida a titularidade do 12.º ano de escolaridade ou de curso que lhe seja equiparado, acrescida de curso de formação específico.
+
+5 - Para a integração na carreira de grau de complexidade 3 é exigida a titularidade de licenciatura adequada às funções a exercer, acrescida de curso de formação específico, o qual se integra na fase inicial de exercício de funções.
+
+6 - Na integração em carreira de grau de complexidade 3, quando respeite a titulares de licenciatura anterior ao Processo de Bolonha e ou a titulares do grau de mestrado ou superior, não é exigível o curso de formação específico referido no número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 35/2023/M - Diário da República n.º 149/2023, Série I de 2023-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2023-216598403), em vigor a partir de 2023-08-03
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Aditado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+###### Artigo 43.º — Recrutamento, selecção e provimento de lugares
+
+1 - O recrutamento e selecção de pessoal não dirigente da Assembleia Legislativa Regional é feito mediante concurso público.
+
+2 - Ao concurso público previsto no número anterior aplica-se, com as necessárias adaptações, o regime previsto para a Administração Pública.
+
+3 - O provimento de lugares de pessoal não dirigente é feito por despacho do Secretário-Geral, obtido o parecer favorável do Conselho de Administração.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858)
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 44.º — Estágio probatório
+
+1 - Findo o procedimento concursal de recrutamento, os candidatos admitidos celebram contrato de trabalho parlamentar em regime de estágio probatório, que se destina, em sede de período experimental, a comprovar se o estagiário possui as competências e o perfil exigidos pelo posto de trabalho que vai ocupar.
+
+2 - O período experimental tem ainda como objetivos a preparação e a formação teórico-prática do estagiário para o desenvolvimento eficaz e competente das funções de funcionário parlamentar, bem como a avaliação da sua aptidão e capacidade de adaptação ao serviço da Assembleia Legislativa da Região Autónoma da Madeira.
+
+3 - O período experimental nas carreiras parlamentares tem a duração de 18 meses, não podendo ser objeto de dispensa total ou parcial, salvo o disposto no número seguinte.
+
+4 - O secretário-geral pode dispensar a frequência do período probatório, com exceção dos primeiros 6 meses, quando, sob proposta do orientador de estágio e a requerimento do interessado, este tenha, por período não inferior a três anos, exercido na Assembleia Legislativa da Região Autónoma da Madeira funções de conteúdo funcional correspondente à carreira e categoria em que se encontra concursado, com avaliação de desempenho não inferior a Bom.
+
+5 - Para os efeitos do número anterior, o desempenho das funções é comprovado pelo ou pelos dirigentes do serviço da Assembleia Legislativa da Região Autónoma da Madeira onde as exerceu.
+
+6 - O período experimental começa a contar-se a partir da data contratualmente fixada para o seu início, sendo acrescido dos dias de faltas, ainda que justificadas, e licenças.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 45.º — Orientação e avaliação de estágio
+
+1 - Durante o período experimental, o estagiário é acompanhado por um orientador de estágio designado para o efeito.
+
+2 - A avaliação final compete ao responsável pela unidade ou subunidade orgânica onde o estagiário foi colocado e ao respetivo orientador.
+
+3 - A avaliação final tem em consideração os elementos que o orientador tenha integrado no seu relatório, a assiduidade e pontualidade do estagiário, o relatório final que este deve apresentar, os resultados das ações de formação frequentadas e as informações do ou dos dirigentes do ou dos serviços onde estagiou.
+
+4 - A avaliação final traduz-se numa escala de 0 a 20 valores, considerando-se concluído com sucesso o período experimental quando o funcionário parlamentar tenha obtido uma avaliação não inferior a 15 valores.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Aditado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+###### Artigo 46.º — Carreira de consultor parlamentar
+
+1 - A carreira de consultor parlamentar desenvolve-se por duas categorias, a de consultor parlamentar e a de consultor parlamentar principal.
+
+2 - À categoria de consultor parlamentar correspondem dez posições remuneratórias e à de consultor parlamentar principal correspondem quatro posições remuneratórias.
+
+3 - O acesso à categoria de consultor parlamentar principal efetiva-se através de procedimento concursal, com exceção do posicionamento decorrente do disposto no n.º 1 do artigo 59.º
+
+4 - Podem candidatar-se à categoria de consultor parlamentar principal os consultores parlamentares posicionados, pelo menos, na 4.ª posição, desde que preencham os requisitos necessários para a alteração do posicionamento remuneratório previstos na lei.
+
+5 - Os consultores parlamentares colocados na 10.ª posição remuneratória que ascendam à categoria de consultor parlamentar principal são colocados na 2.ª posição remuneratória desta categoria.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 47.º — Técnico de apoio parlamentar
+
+1 - A carreira de técnico de apoio parlamentar desenvolve-se por duas categorias, a de técnico de apoio parlamentar e a de técnico de apoio parlamentar-coordenador.
+
+2 - À categoria de técnico de apoio parlamentar correspondem nove posições remuneratórias e à de técnico de apoio parlamentar-coordenador quatro posições.
+
+3 - O acesso à categoria de técnico de apoio parlamentar-coordenador efetiva-se através de procedimento concursal, com exceção do posicionamento decorrente do disposto no n.º 3 do artigo 59.º
+
+4 - Podem candidatar-se à categoria de técnico de apoio parlamentar-coordenador os técnicos de apoio parlamentar posicionados, pelo menos, na 6.ª posição remuneratória que tenham, nos 10 anos anteriores, obtido avaliação positiva de desempenho de funções na Assembleia Legislativa da Região Autónoma da Madeira.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Retificado pelo/a [Declaração de Retificação n.º 57/2012 - Diário da República n.º 198/2012, Série I de 2012-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/57-2012-176366), produz efeitos a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 48.º — Carreira de assistente operacional parlamentar
+
+1 - A carreira de assistente operacional parlamentar desenvolve-se por duas categorias, a de assistente operacional parlamentar e a de encarregado operacional parlamentar.
+
+2 - À categoria de assistente operacional parlamentar correspondem oito posições remuneratórias e à de encarregado operacional parlamentar três posições.
+
+3 - O exercício de funções na categoria de encarregado operacional parlamentar é feito em regime de comissão de serviço, por um período de cinco anos, renovável, de entre assistentes operacionais parlamentares com avaliação positiva de desempenho de funções na Assembleia Legislativa da Região Autónoma da Madeira nos últimos cinco anos.
+
+4 - O encarregado operacional parlamentar é remunerado pela posição remuneratória da categoria imediatamente superior àquela em que se encontra na categoria de assistente operacional parlamentar se esta for mais favorável.
+
+5 - Finda a comissão de serviço, o encarregado operacional parlamentar regressa à categoria de origem, relevando para efeitos do respetivo posicionamento remuneratório o tempo de exercício de funções na categoria de encarregado operacional parlamentar.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814)
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 49.º — Regime especial de trabalho
+
+1 - O pessoal permanente da Assembleia Legislativa Regional tem regime especial de trabalho, decorrente da natureza e das condições de funcionamento próprios da Assembleia.
+
+2 - Este regime é fixado por despacho do Presidente da Assembleia Legislativa Regional, sob proposta do Secretário-Geral, ouvido o Conselho de Administração, podendo compreender, nomeadamente, horário especial de trabalho e remuneração suplementar.
+
+3 - A remuneração suplementar a que se refere o número anterior é calculada com base no vencimento, de acordo com a fórmula:
+
+((35% Rb) x 14)/12
+
+sendo Rb a remuneração base, paga mensalmente.
+
+4 - A remuneração referida no número anterior faz parte integrante do vencimento, contando para todos os efeitos legais, designadamente os de aposentação, não sendo acumulável com abonos resultantes da prestação de trabalho suplementar e noturno, sem prejuízo de abono compensatório resultante da prestação de trabalho em dias de descanso semanal obrigatório ou complementar ou em dias feriados, nos termos do regime geral aplicável aos trabalhadores em funções públicas.
+
+5 - Em situações excepcionais de funcionamento dos serviços da Assembleia Legislativa Regional pode ser atribuído ao respectivo pessoal um subsídio de alimentação e de transporte.
+
+6 - A aplicação do regime de trabalho previsto nos números anteriores ao pessoal dos gabinetes do Presidente da Assembleia Legislativa, dos Vice-Presidentes e do Secretário-Geral é da competência do Presidente da Assembleia Legislativa.
+
+7 - O regime remuneratório do pessoal da Assembleia Legislativa e do pessoal dos gabinetes do Presidente da Assembleia Legislativa, dos Vice-Presidentes e do Secretário-Geral será fixado pelo Presidente da Assembleia Legislativa, sob proposta do Conselho de Administração, sem prejuízo do previsto no anexo i ao presente diploma.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2023/M - Diário da República n.º 33/2023, Série I de 2023-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2023-207485807), em vigor a partir de 2023-02-16, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 50.º — Bolsas de estudo
+
+1 - Para aperfeiçoamento dos funcionários da Assembleia poderão ser concedidas bolsas de estudo ou equiparação a bolseiro para a frequência de cursos e estágios em instituições nacionais ou organismos internacionais.
+
+2 - A concessão de bolsas de estudo ou equiparadas a bolseiro é da competência do Presidente da Assembleia, mediante proposta fundamentada do secretário-geral, com o parecer favorável do Conselho de Administração.
+
+3 - As condições, direitos e obrigações dos bolseiros constarão de regulamento, a aprovar pelo Conselho de Administração, mediante proposta do secretário-geral.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Aditado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 51.º — Deveres e direitos
+
+1 - Constituem deveres gerais dos funcionários parlamentares, nomeadamente:
+
+a) O dever de prossecução do interesse público, que consiste na sua defesa, no respeito pela Constituição, pelas leis e pelos direitos e interesses legalmente protegidos dos cidadãos;
+
+b) O dever de isenção, que consiste em não retirar vantagens, diretas ou indiretas, pecuniárias ou outras, para si ou para terceiro, das funções que exerce;
+
+c) O dever de imparcialidade, que consiste em desempenhar as funções com equidistância relativamente aos interesses com que seja confrontado, sem discriminar positiva ou negativamente qualquer deles;
+
+d) O dever de lealdade, que consiste em desempenhar as funções com subordinação aos objetivos do órgão ou do serviço;
+
+e) Os deveres de assiduidade e de pontualidade, que consistem em comparecer ao serviço regular e continuamente, nos termos do regulamento em vigor;
+
+f) O dever de zelo, que consiste em conhecer, aplicar as normas legais e regulamentares, bem como as ordens e instruções dos superiores hierárquicos, bem como exercer as funções de acordo com os objetivos que tenham sido fixados e utilizando as competências que tenham sido consideradas adequadas;
+
+g) O dever de obediência, que consiste em acatar e cumprir as ordens dos legítimos superiores hierárquicos, dadas em objeto de serviço e com a forma legal;
+
+h) O dever de correção, que consiste em tratar com respeito e urbanidade os Deputados e restantes titulares de cargos políticos, os superiores hierárquicos e os colegas, os membros das forças de segurança, bem como os funcionários dos grupos parlamentares, demais trabalhadores e o público em geral;
+
+i) O dever de observar as normas de segurança, higiene e saúde no trabalho.
+
+2 - Constituem deveres especiais dos funcionários parlamentares, nomeadamente:
+
+a) O dever de neutralidade política, que consiste em não indiciar no exercício das suas funções qualquer opção político-partidária ou preferência por qualquer solução de política legislativa, bem como em não praticar atos ou omissões que, de algum modo, favoreçam ou prejudiquem uma posição política em detrimento ou vantagem de outra ou outras;
+
+b) O dever de sigilo profissional em relação a todos os factos e informações de que só possam ter conhecimento no exercício ou em resultado do exercício das suas funções;
+
+c) O dever de reserva profissional, que consiste na interdição de fornecer qualquer informação ou documento não públicos respeitantes ao trabalho da Assembleia Legislativa sem prévia autorização superior;
+
+d) O dever de disponibilidade permanente, que consiste em cumprir integralmente os deveres decorrentes do regime especial de trabalho, garantindo a todo o tempo a prossecução das tarefas necessárias ao adequado funcionamento das atividades parlamentares;
+
+e) O dever de contribuir para a dignificação da Assembleia Legislativa da Região Autónoma da Madeira;
+
+f) O dever de participar com assiduidade nas ações de formação que lhes forem proporcionadas pela Assembleia Legislativa, como forma de reforçar e aperfeiçoar a sua capacitação profissional.
+
+3 - Os deveres de sigilo e de reserva profissional cessam quando estiver em causa a defesa do próprio em processo disciplinar ou judicial e apenas em matéria relacionada com o respetivo processo, mas mantém-se durante a suspensão ou após a cessação do exercício de funções.
+
+4 - Aos funcionários parlamentares, sem prejuízo de outros previstos na Constituição, na lei e na Estrutura Orgânica da Assembleia Legislativa da Região Autónoma da Madeira, bem como no seu Regulamento interno, tendo em consideração o carácter específico da atividade profissional, decorrente da natureza e das condições de funcionamento próprias da Assembleia, são garantidos, nomeadamente, os seguintes direitos:
+
+a) Ao desempenho das funções inerentes à carreira em que se encontram integrados e à categoria de que são titulares;
+
+b) À remuneração correspondente à carreira e categoria, em razão da sua capacidade, experiência, avaliação de desempenho e tempo de serviço;
+
+c) Ao respeito pela sua dignidade profissional e pessoal;
+
+d) À valorização continuada da sua capacitação profissional, através de um sistema de formação próprio adequado, garantido pelo acesso a ações de formação internas e externas;
+
+e) Ao desempenho das suas funções em condições de segurança e higiene;
+
+f) À proteção na doença, para si e para a sua família, nos termos da legislação aplicável aos trabalhadores em funções públicas, e a um sistema de proteção social, para si e para a sua família, abrangendo, designadamente, pensão de aposentação, de reforma, de sobrevivência, de invalidez, de preço de sangue e de outras formas de assistência e de apoio social;
+
+g) À participação, através do seu representante no Conselho Consultivo, em todas as matérias relacionadas com as condições de trabalho, nomeadamente implementação de medidas relativas às condições de higiene, saúde e segurança no trabalho e definição da política de formação e aperfeiçoamento profissional.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+###### Artigo 52.º — Garantias de imparcialidade e isenção
+
+1 - O exercício de funções na Assembleia Legislativa da Região Autónoma da Madeira, quer em funções dirigentes, quer por funcionário ou agente, é feito em regime de exclusividade, sendo incompatível com qualquer cargo, função ou atividade, públicos ou privados, que possam afetar a isenção e a independência do funcionário parlamentar, bem como o total cumprimento dos deveres estabelecidos no presente diploma.
+
+2 - Excecionalmente, o exercício das funções na Assembleia Legislativa pode ser acumulado com o de outras funções públicas quando estas não sejam remuneradas e haja na acumulação manifesto interesse público, desde que devidamente autorizado por despacho fundamentado do dirigente máximo dos serviços.
+
+3 - Sendo remuneradas e havendo manifesto interesse público na acumulação, o exercício de outras funções públicas pode ser autorizado por despacho do Presidente da Assembleia Legislativa e apenas nos seguintes casos:
+
+a) Inerência;
+
+b) Atividade de representação;
+
+c) Atividade docente no ensino superior ou de investigação sem prejuízo do cumprimento integral da duração semanal do trabalho e desde que não se sobreponha em mais de um terço ao horário inerente à função principal;
+
+d) Realização de conferências, palestras, ações de formação de curta duração e outras atividades de idêntica natureza.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+#### Secção II — Pessoal dirigente
+
+###### Artigo 53.º — Recrutamento
+
+1 - Os titulares dos cargos de direção intermédia são recrutados, por procedimento concursal, de entre trabalhadores em funções públicas contratados ou designados por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício de funções de direção, coordenação e controlo que reúnam seis ou quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura, consoante se trate de cargos de direção intermédia de 1.º ou de 2.º grau, respetivamente.
+
+2 - O procedimento concursal é efetuado por júri nomeado para o efeito, o qual deverá compreender pelo menos um elemento designado pela Direção Regional responsável pela área da Administração Pública ou por indivíduo de reconhecida competência na área funcional respetiva.
+
+3 - O recrutamento para os cargos de direção intermédia pode também ser feito de entre funcionários integrados na carreira de técnico de apoio parlamentar, ainda que não possuidores de curso superior.
+
+4 - Ao recrutamento de pessoal para cargos de direção intermédia aplica-se, com as necessárias adaptações e em tudo o que não se encontre expressamente previsto no presente diploma, o regime da lei geral com as adaptações que vigorem na Região Autónoma da Madeira.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 54.º — Provimento
+
+1 - O pessoal dirigente é provido em comissão de serviço por um período de três anos, que poderá ser renovado por iguais períodos.
+
+2 - Para efeitos de eventual renovação da comissão de serviço aplicam-se, com as devidas adaptações, as normas previstas no Estatuto do Pessoal Dirigente, bem como as referentes à suspensão, cessação e substituição.
+
+3 - Nos serviços criados por este diploma o primeiro provimento dos cargos de director de serviços ou equiparado e de chefe de divisão pode ser feito por escolha em regime de comissão de serviço por um ano.
+
+4 - No caso previsto no número anterior é aberto concurso até 120 dias antes do termo da comissão de serviço do nomeado.
+
+5 - No concurso aberto nos termos do número anterior, os nomeados ao abrigo do n.º 3 deste artigo gozam de preferência em caso de igualdade de classificação, considerando-se prorrogada a respectiva comissão até ao provimento do concurso.
+
+6 - O provimento dos cargos dirigentes previstos no artigo anterior é feito por despacho do Presidente da Assembleia Legislativa Regional.
+
+7 - O provimento do pessoal dirigente entende-se sempre feito por urgente conveniência de serviço, salvo se o contrário for expressamente declarado no despacho de nomeação.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 55.º — Remunerações
+
+1 - As remunerações do director de serviços ou equiparado e do chefe de divisão são as estabelecidas na lei.
+
+2 - Ao pessoal dirigente podem ser abonadas despesas de representação em montantes a fixar por despacho do Presidente da Assembleia Legislativa Regional e mediante parecer do Conselho de Administração.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+#### Secção III — Mobilidade, cedência de interesse público, prestação de serviços e pessoal além do mapa
+
+> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+###### Artigo 56.º — Mobilidade e cedência de interesse público
+
+1 - O Presidente da Assembleia Legislativa, obtido o parecer favorável do Conselho de Administração, pode autorizar a mobilidade de funcionários de outros departamentos da Administração Pública para prestarem serviço na Assembleia, não se aplicando a estas requisições os limites de duração previstos na lei geral.
+
+2 - O Presidente da Assembleia Legislativa, obtido o parecer favorável do Conselho de Administração, pode ainda autorizar a cedência de interesse público de técnicos de empresas públicas ou privadas, assim como de outros organismos, por período julgado necessário, nos termos seguintes:
+
+a) Os trabalhadores em cedência de interesse público mantêm sempre os direitos e regalias sociais adquiridos e, designadamente, os emergentes de instrumento de regulamentação coletiva de trabalho;
+
+b) Os trabalhadores em cedência de interesse público auferem, por inteiro, as remunerações inerentes aos cargos que exerciam, sem prejuízo de poderem optar pelas remunerações correspondentes às funções que vão desempenhar, acrescidas, em qualquer caso, das compensações de encargos decorrentes da requisição que forem fixadas por despacho do Presidente da Assembleia Legislativa, ouvido o Conselho de Administração, podendo compreender, nomeadamente, as relacionadas com deslocação e residência, independentemente de outras regalias previstas neste diploma;
+
+c) Estas cedências só podem ser realizadas com a concordância dos trabalhadores e dos respetivos serviços.
+
+3 - As cedências de interesse público e mobilidades podem ser feitas por períodos não superiores ao da legislatura, cujo termo determina a sua caducidade.
+
+4 - Decorrido o prazo da cedência de interesse público ou uma vez caducada, nos termos do número anterior, a mobilidade e a cedência de interesse público a que se referem os n.os 1 e 2 pode ser autorizada de novo pelo Presidente da Assembleia Legislativa, mediante o parecer favorável do Conselho de Administração.
+
+5 - O pessoal em mobilidade tem de possuir as qualificações académicas e profissionais exigidas, para as mesmas categorias ou funções, aos funcionários parlamentares da Assembleia Legislativa.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 57.º — Prestação de serviços
+
+1 - O Presidente da Assembleia Legislativa Regional, obtido o parecer favorável do Conselho de Administração, pode:
+
+a) Encomendar estudos, pareceres e serviços;
+
+b) Convidar entidades regionais, nacionais e estrangeiras para realizar estudos, inquéritos ou trabalhos de carácter eventual;
+
+c) Contratar pessoal em regime de tarefa.
+
+2 - As modalidades de prestação de serviços e as condições gerais da sua realização são estabelecidas pelo Presidente da Assembleia Legislativa Regional, ouvido o Conselho de Administração, sob proposta do secretário-geral da Assembleia Legislativa Regional.
+
+3 - As despesas a que houver lugar nos termos deste artigo são suportadas por força de verba global a inscrever para tal fim no orçamento da Assembleia Legislativa Regional.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 58.º — Pessoal além do mapa
+
+1 - O Presidente da Assembleia Legislativa Regional, obtido prévio parecer favorável do Conselho de Administração, pode autorizar, a título excepcional, a contratação de pessoal para a realização de tarefas que não possam ser asseguradas pelo pessoal permanente.
+
+2 - Os contratos a que se refere o número anterior constituem uma relação transitória de trabalho subordinado, sujeita à disciplina do direito administrativo, ou, em casos excepcionais, são contratos de trabalho a termo certo, sujeitos ao regime da lei geral e às especificidades definidas na lei aplicável aos organismos da função pública.
+
+3 - Ao pessoal contratado, nos termos do presente artigo, que tenha vínculo à função pública ou que pertença a qualquer organismos público é garantido o seu lugar de origem e contagem de tempo de serviço para todos os efeitos profissionais, sendo portador de um cartão de identidade, conforme anexo III do presente diploma.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+### Capítulo VII — Apoio aos partidos e grupos parlamentares
+
+###### Artigo 59.º — Subvenção à Atividade Parlamentar
+
+1 - Os grupos parlamentares e deputado único representante de um partido dispõem, para encargos de assessoria aos deputados, para a utilização de gabinetes constituídos por pessoal da sua livre escolha, nomeação, exoneração e qualificação, para atividade política e partidária em que participem e para outras despesas de funcionamento, de uma subvenção anual.
+
+2 - A subvenção anual, definida nos termos do n.º 1, corresponde a 2x14xRMMG-2015 (Retribuição Mínima Mensal Garantida, para vigorar na RAM em 2015)/mês, por deputado.
+
+3 - O Presidente da Assembleia Legislativa fixa, por despacho o quadro de pessoal do gabinete de cada grupo parlamentar, por proposta vinculativa do respetivo grupo, e desde que não ultrapasse o montante referido no número anterior.
+
+4 - O pessoal nomeado nos termos do n.º 1 não pode auferir remuneração mensal ilíquida superior à de deputado em exercício de funções.
+
+5 - O processamento dos vencimentos do pessoal dos gabinetes dos partidos e dos grupos parlamentares, bem como as despesas com os encargos sociais e respetivo processamento, são da responsabilidade da Assembleia Legislativa.
+
+6 - É aplicável aos membros dos gabinetes referidos no presente artigo o disposto no n.os 1 e 3 do artigo 12.º do presente diploma.
+
+7 - Os membros dos gabinetes previstos no presente artigo são portadores de um cartão de identificação conforme anexo IV do presente diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2015/M - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2015-66325239), em vigor a partir de 2015-01-27
+
+> Alterado pelo/a Artigo 29.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+> Alterado pelo/a Artigo 23.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 60.º — Subvenção aos partidos
+
+1 - A cada partido que haja concorrido a eleição para a Assembleia Legislativa da Madeira, ainda que em coligação, e que nela obtenha representação é concedida uma subvenção anual, desde que requerida ao Presidente da Assembleia, que consiste numa quantia em dinheiro, fixada nos termos dos números seguintes, adequada às suas necessidades de organização e funcionamento.
+
+2 - A subvenção referida no n.º 1 é paga em duodécimos e transferida diretamente para os partidos, por conta de dotações especiais para esse efeito inscritas no orçamento da Assembleia Legislativa, nos seguintes termos:
+
+Representação de um só deputado e grupos parlamentares - 7x14xRMMG-2015 (Retribuição Mínima Mensal Garantida, para vigorar na RAM em 2015)/mês, por deputado.
+
+3 - Ao montante referido no número anterior, acresce a ponderação de 1xRMMG-2015/mês, por deputado.
+
+4 - Nos casos de coligação eleitoral, a subvenção devida a cada um dos partidos nela integrados é igual à subvenção que, nos termos dos números anteriores, corresponder à respetiva coligação eleitoral, distribuída proporcionalmente em função dos deputados eleitos por cada partido, salvo disposição expressa em sentido distinto constante de acordo da coligação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 2/2015/M - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2015-66325239), em vigor a partir de 2015-01-27
+
+> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+> Alterado pelo/a Artigo 38.º do/a [Decreto Legislativo Regional n.º 11/94/M - Diário da República n.º 98/1994, 1º Suplemento, Série I-A de 1994-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-1994-157622)
+
+> Alterado pelo/a Artigo 25.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+###### Artigo 61.º — Apoio logístico
+
+1 - Os grupos e representações parlamentares têm direito a dispor de locais de trabalho, com a dimensão, os equipamentos e o mobiliário indispensável ao respetivo funcionamento, segundo o critério da proporcionalidade ao número de deputados que integram.
+
+2 - Os grupos e representações parlamentares dispõem, ainda, para o seu funcionamento das respetivas instalações, de material de escritório, de meios de comunicação eletrónica e de acesso a publicações de imprensa escrita ou online, até ao limite do montante destinado para este efeito no início de cada sessão legislativa e proporcional ao número de deputados que integram.
+
+3 - O montante previsto no número anterior é pago através da rubrica própria, prevista no Orçamento da Assembleia Legislativa e fixado pelo Presidente da Assembleia, sob proposta do Conselho de Administração, ouvido o Conselho Consultivo.
+
+4 - A natureza, quantificação e especificações dos equipamentos, mobiliário, meios de comunicação eletrónica e publicações de imprensa referidos nos números anteriores, são definidos em regulamento interno da Assembleia Legislativa.
+
+5 - Os locais de trabalho podem situar-se dentro ou fora da sede da Assembleia.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+###### Artigo 62.º — Antigos deputados
+
+1 - Os antigos deputados que tenham exercido mandato de deputado na Assembleia Legislativa da Região Autónoma da Madeira, durante pelo menos quatro anos, têm direito a um cartão de identificação próprio, conforme anexo V do presente diploma.
+
+2 - Os antigos deputados a que se refere o número anterior, têm, além de outros direitos e regalias que venham a ser fixados por despacho do Presidente da Assembleia, direito a livre trânsito no edifício da Assembleia Legislativa durante o período normal de funcionamento, o qual compreende a circulação e permanência nas instalações comuns e o direito de assistir às reuniões plenárias na galeria reservada aos convidados.
+
+3 - As associações constituídas por antigos deputados que reflitam pluralidade partidária e democrática, desde que reconhecidas por maioria de dois terços do Plenário da ALM como revestidas de interesse parlamentar, podem beneficiar de apoio logístico e financeiro à sua atividade.
+
+4 - O apoio previsto no número anterior é concedido por despacho do Presidente da Assembleia, mediante requerimento dos interessados e sob proposta do Conselho de Administração, ouvido o Conselho Consultivo.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+### Capítulo VIII — Regime financeiro
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+#### Secção I — Orçamento
+
+> Aditado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 63.º — Elaboração do orçamento
+
+1 - O projeto do orçamento anual é elaborado pelo Departamento Financeiro até ao dia 31 de outubro do ano anterior àquele a que respeita, sob a coordenação do secretário-geral da Assembleia Legislativa, de acordo com as orientações e objetivos previamente fixados pelo Conselho de Administração.
+
+2 - Apreciado o projeto do orçamento pelo Conselho de Administração, este submete-o, em anexo ao modelo da competente resolução, ao Presidente da Assembleia Legislativa que, após a obtenção do parecer emitido pelo Conselho Consultivo, o remete sob a forma de Projeto de Resolução, à Comissão Especializada competente.
+
+3 - Recebido o Relatório da Comissão, o Presidente da Mesa da Assembleia submete o Projeto de Resolução à votação em Plenário até 15 dias antes da apresentação do Orçamento da Região.
+
+4 - O orçamento é publicado no Diário da Assembleia Legislativa Regional, no Diário da República e no Jornal Oficial da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 64.º — Alterações orçamentais
+
+1 - As alterações do orçamento da Assembleia Legislativa, que envolvam o aumento ou a diminuição da despesa, são realizadas através de resoluções da Assembleia Legislativa, as quais serão elaboradas nos termos e com as devidas adaptações do artigo anterior.
+
+2 - Excluem-se do disposto do número anterior as alterações orçamentais que se traduzam em aplicações de saldos de gerência ou de receitas próprias, as quais serão efectuadas mediante despacho do Presidente da Assembleia Legislativa Regional, sob proposta do Conselho de Administração.
+
+3 - As transferências de verbas entre rubricas do orçamento, independentemente da natureza da sua classificação económica, são efetuadas mediante resolução do Conselho de Administração da Assembleia Legislativa.
+
+4 - As alterações orçamentais produzem efeitos desde que autorizadas pelas entidades competentes, sendo publicadas no Jornal Oficial da Região.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 65.º — Cativações orçamentais
+
+1 - Em casos excecionais devidamente fundamentados poderão ser descativadas as dotações do orçamento privativo da Assembleia Legislativa da Madeira, com compensação ou não em outras rubricas.
+
+2 - As descativações de verbas referidas no número anterior processam-se por deliberação do Conselho de Administração, de acordo com as necessidades da execução orçamental.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+###### Artigo 66.º — Receitas
+
+1 - Constituem receitas da Assembleia:
+
+a) As dotações inscritas no Orçamento da Região Autónoma da Madeira;
+
+b) Os saldos de anos findos;
+
+c) O produto das edições e publicações;
+
+d) Os direitos de autor;
+
+e) As resultantes da aplicação de fundos;
+
+f) As demais receitas que lhe forem atribuídas por lei, resolução da Assembleia, contrato, sucessão ou doação.
+
+2 - Os saldos positivos apurados no fim de cada ano económico são transferidos para a gerência do ano seguinte e distribuídos pelo Conselho de Administração pelas rubricas cujo reforço se mostre necessário nos termos do n.º 2 do artigo anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 67.º — Reserva de propriedade
+
+1 - A Assembleia é a única proprietária de toda a produção material resultante do seu funcionamento, sem prejuízo dos direitos de autor dos deputados.
+
+2 - É vedado a quaisquer órgãos da Administração Pública, empresas públicas ou nacionalizadas e a entidades privadas a edição ou a comercialização da produção referida no número anterior sem prévio assentimento do Presidente da Assembleia Legislativa Regional, manifestado nos termos da lei ou através de contrato.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 68.º — Autorização de despesas
+
+1 - São competentes para autorizar a realização de despesas:
+
+a) Sem limite, o Presidente da Assembleia Legislativa Regional;
+
+b) Até ao limite fixado para os Secretários Regionais do Governo da Região Autónoma, o Conselho de Administração da Assembleia Legislativa Regional;
+
+c) Até ao limite fixado para os órgãos máximos dos serviços e fundos autónomos da Região Autónoma, o Secretário-Geral da Assembleia Legislativa Regional.
+
+2 - São competentes para autorizar a realização de despesas sem concurso ou com dispensa de contrato escrito:
+
+a) Sem limite, o Presidente da Assembleia Legislativa Regional;
+
+b) Até ao limite fixado para os Secretários Regionais do Governo da Região Autónoma, o Conselho de Administração da Assembleia Legislativa Regional.
+
+3 - Sempre que tal se revele estritamente necessário, pode ser autorizada pelo Conselho de Administração, mediante proposta do Secretário-Geral, a realização de despesas com a aquisição de bens ou a prestação de serviços com dispensa de formalidades legais, sem prejuízo de, em todos os casos, serem observados procedimentos que preservem a transparência e a economia das contratações.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+> Alterado pelo/a Artigo 26.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+#### Secção II — Execução orçamental
+
+> Aditado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 69.º — Execução
+
+A execução do orçamento da Assembleia Legislativa Regional é feita através dos serviços, nos termos previstos neste diploma.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Aditado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 70.º — Requisição de fundos
+
+1 - O secretário-geral da Assembleia Legislativa pode requisitar mensalmente ao departamento competente do Governo Regional as importâncias que forem necessárias por conta da dotação global que lhe é consignada no Orçamento da Região.
+
+2 - As requisições de fundos para a Assembleia Legislativa processam-se, mensalmente, nos termos do disposto no presente artigo, por conta da dotação global que lhe é consignada no Orçamento da Região para despesas correntes e para despesas de capital, não estando sujeitas a cativações.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 31.º do/a [Decreto Legislativo Regional n.º 14/2005/M - Diário da República n.º 150/2005, Série I-A de 2005-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/14-2005-241858), em vigor a partir de 2005-08-06
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 71.º — Regime duodecimal
+
+Compete ao Presidente da Assembleia Legislativa Regional, mediante proposta do Conselho de Administração, autorizar a dispensa do regime duodecimal de qualquer das dotações orçamentais da Assembleia, bem como a antecipação, total ou parcial, dos respectivos duodécimos.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 72.º — Fundo de maneio
+
+O Conselho de Administração pode autorizar a constituição de fundos de maneio, a cargo dos responsáveis pelos serviços ou actividades, destinados ao pagamento directo de pequenas despesas, devendo fixar as regras a que obedece o seu controlo.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 73.º — Conta
+
+1 - O relatório e a conta são organizados pelos serviços competentes, sob a direta coordenação do secretário-geral da Assembleia Legislativa, que os submeterá, dentro do prazo legal, ao Conselho de Administração.
+
+2 - O Conselho de Administração, após aprovar o relatório e a conta, remete-os para parecer do Tribunal de Contas, Secção Regional da Madeira, nos termos da legislação em vigor, e obtido este parecer submete-os ao Presidente da Assembleia Legislativa para aprovação do Plenário, sem prejuízo da faculdade prevista na alínea c) do artigo 12.º-B.
+
+3 - A conta é publicada no Diário da Assembleia Legislativa, no Diário da República e no Jornal Oficial da Região.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+### Capítulo IX — Disposições finais e transitórias
+
+###### Artigo 74.º — Carreiras subsistentes
+
+A carreira técnica de informática parlamentar subsiste, enquanto existirem funcionários parlamentares nela integrados, mantendo-se quanto a estes o regime aplicável à data da entrada em vigor do presente diploma, designadamente para efeitos de procedimentos concursais, e extingue-se à medida que vagarem os correspondentes postos de trabalho, mantendo os funcionários o posicionamento remuneratório previsto nos artigos seguintes.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Retificado pelo/a [Declaração de Retificação n.º 57/2012 - Diário da República n.º 198/2012, Série I de 2012-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/57-2012-176366), produz efeitos a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 75.º — Transição de carreiras
+
+1 - Transitam para a categoria correspondente da carreira de consultor parlamentar os atuais funcionários parlamentares integrados na carreira de técnico superior parlamentar.
+
+2 - Os atuais funcionários parlamentares integrados na carreira técnica parlamental podem candidatar-se a um procedimento concursal único e específico, a abrir no prazo máximo de um ano a contar da data da entrada em vigor do presente diploma, para efeitos de integração na carreira de base da categoria de consultor parlamentar, em posição remuneratória não inferior à que detenham, o qual deve incluir:
+
+a) Realização de uma prova escrita de conhecimentos específicos para a respetiva área de especialidade;
+
+b) Avaliação curricular;
+
+c) Entrevista de avaliação de competências.
+
+3 - Transitam para a categoria correspondente da carreira de técnico de apoio parlamentar os funcionários parlamentares integrados nas carreiras de adjunto parlamentar, administrativo parlamentar, tesoureiro e de ecónomo parlamentar.
+
+4 - Transitam para a categoria correspondente da carreira de assistente operacional parlamentar os atuais funcionários parlamentares que se encontram integrados nas carreiras auxiliares e operárias.
+
+5 - Transita para a categoria de encarregado operacional parlamentar o atual encarregado de pessoal auxiliar, contando-se o período já decorrido na atual comissão de serviço para efeitos da eventual renovação da comissão de serviço.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+###### Artigo 76.º — Reposicionamento remuneratório
+
+1 - Na transição para a categoria das novas carreiras, os funcionários parlamentares são reposicionados na posição a que corresponda o nível remuneratório igual à respetiva remuneração base atual.
+
+2 - Em caso de falta de correspondência, os funcionários parlamentares são reposicionados em posição remuneratória automaticamente criada que corresponda ao valor da remuneração base a que atualmente têm direito.
+
+3 - Nos casos previstos no número anterior, a primeira alteração de posicionamento remuneratório far-se-á para a posição imediatamente a seguir àquela em que o funcionário parlamentar está posicionado, se desta não resultar um impulso salarial inferior ao montante pecuniário que estiver fixado na lei geral, sendo que, nesta situação, a alteração se efetuará para a posição remuneratória imediatamente seguinte.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Aditado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+###### Artigo 77.º — Integração de pessoal
+
+1 - O pessoal que à data de entrada em vigor do Orçamento da Assembleia Legislativa para o ano de 2012 se encontre a prestar serviço na Assembleia Legislativa, em regime de cedência de interesse público, mobilidade interna, comissão de serviço ou política pública de emprego, pode ser integrado no mapa de pessoal, de acordo com as seguintes regras:
+
+a) Para categoria idêntica à que o trabalhador já possui;
+
+b) Para categoria de outra carreira correspondente às funções que efetivamente desempenha, desde que se enquadre no conteúdo e no grau de complexidade funcional respetivos, mediante acordo celebrado com o dirigente máximo do serviço, que respeite o posicionamento remuneratório da categoria equivalente, bem como as habilitações académicas legalmente exigidas.
+
+2 - A integração prevista no número anterior é efetuada através da lista nominativa e nos termos previstos no regime legal estipulado para a transição de carreiras, a publicar no Jornal Oficial da Região Autónoma da Madeira.
+
+3 - Os funcionários que atualmente se encontram na situação de licença de longa duração são abrangidos por este diploma, para efeitos de integração nas carreiras e categorias, quando, nos termos da lei geral, regressarem ao serviço da Assembleia.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Aditado pelo/a Artigo 22.º do/a [Decreto Legislativo Regional n.º 16/2012/M - Diário da República n.º 156/2012, Série I de 2012-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2012-175275), em vigor a partir de 2012-08-14
+
+Aprovado em sessão plenária de 27 de Julho de 1989.
+
+O Presidente da Assembleia Regional, em exercício, António Gil Inácio da Silva.
+
+Assinado em 17 de Agosto de 1989.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa Regional n.º 15/2001/M - Diário da República n.º 120/2001, Série I-B de 2001-05-24](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/15-2001-332950)
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 10-A/2000/M - Diário da República n.º 98/2000, 2º Suplemento, Série I-A de 2000-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-a-2000-241999)
+
+## Organograma a que se refere o artigo 1.º, n.º 2 — Órgãos e serviços da Assembleia Legislativa Regional
+
+(ver documento original)
+
+## Anexo I — Carreira de consultor parlamentar
+
+(ver documento original)
+
+Carreira de técnico de apoio parlamentar
+
+(ver documento original)
+
+Carreira de assistente operacional parlamentar
+
+(ver documento original)
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+> Alterado pelo/a [Resolução da Assembleia Legislativa Regional n.º 11/95/M - Diário da República n.º 166/1995, Série I-B de 1995-07-20](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regional/11-1995-491375)
+
+> Alterado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 2/93/M - Diário da República n.º 43/1993, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1993-656824), em vigor a partir de 1993-02-21
+
+> Retificado pelo/a [Declaração - Diário da República n.º 276/1989, 1º Suplemento, Série I de 1989-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-192986), em vigor a partir de 1989-09-08
+
+## Anexo III — Cartão de identificação
+
+Modelo de cartão a que alude o n.º 2 do artigo 9.º, o n.º 1 do artigo 12.º e n.os 6 e 7 do artigo 20.º
+
+Modelo da face do cartão:
+
+(ver documento original)
+
+Modelo do verso do cartão:
+
+(ver documento original)
+
+Observações. - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo.
+
+Dimensões do cartão: 85,60 x 53,98 mm, correspondente ao formato ID-1 da norma internacional ISO/IEC 7810:2003.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+## Anexo IV — Cartão de identificação
+
+Modelo de cartão que alude o n.º 4 do artigo 30.º e o n.º 3 do artigo 45.º
+
+Modelo da face do cartão:
+
+(ver documento original)
+
+Modelo do verso do cartão:
+
+(ver documento original)
+
+Observações: - O cartão é de cor branca, com uma faixa diagonal, com as cores azul e ouro, no canto superior esquerdo.
+
+Dimensões do cartão: 85,60 x 53,98 mm, correspondente ao formato ID-1 da norma internacional ISO/IEC 7810:2003.
+
+Cartão de identificação
+
+Modelo de cartão a que alude o n.º 7 do artigo 46.º
+
+Modelo da face do cartão:
+
+(ver documento original)
+
+Modelo do verso do cartão:
+
+(ver documento original)
+
+Observações. - O cartão é de cor branca, com uma faixa diagonal com as cores azul e ouro no canto superior esquerdo.
+
+Dimensões do cartão: 85,60 x 53,98 mm, correspondente ao formato ID-1 da norma internacional ISO/IEC 7810:2003.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+## Anexo II — Cartão de identidade
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24
+
+## Anexo V — Cartão de identificação
+
+Modelo de cartão a que alude o n.º 1 do artigo 62.º
+
+Modelo da face do cartão:
+
+(ver documento original)
+
+Modelo do verso do cartão:
+
+(ver documento original)
+
+Observações. - O cartão é de cor branca, com uma faixa diagonal com as cores azul e ouro no canto superior esquerdo.
+
+Dimensões do cartão: 85,60 x 53,98 mm, correspondente ao formato ID-1 da norma internacional ISO/IEC 7810:2003.
+
+(ver documento original)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 13/2017/M - Diário da República n.º 99/2017, Série I de 2017-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2017-107061814), em vigor a partir de 2017-05-24

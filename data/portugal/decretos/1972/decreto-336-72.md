@@ -1,0 +1,338 @@
+---
+schema_version: '1.0'
+id: pt:dre:676604:por
+title: Decreto n.º 336/72
+short_title: null
+summary: Autoriza os Governos das províncias da Guiné e de Timor a abrir créditos especiais destinados a reforçar verbas da
+  tabela de despesa ordinária dos respectivos orçamentos gerais e adopta providências diversas relativas a outras províncias
+  ultramarinas
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: 336/72
+official_date: null
+publication_date: '1972-08-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 197/1972, Série I de 1972-08-24
+  number: '197'
+  series: I
+  supplement: null
+  pages: 1173 - 1175
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/08/19700/11731175.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '676604'
+  dre_path: /dr/detalhe/decreto/336-1972-676604
+  internal: pt:dre:676604:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/336-1972-676604
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/336-1972-676604
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:23:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5267bce67243dd34537d9d0ccd71ad321cb41b3a6845f0a2884e361a6fabec1d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:23:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:413603:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:413603:por
+  label: "Alterado o montante fixado no artigo 10.º pelo DEC.457/73.13.09.1973.MU, DG.IS [215] de 13.09.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/457-1973-413603
+  date: '1973-09-13'
+- type: cites
+  target: pt:dre:142287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:147810:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:229120:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:513835:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561063:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632226:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678578:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:23:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 336/72
+
+de 24 de Agosto
+
+Tornando-se necessário adoptar medidas que permitam a resolução de diversos problemas, alguns deles postos ao Ministério do Ultramar pelos governos das províncias ultramarinas;
+
+Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por motivo de urgência;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+
+I
+
+Disposições especiais
+
+A) Guiné
+
+Artigo 1.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 28817761$70, destinado a reforçar, com as quantias que se indicam, as seguintes verbas da tabela de despesa ordinária do orçamento geral em vigor, tomando como contrapartida os saldos das contas de exercícios findos:
+
+### CAPÍTULO 3.º — Aposentações, jubilações, pensões e reformas
+
+Despesas com o pessoal:
+
+Artigo 41.º «Pessoal guardando aposentação e reforma»:
+
+1) «Na metrópole»:
+
+a) «Para aposentação» ... 2000000$00
+
+### CAPÍTULO 4.º — Administração geral e fiscalização
+
+Repartição Provincial dos Serviços de Educação
+
+Pagamento de serviços:
+
+Artigo 85.º «Encargos administrativos - Fundo de bolsas e de apoio a estudantes» ... 712000$00
+
+Ensino liceal
+
+Liceu de Honório Barreto
+
+Despesas com o pessoal:
+
+Artigo 91.º «Remunerações certas ao pessoal em exercício»:
+
+4) «Para pagamento a professores de serviço eventual, nos termos do artigo 87.º do Decreto n.º 30508, de 17 de Setembro de 1947, com a redacção da Portaria Ministerial n.º 12238, de 9 de Janeiro de 1948» ... 500000$00
+
+Artigo 92.º «Remunerações acidentais»:
+
+3) «Gratificação ao pessoal docente e administrativo pelo ensino liceal extraordinário ([Decreto n.º 49157](https://diariodarepublica.pt/dr/detalhe/decreto/49157-1969-198969), de 15 de Julho de 1969, e Diploma Legislativo n.º 1907, de 27 de Outubro de 1970)» ... 400000$00
+
+Ensino profissional
+
+Escola Industrial e Comercial de Bissau
+
+Despesas com o pessoal:
+
+Artigo 99.º «Remunerações certas ao pessoal em exercício»:
+
+4) «Para pagamento a pessoal docente eventual» ... 500000$00
+
+Artigo 100.º «Remunerações acidentais»:
+
+1) «Para pagamento de tempos lectivos extraordinários» ... 100000$00
+
+Escola Preparatória do Ensino Secundário de Bissau
+
+Despesas com o pessoal:
+
+Artigo 107.º «Remunerações certas ao pessoal em exercício»:
+
+4) «Pessoal docente eventual» ... 1000000$00
+
+Artigo 108.º «Remunerações acidentais»:
+
+1) «Para pagamento de tempos lectivos extraordinários» ... 500000$00
+
+Ensino primário
+
+Despesas com o pessoal:
+
+Artigo 118.º «Remunerações certas ao pessoal em exercício»:
+
+4) «Para pagamento pessoal docente e assalariado eventual»:
+
+b) «Pessoal eventual» ... 3500000$00
+
+Pagamento de serviços:
+
+Artigo 126.º «Encargos administrativos»:
+
+«Subsídio ao Fundo de Cantinas Escolares e de Estâncias de Férias Infantis» ... 450000$00
+
+Mocidade Portuguesa
+
+Artigo 127.º «Subsídio global, nos termos do artigo 14.º do [Decreto-Lei n.º 39837](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39837-1954-678578), de 2 de Outubro de 1954, e artigo 9.º do [Decreto-Lei n.º 43271](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43271-1960-513835), de 26 de Outubro de 1960»:
+
+1) «Mocidade Portuguesa Masculina» ... 400000$00
+
+Serviços de Saúde e Higiene
+
+Pagamento de serviços:
+
+Artigo 162.º «Despesas de higiene, saúde e conforto»
+
+3) «Medicamentos, apósitos, vacinas, drogas, utensílios de farmácia, reagentes, aparelhos de laboratório e instrumentos cirúrgicos» ... 5000000$00
+
+Subdelegação da Direcção-Geral de Segurança
+
+Diversos serviços:
+
+Artigo 181.º «Encargos administrativos»:
+
+1). «Gastos confidenciais ou reservados» ... 1000000$00
+
+### CAPÍTULO 7.º — Serviços de Obras Públicas e Transportes
+
+Despesas com o material:
+
+Artigo 272.º «Despesas de conservação e aproveitamento»:
+
+1) «De imóveis» ... 800000$00
+
+3) «De estradas e pontes» ... 1000000$00
+
+### CAPÍTULO 10.º — Encargos gerais
+
+Artigo 371.º «Subsídios e pensões»:
+
+19) «Subsídios às câmaras, comissões municipais, juntas locais, concelhos e circunscrições (Diploma Legislativo n.º 1751, de 8 de Maio de 1961, e Diploma Legislativo n.º 1806, de 21 de Dezembro de 1963) e compensação pelo ajustamento de vencimentos e salários» ... 4655761$70
+
+Artigo 374.º «Deslocações de pessoal»:
+
+1) «Ajudas de custo dentro da província» ... 300000$00
+
+4) «Passagens de ou para o exterior»:
+
+a) «Por motivo de licença graciosa»:
+
+2.ª «A pagar na província» ... 500000$00
+
+Artigo 375.º «Diversas despesas»:
+
+3) «Despesas eventuais (artigo 1.º e § 2.º do artigo 6.º do Decreto n.º 22545, de 18 de Maio de 1933)
+
+b) «Não especificadas»:
+
+2.ª «A pagar na província» ... 2000000$00
+
+15) «Para aquisição de viaturas» ... 500000$00
+
+Artigo 378.º «Abono de família» ... 2000000$00
+
+CAPÍTULO 12.º
+
+Exercícios findos
+
+Artigo 383.º «Para pagamento de despesas não previstas [alínea b) do artigo 5.º de Decreto n.º 22545, de 18 de Maio de 1933]»:
+
+b) «A pagar na província» ... 600000$00
+
+Artigo 384.º «Para pagamento das despesas de exercícios findos referidos no artigo 57.º da [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição» ... 400000$00
+
+... 28817761$70
+
+B) S. Tomé e Príncipe
+
+Art. 2.º As categorias do pessoal da Polícia Rural do Corpo de Polícia da província e, bem assim, o número de unidades constantes do mapa anexo ao [Decreto n.º 43527](https://diariodarepublica.pt/dr/detalhe/decreto/43527-1961-561063), de 8 de Março de 1961, passam a ser os que se contêm no quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/08/19700/11731175.pdf)
+
+C) Angola
+
+Art. 3.º O lugar de desenhador principal referido no mapa II anexo ao [Decreto n.º 47360](https://diariodarepublica.pt/dr/detalhe/decreto/47360-1966-477306), de 2 de Dezembro de 1966, passa a incluir-se na categoria da letra M do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+
+Art. 4.º O quadro comum do pessoal directivo e administrativo do Instituto dos Cereais, aprovado pelo [Decreto n.º 207/70](https://diariodarepublica.pt/dr/detalhe/decreto/207-1970-142287), de 12 de Maio, é aumentado de dois lugares de chefe de divisão de 2.ª classe e reduzido de um chefe de divisão de 1.ª classe.
+
+D) Moçambique
+
+Art. 5.º É reduzido no quadro do Corpo de Polícia de Segurança Pública um lugar de comandante de secção e aumentado um de comissário.
+
+E) Timor
+
+Art. 6.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 1780773$90, destinado a reforçar a verba do capítulo 4.º, artigo 97.º, n.º 1 «Administração geral e fiscalização - Escolas primárias - Despesas com o pessoal - Remunerações acidentais - Remunerações a professores primários, professores de posto escolar e monitores, admitidos a título eventual», da tabela de despesa ordinária do orçamento geral da província para o corrente ano económico, tomando como contrapartida o saldo das contas de exercícios findos.
+
+II
+
+Disposições comuns
+
+Art. 7.º O pessoal dos Institutos de Investigação Médica de Angola e Moçambique que, nos termos do artigo 79.º, n.º 1, do [Decreto n.º 509/70](https://diariodarepublica.pt/dr/detalhe/decreto/509-1970-147810), de 29 de Outubro, transitou para os Institutos de Saúde Pública das mesmas províncias considera-se em exercício nestes a partir do dia 1 de Janeiro de 1971.
+
+Art. 8.º São autorizados os órgãos legislativos das províncias ultramarinas a fixar as gratificações devidas aos membros dos júris de exame dos alunos externos do ciclo preparatório do ensino secundário, do ensino liceal e do ensino técnico.
+
+Art. 9.º No mapa IV «Ramo de enfermagem», anexo ao [Decreto n.º 131/70](https://diariodarepublica.pt/dr/detalhe/decreto/131-1970-229120), de 26 de Março, os lugares de auxiliar de enfermagem de 2.ª classe passam a incluir-se na categoria da letra R.
+
+Art. 10.º É elevado para 9100000$00 o montante fixado pelo artigo 18.º do [Decreto n.º 572/71](https://diariodarepublica.pt/dr/detalhe/decreto/572-1971-632226), de 21 de Dezembro.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 7 de Agosto de 1972.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as provinciais ultramarinas. - J. da Silva Cunha.

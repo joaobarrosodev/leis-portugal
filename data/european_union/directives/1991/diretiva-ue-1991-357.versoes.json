@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0357:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0357-20031106",
+ "dre_path": null,
+ "source_lastmod": "2003-11-06",
+ "versions": [
+  {
+   "date": "1991-07-17",
+   "future": false,
+   "celex": "31991L0357",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2003-11-06",
+   "future": false,
+   "celex": "01991L0357-20031106",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "546f4aeda830f3e5"
+   ]
+  }
+ ],
+ "fragments": {
+  "546f4aeda830f3e5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0357 — PT — 06.11.2003 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991L0357) [DIRECTIVA DA COMISSÃO](http://publications.europa.eu/resource/celex/31991L0357) [de 13 de Junho de 1991](http://publications.europa.eu/resource/celex/31991L0357) [que fixa as categorias de matérias-primas para alimentação animal que podem ser utilizadas na rotulagem dos alimentos compostos destinados a animais com excepção dos animais de companhia](http://publications.europa.eu/resource/celex/31991L0357) [(91/357/CEE)](http://publications.europa.eu/resource/celex/31991L0357) (JO L 193, 17.7.1991, p.34)\n\n**revogado por:**\n\n- [Directiva 2002/2/CE do Parlamento Europeu e do Conselho de 28 de Janeiro de 2002](http://publications.europa.eu/resource/celex/32002L0002) — L 63 — 23 — 6.3.2002"
+  }
+ }
+}

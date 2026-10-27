@@ -1,0 +1,238 @@
+---
+schema_version: '1.0'
+id: pt:dre:599484:por
+title: Decreto Regulamentar n.º 4/87
+short_title: null
+summary: Dá nova redacção aos artigos 5.º e 65.º do Decreto Regulamentar n.º 42/83, de 20 de Maio, que reestrutura a orgânica
+  da Direcção-Geral das Contribuições e Impostos. Altera o quadro de pessoal dirigente da mesma Direcção-Geral
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 4/87
+official_date: null
+publication_date: '1987-01-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/1987, Série I de 1987-01-12
+  number: '9'
+  series: I
+  supplement: null
+  pages: 138 - 140
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/01/00900/01380140.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '599484'
+  dre_path: /dr/detalhe/decreto-regulamentar/4-1987-599484
+  internal: pt:dre:599484:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1987-599484
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1987-599484
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:14:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9623a0aaa80a335534d1ad8d5117d921ca133bd0b0fddb607658719784ca1056
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:14:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral das Contribuições e Impostos
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:326736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:327138:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461617:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493271:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:14:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 4/87
+
+de 12 de Janeiro
+
+A reforma fiscal em curso, cujo primeiro passo se traduziu na aplicação do imposto sobre o valor acrescentado, a que se seguirá a implantação do imposto único sobre o rendimento, só poderá atingir os resultados esperados se as providências já adoptadas ou que se preconizam relativamente à eficácia da tributação e às garantias e comodidade dos contribuintes forem acompanhadas de uma fiscalização eficiente que previna e combata a fraude e a evasão fiscais e contribua para a desejável equidade tributária. Para o efeito torna-se necessário, a par do incremento da acção fiscalizadora no âmbito distrital e local e do preenchimento dos quadros com pessoal qualificado, dotar os serviços centrais com uma estrutura que lhes permita fazer face às novas exigências de coordenação e controle da actividade de fiscalização tributária a nível nacional.
+
+Assim:
+
+O Governo decreta, nos termos do artigo 37.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro, e da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 5.º e 65.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, passam a ter a seguinte redacção:
+
+###### Artigo 5.º — Estrutura e atribuições
+
+1 - O Serviço de Fiscalização Tributária compreende, a nível central, as seguintes unidades orgânicas:
+
+a) Direcção de Serviços de Fiscalização Geral (DSFG);
+
+b) Direcção de Serviços de Fiscalização de Empresas (DSFE);
+
+c) Direcção de Serviços de Estudos e Planeamento da Fiscalização (DSEPF).
+
+2 - Incumbe à DSFG:
+
+a) Preparar e desencadear acções especiais de fiscalização que, por razões estratégicas ou outras, devam ser levadas a cabo por intermédio dos serviços centrais;
+
+b) Proceder a revisões das fiscalizações efectuadas no âmbito dos serviços distritais e locais, tendo em vista detectar as deficiências da acção fiscalizadora, propondo as correcções necessárias e assegurando a uniformidade de actuação dos referidos serviços;
+
+c) Proceder a exames e verificações de que for incumbida por decisão superior;
+
+d) Dinamizar a acção dos serviços distritais e locais em matéria de fiscalização tributária, detectar as insuficiências dos mesmos e propor as providências adequadas ao seu correcto funcionamento;
+
+e) Prestar apoio técnico aos serviços distritais e locais em matéria de fiscalização tributária e propor, quando for caso disso, as providências tendentes à uniformidade de actuação dos mesmos;
+
+f) Estudar e propor as providências adequadas ao combate à fraude e evasão fiscais;
+
+g) Coordenar e controlar a execução das providências respeitantes ao combate à fraude e evasão fiscais, propondo, quando for caso disso, a mobilização dos recursos humanos necessários;
+
+h) Executar quaisquer outras actividades que lhe sejam cometidas por lei ou decisão superior.
+
+3 - ...
+
+a) Elaborar instruções para a correcta aplicação da legislação relacionada com a fiscalização tributária;
+
+b) Organizar e manter actualizado o cadastro das sociedades e das pessoas físicas;
+
+c) Instruir os processos de inscrição de técnicos de contas, organizar o respectivo registo e efectuar os demais procedimentos relacionados com a respectiva disciplina;
+
+d) Propor a resolução dos problemas de índole administrativa relacionados com o número de contribuinte - pessoas singulares;
+
+e) Analisar a informação proveniente quer dos serviços, quer dos particulares, com interesse para a acção fiscalizadora, propondo o seu encaminhamento.
+
+4 - Incumbe à DSFE:
+
+a) Analisar, através de elementos declarados ou colhidos para o efeito e de exames às escritas, a situação tributária das empresas que, pela sua natureza especial, devam ser fiscalizadas directamente pelos serviços centrais, sem prejuízo de os exames às escritas acima referidos poderem ser efectuados no âmbito dos serviços distritais, de acordo com as instruções que lhes foram fornecidas;
+
+b) Organizar e manter actualizado o cadastro especial das empresas referidas na alínea anterior;
+
+c) Elaborar instruções em ordem à correcta aplicação da legislação relacionada com a fiscalização das empresas mencionadas na alínea anterior;
+
+d) Apoiar a coordenação e dinamização dos serviços periféricos no que se refere à fiscalização das empresas sujeitas a contribuição industrial do grupo A;
+
+e) Executar quaisquer outras actividades que resultem das suas atribuições específicas e de que seja incumbida por lei ou decisão superior.
+
+5 - Incumbe à DSEPF:
+
+a) Preparar os planos de actuação respeitantes à fiscalização tributária a nível nacional, em ordem à aplicação das políticas superiormente definidas quanto à acção fiscalizadora;
+
+b) Analisar os indicadores que permitam a avaliação dos resultados obtidos no domínio da fiscalização tributária, em conformidade com os planos aprovados, e propor as providências correctivas que se revelem necessárias;
+
+c) Conceber e manter em funcionamento o sistema de informações adequado à satisfação das necessidades operacionais dos serviços de fiscalização tributária;
+
+d) Fornecer aos serviços centrais e distritais a informação adequada à melhoria da eficácia e ao aumento da eficiência dos serviços de fiscalização tributária, designadamente através da selecção dos contribuintes que devam ser objecto de análise interna e externa;
+
+e) Realizar estudos e trabalhos técnicos que se revelem necessários para o adequado desempenho da actividade fiscalizadora;
+
+f) Preparar monografias sobre sectores económicos destinados a auxiliar a actuação dos funcionários afectos à fiscalização tributária;
+
+g) Colaborar com o Centro de Formação e Aperfeiçoamento Profissional na formação permanente dos funcionários, designadamente através da preparação de elementos de estudo;
+
+h) Elaborar pareceres sobre a aplicação da lei fiscal aos casos concretos que sejam submetidos à apreciação ou decisão dos serviços centrais de fiscalização tributária;
+
+i) Colaborar na elaboração das normas inerentes ao exercício das actividades fiscalizadoras, propondo as medidas de revisão e actualização que se revelem necessárias;
+
+j) Executar quaisquer outras actividades que lhe sejam cometidas por lei ou decisão superior.
+
+6 - Para o desempenho das atribuições previstas no n.º 2 do presente artigo, a DSFG dispõe, a nível regional, de unidades funcionais periféricas, cujo funcionamento será fixado por despacho do Ministro das Finanças, orientadas e coordenadas por supervisores tributários nomeados por aquele membro do Governo.
+
+7 - Para o desempenho das respectivas atribuições, a DSFE dispõe das seguintes unidades orgânicas:
+
+a) Divisão de Fiscalização Interna;
+
+b) Divisão de Fiscalização Externa.
+
+8 - Para o desempenho das suas atribuições, a DSEPF dispõe das seguintes unidades orgânicas:
+
+a) Divisão de Planeamento da Fiscalização, à qual incumbe especialmente a execução das atribuições previstas nas alíneas a) a d) do n.º 5 do presente artigo;
+
+b) Divisão de Estudos da Fiscalização, à qual incumbe especialmente a execução das atribuições previstas nas alíneas e) a j) do n.º 5 do presente artigo.
+
+9 - A DSFG e as divisões das Direcções de Serviços de Fiscalização de Empresas e de Estudos e Planeamento da Fiscalização poderão funcionar por equipas de trabalho e brigadas.
+
+10 - As equipas de trabalho e as brigadas são unidades orgânicas funcionais, com carácter permanente ou transitório, encarregadas do desempenho de tarefas específicas, sob a responsabilidade de um chefe de equipa ou de brigada, designado pelo director-geral, mediante proposta dos directores de serviços, de entre técnicos economistas com categoria igual ou superior a principal ou de entre supervisores tributários.
+
+11 - A acção dos serviços a que se refere o presente artigo processar-se-á em coordenação com as actividades de fiscalização e controle cometidas a outros serviços centrais, nos termos que vieram a ser definidos por despacho do director-geral.
+
+###### Artigo 65.º — Nomeação dos directores distritais de finanças e dos directores de finanças
+
+1 - (Actual corpo do artigo.)
+
+2 - Os lugares de director de finanças referidos no n.º 2 do artigo 13.º do [Decreto Regulamentar n.º 54/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1980-461617), de 30 de Setembro, podem ainda ser preenchidos de entre técnicos economistas do quadro de pessoal da Direcção-Geral com categoria igual ou superior a principal, aplicando-se-lhes o disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+
+Art. 2.º - 1 - O provimento do lugar de director de Serviços de Estudos e Planeamento da Fiscalização é feito de entre administradores tributários ou de entre técnicos economistas com categoria igual ou superior a principal.
+
+2 - O provimento de chefes das divisões referidas nos n.os 7 e 8 far-se-á de entre técnicos economistas com categoria igual ou superior a principal ou de entre supervisores tributários.
+
+Art. 3.º O quadro de pessoal dirigente da Direcção-Geral das Contribuições e Impostos, aprovado pelo [Decreto Regulamentar n.º 16/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1985-327138), de 28 de Fevereiro, é aumentado dos lugares constantes do mapa anexo a este decreto.
+
+Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+Promulgado em 18 de Dezembro de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 24 de Dezembro de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Alteração ao quadro de pessoal dirigente da Direcção-Geral das Contribuições e Impostos, de acordo com o previsto no artigo 3.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/01/00900/01380140.pdf)

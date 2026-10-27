@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:3008079:por
+title: Portaria n.º 1856/2001 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Justiça e da Reforma do Estado e da Administração Pública
+proposing_entity: null
+official_number: 1856/2001 (2.ª série)
+official_date: null
+publication_date: '2001-11-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 265/2001, Série II de 2001-11-15
+  number: '265'
+  series: II
+  supplement: null
+  pages: 18808 - 18808
+  pdf_url: https://files.diariodarepublica.pt/2s/2001/11/265000000/1880818808.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3008079'
+  dre_path: /dr/detalhe/portaria/1856-2001-3008079
+  internal: pt:dre:3008079:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1856-2001-3008079
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1856-2001-3008079
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:19:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 74d0b669d7d0d81f47a88d1394156a761532426610f7c4f35db4d747040e22b5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:19:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira de Administração Prisional
+- Criação de Lugares
+- Direcção Geral dos Serviços Prisionais
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:391578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:582196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:648134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692052:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:960650:por
+  label: "Rectificada pela RECT.641/2002.2002.03.07.MJ, DR.IIS [67] de 20/Mar/2002\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/641-2002-960650
+  date: '2002-03-07'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:19:44Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1856/2001 (2.ª série)
+
+Portaria n.º 1856/2001 (2.ª série). - Considerando que a licenciada Maria Manuela da Silva Martins, administradora prisional do 4.º grau, da carreira de administração prisional, do quadro de pessoal comum da Direcção-Geral dos Serviços Prisionais, cessou em 13 de Outubro de 2000 o exercício de funções em cargo dirigente, como directora de estabelecimento prisional regional, e reúne os requisitos necessários para acesso à categoria de administradora prisional do 1.º grau;
+
+Considerando o disposto no artigo 3.º do [Decreto-Lei n.º 34/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1993-648134), de 13 de Fevereiro, mantido em vigor pelo artigo 40.º da [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho, e nos n.os 6 e 8 do artigo 32.º da [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho:
+
+Manda o Governo, pelos Ministros da Justiça e da Reforma do Estado e da Administração Pública, o seguinte:
+
+1.º É criado no quadro de pessoal comum da Direcção-Geral dos Serviços Prisionais, aprovado pelo [Decreto-Lei n.º 268/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1981-563002), de 16 de Setembro, alterado pelas Portarias n.os [316/87](https://diariodarepublica.pt/dr/detalhe/portaria/316-1987-666119), de 16 de Abril, e [954/99](https://diariodarepublica.pt/dr/detalhe/portaria/954-1999-692052), de 30 de Outubro, um lugar de administradora prisional do 1.º grau, da carreira de administração prisional, conforme previsto no [Decreto-Lei n.º 351/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1999-582196), de 3 de Setembro, a extinguir quando vagar.
+
+2.º A criação do lugar referido no parágrafo anterior produz efeitos desde 13 de Outubro de 2000.
+
+26 de Outubro de 2001. - O Ministro da Justiça, António Luís Santos Costa. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.

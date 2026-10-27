@@ -1,0 +1,153 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0036:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0036-20130711",
+ "dre_path": null,
+ "source_lastmod": "2013-07-11",
+ "versions": [
+  {
+   "date": "2009-04-17",
+   "future": false,
+   "celex": "32009L0036",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "273088196411497a",
+    "168f075ca15f7c5c",
+    "0dbb37dbd1f25734",
+    "121bc7f29193c6b3",
+    "df168af816b94a0d",
+    "13bf5cbdb097f8ed"
+   ]
+  },
+  {
+   "date": "2009-05-07",
+   "future": false,
+   "celex": "02009L0036-20090507",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Notas",
+    "Adita ANEXO"
+   ],
+   "fragments": [
+    "237fffa9143880d5",
+    "168f075ca15f7c5c",
+    "0dbb37dbd1f25734",
+    "121bc7f29193c6b3",
+    "5c8b3cd719ea97c8",
+    "75a5ab1a78dbbfd6",
+    "85059a651d76511d"
+   ]
+  },
+  {
+   "date": "2013-07-11",
+   "future": false,
+   "celex": "02009L0036-20130711",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e4a5df1c52ba7563"
+   ]
+  }
+ ],
+ "fragments": {
+  "273088196411497a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Abril de 2009\n\nque altera a Directiva 76/768/CEE do Conselho, relativa aos produtos cosméticos, a fim de adaptar o seu anexo III ao progresso técnico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos [([^1])](http://publications.europa.eu/resource/cellar/ab922018-c3ec-4c84-81fe-37ac53abdcf0.0018.02/DOC_1#ntr1-L_2009098PT.01003101-E0001), nomeadamente o n.º 2 do artigo 8.º,\n\nApós consulta do Comité Científico dos Produtos de Consumo,\n\nConsiderando o seguinte:\n\n(1) No seguimento da publicação, em 2001, de um estudo científico intitulado «*Use of permanent hair dyes and bladder cancer risk*», o Comité Científico dos Produtos Cosméticos e dos Produtos não Alimentares Destinados aos Consumidores, actualmente designado Comité Científico dos Produtos de Consumo (a seguir, «CCPC») [([^2])](http://publications.europa.eu/resource/cellar/ab922018-c3ec-4c84-81fe-37ac53abdcf0.0018.02/DOC_1#ntr2-L_2009098PT.01003101-E0002), concluiu que os riscos potenciais constituíam motivo de preocupação, tendo recomendado à Comissão que tomasse medidas adicionais para controlar a utilização das substâncias que entram na composição de corantes capilares.\n\n(2) O CCPC recomendou uma estratégia geral de avaliação da segurança das substâncias que entram na composição de corantes capilares, incluindo os requisitos a aplicar na realização de ensaios da potencial genotoxicidade/mutagenicidade de corantes capilares.\n\n(3) Tendo em conta os pareceres do CCPC, a Comissão, os Estados-Membros e as partes interessadas acordaram numa estratégia geral para estabelecer a disciplina em matéria de substâncias que entram na composição de corantes capilares, segundo a qual se solicitou à indústria que apresentasse um caderno técnico com dados científicos sobre as substâncias que entram na composição de corantes capilares que o CCPC deve avaliar.\n\n(4) As substâncias para as quais foram apresentados ficheiros de segurança actualizados estão actualmente a ser avaliadas pelo CCPC. O CCPC já emitiu pareceres finais para 17 corantes capilares. Por conseguinte, estes corantes capilares podem ser definitivamente regulados, com base nas referidas avaliações.\n\n(5) A Directiva 76/768/CEE deve, por conseguinte, ser alterada em conformidade.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Produtos Cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "168f075ca15f7c5c": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo III da Directiva 76/768/CEE é alterado em conformidade com o anexo da presente directiva."
+  },
+  "0dbb37dbd1f25734": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros adoptarão e publicarão, o mais tardar em 15 de Novembro de 2009, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros comunicarão imediatamente à Comissão o texto dessas disposições.\n\nOs Estados-Membros aplicarão as disposições previstas no anexo da presente directiva a partir de 15 de Maio de 2010.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros.\n\n2. Os Estados-Membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva."
+  },
+  "121bc7f29193c6b3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "df168af816b94a0d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 16 de Abril de 2009.\n\n***Pela Comissão***\n\n**Günter VERHEUGEN**\n\n***Vice-Presidente***\n\n---"
+  },
+  "13bf5cbdb097f8ed": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/ab922018-c3ec-4c84-81fe-37ac53abdcf0.0018.02/DOC_1#ntc1-L_2009098PT.01003101-E0001) [JO L 262 de 27.9.1976, p. 169](http://publications.europa.eu/resource/oj/JOL_1976_262_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/ab922018-c3ec-4c84-81fe-37ac53abdcf0.0018.02/DOC_1#ntc2-L_2009098PT.01003101-E0002) A designação do comité foi alterada pela Decisão 2004/210/CE da Comissão ([JO L 66 de 4.3.2004, p. 45](http://publications.europa.eu/resource/oj/JOL_2004_066_R_TOC))."
+  },
+  "237fffa9143880d5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Abril de 2009\n\nque altera a Directiva 76/768/CEE do Conselho, relativa aos produtos cosméticos, a fim de adaptar o seu anexo III ao progresso técnico\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/768/CEE do Conselho, de 27 de Julho de 1976, relativa à aproximação das legislações dos Estados-Membros respeitantes aos produtos cosméticos ([^1^](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0001)), nomeadamente o n.º 2 do artigo 8.º,\n\nApós consulta do Comité Científico dos Produtos de Consumo,\n\n(1) No seguimento da publicação, em 2001, de um estudo científico intitulado «*Use of permanent hair dyes and bladder cancer risk*», o Comité Científico dos Produtos Cosméticos e dos Produtos não Alimentares Destinados aos Consumidores, actualmente designado Comité Científico dos Produtos de Consumo (a seguir, «CCPC») ([^2^](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0002)), concluiu que os riscos potenciais constituíam motivo de preocupação, tendo recomendado à Comissão que tomasse medidas adicionais para controlar a utilização das substâncias que entram na composição de corantes capilares.\n\n(2) O CCPC recomendou uma estratégia geral de avaliação da segurança das substâncias que entram na composição de corantes capilares, incluindo os requisitos a aplicar na realização de ensaios da potencial genotoxicidade/mutagenicidade de corantes capilares.\n\n(3) Tendo em conta os pareceres do CCPC, a Comissão, os Estados-Membros e as partes interessadas acordaram numa estratégia geral para estabelecer a disciplina em matéria de substâncias que entram na composição de corantes capilares, segundo a qual se solicitou à indústria que apresentasse um caderno técnico com dados científicos sobre as substâncias que entram na composição de corantes capilares que o CCPC deve avaliar.\n\n(4) As substâncias para as quais foram apresentados ficheiros de segurança actualizados estão actualmente a ser avaliadas pelo CCPC. O CCPC já emitiu pareceres finais para 17 corantes capilares. Por conseguinte, estes corantes capilares podem ser definitivamente regulados, com base nas referidas avaliações.\n\n(5) A Directiva 76/768/CEE deve, por conseguinte, ser alterada em conformidade.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Produtos Cosméticos,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "5c8b3cd719ea97c8": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "75a5ab1a78dbbfd6": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nA Directiva 76/768/CEE é alterada do seguinte modo:\n\n1. Na parte 1 do anexo III são aditados os números de ordem 189 a 2005 seguintes:\n\n| Número de ordem | Substâncias | Restrições | Condições de utilização e advertências a fazer obrigatoriamente na rotulagem |  |  |\n| --- | --- | --- | --- | --- | --- |\n| Campo de aplicação e/ou utilização | Concentração máxima autorizada no produto cosmético acabado | Outras limitações e exigências |  |  |  |\n| a | b | c | d | e | f |\n| «189 | 5-hidroxi-1-(4-sulfofenil)-4-(4-sulfofenilazo)pirazole-3-carboxilato de trissódio e laca de alumínio [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) Acid Yellow 23 CAS 1934-21-0 Einecs 217-699-5 Acid Yellow 23 Aluminum lake CAS 12225-21-7 Einecs 235-428-9 CI 19140 | Corante capilar em produtos de coloração capilar não-oxidantes | 0,5 % |  |  |\n| 190 | N-etil-N-[4-[[4-[etil-[(3-sulfofenil)metil]-amino]-fenil] [2-sulfofenil)metileno]-2,5-ciclo-hexadien-1-ilideno]-3-sulfo-benzenometanamínio, sal interno, sal dissódico e seus sais de amónio e de alumínio [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) Acid Blue 9 CAS 3844-45-9 Einecs 223-339-8 Acid Blue 9 Ammonium salt CAS 2650-18-2 Einecs 220-168-0 Acid Blue 9 Aluminum lake CAS 68921-42-6 Einecs 272-939-6 CI 42090 | Corante capilar em produtos de coloração capilar não-oxidantes | 0,5 % |  |  |\n| 191 | 6-hidroxi-5-[(2-metoxi-4-sulfonato-m-tolil)azo]naftaleno-2-sulfonato de dissódio [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) Curry Red CAS 25956-17-6 Einecs 247-368-0 CI 16035 | Corante capilar em produtos de coloração capilar não-oxidantes | 0,4 % |  |  |\n| 192 | 1-(1-naftilazo)-2-hidroxinaftaleno-4′,6,8-trissulfonato de trissódio e laca de alumínio [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) Acid Red 18 CAS 2611-82-7 Einecs 220-036-2 Acid Red 18 Aluminum lake CAS 12227-64-4 Einecs 235-438-3 CI 16255 | Corante capilar em produtos de coloração capilar não-oxidantes | 0,5 % |  |  |\n| 193 | hidrogeno-3,6-bis(dietilamino)-9-(2,4-dissulfonatofenil)xantílio, sal de sódio [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) Acid Red 52 CAS 3520-42-1 Einecs 222-529-8 CI 45100 | a) Corante capilar em produtos de coloração capilar oxidantes b) Corante capilar em produtos de coloração capilar não-oxidantes | b) 0,6 % | a) Após mistura em condições oxidantes, a concentração máxima aplicada ao cabelo não pode exceder 1,5 % | a) A proporção da mistura tem de ser impressa no rótulo |\n| 194 | 5-amino-4-hidroxi-3-(fenilazo)- naftaleno-2,7-dissulfonato de dissódio [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) Acid Red 33 CAS 3567-66-6 Einecs 222-656-9 CI 17200 | Corante capilar em produtos de coloração capilar não-oxidantes | 0,5 % |  |  |\n| 195 | 1-amino-4-(ciclo-hexilamino)-9,10-di-hidro-9,10-dioxoantraceno-2-sulfonato de sódio [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) Acid Blue 62 CAS 4368-56-3 Einecs 224-460-9 CI 62045 | Corante capilar em produtos de coloração capilar não-oxidantes | 0,5 % | — Não utilizar com agentes nitrosantes — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos |  |\n| 196 | 1-[(2′-metoxietil)amino]-2-nitro-4-[di-(2′-hidroxietil)amino]benzeno [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) HC Blue No 11 CAS 23920-15-2 Einecs 459-980-7 | Corante capilar em produtos de coloração capilar não-oxidantes | 2,0 % | — Não utilizar com agentes nitrosantes — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos |  |\n| 197 | 1,5-di(β-hidroxietilamino)-2-nitro-4-clorobenzeno [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) HC Yellow No 10 CAS 109023-83-8 Einecs 416-940-3 | Corante capilar em produtos de coloração capilar não-oxidantes | 0,1 % | — Não utilizar com agentes nitrosantes — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos |  |\n| 198 | 3-metilamino-4-nitrofenoxietanol [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) 3-Methylamino-4-nitrophenoxyethanol (INCI) CAS 59820-63-2 Einecs 261-940-7 | Corante capilar em produtos de coloração capilar não-oxidantes | 0,15 % | — Não utilizar com agentes nitrosantes — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos |  |\n| 199 | 2,2′-[[4-[(2-hidroxietil)amino]-3-nitrofenil]imino]bisetanol [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) HC Blue No 2 CAS 33229-34-4 Einecs 251-410-3 | Corante capilar em produtos de coloração capilar não-oxidantes | 2,8 % | — Não utilizar com agentes nitrosantes — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos | Pode provocar reacções alérgicas |\n| 200 | 3-[[4-[bis(2-hidroxietil)amino]-2-nitrofenil]amino]-1-propanol [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) HC Violet No 2 CAS 104226-19-9 Einecs 410-910-3 | Corante capilar em produtos de coloração capilar não-oxidantes | 2,0 % | — Não utilizar com agentes nitrosantes — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos | Pode provocar reacções alérgicas |\n| 201 | 2-cloro-6-(etilamino)-4-nitrofenol [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) 2-Chloro-6-ethylamino-4-nitrophenol CAS 131657-78-8 Einecs 411-440-1 | Corante capilar em produtos de coloração capilar não-oxidantes | 3,0 % | — Não utilizar com agentes nitrosantes — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos | Pode provocar reacções alérgicas |\n| 202 | 4,4′-[1,3-propanodiilbis(oxi)]bisbenzeno-1,3-diamina e o seu sal tetracloridrato [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) 1,3-bis-(2,4-Diaminophenoxy)propane CAS 81892-72-0 Einecs 279-845-4 1,3-bis-(2,4-Diaminophenoxy)propane HCl CAS 74918-21-1 Einecs 278-022-7 | a) Corante capilar em produtos de coloração capilar oxidantes b) Corante capilar em produtos de coloração capilar não-oxidantes | b) 1,2 % em base livre (1,8 % em sal tetracloridrato) | a) Após mistura em condições oxidantes, a concentração máxima aplicada ao cabelo não pode exceder 1,2 % calculada em base livre (1,8 % em sal tetracloridrato) | a) A proporção da mistura tem de ser impressa no rótulo Para a) e b): Pode provocar reacções alérgicas |\n| 203 | 6-metoxi-N2-metil-2,3-piridinodiamina, cloridrato e dicloridrato [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) 6-Methoxy-2-methylamino-3-aminopyridine HCl CAS 90817-34-8 (HCl) CAS 83732-72-3 (2HCl) Einecs 280-622-9 (2HCl) | a) Corante capilar em produtos de coloração capilar oxidantes b) Corante capilar em coloração capilar não-oxidante | b) 0,68 % em base livre (1,0 % em dicloridrato) | a) Após mistura em condições oxidantes, a concentração máxima aplicada ao cabelo não pode exceder 0,68 % calculada em base livre (1,0 % em dicloridrato). Para a) e b): — Não utilizar com agentes nitrosantes — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos | a) A proporção da mistura tem de ser impressa no rótulo Para a) e b): Pode provocar reacções alérgicas |\n| 204 | 2,3-di-hidro-1H-indole-5,6-diol e seu sal bromidrato [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) Dihydroxyindoline CAS 29539-03-5 Dihydroxyindoline HBr CAS 138937-28-7 Einecs 421-170-6 | Corante capilar em produtos de coloração capilar não-oxidantes | 2,0 % |  | Pode provocar reacções alérgicas |\n| 205 | 4-hidroxipropilamino-3-nitrofenol [(^1^)](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#E0003) 4-Hydroxypropylamino-3-nitrophenol (INCI) CAS 92952-81-3 Einecs 406-305-9 | a) Corante capilar em produtos de coloração capilar oxidantes b) Corante capilar em produtos de coloração capilar não-oxidantes | b) 2,6 % | a) Após mistura em condições oxidantes, a concentração máxima aplicada ao cabelo não pode exceder 2,6 % calculada em base livre. Para a) e b): — Não utilizar com agentes nitrosantes — Teor máximo de nitrosaminas: 50 μg/kg — Conservar em recipientes que não contenham nitritos | a) A proporção da mistura tem de ser impressa no rótulo |\n| (^1^)É permitida a utilização da base livre e dos sais deste ingrediente de corante capilar, excepto se a mesma for proibida ao abrigo do anexo II». |  |  |  |  |  |\n\n2. É suprimida a secção b nas colunas «c» e «d» da entrada 55 da parte 2 do anexo III.\n\n3. Na parte 2 do anexo III, são suprimidos os números de ordem 7, 9, 14, 18, 24, 28, 47 e 58.\n\n---"
+  },
+  "85059a651d76511d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#src.E0001)) JO L 262 de 27.9.1976, p. 169.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d8a0bdd0-b964-4c3a-9442-36d2bec1d559.0018.03/DOC_1#src.E0002)) A designação do comité foi alterada pela Decisão 2004/210/CE da Comissão (JO L 66 de 4.3.2004, p. 45)."
+  },
+  "e4a5df1c52ba7563": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2009L0036 — PT — 11.07.2013 — 001.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32009L0036) [DIRECTIVA 2009/36/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32009L0036) [de 16 de Abril de 2009](http://publications.europa.eu/resource/celex/32009L0036) [que altera a Directiva 76/768/CEE do Conselho, relativa aos produtos cosméticos, a fim de adaptar o seu anexo III ao progresso técnico](http://publications.europa.eu/resource/celex/32009L0036) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32009L0036) (JO L 098, 17.4.2009, p.31)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1223/2009 do Parlamento Europeu e do Conselho de 30 de Novembro de 2009](http://publications.europa.eu/resource/celex/32009R1223) — L 342 — 59 — 22.12.2009"
+  }
+ }
+}

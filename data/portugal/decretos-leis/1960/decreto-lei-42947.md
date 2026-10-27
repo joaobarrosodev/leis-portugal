@@ -1,0 +1,227 @@
+---
+schema_version: '1.0'
+id: pt:dre:281448:por
+title: Decreto-Lei n.º 42947
+short_title: null
+summary: Estabelece o regime da liquidação às pessoas de família a cargo dos servidores do Estado, civis e militares, dos
+  vencimentos, salários ou quaisquer outras remunerações certas, correspondentes aos lugares que os mesmos ocupavam e em relação
+  tanto ao mês em que se der a morte como ao mês seguinte
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '42947'
+official_date: null
+publication_date: '1960-04-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 98/1960, Série I de 1960-04-27
+  number: '98'
+  series: I
+  supplement: null
+  pages: 1011 - 1012
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/04/09800/10111012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '281448'
+  dre_path: /dr/detalhe/decreto-lei/42947-1960-281448
+  internal: pt:dre:281448:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42947-1960-281448
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42947-1960-281448
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:32:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d85cf404b19adae8feb854c47876905d1ccf16f97016039b186da7c06bfd849f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:32:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Função Pública
+- Funcionário Público
+- Militar
+- Prestações Familiares
+- Remuneração
+- Segurança Social
+- Subsídio por Morte
+relationships:
+- type: amended_by
+  target: pt:dre:551194:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:156640:por
+  label: "Ampliados os prazos fixados no art. 9º pelo DEC LEI.44627.1962.10.15.MF, DG.IS [237]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44627-1962-156640
+  date: '1962-10-15'
+- type: cites
+  target: pt:dre:441912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:398130:por
+  label: "Revogada a parte final do § único do artº 12º pelo DEC LEI.54/72.1972.02.15.MF, DG.IS [38]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/54-1972-398130
+  date: '1972-02-15'
+- type: repealed_by
+  target: pt:dre:299226:por
+  label: "Revogado o art. 3º, pelo DEC LEI.265/78.30.08.1978.MFP, DR.IS [199] de 30.08.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1978-299226
+  date: '1978-08-30'
+- type: repealed_by
+  target: pt:dre:551194:por
+  label: "Revogado pelo DEC LEI.223/95.1995.09.08.MF, DR.IS-A [208]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/223-1995-551194
+  date: '1995-09-08'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:32:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 42947
+
+O artigo 10.º da [Lei n.º 2101](https://diariodarepublica.pt/dr/detalhe/lei/2101-1959-441912), de 19 de Dezembro de 1959, estabeleceu que, por morte dos servidores do Estado, ocorrida a partir de 1 de Janeiro de 1960, as pessoas de família a seu cargo, como tal definidas na lei, terão direito a receber, mediante processo simplificado, o vencimento completo do mês em que se der a morte e ainda o do mês seguinte.
+
+Visa esta disposição, por um lado, facultar às famílias dos servidores falecidos os meios necessários para ocorrer às despesas que ordinàriamente se fazem sentir com maior premência logo após o falecimento e, por outro lado, imprimir simplicidade e rapidez ao processo de liquidação dos abonos.
+
+Dando execução ao preceituado no referido artigo 10.º da [Lei n.º 2101](https://diariodarepublica.pt/dr/detalhe/lei/2101-1959-441912), concedem-se pelo presente diploma às famílias que viviam a cargo dos servidores falecidos não só as remunerações de todo o mês em que se verificar o óbito, se estas não tiverem sido já recebidas, como as do mês imediato; e consideram-se tais abonos, quando requeridos por aquelas famílias, independentes dos bens a partilhar segundo os preceitos reguladores das transmissões por herança, estabelecendo-se regras simplificadas de liquidação que permitam a rápida entrega das respectivas importâncias.
+
+Nestes termos:
+
+Em cumprimento do disposto no artigo 10.º da [Lei n.º 2101](https://diariodarepublica.pt/dr/detalhe/lei/2101-1959-441912), de 19 de Dezembro de 1959;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º As pessoas de família a cargo dos servidores do Estado, civis e militares, terão direito a receber, por morte destes, os vencimentos, salários ou quaisquer outras remunerações certas, correspondentes aos lugares que os mesmos ocupavam e em relação tanto ao mês em que se der a morte como ao mês seguinte.
+
+§ 1.º O disposto no corpo deste artigo abrange todos os servidores nomeados, contratados e assalariados de carácter permanente, incluindo os assistidos pela assistência aos funcionários tuberculosos, bem como os militares na situação de reserva, e ainda os servidores em regime eventual que, encontrando-se vinculados ao Estado, tenham prestado serviço por período não inferior a seis meses.
+
+§ 2.º Não conferem o direito à percepção dos abonos os servidores que se encontrem de licença ilimitada ou em situação, não prevista no parágrafo anterior, que tenha determinado a abertura de vaga.
+
+Art. 2.º Os abonos de que trata o artigo anterior serão efectuados à pessoa de família a cargo do servidor por ele prèviamente indicada em declaração depositada no competente serviço processador; na falta, extravio ou inoperância de tal declaração, será a liquidação feita a um dos membros da mesma família, mediante petição a apresentar, de acordo com a seguinte ordem de precedência;
+
+1.º O cônjuge sobrevivo, se não houver separação, judicial ou de facto;
+
+2.º O mais velho dos descendentes do grau mais próximo;
+
+3.º Um dos ascendentes do servidor, ou, na sua falta, do seu cônjuge, do grau mais próximo;
+
+4.º Outro parente, segundo a ordem de sucessão legítima, e, em igualdade de condições, o mais velho.
+
+§ único. Se o direito à percepção dos abonos recair em indivíduo menor ou interdito e se não apresentar a exercê-lo o respectivo representante legal, poderá a liquidação ser feita a pessoa de família que tenha ficado com o encargo da sua manutenção ou, não se verificando este caso, a pessoa idónea sob cuja dependência se encontre o menor ou interdito, sem prejuízo, porém, de oportuna prestação de contas a quem venha a provar estar legalmente investido na representação.
+
+Art. 3.º As importâncias a liquidar nos termos do artigo 1.º têm o carácter de subsídio por morte, pelo que a sua transmissão está isenta de quaisquer imposições legais, incluindo o pagamento de emolumentos; ficam, todavia, sujeitos ao imposto do selo os documentos a juntar às petições dos interessados.
+
+Art. 4.º A liquidação a fazer obedecerá às seguintes normas:
+
+a) Em relação ao mês em que se der a morte, os abonos e os respectivos descontos, assim como quaisquer deduções, são os do mês completo, conforme o processamento, feito ou a fazer, com base nos elementos a que esse processamento normalmente deva atender;
+
+b) Em relação ao mês seguinte, os abonos são os correspondentes às totalidades mensais das remunerações certas do falecido, incluindo o abono de família, sem as deduções e os descontos a que estavam sujeitos, excepto o do imposto do selo.
+
+§ 1.º Tratando-se de salários e, de uma maneira geral, de remunerações que, não sendo de quantitativo certo em cada mês, possam reportar-se a cada dia de serviço, o abono mensal a considerar será o correspondente a 30 vezes o abono diário.
+
+§ 2.º Tratando-se de servidores cujas remunerações estejam estabelecidas por forma a não lhes ser aplicável o disposto no parágrafo anterior, o quantitativo do abono, se não puder ser determinado por paridade com o de outro servidor do mesmo organismo prestando serviço em idêntico regime, será o que corresponder ao do último mês completo do exercício das respectivas funções, num e noutro caso sem atenção a circunstâncias determinantes de qualquer dedução ocasional.
+
+§ 3.º As penas disciplinares não produzem efeitos nos abonos para além dos do mês em que se der a morte salvo na hipótese prevista na última parte do § 2.º do artigo 1.º
+
+Art. 5.º Quaisquer importâncias devidas pelo Estado a servidores falecidos que não estejam abrangidas pelo artigo anterior, designadamente as que tenham sido ou devam ser calculadas de harmonia com o serviço efectivamente prestado, acrescerão às que forem liquidadas nos termos do mesmo artigo.
+
+Art. 6.º Aos quantitativos liquidados deduzir-se-ão as importâncias que eventualmente tiverem sido abonadas ao servidor por antecipação ou com o carácter de adiantamento, salvo se outra forma de reembolso estiver legalmente prevista ou for autorizada pelo Ministro da respectiva pasta, com o acordo do Ministro das Finanças, a obter por intermédio da Direcção-Geral da Contabilidade Pública.
+
+Art. 7.º O direito à percepção dos abonos autorizados pelo presente diploma é inalienável e impenhorável.
+
+Art. 8.º As declarações a apresentar pelos servidores e as petições para o recebimento das quantias que forem devidas serão feitas em impressos de modelo, uniforme a aprovar por portaria assinada pelo Ministro das Finanças.
+
+Art. 9.º As petições deverão ser apresentadas nos serviços processadores dos abonos no prazo de 45 dias, a contar da recepção do aviso que, em todos os casos, os mesmos serviços dirigirão à família dos servidores falecidos.
+
+§ 1.º As petições serão acompanhadas das respectivas certidões de óbito, cuja apresentação, porém, poderá ser diferida, em casos devidamente justificados.
+
+§ 2.º O aviso referido no corpo deste artigo será expedido no prazo máximo do cinco dias, a contar da data em que no serviço tenha havido conhecimento do falecimento do servidor; se vierem a apurar-se novos créditos, deverá também proceder-se a aviso, no mais curto prazo.
+
+§ 3.º Não sendo possível notificar a família, esta não fica inibida de deduzir a sua petição, tendo para o efeito o prazo de 60 dias, contados a partir do dia seguinte ao do óbito.
+
+Art. 10.º Os elementos de facto referidos nas petições justificativos do direito à percepção dos abonos carecem de confirmação da autoridade administrativa da área da residência de quem as subscrever, podendo também admitir-se a confirmação por dois funcionários de categoria igual ou superior à do falecido.
+
+§ 1.º É dispensada a confirmação quando os elementos constantes das petições se ajustem às declarações prèviamente depositadas nos serviços pelos servidores falecidos.
+
+§ 2.º Os peticionários que prestarem falsas declarações, bem como as autoridades e os funcionários que subscreverem as respectivas confirmações, serão solidàriamente responsáveis perante o Estado pelas importâncias indevidamente liquidadas, sem prejuízo da responsabilidade criminal ou disciplinar que lhes couber.
+
+Art. 11.º Os serviços processadores devem proceder, com a maior brevidade possível, à verificação das petições e da documentação que receberem, completando-as com os necessários elementos de informação sobre as quantias em dívida e remetendo-as, bem como as respectivas folhas, à entidade competente para autorizar o pagamento.
+
+Art. 12.º Os encargos resultantes da execução deste diploma serão suportados, no ano a que disserem respeito, pelas disponibilidades das dotações orçamentais por onde eram satisfeitos os respectivos abonos, não dependendo a sua liquidação de autorização ministerial.
+
+§ único. Quando se verifique insuficiência das referidas disponibilidades, poderá proceder-se ao reforço das respectivas dotações, utilizando para contrapartida as sobras de outras verbas do mesmo orçamento destinadas a despesas com o pessoal, pela forma prevista no § 2.º do artigo 17.º do [Decreto n.º 16670](https://diariodarepublica.pt/dr/detalhe/decreto/16670-1929-624998), de 27 de Março de 1929, e sem quaisquer outras formalidades, excepto a da publicação no Diário do Governo.
+
+Art. 13.º Os abonos que não possam ser liquidados no ano económico a que respeitarem serão satisfeitos em conta das verbas orçamentais destinadas a despesas de anos económicos findos, sem dependência de quaisquer formalidades, ainda que se verifique a hipótese prevista no artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935.
+
+Art. 14.º As importâncias dos vencimentos e quaisquer outras que, tendo ficado em dívida a servidores do Estado falecidos, não venham a ser satisfeitas segundo o regime estabelecido nos artigos anteriores poderão ser objecto de habilitação de herdeiros nos termos da legislação em vigor.
+
+§ 1.º Quando, porém, se proceder a habilitação administrativa, poderá seguir-se o processo simplificado estatuído pelo presente diploma, no que respeita à forma das petições, meios de prova e dispensa de formalidades.
+
+§ 2.º Os prazos para a apresentação das petições e de outros documentos serão os estabelecidos na legislação sobre a habilitação de herdeiros.
+
+§ 3.º A isenção de imposições legais estabelecida no artigo 3.º é extensiva a qualquer forma de habilitação.
+
+Art. 15.º O preceituado neste diploma é extensivo, na parte aplicável, aos serviços dotados de autonomia administrativa ou financeira.
+
+§ único. Os orçamentos suplementares que estes serviços tenham necessidade de elaborar para os fins previstos no § único do artigo 12.º não serão contados para o limite legalmente fixado.
+
+Art. 16.º A vigência do presente decreto-lei é reportada a 1 de Janeiro de 1960.
+
+§ 1.º Consideram-se legalizados os abonos que tenham sido liquidados ao abrigo do artigo 10.º da [Lei n.º 2101](https://diariodarepublica.pt/dr/detalhe/lei/2101-1959-441912), de 19 de Dezembro de 1959, mesmo em condições diferentes das agora estabelecidas e, inclusivamente, com utilização de sobras de dotações dos quadros a que o servidor pertencia ou de quaisquer outras verbas orçamentais.
+
+§ 2.º Aos processos pendentes será dado andamento de harmonia com as disposições deste diploma, contando-se, porém, os prazos a partir da data da sua publicação.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 27 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.

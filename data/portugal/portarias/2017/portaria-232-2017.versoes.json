@@ -1,0 +1,1048 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107761912:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-107761949",
+ "dre_path": "/dr/detalhe/portaria/232-2017-107761912",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-07-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107760967",
+    "107760968",
+    "107760969",
+    "107760970",
+    "107760971",
+    "107760972",
+    "107760973",
+    "107760974",
+    "107770775",
+    "107770776",
+    "107770777",
+    "107770778",
+    "107770779",
+    "107770780",
+    "107770781",
+    "107770782",
+    "107770783",
+    "107770784",
+    "107770785",
+    "107770786",
+    "107770787",
+    "107770788",
+    "107770789",
+    "107770790",
+    "107770791",
+    "107770792",
+    "107770793",
+    "107770794",
+    "107770795",
+    "107770796",
+    "107770797",
+    "107770798",
+    "107770799",
+    "107770800",
+    "107770801",
+    "107770802",
+    "107770803",
+    "107770804",
+    "107770805",
+    "107770806",
+    "107770807",
+    "107770808",
+    "107770809",
+    "107770810",
+    "107770811",
+    "107770812",
+    "107770813",
+    "107770814",
+    "107770815",
+    "107770816",
+    "107770817",
+    "107770818",
+    "107770819",
+    "107770820",
+    "107770821",
+    "107770822",
+    "107770823",
+    "107770824",
+    "107770825",
+    "107770826",
+    "107770827",
+    "107770828",
+    "107770829",
+    "107770830",
+    "107770831",
+    "107770832",
+    "107770833",
+    "107770834",
+    "107770835",
+    "107770836",
+    "107770837"
+   ]
+  },
+  {
+   "date": "2019-07-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123324347:por",
+     "title": "Portaria n.º 227-A/2019",
+     "published": "2019-07-19",
+     "dre_path": "/dr/detalhe/portaria/227-a-2019-123324347"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Revoga Artigo 5.º",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "107760967",
+    "107760968",
+    "107760969",
+    "107760970",
+    "107760971",
+    "123354024",
+    "107760973",
+    "107760974",
+    "107770775",
+    "107770776",
+    "107770777",
+    "107770778",
+    "123354023",
+    "107770780",
+    "107770781",
+    "107770782",
+    "107770783",
+    "107770784",
+    "107770785",
+    "107770786",
+    "107770787",
+    "107770788",
+    "107770789",
+    "107770790",
+    "107770791",
+    "107770792",
+    "107770793",
+    "107770794",
+    "107770795",
+    "107770796",
+    "107770797",
+    "107770798",
+    "107770799",
+    "107770800",
+    "107770801",
+    "107770802",
+    "107770803",
+    "107770804",
+    "107770805",
+    "107770806",
+    "107770807",
+    "107770808",
+    "107770809",
+    "123354025",
+    "123354026",
+    "123354027",
+    "123354028",
+    "123354029",
+    "123354030",
+    "123354031",
+    "123354032",
+    "123354033",
+    "123354034",
+    "123354035",
+    "123354036",
+    "123354037",
+    "123354038",
+    "123354039",
+    "123354040",
+    "123354041",
+    "123354042",
+    "123354043",
+    "123354044",
+    "123354045",
+    "123354046",
+    "123354047",
+    "123354048",
+    "123354049",
+    "123354050",
+    "123354051",
+    "123354052"
+   ]
+  }
+ ],
+ "fragments": {
+  "107760967": {
+   "fragment_id": "107761950",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 232/2017\n\nde 27 de julho\n\nPara a realização dos seus fins estatutários a Santa Casa da Misericórdia de Lisboa, através do seu Departamento de Jogos, assegura a exploração dos jogos sociais do Estado, em regime de exclusivo e para todo o território nacional, nos termos das disposições conjugadas da alínea s) do n.º 3 do artigo 4.º e do n.º 1 do artigo 27.º dos respetivos Estatutos, aprovados pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de dezembro, alterado pelos Decretos-Leis n.os 114/2011, de 30 de novembro, e 67/2015, de 29 de abril («Estatutos da Santa Casa da Misericórdia de Lisboa»).\n\nNeste contexto, a presente Portaria altera a Regulamentação dos jogos sociais do Estado, Totobola e Joker, no sentido de redefinir algumas das suas soluções normativas. Assim, e no que se refere ao Regulamento do Totobola, aprovado pela Portaria n.º 39/2004, de 12 de janeiro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 116/2013, de 22 de março, e subsequentemente alterado pela Portaria n.º 15/2014, de 23 de janeiro, procede-se alteração do prognóstico do 14.º jogo, denominado «Super 14», passando o prognóstico a incidir sobre os símbolos de vitória, empate ou derrota, e ainda à eliminação dos jogos de reserva e dos jogos por sorteio, prevendo em alternativa a possibilidade de cancelamento de jogos e a anulação de concurso. No que diz respeito ao Regulamento do Joker, aprovado pela Portaria n.º 550/2001, de 31 de maio, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 114/2013, de 21 de março, altera-se a norma legal relativa à distribuição das receitas para prémios deste jogo social.\n\nAdicionalmente, com a presente portaria visa-se reforçar as medidas de natureza preventiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo nas operações de pagamento de prémios de apostas ou lotarias, designadamente tendo em vista reduzir o risco das operações de pagamento que favorecem o anonimato. Com este propósito, altera-se o modelo de pagamento de prémios em todos os Regulamentos dos Jogos Sociais do Estado, passando a exigir-se a identificação dos jogadores portadores de um título premiado de montante igual ou superior a (euro) 2.000, adequando-se, ainda, a esta alteração o Regulamento dos Mediadores dos Jogos Sociais do Estado, aprovado pela Portaria n.º 313/2004, alterado e republicado pela Portaria n.º 216/2012, de 18 de julho, e subsequentemente alterado pela Portaria n.º 57/2103, de 21 de março.\n\nConsiderando a extensão das alterações que são promovidas ao Regulamento do Totobola, promove-se a respetiva republicação. Além disso, aproveita-se ainda esta oportunidade para consolidar as alterações que, ao longo do tempo, foram sendo promovidas no Regulamento da Lotaria Nacional, promovendo-se também a respetiva republicação.\n\nAssim:\n\nAo abrigo do artigo 2.º e da alínea i) do n.º 3 do artigo 27.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de dezembro, alterado pelos Decretos-Leis n.os 114/2011, de 30 de novembro, e 67/2015, de 29 de abril, manda o Governo, pelo membro do Governo responsável pela área do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "107760968": {
+   "fragment_id": "107761951",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração ao Regulamento do Totobola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração ao Regulamento do Totobola\n\nOs artigos 1.º, 3.º, 5.º, 6.º, 7.º, 12.º, 13.º, 15.º, 19.º, 20.º, 22.º, 23.º e 24.º do Regulamento do Totobola, aprovado pela Portaria n.º 39/2004, de 12 de janeiro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 116/2013, de 22 de março, e subsequentemente alterado pela Portaria n.º 15/2014, de 23 de janeiro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - [...].\n\n2 - O Totobola é organizado numa grelha com 13 jogos base, nos quais se prognostica o resultado de vitória, empate ou derrota, e um 14.º jogo, denominado 'Super 14', no qual igualmente se prognostica o resultado de vitória, empate ou derrota.\n\nArtigo 3.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - O Departamento de Jogos divulga a lista do elenco dos jogos de cada concurso através dos meios que entenda mais convenientes.\n\n6 - A lista do elenco dos jogos de cada concurso, divulgada pelo Departamento de Jogos, é a única lista válida para a realização de apostas e para efeitos de escrutínio.\n\n7 - Os mediadores dos jogos sociais do Estado são responsáveis pela correta e atempada divulgação da lista do elenco dos jogos de cada concurso, disponibilizando a mesma quando solicitado pelo jogador.\n\nArtigo 5.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...].\n\n3 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) Ao Super 14, todas aquelas que, além de terem todos os resultados certos nos 13 jogos base, acertem cumulativamente no resultado do 14.º jogo, nos termos do número seguinte.\n\n4 - [...].\n\n5 - Os prémios a que têm direito as apostas múltiplas, nas condições das alíneas a), b) e c) do n.º 3, e quando não haja lugar ao cancelamento de jogos no concurso em apostas duplas e ou triplas, constam da tabela II em anexo ao presente Regulamento.\n\n6 - [...]:\n\na) Nos concursos normais, ao montante do Super 14 do concurso normal imediatamente seguinte;\n\nb) Nos concursos extraordinários, ao montante do Super 14 do segundo concurso subsequente, com exceção dos concursos anulados, nos quais o montante do primeiro prémio irá acrescer ao montante do Super 14 do concurso imediatamente seguinte ao do concurso anulado.\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - Nos concursos extraordinários, quando não forem escrutinadas apostas com direito a qualquer das três primeiras categorias de prémios, e por consequência ao Super 14, os montantes acrescem ao que vier a ser apurado para o prémio Super 14 do segundo concurso subsequente, com exceção dos concursos anulados, nos quais os montantes acrescem ao montante do Super 14 do concurso imediatamente seguinte ao do concurso anulado.\n\n11 - [...]:\n\na) [...];\n\nb) Nos concursos extraordinários, ao montante do prémio Super 14 do segundo concurso subsequente, com exceção dos concursos anulados, nos quais este montante irá acrescer ao montante do Super 14 do concurso imediatamente seguinte ao do concurso anulado.\n\n12 - [...].\n\n13 - [...].\n\nArtigo 6.º\n\n[...]\n\n1 - Os prognósticos nos 13 jogos base e no Super 14 entendem-se como vitória, empate ou derrota da equipa visitada, consoante estejam marcados nos retângulos da esquerda, '1', do meio, 'X', ou da direita, '2', respetivamente, considerando-se equipa visitada a mencionada em primeiro lugar, mesmo que venha a ocorrer troca de campo de jogo.\n\n2 - (Revogado.)\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - Os resultados a prognosticar podem ser os verificados ao intervalo de todos ou de alguns dos jogos do concurso, devendo tal modalidade constar claramente da lista do elenco dos jogos de cada concurso a ser divulgada publicamente pelo Departamento de Jogos.\n\n7 - (Revogado.)\n\nArtigo 7.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - O jogo Super 14 apenas admite uma aposta simples.\n\n6 - (Anterior n.º 5.)\n\nArtigo 12.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) Por digitação dos prognósticos do jogador no terminal, nos termos do n.º 4 do artigo 6.º;\n\nc) [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) (Revogada.)\n\ne) [...];\n\nf) [...];\n\ng) Número de controlo;\n\nh) [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - [...].\n\n13 - [...].\n\n14 - [...].\n\n15 - [...].\n\n16 - [...].\n\n17 - [...].\n\nArtigo 13.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Há duas espécies de bilhetes, ambos sem a indicação dos jogos neles incluídos:\n\na) Normais - destinados aos concursos semanais;\n\nb) (Revogada.)\n\nc) Extraordinários - destinados aos concursos extraordinários.\n\n5 - Os bilhetes normais servem para suporte de leitura para participação no concurso em que forem lidos pelo terminal de jogo, qualquer que seja o número da semana a que respeitem; os bilhetes extraordinários apenas podem ser utilizados em concursos extraordinários.\n\n6 - (Revogado.)\n\n7 - [...].\n\n8 - (Revogado.)\n\n9 - (Revogado.)\n\n10 - (Revogado.)\n\nArtigo 15.º\n\n[...]\n\n1 - Considera-se resultado final de um jogo, a vitória, o empate ou a derrota da equipa mencionada em primeiro lugar, verificados no fim do tempo regulamentar desse jogo, sem recurso a prolongamento ou processo de desempate forçado.\n\n2 - (Revogado.)\n\n3 - [...].\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - Quando qualquer um dos jogos não se realizar, for adiado para além da data do concurso ou se iniciar antes da entrega ao júri da cópia de segurança do suporte magnético referido no artigo 12.º, o Departamento de Jogos procede ao cancelamento do jogo respetivo.\n\n7 - Na situação prevista no número anterior, todos os prognósticos registados, em apostas simples ou múltiplas, sobre o jogo cancelado são considerados prognósticos certos para efeitos de escrutínio.\n\n8 - Após a divulgação do cancelamento de um jogo mantém-se necessário o registo de um prognóstico de apostas simples sobre o mesmo.\n\n9 - Quando forem cancelados 6 ou mais jogos num mesmo concurso, o Departamento de Jogos procede à anulação do respetivo concurso.\n\n10 - O Departamento de Jogos procede à divulgação dos jogos cancelados ou do concurso anulado através dos meios que entenda mais convenientes.\n\n11 - Na situação de anulação de um concurso, o valor das apostas registadas é reembolsado aos jogadores, junto de qualquer mediador de jogos sociais do Estado, contra a entrega do recibo de aposta, emitido em conformidade com o artigo 12.º, e no prazo de 90 dias contados sobre a data de anulação do concurso, sob pena de caducar o direito de reclamar o valor da aposta.\n\n12 - A efetivação do reembolso do valor da aposta ao apostador fica registada no sistema central do Departamento de Jogos e dá origem à emissão de um talão de pagamento que é entregue ao jogador.\n\n13 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao reembolso da aposta numa situação de anulação de concurso.\n\nArtigo 19.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) [...];\n\nb) [...];\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 2.000, o pagamento é efetuado através de transferência para a conta bancária indicada pelo portador do título premiado;\n\nd) [...];\n\ne) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para a conta bancária do portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\ng) [Anterior alínea f).]\n\nh) [Anterior alínea g).]\n\n4 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia-se no dia imediatamente seguinte ao da realização do último jogo do concurso para os prémios de montante inferior a (euro) 5.000.\n\n5 - [...].\n\n6 - [...]:\n\na) [...];\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária associada ao cartão de jogador, após o preenchimento de um formulário eletrónico e recorrendo a um dos seguintes meios:\n\ni) Comprovação mediante original em suporte eletrónico, através da leitura do cartão de cidadão por via de dispositivo apropriado com ligação à Internet e aos serviços de autentificação da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);\n\nii) Envio para o Departamento de Jogos de certidão ou cópia certificada de originais dos documentos de identificação em suporte físico;\n\niii) Identificação presencial junto do Departamento de Jogos;\n\nd) Os prémios de valor igual ou superior a (euro) 5.000 são pagos através de transferência para a conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos.\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\nArtigo 20.º\n\n[...]\n\n1 - [...].\n\n2 - Na situação de anulação de um concurso, todo o possuidor de um recibo de aposta, emitido em conformidade com o artigo 12.º, e que tendo apresentado o mesmo para reembolso num mediador dos jogos sociais do Estado seja informado de que não tem direito ao reembolso, que o reembolso já foi efetuado ou que existe algum outro motivo que impeça o seu reembolso, tem direito a reclamar.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - O prazo para apresentação de reclamação num concurso anulado conta-se a partir da data da anulação do respetivo concurso, nos termos do número anterior, com as devidas adaptações.\n\n7 - (Anterior n.º 5.)\n\nArtigo 22.º\n\n[...]\n\nA prática de atos fraudulentos com vista ao recebimento de prémios ou ao reembolso do valor da aposta num concurso anulado, nomeadamente a falsificação dos recibos emitidos através do terminal, é objeto de participação para efeitos de procedimento criminal, nos termos da lei geral.\n\nArtigo 23.º\n\n[...]\n\nOs casos omissos e os duvidosos são resolvidos pelo Administrador Executivo do Departamento de Jogos, exceto em matéria de atribuição de prémios e de reembolso do valor da aposta num concurso anulado, em que é competente o júri de reclamações.\n\nArtigo 24.º\n\n[...]\n\nSão publicadas em anexo ao presente Regulamento, fazendo parte integrante do mesmo, as tabelas I e II, relativas, respetivamente, aos sistemas de apostas múltiplas e aos prémios em apostas múltiplas, as quais não se aplicam quando haja lugar ao cancelamento de jogos no concurso.»"
+  },
+  "107760969": {
+   "fragment_id": "107761952",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Regulamento do «Joker»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Regulamento do «Joker»\n\nOs artigos 5.º e 15.º do Regulamento do «Joker», aprovado pela Portaria n.º 550/2001, de 31 de maio, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 114/2013, de 21 de março, e subsequentemente alterado pela Portaria n.º 15/2014, de 23 de janeiro, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Sem prejuízo do disposto nos números anteriores, pode o Departamento de Jogos determinar, desde que assegurada a respetiva publicitação antes do início do registo da aceitação das apostas, que quando não for escrutinada qualquer aposta sobre o número do Joker e restantes categorias de prémios, o montante que couber ao 1.º prémio e às restantes categorias de prémios seja distribuído pelo número de acertantes da categoria imediatamente inferior em que haja, pelo menos, uma aposta premiada.\n\nArtigo 15.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) [...];\n\nb) [...];\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 2.000, o pagamento é efetuado através de transferência para a conta bancária indicada pelo portador do título premiado;\n\nd) [...];\n\ne) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para conta bancária do portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\ng) [Anterior alínea f).]\n\nh) [Anterior alínea g).]\n\n4 - [...].\n\n5 - [...].\n\n6 - [...]:\n\na) [...];\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária associada ao cartão de jogador, após o preenchimento de um formulário eletrónico e recorrendo a um dos seguintes meios:\n\ni) Comprovação mediante original em suporte eletrónico, através da leitura do cartão de cidadão por via de dispositivo apropriado com ligação à Internet e aos serviços de autentificação da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);\n\nii) Envio para o Departamento de Jogos de certidão ou cópia certificada de originais dos documentos de identificação em suporte físico;\n\niii) Identificação presencial junto do Departamento de Jogos;\n\nd) Os prémios de valor igual ou superior a (euro) 5.000 são pagos através de transferência para a conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos.\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].»"
+  },
+  "107760970": {
+   "fragment_id": "107761953",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Regulamento da Lotaria Instantânea",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Regulamento da Lotaria Instantânea\n\nO artigo 7.º do Regulamento da Lotaria Instantânea, aprovado pela Portaria n.º 552/2001, de 31 de maio, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 112/2013, de 21 de março, e subsequentemente alterado pela Portaria n.º 15/2014, de 23 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos mediante transferência para a conta bancária indicada pelo portador do bilhete premiado;\n\nc) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nd) Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para conta bancária do portador do bilhete premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo.\n\n2 - [...]:\n\na) [...];\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária associada ao cartão de jogador, após o preenchimento de um formulário eletrónico e recorrendo a um dos seguintes meios:\n\ni) Comprovação mediante original em suporte eletrónico, através da leitura do cartão de cidadão por via dispositivo apropriado com ligação à Internet e aos serviços de autentificação da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);\n\nii) Envio para o Departamento de Jogos de certidão ou cópia certificada de originais dos documentos de identificação em suporte físico;\n\niii) Identificação presencial junto do Departamento de Jogos;\n\nd) Os prémios de valor igual ou superior a (euro) 5.000 são pagos através de transferência para a conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos.\n\n3 - [...].\n\n4 - [...].»"
+  },
+  "107760971": {
+   "fragment_id": "107761954",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Regulamento do Euromilhões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Regulamento do Euromilhões\n\nO artigo 18.º do Regulamento do Euromilhões, aprovado pela Portaria n.º 1267/2004, de 1 de outubro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 228/2016, de 25 de agosto, passa a ter a seguinte redação:\n\n«Artigo 18.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) [...];\n\nb) [...];\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 2.000, o pagamento é efetuado através de transferência para a conta bancária indicada pelo portador do título premiado;\n\nd) [...];\n\ne) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para conta bancária do portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\ng) [Anterior alínea f).]\n\nh) [Anterior alínea g).]\n\n4 - [...].\n\n5 - [...].\n\n6 - [...]:\n\na) [...];\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária associada ao cartão de jogador, após o preenchimento de um formulário eletrónico e recorrendo a um dos seguintes meios:\n\ni) Comprovação mediante original em suporte eletrónico, através da leitura do cartão de cidadão por via de dispositivo apropriado com ligação à Internet e aos serviços de autentificação da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);\n\nii) Envio para o Departamento de Jogos de certidão ou cópia certificada de originais dos documentos de identificação em suporte físico;\n\niii) Identificação presencial junto do Departamento de Jogos;\n\nd) Os prémios de valor igual ou superior a (euro) 5.000 são pagos através de transferência para a conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos.\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].»"
+  },
+  "107760972": {
+   "fragment_id": "107761955",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Regulamento da Lotaria Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Regulamento da Lotaria Nacional\n\nO artigo 19.º do Regulamento da Lotaria Nacional, aprovado pela Portaria n.º 1016/2010, de 4 de outubro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado pelas Portarias n.os 115/2013, de 22 de março, e 15/2014, de 23 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 19.º\n\n[...]\n\n1 - [...].\n\n2 - Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos contra a apresentação do bilhete premiado, após a sua leitura pelo terminal de jogos, mediante transferência para a conta bancária indicada pelo portador do título premiado.\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo.\n\n7 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para a conta bancária do portador do bilhete premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo.\n\n8 - (Anterior n.º 7.)»\n\n> Nota: [Artigo 4.º, Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347) Estas alterações produzem efeitos: a) Para a Lotaria Nacional Clássica, a partir da 37.ª Extração de 2019; b) Para a Lotaria Nacional Popular, a partir da 37.ª Extração de 2019."
+  },
+  "107760973": {
+   "fragment_id": "107761956",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Regulamento do Totoloto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Regulamento do Totoloto\n\nO artigo 18.º do Regulamento do Totoloto, aprovado pela Portaria n.º 102/2011, de 11 de março, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 115/2013, de 22 de março, e subsequentemente alterado pela Portaria n.º 15/2014, de 23 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 18.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) [...];\n\nb) [...];\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 2.000, o pagamento é efetuado através de transferência para a conta bancária indicada pelo portador do título premiado;\n\nd) [...];\n\ne) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para a conta bancária do portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\ng) [Anterior alínea f).]\n\nh) [Anterior alínea g).]\n\n4 - [...].\n\n5 - [...].\n\n6 - [...]:\n\na) [...];\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária associada ao cartão de jogador, após o preenchimento de um formulário eletrónico e recorrendo a um dos seguintes meios:\n\ni) Comprovação mediante original em suporte eletrónico, através da leitura do cartão de cidadão por via de dispositivo apropriado com ligação à Internet e aos serviços de autentificação da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);\n\nii) Envio para o Departamento de Jogos de certidão ou cópia certificada de originais dos documentos de identificação em suporte físico;\n\niii) Identificação presencial junto do Departamento de Jogos;\n\nd) Os prémios de valor igual ou superior a (euro) 5.000 são pagos através de transferência para a conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos.\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].»"
+  },
+  "107760974": {
+   "fragment_id": "107761957",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração ao Regulamento das Apostas Desportivas à Cota de Base Territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração ao Regulamento das Apostas Desportivas à Cota de Base Territorial\n\nO artigo 22.º do Regulamento das Apostas Desportivas à Cota de Base Territorial, aprovado pela Portaria n.º 173/2015, de 8 de junho, e publicado em anexo à mesma, dela fazendo parte integrante, passa a ter a seguinte redação:\n\n«Artigo 22.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...]:\n\na) [...];\n\nb) [...];\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 2.000, o pagamento é feito através de transferência para a conta bancária indicada pelo portador do título premiado e só será concretizado se o Número de Identificação Fiscal do portador do título premiado for igual ao impresso no recibo da aposta, mediante verificação pelo mediador de jogos sociais do Estado;\n\nd) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos, mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo e só será concretizado se o Número de Identificação Fiscal do portador do título premiado for igual ao impresso no recibo da aposta;\n\ne) Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos, mediante transferência para a conta bancária do portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo e só será concretizado se o Número de Identificação Fiscal do portador do título premiado for igual ao impresso no recibo da aposta;\n\nf) [Anterior alínea e).]\n\ng) [Anterior alínea f).]\n\nh) [Anterior alínea g).]\n\n5 - [...]:\n\n6 - [...].\n\n7 - [...].»"
+  },
+  "107770775": {
+   "fragment_id": "107761958",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração ao Regulamento do «Totosorteio»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração ao Regulamento do «Totosorteio»\n\nO artigo 14.º do Regulamento do «Totosorteio», aprovado pela Portaria n.º 227/2016, de 25 de agosto, e publicado em anexo à mesma, dela fazendo parte integrante, passa a ter a seguinte redação:\n\n«Artigo 14.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) [...];\n\nb) [...];\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 2.000, o pagamento é efetuado através de transferência para a conta bancária indicada pelo portador do título premiado;\n\nd) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos, mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\ne) Os prémios de valor superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para a conta bancária do portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) [Anterior alínea e).]\n\ng) [Anterior alínea f).]\n\n4 - [...].\n\n5 - [...].\n\n6 - [...]:\n\na) [...];\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária associada ao cartão de jogador, após o preenchimento de um formulário eletrónico e recorrendo a um dos seguintes meios:\n\ni) Comprovação mediante original em suporte eletrónico, através da leitura do cartão de cidadão por via de dispositivo apropriado com ligação à Internet e aos serviços de autentificação da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);\n\nii) Envio para o Departamento de Jogos de certidão ou cópia certificada de originais dos documentos de identificação em suporte físico;\n\niii) Identificação presencial junto do Departamento de Jogos;\n\nd) Os prémios de valor igual ou superior a (euro) 5.000 são pagos através de transferência para a conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos.\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].»"
+  },
+  "107770776": {
+   "fragment_id": "107761959",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração ao Regulamento dos Mediadores dos Jogos Sociais do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao Regulamento dos Mediadores dos Jogos Sociais do Estado\n\nOs artigos 6.º, 7.º e 10.º do Regulamento dos Mediadores dos Jogos Sociais do Estado, aprovado pela Portaria n.º 313/2004, de 23 de março, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 216/2012, de 18 de julho, e subsequentemente alterado pela Portaria n.º 112/2013, de 21 de março, passam a ter a seguinte redação:\n\n«Artigo 6.º\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) Recolher e verificar a identificação dos beneficiários dos prémios de apostas ou lotarias de montante igual ou superior a (euro) 2.000 e inferior a (euro) 5.000, nos termos da lei e das regras e procedimentos definidos pelo DJSCML.\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\nArtigo 7.º\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) Guardar sigilo sobre quaisquer informações, relacionadas com os jogadores, que venham a tomar conhecimento no exercício da atividade de mediação de jogos sociais do Estado;\n\ni) [Anterior alínea h).]\n\nj) [Anterior alínea i).]\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\nArtigo 10.º\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) Não cumprimento do procedimento de identificação previsto na alínea g) do n.º 1 do artigo 6.º\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].»"
+  },
+  "107770777": {
+   "fragment_id": "107761960",
+   "type": 11,
+   "heading": "Artigo 10.º — Aditamento ao Regulamento do Totobola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aditamento ao Regulamento do Totobola\n\nÉ aditado o artigo 17.º-A ao Regulamento do Totobola, aprovado pela Portaria n.º 39/2004, de 12 de janeiro, alterada pelas Portarias n.os 237/2004, de 3 de março, 867/2006, de 28 de agosto, 973/2009, de 31 de agosto, 65/2011, de 4 de fevereiro, 116/2013, de 22 de março, e 15/2014, de 23 de janeiro, com a seguinte redação:\n\n«Artigo 17.º-A\n\nCálculo da quantidade de prémios com jogos base cancelados em apostas múltiplas\n\n1 - Se um apostador prognosticou uma ou mais apostas duplas e ou uma ou mais apostas triplas num ou mais jogos base, o cálculo a efetuar para se determinar a quantidade total de prémios a atribuir pelos 1.º, 2.º e 3.º prémios, caso algum desses jogos venha a ser cancelado, processa-se da seguinte forma:\n\na) Ao sistema de apostas múltiplas apostado são retiradas a(s) dupla(s) e ou a(s) tripla(s) correspondentes aos jogos cancelados, determinando-se o sistema de apostas múltiplas aplicável aos prognósticos restantes;\n\nb) Para cada uma das apostas certas correspondentes aos 1.º, 2.º e 3.º prémios do sistema de apostas múltiplas restantes, multiplica-se o número de apostas do sistema inicial e divide-se pelo número de apostas do sistema de apostas restante, determinando-se assim a quantidade de apostas certas por categoria de prémio.\n\n2 - O valor total do prémio final a receber resulta do somatório dos produtos da quantidade de prémios apurada por cada categoria de prémio, de acordo com o número anterior, pelo valor individual do mesmo, apurado no escrutínio de prémios do respetivo concurso.\n\n3 - Quando os jogos cancelados, num máximo de cinco jogos, correspondam à totalidade de duplas e ou triplas do sistema de apostas múltiplas apostado, a quantidade de prémios a atribuir corresponderá:\n\na) Sem falhas nos prognósticos simples, à quantidade de primeiros prémios multiplicado pelas apostas simples correspondentes;\n\nb) Com uma falha num prognóstico simples, à quantidade de segundos prémios multiplicado pelas apostas simples correspondentes;\n\nc) Com duas falhas em prognósticos simples, à quantidade de terceiros prémios multiplicado pelas apostas simples correspondentes.»"
+  },
+  "107770778": {
+   "fragment_id": "107761961",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogados os n.os 2 e 7 do artigo 6.º, a alínea d) do n.º 6 do artigo 12.º, a alínea b) do n.º 4 e os n.os 6, 8, 9 e 10 do artigo 13.º, os n.os 2, 4 e 5 do artigo 15.º e o artigo 16.º do Regulamento do Totobola, aprovado pela Portaria n.º 39/2004, de 12 de janeiro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 116/2013, de 22 de março, e subsequentemente alterado pela Portaria n.º 15/2014 de 23 de janeiro."
+  },
+  "107770779": {
+   "fragment_id": "107761962",
+   "type": 11,
+   "heading": "Artigo 12.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Republicação\n\nSão republicados, respetivamente, nos anexo I e II à presente Portaria, da qual fazem parte integrante:\n\na) O Regulamento do Totobola, aprovado pela Portaria n.º 39/2004, de 12 de janeiro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 116/2013, de 22 de março, e subsequentemente alterado pela Portaria n.º 15/2014, de 23 de janeiro;\n\nb) O Regulamento da Lotaria Nacional, aprovado pela Portaria n.º 1016/2010, de 4 de outubro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado pelas Portarias n.os 115/2013, de 22 de março, e 15/2014, de 23 de janeiro;\n\n> Nota: [Artigo 4.º, Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347) Estas alterações produzem efeitos: a) Para a Lotaria Nacional Clássica, a partir da 37.ª Extração de 2019; b) Para a Lotaria Nacional Popular, a partir da 37.ª Extração de 2019."
+  },
+  "107770780": {
+   "fragment_id": "107761963",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor e produção de efeitos\n\n1 - A presente Portaria entra em vigor em 28 de julho de 2017.\n\n2 - Produzem efeitos em 4 de agosto de 2017 as alterações promovidas pela presente portaria, ao:\n\na) Regulamento do Totobola, aprovado pela Portaria n.º 39/2004, de 12 de janeiro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 116/2013, de 22 de março, e subsequentemente alterado pela Portaria n.º 15/2014, de 23 de janeiro;\n\nb) Artigo 15.º do Regulamento do «Joker», aprovado pela Portaria n.º 550/2001, de 31 de maio, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 114/2013, de 21 de março, e subsequentemente alterado pela Portaria n.º 15/2014, de 23 de janeiro;\n\nc) Regulamento da Lotaria Instantânea, aprovado pela Portaria n.º 552/2001, de 31 de maio, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 112/2013, de 21 de março, e subsequentemente alterado pela Portaria n.º 15/2014, de 23 de janeiro;\n\nd) Regulamento do Euromilhões, aprovado pela Portaria n.º 1267/2004, de 1 de outubro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 228/2016, de 25 de agosto;\n\ne) Regulamento da Lotaria Nacional, aprovado pela Portaria n.º 1016/2010, de 4 de outubro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado pelas Portarias n.os 115/2013, de 22 de março, e 15/2014, de 23 de janeiro;\n\nf) Regulamento do Totoloto, aprovado pela Portaria n.º 102/2011, de 11 de março, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 115/2013, de 22 de março, e subsequentemente alterado pela Portaria n.º 15/2014, de 23 de janeiro;\n\ng) Regulamento das Apostas Desportivas à Cota de Base Territorial, aprovado pela Portaria n.º 173/2015, de 8 de junho, e publicado em anexo à mesma, dela fazendo parte integrante;\n\nh) Regulamento do «Totosorteio», aprovado pela Portaria n.º 227/2016, de 25 de agosto, e publicado em anexo à mesma, dela fazendo parte integrante;\n\ni) Regulamento dos Mediadores dos Jogos Sociais do Estado, aprovado pela Portaria n.º 313/2004, de 23 de março, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 216/2012, 18 de julho, e subsequentemente alterado pela Portaria n.º 112/2013, de 21 de março."
+  },
+  "107770781": {
+   "fragment_id": "107761964",
+   "type": 14,
+   "heading": "Anexo I — [a que se refere a alínea a) do artigo 12.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [a que se refere a alínea a) do artigo 12.º]\n\nREGULAMENTO DO TOTOBOLA"
+  },
+  "107770782": {
+   "fragment_id": "107761965",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente Regulamento estabelece as normas de participação no jogo social do Estado denominado «Totobola», que consiste nos concursos de apostas mútuas sobre resultados de jogos de futebol organizados, segundo a estrutura definida no número seguinte, nos termos da lei em vigor, pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, adiante designado por Departamento de Jogos.\n\n2 - O Totobola é organizado numa grelha com 13 jogos base, nos quais se prognostica o resultado de vitória, empate ou derrota, e um 14.º jogo, denominado «Super 14», no qual igualmente se prognostica o resultado de vitória, empate ou derrota."
+  },
+  "107770783": {
+   "fragment_id": "107761966",
+   "type": 11,
+   "heading": "Artigo 2.º — Concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Concursos\n\n1 - Os concursos referidos no artigo anterior podem ser normais, caso em que têm periodicidade semanal, e extraordinários.\n\n2 - Para efeitos dos concursos normais, a 1.ª semana do ano é aquela que contiver o 1.º domingo desse ano.\n\n3 - A data fixada para os concursos normais será a de domingo.\n\n4 - A data e os prazos de receção de apostas para concursos extraordinários são fixados pelo Departamento de Jogos."
+  },
+  "107770784": {
+   "fragment_id": "107761967",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de participação nos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de participação nos concursos\n\n1 - A participação nos concursos do Totobola inicia-se com o registo das apostas e pagamento do respetivo preço, nos termos da lei e do presente Regulamento.\n\n2 - Tal participação pressupõe o integral conhecimento, adesão e plena aceitação das referidas normas.\n\n3 - A participação só se torna efetiva quando estiverem reunidas todas as condições regulamentares de validade das apostas.\n\n4 - Para participar nos concursos do Totobola apenas poderão ser utilizados os bilhetes emitidos pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, nos termos do presente Regulamento, sem prejuízo do disposto no artigo 6.º, n.º 4.\n\n5 - O Departamento de Jogos divulga a lista do elenco dos jogos de cada concurso através dos meios que entenda mais convenientes.\n\n6 - A lista do elenco dos jogos de cada concurso, divulgada pelo Departamento de Jogos, é a única lista válida para a realização de apostas e para efeitos de escrutínio.\n\n7 - Os mediadores dos jogos sociais do Estado são responsáveis pela correta e atempada divulgação da lista do elenco dos jogos de cada concurso, disponibilizando a mesma quando solicitado pelo jogador."
+  },
+  "107770785": {
+   "fragment_id": "107761968",
+   "type": 11,
+   "heading": "Artigo 4.º — Preço da aposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Preço da aposta\n\nO preço de cada aposta é fixado em (euro) 0,40."
+  },
+  "107770786": {
+   "fragment_id": "107761969",
+   "type": 11,
+   "heading": "Artigo 5.º — Distribuição das receitas para prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Distribuição das receitas para prémios\n\n1 - Da receita de cada concurso, constituída pelo valor do montante total das apostas admitidas, é destinada a prémios a importância correspondente a 60 %.\n\n2 - A importância destinada a prémios, depois de deduzidos os encargos legais que sobre ela recaírem, é dividida pelas quatro categorias de prémios do seguinte modo:\n\na) 1.º prémio - 30 %;\n\nb) 2.º prémio - 25 %;\n\nc) 3.º prémio - 25 %;\n\nd) Super 14 - 20 %.\n\n3 - Têm direito a prémio as apostas que apresentem os seguintes resultados:\n\na) Ao 1.º, as que tenham todos os resultados certos nos 13 jogos base;\n\nb) Ao 2.º, as que tenham um só resultado errado nos 13 jogos base;\n\nc) Ao 3.º, as que tenham dois resultados errados nos 13 jogos base;\n\nd) Ao Super 14, todas aquelas que, além de terem todos os resultados certos nos 13 jogos base, acertem cumulativamente no resultado do 14.º jogo, nos termos do número seguinte.\n\n4 - Por cada recibo de apostas haverá direito a um único prémio da categoria Super 14.\n\n5 - Os prémios a que têm direito as apostas múltiplas, nas condições das alíneas a), b) e c) do n.º 3, e quando não haja lugar ao cancelamento de jogos no concurso em apostas duplas e ou triplas, constam da tabela II em anexo ao presente Regulamento.\n\n6 - Quando não forem escrutinadas apostas com direito ao 1.º prémio, o montante a ele destinado irá acrescer:\n\na) Nos concursos normais, ao montante do Super 14 do concurso normal imediatamente seguinte;\n\nb) Nos concursos extraordinários, ao montante do Super 14 do segundo concurso subsequente, com exceção dos concursos anulados, nos quais o montante do primeiro prémio irá acrescer ao montante do Super 14 do concurso imediatamente seguinte ao do concurso anulado.\n\n7 - Quando não forem escrutinadas apostas com direito ao 2.º prémio, o respetivo montante acresce ao do 3.º prémio; quando não forem escrutinadas apostas com direito ao 3.º prémio, o respetivo montante acresce ao do 2.º prémio.\n\n8 - Quando não forem escrutinadas apostas com direito ao 2.º nem ao 3.º prémios, os respetivos montantes acrescem ao montante do 1.º prémio.\n\n9 - Quando não forem escrutinadas apostas com direito a qualquer das três primeiras categorias de prémios, e por consequência ao Super 14, os montantes correspondentes acrescem ao montante que vier a ser apurado para o prémio Super 14 do concurso normal imediatamente seguinte.\n\n10 - Nos concursos extraordinários, quando não forem escrutinadas apostas com direito a qualquer das três primeiras categorias de prémios, e por consequência ao Super 14, os montantes acrescem ao que vier a ser apurado para o prémio Super 14 do segundo concurso subsequente, com exceção dos concursos anulados, nos quais os montantes acrescem ao montante do Super 14 do concurso imediatamente seguinte ao do concurso anulado.\n\n11 - Quando não forem escrutinadas apostas com direito ao prémio Super 14, o montante a ele destinado, salvo o disposto no número seguinte, irá acrescer:\n\na) Nos concursos normais, ao montante do prémio Super 14 do concurso normal imediatamente seguinte;\n\nb) Nos concursos extraordinários, ao montante do prémio Super 14 do segundo concurso subsequente, com exceção dos concursos anulados, nos quais este montante irá acrescer ao montante do Super 14 do concurso imediatamente seguinte ao do concurso anulado.\n\n12 - A importância de cada classe de prémios é repartida em quinhões iguais pelas apostas premiadas de cada uma das categorias de prémios referidas no n.º 3, arredondada para a quantia em cêntimos imediatamente inferior.\n\n13 - Se o quinhão de cada uma das apostas com direito a prémio for menor do que o quinhão que cabe a cada uma das apostas com direito a prémio da categoria imediatamente inferior, os montantes correspondentes às duas categorias são adicionados, sendo o total dividido entre ambas, em quinhões iguais."
+  },
+  "107770787": {
+   "fragment_id": "107761970",
+   "type": 11,
+   "heading": "Artigo 6.º — Prognósticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prognósticos\n\n1 - Os prognósticos nos 13 jogos base e no Super 14 entendem-se como vitória, empate ou derrota da equipa visitada, consoante estejam marcados nos retângulos da esquerda, «1», do meio, «X», ou da direita, «2», respetivamente, considerando-se equipa visitada a mencionada em primeiro lugar, mesmo que venha a ocorrer troca de campo de jogo.\n\n2 - (Revogado.)\n\n3 - Os prognósticos fazem-se pela marcação de uma cruz «X», cujo ponto de intersecção deverá estar dentro dos retângulos, sem prejuízo do disposto no número seguinte.\n\n4 - Os prognósticos podem ser digitados diretamente no terminal pelo mediador dos jogos sociais do Estado, pelo apostador em periférico diretamente ligado ao terminal, ou através da utilização de outros meios e suportes de registo de apostas, nomeadamente a Internet, telefone móvel ou fixo, televisão ou outro, nos termos de diploma legal próprio.\n\n5 - Os prognósticos para cada concurso recaem sobre o resultado final dos 13 jogos base, sendo o prognóstico do jogo Super 14, um único, e servirá para todas as apostas do bilhete.\n\n6 - Os resultados a prognosticar podem ser os verificados ao intervalo de todos ou de alguns dos jogos do concurso, devendo tal modalidade constar claramente da lista do elenco dos jogos de cada concurso a ser divulgada publicamente pelo Departamento de Jogos.\n\n7 - (Revogado.)"
+  },
+  "107770788": {
+   "fragment_id": "107761971",
+   "type": 11,
+   "heading": "Artigo 7.º — Apostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apostas\n\n1 - Os prognósticos inscritos numa coluna do bilhete, aos quais corresponde um preço, constituem uma aposta.\n\n2 - As apostas podem preencher-se numa de duas modalidades: simples e múltiplas.\n\n3 - As apostas simples agrupam-se em pares de colunas.\n\n4 - As apostas múltiplas são inscritas, obrigatoriamente, na primeira coluna.\n\n5 - O jogo Super 14 apenas admite uma aposta simples.\n\n6 - As apostas registadas e não anuladas nos termos do presente diploma são obrigatoriamente pagas pelo mediador nos termos do regulamento respetivo."
+  },
+  "107770789": {
+   "fragment_id": "107761972",
+   "type": 11,
+   "heading": "Artigo 8.º — Apostas simples",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apostas simples\n\n1 - O preenchimento das apostas simples faz-se pela marcação, em cada coluna, de um prognóstico por cada jogo.\n\n2 - As apostas simples, sempre em número par, inscrevem-se em sequência contínua de colunas, começando obrigatoriamente pela primeira coluna."
+  },
+  "107770790": {
+   "fragment_id": "107761973",
+   "type": 11,
+   "heading": "Artigo 9.º — Apostas múltiplas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apostas múltiplas\n\n1 - O preenchimento das apostas múltiplas faz-se pela marcação de um até três prognósticos por jogo base, formando-se sistemas de apostas múltiplas, de acordo com a tabela I anexa ao presente Regulamento, a inscrever obrigatoriamente na primeira coluna e assinalados no local do bilhete a isso destinado.\n\n2 - Mediante publicação prévia junto do público em geral, o Departamento de Jogos pode criar outras apostas múltiplas."
+  },
+  "107770791": {
+   "fragment_id": "107761974",
+   "type": 11,
+   "heading": "Artigo 10.º — Registo e validação de apostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Registo e validação de apostas\n\n1 - O sistema de registo e validação de apostas é informático.\n\n2 - O sistema referido no número anterior apenas pode operar nos mediadores autorizados pelo Departamento de Jogos para efetuar a aceitação de apostas, através dos terminais de jogo ou da plataforma de acesso multicanal, sem prejuízo da possibilidade de disponibilização direta pelo Departamento de Jogos."
+  },
+  "107770792": {
+   "fragment_id": "107770875",
+   "type": 11,
+   "heading": "Artigo 11.º — Mediadores dos jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Mediadores dos jogos\n\n1 - Os mediadores dos jogos sociais do Estado são representantes dos concorrentes junto do Departamento de Jogos e agem exclusivamente nessa qualidade.\n\n2 - Os erros ou omissões cometidos pelos mediadores dos jogos sociais do Estado no exercício das suas funções não são imputáveis ao Departamento de Jogos.\n\n3 - Os mediadores dos jogos sociais do Estado representam os jogadores junto do Departamento de Jogos, não representando, em caso algum, o Departamento de Jogos junto dos jogadores.\n\n4 - O mediador é responsável perante o Departamento de Jogos pelo pagamento do preço de todas as apostas registadas através dos terminais de jogo que lhe estão atribuídos e que não tenham sido anuladas nos termos do presente Regulamento."
+  },
+  "107770793": {
+   "fragment_id": "107770876",
+   "type": 11,
+   "heading": "Artigo 12.º — Sistema de registo e validação de apostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sistema de registo e validação de apostas\n\n1 - O registo de apostas pode processar-se:\n\na) Mediante a apresentação dos bilhetes emitidos pelo Departamento de Jogos nos quais se tenham inscrito os prognósticos de acordo com as normas do presente Regulamento;\n\nb) Por digitação dos prognósticos do jogador no terminal, nos termos do n.º 4 do artigo 6.º;\n\nc) Pela utilização do cartão de jogador nos outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, nos termos do Decreto-Lei n.º 282/2003, de 8 de novembro.\n\n2 - A inscrição dos prognósticos nos bilhetes não pode ser feita a tinta vermelha.\n\n3 - Para efeitos do presente artigo, o bilhete referido na alínea a) do n.º 1, depois de preenchido com os prognósticos, serve unicamente como suporte da leitura, pelo que carece de qualquer outro valor.\n\n4 - Os dados referentes às apostas apresentadas nos terminais dos mediadores dos jogos sociais do Estado são transmitidos ao sistema central para registo e validação.\n\n5 - Sem a validação e registo no sistema central dos dados apresentados nos terminais as apostas não participam no concurso.\n\n6 - Após a validação, o terminal emite o recibo respetivo, no qual constam os seguintes dados:\n\na) Tipo de jogo;\n\nb) Concurso(s) e semana(s) em que participa;\n\nc) Prognósticos efetuados;\n\nd) (Revogada.)\n\ne) Número de apostas;\n\nf) Valor das apostas;\n\ng) Número de controlo;\n\nh) Dia e hora em que é efetuado o registo e validação no sistema central.\n\n7 - Para todos os efeitos, o recibo será identificado pelos números de controlo que nele figuram.\n\n8 - O mediador de jogos sociais do Estado não pode entregar o recibo ao jogador antes de receber o pagamento correspondente.\n\n9 - Quando o jogador não pague imediatamente as apostas efetuadas, as mesmas serão anuladas pelo mediador, através da reintrodução do recibo no terminal e impressão da palavra «anulado» ou «cancelado», valor da aposta, data e hora, o qual será enviado ao Departamento de Jogos pelo mediador dos jogos sociais do Estado, não podendo em caso algum ser entregue ao jogador.\n\n10 - As apostas podem ser anuladas no terminal onde foram registadas nos vinte minutos posteriores ao registo, ou até à hora de encerramento da aceitação de apostas para o concurso a que respeitem, conforme o que ocorrer primeiro.\n\n11 - O recibo anulado nunca é entregue ao jogador.\n\n12 - O recibo emitido através do terminal de jogo é o único título válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos concursos.\n\n13 - Para as apostas realizadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, o cartão de jogador com o qual foi efetuada a aposta é o único documento válido para solicitar o pagamento dos prémios e constitui a única prova da participação nos concursos.\n\n14 - A participação nos concursos é válida quando:\n\na) As apostas tenham sido registadas validamente e não tenham sido anuladas nos suportes informáticos do sistema central, de acordo com os requisitos e procedimentos estabelecidos no presente Regulamento;\n\nb) A cópia de segurança dos referidos suportes se encontre em poder do júri dos concursos e arquivada, sob sua custódia, em lugar de segurança, antes da hora do começo dos jogos do concurso.\n\n15 - Para todos os efeitos, entender-se-á como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, materializados em disco ótico, cassete, banda magnética, ou outro, em que se encontrem gravadas as apostas correspondentes a cada concurso.\n\n16 - O Departamento de Jogos poderá autorizar a utilização de outros meios e suportes para o registo de apostas, nomeadamente telefone fixo ou móvel, Internet, televisão ou outro.\n\n17 - Relativamente às apostas efetuadas com utilização dos meios previstos no número anterior, as únicas provas de participação nos concursos são os registos informáticos do sistema central do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa e as respetivas cópias de segurança."
+  },
+  "107770794": {
+   "fragment_id": "107770877",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Cartão de Jogador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-A — Cartão de Jogador\n\n1 - Para efetuar os pagamentos e receber os prémios do Totobola através do sistema de registo e validação informático, podem os jogadores utilizar um cartão de jogador emitido pelo Departamento de Jogos.\n\n2 - O cartão de jogador, identificado pelo respetivo número e código de segurança, está associado a uma conta bancária à ordem, possibilitando o pagamento antecipado do jogo, que consiste no seu carregamento até determinado montante para utilização na participação nos jogos sociais do Estado, sendo recarregável e permitindo creditar, até determinado montante, o valor dos prémios, dos mesmos jogos, a que tenha direito.\n\n3 - Os montantes referidos no número anterior, bem como as respetivas regras de utilização, são definidos pelo Departamento de Jogos nas condições gerais de utilização do cartão de jogador, as quais são divulgadas publicamente, através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social de âmbito nacional, pela Internet ou por quaisquer outros meios julgados adequados, e constam da documentação necessariamente entregue ao jogador no momento da aquisição do cartão."
+  },
+  "107770795": {
+   "fragment_id": "107770878",
+   "type": 11,
+   "heading": "Artigo 13.º — Bilhetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Bilhetes\n\n1 - As apostas efetuadas mediante a utilização de bilhetes só poderão ser validadas se forem utilizados bilhetes emitidos para o efeito pelo Departamento de Jogos.\n\n2 - Os bilhetes referidos no número anterior estão à disposição dos jogadores nos mediadores dos jogos sociais do Estado.\n\n3 - Dos bilhetes consta um extrato das regras essenciais de participação no jogo e pagamento dos prémios.\n\n4 - Há duas espécies de bilhetes, ambos sem a indicação dos jogos neles incluídos:\n\na) Normais - destinados aos concursos semanais;\n\nb) (Revogada.)\n\nc) Extraordinários - destinados aos concursos extraordinários.\n\n5 - Os bilhetes normais servem para suporte de leitura para participação no concurso em que forem lidos pelo terminal de jogo, qualquer que seja o número da semana a que respeitem; os bilhetes extraordinários apenas podem ser utilizados em concursos extraordinários.\n\n6 - (Revogado.)\n\n7 - Os bilhetes estão divididos em colunas numeradas, subdivididas em retângulos para a marcação dos prognósticos.\n\n8 - (Revogado.)\n\n9 - (Revogado.)\n\n10 - (Revogado.)"
+  },
+  "107770796": {
+   "fragment_id": "107770879",
+   "type": 11,
+   "heading": "Artigo 14.º — Júri dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Júri dos concursos\n\n1 - Ao júri dos concursos, com a constituição fixada no artigo 30.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, anexos ao Decreto-Lei n.º 235/2008, de 3 de dezembro, compete:\n\na) A receção e a guarda em segurança da cópia dos registos das apostas efetuadas através do sistema de registo e validação de apostas, prevista no artigo 12.º, n.os 14, alínea b), e 15;\n\nb) A comprovação do direito a prémio, a qual tem lugar através da leitura da cópia de segurança mencionada no artigo 12.º, n.os 14, alínea b), e 15, que se encontra em poder do júri dos concursos.\n\n2 - Das operações previstas no número anterior será lavrada a correspondente ata."
+  },
+  "107770797": {
+   "fragment_id": "107770880",
+   "type": 11,
+   "heading": "Artigo 15.º — Resultados dos jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Resultados dos jogos\n\n1 - Considera-se resultado final de um jogo, a vitória, o empate ou a derrota da equipa mencionada em primeiro lugar, verificados no fim do tempo regulamentar desse jogo, sem recurso a prolongamento ou processo de desempate forçado.\n\n2 - (Revogado.)\n\n3 - Se, por qualquer motivo, um jogo for suspenso depois de iniciado e não recomeçar até à data do concurso, considera-se como resultado válido o que se verificar no momento da suspensão.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - Quando qualquer um dos jogos não se realizar, for adiado para além da data do concurso ou se iniciar antes da entrega ao júri da cópia de segurança do suporte magnético referido no artigo 12.º, o Departamento de Jogos procede ao cancelamento do jogo respetivo.\n\n7 - Na situação prevista no número anterior, todos os prognósticos registados, em apostas simples ou múltiplas, sobre o jogo cancelado são considerados prognósticos certos para efeitos de escrutínio.\n\n8 - Após a divulgação do cancelamento de um jogo mantém-se necessário o registo de um prognóstico de apostas simples sobre o mesmo.\n\n9 - Quando forem cancelados 6 ou mais jogos num mesmo concurso, o Departamento de Jogos procede à anulação do respetivo concurso.\n\n10 - O Departamento de Jogos procede à divulgação dos jogos cancelados ou do concurso anulado através dos meios que entenda mais convenientes.\n\n11 - Na situação de anulação de um concurso, o valor das apostas registadas é reembolsado aos jogadores, junto de qualquer mediador de jogos sociais do Estado, contra a entrega do recibo de aposta, emitido em conformidade com o artigo 12.º, e no prazo de 90 dias contados sobre a data de anulação do concurso, sob pena de caducar o direito de reclamar o valor da aposta.\n\n12 - A efetivação do reembolso do valor da aposta ao apostador fica registada no sistema central do Departamento de Jogos e dá origem à emissão de um talão de pagamento que é entregue ao jogador.\n\n13 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao reembolso da aposta numa situação de anulação de concurso."
+  },
+  "107770798": {
+   "fragment_id": "107770881",
+   "type": 11,
+   "heading": "Artigo 16.º — Sorteio de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sorteio de resultados\n\n(Revogado.)"
+  },
+  "107770799": {
+   "fragment_id": "107770882",
+   "type": 11,
+   "heading": "Artigo 17.º — Escrutínio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Escrutínio\n\n1 - O escrutínio é o conjunto de operações pelas quais se procede ao apuramento do direito aos prémios.\n\n2 - A partir das apostas que participaram no concurso através do sistema de registo e validação informático de apostas é gerado no sistema central um ficheiro de apostas premiadas, classificadas por categorias de prémios.\n\n3 - O sistema informático central fornecerá ao júri dos concursos e aos serviços de escrutínio informação detalhada da receita obtida e do número de prémios por categoria de cada concurso.\n\n4 - O controlo dos prémios será efetuado pelo júri dos concursos, por comparação com a cópia de segurança prevista no artigo 12.º, n.os 14, alínea b), e 15, prevalecendo esta em caso de dúvida.\n\n5 - O controlo das apostas premiadas será feito:\n\na) Por amostragem, quando os respetivos valores forem inferiores a (euro) 5.000;\n\nb) Diretamente pelo júri dos concursos, quando iguais ou superiores a (euro) 5.000.\n\n6 - Concluído o controlo de prémios, o júri dos concursos confirmará ou retificará, aos serviços de escrutínio, a informação detalhada sobre as quantidades de prémios por categorias, para que se proceda à identificação do valor que corresponder a cada aposta premiada."
+  },
+  "107770800": {
+   "fragment_id": "107770883",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Cálculo da quantidade de prémios com jogos base cancelados em apostas múltiplas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º-A — Cálculo da quantidade de prémios com jogos base cancelados em apostas múltiplas\n\n1 - Se um apostador prognosticou uma ou mais apostas duplas e ou uma ou mais apostas triplas num ou mais jogos base, o cálculo a efetuar para se determinar a quantidade total de prémios a atribuir pelos 1.º, 2.º e 3.º prémios, caso algum desses jogos venha a ser cancelado, processa-se da seguinte forma:\n\na) Ao sistema de apostas múltiplas apostado são retiradas a(s) dupla(s) e ou a(s) tripla(s) correspondentes aos jogos cancelados, determinando-se o sistema de apostas múltiplas aplicável aos prognósticos restantes;\n\nb) Para cada uma das apostas certas correspondentes aos 1.º, 2.º e 3.º prémios do sistema de apostas múltiplas restantes, multiplica-se o número de apostas do sistema inicial e divide-se pelo número de apostas do sistema de apostas restante, determinando-se assim a quantidade de apostas certas por categoria de prémio.\n\n2 - O valor total do prémio final a receber resulta do somatório dos produtos da quantidade de prémios apurada por cada categoria de prémio, de acordo com o número anterior, pelo valor individual do mesmo, apurado no escrutínio de prémios do respetivo concurso.\n\n3 - Quando os jogos cancelados, num máximo de cinco jogos, correspondam à totalidade de duplas e ou triplas do sistema de apostas múltiplas apostado, a quantidade de prémios a atribuir corresponderá:\n\na) Sem falhas nos prognósticos simples, à quantidade de primeiros prémios multiplicado pelas apostas simples correspondentes;\n\nb) Com uma falha num prognóstico simples, à quantidade de segundos prémios multiplicado pelas apostas simples correspondentes;\n\nc) Com duas falhas em prognósticos simples, à quantidade de terceiros prémios multiplicado pelas apostas simples correspondentes."
+  },
+  "107770801": {
+   "fragment_id": "107770884",
+   "type": 11,
+   "heading": "Artigo 18.º — Divulgação das apostas premiadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Divulgação das apostas premiadas\n\n1 - O número provisório das apostas premiadas em cada concurso e o valor dos respetivos quinhões são divulgados pelos terminais de apostas nos mediadores, pelos órgãos de comunicação social, pela Internet e constam de um cartaz informativo afixado nos estabelecimentos autorizados pelo Departamento de Jogos.\n\n2 - Quando haja alteração dos resultados provisórios, o número definitivo das apostas premiadas bem como o valor dos respetivos quinhões são tornados públicos através do cartaz referido no número anterior, após o julgamento das reclamações, nos termos do artigo 20.º\n\n3 - As apostas premiadas são divulgadas pelo seu valor ilíquido."
+  },
+  "107770802": {
+   "fragment_id": "107770885",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamento de prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamento de prémios\n\n1 - Os prémios de valor inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n2 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n3 - O pagamento dos prémios é efetuado obedecendo aos seguintes trâmites:\n\na) Por solicitação do jogador o mediador dos jogos sociais do Estado procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes do sistema central, sendo apresentado no visor uma mensagem indicando o valor do prémio ou com a indicação para o jogador se deslocar ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa;\n\nb) No caso de o recibo apresentar um prémio igual ou inferior a (euro) 150, após confirmação por parte do jogador premiado de que pretende receber o seu prémio, é impresso pelo terminal na frente do recibo a palavra «pago», valor do prémio, data e hora, e o mediador ou o Departamento de Jogos procedem ao respetivo pagamento;\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 2.000, o pagamento é efetuado através de transferência para a conta bancária indicada pelo portador do título premiado;\n\nd) (Revogada.)\n\ne) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para a conta bancária do portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\ng) A efetivação do pagamento fica sempre registada no sistema central e dá origem à emissão de um talão de pagamento, que é entregue ao apostador;\n\nh) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprova a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emite outro documento que permita o respetivo pagamento.\n\n4 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia-se no dia imediatamente seguinte ao da realização do último jogo do concurso para os prémios de montante inferior a (euro) 5.000.\n\n5 - Os prémios iguais ou superiores a (euro) 5.000 são pagos após o prazo das reclamações a que se refere o artigo seguinte.\n\n6 - O pagamento das apostas registadas através de outros canais da plataforma de acesso multicanal do Departamento de Jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, são pagos da seguinte forma e de acordo com as condições de utilização do cartão do jogador:\n\na) Os prémios de valor igual ou inferior a (euro) 150 são transferidos automaticamente para o cartão de jogador através do qual o bilhete foi adquirido;\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária associada ao cartão de jogador, após o preenchimento de um formulário eletrónico e recorrendo a um dos seguintes meios:\n\ni) Comprovação mediante original em suporte eletrónico, através da leitura do cartão de cidadão por via de dispositivo apropriado com ligação à Internet e aos serviços de autentificação da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);\n\nii) Envio para o Departamento de Jogos de certidão ou cópia certificada de originais dos documentos de identificação em suporte físico;\n\niii) Identificação presencial junto do Departamento de Jogos;\n\nd) Os prémios de valor igual ou superior a (euro) 5.000 são pagos através de transferência para a conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos.\n\n7 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n8 - O direito a prémios caduca decorridos 90 dias sobre a data da realização do último jogo do concurso a que respeita.\n\n9 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, responsabilizando-se o Departamento de Jogos pelo pagamento dos prémios antes do decurso do prazo de caducidade, sem prejuízo do disposto nos artigos 20.º e 21.º"
+  },
+  "107770803": {
+   "fragment_id": "107770886",
+   "type": 11,
+   "heading": "Artigo 20.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reclamações\n\n1 - Todo o possuidor de um recibo emitido pelo terminal de jogos, e que tendo apresentado o mesmo para pagamento num mediador dos jogos sociais do Estado seja informado que não tem direito a prémio, que o prémio já foi pago, ou que existe algum outro motivo que impeça o seu pagamento, tem o direito de reclamar.\n\n2 - Na situação de anulação de um concurso, todo o possuidor de um recibo de aposta, emitido em conformidade com o artigo 12.º, e que tendo apresentado o mesmo para reembolso num mediador dos jogos sociais do Estado seja informado de que não tem direito ao reembolso, que o reembolso já foi efetuado ou que existe algum outro motivo que impeça o seu reembolso, tem direito a reclamar.\n\n3 - As reclamações são apresentadas por escrito, em formulário próprio, a fornecer pelos mediadores dos jogos sociais do Estado e a entregar no Departamento de Jogos.\n\n4 - As reclamações também podem ser apresentadas por telegrama, correio eletrónico, telecópia ou telex, desde que sejam indicados, pelo menos, os seguintes elementos:\n\na) Nome completo e morada do reclamante;\n\nb) Semana a que se reporta o concurso e data do mesmo;\n\nc) Número do terminal que registou a aposta, ou, não sendo possível, o número do mediador e o local do estabelecimento;\n\nd) Números de controlo do recibo;\n\ne) Motivo da reclamação.\n\n5 - O prazo para apresentação de reclamação conta-se a partir do último jogo do concurso a que respeita e é de 12 dias para os prémios de valor igual ou superior a (euro) 5.000 e de 60 dias para os outros, salvo no caso de acumulação com prémios de valor superior a (euro) 5.000, em que o prazo é de 12 dias.\n\n6 - O prazo para apresentação de reclamação num concurso anulado conta-se a partir da data da anulação do respetivo concurso, nos termos do número anterior, com as devidas adaptações.\n\n7 - O prazo é de caducidade, não sendo considerada qualquer reclamação que dê entrada no Departamento de Jogos fora do prazo."
+  },
+  "107770804": {
+   "fragment_id": "107770887",
+   "type": 11,
+   "heading": "Artigo 21.º — Júri de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Júri de reclamações\n\n1 - As reclamações são julgadas por um júri, constituído nos termos do artigo 35.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de dezembro.\n\n2 - Deste júri não pode fazer parte quem tenha tido intervenção na decisão reclamada.\n\n3 - As deliberações do júri de reclamações podem ser impugnadas judicialmente no tribunal da jurisdição administrativa com sede na área de Lisboa."
+  },
+  "107770805": {
+   "fragment_id": "107770888",
+   "type": 11,
+   "heading": "Artigo 22.º — Fraudes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Fraudes\n\nA prática de atos fraudulentos com vista ao recebimento de prémios ou ao reembolso do valor da aposta num concurso anulado, nomeadamente a falsificação dos recibos emitidos através do terminal, é objeto de participação para efeitos de procedimento criminal, nos termos da lei geral."
+  },
+  "107770806": {
+   "fragment_id": "107770889",
+   "type": 11,
+   "heading": "Artigo 23.º — Casos omissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Casos omissos\n\nOs casos omissos e os duvidosos são resolvidos pelo Administrador Executivo do Departamento de Jogos, exceto em matéria de atribuição de prémios e de reembolso do valor da aposta num concurso anulado, em que é competente o júri de reclamações."
+  },
+  "107770807": {
+   "fragment_id": "107770890",
+   "type": 11,
+   "heading": "Artigo 24.º — Tabelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Tabelas\n\nSão publicadas em anexo ao presente Regulamento, fazendo parte integrante do mesmo, as tabelas I e II, relativas, respetivamente, aos sistemas de apostas múltiplas e aos prémios em apostas múltiplas, as quais não se aplicam quando haja lugar ao cancelamento de jogos no concurso."
+  },
+  "107770808": {
+   "fragment_id": "107770891",
+   "type": 14,
+   "heading": "Anexo I — Tabela dos sistemas de apostas múltiplas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Tabela dos sistemas de apostas múltiplas\n\n(ver documento original)"
+  },
+  "107770809": {
+   "fragment_id": "107770892",
+   "type": 14,
+   "heading": "Anexo II — Tabela dos prémios em apostas múltiplas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Tabela dos prémios em apostas múltiplas\n\n(ver documento original)"
+  },
+  "107770810": {
+   "fragment_id": "107770893",
+   "type": 14,
+   "heading": "Anexo II — [a que se refere a alínea b) do artigo 12.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — [a que se refere a alínea b) do artigo 12.º]\n\nREGULAMENTO DA LOTARIA NACIONAL\n\n> Nota: [Artigo 4.º, Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347) Estas alterações produzem efeitos: a) Para a Lotaria Nacional Clássica, a partir da 37.ª Extração de 2019; b) Para a Lotaria Nacional Popular, a partir da 37.ª Extração de 2019."
+  },
+  "107770811": {
+   "fragment_id": "107770894",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Regulamento estabelece as normas de participação no jogo social do Estado denominado por Lotaria Nacional, que consiste em sorteios de números explorados e organizados, nos termos da lei, pela Santa Casa da Misericórdia de Lisboa, através do seu Departamento de Jogos."
+  },
+  "107770812": {
+   "fragment_id": "107770895",
+   "type": 11,
+   "heading": "Artigo 2.º — Lotaria Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Lotaria Nacional\n\n1 - A Lotaria Nacional é explorada sob a forma de emissões de bilhetes numerados, físicos e desmaterializados, para participação em sorteios de números, denominados por extrações.\n\n2 - A Lotaria Nacional tem duas modalidades:\n\na) Clássica;\n\nb) Popular."
+  },
+  "107770813": {
+   "fragment_id": "107770896",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissões de bilhetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Emissões de bilhetes\n\n1 - As emissões de bilhetes, físicos e desmaterializados, da Lotaria Nacional são numerados de 0 (00000) até ao número mais elevado da emissão.\n\n2 - As emissões de bilhetes são ordinárias, especiais e extraordinárias, em função do capital que se pretende obter, da quantidade de números a emitir, da quantidade de títulos em que é impresso cada número, do preço dos títulos e do valor dos prémios a atribuir.\n\n3 - As emissões de bilhetes podem ser simples ou por séries.\n\n4 - Os bilhetes de Lotaria Nacional podem ser emitidos sob a forma de:\n\na) Títulos únicos, em que a um número corresponde apenas um único título;\n\nb) Títulos compostos, em que o número é impresso em tantas frações quantas as que constam do plano de emissão.\n\n5 - Os títulos compostos não têm existência autónoma ou diferente das frações que o constituem.\n\n6 - Sempre que os bilhetes da Lotaria Nacional sejam compostos por frações, estas são idênticas, têm impresso o mesmo número e habilitam a uma parte do prémio que cabe àqueles.\n\n7 - Os bilhetes físicos ou suas frações contêm obrigatoriamente, além de outros, os seguintes elementos:\n\na) Na frente - a modalidade de Lotaria Nacional e a denominação do sorteio se atribuída, o número e a data da extração, o preço, o número de série se existir mais de uma, o número do bilhete e da fração, o código de barras, o número de segurança e as assinaturas de chancela do provedor da Santa Casa da Misericórdia de Lisboa e de um administrador executivo do Departamento de Jogos;\n\nb) No verso - um resumo do plano de prémios, o número de séries, o número de bilhetes emitidos, o prazo de caducidade do direito aos prémios, a norma que proíbe a venda ao público por preço superior ao valor facial, a norma que proíbe a venda a menores e a outros incapazes, a norma que proíbe a subdivisão de frações e, eventualmente, outras."
+  },
+  "107770814": {
+   "fragment_id": "107770897",
+   "type": 11,
+   "heading": "Artigo 4.º — Bilhetes e frações desmaterializados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Bilhetes e frações desmaterializados\n\n1 - Os bilhetes desmaterializados ou as respetivas frações são explorados em suporte eletrónico, através dos canais de distribuição da plataforma de acesso multicanal: nos terminais de jogos nos mediadores dos jogos sociais do Estado; no sítio da Internet www.jogossantacasa.pt e noutros permitidos por lei.\n\n2 - Os bilhetes ou as frações desmaterializados vendidos pelos mediadores dos jogos sociais do Estado são impressos nos terminais de jogos, nos termos do presente Regulamento, constando do documento emitido os seguintes dados:\n\na) Modalidade de Lotaria Nacional;\n\nb) Número e data da extração;\n\nc) Denominação do sorteio se atribuída;\n\nd) Número do bilhete e da fração;\n\ne) Número de série se existir mais de uma;\n\nf) Preço;\n\ng) Data e hora do registo e validação no sistema central;\n\nh) Números de código e de controlo.\n\n3 - O documento emitido através do terminal de jogos, nos termos do número anterior, é o único título válido para solicitar o pagamento do prémio e constitui a única prova de participação no sorteio.\n\n4 - Para todos os efeitos o documento emitido é identificado pelos números de controlo que nele figuram."
+  },
+  "107770815": {
+   "fragment_id": "107770898",
+   "type": 11,
+   "heading": "Artigo 5.º — Características especiais dos bilhetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Características especiais dos bilhetes\n\n1 - As frações que compõem os bilhetes da Lotaria Nacional são títulos equiparados a moeda nos termos estabelecidos no Código Penal.\n\n2 - À perda ou extravio de quaisquer bilhetes ou frações da Lotaria Nacional não são aplicáveis as disposições referentes à perda, destruição ou extravio de títulos.\n\n3 - O Departamento de Jogos não se responsabiliza, em qualquer caso, pela perda, roubo, furto ou extravio de bilhetes e frações das lotarias."
+  },
+  "107770816": {
+   "fragment_id": "107770899",
+   "type": 11,
+   "heading": "Artigo 6.º — Planos de emissões e de prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Planos de emissões e de prémios\n\n1 - Compete ao Departamento de Jogos, para cada modalidade da Lotaria Nacional, fixar anualmente o número de extrações ordinárias, especiais e extraordinárias, para cada modalidade.\n\n2 - Compete ao Departamento de Jogos fixar trimestralmente:\n\na) O plano de emissão com o número de bilhetes a emitir para cada extração;\n\nb) O plano de prémios com a quantidade a atribuir no total da emissão e respetivos valores.\n\n3 - Os planos referidos no número anterior contêm os seguintes elementos:\n\na) Designação da modalidade de Lotaria Nacional;\n\nb) Data e hora da extração;\n\nc) Número de bilhetes da emissão e respetivas séries, se as houver;\n\nd) Número de frações que constituem cada bilhete, se as houver;\n\ne) Preço de venda ao público;\n\nf) Quantidade, valor unitário e valor global dos prémios a atribuir, anunciados pelo seu valor ilíquido.\n\n4 - O Departamento de Jogos determina e disponibiliza ao público, até 40 dias antes da respetiva extração, os números dos bilhetes físicos e desmaterializados da emissão.\n\n5 - Os planos de emissão e de prémios da Lotaria Nacional são assinados por administrador executivo do Departamento de Jogos e são publicados através de aviso no Diário da República.\n\n6 - O plano de prémios não contempla, na Lotaria Nacional Clássica, a acumulação de prémios resultante da decomposição dos números dos 1.º, 2.º e 3.º prémios.\n\n7 - O plano de prémios não contempla, na Lotaria Nacional Popular, a acumulação de prémios resultante da decomposição dos números dos 1.º, 2.º, 3.º e 4.º prémios.\n\n8 - O Departamento de Jogos pode determinar alterações às emissões das lotarias já aprovadas, sendo, todavia, essas alterações obrigatoriamente publicadas no Diário da República antes de os bilhetes para essa extração serem colocados à disposição dos mediadores dos jogos sociais do Estado, sem o que as alterações às emissões não poderão ser determinadas.\n\n9 - As extrações dos números premiados da Lotaria Nacional realizam-se na sala de extrações da Lotaria Nacional, ou noutro local indicado, no dia e hora constantes dos planos de emissão e de prémios, e regem-se pelas normas deste Regulamento e pelas normas de cada sorteio aprovadas conjuntamente com os planos referidos, sem prejuízo do disposto no número seguinte.\n\n10 - O Departamento de Jogos pode determinar que as extrações da Lotaria Nacional se realizem fora da sala de extrações ou em local diferente do inicialmente indicado, por aviso afixado nos locais e meios de estilo, e mediante divulgação através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social, pela Internet e por quaisquer outros meios julgados adequados."
+  },
+  "107770817": {
+   "fragment_id": "107770900",
+   "type": 11,
+   "heading": "Artigo 7.º — Distribuição das receitas para prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Distribuição das receitas para prémios\n\nA importância destinada a prémios corresponde a 70 % do capital emitido."
+  },
+  "107770818": {
+   "fragment_id": "107770901",
+   "type": 11,
+   "heading": "Artigo 8.º — Colocação da Lotaria Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Colocação da Lotaria Nacional\n\n1 - Os bilhetes são colocados à disposição do público através dos mediadores dos jogos sociais do Estado e da plataforma de acesso multicanal com, pelo menos, um mês de antecedência sobre a data do sorteio.\n\n2 - Até ao dia útil anterior à realização da extração de uma modalidade de Lotaria Nacional os mediadores dos jogos sociais do Estado podem adquirir os bilhetes físicos com os números que lhes estão atribuídos para o sorteio seguinte da mesma modalidade, podendo este prazo ser antecipado pelo Departamento de Jogos.\n\n3 - Os bilhetes físicos não adquiridos no prazo estabelecido no número anterior poderão ser distribuídos pelos mediadores que o solicitem.\n\n4 - Os mediadores podem adquirir bilhetes físicos para a extração de uma modalidade de Lotaria Nacional até ao dia útil anterior à sua realização.\n\n5 - Os bilhetes físicos adquiridos podem ser pagos a pronto, garantidos por caução ou por qualquer outra garantia que o Departamento de Jogos aceite, de montante não inferior ao valor máximo dos bilhetes adquiridos."
+  },
+  "107770819": {
+   "fragment_id": "107770902",
+   "type": 11,
+   "heading": "Artigo 9.º — Reserva de bilhetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reserva de bilhetes\n\n1 - O Departamento de Jogos pode reservar até 5 % do total da emissão de bilhetes de um sorteio para, nomeadamente, admitir novos mediadores dos jogos sociais do Estado ou para distribuir pelos mediadores que tenham realizado um volume de vendas que o justifique.\n\n2 - Os bilhetes reservados podem ser distribuídos pelos mediadores, fazendo-se rateio entre eles, sempre que os pedidos forem superiores à quantidade de bilhetes disponível."
+  },
+  "107770820": {
+   "fragment_id": "107770903",
+   "type": 11,
+   "heading": "Artigo 10.º — Venda dos bilhetes ou frações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Venda dos bilhetes ou frações\n\n1 - Os bilhetes ou as frações são obrigatoriamente vendidos ao público pelo respetivo valor facial.\n\n2 - Os bilhetes físicos ou as respetivas frações da Lotaria Nacional são vendidos diretamente pelo Departamento de Jogos e pelos mediadores dos jogos sociais do Estado.\n\n3 - O exercício da atividade de venda ambulante de bilhetes ou frações físicos da Lotaria Nacional depende da prévia atribuição de licença, renovável anualmente, pela câmara municipal da área do respetivo município, de acordo com os termos e os requisitos previstos na lei, não conferindo a emissão desta licença, por modo algum, a qualidade de mediador dos jogos sociais do Estado.\n\n4 - Os bilhetes ou frações desmaterializados da Lotaria Nacional são vendidos pelos mediadores dos jogos sociais do Estado, após impressão no terminal de jogos, no sítio da Internet www.jogossantacasa.pt e noutros canais, nos termos regulados pelo Departamento de Jogos, cujo acesso é disponibilizado através da sua plataforma de acesso multicanal.\n\n5 - A aquisição pelos jogadores de bilhetes ou frações desmaterializados inicia-se com o registo da modalidade de Lotaria Nacional, da extração, do número do bilhete ou da fração e do número da série, se existir mais de uma, através do sistema de validação informático do Departamento de Jogos, por sua escolha, entre os títulos que se encontrem disponíveis, e mediante:\n\na) A solicitação ao mediador dos jogos sociais do Estado da impressão de um número escolhido aleatoriamente pelo terminal de jogos;\n\nb) A digitação no terminal de jogos, pelo mediador dos jogos sociais do Estado, de um número escolhido pelos jogadores e sua impressão;\n\nc) A escolha de um número pelos jogadores que sejam titulares de um cartão de jogador.\n\n6 - Os dados referentes aos números dos bilhetes e frações desmaterializados escolhidos pelos jogadores são transmitidos ao sistema central para registo e validação em suporte informático.\n\n7 - Sem o registo e a validação no sistema central dos dados apresentados no terminal de jogos, relativos aos bilhetes e frações desmaterializados, os jogadores não participam no sorteio.\n\n8 - O jogador efetua o pagamento da importância correspondente ao(s) número(s) registado(s) e validado(s) informaticamente antes de o mediador dos jogos sociais do Estado lhe entregar o(s) documento(s) emitido(s) através do terminal.\n\n9 - O mediador dos jogos sociais do Estado não pode entregar o documento emitido pelo terminal ao jogador antes de receber o pagamento correspondente.\n\n10 - Quando, por qualquer motivo, o jogador não pague imediatamente os números escolhidos, os mesmos serão anulados; constando tal facto do documento emitido pelo terminal que terá aposto a expressão «anulado», o qual é enviado ao Departamento de Jogos pelo mediador dos jogos sociais do Estado, não podendo em caso algum ser entregue ao jogador.\n\n11 - Os números escolhidos podem ser anulados no terminal onde foram registados nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o sorteio a que respeitam, conforme a que ocorrer primeiro, sendo sempre emitido documento de cancelamento.\n\n12 - O documento anulado nunca é entregue ao jogador.\n\n13 - Os mediadores dos jogos sociais do Estado podem, nos termos do n.º 11, anular números escolhidos pelos jogadores até aos limites fixados e divulgados pelo Departamento de Jogos.\n\n14 - Os números anulados pelos mediadores, nos termos do número anterior, apenas estão disponíveis para venda no dia seguinte ao da respetiva anulação.\n\n15 - O sistema central anula igualmente os números registados e validados através do sistema de registo e validação informático quando se verifica que os mesmos foram efetuados em violação das condições regulamentares, tendo o jogador direito à devolução do valor do preço pago.\n\n16 - A participação no sorteio mediante registo e validação informático só é válida quando, cumulativamente:\n\na) Os números tenham sido registados validamente e não tenham sido anulados nos suportes informáticos do sistema central, nos termos e de acordo com os requisitos e procedimentos estabelecidos no presente Regulamento;\n\nb) A cópia de segurança dos ditos suportes se encontre em lugar de segurança no Departamento de Jogos antes da hora do começo do sorteio.\n\n17 - Para todos os efeitos entende-se como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, materializados em disco ótico, cassete, banda magnética ou outro em que se encontrem gravados os números vendidos dos bilhetes ou frações correspondentes a cada sorteio.\n\n18 - Relativamente à aquisição de bilhetes ou frações desmaterializados, a única prova de participação no sorteio são os registos informáticos do sistema central do Departamento de Jogos e as respetivas cópias de segurança."
+  },
+  "107770821": {
+   "fragment_id": "107770904",
+   "type": 11,
+   "heading": "Artigo 11.º — Cartão de jogador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cartão de jogador\n\n1 - Para efetuar os pagamentos e receber os prémios da Lotaria Nacional, através de meios eletrónicos, podem os jogadores utilizar um cartão de jogador emitido pelo Departamento de Jogos.\n\n2 - O cartão de jogador, identificado pelo respetivo número e código de segurança, está associado a uma conta bancária à ordem, possibilitando o pagamento antecipado de jogo, que consiste no seu carregamento até determinado montante para utilização na participação nos jogos sociais do Estado, sendo recarregável e permitindo creditar, até determinado montante, o valor dos prémios, dos mesmos jogos, a que tenha direito.\n\n3 - Os montantes referidos no número anterior, bem como as respetivas regras de utilização, são definidos pelo Departamento de Jogos nas condições gerais de utilização do cartão de jogador, as quais são divulgadas publicamente, através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social, pela Internet e por quaisquer outros meios julgados adequados, e constam da documentação necessariamente entregue ao jogador no momento da aquisição do cartão."
+  },
+  "107770822": {
+   "fragment_id": "107770905",
+   "type": 11,
+   "heading": "Artigo 12.º — Mediadores dos jogos sociais do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Mediadores dos jogos sociais do Estado\n\n1 - Os mediadores dos jogos sociais do Estado são representantes dos jogadores junto do Departamento de Jogos e agem exclusivamente nessa qualidade, não representando, em caso algum, o Departamento de Jogos junto dos jogadores.\n\n2 - As irregularidades, erros ou omissões cometidos pelos mediadores dos jogos sociais do Estado no exercício das suas funções não são imputáveis ao Departamento de Jogos.\n\n3 - Para além do previsto no respetivo regulamento, são deveres dos mediadores dos jogos sociais do Estado que vendem bilhetes ou frações desmaterializados da Lotaria Nacional:\n\na) Proceder aos registos dos números da Lotaria Nacional escolhidos pelos jogadores nos terminais de jogos, de acordo com o disposto no artigo 10.º;\n\nb) Depositar as importâncias recebidas dos jogadores com a venda, por seu intermédio, de bilhetes e frações da Lotaria Nacional através dos terminais de jogos, depois de deduzida a remuneração a que têm direito e o valor dos prémios por si pagos."
+  },
+  "107770823": {
+   "fragment_id": "107770906",
+   "type": 11,
+   "heading": "Artigo 13.º — Devolução dos bilhetes físicos não vendidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Devolução dos bilhetes físicos não vendidos\n\n1 - Os mediadores dos jogos sociais do Estado podem devolver bilhetes físicos inteiros, meios bilhetes, se os houver, e frações.\n\n2 - A identificação dos números dos bilhetes e frações a devolver devem ser efetuadas, impreterivelmente:\n\na) Pelos mediadores que disponham de terminal de jogos ligado diretamente ao sistema informático do Departamento de Jogos ou que se encontrem registados para o efeito na plataforma de acesso multicanal, até quinze minutos antes da hora da extração;\n\nb) Para os demais mediadores, até uma hora antes da extração.\n\n3 - Os bilhetes e frações identificados pelos mediadores, nos termos do número anterior, são devolvidos ao Departamento de Jogos no prazo máximo de 15 dias após a data do sorteio."
+  },
+  "107770824": {
+   "fragment_id": "107770907",
+   "type": 11,
+   "heading": "Artigo 14.º — Sorteios dos números",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sorteios dos números\n\n1 - Na Lotaria Nacional Clássica o sorteio realiza-se da seguinte forma:\n\na) Os bilhetes a sortear são numerados de 0 (00000) até ao último número da emissão;\n\nb) A extração dos algarismos que compõem o número sorteado far-se-á por meio de cinco esferas que, da esquerda para a direita, correspondem sucessivamente à ordem das dezenas de milhar, milhares, centenas, dezenas e unidades;\n\nc) Na esfera correspondente à ordem das dezenas de milhar serão introduzidas bolas homogéneas, iguais em material, volume e peso, numeradas de 0 até à penúltima dezena de milhar da emissão;\n\nd) Em cada uma das outras quatro esferas serão introduzidas 10 bolas homogéneas, iguais em material, volume e peso, numeradas de 0 a 9;\n\ne) Terminado o ingresso de todas as bolas numeradas nas respetivas esferas, serão estas acionadas mediante comandos elétricos ou manuais, de acordo com o equipamento utilizado, de modo que as bolas criem movimentos giratórios;\n\nf) Em dado momento, sairá uma bola de cada esfera;\n\ng) O número premiado será o que resultar da justaposição, em ordem decimal, dos algarismos inscritos nas cinco bolas saídas;\n\nh) Após conferência e registo do número formado, as bolas serão reintroduzidas nas esferas respetivas de modo a garantir absoluta equiprobabilidade na formação de novo número;\n\ni) A extração de cada algarismo só se concretiza quando a respetiva bola sair completamente fora da esfera, não existindo antes desse momento;\n\nj) Para atribuição dos três prémios de valor mais elevado, será utilizada uma sexta esfera em que serão introduzidas três bolas homogéneas, iguais em material, volume e peso, numeradas com 1.º, 2.º e 3.º e correspondentes aos 1.º, 2.º e 3.º prémios;\n\nk) A cada um dos números formados corresponderá o prémio indicado na bola saída da 6.ª esfera;\n\nl) Dentro de cada grupo de prémios considerar-se-á nulo qualquer número que vier a repetir-se, extraindo-se, então, novo número e novo prémio, exceto no caso de se tratar dos três primeiros prémios;\n\nm) Nos 1.º, 2.º e 3.º prémios, se ao número já contemplado com um prémio couber outro de valor superior, será anulado o de menor valor, extraindo-se, então, novo número e novo prémio;\n\nn) Se o prémio maior sair no primeiro número da emissão (00000), os prémios de aproximação recairão no último número da emissão e no número (00001) e, se sair no último número da emissão, esses prémios recairão no primeiro e no penúltimo número da emissão;\n\no) Sempre que o plano de prémios os fixar, a determinação dos números cujos quatro algarismos finais tenham direito a prémio far-se-á por meio de quatro das esferas referidas na alínea d);\n\np) Após sucessivas extrações simultâneas destas esferas, formar-se-ão diferentes sequências numéricas de quatro algarismos, necessárias à atribuição dos prémios previstos no respetivo plano de prémios;\n\nq) As sequências que vierem a repetir-se serão anuladas, procedendo-se a nova extração;\n\nr) Sempre que o plano de prémios o fixar, a determinação dos números cujos três algarismos finais tenham direito a prémio far-se-á por meio de três das esferas referidas na alínea d);\n\ns) Após sucessivas extrações simultâneas destas esferas, formar-se-ão diferentes sequências numéricas de três algarismos, necessárias à atribuição dos prémios previstos no respetivo plano;\n\nt) Sempre que o plano de prémios o fixar, a determinação dos números cujos dois algarismos finais tenham direito a prémio far-se-á por meio de duas das esferas referidas na alínea d);\n\nu) Após sucessivas extrações simultâneas destas esferas, formar-se-ão diferentes sequências numéricas de dois algarismos, necessárias à atribuição dos prémios previstos no respetivo plano;\n\nv) Sempre que o plano de prémios o fixar, os três algarismos finais do 1.º, 2.º e 3.º prémios não acumularão com o valor atribuído à sequência de dois algarismos decomposta do mesmo prémio, nem com a terminação, no caso do 1.º prémio;\n\nw) Serão anuladas as sequências que vierem a repetir-se, procedendo-se a nova extração;\n\nx) Sempre que o plano de prémios o fixar é sorteada uma terminação;\n\ny) O plano de prémios pode contemplar a criação de outros prémios.\n\n2 - Na Lotaria Nacional Popular o sorteio realiza-se da seguinte forma:\n\na) Os bilhetes são numerados de 0 (00000) até ao último número da emissão;\n\nb) A extração dos algarismos que compõem o número sorteado far-se-á por meio de cinco esferas que, da esquerda para a direita, corresponderão sucessivamente à ordem das dezenas de milhar, milhares, centenas, dezenas e unidades;\n\nc) Em cada uma das esferas serão introduzidas 10 bolas homogéneas, iguais em material, volume e peso, numeradas de 0 a 9;\n\nd) Terminado o ingresso de todas as bolas numeradas nas respetivas esferas, serão a estas imprimidos movimentos giratórios, mediante comandos elétricos ou manuais, de acordo com o equipamento utilizado;\n\ne) Em dado momento sairá uma bola de cada esfera;\n\nf) A extração de um algarismo só existe quando a bola sair completamente da esfera, não existindo antes desse momento;\n\ng) O número premiado será o que resultar da justaposição, em ordem decimal, dos algarismos inscritos nas cinco bolas saídas;\n\nh) Após conferência e registo do número formado, as bolas serão reintroduzidas nas esferas respetivas de modo a garantir absoluta equiprobabilidade na formação de novo número;\n\ni) Para atribuição dos quatro prémios de extração de valor mais elevado, será utilizada uma 6.ª esfera em que serão introduzidas quatro bolas marcadas com 1.º, 2.º, 3.º e 4.º que correspondem respetivamente aos 1.º, 2.º, 3.º e 4.º prémios;\n\nj) A cada um dos números formados corresponderá o prémio indicado na bola saída da 6.ª esfera;\n\nk) Dentro de cada grupo de prémios, considerar-se-á nulo qualquer número que vier a repetir-se, extraindo-se, então, novo número e novo prémio;\n\nl) Nos 1.º, 2.º, 3.º e 4.º prémios, se ao número já contemplado com um prémio couber outro de valor superior, será anulado o de menor valor, extraindo-se, então, novo número e novo prémio;\n\nm) A determinação da «série sorteada» faz-se na 6.ª esfera, na qual serão introduzidas bolas homogéneas, iguais em material, volume e peso, através de identificação numérica ou alfanumérica da primeira à última série emitida;\n\nn) Sempre que o plano de prémios o fixar, a determinação dos números cujos dois algarismos finais tenham direito a prémio far-se-á por meio de duas das esferas referidas na alínea c);\n\no) Após sucessivas extrações simultâneas destas esferas, formar-se-ão diferentes sequências numéricas de dois algarismos, necessárias à atribuição dos prémios previstos no respetivo plano;\n\np) Serão anuladas, além das que vierem a repetir-se, as sequências que forem iguais aos dois algarismos finais dos 1.º, 2.º, 3.º e 4.º prémios;\n\nq) Sempre que o plano de prémio o fixar, as sequências de quatro algarismos finais dos 1.º, 2.º, 3.º e 4.º prémios não acumularão com os valores atribuídos às sequências de três e de dois algarismos decompostos do mesmo prémio nem com a terminação, no caso do 1.º prémio;\n\nr) Sempre que o plano de prémios o fixar é sorteada uma terminação;\n\ns) O plano de prémios pode contemplar a criação de outros prémios.\n\n3 - O número de esferas e o número de bolas colocado na esfera mais à esquerda variará conforme a quantidade de números de cada emissão.\n\n4 - Em caso de avaria de uma das esferas, é utilizada a esfera correspondente às unidades ou, sendo esta a avariada, a das dezenas.\n\n5 - O Departamento de Jogos terá disponível e manterá em perfeitas condições pelo menos dois conjuntos de bolas numeradas, homogéneas, iguais em material, volume e peso, para cada mecanismo de extração que utilize, dos quais um será usado em cada sorteio da Lotaria Nacional.\n\n6 - Os conjuntos de bolas, nomeadamente o seu peso, são verificados regularmente pelo júri das extrações.\n\n7 - Os conjuntos de bolas serão numerados, sendo sorteado em cada semana o conjunto a utilizar.\n\n8 - As operações da extração realizam-se em ato público e são presididas pelo júri das extrações, nos termos do artigo seguinte."
+  },
+  "107770825": {
+   "fragment_id": "107770908",
+   "type": 11,
+   "heading": "Artigo 15.º — Júri das extrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Júri das extrações\n\n1 - O júri das extrações superintende e fiscaliza as extrações da Lotaria Nacional, nos termos dos artigos 33.º e 34.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de dezembro.\n\n2 - Em caso de impossibilidade de efetivação das extrações, estas serão adiadas pelo júri, que fundamentará a decisão na respetiva ata.\n\n3 - Da deliberação de adiamento das extrações será dado conhecimento imediato ao(s) administrador(es) executivo(s) do Departamento de Jogos, devendo ser afixados avisos explicativos nos locais de estilo.\n\n4 - A nova data, a hora e o local da extração são anunciados por aviso afixado nos locais e meios de estilo e divulgados ao público em geral através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social, pela Internet e por quaisquer outros meios julgados adequados.\n\n5 - Da deliberação de adiamento das extrações não há recurso.\n\n6 - Compete a um dos membros do júri das extrações presidir ao ato de receção e guarda em segurança da cópia dos registos dos números registados validamente nos suportes informáticos do sistema central, prevista na alínea b) do n.º 16 do artigo 10.º\n\n7 - Ao júri das extrações compete ainda o controlo do direito aos prémios de montante igual ou superior a (euro) 5000, o qual tem lugar por comparação entre o relatório dos registos do sistema de registo e validação informático e da leitura da cópia de segurança, prevista no artigo 10.º, n.º 16, alínea b), prevalecendo esta sobre aquele em caso de divergência ou dúvida.\n\n8 - Dos atos previstos nos n.os 6 e 7 são lavradas atas."
+  },
+  "107770826": {
+   "fragment_id": "107770909",
+   "type": 11,
+   "heading": "Artigo 16.º — Procedimentos do júri das extrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimentos do júri das extrações\n\n1 - Dos atos das extrações é lavrada ata, que é assinada pelos membros do júri e por quem a redigir.\n\n2 - A ata menciona, designadamente, todos os números sorteados e respetivos prémios, os factos e reclamações sobre que o júri se tenha pronunciado e as correspondentes deliberações.\n\n3 - A lista oficial dos números com direito a prémio em cada extração, que também é assinada pelo presidente do júri das extrações, é distribuída e divulgada através dos mediadores dos jogos sociais do Estado, pelos órgãos de comunicação social, pela Internet e por quaisquer outros meios julgados adequados.\n\n4 - Na lista oficial dos números com direito a prémio constam todos os prémios, já com as acumulações."
+  },
+  "107770827": {
+   "fragment_id": "107770910",
+   "type": 11,
+   "heading": "Artigo 17.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reclamações\n\n1 - O público presente nos atos das extrações da Lotaria Nacional pode reclamar para o júri, verbalmente ou por escrito, contra qualquer aspeto que repute irregular.\n\n2 - O júri, atenta a reclamação, decide imediatamente e em definitivo, podendo, no caso de reclamação verbal, solicitar que a mesma seja formulada por escrito, tudo ficando a constar da respetiva ata."
+  },
+  "107770828": {
+   "fragment_id": "107770911",
+   "type": 11,
+   "heading": "Artigo 18.º — Policiamento do local dos sorteios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Policiamento do local dos sorteios\n\n1 - Quando os sorteios se realizam na sala de extrações da Lotaria Nacional esta é devidamente policiada pela autoridade competente.\n\n2 - Quando os sorteios se realizam noutro local, as extrações são policiadas pela autoridade competente sempre que seja solicitada aos serviços do Departamento de Jogos a sua presença pelo júri das extrações.\n\n3 - Os agentes da autoridade comparecem no local da extração quinze minutos antes da hora marcada para o início do mesmo, retirando-se quando o presidente do júri das extrações o determinar."
+  },
+  "107770829": {
+   "fragment_id": "107770912",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamento dos prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamento dos prémios\n\n1 - Os prémios de valor igual ou inferior a (euro)150 são pagos contra a apresentação do título premiado, após a sua leitura pelo terminal de jogos, junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, sem prejuízo do especialmente estabelecido para as aquisições de números da Lotaria Nacional através da plataforma de acesso multicanal.\n\n2 - Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos contra a apresentação do bilhete premiado, após a sua leitura pelo terminal de jogos, mediante transferência para a conta bancária indicada pelo portador do título premiado.\n\n3 - Quando o documento emitido pelo terminal de jogos, nos termos do artigo 4.º, n.º 2, não for lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprova a sua autenticidade e, caso se verifique que incorpora o direito a prémio, emite outro documento que permita o respetivo pagamento.\n\n4 - (Revogado.)\n\n5 - Sem prejuízo do disposto no n.º 1, os prémios de valor igual ou inferior a (euro)150 podem ser pagos pelos mediadores que não disponham de terminal de jogos, os quais suportarão os riscos inerentes.\n\n6 - Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo.\n\n7 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para a conta bancária do portador do bilhete premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo.\n\n8 - O Departamento de Jogos procede ao pagamento de prémios dos bilhetes ou frações desmaterializados de montante igual ou superior a (euro) 5000 após a realização do ato de controlo do direito aos prémios pelo júri das extrações."
+  },
+  "107770830": {
+   "fragment_id": "107770913",
+   "type": 11,
+   "heading": "Artigo 20.º — Bilhetes físicos com impressão defeituosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Bilhetes físicos com impressão defeituosa\n\nOs bilhetes ou as frações físicos que apresentem uma impressão defeituosa ou se encontrem deteriorados só são pagos, de acordo com o plano de prémios, depois de se confirmar a autenticidade do título e a existência de prémio."
+  },
+  "107770831": {
+   "fragment_id": "107770914",
+   "type": 11,
+   "heading": "Artigo 21.º — Identificação dos portadores dos títulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Identificação dos portadores dos títulos\n\n1 - A identificação do apresentante das frações premiadas, que compõem o respetivo bilhete, é igualmente exigida quando tenha existido participação de perda, extravio, furto ou roubo, efetuada nos serviços do Departamento de Jogos.\n\n2 - O objetivo da identificação restringe-se às informações a prestar às autoridades e não pode ser usada para fim diverso."
+  },
+  "107770832": {
+   "fragment_id": "107770915",
+   "type": 11,
+   "heading": "Artigo 22.º — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Caducidade\n\n1 - O direito aos prémios da Lotaria Nacional caduca 90 dias após o sorteio dos números.\n\n2 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, responsabilizando-se o Departamento de Jogos pelo pagamento dos prémios antes do decurso do prazo de caducidade, sem prejuízo do direito de reclamação para o júri de reclamações.\n\n3 - Os prémios não reclamados revertem a favor da Santa Casa da Misericórdia de Lisboa."
+  },
+  "107770833": {
+   "fragment_id": "107770916",
+   "type": 11,
+   "heading": "Artigo 23.º — Proibição de venda de bilhetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Proibição de venda de bilhetes\n\n1 - É proibida a venda de bilhetes ou frações desde a hora marcada para o início da respetiva extração.\n\n2 - É proibida a venda ao público de bilhetes ou frações por preço superior ao valor facial.\n\n3 - É proibida a venda de jogo a menores e a outros incapazes."
+  },
+  "107770834": {
+   "fragment_id": "107770917",
+   "type": 11,
+   "heading": "Artigo 24.º — Fraudes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Fraudes\n\n1 - A prática de atos fraudulentos com vista ao recebimento de prémios, nomeadamente a falsificação de bilhetes ou suas frações físicos e desmaterializados, é objeto de participação, para efeitos de procedimento criminal, nos termos legais.\n\n2 - As irregularidades cometidas pelos jogadores ou pelos mediadores dos jogos sociais do Estado no exercício das suas funções, bem como quaisquer danos daí resultantes para aqueles, não podem ser imputados ao Departamento de Jogos.\n\n3 - O Departamento de Jogos não intervém em eventuais conflitos entre jogadores que adquiram bilhetes ou frações em comum, nomeadamente para efeito de pagamento de prémios."
+  },
+  "107770835": {
+   "fragment_id": "107770918",
+   "type": 11,
+   "heading": "Artigo 25.º — Conservação de documentos da Lotaria Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Conservação de documentos da Lotaria Nacional\n\n1 - As atas das extrações, a gravação magnética ou o registo informático dos mesmos e um exemplar da lista oficial são conservados em arquivos, nos termos da Portaria n.º 509/2004, de 14 de maio.\n\n2 - Os bilhetes, ou suas frações, da Lotaria premiados são registados informaticamente, procedendo-se à destruição do título, nos termos do número anterior.\n\n3 - Os bilhetes correspondentes aos 1.º, 2.º e 3.º prémios da Lotaria Nacional Clássica e aos 1.º, 2.º, 3.º e 4.º prémios da Lotaria Nacional Popular não serão destruídos, sendo enviados para o arquivo histórico."
+  },
+  "107770836": {
+   "fragment_id": "107770919",
+   "type": 11,
+   "heading": "Artigo 26.º — Tutela judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Tutela judicial\n\nAs deliberações do júri das extrações, os atos do Departamento de Jogos relativos a pagamento de prémios e as deliberações do júri de reclamações podem ser impugnados judicialmente no tribunal da jurisdição administrativa com sede na área de Lisboa."
+  },
+  "107770837": {
+   "fragment_id": "107770920",
+   "type": 11,
+   "heading": "Artigo 27.º — Casos omissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Casos omissos\n\nOs casos omissos e as dúvidas resultantes da aplicação do presente Regulamento são resolvidos pelo Departamento de Jogos, ouvido o júri das reclamações.\n\nO Ministro do Trabalho, Solidariedade e Segurança Social, José António Fonseca Vieira da Silva, em 25 de julho de 2017."
+  },
+  "123354024": {
+   "fragment_id": "107761955",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Regulamento da Lotaria Nacional",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 5.º — Alteração ao Regulamento da Lotaria Nacional\n\nO artigo 19.º do Regulamento da Lotaria Nacional, aprovado pela Portaria n.º 1016/2010, de 4 de outubro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado pelas Portarias n.os 115/2013, de 22 de março, e 15/2014, de 23 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 19.º\n\n[...]\n\n1 - [...].\n\n2 - Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos contra a apresentação do bilhete premiado, após a sua leitura pelo terminal de jogos, mediante transferência para a conta bancária indicada pelo portador do título premiado.\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo.\n\n7 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para a conta bancária do portador do bilhete premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo.\n\n8 - (Anterior n.º 7.)»\n\n> Nota: [Artigo 4.º, Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347) Estas alterações produzem efeitos: a) Para a Lotaria Nacional Clássica, a partir da 37.ª Extração de 2019; b) Para a Lotaria Nacional Popular, a partir da 37.ª Extração de 2019.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354023": {
+   "fragment_id": "107761962",
+   "type": 11,
+   "heading": "Artigo 12.º — Republicação",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 12.º — Republicação\n\nSão republicados, respetivamente, nos anexo I e II à presente Portaria, da qual fazem parte integrante:\n\na) O Regulamento do Totobola, aprovado pela Portaria n.º 39/2004, de 12 de janeiro, e publicado em anexo à mesma, dela fazendo parte integrante, alterado e republicado pela Portaria n.º 116/2013, de 22 de março, e subsequentemente alterado pela Portaria n.º 15/2014, de 23 de janeiro;\n\nb) (Revogada).\n\n> Nota: [Artigo 4.º, Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347) Estas alterações produzem efeitos: a) Para a Lotaria Nacional Clássica, a partir da 37.ª Extração de 2019; b) Para a Lotaria Nacional Popular, a partir da 37.ª Extração de 2019.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354025": {
+   "fragment_id": "107770893",
+   "type": 14,
+   "heading": "Anexo II — [a que se refere a alínea b) do artigo 12.º]",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "## Anexo II — [a que se refere a alínea b) do artigo 12.º]\n\nREGULAMENTO DA LOTARIA NACIONAL\n\n> Nota: [Artigo 4.º, Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347) Estas alterações produzem efeitos: a) Para a Lotaria Nacional Clássica, a partir da 37.ª Extração de 2019; b) Para a Lotaria Nacional Popular, a partir da 37.ª Extração de 2019.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354026": {
+   "fragment_id": "107770894",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Regulamento estabelece as normas de participação no jogo social do Estado denominado por Lotaria Nacional, que consiste em sorteios de números explorados e organizados, nos termos da lei, pela Santa Casa da Misericórdia de Lisboa, através do seu Departamento de Jogos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354027": {
+   "fragment_id": "107770895",
+   "type": 11,
+   "heading": "Artigo 2.º — Lotaria Nacional",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 2.º — Lotaria Nacional\n\n1 - A Lotaria Nacional é explorada sob a forma de emissões de bilhetes numerados, físicos e desmaterializados, para participação em sorteios de números, denominados por extrações.\n\n2 - A Lotaria Nacional tem duas modalidades:\n\na) Clássica;\n\nb) Popular.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354028": {
+   "fragment_id": "107770896",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissões de bilhetes",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 3.º — Emissões de bilhetes\n\n1 - As emissões de bilhetes, físicos e desmaterializados, da Lotaria Nacional são numerados de 0 (00000) até ao número mais elevado da emissão.\n\n2 - As emissões de bilhetes são ordinárias, especiais e extraordinárias, em função do capital que se pretende obter, da quantidade de números a emitir, da quantidade de títulos em que é impresso cada número, do preço dos títulos e do valor dos prémios a atribuir.\n\n3 - As emissões de bilhetes podem ser simples ou por séries.\n\n4 - Os bilhetes de Lotaria Nacional podem ser emitidos sob a forma de:\n\na) Títulos únicos, em que a um número corresponde apenas um único título;\n\nb) Títulos compostos, em que o número é impresso em tantas frações quantas as que constam do plano de emissão.\n\n5 - Os títulos compostos não têm existência autónoma ou diferente das frações que o constituem.\n\n6 - Sempre que os bilhetes da Lotaria Nacional sejam compostos por frações, estas são idênticas, têm impresso o mesmo número e habilitam a uma parte do prémio que cabe àqueles.\n\n7 - Os bilhetes físicos ou suas frações contêm obrigatoriamente, além de outros, os seguintes elementos:\n\na) Na frente - a modalidade de Lotaria Nacional e a denominação do sorteio se atribuída, o número e a data da extração, o preço, o número de série se existir mais de uma, o número do bilhete e da fração, o código de barras, o número de segurança e as assinaturas de chancela do provedor da Santa Casa da Misericórdia de Lisboa e de um administrador executivo do Departamento de Jogos;\n\nb) No verso - um resumo do plano de prémios, o número de séries, o número de bilhetes emitidos, o prazo de caducidade do direito aos prémios, a norma que proíbe a venda ao público por preço superior ao valor facial, a norma que proíbe a venda a menores e a outros incapazes, a norma que proíbe a subdivisão de frações e, eventualmente, outras.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354029": {
+   "fragment_id": "107770897",
+   "type": 11,
+   "heading": "Artigo 4.º — Bilhetes e frações desmaterializados",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 4.º — Bilhetes e frações desmaterializados\n\n1 - Os bilhetes desmaterializados ou as respetivas frações são explorados em suporte eletrónico, através dos canais de distribuição da plataforma de acesso multicanal: nos terminais de jogos nos mediadores dos jogos sociais do Estado; no sítio da Internet www.jogossantacasa.pt e noutros permitidos por lei.\n\n2 - Os bilhetes ou as frações desmaterializados vendidos pelos mediadores dos jogos sociais do Estado são impressos nos terminais de jogos, nos termos do presente Regulamento, constando do documento emitido os seguintes dados:\n\na) Modalidade de Lotaria Nacional;\n\nb) Número e data da extração;\n\nc) Denominação do sorteio se atribuída;\n\nd) Número do bilhete e da fração;\n\ne) Número de série se existir mais de uma;\n\nf) Preço;\n\ng) Data e hora do registo e validação no sistema central;\n\nh) Números de código e de controlo.\n\n3 - O documento emitido através do terminal de jogos, nos termos do número anterior, é o único título válido para solicitar o pagamento do prémio e constitui a única prova de participação no sorteio.\n\n4 - Para todos os efeitos o documento emitido é identificado pelos números de controlo que nele figuram.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354030": {
+   "fragment_id": "107770898",
+   "type": 11,
+   "heading": "Artigo 5.º — Características especiais dos bilhetes",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 5.º — Características especiais dos bilhetes\n\n1 - As frações que compõem os bilhetes da Lotaria Nacional são títulos equiparados a moeda nos termos estabelecidos no Código Penal.\n\n2 - À perda ou extravio de quaisquer bilhetes ou frações da Lotaria Nacional não são aplicáveis as disposições referentes à perda, destruição ou extravio de títulos.\n\n3 - O Departamento de Jogos não se responsabiliza, em qualquer caso, pela perda, roubo, furto ou extravio de bilhetes e frações das lotarias.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354031": {
+   "fragment_id": "107770899",
+   "type": 11,
+   "heading": "Artigo 6.º — Planos de emissões e de prémios",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 6.º — Planos de emissões e de prémios\n\n1 - Compete ao Departamento de Jogos, para cada modalidade da Lotaria Nacional, fixar anualmente o número de extrações ordinárias, especiais e extraordinárias, para cada modalidade.\n\n2 - Compete ao Departamento de Jogos fixar trimestralmente:\n\na) O plano de emissão com o número de bilhetes a emitir para cada extração;\n\nb) O plano de prémios com a quantidade a atribuir no total da emissão e respetivos valores.\n\n3 - Os planos referidos no número anterior contêm os seguintes elementos:\n\na) Designação da modalidade de Lotaria Nacional;\n\nb) Data e hora da extração;\n\nc) Número de bilhetes da emissão e respetivas séries, se as houver;\n\nd) Número de frações que constituem cada bilhete, se as houver;\n\ne) Preço de venda ao público;\n\nf) Quantidade, valor unitário e valor global dos prémios a atribuir, anunciados pelo seu valor ilíquido.\n\n4 - O Departamento de Jogos determina e disponibiliza ao público, até 40 dias antes da respetiva extração, os números dos bilhetes físicos e desmaterializados da emissão.\n\n5 - Os planos de emissão e de prémios da Lotaria Nacional são assinados por administrador executivo do Departamento de Jogos e são publicados através de aviso no Diário da República.\n\n6 - O plano de prémios não contempla, na Lotaria Nacional Clássica, a acumulação de prémios resultante da decomposição dos números dos 1.º, 2.º e 3.º prémios.\n\n7 - O plano de prémios não contempla, na Lotaria Nacional Popular, a acumulação de prémios resultante da decomposição dos números dos 1.º, 2.º, 3.º e 4.º prémios.\n\n8 - O Departamento de Jogos pode determinar alterações às emissões das lotarias já aprovadas, sendo, todavia, essas alterações obrigatoriamente publicadas no Diário da República antes de os bilhetes para essa extração serem colocados à disposição dos mediadores dos jogos sociais do Estado, sem o que as alterações às emissões não poderão ser determinadas.\n\n9 - As extrações dos números premiados da Lotaria Nacional realizam-se na sala de extrações da Lotaria Nacional, ou noutro local indicado, no dia e hora constantes dos planos de emissão e de prémios, e regem-se pelas normas deste Regulamento e pelas normas de cada sorteio aprovadas conjuntamente com os planos referidos, sem prejuízo do disposto no número seguinte.\n\n10 - O Departamento de Jogos pode determinar que as extrações da Lotaria Nacional se realizem fora da sala de extrações ou em local diferente do inicialmente indicado, por aviso afixado nos locais e meios de estilo, e mediante divulgação através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social, pela Internet e por quaisquer outros meios julgados adequados.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354032": {
+   "fragment_id": "107770900",
+   "type": 11,
+   "heading": "Artigo 7.º — Distribuição das receitas para prémios",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 7.º — Distribuição das receitas para prémios\n\nA importância destinada a prémios corresponde a 70 % do capital emitido.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354033": {
+   "fragment_id": "107770901",
+   "type": 11,
+   "heading": "Artigo 8.º — Colocação da Lotaria Nacional",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 8.º — Colocação da Lotaria Nacional\n\n1 - Os bilhetes são colocados à disposição do público através dos mediadores dos jogos sociais do Estado e da plataforma de acesso multicanal com, pelo menos, um mês de antecedência sobre a data do sorteio.\n\n2 - Até ao dia útil anterior à realização da extração de uma modalidade de Lotaria Nacional os mediadores dos jogos sociais do Estado podem adquirir os bilhetes físicos com os números que lhes estão atribuídos para o sorteio seguinte da mesma modalidade, podendo este prazo ser antecipado pelo Departamento de Jogos.\n\n3 - Os bilhetes físicos não adquiridos no prazo estabelecido no número anterior poderão ser distribuídos pelos mediadores que o solicitem.\n\n4 - Os mediadores podem adquirir bilhetes físicos para a extração de uma modalidade de Lotaria Nacional até ao dia útil anterior à sua realização.\n\n5 - Os bilhetes físicos adquiridos podem ser pagos a pronto, garantidos por caução ou por qualquer outra garantia que o Departamento de Jogos aceite, de montante não inferior ao valor máximo dos bilhetes adquiridos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354034": {
+   "fragment_id": "107770902",
+   "type": 11,
+   "heading": "Artigo 9.º — Reserva de bilhetes",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 9.º — Reserva de bilhetes\n\n1 - O Departamento de Jogos pode reservar até 5 % do total da emissão de bilhetes de um sorteio para, nomeadamente, admitir novos mediadores dos jogos sociais do Estado ou para distribuir pelos mediadores que tenham realizado um volume de vendas que o justifique.\n\n2 - Os bilhetes reservados podem ser distribuídos pelos mediadores, fazendo-se rateio entre eles, sempre que os pedidos forem superiores à quantidade de bilhetes disponível.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354035": {
+   "fragment_id": "107770903",
+   "type": 11,
+   "heading": "Artigo 10.º — Venda dos bilhetes ou frações",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 10.º — Venda dos bilhetes ou frações\n\n1 - Os bilhetes ou as frações são obrigatoriamente vendidos ao público pelo respetivo valor facial.\n\n2 - Os bilhetes físicos ou as respetivas frações da Lotaria Nacional são vendidos diretamente pelo Departamento de Jogos e pelos mediadores dos jogos sociais do Estado.\n\n3 - O exercício da atividade de venda ambulante de bilhetes ou frações físicos da Lotaria Nacional depende da prévia atribuição de licença, renovável anualmente, pela câmara municipal da área do respetivo município, de acordo com os termos e os requisitos previstos na lei, não conferindo a emissão desta licença, por modo algum, a qualidade de mediador dos jogos sociais do Estado.\n\n4 - Os bilhetes ou frações desmaterializados da Lotaria Nacional são vendidos pelos mediadores dos jogos sociais do Estado, após impressão no terminal de jogos, no sítio da Internet www.jogossantacasa.pt e noutros canais, nos termos regulados pelo Departamento de Jogos, cujo acesso é disponibilizado através da sua plataforma de acesso multicanal.\n\n5 - A aquisição pelos jogadores de bilhetes ou frações desmaterializados inicia-se com o registo da modalidade de Lotaria Nacional, da extração, do número do bilhete ou da fração e do número da série, se existir mais de uma, através do sistema de validação informático do Departamento de Jogos, por sua escolha, entre os títulos que se encontrem disponíveis, e mediante:\n\na) A solicitação ao mediador dos jogos sociais do Estado da impressão de um número escolhido aleatoriamente pelo terminal de jogos;\n\nb) A digitação no terminal de jogos, pelo mediador dos jogos sociais do Estado, de um número escolhido pelos jogadores e sua impressão;\n\nc) A escolha de um número pelos jogadores que sejam titulares de um cartão de jogador.\n\n6 - Os dados referentes aos números dos bilhetes e frações desmaterializados escolhidos pelos jogadores são transmitidos ao sistema central para registo e validação em suporte informático.\n\n7 - Sem o registo e a validação no sistema central dos dados apresentados no terminal de jogos, relativos aos bilhetes e frações desmaterializados, os jogadores não participam no sorteio.\n\n8 - O jogador efetua o pagamento da importância correspondente ao(s) número(s) registado(s) e validado(s) informaticamente antes de o mediador dos jogos sociais do Estado lhe entregar o(s) documento(s) emitido(s) através do terminal.\n\n9 - O mediador dos jogos sociais do Estado não pode entregar o documento emitido pelo terminal ao jogador antes de receber o pagamento correspondente.\n\n10 - Quando, por qualquer motivo, o jogador não pague imediatamente os números escolhidos, os mesmos serão anulados; constando tal facto do documento emitido pelo terminal que terá aposto a expressão «anulado», o qual é enviado ao Departamento de Jogos pelo mediador dos jogos sociais do Estado, não podendo em caso algum ser entregue ao jogador.\n\n11 - Os números escolhidos podem ser anulados no terminal onde foram registados nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o sorteio a que respeitam, conforme a que ocorrer primeiro, sendo sempre emitido documento de cancelamento.\n\n12 - O documento anulado nunca é entregue ao jogador.\n\n13 - Os mediadores dos jogos sociais do Estado podem, nos termos do n.º 11, anular números escolhidos pelos jogadores até aos limites fixados e divulgados pelo Departamento de Jogos.\n\n14 - Os números anulados pelos mediadores, nos termos do número anterior, apenas estão disponíveis para venda no dia seguinte ao da respetiva anulação.\n\n15 - O sistema central anula igualmente os números registados e validados através do sistema de registo e validação informático quando se verifica que os mesmos foram efetuados em violação das condições regulamentares, tendo o jogador direito à devolução do valor do preço pago.\n\n16 - A participação no sorteio mediante registo e validação informático só é válida quando, cumulativamente:\n\na) Os números tenham sido registados validamente e não tenham sido anulados nos suportes informáticos do sistema central, nos termos e de acordo com os requisitos e procedimentos estabelecidos no presente Regulamento;\n\nb) A cópia de segurança dos ditos suportes se encontre em lugar de segurança no Departamento de Jogos antes da hora do começo do sorteio.\n\n17 - Para todos os efeitos entende-se como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, materializados em disco ótico, cassete, banda magnética ou outro em que se encontrem gravados os números vendidos dos bilhetes ou frações correspondentes a cada sorteio.\n\n18 - Relativamente à aquisição de bilhetes ou frações desmaterializados, a única prova de participação no sorteio são os registos informáticos do sistema central do Departamento de Jogos e as respetivas cópias de segurança.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354036": {
+   "fragment_id": "107770904",
+   "type": 11,
+   "heading": "Artigo 11.º — Cartão de jogador",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 11.º — Cartão de jogador\n\n1 - Para efetuar os pagamentos e receber os prémios da Lotaria Nacional, através de meios eletrónicos, podem os jogadores utilizar um cartão de jogador emitido pelo Departamento de Jogos.\n\n2 - O cartão de jogador, identificado pelo respetivo número e código de segurança, está associado a uma conta bancária à ordem, possibilitando o pagamento antecipado de jogo, que consiste no seu carregamento até determinado montante para utilização na participação nos jogos sociais do Estado, sendo recarregável e permitindo creditar, até determinado montante, o valor dos prémios, dos mesmos jogos, a que tenha direito.\n\n3 - Os montantes referidos no número anterior, bem como as respetivas regras de utilização, são definidos pelo Departamento de Jogos nas condições gerais de utilização do cartão de jogador, as quais são divulgadas publicamente, através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social, pela Internet e por quaisquer outros meios julgados adequados, e constam da documentação necessariamente entregue ao jogador no momento da aquisição do cartão.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354037": {
+   "fragment_id": "107770905",
+   "type": 11,
+   "heading": "Artigo 12.º — Mediadores dos jogos sociais do Estado",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 12.º — Mediadores dos jogos sociais do Estado\n\n1 - Os mediadores dos jogos sociais do Estado são representantes dos jogadores junto do Departamento de Jogos e agem exclusivamente nessa qualidade, não representando, em caso algum, o Departamento de Jogos junto dos jogadores.\n\n2 - As irregularidades, erros ou omissões cometidos pelos mediadores dos jogos sociais do Estado no exercício das suas funções não são imputáveis ao Departamento de Jogos.\n\n3 - Para além do previsto no respetivo regulamento, são deveres dos mediadores dos jogos sociais do Estado que vendem bilhetes ou frações desmaterializados da Lotaria Nacional:\n\na) Proceder aos registos dos números da Lotaria Nacional escolhidos pelos jogadores nos terminais de jogos, de acordo com o disposto no artigo 10.º;\n\nb) Depositar as importâncias recebidas dos jogadores com a venda, por seu intermédio, de bilhetes e frações da Lotaria Nacional através dos terminais de jogos, depois de deduzida a remuneração a que têm direito e o valor dos prémios por si pagos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354038": {
+   "fragment_id": "107770906",
+   "type": 11,
+   "heading": "Artigo 13.º — Devolução dos bilhetes físicos não vendidos",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 13.º — Devolução dos bilhetes físicos não vendidos\n\n1 - Os mediadores dos jogos sociais do Estado podem devolver bilhetes físicos inteiros, meios bilhetes, se os houver, e frações.\n\n2 - A identificação dos números dos bilhetes e frações a devolver devem ser efetuadas, impreterivelmente:\n\na) Pelos mediadores que disponham de terminal de jogos ligado diretamente ao sistema informático do Departamento de Jogos ou que se encontrem registados para o efeito na plataforma de acesso multicanal, até quinze minutos antes da hora da extração;\n\nb) Para os demais mediadores, até uma hora antes da extração.\n\n3 - Os bilhetes e frações identificados pelos mediadores, nos termos do número anterior, são devolvidos ao Departamento de Jogos no prazo máximo de 15 dias após a data do sorteio.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354039": {
+   "fragment_id": "107770907",
+   "type": 11,
+   "heading": "Artigo 14.º — Sorteios dos números",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 14.º — Sorteios dos números\n\n1 - Na Lotaria Nacional Clássica o sorteio realiza-se da seguinte forma:\n\na) Os bilhetes a sortear são numerados de 0 (00000) até ao último número da emissão;\n\nb) A extração dos algarismos que compõem o número sorteado far-se-á por meio de cinco esferas que, da esquerda para a direita, correspondem sucessivamente à ordem das dezenas de milhar, milhares, centenas, dezenas e unidades;\n\nc) Na esfera correspondente à ordem das dezenas de milhar serão introduzidas bolas homogéneas, iguais em material, volume e peso, numeradas de 0 até à penúltima dezena de milhar da emissão;\n\nd) Em cada uma das outras quatro esferas serão introduzidas 10 bolas homogéneas, iguais em material, volume e peso, numeradas de 0 a 9;\n\ne) Terminado o ingresso de todas as bolas numeradas nas respetivas esferas, serão estas acionadas mediante comandos elétricos ou manuais, de acordo com o equipamento utilizado, de modo que as bolas criem movimentos giratórios;\n\nf) Em dado momento, sairá uma bola de cada esfera;\n\ng) O número premiado será o que resultar da justaposição, em ordem decimal, dos algarismos inscritos nas cinco bolas saídas;\n\nh) Após conferência e registo do número formado, as bolas serão reintroduzidas nas esferas respetivas de modo a garantir absoluta equiprobabilidade na formação de novo número;\n\ni) A extração de cada algarismo só se concretiza quando a respetiva bola sair completamente fora da esfera, não existindo antes desse momento;\n\nj) Para atribuição dos três prémios de valor mais elevado, será utilizada uma sexta esfera em que serão introduzidas três bolas homogéneas, iguais em material, volume e peso, numeradas com 1.º, 2.º e 3.º e correspondentes aos 1.º, 2.º e 3.º prémios;\n\nk) A cada um dos números formados corresponderá o prémio indicado na bola saída da 6.ª esfera;\n\nl) Dentro de cada grupo de prémios considerar-se-á nulo qualquer número que vier a repetir-se, extraindo-se, então, novo número e novo prémio, exceto no caso de se tratar dos três primeiros prémios;\n\nm) Nos 1.º, 2.º e 3.º prémios, se ao número já contemplado com um prémio couber outro de valor superior, será anulado o de menor valor, extraindo-se, então, novo número e novo prémio;\n\nn) Se o prémio maior sair no primeiro número da emissão (00000), os prémios de aproximação recairão no último número da emissão e no número (00001) e, se sair no último número da emissão, esses prémios recairão no primeiro e no penúltimo número da emissão;\n\no) Sempre que o plano de prémios os fixar, a determinação dos números cujos quatro algarismos finais tenham direito a prémio far-se-á por meio de quatro das esferas referidas na alínea d);\n\np) Após sucessivas extrações simultâneas destas esferas, formar-se-ão diferentes sequências numéricas de quatro algarismos, necessárias à atribuição dos prémios previstos no respetivo plano de prémios;\n\nq) As sequências que vierem a repetir-se serão anuladas, procedendo-se a nova extração;\n\nr) Sempre que o plano de prémios o fixar, a determinação dos números cujos três algarismos finais tenham direito a prémio far-se-á por meio de três das esferas referidas na alínea d);\n\ns) Após sucessivas extrações simultâneas destas esferas, formar-se-ão diferentes sequências numéricas de três algarismos, necessárias à atribuição dos prémios previstos no respetivo plano;\n\nt) Sempre que o plano de prémios o fixar, a determinação dos números cujos dois algarismos finais tenham direito a prémio far-se-á por meio de duas das esferas referidas na alínea d);\n\nu) Após sucessivas extrações simultâneas destas esferas, formar-se-ão diferentes sequências numéricas de dois algarismos, necessárias à atribuição dos prémios previstos no respetivo plano;\n\nv) Sempre que o plano de prémios o fixar, os três algarismos finais do 1.º, 2.º e 3.º prémios não acumularão com o valor atribuído à sequência de dois algarismos decomposta do mesmo prémio, nem com a terminação, no caso do 1.º prémio;\n\nw) Serão anuladas as sequências que vierem a repetir-se, procedendo-se a nova extração;\n\nx) Sempre que o plano de prémios o fixar é sorteada uma terminação;\n\ny) O plano de prémios pode contemplar a criação de outros prémios.\n\n2 - Na Lotaria Nacional Popular o sorteio realiza-se da seguinte forma:\n\na) Os bilhetes são numerados de 0 (00000) até ao último número da emissão;\n\nb) A extração dos algarismos que compõem o número sorteado far-se-á por meio de cinco esferas que, da esquerda para a direita, corresponderão sucessivamente à ordem das dezenas de milhar, milhares, centenas, dezenas e unidades;\n\nc) Em cada uma das esferas serão introduzidas 10 bolas homogéneas, iguais em material, volume e peso, numeradas de 0 a 9;\n\nd) Terminado o ingresso de todas as bolas numeradas nas respetivas esferas, serão a estas imprimidos movimentos giratórios, mediante comandos elétricos ou manuais, de acordo com o equipamento utilizado;\n\ne) Em dado momento sairá uma bola de cada esfera;\n\nf) A extração de um algarismo só existe quando a bola sair completamente da esfera, não existindo antes desse momento;\n\ng) O número premiado será o que resultar da justaposição, em ordem decimal, dos algarismos inscritos nas cinco bolas saídas;\n\nh) Após conferência e registo do número formado, as bolas serão reintroduzidas nas esferas respetivas de modo a garantir absoluta equiprobabilidade na formação de novo número;\n\ni) Para atribuição dos quatro prémios de extração de valor mais elevado, será utilizada uma 6.ª esfera em que serão introduzidas quatro bolas marcadas com 1.º, 2.º, 3.º e 4.º que correspondem respetivamente aos 1.º, 2.º, 3.º e 4.º prémios;\n\nj) A cada um dos números formados corresponderá o prémio indicado na bola saída da 6.ª esfera;\n\nk) Dentro de cada grupo de prémios, considerar-se-á nulo qualquer número que vier a repetir-se, extraindo-se, então, novo número e novo prémio;\n\nl) Nos 1.º, 2.º, 3.º e 4.º prémios, se ao número já contemplado com um prémio couber outro de valor superior, será anulado o de menor valor, extraindo-se, então, novo número e novo prémio;\n\nm) A determinação da «série sorteada» faz-se na 6.ª esfera, na qual serão introduzidas bolas homogéneas, iguais em material, volume e peso, através de identificação numérica ou alfanumérica da primeira à última série emitida;\n\nn) Sempre que o plano de prémios o fixar, a determinação dos números cujos dois algarismos finais tenham direito a prémio far-se-á por meio de duas das esferas referidas na alínea c);\n\no) Após sucessivas extrações simultâneas destas esferas, formar-se-ão diferentes sequências numéricas de dois algarismos, necessárias à atribuição dos prémios previstos no respetivo plano;\n\np) Serão anuladas, além das que vierem a repetir-se, as sequências que forem iguais aos dois algarismos finais dos 1.º, 2.º, 3.º e 4.º prémios;\n\nq) Sempre que o plano de prémio o fixar, as sequências de quatro algarismos finais dos 1.º, 2.º, 3.º e 4.º prémios não acumularão com os valores atribuídos às sequências de três e de dois algarismos decompostos do mesmo prémio nem com a terminação, no caso do 1.º prémio;\n\nr) Sempre que o plano de prémios o fixar é sorteada uma terminação;\n\ns) O plano de prémios pode contemplar a criação de outros prémios.\n\n3 - O número de esferas e o número de bolas colocado na esfera mais à esquerda variará conforme a quantidade de números de cada emissão.\n\n4 - Em caso de avaria de uma das esferas, é utilizada a esfera correspondente às unidades ou, sendo esta a avariada, a das dezenas.\n\n5 - O Departamento de Jogos terá disponível e manterá em perfeitas condições pelo menos dois conjuntos de bolas numeradas, homogéneas, iguais em material, volume e peso, para cada mecanismo de extração que utilize, dos quais um será usado em cada sorteio da Lotaria Nacional.\n\n6 - Os conjuntos de bolas, nomeadamente o seu peso, são verificados regularmente pelo júri das extrações.\n\n7 - Os conjuntos de bolas serão numerados, sendo sorteado em cada semana o conjunto a utilizar.\n\n8 - As operações da extração realizam-se em ato público e são presididas pelo júri das extrações, nos termos do artigo seguinte.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354040": {
+   "fragment_id": "107770908",
+   "type": 11,
+   "heading": "Artigo 15.º — Júri das extrações",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 15.º — Júri das extrações\n\n1 - O júri das extrações superintende e fiscaliza as extrações da Lotaria Nacional, nos termos dos artigos 33.º e 34.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de dezembro.\n\n2 - Em caso de impossibilidade de efetivação das extrações, estas serão adiadas pelo júri, que fundamentará a decisão na respetiva ata.\n\n3 - Da deliberação de adiamento das extrações será dado conhecimento imediato ao(s) administrador(es) executivo(s) do Departamento de Jogos, devendo ser afixados avisos explicativos nos locais de estilo.\n\n4 - A nova data, a hora e o local da extração são anunciados por aviso afixado nos locais e meios de estilo e divulgados ao público em geral através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social, pela Internet e por quaisquer outros meios julgados adequados.\n\n5 - Da deliberação de adiamento das extrações não há recurso.\n\n6 - Compete a um dos membros do júri das extrações presidir ao ato de receção e guarda em segurança da cópia dos registos dos números registados validamente nos suportes informáticos do sistema central, prevista na alínea b) do n.º 16 do artigo 10.º\n\n7 - Ao júri das extrações compete ainda o controlo do direito aos prémios de montante igual ou superior a (euro) 5000, o qual tem lugar por comparação entre o relatório dos registos do sistema de registo e validação informático e da leitura da cópia de segurança, prevista no artigo 10.º, n.º 16, alínea b), prevalecendo esta sobre aquele em caso de divergência ou dúvida.\n\n8 - Dos atos previstos nos n.os 6 e 7 são lavradas atas.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354041": {
+   "fragment_id": "107770909",
+   "type": 11,
+   "heading": "Artigo 16.º — Procedimentos do júri das extrações",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 16.º — Procedimentos do júri das extrações\n\n1 - Dos atos das extrações é lavrada ata, que é assinada pelos membros do júri e por quem a redigir.\n\n2 - A ata menciona, designadamente, todos os números sorteados e respetivos prémios, os factos e reclamações sobre que o júri se tenha pronunciado e as correspondentes deliberações.\n\n3 - A lista oficial dos números com direito a prémio em cada extração, que também é assinada pelo presidente do júri das extrações, é distribuída e divulgada através dos mediadores dos jogos sociais do Estado, pelos órgãos de comunicação social, pela Internet e por quaisquer outros meios julgados adequados.\n\n4 - Na lista oficial dos números com direito a prémio constam todos os prémios, já com as acumulações.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354042": {
+   "fragment_id": "107770910",
+   "type": 11,
+   "heading": "Artigo 17.º — Reclamações",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 17.º — Reclamações\n\n1 - O público presente nos atos das extrações da Lotaria Nacional pode reclamar para o júri, verbalmente ou por escrito, contra qualquer aspeto que repute irregular.\n\n2 - O júri, atenta a reclamação, decide imediatamente e em definitivo, podendo, no caso de reclamação verbal, solicitar que a mesma seja formulada por escrito, tudo ficando a constar da respetiva ata.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354043": {
+   "fragment_id": "107770911",
+   "type": 11,
+   "heading": "Artigo 18.º — Policiamento do local dos sorteios",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 18.º — Policiamento do local dos sorteios\n\n1 - Quando os sorteios se realizam na sala de extrações da Lotaria Nacional esta é devidamente policiada pela autoridade competente.\n\n2 - Quando os sorteios se realizam noutro local, as extrações são policiadas pela autoridade competente sempre que seja solicitada aos serviços do Departamento de Jogos a sua presença pelo júri das extrações.\n\n3 - Os agentes da autoridade comparecem no local da extração quinze minutos antes da hora marcada para o início do mesmo, retirando-se quando o presidente do júri das extrações o determinar.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354044": {
+   "fragment_id": "107770912",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamento dos prémios",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 19.º — Pagamento dos prémios\n\n1 - Os prémios de valor igual ou inferior a (euro)150 são pagos contra a apresentação do título premiado, após a sua leitura pelo terminal de jogos, junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, sem prejuízo do especialmente estabelecido para as aquisições de números da Lotaria Nacional através da plataforma de acesso multicanal.\n\n2 - Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos contra a apresentação do bilhete premiado, após a sua leitura pelo terminal de jogos, mediante transferência para a conta bancária indicada pelo portador do título premiado.\n\n3 - Quando o documento emitido pelo terminal de jogos, nos termos do artigo 4.º, n.º 2, não for lido num terminal, pode o jogador enviar o mesmo para o Departamento de Jogos, que comprova a sua autenticidade e, caso se verifique que incorpora o direito a prémio, emite outro documento que permita o respetivo pagamento.\n\n4 - (Revogado.)\n\n5 - Sem prejuízo do disposto no n.º 1, os prémios de valor igual ou inferior a (euro)150 podem ser pagos pelos mediadores que não disponham de terminal de jogos, os quais suportarão os riscos inerentes.\n\n6 - Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação junto de qualquer mediador de jogos sociais do Estado ou do Departamento de Jogos, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo.\n\n7 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para a conta bancária do portador do bilhete premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo.\n\n8 - O Departamento de Jogos procede ao pagamento de prémios dos bilhetes ou frações desmaterializados de montante igual ou superior a (euro) 5000 após a realização do ato de controlo do direito aos prémios pelo júri das extrações.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354045": {
+   "fragment_id": "107770913",
+   "type": 11,
+   "heading": "Artigo 20.º — Bilhetes físicos com impressão defeituosa",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 20.º — Bilhetes físicos com impressão defeituosa\n\nOs bilhetes ou as frações físicos que apresentem uma impressão defeituosa ou se encontrem deteriorados só são pagos, de acordo com o plano de prémios, depois de se confirmar a autenticidade do título e a existência de prémio.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354046": {
+   "fragment_id": "107770914",
+   "type": 11,
+   "heading": "Artigo 21.º — Identificação dos portadores dos títulos",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 21.º — Identificação dos portadores dos títulos\n\n1 - A identificação do apresentante das frações premiadas, que compõem o respetivo bilhete, é igualmente exigida quando tenha existido participação de perda, extravio, furto ou roubo, efetuada nos serviços do Departamento de Jogos.\n\n2 - O objetivo da identificação restringe-se às informações a prestar às autoridades e não pode ser usada para fim diverso.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354047": {
+   "fragment_id": "107770915",
+   "type": 11,
+   "heading": "Artigo 22.º — Caducidade",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 22.º — Caducidade\n\n1 - O direito aos prémios da Lotaria Nacional caduca 90 dias após o sorteio dos números.\n\n2 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, responsabilizando-se o Departamento de Jogos pelo pagamento dos prémios antes do decurso do prazo de caducidade, sem prejuízo do direito de reclamação para o júri de reclamações.\n\n3 - Os prémios não reclamados revertem a favor da Santa Casa da Misericórdia de Lisboa.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354048": {
+   "fragment_id": "107770916",
+   "type": 11,
+   "heading": "Artigo 23.º — Proibição de venda de bilhetes",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 23.º — Proibição de venda de bilhetes\n\n1 - É proibida a venda de bilhetes ou frações desde a hora marcada para o início da respetiva extração.\n\n2 - É proibida a venda ao público de bilhetes ou frações por preço superior ao valor facial.\n\n3 - É proibida a venda de jogo a menores e a outros incapazes.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354049": {
+   "fragment_id": "107770917",
+   "type": 11,
+   "heading": "Artigo 24.º — Fraudes",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 24.º — Fraudes\n\n1 - A prática de atos fraudulentos com vista ao recebimento de prémios, nomeadamente a falsificação de bilhetes ou suas frações físicos e desmaterializados, é objeto de participação, para efeitos de procedimento criminal, nos termos legais.\n\n2 - As irregularidades cometidas pelos jogadores ou pelos mediadores dos jogos sociais do Estado no exercício das suas funções, bem como quaisquer danos daí resultantes para aqueles, não podem ser imputados ao Departamento de Jogos.\n\n3 - O Departamento de Jogos não intervém em eventuais conflitos entre jogadores que adquiram bilhetes ou frações em comum, nomeadamente para efeito de pagamento de prémios.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354050": {
+   "fragment_id": "107770918",
+   "type": 11,
+   "heading": "Artigo 25.º — Conservação de documentos da Lotaria Nacional",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 25.º — Conservação de documentos da Lotaria Nacional\n\n1 - As atas das extrações, a gravação magnética ou o registo informático dos mesmos e um exemplar da lista oficial são conservados em arquivos, nos termos da Portaria n.º 509/2004, de 14 de maio.\n\n2 - Os bilhetes, ou suas frações, da Lotaria premiados são registados informaticamente, procedendo-se à destruição do título, nos termos do número anterior.\n\n3 - Os bilhetes correspondentes aos 1.º, 2.º e 3.º prémios da Lotaria Nacional Clássica e aos 1.º, 2.º, 3.º e 4.º prémios da Lotaria Nacional Popular não serão destruídos, sendo enviados para o arquivo histórico.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354051": {
+   "fragment_id": "107770919",
+   "type": 11,
+   "heading": "Artigo 26.º — Tutela judicial",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 26.º — Tutela judicial\n\nAs deliberações do júri das extrações, os atos do Departamento de Jogos relativos a pagamento de prémios e as deliberações do júri de reclamações podem ser impugnados judicialmente no tribunal da jurisdição administrativa com sede na área de Lisboa.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  },
+  "123354052": {
+   "fragment_id": "107770920",
+   "type": 11,
+   "heading": "Artigo 27.º — Casos omissos",
+   "in_force_from": "2019-07-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+   ],
+   "markdown": "###### Artigo 27.º — Casos omissos\n\nOs casos omissos e as dúvidas resultantes da aplicação do presente Regulamento são resolvidos pelo Departamento de Jogos, ouvido o júri das reclamações.\n\nO Ministro do Trabalho, Solidariedade e Segurança Social, José António Fonseca Vieira da Silva, em 25 de julho de 2017.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 227-A/2019 - Diário da República n.º 137/2019, 1º Suplemento, Série I de 2019-07-19](https://diariodarepublica.pt/dr/detalhe/portaria/227-a-2019-123324347), em vigor a partir de 2019-07-20"
+  }
+ }
+}

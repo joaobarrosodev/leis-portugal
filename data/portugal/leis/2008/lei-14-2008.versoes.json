@@ -1,0 +1,295 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:247035:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2008-66480830",
+ "dre_path": "/dr/detalhe/lei/14-2008-247035",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-03-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66480744",
+    "66480745",
+    "66480746",
+    "66480747",
+    "66480748",
+    "66480749",
+    "66480750",
+    "66480751",
+    "66480752",
+    "66480753",
+    "66480754",
+    "66480755",
+    "66480756",
+    "66480757",
+    "66480758",
+    "66480759",
+    "66480760",
+    "66480761",
+    "66480762",
+    "66480763",
+    "66480764",
+    "66480765",
+    "66480766",
+    "66480767"
+   ]
+  },
+  {
+   "date": "2015-02-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66480819:por",
+     "title": "Lei n.º 9/2015",
+     "published": "2015-02-11",
+     "dre_path": "/dr/detalhe/lei/9-2015-66480819"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "66480744",
+    "66480745",
+    "66480746",
+    "66480747",
+    "66480748",
+    "66480749",
+    "66485504",
+    "66480751",
+    "66480752",
+    "66480753",
+    "66480754",
+    "66480755",
+    "66480756",
+    "66480757",
+    "66480758",
+    "66480759",
+    "66480760",
+    "66480761",
+    "66480762",
+    "66480763",
+    "66480764",
+    "66480765",
+    "66480766",
+    "66480767",
+    "66480768"
+   ]
+  }
+ ],
+ "fragments": {
+  "66480744": {
+   "fragment_id": "66480831",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 14/2008\n\nde 12 de Março\n\nProíbe e sanciona a discriminação em função do sexo no acesso a bens e serviços e seu fornecimento, transpondo para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0113\" title=\"Link para Directiva da Comunidade Europeia\">2004/113/CE</a>, do Conselho, de 13 de Dezembro.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "66480745": {
+   "fragment_id": "66480832",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei tem por objecto prevenir e proibir a discriminação, directa e indirecta, em função do sexo, no acesso a bens e serviços e seu fornecimento e sancionar a prática de actos que se traduzam na violação do princípio da igualdade de tratamento entre homens e mulheres."
+  },
+  "66480746": {
+   "fragment_id": "66480833",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A presente lei aplica-se às entidades públicas e privadas que forneçam bens e prestem serviços disponíveis ao público a título gratuito ou oneroso.\n\n2 - Estão excluídos:\n\na) Os bens e serviços oferecidos no quadro da vida privada e familiar, bem como as transacções efectuadas nesse contexto;\n\nb) O conteúdo dos meios de comunicação e publicidade;\n\nc) O sector da educação;\n\nd) As questões de emprego e profissão, incluindo o trabalho não assalariado."
+  },
+  "66480747": {
+   "fragment_id": "66480834",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeito desta lei, consideram-se:\n\na) «Discriminação directa» todas as situações em que, em função do sexo, uma pessoa seja sujeita a tratamento menos favorável do que aquele que é, tenha sido ou possa vir a ser dado a outra pessoa em situação comparável;\n\nb) «Discriminação indirecta» sempre que uma disposição, critério ou prática aparentemente neutra coloque pessoas de um dado sexo numa situação de desvantagem comparativamente com pessoas do outro sexo, a não ser que essa disposição, critério ou prática objectivamente se justifique por um fim legítimo e que os meios para o alcançar sejam adequados e necessários;\n\nc) «Assédio» todas as situações em que ocorra um comportamento indesejado, relacionado com o sexo de uma dada pessoa, com o objectivo ou o efeito de violar a sua dignidade e de criar um ambiente intimidativo, hostil, degradante, humilhante ou ofensivo;\n\nd) «Assédio sexual» todas as situações em que ocorra um comportamento indesejado de carácter sexual, sob forma física, verbal ou não verbal, com o objectivo ou o efeito de violar a dignidade da pessoa, em especial quando criar um ambiente intimidativo, hostil, degradante, humilhante ou ofensivo."
+  },
+  "66480748": {
+   "fragment_id": "66480835",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípio da igualdade e proibição da discriminação em função do sexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípio da igualdade e proibição da discriminação em função do sexo\n\n1 - É proibida a discriminação, directa ou indirecta, tal como definida na presente lei, assente em acções, omissões ou cláusulas contratuais no âmbito do acesso a bens e serviços e seu fornecimento.\n\n2 - Consideram-se discriminatórias, designadamente, as práticas ou cláusulas contratuais de que resulte:\n\na) A recusa de fornecimento ou o impedimento da fruição de bens ou serviços;\n\nb) O fornecimento ou a fruição desfavoráveis de bens ou serviços;\n\nc) A recusa ou o condicionamento de compra, arrendamento ou subarrendamento de imóveis;\n\nd) A recusa ou o acesso desfavorável a cuidados de saúde prestados em estabelecimentos públicos ou privados.\n\n3 - São também discriminatórias quaisquer instruções ou ordens com vista à discriminação directa ou indirecta.\n\n4 - O assédio e o assédio sexual são considerados discriminação para efeitos da presente lei, não sendo relevada a rejeição ou aceitação deste tipo de comportamentos pelas pessoas em causa enquanto fundamento de decisões que as afectem.\n\n5 - Os actos e as cláusulas discriminatórios consideram-se nulos dando lugar a responsabilidade civil de acordo com os prejuízos causados.\n\n6 - Não constitui discriminação a aplicação de disposições mais favoráveis tendo em vista a protecção das mulheres em matéria de gravidez, puerpério e amamentação.\n\n7 - A garantia da plena igualdade entre homens e mulheres não prejudica a manutenção ou aprovação de medidas de acção positiva específicas destinadas a prevenir ou compensar situações factuais de desigualdade ou desvantagem relacionadas com o sexo."
+  },
+  "66480749": {
+   "fragment_id": "66480836",
+   "type": 11,
+   "heading": "Artigo 5.º — Protecção em situação de gravidez",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Protecção em situação de gravidez\n\nÉ proibido o pedido de informação relativamente à situação de gravidez de uma mulher demandante de bens e serviços, salvo por razões de protecção da sua saúde."
+  },
+  "66480750": {
+   "fragment_id": "66480837",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime geral dos contratos de seguro e outros serviços financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime geral dos contratos de seguro e outros serviços financeiros\n\n1 - A consideração do sexo como factor de cálculo dos prémios e prestações de seguros e outros serviços financeiros não pode resultar em diferenciações nos prémios e prestações.\n\n2 - Sem prejuízo do número anterior, são todavia admitidas diferenciações nos prémios e prestações individuais de seguros e outros serviços financeiros desde que proporcionadas e decorrentes de uma avaliação do risco baseada em dados actuariais e estatísticos relevantes e rigorosos.\n\n3 - Os dados actuariais e estatísticos consideram-se relevantes e rigorosos para o efeito previsto no número anterior quando obtidos e elaborados nos termos de norma regulamentar emitida para o efeito pelo Instituto de Seguros de Portugal.\n\n4 - A admissibilidade do regime previsto no n.º 2 é objecto de revisão cinco anos após a entrada em vigor da presente lei."
+  },
+  "66480751": {
+   "fragment_id": "66480838",
+   "type": 11,
+   "heading": "Artigo 7.º — Coberturas de gravidez e maternidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coberturas de gravidez e maternidade\n\nOs custos relacionados com a gravidez e a maternidade não podem resultar numa diferenciação de prémios e prestações dos contratos de seguro e outros serviços financeiros."
+  },
+  "66480752": {
+   "fragment_id": "66480839",
+   "type": 11,
+   "heading": "Artigo 8.º — Meios de defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Meios de defesa\n\nSem prejuízo do recurso à via judicial, as partes podem submeter a resolução dos litígios emergentes da presente lei a estruturas de resolução alternativa de litígios."
+  },
+  "66480753": {
+   "fragment_id": "66480840",
+   "type": 11,
+   "heading": "Artigo 9.º — Ónus da prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Ónus da prova\n\n1 - Cabe a quem alegar ter sido lesado por um acto de discriminação directa ou indirecta apresentar os factos constitutivos do mesmo, incumbindo à parte demandada provar que não houve violação do princípio da igualdade de tratamento.\n\n2 - Em caso de acto de retaliação, o lesado apenas tem de apresentar os factos constitutivos da forma de tratamento ou da consequência desfavorável bem como indicar qual a queixa ou o procedimento judicial que levou a cabo para exigir o cumprimento do princípio da igualdade, incumbindo à parte demandada provar que não existe nexo de causalidade entre uns e outros.\n\n3 - O disposto nos números anteriores não se aplica aos processos penais."
+  },
+  "66480754": {
+   "fragment_id": "66480841",
+   "type": 11,
+   "heading": "Artigo 10.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Responsabilidade\n\n1 - A prática de qualquer acto discriminatório, por acção ou omissão, confere ao lesado o direito a uma indemnização, por danos patrimoniais e não patrimoniais, a título de responsabilidade civil extracontratual, nos termos gerais.\n\n2 - Na fixação da indemnização o tribunal deve atender ao grau de violação dos interesses em causa, ao poder económico dos autores do ilícito e às condições da pessoa alvo da prática discriminatória.\n\n3 - Nos contratos que contenham cláusulas discriminatórias, o contraente lesado tem o direito à alteração do contrato de modo que os direitos e obrigações contratuais sejam equivalentes aos do sexo mais beneficiado.\n\n4 - A efectiva alteração do contrato prevista no número anterior não preclude a indemnização por responsabilidade extracontratual.\n\n5 - As sentenças condenatórias proferidas em sede de responsabilidade civil são publicadas, após trânsito em julgado, a expensas dos responsáveis, numa das publicações diárias de maior circulação do País, por extracto, do qual devem constar apenas os factos comprovativos da prática discriminatória, a identidade dos ofendidos e dos condenados e as indemnizações fixadas.\n\n6 - A publicação da identidade dos ofendidos depende do consentimento expresso destes manifestado até ao final da audiência de julgamento.\n\n7 - A publicação tem lugar no prazo de cinco dias a contar da notificação judicial."
+  },
+  "66480755": {
+   "fragment_id": "66480842",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos processuais das associações e organizações não governamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos processuais das associações e organizações não governamentais\n\n1 - É reconhecida às associações e organizações não governamentais cujo objecto estatutário se destine essencialmente à promoção dos valores da cidadania, da defesa dos direitos humanos, dos direitos das mulheres, da igualdade de género e de defesa dos direitos dos consumidores legitimidade processual para a defesa dos direitos e interesses colectivos e para a defesa colectiva dos direitos e interesses individuais legalmente protegidos dos seus associados, bem como para a defesa dos valores protegidos pela presente lei.\n\n2 - Em caso de assédio, só a pessoa assediada dispõe de legitimidade processual nos termos desta lei.\n\n3 - A defesa colectiva dos direitos e interesses individuais legalmente protegidos prevista no n.º 1 não pode implicar limitação da autonomia individual dos associados."
+  },
+  "66480756": {
+   "fragment_id": "66480843",
+   "type": 11,
+   "heading": "Artigo 12.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contra-ordenações\n\n1 - A prática de qualquer acto discriminatório por pessoa singular, tal como proibido pelos n.os 1 a 4 do artigo 4.º, bem como a violação do disposto nos artigos 5.º e 6.º, constitui contra-ordenação punível com coima graduada entre 5 e 10 vezes o valor da retribuição mínima mensal garantida, sem prejuízo da responsabilidade civil e de outra sanção que ao caso couber.\n\n2 - A prática de qualquer acto discriminatório por pessoa colectiva de direito público ou privado, tal como proibido pelos n.os 1 a 4 do artigo 4.º, bem como a violação do disposto nos artigos 5.º e 6.º, constitui contra-ordenação punível com coima graduada entre 20 e 30 vezes o valor da retribuição mínima mensal garantida, sem prejuízo da responsabilidade civil e de outra sanção que ao caso couber.\n\n3 - Em caso de reincidência ou de retaliação os limites mínimo e máximo da coima são elevados para o dobro.\n\n4 - A tentativa e a negligência são puníveis, sendo os limites mínimo e máximo das coimas aplicadas reduzidos a metade.\n\n5 - Sempre que a contra-ordenação resulte da omissão de um dever, a aplicação da sanção e o pagamento da coima não dispensam o infractor do seu cumprimento, se este ainda for possível."
+  },
+  "66480757": {
+   "fragment_id": "66480844",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\n1 - Em função da gravidade do acto de discriminação e da culpa do agente, podem ser aplicadas, simultaneamente com as coimas, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades que dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito a participar em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens ou serviços públicos e a atribuição de licenças ou alvarás;\n\ne) Suspensão de autorizações, licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Publicidade da decisão sancionatória;\n\nh) Advertência ou censura pública aos autores do acto discriminatório.\n\n2 - As sanções referidas nas alíneas b) a f) do número anterior têm a duração máxima de dois anos contados a partir da decisão sancionatória definitiva."
+  },
+  "66480758": {
+   "fragment_id": "66480845",
+   "type": 11,
+   "heading": "Artigo 14.º — Instrução do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instrução do processo\n\n1 - A instrução do processo de contra-ordenação pelas condutas ou omissões a que se refere o artigo 12.º compete às entidades administrativas cujas atribuições incidam sobre a matéria objecto da infracção.\n\n2 - Sem prejuízo do n.º 2 do artigo 20.º, é enviada cópia do processo já instruído à Comissão para a Cidadania e a Igualdade de Género (CIG), acompanhada do respectivo relatório final."
+  },
+  "66480759": {
+   "fragment_id": "66480846",
+   "type": 11,
+   "heading": "Artigo 15.º — Aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação das coimas\n\nA definição da medida e a aplicação das coimas e sanções acessórias, no âmbito dos processos contra-ordenacionais referidos no artigo anterior, incumbem às entidades administrativas cujas atribuições incidam sobre a matéria objecto da infracção."
+  },
+  "66480760": {
+   "fragment_id": "66480847",
+   "type": 11,
+   "heading": "Artigo 16.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Produto das coimas\n\nO produto das coimas é afecto nos seguintes termos:\n\na) 60 % para o Estado;\n\nb) 30 % para a entidade administrativa que instrui o processo contra-ordenacional e aplica a respectiva coima;\n\nc) 10 % para a CIG."
+  },
+  "66480761": {
+   "fragment_id": "66480848",
+   "type": 11,
+   "heading": "Artigo 17.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Registo\n\n1 - As entidades administrativas com competência para aplicar coimas no âmbito da presente lei e os tribunais comunicam todas as decisões comprovativas das práticas discriminatórias à CIG, que organiza um registo das mesmas.\n\n2 - A criação e a manutenção do registo previsto no número anterior terá de observar as normas procedimentais e de protecção de dados e está sujeita a prévio parecer da Comissão Nacional da Protecção de Dados.\n\n3 - As entidades referidas no n.º 1 podem solicitar, no decurso de qualquer processo baseado na violação da proibição de discriminação nos termos da presente lei, informação à CIG sobre a existência de qualquer decisão já transitada em julgado relativa à entidade em causa.\n\n4 - A prestação da informação referida no número anterior às entidades requerentes deve ter lugar no prazo de 10 dias."
+  },
+  "66480762": {
+   "fragment_id": "66480849",
+   "type": 11,
+   "heading": "Artigo 18.º — Concurso de infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Concurso de infracções\n\n1 - Se o mesmo facto constituir, simultaneamente, ilícito penal e contra-ordenação, o agente é punido sempre a título penal.\n\n2 - As sanções aplicadas às contra-ordenações em concurso são sempre cumuladas materialmente."
+  },
+  "66480763": {
+   "fragment_id": "66480850",
+   "type": 11,
+   "heading": "Artigo 19.º — Conflitos de competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conflitos de competência\n\nOs conflitos positivos ou negativos de competência são decididos pelo membro do Governo que tenha a seu cargo a área da igualdade e pelos demais sob cujo poder de direcção, superintendência ou tutela se encontrem as entidades envolvidas na situação geradora do conflito de competência."
+  },
+  "66480764": {
+   "fragment_id": "66480851",
+   "type": 11,
+   "heading": "Artigo 20.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acompanhamento\n\n1 - Compete à CIG acompanhar a aplicação da presente lei.\n\n2 - A CIG emite parecer sobre os processos instaurados ao abrigo da presente lei sempre que solicitado.\n\n3 - Compete ainda à CIG elaborar um relatório anual no qual seja mencionada a informação recolhida sobre a prática de actos discriminatórios e as sanções aplicadas.\n\n4 - O relatório anual, referido no número anterior, é divulgado no sítio oficial da CIG."
+  },
+  "66480765": {
+   "fragment_id": "66480852",
+   "type": 11,
+   "heading": "Artigo 21.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direito subsidiário\n\nAo disposto na presente lei é aplicável, subsidiariamente, o regime geral das contra-ordenações."
+  },
+  "66480766": {
+   "fragment_id": "66480853",
+   "type": 11,
+   "heading": "Artigo 22.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regulamentação\n\nNo prazo de 90 dias, o Governo procederá à aprovação das normas regulamentares necessárias à boa execução da presente lei."
+  },
+  "66480767": {
+   "fragment_id": "66480854",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO disposto no artigo 7.º entra em vigor a 1 de Dezembro de 2009."
+  },
+  "66485504": {
+   "fragment_id": "66480837",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime geral dos contratos de seguro e outros serviços financeiros",
+   "in_force_from": "2015-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 9/2015 - Diário da República n.º 29/2015, Série I de 2015-02-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2015-66480819), em vigor a partir de 2015-02-16, produz efeitos a partir de 2012-12-21"
+   ],
+   "markdown": "###### Artigo 6.º — Regime geral dos contratos de seguro e outros serviços financeiros\n\n1 - A consideração do sexo como fator de cálculo dos prémios e prestações de seguros e outros serviços financeiros não pode resultar em diferenciações nos prémios e prestações individuais.\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n4 - (Revogado).\n\n5 - O regime previsto no presente artigo aplica-se aos seguros e pensões privados, voluntários e independentes da relação de trabalho.\n\n6 - Compete ao Instituto de Seguros de Portugal a divulgação das categorias de práticas que, no âmbito da aceitação de riscos de vida e de saúde, são admissíveis à luz da Diretiva n.º 2004/113/CE, do Conselho, de 13 de dezembro, e das orientações da União Europeia, designadamente as constantes da Comunicação da Comissão Europeia, de 22 de dezembro de 2011: 'Orientações sobre a aplicação ao sector dos seguros da Diretiva n.º 2004/113/CE, do Conselho, de 13 de dezembro, à luz do acórdão do Tribunal de Justiça da União Europeia no Processo C-236/09 (Test-Achats)'.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 9/2015 - Diário da República n.º 29/2015, Série I de 2015-02-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2015-66480819), em vigor a partir de 2015-02-16, produz efeitos a partir de 2012-12-21"
+  },
+  "66480768": {
+   "fragment_id": "66480855",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 24 de Janeiro de 2008.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 25 de Fevereiro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 28 de Fevereiro de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

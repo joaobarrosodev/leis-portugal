@@ -1,0 +1,822 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005L0085:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005L0085-20060102",
+ "dre_path": null,
+ "source_lastmod": "2006-01-02",
+ "versions": [
+  {
+   "date": "2005-12-13",
+   "future": false,
+   "celex": "32005L0085",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1594f7d1ed3953b9",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "9e8ba7d504ef51ba",
+    "96b3a3482405d919",
+    "15e72614594f681c",
+    "238f1d01f29822be",
+    "1d045942182cb8a2",
+    "f0f8c960bfdbce9b",
+    "bdf54d9c7c9f3bb8",
+    "16637e31188e88f1",
+    "165844a482e368a4",
+    "7d7a64c06f88bfe5",
+    "51a896dcdee91ee2",
+    "09158798a5238df6",
+    "0524c9f5da0cc5a3",
+    "d1bce864b294a69a",
+    "fb3805e839c92986",
+    "a92f3738ee609026",
+    "77e7846614826d5e",
+    "a4337c6fdde1a0ea",
+    "3795a1b78035ef3f",
+    "91eb04ae04d30a4a",
+    "43477f29d5f79877",
+    "2f108acbfe04cf48",
+    "672b11de1a122959",
+    "21a0db8f99b08533",
+    "1e7a0903d2eed348",
+    "ca243acf772c575b",
+    "19572906891c0646",
+    "7be01fa7aeaede8b",
+    "9c74cfcaecaa7191",
+    "0b50b9972a75b595",
+    "ff6206c7187ab0d5",
+    "760b5fa184525218",
+    "31f8a7cb0135f6ab",
+    "b4f1bfdbc841cf04",
+    "575b3dc620995ac2",
+    "d2a9497ffe2bb080",
+    "4b28c7aeb0ebad14",
+    "8e547b5d2eae696e",
+    "b9c1c438fac65788",
+    "ecc0ddc51e3aab1d",
+    "155571c7ead0de60",
+    "dab2940788ea1b60",
+    "184c1b7a3d24aa39",
+    "531c944ac69eba86",
+    "faa4f31236a7a6e6",
+    "58b711c93941570e",
+    "1ecfc79da3f1ac7f",
+    "bc9ec14ed6193efd",
+    "bf0ef34d28fdd8bb",
+    "258e3aadefd18834",
+    "40ed6b62e188ac6f",
+    "309eafde9279dc4d",
+    "86c8f39355bdf0b5",
+    "b76d202a844f758e",
+    "966d3b11fd5a17ca",
+    "0a3986e815465ccf",
+    "f3a970a63465e84c",
+    "59ac5eeee6f578ca",
+    "bad1fc605c1e677d",
+    "0d4ad98cb5584976",
+    "b4599c7502dc9511",
+    "c3eae8994150a525",
+    "f5baaa8ee168e714"
+   ]
+  },
+  {
+   "date": "2006-01-02",
+   "future": false,
+   "celex": "02005L0085-20060102",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 7.º — Direito de permanência no Estado-Membro durante a apreciação do pedido",
+    "Altera Artigo 17.º — Garantias dos menores não acompanhados",
+    "Altera Artigo 23.º — Procedimento de apreciação",
+    "Altera Artigo 39.º — Direito a um recurso efectivo",
+    "Altera Artigo 43.º — Transposição",
+    "Altera Artigo 46.º — Destinatários",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Definição de «órgão de decisão»",
+    "Adita ANEXO II",
+    "Adita Designação de países de origem seguros para efeitos do artigo 29.º e do n.º 1 do artigo 30.º",
+    "Adita ANEXO III",
+    "Adita Definição de «requerente» ou «requerente de asilo»"
+   ],
+   "fragments": [
+    "ffc3415eff9dd1e7",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "9e8ba7d504ef51ba",
+    "96b3a3482405d919",
+    "15e72614594f681c",
+    "238f1d01f29822be",
+    "1d045942182cb8a2",
+    "f0f8c960bfdbce9b",
+    "bdf54d9c7c9f3bb8",
+    "16637e31188e88f1",
+    "a5a4c6bb672884df",
+    "7d7a64c06f88bfe5",
+    "51a896dcdee91ee2",
+    "09158798a5238df6",
+    "0524c9f5da0cc5a3",
+    "d1bce864b294a69a",
+    "fb3805e839c92986",
+    "a92f3738ee609026",
+    "77e7846614826d5e",
+    "a4337c6fdde1a0ea",
+    "7565a8be5b29a812",
+    "91eb04ae04d30a4a",
+    "43477f29d5f79877",
+    "2f108acbfe04cf48",
+    "672b11de1a122959",
+    "21a0db8f99b08533",
+    "1e7a0903d2eed348",
+    "ca243acf772c575b",
+    "19572906891c0646",
+    "a4a953abbc1699e8",
+    "9c74cfcaecaa7191",
+    "0b50b9972a75b595",
+    "ff6206c7187ab0d5",
+    "760b5fa184525218",
+    "31f8a7cb0135f6ab",
+    "b4f1bfdbc841cf04",
+    "575b3dc620995ac2",
+    "d2a9497ffe2bb080",
+    "4b28c7aeb0ebad14",
+    "8e547b5d2eae696e",
+    "b9c1c438fac65788",
+    "ecc0ddc51e3aab1d",
+    "155571c7ead0de60",
+    "dab2940788ea1b60",
+    "184c1b7a3d24aa39",
+    "531c944ac69eba86",
+    "faa4f31236a7a6e6",
+    "58b711c93941570e",
+    "1ecfc79da3f1ac7f",
+    "bc9ec14ed6193efd",
+    "bf0ef34d28fdd8bb",
+    "258e3aadefd18834",
+    "40ed6b62e188ac6f",
+    "309eafde9279dc4d",
+    "d6a27bb911fe411f",
+    "b76d202a844f758e",
+    "966d3b11fd5a17ca",
+    "0a3986e815465ccf",
+    "f3a970a63465e84c",
+    "59ac5eeee6f578ca",
+    "eab480ca131ce010",
+    "0d4ad98cb5584976",
+    "b4599c7502dc9511",
+    "a60ed12464998f40",
+    "d664376e2a8dcecd",
+    "5eff8a9e4888ec14",
+    "852174729551523b",
+    "f6c6bb619321a062",
+    "720af75c92791b10",
+    "df17ac1bb71f5675",
+    "2b0b0707c9e7339b"
+   ]
+  }
+ ],
+ "fragments": {
+  "1594f7d1ed3953b9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Dezembro de 2005\n\nrelativa a normas mínimas aplicáveis ao procedimento de concessão e retirada do estatuto de refugiado nos Estados-Membros\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente, o ponto 1, alínea d), do primeiro parágrafo do artigo 63.º,\n\nTendo em conta a proposta da Comissão [([^1])](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntr1-L_2005326PT.01001301-E0001),\n\nTendo em conta o parecer do Parlamento Europeu [([^2])](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntr2-L_2005326PT.01001301-E0002),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^3])](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntr3-L_2005326PT.01001301-E0003),\n\nConsiderando o seguinte:\n\n(1) Uma política comum de asilo, que inclua um sistema comum europeu de asilo, faz parte integrante do objectivo da União Europeia de criar progressivamente um espaço de liberdade, segurança e justiça aberto a todos aqueles que, por força das circunstâncias, procuram legitimamente protecção na Comunidade.\n\n(2) O Conselho Europeu, na sua reunião extraordinária de Tampere, de 15 e 16 de Outubro de 1999, decidiu desenvolver esforços no sentido de estabelecer um sistema comum europeu de asilo, baseado na aplicação integral e abrangente da Convenção de Genebra, de 28 de Julho de 1951, relativa ao Estatuto dos Refugiados, alterada pelo Protocolo de Nova Iorque, de 31 de Janeiro de 1967 («Convenção de Genebra»), afirmando dessa forma o princípio da não repulsão e assegurando que ninguém é reenviado para onde possa ser perseguido.\n\n(3) As conclusões de Tampere prevêem que um sistema comum europeu de asilo inclua, a curto prazo, normas comuns aplicáveis a um procedimento de asilo equitativo e eficaz nos Estados-Membros e, a mais longo prazo, normas comunitárias conducentes a um procedimento comum de asilo na Comunidade Europeia.\n\n(4) As normas mínimas estabelecidas na presente directiva aplicáveis aos procedimentos de concessão ou retirada do estatuto de refugiado nos Estados-Membros constituem, pois, uma primeira medida em matéria de procedimentos de asilo.\n\n(5) O principal objectivo da presente directiva consiste em introduzir na Comunidade um quadro mínimo em matéria de procedimentos de concessão ou retirada do estatuto de refugiado.\n\n(6) A aproximação das normas relativas aos procedimentos de concessão e retirada do estatuto de refugiado deverá contribuir para limitar os fluxos secundários de requerentes de asilo entre Estados-Membros, nos casos em que tais fluxos sejam devidos a diferenças entre os seus regimes jurídicos.\n\n(7) Constitui característica das normas mínimas a possibilidade de os Estados-Membros preverem ou manterem disposições mais favoráveis relativamente a nacionais de países terceiros ou a apátridas requerentes de protecção internacional num Estado-Membro, sempre que se considere que tal pedido é apresentado com base no estatuto de refugiado, na acepção do ponto A do artigo 1.º da Convenção de Genebra.\n\n(8) A presente directiva respeita os direitos fundamentais e observa os princípios consagrados, em especial, na Carta dos Direitos Fundamentais da União Europeia.\n\n(9) No que se refere ao tratamento das pessoas abrangidas pelo âmbito de aplicação da presente directiva, os Estados-Membros estão vinculados por obrigações decorrentes de instrumentos de direito internacional em que são Partes e que proíbem a discriminação.\n\n(10) É essencial que as decisões sobre todos os pedidos de asilo sejam tomadas com base nos factos e, em primeira instância, por autoridades cujo pessoal possua os conhecimentos adequados ou receba a formação necessária nos domínios do asilo e dos refugiados.\n\n(11) É do interesse tanto dos Estados-Membros como dos requerentes de asilo que a decisão sobre os pedidos de asilo seja proferida o mais rapidamente possível. A organização da tramitação dos pedidos de asilo deverá ser deixada à discricionariedade dos Estados-Membros, para que estes possam, de acordo com as necessidades nacionais, considerar prioritário ou acelerar a tramitação de qualquer pedido, tendo em conta as normas previstas na presente directiva.\n\n(12) A noção de ordem pública pode abranger a condenação pela prática de crime grave.\n\n(13) Para que seja possível identificar correctamente as pessoas que necessitam de protecção enquanto refugiados na acepção do artigo 1.º da Convenção de Genebra, os requerentes deverão, ressalvadas determinadas excepções, ter acesso efectivo aos procedimentos, a possibilidade de cooperarem e comunicarem devidamente com as autoridades competentes de forma a exporem os factos relevantes da sua situação, bem como garantias processuais suficientes para defenderem o seu pedido em todas as fases do procedimento. Acresce que o procedimento de apreciação de um pedido de asilo deverá normalmente proporcionar ao requerente, pelo menos, o direito de permanecer no território na pendência da decisão do órgão de decisão, o acesso aos serviços de um intérprete para apresentação do caso se for convocado para uma entrevista pelas autoridades, a oportunidade de contactar um representante do Alto Comissariado das Nações Unidas para os Refugiados (ACNUR) ou qualquer outra organização que actue em seu nome, o direito a uma notificação adequada da decisão, a fundamentação dessa decisão em matéria de facto e de direito, a oportunidade de recorrer aos serviços de um advogado ou outro consultor e o direito de ser informado da sua situação jurídica nos momentos decisivos do procedimento, numa língua que seja razoável presumir que compreenda.\n\n(14) Além disso, deverão ser estabelecidas garantias processuais específicas para os menores não acompanhados, dada a sua vulnerabilidade. Neste contexto, o superior interesse da criança deverá constituir preocupação primordial dos Estados-Membros.\n\n(15) Sempre que um requerente apresente um pedido subsequente sem aduzir novos argumentos ou elementos de prova, seria desproporcionado obrigar os Estados-Membros a empreenderem um novo procedimento completo de apreciação. Em tais casos, os Estados-Membros deverão ter a possibilidade de escolher entre os procedimentos que prevêem excepções às garantias de que o requerente usufrui habitualmente.\n\n(16) Muitos pedidos de asilo são apresentados na fronteira ou numa zona de trânsito de um Estado-Membro antes de proferida decisão sobre a entrada do requerente. Os Estados-Membros deverão poder manter os procedimentos existentes, adaptando-os à situação específica desses requerentes na fronteira. Deverão ser definidas regras comuns aplicáveis às eventuais excepções abertas nessas circunstâncias às garantias de que os requerentes habitualmente usufruem. Os procedimentos de fronteira deverão aplicar-se sobretudo aos requerentes que não preenchem as condições de entrada no território dos Estados-Membros.\n\n(17) Elemento de ponderação decisivo para a apreciação da fundamentação de um pedido de asilo é a segurança do requerente no seu país de origem. Sempre que um país terceiro possa ser considerado país de origem seguro, os Estados-Membros deverão poder designá-lo como tal e presumir que é seguro para um determinado requerente, a menos que este apresente contra-indicações graves.\n\n(18) Dado o grau de harmonização alcançado em matéria de condições a preencher por nacionais de países terceiros e apátridas para beneficiarem do estatuto de refugiado, deverão ser definidos critérios comuns para a designação de países terceiros como países de origem seguros.\n\n(19) Sempre que o Conselho conclua que um determinado país de origem preenche esses critérios e, por conseguinte, o inclua na lista mínima comum de países de origem seguros, a aprovar nos termos da presente directiva, os Estados-Membros deverão ser obrigados a apreciar os pedidos de pessoas com a nacionalidade desse país, ou de apátridas que nele tenham tido anteriormente a sua residência habitual, com base na presunção elidível de que esse país é seguro. Atendendo à importância política da designação de países de origem seguros, concretamente face às implicações da avaliação da situação dos direitos humanos num país de origem e às suas repercussões sobre as políticas da União Europeia no domínio das relações externas, quaisquer decisões do Conselho relativas à elaboração ou alteração da lista deverão ser tomadas após consulta ao Parlamento Europeu.\n\n(20) Do seu estatuto de países candidatos à adesão à União Europeia, e dos progressos que realizaram nesse processo de adesão, resulta que a Bulgária e a Roménia deverão ser considerados países de origem seguros, para efeitos da presente directiva, até à data da sua adesão à União Europeia.\n\n(21) A designação de um país terceiro como país de origem seguro, para efeitos da presente directiva, não pode constituir garantia absoluta de segurança para os nacionais desse país. Pela sua natureza intrínseca, a avaliação subjacente à designação só pode atender à situação civil, jurídica e política no referido país e ao facto de os autores de perseguições, torturas ou penas ou tratamentos desumanos ou degradantes estarem, na prática, sujeitos a sanções quando indiciados no país em questão. Por esse motivo, é importante que, se o requerente demonstrar que, na sua situação específica, existem motivos válidos para considerar que o país não é seguro, a designação desse país como país seguro deixe de ser considerada relevante no que lhe diz respeito.\n\n(22) Os Estados-Membros deverão apreciar todos os pedidos quanto ao fundo, ou seja, avaliar se o requerente em causa preenche as condições necessárias para beneficiar do estatuto de refugiado, nos termos da Directiva 2004/83/CE do Conselho, de 29 de Abril de 2004, que estabelece normas mínimas relativas às condições a preencher por nacionais de países terceiros ou apátridas para poderem beneficiar do estatuto de refugiado ou de pessoa que, por outros motivos, necessite de protecção internacional, bem como relativas ao respectivo estatuto e relativas ao conteúdo da protecção concedida [([^4])](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntr4-L_2005326PT.01001301-E0004), salvo disposição em contrário da presente directiva, em especial quando se possa razoavelmente presumir que outro país procederia à apreciação ou proporcionaria protecção suficiente. Concretamente, os Estados-Membros não deverão ser obrigados a apreciar um pedido de asilo quanto ao fundo caso um primeiro país de asilo tenha concedido ao requerente o estatuto de refugiado ou outra forma de protecção suficiente e o requerente vá ser readmitido nesse país.\n\n(23) Do mesmo modo, os Estados-Membros não deverão ser obrigados a apreciar um pedido de asilo quanto ao fundo sempre que seja razoável esperar que o requerente, devido a uma ligação a um país terceiro definida pelo direito interno, procure protecção nesse país terceiro. Os Estados-Membros só deverão proceder nessa base caso esse requerente, em concreto, esteja em segurança no país terceiro em causa. Com o intuito de prevenir fluxos secundários de requerentes de asilo, deverão ser estabelecidos princípios comuns aplicáveis à designação dos países terceiros seguros pelos Estados-Membros.\n\n(24) Além disso, relativamente a determinados países terceiros europeus que observam padrões particularmente elevados no que se refere aos direitos humanos e à protecção dos refugiados, os Estados-Membros deverão ter a possibilidade de não apreciar, ou não apreciar de forma exaustiva, os pedidos de asilo respeitantes a requerentes que entrem nos seus territórios em proveniência desses países terceiros europeus. Dadas as consequências potenciais que uma apreciação omissa ou restrita poderá ter para o requerente, esta aplicação do conceito de país terceiro seguro deverá ser restringida aos casos que envolvam países terceiros relativamente aos quais o Conselho esteja convicto de que satisfazem as elevadas normas de segurança fixadas na presente directiva. O Conselho deverá tomar decisões nesta matéria depois de consultar o Parlamento Europeu.\n\n(25) Da natureza das normas comuns respeitantes a ambos os conceitos de país terceiro seguro definidos na presente directiva, decorre que o efeito prático dos conceitos depende do facto de o país terceiro em questão permitir ou não que o requerente em causa entre no seu território.\n\n(26) Relativamente à retirada do estatuto de refugiado, os Estados-Membros deverão garantir que as pessoas que beneficiam do estatuto de refugiado sejam devidamente informadas de uma eventual reapreciação do seu estatuto e tenham a possibilidade de apresentar as suas observações antes de as autoridades poderem proferir uma decisão fundamentada de retirada desse estatuto. Todavia, deverão ser autorizadas derrogações a essas garantias, caso os motivos que presidem à cessação do estatuto de refugiado não se relacionem com uma alteração das condições em que se fundara o seu reconhecimento.\n\n(27) Um dos princípios fundamentais do direito comunitário implica que as decisões relativas a um pedido de asilo e à retirada do estatuto de refugiado sejam passíveis de recurso efectivo perante um órgão jurisdicional na acepção do artigo 234.º do Tratado. A eficácia do recurso, também no que respeita à apreciação dos factos pertinentes, depende do sistema administrativo e judicial de cada Estado-Membro no seu todo.\n\n(28) De harmonia com o artigo 64.º do Tratado, a presente directiva não prejudica o exercício das responsabilidades que incumbem aos Estados-Membros em matéria de manutenção da ordem pública e de garantia da segurança interna.\n\n(29) A presente directiva não abrange os procedimentos regidos pelo Regulamento (CE) n.º 343/2003 do Conselho, de 18 de Fevereiro de 2003, que estabelece os critérios e mecanismos de determinação do Estado-Membro responsável pela análise de um pedido de asilo apresentado num dos Estados-Membros por um nacional de um país terceiro [([^5])](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntr5-L_2005326PT.01001301-E0005).\n\n(30) A aplicação da presente directiva deverá ser sujeita a avaliações regulares com uma periodicidade máxima de dois anos.\n\n(31) Como o objectivo da presente directiva, designadamente a criação de normas mínimas aplicáveis aos procedimentos de concessão e retirada do estatuto de refugiado nos Estados-Membros, não pode ser suficientemente realizado pelos Estados-Membros e pode, por conseguinte, devido à dimensão e aos efeitos da acção, ser melhor alcançado ao nível comunitário, a Comunidade pode tomar medidas segundo o princípio da subsidiariedade previsto no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade mencionado no referido artigo, a presente directiva não excede o necessário para alcançar aquele objectivo.\n\n(32) Nos termos do artigo 3.º do Protocolo relativo à posição do Reino Unido e da Irlanda, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, o Reino Unido notificou, por carta de 24 de Janeiro de 2001, a sua intenção de participar na aprovação e aplicação da presente directiva.\n\n(33) Nos termos do artigo 3.º do Protocolo relativo à posição do Reino Unido e da Irlanda anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, a Irlanda notificou, por carta de 14 de Fevereiro de 2001, a sua intenção de participar na aprovação e aplicação da presente directiva.\n\n(34) Nos termos do artigos 1.º e 2.º do Protocolo relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, a Dinamarca não participa na aprovação da presente directiva, e não fica a ela vinculada nem sujeita à sua aplicação,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "9e8ba7d504ef51ba": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nA presente directiva tem por objectivo definir normas mínimas aplicáveis ao procedimento de concessão e de retirada do estatuto de refugiado nos Estados-Membros."
+  },
+  "96b3a3482405d919": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Convenção de Genebra», a Convenção relativa ao Estatuto dos Refugiados, de 28 de Julho de 1951, alterada pelo Protocolo de Nova Iorque de 31 de Janeiro de 1967;\n\nb) «Pedido» ou «pedido de asilo», um pedido apresentado por um nacional de país terceiro ou apátrida que possa ser considerado um pedido de protecção internacional dirigido a um Estado-Membro, ao abrigo da Convenção de Genebra. Presume-se que qualquer pedido de protecção internacional é um pedido de asilo, salvo se a pessoa em questão requerer expressamente outro tipo de protecção que possa ser objecto de um pedido distinto;\n\nc) «Requerente» ou «requerente de asilo», o nacional de país terceiro ou apátrida que apresentou um pedido de asilo relativamente ao qual não foi ainda proferida uma decisão final;\n\nd) «Decisão final», a decisão que determina se o estatuto de refugiado pode ser concedido ao nacional de país terceiro ou apátrida, por força da Directiva 2004/83/CE, e que já não é susceptível de recurso no âmbito do capítulo V da presente directiva, independentemente de esse recurso permitir aos requerentes permanecer no Estado-Membro em causa na pendência da respectiva conclusão, sob reserva do anexo III da presente directiva;\n\ne) «Órgão de decisão», qualquer órgão parajudicial ou administrativo de um Estado-Membro, responsável pela apreciação dos pedidos de asilo e competente para proferir uma decisão em primeira instância sobre esses pedidos, sob reserva do anexo I;\n\nf) «Refugiado», o nacional de país terceiro ou apátrida que preenche os requisitos estabelecidos no artigo 1.º da Convenção de Genebra, tal como enunciados na Directiva 2004/83/CE;\n\ng) «Estatuto de refugiado», o reconhecimento por um Estado-Membro de um nacional de país terceiro ou apátrida como refugiado;\n\nh) «Menor não acompanhado», uma pessoa de idade inferior a dezoito anos que chega ao território dos Estados-Membros sem ser acompanhada por uma pessoa adulta que por ela seja responsável, por força da lei ou costume, enquanto não for efectivamente tomada a cargo por esta última; estão incluídos os menores abandonados após a entrada no território dos Estados-Membros;\n\ni) «Representante», a pessoa que age em nome de uma organização que representa um menor não acompanhado, na qualidade de tutor legal; a pessoa que age em nome de uma organização nacional responsável pela assistência e bem-estar dos menores, ou qualquer outro representante adequado designado para defender os interesses do menor não acompanhado;\n\nj) «Retirada do estatuto de refugiado», a decisão proferida por uma autoridade competente que revoga, suprime ou recusa a renovação do estatuto de refugiado a uma pessoa, nos termos da Directiva 2004/83/CE;\n\nk) «Permanência no Estado-Membro», a permanência no território do Estado-Membro em que o pedido de asilo foi apresentado ou esteja a ser examinado, incluindo a fronteira e as zonas de trânsito desse território."
+  },
+  "15e72614594f681c": {
+   "fragment_id": "Artigo 3.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1. A presente directiva é aplicável a todos os pedidos de asilo apresentados no território dos Estados-Membros, incluindo a fronteira e as zonas de trânsito, bem como à retirada do estatuto de refugiado.\n\n2. A presente directiva não é aplicável aos pedidos de asilo diplomático ou territorial apresentados em representações dos Estados-Membros.\n\n3. Quando os Estados-Membros aplicarem ou introduzirem um procedimento no âmbito do qual os pedidos de asilo sejam apreciados como pedidos com base na Convenção de Genebra e como pedidos de outros tipos de protecção internacional concedida nas circunstâncias definidas no artigo 15.º da Directiva 2004/83/CE, devem aplicar a presente directiva ao longo de todo esse procedimento.\n\n4. Além disso, os Estados-Membros podem decidir aplicar a presente directiva aos procedimentos de apreciação de pedidos de qualquer tipo de protecção internacional."
+  },
+  "238f1d01f29822be": {
+   "fragment_id": "Artigo 4.º — Autoridades Responsáveis",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Autoridades Responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autoridades Responsáveis\n\n1. Para todos os procedimentos, os Estados-Membros designam um órgão de decisão responsável pela apreciação adequada dos pedidos, de acordo com o disposto na presente directiva, nomeadamente o n.º 2 do artigo 8.º e o artigo 9.º\n\nDe acordo com o n.º 4 do artigo 4.º do Regulamento (CE) n.º 343/2003, os pedidos de asilo apresentados num Estado-Membro às autoridades de outro Estado-Membro que aí efectuem controlos de imigração devem ser tratados pelo Estado-Membro em cujo território o pedido for apresentado.\n\n2. Todavia, os Estados-Membros podem prever que outra autoridade seja responsável para efeitos de:\n\na) Tratar os casos em que se pondere a possibilidade de transferir o requerente para outro Estado, de acordo com as regras que estabelecem critérios e mecanismos de determinação do Estado responsável pela apreciação de um pedido de asilo, até ao momento da transferência ou da recusa, pelo Estado requerido, de assumir responsabilidade ou receber o requerente;\n\nb) Proferir uma decisão sobre o pedido à luz das disposições nacionais de segurança, desde que o órgão de decisão seja previamente consultado quanto à questão de saber se o requerente preenche as condições para ser considerado refugiado, por força da Directiva 2004/83/CE;\n\nc) Proceder a uma apreciação preliminar, nos termos do artigo 32.º, desde que essa autoridade tenha acesso ao processo do requerente, referente ao pedido anterior;\n\nd) Tratar os casos no âmbito dos procedimentos previstos no n.º 1 do artigo 35.º;\n\ne) Recusar a autorização de entrada, no âmbito do procedimento previsto nos n.^os^ 2 a 5 do artigo 35.º, sob reserva das condições aí enunciadas;\n\nf) Determinar se um requerente entrou ou procura entrar no Estado-Membro a partir de um país terceiro seguro nos termos do artigo 36.º, sob reserva das condições enunciadas nesse artigo.\n\n3. Ao designarem autoridades nos termos do n.º 2, os Estados-Membros asseguram que os seus efectivos tenham os conhecimentos adequados ou recebam a formação necessária para cumprirem as suas obrigações na aplicação da presente directiva."
+  },
+  "1d045942182cb8a2": {
+   "fragment_id": "Artigo 5.º — Disposições mais favoráveis",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disposições mais favoráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições mais favoráveis\n\nOs Estados-Membros podem adoptar ou manter normas mais favoráveis em matéria de procedimentos de concessão ou retirada do estatuto de refugiado, desde que essas normas sejam compatíveis com a presente directiva."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "bdf54d9c7c9f3bb8": {
+   "fragment_id": "PRINCÍPIOS E GARANTIAS FUNDAMENTAIS",
+   "type": "divisao",
+   "heading": "PRINCÍPIOS E GARANTIAS FUNDAMENTAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRINCÍPIOS E GARANTIAS FUNDAMENTAIS"
+  },
+  "16637e31188e88f1": {
+   "fragment_id": "Artigo 6.º — Acessibilidade do processo",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Acessibilidade do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acessibilidade do processo\n\n1. Os Estados-Membros podem exigir que os pedidos de asilo sejam apresentados pessoalmente e/ou em local determinado.\n\n2. Os Estados-Membros asseguram que todo o indivíduo adulto, dotado de capacidade jurídica, tenha o direito de apresentar um pedido de asilo em seu próprio nome.\n\n3. Os Estados-Membros podem prever a possibilidade de o requerente apresentar um pedido em nome das pessoas a seu cargo. Nesses casos, os Estados-Membros asseguram que os adultos a cargo consintam na apresentação do pedido em seu nome; caso contrário, ser-lhes-á dada a oportunidade de apresentarem o pedido de asilo em seu próprio nome.\n\nO consentimento é solicitado no momento da apresentação do pedido ou, o mais tardar, aquando da entrevista pessoal com o adulto a cargo.\n\n4. Os Estados-Membros podem determinar, na legislação nacional:\n\na) Os casos em que um menor pode apresentar um pedido em seu próprio nome;\n\nb) Os casos em que o pedido de um menor não acompanhado deve ser apresentado por um representante, em conformidade com alínea a) do n.º 1 do artigo 17.º;\n\nc) Os casos em que a apresentação de um pedido de asilo se presume constituir igualmente a apresentação de um pedido de asilo para um solteiro menor.\n\n5. Os Estados-Membros asseguram que as autoridades susceptíveis de serem contactadas por uma pessoa que pretenda apresentar um pedido de asilo possam aconselhar a pessoa sobre o modo e o local de apresentação do pedido e/ou podem exigir a essas autoridades que transmitam o pedido à autoridade competente."
+  },
+  "165844a482e368a4": {
+   "fragment_id": "Artigo 7.º — Direito de permanência no Estado-Membro durante a apreciação do pedido",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Direito de permanência no Estado-Membro durante a apreciação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito de permanência no Estado-Membro durante a apreciação do pedido\n\n1. Os requerentes de asilo são autorizados a permanecer no Estado-Membro, unicamente para efeitos do processo, até à pronúncia de uma decisão pelo órgão de decisão nos termos dos procedimentos em primeira instância contemplados no capítulo III. Este direito de permanência não habilita o requerente de asilo à autorização de residência.\n\n2. Os Estados-Membros só podem prever derrogações a este princípio nos casos em que, de acordo com os artigos 32.º e 34.º, não seja prosseguida a apreciação de um pedido de asilo subsequente ou quando, conforme o caso, entregarem ou extraditarem uma pessoa, quer para outro Estado-Membro, por força de uma obrigação decorrente de um mandado de detenção europeu [([^6])](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntr6-L_2005326PT.01001301-E0006) ou por outro motivo, quer para um país terceiro ou para tribunais penais internacionais ou outros órgãos jurisdicionais."
+  },
+  "7d7a64c06f88bfe5": {
+   "fragment_id": "Artigo 8.º — Condições aplicáveis à apreciação dos pedidos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Condições aplicáveis à apreciação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições aplicáveis à apreciação dos pedidos\n\n1. Sem prejuízo do disposto na alínea i) do n.º 4 do artigo 23.º, os Estados-Membros asseguram que um pedido de asilo não seja indeferido nem a sua apreciação excluída unicamente com base no facto de não ter sido apresentado logo que possível.\n\n2. Os Estados-Membros asseguram que as decisões sobre os pedidos de asilo sejam proferidas pelo órgão de decisão após apreciação adequada. Para o efeito, os Estados-Membros asseguram que:\n\na) Os pedidos sejam apreciados e as decisões proferidas de forma individual, objectiva e imparcial;\n\nb) Sejam obtidas informações precisas e actualizadas junto de várias fontes, tal como o Alto Comissariado das Nações Unidas para os Refugiados (ACNUR), sobre a situação geral nos países de origem dos requerentes de asilo e, sempre que necessário, nos países por onde estes tenham transitado, e que tais informações sejam transmitidas aos agentes responsáveis pela apreciação dos pedidos e pela pronúncia de decisões;\n\nc) Os agentes responsáveis pela apreciação dos pedidos e pela pronúncia de decisões tenham conhecimento das normas pertinentes aplicáveis em matéria de direito de asilo e de refugiados.\n\n3. As autoridades a que se refere o capítulo V têm, através do órgão de decisão, do requerente ou de outro meio, acesso às informações de carácter geral referidas na alínea b) do n.º 2, necessárias ao desempenho das suas funções.\n\n4. Os Estados-Membros podem prever normas para a tradução dos documentos pertinentes para a apreciação dos pedidos."
+  },
+  "51a896dcdee91ee2": {
+   "fragment_id": "Artigo 9.º — Condições aplicáveis às decisões do órgão de decisão",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Condições aplicáveis às decisões do órgão de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições aplicáveis às decisões do órgão de decisão\n\n1. Os Estados-Membros asseguram que as decisões relativas a pedidos de asilo sejam proferidas por escrito.\n\n2. Os Estados-Membros asseguram também que, em caso de indeferimento de um pedido, a decisão seja fundamentada quanto à matéria de facto e de direito e que sejam indicadas por escrito as possibilidades de recurso contra uma decisão negativa.\n\nOs Estados-Membros não são obrigados a indicar os motivos da recusa do estatuto de refugiado na decisão que conceda ao requerente um estatuto que confira, ao abrigo do direito interno ou comunitário, os mesmos direitos e benefícios que o estatuto de refugiado por força da Directiva 2004/83/CE. Nesse caso, os Estados-Membros asseguram que os fundamentos da recusa do estatuto de refugiado constem do processo do requerente e que este tenha, mediante pedido, acesso ao seu processo.\n\nAlém disso, os Estados-Membros não são obrigados a indicar por escrito as possibilidades de recurso contra uma decisão negativa, relativamente a uma decisão, caso o requerente tenha sido anteriormente informado dessas possibilidades por escrito ou por via electrónica que lhe seja acessível.\n\n3. Para efeitos do n.º 3 do artigo 6.º, e sempre que o pedido se baseie nos mesmos fundamentos, os Estados-Membros podem proferir uma decisão única que abranja todas as pessoas a cargo."
+  },
+  "09158798a5238df6": {
+   "fragment_id": "Artigo 10.º — Garantias dos requerentes de asilo",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Garantias dos requerentes de asilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Garantias dos requerentes de asilo\n\n1. Relativamente aos procedimentos previstos no capítulo III, os Estados-Membros asseguram que todos os requerentes de asilo beneficiem das garantias seguintes:\n\na) Ser informados, numa língua que seja razoável presumir que compreendam, do procedimento a seguir e dos respectivos direitos e obrigações durante o processo, bem como das eventuais consequências do não cumprimento dessas obrigações e da sua falta de cooperação com as autoridades. Os requerentes devem ser informados acerca dos prazos, bem como dos meios ao seu dispor para cumprirem a obrigação de apresentação dos elementos a que se refere o artigo 4.º da Directiva 2004/83/CE. Estas informações devem ser dadas a tempo de lhes permitir exercer os direitos garantidos pela presente directiva e cumprir as obrigações a que se refere o artigo 11.º;\n\nb) Beneficiar, sempre que necessário, dos serviços de um intérprete para apresentarem as suas pretensões às autoridades competentes. Os Estados-Membros considerarão que tal será necessário, pelo menos quando o órgão de decisão convocar o requerente para a entrevista referida nos artigos 12.º e 13.º e não puder ser assegurada a comunicação adequada sem tais serviços. Neste e noutros casos em que as autoridades competentes convoquem o requerente, os serviços de interpretação são custeados por fundos públicos;\n\nc) Não lhes ser recusada a possibilidade de comunicarem com o ACNUR ou com qualquer outra organização que actue em nome do ACNUR no território do Estado-Membro nos termos de um acordo com esse Estado-Membro;\n\nd) Ser avisados, num prazo razoável, da decisão proferida pelo órgão de decisão relativamente ao seu pedido de asilo. Caso o requerente se faça representar por um advogado ou outro consultor, os Estados-Membros podem optar por notificar da decisão directamente o representante em vez de o requerente de asilo;\n\ne) Ser informados do resultado da decisão proferida pelo órgão de decisão, numa língua que seja razoável presumir que compreendam, caso não se façam assistir nem representar por um advogado ou outro consultor, nem disponham de assistência jurídica gratuita. As informações fornecidas devem incluir as possibilidades de recurso contra uma decisão negativa nos termos do n.º 2 do artigo 9.º\n\n2. Relativamente aos procedimentos previstos no capítulo V, os Estados-Membros asseguram que todos os requerentes de asilo beneficiem de garantias equivalentes às referidas nas alíneas b), c) e d) do n.º 1 do presente artigo."
+  },
+  "0524c9f5da0cc5a3": {
+   "fragment_id": "Artigo 11.º — Obrigações dos requerentes de asilo",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Obrigações dos requerentes de asilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigações dos requerentes de asilo\n\n1. Os Estados-Membros podem impor aos requerentes de asilo obrigações de cooperação com as autoridades competentes, desde que sejam necessárias à tramitação do pedido.\n\n2. Em especial, os Estados-Membros podem prever que:\n\na) Os requerentes de asilo devam contactar as autoridades competentes ou comparecer pessoalmente junto destas, imediatamente ou em momento determinado;\n\nb) Os requerentes de asilo devam entregar os documentos em sua posse relevantes para a apreciação do pedido, como os passaportes;\n\nc) Os requerentes de asilo devam informar, logo que possível, as autoridades competentes sobre o seu local de residência ou a sua morada actual e comunicar-lhes qualquer alteração desses dados, o mais rapidamente possível. Os Estados-Membros podem prever que o requerente seja obrigado a aceitar qualquer comunicação no local de residência ou na morada mais recente que tenha indicado como tal;\n\nd) As autoridades competentes possam revistar o requerente e os objectos que transportar;\n\ne) As autoridades competentes possam tirar fotografias do requerente; e\n\nf) As autoridades competentes possam gravar as declarações orais do requerente, desde que este seja previamente informado desse facto."
+  },
+  "d1bce864b294a69a": {
+   "fragment_id": "Artigo 12.º — Entrevista pessoal",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrevista pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrevista pessoal\n\n1. Antes de o órgão de decisão se pronunciar, deve ser concedida aos requerentes de asilo uma entrevista pessoal sobre o seu pedido, a qual deve ser conduzida por uma pessoa competente para o fazer, nos termos do direito nacional.\n\nOs Estados-Membros podem igualmente conceder entrevistas pessoais a cada adulto a cargo referido no n.º 3 do artigo 6.º\n\nOs Estados-Membros podem definir na respectiva legislação os casos em que deve ser concedida uma entrevista pessoal aos menores.\n\n2. A entrevista pessoal pode ser omitida quando:\n\na) O órgão de decisão puder pronunciar-se favoravelmente com base nos elementos de prova disponíveis; ou\n\nb) A autoridade competente já tiver tido uma reunião com o requerente para o ajudar a preencher o seu pedido ou fornecer as informações essenciais relativas ao pedido, nos termos do n.º 2 do artigo 4.º da Directiva 2004/83/CE; ou\n\nc) O órgão de decisão, com base numa análise completa das informações prestadas pelo requerente, considerar que o pedido é infundado, nos casos em que se reúnam as circunstâncias mencionadas nas alíneas a), c), g), h) e j) do n.º 4 do artigo 23.º\n\n3. A entrevista pessoal pode igualmente ser omitida quando não for razoável efectuá-la, concretamente quando a autoridade competente considerar que o requerente é inapto ou incapaz para o efeito devido a circunstâncias duradouras, alheias à sua vontade. Em caso de dúvida, os Estados-Membros podem exigir a apresentação de um atestado médico ou psicológico.\n\nQuando o Estado-Membro não facultar a oportunidade de uma entrevista pessoal ao requerente nos termos do presente número ou, quando aplicável, à pessoa a cargo, devem ser tomadas medidas consentâneas que permitam ao requerente ou à pessoa a cargo comunicar outras informações.\n\n4. A omissão de uma entrevista pessoal em conformidade com o presente artigo não impede o órgão de decisão de se pronunciar sobre o pedido de asilo.\n\n5. A omissão de uma entrevista pessoal em conformidade com as alíneas b) e c) do n.º 2 e com o n.º 3 não afecta negativamente a apreciação do órgão de decisão.\n\n6. Independentemente do n.º 1 do artigo 20.º, ao proferirem uma decisão sobre um pedido de asilo, os Estados-Membros podem tomar em conta o facto de o requerente não ter comparecido à entrevista pessoal, a menos que este apresente razões válidas para justificar a não comparência."
+  },
+  "fb3805e839c92986": {
+   "fragment_id": "Artigo 13.º — Condições aplicáveis à entrevista pessoal",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Condições aplicáveis à entrevista pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Condições aplicáveis à entrevista pessoal\n\n1. A entrevista pessoal realiza-se, em princípio, sem a presença de familiares, excepto se o órgão de decisão considerar a presença de outros membros da família necessária para uma apreciação adequada.\n\n2. A entrevista pessoal deve realizar-se em condições que garantam a devida confidencialidade.\n\n3. Os Estados-Membros tomam as medidas adequadas para garantir a realização da entrevista pessoal em condições que permitam aos requerentes expor circunstanciadamente os fundamentos do seu pedido. Para esse efeito, os Estados-Membros:\n\na) Asseguram que a pessoa que conduz a entrevista possua competência suficiente para considerar as circunstâncias de ordem geral ou pessoal do pedido, incluindo, na medida do possível, a origem cultural ou a vulnerabilidade do requerente; e\n\nb) Escolhem um intérprete capaz de assegurar a comunicação adequada entre o requerente e a pessoa que conduz a entrevista. A comunicação não tem necessariamente que ocorrer na língua preferida pelo requerente de asilo, caso exista outra língua que seja razoável presumir que compreenda e na qual possa comunicar.\n\n4. Os Estados-Membros podem fixar regras a respeito da presença de terceiros na entrevista pessoal.\n\n5. O presente artigo aplica-se igualmente à reunião a que se refere a alínea b) do n.º 2 do artigo 12.º"
+  },
+  "a92f3738ee609026": {
+   "fragment_id": "Artigo 14.º — Estatuto do relatório da entrevista pessoal no procedimento",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Estatuto do relatório da entrevista pessoal no procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estatuto do relatório da entrevista pessoal no procedimento\n\n1. Os Estados-Membros asseguram a elaboração de um relatório escrito de cada entrevista pessoal, que contenha, pelo menos, as informações essenciais relativas ao pedido apresentadas pelo requerente, nos termos do n.º 2 do artigo 4.º da Directiva 2004/83/CE.\n\n2. Os Estados-Membros asseguram que os requerentes tenham atempadamente acesso ao relatório da entrevista pessoal. Se o acesso só for concedido depois de o órgão de decisão se pronunciar, os Estados-Membros asseguram que o acesso seja facultado tão cedo quanto necessário para permitir a preparação e interposição de recurso em tempo útil.\n\n3. Os Estados-Membros podem solicitar a aprovação do conteúdo do relatório da entrevista pessoal pelo requerente.\n\nSempre que um requerente se recusar a aprovar o conteúdo do relatório, os motivos dessa recusa serão averbados no seu processo.\n\nA recusa do requerente a aprovar o conteúdo do relatório da entrevista pessoal não impede o órgão de decisão de se pronunciar sobre o seu pedido de asilo.\n\n4. O presente artigo aplica-se igualmente à reunião a que se refere a alínea b) do n.º 2 do artigo 12.º"
+  },
+  "77e7846614826d5e": {
+   "fragment_id": "Artigo 15.º — Direito a assistência jurídica e a representação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Direito a assistência jurídica e a representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito a assistência jurídica e a representação\n\n1. Os Estados-Membros devem conceder aos requerentes de asilo a oportunidade de, a expensas próprias, consultarem de forma efectiva um advogado ou outro consultor, admitido ou aceite nessa qualidade pela legislação nacional, sobre matérias relacionadas com os seus pedidos de asilo.\n\n2. No caso de o órgão de decisão se pronunciar negativamente, os Estados-Membros devem assegurar a concessão de assistência jurídica e/ou representação gratuitas, a pedido, sob reserva do disposto no n.º 3.\n\n3. Os Estados-Membros podem prever na sua legislação nacional a concessão dessa assistência ou representação gratuitas apenas:\n\na) Para processos instaurados junto de um órgão jurisdicional em conformidade com o capítulo V e não para eventuais recursos ou revisões judiciais posteriores previstos na legislação nacional, incluindo reapreciações na sequência de recursos ou revisões judiciais posteriores; e/ou\n\nb) Às pessoas que carecem de meios suficientes; e/ou\n\nc) Aos advogados ou outros consultores especificamente designados pela legislação nacional para assistir e/ou representar os requerentes de asilo; e/ou\n\nd) Se for provável obter ganho de causa no recurso ou na revisão judicial.\n\nOs Estados-Membros asseguram que não sejam arbitrariamente restringidas a assistência jurídica e/ou representação concedidas ao abrigo da alínea d).\n\n4. Os Estados-Membros podem prever normas relativas às modalidades de apresentação e tratamento dos pedidos de assistência jurídica e/ou representação.\n\n5. Os Estados-Membros podem igualmente:\n\na) Impor limites monetários e/ou temporais à prestação de assistência jurídica e/ou representação gratuitas, desde que tais limites não restrinjam arbitrariamente o acesso à assistência jurídica e/ou representação;\n\nb) Prever, no que respeita aos honorários e outros encargos, que o tratamento concedido aos requerentes não seja mais favorável que o geralmente dispensado aos seus nacionais em matérias atinentes à assistência jurídica.\n\n6. Os Estados-Membros podem exigir o reembolso total ou parcial de quaisquer despesas incorridas, se e quando a situação financeira do requerente tiver melhorado consideravelmente ou se a decisão de concessão dos benefícios em causa tiver sido tomada com base em informações falsas prestadas pelo requerente."
+  },
+  "a4337c6fdde1a0ea": {
+   "fragment_id": "Artigo 16.º — Âmbito da assistência jurídica e da representação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Âmbito da assistência jurídica e da representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Âmbito da assistência jurídica e da representação\n\n1. Os Estados-Membros asseguram que o advogado ou outro consultor, como tal admitido ou autorizado ao abrigo do direito interno, que assista ou represente um requerente de asilo nos termos do direito interno, tenha acesso às informações constantes do processo do requerente susceptíveis de serem examinadas pelas autoridades mencionadas no capítulo V, na medida em que tais informações sejam pertinentes para a análise do pedido.\n\nOs Estados-Membros podem aplicar derrogações sempre que a divulgação de informações ou fontes possa pôr em risco a segurança nacional, a segurança das organizações ou pessoas que fornecem as informações ou a segurança da(s) pessoa(s) a quem respeita a informação, ou quando ficarem comprometidos os interesses da averiguação referente à apreciação dos pedidos de asilo pelas autoridades competentes dos Estados-Membros ou as relações internacionais dos Estados-Membros. Nestes casos, o acesso às informações ou fontes em causa será concedido às autoridades referidas no capítulo V, salvo quando motivos de segurança nacional obstem a esse acesso.\n\n2. Os Estados-Membros devem assegurar que o advogado ou outro consultor que assista ou represente um requerente de asilo tenha acesso a zonas vedadas, como locais de detenção e zonas de trânsito, para o aconselhar. Os Estados-Membros só podem limitar a possibilidade de visita a requerentes em zonas vedadas quando, por força da legislação nacional, tal limitação seja objectivamente necessária para a segurança, a ordem pública ou a gestão administrativa da zona ou para garantir uma apreciação eficaz do pedido, desde que tal limitação não restrinja gravemente ou impossibilite o acesso do advogado ou de outro consultor.\n\n3. Os Estados-Membros podem prever regras relativas à presença dos advogados ou outros consultores em todas as entrevistas realizadas no âmbito do processo, sem prejuízo do disposto no presente artigo ou na alínea b) do n.º 1 do artigo 17.º\n\n4. Os Estados-Membros podem prever que o requerente seja autorizado a fazer-se acompanhar na entrevista pessoal pelo advogado ou outro consultor admitido ou autorizado nessa qualidade nos termos do direito interno.\n\nOs Estados-Membros podem exigir a presença do requerente na entrevista pessoal, mesmo que este esteja representado, nos termos do direito interno, por tal advogado ou consultor, e que o requerente responda pessoalmente às perguntas feitas.\n\nA ausência de advogado ou outro consultor não obsta à realização da entrevista pessoal do requerente pela autoridade competente."
+  },
+  "3795a1b78035ef3f": {
+   "fragment_id": "Artigo 17.º — Garantias dos menores não acompanhados",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Garantias dos menores não acompanhados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Garantias dos menores não acompanhados\n\n1. Relativamente a todos os procedimentos previstos na presente directiva, e sem prejuízo dos artigos 12.º e 14.º, os Estados-Membros devem:\n\na) Assim que possível, tomar medidas para garantir que o menor não acompanhado disponha de um representante que o represente e/ou assista no que se refere à apreciação do pedido. Esse representante pode ser o representante referido no artigo 19.º da Directiva 2003/9/CE, de 27 de Janeiro de 2003, que estabelece normas mínimas em matéria de acolhimento dos requerentes de asilo nos Estados-Membros [([^7])](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntr7-L_2005326PT.01001301-E0007);\n\nb) Assegurar que seja dada ao representante a oportunidade de informar o menor não acompanhado do significado e das eventuais consequências da entrevista pessoal e, se adequado, da forma de se preparar para a entrevista pessoal. Os Estados-Membros autorizam o representante a estar presente nessa entrevista e a fazer perguntas e comentários no quadro fixado pela pessoa que conduz a entrevista.\n\nOs Estados-Membros podem exigir a presença do menor não acompanhado na entrevista pessoal mesmo que o representante esteja presente.\n\n2. Os Estados-Membros podem abster-se de nomear um representante, se o menor não acompanhado:\n\na) Tiver com toda a probabilidade atingido a maioridade antes da pronúncia de uma decisão em primeira instância; ou\n\nb) Puder valer-se gratuitamente de um advogado ou outro consultor, aceite nessa qualidade pelo direito interno, para o desempenho das tarefas acima confiadas ao representante; ou\n\nc) For ou tiver sido casado.\n\n3. Os Estados-Membros podem, de acordo com as disposições legislativas ou regulamentares em vigor a partir de 1 de Dezembro de 2005, abster-se de nomear um representante, se o menor não acompanhado tiver idade igual ou superior a 16 anos, excepto se esse menor não puder dar seguimento ao seu pedido sem um representante.\n\n4. Os Estados-Membros asseguram que:\n\na) Quando um menor não acompanhado tiver uma entrevista pessoal sobre o seu pedido de asilo, nos termos dos artigos 12.º, 13.º e 14.º, essa entrevista seja conduzida por uma pessoa com os conhecimentos necessários sobre as necessidades especiais dos menores;\n\nb) A decisão do órgão de decisão relativa ao pedido apresentado por um menor não acompanhado seja preparada por funcionários com os conhecimentos necessários sobre as necessidades especiais dos menores não acompanhados.\n\n5. Os Estados-Membros podem recorrer a exames médicos para determinar a idade dos menores não acompanhados, no quadro da apreciação de um pedido de asilo.\n\nCaso recorram a exames médicos, os Estados-Membros asseguram que:\n\na) Os menores não acompanhados sejam informados, antes da apreciação do respectivo pedido de asilo, e numa língua que seja razoável presumir que compreendam, da possibilidade de a sua idade ser determinada através de um exame médico. Esta comunicação deve incluir informação sobre o método do exame médico e as eventuais consequências do seu resultado para a apreciação do pedido de asilo, bem como as consequências da recusa do menor não acompanhado a submeter-se ao exame médico;\n\nb) O menor não acompanhado e/ou o seu representante consintam na realização de um exame para determinar a idade do menor em causa; e\n\nc) A decisão de indeferir um pedido de asilo de um menor não acompanhado que recuse submeter-se ao exame médico não seja tomada exclusivamente com base nessa recusa.\n\nO facto de os menores não acompanhados terem recusado submeter-se ao referido exame não obsta à pronúncia de uma decisão sobre o pedido de asilo pelo órgão de decisão.\n\n6. Os superiores interesses do menor serão primordialmente considerados pelos Estados-Membros na transposição do presente artigo."
+  },
+  "91eb04ae04d30a4a": {
+   "fragment_id": "Artigo 18.º — Detenção",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Detenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Detenção\n\n1. Os Estados-Membros não mantêm uma pessoa detida pelo simples facto de ser requerente de asilo.\n\n2. Se um requerente de asilo for mantido em detenção, os Estados-Membros garantem a possibilidade de acelerar o controlo jurisdicional."
+  },
+  "43477f29d5f79877": {
+   "fragment_id": "Artigo 19.º — Procedimento em caso de retirada do pedido",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Procedimento em caso de retirada do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Procedimento em caso de retirada do pedido\n\n1. Na medida em que o seu direito interno preveja essa possibilidade, em caso de retirada expressa de um pedido de asilo pelo requerente, os Estados-Membros asseguram que o órgão de decisão profira uma decisão de pôr termo à apreciação ou de indeferimento do pedido.\n\n2. Os Estados-Membros podem igualmente permitir que o órgão de decisão ponha termo à apreciação sem tomar uma decisão. Neste caso, os Estados-Membros asseguram que o órgão de decisão introduza uma nota no processo do requerente."
+  },
+  "2f108acbfe04cf48": {
+   "fragment_id": "Artigo 20.º — Procedimento em caso de retirada tácita ou desistência do pedido",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Procedimento em caso de retirada tácita ou desistência do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Procedimento em caso de retirada tácita ou desistência do pedido\n\n1. Quando haja motivos razoáveis para considerar que um requerente de asilo retirou tacitamente o seu pedido de asilo ou dele desistiu, os Estados-Membros asseguram que o órgão de decisão profira uma decisão de pôr termo à apreciação ou indeferimento do pedido, com base no facto de o requerente não ter demonstrado o seu direito ao estatuto de refugiado, nos termos da Directiva 2004/83/CE.\n\nOs Estados-Membros podem presumir que o requerente retirou tacitamente ou desistiu do pedido de asilo, em especial quando se determinar que o requerente:\n\na) Não respondeu a pedidos para fornecer informação essencial para o seu pedido, nos termos do artigo 4.º da Directiva 2004/83/CE, ou não compareceu na entrevista pessoal prevista nos artigos 12.º, 13.º e 14.º, excepto se o requerente demonstrar num prazo razoável que a falta de resposta ou de comparência se deveram a circunstâncias alheias à sua vontade;\n\nb) Desapareceu ou se ausentou sem autorização do local onde vivia ou estava detido, sem ter contactado as autoridades competentes num prazo razoável, ou não cumpriu obrigações de se apresentar ou outras obrigações de comunicar, num prazo razoável.\n\nPara efeitos da aplicação destas disposições, os Estados-Membros podem fixar prazos ou orientações.\n\n2. Os Estados-Membros asseguram que o requerente que se apresente de novo às autoridades competentes depois de proferida uma decisão de pôr termo à apreciação, tal como mencionado no n.º 1 do presente artigo, tem o direito de requerer a reabertura do processo, salvo se este estiver a ser apreciado nos termos dos artigos 32.º e 34.º\n\nOs Estados-Membros podem prever um prazo findo o qual o processo do requerente já não possa ser reaberto.\n\nOs Estados-Membros asseguram que tal pessoa não seja afastada em contravenção ao princípio da não repulsão.\n\nOs Estados-Membros podem autorizar o órgão de decisão a retomar a apreciação no ponto em que esta tenha sido interrompida."
+  },
+  "672b11de1a122959": {
+   "fragment_id": "Artigo 21.º — Papel do ACNUR",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Papel do ACNUR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Papel do ACNUR\n\n1. Os Estados-Membros permitem que o ACNUR:\n\na) Tenha acesso aos requerentes de asilo, incluindo os que se encontrem em regime de detenção e em zonas de trânsito de aeroportos e portos;\n\nb) Tenha acesso às informações sobre pedidos de asilo individuais, sobre o andamento do processo e sobre as decisões tomadas, desde que os requerentes dêem o seu acordo;\n\nc) Apresente as suas observações, no exercício das funções de vigilância que lhe incumbem por força do artigo 35.º da Convenção de Genebra, às autoridades competentes no que respeita a pedidos de asilo individuais, em qualquer fase do procedimento.\n\n2. O disposto no n.º 1 é igualmente aplicável às organizações que actuem no território do Estado-Membro em causa em nome do ACNUR, ao abrigo de um acordo com esse Estado-Membro."
+  },
+  "21a0db8f99b08533": {
+   "fragment_id": "Artigo 22.º — Recolha de informação sobre processos individuais",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Recolha de informação sobre processos individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Recolha de informação sobre processos individuais\n\nPara efeitos de apreciação dos processos individuais, os Estados-Membros:\n\na) Não divulgam directamente aos alegados perseguidores do requerente de asilo informações sobre os pedidos de asilo individuais ou o facto de ter sido apresentado um pedido de asilo;\n\nb) Não obtêm informações provenientes dos alegados perseguidores de modo que lhes permita serem directamente informados do facto de ter sido introduzido um pedido pelo requerente em causa e que ponha em perigo a integridade física do requerente e das pessoas a seu cargo, ou a liberdade e segurança de familiares que ainda vivam no país de origem."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "ca243acf772c575b": {
+   "fragment_id": "PROCEDIMENTOS EM PRIMEIRA INSTÂNCIA",
+   "type": "divisao",
+   "heading": "PROCEDIMENTOS EM PRIMEIRA INSTÂNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTOS EM PRIMEIRA INSTÂNCIA"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "7be01fa7aeaede8b": {
+   "fragment_id": "Artigo 23.º — Procedimento de apreciação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Procedimento de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Procedimento de apreciação\n\n1. Os Estados-Membros tratam os pedidos de asilo mediante um procedimento de apreciação conforme com os princípios e garantias fundamentais enunciados no capítulo II.\n\n2. Os Estados-Membros asseguram a conclusão desse procedimento o mais rapidamente possível, sem prejuízo da adequação e exaustividade da apreciação.\n\nOs Estados-Membros asseguram que, nos casos em que não seja possível proferir uma decisão no prazo de seis meses, o requerente em causa seja:\n\na) Informado do atraso; ou\n\nb) Receba, a seu pedido, informações sobre o prazo no qual é de prever que seja proferida uma decisão sobre o seu pedido. Essa informação não obriga o Estado-Membro a proferir uma decisão nesse prazo.\n\n3. Os Estados-Membros podem conceder prioridade ou acelerar uma apreciação, em conformidade com os princípios e garantias fundamentais enunciados no capítulo II, inclusivamente nos casos em que o pedido seja susceptível de estar bem fundamentado ou em que o requerente tenha necessidades especiais.\n\n4. Além disso, os Estados-Membros podem estabelecer que um procedimento de apreciação, nos termos dos princípios e garantias fundamentais enunciados no capítulo II, seja considerado prioritário ou acelerado se:\n\na) O requerente, ao apresentar o pedido e ao expor os factos, tiver evocado apenas questões não pertinentes ou de relevância mínima para analisar o cumprimento das condições para ser considerado refugiado em conformidade com a Directiva 2004/83/CE; ou\n\nb) O requerente não preencher claramente as condições para ser considerado refugiado ou para lhe ser concedido o estatuto de refugiado num Estado-Membro em conformidade com a Directiva 2004/83/CE; ou\n\nc) O pedido de asilo for considerado infundado: i) porque o requerente provém de um país de origem seguro, na acepção dos artigos 29.º, 30.º e 31.º, ou ii) porque o país que não é um Estado-Membro é considerado país terceiro seguro para o requerente, sem prejuízo do n.º 1 do artigo 28.º; ou\n\ni) porque o requerente provém de um país de origem seguro, na acepção dos artigos 29.º, 30.º e 31.º, ou\n\nii) porque o país que não é um Estado-Membro é considerado país terceiro seguro para o requerente, sem prejuízo do n.º 1 do artigo 28.º; ou\n\nd) O requerente tiver induzido em erro as autoridades, apresentando informações ou documentos falsos ou ocultando informações ou documentos importantes a respeito da sua identidade e/ou nacionalidade susceptíveis de terem um impacto negativo na decisão; ou\n\ne) O requerente tiver apresentado outro pedido de asilo com outros dados pessoais; ou\n\nf) O requerente não tiver apresentado informações que permitam determinar, com um grau razoável de certeza, a sua identidade ou nacionalidade ou se for provável que, de má fé, tenha destruído ou extraviado documentos de identidade ou de viagem susceptíveis de contribuírem para a determinação da sua identidade ou nacionalidade; ou\n\ng) O requerente tiver feito declarações incoerentes, contraditórias, inverosímeis ou insuficientes que retirem claramente credibilidade à alegação de ter sido alvo de perseguição nos termos da Directiva 2004/83/CE; ou\n\nh) O requerente tiver apresentado um pedido subsequente sem invocar novos factos pertinentes relativamente às suas circunstâncias específicas ou à situação no seu país de origem; ou\n\ni) O requerente não tiver apresentado o pedido mais cedo, sem motivos válidos, tendo tido a possibilidade de o fazer; ou\n\nj) O requerente apresentar o pedido apenas com o intuito de atrasar ou impedir a aplicação de uma decisão anterior ou iminente que se traduza no seu afastamento; ou\n\nk) O requerente, sem motivos válidos, não tiver cumprido as obrigações referidas nos n.^os^ 1 e 2 do artigo 4.º da Directiva 2004/83/CE, ou nas alíneas a) e b) do n.º 2 do artigo 11.º e no n.º 1 do artigo 20.º da presente directiva; ou\n\nl) O requerente tiver entrado ou prolongado ilegalmente a sua permanência no território do Estado-Membro e, sem motivo válido, não se tiver apresentado às autoridades assim que possível, dadas as circunstâncias da sua entrada no território; ou\n\nm) O requerente representar um perigo para a segurança pública ou para a ordem pública do Estado-Membro; ou o requerente tiver sido objecto de uma decisão executória de expulsão por razões graves de segurança pública e de ordem pública, por força do direito interno; ou\n\nn) O requerente recusar sujeitar-se ao registo obrigatório das suas impressões digitais de acordo com o direito comunitário e/ou interno pertinente; ou\n\no) O pedido tiver sido apresentado por um solteiro menor abrangido pela alínea c) do n.º 4 do artigo 6.º quando o pedido dos progenitores ou do progenitor responsável pelo menor tiver sido indeferido e não tiverem sido apresentados novos elementos pertinentes a respeito das suas circunstâncias particulares ou da situação no seu país de origem."
+  },
+  "9c74cfcaecaa7191": {
+   "fragment_id": "Artigo 24.º — Procedimentos específicos",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Procedimentos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Procedimentos específicos\n\n1. Os Estados-Membros podem prever os seguintes procedimentos específicos em derrogação aos princípios e garantias fundamentais enunciados no capítulo II:\n\na) Uma apreciação preliminar para efeitos do tratamento dos processos considerados no âmbito da secção IV;\n\nb) Procedimentos para efeitos do tratamento de processos considerados no âmbito da secção V.\n\n2. Os Estados-Membros podem igualmente prever uma derrogação relativamente à secção VI."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "ff6206c7187ab0d5": {
+   "fragment_id": "Artigo 25.º — Inadmissibilidade dos pedidos",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Inadmissibilidade dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Inadmissibilidade dos pedidos\n\n1. Além dos casos em que um pedido não é apreciado em conformidade com o Regulamento (CE) n.º 343/2003, os Estados-Membros não são obrigados a analisar se o requerente preenche as condições para ser considerado refugiado, em conformidade com a Directiva 2004/83/CE, quando o pedido for considerado inadmissível nos termos do presente artigo.\n\n2. Os Estados-Membros podem considerar inadmissível um pedido de asilo, nos termos do presente artigo, quando:\n\na) Outro Estado-Membro tiver concedido o estatuto de refugiado;\n\nb) Um país, que não um Estado-Membro, for considerado o primeiro país de asilo para o requerente, nos termos do artigo 26.º;\n\nc) Um país, que não um Estado-Membro, for considerado país terceiro seguro para o requerente, nos termos do artigo 27.º;\n\nd) O requerente for autorizado a permanecer no Estado-Membro em causa por outros motivos e, em resultado desse facto, tiver beneficiado de um estatuto que lhe confere direitos e benefícios equivalentes aos do estatuto de refugiado por força da Directiva 2004/83/CE;\n\ne) O requerente for autorizado a permanecer no território do Estado-Membro em causa por outros motivos que o protejam contra a repulsão na pendência do resultado de um procedimento para a determinação do estatuto, nos termos da alínea d);\n\nf) O requerente tiver apresentado um pedido idêntico posterior à pronúncia de uma decisão final;\n\ng) Uma pessoa a cargo do requerente tiver introduzido um pedido depois de ter consentido, em conformidade com o n.º 3 do artigo 6.º, que o seu caso fosse abrangido por um pedido feito em seu nome e não existam elementos relativos à situação dessa pessoa que justifiquem um pedido separado."
+  },
+  "760b5fa184525218": {
+   "fragment_id": "Artigo 26.º — Conceito de primeiro país de asilo",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Conceito de primeiro país de asilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Conceito de primeiro país de asilo\n\nUm país pode ser considerado primeiro país de asilo para um requerente de asilo, se este:\n\na) Tiver sido reconhecido nesse país como refugiado e possa ainda beneficiar dessa protecção; ou\n\nb) Usufruir de outro modo, nesse país, de protecção suficiente, incluindo o benefício do princípio da não repulsão;\n\ndesde que seja readmitido nesse país.\n\nAo aplicarem o conceito de primeiro país de asilo à situação específica de um requerente de asilo, os Estados-Membros podem ter em conta o n.º 1 do artigo 27.º"
+  },
+  "31f8a7cb0135f6ab": {
+   "fragment_id": "Artigo 27.º — Conceito de país terceiro seguro",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Conceito de país terceiro seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Conceito de país terceiro seguro\n\n1. Os Estados-Membros só podem aplicar o conceito de país terceiro seguro quando as autoridades competentes se certificarem de que uma pessoa que requer asilo será tratada no país terceiro em causa de acordo com os seguintes princípios:\n\na) Não ameaça da vida e liberdade em virtude da raça, religião, nacionalidade, pertença a determinado grupo social ou opinião política;\n\nb) Respeito do princípio da não repulsão nos termos da Convenção de Genebra;\n\nc) Respeito da proibição do afastamento em violação do direito de não ser objecto de tortura nem de tratamentos cruéis, desumanos ou degradantes consagrado na legislação internacional; e\n\nd) Concessão da possibilidade de pedir o estatuto de refugiado e de, se a pessoa for considerada refugiada, receber protecção em conformidade com a Convenção de Genebra.\n\n2. A aplicação do conceito de país terceiro seguro está subordinada às regras estabelecidas no direito interno, incluindo:\n\na) Regras que exijam uma ligação entre o requerente de asilo e o país terceiro em causa que permita, em princípio, que essa pessoa se dirija para esse país;\n\nb) Regras sobre a metodologia pela qual as autoridades competentes se certificam de que o conceito de país terceiro seguro pode ser aplicado a determinado país ou a determinado requerente. Essa metodologia inclui a análise casuística da segurança do país para determinado requerente e/ou a designação nacional de países considerados geralmente seguros;\n\nc) Regras, nos termos do direito internacional, que permitam avaliar individualmente se o país terceiro em questão é um país seguro para determinado requerente e que, no mínimo, autorizem o requerente a contestar a aplicação do conceito de país terceiro seguro, com o fundamento de que seria submetido a tortura, tratamento ou pena cruel, desumana ou degradante.\n\n3. Ao executarem uma decisão tomada exclusivamente com base no presente artigo, os Estados-Membros devem:\n\na) Informar do facto o requerente; e\n\nb) Fornecer ao requerente um documento que informe as autoridades do país terceiro de que o pedido não foi apreciado quanto ao fundo.\n\n4. Quando o país terceiro não autorizar o requerente de asilo a entrar no seu território, os Estados-Membros asseguram o acesso a um procedimento de acordo com os princípios e garantias fundamentais enunciados no capítulo II.\n\n5. Os Estados-Membros informam periodicamente a Comissão dos países aos quais este conceito é aplicado, em conformidade com as disposições do presente artigo."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "575b3dc620995ac2": {
+   "fragment_id": "Artigo 28.º — Pedidos infundados",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Pedidos infundados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Pedidos infundados\n\n1. Sem prejuízo do disposto nos artigos 19.º e 20.º, os Estados-Membros só podem considerar um pedido de asilo infundado se o órgão de decisão verificar que o requerente não preenche as condições para beneficiar do estatuto de refugiado nos termos da Directiva 2004/83/CE.\n\n2. Nos casos referidos na alínea b) do n.º 4 do artigo 23.º e nos casos de pedidos de asilo infundados a que se apliquem qualquer das circunstâncias referidas nas alíneas a) e c) a o) do n.º 4 do artigo 23.º, os Estados-Membros podem igualmente considerar um pedido manifestamente infundado nos casos em que o direito interno o definir."
+  },
+  "d2a9497ffe2bb080": {
+   "fragment_id": "Artigo 29.º — Lista mínima comum de países terceiros considerados países de origem seguros",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Lista mínima comum de países terceiros considerados países de origem seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Lista mínima comum de países terceiros considerados países de origem seguros\n\n1. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão e após consulta ao Parlamento Europeu, adoptará uma lista mínima comum de países terceiros que serão considerados países de origem seguros pelos Estados-Membros, em conformidade com o anexo II.\n\n2. O Conselho, deliberando por maioria qualificada, sob proposta da Comissão e após consulta ao Parlamento Europeu, pode alterar a lista mínima comum acrescentando ou retirando países terceiros, de acordo com o anexo II. A Comissão analisará todos os pedidos que lhe forem apresentados pelo Conselho ou por um Estado-Membro para que apresente uma proposta de alteração da lista mínima comum.\n\n3. Ao apresentar a sua proposta, nos termos dos n.^os^ 1 e 2, a Comissão basear-se-á em informações dos Estados-Membros, nas suas próprias informações e, se for caso disso, em informações do ACNUR, do Conselho da Europa e de outras organizações internacionais pertinentes.\n\n4. Sempre que o Conselho solicitar à Comissão que apresente uma proposta de retirada de um país terceiro da lista mínima comum, será suspensa a obrigação dos Estados-Membros decorrente do n.º 2 do artigo 31.º no que respeita a esse país, a partir do dia seguinte à decisão do Conselho que solicita a apresentação de tal proposta.\n\n5. Sempre que um Estado-Membro solicitar à Comissão que apresente uma proposta de retirada de um país terceiro da lista mínima comum, esse Estado-Membro deve notificar o Conselho por escrito do pedido submetido à Comissão. A obrigação deste Estado-Membro decorrente do n.º 2 do artigo 31.º será suspensa no que respeita ao país terceiro, a partir do dia seguinte à notificação ao Conselho.\n\n6. O Parlamento Europeu será informado das suspensões ao abrigo dos n.^os^ 4 e 5.\n\n7. As suspensões ao abrigo dos n.^os^ 4 e 5 deixam de produzir efeitos num prazo de três meses, a menos que a Comissão apresente uma proposta, antes do fim desse período, de retirar o país terceiro da lista mínima comum. As suspensões deixam de qualquer modo de produzir efeitos se o Conselho rejeitar a proposta da Comissão de retirar um país terceiro da lista.\n\n8. A pedido do Conselho, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho sobre a conformidade da situação de um país constante da lista mínima comum com o anexo II. Ao apresentar o seu relatório, a Comissão pode fazer as recomendações ou propostas que considerar adequadas."
+  },
+  "4b28c7aeb0ebad14": {
+   "fragment_id": "Artigo 30.º — Designação nacional de países terceiros como países de origem seguros",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Designação nacional de países terceiros como países de origem seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Designação nacional de países terceiros como países de origem seguros\n\n1. Sem prejuízo do artigo 29.º, os Estados-Membros podem manter ou aprovar legislação que preveja, em conformidade com o anexo II, a designação nacional de países terceiros distintos dos inscritos na lista mínima comum como países de origem seguros para efeitos da apreciação de pedidos de asilo. Esta possibilidade pode incluir a designação como segura de parte de um país relativamente à qual estejam preenchidas as condições enunciadas no anexo II.\n\n2. Em derrogação ao n.º 1, os Estados-Membros podem manter legislação em vigor a partir de 1 de Dezembro de 2005 que preveja a designação nacional de países terceiros distintos dos inscritos na lista mínima comum como países de origem seguros para efeitos da apreciação de pedidos de asilo, sempre que considerem que as pessoas nos países terceiros em causa não são, em geral, alvo de:\n\na) Perseguição, conforme definida no artigo 9.º da Directiva 2004/83/CE; nem de\n\nb) Tortura, pena ou tratamento desumano ou degradante.\n\n3. Os Estados-Membros podem igualmente manter legislação em vigor a partir de 1 de Dezembro de 2005 que preveja a designação nacional de parte de um país como segura, ou de um país ou parte de um país como seguros, para um grupo determinado de pessoas nesse país, caso estejam preenchidas a condições enunciadas no n.º 2 relativamente a essa parte ou a esse grupo.\n\n4. Ao avaliar se um país é um país de origem seguro, de acordo com os n.^os^ 2 e 3, os Estados-Membros terão em conta a situação legal, a aplicação da lei e a situação política geral no país terceiro em causa.\n\n5. A avaliação de um país como país de origem seguro, de acordo com o presente artigo, basear-se-á num conjunto de fontes de informação, incluindo, em especial, informações de outros Estados-Membros, do ACNUR, do Conselho da Europa e de outras organizações internacionais pertinentes.\n\n6. Os Estados-Membros notificam à Comissão os países designados como países de origem seguros de acordo com o presente artigo."
+  },
+  "8e547b5d2eae696e": {
+   "fragment_id": "Artigo 31.º — Conceito de país de origem seguro",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Conceito de país de origem seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Conceito de país de origem seguro\n\n1. Um país terceiro designado como país de origem seguro, nos termos do artigo 29.º ou 30.º, só pode ser considerado, após uma apreciação individual do pedido, um país de origem seguro para um requerente de asilo determinado se:\n\na) Esse requerente tiver a nacionalidade desse país; ou\n\nb) Esse requerente for apátrida e tiver tido anteriormente a sua residência habitual nesse país;\n\ne não tiver invocado nenhum motivo grave para considerar que o país em questão não é um país de origem seguro, tendo em conta as circunstâncias pessoais do requerente no que respeita ao preenchimento das condições para ser considerado refugiado, nos termos da Directiva 2004/83/CE.\n\n2. Em conformidade com o n.º 1, os Estados-Membros consideram que o pedido é infundado se o país terceiro for designado como seguro, de acordo com o artigo 29.º\n\n3. Os Estados-Membros estabelecem na legislação nacional as regras e modalidades de aplicação do conceito de país de origem seguro."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "ecc0ddc51e3aab1d": {
+   "fragment_id": "Artigo 32.º — Pedidos subsequentes",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Pedidos subsequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Pedidos subsequentes\n\n1. Quando uma pessoa que pediu asilo num Estado-Membro apresentar declarações suplementares ou um pedido subsequente no mesmo Estado-Membro, este último pode analisar essas declarações suplementares ou os elementos do pedido subsequente no âmbito da apreciação do pedido anterior ou da análise da decisão objecto de revisão ou recurso, na medida em que as autoridades competentes possam ter em conta e analisar todos os elementos subjacentes às declarações suplementares ou ao pedido subsequente nesse âmbito.\n\n2. Além disso, os Estados-Membros podem aplicar o procedimento específico referido no n.º 3, quando os requerentes apresentarem um pedido de asilo subsequente:\n\na) Após retirada ou desistência de um pedido anterior, nos termos dos artigos 19.º ou 20.º;\n\nb) Após uma decisão sobre o pedido anterior. Os Estados-Membros podem igualmente optar por este procedimento apenas depois de tomada a decisão final.\n\n3. Um pedido de asilo subsequente será primeiramente sujeito a uma apreciação preliminar para determinar se, após retirado o pedido anterior ou após a decisão sobre o mesmo referida na alínea b) do n.º 2 do presente artigo, surgiram ou foram apresentados pelo requerente novos elementos ou provas relacionados com a análise do preenchimento das condições para o requerente ser considerado refugiado por força da Directiva 2004/83/CE.\n\n4. Caso, na sequência da apreciação preliminar referida no n.º 3 do presente artigo, tenham surgido ou sido apresentados pelo requerente novos elementos ou factos que aumentem consideravelmente a probabilidade de o requerente poder ser considerado refugiado por força da Directiva 2004/83/CE, a apreciação do pedido prossegue de acordo com o capítulo II.\n\n5. Os Estados-Membros podem, nos termos do direito interno, prosseguir a apreciação de um pedido subsequente se houver outras razões que obriguem à reabertura do processo.\n\n6. Os Estados-Membros só podem decidir prosseguir a apreciação do pedido se o requerente em causa, sem culpa da sua parte, tiver sido incapaz de invocar os elementos referidos nos n.^os^ 3, 4 e 5 do presente artigo no procedimento anterior, especialmente exercendo o seu direito a um recurso efectivo, nos termos do artigo 39.º\n\n7. O procedimento referido no presente artigo pode ser igualmente aplicável aos casos em que uma pessoa a cargo tenha apresentado um pedido depois de ter consentido, nos termos do n.º 3 do artigo 6.º, que o seu processo fosse incluído num pedido apresentado em seu nome. Neste caso, a apreciação preliminar referida no n.º 3 do presente artigo destinar-se-á a determinar se existem factos relativos à situação dessa pessoa que justifiquem um pedido separado."
+  },
+  "155571c7ead0de60": {
+   "fragment_id": "Artigo 33.º — Falta de comparência",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Falta de comparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Falta de comparência\n\nOs Estados-Membros podem manter ou aplicar o procedimento previsto no artigo 32.º no caso de um pedido de asilo apresentado numa data posterior por um requerente que, intencionalmente ou por negligência grave, não se tenha dirigido a um centro de acolhimento ou não tenha comparecido perante as autoridades competentes na data indicada."
+  },
+  "dab2940788ea1b60": {
+   "fragment_id": "Artigo 34.º — Regras processuais",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Regras processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regras processuais\n\n1. Os Estados-Membros asseguram que os requerentes de asilo cujo pedido esteja sujeito a uma apreciação preliminar, em aplicação do artigo 33.º, beneficiem das garantias previstas no n.º 1 do artigo 10.º\n\n2. Os Estados-Membros podem estabelecer, na sua legislação nacional, regras sobre a apreciação preliminar efectuada nos termos do artigo 32.º Estas regras podem, nomeadamente:\n\na) Obrigar o requerente em questão a indicar os factos e a apresentar os elementos de prova que justifiquem um novo procedimento;\n\nb) Exigir a apresentação de novas informações pelo requerente em questão, num prazo determinado após a sua obtenção pelo requerente;\n\nc) Permitir a apreciação preliminar do pedido exclusivamente com base em observações escritas, sem entrevista pessoal.\n\nEstas regras não devem impossibilitar o acesso dos requerentes de asilo a um novo procedimento, nem implicar a supressão efectiva ou a obstrução grave desse acesso.\n\n3. Os Estados-Membros asseguram que:\n\na) O requerente seja informado de forma adequada do resultado da apreciação preliminar e, caso a apreciação do seu pedido não seja prosseguida, dos motivos de tal decisão, bem como das possibilidades de recurso ou de revisão da decisão;\n\nb) Caso se verifique uma das situações mencionadas no n.º 2 do artigo 32.º, o órgão de decisão em causa aprecia o pedido subsequente, em conformidade com as disposições do capítulo II, com a maior brevidade possível."
+  },
+  "184c1b7a3d24aa39": {
+   "fragment_id": "SECÇÃO V",
+   "type": "divisao",
+   "heading": "SECÇÃO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO V"
+  },
+  "531c944ac69eba86": {
+   "fragment_id": "Artigo 35.º — Procedimentos na fronteira",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Procedimentos na fronteira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Procedimentos na fronteira\n\n1. Os Estados-Membros podem estabelecer, de acordo com os princípios e garantias fundamentais enunciados no capítulo II, procedimentos para aprovar decisões na fronteira ou em zonas de trânsito do Estado-Membro, sobre os pedidos de asilo apresentados nesses locais.\n\n2. Todavia, na ausência dos procedimentos referidos no n.º 1 e sob reserva do disposto no presente artigo, os Estados-Membros podem manter, de acordo com as disposições legislativas ou regulamentares em vigor a partir de 1 de Dezembro de 2005, procedimentos que derroguem aos princípios e às garantias fundamentais enunciadas no capítulo II a fim de proferirem decisões, na fronteira ou nas zonas de trânsito, sobre a autorização de entrada no seu território de requerentes de asilo que aí tenham chegado e apresentado um pedido de asilo.\n\n3. Os procedimentos referidos no n.º 2 devem assegurar, em especial, que as pessoas em causa:\n\na) Sejam autorizadas a permanecer na fronteira ou nas zonas de trânsito do Estado-Membro, sem prejuízo do artigo 7.º;\n\nb) Sejam imediatamente informadas dos seus direitos e obrigações, descritos na alínea a) do n.º 1 do artigo 10.º;\n\nc) Tenham acesso, se necessário, aos serviços de um intérprete, como previsto na alínea b) do n.º 1 do artigo 10.º;\n\nd) Sejam entrevistadas, antes de a autoridade competente tomar uma decisão no âmbito desses procedimentos relativamente ao seu pedido de asilo, por pessoas com conhecimento adequado das normas pertinentes aplicáveis no domínio do direito de asilo e dos refugiados, tal como previsto nos artigos 12.º, 13.º e 14.º;\n\ne) Possam consultar um advogado ou consultor admitido ou autorizado como tal, nos termos do direito interno, como previsto no n.º 1 do artigo 15.º; e\n\nf) Tenham um representante nomeado no caso de menores não acompanhados, como previsto no n.º 1 do artigo 17.º, a menos que se aplique o n.º 2 ou 3 do artigo 17.º\n\nAlém disso, caso recuse a entrada, a autoridade competente deve indicar as razões de facto e de direito que a levaram a considerar o pedido de asilo infundado ou inadmissível.\n\n4. Os Estados-Membros asseguram que as decisões no âmbito dos procedimentos previstos no n.º 2 sejam proferidas num prazo razoável. Na ausência de uma decisão no prazo de quatro semanas, o requerente de asilo deve ser autorizado a entrar no território do Estado-Membro para que o seu pedido possa ser tratado de acordo com as restantes disposições da presente directiva.\n\n5. Na eventualidade de formas particulares de entrada, ou de chegada, de um grande número de nacionais de países terceiros ou de apátridas que apresentem pedidos de asilo na fronteira ou em zonas de trânsito, impossibilitando, na prática, a aplicação do n.º 1 ou do procedimento específico descrito nos n.^os^ 2 e 3, esses procedimentos podem igualmente ser aplicados nos locais onde tais nacionais de países terceiros ou apátridas forem normalmente alojados, ou seja, nas imediações da fronteira ou das zonas de trânsito, pelo tempo da sua estadia nesses locais."
+  },
+  "faa4f31236a7a6e6": {
+   "fragment_id": "SECÇÃO VI",
+   "type": "divisao",
+   "heading": "SECÇÃO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO VI"
+  },
+  "58b711c93941570e": {
+   "fragment_id": "Artigo 36.º — Conceito de países terceiros seguros europeus",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Conceito de países terceiros seguros europeus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Conceito de países terceiros seguros europeus\n\n1. Os Estados-Membros podem prever não apreciar, ou não apreciar exaustivamente, um pedido de asilo ou a segurança de um requerente de asilo na sua situação específica, nos termos do capítulo II, caso uma autoridade competente estabeleça, com base em factos, que o requerente de asilo procura entrar ou entrou ilegalmente no seu território a partir de um país terceiro seguro nos termos do n.º 2.\n\n2. Um país terceiro só pode ser considerado seguro para efeitos do n.º 1 se:\n\na) Tiver ratificado a Convenção de Genebra sem qualquer limitação geográfica e respeitar as suas disposições;\n\nb) Dispuser de um procedimento de asilo previsto na lei;\n\nc) Tiver ratificado a Convenção Europeia para a Protecção dos Direitos do Homem e das Liberdades Fundamentais e respeitar as suas disposições, nomeadamente as normas relativas aos recursos efectivos; e\n\nd) Tiver sido designado como tal pelo Conselho, nos termos do n.º 3.\n\n3. O Conselho, deliberando por maioria qualificada sob proposta da Comissão e após consulta ao Parlamento Europeu, aprova ou altera a lista comum de países terceiros que devem ser considerados países terceiros seguros para efeitos do n.º 1.\n\n4. Os Estados-Membros em causa estabelecem no direito nacional as modalidades de execução das disposições do n.º 1 e as consequências de decisões tomadas por força dessas disposições de acordo com o princípio de não repulsão consagrado na Convenção de Genebra, incluindo excepções à aplicação do presente artigo por motivos humanitários ou políticos ou por motivos de direito internacional público.\n\n5. Ao executar uma decisão baseada exclusivamente no presente artigo, os Estados-Membros devem:\n\na) Informar do facto o requerente; e\n\nb) Fornecer ao requerente um documento que informe as autoridades do país terceiro, na língua desse país, de que o pedido não foi apreciado quanto ao fundo.\n\n6. Quando o país terceiro seguro não readmitir o requerente de asilo, os Estados-Membros asseguram o acesso a um procedimento, de acordo com os princípios e as garantias fundamentais enunciados no capítulo II.\n\n7. Os Estados-Membros que designem países terceiros como países seguros de acordo com a legislação nacional em vigor a partir de 1 de Dezembro de 2005 e com base nos critérios enunciados nas alíneas a), b) e c) do n.º 2, podem aplicar a esses países terceiros o disposto no n.º 1, até à aprovação da lista comum pelo Conselho, nos termos do n.º 3."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "bc9ec14ed6193efd": {
+   "fragment_id": "PROCEDIMENTOS DE RETIRADA DO ESTATUTO DE REFUGIADO",
+   "type": "divisao",
+   "heading": "PROCEDIMENTOS DE RETIRADA DO ESTATUTO DE REFUGIADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTOS DE RETIRADA DO ESTATUTO DE REFUGIADO"
+  },
+  "bf0ef34d28fdd8bb": {
+   "fragment_id": "Artigo 37.º — Retirada do estatuto de refugiado",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Retirada do estatuto de refugiado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Retirada do estatuto de refugiado\n\nOs Estados-Membros asseguram a possibilidade de dar início a uma apreciação com vista à retirada do estatuto de refugiado de determinada pessoa quando surjam novos elementos ou provas que indiquem haver motivo para reapreciar a validade do seu estatuto de refugiado."
+  },
+  "258e3aadefd18834": {
+   "fragment_id": "Artigo 38.º — Regras processuais",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Regras processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Regras processuais\n\n1. Os Estados-Membros asseguram que, caso a autoridade competente considere a retirada do estatuto de refugiado de um nacional de um país terceiro ou de um apátrida de acordo com o artigo 14.º da Directiva 2004/83/CE, a pessoa em causa beneficie das seguintes garantias:\n\na) Ser informada por escrito de que a autoridade competente está a reapreciar o preenchimento das condições para ser considerada refugiado, bem como das razões que estão na base dessa reapreciação; e\n\nb) Poder, numa entrevista pessoal, de acordo com a alínea b) do n.º 1 do artigo 10.º e com os artigos 12.º, 13.º e 14.º, ou por escrito, apresentar motivos pelos quais o seu estatuto de refugiado não deve ser retirado.\n\nAlém disso, os Estados-Membros devem assegurar que, no âmbito deste procedimento:\n\nc) A autoridade competente possa obter informações precisas e actualizadas de várias fontes, como, se for caso disso, do ACNUR, sobre a situação geral existente nos países de origem das pessoas em causa; e\n\nd) As informações recolhidas sobre o caso individual para efeitos de reapreciação do estatuto de refugiado não sejam obtidas dos perseguidores de forma que implique a informação directa desses agentes de que a pessoa em causa é um refugiado cujo estatuto está em reapreciação, ou que ponha em perigo a integridade física da pessoa e das pessoas a seu cargo, ou a liberdade e segurança dos seus familiares que ainda vivam no país de origem.\n\n2. Os Estados-Membros asseguram que a decisão da autoridade competente de retirar o estatuto de refugiado é dada por escrito. Devem constar da decisão os seus fundamentos de facto e de direito e devem ser dadas por escrito informações sobre as possibilidades de impugnar a decisão.\n\n3. Quando a autoridade competente tiver proferido a decisão de retirar o estatuto de refugiado, aplicar-se-ão igualmente o n.º 2 do artigo 15.º, o n.º 1 do artigo 16.º e o artigo 21.º\n\n4. Em derrogação aos n.^os^ 1, 2 e 3 do presente artigo, os Estados-Membros podem decidir que o estatuto de refugiado caduca por força de lei nos casos de cessação previstos nas alíneas a) a d) do n.º 1 do artigo 11.º da Directiva 2004/83/CE, ou se o refugiado tiver renunciado inequivocamente ao seu reconhecimento como refugiado."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "309eafde9279dc4d": {
+   "fragment_id": "RECURSOS",
+   "type": "divisao",
+   "heading": "RECURSOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECURSOS"
+  },
+  "86c8f39355bdf0b5": {
+   "fragment_id": "Artigo 39.º — Direito a um recurso efectivo",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Direito a um recurso efectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Direito a um recurso efectivo\n\n1. Os Estados-Membros asseguram que os requerentes de asilo tenham direito a interpor recurso efectivo perante um órgão jurisdicional:\n\na) Da decisão proferida sobre o seu pedido de asilo, incluindo a decisão: i) que determina inadmissibilidade do pedido, nos termos do n.º 2 do artigo 25.º, ii) proferida na fronteira ou nas zonas de trânsito de um Estado-Membro, conforme descrito no n.º 1 do artigo 35.º, iii) de não proceder à apreciação, em aplicação do artigo 36.º;\n\ni) que determina inadmissibilidade do pedido, nos termos do n.º 2 do artigo 25.º,\n\nii) proferida na fronteira ou nas zonas de trânsito de um Estado-Membro, conforme descrito no n.º 1 do artigo 35.º,\n\niii) de não proceder à apreciação, em aplicação do artigo 36.º;\n\nb) Da recusa de reabertura da apreciação de um pedido após o termo dessa apreciação em aplicação dos artigos 19.º e 20.º;\n\nc) Da decisão de não prosseguir a apreciação do pedido subsequente, de acordo com os artigos 32.º e 34.º;\n\nd) Da decisão de recusa de entrada, no âmbito dos procedimentos previstos no n.º 2 do artigo 35.º;\n\ne) Da decisão de retirar o estatuto de refugiado, de acordo com o artigo 38.º\n\n2. Os Estados-Membros devem estabelecer os prazos e outras regras necessárias para o requerente exercer o seu direito de recurso efectivo nos termos do n.º 1.\n\n3. Os Estados-Membros devem estabelecer, se for caso disso, as regras de acordo com as suas obrigações internacionais para determinar:\n\na) Se o recurso nos termos do n.º 1 permite aos requerentes permanecerem no Estado-Membro, na pendência da respectiva decisão; e\n\nb) A possibilidade de recurso judicial ou de medidas de protecção, caso o recurso nos termos do n.º 1 não permita aos requerentes permanecerem no Estado-Membro em causa na pendência da respectiva decisão. Os Estados-Membros podem igualmente prever um recurso *ex officio*; e\n\nc) Os motivos para contestar uma decisão ao abrigo da alínea c) do n.º 2 do artigo 25.º, de acordo com a metodologia aplicada ao abrigo das alíneas b) e c) do n.º 2 do artigo 27.º\n\n4. Os Estados-Membros podem fixar prazos para o órgão jurisdicional, apreciar a decisão do órgão de decisão, nos termos do n.º 1.\n\n5. Quando tiver sido concedido um estatuto a um requerente que lhe confira os mesmos direitos e benefícios, ao abrigo do direito nacional e comunitário, que o estatuto de refugiado por força da Directiva 2004/83/CE, pode considerar-se que o requerente tem um recurso efectivo sempre que um órgão jurisdicional decidir que o recurso nos termos do n.º 1 é inadmissível ou tem poucas possibilidades de ser bem sucedido por falta de interesse do requerente em manter o processo.\n\n6. Os Estados-Membros podem igualmente estabelecer no direito interno as condições em que se pode presumir que o requerente retirou tacitamente ou desistiu do recurso nos termos do n.º 1, juntamente com as regras processuais a observar em tais casos."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "966d3b11fd5a17ca": {
+   "fragment_id": "DISPOSIÇÕES GERAIS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS E FINAIS"
+  },
+  "0a3986e815465ccf": {
+   "fragment_id": "Artigo 40.º — Impugnação por autoridades públicas",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Impugnação por autoridades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Impugnação por autoridades públicas\n\nA presente directiva não afecta a possibilidade de as autoridades públicas impugnarem decisões administrativas e/ou judiciais nos termos do direito interno."
+  },
+  "f3a970a63465e84c": {
+   "fragment_id": "Artigo 41.º — Confidencialidade",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Confidencialidade\n\nOs Estados-Membros asseguram que as autoridades que aplicam a presente directiva estejam vinculadas pelo princípio da confidencialidade definido no direito interno relativamente a todas as informações que obtenham no decurso do seu trabalho."
+  },
+  "59ac5eeee6f578ca": {
+   "fragment_id": "Artigo 42.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Relatório\n\nO mais tardar em 1 de Dezembro de 2009, a Comissão apresentará um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação da presente directiva nos Estados-Membros e proporá as alterações necessárias. Os Estados-Membros transmitirão à Comissão as informações necessárias à preparação do referido relatório. Após a apresentação do relatório, a Comissão informará o Parlamento Europeu e o Conselho sobre a aplicação da presente directiva nos Estados-Membros com uma periodicidade máxima de dois anos."
+  },
+  "bad1fc605c1e677d": {
+   "fragment_id": "Artigo 43.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Transposição\n\nOs Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva em 1 de Dezembro de 2007. No que respeita ao artigo 13.º, os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva em 1 de Dezembro de 2008. Do facto devem informar imediatamente a Comissão.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\nOs Estados-Membros devem comunicar à Comissão o texto das disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "0d4ad98cb5584976": {
+   "fragment_id": "Artigo 44.º — Transição",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Transição\n\nOs Estados-Membros aplicarão as disposições legislativas, regulamentares e administrativas referidas no artigo 43.º aos pedidos de asilo apresentados após 1 de Dezembro de 2007 e aos procedimentos de retirada do estatuto de refugiado iniciados após 1 de Dezembro de 2007."
+  },
+  "b4599c7502dc9511": {
+   "fragment_id": "Artigo 45.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Entrada em vigor\n\nA presente directiva entra em vigor vinte dias após a sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "c3eae8994150a525": {
+   "fragment_id": "Artigo 46.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Destinatários\n\nOs Estados-Membros são destinatários da presente directiva, nos termos do Tratado que institui a Comunidade Europeia.\n\nFeito em Bruxelas, em 1 de Dezembro de 2005.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**Ashton of UPHOLLAND**\n\n---"
+  },
+  "f5baaa8ee168e714": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntc1-L_2005326PT.01001301-E0001) [JO C 62 de 27.2.2001, p. 231](http://publications.europa.eu/resource/oj/JOC_2001_062_R_TOC) e [JO C 291 de 26.11.2002, p. 143](http://publications.europa.eu/resource/oj/JOC_2002_291_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntc2-L_2005326PT.01001301-E0002) [JO C 77 de 28.3.2002, p. 94](http://publications.europa.eu/resource/oj/JOC_2002_077_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntc3-L_2005326PT.01001301-E0003) [JO C 193 de 10.7.2001, p. 77](http://publications.europa.eu/resource/oj/JOC_2001_193_R_TOC). Parecer emitido na sequência de consulta facultativa.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntc4-L_2005326PT.01001301-E0004) [JO L 304 de 30.9.2004, p. 12](http://publications.europa.eu/resource/oj/JOL_2004_304_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntc5-L_2005326PT.01001301-E0005) [JO L 50 de 25.2.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_050_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntc6-L_2005326PT.01001301-E0006) Ver Decisão-Quadro 2002/584/JAI do Conselho, de 13 de Junho de 2002, relativa ao mandado de detenção europeu e aos processos de entrega entre os Estados-Membros ([JO L 190 de 18.7.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_190_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/6883b88f-8a50-403a-ac64-c2ceb118179b.0016.03/DOC_1#ntc7-L_2005326PT.01001301-E0007) [JO L 31 de 6.2.2003, p. 18](http://publications.europa.eu/resource/oj/JOL_2003_031_R_TOC)."
+  },
+  "ffc3415eff9dd1e7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Dezembro de 2005\n\nrelativa a normas mínimas aplicáveis ao procedimento de concessão e retirada do estatuto de refugiado nos Estados-Membros\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente, o ponto 1, alínea d), do primeiro parágrafo do artigo 63.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^3^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#E0003)),\n\n(1) Uma política comum de asilo, que inclua um sistema comum europeu de asilo, faz parte integrante do objectivo da União Europeia de criar progressivamente um espaço de liberdade, segurança e justiça aberto a todos aqueles que, por força das circunstâncias, procuram legitimamente protecção na Comunidade.\n\n(2) O Conselho Europeu, na sua reunião extraordinária de Tampere, de 15 e 16 de Outubro de 1999, decidiu desenvolver esforços no sentido de estabelecer um sistema comum europeu de asilo, baseado na aplicação integral e abrangente da Convenção de Genebra, de 28 de Julho de 1951, relativa ao Estatuto dos Refugiados, alterada pelo Protocolo de Nova Iorque, de 31 de Janeiro de 1967 («Convenção de Genebra»), afirmando dessa forma o princípio da não repulsão e assegurando que ninguém é reenviado para onde possa ser perseguido.\n\n(3) As conclusões de Tampere prevêem que um sistema comum europeu de asilo inclua, a curto prazo, normas comuns aplicáveis a um procedimento de asilo equitativo e eficaz nos Estados-Membros e, a mais longo prazo, normas comunitárias conducentes a um procedimento comum de asilo na Comunidade Europeia.\n\n(4) As normas mínimas estabelecidas na presente directiva aplicáveis aos procedimentos de concessão ou retirada do estatuto de refugiado nos Estados-Membros constituem, pois, uma primeira medida em matéria de procedimentos de asilo.\n\n(5) O principal objectivo da presente directiva consiste em introduzir na Comunidade um quadro mínimo em matéria de procedimentos de concessão ou retirada do estatuto de refugiado.\n\n(6) A aproximação das normas relativas aos procedimentos de concessão e retirada do estatuto de refugiado deverá contribuir para limitar os fluxos secundários de requerentes de asilo entre Estados-Membros, nos casos em que tais fluxos sejam devidos a diferenças entre os seus regimes jurídicos.\n\n(7) Constitui característica das normas mínimas a possibilidade de os Estados-Membros preverem ou manterem disposições mais favoráveis relativamente a nacionais de países terceiros ou a apátridas requerentes de protecção internacional num Estado-Membro, sempre que se considere que tal pedido é apresentado com base no estatuto de refugiado, na acepção do ponto A do artigo 1.º da Convenção de Genebra.\n\n(8) A presente directiva respeita os direitos fundamentais e observa os princípios consagrados, em especial, na Carta dos Direitos Fundamentais da União Europeia.\n\n(9) No que se refere ao tratamento das pessoas abrangidas pelo âmbito de aplicação da presente directiva, os Estados-Membros estão vinculados por obrigações decorrentes de instrumentos de direito internacional em que são Partes e que proíbem a discriminação.\n\n(10) É essencial que as decisões sobre todos os pedidos de asilo sejam tomadas com base nos factos e, em primeira instância, por autoridades cujo pessoal possua os conhecimentos adequados ou receba a formação necessária nos domínios do asilo e dos refugiados.\n\n(11) É do interesse tanto dos Estados-Membros como dos requerentes de asilo que a decisão sobre os pedidos de asilo seja proferida o mais rapidamente possível. A organização da tramitação dos pedidos de asilo deverá ser deixada à discricionariedade dos Estados-Membros, para que estes possam, de acordo com as necessidades nacionais, considerar prioritário ou acelerar a tramitação de qualquer pedido, tendo em conta as normas previstas na presente directiva.\n\n(12) A noção de ordem pública pode abranger a condenação pela prática de crime grave.\n\n(13) Para que seja possível identificar correctamente as pessoas que necessitam de protecção enquanto refugiados na acepção do artigo 1.º da Convenção de Genebra, os requerentes deverão, ressalvadas determinadas excepções, ter acesso efectivo aos procedimentos, a possibilidade de cooperarem e comunicarem devidamente com as autoridades competentes de forma a exporem os factos relevantes da sua situação, bem como garantias processuais suficientes para defenderem o seu pedido em todas as fases do procedimento. Acresce que o procedimento de apreciação de um pedido de asilo deverá normalmente proporcionar ao requerente, pelo menos, o direito de permanecer no território na pendência da decisão do órgão de decisão, o acesso aos serviços de um intérprete para apresentação do caso se for convocado para uma entrevista pelas autoridades, a oportunidade de contactar um representante do Alto Comissariado das Nações Unidas para os Refugiados (ACNUR) ou qualquer outra organização que actue em seu nome, o direito a uma notificação adequada da decisão, a fundamentação dessa decisão em matéria de facto e de direito, a oportunidade de recorrer aos serviços de um advogado ou outro consultor e o direito de ser informado da sua situação jurídica nos momentos decisivos do procedimento, numa língua que seja razoável presumir que compreenda.\n\n(14) Além disso, deverão ser estabelecidas garantias processuais específicas para os menores não acompanhados, dada a sua vulnerabilidade. Neste contexto, o superior interesse da criança deverá constituir preocupação primordial dos Estados-Membros.\n\n(15) Sempre que um requerente apresente um pedido subsequente sem aduzir novos argumentos ou elementos de prova, seria desproporcionado obrigar os Estados-Membros a empreenderem um novo procedimento completo de apreciação. Em tais casos, os Estados-Membros deverão ter a possibilidade de escolher entre os procedimentos que prevêem excepções às garantias de que o requerente usufrui habitualmente.\n\n(16) Muitos pedidos de asilo são apresentados na fronteira ou numa zona de trânsito de um Estado-Membro antes de proferida decisão sobre a entrada do requerente. Os Estados-Membros deverão poder manter os procedimentos existentes, adaptando-os à situação específica desses requerentes na fronteira. Deverão ser definidas regras comuns aplicáveis às eventuais excepções abertas nessas circunstâncias às garantias de que os requerentes habitualmente usufruem. Os procedimentos de fronteira deverão aplicar-se sobretudo aos requerentes que não preenchem as condições de entrada no território dos Estados-Membros.\n\n(17) Elemento de ponderação decisivo para a apreciação da fundamentação de um pedido de asilo é a segurança do requerente no seu país de origem. Sempre que um país terceiro possa ser considerado país de origem seguro, os Estados-Membros deverão poder designá-lo como tal e presumir que é seguro para um determinado requerente, a menos que este apresente contra-indicações graves.\n\n(18) Dado o grau de harmonização alcançado em matéria de condições a preencher por nacionais de países terceiros e apátridas para beneficiarem do estatuto de refugiado, deverão ser definidos critérios comuns para a designação de países terceiros como países de origem seguros.\n\n(19) Sempre que o Conselho conclua que um determinado país de origem preenche esses critérios e, por conseguinte, o inclua na lista mínima comum de países de origem seguros, a aprovar nos termos da presente directiva, os Estados-Membros deverão ser obrigados a apreciar os pedidos de pessoas com a nacionalidade desse país, ou de apátridas que nele tenham tido anteriormente a sua residência habitual, com base na presunção elidível de que esse país é seguro. Atendendo à importância política da designação de países de origem seguros, concretamente face às implicações da avaliação da situação dos direitos humanos num país de origem e às suas repercussões sobre as políticas da União Europeia no domínio das relações externas, quaisquer decisões do Conselho relativas à elaboração ou alteração da lista deverão ser tomadas após consulta ao Parlamento Europeu.\n\n(20) Do seu estatuto de países candidatos à adesão à União Europeia, e dos progressos que realizaram nesse processo de adesão, resulta que a Bulgária e a Roménia deverão ser considerados países de origem seguros, para efeitos da presente directiva, até à data da sua adesão à União Europeia.\n\n(21) A designação de um país terceiro como país de origem seguro, para efeitos da presente directiva, não pode constituir garantia absoluta de segurança para os nacionais desse país. Pela sua natureza intrínseca, a avaliação subjacente à designação só pode atender à situação civil, jurídica e política no referido país e ao facto de os autores de perseguições, torturas ou penas ou tratamentos desumanos ou degradantes estarem, na prática, sujeitos a sanções quando indiciados no país em questão. Por esse motivo, é importante que, se o requerente demonstrar que, na sua situação específica, existem motivos válidos para considerar que o país não é seguro, a designação desse país como país seguro deixe de ser considerada relevante no que lhe diz respeito.\n\n(22) Os Estados-Membros deverão apreciar todos os pedidos quanto ao fundo, ou seja, avaliar se o requerente em causa preenche as condições necessárias para beneficiar do estatuto de refugiado, nos termos da Directiva 2004/83/CE do Conselho, de 29 de Abril de 2004, que estabelece normas mínimas relativas às condições a preencher por nacionais de países terceiros ou apátridas para poderem beneficiar do estatuto de refugiado ou de pessoa que, por outros motivos, necessite de protecção internacional, bem como relativas ao respectivo estatuto e relativas ao conteúdo da protecção concedida ([^4^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#E0004)), salvo disposição em contrário da presente directiva, em especial quando se possa razoavelmente presumir que outro país procederia à apreciação ou proporcionaria protecção suficiente. Concretamente, os Estados-Membros não deverão ser obrigados a apreciar um pedido de asilo quanto ao fundo caso um primeiro país de asilo tenha concedido ao requerente o estatuto de refugiado ou outra forma de protecção suficiente e o requerente vá ser readmitido nesse país.\n\n(23) Do mesmo modo, os Estados-Membros não deverão ser obrigados a apreciar um pedido de asilo quanto ao fundo sempre que seja razoável esperar que o requerente, devido a uma ligação a um país terceiro definida pelo direito interno, procure protecção nesse país terceiro. Os Estados-Membros só deverão proceder nessa base caso esse requerente, em concreto, esteja em segurança no país terceiro em causa. Com o intuito de prevenir fluxos secundários de requerentes de asilo, deverão ser estabelecidos princípios comuns aplicáveis à designação dos países terceiros seguros pelos Estados-Membros.\n\n(24) Além disso, relativamente a determinados países terceiros europeus que observam padrões particularmente elevados no que se refere aos direitos humanos e à protecção dos refugiados, os Estados-Membros deverão ter a possibilidade de não apreciar, ou não apreciar de forma exaustiva, os pedidos de asilo respeitantes a requerentes que entrem nos seus territórios em proveniência desses países terceiros europeus. Dadas as consequências potenciais que uma apreciação omissa ou restrita poderá ter para o requerente, esta aplicação do conceito de país terceiro seguro deverá ser restringida aos casos que envolvam países terceiros relativamente aos quais o Conselho esteja convicto de que satisfazem as elevadas normas de segurança fixadas na presente directiva. O Conselho deverá tomar decisões nesta matéria depois de consultar o Parlamento Europeu.\n\n(25) Da natureza das normas comuns respeitantes a ambos os conceitos de país terceiro seguro definidos na presente directiva, decorre que o efeito prático dos conceitos depende do facto de o país terceiro em questão permitir ou não que o requerente em causa entre no seu território.\n\n(26) Relativamente à retirada do estatuto de refugiado, os Estados-Membros deverão garantir que as pessoas que beneficiam do estatuto de refugiado sejam devidamente informadas de uma eventual reapreciação do seu estatuto e tenham a possibilidade de apresentar as suas observações antes de as autoridades poderem proferir uma decisão fundamentada de retirada desse estatuto. Todavia, deverão ser autorizadas derrogações a essas garantias, caso os motivos que presidem à cessação do estatuto de refugiado não se relacionem com uma alteração das condições em que se fundara o seu reconhecimento.\n\n(27) Um dos princípios fundamentais do direito comunitário implica que as decisões relativas a um pedido de asilo e à retirada do estatuto de refugiado sejam passíveis de recurso efectivo perante um órgão jurisdicional na acepção do artigo 234.º do Tratado. A eficácia do recurso, também no que respeita à apreciação dos factos pertinentes, depende do sistema administrativo e judicial de cada Estado-Membro no seu todo.\n\n(28) De harmonia com o artigo 64.º do Tratado, a presente directiva não prejudica o exercício das responsabilidades que incumbem aos Estados-Membros em matéria de manutenção da ordem pública e de garantia da segurança interna.\n\n(29) A presente directiva não abrange os procedimentos regidos pelo Regulamento (CE) n.º 343/2003 do Conselho, de 18 de Fevereiro de 2003, que estabelece os critérios e mecanismos de determinação do Estado-Membro responsável pela análise de um pedido de asilo apresentado num dos Estados-Membros por um nacional de um país terceiro ([^5^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#E0005)).\n\n(30) A aplicação da presente directiva deverá ser sujeita a avaliações regulares com uma periodicidade máxima de dois anos.\n\n(31) Como o objectivo da presente directiva, designadamente a criação de normas mínimas aplicáveis aos procedimentos de concessão e retirada do estatuto de refugiado nos Estados-Membros, não pode ser suficientemente realizado pelos Estados-Membros e pode, por conseguinte, devido à dimensão e aos efeitos da acção, ser melhor alcançado ao nível comunitário, a Comunidade pode tomar medidas segundo o princípio da subsidiariedade previsto no artigo 5.º do Tratado. De acordo com o princípio da proporcionalidade mencionado no referido artigo, a presente directiva não excede o necessário para alcançar aquele objectivo.\n\n(32) Nos termos do artigo 3.º do Protocolo relativo à posição do Reino Unido e da Irlanda, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, o Reino Unido notificou, por carta de 24 de Janeiro de 2001, a sua intenção de participar na aprovação e aplicação da presente directiva.\n\n(33) Nos termos do artigo 3.º do Protocolo relativo à posição do Reino Unido e da Irlanda anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, a Irlanda notificou, por carta de 14 de Fevereiro de 2001, a sua intenção de participar na aprovação e aplicação da presente directiva.\n\n(34) Nos termos do artigos 1.º e 2.º do Protocolo relativo à posição da Dinamarca, anexo ao Tratado da União Europeia e ao Tratado que institui a Comunidade Europeia, a Dinamarca não participa na aprovação da presente directiva, e não fica a ela vinculada nem sujeita à sua aplicação,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "a5a4c6bb672884df": {
+   "fragment_id": "Artigo 7.º — Direito de permanência no Estado-Membro durante a apreciação do pedido",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Direito de permanência no Estado-Membro durante a apreciação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito de permanência no Estado-Membro durante a apreciação do pedido\n\n1. Os requerentes de asilo são autorizados a permanecer no Estado-Membro, unicamente para efeitos do processo, até à pronúncia de uma decisão pelo órgão de decisão nos termos dos procedimentos em primeira instância contemplados no capítulo III. Este direito de permanência não habilita o requerente de asilo à autorização de residência.\n\n2. Os Estados-Membros só podem prever derrogações a este princípio nos casos em que, de acordo com os artigos 32.º e 34.º, não seja prosseguida a apreciação de um pedido de asilo subsequente ou quando, conforme o caso, entregarem ou extraditarem uma pessoa, quer para outro Estado-Membro, por força de uma obrigação decorrente de um mandado de detenção europeu ([^6^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#E0006)) ou por outro motivo, quer para um país terceiro ou para tribunais penais internacionais ou outros órgãos jurisdicionais."
+  },
+  "7565a8be5b29a812": {
+   "fragment_id": "Artigo 17.º — Garantias dos menores não acompanhados",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Garantias dos menores não acompanhados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Garantias dos menores não acompanhados\n\n1. Relativamente a todos os procedimentos previstos na presente directiva, e sem prejuízo dos artigos 12.º e 14.º, os Estados-Membros devem:\n\na) Assim que possível, tomar medidas para garantir que o menor não acompanhado disponha de um representante que o represente e/ou assista no que se refere à apreciação do pedido. Esse representante pode ser o representante referido no artigo 19.º da Directiva 2003/9/CE, de 27 de Janeiro de 2003, que estabelece normas mínimas em matéria de acolhimento dos requerentes de asilo nos Estados-Membros ([^7^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#E0007));\n\nb) Assegurar que seja dada ao representante a oportunidade de informar o menor não acompanhado do significado e das eventuais consequências da entrevista pessoal e, se adequado, da forma de se preparar para a entrevista pessoal. Os Estados-Membros autorizam o representante a estar presente nessa entrevista e a fazer perguntas e comentários no quadro fixado pela pessoa que conduz a entrevista.\n\nOs Estados-Membros podem exigir a presença do menor não acompanhado na entrevista pessoal mesmo que o representante esteja presente.\n\n2. Os Estados-Membros podem abster-se de nomear um representante, se o menor não acompanhado:\n\na) Tiver com toda a probabilidade atingido a maioridade antes da pronúncia de uma decisão em primeira instância; ou\n\nb) Puder valer-se gratuitamente de um advogado ou outro consultor, aceite nessa qualidade pelo direito interno, para o desempenho das tarefas acima confiadas ao representante; ou\n\nc) For ou tiver sido casado.\n\n3. Os Estados-Membros podem, de acordo com as disposições legislativas ou regulamentares em vigor a partir de 1 de Dezembro de 2005, abster-se de nomear um representante, se o menor não acompanhado tiver idade igual ou superior a 16 anos, excepto se esse menor não puder dar seguimento ao seu pedido sem um representante.\n\n4. Os Estados-Membros asseguram que:\n\na) Quando um menor não acompanhado tiver uma entrevista pessoal sobre o seu pedido de asilo, nos termos dos artigos 12.º, 13.º e 14.º, essa entrevista seja conduzida por uma pessoa com os conhecimentos necessários sobre as necessidades especiais dos menores;\n\nb) A decisão do órgão de decisão relativa ao pedido apresentado por um menor não acompanhado seja preparada por funcionários com os conhecimentos necessários sobre as necessidades especiais dos menores não acompanhados.\n\n5. Os Estados-Membros podem recorrer a exames médicos para determinar a idade dos menores não acompanhados, no quadro da apreciação de um pedido de asilo.\n\nCaso recorram a exames médicos, os Estados-Membros asseguram que:\n\na) Os menores não acompanhados sejam informados, antes da apreciação do respectivo pedido de asilo, e numa língua que seja razoável presumir que compreendam, da possibilidade de a sua idade ser determinada através de um exame médico. Esta comunicação deve incluir informação sobre o método do exame médico e as eventuais consequências do seu resultado para a apreciação do pedido de asilo, bem como as consequências da recusa do menor não acompanhado a submeter-se ao exame médico;\n\nb) O menor não acompanhado e/ou o seu representante consintam na realização de um exame para determinar a idade do menor em causa; e\n\nc) A decisão de indeferir um pedido de asilo de um menor não acompanhado que recuse submeter-se ao exame médico não seja tomada exclusivamente com base nessa recusa.\n\nO facto de os menores não acompanhados terem recusado submeter-se ao referido exame não obsta à pronúncia de uma decisão sobre o pedido de asilo pelo órgão de decisão.\n\n6. Os superiores interesses do menor serão primordialmente considerados pelos Estados-Membros na transposição do presente artigo."
+  },
+  "a4a953abbc1699e8": {
+   "fragment_id": "Artigo 23.º — Procedimento de apreciação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Procedimento de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Procedimento de apreciação\n\n1. Os Estados-Membros tratam os pedidos de asilo mediante um procedimento de apreciação conforme com os princípios e garantias fundamentais enunciados no capítulo II.\n\n2. Os Estados-Membros asseguram a conclusão desse procedimento o mais rapidamente possível, sem prejuízo da adequação e exaustividade da apreciação.\n\nOs Estados-Membros asseguram que, nos casos em que não seja possível proferir uma decisão no prazo de seis meses, o requerente em causa seja:\n\na) Informado do atraso; ou\n\nb) Receba, a seu pedido, informações sobre o prazo no qual é de prever que seja proferida uma decisão sobre o seu pedido. Essa informação não obriga o Estado-Membro a proferir uma decisão nesse prazo.\n\n3. Os Estados-Membros podem conceder prioridade ou acelerar uma apreciação, em conformidade com os princípios e garantias fundamentais enunciados no capítulo II, inclusivamente nos casos em que o pedido seja susceptível de estar bem fundamentado ou em que o requerente tenha necessidades especiais.\n\n4. Além disso, os Estados-Membros podem estabelecer que um procedimento de apreciação, nos termos dos princípios e garantias fundamentais enunciados no capítulo II, seja considerado prioritário ou acelerado se:\n\na) O requerente, ao apresentar o pedido e ao expor os factos, tiver evocado apenas questões não pertinentes ou de relevância mínima para analisar o cumprimento das condições para ser considerado refugiado em conformidade com a Directiva 2004/83/CE; ou\n\nb) O requerente não preencher claramente as condições para ser considerado refugiado ou para lhe ser concedido o estatuto de refugiado num Estado-Membro em conformidade com a Directiva 2004/83/CE; ou\n\nc) O pedido de asilo for considerado infundado:\n\ni) porque o requerente provém de um país de origem seguro, na acepção dos artigos 29.º, 30.º e 31.º, ou\n\nii) porque o país que não é um Estado-Membro é considerado país terceiro seguro para o requerente, sem prejuízo do n.º 1 do artigo 28.º; ou\n\nd) O requerente tiver induzido em erro as autoridades, apresentando informações ou documentos falsos ou ocultando informações ou documentos importantes a respeito da sua identidade e/ou nacionalidade susceptíveis de terem um impacto negativo na decisão; ou\n\ne) O requerente tiver apresentado outro pedido de asilo com outros dados pessoais; ou\n\nf) O requerente não tiver apresentado informações que permitam determinar, com um grau razoável de certeza, a sua identidade ou nacionalidade ou se for provável que, de má fé, tenha destruído ou extraviado documentos de identidade ou de viagem susceptíveis de contribuírem para a determinação da sua identidade ou nacionalidade; ou\n\ng) O requerente tiver feito declarações incoerentes, contraditórias, inverosímeis ou insuficientes que retirem claramente credibilidade à alegação de ter sido alvo de perseguição nos termos da Directiva 2004/83/CE; ou\n\nh) O requerente tiver apresentado um pedido subsequente sem invocar novos factos pertinentes relativamente às suas circunstâncias específicas ou à situação no seu país de origem; ou\n\ni) O requerente não tiver apresentado o pedido mais cedo, sem motivos válidos, tendo tido a possibilidade de o fazer; ou\n\nj) O requerente apresentar o pedido apenas com o intuito de atrasar ou impedir a aplicação de uma decisão anterior ou iminente que se traduza no seu afastamento; ou\n\nk) O requerente, sem motivos válidos, não tiver cumprido as obrigações referidas nos n.^os^ 1 e 2 do artigo 4.º da Directiva 2004/83/CE, ou nas alíneas a) e b) do n.º 2 do artigo 11.º e no n.º 1 do artigo 20.º da presente directiva; ou\n\nl) O requerente tiver entrado ou prolongado ilegalmente a sua permanência no território do Estado-Membro e, sem motivo válido, não se tiver apresentado às autoridades assim que possível, dadas as circunstâncias da sua entrada no território; ou\n\nm) O requerente representar um perigo para a segurança pública ou para a ordem pública do Estado-Membro; ou o requerente tiver sido objecto de uma decisão executória de expulsão por razões graves de segurança pública e de ordem pública, por força do direito interno; ou\n\nn) O requerente recusar sujeitar-se ao registo obrigatório das suas impressões digitais de acordo com o direito comunitário e/ou interno pertinente; ou\n\no) O pedido tiver sido apresentado por um solteiro menor abrangido pela alínea c) do n.º 4 do artigo 6.º quando o pedido dos progenitores ou do progenitor responsável pelo menor tiver sido indeferido e não tiverem sido apresentados novos elementos pertinentes a respeito das suas circunstâncias particulares ou da situação no seu país de origem."
+  },
+  "d6a27bb911fe411f": {
+   "fragment_id": "Artigo 39.º — Direito a um recurso efectivo",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Direito a um recurso efectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Direito a um recurso efectivo\n\n1. Os Estados-Membros asseguram que os requerentes de asilo tenham direito a interpor recurso efectivo perante um órgão jurisdicional:\n\na) Da decisão proferida sobre o seu pedido de asilo, incluindo a decisão:\n\ni) que determina inadmissibilidade do pedido, nos termos do n.º 2 do artigo 25.º,\n\nii) proferida na fronteira ou nas zonas de trânsito de um Estado-Membro, conforme descrito no n.º 1 do artigo 35.º,\n\niii) de não proceder à apreciação, em aplicação do artigo 36.º;\n\nb) Da recusa de reabertura da apreciação de um pedido após o termo dessa apreciação em aplicação dos artigos 19.º e 20.º;\n\nc) Da decisão de não prosseguir a apreciação do pedido subsequente, de acordo com os artigos 32.º e 34.º;\n\nd) Da decisão de recusa de entrada, no âmbito dos procedimentos previstos no n.º 2 do artigo 35.º;\n\ne) Da decisão de retirar o estatuto de refugiado, de acordo com o artigo 38.º\n\n2. Os Estados-Membros devem estabelecer os prazos e outras regras necessárias para o requerente exercer o seu direito de recurso efectivo nos termos do n.º 1.\n\n3. Os Estados-Membros devem estabelecer, se for caso disso, as regras de acordo com as suas obrigações internacionais para determinar:\n\na) Se o recurso nos termos do n.º 1 permite aos requerentes permanecerem no Estado-Membro, na pendência da respectiva decisão; e\n\nb) A possibilidade de recurso judicial ou de medidas de protecção, caso o recurso nos termos do n.º 1 não permita aos requerentes permanecerem no Estado-Membro em causa na pendência da respectiva decisão. Os Estados-Membros podem igualmente prever um recurso *ex officio*; e\n\nc) Os motivos para contestar uma decisão ao abrigo da alínea c) do n.º 2 do artigo 25.º, de acordo com a metodologia aplicada ao abrigo das alíneas b) e c) do n.º 2 do artigo 27.º\n\n4. Os Estados-Membros podem fixar prazos para o órgão jurisdicional, apreciar a decisão do órgão de decisão, nos termos do n.º 1.\n\n5. Quando tiver sido concedido um estatuto a um requerente que lhe confira os mesmos direitos e benefícios, ao abrigo do direito nacional e comunitário, que o estatuto de refugiado por força da Directiva 2004/83/CE, pode considerar-se que o requerente tem um recurso efectivo sempre que um órgão jurisdicional decidir que o recurso nos termos do n.º 1 é inadmissível ou tem poucas possibilidades de ser bem sucedido por falta de interesse do requerente em manter o processo.\n\n6. Os Estados-Membros podem igualmente estabelecer no direito interno as condições em que se pode presumir que o requerente retirou tacitamente ou desistiu do recurso nos termos do n.º 1, juntamente com as regras processuais a observar em tais casos."
+  },
+  "eab480ca131ce010": {
+   "fragment_id": "Artigo 43.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Transposição\n\nOs Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva em 1 de Dezembro de 2007.[**►C1**](http://publications.europa.eu/resource/celex/32005L0085R%2801%29) No que respeita ao artigo 15.º, os Estados-Membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias**◄** para dar cumprimento à presente directiva em 1 de Dezembro de 2008. Do facto devem informar imediatamente a Comissão.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\nOs Estados-Membros devem comunicar à Comissão o texto das disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "a60ed12464998f40": {
+   "fragment_id": "Artigo 46.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Destinatários\n\nOs Estados-Membros são destinatários da presente directiva, nos termos do Tratado que institui a Comunidade Europeia."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "5eff8a9e4888ec14": {
+   "fragment_id": "Definição de «órgão de decisão»",
+   "type": "divisao",
+   "heading": "Definição de «órgão de decisão»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definição de «órgão de decisão»\n\nAo implementar o disposto na presente directiva e na medida em que continuem a ser aplicáveis as disposições constantes do n.º 1 do artigo 17.º da Lei dos Refugiados de 1996 («Refugee Act», na sua versão alterada), a Irlanda pode considerar que:\n\n— o «órgão de decisão» definido na alínea e) do artigo 2.º da presente directiva corresponde ao *Office of the Refugee Applications Commissioner*, na medida em que se trate de determinar se o requerente deve ou não, consoante o caso, ser declarado refugiado, e\n\n— a «decisão em primeira instância» prevista na alínea e) do artigo 2.º da presente directiva inclui recomendações do *Office of the Refugee Applications Commissioner* relativamente ao facto de o requerente dever ou não, consoante o caso, ser declarado refugiado.\n\nA Irlanda notificará a Comissão de quaisquer alterações ao disposto no n.º 1 do artigo 17.º da Lei dos Refugiados de 1996 (na sua versão alterada)."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "f6c6bb619321a062": {
+   "fragment_id": "Designação de países de origem seguros para efeitos do artigo 29.º e do n.º 1 do artigo 30.º",
+   "type": "divisao",
+   "heading": "Designação de países de origem seguros para efeitos do artigo 29.º e do n.º 1 do artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Designação de países de origem seguros para efeitos do artigo 29.º e do n.º 1 do artigo 30.º\n\nUm país é considerado país de origem seguro se, tendo em conta a situação jurídica, a aplicação da lei no quadro de um regime democrático e a situação política em geral, puder ser demonstrado que, de um modo geral e sistemático, não existe perseguição, na acepção do artigo 9.º da Directiva 2004/83/CE, nem tortura ou pena ou tratamento desumano ou degradante, nem ameaça em resultado de violência indiscriminada em situações de conflito armado internacional ou interno.\n\nPara fins desta avaliação, será nomeadamente considerada a medida em que é concedida protecção contra a perseguição ou maus tratos através:\n\na) De disposições legislativas e regulamentares do país e da forma como estas são aplicadas;\n\nb) Do respeito dos direitos e liberdades consignados na Convenção Europeia para a Protecção dos Direitos do Homem e das Liberdades Fundamentais e/ou no Pacto Internacional sobre os Direitos Civis e Políticos e/ou na Convenção contra a Tortura, em especial, os direitos que não podem ser derrogados de acordo com o n.º 2 do artigo 15.º da referida Convenção Europeia;\n\nc) Do respeito do princípio de não repulsão, nos termos da Convenção de Genebra;\n\nd) Da existência de vias de recurso eficazes contra as violações destes direitos e liberdades."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "df17ac1bb71f5675": {
+   "fragment_id": "Definição de «requerente» ou «requerente de asilo»",
+   "type": "divisao",
+   "heading": "Definição de «requerente» ou «requerente de asilo»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Definição de «requerente» ou «requerente de asilo»\n\nAo implementar o disposto na presente directiva, a Espanha pode considerar, na medida em que continuem a ser aplicáveis as disposições da «*Ley 30/1992 de Régimen jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común*», de 26 Novembro de 1992, e da «*Ley 29/1998 reguladora de la Jurisdicción Contencioso-Administrativa*», de 13 de Julho de 1998, que, para efeitos do capítulo V, a definição de «requerente» ou «requerente de asilo», constante da alínea c) do artigo 2.º da presente directiva, inclui um «*recurrente*», tal como definido nessas leis.\n\nO «*recurrente*» terá as mesmas garantias que um «requerente» ou um «requerente de asilo», tal como estabelecido na presente directiva, para efeitos de exercício do seu direito a um recurso efectivo previsto no capítulo V.\n\nA Espanha notificará a Comissão de quaisquer alterações pertinentes às referidas leis.\n\n---"
+  },
+  "2b0b0707c9e7339b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#src.E0001)) JO C 62 de 27.2.2001, p. 231 e JO C 291 de 26.11.2002, p. 143.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#src.E0002)) JO C 77 de 28.3.2002, p. 94.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#src.E0003)) JO C 193 de 10.7.2001, p. 77. Parecer emitido na sequência de consulta facultativa.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#src.E0004)) JO L 304 de 30.9.2004, p. 12.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#src.E0005)) JO L 50 de 25.2.2003, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#src.E0006)) Ver Decisão-Quadro 2002/584/JAI do Conselho, de 13 de Junho de 2002, relativa ao mandado de detenção europeu e aos processos de entrega entre os Estados-Membros (JO L 190 de 18.7.2002, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/103e117c-9dab-4964-9fc9-55aa5bbcec59.0006.03/DOC_1#src.E0007)) JO L 31 de 6.2.2003, p. 18."
+  }
+ }
+}

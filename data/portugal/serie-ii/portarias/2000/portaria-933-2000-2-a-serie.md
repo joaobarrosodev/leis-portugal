@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:1109500:por
+title: Portaria n.º 933/2000 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 933/2000 (2.ª série)
+official_date: null
+publication_date: '2000-06-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2000, Série II de 2000-06-28
+  number: '147'
+  series: II
+  supplement: null
+  pages: 10874 - 10874
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/06/147000000/1087410874.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1109500'
+  dre_path: /dr/detalhe/portaria/933-2000-1109500
+  internal: pt:dre:1109500:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/933-2000-1109500
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/933-2000-1109500
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:14:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0b17c8847b7bf84ff3356b289b706fdb3a1f51dd1624f4cdaf69192634741683
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:14:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação de Beneficiários
+- Barragem de Lucefécit
+- Pessoa Colectiva de Direito Público
+relationships:
+- type: cites
+  target: pt:dre:378517:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:14:22Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 933/2000 (2.ª série)
+
+Portaria n.º 933/2000 (2.ª série). - A Associação de Beneficiários do Lucefecit foi constituída por escritura pública celebrada no Cartório Notarial de Vila Viçosa, em 28 de Abril de 2000.
+
+Nos termos do artigo 1.º do Regulamento das Associações de Beneficiários das Obras de Fomento Hidroagrícola, publicado em anexo ao [Decreto Regulamentar n.º 84/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1982-378517), de 4 de Novembro, aquelas associações são pessoas colectivas de direito público, sujeitas a reconhecimento formal do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+Por força do disposto no artigo 2.º do supracitado Regulamento, a legalização das mesmas associações é objecto de portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo dos artigos 1.º e 2.º do Regulamento das Associações de Beneficiários das Obras de Fomento Hidroagrícola, anexo ao [Decreto Regulamentar n.º 84/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1982-378517), de 4 de Novembro, que a Associação de Beneficiários do Lucefecit seja reconhecida como pessoa colectiva do direito público.
+
+12 de Junho de 2000. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.
+
+NOTA JUSTIFICATIVA
+
+O [Decreto Regulamentar n.º 84/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/84-1982-378517), de 4 de Novembro, estabelece o Regulamento das Associações de Beneficiários e define a sua natureza jurídica.
+
+Nos termos do artigo 1.º daquele Regulamento, as associações de beneficiários são pessoas colectivas de direito público sujeitas a reconhecimento formal do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+Por força do disposto no n.º 2 do supracitado Regulamento, a legalização das mesmas associações será objecto de portaria do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+Por se tratar de actos de conteúdo não genérico, as portarias que procedem ao reconhecimento e legalização das associações de beneficiários deverão ser objecto de publicação no Diário da República, 2.ª série.

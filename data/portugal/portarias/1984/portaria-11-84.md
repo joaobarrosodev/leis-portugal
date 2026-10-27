@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:531823:por
+title: Portaria n.º 11/84
+short_title: null
+summary: Institui na Academia Portuguesa da História o Prémio Aboim Sande Lemos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 11/84
+official_date: null
+publication_date: '1984-01-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 5/1984, Série I de 1984-01-06
+  number: '5'
+  series: I
+  supplement: null
+  pages: 31 - 31
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/01/00500/00310031.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes:
+- Há desconformidade entre o nome do diploma que consta no sumário e o que consta no texto respectivo.
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '531823'
+  dre_path: /dr/detalhe/portaria/11-1984-531823
+  internal: pt:dre:531823:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/11-1984-531823
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/11-1984-531823
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:56:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fade151e5cfb8d230e64ccfbce9f88bbdbb5162086269cfec91910e7d24efade
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:56:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:315085:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:56:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 11/84
+
+de 6 de Janeiro
+
+Manda o Governo da República Portuguesa, pelo Ministro da Cultura, instituir na Academia Portuguesa da História o Prémio Aboim Sande Lemos, cujo regulamento, aprovado pela presente portaria, se publica em anexo.
+
+Ministério da Cultura.
+
+Assinada em 28 de Novembro de 1983.
+
+O Ministro da Cultura, António Antero Coimbra Martins.
+
+## ANEXO — Regulamento do Prémio Aboim Sande Lemos
+
+Artigo 1.º O Prémio Aboim Sande Lemos, no valor de não menos de 40000$00, provenientes do rendimento total dos fundos doados para o efeito, convertidos em certificado da renda perpétua assentado à Academia, destina-se a estimular trabalhos que tenham principalmente por escopo o culto do regionalismo, integrando o amor pátrio no conjunto das nações, desde a pré-história de Portugal, nomeadamente das regiões transtaganas.
+
+Art. 2.º - 1 - O prémio será atribuído anualmente, mediante concurso realizado nos termos deste Regulamento e da parte aplicável do Regulamento publicado em anexo à [Portaria n.º 22842](https://diariodarepublica.pt/dr/detalhe/portaria/22842-1967-315085), de 23 de Agosto de 1967, a uma obra de investigação original, da autoria de académico da Academia Portuguesa da História, publicada no ano anterior ou no da abertura do concurso, ou a trabalho inédito.
+
+2 - O júri do concurso poderá sugerir temas específicos para o concurso do ano seguinte, que serão indicados no edital relativo ao mesmo.
+
+3 - O tema «Decifração da escrita indígena das lápides proto-históricas características do Sul de Portugal» estará prioritariamente em concurso, até à decifração das lápides pré-históricas alfabéticas chamadas do Algarve, podendo neste caso, além dos académicos da Academia Portuguesa da História, candidatar-se excepcionalmente ao prémio outros investigadores nacionais e estrangeiros.
+
+4 - Caso venha a ser premiado um dos trabalhos subordinados ao tema referido no número anterior, os restantes trabalhos apresentados nesse ano subordinados a outros temas transitarão para apreciação no ano imediato, no qual haverá atribuição de prémio sem abertura de concurso.
+
+Art. 3.º Se, por resolução do júri, o prémio não for concedido, acrescerá o saldo ao do ano imediato, com arredondamento de contos por diferença desde a data da instituição do Prémio pela Academia.
+
+Art. 4.º - 1 - O instituidor do Prémio, Manuel Aboim Ascensão de Sande Lemos, é membro nato do júri do concurso.
+
+2 - O júri poderá convidar a tomar parte nas suas reuniões, sem direito a voto, uma personalidade estranha à Academia, de reconhecida competência pela sua obra sobre história ou pré-história de Portugal, de preferência e escalonadamente de entre membros da Associação dos Arqueólogos Portugueses, da Sociedade Histórica da Independência de Portugal ou da Casa do Algarve.

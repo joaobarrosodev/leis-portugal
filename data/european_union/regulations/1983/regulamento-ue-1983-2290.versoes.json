@@ -1,0 +1,875 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31983R2290:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01983R2290-20111219",
+ "dre_path": null,
+ "source_lastmod": "2011-12-19",
+ "versions": [
+  {
+   "date": "1983-08-11",
+   "future": false,
+   "celex": "31983R2290",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4f6228f413000f55",
+    "1be4a923d4d1f6e2",
+    "5515cc82c2fe0991",
+    "dd96874f36d4133d",
+    "9bbf6066bd133025",
+    "4ccb971ca6ca34cb",
+    "7bc27010c745ef6b",
+    "c9cc260fa01a07c9",
+    "a5bef8bc5087b9de",
+    "28174e372d17bc50",
+    "5dd184a8d7439282",
+    "6a3cecac774ddffd",
+    "f38e29334e5a4d73",
+    "7d0b27ab6ed4e1fb",
+    "56ed87d6ed47e466",
+    "ed6f48e6650cd437",
+    "0473eab59f63e62c",
+    "4ca3fc20f81e2224",
+    "b16f18d12e253ec9",
+    "8d81aee0e4369fa1",
+    "e195773b2aca6d59",
+    "a292dcc41a26563a",
+    "b7dbd343163da1f3",
+    "05b6f4e5917993c2",
+    "e62e9f366ec4ed7c",
+    "5bf6b19b1d965474",
+    "0c1e933db07b2da8",
+    "4f672f53c965cccb"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01983R2290-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31985R1745:por",
+     "title": "REGULAMENTO (CEE) N.O 1745/85 DA COMISSÃO de 26 de Junho de 1985",
+     "published": null,
+     "celex": "31985R1745"
+    },
+    {
+     "id": "eu:celex:31985R3399:por",
+     "title": "REGULAMENTO (CEE) N.O 3399/85 DA COMISSÃO de 28 de Novembro de 1985",
+     "published": null,
+     "celex": "31985R3399"
+    },
+    {
+     "id": "eu:celex:31988R3893:por",
+     "title": "REGULAMENTO (CEE) N.O 3893/88 DA COMISSÃO de 14 de Dezembro de 1988",
+     "published": null,
+     "celex": "31988R3893"
+    },
+    {
+     "id": "eu:celex:31989R1843:por",
+     "title": "REGULAMENTO (CEE) N.O 1843/89 DA COMISSÃO de 26 de Junho de 1989",
+     "published": null,
+     "celex": "31989R1843"
+    },
+    {
+     "id": "eu:celex:31992R0734:por",
+     "title": "REGULAMENTO (CEE) N.O 734/92 DA COMISSÃO de 25 de Março de 1992",
+     "published": null,
+     "celex": "31992R0734"
+    },
+    {
+     "id": "eu:celex:32006R1792:por",
+     "title": "REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006",
+     "published": null,
+     "celex": "32006R1792"
+    },
+    {
+     "id": null,
+     "title": "A1",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera TÍTULO II",
+    "Altera TÍTULO III",
+    "Altera TÍTULO V",
+    "Adita Artigo 1.º",
+    "Adita TÍTULO I",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita A.",
+    "Adita Obrigações do estabelecimento ou organismo destinatário",
+    "Adita Artigo 2.º",
+    "Adita B.",
+    "Adita Disposições aplicáveis no caso de empréstimo, aluguer ou cessão",
+    "Adita Artigo 3.º",
+    "Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE UM OBJECTO COM CARÁCTER EDUCATIVO; CIENTIFICO OU CULTURAL AO ABRIGO DO ARTIGO 51.º DO REGULAMENTO DE BASE",
+    "Adita Artigo 4.º",
+    "Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE DIREITOS DE INSTRUMENTOS E APARELHOS AO ABRIGO DOS ARTIGOS 52.º E 54.º DO REGULAMENTO DE BASE",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, ELEMENTOS OU ACESSÓRIOS ESPECÍFICOS OU DE FERRAMENTAS AO ABRIGO DO ARTIGO 53.º DO REGULAMENTO DE BASE",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita TÍTULO V A",
+    "Adita NORMAS ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS MÉDICOS AO ABRIGO DOS ARTIGOS 63.ºA E 63.ºB DO REGULAMENTO DE BASE",
+    "Adita Artigo 15.ºA",
+    "Adita Artigo 15.ºC",
+    "Adita Artigo 15.ºD",
+    "Adita Artigo 15.ºE",
+    "Adita TÍTULO VI",
+    "Adita DISPOSIÇÕES RELATIVAS À INFORMAÇÃO DA COMISSÃO E DOS ESTADOS-MEMBROS",
+    "Adita Artigo 16.º",
+    "Adita Artigo 18.º",
+    "Adita TÍTULO VI A",
+    "Adita DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE EQUIPAMENTOS EM CONFORMIDADE COM OS ARTIGOS 59.º A E 59.º B DO REGULAMENTO DE BASE",
+    "Adita Artigo 18.º A",
+    "Adita Artigo 18.º B",
+    "Adita Artigo 18.ºC",
+    "Adita TÍTULO VII",
+    "Adita DISPOSIÇOES FINAIS",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime TÍTULO I — DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime TÍTULO IV — DISPOSIÇOES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS CIENTÍFICOS AO ABRIGO DO ARTIGO 56o DO REGULAMENTO DE BASE",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime TÍTULO VI — DISPOSIÇÕES RELATIVAS À INFORMAÇÃO DA COMISSÃO E DOS ESTADOS-MEMBROS",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime TÍTULO VII — DISPOSIÇOES FINAIS",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o"
+   ],
+   "fragments": [
+    "f443e784fa086e0f",
+    "dd352808c70a0a01",
+    "ffc348f463b781ad",
+    "e17a2adcfbbdd4cc",
+    "35bfd6367ce0d4c6",
+    "3efd46ea8fbbbdd0",
+    "fa1d0eabd43513b5",
+    "aebd514bc5c6b98f",
+    "09c9e8d14719410c",
+    "0d5a1e3f66793f19",
+    "4c8bdeab3d91ec7d",
+    "cf011e8d5c7bda0b",
+    "4e5a3a86240c8c87",
+    "9db704600627e53c",
+    "ad55775697c12c1b",
+    "0be3944cb5220671",
+    "7097bced9075eb05",
+    "3ec546a68ce0b373",
+    "5681900c46a9115d",
+    "4f8efffddfe96470",
+    "5383bd3dc1d1cc6d",
+    "576beeed85f5ef73",
+    "fdfb36cfb99ce4ba",
+    "191bee05aaa4b4e4",
+    "b58ca16c63301927",
+    "3ecad88f13a23e7a",
+    "e85de51de7629b49",
+    "d9d622f55c475f63",
+    "e9143b6cd55e0294",
+    "dbaafee3b2f144ad",
+    "5d07fb8d7ba30d1b",
+    "fd1f6efdb97a73cb",
+    "69ce3b75d81769c2",
+    "c3e7f761d9bbb356",
+    "a7f3c5cd83f618c6",
+    "5c051b5963b419b8",
+    "0acac9eb2d6171f8",
+    "113007316763afe7",
+    "e945a184ee7dea17",
+    "d43619248dc895f9",
+    "b10288b67f8e014f",
+    "a2e7439ea84c02dc",
+    "bcff7f94f74b03eb",
+    "6552776574051e3f",
+    "629e936be202ee90"
+   ]
+  },
+  {
+   "date": "2011-12-19",
+   "future": false,
+   "celex": "01983R2290-20111219",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime TÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime A.",
+    "Suprime Obrigações do estabelecimento ou organismo destinatário",
+    "Suprime Artigo 2.º",
+    "Suprime B.",
+    "Suprime Disposições aplicáveis no caso de empréstimo, aluguer ou cessão",
+    "Suprime Artigo 3.º",
+    "Suprime TÍTULO II",
+    "Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE UM OBJECTO COM CARÁCTER EDUCATIVO; CIENTIFICO OU CULTURAL AO ABRIGO DO ARTIGO 51.º DO REGULAMENTO DE BASE",
+    "Suprime Artigo 4.º",
+    "Suprime TÍTULO III",
+    "Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE DIREITOS DE INSTRUMENTOS E APARELHOS AO ABRIGO DOS ARTIGOS 52.º E 54.º DO REGULAMENTO DE BASE",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime TÍTULO V",
+    "Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, ELEMENTOS OU ACESSÓRIOS ESPECÍFICOS OU DE FERRAMENTAS AO ABRIGO DO ARTIGO 53.º DO REGULAMENTO DE BASE",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime TÍTULO V A",
+    "Suprime NORMAS ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS MÉDICOS AO ABRIGO DOS ARTIGOS 63.ºA E 63.ºB DO REGULAMENTO DE BASE",
+    "Suprime Artigo 15.ºA",
+    "Suprime Artigo 15.ºC",
+    "Suprime Artigo 15.ºD",
+    "Suprime Artigo 15.ºE",
+    "Suprime TÍTULO VI",
+    "Suprime DISPOSIÇÕES RELATIVAS À INFORMAÇÃO DA COMISSÃO E DOS ESTADOS-MEMBROS",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 18.º",
+    "Suprime TÍTULO VI A",
+    "Suprime DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE EQUIPAMENTOS EM CONFORMIDADE COM OS ARTIGOS 59.º A E 59.º B DO REGULAMENTO DE BASE",
+    "Suprime Artigo 18.º A",
+    "Suprime Artigo 18.º B",
+    "Suprime Artigo 18.ºC",
+    "Suprime TÍTULO VII",
+    "Suprime DISPOSIÇOES FINAIS",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "388ce9a39ba3c6ac"
+   ]
+  }
+ ],
+ "fragments": {
+  "4f6228f413000f55": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2290/83 da Comissão, de 29 de Julho de 1983, que fixa as disposições de aplicação dos artigos 50º a 59º do Regulamento (CEE) nº 918/83 do Conselho relativo ao estabelecimento do regime comunitário das franquias aduaneiras** *Jornal Oficial nº L 220 de 11/08/1983 p. 0020 - 0024 Edição especial finlandesa: Capítulo 2 Fascículo 3 p. 0212 Edição especial espanhola: Capítulo 02 Fascículo 10 p. 0055 Edição especial sueca: Capítulo 2 Fascículo 3 p. 0212 Edição especial portuguesa: Capítulo 02 Fascículo 10 p. 0055*\n\nREGULAMENTO (CEE) No 2290/83 DA COMISSÃO de 29 de Julho de 1983 que fixa as disposições de aplicação dos artigos 50o a 59o do Regulamento (CEE) no 918/83 do Conselho relativo ao estabelecimento do regime comunitário das franquias aduaneiras\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) no 918/83 do Conselho, de 28 de Março de 1983, relativo ao estabelecimento do regime comunitário das franquias aduaneiras (1) e, nomeadamente, o seu artigo 143o,\n\nConsiderando que o Regulamento (CEE) no 918/83 substitui, pelos seus artigos 50o a 59o, o Regulamento (CEE) no 1798/75 do Conselho, de 10 de Julho de 1975, relativo à importação com franquia dos direitos da pauta aduaneira comum de objectos de carácter educativo, cientifico ou cultural (2); que é, por consequência, necessário substituir o Regulamento (CEE) no 2784/79 da Comissão, de 12 de Dezembro de 1979, que fixa as disposições de aplicação do Regulamento (CEE) no 1978/75 (3) por um novo regulamento que fixa as disposições de aplicação dos artigos 50o a 59o do Regulamento (CEE) no 918/83;\n\nConsiderando que as medidas previstas no presente regulamento estão conformes com o parecer do Comité de Franquias Aduaneiras,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1be4a923d4d1f6e2": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nO presente regulamento estabelece as disposições de aplicação dos artigos 50o a 59o do Regulamento (CEE) no 918/83, a seguir designado «regulamento de base»."
+  },
+  "5515cc82c2fe0991": {
+   "fragment_id": "TÍTULO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "TÍTULO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — DISPOSIÇÕES GERAIS\n\nA. Obrigações do estabelecimento ou organismo destinatário"
+  },
+  "dd96874f36d4133d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. A admissão com beneficio da franquia dos direitos de importação de objectos de carácter educativo, cientifico ou cultural, referidos no artigo 51o, no no 1 do artigo 52o, no artigo 53o e no artigo 56o do regulamento de base, designados a seguir por «objectos», implica para o estabelecimento ou organismo destinatário a obrigação de:\n\n- expedir directamente os referidos objectos para o local de destino declarado,\n\n- os registar no seu inventario,\n\n- os utilizar exclusivamente para fins não comerciais, na acepção do segundo travessão do artigo 54o do regulamento de base,\n\n- facilitar qualquer controlo que as autoridades competentes considerem útil efectuar para se assegurarem de que as condições da franquia foram observadas e se mantêm.\n\n2. O chefe do estabelecimento ou do organismo destinatário, ou o seu representante habilitado, deve fornecer às autoridades competentes uma declaração de que conste que tomou conhecimento das diferentes obrigações enumeradas no no 1 e que inclua o compromisso de com elas se conformar.\n\nAs autoridades competentes podem prever que a declaração referida no parágrafo precedente seja apresentada, quer para cada importação, quer para várias importações, quer ainda para o conjunto das importações a efectuar pelo estabelecimento ou organismo destinatário.\n\nB. Disposições aplicáveis no caso de empréstimo, aluguer ou cessão"
+  },
+  "9bbf6066bd133025": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Em caso de aplicação do disposto no primeiro parágrafo do no 2 do artigo 57o do regulamento de base, o estabelecimento ou organismo beneficiário do empréstimo, do aluguer ou da cessão de um objecto ficará sujeito, a partir da data da sua recepção, às obrigações referidas no artigo 2o.\n\n2. Quando o estabelecimento ou organismo beneficiário do empréstimo, do aluguer ou da cessão de um objecto estiver situado num Estado-membro diferente daquele onde se encontra o estabelecimento ou organismo que empresta, aluga ou cede, a expedição do referido objecto com destino ao primeiro Estado-membro dará lugar à emissão pela estância aduaneira competente do Estado-membro de partida, a fim de garantir que a esse objecto seja dada uma utilização que confira o direito à manutenção da franquia, de um exemplar de controlo T no 5, segundo as modalidades definidas no Regulamento (CEE) no 223/77. Para esse efeito, o referido exemplar de controlo deve conter na casa 104, na rubrica «outros», uma das seguintes menções:\n\n- «Object en franchise des droits à l'importation (UNESCO).\n\nApplication de l'article 57 paragraphe 2 du règlement (CEE) no 918/83»;\n\n- «Importafgiftsfrit indfoerte varter (UNESCO).\n\nAnvendelse af artikel, stk 2, i forordning (EOEF) nr. 918/83»;\n\n- «Abgabenfreie Ware (UNESCO).\n\nAnwendung von Artikel 57 Absatz 2 der Verordnung (EWG) Nr. 918/83»;\n\n- «Eidi eisagomena atelos apo toys eisagogikoys dasmoys (UNESCO).\n\nEfarmogi toy arfpoy 57 paragrafos 2 deftero edafio toy kanonismoy (EOK) arith. 918/83»;\n\n- «Goods admitted free of import duties (UNESCO).\n\nImplementation of Article 57 (2) of Regulation (EEC) No 918/83»;\n\n- «Oggetto in franchigia dai dazi all'importazione (UNESCO).\n\nApplicazione dell'articolo 57, paragrafo 2, del regolamento (CEE) n. 918/83»;\n\n- «Voorwerp met vrijstelling van rechten bij invoer (UNESCO).\n\nToepassing van artikel 57, lid 2, van Verordening (EEG) nr. 918/83».\n\n3. O disposto nos nos 1 e 2 aplicar-se-á «mutatis mutandis» ao empréstimo, ao aluguer ou à cessão das peças sobresselentes, elementos ou acessórios especificos para instrumentos ou aparelhos cientificos, assim como das ferramentas a utilizar na manutenção, controlo, calibragem ou reparação de instrumentos ou aparelhos cientificos que tenham sido importados com franquia ao abrigo do artigo 53o do regulamento de base."
+  },
+  "4ccb971ca6ca34cb": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II\n\nDISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE UM OBJECTO COM CARÁCTER EDUCATIVO; CIENTIFÍCO OU CULTURAL AO ABRIGO DO ARTIGO 51o DO REGULAMENTO DE BASE"
+  },
+  "7bc27010c745ef6b": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nA fim de obter a admissão com franquia de um objecto ao abrigo do artigo 151o do regulamento de base, o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro onde está situado esse estabelecimento ou organismo.\n\nEste pedido deve ser acompanhado de todos os elementos de informação considerados necessários pela autoridade competente a fim de determinar se estão preenchidas as condições previstas para a concessão da franquia."
+  },
+  "c9cc260fa01a07c9": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III\n\nDISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS CIENTÍFICOS AO ABRIGO DOS ARTIGOS 52o, 54o E 55o DO REGULAMENTO DE BASE"
+  },
+  "a5bef8bc5087b9de": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Para efeitos da aplicação do primeiro travessão do artigo 54o do regulamento de base, consideram-se «caracteristicas técnicas objectivas» de um instrumento ou aparelho cientifico as caracteristicas resultantes da construção do referido instrumento ou aparelho ou das adaptações a que foi submetido em relação a um instrumento ou aparelho de tripo corrente que lhe permitem obter um rendimento de alto nivel que não é requerido para a execução de trabalhos de exploração industrial ou comercial.\n\nQuando, tomando por base as suas caracteristicas técnicas objectivas, não for possivel determinar inequivocamente se um instrumento ou aparelho deve ser considerado um instrumento ou um aparelho cientificio, proceder-se-á ao exame dos fins para os quais são geralmente utilizados na Comunidade os instrumentos ou aparelhos do género daquele para o qual foi pedida a importação com franquia. Se este exame revelar que esse instrumento ou aparelho é utilizado principalmente na realização de actividades cientificas, será considerado como tendo um carácter cientifico.\n\n2. Para se estabelecer a comparação prevista no terceiro travessão do artigo 54o do regulamento de base, só se consideram como «essenciais» as caracteristicas técnicas susceptiveis de terem uma influência determinante no resultado dos trabalhos especificos a efectuar.\n\nAquando dessa comparação, não serão tomadas em consideração, designadamente:\n\n- a concepção técnica de um instrumento ou aparelho,\n\n- o facto de um instrumento ou aparelho poder conseguir um rendimento superior ao que é necessário para a boa execução dos trabalhos especificos a efectuar,\n\n- a apresentação exterior de um instrumento ou aparelho,\n\n- o seu valor comercial,\n\n- a frequência das despesas de conservação a que deve estar sujeito,\n\n- as possibilidades de serviço de assistência pósvenda de que possa beneficiar."
+  },
+  "28174e372d17bc50": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A fim de obter a admissão com franquia de instrumentos ou aparelhos cientificos ao abrigo do disposto no no 1 do artigo 52o do regulamento de base, o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro onde está situado esse estabelecimento ou organismo.\n\n2. O pedido referido no no 1 deve conter as seguintes informações relativas ao instrumento ou aparelho em causa:\n\na) A designação comercial exacta desse instrumento ou aparelho, utilizada pelo fabricante, a sua presumivel classificação na pauta aduaneira comum, assim como as caracteristicas técnicas objectivas que possam justificar o carácter cientifico do instrumento ou aparelho;\n\nb) O nome ou a firma e a morada do fabricante e, se for caso disso, do fornecedor;\n\nc) O pais de origem do instrumento ou aparelho;\n\nd) O local onde o instrumento ou aparelho deve ser utilizado;\n\ne) O uso a que se destina o instrumento ou aparelho;\n\nf) A descrição pormenorizada do projecto para a realização do qual o instrumento ou aparelho deve ser utilizado;\n\ng) O preço desse instrumento ou aparelho ou o seu valor aduaneiro;\n\nh) O prazo de entrega;\n\ni) A data da encomenda do instrumento ou aparelho, se este já tiver sido encomendado;\n\nj) O nome ou a firma e a morada da ou das empresas comunitárias junto das quais foram feitas diligências para o fornecimento de um instrumento ou aparelho de valor cientifico equivalente ao do instrumento ou aparelho para o qual é pedida a franquia, o resultado dessas diligências e as razões pormenorizadas pelas quais um instrumento ou aparelho disponivel na Comunidade não seria apropriado para a realização das actividades cientificas particulares em vista.\n\nAo pedido deve ser junta documentação que forneça todas as informações úteis sobre as caracteristicas e as especificações técnicas do instrumento ou aparelho."
+  },
+  "5dd184a8d7439282": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. A autoridade competente do Estado-membro onde está situado o estabelecimento ou organismo destinatário decidirá directamente sobre o pedido referido no artigo 6o em todos os casos em que os elementos de informação à sua disposição, eventualmente após consulta dos meios económicos interessados, lhe permitam determinar se o instrumento ou aparelho beve ser considerado ou não cientifico e se existem ou não instrumentos ou aparelhos de valor cientifico equivalente que sejam fabricados na Comunidade.\n\n2. Quando a autoridade competente do Estado-membro onde está situado o estabelecimento ou organismo destinatário não estiver em condições de tomar a decisão referida no no 1, o pedido assim como a documentação técnica a ele referente serão transmitidos à Comissão a fim de permitir a esta última dar inicio ao procedimento previsto nos no 3 a no 7.\n\nEnquanto aguarda a conclusão deste procedimento, a autoridade competente pode autorizar a importação do instrumento ou aparelho que motivou o pedido com isenção provisória dos direitos de importação mediante o compromisso por parte do estabelecimento ou organismo destinatário de pagar os direitos no caso da franquia não ser concedida.\n\nA autoridade competente pode subordinar a concessão desta isenção provisória à constituição de uma garantia nas condições pr ela determinadas.\n\n3. Nas duas semanas subsequentes à data de recepção do pedido, a Comissão enviará uma cópia aos Estados-membros acompanhada da documentação respectiva.\n\n4. Se, findo um prazo de três meses a contar da data do envio desta comunicação, nenhum Estado-membro tiver apresentado à Comissão objecções quanto à admissão com franquia do instrumento ou aparelho em causa, considerar-se-á que o referido instrumento ou aparelho obedece às condições requeridas para essa admissão com franquia. A Comissão notificará dessa situação o Estado-membro em causa nas duas semanas seguintes ao termo do prazo fixado. Esta notificação será publicada, no mais curto prazo, eventualmente sob forma abreviada, no Jornal Oficial das Comunidades Europeias, série C.\n\n5. Se no prazo de três meses referido no no 4, um Estado-membro tiver apresentado à Comissão objecções quanto à importação com franquia do instrumento ou aparelho em causa, a Comissão convocará no mais curto prazo um grupo de peritos composto por representantes de todos os Estados-membros, que se reunirá no âmbito do Comité das Franquias Aduaneiras a fim de examinar o caso em questão.\n\nAs objecções referidas no parágrafo precedente devem ser fundamentadas. Consoante o caso, essa fundamentação deve fazer ressaltar as razões pelas quais o referido instrumento ou aparelho não deve ser considerado científico ou indicar o tipo exacto do ou dos instrumentos ou aparelhos fabricados na Comunidade considerados como tendo um valor cientifico equivalente àquele para o qual é pedida a franquia, assim como o nome ou a firma e a morada da ou das empresas comunitárias em condições de os fornecer. Neste último caso, deve enviar-se à Comissão, logo que possivel, a documentação técnica relativa aos instrumentos ou aparelhos fabricados na Comunidade.\n\nA Comissão transmitirá essas informações aos Estados-membros logo que as receber.\n\n6. Quando resultar do exame a que se procedeu em conformidade com o disposto no no 5 que o instrumento ou aparelho para o qual foi pedida a franquia deve ser considerado cientifico e que instrumentos ou aparelhos de valor cientifico equivalente não são fabricados na Comunidade, a Comissão adoptará uma decisão estabelecendo que o instrumento ou aparelho considerado satisfaz as condições requeridas para ser admitido com franquia.\n\nQuando resultar desse exame que o instrumento ou aparelho para o qual foi pedida a franquia não deve ser considerado cientifico, ou que instrumentos ou aparelhos de valor cientifico equivalente são fabricados na Comunidade, a Comissão adoptará uma decisão estabelecendo que o instrumento ou aparelho em causa não satisfaz as condições requeridas para ser admitido com franquia.\n\nA notificação da decisão da Comissão será feita ao Estado-membro em causa num prazo de duas semanas. Esta decisão será publicada, no mais curto prazo, eventualmente sob forma abreviada, no Jornal Oficial das Comunidades Europeias, série C.\n\n7. Se, findo um prazo de seis meses a contar da data de recepção do pedido pela Comissão, esta não adoptar a decisão referida no no 6, o instrumento ou aparelho que motivou esse pedido será considerado como satisfazendo as condições requeridas para ser admitido com franquia."
+  },
+  "6a3cecac774ddffd": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nO prazo de validade das autorizações de admissão com franquia é de seis meses. As autoridades competentes podem, no entanto, fixar um prazo maior, tendo em consideração as circunstâncias especiais de cada operação."
+  },
+  "f38e29334e5a4d73": {
+   "fragment_id": "TÍTULO IV — DISPOSIÇOES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS CIENTÍFICOS AO ABRIGO DO ARTIGO 56o DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "TÍTULO IV — DISPOSIÇOES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS CIENTÍFICOS AO ABRIGO DO ARTIGO 56o DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — DISPOSIÇOES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS CIENTÍFICOS AO ABRIGO DO ARTIGO 56o DO REGULAMENTO DE BASE"
+  },
+  "7d0b27ab6ed4e1fb": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Para obter a admissão com franquia de instrumentos ou aparelhos cientificos ao abrigo do disposto no artigo 56o do regulamento de base, o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro one esta situado esse estabelecimento ou organismo.\n\n2. O pedido referido no no 1 deve conter as indicações referidas no no 2, alineas a) a e), do artigo 6o e ser acompanhado de documentação que forneça todas as informações úteis sobre as caracteristicas e as especificações técnicas do instrumento ou aparelho.\n\nO pedido deve mencionar também:\n\na) O nome ou a firma e a morada do autor da oferta;\n\nb) A declaração do requerente de que os instrumentos ou aparelhos para os quais é pedida a franquia são efectivamente oferecidos ao estabelecimento ou organismo em causa sem qualquer contrapartida comercial, designadamente de natureza publicitária."
+  },
+  "56ed87d6ed47e466": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. A autoridade competente do Estado-membro one esta situado o estabelecimento ou organismo destinatário decidirá directamente sobre o pedido referido no artigo 9o.\n\n2. A autoridade competente apenas autorizará a admissão com franquia de direitos dos instrumentos ou aparelhos em causa, se ficar demonstrado que autor da oferta não retira qualquer vantagem comercial, directa ou indirecta, da sua oferta ao estabelecimento ou organismo destinatário.\n\n3. Quando a autoridade competente do Estado-membro onde está situado o estabelecimento ou organismo destinatário não estiver em condições de apreciar, com base nas informações de que dispõe, se o instrumento ou aparelho para o qual é pedido o beneficio da franquia deve ser considerado ou não cientifico, aplicarse-á o procedimento previsto nos nos 2 a 7o do artigo 7o."
+  },
+  "ed6f48e6650cd437": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nO disposto nos artigos 9o e 10o aplicar-se-á-«mutatis mutandis», às ferramentas para a manutenção, o controlo, a calibragem ou a reparação de instrumentos ou aparelhos cientificos admitidos com franquia ao abrigo do artigo 56o do regulamento de base."
+  },
+  "0473eab59f63e62c": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V\n\nDISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, ELEMENTOS OU ACESSÓRIOS ESPECÍFICOS OU DE FERRAMENTAS AO ABRIGO DO ARTIGO 53o DO REGULAMENTO DE BASE"
+  },
+  "4ca3fc20f81e2224": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nNa acepção da alinea a) do artigo 53o do regulamento de base, consideram-se «acessórios especificos» os artigos especialmente concebidos para serem utilizados com um instrumento ou aparelho cientifico determinado a fim de melhorar o eu rendimento ou as suas possibilidades de utilização."
+  },
+  "b16f18d12e253ec9": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nPara o efeito de obter a admissão com franquia de peças sobresselentes, de elementos ou de acessórios especificos e de ferramentas ao abrigo do artigo 53o do regulamento de base, o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido á autoridade competente do Estado-membro onde está situado esse estabelecimento ou organismo.\n\nEste pedido deve ser acompanhado de todos os elementos de informação considerados necessários pela autoridade competente a fim de determinar se estão preenchidas as condições previstas no artigo 53o do regulamento de base."
+  },
+  "8d81aee0e4369fa1": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\n1. Sem prejuizo do disposto no no 2, a autoridade competente do Estado-membro onde esta situado o estabelecimento ou organismo destinatário decidirá directamente sobre o pedido referido no artigo 13o.\n\n2. O procedimento descrito nos nos 2 a 7 do artigo 7o aplicar-se-à, «mutatis mutandis» quando a autoridade competente do Estado-membro onde está situado o estabelecimento ou organismo destinatário não puder determinar:\n\n- que o instrumento ou aparelho a que se destinam, quer as peças sobresselentes, elementos ou acessórios especificos, quer as ferramentas, que motivaram o pedido referido no artigo 13o, seria susceptivel de beneficiar da franquia se ele próprio fosse nesse momento importado na Comunidade,\n\n- que ferramentas equivalentes àquelas para as quais é pedida a franquia são fabricadas na Comunidade."
+  },
+  "e195773b2aca6d59": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nO disposto no artigo 8o aplica-se às autorizações de admissão com franquia emitidas ao abrigo do artigo 53o do regulamento de base."
+  },
+  "a292dcc41a26563a": {
+   "fragment_id": "TÍTULO VI — DISPOSIÇÕES RELATIVAS À INFORMAÇÃO DA COMISSÃO E DOS ESTADOS-MEMBROS",
+   "type": "divisao",
+   "heading": "TÍTULO VI — DISPOSIÇÕES RELATIVAS À INFORMAÇÃO DA COMISSÃO E DOS ESTADOS-MEMBROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — DISPOSIÇÕES RELATIVAS À INFORMAÇÃO DA COMISSÃO E DOS ESTADOS-MEMBROS"
+  },
+  "b7dbd343163da1f3": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. Cada Estado-membro comunicará à Comissão a lista dos instrumentos, aparelhos, peças sobresselentes, elementos, acessórios e ferramentas cujo preço ou valor aduaneiro é superior a 3 000 ECU e cuja admissão com franquia foi por ele autorizada em conformidade com o disposto no no 1 do artigo 7o ouno no 1 do artigo 14o.\n\nEsta lista incluira a designação comercial exacta dos objectos enumerados no parágrafo precedente assim como a referência à posição ou subposição da pauta aduaneira comum indicada no pedido. Incluirá, além disso, a indicação do ou dos fabricantes, do ou dos paises de origem e do preço ou do valor aduaneiro dos objectos em causa.\n\n2. A comunicação referida no no 1 efectuar-se-à no decurso do primeiro e do terceiro trimestres de cada ano para os objectos em causa que deram lugar a uma autorização de admissão com franquia concedida no decurso do semestre precedente. Todavia, os Estados-membros podem efectuar esta comunicação por periodos mais curtos.\n\n3. A Comissão comunicará as listas a aos Estados-membros."
+  },
+  "05b6f4e5917993c2": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. Cada Estado-membro enviará igualmente à Comissão a lista dos instrumentos e aparelhos cuja admissão com franquia foi por ele autorizada ao abrigo do artigo 10o. Esta lista conterá o nome ou a firma e a morada do fabricante, a designação comercial exacta dos objectos considerados assim como a referência à posição ou subposição da pauta aduaneira comum indicada no pedido de franquia.\n\n2. A comunicação referida no no 1 efectuar-se-à no decurso do primeiro e do terceiro trimestres de cada ano para os objectos em causa que tenham dado lugar a uma autorização de admissão com franquia no decurso do semestre precedente. Todavia, os Estados-membros podem efectuar esta comunicação por periodos mais curtos.\n\n3. A Comissão comunicará as listas aos Estados-membros."
+  },
+  "e62e9f366ec4ed7c": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nAs listas referidas nos artigos 16o e 17o serão objecto de um exame periódico pelo Comité das Franquias Aduaneiras."
+  },
+  "5bf6b19b1d965474": {
+   "fragment_id": "TÍTULO VII — DISPOSIÇOES FINAIS",
+   "type": "divisao",
+   "heading": "TÍTULO VII — DISPOSIÇOES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VII — DISPOSIÇOES FINAIS"
+  },
+  "0c1e933db07b2da8": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nO Regulamento (CEE) no 2784/79 é revogado."
+  },
+  "4f672f53c965cccb": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1984.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 29 de Julho de 1983.\n\nPela Comissão\n\nKarl-Heinz NARJES\n\nMembro de Comissão\n\n(1) JO no L 105 de 23. 4. 1983, p. 1.(2) JO no L 184 de 15. 7. 1975, p. 1.(3) JO no L 318 de 13. 12. 1979, p. 32."
+  },
+  "f443e784fa086e0f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho de 1983\n\nque fixa as normas de execução dos artigos 50.º a 59.º B e dos artigos 63.º A e 63.ºB do Regulamento (CEE) n.º 918/83 do Conselho relativo ao estabelecimento do regime comunitário das franquias aduaneiras\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta o Regulamento (CEE) n.º 918/83 do Conselho, de 28 de Março de 1983, relativo ao estabelecimento do regime comunitário das franquias aduaneiras ([^1^](http://publications.europa.eu/resource/cellar/5b6cc1ed-ff69-425e-bf9b-2d17d7532c80.0017.03/DOC_1#E0001)) e, nomeadamente, o seu artigo 143.º,\n\nConsiderando que o Regulamento (CEE) n.º 918/83 substitui, pelos seus artigos 50.º a 59.º, o Regulamento (CEE) n.º 1798/75 do Conselho, de 10 de Julho de 1975, relativo à importação com franquia dos direitos da pauta aduaneira comum de objectos de carácter educativo, cientifico ou cultural ([^2^](http://publications.europa.eu/resource/cellar/5b6cc1ed-ff69-425e-bf9b-2d17d7532c80.0017.03/DOC_1#E0002)); que é, por consequência, necessário substituir o Regulamento (CEE) n.º 2784/79 da Comissão, de 12 de Dezembro de 1979, que fixa as disposições de aplicação do Regulamento (CEE) n.º 1978/75 ([^3^](http://publications.europa.eu/resource/cellar/5b6cc1ed-ff69-425e-bf9b-2d17d7532c80.0017.03/DOC_1#E0003)) por um novo regulamento que fixa as disposições de aplicação dos artigos 50.º a 59.º do Regulamento (CEE) n.º 918/83;\n\nConsiderando que as medidas previstas no presente regulamento estão conformes com o parecer do Comité de Franquias Aduaneiras,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "dd352808c70a0a01": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento determina as normas de execução dos artigos 50.º a 59.º B, 63.º A e 63.º B do Regulamento (CEE) n.º 918/83, a seguir denominado «regulamento de base»."
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "35bfd6367ce0d4c6": {
+   "fragment_id": "A.",
+   "type": "divisao",
+   "heading": "A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## A."
+  },
+  "3efd46ea8fbbbdd0": {
+   "fragment_id": "Obrigações do estabelecimento ou organismo destinatário",
+   "type": "divisao",
+   "heading": "Obrigações do estabelecimento ou organismo destinatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Obrigações do estabelecimento ou organismo destinatário"
+  },
+  "fa1d0eabd43513b5": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A importação com benefício de franquia de direitos de importação de objectos de carácter educativo, científico ou cultural, referidos no artigo 51.º, no n.º 1 do artigo 52.º e no artigo 53.º do regulamento de base, a seguir designados por «objectos», implica para o estabelecimento ou organismo destinatário a obrigação de:\n\n— expedir directamente os referidos objectos para o local de destino declarado,\n\n— os registar no seu inventário,\n\n— facilitar qualquer controlo que as autoridades competentes considerem útil efectuar, para assegurarem que as condições da franquia foram observadas e se mantêm.\n\nAlém disso, tratando-se de objectos referidos no n.º 1 do artigo 52.º e no artigo 53.º do regulamento de base, a importação implica que o estabelecimento ou o organismo destinatários fiquem obrigados a utilizar os referidos objectos exclusivamente para fins não comerciais, na acepção do segundo travessão do artigo 54.º do regulamento de base.\n\n2. O chefe do estabelecimento ou do organismo destinatário, ou o seu representante habilitado, deve fornecer às autoridades competentes uma declaração de que conste que tomou conhecimento das diferentes obrigações enumeradas no n.º 1 e que inclua o compromisso de com elas se conformar.\n\nAs autoridades competentes podem prever que a declaração referida no parágrafo precedente seja apresentada, quer para cada importação, quer para várias importações, quer ainda para o conjunto das importações a efectuar pelo estabelecimento ou organismo destinatário."
+  },
+  "aebd514bc5c6b98f": {
+   "fragment_id": "B.",
+   "type": "divisao",
+   "heading": "B.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## B."
+  },
+  "09c9e8d14719410c": {
+   "fragment_id": "Disposições aplicáveis no caso de empréstimo, aluguer ou cessão",
+   "type": "divisao",
+   "heading": "Disposições aplicáveis no caso de empréstimo, aluguer ou cessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições aplicáveis no caso de empréstimo, aluguer ou cessão"
+  },
+  "0d5a1e3f66793f19": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Em caso de aplicação do disposto no primeiro parágrafo do n.º 2 do artigo 57.º do regulamento de base, o estabelecimento ou organismo beneficiário do empréstimo, do aluguer ou da cessão de um objecto ficará sujeito, a partir da data da sua recepção, às obrigações referidas no artico 2.º.\n\n2. Quando o estabelecimento ou organismo beneficiário do empréstimo, da locação ou de cessão de um objecto estiverem situados, num Estado-membro diferente daquele onde se encontra o estabelecimento ou organismo que empresta, aluga ou cede, a expedição do referido objecto dá lugar à emissão, pela estância aduaneira competente do Estado-membro de partida a fim de garantir que a esse objecto seja dada uma utilização que confira o direito à manutenção da franquia, de um exemplar de controlo T5, segundo as modalidades definidas no Regulamento (CEE) n.º 2823/87. Para esse efeito, o referido exemplar de controlo deve conter, na casa 104, na rubrica «Outros», uma das seguintes menções:\n\n— «UNESCO-varer: Fortsat fritagelse betinget af overholdelse af artikel 57, stk. 2, første afsnit, i forordning (EØF) nr. 918/83»,\n\n— «UNESCO-Gegenstand: Weitergewährung der Zollbefreiung abhängig von der Voraussetzung des Artikels 57 Absatz 2 erster Unterabsatz der Verordnung (EWG) Nr. 918/83»,\n\n— «Αντικείμενο UNESCO: Διατήρηση της ατέειας εξαρτώμενη από την τήρηση του άρθρου 57 παράγραφος 2 πρώτο εδάφιο του κανονισμού (ΕΟΚ) αριθ. 918/83»,\n\n— «UNESCO goods: continuation of relief subject to compliance with the first subparagraph of Article 57(2) of Regulation (EEC) No 918/83»,\n\n— «Objet UNESCO: maintien de la franchise subordonné au respect de l'article 57 paragraphe 2 premier alinéa du règlement (CEE) n.º 918/83»,\n\n— «Oggetto UNESCO: è mantenuta la franchigia a condizione che venga rispettato l'articolo 57, paragrafo 2, primo comma del regolamento (CEE) n. 918/83»,\n\n— «UNESCO-voorwerp: handhaving van de vrijstelling is afhankelijk van de nakoming van artikel 57, lid 2, eerste alinea van Verordening (EEG) nr. 918/83»,\n\n— «Objeto UNESCO: se mantiene la franquicia subordinada al respeto del artículo 57, apartado 2, primer párrafo, del Reglamento (CEE) n.º 918/83»,\n\n— «Objectos UNESCO: é mantida a franquia desde que seja respeitado o n.º 2, primeiro parágrafo, do artigo 57.º do Regulamento (CEE) n.º 918/83»,\n\n— «UNESCO-tavarat: tullittomuus jatkuu, edellyttäen että asetuksen (ETY) N:o 918/83 57 artiklan 2kohdan 1 alakohdan ehtoja noudatetaan»/«UNESCO-varer: Fritaket opprettholdes forutsatt at artikel 57 nr. 2 første ledd i forordning (EØF) nr. 918/83 overholdes»,\n\n— «UNESCO-varor: Fortsatt tullfrihet under förutsättning att villkoren i artikel 57.2 första stycket i förordning (EEG) nr 918/83 uppfylls»;\n\n— «Zboží UNESCO: zachování osvobození za předpokladu splnění podmínek čl. 57 odst. 2 prvního pododstavce nařízení (EHS) č. 918/83»,\n\n— «UNESCO kaup: impordimaksudest vabastamise jätkamine vastavalt määruse (EMÜ) nr 918/83 artikli 57 (2) esimesele alapunktile»,\n\n— «UNESCO preces: atbrīvojuma turpmāka piemērošana atkarīga no atbilstības Regulas (EEK) Nr. 918/83 57. panta 2. punkta pirmajai daļai»,\n\n— «UNESCO prekės: atleidimo nuo muitų taikymo pratęsimas laikantis Reglamento (EEB) Nr. 918/83 57 straipsnio 2 dalies pirmosios pastraipos nuostatų»,\n\n— «UNESCO áruk: a vámmentesség fenntartása a 918/83/EGK rendelet 57. cikkének (2) bekezdésében foglalt feltételek teljesítése esetén»,\n\n— «Oġġetti tal-UNESCO: tkomplija ta' ħelsien mid-dazju suġġetta għal osservanza ta' l-ewwel subparagrafu ta' l-Artikolu 57 (2) tar-Regolament (KEE) Nru 918/83»,\n\n— «Towary UNESCO: kontynuacja zwolnienia z zastrzeżeniem zachowania warunków określonych w art. 57 ust. 2 akapit pierwszy rozporządzenia (EWG) nr 918/83»,\n\n— «Blago oproščeno plačila uvoznih dajatev (UNESCO). Izvajanje člena 57(2) uredbe (EGS) št. 918/83»,\n\n— «Tovar UNESCO: naďalej oslobodený, pokiaľ spĺňa podmienky ustanovené v článku 57 odseku 2 prvom pododseku nariadenia (EHS) č. 918/83»,\n\n— «стоки на ЮНЕСКО: продължаването на митническите облекчения е съобразно условията на член 57, параграф 2, първа алинея на Регламент (ЕИО) № 918/83»,\n\n— «articole UNESCO: menținerea scutirii este condiționată de respectarea prevederilor Articolului 57(2) primul paragraf din Regulamentul (CEE) Nr.918/83».\n\n3. O disposto nos n.^os^1 e 2 aplicar-se-á «mutatis mutandis» ao empréstimo, ao aluguer ou à cessão das peças sobresselentes, elementos ou acessórios específicos para instrumentos ou aparelhos cientificos, assim como das ferramentas a utilizar na manutenção, controlo, calibragem ou reparação de instrumentos ou aparelhos cientificos que tenham sido importados com franquia ao abrigo do artigo 53.º do regulamento de base."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "cf011e8d5c7bda0b": {
+   "fragment_id": "DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE UM OBJECTO COM CARÁCTER EDUCATIVO; CIENTIFICO OU CULTURAL AO ABRIGO DO ARTIGO 51.º DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE UM OBJECTO COM CARÁCTER EDUCATIVO; CIENTIFICO OU CULTURAL AO ABRIGO DO ARTIGO 51.º DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE UM OBJECTO COM CARÁCTER EDUCATIVO; CIENTIFICO OU CULTURAL AO ABRIGO DO ARTIGO 51.º DO REGULAMENTO DE BASE"
+  },
+  "4e5a3a86240c8c87": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA fim de obter a admissão com franquia de um objecto ao abrigo do artigo 151.º do regulamento de base, o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro onde está situado esse estabelecimento ou organismo.\n\nEste pedido deve ser acompanhado de todos os elementos de informação considerados necessários pela autoridade competente a fim de determinar se estão preenchidas as condições previstas para a concessão da franquia."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "ad55775697c12c1b": {
+   "fragment_id": "DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE DIREITOS DE INSTRUMENTOS E APARELHOS AO ABRIGO DOS ARTIGOS 52.º E 54.º DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE DIREITOS DE INSTRUMENTOS E APARELHOS AO ABRIGO DOS ARTIGOS 52.º E 54.º DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE DIREITOS DE INSTRUMENTOS E APARELHOS AO ABRIGO DOS ARTIGOS 52.º E 54.º DO REGULAMENTO DE BASE"
+  },
+  "0be3944cb5220671": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPara efeitos de aplicação do primeiro travessão do artigo 54.º do regulamento de base, consideram-se «características técnicas objectivas» de um instrumento ou aparelho científico as características resultantes da construção do referido instrumento ou aparelho ou das adaptações a que foi submetido um instrumento ou aparelho de tipo corrente, que lhe permitem obter um rendimento de alto nível superior ao que é requerido normalmente para a execução de trabalhos de carácter industrial ou comercial.\n\nQuando, com base nas suas características técnicas objectivas, não for possível determinar sem ambiguidade se o instrumento ou aparelho deve ser considerado um aparelho ou um instrumento científico proceder-se-á ao exame da utilização a que se destina o instrumento ou aparelho para o qual foi pedida a importação com franquia. Se este exame revelar que esse instrumento ou aparelho é utilizado na realização de actividades científicas, será considerado como tendo um carácter científico."
+  },
+  "7097bced9075eb05": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. A fim de obter a admissão com franquia de instrumentos ou aparelhos cientificos ao abrigo do disposto no n.º 1 do artigo 52.º do regulamento de base, o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido à autoridade competente do Estado-membro onde está situado esse estabelecimento ou organsimo.\n\n2. O pedido referido no n.º 1 deve conter as seguintes informações relativas ao instrumento ou aparelho em causa:\n\na) A designação comercial exacta desse instrumento ou aparelho, utilizada pelo fabricante, a sua presumível classificação na Nomenclatura Combinada, assim como as características técnicas objectivas que possam justificar o carácter científico do instrumento ou aparelho;\n\nb) O nome ou a firma e a morada do fabricante e, se for caso disso, do fornecedor;\n\nc) O país de origem do instrumento ou aparelho;\n\nd) O local onde o instrumento ou aparelho deve ser utilizado;\n\ne) O uso preciso a que se destina o instrumento ou aparelho;\n\nf) O preço desse instrumento ou aparelho ou o seu valor aduaneiro;\n\ng) O número de exemplares do mesmo instrumento ou aparelho.\n\nAo pedido deve ser junta documentação que forneça todas as informações úteis sobre as características e as especificações técnicas do instrumento ou aparelho."
+  },
+  "3ec546a68ce0b373": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA autoridade competente do Estado-membro onde está situado o estabelecimento ou organismo destinatário decidirá directamente sobre os pedidos referidos no artigo 6.º em todos os casos."
+  },
+  "5681900c46a9115d": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO prazo de validade das autorizações de admissão com franquia é de seis meses. As autoridades competentes podem, no entanto, fixar um prazo maior, tendo em consideração as circunstâncias especiais de cada operação."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "5383bd3dc1d1cc6d": {
+   "fragment_id": "DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, ELEMENTOS OU ACESSÓRIOS ESPECÍFICOS OU DE FERRAMENTAS AO ABRIGO DO ARTIGO 53.º DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, ELEMENTOS OU ACESSÓRIOS ESPECÍFICOS OU DE FERRAMENTAS AO ABRIGO DO ARTIGO 53.º DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE PEÇAS SOBRESSELENTES, ELEMENTOS OU ACESSÓRIOS ESPECÍFICOS OU DE FERRAMENTAS AO ABRIGO DO ARTIGO 53.º DO REGULAMENTO DE BASE"
+  },
+  "576beeed85f5ef73": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nNa acepção da alinea a) do artigo 53.º do regulamento de base, consideram-se «acessórios especificos» os artigos especialmente concebidos para serem utilizados com um instrumento ou aparelho cientifico determinado a fim de melhorar o eu rendimento ou as suas possibilidades de utilização."
+  },
+  "fdfb36cfb99ce4ba": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nPara o efeito de obter a admissão com franquia de peças sobresselentes, de elementos ou de acessórios especificos e de ferramentas ao abrigo do artigo 53.º do regulamento de base, o chefe do estabelecimento ou organismo destinatário, ou o seu representante habilitado, deve formular o pedido á autoridade competente do Estado-membro onde está situado esse estabelecimento ou organismo.\n\nEste pedido deve ser acompanhado de todos os elementos de informação considerados necessários pela autoridade competente a fim de determinar se estão preenchidas as condições previstas no artigo 53.º do regulamento de base."
+  },
+  "191bee05aaa4b4e4": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA autoridade competente do Estado-membro onde está situado o estabelecimento ou organismo destinatário decidirá directamente sobre o pedido referido no artigo 13.º"
+  },
+  "b58ca16c63301927": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO disposto no artigo 8.º aplica-se às autorizações de admissão com franquia emitidas ao abrigo do artigo 53.º do regulamento de base."
+  },
+  "3ecad88f13a23e7a": {
+   "fragment_id": "TÍTULO V A",
+   "type": "divisao",
+   "heading": "TÍTULO V A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V A"
+  },
+  "e85de51de7629b49": {
+   "fragment_id": "NORMAS ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS MÉDICOS AO ABRIGO DOS ARTIGOS 63.ºA E 63.ºB DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "NORMAS ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS MÉDICOS AO ABRIGO DOS ARTIGOS 63.ºA E 63.ºB DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NORMAS ESPECIAIS RELATIVAS À ADMISSÃO COM FRANQUIA DE INSTRUMENTOS OU APARELHOS MÉDICOS AO ABRIGO DOS ARTIGOS 63.ºA E 63.ºB DO REGULAMENTO DE BASE"
+  },
+  "d9d622f55c475f63": {
+   "fragment_id": "Artigo 15.ºA",
+   "type": "artigo",
+   "heading": "Artigo 15.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.ºA\n\n1. Para efeitos de obtenção da admissão com franquia de instrumentos ou aparelhos ao abrigo dos artigos 63.ºA e 63.ºB do regulamento de base, o responsável do estabelecimento ou do organismo destinatário, ou o seu representante habilitado, dere formular o pedido à autoridade competente do Estado-membro em que se situa esse estabelecimento ou organismo.\n\n2. O pedido referido no n.º 1 deve conter as informações seguintes, relativas ao instrumento ou aparelho considerado:\n\na) A designação comercial exacta desse instrumento ou aparelho utilizada pelo fabricante e a sua presumível classificação na Nomenclatura Combinada;\n\nb) O nome ou a firma e o endereço do fabricante e, se for caso disso, do fornecedor;\n\nc) O país de origem do instrumento ou do aparelho;\n\nd) O local onde o instrumento ou aparelho deve ser utilizado;\n\ne) A utilização a que se destina o instrumento ou aparelho.\n\n3. Caso se trate de um donativo, o pedido deve, além disso, conter:\n\na) O nome ou a firma e o endereço do doador;\n\nb) Uma declaração do requerente que certifique que:\n\n— o donativo dos instrumentos ou aparelhos considerados não dissimula qualquer intenção de carácter comercial por parte do doador e que\n\n— o doador não tem qualquer vínculo ao fabricante dos instrumentos ou aparelhos em relação aos quais é apresentado o pedido de franquia."
+  },
+  "e9143b6cd55e0294": {
+   "fragment_id": "Artigo 15.ºC",
+   "type": "artigo",
+   "heading": "Artigo 15.ºC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.ºC\n\nA autoridade competente do Estado-membro onde está situado o estabelecimento ou organismo destinatário decidirá directamente sobre os pedidos em todos os casos."
+  },
+  "dbaafee3b2f144ad": {
+   "fragment_id": "Artigo 15.ºD",
+   "type": "artigo",
+   "heading": "Artigo 15.ºD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.ºD\n\nO disposto nos artigos 15.ºA e 15.ºC aplica-se *mutatis mutandis* às peças sobressalentes, elementos, acessórios específicos e ferramentas destinados a ser utilizados na manutenção, controlo, calibragem ou reparação de instrumentos ou de aparelhos importados com franquia de direitos nos termos do n.º 2, alíneas a) e b), do artigo 63.ºA do regulamento de base."
+  },
+  "5d07fb8d7ba30d1b": {
+   "fragment_id": "Artigo 15.ºE",
+   "type": "artigo",
+   "heading": "Artigo 15.ºE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.ºE\n\nO disposto no artigo 8.º é aplicável, *mutatis mutandis*."
+  },
+  "fd1f6efdb97a73cb": {
+   "fragment_id": "TÍTULO VI",
+   "type": "divisao",
+   "heading": "TÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI"
+  },
+  "69ce3b75d81769c2": {
+   "fragment_id": "DISPOSIÇÕES RELATIVAS À INFORMAÇÃO DA COMISSÃO E DOS ESTADOS-MEMBROS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES RELATIVAS À INFORMAÇÃO DA COMISSÃO E DOS ESTADOS-MEMBROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES RELATIVAS À INFORMAÇÃO DA COMISSÃO E DOS ESTADOS-MEMBROS"
+  },
+  "c3e7f761d9bbb356": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Cada Estado-membro comunicará à Comissão a lista dos instrumentos, aparelhos, peças sobressalentes, elementos, acessórios e instrumentos cujo preço ou valor aduaneiro seja superior a 5 000 ecus e cuja importação com franquia de direitos tenha ou não autorizado em conformidade com o disposto nos artigos 7.º, 14.º e 15.ºC.\n\nEsta lista incluirá a designação comercial exacta dos objectos enumerados no parágrafo precedente, assim como o código de oito dígitos da Nomenclatura Combinada. Incluirá, além disso, o nome do(s) produtor(es), o(s) país(es) de origem e o preço ou o valor aduaneiro dos produtos em causa.\n\n2. As listas referidas devem ser comunicadas no decurso do primeiro e do terceiro trimestres de cada ano e devem conter indicações sobre os objectos cuja importação com franquia de direitos tenha sido autorizada ou recusada durante o semestre precedente.\n\n3. A Comissão comunicará as listas aos outros Estados-membros."
+  },
+  "a7f3c5cd83f618c6": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nPara efeitos de aplicação uniforme das disposições comunitárias, as listas referidas no artigo 16.º serão objecto dum exame periódico pelo Comité das franquias aduaneiras."
+  },
+  "5c051b5963b419b8": {
+   "fragment_id": "TÍTULO VI A",
+   "type": "divisao",
+   "heading": "TÍTULO VI A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI A"
+  },
+  "0acac9eb2d6171f8": {
+   "fragment_id": "DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE EQUIPAMENTOS EM CONFORMIDADE COM OS ARTIGOS 59.º A E 59.º B DO REGULAMENTO DE BASE",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE EQUIPAMENTOS EM CONFORMIDADE COM OS ARTIGOS 59.º A E 59.º B DO REGULAMENTO DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES ESPECIAIS RELATIVAS À IMPORTAÇÃO COM FRANQUIA DE EQUIPAMENTOS EM CONFORMIDADE COM OS ARTIGOS 59.º A E 59.º B DO REGULAMENTO DE BASE"
+  },
+  "113007316763afe7": {
+   "fragment_id": "Artigo 18.º A",
+   "type": "artigo",
+   "heading": "Artigo 18.º A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º A\n\n1. Para feitos de obtenção da importação com franquia de equipamentos em conformidade com as disposições dos artigos 59.º e 59.º B do regulamento de base, o chefe do estabelecimento ou do organismo de investigação científica com sede no exterior da Comunidade ou o seu representante habilitado, deve formular o respectivo pedido junto da autoridade competente do Estado-membro onde está situado o estabelecimento ou organismo de investigação científica com sede na Comunidade.\n\n2. O pedido referido no n.º 1 deve conter as seguintes informações relativas aos equipamentos considerados:\n\na) Cópia do acordo de cooperação científica concluído entre os estabelecimentos de investigação situados na Comunidade e em países terceiros;\n\nb) A designação comercial precisa desses equipamentos, bem como a sua quantidade e valor e, sendo caso disso, a sua presumível classificação na Nomenclatura Combinada;\n\nc) O país de origem e de procedência dos equipamentos;\n\nd) O local onde os equipamentos devem ser utilizados;\n\ne) A utilização que é dada aos equipamentos e o período da sua utilização."
+  },
+  "e945a184ee7dea17": {
+   "fragment_id": "Artigo 18.º B",
+   "type": "artigo",
+   "heading": "Artigo 18.º B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º B\n\n1. Quando for submetido à autoridade competente de um Estado-membro onde está situado o estabelecimento ou organismo com sede na Comunidade um pedido de importação com franquia dos equipamentos definidos no artigo 59.º A, o pedido, bem como os respectivos elementos de informação, será transmitido à Comissão, com vista a permitir, antes da decisão a tomar pela referida autoridade competente, um exame no âmbito do Comité das Franquias Aduaneiras.\n\nTendo em vista esse exame, serão fornecidas à Comissão, a seu pedido, informações complementares.\n\n2. A autoridade competente referida no n.º 1 informará a Comissão da decisão que tomou quanto ao pedido de importação com franquia."
+  },
+  "d43619248dc895f9": {
+   "fragment_id": "Artigo 18.ºC",
+   "type": "artigo",
+   "heading": "Artigo 18.ºC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.ºC\n\nÉ aplicável *mutatis mutandis* o disposto no artigo 8.º"
+  },
+  "b10288b67f8e014f": {
+   "fragment_id": "TÍTULO VII",
+   "type": "divisao",
+   "heading": "TÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VII"
+  },
+  "a2e7439ea84c02dc": {
+   "fragment_id": "DISPOSIÇOES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇOES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇOES FINAIS"
+  },
+  "bcff7f94f74b03eb": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO Regulamento (CEE) n.º 2784/79 é revogado."
+  },
+  "6552776574051e3f": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1984.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "629e936be202ee90": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5b6cc1ed-ff69-425e-bf9b-2d17d7532c80.0017.03/DOC_1#src.E0001)) JO n.º L 105 de 23. 4. 1983, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5b6cc1ed-ff69-425e-bf9b-2d17d7532c80.0017.03/DOC_1#src.E0002)) JO n.º L 184 de 15. 7. 1975, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5b6cc1ed-ff69-425e-bf9b-2d17d7532c80.0017.03/DOC_1#src.E0003)) JO n.º L 318 de 13. 12. 1979, p. 32."
+  },
+  "388ce9a39ba3c6ac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1983R2290 — PT — 19.12.2011 — 009.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31983R2290) [REGULAMENTO (CEE) N.º 2290/83 DA COMISSÃO](http://publications.europa.eu/resource/celex/31983R2290) [de 29 de Julho de 1983](http://publications.europa.eu/resource/celex/31983R2290) [que fixa as normas de execução dos artigos 50.º a 59.º B e dos artigos 63.º A e 63.ºB do Regulamento (CEE) n.º 918/83 do Conselho relativo ao estabelecimento do regime comunitário das franquias aduaneiras](http://publications.europa.eu/resource/celex/31983R2290) (JO L 220, 11.8.1983, p.20)\n\n**revogado por:**\n\n- [Regulamento de Execução (UE) n.o 1225/2011 da Comissão de 28 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1225) — L 314 — 20 — 29.11.2011"
+  }
+ }
+}

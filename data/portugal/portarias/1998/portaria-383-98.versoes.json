@@ -1,0 +1,380 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489057:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1998-1027770619",
+ "dre_path": "/dr/detalhe/portaria/383-1998-489057",
+ "source_lastmod": "2026-03-09",
+ "versions": [
+  {
+   "date": "1999-03-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151293:por",
+     "title": "Portaria n.º 151/99",
+     "published": "1999-03-04",
+     "dre_path": "/dr/detalhe/portaria/151-1999-151293"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "1027810275",
+    "1027810475",
+    "1027810675",
+    "1027810875",
+    "1027811075",
+    "1027811275",
+    "1068975875",
+    "1068976075",
+    "1027811875",
+    "1068976275",
+    "1027812275",
+    "1027812475",
+    "1027812675",
+    "1068976475",
+    "1027813075",
+    "1027813275"
+   ]
+  },
+  {
+   "date": "2026-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:387653:por",
+     "title": "Portaria n.º 215/2001",
+     "published": "2001-03-16",
+     "dre_path": "/dr/detalhe/portaria/215-2001-387653"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1069893675",
+    "1069893875",
+    "1069893975",
+    "1069894075",
+    "1069894175",
+    "1069894275",
+    "1069894375",
+    "1069894475",
+    "1069894575",
+    "1069894675",
+    "1069894775",
+    "1069894875",
+    "1069894975",
+    "1069895075",
+    "1069895175",
+    "1069895275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1027810275": {
+   "fragment_id": "1027810175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Decreto-Lei n.º 150/94, de 25 de Maio, foi aprovado o Programa de Apoio à Modernização Agrícola e Florestal (PAMAF), que inclui, entre outras, medidas de apoio às organizações de produtores.\n\nPor outro lado, o artigo 14.º do Regulamento (CE) n.º 2200/96, do Conselho, de 28 de Outubro, prevê que os novos agrupamentos de produtores ou os agrupamentos não reconhecidos ao abrigo do Regulamento (CEE) n.º 1035/72, do Conselho, de 18 de Maio, com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1363/95, da Comissão, possam beneficiar de um período transitório de cinco anos, no máximo, para satisfazer as condições de reconhecimento fixadas no artigo 11.º do Regulamento (CE) n.º 2200/96.\n\nTendo em conta o Regulamento (CE) n.º 478/97, da Comissão, de 14 de Março, que estabelece as condições de concessão de pré-reconhecimento aos referidos agrupamentos de produtores, e o disposto no Regulamento (CE) n.º 20/98, da Comissão, de 7 de Janeiro, que estabelece as regras de execução, no que respeita às ajudas aos agrupamentos de produtores pré-reconhecidos:\n\nAssim, ao abrigo do disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 150/94, de 25 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o regulamento de aplicação do regime de ajudas destinadas a incentivar a constituição e facilitar o funcionamento administrativo a conceder aos agrupamentos de produtores pré-reconhecidos ao abrigo dos Regulamentos (CE) n.os 2200/96, do Conselho, de 28 de Outubro, e 20/98, da Comissão, de 7 de Janeiro, em anexo ao presente diploma e do qual faz parte integrante.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "1027810475": {
+   "fragment_id": "1027810375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 5 de Junho de 1998.\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva."
+  },
+  "1027810675": {
+   "fragment_id": "1027810575",
+   "type": 14,
+   "heading": "Anexo — Regulamento de Aplicação do Regime de Ajudas a Conceder aos Agrupamentos de Produtores Pré-Reconhecidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento de Aplicação do Regime de Ajudas a Conceder aos Agrupamentos de Produtores Pré-Reconhecidos"
+  },
+  "1027810875": {
+   "fragment_id": "1027810775",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma estabelece o regime da ajuda, referida na alínea a) do n.º 2 do artigo 14.º do Regulamento (CE) n.º 2200/96, destinada a incentivar a constituição e facilitar o funcionamento administrativo dos agrupamentos de produtores pré-reconhecidos."
+  },
+  "1027811075": {
+   "fragment_id": "1027810975",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente diploma, e de acordo com o disposto no n.º 2 do artigo 1.º do Regulamento (CE) n.º 20/98, entende-se por:\n\na) Agrupamento de produtores pré-reconhecido - um novo agrupamento de produtores ou um agrupamento não reconhecido ao abrigo do Regulamento (CEE) n.º 1035/72 antes da entrada em vigor do Regulamento (CE) n.º 2200/96, ao qual o Estado membro tenha concedido o pré-reconhecimento em conformidade com o Regulamento n.º 478/97;\n\nb) Produtores - os produtores referidos no n.º 2 do artigo 1.º do Regulamento (CE) n.º 412/97, da Comissão;\n\nc) Produção comercializada - a produção dos membros de um agrupamento de produtores relativa à categoria de produtos a título da qual foi concedido pré-reconhecimento:\n\nEntregue ao agrupamento de produtores em causa e efectivamente vendida por intermédio deste, no estado fresco ou transformado;\n\nVendida em conformidade com o n.º 1, 2.º e 3.º travessões do ponto 3) da alínea c), do artigo 11.º do Regulamento (CE) n.º 2200/96, após autorização do agrupamento;\n\nVendida directamente pelos seus membros nas condições previstas no n.º 1, 1.º e 4.º travessões do ponto 3) da alínea c), do artigo 11.º do Regulamento (CE) n.º 2200/96;\n\nA produção comercializada não inclui a produção dos membros de outras organizações ou agrupamentos de produtores comercializada por intermédio do agrupamento de produtores em causa em conformidade com o n.º 1, 2.º e 3.º travessões do ponto 3) da alínea c), do artigo 11.º do Regulamento (CE) n.º 2200/96;\n\nd) Valor da produção comercializada - o valor da produção considerada no estádio «saída do agrupamento de produtores» e, se for caso disso, «produto embalado ou preparado não transformado»."
+  },
+  "1027811275": {
+   "fragment_id": "1027811175",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Podem beneficiar, ou continuar a beneficiar, da ajuda referida no artigo 1.º, nos termos do artigo 6.º do Regulamento (CE) n.º 20/98, os agrupamentos de produtores pré-reconhecidos ao abrigo do Regulamento (CE) n.º 478/97 que resultem da fusão de um agrupamento de produtores pré-reconhecidos ao abrigo do Regulamento (CE) n.º 478/97 e de:\n\na) Um ou vários agrupamentos de produtores pré-reconhecidos ao abrigo do Regulamento (CE) n.º 478/97; e ou\n\nb) Uma ou várias organizações de produtores reconhecidas ao abrigo do Regulamento (CEE) n.º 1035/72; e ou\n\nc) Uma ou várias organizações de produtores reconhecidas em conformidade com o artigo 11.º do Regulamento (CE) n.º 2200/96.\n\n2 - Para o cálculo do montante da ajuda referida no número anterior, o agrupamento de produtores resultante da fusão substitui-se aos seus constituintes."
+  },
+  "1068975875": {
+   "fragment_id": "1027811375",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1999-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+   ],
+   "markdown": "###### Artigo 4.º\n\nA ajuda, nos termos do disposto no n.º 1 do artigo 2.º do Regulamento (CE) n.º 20/98, é concedida nos cinco anos consecutivos seguintes à data do pré-reconhecimento, sob a forma de uma ajuda forfetária, e o seu montante determinado, para cada agrupamento de produtores, com base no valor da sua produção anual comercializada, é:\n\na) Igual, respectivamente a título do 1.º, 2.º, 3.º, 4.º e 5.º anos, a 5%, 5%, 4%, 3% e 2% da produção comercializada, até ao limite de 1000000 de ecus dessa produção; e\n\nb) Igual, respectivamente a título do 1.º, 2.º, 3.º, 4.º e 5.º anos, a 2,5%, 2,5%, 2%, 1,5% e 1,5% de qualquer valor que exceda 1000000 de ecus de produção comercializada;\n\nc) Limitado a um máximo, por agrupamento de produtores, de:\n\n100000 ECU, no 1.º ano;\n\n100000 ECU, no 2.º ano;\n\n80000 ECU, no 3.º ano;\n\n60000 ECU, no 4.º ano;\n\n50000 ECU, no 5.º ano;\n\nd) Pago em fracções anuais durante, no máximo, um período de sete anos consecutivos à data do pré-reconhecimento, sendo os anos contados a partir de 1 de Janeiro do ano seguinte ao da concessão do pré-reconhecimento.\n\n> Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+  },
+  "1068976075": {
+   "fragment_id": "1027811575",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1999-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Em derrogação ao disposto no artigo anterior, as ajudas serão concedidas em cinco prestações anuais consecutivas, durante os sete anos seguintes à data do pré-reconhecimento, no montante máximo de 10%, 10%, 8%, 6% e 4% do valor da produção comercializada proveniente das explorações dos produtores membros a que as ajudas dizem respeito, respectivamente nos 1.º, 2.º, 3.º, 4.º e 5.º anos, desde que se demonstre que da aplicação do artigo anterior resulta uma ajuda inferior.\n\n2 - Para os efeitos previstos no número anterior, são consideradas despesas elegíveis as estabelecidas no anexo ao presente Regulamento.\n\n3 - As ajudas não podem exceder as despesas reais de constituição e de funcionamento.\n\n> Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+  },
+  "1027811875": {
+   "fragment_id": "1027811775",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - A concessão do reconhecimento põe termo à atribuição das ajudas referidas no artigo 1.º\n\n2 - Para os efeitos previstos no número anterior, o Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) deve comunicar ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) a concessão do reconhecimento ao agrupamento."
+  },
+  "1068976275": {
+   "fragment_id": "1027811975",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1999-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - O processo de candidatura às ajudas previstas neste Regulamento inicia-se com a apresentação junto do IFADAP de um formulário de candidatura de acordo com modelo a distribuir por aquele organismo e pelas direcções regionais de agricultura (DRA), acompanhado de todos os elementos indicados nas respectivas instruções.\n\n2 - O formulário referido no número anterior deverá ser entregue no IFADAP durante os três meses posteriores à data de conclusão do período da ajuda, após terem sido realizadas as despesas ou contabilizado o valor da produção, devendo os respectivos documentos de despesa ser validados pelo IFADAP.\n\n3 - Quando, após a entrega do processo de candidatura, se verifique qualquer falta ou insuficiência na instrução do processo, o candidato será notificado para suprir essa falta ou corrigir a insuficiência no prazo de 15 dias úteis.\n\n> Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+  },
+  "1027812275": {
+   "fragment_id": "1027812175",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs candidaturas apresentadas são objecto de análise e deliberação pelo IFADAP, na sua qualidade de unidade de gestão da componente «Organização e agrupamento de produtores», no prazo de 60 dias a contar da data da sua recepção."
+  },
+  "1027812475": {
+   "fragment_id": "1027812375",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA concessão das ajudas é feita mediante contratos a celebrar entre o IFADAP e os candidatos no prazo de 30 dias a contar da data de aprovação da candidatura."
+  },
+  "1027812675": {
+   "fragment_id": "1027812575",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais, podendo haver lugar à concessão de adiantamentos, nos termos do disposto no artigo seguinte."
+  },
+  "1068976475": {
+   "fragment_id": "1027812775",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1999-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+   ],
+   "markdown": "###### Artigo 11.º\n\n1 - A concessão de adiantamentos fica sujeita à constituição de garantia bancária.\n\n2 - As candidaturas ao regime de adiantamentos deverão ser apresentadas durante os três meses que antecedem a data de início do período de ajuda a que dizem respeito.\n\n3 - Quando, após a entrega do processo de candidatura, se verifique qualquer falta ou insuficiência na instrução do processo, o candidato será notificado para suprir essa falta ou corrigir a insuficiência no prazo de 15 dias úteis.\n\n4 - Os adiantamentos serão processados em duas tranches anuais, cada uma no valor máximo de 40% da ajuda prevista para o exercício. O pagamento da 2.ª tranche fica condicionado à apresentação de comprovativos no valor de 100% do valor da 1.ª tranche.\n\n5 - O pagamento dos últimos 20% do montante da ajuda só será processado após comprovação da realização da totalidade das despesas e contabilizado o valor da produção do período da ajuda a que diz respeito.\n\n> Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+  },
+  "1027813075": {
+   "fragment_id": "1027812975",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nEm caso de insuficiência de natureza financeira, e por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o montante das ajudas poderá ser modelado ou limitado às dotações orçamentais previstas para este efeito."
+  },
+  "1027813275": {
+   "fragment_id": "1027813175",
+   "type": 14,
+   "heading": "Anexo A QUE SE REFERE O ARTIGO 5.º DO REGULAMENTO DE APLICAÇÃO DO REGIME DE AJUDAS A CONCEDER AOS AGRUPAMENTOS DE PRODUTORES PRÉ-RECONHECIDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo A QUE SE REFERE O ARTIGO 5.º DO REGULAMENTO DE APLICAÇÃO DO REGIME DE AJUDAS A CONCEDER AOS AGRUPAMENTOS DE PRODUTORES PRÉ-RECONHECIDOS\n\nA - Despesas elegíveis do grupo A (trabalhos preparatórios da constituição, bem como elaboração da acta de constituição e estatutos e suas alterações). - No 1.º ano de candidatura são elegíveis no âmbito deste grupo as despesas reais havidas com:\n\nO acto de constituição;\n\nA elaboração de estatutos e demais despesas de constituição, designadamente honorários de serviços jurídicos e demais despesas de constituição e reconhecimento.\n\nA partir do 2.º ano de candidatura serão elegíveis as despesas com eventuais alterações de estatutos.\n\nB - Despesas do grupo B [controlo de observância das regras estabelecidas no Regulamento (CE) n.º 2200/96]. - São elegíveis as despesas de controlo feito por técnicos especializados do cumprimento das regras de produção e comercialização destinadas a melhorar a qualidade dos produtos e adaptar o volume da oferta às exigências do mercado, tendo, designadamente, em conta o respectivo programa de acção. Estes controlos podem ser efectuados nas explorações ou nas instalações do agrupamento.\n\nNão são elegíveis os gastos com mão-de-obra para a realização das actividades, mas apenas os gastos de controlo com a verificação e certificação da realização dessas mesmas actividades.\n\nB.1 - Controlo efectuado por técnicos qualificados dos próprios quadros do agrupamento. - São elegíveis as despesas com pessoal (salários e encargos sociais) até um máximo de 5000000$00 por ano e por técnico qualificado.\n\nB.2 - Controlo efectuado por terceiros. - São elegíveis as despesas como honorários e fornecimento de trabalhos especializados até um máximo de 6000000$00 por ano e por técnico ou por entidade qualificada.\n\nConsideram-se como especializados os trabalhos de consultadoria técnica, desde que não exista pessoal nos quadros do agrupamento de produtores com capacidade técnica para o desempenhar.\n\nB.3 - Controlo efectuado conjuntamente por terceiros e por pessoal do quadro do agrupamento. - Neste caso, o montante total das despesas deverá estar de acordo com o disposto em B.1 e em B.2.\n\nB.4 - Despesas de transporte do pessoal específico do agrupamento:\n\nViaturas do agrupamento afectas ao transporte do pessoal técnico de controlo, desde que realizadas até ao montante máximo de 12000000$00 de compra;\n\nSão elegíveis os custos anuais de amortização resultantes da aplicação da taxa de amortização legalmente definida, independentemente do regime de aquisição utilizado (compra a pronto, a crédito, em leasing ou em ALD);\n\nCombustíveis, lubrificantes, manutenção, reparação e seguro - pagamento por quilómetro (apenas no caso de o agrupamento de produtores não dispor de viaturas para o efeito e não se justificar a sua aquisição) até ao montante máximo de 1000000$00 por ano;\n\nPortagens.\n\nB.5 - Utensílios específicos. - São elegíveis os utensílios e outros instrumentos de apoio de natureza não operacional e de baixo valor contabilístico indispensáveis à actividade de controlo.\n\nB.6 - Despesas de deslocação no âmbito de actividades de investigação e aprofundamento das regras comuns de produção. - São elegíveis, não ultrapassando uma despesa anual máxima de 1000000$00.\n\nC - Despesas do grupo C (pessoal administrativo - salários, formação, encargos sociais e deslocações -, assim como honorários para serviços de assessoria técnica). - Constituem despesas elegíveis as seguintes:\n\nRemunerações (incluindo salários e encargos sociais) do pessoal dos quadros que exerça actividade na área administrativa e que tenha habilitações para as funções que desempenha, até um máximo de 4000000$00 por ano e por trabalhador; as remunerações devem estar adequadas à estrutura do agrupamento e podem incluir um gestor e um administrador;\n\nDespesas de deslocação do pessoal administrativo de e para o local de trabalho (no caso de as instalações administrativas se situarem fora do centro urbano e com dificuldades de acesso);\n\nDespesas de formação (deve ser justificado que os gastos de formação são necessários para a actividade objecto de reconhecimento);\n\nFornecimento de trabalhos especializados na área administrativa e de assessoria técnica.\n\nD - Despesas do grupo D (correio e telecomunicações). - Constituem despesas elegíveis as seguintes:\n\nCorrespondência e expedição;\n\nEquipamento e despesas de utilização com telecomunicações (telefone, fax, telex, etc.) - são elegíveis os custos anuais de amortização resultantes da aplicação da taxa de amortização legalmente definida, independentemente do regime de aquisição utilizado (compra a pronto, a credito, em leasing ou em ALD);\n\nAquisição, para os equipamentos e bens amortizáveis num só ano;\n\nManutenção do equipamento.\n\nE - Despesas do grupo E (material e equipamento de escritório, incluindo amortizações deste último). - Constituem despesas elegíveis as seguintes:\n\nAquisição de material e equipamento de escritório - são elegíveis os custos anuais de amortização resultantes da aplicação da taxa de amortização legalmente definida, independentemente do regime de aquisição utilizado (compra a pronto, a crédito, em leasing ou em ALD);\n\nManutenção do equipamento de escritório;\n\nAmortização de equipamento informático e do software administrativo.\n\nF - Despesas do grupo F (equipamento de transporte de pessoal administrativo). - Constituem despesas elegíveis as seguintes:\n\nCombustíveis e lubrificantes;\n\nManutenção (viatura afecta a pessoal administrativo);\n\nEquipamento de transporte - podem ser consideradas viaturas de nove lugares, no valor máximo de 5000000$00, ou veículo ligeiro até 2000000$00, consoante o número de funcionários administrativos, sendo elegíveis os custos anuais de amortização resultantes da aplicação da taxa de amortização legalmente definida, independentemente do regime utilizado (compra a pronto, a crédito, em leasing ou em ALD);\n\nSeguros das viaturas afectas ao pessoal administrativo.\n\nG - Despesas do grupo G (rendas ou, em caso de aquisição, juros efectivamente pagos, bem como outras despesas e encargos resultantes da utilização de instalações para funcionamento administrativo dos agrupamentos). - Constituem despesas elegíveis as seguintes:\n\nDespesas de aluguer;\n\nJuros de aquisição;\n\nDespesas de conservação e manutenção;\n\nÁgua e electricidade (afectas ao funcionamento administrativo).\n\nH - Despesas do grupo H (seguros relativos ao transporte do pessoal administrativo e às instalações administrativas e respectivos equipamentos). - Constituem despesas elegíveis as seguintes:\n\nSeguro de transporte de pessoal administrativo;\n\nSeguro de instalações administrativas;\n\nSeguro de risco e equipamento administrativo."
+  },
+  "1069893675": {
+   "fragment_id": "1027810175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "Pelo Decreto-Lei n.º 150/94, de 25 de Maio, foi aprovado o Programa de Apoio à Modernização Agrícola e Florestal (PAMAF), que inclui, entre outras, medidas de apoio às organizações de produtores.\n\nPor outro lado, o artigo 14.º do Regulamento (CE) n.º 2200/96, do Conselho, de 28 de Outubro, prevê que os novos agrupamentos de produtores ou os agrupamentos não reconhecidos ao abrigo do Regulamento (CEE) n.º 1035/72, do Conselho, de 18 de Maio, com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1363/95, da Comissão, possam beneficiar de um período transitório de cinco anos, no máximo, para satisfazer as condições de reconhecimento fixadas no artigo 11.º do Regulamento (CE) n.º 2200/96.\n\nTendo em conta o Regulamento (CE) n.º 478/97, da Comissão, de 14 de Março, que estabelece as condições de concessão de pré-reconhecimento aos referidos agrupamentos de produtores, e o disposto no Regulamento (CE) n.º 20/98, da Comissão, de 7 de Janeiro, que estabelece as regras de execução, no que respeita às ajudas aos agrupamentos de produtores pré-reconhecidos:\n\nAssim, ao abrigo do disposto no n.º 4 do artigo 2.º do Decreto-Lei n.º 150/94, de 25 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o regulamento de aplicação do regime de ajudas destinadas a incentivar a constituição e facilitar o funcionamento administrativo a conceder aos agrupamentos de produtores pré-reconhecidos ao abrigo dos Regulamentos (CE) n.os 2200/96, do Conselho, de 28 de Outubro, e 20/98, da Comissão, de 7 de Janeiro, em anexo ao presente diploma e do qual faz parte integrante.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  },
+  "1069893875": {
+   "fragment_id": "1027810375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "Assinada em 5 de Junho de 1998.\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  },
+  "1069893975": {
+   "fragment_id": "1027810575",
+   "type": 14,
+   "heading": "Anexo — Regulamento de Aplicação do Regime de Ajudas a Conceder aos Agrupamentos de Produtores Pré-Reconhecidos",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "## Anexo — Regulamento de Aplicação do Regime de Ajudas a Conceder aos Agrupamentos de Produtores Pré-Reconhecidos\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  },
+  "1069894075": {
+   "fragment_id": "1027810775",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma estabelece o regime da ajuda, referida na alínea a) do n.º 2 do artigo 14.º do Regulamento (CE) n.º 2200/96, destinada a incentivar a constituição e facilitar o funcionamento administrativo dos agrupamentos de produtores pré-reconhecidos.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  },
+  "1069894175": {
+   "fragment_id": "1027810975",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente diploma, e de acordo com o disposto no n.º 2 do artigo 1.º do Regulamento (CE) n.º 20/98, entende-se por:\n\na) Agrupamento de produtores pré-reconhecido - um novo agrupamento de produtores ou um agrupamento não reconhecido ao abrigo do Regulamento (CEE) n.º 1035/72 antes da entrada em vigor do Regulamento (CE) n.º 2200/96, ao qual o Estado membro tenha concedido o pré-reconhecimento em conformidade com o Regulamento n.º 478/97;\n\nb) Produtores - os produtores referidos no n.º 2 do artigo 1.º do Regulamento (CE) n.º 412/97, da Comissão;\n\nc) Produção comercializada - a produção dos membros de um agrupamento de produtores relativa à categoria de produtos a título da qual foi concedido pré-reconhecimento:\n\nEntregue ao agrupamento de produtores em causa e efectivamente vendida por intermédio deste, no estado fresco ou transformado;\n\nVendida em conformidade com o n.º 1, 2.º e 3.º travessões do ponto 3) da alínea c), do artigo 11.º do Regulamento (CE) n.º 2200/96, após autorização do agrupamento;\n\nVendida directamente pelos seus membros nas condições previstas no n.º 1, 1.º e 4.º travessões do ponto 3) da alínea c), do artigo 11.º do Regulamento (CE) n.º 2200/96;\n\nA produção comercializada não inclui a produção dos membros de outras organizações ou agrupamentos de produtores comercializada por intermédio do agrupamento de produtores em causa em conformidade com o n.º 1, 2.º e 3.º travessões do ponto 3) da alínea c), do artigo 11.º do Regulamento (CE) n.º 2200/96;\n\nd) Valor da produção comercializada - o valor da produção considerada no estádio «saída do agrupamento de produtores» e, se for caso disso, «produto embalado ou preparado não transformado».\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  },
+  "1069894275": {
+   "fragment_id": "1027811175",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Podem beneficiar, ou continuar a beneficiar, da ajuda referida no artigo 1.º, nos termos do artigo 6.º do Regulamento (CE) n.º 20/98, os agrupamentos de produtores pré-reconhecidos ao abrigo do Regulamento (CE) n.º 478/97 que resultem da fusão de um agrupamento de produtores pré-reconhecidos ao abrigo do Regulamento (CE) n.º 478/97 e de:\n\na) Um ou vários agrupamentos de produtores pré-reconhecidos ao abrigo do Regulamento (CE) n.º 478/97; e ou\n\nb) Uma ou várias organizações de produtores reconhecidas ao abrigo do Regulamento (CEE) n.º 1035/72; e ou\n\nc) Uma ou várias organizações de produtores reconhecidas em conformidade com o artigo 11.º do Regulamento (CE) n.º 2200/96.\n\n2 - Para o cálculo do montante da ajuda referida no número anterior, o agrupamento de produtores resultante da fusão substitui-se aos seus constituintes.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  },
+  "1069894375": {
+   "fragment_id": "1027811375",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21.",
+    "Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+   ],
+   "markdown": "###### Artigo 4.º\n\nA ajuda, nos termos do disposto no n.º 1 do artigo 2.º do Regulamento (CE) n.º 20/98, é concedida nos cinco anos consecutivos seguintes à data do pré-reconhecimento, sob a forma de uma ajuda forfetária, e o seu montante determinado, para cada agrupamento de produtores, com base no valor da sua produção anual comercializada, é:\n\na) Igual, respectivamente a título do 1.º, 2.º, 3.º, 4.º e 5.º anos, a 5%, 5%, 4%, 3% e 2% da produção comercializada, até ao limite de 1000000 de ecus dessa produção; e\n\nb) Igual, respectivamente a título do 1.º, 2.º, 3.º, 4.º e 5.º anos, a 2,5%, 2,5%, 2%, 1,5% e 1,5% de qualquer valor que exceda 1000000 de ecus de produção comercializada;\n\nc) Limitado a um máximo, por agrupamento de produtores, de:\n\n100000 ECU, no 1.º ano;\n\n100000 ECU, no 2.º ano;\n\n80000 ECU, no 3.º ano;\n\n60000 ECU, no 4.º ano;\n\n50000 ECU, no 5.º ano;\n\nd) Pago em fracções anuais durante, no máximo, um período de sete anos consecutivos à data do pré-reconhecimento, sendo os anos contados a partir de 1 de Janeiro do ano seguinte ao da concessão do pré-reconhecimento.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21.\n\n> Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+  },
+  "1069894475": {
+   "fragment_id": "1027811575",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21.",
+    "Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Em derrogação ao disposto no artigo anterior, as ajudas serão concedidas em cinco prestações anuais consecutivas, durante os sete anos seguintes à data do pré-reconhecimento, no montante máximo de 10%, 10%, 8%, 6% e 4% do valor da produção comercializada proveniente das explorações dos produtores membros a que as ajudas dizem respeito, respectivamente nos 1.º, 2.º, 3.º, 4.º e 5.º anos, desde que se demonstre que da aplicação do artigo anterior resulta uma ajuda inferior.\n\n2 - Para os efeitos previstos no número anterior, são consideradas despesas elegíveis as estabelecidas no anexo ao presente Regulamento.\n\n3 - As ajudas não podem exceder as despesas reais de constituição e de funcionamento.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21.\n\n> Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+  },
+  "1069894575": {
+   "fragment_id": "1027811775",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - A concessão do reconhecimento põe termo à atribuição das ajudas referidas no artigo 1.º\n\n2 - Para os efeitos previstos no número anterior, o Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) deve comunicar ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) a concessão do reconhecimento ao agrupamento.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  },
+  "1069894675": {
+   "fragment_id": "1027811975",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21.",
+    "Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - O processo de candidatura às ajudas previstas neste Regulamento inicia-se com a apresentação junto do IFADAP de um formulário de candidatura de acordo com modelo a distribuir por aquele organismo e pelas direcções regionais de agricultura (DRA), acompanhado de todos os elementos indicados nas respectivas instruções.\n\n2 - O formulário referido no número anterior deverá ser entregue no IFADAP durante os três meses posteriores à data de conclusão do período da ajuda, após terem sido realizadas as despesas ou contabilizado o valor da produção, devendo os respectivos documentos de despesa ser validados pelo IFADAP.\n\n3 - Quando, após a entrega do processo de candidatura, se verifique qualquer falta ou insuficiência na instrução do processo, o candidato será notificado para suprir essa falta ou corrigir a insuficiência no prazo de 15 dias úteis.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21.\n\n> Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+  },
+  "1069894775": {
+   "fragment_id": "1027812175",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 8.º\n\nAs candidaturas apresentadas são objecto de análise e deliberação pelo IFADAP, na sua qualidade de unidade de gestão da componente «Organização e agrupamento de produtores», no prazo de 60 dias a contar da data da sua recepção.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  },
+  "1069894875": {
+   "fragment_id": "1027812375",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 9.º\n\nA concessão das ajudas é feita mediante contratos a celebrar entre o IFADAP e os candidatos no prazo de 30 dias a contar da data de aprovação da candidatura.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  },
+  "1069894975": {
+   "fragment_id": "1027812575",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 10.º\n\nO pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais, podendo haver lugar à concessão de adiantamentos, nos termos do disposto no artigo seguinte.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  },
+  "1069895075": {
+   "fragment_id": "1027812775",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21.",
+    "Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+   ],
+   "markdown": "###### Artigo 11.º\n\n1 - A concessão de adiantamentos fica sujeita à constituição de garantia bancária.\n\n2 - As candidaturas ao regime de adiantamentos deverão ser apresentadas durante os três meses que antecedem a data de início do período de ajuda a que dizem respeito.\n\n3 - Quando, após a entrega do processo de candidatura, se verifique qualquer falta ou insuficiência na instrução do processo, o candidato será notificado para suprir essa falta ou corrigir a insuficiência no prazo de 15 dias úteis.\n\n4 - Os adiantamentos serão processados em duas tranches anuais, cada uma no valor máximo de 40% da ajuda prevista para o exercício. O pagamento da 2.ª tranche fica condicionado à apresentação de comprovativos no valor de 100% do valor da 1.ª tranche.\n\n5 - O pagamento dos últimos 20% do montante da ajuda só será processado após comprovação da realização da totalidade das despesas e contabilizado o valor da produção do período da ajuda a que diz respeito.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21.\n\n> Alterado pelo/a [Portaria n.º 151/99 - Diário da República n.º 53/1999, Série I-B de 1999-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/151-1999-151293), em vigor a partir de 1999-03-09."
+  },
+  "1069895175": {
+   "fragment_id": "1027812975",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "###### Artigo 12.º\n\nEm caso de insuficiência de natureza financeira, e por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o montante das ajudas poderá ser modelado ou limitado às dotações orçamentais previstas para este efeito.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  },
+  "1069895275": {
+   "fragment_id": "1027813175",
+   "type": 14,
+   "heading": "Anexo A QUE SE REFERE O ARTIGO 5.º DO REGULAMENTO DE APLICAÇÃO DO REGIME DE AJUDAS A CONCEDER AOS AGRUPAMENTOS DE PRODUTORES PRÉ-RECONHECIDOS",
+   "in_force_from": "2026-03-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+   ],
+   "markdown": "## Anexo A QUE SE REFERE O ARTIGO 5.º DO REGULAMENTO DE APLICAÇÃO DO REGIME DE AJUDAS A CONCEDER AOS AGRUPAMENTOS DE PRODUTORES PRÉ-RECONHECIDOS\n\nA - Despesas elegíveis do grupo A (trabalhos preparatórios da constituição, bem como elaboração da acta de constituição e estatutos e suas alterações). - No 1.º ano de candidatura são elegíveis no âmbito deste grupo as despesas reais havidas com:\n\nO acto de constituição;\n\nA elaboração de estatutos e demais despesas de constituição, designadamente honorários de serviços jurídicos e demais despesas de constituição e reconhecimento.\n\nA partir do 2.º ano de candidatura serão elegíveis as despesas com eventuais alterações de estatutos.\n\nB - Despesas do grupo B [controlo de observância das regras estabelecidas no Regulamento (CE) n.º 2200/96]. - São elegíveis as despesas de controlo feito por técnicos especializados do cumprimento das regras de produção e comercialização destinadas a melhorar a qualidade dos produtos e adaptar o volume da oferta às exigências do mercado, tendo, designadamente, em conta o respectivo programa de acção. Estes controlos podem ser efectuados nas explorações ou nas instalações do agrupamento.\n\nNão são elegíveis os gastos com mão-de-obra para a realização das actividades, mas apenas os gastos de controlo com a verificação e certificação da realização dessas mesmas actividades.\n\nB.1 - Controlo efectuado por técnicos qualificados dos próprios quadros do agrupamento. - São elegíveis as despesas com pessoal (salários e encargos sociais) até um máximo de 5000000$00 por ano e por técnico qualificado.\n\nB.2 - Controlo efectuado por terceiros. - São elegíveis as despesas como honorários e fornecimento de trabalhos especializados até um máximo de 6000000$00 por ano e por técnico ou por entidade qualificada.\n\nConsideram-se como especializados os trabalhos de consultadoria técnica, desde que não exista pessoal nos quadros do agrupamento de produtores com capacidade técnica para o desempenhar.\n\nB.3 - Controlo efectuado conjuntamente por terceiros e por pessoal do quadro do agrupamento. - Neste caso, o montante total das despesas deverá estar de acordo com o disposto em B.1 e em B.2.\n\nB.4 - Despesas de transporte do pessoal específico do agrupamento:\n\nViaturas do agrupamento afectas ao transporte do pessoal técnico de controlo, desde que realizadas até ao montante máximo de 12000000$00 de compra;\n\nSão elegíveis os custos anuais de amortização resultantes da aplicação da taxa de amortização legalmente definida, independentemente do regime de aquisição utilizado (compra a pronto, a crédito, em leasing ou em ALD);\n\nCombustíveis, lubrificantes, manutenção, reparação e seguro - pagamento por quilómetro (apenas no caso de o agrupamento de produtores não dispor de viaturas para o efeito e não se justificar a sua aquisição) até ao montante máximo de 1000000$00 por ano;\n\nPortagens.\n\nB.5 - Utensílios específicos. - São elegíveis os utensílios e outros instrumentos de apoio de natureza não operacional e de baixo valor contabilístico indispensáveis à actividade de controlo.\n\nB.6 - Despesas de deslocação no âmbito de actividades de investigação e aprofundamento das regras comuns de produção. - São elegíveis, não ultrapassando uma despesa anual máxima de 1000000$00.\n\nC - Despesas do grupo C (pessoal administrativo - salários, formação, encargos sociais e deslocações -, assim como honorários para serviços de assessoria técnica). - Constituem despesas elegíveis as seguintes:\n\nRemunerações (incluindo salários e encargos sociais) do pessoal dos quadros que exerça actividade na área administrativa e que tenha habilitações para as funções que desempenha, até um máximo de 4000000$00 por ano e por trabalhador; as remunerações devem estar adequadas à estrutura do agrupamento e podem incluir um gestor e um administrador;\n\nDespesas de deslocação do pessoal administrativo de e para o local de trabalho (no caso de as instalações administrativas se situarem fora do centro urbano e com dificuldades de acesso);\n\nDespesas de formação (deve ser justificado que os gastos de formação são necessários para a actividade objecto de reconhecimento);\n\nFornecimento de trabalhos especializados na área administrativa e de assessoria técnica.\n\nD - Despesas do grupo D (correio e telecomunicações). - Constituem despesas elegíveis as seguintes:\n\nCorrespondência e expedição;\n\nEquipamento e despesas de utilização com telecomunicações (telefone, fax, telex, etc.) - são elegíveis os custos anuais de amortização resultantes da aplicação da taxa de amortização legalmente definida, independentemente do regime de aquisição utilizado (compra a pronto, a credito, em leasing ou em ALD);\n\nAquisição, para os equipamentos e bens amortizáveis num só ano;\n\nManutenção do equipamento.\n\nE - Despesas do grupo E (material e equipamento de escritório, incluindo amortizações deste último). - Constituem despesas elegíveis as seguintes:\n\nAquisição de material e equipamento de escritório - são elegíveis os custos anuais de amortização resultantes da aplicação da taxa de amortização legalmente definida, independentemente do regime de aquisição utilizado (compra a pronto, a crédito, em leasing ou em ALD);\n\nManutenção do equipamento de escritório;\n\nAmortização de equipamento informático e do software administrativo.\n\nF - Despesas do grupo F (equipamento de transporte de pessoal administrativo). - Constituem despesas elegíveis as seguintes:\n\nCombustíveis e lubrificantes;\n\nManutenção (viatura afecta a pessoal administrativo);\n\nEquipamento de transporte - podem ser consideradas viaturas de nove lugares, no valor máximo de 5000000$00, ou veículo ligeiro até 2000000$00, consoante o número de funcionários administrativos, sendo elegíveis os custos anuais de amortização resultantes da aplicação da taxa de amortização legalmente definida, independentemente do regime utilizado (compra a pronto, a crédito, em leasing ou em ALD);\n\nSeguros das viaturas afectas ao pessoal administrativo.\n\nG - Despesas do grupo G (rendas ou, em caso de aquisição, juros efectivamente pagos, bem como outras despesas e encargos resultantes da utilização de instalações para funcionamento administrativo dos agrupamentos). - Constituem despesas elegíveis as seguintes:\n\nDespesas de aluguer;\n\nJuros de aquisição;\n\nDespesas de conservação e manutenção;\n\nÁgua e electricidade (afectas ao funcionamento administrativo).\n\nH - Despesas do grupo H (seguros relativos ao transporte do pessoal administrativo e às instalações administrativas e respectivos equipamentos). - Constituem despesas elegíveis as seguintes:\n\nSeguro de transporte de pessoal administrativo;\n\nSeguro de instalações administrativas;\n\nSeguro de risco e equipamento administrativo.\n\n> Revogado pelo/a [Portaria n.º 215/2001 - Diário da República n.º 64/2001, Série I-B de 2001-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/215-2001-387653), em vigor a partir de 2026-03-21."
+  }
+ }
+}

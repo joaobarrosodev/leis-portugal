@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:129160714:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-140414805",
+ "dre_path": "/dr/detalhe/portaria/41-2020-129160714",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-02-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "140414701",
+    "140414702",
+    "140414703",
+    "140414704"
+   ]
+  },
+  {
+   "date": "2020-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140302243:por",
+     "title": "Portaria n.º 195-A/2020",
+     "published": "2020-08-13",
+     "dre_path": "/dr/detalhe/portaria/195-a-2020-140302243"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "140414701",
+    "140414702",
+    "140414711",
+    "140414704",
+    "140414705"
+   ]
+  }
+ ],
+ "fragments": {
+  "140414701": {
+   "fragment_id": "140414806",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 41/2020\n\nde 13 de fevereiro\n\nSumário: Fixa a tarifa aplicável, no regime de remuneração garantida, aos centros eletroprodutores que utilizam resíduos urbanos como fonte de produção de eletricidade.\n\nO Decreto-Lei n.º 35/2013, de 28 de fevereiro, veio estabelecer, para os centros eletroprodutores de fontes renováveis não hídricas com remuneração estabelecida nos termos previstos no regime anterior à entrada em vigor do Decreto-Lei n.º 33-A/2005, de 16 de fevereiro, a possibilidade de, num período adicional, manterem uma remuneração garantida com tarifa a fixar por portaria do membro do Governo responsável pela energia.\n\nTendo presente que a remuneração dos centros eletroprodutores que utilizam resíduos urbanos para a produção e fornecimento de energia elétrica à rede elétrica de serviço público, nomeadamente as centrais de valorização energética de biogás e as centrais de valorização energética na vertente de queima, tem direta repercussão nas tarifas fixadas para o serviço de gestão de resíduos urbanos, importa fixar a remuneração garantida a aplicar a estes centros eletroprodutores, de modo a assegurar uma transição do regime remuneratório garantido para um regime remuneratório de mercado que evite flutuações tarifárias expressivas.\n\nAssim, e sem prejuízo da fixação de um regime remuneratório de transição que regule, de modo abrangente, o universo de centros eletroprodutores que utilizam resíduos urbanos para a produção de energia elétrica, importa, desde já, assegurar a manutenção da remuneração garantida para aqueles que, ao abrigo do disposto nas alíneas b) e c) do n.º 1 do artigo 3.º do Decreto-Lei n.º 35/2013, de 28 de fevereiro, iriam cessar este regime em 17 de fevereiro de 2020.\n\nFoi ouvida a Entidade Reguladora dos Serviços Energéticos.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado Adjunto e da Energia, ao abrigo do disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 35/2013, de 28 de fevereiro, e da subalínea iv) da alínea d) do n.º 1 do Despacho n.º 12149-A/2019, de 17 de dezembro, do Ministro do Ambiente e da Ação Climática, publicado no Diário da República, 2.ª série, n.º 243, de 18 de dezembro de 2019, na sua redação atual, o seguinte:"
+  },
+  "140414702": {
+   "fragment_id": "140414807",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria fixa a tarifa aplicável, no regime de remuneração garantida, aos centros eletroprodutores, previstos nas alíneas b) e c) do n.º 1 do artigo 3.º do Decreto-Lei n.º 35/2013, de 28 de fevereiro, que utilizam resíduos urbanos como fonte de produção de eletricidade.\n\n2 - Para efeitos do disposto no número anterior, entende-se que utilizam resíduos urbanos para a produção de energia elétrica, os centros eletroprodutores:\n\na) De valorização energética de biogás, nas vertentes:\n\ni) De digestão anaeróbia de resíduos sólidos urbanos, de lamas das estações de tratamento de águas residuais, bem como de efluentes e resíduos provenientes da agropecuária e da indústria agroalimentar;\n\nii) De gás de aterro.\n\nb) De valorização energética na vertente de queima de resíduos sólidos urbanos indiferenciados e de combustíveis derivados de resíduos."
+  },
+  "140414703": {
+   "fragment_id": "140414808",
+   "type": 11,
+   "heading": "Artigo 2.º — Tarifa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tarifa\n\n1 - A tarifa, no regime de remuneração garantida, aplicável aos centros eletroprodutores referidos no artigo 1.º é a fixada no Anexo II do Decreto-Lei n.º 189/88, de 27 de maio, na redação que lhe foi conferida pelo Decreto-Lei n.º 168/99, de 18 de maio e alterada pelo Decreto-Lei n.º 339-C/2001, de 29 de dezembro.\n\n2 - A tarifa fixada nos termos do número anterior vigora pelo prazo de seis meses a contar da entrada em vigor da presente portaria."
+  },
+  "140414704": {
+   "fragment_id": "140414809",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "140414711": {
+   "fragment_id": "140414808",
+   "type": 11,
+   "heading": "Artigo 2.º — Tarifa",
+   "in_force_from": "2020-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 195-A/2020 - Diário da República n.º 157/2020, 1º Suplemento, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/195-a-2020-140302243), em vigor a partir de 2020-08-14, produz efeitos a partir de 2020-08-14"
+   ],
+   "markdown": "###### Artigo 2.º — Tarifa\n\n1 - A tarifa, no regime de remuneração garantida, aplicável aos centros eletroprodutores referidos no artigo 1.º é a fixada no Anexo II do Decreto-Lei n.º 189/88, de 27 de maio, na redação que lhe foi conferida pelo Decreto-Lei n.º 168/99, de 18 de maio e alterada pelo Decreto-Lei n.º 339-C/2001, de 29 de dezembro.\n\n2 - A tarifa fixada nos termos do número anterior vigora pelo prazo de oito meses a contar da entrada em vigor da presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 195-A/2020 - Diário da República n.º 157/2020, 1º Suplemento, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/195-a-2020-140302243), em vigor a partir de 2020-08-14, produz efeitos a partir de 2020-08-14"
+  },
+  "140414705": {
+   "fragment_id": "140414810",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e da Energia, João Saldanha de Azevedo Galamba, em 12 de fevereiro de 2020.\n\n113010481"
+  }
+ }
+}

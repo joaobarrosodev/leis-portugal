@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0682:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0682-19900104",
+ "dre_path": null,
+ "source_lastmod": "1990-01-04",
+ "versions": [
+  {
+   "date": "1989-12-30",
+   "future": false,
+   "celex": "31989L0682",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "579d77ec7e238b00",
+    "2e05cf89ec842719",
+    "6f75e31faca67d6a",
+    "0bdd6c4cadf1973e"
+   ]
+  }
+ ],
+ "fragments": {
+  "579d77ec7e238b00": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/682/CEE do Conselho, de 21 de Dezembro de 1989, que altera a Directiva 86/298/CEE relativa aos dispositivos de protecção montados na retaguarda em caso de cabotagem de tractores agrícolas e florestas com rodas de via estreita** *Jornal Oficial nº L 398 de 30/12/1989 p. 0029 - 0030 Edição especial finlandesa: Capítulo 13 Fascículo 19 p. 0127 Edição especial sueca: Capítulo 13 Fascículo 19 p. 0127*\n\nDIRECTIVA DO CONSELHO\n\nde 21 de Dezembro de 1989\n\nque altera a Directiva 86/298/CEE relativa aos dispositivos de protecção montados na retaguarda em caso de capotagem de tractores agrícolas e florestais com rodas de via estreita\n\n(89/682/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100°.A,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que é necessário adoptar as medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada;\n\nConsiderando que a Directiva 86/298/CEE (4) prevê, no seu artigo 13°., que as respectivas disposições sejam completadas por normas que introduzam os ensaios adicionais de choque no processo dos ensaios dinâmicos;\n\nConsiderando que, estando já previsto um ensaio adicional para o processo do ensaio estático, é necessário fixar igualmente um ensaio adicional para o processo do ensaio dinâmico - ensaio que reflecte mais fielmente a situação em caso de capotagem de um tractor -, de modo a tornar equivalentes os dois processos relativos, respectivamente, aos ensaios estáticos e aos ensaios dinâmicos e a eliminar o actual desequilíbrio entre esses dois ensaios;\n\nConsiderando que os parâmetros e os cálculos puramente teóricos sobre os quais se baseava inicialmente o ensaio dinâmico adicional de choque foram sujeitos a experiências práticas que não deixaram dúvida alguma quanto à respectiva fiabilidade;\n\nConsiderando que é igualmente conveniente alterar o âmbito de aplicação da Directiva 86/298/CEE para melhor precisar o texto do segundo travessão do artigo 1°., relativo aos pneumáticos que equipam os eixos dianteiro e traseiro, e eliminar assim a possibilidade de interpretações divergentes,\n\nJO n° C 256 de 9. 10. 1989, p. 77.\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "2e05cf89ec842719": {
+   "fragment_id": "Artigo 1°.",
+   "type": "artigo",
+   "heading": "Artigo 1°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°.\n\nA Directiva 86/298/CEE é alterada do seguinte modo:\n\n1.\n\nN° artigo 1°., o segundo travessão passa a ter a seguinte redacção:\n\n«- via mínima fixa ou regulável do eixo equipado com os pneumáticos de maiores dimensões inferior a 1 150 mm; supondo-se o eixo equipado com os pneumáticos de maiores dimensões regulado numa via de 1 150 mm no máximo, a via do outro eixo deve poder ser regulada de modo tal que os bordos externos dos pneumáticos mais estreitos não saiam do alinhamento dos bordos externos dos pneumáticos do outro eixo. N° caso de os dois eixos estarem equipados com jantes e pneumáticos com as mesmas dimensões, a via fixa ou regulável dos dois eixos deve ser inferior a 1 150 mm,»\n\n2.\n\nN° anexo II, o ponto 3.1.1 passa a ter a seguinte redacção:\n\n«3.1.1.\n\nApós cada ensaio parcial do ensaio dinâmico, o dispositivo não deve apresentar fracturas ou fissuras tais como as descritas no ponto 3.1 do anexo IIIA.\n\nSe, no decorrer do ensaio dinâmico, aparecerem fracturas ou fissuras não admissíveis, deve ser aplicado, imediatamente após o choque ou o esmagamento que originou tais fracturas ou fissuras, um choque ou um esmagamento adicional tal como o definido no ponto 1.6 do anexo IIIA.»\n\n3.\n\nN° anexo IIIA, o ponto 1.6 passa a ter a seguinte redacção:\n\n«1.6.\n\nEnsaios adicionais\n\n«1.6.1.\n\nSe, no decorrer de um ensaio de choque, aparecerem fracturas ou fissuras não admissíveis,\n\né necessário proceder a um segundo ensaio semelhante, mas com uma altura de queda igual a:\n\nHm = 10 × 12 + 4a\n\nHm =\n\nH\n\n10\n\n×\n\n12 + 4a\n\n1 + 2a\n\nimediatamente após o ensaio de choque que originou tais fracturas ou fissuras, sendo ''a'' a relação entre a deformação permanente e a deformação elástica (a = Dp/De) medidas no ponto de impacte.\n\nA deformação permanente suplementar devida ao segundo choque não deve ser superior a 30 % da deformação permanente devida ao primeiro choque.\n\nPara poder realizar o ensaio adicional, é necessário medir a deformação elástica durante todos os ensaios de choque.\n\n«1.6.2.\n\nSe, no decorrer de um ensaio de esmagamento, aparecerem fracturas ou fissuras não admissíveis, é necessário proceder a um segundo ensaio de esmagamento semelhante, mas com uma força igual a 1,2 Fv, imediatamente após o ensaio de esmagamento que originou essas fracturas ou fissuras.»\n\n4.\n\nN° anexo VI, é inserido o ponto seguinte:\n\n«7.3.\n\nIndicação e resultados do eventual ensaio dinâmico adicional»."
+  },
+  "6f75e31faca67d6a": {
+   "fragment_id": "Artigo 2°.",
+   "type": "artigo",
+   "heading": "Artigo 2°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°.\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentres e administrativas necessárias para dar cumprimento à presente directiva o mais tardar doze meses a contar de 3 de Janeiro de 1990. Do facto informarão imediatamente a Comissão."
+  },
+  "0bdd6c4cadf1973e": {
+   "fragment_id": "Artigo 3°.",
+   "type": "artigo",
+   "heading": "Artigo 3°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Dezembro de 1989.\n\nPelo Conselho\n\nO Presidente\n\nE. CRESSON\n\n(1) JO n° C 311 de 6. 12. 1988, p. 9.\n\n(2) JO n° C 120 de 16. 5. 1989, p. 70, e (3) JO n° C 102 de 24. 4. 1989, p. 5.\n\n(4) JO n° L 186 de 8. 7. 1986, p. 26."
+  }
+ }
+}

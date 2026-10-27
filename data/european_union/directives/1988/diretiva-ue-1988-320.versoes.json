@@ -1,0 +1,159 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31988L0320:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01988L0320-20040311",
+ "dre_path": null,
+ "source_lastmod": "2004-03-11",
+ "versions": [
+  {
+   "date": "1988-06-11",
+   "future": false,
+   "celex": "31988L0320",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cec45dcf46164ce1",
+    "00d5fc4d3b36fe76",
+    "a1c23557547f733f",
+    "83595374fa066257",
+    "2b3b6901dededaf7",
+    "8bac2800d64b5dd3",
+    "421ba2d5c6ae23d8",
+    "5d54bfdfabcac4ea",
+    "b8c5cdbce063179a",
+    "705ad59db38ab0f3",
+    "9a32fce25fd47d90",
+    "1e947f9508ec3c0f"
+   ]
+  },
+  {
+   "date": "2004-03-11",
+   "future": false,
+   "celex": "01988L0320-20040311",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime ANEXO — Programa para a inspecção de laboratórios e a verificação de estudos"
+   ],
+   "fragments": [
+    "fa73e336d5ab88f4"
+   ]
+  }
+ ],
+ "fragments": {
+  "cec45dcf46164ce1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 88/320/CEE do Conselho de 9 de Junho de 1988 relativa à inspecção e verificação das boas práticas de laboratório (BPL)** *Jornal Oficial nº L 145 de 11/06/1988 p. 0035 - 0037 Edição especial finlandesa: Capítulo 15 Fascículo 8 p. 0091 Edição especial sueca: Capítulo 15 Fascículo 8 p. 0091*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 9 de Junho de 1988\n\nrelativa à inspecção e verificação das boas práticas de laboratório (BPL)\n\n(88/320/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100ºA,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a aplicação de um modo de organização normalizado e de condições de planificação, execução, registo e divulgação dos estudos laboratoriais para ensaios não clínicos sobre produtos químicos, com vista à protecção do homem, dos animais e do ambiente, a seguir designado por « boas práticas de laboratário » (BPL), contribui para assegurar aos Estados-membros a qualidade dos resultados de ensaios obtidos;\n\nConsiderando que o Conselho da Organização de Cooperação e de Desenvolvimento Económicos (OCDE) adoptou, no Anexo 2 da sua decisão de 12 de Maio de 1981 relativa à aceitação mútua de dados para a avaliação dos produtos químicos, princípios de boas práticas de laboratório aceites na Comunidade e especificados na Directiva 87/18/CEE do Conselho, de 18 de Dezembro de 1986, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à aplicação dos princípios de boas práticas de laboratório e ao controlo da sua aplicação para os ensaios sobre as substâncias químicas (4);\n\nConsiderando que, na realização de ensaios sobre os produtos químicos, é desejável que os recursos em mão-de-obra especializada e em laboratórios de ensaio não sejam desperdiçados pela necessidade de repetir os ensaios devido a diferenças nas práticas de laboratório entre os Estados-membros; que tal se aplica especialmente à protecção dos animais, que exige que se limite o número de experiências com animais, nos termos da Directiva 86/609/CEE do Conselho, de 24 de Novembro de 1986, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-membros respeitantes à protecção dos animais utilizados para fins experimentais e outros fins científicos (5); que o reconhecimento mútuo dos resultados dos ensaios obtidos por utilização de métodos normalizados e reconhecidos é uma condição essencial para a redução do número de experiências executadas nesse domínio;\n\nConsiderando que, a fim de assegurar que os resultados de ensaios obtidos nos laboratórios de um Estado-membro sejam também reconhecidos pelos outros Estados-membros, é necessário prever um sistema harmonizado de verificação de estudos e de inspecção de laboratórios que garanta que estes últimos trabalham no respeito das BPL;\n\nConsiderando que os Estados-membros designam as autoridades encarregadas de exercer o controlo de conformidade com as BPL;\n\nConsiderando que um Comité constituído por membros nomeados pelos Estados-membros auxiliaria a Comissão na aplicação técnica da presente directiva e participaria nos seus esforços para encorajar a livre circulação das mercadorias pelo reconhecimento mútuo pelos Estados-membros dos processos de controlo de conformidade\n\ncom as BPL; que o Comité instituído pela Directiva 67/548/CEE do Conselho, de 27 de Junho de 1967, relativa à aproximação das disposições legislativas, regulamentares e administrativas respeitantes à classificação, embalagem e rotulagem de substâncias perigosas (1), com a última redacção que lhe foi dada pela Directiva 87/432/CEE (2), pode ser utilizado para esse fim;\n\nConsiderando que o referido Comité pode, não só apoiar a Comissão na aplicação da presente directiva, mas também contribuir para a troca de informações e de experiências nesta matéria,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "00d5fc4d3b36fe76": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva é aplicável à inspecção e verificação do modo de organização e às condições de planificação, execução, registo e divulgação de estudos laboratoriais para ensaios não clínicos, efectuados para efeitos de regulamentação dos produtos químicos (tais como cosméticos, produtos químicos industriais, produtos medicinais, aditivos alimentares, aditivos para alimentação animal, pesticidas) e destinados à avaliação dos efeitos desses produtos sobre o homem, os animais e o ambiente.\n\n2. Para os efeitos da presente directiva, as BPL encontram-se descritas na Directiva 87/18/CEE.\n\n3. A presente directiva não diz respeito à interpretação e avaliação dos resultados dos ensaios."
+  },
+  "a1c23557547f733f": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. De acordo com o processo previsto no artigo 3º, os Estados-membros controlarão a conformidade com as BPL por parte de qualquer laboratório situado no respectivo território que declare aplicar as BPL na realização de ensaios sobre produtos químicos.\n\n2. Quando o disposto no nº 1 tiver sido cumprido e os resultados da inspecção e da verificação forem satisfatórios, o Estado-membro em causa pode conceder o seu aval à declaração de um laboratório que alegue que ele mesmo e os ensaios por si efectuados estão em conformidade com as BPL, utilizando a fórmula: « Certificado de conformidade com as BPL, nos termos da Directiva 88/320/CEE, em (data) »."
+  },
+  "83595374fa066257": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os Estados-membros designarão as autoridades encarregadas da inspecção dos laboratórios situados no seu território e da verificação dos estudos efectuados por laboratórios para avaliar a conformidade com as BPL.\n\n2. As autoridades referidas no nº 1 inspeccionarão os laboratórios e procederão às verificações de estudos em conformidade com o disposto no anexo."
+  },
+  "2b3b6901dededaf7": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros elaborarão anualmente um relatório relativo à aplicação das BPL no seu território.\n\nEste relatório conterá uma lista dos laboratórios inspeccionados, a data em que essa inspecção foi efectuada e um breve resumo das conclusões das inspecções.\n\n2. Os relatórios serão transmitidos anualmente à Comissão, o mais tardar até 31 de Março. A Comissão comunicará esses relatórios ao Comité referido no artigo 7º O Comité pode solicitar mais informações relativas aos elementos a que se refere o nº 1.\n\n3. Os Estados-membros assegurarão que as informações comercialmente sensíveis e outras informações confidenciais a que tenham acesso no âmbito das suas actividades de controlo de conformidade com as BPL sejam apenas comunicadas à Comissão, às autoridades nacionais de regulamentação e às autoridades designadas, bem como ao organismo que financie um laboratório ou um estudo e que esteja directamente envolvido numa inspecção ou numa verificação de estudos específica.\n\n4. Não são considerados confidenciais os nomes dos laboratórios submetidos a inspecção por uma autoridade designada, a sua situação no que se refere à conformidade com as BPL, ou as datas em que tiverem sido efectuadas as inspecções ou as verificações de estudos."
+  },
+  "8bac2800d64b5dd3": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Sem prejuízo do artigo 6º, os resultados das inspecções de laboratórios e das verificações de estudos efectuadas por um Estado-membro acerca da conformidade com as BPL são vinculativas para os outros Estados-membros.\n\n2. Quando um Estado-membro considerar que um laboratório situado no seu território que alegue respeitar as BPL não as respeita de facto, por forma a que a seriedade ou a autenticidade dos estudos que efectua possam ficar comprometidas, informará imediatamente a Comissão desse facto. A Comissão informará os outros Estados-membros."
+  },
+  "421ba2d5c6ae23d8": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Quando um Estado-membro tiver boas razões para considerar que um laboratório situado num outro Estado-membro que alegue o respeito das BPL não efectuou um determinado ensaio em conformidade com as BPL, pode pedir informações mais pormenorizadas a esse Estado-membro e, nomeadamente, pedir a realização de uma verificação de estudos, eventualmente acompanhada de uma nova inspecção.\n\nSe não for possível chegar a um acordo, os Estados-membros informarão imediatamente os outros Estados-membros e a Comissão precisando as razões da sua decisão.\n\n2. A Comissão examinará, logo que possível, as razões apresentadas pelos Estados-membros no âmbito do Comité, após o que adoptará as medidas adequadas nos termos do processo previsto no artigo 8º A Comissão pode, para este efeito, solicitar o parecer de peritos das autoridades designadas pelos Estados-membros.\n\n3. Se a Comissão considerar que, para regular os problemas referidos no nº 1, são necessárias alterações à presente directiva, dará início ao processo previsto no artigo 8º com vista a adoptar essas alterações."
+  },
+  "5d54bfdfabcac4ea": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. O Comité instituído pelo artigo 20º da Directiva 67/548/CEE, a seguir designado por « Comité », pode analisar qualquer questão que lhe seja apresentada pelo seu presidente, quer por iniciativa deste quer a pedido de um representante de um Estado-membro, que incida sobre a aplicação da presente directiva, nomeadamente no que respeita:\n\n- à cooperação entre as autoridades designadas pelos Estados-membros relativa aos aspectos técnicos e administrativos decorrentes da aplicação das BPL, e\n\n- à troca de informações sobre a formação dos inspectores.\n\n2. As alterações necessárias para a adaptação da fórmula referida no nº 2 do artigo 2º e do anexo, para ter em conta os progressos técnicos, serão adoptadas nos termos do processo previsto no artigo 8º"
+  },
+  "b8c5cdbce063179a": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. O representante da Comissão submeterá ao Comité um projecto de medidas a adoptar. O Comité emitirá o seu parecer sobre esse projecto dentro de um prazo que o presidente pode fixar em função da urgência da questão. O parecer será emitido pela maioria prevista no nº 2 do artigo 148º do Tratado para adopção das decisões que o Conselho é chamado a adoptar sob proposta da Comissão. Para a votação no Comité, aplicar-se-á aos votos dos representantes dos Estados-membros a ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n2. A Comissão adoptará as medidas previstas, se estas forem conformes ao parecer do Comité.\n\nSe as medidas previstas não forem conformes ao parecer do Comité, ou se não for emitido qualquer parecer, a Comissão apresentará sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho deliberará por maioria qualificada.\n\n3. Se, no prazo de três meses após a apresentação da proposta, o Conselho não tiver deliberado, a Comissão adoptará as medidas propostas."
+  },
+  "705ad59db38ab0f3": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, o mais tardar até 1 de Janeiro de 1989, e desse facto informaão imediatamente a Comissão."
+  },
+  "9a32fce25fd47d90": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo, em 9 de Junho de 1988.\n\nPelo Conselho\n\nO Presidente\n\nN. BLUEM\n\n(1) JO nº C 13 de 17. 1. 1987, p. 5.\n\n(2) JO nº C 156 de 15. 6. 1987, p. 190, e JO nº C 122 de 9. 5. 1988.\n\n(3) JO nº C 232 de 31. 8. 1987, p. 1.\n\n(4) JO nº L 15 de 17. 1. 1987, p. 29.\n\n(5) JO nº L 358 de 18. 12. 1986, p. 1.\n\n(1) JO nº 196 de 16. 8. 1967, p. 1/67.\n\n(2) JO nº L 239 de 21. 8. 1987, p. 1."
+  },
+  "1e947f9508ec3c0f": {
+   "fragment_id": "ANEXO — Programa para a inspecção de laboratórios e a verificação de estudos",
+   "type": "divisao",
+   "heading": "ANEXO — Programa para a inspecção de laboratórios e a verificação de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Programa para a inspecção de laboratórios e a verificação de estudos\n\nAs disposições relativas à inspecção de laboratórios e à verificação de estudos são as constantes dos Anexos 4 (Guia para os processos de controlo do cumprimento das boas práticas de laboratório) e 6 (Directrizes para a realização de inspecções de laboratórios e verificações de estudos) do relatório final de Grupo de Trabalho da Comissão « Ambiente » da OCDE sobre o reconhecimento mútuo da conformidade com as BPL (OCDE ENV/CHEM/CM/87.7)."
+  },
+  "fa73e336d5ab88f4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1988L0320 — PT — 11.03.2004 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31988L0320) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31988L0320) [de 7 de Junho de 1988](http://publications.europa.eu/resource/celex/31988L0320) [relativa à inspecção e verificação das boas práticas de laboratório (BPL)](http://publications.europa.eu/resource/celex/31988L0320) [(88/320/CEE)](http://publications.europa.eu/resource/celex/31988L0320) (JO L 145, 11.6.1988, p.35)\n\n**revogado por:**\n\n- [Directiva 2004/9/CE do Parlamento Europeu e do Conselho de 11 de Fevereiro de 2004](http://publications.europa.eu/resource/celex/32004L0009) — L 50 — 28 — 20.2.2004"
+  }
+ }
+}

@@ -1,0 +1,1486 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31968L0193:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01968L0193-20200216",
+ "dre_path": null,
+ "source_lastmod": "2020-02-16",
+ "versions": [
+  {
+   "date": "1968-04-17",
+   "future": false,
+   "celex": "31968L0193",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "995407dea0de043c",
+    "de1191d2a7bbfc71",
+    "67638afe1bb3ba28",
+    "07c38a2f966de584",
+    "d68b1cd0159ed9d8",
+    "0f09c467d6ad22f7",
+    "3bb3afa9d280a02c",
+    "b50c9dccf5f00562",
+    "57088e91909efd2c",
+    "bd64310e9432c006",
+    "6c0509553f936908",
+    "a79c8940e189e139",
+    "99381513f078340f",
+    "65d41f8d7da7f688",
+    "d779efc297b35a6d",
+    "b91efed082987831",
+    "8351ab8c9d711774",
+    "b6e3278c28312a4d",
+    "d0ce7a21656dd48f",
+    "491b12d06fad55f6",
+    "08afb182fe555794",
+    "bf109f61c95745f9",
+    "43c3befe3ea4c796",
+    "b19199ccff2c3614",
+    "1f55fb369643245b"
+   ]
+  },
+  {
+   "date": "2005-07-14",
+   "future": false,
+   "celex": "01968L0193-20050714",
+   "acts": [
+    {
+     "id": "eu:celex:31971L0140:por",
+     "title": "DIRECTIVA DO CONSELHO 71/140/CEE de 22 de Março de 1971",
+     "published": null,
+     "celex": "31971L0140"
+    },
+    {
+     "id": "eu:celex:31974L0648:por",
+     "title": "DIRECTIVA DO CONSELHO 74/648/CEE de 9 de Dezembro de 1974",
+     "published": null,
+     "celex": "31974L0648"
+    },
+    {
+     "id": "eu:celex:31977L0629:por",
+     "title": "M3",
+     "published": null,
+     "celex": "31977L0629"
+    },
+    {
+     "id": "eu:celex:31978L0055:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31978L0055"
+    },
+    {
+     "id": "eu:celex:31978L0692:por",
+     "title": "M5",
+     "published": null,
+     "celex": "31978L0692"
+    },
+    {
+     "id": "eu:celex:31982L0331:por",
+     "title": "M6",
+     "published": null,
+     "celex": "31982L0331"
+    },
+    {
+     "id": "eu:celex:31985R3768:por",
+     "title": "M7",
+     "published": null,
+     "celex": "31985R3768"
+    },
+    {
+     "id": "eu:celex:31986L0155:por",
+     "title": "M8",
+     "published": null,
+     "celex": "31986L0155"
+    },
+    {
+     "id": "eu:celex:31988L0332:por",
+     "title": "DIRECTIVA DO CONSELHO 88/332/CEE de 13 de Junho de 1988",
+     "published": null,
+     "celex": "31988L0332"
+    },
+    {
+     "id": "eu:celex:31990L0654:por",
+     "title": "DIRECTIVA DO CONSELHO 90/654/CEE de 4 de Dezembro de 1990",
+     "published": null,
+     "celex": "31990L0654"
+    },
+    {
+     "id": "eu:celex:32002L0011:por",
+     "title": "DIRECTIVA 2002/11/CE DO CONSELHO de 14 de Fevereiro de 2002",
+     "published": null,
+     "celex": "32002L0011"
+    },
+    {
+     "id": "eu:celex:32003L0061:por",
+     "title": "DIRECTIVA 2003/61/CE DO CONSELHO de 18 de Junho de 2003",
+     "published": null,
+     "celex": "32003L0061"
+    },
+    {
+     "id": "eu:celex:32003R1829:por",
+     "title": "REGULAMENTO (CE) N. o 1829/2003 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de Setembro de 2003",
+     "published": null,
+     "celex": "32003R1829"
+    },
+    {
+     "id": "eu:celex:32005L0043:por",
+     "title": "DIRECTIVA 2005/43/CE DA COMISSÃO de 23 de Junho de 2005",
+     "published": null,
+     "celex": "32005L0043"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Dinamarca, da Irlanda e do Reino Unido da Grã-Bretanha e da Irlanda do Norte",
+     "published": null,
+     "celex": "11972B"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 5.º A",
+    "Adita Artigo 5.ºB",
+    "Adita Artigo 5.ºBA",
+    "Adita Artigo 5.ºC",
+    "Adita Artigo 5.º D",
+    "Adita Artigo 5.º E",
+    "Adita Artigo 5.ºF",
+    "Adita Artigo 5.ºG",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 10.ºA",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 12.ºA",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 14.ºA",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 16.ºA",
+    "Adita Artigo 16.ºB",
+    "Adita Artigo 17.º",
+    "Adita Artigio 17.º A",
+    "Adita Artigo 18.º",
+    "Adita Artigo 18.º A",
+    "Adita Artigo 18.º B",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita ANEXO I",
+    "Adita CONDIÇÕES RELATIVAS À CULTURA",
+    "Adita ANEXO II",
+    "Adita CONDIÇÕES RELATIVAS AOS MATERIAIS DE PROPAGAÇÃO",
+    "Adita I. CONDIÇÕES GERAIS",
+    "Adita II. CONDIÇÕES ESPECIAIS",
+    "Adita 1. Bacelos enxertados",
+    "Adita 2. Derrogação temporária",
+    "Adita III. CALIBRES",
+    "Adita 1. Estacas para enxertar, estacas para enraizar e garfos",
+    "Adita 2. Bacelos",
+    "Adita A. DIÂMETRO",
+    "Adita B. COMPRIMENTO",
+    "Adita C. RAÍZES",
+    "Adita D. TALÃO",
+    "Adita 3. Bacelos enxertados",
+    "Adita A. COMPRIMENTO",
+    "Adita B. RAÍZES",
+    "Adita C. SOLDADURA DA ENXERTIA",
+    "Adita ANEXO III",
+    "Adita ACONDICIONAMENTO",
+    "Adita CONDIÇÕES ESPECIAIS",
+    "Adita I. Pequenas quantidades",
+    "Adita II. Videiras com raízes em qualquer substrato em vasos, caixas ou cartões",
+    "Adita ANEXO IV",
+    "Adita MARCAÇÃO",
+    "Adita A. ETIQUETA",
+    "Adita I. Informações requeridas",
+    "Adita II. Condições mínimas",
+    "Adita III. Derrogação relativa a pequenas quantidades destinadas ao consumidor final",
+    "Adita 1. Mais do que uma unidade",
+    "Adita 2. Apenas uma unidade",
+    "Adita IV. Derrogação relativa às videiras em vasos, caixas ou cartões",
+    "Adita B. DOCUMENTO DE ACOMPANHAMENTO",
+    "Adita I. Condições a preencher",
+    "Adita II. Lista das informações a incluir",
+    "Adita Notas",
+    "Suprime Artigo 1º.",
+    "Suprime Artigo 2º.",
+    "Suprime Artigo 3º.",
+    "Suprime Artigo 4º.",
+    "Suprime Artigo 5º.",
+    "Suprime Artigo 6º.",
+    "Suprime Artigo 7º.",
+    "Suprime Artigo 8º.",
+    "Suprime Artigo 9º.",
+    "Suprime Artigo 10º.",
+    "Suprime Artigo 11º.",
+    "Suprime Artigo 12º.",
+    "Suprime Artigo 13º.",
+    "Suprime Artigo 14º.",
+    "Suprime Artigo 15º.",
+    "Suprime Artigo 16º.",
+    "Suprime Artigo 17º.",
+    "Suprime Artigo 18º.",
+    "Suprime Artigo 19º.",
+    "Suprime Artigo 20º.",
+    "Suprime ANEXO I CONDIÇÕES QUANTO À CULTURA — I. Condições gerais",
+    "Suprime ANEXO II CONDIÇÕES QUANTO AOS MATERIAIS DE PROPAGAÇÃO — I. Condições gerais",
+    "Suprime ANEXO III ACONDICIONAMENTO",
+    "Suprime ANEXO IV ETIQUETA — A. Indicações prescritas"
+   ],
+   "fragments": [
+    "c9d6126277ed4e7a",
+    "1547f111e08589f6",
+    "4821340bf707589c",
+    "a3d446412f312833",
+    "27a52ddbb10b378d",
+    "b49940ce1eea0a16",
+    "27dc050619c75730",
+    "7ee11e1b9e5a5628",
+    "ff135de488cb443e",
+    "e737522330066fe9",
+    "d3fd804e092402ec",
+    "45d9cfad7da6b488",
+    "ddbbbe6233abe1e1",
+    "7e82b143bdfe1e55",
+    "267b120f860c3f5f",
+    "18430a1d2efe85c4",
+    "5df8b5dbfd1b7065",
+    "4a24fecdf94dad27",
+    "0afc11ab4bd90358",
+    "5b40130f8e65f477",
+    "ae9ad1cab9c35e4a",
+    "238e1d5b7ed41820",
+    "527432f128f896f4",
+    "33802944652c9dbb",
+    "2266a3e34c0882cb",
+    "16541bc7c4beb2c0",
+    "f94f1cc268712fb6",
+    "90f7eb7a8746ed3b",
+    "2304ea56681ca2f2",
+    "bdb7b8b98a60913e",
+    "a3e694a00c242828",
+    "100de7c5f72c6d38",
+    "69158136a1c0be44",
+    "106cf9a493010f43",
+    "c1c1d69a9f53635e",
+    "95fa135343faee65",
+    "d664376e2a8dcecd",
+    "fc7f6d9f3c4801a8",
+    "852174729551523b",
+    "a7ad199e32ea60d8",
+    "56cad67b586f20cc",
+    "1b79fc8fffd761c8",
+    "4c1700c87f21f011",
+    "8b563e7a42cfdd3f",
+    "fad2a7c81a320239",
+    "0609c7b657aface7",
+    "8f16697a01ff0083",
+    "01d89e89bcba3415",
+    "c68e027fd5f079b2",
+    "aeefd9abfe0f7fe1",
+    "61bff0a5d4630d9c",
+    "5d9debc36282bcfc",
+    "59e646659e007ac3",
+    "e2c7998f0208b08f",
+    "407fd2e9fda62b3d",
+    "61bff0a5d4630d9c",
+    "720af75c92791b10",
+    "5c2487e0ffa44d83",
+    "5786e1d74860d36f",
+    "295d8da8d18f558d",
+    "512d45c06b567ecc",
+    "e03a0eb4d5b2eef3",
+    "8c76b8d7f33eaf92",
+    "45da4522d6bfec2c",
+    "82a30a2b13d749ea",
+    "341f8d6f41ce0c49",
+    "ff4aac01901ce996",
+    "1c5b3e714c11fffb",
+    "26cef8becf4a4325",
+    "8558eebeafbedfec",
+    "bcc199d03f09e19e",
+    "a2e82f5570e2a8d1",
+    "85d9f69d85efeb23",
+    "a5131636ff28605c"
+   ]
+  },
+  {
+   "date": "2020-02-16",
+   "future": false,
+   "celex": "01968L0193-20200216",
+   "acts": [
+    {
+     "id": "eu:celex:32020L0177:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2020/177 DA COMISSÃO Texto relevante para efeitos do EEE de 11 de fevereiro de 2020",
+     "published": null,
+     "celex": "32020L0177"
+    },
+    {
+     "id": null,
+     "title": "ACTO relativo às condições de adesão e às adaptações dos Tratados",
+     "published": null,
+     "celex": "11972B%2FACT"
+    },
+    {
+     "id": null,
+     "title": "ACTO relativo às condições de adesão da República Helénica e às adaptações dos Tratados",
+     "published": null,
+     "celex": "11979H%2FACT"
+    },
+    {
+     "id": null,
+     "title": "ACTO (94/C 241/08)",
+     "published": null,
+     "celex": "11994N%2FACT"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 5.ºBA",
+    "Altera Artigo 10.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º B",
+    "Altera CONDIÇÕES RELATIVAS À CULTURA",
+    "Altera I. CONDIÇÕES GERAIS",
+    "Altera 1. Estacas para enxertar, estacas para enraizar e garfos",
+    "Altera Notas",
+    "Adita Secção 1: Identidade, pureza e condições de cultura",
+    "Adita Secção 2: Requisitos sanitários para as vinhas-mãe destinadas à produção de todas as categorias de material de propagação e para os viveiros de todas as categorias",
+    "Adita Secção 3: Requisitos relativos ao solo e condições de produção para as vinhas-mãe destinadas à produção de todas as categorias de material de propagação e para os viveiros de todas as categorias de material de propagação",
+    "Adita Secção 4: Requisitos aplicáveis ao sítio de produção, ao local de produção ou à área",
+    "Adita Secção 5: Inspeções oficiais",
+    "Adita Secção 6: Lista das RNQP para as quais a inspeção visual e, em caso de dúvidas, a amostragem e a análise são necessárias para determinar a respetiva presença nos termos da secção 2, ponto 2",
+    "Adita Secção 7: Lista das RNQP para as quais a inspeção visual e, em casos específicos, a amostragem e a análise são necessárias para determinar a respetiva presença nos termos da secção 2, ponto 2, e da secção 8",
+    "Adita Secção 8: Requisitos relativos às medidas para as vinhas-mãe de Vitis L. e, se for caso disso, para os viveiros por categoria, nos termos da secção 2, ponto 2",
+    "Adita 1. Material de propagação inicial, material de propagação básico e material certificado",
+    "Adita 2. Material de propagação inicial",
+    "Adita 3. Material de propagação básico",
+    "Adita 4. Material certificado",
+    "Adita 5. Material de propagação inicial, material de propagação básico e material certificado",
+    "Adita 6. Materiais standard"
+   ],
+   "fragments": [
+    "a3931d35a5c59619",
+    "1547f111e08589f6",
+    "52d73fab54625301",
+    "a3d446412f312833",
+    "27a52ddbb10b378d",
+    "a50d8576681e0d45",
+    "27dc050619c75730",
+    "7ee11e1b9e5a5628",
+    "ae880b6a59d36c6c",
+    "e737522330066fe9",
+    "d3fd804e092402ec",
+    "45d9cfad7da6b488",
+    "ddbbbe6233abe1e1",
+    "7e82b143bdfe1e55",
+    "267b120f860c3f5f",
+    "18430a1d2efe85c4",
+    "5df8b5dbfd1b7065",
+    "dd0d2961b97d2056",
+    "0afc11ab4bd90358",
+    "5b40130f8e65f477",
+    "ae9ad1cab9c35e4a",
+    "238e1d5b7ed41820",
+    "527432f128f896f4",
+    "755861c4833d34d7",
+    "2266a3e34c0882cb",
+    "fa4037a88680f162",
+    "f94f1cc268712fb6",
+    "90f7eb7a8746ed3b",
+    "2304ea56681ca2f2",
+    "51c911de07ad9fb0",
+    "a3e694a00c242828",
+    "100de7c5f72c6d38",
+    "76c4db7c0a0ef527",
+    "7afc401b8fa0adbf",
+    "c1c1d69a9f53635e",
+    "95fa135343faee65",
+    "d664376e2a8dcecd",
+    "cc2790dbcd75bb9d",
+    "d5e833ad23dbd555",
+    "f93592fa46e66d35",
+    "62bf7fb6da189b12",
+    "0e920687662acb37",
+    "7175ab220a644c86",
+    "9103fc46582109cf",
+    "e38824f998b30761",
+    "8065f86b5d6ff5b8",
+    "c1b9ac10252bbcdc",
+    "13fc0df2e988bb11",
+    "e7e6b348e6a7707e",
+    "59e272338322516d",
+    "cf43b6ffc1701e67",
+    "6b65caa95676aa04",
+    "852174729551523b",
+    "a7ad199e32ea60d8",
+    "754c2561442f9583",
+    "1b79fc8fffd761c8",
+    "4c1700c87f21f011",
+    "8b563e7a42cfdd3f",
+    "fad2a7c81a320239",
+    "7b70dd044291a05a",
+    "8f16697a01ff0083",
+    "01d89e89bcba3415",
+    "c68e027fd5f079b2",
+    "aeefd9abfe0f7fe1",
+    "61bff0a5d4630d9c",
+    "5d9debc36282bcfc",
+    "59e646659e007ac3",
+    "e2c7998f0208b08f",
+    "407fd2e9fda62b3d",
+    "61bff0a5d4630d9c",
+    "720af75c92791b10",
+    "5c2487e0ffa44d83",
+    "5786e1d74860d36f",
+    "295d8da8d18f558d",
+    "512d45c06b567ecc",
+    "e03a0eb4d5b2eef3",
+    "8c76b8d7f33eaf92",
+    "45da4522d6bfec2c",
+    "82a30a2b13d749ea",
+    "341f8d6f41ce0c49",
+    "ff4aac01901ce996",
+    "1c5b3e714c11fffb",
+    "26cef8becf4a4325",
+    "8558eebeafbedfec",
+    "bcc199d03f09e19e",
+    "a2e82f5570e2a8d1",
+    "85d9f69d85efeb23",
+    "729745a48baf422e"
+   ]
+  }
+ ],
+ "fragments": {
+  "995407dea0de043c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 68/193/CEE do Conselho, de 9 de Abril de 1968, relativa à comercialização dos materiais de propagação vegetativa da vinha** *Jornal Oficial nº L 093 de 17/04/1968 p. 0015 - 0023 Edição especial finlandesa: Capítulo 3 Fascículo 2 p. 0032 Edição especial dinamarquesa: Série I Capítulo 1968(I) p. 0091 Edição especial sueca: Capítulo 3 Fascículo 2 p. 0032 Edição especial inglesa: Série I Capítulo 1968(I) p. 0093 - 0103 Edição especial grega: Capítulo 03 Fascículo 3 p. 0039 Edição especial espanhola: Capítulo 03 Fascículo 2 p. 0124 Edição especial portuguesa: Capítulo 03 Fascículo 2 p. 0124*\n\nDIRECTIVA DO CONSELHO de 9 de Abril de 1968 relativa à comercialização dos materiais de propagação vegetativa da vinha (68/193/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43º.,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1), depois de consultado o Comité Económico e Social,\n\nConsiderando que a produção de vinho de uvas de mesa ocupa um lugar importante na agricultura da Comunidade Económica Europeia;\n\nConsiderando que resultados satisfatórios na cultura da vinha dependem em larga medida da utilização de plantas adequadas; que, para esse efeito, certos Estados-membros têm, desde há algum tempo, limitado a comercialização dos materiais de propagação vegetativa da vinha à das madeiras e plantas de alta qualidade; que estes Estados beneficiaram do resultado dos trabalhos de selecção sistemática das plantas seguidos desde há várias dezenas de anos e que levaram à obtenção de variedades de vinhas estáveis e homogéneas cujas características permitem prever vantagens substanciais para as utilizações previstas;\n\nConsiderando que uma maior produtividade em matéria de cultura da vinha na Comunidade será obtido pela aplicação pelos Estados-membros de regras unificadas e o mais rigorosas possível no que respeita à escolha das variedades admitidas para comercialização;\n\nConsiderando, todavia, que uma limitação da comercialização a certas variedades só é justificada na medida em que o viticultor tenha a garantia que obterá efectivamente materiais de propagação dessas mesmas variedades;\n\nConsiderando que para esse efeito certos Estados-membros aplicam sistemas de certificação que têm por objectivo garantir, através de um controlo oficial, a identidade e a pureza das variedades bem como o seu estado sanitário, nomeadamente em relação às virosses; que esses sistemas podem constituir uma das bases de um sistema unificado de certificação na Comunidade;\n\nConsiderando que é conveniente que, para os materiais de propagação produzidos na Comunidade, um tal sistema seja aplicável tanto nas trocas entre os Estados-membros como na comercialização nos mercados nacionais;\n\nConsiderando que, regra geral, os materiais de propagação destinados à produção de uvas ou à produção de materiais de propagação só devem poder ser comercializados se, em conformidade com as regras de certificação, tiverem sido oficialmente examinados e certificados como materiais de propagação de base ou materiais de propagação certificados; que a escolha dos termos técnicos «materiais de propagação de base» e «materiais de propagação certificados» se fundamenta numa terminologia internacional já existente nos sistemas comunitários estabelecidos para os outros géneros e espécies de plantas;\n\nConsiderando que é desejável limitar a comercialização aos materiais de propagação certificados da vinha obtidos por selecção clonal; que, contudo, é actualmente impossível atingir esse objectivo dado que as necessidades da Comunidade não poderiam ser cobertas na sua totalidade por esses materiais; que é por conseguinte conveniente admitir provisoriamente a comercialização de materiais standard controlados que devem possuir igualmente a identidade e a pureza varietais mas que nem sempre oferecem a mesma garantia que os materiais de propagação obtidos por selecção clonal; que, no entanto, esta categoria deve desaparecer progressivamente;\n\nConsiderando que se, num Estado-membro, não existe propagação da vinha ou comercialização dos seus materiais de propagação, se justifica isentar esse Estado-membro da obrigação de proceder a uma certificação ou a um controlo dos materiais de propagação standard sem que todavia seja afectada a sua obrigação de limitar a comercialização aos materiais de propagação certificados e aos materiais de propagação standard;\n\nConsiderando que é conveniente que os materiais de propagação não comercializados sejam excluídos do campo de aplicação das regras comunitárias dada a sua reduzida importância económica; que não deve ser afectado o direito dos Estados-membros de os submeter a prescrições particulares;\n\nConsiderando que é conveniente não aplicar as regras comunitárias aos materiais de propagação que se prove serem destinados à exportação para países terceiros;\n\nConsiderando que as regras comunitárias deverão ser igualmente adoptadas pelo Conselho, o mais tardar em 31 de Dezembro de 1969, no que respeita aos materiais de propagação produzidos em países terceiros e comercializados na Comunidade; (1) JO nº. 156 de 15.7.1967, p. 30.\n\nConsiderando que para melhorar, além do valor genético, a qualidade exterior dos materiais de propagação na Comunidade, devem ser estabelecidas certas condições no que respeita à pureza técnica, à qualidade e à calibragem;\n\nConsiderando que, para assegurar a identidade dos materiais de propagação, devem ser estabelecidas regras comunitárias no que respeita à separação dos lotes, à embalagem, ao fecho e à marcação; que, para esse efeito, as etiquetas devem exibir as indicações necessárias ao exercício do controlo oficial bem como à informação do viticultor e evidenciar o carácter comunitário do sistema;\n\nConsiderando que para garantir, aquando da comercialização, o respeito tanto das considerações relativas à qualidade dos materiais de propagação como das disposições que asseguram a sua identidade, os Estados-membros devem estabelecer disposições de controlo adequadas;\n\nConsiderando que os materiais de propagação que satisfazem estas condições só devem ser submetidos, sem prejuízo da aplicação do artigo 36º. do Tratado, às restrições de comercialização estabelecidas pelas regras comunitárias;\n\nConsiderando que é conveniente que até ao estabelecimento de um catálogo comum das variedades, estas restrições incluam nomeadamente o direito de os Estados-membros limitarem a comercialização dos materiais de propagação à comercialização das variedades que tenham um valor cultural e de utilização para o seu território; que não é oportuno resolver, no estado actual, a questão de saber se, e em que condições, os Estados-membros podem proibir total ou parcialmente a cultura de certas variedades de vinha no seu território;\n\nConsiderando que é necessário reconhecer, sob certas condições, que materiais de propagação produzidos noutros Estados-membros a partir de materiais de propagação de base certificados num Estado-membro são equivalentes aos materiais de propagação produzidos esse Estado-membro;\n\nConsiderando que, para períodos em que o abastecimento de materiais de propagação certificados das diferentes categorias ou de materiais de propagação standard encontre dificuldades, é conveniente admitir provisoriamente materiais de propagação sujeitos a exigências reduzidas;\n\nConsiderando que a fim de harmonizar os métodos técnicos de certificação e de controlo dos materiais de propagação standard dos diferentes Estados-membros e de possibilitar, no futuro, a comparação entre os materiais certificados ou controlados no interior da Comunidade e os provenientes de países terceiros, é conveniente efectuar nos Estados-membros experiências comunitárias para julgar da qualidade dos materiais de propagação das diferentes categorias;\n\nConsiderando que é conveniente confiar à Comissão o cuidado de tomar certas medidas de aplicação; que, para facilitar a execução das medidas previstas, é conveniente estabelecer um procedimento que crie uma cooperação estreita entre os Estados-membros e a Comissão, no seio do Comité Permanente das Sementes e Plantas Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "de1191d2a7bbfc71": {
+   "fragment_id": "Artigo 1º.",
+   "type": "artigo",
+   "heading": "Artigo 1º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º.\n\nA presente directiva diz respeito aos materiais de propagação vegetativa da vinha, doravante designados «materiais de propagação», produzidos e comercializados no interior da Comunidade."
+  },
+  "67638afe1bb3ba28": {
+   "fragment_id": "Artigo 2º.",
+   "type": "artigo",
+   "heading": "Artigo 2º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º.\n\n1. Na acepção da presente directiva, entender-se-á por: A. Vinha: as plantas do género Vitis (L.) destinadas à produção de uvas ou à utilização como materiais de propagação para estas mesmas plantas.\n\nB. Materiais de propagação: i) Bacelos: a) Enraizados: fracções de sarmentos da vinha enraizados e não enxertados, destinadas à plantação de pé-franco ou para utilização como porta-enxertos para uma enxertia;\n\nb) Enxertos-soldados: fracções de sarmentos de vinha ligadas por enxertia, cuja parte subterrânea está enraizada.\n\nii) Partes de bacelos: a) Sarmentos: ramos de um ano;\n\nb) Estacas enxertáveis de porta-enxertos: fracções de sarmentos de vinha destinadas a formar a parte subterrânea no momento da preparação dos enxertos-soldados;\n\nc) Estacas-garfo: fracções de sarmentos de vinha destinadas a formar a parte área no momento da preparação dos enxertos-soldados ou no momento das enxertias no lugar;\n\nd) Estacas de viveiros: fracções de sarmentos de vinha destinadas à produção de enraizamentos.\n\nC. Vinhos-mãe: culturas de vinha destinadas à produção das estacas enxertáveis de porta-enxertos, das estacas de viveiros ou das estacas-garfo.\n\nD. Viveiros: culturas de vinha destinadas à produção de raízes ou de enxertos-soldados.\n\nE. Materiais de propagação de base: os materiais de propagação: a) Que tenham sido produzidos sob a responsabilidade do obtentor de acordo com as regras de selecção conservadora no que respeita à variedade;\n\nb) Que são destinadas à produção de materiais de propagação;\n\nc) Que satisfazem as condições estabelecidas nos Anexos I e II para os materiais de propagação de base e\n\nd) Para os quais foi verificado, aquando de um exame oficial, que as condições supracitadas foram respeitadas.\n\nF. Materiais de propagação certificados: os materiais de propagação: a) Que tenham origem directamente nos materiais de propagação de base de uma variedade ou, a pedido do obtentor, de materiais de propagação, de um estádio vegetativo anterior aos materiais de propagação de base, que tenham satisfeito, aquando de um exame oficial, as condições estabelecidas nos Anexos I e II para os materiais de propagação de base,\n\nb) Que são destinados\n\n- à produção de plantas ou de partes de plantas que servem para a produção de uvas, ou\n\n- à produção de uvas,\n\nc) Que satisfazem as condições estabelecidas nos Anexos I e II para os materiais de propagação certificados, e\n\nd) Para os quais foi verificada, aquando de um exame oficial, que as condições supracitadas foram respeitadas.\n\nG. Materiais de propagação standard: os materiais de propagação\n\na) Que possuem a identidade e a pureza varietais,\n\nb) Que são destinados\n\n- à produção de plantas ou de partes de plantas que servem para a produção de uvas, ou\n\n- à produção de uvas,\n\nc) Que satisfazem as condições previstas nos Anexos I e II para os materiais de propagação standard, e\n\nd) Para os quais foi verificado aquando de um exame oficial, que as condições supracitadas foram respeitadas.\n\nH. Disposições oficiais: as disposições que forem tomadas a) Pelas autoridades de um Estado ou,\n\nb) Sob a responsabilidade de um Estado, por pessoas morais de direito público, ou\n\nc) Para actividades auxiliares, igualmente sob controlo de um Estado, por pessoas físicas ajuramentadas;\n\ncom a condição de as pessoas mencionadas nas alíneas b) e c) não obterem qualquer proveito específico do resultado dessas disposições.\n\n2. Os Estados-membros poderão: a) Estabelecer que uma certificacão oficial dos materiais de propagação um controlo dos materiais de propagação standard não sejam efectuados se não existir normalmente propagação ou comercialização desses materiais no seu território;\n\nb) A título transitório após a entrada em vigor das disposições legislativas, regulamentares ou administrativas necessárias para dar cumprimento ao disposto na presente directiva, estabelecer que os materiais de propagação que tenham sido utilizados para o estabelecimento das vinhas-mãe ou dos viveiros são equivalentes aos materiais de propagação que tenham sido certificados ou controlados de acordo com o disposto na presente directiva, se esses materiais de propagação tiverem oferecido, antes da sua utilização, as mesmas garantias que os materiais de propagação que tenham sido certificados ou controlados de acordo com o disposto na presente directiva."
+  },
+  "07c38a2f966de584": {
+   "fragment_id": "Artigo 3º.",
+   "type": "artigo",
+   "heading": "Artigo 3º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º.\n\n1. Os Estados-membros determinarão que os materiais de propagação da vinha só possam ser comercializados: - se tiverem sido oficialmente certificados «materiais de propagação de base» ou «materiais de propagação certificados» ou se se tratar de materiais de propagação standard oficialmente controlados, e\n\n- se satisfizerem as condições previstas no Anexo II.\n\n2. Os Estados-membros poderão estabelecer derrogações ao disposto no nº. 1: a) Para os materiais de propagação dos estádios vegetativos anteriores aos materiais de base;\n\nb) Para experiências ou para fins científicos;\n\nc) Para trabalhos de selecção.\n\n3. Os Estados-membros poderão estabelecer derrogações para as estacas enxertáveis de porta-enxertos no que respeita aos seus comprimentos mínimos (Anexo II, Terceira Parte, ponto 1 B a).\n\n4. A Comissão poderá de acordo com o procedimento previsto no artigo 17º.,\n\na) Autorizar os Estados-membros, em derrogação do disposto no Anexo II, Segunda Parte, ponte 1, a classificar os enxertos-soldados provenientes das combinações de materiais de propagação certificados enxertados nos materiais de propagação standard como materiais de propagação certificados; esta autorização só será concedida para um período transitório a determinar e o mais tardar até que as plantações novas nos Estados-membros em causa estejam suficientemente providas de materiais de propagação de base e de materiais de propagação certificados;\n\nb) Determinar que os materiais de propagação de certas variedades da vinha só possam ser comercializados a partir de determinadas datas se tiverem sido oficialmente certificados «materiais de propagação de base» ou «materiais de propagação certificados»."
+  },
+  "d68b1cd0159ed9d8": {
+   "fragment_id": "Artigo 4º.",
+   "type": "artigo",
+   "heading": "Artigo 4º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º.\n\nNo que respeita às condições previstas nos Anexos I e II, os Estados-membros poderão fixar, para a sua própria produção, condições suplementares ou mais rigorosas para a certificação bem como para o controlo dos materiais de propagação standard."
+  },
+  "0f09c467d6ad22f7": {
+   "fragment_id": "Artigo 5º.",
+   "type": "artigo",
+   "heading": "Artigo 5º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º.\n\n1. Cada Estado-membro estabelecerá uma lista das variedades da vinha admitidas oficialmente para certificação, bem como para o controlo dos materiais de propagação standard no seu território. A lista mencionará as principais características morfológicas e fisiológicas que permitem distinguir as variedades entre si.\n\n2. Uma variedade só será admitida para certificação ou para controlo se tiver sido verificado por exames oficiais ou oficialmente controlados, efectuados, nomeadamente, em cultura, que a variedade é suficientemente homogénea e estável.\n\nSe for conhecido que a variedade é comercializada noutro país sob outra designação, essa designação será igualmente registada.\n\n3. A variedades admitidas serão regular e oficialmente controladas. Se qualquer das condições de admissão para certificação ou para controlo já não se verificar, a admissão será anulada e a variedade será suprimida da lista.\n\n4. A lista bem como as suas diversas alterações serão imediatamente notificadas à Comissão que as comunicará aos outros Estados-membros."
+  },
+  "3bb3afa9d280a02c": {
+   "fragment_id": "Artigo 6º.",
+   "type": "artigo",
+   "heading": "Artigo 6º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º.\n\nOs Estados-membros determinarão que durante o procedimento do controlo das variedades as amostras sejam colhidas oficialmente de acordo com métodos apropriados."
+  },
+  "b50c9dccf5f00562": {
+   "fragment_id": "Artigo 7º.",
+   "type": "artigo",
+   "heading": "Artigo 7º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º.\n\nOs Estados-membros determinarão que os materiais de propagação sejam, aquando da colheita, do acondicionamento, da armazenagem, do transporte e da criação, mantidos em lotes separados e marcados consoante a variedade e, se for caso disso, para os materiais de propagação de base e os materiais de propagação certificados, consoante o clone."
+  },
+  "57088e91909efd2c": {
+   "fragment_id": "Artigo 8º.",
+   "type": "artigo",
+   "heading": "Artigo 8º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º.\n\n1. Os Estados-membros determinarão que os materiais de propagação só possam ser comercializados em lotes suficientemente homogéneos e em embalagens ou molhos fechados, munidos, em conformidade com o disposto nos artigos 9º. e 10º., de um sistema de fecho e de marcação. O acondicionamento terá lugar em conformidade com o disposto no Anexo III.\n\n2. Os Estados-membros poderão prever, para a comercialização de pequenas quantidades a entregar ao último utilizador bem como para a comercialização das vinhas em vasos, em caixas ou em cartões, derrogações ao disposto no nº. 1 no que respeita ao acondicionamento, à embalagem, ao sistema de fecho bem como à marcação."
+  },
+  "bd64310e9432c006": {
+   "fragment_id": "Artigo 9º.",
+   "type": "artigo",
+   "heading": "Artigo 9º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º.\n\nOs Estados-membros determinarão que as embalagens e molhos de materiais de propagação sejam fechados pela pessoa responsável de modo a que, aquando da abertura da embalagem ou do molho, o sistema de fecho seja estragado e não possa ser reutilizado."
+  },
+  "6c0509553f936908": {
+   "fragment_id": "Artigo 10º.",
+   "type": "artigo",
+   "heading": "Artigo 10º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º.\n\n1. Os Estados-membros determinarão que as embalagens e os molhos de materiais de propagação sejam providos pela pessoa responsável pelo fecho, de uma etiqueta exterior em conformidade com o Anexo IV, redigida numa das línguas oficiais da Comunidade; a sua fixação será assegurada pelo sistema de fecho. A etiqueta será branca para os materiais de propagação de base, azul para os materiais de propagação certificados e amarelo torrado para os materiais de propagação standard.\n\n2. Os Estados-membros poderão determinar que cada lote seja igualmente acompanhado de um documento no qual figuram as indicações da etiqueta."
+  },
+  "a79c8940e189e139": {
+   "fragment_id": "Artigo 11º.",
+   "type": "artigo",
+   "heading": "Artigo 11º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º.\n\nOs Estados-membros zelarão por que a identidade dos materiais de propagação seja assegurada, desde a colheita até à entrega ao último utilizador, por um sistema de controlo oficial que tenham determinado ou aprovado. Tomarão todas as disposições úteis que permitam que durante a comercialização, seja efectuado, pelo menos por amostragem, o controlo oficial dos materiais de propagação quanto ao respeito pelas condições previstas na presente directiva."
+  },
+  "99381513f078340f": {
+   "fragment_id": "Artigo 12º.",
+   "type": "artigo",
+   "heading": "Artigo 12º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º.\n\n1. Os Estados-membros zelarão por que os materiais de propagação de base e os materiais de propagação certificados, que tenham sido oficialmente certificados e cuja embalagem tenha sido fechada e marcada, em conformidade com a presente directiva, bem como os materiais de propagação standard cuja embalagem tenha sido fechada e marcada em conformidade com a presente directiva, só sejam submetidos a restrições de comercialização previstas pela presente directiva no que respeita às suas características, às disposições do exame, à marcação e ao fecho.\n\n2. Os Estados-membros poderão: a) Determinar, na medida em que as disposições tomadas pela Comissão em conformidade com o nº. 4, alínea b) do artigo 3º., não tenham entrado em vigor, que os materiais de propagação de certas espécies de vinha só possam ser comercializados a partir das datas determinadas se se tratar de materiais de propagação que tenham sido oficialmente certificados «materiais de propagação de base» ou «materiais de propagação certificados»;\n\nb) Limitar a comercialização dos materiais de propagação aos materiais de propagação das variedades incluídas numa lista nacional baseada nos valores culturais e de utilização para o seu território, até ao momento em que um catálogo comum das variedades possa ser utilizado; as condições de inscrição nessa lista serão, para as variedades provenientes de outros Estados-membros, as mesmas que para as variedades nacionais."
+  },
+  "65d41f8d7da7f688": {
+   "fragment_id": "Artigo 13º.",
+   "type": "artigo",
+   "heading": "Artigo 13º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º.\n\nOs Estados-membros determinarão que os materiais de propagação directamente proveniente de materiais de propagação de base certificados num Estado-membro, e colhidos noutro Estado-membro, possam ser certificados no Estado produtor de materiais de propagação de base, se tiverem sido submetidos no seu campo de produção, a uma inspecção in loco que satisfaça as condições previstas no Anexo I e se tiver sido veriricado, aquando de um exame oficial, que as condições estabelecidas no Anexo II respeitadas."
+  },
+  "d779efc297b35a6d": {
+   "fragment_id": "Artigo 14º.",
+   "type": "artigo",
+   "heading": "Artigo 14º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º.\n\n1. A fim de eliminar dificuldades passageiras de abastecimento geral de materiais de propagação de base, de materiais de propagação certificados ou de materiais de propagação standard, que se apresentem pelo menos num Estado-membro e que não possam ser ultrapassadas no interior da Comunidade, a Comissão autorizará, de acordo com o procedimento previsto no artigo 17º., um ou vários Estados-membros a admitir para comercialização, para um período por esta determinado, materiais de propagação de uma categoria sujeita a exigências reduzidas.\n\n2. Quando se tratar de uma categoria de materiais de propagação de uma variedade determinada, a cor da etiqueta será a prevista para a categoria correspondente e, em todos os outros casos será escura. A etiqueta indicará sempre que se trata de materiais de propagação de uma categoria sujeita a exigências reduzidas."
+  },
+  "b91efed082987831": {
+   "fragment_id": "Artigo 15º.",
+   "type": "artigo",
+   "heading": "Artigo 15º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º.\n\n1. A presente directiva não se aplicará aos materiais de propagação comprovativamente destinados a ser exportados para países terceiros.\n\n2. Sob proposta da Comissão, o Conselho, deliberando por maioria qualificada, adoptará, o mais tardar em 31 de Dezembro de 1969, as disposições relativas aos materiais de propagação produzidos em países terceiros e comercializados no interior da Comunidade."
+  },
+  "8351ab8c9d711774": {
+   "fragment_id": "Artigo 16º.",
+   "type": "artigo",
+   "heading": "Artigo 16º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º.\n\n1. Serão efectuadas experiências comunitárias no interior da Comunidade a fim de apreciar a qualidade dos materiais de propagação; estes serão submetidos ao exame do Comité referido no artigo 17º.\n\n2. Numa primeira fase, as experiências servirão para harmonizar os métodos de certificação dos materiais de propagação certificados e os métodos de controlo dos materiais de propagação standard a fim de se obter uma equivalência de resultados. Desde que este fim seja atingido, as experiências serão objecto de um relatório anual de actividade notificado confidencialmente aos Estados-membros e à Comissão. A Comissão determinará de acordo com o procedimento previsto no artigo 17º., a data em que o relatório será estabelecido pela primeira vez.\n\n3. A Comissão adoptará, de acordo com o procedimento previsto no artigo 17º., as disposições necessárias para a execução das experiências. Materiais de propagação produzidos em países terceiros poderão ser incluídos nas experiências."
+  },
+  "b6e3278c28312a4d": {
+   "fragment_id": "Artigo 17º.",
+   "type": "artigo",
+   "heading": "Artigo 17º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º.\n\n1. No caso de ser feita referência ao procedimento definido no presente artigo, o Comité Permanente das Sementes e Plantas Agrícolas, Hortícolas e Florestais criado pela Decisão do Conselho de 14 de Junho de 1966 (1), doravante designado o «Comité», será convocado pelo seu Presidente, quer por iniciativa deste, quer a pedido do representante de qualquer Estado-membro. (1) JO nº. 125 de 11.7.1966, p. 2289/66.\n\n2. No seio do Comité, os votos dos Estados-membros serão afectados pela ponderação prevista no nº. 2 do artigo 148º. do Tratado. O Presidente não tomará parte na votação.\n\n3. O representante da Comissão apresentará um projecto das medidas a tomar. O Comité emitirá o seu parecer sobre essas medidas num prazo que o Presidente fixará em função da urgência das questões submetidas a exame. O Comité pronunciar-seá por maioria de doze votos.\n\n4. A Comissão adoptará medidas que serão imediatamente aplicáveis. Todavia, se não estiverem em conformidade com o parecer emitido pelo Comité, essas medidas serão imediatamente comunicadas pela Comissão ao Conselho. Nesse caso, a Comissão poderá adiar por um mês, no máximo, a contar da data dessa comunicação, a aplicação das medidas por ela decididas.\n\nO Conselho, deliberando por maioria qualificada, poderá tomar uma decisão diferente no prazo de um mês."
+  },
+  "d0ce7a21656dd48f": {
+   "fragment_id": "Artigo 18º.",
+   "type": "artigo",
+   "heading": "Artigo 18º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º.\n\nA presente directiva não afectará as disposições das legislações nacionais justificadas por razões de protecção da saúde e da vida das pessoas e dos animais ou de preservação dos vegetais ou de protecção da propriedade industrial e comercial."
+  },
+  "491b12d06fad55f6": {
+   "fragment_id": "Artigo 19º.",
+   "type": "artigo",
+   "heading": "Artigo 19º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º.\n\nOs Estados-membros tomarão, até 1 de Julho de 1969, o mais tardar, as medidas necessárias para darem cumprimento à presente directiva. Deste facto, informarão imediatamente a Comissão."
+  },
+  "08afb182fe555794": {
+   "fragment_id": "Artigo 20º.",
+   "type": "artigo",
+   "heading": "Artigo 20º.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º.\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito no Luxemburgo em 9 de Abril de 1968.\n\nPelo Conselho\n\nO Presidente\n\nE. FAURE"
+  },
+  "bf109f61c95745f9": {
+   "fragment_id": "ANEXO I CONDIÇÕES QUANTO À CULTURA — I. Condições gerais",
+   "type": "divisao",
+   "heading": "ANEXO I CONDIÇÕES QUANTO À CULTURA — I. Condições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I CONDIÇÕES QUANTO À CULTURA — I. Condições gerais\n\n1. A cultura deverá possuir a identidade e a pureza varietais.\n\n2. O estado cultural do campo de produção e o estado de desenvolvimento da cultura deverão permitir um controlo satisfatório da identidade e da pureza varietais.\n\n3. Deverá existir uma garantia máxima de que o solo não esteja afectado por organismos nocivos, particularmente por vírus, aquando da plantação dos viveiros e das vinhas-mãe destinados à produção de materiais de propagação de base e de materiais de propagação certificados.\n\n4. A presença de organismos nocivos que reduzam o valor de utilização dos materiais de propagação só será tolerada no limite o mais baixo possível.\n\n5. A cultura deverá ser mantida isenta de plantas que apresentem sintomas de doenças por vírus.\n\n6. A proporção dos pés que faltem nas vinhas-mãe destinadas à produção de materiais de propagação certificados não deverá ultrapassar 5 %; não deverá ultrapassar 10 % nas vinhas-mãe destinadas à produção de materiais de propagação standard. A proporção de pés que faltem poderá excepcionalmente ultrapassar estas percentagens quando tal se deva a agentes físicos.\n\n7. Deverá proceder-se todos os anos a pelo menos uma inspecção in loco; em caso de contestação que possa ser solucionada sem afectar a qualidade dos materiais de propagação deverá proceder-se a uma segunda inspecção in loco.\n\nII. Condições específicas\n\n1. Os viveiros não deverão ser instalados no interior ou a alguns metros de una vinha de uvas de mesa.\n\n2. As partes dos bacelos utilizados para a produção dos enraizamentos e dos enxertos-soldados deverão provir de vinhas-mãe que tenham satisfeito o controlo."
+  },
+  "43c3befe3ea4c796": {
+   "fragment_id": "ANEXO II CONDIÇÕES QUANTO AOS MATERIAIS DE PROPAGAÇÃO — I. Condições gerais",
+   "type": "divisao",
+   "heading": "ANEXO II CONDIÇÕES QUANTO AOS MATERIAIS DE PROPAGAÇÃO — I. Condições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II CONDIÇÕES QUANTO AOS MATERIAIS DE PROPAGAÇÃO — I. Condições gerais\n\n1. Os materiais de propagação deverão possuir a identidade e a pureza varietais; será admitida uma tolerância de 1 % aquando da comercialização dos meteriais de propagação standard.\n\n2. Pureza técnica mínima: 96 %:\n\nSerão considerados como tecnicamente impuros: a) Os materiais de propagação dessecados na totalidade ou em parte, mesmo quando tenham sido sujeitos a um banho na água, após a sua dissecação;\n\nb) Os materiais de propagação avariados, torcidos ou feridos, nomeadamente estragados pelo granizo ou pelo gelo, esmagados ou quebrados.\n\n3. A presença de organismos nocivos que reduzam o valor de utilização dos materiais de propagação só será tolerada no mais baixo limite possível.\n\nII. Condições específicas\n\n1. Enxertos-soldados:\n\nOs enxertos-soldados provenientes das combinações de materiais de propagação de base enxertados nos materiais de propagação de base bem como de materiais de base enxertados em materiais certificados serão classificados na categoria de materiais de propagação de base. Os enxertos-soldados provenientes de combinações de materiais de propagação certificados enxertados em materiais de base bem como de materiais de propagação certificados enxertados em materiais de propagação certificados serão classificados na categoria de materiais de propagação certificados. Todas as outras combinações serão classificadas como materiais de propagação standard.\n\n2. Partes de bacelo:\n\nOs sarmentos deverão ter atingido um estádio satisfatório de maturidade da madeira. A relação «madeira-medula» deverá ser normal para a variedade.\n\nIII. Calibragem\n\n1. Estacas enxertáveis de porta-enxertos e estacas-garfo: A. Diâmetro\n\nDeverá tratar-se do maior diâmetro da mais pequena secção.\n\na) Estacas enxertáveis de porta-enxertos e estacas-garfo:\n\naa) diâmetro na extremidade mais delgada: i) para a Vitis Rupestris e seus cruzamentos com a Vitis Vinifera, 6 a 12 mm;\n\nii) para as outras variedades, 6,5 a 12 mm;\n\na percentagem dos sarmentos com um diâmetro inferior ou igual a 7 mm para a Vitis Rupestris e seus cruzamentos com a Vitis Vinifera e inferior ou igual a 7,5 mm para as outras variedades, não deverá ultrapassar 25 % do lote;\n\nbb) diâmetro máximo na extremidade mais grossa 14 mm, salvo se se tratar de estacas-garfo destinadas à enxertia no local. O enraizamento será efectuado a lepo menos 2 cm da base do olho inferior.\n\nb) Estacas de viveiros:\n\ndiâmetro mínimo na extremidade mais delgada: 3,5 mm.\n\nB. Comprimento O comprimento será medido a partir da base do nó inferior, devendo o meritalo superior ser conservado intacto. a) Estacas enxertáveis de porta-enxertos: comprimento mínimo de 1,05 m;\n\nb) Estacas de viveiros: comprimento mínimo de 55 cm; para a Vitis Vinifera 30 cm;\n\nc) Estacas-garfo: comprimento mínimo de 50 cm e pelo menos cinco olhos utilizáveis.\n\n2. Enraizamento\n\nA. Diâmetro\n\nO diâmetro medido a meio do meritalo, sob o gomo superior e ao longo do grande eixo, deverá ser pelo menos igual a 5 mm.\n\nB. Comprimento A distância do ponto inferior de inserção das raízes ao grampo do gomo superior deverá ser pelo menos igual: a) Para os porta-enxertos, a 30 cm;\n\nb) Para os outros enraizamentos, a 22 cm,\n\nC. Raízes\n\nCada planta deverá ter pelo menos três raizes bem desenvolvidas e convenientemente repartidas. Todavia, a variedade 420 A poderá ter apenas duas raízes bem desenvolvidas, desde que sejam opostas.\n\n3. Enxertos-soldados: a) O caule deverá ter pelo menos 20 cm de comprimento;\n\nb) Raízes: cada planta deverá ter pelo menos três raízes bem desenvolvidas e convenientemente repartidas. Todavia, a variedade 420 A poderá ter apenas duas raízes bem desenvolvidas desde que sejam opostas;\n\nc) Soldadura: cada planta deverá apresentar uma soldadura satisfatória, regular e sólida."
+  },
+  "b19199ccff2c3614": {
+   "fragment_id": "ANEXO III ACONDICIONAMENTO",
+   "type": "divisao",
+   "heading": "ANEXO III ACONDICIONAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III ACONDICIONAMENTO\n\nComposição das embalagens ou molhos:\n\n>PIC FILE= \"T0001770\">"
+  },
+  "1f55fb369643245b": {
+   "fragment_id": "ANEXO IV ETIQUETA — A. Indicações prescritas",
+   "type": "divisao",
+   "heading": "ANEXO IV ETIQUETA — A. Indicações prescritas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV ETIQUETA — A. Indicações prescritas\n\na) 1. «Norma C.E.E.»\n\n2. Nome e endereço do produtor ou o seu número de identificação\n\n3. Serviço de certificação ou de controlo e Estado-membro\n\n4. Número de referência da lote\n\n5. Variedade se for caso disso, o clone, para os enxertos-soldados no que diz respeito aos porta-enxertos e às estacas-garfo\n\n6. Categoria\n\n7. País de produção\n\n8. Quantidade\n\n9. Comprimento - para as estacas enxertáveis de porta-enxertos se um Estado-membro conceder derrogações relativamente aos comrpimentos mínimos (nº. 3 do artigo 3º.)\n\nb) Para os materiais de prorrogação «enraizamentos» e «enxertos-soldados» as indicações referidas na alínea a), pontos 1, 2, 5, 6 e 7, serão suficientes.\n\nB. Dimensões mínimas\n\na) 110 mm x 67 mm, para as estacas enxertáveis de porta-enxertos, as estacas-garfo e as estacas de viveiros;\n\nb) 80 mm x 70 mm, para os enraizamentos e os enxertos-soldados."
+  },
+  "c9d6126277ed4e7a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Abril de 1968\n\nrelativa à comercialização dos materiais de propagação vegetativa da vinha\n\n(68/193/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#E0001)), depois de consultado o Comité Económico e Social,\n\nConsiderando que a produção de vinho de uvas de mesa ocupa um lugar importante na agricultura da Comunidade Económica Europeia;\n\nConsiderando que resultados satisfatórios na cultura da vinha dependem em larga medida da utilização de plantas adequadas; que, para esse efeito, certos Estados-membros têm, desde há algum tempo, limitado a comercialização dos materiais de propagação vegetativa da vinha à das madeiras e plantas de alta qualidade; que estes Estados beneficiaram do resultado dos trabalhos de selecção sistemática das plantas seguidos desde há várias dezenas de anos e que levaram à obtenção de variedades de vinhas estáveis e homogéneas cujas características permitem prever vantagens substanciais para as utilizações previstas;\n\nConsiderando que uma maior produtividade em matéria de cultura da vinha na Comunidade será obtido pela aplicação pelos Estados-membros de regras unificadas e o mais rigorosas possível no que respeita à escolha das variedades admitidas para comercialização;\n\nConsiderando, todavia, que uma limitação da comercialização a certas variedades só é justificada na medida em que o viticultor tenha a garantia que obterá efectivamente materiais de propagação dessas mesmas variedades;\n\nConsiderando que para esse efeito certos Estados-membros aplicam sistemas de certificação que têm por objectivo garantir, através de um controlo oficial, a identidade e a pureza das variedades bem como o seu estado sanitário, nomeadamente em relação às virosses; que esses sistemas podem constituir uma das bases de um sistema unificado de certificação na Comunidade;\n\nConsiderando que é conveniente que, para os materiais de propagação produzidos na Comunidade, um tal sistema seja aplicável tanto nas trocas entre os Estados-membros como na comercialização nos mercados nacionais;\n\nConsiderando que, regra geral, os materiais de propagação destinados à produção de uvas ou à produção de materiais de propagação só devem poder ser comercializados se, em conformidade com as regras de certificação, tiverem sido oficialmente examinados e certificados como materiais de propagação de base ou materiais de propagação certificados; que a escolha dos termos técnicos «materiais de propagação de base» e «materiais de propagação certificados» se fundamenta numa terminologia internacional já existente nos sistemas comunitários estabelecidos para os outros géneros e espécies de plantas;\n\nConsiderando que é desejável limitar a comercialização aos materiais de propagação certificados da vinha obtidos por selecção clonal; que, contudo, é actualmente impossível atingir esse objectivo dado que as necessidades da Comunidade não poderiam ser cobertas na sua totalidade por esses materiais; que é por conseguinte conveniente admitir provisoriamente a comercialização de materiais standard controlados que devem possuir igualmente a identidade e a pureza varietais mas que nem sempre oferecem a mesma garantia que os materiais de propagação obtidos por selecção clonal; que, no entanto, esta categoria deve desaparecer progressivamente;\n\nConsiderando que se, num Estado-membro, não existe propagação da vinha ou comercialização dos seus materiais de propagação, se justifica isentar esse Estado-membro da obrigação de proceder a uma certificação ou a um controlo dos materiais de propagação standard sem que todavia seja afectada a sua obrigação de limitar a comercialização aos materiais de propagação certificados e aos materiais de propagação standard;\n\nConsiderando que é conveniente que os materiais de propagação não comercializados sejam excluídos do campo de aplicação das regras comunitárias dada a sua reduzida importância económica; que não deve ser afectado o direito dos Estados-membros de os submeter a prescrições particulares;\n\nConsiderando que é conveniente não aplicar as regras comunitárias aos materiais de propagação que se prove serem destinados à exportação para países terceiros;\n\nConsiderando que as regras comunitárias deverão ser igualmente adoptadas pelo Conselho, o mais tardar em 31 de Dezembro de 1969, no que respeita aos materiais de propagação produzidos em países terceiros e comercializados na Comunidade;\n\nConsiderando que para melhorar, além do valor genético, a qualidade exterior dos materiais de propagação na Comunidade, devem ser estabelecidas certas condições no que respeita à pureza técnica, à qualidade e à calibragem;\n\nConsiderando que, para assegurar a identidade dos materiais de propagação, devem ser estabelecidas regras comunitárias no que respeita à separação dos lotes, à embalagem, ao fecho e à marcação; que, para esse efeito, as etiquetas devem exibir as indicações necessárias ao exercício do controlo oficial bem como à informação do viticultor e evidenciar o carácter comunitário do sistema;\n\nConsiderando que para garantir, aquando da comercialização, o respeito tanto das considerações relativas à qualidade dos materiais de propagação como das disposições que asseguram a sua identidade, os Estados-membros devem estabelecer disposições de controlo adequadas;\n\nConsiderando que os materiais de propagação que satisfazem estas condições só devem ser submetidos, sem prejuízo da aplicação do artigo 36.º do Tratado, às restrições de comercialização estabelecidas pelas regras comunitárias;\n\nConsiderando que é conveniente que até ao estabelecimento de um catálogo comum das variedades, estas restrições incluam nomeadamente o direito de os Estados-membros limitarem a comercialização dos materiais de propagação à comercialização das variedades que tenham um valor cultural e de utilização para o seu território; que não é oportuno resolver, no estado actual, a questão de saber se, e em que condições, os Estados-membros podem proibir total ou parcialmente a cultura de certas variedades de vinha no seu território;\n\nConsiderando que é necessário reconhecer, sob certas condições, que materiais de propagação produzidos noutros Estados-membros a partir de materiais de propagação de base certificados num Estado-membro são equivalentes aos materiais de propagação produzidos esse Estado-membro;\n\nConsiderando que, para períodos em que o abastecimento de materiais de propagação certificados das diferentes categorias ou de materiais de propagação standard encontre dificuldades, é conveniente admitir provisoriamente materiais de propagação sujeitos a exigências reduzidas;\n\nConsiderando que a fim de harmonizar os métodos técnicos de certificação e de controlo dos materiais de propagação standard dos diferentes Estados-membros e de possibilitar, no futuro, a comparação entre os materiais certificados ou controlados no interior da Comunidade e os provenientes de países terceiros, é conveniente efectuar nos Estados-membros experiências comunitárias para julgar da qualidade dos materiais de propagação das diferentes categorias;\n\nConsiderando que é conveniente confiar à Comissão o cuidado de tomar certas medidas de aplicação; que, para facilitar a execução das medidas previstas, é conveniente estabelecer um procedimento que crie uma cooperação estreita entre os Estados-membros e a Comissão, no seio do Comité Permanente das Sementes e Plantas Agrícolas, Hortícolas e Florestais,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1547f111e08589f6": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente Directiva diz respeito aos materiais de propagação vegetativa da videira, adiante designadas «materiais de propagação», comercializadas na Comunidade."
+  },
+  "4821340bf707589c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Na acepção da presente directiva, entende-se por:\n\nA. *Vinha*: as plantas do género *Vitis* (L.) destinadas à produção de uvas ou à utilização como materiais de propagação para estas mesmas plantas.\n\nAA. *Variedade*: um conjunto vegetal pertencente ao mesmo táxon botânico, da ordem mais baixa conhecida, que pode ser:\n\na) Definido pela expressão das características resultantes de um determinado genótipo ou de uma determinada combinação de genótipos;\n\nb) Distinguido de qualquer outro conjunto vegetal pela expressão de pelo menos uma das referidas características; e\n\nc) Considerado como uma entidade tendo em conta a sua aptidão para ser reproduzido sem alteração.\n\nAB. *Clone*: uma descendência vegetativa de uma variedade conforme a uma cepa de videira escolhida pela identidade varietal, os seus caracteres fenotípicos e o seu estado sanitário.\n\nB. *Materiais de propagação*:\n\ni) *Propágulos*:\n\na) Bacelos: fracções de sarmentos ou de ramos herbáceos de videira enraizadas e não enxertadas, destinadas à plantação de pé-franco ou para utilização como porta-enxertos para uma enxertia;\n\nb) Bacelos enxertados: fracções de sarmentos ou de ramos herbáceos de videira ligadas por enxertia, cuja parte subterrânea está enraizada;\n\nii) *Partes de propágulos*:\n\na) Sarmentos: ramos de um ano;\n\nb) Ramos herbáceos: ramos não lenhosos;\n\nc) Estacas para enxertar: fracções de sarmentos ou de ramos herbáceos de videira destinadas a formar a parte subterrânea no momento da preparação dos bacelos enxertados;\n\nd) Garfos: fracções de sarmentos ou de ramos herbáceos de videira destinadas a formar a parte área no momento da preparação dos bacelos enxertados ou no momento das enxertias no local definitivo;\n\ne) Estacas para enraizar: fracções de sarmentos ou de ramos herbáceos de videira destinadas à produção de bacelos.\n\nC. *Vinhas-mãe*: culturas de vinha destinadas à produção das estacas enxertáveis de porta-enxertos, das estacas de viveiros ou das estacas-garfo.\n\nD. *Viveiros*: culturas de vinha destinadas à produção de raízes ou de enxertos-soldados.\n\nDA. *Materiais de propagação iniciais*: os materiais de propagação\n\na) Que tenham sido produzidos sob a responsabilidade do obtentor segundo métodos geralmente admitidos com vista à manutenção da identidade da variedade e, se for caso disso, do clone, bem como à prevenção das doenças;\n\nb) Que sejam destinados à produção de materiais de propagação de base ou de materiais de propagação certificados;\n\nc) Que satisfaçam as condições estabelecidas nos anexos I e II para os materiais de propagação de base. Esses anexos podem ser alterados, nos termos do n.º 2 do artigo 17.º, com vista a estabelecer condições suplementares ou mais rigorosas para a certificação dos materiais de propagação iniciais;\n\nd) Para os quais tenha sido verificado, aquando de um exame oficial, que foram respeitadas as condições supracitadas.\n\nE. *Materiais de propagação de base*: os materiais de propagação\n\na) Que tenham sido produzidos sob a responsabilidade do obtentor segundo métodos geralmente admitidos com vista à manutenção da identidade da variedade e, se for caso disso, do clone, bem como à prevenção das doenças, e que provenham directamente de materiais de propagação iniciais por via vegetativa;\n\nb) Que sejam destinados à produção de materiais de propagação certificados;\n\nc) Que satisfaçam as condições estabelecidas nos anexos I e II para os materiais de propagação de base;\n\nd) Para os quais tenha sido verificado, aquando de um exame oficial, que foram respeitadas as condições supracitadas.\n\nF. *Materiais de propagação científicos*: os materiais de propagação\n\na) Que tenham origem directamente em materiais de propagação de base ou em materiais de propagação iniciais;\n\nb) Que sejam destinados:\n\n— à produção de plantas ou de partes de plantas que servem para a produção de uvas, ou\n\n— à produção de uvas;\n\nc) Que satisfaçam as condições estabelecidas nos anexos I e II para os materiais de propagação certificados; e\n\nd) Para os quais foi verificado, aquando de um exame oficial, que foram respeitadas as condições supracitadas.\n\nG. *Materiais de propagação* standard: os materiais de propagação\n\na) Que possuam a identidade e a pureza varietais,\n\nb) Que sejam destinados:\n\n— à produção de plantas ou de partes de plantas que servem para a produção de uvas, ou\n\n— à produção de uvas;\n\nc) Que satisfaçam as condições estabelecidas nos anexos I e II para os materiais de propagação *standard*; e\n\nd) Para os quais foi verificado, aquando de um exame oficial, que foram respeitadas as condições supracitadas.\n\nH. *Disposições oficiais*: as disposições que forem tomadas:\n\na) Pelas autoridades de um Estado; ou\n\nb) Sob a responsabilidade de um Estado, por pessoas morais de direito público; ou\n\nc) Para actividades auxiliares, igualmente sob controlo de um Estado, por pessoas físicas ajuramentadas,\n\nI. *Comercialização*:\n\nA venda, detenção com vista à venda, oferta de venda e qualquer cessão, fornecimento ou transferência de materiais de propagação a terceiros, com remuneração ou não, com vista a uma exploração comercial.\n\nNão são consideradas comercialização as trocas de materiais de propagação que não visem a exploração comercial da variedade, como, por exemplo, as seguintes operações:\n\na) Fornecimento de materiais de propagação a organismos oficiais de investigação e de controlo;\n\nb) Fornecimento de materiais de propagação a prestadores de serviços, com vista à sua transformação ou ao acondicionamento, desde que o prestador não adquira um título sobre o material de propagação fornecido.\n\nAs normas de execução das presentes disposições são fixadas nos termos do n.º 3 do artigo 17.º\n\n2. Os Estados-membros, depois da entrada em vigor das disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento às disposições da presente directiva, podem, transitoriamente, determinar que os materiais de propagação utilizados no estabelecimento de videiras-mãe ou de estacas são equivalentes aos materiais de propagação certificados ou controlados de acordo com as disposições da presente directiva, se esses materiais de propagação, antes da sua utilização, ofereciam as mesmas garantias dos materiais de propagação certificados ou controlados de acordo com as disposições da presente directiva."
+  },
+  "a3d446412f312833": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os Estados-Membros devem determinar que os materiais de propagação da vinha só possam ser comercializados se:\n\na) Tiverem sido oficialmente certificados como «materiais de propagação iniciais», «materiais de propagação de base» ou «materiais de propagação certificados» ou, no caso de materiais de propagação que não se destinem a serem utilizados como porta-enxertos, se se tratar de materiais de propagação *standard* oficialmente controlados; e\n\nb) Satisfizerem as condições estabelecidas no anexo II.\n\n2. Em derrogação do n.º 1, os Estados-Membros podem, a título transitório, admitir para comercialização no seu território, até 1 de Janeiro de 2005, materiais de propagação da categoria *standard*, destinados a serem utilizados como porta-enxertos, provenientes de vinhas-mãe existentes em 23 de Fevereiro de 2002.\n\n3. Em derrogação do disposto no n.º 1, os Estados-Membros podem autorizar os produtores estabelecidos nos seus territórios a comercializar quantidades adequadas de materiais de propagação:\n\na) Destinados a ensaios ou a fins científicos;\n\nb) Para trabalhos de selecção;\n\nc) Destinados a medidas que visem a conservação da diversidade genética.\n\nAs condições em que os Estados-Membros podem conceder essas autorizações podem ser fixadas nos termos do n.º 2 do artigo 17.º\n\nNo caso dos materiais geneticamente modificados, essa autorização só pode ser concedida se tiverem sido tomadas todas as medidas necessárias para evitar riscos para a saúde humana e o ambiente. Para a avaliação dos riscos ambientais e outros controlos que devem ser efectuados neste âmbito, são aplicáveis *mutatis mutandis* as disposições do artigo 5.ºBA.\n\n4. Em relação aos materiais de propagação produzidos por técnicas de propagação *in vitro*, podem ser fixadas, nos termos do n.º 2 do artigo 17.º, as seguintes disposições:\n\na) Derrogações às disposições específicas da presente directiva;\n\nb) Condições aplicáveis a esses materiais de propagação;\n\nc) Designações aplicáveis a esses materiais de propagação;\n\nd) Condições em matéria de garantia de verificação prévia da pureza varietal.\n\n5. A Comissão pode, nos termos do n.º 3 do artigo 17.º, estabelecer que os materiais de propagação, com excepção dos materiais destinados a serem utilizados como porta-enxertos, só possam ser comercializados a partir de datas determinadas se tiverem sido oficialmente certificados como «materiais de propagação iniciais», «materiais de propagação de base» ou «materiais de propagação certificados»:\n\na) Na totalidade do território da Comunidade no que diz respeito a certas variedades de videira, na medida em que as necessidades da Comunidade relativamente a essas variedades possam ser cobertas tendo em conta a sua diversidade genética, se for caso disso em conformidade com um programa estabelecido, por materiais de propagação oficialmente certificados como «materiais de propagação iniciais», «materiais de propagação de base» ou «materiais de propagação certificados»; e\n\nb) No que diz respeito aos materiais de propagação de variedades diferentes das mencionadas na alínea a), se se destinarem a ser utilizados nos territórios dos Estados-Membros que, nos termos do disposto na presente directiva, tenham determinado que os materiais de propagação da categoria «materiais *standard*» deixavam de poder ser comercializados."
+  },
+  "27a52ddbb10b378d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo que respeita às condições previstas nos Anexos I e II, os Estados-membros poderão fixar, para a sua própria produção, condições suplementares ou mais rigorosas para a certificação bem como para o controlo dos materiais de propagação standard.\n\nEsta disposição não se aplica, no caso da enxertia, aos materiais de propagação produzidos noutro Estado-Membro ou num país terceiro reconhecido como equivalente em conformidade com o n.º 2 do artigo 15.º"
+  },
+  "b49940ce1eea0a16": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Cada Estado-Membro deve estabelecer um catálogo das variedades de vinha admitidas oficialmente à certificação assim como ao controlo dos materiais de propagação *standard* no seu território. Qualquer pessoa poderá consultar o catálogo. O catálogo deve determinar as principais características morfológicas e fisiológicas que permitem distinguir as variedades entre si. Em relação às variedades já admitidas até 31 de Dezembro de 1971, pode-se fazer referência à descrição constante das publicações ampelográficas oficiais.\n\n2. Os Estados-Membros devem assegurar que as variedades admitidas nos catálogos dos outros Estados-Membros sejam igualmente admitidas à certificação assim como ao controlo dos materiais de propagação *standard* no seu próprio território sem prejuízo do Regulamento (CE) n.º 1493/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado vitivinícola ([^2^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#E0002)), no que diz respeito às regras relativas à classificação das variedades de vinha.\n\n3. Cada Estado-Membro deve estabelecer também, se necessário, uma lista de clones admitidos oficialmente à certificação no seu território.\n\nOs Estados-Membros devem assegurar que os clones admitidos à certificação noutro Estado-Membro sejam igualmente admitidos à certificação no seu próprio território."
+  },
+  "27dc050619c75730": {
+   "fragment_id": "Artigo 5.º A",
+   "type": "artigo",
+   "heading": "Artigo 5.º A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º A\n\nOs Estados-membros velam por que sejam admitidas apenas variedades distintas, estáveis e suficientemente homogéneas."
+  },
+  "7ee11e1b9e5a5628": {
+   "fragment_id": "Artigo 5.ºB",
+   "type": "artigo",
+   "heading": "Artigo 5.ºB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.ºB\n\n1. Uma variedade considera-se distinta se se distinguir nitidamente, através da expressão dos caracteres que resultam de um dado genótipo ou combinação de genótipos, de qualquer outra variedade cuja existência seja notoriamente conhecida na Comunidade.\n\nUma variedade é considerada notoriamente conhecida na Comunidade se, aquando da apresentação devida do seu pedido de admissão, estiver inscrita no catálogo do Estado-Membro em causa ou de outro Estado-Membro, ou for objecto de um pedido de admissão no Estado-Membro em causa ou noutro Estado-Membro, a menos que as condições acima referidas deixem de ser satisfeitas em todos os Estados-Membros em questão antes da decisão sobre o pedido de admissão da variedade a julgar.\n\n2. Uma variedade é considerada estável se a expressão dos caracteres compreendidos no exame da distinção e de qualquer outro carácter utilizado para a descrição da variedade permanecer inalterada na sequência de propagações sucessivas.\n\n3. Uma variedade é considerada homogénea se, sob reserva das variações que possam resultar das especificidades da sua propagação, for suficientemente homogénea na expressão dos caracteres compreendidos no exame da distinção e de qualquer outro carácter utilizado para a descrição da variedade."
+  },
+  "ff135de488cb443e": {
+   "fragment_id": "Artigo 5.ºBA",
+   "type": "artigo",
+   "heading": "Artigo 5.ºBA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.ºBA\n\n1. No caso de uma variedade de vinha geneticamente modificada na acepção dos n.^os^ 1 e 2 do artigo 2.º da Directiva 2001/18/CE do Parlamento e do Conselho, de 12 de Março de 2001, relativa à libertação deliberada no ambiente de organismos geneticamente modificados e que revoga a Directiva 90/220/CEE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#E0003)), essa variedade só é admitida se tiverem sido tomadas todas as medidas adequadas para evitar riscos para a saúde humana e o ambiente.\n\n2. No caso de uma variedade geneticamente modificada na acepção do n.º 1:\n\na) Deve proceder-se a uma avaliação específica dos riscos para o ambiente equivalente à prevista pela Directiva 2001/18/CE, em conformidade com os princípios fixados no anexo II e com base nas informações especificadas no anexo III dessa directiva;\n\nb) Os processos destinados a garantir que a avaliação específica dos riscos e os demais requisitos pertinentes, designadamente em matéria de gestão dos riscos, de rotulagem, de eventual monitorização, de informação do público e de cláusula de salvaguarda, sejam equivalentes aos previstos na Directiva 2001/18/CE, devem ser introduzidos, sob proposta da Comissão, num regulamento do Parlamento Europeu e do Conselho. Até à entrada em vigor do referido regulamento, as variedades geneticamente modificadas só serão admitidas nos catálogos nacionais depois de terem sido admitidas à comercialização em conformidade com a Directiva 2001/18/CE;\n\nc) Os artigos 13.º a 24.º da Directiva 2001/18/CE deixam de ser aplicáveis às variedades de videira geneticamente modificadas autorizadas em conformidade com o regulamento referido na alínea b).\n\na) Quando produtos derivados de materiais de propagação da vinha se destinarem a ser utilizados como géneros alimentícios ou em géneros alimentícios abrangidos pelo artigo 3.º ou como alimentos para animais ou em alimentos para animais abrangidos pelo artigo 15.º do Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo aos géneros alimentícios e alimentos para animais geneticamente modificados ([^4^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#E0004)), a variedade de videira em causa só pode aceite se tiver sido aprovada em conformidade com o referido regulamento.\n\nb) Os Estados-Membros devem assegurar que uma variedade de videira de cujo material de propagação tenham sido derivados produtos destinados a ser utilizados em géneros alimentícios ou em alimentos para animais, tal como definidos nos artigos 2.º e 3.º do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos alimentos ([^5^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#E0005)), só seja aceite se tiver sido autorizada ao abrigo da legislação pertinente."
+  },
+  "e737522330066fe9": {
+   "fragment_id": "Artigo 5.ºC",
+   "type": "artigo",
+   "heading": "Artigo 5.ºC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.ºC\n\nOs Estados-Membros devem assegurar que as variedades e, se for caso disso, os clones provenientes de outros Estados-Membros sejam submetidos, nomeadamente no que diz respeito ao processo de admissão, às mesmas condições que as aplicadas às variedades ou clones nacionais."
+  },
+  "d3fd804e092402ec": {
+   "fragment_id": "Artigo 5.º D",
+   "type": "artigo",
+   "heading": "Artigo 5.º D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º D\n\n1. Os Estados-membros determinam que a admissão de variedades deve resultar de exames oficiais efectuados nomeadamente em cultura e incidindo num número suficiente de caracteres para permitir a descrição da variedade. Os métodos empregues na verificação dos caracteres devem ser precisos e fiáveis.\n\n2. De acordo com o procedimento previsto no [**►M11**](http://publications.europa.eu/resource/celex/32002L0011) n.º 2 do artigo 17.º **◄** são definidos, tendo em conta o estado dos conhecimentos científicos e técnicos:\n\na) Os caracteres sobre que devem, pelo menos, incidir os exames,\n\nb) As condições mínimas relativas à execução dos exames.\n\n3. Se houver conhecimento de que os materiais de propagação de uma variedade são comercializados num outro Estado-membro sob designação diferente, essa designação é igualmente indicada no catálogo."
+  },
+  "45d9cfad7da6b488": {
+   "fragment_id": "Artigo 5.º E",
+   "type": "artigo",
+   "heading": "Artigo 5.º E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º E\n\n1. As variedades admitidas são regularmente e oficialmente controladas. Quando uma das condições de admissão à certificação ou ao controlo deixar de ser observada, é anulada a admissão e a variedade eliminada do catálogo.\n\n2. Qualquer pedido ou retirada de pedido de admissão de uma variedade, bem como qualquer inscrição num catálogo de variedades e as diversas alterações que lhe dizem respeito, devem ser imediatamente comunicados aos outros Estados-Membros e à Comissão. A Comissão, com base nas notificações dos Estados-Membros, publica um catálogo comum de variedades."
+  },
+  "ddbbbe6233abe1e1": {
+   "fragment_id": "Artigo 5.ºF",
+   "type": "artigo",
+   "heading": "Artigo 5.ºF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.ºF\n\nOs Estados-Membros devem assegurar que as variedades geneticamente modificadas que foram aceites sejam claramente indicadas como tal no catálogo das variedades. Devem assegurar também que qualquer pessoa que comercialize uma dessas variedades indique claramente no seu catálogo comercial de videiras que a variedade é geneticamente modificada e o objectivo da modificação."
+  },
+  "7e82b143bdfe1e55": {
+   "fragment_id": "Artigo 5.ºG",
+   "type": "artigo",
+   "heading": "Artigo 5.ºG",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.ºG\n\n1. Os Estados-Membros devem determinar que as variedades e, se for caso disso, os clones admitidos no catálogo sejam mantidos por selecção de conservação.\n\n2. A selecção de conservação deve ser sempre controlável com base nos registos efectuados pelo responsável ou responsáveis pela manutenção da variedade e, se for caso disso, do clone.\n\n3. Podem ser pedidas amostras ao responsável pela manutenção da variedade ou do clone. Em caso de necessidade, as amostras podem ser colhidas oficialmente.\n\n4. Quando a selecção de conservação se efectuar num Estado-Membro que não seja aquele em que a variedade foi admitida, os Estados-Membros em causa devem prestar-se apoio administrativo no que diz respeito ao controlo."
+  },
+  "267b120f860c3f5f": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros devem determinar que os materiais de propagação sejam, aquando da colheita, do acondicionamento, da armazenagem, do transporte e da criação, mantidos em lotes separados e marcados consoante a variedade e, se for caso disso, para os materiais de propagação iniciais, os materiais de propagação de base e os materiais de propagação certificados, consoante o clone."
+  },
+  "18430a1d2efe85c4": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-membros determinarão que os materiais de propagação só possam ser comercializados em lotes suficientemente homogéneos e em embalagens ou molhos fechados, munidos, em conformidade com o disposto nos artigos 9.º e 10.º, de um sistema de fecho e de marcação. O acondicionamento terá lugar em conformidade com o disposto no Anexo III.\n\n2. Em derrogação do disposto no n.º 1, no que diz respeito ao acondicionamento, à embalagem, ao sistema de fecho e à marcação, a Comissão estabelecerá, nos termos do n.º 2 do artigo 17.º, as disposições aplicáveis à comercialização de pequenas quantidades a entregar ao utilizador final, bem como à comercialização de videiras em vasos, em caixas ou em cartonagens."
+  },
+  "5df8b5dbfd1b7065": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-Membros devem determinar que as embalagens e os molhos de materiais de propagação sejam fechados oficialmente ou sob controlo oficial, de modo a que não possam ser abertos sem que o sistema de fecho se deteriore ou sem que a etiqueta oficial prevista no n.º 1 do artigo 10.º ou — no caso das embalagens — a embalagem mostre sinais de manuseamento. A fim de assegurar o fecho, o sistema de fecho deve incluir pelo menos a etiqueta oficial ou um selo oficial. Pode ser verificado, nos termos do n.º 2 do artigo 17.º, se um determinado sistema de fecho corresponde às disposições do presente artigo. Quaisquer novas operações de fecho só podem ser efectuadas oficialmente ou sob controlo oficial."
+  },
+  "4a24fecdf94dad27": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-Membros devem determinar que as embalagens e os molhos de materiais de propagação sejam providos de uma etiqueta oficial exterior em conformidade com o anexo IV, redigida numa das línguas oficiais da Comunidade; a sua fixação deve ser assegurada pelo sistema de fecho. A etiqueta é branca com uma barra diagonal roxa para os materiais de propagação iniciais, branca para os materiais de propagação de base, azul para os materiais de propagação certificados e amarelo torrado para os materiais de propagação *standard*.\n\n2. No entanto, os Estados-Membros podem autorizar os produtores estabelecidos no seu território a comercializar várias embalagens ou molhos de bacelos enxertados ou de bacelos com as mesmas características, marcados com uma só etiqueta em conformidade com o anexo IV. Nesse caso, as embalagens ou molhos são ligados em conjunto de modo a que, no momento da sua separação, a ligação se desfaça e não possa voltar a ser refeita. A fixação da etiqueta é garantida por essa ligação. Não é autorizado qualquer novo fecho.\n\n3. Sem prejuízo do disposto no n.º 2 do artigo 23.º do Regulamento (CE) n.º 1493/1999, os Estados-Membros podem determinar que cada entrega de material produzido no seu território seja igualmente acompanhado de um documento uniforme em que figurem nomeadamente as indicações seguintes: a natureza da mercadoria, a variedade e, eventualmente, o clone, a categoria, a quantidade, o expedidor e o destinatário. As condições a prever relativamente a este documento de acompanhamento são estabelecidas nos termos do n.º 3 do artigo 17.º da presente directiva.\n\n4. A etiqueta oficial referida no n.º 1 pode incluir também os documentos de acompanhamento fitossanitários previstos pela Directiva 92/105/CEE da Comissão ([^6^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#E0006)), que estabelece a normalização dos passaportes fitossanitários. No entanto, todas as condições aplicáveis à rotulagem oficial e aos passaportes fitossanitários são definidas como equivalentes e como tal devem ser reconhecidas.\n\n5. Os Estados-Membros devem determinar que as etiquetas oficiais sejam conservadas pelo destinatário dos materiais de propagação vegetativa da vinha durante pelo menos um ano e mantidas à disposição do serviço oficial de controlo.\n\n6. Até 23 de Fevereiro de 2004, a Comissão deve elaborar um relatório, eventualmente acompanhado de propostas, sobre a circulação dos materiais de propagação da vinha e, em especial, sobre a utilização das etiquetas oficiais e dos documentos de acompanhamento aplicados pelos Estados-Membros."
+  },
+  "0afc11ab4bd90358": {
+   "fragment_id": "Artigo 10.ºA",
+   "type": "artigo",
+   "heading": "Artigo 10.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.ºA\n\nNo caso de materiais de propagação de uma variedade que tenha sido modificada geneticamente, qualquer etiqueta aposta no lote de materiais de propagação e qualquer documento que o acompanhe por força das disposições da presente directiva, oficial ou não, devem indicar claramente que a variedade foi geneticamente modificada e especificar o nome dos organismos geneticamente modificados."
+  },
+  "5b40130f8e65f477": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n[**►M2**](http://publications.europa.eu/resource/celex/31974L0648) 1.**◄** Os Estados-membros zelarão por que a identidade dos materiais de propagação seja assegurada, desde a colheita até à entrega ao último utilizador, por um sistema de controlo oficial que tenham determinado ou aprovado. Tomarão todas as disposições úteis que permitam que durante a comercialização, seja efectuado, pelo menos por amostragem, o controlo oficial dos materiais de propagação quanto ao respeito pelas condições previstas na presente directiva.\n\n2. Sem prejuízo da livre circulação dos materiais na Comunidade, os Estados-Membros tomarão todas as medidas necessárias para que as seguintes indicações sejam fornecidas ao serviço competente aquando da comercialização dos materiais de propagação provenientes de um país terceiro:\n\na) Espécie (designação botânica);\n\nb) Variedade e, eventualmente, clone, aplicando-se essas indicações, no caso dos bacelos enxertados, tanto aos porta-enxertos como aos garfos;\n\nc) Categoria;\n\nd) Natureza do material de propagação;\n\ne) País produtor e serviço de controlo oficial;\n\nf) País expedidor, caso seja diferente do país produtor;\n\ng) Importador;\n\nh) Quantidade dos materiais.\n\nAs regras segundo as quais essas indicações devem ser fornecidas podem ser fixadas nos termos do n.º 2 do artigo 17.º"
+  },
+  "ae9ad1cab9c35e4a": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-Membros devem assegurar que os materiais de propagação comercializados em conformidade com a presente directiva, quer em cumprimento de regras obrigatórias, quer ao abrigo de regras facultativas, só sejam submetidos às restrições de comercialização previstas pela presente directiva no que respeita às suas características, às disposições do exame, à marcação e ao fecho."
+  },
+  "238e1d5b7ed41820": {
+   "fragment_id": "Artigo 12.ºA",
+   "type": "artigo",
+   "heading": "Artigo 12.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.ºA\n\nOs Estados-Membros devem assegurar que os materiais de propagação das variedades de videira e, se for caso disso, dos clones admitidos oficialmente, num dos Estados-Membros, para efeitos de certificação e do controlo dos materiais de propagação *standard* em conformidade com as disposições da presente directiva não sejam submetidos a nenhuma restrição de comercialização no respectivo território quanto à variedade e, se for caso disso, ao clone, sem prejuízo do disposto no Regulamento (CE) n.º 1493/1999."
+  },
+  "527432f128f896f4": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs Estados-membros determinarão que os materiais de propagação directamente proveniente de materiais de propagação de base certificados num Estado-membro, e colhidos noutro Estado-membro, possam ser certificados no Estado produtor de materiais de propagação de base, se tiverem sido submetidos no seu campo de produção, a uma inspecção *in loco* que satisfaça as condições previstas no Anexo I e se tiver sido veriricado, aquando de um exame oficial, que as condições estabelecidas no Anexo II respeitadas."
+  },
+  "33802944652c9dbb": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. A fim de eliminar dificuldades passageiras de abastecimento de materiais de propagação na Comunidade, que não possam ser resolvidas de outro modo, pode decidir-se que, nos termos do n.º 2 do artigo 17.º, os Estados-Membros autorizem, por um período determinado, a comercialização em todo o território da Comunidade da quantidade de materiais de propagação de uma categoria sujeita a exigências reduzidas necessária para ultrapassar essas dificuldades.\n\n2. Quando se tratar de uma categoria de materiais de propagação de uma variedade determinada, a cor da etiqueta será a prevista para a categoria correspondente e, em todos os outros casos será escura. A etiqueta indicará sempre que se trata de materiais de propagação de uma categoria sujeita a exigências reduzidas.\n\n3. As regras de execução do n.º 1 podem ser adoptadas em conformidade com o processo estabelecido no [**►M11**](http://publications.europa.eu/resource/celex/32002L0011) n.º 2 do artigo 17.º **◄**"
+  },
+  "2266a3e34c0882cb": {
+   "fragment_id": "Artigo 14.ºA",
+   "type": "artigo",
+   "heading": "Artigo 14.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.ºA\n\nCom o objectivo de encontrar melhores soluções para substituir certas disposições da presente directiva, pode decidir-se, nos termos do n.º 3 do artigo 17.º, organizar em condições definidas experiências temporárias a nível comunitário."
+  },
+  "16541bc7c4beb2c0": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A presente directiva não se aplicará aos materiais de propagação comprovativamente destinados a ser exportados para países terceiros.\n\na) O Conselho, deliberando por maioria qualificada sob proposta da Comissão, determina se os materiais de propagação vegetativa da vinha produzidos num país terceiro oferecem, no que diz respeito às suas condições de admissão e às disposições tomadas para assegurar a sua produção com vista à respectiva comercialização, as mesmas garantias que os materiais produzidos na Comunidade e obedecem aos requisitos da presente directiva.\n\nb) Além disso, o Conselho determina igualmente os tipos de materiais e as categorias de materiais de propagação vegetativa da vinha que podem ser admitidos à comercialização no território da Comunidade por força da alínea a).\n\nc) Até o Conselho ter tomado uma decisão nos termos da alínea a) e sem prejuízo do cumprimento do disposto na Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([^7^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#E0007)), os Estados-Membros podem ser autorizados a tomar essas decisões nos termos do n.º 2 do artigo 17.º da presente directiva. Nesse âmbito, devem assegurar que os materiais a importar oferecem garantias equivalentes, sob todos os pontos de vista, às dos materiais de propagação vegetativa da vinha produzidos na Comunidade em conformidade com a presente directiva. Esses materiais importados devem, em especial, ser acompanhados de um documento em que figurem as indicações previstas no n.º 2 do artigo 11.º da presente directiva."
+  },
+  "f94f1cc268712fb6": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Devem ser efectuados na Comunidade ensaios e testes comparativos comunitários para o controlo ulterior de amostras de materiais de propagação da vinha colocadas no mercado ao abrigo das disposições, compulsivas ou facultativas e inclusivamente fitossanitárias, da presente directiva, colhidos durante a amostragem. Os ensaios e testes comparativos poderão incluir o seguinte:\n\n— material de propagação colhido em países terceiros,\n\n— material de propagação próprio para a agricultura biológica,\n\n— material de propagação comercializado no âmbito de medidas destinadas a contribuir para a preservação da diversidade genética.\n\n2. Estes ensaios e testes comparativos devem ser utilizados para harmonizar os métodos técnicos de certificação e verificar a observância das condições a que o material de propagação deve obedecer.\n\n3. A Comissão, deliberando nos termos do artigo 17.º, toma as disposições necessárias para a realização dos ensaios e testes comparativos. A Comissão deve informar o comité referido no artigo 17.º sobre as disposições técnicas relativas à realização dos ensaios e testes e respectivos resultados. Sempre que surjam problemas fitossanitários, a Comissão notificará o facto ao Comité Fitossanitário Permanente.\n\n4. A Comunidade pode contribuir financeiramente para a realização dos ensaios e testes referidos nos n.^os^ 1 e 2.\n\nA contribuição financeira não deve exceder as dotações anuais estabelecidas pela autoridade orçamental.\n\n5. Os ensaios e testes que podem beneficiar de apoio financeiro da Comunidade, bem como as normas pormenorizadas para a concessão da contribuição financeira, são estabelecidos nos termos do artigo 17.º\n\n6. Os ensaios e testes previstos nos n.^os^ 1 e 2 apenas podem ser realizados por autoridades estatais ou por pessoas colectivas agindo sob a responsabilidade do Estado."
+  },
+  "90f7eb7a8746ed3b": {
+   "fragment_id": "Artigo 16.ºA",
+   "type": "artigo",
+   "heading": "Artigo 16.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.ºA\n\nAs medidas necessárias à execução da presente directiva relativas aos assuntos objecto das disposições adiante indicadas são aprovadas pelo procedimento de gestão a que se refere o n.º 2 do artigo 17.º:\n\n— n.º 1, ponto DA, alínea c), do artigo 2.º, n.º 3 do artigo 3.º, n.º 2 do artigo 8.º, artigo 9.º, n.º 2 do artigo 11.º, n.º 1 do artigo 14.º e n.º 2, alínea c), do artigo 15.º"
+  },
+  "2304ea56681ca2f2": {
+   "fragment_id": "Artigo 16.ºB",
+   "type": "artigo",
+   "heading": "Artigo 16.ºB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.ºB\n\nAs medidas necessárias à execução da presente directiva relativas aos assuntos objecto das disposições adiante indicadas são aprovadas pelo procedimento de regulamentação a que se refere o n.º 3 do artigo 17.º:\n\n— n.º 1, ponto I, do artigo 2.º, n.º 5 do artigo 3.º, n.º 3 do artigo 10.º e artigo 14.ºA."
+  },
+  "bdb7b8b98a60913e": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A Comissão é assistida pelo Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais, a seguir designado por «comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^8^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#E0008)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de dois meses.\n\n4. O comité aprovará o seu regulamento interno."
+  },
+  "a3e694a00c242828": {
+   "fragment_id": "Artigio 17.º A",
+   "type": "divisao",
+   "heading": "Artigio 17.º A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigio 17.º A\n\nAs alterações a introduzir nos Anexos por motivo da evolução dos conhecimentos científicos ou técnicos são adoptados de acordo com o procedimento previsto no [**►M11**](http://publications.europa.eu/resource/celex/32002L0011) n.º 2 do artigo 17.º **◄**."
+  },
+  "100de7c5f72c6d38": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nA presente directiva não afectará as disposições das legislações nacionais justificadas por razões de protecção da saúde e da vida das pessoas e dos animais ou de preservação dos vegetais ou de protecção da propriedade industrial e comercial."
+  },
+  "69158136a1c0be44": {
+   "fragment_id": "Artigo 18.º A",
+   "type": "artigo",
+   "heading": "Artigo 18.º A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º A\n\nDe acordo com o procedimento previsto no [**►M11**](http://publications.europa.eu/resource/celex/32002L0011) n.º 2 do artigo 17.º **◄**, qualquer Estado-membro pode, a seu pedido, ser dispensado total ou parcialmente da obrigação de aplicar a presente Directiva, excepto, todavia, o n.º 1 do artigo 12.º e o artigo 12.º *A*, na medida em que a cultura da videira e a comercialização dos materiais de multiplicação tenham importância económica mínima no seu território."
+  },
+  "106cf9a493010f43": {
+   "fragment_id": "Artigo 18.º B",
+   "type": "artigo",
+   "heading": "Artigo 18.º B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º B\n\nA presente directiva é aplicável, sem prejuízo das disposições do Regulamento (CEE) n.º 234/68 do Conselho, de 27 de Fevereiro de 1968, que estabelece a organização comum de mercado no sector das plantas vivas e dos produtos de floricultura ([^9^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#E0009))."
+  },
+  "c1c1d69a9f53635e": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs Estados-membros tomarão, até 1 de Julho de 1969, o mais tardar, as medidas necessárias para darem cumprimento à presente directiva. Deste facto, informarão imediatamente a Comissão.\n\nA Alemanha fica autorizada a aplicar, no que se refere ao território da antiga República Democrática Alemã, o disposto no n.º 1 do artigo 3.º numa data posterior à acima referida, mas, o mais tardar, até 1 de Janeiro de 1995.\n\nA Alemanha assegurará que os materiais em relação aos quais utilizar essa autorização só serão introduzidos na Comunidade, com excepção do território da antiga República Democrática Alemã, se estiver estabelecido o respeito das condições previstas na presente directiva."
+  },
+  "95fa135343faee65": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "fc7f6d9f3c4801a8": {
+   "fragment_id": "CONDIÇÕES RELATIVAS À CULTURA",
+   "type": "divisao",
+   "heading": "CONDIÇÕES RELATIVAS À CULTURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES RELATIVAS À CULTURA\n\n1. A cultura deve possuir identidade e pureza no que diz respeito à variedade e, se for o caso, ao clone.\n\n2. As condições de cultura e o nível de desenvolvimento da cultura devem ser de modo a permitir controlos suficientes da identidade e da pureza da cultura no que diz respeito à variedade e, se for o caso, ao clone, bem como do respectivo estado sanitário.\n\n3. O solo ou, se for o caso, o substrato de cultura, deve dar garantias suficientes quanto à ausência de organismos nocivos ou dos seus vectores, nomeadamente, nemátodos transmissores de viroses. As vinhas-mãe e os viveiros devem ser plantados em condições apropriadas para evitar qualquer risco de contaminação por organismos nocivos.\n\n4. A presença de organismos nocivos que reduzam o valor de utilização dos materiais de propagação deve situar-se no mais baixo nível possível.\n\n5. Em particular no que se refere aos organismos nocivos referidos nas alíneas a), b) e c), devem aplicar-se as condições indicadas nos pontos 5.1 a 5.5, respeitando o ponto 5.6: a) Complexo da degenerescência da videira (vírus do urticado ou nó curto — GFLV — e o vírus do mosaico do arabis — ArMV); b) Doença do enrolamento da videira: vírus associado ao enrolamento da videira 1 (GLRaV-1) e vírus associado ao enrolamento da videira 3 (GLRaV-3); c) Vírus do marmoreado da videira (GFkV) (apenas para os porta-enxertos). 5.1. As vinhas-mãe destinadas à produção de materiais de propagação iniciais devem estar isentas dos organismos nocivos referidos nas alíneas a), b) e c) do ponto 5, devendo tal ser comprovado mediante uma inspecção oficial. Esta inspecção baseia-se nos resultados de testes sanitários realizados por indexagem ou por outro método de testagem equivalente reconhecido internacionalmente relativo a todas as plantas. O resultado destes testes será confirmado pelos resultados de testes sanitários realizados em todas as plantas, de cinco em cinco anos, para os organismos referidos nas alíneas a) e b) do ponto 5. As plantas infectadas devem ser eliminadas. As razões para as falhas atribuídas aos supracitados organismos nocivos ou a outros factores devem ser registadas no processo relativo às vinhas-mãe. 5.2. As vinhas-mãe destinadas à produção de materiais de propagação de base devem estar isentas dos organismos nocivos referidos nas alíneas a) e b) do ponto 5, devendo tal ser comprovado mediante uma inspecção oficial. Esta inspecção baseia-se nos resultados de testes sanitários relativos a todas as plantas. Estes testes serão realizados, pelo menos de seis em seis anos, em vinhas-mãe a partir dos três anos de idade. Caso sejam realizadas em todas as plantas inspecções anuais de campo, estes testes serão realizados, pelo menos de seis em seis anos, em vinhas-mãe a partir dos seis anos de idade. As plantas infectadas devem ser eliminadas. As razões para as falhas atribuídas aos supracitados organismos nocivos ou a outros factores devem ser registadas no processo relativo às vinhas-mãe. 5.3. As vinhas-mãe destinadas à produção de materiais certificados devem estar isentas de todos os organismos nocivos referidos nas alíneas a) e b) do ponto 5, devendo tal ser comprovado mediante uma inspecção oficial. Esta inspecção baseia-se nos resultados de testes sanitários realizados por amostragem de acordo com métodos de análise/procedimentos de controlo que cumpram normas de reconhecimento generalizado. Estes testes serão realizados, pelo menos de dez em dez anos, em vinhas-mãe a partir dos cinco anos de idade. Caso sejam realizadas em todas as plantas inspecções anuais de campo, estes testes serão realizados, pelo menos de dez em dez anos, em vinhas-mãe a partir dos dez anos de idade. A proporção de falhas nas vinhas-mãe atribuível aos organismos nocivos indicados nas alíneas a) e b) do ponto 5 não deverá ultrapassar 5 %. As plantas infectadas devem ser eliminadas. As razões para as falhas atribuídas aos supracitados organismos nocivos ou a outros factores devem ser registadas no processo relativo às vinhas-mãe. 5.4. Nas vinhas-mãe destinadas à produção de materiais de propagação standard, a proporção de falhas atribuível aos organismos nocivos indicados nas alíneas a) e b) do ponto 5 não deverá ultrapassar 10 %. As plantas infectadas não devem ser utilizadas para efeitos de propagação. As razões para as falhas atribuídas aos supracitados organismos nocivos ou a outros factores devem ser registadas no processo relativo às vinhas-mãe. 5.5. Os viveiros devem estar isentos dos organismos nocivos indicados nas alíneas a) e b) do ponto 5, devendo tal ser comprovado mediante uma inspecção oficial anual de campo baseada em métodos visuais e, se necessário, apoiada por testes adequados e, se for o caso, por uma segunda inspecção à cultura. 5.6. a) Os Estados-Membros podem decidir não aplicar os pontos 5.1 e 5.2 até 31 de Julho de 2011, no que diz respeito às vinhas-mãe que já estejam a produzir materiais de propagação iniciais ou materiais de propagação de base à data de entrada em vigor da Directiva 2005/43/CE ([^10^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#E0011)) da Comissão. b) Os Estados-Membros podem decidir não aplicar o ponto 5.3 até 31 de Julho de 2012, no que diz respeito às vinhas-mãe que já estejam a produzir materiais de propagação certificados à data de entrada em vigor da Directiva 2005/43/CE. c) Quando os Estados-Membros decidirem não aplicar os pontos 5.1, 5.2 ou 5.3, tal como se refere nas alíneas a) ou b) *supra*, devem aplicar as regras abaixo indicadas. As viroses nocivas, especialmente o nó-curto e o enrolamento da videira, devem ser eliminadas das culturas destinadas à produção de materiais de propagação iniciais ou materiais de propagação de base. As culturas destinadas à produção de material de propagação das outras categorias não devem conter plantas que apresentem sintomas de viroses nocivas.\n\n5.1. As vinhas-mãe destinadas à produção de materiais de propagação iniciais devem estar isentas dos organismos nocivos referidos nas alíneas a), b) e c) do ponto 5, devendo tal ser comprovado mediante uma inspecção oficial. Esta inspecção baseia-se nos resultados de testes sanitários realizados por indexagem ou por outro método de testagem equivalente reconhecido internacionalmente relativo a todas as plantas. O resultado destes testes será confirmado pelos resultados de testes sanitários realizados em todas as plantas, de cinco em cinco anos, para os organismos referidos nas alíneas a) e b) do ponto 5. As plantas infectadas devem ser eliminadas. As razões para as falhas atribuídas aos supracitados organismos nocivos ou a outros factores devem ser registadas no processo relativo às vinhas-mãe.\n\n5.2. As vinhas-mãe destinadas à produção de materiais de propagação de base devem estar isentas dos organismos nocivos referidos nas alíneas a) e b) do ponto 5, devendo tal ser comprovado mediante uma inspecção oficial. Esta inspecção baseia-se nos resultados de testes sanitários relativos a todas as plantas. Estes testes serão realizados, pelo menos de seis em seis anos, em vinhas-mãe a partir dos três anos de idade. Caso sejam realizadas em todas as plantas inspecções anuais de campo, estes testes serão realizados, pelo menos de seis em seis anos, em vinhas-mãe a partir dos seis anos de idade. As plantas infectadas devem ser eliminadas. As razões para as falhas atribuídas aos supracitados organismos nocivos ou a outros factores devem ser registadas no processo relativo às vinhas-mãe.\n\n5.3. As vinhas-mãe destinadas à produção de materiais certificados devem estar isentas de todos os organismos nocivos referidos nas alíneas a) e b) do ponto 5, devendo tal ser comprovado mediante uma inspecção oficial. Esta inspecção baseia-se nos resultados de testes sanitários realizados por amostragem de acordo com métodos de análise/procedimentos de controlo que cumpram normas de reconhecimento generalizado. Estes testes serão realizados, pelo menos de dez em dez anos, em vinhas-mãe a partir dos cinco anos de idade. Caso sejam realizadas em todas as plantas inspecções anuais de campo, estes testes serão realizados, pelo menos de dez em dez anos, em vinhas-mãe a partir dos dez anos de idade. A proporção de falhas nas vinhas-mãe atribuível aos organismos nocivos indicados nas alíneas a) e b) do ponto 5 não deverá ultrapassar 5 %. As plantas infectadas devem ser eliminadas. As razões para as falhas atribuídas aos supracitados organismos nocivos ou a outros factores devem ser registadas no processo relativo às vinhas-mãe.\n\n5.4. Nas vinhas-mãe destinadas à produção de materiais de propagação standard, a proporção de falhas atribuível aos organismos nocivos indicados nas alíneas a) e b) do ponto 5 não deverá ultrapassar 10 %. As plantas infectadas não devem ser utilizadas para efeitos de propagação. As razões para as falhas atribuídas aos supracitados organismos nocivos ou a outros factores devem ser registadas no processo relativo às vinhas-mãe.\n\n5.5. Os viveiros devem estar isentos dos organismos nocivos indicados nas alíneas a) e b) do ponto 5, devendo tal ser comprovado mediante uma inspecção oficial anual de campo baseada em métodos visuais e, se necessário, apoiada por testes adequados e, se for o caso, por uma segunda inspecção à cultura.\n\n5.6. a) Os Estados-Membros podem decidir não aplicar os pontos 5.1 e 5.2 até 31 de Julho de 2011, no que diz respeito às vinhas-mãe que já estejam a produzir materiais de propagação iniciais ou materiais de propagação de base à data de entrada em vigor da Directiva 2005/43/CE ([^10^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#E0011)) da Comissão. b) Os Estados-Membros podem decidir não aplicar o ponto 5.3 até 31 de Julho de 2012, no que diz respeito às vinhas-mãe que já estejam a produzir materiais de propagação certificados à data de entrada em vigor da Directiva 2005/43/CE. c) Quando os Estados-Membros decidirem não aplicar os pontos 5.1, 5.2 ou 5.3, tal como se refere nas alíneas a) ou b) *supra*, devem aplicar as regras abaixo indicadas. As viroses nocivas, especialmente o nó-curto e o enrolamento da videira, devem ser eliminadas das culturas destinadas à produção de materiais de propagação iniciais ou materiais de propagação de base. As culturas destinadas à produção de material de propagação das outras categorias não devem conter plantas que apresentem sintomas de viroses nocivas.\n\n6. Os viveiros não devem ser instalados no interior ou junto de vinhas ou vinhas-mãe. A distância mínima para uma vinha ou uma vinha-mãe é de três metros.\n\n7. Os materiais de propagação utilizados para a produção de estacas para enxertar, garfos, estacas para enraizar, bacelos e bacelos enxertados devem provir de vinhas-mãe que tenham sido inspeccionadas e aprovadas.\n\n8. Sem prejuízo da inspecção oficial indicada no ponto 5, deve efectuar-se pelo menos uma inspecção oficial de campo. Podem ser efectuadas inspecções de campo suplementares em caso de contestação, em matérias que não interfiram com a qualidade do material de propagação."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "a7ad199e32ea60d8": {
+   "fragment_id": "CONDIÇÕES RELATIVAS AOS MATERIAIS DE PROPAGAÇÃO",
+   "type": "divisao",
+   "heading": "CONDIÇÕES RELATIVAS AOS MATERIAIS DE PROPAGAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES RELATIVAS AOS MATERIAIS DE PROPAGAÇÃO"
+  },
+  "56cad67b586f20cc": {
+   "fragment_id": "I. CONDIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "I. CONDIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. CONDIÇÕES GERAIS\n\n1. Os materiais de propagação devem possuir identidade e pureza varietais e, se for o caso, pureza clonal; é admitida uma tolerância de 1 % aquando da comercialização dos materiais de propagação standard.\n\n2. Os materiais de propagação devem ter uma pureza técnica mínima de 96 %.\n\na) Os materiais de propagação dessecados na totalidade ou em parte, mesmo quando tenham sido sujeitos a imersão em água, após a sua dessecação;\n\nb) Os materiais de propagação danificados, torcidos ou feridos, em particular, quando danificados pelo granizo ou pelo gelo, ou quando esmagados ou quebrados;\n\nc) Os materiais que não cumpram os requisitos indicados no ponto III *infra*.\n\n3. Os sarmentos devem ter atingido um estádio satisfatório de maturidade da madeira.\n\n4. A presença de organismos nocivos que reduzam o valor de utilização dos materiais de propagação é tolerada apenas no mais baixo nível possível."
+  },
+  "1b79fc8fffd761c8": {
+   "fragment_id": "II. CONDIÇÕES ESPECIAIS",
+   "type": "divisao",
+   "heading": "II. CONDIÇÕES ESPECIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. CONDIÇÕES ESPECIAIS"
+  },
+  "4c1700c87f21f011": {
+   "fragment_id": "1. Bacelos enxertados",
+   "type": "divisao",
+   "heading": "1. Bacelos enxertados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Bacelos enxertados\n\nOs bacelos enxertados produzidos pela combinação de materiais de propagação da mesma categoria são classificados nessa categoria.\n\nOs bacelos enxertados produzidos pela combinação de diferentes categorias de materiais de propagação são classificados na mais baixa das categorias em causa."
+  },
+  "8b563e7a42cfdd3f": {
+   "fragment_id": "2. Derrogação temporária",
+   "type": "divisao",
+   "heading": "2. Derrogação temporária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Derrogação temporária\n\nOs Estados-Membros podem decidir não aplicar as disposições do ponto 1 até 31 de Julho de 2010, no que diz respeito a bacelos enxertados que consistam em materiais de propagação iniciais enxertados em materiais de propagação de base. Se os Estados-Membros decidirem não aplicar o ponto 1, devem aplicar a regra abaixo indicada.\n\nOs bacelos enxertados que consistam em materiais de propagação iniciais enxertados em materiais de propagação de base são classificados como materiais de propagação iniciais."
+  },
+  "fad2a7c81a320239": {
+   "fragment_id": "III. CALIBRES",
+   "type": "divisao",
+   "heading": "III. CALIBRES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. CALIBRES"
+  },
+  "0609c7b657aface7": {
+   "fragment_id": "1. Estacas para enxertar, estacas para enraizar e garfos",
+   "type": "divisao",
+   "heading": "1. Estacas para enxertar, estacas para enraizar e garfos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Estacas para enxertar, estacas para enraizar e garfos\n\nTrata-se do diâmetro maior da secção. Esta norma não se aplica a ramos herbáceos.\n\na) Estacas para enxertar e garfos:\n\naa) diâmetro na extremidade superior: 6,5 a 12 mm;\n\nab) diâmetro máximo na extremidade inferior: 15 mm, salvo se se tratar de garfos destinados à enxertia no local definitivo.\n\nb) Estacas para enraizar:\n\ndiâmetro mínimo na extremidade superior: 3,5 mm."
+  },
+  "8f16697a01ff0083": {
+   "fragment_id": "2. Bacelos",
+   "type": "divisao",
+   "heading": "2. Bacelos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Bacelos"
+  },
+  "01d89e89bcba3415": {
+   "fragment_id": "A. DIÂMETRO",
+   "type": "divisao",
+   "heading": "A. DIÂMETRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. DIÂMETRO\n\nO diâmetro medido a meio do entrenó, abaixo do lançamento superior e segundo o eixo maior, deve ser pelo menos igual a 5 mm. Esta norma não se aplica a bacelos obtidos de materiais de propagação herbáceos."
+  },
+  "c68e027fd5f079b2": {
+   "fragment_id": "B. COMPRIMENTO",
+   "type": "divisao",
+   "heading": "B. COMPRIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. COMPRIMENTO\n\nO comprimento, medido do ponto inferior de inserção das raízes à base do lançamento superior, não deve ser inferior:\n\na) a 30 cm no caso dos bacelos destinadas à enxertia; no entanto, no caso dos bacelos com destino à Sicília, este comprimento é de 20 cm;\n\nb) a 20 cm no caso dos outros bacelos."
+  },
+  "aeefd9abfe0f7fe1": {
+   "fragment_id": "C. RAÍZES",
+   "type": "divisao",
+   "heading": "C. RAÍZES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. RAÍZES\n\nCada planta deve ter pelo menos três raízes bem desenvolvidas e convenientemente repartidas. Todavia, a variedade 420 A pode ter apenas duas raízes bem desenvolvidas desde que sejam opostas."
+  },
+  "61bff0a5d4630d9c": {
+   "fragment_id": "D. TALÃO",
+   "type": "divisao",
+   "heading": "D. TALÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### D. TALÃO\n\nO corte deve ter sido feito a uma distância suficiente abaixo do diafragma de modo a não o danificar, mas nunca a mais de um centímetro."
+  },
+  "5d9debc36282bcfc": {
+   "fragment_id": "3. Bacelos enxertados",
+   "type": "divisao",
+   "heading": "3. Bacelos enxertados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Bacelos enxertados"
+  },
+  "59e646659e007ac3": {
+   "fragment_id": "A. COMPRIMENTO",
+   "type": "divisao",
+   "heading": "A. COMPRIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. COMPRIMENTO\n\nO caule deve ter pelo menos 20 cm de comprimento.\n\nEsta norma não se aplica aos bacelos enxertados obtidos de materiais de propagação herbáceos."
+  },
+  "e2c7998f0208b08f": {
+   "fragment_id": "B. RAÍZES",
+   "type": "divisao",
+   "heading": "B. RAÍZES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. RAÍZES\n\nCada planta deve ter pelo menos três raízes bem desenvolvidas e convenientemente repartidas. Todavia, a variedade 420 A pode ter apenas duas raízes bem desenvolvidas desde que sejam opostas."
+  },
+  "407fd2e9fda62b3d": {
+   "fragment_id": "C. SOLDADURA DA ENXERTIA",
+   "type": "divisao",
+   "heading": "C. SOLDADURA DA ENXERTIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. SOLDADURA DA ENXERTIA\n\nCada planta deve apresentar uma soldadura satisfatória, regular e sólida."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "5c2487e0ffa44d83": {
+   "fragment_id": "ACONDICIONAMENTO",
+   "type": "divisao",
+   "heading": "ACONDICIONAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACONDICIONAMENTO\n\n| 1 — Tipo | 2 — Número de indivíduos | 3 — Quantidade máxima |\n| --- | --- | --- |\n| 1. Bacelos enxertados | 25, 50, 100, ou múltiplos de 100 | 500 |\n| 2. Bacelos | 50, 100, ou múltiplos de 100 | 500 |\n| 3. Garfos |  |  |\n| — com, pelo menos, cinco olhos utilizáveis | 100, ou 200 | 200 |\n| — com um olho utilizável | 500, ou múltiplos de 500 | 5 000 |\n| 4. Estacas para enxertar | 100, ou múltiplos de 100 | 1 000 |\n| 5. Estacas para enraizar | 100, ou múltiplos de 100 | 500 |"
+  },
+  "5786e1d74860d36f": {
+   "fragment_id": "CONDIÇÕES ESPECIAIS",
+   "type": "divisao",
+   "heading": "CONDIÇÕES ESPECIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### CONDIÇÕES ESPECIAIS"
+  },
+  "295d8da8d18f558d": {
+   "fragment_id": "I. Pequenas quantidades",
+   "type": "divisao",
+   "heading": "I. Pequenas quantidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Pequenas quantidades\n\nSe necessário, o tamanho (número de indivíduos) das embalagens e dos molhos de todos os tipos e categorias de materiais de propagação enumerados na coluna 1 *supra* pode ser inferior às quantidades mínimas indicadas na coluna 2 *supra*."
+  },
+  "512d45c06b567ecc": {
+   "fragment_id": "II. Videiras com raízes em qualquer substrato em vasos, caixas ou cartões",
+   "type": "divisao",
+   "heading": "II. Videiras com raízes em qualquer substrato em vasos, caixas ou cartões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Videiras com raízes em qualquer substrato em vasos, caixas ou cartões\n\nO número de indivíduos e a quantidade máxima não se aplicam."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "8c76b8d7f33eaf92": {
+   "fragment_id": "MARCAÇÃO",
+   "type": "divisao",
+   "heading": "MARCAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MARCAÇÃO"
+  },
+  "45da4522d6bfec2c": {
+   "fragment_id": "A. ETIQUETA",
+   "type": "divisao",
+   "heading": "A. ETIQUETA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. ETIQUETA"
+  },
+  "82a30a2b13d749ea": {
+   "fragment_id": "I. Informações requeridas",
+   "type": "divisao",
+   "heading": "I. Informações requeridas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Informações requeridas\n\n1. Norma CE\n\n2. País de produção\n\n3. Autoridade responsável pela certificação ou controlo e Estado-Membro ou as respectivas iniciais\n\n4. Nome e endereço da pessoa responsável pela selagem ou o seu número de identificação\n\n5. Espécie\n\n6. Tipo de material\n\n7. Categoria\n\n8. Variedade e, se for o caso, o clone. Para os bacelos enxertados, esta indicação aplica-se ao porta-enxertos e ao garfo\n\n9. Número de referência do lote\n\n10. Quantidade\n\n11. Comprimento — apenas no caso das estacas para enxertar: trata-se do comprimento mínimo das estacas do lote em causa\n\n12. Ano de produção"
+  },
+  "341f8d6f41ce0c49": {
+   "fragment_id": "II. Condições mínimas",
+   "type": "divisao",
+   "heading": "II. Condições mínimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Condições mínimas\n\nA etiqueta deve cumprir os seguintes requisitos:\n\n1. A etiqueta deve ser impressa de modo indelével e ser claramente legível;\n\n2. A etiqueta deve ser aposta num local em evidência, de modo a ser facilmente visível;\n\n3. As informações indicadas no ponto A.I não devem nunca ficar dissimuladas, disfarçadas ou separadas por outras indicações ou imagens;\n\n4. As informações indicadas no ponto A.I devem figurar no mesmo campo visual."
+  },
+  "ff4aac01901ce996": {
+   "fragment_id": "III. Derrogação relativa a pequenas quantidades destinadas ao consumidor final",
+   "type": "divisao",
+   "heading": "III. Derrogação relativa a pequenas quantidades destinadas ao consumidor final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### III. Derrogação relativa a pequenas quantidades destinadas ao consumidor final"
+  },
+  "1c5b3e714c11fffb": {
+   "fragment_id": "1. Mais do que uma unidade",
+   "type": "divisao",
+   "heading": "1. Mais do que uma unidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Mais do que uma unidade\n\nA informação requerida para a etiqueta referida no ponto I.10 deve ser a seguinte: «Número exacto de unidades por embalagem ou molho»."
+  },
+  "26cef8becf4a4325": {
+   "fragment_id": "2. Apenas uma unidade",
+   "type": "divisao",
+   "heading": "2. Apenas uma unidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Apenas uma unidade\n\nAs seguintes informações indicadas no ponto A.I não são requeridas:\n\n— Tipo de material\n\n— Categoria\n\n— Número de referência do lote\n\n— Quantidade\n\n— Comprimento das estacas para enxertar\n\n— Ano de produção"
+  },
+  "8558eebeafbedfec": {
+   "fragment_id": "IV. Derrogação relativa às videiras em vasos, caixas ou cartões",
+   "type": "divisao",
+   "heading": "IV. Derrogação relativa às videiras em vasos, caixas ou cartões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### IV. Derrogação relativa às videiras em vasos, caixas ou cartões\n\nNo caso de videiras com raízes em qualquer substrato em vasos, caixas ou cartões, quando as embalagens desses materiais não possam satisfazer os requisitos de selagem (incluindo a etiquetagem) devido à sua composição:\n\na) Os materiais de propagação são mantidos em lotes separados, adequadamente identificados por variedade e, se for o caso, por clone e por número de indivíduos;\n\nb) A etiqueta oficial não é obrigatória;\n\nc) Os materiais de propagação devem ser acompanhados pelo documento de acompanhamento, como estabelecido no ponto B."
+  },
+  "bcc199d03f09e19e": {
+   "fragment_id": "B. DOCUMENTO DE ACOMPANHAMENTO",
+   "type": "divisao",
+   "heading": "B. DOCUMENTO DE ACOMPANHAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. DOCUMENTO DE ACOMPANHAMENTO"
+  },
+  "a2e82f5570e2a8d1": {
+   "fragment_id": "I. Condições a preencher",
+   "type": "divisao",
+   "heading": "I. Condições a preencher",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Condições a preencher\n\nQuando um Estado-Membro exigir a emissão de um documento de acompanhamento, este deve:\n\na) ser emitido em, pelo menos, dois exemplares (expedidor e destinatário),\n\nb) (o exemplar do destinatário) acompanhar a remessa desde o endereço do expedidor até ao endereço do destinatário,\n\nc) indicar todas as informações referidas no ponto II relativas aos lotes individuais da remessa,\n\nd) ser conservado durante um ano, pelo menos, e estar à disposição da autoridade de controlo oficial."
+  },
+  "85d9f69d85efeb23": {
+   "fragment_id": "II. Lista das informações a incluir",
+   "type": "divisao",
+   "heading": "II. Lista das informações a incluir",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Lista das informações a incluir\n\n1. Norma CE\n\n2. País de produção\n\n3. Autoridade responsável pela certificação ou controlo e Estado-Membro ou as respectivas iniciais\n\n4. Número de série\n\n5. Expedidor (endereço, número de registo)\n\n6. Destinatário (endereço)\n\n7. Espécie\n\n8. Tipo(s) de material\n\n9. Categoria(s)\n\n10. Variedade(s) e, se for o caso, o(s) clone(s). Para os bacelos enxertados, esta indicação aplica-se ao porta enxertos e ao garfo\n\n11. Número de indivíduos por lote\n\n12. Número total de lotes\n\n13. Data de fornecimento\n\n---"
+  },
+  "a5131636ff28605c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#src.E0001)) JO n.º 156 de 15. 7. 1967, p. 30.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#src.E0002)) JO L 179 de 17.7.1999, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#src.E0003)) JO L 106 de 17.4.2001, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#src.E0004)) JO L 268 de 18.10.2003, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#src.E0005)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#src.E0006)) JO L 4 de 8.1.1993, p. 22.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#src.E0007)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#src.E0008)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#src.E0009)) JO n.º L 55 de 2. 3. 1968, p. 1.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/5c792086-472d-437e-b864-a23ef6f4a8e1.0018.03/DOC_1#src.E0011)) JO L 164 de 24.6.2005, p. 37."
+  },
+  "a3931d35a5c59619": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Abril de 1968\n\nrelativa à comercialização dos materiais de propagação vegetativa da vinha\n\n(68/193/CEE)"
+  },
+  "52d73fab54625301": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Na acepção da presente directiva, entende-se por:\n\nA. *Vinha*: as plantas do género *Vitis* (L.) destinadas à produção de uvas ou à utilização como materiais de propagação para estas mesmas plantas.\n\nAA. *Variedade*: um conjunto vegetal pertencente ao mesmo táxon botânico, da ordem mais baixa conhecida, que pode ser:\n\na) Definido pela expressão das características resultantes de um determinado genótipo ou de uma determinada combinação de genótipos;\n\nb) Distinguido de qualquer outro conjunto vegetal pela expressão de pelo menos uma das referidas características; e\n\nc) Considerado como uma entidade tendo em conta a sua aptidão para ser reproduzido sem alteração.\n\nAB. *Clone*: uma descendência vegetativa de uma variedade conforme a uma cepa de videira escolhida pela identidade varietal, os seus caracteres fenotípicos e o seu estado sanitário.\n\nB. *Materiais de propagação*:\n\ni) *Propágulos*:\n\na) Bacelos: fracções de sarmentos ou de ramos herbáceos de videira enraizadas e não enxertadas, destinadas à plantação de pé-franco ou para utilização como porta-enxertos para uma enxertia;\n\nb) Bacelos enxertados: fracções de sarmentos ou de ramos herbáceos de videira ligadas por enxertia, cuja parte subterrânea está enraizada;\n\nii) *Partes de propágulos*:\n\na) Sarmentos: ramos de um ano;\n\nb) Ramos herbáceos: ramos não lenhosos;\n\nc) Estacas para enxertar: fracções de sarmentos ou de ramos herbáceos de videira destinadas a formar a parte subterrânea no momento da preparação dos bacelos enxertados;\n\nd) Garfos: fracções de sarmentos ou de ramos herbáceos de videira destinadas a formar a parte área no momento da preparação dos bacelos enxertados ou no momento das enxertias no local definitivo;\n\ne) Estacas para enraizar: fracções de sarmentos ou de ramos herbáceos de videira destinadas à produção de bacelos.\n\nC. *Vinhas-mãe*: culturas de vinha destinadas à produção das estacas enxertáveis de porta-enxertos, das estacas de viveiros ou das estacas-garfo.\n\nD. *Viveiros*: culturas de vinha destinadas à produção de raízes ou de enxertos-soldados.\n\nDA. *Materiais de propagação iniciais*: os materiais de propagação\n\na) Que tenham sido produzidos sob a responsabilidade do obtentor segundo métodos geralmente admitidos com vista à manutenção da identidade da variedade e, se for caso disso, do clone, bem como à prevenção das doenças;\n\nb) Que sejam destinados à produção de materiais de propagação de base ou de materiais de propagação certificados;\n\nc) Que satisfaçam as condições estabelecidas nos anexos I e II para os materiais de propagação de base. Esses anexos podem ser alterados, nos termos do n.º 2 do artigo 17.º, com vista a estabelecer condições suplementares ou mais rigorosas para a certificação dos materiais de propagação iniciais;\n\nd) Para os quais tenha sido verificado, aquando de um exame oficial, que foram respeitadas as condições supracitadas.\n\nE. *Materiais de propagação de base*: os materiais de propagação\n\na) Que tenham sido produzidos sob a responsabilidade do obtentor segundo métodos geralmente admitidos com vista à manutenção da identidade da variedade e, se for caso disso, do clone, bem como à prevenção das doenças, e que provenham directamente de materiais de propagação iniciais por via vegetativa;\n\nb) Que sejam destinados à produção de materiais de propagação certificados;\n\nc) Que satisfaçam as condições estabelecidas nos anexos I e II para os materiais de propagação de base;\n\nd) Para os quais tenha sido verificado, aquando de um exame oficial, que foram respeitadas as condições supracitadas.\n\nF. *Materiais de propagação científicos*: os materiais de propagação\n\na) Que tenham origem directamente em materiais de propagação de base ou em materiais de propagação iniciais;\n\nb) Que sejam destinados:\n\n— à produção de plantas ou de partes de plantas que servem para a produção de uvas, ou\n\n— à produção de uvas;\n\nc) Que satisfaçam as condições estabelecidas nos anexos I e II para os materiais de propagação certificados; e\n\nd) Para os quais foi verificado, aquando de um exame oficial, que foram respeitadas as condições supracitadas.\n\nG. *Materiais de propagação* standard: os materiais de propagação\n\na) Que possuam a identidade e a pureza varietais,\n\nb) Que sejam destinados:\n\n— à produção de plantas ou de partes de plantas que servem para a produção de uvas, ou\n\n— à produção de uvas;\n\nc) Que satisfaçam as condições estabelecidas nos anexos I e II para os materiais de propagação *standard*; e\n\nd) Para os quais foi verificado, aquando de um exame oficial, que foram respeitadas as condições supracitadas.\n\nH. *Disposições oficiais*: as disposições que forem tomadas:\n\na) Pelas autoridades de um Estado; ou\n\nb) Sob a responsabilidade de um Estado, por pessoas morais de direito público; ou\n\nc) Para actividades auxiliares, igualmente sob controlo de um Estado, por pessoas físicas ajuramentadas,\n\nI. *Comercialização*:\n\na) Fornecimento de materiais de propagação a organismos oficiais de investigação e de controlo;\n\nb) Fornecimento de materiais de propagação a prestadores de serviços, com vista à sua transformação ou ao acondicionamento, desde que o prestador não adquira um título sobre o material de propagação fornecido.\n\n2. Os Estados-membros, depois da entrada em vigor das disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento às disposições da presente directiva, podem, transitoriamente, determinar que os materiais de propagação utilizados no estabelecimento de videiras-mãe ou de estacas são equivalentes aos materiais de propagação certificados ou controlados de acordo com as disposições da presente directiva, se esses materiais de propagação, antes da sua utilização, ofereciam as mesmas garantias dos materiais de propagação certificados ou controlados de acordo com as disposições da presente directiva."
+  },
+  "a50d8576681e0d45": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Cada Estado-Membro deve estabelecer um catálogo das variedades de vinha admitidas oficialmente à certificação assim como ao controlo dos materiais de propagação *standard* no seu território. Qualquer pessoa poderá consultar o catálogo. O catálogo deve determinar as principais características morfológicas e fisiológicas que permitem distinguir as variedades entre si. Em relação às variedades já admitidas até 31 de Dezembro de 1971, pode-se fazer referência à descrição constante das publicações ampelográficas oficiais.\n\n2. Os Estados-Membros devem assegurar que as variedades admitidas nos catálogos dos outros Estados-Membros sejam igualmente admitidas à certificação assim como ao controlo dos materiais de propagação *standard* no seu próprio território sem prejuízo do Regulamento (CE) n.º 1493/1999 do Conselho, de 17 de Maio de 1999, que estabelece a organização comum de mercado vitivinícola ([^1^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#E0001)), no que diz respeito às regras relativas à classificação das variedades de vinha.\n\n3. Cada Estado-Membro deve estabelecer também, se necessário, uma lista de clones admitidos oficialmente à certificação no seu território.\n\nOs Estados-Membros devem assegurar que os clones admitidos à certificação noutro Estado-Membro sejam igualmente admitidos à certificação no seu próprio território."
+  },
+  "ae880b6a59d36c6c": {
+   "fragment_id": "Artigo 5.ºBA",
+   "type": "artigo",
+   "heading": "Artigo 5.ºBA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.ºBA\n\n1. No caso de uma variedade de vinha geneticamente modificada na acepção dos n.^os^ 1 e 2 do artigo 2.º da Directiva 2001/18/CE do Parlamento e do Conselho, de 12 de Março de 2001, relativa à libertação deliberada no ambiente de organismos geneticamente modificados e que revoga a Directiva 90/220/CEE do Conselho ([^2^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#E0002)), essa variedade só é admitida se tiverem sido tomadas todas as medidas adequadas para evitar riscos para a saúde humana e o ambiente.\n\n2. No caso de uma variedade geneticamente modificada na acepção do n.º 1:\n\na) Deve proceder-se a uma avaliação específica dos riscos para o ambiente equivalente à prevista pela Directiva 2001/18/CE, em conformidade com os princípios fixados no anexo II e com base nas informações especificadas no anexo III dessa directiva;\n\nb) Os processos destinados a garantir que a avaliação específica dos riscos e os demais requisitos pertinentes, designadamente em matéria de gestão dos riscos, de rotulagem, de eventual monitorização, de informação do público e de cláusula de salvaguarda, sejam equivalentes aos previstos na Directiva 2001/18/CE, devem ser introduzidos, sob proposta da Comissão, num regulamento do Parlamento Europeu e do Conselho. Até à entrada em vigor do referido regulamento, as variedades geneticamente modificadas só serão admitidas nos catálogos nacionais depois de terem sido admitidas à comercialização em conformidade com a Directiva 2001/18/CE;\n\nc) Os artigos 13.º a 24.º da Directiva 2001/18/CE deixam de ser aplicáveis às variedades de videira geneticamente modificadas autorizadas em conformidade com o regulamento referido na alínea b).\n\na) Quando produtos derivados de materiais de propagação da vinha se destinarem a ser utilizados como géneros alimentícios ou em géneros alimentícios abrangidos pelo artigo 3.º ou como alimentos para animais ou em alimentos para animais abrangidos pelo artigo 15.º do Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho, de 22 de Setembro de 2003, relativo aos géneros alimentícios e alimentos para animais geneticamente modificados ([^3^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#E0003)), a variedade de videira em causa só pode aceite se tiver sido aprovada em conformidade com o referido regulamento.\n\nb) Os Estados-Membros devem assegurar que uma variedade de videira de cujo material de propagação tenham sido derivados produtos destinados a ser utilizados em géneros alimentícios ou em alimentos para animais, tal como definidos nos artigos 2.º e 3.º do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos alimentos ([^4^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#E0004)), só seja aceite se tiver sido autorizada ao abrigo da legislação pertinente."
+  },
+  "dd0d2961b97d2056": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os Estados-Membros devem determinar que as embalagens e os molhos de materiais de propagação sejam providos de uma etiqueta oficial exterior em conformidade com o anexo IV, redigida numa das línguas oficiais da Comunidade; a sua fixação deve ser assegurada pelo sistema de fecho. A etiqueta é branca com uma barra diagonal roxa para os materiais de propagação iniciais, branca para os materiais de propagação de base, azul para os materiais de propagação certificados e amarelo torrado para os materiais de propagação *standard*.\n\n2. No entanto, os Estados-Membros podem autorizar os produtores estabelecidos no seu território a comercializar várias embalagens ou molhos de bacelos enxertados ou de bacelos com as mesmas características, marcados com uma só etiqueta em conformidade com o anexo IV. Nesse caso, as embalagens ou molhos são ligados em conjunto de modo a que, no momento da sua separação, a ligação se desfaça e não possa voltar a ser refeita. A fixação da etiqueta é garantida por essa ligação. Não é autorizado qualquer novo fecho.\n\n3. Sem prejuízo do disposto no n.º 2 do artigo 23.º do Regulamento (CE) n.º 1493/1999, os Estados-Membros podem determinar que cada entrega de material produzido no seu território seja igualmente acompanhado de um documento uniforme em que figurem nomeadamente as indicações seguintes: a natureza da mercadoria, a variedade e, eventualmente, o clone, a categoria, a quantidade, o expedidor e o destinatário. As condições a prever relativamente a este documento de acompanhamento são estabelecidas nos termos do n.º 3 do artigo 17.º da presente directiva.\n\n4. A etiqueta oficial referida no n.º 1 pode incluir também os documentos de acompanhamento fitossanitários previstos pela Directiva 92/105/CEE da Comissão ([^5^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#E0005)), que estabelece a normalização dos passaportes fitossanitários. No entanto, todas as condições aplicáveis à rotulagem oficial e aos passaportes fitossanitários são definidas como equivalentes e como tal devem ser reconhecidas.\n\n5. Os Estados-Membros devem determinar que as etiquetas oficiais sejam conservadas pelo destinatário dos materiais de propagação vegetativa da vinha durante pelo menos um ano e mantidas à disposição do serviço oficial de controlo.\n\n6. Até 23 de Fevereiro de 2004, a Comissão deve elaborar um relatório, eventualmente acompanhado de propostas, sobre a circulação dos materiais de propagação da vinha e, em especial, sobre a utilização das etiquetas oficiais e dos documentos de acompanhamento aplicados pelos Estados-Membros."
+  },
+  "755861c4833d34d7": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. A fim de eliminar dificuldades passageiras de abastecimento de materiais de propagação na Comunidade, que não possam ser resolvidas de outro modo, pode decidir-se que, nos termos do n.º 2 do artigo 17.º, os Estados-Membros autorizem, por um período determinado, a comercialização em todo o território da Comunidade da quantidade de materiais de propagação de uma categoria sujeita a exigências reduzidas necessária para ultrapassar essas dificuldades.\n\n2. Quando se tratar de uma categoria de materiais de propagação de uma variedade determinada, a cor da etiqueta será a prevista para a categoria correspondente e, em todos os outros casos será escura. A etiqueta indicará sempre que se trata de materiais de propagação de uma categoria sujeita a exigências reduzidas.\n\n3. As regras de execução do n.º1 podem ser adoptadas em conformidade com o processo estabelecido no [**►M11**](http://publications.europa.eu/resource/celex/32002L0011) n.º 2 do artigo 17.º **◄**"
+  },
+  "fa4037a88680f162": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A presente directiva não se aplicará aos materiais de propagação comprovativamente destinados a ser exportados para países terceiros.\n\na) O Conselho, deliberando por maioria qualificada sob proposta da Comissão, determina se os materiais de propagação vegetativa da vinha produzidos num país terceiro oferecem, no que diz respeito às suas condições de admissão e às disposições tomadas para assegurar a sua produção com vista à respectiva comercialização, as mesmas garantias que os materiais produzidos na Comunidade e obedecem aos requisitos da presente directiva.\n\nb) Além disso, o Conselho determina igualmente os tipos de materiais e as categorias de materiais de propagação vegetativa da vinha que podem ser admitidos à comercialização no território da Comunidade por força da alínea a).\n\nc) Até o Conselho ter tomado uma decisão nos termos da alínea a) e sem prejuízo do cumprimento do disposto na Directiva 2000/29/CE do Conselho, de 8 de Maio de 2000, relativa às medidas de protecção contra a introdução na Comunidade de organismos prejudiciais aos vegetais e produtos vegetais e contra a sua propagação no interior da Comunidade ([^6^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#E0006)), os Estados-Membros podem ser autorizados a tomar essas decisões nos termos do n.º 2 do artigo 17.º da presente directiva. Nesse âmbito, devem assegurar que os materiais a importar oferecem garantias equivalentes, sob todos os pontos de vista, às dos materiais de propagação vegetativa da vinha produzidos na Comunidade em conformidade com a presente directiva. Esses materiais importados devem, em especial, ser acompanhados de um documento em que figurem as indicações previstas no n.º 2 do artigo 11.º da presente directiva."
+  },
+  "51c911de07ad9fb0": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A Comissão é assistida pelo Comité Permanente das Sementes e Propágulos Agrícolas, Hortícolas e Florestais, a seguir designado por «comité».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#E0007)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de dois meses.\n\n4. O comité aprovará o seu regulamento interno."
+  },
+  "76c4db7c0a0ef527": {
+   "fragment_id": "Artigo 18.º A",
+   "type": "artigo",
+   "heading": "Artigo 18.º A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º A\n\nDe acordo com o procedimento previsto no [**►M11**](http://publications.europa.eu/resource/celex/32002L0011) n.º 2 do artigo 17.º **◄**, qualquer Estado-membro pode, a seu pedido, ser dispensado total ou parcialmente da obrigação de aplicar a presente Directiva, excepto, todavia, o n.º1 do artigo 12.º e o artigo 12.º *A*, na medida em que a cultura da videira e a comercialização dos materiais de multiplicação tenham importância económica mínima no seu território."
+  },
+  "7afc401b8fa0adbf": {
+   "fragment_id": "Artigo 18.º B",
+   "type": "artigo",
+   "heading": "Artigo 18.º B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º B\n\nA presente directiva é aplicável, sem prejuízo das disposições do Regulamento (CEE) n.º234/68 do Conselho, de 27 de Fevereiro de 1968, que estabelece a organização comum de mercado no sector das plantas vivas e dos produtos de floricultura ([^8^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#E0008))."
+  },
+  "cc2790dbcd75bb9d": {
+   "fragment_id": "CONDIÇÕES RELATIVAS À CULTURA",
+   "type": "divisao",
+   "heading": "CONDIÇÕES RELATIVAS À CULTURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONDIÇÕES RELATIVAS À CULTURA"
+  },
+  "d5e833ad23dbd555": {
+   "fragment_id": "Secção 1: Identidade, pureza e condições de cultura",
+   "type": "divisao",
+   "heading": "Secção 1: Identidade, pureza e condições de cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 1: Identidade, pureza e condições de cultura\n\n1. A cultura deve possuir identidade e pureza no que diz respeito à variedade e, se for o caso, ao clone.\n\n2. As condições de cultura e o nível de desenvolvimento da cultura devem ser de modo a permitir controlos suficientes da identidade e da pureza da cultura no que diz respeito à variedade e, se for o caso, ao clone, bem como do respetivo estado sanitário."
+  },
+  "f93592fa46e66d35": {
+   "fragment_id": "Secção 2: Requisitos sanitários para as vinhas-mãe destinadas à produção de todas as categorias de material de propagação e para os viveiros de todas as categorias",
+   "type": "divisao",
+   "heading": "Secção 2: Requisitos sanitários para as vinhas-mãe destinadas à produção de todas as categorias de material de propagação e para os viveiros de todas as categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 2: Requisitos sanitários para as vinhas-mãe destinadas à produção de todas as categorias de material de propagação e para os viveiros de todas as categorias\n\n1. A presente secção aplica-se às vinhas-mãe destinadas à produção de todas as categorias de material de propagação e aos viveiros de todas essas categorias\n\n2. As vinhas-mãe e os viveiros devem, após inspeção visual, ser considerados isentos das pragas regulamentadas não sujeitas a quarentena (RNQP) enumeradas nas secções 6 e 7, no que se refere ao género ou espécie em causa.\n\n3. A inspeção visual e, se for caso disso, a amostragem e a análise das vinhas-mãe e dos viveiros em causa devem ser efetuadas em conformidade com o disposto na secção 8.\n\n4. A amostragem e a análise, tal como previstas no ponto 2, devem realizar-se nos períodos do ano mais adequados, tendo em conta as condições climáticas e de cultivo da vinha, bem como a biologia das RNQP relevantes para essa vinha."
+  },
+  "62bf7fb6da189b12": {
+   "fragment_id": "Secção 3: Requisitos relativos ao solo e condições de produção para as vinhas-mãe destinadas à produção de todas as categorias de material de propagação e para os viveiros de todas as categorias de material de propagação",
+   "type": "divisao",
+   "heading": "Secção 3: Requisitos relativos ao solo e condições de produção para as vinhas-mãe destinadas à produção de todas as categorias de material de propagação e para os viveiros de todas as categorias de material de propagação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 3: Requisitos relativos ao solo e condições de produção para as vinhas-mãe destinadas à produção de todas as categorias de material de propagação e para os viveiros de todas as categorias de material de propagação\n\n1. As videiras em vinhas-mãe e viveiros só podem ser plantadas no solo ou, se for caso disso, em vasos com suportes de cultura, isentos de pragas que possam acolher os vírus enumerados na secção 7. A ausência dessas pragas deve ser determinada por meio de amostragem e de análise.\n\n2. A amostragem e a análise não devem ser efetuadas quando a autoridade de controlo oficial concluir, com base numa inspeção oficial, que o solo está isento de quaisquer pragas que possam acolher os vírus enumerados na secção 7.\n\n3. No que respeita à amostragem e à análise, os Estados-Membros devem aplicar os protocolos da OEPP ou outros protocolos reconhecidos a nível internacional. Quando não existam esses protocolos, os Estados-Membros devem aplicar os protocolos relevantes estabelecidos a nível nacional. Nesse caso, os Estados-Membros devem, a pedido, disponibilizar esses protocolos aos outros Estados-Membros e à Comissão."
+  },
+  "0e920687662acb37": {
+   "fragment_id": "Secção 4: Requisitos aplicáveis ao sítio de produção, ao local de produção ou à área",
+   "type": "divisao",
+   "heading": "Secção 4: Requisitos aplicáveis ao sítio de produção, ao local de produção ou à área",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 4: Requisitos aplicáveis ao sítio de produção, ao local de produção ou à área\n\n1. As vinhas-mãe e os viveiros devem ser criados em condições adequadas para evitar qualquer risco de contaminação por pragas que possam acolher os vírus enumerados na secção 7.\n\n2. Os viveiros não devem ser estabelecidos no interior ou junto de vinhas ou vinhas-mãe. A distância mínima de uma vinha ou vinha-mãe é de três metros.\n\n3. Para além dos requisitos sanitários e relativos ao solo e das condições de produção das secções 2 e 3, o material de propagação deve ser produzido em conformidade com os requisitos aplicáveis ao sítio de produção, ao local de produção ou à área estabelecidos na secção 8, a fim de limitar a presença das pragas enumeradas nessa secção."
+  },
+  "7175ab220a644c86": {
+   "fragment_id": "Secção 5: Inspeções oficiais",
+   "type": "divisao",
+   "heading": "Secção 5: Inspeções oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 5: Inspeções oficiais\n\n1. O material de propagação produzido nas vinhas-mãe e viveiros deve ser considerado conforme com os requisitos das secções 2 a 4 com base em inspeções oficiais anuais da cultura.\n\n2. Essas inspeções oficiais devem ser efetuadas pela autoridade de controlo oficial em conformidade com a secção 8.\n\n3. Podem ser efetuadas inspeções oficiais suplementares da cultura em caso de contestação, em matérias que não interfiram com a qualidade do material de propagação."
+  },
+  "9103fc46582109cf": {
+   "fragment_id": "Secção 6: Lista das RNQP para as quais a inspeção visual e, em caso de dúvidas, a amostragem e a análise são necessárias para determinar a respetiva presença nos termos da secção 2, ponto 2",
+   "type": "divisao",
+   "heading": "Secção 6: Lista das RNQP para as quais a inspeção visual e, em caso de dúvidas, a amostragem e a análise são necessárias para determinar a respetiva presença nos termos da secção 2, ponto 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 6: Lista das RNQP para as quais a inspeção visual e, em caso de dúvidas, a amostragem e a análise são necessárias para determinar a respetiva presença nos termos da secção 2, ponto 2\n\nGénero ou espécie do material de propagação da vinha, com exceção das sementes RNQP\n\n**Insetos e ácaros**\n\n***Vitis vinifera* L. não enxertada** *Viteus vitifoliae* Fitch [VITEVI]\n\n**Insetos e ácaros**\n\n***Vitis* L., com exceção de *Vitis vinifera* L. não enxertada** *Viteus vitifoliae* Fitch [VITEVI]\n\n**Bactérias**\n\n***Vitis* L.** *Xylophilus ampelinus* Willems *et al.* [XANTAM]\n\n**Vírus, viroides, doenças similares a vírus e fitoplasmas**\n\n***Vitis* L.** *Candidatus* Phytoplasma solani Quaglino *et al*. [PHYPSO]"
+  },
+  "e38824f998b30761": {
+   "fragment_id": "Secção 7: Lista das RNQP para as quais a inspeção visual e, em casos específicos, a amostragem e a análise são necessárias para determinar a respetiva presença nos termos da secção 2, ponto 2, e da secção 8",
+   "type": "divisao",
+   "heading": "Secção 7: Lista das RNQP para as quais a inspeção visual e, em casos específicos, a amostragem e a análise são necessárias para determinar a respetiva presença nos termos da secção 2, ponto 2, e da secção 8",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 7: Lista das RNQP para as quais a inspeção visual e, em casos específicos, a amostragem e a análise são necessárias para determinar a respetiva presença nos termos da secção 2, ponto 2, e da secção 8\n\nGénero ou espécie RNQP\n\n**Vírus, viroides, doenças similares a vírus e fitoplasmas**\n\n**Material de propagação de *Vitis* L., com exceção de sementes** *Arabis mosaic virus* [ARMV00] *Grapevine fanleaf virus* [GFLV00] *Grapevine leafroll associated virus 1* [GLRAV1] *Grapevine leafroll associated virus 3* [GLRAV3]\n\n**Vírus, viroides, doenças similares a vírus e fitoplasmas**\n\n**Porta-enxertos de *Vitis* spp. e seus híbridos, exceto *Vitis vinifera* L.** *Arabis mosaic virus* [ARMV00] *Grapevine fanleaf virus* [GFLV00] *Grapevine leafroll associated virus 1* [GLRAV1] *Grapevine leafroll associated virus 3* [GLRAV3] *Grapevine fleck virus* [GFKV00]"
+  },
+  "8065f86b5d6ff5b8": {
+   "fragment_id": "Secção 8: Requisitos relativos às medidas para as vinhas-mãe de Vitis L. e, se for caso disso, para os viveiros por categoria, nos termos da secção 2, ponto 2",
+   "type": "divisao",
+   "heading": "Secção 8: Requisitos relativos às medidas para as vinhas-mãe de Vitis L. e, se for caso disso, para os viveiros por categoria, nos termos da secção 2, ponto 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção 8: Requisitos relativos às medidas para as vinhas-mãe de Vitis L. e, se for caso disso, para os viveiros por categoria, nos termos da secção 2, ponto 2"
+  },
+  "c1b9ac10252bbcdc": {
+   "fragment_id": "1. Material de propagação inicial, material de propagação básico e material certificado",
+   "type": "divisao",
+   "heading": "1. Material de propagação inicial, material de propagação básico e material certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Material de propagação inicial, material de propagação básico e material certificado\n\nA autoridade de controlo oficial deve realizar inspeções visuais às vinhas-mãe e aos viveiros pelo menos uma vez por estação vegetativa para todas as RNQP enumeradas nas secções 6 e 7."
+  },
+  "13fc0df2e988bb11": {
+   "fragment_id": "2. Material de propagação inicial",
+   "type": "divisao",
+   "heading": "2. Material de propagação inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Material de propagação inicial\n\nTodas as videiras nas vinhas-mãe destinadas à produção de material de propagação inicial devem ser objeto de amostragem e análise no que diz respeito à presença de *Arabis mosaic virus*, *Grapevine fanleaf virus*, *Grapevine leafroll-associated virus 1* e *Grapevine leafroll-associated virus 3*. Essa amostragem e análise devem ser repetidas a intervalos subsequentes de cinco anos.\n\nAs vinhas-mãe destinadas à produção de porta-enxertos devem, para além da amostragem e análise dos vírus referidos no primeiro travessão, ser objeto de amostragem e análise uma vez no que se refere à presença do *Grapevine fleck virus*.\n\nOs resultados da amostragem e da análise devem estar disponíveis antes da aceitação das vinhas-mãe em causa."
+  },
+  "e7e6b348e6a7707e": {
+   "fragment_id": "3. Material de propagação básico",
+   "type": "divisao",
+   "heading": "3. Material de propagação básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Material de propagação básico\n\nTodas as videiras nas vinhas-mãe destinadas à produção de material de propagação básico devem ser objeto de amostragem e análise no que diz respeito à presença de *Arabis mosaic virus*, *Grapevine fanleaf virus*, *Grapevine leafroll-associated virus 1* e *Grapevine leafroll-associated virus 3*.\n\nA amostragem e a análise devem ter início em vinhas-mãe de seis anos e ser realizadas a intervalos subsequentes de seis anos.\n\nOs resultados da amostragem e da análise devem estar disponíveis antes da aceitação das vinhas-mãe em causa."
+  },
+  "59e272338322516d": {
+   "fragment_id": "4. Material certificado",
+   "type": "divisao",
+   "heading": "4. Material certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Material certificado\n\nUma parte representativa das videiras numa vinha-mãe destinada à produção de material certificado deve ser objeto de amostragem e análise no que diz respeito à presença de *Arabis mosaic virus*, *Grapevine fanleaf virus*, *Grapevine leafroll-associated virus 1* e *Grapevine leafroll-associated virus 3*.\n\nA amostragem e a análise devem ter início em vinhas-mãe de dez anos e ser realizadas a intervalos subsequentes de dez anos.\n\nOs resultados da amostragem e da análise devem estar disponíveis antes da aceitação das vinhas-mãe em causa."
+  },
+  "cf43b6ffc1701e67": {
+   "fragment_id": "5. Material de propagação inicial, material de propagação básico e material certificado",
+   "type": "divisao",
+   "heading": "5. Material de propagação inicial, material de propagação básico e material certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Material de propagação inicial, material de propagação básico e material certificado\n\na) ***Candidatus* Phytoplasma solani Quaglino *et al.***\n\ni) as videiras devem ser produzidas em áreas conhecidas como isentas de *Candidatus* Phytoplasma solani Quaglino *et al.*, ou\n\nii) não se observaram sintomas de *Candidatus* Phytoplasma solani Quaglino *et al.* nas videiras no sítio de produção durante a última estação vegetativa completa, ou\n\niii) devem ser satisfeitas as seguintes condições no que se refere à presença de *Candidatus* Phytoplasma solani Quaglino *et al.*:\n\n— todas as videiras nas vinhas-mãe destinadas à produção de material de propagação inicial e de material de propagação básico que apresentem sintomas de *Candidatus* Phytoplasma solani Quaglino *et al.* foram eliminadas, e\n\n— todas as videiras nas vinhas-mãe destinadas à produção de material certificado que apresentem sintomas de *Candidatus* Phytoplasma solani Quaglino *et al.* foram, pelo menos, excluídas da propagação, e\n\n— caso o material de propagação destinado à comercialização apresente sintomas de *Candidatus* Phytoplasma solani Quaglino *et al.*, o lote completo desse material deve ser sujeito a um tratamento com água quente ou a outro tratamento adequado em conformidade com protocolos da OEPP, ou outros protocolos que sejam internacionalmente reconhecidos, para assegurar a isenção de *Candidatus* Phytoplasma solani Quaglino *et al.*.\n\nb) ***Xylophilus ampelinus* Willems *et al.***\n\ni) as videiras devem ser produzidas em áreas conhecidas como isentas de *Xylophilus ampelinus* Willems *et al.*, ou\n\nii) não se observaram sintomas de *Xylophilus ampelinus* Willems et al. nas videiras no sítio de produção durante a última estação vegetativa completa, ou\n\niii) devem ser satisfeitas as seguintes condições no que se refere à presença de *Xylophilus ampelinus* Willems *et al.*:\n\n— todas as videiras nas vinhas-mãe destinadas à produção de material de propagação inicial, de material de propagação básico e de material certificado que apresentem sintomas de *Xylophilus ampelinus* Willems *et al.* foram eliminadas e são tomadas medidas de higiene adequadas, e\n\n— as videiras do sítio de produção que apresentem sintomas de *Xylophilus ampelinus* Willems *et al.* devem ser tratadas com um bactericida após a poda, a fim de assegurar a ausência de *Xylophilus ampelinus* Willems *et al.*, e\n\n— caso o material de propagação destinado à comercialização apresente sintomas de *Xylophilus ampelinus* Willems *et al.*, o lote completo desse material deve ser sujeito a um tratamento com água quente ou a outro tratamento adequado em conformidade com protocolos da OEPP, ou outros protocolos internacionalmente reconhecidos, para assegurar a isenção de *Xylophilus ampelinus* Willems *et al.*.\n\nc) ***Arabis mosaic virus***, ***Grapevine fanleaf virus***, ***Grapevine leafroll-associated virus 1* e *Grapevine leafroll-associated virus 3***\n\ni) as seguintes condições devem estar preenchidas no que se refere à presença de *Arabis mosaic virus*, *Grapevine fanleaf virus*, *Grapevine leafroll-associated virus 1* e *Grapevine leafroll-associated virus 3*:\n\n— não se observaram sintomas desses vírus nas videiras em vinhas-mãe destinadas à produção de material de propagação inicial e de material de propagação básico, e\n\n— foram observados sintomas desses vírus em não mais de 5 % das videiras em vinhas-mãe destinadas à produção de material certificado, e essas videiras foram eliminadas e destruídas, ou\n\nii) todas as videiras nas vinhas-mãe destinadas à produção de material de propagação inicial, e o material de propagação inicial, devem ser mantidos em instalações à prova de insetos para assegurar a ausência de *Grapevine leafroll-associated virus 1* e *Grapevine leafroll-associated virus 3*.\n\nd) ***Viteus vitifoliae* Fitch**\n\ni) as videiras devem ser produzidas em áreas conhecidas como isentas de *Viteus vitifoliae* Fitch, ou\n\nii) as videiras devem ser enxertadas em porta-enxertos resistentes a *Viteus vitifoliae* Fitch, ou\n\n— todas as videiras em vinhas-mãe destinadas à produção de material de propagação inicial e todo o material de propagação inicial devem ser mantidos em instalações à prova de insetos e não se observaram sintomas de *Viteus vitifoliae* Fitch nessas videiras durante a última estação vegetativa completa, e\n\n— caso o material de propagação destinado à comercialização apresente sintomas de *Viteus vitifoliae* Fitch, o lote completo desse material deve ser sujeito a um tratamento de fumigação, um tratamento com água quente ou outro tratamento adequado em conformidade com protocolos da OEPP, ou outros protocolos que sejam internacionalmente reconhecidos, para assegurar a isenção de *Viteus vitifoliae* Fitch."
+  },
+  "6b65caa95676aa04": {
+   "fragment_id": "6. Materiais standard",
+   "type": "divisao",
+   "heading": "6. Materiais standard",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 6. Materiais standard\n\nA autoridade de controlo oficial deve realizar inspeções visuais às vinhas-mãe e aos viveiros pelo menos uma vez por estação vegetativa para todas as RNQP enumeradas nas secções 6 e 7.\n\na) ***Candidatus* Phytoplasma solani Quaglino *et al.***\n\ni) as videiras devem ser produzidas em áreas conhecidas como isentas de *Candidatus* Phytoplasma solani Quaglino *et al*., ou\n\nii) não se observaram sintomas de *Candidatus* Phytoplasma solani Quaglino *et al.* nas videiras no sítio de produção durante a última estação vegetativa completa, ou\n\niii)\n\n— todas as videiras nas vinhas-mãe destinadas à produção de material standard que apresentem sintomas de *Candidatus* Phytoplasma solani Quaglino et al. foram, pelo menos, excluídas de propagação, e\n\n— caso o material de propagação destinado à comercialização apresente sintomas de *Candidatus* Phytoplasma solani Quaglino *et al.*, o lote completo desse material deve ser sujeito a um tratamento com água quente ou a outro tratamento adequado em conformidade com protocolos da OEPP, ou outros protocolos que sejam internacionalmente reconhecidos, para assegurar a isenção de *Candidatus* Phytoplasma solani Quaglino *et al.*.\n\nb) ***Xylophilus ampelinus* Willems *et al.***\n\ni) as videiras devem ser produzidas em áreas conhecidas como isentas de *Xylophilus ampelinus* Willems *et al.*, ou\n\nii) não se observaram sintomas de *Xylophilus ampelinus* Willems et al. nas videiras no sítio de produção durante a última estação vegetativa completa, ou\n\niii) devem ser satisfeitas as seguintes condições no que se refere à presença de *Xylophilus ampelinus* Willems *et al.*:\n\n— todas as videiras nas vinhas-mãe destinadas à produção de material standard que apresentem sintomas de *Xylophilus ampelinus* Willems *et al.* foram eliminadas e são tomadas medidas de higiene adequadas, e\n\n— as videiras do sítio de produção que apresentem sintomas de *Xylophilus ampelinus* Willems *et al.* devem ser tratadas com um bactericida após a poda, a fim de assegurar a ausência de *Xylophilus ampelinus* Willems *et al.*, e\n\n— caso o material de propagação destinado à comercialização apresente sintomas de *Xylophilus ampelinus* Willems *et al.*, o lote completo desse material deve ser sujeito a um tratamento com água quente ou a outro tratamento adequado em conformidade com protocolos da OEPP, ou outros protocolos que sejam internacionalmente reconhecidos, para assegurar a isenção de *Xylophilus ampelinus* Willems *et al.*.\n\nc) ***Arabis mosaic virus***, ***Grapevine fanleaf virus***, ***Grapevine leafroll-associated virus 1* e *Grapevine leafroll-associated virus 3***\n\nd) ***Viteus vitifoliae* Fitch**\n\ni) as videiras devem ser produzidas em áreas conhecidas como isentas de *Viteus vitifoliae* Fitch, ou\n\nii) as videiras devem ser enxertadas em porta-enxertos resistentes a *Viteus vitifoliae* Fitch, ou\n\niii) caso o material de propagação destinado à comercialização apresente sintomas de *Viteus vitifoliae* Fitch, o lote completo desse material deve ser sujeito a um tratamento de fumigação, um tratamento com água quente ou outro tratamento adequado em conformidade com protocolos da OEPP, ou outros protocolos que sejam internacionalmente reconhecidos, para assegurar a isenção de *Viteus vitifoliae* Fitch."
+  },
+  "754c2561442f9583": {
+   "fragment_id": "I. CONDIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "I. CONDIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. CONDIÇÕES GERAIS\n\n1. Os materiais de propagação devem possuir identidade e pureza varietais e, se for o caso, pureza clonal; é admitida uma tolerância de 1 % aquando da comercialização dos materiais de propagação standard.\n\n2. Os materiais de propagação devem ter uma pureza técnica mínima de 96 %.\n\na) Os materiais de propagação dessecados na totalidade ou em parte, mesmo quando tenham sido sujeitos a imersão em água, após a sua dessecação;\n\nb) Os materiais de propagação danificados, torcidos ou feridos, em particular, quando danificados pelo granizo ou pelo gelo, ou quando esmagados ou quebrados;\n\nc) Os materiais que não cumpram os requisitos indicados no ponto III *infra*.\n\n3. Os sarmentos devem ter atingido um estádio satisfatório de maturidade da madeira.\n\n4. O material de propagação deve estar praticamente isento de quaisquer pragas que reduzam a utilidade e a qualidade do material de propagação."
+  },
+  "7b70dd044291a05a": {
+   "fragment_id": "1. Estacas para enxertar, estacas para enraizar e garfos",
+   "type": "divisao",
+   "heading": "1. Estacas para enxertar, estacas para enraizar e garfos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Estacas para enxertar, estacas para enraizar e garfos\n\nTrata-se do diâmetro maior da secção. Esta norma não se aplica a ramos herbáceos.\n\na) Estacas para enxertar e garfos:\n\naa) diâmetro na extremidade superior: 6,5 a 12 mm;\n\nab) diâmetro máximo na extremidade inferior: 15 mm, salvo se se tratar de garfos destinados à enxertia no local definitivo.\n\nb) Estacas para enraizar:"
+  },
+  "729745a48baf422e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 179 de 17.7.1999, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#src.E0002)) JO L 106 de 17.4.2001, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#src.E0003)) JO L 268 de 18.10.2003, p. 1.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#src.E0004)) JO L 31 de 1.2.2002, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#src.E0005)) JO L 4 de 8.1.1993, p. 22.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#src.E0006)) JO L 169 de 10.7.2000, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f98aae55-68a1-11ea-b735-01aa75ed71a1.0019.02/DOC_1#src.E0008)) JO n.º L 55 de 2. 3. 1968, p. 1."
+  }
+ }
+}

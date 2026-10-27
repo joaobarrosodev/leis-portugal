@@ -1,0 +1,1761 @@
+---
+schema_version: '1.0'
+id: pt:dre:653128:por
+title: Decreto-Lei n.º 325/93
+short_title: null
+summary: Estabelece o novo regime fiscal dos tabacos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 325/93
+official_date: null
+publication_date: '1993-09-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 226/1993, Série I-A de 1993-09-25
+  number: '226'
+  series: I
+  supplement: null
+  pages: 5352 - 5362
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/09/226a00/53525362.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2000-01-01'
+version_history:
+  file: decreto-lei-325-93.versoes.json
+  count: 12
+  source_lastmod: '2025-06-30'
+  versions:
+  - date: '1993-09-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-11-30'
+    amending: pt:dre:428840:por
+    amending_title: Declaração de Rectificação n.º 233/93
+    changes:
+    - Retifica Artigo 3.º
+    - Retifica Artigo 5.º
+    - Retifica Artigo 12.º
+    - Retifica Artigo 30.º
+    - Retifica Artigo 55.º
+    - Retifica Artigo 57.º
+  - date: '1994-03-08'
+    amending: pt:dre:275465:por
+    amending_title: Decreto-Lei n.º 75/94
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '1994-08-28'
+    amending: pt:dre:218721:por
+    amending_title: Decreto-Lei n.º 221/94
+    changes:
+    - Adita Artigo 61.º-A
+    - Altera Artigo 52.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 61.º
+  - date: '1995-01-01'
+    amending: pt:dre:233945:por
+    amending_title: Lei n.º 39-B/94
+    changes:
+    - Altera Artigo 16.º
+  - date: '1996-03-28'
+    amending: pt:dre:477288:por
+    amending_title: Lei n.º 10-B/96
+    changes:
+    - Adita Artigo 61.º-B
+    - Altera Artigo 6.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 51.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 61.º
+    - Altera Artigo 61.º-A
+  - date: '1996-08-05'
+    amending: pt:dre:406887:por
+    amending_title: Decreto-Lei n.º 103/96
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+  - date: '1997-08-04'
+    amending: pt:dre:142514:por
+    amending_title: Decreto-Lei n.º 197/97
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+  - date: '1998-01-01'
+    amending: pt:dre:659563:por
+    amending_title: Lei n.º 127-B/97
+    changes:
+    - Altera Artigo 5.º
+  - date: '1998-07-22'
+    amending: pt:dre:424691:por
+    amending_title: Decreto-Lei n.º 221/98
+    changes:
+    - Altera Diploma
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 30.º
+    - Altera Artigo 36.º
+    - Altera Artigo 46.º
+  - date: '1998-08-16'
+    amending: pt:dre:475167:por
+    amending_title: Decreto-Lei n.º 363-A/98; Decreto-Lei n.º 249/98
+    changes:
+    - Altera Artigo 65.º
+    - Repoe em Vigor Diploma
+    - Revoga Diploma
+  - date: '2000-01-01'
+    amending: pt:dre:662084:por
+    amending_title: Decreto-Lei n.º 566/99
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/325/1993/p/cons/19991222/pt/html
+  oj: null
+  dre: '653128'
+  dre_path: /dr/detalhe/decreto-lei/325-1993-653128
+  internal: pt:dre:653128:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-1993-653128
+  metadata_url: https://data.dre.pt/eli/dec-lei/325/1993/p/cons/19991222/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-169709944
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-169709944
+  retrieved_at: '2026-10-22T13:31:25Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-30T00:00:00Z'
+integrity:
+  source_sha256: 833c200f67392610acc896743486fc3803eb646b9c628ec3e186d7a920ee363f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:31:25Z'
+  notes: 12 versão(ões); histórico completo em decreto-lei-325-93.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Armazenagem
+- CEE
+- Inspeção Geral de Finanças
+- Imposto Especial sobre o Consumo de Tabaco
+- Direcção Geral das Alfândegas
+- Etiquetagem
+- Fiscalização
+- Contribuições e Impostos
+- Embalagem
+- Tabaco
+- Preço
+- Preço de Venda
+- Política Pautal
+- Regime Fiscal
+- Taxa
+- Comércio
+- Transferência de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:428840:por
+  label: Retifica Artigo 3.º; Retifica Artigo 5.º; Retifica Artigo 12.º; Retifica Artigo 30.º; Retifica Artigo 55.º; Retifica
+    Artigo 57.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/233-1993-428840
+  date: '1993-11-30'
+- type: amended_by
+  target: pt:dre:275465:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1994-275465
+  date: '1994-03-07'
+- type: amended_by
+  target: pt:dre:218721:por
+  label: Adita Artigo 61.º-A; Altera Artigo 52.º; Altera Artigo 58.º; Altera Artigo 59.º; Altera Artigo 61.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1994-218721
+  date: '1994-08-23'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: Adita Artigo 61.º-B; Altera Artigo 6.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo
+    51.º; Altera Artigo 58.º; Altera Artigo 59.º; Altera Artigo 61.º; Altera Artigo 61.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:406887:por
+  label: Altera Artigo 7.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1996-406887
+  date: '1996-07-31'
+- type: amended_by
+  target: pt:dre:142514:por
+  label: Altera Artigo 7.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1997-142514
+  date: '1997-08-02'
+- type: amended_by
+  target: pt:dre:659563:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563
+  date: '1997-12-20'
+- type: amended_by
+  target: pt:dre:424691:por
+  label: Altera Diploma; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 21.º; Altera Artigo 23.º;
+    Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo 30.º; Altera Artigo 36.º; Altera Artigo 46.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691
+  date: '1998-07-17'
+- type: amended_by
+  target: pt:dre:438072:por
+  label: Altera Artigo 65.º; Repoe em Vigor Diploma; Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072
+  date: '1998-08-11'
+- type: amended_by
+  target: pt:dre:475167:por
+  label: Altera Artigo 65.º; Repoe em Vigor Diploma; Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167
+  date: '1998-11-19'
+- type: amended_by
+  target: pt:dre:662084:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084
+  date: '1999-12-22'
+- type: cites
+  target: celex:31992L0078
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/78/oj
+- type: cites
+  target: celex:31992L0079
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/79/oj
+- type: cites
+  target: celex:31992L0080
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/80/oj
+- type: cites
+  target: celex:31992R2719
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2719/oj
+article_structure:
+  article_count: 70
+  section_count: 27
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:31:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 325/93
+
+Decreto-Lei n.º 325/93
+
+de 25 de Setembro
+
+O presente diploma estabelece o novo regime fiscal dos tabacos manufacturados, transpondo para a ordem jurídica interna as Directivas do Conselho n.os <a href="eurlex.asp?ano=1992&id=392L0078" title="Link para Directiva da Comunidade Europeia">92/78/CEE</a>, <a href="eurlex.asp?ano=1992&id=392L0079" title="Link para Directiva da Comunidade Europeia">92/79/CEE</a> e <a href="eurlex.asp?ano=1992&id=392L0080" title="Link para Directiva da Comunidade Europeia">92/80/CEE</a>, de 19 de Outubro, as quais procederam à harmonização fiscal comunitária da estrutura e das taxas do imposto de consumo sobre os tabacos manufacturados.
+
+Por outro lado, transfere-se para a Direcção-Geral das Alfândegas (DGAIEC) a competência da administração integral do imposto de consumo sobre os tabacos manufacturados, actualmente cometida à Inspecção-Geral de Finanças (IGF), com as necessárias adaptações na organização destes serviços.
+
+As especificidades das Regiões Autónomas dos Açores e da Madeira, devidas ao fenómeno da ultraperifericidade, foram salvaguardadas ao consagrar-se uma fiscalidade mais reduzida para os cigarros, relativamente à praticada no continente.
+
+Finalmente, refira-se ainda que se prevê revisão do actual regime de preços de venda ao público destes produtos, deixando de vigorar o regime de preço fixo, para passar a ser o de preço máximo de venda ao público. Nessa circunstância, a componente ad valorem da taxa do imposto passará a incidir sobre este último.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
+
+Assim:
+
+No uso da autorização legislativa concedida pelos n.os 1 e 2 do artigo 44.º da Lei n.º 30-C/92, de 28 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+## Título I — Imposto de consumo sobre o tabaco
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+### Capítulo I — Incidência
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+#### Secção I — Âmbito de aplicação
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 1.º — Incidência objectiva
+
+1 - O presente diploma estabelece o regime fiscal relativo ao imposto de consumo sobre o tabaco.
+
+2 - O imposto incide sobre o tabaco manufacturado destinado ao consumo em todo o território nacional.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 2.º — Definição e classificação do tabaco manufacturado
+
+1 - Para efeitos da aplicação do presente diploma, considera-se tabaco manufacturado:
+
+a) Os charutos e as cigarrilhas;
+
+b) Os cigarros;
+
+c) O tabaco de fumar, compreendendo o tabaco de corte fino destinado a cigarros de enrolar e os restantes tabacos de fumar;
+
+d) O rapé;
+
+e) O tabaco de mascar.
+
+2 - São considerados charutos e cigarrilhas, desde que susceptíveis de serem fumados:
+
+a) Os rolos de tabaco constituídos integralmente por tabaco natural;
+
+b) Os rolos de tabaco munidos de uma capa exterior em tabaco natural;
+
+c) Os rolos de tabaco munidos de uma capa exterior, da cor normal dos charutos, e de uma subcapa, ambas de tabaco reconstituído, desde que, pelo menos, 60% do peso das partículas de tabaco tenham uma largura e um comprimento superiores a 1,75 mm e desde que a capa seja aposta em hélice com ângulo agudo mínimo de 30 graus em relação ao eixo longitudinal do charuto ou cigarrilha;
+
+d) Os rolos de tabaco munidos de uma capa exterior, da cor normal dos charutos, em tabaco reconstituído, desde que a sua massa unitária sem filtro nem ponta seja igual ou superior a 2,3 g e se, pelo menos, 60% do peso das partículas de tabaco tiverem uma largura e um comprimento superiores a 1,75 mm e se o seu perímetro sobre, pelo menos, um terço do seu comprimento for igual ou superior a 34 mm.
+
+3 - São considerados cigarros:
+
+a) Os rolos de tabaco susceptíveis de serem fumados tal como se apresentam e que não sejam charutos ou cigarrilhas no sentido definido no número anterior;
+
+b) Os rolos de tabaco que, mediante uma simples manipulação não industrial, são introduzidos em tubos de papel de cigarro;
+
+c) Os rolos de tabaco que, por simples manipulação não industrial, são envolvidos em folhas de papel de cigarro.
+
+4 - Um rolo de tabaco abrangido no número precedente é considerado, para efeitos de aplicação de imposto de consumo, como dois cigarros, desde que tenham um comprimento, excluídos o filtro ou a ponta, superior a 9 cm, sem ultrapassar 18 cm, com três cigarros, desde que tenha um comprimento superior a 18 cm, sem ultrapassar 27 cm, e assim sucessivamente.
+
+5 - São considerados tabacos de fumar:
+
+a) O tabaco cortado ou fraccionado de outra maneira, em fio ou em placas, susceptível de ser fumado sem transformação industrial posterior;
+
+b) Os resíduos de tabaco acondicionados para venda ao público não abrangidos nos n.os 2 e 3 susceptíveis de serem fumados.
+
+6 - É considerado tabaco de corte fino destinado a cigarros de enrolar o tabaco de fumar, conforme definido no número anterior, relativamente ao qual mais de 25% em peso das partículas tenham uma largura de corte inferior a 1 mm, ou superior a 1 mm, e que tenha sido vendido ou se destine a ser vendido para cigarros de enrolar.
+
+7 - É considerado rapé o tabaco em pó ou em grãos especialmente preparado para ser cheirado mas não fumano.
+
+8 - É considerado tabaco de mascar o tabaco apresentado em rolo, em barra, em lâminas, em cubo ou em placa, acondicionado para venda ao público e especialmente preparado para ser mascado mas não fumado.
+
+9 - São equiparados aos charutos e cigarrilhas os produtos constituídos parcialmente por substâncias que, não sendo tabaco, obedeçam aos outros critérios do n.º 2, desde que tais produtos estejam munidos, respectivamente:
+
+a) De uma capa em tabaco natural;
+
+b) De uma capa e de uma subcapa, ambas de tabaco reconstituído;
+
+c) De uma capa de tabaco reconstituído.
+
+10 - São equiparados aos cigarros e ao tabaco de fumar os produtos constituídos exclusiva ou parcialmente por substâncias que, não sendo tabaco, obedeçam aos outros critérios dos n.os 3, 4, 5 ou 6, exceptuando os produtos que tenham uma função exclusivamente medicinal.
+
+11 - São equiparados ao rapé e ao tabaco de mascar os produtos constituídos parcialmente por substâncias que, não sendo tabaco, obedeçam aos outros critérios dos n.os 7 ou 8.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+#### Secção II — Facto gerador e exigibilidade
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 3.º — Facto gerador e exigibilidade
+
+1 - O imposto é devido no momento em que ocorrerem os factos que o determinam, nos termos do artigo 4.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro.
+
+2 - O imposto torna-se exigível no momento em que ocorrerem os factos previstos no artigo 5.º do diploma referido no número anterior.
+
+3 - Para efeitos do número anterior, considera-se também ter sido introduzido no consumo o tabaco manufacturado correspondente às estampilhas especiais a que se refere o artigo 50.º, fornecidas aos agentes económicos e que não se mostrem utilizadas regularmente através da aposição em invólucros saídos dos entrepostos fiscais, ou regularmente introduzidos no consumo, ou que não sejam apresentadas ao serviço fiscalizador, a solicitação deste.
+
+4 - Considera-se justificada a falta de apresentação das estampilhas especiais ao serviço fiscalizador caso seja entregue declaração adequada, emitida pelos serviços aduaneiros competentes do país para onde as estampilhas foram remetidas ou em face de prova cabal reconhecida em despacho ministerial proferido em processo administrativo.
+
+5 - O imposto é ainda devido e torna-se exigível no momento em que ocorrerem os factos que o determinam, nos termos dos artigos 6.º, 8.º, 9.º e 14.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro.
+
+6 - O imposto é também devido e torna-se exigível no momento em que se realiza a arrematação ou venda, no caso de venda judicial ou em processo administrativo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Retificado pelo/a [Declaração de Rectificação n.º 233/93 - Diário da República n.º 280/1993, 3º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/233-1993-428840), em vigor a partir de 1993-11-30
+
+#### Secção III — Sujeitos passivos
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 4.º — Sujeitos passivos
+
+1 - São sujeitos passivos do imposto as pessoas singulares ou colectivas que procedam à introdução no consumo dos produtos referidos no artigo 2.º
+
+2 - São ainda sujeitos passivos do imposto:
+
+a) As pessoas referidas no n.º 3 do artigo 6.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro;
+
+b) O detentor, no caso de detenção para fins comerciais;
+
+c) O representante fiscal, nos casos previstos no n.º 2 do artigo 9.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro;
+
+d) O expedidor, nos casos previstos no n.º 4 do artigo 14.º do diploma referido na alínea anterior;
+
+e) O depositário autorizado ou o operador registado, nos casos previstos no n.º 5 do artigo 14.º do mesmo diploma;
+
+f) O arrematante, no caso de venda judicial ou em processo administrativo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+### Capítulo II — Isenções
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 5.º — Isenções
+
+1 - Fica isento do imposto de consumo:
+
+a) O tabaco manufacturado objecto de expedição para outro Estado membro da Comunidade ou de exportação;
+
+b) O tabaco manufacturado fornecido como provisões de bordo, nos termos e limites fixados no presente artigo;
+
+c) O tabaco manufacturado destinado à venda nas lojas francas, nos termos da legislação especial aplicável;
+
+d) O tabaco manufacturado tansportado nas bagagens pessoais de viajantes provenientes de países terceiros ou objecto de pequenas remessas sem carácter comercial, sujeito ao condicionalismo previsto para efeito de franquia de imposições internas;
+
+e) O tabaco manufacturado adquirido por particulares nas condições gerais de tributação de outro Estado membro da Comunidade Europeia e transportado pelos próprios, excepto na situação prevista no n.º 5;
+
+f) O tabaco desnaturado utilizado para fins industriais ou hortícolas;
+
+g) O tabaco destruído sob controlo administrativo;
+
+h) O tabaco exclusivamente destinado a testes científicos, bem como a testes relacionados com a qualidade dos produtos;
+
+i) O tabaco reciclado pelo produtor;
+
+j) O tabaco a que se refere o n.º 2 do artigo 35.º
+
+2 - A isenção estabelecida na alínea b) do número anterior está dependente da verificação cumulativa das seguintes condições:
+
+a) Que o tabaco se destine a consumo de bordo de embarcações ou aeronaves que operem a partir de portos ou aeroportos nacionais;
+
+b) Que esse consumo se faça fora do espaço fiscal português;
+
+c) Que o tabaco fornecido se limite, por pessoa e dia de viagem, às seguintes quantidades, que não poderão ser cumuláveis:
+
+Cigarros - 2 maços;
+
+Cigarrilhas - 10 unidades;
+
+Charutos - 3 unidades;
+
+Tabaco para fumar - 40 g.
+
+d) Que o tabaco fornecido seja conservado em compartimento selado pela autoridade aduaneira nos termos da legislação própria.
+
+3 - O Ministro das Finanças pode dispensar, em casos especiais devidamente fundamentados, a selagem do compartimento referido na alínea d) do número anterior.
+
+4 - A violação das condições fixadas no n.º 2 determina a liquidação do imposto à entidade requisitante e a suspensão dos fornecimentos aos infractores entre três meses e dois anos, aplicável pelo Ministro das Finanças, sem prejuízo de outras sanções previstas na lei.
+
+5 - Considera-se que a detenção de tabaco visa fins comerciais quando se mostre verificado o condicionalismo previsto nos n.os 2 e 3 do artigo 8.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 37.º do/a [Lei n.º 127-B/97 - Diário da República n.º 293/1997, 2º Suplemento, Série I-A de 1997-12-20](https://diariodarepublica.pt/dr/detalhe/lei/127-b-1997-659563), em vigor a partir de 1998-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 233/93 - Diário da República n.º 280/1993, 3º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/233-1993-428840), em vigor a partir de 1993-11-30
+
+###### Artigo 6.º — Reembolsos
+
+1 - Verificando-se as situações previstas nas alíneas g), h), i) e j) do n.º 1 do artigo anterior e sempre que o imposto já tenha sido pago, será objecto de reembolso.
+
+2 - O reembolso será processado com observância da legislação aplicável.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+### Capítulo III — Estrutura e taxas
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 7.º — Imposto de consumo relativo aos cigarros
+
+1 - O imposto de consumo sobre o tabaco relativo a cigarros tem dois elementos: um específico e outro ad valorem.
+
+2 - O elemento específico é idêntico para todos os tipos de cigarros e fixado em valor absoluto por milheiro de cigarros.
+
+3 - O elemento ad valorem resulta da aplicação de uma percentagem única aos preços de venda ao público de todos os tipos de cigarros.
+
+4 - As taxas dos elementos específico e ad valorem são as seguintes:
+
+Elemento específico - 4400$00;
+
+Elemento ad valorem - 40%.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 197/97 - Diário da República n.º 177/1997, Série I-A de 1997-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1997-142514), em vigor a partir de 1997-08-04
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 103/96 - Diário da República n.º 176/1996, Série I-A de 1996-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1996-406887), em vigor a partir de 1996-08-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 75/94 - Diário da República n.º 55/1994, Série I-A de 1994-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1994-275465), em vigor a partir de 1994-03-08
+
+###### Artigo 8.º — Imposto de consumo relativo aos restantes produtos de tabaco manufacturado
+
+O imposto de consumo relativo a charutos, cigarrilhas, tabaco de corte fino destinado a cigarros de enrolar, restantes tabacos de fumar, rapé e tabaco de mascar reveste a forma ad valorem, resultando da aplicação ao respectivo preço de venda ao público das taxas seguintes:
+
+... Percentagem
+
+Charutos ... 26,21
+
+Cigarrilhas ... 26,21
+
+Tabaco de corte fino destinado a cigarros de enrolar ... 30
+
+Restantes tabacos de fumar ... 30
+
+Restantes tabacos de fumar ... 30
+
+Rapé ... 16,21
+
+Tabaco de mascar ... 16,21
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 75/94 - Diário da República n.º 55/1994, Série I-A de 1994-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1994-275465), em vigor a partir de 1994-03-08
+
+###### Artigo 9.º — Taxas reduzidas
+
+Aos cigarros consumidos nas Regiões Autónomas dos Açores e da Madeira e fabricados por pequenos produtores cuja produção anual não exceda, por cada um, 500 t serão aplicáveis as seguintes taxas:
+
+Elemento específico - 250$00;
+
+Elemento ad valorem - 37%.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/98 - Diário da República n.º 163/1998, Série I-A de 1998-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691), em vigor a partir de 1998-07-22
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 197/97 - Diário da República n.º 177/1997, Série I-A de 1997-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1997-142514), em vigor a partir de 1997-08-04
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 103/96 - Diário da República n.º 176/1996, Série I-A de 1996-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-1996-406887), em vigor a partir de 1996-08-05
+
+###### Artigo 10.º — Taxas aplicáveis
+
+As taxas aplicáveis são as que vigorarem no momento em que o imposto se tornar exigível.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+### Capítulo IV — Liquidação e pagamento
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+#### Secção I — Liquidação
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 11.º — Competência para a administração do imposto
+
+A administração do imposto de consumo sobre o tabaco compete à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC).
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/98 - Diário da República n.º 163/1998, Série I-A de 1998-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691), em vigor a partir de 1998-07-22
+
+###### Artigo 12.º — Declaração de introdução no consumo
+
+1 - As introduções no consumo de tabacos manufacturados deverão ser declaradas até às 17 horas do dia útil seguinte na estância aduaneira competente, através da declaração de introdução no consumo (DIC).
+
+2 - A introdução no consumo de produtos isentos será processada através da DIC, com menção de isenção de imposto.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Retificado pelo/a [Declaração de Rectificação n.º 233/93 - Diário da República n.º 280/1993, 3º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/233-1993-428840), em vigor a partir de 1993-11-30
+
+###### Artigo 13.º — Liquidação do imposto
+
+1 - Os sujeitos passivos autoliquidarão o imposto a pagar, com base nas declarações de introdução no consumo referentes a cada mês, até ao dia 5 do mês seguinte, enviando à estância aduaneira competente um exemplar da liquidação, considerando-se automaticamente notificados do montante a pagar, salvo comunicação em contrário daquela estância aduaneira.
+
+2 - Na falta da autoliquidação referida no número anterior ou no caso de constatação de qualquer engano ou irregularidade, a estância aduaneira competente liquidará o imposto e procederá ao competente registo de liquidação até ao dia 8 do mês seguinte àquele em que ocorreram as introduções no consumo, notificando os sujeitos passivos do montante do imposto a pagar até ao subsequente dia 10.
+
+3 - Nos casos em que a declaração de introdução no consumo não tenha sido apresentada e nas demais situações de infracção ou irregularidade com relevância para a determinação do imposto devido, a liquidação será feita pela estância aduaneira competente, que notificará os sujeitos passivos do montante do imposto a pagar.
+
+4 - Para efeitos do número anterior e relativamente à situação prevista no n.º 3 do artigo 3.º, sempre que não seja possível apurar o preço de venda ao público correspondente às estampilhas especiais que não se mostrem regularmente utilizadas, a liquidação do imposto é feita com base no preço de venda ao público mais elevado praticado pelo operador económico, na data em que tal facto se verificar ou, na impossibilidade da sua determinação, na data em que a administração aduaneira dele tomar conhecimento.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/98 - Diário da República n.º 163/1998, Série I-A de 1998-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691), em vigor a partir de 1998-07-22
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+###### Artigo 14.º — Liquidação do imposto relativo a embalagens miniatura
+
+O imposto de consumo devido pelo tabaco referido no artigo 52.º será liquidado na proporção do número de unidades contido na embalagem miniatura relativamente ao que corresponde ou corresponderia à embalagem normal da respectiva marca.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+#### Secção II — Pagamento
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 15.º — Pagamento do imposto
+
+1 - O imposto liquidado nos termos dos n.os 1 e 2 do artigo 13.º deverá ser pago até ao último dia útil de cada mês, relativamente às introduções no consumo processadas no mês anterior.
+
+2 - Nos casos previstos no n.º 3 do artigo 13.º, as importâncias liquidadas serão pagas no prazo de cinco dias, contados a partir da data da respectiva notificação.
+
+3 - O pagamento do imposto e demais imposições do mesmo decorrentes será efectuado em local a fixar por despacho do membro do Governo competente.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+###### Artigo 16.º — Falta de pagamento do imposto
+
+1 - Não sendo pago o imposto nos prazos previstos no artigo anterior, começarão a correr imediatamente juros de mora.
+
+2 - Verificando-se o facto referido no número anterior, a DGA só poderá permitir a introdução no consumo de tabacos manufacturados após o pagamento ou a constituição de garantia das importâncias em dívida e dos respectivos juros de mora, sem prejuízo da eventual revogação da autorização referida no artigo 27.º, em casos de reincidência na prática de infracções fiscais.
+
+3 - Decorridos 30 dias sobre a data de vencimento do imposto sem que tenha sido efectuado o respectivo pagamento, haverá lugar à liquidação da garantia ou à cobrança coerciva do imposto.
+
+2 - Fica o Governo autorizado a:
+
+a) Consignar ao Ministério da Saúde um milhão de contos da receita fiscal global dos tabacos, tendo em vista o desenvolvimento de acções no domínio do rastreio, detecção precoce, diagnóstico, prevenção e tratamento do cancro;
+
+b) Elevar a taxa do elemento ad valorem do imposto que incide sobre os cigarros até 59%;
+
+c) Elevar a taxa reduzida do elemento ad valorem do imposto sobre os cigarros fabricados e consumidos nas Regiões Autónomas dos Açores e da Madeira prevista no artigo 9.º do Decreto-Lei n.º 325/93, de 25 de Setembro, até ao limite de 35%.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 49.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+### Capítulo V — Fiscalização
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+#### Secção I — Produção e transformação de tabaco manufacturado
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 17.º — Condições do exercício da indústria tabaqueira
+
+1 - A produção e a transformação de tabaco manufacturado serão feitas, em regime de suspensão de imposto, em entrepostos fiscais de produção ou de transformação de tabaco manufacturado.
+
+2 - Os entrepostos fiscais de produção e transformação estão sujeitos a fiscalização permanente pela DGA.
+
+3 - Serão fixadas por portaria do Ministro das Finanças as normas de fiscalização da indústria tabaqueira.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084) O presente artigo continua a aplicar-se até à data de entrada em vigor da Portaria que regulamenta o controlo declarativo-contabilístico dos entrepostos fiscais de produção e transformação de tabacos manufacturados.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 18.º — Âmbito de fiscalização
+
+1 - Estão sujeitos à fiscalização as pessoas e coisas à saída dos entrepostos fiscais de produção e transformação, bem como, à entrada, os produtos de tabaco em curso de transformação e o tabaco manufacturado.
+
+2 - Consideram-se produtos de tabaco em curso de transformação, para efeitos deste diploma, todos os que não são susceptíveis de consumo directo pelo público sem ulterior transformação industrial, abrangendo, nomeadamente, tabaco em folha, tabaco homogeneizado, tabaco reconstituído, tabaco em pó, lâminas, nervuras ou talos e tabacos loteados.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 19.º — Instruções
+
+O serviço fiscalizador pode dar instruções aos responsáveis pelo pagamento do imposto com vista a dar maior eficácia à fiscalização e administração do referido imposto.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 20.º — Despesas com a fiscalização permanente
+
+1 - As despesas com a fiscalização exercida pela DGA, incluindo as remunerações e subsídios do pessoal, serão suportadas pelos fabricantes.
+
+2 - O montante das despesas a que se refere o número anterior será fixado anualmente pelo Ministro das Finanças e será pago até ao fim do 1.º trimestre do ano a que respeita, devendo a diferença, se após aquela fixação ocorrerem alterações nos encargos com a fiscalização que agravem aquele montante, ser apurada até 15 de Dezembro do mesmo ano, para pagamento nesse mês.
+
+3 - À falta de pagamento no prazo estabelecido no número anterior é aplicável o regime previsto no artigo 16.º
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+#### Secção II — Armazenagem
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 21.º — Entrepostos fiscais de armazenagem
+
+1 - A armazenagem de tabaco manufacturado, quando em regime de suspensão de imposto, será feita em entrepostos fiscais de armazenagem de tabaco manufacturado.
+
+2 - Só são permitidos entrepostos fiscais de armazenagem de tabacos manufacturados quando o depositário autorizado se identifique com o depositante.
+
+3 - A requerimento do interessado, a DGA poderá autorizar que sejam colocados produtos sob um regime aduaneiro, nos entrepostos referidos no n.º 1, desde que sejam relevados contabilisticamente.
+
+4 - Sem prejuízo de a circulação de tabaco manufacturado de produção nacional dever efectuar-se em regime suspensivo entre o continente e as Regiões Autónomas, ou entre estas, no que respeita ao mesmo território fiscal nacional, a circulação efectuar-se-á com imposto pago, salvo se o produto se destinar a entreposto fiscal do próprio fabricante.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/98 - Diário da República n.º 163/1998, Série I-A de 1998-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691), em vigor a partir de 1998-07-22
+
+###### Artigo 22.º — Depositários autorizados
+
+As pessoas singulares ou colectivas titulares dos entrepostos fiscais referidos no artigo anterior e no artigo 17.º, depois de autorizados pela DGA, adquirem o estatuto de depositários autorizados, nos termos e para os efeitos do disposto no artigo 3.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 23.º — Autorização dos entrepostos fiscais
+
+1 - Para a constituição de entrepostos fiscais, os interessados devem apresentar na estância aduaneira competente um pedido, acompanhado dos seguintes elementos:
+
+a) Pacto social actualizado, no caso de sociedades;
+
+b) Documento comprovativo da matrícula na conservatória do registo comercial, no caso de sociedades;
+
+c) Certidões passadas pelos serviços competentes da Direcção-Geral dos Impostos e da segurança social, consoante o caso, que comprovem quer a inexistência de quaisquer dívidas de IVA, IRC ou IRS, incluindo retenções na fonte, bem como de contribuições para a segurança social, quer o regular cumprimento das obrigações declarativas no âmbito daqueles impostos e da segurança social;
+
+d) Fotocópia da declaração de início de actividade, visada pela respectiva repartição de finanças, caso a partir da data de início de actividade não tenha ainda decorrido o prazo para o cumprimento de quaisquer das obrigações declarativas e ou de pagamento referidas na alínea anterior;
+
+e) Cartão de identificação de pessoa colectiva ou de comerciante em nome individual, conforme o caso, devendo, no caso de se tratar de número provisório, ser apresentado o cartão definitivo no prazo máximo de um ano;
+
+f) Cópia do documento de licenciamento das instalações, quando exigível;
+
+g) Planta e memória descritiva das instalações, as quais deverão respeitar os condicionalismos legais previstos sobre esta matéria, indicando-se, nomeadamente, a área e meios de segurança existentes;
+
+h) Declaração de compromisso de manter uma contabilidade de existências, organizada em sistema de inventário permanente, com saldo à vista, de harmonia com o estabelecido legalmente sobre esta matéria;
+
+i) Previsão valorizada da quantidade média mensal de tabacos manufacturados a deter, no caso de entrepostos fiscais de armazenagem;
+
+j) Certificado do registo criminal dos comerciantes em nome individual ou dos sócios gerentes ou administradores das pessoas colectivas;
+
+l) Plano de produção para o primeiro ano de actividade, no que se refere a entrepostos fiscais de produção e transformação.
+
+m) Uma relação, por parte de cada sócio da empresa candidata à constituição do entreposto, ou do respectivo empresário em nome individual, das firmas em que foi ou é sócio gerente ou administrador ou empresário em nome individual, nos últimos três anos anteriores ao pedido, devendo, para cada uma destas firmas, ser apresentadas as certidões previstas na alínea c).
+
+2 - Os condicionalismos legais referidos nas alíneas g) e h) do número anterior serão estabelecidos por portaria do Ministro das Finanças.
+
+3 - Após a concessão da autorização de constituição do entreposto fiscal, os operadores económicos apresentarão anualmente, até fins de Fevereiro, à estância aduaneira competente, os documentos referidos nas alíneas c) e j) do n.º 1.
+
+4 - Consideram-se automaticamente constituídos como entrepostos fiscais de produção e transformação, à data da entrada em vigor do presente diploma, as fábricas em laboração pertencentes à Tabaqueira - Empresa Industrial de Tabacos, S. A., Fábrica de Tabacos Micaelense, E. P., e Empresa Madeirense de Tabacos, S. A., devendo a DGA atribuir a estes entrepostos um número de identificação, nos termos do número anterior.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/98 - Diário da República n.º 163/1998, Série I-A de 1998-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691), em vigor a partir de 1998-07-22
+
+###### Artigo 24.º — Entrepostos aduaneiros
+
+Estão ainda sujeitos ao disposto nos artigos 21.º, 22.º e 23.º os titulares dos entrepostos aduaneiros de tabaco manufacturado.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+#### Secção III — Operadores registados e representantes fiscais
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 25.º — Autorização dos operadores registados ou dos representantes fiscais
+
+1 - A qualidade de operador registado e de representante fiscal é concedida pela estância aduaneira competente, mediante autorização.
+
+2 - Para a obtenção da autorização, aqueles operadores económicos apresentarão, na estância aduaneira competente, um pedido acompanhado dos seguintes elementos:
+
+a) Pacto social actualizado, no caso de sociedades comerciais;
+
+b) Certidões passadas pelos serviços competentes da Direcção-Geral dos Impostos e da segurança social, consoante o caso, que comprovem quer a inexistência de quaisquer dívidas de IVA, IRC ou IRS, incluindo retenções na fonte, bem como de contribuições para a segurança social, quer o regular cumprimento das obrigações declarativas no âmbito daqueles impostos e da segurança social;
+
+c) Fotocópia da declaração de início de actividade, visada pela respectiva repartição de finanças, caso a partir da data de início de actividade não tenha ainda decorrido o prazo para o cumprimento de quaisquer das obrigações declarativas e ou de pagamento referidas na alínea anterior;
+
+d) Cartão de identificação de pessoa colectiva ou de comerciante em nome individual, conforme o caso, devendo, no caso de se tratar de número provisório, ser apresentado o cartão definitivo no prazo máximo de um ano;
+
+e) Previsão valorizada da quantidade média mensal de tabacos manufacturados a receber em regime de suspensão de imposto, no que se refere aos operadores registados;
+
+f) Certificado do registo criminal dos comerciantes em nome individual ou dos sócios gerentes ou administradores das pessoas colectivas;
+
+3 - Após a concessão do estatuto referido no n.º 1, os operadores económicos apresentarão anualmente, até fins de Fevereiro, à estância aduaneira competente, os documentos referidos nas alíneas b) e f) do número anterior.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/98 - Diário da República n.º 163/1998, Série I-A de 1998-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691), em vigor a partir de 1998-07-22
+
+#### Secção IV — Autorizações e revogações
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 26.º — Notificação
+
+1 - Os entrepostos fiscais são autorizados pelo director da alfândega da respectiva área de jurisdição, sob condição de, cumulativamente:
+
+a) Estarem comprovadamente reunidos os requisitos fixados no artigo 23.º, n.º 1;
+
+b) O requerente, qualquer dos seus sócios, gerentes ou administradores, ou as firmas constantes da relação referida na alínea m) do n.º 1 do artigo 23.º, não terem sido condenados, nos três anos anteriores ao pedido, pela prática de crime aduaneiro ou de contra-ordenação fiscal aduaneira punida com coima igual ou superior a 1000000$00;
+
+c) O requerente, qualquer dos seus sócios, gerentes ou administradores, ou as firmas constantes da relação referida na alínea m) do n.º 1 do artigo 23.º, não serem devedores de quaisquer importâncias relativas a direitos aduaneiros e a impostos especiais de consumo.
+
+2 - A atribuição dos estatutos de operador registado ou de representante fiscal é concedida pelo director da alfândega da respectiva área de jurisdição, sob condição de, cumulativamente:
+
+a) Estarem comprovadamente reunidos os requisitos fixados no artigo 25.º, n.º 2;
+
+b) Se verificarem os requisitos previstos nas alíneas b) e c) do número anterior.
+
+3 - A decisão é notificada aos interessados por carta registada, com aviso de recepção, e, quando positiva, conterá os seguintes elementos:
+
+a) Data a partir da qual produz efeitos;
+
+b) Número de registo do entreposto fiscal, se for o caso;
+
+c) Número de registo que lhes foi atribuído;
+
+d) Estância aduaneira competente.
+
+4 - Sem prejuízo do disposto na lei geral, os titulares dos referidos estatutos devem conservar pelo prazo de três anos, em relação a cada operação de recepção ou de expedição de produtos em regime de suspensão de imposto, a seguinte documentação:
+
+a) Documentos de acompanhamento, declarações de introdução no consumo ou declarações aduaneiras relativas a entradas e saídas de tabacos do entreposto fiscal;
+
+b) Documentos comerciais associados a operações de circulação intracomunitária, introduções no consumo, importações ou exportações, neste último caso quando o destino ou a origem dos produtos for um entreposto fiscal.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/98 - Diário da República n.º 163/1998, Série I-A de 1998-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691), em vigor a partir de 1998-07-22
+
+###### Artigo 27.º — Revogação das autorizações
+
+1 - As autorizações concedidas são revogadas a pedido dos próprios ou por decisão dos directores das alfândegas sempre que, fundamentadamente, se comprove que os operadores não cumprem as obrigações constantes do presente diploma, sem prejuízo de instauração de procedimento criminal ou contra-ordenacional, consoante o caso.
+
+2 - Os directores das alfândegas podem também revogar a autorização, sem que tal facto possa constituir fundamento válido para a exigência de qualquer indemnização, quando, fundamentadamente, considerem que o entreposto deixou de ser suficientemente utilizado para justificar a sua manutenção ou que o mesmo não serve os fins para que foi constituído.
+
+3 - A revogação é comunicada ao interessado, através de carta registada, com aviso de recepção, com uma antecedência de 30 dias em relação à data do encerramento efectivo, prazo durante o qual deve ser dado um destino fiscal aos produtos, sob pena de virem a ser considerados fazendas demoradas.
+
+4 - Nos casos em que, devido à prática de infracção fiscal, haja lugar à apreensão dos produtos e à revogação da autorização, esta consumar-se-á imediatamente após o recebimento da respectiva notificação.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/98 - Diário da República n.º 163/1998, Série I-A de 1998-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691), em vigor a partir de 1998-07-22
+
+#### Secção V — Apuramento
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 28.º — Varejos
+
+As estâncias aduaneiras de controlo procederão, com carácter regular, ao controlo das existências em entreposto fiscal, adoptando-se os seguintes procedimentos para as diferenças encontradas:
+
+a) Se a diferença entre o saldo contabilístico e as existências em entreposto fiscal forem inferiores a 0,5% do saldo contabilístico, as estâncias aduaneiras competentes relevarão esse facto e procederão à rectificação correspondente;
+
+b) Se essa diferença for superior a 0,5%, as estâncias aduaneiras competentes procederão às necessárias averiguações, devendo informar superiormente e, se for o caso, intentar o competente processo por infracção fiscal aduaneira;
+
+c) Se forem constatados excedentes, proceder-se-á à rectificação da contabilidade do entreposto fiscal.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 29.º — Casos fortuitos ou de força maior
+
+As estâncias aduaneiras competentes apenas concederão franquia de imposto aos casos fortuitos ou de força maior devidamente apurados e comunicados no próprio dia ou no dia útil imediato ao da sua ocorrência.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+#### Secção VI — Garantias
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 30.º — Entrepostos fiscais e operadores
+
+1 - A garantia para detenção de tabacos manufacturados, prevista na alínea a) do n.º 1 do artigo 13.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro, é equivalente a 2% do imposto médio mensal devido pelas introduções no consumo efectuadas no ano anterior ou, no caso de início de actividade, do valor médio mensal previsto para o primeiro ano, não podendo aquela ser inferior a 5000000$00.
+
+2 - Para efeitos do número anterior deve ser considerado o imposto potencial relativo às introduções no consumo isentas.
+
+3 - Os entrepostos fiscais de produção e transformação estão dispensados da prestação de garantia.
+
+4 - A garantia pela circulação de tabaco manufacturado, prevista na alínea a) do n.º 1 do artigo 13.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro, obedece às seguintes regras:
+
+a) Pode ser prestada globalmente para várias operações de circulação intracomunitária ou isoladamente para uma única operação, sendo válida em todo o território da Comunidade;
+
+b) O montante da garantia global é equivalente a 10% da média mensal do imposto devido na circulação intracomunitária realizada no ano anterior ou, no caso de início de actividade, do valor que se espera atingir, sob reserva do imposto devido por uma operação isolada não poder ser superior ao montante global da garantia;
+
+c) O montante da garantia prestada isoladamente é igual ao montante total do imposto devido pelos produtos que vão ser submetidos a uma operação de circulação intracomunitária;
+
+d) A garantia prestada isoladamente é válida até ao apuramento do regime de suspensão, nos termos do artigo 19.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro.
+
+5 - O montante mínimo das garantias previstas na alínea a) do n.º 5 do artigo 9.º, na alínea a) do n.º 3 do artigo 16.º e na alínea a) do n.º 2 do artigo 17.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro, é igual a 20% do imposto médio mensal devido pelas introduções no consumo efectuadas no ano anterior ou, no caso de início de actividade, do valor médio mensal previsto para o primeiro ano, não podendo aquele valor ser inferior a 2500000$00.
+
+6 - As garantias referidas nos n.os 1, 4, alínea b), e 5 são prestadas numa base anual, devendo o director da alfândega ajustar os seus montantes em função da alteração das circunstâncias, nomeadamente o montante do imposto devido.
+
+7 - Nos casos de declarações para livre prática e consumo ou de introduções no consumo por operadores não registados, o montante da garantia é igual ao montante do imposto a pagar.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/98 - Diário da República n.º 163/1998, Série I-A de 1998-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691), em vigor a partir de 1998-07-22
+
+> Retificado pelo/a [Declaração de Rectificação n.º 233/93 - Diário da República n.º 280/1993, 3º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/233-1993-428840), em vigor a partir de 1993-11-30
+
+###### Artigo 31.º — Conteúdo e alterações das garantias
+
+1 - Nos casos de incumprimento das obrigações relativas a garantias, as percentagens referidas no artigo anterior poderão ser elevadas, por despacho do director-geral das Alfândegas, até ao montante total do imposto devido.
+
+2 - O termo da garantia deverá conter uma cláusula em que o garante se compromete perante a DGA, como principal pagador, até ao montante máximo garantido, com expressa renúncia ao benefício da excussão, a pagar, no prazo de oito dias, contados a partir da data da notificação, todas as quantias que sejam da responsabilidade do sujeito passivo do imposto.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+#### Secção VII — Condicionamentos da circulação interna dos produtos de tabaco em curso de transformação e do tabaco manufacturado
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 32.º — Circulação de tabaco manufacturado entre entrepostos fiscais
+
+O tabaco manufacturado que circule em regime suspensivo em território nacional está sujeito ao regime do documento de acompanhamento previsto no Regulamento (CEE) n.º <a href="eurlex.asp?ano=1992&id=392R2719" title="Link para Regulamento da Comunidade Europeia">2719/92</a>, da Comissão, de 11 de Setembro de 1992.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 33.º — Exportação de tabaco manufacturado
+
+O tabaco manufacturado objecto de exportação sairá dos entrepostos fiscais com acompanhamento pela entidade competente até à efectivação daquela.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 34.º — Circulação de tabaco manufacturado entre o território do continente e o das Regiões Autónomas
+
+O tabaco manufacturado que circule em regime suspensivo entre o território do continente e o de qualquer uma das Regiões Autónomas dos Açores e da Madeira e entre o território destas está sujeito ao regime do documento de acompanhamento previsto no Regulamento (CEE) n.º <a href="eurlex.asp?ano=1992&id=392R2719" title="Link para Regulamento da Comunidade Europeia">2719/92</a>, da Comissão, de 11 de Setembro de 1992.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 35.º — Entrada e saída de tabacos dos entrepostos fiscais de produção e transformação para fins específicos
+
+1 - Devem ser organizados nos entrepostos fiscais de produção e transformação registos que evidenciem o movimento de entrada e saída de produtos de tabaco em curso de transformação e de tabaco manufacturado para ensaios, exposições, recuperação, beneficiações e a fim de ser completada a respectiva transformação industrial, sem prejuízo do cumprimento das formalidades aduaneiras e de circulação pertinentes.
+
+2 - Os movimentos relativos a ensaios estão sujeitos a autorização prévia do serviço fiscalizador.
+
+3 - A saída relativa a exposições, recuperações e beneficiações é temporária.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+#### Secção VIII — Outras obrigações dos agentes económicos
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 36.º — Obrigações de informação das empresas tabaqueiras
+
+1 - Os depositários autorizados, titulares de entrepostos fiscais, são obrigados a enviar à estância aduaneira competente, até ao dia 5 de cada mês, a relação do tabaco manufacturado expedido com os seguintes destinos:
+
+a) Para consumo noutro território nacional;
+
+b) Para consumo de bordo;
+
+c) Para outros Estados membros da Comunidade Europeia;
+
+d) Para exportação;
+
+e) Para as lojas francas.
+
+2 - Os depositários autorizados, titulares de entrepostos fiscais de produção, são obrigados a enviar à estância aduaneira competente, no mesmo prazo, a relação dos produtos em curso de transformação entrados ou saídos dos entrepostos fiscais de produção ou transformação.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/98 - Diário da República n.º 163/1998, Série I-A de 1998-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691), em vigor a partir de 1998-07-22
+
+###### Artigo 37.º — Obrigação de prestação de informações
+
+1 - Anualmente, durante o mês de Janeiro, os importadores e os depositários autorizados, operadores registados, operadores não registados e representantes fiscais definidos no Decreto-Lei n.º 52/93, de 26 de Fevereiro, que tiverem realizado operações comerciais com origem ou destino no território português comunicarão à DGA, discriminadas por classes de preços, as quantidades de cigarros vendidas e, discriminadamente por classes dos restantes produtos de tabaco manufacturado, as quantidades vendidas no decurso do ano anterior.
+
+2 - A DGA comunicará ao Conselho de Prevenção do Tabagismo os resultados obtidos com o tratamento das informações referidas no número anterior.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+## Título II — Regime aduaneiro
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 38.º — Direitos de importação
+
+A importação de tabaco, quer em folha, quer manufacturado, bem como a de outros produtos utilizados no seu fabrico, fica sujeita aos regimes aduaneiros em vigor à data da importação e às respectivas taxas consignadas na Pauta dos Direitos de Importação.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 39.º — Base de tributação
+
+O tabaco em folha importado será tributado pelo peso líquido, calculado nos termos das Disposições Preliminares da Pauta Aduaneira Comum.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 40.º — Exigência de declaração de afectação
+
+1 - Na importação de produtos para fabrico de tabaco, incluindo amostras, designadamente o tabaco em folha, e outras espécies vegetais, extractos ou molhos de tabaco destinados a complementar, perfumar ou apaladar os tabacos, papel de fumar em carretéis, fita para pontas, varetas, filtros, bem como os maquinismos próprios para aquela indústria, é exigida uma declaração de afectação dessas mercadorias.
+
+2 - As espécies vegetais referidas no número anterior devem ser submetidas a despacho, com a declaração prévia da sua aplicação, pagando os direitos de importação como tabaco em folha.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 41.º — Armazenagem
+
+As empresas tabaqueiras podem recolher as matérias-primas e acessórios que lhes sejam destinados em entrepostos aduaneiros tipo C regulados por legislação comunitária própria.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 42.º — Estâncias habilitadas a despachar tabaco
+
+O director-geral das Alfândegas determinará quais as estâncias aduaneiras competentes para o processamento das introduções no consumo de tabacos manufacturados.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+## Título III — Regime de exploração da indústria
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 43.º — Proibição do exercício da indústria tabaqueira fora do recinto das fábricas
+
+1 - É considerado acto próprio da indústria do tabaco a envolumação de tabaco manufacturado, sendo proibida a sua prática fora dos recintos das fábricas tabaqueiras.
+
+2 - Pode ser autorizado, em condições a fixar por despacho do Ministro das Finanças, o encapamento de cigarrilhas e charutos fora dos recintos referidos no artigo anterior, em regime de tarefa domiciliária.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+## Título IV — Regime de comercialização
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+### Capítulo I — Condições a preencher pelos produtos
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 44.º — Igualdade de condições
+
+Os produtos provenientes do exterior estão sujeitos às mesmas exigências aplicáveis aos produtos de fabrico nacional para a sua comercialização no mercado nacional.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 45.º — Consequências de falta das condições exigidas
+
+Não poderão ser introduzidos no consumo os produtos que não satisfaçam as condições exigidas na lei para comercialização no mercado nacional e, designadamente, os que se afastem do quadro de características aceite e do preço de venda ao público homologado, conforme o disposto nos artigos seguintes.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 46.º — Lançamento de produtos no mercado
+
+1 - A comercialização de novas marcas está sujeita a aviso prévio de lançamento a apresentar na DGA, com antecedência não inferior a 90 dias.
+
+2 - Os agentes económicos que pretendam introduzir no mercado uma marca nova apresentarão para apreciação ao serviço competente, juntamente com o aviso de lançamento a que se refere o número anterior, os elementos seguintes:
+
+a) Características de apresentação das marcas, designadamente das embalagens, dizeres e módulos de venda;
+
+b) Características físicas do produto;
+
+c) Teores de condensado e nicotina;
+
+d) Preço de venda ao público pretendido, com a adequada fundamentação.
+
+3 - A possibilidade de comercialização das marcas nos termos propostos será sempre recusada quando não se mostrem cumpridos os preceitos legais relativos aos dizeres obrigatórios, aos limites dos teores de condensado e nicotina e quando os preços de venda ao público pretendidos se não enquadrem na política de controlo de preços do Governo.
+
+4 - A DGA comunicará ao interessado a aceitação ou não do quadro de características proposto e a homologação ou não do preço de venda ao público nos termos do número anterior e do artigo 53.º
+
+5 - No caso de determinada marca de tabacos deixar de ser comercializada, o operador económico em causa deve comunicá-lo à DGAIEC, indicando a data em que tal ocorreu, para efeitos de cancelamento da autorização de comercialização e do respectivo preço de venda ao público, homologado nos termos do presente artigo e do artigo 53.º
+
+6 - Na ausência da comunicação referida no número anterior, consideram-se tacitamente revogados a autorização de comercialização e o respectivo preço de venda ao público, se durante 12 meses seguidos não se proceder a qualquer introdução no consumo de determinada marca de tabacos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/98 - Diário da República n.º 163/1998, Série I-A de 1998-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1998-424691), em vigor a partir de 1998-07-22
+
+###### Artigo 47.º — Alterações na caracterização dos produtos
+
+A alteração das características e elementos referidos no artigo anterior rege-se, com as necessárias adaptações, pelo disposto no mesmo artigo e, no caso do preço de venda ao público, também pelo disposto no artigo 53.º
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 48.º — Confirmação periódica dos teores
+
+1 - Quando o serviço fiscalizador o entenda conveniente, poderá ser feita a confirmação dos teores declarados de condensado e nicotina em laboratório adequado, em termos a fixar por despacho do Ministro das Finanças.
+
+2 - Será suspensa a possibilidade de comercialização das marcas quando a análise laboratorial revelar a ultrapassagem dos limites legais e até que estes se mostrem respeitados.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 49.º — Dizeres das embalagens
+
+1 - O tabaco destinado a consumo no continente e nas Regiões Autónomas deve conter impressos em local bem visível dos respectivos invólucros, pacotes ou volumes o nome da empresa fabricante, a marca, o preço de venda ao público no território de consumo, o número de unidades ou o peso líquido, no caso dos tabacos de fumar, do rapé e do tabaco de mascar, e, ainda, nos rótulos/maços de cigarros, a mensagem com o aviso de saúde e a indicação dos teores de condensado e nicotina e respectiva classificação, para além de outras obrigações eventualmente impostas por lei especial.
+
+2 - No caso dos invólucros, o preço de venda ao público deverá figurar impresso na estampilha especial a que se refere o artigo seguinte.
+
+3 - Nos invólucros, pacotes ou volumes destinados a exportação, a consumo de bordo ou às lojas francas a indicação do preço de venda ao público é dispensada, devendo, porém, constar do corpo dos invólucros, em local perfeitamente visível, a referência «exportação».
+
+4 - No caso em que o destinatário da exportação o imponha como condição da mesma, poderão ser dispensados os dizeres e a referência «exportação» e utilizadas marcas que não sejam propriedade da empresa, observando esta as normas em vigor sobre a matéria.
+
+5 - O fabricante tem a faculdade de fazer constar dos invólucros, pacotes e volumes o código de barras do produto.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 50.º — Estampilha especial
+
+1 - Os invólucros de venda ao público de tabaco manufacturado para consumo no território nacional conterão obrigatoriamente, aposta antes da sua introdução no consumo, de modo a não permitir a sua reutilização, uma estampilha especial, fornecida pela Imprensa Nacional-Casa da Moeda.
+
+2 - Nos casos em que o invólucro seja celofanado, a estampilha deverá ser aposta por baixo do celofane.
+
+3 - As estampilhas especiais serão fornecidas aos agentes económicos pela Imprensa Nacional-Casa da Moeda com base em requisição previamente visada pela DGA.
+
+4 - A Imprensa Nacional-Casa da Moeda comunicará mensalmente à DGA as quantidades de estampilhas fornecidas aos agentes económicos, discriminadas por classes de preços.
+
+5 - O tabaco manufacturado referido no n.º 1 não poderá sair dos entrepostos fiscais de produção e transformação ou de armazenagem a que se referem os artigos 17.º e 21.º, respectivamente, ou ser introduzido no consumo sem que esteja aposta a estampilha especial nas embalagens.
+
+6 - Compete ao Ministro das Finanças aprovar, por portaria, a regulamentação das formalidades a observar para a requisição, fornecimento e controlo das estampilhas especiais.
+
+7 - Compete ao director-geral das Alfândegas aprovar o modelo das estampilhas.
+
+8 - O modelo da estampilha deve evidenciar o território do consumo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 51.º — Proibição de comercialização
+
+1 - É proibida a venda do tabaco referido nos n.os 3 e 4 do artigo 49.º no continente e Regiões Autónomas.
+
+2 - É igualmente proibida a comercialização, num território fiscal nacional, de tabaco manufacturado destinado ao consumo num outro território fiscal nacional, com fiscalidade diferenciada.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+###### Artigo 52.º — Promoção de vendas
+
+1 - Podem ser fabricadas ou introduzidas no consumo, em quantidades limitadas, embalagens miniaturas ou outras de marca já existente ou a introduzir, com vista à promoção de vendas.
+
+2 - Nas embalagens referidas no número anterior a indicação do preço de venda ao público será substituída pela designação «oferta» ou «isenção», consoante os casos.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/94 - Diário da República n.º 194/1994, Série I-A de 1994-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1994-218721), em vigor a partir de 1994-08-28
+
+### Capítulo II — Preço de venda ao público
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 53.º — Fixação do preço
+
+1 - Os preços de venda ao público dos produtos de tabaco são indicados pelos fabricantes estabelecidos na Comunidade Europeia ou, se for caso disso, pelos seus representantes ou mandatários comerciais ou pelos importadores de países terceiros e homologados por despacho conjunto dos Ministros das Finanças e do Comércio e Turismo.
+
+2 - Na falta de decisão no prazo de 90 dias a contar da data da indicação de novos preços de venda ao público, considera-se a homologação tacitamente concedida.
+
+3 - Apenas poderão ser introduzidos no consumo produtos de tabaco ao preço anterior durante um prazo máximo de 30 dias após a homologação dos novos preços.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+## Título V — Regime especial do tabaco em situação irregular
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 54.º — Depósito do tabaco
+
+É susceptível de venda coerciva o tabaco manufacturado apreendido ou abandonado, devendo ser obrigatoriamente depositado à ordem da DGA.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 55.º — Classificação do tabaco
+
+A DGA procederá, no prazo de 30 dias, contados a partir do depósito do tabaco, à classificação deste como próprio ou impróprio para consumo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Retificado pelo/a [Declaração de Rectificação n.º 233/93 - Diário da República n.º 280/1993, 3º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/233-1993-428840), em vigor a partir de 1993-11-30
+
+###### Artigo 56.º — Inutilização de tabaco
+
+Quando o tabaco for considerado impróprio para consumo ou não seja possível proceder à sua venda, será inutilizado sob controlo da DGA.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 57.º — Tabaco em situação de fazenda demorada e abandonada
+
+1 - Quando o tabaco for considerado próprio para consumo e estiver na situação de fazenda demorada, a alfândega notificará o dono da mercadoria, quando conhecido, para requerer o despacho, querendo, no prazo de oito dias.
+
+2 - A falta de despacho por motivos imputáveis ao dono da mercadoria determina a sua passagem à situação de abandono.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Retificado pelo/a [Declaração de Rectificação n.º 233/93 - Diário da República n.º 280/1993, 3º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/233-1993-428840), em vigor a partir de 1993-11-30
+
+###### Artigo 58.º — Aquisição e destino do tabaco próprio para consumo
+
+1 - O tabaco considerado próprio para consumo na situação de abandonado será objecto de venda, aplicando-se as formalidades estabelecidas no Regulamento das Alfândegas.
+
+2 - O valor a atribuir ao tabaco será sancionado pelo director-geral das Alfândegas.
+
+3 - O valor resultante da venda coerciva do tabaco referido no n.º 1 deverá entrar em receita do Estado ou das Regiões Autónomas, consoante o território onde passou à situação de abandonado, sendo aquele valor escriturado a título de herança jacente, deduzidas as importâncias relativas a recursos próprios comunitários e as que impendam sobre a mercadoria, designadamente transporte, análises e armazenagem.
+
+4 - O tabaco adquirido nos termos dos números anteriores será exportado obrigatoriamente para países terceiros ou entrará em consumo.
+
+5 - É competente para a venda desta mercadoria a DGA.
+
+6 - Quando for razoavelmente previsível que o produto da venda de pequenas quantidades de tabaco não cobre os custos inerentes à realização da venda, o director-geral das Alfândegas poderá determinar por despacho a inutilização do tabaco em causa.
+
+7 - Quando não for possível proceder à venda referida no n.º 1, o tabaco será obrigatoriamente objecto de inutilização.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/94 - Diário da República n.º 194/1994, Série I-A de 1994-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1994-218721), em vigor a partir de 1994-08-28
+
+###### Artigo 59.º — Tabaco sujeição a acção fiscal
+
+1 - O tabaco submetido à acção fiscal que tenha sido considerado próprio para consumo será tratado como fazenda abandonada até à fixação do preço de aquisição e determinação dos direitos de importação aplicáveis.
+
+2 - No caso de mercadoria sujeita a processo fiscal, poderá a DGA proceder à sua venda ou inutilização, no prazo de 60 dias após a apreensão ou abandono, mesmo que não tenha sido ainda proferida a sentença.
+
+3 - Para os efeitos previstos no número anterior, deverá a entidade apreensora, no prazo de 15 dias contados a partir da data da apreensão, comunicar o facto à DGA, enviando para o efeito os elementos identificativos necessários.
+
+4 - O produto da venda será depositado à ordem do tribunal respectivo, deduzindo-se previamente as importâncias relativas a recursos próprios comunitários e outras que sejam devidas, designadamente de transporte, análises e armazenagem.
+
+5 - Os montantes calculados como recursos próprios comunitários manter-se-ão em depósito na estância aduaneira competente, à ordem do processo, só se efectuando o registo de liquidação para efeitos de colocação à disposição da Comissão, nos termos da regulamentação comunitária específica, após decisão do tribunal.
+
+6 - Aplica-se ao tabaco referido no n.º 1 o disposto no artigo anterior quanto à entidade adquirente, ao processo de fixação de preço e ao destino.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/94 - Diário da República n.º 194/1994, Série I-A de 1994-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1994-218721), em vigor a partir de 1994-08-28
+
+###### Artigo 60.º — Âmbito de aplicação
+
+As disposições do presente título poderão aplicar-se, com as necessárias adaptações, nos territórios das Regiões Autónomas dos Açores e da Madeira.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+## Título VI — Infracções fiscais aduaneiras
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 61.º — Crimes fiscais
+
+1 - Será punido com prisão de seis meses a três anos e multa até 200 dias quem praticar um dos actos seguintes:
+
+a) Produzir, transformar ou detiver tabacos manufacturados, em regime suspensivo, sem a competente autorização, emitida nos termos dos artigos 23.º e 26.º;
+
+b) Expedir ou receber tabacos manufacturados, em regime suspensivo, sem que para tal esteja legalmente habilitado pela DGA;
+
+c) Expedir, transportar ou receber tabacos manufacturados, quer se encontrem em regime suspensivo, quer já tenham sido introduzidos no consumo noutro Estado membro, sem que previamente tenham sido emitidos os documentos legalmente exigidos;
+
+d) Introduzir no consumo tabacos manufacturados sem a aposição da estampilha especial prevista no artigo 50.º ou com estampilha especial não conforme com o território fiscal de consumo;
+
+e) Introduzir no consumo tabacos manufacturados destinados a consumo noutra parcela do território nacional com fiscalidade diferenciada;
+
+f) Comercializar tabacos manufacturados que sejam objecto de crimes previstos na lei.
+
+2 - A tentativa é punível.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 221/94 - Diário da República n.º 194/1994, Série I-A de 1994-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1994-218721), em vigor a partir de 1994-08-28
+
+###### Artigo 61.º-A — Contra-ordenações fiscais
+
+1 - Será punido com coima de 100000$00 a 20000000$00 quem praticar um dos actos seguintes:
+
+a) Utilizar tabacos manufacturados para um fim diferente do declarado;
+
+b) Introduzir no consumo ou comercializar tabacos manufacturados a preço diferente do preço de venda ao público homologado;
+
+c) Recusar, obstruir ou impedir a fiscalização das condições do exercício da sua actividade, nomeadamente a não prestação de informação legalmente prevista ao serviço fiscalizador;
+
+d) Não inscrever imediatamente na contabilidade, conforme o previsto nos artigos 9.º, 10.º, 13.º, 16.º e 17.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro, as expedições, recepções e introduções no consumo de tabacos manufacturados ou apresentar faltas de produtos em percentagens superiores às permitidas por lei;
+
+e) Não apresentar nas estâncias aduaneiras competentes os documentos de acompanhamento (DA e DAS), as declarações de introdução no consumo (DIC) e a autoliquidação nos prazos legalmente fixados;
+
+f) Expedir tabacos manufacturados em regime suspensivo sem prestação de garantia ou cujo montante do imposto em dívida seja superior ao montante da garantia;
+
+g) Armazenar tabacos manufacturados em entreposto fiscal diferente do autorizado;
+
+h) Subtrair tabacos manufacturados à fiscalização à saída dos entrepostos fiscais de produção e transformação;
+
+i) Introduzir no consumo tabacos manufacturados que não correspondam às características físicas e de apresentação declaradas;
+
+j) Armazenar em entreposto fiscal tabacos manufacturados que não se encontrem em regime suspensivo, sem autorização da estância aduaneira competente ou, embora com autorização, tal não seja relevado contabilisticamente;
+
+l) Detiver ou consumir, em território nacional, tabacos manufacturados declarados para consumo noutro Estado membro, com violação do disposto no artigo 6.º do Decreto-Lei n.º 52/93, de 26 de Fevereiro;
+
+m) Introduzir no consumo ou comercializar tabacos manufacturados, com violação do disposto no artigo 50.º, n.º 2;
+
+n) Introduzir no consumo ou comercializar tabacos manufacturados sem o preço de venda ao público aposto na estampilha especial prevista no artigo 50.º
+
+2 - A tentativa é punível.
+
+3 - Se os factos referidos nos números anteriores forem imputados a título de negligência a coima será reduzida a metade.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 221/94 - Diário da República n.º 194/1994, Série I-A de 1994-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1994-218721), em vigor a partir de 1994-08-28
+
+###### Artigo 61.º-B — Direito subsidiário
+
+Sem prejuízo das infracções tipificadas nos artigos anteriores, é subsidiariamente aplicável o Regime Jurídico das Infracções Fiscais Aduaneiras, aprovado pelo Decreto-Lei n.º 376-A/89, de 25 de Outubro.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+> Aditado pelo/a Artigo 40.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+## Título VII — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 62.º — Dever de participação
+
+Qualquer funcionário ou agente do Estado que tome conhecimento de factos susceptíveis de configurar uma infracção a qualquer regra estabelecida neste diploma tem o dever de participar esses factos por escrito ou verbalmente ao serviço competente.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 63.º — Competências nas Regiões Autónomas
+
+Relativamente a assuntos respeitantes especificamente às Regiões Autónomas, as competências atribuídas pelo presente diploma aos Ministros das Finanças e do Comércio e Turismo caberão aos Governos Regionais.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 64.º — Transferência de competências
+
+A competência relativa à administração do imposto de consumo sobre os tabacos manufacturados, na parte actualmente cometida à Inspecção-Geral de Finanças (IGF), é atribuída pelo presente diploma à DGA.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 65.º — Alteração à Lei Orgânica da Inspecção-Geral de Finanças
+
+1 - São revogados a alínea d) do n.º 1 do artigo 3.º, o n.º 3 do artigo 6.º, o artigo 9.º, o n.º 3 do artigo 23.º, o artigo 32.º e o n.º 2 do artigo 36.º do Decreto-Lei n.º 353/89, de 16 de Outubro.
+
+2 - São eliminadas as referências ao Núcleo de Fiscalização de Tabacos (NUFT), às delegações nas fábricas de tabaco e aos chefes de delegação constantes do n.º 1 do artigo 20.º, da alínea b) do n.º 1 do artigo 23.º, do n.º 4 do artigo 25.º, da alínea f) do artigo 29.º e do n.º 1 do artigo 34.º do Decreto-Lei n.º 353/89, de 16 de Outubro.
+
+3 - (Revogado.)
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 66.º — Transição de pessoal
+
+A transição do pessoal de fiscalização dos tabacos afecto ao NUFT que se encontre provido em lugares de carreira de agente fiscal do quadro de pessoal da IGF, constante do mapa anexo ao Decreto-Lei n.º 353/89, de 16 de Outubro, regula-se pelo disposto no diploma orgânico da DGA.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 67.º — Revogação do direito anterior
+
+É revogado o Decreto-Lei n.º 444/86, de 31 de Dezembro, com a alteração que lhe foi dada pelo Decreto-Lei n.º 49/90, de 10 de Fevereiro.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+###### Artigo 68.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16
+
+Visto e aprovado em Conselho de Ministros de 20 de Maio de 1993. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Fernando Manuel Barbosa Faria de Oliveira.
+
+Promulgado em 13 de Agosto de 1993.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 23 de Agosto de 1993.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 566/99 - Diário da República n.º 296/1999, Série I-A de 1999-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/566-1999-662084), em vigor a partir de 2000-01-01
+
+> Reposto em Vigor pelo/a Artigo 1.º do/a [Decreto-Lei n.º 363-A/98 - Diário da República n.º 268/1998, 1º Suplemento, Série I-A de 1998-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-a-1998-475167), em vigor a partir de 1998-08-16
+
+> Revogado pelo/a Artigo 37.º do/a [Decreto-Lei n.º 249/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1998-438072), em vigor a partir de 1998-08-16

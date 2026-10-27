@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:575173:por
+title: Decreto-Lei n.º 204/90
+short_title: null
+summary: Estabelece medidas de protecção de animais selvagens, necrófagos e predadores
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e Recursos Naturais
+proposing_entity: null
+official_number: 204/90
+official_date: null
+publication_date: '1990-06-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 140/1990, Série I de 1990-06-20
+  number: '140'
+  series: I
+  supplement: null
+  pages: 2608 - 2610
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/06/14000/26082610.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '575173'
+  dre_path: /dr/detalhe/decreto-lei/204-1990-575173
+  internal: pt:dre:575173:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1990-575173
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1990-575173
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:00:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 093b06e7b4a941ff29bf1c09fbe370e293d2cc2530bd5b436ac905458c73d8eb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:00:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alimento para Animais
+- Contra-ordenação
+- Controlo Sanitário
+- Definição de Competências
+- Direcção Geral da Pecuária
+- Direcção Geral das Florestas
+- Direcção Geral de Inspecção Económica
+- Fiscalização
+- Multa
+- Proteção do Ambiente
+- Serviço Nacional de Parques Reservas e Conservação da Natureza
+- Transporte de Resíduos
+- Vida Selvagem
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:00:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 204/90
+
+de 20 de Junho
+
+Constatando que as populações de abutres em Portugal têm vindo a diminuir, encontrando-se hoje praticamente confinadas à faixa fronteiriça oriental do território nacional, torna-se necessária a adopção de medidas de protecção e conservação, com vista a suster o preocupante declínio dos seus efectivos.
+
+Reconhece-se, assim, na criação de campos de alimentação uma medida fundamental para o restabelecimento das populações destas aves, a qual se aplica a outros animais da fauna selvagem, necrófagos e predadores, sem deixar de compatibilizar o funcionamento dos referidos campos de alimentação com a salvaguarda da saúde pública.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º Para efeitos do presente diploma, entende-se por:
+
+a) Campos de alimentação - locais de depósito de reses, aves, coelhos e caça, suas carnes, despojos e subprodutos, destinados à alimentação de animais selvagens, necrófagos e predadores;
+
+b) Carne de reses, aves, coelhos, caça, despojos e subprodutos - devem observar-se as definições de carne, carnes, animais de talho e reses, aves, coelhos, caça, despojos e subprodutos previstas nos respectivos regulamentos de inspecção sanitária;
+
+c) Transporte - a deslocação das carnes das reses, aves, coelhos, caça, seus despojos e subprodutos, desde o local de origem até ao local de destino;
+
+d) Entidades competentes - são entidades competentes para efeitos de aplicação do presente diploma o Serviço Nacional de Parques, Reservas e Conservação da Natureza, adiante abreviadamente designado por SNPRCN, e a Direcção-Geral da Pecuária, adiante abreviadamente designada por DGP;
+
+e) Entidade gestora do campo - são susceptíveis de constituírem entidades gestoras de campos de alimentação para animais selvagens, necrófagos e predadores, o SNPRCN e as organizações não governamentais de conservação da Natureza devidamente autorizadas para o efeito.
+
+Art. 2.º - 1 - A instalação e abastecimento dos campos de alimentação devem ser efectuados em condições que salvaguardem a saúde pública.
+
+2 - Nos termos do disposto no número anterior, a instalação dos campos de alimentação deve ser sujeita a condicionalismos especiais, nomeadamente:
+
+a) Vedação, mediante a instalação de rede com, pelo menos, 1,70 m de altura, à prova de carnívoros;
+
+b) Corte ou desvio das linhas de água que corram pelo campo ou nas proximidades, de forma a evitar a contaminação das águas de utilização pública a jusante do mesmo.
+
+Art. 3.º - 1 - A instalação dos campos de alimentação depende de autorização do SNPRCN, recolhido o parecer favorável da DPG e ouvidos os respectivos serviços regionais de agricultura.
+
+2 - Para efeitos do disposto no número anterior, os interessados devem remeter ao SNPRCN um projecto de instalação do campo, acompanhado dos seguintes documentos:
+
+a) Requerimento a solicitar a instalação do campo;
+
+b) Planta de localização;
+
+c) Planta do campo de alimentação;
+
+d) Memória descritiva que permita uma correcta apreciação do pedido e de que conste, nomeadamente, a localização de linhas de água, vias de acesso e proximidade de áreas de pastagem.
+
+Art. 4.º Com vista à protecção dos animais selvagens, necrófagos e predadores, é permitida a utilização na sua alimentação de carnes de reses, aves, coelhos e caça, seus despojos e subprodutos reprovados para consumo público, desde que o não sejam por doenças susceptíveis de serem disseminadas por aqueles animais.
+
+Art. 5.º - 1 - As carnes de reses, aves, coelhos e caça, seus despojos e subprodutos destinados a abastecer os campos de alimentação ficam sujeitos a controlo hígio-sanitário a efectuar pelas autoridades veterinárias.
+
+2 - Para efeitos do disposto no número anterior, as carnes de reses, aves, coelhos, caça, seus despojos e subprodutos estão sujeitos a exame prévio efectuado por médico veterinário que atesta a sua aptidão para o fim em vista, através de uma declaração devidamente autenticada com carimbo, que acompanha o carregamento durante o transporte até ao campo de alimentação.
+
+3 - Da declaração referida no número anterior deve constar a identificação da espécie, o número de carcaças e o peso das suas carnes, despojos e subprodutos, bem como o campo de alimentação a que se destina.
+
+4 - O transporte dos reprovados provenientes de estabelecimentos devidamente licenciados para a laboração de produtos cárneos deve ser acompanhado por guia ou declaração emitida pelo respectivo inspector sanitário.
+
+5 - O transporte das carnes de reses, aves, coelhos, caça, seus despojos e subprodutos deve ser efectuado em contentor estanque, por forma a salvaguardar quaisquer riscos para a saúde pública.
+
+6 - Os veículos e contentores referidos no número anterior devem ser lavados e desinfectados após cada utilização pela entidade gestora do campo, de acordo com as indicações das autoridades veterinárias.
+
+Art. 6.º - 1 - A recolha, o transporte das carnes de reses, aves, coelhos, caça, seus despojos e subprodutos e o abastecimento dos campos podem ser efectuados pelas autoridades veterinárias, pela entidade ou entidades gestoras do campo, ou quaisquer outras entidades gestoras do campo, ou quaisquer outras entidades, públicas ou privadas, desde que devidamente credenciadas para o efeito.
+
+2 - É entidade competente para a emissão das credenciais referidas no número anterior a DGP, que pode delegar nos competentes serviços regionais de agricultura, transmitindo-lhes as orientações que julgar necessárias.
+
+3 - As credenciais referidas nos números anteriores devem ser exibidas pelos seus portadores sempre que tal lhes seja solicitado pelas entidades que exercem funções de fiscalização.
+
+Art. 7.º - 1 - O Estado, em comparticipação com as autarquias locais, pode apoiar as entidades gestoras de campos de alimentação que não prossigam fins lucrativos.
+
+2 - Tal apoio pode envolver a atribuição de subsídios à instalação de campos de alimentação e ao transporte de reses, aves, coelhos, caça, seus despojos e subprodutos, em termos a definir por despacho conjunto dos Ministros das Finanças, da Agricultura, Pescas e Alimentação e do Ambiente e Recursos Naturais.
+
+Art. 8.º - 1 - As infracções ao disposto no n.º 1 do artigo 2.º, no n.º 1 do artigo 3.º, nos artigos 4.º e 5.º e nos n.os 1 e 3 do artigo 6.º constituem contra-ordenações e são puníveis com coimas:
+
+a) De 15000$00 a 500000$00, no caso de violação do disposto no n.º 1 do artigo 2.º e nos artigos 4.º e 5.º;
+
+b) De 10000$00 a 400000$00, no caso de violação do disposto no n.º 1 do artigo 3.º e nos n.os 1 e 3 do artigo 6.º
+
+2 - As coimas aplicadas às pessoas colectivas pelas contra-ordenações referidas nos números anteriores elevar-se-ão ao montante máximo de 12 vezes.
+
+3 - A negligência e a tentativa são puníveis.
+
+Art. 9.º A receita das coimas previstas no artigo anterior tem a seguinte distribuição:
+
+a) 40% para o SNPRCN;
+
+b) 60% para o Estado.
+
+Art. 10.º - 1 - A fiscalização do cumprimento do disposto no presente diploma compete aos funcionários e agentes do SNPRCN, da Direcção-Geral de Inspecção Económica, da DGP e da Direcção-Geral das Florestas, às autoridades veterinárias e às autoridades policiais.
+
+2 - Sempre que, no exercício das suas funções, os funcionários e agentes referidos no número anterior detectem infracções ao disposto no presente diploma devem levantar o respectivo auto de notícia, a remeter ao SNPRCN, entidade competente para o processamento das contra-ordenações e aplicação das coimas e sanções acessórias.
+
+Visto e aprovado em Conselho de Ministros de 19 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Joaquim Martins Fereira do Amaral - Fernando Nunes Ferreira Real.
+
+Promulgado em 24 de Maio de 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 25 de Maio de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

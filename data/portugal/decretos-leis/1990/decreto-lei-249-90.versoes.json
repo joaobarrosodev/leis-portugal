@@ -1,0 +1,412 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:573169:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-116979710",
+ "dre_path": "/dr/detalhe/decreto-lei/249-1990-573169",
+ "source_lastmod": "2026-02-16",
+ "versions": [
+  {
+   "date": "1993-08-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:369445:por",
+     "title": "Decreto-Lei n.º 274/93",
+     "published": "1993-08-04",
+     "dre_path": "/dr/detalhe/decreto-lei/274-1993-369445"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º",
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "116979509",
+    "1051075635",
+    "116979511",
+    "116979512",
+    "116979513",
+    "116979514",
+    "116979515",
+    "116979516",
+    "116979517",
+    "116979518",
+    "116979519",
+    "116979520",
+    "116979521",
+    "116979522",
+    "116979523",
+    "116979524",
+    "1051075636",
+    "1051075637"
+   ]
+  },
+  {
+   "date": "2026-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1051282281:por",
+     "title": "Decreto-Lei n.º 43/2026",
+     "published": "2026-02-16",
+     "dre_path": "/dr/detalhe/decreto-lei/43-2026-1051282281"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1051075638",
+    "1051075639",
+    "1051075640",
+    "1051075641",
+    "1051075642",
+    "1051075643",
+    "1051075644",
+    "1051075645",
+    "1051075646",
+    "1051075647",
+    "1051075648",
+    "1051075649",
+    "1051075650",
+    "1051075651",
+    "1051075652",
+    "1051075653",
+    "1051075654",
+    "1051075655"
+   ]
+  }
+ ],
+ "fragments": {
+  "116979509": {
+   "fragment_id": "116979711",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 249/90\n\nde 1 de Agosto\n\nConsiderando que importa assegurar, por forma cada vez mais eficaz, a aplicação das normas, nacionais e internacionais, relativas ao exercício da actividade marítima, à segurança da navegação, à salvaguarda da vida humana no mar e à protecção do meio ambiente marítimo;\n\nVerificando-se a necessidade de que todas as embarcações que frequentam águas e portos nacionais obedeçam às regras das convenções internacionais sobre segurança marítima, prevenção da poluição e bem-estar a bordo, nomeadamente as embarcações de recreio e, em especial, aquelas que pela sua concepção possam atingir velocidades muito para além das que são praticadas pelas embarcações em geral;\n\nHavendo que defender a prática do recreio das embarcações de menor porte, que pode ser afectada pela actividade de embarcações que se desloquem a altas velocidades, importa assegurar que a actividade destas embarcações que começam a demandar com cada vez maior frequência as nossas águas e portos seja submetida a um controlo eficaz por forma a evitar os perigos decorrentes da sua utilização, não só para as suas próprias tripulações e utentes, mas também para terceiros;\n\nTendo, ainda, em conta que as embarcações de concepção especial, capazes de atingir altas velocidades, podem, pelas suas características, incitar à prática de actividadess ilícitas, pretende-se que o presente diploma contribua igualmente para a eficácia da prevenção de infracções, com observância das convenções internacionais e demais legislação aplicável:\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1051075635": {
+   "fragment_id": "116979712",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1993-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 274/93 - Diário da República n.º 181/1993, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1993-369445), em vigor a partir de 1993-08-09"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) Embarcações de alta velocidade (EAV) - as embarcações que, para além de possuírem sustentação dinâmica, nos termos da Resolução A373 (X) da Organização Marítima Internacional, utilizem um aparelho propulsor que satisfaça qualquer das seguintes condições:\n\nAparelho propulsor de três ou mais motores, sendo a potência efectiva de qualquer deles igual ou superior a 125 c. v. (92 kW);\n\nAparelho propulsor com qualquer número de motores, sendo a potência total efectiva em cavalos vapor superior a qualquer dos seguintes valores:\n\n175 c. v. (129 kW), no caso de embarcações com menos de 6 m de comprimento;\n\n350 c. v. (257 kW) ou mais, no caso de embarcações com mais de 6 m de comprimento fora a fora;\n\nO valor resultante da aplicação da fórmula 65 x L - 300 (c. v.) ou (65 x L - 300) x 0,7355 (kW), sendo L o comprimento fora a fora em metros, no caso de embarcações com mais de 10 m de comprimento fora a fora;\n\nb) Potência efectiva - a potência máxima que os fabricantes de motores a utilizar neste tipo de embarcações fizerem constar da respectiva documentação e especificações técnicas, em resultado das provas efectuadas nos motores em bancos de ensaios.\n\n2 - São igualmente consideradas EAV aquelas embarcações que, pela sua estrutura, característica do seu sistema de propulsão ou relação peso-potência efectiva, se diferenciem claramente das restantes embarcações e sejam susceptíveis de representar um perigo para a navegação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 274/93 - Diário da República n.º 181/1993, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1993-369445), em vigor a partir de 1993-08-09"
+  },
+  "116979511": {
+   "fragment_id": "116979713",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs EAV devem ter licença de estação válida para operarem e equipamentos que permitam comunicar com as autoridades marítimas, portuárias, aduaneiras e de pilotagem."
+  },
+  "116979512": {
+   "fragment_id": "116979714",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs EAV nacionais devem ter inscrito, de forma bem visível, nas obras mortas junto à ponte de navegação, e de modo que não seja susceptível de confusão com as inscrições usadas pelas embarcações do Estado, o seu indicativo de chamada em letras de cor fosforescente sobre fundo negro, e de altura não inferior a 30 cm."
+  },
+  "116979513": {
+   "fragment_id": "116979715",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs EAV nacionais devem estar munidas de certificado de lotação mínima, a atribuir, mediante requerimento, pela Direcção-Geral da Navegação e dos Transportes Marítimos (DGNTM), e de rol de tripulação."
+  },
+  "116979514": {
+   "fragment_id": "116979716",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As EAV estão obrigadas a desembaraço nos termos da respectiva legislação, sendo ainda obrigadas a:\n\na) Atracar no lugar que lhes for determinado pelo capitão do porto, ouvidas as autoridades portuárias e alfandegárias;\n\nb) Solicitar ao capitão do porto autorização de saída do porto com, pelo menos, duas horas de antecedência;\n\nc) Informar o capitão do porto da hora prevista de chegada com, pelo menos, duas horas de antecedência;\n\nd) Apresentar ao capitão do porto comunicação de chegada no prazo máximo de uma hora após a atracação.\n\n2 - O pedido de saída e a comunicação de chegada são efectuados por escrito e entregues na capitania do porto, acompanhados dos seguintes documentos:\n\na) Título de propriedade;\n\nb) Rol de tripulação e lista de passageiros;\n\nc) Certificados de navegabilidade e de meios de salvação ou equivalente e de lotação mínima;\n\nd) Licença de estação e certificados previstos no Regulamento de Radiocomunicações."
+  },
+  "116979515": {
+   "fragment_id": "116979717",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Salvo autorização expressa, por escrito, do capitão do porto, as EAV têm de:\n\na) Estar atracadas ao cais durante o período compreendido entre as 21 horas e as 7 horas;\n\nb) Navegar dentro do limite de 10 milhas de costa.\n\n2 - As EAV não podem:\n\na) Ser objecto de quaisquer modificações técnicas, seja de estrutura, seja de motor, sem a aprovação da DGNTM;\n\nb) Transportar mais combustível do que o permitido pela capacidade dos seus depósitos, aprovada pela autoridade marítima."
+  },
+  "116979516": {
+   "fragment_id": "116979718",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO capitão do porto, por forma a garantir a segurança do tráfego marítimo, pode, sempre que necessário, fixar para as EAV:\n\na) Limites máximos de velocidade, podendo estes variar em função das zonas nas quais se efectua a navegação;\n\nb) O itinerário pelo qual transitarão em águas da sua jurisdição."
+  },
+  "116979517": {
+   "fragment_id": "116979719",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - As EAV estrangeiras em território nacional estão sujeitas às obrigações constantes dos artigos 2.º, 5.º, 6.º e 7.º\n\n2 - Os proprietários de EAV estrangeiras, ou os seus representantes, que permaneçam ou pretendam permanecer mais de 20 dias em cada ano civil em portos ou águas nacionais devem solicitá-lo, antes de terminado aquele prazo, ao director-geral das Alfândegas, mediante requerimento a entregar na capitania do porto acompanhado dos documentos de bordo e do parecer do capitão do porto.\n\n3 - Conjuntamente com o parecer referido no número anterior, deve o capitão do porto designar a identificação própria que tiver sido atribuída, a qual será inscrita na embarcação de acordo com o disposto no artigo 3.º, sem o que não pode permanecer em portos ou águas nacionais.\n\n4 - A Direcção-Geral de Marinha mantém um registo actualizado da permanência de EVA estrangeiras em território nacional."
+  },
+  "116979518": {
+   "fragment_id": "116979720",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Constitui contra-ordenação punível com coima mínima de 100000$00 e máxima de 500000$00:\n\na) A inobservância do disposto nos artigos 2.º, 3.º, 4.º, 5.º, 6.º e 8.º, n.º 2;\n\nb) A inobservância dos limites máximos de velocidade e do itinerário, fixados pelo capitão do porto nos termos do artigo 7.º\n\n2 - A negligência e a tentativa são puníveis.\n\n3 - O montante máximo previsto no n.º 1 eleva-se a 6000000$00 quando a coima seja aplicada a pessoas colectivas."
+  },
+  "116979519": {
+   "fragment_id": "116979721",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - As EAV, quando na posse de terceiros, a qualquer título, estão igualmente sujeitas ao cumprimento do disposto no presente diploma, pena de incorrerem nas sanções no mesmo previstas.\n\n2 - A capitania respectiva deve ser sempre informada, previamente e por escrito, de qualquer cedência ou empréstimo de uma EAV."
+  },
+  "116979520": {
+   "fragment_id": "116979722",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - A fiscalização das actividades das EAV compete aos órgãos e serviços competentes dos Ministérios da Defesa Nacional, das Finanças e da Justiça.\n\n2 - Os órgãos e serviços previstos no número anterior quando, no exercício das suas funções de fiscalização, detectarem situações indiciadoras da prática de contra-ordenações previstas neste diploma procedem à apreensão cautelar da embarcação, quando a ela houver lugar, e elaboram o respectivo auto de notícia, que devem remeter às entidades competentes para a investigação e instrução, referidas no artigo seguinte."
+  },
+  "116979521": {
+   "fragment_id": "116979723",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - A investigação e instrução dos processos por contra-ordenação, bem como a aplicação de coimas, compete:\n\na) Ao capitão do porto da capitania em cuja área ocorrer a infracção, ou ao do porto de registo da embarcação, ou ao do primeiro em que esta entrar, consoante o que tiver elaborado ou recebido o auto de notícia;\n\nb) Às entidades previstas no artigo 60.º do Regime Jurídico das Infracções Aduaneiras, aprovado pelo Decreto-Lei n.º 376-A/89, de 25 de Outubro, tratando-se de contra-ordenação por excesso de permanência, nos termos do artigo 8.º, n.º 2.\n\n2 - Havendo cumulação de contra-ordenações previstas neste diploma e no Decreto-Lei n.º 376-A/89, de 25 de Outubro, são competentes para o processamento e aplicação das respectivas coimas as entidades previstas naquele último diploma legal."
+  },
+  "116979522": {
+   "fragment_id": "116979724",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO disposto no presente diploma não se aplica às embarcações do Estado."
+  },
+  "116979523": {
+   "fragment_id": "116979725",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs EAV abrangidas pelo presente diploma devem regularizar a sua situação no prazo máximo de dois meses a contar da data da sua entrada em vigor."
+  },
+  "116979524": {
+   "fragment_id": "116979726",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - É aditado ao Regulamento Geral das Capitanias, aprovado pelo Decreto-Lei n.º 265/72, de 31 de Julho, o artigo 19.º-A com a seguinte redacção:\n\nArtigo 19.º-A\n\nEmbarcações de alta velocidade\n\nDe acordo com legislação específica, as embarcações nacionais podem ser classificadas como embarcações de alta velocidade, independentemente das actividades a que se destinam.\n\n2 - O artigo 108.º do Regulamento Geral das Capitanias, aprovado pelo Decreto-Lei n.º 265/72, de 31 de Julho, passa a ter a seguinte redacção:\n\nArtigo 108.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - À excepção das embarcações do Estado, qualquer embarcação de alta velocidade deve usar adicionalmente as iniciais indicativas EAV."
+  },
+  "1051075636": {
+   "fragment_id": "1051481726",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1993-08-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 274/93 - Diário da República n.º 181/1993, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1993-369445), em vigor a partir de 1993-08-09"
+   ],
+   "markdown": "###### Artigo 16.º\n\nA qualificação de uma embarcação como EAV é da competência da Direcção-Geral de Portos, Navegação e Transportes Marítimos (DGPNTM).\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 274/93 - Diário da República n.º 181/1993, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1993-369445), em vigor a partir de 1993-08-09"
+  },
+  "1051075637": {
+   "fragment_id": "116979727",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Maio de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 13 de Julho de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Julho de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1051075638": {
+   "fragment_id": "116979711",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "Decreto-Lei n.º 249/90\n\nde 1 de Agosto\n\nConsiderando que importa assegurar, por forma cada vez mais eficaz, a aplicação das normas, nacionais e internacionais, relativas ao exercício da actividade marítima, à segurança da navegação, à salvaguarda da vida humana no mar e à protecção do meio ambiente marítimo;\n\nVerificando-se a necessidade de que todas as embarcações que frequentam águas e portos nacionais obedeçam às regras das convenções internacionais sobre segurança marítima, prevenção da poluição e bem-estar a bordo, nomeadamente as embarcações de recreio e, em especial, aquelas que pela sua concepção possam atingir velocidades muito para além das que são praticadas pelas embarcações em geral;\n\nHavendo que defender a prática do recreio das embarcações de menor porte, que pode ser afectada pela actividade de embarcações que se desloquem a altas velocidades, importa assegurar que a actividade destas embarcações que começam a demandar com cada vez maior frequência as nossas águas e portos seja submetida a um controlo eficaz por forma a evitar os perigos decorrentes da sua utilização, não só para as suas próprias tripulações e utentes, mas também para terceiros;\n\nTendo, ainda, em conta que as embarcações de concepção especial, capazes de atingir altas velocidades, podem, pelas suas características, incitar à prática de actividadess ilícitas, pretende-se que o presente diploma contribua igualmente para a eficácia da prevenção de infracções, com observância das convenções internacionais e demais legislação aplicável:\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075639": {
+   "fragment_id": "116979712",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 274/93 - Diário da República n.º 181/1993, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1993-369445), em vigor a partir de 1993-08-09"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) Embarcações de alta velocidade (EAV) - as embarcações que, para além de possuírem sustentação dinâmica, nos termos da Resolução A373 (X) da Organização Marítima Internacional, utilizem um aparelho propulsor que satisfaça qualquer das seguintes condições:\n\nAparelho propulsor de três ou mais motores, sendo a potência efectiva de qualquer deles igual ou superior a 125 c. v. (92 kW);\n\nAparelho propulsor com qualquer número de motores, sendo a potência total efectiva em cavalos vapor superior a qualquer dos seguintes valores:\n\n175 c. v. (129 kW), no caso de embarcações com menos de 6 m de comprimento;\n\n350 c. v. (257 kW) ou mais, no caso de embarcações com mais de 6 m de comprimento fora a fora;\n\nO valor resultante da aplicação da fórmula 65 x L - 300 (c. v.) ou (65 x L - 300) x 0,7355 (kW), sendo L o comprimento fora a fora em metros, no caso de embarcações com mais de 10 m de comprimento fora a fora;\n\nb) Potência efectiva - a potência máxima que os fabricantes de motores a utilizar neste tipo de embarcações fizerem constar da respectiva documentação e especificações técnicas, em resultado das provas efectuadas nos motores em bancos de ensaios.\n\n2 - São igualmente consideradas EAV aquelas embarcações que, pela sua estrutura, característica do seu sistema de propulsão ou relação peso-potência efectiva, se diferenciem claramente das restantes embarcações e sejam susceptíveis de representar um perigo para a navegação.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 274/93 - Diário da República n.º 181/1993, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1993-369445), em vigor a partir de 1993-08-09"
+  },
+  "1051075640": {
+   "fragment_id": "116979713",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 2.º\n\nAs EAV devem ter licença de estação válida para operarem e equipamentos que permitam comunicar com as autoridades marítimas, portuárias, aduaneiras e de pilotagem.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075641": {
+   "fragment_id": "116979714",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs EAV nacionais devem ter inscrito, de forma bem visível, nas obras mortas junto à ponte de navegação, e de modo que não seja susceptível de confusão com as inscrições usadas pelas embarcações do Estado, o seu indicativo de chamada em letras de cor fosforescente sobre fundo negro, e de altura não inferior a 30 cm.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075642": {
+   "fragment_id": "116979715",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 4.º\n\nAs EAV nacionais devem estar munidas de certificado de lotação mínima, a atribuir, mediante requerimento, pela Direcção-Geral da Navegação e dos Transportes Marítimos (DGNTM), e de rol de tripulação.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075643": {
+   "fragment_id": "116979716",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - As EAV estão obrigadas a desembaraço nos termos da respectiva legislação, sendo ainda obrigadas a:\n\na) Atracar no lugar que lhes for determinado pelo capitão do porto, ouvidas as autoridades portuárias e alfandegárias;\n\nb) Solicitar ao capitão do porto autorização de saída do porto com, pelo menos, duas horas de antecedência;\n\nc) Informar o capitão do porto da hora prevista de chegada com, pelo menos, duas horas de antecedência;\n\nd) Apresentar ao capitão do porto comunicação de chegada no prazo máximo de uma hora após a atracação.\n\n2 - O pedido de saída e a comunicação de chegada são efectuados por escrito e entregues na capitania do porto, acompanhados dos seguintes documentos:\n\na) Título de propriedade;\n\nb) Rol de tripulação e lista de passageiros;\n\nc) Certificados de navegabilidade e de meios de salvação ou equivalente e de lotação mínima;\n\nd) Licença de estação e certificados previstos no Regulamento de Radiocomunicações.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075644": {
+   "fragment_id": "116979717",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Salvo autorização expressa, por escrito, do capitão do porto, as EAV têm de:\n\na) Estar atracadas ao cais durante o período compreendido entre as 21 horas e as 7 horas;\n\nb) Navegar dentro do limite de 10 milhas de costa.\n\n2 - As EAV não podem:\n\na) Ser objecto de quaisquer modificações técnicas, seja de estrutura, seja de motor, sem a aprovação da DGNTM;\n\nb) Transportar mais combustível do que o permitido pela capacidade dos seus depósitos, aprovada pela autoridade marítima.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075645": {
+   "fragment_id": "116979718",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 7.º\n\nO capitão do porto, por forma a garantir a segurança do tráfego marítimo, pode, sempre que necessário, fixar para as EAV:\n\na) Limites máximos de velocidade, podendo estes variar em função das zonas nas quais se efectua a navegação;\n\nb) O itinerário pelo qual transitarão em águas da sua jurisdição.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075646": {
+   "fragment_id": "116979719",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - As EAV estrangeiras em território nacional estão sujeitas às obrigações constantes dos artigos 2.º, 5.º, 6.º e 7.º\n\n2 - Os proprietários de EAV estrangeiras, ou os seus representantes, que permaneçam ou pretendam permanecer mais de 20 dias em cada ano civil em portos ou águas nacionais devem solicitá-lo, antes de terminado aquele prazo, ao director-geral das Alfândegas, mediante requerimento a entregar na capitania do porto acompanhado dos documentos de bordo e do parecer do capitão do porto.\n\n3 - Conjuntamente com o parecer referido no número anterior, deve o capitão do porto designar a identificação própria que tiver sido atribuída, a qual será inscrita na embarcação de acordo com o disposto no artigo 3.º, sem o que não pode permanecer em portos ou águas nacionais.\n\n4 - A Direcção-Geral de Marinha mantém um registo actualizado da permanência de EVA estrangeiras em território nacional.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075647": {
+   "fragment_id": "116979720",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - Constitui contra-ordenação punível com coima mínima de 100000$00 e máxima de 500000$00:\n\na) A inobservância do disposto nos artigos 2.º, 3.º, 4.º, 5.º, 6.º e 8.º, n.º 2;\n\nb) A inobservância dos limites máximos de velocidade e do itinerário, fixados pelo capitão do porto nos termos do artigo 7.º\n\n2 - A negligência e a tentativa são puníveis.\n\n3 - O montante máximo previsto no n.º 1 eleva-se a 6000000$00 quando a coima seja aplicada a pessoas colectivas.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075648": {
+   "fragment_id": "116979721",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - As EAV, quando na posse de terceiros, a qualquer título, estão igualmente sujeitas ao cumprimento do disposto no presente diploma, pena de incorrerem nas sanções no mesmo previstas.\n\n2 - A capitania respectiva deve ser sempre informada, previamente e por escrito, de qualquer cedência ou empréstimo de uma EAV.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075649": {
+   "fragment_id": "116979722",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 11.º\n\n1 - A fiscalização das actividades das EAV compete aos órgãos e serviços competentes dos Ministérios da Defesa Nacional, das Finanças e da Justiça.\n\n2 - Os órgãos e serviços previstos no número anterior quando, no exercício das suas funções de fiscalização, detectarem situações indiciadoras da prática de contra-ordenações previstas neste diploma procedem à apreensão cautelar da embarcação, quando a ela houver lugar, e elaboram o respectivo auto de notícia, que devem remeter às entidades competentes para a investigação e instrução, referidas no artigo seguinte.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075650": {
+   "fragment_id": "116979723",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - A investigação e instrução dos processos por contra-ordenação, bem como a aplicação de coimas, compete:\n\na) Ao capitão do porto da capitania em cuja área ocorrer a infracção, ou ao do porto de registo da embarcação, ou ao do primeiro em que esta entrar, consoante o que tiver elaborado ou recebido o auto de notícia;\n\nb) Às entidades previstas no artigo 60.º do Regime Jurídico das Infracções Aduaneiras, aprovado pelo Decreto-Lei n.º 376-A/89, de 25 de Outubro, tratando-se de contra-ordenação por excesso de permanência, nos termos do artigo 8.º, n.º 2.\n\n2 - Havendo cumulação de contra-ordenações previstas neste diploma e no Decreto-Lei n.º 376-A/89, de 25 de Outubro, são competentes para o processamento e aplicação das respectivas coimas as entidades previstas naquele último diploma legal.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075651": {
+   "fragment_id": "116979724",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 13.º\n\nO disposto no presente diploma não se aplica às embarcações do Estado.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075652": {
+   "fragment_id": "116979725",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 14.º\n\nAs EAV abrangidas pelo presente diploma devem regularizar a sua situação no prazo máximo de dois meses a contar da data da sua entrada em vigor.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075653": {
+   "fragment_id": "116979726",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - É aditado ao Regulamento Geral das Capitanias, aprovado pelo Decreto-Lei n.º 265/72, de 31 de Julho, o artigo 19.º-A com a seguinte redacção:\n\nArtigo 19.º-A\n\nEmbarcações de alta velocidade\n\nDe acordo com legislação específica, as embarcações nacionais podem ser classificadas como embarcações de alta velocidade, independentemente das actividades a que se destinam.\n\n2 - O artigo 108.º do Regulamento Geral das Capitanias, aprovado pelo Decreto-Lei n.º 265/72, de 31 de Julho, passa a ter a seguinte redacção:\n\nArtigo 108.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - À excepção das embarcações do Estado, qualquer embarcação de alta velocidade deve usar adicionalmente as iniciais indicativas EAV.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  },
+  "1051075654": {
+   "fragment_id": "1051481726",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 274/93 - Diário da República n.º 181/1993, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1993-369445), em vigor a partir de 1993-08-09"
+   ],
+   "markdown": "###### Artigo 16.º\n\nA qualificação de uma embarcação como EAV é da competência da Direcção-Geral de Portos, Navegação e Transportes Marítimos (DGPNTM).\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 274/93 - Diário da República n.º 181/1993, Série I-A de 1993-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1993-369445), em vigor a partir de 1993-08-09"
+  },
+  "1051075655": {
+   "fragment_id": "116979727",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Maio de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 13 de Julho de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Julho de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 43/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2026-1051282281), em vigor a partir de 2026-05-17"
+  }
+ }
+}

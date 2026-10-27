@@ -1,0 +1,787 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:558207:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-34536275",
+ "dre_path": "/dr/detalhe/lei/173-1999-558207",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47491075",
+    "47491175",
+    "47491275",
+    "47491375",
+    "47491475",
+    "47491575",
+    "47491675",
+    "47491775",
+    "47491875",
+    "47491975",
+    "47492075",
+    "47492175",
+    "47492275",
+    "47492375",
+    "47492475",
+    "47492575",
+    "47492675",
+    "47492775",
+    "47492875",
+    "47492975",
+    "47493075",
+    "47493175",
+    "47493275",
+    "47493375",
+    "47493475",
+    "47493575",
+    "47493675",
+    "47493775",
+    "47493875",
+    "47493975",
+    "47494075",
+    "47494175",
+    "47494275",
+    "47494375",
+    "47494475",
+    "47494575",
+    "47494675",
+    "47494775",
+    "47494875",
+    "47494975",
+    "47495075",
+    "47495175",
+    "47495275",
+    "47495375",
+    "47495475",
+    "47495575",
+    "47495675",
+    "47495775",
+    "47495875",
+    "47495975",
+    "47496075",
+    "47496175",
+    "47496275",
+    "47496375",
+    "47496475",
+    "47496575",
+    "47496675",
+    "47496775",
+    "47496875",
+    "47496975",
+    "47497075",
+    "47497175",
+    "47497275",
+    "47497375"
+   ]
+  },
+  {
+   "date": "2008-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:455127:por",
+     "title": "Decreto-Lei n.º 159/2008",
+     "published": "2008-08-08",
+     "dre_path": "/dr/detalhe/decreto-lei/159-2008-455127"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 43.º"
+   ],
+   "fragments": [
+    "47491075",
+    "47491175",
+    "47491275",
+    "47491375",
+    "47491475",
+    "47491575",
+    "47491675",
+    "47491775",
+    "47491875",
+    "47491975",
+    "47492075",
+    "47492175",
+    "47492275",
+    "47492375",
+    "47492475",
+    "47492575",
+    "47492675",
+    "47492775",
+    "47492875",
+    "47492975",
+    "47493075",
+    "47493175",
+    "47493275",
+    "47493375",
+    "47493475",
+    "47493575",
+    "47493675",
+    "47493775",
+    "47493875",
+    "47493975",
+    "47494075",
+    "47494175",
+    "47494275",
+    "47494375",
+    "47494475",
+    "47494575",
+    "47494675",
+    "47494775",
+    "47494875",
+    "47494975",
+    "47495075",
+    "47495175",
+    "47495275",
+    "47495375",
+    "47495475",
+    "47495575",
+    "47495675",
+    "47495775",
+    "47495875",
+    "47495975",
+    "47496075",
+    "107997365",
+    "47496275",
+    "47496375",
+    "47496475",
+    "47496575",
+    "47496675",
+    "47496775",
+    "47496875",
+    "47496975",
+    "47497075",
+    "47497175",
+    "47497275",
+    "47497375",
+    "47497875"
+   ]
+  },
+  {
+   "date": "2011-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:485605:por",
+     "title": "Decreto-Lei n.º 2/2011",
+     "published": "2011-01-06",
+     "dre_path": "/dr/detalhe/decreto-lei/2-2011-485605"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "47491075",
+    "47491175",
+    "47491275",
+    "47491375",
+    "47491475",
+    "47491575",
+    "47491675",
+    "47491775",
+    "47491875",
+    "47491975",
+    "47492075",
+    "47492175",
+    "47492275",
+    "47492375",
+    "47492475",
+    "47492575",
+    "47492675",
+    "47492775",
+    "47492875",
+    "107997366",
+    "47493075",
+    "47493175",
+    "47493275",
+    "47493375",
+    "47493475",
+    "47493575",
+    "47493675",
+    "47493775",
+    "47493875",
+    "47493975",
+    "47494075",
+    "47494175",
+    "47494275",
+    "47494375",
+    "47494475",
+    "47494575",
+    "47494675",
+    "47494775",
+    "47494875",
+    "47494975",
+    "47495075",
+    "47495175",
+    "47495275",
+    "47495375",
+    "47495475",
+    "47495575",
+    "47495675",
+    "47495775",
+    "47495875",
+    "47495975",
+    "47496075",
+    "107997365",
+    "47496275",
+    "47496375",
+    "47496475",
+    "47496575",
+    "47496675",
+    "47496775",
+    "47496875",
+    "47496975",
+    "47497075",
+    "47497175",
+    "47497275",
+    "47497375",
+    "47497875"
+   ]
+  }
+ ],
+ "fragments": {
+  "47491075": {
+   "fragment_id": "35156075",
+   "type": 15,
+   "heading": "Diploma — Lei de Bases Gerais da Caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "47491175": {
+   "fragment_id": "35603475",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e princípios"
+  },
+  "47491275": {
+   "fragment_id": "36990275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece as bases da gestão sustentada dos recursos cinegéticos, na qual se incluem a sua conservação e fomento, bem como os princípios reguladores da actividade cinegética e da administração da caça."
+  },
+  "47491375": {
+   "fragment_id": "36990375",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, considera-se:\n\na) Recursos cinegéticos - as aves e os mamíferos terrestres que se encontrem em estado de liberdade natural, quer os que sejam sedentários no território nacional quer os que migram através deste, ainda que provenientes de processos de reprodução em meios artificiais ou de cativeiro e que figurem na lista de espécies que seja publicada com vista à regulamentação da presente lei, considerando o seu valor cinegético e em conformidade com as convenções internacionais e as directivas comunitárias transpostas para a legislação portuguesa;\n\nb) Caça - a forma de exploração racional dos recursos cinegéticos;\n\nc) Exercício da caça ou acto venatório - todos os actos que visam capturar, vivo ou morto, qualquer exemplar de espécies cinegéticas que se encontre em estado de liberdade natural, nomeadamente a procura, a espera e a perseguição;\n\nd) Ordenamento cinegético - o conjunto de medidas a tomar e de acções a empreender nos domínios da conservação, fomento e exploração racional dos recursos cinegéticos, com vista a obter a produção óptima e sustentada, compatível com as potencialidades do meio, de harmonia com os limites impostos pelos condicionalismos ecológicos, económicos, sociais e culturais e no respeito pelas convenções internacionais e as directivas comunitárias transpostas para a legislação portuguesa;\n\ne) Terrenos cinegéticos - aqueles onde é permitida a caça, incluindo as áreas de jurisdição marítima e as águas interiores;\n\nf) Áreas classificadas - áreas de particular interesse para a conservação da natureza, onde o exercício da caça poderá ser sujeito a restrições ou condicionamentos, a regular;\n\ng) Terrenos não cinegéticos - aqueles onde não é permitida a caça;\n\nh) Direito à não caça - faculdade dos proprietários ou usufrutuários e arrendatários, neste caso quando o contrato de arrendamento rural inclua a gestão cinegética, de requererem, por períodos renováveis, a proibição da caça nos seus terrenos;\n\ni) Áreas de protecção - áreas onde a caça possa vir a causar perigo para a vida, saúde ou tranquilidade das pessoas ou constitua risco de danos para os bens;\n\nj) Áreas de refúgio - áreas destinadas a assegurar a conservação ou fomento das espécies cinegéticas, justificando-se a ausência total ou parcial do exercício da caça, ou locais cujos interesses específicos da conservação da natureza justifiquem interditar a caça;\n\nl) Campos de treino de caça - áreas destinadas à prática, durante todo o ano, de actividades de carácter venatório, nomeadamente o exercício de tiro e de treino de cães de caça, a realização de provas de cães de parar e de provas de Santo Huberto, sobre espécies cinegéticas produzidas em cativeiro, nos termos a regular;\n\nm) Jornada de caça - é, em princípio, o período que decorre entre o nascer e o pôr do Sol."
+  },
+  "47491475": {
+   "fragment_id": "36990475",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios gerais\n\nA política cinegética nacional obedece aos seguintes princípios:\n\na) Os recursos cinegéticos constituem um património natural renovável, susceptível de uma gestão optimizada e de um uso racional, conducentes a uma produção sustentada, no respeito pelos princípios da conservação da natureza e dos equilíbrios biológicos, em harmonia com as restantes formas de exploração da terra;\n\nb) A exploração ordenada dos recursos cinegéticos, através do exercício da caça, constitui um factor de riqueza nacional, de desenvolvimento regional e local, de apoio e valorização do mundo rural, podendo constituir um uso dominante em terrenos marginais para a floresta e agricultura;\n\nc) A exploração dos recursos cinegéticos é de interesse nacional, devendo ser ordenada em todo o território;\n\nd) O ordenamento dos recursos cinegéticos deve obedecer aos princípios da sustentabilidade e da conservação da diversidade biológica e genética, no respeito pelas normas nacionais ou internacionais que a eles se apliquem;\n\ne) É reconhecido o direito à não caça, entendido como a faculdade dos proprietários ou usufrutuários e arrendatários, neste caso quando o contrato de arrendamento rural inclua a gestão cinegética, requererem, em condições a regular, a proibição da caça nos seus terrenos, desde que, designadamente, não sejam titulares de carta de caçador e não façam valer os direitos de propriedade, de usufruto ou de arrendamento de que sejam titulares para fins venatórios ou por forma a inviabilizar zonas de caça já estabelecidas no respectivo território;\n\nf) Dentro dos limites da lei, todos têm a faculdade de caçar, salvaguardados os condicionalismos relativos à protecção e conservação das espécies cinegéticas;\n\ng) São propriedade do caçador os exemplares de espécies cinegéticas por ele legalmente capturados, excepto quando for diferentemente regulado."
+  },
+  "47491575": {
+   "fragment_id": "36990575",
+   "type": 11,
+   "heading": "Artigo 4.º — Tarefas do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tarefas do Estado\n\nPara a prossecução dos princípios da política cinegética nacional cabe ao Estado:\n\na) Zelar pela conservação dos recursos cinegéticos e incentivar a sua gestão sustentada;\n\nb) Definir as normas reguladoras da exploração racional dos recursos cinegéticos e o exercício da caça;\n\nc) Consultar os diferentes grupos sociais, profissionais e sócio-económicos com interesses no sector, com vista à definição e concretização da política cinegética nacional;\n\nd) Promover e incentivar a participação, no ordenamento cinegético, das associações de caçadores, de agricultores, de defesa do ambiente, de produtores florestais, autarquias e outras entidades interessadas na conservação, fomento e usufruto dos recursos cinegéticos, sem prejuízo de direitos reais e pessoais estabelecidos por lei e relacionados com o exercício da caça."
+  },
+  "47491675": {
+   "fragment_id": "35603575",
+   "type": 1,
+   "heading": "Capítulo II — Conservação das espécies cinegéticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Conservação das espécies cinegéticas"
+  },
+  "47491775": {
+   "fragment_id": "36990675",
+   "type": 11,
+   "heading": "Artigo 5.º — Normas de conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Normas de conservação\n\nAs normas para a conservação das espécies cinegéticas devem contemplar:\n\na) Medidas que visem assegurar a preservação do potencial biológico das espécies cinegéticas e a manutenção da biodiversidade e dos equilíbrios biológicos do meio;\n\nb) Princípios de utilização racional do ponto de vista ecológico das populações das espécies cinegéticas;\n\nc) Medidas que visem respeitar os diferentes estádios de reprodução e de dependência das espécies cinegéticas;\n\nd) Em particular, para as espécies cinegéticas migradoras, medidas que visem respeitar o período de reprodução e de retorno."
+  },
+  "47491875": {
+   "fragment_id": "36990775",
+   "type": 11,
+   "heading": "Artigo 6.º — Preservação da fauna e das espécies cinegéticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Preservação da fauna e das espécies cinegéticas\n\n1 - Tendo em vista a conservação da fauna e, em especial, das espécies cinegéticas, é proibido:\n\na) Capturar ou destruir ninhos, covas e luras, ovos e crias de qualquer espécie, salvo nas condições previstas na lei;\n\nb) Caçar espécies não cinegéticas;\n\nc) Caçar espécies cinegéticas que não constem das listas de espécies que podem ser objecto de caça ou fora dos respectivos períodos de caça, das jornadas de caça e em dias em que a caça não seja permitida ou por processos e meios não autorizados ou indevidamente utilizados;\n\nd) Ultrapassar as limitações e quantitativos de captura estabelecidos;\n\ne) Caçar nas queimadas, áreas percorridas por incêndios e terrenos com elas confinantes, numa faixa de 250 m, enquanto durar o incêndio e nos 30 dias seguintes;\n\nf) Caçar nos terrenos cobertos de neve, excepto nos casos previstos em regulamento;\n\ng) Caçar nos terrenos que durante inundações fiquem completamente cercados de água e nos 250 m adjacentes à linha mais avançada das inundações, enquanto estas durarem e nos 30 dias seguintes, excepto nos casos previstos em regulamento;\n\nh) Abandonar os animais que auxiliam e acompanham o caçador no exercício da caça.\n\n2 - Para fins didácticos ou científicos, o Governo pode autorizar a captura de exemplares de espécies cinegéticas cuja caça esteja proibida, em áreas e períodos a determinar."
+  },
+  "47491975": {
+   "fragment_id": "36990875",
+   "type": 11,
+   "heading": "Artigo 7.º — Áreas de refúgio de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Áreas de refúgio de caça\n\n1 - A fim de assegurar a protecção de espécies não cinegéticas e a conservação ou fomento das espécies cinegéticas o Governo pode criar áreas de refúgio de caça.\n\n2 - Nas áreas de refúgio de caça o Governo pode proibir, total ou parcialmente, qualquer actividade que prejudique ou possa perturbar as espécies cinegéticas ou não cinegéticas, compensando os respectivos prejuízos, em termos a regulamentar em diploma próprio."
+  },
+  "47492075": {
+   "fragment_id": "36990975",
+   "type": 11,
+   "heading": "Artigo 8.º — Período venatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Período venatório\n\n1 - A caça só pode ser exercida durante os períodos fixados para cada espécie.\n\n2 - Os períodos venatórios devem atender aos ciclos reprodutivos das espécies cinegéticas sedentárias e, quanto às espécies migradoras, às épocas e à natureza das migrações."
+  },
+  "47492175": {
+   "fragment_id": "36991075",
+   "type": 11,
+   "heading": "Artigo 9.º — Repovoamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Repovoamentos\n\n1 - Para efeitos de actividade cinegética, só é permitido fazer repovoamentos com espécies cinegéticas.\n\n2 - Nas acções de repovoamento deve ser garantido o bom estado sanitário dos exemplares utilizados, bem como a pureza genética das populações de onde são provenientes."
+  },
+  "47492275": {
+   "fragment_id": "36991175",
+   "type": 11,
+   "heading": "Artigo 10.º — Detenção, criação, comércio, transporte e exposição de espécies cinegéticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Detenção, criação, comércio, transporte e exposição de espécies cinegéticas\n\n1 - Os regimes de detenção, comércio, transporte e exposição ao público de espécies cinegéticas, troféus ou exemplares embalsamados são definidos em diploma próprio.\n\n2 - É proibida a comercialização de espécies cinegéticas fora dos respectivos períodos venatórios, excepto quando produzidas em cativeiro e noutros casos a regular."
+  },
+  "47492375": {
+   "fragment_id": "36991275",
+   "type": 11,
+   "heading": "Artigo 11.º — Importação e exportação de espécies cinegéticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Importação e exportação de espécies cinegéticas\n\nA importação ou a exportação de exemplares, vivos ou mortos, de espécies cinegéticas abrangidas pela Convenção sobre o Comércio Internacional das Espécies da Fauna e da Flora Selvagens Ameaçados de Extinção (CITES) não pode ser efectuada sem prévia autorização das entidades oficiais competentes."
+  },
+  "47492475": {
+   "fragment_id": "35603675",
+   "type": 1,
+   "heading": "Capítulo III — Gestão e ordenamento dos recursos cinegéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Gestão e ordenamento dos recursos cinegéticos"
+  },
+  "47492575": {
+   "fragment_id": "36991375",
+   "type": 11,
+   "heading": "Artigo 12.º — Gestão dos recursos cinegéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Gestão dos recursos cinegéticos\n\nA gestão dos recursos cinegéticos compete ao Estado, podendo ser transferida ou concessionada nos termos da presente lei."
+  },
+  "47492675": {
+   "fragment_id": "36991475",
+   "type": 11,
+   "heading": "Artigo 13.º — Normas de ordenamento cinegético",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Normas de ordenamento cinegético\n\nAs normas de ordenamento cinegético devem contemplar:\n\na) Áreas mínimas de gestão viável dos recursos cinegéticos, que assegurem a conservação, fomento e exploração racional das espécies cinegéticas em moldes sustentáveis, em conformidade com a sua aptidão cinegética predominante e os objectivos que prosseguem;\n\nb) A existência de planos de gestão e exploração cinegética e de planos globais de gestão e exploração obrigatórios, quando várias zonas constituam uma unidade biológica para determinada população cinegética;\n\nc) A existência de planos de gestão e exploração cinegética específicos, quando se verifiquem importantes concentrações ou passagens de aves migradoras;\n\nd) Orientações contidas nas directivas comunitárias ou nas convenções internacionais subscritas pelo Estado Português."
+  },
+  "47492775": {
+   "fragment_id": "36991575",
+   "type": 11,
+   "heading": "Artigo 14.º — Zonas de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Zonas de caça\n\n1 - As zonas de caça, a constituir de acordo com as normas referidas no artigo anterior, podem prosseguir, designadamente, objectivos da seguinte natureza:\n\na) De interesse nacional, a constituir em áreas que, dadas as suas características físicas e biológicas, permitam a formação de núcleos de potencialidades cinegéticas a preservar ou em áreas que, por motivos de segurança, justifiquem ser o Estado o único responsável pela sua administração;\n\nb) De interesse municipal, a constituir para proporcionar o exercício organizado da caça a um número maximizado de caçadores em condições especialmente acessíveis;\n\nc) De interesse turístico, a constituir por forma a privilegiar o aproveitamento económico dos recursos cinegéticos, garantindo a prestação dos serviços turísticos adequados;\n\nd) De interesse associativo, a constituir por forma a privilegiar o incremento e manutenção do associativismo dos caçadores, conferindo-lhes, assim, a possibilidade de exercerem a gestão cinegética.\n\n2 - O Estado pode transferir para as associações e federações de caçadores, associações de agricultores, de produtores florestais, de defesa do ambiente, autarquias locais ou para outras entidades colectivas integradas por estas:\n\na) A gestão das zonas de caça de interesse nacional;\n\nb) A gestão das áreas referidas a terrenos cinegéticos não ordenados, com vista à constituição de zonas de caça de interesse municipal.\n\n3 - A concessão das zonas de caça constituídas ao abrigo dos objectivos definidos nas alíneas c) e d) do n.º 1 está sujeita ao pagamento de taxas.\n\n4 - O montante das taxas referidas no número anterior é reduzido para metade quando se trate de zonas de caça constituídas ao abrigo dos objectivos definidos na alínea d) do n.º 1.\n\n5 - O exercício da caça nas zonas de caça de interesse nacional ou municipal está sujeito ao pagamento de taxas."
+  },
+  "47492875": {
+   "fragment_id": "36991675",
+   "type": 11,
+   "heading": "Artigo 15.º — Prioridades e limitações dos diversos tipos de zonas de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Prioridades e limitações dos diversos tipos de zonas de caça\n\n1 - Ao Governo, ouvido o Conselho Nacional da Caça e da Conservação da Fauna e, quando for caso disso, os conselhos cinegéticos e da conservação da fauna regionais e municipais, compete:\n\na) Definir prioridades quanto aos tipos de zonas de caça a constituir em cada município ou região cinegética;\n\nb) Estabelecer áreas máximas e mínimas para cada tipo de zona de caça.\n\n2 - A área global abrangida por zonas de caça que não sejam de interesse nacional ou municipal não pode exceder mais de 50% da área total dos respectivos municípios, exceptuando as situações existentes à data da entrada em vigor da presente lei.\n\n3 - A percentagem referida no número anterior pode, excepcionalmente, ser reduzida ou aumentada por decisão do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ouvidos os conselhos cinegéticos e da conservação da fauna respectivos."
+  },
+  "47492975": {
+   "fragment_id": "36991775",
+   "type": 11,
+   "heading": "Artigo 16.º — Criação das zonas de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Criação das zonas de caça\n\n1 - As zonas de caça são criadas pelo Governo através de portaria, que, nos casos de zonas de interesse turístico e associativo, estabelece os termos da concessão.\n\n2 - O estabelecimento de zonas de caça mediante concessão carece de acordo prévio escrito dos proprietários ou usufrutuários dos terrenos a integrar e dos arrendatários de prédios rústicos, cujo contrato inclua a exploração cinegética, quando os houver.\n\n3 - As zonas de caça são criadas por períodos renováveis, em termos a regular.\n\n4 - Quando seja declarada a perda do direito de exploração de zona de caça, o Governo poderá incluí-la numa zona de interesse nacional ou municipal ou determinar a sua passagem a área de refúgio de caça, em termos a regular.\n\n5 - As zonas de caça estabelecidas mediante concessão são constituídas por um prazo mínimo de seis anos."
+  },
+  "47493075": {
+   "fragment_id": "36991875",
+   "type": 11,
+   "heading": "Artigo 17.º — Acesso às zonas de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acesso às zonas de caça\n\n1 - Às zonas de caça de interesse nacional ou municipal têm acesso todos os caçadores.\n\n2 - Às zonas de caça referidas no número anterior têm acesso, por ordem de prioridade e segundo critérios de proporcionalidade a regular:\n\na) Os proprietários, usufrutuários e arrendatários dos terrenos nelas inseridos, bem como os caçadores que integram os respectivos órgãos de gestão;\n\nb) Os caçadores residentes nos municípios onde as mesmas se situam, não associados em zonas de caça integradas na mesma região cinegética;\n\nc) Os caçadores não residentes nos municípios onde as mesmas se situam, não associados em zonas de caça integradas na mesma região cinegética;\n\nd) Os demais caçadores.\n\n3 - Às zonas de caça de interesse turístico têm acesso todos os caçadores, de acordo com as normas gerais de exploração da actividade turística.\n\n4 - Às zonas de caça de interesse associativo têm acesso os respectivos associados e os seus convidados."
+  },
+  "47493175": {
+   "fragment_id": "36991975",
+   "type": 11,
+   "heading": "Artigo 18.º — Terrenos de caça condicionada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Terrenos de caça condicionada\n\n1 - É proibido caçar, sem o consentimento de quem de direito, nos terrenos murados, nos quintais, parques ou jardins anexos a casas de habitação e, bem assim, em quaisquer terrenos que circundem estas, numa faixa de protecção a regular.\n\n2 - É proibido caçar nos terrenos ocupados com culturas agrícolas ou florestais, durante determinados períodos do seu ciclo vegetativo, quando seja necessário proteger aquelas culturas e respectivas produções e para tal tenham sido sinalizadas nos termos da lei."
+  },
+  "47493275": {
+   "fragment_id": "36992075",
+   "type": 11,
+   "heading": "Artigo 19.º — Terrenos não cinegéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Terrenos não cinegéticos\n\n1 - Constituem terrenos não cinegéticos as áreas de protecção, as áreas de refúgio e os campos de treino, bem como as zonas interditas à caça integradas nas áreas classificadas.\n\n2 - Constituem áreas de protecção, designadamente, os seguintes locais:\n\na) Povoados, terrenos adjacentes de hospitais, escolas, lares de idosos, instalações militares, estações radioeléctricas, faróis, instalações turísticas, parques de campismo e desportivos, instalações industriais e de criação animal, estradas nacionais, linhas de caminho de ferro e praias de banho, bem como quaisquer terrenos que os circundem, numa faixa de protecção a regulamentar;\n\nb) Aeródromos e estradas secundárias;\n\nc) Aparcamentos de gado."
+  },
+  "47493375": {
+   "fragment_id": "35603775",
+   "type": 1,
+   "heading": "Capítulo IV — Exercício da caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Exercício da caça"
+  },
+  "47493475": {
+   "fragment_id": "36992175",
+   "type": 11,
+   "heading": "Artigo 20.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Requisitos\n\n1 - Só é permitido caçar aos indivíduos com mais de 16 anos, detentores de carta de caçador e que estiverem munidos da necessária licença de caça e demais documentos legalmente exigidos.\n\n2 - Para além da carta de caçador, o menor necessita de autorização escrita da pessoa que legalmente o represente."
+  },
+  "47493575": {
+   "fragment_id": "36992275",
+   "type": 11,
+   "heading": "Artigo 21.º — Carta de caçador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Carta de caçador\n\n1 - A obtenção da carta de caçador fica dependente de exame, sujeito ao pagamento de taxa, a realizar pelo candidato perante os serviços competentes do Estado e representantes das associações de caçadores e de defesa do ambiente, nos termos a definir, e destinado a apurar se o interessado possui a aptidão e conhecimentos necessários para o exercício da caça.\n\n2 - São condições para requerer a carta de caçador:\n\na) Ser maior de 16 anos;\n\nb) Não ser portador de anomalia psíquica ou de deficiência orgânica ou fisiológica que torne perigoso o exercício da caça;\n\nc) Não estar sujeito a proibição de caçar por disposição legal ou decisão judicial.\n\n3 - A proibição do exercício da caça por anomalia psíquica ou deficiência orgânica ou fisiológica poderá ser limitada apenas à caça com emprego de armas de fogo, arco ou besta.\n\n4 - A carta de caçador está sujeita a taxa.\n\n5 - A carta de caçador tem validade temporal e caduca sempre que os respectivos titulares sejam condenados por crime de caça."
+  },
+  "47493675": {
+   "fragment_id": "36992375",
+   "type": 11,
+   "heading": "Artigo 22.º — Dispensa da carta de caçador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Dispensa da carta de caçador\n\n1 - São dispensados da carta de caçador:\n\na) Os membros do corpo diplomático e consular acreditados em Portugal;\n\nb) Os estrangeiros não residentes em território português, desde que estejam habilitados a caçar no país da sua nacionalidade ou residência;\n\nc) Os portugueses não residentes em território português, desde que estejam habilitados a caçar no país da sua residência.\n\n2 - Nos casos referidos no número anterior, o exercício da caça fica sujeito à obtenção de licença especial.\n\n3 - É condicionada ao regime de reciprocidade a dispensa concedida aos membros do corpo diplomático e consular acreditados em Portugal e aos estrangeiros não residentes em território português.\n\n4 - Não podem beneficiar do disposto no n.º 1 os indivíduos condenados por infracção às normas legais sobre o exercício da caça."
+  },
+  "47493775": {
+   "fragment_id": "36992475",
+   "type": 11,
+   "heading": "Artigo 23.º — Licenças de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Licenças de caça\n\n1 - As licenças de caça têm validade temporal e territorial.\n\n2 - Podem ser estabelecidas licenças de caça para diferentes meios, processos e espécies cinegéticas.\n\n3 - As licenças de caça estão sujeitas ao pagamento de taxas."
+  },
+  "47493875": {
+   "fragment_id": "36992575",
+   "type": 11,
+   "heading": "Artigo 24.º — Auxiliares dos caçadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Auxiliares dos caçadores\n\n1 - Os caçadores podem ser ajudados por auxiliares com a função de transportar equipamentos, mantimentos, munições ou caça abatida.\n\n2 - Em casos especialmente autorizados, poderão os caçadores ser ajudados por auxiliares com a função de procurar, chamar, perseguir e levantar a caça."
+  },
+  "47493975": {
+   "fragment_id": "36992675",
+   "type": 11,
+   "heading": "Artigo 25.º — Seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Seguro de responsabilidade civil\n\n1 - Para o exercício da caça os caçadores têm de ser detentores de seguro obrigatório de responsabilidade civil por danos causados a terceiros.\n\n2 - As entidades responsáveis pela organização de actividades de carácter venatório, nomeadamente montarias, batidas e largadas, são obrigadas a deter seguro de responsabilidade civil por danos causados a terceiros."
+  },
+  "47494075": {
+   "fragment_id": "36992775",
+   "type": 11,
+   "heading": "Artigo 26.º — Processos e meios de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Processos e meios de caça\n\n1 - A caça só pode ser exercida pelos processos e meios permitidos.\n\n2 - A detenção, uso e transporte de furões só são permitidos aos serviços competentes do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas e às entidades gestoras de caça, para efeitos de ordenamento de populações de coelho-bravo ou da sua caça, quando autorizadas.\n\n3 - É obrigatório o registo dos furões nos serviços competentes do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "47494175": {
+   "fragment_id": "35603875",
+   "type": 1,
+   "heading": "Capítulo V — Espécies cinegéticas em cativeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Espécies cinegéticas em cativeiro"
+  },
+  "47494275": {
+   "fragment_id": "36992875",
+   "type": 11,
+   "heading": "Artigo 27.º — Espécies cinegéticas em cativeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Espécies cinegéticas em cativeiro\n\n1 - Pode proceder-se à reprodução, criação e detenção de espécies cinegéticas em cativeiro, designadamente para repovoamento, produção de peles, consumo alimentar ou utilização em campos de treino de caça.\n\n2 - As actividades referidas no número anterior carecem de atribuição de alvará sujeito ao pagamento de taxa, podendo beneficiar de redução os casos de pequenas quantidades com objectivos de estudo, colecção ou treino de cães."
+  },
+  "47494375": {
+   "fragment_id": "35603975",
+   "type": 1,
+   "heading": "Capítulo VI — Responsabilidade criminal, contra-ordenacional e civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Responsabilidade criminal, contra-ordenacional e civil"
+  },
+  "47494475": {
+   "fragment_id": "36992975",
+   "type": 11,
+   "heading": "Artigo 28.º — Exercício perigoso da caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Exercício perigoso da caça\n\n1 - Quem, no exercício da caça, não estando em condições de o fazer com segurança por se encontrar em estado de embriaguez ou sob a influência de álcool, estupefacientes, substâncias psicotrópicas ou produtos com efeito análogo ou por deficiência física ou psíquica, criar deste modo perigo para a vida ou para a integridade física de outrem ou para bens patrimoniais alheios de valor elevado é punido com pena de prisão até 3 anos ou com pena de multa até 360 dias.\n\n2 - Se o perigo referido no número anterior for criado por negligência, o agente é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.\n\n3 - Se a conduta referida no n.º 1 for praticada por negligência, o agente é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias."
+  },
+  "47494575": {
+   "fragment_id": "36993075",
+   "type": 11,
+   "heading": "Artigo 29.º — Exercício da caça sob influência de álcool",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Exercício da caça sob influência de álcool\n\nQuem, no exercício da caça, apresentar uma taxa de álcool no sangue igual ou superior a 1,2 g/l é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias, se pena mais grave não for aplicável."
+  },
+  "47494675": {
+   "fragment_id": "36993175",
+   "type": 11,
+   "heading": "Artigo 30.º — Crimes contra a preservação da fauna e das espécies cinegéticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Crimes contra a preservação da fauna e das espécies cinegéticas\n\n1 - A infracção ao disposto no n.º 1 do artigo 6.º do presente diploma é punida com pena de prisão até 6 meses ou com pena de multa até 100 dias.\n\n2 - Na mesma pena incorre quem exercer a caça em terrenos não cinegéticos, nos terrenos de caça condicionada sem consentimento de quem de direito, nas áreas de não caça e nas zonas de caça às quais não se tenha legalmente acesso."
+  },
+  "47494775": {
+   "fragment_id": "36993275",
+   "type": 11,
+   "heading": "Artigo 31.º — Violação de meios e processos permitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Violação de meios e processos permitidos\n\n1 - A utilização dos auxiliares referidos no n.º 2 do artigo 24.º do presente diploma, fora das condições nele previstas, é punida com a pena de prisão até 6 meses ou com pena de multa até 100 dias.\n\n2 - Na mesma pena incorre quem detiver, transportar e usar furão fora dos casos previstos no n.º 2 do artigo 26.º deste diploma."
+  },
+  "47494875": {
+   "fragment_id": "36993375",
+   "type": 11,
+   "heading": "Artigo 32.º — Falta de habilitação para o exercício da caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Falta de habilitação para o exercício da caça\n\nQuem exercer a caça sem estar habilitado com a carta de caçador, quando exigida, é punido com pena de prisão até 3 meses ou com pena de multa até 90 dias."
+  },
+  "47494975": {
+   "fragment_id": "36993475",
+   "type": 11,
+   "heading": "Artigo 33.º — Desobediência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Desobediência\n\n1 - A recusa do caçador em descarregar a arma, colocá-la no chão e afastar-se 10 m do local onde a mesma fica colocada, quando tal lhe seja ordenado pelos agentes fiscalizadores, nos termos a regular e quando do acto da fiscalização, é punida com a pena correspondente ao crime de desobediência simples.\n\n2 - A violação da interdição do direito de caçar é punível com a pena correspondente ao crime de desobediência qualificada."
+  },
+  "47495075": {
+   "fragment_id": "36993575",
+   "type": 11,
+   "heading": "Artigo 34.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Contra-ordenações\n\n1 - Constituem contra-ordenações de caça:\n\na) O facto descrito no artigo 29.º, quando o infractor apresentar uma taxa de álcool no sangue inferior a 1,2 g/l e igual ou superior a 0,5 g/l;\n\nb) A infracção ao disposto no n.º 2 do artigo 20.º;\n\nc) A infracção ao disposto no artigo 25.º;\n\nd) O não cumprimento, pelas entidades gestoras da caça, dos planos de gestão, ordenamento e exploração.\n\n2 - As contra-ordenações previstas no número anterior são punidas com as seguintes coimas:\n\na) De 30000$00 a 150000$00 no caso da alínea a), quando a taxa de álcool no sangue for igual ou superior a 0, 8 g/l;\n\nb) De 15000$00 a 75000$00 no caso da alínea a), quando a taxa de álcool no sangue for igual ou superior a 0,5 g/l;\n\nc) De 5000$00 a 750000$00 no caso das alíneas b), c) e d), sendo de 9000000$00 o montante máximo da coima aplicável às pessoas colectivas.\n\n3 - A tentativa e a negligência são puníveis com a coima aplicável à contra-ordenação consumada especialmente atenuada."
+  },
+  "47495175": {
+   "fragment_id": "36993675",
+   "type": 11,
+   "heading": "Artigo 35.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Sanções acessórias\n\n1 - A condenação por qualquer crime ou contra-ordenação previstos nesta lei pode implicar ainda a interdição do direito de caçar e a perda dos instrumentos e produtos da infracção a favor do Estado.\n\n2 - A interdição do direito de caçar pode ter a duração de três a cinco anos.\n\n3 - A perda dos instrumentos da infracção envolve a perda das armas e dos veículos que serviram à prática daquela.\n\n4 - A suspensão da pena, quando decretada, não abrange a interdição do direito de caçar e poderá não abranger a perda dos instrumentos e produtos da infracção.\n\n5 - As infracções à presente lei, quando praticadas em zonas de caça, poderão fazer perder ao caçador o direito de caçar na zona respectiva.\n\n6 - As infracções cometidas pelas entidades gestoras das zonas de caça, incluindo o não cumprimento das normas ou planos de gestão, poderão acarretar a perda do direito de exploração da mesma.\n\n7 - O não cumprimento dos planos de ordenamento e exploração por parte das entidades que explorem zonas de caça pode também ser punido com perda da concessão da zona respectiva.\n\n8 - Qualquer infractor condenado por crime previsto nesta lei pode ser inibido, pelo período de três a cinco anos, de representar, gerir ou fazer parte dos órgãos sociais de entidade concessionária de zona de caça."
+  },
+  "47495275": {
+   "fragment_id": "36993775",
+   "type": 11,
+   "heading": "Artigo 36.º — Pagamento voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Pagamento voluntário\n\n1 - O infractor tem a possibilidade de efectuar o pagamento voluntário da coima, pelo montante mínimo aplicável, no acto de verificação da contra-ordenação e do levantamento do auto de notícia.\n\n2 - Se o infractor for não residente em Portugal e não proceder ao pagamento voluntário da coima, nos termos do número anterior, deve efectuar o depósito de quantia igual ao valor máximo da coima prevista para a contra-ordenação praticada, destinando-se tal depósito a garantir o pagamento da coima em que o infractor possa vir a ser condenado, bem como das custas a que houver lugar.\n\n3 - A falta do depósito referido no número anterior implica a apreensão dos objectos que serviram à prática da contra-ordenação, apreensão que se manterá até à efectivação do depósito, ao pagamento da coima ou à decisão absolutória.\n\n4 - Os objectos apreendidos garantem, nos mesmos termos do depósito, o pagamento das quantias devidas."
+  },
+  "47495375": {
+   "fragment_id": "36993875",
+   "type": 11,
+   "heading": "Artigo 37.º — Responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Responsabilidade civil\n\n1 - É aplicável aos danos causados no exercício da caça o disposto no n.º 2 do artigo 493.º do Código Civil.\n\n2 - As entidades gestoras de zonas de caça, de instalações de espécies cinegéticas em cativeiro ou de campos de treino são obrigadas a indemnizar os danos que o exercício daquelas actividades cause nos respectivos terrenos e terrenos vizinhos.\n\n3 - O disposto no número anterior aplica-se, com as devidas adaptações, às zonas de não caça."
+  },
+  "47495475": {
+   "fragment_id": "35604075",
+   "type": 1,
+   "heading": "Capítulo VII — Administração, fiscalização da caça e receitas do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Administração, fiscalização da caça e receitas do Estado"
+  },
+  "47495575": {
+   "fragment_id": "36993975",
+   "type": 11,
+   "heading": "Artigo 38.º — Competência do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competência do Governo\n\n1 - Compete ao Governo definir a política cinegética nacional, ouvido o Conselho Nacional da Caça e da Conservação da Fauna.\n\n2 - Compete ainda ao Governo:\n\na) Assegurar a gestão dos recursos cinegéticos nacionais;\n\nb) Promover a aplicação das medidas e a execução das acções necessárias à concretização daquela política;\n\nc) Estabelecer os critérios gerais de ordenamento e exploração cinegéticos, consoante as espécies e as circunstâncias de tempo e de lugar;\n\nd) Criar e definir regiões cinegéticas;\n\ne) Organizar a lista ou listas das espécies que podem ser objecto de caça;\n\nf) Fixar os locais onde pode ser exercida a caça;\n\ng) Estabelecer as épocas de caça para cada espécie e local, os processos e meios de caça e definir as respectivas regras de utilização;\n\nh) Definir os critérios de prioridade e limitações dos diversos tipos de zonas de caça;\n\ni) Definir as normas de atribuição de carta de caçador, da realização dos respectivos exames e emitir as mesmas;\n\nj) Licenciar o exercício da caça;\n\nl) Definir as regras e métodos de detecção de álcool em quem se encontre no exercício da caça;\n\nm) Definir as normas de constituição, competências e funcionamento do Conselho Nacional da Caça e da Conservação da Fauna e dos conselhos cinegéticos e da conservação da fauna municipais;\n\nn) Estabelecer taxas relacionadas com a actividade cinegética e fixar ou reduzir, em condições especiais, os respectivos montantes;\n\no) Isentar do pagamento de taxas as zonas de caça, cujo contributo seja reconhecido pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, de interesse relevante para o desenvolvimento rural ou para a conservação dos recursos cinegéticos;\n\np) Criar áreas de refúgio de caça;\n\nq) Promover e apoiar a participação da sociedade civil na definição e concretização da política cinegética;\n\nr) Incentivar e promover a investigação científica no domínio das matérias relacionadas com a actividade cinegética;\n\ns) Promover e apoiar acções de sensibilização e formação dos intervenientes na actividade cinegética;\n\nt) Arrecadar as receitas provenientes da execução da legislação relativa à caça e as demais que lhe sejam atribuídas."
+  },
+  "47495675": {
+   "fragment_id": "36994075",
+   "type": 11,
+   "heading": "Artigo 39.º — Competência dos serviços dos Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Competência dos serviços dos Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente\n\n1 - Compete ao Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, através dos serviços competentes:\n\na) Gerir directamente os recursos cinegéticos, transferir funções de gestão desses recursos para outras entidades públicas ou privadas ou conceder a sua exploração a associações de caçadores, a empresas que tenham por objecto a exploração da actividade turística e a empresários agrícolas ou florestais;\n\nb) Apoiar e estimular o ordenamento dos recursos cinegéticos e promover o seu fomento;\n\nc) Regular a actividade cinegética nas matérias que, por diploma legal, lhe sejam cometidas e proceder à fiscalização da caça;\n\nd) Garantir o licenciamento da caça, criar e manter actualizado o cadastro nacional de caçadores e dos recursos respeitantes à actividade cinegética;\n\ne) Apoiar a organização associativa dos caçadores, dos agricultores e dos produtores florestais e formas de cooperação entre eles, com vista à protecção, conservação, fomento e exploração racional dos recursos cinegéticos;\n\nf) Assegurar ou participar na representação nacional em organismos e reuniões internacionais de interesse cinegético.\n\n2 - Nas áreas classificadas, compete ao Ministério do Ambiente, ouvido o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, definir os locais onde não é permitido o acto venatório, bem como exercer, conjuntamente com o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, as demais competências mencionadas no número anterior."
+  },
+  "47495775": {
+   "fragment_id": "36994175",
+   "type": 11,
+   "heading": "Artigo 40.º — Fiscalização da caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Fiscalização da caça\n\n1 - O policiamento e a fiscalização da caça competem ao Corpo Nacional da Guarda Florestal, à Guarda Nacional Republicana, à Polícia de Segurança Pública, aos guardas florestais auxiliares, nos termos das suas competências, bem como às autoridades a quem venham a ser atribuídas essas competências.\n\n2 - Nos autos de notícia dos agentes de autoridade referidos no número anterior, por contra-ordenações que tenham presenciado relativas àquela matéria, é dispensada a indicação de testemunhas sempre que as circunstâncias do facto a tornem impossível, sem prejuízo de fazerem fé até prova em contrário.\n\n3 - Os agentes de autoridade aos quais compete a polícia e fiscalização da caça não poderão caçar durante o exercício das suas funções."
+  },
+  "47495875": {
+   "fragment_id": "36994275",
+   "type": 11,
+   "heading": "Artigo 41.º — Receitas do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Receitas do Estado\n\nConstituem receitas do Estado:\n\na) O produto das licenças e taxas provenientes da execução da presente lei;\n\nb) O produto das coimas por infracção das disposições da presente lei e seus regulamentos;\n\nc) O produto da venda dos instrumentos das infracções da presente lei, quando seja declarada a sua perda ou quando abandonados pelo infractor."
+  },
+  "47495975": {
+   "fragment_id": "35604175",
+   "type": 1,
+   "heading": "Capítulo VIII — Participação da sociedade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Participação da sociedade civil"
+  },
+  "47496075": {
+   "fragment_id": "36994375",
+   "type": 11,
+   "heading": "Artigo 42.º — Participação da sociedade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Participação da sociedade civil\n\n1 - A participação da sociedade civil na política cinegética efectiva-se, designadamente, nos órgãos previstos nos artigos seguintes.\n\n2 - Na constituição dos órgãos referidos no número anterior será dada preferência às associações cujo âmbito territorial mais se aproxime, a cada nível, do modelo territorial proposto nos artigos 43.º e 44.º"
+  },
+  "47496175": {
+   "fragment_id": "36994475",
+   "type": 11,
+   "heading": "Artigo 43.º — Conselho Nacional da Caça e da Conservação da Fauna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Conselho Nacional da Caça e da Conservação da Fauna\n\nÉ criado junto do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas o Conselho Nacional da Caça e da Conservação da Fauna, com funções consultivas do Governo, nomeadamente no que se refere a:\n\na) Política cinegética nacional;\n\nb) Gestão adequada do capital cinegético em função da capacidade de suporte do meio;\n\nc) Exercício da caça;\n\nd) Emissão de parecer sobre a concessão, renovação e mudança de concessionário de zonas de caça, bem como sobre a anexação e desanexação de prédios rústicos das zonas de caça, sempre que requerido por qualquer dos interessados;\n\ne) Todos os outros assuntos de carácter cinegético sobre que o Governo entenda consultá-lo."
+  },
+  "47496275": {
+   "fragment_id": "36994575",
+   "type": 11,
+   "heading": "Artigo 44.º — Conselhos cinegéticos e da conservação da fauna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Conselhos cinegéticos e da conservação da fauna\n\nEm cada município e região cinegética são criados, com funções consultivas, os conselhos cinegéticos e da conservação da fauna, devendo, designadamente, contribuir para o equilíbrio de interesses entre a actividade cinegética e as actividades agrícolas, florestais, pecuárias e da conservação da natureza para que a caça seja um factor de apoio e valorização do mundo rural e do desenvolvimento local regional."
+  },
+  "47496375": {
+   "fragment_id": "35604275",
+   "type": 1,
+   "heading": "Capítulo IX — Organização venatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Organização venatória"
+  },
+  "47496475": {
+   "fragment_id": "36994675",
+   "type": 11,
+   "heading": "Artigo 45.º — Organização venatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Organização venatória\n\n1 - O associativismo dos caçadores é livre e as associações e os clubes de caçadores constituem-se nos termos da lei.\n\n2 - As associações e clubes de caçadores que tenham como objectivo gerir zonas de caça de interesse associativo ou participar na gestão de zonas de caça de interesse nacional ou municipal para efeitos da presente lei deverão prosseguir, designadamente, os seguintes fins:\n\na) Ter finalidade recreativa e formativa dos caçadores, contribuindo para o fomento dos recursos cinegéticos e para a prática ordenada e melhoria do exercício da caça;\n\nb) Fomentar e zelar pelo cumprimento das normas legais sobre a caça;\n\nc) Promover ou apoiar cursos ou outras acções de formação tendentes à apresentação dos candidatos associados aos exames para a obtenção da carta de caçador;\n\nd) Promover ou apoiar cursos ou outras acções de formação ou reciclagem sobre gestão de zonas de caça e conservação da fauna e dos seus habitat;\n\ne) Procurar harmonizar os interesses dos caçadores com os dos proprietários, agricultores, produtores florestais ou outros cidadãos interessados na conservação da fauna, preconizando as acções que para o efeito tenham por convenientes.\n\n3 - O reconhecimento das organizações representativas dos caçadores e a sua intervenção ao nível da administração da caça são objecto de diploma próprio."
+  },
+  "47496575": {
+   "fragment_id": "35604375",
+   "type": 1,
+   "heading": "Capítulo X — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Disposições finais e transitórias"
+  },
+  "47496675": {
+   "fragment_id": "36994775",
+   "type": 11,
+   "heading": "Artigo 46.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Regulamentação\n\nO Governo, no prazo de um ano a contar da data da publicação da presente lei, procederá à sua regulamentação, nomeadamente nas seguintes matérias:\n\na) Regime da concessão da faculdade de caçar, taxas devidas por exame para obtenção da carta de caçador, licenças e respectivas taxas, seguros e demais documentos exigíveis para o exercício da caça;\n\nb) Períodos, locais, processos e meios de caça autorizados e auxiliares de caçadores;\n\nc) Regime de criação e funcionamento das zonas de caça e respectivas taxas;\n\nd) Correcção de densidades, repovoamentos e ressarcimento dos prejuízos causados pelas populações das espécies cinegéticas;\n\ne) Regime de importação e exportação, detenção, comércio, transporte e exposição ao público de espécies cinegéticas;\n\nf) Reprodução, criação e detenção de espécies cinegéticas em cativeiro;\n\ng) Campos de treino de caça;\n\nh) Constituição, atribuições, competências e funcionamento do Conselho Nacional da Caça e da Conservação da Fauna e dos conselhos cinegéticos da conservação da fauna regionais e municipais;\n\ni) Organização venatória;\n\nj) Fiscalização da caça;\n\nl) Regras e métodos de detecção do álcool a quem se encontre no exercício da caça;\n\nm) Regime do direito à não caça;\n\nn) Condições para o exercício do direito de propriedade sobre as peças de caça;\n\no) Prioridades e limitações no ordenamento cinegético do território nacional."
+  },
+  "47496775": {
+   "fragment_id": "36994875",
+   "type": 11,
+   "heading": "Artigo 47.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Regiões Autónomas\n\nA presente lei aplica-se à Região Autónoma da Madeira, com as necessárias adaptações a introduzir por decreto legislativo regional."
+  },
+  "47496875": {
+   "fragment_id": "36994975",
+   "type": 11,
+   "heading": "Artigo 48.º — Terrenos não ordenados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Terrenos não ordenados\n\nEnquanto todo o território nacional não estiver cinegeticamente ordenado, a caça, nos terrenos cinegéticos não ordenados, permanecerá sujeita a normas gerais."
+  },
+  "47496975": {
+   "fragment_id": "36995075",
+   "type": 11,
+   "heading": "Artigo 49.º — Concessões de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Concessões de caça\n\nAs concessões atribuídas ao abrigo da Lei n.º 30/86, de 27 de Agosto, mantêm-se válidas até ao fim do respectivo período de vigência."
+  },
+  "47497075": {
+   "fragment_id": "36995175",
+   "type": 11,
+   "heading": "Artigo 50.º — Conversão das concessões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Conversão das concessões\n\nNo prazo de 90 dias após a publicação dos diplomas de desenvolvimento da presente lei as entidades exploradoras de áreas concessionadas podem solicitar aos serviços do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas a conversão das concessões aprovadas num dos tipos previstos na presente lei."
+  },
+  "47497175": {
+   "fragment_id": "36995275",
+   "type": 11,
+   "heading": "Artigo 51.º — Limitações dos diversos tipos de zonas de caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Limitações dos diversos tipos de zonas de caça\n\nA partir do 5.º ano da entrada em vigor da presente lei ficará sem efeito o disposto nos n.os 2 e 3 do artigo 15.º"
+  },
+  "47497275": {
+   "fragment_id": "36995375",
+   "type": 11,
+   "heading": "Artigo 52.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Revogação\n\nSão revogados a Lei n.º 30/86, de 27 de Agosto, e o Decreto-Lei n.º 136/96, de 14 de Agosto, mantendo-se em vigor os diplomas regulamentares que os executam em tudo o que não contrariar a presente lei."
+  },
+  "47497375": {
+   "fragment_id": "36995475",
+   "type": 11,
+   "heading": "Artigo 53.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Entrada em vigor\n\nA presente lei entra em vigor um ano após a data da sua publicação."
+  },
+  "107997365": {
+   "fragment_id": "36994475",
+   "type": 11,
+   "heading": "Artigo 43.º — Conselho Nacional da Caça e da Conservação da Fauna",
+   "in_force_from": "2008-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 159/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2008-455127), em vigor a partir de 2008-09-01"
+   ],
+   "markdown": "###### Artigo 43.º — Conselho Nacional da Caça e da Conservação da Fauna\n\nÉ criado junto do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas o Conselho Nacional da Caça e da Conservação da Fauna, com funções consultivas do Governo, nomeadamente no que se refere a:\n\na) Política cinegética nacional;\n\nb) Gestão adequada do capital cinegético em função da capacidade de suporte do meio;\n\nc) Exercício da caça;\n\nd) Emissão de parecer sobre a concessão, renovação e mudança de concessionário de zonas de caça, bem como sobre a anexação e desanexação de prédios rústicos das zonas de caça, sempre que requerido por qualquer dos interessados;\n\ne) Todos os outros assuntos de carácter cinegético sobre que o Governo entenda consultá-lo.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 159/2008 - Diário da República n.º 153/2008, Série I de 2008-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-2008-455127), em vigor a partir de 2008-09-01"
+  },
+  "47497875": {
+   "fragment_id": "35604475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 2 de Julho de 1999.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 7 de Setembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 9 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "107997366": {
+   "fragment_id": "36991775",
+   "type": 11,
+   "heading": "Artigo 16.º — Criação das zonas de caça",
+   "in_force_from": "2011-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2011 - Diário da República n.º 4/2011, Série I de 2011-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-10"
+   ],
+   "markdown": "###### Artigo 16.º — Criação das zonas de caça\n\n1 - As zonas de caça são criadas por despacho do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural, que, nos casos de zonas de interesse turístico e associativo, estabelece os termos da concessão.\n\n2 - O estabelecimento de zonas de caça mediante concessão carece de acordo prévio escrito dos proprietários ou usufrutuários dos terrenos a integrar e dos arrendatários de prédios rústicos, cujo contrato inclua a exploração cinegética, quando os houver.\n\n3 - As zonas de caça são criadas por períodos renováveis, em termos a regular.\n\n4 - Quando seja declarada a perda do direito de exploração de zona de caça, o Governo poderá incluí-la numa zona de interesse nacional ou municipal ou determinar a sua passagem a área de refúgio de caça, em termos a regular.\n\n5 - As zonas de caça estabelecidas mediante concessão são constituídas por um prazo mínimo de seis anos.\n\n6 - Os despachos a que se refere o n.º 1 são publicados exclusivamente no sítio da Internet da Autoridade Florestal Nacional, a quem compete assegurar a sua publicidade e acessibilidade permanente, bem como uma visibilidade adequada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2011 - Diário da República n.º 4/2011, Série I de 2011-01-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2011-485605), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-10"
+  }
+ }
+}

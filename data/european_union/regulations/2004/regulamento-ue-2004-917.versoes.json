@@ -1,0 +1,943 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32004R0917:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02004R0917-20150809",
+ "dre_path": null,
+ "source_lastmod": "2015-08-09",
+ "versions": [
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "32004R0917",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e75d5b1f1a192f9c",
+    "4533d0499549498f",
+    "6a1a6c4ba50c160c",
+    "fe26ca7629b64fed",
+    "f11c22211db9eb59",
+    "88a2e24d4924a425",
+    "d7a010e39097fba9",
+    "9fbdb674b3c3b903",
+    "e95a999a7c8eb7a7",
+    "b44a270dd788dd00",
+    "0d4500e228e947bb",
+    "eba2d7bb9a8cfef1",
+    "4599998bf8369655"
+   ]
+  },
+  {
+   "date": "2004-08-24",
+   "future": false,
+   "celex": "02004R0917-20040824",
+   "acts": [
+    {
+     "id": "eu:celex:32004R1484:por",
+     "title": "REGULAMENTO (CE) N. o 1484/2004 DA COMISSÃO de 20 de Agosto de 2004",
+     "published": null,
+     "celex": "32004R1484"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Altera Artigo 11.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita Estudo sobre a estrutura do sector da apicultura referido no artigo 9.º",
+    "Adita 1. Recenseamento",
+    "Adita 2. Estrutura de comercialização",
+    "Adita 3. Preços",
+    "Adita 4. Custos de produção e acondicionamento",
+    "Adita 5. Qualidade do mel",
+    "Adita Notas:",
+    "Adita ANEXO III"
+   ],
+   "fragments": [
+    "72eff56f5be1c37e",
+    "4533d0499549498f",
+    "6a1a6c4ba50c160c",
+    "fe26ca7629b64fed",
+    "f11c22211db9eb59",
+    "2fc9e0f8b4008821",
+    "d7a010e39097fba9",
+    "9fbdb674b3c3b903",
+    "e95a999a7c8eb7a7",
+    "b44a270dd788dd00",
+    "0d4500e228e947bb",
+    "9810a53619c3ff4c",
+    "32e1f3ad46f4c0f3",
+    "852174729551523b",
+    "e0904ad50b7bdf8e",
+    "ae6e05641882ff78",
+    "580ffee182949bc9",
+    "c529fc50efcbcc45",
+    "c2c365a4733386f6",
+    "49d38866642f02dc",
+    "6becb48c306e2d92",
+    "e3c88f926f47bca3",
+    "fd96c829f4f72ecf"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02004R0917-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1913:por",
+     "title": "REGULAMENTO (CE) N. o 1913/2006 DA COMISSÃO de 20 de Dezembro de 2006",
+     "published": null,
+     "celex": "32006R1913"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera 5. Qualidade do mel",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "023ada07f1f6af04",
+    "4533d0499549498f",
+    "6a1a6c4ba50c160c",
+    "fe26ca7629b64fed",
+    "f11c22211db9eb59",
+    "3f5537c346ef4fcf",
+    "d7a010e39097fba9",
+    "9fbdb674b3c3b903",
+    "76c10ee7df88a470",
+    "b44a270dd788dd00",
+    "0d4500e228e947bb",
+    "9810a53619c3ff4c",
+    "32e1f3ad46f4c0f3",
+    "852174729551523b",
+    "e0904ad50b7bdf8e",
+    "ae6e05641882ff78",
+    "580ffee182949bc9",
+    "c529fc50efcbcc45",
+    "c2c365a4733386f6",
+    "c56473af4e378485",
+    "6becb48c306e2d92",
+    "e3c88f926f47bca3",
+    "e201277510c048c5"
+   ]
+  },
+  {
+   "date": "2007-07-19",
+   "future": false,
+   "celex": "02004R0917-20070719",
+   "acts": [
+    {
+     "id": "eu:celex:32007R0811:por",
+     "title": "REGULAMENTO (CE) N. o 811/2007 DA COMISSÃO de 11 de Julho de 2007",
+     "published": null,
+     "celex": "32007R0811"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera 5. Qualidade do mel",
+    "Altera Notas",
+    "Suprime Artigo 7.º"
+   ],
+   "fragments": [
+    "4996f5d9f540544a",
+    "4533d0499549498f",
+    "a2307c17334560b7",
+    "fe26ca7629b64fed",
+    "f11c22211db9eb59",
+    "bfeff3e32afd619e",
+    "9d5f7a800893f636",
+    "c7cf9487bb0dd466",
+    "b44a270dd788dd00",
+    "0d4500e228e947bb",
+    "9810a53619c3ff4c",
+    "32e1f3ad46f4c0f3",
+    "852174729551523b",
+    "e0904ad50b7bdf8e",
+    "ae6e05641882ff78",
+    "580ffee182949bc9",
+    "c529fc50efcbcc45",
+    "c2c365a4733386f6",
+    "f52d3749b0a7b3e0",
+    "6becb48c306e2d92",
+    "e3c88f926f47bca3",
+    "9fc4df9e934e3da6"
+   ]
+  },
+  {
+   "date": "2007-08-11",
+   "future": false,
+   "celex": "02004R0917-20070811",
+   "acts": [
+    {
+     "id": "eu:celex:32007R0939:por",
+     "title": "REGULAMENTO (CE) N. o 939/2007 DA COMISSÃO de 7 de Agosto de 2007",
+     "published": null,
+     "celex": "32007R0939"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera ANEXO I",
+    "Altera 5. Qualidade do mel",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "4996f5d9f540544a",
+    "4533d0499549498f",
+    "a2307c17334560b7",
+    "fe26ca7629b64fed",
+    "f11c22211db9eb59",
+    "a595119eb6e31f94",
+    "9d5f7a800893f636",
+    "0d91b13ff239755f",
+    "b44a270dd788dd00",
+    "0d4500e228e947bb",
+    "9810a53619c3ff4c",
+    "7da3e28e5e977e49",
+    "852174729551523b",
+    "e0904ad50b7bdf8e",
+    "ae6e05641882ff78",
+    "580ffee182949bc9",
+    "c529fc50efcbcc45",
+    "c2c365a4733386f6",
+    "3d923ae166ffe06e",
+    "6becb48c306e2d92",
+    "e3c88f926f47bca3",
+    "9f90347b0b24566b"
+   ]
+  },
+  {
+   "date": "2010-08-16",
+   "future": false,
+   "celex": "02004R0917-20100816",
+   "acts": [
+    {
+     "id": "eu:celex:32010R0726:por",
+     "title": "REGULAMENTO (UE) N. o 726/2010 DA COMISSÃO de 12 de Agosto de 2010",
+     "published": null,
+     "celex": "32010R0726"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera ANEXO I",
+    "Altera 5. Qualidade do mel",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "faccff6cf8059dfd",
+    "4533d0499549498f",
+    "a2307c17334560b7",
+    "fe26ca7629b64fed",
+    "f11c22211db9eb59",
+    "977bcfb6e6f63d9d",
+    "9d5f7a800893f636",
+    "3be8d7b036109539",
+    "b44a270dd788dd00",
+    "0d4500e228e947bb",
+    "9810a53619c3ff4c",
+    "a779a8deecdee639",
+    "852174729551523b",
+    "e0904ad50b7bdf8e",
+    "ae6e05641882ff78",
+    "580ffee182949bc9",
+    "c529fc50efcbcc45",
+    "c2c365a4733386f6",
+    "685df601746d2857",
+    "6becb48c306e2d92",
+    "e3c88f926f47bca3",
+    "4d80ac28e8fb899c"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "celex": "02004R0917-20130101",
+   "acts": [
+    {
+     "id": "eu:celex:32012R1212:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 1212/2012 DA COMISSÃO de 17 de dezembro de 2012",
+     "published": null,
+     "celex": "32012R1212"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera 5. Qualidade do mel",
+    "Altera Notas",
+    "Adita Artigo 6.º-A"
+   ],
+   "fragments": [
+    "bb5aa7c60f1ff734",
+    "546fbbb024d28ddf",
+    "a2307c17334560b7",
+    "fe26ca7629b64fed",
+    "f11c22211db9eb59",
+    "a2ca3fa93dc1f797",
+    "2f1bc7456be4b351",
+    "eee105835d9c2e8a",
+    "c731f3eb2a2164bd",
+    "b44a270dd788dd00",
+    "0d4500e228e947bb",
+    "9810a53619c3ff4c",
+    "a779a8deecdee639",
+    "852174729551523b",
+    "e0904ad50b7bdf8e",
+    "ae6e05641882ff78",
+    "580ffee182949bc9",
+    "c529fc50efcbcc45",
+    "c2c365a4733386f6",
+    "782eb7112357edfa",
+    "6becb48c306e2d92",
+    "e3c88f926f47bca3",
+    "de5c7d691977f312"
+   ]
+  },
+  {
+   "date": "2013-09-01",
+   "future": false,
+   "celex": "02004R0917-20130901",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0768:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 768/2013 DA COMISSÃO de 8 de agosto de 2013",
+     "published": null,
+     "celex": "32013R0768"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º-A",
+    "Altera Artigo 8.º",
+    "Altera ANEXO I",
+    "Altera 5. Qualidade do mel",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "0f7f82ef9a1176c7",
+    "fb0d5ca192cb16b3",
+    "b4a87a0836b75434",
+    "fe26ca7629b64fed",
+    "f11c22211db9eb59",
+    "38f1fe6f5de9d075",
+    "2f1bc7456be4b351",
+    "5429e45e753f1c2c",
+    "40494c91ce9f9052",
+    "b44a270dd788dd00",
+    "0d4500e228e947bb",
+    "9810a53619c3ff4c",
+    "6d88de59d0286ecf",
+    "852174729551523b",
+    "e0904ad50b7bdf8e",
+    "ae6e05641882ff78",
+    "580ffee182949bc9",
+    "c529fc50efcbcc45",
+    "c2c365a4733386f6",
+    "b483694c47286626",
+    "6becb48c306e2d92",
+    "e3c88f926f47bca3",
+    "826fa1adc586651b"
+   ]
+  },
+  {
+   "date": "2015-08-09",
+   "future": false,
+   "celex": "02004R0917-20150809",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 6.º-A",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime Estudo sobre a estrutura do sector da apicultura referido no artigo 9.º",
+    "Suprime 1. Recenseamento",
+    "Suprime 2. Estrutura de comercialização",
+    "Suprime 3. Preços",
+    "Suprime 4. Custos de produção e acondicionamento",
+    "Suprime 5. Qualidade do mel",
+    "Suprime Notas:",
+    "Suprime ANEXO III",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "bc3bc0f56c151fc8"
+   ]
+  }
+ ],
+ "fragments": {
+  "e75d5b1f1a192f9c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque estabelece normas de execução do Regulamento (CE) n.º 797/2004 do Conselho relativo a acções no domínio da apicultura\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 797/2004 Conselho, de 26 de Abril de 2004, relativo a acções no domínio da apicultura [([^1])](http://publications.europa.eu/resource/cellar/f59dc6f4-5f67-4cec-8096-d845ce4c6f30.0010.05/DOC_1#ntr1-L_2004163PT.01008301-E0001), e, nomeadamente, o seu artigo 6.º,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 797/2004, que substitui o Regulamento (CE) n.º 1221/97 do Conselho [([^2])](http://publications.europa.eu/resource/cellar/f59dc6f4-5f67-4cec-8096-d845ce4c6f30.0010.05/DOC_1#ntr2-L_2004163PT.01008301-E0002), estabeleceu acções destinadas a melhorar as condições de produção e comercialização dos produtos da apicultura. Por motivos de clareza, é conveniente revogar o Regulamento (CE) n.º 2300/97 da Comissão, de 20 de Novembro de 1997, que estabelece normas de execução do Regulamento (CE) n.º 1221/97 do Conselho que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel [([^3])](http://publications.europa.eu/resource/cellar/f59dc6f4-5f67-4cec-8096-d845ce4c6f30.0010.05/DOC_1#ntr3-L_2004163PT.01008301-E0003) e substitui-lo por um novo regulamento.\n\n(2) O artigo 1.º do Regulamento (CE) n.º 797/2004 prevê o estabelecimento facultativo de programas apícolas pelos Estados-Membros. É necessário determinar os elementos essenciais que devem constar desses programas, bem como o prazo para a sua transmissão à Comissão.\n\n(3) É necessário limitar a participação comunitária no financiamento dos programas apícolas atendendo à distribuição do efectivo apícola comunitário.\n\n(4) Os Estados-Membros devem proceder ao controlo da aplicação do presente regulamento. Deverão comunicar-se à Comissão as medidas de controlo.\n\n(5) Na execução dos programas, deve garantir-se a coerência entre as acções dos programas apícolas e outras medidas referentes a diversas políticas comunitárias, em especial dos regulamentos relativos a coordenação das políticas de investigação agroalimentar. Deve evitar-se, em especial, qualquer sobrecompensação devida à combinação de ajudas e qualquer contradição na definição das acções.\n\n(6) De forma a permitir uma certa flexibilidade na execução do programa, os limites financeiros comunicados para cada acção podem variar numa determinada percentagem, desde que o limite máximo estabelecido para o programa anual não seja excedido. Em caso de recurso à flexibilidade na execução do programa, a participação financeira da Comunidade não pode exceder o limite de 50 % das despesas efectivamente suportadas pelo Estado-Membro em causa.\n\n(7) De forma proporcionar uma maior flexibilidade de execução, as acções de um programa podem ser adaptadas durante a execução do mesmo, desde que as adaptações sejam conformes com o Regulamento (CE) n.º 797/2004.\n\n(8) Importa adoptar normas para a fixação das taxas de conversão agrícola aplicáveis ao financiamento dos programas apícolas.\n\n(9) De forma a efectuar e actualizar de forma adequada o estudo previsto no artigo 3.º do Regulamento (CE) n.º 797/2004 sobre a estrutura do sector da apicultura, importa estabelecer normas respeitantes ao seu conteúdo.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Aves de Capoeira e dos Ovos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "4533d0499549498f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs programas nacionais anuais referidos no artigo 1.º do Regulamento (CE) n.º 797/2004 (a seguir designados «programas apícolas») incluirão, nomeadamente:\n\na) a descrição da situação do sector, de forma a permitir actualizar regularmente os dados estruturais constantes do estudo previsto no artigo 3.º do Regulamento (CE) n.º 797/2004;\n\nb) os objectivos do programa apícola;\n\nc) a descrição precisa das acções, se for caso disso, com os respectivos custos unitários;\n\nd) uma estimativa dos custos e um plano de financiamento aos níveis nacional e regional, discriminado por exercício anual;\n\ne) a referencia às disposições legislativas, regulamentares ou administrativas aplicáveis;\n\nf) a lista das organizações representativas e das cooperativas do sector apícola que colaboram com a autoridade competente do Estado-Membro na elaboração dos programas apícolas;\n\ng) as regras de acompanhamento e avaliação do programa apícola."
+  },
+  "6a1a6c4ba50c160c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros comunicarão à Comissão os programas antes de 15 de Abril do primeiro ano do período trienal abrangido pelo programa.\n\nTodavia, no respeitante a 2004, os Estados-Membros comunicarão os seus programas apícolas, o mais tardar, em 15 de Maio de 2004.\n\n2. Os exercícios anuais do programa apícola são fixados de 16 de Outubro de cada ano a 15 de Outubro do ano seguinte.\n\n3. As acções dos programas apícolas, previstas para cada ano do período trienal, deverão ser executadas na íntegra antes de 31 de Agosto do ano seguinte. Os pagamentos atinentes deverão efectuar-se durante o exercício."
+  },
+  "fe26ca7629b64fed": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA participação da Comunidade no financiamento dos programas apícolas fica limitada, para cada Estado-Membro, ao montante correspondente à parte do Estado-Membro em causa no efectivo apícola comunitário, constante do anexo I.\n\nContudo, se um ou vários Estados-Membros não comunicarem qualquer programa nacional nos prazos referidos no n.º 1 do artigo 2.º ou não utilizarem integralmente o montante referido no primeiro parágrafo, as partes dos demais Estados-Membros podem ser aumentadas proporcionalmente à sua própria parte."
+  },
+  "f11c22211db9eb59": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros transmitirão à Comissão, em simultâneo com os programas apícolas, um processo relativo aos controlos correspondentes.\n\nOs controlos destinam-se a verificar o respeito das condições de concessão das ajudas instauradas ao abrigo dos programas apresentados, devendo ser efectuados a nível administrativo e no local.\n\nOs organismos pagadores deverão conservar provas suficientes dos controlos em causa."
+  },
+  "88a2e24d4924a425": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros comunicarão à Comissão, antes da data prevista no n.º 2 do artigo 2.º, a lista das acções sobre apicultura inscritas nos programas operacionais nacionais no âmbito dos objectivos n.^os^ 1 e 2 previstos pelo Regulamento (CE) n.º 1260/1999 do Conselho [([^4])](http://publications.europa.eu/resource/cellar/f59dc6f4-5f67-4cec-8096-d845ce4c6f30.0010.05/DOC_1#ntr4-L_2004163PT.01008301-E0004).\n\n2. A mesma acção não pode ser objecto de pagamentos simultaneamente no âmbito do Regulamento (CE) n.º 797/2004 e no âmbito de outro regime de ajuda comunitário, nomeadamente ao abrigo do Regulamento (CE) n.º 1257/1999 do Conselho [([^5])](http://publications.europa.eu/resource/cellar/f59dc6f4-5f67-4cec-8096-d845ce4c6f30.0010.05/DOC_1#ntr5-L_2004163PT.01008301-E0005)."
+  },
+  "d7a010e39097fba9": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs limites financeiros de cada acção podem aumentar ou diminuir numa percentagem máxima de 20 %, desde que o limite máximo estabelecido para o programa anual não seja excedido e a participação comunitária no financiamento do programa referido no artigo 3.º não exceda 50 % das despesas suportadas pelo Estado-Membro em causa."
+  },
+  "9fbdb674b3c3b903": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs acções dos programas apícolas podem ser adaptadas durante o exercício anual, na condição de permanecerem conformes ao artigo 2.º do Regulamento (CE) n.º 797/2004 e serem aprovadas em conformidade com o artigo 5.º do referido regulamento."
+  },
+  "e95a999a7c8eb7a7": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA taxa de conversão aplicável ao montante referido no artigo 3.º é o montante em vigor em 1 de Maio do ano de comunicação do programa apícola."
+  },
+  "b44a270dd788dd00": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO estudo referido no artigo 3.º do Regulamento (CE) n.º 797/2004 inclui os elementos previstos no anexo II do presente regulamento."
+  },
+  "0d4500e228e947bb": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÉ revogado o Regulamento (CE) n.º 2300/97.\n\nAs remissões para o regulamento revogado devem entender-se como feitas para o presente regulamento e ser lidas de acordo com o quadro de correspondência constante do anexo III."
+  },
+  "eba2d7bb9a8cfef1": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 29 de Abril de 2004.\n\n***Pela Comissão***\n\n**Franz FISCHLER**\n\n***Membro da Comissão***\n\n---"
+  },
+  "4599998bf8369655": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/f59dc6f4-5f67-4cec-8096-d845ce4c6f30.0010.05/DOC_1#ntc1-L_2004163PT.01008301-E0001) [JO L 125 de 28.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_125_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/f59dc6f4-5f67-4cec-8096-d845ce4c6f30.0010.05/DOC_1#ntc2-L_2004163PT.01008301-E0002) [JO L 173 de 1.7.1997, p. 1](http://publications.europa.eu/resource/oj/JOL_1997_173_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/f59dc6f4-5f67-4cec-8096-d845ce4c6f30.0010.05/DOC_1#ntc3-L_2004163PT.01008301-E0003) [JO L 319 de 21.11.1997, p. 4](http://publications.europa.eu/resource/oj/JOL_1997_319_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1387/2003 ([JO L 196 de 2.8.2003, p. 22](http://publications.europa.eu/resource/oj/JOL_2003_196_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/f59dc6f4-5f67-4cec-8096-d845ce4c6f30.0010.05/DOC_1#ntc4-L_2004163PT.01008301-E0004) [JO L 161 de 26.6.1999, p. 1](http://publications.europa.eu/resource/oj/JOL_1999_161_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/f59dc6f4-5f67-4cec-8096-d845ce4c6f30.0010.05/DOC_1#ntc5-L_2004163PT.01008301-E0005) [JO L 160 de 26.6.1999, p. 80](http://publications.europa.eu/resource/oj/JOL_1999_160_R_TOC)."
+  },
+  "72eff56f5be1c37e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque estabelece normas de execução do Regulamento (CE) n.º 797/2004 do Conselho [**►C1**](http://publications.europa.eu/resource/celex/32004R0917R%2801%29) relativo a acções de melhoria das condições de produção e comercialização de produtos da apicultura**◄**\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 797/2004 Conselho, de 26 de Abril de 2004, relativo a acções no domínio da apicultura ([^1^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#E0001)), e, nomeadamente, o seu artigo 6.º,\n\n(1) O Regulamento (CE) n.º 797/2004, que substitui o Regulamento (CE) n.º 1221/97 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#E0002)), estabeleceu acções destinadas a melhorar as condições de produção e comercialização dos produtos da apicultura. Por motivos de clareza, é conveniente revogar o Regulamento (CE) n.º 2300/97 da Comissão, de 20 de Novembro de 1997, que estabelece normas de execução do Regulamento (CE) n.º 1221/97 do Conselho que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel ([^3^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#E0003)) e substitui-lo por um novo regulamento.\n\n(2) O artigo 1.º do Regulamento (CE) n.º 797/2004 prevê o estabelecimento facultativo de programas apícolas pelos Estados-Membros. É necessário determinar os elementos essenciais que devem constar desses programas, bem como o prazo para a sua transmissão à Comissão.\n\n(3) É necessário limitar a participação comunitária no financiamento dos programas apícolas atendendo à distribuição do efectivo apícola comunitário.\n\n(4) Os Estados-Membros devem proceder ao controlo da aplicação do presente regulamento. Deverão comunicar-se à Comissão as medidas de controlo.\n\n(5) Na execução dos programas, deve garantir-se a coerência entre as acções dos programas apícolas e outras medidas referentes a diversas políticas comunitárias, em especial dos regulamentos relativos a coordenação das políticas de investigação agroalimentar. Deve evitar-se, em especial, qualquer sobrecompensação devida à combinação de ajudas e qualquer contradição na definição das acções.\n\n(6) De forma a permitir uma certa flexibilidade na execução do programa, os limites financeiros comunicados para cada acção podem variar numa determinada percentagem, desde que o limite máximo estabelecido para o programa anual não seja excedido. Em caso de recurso à flexibilidade na execução do programa, a participação financeira da Comunidade não pode exceder o limite de 50 % das despesas efectivamente suportadas pelo Estado-Membro em causa.\n\n(7) De forma proporcionar uma maior flexibilidade de execução, as acções de um programa podem ser adaptadas durante a execução do mesmo, desde que as adaptações sejam conformes com o Regulamento (CE) n.º 797/2004.\n\n(8) Importa adoptar normas para a fixação das taxas de conversão agrícola aplicáveis ao financiamento dos programas apícolas.\n\n(9) De forma a efectuar e actualizar de forma adequada o estudo previsto no artigo 3.º do Regulamento (CE) n.º 797/2004 sobre a estrutura do sector da apicultura, importa estabelecer normas respeitantes ao seu conteúdo.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Aves de Capoeira e dos Ovos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "2fc9e0f8b4008821": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros comunicarão à Comissão, antes da data prevista no n.º 2 do artigo 2.º, a lista das acções sobre apicultura inscritas nos programas operacionais nacionais no âmbito dos objectivos n.^os^ 1 e 2 previstos pelo Regulamento (CE) n.º 1260/1999 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#E0004)).\n\n2. A mesma acção não pode ser objecto de pagamentos simultaneamente no âmbito do Regulamento (CE) n.º 797/2004 e no âmbito de outro regime de ajuda comunitário, nomeadamente ao abrigo do Regulamento (CE) n.º 1257/1999 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#E0005))."
+  },
+  "9810a53619c3ff4c": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "32e1f3ad46f4c0f3": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nEstado-Membro Efectivo apícola Número de colmeias\n\nBE 110 750\n\nCZ 477 743\n\nDK 160 000\n\nDE 893 000\n\nEE 50 500\n\nEL 1 388 000\n\nES 2 464 601\n\nFR 1 150 000\n\nIE 20 000\n\nIT 1 100 000\n\nCY 45 714\n\nLV 54 173\n\nLT 83 800\n\nLU 11 077\n\nHU 872 650\n\nMT 1 938\n\nNL 80 000\n\nAT 327 000\n\nPL 949 200\n\nPT 590 000\n\nSI 143 152\n\nSK 192 002\n\nFI 42 000\n\nSE 145 000\n\nUK 274 000\n\nEUR 25 11 626 300"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "e0904ad50b7bdf8e": {
+   "fragment_id": "Estudo sobre a estrutura do sector da apicultura referido no artigo 9.º",
+   "type": "divisao",
+   "heading": "Estudo sobre a estrutura do sector da apicultura referido no artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Estudo sobre a estrutura do sector da apicultura referido no artigo 9.º"
+  },
+  "ae6e05641882ff78": {
+   "fragment_id": "1. Recenseamento",
+   "type": "divisao",
+   "heading": "1. Recenseamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Recenseamento\n\nColmeias profissionais:\n\nTotal de colmeias:\n\nApicultores profissionais (a):\n\nTotal de apicultores:"
+  },
+  "580ffee182949bc9": {
+   "fragment_id": "2. Estrutura de comercialização",
+   "type": "divisao",
+   "heading": "2. Estrutura de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Estrutura de comercialização\n\nProdução (b): Venda directa ao consumidor\n\nVenda directa ao retalhista\n\nVendas aos centros de acondicionamento/comércio\n\nVendas à indústria\n\nImportação: Vendas ao comércio/centros de acondicionamento/indústria\n\nExportação:"
+  },
+  "c529fc50efcbcc45": {
+   "fragment_id": "3. Preços",
+   "type": "divisao",
+   "heading": "3. Preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Preços"
+  },
+  "c2c365a4733386f6": {
+   "fragment_id": "4. Custos de produção e acondicionamento",
+   "type": "divisao",
+   "heading": "4. Custos de produção e acondicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Custos de produção e acondicionamento\n\nCustos fixos:\n\nCustos variáveis:\n\n— Discriminação, se disponível, nomeadamente no que se refere a:\n\n— Despesas decorrentes do combate à varroose\n\n— alimentação hivernal\n\n— embalagens (recipientes)\n\n— transumância"
+  },
+  "49d38866642f02dc": {
+   "fragment_id": "5. Qualidade do mel",
+   "type": "divisao",
+   "heading": "5. Qualidade do mel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Qualidade do mel\n\nEspecificidade: Regulamento (CEE) n.º 2082/92 do Conselho ([^6^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#E0006))\n\nDenominação de origem protegida (DOP): Regulamento (CEE) n.º 2081/92 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#E0007))\n\nIndicação geográfica protegida (IGP): Regulamento (CEE) n.º 2081/92"
+  },
+  "6becb48c306e2d92": {
+   "fragment_id": "Notas:",
+   "type": "divisao",
+   "heading": "Notas:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Notas:\n\n(a) Entende-se por apicultor profissional um apicultor que explore mais de 150 colmeias.\n\n(b) Indicar, se for caso disso, o tipo de mel e a dimensão da exploração."
+  },
+  "e3c88f926f47bca3": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nRegulamento (CE) n.º 2300/97 Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nN.º 1 do artigo 2.º N.º 1 do artigo 2.º\n\nN.º 2 do artigo 2.º\n\nN.º 2 do artigo 2.º N.º 3 do artigo 2.º\n\nArtigo 3.º Artigo 3.º\n\nN.º 1 do artigo 4.º Primeiro e segundo parágrafos do artigo 4.º\n\nN.º 2 do artigo 4.º N.º 1 do artigo 5.º\n\nN.º 3 do artigo 4.º N.º 2 do artigo 5.º\n\nArtigo 4.º A Artigo 6.º\n\nArtigo 7.º\n\nArtigo 5.º Artigo 8.º\n\nArtigo 6.º Artigo 9.º\n\nArtigo 10.º\n\nArtigo 7.º Artigo 11.º\n\nAnexo I Anexo I\n\nAnexo II Anexo II\n\n— Anexo III\n\n---"
+  },
+  "fd96c829f4f72ecf": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#src.E0001)) JO L 125 de 28.4.2004, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#src.E0002)) JO L 173 de 1.7.1997, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#src.E0003)) JO L 319 de 21.11.1997, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1387/2003 (JO L 196 de 2.8.2003, p. 22).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#src.E0004)) JO L 161 de 26.6.1999, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#src.E0005)) JO L 160 de 26.6.1999, p. 80.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#src.E0006)) JO L 208 de 24.7.1992, p. 9.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/20bc1cc7-b363-4652-9747-1b1320f26064.0016.03/DOC_1#src.E0007)) JO L 208 de 24.7.1992, p. 1."
+  },
+  "023ada07f1f6af04": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque estabelece normas de execução do Regulamento (CE) n.º 797/2004 do Conselho [**►C1**](http://publications.europa.eu/resource/celex/32004R0917R%2801%29) relativo a acções de melhoria das condições de produção e comercialização de produtos da apicultura**◄**\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 797/2004 Conselho, de 26 de Abril de 2004, relativo a acções no domínio da apicultura ([^1^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#E0001)), e, nomeadamente, o seu artigo 6.º,\n\n(1) O Regulamento (CE) n.º 797/2004, que substitui o Regulamento (CE) n.º 1221/97 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#E0002)), estabeleceu acções destinadas a melhorar as condições de produção e comercialização dos produtos da apicultura. Por motivos de clareza, é conveniente revogar o Regulamento (CE) n.º 2300/97 da Comissão, de 20 de Novembro de 1997, que estabelece normas de execução do Regulamento (CE) n.º 1221/97 do Conselho que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel ([^3^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#E0003)) e substitui-lo por um novo regulamento.\n\n(2) O artigo 1.º do Regulamento (CE) n.º 797/2004 prevê o estabelecimento facultativo de programas apícolas pelos Estados-Membros. É necessário determinar os elementos essenciais que devem constar desses programas, bem como o prazo para a sua transmissão à Comissão.\n\n(3) É necessário limitar a participação comunitária no financiamento dos programas apícolas atendendo à distribuição do efectivo apícola comunitário.\n\n(4) Os Estados-Membros devem proceder ao controlo da aplicação do presente regulamento. Deverão comunicar-se à Comissão as medidas de controlo.\n\n(5) Na execução dos programas, deve garantir-se a coerência entre as acções dos programas apícolas e outras medidas referentes a diversas políticas comunitárias, em especial dos regulamentos relativos a coordenação das políticas de investigação agroalimentar. Deve evitar-se, em especial, qualquer sobrecompensação devida à combinação de ajudas e qualquer contradição na definição das acções.\n\n(6) De forma a permitir uma certa flexibilidade na execução do programa, os limites financeiros comunicados para cada acção podem variar numa determinada percentagem, desde que o limite máximo estabelecido para o programa anual não seja excedido. Em caso de recurso à flexibilidade na execução do programa, a participação financeira da Comunidade não pode exceder o limite de 50 % das despesas efectivamente suportadas pelo Estado-Membro em causa.\n\n(7) De forma proporcionar uma maior flexibilidade de execução, as acções de um programa podem ser adaptadas durante a execução do mesmo, desde que as adaptações sejam conformes com o Regulamento (CE) n.º 797/2004.\n\n(8) Importa adoptar normas para a fixação das taxas de conversão agrícola aplicáveis ao financiamento dos programas apícolas.\n\n(9) De forma a efectuar e actualizar de forma adequada o estudo previsto no artigo 3.º do Regulamento (CE) n.º 797/2004 sobre a estrutura do sector da apicultura, importa estabelecer normas respeitantes ao seu conteúdo.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Aves de Capoeira e dos Ovos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3f5537c346ef4fcf": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros comunicarão à Comissão, antes da data prevista no n.º 2 do artigo 2.º, a lista das acções sobre apicultura inscritas nos programas operacionais nacionais no âmbito dos objectivos n.^os^ 1 e 2 previstos pelo Regulamento (CE) n.º 1260/1999 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#E0004)).\n\n2. A mesma acção não pode ser objecto de pagamentos simultaneamente no âmbito do Regulamento (CE) n.º 797/2004 e no âmbito de outro regime de ajuda comunitário, nomeadamente ao abrigo do Regulamento (CE) n.º 1257/1999 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#E0005))."
+  },
+  "76c10ee7df88a470": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara os montantes referidos no artigo 3.º, o facto gerador da taxa de câmbio do euro é o indicado no n.º 1, primeiro parágrafo, do artigo 7.º do Regulamento (CE) n.º 1913/2006 da Comissão ([^6^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#E0006))."
+  },
+  "c56473af4e378485": {
+   "fragment_id": "5. Qualidade do mel",
+   "type": "divisao",
+   "heading": "5. Qualidade do mel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Qualidade do mel\n\nEspecificidade: Regulamento (CEE) n.º 2082/92 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#E0007))\n\nDenominação de origem protegida (DOP): Regulamento (CEE) n.º 2081/92 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#E0008))\n\nIndicação geográfica protegida (IGP): Regulamento (CEE) n.º 2081/92"
+  },
+  "e201277510c048c5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#src.E0001)) JO L 125 de 28.4.2004, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#src.E0002)) JO L 173 de 1.7.1997, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#src.E0003)) JO L 319 de 21.11.1997, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1387/2003 (JO L 196 de 2.8.2003, p. 22).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#src.E0004)) JO L 161 de 26.6.1999, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#src.E0005)) JO L 160 de 26.6.1999, p. 80.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#src.E0006)) JO L 365 de 21.12.2006, p. 52.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#src.E0007)) JO L 208 de 24.7.1992, p. 9.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/9accd789-760c-4249-998e-ae0e22374e1d.0016.03/DOC_1#src.E0008)) JO L 208 de 24.7.1992, p. 1."
+  },
+  "4996f5d9f540544a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque estabelece normas de execução do Regulamento (CE) n.º 797/2004 do Conselho [**►C1**](http://publications.europa.eu/resource/celex/32004R0917R%2801%29) relativo a acções de melhoria das condições de produção e comercialização de produtos da apicultura**◄**"
+  },
+  "a2307c17334560b7": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros comunicarão à Comissão os programas antes de 15 de Abril do primeiro ano do período trienal abrangido pelo programa.\n\n2. Os exercícios anuais do programa apícola são fixados de 16 de Outubro de cada ano a 15 de Outubro do ano seguinte.\n\n3. [**►M3**](http://publications.europa.eu/resource/celex/32007R0811) As acções dos programas apícolas, previstas para cada ano do período trienal, deverão ser executadas na íntegra antes de 31 de Agosto do exercício anual a que dizem respeito.**◄** Os pagamentos atinentes deverão efectuar-se durante o exercício."
+  },
+  "bfeff3e32afd619e": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros comunicarão à Comissão, antes da data prevista no n.º 2 do artigo 2.º, a lista das acções sobre apicultura inscritas nos programas operacionais nacionais no âmbito dos objectivos n.^os^ 1 e 2 previstos pelo Regulamento (CE) n.º 1260/1999 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#E0004)).\n\n2. A mesma acção não pode ser objecto de pagamentos simultaneamente no âmbito do Regulamento (CE) n.º 797/2004 e no âmbito de outro regime de ajuda comunitário, nomeadamente ao abrigo do Regulamento (CE) n.º 1257/1999 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#E0005))."
+  },
+  "9d5f7a800893f636": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNa condição de permanecerem conformes ao artigo 2.º do Regulamento (CE) n.º 797/2004, as acções dos programas apícolas podem ser adaptadas durante um exercício anual. Os limites financeiros de cada acção podem ser alterados, desde que o limite total das previsões de despesas anuais não seja excedido e a participação comunitária no financiamento dos programas apícolas não exceda 50 % das despesas suportadas pelo Estado-Membro em causa.\n\nO Estado-Membro em causa comunica à Comissão todos os projectos de adaptação das acções durante um exercício anual por força do primeiro parágrafo sempre que uma acção não tiver sido inicialmente prevista e comunicada no programa trienal. Se a Comissão não levantar objecções, a adaptação projectada é aplicável no primeiro dia do segundo mês seguinte ao da comunicação em causa.\n\nO mais tardar dois meses após o fim de cada exercício anual, os Estados-Membros comunicam à Comissão um mapa da execução das despesas por tipo de acção."
+  },
+  "c7cf9487bb0dd466": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara os montantes referidos no artigo 3.º, o facto gerador da taxa de câmbio do euro é o indicado no n.º 1, primeiro parágrafo, do artigo 7.º do Regulamento (CE) n.º 1913/2006 da Comissão ([^6^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#E0006))."
+  },
+  "f52d3749b0a7b3e0": {
+   "fragment_id": "5. Qualidade do mel",
+   "type": "divisao",
+   "heading": "5. Qualidade do mel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Qualidade do mel\n\nEspecificidade: Regulamento (CEE) n.º 2082/92 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#E0007))\n\nDenominação de origem protegida (DOP): Regulamento (CEE) n.º 2081/92 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#E0008))\n\nIndicação geográfica protegida (IGP): Regulamento (CEE) n.º 2081/92"
+  },
+  "9fc4df9e934e3da6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#src.E0001)) JO L 125 de 28.4.2004, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#src.E0002)) JO L 173 de 1.7.1997, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#src.E0003)) JO L 319 de 21.11.1997, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1387/2003 (JO L 196 de 2.8.2003, p. 22).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#src.E0004)) JO L 161 de 26.6.1999, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#src.E0005)) JO L 160 de 26.6.1999, p. 80.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#src.E0006)) JO L 365 de 21.12.2006, p. 52.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#src.E0007)) JO L 208 de 24.7.1992, p. 9.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b45473ce-2800-4778-8f51-d34090659eb0.0018.03/DOC_1#src.E0008)) JO L 208 de 24.7.1992, p. 1."
+  },
+  "a595119eb6e31f94": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros comunicarão à Comissão, antes da data prevista no n.º 2 do artigo 2.º, a lista das acções sobre apicultura inscritas nos programas operacionais nacionais no âmbito dos objectivos n.^os^ 1 e 2 previstos pelo Regulamento (CE) n.º 1260/1999 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/7236f972-1d34-47df-b50a-58a40779b356.0017.03/DOC_2#E0001)).\n\n2. A mesma acção não pode ser objecto de pagamentos simultaneamente no âmbito do Regulamento (CE) n.º 797/2004 e no âmbito de outro regime de ajuda comunitário, nomeadamente ao abrigo do Regulamento (CE) n.º 1257/1999 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/7236f972-1d34-47df-b50a-58a40779b356.0017.03/DOC_2#E0002))."
+  },
+  "0d91b13ff239755f": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara os montantes referidos no artigo 3.º, o facto gerador da taxa de câmbio do euro é o indicado no n.º 1, primeiro parágrafo, do artigo 7.º do Regulamento (CE) n.º 1913/2006 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/7236f972-1d34-47df-b50a-58a40779b356.0017.03/DOC_2#E0003))."
+  },
+  "7da3e28e5e977e49": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nEstado-Membro Efectivo apícola Número de colmeias\n\nBE 110 000\n\nBG 671 674\n\nCZ 525 560\n\nDK 170 000\n\nDE 751 000\n\nEE 33 000\n\nEL 1 467 690\n\nES 2 320 949\n\nFR 1 360 973\n\nIE 22 000\n\nIT 1 157 133\n\nCY 44 338\n\nLV 62 200\n\nLT 85 015\n\nLU 9 267\n\nHU 900 000\n\nMT 1 938\n\nNL 80 000\n\nAT 311 000\n\nPL 1 091 930\n\nPT 555 049\n\nRO 975 062\n\nSI 170 682\n\nSK 246 259\n\nFI 56 000\n\nSE 150 000\n\nUK 274 000\n\n**EU 27** **13 602 719**"
+  },
+  "3d923ae166ffe06e": {
+   "fragment_id": "5. Qualidade do mel",
+   "type": "divisao",
+   "heading": "5. Qualidade do mel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Qualidade do mel\n\nEspecificidade: Regulamento (CEE) n.º 2082/92 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/7236f972-1d34-47df-b50a-58a40779b356.0017.03/DOC_2#E0004))\n\nDenominação de origem protegida (DOP): Regulamento (CEE) n.º 2081/92 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/7236f972-1d34-47df-b50a-58a40779b356.0017.03/DOC_2#E0005))\n\nIndicação geográfica protegida (IGP): Regulamento (CEE) n.º 2081/92"
+  },
+  "9f90347b0b24566b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7236f972-1d34-47df-b50a-58a40779b356.0017.03/DOC_2#src.E0001)) JO L 161 de 26.6.1999, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7236f972-1d34-47df-b50a-58a40779b356.0017.03/DOC_2#src.E0002)) JO L 160 de 26.6.1999, p. 80.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7236f972-1d34-47df-b50a-58a40779b356.0017.03/DOC_2#src.E0003)) JO L 365 de 21.12.2006, p. 52.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7236f972-1d34-47df-b50a-58a40779b356.0017.03/DOC_2#src.E0004)) JO L 208 de 24.7.1992, p. 9.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7236f972-1d34-47df-b50a-58a40779b356.0017.03/DOC_2#src.E0005)) JO L 208 de 24.7.1992, p. 1."
+  },
+  "faccff6cf8059dfd": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque estabelece normas de execução do Regulamento (CE) n.º 797/2004 do Conselho [**►C1**](http://publications.europa.eu/resource/celex/32004R0917R%2801%29) relativo a acções de melhoria das condições de produção e comercialização de produtos da apicultura**◄**\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 797/2004 Conselho, de 26 de Abril de 2004, relativo a acções no domínio da apicultura ([^1^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#E0001)), e, nomeadamente, o seu artigo 6.º,\n\n(1) O Regulamento (CE) n.º 797/2004, que substitui o Regulamento (CE) n.º 1221/97 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#E0002)), estabeleceu acções destinadas a melhorar as condições de produção e comercialização dos produtos da apicultura. Por motivos de clareza, é conveniente revogar o Regulamento (CE) n.º 2300/97 da Comissão, de 20 de Novembro de 1997, que estabelece normas de execução do Regulamento (CE) n.º 1221/97 do Conselho que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel ([^3^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#E0003)) e substitui-lo por um novo regulamento.\n\n(2) O artigo 1.º do Regulamento (CE) n.º 797/2004 prevê o estabelecimento facultativo de programas apícolas pelos Estados-Membros. É necessário determinar os elementos essenciais que devem constar desses programas, bem como o prazo para a sua transmissão à Comissão.\n\n(3) É necessário limitar a participação comunitária no financiamento dos programas apícolas atendendo à distribuição do efectivo apícola comunitário.\n\n(4) Os Estados-Membros devem proceder ao controlo da aplicação do presente regulamento. Deverão comunicar-se à Comissão as medidas de controlo.\n\n(5) Na execução dos programas, deve garantir-se a coerência entre as acções dos programas apícolas e outras medidas referentes a diversas políticas comunitárias, em especial dos regulamentos relativos a coordenação das políticas de investigação agroalimentar. Deve evitar-se, em especial, qualquer sobrecompensação devida à combinação de ajudas e qualquer contradição na definição das acções.\n\n(6) De forma a permitir uma certa flexibilidade na execução do programa, os limites financeiros comunicados para cada acção podem variar numa determinada percentagem, desde que o limite máximo estabelecido para o programa anual não seja excedido. Em caso de recurso à flexibilidade na execução do programa, a participação financeira da Comunidade não pode exceder o limite de 50 % das despesas efectivamente suportadas pelo Estado-Membro em causa.\n\n(7) De forma proporcionar uma maior flexibilidade de execução, as acções de um programa podem ser adaptadas durante a execução do mesmo, desde que as adaptações sejam conformes com o Regulamento (CE) n.º 797/2004.\n\n(8) Importa adoptar normas para a fixação das taxas de conversão agrícola aplicáveis ao financiamento dos programas apícolas.\n\n(9) De forma a efectuar e actualizar de forma adequada o estudo previsto no artigo 3.º do Regulamento (CE) n.º 797/2004 sobre a estrutura do sector da apicultura, importa estabelecer normas respeitantes ao seu conteúdo.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Aves de Capoeira e dos Ovos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "977bcfb6e6f63d9d": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros comunicarão à Comissão, antes da data prevista no n.º 2 do artigo 2.º, a lista das acções sobre apicultura inscritas nos programas operacionais nacionais no âmbito dos objectivos n.^os^ 1 e 2 previstos pelo Regulamento (CE) n.º 1260/1999 do Conselho ([^4^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#E0004)).\n\n2. A mesma acção não pode ser objecto de pagamentos simultaneamente no âmbito do Regulamento (CE) n.º 797/2004 e no âmbito de outro regime de ajuda comunitário, nomeadamente ao abrigo do Regulamento (CE) n.º 1257/1999 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#E0005))."
+  },
+  "3be8d7b036109539": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara os montantes referidos no artigo 3.º, o facto gerador da taxa de câmbio do euro é o indicado no n.º 1, primeiro parágrafo, do artigo 7.º do Regulamento (CE) n.º 1913/2006 da Comissão ([^6^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#E0006))."
+  },
+  "a779a8deecdee639": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nEstado-Membro Efectivo apícola Número de colmeias\n\nBE 112 000\n\nBG 617 420\n\nCZ 497 946\n\nDK 170 000\n\nDE 711 913\n\nEE 24 800\n\nEL 1 502 239\n\nES 2 459 373\n\nFR 1 338 650\n\nIE 24 000\n\nIT 1 127 836\n\nCY 43 975\n\nLV 64 133\n\nLT 117 977\n\nLU 8 171\n\nHU 900 000\n\nMT 2 722\n\nNL 80 000\n\nAT 367 583\n\nPL 1 123 356\n\nPT 562 557\n\nRO 1 280 000\n\nSI 142 751\n\nSK 235 689\n\nFI 46 000\n\nSE 150 000\n\nUK 274 000\n\n**UE 27** 13 985 091"
+  },
+  "685df601746d2857": {
+   "fragment_id": "5. Qualidade do mel",
+   "type": "divisao",
+   "heading": "5. Qualidade do mel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Qualidade do mel\n\nEspecificidade: Regulamento (CEE) n.º 2082/92 do Conselho ([^7^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#E0007))\n\nDenominação de origem protegida (DOP): Regulamento (CEE) n.º 2081/92 do Conselho ([^8^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#E0008))\n\nIndicação geográfica protegida (IGP): Regulamento (CEE) n.º 2081/92"
+  },
+  "4d80ac28e8fb899c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#src.E0001)) JO L 125 de 28.4.2004, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#src.E0002)) JO L 173 de 1.7.1997, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#src.E0003)) JO L 319 de 21.11.1997, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1387/2003 (JO L 196 de 2.8.2003, p. 22).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#src.E0004)) JO L 161 de 26.6.1999, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#src.E0005)) JO L 160 de 26.6.1999, p. 80.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#src.E0006)) JO L 365 de 21.12.2006, p. 52.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#src.E0007)) JO L 208 de 24.7.1992, p. 9.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/9b9d721b-9a32-4ade-933f-9dc1e2745eda.0018.03/DOC_1#src.E0008)) JO L 208 de 24.7.1992, p. 1."
+  },
+  "bb5aa7c60f1ff734": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque estabelece normas de execução do Regulamento (CE) n.º 797/2004 do Conselho [**►C1**](http://publications.europa.eu/resource/celex/32004R0917R%2801%29) relativo a acções de melhoria das condições de produção e comercialização de produtos da apicultura**◄**\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 797/2004 Conselho, de 26 de Abril de 2004, relativo a acções no domínio da apicultura ([^1^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#E0001)), e, nomeadamente, o seu artigo 6.º,\n\n(1) O Regulamento (CE) n.º 797/2004, que substitui o Regulamento (CE) n.º 1221/97 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#E0002)), estabeleceu acções destinadas a melhorar as condições de produção e comercialização dos produtos da apicultura. Por motivos de clareza, é conveniente revogar o Regulamento (CE) n.º 2300/97 da Comissão, de 20 de Novembro de 1997, que estabelece normas de execução do Regulamento (CE) n.º 1221/97 do Conselho que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel ([^3^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#E0003)) e substitui-lo por um novo regulamento.\n\n(2) O artigo 1.º do Regulamento (CE) n.º 797/2004 prevê o estabelecimento facultativo de programas apícolas pelos Estados-Membros. É necessário determinar os elementos essenciais que devem constar desses programas, bem como o prazo para a sua transmissão à Comissão.\n\n(3) É necessário limitar a participação comunitária no financiamento dos programas apícolas atendendo à distribuição do efectivo apícola comunitário.\n\n(4) Os Estados-Membros devem proceder ao controlo da aplicação do presente regulamento. Deverão comunicar-se à Comissão as medidas de controlo.\n\n(5) Na execução dos programas, deve garantir-se a coerência entre as acções dos programas apícolas e outras medidas referentes a diversas políticas comunitárias, em especial dos regulamentos relativos a coordenação das políticas de investigação agroalimentar. Deve evitar-se, em especial, qualquer sobrecompensação devida à combinação de ajudas e qualquer contradição na definição das acções.\n\n(6) De forma a permitir uma certa flexibilidade na execução do programa, os limites financeiros comunicados para cada acção podem variar numa determinada percentagem, desde que o limite máximo estabelecido para o programa anual não seja excedido. Em caso de recurso à flexibilidade na execução do programa, a participação financeira da Comunidade não pode exceder o limite de 50 % das despesas efectivamente suportadas pelo Estado-Membro em causa.\n\n(7) De forma proporcionar uma maior flexibilidade de execução, as acções de um programa podem ser adaptadas durante a execução do mesmo, desde que as adaptações sejam conformes com o Regulamento (CE) n.º 797/2004.\n\n(8) Importa adoptar normas para a fixação das taxas de conversão agrícola aplicáveis ao financiamento dos programas apícolas.\n\n(9) De forma a efectuar e actualizar de forma adequada o estudo previsto no artigo 3.º do Regulamento (CE) n.º 797/2004 sobre a estrutura do sector da apicultura, importa estabelecer normas respeitantes ao seu conteúdo.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Aves de Capoeira e dos Ovos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "546fbbb024d28ddf": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs programas nacionais referidos no artigo 105.º do Regulamento (CE) n.º 1234/2007 ([^4^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#E0004)) do Conselho (a seguir designados «programas apícolas») devem incluir:\n\na) A descrição da situação do setor, de forma a permitir atualizar regularmente os dados estruturais constantes do estudo a que se refere o artigo 107.º do Regulamento (CE) nº 1234/2007, nomeadamente:\n\ni) o número total de apicultores,\n\nii) o número de apicultores profissionais com mais de 150 colmeias cada,\n\niii) o número total de colmeias,\n\niv) a produção de mel,\n\nv) a lista dos objetivos do programa;\n\nb) A descrição precisa das ações, com uma estimativa dos custos e um plano de financiamento aos níveis nacional e regional, discriminado por exercício anual, em função das rubricas seguintes:\n\ni) assistência técnica aos apicultores,\n\nii) combate à varroose,\n\niii) racionalização da transumância,\n\niv) análise do mel,\n\nv) repovoamento do efetivo apícola,\n\nvi) programas de investigação aplicada;\n\nc) A referência às disposições legislativas, regulamentares ou administrativas aplicáveis;\n\nd) A lista das organizações representativas e das cooperativas do setor apícola que colaboraram com a autoridade competente do Estado-Membro na elaboração dos programas apícolas;\n\ne) As regras de acompanhamento e avaliação dos programas apícolas."
+  },
+  "a2ca3fa93dc1f797": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros comunicarão à Comissão, antes da data prevista no n.º 2 do artigo 2.º, a lista das acções sobre apicultura inscritas nos programas operacionais nacionais no âmbito dos objectivos n.^os^ 1 e 2 previstos pelo Regulamento (CE) n.º 1260/1999 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#E0005)).\n\n2. A mesma acção não pode ser objecto de pagamentos simultaneamente no âmbito do Regulamento (CE) n.º 797/2004 e no âmbito de outro regime de ajuda comunitário, nomeadamente ao abrigo do Regulamento (CE) n.º 1257/1999 do Conselho ([^6^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#E0006))."
+  },
+  "2f1bc7456be4b351": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNa condição de permanecerem conformes ao artigo 2.º do Regulamento (CE) n.º 797/2004, as acções dos programas apícolas podem ser adaptadas durante um exercício anual. Os limites financeiros de cada acção podem ser alterados, desde que o limite total das previsões de despesas anuais não seja excedido e a participação comunitária no financiamento dos programas apícolas não exceda 50 % das despesas suportadas pelo Estado-Membro em causa.\n\nO Estado-Membro em causa comunica à Comissão todos os projectos de adaptação das acções durante um exercício anual por força do primeiro parágrafo sempre que uma acção não tiver sido inicialmente prevista e comunicada no programa trienal. Se a Comissão não levantar objecções, a adaptação projectada é aplicável no primeiro dia do segundo mês seguinte ao da comunicação em causa.\n\nAté 15 de dezembro de cada exercício anual, os Estados-Membros comunicam à Comissão um mapa da execução das despesas, discriminadas pelas rubricas referidas no artigo 1.º, alínea b)."
+  },
+  "eee105835d9c2e8a": {
+   "fragment_id": "Artigo 6.º-A",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A\n\nAs comunicações referidas no presente regulamento devem ser efetuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#E0007))."
+  },
+  "c731f3eb2a2164bd": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara os montantes referidos no artigo 3.º, o facto gerador da taxa de câmbio do euro é o indicado no n.º 1, primeiro parágrafo, do artigo 7.º do Regulamento (CE) n.º 1913/2006 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#E0008))."
+  },
+  "782eb7112357edfa": {
+   "fragment_id": "5. Qualidade do mel",
+   "type": "divisao",
+   "heading": "5. Qualidade do mel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Qualidade do mel\n\nEspecificidade: Regulamento (CEE) n.º 2082/92 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#E0009))\n\nDenominação de origem protegida (DOP): Regulamento (CEE) n.º 2081/92 do Conselho ([^10^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#E0010))\n\nIndicação geográfica protegida (IGP): Regulamento (CEE) n.º 2081/92"
+  },
+  "de5c7d691977f312": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#src.E0001)) JO L 125 de 28.4.2004, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#src.E0002)) JO L 173 de 1.7.1997, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#src.E0003)) JO L 319 de 21.11.1997, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1387/2003 (JO L 196 de 2.8.2003, p. 22).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#src.E0004)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#src.E0005)) JO L 161 de 26.6.1999, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#src.E0006)) JO L 160 de 26.6.1999, p. 80.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#src.E0007)) JO L 228 de 1.9.2009, p. 3.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#src.E0008)) JO L 365 de 21.12.2006, p. 52.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#src.E0009)) JO L 208 de 24.7.1992, p. 9.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/326249e1-1e8a-4e7a-a8bb-2303c41efe78.0018.03/DOC_1#src.E0010)) JO L 208 de 24.7.1992, p. 1."
+  },
+  "0f7f82ef9a1176c7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Abril de 2004\n\nque estabelece normas de execução do Regulamento (CE) n.º 797/2004 do Conselho [**►C1**](http://publications.europa.eu/resource/celex/32004R0917R%2801%29) relativo a acções de melhoria das condições de produção e comercialização de produtos da apicultura**◄**\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 797/2004 Conselho, de 26 de Abril de 2004, relativo a acções no domínio da apicultura ([^1^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#E0001)), e, nomeadamente, o seu artigo 6.º,\n\n(1) O Regulamento (CE) n.º 797/2004, que substitui o Regulamento (CE) n.º 1221/97 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#E0002)), estabeleceu acções destinadas a melhorar as condições de produção e comercialização dos produtos da apicultura. Por motivos de clareza, é conveniente revogar o Regulamento (CE) n.º 2300/97 da Comissão, de 20 de Novembro de 1997, que estabelece normas de execução do Regulamento (CE) n.º 1221/97 do Conselho que estabelece as regras gerais de execução para as acções de melhoria da produção e comercialização de mel ([^3^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#E0003)) e substitui-lo por um novo regulamento.\n\n(2) O artigo 1.º do Regulamento (CE) n.º 797/2004 prevê o estabelecimento facultativo de programas apícolas pelos Estados-Membros. É necessário determinar os elementos essenciais que devem constar desses programas, bem como o prazo para a sua transmissão à Comissão.\n\n(3) É necessário limitar a participação comunitária no financiamento dos programas apícolas atendendo à distribuição do efectivo apícola comunitário.\n\n(4) Os Estados-Membros devem proceder ao controlo da aplicação do presente regulamento. Deverão comunicar-se à Comissão as medidas de controlo.\n\n(5) Na execução dos programas, deve garantir-se a coerência entre as acções dos programas apícolas e outras medidas referentes a diversas políticas comunitárias, em especial dos regulamentos relativos a coordenação das políticas de investigação agroalimentar. Deve evitar-se, em especial, qualquer sobrecompensação devida à combinação de ajudas e qualquer contradição na definição das acções.\n\n(6) De forma a permitir uma certa flexibilidade na execução do programa, os limites financeiros comunicados para cada acção podem variar numa determinada percentagem, desde que o limite máximo estabelecido para o programa anual não seja excedido. Em caso de recurso à flexibilidade na execução do programa, a participação financeira da Comunidade não pode exceder o limite de 50 % das despesas efectivamente suportadas pelo Estado-Membro em causa.\n\n(7) De forma proporcionar uma maior flexibilidade de execução, as acções de um programa podem ser adaptadas durante a execução do mesmo, desde que as adaptações sejam conformes com o Regulamento (CE) n.º 797/2004.\n\n(8) Importa adoptar normas para a fixação das taxas de conversão agrícola aplicáveis ao financiamento dos programas apícolas.\n\n(9) De forma a efectuar e actualizar de forma adequada o estudo previsto no artigo 3.º do Regulamento (CE) n.º 797/2004 sobre a estrutura do sector da apicultura, importa estabelecer normas respeitantes ao seu conteúdo.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão da Carne de Aves de Capoeira e dos Ovos,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "fb0d5ca192cb16b3": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs programas nacionais referidos no artigo 105.º do Regulamento (CE) n.º 1234/2007 ([^4^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#E0004)) do Conselho (a seguir designados «programas apícolas») devem incluir:\n\na) A descrição da situação do setor, de forma a permitir atualizar regularmente os dados estruturais constantes do estudo a que se refere o artigo 107.º do Regulamento (CE) nº 1234/2007, nomeadamente:\n\ni) o número total de apicultores,\n\niii) o número de apicultores profissionais com mais de 150 colmeias cada,\n\niii) o número total de colmeias,\n\niv) a produção de mel,\n\niv) a lista dos objetivos do programa;\n\nb) A descrição precisa das ações, com uma estimativa dos custos e um plano de financiamento aos níveis nacional e regional, discriminado por exercício anual, em função das rubricas seguintes:\n\nii) assistência técnica aos apicultores,\n\niii) combate à varroose,\n\niii) racionalização da transumância,\n\niv) análise do mel,\n\niv) repovoamento do efetivo apícola,\n\nvi) programas de investigação aplicada;\n\nc) A referência às disposições legislativas, regulamentares ou administrativas aplicáveis;\n\nd) A lista das organizações representativas e das cooperativas do setor apícola que colaboraram com a autoridade competente do Estado-Membro na elaboração dos programas apícolas;\n\ne) As regras de acompanhamento e avaliação dos programas apícolas."
+  },
+  "b4a87a0836b75434": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros comunicarão à Comissão os programas antes de 15 de Abril do primeiro ano do período trienal abrangido pelo programa.\n\n2. Cada ano do programa apícola («ano apícola») decorre durante 12 meses consecutivos, de 1 de setembro a 31 de agosto.\n\n3. As ações dos programas apícolas previstas para cada ano apícola devem ser executadas na íntegra durante o ano apícola em causa.\n\nOs pagamentos relativos às medidas executadas durante cada ano apícola devem ser efetuados durante o período de doze meses com início em 16 de outubro desse ano apícola e termo em 15 de outubro do ano seguinte."
+  },
+  "38f1fe6f5de9d075": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os Estados-Membros comunicarão à Comissão, antes da data prevista no n.º 2 do artigo 2.º, a lista das acções sobre apicultura inscritas nos programas operacionais nacionais no âmbito dos objectivos n.^os^ 1 e 2 previstos pelo Regulamento (CE) n.º 1260/1999 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#E0005)).\n\n2. A mesma acção não pode ser objecto de pagamentos simultaneamente no âmbito do Regulamento (CE) n.º 797/2004 e no âmbito de outro regime de ajuda comunitário, nomeadamente ao abrigo do Regulamento (CE) n.º 1257/1999 do Conselho ([^6^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#E0006))."
+  },
+  "5429e45e753f1c2c": {
+   "fragment_id": "Artigo 6.º-A",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A\n\nAs comunicações referidas no presente regulamento devem ser efetuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^7^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#E0007))."
+  },
+  "40494c91ce9f9052": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara os montantes referidos no artigo 3.º, o facto gerador da taxa de câmbio do euro é o indicado no n.º 1, primeiro parágrafo, do artigo 7.º do Regulamento (CE) n.º 1913/2006 da Comissão ([^8^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#E0008))."
+  },
+  "6d88de59d0286ecf": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Estado-Membro | Efetivo apícola Número de colmeias |\n| --- | --- |\n| BE | 107 800 |\n| BG | 526 014 |\n| CZ | 540 705 |\n| DK | 150 000 |\n| DE | 711 299 |\n| EE | 41 400 |\n| IE | 15 710 |\n| EL | 1 584 206 |\n| ES | 2 459 292 |\n| FR | 1 636 000 |\n| [▼C2](http://publications.europa.eu/resource/celex/32013R0768R%2803%29) |  |\n| HR | 491 981 |\n| [▼M7](http://publications.europa.eu/resource/celex/32013R0768) |  |\n| IT | 1 316 774 |\n| CY | 44 953 |\n| LV | 83 801 |\n| LT | 144 969 |\n| LU | 7 804 |\n| HU | 1 088 590 |\n| MT | 3 142 |\n| NL | 80 000 |\n| AT | 376 485 |\n| PL | 1 280 693 |\n| PT | 566 793 |\n| RO | 1 550 000 |\n| SI | 167 000 |\n| SK | 254 859 |\n| FI | 50 000 |\n| SE | 150 000 |\n| UK | 274 000 |\n| UE 28 | 15 704 270 |"
+  },
+  "b483694c47286626": {
+   "fragment_id": "5. Qualidade do mel",
+   "type": "divisao",
+   "heading": "5. Qualidade do mel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. Qualidade do mel\n\nEspecificidade: Regulamento (CEE) n.º 2082/92 do Conselho ([^9^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#E0009))\n\nDenominação de origem protegida (DOP): Regulamento (CEE) n.º 2081/92 do Conselho ([^10^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#E0010))\n\nIndicação geográfica protegida (IGP): Regulamento (CEE) n.º 2081/92"
+  },
+  "826fa1adc586651b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#src.E0001)) JO L 125 de 28.4.2004, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#src.E0002)) JO L 173 de 1.7.1997, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#src.E0003)) JO L 319 de 21.11.1997, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1387/2003 (JO L 196 de 2.8.2003, p. 22).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#src.E0004)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#src.E0005)) JO L 161 de 26.6.1999, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#src.E0006)) JO L 160 de 26.6.1999, p. 80.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#src.E0007)) JO L 228 de 1.9.2009, p. 3.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#src.E0008)) JO L 365 de 21.12.2006, p. 52.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#src.E0009)) JO L 208 de 24.7.1992, p. 9.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/efa788ec-3b16-4829-9901-238c033f861f.0019.03/DOC_1#src.E0010)) JO L 208 de 24.7.1992, p. 1."
+  },
+  "bc3bc0f56c151fc8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2004R0917 — PT — 09.08.2015 — 008.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32004R0917) [REGULAMENTO (CE) N.º 917/2004 DA COMISSÃO](http://publications.europa.eu/resource/celex/32004R0917) [de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004R0917) [que estabelece normas de execução do Regulamento (CE) n.º 797/2004 do Conselhorelativo a acções de melhoria das condições de produção e comercialização de produtos da apicultura](http://publications.europa.eu/resource/celex/32004R0917) (JO L 163, 30.4.2004, p.83)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) 2015/1366 da Comissão de 11 de maio de 2015](http://publications.europa.eu/resource/celex/32015R1366) — L 211 — 3 — 8.8.2015"
+  }
+ }
+}

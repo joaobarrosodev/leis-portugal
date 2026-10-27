@@ -1,0 +1,462 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:603884:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-117557018",
+ "dre_path": "/dr/detalhe/decreto-lei/93-2009-603884",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117556957",
+    "117556958",
+    "117556959",
+    "117556960",
+    "117556961",
+    "117556962",
+    "117556963",
+    "117556964",
+    "117556965",
+    "117556966",
+    "117556967",
+    "117556968",
+    "117556969",
+    "117556970",
+    "117556971",
+    "117556972",
+    "117556973",
+    "117556974",
+    "117557375",
+    "117557376",
+    "117557377"
+   ]
+  },
+  {
+   "date": "2011-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:278876:por",
+     "title": "Decreto-Lei n.º 42/2011",
+     "published": "2011-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/42-2011-278876"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "117556957",
+    "117556958",
+    "117556959",
+    "117556960",
+    "117556961",
+    "117556962",
+    "117556963",
+    "117556964",
+    "941258938",
+    "117556965",
+    "117556966",
+    "117556967",
+    "117556968",
+    "117556969",
+    "117556970",
+    "117556971",
+    "117556972",
+    "117556973",
+    "117556974",
+    "117557384",
+    "117557383",
+    "117557376",
+    "117557377",
+    "117557378"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537583:por",
+     "title": "Lei n.º 71/2018",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/lei/71-2018-117537583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "117556957",
+    "117556958",
+    "117556959",
+    "117556960",
+    "117556961",
+    "117556962",
+    "117556963",
+    "117556964",
+    "941258938",
+    "117556965",
+    "117556966",
+    "117556967",
+    "117556968",
+    "117556969",
+    "117556970",
+    "117557385",
+    "117556972",
+    "117556973",
+    "117556974",
+    "117557384",
+    "117557383",
+    "117557376",
+    "117557377",
+    "117557378"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "117556957",
+    "117556958",
+    "117556959",
+    "117556960",
+    "117556961",
+    "117556962",
+    "117556963",
+    "117556964",
+    "941258938",
+    "117556965",
+    "117556966",
+    "117556967",
+    "117556968",
+    "117556969",
+    "117556970",
+    "131290551",
+    "131290549",
+    "131290550",
+    "117556973",
+    "117556974",
+    "117557384",
+    "117557383",
+    "117557376",
+    "117557377",
+    "117557378"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º-A"
+   ],
+   "fragments": [
+    "117556957",
+    "117556958",
+    "117556959",
+    "117556960",
+    "117556961",
+    "117556962",
+    "117556963",
+    "117556964",
+    "941258938",
+    "117556965",
+    "117556966",
+    "117556967",
+    "117556968",
+    "117556969",
+    "117556970",
+    "131290551",
+    "836267991",
+    "131290550",
+    "117556973",
+    "117556974",
+    "117557384",
+    "117557383",
+    "117557376",
+    "117557377",
+    "117557378"
+   ]
+  }
+ ],
+ "fragments": {
+  "117556957": {
+   "fragment_id": "117557019",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 93/2009\n\nde 16 de Abril\n\nO sistema supletivo descentralizado de ajudas técnicas e tecnologias de apoio para pessoas com deficiência foi criado na década de 90 por despacho conjunto dos ministros que tutelavam as áreas da saúde e do trabalho e da solidariedade social.\n\nAs ajudas técnicas e tecnologias de apoio apresentam-se como recursos de primeira linha no universo das múltiplas respostas para o desenvolvimento dos programas de habilitação, reabilitação e participação das pessoas com deficiência e inscrevem-se no quadro das garantias da igualdade de oportunidades e da justiça social da acção governativa do XVII Governo Constitucional e integração da pessoa com deficiência aos níveis social e profissional de forma a dar-se execução ao disposto na Lei de Bases da Prevenção, Habilitação, Reabilitação e Participação das Pessoas com Deficiência.\n\nFace a alguns obstáculos identificados no sistema actual, à necessidade de dar cumprimento à Lei n.º 38/2004, de 18 de Agosto, na parte em que dispõe que «compete ao Estado adoptar medidas específicas necessárias para assegurar o fornecimento, adaptação, manutenção ou renovação dos meios de compensação que forem adequados», e ao I Plano de Acção para a Integração das Pessoas com Deficiência ou Incapacidade, na parte em que se refere o objectivo de proceder à «revisão do sistema supletivo de financiamento, prescrição e atribuição de ajudas técnicas e concepção de um novo sistema integrado», considera-se necessário proceder a uma reformulação do sistema em vigor com vista a identificar as dificuldades existentes e adoptar as medidas necessárias para garantir a igualdade de oportunidades de todos os cidadãos, promover a integração e participação das pessoas com deficiência e em situação de dependência na sociedade e promover uma maior justiça social.\n\nO presente decreto-lei visa, assim, criar de forma pioneira e inovadora o enquadramento especifico para o Sistema de Atribuição de Produtos de Apoio - SAPA, que vem substituir o então sistema supletivo de ajudas técnicas e tecnologias de apoio, designadas ora em diante por Produtos de Apoio nos termos da nomenclatura utilizada na Norma ISO 9999:2007, de modo a garantir, por um lado, a eficácia do sistema, a operacionalidade e eficiência dos seus mecanismos e a sua aplicação criteriosa e, por outro lado, a desburocratização do sistema actual ao simplificar as formalidades exigidas pelos serviços prescritores e ao criar uma base de dados de registo de pedidos com vista ao controlo dos mesmos por forma a evitar, nomeadamente, a duplicação de financiamento ao utente.\n\nO presente decreto-lei visa, ainda, no âmbito do Programa de Simplificação Administrativa e Legislativa, criar as condições necessárias à implementação das medidas SIMPLEX2008 números M099 e M100.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nFoi promovida a audição do Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "117556958": {
+   "fragment_id": "117557020",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "117556959": {
+   "fragment_id": "117557021",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei visa criar o Sistema de Atribuição de Produtos de Apoio, adiante designado por SAPA."
+  },
+  "117556960": {
+   "fragment_id": "117557022",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal\n\nO SAPA abrange as pessoas com deficiência e, ainda, as pessoas que por uma incapacidade temporária necessitam de produtos de apoio."
+  },
+  "117556961": {
+   "fragment_id": "117557023",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito material\n\nO SAPA integra as estruturas adequadas do Ministério do Trabalho e da Solidariedade Social, do Ministério da Saúde e do Ministério da Educação."
+  },
+  "117556962": {
+   "fragment_id": "117557024",
+   "type": 11,
+   "heading": "Artigo 4.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conceitos\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Pessoa com deficiência» aquela que, por motivos de perda ou anomalia, congénita ou adquirida, de funções ou de estruturas do corpo, incluindo as funções psicológicas, apresente dificuldades específicas susceptíveis de, em conjugação com os factores do meio, lhe limitar ou dificultar a actividade e participação em condições de igualdade com as demais pessoas;\n\nb) «Pessoa com incapacidade temporária» aquela pessoa que por motivo de doença ou acidente encontre, por um período limitado e específico no tempo, dificuldades específicas susceptíveis de, em conjugação com os factores do meio, lhe limitar ou dificultar a sua actividade e participação diária em condições de igualdade com as demais pessoas;\n\nc) «Produtos de apoio (anteriormente designados de ajudas técnicas)» qualquer produto, instrumento, equipamento ou sistema técnico usado por uma pessoa com deficiência, especialmente produzido ou disponível que previne, compensa, atenua ou neutraliza a limitação funcional ou de participação;\n\nd) «Entidades prescritoras» a entidade, serviço, organismo ou centro de referência à qual pertence a equipa técnica multidisciplinar ou o médico que procede à prescrição;\n\ne) «Entidades financiadoras», as entidades que comparticipam a aquisição do produto de apoio com base numa prescrição passada por entidade prescritora;\n\nf) «Equipa técnica multidisciplinar» a equipa de técnicos com saberes transversais das várias áreas de intervenção em reabilitação, integrando, designadamente, médico, enfermeiro, fisioterapeuta, terapeuta ocupacional, terapeuta da fala, psicólogo, docente, recorrendo quando necessário a outros técnicos em função de cada uma das situações, nomeadamente técnicos de serviço social, protésicos, engenheiros e ergonomistas, de forma a que a identificação dos produtos de apoio seja a mais adequada à situação concreta, no contexto de vida da pessoa."
+  },
+  "117556963": {
+   "fragment_id": "117557025",
+   "type": 11,
+   "heading": "Artigo 5.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objectivos\n\nConstituem objectivos do SAPA a realização de uma política global, integrada e transversal de resposta às pessoas com deficiência ou com incapacidade temporária de forma a compensar e atenuar as limitações de actividade e restrições de participação decorrentes da deficiência ou incapacidade temporária através, designadamente:\n\na) Da atribuição de forma gratuita e universal de produtos de apoio;\n\nb) Da gestão eficaz da sua atribuição mediante, designadamente, a simplificação de procedimentos exigidos pelas entidades e a implementação de um sistema informático centralizado;\n\nc) Do financiamento simplificado dos produtos de apoio."
+  },
+  "117556964": {
+   "fragment_id": "117557026",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de Atribuição de Produtos de Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de Atribuição de Produtos de Apoio"
+  },
+  "117556965": {
+   "fragment_id": "117557027",
+   "type": 8,
+   "heading": "Secção I — Da prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Da prescrição"
+  },
+  "117556966": {
+   "fragment_id": "117557028",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades prescritoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidades prescritoras\n\nAs entidades prescritoras são definidas por despacho do membro do Governo que tutela aquelas entidades."
+  },
+  "117556967": {
+   "fragment_id": "117557029",
+   "type": 11,
+   "heading": "Artigo 8.º — Acto de prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acto de prescrição\n\n1 - Os produtos de apoio são prescritos por equipa técnica multidisciplinar, designada e a funcionar junto da entidade prescritora, sem prejuízo do disposto no n.º 3.\n\n2 - A equipa técnica multidisciplinar é constituída, no mínimo, por dois técnicos.\n\n3 - No caso de prescrição médica obrigatória, os produtos de apoio são prescritos apenas por médico."
+  },
+  "117556968": {
+   "fragment_id": "117557030",
+   "type": 11,
+   "heading": "Artigo 9.º — Fichas de prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fichas de prescrição\n\n1 - Com vista ao financiamento dos produtos de apoio as entidades intervenientes no SAPA devem obrigatoriamente preencher uma ficha de prescrição disponível online, incluída no sistema informático centralizado.\n\n2 - O modelo da ficha de prescrição referida no número anterior bem como o sítio da Internet onde o mesmo se encontra disponível é aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do trabalho e da solidariedade social, da saúde e da educação."
+  },
+  "117556969": {
+   "fragment_id": "117557031",
+   "type": 11,
+   "heading": "Artigo 10.º — Lista de produtos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Lista de produtos de apoio\n\n1 - A elaboração da lista de produtos de apoio, tendo como referência o constante nas normas ISO 9999, é objecto de despacho do director do INR, I. P., após parecer vinculativo das entidades financiadoras, sendo revisto anualmente.\n\n2 - Do parecer referido no número anterior consta a listagem dos produtos de prescrição médica obrigatória.\n\n3 - O director-geral da Saúde procede, para efeitos do disposto no número anterior, à definição dos produtos de apoio que são de prescrição médica obrigatória.\n\n4 - O despacho referido no n.º 1 identifica os produtos susceptíveis de serem reutilizados."
+  },
+  "117556970": {
+   "fragment_id": "117557032",
+   "type": 8,
+   "heading": "Secção II — Do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do financiamento"
+  },
+  "117556971": {
+   "fragment_id": "117557033",
+   "type": 11,
+   "heading": "Artigo 11.º — Atribuição das verbas e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Atribuição das verbas e financiamento\n\n1 - As verbas destinadas ao financiamento dos produtos de apoio abrangidos pelo presente decreto-lei são geridas autonomamente por cada entidade financiadora e são disponibilizadas:\n\na) Pela Administração Central do Sistema de Saúde, I. P., às unidades hospitalares e a outras entidades prescritoras, definidas no despacho a que se refere o artigo 7.º do presente decreto-lei, quanto aos produtos de apoio nelas prescritos no âmbito dos cuidados de saúde prestados aos seus utentes;\n\nb) Pelos centros distritais da segurança social, através do Instituto da Segurança Social, I. P., aos centros de saúde e a outras entidades prescritoras, definidas no despacho a que se refere o artigo 7.º do presente decreto-lei, quanto aos produtos de apoio nelas prescritos;\n\nc) Pelo Instituto do Emprego e Formação Profissional, I. P., aos centros de emprego, quanto aos produtos de apoio indispensáveis ao acesso e frequência da formação profissional e ou para o acesso, manutenção ou progressão no emprego;\n\nd) Pela Direcção-Geral de Inovação e Desenvolvimento Curricular, às estruturas da educação, quanto aos produtos de apoio indispensáveis ao acesso e à frequência do sistema educativo no âmbito da educação pré-escolar e do ensino básico e secundário.\n\n2 - O montante das verbas destinadas ao financiamento dos produtos de apoio é fixado, anualmente, por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, da segurança social, da saúde e da educação."
+  },
+  "117556972": {
+   "fragment_id": "117557034",
+   "type": 11,
+   "heading": "Artigo 12.º — Comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comparticipação\n\n1 - A comparticipação dos produtos de apoio é de 100 %, sendo assegurada nos termos do previsto no artigo anterior, sem prejuízo do disposto no número seguinte.\n\n2 - Nas unidades hospitalares e noutras entidades prescritoras da área da saúde, definidas no despacho a que se refere o artigo 7.º do presente decreto-lei, os produtos de apoio são directamente fornecidos aos utentes, não havendo lugar a comparticipação através de reembolso.\n\n3 - Quando o produto de apoio conste nas tabelas de reembolsos do Serviço Nacional de Saúde, de subsistema da saúde, ou ainda quando é comparticipado por empresa de seguros, a comparticipação é do montante correspondente à diferença entre o custo do produto de apoio e o valor suportado pelas entidades referidas."
+  },
+  "117556973": {
+   "fragment_id": "117557035",
+   "type": 8,
+   "heading": "Secção III — Da gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da gestão"
+  },
+  "117556974": {
+   "fragment_id": "117557036",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências da entidade gestora\n\nAo INR, I. P., para efeitos do presente decreto-lei, compete:\n\na) A constituição e a actualização de um catálogo indicativo de produtos de apoio, que são propostos pelas entidades financiadoras;\n\nb) A gestão da informação do SAPA;\n\nc) A apresentação, às entidades financiadoras, de um relatório anual de execução do SAPA."
+  },
+  "117557375": {
+   "fragment_id": "117557037",
+   "type": 11,
+   "heading": "Artigo 14.º — Base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Base de dados\n\nA base de dados de registo do SAPA, criada com o objectivo de garantir a eficácia do sistema, a operacionalidade e eficiência dos seus mecanismos e a sua aplicação criteriosa, é definida por decreto regulamentar."
+  },
+  "117557376": {
+   "fragment_id": "117557038",
+   "type": 1,
+   "heading": "Capítulo III — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposição final"
+  },
+  "117557377": {
+   "fragment_id": "117557039",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 90 dias após a sua publicação."
+  },
+  "941258938": {
+   "fragment_id": "941568087",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição\n\n1 - O SAPA é composto por entidades prescritoras, entidades financiadoras e uma entidade gestora.\n\n2 - As entidades referidas no número anterior encontram-se interligadas por um sistema informático centralizado cuja gestão compete ao Instituto Nacional para a Reabilitação, I. P. (INR, I. P.)."
+  },
+  "117557384": {
+   "fragment_id": "117557037",
+   "type": 11,
+   "heading": "Artigo 14.º — Base de dados",
+   "in_force_from": "2011-03-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42/2011 - Diário da República n.º 58/2011, Série I de 2011-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2011-278876), em vigor a partir de 2011-03-28"
+   ],
+   "markdown": "###### Artigo 14.º — Base de dados\n\nA base de dados de registo do SAPA, criada com o objectivo de garantir a eficácia do sistema, a operacionalidade e eficiência dos seus mecanismos e a sua aplicação criteriosa, é definida por portaria dos membros do Governo responsáveis pelas áreas do trabalho e da solidariedade social, da saúde e da educação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 42/2011 - Diário da República n.º 58/2011, Série I de 2011-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2011-278876), em vigor a partir de 2011-03-28"
+  },
+  "117557383": {
+   "fragment_id": "117557046",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Regime transitório",
+   "in_force_from": "2011-03-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2011 - Diário da República n.º 58/2011, Série I de 2011-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2011-278876), em vigor a partir de 2011-03-28"
+   ],
+   "markdown": "###### Artigo 14.º-A — Regime transitório\n\n1 - Até à publicação da portaria prevista no artigo anterior, o montante das verbas destinadas ao financiamento dos produtos de apoio é fixado, anualmente, por despacho conjunto dos membros do Governo responsáveis pelas áreas da segurança social e da saúde.\n\n2 - Para efeitos do disposto no número anterior, a definição dos procedimentos das entidades prescritoras e financiadoras, assim como a identificação da lista dos produtos de apoio mantêm-se na competência da directora do Instituto Nacional para a Reabilitação, I. P.\n\n3 - A definição dos procedimentos das entidades prescritoras e financiadoras, assim como a identificação da lista dos produtos de apoio, nos termos do número anterior, é precedida de audição da Direcção-Geral da Saúde (DGS), do Instituto da Segurança Social, I. P. (ISS, I. P.), e do Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.).\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2011 - Diário da República n.º 58/2011, Série I de 2011-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2011-278876), em vigor a partir de 2011-03-28"
+  },
+  "117557378": {
+   "fragment_id": "117557040",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros, de 26 de Fevereiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge - Maria de Lurdes Reis Rodrigues.\n\nPromulgado em 3 de Abril de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 6 de Abril de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "117557385": {
+   "fragment_id": "117557033",
+   "type": 11,
+   "heading": "Artigo 11.º — Atribuição das verbas e financiamento",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 320.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Atribuição das verbas e financiamento\n\n1 - As verbas destinadas ao financiamento dos produtos de apoio abrangidos pelo presente decreto-lei são geridas autonomamente por cada entidade financiadora e são disponibilizadas:\n\na) Pela Administração Central do Sistema de Saúde, I. P., às unidades hospitalares e a outras entidades prescritoras, definidas no despacho a que se refere o artigo 7.º do presente decreto-lei, quanto aos produtos de apoio nelas prescritos no âmbito dos cuidados de saúde prestados aos seus utentes;\n\nb) Pelos centros distritais da segurança social, através do Instituto da Segurança Social, I. P., aos centros de saúde e a outras entidades prescritoras, definidas no despacho a que se refere o artigo 7.º do presente decreto-lei, quanto aos produtos de apoio nelas prescritos;\n\nc) Pelo Instituto do Emprego e Formação Profissional, I. P., aos centros de emprego, quanto aos produtos de apoio indispensáveis ao acesso e frequência da formação profissional e ou para o acesso, manutenção ou progressão no emprego;\n\nd) Pela Direcção-Geral de Inovação e Desenvolvimento Curricular, às estruturas da educação, quanto aos produtos de apoio indispensáveis ao acesso e à frequência do sistema educativo no âmbito da educação pré-escolar e do ensino básico e secundário.\n\n2 - O montante das verbas destinadas ao financiamento dos produtos de apoio é fixado, anualmente, por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, da segurança social, da saúde e da educação.\n\n3 - As entidades referidas no n.º 1 têm o prazo de 60 dias para comunicar o deferimento ou indeferimento do financiamento dos produtos de apoio abrangidos pelo presente decreto-lei.\n\n> Alterado pelo/a Artigo 320.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "131290551": {
+   "fragment_id": "117557033",
+   "type": 11,
+   "heading": "Artigo 11.º — Atribuição das verbas e financiamento",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 391.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 320.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Atribuição das verbas e financiamento\n\n1 - As verbas destinadas ao financiamento dos produtos de apoio abrangidos pelo presente decreto-lei são geridas autonomamente por cada entidade financiadora e são disponibilizadas:\n\na) Pela Administração Central do Sistema de Saúde, I. P., às unidades hospitalares e a outras entidades prescritoras, definidas no despacho a que se refere o artigo 7.º do presente decreto-lei, quanto aos produtos de apoio nelas prescritos no âmbito dos cuidados de saúde prestados aos seus utentes;\n\nb) Pelos centros distritais da segurança social, através do Instituto da Segurança Social, I. P., aos centros de saúde e a outras entidades prescritoras, definidas no despacho a que se refere o artigo 7.º do presente decreto-lei, quanto aos produtos de apoio nelas prescritos;\n\nc) Pelo Instituto do Emprego e Formação Profissional, I. P., aos centros de emprego, quanto aos produtos de apoio indispensáveis ao acesso e frequência da formação profissional e ou para o acesso, manutenção ou progressão no emprego;\n\nd) Pela Direcção-Geral de Inovação e Desenvolvimento Curricular, às estruturas da educação, quanto aos produtos de apoio indispensáveis ao acesso e à frequência do sistema educativo no âmbito da educação pré-escolar e do ensino básico e secundário.\n\n2 - O montante das verbas destinadas ao financiamento dos produtos de apoio é fixado, anualmente, até 31 de março, por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, da segurança social, da saúde e da educação.\n\n3 - O financiamento assumirá a forma de reembolso sempre que os produtos de apoio sejam previamente adquiridos de acordo com prescrição emitida por entidade prescritora, justificando a urgência da aquisição, bem como nos casos de reparação dos produtos de apoio.\n\n> Alterado pelo/a Artigo 391.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 320.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "131290549": {
+   "fragment_id": "131290456",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Prazo de transferência ou entrega",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 392.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Prazo de transferência ou entrega\n\nAs entidades referidas no artigo anterior têm um prazo de 30 dias, a partir da data do deferimento do financiamento dos produtos de apoio abrangidos pelo presente decreto-lei, para proceder à transferência do financiamento para o requerente ou para entregar o produto de apoio requerido.\n\n> Aditado pelo/a Artigo 392.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "131290550": {
+   "fragment_id": "117557034",
+   "type": 11,
+   "heading": "Artigo 12.º — Comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comparticipação\n\n1 - A comparticipação dos produtos de apoio é de 100 %, sendo assegurada nos termos do previsto no artigo anterior, sem prejuízo do disposto no número seguinte.\n\n2 - Nas unidades hospitalares e noutras entidades prescritoras da área da saúde, definidas no despacho a que se refere o artigo 7.º do presente decreto-lei, os produtos de apoio são directamente fornecidos aos utentes, não havendo lugar a comparticipação através de reembolso.\n\n3 - Quando o produto de apoio conste nas tabelas de reembolsos do Serviço Nacional de Saúde, de subsistema da saúde, ou ainda quando é comparticipado por empresa de seguros, a comparticipação é do montante correspondente à diferença entre o custo do produto de apoio e o valor suportado pelas entidades referidas."
+  },
+  "836267991": {
+   "fragment_id": "131290456",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Prazo para comunicação da decisão e para a transferência ou entrega",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 295.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01",
+    "Aditado pelo/a Artigo 392.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Prazo para comunicação da decisão e para a transferência ou entrega\n\n1 - As entidades referidas no artigo anterior têm um prazo de 60 dias para comunicar o deferimento ou indeferimento do financiamento dos produtos de apoio requeridos.\n\n2 - As entidades referidas no artigo anterior têm um prazo de 30 dias, a partir da data do deferimento do financiamento dos produtos de apoio abrangidos pelo presente decreto-lei, para proceder à transferência do financiamento para o requerente ou para entregar o produto de apoio requerido.\n\n> Alterado pelo/a Artigo 295.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01\n\n> Aditado pelo/a Artigo 392.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  }
+ }
+}

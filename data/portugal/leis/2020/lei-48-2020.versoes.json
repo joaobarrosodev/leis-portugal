@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:140950563:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-141076838",
+ "dre_path": "/dr/detalhe/lei/48-2020-140950563",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "141076925",
+    "141076926",
+    "141076927",
+    "141076928",
+    "141076929",
+    "141076930",
+    "141076931",
+    "141076932"
+   ]
+  },
+  {
+   "date": "2020-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:141597644:por",
+     "title": "Declaração de Retificação n.º 34/2020",
+     "published": "2020-09-01",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/34-2020-141597644"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º"
+   ],
+   "fragments": [
+    "141076925",
+    "141696318",
+    "141076927",
+    "141076928",
+    "141076929",
+    "141076930",
+    "141076931",
+    "141076932",
+    "141076933"
+   ]
+  }
+ ],
+ "fragments": {
+  "141076925": {
+   "fragment_id": "141076839",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 48/2020\n\nde 24 de agosto\n\nSumário: Altera o Código do IRS e a Lei n.º 119/2019, de 18 de setembro.\n\nAltera o Código do IRS e a Lei n.º 119/2019, de 18 de setembro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "141076926": {
+   "fragment_id": "141076840",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à alteração do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, e à primeira alteração da Lei n.º 119/2019, de 18 de setembro, clarificando o âmbito de aplicação retroativa do artigo 74.º do Código do IRS."
+  },
+  "141076927": {
+   "fragment_id": "141076841",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Código do IRS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Código do IRS\n\nO artigo 74.º do Código do IRS passa a ter a seguinte redação:\n\n«Artigo 74.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - A faculdade de opção pelo regime alternativo de tributação de rendimentos a que se refere o n.º 3 deve ser exercida na declaração de rendimentos do ano em que os rendimentos foram pagos ou colocados à disposição.\n\n8 - É aplicável o prazo previsto no n.º 2 do artigo 60.º do presente Código para a entrega das declarações relativas aos anos anteriores, contado a partir do termo do prazo a que se refere o n.º 1 do mesmo artigo.»"
+  },
+  "141076928": {
+   "fragment_id": "141076842",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração à Lei n.º 119/2019, de 18 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração à Lei n.º 119/2019, de 18 de setembro\n\nO artigo 24.º da Lei n.º 119/2019, de 18 de setembro, passa a ter a seguinte redação:\n\n«Artigo 24.º\n\nNormas transitórias\n\n1 - (Anterior corpo do artigo.)\n\n2 - O disposto no artigo 74.º do Código do IRS, é igualmente aplicável a rendimentos de pensões pagos ou colocados à disposição em 2017 e em 2018.»"
+  },
+  "141076929": {
+   "fragment_id": "141076843",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma interpretativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma interpretativa\n\nA alteração ao artigo 74.º prevista no artigo 2.º da Lei n.º 119/2019, de 18 de setembro, aplica-se retroativamente a rendimentos de pensões referentes a anos anteriores, até um limite de quatro anos."
+  },
+  "141076930": {
+   "fragment_id": "141076844",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposição transitória\n\n1 - No prazo de 60 dias após a publicação da presente lei, a Autoridade Tributária e Aduaneira, após articulação com o Instituto da Segurança Social, I. P., comunica por escrito a todos os pensionistas que tenham recebido pensões em atraso antes de outubro de 2019, a possibilidade de retificação das declarações de rendimentos referentes a anos anteriores, para efeitos do previsto no artigo 74.º do Código do IRS.\n\n2 - Nas situações a que se refere o n.º 2 do artigo 24.º da Lei n.º 119/2019, de 18 de setembro, os sujeitos passivos dispõem do prazo de 30 dias previsto no n.º 2 do artigo 60.º do Código do IRS, contados a partir do final do prazo previsto no número anterior, para a entrega da declaração de substituição referente ao ano do pagamento dos rendimentos ou colocação à disposição para o exercício da opção pelo regime alternativo de tributação dos rendimentos de anos anteriores."
+  },
+  "141076931": {
+   "fragment_id": "141076845",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\nO disposto no n.º 2 do artigo 24.º da Lei n.º 119/2019, de 18 de setembro, produz efeitos a partir da entrada em vigor da presente lei."
+  },
+  "141076932": {
+   "fragment_id": "141076846",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação."
+  },
+  "141696318": {
+   "fragment_id": "141076840",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-09-23",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 34/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/34-2020-141597644), em vigor a partir de 2020-09-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à alteração do Código do Imposto sobre o Rendimento das Pessoas Singulares (IRS), aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro, e à primeira alteração da Lei n.º 119/2019, de 18 de setembro, clarificando o âmbito de aplicação retroativa do artigo 74.º do Código do IRS\n\n> Retificado pelo/a [Declaração de Retificação n.º 34/2020 - Diário da República n.º 170/2020, Série I de 2020-09-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/34-2020-141597644), em vigor a partir de 2020-09-23"
+  },
+  "141076933": {
+   "fragment_id": "141076847",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de julho de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 10 de agosto de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 12 de agosto de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113492124"
+  }
+ }
+}

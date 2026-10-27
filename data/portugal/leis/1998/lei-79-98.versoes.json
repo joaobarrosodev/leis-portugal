@@ -1,0 +1,502 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:216516:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-840716463",
+ "dre_path": "/dr/detalhe/lei/79-1998-216516",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-11-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "840848487",
+    "840848490",
+    "840848488",
+    "840848491",
+    "840848492",
+    "840848493",
+    "840848494",
+    "840848495",
+    "840848496",
+    "840848497",
+    "840848498",
+    "840848499",
+    "840848500",
+    "840848501",
+    "840848502",
+    "840848503",
+    "840848504",
+    "840848505",
+    "840848506",
+    "840848507",
+    "840848508",
+    "840848509",
+    "840848510",
+    "840848511",
+    "840848512",
+    "840848513",
+    "840848514",
+    "840848515",
+    "840848516",
+    "840848517",
+    "840848518",
+    "840848519",
+    "840848520",
+    "840848521",
+    "840848522",
+    "840848523",
+    "840848524",
+    "840848525"
+   ]
+  },
+  {
+   "date": "2008-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:439101:por",
+     "title": "Lei n.º 62/2008",
+     "published": "2008-10-31",
+     "dre_path": "/dr/detalhe/lei/62-2008-439101"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "840848487",
+    "840848490",
+    "840848488",
+    "840848491",
+    "840848492",
+    "840848493",
+    "840848494",
+    "840848495",
+    "840848496",
+    "840848497",
+    "840848498",
+    "840848499",
+    "840848500",
+    "840848501",
+    "840848502",
+    "840848503",
+    "840848504",
+    "840848505",
+    "840848506",
+    "840848507",
+    "840848508",
+    "840848509",
+    "840848510",
+    "840848511",
+    "840848512",
+    "840848513",
+    "840848514",
+    "840848515",
+    "840848571",
+    "840848517",
+    "840848518",
+    "840848519",
+    "840848520",
+    "840848521",
+    "840848522",
+    "840848572",
+    "840848524",
+    "840848525"
+   ]
+  },
+  {
+   "date": "2015-08-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70133807:por",
+     "title": "Lei n.º 115/2015",
+     "published": "2015-08-28",
+     "dre_path": "/dr/detalhe/lei/115-2015-70133807"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "840848487",
+    "840848490",
+    "840848488",
+    "840848491",
+    "840848492",
+    "840848493",
+    "840848494",
+    "840848495",
+    "840848496",
+    "840848497",
+    "840848498",
+    "840848499",
+    "840848500",
+    "840848501",
+    "840848502",
+    "840849475",
+    "840848504",
+    "840848505",
+    "840848506",
+    "840848507",
+    "840848508",
+    "840848509",
+    "840848510",
+    "840848511",
+    "840848512",
+    "840848513",
+    "840848514",
+    "840848515",
+    "840848571",
+    "840848517",
+    "840848518",
+    "840848519",
+    "840848520",
+    "840848521",
+    "840848522",
+    "840848572",
+    "840848524",
+    "840848525"
+   ]
+  }
+ ],
+ "fragments": {
+  "840848487": {
+   "fragment_id": "840716464",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 79/98\n\nde 24 de Novembro\n\nEnquadramento do Orçamento da Região Autónoma dos Açores\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), 166.º, n.º 3, e 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:\n\n> Nota: [Artigo 2.º, Lei n.º 62/2008 - Diário da República n.º 212/2008, Série I de 2008-10-31](https://diariodarepublica.pt/dr/detalhe/lei/62-2008-439101) No presente diploma, a referência à Assembleia Legislativa Regional é substituída por Assembleia Legislativa."
+  },
+  "840848490": {
+   "fragment_id": "840716467",
+   "type": 1,
+   "heading": "Capítulo I — Princípios e regras orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios e regras orçamentais"
+  },
+  "840848488": {
+   "fragment_id": "840716465",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nAs regras referentes ao Orçamento da Região Autónoma dos Açores, os procedimentos para a sua elaboração, discussão, aprovação, execução, alteração e fiscalização e a responsabilidade orçamental, bem como as regras relativas à Conta da Região, obedecem aos princípios e normas constantes da presente lei."
+  },
+  "840848491": {
+   "fragment_id": "840716468",
+   "type": 11,
+   "heading": "Artigo 2.º — Anualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Anualidade\n\n1 - O Orçamento da Região Autónoma dos Açores é anual, sem prejuízo de, por razões de racionalidade económica ou por exigências da política de desenvolvimento regional, poderem nele ser integrados programas e projectos que impliquem encargos plurianuais.\n\n2 - O ano económico coincide com o ano civil."
+  },
+  "840848492": {
+   "fragment_id": "840716469",
+   "type": 11,
+   "heading": "Artigo 3.º — Unidade e universalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Unidade e universalidade\n\n1 - O Orçamento da Região Autónoma dos Açores é unitário e compreende todas as receitas e despesas da administração pública regional, incluindo as receitas e despesas de todos os organismos que não tenham natureza, forma ou designação de empresa pública ou de sociedade de capitais públicos, adiante designados por serviços e fundos autónomos.\n\n2 - Os orçamentos das empresas públicas sob tutela do Governo Regional dos Açores e os orçamentos das autarquias locais são independentes, na sua elaboração, aprovação e execução, do Orçamento da Região Autónoma dos Açores.\n\n3 - Do Orçamento da Região Autónoma dos Açores devem constar, em anexo, os elementos necessários à apreciação da situação financeira dos sectores públicos administrativo e empresarial."
+  },
+  "840848493": {
+   "fragment_id": "840716470",
+   "type": 11,
+   "heading": "Artigo 4.º — Equilíbrio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Equilíbrio\n\n1 - O Orçamento da Região Autónoma dos Açores deve prever os recursos necessários para cobrir todas as despesas.\n\n2 - As receitas efectivas têm de ser, pelo menos, iguais às despesas efectivas, incluindo os juros da dívida pública, salvo se a conjuntura do período a que se refere o Orçamento justificadamente o não permitir."
+  },
+  "840848494": {
+   "fragment_id": "840716471",
+   "type": 11,
+   "heading": "Artigo 5.º — Orçamento bruto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Orçamento bruto\n\n1 - Todas as receitas são inscritas no Orçamento da Região Autónoma dos Açores pela importância integral em que foram avaliadas, sem dedução alguma para encargos de cobrança ou de qualquer outra natureza.\n\n2 - Todas as despesas são inscritas no Orçamento pela sua importância integral, sem dedução de qualquer espécie."
+  },
+  "840848495": {
+   "fragment_id": "840716472",
+   "type": 11,
+   "heading": "Artigo 6.º — Não consignação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Não consignação\n\n1 - No Orçamento da Região Autónoma dos Açores não pode afectar-se o produto de quaisquer receitas à cobertura de determinadas despesas.\n\n2 - Exceptuam-se do disposto no número anterior os casos em que, por virtude da autonomia financeira ou de outra razão especial, a lei determine expressamente a afectação de certas receitas a determinadas despesas."
+  },
+  "840848496": {
+   "fragment_id": "840716473",
+   "type": 11,
+   "heading": "Artigo 7.º — Especificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Especificação\n\n1 - O Orçamento da Região Autónoma dos Açores deve especificar suficientemente as receitas nele previstas e as despesas nele fixadas.\n\n2 - Será inscrita no orçamento do gabinete do membro do Governo Regional responsável pela área das finanças uma dotação provisional destinada a fazer face a despesas não previsíveis e inadiáveis.\n\n3 - São nulos os créditos orçamentais que possibilitem a existência de dotações para utilização confidencial ou para fundos secretos."
+  },
+  "840848497": {
+   "fragment_id": "840716474",
+   "type": 11,
+   "heading": "Artigo 8.º — Classificação das receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Classificação das receitas e despesas\n\n1 - A especificação das receitas rege-se por um código de classificação económica, o qual as agrupa em correntes e de capital.\n\n2 - A especificação das despesas rege-se por códigos de classificação orgânica, funcional e económica, mesmo no caso de o Orçamento ser estruturado, no todo ou em parte, por programas.\n\n3 - A estrutura dos códigos de classificação referida nos números anteriores deverá ser idêntica à que for aplicada para o Orçamento do Estado."
+  },
+  "840848498": {
+   "fragment_id": "840849375",
+   "type": 1,
+   "heading": "Capítulo II — Procedimentos para a elaboração e organização do Orçamento da Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimentos para a elaboração e organização do Orçamento da Região Autónoma dos Açores"
+  },
+  "840848499": {
+   "fragment_id": "840849376",
+   "type": 11,
+   "heading": "Artigo 9.º — Proposta de orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Proposta de orçamento\n\n1 - O Governo Regional deve apresentar à Assembleia Legislativa Regional, até 31 de Outubro, uma proposta de orçamento para o ano económico seguinte, elaborada de harmonia com a proposta do plano anual.\n\n2 - Na elaboração da proposta de orçamento deve ser dada prioridade às obrigações decorrentes da lei ou de contrato e à política de investimento e desenvolvimento, devendo o Governo Regional propor à Assembleia Legislativa Regional as restantes prioridades orçamentais, tendo em conta os objectivos económicos e financeiros que pretende prosseguir e a necessária correlação entre as previsões orçamentais e a evolução provável da conjuntura, bem como a necessidade de assegurar a convergência real entre a Região, o restante território nacional e a União Europeia.\n\n3 - O Orçamento da Região Autónoma dos Açores é aprovado através de decreto legislativo regional."
+  },
+  "840848500": {
+   "fragment_id": "840849377",
+   "type": 11,
+   "heading": "Artigo 10.º — Conteúdo da proposta de orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conteúdo da proposta de orçamento\n\nA proposta de orçamento deve conter o articulado da respectiva proposta de decreto legislativo regional e os mapas referidos no presente diploma e ser acompanhada de anexos informativos previstos na presente lei ou de outros que o Governo Regional julgue adequados para uma mais perfeita compreensão das opções orçamentais."
+  },
+  "840848501": {
+   "fragment_id": "840849378",
+   "type": 11,
+   "heading": "Artigo 11.º — Conteúdo do articulado da proposta de decreto legislativo regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conteúdo do articulado da proposta de decreto legislativo regional\n\nO articulado da proposta deve conter:\n\n1) As condições de aprovação dos mapas orçamentais e as normas necessárias para orientar a execução orçamental;\n\n2) A indicação do montante das transferências provenientes do Estado ou de fundos comunitários, com a explicitação de eventuais vinculações a que estejam sujeitos;\n\n3) O montante e as condições gerais de recursos ao crédito público;\n\n4) A indicação do limite dos avales a conceder pelo Governo Regional durante o exercício orçamental;\n\n5) O montante de empréstimos a conceder e de outras operações activas a realizar pela Região, incluindo os fundos e serviços autónomos;\n\n6) Todas as outras medidas que se revelem indispensáveis à correcta gestão orçamental da Região para o ano económico a que o orçamento se destina."
+  },
+  "840848502": {
+   "fragment_id": "840849379",
+   "type": 11,
+   "heading": "Artigo 12.º — Estrutura dos mapas orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estrutura dos mapas orçamentais\n\n1 - Os mapas orçamentais que integram a proposta de orçamento, nos termos do artigo 10.º da presente lei, são os seguintes:\n\nI - Receitas da Região, segundo uma classificação económica, especificada por capítulos, grupos e artigos;\n\nII - Despesas da Região, especificadas segundo uma classificação orgânica, por capítulos;\n\nIII - Despesas da Região, especificadas segundo uma classificação funcional;\n\nIV - Despesas da Região, especificadas segundo uma classificação económica;\n\nV - Receitas globais dos serviços e fundos autónomos, especificadas segundo uma classificação orgânica, por capítulos;\n\nVI - Despesas globais dos serviços e fundos autónomos, especificadas segundo uma classificação orgânica, por capítulos;\n\nVII - Despesas globais dos serviços e fundos autónomos, especificadas segundo uma classificação funcional;\n\nVIII - Despesas globais dos serviços e fundos autónomos, especificadas segundo uma classificação económica;\n\nIX - Programa relativo ao Plano a Médio Prazo (PMP) da Região Autónoma dos Açores;\n\nX - Despesas correspondentes a programas, especificadas segundo as classificações orgânica, funcional e económica, nos termos do número seguinte.\n\n2 - As despesas da Região e dos serviços e fundos autónomos podem ser apresentadas por programas, os quais deverão conter a definição dos objectivos fundamentais a prosseguir e a quantificação dos meios necessários para o efeito.\n\n3 - O mapa IX deve apresentar os programas e projectos que, integrados no âmbito dos investimentos do Plano, a administração pública regional pretenda realizar e que impliquem encargos plurianuais e evidenciar as fontes de financiamento dos programas."
+  },
+  "840848503": {
+   "fragment_id": "840849380",
+   "type": 11,
+   "heading": "Artigo 13.º — Anexos informativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Anexos informativos\n\n1 - O Governo Regional apresentará à Assembleia Legislativa Regional, com a proposta de orçamento, todos os elementos necessários à justificação da política orçamental apresentada e, designadamente, os seguintes relatórios:\n\na) Justificação das variações das previsões de receitas e despesas relativamente ao orçamento anterior;\n\nb) Situação da dívida pública regional e das operações de tesouraria;\n\nc) Situação financeira dos serviços e fundos autónomos;\n\nd) Transferência do Orçamento do Estado;\n\ne) Outras transferências do exterior;\n\nf) Subsídios regionais e critérios de atribuição.\n\n2 - Além disso, devem ser remetidos os relatórios sobre:\n\na) Formas de financiamento do eventual défice orçamental e das amortizações;\n\nb) Transferências orçamentais para as autarquias locais e para as empresas públicas;\n\nc) Receitas e despesas das autarquias locais;\n\nd) Orçamento consolidado do sector público administrativo;\n\ne) Justificação económica e social dos benefícios fiscais e dos subsídios concedidos;\n\nf) Transferência dos fundos comunitários e relação dos programas que beneficiam de tais financiamentos, acompanhados de um mapa de origem e aplicação de fundos;\n\ng) Justificação das previsões de receitas fiscais, com discriminação da situação dos principais impostos."
+  },
+  "840848504": {
+   "fragment_id": "840849381",
+   "type": 11,
+   "heading": "Artigo 14.º — Discussão e votação do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Discussão e votação do orçamento\n\n1 - A Assembleia Legislativa Regional deve votar o Orçamento da Região Autónoma dos Açores até 15 de Dezembro.\n\n2 - A apreciação e discussão do Orçamento regional em Plenário é antecedida de parecer da comissão parlamentar competente e só se pode iniciar cinco dias após a sua distribuição pelos deputados, sem prejuízo de posterior publicação no Diário da Assembleia.\n\n3 - No âmbito da reparação do Orçamento da Região Autónoma dos Açores, a Assembleia Legislativa Regional pode convocar directamente, a solicitação da comissão parlamentar competente, as entidades cuja audição considerar relevante para o cabal esclarecimento da matéria em apreço e não estejam submetidas ao poder de direcção do Governo Regional."
+  },
+  "840848505": {
+   "fragment_id": "840849382",
+   "type": 11,
+   "heading": "Artigo 15.º — Atraso na votação ou aprovação da proposta de orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Atraso na votação ou aprovação da proposta de orçamento\n\n1 - Se a Assembleia Legislativa Regional não votar ou, tendo votado, não aprovar a proposta de orçamento, incluindo o articulado e os mapas orçamentais, de modo que possa entrar em execução no início do ano económico a que se destina, manter-se-á em vigor o orçamento do ano anterior, incluindo o articulado e os mapas orçamentais, com as alterações que nele tenham sido introduzidas ao longo da sua efectiva execução.\n\n2 - A manutenção da vigência do orçamento do ano anterior abrange a autorização para a cobrança de todas as receitas nele previstas, bem como a prorrogação da autorização referente aos regimes das receitas que se destinavam apenas a vigorar até ao final do referido ano.\n\n3 - Durante o período em que se mantiver em vigor o orçamento do ano anterior, a execução do orçamento das despesas deve obedecer ao princípio da utilização por duodécimos das verbas fixadas nos mapas das despesas.\n\n4 - Durante o período transitório referido nos números anteriores são aplicáveis os princípios sobre alterações orçamentais estabelecidos no artigo 20.º da presente lei.\n\n5 - Quando ocorrer a situação prevista no n.º 1, o Governo Regional deverá apresentar à Assembleia Legislativa Regional uma nova proposta de orçamento para o respectivo ano económico no prazo de 90 dias sobre a data da rejeição, quando a proposta anterior tenha sido votada e recusada, sobre a data da aprovação do programa do novo governo, quando a não votação da proposta anterior tenha resultado da demissão do governo proponente ou sobre o facto que tenha determinado, nos restantes casos, a não votação parlamentar, designadamente a realização de eleições legislativas regionais, caso em que o Governo deverá apresentar à Assembleia Legislativa Regional a proposta de orçamento 90 dias após a aprovação do Programa do Governo.\n\n6 - Nos casos previstos no número anterior, a Assembleia Legislativa Regional deve votar o orçamento no prazo de 45 dias após a respectiva proposta lhe ser apresentada pelo Governo Regional.\n\n7 - O novo orçamento deve integrar a parte do orçamento anterior que tenha sido executada até à cessação do regime transitório estabelecido nos números anteriores."
+  },
+  "840848506": {
+   "fragment_id": "840849383",
+   "type": 1,
+   "heading": "Capítulo III — Execução do Orçamento e alterações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Execução do Orçamento e alterações orçamentais"
+  },
+  "840848507": {
+   "fragment_id": "840849384",
+   "type": 11,
+   "heading": "Artigo 16.º — Execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução orçamental\n\nO Governo Regional deve tomar as medidas necessárias para que o Orçamento da Região Autónoma dos Açores possa começar a ser executado no início do ano económico a que se destina, devendo, no exercício do poder de execução orçamental, aprovar os decretos regulamentares contendo as disposições necessárias a tal execução e tendo sempre em conta o princípio da mais racional utilização possível das dotações aprovadas e o princípio da melhor gestão de tesouraria."
+  },
+  "840848508": {
+   "fragment_id": "840849385",
+   "type": 11,
+   "heading": "Artigo 17.º — Efeitos do orçamento das receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Efeitos do orçamento das receitas\n\n1 - Nenhuma receita pode ser liquidada ou cobrada, mesmo que seja legal, se não tiver sido objecto de inscrição orçamental.\n\n2 - A cobrança pode, todavia, ser efectuada mesmo para além do montante inscrito no Orçamento.\n\n3 - Os actos administrativos que directamente envolvam perda da receita fiscal devem ser fundamentados e publicados."
+  },
+  "840848509": {
+   "fragment_id": "840849386",
+   "type": 11,
+   "heading": "Artigo 18.º — Execução do orçamento das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Execução do orçamento das despesas\n\n1 - As dotações orçamentais constituem o limite máximo a utilizar na realização das despesas, tendo em conta as alterações orçamentais que forem efectuadas ao abrigo do artigo 20.º\n\n2 - Nenhuma despesa pode ser efectuada sem que, além de ser legal, se encontre suficientemente discriminada no Orçamento da Região Autónoma dos Açores, tenha cabimento no correspondente crédito orçamental e obedeça ao princípio da utilização por duodécimos, salvas, nesta última matéria, as excepções previstas por lei.\n\n3 - Na autorização de despesas ter-se-á em vista a obtenção do máximo rendimento com o mínimo de dispêndio, tendo em conta a utilidade e prioridade da despesa e o acréscimo de produtividade daí decorrente.\n\n4 - Nenhum encargo pode ser assumido sem que a correspondente despesa obedeça aos requisitos dos números anteriores."
+  },
+  "840848510": {
+   "fragment_id": "840849387",
+   "type": 11,
+   "heading": "Artigo 19.º — Administração orçamental e contabilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Administração orçamental e contabilidade pública\n\n1 - A aplicação das dotações orçamentais e o funcionamento da administração orçamental obedecem às normas de contabilidade pública.\n\n2 - A vigência e a execução do Orçamento da Região obedecem ao regime do ano económico."
+  },
+  "840848511": {
+   "fragment_id": "840849388",
+   "type": 11,
+   "heading": "Artigo 20.º — Alterações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alterações orçamentais\n\n1 - As alterações orçamentais que impliquem aumento da despesa total do Orçamento da Região Autónoma dos Açores só podem ser efectuadas por decreto legislativo regional.\n\n2 - No caso de as despesas, com exclusão das referidas no n.º 7 do presente artigo, não serem integradas em programas, as alterações dos montantes de cada secretaria regional ou capítulo, bem como as que impliquem a transferência de verbas ou a supressão de dotações entre secretarias ou capítulos, ou ainda de natureza funcional, são também aprovadas por decreto legislativo regional.\n\n3 - No caso de as citadas despesas serem apresentadas por programas, nos termos do n.º 2 do artigo 12.º, as alterações dos montantes de cada secretaria ou capítulo, bem como as que impliquem a transferência de verbas ou a supressão de dotações entre secretarias ou capítulos, são da competência do Governo Regional e poderão ser introduzidas, de acordo com os critérios definidos no decreto legislativo regional que aprovou o Orçamento, no âmbito de cada um dos programas orçamentais aprovados pela Assembleia Legislativa Regional, tendo em vista a sua plena realização.\n\n4 - Exceptuam-se do disposto nos n.os 1 e 2 as despesas não previsíveis e inadiáveis, para as quais o Governo Regional pode efectuar inscrições e reforços de verbas, com contrapartida em dotação provisional, a inscrever no orçamento do gabinete do membro do Governo Regional responsável pela área das finanças.\n\n5 - Exceptuam-se ainda do regime definido nos n.os 1 e 2 as despesas que, por expressa determinação de diploma legal, possam ser realizadas com utilização de saldos de dotações de anos anteriores, bem como as despesas que tenham compensação em receitas.\n\n6 - Sem prejuízo do disposto nos números anteriores, podem ser reduzidas ou anuladas, mediante decreto legislativo regional, as dotações que careçam de justificação, desde que fiquem salvaguardas as obrigações da Região.\n\n7 - São da competência do Governo Regional as alterações dos orçamentos dos serviços autónomos que não envolvam recurso ao crédito para além dos limites fixados no decreto legislativo regional que aprovar o orçamento.\n\n8 - O Governo Regional define, por decreto regulamentar regional, as regras gerais a que obedecem as alterações orçamentais que forem da sua competência."
+  },
+  "840848512": {
+   "fragment_id": "840849389",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e responsabilidade orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e responsabilidade orçamentais"
+  },
+  "840848513": {
+   "fragment_id": "840849390",
+   "type": 11,
+   "heading": "Artigo 21.º — Fiscalização orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Fiscalização orçamental\n\n1 - A gestão orçamental assenta no princípio do autocontrolo pelos órgãos competentes dos serviços e organismos e no controlo por entidades hierarquicamente superiores ou de tutela, por órgãos gerais de inspecção e controlo administrativo e pelos serviços da Direcção Regional do Orçamento e Tesouro, devendo exercer-se nos termos da legislação aplicável.\n\n2 - A fim de permitir o controlo sucessivo por entidades exteriores, os serviços e organismos elaborarão os instrumentos de gestão e informação previstos na legislação aplicável.\n\n3 - A fiscalização jurisdicional da execução orçamental compete ao Tribunal de Contas, através da Secção Regional dos Açores, e é efectuada nos termos da legislação aplicável."
+  },
+  "840848514": {
+   "fragment_id": "840849391",
+   "type": 11,
+   "heading": "Artigo 22.º — Responsabilidade pela execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Responsabilidade pela execução orçamental\n\n1 - Os titulares de cargos políticos respondem política, civil e criminalmente pelos actos e omissões que pratiquem no âmbito do exercício das suas funções de execução orçamental, nos termos da legislação aplicável.\n\n2 - Os funcionários e agentes da Região Autónoma dos Açores e demais entidades públicas regionais são responsáveis civil, criminal e disciplinarmente pelas suas acções e omissões de que resulte violação das normas de execução orçamental, nos termos do artigo 271.º da Constituição e da legislação aplicável."
+  },
+  "840848515": {
+   "fragment_id": "840849392",
+   "type": 11,
+   "heading": "Artigo 23.º — Informações a prestar à Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Informações a prestar à Assembleia Legislativa Regional\n\n1 - O Governo Regional deve informar trimestralmente a Assembleia Legislativa Regional acerca do montante, condições, entidades financiadoras e utilização de todos os empréstimos contraídos, bem como acerca do montante, condições e entidades beneficiárias de empréstimos que conceda e outras operações activas que pratique.\n\n2 - O Governo Regional deve enviar regularmente à Assembleia Legislativa Regional os balancetes trimestrais relativos à execução orçamental, elaborados pela Direcção Regional do Orçamento e Tesouro."
+  },
+  "840848516": {
+   "fragment_id": "840849393",
+   "type": 11,
+   "heading": "Artigo 24.º — Contas públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Contas públicas\n\n1 - O resultado da execução orçamental consta de contas provisórias trimestrais e da Conta da Região.\n\n2 - O Governo Regional deve publicar contas provisórias trimestrais 90 dias após o termo do trimestre a que se referem e apresentar à Assembleia Legislativa Regional e à Secção Regional do Tribunal de Contas a Conta da Região até 31 de Dezembro do ano seguinte àquele a que respeite.\n\n3 - A Assembleia Legislativa Regional, após parecer da Secção Regional do Tribunal de Contas, aprecia e aprova a Conta da Região até 30 de Junho seguinte e, no caso de não aprovação, determina, se a isso houver lugar, a efectivação da correspondente responsabilidade.\n\n4 - O parecer da Secção Regional do Tribunal de Contas será acompanhado das respostas dos serviços e organismos às questões que esse órgão lhes formular."
+  },
+  "840848517": {
+   "fragment_id": "840849394",
+   "type": 11,
+   "heading": "Artigo 25.º — Âmbito da Conta da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Âmbito da Conta da Região\n\nA Conta da Região abrange todas as contas de todos os organismos da administração regional que não tenham natureza, forma e designação de empresa pública."
+  },
+  "840848518": {
+   "fragment_id": "840849395",
+   "type": 11,
+   "heading": "Artigo 26.º — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Princípios fundamentais\n\n1 - A Conta da Região deve ter uma estrutura idêntica à do Orçamento, sendo elaborada com clareza, exactidão e simplicidade, de modo a possibilitar a sua análise económica e financeira.\n\n2 - A Conta poderá ser apresentada também sob forma consolidada."
+  },
+  "840848519": {
+   "fragment_id": "840849396",
+   "type": 11,
+   "heading": "Artigo 27.º — Estrutura da Conta da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Estrutura da Conta da Região\n\nA Conta da Região compreende:\n\nI) O relatório do membro do Governo Regional responsável pela área das finanças sobre os resultados da execução orçamental;\n\nII) O mapa da conta geral dos fluxos financeiros da Região;\n\nIII) Os mapas referentes à execução orçamental:\n\n1) Conta geral das receitas e despesas orçamentais;\n\n2) Receitas da Região, segundo uma classificação económica;\n\n3) Despesas da Região, segundo uma classificação orgânica;\n\n4) Despesas da Região, segundo uma classificação funcional;\n\n5) Despesas da Região, segundo uma classificação económica;\n\n6) Despesas da Região cruzadas segundo as classificações utilizadas;\n\n7) Conta geral das receitas e despesas dos serviços e fundos autónomos;\n\n8) Receitas globais dos serviços e fundos autónomos, segundo uma classificação orgânica;\n\n9) Receitas globais dos serviços e fundos autónomos, segundo uma classificação económica;\n\n10) Despesas globais dos serviços e fundos autónomos, segundo uma classificação orgânica;\n\n11) Despesas globais dos serviços e fundos autónomos, segundo uma classificação funcional;\n\n12) Despesas globais dos serviços e fundos autónomos, segundo uma classificação económica;\n\nIV) Os mapas relativos à situação de tesouraria:\n\n1) Fundos saídos para pagamento das despesas públicas orçamentais;\n\n2) Reposições abatidas nos pagamentos, por secretarias regionais;\n\n3) Conta geral de operações de tesouraria e transferência de fundos;\n\n4) Conta geral, por cofres, de todo o movimento de receita e de despesa e respectivos saldos existentes no início e no final do ano;\n\nV) Os mapas referentes à situação patrimonial:\n\n1) Aplicação do produto dos empréstimos;\n\n2) Movimento da dívida pública."
+  },
+  "840848520": {
+   "fragment_id": "840849397",
+   "type": 11,
+   "heading": "Artigo 28.º — Apresentação por programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Apresentação por programas\n\nAs contas referentes às despesas da Região e dos serviços e fundos autónomos serão apresentadas por programas quando se verificar a situação prevista no n.º 2 do artigo 12.º da presente lei."
+  },
+  "840848521": {
+   "fragment_id": "840849398",
+   "type": 11,
+   "heading": "Artigo 29.º — Anexos informativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Anexos informativos\n\nO Governo Regional deve remeter à Assembleia Legislativa Regional, com o relatório e os mapas a que se refere o artigo 27.º, todos os elementos necessários à justificação da Conta apresentada e, designadamente, os seguintes mapas:\n\na) Despesas com os investimentos do Plano;\n\nb) Despesas excepcionais;\n\nc) Relação nominal dos beneficiários dos avales da Região e de subsídios regionais."
+  },
+  "840848522": {
+   "fragment_id": "840849399",
+   "type": 1,
+   "heading": "Capítulo V — Normas gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Normas gerais e transitórias"
+  },
+  "840848523": {
+   "fragment_id": "840849400",
+   "type": 11,
+   "heading": "Artigo 30.º — Conta da Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Conta da Assembleia Legislativa Regional\n\n1 - O relatório e a conta da Assembleia Legislativa Regional são elaborados pelo respectivo conselho administrativo e aprovados pelo Plenário.\n\n2 - O relatório e a conta da Assembleia Legislativa Regional são remetidos à Secção Regional do Tribunal de Contas até 31 de Março do ano seguinte àquele a que digam respeito."
+  },
+  "840848524": {
+   "fragment_id": "840849401",
+   "type": 11,
+   "heading": "Artigo 31.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Revogação\n\nÉ revogado o Decreto Legislativo Regional n.º 3/78/A, de 18 de Janeiro."
+  },
+  "840848525": {
+   "fragment_id": "840849402",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nA presente lei entra em vigor no prazo de 90 dias após a data da sua publicação, com excepção do capítulo II, que apenas entrará em vigor para o Orçamento da Região referente ao ano de 2000.\n\nAprovada em 14 de Outubro de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 10 de Novembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 12 de Novembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "840848571": {
+   "fragment_id": "840849393",
+   "type": 11,
+   "heading": "Artigo 24.º — Contas públicas",
+   "in_force_from": "2008-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 62/2008 - Diário da República n.º 212/2008, Série I de 2008-10-31](https://diariodarepublica.pt/dr/detalhe/lei/62-2008-439101), em vigor a partir de 2008-11-01"
+   ],
+   "markdown": "###### Artigo 24.º — Contas públicas\n\n1 - O resultado da execução orçamental consta de contas provisórias trimestrais e da Conta da Região.\n\n2 - O Governo Regional deve publicar contas provisórias trimestrais 90 dias após o termo do trimestre a que se referem e apresentar à Assembleia Legislativa e à Secção Regional do Tribunal de Contas a Conta da Região até 30 de Junho do ano seguinte àquele a que respeite.\n\n3 - A Assembleia Legislativa, após parecer da Secção Regional do Tribunal de Contas, aprecia e aprova a Conta da Região até 31 de Dezembro seguinte e, no caso de não aprovação, determina, se a isso houver lugar, a efectivação da correspondente responsabilidade.\n\n4 - O parecer da Secção Regional do Tribunal de Contas será acompanhado das respostas dos serviços e organismos às questões que esse órgão lhes formular.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 62/2008 - Diário da República n.º 212/2008, Série I de 2008-10-31](https://diariodarepublica.pt/dr/detalhe/lei/62-2008-439101), em vigor a partir de 2008-11-01"
+  },
+  "840848572": {
+   "fragment_id": "840849400",
+   "type": 11,
+   "heading": "Artigo 30.º — Conta da Assembleia Legislativa",
+   "in_force_from": "2008-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 62/2008 - Diário da República n.º 212/2008, Série I de 2008-10-31](https://diariodarepublica.pt/dr/detalhe/lei/62-2008-439101), em vigor a partir de 2008-11-01"
+   ],
+   "markdown": "###### Artigo 30.º — Conta da Assembleia Legislativa\n\n1 - O relatório e a conta da Assembleia Legislativa Regional são elaborados pelo respectivo conselho administrativo e aprovados pelo Plenário.\n\n2 - O relatório e a conta da Assembleia Legislativa são submetidos à Secção Regional do Tribunal de Contas até 30 de Abril do ano seguinte àquele a que digam respeito.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 62/2008 - Diário da República n.º 212/2008, Série I de 2008-10-31](https://diariodarepublica.pt/dr/detalhe/lei/62-2008-439101), em vigor a partir de 2008-11-01"
+  },
+  "840849475": {
+   "fragment_id": "840849380",
+   "type": 11,
+   "heading": "Artigo 13.º — Anexos informativos",
+   "in_force_from": "2015-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 115/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/115-2015-70133807), em vigor a partir de 2015-08-29"
+   ],
+   "markdown": "###### Artigo 13.º — Anexos informativos\n\n1 - O Governo Regional apresentará à Assembleia Legislativa Regional, com a proposta de orçamento, todos os elementos necessários à justificação da política orçamental apresentada e, designadamente, os seguintes relatórios:\n\na) Justificação das variações das previsões de receitas e despesas relativamente ao orçamento anterior;\n\nb) Situação da dívida pública regional e das operações de tesouraria;\n\nc) Situação financeira dos serviços e fundos autónomos;\n\nd) Transferência do Orçamento do Estado;\n\ne) Outras transferências do exterior;\n\nf) Subsídios regionais e critérios de atribuição.\n\n2 - Além disso, devem ser remetidos os relatórios sobre:\n\na) Formas de financiamento do eventual défice orçamental e das amortizações;\n\nb) Transferências orçamentais para as autarquias locais e para as empresas públicas;\n\nc) Receitas e despesas das autarquias locais;\n\nd) Orçamento consolidado do sector público administrativo;\n\ne) Justificação económica e social dos benefícios fiscais e dos subsídios concedidos;\n\nf) Transferência dos fundos comunitários e relação dos programas que beneficiam de tais financiamentos, acompanhados de um mapa de origem e aplicação de fundos;\n\ng) Justificação das previsões de receitas fiscais, com discriminação da situação dos principais impostos.\n\n3 - São ainda remetidos:\n\na) Balanço individual de cada uma das empresas do setor público empresarial da Região;\n\nb) Situação patrimonial consolidada do setor público empresarial da Região;\n\nc) Informação sobre o endividamento ou assunção de responsabilidades de natureza similar fora do balanço, a curto, médio ou longo prazo, não aprovadas nos respetivos orçamentos ou planos de investimento;\n\nd) Informação sobre as responsabilidades vencidas e vincendas, contratualmente assumidas ao abrigo do regime das parcerias público-privadas;\n\ne) Informação sobre o prazo médio de pagamento a fornecedores do ano (n - 2) e segundo trimestre do ano (n - 1), de acordo com os critérios definidos pelo Ministério das Finanças, em relação ao Orçamento da Região do ano (n);\n\nf) Informação sobre os encargos assumidos e não pagos da Administração Direta da Região do ano (n - 2) e segundo trimestre do ano (n - 1), em relação ao Orçamento da Região do ano (n).\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 115/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/115-2015-70133807), em vigor a partir de 2015-08-29"
+  }
+ }
+}

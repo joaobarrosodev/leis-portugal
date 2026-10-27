@@ -1,0 +1,359 @@
+---
+schema_version: '1.0'
+id: pt:dre:468036:por
+title: Decreto n.º 735/74
+short_title: null
+summary: Classifica diversos imóveis como monumentos nacionais
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Educação e Cultura - Secretaria de Estado do Ensino Superior e da Investigação Científica - Direcção-Geral
+  dos Assuntos Culturais
+proposing_entity: null
+official_number: 735/74
+official_date: null
+publication_date: '1974-12-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 297/1974, Série I de 1974-12-21
+  number: '297'
+  series: I
+  supplement: null
+  pages: 1604 - 1606
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/12/29700/16041606.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '468036'
+  dre_path: /dr/detalhe/decreto/735-1974-468036
+  internal: pt:dre:468036:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/735-1974-468036
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/735-1974-468036
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:36:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5d4a070d70b66b1b28dd4725994f3024ea4d7d4be9fa91432e9f8bdd7e018ace
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:36:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Imóvel Classificado
+- Património Cultural
+- Protecção do Património
+relationships:
+- type: amended_by
+  target: pt:dre:66655591:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:621157:por
+  label: "Desclassificado o «Forte Novo ou da Armação», no distrito de Faro, como imóvel de interesse público, pelo DEC.2/96.06.03.1996.MC,\
+    \ DR.IS-B [56] de 06.03.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/2-1996-621157
+  date: '1996-03-06'
+- type: amended_by
+  target: pt:dre:278071:por
+  label: "Alterado, na parte referente ao «Palácio dos Condes de Farrobo, incluindo o chafariz localizado na Estrada de Benfica,\
+    \ distrito de Lisboa, classificado como imóvel de interesse público, pelo artigo 2.º do presente diploma, pelo DEC.5/2002.2002.02.19.MC,\
+    \ DR.IS-B [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/5-2002-278071
+  date: '2002-02-19'
+- type: amended_by
+  target: pt:dre:2213915:por
+  label: "Desclassificados os \"Prédios na Rua de Santa Marta, 44, 46 e 48\", em Lisboa, pelo DESP.740-DC/2012.24.12.2012.SECU-PCM,\
+    \ DR.IIS [248-Supl.] de 24.12.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/740-dc-2012-2213915
+  date: '2012-12-24'
+- type: amended_by
+  target: pt:dre:66655591:por
+  label: Reclassificado como monumento nacional o Cromeleque dos Almendres, na Herdade dos Almendres, União das Freguesias
+    de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe, concelho e distrito de Évora, classificado como imóvel de interesse
+    público pelo presente diploma, pelo(a) Decreto n.º 4/2015 - Diário da República n.º 44/2015, Série I de 2015-03-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/4-2015-66655591
+  date: '2015-03-04'
+- type: cites
+  target: pt:dre:195002:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279453:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294970:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:523016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528063:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:36:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 735/74
+
+de 21 de Dezembro
+
+Nos termos dos artigos 2.º, 24.º e 30.º do [Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, e do n.º 1.º do § 1.º do artigo 19.º do [Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 22 de Maio de 1965;Usando da faculdade conferida pelo n.º 1.º, 4.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São classificados como monumentos nacionais os seguintes imóveis:
+
+Distrito de Coimbra:Concelho de Aguiar da Beira - Dólmen de Carapito I, também conhecido por «Casa da Moura», na freguesia de Carapito.
+
+Distrito de Évora:
+
+Concelho de Estremoz - Vila Lusitano-Romana de Santa Vitória do Ameixial, na aldeia do mesmo nome.
+
+Concelho de Montemor-o-Novo - Menir na courela da Casa Nova, a 100 m da estrada nacional n.º 4 e a 7 km de Montemor-o-Novo.
+
+Distrito de Lisboa:
+
+Concelho de Sintra - Monumento pré-histórico da Praia das Maçãs, no Outeiro das Mós.
+
+Distrito de Viana do Castelo:
+
+Concelho de Caminha - Laje das Fogaças, na Chã das Castanheiras, lugar da Boavista, freguesia de Lanhelas.
+
+Concelho de Monção - Castro de S. Caetano, na freguesia de Longos Vales, abrangendo os perímetros das três muralhas.
+
+Distrito de Viseu:
+
+Concelho de Carregal do Sal - Dólmen da Orca, ou Lapa da Orca, em Oliveira do Conde.
+
+Art. 2.º São classificados como imóveis de interesse público os seguintes imóveis:
+
+Distrito de Angra do Heroísmo:
+
+Concelho de Angra do Heroísmo - Igreja do antigo Colégio da Companhia de Jesus, em Angra do Heroísmo.
+
+Distrito de Aveiro:
+
+Concelho de Aveiro - Igreja da Misericórdia de Aveiro, incluindo as salas do despacho e anexos.
+
+Concelho da Feira - Edifícios da Malaposta de Sanfins, ou de S. Jorge, antiga muda de Souto Redondo.
+
+Concelho de Ílhavo - Forte da Barra de Aveiro, no extremo oeste da ilha da Mó do Meio.
+
+Distrito de Beja:
+
+Concelho da Vidigueira - Ermida de Santa Clara, a cerca de 1 km da Vidigueira, junto à estrada para Portel e Évora.
+
+Distrito de Braga:
+
+Concelho de Esposende - Igreja da Misericórdia de Esposende, incluindo todo o seu recheio.
+
+Concelho de Guimarães:
+
+Edifício da Misericórdia de Guimarães (conjunto da parte setecentista, incluindo a igreja, a sacristia e os restos da construção inicial).
+
+R. de João I, no seu conjunto, em Guimarães.
+
+Distrito de Castelo Branco:
+
+Concelho da Sertã - Igreja matriz da Sertã, incluindo todo o seu recheio.
+
+Distrito de Coimbra:
+
+Concelho de Condeixa-a-Nova:
+
+Palácio dos Figueiredos, no Largo de Artur Barreto, em Condeixa-a-Nova.
+
+Palácio Lemos, na Rua de D. Francisco de Lemos, em Condeixa-a-Nova.
+
+Concelho de Góis - Ponte sobre o rio Ceira, em Góis.
+
+Distrito de Évora:
+
+Concelho de Arraiolos - Convento dos Lóios, em Vale de Flores, Arraiolos.
+
+Concelho de Évora:
+
+Cromeleque e menir, na Herdade dos Almendres, freguesia de Nossa Senhora da Tourega.
+
+Menir e pedras que o rodeiam, no Vale dos Cardos, na Herdade dos Almendres, freguesia de Nossa Senhora da Tourega, a cerca de 1 km a su-sueste do cromeleque da mesma Herdade.
+
+Distrito de Faro:
+
+Concelho de Lagoa - Castelo de S. João de Arade, na freguesia de Ferragudo.
+
+Concelho de Loulé - Forte Novo, ou da Armação, a cerca de 2 km a sudeste da ribeira de Quarteira.
+
+Concelho de Vila do Bispo - Forte da Boca do Rio, ou de Almadena, na margem direita e junto à foz da ribeira de Budens.
+
+Distrito da Guarda:
+
+Concelho de Meda - Casa com elementos dos séculos XV e XVI, na sede da freguesia de Prova.
+
+Distrito de Lisboa:
+
+Concelho de Cascais - Forte de Oitavos.
+
+Concelho de Lisboa:
+
+Igreja de Nossa Senhora dos Mártires, em Lisboa.
+
+Palácio dos Condes de Farrobo, incluindo os jardins e o chafariz localizado na Estrada de Benfica junto à azinhaga que limita a norte o Jardim Zoológico.
+
+Palácio dos Condes de Redondo, na Rua de Santa Marta, 56 a 56-E, em Lisboa.
+
+Prédio na Avenida da Liberdade, 226 e 228, em Lisboa.
+
+Prédio na Rua de S. José, 191, em Lisboa.
+
+Prédios na Rua de Santa Marta, 44, 46 e 48, em Lisboa.
+
+Concelho de Sintra - Ruínas da antiga barragem romana donde partia um aqueduto para Olisipo, ao quilómetro 16,423 da estrada nacional n.º 250.
+
+Distrito de Portalegre:
+
+Concelho de Alter do Chão - Chafariz da Praça da República, em Alter do Chão.
+
+Distrito do Porto:
+
+Concelho de Amarante:
+
+Conjunto definido pelos arruamentos a seguir mencionados, bem como os espaços livres públicos que os mesmos ligam, em Amarante:
+
+1.º Ruas do Dr. Miguel Pinto Martins e Teixeira de Vasconcelos e a parte nascente da Rua de 5 de Outubro.
+
+2.º Praça da República (Largo de S. Gonçalo) e Alameda de Teixeira de Pascoais (antigo mercado e suas naturais extensões até à variante da estrada nacional Porto-Vila Real).
+
+3.º Rua de 31 de Janeiro (antiga Rua do Covelo) e Largo do Conselheiro António Cândido.
+
+Convento de Santa Clara (restos da capela), no Largo de Santa Clara, em Amarante.
+
+Concelho de Felgueiras - Conjunto dos elementos que caracterizam o pátio nobre e jardins da Casa de Simães (muro principal, portão armoriado, fontes e estátuas).
+
+Concelho do Porto:
+
+Edifício onde se encontra instalada a Biblioteca Pública Municipal do Porto, no Jardim de S. Lázaro.
+
+Prédio na Rua de Cândido dos Reis, 75 a 79, no Porto.
+
+Prédio na Rua da Galeria de Paris, 28, no Porto.
+
+Prédios na Avenida de Rodrigues de Freitas, 192, 194, 200 e 204, no Porto.
+
+Concelho da Póvoa de Varzim:Edifício da Câmara Municipal da Póvoa de Varzim.
+
+Igreja de Nossa Senhora das Dores, na Póvoa de Varzim.
+
+Concelho de Vila Nova de Gaia - Aqueduto que abastecia o Mosteiro de Grijó, em Grijó.
+
+Distrito de Santarém:
+
+Concelho de Abrantes - Antigo Convento de S. Domingos, em Abrantes.
+
+Concelho da Golegã - Capela de S. José, na Azinhaga.
+
+Concelho do Sardoal - Edifício do século XVIII denominado «Casa Grande», ou dos Almeidas, no Sardoal.
+
+Distrito de Viana do Castelo:
+
+Concelho de Valença - Ponte velha, na freguesia de S. Pedro da Torre.
+
+Concelho de Viana do Castelo - Moinho de vento com velas trapezoidais de madeira, em Montedor, freguesia de Carreço.
+
+Concelho de Vila Nova de Cerveira:
+
+Castelo de Vila Nova de Cerveira.
+
+Solar dos Castros, em Vila Nova de Cerveira.
+
+Distrito de Vila Real:
+
+Concelho de Chaves - Igreja paroquial de Nogueira da Montanha.
+
+Concelho de Mesão Frio - Hospital da Misericórdia de Mesão Frio.
+
+Concelho de Murça - Capela da Misericórdia de Murça.
+
+Distrito de Viseu:
+
+Concelho de Carregal do Sal - Solar dos Soares de Albergaria, na freguesia de Oliveira do Conde.
+
+Concelhos de Castro Daire e Cinfães - Ruínas da muralha das Portas de Montemuro, no cimo da serra de Montemuro.
+
+Concelho de Sátão - Castelo, ou torre de Ferreira de Aves, incluindo o fosso que o ladeia, na Quinta do Paço.
+
+Concelho de Tondela - Capela de Nossa Senhora do Campo, na freguesia de Campo de Besteiros.
+
+Concelho de Viseu - Conjunto de quatro lagares cavados na rocha, existentes na freguesia de Vila Chã de Sá e situados, respectivamente, no local conhecido por Brunhal; ao quilómetro 180,550 da estrada nacional n.º 2; no local designado por Pedra do Altar e no pinhal das Martelas.
+
+Art. 3.º São classificados como valores concelhios os seguintes imóveis:
+
+Distrito de Coimbra:
+
+Concelho de Condeixa-a-Nova:
+
+Casa das Colunas, na Rua da Condeixinha, em Condeixa-a-Nova.
+
+Casa de S. Tomé, na quinta do mesmo nome.
+
+Distrito de Faro:
+
+Concelho de Portimão - Edifício do Colégio dos Jesuítas, em Portimão.
+
+Distrito do Porto:
+
+Concelho de Matosinhos - Duas sepulturas abertas na rocha granítica, no lugar de Pampelido, freguesia de Perafita.
+
+Art. 4.º Fica esclarecido:
+
+a) Que a classificação como imóvel de interesse público limitada pelo [Decreto n.º 39175](https://diariodarepublica.pt/dr/detalhe/decreto/39175-1953-528063), de 17 de Abril de 1953, à parte constituída por abside e absidíolas da Igreja de S. Francisco, em Guimarães, passa a abranger o claustro e o edifício barroco da Ordem Terceira, incluindo a sacristia do século XVIII da igreja joanina;
+
+b) Que o imóvel de interesse público situado na cidade do Funchal, classificado pelo [Decreto n.º 30762](https://diariodarepublica.pt/dr/detalhe/decreto/30762-1940-195002), de 26 de Setembro de 1940, não se designa como Capela do Corpo Santo, mas sim Capela do Espírito Santo;
+
+c) Que na classificação como imóvel de interesse público do Forte do Pessegueiro, incluindo a ilha do mesmo nome ([Decreto n.º 41191](https://diariodarepublica.pt/dr/detalhe/decreto/41191-1957-279453), de 18 de Julho de 1957), está abrangido o Forte da Ilha de Dentro, situado na referida ilha.
+
+Vasco dos Santos Gonçalves - Manuel Rodrigues de Carvalho.
+
+Promulgado em 12 de Dezembro de 1974.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

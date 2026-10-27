@@ -1,0 +1,172 @@
+---
+schema_version: '1.0'
+id: pt:dre:250661:por
+title: Assento n.º 8/94
+short_title: null
+summary: A suspensão dos prazos judiciais, estabelecida no artigo 144.º, n.º 3, do Código de Processo Civil, não é aplicável
+  ao prazo judicial de propositura de acção previsto no artigo 382.º, n.º 1, alínea a), do mesmo Código
+jurisdiction: portugal
+territory: null
+document_type: assento
+document_type_label: Assento
+issuing_authority:
+- Supremo Tribunal de Justiça
+proposing_entity: null
+official_number: 8/94
+official_date: null
+publication_date: '1994-05-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 102/1994, Série I-A de 1994-05-03
+  number: '102'
+  series: I
+  supplement: null
+  pages: 2222 - 2223
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/05/102a00/22222223.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/asst/8/1994/05/03/p/dre/pt/html
+  oj: null
+  dre: '250661'
+  dre_path: /dr/detalhe/assento/8-1994-250661
+  internal: pt:dre:250661:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/assento/8-1994-250661
+  metadata_url: https://data.dre.pt/eli/asst/8/1994/05/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/assento/8-1994-250661
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:27:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 16ae9b199892bed8a6443e56b0d5879313c8282343313ca021888f80f52a705d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:27:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Feriado
+- Férias Judiciais
+- Interpretação do Direito
+- Prazo Processual
+- Processo Civil
+- Processo Judicial
+relationships:
+- type: cites
+  target: pt:dre:462240:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476742:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:27:59Z'
+  warnings: []
+  errors: []
+---
+
+# Assento n.º 8/94
+
+Acordam no plenário do Supremo Tribunal de Justiça:
+
+I - Relatório
+
+Maria Celeste Freitas de Oliveira de Almeida Dias e outro interpuseram recurso, para o tribunal pleno, do Acórdão deste Tribunal de 2 de Junho de 1987, certificado a fls. 6 e seguintes, em que se decidiu estar a contagem do prazo previsto no artigo 382.º, n.º 1, alínea a), do Código de Processo Civil submetida ao disposto no n.º 3 do artigo 144.º do mesmo Código.
+
+Invocou-se ter sido adoptada solução oposta no Acórdão também deste Tribunal de 2 de Fevereiro de 1984, publicado no Boletim do Ministério da Justiça, n.º 334, p. 406.
+
+No acórdão a fls. 18 e seguintes reconheceu-se a existência da invocada oposição e dos demais requisitos do recurso.
+
+Em alegações, os recorrentes defendem a solução do acórdão fundamento.
+
+A recorrida não alegou.
+
+O Ministério Público emitiu douto parecer em que conclui pela formulação de assento com a seguinte redacção:
+
+O prazo de 30 dias, constante do artigo 382.º, n.º 1, alínea a), [...] é um prazo de propositura de acção, que se não suspende durante as férias, sábados, domingos e feriados.
+
+II - Questão preliminar
+
+A admissibilidade do presente recurso depende da verificação cumulativa dos requisitos previstos no artigo 763.º do citado Código.
+
+O acórdão da Secção, a fls. 18 e seguintes, já decidiu no sentido dessa verificação, em termos que merecem concordância e que, por isso, se dão aqui como reproduzidos.
+
+III - Mérito do recurso
+
+Pelo citado artigo 382.º, n.º 1, alínea a), «as providências cautelares ficam sem efeito se o requerente não propuser a acção, de que forem dependência, dentro de 30 dias, contados da data em que lhe for notificada a decisão», que as ordenou.
+
+No citado artigo 144.º estabelece-se que: o prazo judicial é marcado por lei ou fixado por despacho do juiz (n.º 1); o prazo judicial é contínuo, começando a correr independentemente de assinação ou outra formalidade e correndo seguidamente (n.º 2); o prazo judicial suspende-se, no entanto, durante as férias, sábados, domingos e dias feriados (n.º 3); o disposto no número anterior não se aplica aos prazos de propositura das acções, com excepção dos embargos de terceiro, nem aos prazos de interposição dos recursos extraordinários (n.º 4).
+
+O acórdão recorrido teve como aplicável esse n.º 3 àquele prazo, com base, essencialmente, em que o prazo para a propositura de acções é de carácter substantivo, ligado à caducidade do direito que se pretende fazer valer, o que se não verifica quanto ao prazo da alínea a) do artigo 382.º, relacionado apenas com a extinção das medidas cautelares, e em que o legislador não seria «tão precipitado» ao ponto de considerar incluídos, no n.º 4 do artigo 144.º, prazos «com características ou consequências exclusivamente adjectivas».
+
+O acórdão fundamento, por sua vez, excluiu a aplicabilidade do n.º 3 do artigo 144.º porque o prazo da alínea a) do artigo 382.º, sendo embora judicial ou processual, não deixa de ser um prazo de propositura de acção, e nem todos estes prazos são substantivos, sendo alguns deles «meros prazos judiciais, como claramente se alcança do dispositivo do n.º 4 do artigo 144.º, considerado o contexto em que está inserido e que só aos prazos judiciais diz respeito».
+
+Sem embargo das dúvidas que a questão pode suscitar, expressas naquelas e em outras decisões, é de perfilhar, como propõe o Ministério Público, a solução do acórdão fundamento.
+
+Os prazos judiciais destinam-se a determinar o período de tempo «para se produzir um determinado efeito processual», ou seja, a «regular a distância entre os actos do processo», e, dada essa função específica, pressupõem, necessariamente, a prévia propositura de uma acção, a existência de um processo (A. Reis, Comentário ..., II, pp. 52 e segs.).
+
+Os prazos substantivos respeitam ao período de tempo exigido para exercício de direitos materiais e são-lhes «aplicáveis as regras da caducidade, a menos que a lei se refira expressamente à prescrição» (artigo 298.º, n.º 2, do Código Civil), tendo o seu decurso, em princípio, sem prejuízo das regras respeitantes à necessidade da sua indicação em juízo, a consequência de extinção do respectivo direito.
+
+Por outro lado, a natureza de um prazo, designadamente para propor uma acção, deve resultar da análise da correspondente norma jurídica e não da sua simples inclusão em determinado diploma, e, se a caducidade é em regra prevista na lei substantiva, admite-se que o possa ser também na lei processual (A. Reis, loc. cit., e Vaz Serra, na Revista de Legislação e de Jurisprudência, 105.º, p. 26).
+
+Em particular no que respeita aos prazos de propositura de acção, em geral qualificados como prazos substantivos de caducidade (ou, excepcionalmente, de prescrição - citado artigo 298.º, n.º 2), por estas se reconduzirem a elemento integrante do regime jurídico da respectiva relação material, os mesmos podem ser também prazos judiciais.
+
+Isso ocorrerá sempre que o prazo esteja directamente relacionado com uma outra acção e o seu decurso tenha um mero efeito de natureza processual e não o de extinção de direito material, como será decerto o caso do disposto, entre outros, nos artigos 97.º, n.º 2, 289.º, n.º 2, e 910.º, n.º 2, do Código de Processo Civil.
+
+Reveste tal natureza, seguramente, o prazo previsto no citado artigo 382.º, n.º 1, alínea a), uma vez que funciona como simples condição de subsistência da providência cautelar, sem qualquer interferência no direito que constitua o fundamento da respectiva acção.
+
+Trata-se, pois, de prazo judicial de propositura de acção, ponto em que, aliás, são conformes os dois acórdãos em causa.
+
+O citado artigo 144.º reporta-se à contagem dos prazos judiciais e, na redacção dada pelo [Decreto-Lei n.º 457/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1980-462240), de 10 de Outubro, estabeleceu-se a sua suspensão «durante as férias, sábados, domingos e dias feriados» (n.º 3), com excepção dos «prazos de propositura das acções [...]» (n.º 4).
+
+Essa suspensão foi justificada, de certo, pela reduzida amplitude da maioria dos prazos judiciais e por se não mostrar razoável que os mandatários das partes tivessem de incluir aqueles dias, destinados ao descanso ou a outras finalidades, nos seus trabalhos profissionais. Por esse motivo, o legislador terá hesitado nas diversas tentativas de eliminar, ao menos em parte, aquela suspensão (cf. relatório do [Decreto-Lei n.º 381-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-a-1985-476742), de 28 de Setembro), e o mais razoável, no sentido da conciliação dos interesses em conflito, será, porventura, o de compensar a continuidade dos prazos com o seu alargamento, como se prevê nos anteprojectos do Código de Processo Civil de 1988 e 1993.
+
+De qualquer modo, e perante a lei vigente, tal suspensão não é extensiva aos prazos de propositura de acções, mesmo de natureza judicial.
+
+Aquele artigo 144.º contempla apenas os prazos judiciais; isso consta, expressamente, dos seus n.os 1, 2 e 3, e o mesmo se deve entender quanto ao n.º 4, pelo seu contexto e pela referência nele feita ao «disposto no número anterior».
+
+Além da inequívoca letra da lei, concorre no mesmo sentido a circunstância de a suspensão constituir uma excepção ao princípio da continuidade, estabelecido no n.º 2, e de os prazos em causa, em regra de 30 dias, serem superiores à generalidade dos prazos judiciais.
+
+A interpretação do acórdão recorrido, segundo a qual o n.º 4 do artigo 144.º alude só aos prazos substantivos, não pode ser acolhida: o cômputo desses prazos está submetido às regras consignadas no artigo 279.º do Código Civil; o legislador processual teria sido antes «precipitado» se houvesse incluído aí prazos já regulados em outro diploma; pelo contrário, ele teve necessidade de mencionar aqueles prazos de propositura de acções, de carácter judicial, na medida em que, se o não tivesse feito, os mesmos seriam abrangidos, sem justificação, pelo princípio do n.º 3; e a excepção prevista para os embargos de terceiro, cujo prazo é também judicial (artigos 1037.º e 1039.º do Código de Processo Civil), mostra-se fundamentada pelo facto de o embargante não ter sido parte, em regra, no processo onde se ordenou a diligência judicial, e ter por isso necessidade de preparar, no prazo de 20 dias, a acção destinada à defesa da sua posse, o que se não verifica na acção tendente a evitar a caducidade de providência cautelar.
+
+Pelo exposto:
+
+Revoga-se o acórdão recorrido, devendo ordenar-se o levantamento das providências decretadas.
+
+Custas dos recursos pela recorrida.
+
+E formula-se o seguinte assento:
+
+A suspensão dos prazos judiciais, estabelecida no artigo 144.º, n.º 3, do Código de Processo Civil, não é aplicável ao prazo judicial de propositura de acção previsto no artigo 382.º, n.º 1, alínea a), do mesmo Código.
+
+Lisboa, 2 de Março de 1994. - José Martins da Costa - Ferreira da Silva - Lopes de Melo - Ferreira Vidigal - Ferreira Dias - Miguel Montenegro - Figueiredo de Sousa - Martins da Fonseca - Mário Noronha - Sá Nogueira - Sampaio da Silva - Roger Lopes - Cura Mariano - Santos Monteiro - Abranches Martins - Ramiro Vidigal - Coelho Ventura - Costa Raposo - Miranda Gusmão - Araújo Ribeiro - Raul Mateus - Sá Couto - Zeferino Faria - Carlos Caldas - Faria de Sousa - Pereira Cardigos - Silva Cancela - Teixeira do Carmo - Calixto Pires - Folque Gouveia - Cardona Ferreira - Machado Soares - Amado Gomes - Silva Reis - Costa Pereira - Correia de Sousa - Oliveira Branquinho - Gelásio Rocha - Castanheira da Costa - Sousa Macedo (vencido. As providências cautelares assumem a natureza de uma pré-acção, integrada numa mesma unidade de procedimento que é a acção. Assim, o prazo é composto no artigo 382.º, n.º 1, alínea a), do Código de Processo Civil e intercala-se numa actividade processual com unidade, funcionando como qualquer prazo processual, sendo pressuposto da validade temporal da providência). Não está em causa a caducidade da acção e a consequente perda de direito acautelado pela providência, como é próprio do decurso dos prazos de propositura da acção, mas apenas a eficácia desta providência) - Fernando Fabião (vencido pelas mesmas razões do Exmo. Sr. Conselheiro Pedro Macedo) - César Marques (vencido nos mesmos termos) - Fernando Dias Simões (vencido por idênticos fundamentos) - Cichorro Rodrigues (vencido nos mesmos termos) - Pais de Sousa (vencido nos mesmos termos).

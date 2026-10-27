@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:355928:por
+title: Declaração de Rectificação n.º 252/94
+short_title: null
+summary: De ter sido rectificado o Decreto Regulamentar n.º 23/94, do Ministério da Defesa Nacional, que estabelece as atribuições,
+  organização e competências da Superintendência dos Serviços do Material da Marinha, publicado no Diário da República, n.º
+  202, de 1 de Setembro de 1994
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros - Secretaria-Geral
+proposing_entity: null
+official_number: 252/94
+official_date: null
+publication_date: '1994-11-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 277/1994, 4º Suplemento, Série I-B de 1994-11-30
+  number: '277'
+  series: I
+  supplement: null
+  pages: 7070-(16) a 7070-(16)
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/11/277b04/00160016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/252/1994/11/30/p/dre/pt/html
+  oj: null
+  dre: '355928'
+  dre_path: /dr/detalhe/declaracao-rectificacao/252-1994-355928
+  internal: pt:dre:355928:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/252-1994-355928
+  metadata_url: https://data.dre.pt/eli/declrectif/252/1994/11/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/252-1994-355928
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:42:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a9201f48c99149701232784bdb696f08178e4fbdd70253bd4dc9f86dfcdc50af
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:42:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Marinha
+- Orgânica
+- Reestruturação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:654538:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/23/1994/09/01/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:42:17Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 252/94
+
+Para os devidos efeitos se declara que o [Decreto Regulamentar n.º 23/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1994-654538), publicado no Diário da República, n.º 202, de 1 de Setembro de 1994, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+
+No sétimo parágrafo do preâmbulo, onde se lê «Centralização [...] de qualidade;» deve ler-se «Centralização [...] da qualidade;».
+
+No artigo 1.º, onde se lê «de combate» deve ler-se «do combate».
+
+No artigo 9.º, na alínea c), onde se lê «OTAN» deve ler-se «NATO», e na alínea d), onde se lê «(NBQ), sistemas de armas» deve ler-se «(NBQ), sistemas de armas,».
+
+No artigo 16.º, n.º 1, alínea j), onde se lê «navais pontos de apoio» deve ler-se «navais e pontos de apoio».
+
+No artigo 17.º, n.º 1, alínea f), onde se lê «da informação instalados» deve ler-se «da informação logística instalados».
+
+No artigo 18.º, na alínea a), onde se lê «de manutenção sobre contínua» deve ler-se «de manutenção sob contínua», e na alínea p), onde se lê «orginadas» deve ler-se «originadas».
+
+No artigo 23.º, alínea d), onde se lê «função de abastecimento,» deve ler-se «função abastecimento,».
+
+No artigo 25.º, n.º 1, onde se lê «as actividades DA.» deve ler-se «as actividades da DA.».
+
+No artigo 32.º, alínea d), onde se lê «com o excedentário;» deve ler-se «como excedentário;».
+
+No artigo 35.º, na alínea c), onde se lê «defesa nacional» deve ler-se «Defesa Nacional», e na alínea e), onde se lê «OTAN» deve ler-se «NATO».
+
+No artigo 47.º, alínea a), onde se lê «concentrização;» deve ler-se «concretização;».
+
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Novembro de 1994. - O Secretário-Geral, França Martins.

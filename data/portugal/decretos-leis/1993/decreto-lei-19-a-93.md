@@ -1,0 +1,492 @@
+---
+schema_version: '1.0'
+id: pt:dre:302483:por
+title: Decreto-Lei n.º 19-A/93
+short_title: null
+summary: Aprova a Lei Orgânica dos Serviços Sociais da Presidência do Conselho de Ministros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 19-A/93
+official_date: null
+publication_date: '1993-01-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/1993, 1º Suplemento, Série I-A de 1993-01-25
+  number: '20'
+  series: I
+  supplement: null
+  pages: 292-(2) a 292-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/01/020a01/00020006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/19-a/1993/01/25/p/dre/pt/html
+  oj: null
+  dre: '302483'
+  dre_path: /dr/detalhe/decreto-lei/19-a-1993-302483
+  internal: pt:dre:302483:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-a-1993-302483
+  metadata_url: https://data.dre.pt/eli/dec-lei/19-a/1993/01/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-a-1993-302483
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:23:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 65aa1295b0ab9e2f8d71c04561f11885b7cd0b3aabe3dc9a43c5e0a16831365f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:23:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Conselho Consultivo
+- Conselho de Direção
+- Definição de Competências
+- Orgânica
+- Presidência do Conselho de Ministros
+- Presidente
+- Serviços Sociais
+- Sistema de Acção Social Complementar
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:520995:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:227398:por
+  label: "Fundidos nos Serviços Sociais da Presidência do Conselho de Ministros, cuja orgânica consta do presente diploma,\
+    \ os Serviços Sociais do Ministério da Saúde, e transferidas as suas atribuições, direitos e obrigações, assim como as\
+    \ competências dos seus presidente e conselho de direcção, respectivamente, para os SSPCM e seus presidente e conselho\
+    \ de direcção, pelo DR.4/2005.09.06.2005.MS, DR.IS-B [111] de 09.06.2005\0005\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-2005-227398
+  date: '2005-06-09'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Extintos, sendo objecto de fusão, os Serviços Sociais, criados no Dec Lei 308/72, de 17-Ago, e reestruturados no\
+    \ presente diploma, sendo integradas as suas atribuições nos Serviços Sociais da Administração Pública, no âmbito do Ministério\
+    \ das Finanças e da Administração Pública, pelo DEC LEI.202/2006.27.10.2006.PCM, DR.IS [208] de 27.10.2006, nos termos\
+    \ dos seus artigos 32.º e 33.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:170306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324960:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406964:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:452535:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631203:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/194/1991/05/25/p/dre
+- type: cites
+  target: pt:dre:676444:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:520995:por
+  label: "Revogado, a partir de 01.05.2007, e nos termos do artigo 5.º do Decreto-Lei n.º 201/2006, de 27 de Outubro, o presente\
+    \ diploma, e determinado que os Serviços Sociais da Administração Pública sucedam nos termos do n.º 1 do artigo 12.º nas\
+    \ atribuições dos Serviços Sociais da Presidência do Conselho de Ministros, cuja orgânica foi aprovada pelo citado diploma,\
+    \ pelo DR.49/2007.27.04.2007.MFAP, DR.IS [82] de 27.04.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/49-2007-520995
+  date: '2007-04-27'
+article_structure:
+  article_count: 33
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:23:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 19-A/93
+
+de 25 de Janeiro
+
+Tendo por finalidade enquadrar a actuação dos vários serviços sociais, foi aprovado, pelo [Decreto-Lei n.º 194/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1991-631203), de 25 de Maio, o novo sistema de acção social complementar para funcionários e agentes da Administração Pública, no qual se estabelecem os seus princípios enformadores, órgãos, instrumentos de gestão económico-financeira e forma de coordenação do sistema.
+
+Dada a necessidade de adequar a regulamentação jurídica da estrutura dos Serviços Sociais da Presidência do Conselho de Ministros ao actual sistema de acção social complementar, o presente diploma visa introduzir as alterações orgânicas indispensáveis ao cumprimento do referido regime.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Natureza, âmbito e atribuições
+
+###### Artigo 1.º — Natureza
+
+Os Serviços Sociais da Presidência do Conselho de Ministros, adiante designados por Serviços Sociais, constituem um serviço dotado de personalidade jurídica e de autonomia administrativa e financeira, dependente da Presidência do Conselho de Ministros.
+
+###### Artigo 2.º — Âmbito
+
+1 - São beneficiários titulares dos Serviços Sociais os funcionários, agentes e outro pessoal que, por período superior a seis meses, prestem serviço:
+
+a) Nos departamentos da Presidência do Conselho de Ministros e nos serviços dela dependentes;
+
+b) Nos departamentos e serviços dependentes de outros ministérios a cujo pessoal a lei atribua especificamente essa qualidade.
+
+2 - Consideram-se ainda beneficiários titulares:
+
+a) O pessoal que, em exercício temporário de funções fora dos departamentos e serviços referidos no número anterior, continue a ser remunerado pelos respectivos orçamentos;
+
+b) Os reformados e aposentados dos serviços referidos no número anterior;
+
+c) Os reformados e aposentados que, nos termos do [Decreto-Lei n.º 77/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1985-324960), de 28 de Março, transitaram da Obra Social do Ministério do Ultramar.
+
+3 - São também abrangidas pelo presente diploma as pessoas que, por lei, tenham a qualidade de beneficiários familiares ou equiparados.
+
+###### Artigo 3.º — Atribuições
+
+1 - São atribuições dos Serviços Sociais:
+
+a) A realização de estudos conducentes à definição e permanente adequação da política de acção social complementar e elaboração dos correspondentes instrumentos legais;
+
+b) A participação na elaboração do plano e do orçamento global do sistema de acção social complementar;
+
+c) A resolução de carências decorrentes quer de situações especificamente laborais quer de ordem pessoal e familiar dos seus beneficiários.
+
+2 - Na prossecução das suas atribuições, os Serviços Sociais actuam nas áreas previstas na lei e devidamente regulamentadas.
+
+### CAPÍTULO II — Órgãos e serviços
+
+#### SECÇÃO I — Órgãos
+
+###### Artigo 4.º — Órgãos
+
+São órgãos dos Serviços Sociais da Presidência do Conselho de Ministros:
+
+a) O conselho de direcção;
+
+b) O conselho consultivo;
+
+c) A comissão de fiscalização.
+
+##### SUBSECÇÃO I — Conselho de direcção
+
+###### Artigo 5.º — Natureza
+
+O conselho de direcção é o órgão responsável pela definição, orientação e execução das linhas gerais de actuação dos Serviços Sociais.
+
+###### Artigo 6.º — Composição
+
+1 - O conselho de direcção é composto por um presidente e dois vogais.
+
+2 - O presidente é substituído, nos seus impedimentos ou faltas, pelo vogal por si designado.
+
+###### Artigo 7.º — Competência
+
+1 - No âmbito da orientação e gestão dos serviços, compete ao conselho de direcção:
+
+a) Dirigir a actividade dos Serviços Sociais;
+
+b) Identificar as necessidades a satisfazer;
+
+c) Elaborar propostas que visem a definição e o aperfeiçoamento dos esquemas de prestações;
+
+d) Elaborar e apresentar à aprovação superior o plano anual de actividades e os respectivos programas de execução, de acordo com as prioridades fixadas pelo Governo;
+
+e) Elaborar e submeter à aprovação do membro do Governo que exerça a tutela o relatório de actividades;
+
+f) Assegurar a gestão do pessoal dos Serviços Sociais;
+
+g) Autorizar a admissão de beneficiários e suspender o direito a benefícios ou cancelar a sua inscrição, nos termos da legislação aplicável;
+
+h) Praticar os demais actos necessários ao bom funcionamento dos Serviços Sociais.
+
+2 - Na área financeira e patrimonial, compete ao conselho de direcção:
+
+a) Elaborar e submeter à aprovação superior o orçamento e as alterações que se revelem necessárias;
+
+b) Arrecadar as receitas e autorizar as despesas, nos termos e até aos limites estabelecidos para os órgãos dirigentes dos serviços dotados de autonomia administrativa e financeira;
+
+c) Promover a elaboração da conta de gerência.
+
+3 - Compete ao presidente do conselho de direcção, em especial:
+
+a) Presidir às reuniões do conselho de direcção e orientar os seus trabalhos;
+
+b) Representar os Serviços Sociais em juízo e fora dele;
+
+c) Representar os Serviços Sociais no Conselho Superior de Acção Social Complementar.
+
+###### Artigo 8.º — Funcionamento
+
+O conselho de direcção reúne ordinariamente uma vez por semana e extraordinariamente sempre que o presidente o convoque, por sua iniciativa ou a solicitação dos dois vogais.
+
+###### Artigo 9.º — Responsabilização dos Serviços Sociais
+
+1 - Para obrigar os Serviços Sociais é necessária a assinatura do presidente do conselho de direcção ou, no seu impedimento, a assinatura conjunta do seu substituto e de um vogal.
+
+2 - A movimentação de fundos só poderá processar-se mediante a assinatura de dois membros do conselho de direcção.
+
+##### SUBSECÇÃO II — Conselho consultivo
+
+###### Artigo 10.º — Natureza
+
+O conselho consultivo é o órgão de apoio ao membro do Governo que exerce a tutela e ao conselho de direcção, no que se refere à definição das linhas gerais de actuação dos Serviços Sociais.
+
+###### Artigo 11.º — Composição
+
+1 - Constituem o conselho consultivo:
+
+a) Seis representantes dos serviços abrangidos pelos Serviços Sociais, a designar por despacho do membro do Governo que exerça a tutela;
+
+b) Seis representantes dos beneficiários, no activo ou aposentados, dos mesmos serviços, a designar pelas organizações sindicais.
+
+2 - O presidente do conselho consultivo é designado, pelo membro do Governo que exerça a tutela, de entre os representantes a que alude a alínea a) do número anterior, sendo substituído, nos seus impedimentos ou faltas, por outro representante dos mesmos serviços.
+
+3 - Pela participação no conselho consultivo não cabe qualquer remuneração.
+
+4 - Os membros do conselho consultivo são designados por um período de três anos, renovável, devendo ser substituídos, nos seus impedimentos ou faltas, por membros suplentes, nos termos previstos nos n.os 1 e 2.
+
+5 - O secretário do conselho é designado de entre os seus membros pelo respectivo presidente.
+
+###### Artigo 12.º — Competência
+
+Compete ao conselho consultivo:
+
+a) Apreciar e dar parecer sobre os planos e programas de acção, bem como sobre o relatório de actividades;
+
+b) Pronunciar-se sobre o relatório e conta de gerência e sobre o relatório anual da comissão de fiscalização;
+
+c) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pelo conselho de direcção;
+
+d) Apresentar propostas e sugestões tendentes a fomentar ou aperfeiçoar a actividade dos Serviços Sociais.
+
+###### Artigo 13.º — Funcionamento
+
+O conselho consultivo reúne ordinariamente de três em três meses e extraordinariamente sempre que o presidente o convoque, por sua iniciativa ou a solicitação de um terço dos seus membros.
+
+##### SUBSECÇÃO III — Comissão de fiscalização
+
+###### Artigo 14.º — Natureza
+
+A comissão de fiscalização é o órgão responsável pela fiscalização da legalidade de gestão financeira e patrimonial dos Serviços Sociais.
+
+###### Artigo 15.º — Composição
+
+1 - A comissão de fiscalização é constituída por um presidente e dois vogais, todos nomeados por despacho conjunto do Ministro das Finanças e do membro do Governo que exerça a tutela.
+
+2 - Os membros da comissão de fiscalização têm direito a uma remuneração mensal, a fixar por despacho do Ministro das Finanças, de montante não superior a 20% da remuneração atribuída ao presidente do conselho de direcção.
+
+###### Artigo 16.º — Competência
+
+1 - Compete à comissão de fiscalização:
+
+a) Emitir parecer sobre os orçamentos e suas revisões ou alterações;
+
+b) Acompanhar a execução orçamental e examinar a contabilidade dos serviços;
+
+c) Emitir parecer sobre a aceitação de doações, heranças ou legados, bem como sobre os assuntos que lhe sejam submetidos pelo conselho de direcção;
+
+d) Emitir parecer sobre o relatório e conta de gerência;
+
+e) Manter o conselho de direcção informado sobre os resultados das verificações e exames a que proceda;
+
+f) Elaborar o relatório anual da sua acção fiscalizadora.
+
+2 - O prazo para elaboração dos pareceres referidos nas alíneas a) e c) do número anterior é de 10 dias úteis a contar do dia da recepção do documento a que respeitam, sendo de 15 dias úteis o prazo para apreciação do relatório e conta de gerência.
+
+###### Artigo 17.º — Funcionamento
+
+1 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo seu presidente, por iniciativa própria, a solicitação dos outros membros ou a pedido do conselho de direcção.
+
+2 - A comissão de fiscalização tem livre acesso a todos os sectores e documentos dos Serviços Sociais, devendo, para o efeito, solicitar a comparência dos respectivos responsáveis.
+
+3 - A comissão de fiscalização é secretariada por um funcionário dos Serviços Sociais, designado pelo respectivo presidente.
+
+#### SECÇÃO II — Serviços
+
+###### Artigo 18.º — Serviços
+
+Os Serviços Sociais compreendem:
+
+a) A Direcção de Serviços de Recursos Humanos e Administração (DSRHA);
+
+b) A Divisão de Acção Social (DAS);
+
+c) O Gabinete Técnico-Jurídico (GTJ);
+
+d) O Centro de Informática (CI);
+
+e) O Centro de Documentação, Informação e Relações Públicas (CDIRP).
+
+###### Artigo 19.º — Direcção de Serviços de Recursos Humanos e Administração
+
+1 - A DSRHA é o serviço de gestão e de apoio técnico-administrativo, ao qual incumbe promover e assegurar a eficácia das acções inerentes à gestão e administração dos recursos humanos, financeiros e patrimoniais.
+
+2 - A DSRHA integra:
+
+a) A Repartição de Pessoal e Beneficiários (RPB);
+
+b) A Repartição Financeira e Patrimonial (RFP);
+
+c) A Repartição de Prestações Sociais (RPS).
+
+###### Artigo 20.º — Repartição de Pessoal e Beneficiários
+
+1 - Compete à RPB apoiar a gestão e administração de pessoal, bem como instruir os processos relativos ao movimento de beneficiários.
+
+2 - A RPB compreende:
+
+a) A Secção de Administração de Pessoal, Expediente e Arquivo;
+
+b) A Secção de Beneficiários.
+
+###### Artigo 21.º — Repartição Financeira e Patrimonial
+
+1 - À RFP compete apoiar a gestão dos recursos financeiros e patrimoniais dos Serviços Sociais.
+
+2 - A RFP compreende:
+
+a) A Secção de Contabilidade e Orçamento;
+
+b) A Secção de Património e Aprovisionamento;
+
+c) A Tesouraria.
+
+###### Artigo 22.º — Repartição de Prestações Sociais
+
+1 - À RPS compete aplicar e processar as prestações do sistema de acção social complementar.
+
+2 - A RPS compreende:
+
+a) A Secção de Prestações Pecuniárias;
+
+b) A Secção de Refeitórios e Alimentação.
+
+###### Artigo 23.º
+
+##### Divisão de Acção Social
+
+1 - À DAS compete:
+
+a) Propor as medidas tendentes à definição da política de acção social complementar;
+
+b) Promover a realização de estudos técnico-normativos conducentes à optimização das prestações sociais;
+
+c) Desenvolver as modalidades de acção social complementar na perspectiva da sua permanente adequação à evolução das condições sócio-económicas dos beneficiários;
+
+d) O estudo e análise de casos concretos visando o apoio sócio-económico a situações socialmente gravosas e urgentes.
+
+###### Artigo 24.º — Gabinete Técnico-Jurídico
+
+1 - O GTJ funciona na dependência directa do conselho de direcção, competindo-lhe prestar apoio técnico-jurídico ao conselho de direcção dos Serviços Sociais em todas as suas áreas de actividade, quer através da emissão de pareceres e informações, quer mediante a preparação de textos de natureza técnico-jurídica ou na organização e instrução de processos da mesma índole.
+
+2 - O GTJ é coordenado por um técnico superior com formação jurídica, designado pelo conselho de direcção.
+
+###### Artigo 25.º — Centro de Informática
+
+Ao CI compete:
+
+a) Promover o desenvolvimento e aperfeiçoamento de aplicações informáticas nas áreas de gestão comum, visando a informatização dos serviços;
+
+b) Assegurar a manutenção dos equipamentos informáticos, apoiar os utilizadores e propor a distribuição dos recursos informáticos de acordo com as necessidades dos serviços.
+
+2 - O CI é coordenado por um técnico superior de informática, designado pelo conselho de direcção.
+
+###### Artigo 26.º — Centro de Documentação, Informação e Relações Públicas
+
+1 - Ao CDIRP compete:
+
+a) Promover a imagem dos Serviços Sociais através de adequado sistema de informação, esclarecimento e acompanhamento dos beneficiários e público em geral;
+
+b) Recolher, organizar e tratar a informação científica e técnica relevante para os Serviços Sociais;
+
+c) Propor e desenvolver medidas tendentes a melhorar o relacionamento específico dos Serviços Sociais com os beneficiários.
+
+2 - O CDIRP é coordenado por um técnico superior, designado pelo conselho de direcção.
+
+###### Artigo 27.º — Delegações regionais
+
+1 - Para a melhor prossecução das suas atribuições, os Serviços Sociais podem ser dotados de delegações regionais.
+
+2 - A criação de delegações regionais é objecto de portaria conjunta do Ministro das Finanças e do membro do Governo que exerça a tutela.
+
+### CAPÍTULO III — Pessoal
+
+###### Artigo 28.º — Quadro de pessoal
+
+O quadro de pessoal dos Serviços Sociais é aprovado por portaria conjunta do Ministro das Finanças e do membro do Governo que exerça a tutela.
+
+### CAPÍTULO IV — Disposições finais e transitórias
+
+###### Artigo 29.º — Transição de pessoal
+
+O pessoal dos Serviços Sociais transita para o quadro de pessoal a que se refere o artigo anterior, com observância do disposto no artigo 40.º do [Decreto-Lei n.º 194/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1991-631203), de 25 de Maio.
+
+###### Artigo 30.º — Concursos
+
+Os concursos abertos antes da data de entrada em vigor do presente diploma mantêm-se válidos.
+
+###### Artigo 31.º — Regulamento interno
+
+O regulamento interno dos Serviços Sociais é objecto de portaria do membro do Governo que exerça a tutela.
+
+###### Artigo 32.º — Norma transitória
+
+Mantêm-se, até ao seu termo, as comissões de serviço dos actuais membros da direcção dos Serviços Sociais da Presidência do Conselho de Ministros.
+
+###### Artigo 33.º — Norma revogatória
+
+São revogados os Decretos-Leis n.os [308/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1972-676444), de 17 de Agosto, e [389/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1982-375836), de 17 de Setembro, o [Decreto n.º 18/74](https://diariodarepublica.pt/dr/detalhe/decreto/18-1974-406964), de 29 de Janeiro, o [Decreto Regulamentar n.º 51/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1983-452535), de 21 de Junho, e a [Portaria n.º 892/85](https://diariodarepublica.pt/dr/detalhe/portaria/892-1985-170306), de 23 de Novembro.
+
+Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
+
+Promulgado em 6 de Novembro de 1992.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 10 de Novembro de 1992.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

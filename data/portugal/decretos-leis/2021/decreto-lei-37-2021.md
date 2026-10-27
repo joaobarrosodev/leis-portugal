@@ -1,0 +1,267 @@
+---
+schema_version: '1.0'
+id: pt:dre:163728573:por
+title: Decreto-Lei n.º 37/2021
+short_title: null
+summary: Cria uma medida excecional de compensação ao aumento do valor da retribuição mínima mensal garantida
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Economia e Transição Digital
+official_number: 37/2021
+official_date: null
+publication_date: '2021-05-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 99/2021, Série I de 2021-05-21
+  number: '99'
+  series: I
+  supplement: null
+  pages: 48 - 51
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/05/09900/0004800051.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/37/2021/05/21/p/dre/pt/html
+  oj: null
+  dre: '163728573'
+  dre_path: /dr/detalhe/decreto-lei/37-2021-163728573
+  internal: pt:dre:163728573:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2021-163728573
+  metadata_url: https://data.dre.pt/eli/dec-lei/37/2021/05/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2021-163728573
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:42:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1c48079db612edd5cd6c611439db8a84eef4cf390c32583f926708b82de48093
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:42:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Fiscalização
+- IAPMEI
+- Instituto do Turismo de Portugal
+- Pagamento
+- Remuneração
+- Remuneração Acessória
+- Retribuição Mínima Garantida
+- Subsídio
+- Trabalhador por Conta de Outrem
+relationships:
+- type: cites
+  target: pt:dre:126365738:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/167/2019/11/21/p/dre
+- type: cites
+  target: pt:dre:152637760:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/109-a/2020/12/31/p/dre
+- type: cites
+  target: pt:dre:518992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602073:por
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: pt:dre:629150:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/381/2007/11/14/p/dre
+- type: repealed_by
+  target: pt:dre:175595604:por
+  label: Revogado, com efeitos a 01.01.2022, nos termos do art. 10.º, o presente diploma, pelo(a) Decreto-Lei n.º 109-B/2021
+    - Diário da República n.º 236/2021, 1º Suplemento, Série I de 2021-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-b-2021-175595604
+  date: '2021-12-07'
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:42:26Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 37/2021
+
+de 21 de maio
+
+O [Decreto-Lei n.º 109-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2020-152637760), de 31 de dezembro, fixou, a partir de 1 de janeiro de 2021, o valor da retribuição mínima mensal garantida (RMMG), a que se refere o n.º 1 do artigo 273.º do Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual, em (euro) 665.
+
+O aumento do valor da RMMG contribui, por um lado, para a melhoria do poder de compra dos trabalhadores e, por outro, para a melhoria dos níveis de coesão social do país.
+
+Não obstante o impacto da situação epidemiológica causada pela pandemia da doença COVID-19 na conjuntura económica e social, a defesa e a promoção de rendimentos dignos mantém-se como prioridade do Governo, já que o relançamento da economia e a promoção do crescimento dependem, também, da coesão social existente e da capacidade de consumo interno.
+
+Considerando, assim, a importância que esta medida assume na promoção de um trabalho mais digno e na promoção do crescimento, sem descurar o peso financeiro que a subida do RMMG representa na atual conjuntura económica para as empresas, o Governo, após audição dos parceiros sociais, assumiu o compromisso de que a atualização da RMMG a partir de 1 de janeiro de 2021 seria acompanhada de uma medida excecional de atribuição às entidades empregadoras de um subsídio pecuniário correspondente a uma importância fixa por trabalhador que aufira a RMMG, quando reunidas as condições de atribuição previstas no presente decreto-lei.
+
+Foram ouvidos os parceiros sociais com assento na Comissão Permanente da Concertação Social.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei cria uma medida excecional de compensação ao aumento do valor da retribuição mínima mensal garantida (RMMG).
+
+###### Artigo 2.º — Âmbito subjetivo
+
+A medida excecional referida no artigo anterior aplica-se a entidades empregadoras, independentemente da sua forma jurídica, bem como a pessoas singulares, com um ou mais trabalhadores ao seu serviço.
+
+###### Artigo 3.º — Âmbito material
+
+A medida excecional referida no artigo 1.º consiste na atribuição de um subsídio pecuniário, pago de uma só vez, pelo IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), ou pelo Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.), nos termos estabelecidos no anexo ao presente decreto-lei e do qual faz parte integrante.
+
+###### Artigo 4.º — Âmbito territorial
+
+O presente decreto-lei é aplicável a todo o território continental.
+
+###### Artigo 5.º — Condições de acesso
+
+1 - O acesso ao subsídio pecuniário referido no artigo 3.º depende de a entidade empregadora reunir as seguintes condições:
+
+a) Apresentar, na declaração de remunerações relativa ao mês de dezembro de 2020, um ou mais trabalhadores, a tempo completo, com valor da remuneração base declarada igual ou superior à RMMG para 2020, nos termos previstos no [Decreto-Lei n.º 167/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2019-126365738), de 21 de novembro, e inferior à RMMG para 2021, nos termos previstos no [Decreto-Lei n.º 109-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2020-152637760), de 31 de dezembro;
+
+b) Ter, no momento do pagamento do subsídio, as suas situações tributária e contributiva regularizadas, perante, respetivamente, a administração fiscal e a segurança social.
+
+2 - A identificação dos empregadores abrangidos pela condição de acesso prevista na alínea a) do número anterior é feita exclusivamente através do sistema de informação da Segurança Social, a qual, para o efeito, disponibiliza, mediante protocolo, às entidades pagadoras referidas no artigo 3.º a seguinte informação:
+
+a) Nome ou denominação social da entidade empregadora;
+
+b) Número de trabalhadores abrangidos pela condição estabelecida no número anterior;
+
+c) Número de identificação fiscal (NIF) e número de identificação da Segurança Social (NISS) da entidade empregadora.
+
+3 - Para efeitos da alínea b) do número anterior, a segurança social considera o número de trabalhadores, a tempo completo, que constem da última declaração de remunerações submetida à data da disponibilização da informação às entidades pagadoras referidas no artigo 3.º, com valor de remuneração base declarada equivalente à RMMG para 2021, nos termos previstos no [Decreto-Lei n.º 109-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-a-2020-152637760), de 31 de dezembro, quando este seja inferior ao número de trabalhadores a que se refere a alínea a) do n.º 1.
+
+###### Artigo 6.º — Valor do subsídio
+
+1 - O subsídio pecuniário tem o valor de (euro) 84,50 por trabalhador, nos termos do artigo anterior, que na declaração de remunerações relativa ao mês de dezembro de 2020 auferia o valor da remuneração base declarada equivalente à RMMG para 2020, sem prejuízo do número seguinte.
+
+2 - O subsídio pecuniário por trabalhador referido no número anterior, que na declaração de remunerações relativa ao mês de dezembro de 2020 auferia o valor da remuneração base declarada entre a RMMG para 2020 e inferior à RMMG para 2021, corresponde a 50 % do valor previsto no número anterior.
+
+###### Artigo 7.º — Pagamento
+
+1 - Para efeitos de pagamento do subsídio pecuniário referido no presente decreto-lei, o IAPMEI, I. P., e o Turismo de Portugal, I. P., disponibilizam às entidades empregadoras identificadas pelo sistema de informação da Segurança Social, nos termos do n.º 2 do artigo 5.º, um sistema eletrónico de registo, acessível através dos respetivos sítios na Internet, para recolha da seguinte informação complementar:
+
+a) Autorização de consulta à situação tributária e contributiva;
+
+b) Indicação do IBAN (International Bank Account Number) de conta bancária de que o empregador seja titular;
+
+c) Indicação da respetiva Classificação Portuguesa de Atividades Económicas principal;
+
+d) Indicação do endereço eletrónico e, opcionalmente, telefone de contacto.
+
+2 - A não realização do registo eletrónico completo da informação a que se refere o número anterior no prazo de 30 dias a contar da entrada em vigor do presente decreto-lei determina a caducidade do direito ao subsídio pecuniário previsto no presente decreto-lei.
+
+3 - O pagamento do subsídio pecuniário é efetuado no prazo máximo de 30 dias contados do término do prazo referido no número anterior.
+
+###### Artigo 8.º — Cumulação de apoios
+
+A medida de apoio prevista no presente decreto-lei pode ser cumulada com outros apoios ao emprego aplicáveis ao mesmo posto de trabalho, incluindo os concedidos no âmbito da pandemia da doença COVID-19, cuja atribuição esteja, por natureza, dependente de condições inerentes aos trabalhadores contratados.
+
+###### Artigo 9.º — Financiamento
+
+O financiamento da medida de apoio prevista no presente decreto-lei é assegurado pelo Orçamento do Estado para 2021.
+
+Visto e aprovado em Conselho de Ministros de 29 de abril de 2021. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Miguel Jorge de Campos Cruz - Gabriel Gameiro Rodrigues Bastos.
+
+Promulgado em 6 de maio de 2021.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 10 de maio de 2021.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — (a que se refere o artigo 3.º)
+
+1 - O Instituto do Turismo de Portugal, I. P., é a entidade responsável pelos pagamentos às entidades empregadoras cuja atividade principal corresponda às atividades económicas incluídas nos grupos/classes/subclasses da Classificação Portuguesa das Atividades Económicas (CAE - rev. 3), aprovada pelo [Decreto-Lei n.º 381/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-2007-629150), de 14 de novembro, na sua redação atual, que, seguidamente, se identificam:
+
+a) 551 - Estabelecimentos hoteleiros;
+
+b) 55201 - Alojamento mobilado para turistas;
+
+c) 55202 - Turismo no espaço rural;
+
+d) 55204 - Outros locais de alojamento de curta duração;
+
+e) 55300 - Parques de campismo e de caravanismo;
+
+f) 561 - Restaurantes;
+
+g) 563 - Estabelecimentos de bebidas;
+
+h) 771 - Aluguer de veículos automóveis;
+
+i) 79 - Agências de viagem, operadores turísticos, outros serviços de reservas;
+
+j) 82300 - Organização de feiras, congressos e outros eventos similares;
+
+k) 90040 - Exploração de salas de espetáculos e atividades conexas;
+
+l) 91020 - Atividades dos museus;
+
+m) 91030 - Atividades dos sítios e monumentos históricos;
+
+n) 91041 - Atividades dos jardins zoológicos, botânicos e aquários;
+
+o) 91042 - Atividades dos parques e reservas naturais;
+
+p) 93110 - Gestão de instalações desportivas;
+
+q) 93192 - Outras atividades desportivas, n. e.;
+
+r) 93210 - Atividades de parques de diversão e temáticos;
+
+s) 93211 - Atividades de parques de diversão itinerantes;
+
+t) 93292 - Atividades dos portos de recreio (marinas);
+
+u) 93293 - Organização de atividades de animação;
+
+v) 93294 - Outras atividades de diversão e recreativas, n. e.;
+
+w) 93295 - Outras atividades de diversão itinerantes;
+
+x) 96040 - Atividades de bem-estar físico.
+
+2 - O IAPMEI - Agência para a Competitividade e Inovação, I. P., é a entidade responsável pelos pagamentos às entidades empregadoras cuja atividade principal corresponda a atividades económicas incluídas nos grupos/classes/subclasses da CAE - rev. 3, aprovada pelo [Decreto-Lei n.º 381/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-2007-629150), de 14 de novembro, na sua redação atual, que não se encontrem identificadas no número anterior, bem como às entidades empregadoras com registo de atividade enquadrada na tabela de atividades do artigo 151.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo [Decreto-Lei n.º 442-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-a-1988-518992), de 30 de novembro, na sua redação atual.
+
+114257623

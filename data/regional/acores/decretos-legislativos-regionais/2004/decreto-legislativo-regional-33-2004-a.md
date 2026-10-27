@@ -1,0 +1,331 @@
+---
+schema_version: '1.0'
+id: pt:dre:625024:por
+title: Decreto Legislativo Regional n.º 33/2004/A
+short_title: null
+summary: Estabelece o estatuto de pessoal e regime de carreiras dos funcionários das tesourarias da Região Autónoma dos Açores,
+  bem como as respectivas escalas salariais
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 33/2004/A
+official_date: null
+publication_date: '2004-08-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/2004, Série I-A de 2004-08-25
+  number: '200'
+  series: I
+  supplement: null
+  pages: 5743 - 5747
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/33/2004/08/25/a/dre/pt/html
+  oj: null
+  dre: '625024'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/33-2004-625024
+  internal: pt:dre:625024:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2004-625024
+  metadata_url: https://data.dre.pt/eli/declegreg/33/2004/08/25/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/33-2004-625024
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:20:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5ed4d7dbaadca0173493ba13467597dd6f4aaab4bce0c8feb7e82d4476f7f211
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:20:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Carreira Profissional
+- Direcção Regional do Orçamento e Tesouro
+- Estatuto
+- Integração de Trabalhadores
+- Pessoal de Tesouraria
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Reestruturação de Carreiras
+- Remuneração
+- Sistema Retributivo
+- Tesouraria
+relationships:
+- type: amended_by
+  target: pt:dre:164454929:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Estabelecidas as incumbências das Tesourarias da Região Autónoma dos Açores a que se refere o art. 2.º do presente
+    diploma pelo(a) Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03, nos
+    termos do art. 46.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
+- type: amended_by
+  target: pt:dre:127816253:por
+  label: Estabelecidas as incumbências das Tesourarias da Região Autónoma dos Açores a que se refere o art. 2.º do presente
+    diploma, pelo(a) Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08 nos
+    termos do seu art. 54.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/1-2020-127816253
+  date: '2020-01-08'
+- type: amended_by
+  target: pt:dre:164454929:por
+  label: Estabelecidas, as incumbências das Tesourarias da Região Autónoma dos Açores a que se refere o art. 2.º do DLR 33/2004/A
+    de 25-ago DR.IS-A [200] pelo(a) Decreto Legislativo Regional n.º 15-A/2021/A - Diário da República n.º 105/2021, 1º Suplemento,
+    Série I de 2021-05-31, nos termos do seu art. 81.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/15-a-2021-164454929
+  date: '2021-05-31'
+- type: cites
+  target: pt:dre:294152:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/32/1991/10/01/a/dre
+- type: cites
+  target: pt:dre:300468:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/27/1992/06/08/a/dre
+- type: cites
+  target: pt:dre:464427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:522376:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/16/1998/05/15/a/dre
+article_structure:
+  article_count: 17
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:20:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 33/2004/A
+
+Reestrutura as carreiras de pessoal das tesourarias da Região Autónoma dos Açores
+
+O [Decreto Regulamentar Regional n.º 41/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1980-464427), de 8 de Setembro, criou as carreiras do pessoal das tesourarias da Região Autónoma dos Açores, em tudo idêntica à do pessoal das tesourarias da Fazenda Pública.
+
+As significativas alterações operadas no estatuto e carreiras do pessoal das tesourarias da Fazenda Pública, em sequência do profundo processo de reestruturação organizativa da administração tributária, marcaram indelevelmente a distinção formal e funcional com as carreiras concebidas no âmbito do [Decreto Regulamentar Regional n.º 41/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1980-464427).
+
+Por outro lado, o decurso do tempo, conjugado com a introdução de novas tecnologias, de novos métodos e procedimentos, desactualizou, de forma substancial, o quadro regulamentar então aprovado - não obstante as alterações que lhe foram introduzidas pelos Decretos Regulamentares Regionais n.os [32/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1991-294152), de 1 de Outubro, e [27/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-300468), de 8 de Junho - afastando-o da realidade do quotidiano do desempenho das funções inerentes às competências legalmente conferidas às tesourarias da Região, levando à certeza da não necessidade de se alimentar a existência daquelas carreiras por via dos mecanismos legais de recrutamento de pessoal.
+
+Daí que se justifique a opção, caso a caso, pela extinção das vagas organicamente consagradas sempre que as mesmas vagarem.
+
+Neste contexto, e num quadro de racionalização de conteúdos, métodos e procedimentos, com vista a uma maior eficiência e qualidade dos serviços atribuídos às tesourarias da Região, e sem ferir quaisquer direitos já consagrados, procede-se a algumas reformulações nas carreiras das tesourarias, garantindo a manutenção das expectativas legitimamente adquiridas pelos funcionários nelas integrados, a par de uma maior flexibilidade na satisfação das necessidades decorrentes das grandes linhas de actuação das tesourarias.
+
+A Assembleia Legislativa Regional decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
+
+### CAPÍTULO I — Âmbito de intervenção
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o estatuto de pessoal e regime de carreiras dos funcionários das tesourarias da Região Autónoma dos Açores, bem como as respectivas escalas salariais.
+
+###### Artigo 2.º — Tesourarias da Região Autónoma
+
+1 - As tesourarias da Região Autónoma constituem, nas localidades onde funcionam, os serviços externos da Direcção de Serviços Financeiros da Direcção Regional do Orçamento e Tesouro.
+
+2 - Às tesourarias da Região incumbe:
+
+a) Arrecadar e cobrar receitas da Região;
+
+b) Pagar despesas da Região;
+
+c) Quaisquer outras funções que lhes sejam cometidas no âmbito das competências da Direcção de Serviços Financeiros da Direcção Regional do Orçamento e Tesouro.
+
+### CAPÍTULO II — Pessoal
+
+###### Artigo 3.º — Quadro de pessoal
+
+1 - As carreiras de pessoal das tesourarias da Região desenvolvem-se pelos seguintes grupos profissionais:
+
+a) Pessoal técnico tesoureiro;
+
+b) Pessoal técnico exactor.
+
+2 - O quadro de pessoal das tesourarias da Região, categorias, escalões, índices e respectivas vagas, constam dos mapas anexos ao presente diploma e do qual fazem parte integrante.
+
+###### Artigo 4.º — Recrutamento
+
+1 - O recrutamento para a carreira de pessoal técnico tesoureiro obedece às seguintes regras:
+
+a) Tesoureiros de 1.ª classe, de entre os tesoureiros de 2.ª classe com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos de Bom e aprovação nas respectivas provas de selecção;
+
+b) Tesoureiros de 2.ª classe, de entre os tesoureiros de 3.ª classe com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos de Bom e aprovação nas respectivas provas de selecção;
+
+c) Tesoureiros de 3.ª classe, de entre os tesoureiros-ajudantes principais com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos de Bom e aprovação nas respectivas provas de selecção.
+
+2 - O provimento na carreira de pessoal técnico tesoureiro será antecedido de estágio, com a duração de um ano, sendo os programas referentes às provas de admissão aprovados por despacho conjunto dos membros que tiverem a seu cargo a tutela das finanças e da Administração Pública, sob proposta da Direcção Regional do Orçamento e Tesouro.
+
+3 - O provimento para a categoria de tesoureiro-ajudante principal da carreira do pessoal técnico exactor far-se-á de entre os tesoureiros-ajudantes com pelo menos três anos de serviço na categoria com classificação de Muito bom ou cinco anos de Bom e aprovação nas respectivas provas de selecção.
+
+###### Artigo 5.º — Preferências a atender no caso de igualdade de circunstâncias
+
+Aquando da promoção e em caso de igualdade de circunstâncias serão considerados, sucessivamente, os seguintes critérios:
+
+a) Antiguidade na categoria, expressa em anos completos de serviço;
+
+b) Habilitações literárias;
+
+c) Avaliação de desempenho, expressa pela média da classificação de serviço nos últimos cinco anos.
+
+###### Artigo 6.º — Coordenação das tesourarias
+
+1 - Cada uma das tesourarias da Região é coordenada por um tesoureiro de 1.ª, 2.ª ou de 3.ª classe, nomeado em comissão de serviço pelo membro do Governo Regional que tutela a área das finanças, sob proposta da Direcção Regional do Orçamento e Tesouro.
+
+2 - A comissão de serviço tem a duração de um ano, considerando-se automaticamente prorrogada por iguais períodos caso não seja comunicado aos interessados a sua cessação até 30 dias antes do seu termo.
+
+3 - Na impossibilidade de recrutamento do coordenador de entre tesoureiros de 1.ª, 2.ª ou de 3.ª classe, o mesmo será nomeado, nos termos consagrados no número anterior, de entre tesoureiros-ajudantes principais.
+
+###### Artigo 7.º — Remunerações e abonos diversos
+
+1 - Os funcionários do quadro das tesourarias da Região têm direito ao vencimento correspondente às respectivas categorias do mapa anexo ao presente diploma e às remunerações acessórias estabelecidas no número seguinte.
+
+2 - Têm direito a abono para falhas os tesoureiros encarregues da coordenação das tesourarias da Região e os respectivos substitutos legais, quando investidos no serviço de caixa ou quando lhes tenha sido cometida a coordenação da respectiva tesouraria mediante prévio termo de transição de valores, bem como qualquer funcionário investido no serviço de caixa.
+
+3 - O abono a que se refere o número anterior corresponderá a 10% do vencimento base do 1.º escalão da escala indiciária da categoria de tesoureiro-ajudante.
+
+### CAPÍTULO III — Atribuições e responsabilidades
+
+###### Artigo 8.º — Atribuições do pessoal de tesouraria
+
+1 - Aos tesoureiros-coordenadores compete assegurar o funcionamento dos serviços da respectiva tesouraria, em conformidade com as instruções e orientações emanadas pela Direcção Regional do Orçamento e Tesouro.
+
+2 - Aos funcionários sem atribuições específicas estabelecidas no presente diploma compete executar os serviços de que sejam encarregados pelos respectivos tesoureiros-coordenadores.
+
+###### Artigo 9.º — Serviço de caixa
+
+1 - Em cada tesouraria da Região existirá um serviço de caixa.
+
+2 - Os funcionários a quem seja atribuído o serviço de caixa são escolhidos pelo tesoureiro-coordenador, ou quem suas vezes fizer, independentemente da sua categoria.
+
+3 - O serviço de caixa deve ser encerrado no final de cada dia com a verificação de todos os valores.
+
+4 - Caso o apuramento dos valores referidos nos números anteriores revele diferenças para menos, deverá o tesoureiro-coordenador, acompanhado do caixa, proceder à conferência dos saldos e regularizar a situação, no mesmo dia.
+
+5 - Caso persista a diferença, por impossibilidade em regularizar a situação, deve o tesoureiro-coordenador avisar de imediato o superior hierárquico, sob pena de incorrer, juntamente com o caixa, na responsabilidade pela reposição dos valores em falta.
+
+6 - Enquanto persistir a situação de irregularidade, o tesoureiro-coordenador e o caixa assegurarão a cobertura dos valores em falta com recurso aos respectivos abonos para falhas.
+
+7 - Sempre que em alguma caixa sejam apuradas diferenças para mais, o funcionário investido no serviço de caixa deverá depositar a importância sobrante em rubrica especial de «Operações de tesouraria» à ordem do tesoureiro-coordenador, devendo tal facto constar do termo de apuramento de contas diárias.
+
+8 - Caso o montante do alcance apurado nos termos dos n.os 4 e 5 e os factos indiciem a prática de peculato, deverá o tesoureiro-coordenador levantar também auto de ocorrência do facto e remetê-lo, imediatamente a seguir ao 1.º dia útil da sua ocorrência, se não for possível no próprio dia, ao Ministério Público da comarca territorialmente competente, para efeito de procedimento criminal.
+
+9 - Se, em conformidade com o número anterior, os factos indiciarem como autor material da irregularidade o tesoureiro-coordenador, a referida participação é da competência da Direcção de Serviços Financeiros.
+
+10 - Quando, em virtude de assalto, incêndio, roubo, furto ou ainda qualquer outra circunstância anormal, forem destruídos, arrebatados ou extraviados documentos, valores ou dinheiro existentes nas tesourarias da Região, deverá o respectivo tesoureiro-coordenador participar imediatamente, ou no 1.º dia útil seguinte à ocorrência, se não for possível no próprio dia, os factos ocorridos na tesouraria ao Ministério Público da comarca territorialmente competente e levantar auto de notícia da ocorrência, que remeterá ao seu superior hierárquico, o qual, por sua vez, deverá comunicar imediatamente à Direcção Regional do Orçamento e Tesouro.
+
+###### Artigo 10.º — Serviço externo
+
+A prática de actos de serviço externo incumbe a qualquer funcionário a designar pelo tesoureiro-coordenador.
+
+###### Artigo 11.º — Do cofre
+
+1 - Cumpre ao tesoureiro-coordenador e ao responsável pelo caixa realizar as operações relativas à abertura do cofre, assumindo os mesmos as inerentes responsabilidades.
+
+2 - Nos impedimentos daqueles responsáveis, a substituição far-se-á de acordo com as orientações ou determinações da Direcção Regional do Orçamento e Tesouro, Direcção de Serviços Financeiros.
+
+###### Artigo 12.º — Das responsabilidades e substituições
+
+1 - O tesoureiro-coordenador responde directamente perante a Direcção Regional do Orçamento e Tesouro, Direcção de Serviços Financeiros, pelo conjunto dos valores que lhe são confiados e os restantes funcionários perante ele.
+
+2 - A coordenação das tesourarias da Região em caso de promoção, transferência, suspensão, morte, afastamento, ou por qualquer outro motivo, do tesoureiro-coordenador é cometida ao substituto legal mediante termo de transição de valores, salvo por licença para férias ou doença.
+
+3 - Aplicar-se-á também o disposto no número anterior em caso de doença que se prolongue por período superior a 60 dias e assim impossibilite o tesoureiro-coordenador de continuar com a responsabilidade de coordenação, devendo, neste caso, o apuramento dos valores para a transição reportar-se ao 1.º dia de doença, inclusive, nos casos em que o tesoureiro-coordenador tenha conferido ao substituto legal mandato da coordenação nos termos definidos no artigo seguinte.
+
+###### Artigo 13.º — Mandato de coordenação
+
+1 - O tesoureiro-coordenador, ou quem as suas vezes fizer, poderá, sempre que o entenda necessário e se ausente da respectiva tesouraria em situação devidamente justificada, elaborar um termo de apuramento de valores existentes na tesouraria, assinado por si e pelo substituto legal, consoante o caso, através do qual estes passam a praticar os actos relativos à coordenação da tesouraria em nome do tesoureiro-coordenador, que, assim, lhes confere o mandato de coordenação.
+
+2 - Findo o mandato de coordenação, o substituto legal deve prestar contas ao tesoureiro-coordenador, devendo este elaborar imediatamente um novo termo de apuramento de valores, que será assinado por ambos.
+
+3 - Se o tesoureiro-coordenador não aprovar a execução do mandato de coordenação em virtude de se apurar a existência de alcance, deve proceder em conformidade com o disposto no artigo 9.º do presente diploma.
+
+### CAPÍTULO IV — Disposições transitórias
+
+###### Artigo 14.º — Denominação de carreira
+
+1 - É alterada a denominação da carreira de pessoal dirigente para a de pessoal técnico tesoureiro.
+
+2 - Transitam para a carreira de pessoal técnico tesoureiro os funcionários providos na carreira de pessoal dirigente, nos termos do n.º 1 do artigo seguinte.
+
+###### Artigo 15.º — Regras de transição
+
+1 - O pessoal das tesourarias da Região transita para a mesma categoria, sendo a integração feita em escalão a que corresponda o mesmo índice remuneratório ou, na falta de coincidência, o índice superior mais aproximado na estrutura da categoria.
+
+2 - Nas situações em que a integração é feita no mesmo índice remuneratório, o tempo de serviço prestado no escalão de origem releva para progressão na carreira.
+
+###### Artigo 16.º — Revogação de legislação anterior
+
+É revogado o [Decreto Regulamentar Regional n.º 41/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1980-464427), de 8 de Setembro, com as redacções que lhe foram conferidas pelos Decretos Regulamentares Regionais n.os [32/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/32-1991-294152), de 1 de Outubro, e [27/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-300468), de 8 de Junho, e artigo 56.º do [Decreto Regulamentar Regional n.º 16/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1998-522376), de 15 de Maio.
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Junho de 2004.
+
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 12 de Julho de 2004.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
+
+MAPA I
+
+Escala indiciária da carreira do pessoal técnico tesoureiro
+
+(artigo 3.º)
+
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)
+
+MAPA II
+
+Escala indiciária da carreira do pessoal técnico exactor
+
+(artigo 3.º)
+
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)
+
+MAPA III
+
+Vagas da carreira de pessoal de tesouraria
+
+[[[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)](https://files.diariodarepublica.pt/1s/2004/08/200a00/57435747.pdf)

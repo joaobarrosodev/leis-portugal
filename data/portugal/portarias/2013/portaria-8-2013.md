@@ -1,0 +1,480 @@
+---
+schema_version: '1.0'
+id: pt:dre:588805:por
+title: Portaria n.º 8/2013
+short_title: null
+summary: Aprova o Regulamento Escolar dos Cursos de Formação de Sargentos e dos Estágios Técnico-Militares de Sargentos, que
+  habilitam ao ingresso nos quadros especiais de sargentos do quadro permanente da Força Aérea, e revoga a Portaria n.º 304/2004,
+  de 23 de março
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 8/2013
+official_date: null
+publication_date: '2013-01-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 7/2013, Série I de 2013-01-10
+  number: '7'
+  series: I
+  supplement: null
+  pages: 132 - 137
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00700/0013200137.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/8/2013/01/10/p/dre/pt/html
+  oj: null
+  dre: '588805'
+  dre_path: /dr/detalhe/portaria/8-2013-588805
+  internal: pt:dre:588805:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/8-2013-588805
+  metadata_url: https://data.dre.pt/eli/port/8/2013/01/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/8-2013-588805
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:56:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 48ed5c3dabaa75dccc62165aa6a5943c777efe87f0282b2ae49ae24039e52d11
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Curso de Formação de Sargentos
+- Estágio de Formação
+- Força Aérea
+- Militar
+- Qualificação Profissional
+- Regulamento
+- Sargento
+relationships:
+- type: cites
+  target: pt:dre:147857:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/166/2005/09/23/p/dre
+- type: cites
+  target: pt:dre:209624:por
+  label: null
+  source: http://data.dre.pt/eli/port/304/2004/03/23/p/dre
+- type: cites
+  target: pt:dre:222418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:240467:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2000/06/24/p/dre
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:284678:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324143:por
+  label: null
+  source: http://data.dre.pt/eli/lei/25/2000/08/23/p/dre
+- type: cites
+  target: pt:dre:345291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386786:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/66/2001/02/22/p/dre
+- type: cites
+  target: pt:dre:393000:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/236/1999/06/25/p/dre
+- type: cites
+  target: pt:dre:426744:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197-a/2003/08/30/p/dre
+- type: cites
+  target: pt:dre:454371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:488826:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:489710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:494482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:515633:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/232/2001/08/25/p/dre
+- type: cites
+  target: pt:dre:574568:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/70/2005/03/17/p/dre
+- type: cites
+  target: pt:dre:628017:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640149:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:641716:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:124392066:por
+  label: Revogada, com efeitos a partir do início do ano letivo 2020/2021, pelo(a) Portaria n.º 288/2019 - Diário da República
+    n.º 168/2019, Série I de 2019-09-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/288-2019-124392066
+  date: '2019-09-03'
+article_structure:
+  article_count: 38
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:56:23Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 8/2013
+
+de 10 de janeiro
+
+O Estatuto dos Militares das Forças Armadas, aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1999-393000), de 25 de junho, com as alterações e retificações introduzidas pela Declaração de Retificação n.º 10-B/99, de 31 de julho, [Lei n.º 12-A/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2000-240467), de 24 de junho, [Lei n.º 25/2000](https://diariodarepublica.pt/dr/detalhe/lei/25-2000-324143), de 23 de agosto, [Decreto-Lei n.º 66/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2001-386786), de 22 de fevereiro, [Decreto-Lei n.º 232/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2001-515633), de 25 de agosto, [Decreto-Lei n.º 197-A/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-a-2003-426744), de 30 de agosto, [Decreto-Lei n.º 70/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2005-574568), de 17 de março, [Decreto-Lei n.º 166/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2005-147857), de 23 de setembro, [Decreto-Lei n.º 310/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2007-640149), de 11 de setembro, [Decreto-Lei n.º 330/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-2007-641716), de 9 de outubro e [Lei n.º 34/2008](https://diariodarepublica.pt/dr/detalhe/lei/34-2008-454371), de 23 de julho, criou condições para um novo enquadramento da formação que habilita ao ingresso na categoria de sargentos do quadro permanente.
+
+Prosseguindo com as medidas de racionalização das estruturas, da gestão de pessoal e de recursos, bem como, da formação dos quadros militares, e concretizando os modelos organizacionais das estruturas superiores da Defesa Nacional e das Forças Armadas, nomeadamente, a Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela [Lei Orgânica n.º 1-A/2009](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291), de 7 de julho, foi efetivada a reorganização da estrutura orgânica da Força Aérea através da aprovação do [Decreto-Lei n.º 232/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-2009-489710), de 15 de setembro.
+
+Esta nova estrutura orgânica implementa um novo Comando que tem por missão assegurar as atividades de instrução e formação na Força Aérea, de acordo com os planos e diretivas aprovadas pelo Chefe do Estado-Maior da Força Aérea (CEMFA).
+
+A Lei de Bases do Sistema Educativo, aprovada pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, com as alterações e aditamentos introduzidos pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de setembro e pela [Lei n.º 49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de agosto, e pela [Lei n.º 85/2009](https://diariodarepublica.pt/dr/detalhe/lei/85-2009-488826), de 27 de agosto, estabelece o quadro geral do sistema educativo definindo, nomeadamente, a competência para realizar cursos de ensino pós-secundário.
+
+O [Decreto-Lei n.º 396/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017), de 31 de dezembro, estabelece o regime jurídico do Sistema Nacional de Qualificações (SNQ) e define as estruturas que asseguram o seu funcionamento.
+
+Nele são nomeados como objetivos, entre outros, a promoção da coerência, transparência e comparabilidade das qualificações a nível nacional e internacional, bem como o desenvolvimento de uma oferta formativa diversificada que promova, no contexto da aprendizagem ao longo da vida, o incremento de qualificações baseadas em competências.
+
+O Quadro Nacional de Qualificações (QNQ), regulado pela Portaria n.º 782/2009, de 23 de julho, abrange o ensino básico, secundário e superior, a formação profissional e os processos de reconhecimento, validação e certificação de competências obtidas por vias formais e informais desenvolvidos no âmbito do SNQ. Integra as qualificações obtidas no âmbito dos diferentes subsistemas de educação e formação, num quadro único.
+
+O Catálogo Nacional de Qualificações (CNQ), regulado pela Portaria n.º 781/2009, de 23 de julho, promove a regulação da oferta de formação de dupla certificação, quer ela se desenvolva em contexto de formação inicial, quer no âmbito da aprendizagem ao longo da vida. Cria referenciais de formação organizados em unidades de formação de curta duração, capitalizáveis, que permitem a certificação autónoma de competências e possibilitam uma maior flexibilidade na construção de percursos de formação. O CNQ tem como objetivo contribuir para o desenvolvimento de um quadro de qualificações legível e flexível que favoreça a comparabilidade das qualificações.
+
+Neste contexto, é importante adequar o regulamento escolar do curso de formação e do estágio técnico-militar de sargentos que habilitam ao ingresso na categoria de sargentos do quadro permanente à evolução do sistema educativo nacional, articulando os princípios e missões atribuídas à Força Aérea aos novos paradigmas do ensino e formação profissional.
+
+Ao abrigo do n.º 5 do artigo 260.º do Estatuto dos Militares das Força Armadas, aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1999-393000), de 25 de junho, e do n.º 3 do artigo 3.º da [Portaria n.º 145/2002](https://diariodarepublica.pt/dr/detalhe/portaria/145-2002-284678), de 15 de fevereiro, na redação que lhe foi dada pela [Portaria n.º 1044/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1044-2003-494482), de 23 de setembro, manda o Governo, pelo Ministro da Defesa Nacional, o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+É aprovado o Regulamento Escolar dos Cursos de Formação de Sargentos (CFS) e dos Estágios Técnico-Militares de Sargentos (ETM), que habilitam ao ingresso nos quadros especiais de sargentos do quadro permanente da Força Aérea, adiante designado por Regulamento, em anexo à presente portaria e da qual faz parte integrante.
+
+###### Artigo 2.º — Norma revogatória
+
+É revogada a [Portaria n.º 304/2004](https://diariodarepublica.pt/dr/detalhe/portaria/304-2004-209624), de 23 de março.
+
+###### Artigo 3.º — Entrada em vigor
+
+1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+2 - O Regulamento em anexo aplica-se a partir do ano letivo 2013-2014, inclusive.
+
+O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco, em 12 de dezembro de 2012.
+
+REGULAMENTO ESCOLAR DOS CURSOS DE FORMAÇÃO DE SARGENTOS E DOS ESTÁGIOS TÉCNICO-MILITARES DE SARGENTOS DA FORÇA AÉREA
+
+### CAPÍTULO I — Objeto e âmbito de aplicação
+
+###### Artigo 1.º — Objeto
+
+O presente Regulamento estabelece as regras de admissão, frequência e funcionamento dos Cursos de Formação de Sargentos (CFS) e dos Estágios Técnico-Militares (ETM), a que se refere o artigo 260.º do Estatuto dos Militares das Forças Armadas (EMFAR) e que habilitam ao ingresso nos quadros especiais de sargentos do quadro permanente (QP) da Força Aérea.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+As disposições do presente Regulamento aplicam-se aos CFS e ETM que habilitam ao ingresso nos quadros especiais de sargentos do quadro permanente (QP) da Força Aérea.
+
+### CAPÍTULO II — Cursos de formação e Estágios Técnico-Militares
+
+###### Artigo 3.º — Cursos de Formação de Sargentos e Estágios Técnico-Militar
+
+1. O ingresso na categoria de sargentos faz-se de entre os militares que obtenham aproveitamento no curso de formação de sargentos (CFS) ou no estágio técnico-militar (ETM) adequados à respetiva especialidade.
+
+2. Aos indivíduos habilitados com curso de qualificação profissional de nível 4 serão ministrados ETM, destinados a completar a sua formação, visando o ingresso nos respetivos quadros especiais.
+
+3. A organização, duração e funcionamento do CFS e ETM são aprovados por despacho do CEMFA.
+
+###### Artigo 4.º — Regime de admissão
+
+A admissão à frequência dos CFS e dos ETM é feita por concurso.
+
+###### Artigo 5.º — Abertura do concurso
+
+A abertura do concurso é determinada por despacho do Chefe do Estado-Maior da Força Aérea (CEMFA) e deve ser divulgada com a antecedência mínima de três meses em relação à data de início dos CFS e ETM.
+
+###### Artigo 6.º — Requisitos de admissão
+
+Os requisitos de admissão, o modo de formalização e instrução das candidaturas, as normas de seleção, seriação e preenchimento das vagas, bem como todo o processamento do concurso são definidos por despacho do CEMFA.
+
+###### Artigo 7.º — Candidatura e admissão
+
+1 - O processo de candidatura e admissão aos CFS e aos ETM é dirigido pela Comissão de Admissão do CFMTFA.
+
+2 - O Regulamento da Comissão de Admissão do CFMTFA é aprovado por despacho do CEMFA, sob proposta do comandante responsável pelas atividades de instrução e formação.
+
+### CAPÍTULO III — Fixação e preenchimento de vagas
+
+###### Artigo 8.º — Fixação das vagas
+
+O número de vagas para admissão aos CFS e aos ETM é fixado anualmente por despacho do membro do Governo responsável pela área da Defesa Nacional, sob proposta do CEMFA.
+
+###### Artigo 9.º — Preenchimento das vagas
+
+À frequência dos CFS e ETM são admitidos os candidatos aprovados, até ao preenchimento do número de vagas fixado para a respetiva especialidade, por ordem decrescente da classificação final obtida.
+
+CAPITULO IV
+
+Estatuto dos alunos
+
+###### Artigo 10.º — Regime geral
+
+1 - Os alunos têm os direitos e os deveres inerentes à condição militar, com as particularidades e adaptações decorrentes da sua condição de alunos, estando ainda sujeitos ao regime fixado no presente Regulamento, designadamente no âmbito disciplinar e escolar.
+
+2 - Sem prejuízo da aplicação do presente Regulamento, o aproveitamento escolar, a vida interna e os aspetos administrativos referentes aos alunos são regulados pelas normas previstas no Regime de Avaliação das Aprendizagens, no Regulamento do Aluno e no Regulamento Disciplinar Escolar.
+
+###### Artigo 11.º — Regime de frequência
+
+1 - Os alunos estão sujeitos, durante a frequência do curso e do estágio, ao regime de internato, a que corresponde a obrigatoriedade de comparecer às formaturas, refeições e a pernoitar no respetivo estabelecimento de ensino.
+
+2 - O comandante do CFMTFA pode, a requerimento do aluno, conceder outro regime de frequência do curso ou do estágio.
+
+###### Artigo 12.º — Incompatibilidades
+
+O regime de frequência do curso e do estágio é incompatível com o desempenho de outras funções que não se enquadrem no regime escolar.
+
+### CAPÍTULO V — Ensino e classificação escolar
+
+###### Artigo 13.º — Avaliação e classificação
+
+1 - A avaliação constitui um processo regulador das aprendizagens, orientador do percurso escolar e certificador das diversas aquisições de saberes realizadas pelos alunos ao longo do curso, nos termos fixados em diploma próprio.
+
+2 - A classificação e o aproveitamento escolar são regulados no diploma referido no número anterior.
+
+###### Artigo 14.º — Reclamações e recursos
+
+1 - Os alunos podem reclamar das classificações periódicas e finais atribuídas nos cinco dias úteis imediatos à afixação das pautas ou à consulta da respetiva prova, consoante os casos.
+
+2 - Decorrido o prazo de cinco dias úteis sem que haja sido proferida decisão, considera-se a reclamação tacitamente indeferida.
+
+3 - Quando a reclamação não for, no todo ou em parte, atendida, assiste ao reclamante o direito de interpor recurso hierárquico, no prazo de cinco dias úteis, para o comandante do CFMTFA, que proferirá decisão, ouvido o Conselho Escolar, no prazo de 15 dias úteis.
+
+### CAPÍTULO VI — Orientação e Organização do Ensino
+
+###### Artigo 15.º — Orientação do Ensino
+
+1 - O ensino nos CFS é ministrado segundo as seguintes componentes:
+
+a) Componente de formação geral e científica;
+
+b) Componente de formação tecnológica;
+
+c) Componente de formação militar e aeronáutica;
+
+d) Componente de formação prática em contexto de trabalho.
+
+2 - O ensino nos ETM é ministrado segundo as seguintes componentes:
+
+a) Componente de formação tecnológica;
+
+b) Componente de formação militar e aeronáutica;
+
+c) Componente de formação prática em contexto de trabalho.
+
+###### Artigo 16.º — Atividades de ensino e formação
+
+As atividades de ensino e formação desenvolvem-se, designadamente, através de aulas teóricas, teórico-práticas, práticas e de laboratório, seminários, trabalhos de aplicação individual ou de grupo, exercícios de campo, formação prática em contexto de trabalho, visitas e missões de estudo e atividades complementares de formação, de acordo com a pedagogia mais adequada ao processo de ensino, aprendizagem e aquisição de competências, nas matérias das áreas curriculares que integram os diferentes planos de estudos.
+
+###### Artigo 17.º — Diplomas
+
+Aos alunos que concluírem com aproveitamento o curso ou estágio será conferido o respetivo diploma de fim do curso.
+
+###### Artigo 18.º — Registos
+
+1 - Cada curso tem um dossiê técnico-pedagógico onde são lavrados os termos de:
+
+a) Abertura e encerramento do curso;
+
+b) Matrícula, frequência e resultados obtidos na avaliação escolar dos alunos.
+
+2 - O dossiê técnico-pedagógico e os respetivos registos individuais de avaliação escolar, as pautas de classificação das disciplinas e os boletins de classificação da formação em contexto de trabalho constituem documentos de conservação permanente.
+
+### CAPÍTULO VII — Regime escolar
+
+###### Artigo 19.º — Obrigatoriedade de presença
+
+Durante a frequência do curso e do estágio, é obrigatória a presença dos alunos em todas as atividades escolares que se encontrem a frequentar.
+
+###### Artigo 20.º — Licenças e férias escolares
+
+1 - Compete ao comandante responsável pelas atividades de instrução e formação, definir o regime de licenças dos alunos, tendo em atenção a regulamentação geral e o regime escolar dos cursos.
+
+2 - Os períodos de férias escolares do Natal, Carnaval e Páscoa são fixados anualmente no plano de atividades escolares.
+
+###### Artigo 21.º — Efeitos das faltas
+
+Considera-se não ter aproveitamento escolar num ano o aluno que perfaça num ano 15 dias seguidos ou 30 interpolados de faltas de comparência às aulas ou estágio.
+
+###### Artigo 22.º — Repetição do curso
+
+1 - O comandante responsável pelas atividades de instrução e formação pode, ouvido o diretor da Direção de Instrução (DINST), autorizar, por uma só vez em todo o curso, a repetição do ano ao aluno que não tenha tido aproveitamento escolar nos termos do artigo anterior.
+
+2 - A autorização a que se refere o número anterior depende de requerimento do interessado a dirigir ao comandante responsável pelas atividades de instrução e formação, no prazo de cinco dias úteis a contar da data em que tomou conhecimento de que não teve aproveitamento escolar.
+
+3 - Quando o não aproveitamento escolar seja devido a faltas motivadas por acidente em serviço ou doença adquirida por motivo do mesmo, o aluno tem direito à repetição do ano, por uma só vez, devendo declarar, por escrito, que pretende fazer uso desse direito no prazo estabelecido no número anterior.
+
+###### Artigo 23.º — Deveres escolares
+
+No âmbito da atividade escolar, são deveres dos alunos:
+
+a) Dedicar ao estudo e atividades escolares toda a sua inteligência, capacidade, vontade e zelo;
+
+b) Ser assíduo e pontual nas atividades escolares e nos atos de serviço;
+
+c) Cumprir exata e prontamente as determinações relativas às atividades escolares e aos atos de serviço para que forem nomeados;
+
+d) Zelar pela conservação, asseio e apresentação das instalações, alojamentos, mobiliário e material escolar;
+
+e) Receber, por empréstimo, as publicações escolares necessárias ao estudo das matérias constantes dos planos curriculares.
+
+###### Artigo 24.º — Deveres especiais
+
+Os alunos devem nortear o seu comportamento pelo Regulamento Disciplinar Escolar, Código de Honra do Aluno do CFMTFA e cumprir os demais deveres e princípios de conduta consagrados no Regulamento do Aluno.
+
+###### Artigo 25.º — Regime disciplinar escolar
+
+1 - Sem prejuízo da aplicação do Regulamento de Disciplina Militar, os alunos estão sujeitos às sanções disciplinares escolares previstas no Regulamento Disciplinar Escolar aprovado pelo CEMFA.
+
+2 - As sanções escolares são averbadas no registo biográfico individual, sendo automaticamente relevadas com o ingresso do aluno no respetivo quadro especial.
+
+###### Artigo 26.º — Louvores e recompensas
+
+1 - Sob proposta do diretor da DINST, o comandante responsável pelas atividades de instrução e formação pode atribuir louvores e recompensas aos alunos que se evidenciem pelo seu mérito escolar ou por atos ou comportamentos exemplares.
+
+2- Os louvores e recompensas podem ser individuais ou coletivos, sendo o louvor publicado em ordem de serviço e averbado no registo biográfico do aluno.
+
+CAPITULO VIII
+
+Desistência e eliminação do curso
+
+###### Artigo 27.º — Desistência
+
+1 - O aluno pode, em qualquer altura, desistir da frequência do CFS ou do ETM mediante declaração escrita apresentada ao comandante do CFMTFA.
+
+2 - Os alunos que declarem desistir ficam sujeitos ao pagamento de uma indemnização ao Estado, nos termos e montantes fixados por despacho do CEMFA, tendo em conta os custos envolvidos na formação ministrada e a expectativa de afetação funcional do militar.
+
+###### Artigo 28.º — Eliminação
+
+Os alunos são eliminados da frequência dos cursos nos seguintes casos:
+
+a) Por falta de aproveitamento escolar;
+
+b) Por motivos disciplinares;
+
+c) Por incapacidade física ou psíquica devidamente comprovada.
+
+###### Artigo 29.º — Eliminação por falta de aproveitamento escolar
+
+1 - São eliminados do curso os alunos que:
+
+a) Não obtenham aproveitamento escolar e não requeiram a repetição do ano escolar;
+
+b) Uma vez requerida a repetição do ano escolar, a mesma não lhes tenha sido deferida;
+
+c) Não obtenham aproveitamento na formação em contexto de trabalho e não requeiram ou não sejam autorizados a repeti-la, por uma só vez.
+
+2 - Quando a falta de aproveitamento escolar resulte de conduta dolosa ou negligência grosseira do aluno, fica o mesmo sujeito ao pagamento de uma indemnização ao Estado, fixada nos termos definidos em despacho do CEMFA, tendo em conta os custos envolvidos na formação ministrada e a expectativa da afetação funcional dos militares.
+
+3 - O apuramento dos factos que comprovem que a falta de aproveitamento escolar resultou da conduta dolosa ou negligência grosseira do aluno, deve ser realizado em processo próprio, do qual deve constar a matéria necessária à apreciação e decisão final.
+
+###### Artigo 30.º — Eliminação por motivos disciplinares
+
+1 - São eliminados do curso, por motivos disciplinares, os alunos que:
+
+a) Revelem falta de idoneidade moral, de caráter ou de outras qualidades essenciais inerentes ao desempenho das funções militares, comprovadas em processo próprio;
+
+b) Revelem notória e persistente falta de aplicação escolar ou de vocação para a carreira militar, comprovada em processo próprio;
+
+c) Tenham sofrido a pena de expulsão;
+
+d) Tenham sofrido punições que, por si ou por suas equivalências, excedam 10 dias de prisão disciplinar escolar.
+
+2 - É ainda aplicável à eliminação por motivos disciplinares a sujeição dos alunos a pagamento de uma indemnização ao Estado, nos termos previstos no n.º 2 do artigo anterior.
+
+###### Artigo 31.º — Eliminação por incapacidade física ou psíquica devidamente comprovada
+
+É eliminado do CFS ou ETM o aluno que seja julgado física ou psiquicamente incapaz para o serviço por parecer da Junta de Saúde da Força Aérea, devidamente homologada.
+
+###### Artigo 32.º — Efeitos da desistência ou da eliminação
+
+O aluno que desista ou seja eliminado fica definitivamente inibido de concorrer a qualquer curso ou estágio técnico-militar da Força Aérea.
+
+CAPITULO IX
+
+Disposições diversas
+
+###### Artigo 33.º — Graduações
+
+Sem prejuízo de um regime eventualmente mais favorável de que já beneficiem, os alunos são graduados:
+
+a) Relativamente aos restantes CFS, no posto de furriel na data de início do último ano letivo;
+
+b) Relativamente aos ETM, no posto de segundo-sargento na data do início do estágio.
+
+###### Artigo 34.º — Regulamento da Escola do Serviço de Saúde Militar
+
+Aos militares que frequentem o CFS da especialidade SS aplica-se o Regulamento da Escola do Serviço de Saúde Militar.
+
+###### Artigo 35.º — Chefe de curso e de turma
+
+1 - O aluno mais antigo é nomeado chefe de curso.
+
+2 - O aluno mais antigo de cada turma é nomeado chefe de turma.
+
+3 - As atribuições dos chefes de curso e de turma são definidas por despacho do comandante do CFMTFA.

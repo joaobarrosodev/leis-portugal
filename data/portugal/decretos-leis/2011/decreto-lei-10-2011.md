@@ -1,0 +1,637 @@
+---
+schema_version: '1.0'
+id: pt:dre:280904:por
+title: Decreto-Lei n.º 10/2011
+short_title: null
+summary: Regula o regime jurídico da arbitragem em matéria tributária, no uso da autorização legislativa concedida pelo artigo
+  124.º da Lei n.º 3-B/2010, de 28 de Abril
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 10/2011
+official_date: null
+publication_date: '2011-01-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 14/2011, Série I de 2011-01-20
+  number: '14'
+  series: I
+  supplement: null
+  pages: 370 - 376
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/01/01400/0037000376.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-02-27'
+version_history:
+  file: decreto-lei-10-2011.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2011-01-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 13.º
+    - Revoga Artigo 14.º
+  - date: '2012-05-15'
+    amending: pt:dre:552023:por
+    amending_title: Lei n.º 20/2012
+    changes:
+    - Altera Artigo 7.º
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 17.º-A
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Altera Artigo 25.º
+  - date: '2019-03-14'
+    amending: pt:dre:120837265:por
+    amending_title: Lei n.º 24/2019
+    changes:
+    - Altera Artigo 7.º
+  - date: '2019-10-01'
+    amending: pt:dre:124793094:por
+    amending_title: Lei n.º 119/2019
+    changes:
+    - Altera Artigo 25.º
+  - date: '2021-02-27'
+    amending: pt:dre:158368130:por
+    amending_title: Lei n.º 7/2021
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/10/2011/p/cons/20210226/pt/html
+  oj: null
+  dre: '280904'
+  dre_path: /dr/detalhe/decreto-lei/10-2011-280904
+  internal: pt:dre:280904:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2011-280904
+  metadata_url: https://data.dre.pt/eli/dec-lei/10/2011/p/cons/20210226/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-66008176
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-66008176
+  retrieved_at: '2026-10-22T11:57:35Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 76eb77207b08cc205bf80b627a8160516c56dca25fe8d31671a4c4af19d56c44
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:57:35Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-10-2011.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Fiscal
+- Arbitragem
+- Árbitro
+- Centro de Arbitragem
+- Definição de Competências
+- Contribuições e Impostos
+- Regime Jurídico
+- TAXA de Prestação de Serviços
+- Tribunal Arbitral
+relationships:
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 13.º; Revoga Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:552023:por
+  label: Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023
+  date: '2012-05-14'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Adita Artigo 3.º-A; Adita Artigo 17.º-A; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 17.º; Altera Artigo
+    25.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:120837265:por
+  label: Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/24-2019-120837265
+  date: '2019-03-13'
+- type: amended_by
+  target: pt:dre:124750731:por
+  label: Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731
+  date: '2019-09-17'
+- type: amended_by
+  target: pt:dre:124793094:por
+  label: Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094
+  date: '2019-09-18'
+- type: amended_by
+  target: pt:dre:158368130:por
+  label: Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130
+  date: '2021-02-26'
+- type: cites
+  target: pt:dre:609990:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
+article_structure:
+  article_count: 32
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:57:35Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 10/2011
+
+Decreto-Lei n.º 10/2011
+
+de 20 de Janeiro
+
+A introdução no ordenamento jurídico português da arbitragem em matéria tributária, como forma alternativa de resolução jurisdicional de conflitos no domínio fiscal, visa três objectivos principais: por um lado, reforçar a tutela eficaz dos direitos e interesses legalmente protegidos dos sujeitos passivos, por outro lado, imprimir uma maior celeridade na resolução de litígios que opõem a administração tributária ao sujeito passivo e, finalmente, reduzir a pendência de processos nos tribunais administrativos e fiscais.
+
+A arbitragem constitui uma forma de resolução de um litígio através de um terceiro neutro e imparcial - o árbitro -, escolhido pelas partes ou designado pelo Centro de Arbitragem Administrativa e cuja decisão tem o mesmo valor jurídico que as sentenças judiciais. Neste sentido, e em cumprimento dos seus três objectivos principais, a arbitragem tributária é adoptada pelo presente decreto-lei com contornos que procuram assegurar o seu bom funcionamento.
+
+Assim, em primeiro lugar, tendo em vista conferir à arbitragem tributária a necessária celeridade processual, é adoptado um processo sem formalidades especiais, de acordo com o princípio da autonomia dos árbitros na condução do processo, e é estabelecido um limite temporal de seis meses para emitir a decisão arbitral, com possibilidade de prorrogação que nunca excederá os seis meses.
+
+Em segundo lugar, são competentes para proferir a decisão arbitral os tribunais arbitrais que funcionam sob a organização do Centro de Arbitragem Administrativa. Trata-se do único centro de arbitragem a funcionar sob a égide do Conselho Superior dos Tribunais Administrativos e Fiscais que, de resto, é competente para nomear o presidente do Conselho Deontológico do Centro de Arbitragem Administrativa. Nos casos em que o contribuinte opte por designar um árbitro, o tribunal arbitral funcionará sempre com um colectivo de três árbitros, cabendo a cada parte a designação de um deles e aos árbitros assim designados a designação do terceiro, que exerce as funções de árbitro-presidente. Caso o contribuinte não pretenda designar um árbitro, o tribunal arbitral funcionará com um árbitro singular nos casos em que o valor do pedido não ultrapasse duas vezes o valor da alçada do Tribunal Central Administrativo, ou seja, (euro) 60 000, e com um colectivo de três árbitros nos restantes casos, cabendo a sua designação, em ambas as situações, ao Conselho Deontológico do Centro de Arbitragem Administrativa.
+
+Em terceiro lugar, fixam-se com rigor quais as matérias sobre as quais se pode pronunciar o tribunal arbitral. Assim, encontram-se abrangidas pela competência dos tribunais arbitrais a apreciação da declaração de ilegalidade de liquidação de tributos, de autoliquidação, de retenção na fonte e os de pagamento por conta, a declaração de ilegalidade de actos de determinação da matéria tributável, de actos de determinação da matéria colectável e de actos de fixação de valores patrimoniais e, bem assim, a apreciação de qualquer questão, de facto ou de direito, relativa ao projecto de liquidação, sempre que a lei não assegure a faculdade de deduzir a pretensão anteriormente referida.
+
+Em quarto lugar, acolhe-se como regra geral a irrecorribilidade da decisão proferida pelos tribunais arbitrais. Esta regra não prejudica a possibilidade de recurso para o Tribunal Constitucional, nos casos em que a sentença arbitral recuse a aplicação de qualquer norma com fundamento na sua inconstitucionalidade ou aplique uma norma cuja constitucionalidade tenha sido suscitada, bem como o recurso para o Supremo Tribunal Administrativo quando a decisão arbitral esteja em oposição, quanto à mesma questão fundamental de direito, com acórdão proferido pelo Tribunal Central Administrativo ou pelo Supremo Tribunal Administrativo.
+
+A decisão arbitral poderá ainda ser anulada pelo Tribunal Central Administrativo com fundamento na não especificação dos fundamentos de facto e de direito que justificam a decisão, na oposição dos fundamentos com a decisão, na pronúncia indevida ou na omissão de pronúncia ou na violação dos princípios do contraditório e da igualdade das partes.
+
+Nos casos em que o tribunal arbitral seja a última instância de decisão de litígios tributários, a decisão é susceptível de reenvio prejudicial em cumprimento do § 3 do artigo 267.º do Tratado sobre o Funcionamento da União Europeia.
+
+Em quinto lugar, fixam-se as regras sobre quem pode exercer as funções de árbitro na arbitragem tributária. Neste âmbito, prevê-se a possibilidade de nomeação de árbitros licenciados em Economia ou Gestão nas questões de maior complexidade e que exijam um conhecimento específico de área não jurídica, devendo nesses casos o árbitro-presidente ser sempre um jurista com pelo menos 10 anos de comprovada experiência profissional na área do direito tributário.
+
+Em sexto lugar, prevê-se a possibilidade de os contribuintes submeterem aos tribunais arbitrais a apreciação dos actos tributários que se encontrem pendentes de decisão há mais de dois anos, com um incentivo, que corresponde à dispensa de pagamento de custas judiciais.
+
+Finalmente, note-se que a instituição da arbitragem não significa uma desjuridificação do processo tributário, na medida em que é vedado o recurso à equidade, devendo os árbitros julgar de acordo com o direito constituído.
+
+Foram ouvidos o Conselho Superior dos Tribunais Administrativos e Fiscais, o Conselho Superior de Magistratura e a Ordem dos Advogados.
+
+Foi promovida a audição da Procuradoria-Geral da República.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 124.º da Lei n.º 3-B/2010, de 28 de Abril, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Título I — Arbitragem tributária
+
+### Capítulo I — Disposições gerais
+
+#### Secção I — Pressupostos
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente decreto-lei disciplina a arbitragem como meio alternativo de resolução jurisdicional de conflitos em matéria tributária.
+
+###### Artigo 2.º — Competência dos tribunais arbitrais e direito aplicável
+
+1 - A competência dos tribunais arbitrais compreende a apreciação das seguintes pretensões:
+
+a) A declaração de ilegalidade de actos de liquidação de tributos, de autoliquidação, de retenção na fonte e de pagamento por conta;
+
+b) A declaração de ilegalidade de actos de fixação da matéria tributável quando não dê origem à liquidação de qualquer tributo, de actos de determinação da matéria colectável e de actos de fixação de valores patrimoniais;
+
+c) (Revogada).
+
+2 - Os tribunais arbitrais decidem de acordo com o direito constituído, sendo vedado o recurso à equidade.
+
+> Alterado pelo/a Artigo 160.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 3.º — Cumulação de pedidos, coligação de autores e impugnação judicial
+
+1 - A cumulação de pedidos ainda que relativos a diferentes actos e a coligação de autores são admissíveis quando a procedência dos pedidos dependa essencialmente da apreciação das mesmas circunstâncias de facto e da interpretação e aplicação dos mesmos princípios ou regras de direito.
+
+2 - É possível deduzir pedido de impugnação judicial e pedido de pronúncia arbitral relativamente a um mesmo acto tributário, desde que os respectivos factos e fundamentos sejam diversos.
+
+###### Artigo 3.º-A — Prazos
+
+1 - No procedimento arbitral, os prazos contam-se nos termos do Código do Procedimento Administrativo, com as necessárias adaptações.
+
+2 - Os prazos para a prática de atos no processo arbitral contam-se nos termos do Código de Processo Civil.
+
+> Aditado pelo/a Artigo 229.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+#### Secção II — Tribunais arbitrais
+
+###### Artigo 4.º — Vinculação e funcionamento
+
+1 - A vinculação da administração tributária à jurisdição dos tribunais constituídos nos termos da presente lei depende de portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça, que estabelece, designadamente, o tipo e o valor máximo dos litígios abrangidos.
+
+2 - Os tribunais arbitrais funcionam no Centro de Arbitragem Administrativa.
+
+> Alterado pelo/a Artigo 160.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 5.º — Composição dos tribunais arbitrais
+
+1 - Os tribunais arbitrais funcionam com árbitro singular ou com intervenção do colectivo de três árbitros.
+
+2 - Os tribunais arbitrais funcionam com árbitro singular quando:
+
+a) O valor do pedido de pronúncia não ultrapasse duas vezes o valor da alçada do Tribunal Central Administrativo; e
+
+b) O sujeito passivo opte por não designar árbitro.
+
+3 - Os tribunais arbitrais funcionam com intervenção do colectivo de três árbitros quando:
+
+a) O valor do pedido de pronúncia ultrapasse duas vezes o valor da alçada do Tribunal Central Administrativo; ou
+
+b) O sujeito passivo opte por designar árbitro, independentemente do valor do pedido de pronúncia.
+
+###### Artigo 6.º — Designação dos árbitros
+
+1 - Quando o tribunal arbitral funcione com árbitro singular, o árbitro é designado pelo Conselho Deontológico do Centro de Arbitragem Administrativa, de entre a lista dos árbitros que compõem o Centro de Arbitragem Administrativa.
+
+2 - Quando o tribunal arbitral funcione com intervenção do colectivo, os árbitros são designados:
+
+a) Pelo Conselho Deontológico do Centro de Arbitragem Administrativa, de entre a lista dos árbitros que compõem o Centro de Arbitragem Administrativa; ou
+
+b) Pelas partes, cabendo a designação do terceiro árbitro, que exerce as funções de árbitro-presidente, aos árbitros designados ou, na falta de acordo, ao Conselho Deontológico do Centro de Arbitragem Administrativa, mediante requerimento de um ou de ambos os árbitros, aplicando-se em relação aos árbitros designados a condição prevista na parte final do n.º 4.
+
+3 - A designação dos árbitros pelo Conselho Deontológico é realizada, de entre os árbitros inscritos na lista por categoria de tributo, por sorteio público.
+
+4 - Sem prejuízo do disposto no número anterior, só são elegíveis para o sorteio os árbitros que não sejam mandatários ou não integrem escritório de advogados em que um dos seus membros seja mandatário em qualquer processo arbitral tributário pendente.
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 7.º — Requisitos de designação dos árbitros
+
+1 - Os árbitros são escolhidos de entre pessoas de comprovada capacidade técnica, idoneidade moral e sentido de interesse público.
+
+2 - Os árbitros devem ser juristas com pelo menos 10 anos de comprovada experiência profissional na área do direito tributário, designadamente através do exercício de funções públicas, da magistratura, da advocacia, da consultoria e jurisconsultoria, da docência no ensino superior ou da investigação, de serviço na administração tributária, ou de trabalhos científicos relevantes nesse domínio.
+
+3 - Sem prejuízo do disposto no número anterior, nas questões que exijam um conhecimento especializado de outras áreas, pode ser designado como árbitro não presidente um licenciado em Economia ou Gestão, observando-se, com as necessárias adaptações, o disposto nos n.os 1 e 2.
+
+4 - Quando o tribunal arbitral funcione com intervenção do coletivo, o árbitro-presidente é designado de entre juristas que tenham exercido funções públicas de magistratura ou possuam doutoramento na área das ciências jurídico-económicas, e desde que, nos últimos dois anos, não tenha prestado serviços profissionais, de qualquer natureza, a qualquer parte no âmbito de um processo arbitral tributário.
+
+5 - As listas de árbitros, presidentes e adjuntos, que compõem o Centro de Arbitragem Administrativa, são elaboradas nos termos do presente decreto-lei, dos Estatutos e do Regulamento do Centro de Arbitragem Administrativa.
+
+6 - Os árbitros que integrem a lista de árbitros presidente não podem ser designados pelas partes.
+
+7 - Os magistrados jubilados podem exercer funções de árbitro em matéria tributária, devendo, para o efeito, fazer uma declaração de renúncia à condição de jubilados, aplicando-se em tal caso o regime geral da aposentação pública.
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 24/2019 - Diário da República n.º 51/2019, Série I de 2019-03-13](https://diariodarepublica.pt/dr/detalhe/lei/24-2019-120837265), em vigor a partir de 2019-03-14
+
+> Alterado pelo/a Artigo 14.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15
+
+###### Artigo 8.º — Impedimentos dos árbitros
+
+1 - Constituem casos de impedimento do exercício da função de árbitro os enunciados no n.º 1 do artigo 44.º do Código do Procedimento Administrativo, observadas as necessárias adaptações, bem como os casos em que, nos dois anos anteriores ao da sua indicação como árbitro:
+
+a) A pessoa designada tenha sido dirigente, funcionário ou agente da administração tributária, membro de órgãos sociais, trabalhador, mandatário, auditor ou consultor do sujeito passivo que seja parte no processo, de entidade que se encontre com aquele em relação de domínio, tal como esta é definida no Código das Sociedades Comerciais, ou de pessoa ou entidade que tenha interesse próprio na procedência da pretensão;
+
+b) A pessoa designada tenha sido trabalhador, colaborador, membro, associado ou sócio de entidade que tenha prestado serviços de auditoria, consultoria e jurisconsultoria ou advocacia ao sujeito passivo.
+
+2 - A pessoa designada para exercer funções de árbitro deve rejeitar a designação quando ocorra circunstância pela qual possa razoavelmente suspeitar-se da sua imparcialidade e independência.
+
+3 - Cabe ao Conselho Deontológico do Centro de Arbitragem Administrativa exonerar o árbitro ou árbitros em caso de incumprimento dos requisitos previstos nos números anteriores.
+
+###### Artigo 9.º — Deveres dos árbitros
+
+1 - Os árbitros estão sujeitos aos princípios da imparcialidade e da independência, bem como ao dever de sigilo fiscal nos mesmos termos em que este é imposto aos dirigentes, funcionários e agentes da administração tributária.
+
+2 - A impossibilidade superveniente do cumprimento da obrigação por causa imputável ao árbitro importa a substituição deste de acordo com as regras aplicáveis à indicação do árbitro substituído ou, ouvidos os restantes árbitros e não havendo oposição das partes, a alteração da composição do tribunal.
+
+3 - No caso de se verificar a substituição de árbitro, o tribunal arbitral decide se algum acto processual deve ser repetido em face da nova composição do tribunal, tendo em conta o estado do processo.
+
+### Capítulo II — Procedimento arbitral
+
+#### Secção I — Constituição de tribunal arbitral
+
+###### Artigo 10.º — Pedido de constituição de tribunal arbitral
+
+1 - O pedido de constituição de tribunal arbitral é apresentado:
+
+a) No prazo de 90 dias, contado a partir dos factos previstos nos n.os 1 e 2 do artigo 102.º do Código de Procedimento e de Processo Tributário, quanto aos actos susceptíveis de impugnação autónoma e, bem assim, da notificação da decisão ou do termo do prazo legal de decisão do recurso hierárquico;
+
+b) No prazo de 30 dias, contado a partir da notificação dos actos previstos nas alíneas b) e c) do artigo 2.º, nos restantes casos.
+
+2 - O pedido de constituição de tribunal arbitral é feito mediante requerimento enviado por via electrónica ao presidente do Centro de Arbitragem Administrativa do qual deve constar:
+
+a) A identificação do sujeito passivo, incluindo o número de identificação fiscal, e do serviço periférico local do seu domicílio ou sede ou, no caso de coligação de sujeitos passivos, do serviço periférico local do domicílio ou sede do sujeito identificado em primeiro lugar no pedido;
+
+b) A identificação do acto ou actos tributários objecto do pedido de pronúncia arbitral;
+
+c) A identificação do pedido de pronúncia arbitral, constituindo fundamentos deste pedido os previstos no artigo 99.º do Código de Procedimento e de Processo Tributário e, bem assim, a exposição das questões de facto e de direito objecto do referido pedido de pronúncia arbitral;
+
+d) Os elementos de prova dos factos indicados e a indicação dos meios de prova a produzir;
+
+e) A indicação do valor da utilidade económica do pedido;
+
+f) O comprovativo do pagamento da taxa de arbitragem inicial, nos casos em que o sujeito passivo não tenha optado por designar árbitro ou comprovativo do pagamento da taxa de arbitragem, caso o sujeito passivo manifeste a intenção de designar o árbitro;
+
+g) A intenção de designar árbitro nos termos da alínea b) do n.º 2 do artigo 6.º
+
+3 - O presidente do Centro de Arbitragem Administrativa deve, no prazo de dois dias a contar da recepção do pedido de constituição de tribunal arbitral, dar conhecimento do pedido, por via electrónica, à administração tributária.
+
+4 - Todas as notificações são efetuadas por via eletrónica através do sistema de gestão processual do Centro de Arbitragem Administrativa, devendo este certificar a data da elaboração da notificação, que se presume realizada no 3.º dia posterior ao da elaboração, ou no 1.º dia útil seguinte quando este não o seja, nos termos da lei processual civil, com as devidas adaptações.
+
+> Alterado pelo/a Artigo 12.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2021-02-27
+
+###### Artigo 11.º — Procedimento de designação dos árbitros
+
+1 - Nos casos previstos no n.º 1 e na alínea a) do n.º 2 do artigo 6.º, o Conselho Deontológico do Centro de Arbitragem Administrativa:
+
+a) Designa o árbitro ou árbitros;
+
+b) Notifica as partes dessa designação, observado o disposto no n.º 1 do artigo 13.º;
+
+c) Comunica às partes a constituição do tribunal arbitral, decorridos 10 dias a contar da notificação da designação dos árbitros, se a tal designação as partes não se opuserem, designadamente nos termos do artigo 8.º e do Código Deontológico do Centro de Arbitragem Administrativa.
+
+2 - Nos casos previstos na alínea b) do n.º 2 do artigo 6.º, o sujeito passivo indica o árbitro por si designado no requerimento do pedido de constituição de tribunal arbitral.
+
+3 - O dirigente máximo do serviço da administração tributária indica o árbitro por si designado no prazo previsto no n.º 1 do artigo 13.º
+
+4 - Em caso de incumprimento do prazo referido no número anterior, o Conselho Deontológico do Centro de Arbitragem Administrativa substitui-se à administração tributária na designação de árbitro, dispondo do prazo de cinco dias para a notificar, por via electrónica, do árbitro nomeado.
+
+5 - O presidente do Centro de Arbitragem Administrativa notifica o sujeito passivo do árbitro designado, no prazo de cinco dias a contar da receção da notificação referida no n.º 3, ou da designação a que se refere o número anterior.
+
+6 - Após a designação dos árbitros o presidente do Centro de Arbitragem Administrativa notifica-os, por via eletrónica, para, no prazo de 10 dias, designarem o terceiro árbitro.
+
+7 - Designado o terceiro árbitro, o presidente do Centro de Arbitragem Administrativa informa as partes dessa designação e notifica-as da constituição do tribunal arbitral, 10 dias após a comunicação da designação, se a tal constituição as partes não se opuserem, desde que decorrido o prazo previsto no n.º 1 do artigo 13.º
+
+8 - O tribunal arbitral considera-se constituído no termo do prazo referido na notificação prevista na alínea c) do n.º 1 ou no número anterior, consoante o caso.
+
+> Alterado pelo/a Artigo 228.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 12.º — Taxa de arbitragem
+
+1 - Pela constituição de tribunal arbitral é devida taxa de arbitragem, cujo valor, fórmula de cálculo, base de incidência objectiva e montantes mínimo e máximo são definidos nos termos de Regulamento de Custas a aprovar, para o efeito, pelo Centro de Arbitragem Administrativa.
+
+2 - Nos casos em que o sujeito passivo não designa árbitro, previstos no n.º 1 e na alínea a) do n.º 2 do artigo 6.º, o sujeito passivo paga, na data do envio do pedido de constituição do tribunal arbitral, a taxa de arbitragem inicial, devendo a fixação do montante e a eventual repartição pelas partes das custas directamente resultantes do processo arbitral ser efectuada na decisão arbitral que vier a ser proferida pelo tribunal arbitral.
+
+3 - Nos casos em que o sujeito passivo manifesta a intenção de designar árbitro, nos termos da alínea b) do n.º 2 do artigo 6.º, o sujeito passivo paga, na data do envio do pedido de constituição do tribunal arbitral, a taxa de arbitragem pela totalidade.
+
+4 - A falta de pagamento atempada da taxa de arbitragem inicial ou da taxa de arbitragem é causa impeditiva da constituição do tribunal arbitral.
+
+#### Secção II — Efeitos da constituição de tribunal arbitral
+
+###### Artigo 13.º — Efeitos do pedido de constituição de tribunal arbitral
+
+1 - Nos pedidos de pronúncia arbitral que tenham por objeto a apreciação da legalidade dos atos tributários previstos no artigo 2.º, o dirigente máximo do serviço da administração tributária pode, no prazo de 30 dias a contar do conhecimento do pedido de constituição do tribunal arbitral, proceder à revogação, ratificação, reforma ou conversão do ato tributário cuja ilegalidade foi suscitada, praticando, quando necessário, ato tributário substitutivo, devendo notificar o presidente do Centro de Arbitragem Administrativa (CAAD) da sua decisão, iniciando-se então a contagem do prazo referido na alínea c) do n.º 1 do artigo 11.º
+
+2 - Quando o acto tributário objecto do pedido de pronúncia arbitral seja, nos termos do número anterior, total ou parcialmente, alterado ou substituído por outro, o dirigente máximo do serviço da administração tributária procede à notificação do sujeito passivo para, no prazo de 10 dias, se pronunciar, prosseguindo o procedimento relativamente a esse último acto se o sujeito passivo nada disser ou declarar que mantém o seu interesse.
+
+3 - Findo o prazo previsto no n.º 1, a administração tributária fica impossibilitada de praticar novo acto tributário relativamente ao mesmo sujeito passivo ou obrigado tributário, imposto e período de tributação, a não ser com fundamento em factos novos.
+
+4 - A apresentação dos pedidos de constituição de tribunal arbitral preclude o direito de, com os mesmos fundamentos, reclamar, impugnar, requerer a revisão, incluindo a da matéria colectável, ou a promoção da revisão oficiosa, ou suscitar pronúncia arbitral sobre os actos objecto desses pedidos ou sobre os consequentes actos de liquidação, excepto quando o procedimento arbitral termine antes da data da constituição do tribunal arbitral ou o processo arbitral termine sem uma pronúncia sobre o mérito da causa.
+
+5 - Salvo quando a lei dispuser de outro modo, são atribuídos à apresentação do pedido de constituição de tribunal arbitral os efeitos da apresentação de impugnação judicial, nomeadamente no que se refere à suspensão do processo de execução fiscal e à suspensão e interrupção dos prazos de caducidade e de prescrição da prestação tributária.
+
+> Alterado pelo/a Artigo 228.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 160.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 14.º — Efeito suspensivo do pedido de constituição do tribunal arbitral
+
+Os pedidos de constituição de tribunal arbitral apresentados com a vista à obtenção das pronúncias previstas nas alíneas b) e c) do artigo 2.º têm efeito suspensivo:
+
+a) Da liquidação das prestações tributárias correspondentes às questões suscitadas quanto à parte controvertida;
+
+b) Dos prazos de caducidade do direito à liquidação e de prescrição da prestação tributária até à data da comunicação da decisão arbitral, excepto no caso de recurso interposto pelo sujeito passivo.
+
+> Revogado pelo/a Artigo 161.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+### Capítulo III — Processo arbitral
+
+#### Secção I — Disposições gerais
+
+###### Artigo 15.º — Início do processo arbitral
+
+O processo arbitral tem início na data da constituição do tribunal arbitral, nos termos do n.º 8 do artigo 11.º
+
+###### Artigo 16.º — Princípios processuais
+
+Constituem princípios do processo arbitral:
+
+a) O contraditório, assegurado, designadamente, através da faculdade conferida às partes de se pronunciarem sobre quaisquer questões de facto ou de direito suscitadas no processo;
+
+b) A igualdade das partes, concretizado pelo reconhecimento do mesmo estatuto substancial às partes, designadamente para efeitos do exercício de faculdades e do uso de meios de defesa;
+
+c) A autonomia do tribunal arbitral na condução do processo e na determinação das regras a observar com vista à obtenção, em prazo razoável, de uma pronúncia de mérito sobre as pretensões formuladas;
+
+d) A oralidade e a imediação, como princípios operativos da discussão das matérias de facto e de direito;
+
+e) A livre apreciação dos factos e a livre determinação das diligências de produção de prova necessárias, de acordo com as regras da experiência e a livre convicção dos árbitros;
+
+f) A cooperação e boa fé processual, aplicável aos árbitros, às partes e aos mandatários;
+
+g) A publicidade, assegurando-se a divulgação e publicação das decisões arbitrais, nos termos do artigo 185.º-B do Código de Processo nos Tribunais Administrativos, devidamente expurgadas de quaisquer elementos suscetíveis de identificar a pessoa ou pessoas a que dizem respeito.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 17.º — Tramitação
+
+1 - Recebida a notificação da constituição do tribunal arbitral a enviar pelo Presidente do Conselho Deontológico no termo do prazo previsto no n.º 8 do artigo 11.º, o tribunal arbitral constituído notifica, por despacho, o dirigente máximo do serviço da administração tributária para, no prazo de 30 dias, apresentar resposta e, caso queira, solicitar a produção de prova adicional.
+
+2 - A administração tributária remete ao tribunal arbitral cópia do processo administrativo dentro do prazo de apresentação da resposta, aplicando-se, na falta de remessa, o disposto no n.º 5 do artigo 110.º do Código de Procedimento e de Processo Tributário.
+
+3 - Sempre que seja recusada a aplicação de uma norma, por inconstitucionalidade ou ilegalidade, constante de convenção internacional, ato legislativo ou decreto regulamentar, o tribunal arbitral notifica o representante do Ministério Público junto do tribunal competente para o julgamento da impugnação, para efeitos do recurso previsto no n.º 3 do artigo 72.º da Lei n.º 28/82, de 15 de novembro, na sua redação atual.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 228.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 17.º-A — Férias judiciais
+
+O prazo processual, estabelecido por lei ou fixado por despacho arbitral, suspende-se durante as férias judiciais, nos termos do artigo 144.º do Código de Processo Civil, com as necessárias adaptações.
+
+> Aditado pelo/a Artigo 229.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 18.º — Primeira reunião do tribunal arbitral
+
+1 - Apresentada a resposta, o tribunal arbitral promove uma primeira reunião com as partes para:
+
+a) Definir a tramitação processual a adoptar em função das circunstâncias do caso e da complexidade do processo;
+
+b) Ouvir as partes quanto a eventuais excepções que seja necessário apreciar e decidir antes de conhecer do pedido; e
+
+c) Convidar as partes a corrigir as suas peças processuais, quando necessário.
+
+2 - Na reunião referida no número anterior, deve ainda ser comunicada às partes uma data para as alegações orais, caso sejam necessárias, bem como a data para a decisão arbitral, tendo em conta o disposto no artigo 21.º
+
+###### Artigo 19.º — Princípio da livre condução do processo
+
+1 - A falta de comparência de qualquer das partes a acto processual, a inexistência de defesa ou a falta de produção de qualquer prova solicitada não obstam ao prosseguimento do processo e à consequente emissão de decisão arbitral com base na prova produzida, de acordo com o princípio da livre apreciação de prova e da autonomia do tribunal arbitral na condução do processo.
+
+2 - Sem prejuízo do disposto no número anterior, o tribunal arbitral pode permitir a prática de acto omitido ou a repetição de acto ao qual a parte não tenha comparecido, bem como o respectivo adiamento.
+
+###### Artigo 20.º — Modificação objectiva da instância
+
+1 - A substituição na pendência do processo dos actos objecto de pedido de decisão arbitral com fundamento em factos novos implica a modificação objectiva da instância.
+
+2 - No caso a que se refere o número anterior, o dirigente máximo do serviço da administração tributária notifica o tribunal arbitral da emissão do novo acto para que o processo possa prosseguir nesses termos, observando-se, quando aplicável, o disposto no artigo 64.º do Código de Processo nos Tribunais Administrativos.
+
+#### Secção II — Decisão arbitral
+
+###### Artigo 21.º — Prazo
+
+1 - A decisão arbitral deve ser emitida e notificada às partes no prazo de seis meses a contar da data do início do processo arbitral.
+
+2 - O tribunal arbitral pode determinar a prorrogação do prazo referido no número anterior por sucessivos períodos de dois meses, com o limite de seis meses, comunicando às partes essa prorrogação e os motivos que a fundamentam.
+
+###### Artigo 22.º — Deliberação, conteúdo e forma
+
+1 - A decisão arbitral é tomada por deliberação da maioria dos seus membros, podendo esta ser decomposta para esse efeito em pronúncias parciais incidentes sobre as diversas questões suscitadas no processo, salvo nos casos de árbitro singular.
+
+2 - É aplicável à decisão arbitral o disposto no artigo 123.º, primeira parte, do Código de Procedimento e de Processo Tributário, relativamente à sentença judicial.
+
+3 - A decisão arbitral é assinada por todos os árbitros, identificando os factos objecto de litígio, as razões de facto e de direito que motivaram a decisão, bem como a data em que foi proferida, sendo remetido um exemplar assinado da decisão a cada uma das partes.
+
+4 - Da decisão arbitral proferida pelo tribunal arbitral consta a fixação do montante e a repartição pelas partes das custas directamente resultantes do processo arbitral, quando o tribunal tenha sido constituído nos termos previstos no n.º 1 e na alínea a) do n.º 2 do artigo 6.º
+
+5 - Os árbitros podem fazer lavrar voto de vencido quanto à decisão arbitral e quanto às pronúncias parciais.
+
+###### Artigo 23.º — Dissolução do tribunal arbitral
+
+Após a notificação da decisão arbitral, o Centro de Arbitragem Administrativa notifica as partes do arquivamento do processo, considerando-se o tribunal arbitral dissolvido nessa data.
+
+###### Artigo 24.º — Efeitos da decisão arbitral de que não caiba recurso ou impugnação
+
+1 - A decisão arbitral sobre o mérito da pretensão de que não caiba recurso ou impugnação vincula a administração tributária a partir do termo do prazo previsto para o recurso ou impugnação, devendo esta, nos exactos termos da procedência da decisão arbitral a favor do sujeito passivo e até ao termo do prazo previsto para a execução espontânea das sentenças dos tribunais judiciais tributários, alternativa ou cumulativamente, consoante o caso:
+
+a) Praticar o acto tributário legalmente devido em substituição do acto objecto da decisão arbitral;
+
+b) Restabelecer a situação que existiria se o acto tributário objecto da decisão arbitral não tivesse sido praticado, adoptando os actos e operações necessários para o efeito;
+
+c) Rever os actos tributários que se encontrem numa relação de prejudicialidade ou de dependência com os actos tributários objecto da decisão arbitral, designadamente por se inscreverem no âmbito da mesma relação jurídica de imposto, ainda que correspondentes a obrigações periódicas distintas, alterando-os ou substituindo-os, total ou parcialmente;
+
+d) Liquidar as prestações tributárias em conformidade com a decisão arbitral ou abster-se de as liquidar.
+
+2 - Sem prejuízo dos demais efeitos previstos no Código de Procedimento e de Processo Tributário, a decisão arbitral sobre o mérito da pretensão de que não caiba recurso ou impugnação preclude o direito de, com os mesmos fundamentos, reclamar, impugnar, requerer a revisão ou a promoção da revisão oficiosa, ou suscitar pronúncia arbitral sobre os actos objecto desses pedidos ou sobre os consequentes actos de liquidação.
+
+3 - Quando a decisão arbitral ponha termo ao processo sem conhecer do mérito da pretensão por facto não imputável ao sujeito passivo, os prazos para a reclamação, impugnação, revisão, promoção da revisão oficiosa, revisão da matéria tributável ou para suscitar nova pronúncia arbitral dos actos objecto da pretensão arbitral deduzida contam-se a partir da notificação da decisão arbitral.
+
+4 - A decisão arbitral preclude o direito de a administração tributária praticar novo acto tributário relativamente ao mesmo sujeito passivo ou obrigado tributário e período de tributação, salvo nos casos em que este se fundamente em factos novos diferentes dos que motivaram a decisão arbitral.
+
+5 - É devido o pagamento de juros, independentemente da sua natureza, nos termos previsto na lei geral tributária e no Código de Procedimento e de Processo Tributário.
+
+#### Secção III — Recurso da decisão arbitral
+
+###### Artigo 25.º — Fundamento do recurso da decisão arbitral
+
+1 - A decisão arbitral sobre o mérito da pretensão deduzida que ponha termo ao processo arbitral é susceptível de recurso para o Tribunal Constitucional na parte em que recuse a aplicação de qualquer norma com fundamento na sua inconstitucionalidade ou que aplique norma cuja inconstitucionalidade tenha sido suscitada.
+
+2 - A decisão arbitral sobre o mérito da pretensão deduzida que ponha termo ao processo arbitral é ainda suscetível de recurso para o Supremo Tribunal Administrativo quando esteja em oposição, quanto à mesma questão fundamental de direito, com outra decisão arbitral ou com acórdão proferido pelo Tribunal Central Administrativo ou pelo Supremo Tribunal Administrativo.
+
+3 - Ao recurso previsto no número anterior é aplicável, com as necessárias adaptações, o regime do recurso para uniformização de jurisprudência regulado no artigo 152.º do Código de Processo nos Tribunais Administrativos, contando-se o prazo para o recurso a partir da notificação da decisão arbitral.
+
+4 - Os recursos previstos nos números anteriores são apresentados, por meio de requerimento acompanhado de cópia do processo arbitral, no tribunal competente para conhecer do recurso.
+
+5 - A interposição de recurso é obrigatoriamente comunicada ao Centro de Arbitragem Administrativa e à outra parte.
+
+> Alterado pelo/a Artigo 17.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01, produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 228.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 26.º — Efeitos do recurso da decisão arbitral
+
+1 - O recurso tem efeito suspensivo, no todo ou em parte, da decisão arbitral recorrida, dependendo do objecto do recurso.
+
+2 - Sem prejuízo do disposto no número anterior, o recurso interposto pela administração tributária faz caducar a garantia que tenha sido prestada para suspensão do processo de execução fiscal e o recurso interposto pelo sujeito passivo faz cessar o efeito suspensivo da liquidação, a que se refere o artigo 14.º
+
+#### Secção IV — Impugnação da decisão arbitral
+
+###### Artigo 27.º — Impugnação da decisão arbitral
+
+1 - A decisão arbitral pode ser anulada pelo Tribunal Central Administrativo, devendo o respectivo pedido de impugnação, acompanhado de cópia do processo arbitral, ser deduzido no prazo de 15 dias, contado da notificação da decisão arbitral ou da notificação prevista no artigo 23.º, no caso de decisão arbitral emitida por tribunal colectivo cuja intervenção tenha sido requerida nos termos da alínea b) do n.º 2 do artigo 6.º
+
+2 - Ao pedido de impugnação da decisão arbitral é aplicável, com as necessárias adaptações, o regime do recurso de apelação definido no Código do Processo dos Tribunais Administrativos.
+
+3 - A impugnação da decisão arbitral é obrigatoriamente comunicada ao Centro de Arbitragem Administrativa e à contraparte.
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 28.º — Fundamentos e efeitos da impugnação da decisão arbitral
+
+1 - A decisão arbitral é impugnável com fundamento na:
+
+a) Não especificação dos fundamentos de facto e de direito que justificam a decisão;
+
+b) Oposição dos fundamentos com a decisão;
+
+c) Pronúncia indevida ou na omissão de pronúncia;
+
+d) Violação dos princípios do contraditório e da igualdade das partes, nos termos em que estes são estabelecidos no artigo 16.º
+
+2 - A impugnação da decisão arbitral tem os efeitos previstos no artigo 26.º
+
+## Título II — Disposições finais
+
+###### Artigo 29.º — Direito subsidiário
+
+1 - São de aplicação subsidiária ao processo arbitral tributário, de acordo com a natureza dos casos omissos:
+
+a) As normas de natureza procedimental ou processual dos códigos e demais normas tributárias;
+
+b) As normas sobre a organização e funcionamento da administração tributária;
+
+c) As normas sobre organização e processo nos tribunais administrativos e tributários;
+
+d) O Código do Procedimento Administrativo;
+
+e) O Código de Processo Civil.
+
+2 - O disposto no número anterior não dispensa, nem prejudica, o dever de o tribunal arbitral definir a tramitação mais adequada a cada processo especificamente considerado, nos termos do disposto nos artigos 18.º e 19.º e atendendo aos princípios da celeridade, simplificação e informalidade processuais.
+
+###### Artigo 30.º — Normas transitórias
+
+1 - Os sujeitos passivos podem, a partir da entrada em vigor do presente decreto-lei e até ao termo do prazo de um ano, submeter à apreciação de tribunais arbitrais constituídos nos termos do n.º 1 e da alínea a) do n.º 2 do artigo 6.º, pretensões que tenham por objecto actos tributários que se encontrem pendentes de decisão em primeira instância nos tribunais judiciais tributários há mais de dois anos, com dispensa de pagamento de custas judiciais.
+
+2 - A utilização da faculdade prevista no número anterior determina, a partir do momento em que o processo arbitral se considera iniciado, a alteração da causa de pedir ou a extinção da instância, de acordo com os fundamentos apresentados no pedido de pronúncia arbitral, impondo-se ao impugnante promovê-la no prazo de 60 dias, juntando cópia do pedido de pronúncia arbitral.
+
+Visto e aprovado em Conselho de Ministros de 11 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto de Sousa Martins.
+
+Promulgado em 15 de Dezembro de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 17 de Dezembro de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

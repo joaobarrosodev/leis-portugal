@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:154361180:por
+title: Resolução do Conselho de Ministros n.º 4-A/2021
+short_title: null
+summary: Alarga o Programa APOIAR, estabelece um programa de apoio ao setor cultural e medidas de apoio ao setor social e
+  solidário
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 4-A/2021
+official_date: null
+publication_date: '2021-01-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 10/2021, 2º Suplemento, Série I de 2021-01-15
+  number: '10'
+  series: I
+  supplement: null
+  pages: 31-(9) a 31-(11)
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/01/01002/0000900011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/4-a/2021/01/15/p/dre/pt/html
+  oj: null
+  dre: '154361180'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/4-a-2021-154361180
+  internal: pt:dre:154361180:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-a-2021-154361180
+  metadata_url: https://data.dre.pt/eli/resolconsmin/4-a/2021/01/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-a-2021-154361180
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:21:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c96912eccb0294d7969e2cfe92ce407c01467fcd398cbca1d93b9dcf9ce48d52
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comparticipação do Estado
+- Cultura
+- Deficiente
+- Definição de Competências
+- Doença Infecciosa
+- Empresa
+- Epidemia
+- Espetáculos e Divertimentos Públicos
+- Estabelecimento Comercial
+- Estabelecimento Industrial
+- Estado de Emergência
+- Financiamento
+- Financiamento da Segurança Social
+- Fundo de Reestruturação do Setor Solidário
+- Ministro da Cultura
+- Ministro de Estado da Economia e da Transição Digital
+- Ministro do Trabalho Solidariedade e Segurança Social
+- Política Cultural
+- Política Económica
+- Política Social
+- Programa Adaptar Social+
+- Programa APOIAR
+- Proteção ao Deficiente
+- Proteção Social
+- Reembolso
+- Saúde Pública
+- Segurança Social
+- Situação de Calamidade
+- Subsídio
+- Subsídio não Reembolsável
+- Terceira Idade
+relationships:
+- type: amended_by
+  target: pt:dre:204672332:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:160149402:por
+  label: Determinado o alargamento e o aumento dos limites máximos do apoio de tesouraria sob a forma de subsídio a fundo
+    perdido aprovado pelo n.º 1 da presente Resolução, pelo(a) Resolução do Conselho de Ministros n.º 33-A/2021 - Diário da
+    República n.º 58/2021, 1º Suplemento, Série I de 2021-03-24 nos termos do n.º 1 desta
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/33-a-2021-160149402
+  date: '2021-03-24'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/114/2020/12/30/p/dre
+- type: cites
+  target: pt:dre:138963711:por
+  label: null
+  source: http://data.dre.pt/eli/port/178/2020/07/28/p/dre
+- type: cites
+  target: pt:dre:149104781:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/101/2020/11/20/p/dre
+- type: cites
+  target: pt:dre:149532792:por
+  label: null
+  source: http://data.dre.pt/eli/port/271-a/2020/11/24/p/dre
+- type: cites
+  target: pt:dre:152512121:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:21:29Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 4-A/2021
+
+Atendendo ao agravamento da situação epidemiológica causada pelo novo coronavírus SARS-CoV-2, e na sequência da declaração do estado de emergência, pelo Presidente da República, a 6 de novembro de 2020, que levou à adoção de novas medidas e restrições com vista à prevenção e resposta à pandemia da doença COVID-19, foi criado o .Sistema de Incentivos à Liquidez, designado Programa APOIAR, cujo regulamento foi aprovado pela [Portaria n.º 271-A/2020](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2020-149532792), de 24 de novembro.
+
+Após uma primeira fase de apoios destinados, sobretudo, à manutenção dos postos de trabalho, este novo instrumento de apoio à tesouraria veio mitigar os impactos negativos causados pela pandemia sobre a faturação das empresas, ao longo dos primeiros três trimestres de 2020, apoiando a fundo perdido os seus custos de funcionamento. Estes apoios são particularmente importantes para as empresas de menor dimensão e que atuam nos setores mais dependentes do mercado interno e do turismo ou naqueles mais afetados pelas medidas de confinamento, como sejam a restauração e as atividades culturais.
+
+A [Resolução do Conselho de Ministros n.º 114/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/114-2020-152512121), de 30 de dezembro, veio determinar um alargamento do Programa APOIAR aos empresários em nome individual sem contabilidade organizada com trabalhadores a cargo, bem como às empresas com mais de 250 trabalhadores cujo volume anual de faturação não exceda os 50 milhões de euros, as quais são responsáveis por milhares de postos de trabalho que urge preservar.
+
+Em face das novas restrições motivadas pelo agravamento da situação epidemiológica, que determinaram a suspensão ou o encerramento de determinados tipos de atividades, instalações e estabelecimentos, ao abrigo do estado de emergência, torna-se premente reforçar os apoios à liquidez das empresas, melhorando as suas condições para fazer face aos compromissos de curto prazo e contribuindo para a sua subsistência durante e após o surto pandémico.
+
+Atendendo ao cenário atual de confinamento obrigatório alargado, importa reavaliar as necessidades concretas dos setores e ajustar a resposta por forma a garantir que as medidas em vigor são as mais adequadas e proporcionais à respetiva resolução.
+
+Assim, a medida APOIAR.PT, que apenas contemplava as perdas de faturação registadas nos três primeiros trimestres, passa a abranger todo o ano de 2020. Adicionalmente, é criado um apoio extraordinário à manutenção da atividade em 2021, equivalente ao incentivo apurado correspondente ao 4.º trimestre de 2020, que visa compensar antecipadamente as empresas pelas eventuais perdas de faturação que poderão vir a registar, na sequência do atual confinamento, garantindo um reforço de tesouraria que lhes permita fazer face aos compromissos de curto prazo. Este reforço de liquidez é ainda acompanhado por uma antecipação da segunda tranche do pagamento do apoio referente aos três primeiros trimestres de 2020, inicialmente prevista para ocorrer 60 dias úteis após o primeiro pagamento, e que poderá ser solicitada de imediato.
+
+Por outro lado, importa ajustar os mecanismos de elegibilidade das empresas candidatas introduzindo maior flexibilidade no acesso, nomeadamente os requisitos exigidos em sede de capitais próprios e a possibilidade de apresentação de candidaturas por parte de empresas com dívidas à administração fiscal e à segurança social, desde que as mesmas procedam à respetiva regularização até à confirmação do termo de aceitação.
+
+Concomitantemente, para efeitos de mitigação dos impactos da crise pandémica no setor cultural, prevê-se a criação de um programa especialmente vocacionado para o setor, que inclui a criação de apoios, sob a forma de fundo perdido, destinados a pessoas singulares e entidades de todos os setores artísticos, para programação cultural, bem como a entidades que explorem salas de espetáculos ao vivo e de cinema independente, e a produtores, promotores e agentes de espetáculos artísticos, com o compromisso de programação.
+
+De igual modo, a situação epidemiológica atual impõe a necessidade de intensificar o apoio ao setor social e solidário e, assim, criar, prorrogar ou reativar um conjunto de medidas de caráter extraordinário, temporário e transitório que apoiem as instituições deste setor.
+
+Importa, assim, garantir a comparticipação financeira da segurança social às respostas sociais que sejam suspensas, bem como às respostas sociais residenciais de apoio a idosos e pessoas com deficiência, prevendo-se ainda a majoração da domiciliação do apoio social quando seja necessário apoio domiciliário a utentes de centros de dia que sejam suspensos.
+
+É igualmente previsto o diferimento automático dos reembolsos ao Fundo de Reestruturação do Setor Solidário e a prorrogação dos prazos para prestação de contas anuais.
+
+Por fim, importa reativar o Programa Adaptar Social +, criado e regulamentado pela [Portaria n.º 178/2020](https://diariodarepublica.pt/dr/detalhe/portaria/178-2020-138963711), de 28 de julho, que constitui um instrumento determinante para que as instituições do setor social e solidário tenham meios para garantir a implementação das medidas de prevenção a que estão sujeitas, o prolongamento da linha de financiamento específica criada para o setor social e o reforço das equipas de intervenção rápida.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar o alargamento do apoio de tesouraria sob a forma de subsídio a fundo perdido aprovado pelo n.º 1 da [Resolução do Conselho de Ministros n.º 101/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-2020-149104781), de 20 de novembro, e regulamentado pela [Portaria n.º 271-A/2020](https://diariodarepublica.pt/dr/detalhe/portaria/271-a-2020-149532792), de 24 de novembro (Programa APOIAR), ao 4.º trimestre de 2020, com correspondente aumento dos limites máximos de apoio por empresa.
+
+2 - Determinar a criação de um apoio extraordinário à tesouraria das empresas que atuam nos setores particularmente afetados pelas medidas excecionais aprovadas no contexto da pandemia da doença COVID-19, designadamente o setor cultural, no âmbito do Programa APOIAR, sob a forma de subsídio a fundo perdido, de valor equivalente ao incentivo apurado correspondente ao 4.º trimestre de 2020, com vista a compensar antecipadamente as eventuais perdas de faturação registadas pelas empresas no 1.º trimestre de 2021, na sequência da suspensão e encerramento de atividades.
+
+3 - Estabelecer um programa especialmente vocacionado para a mitigação dos impactos da crise pandémica no setor cultural, com operacionalização prioritária das seguintes medidas:
+
+a) Criação de um apoio, sob a forma de subsídio a fundo perdido, a entidades que explorem salas de espetáculos ao vivo e de cinema independente e a produtores, promotores e agentes de espetáculos artísticos, de valor correspondente a parte da quebra de faturação de 2020 face a 2019, com o compromisso de programação, que pode ser executada em contextos físicos ou digitais;
+
+b) Criação de um apoio, sob a forma de subsídio a fundo perdido, destinado a pessoas singulares e entidades de todos os setores artísticos, para programação cultural, que pode abranger apresentações físicas ou digitais, e respetiva remuneração do trabalho artístico e técnico, que considere as restrições na atividade das áreas artísticas e culturais decorrentes do contexto do surto epidemiológico.
+
+4 - Aprovar um conjunto de medidas de apoio ao setor social e solidário, considerando as novas restrições motivadas pelo agravamento da situação epidemiológica, designadamente:
+
+a) Comparticipação financeira da segurança social das respostas sociais suspensas e das respostas sociais residenciais para pessoas idosas e pessoas com deficiência, independentemente da frequência, e reforço nas situações de domiciliação de apoio social;
+
+b) Diferimento automático dos reembolsos ao Fundo de Reestruturação do Setor Solidário (FRSS) e prorrogação excecional dos prazos máximos;
+
+c) Prorrogação do prazo para prestação de contas anuais;
+
+d) Reativação do Programa Adaptar Social +;
+
+e) Reforço das equipas de intervenção rápida;
+
+f) Prorrogação da Linha de Apoio ao Setor Social COVID-19.
+
+5 - Cometer ao Ministro de Estado, da Economia e da Transição Digital a operacionalização, monitorização e avaliação das medidas referidas nos n.os 1 e 2.
+
+6 - Cometer à Ministra da Cultura a operacionalização, monitorização e avaliação das medidas referidas no n.º 3.
+
+7 - Cometer à Ministra do Trabalho, Solidariedade e Segurança Social a operacionalização, monitorização e avaliação das medidas referidas no n.º 4.
+
+8 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 14 de janeiro de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+113892532

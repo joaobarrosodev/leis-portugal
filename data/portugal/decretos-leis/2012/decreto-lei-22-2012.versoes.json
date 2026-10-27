@@ -1,0 +1,619 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:543922:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-201444687",
+ "dre_path": "/dr/detalhe/decreto-lei/22-2012-543922",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-01-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887189110",
+    "201444606",
+    "201444607",
+    "201444608",
+    "201444609",
+    "201444610",
+    "201444611",
+    "201444612",
+    "201444613",
+    "201444614",
+    "201444615",
+    "201444616",
+    "201444617",
+    "201444618",
+    "201444619",
+    "201444620",
+    "201444621"
+   ]
+  },
+  {
+   "date": "2014-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56304801:por",
+     "title": "Decreto-Lei n.º 127/2014",
+     "published": "2014-08-22",
+     "dre_path": "/dr/detalhe/decreto-lei/127-2014-56304801"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "201444605",
+    "201444606",
+    "201444607",
+    "887190616",
+    "201444609",
+    "201444610",
+    "201444611",
+    "201444612",
+    "201444613",
+    "201444614",
+    "201444615",
+    "201444616",
+    "201444617",
+    "201444618",
+    "201444619",
+    "201444620",
+    "201444621",
+    "201444622"
+   ]
+  },
+  {
+   "date": "2014-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58940164:por",
+     "title": "Decreto-Lei n.º 173/2014",
+     "published": "2014-11-19",
+     "dre_path": "/dr/detalhe/decreto-lei/173-2014-58940164"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "201444605",
+    "201444606",
+    "201444607",
+    "201444629",
+    "201444609",
+    "201444610",
+    "201444611",
+    "201444612",
+    "201444613",
+    "201444614",
+    "201444615",
+    "201444616",
+    "201444617",
+    "201444618",
+    "201444619",
+    "201444620",
+    "201444621",
+    "201444622"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201414019:por",
+     "title": "Decreto-Lei n.º 61/2022",
+     "published": "2022-09-23",
+     "dre_path": "/dr/detalhe/decreto-lei/61-2022-201414019"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "201444605",
+    "201444606",
+    "201444631",
+    "201444630",
+    "201444609",
+    "201444632",
+    "201444611",
+    "201444612",
+    "201444613",
+    "201444614",
+    "201444615",
+    "201444616",
+    "201444617",
+    "201444618",
+    "201444619",
+    "201444620",
+    "201444621",
+    "201444622"
+   ]
+  },
+  {
+   "date": "2023-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222645049:por",
+     "title": "Decreto-Lei n.º 89/2023",
+     "published": "2023-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2023-222645049"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "201444605",
+    "201444606",
+    "201444631",
+    "222692870",
+    "201444609",
+    "201444632",
+    "201444611",
+    "201444612",
+    "201444613",
+    "222692871",
+    "201444615",
+    "201444616",
+    "201444617",
+    "201444618",
+    "201444619",
+    "201444620",
+    "201444621",
+    "201444622"
+   ]
+  },
+  {
+   "date": "2024-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:887091776:por",
+     "title": "Decreto-Lei n.º 54/2024",
+     "published": "2024-09-06",
+     "dre_path": "/dr/detalhe/decreto-lei/54-2024-887091776"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "887189110",
+    "887189111",
+    "887189112",
+    "887189113",
+    "887189114",
+    "887189115",
+    "887189116",
+    "887189117",
+    "887189118",
+    "887189119",
+    "887189120",
+    "887189121",
+    "887189122",
+    "887189123",
+    "887189124",
+    "887189125",
+    "887189126",
+    "887189127"
+   ]
+  }
+ ],
+ "fragments": {
+  "887189110": {
+   "fragment_id": "201444688",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 22/2012\n\nde 30 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNeste contexto o Decreto-Lei n.º 124/2011, de 29 de Dezembro, veio aprovar a nova orgânica do Ministério da Saúde, e concretizado o modelo estrutural e orgânico do Ministério, importa, pois, rever a orgânica de cada serviço, nomeadamente, a das Administrações Regionais de Saúde em conformidade com as atribuições que lhes cabem neste novo enquadramento, tendo em vista a sua prossecução com ganhos de racionalidade e qualidade, designadamente, através do aproveitamento das sinergias existentes entre algumas das suas primitivas e novas atribuições e pelo cometimento doutras designadamente no âmbito da execução dos programas de redução do consumo de substâncias psicoactivas, na prevenção dos comportamentos aditivos e na diminuição das dependências, que se encontravam cometidas ao Instituto da Droga e da Toxicodependência, I. P., que, pela mesma via, terão condições de as prosseguir com idênticos ganhos.\n\nAssim, as Administrações Regionais de Saúde reestruturam o seu modelo de funcionamento, permitindo simplificar e eliminar, no contexto do Ministério e da reorganização nele operada, estruturas e hierarquias cujas competências podem ser exercidas dum modo mais eficiente.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 29.º, Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776) A revogação do presente diploma não prejudica o exercício das competências legalmente previstas até à conclusão dos processos de fusão e reestruturação previstos no Decreto-Lei n.º 54/2024"
+  },
+  "201444606": {
+   "fragment_id": "201444689",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - As Administrações Regionais de Saúde, I. P., abreviadamente designadas por ARS, I. P., são institutos públicos integrados na administração indirecta do Estado, dotados de autonomia administrativa, financeira e património próprio.\n\n2 - As ARS, I. P., prosseguem as suas atribuições, sob superintendência e tutela do membro do Governo responsável pela área da saúde.\n\n3 - As ARS, I. P., regem-se pelas normas constantes do presente decreto-lei, pelo disposto na lei quadro dos institutos públicos e no Estatuto do Serviço Nacional de Saúde e pelas demais normas que lhe sejam aplicáveis."
+  },
+  "201444607": {
+   "fragment_id": "201444690",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - As ARS, I. P., exercem as suas atribuições nas áreas correspondentes ao nível ii da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS).\n\n2 - As ARS, I. P., têm sede:\n\na) ARS do Norte, I. P., no Porto;\n\nb) ARS do Centro, I. P., em Coimbra;\n\nc) ARS de Lisboa e Vale do Tejo, I. P., em Lisboa;\n\nd) ARS do Alentejo, I. P., em Évora;\n\ne) ARS do Algarve, I. P., em Faro.\n\n3 - As ARS, I. P., dispõem de serviços desconcentrados designados por agrupamentos de centros de saúde do Serviço Nacional de Saúde (ACES), nos termos do Decreto-Lei n.º 28/2008, de 22 de Fevereiro, alterado pelo Decreto-Lei n.º 102/2009, de 11 de Maio.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) a alteração ao presente artigo, produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023."
+  },
+  "201444608": {
+   "fragment_id": "201444691",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - As ARS, I. P., têm por missão garantir à população da respectiva área geográfica de intervenção o acesso à prestação de cuidados de saúde, adequando os recursos disponíveis às necessidades e cumprir e fazer cumprir políticas e programas de saúde na sua área de intervenção.\n\n2 - São atribuições de cada ARS, I. P., no âmbito das circunscrições territoriais respectivas:\n\na) Executar a política nacional de saúde, de acordo com as políticas globais e sectoriais, visando o seu ordenamento racional e a optimização dos recursos;\n\nb) Participar na definição das medidas de coordenação intersectorial de planeamento, tendo como objectivo a melhoria da prestação de cuidados de saúde;\n\nc) Colaborar na elaboração do Plano Nacional de Saúde e acompanhar a respectiva execução a nível regional;\n\nd) Desenvolver e fomentar actividades no âmbito da saúde pública, de modo a garantir a protecção e promoção da saúde das populações;\n\ne) Assegurar a execução dos programas de intervenção local com vista à redução do consumo de substâncias psicoactivas, a prevenção dos comportamentos aditivos e a diminuição das dependências;\n\nf) Desenvolver, consolidar e participar na gestão da Rede Nacional de Cuidados Continuados Integrados de acordo com as orientações definidas;\n\ng) Assegurar o planeamento regional dos recursos humanos, financeiros e materiais, incluindo a execução dos necessários projectos de investimento, das instituições e serviços prestadores de cuidados de saúde, supervisionando a sua afectação;\n\nh) Elaborar, em consonância com as orientações definidas a nível nacional, a carta de instalações e equipamentos;\n\ni) Afectar, de acordo com as orientações definidas pela Administração Central do Sistema de Saúde, I. P., recursos financeiros às instituições e serviços prestadores de cuidados de saúde integrados ou financiados pelo Serviço Nacional de Saúde e a entidades de natureza privada com ou sem fins lucrativos, que prestem cuidados de saúde ou actuem no âmbito das áreas referidas nas alíneas e) e f);\n\nj) Celebrar, acompanhar e proceder à revisão de contratos no âmbito das parcerias público-privadas, de acordo com as orientações definidas pela Administração Central do Sistema de Saúde, I. P., e afectar os respectivos recursos financeiros;\n\nl) Negociar, celebrar e acompanhar, de acordo com as orientações definidas a nível nacional, os contratos, protocolos e convenções de âmbito regional, bem como efectuar a respectiva avaliação e revisão, no âmbito da prestação de cuidados de saúde bem como nas áreas referidas nas alíneas e) e f);\n\nm) Orientar, prestar apoio técnico e avaliar o desempenho das instituições e serviços prestadores de cuidados de saúde, de acordo com as políticas definidas e com as orientações e normativos emitidos pelos serviços e organismos centrais competentes nos diversos domínios de intervenção;\n\nn) Assegurar a adequada articulação entre os serviços prestadores de cuidados de saúde de modo a garantir o cumprimento da rede de referenciação;\n\no) Afectar recursos financeiros, mediante a celebração, acompanhamento e revisão de contratos no âmbito dos cuidados continuados integrados;\n\np) Elaborar programas funcionais de estabelecimentos de saúde;\n\nq) Licenciar as unidades privadas prestadoras de cuidados de saúde e as unidades da área das dependências e comportamentos aditivos do sector social e privado;\n\nr) Emitir pareceres sobre planos directores de unidades de saúde, bem como sobre a criação, modificação e fusão de serviços;\n\ns) Emitir pareceres sobre a aquisição e expropriação de terrenos e edifícios para a instalação de serviços de saúde, bem como sobre projectos das instalações de prestadores de cuidados de saúde.\n\n3 - Para a prossecução das suas atribuições, as ARS, I. P., podem colaborar entre si e com outras entidades do sector público ou privado, com ou sem fins lucrativos, nos termos da legislação em vigor.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) a alteração ao presente artigo, produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023."
+  },
+  "201444609": {
+   "fragment_id": "201444692",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos das ARS, I. P.:\n\na) O conselho directivo;\n\nb) O fiscal único;\n\nc) O conselho consultivo."
+  },
+  "201444610": {
+   "fragment_id": "201444693",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho directivo\n\n1 - As ARS, I. P., são dirigidas por um conselho directivo, constituído por um presidente, um vice-presidente e dois vogais nas ARS do Norte, do Centro e de Lisboa e Vale do Tejo, por um presidente e dois vogais nas ARS do Alentejo e do Algarve.\n\n2 - Sem prejuízo das competências que lhe forem cometidas por lei ou nele delegadas ou subdelegadas, compete ainda ao conselho directivo:\n\na) Coordenar a organização e o funcionamento das instituições e serviços prestadores de cuidados de saúde da respectiva região;\n\nb) Propor ao membro do Governo responsável pela área da saúde a nomeação dos conselhos de administração dos hospitais e dos serviços prestadores de cuidados de saúde;\n\nc) Propor ao membro do Governo responsável pela área da saúde a constituição ou reorganização de serviços prestadores de cuidados de saúde;\n\nd) Propor ao membro do Governo responsável pela área da saúde, a criação, modificação ou extinção de unidades funcionais, bem como definir as regras necessárias ao seu funcionamento, articulação e, quando existam, formas de partilha de funções comuns;\n\ne) Propor ao membro do Governo responsável pela área da saúde a aprovação dos planos de acção anuais e plurianuais e dos relatórios de execução das instituições e serviços públicos prestadores de cuidados de saúde;\n\nf) Contratar a prestação de cuidados de saúde com entidades prestadoras de cuidados de saúde, públicas ou privadas com ou sem fins lucrativos, designadamente mediante a celebração de acordos, convenções e contratos programas;\n\ng) Celebrar acordos com as instituições particulares de solidariedade social para acções de apoio domiciliário;\n\nh) Dar parecer sobre os orçamentos das instituições e serviços públicos prestadores de cuidados de saúde;\n\ni) Dar parecer sobre os projectos de mapas ou dotações de pessoal das instituições e serviços públicos prestadores de cuidados de saúde, de harmonia com as respectivas necessidades de recursos humanos;\n\nj) Autorizar a mobilidade do pessoal das instituições e serviços prestadores de cuidados de saúde prevista na lei geral.\n\n3 - Sem prejuízo do disposto na alínea j) do número anterior, a mobilidade do pessoal afecto às instituições e serviços prestadores de cuidados de saúde entre regiões é autorizada pelo membro do Governo responsável pela área da saúde.\n\n4 - O conselho directivo pode delegar nos seus membros as competências que lhe sejam cometidas.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) a alteração ao presente artigo, produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023."
+  },
+  "201444611": {
+   "fragment_id": "201444694",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei quadro dos institutos públicos."
+  },
+  "201444612": {
+   "fragment_id": "201444695",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de actuação das ARS, I. P.\n\n2 - O conselho consultivo tem a seguinte composição:\n\na) Um presidente, designado pelo membro do Governo responsável pela área da saúde;\n\nb) Um membro, por cada uma das NUTS III, como representante da população dos municípios situados na área geográfica de actuação da ARS, I. P., designado pela Associação Nacional de Municípios Portugueses;\n\nc) Um representante de cada associação profissional do sector da saúde.\n\n3 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo seu presidente.\n\n4 - A participação nas reuniões do conselho consultivo não é remunerada."
+  },
+  "201444613": {
+   "fragment_id": "201444696",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna das ARS, I. P., é a prevista nos respectivos estatutos."
+  },
+  "201444614": {
+   "fragment_id": "201444697",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - As ARS, I. P., dispõem das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - As ARS, I. P., dispõem ainda das seguintes receitas próprias:\n\na) As importâncias cobradas por serviços prestados, no âmbito das respectivas atribuições;\n\nb) As taxas, emolumentos, multas, coimas ou outras atribuídas por lei, regulamento ou contrato;\n\nc) O produto de alienação de bens, direitos ou receitas próprias, nos termos da legislação em vigor;\n\nd) As doações, heranças, legados e subsídios;\n\ne) Os juros de aplicações financeiras junto do Tesouro;\n\nf) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - Por força das atribuições no domínio da execução dos programas de intervenção local para a redução do consumo de substâncias psicoactivas, a prevenção dos comportamentos aditivos e a diminuição das dependências, constituem ainda receitas próprias das ARS:\n\na) As recompensas, objectos, direitos ou vantagens previstos na alínea b) do n.º 1 do artigo 39.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, com as alterações introduzidas pela Lei n.º 45/96, de 9 de Março;\n\nb) 50 % da receita prevista na alínea b) do n.º 3 do artigo 16.º da Lei n.º 30/2000, de 29 de Novembro, alterada pelo Decreto-Lei n.º 114/2011, de 30 de Novembro;\n\nc) A prevista na alínea b) do n.º 2 do artigo 63.º do Decreto-Lei n.º 16/99, de 25 de Janeiro;\n\nd) As provenientes dos valores fixados para as prestações de saúde realizadas, devendo as mesmas continuar a ser cobradas pelas ARS, I. P., aos subsistemas de saúde cujos beneficiários a eles recorram, bem como a quaisquer entidades, públicas ou privadas, responsáveis pelos respectivos encargos, designadamente as Regiões Autónomas.\n\n4 - As receitas próprias referidas nos números anteriores são consignadas à realização de despesas das ARS, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos da lei."
+  },
+  "201444615": {
+   "fragment_id": "201444698",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas\n\nConstituem despesas das ARS, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições."
+  },
+  "201444616": {
+   "fragment_id": "201444699",
+   "type": 11,
+   "heading": "Artigo 11.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Património\n\nO património das ARS, I. P., é constituído pela universalidade de bens, direitos e obrigações de que sejam titulares."
+  },
+  "201444617": {
+   "fragment_id": "201444700",
+   "type": 11,
+   "heading": "Artigo 12.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sucessão\n\nAs ARS, I. P., sucedem, de acordo com a respectiva área geográfica de intervenção, nas atribuições do Instituto da Droga e Toxicodependência, I. P., no domínio do licenciamento das unidades privadas prestadoras de cuidados de saúde na área das toxicodependências e da execução dos programas de intervenção local, do património e dos recursos humanos afectos às delegações regionais.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298) Revoga o presente artigo, na parte relativa ao domínio do licenciamento das unidades privadas prestadoras de cuidados de saúde na área das toxicodependências."
+  },
+  "201444618": {
+   "fragment_id": "201444701",
+   "type": 11,
+   "heading": "Artigo 13.º — Critérios de selecção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Critérios de selecção de pessoal\n\nÉ fixado como critério geral e abstracto de selecção do pessoal necessário à prossecução das atribuições das ARS, I. P., a que se refere o artigo anterior, o desempenho de funções no Instituto da Droga e Toxicodependência, I. P., directamente relacionadas com as atribuições transferidas, ou em áreas de apoio correspondentes às existentes nas ARS, I. P."
+  },
+  "201444619": {
+   "fragment_id": "201444702",
+   "type": 11,
+   "heading": "Artigo 14.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposição transitória\n\n1 - As unidades de intervenção local do extinto Instituto da Droga e Toxicodependência, I. P., com a estrutura e competências previstas nos artigos 1.º e 9.º dos Estatutos do Instituto da Droga e Toxicodependência, I. P., aprovados em anexo à Portaria n.º 648/2007, de 30 de Maio, alterada pela Portaria n.º 925/2010, de 20 de Setembro, e nos artigos 6.º a 14.º do Despacho Normativo n.º 51/2008, de 15 de Setembro, mantêm-se, transitoriamente, até 31 de Dezembro de 2012, no âmbito da organização interna das ARS, I. P., com jurisdição no respectivo âmbito territorial.\n\n2 - Até ao final do prazo referido no número anterior os actuais dirigentes intermédios das unidades de intervenção local mantêm-se em funções de gestão corrente.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 67/2013 - Diário da República n.º 95/2013, Série I de 2013-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2013-261082) prorroga o prazo a que se refere o n.º 1 do presente artigo, até 30 de junho de 2013. O disposto no n.º 2 do presente artigo, observa o prazo o mesmo prazo."
+  },
+  "201444620": {
+   "fragment_id": "201444703",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 222/2007, de 29 de Maio, com excepção do artigo 22.º"
+  },
+  "201444621": {
+   "fragment_id": "201444704",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "201444605": {
+   "fragment_id": "201444688",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 22/2012\n\nde 30 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNeste contexto o Decreto-Lei n.º 124/2011, de 29 de Dezembro, veio aprovar a nova orgânica do Ministério da Saúde, e concretizado o modelo estrutural e orgânico do Ministério, importa, pois, rever a orgânica de cada serviço, nomeadamente, a das Administrações Regionais de Saúde em conformidade com as atribuições que lhes cabem neste novo enquadramento, tendo em vista a sua prossecução com ganhos de racionalidade e qualidade, designadamente, através do aproveitamento das sinergias existentes entre algumas das suas primitivas e novas atribuições e pelo cometimento doutras designadamente no âmbito da execução dos programas de redução do consumo de substâncias psicoactivas, na prevenção dos comportamentos aditivos e na diminuição das dependências, que se encontravam cometidas ao Instituto da Droga e da Toxicodependência, I. P., que, pela mesma via, terão condições de as prosseguir com idênticos ganhos.\n\nAssim, as Administrações Regionais de Saúde reestruturam o seu modelo de funcionamento, permitindo simplificar e eliminar, no contexto do Ministério e da reorganização nele operada, estruturas e hierarquias cujas competências podem ser exercidas dum modo mais eficiente.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "887190616": {
+   "fragment_id": "201444691",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2014-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 127/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), em vigor a partir de 2014-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - As ARS, I. P., têm por missão garantir à população da respectiva área geográfica de intervenção o acesso à prestação de cuidados de saúde, adequando os recursos disponíveis às necessidades e cumprir e fazer cumprir políticas e programas de saúde na sua área de intervenção.\n\n2 - São atribuições de cada ARS, I. P., no âmbito das circunscrições territoriais respectivas:\n\na) Executar a política nacional de saúde, de acordo com as políticas globais e sectoriais, visando o seu ordenamento racional e a optimização dos recursos;\n\nb) Participar na definição das medidas de coordenação intersectorial de planeamento, tendo como objectivo a melhoria da prestação de cuidados de saúde;\n\nc) Colaborar na elaboração do Plano Nacional de Saúde e acompanhar a respectiva execução a nível regional;\n\nd) Desenvolver e fomentar actividades no âmbito da saúde pública, de modo a garantir a protecção e promoção da saúde das populações;\n\ne) Assegurar a execução dos programas de intervenção local com vista à redução do consumo de substâncias psicoactivas, a prevenção dos comportamentos aditivos e a diminuição das dependências;\n\nf) Desenvolver, consolidar e participar na gestão da Rede Nacional de Cuidados Continuados Integrados de acordo com as orientações definidas;\n\ng) Assegurar o planeamento regional dos recursos humanos, financeiros e materiais, incluindo a execução dos necessários projectos de investimento, das instituições e serviços prestadores de cuidados de saúde, supervisionando a sua afectação;\n\nh) Elaborar, em consonância com as orientações definidas a nível nacional, a carta de instalações e equipamentos;\n\ni) Afectar, de acordo com as orientações definidas pela Administração Central do Sistema de Saúde, I. P., recursos financeiros às instituições e serviços prestadores de cuidados de saúde integrados ou financiados pelo Serviço Nacional de Saúde e a entidades de natureza privada com ou sem fins lucrativos, que prestem cuidados de saúde ou actuem no âmbito das áreas referidas nas alíneas e) e f);\n\nj) Celebrar, acompanhar e proceder à revisão de contratos no âmbito das parcerias público-privadas, de acordo com as orientações definidas pela Administração Central do Sistema de Saúde, I. P., e afectar os respectivos recursos financeiros;\n\nl) Negociar, celebrar e acompanhar, de acordo com as orientações definidas a nível nacional, os contratos, protocolos e convenções de âmbito regional, bem como efectuar a respectiva avaliação e revisão, no âmbito da prestação de cuidados de saúde bem como nas áreas referidas nas alíneas e) e f);\n\nm) Orientar, prestar apoio técnico e avaliar o desempenho das instituições e serviços prestadores de cuidados de saúde, de acordo com as políticas definidas e com as orientações e normativos emitidos pelos serviços e organismos centrais competentes nos diversos domínios de intervenção;\n\nn) Assegurar a adequada articulação entre os serviços prestadores de cuidados de saúde de modo a garantir o cumprimento da rede de referenciação;\n\no) Afectar recursos financeiros, mediante a celebração, acompanhamento e revisão de contratos no âmbito dos cuidados continuados integrados;\n\np) Elaborar programas funcionais de estabelecimentos de saúde;\n\nq) (Revogada.)\n\nr) Emitir pareceres sobre planos directores de unidades de saúde, bem como sobre a criação, modificação e fusão de serviços;\n\ns) Emitir pareceres sobre a aquisição e expropriação de terrenos e edifícios para a instalação de serviços de saúde, bem como sobre projectos das instalações de prestadores de cuidados de saúde.\n\n3 - Para a prossecução das suas atribuições, as ARS, I. P., podem colaborar entre si e com outras entidades do sector público ou privado, com ou sem fins lucrativos, nos termos da legislação em vigor.\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 127/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), em vigor a partir de 2014-09-01"
+  },
+  "201444622": {
+   "fragment_id": "201444705",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.\n\nPromulgado em 13 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 16 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "201444629": {
+   "fragment_id": "201444691",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2014-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 127/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), em vigor a partir de 2014-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - As ARS, I. P., têm por missão garantir à população da respectiva área geográfica de intervenção o acesso à prestação de cuidados de saúde, adequando os recursos disponíveis às necessidades e cumprir e fazer cumprir políticas e programas de saúde na sua área de intervenção.\n\n2 - São atribuições de cada ARS, I. P., no âmbito das circunscrições territoriais respectivas:\n\na) Executar a política nacional de saúde, de acordo com as políticas globais e sectoriais, visando o seu ordenamento racional e a optimização dos recursos;\n\nb) Participar na definição das medidas de coordenação intersectorial de planeamento, tendo como objectivo a melhoria da prestação de cuidados de saúde;\n\nc) Colaborar na elaboração do Plano Nacional de Saúde e acompanhar a respectiva execução a nível regional;\n\nd) Desenvolver e fomentar actividades no âmbito da saúde pública, de modo a garantir a protecção e promoção da saúde das populações;\n\ne) Assegurar a execução dos programas de intervenção local com vista à redução do consumo de substâncias psicoactivas, a prevenção dos comportamentos aditivos e a diminuição das dependências;\n\nf) Desenvolver, consolidar e participar na gestão da Rede Nacional de Cuidados Continuados Integrados de acordo com as orientações definidas;\n\ng) Assegurar o planeamento regional dos recursos humanos, financeiros e materiais, incluindo a execução dos necessários projectos de investimento, das instituições e serviços prestadores de cuidados de saúde, supervisionando a sua afectação;\n\nh) Elaborar, em consonância com as orientações definidas a nível nacional, a carta de instalações e equipamentos;\n\ni) Afectar, de acordo com as orientações definidas pela Administração Central do Sistema de Saúde, I. P., recursos financeiros às instituições e serviços prestadores de cuidados de saúde integrados ou financiados pelo Serviço Nacional de Saúde e a entidades de natureza privada com ou sem fins lucrativos, que prestem cuidados de saúde ou actuem no âmbito das áreas referidas nas alíneas e) e f);\n\nj) Celebrar, acompanhar e proceder à revisão de contratos no âmbito das parcerias público-privadas, de acordo com as orientações definidas pela Administração Central do Sistema de Saúde, I. P., e afectar os respectivos recursos financeiros;\n\nl) Negociar, celebrar e acompanhar, de acordo com as orientações definidas a nível nacional, os contratos, protocolos e convenções de âmbito regional, bem como efectuar a respectiva avaliação e revisão, no âmbito da prestação de cuidados de saúde bem como nas áreas referidas nas alíneas e) e f);\n\nm) Orientar, prestar apoio técnico e avaliar o desempenho das instituições e serviços prestadores de cuidados de saúde, de acordo com as políticas definidas e com as orientações e normativos emitidos pelos serviços e organismos centrais competentes nos diversos domínios de intervenção;\n\nn) Assegurar a adequada articulação entre os serviços prestadores de cuidados de saúde de modo a garantir o cumprimento da rede de referenciação;\n\no) Afectar recursos financeiros, mediante a celebração, acompanhamento e revisão de contratos no âmbito dos cuidados continuados integrados;\n\np) Elaborar programas funcionais de estabelecimentos de saúde;\n\nq) (Revogada.)\n\nr) Emitir pareceres sobre planos directores de unidades de saúde, bem como sobre a criação, modificação e fusão de serviços;\n\ns) Emitir pareceres sobre a aquisição e expropriação de terrenos e edifícios para a instalação de serviços de saúde, bem como sobre projectos das instalações de prestadores de cuidados de saúde.\n\nt)  Coordenar a nível regional a gestão da Rede Nacional de Cuidados Paliativos, de acordo com as orientações definidas a nível nacional.\n\n3 - Para a prossecução das suas atribuições, as ARS, I. P., podem colaborar entre si e com outras entidades do sector público ou privado, com ou sem fins lucrativos, nos termos da legislação em vigor.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 127/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), em vigor a partir de 2014-09-01"
+  },
+  "201444631": {
+   "fragment_id": "201444690",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - As ARS, I. P., exercem as suas atribuições nas áreas correspondentes ao nível ii da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS).\n\n2 - As ARS, I. P., têm sede:\n\na) ARS do Norte, I. P., no Porto;\n\nb) ARS do Centro, I. P., em Coimbra;\n\nc) ARS de Lisboa e Vale do Tejo, I. P., em Lisboa;\n\nd) ARS do Alentejo, I. P., em Évora;\n\ne) ARS do Algarve, I. P., em Faro.\n\n3 - (Revogado).\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) a alteração ao presente artigo, produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01"
+  },
+  "201444630": {
+   "fragment_id": "201444691",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 127/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), em vigor a partir de 2014-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - As ARS, I. P., têm por missão assegurar o planeamento regional dos recursos, numa ótica de coordenação intersectorial, promovendo a coesão territorial na área da saúde e desenvolvendo atividades no âmbito da saúde pública e dos comportamentos aditivos e dependências.\n\n2 - São atribuições de cada ARS, I. P., no âmbito das circunscrições territoriais respectivas:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) Desenvolver e fomentar actividades no âmbito da saúde pública, de modo a garantir a protecção e promoção da saúde das populações;\n\ne) Assegurar a execução dos programas de intervenção local com vista à redução do consumo de substâncias psicoactivas, a prevenção dos comportamentos aditivos e a diminuição das dependências;\n\nf) Apoiar a nível regional a coordenação nacional da Rede Nacional de Cuidados Continuados Integrados;\n\ng) Assegurar o planeamento regional dos recursos, incluindo a execução e acompanhamento dos necessários projetos de investimento das instituições e serviços prestadores de cuidados de saúde em articulação com a Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.);\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nl) (Revogada.)\n\nm) Prestar apoio técnico às instituições e serviços prestadores de cuidados de saúde, de acordo com as políticas definidas e com as orientações e normativos emitidos pelos serviços e organismos centrais competentes nos diversos domínios de intervenção;\n\nn) (Revogada.)\n\no) (Revogada.)\n\np) (Revogada.)\n\nq) (Revogada.)\n\nr) (Revogada.)\n\ns) (Revogada.)\n\nt) Apoiar a nível regional a coordenação nacional da Rede Nacional de Cuidados Paliativos, em articulação com a DE-SNS, I. P.;\n\nu) Assegurar a prestação centralizada de atividades comuns nas áreas dos recursos humanos e financeiros às instituições e serviços do SNS da sua região.\n\n3 - Para a prossecução das suas atribuições, as ARS, I. P., podem colaborar entre si e com outras entidades do sector público ou privado, com ou sem fins lucrativos, nos termos da legislação em vigor.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) a alteração ao presente artigo, produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 127/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), em vigor a partir de 2014-09-01"
+  },
+  "201444632": {
+   "fragment_id": "201444693",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho directivo",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho directivo\n\n1 - As ARS, I. P., são dirigidas por um conselho directivo, constituído por um presidente, um vice-presidente e dois vogais nas ARS do Norte, do Centro e de Lisboa e Vale do Tejo, por um presidente e dois vogais nas ARS do Alentejo e do Algarve.\n\n2 - (Revogado);\n\n3 - (Revogado);\n\n4 - O conselho directivo pode delegar nos seus membros as competências que lhe sejam cometidas.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) a alteração ao presente artigo, produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01"
+  },
+  "222692870": {
+   "fragment_id": "201444691",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 127/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), em vigor a partir de 2014-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - As ARS, I. P., têm por missão assegurar o planeamento regional dos recursos, numa ótica de coordenação intersetorial, promovendo a coesão territorial na área da saúde e desenvolvendo atividades no âmbito da saúde pública.\n\n2 - São atribuições de cada ARS, I. P., no âmbito das circunscrições territoriais respectivas:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) Desenvolver e fomentar actividades no âmbito da saúde pública, de modo a garantir a protecção e promoção da saúde das populações;\n\ne) (Revogada.)\n\nf) Apoiar a nível regional a coordenação nacional da Rede Nacional de Cuidados Continuados Integrados;\n\ng) Assegurar o planeamento regional dos recursos, incluindo a execução e acompanhamento dos necessários projetos de investimento das instituições e serviços prestadores de cuidados de saúde em articulação com a Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.);\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nl) (Revogada.)\n\nm) Prestar apoio técnico às instituições e serviços prestadores de cuidados de saúde, de acordo com as políticas definidas e com as orientações e normativos emitidos pelos serviços e organismos centrais competentes nos diversos domínios de intervenção;\n\nn) (Revogada.)\n\no) (Revogada.)\n\np) (Revogada.)\n\nq) (Revogada.)\n\nr) (Revogada.)\n\ns) (Revogada.)\n\nt) Apoiar a nível regional a coordenação nacional da Rede Nacional de Cuidados Paliativos, em articulação com a DE-SNS, I. P.;\n\nu) Assegurar a prestação centralizada de atividades comuns nas áreas dos recursos humanos e financeiros às instituições e serviços do SNS da sua região.\n\n3 - Para a prossecução das suas atribuições, as ARS, I. P., podem colaborar entre si e com outras entidades do sector público ou privado, com ou sem fins lucrativos, nos termos da legislação em vigor.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) a alteração ao presente artigo, produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 127/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), em vigor a partir de 2014-09-01"
+  },
+  "222692871": {
+   "fragment_id": "201444697",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": "2023-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - As ARS, I. P., dispõem das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - As ARS, I. P., dispõem ainda das seguintes receitas próprias:\n\na) As importâncias cobradas por serviços prestados, no âmbito das respectivas atribuições;\n\nb) As taxas, emolumentos, multas, coimas ou outras atribuídas por lei, regulamento ou contrato;\n\nc) O produto de alienação de bens, direitos ou receitas próprias, nos termos da legislação em vigor;\n\nd) As doações, heranças, legados e subsídios;\n\ne) Os juros de aplicações financeiras junto do Tesouro;\n\nf) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - (Revogado.)\n\n4 - As receitas próprias referidas nos números anteriores são consignadas à realização de despesas das ARS, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos da lei.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+  },
+  "887189111": {
+   "fragment_id": "201444689",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - As Administrações Regionais de Saúde, I. P., abreviadamente designadas por ARS, I. P., são institutos públicos integrados na administração indirecta do Estado, dotados de autonomia administrativa, financeira e património próprio.\n\n2 - As ARS, I. P., prosseguem as suas atribuições, sob superintendência e tutela do membro do Governo responsável pela área da saúde.\n\n3 - As ARS, I. P., regem-se pelas normas constantes do presente decreto-lei, pelo disposto na lei quadro dos institutos públicos e no Estatuto do Serviço Nacional de Saúde e pelas demais normas que lhe sejam aplicáveis.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189112": {
+   "fragment_id": "201444690",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - As ARS, I. P., exercem as suas atribuições nas áreas correspondentes ao nível ii da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS).\n\n2 - As ARS, I. P., têm sede:\n\na) ARS do Norte, I. P., no Porto;\n\nb) ARS do Centro, I. P., em Coimbra;\n\nc) ARS de Lisboa e Vale do Tejo, I. P., em Lisboa;\n\nd) ARS do Alentejo, I. P., em Évora;\n\ne) ARS do Algarve, I. P., em Faro.\n\n3 - (Revogado).\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) a alteração ao presente artigo, produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01"
+  },
+  "887189113": {
+   "fragment_id": "201444691",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 127/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), em vigor a partir de 2014-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - As ARS, I. P., têm por missão assegurar o planeamento regional dos recursos, numa ótica de coordenação intersetorial, promovendo a coesão territorial na área da saúde e desenvolvendo atividades no âmbito da saúde pública.\n\n2 - São atribuições de cada ARS, I. P., no âmbito das circunscrições territoriais respectivas:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) Desenvolver e fomentar actividades no âmbito da saúde pública, de modo a garantir a protecção e promoção da saúde das populações;\n\ne) (Revogada.)\n\nf) Apoiar a nível regional a coordenação nacional da Rede Nacional de Cuidados Continuados Integrados;\n\ng) Assegurar o planeamento regional dos recursos, incluindo a execução e acompanhamento dos necessários projetos de investimento das instituições e serviços prestadores de cuidados de saúde em articulação com a Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.);\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nl) (Revogada.)\n\nm) Prestar apoio técnico às instituições e serviços prestadores de cuidados de saúde, de acordo com as políticas definidas e com as orientações e normativos emitidos pelos serviços e organismos centrais competentes nos diversos domínios de intervenção;\n\nn) (Revogada.)\n\no) (Revogada.)\n\np) (Revogada.)\n\nq) Licenciar as unidades privadas prestadoras de cuidados de saúde e as unidades da área das dependências e comportamentos aditivos do sector social e privado;\n\nr) (Revogada.)\n\ns) (Revogada.)\n\nt) Apoiar a nível regional a coordenação nacional da Rede Nacional de Cuidados Paliativos, em articulação com a DE-SNS, I. P.;\n\nu) Assegurar a prestação centralizada de atividades comuns nas áreas dos recursos humanos e financeiros às instituições e serviços do SNS da sua região.\n\n3 - Para a prossecução das suas atribuições, as ARS, I. P., podem colaborar entre si e com outras entidades do sector público ou privado, com ou sem fins lucrativos, nos termos da legislação em vigor.\n\n> Nota: [Artigo 20.º, Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049) A alteração ao presente artigo produz efeitos na data de entrada em vigor da Lei do Orçamento do Estado para 2024.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) a alteração ao presente artigo, produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 127/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2014-56304801), em vigor a partir de 2014-09-01"
+  },
+  "887189114": {
+   "fragment_id": "201444692",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos das ARS, I. P.:\n\na) O conselho directivo;\n\nb) O fiscal único;\n\nc) O conselho consultivo.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189115": {
+   "fragment_id": "201444693",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho directivo",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01",
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho directivo\n\n1 - As ARS, I. P., são dirigidas por um conselho directivo, constituído por um presidente, um vice-presidente e dois vogais nas ARS do Norte, do Centro e de Lisboa e Vale do Tejo, por um presidente e dois vogais nas ARS do Alentejo e do Algarve.\n\n2 - (Revogado);\n\n3 - (Revogado);\n\n4 - O conselho directivo pode delegar nos seus membros as competências que lhe sejam cometidas.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) a alteração ao presente artigo, produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01, produz efeitos a partir de 2023-01-01"
+  },
+  "887189116": {
+   "fragment_id": "201444694",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei quadro dos institutos públicos.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189117": {
+   "fragment_id": "201444695",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho consultivo",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de actuação das ARS, I. P.\n\n2 - O conselho consultivo tem a seguinte composição:\n\na) Um presidente, designado pelo membro do Governo responsável pela área da saúde;\n\nb) Um membro, por cada uma das NUTS III, como representante da população dos municípios situados na área geográfica de actuação da ARS, I. P., designado pela Associação Nacional de Municípios Portugueses;\n\nc) Um representante de cada associação profissional do sector da saúde.\n\n3 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo seu presidente.\n\n4 - A participação nas reuniões do conselho consultivo não é remunerada.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189118": {
+   "fragment_id": "201444696",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna das ARS, I. P., é a prevista nos respectivos estatutos.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189119": {
+   "fragment_id": "201444697",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - As ARS, I. P., dispõem das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - As ARS, I. P., dispõem ainda das seguintes receitas próprias:\n\na) As importâncias cobradas por serviços prestados, no âmbito das respectivas atribuições;\n\nb) As taxas, emolumentos, multas, coimas ou outras atribuídas por lei, regulamento ou contrato;\n\nc) O produto de alienação de bens, direitos ou receitas próprias, nos termos da legislação em vigor;\n\nd) As doações, heranças, legados e subsídios;\n\ne) Os juros de aplicações financeiras junto do Tesouro;\n\nf) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - (Revogado.)\n\n4 - As receitas próprias referidas nos números anteriores são consignadas à realização de despesas das ARS, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos da lei.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 89/2023 - Diário da República n.º 197/2023, Série I de 2023-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2023-222645049), em vigor a partir de 2023-11-01, produz efeitos a partir de 2024-01-01"
+  },
+  "887189120": {
+   "fragment_id": "201444698",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 10.º — Despesas\n\nConstituem despesas das ARS, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189121": {
+   "fragment_id": "201444699",
+   "type": 11,
+   "heading": "Artigo 11.º — Património",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Património\n\nO património das ARS, I. P., é constituído pela universalidade de bens, direitos e obrigações de que sejam titulares.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189122": {
+   "fragment_id": "201444700",
+   "type": 11,
+   "heading": "Artigo 12.º — Sucessão",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Sucessão\n\nAs ARS, I. P., sucedem, de acordo com a respectiva área geográfica de intervenção, nas atribuições do Instituto da Droga e Toxicodependência, I. P., no domínio do licenciamento das unidades privadas prestadoras de cuidados de saúde na área das toxicodependências e da execução dos programas de intervenção local, do património e dos recursos humanos afectos às delegações regionais.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298) Revoga o presente artigo, na parte relativa ao domínio do licenciamento das unidades privadas prestadoras de cuidados de saúde na área das toxicodependências.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189123": {
+   "fragment_id": "201444701",
+   "type": 11,
+   "heading": "Artigo 13.º — Critérios de selecção de pessoal",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 13.º — Critérios de selecção de pessoal\n\nÉ fixado como critério geral e abstracto de selecção do pessoal necessário à prossecução das atribuições das ARS, I. P., a que se refere o artigo anterior, o desempenho de funções no Instituto da Droga e Toxicodependência, I. P., directamente relacionadas com as atribuições transferidas, ou em áreas de apoio correspondentes às existentes nas ARS, I. P.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189124": {
+   "fragment_id": "201444702",
+   "type": 11,
+   "heading": "Artigo 14.º — Disposição transitória",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 14.º — Disposição transitória\n\n1 - As unidades de intervenção local do extinto Instituto da Droga e Toxicodependência, I. P., com a estrutura e competências previstas nos artigos 1.º e 9.º dos Estatutos do Instituto da Droga e Toxicodependência, I. P., aprovados em anexo à Portaria n.º 648/2007, de 30 de Maio, alterada pela Portaria n.º 925/2010, de 20 de Setembro, e nos artigos 6.º a 14.º do Despacho Normativo n.º 51/2008, de 15 de Setembro, mantêm-se, transitoriamente, até 31 de Dezembro de 2012, no âmbito da organização interna das ARS, I. P., com jurisdição no respectivo âmbito territorial.\n\n2 - Até ao final do prazo referido no número anterior os actuais dirigentes intermédios das unidades de intervenção local mantêm-se em funções de gestão corrente.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 67/2013 - Diário da República n.º 95/2013, Série I de 2013-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2013-261082) prorroga o prazo a que se refere o n.º 1 do presente artigo, até 30 de junho de 2013. O disposto no n.º 2 do presente artigo, observa o prazo o mesmo prazo.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189125": {
+   "fragment_id": "201444703",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 222/2007, de 29 de Maio, com excepção do artigo 22.º\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189126": {
+   "fragment_id": "201444704",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189127": {
+   "fragment_id": "201444705",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.\n\nPromulgado em 13 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 16 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  }
+ }
+}

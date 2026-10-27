@@ -1,0 +1,192 @@
+---
+schema_version: '1.0'
+id: pt:dre:905997314:por
+title: Portaria n.º 98/2025/2
+short_title: null
+summary: Procede à reprogramação dos encargos plurianuais previamente autorizados pela Portaria n.º 479/2023, publicada no
+  Diário da República, 2.ª série, n.º 169, de 31 de agosto de 2023.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente e Energia - Gabinete da Ministra do Ambiente e Energia
+proposing_entity: null
+official_number: 98/2025/2
+official_date: null
+publication_date: '2025-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/2025, Série II de 2025-02-04
+  number: '24'
+  series: II
+  supplement: null
+  pages: 172 - 173
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/02/024000000/0017200173.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '905997314'
+  dre_path: /dr/detalhe/portaria/98-2025-905997314
+  internal: pt:dre:905997314:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-2025-905997314
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-2025-905997314
+  consolidated_url: null
+  retrieved_at: '2026-10-23T18:01:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 15ed0a095cc427ff8543abcae9ef026894ffe6d2e854eca8ab2ca8a19817475d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T18:01:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:135843143:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:136476384:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175923959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:208644736:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221101364:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:221988061:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:225051065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:839477381:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:864224972:por
+  label: null
+  source: null
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T18:01:43Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 98/2025/2
+
+O Fundo Ambiental (FA), criado pelo [Decreto-Lei n.º 42-A/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), de 12 de agosto, alterado pelo [Decreto-Lei n.º 114/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), de 15 de dezembro, tem por finalidade apoiar políticas ambientais para a prossecução dos objetivos do desenvolvimento sustentável, contribuindo para o cumprimento de compromissos nacionais e internacionais, financiando entidades, atividades ou projetos que cumpram os objetivos enunciados no artigo 3.º do referido diploma, entre os quais, projetos que contribuam para a gestão florestal sustentável.
+
+O Plano Nacional de Gestão Integrada de Fogos Rurais (PNGIFR), aprovado pela [Resolução do Conselho de Ministros n.º 45-A/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-a-2020-135843143), de 16 de junho, surge na sequência dos incêndios de 2017, introduzindo uma visão que pretende adotar múltiplas soluções, de modo inclusivo e integrado, valorizando e cuidando o território com o objetivo de o proteger de incêndios rurais graves. Das prioridades principais transpostas da Estratégia 20-30 do PNGIFR para o seu Programa Nacional de Ação, pretende-se aumentar a sustentabilidade e o valor económico da floresta, diversificando e valorizando os empregos rurais, assegurando a correta gestão de combustível nos espaços rurais.
+
+Nesta senda, o Programa de Transformação da Paisagem, aprovado pela [Resolução do Conselho de Ministros n.º 49/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2020-136476384), de 24 de junho, e respetiva delimitação dos territórios vulneráveis, veio, por sua vez, reconhecer que há uma parte do País que requer um conjunto de investimentos assentes em políticas públicas integradas e modelos de financiamento adequados às especificidades destes territórios, que promovam uma mudança estrutural nos modelos de ocupação e gestão dos solos, de modo a reduzir a frequência e intensidade dos incêndios rurais e, assim, contribuir para que o País atinja a neutralidade carbónica em 2050 com o contributo das florestas, enquanto principal sequestrador de carbono em Portugal.
+
+O que se pretende é dar uma resposta às elevadas cargas de combustível vegetal, numa vasta área de território, caracterizada por uma paisagem monocultural de floresta e matos. Este aviso, de caráter piloto, pretende dar resposta a uma componente muito relevante na gestão do combustível - os seus sobrantes -, otimizando a sua gestão e valorização, contribuindo para reduzir as ignições através da realização de queimas. Pretende apoiar a recolha e processamento de sobrantes de explorações florestais, agroflorestais e agrícolas, através da criação de locais de destino temporário destes materiais e do apoio aos processos de abastecimento e logística para compostagem e sua subsequente valorização.
+
+Nos termos do quadro 5 do [Despacho n.º 3355-A/2023](https://diariodarepublica.pt/dr/detalhe/despacho/3355-a-2023-208644736), publicado no Diário da República, 2.ª série, n.º 52, de 14 de março de 2023, que aprovou o orçamento do FA para o ano de 2023, este Fundo deveria apoiar projetos na área temática da «Floresta e gestão florestal sustentável», mediante a publicação de aviso para apresentação de candidaturas direcionadas ao «Apoio à criação de ecopontos florestais ou de compostagem» tendo como beneficiários elegíveis as autarquias locais, as comunidades intermunicipais e empresas municipais e intermunicipais, até ao montante de 1,5 milhões de euros.
+
+Com a publicação da [Portaria n.º 479/2023](https://diariodarepublica.pt/dr/detalhe/portaria/479-2023-221101364), publicada no Diário da República, 2.ª série, n.º 169, de 31 de agosto de 2023, o FA foi autorizado a efetuar a repartição de encargos relativos ao [Aviso n.º 18404/2023](https://diariodarepublica.pt/dr/detalhe/aviso/18404-2023-221988061), de 11 de setembro, publicado no Diário da República, 2.ª série, n.º 186, de 25 de setembro de 2023, alterado pelo [Despacho n.º 12221-D/2023](https://diariodarepublica.pt/dr/detalhe/despacho/12221-d-2023-225051065), publicado no Diário da República, 2.ª série, n.º 231, de 29 de novembro de 2023, para apoio ao programa «Apoio à criação de ecopontos florestais ou de compostagem», no período de 2023 e 2024.
+
+Tendo as candidaturas sido submetidas na plataforma do FA até dezembro de 2023, as mesmas não foram avaliadas no início de 2024, pelo facto de o FA, à data, não ter disponível uma equipa de peritos para avaliação de mérito das candidaturas, nem ter sido possível encontrar alternativa para a avaliação destas candidaturas no organismo com competências técnicas nesta matéria.
+
+Considerando que, atualmente, existe equipa para proceder à avaliação de mérito das candidaturas, e que continua pertinente a execução deste programa de caráter piloto, torna-se indispensável proceder à reprogramação temporal da autorização concedida através da [Portaria n.º 479/2023](https://diariodarepublica.pt/dr/detalhe/portaria/479-2023-221101364), publicada no Diário da República, 2.ª série, n.º 169, de 31 de agosto de 2023, alterando o horizonte de dezembro de 2024, para dezembro de 2025, mantendo-se o apoio financeiro total € 1 500 000.
+
+Neste contexto, torna-se necessário proceder à reprogramação do encargo plurianual autorizado pela referida portaria, de forma a adaptá-lo para que o programa seja executado.
+
+De acordo com o n.º 9 do artigo 44.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, que estabelece as normas de execução do Orçamento do Estado para 2024 (DLEO 2024), a reprogramação de encargos plurianuais previamente autorizados ao abrigo do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, carece apenas da autorização do membro do Governo responsável pela área setorial, traduzida no alargamento do período temporal da despesa referente a contrato a executar, desde que não seja ultrapassado o valor total da despesa autorizada e o prazo de execução do contrato abrangido pela autorização inicialmente conferida e que o alargamento temporal da despesa não ultrapasse um ano económico.
+
+Nos termos do n.º 10 do artigo 44.º do DLEO 2024, a reprogramação destes encargos deve ser objeto de registo no Sistema Central de Encargos Plurianuais a que se refere o artigo 13.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, devendo a autorização ser conferida através de portaria.
+
+Assim:
+
+Manda o Governo, pela Ministra do Ambiente e Energia, ao abrigo do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, mantido expressamente em vigor por força do estatuído na alínea f) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, no n.º 9 do artigo 44.º do [Decreto-Lei n.º 17/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), de 29 de janeiro, todos na sua redação atual, e no artigo 25.º da Lei Orgânica do XXIV Governo Constitucional, aprovada pelo [Decreto-Lei n.º 32/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2024-864224972), de 10 de maio, o seguinte:
+
+###### Artigo 1.º
+
+Fica o Fundo Ambiental autorizado a efetuar a repartição de encargos relativos ao [Aviso n.º 18404/2023](https://diariodarepublica.pt/dr/detalhe/aviso/18404-2023-221988061), de 11 de setembro, para apoio financeiro a candidaturas direcionadas ao programa «Apoio à criação de ecopontos florestais ou de compostagem», no triénio de 2023-2025.
+
+###### Artigo 2.º
+
+Os encargos decorrentes deste projeto, num montante total de € 1 500 000, valor ao qual não acresce IVA por se tratar de um apoio financeiro, não podem exceder, em cada ano económico, os seguintes montantes:
+
+a) Em 2023: € 0;
+
+b) Em 2024: € 0;
+
+c) Em 2025: € 1 500 000.
+
+###### Artigo 3.º
+
+Os encargos emergentes da presente portaria serão satisfeitos por verbas a inscrever no orçamento do Fundo Ambiental.
+
+###### Artigo 4.º
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+29 de janeiro de 2025. - A Ministra do Ambiente e Energia, Maria da Graça Carvalho.
+
+318632093

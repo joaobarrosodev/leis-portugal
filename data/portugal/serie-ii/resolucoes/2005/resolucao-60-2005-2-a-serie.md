@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:1410013:por
+title: Resolução n.º 60/2005 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações - Gabinete do Secretário de Estado Adjunto, das Obras Públicas
+  e das Comunicações
+proposing_entity: null
+official_number: 60/2005 (2.ª série)
+official_date: null
+publication_date: '2005-09-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/2005, Série II de 2005-09-16
+  number: '179'
+  series: II
+  supplement: null
+  pages: 13553 - 13553
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/09/179000000/1355313553.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1410013'
+  dre_path: /dr/detalhe/resolucao/60-2005-1410013
+  internal: pt:dre:1410013:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/60-2005-1410013
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/60-2005-1410013
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:13:04Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e2693594d80aba02f3ef1ef7b45c494ea1709eab9a7518b559ad0f70a38733fc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:13:04Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Auto-estrada
+- Auto-estrada do Grande Porto
+- Expropriação
+- Rede de Estradas
+- SCUT
+- Utilidade Pública
+relationships:
+- type: cites
+  target: pt:dre:173758:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:13:04Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 60/2005 (2.ª série)
+
+Resolução n.º 60/2005 (2.ª série). - Resolução fundamentada (artigo 128.º do Código de Processo nos Tribunais Administrativos). - Dora Elvira Vasconcelos da Cunha Teixeira e Maria da Graça dos Reis Vasconcelos intentaram no Tribunal Administrativo e Fiscal de Penafiel providência cautelar requerendo a suspensão da eficácia dos actos administrativos correspondentes à resolução de expropriar e dos despachos do Secretário de Estado Adjunto, das Obras Públicas e das Comunicações n.os 13 457-B/2005 (2.ª série) e 13 457-C/2005 (2.ª série), ambos de 25 de Maio, publicados no Diário da República, 2.ª série, n.º 115, de 17 de Junho de 2005, correndo tal processo no mencionado Tribunal sob o n.º 372/05.OBEPNF.
+
+Considerando:
+
+Que pelos despachos supra-identificados foi declarada a utilidade pública, com carácter de urgência, da expropriação de um conjunto de parcelas de terreno necessárias à execução da obra SCUT Grande Porto - A 42/IC 25 - lanço do nó da EN 106-nó do IP 9 (Lousada) - Plena Via e A 42/IC 25 - lanço do nó da EN 106-nó do 1P 9 (Lousada) - nó da Lousada;
+
+Que entre as parcelas abrangidas pelas mencionadas declarações de utilidade pública da expropriação se encontram as parcelas n.os 5C e 114, respectivamente parcela com 16 771 m2, inscrita na matriz predial rústica sob o artigo 659 da freguesia de Silvares, e parcela com 45 864 m2, inscrita na matriz predial rústica sob o artigo 487 da freguesia de Silvares, ambas no concelho de Lousada;
+
+Que a urgência das expropriações dos bens imóveis para a execução desta obra se fundamenta no disposto no artigo 161.º do Estatuto das Estradas Nacionais, aprovado pela [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949, e no n.º 1 da base XXII do [Decreto-Lei n.º 189/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2002-173758), de 28 de Agosto;
+
+Que o referido empreendimento foi objecto de contrato de concessão celebrado entre o Estado Português e a LUSOSCUT - Auto Estradas do Grande Porto (ACE), aprovado pelo [Decreto-Lei n.º 189/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-2002-173758), de 28 de Agosto. Trata-se pois de uma parceria público-privada, cujas obrigações e direitos das partes signatárias se encontram estabelecidos contratualmente;
+
+Que estamos perante a execução de uma auto-estrada que se enquadra no plano rodoviário nacional, de grande interesse regional e nacional;
+
+Que é pública e notória a importância social e económica associada à construção desta infra-estrutura viária tão relevante para a região envolvente e para o conjunto do País;
+
+Que, de acordo com o plano de trabalhos em vigor, esta auto-estrada se encontra numa fase adiantada de execução e uma eventual paralisação dos trabalhos na zona das parcelas em causa implica, forçosamente, a paralisação das obras de construção levadas a cabo pela respectiva concessionária;
+
+Que os meios materiais e humanos se encontram à disposição e em plena laboração no local da situação do empreendimento, de modo a levar a cabo, dentro dos prazos e projectos acordados, a construção dos lanços de auto-estrada e conjuntos vários associados que compõe a referida concessão;
+
+Que estamos em pleno Verão, época imprescindível para concluir trabalhos que têm de ser executados com tempo seco;
+
+Que, nos termos do n.º 4 da base XXIII da concessão, "qualquer atraso, não imputável à concessionária, na entrega pelo concedente de bens e direitos expropriados, que impeça que a concessionária dê início a obras e trabalhos nesses bens ou ao exercício desses direitos, conferirá à concessionária direito à reposição do equilíbrio da concessão nos termos da base LXXXIV";
+
+Que, nos termos do contrato de concessão, a concedente, no prazo de seis meses, deverá garantir a libertação de terrenos em termos tais que permitam o início dos trabalhos de construção nos mesmos, da responsabilidade da concessionária, sob pena de resultarem para o Estado gravosos prejuízos financeiros, resultantes da activação do indicado mecanismo financeiro da concessão;
+
+Que a não execução dos despachos de declaração de utilidade pública implicará a paralisação das obras de construção e, portanto, o incumprimento dos prazos associados ao empreendimento, o que, a acontecer, será fortemente lesivo do interesse público, originando, através dos mecanismos contratuais, eventuais pedidos de reposição do equilíbrio financeiro;
+
+Que, tratando-se de uma auto-estrada concessionada, qualquer atraso na sua execução implicará sobrecustos de construção, desequilibrando a equação financeira subjacente ao contrato de concessão;
+
+Que de todo o exposto resulta a verificação de que seria gravemente prejudicial para o interesse público o diferimento da execução dos despachos do Secretário de Estado Adjunto, das Obras Públicas e das Comunicações n.os 13 457-B/2005
+
+(2.ª série) e 13 457-C/2005 (2.ª série), ambos de 25 de Maio, publicados no Diário da República, 2.ª série, n.º 115, de 17 de Junho de 2005, interesse público que aqui se sobrepõe ao interesse particular de obter a suspensão do mesmo despacho;
+
+Assim, nos termos e para os efeitos do disposto no n.º 1 do artigo 128.º do Código de Processo nos Tribunais Administrativos, reconheço a existência de grave urgência para o interesse público na imediata execução dos despachos do Secretário de Estado Adjunto, das Obras Públicas e das Comunicações n.os 13 457-B/2005 (2.ª série) e 13 457-C/2005 (2.ª série), ambos de 25 de Maio, publicados no Diário da República, 2.ª série, n.º 115, de 17 de Junho de 2005, que declarou a utilidade pública da expropriação de um conjunto de parcelas de terreno necessárias à execução da obra SCUT Grande Porto - A 42/IC 25 - lanço do nó da EN 106-nó do lP 9 (Lousada), nelas se incluindo as parcelas n.os 5C e 114, e, em consequência, reconheço que seria gravemente prejudicial para tal interesse público o diferimento da execução dos citados despachos, determinando, em consequência, que, não obstante a pendência da providencia cautelar supra-identificada, se prossiga com a execução.
+
+29 de Agosto de 2005. - O Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, Paulo Jorge Oliveira Ribeiro de Campos.

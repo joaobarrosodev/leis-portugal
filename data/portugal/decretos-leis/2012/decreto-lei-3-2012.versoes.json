@@ -1,0 +1,829 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544575:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-114157278",
+ "dre_path": "/dr/detalhe/decreto-lei/3-2012-544575",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-01-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114156805",
+    "114156806",
+    "114156807",
+    "114156808",
+    "114156809",
+    "114156810",
+    "114156811",
+    "114156812",
+    "114156813",
+    "114156814",
+    "114156815",
+    "114156816",
+    "114156817",
+    "114156818",
+    "114156819",
+    "114156820",
+    "114156822"
+   ]
+  },
+  {
+   "date": "2013-12-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:484376:por",
+     "title": "Decreto-Lei n.º 162/2013",
+     "published": "2013-12-04",
+     "dre_path": "/dr/detalhe/decreto-lei/162-2013-484376"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "114156805",
+    "114156806",
+    "114156807",
+    "114156829",
+    "114156832",
+    "114156833",
+    "114156834",
+    "114156835",
+    "114156836",
+    "114156837",
+    "114156838",
+    "114156839",
+    "114156840",
+    "114156841",
+    "114156842",
+    "114156843",
+    "114156844",
+    "114156845",
+    "114156846"
+   ]
+  },
+  {
+   "date": "2014-05-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25343754:por",
+     "title": "Decreto-Lei n.º 69/2014",
+     "published": "2014-05-09",
+     "dre_path": "/dr/detalhe/decreto-lei/69-2014-25343754"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Adita Artigo 6.º-A",
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "114156805",
+    "114156806",
+    "114157678",
+    "114157682",
+    "114157683",
+    "114157684",
+    "114157685",
+    "114157686",
+    "114157687",
+    "114157699",
+    "114157700",
+    "114157701",
+    "114157702",
+    "114157703",
+    "114157704",
+    "114157705",
+    "114157711",
+    "114157712",
+    "114157713",
+    "114157714",
+    "114157715",
+    "114157717"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:25343754:por",
+     "title": "Decreto-Lei n.º 69/2014",
+     "published": "2014-05-09",
+     "dre_path": "/dr/detalhe/decreto-lei/69-2014-25343754",
+     "date": "2014-05-14"
+    }
+   ]
+  },
+  {
+   "date": "2017-11-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114152775:por",
+     "title": "Decreto-Lei n.º 136/2017",
+     "published": "2017-11-06",
+     "dre_path": "/dr/detalhe/decreto-lei/136-2017-114152775"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 2.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 6.º-A",
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º-A"
+   ],
+   "fragments": [
+    "114156805",
+    "114157718",
+    "114157719",
+    "114157720",
+    "114157683",
+    "114157684",
+    "114157721",
+    "114157686",
+    "114157722",
+    "114157723",
+    "114157724",
+    "114157701",
+    "114157702",
+    "114157703",
+    "114157726",
+    "114157705",
+    "114157725",
+    "114157712",
+    "114157713",
+    "114157714",
+    "114157715",
+    "114157717"
+   ]
+  },
+  {
+   "date": "2023-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835994077:por",
+     "title": "Decreto-Lei n.º 139-A/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/139-a-2023-835994077"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º-A"
+   ],
+   "fragments": [
+    "114156805",
+    "114157718",
+    "114157719",
+    "114157720",
+    "114157683",
+    "114157684",
+    "114157721",
+    "114157686",
+    "114157722",
+    "836099526",
+    "114157724",
+    "114157701",
+    "114157702",
+    "114157703",
+    "114157726",
+    "114157705",
+    "114157725",
+    "114157712",
+    "114157713",
+    "114157714",
+    "114157715",
+    "114157717"
+   ]
+  },
+  {
+   "date": "2026-04-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:962603401:por",
+     "title": "Decreto-Lei n.º 125/2025",
+     "published": "2025-12-04",
+     "dre_path": "/dr/detalhe/decreto-lei/125-2025-962603401"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º-A"
+   ],
+   "fragments": [
+    "114156805",
+    "114157718",
+    "114157719",
+    "960548111",
+    "114157683",
+    "114157684",
+    "114157721",
+    "114157686",
+    "114157722",
+    "836099526",
+    "114157724",
+    "114157701",
+    "114157702",
+    "114157703",
+    "114157726",
+    "114157705",
+    "114157725",
+    "114157712",
+    "114157713",
+    "114157714",
+    "114157715",
+    "114157717"
+   ]
+  }
+ ],
+ "fragments": {
+  "114156805": {
+   "fragment_id": "114157279",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 3/2012\n\nde 16 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNuma primeira fase do PREMAC foram aprovados os diplomas correspondentes às diversas leis orgânicas dos vários ministérios. De entre esses diplomas, o Decreto-Lei n.º 126-A/2011, de 29 de Dezembro, aprovou a Lei Orgânica da Presidência do Conselho de Ministros (PCM), que funciona como centro do Governo e como departamento governamental sede de diversas políticas transversais, prevendo, desde logo, um significativo conjunto de extinções, fusões e reestruturações de serviços e organismos da administração directa e indirecta do Estado.\n\nO Gabinete Nacional de Segurança (GNS), que funcionava junto do Gabinete Coordenador de Segurança, foi um dos serviços objecto de reestruturação. Com a extinção daquele órgão coordenador, o GNS reassume a sua autonomia como serviço central da administração directa do Estado, no âmbito da PCM.\n\nO GNS mantém como missão aquela que é a sua tradicional esfera de intervenção, de entidade que garante a segurança da informação classificada no âmbito nacional e das organizações internacionais de que Portugal é parte e, através do seu director-geral, que é por inerência a Autoridade Nacional de Segurança, a de autoridade de credenciação de pessoas e empresas para o acesso e manuseamento daquele tipo de informação.\n\nA importância do GNS no quadro do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (SCEE), onde assume a função de autoridade credenciadora e de fiscalização de entidades que nele actuam, justifica ainda que esta área de actuação seja expressamente consagrada na sua missão.\n\nFinalmente, aproveitou-se para levar a cabo a adaptação das atribuições aos conceitos usados na área da segurança da informação classificada, bem como uma adequação terminológica aos diplomas legais aplicáveis à Administração Pública e aos trabalhadores que exercem funções públicas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114156806": {
+   "fragment_id": "114157280",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Gabinete Nacional de Segurança, abreviadamente designado por GNS, é um serviço central da administração directa do Estado, dotado de autonomia administrativa, na dependência do Primeiro-Ministro ou do membro do Governo em quem aquele delegar.\n\n2 - A Autoridade Nacional de Segurança, abreviadamente designada por ANS, dirige o GNS e é a entidade que exerce, em exclusivo, a protecção e a salvaguarda da informação classificada."
+  },
+  "114156807": {
+   "fragment_id": "114157281",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - O GNS tem por missão garantir a segurança da informação classificada no âmbito nacional e das organizações internacionais de que Portugal é parte e exercer a função de autoridade de credenciação de pessoas e empresas para o acesso e manuseamento de informação classificada, bem como a de autoridade credenciadora e de fiscalização de entidades que actuem no âmbito do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (SCEE).\n\n2 - O GNS prossegue as seguintes atribuições:\n\na) Garantir a articulação e a harmonização dos procedimentos relativos à segurança da informação classificada em todos os serviços, organismos e entidades, públicos ou privados, onde seja administrada tal informação, designadamente e em especial, os da Administração Pública, das forças armadas e das forças e serviços de segurança, bem como no âmbito das organizações, reuniões, programas, contratos, projectos e outras actividades internacionais em que Portugal participe;\n\nb) Assegurar, nos termos dos instrumentos de vinculação do Estado Português, a protecção e a salvaguarda da informação classificada emanada das organizações internacionais de que Portugal faça parte ou das respectivas estruturas internas, nomeadamente no âmbito da Organização do Tratado do Atlântico Norte (OTAN), da União Europeia (UE), Unidade Europeia de Cooperação Judiciária (EUROJUST) e da Agência Espacial Europeia (AEE), bem como de outros Estados com os quais tenha sido celebrado acordos de segurança;\n\nc) Exercer em Portugal os poderes públicos cometidos às autoridades nacionais de segurança, nomeadamente nas áreas da credenciação de segurança, segurança das comunicações, distribuição e outras, nos termos das normas aprovadas pelas entidades internacionais competentes;\n\nd) Proceder ao registo, distribuição e controlo da informação classificada, bem como de todos os procedimentos inerentes à sua administração, de índole nacional ou confiadas à responsabilidade do Estado Português, garantindo que o material cripto é objecto de medidas específicas de segurança e administrado por canais diferenciados;\n\ne) Fiscalizar e inspeccionar os órgãos de segurança que detenham, a qualquer título e em qualquer suporte, informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional;\n\nf) Avaliar, acreditar e certificar a segurança de produtos e sistemas de comunicações, de informática e de tecnologias de informação que sirvam de suporte ao tratamento, arquivo e transmissão de informação classificada e proceder à realização de limpezas electrónicas;\n\ng) Promover o estudo, a investigação e a difusão das normas e procedimentos de segurança aplicáveis à protecção e salvaguarda da informação classificada, propondo a doutrina a adoptar por Portugal e a formação de pessoal especializado nesta área da segurança;\n\nh) Credenciar as empresas que pretendam exercer as actividades de comércio e indústria de bens e tecnologias militares, nos termos da Lei n.º 49/2009, de 5 de Agosto;\n\ni) Credenciar entidades públicas e privadas para o exercício de actividades industriais, tecnológicas e de investigação, quando tal seja exigido por disposição legal ou regulamentar;\n\nj) Exercer as competências de autoridade credenciadora e de fiscalização de entidades que actuem no âmbito do SCEE, bem como no quadro do regime jurídico dos documentos electrónicos e da assinatura electrónica;\n\nl) Actuar como autoridade responsável pela componente codificada do Sistema GALILEO, credenciar os pontos de contacto nacionais no âmbito da sua componente de segurança e efectuar a gestão de chaves quando da respectiva operação;\n\nm) Exercer as demais atribuições que lhe sejam atribuídas por lei."
+  },
+  "114156808": {
+   "fragment_id": "114157282",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nO GNS é dirigido por um director-geral, coadjuvado por um subdirector-geral, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "114156809": {
+   "fragment_id": "114157283",
+   "type": 11,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n1 - O director-geral é, por inerência, a ANS.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director-geral:\n\na) Superintender tecnicamente nos procedimentos dos serviços, organismos e entidades, públicos ou privados, tendo em vista a garantia da protecção e salvaguarda da informação classificada no âmbito nacional e das organizações, reuniões, programas, contratos, projectos e outras actividades internacionais em que Portugal participe;\n\nb) Garantir o cumprimento das medidas de protecção da informação classificada originada das organizações internacionais de que Portugal faz parte ou das respectivas estruturas internas, bem como de outros Estados, nos termos dos instrumentos de vinculação aplicáveis ao Estado Português;\n\nc) Atribuir, controlar e revogar a credenciação de segurança de pessoas singulares ou colectivas, públicas ou privadas, ou de quaisquer outros serviços ou organismos, onde seja administrada informação classificada ou que necessitem de desenvolver actividades específicas que, nos termos da lei, envolvam a administração dessa informação;\n\nd) Determinar a fiscalização e a inspecção periódica de órgãos de segurança detentores de informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional, de modo a verificar e promover o cumprimento dos normativos, procedimentos e condições de segurança;\n\ne) Autorizar a abertura e determinar o encerramento de órgãos de segurança detentores de informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional, fixando as respectivas atribuições, competências e normas de funcionamento;\n\nf) Determinar a avaliação, a acreditação e a certificação de produtos e sistemas de comunicações, de informática e de tecnologias de informação que sirvam de suporte ao tratamento, arquivo e transmissão de informação classificada;\n\ng) Difundir orientações para a elaboração dos planos de emergência e de contingência destinados a precaver e ou evitar comprometimentos, quebras ou violações de segurança de informação classificada, bem como verificar a sua existência e proceder à respectiva aprovação, teste e actualização;\n\nh) Determinar a abertura de inquéritos de segurança e proceder à respectiva instrução, sempre que haja suspeita ou efectivo comprometimento, quebra ou violação de segurança de informação classificada, indiciar os seus responsáveis e participar, nos termos da lei, às entidades competentes;\n\ni) Emitir normas técnicas sobre os procedimentos a adoptar pelos órgãos de segurança da informação classificada, visando a sua harmonização, protecção e salvaguarda;\n\nj) Conferir os certificados de habilitação exigidos por disposição legal ou regulamentar para requerer a credenciação de segurança, no grau de classificação de segurança e marca pretendidos, às pessoas que desempenhem funções em locais onde é administrada informação classificada ou exerçam actividades específicas, definidas na lei, que envolvam a administração dessa informação;\n\nl) Exercer as competências de credenciação de segurança, proceder ao registo e exercer as demais competências de autoridade credenciadora e de fiscalização das entidades certificadoras integradas no SCEE e das entidades que operam no quadro do regime jurídico dos documentos electrónicos e da assinatura electrónica, nos termos nele previstos;\n\nm) Atribuir credenciação de segurança nacional às empresas que pretendam exercer as actividades de comércio e indústria de bens e tecnologias militares;\n\nn) Atribuir credenciação de segurança a entidades públicas e privadas para o exercício de actividades industriais, tecnológicas e de investigação, quando tal seja exigido por disposição legal ou regulamentar;\n\no) Atribuir credenciação de segurança no âmbito do Sistema GALILEO e proceder à gestão das chaves da sua componente de segurança, quando da respectiva operação;\n\np) Determinar a realização de limpezas electrónicas no âmbito de avaliação de ambientes de segurança nas componentes geral, local e electrónica;\n\nq) Representar Portugal nas reuniões que tratem da protecção e salvaguarda da informação classificada, no âmbito das organizações, estruturas, grupos de trabalho e projectos internacionais de que o País seja parte integrante, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nr) Propor a celebração e colaborar na elaboração dos acordos bilaterais de segurança da informação classificada, em articulação com o Ministério dos Negócios Estrangeiros.\n\n3 - Compete ao subdirector-geral substituir o director-geral nas suas faltas e impedimentos e exercer as competências que por este lhe sejam delegadas ou subdelegadas."
+  },
+  "114156810": {
+   "fragment_id": "114157284",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna do GNS obedece ao modelo de estrutura matricial."
+  },
+  "114156811": {
+   "fragment_id": "114157285",
+   "type": 11,
+   "heading": "Artigo 6.º — Mapa de pessoal e recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Mapa de pessoal e recrutamento\n\n1 - Os postos de trabalho do mapa de pessoal do GNS são ocupados em comissão de serviço, nos termos dos estatutos aplicáveis, ou através do recurso aos instrumentos de mobilidade.\n\n2 - São condições indispensáveis ao recrutamento para qualquer posto de trabalho do mapa de pessoal do GNS a elevada competência profissional e a experiência válida para o exercício da função, a avaliar com base nos respectivos curricula.\n\n3 - Os postos de trabalho previstos no mapa de pessoal do GNS são preferencialmente preenchidos mediante o recrutamento de quadros das forças armadas e das forças e serviços de segurança, pelo período de dois ou três anos, podendo ser renovados por iguais períodos.\n\n4 - O exercício de funções em regime de comissão de serviço ou mobilidade está sujeito a autorização do membro do Governo responsável pelo GNS, salvo quando a remuneração seja assegurada pelo serviço de origem.\n\n5 - O pessoal que exerce funções no GNS em regime de comissão de serviço é remunerado pelo nível 39 da tabela remuneratória única.\n\n6 - O exercício de funções no GNS é contado, para todos os efeitos legais, designadamente para a antiguidade, progressão e promoção nas respectivas carreiras, ainda que se trate de carreiras especiais, como prestado nos lugares de origem."
+  },
+  "114156812": {
+   "fragment_id": "114157286",
+   "type": 11,
+   "heading": "Artigo 7.º — Deveres e incompatibilidades do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Deveres e incompatibilidades do pessoal\n\n1 - O pessoal que exerce funções no GNS é credenciado na marca e grau de classificação de segurança exigidos pelo respectivo conteúdo funcional e em função da informação classificada com que trabalhe ou necessite de conhecer para o desempenho de funções.\n\n2 - Além dos deveres que impendem sobre os trabalhadores que exercem funções públicas, o pessoal que exerce funções no GNS está sujeito ao dever de disponibilidade permanente e de continuada obrigação de sigilo, mesmo após a cessação de funções.\n\n3 - É vedado ao pessoal do GNS o exercício de qualquer actividade pública ou privada susceptível de comprometer os requisitos de isenção, sigilo e disponibilidade permanente inerente às funções que exercem."
+  },
+  "114156813": {
+   "fragment_id": "114157287",
+   "type": 11,
+   "heading": "Artigo 8.º — Estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estatuto remuneratório dos chefes de equipas multidisciplinares\n\nAos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a chefe de divisão ou a director de serviços, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a director de serviços ser atribuído a mais de duas chefias de equipa em simultâneo."
+  },
+  "114156814": {
+   "fragment_id": "114157288",
+   "type": 11,
+   "heading": "Artigo 9.º — Cooperação e dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cooperação e dever de colaboração\n\n1 - No exercício das suas atribuições e competências, o GNS actua em coordenação com os serviços de informações da República Portuguesa, com as forças e os serviços de segurança e com os demais serviços e organismos competentes em matéria de protecção e salvaguarda da informação classificada.\n\n2 - Para assegurar o exercício das suas atribuições, o GNS pode estabelecer parcerias, protocolos e outras formas de cooperação com quaisquer entidades, nacionais ou estrangeiras.\n\n3 - O GNS pode solicitar às autoridades policiais e judiciárias e a quaisquer outros serviços, organismos ou entidades públicas ou privadas toda a colaboração ou auxílio que julgue necessários para o exercício das suas actividades de credenciação e de fiscalização.\n\n4 - Os órgãos dirigentes do GNS, bem como o restante pessoal, desde que devidamente identificados e mandatados, têm direito a aceder, sempre que necessário para o desempenho das suas funções, aos locais, equipamentos e suportes que sirvam ao manuseamento de informação classificada."
+  },
+  "114156815": {
+   "fragment_id": "114157289",
+   "type": 11,
+   "heading": "Artigo 10.º — Apoio logístico e administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apoio logístico e administrativo\n\nO apoio logístico e administrativo indispensável ao bom funcionamento do GNS, designadamente em matéria de gestão de recursos humanos e financeiros, é prestado pela Secretaria-Geral da Presidência do Conselho de Ministros."
+  },
+  "114156816": {
+   "fragment_id": "114157290",
+   "type": 11,
+   "heading": "Artigo 11.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Receitas\n\n1 - O GNS dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O GNS dispõe ainda das seguintes receitas próprias:\n\na) As taxas cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) As quantias que resultem da exploração ou da titularidade de direitos de propriedade sobre produtos, patentes e demais direitos privativos de natureza industrial ou intelectual que venham a ser desenvolvidos no âmbito da actividade do GNS e que pela lei lhe sejam consignados;\n\nc) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;\n\nd) O produto de taxas que por lei lhe sejam consignadas, nomeadamente as decorrentes das funções exercidas no quadro do SCEE;\n\ne) As doações, heranças ou legados de que for beneficiário;\n\nf) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - O valor das taxas cobradas pelo GNS é fixado por portaria dos membros do Governo responsáveis pelo GNS e pela área das finanças."
+  },
+  "114156817": {
+   "fragment_id": "114157291",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas\n\nConstituem despesas do GNS as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "114156818": {
+   "fragment_id": "114157292",
+   "type": 11,
+   "heading": "Artigo 13.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "114156819": {
+   "fragment_id": "114157293",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 170/2007, de 3 de Maio."
+  },
+  "114156820": {
+   "fragment_id": "114157294",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "114156822": {
+   "fragment_id": "114157296",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 13.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "114156829": {
+   "fragment_id": "114157282",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2013-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nO GNS é dirigido por um diretor-geral, coadjuvado por um subdiretor-geral.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+  },
+  "114156832": {
+   "fragment_id": "114157304",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Recrutamento e provimento",
+   "in_force_from": "2013-12-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+   ],
+   "markdown": "###### Artigo 3.º-A — Recrutamento e provimento\n\n1 - O recrutamento para os cargos de diretor-geral e de subdiretor-geral é feito de entre indivíduos licenciados de reconhecida idoneidade, com competência técnica e experiência profissional e licenciatura concluída à data do provimento há, pelo menos, 12 e 8 anos, respetivamente, vinculados ou não à Administração Pública.\n\n2 - O provimento dos cargos de diretor-geral e de subdiretor-geral é feito por despacho do Primeiro-Ministro ou do membro do Governo em quem ele delegar.\n\n3 - Os cargos de diretor-geral e de subdiretor-geral são providos em comissão de serviço por um período de três anos, renovável por iguais períodos.\n\n4 - A renovação da comissão de serviço é comunicada ao interessado até 30 dias antes do seu termo, cessando a mesma automaticamente no final do respetivo período se o Primeiro-Ministro, ou o membro do Governo em quem ele delegar, não tiver manifestado expressamente a intenção de a renovar, caso em que o dirigente se mantém no exercício de funções de gestão corrente até à designação do novo titular do cargo.\n\n5 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do Primeiro-Ministro, ou do membro do Governo em quem ele delegar, por iniciativa deste ou a requerimento do interessado.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+  },
+  "114156833": {
+   "fragment_id": "114157283",
+   "type": 11,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": "2013-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+   ],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n1 - O director-geral é, por inerência, a ANS.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director-geral:\n\na) Superintender tecnicamente nos procedimentos dos serviços, organismos e entidades, públicos ou privados, tendo em vista a garantia da protecção e salvaguarda da informação classificada no âmbito nacional e das organizações, reuniões, programas, contratos, projectos e outras actividades internacionais em que Portugal participe;\n\nb) Garantir o cumprimento das medidas de protecção da informação classificada originada das organizações internacionais de que Portugal faz parte ou das respectivas estruturas internas, bem como de outros Estados, nos termos dos instrumentos de vinculação aplicáveis ao Estado Português;\n\nc) Atribuir, controlar e revogar a credenciação de segurança de pessoas singulares ou colectivas, públicas ou privadas, ou de quaisquer outros serviços ou organismos, onde seja administrada informação classificada ou que necessitem de desenvolver actividades específicas que, nos termos da lei, envolvam a administração dessa informação;\n\nd) Determinar a fiscalização e a inspecção periódica de órgãos de segurança detentores de informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional, de modo a verificar e promover o cumprimento dos normativos, procedimentos e condições de segurança;\n\ne) Autorizar a abertura e determinar o encerramento de órgãos de segurança detentores de informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional, fixando as respectivas atribuições, competências e normas de funcionamento;\n\nf) Determinar a avaliação, a acreditação e a certificação de produtos e sistemas de comunicações, de informática e de tecnologias de informação que sirvam de suporte ao tratamento, arquivo e transmissão de informação classificada;\n\ng) Difundir orientações para a elaboração dos planos de emergência e de contingência destinados a precaver e ou evitar comprometimentos, quebras ou violações de segurança de informação classificada, bem como verificar a sua existência e proceder à respectiva aprovação, teste e actualização;\n\nh) Determinar a abertura de inquéritos de segurança e proceder à respectiva instrução, sempre que haja suspeita ou efectivo comprometimento, quebra ou violação de segurança de informação classificada, indiciar os seus responsáveis e participar, nos termos da lei, às entidades competentes;\n\ni) Emitir normas técnicas sobre os procedimentos a adoptar pelos órgãos de segurança da informação classificada, visando a sua harmonização, protecção e salvaguarda;\n\nj) Conferir os certificados de habilitação exigidos por disposição legal ou regulamentar para requerer a credenciação de segurança, no grau de classificação de segurança e marca pretendidos, às pessoas que desempenhem funções em locais onde é administrada informação classificada ou exerçam actividades específicas, definidas na lei, que envolvam a administração dessa informação;\n\nl) Exercer as competências de credenciação de segurança, proceder ao registo e exercer as demais competências de autoridade credenciadora e de fiscalização das entidades certificadoras integradas no SCEE e das entidades que operam no quadro do regime jurídico dos documentos electrónicos e da assinatura electrónica, nos termos nele previstos;\n\nm) Atribuir credenciação de segurança nacional às empresas que pretendam exercer as actividades de comércio e indústria de bens e tecnologias militares;\n\nn) Atribuir credenciação de segurança a entidades públicas e privadas para o exercício de actividades industriais, tecnológicas e de investigação, quando tal seja exigido por disposição legal ou regulamentar;\n\no) Atribuir credenciação de segurança no âmbito do Sistema GALILEO e proceder à gestão das chaves da sua componente de segurança, quando da respectiva operação;\n\np) Determinar a realização de limpezas electrónicas no âmbito de avaliação de ambientes de segurança nas componentes geral, local e electrónica;\n\nq) Representar Portugal nas reuniões que tratem da protecção e salvaguarda da informação classificada, no âmbito das organizações, estruturas, grupos de trabalho e projectos internacionais de que o País seja parte integrante, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nr) Propor a celebração e colaborar na elaboração dos acordos bilaterais de segurança da informação classificada, em articulação com o Ministério dos Negócios Estrangeiros.\n\n3 - O diretor-geral exerce ainda as competências previstas para os titulares de cargos de direção superior nos termos do estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, aprovado pela Lei n.º 2/2004, de 15 de janeiro.\n\n4 - Compete ao subdirector-geral substituir o director-geral nas suas faltas e impedimentos e exercer as competências que por este lhe sejam delegadas ou subdelegadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+  },
+  "114156834": {
+   "fragment_id": "114157284",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna do GNS obedece ao modelo de estrutura matricial."
+  },
+  "114156835": {
+   "fragment_id": "114157285",
+   "type": 11,
+   "heading": "Artigo 6.º — Mapa de pessoal e recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Mapa de pessoal e recrutamento\n\n1 - Os postos de trabalho do mapa de pessoal do GNS são ocupados em comissão de serviço, nos termos dos estatutos aplicáveis, ou através do recurso aos instrumentos de mobilidade.\n\n2 - São condições indispensáveis ao recrutamento para qualquer posto de trabalho do mapa de pessoal do GNS a elevada competência profissional e a experiência válida para o exercício da função, a avaliar com base nos respectivos curricula.\n\n3 - Os postos de trabalho previstos no mapa de pessoal do GNS são preferencialmente preenchidos mediante o recrutamento de quadros das forças armadas e das forças e serviços de segurança, pelo período de dois ou três anos, podendo ser renovados por iguais períodos.\n\n4 - O exercício de funções em regime de comissão de serviço ou mobilidade está sujeito a autorização do membro do Governo responsável pelo GNS, salvo quando a remuneração seja assegurada pelo serviço de origem.\n\n5 - O pessoal que exerce funções no GNS em regime de comissão de serviço é remunerado pelo nível 39 da tabela remuneratória única.\n\n6 - O exercício de funções no GNS é contado, para todos os efeitos legais, designadamente para a antiguidade, progressão e promoção nas respectivas carreiras, ainda que se trate de carreiras especiais, como prestado nos lugares de origem."
+  },
+  "114156836": {
+   "fragment_id": "114157286",
+   "type": 11,
+   "heading": "Artigo 7.º — Direitos, deveres e incompatibilidades",
+   "in_force_from": "2013-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+   ],
+   "markdown": "###### Artigo 7.º — Direitos, deveres e incompatibilidades\n\n1 - O pessoal que exerce funções no GNS é credenciado na marca e grau de classificação de segurança exigidos pelo respectivo conteúdo funcional e em função da informação classificada com que trabalhe ou necessite de conhecer para o desempenho de funções.\n\n2 - Além dos deveres que impendem sobre os trabalhadores que exercem funções públicas, o pessoal que exerce funções no GNS está sujeito ao dever de disponibilidade permanente e de continuada obrigação de sigilo, mesmo após a cessação de funções.\n\n3 - É vedado ao pessoal do GNS o exercício de qualquer actividade pública ou privada susceptível de comprometer os requisitos de isenção, sigilo e disponibilidade permanente inerente às funções que exercem.\n\n4 - O diretor-geral e o subdiretor-geral estão ainda sujeitos aos regimes de incompatibilidades, impedimentos e inibições e de exclusividade e de acumulação de funções previstos no estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, aprovado pela Lei n.º 2/2004, de 15 de janeiro.\n\n5 - O diretor-geral e o subdiretor-geral gozam igualmente dos direitos previstos no capítulo III do estatuto referido no número anterior, sendo equiparados, para efeitos remuneratórios, respetivamente, a cargos de direção superior de 1.º e 2.º graus.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+  },
+  "114156837": {
+   "fragment_id": "114157287",
+   "type": 11,
+   "heading": "Artigo 8.º — Estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estatuto remuneratório dos chefes de equipas multidisciplinares\n\nAos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a chefe de divisão ou a director de serviços, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a director de serviços ser atribuído a mais de duas chefias de equipa em simultâneo."
+  },
+  "114156838": {
+   "fragment_id": "114157288",
+   "type": 11,
+   "heading": "Artigo 9.º — Cooperação e dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cooperação e dever de colaboração\n\n1 - No exercício das suas atribuições e competências, o GNS actua em coordenação com os serviços de informações da República Portuguesa, com as forças e os serviços de segurança e com os demais serviços e organismos competentes em matéria de protecção e salvaguarda da informação classificada.\n\n2 - Para assegurar o exercício das suas atribuições, o GNS pode estabelecer parcerias, protocolos e outras formas de cooperação com quaisquer entidades, nacionais ou estrangeiras.\n\n3 - O GNS pode solicitar às autoridades policiais e judiciárias e a quaisquer outros serviços, organismos ou entidades públicas ou privadas toda a colaboração ou auxílio que julgue necessários para o exercício das suas actividades de credenciação e de fiscalização.\n\n4 - Os órgãos dirigentes do GNS, bem como o restante pessoal, desde que devidamente identificados e mandatados, têm direito a aceder, sempre que necessário para o desempenho das suas funções, aos locais, equipamentos e suportes que sirvam ao manuseamento de informação classificada."
+  },
+  "114156839": {
+   "fragment_id": "114157289",
+   "type": 11,
+   "heading": "Artigo 10.º — Apoio logístico e administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apoio logístico e administrativo\n\nO apoio logístico e administrativo indispensável ao bom funcionamento do GNS, designadamente em matéria de gestão de recursos humanos e financeiros, é prestado pela Secretaria-Geral da Presidência do Conselho de Ministros."
+  },
+  "114156840": {
+   "fragment_id": "114157290",
+   "type": 11,
+   "heading": "Artigo 11.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Receitas\n\n1 - O GNS dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O GNS dispõe ainda das seguintes receitas próprias:\n\na) As taxas cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) As quantias que resultem da exploração ou da titularidade de direitos de propriedade sobre produtos, patentes e demais direitos privativos de natureza industrial ou intelectual que venham a ser desenvolvidos no âmbito da actividade do GNS e que pela lei lhe sejam consignados;\n\nc) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;\n\nd) O produto de taxas que por lei lhe sejam consignadas, nomeadamente as decorrentes das funções exercidas no quadro do SCEE;\n\ne) As doações, heranças ou legados de que for beneficiário;\n\nf) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - O valor das taxas cobradas pelo GNS é fixado por portaria dos membros do Governo responsáveis pelo GNS e pela área das finanças."
+  },
+  "114156841": {
+   "fragment_id": "114157291",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas\n\nConstituem despesas do GNS as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "114156842": {
+   "fragment_id": "114157292",
+   "type": 11,
+   "heading": "Artigo 13.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "114156843": {
+   "fragment_id": "114157293",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 170/2007, de 3 de Maio."
+  },
+  "114156844": {
+   "fragment_id": "114157294",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "114156845": {
+   "fragment_id": "114157295",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva.\n\nPromulgado em 10 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 12 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "114156846": {
+   "fragment_id": "114157296",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 13.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "114157678": {
+   "fragment_id": "114157281",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2014-05-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - O GNS tem por missão garantir a segurança da informação classificada no âmbito nacional e das organizações internacionais de que Portugal é parte e exercer a função de autoridade de credenciação de pessoas e empresas para o acesso e manuseamento de informação classificada, bem como a de autoridade credenciadora e de fiscalização de entidades que actuem no âmbito do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (SCEE).\n\n2 - No âmbito do GNS funciona o Centro Nacional de Cibersegurança, doravante designado por CNCSeg, que tem por missão contribuir para que o país use o ciberespaço de uma forma livre, confiável e segura, através da promoção da melhoria contínua da cibersegurança nacional e da cooperação internacional, em articulação com todas as autoridades competentes, bem como da implementação das medidas e instrumentos necessários à antecipação, à deteção, reação e recuperação de situações que, face à iminência ou ocorrência de incidentes ou ciberataques, ponham em causa o funcionamento das infraestruturas críticas e os interesses nacionais.\n\n3 - O GNS prossegue as seguintes atribuições:\n\na) Garantir a articulação e a harmonização dos procedimentos relativos à segurança da informação classificada em todos os serviços, organismos e entidades, públicos ou privados, onde seja administrada tal informação, designadamente e em especial, os da Administração Pública, das forças armadas e das forças e serviços de segurança, bem como no âmbito das organizações, reuniões, programas, contratos, projectos e outras actividades internacionais em que Portugal participe;\n\nb) Assegurar, nos termos dos instrumentos de vinculação do Estado Português, a protecção e a salvaguarda da informação classificada emanada das organizações internacionais de que Portugal faça parte ou das respectivas estruturas internas, nomeadamente no âmbito da Organização do Tratado do Atlântico Norte (OTAN), da União Europeia (UE), Unidade Europeia de Cooperação Judiciária (EUROJUST) e da Agência Espacial Europeia (AEE), bem como de outros Estados com os quais tenha sido celebrado acordos de segurança;\n\nc) Exercer em Portugal os poderes públicos cometidos às autoridades nacionais de segurança, nomeadamente nas áreas da credenciação de segurança, segurança das comunicações, distribuição e outras, nos termos das normas aprovadas pelas entidades internacionais competentes;\n\nd) Proceder ao registo, distribuição e controlo da informação classificada, bem como de todos os procedimentos inerentes à sua administração, de índole nacional ou confiadas à responsabilidade do Estado Português, garantindo que o material cripto é objecto de medidas específicas de segurança e administrado por canais diferenciados;\n\ne) Fiscalizar e inspeccionar os órgãos de segurança que detenham, a qualquer título e em qualquer suporte, informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional;\n\nf) Avaliar, acreditar e certificar a segurança de produtos e sistemas de comunicações, de informática e de tecnologias de informação que sirvam de suporte ao tratamento, arquivo e transmissão de informação classificada e proceder à realização de limpezas electrónicas;\n\ng) Promover o estudo, a investigação e a difusão das normas e procedimentos de segurança aplicáveis à protecção e salvaguarda da informação classificada, propondo a doutrina a adoptar por Portugal e a formação de pessoal especializado nesta área da segurança;\n\nh) Credenciar as empresas que pretendam exercer as actividades de comércio e indústria de bens e tecnologias militares, nos termos da Lei n.º 49/2009, de 5 de Agosto;\n\ni) Credenciar entidades públicas e privadas para o exercício de actividades industriais, tecnológicas e de investigação, quando tal seja exigido por disposição legal ou regulamentar;\n\nj) Exercer as competências de autoridade credenciadora e de fiscalização de entidades que actuem no âmbito do SCEE, bem como no quadro do regime jurídico dos documentos electrónicos e da assinatura electrónica;\n\nl) Actuar como autoridade responsável pela componente codificada do Sistema GALILEO, credenciar os pontos de contacto nacionais no âmbito da sua componente de segurança e efectuar a gestão de chaves quando da respectiva operação;\n\nm) Exercer as demais atribuições que lhe sejam atribuídas por lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+  },
+  "114157682": {
+   "fragment_id": "114157337",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Competências do Centro Nacional de Cibergurança",
+   "in_force_from": "2014-05-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+   ],
+   "markdown": "###### Artigo 2.º-A — Competências do Centro Nacional de Cibergurança\n\n1 - Na prossecução da sua missão, o CNCSeg possui as seguintes competências:\n\na) Desenvolver as capacidades nacionais de prevenção, monitorização, deteção, reação, análise e correção destinadas a fazer face a incidentes de cibersegurança e ciberataques;\n\nb) Promover a formação e a qualificação de recursos humanos na área da cibersegurança, com vista à formação de uma comunidade de conhecimento e de uma cultura nacional de cibersegurança;\n\nc) Exercer os poderes de autoridade nacional competente em matéria de cibersegurança, relativamente ao Estado e aos operadores de infraestruturas críticas nacionais;\n\nd) Contribuir para assegurar a segurança dos sistemas de informação e comunicação do Estado e das infraestruturas críticas nacionais;\n\ne) Promover e assegurar a articulação e a cooperação entre os vários intervenientes e responsáveis nacionais na área da cibersegurança;\n\nf) Assegurar a produção de referenciais normativos em matéria de cibersegurança;\n\ng) Apoiar o desenvolvimento das capacidades técnicas, científicas e industriais, promovendo projetos de inovação e desenvolvimento na área da cibersegurança;\n\nh) Assegurar o planeamento da utilização do ciberespaço em situação de crise e de guerra no âmbito do planeamento civil de emergência, no quadro definido pelo Decreto-Lei n.º 73/2013, de 31 de maio;\n\ni) Coordenar a cooperação internacional em matérias da cibersegurança, em articulação com o Ministério dos Negócios Estrangeiros;\n\nj) Exercer as demais competências que lhe sejam atribuídas por lei.\n\n2 - O disposto no número anterior não prejudica as atribuições e competências legalmente cometidas a outras entidades públicas em matéria de segurança do ciberespaço e é exercida em coordenação com estas, através de elementos de ligação designados para o efeito, bem como em cooperação com entidades privadas que exerçam funções naquela matéria.\n\n3 - O CNCSeg atua ainda em articulação e estreita cooperação com as estruturas nacionais responsáveis pela ciberespionagem, ciberdefesa, cibercrime e ciberterrorismo, devendo comunicar à Polícia Judiciária, no mais curto prazo, os factos de que tenha conhecimento relativos à preparação e execução de crimes.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+  },
+  "114157683": {
+   "fragment_id": "114157282",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2014-05-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nO GNS é dirigido por um diretor-geral, coadjuvado por dois subdiretores-gerais, competindo a um destes a coordenação do CNCSeg.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+  },
+  "114157684": {
+   "fragment_id": "114157304",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Recrutamento e provimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+   ],
+   "markdown": "###### Artigo 3.º-A — Recrutamento e provimento\n\n1 - O recrutamento para os cargos de diretor-geral e de subdiretor-geral é feito de entre indivíduos licenciados de reconhecida idoneidade, com competência técnica e experiência profissional e licenciatura concluída à data do provimento há, pelo menos, 12 e 8 anos, respetivamente, vinculados ou não à Administração Pública.\n\n2 - O provimento dos cargos de diretor-geral e de subdiretor-geral é feito por despacho do Primeiro-Ministro ou do membro do Governo em quem ele delegar.\n\n3 - Os cargos de diretor-geral e de subdiretor-geral são providos em comissão de serviço por um período de três anos, renovável por iguais períodos.\n\n4 - A renovação da comissão de serviço é comunicada ao interessado até 30 dias antes do seu termo, cessando a mesma automaticamente no final do respetivo período se o Primeiro-Ministro, ou o membro do Governo em quem ele delegar, não tiver manifestado expressamente a intenção de a renovar, caso em que o dirigente se mantém no exercício de funções de gestão corrente até à designação do novo titular do cargo.\n\n5 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do Primeiro-Ministro, ou do membro do Governo em quem ele delegar, por iniciativa deste ou a requerimento do interessado.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+  },
+  "114157685": {
+   "fragment_id": "114157283",
+   "type": 11,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": "2014-05-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+   ],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n1 - O director-geral é, por inerência, a ANS.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director-geral:\n\na) Superintender tecnicamente nos procedimentos dos serviços, organismos e entidades, públicos ou privados, tendo em vista a garantia da protecção e salvaguarda da informação classificada no âmbito nacional e das organizações, reuniões, programas, contratos, projectos e outras actividades internacionais em que Portugal participe;\n\nb) Garantir o cumprimento das medidas de protecção da informação classificada originada das organizações internacionais de que Portugal faz parte ou das respectivas estruturas internas, bem como de outros Estados, nos termos dos instrumentos de vinculação aplicáveis ao Estado Português;\n\nc) Atribuir, controlar e revogar a credenciação de segurança de pessoas singulares ou colectivas, públicas ou privadas, ou de quaisquer outros serviços ou organismos, onde seja administrada informação classificada ou que necessitem de desenvolver actividades específicas que, nos termos da lei, envolvam a administração dessa informação;\n\nd) Determinar a fiscalização e a inspecção periódica de órgãos de segurança detentores de informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional, de modo a verificar e promover o cumprimento dos normativos, procedimentos e condições de segurança;\n\ne) Autorizar a abertura e determinar o encerramento de órgãos de segurança detentores de informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional, fixando as respectivas atribuições, competências e normas de funcionamento;\n\nf) Determinar a avaliação, a acreditação e a certificação de produtos e sistemas de comunicações, de informática e de tecnologias de informação que sirvam de suporte ao tratamento, arquivo e transmissão de informação classificada;\n\ng) Difundir orientações para a elaboração dos planos de emergência e de contingência destinados a precaver e ou evitar comprometimentos, quebras ou violações de segurança de informação classificada, bem como verificar a sua existência e proceder à respectiva aprovação, teste e actualização;\n\nh) Determinar a abertura de inquéritos de segurança e proceder à respectiva instrução, sempre que haja suspeita ou efectivo comprometimento, quebra ou violação de segurança de informação classificada, indiciar os seus responsáveis e participar, nos termos da lei, às entidades competentes;\n\ni) Emitir normas técnicas sobre os procedimentos a adoptar pelos órgãos de segurança da informação classificada, visando a sua harmonização, protecção e salvaguarda;\n\nj) Conferir os certificados de habilitação exigidos por disposição legal ou regulamentar para requerer a credenciação de segurança, no grau de classificação de segurança e marca pretendidos, às pessoas que desempenhem funções em locais onde é administrada informação classificada ou exerçam actividades específicas, definidas na lei, que envolvam a administração dessa informação;\n\nl) Exercer as competências de credenciação de segurança, proceder ao registo e exercer as demais competências de autoridade credenciadora e de fiscalização das entidades certificadoras integradas no SCEE e das entidades que operam no quadro do regime jurídico dos documentos electrónicos e da assinatura electrónica, nos termos nele previstos;\n\nm) Atribuir credenciação de segurança nacional às empresas que pretendam exercer as actividades de comércio e indústria de bens e tecnologias militares;\n\nn) Atribuir credenciação de segurança a entidades públicas e privadas para o exercício de actividades industriais, tecnológicas e de investigação, quando tal seja exigido por disposição legal ou regulamentar;\n\no) Atribuir credenciação de segurança no âmbito do Sistema GALILEO e proceder à gestão das chaves da sua componente de segurança, quando da respectiva operação;\n\np) Determinar a realização de limpezas electrónicas no âmbito de avaliação de ambientes de segurança nas componentes geral, local e electrónica;\n\nq) Representar Portugal nas reuniões que tratem da protecção e salvaguarda da informação classificada, no âmbito das organizações, estruturas, grupos de trabalho e projectos internacionais de que o País seja parte integrante, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nr) Propor a celebração e colaborar na elaboração dos acordos bilaterais de segurança da informação classificada, em articulação com o Ministério dos Negócios Estrangeiros.\n\n3 - O diretor-geral exerce ainda as competências previstas para os titulares de cargos de direção superior nos termos do estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, aprovado pela Lei n.º 2/2004, de 15 de janeiro.\n\n4 - Os subdiretores gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo diretor-geral, competindo a este designar o subdiretor geral que o substitui nas suas faltas e impedimentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+  },
+  "114157686": {
+   "fragment_id": "114157284",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna do GNS obedece ao modelo de estrutura matricial."
+  },
+  "114157687": {
+   "fragment_id": "114157285",
+   "type": 11,
+   "heading": "Artigo 6.º — Mapa de pessoal e recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Mapa de pessoal e recrutamento\n\n1 - Os postos de trabalho do mapa de pessoal do GNS são ocupados em comissão de serviço, nos termos dos estatutos aplicáveis, ou através do recurso aos instrumentos de mobilidade.\n\n2 - São condições indispensáveis ao recrutamento para qualquer posto de trabalho do mapa de pessoal do GNS a elevada competência profissional e a experiência válida para o exercício da função, a avaliar com base nos respectivos curricula.\n\n3 - Os postos de trabalho previstos no mapa de pessoal do GNS são preferencialmente preenchidos mediante o recrutamento de quadros das forças armadas e das forças e serviços de segurança, pelo período de dois ou três anos, podendo ser renovados por iguais períodos.\n\n4 - O exercício de funções em regime de comissão de serviço ou mobilidade está sujeito a autorização do membro do Governo responsável pelo GNS, salvo quando a remuneração seja assegurada pelo serviço de origem.\n\n5 - O pessoal que exerce funções no GNS em regime de comissão de serviço é remunerado pelo nível 39 da tabela remuneratória única.\n\n6 - O exercício de funções no GNS é contado, para todos os efeitos legais, designadamente para a antiguidade, progressão e promoção nas respectivas carreiras, ainda que se trate de carreiras especiais, como prestado nos lugares de origem."
+  },
+  "114157699": {
+   "fragment_id": "114157338",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Exercício de funções no Centro Nacional de Cibersegurança",
+   "in_force_from": "2014-05-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+   ],
+   "markdown": "###### Artigo 6.º-A — Exercício de funções no Centro Nacional de Cibersegurança\n\n1 - O mapa de pessoal do GNS contém um número de postos de trabalho ocupados por trabalhadores que exercem funções no CNCSeg, doravante designados por trabalhadores do CNCSeg, de acordo com a seguinte distribuição:\n\na) Consultores coordenadores, que podem ser de grau 1 ou 2, um máximo de três;\n\nb) Consultores, que podem ser de grau 1, 2 ou 3, um máximo de 16;\n\nc) Técnicos, que podem ser de grau 1, 2 ou 3, um máximo de nove;\n\nd) Secretária: máximo de um;\n\ne) Motorista: máximo de um.\n\n2 - Os trabalhadores do CNCSeg devem possuir competência técnica, aptidão, experiência profissional e formação adequadas ao exercício daquelas funções e podem ou não ter vínculo à Administração Pública, mas o número dos que não sejam trabalhadores em funções públicas não pode exceder, em cada momento, 50 % do número total de trabalhadores em funções no CNCSeg.\n\n3 - Os trabalhadores do CNCSeg referidos nas alíneas a) a c) do n.º 1 são recrutados nos termos seguintes:\n\na) Os consultores coordenadores e os consultores, de entre licenciados;\n\nb) Os técnicos, de entre quem possua o 12.º ano de escolaridade ou equivalente.\n\n4 - Os trabalhadores do CNCSeg a que se refere o número anterior são remunerados de acordo com os seguintes níveis remuneratórios da tabela remuneratória única dos trabalhadores que exercem funções públicas, aprovada pela Portaria n.º 1553-C/2008, de 31 de dezembro:\n\na) Consultores coordenadores de grau 1 e 2, respetivamente, níveis 58 e 64;\n\nb) Consultores de grau 1, 2 e 3, respetivamente, níveis 47, 50 e 53;\n\nc) Técnicos de grau 1, 2 e 3, respetivamente, níveis 27, 30 e 33.\n\n5 - Os trabalhadores do CNCSeg referidos nas alíneas d) e e) do n.º 1 são recrutados por recurso aos instrumentos de mobilidade previstos na lei geral e têm direito ao estatuto remuneratório de origem.\n\n6 - Os trabalhadores do CNCSeg exercem funções em regime de exclusividade e de disponibilidade permanente e estão isentos de horário de trabalho, não lhes sendo, por isso, devida qualquer remuneração adicional.\n\n7 - Todos os trabalhadores do CNCSeg exercem funções em comissão de serviço e aos que sejam trabalhadores em funções públicas aplicam-se os regimes estatutários de origem ou o disposto nos regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, aprovados pela Lei n.º 12-A/2008, de 12 de fevereiro.\n\n8 - A designação dos trabalhadores do CNCSeg, que tem a duração de um, dois ou três anos, bem como a renovação da respetiva comissão de serviço, que pode ser efetuada por idênticos períodos, compete ao membro do Governo responsável pelo GNS, sem prejuízo do disposto no número seguinte.\n\n9 - A designação de trabalhador em funções públicas para o exercício de funções no CNCSeg, bem como a renovação da respetiva comissão de serviço, pode ser delegada pelo membro do Governo responsável pelo GNS e carece da anuência do membro do Governo responsável pelo serviço, organismo ou entidade a que o trabalhador pertence.\n\n10 - A comissão de serviço considera-se automaticamente renovada se, até 30 dias antes do seu termo, o trabalhador do CNCSeg ou o membro do Governo responsável pelo GNS não tiverem manifestado expressamente a intenção de a fazer cessar, sem que haja lugar ao pagamento de qualquer indemnização.\n\n11 - Aos trabalhadores do CNCSeg é aplicável o disposto no n.º 6 do artigo 6.º e nos n.os 1 a 3 do artigo 7.º\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+  },
+  "114157700": {
+   "fragment_id": "114157286",
+   "type": 11,
+   "heading": "Artigo 7.º — Direitos, deveres e incompatibilidades",
+   "in_force_from": "2014-05-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+   ],
+   "markdown": "###### Artigo 7.º — Direitos, deveres e incompatibilidades\n\n1 - O pessoal que exerce funções no GNS é credenciado na marca e grau de classificação de segurança exigidos pelo respectivo conteúdo funcional e em função da informação classificada com que trabalhe ou necessite de conhecer para o desempenho de funções.\n\n2 - Além dos deveres que impendem sobre os trabalhadores que exercem funções públicas, o pessoal que exerce funções no GNS está sujeito ao dever de disponibilidade permanente e de continuada obrigação de sigilo, mesmo após a cessação de funções.\n\n3 - É vedado ao pessoal do GNS o exercício de qualquer actividade pública ou privada susceptível de comprometer os requisitos de isenção, sigilo e disponibilidade permanente inerente às funções que exercem.\n\n4 - O diretor-geral e os subdiretores gerais estão ainda sujeitos aos regimes de incompatibilidades, impedimentos e inibições e de exclusividade e de acumulação de funções previstos no estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, aprovado pela Lei n.º 2/2004, de 15 de janeiro.\n\n5 - O diretor-geral e os subdiretores gerais gozam igualmente dos direitos previstos no capítulo III do estatuto referido no número anterior, sendo equiparados, para efeitos remuneratórios, respetivamente, a cargos de direção superior de 1.º e 2.º graus.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+  },
+  "114157701": {
+   "fragment_id": "114157287",
+   "type": 11,
+   "heading": "Artigo 8.º — Estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estatuto remuneratório dos chefes de equipas multidisciplinares\n\nAos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a chefe de divisão ou a director de serviços, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a director de serviços ser atribuído a mais de duas chefias de equipa em simultâneo."
+  },
+  "114157702": {
+   "fragment_id": "114157288",
+   "type": 11,
+   "heading": "Artigo 9.º — Cooperação e dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cooperação e dever de colaboração\n\n1 - No exercício das suas atribuições e competências, o GNS actua em coordenação com os serviços de informações da República Portuguesa, com as forças e os serviços de segurança e com os demais serviços e organismos competentes em matéria de protecção e salvaguarda da informação classificada.\n\n2 - Para assegurar o exercício das suas atribuições, o GNS pode estabelecer parcerias, protocolos e outras formas de cooperação com quaisquer entidades, nacionais ou estrangeiras.\n\n3 - O GNS pode solicitar às autoridades policiais e judiciárias e a quaisquer outros serviços, organismos ou entidades públicas ou privadas toda a colaboração ou auxílio que julgue necessários para o exercício das suas actividades de credenciação e de fiscalização.\n\n4 - Os órgãos dirigentes do GNS, bem como o restante pessoal, desde que devidamente identificados e mandatados, têm direito a aceder, sempre que necessário para o desempenho das suas funções, aos locais, equipamentos e suportes que sirvam ao manuseamento de informação classificada."
+  },
+  "114157703": {
+   "fragment_id": "114157289",
+   "type": 11,
+   "heading": "Artigo 10.º — Apoio logístico e administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apoio logístico e administrativo\n\nO apoio logístico e administrativo indispensável ao bom funcionamento do GNS, designadamente em matéria de gestão de recursos humanos e financeiros, é prestado pela Secretaria-Geral da Presidência do Conselho de Ministros."
+  },
+  "114157704": {
+   "fragment_id": "114157290",
+   "type": 11,
+   "heading": "Artigo 11.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Receitas\n\n1 - O GNS dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O GNS dispõe ainda das seguintes receitas próprias:\n\na) As taxas cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) As quantias que resultem da exploração ou da titularidade de direitos de propriedade sobre produtos, patentes e demais direitos privativos de natureza industrial ou intelectual que venham a ser desenvolvidos no âmbito da actividade do GNS e que pela lei lhe sejam consignados;\n\nc) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;\n\nd) O produto de taxas que por lei lhe sejam consignadas, nomeadamente as decorrentes das funções exercidas no quadro do SCEE;\n\ne) As doações, heranças ou legados de que for beneficiário;\n\nf) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - O valor das taxas cobradas pelo GNS é fixado por portaria dos membros do Governo responsáveis pelo GNS e pela área das finanças."
+  },
+  "114157705": {
+   "fragment_id": "114157291",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas\n\nConstituem despesas do GNS as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "114157711": {
+   "fragment_id": "114157339",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Dispensa de parecer prévio e de publicitação",
+   "in_force_from": "2014-05-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+   ],
+   "markdown": "###### Artigo 12.º-A — Dispensa de parecer prévio e de publicitação\n\n1 - Aos contratos de aquisição de bens e serviços destinados ao CNCSeg é aplicável o disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 107/2012, de 18 de maio, alterado pela Lei n.º 83-C/2013, de 31 de dezembro, e o CNCSeg é considerado um sistema operacional crítico, para efeitos do disposto no n.º 5 daquela norma.\n\n2 - Os contratos referidos no número anterior estão dispensados da publicitação no portal da Internet dedicado aos contratos públicos, prevista no artigo 127.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+  },
+  "114157712": {
+   "fragment_id": "114157292",
+   "type": 11,
+   "heading": "Artigo 13.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "114157713": {
+   "fragment_id": "114157293",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 170/2007, de 3 de Maio."
+  },
+  "114157714": {
+   "fragment_id": "114157294",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "114157715": {
+   "fragment_id": "114157295",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva.\n\nPromulgado em 10 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 12 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "114157717": {
+   "fragment_id": "114157296",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 13.º)",
+   "in_force_from": "2014-05-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-14"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 13.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-14"
+  },
+  "114157718": {
+   "fragment_id": "114157280",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2017-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Gabinete Nacional de Segurança, abreviadamente designado por GNS, é um serviço central da administração directa do Estado, dotado de autonomia administrativa, na dependência do Primeiro-Ministro ou do membro do Governo em quem aquele delegar.\n\n2 - A Autoridade Nacional de Segurança, abreviadamente designada por ANS, dirige o GNS e é a entidade que exerce, em exclusivo, a proteção, o controlo e a salvaguarda da informação classificada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07"
+  },
+  "114157719": {
+   "fragment_id": "114157281",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2017-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - O GNS tem por missão garantir a segurança da informação classificada no âmbito nacional e das organizações internacionais de que Portugal é parte, e exercer a função de autoridade de credenciação de pessoas singulares ou coletivas para o acesso e manuseamento de informação classificada, bem como a de autoridade credenciadora e de fiscalização de entidades que atuem no âmbito do Sistema de Certificação Eletrónica do Estado - Infraestrutura de Chaves Públicas (SCEE) e de entidade credenciadora por força do disposto na lei que regula a disponibilização e a utilização das plataformas eletrónicas de contratação pública.\n\n2 - No âmbito do GNS funciona o Centro Nacional de Cibersegurança, doravante designado por CNCSeg, que tem por missão contribuir para que o país use o ciberespaço de uma forma livre, confiável e segura, através da promoção da melhoria contínua da cibersegurança nacional e da cooperação internacional, em articulação com todas as autoridades competentes, bem como da implementação das medidas e instrumentos necessários à antecipação, à deteção, reação e recuperação de situações que, face à iminência ou ocorrência de incidentes ou ciberataques, ponham em causa o funcionamento das infraestruturas críticas e os interesses nacionais.\n\n3 - O GNS prossegue as seguintes atribuições:\n\na) Garantir a articulação e a harmonização dos procedimentos relativos à segurança da informação classificada em todos os serviços, organismos e entidades, públicos ou privados, onde seja administrada tal informação, designadamente e em especial, os da Administração Pública, das forças armadas e das forças e serviços de segurança, bem como no âmbito das organizações, reuniões, programas, contratos, projectos e outras actividades internacionais em que Portugal participe;\n\nb) Assegurar, nos termos dos instrumentos de vinculação do Estado Português, a protecção e a salvaguarda da informação classificada emanada das organizações internacionais de que Portugal faça parte ou das respectivas estruturas internas, nomeadamente no âmbito da Organização do Tratado do Atlântico Norte (OTAN), da União Europeia (UE), Unidade Europeia de Cooperação Judiciária (EUROJUST) e da Agência Espacial Europeia (AEE), bem como de outros Estados com os quais tenha sido celebrado acordos de segurança;\n\nc) Exercer, em Portugal, os poderes públicos cometidos às autoridades nacionais de segurança, nomeadamente nas áreas da credenciação de segurança, segurança das comunicações, distribuição de informação classificada e outras, nos termos das normas aprovadas pelas entidades internacionais competentes;\n\nd) Proceder ao registo, distribuição e controlo da informação classificada, bem como de todos os procedimentos inerentes à sua administração, de índole nacional ou confiadas à responsabilidade do Estado Português, garantindo que o material de cifra é objeto de medidas específicas de segurança e administrado por canais diferenciados;\n\ne) Fiscalizar e inspecionar as entidades que detenham, a qualquer título e em qualquer suporte, informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional;\n\nf) Avaliar, acreditar e certificar a segurança de produtos e sistemas de comunicações, de informática e de tecnologias de informação que sirvam de suporte ao tratamento, arquivo e transmissão de informação classificada e proceder à realização de limpezas electrónicas;\n\ng) Promover o estudo, a investigação e a difusão das normas e procedimentos de segurança aplicáveis à protecção e salvaguarda da informação classificada, propondo a doutrina a adoptar por Portugal e a formação de pessoal especializado nesta área da segurança;\n\nh) Credenciar as pessoas singulares ou coletivas que pretendam exercer as atividades de comércio e indústria de bens e tecnologias militares, nos termos da lei que regula as condições de acesso e exercício das atividades de comércio e indústria de bens e tecnologias militares;\n\ni) Credenciar entidades públicas e privadas para o exercício de actividades industriais, tecnológicas e de investigação, quando tal seja exigido por disposição legal ou regulamentar;\n\nj) Exercer as competências de autoridade credenciadora e de fiscalização de entidades que actuem no âmbito do SCEE, bem como no quadro do regime jurídico dos documentos electrónicos e da assinatura electrónica;\n\nl) Atuar como autoridade responsável pela componente codificada do Sistema GALILEO, credenciar os pontos de contacto nacionais no âmbito da sua componente de segurança e efetuar a gestão de chaves de cifra aquando da respetiva operação;\n\nm) Exercer as competências de entidade credenciadora no âmbito da lei que regula a disponibilização e a utilização das plataformas eletrónicas de contratação pública;\n\nn) Exercer as demais atribuições que lhe sejam atribuídas por lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+  },
+  "114157720": {
+   "fragment_id": "114157337",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Competências do Centro Nacional de Cibersegurança",
+   "in_force_from": "2017-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+   ],
+   "markdown": "###### Artigo 2.º-A — Competências do Centro Nacional de Cibersegurança\n\n1 - Na prossecução da sua missão, o CNCS possui as seguintes competências:\n\na) Desenvolver as capacidades nacionais de prevenção, monitorização, deteção, reação, análise e correção destinadas a fazer face a incidentes de cibersegurança e ciberataques;\n\nb) Promover a formação e a qualificação de recursos humanos na área da cibersegurança, com vista à formação de uma comunidade de conhecimento e de uma cultura nacional de cibersegurança;\n\nc) Exercer os poderes de autoridade nacional competente em matéria de cibersegurança, relativamente ao Estado e aos operadores de infraestruturas críticas nacionais;\n\nd) Contribuir para assegurar a segurança dos sistemas de informação e comunicação do Estado e das infraestruturas críticas nacionais;\n\ne) Promover e assegurar a articulação e a cooperação entre os vários intervenientes e responsáveis nacionais na área da cibersegurança;\n\nf) Assegurar a produção de referenciais normativos em matéria de cibersegurança;\n\ng) Apoiar o desenvolvimento das capacidades técnicas, científicas e industriais, promovendo projetos de inovação e desenvolvimento na área da cibersegurança;\n\nh) Assegurar o planeamento da utilização não militar do ciberespaço em situação de crise ou de conflito armado, no âmbito do planeamento civil de emergência;\n\ni) Coordenar a cooperação internacional em matérias da cibersegurança, em articulação com o Ministério dos Negócios Estrangeiros;\n\nj) Exercer as demais competências que lhe sejam atribuídas por lei.\n\n2 - O disposto no número anterior não prejudica as atribuições e competências legalmente cometidas a outras entidades públicas em matéria de segurança do ciberespaço e é exercida em coordenação com estas, através de elementos de ligação designados para o efeito, bem como em cooperação com entidades privadas que exerçam funções naquela matéria.\n\n3 - O CNCSeg atua ainda em articulação e estreita cooperação com as estruturas nacionais responsáveis pela ciberespionagem, ciberdefesa, cibercrime e ciberterrorismo, devendo comunicar à Polícia Judiciária, no mais curto prazo, os factos de que tenha conhecimento relativos à preparação e execução de crimes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+  },
+  "114157721": {
+   "fragment_id": "114157283",
+   "type": 11,
+   "heading": "Artigo 4.º — Director-geral",
+   "in_force_from": "2017-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+   ],
+   "markdown": "###### Artigo 4.º — Director-geral\n\n1 - O director-geral é, por inerência, a ANS.\n\n2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao director-geral:\n\na) Superintender tecnicamente nos procedimentos dos serviços, organismos e entidades, públicos ou privados, tendo em vista a garantia da protecção e salvaguarda da informação classificada no âmbito nacional e das organizações, reuniões, programas, contratos, projectos e outras actividades internacionais em que Portugal participe;\n\nb) Garantir o cumprimento das medidas de protecção da informação classificada originada das organizações internacionais de que Portugal faz parte ou das respectivas estruturas internas, bem como de outros Estados, nos termos dos instrumentos de vinculação aplicáveis ao Estado Português;\n\nc) Atribuir, controlar, alterar e cancelar a credenciação de segurança de pessoas singulares ou coletivas, públicas ou privadas, ou de quaisquer outros serviços ou organismos, onde seja administrada informação classificada ou que necessitem de desenvolver atividades específicas que, nos termos da lei, envolvam a administração dessa informação;\n\nd) Determinar a fiscalização e a inspeção periódica das entidades detentoras de informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional, de modo a verificar e promover o cumprimento das normas, procedimentos e condições de segurança;\n\ne) Autorizar a abertura e determinar o encerramento de órgãos de segurança detentores de informação classificada sob responsabilidade portuguesa, dentro e fora do território nacional, fixando as respectivas atribuições, competências e normas de funcionamento;\n\nf) Determinar a avaliação, a acreditação e a certificação de produtos e sistemas de comunicações, de informática e de tecnologias de informação que sirvam de suporte ao tratamento, arquivo e transmissão de informação classificada;\n\ng) Difundir orientações para a elaboração dos planos de emergência e de contingência destinados a precaver e ou evitar comprometimentos, quebras ou violações de segurança de informação classificada, bem como verificar a sua existência e proceder à respectiva aprovação, teste e actualização;\n\nh) Determinar a abertura de inquéritos de segurança e proceder à respectiva instrução, sempre que haja suspeita ou efectivo comprometimento, quebra ou violação de segurança de informação classificada, indiciar os seus responsáveis e participar, nos termos da lei, às entidades competentes;\n\ni) Emitir normas técnicas sobre os procedimentos a adoptar pelos órgãos de segurança da informação classificada, visando a sua harmonização, protecção e salvaguarda;\n\nj) Conferir os certificados de habilitação exigidos por disposição legal ou regulamentar para requerer a credenciação de segurança, no grau de classificação de segurança e marca pretendidos, às pessoas que desempenhem funções em locais onde é administrada informação classificada ou exerçam actividades específicas, definidas na lei, que envolvam a administração dessa informação;\n\nl) Exercer as competências de credenciação de segurança, proceder ao registo e exercer as demais competências de autoridade credenciadora e de fiscalização das entidades certificadoras integradas no SCEE e das entidades que operam no quadro do regime jurídico dos documentos electrónicos e da assinatura electrónica, nos termos nele previstos;\n\nm) Atribuir credenciação de segurança nacional às pessoas singulares ou coletivas que pretendam exercer as atividades de comércio e indústria de bens e tecnologias militares;\n\nn) Atribuir credenciação de segurança a entidades públicas e privadas para o exercício de actividades industriais, tecnológicas e de investigação, quando tal seja exigido por disposição legal ou regulamentar;\n\no) Atribuir credenciação de segurança no âmbito do Sistema GALILEO e proceder à gestão das chaves de cifra da sua componente de segurança, quando da respetiva operação;\n\np) Determinar a realização de limpezas electrónicas no âmbito de avaliação de ambientes de segurança nas componentes geral, local e electrónica;\n\nq) Representar o Estado Português nas reuniões que tratem da proteção e salvaguarda da informação classificada, no âmbito das organizações, estruturas, grupos de trabalho e projetos internacionais de que Portugal seja parte integrante, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nr) Propor a celebração e colaborar na elaboração dos acordos bilaterais de segurança da informação classificada, em articulação com o Ministério dos Negócios Estrangeiros.\n\ns) Exercer as competências de credenciação das plataformas eletrónicas e dos respetivos auditores de segurança e exercer as demais competências de entidade credenciadora, nos termos do disposto na lei que regula a disponibilização e a utilização das plataformas eletrónicas de contratação pública;\n\nt) Exercer as competências de autoridade nacional de distribuição, no âmbito da gestão do material de cifra de produção nacional ou confiado à guarda do Estado Português.\n\n3 - O diretor-geral exerce ainda as competências previstas para os titulares de cargos de direção superior nos termos do estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado.\n\n4 - Os subdiretores gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo diretor-geral, competindo a este designar o subdiretor geral que o substitui nas suas faltas e impedimentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+  },
+  "114157722": {
+   "fragment_id": "114157285",
+   "type": 11,
+   "heading": "Artigo 6.º — Mapa de pessoal e recrutamento",
+   "in_force_from": "2017-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07"
+   ],
+   "markdown": "###### Artigo 6.º — Mapa de pessoal e recrutamento\n\n1 - Os postos de trabalho do mapa de pessoal do GNS são ocupados em comissão de serviço, nos termos dos estatutos aplicáveis, ou através do recurso aos demais instrumentos constantes da lei geral do trabalho em funções públicas.\n\n2 - São condições indispensáveis ao recrutamento para qualquer posto de trabalho do mapa de pessoal do GNS a elevada competência profissional e a experiência válida para o exercício da função, a avaliar com base nos respectivos curricula.\n\n3 - Os postos de trabalho previstos no mapa de pessoal do GNS são preferencialmente preenchidos mediante o recrutamento de quadros das forças armadas e das forças e serviços de segurança, pelo período de dois ou três anos, podendo ser renovados por iguais períodos.\n\n4 - O exercício de funções em regime de comissão de serviço ou mobilidade está sujeito a autorização do membro do Governo responsável pelo GNS, salvo quando a remuneração seja assegurada pelo serviço de origem.\n\n5 - O pessoal que exerce funções no GNS em regime de comissão de serviço é remunerado pelos níveis 39 a 47 da tabela remuneratória única.\n\n6 - O exercício de funções no GNS é contado, para todos os efeitos legais, designadamente para a antiguidade, progressão e promoção nas respectivas carreiras, ainda que se trate de carreiras especiais, como prestado nos lugares de origem.\n\n7 - A cessação do exercício de funções por iniciativa do próprio implica o dever de indemnização correspondente ao valor da formação profissional suportada pelo Estado, se aquela ocorrer no prazo de três anos a contar da data do fim da formação ministrada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07"
+  },
+  "114157723": {
+   "fragment_id": "114157338",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Exercício de funções no Centro Nacional de Cibersegurança",
+   "in_force_from": "2017-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+   ],
+   "markdown": "###### Artigo 6.º-A — Exercício de funções no Centro Nacional de Cibersegurança\n\n1 - O mapa de pessoal do GNS contém um número de postos de trabalho ocupados por trabalhadores que exercem funções no CNCS, doravante designados por trabalhadores do CNCS, de acordo com a seguinte distribuição:\n\na) Consultores coordenadores, que podem ser de grau 1 ou 2;\n\nb) Consultores, que podem ser de grau 1, 2 ou 3;\n\nc) Técnicos, que podem ser de grau 1, 2, 3, 4 ou 5;\n\nd) Secretário;\n\ne) Motorista.\n\n2 - Os trabalhadores do CNCSeg devem possuir competência técnica, aptidão, experiência profissional e formação adequadas ao exercício daquelas funções e podem ou não ter vínculo à Administração Pública, mas o número dos que não sejam trabalhadores em funções públicas não pode exceder, em cada momento, 50 % do número total de trabalhadores em funções no CNCSeg.\n\n3 - Os trabalhadores do CNCSeg referidos nas alíneas a) a c) do n.º 1 são recrutados nos termos seguintes:\n\na) Os consultores coordenadores e os consultores, de entre licenciados;\n\nb) Os técnicos, de entre quem possua o 12.º ano de escolaridade ou equivalente.\n\n4 - Os trabalhadores do CNCS a que se refere o número anterior são remunerados de acordo com os seguintes níveis remuneratórios da tabela remuneratória única dos trabalhadores que exercem funções públicas:\n\na) Consultores coordenadores de grau 1 e 2, respetivamente, níveis 58 e 64;\n\nb) Consultores de grau 1, 2 e 3, respetivamente, níveis 47, 50 e 53;\n\nc) Técnicos de grau 1, 2, 3, 4 e 5, respetivamente, níveis 27, 30, 33, 36 e 39.\n\n5 - Os trabalhadores do CNCSeg referidos nas alíneas d) e e) do n.º 1 são recrutados por recurso aos instrumentos de mobilidade previstos na lei geral e têm direito ao estatuto remuneratório de origem.\n\n6 - Os trabalhadores do CNCSeg exercem funções em regime de exclusividade e de disponibilidade permanente e estão isentos de horário de trabalho, não lhes sendo, por isso, devida qualquer remuneração adicional.\n\n7 - Todos os trabalhadores do CNCS exercem funções em comissão de serviço, e aos que sejam trabalhadores em funções públicas aplicam-se os regimes estatutários de origem ou o disposto nos regimes da lei geral do trabalho em funções públicas.\n\n8 - A designação dos trabalhadores do CNCSeg, que tem a duração de um, dois ou três anos, bem como a renovação da respetiva comissão de serviço, que pode ser efetuada por idênticos períodos, compete ao membro do Governo responsável pelo GNS, sem prejuízo do disposto no número seguinte.\n\n9 - A designação de trabalhador em funções públicas para o exercício de funções no CNCSeg, bem como a renovação da respetiva comissão de serviço, pode ser delegada pelo membro do Governo responsável pelo GNS e carece da anuência do membro do Governo responsável pelo serviço, organismo ou entidade a que o trabalhador pertence.\n\n10 - A comissão de serviço considera-se automaticamente renovada se, até 30 dias antes do seu termo, o trabalhador do CNCS ou o membro do Governo responsável pelo GNS não tiverem manifestado expressamente a intenção de a fazer cessar.\n\n11 - A cessação da comissão de serviço, nos termos do número anterior, não dá lugar ao pagamento de indemnização por nenhuma das partes, sem prejuízo do disposto no n.º 7 do artigo anterior.\n\n12 - Aos trabalhadores do CNCSeg é aplicável o disposto no n.º 6 do artigo 6.º e nos n.os 1 a 3 do artigo 7.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+  },
+  "114157724": {
+   "fragment_id": "114157286",
+   "type": 11,
+   "heading": "Artigo 7.º — Direitos, deveres e incompatibilidades",
+   "in_force_from": "2017-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+   ],
+   "markdown": "###### Artigo 7.º — Direitos, deveres e incompatibilidades\n\n1 - O pessoal que exerce funções no GNS é credenciado na marca e grau de classificação de segurança exigidos pelo respectivo conteúdo funcional e em função da informação classificada com que trabalhe ou necessite de conhecer para o desempenho de funções.\n\n2 - Além dos deveres que impendem sobre os trabalhadores que exercem funções públicas, o pessoal que exerce funções no GNS está sujeito ao dever de disponibilidade permanente e de continuada obrigação de sigilo, mesmo após a cessação de funções.\n\n3 - É vedado ao pessoal do GNS o exercício de qualquer actividade pública ou privada susceptível de comprometer os requisitos de isenção, sigilo e disponibilidade permanente inerente às funções que exercem.\n\n4 - O diretor-geral e os subdiretores-gerais estão ainda sujeitos aos regimes de incompatibilidades, impedimentos e inibições e de exclusividade e de acumulação de funções previstos no estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado.\n\n5 - O diretor-geral e os subdiretores-gerais gozam igualmente dos direitos previstos no capítulo relativo aos direitos e deveres do estatuto referido no número anterior, sendo equiparados, para efeitos remuneratórios, respetivamente, a cargos de direção superior de 1.º e 2.º graus.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2013 - Diário da República n.º 235/2013, Série I de 2013-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2013-484376), em vigor a partir de 2013-12-05"
+  },
+  "114157726": {
+   "fragment_id": "114157290",
+   "type": 11,
+   "heading": "Artigo 11.º — Receitas",
+   "in_force_from": "2017-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07"
+   ],
+   "markdown": "###### Artigo 11.º — Receitas\n\n1 - O GNS dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O GNS dispõe ainda das seguintes receitas próprias:\n\na) As taxas cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) As quantias que resultem da exploração ou da titularidade de direitos de propriedade sobre produtos, patentes e demais direitos privativos de natureza industrial ou intelectual que venham a ser desenvolvidos no âmbito da actividade do GNS e que pela lei lhe sejam consignados;\n\nc) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;\n\nd) (revogada.)\n\ne) As doações, heranças ou legados de que for beneficiário;\n\nf) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - O valor das taxas cobradas pelo GNS é fixado por portaria dos membros do Governo responsáveis pelo GNS e pela área das finanças.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07"
+  },
+  "114157725": {
+   "fragment_id": "114157339",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Dispensa de parecer prévio e de publicitação",
+   "in_force_from": "2017-11-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+   ],
+   "markdown": "###### Artigo 12.º-A — Dispensa de parecer prévio e de publicitação\n\n1 - Aos contratos de aquisição de bens e serviços destinados ao GNS e ao CNCS é aplicável o disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 107/2012, de 18 de maio, sendo o GNS e o CNCS considerados sistemas operacionais críticos, para efeitos do disposto no n.º 5 daquele artigo.\n\n2 - Os contratos referidos no número anterior estão dispensados da publicitação no portal da Internet dedicado aos contratos públicos, prevista no Código dos Contratos Públicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+  },
+  "836099526": {
+   "fragment_id": "114157338",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Exercício de funções no Centro Nacional de Cibersegurança",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 139-A/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-2023-835994077), em vigor a partir de 2023-12-30, produz efeitos a partir de 2023-12-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+   ],
+   "markdown": "###### Artigo 6.º-A — Exercício de funções no Centro Nacional de Cibersegurança\n\n1 - O mapa de pessoal do GNS contém um número de postos de trabalho ocupados por trabalhadores que exercem funções no CNCS, doravante designados por trabalhadores do CNCS, de acordo com a seguinte distribuição:\n\na) Consultores coordenadores, que podem ser de grau 1 ou 2;\n\nb) Consultores, que podem ser de grau 1, 2 ou 3;\n\nc) Técnicos, que podem ser de grau 1, 2, 3, 4 ou 5;\n\nd) Secretário;\n\ne) Motorista.\n\n2 - Os trabalhadores do CNCS devem possuir competência técnica, aptidão, experiência profissional e formação adequadas ao exercício daquelas funções e podem ou não ter vínculo à Administração Pública, mas o número dos que não sejam trabalhadores em funções públicas não pode exceder, em cada momento, 70 % do número total de trabalhadores em funções no CNCS.\n\n3 - Os trabalhadores do CNCSeg referidos nas alíneas a) a c) do n.º 1 são recrutados nos termos seguintes:\n\na) Os consultores coordenadores e os consultores, de entre licenciados;\n\nb) Os técnicos, de entre quem possua o 12.º ano de escolaridade ou equivalente.\n\n4 - Os trabalhadores do CNCS a que se refere o número anterior são remunerados de acordo com os seguintes níveis remuneratórios da tabela remuneratória única dos trabalhadores que exercem funções públicas:\n\na) Consultores coordenadores de grau 1 e 2, respetivamente, níveis 58 e 64;\n\nb) Consultores de grau 1, 2 e 3, respetivamente, níveis 47, 50 e 53;\n\nc) Técnicos de grau 1, 2, 3, 4 e 5, respetivamente, níveis 27, 30, 33, 36 e 39.\n\n5 - Os trabalhadores do CNCSeg referidos nas alíneas d) e e) do n.º 1 são recrutados por recurso aos instrumentos de mobilidade previstos na lei geral e têm direito ao estatuto remuneratório de origem.\n\n6 - Os trabalhadores do CNCSeg exercem funções em regime de exclusividade e de disponibilidade permanente e estão isentos de horário de trabalho, não lhes sendo, por isso, devida qualquer remuneração adicional.\n\n7 - Todos os trabalhadores do CNCS exercem funções em comissão de serviço, e aos que sejam trabalhadores em funções públicas aplicam-se os regimes estatutários de origem ou o disposto nos regimes da lei geral do trabalho em funções públicas.\n\n8 - A designação dos trabalhadores do CNCSeg, que tem a duração de um, dois ou três anos, bem como a renovação da respetiva comissão de serviço, que pode ser efetuada por idênticos períodos, compete ao membro do Governo responsável pelo GNS, sem prejuízo do disposto no número seguinte.\n\n9 - A designação de trabalhador em funções públicas para o exercício de funções no CNCSeg, bem como a renovação da respetiva comissão de serviço, pode ser delegada pelo membro do Governo responsável pelo GNS e carece da anuência do membro do Governo responsável pelo serviço, organismo ou entidade a que o trabalhador pertence.\n\n10 - A comissão de serviço considera-se automaticamente renovada se, até 30 dias antes do seu termo, o trabalhador do CNCS ou o membro do Governo responsável pelo GNS não tiverem manifestado expressamente a intenção de a fazer cessar.\n\n11 - A cessação da comissão de serviço, nos termos do número anterior, não dá lugar ao pagamento de indemnização por nenhuma das partes, sem prejuízo do disposto no n.º 7 do artigo anterior.\n\n12 - Aos trabalhadores do CNCSeg é aplicável o disposto no n.º 6 do artigo 6.º e nos n.os 1 a 3 do artigo 7.º\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 139-A/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-2023-835994077), em vigor a partir de 2023-12-30, produz efeitos a partir de 2023-12-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+  },
+  "960548111": {
+   "fragment_id": "114157337",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Competências do Centro Nacional de Cibersegurança",
+   "in_force_from": "2026-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 125/2025 - Diário da República n.º 234/2025, Série I de 2025-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401), em vigor a partir de 2026-04-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+   ],
+   "markdown": "###### Artigo 2.º-A — Competências do Centro Nacional de Cibersegurança\n\n1 - Na prossecução da sua missão, o CNCS possui as seguintes competências:\n\na) Desenvolver as capacidades nacionais de prevenção, monitorização, deteção, reação, análise e correção destinadas a fazer face a incidentes de cibersegurança e ciberataques;\n\nb) Promover a formação e a qualificação de recursos humanos na área da cibersegurança, com vista à formação de uma comunidade de conhecimento e de uma cultura nacional de cibersegurança;\n\nc) Exercer os poderes de autoridade nacional competente em matéria de cibersegurança, relativamente ao Estado e aos operadores de infraestruturas críticas nacionais;\n\nd) Contribuir para assegurar a segurança dos sistemas de informação e comunicação do Estado e das infraestruturas críticas nacionais;\n\ne) Promover e assegurar a articulação e a cooperação entre os vários intervenientes e responsáveis nacionais na área da cibersegurança;\n\nf) Assegurar a produção de referenciais normativos em matéria de cibersegurança;\n\ng) Apoiar o desenvolvimento das capacidades técnicas, científicas e industriais, promovendo projetos de inovação e desenvolvimento na área da cibersegurança;\n\nh) Assegurar o planeamento da utilização não militar do ciberespaço em situação de crise ou de conflito armado, no âmbito do planeamento civil de emergência;\n\ni) Coordenar a cooperação internacional em matérias da cibersegurança, em articulação com o Ministério dos Negócios Estrangeiros;\n\nj) Exercer as demais competências que lhe sejam atribuídas por lei.\n\n2 - O disposto no número anterior não prejudica as atribuições e competências legalmente cometidas a outras entidades públicas em matéria de segurança do ciberespaço e é exercida em coordenação com estas, através de elementos de ligação designados para o efeito, bem como em cooperação com entidades privadas que exerçam funções naquela matéria.\n\n3 - O CNCSeg atua ainda em articulação e estreita cooperação com as estruturas nacionais responsáveis pela ciberespionagem, ciberdefesa, cibercrime e ciberterrorismo, devendo comunicar à Polícia Judiciária, no mais curto prazo, os factos de que tenha conhecimento relativos à preparação e execução de crimes.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 125/2025 - Diário da República n.º 234/2025, Série I de 2025-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401), em vigor a partir de 2026-04-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2017 - Diário da República n.º 213/2017, Série I de 2017-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2017-114152775), em vigor a partir de 2017-11-07\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2014 - Diário da República n.º 89/2014, Série I de 2014-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2014-25343754), em vigor a partir de 2014-05-10"
+  }
+ }
+}

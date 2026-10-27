@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:300005:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-915292169",
+ "dre_path": "/dr/detalhe/portaria/275-2000-300005",
+ "source_lastmod": "2025-04-16",
+ "versions": [
+  {
+   "date": "2000-05-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "915234552"
+   ]
+  }
+ ],
+ "fragments": {
+  "915234552": {
+   "fragment_id": "915292170",
+   "type": 15,
+   "heading": "Diploma — Portaria n.º 275/2000de 22 de Maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Escola Profissional de Agricultura de Cister/Alcobaça foi criada, em 1990, com estatuto de natureza pública, por contrato-programa celebrado ao abrigo do Decreto-Lei n.º 26/89, de 21 de Janeiro.\n\nO Decreto-Lei n.º 4/98, de 8 de Janeiro, que veio consagrar um novo regime jurídico das escolas profissionais, preconiza uma reestruturação deste subsistema de ensino, tendo clarificado alguns aspectos que mais dúvidas havia suscitado a aplicação do regime legal anterior, como o da indefinição da natureza pública ou privada das referidas escolas, decorrente da forma comum da sua criação por contrato-programa, bem como dos relativos à sua organização e aos respectivos modelos de gestão e de financiamento.\n\nApesar da aposta clara na iniciativa privada para a criação das escolas profissionais, o Estado não poderá dispensar-se de, subsidiariamente, assegurar a cobertura das necessidades deste tipo de formação não cobertas pela rede existente, criando estabelecimentos públicos nas regiões do País deles carecidos.\n\nTal criação passa, igualmente, pela transformação de estabelecimentos de ensino já em funcionamento, procedendo-se, através de portaria, à clarificação do estatuto público de tais escolas, bem como à definição dos cursos aí ministrados e das regras por que deve passar a pautar-se a sua organização e funcionamento.\n\nAssim, reconhecendo-se a relevância da experiência levada a efeito pela Escola Profissional de Agricultura de Cister/Alcobaça, dado o importante contributo do seu projecto pedagógico para a formação de jovens na área agrícola e para o desenvolvimento económico-social da região onde se insere, e atendendo à intenção manifestada pela própria Escola e pelas entidades promotoras originais:\n\nNestes termos e ao abrigo do disposto no artigo 24.º do Decreto-Lei n.º 4/98, de 8 de Janeiro:\n\nManda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:"
+  }
+ }
+}

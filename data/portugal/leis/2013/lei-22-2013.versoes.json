@@ -1,0 +1,863 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:259235:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-107014829",
+ "dre_path": "/dr/detalhe/lei/22-2013-259235",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107014810:por",
+     "title": "Lei n.º 17/2017",
+     "published": "2017-05-16",
+     "dre_path": "/dr/detalhe/lei/17-2017-107014810"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "106968253",
+    "106968254",
+    "106968255",
+    "106968256",
+    "106968257",
+    "106968258",
+    "106968259",
+    "106968260",
+    "106968261",
+    "106968262",
+    "106968263",
+    "106968264",
+    "106968265",
+    "106968266",
+    "107023396",
+    "106968268",
+    "106968269",
+    "106968270",
+    "106968271",
+    "106968272",
+    "106968273",
+    "106968274",
+    "107023375",
+    "107023376",
+    "107023377",
+    "107023378",
+    "107023379",
+    "107023380",
+    "107023381",
+    "107023382",
+    "107023383",
+    "107023384",
+    "107023385",
+    "107023386",
+    "107023387",
+    "107023388",
+    "107023389",
+    "107023390",
+    "107023391",
+    "107023392",
+    "107023393",
+    "107023394",
+    "107023395"
+   ]
+  },
+  {
+   "date": "2019-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122124253:por",
+     "title": "Decreto-Lei n.º 52/2019",
+     "published": "2019-04-17",
+     "dre_path": "/dr/detalhe/decreto-lei/52-2019-122124253"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 26.º-A",
+    "Adita Artigo 28.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "106968253",
+    "106968254",
+    "106968255",
+    "122102914",
+    "106968257",
+    "106968258",
+    "106968259",
+    "106968260",
+    "122102915",
+    "122102916",
+    "106968263",
+    "122102917",
+    "106968265",
+    "106968266",
+    "107023396",
+    "106968268",
+    "106968269",
+    "106968270",
+    "106968271",
+    "106968272",
+    "122102918",
+    "106968274",
+    "122102919",
+    "122102925",
+    "122102920",
+    "107023378",
+    "122102921",
+    "107023380",
+    "107023381",
+    "122102922",
+    "107023383",
+    "107023384",
+    "107023385",
+    "122102906",
+    "122102907",
+    "122102923",
+    "122102911",
+    "122102924",
+    "122102913",
+    "107023390",
+    "107023391",
+    "107023392",
+    "107023393",
+    "107023394",
+    "107023395"
+   ]
+  },
+  {
+   "date": "2021-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174824631:por",
+     "title": "Lei n.º 79/2021",
+     "published": "2021-11-24",
+     "dre_path": "/dr/detalhe/lei/79-2021-174824631"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "106968253",
+    "106968254",
+    "106968255",
+    "122102914",
+    "106968257",
+    "106968258",
+    "106968259",
+    "174875602",
+    "122102915",
+    "122102916",
+    "106968263",
+    "122102917",
+    "106968265",
+    "106968266",
+    "107023396",
+    "106968268",
+    "106968269",
+    "106968270",
+    "106968271",
+    "106968272",
+    "122102918",
+    "106968274",
+    "122102919",
+    "122102925",
+    "122102920",
+    "107023378",
+    "122102921",
+    "107023380",
+    "107023381",
+    "122102922",
+    "107023383",
+    "107023384",
+    "107023385",
+    "122102906",
+    "122102907",
+    "122102923",
+    "122102911",
+    "122102924",
+    "122102913",
+    "107023390",
+    "107023391",
+    "107023392",
+    "107023393",
+    "107023394",
+    "107023395"
+   ]
+  },
+  {
+   "date": "2022-04-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177455547:por",
+     "title": "Lei n.º 9/2022",
+     "published": "2022-01-11",
+     "dre_path": "/dr/detalhe/lei/9-2022-177455547"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º-A",
+    "Altera Artigo 28.º-A",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "106968253",
+    "106968254",
+    "106968255",
+    "122102914",
+    "106968257",
+    "106968258",
+    "106968259",
+    "174875602",
+    "122102915",
+    "177528506",
+    "106968263",
+    "122102917",
+    "106968265",
+    "106968266",
+    "107023396",
+    "106968268",
+    "106968269",
+    "106968270",
+    "106968271",
+    "106968272",
+    "122102918",
+    "106968274",
+    "122102919",
+    "122102925",
+    "122102920",
+    "107023378",
+    "122102921",
+    "107023380",
+    "107023381",
+    "177528507",
+    "177528508",
+    "107023384",
+    "107023385",
+    "177528509",
+    "122102907",
+    "122102923",
+    "177528510",
+    "177528511",
+    "177528512",
+    "107023390",
+    "107023391",
+    "107023392",
+    "107023393",
+    "107023394",
+    "107023395"
+   ]
+  }
+ ],
+ "fragments": {
+  "106968253": {
+   "fragment_id": "107014830",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 22/2013\n\nde 26 de fevereiro\n\nEstabelece o estatuto do administrador judicial\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "106968254": {
+   "fragment_id": "107014831",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "106968255": {
+   "fragment_id": "107014832",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece o estatuto do administrador judicial."
+  },
+  "106968256": {
+   "fragment_id": "107014833",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção de administrador judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Noção de administrador judicial\n\n1 - O administrador judicial é a pessoa incumbida da fiscalização e da orientação dos atos integrantes do processo especial de revitalização, bem como da gestão ou liquidação da massa insolvente no âmbito do processo de insolvência, sendo competente para a realização de todos os atos que lhe são cometidos pelo presente estatuto e pela lei.\n\n2 - O administrador judicial designa-se administrador judicial provisório, administrador da insolvência ou fiduciário, dependendo das funções que exerce no processo, nos termos da lei."
+  },
+  "106968257": {
+   "fragment_id": "107014834",
+   "type": 1,
+   "heading": "Capítulo II — Acesso à atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Acesso à atividade"
+  },
+  "106968258": {
+   "fragment_id": "107014835",
+   "type": 11,
+   "heading": "Artigo 3.º — Habilitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Habilitação\n\n1 - Podem ser administradores judiciais as pessoas que, cumulativamente:\n\na) Tenham uma licenciatura e experiência profissional adequadas ao exercício da atividade;\n\nb) Frequentem estágio profissional promovido para o efeito;\n\nc) Obtenham aprovação em exame de admissão especificamente organizado para avaliar os conhecimentos adquiridos durante o período de estágio profissional;\n\nd) Não se encontrem em nenhuma situação de incompatibilidade para o exercício da atividade;\n\ne) Sejam pessoas idóneas para o exercício da atividade de administrador judicial.\n\n2 - Para os efeitos da alínea a) do número anterior, considera-se licenciatura e experiência profissional adequadas ao exercício da atividade aquelas que, apreciadas conjuntamente, atestem a existência de formação de base e experiência do candidato na generalidade das matérias sobre que versa o exame de admissão."
+  },
+  "106968259": {
+   "fragment_id": "107014836",
+   "type": 11,
+   "heading": "Artigo 4.º — Incompatibilidades, impedimentos e suspeições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Incompatibilidades, impedimentos e suspeições\n\n1 - Os administradores judiciais estão sujeitos aos impedimentos e suspeições aplicáveis aos juízes, bem como às regras gerais sobre incompatibilidades aplicáveis aos titulares de órgãos sociais das sociedades.\n\n2 - Os administradores judiciais, enquanto no exercício das respetivas funções, não podem integrar órgãos sociais ou ser dirigentes de empresas que prossigam atividades total ou predominantemente semelhantes às de empresa que lhe seja confiada para gestão no âmbito do processo especial de revitalização, ou que se encontre compreendida na massa insolvente.\n\n3 - Os administradores judiciais e os seus cônjuges e parentes ou afins até ao 2.º grau da linha reta ou colateral não podem, por si ou por interposta pessoa, ser titulares de participações sociais nas empresas referidas no número anterior.\n\n4 - Os administradores judiciais não podem, por si ou por interposta pessoa:\n\na) Ser membros de órgãos sociais ou dirigentes de empresas em que tenham exercido as suas funções; ou\n\nb) Ter desempenhado alguma função na dependência hierárquica ou funcional dos gerentes das sociedades, quer ao abrigo de um contrato de trabalho, quer a título de prestação de serviços,\n\nsem que hajam decorrido três anos após a cessação do exercício daquelas funções ou atividades.\n\n5 - Não configura situação de incompatibilidade, impedimento ou suspeição a nomeação de um mesmo administrador judicial para o exercício das respetivas funções em sociedades que se encontrem em relação de domínio ou de grupo, quando o juiz o considere adequado à salvaguarda dos interesses das sociedades."
+  },
+  "106968260": {
+   "fragment_id": "107014837",
+   "type": 11,
+   "heading": "Artigo 5.º — Idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Idoneidade\n\n1 - Cada candidato a administrador judicial deve emitir, aquando da sua candidatura ao exercício da atividade, declaração escrita, dirigida à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, atestando que dispõe da aptidão necessária para o exercício da mesma, e que conduz a sua vida pessoal e profissional de forma idónea.\n\n2 - Entre outras circunstâncias, considera-se indiciador de falta de idoneidade para o exercício da atividade o facto de a pessoa ter sido:\n\na) Condenada com trânsito em julgado, no País ou no estrangeiro, por crime de furto, roubo, burla, burla informática e nas comunicações, extorsão, abuso de confiança, recetação, infidelidade, falsificação, falsas declarações, insolvência dolosa, frustração de créditos, insolvência negligente, favorecimento de credores, emissão de cheques sem provisão, abuso de cartão de garantia ou de crédito, apropriação ilegítima de bens do sector público ou cooperativo, administração danosa em unidade económica do sector público ou cooperativo, usura, suborno, corrupção, tráfico de influência, peculato, receção não autorizada de depósitos ou outros fundos reembolsáveis, prática ilícita de atos ou operações inerentes à atividade seguradora ou dos fundos de pensões, fraude fiscal ou outro crime tributário, branqueamento de capitais ou crime previsto no Código das Sociedades Comerciais ou no Código dos Valores Mobiliários;\n\nb) Declarada, nos últimos 15 anos, por sentença nacional ou estrangeira transitada em julgado, insolvente ou julgada responsável por insolvência de empresa por ela dominada ou de cujos órgãos de administração ou fiscalização tenha sido membro.\n\n3 - O disposto no número anterior não impede que a entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais considere qualquer outro facto como indiciador de falta de idoneidade para o exercício da atividade.\n\n4 - A verificação da ocorrência dos factos descritos no n.º 2 não impede a entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais de considerar, de forma fundamentada, que estão reunidas as condições de idoneidade para o exercício da atividade de administrador judicial, tendo em conta, nomeadamente, o tempo decorrido desde a prática dos factos."
+  },
+  "106968261": {
+   "fragment_id": "107014838",
+   "type": 11,
+   "heading": "Artigo 6.º — Listas oficiais de administradores judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Listas oficiais de administradores judiciais\n\n1 - Para cada comarca existe uma lista de administradores judiciais, contendo o nome, o domicílio profissional, o endereço de correio eletrónico e o telefone profissional das pessoas habilitadas a exercer tal atividade na respetiva comarca.\n\n2 - Se o administrador judicial for sócio de uma sociedade de administradores judiciais, a lista deve conter, para além dos elementos referidos no número anterior, a referência àquela qualidade e a identificação da respetiva sociedade.\n\n3 - A manutenção e atualização das listas oficiais de administradores judiciais, bem como a sua colocação à disposição dos tribunais, preferencialmente por meios eletrónicos, cabem à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais.\n\n4 - As listas oficiais de administradores judiciais são públicas e disponibilizadas de forma permanente no Portal Citius.\n\n5 - A inscrição nas listas oficiais não investe os inscritos na qualidade de agente nem garante o pagamento de qualquer remuneração fixa por parte do Estado."
+  },
+  "106968262": {
+   "fragment_id": "107014839",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição no estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inscrição no estágio\n\n1 - A inscrição no estágio é solicitada à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, mediante requerimento acompanhado dos seguintes elementos:\n\na) Curriculum vitae;\n\nb) Certificado de licenciatura;\n\nc) Certificado do registo criminal;\n\nd) Declaração sobre o exercício de qualquer outra atividade remunerada e sobre a inexistência de qualquer das situações de incompatibilidade previstas na presente lei;\n\ne) Declaração de idoneidade;\n\nf) Declaração da sua situação financeira, com a discriminação de proveitos auferidos e encargos suportados à data da declaração;\n\ng) Atestado médico a que se referem os n.os 6 e 7 do artigo 12.º, no caso de o candidato ter 70 anos completos;\n\nh) Documento em que o interessado identifica as listas de administradores judiciais que pretende integrar no primeiro ano de atividade;\n\ni) Qualquer outro documento que o candidato considere relevante para instruir a sua candidatura.\n\n2 - Sem prejuízo do disposto no número anterior, a entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais pode solicitar ao interessado qualquer outro documento que repute como necessário para prova dos factos declarados.\n\n3 - Compete à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais determinar o momento de realização do estágio e fixar o número de candidatos ao estágio a ministrar em cada processo de recrutamento de administradores judiciais, devendo para o efeito atender às necessidades efetivas de recursos humanos para o exercício da atividade.\n\n4 - A entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais fixa, por regulamento, os critérios a observar na seleção dos candidatos ao estágio, sendo o referido regulamento publicado no Portal Citius, em simultâneo com o anúncio de abertura do processo de recrutamento, com, pelo menos, 30 dias de antecedência face à data do início do estágio.\n\n5 - O candidato ao estágio, bem como o administrador judicial que venha a ser admitido para o exercício da atividade, deve manter atualizada a informação prestada à entidade responsável pelo acompanhamento, fiscalização e disciplina da sua atividade no momento da sua candidatura, devendo, contudo, ser anualmente atualizada a informação a que se refere a alínea f) do n.º 1."
+  },
+  "106968263": {
+   "fragment_id": "107014840",
+   "type": 11,
+   "heading": "Artigo 8.º — Formação inicial e estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formação inicial e estágio\n\n1 - O estágio referido na alínea b) do n.º 1 do artigo 3.º, constituindo a fase inicial de formação dos candidatos a administradores judiciais, tem a duração de seis meses, competindo a sua organização à entidade com habilitação para ministrar o ensino ou para prestar formação profissional, sob o controlo da entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais.\n\n2 - O estágio tem uma componente teórica e uma componente prática.\n\n3 - A componente teórica do estágio tem a duração de dois meses e a componente prática tem a duração de quatro meses.\n\n4 - A componente prática do estágio traduz-se no acompanhamento por um patrono do estagiário que pretende inscrever-se como administrador judicial, devendo aquele transmitir a este os conhecimentos práticos e as regras deontológicas existentes que devem ser observados no exercício da atividade.\n\n5 - Compete à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais proceder à nomeação de patrono a cada um dos candidatos que se encontrem validamente inscritos no estágio."
+  },
+  "106968264": {
+   "fragment_id": "107014841",
+   "type": 11,
+   "heading": "Artigo 9.º — Exame de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exame de admissão\n\n1 - O exame de admissão, realizado no termo do estágio a que se refere o artigo anterior, consiste numa prova escrita, elaborada pela entidade incumbida de organizar o estágio e aprovada pela entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, sobre as seguintes matérias:\n\na) Direito comercial e Código da Insolvência e da Recuperação de Empresas;\n\nb) Direito processual civil e direito do trabalho;\n\nc) Contabilidade e fiscalidade;\n\nd) Economia e gestão de empresas;\n\ne) Regras éticas e deontológicas a observar no exercício de funções de administrador judicial, as quais são definidas em regulamento aprovado pela entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, ouvidas as associações representativas dos administradores judiciais; e\n\nf) Prática da atividade de administrador judicial.\n\n2 - A data de realização do exame é publicada no Portal Citius, com um mínimo de quatro meses de antecedência sobre a sua realização e de 30 dias de antecedência face ao início do estágio.\n\n3 - Considera-se aprovação no exame de admissão a obtenção de uma classificação igual ou superior a 10 valores, numa escala de 0 a 20 valores.\n\n4 - Os resultados do exame e a lista de classificação dos candidatos a administrador judicial são publicados no Portal Citius, no prazo de 10 dias após a realização do exame."
+  },
+  "106968265": {
+   "fragment_id": "107014842",
+   "type": 11,
+   "heading": "Artigo 10.º — Inscrição nas listas oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Inscrição nas listas oficiais\n\n1 - Em caso de aprovação no exame de admissão, a entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, no prazo de cinco dias após a publicação dos resultados do exame referido no artigo anterior e da lista de classificação dos candidatos inscreve os candidatos nas listas oficiais.\n\n2 - Cada candidato pode inscrever-se em mais do que uma lista oficial, havendo uma lista por cada comarca."
+  },
+  "106968266": {
+   "fragment_id": "107014843",
+   "type": 1,
+   "heading": "Capítulo III — Direitos e deveres dos administradores judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Direitos e deveres dos administradores judiciais"
+  },
+  "107023396": {
+   "fragment_id": "107014844",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos dos administradores judiciais",
+   "in_force_from": "2017-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2017 - Diário da República n.º 94/2017, Série I de 2017-05-16](https://diariodarepublica.pt/dr/detalhe/lei/17-2017-107014810), em vigor a partir de 2017-05-17"
+   ],
+   "markdown": "###### Artigo 11.º — Direitos dos administradores judiciais\n\nNo exercício das suas funções, os administradores judiciais gozam dos direitos a:\n\na) Equiparação aos agentes de execução para efeitos de:\n\ni) Direito de ingresso nas secretarias judiciais e demais serviços públicos, designadamente conservatórias e serviços de finanças;\n\nii) Acesso ao registo informático de execuções nos termos do Decreto-Lei n.º 201/2003, de 10 de setembro, alterado pelo Decreto-Lei n.º 53/2004, de 18 de março, pela Lei n.º 60-A/2005, de 30 de dezembro, e pelo Decreto-Lei n.º 226/2008, de 20 de novembro;\n\niii) Consulta das bases de dados da administração tributária, da segurança social, das conservatórias do registo predial, comercial e automóvel e de outros registos e arquivos semelhantes, de acordo com o disposto no artigo 749.º do Código de Processo Civil e a regulamentar por portaria nos termos do n.º 3 desse artigo, na medida necessária ao exercício das competências que lhes são legalmente atribuídas;\n\nb) Possuir documento de identificação profissional emitido pelo Ministério da Justiça, nos termos a aprovar por portaria do membro do Governo responsável pela área da justiça, que atesta a qualidade de administrador judicial;\n\nc) Distribuição equitativa das nomeações nos processos, a qual deve ser assegurada, preferencialmente, através de meios eletrónicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2017 - Diário da República n.º 94/2017, Série I de 2017-05-16](https://diariodarepublica.pt/dr/detalhe/lei/17-2017-107014810), em vigor a partir de 2017-05-17"
+  },
+  "106968268": {
+   "fragment_id": "107014845",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Deveres\n\n1 - Os administradores judiciais devem, no exercício das suas funções e fora delas, considerar-se servidores da justiça e do direito e, como tal, mostrar-se dignos da honra e das responsabilidades que lhes são inerentes.\n\n2 - Os administradores judiciais, no exercício das suas funções, devem atuar com absoluta independência e isenção, estando-lhes vedada a prática de quaisquer atos que, para seu benefício ou de terceiros, possam pôr em crise, consoante os casos, a recuperação do devedor, ou, não sendo esta viável, a sua liquidação, devendo orientar sempre a sua conduta para a maximização da satisfação dos interesses dos credores em cada um dos processos que lhes sejam confiados.\n\n3 - Os administradores judiciais só devem aceitar as nomeações efetuadas pelo juiz caso disponham dos meios necessários para o efetivo acompanhamento dos processos em que são nomeados.\n\n4 - Os administradores judiciais devem comunicar, preferencialmente, por via eletrónica, à entidade responsável pelo seu acompanhamento, fiscalização e disciplina, bem como ao juiz do processo, a recusa de aceitação de qualquer nomeação fundada na inexistência de meios, devendo a referida entidade, de imediato, impedir a ocorrência de novas nomeações.\n\n5 - Os administradores judiciais devem comunicar, preferencialmente por via eletrónica, com a antecedência mínima de 15 dias, aos juízes dos processos em que se encontrem a exercer funções e à entidade responsável pelo seu acompanhamento, fiscalização e disciplina qualquer mudança de domicílio profissional, bem como a informação atinente ao novo domicílio.\n\n6 - Os administradores judiciais que tenham completado 70 anos de idade devem fazer prova, mediante atestado médico, que possuem aptidão para o exercício da atividade.\n\n7 - O atestado a que se refere o número anterior é apresentado, preferencialmente por via eletrónica, à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais no mês seguinte àquele em que o administrador judicial completar 70 anos, devendo ser apresentado novo atestado de idêntico teor a cada dois anos.\n\n8 - Os administradores judiciais devem contratar seguro de responsabilidade civil obrigatório que cubra o risco inerente ao exercício das suas funções, sendo o montante do risco coberto definido em portaria do membro do Governo responsável pela área da justiça, e devem remeter, de imediato, preferencialmente por meios eletrónicos, à entidade responsável pelo acompanhamento, fiscalização e disciplina da sua atividade cópias dos contratos celebrados, bem como comprovativos da sua renovação, sempre que tal se justifique.\n\n9 - Os administradores judiciais estão sujeitos ao pagamento das taxas devidas à entidade responsável pelo seu acompanhamento, fiscalização e disciplina, a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\n10 - Os administradores judiciais devem frequentar as ações de formação contínua definidas pela entidade responsável pelo acompanhamento, fiscalização e disciplina da sua atividade em regulamento próprio desta entidade, competindo à mesma estabelecer os protocolos que julgue necessários para esse efeito, designadamente, com universidades, centros de formação profissional legalmente reconhecidos e com as associações representativas dos administradores judiciais.\n\n11 - Ao subcontratar qualquer entidade nos processos para os quais é nomeado, designadamente para efeitos de alienação de ativos, o administrador judicial deve celebrar com o subcontratante um contrato escrito no qual, expressamente, se definam, entre outros, o objeto contratual e os deveres e os direitos que assistem a ambas as partes.\n\n12 - Os administradores judiciais devem fornecer à entidade responsável pelo acompanhamento, fiscalização e disciplina a informação necessária que possibilite a avaliação do seu desempenho, nos termos definidos pela referida entidade."
+  },
+  "106968269": {
+   "fragment_id": "107014846",
+   "type": 1,
+   "heading": "Capítulo IV — Atividade dos administradores judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Atividade dos administradores judiciais"
+  },
+  "106968270": {
+   "fragment_id": "107014847",
+   "type": 11,
+   "heading": "Artigo 13.º — Nomeação dos administradores judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Nomeação dos administradores judiciais\n\n1 - Sem prejuízo do disposto no artigo 53.º do Código da Insolvência e da Recuperação de Empresas, apenas podem ser nomeados administradores judiciais aqueles que constem das listas oficiais de administradores judiciais.\n\n2 - Sem prejuízo do disposto no n.º 2 do artigo 52.º do Código da Insolvência e da Recuperação de Empresas, a nomeação a efetuar pelo juiz processa-se por meio de sistema informático que assegure a aleatoriedade da escolha e a distribuição em idêntico número dos administradores judiciais nos processos.\n\n3 - Não sendo possível ao juiz recorrer ao sistema informático a que alude o número anterior, este deve pugnar por nomear os administradores judiciais de acordo com os princípios vertidos no presente artigo, socorrendo-se para o efeito das listas a que se refere a presente lei."
+  },
+  "106968271": {
+   "fragment_id": "107014848",
+   "type": 11,
+   "heading": "Artigo 14.º — Exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Exercício de funções\n\nSem prejuízo do disposto no n.º 3 do artigo 12.º, os administradores judiciais exercem as suas funções por tempo indeterminado e sem limite máximo de processos."
+  },
+  "106968272": {
+   "fragment_id": "107014849",
+   "type": 11,
+   "heading": "Artigo 15.º — Suspensão do exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Suspensão do exercício de funções\n\n1 - Os administradores judiciais podem suspender o exercício da sua atividade pelo período máximo de dois anos, mediante requerimento dirigido, preferencialmente por via eletrónica, à entidade responsável pelo acompanhamento, fiscalização e disciplina.\n\n2 - Sendo requerida nova suspensão do exercício de funções pelo mesmo administrador judicial, esta apenas pode ser concedida depois de decorridos pelo menos três anos após o termo da primeira suspensão.\n\n3 - Sendo deferido o pedido de suspensão, o administrador judicial deve, por via eletrónica, comunicá-lo aos juízes dos processos em que se encontra a exercer funções, para que se proceda à sua substituição.\n\n4 - O administrador judicial substituído deve prestar toda a colaboração necessária que seja solicitada pelos administradores judiciais que o substituam."
+  },
+  "106968273": {
+   "fragment_id": "107014850",
+   "type": 11,
+   "heading": "Artigo 16.º — Escusa e substituição do administrador judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Escusa e substituição do administrador judicial\n\n1 - A todo o tempo, o administrador judicial pode pedir escusa de um processo para o qual tenha sido nomeado pelo juiz, em caso de grave e temporária impossibilidade de exercício de funções.\n\n2 - O pedido de escusa é apreciado pelo juiz, sendo comunicado à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais juntamente com a respetiva decisão, com vista à eventual instauração de processo disciplinar ou de processo de contraordenação.\n\n3 - Se a nomeação ou a escolha de administrador judicial o colocar em alguma das situações de impedimento ou de incompatibilidade previstos na presente lei, o administrador judicial deve comunicar imediatamente esse facto ao juiz do processo, requerendo a sua substituição.\n\n4 - Se, em qualquer momento, se verificar alguma circunstância suscetível de revelar falta de idoneidade, o administrador judicial deve comunicar imediatamente esse facto aos juízes dos processos em que tenha sido nomeado, requerendo a sua substituição.\n\n5 - Os juízes devem comunicar qualquer pedido de substituição que recebam dos administradores judiciais à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais.\n\n6 - O administrador judicial substituído deve prestar toda a colaboração necessária que seja solicitada pelos administradores judiciais que o substituam."
+  },
+  "106968274": {
+   "fragment_id": "107014851",
+   "type": 1,
+   "heading": "Capítulo V — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime sancionatório"
+  },
+  "107023375": {
+   "fragment_id": "107014852",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências sancionatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências sancionatórias\n\n1 - Compete à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais instruir os processos disciplinares e os processos de contraordenação relativos ao exercício de funções dos administradores judiciais, bem como punir as infrações por estes cometidas.\n\n2 - Ao processo disciplinar dos administradores judiciais aplica-se, subsidiariamente e com as necessárias adaptações, o Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas, aprovado em anexo à Lei n.º 58/2008, de 9 de setembro.\n\n3 - Aos processos de contraordenação instaurados contra administrador judicial aplica-se, subsidiariamente, o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "107023376": {
+   "fragment_id": "107014853",
+   "type": 11,
+   "heading": "Artigo 18.º — Processo disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Processo disciplinar\n\n1 - A entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais pode, por deliberação fundamentada e na sequência de processo disciplinar:\n\na) Suspender preventivamente o administrador judicial contra o qual tenha sido instaurado processo disciplinar ou contraordenacional, até à decisão dos referidos processos, a fim de prevenir a ocorrência de factos ilícitos;\n\nb) Admoestar, por escrito, o administrador judicial que tenha violado de forma leve os deveres profissionais a que está adstrito nos termos dos presentes estatutos e da lei;\n\nc) Instaurar processo de contraordenação, aplicando-se, neste caso, as sanções mencionadas no artigo seguinte.\n\n2 - A aplicação de qualquer das sanções previstas no número anterior é sempre precedida de audiência do interessado.\n\n3 - A instauração de processo disciplinar interrompe os prazos de prescrição das contraordenações eventualmente praticadas, iniciando-se a contagem dos prazos na data de decisão do processo disciplinar."
+  },
+  "107023377": {
+   "fragment_id": "107014854",
+   "type": 11,
+   "heading": "Artigo 19.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contraordenações\n\n1 - O exercício de funções de administrador judicial em violação do preceituado nos artigos 4.º ou 5.º, bem como o exercício de funções durante o período de suspensão ou após o cancelamento da inscrição, constitui contraordenação punível com coima de (euro) 2500 a (euro) 250 000.\n\n2 - A violação pelo administrador judicial dos deveres previstos nos n.os 2 e 10 do artigo 12.º, por ação ou omissão por ele praticada, constitui contraordenação punível com coima de (euro) 5000 a (euro) 500 000.\n\n3 - A violação de qualquer dever de informação previsto no presente estatuto ou na lei a cujo cumprimento esteja adstrito o administrador judicial constitui contraordenação punível com coima de (euro) 1000 a (euro) 50 000.\n\n4 - A violação de qualquer outro dever previsto no presente estatuto ou na lei a cujo cumprimento esteja obrigado o administrador judicial constitui contraordenação punível com coima de (euro) 1000 a (euro) 25 000."
+  },
+  "107023378": {
+   "fragment_id": "107014855",
+   "type": 11,
+   "heading": "Artigo 20.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime\n\n1 - Os ilícitos de mera ordenação social previstos na presente lei são imputados a título de dolo ou de negligência.\n\n2 - A negligência é punível, sendo os limites mínimo e máximo das coimas previstas no artigo anterior reduzidos para metade.\n\n3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.\n\n4 - A determinação da coima concreta e das sanções acessórias faz-se em função da ilicitude concreta do facto, da culpa do agente, dos benefícios obtidos e das exigências de prevenção.\n\n5 - Na determinação da ilicitude concreta do facto e da culpa das pessoas atende-se, entre outras, às seguintes circunstâncias:\n\na) O perigo ou o dano causados ao devedor e aos credores do processo em que o facto foi praticado;\n\nb) O caráter ocasional ou reiterado da infração;\n\nc) A existência de atos de ocultação tendentes a dificultar a descoberta da infração;\n\nd) A existência de atos do agente destinados a, por sua iniciativa, reparar os danos ou obviar aos perigos causados pela infração;\n\ne) Intenção de obter, para si ou para outrem, um benefício ilegítimo ou de causar danos.\n\n6 - Na determinação da sanção aplicável são ainda tomadas em consideração a situação económica e a conduta anterior do agente.\n\n7 - Sempre que o ilícito de mera ordenação social resulte da omissão de um dever, o pagamento da coima ou o cumprimento da sanção acessória não dispensam o infrator do cumprimento daquele, se tal ainda for possível.\n\n8 - Cumulativamente com as coimas, podem ser aplicadas aos responsáveis por qualquer contraordenação, além das previstas no regime geral do ilícito de mera ordenação social, as seguintes sanções acessórias:\n\na) Apreensão e perda do objeto da infração, incluindo o produto do benefício obtido pelo infrator através da prática da contraordenação;\n\nb) Interdição temporária do exercício pelo infrator da atividade de administrador judicial;\n\nc) Inibição do exercício de funções de administração, direção, chefia ou fiscalização de quaisquer pessoas coletivas e, em geral, de representação de quaisquer pessoas ou entidades;\n\nd) Publicação pela entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, a expensas do infrator e em locais idóneos para o cumprimento das finalidades de prevenção geral do sistema jurídico, da sanção aplicada pela prática da contraordenação;\n\ne) Cancelamento da inscrição para o exercício da atividade de administrador judicial.\n\n9 - As sanções referidas nas alíneas b) e c) do número anterior não podem ter duração superior a cinco anos, contados da decisão condenatória definitiva.\n\n10 - A publicação referida na alínea d) do n.º 8 pode ser feita na íntegra ou por extrato, conforme for decidido pela entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais.\n\n11 - As sociedades de administradores judiciais respondem solidariamente pelo pagamento das coimas, das custas e dos demais encargos com o processo em que forem condenados os seus sócios.\n\n12 - O produto das coimas previstas no artigo anterior é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 40 % para a entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais."
+  },
+  "107023379": {
+   "fragment_id": "107014856",
+   "type": 11,
+   "heading": "Artigo 21.º — Deveres de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Deveres de comunicação\n\n1 - A destituição do administrador da insolvência pelo juiz, nos termos do artigo 56.º do Código da Insolvência e da Recuperação de Empresas, é sempre comunicada por este à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, tendo em vista a eventual instauração de processo disciplinar ou de processo de contraordenação.\n\n2 - O juiz, os credores, o devedor e o Ministério Público devem ainda comunicar à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais a violação reiterada por parte destes de quaisquer outros deveres a que os mesmos estejam sujeitos no âmbito do processo especial de revitalização ou do processo de insolvência, para eventual instauração de processo disciplinar ou de processo de contraordenação."
+  },
+  "107023380": {
+   "fragment_id": "107014857",
+   "type": 1,
+   "heading": "Capítulo VI — Remuneração e pagamento do administrador judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Remuneração e pagamento do administrador judicial"
+  },
+  "107023381": {
+   "fragment_id": "107014858",
+   "type": 11,
+   "heading": "Artigo 22.º — Remuneração do administrador judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Remuneração do administrador judicial\n\nO administrador judicial tem direito a ser remunerado pelo exercício das funções que lhe são cometidas, bem como ao reembolso das despesas necessárias ao cumprimento das mesmas."
+  },
+  "107023382": {
+   "fragment_id": "107014859",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nRemuneração do administrador judicial provisório ou do administrador da insolvência nomeado por iniciativa do juiz\n\n1 - O administrador judicial provisório em processo especial de revitalização ou o administrador da insolvência em processo de insolvência nomeado por iniciativa do juiz tem direito a ser remunerado pelos atos praticados, de acordo com o montante estabelecido em portaria dos membros do Governo responsáveis pelas áreas das finanças, da justiça e da economia.\n\n2 - O administrador judicial provisório ou o administrador da insolvência nomeado por iniciativa do juiz aufere ainda uma remuneração variável em função do resultado da recuperação do devedor ou da liquidação da massa insolvente, cujo valor é o fixado nas tabelas constantes da portaria referida no número anterior.\n\n3 - Para efeito do disposto no número anterior, em processo especial de revitalização ou em processo de insolvência que envolva a apresentação de um plano de recuperação que venha a ser aprovado, considera-se resultado da recuperação o valor determinado com base no montante dos créditos a satisfazer aos credores integrados no plano, conforme tabela específica constante da portaria referida no n.º 1.\n\n4 - Para efeitos do n.º 2, considera-se resultado da liquidação o montante apurado para a massa insolvente, depois de deduzidos os montantes necessários ao pagamento das dívidas dessa mesma massa, com exceção da remuneração referida no n.º 1 e das custas de processos judiciais pendentes na data de declaração da insolvência.\n\n5 - O valor alcançado por aplicação das tabelas referidas nos n.os 2 e 3 é majorado, em função do grau de satisfação dos créditos reclamados e admitidos, pela aplicação dos fatores constantes da portaria referida no n.º 1.\n\n6 - Se, por aplicação do disposto nos números anteriores, a remuneração exceder o montante de (euro) 50 000 por processo, o juiz pode determinar que a remuneração devida para além desse montante seja inferior à resultante da aplicação dos critérios legais, tendo em conta, designadamente, os serviços prestados, os resultados obtidos, a complexidade do processo e a diligência empregue no exercício das funções."
+  },
+  "107023383": {
+   "fragment_id": "107014860",
+   "type": 11,
+   "heading": "Artigo 24.º — Remuneração do administrador da insolvência nomeado ou substituído pela assembleia de credores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Remuneração do administrador da insolvência nomeado ou substituído pela assembleia de credores\n\n1 - Sempre que o administrador da insolvência for nomeado pela assembleia de credores, o montante da remuneração é fixado na mesma deliberação que procede à nomeação.\n\n2 - O administrador da insolvência nomeado pelo juiz, que for substituído pelos credores, nos termos do n.º 1 do artigo 53.º do Código da Insolvência e da Recuperação de Empresas, tem direito a receber, para além da remuneração determinada em função dos atos por si praticados, o valor resultante da aplicação das tabelas referidas nos n.os 2 e 3 do artigo anterior, em função do resultado da recuperação do devedor, ou do produto percebido pela massa insolvente fruto das diligências por si efetuadas, proporcionalmente ao montante total apurado para satisfação de créditos recuperados, sendo o valor assim calculado reduzido a um quinto."
+  },
+  "107023384": {
+   "fragment_id": "107014861",
+   "type": 11,
+   "heading": "Artigo 25.º — Remuneração pela gestão de estabelecimento compreendido na massa insolvente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Remuneração pela gestão de estabelecimento compreendido na massa insolvente\n\n1 - Quando competir ao administrador da insolvência a gestão de estabelecimento em atividade compreendido na massa insolvente, cabe ao juiz fixar-lhe a remuneração devida até à deliberação a tomar pela assembleia de credores, nos termos do n.º 1 do artigo 156.º do Código da Insolvência e da Recuperação de Empresas.\n\n2 - Na fixação da remuneração prevista no número anterior, deve o juiz atender ao volume de negócios do estabelecimento, à prática de remunerações seguida na empresa, ao número de trabalhadores e à dificuldade das funções compreendidas na gestão do estabelecimento.\n\n3 - Caso os credores deliberem, nos termos referidos no n.º 1, manter em atividade o estabelecimento compreendido na massa insolvente, devem, na mesma deliberação, fixar a remuneração devida ao administrador da insolvência pela gestão do mesmo."
+  },
+  "107023385": {
+   "fragment_id": "107014862",
+   "type": 11,
+   "heading": "Artigo 26.º — Remuneração pela elaboração do plano de insolvência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Remuneração pela elaboração do plano de insolvência\n\nCaso os credores deliberem, na assembleia referida no n.º 1 do artigo anterior, instruir o administrador da insolvência no sentido de elaborar um plano de insolvência, devem, na mesma deliberação, fixar a remuneração devida pela elaboração deste, podendo o administrador da insolvência recusar-se a elaborar o plano se considerar que a remuneração que lhe seja fixada não é adequada."
+  },
+  "107023386": {
+   "fragment_id": "107014863",
+   "type": 11,
+   "heading": "Artigo 27.º — Remuneração do administrador judicial provisório no processo de insolvência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Remuneração do administrador judicial provisório no processo de insolvência\n\nA fixação da remuneração do administrador judicial provisório, nos termos do n.º 2 do artigo 32.º do Código da Insolvência e da Recuperação de Empresas, deve respeitar os critérios enunciados no n.º 2 do artigo 25.º, bem como ter em conta a extensão das tarefas que lhe são confiadas."
+  },
+  "107023387": {
+   "fragment_id": "107014864",
+   "type": 11,
+   "heading": "Artigo 28.º — Remuneração do fiduciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Remuneração do fiduciário\n\nA remuneração do fiduciário corresponde a 10 % das quantias objeto de cessão, com o limite máximo de (euro) 5000 por ano."
+  },
+  "107023388": {
+   "fragment_id": "107014865",
+   "type": 11,
+   "heading": "Artigo 29.º — Pagamento da remuneração do administrador da insolvência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Pagamento da remuneração do administrador da insolvência\n\n1 - Sem prejuízo do disposto no n.º 4 do artigo 52.º e no n.º 7 do artigo 55.º do Código da Insolvência e da Recuperação de Empresas, a remuneração do administrador da insolvência e o reembolso das despesas são suportados pela massa insolvente, salvo o disposto no artigo seguinte.\n\n2 - A remuneração prevista no n.º 1 do artigo 23.º é paga em duas prestações de igual montante, vencendo-se a primeira na data da nomeação e a segunda seis meses após tal nomeação, mas nunca após a data de encerramento do processo.\n\n3 - A remuneração determinada nos termos do n.º 3 do artigo 23.º é paga em duas prestações de igual valor, sendo a primeira liquidada no momento da aprovação do plano e a segunda dois anos após a aprovação do plano, caso o devedor continue a cumprir regularmente o plano aprovado.\n\n4 - Caso o devedor deixe de cumprir o plano aprovado, o valor da segunda prestação é reduzido para um quinto.\n\n5 - A remuneração variável relativa ao produto da liquidação da massa insolvente é paga a final, vencendo-se na data de encerramento do processo.\n\n6 - A remuneração pela gestão de estabelecimento integrado na massa insolvente, nos termos do n.º 1 do artigo 25.º, é suportada pela massa insolvente e, prioritariamente, pelos proventos obtidos com a exploração do estabelecimento.\n\n7 - Sempre que a administração da massa insolvente seja assegurada pelo devedor, nos termos dos artigos 223.º a 229.º do Código da Insolvência e da Recuperação de Empresas, a remuneração prevista no n.º 2 e a provisão para despesas referida no número seguinte são por este retiradas da massa insolvente e entregues ao administrador da insolvência.\n\n8 - A provisão para despesas equivale a um quarto da remuneração fixada na portaria referida no n.º 1 do artigo 23.º e é paga em duas prestações de igual montante, sendo a primeira paga imediatamente após a nomeação e a segunda após a elaboração do relatório pelo administrador da insolvência, nos termos do artigo 155.º do Código da Insolvência e da Recuperação de Empresas.\n\n9 - Nos casos em que a administração da massa insolvente ou a liquidação fiquem a cargo do administrador da insolvência e a massa insolvente tenha liquidez, os montantes referidos nos números anteriores são diretamente retirados por este da massa.\n\n10 - Não se verificando liquidez na massa insolvente, é aplicável o disposto no n.º 1 do artigo seguinte relativamente ao pagamento da provisão para despesas do administrador da insolvência.\n\n11 - No que respeita às despesas de deslocação, apenas são reembolsadas aquelas que seriam devidas a um administrador da insolvência que tenha domicílio profissional na comarca em que foi instaurado o processo de insolvência, ou nas comarcas limítrofes.\n\n12 - Os credores podem igualmente assumir o encargo de adiantamento da remuneração do administrador da insolvência ou das respetivas despesas.\n\n13 - A massa insolvente deve reembolsar os credores dos montantes adiantados nos termos dos números anteriores logo que tenha recursos disponíveis para esse efeito."
+  },
+  "107023389": {
+   "fragment_id": "107014866",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nPagamento da remuneração do administrador da insolvência suportada pelo organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça\n\n1 - Nas situações previstas nos artigos 39.º e 232.º do Código da Insolvência e da Recuperação de Empresas, a remuneração do administrador da insolvência e o reembolso das despesas são suportados pelo organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça.\n\n2 - Nos casos previstos no artigo 39.º do Código da Insolvência e da Recuperação de Empresas, a provisão a adiantar pelo organismo referido no número anterior é metade da prevista no n.º 8 do artigo anterior, sendo paga imediatamente após a nomeação.\n\n3 - Se o devedor beneficiar do diferimento do pagamento das custas, nos termos do n.º 1 do artigo 248.º do Código da Insolvência e da Recuperação de Empresas, o pagamento da remuneração e o reembolso das despesas são suportados pelo organismo referido no n.º 1, na medida em que a massa insolvente seja insuficiente para esse efeito.\n\n4 - Nos casos previstos no artigo 39.º do Código da Insolvência e da Recuperação de Empresas, a remuneração do administrador da insolvência é reduzida a um quarto do valor fixado pela portaria referida no n.º 1 do artigo 23.º\n\n5 - Para efeitos do presente artigo, não se considera insuficiência da massa a mera falta de liquidez."
+  },
+  "107023390": {
+   "fragment_id": "107014867",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "107023391": {
+   "fragment_id": "107014868",
+   "type": 11,
+   "heading": "Artigo 31.º — Entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais\n\nA entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais rege-se por diploma próprio."
+  },
+  "107023392": {
+   "fragment_id": "107014869",
+   "type": 11,
+   "heading": "Artigo 32.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Disposições transitórias\n\n1 - No prazo de 60 dias após a data da entrada em vigor da presente lei, os administradores da insolvência, inscritos nas listas previstas na Lei n.º 32/2004, de 22 de julho, alterada pela Lei n.º 34/2009, de 14 de julho, e pelo Decreto-Lei n.º 282/2007, de 7 de agosto, que demonstrem exercício efetivo das respetivas funções e que respeitem os requisitos previstos nas alíneas d) e e) do n.º 1 do artigo 3.º, podem requerer a inscrição nas listas oficiais de administradores judiciais.\n\n2 - Para efeitos do disposto no presente artigo, considera-se exercício efetivo de funções de administrador da insolvência o exercício das respetivas funções em, pelo menos, dois processos de insolvência nos últimos dois anos.\n\n3 - O requerimento de inscrição é dirigido à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, devendo ser instruído com os elementos necessários para demonstrar o cumprimento dos requisitos mencionados no n.º 1, bem como com a prova documental do exercício efetivo da atividade, nos termos do número anterior.\n\n4 - A entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais deve, no prazo de 10 dias após o termo do período previsto no n.º 1, publicar no Portal Citius as listas oficiais de administradores judiciais.\n\n5 - Até à publicação das listas oficiais referidas no número anterior no Portal Citius, os administradores da insolvência inscritos nas listas oficiais previstas pela Lei n.º 32/2004, de 22 de julho, alterada pela Lei n.º 34/2009, de 14 de julho, e pelo Decreto-Lei n.º 282/2007, de 7 de agosto, exercem as funções de administradores judiciais, sendo todas as nomeações efetuadas de entre os inscritos nas mencionadas listas, incidindo sobre os administradores da insolvência especialmente qualificados para a prática de atos de gestão as nomeações para processos em que seja previsível a existência de atos dessa natureza que requeiram especiais conhecimentos nessa área.\n\n6 - É extinta a comissão de apreciação e controlo da atividade dos administradores da insolvência a que se refere o artigo 12.º da Lei n.º 32/2004, de 22 de julho, alterada pela Lei n.º 34/2009, de 14 de julho, e pelo Decreto-Lei n.º 282/2007, de 7 de agosto, permanecendo esta em funções até à data de tomada de posse dos membros do órgão de direção da entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, cujos estatutos são regulados por diploma próprio.\n\n7 - Até à tomada de posse dos membros do órgão de gestão da entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, a comissão de apreciação e controlo da atividade dos administradores da insolvência assegura a marcha dos processos instaurados ou a instaurar contra os administradores da insolvência, podendo praticar os atos de gestão corrente que se mostrem necessários.\n\n8 - Os membros da comissão de apreciação e controlo da atividade dos administradores da insolvência devem prestar toda a colaboração aos órgãos da entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais a que se refere a presente lei.\n\n9 - Até à entrada em vigor da lei que aprovar a reforma judiciária atualmente em curso, a unidade territorial de base às listas de administradores judiciais referidas na presente lei é o distrito judicial."
+  },
+  "107023393": {
+   "fragment_id": "107014870",
+   "type": 11,
+   "heading": "Artigo 33.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Norma revogatória\n\nÉ revogada a Lei n.º 32/2004, de 22 de julho, alterada pela Lei n.º 34/2009, de 14 de julho, e pelo Decreto-Lei n.º 282/2007, de 7 de agosto."
+  },
+  "107023394": {
+   "fragment_id": "107014871",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "107023395": {
+   "fragment_id": "107014872",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 25 de janeiro de 2013.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 18 de fevereiro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 19 de fevereiro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "122102914": {
+   "fragment_id": "107014833",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção de administrador judicial",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 2.º — Noção de administrador judicial\n\n1 - O administrador judicial é a pessoa incumbida da fiscalização e da orientação dos atos integrantes do processo especial de revitalização e do processo especial para acordo de pagamento, bem como da gestão ou liquidação da massa insolvente no âmbito do processo de insolvência, sendo competente para a realização de todos os atos que lhe são cometidos pelo presente estatuto e pela lei.\n\n2 - O administrador judicial designa-se administrador judicial provisório, administrador da insolvência ou fiduciário, dependendo das funções que exerce no processo, nos termos da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102915": {
+   "fragment_id": "107014838",
+   "type": 11,
+   "heading": "Artigo 6.º — Listas oficiais de administradores judiciais",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 6.º — Listas oficiais de administradores judiciais\n\n1 - Para cada comarca existe uma lista de administradores judiciais, contendo o nome, o domicílio profissional, o endereço de correio eletrónico e o telefone profissional das pessoas habilitadas a exercer tal atividade na respetiva comarca.\n\n2 - Se o administrador judicial for sócio de uma sociedade de administradores judiciais, a lista deve conter, para além dos elementos referidos no número anterior, a referência àquela qualidade e a identificação da respetiva sociedade.\n\n3 - A manutenção e atualização das listas oficiais de administradores judiciais, bem como a sua colocação à disposição dos tribunais, preferencialmente por meios eletrónicos, cabem à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais.\n\n4 - As listas oficiais de administradores judiciais são públicas e disponibilizadas de forma permanente na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt.\n\n5 - A inscrição nas listas oficiais não investe os inscritos na qualidade de agente nem garante o pagamento de qualquer remuneração fixa por parte do Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102916": {
+   "fragment_id": "107014839",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição no estágio",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 7.º — Inscrição no estágio\n\n1 - A inscrição no estágio é solicitada à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, mediante requerimento acompanhado dos seguintes elementos:\n\na) Curriculum vitae;\n\nb) Certificado de licenciatura;\n\nc) Certificado do registo criminal;\n\nd) Declaração sobre o exercício de qualquer outra atividade remunerada e sobre a inexistência de qualquer das situações de incompatibilidade previstas na presente lei;\n\ne) Declaração de idoneidade;\n\nf) Declaração da sua situação financeira, com a discriminação de proveitos auferidos e encargos suportados à data da declaração;\n\ng) Atestado médico a que se referem os n.os 6 e 7 do artigo 12.º, no caso de o candidato ter 70 anos completos;\n\nh) Documento em que o interessado identifica as listas de administradores judiciais que pretende integrar no primeiro ano de atividade;\n\ni) Qualquer outro documento que o candidato considere relevante para instruir a sua candidatura.\n\n2 - Sem prejuízo do disposto no número anterior, a entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais pode solicitar ao interessado qualquer outro documento que repute como necessário para prova dos factos declarados.\n\n3 - Compete à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais determinar o momento de realização do estágio e fixar o número de candidatos ao estágio a ministrar em cada processo de recrutamento de administradores judiciais, devendo para o efeito atender às necessidades efetivas de recursos humanos para o exercício da atividade.\n\n4 - A entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais fixa, por regulamento, os critérios a observar na seleção dos candidatos ao estágio, sendo o referido regulamento publicado na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, em simultâneo com o anúncio de abertura do processo de recrutamento, com, pelo menos, 30 dias de antecedência face à data do início do estágio.\n\n5 - O candidato ao estágio, bem como o administrador judicial que venha a ser admitido para o exercício da atividade, deve manter atualizada a informação prestada à entidade responsável pelo acompanhamento, fiscalização e disciplina da sua atividade no momento da sua candidatura, devendo, contudo, ser anualmente atualizada a informação a que se refere a alínea f) do n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102917": {
+   "fragment_id": "107014841",
+   "type": 11,
+   "heading": "Artigo 9.º — Exame de admissão",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 9.º — Exame de admissão\n\n1 - O exame de admissão, realizado no termo do estágio a que se refere o artigo anterior, consiste numa prova escrita, elaborada pela entidade incumbida de organizar o estágio e aprovada pela entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, sobre as seguintes matérias:\n\na) Direito comercial e Código da Insolvência e da Recuperação de Empresas;\n\nb) Direito processual civil e direito do trabalho;\n\nc) Contabilidade e fiscalidade;\n\nd) Economia e gestão de empresas;\n\ne) Regras éticas e deontológicas a observar no exercício de funções de administrador judicial, as quais são definidas em regulamento aprovado pela entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, ouvidas as associações representativas dos administradores judiciais; e\n\nf) Prática da atividade de administrador judicial.\n\n2 - A data de realização do exame é publicada na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, com um mínimo de quatro meses de antecedência sobre a sua realização e de 30 dias de antecedência face ao início do estágio.\n\n3 - Considera-se aprovação no exame de admissão a obtenção de uma classificação igual ou superior a 10 valores, numa escala de 0 a 20 valores.\n\n4 - Os resultados do exame e a lista de classificação dos candidatos a administrador judicial são publicados na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, no prazo de 10 dias após a realização do exame.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102918": {
+   "fragment_id": "107014850",
+   "type": 11,
+   "heading": "Artigo 16.º — Escusa e substituição do administrador judicial",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 16.º — Escusa e substituição do administrador judicial\n\n1 - A todo o tempo, o administrador judicial pode pedir escusa de um processo para o qual tenha sido nomeado pelo juiz, em caso de grave e temporária impossibilidade de exercício de funções.\n\n2 - O pedido de escusa é comunicado ao juiz do processo, que decide de imediato a substituição do administrador judicial, comunicando o pedido de escusa e a decisão de substituição à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, tendo em vista a eventual instauração de processo disciplinar ou de processo de contraordenação.\n\n3 - Se a nomeação ou a escolha de administrador judicial o colocar em alguma das situações de impedimento ou de incompatibilidade previstos na presente lei, o administrador judicial deve comunicar imediatamente esse facto ao juiz do processo, requerendo a sua substituição.\n\n4 - Se, em qualquer momento, se verificar alguma circunstância suscetível de revelar falta de idoneidade, o administrador judicial deve comunicar imediatamente esse facto aos juízes dos processos em que tenha sido nomeado, requerendo a sua substituição.\n\n5 - Os juízes devem comunicar qualquer pedido de substituição que recebam dos administradores judiciais à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, tendo em vista a eventual instauração de processo disciplinar ou de processo de contraordenação.\n\n6 - O administrador judicial substituído deve prestar toda a colaboração necessária que seja solicitada pelos administradores judiciais que o substituam.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102919": {
+   "fragment_id": "107014852",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências sancionatórias",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 17.º — Competências sancionatórias\n\n1 - Compete à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais instruir os processos disciplinares e os processos de contraordenação relativos ao exercício de funções dos administradores judiciais, bem como punir as infrações por estes cometidas.\n\n2 - Ao processo disciplinar dos administradores judiciais aplica-se, subsidiariamente e com as necessárias adaptações, o regime disciplinar previsto na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n3 - Aos processos de contraordenação instaurados contra administrador judicial aplica-se, subsidiariamente, o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102925": {
+   "fragment_id": "107014853",
+   "type": 11,
+   "heading": "Artigo 18.º — Processo disciplinar",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 18.º — Processo disciplinar\n\n1 - A entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais pode, por deliberação fundamentada e na sequência de processo disciplinar:\n\na) Suspender preventivamente o administrador judicial contra o qual tenha sido instaurado processo disciplinar ou contraordenacional, até à decisão dos referidos processos, a fim de prevenir a ocorrência de factos ilícitos;\n\nb) Admoestar, por escrito, o administrador judicial que tenha violado de forma leve os deveres profissionais a que está adstrito nos termos dos presentes estatutos e da lei;\n\nc) (Revogado).\n\n2 - A aplicação de qualquer das sanções previstas no número anterior é sempre precedida de audiência do interessado.\n\n3 - A instauração de processo disciplinar interrompe os prazos de prescrição das contraordenações eventualmente praticadas, iniciando-se a contagem dos prazos na data de decisão do processo disciplinar.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102920": {
+   "fragment_id": "107014854",
+   "type": 11,
+   "heading": "Artigo 19.º — Contraordenações",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 19.º — Contraordenações\n\n1 - A entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais pode, por deliberação fundamentada, instaurar processo de contraordenação, aplicando-se, neste caso, as sanções previstas nos números seguintes.\n\n2 - O exercício de funções de administrador judicial em violação do preceituado nos artigos 4.º ou 5.º, bem como o exercício de funções durante o período de suspensão ou após o cancelamento da inscrição, constitui contraordenação punível com coima de (euro) 2500 a (euro) 250 000.\n\n3 - A violação pelo administrador judicial dos deveres previstos nos n.os 2 e 10 do artigo 12.º, por ação ou omissão por ele praticada, constitui contraordenação punível com coima de (euro) 5000 a (euro) 500 000.\n\n4 - A violação de qualquer dever de informação previsto no presente estatuto ou na lei a cujo cumprimento esteja adstrito o administrador judicial constitui contraordenação punível com coima de (euro) 1000 a (euro) 50 000.\n\n5 - A violação de qualquer outro dever previsto no presente estatuto ou na lei a cujo cumprimento esteja obrigado o administrador judicial constitui contraordenação punível com coima de (euro) 1000 a (euro) 25 000.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102921": {
+   "fragment_id": "107014856",
+   "type": 11,
+   "heading": "Artigo 21.º — Deveres de comunicação",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 21.º — Deveres de comunicação\n\n1 - A destituição do administrador da insolvência pelo juiz, nos termos do artigo 56.º do Código da Insolvência e da Recuperação de Empresas, é sempre comunicada por este à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, tendo em vista a eventual instauração de processo disciplinar ou de processo de contraordenação.\n\n2 - O juiz, os credores, o devedor e o Ministério Público devem ainda comunicar à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais a violação reiterada por parte destes de quaisquer outros deveres a que os mesmos estejam sujeitos no âmbito do processo especial de revitalização, do processo especial para acordo de pagamento ou do processo de insolvência, para eventual instauração de processo disciplinar ou de processo de contraordenação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102922": {
+   "fragment_id": "107014859",
+   "type": 11,
+   "heading": "Artigo 23.º — Remuneração do administrador judicial nomeado por iniciativa do juiz",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 23.º — Remuneração do administrador judicial nomeado por iniciativa do juiz\n\n1 - O administrador judicial provisório em processo especial de revitalização ou em processo especial para acordo de pagamento ou o administrador da insolvência em processo de insolvência nomeado por iniciativa do juiz tem direito a ser remunerado pelos atos praticados, de acordo com o montante estabelecido em portaria dos membros do Governo responsáveis pelas áreas das finanças, da justiça e da economia.\n\n2 - Os administradores judiciais referidos no número anterior auferem ainda uma remuneração variável em função do resultado da recuperação do devedor ou da liquidação da massa insolvente, cujo valor é o fixado na portaria referida no número anterior.\n\n3 - Para os efeitos do disposto no número anterior, em processo especial de revitalização, em processo especial para acordo de pagamento ou em processo de insolvência em que seja aprovado um plano de recuperação, considera-se resultado da recuperação o valor determinado com base no montante dos créditos a satisfazer aos credores integrados no plano, conforme o regime previsto na portaria referida no n.º 1.\n\n4 - Para efeitos do n.º 2, considera-se resultado da liquidação o montante apurado para a massa insolvente, depois de deduzidos os montantes necessários ao pagamento das dívidas dessa mesma massa, com exceção da remuneração referida no n.º 1 e das custas de processos judiciais pendentes na data de declaração da insolvência.\n\n5 - O valor alcançado por aplicação das regras referidas nos n.os 3 e 4 é majorado, em função do grau de satisfação dos créditos reclamados e admitidos, pela aplicação dos fatores constantes da portaria referida no n.º 1.\n\n6 - Se, por aplicação do disposto nos números anteriores relativamente a processos em que haja liquidação da massa insolvente, a remuneração exceder o montante de (euro) 50 000 por processo, o juiz pode determinar que a remuneração devida para além desse montante seja inferior à resultante da aplicação dos critérios legais, tendo em conta, designadamente, os serviços prestados, os resultados obtidos, a complexidade do processo e a diligência empregue pelo administrador judicial no exercício das suas funções.\n\n7 - À remuneração devida ao administrador judicial comum para os devedores que se encontrem em situação de relação de domínio ou de grupo, nomeado nos termos do disposto no n.º 6 do artigo 52.º do Código da Insolvência e da Recuperação de Empresas, aplica-se o limite referido no número anterior acrescido de (euro) 10 000 por cada um dos devedores do mesmo grupo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102906": {
+   "fragment_id": "122124269",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Remuneração do administrador judicial com funções de apreciação de créditos reclamados entre devedores do mesmo grupo",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 26.º-A — Remuneração do administrador judicial com funções de apreciação de créditos reclamados entre devedores do mesmo grupo\n\n1 - O administrador judicial com funções restritas à apreciação de créditos reclamados entre devedores do mesmo grupo, nomeado nos termos do n.º 6 do artigo 52.º do Código da Insolvência e da Recuperação de Empresas, aufere uma remuneração fixa em montante estabelecido na portaria a que se refere o n.º 1 do artigo 23.º\n\n2 - Sem prejuízo do disposto no número anterior, ponderados o volume e número de créditos apreciados, o juiz pode ainda fixar uma remuneração variável.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102907": {
+   "fragment_id": "107014863",
+   "type": 11,
+   "heading": "Artigo 27.º — Remuneração do administrador judicial provisório no processo de insolvência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Remuneração do administrador judicial provisório no processo de insolvência\n\nA fixação da remuneração do administrador judicial provisório, nos termos do n.º 2 do artigo 32.º do Código da Insolvência e da Recuperação de Empresas, deve respeitar os critérios enunciados no n.º 2 do artigo 25.º, bem como ter em conta a extensão das tarefas que lhe são confiadas."
+  },
+  "122102923": {
+   "fragment_id": "107014864",
+   "type": 11,
+   "heading": "Artigo 28.º — Remuneração do fiduciário",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 28.º — Remuneração do fiduciário\n\n1 - A remuneração do fiduciário corresponde a 10 % das quantias objeto de cessão, com o limite máximo de (euro) 5000 por ano.\n\n2 - No caso de as quantias objeto de cessão serem inferiores a (euro) 3 000 por ano, a remuneração é fixada pelo juiz com o limite máximo de (euro) 300.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102911": {
+   "fragment_id": "122124270",
+   "type": 11,
+   "heading": "Artigo 28.º-A — Remuneração do administrador judicial provisório em processo de suprimento judicial da deliberação de conversão de créditos em capital",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 28.º-A — Remuneração do administrador judicial provisório em processo de suprimento judicial da deliberação de conversão de créditos em capital\n\n1 - O administrador judicial provisório nomeado nos termos do disposto no n.º 2 do artigo 5.º da Lei n.º 7/2018, de 2 de março, aufere uma remuneração fixa em montante estabelecido na portaria a que se refere o n.º 1 do artigo 23.º\n\n2 - Sem prejuízo do disposto no número anterior, ponderados o volume e número de créditos apreciados para os efeitos do disposto no n.º 3 do artigo 5.º da Lei n.º 7/2018, de 2 de março, o juiz pode ainda fixar uma remuneração variável.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102924": {
+   "fragment_id": "107014865",
+   "type": 11,
+   "heading": "Artigo 29.º — Pagamento da remuneração do administrador judicial",
+   "in_force_from": "2019-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 29.º — Pagamento da remuneração do administrador judicial\n\n1 - Sem prejuízo do disposto no n.º 4 do artigo 52.º e no n.º 7 do artigo 55.º do Código da Insolvência e da Recuperação de Empresas, a remuneração do administrador da insolvência e o reembolso das despesas são suportados pela massa insolvente, salvo o disposto no artigo seguinte.\n\n2 - A remuneração prevista no n.º 1 do artigo 23.º é paga em duas prestações de igual montante, vencendo-se a primeira na data da nomeação e a segunda seis meses após tal nomeação, mas nunca após a data de encerramento do processo.\n\n3 - A remuneração variável relativa ao resultado da recuperação do devedor é paga em duas prestações de igual valor, sendo a primeira liquidada no momento da aprovação do plano de recuperação e a segunda dois anos após a aprovação do referido plano, caso o devedor continue a cumprir regularmente o plano aprovado.\n\n4 - Caso o devedor deixe de cumprir o plano aprovado, o valor da segunda prestação é reduzido para um quinto.\n\n5 - A remuneração variável relativa ao produto da liquidação da massa insolvente é paga a final, vencendo-se na data de encerramento do processo.\n\n6 - A remuneração pela gestão de estabelecimento integrado na massa insolvente, nos termos do n.º 1 do artigo 25.º, é suportada pela massa insolvente e, prioritariamente, pelos proventos obtidos com a exploração do estabelecimento.\n\n7 - Sempre que a administração da massa insolvente seja assegurada pelo devedor, nos termos dos artigos 223.º a 229.º do Código da Insolvência e da Recuperação de Empresas, a remuneração prevista no n.º 2 e a provisão para despesas referida no número seguinte são por este retiradas da massa insolvente e entregues ao administrador da insolvência.\n\n8 - A provisão para despesas corresponde a duas UCs e é paga imediatamente após a nomeação.\n\n9 - Nos casos em que a administração da massa insolvente ou a liquidação fiquem a cargo do administrador da insolvência e a massa insolvente tenha liquidez, os montantes referidos nos números anteriores são diretamente retirados por este da massa.\n\n10 - Não se verificando liquidez na massa insolvente, é aplicável o disposto no n.º 1 do artigo seguinte relativamente ao pagamento da provisão para despesas do administrador da insolvência.\n\n11 - No que respeita às despesas de deslocação, apenas são reembolsadas aquelas que seriam devidas a um administrador judicial que tenha domicílio profissional na comarca em que foi instaurado o processo especial de revitalização, o processo especial para acordo de pagamento ou processo de insolvência, ou nas comarcas limítrofes.\n\n12 - Os credores podem igualmente assumir o encargo de adiantamento da remuneração do administrador judicial ou das respetivas despesas.\n\n13 - A massa insolvente deve reembolsar os credores dos montantes adiantados nos termos dos números anteriores logo que tenha recursos disponíveis para esse efeito.\n\n14 - A remuneração do administrador judicial previsto no artigo 26.º-A é suportada pela massa insolvente do devedor que exerça influência dominante.\n\n15 - A remuneração fixa prevista no n.º 1 do artigo 26.º-A é paga após a apresentação da relação de créditos prevista no artigo 129.º do Código da Insolvência e da Recuperação de Empresas.\n\n16 - A remuneração variável prevista no n.º 2 do artigo 26.º-A, quando seja fixada, é paga após a prolação da sentença de verificação e graduação de créditos ou, caso não haja lugar à prolação da mesma, na data do encerramento do processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "122102913": {
+   "fragment_id": "107014866",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nPagamento da remuneração do administrador da insolvência suportada pelo organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça\n\n1 - Nas situações previstas nos artigos 39.º e 232.º do Código da Insolvência e da Recuperação de Empresas, a remuneração do administrador da insolvência e o reembolso das despesas são suportados pelo organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça.\n\n2 - Nos casos previstos no artigo 39.º do Código da Insolvência e da Recuperação de Empresas, a provisão a adiantar pelo organismo referido no número anterior é metade da prevista no n.º 8 do artigo anterior, sendo paga imediatamente após a nomeação.\n\n3 - Se o devedor beneficiar do diferimento do pagamento das custas, nos termos do n.º 1 do artigo 248.º do Código da Insolvência e da Recuperação de Empresas, o pagamento da remuneração e o reembolso das despesas são suportados pelo organismo referido no n.º 1, na medida em que a massa insolvente seja insuficiente para esse efeito.\n\n4 - Nos casos previstos no artigo 39.º do Código da Insolvência e da Recuperação de Empresas, a remuneração do administrador da insolvência é reduzida a um quarto do valor fixado pela portaria referida no n.º 1 do artigo 23.º\n\n5 - Para efeitos do presente artigo, não se considera insuficiência da massa a mera falta de liquidez."
+  },
+  "174875602": {
+   "fragment_id": "107014837",
+   "type": 11,
+   "heading": "Artigo 5.º — Idoneidade",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 5.º — Idoneidade\n\n1 - Cada candidato a administrador judicial deve emitir, aquando da sua candidatura ao exercício da atividade, declaração escrita, dirigida à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, atestando que dispõe da aptidão necessária para o exercício da mesma, e que conduz a sua vida pessoal e profissional de forma idónea.\n\n2 - Entre outras circunstâncias, considera-se indiciador de falta de idoneidade para o exercício da atividade o facto de a pessoa ter sido:\n\na) Condenada com trânsito em julgado, no país ou no estrangeiro, por crime de furto, roubo, burla, burla informática e nas comunicações, extorsão, abuso de confiança, recetação, infidelidade, falsificação, falsas declarações, insolvência dolosa, frustração de créditos, insolvência negligente, favorecimento de credores, emissão de cheques sem provisão, abuso de cartão de garantia ou de cartão, dispositivo ou dados de pagamento, apropriação ilegítima de bens do sector público ou cooperativo, administração danosa em unidade económica do sector público ou cooperativo, usura, suborno, corrupção, tráfico de influência, peculato, receção não autorizada de depósitos ou outros fundos reembolsáveis, prática ilícita de atos ou operações inerentes à atividade seguradora ou dos fundos de pensões, fraude fiscal ou outro crime tributário, branqueamento de capitais, contrafação de cartões ou outros dispositivos de pagamento, uso de cartões ou outros dispositivos de pagamento contrafeitos, aquisição de cartões ou outros dispositivos de pagamento contrafeitos, atos preparatórios da contrafação, aquisição de cartões ou outros dispositivos de pagamento obtidos mediante crime informático, ou crime previsto no Código das Sociedades Comerciais ou no Código dos Valores Mobiliários;\n\nb) Declarada, nos últimos 15 anos, por sentença nacional ou estrangeira transitada em julgado, insolvente ou julgada responsável por insolvência de empresa por ela dominada ou de cujos órgãos de administração ou fiscalização tenha sido membro.\n\n3 - O disposto no número anterior não impede que a entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais considere qualquer outro facto como indiciador de falta de idoneidade para o exercício da atividade.\n\n4 - A verificação da ocorrência dos factos descritos no n.º 2 não impede a entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais de considerar, de forma fundamentada, que estão reunidas as condições de idoneidade para o exercício da atividade de administrador judicial, tendo em conta, nomeadamente, o tempo decorrido desde a prática dos factos.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 79/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/lei/79-2021-174824631), em vigor a partir de 2021-12-24"
+  },
+  "177528506": {
+   "fragment_id": "107014839",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição no estágio",
+   "in_force_from": "2022-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 7.º — Inscrição no estágio\n\n1 - A inscrição no estágio é solicitada à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais, mediante requerimento acompanhado dos seguintes elementos:\n\na) Curriculum vitae;\n\nb) Certificado de licenciatura;\n\nc) Certificado do registo criminal;\n\nd) Declaração sobre o exercício de qualquer outra atividade remunerada e sobre a inexistência de qualquer das situações de incompatibilidade previstas na presente lei;\n\ne) Declaração de idoneidade;\n\nf) Declaração da sua situação financeira, com a discriminação de proveitos auferidos e encargos suportados à data da declaração;\n\ng) Atestado médico a que se referem os n.os 6 e 7 do artigo 12.º, no caso de o candidato ter 70 anos completos;\n\nh) Documento em que o interessado identifica as listas de administradores judiciais que pretende integrar no primeiro ano de atividade;\n\ni) Qualquer outro documento que o candidato considere relevante para instruir a sua candidatura.\n\n2 - Sem prejuízo do disposto no número anterior, a entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais pode solicitar ao interessado qualquer outro documento que repute como necessário para prova dos factos declarados.\n\n3 - Compete à entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais determinar o momento de realização do estágio.\n\n4 - A entidade responsável pelo acompanhamento, fiscalização e disciplina dos administradores judiciais fixa, por regulamento, os critérios a observar na seleção dos candidatos ao estágio, sendo o referido regulamento publicado na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, em simultâneo com o anúncio de abertura do processo de recrutamento, com, pelo menos, 30 dias de antecedência face à data do início do estágio.\n\n5 - O candidato ao estágio, bem como o administrador judicial que venha a ser admitido para o exercício da atividade, deve manter atualizada a informação prestada à entidade responsável pelo acompanhamento, fiscalização e disciplina da sua atividade no momento da sua candidatura, devendo, contudo, ser anualmente atualizada a informação a que se refere a alínea f) do n.º 1.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "177528507": {
+   "fragment_id": "107014859",
+   "type": 11,
+   "heading": "Artigo 23.º — Remuneração do administrador judicial nomeado por iniciativa do juiz",
+   "in_force_from": "2022-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 23.º — Remuneração do administrador judicial nomeado por iniciativa do juiz\n\n1 - O administrador judicial provisório em processo especial de revitalização ou em processo especial para acordo de pagamento ou o administrador da insolvência em processo de insolvência nomeado por iniciativa do juiz tem direito a ser remunerado pelos atos praticados, sendo o valor da remuneração fixa de 2000 (euro).\n\n2 - Caso o processo seja tramitado ao abrigo do disposto no artigo 39.º do Código da Insolvência e da Recuperação de Empresas, a remuneração referida no número anterior é reduzida para um quarto.\n\n3 - Sem prejuízo do direito à remuneração variável, calculada nos termos dos números seguintes, no caso de o administrador judicial exercer as suas funções por menos de seis meses devido à sua substituição por outro administrador judicial, aquele apenas aufere a primeira das prestações mencionadas no n.º 2 do artigo 29.º\n\n4 - Os administradores judiciais referidos no n.º 1 auferem ainda uma remuneração variável em função do resultado da recuperação do devedor ou da liquidação da massa insolvente, cujo valor é calculado nos termos seguintes:\n\na) 10 % da situação líquida, calculada 30 dias após a homologação do plano de recuperação do devedor, nos termos do n.º 5;\n\nb) 5 % do resultado da liquidação da massa insolvente, nos termos do n.º 6.\n\n5 - Para os efeitos do disposto no número anterior, em processo especial de revitalização, em processo especial para acordo de pagamento ou em processo de insolvência em que seja aprovado um plano de recuperação, considera-se resultado da recuperação o valor determinado com base no montante dos créditos a satisfazer aos credores integrados no plano.\n\n6 - Para efeitos do n.º 4, considera-se resultado da liquidação o montante apurado para a massa insolvente, depois de deduzidos os montantes necessários ao pagamento das dívidas dessa mesma massa, com exceção da remuneração referida no n.º 1 e das custas de processos judiciais pendentes na data de declaração da insolvência.\n\n7 - O valor alcançado por aplicação das regras referidas nos n.os 5 e 6 é majorado, em função do grau de satisfação dos créditos reclamados e admitidos, em 5 % do montante dos créditos satisfeitos, sendo o respetivo valor pago previamente à satisfação daqueles.\n\n8 - Se, por aplicação do disposto nos números anteriores relativamente a processos em que haja liquidação da massa insolvente, a remuneração exceder o montante de (euro) 50 000 por processo, o juiz pode determinar que a remuneração devida para além desse montante seja inferior à resultante da aplicação dos critérios legais, tendo em conta, designadamente, os serviços prestados, os resultados obtidos, a complexidade do processo e a diligência empregue pelo administrador judicial no exercício das suas funções.\n\n9 - À remuneração devida ao administrador judicial comum para os devedores que se encontrem em situação de relação de domínio ou de grupo, nomeado nos termos do disposto no n.º 6 do artigo 52.º do Código da Insolvência e da Recuperação de Empresas, aplica-se o limite referido no número anterior acrescido de (euro) 10 000 por cada um dos devedores do mesmo grupo.\n\n10 - A remuneração calculada nos termos da alínea b) do n.º 4 não pode ser superior a 100 000 (euro).\n\n11 - No caso de o administrador judicial cessar funções antes do encerramento do processo, a remuneração variável é calculada proporcionalmente ao resultado da liquidação naquela data.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "177528508": {
+   "fragment_id": "107014860",
+   "type": 11,
+   "heading": "Artigo 24.º — Remuneração do administrador da insolvência nomeado ou substituído pela assembleia de credores",
+   "in_force_from": "2022-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11"
+   ],
+   "markdown": "###### Artigo 24.º — Remuneração do administrador da insolvência nomeado ou substituído pela assembleia de credores\n\n1 - Sempre que o administrador da insolvência for nomeado pela assembleia de credores, o montante da remuneração é fixado na mesma deliberação que procede à nomeação.\n\n2 - O administrador da insolvência nomeado pelo juiz que for substituído pelos credores, nos termos do n.º 1 do artigo 53.º do Código da Insolvência e da Recuperação de Empresas, tem direito a receber, para além da remuneração determinada em função dos atos por si praticados, remuneração variável, em função do resultado da recuperação do devedor, ou do produto percebido pela massa insolvente fruto das diligências por si efetuadas, proporcionalmente ao montante total apurado para satisfação de créditos recuperados, sendo o valor assim calculado reduzido a um quinto.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11"
+  },
+  "177528509": {
+   "fragment_id": "122124269",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Remuneração do administrador judicial com funções de apreciação de créditos reclamados entre devedores do mesmo grupo",
+   "in_force_from": "2022-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 26.º-A — Remuneração do administrador judicial com funções de apreciação de créditos reclamados entre devedores do mesmo grupo\n\n1 - O administrador judicial com funções restritas à apreciação de créditos reclamados entre devedores do mesmo grupo, nomeado nos termos do n.º 6 do artigo 52.º do Código da Insolvência e da Recuperação de Empresas, aufere uma remuneração fixa correspondente a um quarto da prevista no n.º 1 do artigo 23.º\n\n2 - Sem prejuízo do disposto no número anterior, ponderados o volume e o número de créditos apreciados, o juiz pode ainda fixar uma remuneração variável, não superior a 5000 (euro).\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "177528510": {
+   "fragment_id": "122124270",
+   "type": 11,
+   "heading": "Artigo 28.º-A — Remuneração do administrador judicial provisório em processo de suprimento judicial da deliberação de conversão de créditos em capital",
+   "in_force_from": "2022-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 28.º-A — Remuneração do administrador judicial provisório em processo de suprimento judicial da deliberação de conversão de créditos em capital\n\n1 - O administrador judicial provisório nomeado nos termos do disposto no n.º 2 do artigo 5.º da Lei n.º 7/2018, de 2 de março, aufere uma remuneração fixa correspondente a um quarto da prevista no n.º 1 do artigo 23.º\n\n2 - Sem prejuízo do disposto no número anterior, ponderados o volume e o número de créditos apreciados para os efeitos do disposto no n.º 3 do artigo 5.º da Lei n.º 7/2018, de 2 de março, o juiz pode ainda fixar uma remuneração variável, não superior a 5000 (euro).\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "177528511": {
+   "fragment_id": "107014865",
+   "type": 11,
+   "heading": "Artigo 29.º — Pagamento da remuneração do administrador judicial",
+   "in_force_from": "2022-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+   ],
+   "markdown": "###### Artigo 29.º — Pagamento da remuneração do administrador judicial\n\n1 - Sem prejuízo do disposto no n.º 4 do artigo 52.º e no n.º 7 do artigo 55.º do Código da Insolvência e da Recuperação de Empresas, a remuneração do administrador da insolvência e o reembolso das despesas são suportados pela massa insolvente, salvo o disposto no artigo seguinte.\n\n2 - A remuneração prevista no n.º 1 do artigo 23.º é paga em duas prestações de igual montante, vencendo-se a primeira na data da nomeação e a segunda seis meses após tal nomeação, mas nunca após a data de encerramento do processo.\n\n3 - A remuneração variável relativa ao resultado da recuperação do devedor é paga em duas prestações de igual valor, sendo a primeira liquidada no momento da aprovação do plano de recuperação e a segunda dois anos após a aprovação do referido plano, caso o devedor continue a cumprir regularmente o plano aprovado.\n\n4 - Caso o devedor deixe de cumprir o plano aprovado, o valor da segunda prestação é reduzido para um quinto.\n\n5 - A remuneração variável relativa ao produto da liquidação da massa insolvente é paga a final, vencendo-se na data de encerramento do processo.\n\n6 - A remuneração pela gestão de estabelecimento integrado na massa insolvente, nos termos do n.º 1 do artigo 25.º, é suportada pela massa insolvente e, prioritariamente, pelos proventos obtidos com a exploração do estabelecimento.\n\n7 - Sempre que a administração da massa insolvente seja assegurada pelo devedor, nos termos dos artigos 223.º a 229.º do Código da Insolvência e da Recuperação de Empresas, a remuneração prevista no n.º 2 e a provisão para despesas referida no número seguinte são por este retiradas da massa insolvente e entregues ao administrador da insolvência.\n\n8 - A provisão para despesas, paga pelo organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça, no valor de 2 UC, é paga imediatamente após a nomeação e corresponde às despesas efetuadas pelo administrador da insolvência.\n\n9 - Apenas não há lugar a reembolso da provisão para despesas mediante a apresentação de prova documental justificativa da sua realização, a qual deve ser remetida ao processo, acompanhada de fundamentação que a justifique.\n\n10 - Nos casos em que a administração da massa insolvente ou a liquidação fiquem a cargo do administrador da insolvência e a massa insolvente tenha liquidez, os montantes referidos nos números anteriores são diretamente retirados por este da massa.\n\n11 - Não se verificando liquidez na massa insolvente, é aplicável o disposto no n.º 1 do artigo seguinte relativamente ao pagamento da provisão para despesas do administrador da insolvência.\n\n12 - No que respeita às despesas de deslocação, apenas são reembolsadas aquelas que seriam devidas a um administrador judicial que tenha domicílio profissional na comarca em que foi instaurado o processo especial de revitalização, o processo especial para acordo de pagamento ou processo de insolvência, ou nas comarcas limítrofes.\n\n13 - Os credores podem igualmente assumir o encargo de adiantamento da remuneração do administrador judicial ou das respetivas despesas.\n\n14 - A massa insolvente deve reembolsar os credores dos montantes adiantados nos termos dos números anteriores logo que tenha recursos disponíveis para esse efeito.\n\n15 - A remuneração do administrador judicial previsto no artigo 26.º-A é suportada pela massa insolvente do devedor que exerça influência dominante.\n\n16 - A remuneração fixa prevista no n.º 1 do artigo 26.º-A é paga após a apresentação da relação de créditos prevista no artigo 129.º do Código da Insolvência e da Recuperação de Empresas.\n\n17 - A remuneração variável prevista no n.º 2 do artigo 26.º-A, quando seja fixada, é paga após a prolação da sentença de verificação e graduação de créditos ou, caso não haja lugar à prolação da mesma, na data do encerramento do processo.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 52/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2019-122124253), em vigor a partir de 2019-05-17"
+  },
+  "177528512": {
+   "fragment_id": "107014866",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": "2022-04-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11"
+   ],
+   "markdown": "###### Artigo 30.º\n\nPagamento da remuneração do administrador da insolvência suportada pelo organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça\n\n1 - Nas situações previstas nos artigos 39.º e 232.º do Código da Insolvência e da Recuperação de Empresas, a remuneração do administrador da insolvência e o reembolso das despesas são suportados pelo organismo responsável pela gestão financeira e patrimonial do Ministério da Justiça.\n\n2 - Nos casos previstos no artigo 39.º do Código da Insolvência e da Recuperação de Empresas, a provisão a adiantar pelo organismo referido no número anterior é metade da prevista no n.º 8 do artigo anterior, sendo paga imediatamente após a nomeação.\n\n3 - Se o devedor beneficiar do diferimento do pagamento das custas, nos termos do n.º 1 do artigo 248.º do Código da Insolvência e da Recuperação de Empresas, o pagamento da remuneração e o reembolso das despesas são suportados pelo organismo referido no n.º 1, na medida em que a massa insolvente seja insuficiente para esse efeito.\n\n4 - Nos casos previstos no artigo 39.º do Código da Insolvência e da Recuperação de Empresas, a remuneração do administrador da insolvência é reduzida a um quarto do valor referido no n.º 1 do artigo 23.º\n\n5 - Para efeitos do presente artigo, não se considera insuficiência da massa a mera falta de liquidez.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2022 - Diário da República n.º 7/2022, Série I de 2022-01-11](https://diariodarepublica.pt/dr/detalhe/lei/9-2022-177455547), em vigor a partir de 2022-04-11"
+  }
+ }
+}

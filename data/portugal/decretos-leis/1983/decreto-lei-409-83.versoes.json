@@ -1,0 +1,183 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:442972:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1983-890198412",
+ "dre_path": "/dr/detalhe/decreto-lei/409-1983-442972",
+ "source_lastmod": "2024-10-07",
+ "versions": [
+  {
+   "date": "1983-11-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890198131",
+    "890198132",
+    "890198133",
+    "890198134",
+    "890198135",
+    "890198136",
+    "890198137"
+   ]
+  },
+  {
+   "date": "1984-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146018:por",
+     "title": "Declaração",
+     "published": "1984-01-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-146018"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 6.º"
+   ],
+   "fragments": [
+    "890198131",
+    "890198132",
+    "890198133",
+    "890198134",
+    "890198135",
+    "890198136",
+    "890198146",
+    "890198138"
+   ]
+  },
+  {
+   "date": "1988-04-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:285133:por",
+     "title": "Decreto-Lei n.º 131/88",
+     "published": "1988-04-20",
+     "dre_path": "/dr/detalhe/decreto-lei/131-1988-285133"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "890198131",
+    "890198132",
+    "890198133",
+    "890198147",
+    "890198148",
+    "890198136",
+    "890198149",
+    "890198138"
+   ]
+  }
+ ],
+ "fragments": {
+  "890198131": {
+   "fragment_id": "890198413",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 409/83\n\nde 23 de Novembro\n\nPortugal, como membro de direito da Comissão Económica para a Europa, da Organização das Nações Unidas, vem participando com regularidade quer nas actividades daquela Comissão quer nas dos seus órgãos subsidiários, designadamente o Comité da Habitação, Construção e Planificação.\n\nAs actividades do Comité HBP/CEE - ONU revestem-se do maior interesse e oportunidade para grande número de departamentos do Ministério do Equipamento Social.\n\nA análise e divulgação da documentação produzida no âmbito dos projectos e acções empreendidos é indispensável e de grande relevância para os problemas nacionais nos domínios da habitação, da construção e do planeamento.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "890198132": {
+   "fragment_id": "890198414",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada no Conselho Superior de Obras Públicas e Transportes a Comissão Nacional para a Cooperação com o Comité da Habitação, Construção e Planificação da Comissão Económica para a Europa."
+  },
+  "890198133": {
+   "fragment_id": "890198415",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Comissão Nacional tem por finalidade:\n\n1.º Promover a representação do País nas actividades do Comité da Habitação, Construção e Planificação da CEE/ONU;\n\n2.º Assistir o Ministério dos Negócios Estrangeiros na preparação das sessões plenárias da Comissão Económica para a Europa no quadro da habitação, construção e planificação;\n\n3.º Funcionar como órgão de apoio e de consulta do Governo para as actividades do âmbito do Comité."
+  },
+  "890198134": {
+   "fragment_id": "890198416",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSão cometidas à Comissão Nacional as seguintes atribuições:\n\n1.ª Preparar estudos sobre orientação, regulamentação ou realizações nos domínios da habitação, construção e planificação;\n\n2.ª Coordenar estudos e realizações, nomeadamente inquéritos, conferências e encontros, em seguimento de recomendações do Comité HBP;\n\n3.ª Coordenar e apoiar a representação do País nas actividades do Comité HBP/CEE;\n\n4.ª Recolher e apreciar a documentação relevante para as actividades do âmbito da Comissão Nacional e divulgá-la pelas entidades nacionais interessadas, por iniciativa da Comissão ou por solicitação que lhe seja feita."
+  },
+  "890198135": {
+   "fragment_id": "890198417",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Comissão Nacional será integrada por um representante de cada uma das seguintes entidades:\n\nGabinete de Estudos e Planeamento do sector da Habitação e Obras Públicas;\n\nLaboratório Nacional de Engenharia Civil;\n\nDirecção-Geral do Planeamento Urbanístico;\n\nGabinete de Estudos e Planeamento do sector de Transportes e Comunicações;\n\nConselho Superior de Obras Públicas e Transportes;\n\nDepartamento Central de Planeamento/Ministério das Finanças e do Plano;\n\nDirecção-Geral da Administração Regional e Local;\n\nDirecção-Geral do Ordenamento."
+  },
+  "890198136": {
+   "fragment_id": "890198418",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA Comissão poderá organizar grupos de trabalho para estudo de problemas específicos e associar às suas actividades entidades ou personalidades convidadas para o efeito."
+  },
+  "890198137": {
+   "fragment_id": "890198419",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - A Comissão Nacional depende directamente do Ministro do Equipamento Social ou do Secretário de Estado em quem o mesmo delegar.\n\n2 - A Comissão Nacional terá 1 presidente, a designar pelo Ministro do Equipamento Social.\n\n3 - As representações dos departamentos que integram a Comissão Nacional serão asseguradas por 1 vogal efectivo e por 1 vogal suplente, designados de entre o pessoal dirigente de cada organismo.\n\n4 - Os ministérios que integram os organismos mencionados na alínea a) do artigo 4.º indicarão os seus representantes na Comissão no prazo de 15 dias a contar da data da publicação do presente diploma no Diário da República.\n\n5 - A Comissão Nacional apresentará no prazo de 60 dias o seu regulamento interno, que será submetido à aprovação do Ministro do Equipamento Social."
+  },
+  "890198146": {
+   "fragment_id": "890198419",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1984-01-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 26/1984, 3º Suplemento, Série I de 1984-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-146018), em vigor a partir de 1984-01-31"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - A Comissão Nacional depende directamente do Ministro do Equipamento Social ou do Secretário de Estado em quem o mesmo delegar.\n\n2 - A Comissão Nacional terá 1 presidente, a designar pelo Ministro do Equipamento Social.\n\n3 - As representações dos departamentos que integram a Comissão Nacional serão asseguradas por 1 vogal efectivo e por 1 vogal suplente, designados de entre o pessoal dirigente de cada organismo.\n\n4 - Os ministérios que integram os organismos mencionados no artigo 4.º indicarão os seus representantes na Comissão no prazo de 15 dias a contar da data da publicação do presente diploma no Diário da República.\n\n5 - A Comissão Nacional apresentará no prazo de 60 dias o seu regulamento interno, que será submetido à aprovação do Ministro do Equipamento Social.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 26/1984, 3º Suplemento, Série I de 1984-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-146018), em vigor a partir de 1984-01-31"
+  },
+  "890198138": {
+   "fragment_id": "890198420",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Novembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Eduardo Ribeiro Pereira - Jaime José Matos da Gama - Ernâni Rodrigues Lopes João Rosado Correia - António d'Orey Capucho.\n\nPromulgado em 12 de Novembro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 14 de Novembro de 1983.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "890198147": {
+   "fragment_id": "890198416",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1988-04-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/88 - Diário da República n.º 92/1988, Série I de 1988-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1988-285133), em vigor a partir de 1988-04-25"
+   ],
+   "markdown": "###### Artigo 3.º\n\nSão cometidas à Comissão Nacional as seguintes atribuições:\n\n1.º Promover estudos de interesse para a participação do País nas actividades do Comité;\n\n2.ª Coordenar estudos e realizações, nomeadamente inquéritos, conferências e encontros, em seguimento de recomendações do Comité HBP;\n\n3.ª Coordenar e apoiar a representação do País nas actividades do Comité HBP/CEE;\n\n4.ª Recolher e apreciar a documentação relevante para as actividades do âmbito da Comissão Nacional e divulgá-la pelas entidades nacionais interessadas, por iniciativa da Comissão ou por solicitação que lhe seja feita.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/88 - Diário da República n.º 92/1988, Série I de 1988-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1988-285133), em vigor a partir de 1988-04-25"
+  },
+  "890198148": {
+   "fragment_id": "890198417",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1988-04-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/88 - Diário da República n.º 92/1988, Série I de 1988-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1988-285133), em vigor a partir de 1988-04-25"
+   ],
+   "markdown": "###### Artigo 4.º\n\nA composição da Comissão Nacional é definida em portaria conjunta dos membros do Governo responsáveis pelas áreas do planeamento e da administração do território, negócios estrangeiros e obras públicas, transportes e comunicações e inclui obrigatoriamente representantes do Conselho Superior de Obras Públicas e Transportes, do Instituto Nacional de Habitação, do Instituto de Gestão e Alienação do Património Habitacional do Estado e do Laboratório Nacional de Engenharia Civil.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/88 - Diário da República n.º 92/1988, Série I de 1988-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1988-285133), em vigor a partir de 1988-04-25"
+  },
+  "890198149": {
+   "fragment_id": "890198419",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1988-04-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/88 - Diário da República n.º 92/1988, Série I de 1988-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1988-285133), em vigor a partir de 1988-04-25",
+    "Retificado pelo/a [Declaração - Diário da República n.º 26/1984, 3º Suplemento, Série I de 1984-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-146018), em vigor a partir de 1984-01-31"
+   ],
+   "markdown": "###### Artigo 6.º\n\nAs representações dos organismos integrantes da Comissão Nacional, nos termos do artigo 4.º, são asseguradas por um vogal efectivo e por um vogal suplente, a designar preferencialmente de entre o pessoal dirigente.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 131/88 - Diário da República n.º 92/1988, Série I de 1988-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1988-285133), em vigor a partir de 1988-04-25\n\n> Retificado pelo/a [Declaração - Diário da República n.º 26/1984, 3º Suplemento, Série I de 1984-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-146018), em vigor a partir de 1984-01-31"
+  }
+ }
+}

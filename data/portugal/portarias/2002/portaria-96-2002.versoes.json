@@ -1,0 +1,108 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:276427:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-216253530",
+ "dre_path": "/dr/detalhe/portaria/96-2002-276427",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-01-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "216298196",
+    "216298197",
+    "216298201"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:506224:por",
+     "title": "Declaração de Rectificação n.º 3-I/2002",
+     "published": "2002-01-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/3-i-2002-506224",
+     "date": "2002-02-05"
+    }
+   ]
+  },
+  {
+   "date": "2023-08-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216253488:por",
+     "title": "Portaria n.º 230/2023",
+     "published": "2023-07-27",
+     "dre_path": "/dr/detalhe/portaria/230-2023-216253488"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "216298202",
+    "216298203",
+    "216298204"
+   ]
+  }
+ ],
+ "fragments": {
+  "216298196": {
+   "fragment_id": "216253531",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 96/2002\n\nde 31 de Janeiro\n\nA nova Lei Orgânica da Polícia Judiciária confere ao pessoal aposentado que prestou serviço na instituição um conjunto de direitos cuja titularidade deve ser comprovada mediante um meio de identificação apropriado.\n\nAssim, ao abrigo do artigo 149.º do Decreto-Lei n.º 275-A/2000, de 9 de Novembro:\n\nManda o Governo, pelos Ministros das Finanças, do Equipamento Social e da Justiça, o seguinte:\n\n1.º É aprovado o cartão de identificação dos funcionários aposentados da Polícia Judiciária, de modelo anexo à presente portaria, de cujo verso constam os direitos que a lei confere aos seus titulares.\n\n2.º O verso do cartão é variável conforme o funcionário aposentado pertença ao pessoal de investigação criminal ou aos grupos de pessoal de apoio à investigação criminal, auxiliar e operário.\n\n3.º Os cartões são autenticados com a assinatura do director nacional da Polícia Judiciária ou do seu substituto legal e com o selo branco da Directoria Nacional da Polícia Judiciária, aposto de forma a marcar aquela assinatura e a parte inferior esquerda da fotografia do titular.\n\n4.º A emissão, distribuição, substituição e devolução dos cartões são objecto de registo em livro próprio ou suporte informático.\n\n5.º Em caso de extravio, destruição ou deterioração, é emitida segunda via do cartão, de que se deve fazer referência expressa no suporte de registo, mantendo-se, no entanto, o anterior número.\n\n6.º A presente portaria entra em vigor 30 dias após a sua publicação.\n\n7.º É revogada a Portaria n.º 896/94, de 4 de Outubro.\n\nEm 17 de Dezembro de 2001."
+  },
+  "216298197": {
+   "fragment_id": "216253532",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues. - O Ministro da Justiça, António Luís Santos Costa."
+  },
+  "216298201": {
+   "fragment_id": "216253533",
+   "type": 14,
+   "heading": "ANEXO",
+   "in_force_from": "2002-02-05",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 3-I/2002 - Diário da República n.º 26/2002, 4º Suplemento, Série I-B de 2002-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-i-2002-506224), em vigor a partir de 2002-02-05"
+   ],
+   "markdown": "## ANEXO\n\n1 - Cartão de identificação de funcionário aposentado da carreira de investigação criminal:\n\n(ver modelo no documento original)\n\n2 - Cartão de identificação de funcionário aposentado dos grupos de pessoal de apoio à investigação criminal, auxiliar e operário:\n\n(ver modelo no documento original)\n\n> Retificado pelo/a [Declaração de Rectificação n.º 3-I/2002 - Diário da República n.º 26/2002, 4º Suplemento, Série I-B de 2002-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-i-2002-506224), em vigor a partir de 2002-02-05"
+  },
+  "216298202": {
+   "fragment_id": "216253531",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-08-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 230/2023 - Diário da República n.º 145/2023, Série I de 2023-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/230-2023-216253488), em vigor a partir de 2023-08-26"
+   ],
+   "markdown": "Portaria n.º 96/2002\n\nde 31 de Janeiro\n\nA nova Lei Orgânica da Polícia Judiciária confere ao pessoal aposentado que prestou serviço na instituição um conjunto de direitos cuja titularidade deve ser comprovada mediante um meio de identificação apropriado.\n\nAssim, ao abrigo do artigo 149.º do Decreto-Lei n.º 275-A/2000, de 9 de Novembro:\n\nManda o Governo, pelos Ministros das Finanças, do Equipamento Social e da Justiça, o seguinte:\n\n1.º É aprovado o cartão de identificação dos funcionários aposentados da Polícia Judiciária, de modelo anexo à presente portaria, de cujo verso constam os direitos que a lei confere aos seus titulares.\n\n2.º O verso do cartão é variável conforme o funcionário aposentado pertença ao pessoal de investigação criminal ou aos grupos de pessoal de apoio à investigação criminal, auxiliar e operário.\n\n3.º Os cartões são autenticados com a assinatura do director nacional da Polícia Judiciária ou do seu substituto legal e com o selo branco da Directoria Nacional da Polícia Judiciária, aposto de forma a marcar aquela assinatura e a parte inferior esquerda da fotografia do titular.\n\n4.º A emissão, distribuição, substituição e devolução dos cartões são objecto de registo em livro próprio ou suporte informático.\n\n5.º Em caso de extravio, destruição ou deterioração, é emitida segunda via do cartão, de que se deve fazer referência expressa no suporte de registo, mantendo-se, no entanto, o anterior número.\n\n6.º A presente portaria entra em vigor 30 dias após a sua publicação.\n\n7.º É revogada a Portaria n.º 896/94, de 4 de Outubro.\n\nEm 17 de Dezembro de 2001.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 230/2023 - Diário da República n.º 145/2023, Série I de 2023-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/230-2023-216253488), em vigor a partir de 2023-08-26"
+  },
+  "216298203": {
+   "fragment_id": "216253532",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-08-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 230/2023 - Diário da República n.º 145/2023, Série I de 2023-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/230-2023-216253488), em vigor a partir de 2023-08-26"
+   ],
+   "markdown": "O Ministro das Finanças, Guilherme d'Oliveira Martins. - O Ministro do Equipamento Social, Eduardo Luís Barreto Ferro Rodrigues. - O Ministro da Justiça, António Luís Santos Costa.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 230/2023 - Diário da República n.º 145/2023, Série I de 2023-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/230-2023-216253488), em vigor a partir de 2023-08-26"
+  },
+  "216298204": {
+   "fragment_id": "216253533",
+   "type": 14,
+   "heading": "ANEXO",
+   "in_force_from": "2023-08-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 230/2023 - Diário da República n.º 145/2023, Série I de 2023-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/230-2023-216253488), em vigor a partir de 2023-08-26",
+    "Retificado pelo/a [Declaração de Rectificação n.º 3-I/2002 - Diário da República n.º 26/2002, 4º Suplemento, Série I-B de 2002-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-i-2002-506224), em vigor a partir de 2002-02-05"
+   ],
+   "markdown": "## ANEXO\n\n1 - Cartão de identificação de funcionário aposentado da carreira de investigação criminal:\n\n(ver modelo no documento original)\n\n2 - Cartão de identificação de funcionário aposentado dos grupos de pessoal de apoio à investigação criminal, auxiliar e operário:\n\n(ver modelo no documento original)\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 230/2023 - Diário da República n.º 145/2023, Série I de 2023-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/230-2023-216253488), em vigor a partir de 2023-08-26\n\n> Retificado pelo/a [Declaração de Rectificação n.º 3-I/2002 - Diário da República n.º 26/2002, 4º Suplemento, Série I-B de 2002-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-i-2002-506224), em vigor a partir de 2002-02-05"
+  }
+ }
+}

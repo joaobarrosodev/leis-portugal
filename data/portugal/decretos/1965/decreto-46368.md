@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:294485:por
+title: Decreto n.º 46368
+short_title: null
+summary: Altera alguns preceitos relativos à admissão e promoção de pessoal civil da Força Aérea
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho - Secretaria de Estado da Aeronáutica
+proposing_entity: null
+official_number: '46368'
+official_date: null
+publication_date: '1965-06-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 126/1965, Série I de 1965-06-05
+  number: '126'
+  series: I
+  supplement: null
+  pages: 778 - 778
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/06/12600/07780778.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '294485'
+  dre_path: /dr/detalhe/decreto/46368-1965-294485
+  internal: pt:dre:294485:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/46368-1965-294485
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46368-1965-294485
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e42e423a0d7bb1602876c3a358d993b13ba2ee0f940f191c29ac38a49ee2b67b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:251422:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:45:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 46368
+
+Convindo alterar algumas normas relativas à admissão e promoção de pessoal civil da Força Aérea;
+
+No cumprimento do disposto no artigo 49.º do [Decreto-Lei n.º 41492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41492-1957-251422), de 31 de Dezembro de 1957;
+
+Usando da faculdade Conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º As habilitações literárias mínimas necessárias à admissão na Força Aérea do pessoal de armazém passam a ser as seguintes:
+
+a) Para ajudantes de fiel: 1.º ciclo do curso liceal ou equivalentes;
+
+b) Para serventes: 4.ª classe do ensino primário oficial.
+
+Art. 2.º Os fiéis e ajudantes de fiel consideram-se como constituindo um quadro único, com a seguinte hierarquia:
+
+Fiéis de 1.ª classe;
+
+Fiéis de 2.ª classe;
+
+Ajudantes de fiel.
+
+A admissão faz-se em ajudantes de fiel entre voluntários, mediante concurso documental e de acordo com as preferências estabelecidas na legislação vigente. As promoções a fiel de 1.ª classe e a fiel de 2.ª classe fazem-se por escolha do chefe do Estado-Maior da Força Aérea, mediante proposta dos chefes interessados, entre os funcionários que tenham um mínimo de permanência de três anos e de um ano, respectivamente, no grau hierárquico imediatamente inferior aos correspondentes às vacaturas a preencher.
+
+Art. 3.º A regra expressa no artigo 1.º deste decreto não é aplicável nas províncias ultramarinas para o provimento de lugares em que o pessoal civil da Força Aérea sirva em regime de assalariamento.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 5 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Francisco António das Chagas.

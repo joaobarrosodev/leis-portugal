@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145714385:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-145714471",
+ "dre_path": "/dr/detalhe/portaria/245-a-2020-145714385",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-10-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "145699041",
+    "145699042",
+    "168462806",
+    "145699044",
+    "145699045"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:145714413:por",
+     "title": "Declaração de Retificação n.º 40-A/2020",
+     "published": "2020-10-16",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/40-a-2020-145714413",
+     "date": "2020-10-17"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "145699041": {
+   "fragment_id": "145714472",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 245-A/2020\n\nde 16 de outubro\n\nSumário: Primeira alteração à Portaria n.º 272-A/2017, de 13 de setembro, que regulamenta os critérios e a respetiva fórmula de cálculo para a determinação da dotação máxima de referência do pessoal não docente, por agrupamento de escolas ou escolas não agrupadas.\n\nO Programa Nacional de Reformas 2016-2023 preconiza a aposta numa escola inclusiva de 2.ª geração, que responda às necessidades e potencialidades de todos os alunos, assegurando uma efetiva igualdade de oportunidades, através de aprendizagens de qualidade para todos, com vista ao sucesso educativo.\n\nA aposta do Governo numa escola inclusiva e na promoção do sucesso escolar implica um trabalho contínuo de elevação dos padrões de qualidade, assumindo o pessoal não docente das escolas um papel essencial para o cumprimento desse objetivo.\n\nCom este propósito, procede-se à alteração da Portaria n.º 272-A/2017, de 13 de setembro, que determina o aumento do fator de ponderação dos alunos abrangidos por determinadas medidas no âmbito da educação inclusiva e a revisão dos critérios que integram a fórmula de cálculo da dotação máxima de referência, através da alteração do ratio dos assistentes operacionais no 1.º ciclo do ensino básico e do ratio por conjunto de alunos dos 2.º e 3.º ciclos do ensino básico e do ensino secundário.\n\nAssim, ao abrigo do artigo 243.º da Lei n.º 2/2020, de 31 de março, e do n.º 3 do artigo 42.º do Decreto-Lei n.º 21/2019, de 30 de janeiro, manda o Governo, pelo Ministro de Estado e das Finanças, pela Ministra da Modernização do Estado e da Administração Pública e pelo Ministro da Educação, o seguinte:"
+  },
+  "145699042": {
+   "fragment_id": "145714473",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à primeira alteração à Portaria n.º 272-A/2017, de 13 de setembro, que regulamenta os critérios e a respetiva fórmula de cálculo para a determinação da dotação máxima de referência do pessoal não docente, por agrupamento de escolas ou escolas não agrupadas."
+  },
+  "168462806": {
+   "fragment_id": "145714474",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Portaria n.º 272-A/2017, de 13 de setembro",
+   "in_force_from": "2020-10-17",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 40-A/2020 - Diário da República n.º 202/2020, 2º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-a-2020-145714413), em vigor a partir de 2020-10-17"
+   ],
+   "markdown": "###### Artigo 2.º — Alteração à Portaria n.º 272-A/2017, de 13 de setembro\n\nOs artigos 3.º, 7.º e 8.º da Portaria n.º 272-A/2017, de 13 de setembro, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n[...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...].\n\ne) [...]\n\nf) [...]\n\ng) O Centro de Apoio à Aprendizagem acolher a valência de ensino estruturado, no âmbito da educação inclusiva;\n\nh) O Centro de Apoio à Aprendizagem acolher a valência de apoio especializado, no âmbito da educação inclusiva.\n\nArtigo 7.º\n\n[...]\n\n1 - [...]\n\n2 - No 1.º ciclo do ensino básico o ratio de assistentes operacionais é de um por cada conjunto de 18 a 36 alunos, acrescendo:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\n3 - [...]\n\n4 - [...]\n\na) [...]\n\nb) [...]\n\nc) O ratio de assistentes operacionais por conjunto de alunos (RAO) é calculado da seguinte forma:\n\ni) Um assistente operacional por cada conjunto de 90 alunos, se o número de alunos for menor ou igual a 630;\n\nii) Um assistente operacional por cada conjunto de 100 alunos, se o número de alunos for maior que 630 e menor ou igual a 1000;\n\niii) Um assistente operacional por cada conjunto de 110 alunos, se o número de alunos for maior que 1000 e menor ou igual a 1320;\n\niv) Um assistente operacional por cada conjunto de 120 alunos, se o número de alunos for maior que 1320 e menor ou igual a 1560;\n\nv) Um assistente operacional por cada conjunto de 130 alunos, se o número de alunos for maior que 1560;\n\nd) [...]\n\ni) [...]\n\nii) [...]\n\ne) [...]\n\nf) Um acréscimo de 15 % se no estabelecimento de ensino existir oferta formativa de cursos profissionais, cursos de educação e formação e percurso curricular alternativo (CP_CEF) em número de turmas do ensino diurno superior a 25 % da restante oferta formativa da escola;\n\ng) [...]\n\nh) Dois assistentes operacionais se o Centro de Apoio à Aprendizagem acolher a valência de ensino estruturado, acrescendo mais um assistente operacional por cada sala adicional;\n\ni) Dois assistentes operacionais se o Centro de Apoio à Aprendizagem acolher a valência de apoio especializado, acrescendo mais um assistente operacional por cada sala adicional.\n\n5 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\n6 - [...]\n\nArtigo 8.º\n\nArtigo 8.º\n\nAlunos com necessidades educativas específicas\n\n1 - Os alunos com necessidades educativas específicas, devidamente fundamentadas pelas Equipas Multidisciplinares de Apoio à Educação Inclusiva, salvo os apoiados pelo Centro de Apoio à Aprendizagem no âmbito das valências de apoio especializado e de ensino estruturado, são contabilizados em 2,5 em todos os ciclos de ensino, incluindo a educação pré-escolar, para efeitos de apuramento do número total de alunos, por estabelecimento de ensino.\n\n> Retificado pelo/a [Declaração de Retificação n.º 40-A/2020 - Diário da República n.º 202/2020, 2º Suplemento, Série I de 2020-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-a-2020-145714413), em vigor a partir de 2020-10-17"
+  },
+  "145699044": {
+   "fragment_id": "145875075",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação.\n\nEm 16 de outubro de 2020."
+  },
+  "145699045": {
+   "fragment_id": "145875076",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão. - A Ministra da Modernização do Estado e da Administração Pública, Alexandra Ludomila Ribeiro Fernandes Leitão. - O Ministro da Educação, Tiago Brandão Rodrigues.\n\n113650439"
+  }
+ }
+}

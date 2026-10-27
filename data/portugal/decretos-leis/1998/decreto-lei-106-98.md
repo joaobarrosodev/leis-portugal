@@ -1,0 +1,576 @@
+---
+schema_version: '1.0'
+id: pt:dre:176328:por
+title: Decreto-Lei n.º 106/98
+short_title: null
+summary: Estabelece normas relativas ao abono de ajudas de custo e de transporte pelas deslocações em serviço público
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 106/98
+official_date: null
+publication_date: '1998-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 96/1998, Série I-A de 1998-04-24
+  number: '96'
+  series: I
+  supplement: null
+  pages: 1832 - 1837
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/04/096a00/18321837.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-11'
+version_history:
+  file: decreto-lei-106-98.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1998-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-12-29'
+    amending: pt:dre:306615:por
+    amending_title: Decreto-Lei n.º 137/2010
+    changes:
+    - Altera Artigo 1.º
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Altera Artigo 25.º
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 24.º
+  - date: '2015-01-01'
+    amending: pt:dre:66016527:por
+    amending_title: Lei n.º 82-B/2014
+    changes:
+    - Altera Artigo 9.º
+  - date: '2018-05-16'
+    amending: pt:dre:115312061:por
+    amending_title: Decreto-Lei n.º 33/2018
+    changes:
+    - Altera Artigo 14.º
+  - date: '2025-01-17'
+    amending: pt:dre:903770702:por
+    amending_title: Decreto-Lei n.º 1/2025
+    changes:
+    - Altera Artigo 1.º
+  - date: '2025-03-11'
+    amending: pt:dre:910323298:por
+    amending_title: Decreto-Lei n.º 13-A/2025
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/106/1998/p/cons/20250310/pt/html
+  oj: null
+  dre: '176328'
+  dre_path: /dr/detalhe/decreto-lei/106-1998-176328
+  internal: pt:dre:176328:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1998-176328
+  metadata_url: https://data.dre.pt/eli/dec-lei/106/1998/p/cons/20250310/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-107753302
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-107753302
+  retrieved_at: '2026-10-22T12:12:50Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ea4b766f0f65e25e58fd9e867d5d5262f82da39a81eecd4768858dc63bf55835
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:12:50Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-106-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Central
+- Função Pública
+- Ajudas de Custo
+- Transporte Aéreo
+- Transporte Ferroviário
+- Deslocação ao Estrangeiro
+- Deslocação em Serviço
+- Administração Pública
+- Gabinete Governamental
+- Instituto Público
+- Veículo
+- Faltas
+- Membros do Governo
+- Pessoal de Gabinete
+- Administração Local
+- Administração Regional
+- Subsídio de Refeição
+- Subsídio de Transporte
+- Transporte
+- Transporte Público
+relationships:
+- type: amended_by
+  target: pt:dre:306615:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2010-306615
+  date: '2010-12-28'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Altera Artigo 6.º; Altera Artigo 10.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
+- type: amended_by
+  target: pt:dre:903770702:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2025-903770702
+  date: '2025-01-16'
+- type: amended_by
+  target: pt:dre:910323298:por
+  label: Altera Artigo 9.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298
+  date: '2025-03-10'
+- type: cites
+  target: pt:dre:620704:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/248/1994/10/07/p/dre
+article_structure:
+  article_count: 40
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:12:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 106/98
+
+Decreto-Lei n.º 106/98
+
+de 24 de Abril
+
+O regime jurídico do abono de ajudas de custo e transporte ao pessoal da Administração Pública, quando deslocado em serviço público em território nacional, encontra-se fixado há cerca de 20 anos, no Decreto-Lei n.º 519-M/79, de 28 de Dezembro.
+
+Este regime tem-se mostrado, no essencial, adaptado à realidade. Porém, justifica-se a introdução de um conjunto significativo de alterações pontuais, de molde a adequá-lo à nova realidade económica e social, contribuindo, ao mesmo tempo, para dignificar os funcionários e agentes da Administração Pública, quando no exercício de funções públicas.
+
+A maioria das modificações que ora se efectuam é resultado das negociações efectuadas no âmbito do acordo salarial para 1996 e compromissos de médio e longo prazo, celebrado com as organizações dos trabalhadores da Administração Pública, de entre as quais se realçam: a inclusão, no âmbito do diploma, do pessoal contratado a termo certo; a adopção do conceito de domicílio necessário consagrado no artigo 87.º do Código Civil e a consagração da faculdade de os funcionários e agentes optarem pelo reembolso das despesas de alojamento contra a apresentação de recibo da despesa efectuada em estabelecimento hoteleiro até 3 estrelas ou equivalente, desde que estes hajam celebrado acordo com o Estado.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, as associações sindicais e a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos do n.º 5 do artigo 112.º e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Decreto-Lei n.º 137/2010 - Diário da República n.º 250/2010, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2010-306615) Todas as referências a funcionário ou agente constantes do Decreto -Lei n.º 106/98, de 24 de Abril, devem ter -se por efectuadas a trabalhadores em funções públicas
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Âmbito de aplicação pessoal
+
+1 - Os trabalhadores que exercem funções públicas, em qualquer modalidade de relação jurídica de emprego público dos órgãos e serviços abrangidos pelo âmbito de aplicação objectivo da Lei n.º 12-A/2008, de 27 de Fevereiro, quando deslocados do seu domicílio necessário por motivo de serviço público, têm direito ao abono de ajudas de custo e transporte, conforme as tabelas em vigor e de acordo com o disposto no presente diploma.
+
+2 - Têm igualmente direito àqueles abonos os membros do Governo e dos respectivos gabinetes.
+
+3 - (Revogado.)
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 1/2025 - Diário da República n.º 11/2025, Série I de 2025-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2025-903770702) repristina a redação original do n.º 2 do presente artigo.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 1/2025 - Diário da República n.º 11/2025, Série I de 2025-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2025-903770702), em vigor a partir de 2025-01-17, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2010 - Diário da República n.º 250/2010, Série I de 2010-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2010-306615), em vigor a partir de 2010-12-29
+
+###### Artigo 2.º — Domicílio necessário
+
+Sem prejuízo do estabelecido em lei especial, considera-se domicílio necessário, para efeitos de abono de ajudas de custo:
+
+a) A localidade onde o funcionário aceitou o lugar ou cargo, se aí ficar a prestar serviço;
+
+b) A localidade onde exerce funções, se for colocado em localidade diversa da referida na alínea anterior;
+
+c) A localidade onde se situa o centro da sua actividade funcional, quando não haja local certo para o exercício de funções.
+
+### Capítulo II — Ajudas de custo em território nacional
+
+###### Artigo 3.º — Tipos de deslocação
+
+As deslocações em território nacional classificam-se em diárias e por dias sucessivos.
+
+###### Artigo 4.º — Deslocações diárias
+
+Consideram-se deslocações diárias as que se realizam num período de vinte e quatro horas e, bem assim, as que, embora ultrapassando este período, não impliquem a necessidade de realização de novas despesas.
+
+###### Artigo 5.º — Deslocações por dias sucessivos
+
+Consideram-se deslocações por dias sucessivos as que se efectivam num período de tempo superior a vinte e quatro horas e não estejam abrangidas na parte final do artigo anterior.
+
+###### Artigo 6.º — Direito ao abono
+
+Só há direito ao abono de ajudas de custo nas deslocações diárias que se realizem para além de 20 km do domicílio necessário e nas deslocações por dias sucessivos que se realizem para além de 50 km do mesmo domicílio.
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 7.º — Contagem de distâncias
+
+As distâncias previstas neste diploma são contadas da periferia da localidade onde o funcionário ou agente tem o seu domicílio necessário e a partir do ponto mais próximo do local de destino.
+
+###### Artigo 8.º — Condições de atribuição
+
+1 - O abono da ajuda de custo corresponde ao pagamento de uma parte da importância diária que estiver fixada ou da sua totalidade, conforme o disposto nos números seguintes.
+
+2 - Nas deslocações diárias, abonam-se as seguintes percentagens da ajuda de custo diária:
+
+a) Se a deslocação abranger, ainda que parcialmente, o período compreendido entre as 13 e as 14 horas - 25%;
+
+b) Se a deslocação abranger, ainda que parcialmente, o período compreendido entre as 20 e as 21 horas - 25%;
+
+c) Se a deslocação implicar alojamento - 50%.
+
+3 - As despesas de alojamento só são consideradas nas deslocações diárias que se não prolonguem para o dia seguinte, quando o funcionário não dispuser de transportes colectivos regulares que lhe permitam regressar à sua residência até às 22 horas.
+
+4 - Nas deslocações por dias sucessivos abonam-se as seguintes percentagens da ajuda de custo diário:
+
+a) Dia da partida:
+
+(ver tabela no documento original)
+
+b) Dia de regresso:
+
+(ver tabela no documento original)
+
+c) Restantes dias - 100%.
+
+5 - Atendendo a que as percentagens referidas nos n.os 2 e 4 correspondem ao pagamento de uma ou duas refeições e alojamento, não haverá lugar aos respectivos abonos quando a correspondente prestação seja fornecida em espécie.
+
+###### Artigo 9.º — Reembolso da despesa com alojamento
+
+1 - O pagamento da percentagem da ajuda de custo relativa ao alojamento (50 /prct.), quer em deslocações diárias, quer por dias sucessivos, pode ser substituído, por opção do interessado, pelo reembolso da despesa efetuada com o alojamento em estabelecimento hoteleiro até ao limite de 85,00 euros.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 150.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 172.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+###### Artigo 10.º — Casos especiais
+
+1 - Quando o trabalhador não dispuser de transporte que lhe permita almoçar no seu domicílio necessário ou nos refeitórios dos serviços sociais a que tenha direito pode ser concedido abono para despesa de almoço de uma importância equivalente a 25 % da ajuda de custo diária nas deslocações até 20 km, após apreciação pelo dirigente do serviço.
+
+2 - O dirigente do serviço pode, em despacho proferido nos termos do número seguinte, proceder à atribuição dos quantitativos previstos no n.º 4 do artigo 8.º para deslocações entre 20 km e 50 km.
+
+3 - O despacho previsto no número anterior deverá conter os seguintes elementos:
+
+a) A distância entre o domicílio necessário do funcionário ou agente e a localidade onde se encontra;
+
+b) O meio de transporte utilizado na deslocação;
+
+c) Os transportes colectivos que estabelecem ligações entre as localidades referidas na alínea a) e respectivos horários compatíveis, tendo em conta não só os horários que permitam respeitar o horário normal de trabalho como outros aproximados;
+
+d) A distância aproximada entre o domicílio necessário do funcionário ou agente e o local mais próximo onde os transportes referidos na alínea c) podem ser tomados;
+
+e) Os meios de transporte utilizados nos percursos referidos na alínea anterior;
+
+f) O tempo gasto nas deslocações referidas nas alíneas c) e d) em circunstâncias normais;
+
+g) O incómodo da deslocação.
+
+4 - O dirigente do serviço pode ainda, em despacho fundamentado e tendo em conta as circunstâncias referidas no número anterior, proceder à atribuição dos quantitativos previstos no n.º 2 do artigo 8.º para deslocações que ultrapassem 50 km.
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 11.º — Abonos de ajudas de custo por conta de outros serviços
+
+As despesas com ajudas de custo abonadas a funcionários ou agentes que desempenhem funções noutros serviços e no interesse destes devem onerar as dotações dos organismos onde os deslocados exercem a sua actividade.
+
+###### Artigo 12.º — Limite do tempo de deslocação
+
+1 - O abono de ajudas de custo não pode ter lugar para além de 90 dias seguidos de deslocação.
+
+2 - O limite de tempo previsto no número anterior pode, em casos excepcionais e devidamente fundamentados, ser prorrogado até 90 dias, por despacho conjunto do ministro da tutela, do Ministro das Finanças e do membro do Governo responsável pela Administração Pública.
+
+###### Artigo 13.º — Faltas por falecimento de familiar e por doença
+
+1 - As faltas por falecimento de familiar não interrompem o abono de ajudas de custo até à chegada do funcionário ou agente ao seu domicílio necessário.
+
+2 - Os funcionários e agentes que adoeçam quando deslocados do seu domicílio necessário mantêm o direito ao abono de ajudas de custo se a doença os obrigar a permanecer nesse local ou o período previsível da doença for de tal forma curto que a manutenção do abono de ajudas de custo não provoque prejuízos, desde que observado o disposto no artigo 28.º do Decreto-Lei n.º 497/88, de 30 de Dezembro.
+
+###### Artigo 14.º — Pessoal sem vínculo à função pública
+
+1 - O montante das ajudas de custo devidas aos indivíduos que, não sendo funcionários ou agentes, façam parte de conselhos, comissões, grupos de trabalho, grupos de projeto ou outras estruturas de carácter não permanente de serviços do Estado, quando convocados para reuniões em que tenham de ausentar-se do local onde exercem normalmente a sua atividade, é fixado globalmente por estrutura, de entre as estabelecidas na tabela em vigor, mediante despacho do ministro da tutela e comunicação à Direção-Geral do Orçamento.
+
+2 - A fixação de ajudas de custo nos termos previstos no número anterior deve ter em atenção as funções desempenhadas e as que estão fixadas para os funcionários ou agentes abrangidos pela tabela com cargos de conteúdo funcional equiparável.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 150.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 151.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16
+
+### Capítulo III — Ajudas de custo por deslocações ao estrangeiro e no estrangeiro
+
+###### Artigo 15.º — Deslocações ao estrangeiro e no estrangeiro
+
+O abono de ajudas de custo por deslocações ao estrangeiro e por deslocações no estrangeiro é regulado por diploma próprio.
+
+### Capítulo IV — Transporte em território nacional e nas deslocações ao estrangeiro
+
+###### Artigo 16.º — Direito a transporte
+
+Para além do pessoal a que se referem os n.os 1 e 2 do artigo 1.º, pode ser reconhecido o direito a transporte às pessoas que constituem o seu agregado familiar, nas condições previstas na lei.
+
+###### Artigo 17.º — Transportes de móveis e bagagem
+
+Às pessoas com direito a transporte é assegurado ainda o pagamento das despesas de embalagem, seguro e transporte de móveis e bagagem, nas condições previstas na lei.
+
+###### Artigo 18.º — Meios de transporte
+
+1 - O Estado deve, como procedimento geral, facultar ao seu pessoal os veículos de serviços gerais necessários às deslocações em serviço.
+
+2 - Na falta ou impossibilidade de recurso aos meios referidos no número anterior, devem utilizar-se preferencialmente os transportes colectivos de serviço público, permitindo-se, em casos especiais, o uso do automóvel próprio do funcionário ou agente ou o recurso ao automóvel de aluguer, sem prejuízo da utilização de outro meio de transporte que se mostre mais conveniente desde que em relação a ele esteja fixado o respectivo abono.
+
+###### Artigo 19.º — Veículos de serviços gerais
+
+Na atribuição do contingente de veículos de serviços gerais aos diferentes serviços observar-se-á o disposto no Decreto-Lei n.º 50/78, de 26 de Março.
+
+###### Artigo 20.º — Uso de automóvel próprio
+
+1 - A título excepcional, e em casos de comprovado interesse dos serviços nos termos dos números seguintes, pode ser autorizado, com o acordo do funcionário ou agente, o uso de veículo próprio nas deslocações em serviço em território nacional.
+
+2 - O uso de viatura própria só é permitido quando, esgotadas as possibilidades de utilização económica das viaturas afectas ao serviço, o atraso no transporte implique grave inconveniente para o serviço.
+
+3 - Na autorização individual para o uso de automóvel próprio deve ter-se em consideração, para além do disposto no número anterior, o interesse do serviço numa perspectiva económico-funcional mais rentável.
+
+4 - A pedido do interessado e por sua conveniência, pode ser autorizado o uso de veículo próprio em deslocações de serviço para localidades servidas por transporte público que o funcionário ou agente devesse, em princípio, utilizar, abonando-se, neste caso, apenas o montante correspondente ao custo das passagens no transporte colectivo.
+
+###### Artigo 21.º — Uso de automóvel de aluguer
+
+O transporte em automóvel de aluguer só deve verificar-se nos casos em que a sua utilização seja considerada absolutamente indispensável ao interesse dos serviços e mediante prévia autorização.
+
+###### Artigo 22.º — Casos especiais
+
+1 - Em casos especiais, e quando não for possível ou conveniente utilizar os transportes colectivos, pode ser autorizado o reembolso das despesas de transporte efectivamente realizadas ou o abono do correspondente subsídio, se for caso disso, mediante pedido devidamente fundamentado a apresentar no prazo de 10 dias após a realização da diligência.
+
+2 - Para efeitos do pagamento dos quantitativos autorizados, os interessados apresentam nos serviços os documentos comprovativos das despesas de transporte ou os boletins itinerários devidamente preenchidos.
+
+###### Artigo 23.º — Entidades competentes para a autorização
+
+As autorizações referidas nos artigos 20.º, 21.º e 22.º são da competência do respectivo director-geral ou funcionário de categoria equivalente ou superior e dos dirigentes dos serviços externos que tenham ordenado a diligência, podendo as mesmas ser subdelegadas em outros dirigentes dos serviços.
+
+###### Artigo 24.º — Uso do avião
+
+1 - A utilização de avião no continente tem sempre carácter excepcional, dependendo de autorização do membro do Governo competente.
+
+2 - A autorização do membro do Governo a que se refere o número anterior é dispensada quando a utilização do avião seja o meio de transporte mais económico.
+
+> Alterado pelo/a Artigo 41.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 25.º — Classes nos transportes
+
+1 - O abono de transporte ao pessoal abrangido por este diploma é atribuído nas classes indicadas nos números seguintes.
+
+2 - Por caminho de ferro:
+
+1.ª classe (em qualquer tipo de comboio):
+
+a) Membros do Governo, chefes e adjuntos dos respectivos gabinetes;
+
+b) Pessoal que receba remuneração igual ou superior à correspondente ao índice 405 da escala salarial do regime geral;
+
+c) Pessoal remunerado por gratificação, desde que possuidor de categoria ou exercendo funções equiparáveis às exercidas pelo pessoal abrangido pela alínea anterior;
+
+d) Funcionários que acompanhem os membros do Governo;
+
+2.ª classe - restante pessoal.
+
+3 - Por via aérea:
+
+Classe executiva (ou equivalente):
+
+a) Viagens de duração superior a quatro horas:
+
+i) Membros do Governo, chefes e adjuntos dos respectivos gabinetes;
+
+ii) Chefes de missão diplomática nas viagens que tenham por ponto de partida ou de chegada o local do respectivo posto;
+
+iii) Titulares de cargos de direcção superior do 1.º grau ou equiparados;
+
+iv) Trabalhadores que acompanhem os membros dos órgãos de soberania;
+
+Classe turística ou económica:
+
+a) Viagens de duração não superior a quatro horas;
+
+b) Pessoal não referido anteriormente, independentemente do número de horas de viagem.
+
+4 - Por via marítima, a determinação da classe é sempre efectuada por despacho ministerial, mediante proposta fundamentada do respectivo serviço.
+
+5 - Os cônjuges ou familiares dos funcionários ou agentes têm direito a viajar na mesma classe destes, sempre que legalmente lhes seja atribuído o abono de transporte.
+
+6 - Na ocorrência de circunstâncias de natureza excepcional, pode ser autorizada a utilização da classe superior à que normalmente seria utilizada, por despacho ministerial, sob proposta devidamente fundamentada.
+
+7 - Nas missões de serviço público, todos os funcionários ou agentes viajam de acordo com a classe correspondente à categoria mais elevada.
+
+8 - Compete ao Ministro das Finanças e ao membro do Governo responsável pela Administração Pública determinar, por despacho conjunto, a classe a atribuir ao pessoal não previsto neste artigo.
+
+> Alterado pelo/a Artigo 31.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 26.º — Âmbito das despesas de transporte e modos de pagamento
+
+As despesas de transporte devem corresponder ao montante efectivamente despendido, podendo o seu pagamento ser efectuado nas formas seguintes:
+
+a) Através de requisição de passagens às empresas transportadoras, quer directamente por reembolso ao funcionário ou agente;
+
+b) Atribuição de subsídio por quilómetro percorrido, calculado de forma a compensar o funcionário ou agente da despesa realmente efectuada.
+
+###### Artigo 27.º — Subsídio de transporte
+
+1 - O subsídio de transporte depende da utilização de automóvel próprio do funcionário ou agente.
+
+2 - Para além do subsídio referido no número anterior, são fixados por despacho do Ministro das Finanças outros subsídios da mesma natureza, designadamente para percursos a pé, em velocípedes, ciclomotores, motociclos e outros.
+
+3 - O abono dos subsídios de transporte é devido a partir da periferia do domicílio necessário dos funcionários ou agentes.
+
+4 - A revisão e alteração dos quantitativos dos subsídios de transportes são efectuadas anualmente no diploma previsto no artigo 38.º
+
+###### Artigo 28.º — Uso de transportes públicos nas áreas urbanas e suburbanas
+
+1 - Quando, por motivo de serviço público, o funcionário ou agente tiver de se deslocar nas áreas urbanas e suburbanas da localidade onde exerce funções, pode utilizar os transportes públicos existentes, com a restrição prevista no artigo 21.º
+
+2 - Nos casos em que a actividade implique deslocações frequentes dentro das áreas urbanas e suburbanas, pode ser atribuído um subsídio mensal de montante igual ao preço dos passes sociais dos transportes colectivos.
+
+###### Artigo 29.º — Requisição de transportes
+
+1 - As deslocações em transportes colectivos de serviço público que ultrapassem as áreas urbanas e suburbanas devem efectuar-se através de requisição oficial dos respectivos títulos às empresas transportadoras, nos termos do Decreto n.º 8023, de 4 de Fevereiro de 1922.
+
+2 - Em casos devidamente comprovados de inconveniência para o serviço ou de impossibilidade de recurso à requisição prevista no número anterior, pode o dirigente dos serviços autorizar o reembolso da despesa efectivamente realizada, sem dependência do referido documento.
+
+3 - Nos transportes a realizar nas áreas urbanas e suburbanas das cidades de Lisboa e Porto, é dispensada a requisição das respectivas passagens.
+
+4 - A dispensa referida no número anterior pode ser alargada a outras cidades em que se verifiquem idênticas condições, mediante despacho do Ministro das Finanças, sob proposta da Direcção-Geral do Orçamento.
+
+###### Artigo 30.º — Remessa e processamento das contas de transportes
+
+1 - As empresas transportadoras enviam directamente aos serviços requisitantes, dentro dos 60 dias seguintes ao termo do mês a que respeitem, as contas de transportes, em duplicado, bem como os originais das respectivas requisições.
+
+2 - As operações relativas ao processamento, verificação, autorização e pagamento ficam sujeitas aos prazos legalmente estabelecidos para as restantes despesas públicas, tomando-se como referência, para efeitos de processamento, a data da recepção das contas nos serviços processadores.
+
+3 - As contas dos transportes requisitados e fornecidos nos dois últimos meses do ano podem ser satisfeitas no ano imediato, por conta das correspondentes dotações do orçamento em vigor, sem dependência do cumprimento das formalidades relativas às despesas de anos anteriores.
+
+###### Artigo 31.º — Documentação das despesas
+
+1 - As despesas efectuadas com transportes são reembolsadas pelo montante despendido, mediante a apresentação dos documentos comprovativos.
+
+2 - As despesas efectuadas com transportes nas áreas urbanas e suburbanas, por motivo de serviço público, podem ser documentadas com a apresentação de uma relação dos quantitativos despendidos em cada deslocação, devidamente visada pelo dirigente do serviço.
+
+### Capítulo V — Disposições finais e transitórias
+
+###### Artigo 32.º — Administração local
+
+As competências que nos artigos 10.º, 12.º, n.º 2, 14.º, n.º 1, 20.º, 21.º, 22.º, 24.º, 25.º, n.os 4, 6 e 8, 33.º, n.º 2, e 36.º, n.º 2, são cometidas a membros do Governo ou a dirigentes dos serviços, no âmbito da administração local, são exercidas pelos seguintes órgãos ou entidades:
+
+a) Nas câmaras municipais, pelo presidente;
+
+b) Nos serviços municipalizados, pelo conselho de administração;
+
+c) Nas juntas de freguesia, pela junta de freguesia;
+
+d) Nas assembleias distritais, pela assembleia distrital.
+
+###### Artigo 33.º — Casos excepcionais de representação
+
+1 - Em casos excepcionais de representação, os encargos com o alojamento e alimentação inerentes a deslocações em serviço público podem ser satisfeitos contra documento comprovativo das despesas efectuadas, não havendo nesse caso lugar ao abono de ajudas de custo.
+
+2 - O pagamento destas despesas deve ser objecto de proposta fundamentada e depende de despacho do membro do Governo competente e do Ministro das Finanças.
+
+###### Artigo 34.º — Deslocações em conjunto
+
+Ao pessoal envolvido em missões que impliquem deslocações conjuntas em território nacional são abonadas ajudas de custo pelo escalão correspondente ao da categoria mais elevada.
+
+###### Artigo 35.º — Abono das ajudas de custo
+
+As ajudas de custo devem ser abonadas no prazo máximo de 30 dias a contar da data da apresentação pelo interessado dos documentos respeitantes à deslocação efectuada.
+
+###### Artigo 36.º — Abonos adiantados
+
+1 - Os funcionários e agentes que se desloquem em serviço público têm direito ao abono adiantado das respectivas ajudas de custo e transporte.
+
+2 - Os dirigentes dos serviços podem autorizar o abono adiantado de ajudas de custo e transportes até 30 dias, sucessivamente renováveis, devendo os interessados prestar contas da importância avançada no prazo de 10 dias após o regresso ao domicílio necessário, sem o que não lhes podem ser disponibilizados outros abonos desta natureza.
+
+###### Artigo 37.º — Subsídio de refeição
+
+O quantitativo correspondente ao abono diário do subsídio de refeição é deduzido nas ajudas de custo, quando as despesas sujeitas a compensação incluírem o custo do almoço.
+
+###### Artigo 38.º — Forma legal para fixação de ajudas de custo e subsídio de transporte
+
+Os montantes das ajudas de custo e subsídio de transporte previstos neste diploma constam do diploma legal que fixar anualmente as remunerações dos funcionários e agentes da Administração Pública.
+
+###### Artigo 39.º — Responsabilidade
+
+1 - Os funcionários ou agentes que recebam indevidamente quaisquer abonos de ajudas de custo e subsídio de transporte ficam obrigados à sua reposição, independentemente da responsabilidade disciplinar que ao caso couber.
+
+2 - Ficam solidariamente responsáveis pela restituição das quantias indevidamente abonadas os dirigentes do serviço que autorizem o abono de ajudas de custo e transportes nos casos em que não haja justificação para tal.
+
+###### Artigo 40.º — Revogação
+
+São revogados os Decretos-Leis n.os 616/74, de 14 de Novembro, 519-M/79, de 28 de Dezembro, e 248/94, de 7 de Outubro.
+
+Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - José Sócrates Carvalho Pinto de Sousa.
+
+Promulgado em 9 de Abril de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 16 de Abril de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

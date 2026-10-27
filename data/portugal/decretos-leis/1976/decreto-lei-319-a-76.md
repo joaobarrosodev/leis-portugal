@@ -1,0 +1,2528 @@
+---
+schema_version: '1.0'
+id: pt:dre:655916:por
+title: Decreto-Lei n.º 319-A/76
+short_title: null
+summary: Regulamenta a eleição do Presidente da República
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 319-A/76
+official_date: null
+publication_date: '1976-05-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 103/1976, 1º Suplemento, Série I de 1976-05-03
+  number: '103'
+  series: I
+  supplement: 1º Suplemento
+  pages: 964-(1) a 964-(19)
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/05/10301/00010019.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-07-24'
+version_history:
+  file: decreto-lei-319-a-76.versoes.json
+  count: 21
+  source_lastmod: '2026-07-23'
+  versions:
+  - date: '1976-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-06-05'
+    amending: pt:dre:425093:por
+    amending_title: Decreto-Lei n.º 445-A/76
+    changes:
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 132.º
+  - date: '1976-06-09'
+    amending: pt:dre:629458:por
+    amending_title: Decreto-Lei n.º 456-A/76
+    changes:
+    - Altera Artigo 70.º
+  - date: '1976-06-25'
+    amending: pt:dre:177474:por
+    amending_title: Decreto-Lei n.º 495-A/76
+    changes:
+    - Altera Artigo 106.º
+  - date: '1985-11-27'
+    amending: pt:dre:171090:por
+    amending_title: Declaração; Lei n.º 143/85
+    changes:
+    - Retifica Artigo 81.º
+    - Adita Secção IV
+    - Adita Artigo 113.º-A
+    - Adita Artigo 113.º-B
+    - Adita Artigo 159.º-A
+    - Adita Artigo 159.º-B
+    - Adita Artigo 159.º-C
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 44.º
+    - Altera Artigo 52.º
+    - Altera Artigo 54.º
+    - Altera Artigo 58.º
+    - Altera Artigo 60.º
+    - Altera Artigo 68.º
+    - Altera Artigo 74.º
+    - Altera Artigo 81.º
+    - Altera Artigo 97.º
+    - Altera Artigo 98.º
+    - Altera Artigo 99.º
+    - Altera Artigo 102.º
+    - Altera Artigo 105.º
+    - Altera Artigo 106.º
+    - Altera Artigo 109.º
+    - Altera Artigo 111.º
+    - Altera Secção IV
+    - Altera Artigo 113.º
+    - Altera Artigo 114.º
+    - Altera Artigo 115.º
+    - Altera Artigo 116.º
+    - Altera Artigo 158.º
+  - date: '1988-03-02'
+    amending: pt:dre:286732:por
+    amending_title: Decreto-Lei n.º 55/88
+    changes:
+    - Altera Artigo 74.º
+  - date: '1991-07-25'
+    amending: pt:dre:662558:por
+    amending_title: Lei n.º 31/91
+    changes:
+    - Revoga Artigo 50.º
+  - date: '1993-12-01'
+    amending: pt:dre:428825:por
+    amending_title: Lei n.º 72/93
+    changes:
+    - Revoga Capítulo III
+    - Revoga Artigo 131.º
+    - Revoga Artigo 132.º
+    - Revoga Artigo 133.º
+  - date: '1995-04-27'
+    amending: pt:dre:223465:por
+    amending_title: Lei n.º 11/95
+    changes:
+    - Adita Artigo 40.º-A
+    - Adita Artigo 41.º-A
+    - Adita Artigo 70.º-A
+    - Adita Artigo 70.º-B
+    - Adita Artigo 70.º-C
+    - Adita Artigo 77.º-A
+    - Adita Artigo 123.º-A
+    - Adita Artigo 123.º-B
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Artigo 31.º
+    - Altera Artigo 35.º
+    - Altera Artigo 38.º
+    - Altera Artigo 41.º
+    - Altera Artigo 44.º
+    - Altera Artigo 49.º
+    - Altera Artigo 70.º
+    - Altera Artigo 74.º
+    - Altera Artigo 81.º
+    - Altera Artigo 82.º
+    - Altera Artigo 83.º
+    - Altera Artigo 87.º
+    - Altera Artigo 88.º
+    - Altera Artigo 95.º
+  - date: '1995-08-23'
+    amending: pt:dre:434623:por
+    amending_title: Lei n.º 35/95
+    changes:
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 60.º
+    - Altera Artigo 123.º
+  - date: '1997-09-17'
+    amending: pt:dre:649170:por
+    amending_title: Lei n.º 110/97
+    changes:
+    - Altera Artigo 15.º
+  - date: '2000-08-29'
+    amending: pt:dre:330213:por
+    amending_title: Lei Orgânica n.º 3/2000
+    changes:
+    - Adita Artigo 31.º-A
+    - Adita Artigo 33.º-A
+    - Adita Artigo 70.º-D
+    - Adita Artigo 86.º-A
+    - Adita Artigo 91.º-A
+    - Adita Artigo 97.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 23.º
+    - Altera Artigo 29.º
+    - Altera Artigo 32.º
+    - Altera Artigo 34.º
+    - Altera Artigo 38.º
+    - Altera Artigo 40.º-A
+    - Altera Artigo 70.º
+    - Altera Artigo 70.º-A
+    - Altera Artigo 86.º
+    - Altera Artigo 159.º-A
+  - date: '2001-08-30'
+    amending: pt:dre:515638:por
+    amending_title: Lei Orgânica n.º 2/2001
+    changes:
+    - Altera Artigo 70.º-A
+    - Altera Artigo 70.º-B
+  - date: '2005-09-09'
+    amending: pt:dre:142522:por
+    amending_title: Lei Orgânica n.º 4/2005
+    changes:
+    - Altera Artigo 11.º
+  - date: '2010-12-20'
+    amending: pt:dre:306947:por
+    amending_title: Lei Orgânica n.º 3/2010
+    changes:
+    - Adita Artigo 70.º
+    - Altera Artigo 1.º
+    - Altera Artigo 1.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 12.º
+    - Altera Artigo 31.º-A
+    - Altera Artigo 37.º
+    - Altera Artigo 70.º
+    - Altera Artigo 70.º-A
+    - Altera Artigo 70.º-B
+    - Altera Artigo 70.º-C
+    - Altera Artigo 70.º-D
+    - Altera Artigo 76.º
+    - Revoga Artigo 1.º-A
+  - date: '2011-12-01'
+    amending: pt:dre:146220:por
+    amending_title: Lei Orgânica n.º 1/2011
+    changes:
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 38.º
+    - Altera Artigo 43.º
+    - Altera Artigo 55.º
+    - Altera Artigo 59.º
+    - Altera Artigo 81.º
+    - Altera Artigo 86.º
+    - Altera Artigo 97.º
+    - Altera Artigo 98.º
+    - Altera Artigo 102.º
+    - Altera Artigo 103.º
+    - Altera Artigo 104.º
+    - Altera Artigo 115.º
+    - Altera Artigo 159.º-A
+  - date: '2015-07-24'
+    amending: pt:dre:69866640:por
+    amending_title: Lei n.º 72-A/2015
+    changes:
+    - Revoga Artigo 54.º
+    - Revoga Artigo 63.º
+    - Revoga Artigo 122.º
+  - date: '2018-08-18'
+    amending: pt:dre:116090196:por
+    amending_title: Lei Orgânica n.º 3/2018
+    changes:
+    - Adita Artigo 35.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 23.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º-A
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 43.º
+    - Altera Artigo 60.º
+    - Altera Artigo 70.º
+    - Altera Artigo 70.º-A
+    - Altera Artigo 70.º-B
+    - Altera Artigo 70.º-C
+    - Altera Artigo 70.º-D
+    - Altera Artigo 74.º
+    - Altera Artigo 76.º
+    - Altera Artigo 77.º-A
+    - Altera Artigo 86.º
+    - Altera Artigo 87.º
+    - Altera Artigo 88.º
+    - Altera Artigo 90.º
+    - Altera Artigo 97.º
+    - Altera Artigo 97.º-A
+    - Altera Artigo 113.º-A
+    - Altera Artigo 159.º-A
+  - date: '2020-11-12'
+    amending: pt:dre:148214576:por
+    amending_title: Lei Orgânica n.º 4/2020
+    changes:
+    - Altera Artigo 31.º
+    - Altera Artigo 35.º-A
+    - Altera Artigo 38.º
+    - Altera Artigo 42.º
+    - Altera Artigo 70.º-C
+  - date: '2021-06-05'
+    amending: pt:dre:164590039:por
+    amending_title: Lei Orgânica n.º 1/2021
+    changes:
+    - Adita Artigo 15.º-A
+    - Altera Artigo 15.º
+  - date: '2026-07-24'
+    amending: pt:dre:1151256045:por
+    amending_title: Lei Orgânica n.º 2/2026
+    changes:
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 60.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/319-a/1976/p/cons/20260723/pt/html
+  oj: null
+  dre: '655916'
+  dre_path: /dr/detalhe/decreto-lei/319-a-1976-655916
+  internal: pt:dre:655916:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1976-655916
+  metadata_url: https://data.dre.pt/eli/dec-lei/319-a/1976/p/cons/20260723/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1976-34568075
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1976-34568075
+  retrieved_at: '2026-10-22T13:46:43Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-07-23T00:00:00Z'
+integrity:
+  source_sha256: ef3c29336b5bd9b3476aed9c5962cab556ac4f63e8ef16812afc9b1913114d76
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:46:43Z'
+  notes: 21 versão(ões); histórico completo em decreto-lei-319-a-76.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia de VOTO
+- Campanha Eleitoral
+- Comissão Nacional de Eleições
+- Contabilidade
+- Crime
+- Direito de Antena
+- Direito de Voto
+- Eleição
+- Eleição Presidencial
+- Fiscalização
+- Fraude
+- Infracção Disciplinar
+- Liberdade de Reunião
+- Partido Político
+- Presidente da República
+- Propaganda Política
+- RDP
+- RTP
+- Radiodifusão
+- Resultado Eleitoral
+- Sistema Eleitoral
+- Televisão
+relationships:
+- type: amended_by
+  target: pt:dre:425093:por
+  label: Altera Artigo 52.º; Altera Artigo 53.º; Altera Artigo 54.º; Altera Artigo 132.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-a-1976-425093
+  date: '1976-06-04'
+- type: amended_by
+  target: pt:dre:629458:por
+  label: Altera Artigo 70.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-a-1976-629458
+  date: '1976-06-08'
+- type: amended_by
+  target: pt:dre:617158:por
+  label: Altera Artigo 70.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-b-1976-617158
+  date: '1976-06-15'
+- type: amended_by
+  target: pt:dre:177474:por
+  label: Altera Artigo 106.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-a-1976-177474
+  date: '1976-06-24'
+- type: amended_by
+  target: pt:dre:564260:por
+  label: Retifica Artigo 81.º; Adita Secção IV; Adita Artigo 113.º-A; Adita Artigo 113.º-B; Adita Artigo 159.º-A; Adita Artigo
+    159.º-B; Adita Artigo 159.º-C; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera
+    Artigo 44.º; Altera Artigo 52.º; Altera Artigo 54.º; Altera Artigo 58.º; Altera Artigo 60.º; Altera Artigo 68.º; Altera
+    Artigo 74.º; Altera Artigo 81.º; Altera Artigo 97.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260
+  date: '1985-11-26'
+- type: amended_by
+  target: pt:dre:171090:por
+  label: Retifica Artigo 81.º; Adita Secção IV; Adita Artigo 113.º-A; Adita Artigo 113.º-B; Adita Artigo 159.º-A; Adita Artigo
+    159.º-B; Adita Artigo 159.º-C; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera
+    Artigo 44.º; Altera Artigo 52.º; Altera Artigo 54.º; Altera Artigo 58.º; Altera Artigo 60.º; Altera Artigo 68.º; Altera
+    Artigo 74.º; Altera Artigo 81.º; Altera Artigo 97.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1985-171090
+  date: '1985-12-16'
+- type: amended_by
+  target: pt:dre:286732:por
+  label: Altera Artigo 74.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1988-286732
+  date: '1988-02-26'
+- type: amended_by
+  target: pt:dre:662558:por
+  label: Revoga Artigo 50.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/31-1991-662558
+  date: '1991-07-20'
+- type: amended_by
+  target: pt:dre:428825:por
+  label: Revoga Capítulo III; Revoga Artigo 131.º; Revoga Artigo 132.º; Revoga Artigo 133.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825
+  date: '1993-11-30'
+- type: amended_by
+  target: pt:dre:223465:por
+  label: Adita Artigo 40.º-A; Adita Artigo 41.º-A; Adita Artigo 70.º-A; Adita Artigo 70.º-B; Adita Artigo 70.º-C; Adita Artigo
+    77.º-A; Adita Artigo 123.º-A; Adita Artigo 123.º-B; Altera Artigo 3.º; Altera Artigo 11.º; Altera Artigo 31.º; Altera
+    Artigo 35.º; Altera Artigo 38.º; Altera Artigo 41.º; Altera Artigo 44.º; Altera Artigo 49.º; Altera Artigo 70.º; Altera
+    Artigo 74.º; Altera Artigo 81.º; Altera Artigo 82.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465
+  date: '1995-04-22'
+- type: amended_by
+  target: pt:dre:434623:por
+  label: Altera Artigo 52.º; Altera Artigo 53.º; Altera Artigo 60.º; Altera Artigo 123.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/35-1995-434623
+  date: '1995-08-18'
+- type: amended_by
+  target: pt:dre:649170:por
+  label: Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/110-1997-649170
+  date: '1997-09-16'
+- type: amended_by
+  target: pt:dre:330213:por
+  label: Adita Artigo 31.º-A; Adita Artigo 33.º-A; Adita Artigo 70.º-D; Adita Artigo 86.º-A; Adita Artigo 91.º-A; Adita Artigo
+    97.º-A; Altera Artigo 1.º; Altera Artigo 7.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 16.º; Altera Artigo
+    23.º; Altera Artigo 29.º; Altera Artigo 32.º; Altera Artigo 34.º; Altera Artigo 38.º; Altera Artigo 40.º-A; Altera Artigo
+    70.º; Altera Artigo 70.º-A; Altera Artigo 86.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213
+  date: '2000-08-24'
+- type: amended_by
+  target: pt:dre:515638:por
+  label: Altera Artigo 70.º-A; Altera Artigo 70.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2001-515638
+  date: '2001-08-25'
+- type: amended_by
+  target: pt:dre:142521:por
+  label: Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2005-142521
+  date: '2005-09-08'
+- type: amended_by
+  target: pt:dre:142522:por
+  label: Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2005-142522
+  date: '2005-09-08'
+- type: amended_by
+  target: pt:dre:306947:por
+  label: Adita Artigo 70.º; Altera Artigo 1.º; Altera Artigo 1.º-B; Altera Artigo 2.º; Altera Artigo 12.º; Altera Artigo 31.º-A;
+    Altera Artigo 37.º; Altera Artigo 70.º; Altera Artigo 70.º-A; Altera Artigo 70.º-B; Altera Artigo 70.º-C; Altera Artigo
+    70.º-D; Altera Artigo 76.º; Revoga Artigo 1.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947
+  date: '2010-12-15'
+- type: amended_by
+  target: pt:dre:146220:por
+  label: Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 29.º; Altera Artigo 31.º; Altera Artigo 38.º; Altera Artigo
+    43.º; Altera Artigo 55.º; Altera Artigo 59.º; Altera Artigo 81.º; Altera Artigo 86.º; Altera Artigo 97.º; Altera Artigo
+    98.º; Altera Artigo 102.º; Altera Artigo 103.º; Altera Artigo 104.º; Altera Artigo 115.º; Altera Artigo 159.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:69866640:por
+  label: Revoga Artigo 54.º; Revoga Artigo 63.º; Revoga Artigo 122.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/72-a-2015-69866640
+  date: '2015-07-23'
+- type: amended_by
+  target: pt:dre:116090196:por
+  label: Adita Artigo 35.º-A; Altera Artigo 3.º; Altera Artigo 23.º; Altera Artigo 31.º; Altera Artigo 33.º-A; Altera Artigo
+    37.º; Altera Artigo 38.º; Altera Artigo 43.º; Altera Artigo 60.º; Altera Artigo 70.º; Altera Artigo 70.º-A; Altera Artigo
+    70.º-B; Altera Artigo 70.º-C; Altera Artigo 70.º-D; Altera Artigo 74.º; Altera Artigo 76.º; Altera Artigo 77.º-A; Altera
+    Artigo 86.º; Altera Artigo 87.º; Altera Artigo 88.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196
+  date: '2018-08-17'
+- type: amended_by
+  target: pt:dre:148214576:por
+  label: Altera Artigo 31.º; Altera Artigo 35.º-A; Altera Artigo 38.º; Altera Artigo 42.º; Altera Artigo 70.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2020-148214576
+  date: '2020-11-11'
+- type: amended_by
+  target: pt:dre:164590039:por
+  label: Adita Artigo 15.º-A; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039
+  date: '2021-06-04'
+- type: amended_by
+  target: pt:dre:1151256045:por
+  label: Altera Artigo 52.º; Altera Artigo 53.º; Altera Artigo 60.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2026-1151256045
+  date: '2026-07-23'
+article_structure:
+  article_count: 185
+  section_count: 37
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:46:43Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 319-A/76
+
+Decreto-Lei n.º 319-A/76
+
+de 3 de Maio
+
+O presente diploma regula a eleição do Presidente da República e adopta um esquema semelhante ao dos restantes diplomas eleitorais já publicados para a eleição da Assembleia da República, sem prejuízo da diversidade existente entre os órgãos de soberania de tão diferente estrutura.
+
+Respeita-se o disposto no n.º 2 do artigo 124.º da Constituição da República, o qual exige que o direito de voto seja exercido presencialmente no território nacional.
+
+Quanto aos aspectos técnicos de organização do acto eleitoral, máxima da campanha eleitoral e da constituição das mesas das assembleias de voto, bem como, com as necessárias adaptações, o ilícito eleitoral, seguiu-se no essencial a experiência eleitoral anterior.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+## Título I — Capacidade eleitoral
+
+### Capítulo I — Capacidade eleitoral activa
+
+###### Artigo 1.º — (Capacidade eleitoral activa)
+
+1 - São eleitores do Presidente da República os cidadãos portugueses recenseados no território nacional e os cidadãos portugueses residentes no estrangeiro que se encontrem inscritos nos cadernos do recenseamento eleitoral nacional.
+
+2 - (Revogado.)
+
+3 - São também eleitores do Presidente da República os cidadãos de outros países de língua portuguesa que residam no território nacional e beneficiem do estatuto de igualdade de direitos políticos, nos termos de convenção internacional e em condições de reciprocidade, desde que estejam inscritos como eleitores no território nacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2005 - Diário da República n.º 173/2005, Série I-A de 2005-09-08](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2005-142521), em vigor a partir de 2005-09-13
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+###### Artigo 1.º-A — Cidadãos em serviço ou em actividade de interesse público no estrangeiro
+
+1 - São admitidos ao recenseamento eleitoral do Presidente da República os cidadãos portugueses residentes no estrangeiro nas seguintes situações:
+
+a) Titulares de órgãos da União Europeia e de organizações internacionais;
+
+b) Diplomatas e outros funcionários e agentes em serviço em representações externas do Estado;
+
+c) Funcionários e agentes das comunidades e da União Europeia e de organizações internacionais;
+
+d) Professores de escolas portuguesas, como tal reconhecidas pelo Ministério da Educação;
+
+e) Cooperantes, com estatuto como tal reconhecido pelo Ministério dos Negócios Estrangeiros.
+
+2 - São ainda eleitores do Presidente da República os cônjuges ou equiparados, parentes ou afins que vivam com os cidadãos portugueses residentes no estrangeiro mencionados no número anterior, desde que preencham os requisitos previstos na presente lei.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Aditado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2005 - Diário da República n.º 173/2005, Série I-A de 2005-09-08](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2005-142521), em vigor a partir de 2005-09-13
+
+###### Artigo 1.º-B — Cidadãos residentes no estrangeiro
+
+A nacionalidade portuguesa e a inscrição no recenseamento eleitoral no estrangeiro são provas suficientes da existência de laços de efectiva ligação à comunidade nacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Aditado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 5/2005 - Diário da República n.º 173/2005, Série I-A de 2005-09-08](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2005-142521), em vigor a partir de 2005-09-13
+
+###### Artigo 2.º — (Portugueses plurinacionais)
+
+1. Os portugueses havidos também como cidadãos de outro Estado não perdem por esse facto a qualidade de cidadãos eleitores.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2005 - Diário da República n.º 173/2005, Série I-A de 2005-09-08](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2005-142521), em vigor a partir de 2005-09-13
+
+###### Artigo 3.º — (Incapacidades eleitorais)
+
+1 - Não são eleitores do Presidente da República os cidadãos portugueses que tenham obtido estatuto de igualdade de direitos políticos em país de língua portuguesa, nos termos do n.º 3 do artigo 15.º da Constituição.
+
+2 - Não são também cidadãos eleitores do Presidente da República:
+
+a) (Revogada.)
+
+b) Os que notoriamente apresentem limitação ou alteração grave das funções mentais, ainda que não sujeitos a acompanhamento, quando internados em estabelecimento psiquiátrico ou como tais declarados por uma junta de dois médicos;
+
+c) Os que estejam privados de direitos políticos, por decisão judicial transitada em julgado.
+
+> Nota: [Acórdão n.º 748/93 - Diário da República n.º 298/1993, Série I-A de 1993-12-23](https://diariodarepublica.pt/dr/detalhe/acordao/748-1993-541443) Declarada a inconstitucionalidade, com força obrigatória geral, das normas constantes da alínea c) do artigo 3.º do presente diploma, na parte em que estabelecem a incapacidade eleitoral activa dos definitivamente condenados a pena de prisão por crime doloso (ou por crime doloso infamante) enquanto não hajam expiado a respectiva pena, por violação do artigo 30.º, n.º 4, da Constituição.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18, produz efeitos a partir de 2019-02-10
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 5/2005 - Diário da República n.º 173/2005, Série I-A de 2005-09-08](https://diariodarepublica.pt/dr/detalhe/lei-organica/5-2005-142521), em vigor a partir de 2005-09-13
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+### Capítulo II — Capacidade eleitoral passiva
+
+###### Artigo 4.º — (Capacidade eleitoral passiva)
+
+1. São elegíveis para a Presidência da República os cidadãos eleitores portugueses de origem, maiores de 35 anos.
+
+2. Os funcionários do Estado ou de outras pessoas colectivas públicas não precisam de autorização para se candidatarem à Presidência da República.
+
+###### Artigo 5.º — (Inelegibilidade)
+
+São inelegíveis para a Presidência da República os cidadãos feridos por qualquer das incapacidades eleitorais passivas previstas no Decreto-Lei n.º 621-B/74, de 15 de Novembro.
+
+###### Artigo 6.º — (Incompatibilidade com o exercício de funções privadas)
+
+1. Desde a data da apresentação das candidaturas e até ao dia da eleição os candidatos têm direito à dispensa do exercício das respectivas funções, sejam públicas ou privadas, contando esse tempo para todos os efeitos, incluindo o direito à retribuição, como tempo de serviço efectivo.
+
+2. Os magistrados judiciais ou do Ministério Público em efectividade de serviço, os militares em funções de comando e os diplomatas chefes de missão, quando candidatos, suspendem obrigatoriamente o exercício das respectivas funções, desde a data da apresentação da candidatura até ao dia da eleição.
+
+## Título II — Sistema eleitoral
+
+### Capítulo I — Organização do colégio eleitoral
+
+###### Artigo 7.º — Círculo eleitoral único
+
+Para o efeito da eleição do Presidente da República, existe um só círculo eleitoral, com sede em Lisboa.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 8.º — (Colégio eleitoral)
+
+Ao círculo único corresponde um colégio eleitoral.
+
+### Capítulo II — Regime da eleição
+
+###### Artigo 9.º — (Modo de eleição)
+
+O Presidente da República será eleito por lista uninominal, apresentada nos termos do artigo 13.º
+
+###### Artigo 10.º — (Critério da eleição)
+
+1 - Será eleito o candidato que obtiver mais de metade dos votos validamente expressos, não se considerando como tal os votos em branco.
+
+2 - Se nenhum dos candidatos obtiver esse número de votos, proceder-se-á a segundo sufrágio, ao qual concorrerão apenas os dois candidatos mais votados que não tenham retirado a sua candidatura.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+## Título III — Organização do processo eleitoral
+
+### Capítulo I — Marcação da data da eleição
+
+###### Artigo 11.º — (Marcação da eleição)
+
+1 - O Presidente da República marcará a data do primeiro sufrágio para a eleição para a Presidência da República com a antecedência mínima de 60 dias.
+
+2 - No caso previsto no n.º 2 do artigo anterior, o segundo sufrágio realizar-se-á no vigésimo primeiro dia posterior ao primeiro.
+
+3 - Tanto o primeiro como o eventual segundo sufrágio realizar-se-ão nos 60 dias anteriores ao termo do mandato do Presidente da República cessante, ou nos 60 dias posteriores à vagatura do cargo.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei Orgânica n.º 4/2005 - Diário da República n.º 173/2005, Série I-A de 2005-09-08](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2005-142522), em vigor a partir de 2005-09-09
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 12.º — (Dia da eleição)
+
+1 - O dia da eleição é o mesmo em todo o território nacional.
+
+2 - No estrangeiro, a votação inicia-se no dia anterior ao marcado para a eleição e encerra-se neste dia.
+
+3 - No estrangeiro, a votação no dia anterior ao marcado para a eleição decorre entre as 8 e as 19 horas e, no dia da eleição, das 8 horas até à hora limite do exercício do direito de voto em território nacional, competindo à mesa da assembleia de voto, com a colaboração dos delegados candidatos, garantir as condições de liberdade de voto durante os dois dias de votação e as suas interrupções, bem como a inviolabilidade das urnas eleitorais, que são seladas no início das operações eleitorais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+### Capítulo II — Apresentação de candidaturas
+
+#### Secção I — Propositura das candidaturas
+
+###### Artigo 13.º — (Poder de apresentação de candidatura)
+
+1. As candidaturas só poderão ser apresentadas por um mínimo de 7500 e um máximo de 15000 cidadãos eleitores.
+
+2. Cada cidadão eleitor só poderá ser proponente de uma única candidatura à Presidência da República.
+
+###### Artigo 14.º — (Apresentação de candidaturas)
+
+1. A apresentação de candidaturas faz-se perante o Supremo Tribunal de Justiça até trinta dias antes da data prevista para a eleição.
+
+2. Terminado o prazo para a apresentação das candidaturas, o Presidente mandará afixar por edital à porta do edifício do Tribunal uma relação com o nome dos candidatos.
+
+###### Artigo 15.º — (Requisitos formais da apresentação)
+
+1. A apresentação consiste na entrega de uma declaração subscrita pelos cidadãos eleitores previstos no artigo 13.º contendo o nome e demais elementos de identificação do candidato.
+
+2. Cada candidatura será ainda instruída com documentos que façam prova bastante de que o candidato é maior de 35 anos, português de origem, está no gozo de todos os direitos civis e políticos e está inscrito no recenseamento eleitoral.
+
+3. Deverá ainda constar do processo de candidatura uma declaração do candidato, ilidível a todo o tempo, da qual conste que não está abrangido pelas inelegibilidades fixadas pelo artigo 5.º e de que aceita a candidatura.
+
+4 - Os proponentes devem fazer prova de inscrição no recenseamento, indicando, também, o número de identificação civil.
+
+5 - Para efeitos do disposto no n.º 1, devem entender-se por mais elementos de identificação os seguintes: idade, número de identificação civil, filiação, profissão, naturalidade e residência.
+
+6 - Para os efeitos dos n.os 2 e 4, a prova de inscrição no recenseamento eleitoral é feita por meio de documento passado pela junta de freguesia ou emitida nos termos do n.º 9.
+
+7. O proponente deverá apresentar o requerimento da certidão referida no n.º 6, em duplicado, indicando expressamente o nome do candidato proposto, devendo o duplicado ser arquivado.
+
+8. Em caso de extravio da certidão devidamente comprovado, poderá ser passada 2.ª via, onde se fará expressamente menção desse facto.
+
+9 - A declaração a que se refere o n.º 1 pode ser subscrita em papel e/ou por meio eletrónico através do Portal do Eleitor, sendo que, neste último caso, a inscrição no recenseamento é comprovada eletronicamente.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 110/97 - Diário da República n.º 214/1997, Série I-A de 1997-09-16](https://diariodarepublica.pt/dr/detalhe/lei/110-1997-649170), em vigor a partir de 1997-09-17
+
+###### Artigo 15.º-A — Subscrição eletrónica de candidaturas
+
+1 - O Governo disponibiliza, através da Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna, uma plataforma eletrónica própria que permita aos cidadãos eleitores subscreverem, com validação da identidade através da Chave Móvel Digital ou com o cartão de cidadão e respetivo código PIN, através do leitor do cartão de cidadão, propostas de candidaturas a Presidente da República.
+
+2 - Para efeitos do disposto no número anterior, as propostas de candidaturas a Presidente da República são submetidas na plataforma eletrónica pelas respetivas candidaturas, para efeitos de validação da inscrição no recenseamento eleitoral dos seus proponentes, mediante adequada interoperabilidade entre a plataforma e a base de dados do recenseamento eleitoral (BDRE).
+
+3 - Para efeitos do número anterior, as candidaturas submetem na plataforma eletrónica os seguintes elementos relativos à intenção de candidatura:
+
+a) Nome e demais elementos de identificação do candidato, nos termos do artigo 15.º;
+
+b) Nome e tipo e número do documento de identificação civil do mandatário da lista de candidatura;
+
+c) Morada do mandatário da lista de candidatura nos termos da Lei Eleitoral.
+
+4 - A plataforma eletrónica a que se refere o n.º 1 assegura:
+
+a) O cumprimento dos requisitos exigidos na respetiva Lei Eleitoral para os proponentes de candidaturas, nomeadamente a validação da inscrição no recenseamento, mediante a adequada interoperabilidade entre a plataforma e a BDRE;
+
+b) A possibilidade de o proponente anular a subscrição nos 10 dias seguintes, caso a candidatura ainda não tenha sido apresentada no tribunal competente;
+
+c) O bloqueio de subscrições duplicadas, sem prejuízo de, anulada uma subscrição nos termos da alínea anterior, o proponente poder subscrever uma nova;
+
+d) A extração de relação ordenada por nome, tipo e número de documento de identificação civil e respetivo local de recenseamento, dos proponentes de cada proposta de candidatura;
+
+e) O acesso das candidaturas à relação ordenada referida na alínea anterior que lhes digam respeito a qualquer momento;
+
+f) O acesso do tribunal competente à relação ordenada referida na alínea d);
+
+g) O fecho da subscrição no dia da entrega da candidatura, o qual é determinado pelo tribunal competente e processado eletronicamente, habilitando o tribunal à conferência dos proponentes nos termos da respetiva Lei Eleitoral e juntando as subscrições dos proponentes recolhidas em papel e/ou através da plataforma eletrónica.
+
+5 - A plataforma eletrónica assegura que só os eleitores recenseados nos termos da Lei Eleitoral a podem subscrever.
+
+6 - Cada intenção de candidatura pode recolher através da plataforma eletrónica a subscrição de proponentes respeitante ao número máximo exigido por lei para o órgão a eleger acrescido de até mais 5 %, para eventual suprimento de subscrições irregulares.
+
+7 - Para a verificação da validade das subscrições dos proponentes, nos termos fixados pela Lei Eleitoral, é concedido aos tribunais competentes acesso à plataforma eletrónica.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05
+
+###### Artigo 16.º — Mandatários e representantes das candidaturas
+
+1. Cada candidato designará um mandatário para o representar nas operações referentes ao julgamento da elegibilidade e nas operações subsequentes.
+
+2. A morada do mandatário será sempre indicada no processo de candidatura e quando não residir em Lisboa escolherá ali domicílio para efeito de ser notificado.
+
+3 - Cada candidato pode nomear representante seu em cada sede de distrito ou Região Autónoma, no território nacional, ou em cada área consular, no estrangeiro, para a prática de quaisquer actos relacionados com a candidatura.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 17.º — (Recepção de candidaturas)
+
+Findo o prazo para a apresentação das candidaturas, o juiz-presidente, sem prejuízo do n.º 2 do artigo 14.º, verificará, dentro dos três dias subsequentes, a regularidade do processo, a autenticidade dos documentos que o integram e a elegibilidade dos candidatos.
+
+###### Artigo 18.º — (Irregularidades processuais)
+
+Verificando-se irregularidades processuais, o juiz-presidente mandará notificar imediatamente o mandatário do candidato para as suprir no prazo de vinte e quatro horas.
+
+###### Artigo 19.º — (Rejeição de candidaturas)
+
+Será rejeitado o candidato inelegível.
+
+###### Artigo 20.º — (Reclamação)
+
+1. Das decisões do juiz-presidente relativas à apresentação de candidaturas poderão, até vinte e quatro horas após a notificação da decisão, reclamar para o próprio juiz-presidente os candidatos ou os seus mandatários.
+
+2. O juiz-presidente deverá decidir no prazo de vinte e quatro horas.
+
+3. Quando não haja reclamações ou decididas as que tenham sido apresentadas, o juiz-presidente mandará afixar à porta do edifício do Tribunal uma relação completa de todas as candidaturas admitidas.
+
+###### Artigo 21.º — (Sorteio das candidaturas apresentadas)
+
+1. Findo o prazo do n.º 1 do artigo 14.º, e nas vinte e quatro horas seguintes, o juiz-presidente procederá ao sorteio das candidaturas que tenham sido apresentadas à eleição na presença dos respectivos candidatos ou seus mandatários, para efeito de lhes atribuir uma ordem nos boletins de voto.
+
+2. A realização do sorteio não implica a admissão das candidaturas, devendo considerar-se sem efeito relativamente às candidaturas que, nos termos dos artigos 17.º e seguintes, venham a ser definitivamente rejeitadas.
+
+###### Artigo 22.º — (Auto do sorteio)
+
+1. Da operação referida no artigo anterior lavrar-se-á auto.
+
+2. À Comissão Nacional das Eleições será enviada cópia do auto.
+
+3. (Revogado).
+
+> Alterado pelo/a Artigo 17.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+###### Artigo 23.º — (Publicação das listas)
+
+1 - As candidaturas definitivamente admitidas são imediatamente afixadas à porta do tribunal e enviadas, por cópia, ao Secretário-Geral do Ministério da Administração Interna ou, nas regiões autónomas, ao Representante da República, e às câmaras municipais, bem como, no estrangeiro, às representações diplomáticas e postos consulares, que as publicam, no prazo de dois dias, por editais afixados à porta de todas as câmaras municipais e juntas de freguesia, bem como daquelas representações diplomáticas e consulares no estrangeiro.
+
+2 - No prazo referido no número anterior, a administração eleitoral da Secretaria-Geral do Ministério da Administração Interna procede à divulgação na Internet das candidaturas admitidas.
+
+3 - No dia da eleição, as candidaturas sujeitas a sufrágio são novamente publicadas por editais afixados à porta e no interior das assembleias de voto.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+###### Artigo 24.º — (Imunidade dos candidatos)
+
+1. Nenhum candidato poderá ser sujeito a prisão preventiva, a não ser em caso de flagrante delito de crime punível com pena maior.
+
+2. Movido procedimento criminal contra algum candidato e indiciado este por despacho de pronúncia ou equivalente, o processo só poderá seguir após a proclamação dos resultados da eleição.
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+#### Secção II — Contencioso da apresentação das candidaturas
+
+###### Artigo 25.º — (Recurso para o tribunal pleno)
+
+1. Das decisões finais do juiz-presidente relativas à apresentação de candidaturas cabe recurso para o tribunal pleno.
+
+2. O recurso deve ser interposto no prazo de vinte e quatro horas, a contar da afixação das candidaturas a que se refere o n.º 3 do artigo 20.º
+
+###### Artigo 26.º — (Legitimidade)
+
+Têm legitimidade para interpor o recurso os candidatos ou respectivos mandatários.
+
+###### Artigo 27.º — (Requerimento de interposição de recurso)
+
+O requerimento de interposição do recurso, do qual constarão os seus fundamentos, será entregue no Supremo Tribunal de Justiça acompanhado de todos os elementos de prova.
+
+###### Artigo 28.º — (Decisão)
+
+O Supremo Tribunal de Justiça, em plenário, decidirá definitivamente, no prazo de vinte e quatro horas.
+
+#### Secção III — Desistência ou morte de candidatos
+
+###### Artigo 29.º — (Desistência de candidatura)
+
+1 - Qualquer candidato pode desistir da candidatura até setenta e duas horas antes do dia da eleição, mediante declaração escrita, com a assinatura reconhecida por notário, apresentada ao Presidente do Tribunal Constitucional.
+
+2 - Verificada a regularidade de declaração de desistência, o presidente do tribunal manda imediatamente afixar cópia à porta do edifício do tribunal e notifica do facto a Comissão Nacional de Eleições.
+
+3 - Após a realização do primeiro sufrágio, a eventual desistência de qualquer dos dois candidatos mais votados só pode ocorrer até às 18 horas do segundo dia posterior à primeira votação.
+
+4 - Em caso de desistência nos termos do número anterior são sucessivamente chamados os restantes candidatos, pela ordem de votação, para que, até às 12 horas do terceiro dia posterior à primeira votação, comuniquem a eventual desistência.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 30.º — (Morte ou incapacidade)
+
+1 - Em caso de morte de qualquer candidato ou de qualquer outro facto que o incapacite para o exercício da função presidencial será reaberto o processo eleitoral.
+
+2 - Verificado o óbito ou declarada a incapacidade, o presidente do Tribunal Constitucional dará publicidade ao facto, por declaração a inserir imediatamente na 1.ª série do Diário da República.
+
+3 - O Presidente da República marcará a data da eleição nas 48 horas seguintes ao recebimento da decisão do Tribunal Constitucional que verificou a morte ou a declaração de incapacidade do candidato.
+
+4 - Na repetição do acto de apresentação de candidaturas é facultada aos subscritores a dispensa de junção de certidões anteriormente apresentadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+### Capítulo III — Constituição das assembleias de voto
+
+###### Artigo 31.º — (Assembleia de voto)
+
+1 -  A cada freguesia corresponde uma assembleia de voto.
+
+2 - As assembleias de voto das freguesias com um número de eleitores sensivelmente superior a 1000 são divididas em secções de voto, por iniciativa da junta de freguesia ou da câmara municipal, de modo a que o número de eleitores seja adequado à realidade geográfica e aos locais de realização do ato eleitoral, procurando-se, sempre que possível, que não ultrapasse sensivelmente esse número.
+
+3 - Até ao 35.º dia anterior ao dia da eleição, o presidente da câmara municipal decide os pedidos de desdobramentos previstos no número anterior, comunicando-os imediatamente à correspondente junta de freguesia e aos serviços da administração eleitoral.
+
+4 - Da decisão referida no número anterior cabe recurso, a interpor no prazo de dois dias, por iniciativa das juntas de freguesia ou de, pelo menos, 10 eleitores de qualquer assembleia de voto, para o tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma, que decide em definitivo e em igual prazo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 4/2020 - Diário da República n.º 220/2020, Série I de 2020-11-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2020-148214576), em vigor a partir de 2020-11-12
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 31.º-A — Assembleia de voto no estrangeiro
+
+A cada secção de voto ou posto consular corresponde uma assembleia de voto, procedendo-se ao respectivo desdobramento quando aí estejam inscritos mais de 5000 eleitores.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Aditado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+###### Artigo 32.º — (Dia e hora das assembleias de voto)
+
+1 - As assembleias de voto reunir-se-ão no dia marcado para a eleição, às 8 horas da manhã, em todo o território nacional.
+
+2 - No estrangeiro, as assembleias de voto reúnem-se nos termos dos n.os 2 e 3 do artigo 12.º
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+###### Artigo 33.º — (Local das assembleias de voto)
+
+1. As assembleias de voto deverão reunir-se em edifícios públicos, de preferência escolas, sedes de municípios ou juntas de freguesia, que ofereçam as indispensáveis condições de capacidade, segurança e acesso. Na falta de edifícios públicos em condições toleráveis, recorrer-se-á a um edifício particular requisitado para o efeito.
+
+2. Compete ao presidente da câmara ou da comissão administrativa municipal e, nos concelhos de Lisboa e Porto, aos administradores de bairro respectivos determinar os locais em que funcionarão as assembleias eleitorais.
+
+###### Artigo 33.º-A — Locais de assembleia de voto no estrangeiro
+
+São constituídas assembleias de voto:
+
+a) Nos postos e secções consulares, incluindo os consulados honorários com competências para operações de recenseamento eleitoral, nas delegações externas de ministérios e instituições públicas portuguesas;
+
+b) Se estritamente necessário, noutros locais em que seja possível assegurar a fiscalização das operações eleitorais por delegados de pelo menos dois dos candidatos à Presidência da República.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Aditado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+###### Artigo 34.º — (Editais sobre as assembleias de voto)
+
+1 - Até ao 15.º dia anterior ao dia da eleição, os presidentes das câmaras municipais, por editais afixados nos lugares de estilo, anunciam o dia, a hora e os locais em que se reunirão as assembleias de voto e os desdobramentos e anexações destas, se a eles houver lugar.
+
+2 - Tratando-se de assembleias de voto que funcionem fora do território nacional, a competência prevista no número anterior pertence ao presidente da comissão recenseadora.
+
+3. No caso de desdobramento ou anexação de assembleias de voto, constará igualmente dos editais a indicação dos cidadãos que deverão votar em cada assembleia.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+###### Artigo 35.º — Mesas das assembleias e secções de voto
+
+1. Em cada assembleia de voto será constituída uma mesa para promover e dirigir as operações eleitorais.
+
+2. A mesa será composta por um presidente e respectivo suplente e três vogais, sendo um secretário e dois escrutinadores.
+
+3 - Não podem ser designados membros da mesa os eleitores que não saibam ler e escrever português e, salvo nos casos previstos no n.º 2 do artigo 38.º, deverão fazer parte da assembleia ou secção de voto para que foram nomeados.
+
+4. Salvo motivo de força maior ou justa causa, é obrigatório o desempenho das funções de membro da mesa da assembleia de voto.
+
+5 - São causas justificativas de impedimento:
+
+a) Idade superior a 65 anos;
+
+b) Doença ou impossibilidade física comprovada pelo delegado de saúde municipal;
+
+c) Mudança de residência para a área de outro município, comprovada pela junta de freguesia da nova residência;
+
+d) Ausência no estrangeiro, devidamente comprovada;
+
+e) Exercício de actividade profissional de carácter inadiável, devidamente comprovada por superior hierárquico.
+
+6 - A invocação de causa justificativa é feita, sempre que o eleitor o possa fazer, até três dias antes da eleição, perante o presidente da câmara municipal.
+
+7 - No caso previsto no número anterior o presidente da câmara procede imediatamente à substituição, nomeando outro eleitor pertencente à assembleia de voto.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 35.º-A — Mesas de voto antecipado em mobilidade
+
+1 - No território nacional é constituída, pelo menos, uma mesa de voto em cada município do continente e das Regiões Autónomas dos Açores e da Madeira.
+
+2 - Sempre que relativamente a alguma mesa de voto não haja, até ao fim do prazo legal, nenhum eleitor registado para votar antecipadamente, pode o presidente da câmara municipal determinar que a mesma seja dispensada do seu funcionamento.
+
+3 - Sempre que numa mesa de voto se registe um número de eleitores sensivelmente superior a 500, pode o presidente da câmara municipal, nas 24 horas seguintes à comunicação efetuada pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, nos termos do n.º 5 do artigo 70.º-C, determinar os desdobramentos necessários, de modo a que cada uma delas não ultrapasse esse número.
+
+4 - A designação dos membros das mesas é efetuada nos termos do artigo 38.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 4/2020 - Diário da República n.º 220/2020, Série I de 2020-11-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2020-148214576), em vigor a partir de 2020-11-12
+
+> Aditado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+###### Artigo 36.º — (Delegados das candidaturas)
+
+1. Em cada assembleia de voto haverá um delegado e respectivo suplente de cada candidatura proposta à eleição.
+
+2. Os delegados das candidaturas poderão não estar inscritos no recenseamento correspondente à assembleia de voto em que deverão exercer as suas funções.
+
+###### Artigo 37.º — (Designação dos delegados das candidaturas)
+
+1 - Até ao vigésimo sétimo dia anterior ao da eleição, os candidatos ou os mandatários das diferentes candidaturas indicam, por escrito, ao presidente da câmara municipal, ou às autoridades diplomáticas e consulares, tantos delegados e tantos suplentes quantas as secções de voto em que haja sido desdobrada a assembleia de voto.
+
+2 - A designação dos delegados e suplentes das mesas de voto antecipado em mobilidade efetua-se no vigésimo sétimo dia anterior ao da eleição.
+
+3 - A cada delegado e respetivo suplente é antecipadamente entregue uma credencial, a ser preenchida pelo próprio, devendo ser apresentada para assinatura e autenticação à autoridade referida no n.º 1 aquando da respetiva indicação, na qual figuram obrigatoriamente o nome, a freguesia de inscrição no recenseamento eleitoral, o número de identificação civil e a identificação da assembleia eleitoral onde irá exercer funções.
+
+4. Não é lícito aos candidatos impugnar a eleição nas secções de voto com base em falta de qualquer delegado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 472-B/76 - Diário da República n.º 139/1976, 1º Suplemento, Série I de 1976-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-b-1976-617158), em vigor a partir de 1976-06-16
+
+###### Artigo 38.º — (Designação dos membros das mesas)
+
+1 - Até ao vigésimo segundo dia anterior ao da eleição o presidente da câmara municipal designa de entre os cidadãos eleitores inscritos em cada assembleia ou secção de voto os que devem fazer parte das mesas das assembleias ou secções de voto.
+
+2 - Nas secções de voto em que o número de cidadãos com os requisitos necessários à constituição das mesas seja comprovadamente insuficiente, compete aos presidentes das câmaras municipais nomear, de entre os cidadãos inscritos no recenseamento eleitoral da mesma freguesia, os membros em falta.
+
+3 - Os nomes dos membros da mesa constarão de edital afixado, no prazo de quarenta e oito horas, à porta da sede da junta de freguesia, e contra a escolha poderá qualquer eleitor reclamar perante o presidente da câmara municipal nos dois dias seguintes, com fundamento em preterição dos requisitos fixados na presente lei.
+
+4 - Aquela autoridade decide a reclamação em 24 horas e, se a atender, procede imediatamente a nova designação através de sorteio efetuado no edifício da câmara municipal na presença dos delegados das candidaturas concorrentes à eleição na secção de voto em causa.
+
+5 - Até ao décimo segundo dia anterior ao da eleição, o presidente da câmara municipal lavra o alvará de nomeação dos membros das mesas das assembleias de voto e comunica as nomeações às juntas de freguesia competentes.
+
+6 - Tratando-se de assembleias de voto que reúnam fora do território nacional, as competências do presidente da câmara municipal entender-se-ão deferidas ao presidente da comissão recenseadora.
+
+7 - Tratando-se de assembleias de voto que reúnam fora do território nacional, o edital a que se refere o n.º 3 será afixado à porta das instalações onde as mesmas devam reunir no dia da eleição.
+
+8 - No caso referido no número anterior, é dispensada a comunicação prevista no n.º 5.
+
+9 - À designação dos membros das mesas de voto antecipado em mobilidade aplica-se o disposto nos números anteriores com as seguintes adaptações:
+
+a) Compete aos presidentes das câmaras municipais, para efeitos do disposto no n.º 2, nomear os membros das mesas de entre os cidadãos inscritos no recenseamento eleitoral das freguesias do seu concelho;
+
+b) O edital a que se refere o n.º 3 é afixado no edifício da sede da câmara municipal.
+
+10 - Para efeitos do disposto no n.º 3 do artigo 35.º-A, o presidente da câmara municipal pode determinar a constituição de mais de uma mesa de voto antecipado em mobilidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 4/2020 - Diário da República n.º 220/2020, Série I de 2020-11-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2020-148214576), em vigor a partir de 2020-11-12
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 39.º — (Constituição da mesa)
+
+1. A mesa da assembleia de voto não poderá constituir-se antes da hora marcada para a reunião da assembleia, nem em local diverso do que houver sido determinado, sob pena de nulidade de todos os actos que praticar e da eleição.
+
+2. Após a constituição da mesa será logo afixado à porta do edifício em que estiver reunida a assembleia de voto um edital, assinado pelo presidente, contendo os nomes dos cidadãos que formam a mesa e o número de eleitores inscritos.
+
+3. Sem prejuízo do disposto no n.º 1, os membros das mesas das assembleias ou secções de voto deverão estar presentes no local do seu funcionamento uma hora antes da marcada para o início das operações eleitorais, a fim de que estas possam começar à hora fixada.
+
+###### Artigo 40.º — (Permanência da mesa)
+
+1. Constituída a mesa, ela não poderá ser alterada, salvo caso de força maior. Da alteração e das suas razões será dada conta em edital afixado no local indicado no artigo anterior.
+
+2. Para a validade das operações eleitorais é necessária a presença, em cada momento, do presidente ou do seu suplente e de, pelo menos, dois vogais.
+
+###### Artigo 40.º-A — Dispensa de actividade profissional
+
+1 - Os membros das mesas das assembleias de voto gozam do direito a dispensa de actividade profissional no dia da realização da eleição e no seguinte, sem prejuízo de todos os seus direitos e regalias, incluindo o direito à retribuição, devendo para o efeito comprovar o exercício das respectivas funções.
+
+2 - No estrangeiro, idêntico direito é atribuído aos membros da mesa que exerçam funções em entidades ou serviços oficiais nacionais.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 41.º — (Poderes dos delegados das candidaturas)
+
+1 - Os delegados das candidaturas têm os seguintes poderes:
+
+a) Ocupar os lugares mais próximos da mesa, de modo a poder fiscalizar todas as operações de votação;
+
+b) Consultar a todo o momento as cópias dos cadernos de recenseamento eleitoral utilizadas pela mesa da assembleia de voto;
+
+c) Ser ouvidos e esclarecidos acerca de todas as questões suscitadas durante o funcionamento da assembleia de voto, quer na fase da votação, quer na fase de apuramento;
+
+d) Apresentar oralmente ou por escrito reclamações, protestos ou contraprotestos relativos às operações de voto;
+
+e) Assinar a acta e rubricar, selar e lacrar todos os documentos respeitantes às operações de voto;
+
+f) Obter certidões das operações de votação e apuramento.
+
+2 - Os delegados das candidaturas não podem ser designados para substituir membros da mesa faltosos.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 41.º-A — Imunidades e direitos
+
+1 - Os delegados das candidaturas não podem ser detidos durante o funcionamento da assembleia de voto, a não ser por crime punível com pena de prisão superior a três anos e em flagrante delito.
+
+2 - Os delegados das candidaturas gozam do direito consignado no artigo 40.º-A.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 42.º — (Cadernos eleitorais)
+
+1. Logo que definidas as assembleias de voto e designados os membros das respectivas mesas, cada uma destas deverá extrair duas cópias ou fotocópias dos cadernos de recenseamento, cuja exactidão será confirmada pela comissão administrativa municipal,  destinadas aos escrutinadores.
+
+Os delegados das candidaturas poderão extrair também cópia ou fotocópia dos cadernos.
+
+2. Quando houver desdobramento da assembleia de voto, as cópias ou fotocópias abrangem apenas as folhas dos cadernos correspondentes aos eleitores que hajam de votar em cada secção de voto.
+
+3. As cópias ou fotocópias previstas nos números anteriores deverão ser obtidas, o mais tardar, até dois dias antes da eleição.
+
+4 - Nas assembleias de voto constituídas no estrangeiro podem ser utilizados, em alternativa e desde que reúnam as condições técnicas necessárias, cadernos eleitorais desmaterializados.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 4/2020 - Diário da República n.º 220/2020, Série I de 2020-11-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2020-148214576), em vigor a partir de 2020-11-12
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 43.º — (Outros elementos de trabalho da mesa)
+
+1 - O presidente da câmara municipal entrega a cada presidente da assembleia de voto, até três dias antes do dia designado para a eleição, um caderno destinado às atas das operações eleitorais, com termo de abertura por ele assinado e com todas as folhas por ele rubricadas, bem como os impressos e mapas que se tornem necessários.
+
+2 - O presidente da câmara municipal entrega também a cada presidente de assembleia ou secção de voto, até três dias antes do dia designado para a eleição, os boletins de voto bem como as respetivas matrizes em braille.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+## Título IV — Campanha eleitoral
+
+### Capítulo I — Princípios gerais
+
+###### Artigo 44.º — (Início e termo da campanha eleitoral)
+
+1 - O período da campanha eleitoral inicia-se no 14.º dia anterior e finda às 24 horas da antevéspera do dia marcado para a eleição.
+
+2 - A campanha eleitoral para o segundo sufrágio decorre desde o dia seguinte ao da afixação do edital a que se refere o artigo 109.º até às 24 horas da antevéspera do dia marcado para a votação.
+
+3 - Em caso de atraso na afixação do edital a que se refere o artigo 109.º, a campanha eleitoral decorrerá sempre entre o 8.º dia anterior e as 24 horas da antevéspera do dia da eleição.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 45.º — (Promoção e realização da campanha eleitoral)
+
+1. A promoção e realização da campanha em todo o território eleitoral caberá sempre aos candidatos, seus proponentes ou partidos políticos que apoiem a candidatura, sem prejuízo da participação activa dos cidadãos na campanha.
+
+2. O apoio dos partidos deve ser objecto de uma declaração formal dos órgãos dirigentes.
+
+###### Artigo 46.º — (Igualdade de oportunidade das candidaturas)
+
+Todas as candidaturas têm direito a igual tratamento por parte das entidades públicas e privadas, a fim de efectuarem, livremente e nas melhores condições, a sua campanha eleitoral.
+
+###### Artigo 47.º — (Neutralidade e imparcialidade das entidades públicas)
+
+Os titulares dos órgãos e os agentes do Estado, das pessoas colectivas de direito público, das pessoas colectivas de utilidade pública administrativa, das sociedades concessionárias de serviços públicos, de bens de domínio público ou de obras públicas e das sociedades de economia pública ou mista devem, no exercício das suas funções, manter rigorosa neutralidade perante as diversas candidaturas e os partidos políticos. Nessa qualidade, não poderão intervir, directa ou indirectamente, na campanha eleitoral, nem praticar actos que, de algum modo, favoreçam ou prejudiquem um concorrente às eleições em detrimento ou vantagem de outros.
+
+###### Artigo 48.º — (Liberdade de expressão e de informação)
+
+1. No decurso da campanha eleitoral não poderá ser imposta qualquer limitação à livre expressão de princípios políticos, económicos e sociais, sem prejuízo de eventual responsabilidade civil e criminal.
+
+2. Durante o período da campanha eleitoral não poderão ser aplicadas às empresas que explorem meios de comunicação social, nem aos seus agentes, por actos integrados na campanha, quaisquer sanções, sem prejuízo da responsabilidade em que incorram, a qual só será efectiva após o dia da eleição.
+
+###### Artigo 49.º — (Liberdade de reunião)
+
+A liberdade de reunião para fins eleitorais e no período da campanha eleitoral rege-se pelo disposto na lei geral sobre o direito de reunião, com as seguintes especialidades:
+
+a) O aviso a que se refere o n.º 2 do artigo 2.º do Decreto-Lei n.º 406/74, de 29 de Agosto, deverá ser feito pelo candidato quando se trate de reuniões, comícios, manifestações ou desfiles em lugares públicos ou abertos ao público e a realizar por esse candidato;
+
+b) Os cortejos e desfiles poderão ter lugar em qualquer dia e qualquer hora, respeitando-se apenas os limites impostos pela manutenção da ordem pública, da liberdade de trânsito e de trabalho e ainda os decorrentes do período de descanso dos cidadãos;
+
+c) O auto a que alude o n.º 2 do artigo 5.º do Decreto-Lei n.º 406/74, de 29 de Agosto, deverá ser enviado, por cópia, ao presidente da Comissão Nacional das Eleições e ao candidato interessado;
+
+d) A ordem de alteração dos trajectos ou desfiles será dada pela autoridade competente e por escrito ao candidato interessado e comunicada à Comissão Nacional das Eleições;
+
+e) A utilização dos lugares públicos a que se refere o artigo 9.º do Decreto-Lei n.º 406/74, de 29 de Agosto, deverá ser repartida igualmente pelos concorrentes;
+
+f) A presença de agentes de autoridade a reuniões organizadas por qualquer candidatura apenas poderá ser solicitada pelo órgão competente da candidatura que as organizar, ficando esses órgãos responsáveis pela manutenção da ordem quando não façam tal solicitação;
+
+g) O limite a que alude o artigo 11.º do Decreto-Lei n.º 406/74, de 29 de Agosto, será alargado até às 2 horas da madrugada durante a campanha eleitoral.
+
+h) O recurso previsto no n.º 1 do artigo 14.º do Decreto-Lei n.º 406/74, de 29 de Agosto, é interposto no prazo de quarenta e oito horas para o Tribunal Constitucional.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 50.º — (Proibição de divulgação de sondagens)
+
+Desde o início da campanha eleitoral e até ao dia imediato ao da eleição é proibida a divulgação dos resultados de sondagens ou inquéritos relativos à atitude dos eleitores perante os concorrentes à eleição.
+
+> Revogado pelo/a Artigo 16.º do/a [Lei n.º 31/91 - Diário da República n.º 165/1991, Série I-A de 1991-07-20](https://diariodarepublica.pt/dr/detalhe/lei/31-1991-662558), em vigor a partir de 1991-07-25
+
+### Capítulo II — Propaganda eleitoral
+
+###### Artigo 51.º — (Propaganda eleitoral)
+
+Entende-se por propaganda eleitoral toda a actividade que vise directamente promover candidaturas, seja actividade dos candidatos, dos subscritores das candidaturas ou de partidos políticos que apoiem as diversas candidaturas, nos termos do n.º 2 do artigo 45.º, bem como a publicação de textos ou imagens que exprimam ou reproduzam o conteúdo dessa actividade.
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 52.º — (Direito de antena)
+
+1 - Os candidatos ou representantes por si designados têm direito de acesso, para propaganda eleitoral, às estações de rádio e de televisão, públicas e privadas.
+
+2 - Durante o período da campanha eleitoral, as estações de rádio e de televisão reservam às candidaturas os seguintes tempos de antena:
+
+a) A Radiotelevisão Portuguesa, S. A., em todos os seus canais, incluindo o internacional, e as estações privadas de televisão:
+
+De segunda-feira a sexta-feira - quinze minutos, entre as 19 e as 22 horas;
+
+Aos sábados e domingos - trinta minutos, entre as 19 e as 22 horas;
+
+b) A Radiodifusão Portuguesa, S. A., em onda média e frequência modulada, ligada a todos os emissores regionais e na emissão internacional:
+
+Sessenta minutos diários, dos quais vinte minutos entre as 7 e as 12 horas, vinte minutos entre as 12 e as 19 horas e vinte minutos entre as 19 e as 24 horas.
+
+c) As estações privadas de radiodifusão de âmbito nacional, em onda média e frequência modulada, ligadas a todos os emissores, quando tiverem mais de um:
+
+Sessenta minutos diários, dos quais vinte minutos entre as 7 e as 12 horas e quarenta minutos entre as 19 e as 24 horas;
+
+d) As estações privadas de radiodifusão de âmbito regional:
+
+Trinta minutos diários, divididos em dois blocos iguais, de quinze minutos seguidos, um entre as 7 e as 12 horas e outro entre as 19 e as 24 horas;
+
+e) As estações privadas de radiodifusão de âmbito local:
+
+Trinta minutos diários, divididos em dois blocos iguais, de quinze minutos seguidos, um entre as 7 e as 12 horas e outro entre as 19 e as 24 horas.
+
+3 - Os tempos de emissão referidos no número anterior são reduzidos a dois terços no decurso da campanha para o segundo sufrágio.
+
+4 - Até 10 dias antes da abertura da campanha, as estações referidas no n.º 2 devem indicar à Comissão Nacional de Eleições o horário previsto para as emissões, quer para o primeiro, quer para o segundo sufrágio.
+
+5 - As estações de rádio e televisão registam e arquivam, pelo prazo de um ano, o registo das emissões correspondentes ao exercício do direito de antena.
+
+6 - Para efeitos do disposto na alínea e) do n.º 2, entende-se por radiodifusão de âmbito local o conjunto de operadores radiofónicos com serviços de programas generalistas e temáticos informativos, de âmbito local.
+
+> Nota: [Decreto-Lei n.º 472-A/76 - Diário da República n.º 139/1976, 1º Suplemento, Série I de 1976-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-a-1976-617157) O Decreto-Lei n.º 472-A/76, de 15 de Junho, tornou o Decreto-Lei n.º 319-A/76, de 3 de Maio, extensivo ao território de Macau, determinando que seria, para o efeito, considerado abrangido no território eleitoral. Em relação aos actos eleitorais, as referências feitas no Decreto-Lei n.º 319-A/76 a Diário da República, distrito, governador civil, junta de freguesia, corregedor do círculo judicial, chefe de secretaria judicial, Ministério da Comunicação Social e Ministro da Educação e da Investigação Científica, considerar-se-iam feitas a Boletim Oficial, território, governador, câmara municipal, juiz e direito da comarca, escrivão de direito, Centro de Informação e Turismo e Secretário Adjunto para a Educação. Na aplicação a Macau, o artigo presente a seguinte redacção: Art. 52.º Os candidatos e os representantes por si designados terão direito de acesso, para propaganda eleitoral, à emissora oficial de radiodifusão.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 2/2026 - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2026-1151256045), em vigor a partir de 2026-07-24.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 35/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/35-1995-434623), em vigor a partir de 1995-08-23
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 445-A/76 - Diário da República n.º 131/1976, 1º Suplemento, Série I de 1976-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-a-1976-425093), em vigor a partir de 1976-06-05
+
+###### Artigo 53.º — (Distribuição dos tempos reservados)
+
+1 - Os tempos de emissão referidos no n.º 2 do artigo anterior são atribuídos em condições de igualdade às diversas candidaturas.
+
+2 - A Comissão Nacional de Eleições organiza, de acordo com o critério referido no número anterior, tantas séries de emissões quantas as candidaturas com direito a elas, procedendo-se a sorteio, até três dias antes da abertura da campanha eleitoral.
+
+3 - Na organização e repartição das séries de emissões deverá ficar prevista a inclusão de serviços externos.
+
+4 - Para os sorteios previstos no presente artigo são convocados os representantes das candidaturas.
+
+5 - No último dia da campanha todos os candidatos terão acesso às estações oficiais da Radiodifusão Portuguesa e à Radiotelevisão Portuguesa entre as 21 e as 24 horas para uma intervenção de dez minutos do próprio candidato, sendo a ordem de emissão sorteada em especial para este caso.
+
+> Nota: [Decreto-Lei n.º 472-A/76 - Diário da República n.º 139/1976, 1º Suplemento, Série I de 1976-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-a-1976-617157) O Decreto-Lei n.º 472-A/76, de 15 de Junho, tornou o Decreto-Lei n.º 319-A/76, de 3 de Maio, extensivo ao território de Macau, determinando que seria, para o efeito, considerado abrangido no território eleitoral. Em relação aos actos eleitorais, as referências feitas no Decreto-Lei n.º 319-A/76 a Diário da República, distrito, governador civil, junta de freguesia, corregedor do círculo judicial, chefe de secretaria judicial, Ministério da Comunicação Social e Ministro da Educação e da Investigação Científica, considerar-se-iam feitas a Boletim Oficial, território, governador, câmara municipal, juiz de direito da comarca, escrivão de direito, Centro de Informação e Turismo e Secretário Adjunto para a Educação. Na aplicação a Macau, o presente artigo teria a seguinte redacção: Art. 53.º 1. A distribuição do tempo de antena será regulamentada pelo Governo do território, de modo a assegurar a igualdade de condições às diversas candidaturas. 2. Para o efeito referido no número anterior, a Comissão Nacional das Eleições remeterá oportunamente ao Governador do território indicação dos candidatos admitidos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 2/2026 - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2026-1151256045), em vigor a partir de 2026-07-24.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 35/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/35-1995-434623), em vigor a partir de 1995-08-23
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 445-A/76 - Diário da República n.º 131/1976, 1º Suplemento, Série I de 1976-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-a-1976-425093), em vigor a partir de 1976-06-05
+
+###### Artigo 54.º — (Publicações de carácter jornalístico)
+
+1 - As publicações noticiosas, diárias ou não diárias de periodicidade inferior a 15 dias, que pretendem inserir matéria respeitante à campanha eleitoral devem comunicá-lo à Comissão Nacional de Eleições até 3 dias antes da abertura da campanha eleitoral.
+
+2 - As publicações referidas no n.º 1 deverão dar um tratamento jornalístico não discriminatório às diversas candidaturas, nos termos do Decreto-Lei n.º 85-D/75, de 26 de Fevereiro.
+
+3 - As disposições do n.º 1 não se aplicam à imprensa estatizada, a qual deverá sempre inserir matéria respeitante à campanha eleitoral e cumprir, para efeito de igualdade de tratamento, o preceituado no decreto-lei referido no número anterior.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 72-A/2015 - Diário da República n.º 142/2015, 1º Suplemento, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/lei/72-a-2015-69866640), em vigor a partir de 2015-07-24
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 445-A/76 - Diário da República n.º 131/1976, 1º Suplemento, Série I de 1976-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-a-1976-425093), em vigor a partir de 1976-06-05
+
+###### Artigo 55.º — (Salas de espectáculos)
+
+1 - Os proprietários de salas de espectáculos ou de outros recintos de normal utilização pública que reúnam condições para serem utilizados na campanha eleitoral devem declará-lo ao respectivo presidente da câmara municipal até 10 dias antes da abertura da campanha, indicando as datas e as horas em que as salas ou recintos podem ser utilizados para aquele fim. Na falta de declaração ou em caso de comprovada carência, o presidente da câmara municipal pode requisitar as salas e os recintos que considere necessários à campanha eleitoral, sem prejuízo da actividade normal e programada para os mesmos.
+
+2. O tempo destinado à propaganda eleitoral, nos termos do número anterior, será repartido igualmente pelas candidaturas que o desejem.
+
+3 - Até 48 horas depois da abertura da campanha, o presidente da câmara municipal, ouvidos os mandatários das candidaturas, indica os dias e as horas atribuídos a cada uma de modo a assegurar a igualdade entre todas.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+###### Artigo 56.º — (Propaganda fixa)
+
+1. As juntas de freguesia deverão estabelecer, até setenta e duas horas antes do início da campanha eleitoral, espaços especiais, em local certo, destinados à afixação de cartazes, fotografias, jornais murais, manifestos e avisos.
+
+2. Os espaços reservados nos locais previstos nos números anteriores serão tantos quantas a candidaturas.
+
+###### Artigo 57.º — (Utilização em comum ou troca)
+
+As diversas candidaturas poderão acordar na utilização comum ou na troca entre si de tempo de emissão ou espaço de publicidade que lhes pertençam ou das salas de espectáculos cujo uso lhes seja atribuído.
+
+###### Artigo 58.º — (Limites à publicação da propaganda eleitoral)
+
+As publicações referidas no n.º 1 do artigo 54.º, que não tenham feito a comunicação ali prevista, não podem inserir propaganda eleitoral, mas apenas a matéria que eventualmente lhes seja enviada pela Comissão Nacional de Eleições.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 59.º — (Edifícios públicos)
+
+Os presidentes das câmaras municipais procuram assegurar a cedência do uso para os fins da campanha eleitoral de edifícios públicos e recintos pertencentes ao Estado e outras pessoas colectivas de direito público, repartindo com igualdade a sua utilização pelos concorrentes.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+###### Artigo 60.º — (Custo da utilização)
+
+1 - Será gratuita a utilização, nos termos consignados nos artigos precedentes, das emissões das estações públicas e privadas de rádio e de televisão, das publicações de carácter jornalístico e dos edifícios ou recintos públicos.
+
+2 - O Estado, através da administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, compensa as estações de rádio regionais e nacionais e de televisão pela utilização, devidamente comprovada, correspondente às emissões previstas nas alíneas a) a d) do n.º 2 do artigo 52.º, mediante o pagamento de quantia constante de tabelas a homologar pelo membro do Governo responsável pela área da comunicação social até ao sexto dia anterior à abertura da campanha eleitoral.
+
+3 - As tabelas referidas no número anterior são fixadas por uma comissão arbitral composta por um representante da administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, um representante da Inspeção-Geral de Finanças e um representante de cada estação de rádio ou de televisão, consoante o caso.
+
+4 - A compensação das estações de radiodifusão de âmbito local pela utilização, devidamente comprovada, correspondente às emissões previstas na alínea e) do n.º 2 do artigo 52.º, realiza-se nos termos do artigo 61.º da <a href="https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2001-524039"><u>Lei Orgânica n.º 1/2001</u></a>, de 14 de agosto.
+
+5 - Os proprietários das salas de espectáculos ou os que as explorem, quando fizerem a declaração prevista no n.º 1 do artigo 55.º ou quando tenha havido a requisição prevista no mesmo número, devem indicar o preço a cobrar pela sua utilização, o qual não poderá ser superior ao correspondente a um quarto da lotação da respectiva sala num espectáculo normal.
+
+6 - O preço referido no número anterior e demais condições de utilização são uniformes para todas as candidaturas.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 2/2026 - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2026-1151256045), em vigor a partir de 2026-07-24.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 35/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/35-1995-434623), em vigor a partir de 1995-08-23
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 61.º — (Órgãos dos partidos políticos)
+
+O preceituado nos artigos anteriores não é aplicável às publicações de carácter jornalístico que sejam propriedade de partidos políticos, o que deverá expressamente constar do respectivo cabeçalho.
+
+###### Artigo 62.º — (Esclarecimento cívico)
+
+Sem prejuízo do disposto nos preceitos anteriores, a Comissão Nacional das Eleições promoverá na Radiotelevisão Portuguesa, na Radiodifusão Portuguesa e na imprensa programas destinados ao esclarecimento objectivo dos cidadãos sobre o significado das eleições para a vida do País, sobre o processo eleitoral e sobre o modo de cada eleitor votar.
+
+###### Artigo 63.º — (Publicidade comercial)
+
+A partir da publicação do decreto que marque a data da eleição é proibida a propaganda política feita directa ou indirectamente através dos meios de publicidade comercial.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 72-A/2015 - Diário da República n.º 142/2015, 1º Suplemento, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/lei/72-a-2015-69866640), em vigor a partir de 2015-07-24
+
+###### Artigo 64.º — (Instalação do telefone)
+
+1. As candidaturas terão direito à instalação de um telefone em cada sede de distrito.
+
+2. A instalação prevista no número anterior poderá ser requerida a partir da publicação do decreto que marque a data da eleição e deverá ser efectuada no prazo de oito dias, a contar do requerimento.
+
+###### Artigo 65.º — (Arrendamento)
+
+1. A partir da data da publicação do decreto a marcar o dia da eleição e até vinte dias após o acto eleitoral, os arrendatários de prédios urbanos poderão, por qualquer meio, incluindo a sublocação por valor não excedente ao da renda, destiná-los à preparação e realização da campanha eleitoral, seja qual for o fim do arrendamento e sem embargo de disposição em contrário do respectivo contrato.
+
+2. Os arrendatários, candidatos e subscritores das respectivas candidaturas serão solidariamente responsáveis por todos os prejuízos causados pela utilização prevista no número anterior.
+
+### Capítulo III — Finanças eleitorais
+
+> Revogado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, 1º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-12-01
+
+###### Artigo 66.º — (Contabilização das receitas e despesas)
+
+1. Cada candidatura deverá proceder à contabilização discriminada de todas as receitas e despesas efectuadas com a apresentação das candidaturas e com a campanha eleitoral, com a indicação precisa da origem daquelas e o destino destas.
+
+2. Todas as despesas de candidaturas e campanha eleitoral serão suportadas pelos respectivos candidatos, desde que por eles autorizadas, ou pelos seus mandatários ou representantes.
+
+> Revogado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, 1º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-12-01
+
+###### Artigo 67.º — (Contribuições de valor pecuniário)
+
+Candidatos e mandatários não podem aceitar quaisquer contribuições de valor pecuniário destinadas à campanha eleitoral provenientes directa ou indirectamente de pessoas singulares ou colectivas nacionais ou não nacionais, excepto as efectuadas pelos subscritores e partidos políticos que apoiem a respectiva candidatura.
+
+> Revogado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, 1º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-12-01
+
+###### Artigo 68.º — (Limite de despesas)
+
+1 - Cada candidato não pode gastar com a respectiva candidatura e campanha eleitoral mais do que a importância global correspondente a 25 milhões de escudos, actualizável de acordo com a taxa de inflação anual medida pelo índice de preços no consumidor apurado pelo Instituto Nacional de Estatística.
+
+2 - Em caso de segundo sufrágio, o limite de despesas previsto no número anterior será acrescido de metade.
+
+> Revogado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, 1º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 69.º — (Fiscalização das contas)
+
+1. No prazo máximo de trinta dias, a partir do acto eleitoral, cada candidato deverá prestar contas discriminadas da sua campanha eleitoral à Comissão Nacional das Eleições e fazê-las publicar em três dos jornais diários mais lidos do País.
+
+2. A Comissão Nacional das Eleições deverá apreciar, no prazo de trinta dias, a regularidade das receitas e despesas e fazer publicar a sua apreciação num dos jornais diários mais lidos do País.
+
+3. Se a Comissão Nacional das Eleições verificar qualquer irregularidade nas contas, deverá notificar o candidato para apresentar, no prazo de quinze dias, novas contas regularizadas. Sobre as novas contas deverá a Comissão Nacional pronunciar-se no prazo de quinze dias.
+
+4. Se o candidato não prestar contas no prazo fixado no n.º 1 deste artigo, não apresentar novas contas regularizadas, nos termos e no prazo do n.º 3 deste artigo, ou se a Comissão Nacional das Eleições concluir que houve infracção ao disposto nos artigos 66.º e 68.º, deverá fazer a respectiva participação criminal.
+
+> Revogado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, 1º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-12-01
+
+## Título V — Eleição
+
+### Capítulo I — Sufrágio
+
+#### Secção I — Exercício de direito de sufrágio
+
+###### Artigo 70.º — Presencialidade e pessoalidade do voto
+
+1 - O direito de voto é exercido presencialmente.
+
+2 - O direito de voto é exercido directamente pelo cidadão eleitor.
+
+3 - Não é admitida nenhuma forma de representação ou delegação no exercício do direito de sufrágio, sem prejuízo do disposto no artigo 74.º
+
+> Nota: [Resolução n.º 83/81 - Diário da República n.º 94/1981, Série I de 1981-04-23](https://diariodarepublica.pt/dr/detalhe/resolucao/83-1981-394752) Declarada, com força obrigatória geral, a inconstitucionalidade material das normas constantes dos n.os 2 a 8 do artigo 70.º do Decreto-Lei 319-A/76, de 03 de maio (com a redacção do artigo 1.º do Decreto-Lei n.º 456-A/76, de 8 de junho).
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 456-A/76 - Diário da República n.º 134/1976, 2º Suplemento, Série I de 1976-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-a-1976-629458), em vigor a partir de 1976-06-09
+
+###### Artigo 70.º-A — Voto antecipado em mobilidade
+
+Podem votar antecipadamente em mobilidade todos os eleitores recenseados no território nacional que nele pretendam exercer o seu direito de voto.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2001 - Diário da República n.º 197/2001, Série I-A de 2001-08-25](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2001-515638), em vigor a partir de 2001-08-30
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 70.º-B — Voto antecipado
+
+1 - Podem votar antecipadamente os eleitores que:
+
+a) Por motivo de doença se encontrem internados ou previsivelmente venham a estar internados em estabelecimento hospitalar;
+
+b) Se encontrem presos.
+
+2 - Podem ainda votar antecipadamente os eleitores recenseados no território nacional:
+
+a) Quando deslocados no estrangeiro, por inerência do exercício de funções públicas;
+
+b) Quando deslocados no estrangeiro, por inerência do exercício de funções privadas;
+
+c) Quando deslocados no estrangeiro em representação oficial de seleção nacional, organizada por federação desportiva dotada de estatuto de utilidade pública desportiva;
+
+d) Enquanto estudantes, investigadores, docentes e bolseiros de investigação deslocados no estrangeiro em instituições de ensino superior, unidades de investigação ou equiparadas reconhecidas pelo ministério competente;
+
+e) Doentes em tratamento no estrangeiro;
+
+f) Que vivam ou que acompanhem os eleitores mencionados nas alíneas anteriores.
+
+3 - Só são considerados os votos antecipados recebidos nas mesas das assembleias e secções de voto respetivas até ao dia e hora previstos no n.º 1 do artigo 32.º
+
+4 - As candidaturas concorrentes à eleição podem nomear, nos termos gerais, delegados para fiscalizar as operações de voto antecipado, os quais gozam de todas as imunidades e direitos previstos nos artigos 40.º-A e 41.º-A.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+> Nota: [Artigo 3.º, Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465) A Lei n.º 11/95, de 22 de abril, aprovou em anexo, o Modelo de recibo comprovativo do exercício antecipado do direito de voto (ver infra) previsto no n.º 7 do presente artigo. Recibo comprovativo do voto antecipado Para efeitos da Lei Eleitoral para o Presidente da República se declara que ... (nome do cidadão eleitor), residente em ..., portador do bilhete de identidade n.º ..., de ... de ... de ..., inscrito na assembleia de voto (ou secção de voto) de ..., com o n.º ..., exerceu antecipadamente o seu direito de voto no dia ... de ... de ... O Presidente da Câmara Municipal de ... ... (assinatura).
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 2/2001 - Diário da República n.º 197/2001, Série I-A de 2001-08-25](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2001-515638), em vigor a partir de 2001-08-30
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 70.º-C — Modo de exercício do direito de voto antecipado em mobilidade em território nacional
+
+1 - Os eleitores referidos no artigo 70.º-A exercem o seu direito de sufrágio numa mesa de voto em mobilidade constituída para o efeito, nos termos do artigo 35.º-A.
+
+2 - Os eleitores que pretendam votar antecipadamente em mobilidade devem manifestar essa intenção, por via postal ou por meio eletrónico disponibilizado para esse efeito pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, entre o décimo quarto e o décimo dias anteriores ao da eleição.
+
+3 - Da manifestação de intenção de votar antecipadamente deve constar a seguinte informação:
+
+a) Nome completo do eleitor;
+
+b) Data de nascimento;
+
+c) Número de identificação civil;
+
+d) Morada;
+
+e) Município onde pretende exercer o direito de voto antecipado em mobilidade;
+
+f) Contacto telefónico e, sempre que possível, endereço de correio eletrónico.
+
+4 - Caso seja detetada alguma desconformidade nos dados fornecidos, o eleitor será contactado pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, no prazo de 24 horas, por meio eletrónico ou via postal, com vista ao seu esclarecimento.
+
+5 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna comunica aos presidentes das câmaras municipais a relação nominal dos eleitores que optaram por essa modalidade de votação na sua área de circunscrição.
+
+6 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, através das forças de segurança, providencia pelo envio dos boletins de voto aos presidentes das câmaras dos municípios indicados pelos eleitores nos termos do n.º 3.
+
+7 - Para exercer o direito de voto, o eleitor dirige-se ao município por si escolhido e à mesa por onde deva votar, quando tenha havido lugar a desdobramento, no sétimo dia anterior ao da eleição e identifica-se mediante apresentação do seu documento de identificação civil, indicando a sua freguesia de inscrição no recenseamento.
+
+8 - O presidente da mesa entrega ao eleitor o boletim de voto e dois sobrescritos, um de cor branca e outro de cor azul.
+
+9 - O sobrescrito de cor branca destina-se a receber o boletim de voto e o de cor azul a conter o sobrescrito anterior, devendo conter espaços destinados ao preenchimento do nome, número do documento de identificação civil, concelho, freguesia e posto de inscrição no recenseamento eleitoral.
+
+10 - O eleitor preenche o boletim em condições que garantam o segredo de voto, dobra-o em quatro, introduzindo-o no sobrescrito de cor branca, que fecha adequadamente.
+
+11 - Em seguida, o sobrescrito de cor branca é introduzido no sobrescrito de cor azul, que é então fechado, preenchido de forma legível e selado com uma vinheta de segurança, em modelo aprovado por despacho do Secretário-Geral do Ministério da Administração Interna.
+
+12 - O presidente da mesa entrega ao eleitor o duplicado da vinheta aposta no sobrescrito de cor azul, o qual serve de comprovativo do exercício do direito de voto.
+
+13 - Terminadas as operações de votação, a mesa elabora uma ata das operações efetuadas destinada à assembleia de apuramento distrital, remetendo-a para esse efeito ao presidente da respetiva câmara municipal.
+
+14 - Da ata referida no número anterior consta, obrigatoriamente, o número de eleitores que aí exerceram o direito de voto antecipado, nela se mencionando expressamente o nome do eleitor, o número do documento de identificação civil e a freguesia onde se encontra recenseado, anexando a relação nominal dos eleitores inscritos para votar naquela mesa, bem como quaisquer ocorrências que dela devam constar nos termos gerais.
+
+15 - No dia seguinte ao do voto antecipado, as forças de segurança procedem à recolha do material eleitoral das mesas de voto em mobilidade, em todo o território nacional, para entrega aos presidentes das câmaras municipais, que providenciam pela sua remessa às juntas de freguesia onde os eleitores se encontram inscritos.
+
+16 - A junta de freguesia destinatária dos votos recebidos remete-os ao presidente da mesa da assembleia de voto até ao dia e hora previstos no artigo 32.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 4/2020 - Diário da República n.º 220/2020, Série I de 2020-11-11](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2020-148214576), em vigor a partir de 2020-11-12
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 70.º-D — Modo de exercício do direito de voto antecipado por doentes internados e por presos
+
+1 - Os eleitores que se encontrem nas condições previstas no n.º 1 do artigo 70.º-B podem requerer, por meios eletrónicos ou por via postal, à administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, até ao vigésimo dia anterior ao da eleição, o exercício do direito de voto antecipado, indicando o número do seu documento de identificação civil e juntando documento comprovativo do impedimento invocado, passado pelo médico assistente e confirmado pela direção do estabelecimento hospitalar, ou documento emitido pelo diretor do estabelecimento prisional, conforme os casos.
+
+2 - Até ao décimo sétimo dia anterior ao da eleição, a administração eleitoral da Secretaria-Geral do Ministério da Administração Interna envia ao presidente da câmara do município onde se encontrem eleitores nas condições definidas no n.º 1, por correio registado com aviso de receção, a relação nominal dos eleitores e locais abrangidos e correspondente número de boletins de voto, sobrescritos brancos e azuis.
+
+3 - O presidente da câmara do município onde se situe o estabelecimento hospitalar ou prisional em que o eleitor se encontre internado ou preso notifica, até ao décimo sexto dia anterior ao da eleição, as candidaturas concorrentes à eleição para cumprimento dos fins previstos no n.º 4 do artigo 70.º-B, dando conhecimento de quais os estabelecimentos onde se realiza o voto antecipado.
+
+4 - A nomeação de delegados das candidaturas deve ser transmitida ao presidente da câmara municipal até ao décimo quarto dia anterior ao da eleição.
+
+5 - Entre o décimo terceiro e o décimo dias anteriores ao da eleição, o presidente da câmara, em dia e hora previamente anunciados ao respetivo diretor e aos delegados das listas, desloca-se aos estabelecimentos onde se encontrem eleitores nas condições mencionadas no n.º 1, a fim de ser dado cumprimento, com as necessárias adaptações, ditadas pelos constrangimentos dos regimes hospitalares ou prisionais, ao disposto nos n.os 8 a 15 do artigo anterior.
+
+6 - O presidente da câmara pode excecionalmente fazer-se substituir, para o efeito da diligência prevista no número anterior, por qualquer vereador do município devidamente credenciado.
+
+7 - Os estabelecimentos hospitalares e prisionais onde se encontrem eleitores abrangidos pelo disposto no n.º 1 devem garantir as condições necessárias ao exercício do direito de voto antecipado.
+
+8 - As diligências previstas nos números anteriores são válidas para o segundo sufrágio.
+
+9 - No caso de realização do segundo sufrágio, o disposto no n.º 2 efetua-se até ao sétimo dia anterior ao da eleição.
+
+10 - O disposto no n.º 5 efetua-se entre o sexto e o quinto dias anteriores ao do segundo sufrágio.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+> Aditado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+###### Artigo 70.º-E — Modo de exercício do direito de voto antecipado por eleitores deslocados no estrangeiro
+
+1 - Os eleitores que se encontrem nas condições previstas no n.º 2 do artigo 70.º-B podem exercer o direito de sufrágio entre o décimo segundo e o décimo dias anteriores ao da eleição, junto das representações diplomáticas, consulares ou nas delegações externas das instituições públicas portuguesas previamente definidas pelo Ministério dos Negócios Estrangeiros, nos termos estabelecidos nos n.os 7 a 14 do artigo 70.º-C.
+
+2 - As funções previstas nos n.os 8 a 13 do artigo 70.º-C são asseguradas por funcionário diplomático designado para o efeito, a quem cabe remeter a correspondência eleitoral pela via mais expedita à junta de freguesia respetiva.
+
+3 - No caso dos eleitores referidos na alínea a) do n.º 2 do artigo 70.º-B, se o Ministério dos Negócios Estrangeiros reconhecer a impossibilidade da sua deslocação aos locais referidos no n.º 1, designa um funcionário diplomático, que procede à recolha da correspondência eleitoral, no período acima referido.
+
+4 - As operações eleitorais previstas nos números anteriores podem ser fiscalizadas pelas candidaturas que nomeiam delegados até ao décimo sexto dia anterior ao da eleição.
+
+5 - No caso de realização de segundo sufrágio, as operações referidas nos números anteriores realizam-se entre o décimo segundo e o décimo dias anteriores ao da eleição, utilizando-se, se necessário, os boletins do primeiro sufrágio.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Aditado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+###### Artigo 71.º — (Unicidade de voto)
+
+A cada eleitor só é permitido votar uma vez.
+
+###### Artigo 72.º — (Direito e dever de votar)
+
+1. O sufrágio constitui um direito e um dever cívico.
+
+2. Salvo motivo justificado, o não exercício de direito de voto determina inelegibilidade para os órgãos de soberania, bem como para os corpos administrativos, por período de tempo igual ao da duração do mandato do Presidente da República.
+
+3. Compete ao juiz de direito da comarca respectiva declarar justificado o não exercício de direito de voto se tal lhe for requerido pelo interessado no prazo de sessenta dias após a eleição.
+
+> Nota: [Resolução n.º 83/81 - Diário da República n.º 94/1981, Série I de 1981-04-23](https://diariodarepublica.pt/dr/detalhe/resolucao/83-1981-394752) Declarada, com força obrigatória geral, a inconstitucionalidade material das normas constantes dos n.os 2 e 3 do artigo 72.º do Decreto-Lei 319-A/76, de 03 de maio (com a redacção do artigo 1.º do Decreto-Lei n.º 456-A/76, de 8 de junho).
+
+###### Artigo 73.º — (Segredo do voto)
+
+1. Ninguém pode ser, sob qualquer pretexto, obrigado a revelar o seu voto.
+
+2. Dentro da assembleia de voto e fora dela, até à distância de 500 m, ninguém poderá revelar em que candidato vai votar ou votou.
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 151/1976, 1º Suplemento, Série I de 1976-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-232740)
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 74.º — Voto dos deficientes
+
+1 - O eleitor afectado por doença ou deficiência física notórias, que a mesa verifique não poder praticar os actos descritos no artigo 87.º, vota acompanhado de outro eleitor por si escolhido, que garanta a fidelidade de expressão do seu voto e que fica obrigado a sigilo absoluto.
+
+2 - Se a mesa deliberar que não se verifica a notoriedade da doença ou deficiência física, exige que lhe seja apresentado no acto de votação atestado comprovativo da impossibilidade da prática dos actos referidos no número anterior emitido pelo médico que exerça poderes de autoridade sanitária na área do município e autenticado com o selo do respectivo serviço.
+
+3 - Para os efeitos do número anterior, devem os centros de saúde manter-se abertos no dia da eleição, durante o período de funcionamento das assembleias eleitorais.
+
+4 - Sem prejuízo da decisão da mesa sobre a admissibilidade do voto, qualquer dos respectivos membros ou dos delegados das candidaturas pode lavrar protesto.
+
+5 - Os eleitores portadores de deficiência visual podem, se assim o entenderem, requerer à mesa a disponibilização de matriz em braille que lhes permita, sozinhos, praticar os atos descritos no artigo 87.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 55/88 - Diário da República n.º 47/1988, Série I de 1988-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1988-286732), em vigor a partir de 1988-03-02
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 75.º — (Requisitos do exercício do direito de voto)
+
+Para que o eleitor seja admitido a votar deverá estar inscrito no caderno eleitoral e ser reconhecida pela mesa a sua identidade.
+
+###### Artigo 76.º — (Local do exercício do sufrágio)
+
+1 - O direito de voto é exercido apenas na assembleia eleitoral correspondente ao local por onde o eleitor esteja recenseado, salvo o disposto quanto ao modo de exercício do voto antecipado.
+
+2 - Os eleitores podem obter informação sobre o local onde exercer o seu direito de voto na sua junta de freguesia, aberta para esse efeito no dia da eleição, para além de outras formas de acesso à referida informação disponibilizadas pela administração eleitoral da Secretaria-Geral do Ministério da Administração Interna.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2010-306947), em vigor a partir de 2010-12-20
+
+#### Secção II — Votação
+
+###### Artigo 77.º — (Abertura da votação)
+
+1. Constituída a mesa, o presidente declarará iniciadas as operações eleitorais, mandará afixar o edital a que se refere o artigo 39.º, n.º 2, procederá com os restantes membros da mesa e os delegados das candidaturas à revista da câmara de voto e dos documentos de trabalho da mesa e exibirá a urna perante os eleitores para que todos se possam certificar de que se encontra vazia.
+
+2. Não havendo nenhuma irregularidade, imediatamente votarão o presidente, os vogais e os delegados das candidaturas.
+
+###### Artigo 77.º-A — Procedimento da mesa em relação aos votos antecipados
+
+1 - Após terem votado os elementos da mesa, e no caso de existirem votos antecipados, o presidente procederá à sua abertura e lançamento na urna, de acordo com o disposto nos números seguintes.
+
+2 - O presidente entrega os sobrescritos azuis aos escrutinadores para verificarem se o eleitor se encontra devidamente inscrito.
+
+3 - Feita a descarga no caderno de recenseamento, o presidente abre o sobrescrito branco e introduz o boletim de voto na urna.
+
+4 - Os eleitores inscritos para o voto antecipado em mobilidade, que não o tenham exercido, podem fazê-lo no dia da eleição na assembleia de voto onde se encontrem recenseados.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 78.º — (Ordem de votação)
+
+Os eleitores votarão pela ordem de chegada à assembleia de voto, dispondo-se para o efeito em fila.
+
+###### Artigo 79.º — (Continuidade das operações eleitorais)
+
+A assembleia eleitoral funcionará ininterruptamente até serem concluídas todas as alterações de votação e apuramento.
+
+###### Artigo 80.º — (Encerramento da votação)
+
+1. A admissão de eleitores na assembleia de voto far-se-á até às 19 horas. Depois desta hora apenas poderão votar os eleitores presentes.
+
+2. O presidente declarará encerrada a votação logo que tiverem votado todos os eleitores inscritos ou, depois das 19 horas, logo que tiverem votado todos os eleitores presentes na assembleia de voto.
+
+###### Artigo 81.º — (Não realização da votação em qualquer assembleia de voto)
+
+1 - Não pode realizar-se a votação em qualquer assembleia de voto se a mesa não se puder constituir, se ocorrer qualquer tumulto que determine a interrupção das operações eleitorais por mais de três horas ou se na freguesia se registar alguma calamidade no dia marcado para as eleições ou nos três dias anteriores.
+
+2 - No caso de não realização da votação por a mesa não se ter podido constituir ou por qualquer tumulto ou grave perturbação da ordem pública, realizar-se-á nova votação no segundo dia posterior ao da primeira, tratando-se de primeiro sufrágio.
+
+3 - Ocorrendo alguma calamidade no primeiro sufrágio ou em qualquer das circunstâncias impeditivas da votação, tratando-se de segundo sufrágio, será a eleição efectuada no sétimo dia posterior.
+
+4 - Nos casos referidos nos números anteriores, consideram-se sem efeito quaisquer actos que eventualmente tenham sido praticados na assembleia de voto.
+
+5 - O reconhecimento da impossibilidade de a eleição se efectuar e o seu adiamento competem ao presidente da câmara municipal ou, nas Regiões Autónomas, ao Representante da República.
+
+6 - No caso de nova votação, nos termos dos n.os 2 e 3 não se aplica o disposto na parte final do n.º 3 do artigo 35.º e no artigo 85.º e os membros das mesas podem ser nomeados pelo presidente da câmara municipal ou, nas Regiões Autónomas, pelo Representante da República.
+
+7 - Se tiver revelado impossível a repetição da votação prevista nos n.os 2 e 3 por quaisquer das causas previstas no n.º 1, proceder-se-á à realização do apuramento definitivo sem ter em conta a votação em falta.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+> Rectificado pelo/a [Declaração - Diário da República n.º 289/1985, Série I de 1985-12-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-171090), em vigor a partir de 1985-11-27
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 82.º — (Polícia da assembleia de voto)
+
+1. Compete ao presidente da mesa, coadjuvado pelos vogais desta, assegurar a liberdade dos eleitores, manter a ordem e, em geral, regular a polícia na assembleia, adoptando para esse efeito as providências necessárias.
+
+2 - Não é admitida na assembleia de voto a presença de pessoas manifestamente embriagadas ou drogadas ou que sejam portadoras de qualquer arma ou instrumento susceptível de como tal ser usado.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 83.º — (Proibição de propaganda nas assembleias de voto)
+
+1 - É proibida qualquer propaganda dentro das assembleias de voto e fora delas até à distância de 500 m.
+
+2 - Por propaganda entende-se também a exibição de símbolos, siglas, sinais, distintivos ou autocolantes de quaisquer candidaturas, partidos ou coligações.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 84.º — (Proibição da presença de não eleitores)
+
+1. O presidente da assembleia eleitoral deverá mandar sair do local onde ela estiver reunida os cidadãos que aí não possam votar, salvo se se tratar de candidatos, seus mandatários e representantes distritais ou delegados das candidaturas.
+
+2. Exceptuam-se deste princípio os agentes dos órgãos de comunicação social, que poderão deslocar-se às assembleias ou secções de voto em ordem à obtenção de imagens ou outros elementos de reportagem, sem prejuízo do respeito pela genuinidade e eficácia do acto eleitoral.
+
+Esses agentes, devidamente credenciados pelo Ministério da Comunicação Social, deverão, designadamente:
+
+a) Identificar-se perante os membros da mesa antes de iniciarem a sua actividade;
+
+b) Não colher imagens, nem de qualquer modo aproximar-se das câmaras de voto, a ponto de poderem comprometer o carácter secreto do sufrágio;
+
+c) Não obter outros elementos de reportagem, quer no interior da assembleia de voto, quer no exterior dela, até à distância de 500 m, que igualmente possam violar o segredo do voto;
+
+d) De um modo geral, não perturbar o acto eleitoral.
+
+3. As imagens ou outros elementos de reportagem obtidos nos termos referidos no número anterior só poderão ser transmitidos após o encerramento das assembleias ou secções de voto.
+
+###### Artigo 85.º — (Proibição da presença de força armada e casos em que pode ser requisitada)
+
+1. Nos locais onde se reunirem as assembleias de voto, num raio de 100 m, é proibida a presença de força armada, salvo se o comandante desta possuir indícios seguros de que sobre os membros da mesa se exerce coacção de ordem física ou psíquica que impeça a requisição daquela força. Neste caso, a força poderá intervir por iniciativa do seu comandante, a fim de assegurar a genuinidade do processo eleitoral, devendo retirar-se assim que pelo presidente, ou quem o substitua, lhe seja formulado pedido nesse sentido, ou quando verifique que a sua presença já não se justifica.
+
+2. Sempre que o entenda necessário, o comandante da força armada, ou seu delegado credenciado, poderá visitar, desarmado e por um período máximo de dez minutos, a assembleia ou secção de voto, a fim de estabelecer contacto com o presidente da mesa ou quem o substitua.
+
+3. Quando for necessário pôr termo a algum tumulto ou obstar a qualquer agressão ou violência, quer dentro do edifício da assembleia ou secção de voto, quer na sua proximidade, ou ainda em caso de desobediência às suas ordens, poderá o presidente da mesa, consultada esta, requisitar a presença da força armada, sempre que possível por escrito, ou, em caso de impossibilidade, com menção na acta eleitoral das razões da requisição e do período da presença da força armada.
+
+4. Nos casos previstos nos n.os 1 e 3 suspender-se-ão as operações eleitorais até que o presidente da mesa considere verificadas as condições para que possam prosseguir, sob pena de nulidade da eleição na respectiva assembleia ou secção de voto.
+
+###### Artigo 86.º — Boletins de voto e matrizes em braille
+
+1. Os boletins de voto serão de forma rectangular, com as dimensões apropriadas para neles caber a indicação de todas as candidaturas admitidas à votação, e serão impressos em papel liso não transparente.
+
+2. Em cada boletim de voto serão impressos, de harmonia com o modelo anexo a este diploma, os nomes dos candidatos e as respectivas fotografias, tipo passe, reduzidas, dispostas horizontalmente, uns abaixo dos outros, pela ordem que tiver sido sorteada, nos termos do artigo 21.º
+
+3. Na linha correspondente a cada candidatura figurará um quadrado em branco, que o eleitor preencherá com uma cruz para assinalar a sua escolha.
+
+4 - São elaboradas matrizes em braille dos boletins de voto, em tudo idênticas a estes e com os espaços correspondentes aos quadrados das listas concorrentes.
+
+5 - A impressão dos boletins de voto e a elaboração das matrizes em braille constitui encargo do Estado, através da administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, competindo a execução dos primeiros à Imprensa Nacional-Casa da Moeda, S. A.
+
+6 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna remete a cada presidente da câmara municipal os boletins de voto para que estes cumpram o preceituado no n.º 2 do artigo 43.º, disso informando o tribunal da comarca com jurisdição na sede do distrito ou região autónoma.
+
+7 - Os boletins de voto remetidos, em número igual ao dos eleitores inscritos na assembleia ou secção de voto mais 20 %, bem como as respetivas matrizes em braille em número não inferior a duas por cada assembleia ou secção de voto, são remetidos em sobrescrito fechado e lacrado.
+
+8 - O presidente da câmara municipal e os presidentes das assembleias ou secções de voto prestam contas ao juiz presidente do tribunal da comarca com sede na capital do distrito ou região autónoma dos boletins de voto e das matrizes em braille que receberam, devendo os presidentes das assembleias ou secções de voto devolver-lhe, no dia seguinte ao da eleição, os boletins não utilizados e os boletins deteriorados ou inutilizados pelos eleitores, bem como as matrizes em braille.
+
+9 - Tratando-se de assembleias de voto que reúnam fora do território nacional, as competências do presidente da câmara municipal entender-se-ão deferidas ao presidente da comissão recenseadora.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 86.º-A — Boletins de voto no estrangeiro
+
+Para o segundo sufrágio, no estrangeiro, e caso tal se revele necessário, podem ser utilizados os boletins de voto do primeiro sufrágio.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+###### Artigo 87.º — (Modo como vota cada eleitor)
+
+1 - Cada eleitor, apresentando-se perante a mesa, indica o seu nome e entrega ao presidente o seu documento de identificação civil, se o tiver.
+
+2 - Na falta do documento de identificação civil, a identificação do eleitor faz-se por meio de qualquer outro documento oficial que contenha fotografia atualizada, ou através de dois cidadãos eleitores que atestem, sob compromisso de honra, a sua identidade, ou ainda por reconhecimento unânime dos membros da mesa.
+
+3 - Identificado o eleitor, o presidente diz em voz alta o seu nome e número de identificação civil e, depois de verificada a inscrição, entrega-lhe um boletim de voto.
+
+4 - Sempre que o eleitor requeira uma matriz do boletim de voto em braille, esta é-lhe entregue sobreposta ao boletim de voto para que possa proceder à sua leitura e expressar o seu voto com uma cruz no recorte do quadrado da lista correspondente à sua opção de voto.
+
+5- De seguida, o eleitor entrará na câmara de voto situada na assembleia e aí, sozinho, marcará com uma cruz no quadrado respectivo o candidato em que votou e dobrará o boletim em quatro.
+
+6 - Voltando para junto da mesa, o eleitor entrega o boletim ao presidente, que o introduz na urna, enquanto os escrutinadores descarregam o voto, rubricando os cadernos eleitorais em coluna a isso destinada e na lista correspondente ao nome do eleitor.
+
+7 - Após votar, o eleitor que tenha requerido uma matriz do boletim de voto em braille devolve-a à mesa.
+
+8 - Se, por inadvertência, o eleitor deteriorar o boletim, deve pedir outro ao presidente, devolvendo-lhe o primeiro. O presidente escreve no boletim devolvido a nota de inutilizado, rubrica-o e conserva-o para os efeitos do n.º 8 do artigo 86.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 88.º — (Voto em branco ou nulo)
+
+1. Corresponderá a voto em branco o do boletim de voto que não tenha sido objecto de qualquer tipo de marca.
+
+2. Corresponderá a voto nulo o do boletim de voto:
+
+a) No qual tenha sido assinalado mais de um quadrado ou quando haja dúvidas sobre qual o quadrado assinalado;
+
+b) No qual tenha sido assinalado o quadrado correspondente a uma candidatura que tenha desistido das eleições;
+
+c) No qual tenha sido feito qualquer corte, desenho ou rasuras ou quando tenha sido escrita qualquer palavra.
+
+3. Não será considerado voto nulo o do boletim de voto no qual a cruz, embora não sendo perfeitamente desenhada ou excedendo os limites do quadrado, assinale inequivocamente a vontade do eleitor.
+
+4 - Considera-se ainda nulo o voto antecipado quando o boletim de voto não chega ao seu destino nas condições previstas nos artigos 70.º-B, 70.º-C, 70.º-D e 70.º-E ou seja recebido em sobrescrito que não esteja devidamente fechado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 89.º — (Dúvidas, reclamações, protestos e contraprotestos)
+
+1. Qualquer eleitor inscrito na assembleia de voto ou qualquer delegado das candidaturas poderá suscitar dúvidas e apresentar, por escrito, reclamação, protesto ou contraprotesto relativos às operações eleitorais da mesma assembleia e instruí-los com os documentos convenientes.
+
+2. A mesa não poderá negar-se a receber as reclamações, os protestos e os contraprotestos, devendo rubricá-los e apensá-los às actas.
+
+3. As reclamações, os protestos e os contraprotestos terão de ser obrigatoriamente objecto de deliberação da mesa, que a poderá deixar para final, se entender que isso não afecta o andamento normal da votação.
+
+4. Todas as deliberações da mesa serão tomadas por maioria absoluta dos membros presentes e fundamentadas, tendo o presidente voto de desempate.
+
+### Capítulo II — Apuramento
+
+#### Secção I — Apuramento parcial
+
+###### Artigo 90.º — (Operação preliminar)
+
+Encerrada a votação, o presidente da assembleia ou secção de voto procede à contagem dos boletins que não foram utilizados e dos que foram inutilizados pelos eleitores e encerra-os em sobrescrito próprio, que fecha e lacra para o efeito do n.º 8 do artigo 86.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+###### Artigo 91.º — (Contagem dos votantes e dos boletins de voto)
+
+1. Em seguida, o presidente da assembleia de voto mandará contar os votantes pelas descargas efectuadas nos cadernos eleitorais.
+
+2. Concluída essa contagem, o presidente mandará abrir a urna, a fim de conferir o número de boletins de voto entrados, voltando a introduzi-los aí no fim da contagem.
+
+3. Em caso de divergência entre o número de votantes apurado nos termos do n.º 1 e o dos boletins de voto contados, prevalecerá, para efeitos de apuramento, o segundo destes números.
+
+4. Será dado imediato conhecimento público do número de boletins de voto através de edital, que, depois de lido em voz alta pelo presidente, será afixado à porta principal da assembleia de voto.
+
+###### Artigo 91.º-A — Apuramento parcial no estrangeiro
+
+1 - Nas assembleias de voto com mais de 100 eleitores inscritos procede-se ao apuramento nos termos gerais.
+
+2 - Nas assembleias de voto com menos de 100 eleitores inscritos, os boletins de voto são introduzidos em sobrescritos fechados e lacrados na presença dos eleitores que permaneçam na assembleia.
+
+3 - Nos casos referidos no número anterior, os sobrescritos, contendo os boletins de voto, actas das operações e cadernos eleitorais, são enviados imediatamente, por via diplomática, para a assembleia de voto mais próxima que tenha mais de 100 eleitores, para que aí se proceda à contagem pela respectiva mesa e com a presença dos delegados dos candidatos.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+###### Artigo 92.º — (Contagem de votos)
+
+1. Um dos escrutinadores desdobrará os boletins, um a um, e anunciará em voz alta qual a candidatura votada. O outro escrutinador registará numa folha branca ou, de preferência, num quadro bem visível os votos atribuídos a cada candidatura, bem como os votos em branco e os votos nulos.
+
+2. Entretanto, os boletins de voto serão examinados e exibidos pelo presidente, que os agrupará, com a ajuda de um dos vogais, em lotes separados, correspondentes a cada uma das candidaturas votadas, aos votos em branco e aos votos nulos.
+
+3. Terminadas estas operações, o presidente procederá à contraprova da contagem de votos registados na folha do quadro através da contagem dos boletins de cada um dos lotes separados.
+
+4. Os delegados das candidaturas terão o direito de examinar depois os lotes dos boletins de voto separados, sem alterar a sua composição. Se entenderem dever suscitar ou deduzir reclamações quanto à contagem ou quanto à qualificação dada ao voto de qualquer boletim, produzi-las-ão perante o presidente e, neste último caso, se não foram atendidas, terão direito de, juntamente com o presidente, rubricar o boletim de voto em causa.
+
+5. O apuramento assim efectuado será imediatamente publicado por edital afixado à porta principal do edifício da assembleia, em que se discriminarão número de votos atribuídos a cada candidatura e o número de votos nulos.
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 93.º — (Destino dos boletins de voto objecto de reclamações ou protesto)
+
+Os boletins de voto sobre os quais haja reclamação ou protesto serão, depois de rubricados, remetidos à assembleia de apuramento distrital, com os documentos que lhes digam respeito.
+
+###### Artigo 94.º — (Destino dos restantes boletins)
+
+1. Os restantes boletins de voto serão remetidos em pacotes devidamente lacrados e confiados à guarda do juiz de direito da comarca.
+
+2. Esgotado o prazo para a interposição dos recursos contenciosos, ou decididos definitivamente estes, o juiz determinará a destruição dos boletins.
+
+###### Artigo 95.º — (Acta das operações eleitorais)
+
+1. Competirá ao secretário proceder à elaboração da acta das operações de votação e apuramento.
+
+2 - Da acta constarão:
+
+a) Os nomes dos membros da mesa e dos delegados das candidaturas;
+
+b) A hora de abertura e de encerramento da votação e o local da assembleia de voto;
+
+c) As deliberações tomadas pela mesa durante as operações;
+
+d) O número total de eleitores inscritos e de votantes;
+
+e) Número de inscrição dos eleitores que exerceram o direito de voto antecipadamente;
+
+f) O número de votos obtidos por cada candidato e o de votos em branco e de votos nulos;
+
+g) O número de boletins de voto sobre os quais haja incidido reclamação ou protesto;
+
+h) As divergências de contagem, se as houver, a que se refere o n.º 3 do artigo 91.º, com a indicação precisa das diferenças notadas;
+
+i) Quaisquer outras ocorrências que a mesa julgar dignas de menção;
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 96.º — (Envio à assembleia de apuramento distrital)
+
+Nas vinte e quatro horas imediatas ao apuramento, os presidentes das assembleias de voto entregarão ao presidente da assembleia de apuramento distrital ou remeterão pelo seguro do correio, ou por próprio, que cobrará recibo de entrega, as actas, os cadernos e mais documentos respeitantes à eleição.
+
+#### Secção II — Apuramento distrital
+
+###### Artigo 97.º — (Apuramento distrital)
+
+1 - O apuramento da eleição em cada distrito compete a uma assembleia de apuramento distrital, a qual iniciará os seus trabalhos às 9 horas do dia subsequente ao da eleição, em local determinado para o efeito pelo magistrado que preside à assembleia de apuramento distrital.
+
+2 - Até ao décimo quarto dia anterior ao da eleição, a administração eleitoral da Secretaria-Geral do Ministério da Administração Interna, nos distritos de Lisboa, Porto, Aveiro, Braga e Setúbal, pode determinar o desdobramento do distrito em assembleias de apuramento, respeitando a unidade dos municípios, e que são consideradas para todos os efeitos como assembleias de apuramento distrital.
+
+3 - Em Lisboa e no Porto poderão constituir-se até quatro assembleias de apuramento e os restantes distritos anteriormente mencionados poderão desdobrar-se em duas assembleias de apuramento.
+
+4 - Para o efeito da designação prevista nas alíneas a) e c) do n.º 1 do artigo 98.º, a administração eleitoral da Secretaria-Geral do Ministério da Administração Interna comunica a sua decisão ao presidente do Tribunal da Relação respetivo e aos membros do Governo responsáveis pelas áreas da administração interna e da educação.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 97.º-A — Apuramento intermédio
+
+1 - Em cada área de jurisdição consular constitui-se, até à antevéspera do início da votação, uma assembleia de apuramento intermédio, composta pelo titular do posto ou da secção consulares, que preside, um jurista e um presidente de assembleia de voto por cada conjunto até 100 000 eleitores, designados pelo presidente, à qual compete exercer as funções atribuídas no território nacional às assembleias de apuramento distrital.
+
+2 - Essas assembleias iniciam os seus trabalhos às 9 horas do dia seguinte ao último dia de votação, no edifício da embaixada ou consulado, para onde é encaminhado, pela via mais expedita, o material eleitoral a sujeitar a apreciação.
+
+3 - Os resultados são apurados até ao 4.º dia posterior ao último dia de votação, sendo a respectiva acta imediatamente remetida à assembleia de apuramento geral.
+
+4 - Para efeitos do cumprimento do número anterior, pode recorrer-se ao envio por meios eletrónicos, quando necessário.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Aditado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+###### Artigo 98.º — (Assembleia de apuramento distrital)
+
+1 - A assembleia de apuramento distrital será composta por:
+
+a) Um magistrado judicial, designado pelo presidente do tribunal da relação do distrito judicial respectivo, que servirá de presidente, com voto de qualidade;
+
+b) Dois juristas, escolhidos pelo presidente;
+
+c) Dois professores, preferencialmente de Matemática, que leccionem na área da sede do distrito, designados pelo membro do Governo responsável pela área da educação;
+
+d) Seis presidentes de assembleias de voto, designados pelo tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma;
+
+e) Um secretário judicial da sede do distrito, escolhido pelo presidente, que servirá de secretário, sem voto.
+
+2 - A assembleia deverá estar constituída até à antevéspera da eleição, dando-se imediato conhecimento público dos nomes dos cidadãos que a compõem, e, no caso de desdobramento, a área que abrange, através de edital a afixar à porta do tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma.
+
+3 - As designações previstas nas alíneas c) e d) do n.º 1 deverão ser comunicadas ao presidente até 3 dias antes da eleição.
+
+4 - Os candidatos e os mandatários das candidaturas poderão assistir, sem voto, mas com direito de reclamação, protesto ou contraprotesto, aos trabalhos da assembleia de apuramento distrital.
+
+5 - Os cidadãos que façam parte das assembleias de apuramento distrital são dispensados do dever de comparência ao respectivo emprego ou serviço durante o período de funcionamento daquelas, sem prejuízo de todos os seus direitos e regalias, incluindo o direito à retribuição, desde que provem o exercício de funções através de documento assinado pelo presidente da assembleia.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 99.º — (Elementos do apuramento distrital)
+
+1 - O apuramento distrital será realizado com base nas actas das operações das assembleias de voto, nos cadernos eleitorais e nos demais documentos que os acompanharem.
+
+2 - Se faltarem os elementos de alguma das assembleias de voto, iniciar-se-á o apuramento com base nos elementos das assembleias que os enviarem, designando o presidente nova reunião, dentro das 24 horas seguintes, para se concluírem os trabalhos e tomando, entretanto, as providências necessárias para que a falta seja reparada.
+
+3 - Nas Regiões Autónomas dos Açores e da Madeira o apuramento distrital poderá basear-se em correspondência telegráfica transmitida pelos presidentes das câmaras municipais ou das comissões administrativas municipais.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 100.º — (Operação preliminar)
+
+No início dos seus trabalhos, a assembleia de apuramento deve decidir se devem ou não contar-se os boletins de voto sobre os quais tenha recaído reclamação ou protesto, corrigindo, for caso disso, o apuramento da respectiva assembleia de voto.
+
+###### Artigo 101.º — (Operações de apuramento distrital)
+
+O apuramento distrital consiste:
+
+a) Na verificação do número total de eleitores inscritos e de votantes no distrito;
+
+b) Na verificação do número total de votos obtidos por cada candidatura, do número de votos em branco e do número dos votos nulos.
+
+###### Artigo 102.º — (Anúncio, publicação e afixação dos resultados)
+
+Os resultados do apuramento distrital são publicados por meio de edital afixado à porta do tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma, até ao 6.º dia posterior ao da votação.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 103.º — (Acta de apuramento distrital)
+
+1. Do apuramento distrital será imediatamente lavrada acta, da qual constarão os resultados das respectivas operações, bem como as reclamações, protestos e contraprotestos apresentados de harmonia com o disposto no n.º 3 do artigo 98.º e as decisões que sobre eles tenham recaído.
+
+2. Nas vinte e quatro horas posteriores à conclusão do apuramento distrital o presidente enviará dois exemplares da acta à assembleia de apuramento geral pelo seguro do correio ou por próprio, que cobrará recibo de entrega.
+
+3 - O terceiro exemplar da acta, bem como toda a documentação presente à assembleia de apuramento distrital, permanece com o tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma, o qual o conservará e guardará sob a sua responsabilidade.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+###### Artigo 104.º — (Certidão ou fotocópia de apuramento)
+
+Aos candidatos e aos mandatários de cada candidatura proposta à eleição são passadas pela secretaria do tribunal da comarca com jurisdição na sede do distrito ou Região Autónoma certidões ou fotocópias da acta de apuramento distrital.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+#### Secção III — Apuramento geral
+
+###### Artigo 105.º — (Apuramento geral)
+
+O apuramento geral da eleição e a proclamação do candidato eleito ou a designação dos dois candidatos que concorrem ao segundo sufrágio, de harmonia com os artigos 10.º e seguintes, compete a uma assembleia de apuramento geral, a qual iniciará os seus trabalhos às 9 horas do oitavo dia posterior ao da eleição no Tribunal Constitucional.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 106.º — (Assembleia de apuramento geral)
+
+1 - A assembleia de apuramento geral será composta por:
+
+a) O presidente do Tribunal Constitucional, que presidirá com voto de qualidade;
+
+b) Dois juízes do Tribunal Constitucional, designados por sorteio;
+
+c) Três professores de Matemática, designados pelo Ministério da Educação e Cultura;
+
+d) O secretário do Tribunal Constitucional que secretariará sem voto.
+
+2 - A assembleia deverá estar constituída até à antevéspera da eleição, dando-se imediato conhecimento público dos nomes dos cidadãos que a compõem através de edital a afixar à porta do Tribunal Constitucional.
+
+3 - Os candidatos e os mandatários dos candidatos poderão assistir, sem direito de voto, mas com direito de reclamação, protesto ou contraprotesto, aos trabalhos da assembleia de apuramento geral.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 495-A/76 - Diário da República n.º 146/1976, 1º Suplemento, Série I de 1976-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-a-1976-177474), em vigor a partir de 1976-06-25
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 107.º — (Elementos do apuramento geral)
+
+O apuramento geral será realizado com base nas actas das operações das assembleias de apuramento distrital.
+
+###### Artigo 108.º — (Operações de apuramento geral)
+
+1. O apuramento geral consiste:
+
+a) Na verificação do número total de eleitores inscritos e de votantes no círculo único;
+
+b) Na verificação do número total de votos obtidos por cada candidato, do número dos votos em branco e dos votos nulos;
+
+c) Na determinação do candidato eleito.
+
+###### Artigo 109.º — (Proclamação e publicação dos resultados)
+
+Os resultados do apuramento geral serão proclamados pelo presidente e, em seguida, publicados por meio de edital afixado à porta do Tribunal Constitucional até ao décimo dia posterior ao da votação.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 110.º — (Acta do apuramento geral)
+
+1. Do apuramento geral será imediatamente lavrada acta, da qual constarão os resultados das respectivas operações, bem como as reclamações, protestos e contraprotestos apresentados de harmonia com o disposto no n.º 3 do artigo 106.º e as decisões que sobre eles tenham recaído.
+
+2. Nos dois dias posteriores àqueles em que se concluir o apuramento geral o presidente enviará dois exemplares da acta à Comissão Nacional das Eleições pelo seguro do correio ou por próprio, que cobrará recibo de entrega.
+
+3. O terceiro exemplar da acta, bem como toda a documentação presente à assembleia de apuramento geral , será entregue ao presidente do Supremo Tribunal de Justiça, que o guardará sob a sua responsabilidade.
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 111.º — (Mapa nacional da eleição)
+
+Nos 8 dias subsequentes à recepção das actas de apuramento geral a Comissão Nacional de Eleições elabora e faz publicar na 1.ª série do Diário da República um mapa oficial com o resultado das eleições, de que conste:
+
+a) Número dos eleitores inscritos;
+
+b) Número de votantes;
+
+c) Número de votos em branco e votos nulos;
+
+d) Número, com a respectiva percentagem, de votos atribuídos a cada candidato;
+
+e) Nome do candidato eleito ou nome dos dois candidatos concorrentes ao segundo sufrágio.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 112.º — (Certidão ou fotocópia do apuramento gera )
+
+Aos candidatos e mandatários de cada candidatura proposta à eleição será passada pela secretaria do Supremo Tribunal de Justiça certidão ou fotocópia da acta de apuramento geral.
+
+#### Secção IV — Apuramento no caso de repetição de votação
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 112.º-A — (Apuramento no caso de repetição de votação)
+
+1 - No caso de repetição de qualquer votação nos termos do artigo 81.º, o apuramento distrital será efectuado não tendo em consideração as assembleias em falta.
+
+2 - Na hipótese prevista no número anterior, compete à assembleia de apuramento geral, que, se necessário, se reunirá para o efeito no dia seguinte ao da votação, completar o apuramento distrital e geral tendo em conta os resultados das votações efectuadas.
+
+3 - A proclamação e a publicação dos resultados, nos termos do artigo 109.º, só serão feitas no dia da última reunião da assembleia de apuramento geral realizada de harmonia com o número anterior.
+
+4 - O disposto nos números anteriores é aplicável em caso de declaração de nulidade de qualquer votação.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260)
+
+#### Secção V — Segundo sufrágio
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 113.º — (Segundo sufrágio)
+
+Ao segundo sufrágio, além das disposições específicas, aplicam-se as disposições gerais da legislação que regula a eleição do Presidente da República, com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 113.º-A — (Candidatos admitidos ao segundo sufrágio)
+
+1 - A administração eleitoral da Secretaria-Geral do Ministério da Administração Interna fornece ao presidente do Tribunal Constitucional, no dia seguinte à realização do primeiro sufrágio, os resultados do escrutínio provisório.
+
+2 - O presidente do Tribunal Constitucional, tendo por base os resultados referidos no número anterior, indica, por edital, até às 18 horas do terceiro dia seguinte ao da votação, os candidatos provisoriamente admitidos ao segundo sufrágio.
+
+3 - No mesmo dia, e após a publicação do edital referido no número anterior, o Tribunal Constitucional procede ao sorteio das candidaturas provisoriamente admitidas para o efeito de lhes ser atribuída uma ordem nos boletins de voto.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 113.º-B — (Assembleias de voto e delegados)
+
+1 - Para o segundo sufrágio manter-se-ão a constituição e o local de reunião das assembleias de voto, bem como a composição das respectivas mesas.
+
+2 - Até ao quinto dia anterior ao da realização do segundo sufrágio os candidatos ou os respectivos mandatários poderão designar delegados das candidaturas, entendendo-se, se o não fizerem, que confirmam os designados para o primeiro sufrágio, seguindo-se os termos previstos no artigo 37.º, nomeadamente no que se refere à assinatura e autenticação das credenciais
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+### Capítulo III — Contencioso eleitoral
+
+###### Artigo 114.º — (Recurso)
+
+1 - As irregularidades ocorridas no decurso da votação e no apuramento parcial, distrital e geral podem ser apreciadas em recurso contencioso, desde que hajam sido objecto de reclamação ou protesto apresentados no acto em que se verificaram.
+
+2 - Da decisão sobre a reclamação ou protesto podem recorrer, além do apresentante da reclamação, protesto ou contraprotesto, os candidatos e os seus mandatários.
+
+3 - A petição especificará o fundamento de facto e de direito do recurso e será acompanhada de todos os elementos de prova, incluindo fotocópia da acta da assembleia em que a irregularidade tiver ocorrido.
+
+4 - Cabe à assembleia de apuramento distrital apreciar os recursos interpostos pelas entidades referidas no n.º 2 quanto a irregularidades ocorridas no decurso da votação e no apuramento parcial.
+
+5 - Desta decisão cabe recurso contencioso nos termos do artigo seguinte.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 115.º — (Tribunal competente, processo e prazo)
+
+1 - O recurso é interposto no dia seguinte ao da afixação dos editais que tornem públicos os resultados dos apuramentos distrital e geral perante o Tribunal Constitucional.
+
+2 - No caso de recursos relativos às regiões autónomas e ao território de Macau, a interposição e fundamentação dos mesmos perante o Tribunal Constitucional podem ser feitas por via telegráfica ou telex, sem prejuízo de posterior envio de todos os elementos de prova referidos no n.º 3 do artigo anterior.
+
+3 - O presidente do Tribunal Constitucional manda notificar imediatamente os mandatários dos candidatos definitivamente admitidos para que eles ou os candidatos respondam, querendo, no prazo de um dia.
+
+4 - Nos dois dias seguintes ao termo do prazo previsto no número anterior, o Tribunal Constitucional, em Plenário, decide o recurso, comunicando imediatamente a decisão à Comissão Nacional de Eleições.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 116.º — (Nulidade das eleições)
+
+1 - A votação em qualquer assembleia de voto só será julgada nula desde que se hajam verificado ilegalidades e estas possam influir no resultado geral da eleição.
+
+2 - Na hipótese prevista no n.º 1, os actos eleitorais correspondentes serão repetidos no sétimo dia posterior à declaração de nulidade.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+## Título VI — Ilícito eleitoral
+
+### Capítulo I — Ilícito penal
+
+#### Secção I — Princípios gerais
+
+###### Artigo 117.º — (Infracções eleitorais)
+
+É aplicável às infracções eleitorais previstas no presente diploma o disposto nos artigos 31.º e 35.º do Decreto-Lei n.º 25-A/76, de 15 de Janeiro.
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+#### Secção II — Infracções relativas à apresentação de candidaturas
+
+###### Artigo 118.º — (Candidatura de cidadão inelegível)
+
+Aquele que, não tendo capacidade eleitoral passiva, dolosamente aceitar a sua candidatura será punido com prisão maior de dois a oito anos.
+
+###### Artigo 119.º — (Subscrição de mais de uma candidatura)
+
+1. Aquele que dolosamente violar o disposto no n.º 2 do artigo 13.º será punido com prisão maior de dois a oito anos.
+
+2. Em caso de mera negligência, a pena será de prisão até um ano.
+
+#### Secção III — Infracções relativas à campanha eleitoral
+
+###### Artigo 120.º — (Violação de deveres de neutralidade e imparcialidade)
+
+Os cidadãos abrangidos pelo artigo 47.º que infrigirem os deveres de neutralidade e imparcialidade aí prescritos serão punidos com prisão até dois anos.
+
+###### Artigo 121.º — (Utilização indevida de nome ou símbolo)
+
+Aquele que durante a campanha eleitoral utilizar o nome de um candidato ou símbolo de qualquer candidatura com o intuito de os prejudicar ou injuriar será punido com prisão até um ano e multa de 1000$00 a 5000$00.
+
+###### Artigo 122.º — (Utilização de publicidade comercial)
+
+Aquele que infringir o disposto no artigo 63.º será punido com a multa de 10000$00 a 100000$00.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 72-A/2015 - Diário da República n.º 142/2015, 1º Suplemento, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/lei/72-a-2015-69866640), em vigor a partir de 2015-07-24
+
+###### Artigo 123.º — (Violação dos deveres das estações de rádio)
+
+1 - O não cumprimento dos deveres impostos pelos artigos 52.º e 53.º constitui contra-ordenação, sendo cada infracção punível com coima:
+
+a) De 750000$00 a 2500000$00, no caso das estações de rádio;
+
+b) De 1500000$00 a 5000000$00 no caso das estações de televisão.
+
+2 - Compete à Comissão Nacional de Eleições a aplicação das coimas previstas no n.º 1.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 35/95 - Diário da República n.º 190/1995, Série I-A de 1995-08-18](https://diariodarepublica.pt/dr/detalhe/lei/35-1995-434623), em vigor a partir de 1995-08-23
+
+###### Artigo 123.º-A — Suspensão do direito de antena
+
+1 - É suspenso o exercício do direito de antena da candidatura que:
+
+a) Use expressões ou imagens que possam constituir crime de difamação ou injúria, ofensa às instituições democráticas, apelo à desordem ou à insurreição ou incitamento ao ódio, à violência ou à guerra;
+
+b) Faça publicidade comercial.
+
+2 - A suspensão é graduada entre um dia e o número de dias que a campanha ainda durar, consoante a gravidade da falta e o seu grau de frequência, e abrange o exercício do direito de antena em todas as estações de rádio e televisão, mesmo que o facto que a determinou se tenha verificado apenas numa delas.
+
+3 - A suspensão é independente de responsabilidade civil ou criminal.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 123.º-B — Processo de suspensão do exercício do direito de antena
+
+1 - A suspensão do exercício do direito de antena é requerida ao Tribunal Constitucional pelo Ministério Público, por iniciativa deste ou a solicitação da Comissão Nacional de Eleições ou de qualquer outra candidatura interveniente.
+
+2 - O órgão competente de qualquer candidatura interveniente cujo direito de antena tenha sido objecto de pedido de suspensão é imediatamente notificado por via telegráfica para contestar, querendo, no prazo de vinte e quatro horas.
+
+3 - O Tribunal Constitucional requisita às estações de rádio ou de televisão os registos das emissões que se mostrarem necessários, os quais lhes são imediatamente facultados.
+
+4 - O Tribunal Constitucional decide no prazo de um dia e, no caso de ordenar a suspensão do direito de antena, notifica logo a decisão às respectivas estações de rádio e de televisão para cumprimento imediato.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 11/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/lei/11-1995-223465), em vigor a partir de 1995-04-27
+
+###### Artigo 124.º — (Violação da liberdade de reunião eleitoral)
+
+Aquele que impedir a realização ou prosseguimento de reunião, comício, cortejo ou desfile de propaganda eleitoral será punido com prisão de seis meses a um ano e multa de 1000$00 a 10000$00.
+
+###### Artigo 125.º — (Reuniões, comícios, desfiles ou cortejos ilegais)
+
+Aquele que promover reuniões, comícios, desfiles ou cortejos em contravenção com o disposto no artigo 49.º será punido com prisão até seis meses.
+
+###### Artigo 126.º — (Violação dos deveres dos proprietários de salas de espectáculos e dos que as exploram)
+
+O proprietário de sala de espectáculos ou aquele que a explora que não cumprir os deveres impostos pelos artigos 55.º, n.º 1, e 60.º será punido com prisão até seis meses e multa de 10000$00 a 50000$00.
+
+###### Artigo 127.º — (Dano em material de propaganda eleitoral)
+
+1. Aquele que furtar, destruir, rasgar, ou por qualquer forma inutilizar, no todo ou em parte, ou tornar ilegível o material de propaganda eleitoral afixado ou o desfigurar ou colocar por cima dele qualquer material com o fim de o ocultar será punido com prisão até seis meses e multa de 1000$00 a 10000$00.
+
+2. Não serão punidos os factos previstos no número anterior se o material de propaganda houver sido afixado na própria casa ou estabelecimento do agente sem o seu conhecimento ou contiver matéria francamente desactualizada.
+
+###### Artigo 128.º — (Desvio de correspondência)
+
+O empregado dos correios que desencaminhar, retiver ou não entregar ao destinatário circulares, cartazes ou papéis de propaganda eleitoral de qualquer candidatura será punido com prisão até dois anos e multa de 500$00 a 5000$00.
+
+###### Artigo 129.º — (Propaganda depois de encerrada a campanha eleitoral)
+
+1. Aquele que no dia da eleição ou no anterior fizer propaganda eleitoral por qualquer meio será punido com prisão até seis meses e multa de 500$00 a 5000$00.
+
+2. Aquele que no dia da eleição fizer propaganda nas assembleias de voto ou nas suas imediações até 500 m será punido com prisão até seis meses e multa de 1000$00 a 10000$00.
+
+###### Artigo 130.º — (Revelação ou divulgação de resultados de sondagens)
+
+Aquele que infringir o disposto no artigo 50.º será punido com prisão até um ano e multa de 5000$00 a 100000$00.
+
+###### Artigo 131.º — (Receitas ilícitas das candidaturas)
+
+Os candidatos ou  mandatários das candidaturas propostas à eleição que infringirem o disposto no artigo 67.º serão punidos com prisão até dois anos e multa de 20000$00 a 100000$00.
+
+> Revogado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, 1º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-12-01
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+###### Artigo 132.º — (Não contabilização de despesas e despesas ilícitas)
+
+1. Os candidatos que infringirem o disposto no artigo 66.º, deixando de contabilizar quaisquer despesas de candidatura e campanha eleitoral, pagas ou a pagar por outras pessoas, serão punidos com a multa de 20000$00 a 200000$00.
+
+2. A mesma pena sofrerão os candidatos cujas candidaturas excederem o limite de despesas fixado no artigo 68.º
+
+3. Em ambos os casos responderão solidariamente pelo pagamento das multas os subscritores das candidaturas.
+
+4. Aquele que, tendo feito quaisquer despesas de candidatura e campanha eleitoral, não as comunique à Comissão Nacional das Eleições até quinze dias sobre o da eleição, para efeitos do cumprimento do artigo 66.º, será punido com prisão até seis meses e multa de 5000$00 a 50000$00.
+
+> Revogado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, 1º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 445-A/76 - Diário da República n.º 131/1976, 1º Suplemento, Série I de 1976-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-a-1976-425093), em vigor a partir de 1976-06-05
+
+###### Artigo 133.º — (Não prestação de contas)
+
+Os candidatos que infringirem o disposto no artigo 69.º serão punidos com prisão até dois anos e multa de 20000$00 a 2000000$00, por cujo pagamento serão solidariamente responsáveis os subscritores da candidatura.
+
+> Revogado pelo/a Artigo 28.º do/a [Lei n.º 72/93 - Diário da República n.º 280/1993, 1º Suplemento, Série I-A de 1993-11-30](https://diariodarepublica.pt/dr/detalhe/lei/72-1993-428825), em vigor a partir de 1993-12-01
+
+#### Secção IV — Infracções relativas à eleição
+
+###### Artigo 134.º — (Violação da capacidade eleitoral)
+
+1. Aquele que, não possuindo capacidade eleitoral, se apresentar a votar será punido com a multa de 500$00 a 5000$00.
+
+2. Se o fizer fraudulentamente, tomando a identidade de cidadão inscrito, será punido com prisão maior de dois a oito anos.
+
+3. Aquele que dolosamente violar o disposto no artigo 70.º será punido com prisão maior de dois a oito anos.
+
+###### Artigo 135.º — (Admissão ou exclusão abusiva do voto)
+
+Aquele que concorrer para que seja admitido a votar quem não tem esse direito ou para a exclusão de quem o tiver, e bem assim o médico que atestar falsamente uma impossibilidade de exercício do direito de voto, será punido com prisão até dois anos e multa de 1000$00 a 10000$00.
+
+###### Artigo 136.º — (Impedimento de sufrágio por abuso de autoridade)
+
+A autoridade que, dolosamente, no dia da eleição fizer, sobre qualquer pretexto, sair do seu domicílio ou permanecer fora dele qualquer eleitor para que não possa ir votar, será punida com prisão até dois anos e multa de 5000$00 a 20000$00.
+
+###### Artigo 137.º — (Voto plúrimo)
+
+Aquele que votar mais de uma vez será punido com prisão maior de dois a oito anos.
+
+###### Artigo 138.º — (Mandatário infiel)
+
+Aquele que acompanhar um cego ou um deficiente a votar e, dolosamente, exprimir infielmente a sua vontade será punido com prisão maior de dois a oito anos.
+
+###### Artigo 139.º — (Violação de segredo de voto)
+
+1. Aquele que na assembleia de voto ou nas suas imediações, até 500 m, usar de coacção ou artifício de qualquer natureza ou se servir do seu ascendente sobre o eleitor será punido com prisão até seis meses.
+
+2. Aquele que na assembleia de voto ou nas suas imediações, até 500 m, revelar em que candidatura vai votar ou votou será punido com multa de 100$00 a 1000$00.
+
+###### Artigo 140.º — (Coacção e artifício fraudulento sobre o eleitor)
+
+1. Aquele que usar de violência ou ameaça sobre qualquer eleitor ou que usar de enganos, artifícios fraudulentos, falsas notícias ou qualquer outro meio ilícito para o constranger ou induzir a votar em determinada candidatura ou abster-se de votar será punido com prisão maior de dois a oito anos.
+
+2. Será agravada a pena prevista no número anterior se a ameaça for cometida com uso de arma ou a violência for exercida por mais de duas pessoas.
+
+###### Artigo 141.º — (Abuso de funções públicas ou equiparadas)
+
+O cidadão investido de poder público, o funcionário ou agente do Estado ou de outra pessoa colectiva pública e o Ministro de qualquer culto que, abusando das suas funções ou no exercício das mesmas, se servir delas para constranger ou induzir os eleitores a votar em determinada candidatura ou abster-se de votar nela será punido com prisão maior de dois a oito anos.
+
+###### Artigo 142.º — (Despedimento ou ameaça de despedimento)
+
+Aquele que despedir ou ameaçar despedir alguém do seu emprego, impedir ou ameaçar impedir alguém de obter emprego, aplicar ou ameaçar aplicar qualquer outra sanção abusiva, a fim de ele votar ou não votar, porque votou ou não votou em certa candidatura ou porque se absteve ou não de participar na campanha eleitoral, será punido com prisão até dois anos e multa até 20000$00, sem prejuízo da imediata readmissão do empregado se o despedimento ou outra sanção abusiva tiver chegado a efectivar-se.
+
+###### Artigo 143.º — (Corrupção eleitoral)
+
+1. Aquele que, por causa da eleição, oferecer, prometer ou conceder emprego público ou privado ou outra coisa ou vantagem a um ou mais eleitores ou, por acordo com estes, a uma terceira pessoa, mesmo quando a coisa ou vantagem utilizadas, prometidas ou conseguidas forem dissimuladas a título de indemnização pecuniária dada ao eleitor para despesas de viagem ou de estada ou de pagamento de alimentos ou bebidas ou a pretexto de despesas com a campanha eleitoral, será punido com prisão até dois anos e multa de 5000$00 a 50000$00.
+
+2. A mesma pena será aplicada ao eleitor que aceitar qualquer dos benefícios previstos no número anterior.
+
+###### Artigo 144.º — (Não exibição da urna)
+
+1. O presidente da mesa da assembleia de voto que não exibir a urna perante os eleitores antes do início da votação será punido com multa de 1000$00 a 10000$00.
+
+2. Se na urna entrarem boletins de voto não introduzidos pelo presidente, será este punido também com pena de prisão até seis meses.
+
+###### Artigo 145.º — (Introdução de boletins na urna, desvio desta ou de boletins de voto)
+
+Aquele que fraudulentamente introduzir boletins de voto na urna antes ou depois do início da votação, se apoderar da urna com os boletins de voto nela recolhidos, mas ainda não apurados, ou se apoderar de um ou mais boletins de voto em qualquer momento, desde a abertura da assembleia eleitoral até ao apuramento geral da eleição, será punido com prisão maior de dois a oito anos.
+
+###### Artigo 146.º — (Fraudes da mesa da assembleia de voto e da assembleia de apuramento distrital e geral)
+
+1. O membro da mesa da assembleia de voto que dolosamente apuser ou consentir que se aponha nota de descarga em eleitor que não votou ou que não a apuser em eleitor que votou, que trocar na leitura dos boletins de voto a candidatura votada, que diminuir ou aditar votos a uma candidatura no apuramento, ou que por qualquer modo falsear a verdade da eleição, será punido com prisão maior de dois a oito anos.
+
+2. As mesmas penas serão aplicadas ao membro da assembleia de apuramento distrital e geral que cometer qualquer dos actos previstos no número anterior.
+
+###### Artigo 147.º — (Obstrução à fiscalização)
+
+1. Aquele que impedir a entrada ou saída de qualquer delegado das candidaturas nas assembleias eleitorais ou que por qualquer modo tentar opor-se a que eles exerçam todos os poderes que lhes são conferidos pela presente lei será punido com prisão de seis meses a dois anos.
+
+2. Se se tratar do presidente da mesa, a pena será de prisão maior de dois a oito anos.
+
+###### Artigo 148.º — (Recusa de receber reclamações, protestos ou contraprotestos)
+
+O presidente da mesa da assembleia eleitoral que injustificadamente se recusar a receber reclamação, protesto ou contraprotesto será punido com prisão até um ano e multa de 1000$00 a 5000$00.
+
+###### Artigo 149.º — (Obstrução dos candidatos mandatários, representantes distritais ou delegados das candidaturas)
+
+O candidato mandatário, representante distrital ou delegado das candidaturas que perturbar gravemente o funcionamento regular das operações eleitorais será punido com prisão até um ano e multa de 100$00 a 10000$00.
+
+###### Artigo 150.º — (Perturbação das assembleias de voto)
+
+1. Aquele que perturbar o regular funcionamento das assembleias de voto, com insultos, ameaças ou actos de violência, originando tumulto, será punido com prisão até dois anos e multa de 500$00 e 20000$00.
+
+2. Aquele que durante as operações eleitorais se introduzir nas assembleias de voto sem ter direito a fazê-lo e se recusar a sair, depois de intimado pelo presidente, será condenado à multa de 500$00 a 5000$00.
+
+3. A mesma pena do número anterior, agravada com prisão até três meses, será aplicada aos que se introduzirem nas referidas assembleias munidos de armas, independentemente da imediata apreensão destas.
+
+###### Artigo 151.º — (Não comparência da força armada)
+
+Sempre que seja necessária a presença da força armada nos casos previstos no artigo 85.º, n.º 3, o comandante da mesma será punido com pena de prisão até um ano se injustificadamente não comparecer.
+
+###### Artigo 152.º — (Não comparecimento do dever de participação no processo eleitoral)
+
+Aquele que for nomeado para fazer parte da mesa da assembleia de voto e, sem motivo de força maior ou justa causa, não assumir ou abandonar essas funções será punido com multa de 1000$00 a 10000$00.
+
+###### Artigo 153.º — (Falsificação de cadernos, boletins, actas ou documentos relativos à eleição)
+
+Aquele que por qualquer modo viciar, substituir, suprimir, destruir ou compuser falsamente os cadernos eleitorais, os boletins de voto, as actas das assembleias de voto ou de apuramento, ou quaisquer dos documentos respeitantes à eleição, será punido com prisão maior de dois a oito anos.
+
+###### Artigo 154.º — (Denúncia caluniosa)
+
+Aquele que dolosamente imputar a outrem, sem fundamento, a prática de qualquer infracção prevista na presente lei será punido com as penas aplicáveis à denúncia caluniosa.
+
+###### Artigo 155.º — (Reclamação e recurso de má fé)
+
+Aquele que, com má fé, apresentar a reclamação, recurso, protesto ou contraprotesto, ou aquele que impugnar decisões dos órgãos eleitorais através de recurso manifestamente infundado será punido com multa de 500$00 a 1000$00.
+
+###### Artigo 156.º — (Não cumprimento de outras obrigações impostas por lei)
+
+Aquele que não cumprir nos seus precisos termos quaisquer obrigações que lhe sejam impostas pelo presente diploma ou não praticar os actos administrativos que sejam necessários para a sua pronta execução ou ainda retardar injustificadamente o seu cumprimento será, na falta de incriminação especial ou de procedimento disciplinar adequado, punido com multa de 1000$00 a 10000$00.
+
+### Capítulo II — Ilícito disciplinar
+
+###### Artigo 157.º — (Responsabilidade disciplinar)
+
+Tanto as infracções previstas neste diploma como as previstas no Decreto-Lei n.º 25-A/76, de 15 de Janeiro, constituirão também falta disciplinar quando cometidas por agente sujeito a responsabilidade disciplinar.
+
+### Capítulo VII — Disposições finais
+
+###### Artigo 158.º — (Certidões)
+
+São obrigatoriamente passadas a requerimento de qualquer interessado, no prazo de 3 dias:
+
+a) Todas as certidões necessárias para instrução do processo de apresentação de candidaturas;
+
+b) As certidões de apuramento distrital e geral.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 159.º — (Isenções)
+
+São isentos de quaisquer taxas, emolumentos, imposto de selo e imposto de justiça, conforme os casos:
+
+a) As certidões a que se refere o artigo anterior, bem como as declarações previstas nos n.os 1 e 3 do artigo 15.º e o requerimento e a certidão previstos no n.º 6 do mesmo artigo;
+
+b) Todos os documentos destinados a instruir quaisquer reclamações, protestos ou contraprotestos assembleias de voto ou de apuramento distrital ou geral, bem como quaisquer reclamações ou recursos previstos na lei;
+
+c) Os reconhecimentos notariais em documentos para fins eleitorais;
+
+d) As procurações forenses a utilizar em reclamações e recursos previstos na presente lei, devendo as mesmas especificar os processos a que se destinam.
+
+> Rectificado pelo/a [Rectificação - Diário da República n.º 133/1976, Série I de 1976-06-07](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-427155)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 377-A/76 - Diário da República n.º 117/1976, 1º Suplemento, Série I de 1976-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-a-1976-679821), produz efeitos a partir de 1976-05-03
+
+###### Artigo 159.º-A — (Remissões)
+
+1 - No estrangeiro, em tudo o que não estiver já expressamente regulado, aplicam-se as regras gerais contidas nesta lei, com as devidas adaptações.
+
+2 - As referências à administração eleitoral da Secretaria-Geral do Ministério da Administração Interna e ao tribunal da comarca com jurisdição na sede do distrito ou região autónoma entendem-se feitas, no estrangeiro, aos embaixadores.
+
+3 - As referências às câmaras municipais e juntas de freguesia entendem-se feitas, no estrangeiro, respectivamente:
+
+a) Ao encarregado do posto consular de carreira ou encarregado da secção consular da embaixada ou ao funcionário do quadro de pessoal diplomático com maior categoria a seguir ao embaixador;
+
+b) À comissão recenseadora.
+
+4 - Entendem-se como feitas ao Tribunal Constitucional e ao respectivo presidente todas as referências naquela legislação ao Supremo Tribunal de Justiça e ao respectivo juiz presidente.
+
+5 - As referências feitas ao apuramento distrital entendem-se como feitas ao apuramento intermédio no caso das operações realizadas no estrangeiro
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 3/2018 - Diário da República n.º 158/2018, Série I de 2018-08-17](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2018-116090196), em vigor a partir de 2018-08-18
+
+> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 3/2000 - Diário da República n.º 195/2000, Série I-A de 2000-08-24](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2000-330213), em vigor a partir de 2000-08-29
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 159.º-B — (Direito subsidiário)
+
+Em tudo o que não estiver regulado na legislação referente à eleição do Presidente da República, aplica-se aos actos que impliquem intervenção de qualquer tribunal o disposto no Código de Processo Civil quanto ao processo declarativo, com excepção dos n.os 3 e 4 do artigo 144.º e dos n.os 4 e 5 do artigo 145.º
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 159.º-C — (Conservação de documentação eleitoral)
+
+1 - Toda a documentação relativa à apresentação de candidaturas será conservada durante o prazo de 5 anos a contar da data de tomada de posse do candidato eleito.
+
+2 - Decorrido aquele prazo, poderá ser destruída a documentação relativa aos elementos referidos nos n.os 1 e 4 do artigo 15.º
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 143/85 - Diário da República n.º 272/1985, 1º Suplemento, Série I de 1985-11-26](https://diariodarepublica.pt/dr/detalhe/lei/143-1985-564260), em vigor a partir de 1985-11-27
+
+###### Artigo 160.º — (Entrada em vigor)
+
+Este diploma entra em vigor na data da publicação.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - António de Almeida Santos - Vítor Manuel Ribeiro Constâncio.
+
+Visto e aprovado pelo Conselho da Revolução.
+
+Promulgado em 3 de Maio de 1976.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.
+
+## Anexo — ELEIÇÃO PARA A PRESIDÊNCIA DA REPÚBLICA
+
+(ver documento original)
+
+O Ministro da Administração Interna, Vasco Fernando Leote de Almeida e Costa.

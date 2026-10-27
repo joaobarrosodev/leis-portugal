@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:379476:por
+title: Despacho Normativo n.º 271/82
+short_title: null
+summary: Altera o n.º 2 do Despacho Normativo n.º 169/82, de 14 de Agosto - Inclui no Programa de Investimentos do Sector
+  Empresarial do Estado para 1982 a Companhia das Lezírias, E. P.
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas
+proposing_entity: null
+official_number: 271/82
+official_date: null
+publication_date: '1982-12-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 282/1982, Série I de 1982-12-07
+  number: '282'
+  series: I
+  supplement: null
+  pages: 4044 - 4044
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/12/28200/40444044.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '379476'
+  dre_path: /dr/detalhe/despacho-normativo/271-1982-379476
+  internal: pt:dre:379476:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/271-1982-379476
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/271-1982-379476
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:19:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6d9cea8b5085cc5829b151d3f283fc124b2ee22448d11a3c9b9f5e8ffe088639
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:19:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Companhia das Lezírias
+- Investimento Público
+- Pisee
+- Setor Empresarial do Estado
+relationships:
+- type: cites
+  target: pt:dre:397755:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:19:39Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 271/82
+
+1 - A Resolução do Conselho de Ministros n.º 89/81, de 23 de Abril, que distribuiu a verba de 18000 milhões de escudos, atribuiu ao Sector Empresarial do Estado tutelado pelo Ministério da Agricultura, Comércio e Pescas, para aumentos de capital estatutário das empresas, o montante de 201,880 milhões de escudos, encontrando-se por distribuir parte desta verba.
+
+2 - O [Despacho Normativo n.º 169/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/169-1982-397755), de 14 de Agosto, atribuiu à Companhia das Lezírias, E. P., uma verba no montante de 30 milhões de escudos destinada a financiar vários projectos de investimento discriminados no referido despacho.
+
+3 - Verificando-se oportunidade e conveniência de alterar o montante atribuído à empresa para financiamento dos projectos aprovados, face à sua reduzida capacidade de autofinanciamento, determina-se a alteração do n.º 2 do [Despacho Normativo n.º 169/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/169-1982-397755), de 14 de Agosto, o qual passará a ter a seguinte redacção:
+
+A despesa de investimento referida no n.º 1 será financiada por uma dotação para capital no montante de 40 milhões de escudos. Destes, 30 milhões de escudos por conta da dotação de 17000 milhões de escudos inscrita no Orçamento Geral do Estado para 1982 e 10 milhões de escudos por conta do montante residual não distribuído da verba de 201,88 milhões de escudos atribuída ao Ministério da Agricultura, Comércio e Pescas pela Resolução do Conselho de Minisrtos n.º 89/81, de 23 de Abril. Esta e eventualmente outra dotação adicional poderão assumir a forma de empréstimo subordinado ou de quase capital, nos termos que venham a ser definidos.
+
+Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas, 24 de Novembro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - O Ministro da Agricultura, Comércio e Pescas, Basílio Adolfo Mendonça Horta da Franca.

@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222390:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/1990-874224862",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/20-1990-222390",
+ "source_lastmod": "2024-08-06",
+ "versions": [
+  {
+   "date": "1990-09-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "874168239",
+    "874168240",
+    "874168241",
+    "874168242"
+   ]
+  }
+ ],
+ "fragments": {
+  "874168239": {
+   "fragment_id": "874224863",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 20/90\n\nConvenção sobre os Direitos da Criança\n\nA Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar, para ratificação, a Convenção sobre os Direitos da Criança, assinada em Nova Iorque a 26 de Janeiro de 1990, cujo original em inglês e a respectiva tradução em português seguem em anexo."
+  },
+  "874168240": {
+   "fragment_id": "874224864",
+   "type": 4,
+   "heading": "Parte I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte I"
+  },
+  "874168241": {
+   "fragment_id": "874224865",
+   "type": 4,
+   "heading": "Parte II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte II"
+  },
+  "874168242": {
+   "fragment_id": "874224866",
+   "type": 4,
+   "heading": "Parte III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte III"
+  }
+ }
+}

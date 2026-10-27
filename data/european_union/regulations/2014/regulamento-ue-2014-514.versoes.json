@@ -1,0 +1,968 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014R0514:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014R0514-20220412",
+ "dre_path": null,
+ "source_lastmod": "2022-04-12",
+ "versions": [
+  {
+   "date": "2020-10-27",
+   "future": false,
+   "celex": "02014R0514-20201027",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3b0cb2c21397dd36",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "129450152259ff97",
+    "d4057876a56097ee",
+    "f0f8c960bfdbce9b",
+    "30605e358d1348a1",
+    "ca95a287900f312f",
+    "bbdc3f0b9afa02f2",
+    "a875e3493ed4c47d",
+    "1e7a0903d2eed348",
+    "14bd796f9d284e9a",
+    "d6decefb8056cbcc",
+    "5ed7869aa16b4301",
+    "9d52fc7145e321cd",
+    "6e7f0453c64e4a59",
+    "1ecfc79da3f1ac7f",
+    "2af78f2e1e2db78e",
+    "9b406af514eb9164",
+    "8bc980bd8343c2de",
+    "0cbd1219e555ad8b",
+    "4199e3242176d705",
+    "28fcd5ea05560e9c",
+    "809221e37a032fff",
+    "2e0626741d141c60",
+    "d21ca880a954e583",
+    "2a4954bbcc4a1854",
+    "c065a98f1c8f5551",
+    "d8b85a2d55aa6016",
+    "5505d546a741ac47",
+    "1e45f1de6b0a4bbc",
+    "c42c0c2b3cabd519",
+    "de8765c0f953d325",
+    "6cdf0dfcd65259eb",
+    "95b70f5f31b67981",
+    "d7fa520c3e86d776",
+    "505ffb5ac3917c2c",
+    "3e4a509ec0ef9d94",
+    "82ae0001685b9d75",
+    "2a81680a23c8a19c",
+    "f46e435d1fac5dd3",
+    "5f14f83cb94dea28",
+    "b59d2c02e72195bf",
+    "1dcbea2896139fd6",
+    "ac8387eef8dd0a6f",
+    "9d97d20dfcbe66e5",
+    "2aab69d9ea574853",
+    "61deadba206f7e9c",
+    "6f006c896cd1dd65",
+    "113b51ec6dcdd92f",
+    "22c4b89b073f419b",
+    "a0d96fdcf345da6a",
+    "99c44bc4060be47d",
+    "5cc7f5a54bdbb569",
+    "0e60871135ca1830",
+    "0d787b290709111e",
+    "48174eb088592de0",
+    "4a74edc2ca184728",
+    "2a6934845bb7c573",
+    "6099d6bc7d32de6b",
+    "39b94672f8e32c27",
+    "9435f423ce8a9312",
+    "af1d875794b63bf5",
+    "d52932bc5901646c",
+    "6e2cccb7af632f2e",
+    "e9799bfc252af969",
+    "6ec5cbd7da702b7f",
+    "aab6ddf25ef31f82",
+    "028a467fba0a9267",
+    "0f8e3aa915c9412c",
+    "263c0952d532d23a",
+    "40ed6b62e188ac6f",
+    "b1984dd4d8520e69",
+    "f27f07fcc2ee0a4e",
+    "6185276dcecb6ad2",
+    "df1cc8966dc9d595",
+    "63be6c8144715348",
+    "b6ba7b91e17d71c0",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "41b8ab3337843afd",
+    "24ff426a56e47779",
+    "3735e2d89c082ca3",
+    "01323004db6e950b",
+    "49203053c5ec4693"
+   ]
+  },
+  {
+   "date": "2022-04-12",
+   "future": false,
+   "celex": "02014R0514-20220412",
+   "acts": [
+    {
+     "id": "eu:celex:32022R0585:por",
+     "title": "REGULAMENTO (UE) 2022/585 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022",
+     "published": null,
+     "celex": "32022R0585"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 5.º — Proteção dos interesses financeiros da União Europeia",
+    "Altera Artigo 17.º — Princípios gerais de elegibilidade",
+    "Altera Artigo 40.º — Encerramento do programa",
+    "Altera Artigo 48.º — Obrigações dos Estados-Membros",
+    "Altera Artigo 50.º — Princípios",
+    "Altera Artigo 54.º — Relatórios de execução",
+    "Altera Artigo 57.º — Relatórios de avaliação dos Estados-Membros e da Comissão",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "3b0cb2c21397dd36",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "129450152259ff97",
+    "fe6ce237acea3d76",
+    "f0f8c960bfdbce9b",
+    "30605e358d1348a1",
+    "ca95a287900f312f",
+    "bbdc3f0b9afa02f2",
+    "6328062d7b8ffafc",
+    "1e7a0903d2eed348",
+    "14bd796f9d284e9a",
+    "d6decefb8056cbcc",
+    "5ed7869aa16b4301",
+    "9d52fc7145e321cd",
+    "6e7f0453c64e4a59",
+    "1ecfc79da3f1ac7f",
+    "2af78f2e1e2db78e",
+    "9b406af514eb9164",
+    "8bc980bd8343c2de",
+    "0cbd1219e555ad8b",
+    "4199e3242176d705",
+    "28fcd5ea05560e9c",
+    "809221e37a032fff",
+    "2e0626741d141c60",
+    "d21ca880a954e583",
+    "2a4954bbcc4a1854",
+    "4573726f16097e23",
+    "d8b85a2d55aa6016",
+    "5505d546a741ac47",
+    "1e45f1de6b0a4bbc",
+    "c42c0c2b3cabd519",
+    "de8765c0f953d325",
+    "6cdf0dfcd65259eb",
+    "95b70f5f31b67981",
+    "d7fa520c3e86d776",
+    "505ffb5ac3917c2c",
+    "3e4a509ec0ef9d94",
+    "82ae0001685b9d75",
+    "2a81680a23c8a19c",
+    "f46e435d1fac5dd3",
+    "5f14f83cb94dea28",
+    "b59d2c02e72195bf",
+    "1dcbea2896139fd6",
+    "ac8387eef8dd0a6f",
+    "9d97d20dfcbe66e5",
+    "2aab69d9ea574853",
+    "61deadba206f7e9c",
+    "6f006c896cd1dd65",
+    "113b51ec6dcdd92f",
+    "22c4b89b073f419b",
+    "a0d96fdcf345da6a",
+    "99c44bc4060be47d",
+    "5cc7f5a54bdbb569",
+    "4e10c1bef911c20f",
+    "0d787b290709111e",
+    "48174eb088592de0",
+    "4a74edc2ca184728",
+    "2a6934845bb7c573",
+    "6099d6bc7d32de6b",
+    "39b94672f8e32c27",
+    "9435f423ce8a9312",
+    "af1d875794b63bf5",
+    "d52932bc5901646c",
+    "7bbc241d3c8c1926",
+    "e9799bfc252af969",
+    "6ec5cbd7da702b7f",
+    "aab6ddf25ef31f82",
+    "e1ad2e53b78f2105",
+    "0f8e3aa915c9412c",
+    "263c0952d532d23a",
+    "40ed6b62e188ac6f",
+    "b1984dd4d8520e69",
+    "f27f07fcc2ee0a4e",
+    "60512c935d3661dd",
+    "df1cc8966dc9d595",
+    "63be6c8144715348",
+    "e33a0422093dd2ae",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "41b8ab3337843afd",
+    "24ff426a56e47779",
+    "3735e2d89c082ca3",
+    "01323004db6e950b",
+    "29958eb068c83521"
+   ]
+  }
+ ],
+ "fragments": {
+  "3b0cb2c21397dd36": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de abril de 2014\n\nque estabelece disposições gerais aplicáveis ao fundo para o Asilo, a Migração e a Integração e ao instrumento de apoio financeiro à cooperação policial, à prevenção e luta contra a criminalidade e à gestão de crises"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "129450152259ff97": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\nO presente regulamento estabelece as regras gerais para a execução dos regulamentos específicos relativos:\n\na) Ao financiamento de despesas;\n\nb) A parcerias, programas, apresentação de relatórios, acompanhamento e avaliação;\n\nc) A sistemas de gestão e de controlo a serem criados pelos Estados-Membros;\n\nd) Ao apuramento de contas."
+  },
+  "d4057876a56097ee": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Regulamentos específicos»:\n\n— o Regulamento (UE) n.º 516/2014 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/67a2c89f-2e43-11eb-b27b-01aa75ed71a1.0020.02/DOC_1#E0001)),\n\n— o Regulamento (UE) n.º 513/2014 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/67a2c89f-2e43-11eb-b27b-01aa75ed71a1.0020.02/DOC_1#E0002)), e\n\n— qualquer outro regulamento relativo à aplicação do presente regulamento.\n\nb) «Programação», o processo de organização, de tomada de decisões e de financiamento em várias fases com vista a executar, numa base plurianual, a ação conjunta da União e dos Estados-Membros para realizar os objetivos dos regulamentos específicos;\n\nc) «Ação», o projeto ou grupo de projetos selecionado pela autoridade responsável pelo programa nacional em questão, ou sob a sua responsabilidade, que contribui para os objetivos gerais e específicos visados pelos regulamentos específicos;\n\nd) «Ação da União», uma ação transnacional ou qualquer ação com especial interesse para a União, tal como definida nos regulamentos específicos;\n\ne) «Projeto», os meios práticos e específicos aplicados na execução da totalidade ou parte de uma ação por um beneficiário de uma contribuição da União;\n\nf) «Ajuda de emergência», um projeto ou grupo de projetos visando enfrentar uma situação de emergência, tal como definida nos regulamentos específicos;\n\ng) «Beneficiário», o destinatário de uma contribuição da União ao abrigo de um projeto, quer se trate de um organismo público ou privado, de organizações internacionais ou do Comité Internacional da Cruz Vermelha (CICV), ou a Federação Internacional das Sociedades Nacionais da Cruz Vermelha e do Crescente Vermelho."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "30605e358d1348a1": {
+   "fragment_id": "PRINCÍPIOS DE INTERVENÇÃO",
+   "type": "divisao",
+   "heading": "PRINCÍPIOS DE INTERVENÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRINCÍPIOS DE INTERVENÇÃO"
+  },
+  "ca95a287900f312f": {
+   "fragment_id": "Artigo 3.º — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios gerais\n\n1. Os regulamentos específicos disponibilizam, através dos programas nacionais, de ações da União e da ajuda de emergência, um apoio que completa a intervenção nacional, regional e local, tendo em vista concretizar os objetivos da União do qual resulte valor acrescentado para a União.\n\n2. A Comissão e os Estados-Membros asseguram que o apoio disponibilizado ao abrigo dos regulamentos específicos e pelos Estados-Membros é coerente com as atividades, políticas e prioridades relevantes da União e complementa outros instrumentos financeiros da União, tendo simultaneamente em conta a situação específica de cada Estado-Membro.\n\n3. O apoio disponibilizado ao abrigo dos regulamentos específicos é executado em estreita cooperação entre a Comissão e os Estados-Membros.\n\n4. Em conformidade com as respetivas competências, a Comissão e os Estados-Membros, juntamente com o Serviço Europeu para a Ação Externa (SEAE) no que diz respeito a ações realizadas em países terceiros ou com estes relacionadas, asseguram a coordenação entre o presente regulamento e os regulamentos específicos, bem como com outras políticas, estratégias e instrumentos relevantes da União, incluindo os abrangidos pelo quadro da ação externa da União.\n\n5.\n\nA Comissão e os Estados-Membros, juntamente com o SEAE se for caso disso, asseguram que as ações realizadas em países terceiros ou com estes relacionadas são realizadas em sinergia e de forma coerente com outras ações realizadas fora da União apoiadas por instrumentos da União. Asseguram, designadamente, que essas ações:\n\na) São coerentes com a política externa da União, respeitam o princípio da coerência das políticas para o desenvolvimento e são coerentes com os documentos de programação estratégica para o país ou a região em causa;\n\nb) Estão centradas em medidas não orientadas para o desenvolvimento;\n\nc) Servem os interesses das políticas internas da União e são coerentes com atividades exercidas dentro da União.\n\n6. A Comissão e os Estados-Membros aplicam o princípio da boa gestão financeira, em consonância com os princípios da economia, da eficiência e da eficácia, como previsto no artigo 30.º do Regulamento (UE, Euratom) n.º 966/2012.\n\n7. A Comissão e os Estados-Membros asseguram a eficácia do apoio disponibilizado ao abrigo dos regulamentos específicos, designadamente através do acompanhamento, da apresentação de relatórios e da avaliação.\n\n8. A Comissão e os Estados-Membros exercem as suas competências no que diz respeito ao presente regulamento e aos regulamentos específicos procurando reduzir os encargos administrativos para os beneficiários, os Estados-Membros e a Comissão, tendo em conta o princípio da proporcionalidade."
+  },
+  "bbdc3f0b9afa02f2": {
+   "fragment_id": "Artigo 4.º — Conformidade com o direito da União e o direito nacional",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Conformidade com o direito da União e o direito nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conformidade com o direito da União e o direito nacional\n\nAs ações financiadas pelos regulamentos específicos devem ser conformes com o direito da União e o direito nacional aplicável."
+  },
+  "a875e3493ed4c47d": {
+   "fragment_id": "Artigo 5.º — Proteção dos interesses financeiros da União Europeia",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Proteção dos interesses financeiros da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Proteção dos interesses financeiros da União Europeia\n\n1. No quadro da execução das medidas financiadas ao abrigo do presente regulamento e dos regulamentos específicos, a Comissão toma medidas adequadas que garantam a proteção dos interesses financeiros da União Europeia mediante a aplicação de medidas preventivas da fraude, da corrupção e de outras atividades ilegais, a realização de verificações eficazes, a recuperação dos montantes pagos indevidamente, se forem detetadas irregularidades, e, se for caso disso, a aplicação de sanções administrativas e financeiras efetivas, proporcionadas e dissuasivas.\n\n2. Os Estados-Membros agem para prevenir, detetar e corrigir as irregularidades e recuperar os montantes indevidamente pagos, juntamente com os eventuais juros de mora. Os Estados-Membros notificam à Comissão essas irregularidades, mantendo-a informada da evolução significativa dos procedimentos administrativos e judiciais conexos.\n\n3. Sempre que um montante indevidamente pago a um beneficiário não possa ser recuperado, como resultado de incumprimento ou negligência do Estado-Membro, compete ao Estado-Membro reembolsar o montante em causa ao orçamento da União.\n\n4. Os Estados-Membros garantem uma prevenção eficaz contra fraudes, nomeadamente nos domínios em que existe um nível de risco mais elevado. Esta prevenção deve ter efeito dissuasivo, tendo em conta os benefícios, bem como a proporcionalidade das medidas.\n\n5. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 58.º, no que diz respeito às obrigações dos Estados-Membros especificadas nos n.^os^ 2 e 3 do presente artigo.\n\n6. A Comissão estabelece, através de atos de execução, a frequência da comunicação de irregularidades e o formato de relatório a utilizar. Esses atos de execução são adotados de acordo com o procedimento consultivo a que se refere o artigo 59.º, n.º 2,\n\n7. A Comissão ou seus representantes e o Tribunal de Contas dispõem de poderes de auditoria, com base em documentos e no local, sobre todos os beneficiários de subvenções, contratantes e subcontratantes que tenham recebido fundos da União ao abrigo do presente regulamento e dos regulamentos específicos.\n\n8. O OLAF pode efetuar inquéritos, incluindo inspeções e verificações no local de acordo com as disposições e os procedimentos previstos no Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/67a2c89f-2e43-11eb-b27b-01aa75ed71a1.0020.02/DOC_1#E0003)), e no Regulamento (Euratom, CE) n.º 2185/96 ([^4^](http://publications.europa.eu/resource/cellar/67a2c89f-2e43-11eb-b27b-01aa75ed71a1.0020.02/DOC_1#E0004)) do Conselho a fim de comprovar a existência de fraude, corrupção ou quaisquer outras atividades ilegais lesivas dos interesses financeiros da União em ligação com um acordo ou decisão de subvenção ou com um contrato financiado ao abrigo do presente regulamento e dos regulamentos específicos.\n\n9. Sem prejuízo dos n.^os^ 1, 7 e 8, os acordos de cooperação com países terceiros e organizações internacionais, os contratos, os acordos de subvenção e as decisões de subvenção decorrentes da execução do presente regulamento e dos regulamentos específicos contêm disposições que conferem expressamente à Comissão, ao Tribunal de Contas e ao OLAF poderes para realizar tais auditorias e inquéritos, de acordo com as respetivas competências."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "14bd796f9d284e9a": {
+   "fragment_id": "QUADRO FINANCEIRO PARA AS AÇÕES DA UNIÃO, A AJUDA DE EMERGÊNCIA E A ASSISTÊNCIA TÉCNICA",
+   "type": "divisao",
+   "heading": "QUADRO FINANCEIRO PARA AS AÇÕES DA UNIÃO, A AJUDA DE EMERGÊNCIA E A ASSISTÊNCIA TÉCNICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUADRO FINANCEIRO PARA AS AÇÕES DA UNIÃO, A AJUDA DE EMERGÊNCIA E A ASSISTÊNCIA TÉCNICA"
+  },
+  "d6decefb8056cbcc": {
+   "fragment_id": "Artigo 6.º — Quadro de execução",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Quadro de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Quadro de execução\n\n1. A Comissão estabelece o montante global disponível para as ações da União, a ajuda de emergência e a assistência técnica por iniciativa da Comissão, dentro dos limites das dotações anuais do orçamento da União.\n\n2. A Comissão adota, mediante atos de execução, o programa de trabalho para as ações da União e a ajuda de emergência. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 59.º, n.º 3.\n\n3. A fim de assegurar em tempo útil a disponibilidade de recursos, a Comissão pode adotar separadamente um programa de trabalho para a ajuda de emergência.\n\n4. As ações da União, a ajuda de emergência e a assistência técnica por iniciativa da Comissão podem ser executadas quer diretamente pela Comissão ou através de agências de execução, quer indiretamente, por entidades ou pessoas que não sejam Estados-Membros, nos termos do artigo 60.º do Regulamento (UE, Euratom) n.º 966/2012."
+  },
+  "5ed7869aa16b4301": {
+   "fragment_id": "Artigo 7.º — Ajuda de emergência",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Ajuda de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ajuda de emergência\n\n1. Em resposta a uma situação de emergência, tal como definida nos regulamentos específicos, a Comissão pode decidir prestar ajuda de emergência. Nesses casos, informa atempadamente o Parlamento Europeu e o Conselho.\n\n2. Dentro dos limites dos recursos disponíveis, a ajuda de emergência pode ascender a 100 % das despesas elegíveis.\n\n3. A ajuda de emergência pode consistir numa ajuda nos Estados-Membros e nos países terceiros de acordo com os objetivos e as ações definidos nos regulamentos específicos.\n\n4. A ajuda de emergência pode financiar despesas que tenham incorrido antes da data de apresentação do pedido de subvenção ou do pedido de ajuda, mas não antes de 1 de janeiro de 2014, quando necessário à execução da ação.\n\n5. A ajuda de emergência pode assumir a forma de subvenções concedidas diretamente a agências da União."
+  },
+  "9d52fc7145e321cd": {
+   "fragment_id": "Artigo 8.º — Ações da União e ajuda de emergência em países terceiros ou com estes relacionadas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Ações da União e ajuda de emergência em países terceiros ou com estes relacionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ações da União e ajuda de emergência em países terceiros ou com estes relacionadas\n\n1. A Comissão pode decidir financiar ações da União e ajudas de emergência em países terceiros ou com estes relacionadas, em conformidade com os objetivos e as ações definidos nos regulamentos específicos.\n\n2.\n\nCaso essas ações sejam executadas diretamente, podem apresentar pedidos de subvenção as seguintes entidades:\n\na) Estados-Membros;\n\nb) Países terceiros, em casos devidamente justificados, sempre que seja necessária uma subvenção para a consecução dos objetivos do presente regulamento e dos regulamentos específicos;\n\nc) Organismos conjuntos criados pelos países terceiros e pela União ou pelos Estados-Membros;\n\nd) Organizações internacionais, incluindo organizações regionais, organismos, serviços ou missões da ONU, instituições financeiras internacionais, bancos de desenvolvimento, bem como instituições de jurisdição internacional, na medida em que contribuam para os objetivos do(s) regulamento(s) específico(s) em causa;\n\ne) O CICV e a Federação Internacional das Sociedades Nacionais da Cruz Vermelha e do Crescente Vermelho;\n\nf) Organizações não governamentais estabelecidas e registadas na União e nos países associados à execução, à aplicação e ao desenvolvimento do acervo de Schengen;\n\ng) Agências da União para a ajuda de emergência."
+  },
+  "6e7f0453c64e4a59": {
+   "fragment_id": "Artigo 9.º — Assistência técnica por iniciativa da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Assistência técnica por iniciativa da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Assistência técnica por iniciativa da Comissão\n\n1. Por iniciativa da Comissão ou em seu nome, os regulamentos específicos podem apoiar as medidas de elaboração, acompanhamento, assistência administrativa e técnica, avaliação, auditoria e controlo e as atividades que sejam necessárias à execução do presente regulamento e dos regulamentos específicos.\n\n2.\n\nAs medidas e atividades a que se refere o n.º 1 podem incluir:\n\na) Assistência na elaboração e apreciação de projetos;\n\nb) Apoio ao reforço institucional e das capacidades administrativas com vista a uma gestão eficaz do presente regulamento e dos regulamentos específicos;\n\nc) Medidas relacionadas com a análise, gestão, acompanhamento, intercâmbio de informações e aplicação do presente regulamento e dos regulamentos específicos, bem como medidas relativas à execução de sistemas de controlo e de assistência técnica e administrativa;\n\nd) Avaliações, relatórios de peritos, estatísticas e estudos, incluindo os de caráter geral, relativos ao funcionamento dos regulamentos específicos;\n\ne) Ações destinadas à divulgação de informações, apoio à organização em rede, realização de atividades de comunicação, sensibilização, promoção da cooperação e intercâmbio de experiências, inclusivamente com os países terceiros. A fim de melhorar a eficácia em termos de comunicação com o público e as sinergias entre as atividades de comunicação realizadas por iniciativa da Comissão, os recursos afetados às ações de comunicação ao abrigo do presente regulamento contribuem igualmente para a comunicação institucional sobre as prioridades políticas da União, na medida em que estejam relacionadas com os objetivos gerais do presente regulamento e dos regulamentos específicos;\n\nf) Instalação, atualização, funcionamento e interligação de sistemas informatizados de gestão, acompanhamento, auditoria, controlo e avaliação;\n\ng) Conceção de um quadro comum para o acompanhamento e a avaliação, bem como de um sistema de indicadores, tendo em conta, se adequado, indicadores nacionais;\n\nh) Ações destinadas a melhorar os métodos de avaliação e o intercâmbio de informações sobre práticas de avaliação;\n\ni) Conferências, seminários, grupos de trabalho e outras ações comuns de formação e informação relativas à execução do presente regulamento e dos regulamentos específicos destinados às autoridades competentes e aos beneficiários;\n\nj) Ações relacionadas com a deteção e prevenção de fraudes;\n\nk) Ações relacionadas com auditorias.\n\n3. As medidas e atividades a que se refere o n.º 1 podem abranger também os quadros financeiros anteriores e subsequentes."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "2af78f2e1e2db78e": {
+   "fragment_id": "PROGRAMAS NACIONAIS",
+   "type": "divisao",
+   "heading": "PROGRAMAS NACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROGRAMAS NACIONAIS"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "8bc980bd8343c2de": {
+   "fragment_id": "Quadro de programação e de execução",
+   "type": "divisao",
+   "heading": "Quadro de programação e de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro de programação e de execução"
+  },
+  "0cbd1219e555ad8b": {
+   "fragment_id": "Artigo 10.º — Programação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Programação\n\nOs objetivos dos regulamentos específicos são realizados no quadro da programação plurianual dos Estados-Membros para o período de 2014 a 2020, sob reserva de uma revisão intercalar nos termos do artigo 15.º."
+  },
+  "4199e3242176d705": {
+   "fragment_id": "Artigo 11.º — Intervenção subsidiária e proporcional",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Intervenção subsidiária e proporcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Intervenção subsidiária e proporcional\n\n1. Os Estados-Membros e as suas autoridades competentes a que se refere o artigo 25.º são responsáveis pela execução dos programas e pela realização das suas funções ao abrigo do presente regulamento e dos regulamentos específicos ao nível territorial adequado, de acordo com o quadro institucional, jurídico e financeiro do Estado-Membro e sob reserva do cumprimento do presente regulamento e dos regulamentos específicos.\n\n2. As regras de execução e de utilização do apoio ao abrigo dos regulamentos específicos, e nomeadamente os recursos financeiros e administrativos necessários para a apresentação de relatórios, avaliação, gestão e controlo, devem ter em conta o princípio da proporcionalidade, em função do apoio atribuído, reduzindo assim os encargos administrativos e facilitando a execução eficiente."
+  },
+  "28fcd5ea05560e9c": {
+   "fragment_id": "Artigo 12.º — Parceria",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Parceria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Parceria\n\n1. Cada Estado-Membro organiza, de acordo com as regras e práticas nacionais e sob reserva dos eventuais requisitos de segurança aplicáveis, uma parceria com as autoridades e os organismos competentes a fim de desempenhar as tarefas previstas no n.º 3. A parceria é constituída pelas autoridades públicas relevantes a nível nacional, regional e local, se aplicável. Inclui também, se tal for considerado adequado, organizações internacionais relevantes, organizações não governamentais e parceiros sociais.\n\n2. A parceria é conduzida no pleno respeito das competências institucionais, jurídicas e financeiras de cada categoria de parceiros.\n\n3. O Estado-Membro associa a parceria à elaboração, execução, acompanhamento e avaliação dos programas nacionais. A composição da parceria pode variar em diferentes fases de programação.\n\n4. Cada Estado-Membro institui um comité de acompanhamento para apoiar a execução dos programas nacionais.\n\n5. A Comissão pode dar orientações sobre o acompanhamento dos programas nacionais e, se necessário e com o acordo do Estado-Membro em causa, pode participar a título consultivo nos trabalhos do comité de acompanhamento."
+  },
+  "809221e37a032fff": {
+   "fragment_id": "Artigo 13.º — Diálogo político",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Diálogo político",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Diálogo político\n\n1. A fim de facilitar a elaboração dos programas nacionais, cada Estado-Membro e a Comissão mantêm um diálogo a nível de altos funcionários, tendo em conta o calendário indicativo relevante previsto no artigo 14.º. Esse diálogo centra-se nos resultados globais a alcançar através dos programas nacionais para dar resposta às necessidades e prioridades dos Estados-Membros nos domínios de intervenção abrangidos pelo regulamento específico tendo em conta a situação inicial do Estado-Membro em causa e os objetivos dos regulamentos específicos. Esse diálogo constitui também uma oportunidade para uma troca de pontos de vista sobre as ações da União. O resultado do diálogo servirá de guia para a elaboração e aprovação dos programas nacionais e incluirá uma indicação da data prevista para apresentação à Comissão do programa nacional por parte do Estado-Membro, de modo a que o programa possa ser adotado em tempo útil. Esse resultado fica exarado numa ata aprovada.\n\n2. As ações a executar nos países terceiros e com estes relacionadas não são diretamente orientadas para o desenvolvimento, sendo conveniente que o diálogo político procure manter a total coerência com os princípios e objetivos gerais da ação externa da União e da política externa relativa ao país ou à região em causa.\n\n3. Após a conclusão dos diálogos políticos, a Comissão informa o Parlamento Europeu do resultado global.\n\n4. Se tal for considerado conveniente por um Estado-Membro e pela Comissão, o diálogo político pode ser novamente encetado após a revisão intercalar a que se refere o artigo 15.º, a fim de reavaliar as necessidades desse Estado-Membro e as prioridades da União."
+  },
+  "2e0626741d141c60": {
+   "fragment_id": "Artigo 14.º — Elaboração e aprovação dos programas nacionais",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Elaboração e aprovação dos programas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Elaboração e aprovação dos programas nacionais\n\n1. Cada Estado-Membro propõe, com base no resultado do diálogo político a que se refere o artigo 13.º, n.º 1, um programa nacional plurianual em conformidade com os regulamentos específicos.\n\n2.\n\nCada programa nacional proposto cobre os exercícios financeiros do período compreendido entre 1 de janeiro de 2014 e 31 de dezembro de 2020 e inclui os seguintes elementos:\n\na) Uma descrição da situação inicial no Estado-Membro, acompanhada das informações factuais necessárias para uma correta avaliação das necessidades;\n\nb) Uma análise das necessidades do Estado-Membro e dos objetivos nacionais definidos para responder a essas necessidades durante o período abrangido pelo programa;\n\nc) Uma estratégia adequada que identifique os objetivos a atingir com o apoio do orçamento da União, incluindo as metas para a sua consecução, um calendário indicativo e exemplos de ações previstas para a concretização desses objetivos;\n\nd) Uma descrição da forma como são contemplados os objetivos dos regulamentos específicos;\n\ne) Uma descrição dos mecanismos que asseguram a coordenação entre os instrumentos estabelecidos pelos regulamentos específicos e outros instrumentos nacionais e da União;\n\nf) Informações sobre o quadro de acompanhamento e de avaliação a criar e os indicadores a utilizar para aferir os progressos na execução dos objetivos visados relativamente à situação inicial no Estado-Membro;\n\ng) As disposições de execução aplicáveis ao programa nacional, incluindo a identificação das autoridades competentes, e uma descrição sucinta do sistema de gestão e de controlo previsto;\n\nh) Uma descrição sucinta da abordagem escolhida para a execução do princípio de parceria estabelecido no artigo 12.º;\n\ni) Um projeto de plano de financiamento com uma discriminação indicativa por cada exercício do período, incluindo uma indicação das despesas de assistência técnica;\n\nj) Os mecanismos e métodos a utilizar para assegurar a divulgação do programa nacional.\n\n3. Os Estados-Membros apresentam à Comissão as suas propostas de programas nacionais o mais tardar três meses após a conclusão do diálogo político a que se refere o artigo 13.º.\n\n4. A Comissão adota, através de atos de execução, o modelo de programas nacionais. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 59.º, n.º 3.\n\n5.\n\nAntes de aprovar uma proposta de programa nacional, a Comissão examina:\n\na) A sua coerência com os objetivos dos regulamentos específicos e o resultado do diálogo político a que se refere o artigo 13.º, n.º 1;\n\nb) A distribuição do financiamento da União pelos objetivos à luz dos requisitos dos regulamentos específicos e, se relevante, a justificação para qualquer desvio das quotas mínimas estabelecidas nos regulamentos específicos;\n\nc) A relevância dos objetivos, metas, indicadores, calendário e exemplos de ações previstas no programa nacional proposto à luz da estratégia proposta pelos Estados-Membros;\n\nd) A relevância das disposições de execução a que se refere o n.º 2, alínea g), à luz das ações previstas;\n\ne) A conformidade do programa proposto com o direito da União;\n\nf) A complementaridade com o apoio prestado por outros fundos da União, incluindo o Fundo Social Europeu;\n\ng) Se tal for aplicável ao abrigo de um regulamento específico, os objetivos e exemplos de ações em países terceiros ou com estes relacionadas, a coerência com os princípios e objetivos gerais da ação externa da União e da política externa relativa ao país ou à região em causa.\n\n6. A Comissão faz as suas observações no prazo de três meses, a partir da data de apresentação da proposta de programa nacional. Se considerar que um programa nacional proposto não é coerente com os objetivos do regulamento específico à luz da estratégia nacional, que o financiamento da União a atribuir a esses objetivos não é suficiente ou que o programa não é conforme com o direito da União, a Comissão convida o Estado-Membro em causa a prestar todas as informações adicionais necessárias e, caso seja necessário, a alterar o programa nacional proposto.\n\n7. A Comissão aprova cada programa nacional o mais tardar cinco meses após a sua apresentação formal pelo Estado-Membro, desde que as eventuais observações feitas pela Comissão tenham sido devidamente tidas em conta.\n\n8. Sem prejuízo do n.º 7, a Comissão informa o Parlamento Europeu do resultado global da aplicação dos n.^os^ 5 e 6, designadamente do cumprimento das percentagens mínimas fixadas para cada objetivo nos regulamentos específicos relevantes ou de eventuais derrogações a essas percentagens.\n\n9. À luz de circunstâncias novas ou imprevistas, por iniciativa da Comissão ou do Estado-Membro em causa, um programa nacional aprovado pode ser reavaliado e, se necessário, revisto para o período de programação remanescente."
+  },
+  "d21ca880a954e583": {
+   "fragment_id": "Artigo 15.º — Revisão intercalar",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Revisão intercalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revisão intercalar\n\n1. Em 2018, a Comissão e cada um dos Estados-Membros procedem à reavaliação da situação à luz dos relatórios de avaliação intercalar apresentados pelos Estados-Membros nos termos do artigo 57.º, n.º 1, alínea a), e da evolução registada nas políticas da União e no Estado-Membro em causa.\n\n2. Na sequência da reavaliação a que se refere o n.º 1 e à luz do resultado da mesma, os programas nacionais podem ser revistos.\n\n3. As regras previstas no artigo 14.º, relativas à elaboração e aprovação dos programas nacionais, são aplicáveis, *mutatis mutandis*, à elaboração e aprovação dos programas nacionais revistos.\n\n4. No termo da revisão intercalar e no âmbito da avaliação intercalar a que se refere o artigo 57.º, n.º 2, alínea a), a Comissão apresenta ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões um relatório sobre a revisão intercalar."
+  },
+  "2a4954bbcc4a1854": {
+   "fragment_id": "Artigo 16.º — Estrutura de financiamento",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Estrutura de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Estrutura de financiamento\n\n1. As contribuições financeiras atribuídas ao abrigo dos programas nacionais assumem a forma de subvenções.\n\n2. As ações que beneficiam do apoio dos programas nacionais são cofinanciadas por entidades públicas ou privadas, não podem ter fins lucrativos e não podem ter financiamento a título de outras fontes a cargo do orçamento da União.\n\n3. A contribuição do orçamento da União não pode exceder 75 % do total das despesas elegíveis de um projeto.\n\n4. A contribuição do orçamento da União pode ser aumentada para 90 % relativamente a ações específicas ou prioridades estratégicas, nos termos definidos nos regulamentos específicos.\n\n5. A contribuição do orçamento da União pode ser aumentada para 90 % em circunstâncias excecionais devidamente justificadas, por exemplo quando, devido à pressão económica sobre o orçamento nacional, tal aumento for indispensável à execução dos projetos e à consecução dos objetivos do programa nacional.\n\n6. A contribuição do orçamento da União para a assistência técnica por iniciativa dos Estados-Membros pode ascender a 100 % do total das despesas elegíveis."
+  },
+  "c065a98f1c8f5551": {
+   "fragment_id": "Artigo 17.º — Princípios gerais de elegibilidade",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Princípios gerais de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Princípios gerais de elegibilidade\n\n1. A elegibilidade da despesa é determinada de acordo com as regras nacionais, exceto quando sejam estabelecidas regras específicas no presente regulamento ou nos regulamentos específicos.\n\n2.\n\nNos termos dos regulamentos específicos, para ser elegível a despesa deve obrigatoriamente:\n\na) Enquadrar-se no âmbito dos regulamentos específicos e dos seus objetivos;\n\nb) Ser necessária à execução das atividades do projeto em causa;\n\nc) Ser razoável e respeitar o princípio da boa gestão financeira, em especial em termos de relação qualidade-preço e de relação custo-eficácia.\n\n3.\n\nA despesa é elegível para financiamento ao abrigo do regulamento específico se:\n\na) Tiver sido incorrida por um beneficiário entre 1 de janeiro de 2014 e 31 de dezembro de 2022; e\n\nb) Tiver sido efetivamente paga pela autoridade responsável designada entre 1 de janeiro de 2014 e 30 de junho de 2023.\n\n4. A título de derrogação do n.º 3, a despesa paga em 2014 é também elegível se tiver sido paga pela autoridade responsável antes de esta ser formalmente designada nos termos do artigo 26.º, desde que os sistemas de gestão e controlo aplicados antes da designação formal sejam essencialmente idênticos ao sistema vigente após a designação formal da autoridade responsável.\n\n5. As despesas incluídas nos pedidos de pagamento apresentados pelos beneficiários à autoridade responsável são comprovadas mediante faturas ou documentos contabilísticos com valor probatório equivalente, exceto no que diz respeito às formas de apoio a que se refere o artigo 18.º, n.º 1, alíneas b), c) e d). Para estas formas de apoio, em derrogação do n.º 3 do presente artigo, os montantes incluídos no pedido de pagamento correspondem aos custos reembolsados ao beneficiário pela autoridade responsável.\n\n6. As receitas líquidas diretamente geradas por um projeto durante a sua execução e que não tenham sido tidas em conta no momento da aprovação do projeto são deduzidas das despesas elegíveis do projeto o mais tardar no pedido de pagamento final apresentado pelo beneficiário."
+  },
+  "d8b85a2d55aa6016": {
+   "fragment_id": "Artigo 18.º — Despesas elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Despesas elegíveis\n\n1.\n\nAs despesas elegíveis podem ser reembolsadas segundo as seguintes formas:\n\na) Reembolso dos custos elegíveis efetivamente incorridos e pagos, bem como, se aplicável, amortização;\n\nb) Tabelas normalizadas de custos unitários;\n\nc) Montantes fixos;\n\nd) Financiamento a taxas fixas determinado pela aplicação de uma percentagem a uma ou mais categorias definidas de custos.\n\n2. As opções a que se refere o n.º 1 podem ser combinadas se cada opção cobrir diferentes categorias de custos ou se forem utilizadas para diferentes projetos que façam parte de uma mesma ação ou para fases sucessivas de uma ação.\n\n3. Sem um projeto for exclusivamente executado através da contratação pública de obras, bens ou serviços, só é aplicável o n.º 1, alínea a). Se a contratação pública no âmbito de um projeto for limitada a determinadas categorias de custos, podem ser aplicadas todas as opções a que se refere o n.º 1.\n\n4.\n\nOs montantes a que se refere o n.º 1, alíneas b), c) e d), são estabelecidos de um dos seguintes modos:\n\na) Um método de cálculo justo, equitativo e verificável, baseado:\n\ni) em dados estatísticos ou noutra informação objetiva;\n\nii) nos dados históricos verificados dos beneficiários individuais; ou\n\niii) na aplicação das práticas habituais de contabilidade dos custos dos beneficiários individuais.\n\nb) De acordo com as regras de aplicação da correspondente tabela de custos unitários, montantes fixos e taxas fixas aplicáveis noutras políticas da União para o mesmo tipo de projeto e de beneficiário;\n\nc) De acordo com as regras de aplicação da correspondente tabela de custos unitários, montantes fixos e taxas fixas aplicáveis no âmbito de regimes de subvenções integralmente financiados pelo Estado-Membro em causa para o mesmo tipo de projeto e de beneficiário.\n\n5. O documento que estabelece as condições de apoio para cada projeto define o método a aplicar para determinar os custos do projeto e as condições de pagamento da subvenção.\n\n6.\n\nSe a execução de um projeto gerar custos indiretos, esses custos podem ser calculados com base numa taxa fixa de um dos seguintes modos:\n\na) Uma taxa fixa até 25 % dos custos diretos elegíveis, desde que a taxa seja calculada com base num método de cálculo justo, equitativo e verificável ou num método aplicado no âmbito de regimes de subvenção integralmente financiados pelo Estado-Membro em causa para o mesmo tipo de projeto e de beneficiário;\n\nb) Uma taxa fixa até 15 % dos custos diretos elegíveis com pessoal sem exigência de o Estado-Membro em causa efetuar um cálculo para determinar a taxa aplicável;\n\nc) Uma taxa fixa aplicada aos custos diretos elegíveis, com base nos métodos existentes e nas taxas correspondentes, aplicáveis noutras políticas da União para o mesmo tipo de projeto e de beneficiário.\n\n7. Para efeitos da determinação dos custos com pessoal relacionados com a execução de uma operação, a taxa horária aplicável pode ser calculada dividindo os mais recentes custos anuais brutos documentados com o trabalho por 1 720 horas.\n\n8. Para além dos métodos estipulados no n.º 4, se a contribuição do orçamento da União não exceder 100 000 EUR, os montantes a que se refere o n.º 1, alíneas b), c) e d), podem ser estabelecidos numa base casuística com referência a um projeto de orçamento acordado ex ante pela autoridade responsável.\n\n9.\n\nOs custos de amortização podem ser considerados elegíveis se estiverem reunidas as seguintes condições:\n\na) As regras de elegibilidade do programa nacional preveem essa possibilidade;\n\nb) O montante da despesa está devidamente justificado por documentos comprovativos com valor probatório equivalente à fatura dos custos elegíveis quando reembolsado da forma a que se refere o n.º 1, alínea a).\n\nc) Os custos respeitam exclusivamente ao período de apoio do projeto;\n\nd) O apoio do orçamento da União não contribuiu para a aquisição dos ativos amortizados.\n\n10. Sem prejuízo do artigo 43.º, para efeitos do n.º 8 do presente artigo, os Estados-Membros cuja moeda não seja o euro podem utilizar a taxa de conversão do euro fixada na data de aprovação do projeto ou de assinatura da convenção relativa ao projeto baseada na taxa de câmbio mensal contabilística publicada eletronicamente pela Comissão. A taxa de conversão do euro não pode ser alterada no decurso do projeto."
+  },
+  "5505d546a741ac47": {
+   "fragment_id": "Artigo 19.º — Despesas não elegíveis",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Despesas não elegíveis\n\nOs custos seguintes não são elegíveis para contribuição do orçamento da União ao abrigo dos regulamentos específicos:\n\na) Juros devedores;\n\nb) Aquisição de terrenos não edificados;\n\nc) Aquisição de terrenos edificados, quando o terreno for necessário à execução do projeto, por um montante superior a 10 % do total das despesas elegíveis do projeto em causa;\n\nd) Imposto sobre o valor acrescentado (IVA), exceto no caso de este não ser reembolsável nos termos da legislação nacional em matéria de IVA."
+  },
+  "1e45f1de6b0a4bbc": {
+   "fragment_id": "Artigo 20.º — Assistência técnica por iniciativa dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Assistência técnica por iniciativa dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Assistência técnica por iniciativa dos Estados-Membros\n\n1. Por iniciativa de um Estado-Membro, e para cada programa nacional, os regulamentos específicos podem apoiar ações de elaboração, gestão, acompanhamento, avaliação, informação e comunicação, criação de redes, controlo e auditoria, bem como medidas para reforçar a capacidade administrativa tendo em vista a aplicação do presente regulamento e dos regulamentos específicos.\n\n2.\n\nAs medidas a que se refere o n.º 1 podem incluir:\n\na) Despesas relativas à elaboração, seleção, apreciação, gestão e acompanhamento do programa, das ações ou dos projetos;\n\nb) Despesas relativas a auditorias e controlos no local das ações ou dos projetos;\n\nc) Despesas relativas à avaliação do programa, das ações ou dos projetos;\n\nd) Despesas relativas à informação, divulgação e transparência no âmbito do programa, das ações ou dos projetos, incluindo despesas resultantes da aplicação do artigo 53.º e despesas com campanhas de informação e sensibilização sobre o objetivo do programa, organizadas, nomeadamente, a nível local;\n\ne) Despesas de aquisição, instalação e manutenção de sistemas informáticos de gestão, de acompanhamento e avaliação do presente regulamento e dos regulamentos específicos;\n\nf) Despesas com reuniões de comités e subcomités de acompanhamento respeitantes à execução das ações; incluindo despesas com peritos e outros participantes nesses comités e incluindo participantes de países terceiros se a sua presença for essencial para a execução eficaz dos programas, das ações ou dos projetos;\n\ng) Despesas para reforço da capacidade administrativa tendo em vista a execução do presente regulamento e dos regulamentos específicos.\n\n3. Os Estados-Membros podem utilizar as dotações para apoiar ações destinadas a reduzir os encargos administrativos dos beneficiários e das autoridades competentes a que se refere o artigo 25.º, incluindo sistemas de intercâmbio eletrónico de dados, bem como ações destinadas a reforçar a capacidade das autoridades dos Estados-Membros e dos beneficiários para gerir e utilizar o apoio disponibilizado ao abrigo dos regulamentos específicos.\n\n4. As ações podem abranger também os quadros financeiros anteriores e subsequentes.\n\n5. Quando uma ou mais autoridades competentes forem comuns a mais do que um programa nacional, as dotações para despesas de assistência técnica relativas a cada um dos programas em causa podem ser parcial ou integralmente agregadas."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "de8765c0f953d325": {
+   "fragment_id": "Gestão e controlo",
+   "type": "divisao",
+   "heading": "Gestão e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Gestão e controlo"
+  },
+  "6cdf0dfcd65259eb": {
+   "fragment_id": "Artigo 21.º — Princípios gerais dos sistemas de gestão e controlo",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Princípios gerais dos sistemas de gestão e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Princípios gerais dos sistemas de gestão e controlo\n\nPara a execução do seu programa nacional, cada Estado-Membro institui sistemas de gestão e de controlo, que assegurem:\n\na) A descrição das funções de cada autoridade envolvida na gestão e no controlo, e a repartição de funções dentro de cada autoridade;\n\nb) O respeito pelo princípio da separação de funções entre essas autoridades e no âmbito das mesmas;\n\nc) Procedimentos para garantir a correção e a regularidade da despesa declarada;\n\nd) Sistemas informáticos para efeitos de contabilidade, registo e transmissão dos dados financeiros e dos dados relativos a indicadores, bem como para efeitos de acompanhamento e apresentação de relatórios;\n\ne) Sistemas de apresentação de relatórios e de acompanhamento, sempre que a autoridade responsável delegue a execução das tarefas noutro organismo;\n\nf) Mecanismos para auditar o funcionamento dos sistemas de gestão e de controlo;\n\ng) Sistemas e procedimentos para garantir um registo adequado das auditorias;\n\nh) A prevenção, deteção e correção de irregularidades, incluindo fraudes, e a recuperação dos montantes pagos indevidamente, acrescidos de eventuais juros de mora."
+  },
+  "95b70f5f31b67981": {
+   "fragment_id": "Artigo 22.º — Responsabilidades no âmbito da gestão partilhada",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Responsabilidades no âmbito da gestão partilhada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Responsabilidades no âmbito da gestão partilhada\n\nEm conformidade com o princípio da gestão partilhada, os Estados-Membros e a Comissão são responsáveis pela gestão e controlo dos programas nacionais de acordo com as respetivas competências estabelecidas no presente regulamento e nos regulamentos específicos."
+  },
+  "d7fa520c3e86d776": {
+   "fragment_id": "Artigo 23.º — Responsabilidades dos beneficiários",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Responsabilidades dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Responsabilidades dos beneficiários\n\nOs beneficiários cooperam plenamente com a Comissão e com as autoridades competentes quando estas desempenharem funções e tarefas no âmbito do presente regulamento e dos regulamentos específicos."
+  },
+  "505ffb5ac3917c2c": {
+   "fragment_id": "Artigo 24.º — Responsabilidades dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Responsabilidades dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Responsabilidades dos Estados-Membros\n\n1. Os Estados-Membros cumprem as obrigações em matéria de gestão, controlo e auditoria, e assumem as responsabilidades daí decorrentes, que estão estabelecidas nas regras em matéria de gestão partilhada constantes do Regulamento (UE, Euratom) n.º 966/2012 e do presente regulamento.\n\n2. Os Estados-Membros garantem que os seus sistemas de gestão e de controlo dos programas nacionais respeitam o presente regulamento e que esses sistemas funcionam de forma eficaz.\n\n3. Os Estados-Membros afetam recursos adequados para que cada autoridade competente possa desempenhar as suas funções durante todo o período de programação.\n\n4. Os Estados-Membros estabelecem regras e procedimentos transparentes para a seleção e a execução dos projetos nos termos do presente regulamento e dos regulamentos específicos.\n\n5. O intercâmbio oficial de informações entre um Estado-Membro e a Comissão é efetuado através de um sistema eletrónico de intercâmbio de dados. A Comissão estabelece, através de atos de execução, os termos e condições desse sistema eletrónico de intercâmbio de dados. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 59.º, n.º 3."
+  },
+  "3e4a509ec0ef9d94": {
+   "fragment_id": "Artigo 25.º — Autoridades competentes",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Autoridades competentes\n\n1.\n\nPara efeitos do presente regulamento e dos regulamentos específicos, as autoridades competentes são:\n\na) Uma autoridade responsável: um organismo do setor público do Estado-Membro em causa, que é o organismo designado na aceção do artigo 59.º, n.º 3, do Regulamento (UE, Euratom) n.º 966/2012 e que é o único responsável pela boa gestão e controlo do programa nacional e único interlocutor da Comissão;\n\nb) Uma autoridade de auditoria: uma autoridade ou um organismo público nacional, funcionalmente independente da autoridade responsável e que é responsável pela emissão anual do parecer a que se refere o artigo 59.º, n.º 5, segundo parágrafo, do Regulamento (UE, Euratom) n.º 966/2012;\n\nc) Se adequado, uma ou mais autoridades delegadas: qualquer organismo público ou privado que desempenhe determinadas funções da autoridade responsável sob a responsabilidade desta última.\n\n2. Cada Estado-Membro estabelece as regras que regem as relações entre as autoridades a que se refere o n.º 1, bem como as relações destas com a Comissão."
+  },
+  "82ae0001685b9d75": {
+   "fragment_id": "Artigo 26.º — Designação das autoridades responsáveis",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Designação das autoridades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Designação das autoridades responsáveis\n\n1. Nos termos do artigo 59.º, n.º 3, do Regulamento (UE, Euratom) n.º 966/2012, os Estados-Membros notificam a Comissão da designação formal, a nível ministerial, das autoridades responsáveis nos Estados-Membros pela gestão e controlo das despesas ao abrigo do presente regulamento, o mais rapidamente possível após a decisão relativa à adoção do programa nacional.\n\n2. A designação a que se refere o n.º 1 é feita sob reserva de o organismo satisfazer os critérios de designação em matéria de ambiente interno, atividades de controlo, informação e comunicação e acompanhamento, estabelecidos no presente regulamento ou nele baseados.\n\n3. A designação da autoridade responsável baseia-se no parecer de um organismo de auditoria, que pode ser a autoridade de auditoria, que avalia a conformidade da autoridade responsável com os critérios de designação. Esse organismo pode ser a instituição pública autónoma responsável pelo acompanhamento, avaliação e auditoria da administração. O organismo de auditoria é funcionalmente independente da autoridade responsável e executa o seu trabalho em conformidade com as normas de auditoria aceites internacionalmente. Nos termos do artigo 59.º, n.º 3, do Regulamento (UE, Euratom) n.º 966/2012, os Estados-Membros podem basear a sua decisão relativa à designação tendo em conta se os sistemas de gestão e controlo são essencialmente idênticos aos existentes no período anterior, e se têm funcionado eficazmente. Se os resultados das auditorias e dos controlos existentes mostrarem que os organismos designados já não cumprem os critérios de designação, os Estados-Membros tomam as medidas necessárias para assegurar que as deficiências na execução das tarefas desses organismos são sanadas, inclusive através da suspensão da designação.\n\n4.\n\nA fim de assegurar o correto funcionamento deste sistema, a Comissão fica habilitada a adotar atos delegados, nos termos do artigo 58.º, no que diz respeito:\n\na) Às condições mínimas para a designação das autoridades responsáveis no que diz respeito ao ambiente interno, às atividades de controlo, à informação e à comunicação, ao acompanhamento, bem como às regras relativas ao processo de concessão e de suspensão da designação;\n\nb) Às regras relativas à supervisão das autoridades responsáveis, bem como ao processo de revisão da sua designação;\n\nc) Às obrigações das autoridades responsáveis no que diz respeito à intervenção pública, bem como ao conteúdo das suas competências em matéria de gestão e de controlo."
+  },
+  "2a81680a23c8a19c": {
+   "fragment_id": "Artigo 27.º — Princípios gerais dos controlos feitos pelas autoridades responsáveis",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Princípios gerais dos controlos feitos pelas autoridades responsáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Princípios gerais dos controlos feitos pelas autoridades responsáveis\n\n1. As autoridades responsáveis fazem controlos administrativos sistemáticos e, tendo em vista obter um nível de fiabilidade suficiente, completam-nos com controlos locais, incluindo se necessário controlos locais sem aviso prévio, das despesas relacionadas com os pedidos de pagamento final dos beneficiários que são declaradas nas contas anuais.\n\n2. No que diz respeito aos controlos locais, a autoridade responsável extrai da totalidade da população de beneficiários a sua amostra de controlo, que inclui, se for caso disso, uma parte aleatória e uma parte com base no risco, de modo a obter uma taxa de erro representativa e um nível mínimo de confiança visando detetar, simultaneamente, erros mais importantes.\n\n3. A autoridade responsável redige um relatório sobre cada controlo local.\n\n4. Se os problemas detetados tiverem um caráter sistémico e, por conseguinte, implicarem um risco para outros projetos, a autoridade responsável assegura que seja feita uma análise mais aprofundada, incluindo controlos adicionais, se necessário, por forma a determinar a dimensão desses problemas e a verificar se a taxa de erro ultrapassa o nível aceitável. As medidas preventivas e corretivas necessárias são tomadas pela autoridade responsável e comunicadas à Comissão no resumo a que se refere o artigo 59.º, n.º 5, segundo parágrafo, alínea b), do Regulamento (UE, Euratom) n.º 966/2012.\n\n5.\n\nA Comissão adota, mediante atos de execução, as regras necessárias para obter uma aplicação uniforme do presente artigo. Essas regras podem consistir, nomeadamente, no seguinte:\n\na) Regras relativas aos controlos administrativos e aos controlos no local, incluindo controlos locais sem aviso prévio, que a autoridade responsável deve realizar nem relação ao cumprimento das obrigações, bem como ao cumprimento dos compromissos e das regras de elegibilidade resultantes da aplicação do presente regulamento e dos regulamentos específicos, incluindo as regras relativas ao período durante o qual os documentos comprovativos devem ser conservados;\n\nb) Regras relativas ao nível mínimo de controlos no local necessários a uma gestão eficiente dos riscos, bem como as condições segundo as quais os Estados-Membros devem reforçar esses controlos ou, pelo contrário, podem reduzi-los quando os sistemas de gestão e de controlo funcionam adequadamente e as taxas de erro se situam a um nível aceitável;\n\nc) Regras e métodos para a apresentação de relatórios sobre os controlos e verificações realizados e respetivos resultados.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 59.º, n.º 3."
+  },
+  "f46e435d1fac5dd3": {
+   "fragment_id": "Artigo 28.º — Pagamento aos beneficiários",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Pagamento aos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Pagamento aos beneficiários\n\nCompete às autoridades responsáveis assegurar que os beneficiários recebem o montante total do apoio público o mais rapidamente possível e na sua totalidade. Não é aplicada nenhuma dedução, retenção, encargo específico ou outro encargo com efeito equivalente que resulte na redução desses montantes para os beneficiários."
+  },
+  "5f14f83cb94dea28": {
+   "fragment_id": "Artigo 29.º — Funções da autoridade de auditoria",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Funções da autoridade de auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Funções da autoridade de auditoria\n\n1. Em apoio do parecer dado nos termos do artigo 59.º do Regulamento (UE, Euratom) n.º 966/2012, a autoridade de auditoria garante que sejam feitas auditorias aos sistemas de gestão e de controlo, bem como a uma amostra adequada das despesas incluídas nas contas anuais. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 58.º do presente regulamento, sobre o estatuto das autoridades de auditoria e às condições que as suas auditorias devem preencher.\n\n2. Se as auditorias forem feitas por um organismo que não seja a autoridade de auditoria, compete a essa autoridade garantir que o organismo em causa tenha a independência funcional e os conhecimentos especializados necessários.\n\n3. A autoridade de auditoria garante que o trabalho de auditoria cumpre as normas de auditoria internacionalmente aceites."
+  },
+  "b59d2c02e72195bf": {
+   "fragment_id": "Artigo 30.º — Cooperação com as autoridades de auditoria",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Cooperação com as autoridades de auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Cooperação com as autoridades de auditoria\n\n1. A Comissão coopera com as autoridades de auditoria, a fim de coordenar os respetivos planos e metodologias de auditoria e procede o mais rapidamente possível ao intercâmbio dos resultados das auditorias feitas aos sistemas de gestão e controlo, tendo em vista utilizar o melhor possível e da forma mais proporcionada os recursos em matéria de controlo e evitar duplicações desnecessárias de esforços.\n\n2. A Comissão e as autoridades de auditoria reúnem-se regularmente para uma troca de pontos de vista sobre as questões relativas à melhoria dos sistemas de gestão e de controlo."
+  },
+  "1dcbea2896139fd6": {
+   "fragment_id": "Artigo 31.º — Controlos e auditorias pela Comissão",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Controlos e auditorias pela Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Controlos e auditorias pela Comissão\n\n1. A Comissão baseia-se nas informações disponíveis, incluindo o procedimento de designação, o pedido de pagamento do saldo anual, conforme referido no artigo 44.º, os relatórios anuais de execução e as auditorias feitas por organismos nacionais e da União, para se certificar de que os Estados-Membros instauraram sistemas de gestão e de controlo conformes com o presente regulamento e de que esses sistemas funcionam eficazmente durante o período de execução dos programas nacionais.\n\n2. Sem prejuízo das auditorias feitas pelos Estados-Membros, os funcionários ou os representantes autorizados da Comissão podem fazer auditorias ou controlos locais mediante pré-aviso mínimo de 12 dias úteis à autoridade nacional competente, exceto em casos urgentes. A Comissão respeita o princípio da proporcionalidade tendo em conta a necessidade de evitar a duplicação injustificada de auditorias ou controlos realizados pelos Estados-Membros, o nível de risco para o orçamento da União e a necessidade de reduzir os encargos administrativos para os beneficiários. Podem participar nessas auditorias ou controlos os funcionários ou representantes autorizados dos Estados-Membros.\n\n3.\n\nAs auditorias ou controlos podem incidir, em especial, sobre:\n\na) A verificação da eficácia dos sistemas de gestão e de controlo de um programa nacional ou de uma parte deste;\n\nb) A conformidade das práticas administrativas com as regras da União;\n\nc) A existência dos documentos justificativos exigidos e a sua correlação com as ações apoiadas ao abrigo dos programas nacionais;\n\nd) As modalidades segundo as quais as ações foram realizadas e controladas;\n\ne) A solidez da gestão financeira das ações e/ou do programa nacional.\n\n4. Os funcionários ou representantes autorizados da Comissão, devidamente mandatados para a realização das auditorias ou controlos no local, têm acesso a todos os registos, documentos e metadados necessários, independentemente do suporte em que se encontrem arquivados, relativos aos projetos e à assistência técnica ou aos sistemas de gestão e de controlo. Os Estados-Membros fornecem, mediante pedido, cópias desses registos, documentos e metadados à Comissão. Os poderes estabelecidos no presente número não prejudicam a aplicação das disposições nacionais que reservam determinados atos a agentes especificamente designados pela legislação nacional. Os funcionários e representantes autorizados da Comissão não participam, inter alia, nas visitas ao domicílio nem nos interrogatórios oficiais de pessoas, realizados ao abrigo da legislação nacional. Têm, contudo, acesso às informações resultantes dessas verificações, sem prejuízo das competências dos tribunais nacionais e no pleno respeito pelos direitos fundamentais dos particulares em causa.\n\n5. A pedido da Comissão e com o acordo do Estado-Membro em causa, as instâncias competentes deste último efetuam controlos complementares ou inquéritos relativos às ações abrangidas pelo presente regulamento. Os agentes da Comissão ou as pessoas por esta mandatadas podem participar nesses controlos. A fim de melhorar os controlos, a Comissão pode, com o acordo dos Estados-Membros em causa, solicita a assistência das autoridades desses Estados-Membros para determinados controlos ou inquéritos.\n\n6. A Comissão pode solicitar a um Estado-Membro que tome as medidas necessárias para assegurar o correto funcionamento dos sistemas de gestão e de controlo ou a regularidade das despesas em conformidade com as regras aplicáveis."
+  },
+  "ac8387eef8dd0a6f": {
+   "fragment_id": "SECÇÃO 3",
+   "type": "divisao",
+   "heading": "SECÇÃO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 3"
+  },
+  "9d97d20dfcbe66e5": {
+   "fragment_id": "Gestão financeira",
+   "type": "divisao",
+   "heading": "Gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Gestão financeira"
+  },
+  "2aab69d9ea574853": {
+   "fragment_id": "Artigo 32.º — Autorizações orçamentais",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Autorizações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Autorizações orçamentais\n\n1. As autorizações orçamentais da União relativas a cada programa nacional são concedidas sob a forma de parcelas anuais durante o período compreendido entre 1 de janeiro de 2014 e 31 de dezembro de 2020.\n\n2. A decisão da Comissão relativa à aprovação de um programa nacional constitui a decisão de financiamento na aceção do artigo 84.º do Regulamento (UE, Euratom) n.º 966/2012 e, uma vez notificada ao Estado-Membro em causa, corresponde a um compromisso jurídico na aceção do mesmo regulamento.\n\n3. Para cada programa nacional, a autorização orçamental para a primeira parcela é concedida logo após a aprovação do programa nacional pela Comissão.\n\n4. As autorizações orçamentais para as parcelas subsequentes são concedidas pela Comissão, antes de 1 de maio de cada ano, com base na decisão a que se refere o n.º 2 do presente artigo, exceto nos casos em que seja aplicável o artigo 16.º do Regulamento (UE, Euratom) n.º 966/2012."
+  },
+  "61deadba206f7e9c": {
+   "fragment_id": "Artigo 33.º — Disposições comuns em matéria de pagamentos",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Disposições comuns em matéria de pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Disposições comuns em matéria de pagamentos\n\n1. Os pagamentos efetuados pela Comissão, relativos à contribuição do orçamento da União para cada programa nacional, têm em conta as dotações orçamentais e as disponibilidades orçamentais. Cada pagamento é imputado à autorização aberta há mais tempo no orçamento em causa.\n\n2. Os pagamentos assumem a forma de um pré-financiamento inicial, pré-financiamento anual, pagamentos do saldo anual e pagamento do saldo final.\n\n3. É aplicável o artigo 90.º do Regulamento (UE, Euratom) n.º 966/2012."
+  },
+  "6f006c896cd1dd65": {
+   "fragment_id": "Artigo 34.º — Acumulação do pré-financiamento inicial e saldos anuais",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Acumulação do pré-financiamento inicial e saldos anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Acumulação do pré-financiamento inicial e saldos anuais\n\n1. O total do pagamento do pré-financiamento inicial e dos pagamentos do saldo anual não pode ultrapassar 95 % da contribuição do orçamento da União para o programa nacional em causa.\n\n2. Caso seja alcançado o limite de 95 %, os Estados-Membros podem continuar a apresentar pedidos de pagamento à Comissão."
+  },
+  "113b51ec6dcdd92f": {
+   "fragment_id": "Artigo 35.º — Disposições em matéria de pré-financiamento",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Disposições em matéria de pré-financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Disposições em matéria de pré-financiamento\n\n1. Na sequência da decisão da Comissão que aprova o programa nacional, a Comissão paga, no prazo de quatro meses, à autoridade responsável designada um montante a título de pré-financiamento inicial para todo o período de programação. Tal montante a título de pré-financiamento inicial representa 4 % da contribuição total do orçamento da União para o programa nacional em causa. O pré-pagamento inicial pode ser dividido em duas frações, em função das disponibilidades orçamentais.\n\n2. No exercício de 2015, é pago antes de 1 de fevereiro um montante de pré-financiamento anual de 3 % da contribuição total do orçamento da União para o programa nacional em causa. Nos exercícios de 2016 a 2022, o montante de pré-financiamento representa 5 % da contribuição total do orçamento da União para o programa nacional em causa.\n\n3. Se um programa nacional for aprovado em 2015 ou posteriormente, o pré-financiamento inicial e o pré-financiamento anual são pagos o mais tardar 60 dias após a aprovação do programa nacional, em função das disponibilidades orçamentais.\n\n4. No caso de alterações à contribuição total do orçamento da União para um programa nacional, o montante inicial bem como o montante do pré-financiamento anual são revistos em conformidade e refletidos na decisão de financiamento.\n\n5. O pré-financiamento pode ser utilizado para fazer pagamentos aos beneficiários no âmbito da execução do programa nacional, bem como para despesas relativas à assistência técnica incorridas pelas autoridades competentes. É rapidamente disponibilizado à autoridade responsável para o efeito."
+  },
+  "22c4b89b073f419b": {
+   "fragment_id": "Artigo 36.º — Apuramento do pré-financiamento",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Apuramento do pré-financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Apuramento do pré-financiamento\n\n1. O montante pago a título de pré-financiamento inicial é integralmente apurado nas contas da Comissão, nos termos do artigo 40.º, o mais tardar aquando do encerramento do programa nacional.\n\n2. O montante pago sob a forma de pré-financiamento anual é apurado nas contas da Comissão nos termos do artigo 39.º.\n\n3. O montante total pago a título de pré-financiamento é reembolsado à Comissão caso não seja apresentado nenhum pedido de pagamento nos termos do artigo 44.º, no prazo de 36 meses a contar da data em que a Comissão procedeu ao pagamento da primeira parcela do pré-financiamento inicial.\n\n4. Os juros gerados pelo pré-financiamento inicial são afetados ao programa nacional em causa e deduzidos do montante das despesas públicas indicadas no pedido de pagamento final."
+  },
+  "a0d96fdcf345da6a": {
+   "fragment_id": "Artigo 37.º — Afetação de receitas internas",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Afetação de receitas internas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Afetação de receitas internas\n\n1.\n\nConsideram-se receitas internas afetadas, na aceção do artigo 21.º do Regulamento (UE, Euratom) n.º 966/2012, os seguintes montantes:\n\ni) montantes que são transferidos para o orçamento da União a título dos artigos 45.º e 47.º do presente regulamento, incluindo os respetivos juros;\n\nii) montantes que são transferidos para o orçamento da União na sequência do encerramento de programas a título do anterior quadro financeiro plurianual, incluindo os respetivos juros.\n\n2. Os montantes referidos no n.º 1 são transferidos para o orçamento da União e, em caso de reutilização, são utilizados em primeiro lugar para financiar despesas no âmbito dos regulamentos específicos."
+  },
+  "99c44bc4060be47d": {
+   "fragment_id": "Artigo 38.º — Definição de exercício",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Definição de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Definição de exercício\n\nPara efeitos do presente regulamento, o exercício a que se refere o artigo 59.º do Regulamento (UE, Euratom) n.º 966/2012 cobre as despesas pagas e as receitas recebidas e apuradas nas contas da autoridade responsável no período compreendido entre 16 de outubro do ano «N-1» e 15 de outubro do ano «N»."
+  },
+  "5cc7f5a54bdbb569": {
+   "fragment_id": "Artigo 39.º — Pagamento do saldo anual",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Pagamento do saldo anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Pagamento do saldo anual\n\n1. A Comissão procede ao pagamento do saldo anual com base no plano de financiamento em vigor, nas contas anuais relativas ao exercício do programa nacional e na correspondente decisão de apuramento de contas.\n\n2. As contas anuais cobrem os pagamentos efetuados pela autoridade responsável durante o exercício, incluindo os pagamentos relativos à assistência técnica, em relação aos quais tenham sido cumpridos os requisitos de controlo a que se refere o artigo 27.º.\n\n3. Em função da disponibilidade orçamental, o saldo anual é pago o mais tardar seis meses depois de as informações e os documentos referidos no artigo 44.º, n.º 1, e no artigo 54.º terem sido considerados admissíveis pela Comissão e de a última conta anual ter sido apurada."
+  },
+  "0e60871135ca1830": {
+   "fragment_id": "Artigo 40.º — Encerramento do programa",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Encerramento do programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Encerramento do programa\n\n1.\n\nOs Estados-Membros apresentam até 31 de dezembro de 2023 os seguintes documentos:\n\na) A informação exigida para as últimas contas anuais, nos termos do artigo 44.º, n.º 1,\n\nb) O pedido de pagamento do saldo final, e\n\nc) O relatório final de execução relativo ao programa nacional, a que se refere o artigo 54.º, n.º 1.\n\n2. Os pagamentos efetuados pela autoridade responsável entre 16 de outubro de 2022 e 30 de junho de 2023 são incluídos nas últimas contas anuais.\n\n3. Após ter recebido os documentos a que se refere o n.º 1, a Comissão paga o saldo final com base no plano de financiamento em vigor, nas últimas contas anuais e na correspondente decisão de apuramento de contas.\n\n4. Em função da disponibilidade orçamental, o saldo final é pago o mais tardar três meses após a data do apuramento de contas do último exercício ou um mês após a data de aceitação do relatório final de execução, consoante a data que for ulterior. Após o pagamento do saldo, os montantes autorizados ainda restantes são anulados pela Comissão no prazo de seis meses, sem prejuízo do disposto no artigo 52.º."
+  },
+  "0d787b290709111e": {
+   "fragment_id": "Artigo 41.º — Interrupção do prazo de pagamento",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Interrupção do prazo de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Interrupção do prazo de pagamento\n\n1.\n\nO prazo de pagamento a contar de um pedido de pagamento pode ser interrompido pelo gestor orçamental delegado, na aceção do Regulamento (UE, Euratom) n.º 966/2012, por um período máximo de seis meses quando, pelo menos, uma das condições seguintes estiver preenchida:\n\na) Na sequência de informações fornecidas por um organismo de auditoria nacional ou da União, existam indícios claros de uma deficiência significativa no funcionamento do sistema de gestão e de controlo;\n\nb) O gestor orçamental delegado tenha de realizar verificações adicionais na sequência de informações alertando para a existência de irregularidades com consequências financeiras graves na despesa declarada num pedido de pagamento;\n\nc) Não seja apresentado um dos documentos exigidos pelo artigo 44.º, n.º 1.\n\nO Estado-Membro pode concordar com a prorrogação do período de interrupção por mais três meses.\n\n2. O gestor orçamental delegado limita a interrupção à parte da despesa coberta pelo pedido de pagamento visado pelos elementos referidos no n.º 1, primeiro parágrafo, a menos que seja impossível identificar a parte da despesa afetada. O gestor orçamental delegado comunica imediatamente o motivo da interrupção ao Estado-Membro e à autoridade responsável, por escrito, e solicita-lhes que corrijam a situação. A interrupção cessa por decisão do gestor orçamental delegado logo que tenham sido tomadas as medidas necessárias."
+  },
+  "48174eb088592de0": {
+   "fragment_id": "Artigo 42.º — Suspensão dos pagamentos",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Suspensão dos pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Suspensão dos pagamentos\n\n1.\n\nO pagamento de parte ou da totalidade do saldo anual pode ser suspenso pela Comissão se:\n\na) O sistema de gestão e de controlo do programa nacional apresentar uma deficiência funcional grave que tenha posto em risco a contribuição da União para o programa nacional e relativamente à qual não tenha sido tomada nenhuma medida corretiva;\n\nb) As despesas indicadas nas contas anuais estiverem associadas a uma irregularidade que tenha tido graves consequências financeiras e não tenha sido corrigida; ou\n\nc) O Estado-Membro não tiver tomado as medidas necessárias para corrigir a situação que deu origem a uma interrupção nos termos do artigo 41.º.\n\n2. A Comissão pode decidir suspender a totalidade ou parte do pagamento do saldo anual após ter dado ao Estado-Membro em causa a possibilidade de apresentar as suas observações.\n\n3. A Comissão põe termo à suspensão da totalidade ou de parte do pagamento do saldo anual quando o Estado-Membro em causa tiver tomado as medidas necessárias para permitir a anulação da suspensão."
+  },
+  "4a74edc2ca184728": {
+   "fragment_id": "Artigo 43.º — Utilização do euro",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Utilização do euro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Utilização do euro\n\n1. Os montantes dos programas nacionais apresentados pelos Estados-Membros, das previsões de despesas, das declarações de despesas certificadas, dos pedidos de pagamento e das contas anuais e despesas constantes dos relatórios de execução anuais e finais são expressos em euros.\n\n2. Os Estados-Membros cuja moeda não seja o euro na data do pedido de pagamento devem converter em euros os montantes da despesa incorrida na sua moeda nacional. Esses montantes serão convertidos recorrendo à taxa de câmbio mensal contabilística da Comissão, em vigor no mês em que a despesa foi registada nas contas da autoridade responsável do programa nacional em causa. Esta taxa de câmbio é publicada todos os meses em formato eletrónico pela Comissão.\n\n3. No caso de um Estado-Membro adota o euro como moeda, o processo de conversão descrito no n.º 2 continua a aplicar-se a toda a despesa inscrita nas contas pela autoridade responsável antes da data de entrada em vigor da taxa fixa de conversão entre a moeda nacional e o euro."
+  },
+  "2a6934845bb7c573": {
+   "fragment_id": "SECÇÃO 4",
+   "type": "divisao",
+   "heading": "SECÇÃO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 4"
+  },
+  "6099d6bc7d32de6b": {
+   "fragment_id": "Apuramento das contas e correções financeiras",
+   "type": "divisao",
+   "heading": "Apuramento das contas e correções financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Apuramento das contas e correções financeiras"
+  },
+  "39b94672f8e32c27": {
+   "fragment_id": "Artigo 44.º — Pedido de pagamento do saldo anual",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Pedido de pagamento do saldo anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Pedido de pagamento do saldo anual\n\n1. Até 15 de fevereiro do ano seguinte ao exercício, cada Estado-Membro apresenta à Comissão os documentos e informações exigidos nos termos do artigo 59.º, n.º 5, do Regulamento (UE, Euratom) n.º 966/2012. Os documentos apresentados servirão de pedido de pagamento do saldo anual. Excecionalmente, a Comissão pode prorrogar o prazo de 15 de fevereiro para 1 de março mediante comunicação do Estado-Membro em questão. Os Estados-Membros podem publicar, ao nível adequado, essas informações.\n\n2. A Comissão pode solicitar a um Estado-Membro que forneça mais informações para efeitos do apuramento anual das contas. Se um Estado-Membro não fornecer as informações solicitadas dentro do prazo fixado pela Comissão, a decisão sobre o apuramento de contas terá unicamente em conta as informações de que dispõe a Comissão.\n\n3. A Comissão adota, através de atos de execução, os modelos segundo os quais os documentos referidos no n.º 1 são elaborados s. Esses atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 59.º, n.º 2."
+  },
+  "9435f423ce8a9312": {
+   "fragment_id": "Artigo 45.º — Apuramento anual de contas",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Apuramento anual de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Apuramento anual de contas\n\n1. Até 31 de maio do ano seguinte ao exercício, a Comissão adota uma decisão sobre o apuramento das contas anuais de cada programa nacional. A decisão de apuramento de contas tem em conta a integralidade, exatidão e veracidade das contas anuais apresentadas, sem prejuízo de eventuais correções financeiras ulteriores.\n\n2. A Comissão estabelece, mediante de atos de execução, as modalidades para a execução do procedimento de apuramento anual de contas, no que diz respeito às medidas a tomar em ligação com a adoção da decisão e respetiva execução, incluindo o intercâmbio de informações entre a Comissão e os Estados-Membros, bem como os prazos a respeitar. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 59.º, n.º 3."
+  },
+  "af1d875794b63bf5": {
+   "fragment_id": "Artigo 46.º — Correções financeiras efetuadas pelos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Correções financeiras efetuadas pelos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Correções financeiras efetuadas pelos Estados-Membros\n\nOs Estados-Membros efetuam as correções financeiras exigidas em razão de irregularidades pontuais ou sistemáticas detetadas nos programas nacionais. As correções financeiras consistem no cancelamento total ou parcial da contribuição em causa proveniente do orçamento da União. Os Estados-Membros têm em conta a natureza e a gravidade das irregularidades, bem como os prejuízos financeiros delas resultantes para o orçamento da União, e aplicam uma correção proporcionada. Os montantes cancelados e os montantes recuperados, bem como os respetivos juros, são reafetados ao programa nacional em causa, com exceção dos montantes resultantes de irregularidades identificadas pelo Tribunal de Contas e pelos serviços da Comissão, incluindo o OLAF. Após o encerramento do programa nacional, o Estado-Membro em causa transfere os montantes recuperados para o orçamento da União."
+  },
+  "d52932bc5901646c": {
+   "fragment_id": "Artigo 47.º — Apuramento da conformidade e correções financeiras efetuadas pela Comissão",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Apuramento da conformidade e correções financeiras efetuadas pela Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Apuramento da conformidade e correções financeiras efetuadas pela Comissão\n\n1. A Comissão aplica correções financeiras cancelando a totalidade ou parte da contribuição do orçamento da União para um programa nacional e procedendo à recuperação desse montante junto do Estado-Membro em causa, de forma a excluir do orçamento da União as despesas que não respeitem o direito aplicável, incluindo as despesas relativas a deficiências nos sistemas de gestão e de controlo dos Estados-Membros que sejam detetadas pela Comissão ou pelo Tribunal de Contas.\n\n2.\n\nO incumprimento do direito aplicável apenas exige correção financeira em relação a despesas que tenham sido declaradas à Comissão, e se alguma das seguintes condições se verificar:\n\na) O incumprimento afetou a seleção de um projeto ao abrigo do programa nacional, ou — nos casos em que, devido à natureza do incumprimento, não seja possível determinar esse impacto — existe um risco fundamentado de que o incumprimento tenha tido tal efeito;\n\nb) O incumprimento afetou o montante da despesa declarada para reembolso pelo orçamento da União, ou — nos casos em que, devido à natureza do incumprimento, não seja possível determinar o seu impacto financeiro — existe um risco fundamentado de que o incumprimento tenha tido tal efeito.\n\n3. Ao decidir sobre uma correção financeira nos termos do n.º 1, a Comissão respeita o princípio da proporcionalidade, tendo em conta a natureza e a gravidade do incumprimento do direito aplicável e as suas implicações financeiras para o orçamento da União.\n\n4. Antes da adoção de qualquer decisão de recusa de financiamento, as conclusões da Comissão e as respostas do Estado-Membro são notificados por escrito, após o que as duas partes tentam chegar a acordo sobre as medidas a adotar.\n\n5.\n\nA recusa de financiamento não pode aplicar-se a:\n\na) Despesas incorridas pela autoridade responsável mais de 36 meses antes de a Comissão notificar por escrito as suas conclusões ao Estado-Membro em causa;\n\nb) Despesas decorrentes de ações plurianuais no âmbito dos programas nacionais, em que a última obrigação imposta ao beneficiário se tenha constituído mais de 36 meses antes de a Comissão notificar por escrito as suas conclusões ao Estado-Membro em causa;\n\nc) Despesas decorrentes de ações previstas nos programas nacionais, com exceção daquelas a que se refere a alínea b), relativamente às quais o pagamento ou, consoante o caso, o pagamento final, pela autoridade responsável, tenha sido efetuado mais de 36 meses antes de a Comissão notificar por escrito as suas conclusões ao Estado-Membro em causa.\n\n6. A Comissão estabelece, mediante atos de execução, as modalidades de execução do apuramento da conformidade no que diz respeito às medidas a tomar sobre a adoção da decisão e respetiva execução, incluindo o intercâmbio de informações entre a Comissão e os Estados-Membros e os prazos a respeitar. Esses atos de execução são adotados nos termos do procedimento de exame a que se refere o artigo 59.º, n.º 3."
+  },
+  "6e2cccb7af632f2e": {
+   "fragment_id": "Artigo 48.º — Obrigações dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Obrigações dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Obrigações dos Estados-Membros\n\nA aplicação de uma correção financeira pela Comissão não prejudica a obrigação que incumbe ao Estado-Membro de proceder à cobrança nos termos do artigo 21.º, alínea h), do presente regulamento, e de recuperar os auxílios estatais na aceção do artigo 107.º, n.º 1, do TFUE, e a título do artigo 14.º do Regulamento (CE) n.º 659/1999 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/67a2c89f-2e43-11eb-b27b-01aa75ed71a1.0020.02/DOC_1#E0005))."
+  },
+  "e9799bfc252af969": {
+   "fragment_id": "Artigo 49.º — Reembolso",
+   "type": "artigo",
+   "heading": "Artigo 49.º — Reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Reembolso\n\n1. Qualquer montante devido ao orçamento da União é executado antes da data de vencimento indicada na ordem de cobrança emitida nos termos do artigo 80.º do Regulamento (UE, Euratom) n.º 966/2012. A data de vencimento corresponde ao último dia do segundo mês seguinte à emissão da ordem.\n\n2. Qualquer atraso do reembolso dá origem a juros de mora, contados a partir do final da data do vencimento e até à data do pagamento efetivo. A taxa desses juros é superior, em 1,5 pontos percentuais, à taxa aplicada pelo Banco Central Europeu às suas principais operações de refinanciamento no primeiro dia útil do mês em que ocorre a data de vencimento."
+  },
+  "6ec5cbd7da702b7f": {
+   "fragment_id": "SECÇÃO 5",
+   "type": "divisao",
+   "heading": "SECÇÃO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 5"
+  },
+  "aab6ddf25ef31f82": {
+   "fragment_id": "Anulação",
+   "type": "divisao",
+   "heading": "Anulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Anulação"
+  },
+  "028a467fba0a9267": {
+   "fragment_id": "Artigo 50.º — Princípios",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Princípios\n\n1. Os programas nacionais estão sujeitos a um procedimento de anulação segundo o qual, até 15 de fevereiro ou, caso a Comissão tenha excecionalmente prorrogado o prazo de apresentação do pedido de pagamento nos termos do artigo 44.º, n.º 1, até 1 de março do ano seguinte ao segundo ano seguinte ao da autorização orçamental, os montantes de uma autorização que não sejam cobertos pelo pré-financiamento inicial e anual referido no artigo 35.º e por um pedido de pagamento nos termos do artigo 44.º, n.º 1, são objeto de anulação. Para efeitos de anulação, a Comissão calcula o montante adicionando um sexto da autorização orçamental anual relativa ao montante total da contribuição para 2014 a cada uma das autorizações orçamentais para os exercícios de 2015-2020.\n\nNo que diz respeito aos montantes correspondentes às dotações suplementares afetadas aos programas nacionais em 2018, a autorização orçamental é atribuída em 2019. No que diz respeito aos montantes correspondentes às dotações suplementares afetadas aos programas nacionais em 2019, a autorização orçamental é atribuída em 2020.\n\n2. Em derrogação do disposto no n.º 1, os prazos previstos para efeitos de anulação não são aplicáveis à autorização orçamental anual relativa à contribuição anual total para 2014.\n\n3. Se a primeira autorização orçamental anual disser respeito à contribuição anual total para 2015, em derrogação do disposto no n.º 1, os prazos previstos para efeitos de anulação não são aplicáveis à autorização orçamental anual relativa à contribuição anual total para 2015. Nesses casos, a Comissão calcula o montante a título do n.º 1 adicionando um quinto da autorização orçamental anual relativa ao montante total da contribuição para 2015 a cada uma das autorizações orçamentais para os exercícios de 2016 a 2020.\n\n4. As autorizações relativas ao último ano do período são anuladas conforme as regras aplicáveis ao encerramento dos programas.\n\n5. A autorização ainda aberta no último dia de elegibilidade da despesa, na aceção do artigo 17.º, n.º 3, para a qual a autoridade responsável não tenha apresentado um pedido de pagamento no prazo de seis meses após essa data, é automaticamente anulada."
+  },
+  "0f8e3aa915c9412c": {
+   "fragment_id": "Artigo 51.º — Exceções à regra de anulação",
+   "type": "artigo",
+   "heading": "Artigo 51.º — Exceções à regra de anulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Exceções à regra de anulação\n\n1.\n\nAo montante objeto de anulação são subtraídos os montantes que a autoridade responsável não tenha podido declarar à Comissão pelas seguintes razões:\n\na) Suspensão das ações em virtude de um processo judicial ou recurso administrativo com efeitos suspensivos; ou\n\nb) Razões de força maior com repercussões graves na execução da totalidade ou de parte do programa nacional. As autoridades responsáveis que invoquem razões de força maior têm de demonstrar as consequências diretas dessas razões na execução da totalidade ou de parte do programa nacional.\n\nA redução pode ser solicitada uma vez, se a suspensão ou razões de força maior tiverem uma duração não superior a um ano, ou várias vezes, pelo tempo correspondente à duração das razões de força maior ou ao número de anos entre a data da decisão judicial ou administrativa que suspende a execução da ação e a data da decisão judicial ou administrativa definitiva.\n\n2. Os Estados-Membros transmitem à Comissão, até 31 de janeiro, as informações relativas às exceções a que se refere o n.º 1, para o montante a declarar no final do exercício anterior.\n\n3. Não entra no cálculo dos montantes anulados automaticamente a parte das autorizações orçamentais para as quais tenha sido apresentado um pedido de pagamento, mas cujo pagamento tenha sido reduzido ou suspenso pela Comissão em 31 de dezembro do ano N+2."
+  },
+  "263c0952d532d23a": {
+   "fragment_id": "Artigo 52.º — Procedimento",
+   "type": "artigo",
+   "heading": "Artigo 52.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Procedimento\n\n1. Se houver risco de aplicação de uma anulação nos termos do artigo 50.º, a Comissão informa os Estados-Membros o mais rapidamente possível.\n\n2. Com base nas informações disponíveis em 31 de janeiro, a Comissão comunica à autoridade responsável o montante da anulação que resulta dessas informações.\n\n3. O Estado-Membro em causa dispõe do prazo de dois meses para aprovar o montante a anular ou apresentar as suas observações.\n\n4. A Comissão procede à anulação automática o mais tardar nove meses após a última data-limite resultante da aplicação dos n.^os^ 1 a 3.\n\n5. Em caso de anulação automática, a contribuição do orçamento da União para o programa nacional em causa é reduzida, para o exercício em questão, no montante da anulação automática. A contribuição da União para o plano de financiamento é reduzida proporcionalmente, salvo se o Estado-Membro apresentar um plano de financiamento revisto."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "b1984dd4d8520e69": {
+   "fragment_id": "INFORMAÇÃO, COMUNICAÇÃO, ACOMPANHAMENTO, AVALIAÇÃO E APRESENTAÇÃO DE RELATÓRIOS",
+   "type": "divisao",
+   "heading": "INFORMAÇÃO, COMUNICAÇÃO, ACOMPANHAMENTO, AVALIAÇÃO E APRESENTAÇÃO DE RELATÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INFORMAÇÃO, COMUNICAÇÃO, ACOMPANHAMENTO, AVALIAÇÃO E APRESENTAÇÃO DE RELATÓRIOS"
+  },
+  "f27f07fcc2ee0a4e": {
+   "fragment_id": "Artigo 53.º — Informação e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 53.º — Informação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Informação e publicidade\n\n1.\n\nCompete aos Estados-Membros e às autoridades responsáveis:\n\na) Criar um sítio *web* ou um portal com informação sobre os programas nacionais no Estado-Membro em causa e sobre o acesso aos referidos programas;\n\nb) Informar os potenciais beneficiários sobre as possibilidades de financiamento ao abrigo dos programas nacionais;\n\nc) Divulgar junto dos cidadãos da União o papel e as realizações dos regulamentos específicos através de ações de informação e de comunicação sobre os resultados e o impacto dos programas nacionais.\n\n2. Os Estados-Membros asseguram a transparência da execução dos programas nacionais e conservam uma lista das ações apoiadas por cada programa nacional, acessível através do sítio *web* ou do portal. A lista das ações inclui informações atualizadas sobre os beneficiários finais, as designações dos projetos e o montante do financiamento da União atribuído aos projetos.\n\n3. Por via de regra, as informações são publicadas, exceto nos casos em que sejam restritas devido à sua natureza confidencial, especialmente no que respeita à segurança, ordem pública, investigações criminais e proteção de dados pessoais.\n\n4. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 58.º, no que diz respeito à definição de regras respeitantes às medidas de informação e de publicidade destinadas ao público e às medidas de informação destinadas aos beneficiários.\n\n5. A Comissão, mediante atos de execução, define as características técnicas das medidas de informação e publicidade. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 59.º, n.º 3."
+  },
+  "6185276dcecb6ad2": {
+   "fragment_id": "Artigo 54.º — Relatórios de execução",
+   "type": "artigo",
+   "heading": "Artigo 54.º — Relatórios de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Relatórios de execução\n\n1. Até 31 de março de 2016 e até 31 de março de cada ano seguinte, até 2022 inclusive, a autoridade responsável apresenta à Comissão um relatório anual sobre a execução de cada programa nacional no exercício financeiro anterior, podendo a mesma autoridade publicar essas informações ao nível adequado. O relatório apresentado em 2016 abrange os exercícios financeiros de 2014 e 2015. Os Estados-Membros apresentam um relatório final sobre a execução dos programas nacionais até 31 de dezembro de 2023.\n\n2.\n\nOs relatórios anuais de execução apresentam informações sobre:\n\na) A execução do programa nacional tendo como referência os dados financeiros e os indicadores;\n\nb) Quaisquer questões significativas que afetem o desempenho do programa nacional.\n\n3.\n\nÀ luz da revisão intercalar a que se refere o artigo 15.º, o relatório anual de execução apresentado em 2017 estabelece e avalia:\n\na) As informações referidas no n.º 2;\n\nb) Os progressos no sentido de alcançar os objetivos dos programas nacionais graças à contribuição do orçamento da União;\n\nc) A participação dos parceiros pertinentes, tal como referido no artigo 12.º.\n\n4. Para além das informações e da avaliação previstas no n.º 2, o relatório anual de execução apresentado em 2020 e o relatório final de execução incluem informações e avaliam os progressos no sentido de alcançar os objetivos do programa nacional, tendo em conta os resultados do debate político a que se refere o artigo 13.º, n.º 1.\n\n5. Os relatórios anuais de execução previstos nos n.^os^ 1 a 4 são admissíveis se contiverem todas as informações exigidas nesses números. A Comissão informa o Estado-Membro, no prazo de 15 dias úteis a partir da data de receção do relatório anual de execução, sobre a inadmissibilidade do relatório, sob pena de o relatório ser considerado admissível.\n\n6. A Comissão comunica ao Estado-Membro as suas observações sobre o relatório anual de execução no prazo de dois meses a partir da receção desse relatório. Se a Comissão não comunicar as suas observações no prazo fixado, o relatório é considerado aceite.\n\n7. A Comissão pode fazer observações sobre questões constantes do relatório anual de execução da autoridade responsável que afetem a execução do programa nacional. Nesse caso, a autoridade responsável fornece todas as informações necessárias relativas a essas observações e, se adequado, informa a Comissão, no prazo de três meses, das medidas tomadas. A Comissão é informada o mais tardar três meses após ter feito as referidas observações.\n\n8. A Comissão adota, através de atos de execução os modelos segundo os quais os relatórios anuais e finais de execução são elaborados. Esses atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 59.º, n.º 2."
+  },
+  "df1cc8966dc9d595": {
+   "fragment_id": "Artigo 55.º — Quadro comum de acompanhamento e de avaliação",
+   "type": "artigo",
+   "heading": "Artigo 55.º — Quadro comum de acompanhamento e de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Quadro comum de acompanhamento e de avaliação\n\n1. A Comissão assegura um acompanhamento regular do presente regulamento e dos regulamentos específicos, se adequado, em cooperação com os Estados-Membros.\n\n2. A execução dos regulamentos específicos é avaliada pela Comissão em parceria com os Estados-Membros, nos termos do artigo 57.º.\n\n3. Deve ser estabelecido um quadro comum de avaliação e de acompanhamento tendo em vista aferir a relevância, a eficácia, a eficiência, o valor acrescentado, a sustentabilidade das ações e a simplificação e redução da carga administrativa, à luz dos objetivos do presente regulamento e dos regulamentos específicos, bem como do desempenho do presente regulamento e dos regulamentos específicos enquanto instrumentos que contribuem para o desenvolvimento do espaço de liberdade, segurança e justiça.\n\n4. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 58.º, no que diz respeito ao desenvolvimento do quadro comum de acompanhamento e de avaliação.\n\n5. Os Estados-Membros comunicam à Comissão as informações necessárias para permitir o acompanhamento e a avaliação do presente regulamento e dos regulamentos específicos.\n\n6. A Comissão examina igualmente a complementaridade entre as ações executadas no quadro dos regulamentos específicos e as ações abrangidas por outras políticas, instrumentos e iniciativas pertinentes da União.\n\n7. A Comissão presta especial atenção ao acompanhamento e à avaliação das ações e programas respeitantes aos países terceiros, em conformidade com artigo 8.º."
+  },
+  "63be6c8144715348": {
+   "fragment_id": "Artigo 56.º — Avaliação dos programas nacionais pelos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 56.º — Avaliação dos programas nacionais pelos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Avaliação dos programas nacionais pelos Estados-Membros\n\n1. Os Estados-Membros efetuam as avaliações a que se refere o artigo 57.º, n.º 1. A avaliação a realizar em 2017 deve contribuir para melhorar a qualidade da conceção e execução dos programas nacionais, em conformidade com o quadro comum de acompanhamento e de avaliação.\n\n2. Os Estados-Membros asseguram a existência de procedimentos para produzir e recolher os dados necessários às avaliações a que se refere o n.º 1, incluindo dados relativos aos indicadores no quadro comum de acompanhamento e de avaliação.\n\n3. As avaliações a que se refere o artigo 57.º, n.º 1, são realizadas por peritos funcionalmente independentes das autoridades responsáveis, das autoridades de auditoria e das autoridades delegadas. Esses peritos podem estar filiados numa instituição pública autónoma responsável pelo acompanhamento, avaliação e auditoria da administração. A Comissão fornece orientações sobre a forma de realizar as avaliações.\n\n4. As avaliações a que se refere o artigo 57.º, n.º 1, são publicadas na íntegra, exceto nos casos em que as informações sejam restritas devido à sua natureza confidencial, especialmente no que respeita à segurança, ordem pública, investigações criminais e à proteção de dados pessoais."
+  },
+  "b6ba7b91e17d71c0": {
+   "fragment_id": "Artigo 57.º — Relatórios de avaliação dos Estados-Membros e da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 57.º — Relatórios de avaliação dos Estados-Membros e da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Relatórios de avaliação dos Estados-Membros e da Comissão\n\n1.\n\nEm conformidade com o quadro comum de avaliação e de acompanhamento, os Estados-Membros apresentam à Comissão:\n\na) Um relatório de avaliação intercalar sobre a execução das ações e os progressos registados no sentido de alcançar os objetivos dos programas nacionais, até 31 de dezembro de 2017;\n\nb) Um relatório de avaliação *a posteriori* sobre os efeitos de ações no quadro dos programas nacionais, até 31 de dezembro de 2023.\n\n2.\n\nCom base nos relatórios referidos no n.º 1, a Comissão apresenta ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões:\n\na) Um relatório de avaliação intercalar sobre a execução do presente regulamento e dos regulamentos específicos a nível da União, até 30 de junho de 2018. Do relatório de avaliação intercalar deve igualmente constar uma avaliação da revisão intercalar efetuada em conformidade com as disposições do presente regulamento e dos regulamentos específicos;\n\nb) Um relatório de avaliação a posteriori sobre os efeitos do presente regulamento e dos regulamentos específicos, após o encerramento dos programas nacionais, até 30 de junho de 2024.\n\n3.\n\nA avaliação *a posteriori* da Comissão examina igualmente o impacto dos regulamentos específicos no desenvolvimento do espaço de liberdade, segurança e justiça, em termos da sua contribuição para os objetivos seguintes:\n\na) Desenvolvimento de uma cultura comum de segurança das fronteiras, cooperação no domínio da aplicação da lei e gestão de crises;\n\nb) Gestão eficiente dos fluxos migratórios para a União;\n\nc) Desenvolvimento do Sistema Europeu Comum de Asilo;\n\nd) Tratamento justo e equitativo dos nacionais de países terceiros;\n\ne) Solidariedade e cooperação entre Estados-Membros na abordagem dos problemas relacionados com a migração e os assuntos internos;\n\nf) Elaboração de uma abordagem comum da União em relação aos países terceiros no domínio da migração e da segurança.\n\n4. Todos os relatórios de avaliação previstos no presente artigo são publicados na íntegra, exceto nos casos em que as informações sejam restritas devido à sua natureza confidencial, especialmente no que respeita à segurança, ordem pública, investigações criminais e proteção de dados pessoais."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "41b8ab3337843afd": {
+   "fragment_id": "Artigo 58.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 58.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar os atos delegados a que se refere o artigo 5.º, n.º 5, o artigo 26.º, n.º 4, o artigo 29.º, n.º 1, o artigo 53.º, n.º 4, e o artigo 55.º, n.º 4, é conferido à Comissão por um prazo de sete anos a contar de data de entrada em vigor do presente regulamento. A Comissão elabora um relatório sobre a delegação de poderes pelo menos nove meses antes do final do prazo de sete anos. A delegação de poderes é tacitamente prorrogada por prazos de três anos, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes a que se refere o artigo 5.º, n.º 5, o artigo 26.º, n.º 4, o artigo 29.º, n.º 1, o artigo 53.º, n.º 4, e o artigo 55.º, n.º 4, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*, ou em data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 5.º, n.º 5, do artigo 26.º, n.º 4, do artigo 29.º, n.º 1, do artigo 53.º, n.º 4, e do artigo 55.º, n.º 4, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "24ff426a56e47779": {
+   "fragment_id": "Artigo 59.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 59.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité do Fundo para o Asilo e a Migração e para a Segurança Interna. Esse comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011.\n\n3. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\nNa falta de parecer do comité, a Comissão não pode adotar o projeto de ato de execução, com exceção do artigo 14.º, n.º 4, do artigo 24.º, n.º 5, do artigo 45.º, n.º 2, do artigo 47.º, n.º 6, e do artigo 53.º, n.º 5, do presente regulamento."
+  },
+  "3735e2d89c082ca3": {
+   "fragment_id": "Artigo 60.º — Reexame",
+   "type": "artigo",
+   "heading": "Artigo 60.º — Reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Reexame\n\nSob proposta da Comissão, o Parlamento Europeu e o Conselho reexaminam o presente regulamento até 30 de junho de 2020."
+  },
+  "01323004db6e950b": {
+   "fragment_id": "Artigo 61.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 61.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável desde 1 de janeiro de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável nos Estados-Membros de acordo com os Tratados.\n\n---"
+  },
+  "49203053c5ec4693": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/67a2c89f-2e43-11eb-b27b-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) n.º 516/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que estabelece o fundo para o Asilo, a Migração e a Integração, altera a Decisão 2008/381/CE do Conselho e revoga as Decisões n.º 573/2007/CE e n.º 575/2007/CE do Parlamento Europeu e do Conselho e a Decisão 2007/435/CE do Conselho (ver página 168 do presente Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/67a2c89f-2e43-11eb-b27b-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (UE) n.º 513/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que estabelece, no âmbito do Fundo para a Segurança Interna, o instrumento de apoio financeiro à cooperação policial, à prevenção e luta contra a criminalidade e à gestão de crises e revoga a Decisão 2007/125/JAI do Conselho (ver página 93 do presente Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/67a2c89f-2e43-11eb-b27b-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho, de 11 de setembro de 2013, relativo aos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude (OLAF) e que revoga o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho e o Regulamento (Euratom) n.º 1074/1999 do Conselho (JO L 248 de 18.9.2013, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/67a2c89f-2e43-11eb-b27b-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades (JO L 292 de 15.11.1996, p. 2).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/67a2c89f-2e43-11eb-b27b-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Regulamento (CE) n.º 659/1999 do Conselho, de 22 de março de 1999, que estabelece as regras de execução do artigo 108º do Tratado sobre o Funcionamento da União Europeia (JO L 83 de 27.3.1999, p. 1)."
+  },
+  "fe6ce237acea3d76": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Regulamentos específicos»:\n\n— o Regulamento (UE) n.º 516/2014 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/b5195e87-d67c-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#E0001)),\n\n— o Regulamento (UE) n.º 513/2014 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/b5195e87-d67c-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#E0002)), e\n\n— qualquer outro regulamento relativo à aplicação do presente regulamento.\n\nb) «Programação», o processo de organização, de tomada de decisões e de financiamento em várias fases com vista a executar, numa base plurianual, a ação conjunta da União e dos Estados-Membros para realizar os objetivos dos regulamentos específicos;\n\nc) «Ação», o projeto ou grupo de projetos selecionado pela autoridade responsável pelo programa nacional em questão, ou sob a sua responsabilidade, que contribui para os objetivos gerais e específicos visados pelos regulamentos específicos;\n\nd) «Ação da União», uma ação transnacional ou qualquer ação com especial interesse para a União, tal como definida nos regulamentos específicos;\n\ne) «Projeto», os meios práticos e específicos aplicados na execução da totalidade ou parte de uma ação por um beneficiário de uma contribuição da União;\n\nf) «Ajuda de emergência», um projeto ou grupo de projetos visando enfrentar uma situação de emergência, tal como definida nos regulamentos específicos;\n\ng) «Beneficiário», o destinatário de uma contribuição da União ao abrigo de um projeto, quer se trate de um organismo público ou privado, de organizações internacionais ou do Comité Internacional da Cruz Vermelha (CICV), ou a Federação Internacional das Sociedades Nacionais da Cruz Vermelha e do Crescente Vermelho."
+  },
+  "6328062d7b8ffafc": {
+   "fragment_id": "Artigo 5.º — Proteção dos interesses financeiros da União Europeia",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Proteção dos interesses financeiros da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Proteção dos interesses financeiros da União Europeia\n\n1. No quadro da execução das medidas financiadas ao abrigo do presente regulamento e dos regulamentos específicos, a Comissão toma medidas adequadas que garantam a proteção dos interesses financeiros da União Europeia mediante a aplicação de medidas preventivas da fraude, da corrupção e de outras atividades ilegais, a realização de verificações eficazes, a recuperação dos montantes pagos indevidamente, se forem detetadas irregularidades, e, se for caso disso, a aplicação de sanções administrativas e financeiras efetivas, proporcionadas e dissuasivas.\n\n2. Os Estados-Membros agem para prevenir, detetar e corrigir as irregularidades e recuperar os montantes indevidamente pagos, juntamente com os eventuais juros de mora. Os Estados-Membros notificam à Comissão essas irregularidades, mantendo-a informada da evolução significativa dos procedimentos administrativos e judiciais conexos.\n\n3. Sempre que um montante indevidamente pago a um beneficiário não possa ser recuperado, como resultado de incumprimento ou negligência do Estado-Membro, compete ao Estado-Membro reembolsar o montante em causa ao orçamento da União.\n\n4. Os Estados-Membros garantem uma prevenção eficaz contra fraudes, nomeadamente nos domínios em que existe um nível de risco mais elevado. Esta prevenção deve ter efeito dissuasivo, tendo em conta os benefícios, bem como a proporcionalidade das medidas.\n\n5. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 58.º, no que diz respeito às obrigações dos Estados-Membros especificadas nos n.^os^ 2 e 3 do presente artigo.\n\n6. A Comissão estabelece, através de atos de execução, a frequência da comunicação de irregularidades e o formato de relatório a utilizar. Esses atos de execução são adotados de acordo com o procedimento consultivo a que se refere o artigo 59.º, n.º 2,\n\n7. A Comissão ou seus representantes e o Tribunal de Contas dispõem de poderes de auditoria, com base em documentos e no local, sobre todos os beneficiários de subvenções, contratantes e subcontratantes que tenham recebido fundos da União ao abrigo do presente regulamento e dos regulamentos específicos.\n\n8. O OLAF pode efetuar inquéritos, incluindo inspeções e verificações no local de acordo com as disposições e os procedimentos previstos no Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/b5195e87-d67c-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#E0003)), e no Regulamento (Euratom, CE) n.º 2185/96 ([^4^](http://publications.europa.eu/resource/cellar/b5195e87-d67c-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#E0004)) do Conselho a fim de comprovar a existência de fraude, corrupção ou quaisquer outras atividades ilegais lesivas dos interesses financeiros da União em ligação com um acordo ou decisão de subvenção ou com um contrato financiado ao abrigo do presente regulamento e dos regulamentos específicos.\n\n9. Sem prejuízo dos n.^os^ 1, 7 e 8, os acordos de cooperação com países terceiros e organizações internacionais, os contratos, os acordos de subvenção e as decisões de subvenção decorrentes da execução do presente regulamento e dos regulamentos específicos contêm disposições que conferem expressamente à Comissão, ao Tribunal de Contas e ao OLAF poderes para realizar tais auditorias e inquéritos, de acordo com as respetivas competências."
+  },
+  "4573726f16097e23": {
+   "fragment_id": "Artigo 17.º — Princípios gerais de elegibilidade",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Princípios gerais de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Princípios gerais de elegibilidade\n\n1. A elegibilidade da despesa é determinada de acordo com as regras nacionais, exceto quando sejam estabelecidas regras específicas no presente regulamento ou nos regulamentos específicos.\n\n2.\n\nNos termos dos regulamentos específicos, para ser elegível a despesa deve obrigatoriamente:\n\na) Enquadrar-se no âmbito dos regulamentos específicos e dos seus objetivos;\n\nb) Ser necessária à execução das atividades do projeto em causa;\n\nc) Ser razoável e respeitar o princípio da boa gestão financeira, em especial em termos de relação qualidade-preço e de relação custo-eficácia.\n\n3. A despesa é elegível para financiamento ao abrigo do regulamento específico se tiver sido incorrida por um beneficiário e efetivamente paga pela autoridade responsável designada entre 1 de janeiro de 2014 e 30 de junho de 2024.\n\n4. A título de derrogação do n.º 3, a despesa paga em 2014 é também elegível se tiver sido paga pela autoridade responsável antes de esta ser formalmente designada nos termos do artigo 26.º, desde que os sistemas de gestão e controlo aplicados antes da designação formal sejam essencialmente idênticos ao sistema vigente após a designação formal da autoridade responsável.\n\n5. As despesas incluídas nos pedidos de pagamento apresentados pelos beneficiários à autoridade responsável são comprovadas mediante faturas ou documentos contabilísticos com valor probatório equivalente, exceto no que diz respeito às formas de apoio a que se refere o artigo 18.º, n.º 1, alíneas b), c) e d). Para estas formas de apoio, em derrogação do n.º 3 do presente artigo, os montantes incluídos no pedido de pagamento correspondem aos custos reembolsados ao beneficiário pela autoridade responsável.\n\n6. As receitas líquidas diretamente geradas por um projeto durante a sua execução e que não tenham sido tidas em conta no momento da aprovação do projeto são deduzidas das despesas elegíveis do projeto o mais tardar no pedido de pagamento final apresentado pelo beneficiário."
+  },
+  "4e10c1bef911c20f": {
+   "fragment_id": "Artigo 40.º — Encerramento do programa",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Encerramento do programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Encerramento do programa\n\n1.\n\nOs Estados-Membros apresentam até 31 de dezembro de 2024 os seguintes documentos:\n\na) A informação exigida para as últimas contas anuais, nos termos do artigo 44.º, n.º 1,\n\nb) O pedido de pagamento do saldo final, e\n\nc) O relatório final de execução relativo ao programa nacional, a que se refere o artigo 54.º, n.º 1.\n\n2. Os pagamentos efetuados pela autoridade responsável entre 16 de outubro de 2023 e 30 de junho de 2024 são incluídos nas últimas contas anuais.\n\n3. Após ter recebido os documentos a que se refere o n.º 1, a Comissão paga o saldo final com base no plano de financiamento em vigor, nas últimas contas anuais e na correspondente decisão de apuramento de contas.\n\n4. Em função da disponibilidade orçamental, o saldo final é pago o mais tardar três meses após a data do apuramento de contas do último exercício ou um mês após a data de aceitação do relatório final de execução, consoante a data que for ulterior. Após o pagamento do saldo, os montantes autorizados ainda restantes são anulados pela Comissão no prazo de seis meses, sem prejuízo do disposto no artigo 52.º."
+  },
+  "7bbc241d3c8c1926": {
+   "fragment_id": "Artigo 48.º — Obrigações dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Obrigações dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Obrigações dos Estados-Membros\n\nA aplicação de uma correção financeira pela Comissão não prejudica a obrigação que incumbe ao Estado-Membro de proceder à cobrança nos termos do artigo 21.º, alínea h), do presente regulamento, e de recuperar os auxílios estatais na aceção do artigo 107.º, n.º 1, do TFUE, e a título do artigo 14.º do Regulamento (CE) n.º 659/1999 do Conselho ([^5^](http://publications.europa.eu/resource/cellar/b5195e87-d67c-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#E0005))."
+  },
+  "e1ad2e53b78f2105": {
+   "fragment_id": "Artigo 50.º — Princípios",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Princípios\n\n1. Os programas nacionais estão sujeitos a um procedimento de anulação segundo o qual, até 15 de fevereiro ou, caso a Comissão tenha excecionalmente prorrogado o prazo de apresentação do pedido de pagamento nos termos do artigo 44.º, n.º 1, até 1 de março do ano seguinte ao segundo ano seguinte ao da autorização orçamental, os montantes de uma autorização que não sejam cobertos pelo pré-financiamento inicial e anual referido no artigo 35.º e por um pedido de pagamento nos termos do artigo 44.º, n.º 1, são objeto de anulação. Para efeitos de anulação, a Comissão calcula o montante adicionando um sexto da autorização orçamental anual relativa ao montante total da contribuição para 2014 a cada uma das autorizações orçamentais para os exercícios de 2015-2020.\n\nNo que diz respeito aos montantes correspondentes às dotações suplementares afetadas aos programas nacionais em 2018, a autorização orçamental é atribuída em 2019. No que diz respeito aos montantes correspondentes às dotações suplementares afetadas aos programas nacionais em 2019, a autorização orçamental é atribuída em 2020.\n\n2. Em derrogação do disposto no n.º 1, os prazos previstos para efeitos de anulação não são aplicáveis à autorização orçamental anual relativa à contribuição anual total para 2014.\n\n3. Se a primeira autorização orçamental anual disser respeito à contribuição anual total para 2015, em derrogação do disposto no n.º 1, os prazos previstos para efeitos de anulação não são aplicáveis à autorização orçamental anual relativa à contribuição anual total para 2015. Nesses casos, a Comissão calcula o montante a título do n.º 1 adicionando um quinto da autorização orçamental anual relativa ao montante total da contribuição para 2015 a cada uma das autorizações orçamentais para os exercícios de 2016 a 2020.\n\n4. As autorizações relativas aos dois últimos anos do período são anuladas conforme as regras aplicáveis ao encerramento dos programas.\n\n5. A autorização ainda aberta no último dia de elegibilidade da despesa, na aceção do artigo 17.º, n.º 3, para a qual a autoridade responsável não tenha apresentado um pedido de pagamento no prazo de seis meses após essa data, é automaticamente anulada."
+  },
+  "60512c935d3661dd": {
+   "fragment_id": "Artigo 54.º — Relatórios de execução",
+   "type": "artigo",
+   "heading": "Artigo 54.º — Relatórios de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Relatórios de execução\n\n1. Até 31 de março de 2016 e até 31 de março de cada ano seguinte, até 2023 inclusive, a autoridade responsável apresenta à Comissão um relatório anual sobre a execução de cada programa nacional no exercício financeiro anterior, podendo a mesma autoridade publicar essas informações ao nível adequado. O relatório apresentado em 2016 abrange os exercícios financeiros de 2014 e 2015. Os Estados-Membros apresentam um relatório final sobre a execução dos programas nacionais até 31 de dezembro de 2024.\n\n2.\n\nOs relatórios anuais de execução apresentam informações sobre:\n\na) A execução do programa nacional tendo como referência os dados financeiros e os indicadores;\n\nb) Quaisquer questões significativas que afetem o desempenho do programa nacional.\n\n3.\n\nÀ luz da revisão intercalar a que se refere o artigo 15.º, o relatório anual de execução apresentado em 2017 estabelece e avalia:\n\na) As informações referidas no n.º 2;\n\nb) Os progressos no sentido de alcançar os objetivos dos programas nacionais graças à contribuição do orçamento da União;\n\nc) A participação dos parceiros pertinentes, tal como referido no artigo 12.º.\n\n4. Para além das informações e da avaliação previstas no n.º 2, o relatório anual de execução apresentado em 2020 e o relatório final de execução incluem informações e avaliam os progressos no sentido de alcançar os objetivos do programa nacional, tendo em conta os resultados do debate político a que se refere o artigo 13.º, n.º 1.\n\n5. Os relatórios anuais de execução previstos nos n.^os^ 1 a 4 são admissíveis se contiverem todas as informações exigidas nesses números. A Comissão informa o Estado-Membro, no prazo de 15 dias úteis a partir da data de receção do relatório anual de execução, sobre a inadmissibilidade do relatório, sob pena de o relatório ser considerado admissível.\n\n6. A Comissão comunica ao Estado-Membro as suas observações sobre o relatório anual de execução no prazo de dois meses a partir da receção desse relatório. Se a Comissão não comunicar as suas observações no prazo fixado, o relatório é considerado aceite.\n\n7. A Comissão pode fazer observações sobre questões constantes do relatório anual de execução da autoridade responsável que afetem a execução do programa nacional. Nesse caso, a autoridade responsável fornece todas as informações necessárias relativas a essas observações e, se adequado, informa a Comissão, no prazo de três meses, das medidas tomadas. A Comissão é informada o mais tardar três meses após ter feito as referidas observações.\n\n8. A Comissão adota, através de atos de execução os modelos segundo os quais os relatórios anuais e finais de execução são elaborados. Esses atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 59.º, n.º 2."
+  },
+  "e33a0422093dd2ae": {
+   "fragment_id": "Artigo 57.º — Relatórios de avaliação dos Estados-Membros e da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 57.º — Relatórios de avaliação dos Estados-Membros e da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Relatórios de avaliação dos Estados-Membros e da Comissão\n\n1.\n\nEm conformidade com o quadro comum de avaliação e de acompanhamento, os Estados-Membros apresentam à Comissão:\n\na) Um relatório de avaliação intercalar sobre a execução das ações e os progressos registados no sentido de alcançar os objetivos dos programas nacionais, até 31 de dezembro de 2017;\n\nb) Um relatório de avaliação ex post sobre os efeitos de ações no quadro dos programas nacionais, até 31 de dezembro de 2024.\n\n2.\n\nCom base nos relatórios referidos no n.º 1, a Comissão apresenta ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões:\n\na) Um relatório de avaliação intercalar sobre a execução do presente regulamento e dos regulamentos específicos a nível da União, até 30 de junho de 2018. Do relatório de avaliação intercalar deve igualmente constar uma avaliação da revisão intercalar efetuada em conformidade com as disposições do presente regulamento e dos regulamentos específicos;\n\nb) Um relatório de avaliação ex post sobre os efeitos do presente regulamento e dos regulamentos específicos, após o encerramento dos programas nacionais, até 30 de junho de 2025.\n\n3.\n\nA avaliação *a posteriori* da Comissão examina igualmente o impacto dos regulamentos específicos no desenvolvimento do espaço de liberdade, segurança e justiça, em termos da sua contribuição para os objetivos seguintes:\n\na) Desenvolvimento de uma cultura comum de segurança das fronteiras, cooperação no domínio da aplicação da lei e gestão de crises;\n\nb) Gestão eficiente dos fluxos migratórios para a União;\n\nc) Desenvolvimento do Sistema Europeu Comum de Asilo;\n\nd) Tratamento justo e equitativo dos nacionais de países terceiros;\n\ne) Solidariedade e cooperação entre Estados-Membros na abordagem dos problemas relacionados com a migração e os assuntos internos;\n\nf) Elaboração de uma abordagem comum da União em relação aos países terceiros no domínio da migração e da segurança.\n\n4. Todos os relatórios de avaliação previstos no presente artigo são publicados na íntegra, exceto nos casos em que as informações sejam restritas devido à sua natureza confidencial, especialmente no que respeita à segurança, ordem pública, investigações criminais e proteção de dados pessoais."
+  },
+  "29958eb068c83521": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b5195e87-d67c-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) n.º 516/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que estabelece o fundo para o Asilo, a Migração e a Integração, altera a Decisão 2008/381/CE do Conselho e revoga as Decisões n.º 573/2007/CE e n.º 575/2007/CE do Parlamento Europeu e do Conselho e a Decisão 2007/435/CE do Conselho (ver página 168 do presente Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b5195e87-d67c-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (UE) n.º 513/2014 do Parlamento Europeu e do Conselho, de 16 de abril de 2014, que estabelece, no âmbito do Fundo para a Segurança Interna, o instrumento de apoio financeiro à cooperação policial, à prevenção e luta contra a criminalidade e à gestão de crises e revoga a Decisão 2007/125/JAI do Conselho (ver página 93 do presente Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b5195e87-d67c-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (UE, Euratom) n.º 883/2013 do Parlamento Europeu e do Conselho, de 11 de setembro de 2013, relativo aos inquéritos efetuados pelo Organismo Europeu de Luta Antifraude (OLAF) e que revoga o Regulamento (CE) n.º 1073/1999 do Parlamento Europeu e do Conselho e o Regulamento (Euratom) n.º 1074/1999 do Conselho (JO L 248 de 18.9.2013, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b5195e87-d67c-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Regulamento (Euratom, CE) n.º 2185/96 do Conselho, de 11 de novembro de 1996, relativo às inspeções e verificações no local efetuadas pela Comissão para proteger os interesses financeiros das Comunidades Europeias contra a fraude e outras irregularidades (JO L 292 de 15.11.1996, p. 2).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b5195e87-d67c-11ec-a95f-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Regulamento (CE) n.º 659/1999 do Conselho, de 22 de março de 1999, que estabelece as regras de execução do artigo 108º do Tratado sobre o Funcionamento da União Europeia (JO L 83 de 27.3.1999, p. 1)."
+  }
+ }
+}

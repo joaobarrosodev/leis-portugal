@@ -1,0 +1,90 @@
+---
+schema_version: '1.0'
+id: pt:dre:207250:por
+title: Decreto n.º 8471
+short_title: null
+summary: Abre um crédito especial a favor do Ministério da Instrução Pública, na importância de 2820$00,devendo a quantia
+  de 1980$00 ser adicionada à verba inscrita no capítulo 10.º, artigo 77.º, do orçamento aprovado para o corrente ano económico,
+  e a de 840$00 ser inscrita no capítulo 7.º, artigo 64.º-B, sob a rubrica «Pessoal de outros Ministérios - 1 enfermeira militar
+  em serviço no Arquivo das Congregações Religiosas» - Determina que iguais importâncias sejam anuladas no orçamento extraordinário
+  do Ministério da Guerra
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Instrução Pública - 10.ª Repartição da Direcção Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '8471'
+official_date: null
+publication_date: '1922-11-06'
+publication:
+  gazette: Diário do Govêrno
+  reference: Diário do Govêrno n.º 230/1922, Série I de 1922-11-06
+  number: '230'
+  series: I
+  supplement: null
+  pages: 1316 - 1316
+  pdf_url: https://files.diariodarepublica.pt/1s/1922/11/23000/13161316.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '207250'
+  dre_path: /dr/detalhe/decreto/8471-1922-207250
+  internal: pt:dre:207250:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/8471-1922-207250
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/8471-1922-207250
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:06:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:06:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:06:51Z'
+  warnings:
+  - Sem texto eletrónico no DRE; o registo liga apenas ao PDF oficial.
+  errors: []
+---
+
+# Decreto n.º 8471
+
+> O texto deste diploma não está disponível em formato eletrónico. [Ver documento original](https://files.diariodarepublica.pt/1s/1922/11/23000/13161316.pdf)

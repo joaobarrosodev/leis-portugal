@@ -1,0 +1,357 @@
+---
+schema_version: '1.0'
+id: pt:dre:334356:por
+title: Resolução da Assembleia da República n.º 68/2010
+short_title: null
+summary: Aprova o Acordo entre a República Portuguesa e a Ucrânia Relativo à Cooperação Militar, assinado em Lisboa em 24
+  de Junho de 2008
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 68/2010
+official_date: null
+publication_date: '2010-07-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 134/2010, Série I de 2010-07-13
+  number: '134'
+  series: I
+  supplement: null
+  pages: 2563 - 2567
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/07/13400/0256302567.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/68/2010/07/13/p/dre/pt/html
+  oj: null
+  dre: '334356'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/68-2010-334356
+  internal: pt:dre:334356:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/68-2010-334356
+  metadata_url: https://data.dre.pt/eli/resolassrep/68/2010/07/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/68-2010-334356
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:26:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 206a3ea9c61d04c03c1603b810991a15ea371676a31741f3a161536947be727c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:26:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Combate ao Crime
+- Convenção
+- Cooperação Militar
+- Lisboa
+- Portugal
+relationships:
+- type: amended_by
+  target: pt:dre:344245:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:334355:por
+  label: "Ratificado o Acordo, pelo DEC.68/2010.13.07.2010.PR, DR.IS [134] de 13.07.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-presidente-republica/68-2010-334355
+  date: '2010-07-13'
+- type: corrected_by
+  target: pt:dre:344245:por
+  label: "Rectificada pela DECL-RECT.27/2010.07.09.2010.AR, DR.IS [174] de 07.09.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/27-2010-344245
+  date: '2010-09-07'
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:26:30Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 68/2010
+
+Aprova o Acordo entre a República Portuguesa e a Ucrânia no Domínio do Combate à Criminalidade, assinado em Lisboa em 24 de Junho de 2008
+
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar o Acordo entre a República Portuguesa e a Ucrânia no Domínio do Combate à Criminalidade, assinado em Lisboa em 24 de Junho de 2008, cujo texto, nas versões autenticadas nas línguas portuguesa, ucraniana e inglesa, se publica em anexo.
+
+Aprovada em 18 de Junho de 2010.
+
+O Presidente da Assembleia da República, Jaime Gama.
+
+ACORDO ENTRE A REPÚBLICA PORTUGUESA E A UCRÂNIA RELATIVO À COOPERAÇÃO MILITAR
+
+A República Portuguesa e a Ucrânia, adiante designadas «Partes»:
+
+Guiadas pelas disposições da Carta das Nações Unidas, a Acta Final da Conferência de Segurança e Cooperação na Europa, a Carta de Paris para Uma Nova Europa, o Documento de Viena sobre Segurança e Cooperação e outros documentos relevantes da OSCE;
+
+Visando contribuir para a consolidação da paz, estabilidade e segurança na região euro-atlântica;
+
+Desejando desenvolver a cooperação bilateral e a compreensão mútua entre as Partes e suas Forças Armadas, especialmente no quadro do Conselho da Parceria Euro-Atlântica e do Programa da Parceria para a Paz;
+
+acordaram no seguinte:
+
+###### Artigo 1.º — Objectivo do Acordo
+
+O objectivo do presente Acordo é o de estabelecer os princípios gerais que guiarão a cooperação militar entre as Partes, dentro dos limites de competência definidos pelas respectivas legislações nacionais.
+
+###### Artigo 2.º — Áreas de cooperação
+
+1 - A cooperação será desenvolvida nas seguintes áreas:
+
+a) Melhorias das estruturas organizacionais, desenvolvimento do controlo democrático civil e gestão efectiva nas Forças Armadas;
+
+b) Política militar e diálogo sobre matérias de segurança nacional;
+
+c) Treino das Forças Armadas e estruturas militares das Partes para participação em operações de paz das Nações Unidas;
+
+d) Protecção ambiental contra a poluição relacionada com a actividade militar;
+
+e) Apoio jurídico às actividades das Forças Armadas, respeito pelos direitos humanos durante o serviço militar e troca de experiências sobre o estudo e introdução à Lei Militar internacional nas Forças Armadas;
+
+f) Treino e formação militar;
+
+g) Actividades humanitárias e culturais nas Forças Armadas;
+
+h) Organização das comunicações, tecnologias da informação e apoio radioelectrónico;
+
+i) Topografia militar e geodesia.
+
+2 - Outras áreas de cooperação militar poderão ser alvo de acordos específicos entre as Partes.
+
+###### Artigo 3.º — Modos de execução da cooperação
+
+1 - A cooperação entre as Partes será conduzida do seguinte modo:
+
+a) Visitas oficiais e reuniões de trabalho de Ministros da Defesa, Chefes de Estado-Maior-General, chefes dos Estados-Maiores dos ramos ou outras entidades oficiais das Partes;
+
+b) Consultas, trocas de experiência e informação;
+
+c) Negociações entre grupos de trabalho, seminários conjuntos e conferências sobre actividades das Forças Armadas;
+
+d) Convites recíprocos para observação de exercícios militares e exposições de equipamento militar;
+
+e) Treino de peritos militares através de cursos nos estabelecimentos de ensino militar;
+
+f) Convite a peritos, como conselheiros, em questões específicas.
+
+2 - Outras formas de cooperação nas áreas mencionadas no artigo 2.º serão definidas em protocolos específicos ao presente Acordo.
+
+###### Artigo 4.º — Planos anuais
+
+1 - Com base no presente Acordo, as Partes elaboram anualmente planos de cooperação militar.
+
+2 - O plano de cooperação incluirá a designação, o local, a data e o modo de implementação das actividades e ainda o número de participantes.
+
+###### Artigo 5.º — Troca de delegações
+
+1 - A troca de delegações das Partes será feita com base na reciprocidade e de acordo com as seguintes disposições:
+
+a) A Parte que visita será responsável pelas despesas dos transportes internacionais e ajudas de custo diárias;
+
+b) A Parte que recebe será responsável pelo alojamento e alimentação, transporte no seu território, refeições no local onde decorrem as actividades, bem como pelos serviços médicos básicos em caso de emergência.
+
+2 - Se uma delegação for composta por mais de 10 pessoas, será feito um acordo adicional para as respectivas despesas financeiras.
+
+###### Artigo 6.º — Protecção da informação classificada
+
+A protecção da informação classificada que será disponibilizada entre as Partes, de acordo com as respectivas legislações nacionais, será alvo de um acordo específico de protecção mútua de informação classificada entre as Partes.
+
+###### Artigo 7.º — Revisão
+
+1 - Em qualquer momento o presente Acordo pode ser sujeito a alterações ou emendas através de um pedido escrito de qualquer das Partes.
+
+2 - As alterações ou emendas acordadas mutuamente constarão de protocolos adicionais que constituem parte integrante do presente Acordo e entrarão em vigor em conformidade com as disposições definidas no artigo 10.º
+
+###### Artigo 8.º — Resolução de divergências
+
+Qualquer divergência acerca da interpretação ou implementação das disposições do presente Acordo será resolvida através de consultas mútuas entre as Partes.
+
+###### Artigo 9.º — Duração e cessação
+
+1 - O presente Acordo tem a duração de cinco anos, após o que continuará automaticamente a vigorar por períodos sucessivos de um ano.
+
+2 - Cada Parte pode, a qualquer momento, denunciar o presente Acordo.
+
+3 - A denúncia será comunicada à outra Parte, por escrito e por via diplomática, produzindo efeitos seis meses após a recepção da notificação.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente Acordo entrará em vigor na data da recepção da última notificação, por escrito e por via diplomática, de que foram cumpridos os requisitos de direito interno de ambas as Partes necessários para o efeito.
+
+Feito em Lisboa em 24 de Junho de 2008, em duplicado, em português, ucraniano e inglês, sendo cada versão igualmente autêntica.
+
+No caso de diferenças de interpretação do presente Acordo, prevalecerá a versão em inglês.
+
+Pela República Portuguesa:
+
+Nuno Severiano Teixeira, Ministro da Defesa Nacional.
+
+Pela Ucrânia:
+
+Yuriy Yekhanurov, Ministro da Defesa.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13400/0256302567.pdf)
+
+AGREEMENT BETWEEN THE PORTUGUESE REPUBLIC AND UKRAINE CONCERNING MILITARY CO-OPERATION
+
+The Portuguese Republic and Ukraine, hereinafter referred to as «Parties»:
+
+Guided by the provisions of the United Nations Charter, the Final Act of the Conference on Security and Co-operation in Europe, the Paris Charter for a New Europe, the Vienna Document on Security and Co-operation and other international documents of OSCE;
+
+Aiming to contribute to the consolidation of peace, stability and security in the European-Atlantic region;
+
+Wishing to develop bilateral co-operation and mutual understanding between the Parties and their Armed Forces, especially in the framework of the Euro-Atlantic Partnership Council and the Partnership for Peace Program;
+
+have agreed as follows:
+
+Article 1
+
+Purpose of the Agreement
+
+The purpose of this Agreement is to establish the general principles that will guide military co-operation between the Parties, within the limits of competency defined by their national legislation.
+
+Article 2
+
+Areas of co-operation
+
+1 - The co-operation will be established in the following areas:
+
+a) Improvement of organisational structure, development of democratic civilian control and effective management in the Armed Forces;
+
+b) Military policy and national security issues dialogue;
+
+c) Training of the Parties Armed Forces and military units to participate in UN peacekeeping operations;
+
+d) Environmental protection against pollution, connected with military activity;
+
+e) Legal support to Armed Forces activities, respect of human rights during military service and exchange of experience on the study and introduction to the international military law in the Armed Forces;
+
+f) Military education and training of military personnel;
+
+g) Humanitarian and cultural activities in the Armed Forces;
+
+h) Organisation of communications, information technologies and radio-electronic support;
+
+i) Military topography and geodesy.
+
+2 - Other areas of military co-operation may be subject of specific agreements between the Parties.
+
+Article 3
+
+Ways of implementing the co-operation
+
+1 - The co-operation between the Parties will be conducted in the following ways:
+
+a) Official visits and working meetings of Ministers of Defence, Chiefs of General Staff, Service commanders or other Parties authorised officials;
+
+b) Consultations, exchange of experience and information;
+
+c) Working group's negotiations, joint seminars and conferences on Armed Forces activity issues;
+
+d) Mutual invitations to observe military equipment and armament demonstrations, and military exercises;
+
+e) Military experts training in military educational establishments, at courses and by tours of duty;
+
+f) Inviting experts in specific issues as consultants.
+
+2 - Other ways of co-operation in the areas mentioned in article 2 can be defined in specific protocols to this Agreement.
+
+Article 4
+
+Annual plans
+
+1 - On the basis of this Agreement the Parties work out annual plans of military co-operation.
+
+2 - The plan of co-operation will include designation, place, date and form of implementation of the activities, and also the number of participants.
+
+Article 5
+
+Exchange of delegations
+
+1 - The exchange of delegations of the Parties will be made on the basis of reciprocity and with regard to the following provisions:
+
+a) The Sending Party will bear the expenses for international transportation, and also those related with daily allowance;
+
+b) The Receiving Party will bear the expenses for accommodation and food, transportation on its own territory, catering at the place of activity, as well as basic medical services in emergency cases.
+
+2 - If a delegation consists of more than 10 persons, a separate agreement concerning financial expenses will be concluded.
+
+Article 6
+
+Protection of classified information
+
+The protection of classified information which would be released between the Parties according to their national legislations shall be subject to a separate agreement on mutual protection of classified information between the Parties.
+
+Article 7
+
+Revision
+
+1 - At any time this Agreement may be subject to changes or amendments upon the written request of any of the Parties.
+
+2 - The mutually agreed changes or amendments shall be set forth in additional Protocols which constitute an integral part of this Agreement and enter into force according to the provisions settled in article 10.
+
+Article 8
+
+Settlement of divergences
+
+Any divergence about the interpretation or implementation of the provisions of this Agreement will be solved by mutual consultation between the Parties.
+
+Article 9
+
+Duration and termination
+
+1 - This Agreement is concluded for five years, after which it will be automatically extended for successive one year periods.
+
+2 - Each Party may, at any time, denounce this Agreement.
+
+3 - The denouncement shall be notified to the other Party, in writing and by diplomatic means, producing effect six months after the reception of the notification.
+
+Article 10
+
+Entry into force
+
+This Agreement shall enter into force at the date of the reception of the last notification by each Party, in writing and by diplomatic means, of the conclusion of all the required procedures of the internal Law of both Parties.
+
+Done in Lisbon on the 24th of June 2008, in duplicate, in portuguese, ukrainian and english, each version being equally authentic.
+
+In case of differences in the interpretation of this Agreement the english version will prevail.
+
+For the Portuguese Republic:
+
+Nuno Severiano Teixeira, Minister for National Defence.
+
+For Ukraine:
+
+Yuriy Yekhanurov, Minister for Defence.

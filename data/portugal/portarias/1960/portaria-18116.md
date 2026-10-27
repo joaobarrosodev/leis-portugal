@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:512804:por
+title: Portaria n.º 18116
+short_title: null
+summary: Nomeia uma comissão para proceder ao estudo da reorganização da produção do sal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Gabinete do Ministro
+proposing_entity: null
+official_number: '18116'
+official_date: null
+publication_date: '1960-12-12'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 286/1960, Série I de 1960-12-12
+  number: '286'
+  series: I
+  supplement: null
+  pages: 2738 - 2739
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/12/28600/27382739.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '512804'
+  dre_path: /dr/detalhe/portaria/18116-1960-512804
+  internal: pt:dre:512804:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/18116-1960-512804
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18116-1960-512804
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:52:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 36b1ba873edf852049df5f77453e02615adc831d78e37a4df75dede581897671
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:52:07Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:561458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:52:07Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 18116
+
+O sal comum, utilizado como matéria-prima por indústrias químicas nacionais e por actividades ligadas à conserva de diversos produtos, atinge preços que excedem às cotações similares em outros países que virão a ser concorrentes do nosso em produtos de consumo quando se atenuar o efeito defensivo das pautas de importação.
+
+Por outro lado, o sal das cozinhas de produção nacional é oferecido ao consumo doméstico em condições higiénicas indefinidas, porque, exposto nas marinhas a inevitáveis conspurcações, é normalmente transaccionado a granel, sem sistemática preocupação de higiene e de defesa contra sujidades, cuidado que deve ser inerente a todos os produtos de alimentação. Neste aspecto do problema merece estudo a questão de saber se serão de exigir-se obrigatòriamente ao sal para consumo doméstico as características fixadas pela norma portuguesa de sal refinado.
+
+Segundo estatística compilada pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos, a quantidade de sal destinada a consumo doméstico corresponde estàvelmente, a cerca de um quarto da produção nacional. A frota bacalhoeira tem tomado parte muito variável no consumo do total produzido, porque algumas vezes se tem abastecido de sal de importação - o que, mesmo que se comprove a legitimidade das razões que a forçam, não deixa de ser desvio significativo do interesse nacional. A indústria química transformadora mostra a tendência, que se acentua de ano para ano, para ultrapassar a décima parte da produção de sal nacional; nesta importante parcela do consumo sentem-se, com prejuízo do desenvolvimento económico, os reflexos do preço exagerado da matéria-prima essencial à fabricação. Cerca de metade do consumo do sal nacional reparte-se por pequenas indústrias diversas, essencialmente pelas actividades conserveiras e, na generalidade, pelas salgas de produtos animais.
+
+Além do preço e do estado de limpeza do sal nacional, é de basilar interesse para algumas indústrias a sua composição química. Depositado nas marinhas sem qualquer fiscalização técnica quanto a densidade e temperatura da água, o nosso sal está longe de ser cloreto de sódio puro; é antes uma mistura deste com sais de potássio e magnésio, que cristalizam conjuntamente com ele, para além de certa concentração da água. Se o facto não tem reflexos quando o produto se emprega na salga de alimentos, já o mesmo não sucede quando é utilizado como matéria-prima de indústrias químicas.
+
+De tudo se infere a necessidade de rever os costumes centenários em que assenta a sua produção, que a razão e as conveniências nos mostram incompatíveis com a economia do futuro, vistas as tendências livre-cambistas da época presente.
+
+A estrutura actual da produção salineira parece não ser capaz de responder às exigências do consumo nos três sentidos referidos: barateamento do preço para usos industriais, melhoria de classificação em qualidade para usos domésticos, maior grau de pureza como matéria-prima.
+
+Apresenta-se claro que, em paralelo com aspectos inerentes à estrutura da empresa e à relação desta com o trabalho nos vários salgados do País, largo campo se oferece à evolução da técnica. A dispersão das entidades patronais e a precária economia de cada empresa, a excessiva oferta de mão-de-obra em alguns salgados e as fórmulas complexas de remuneração do trabalho e da propriedade nas marinhas opõem-se, muito provàvelmente, à reforma substancial dos meios de produção; estes, todavia, terão de se refundir para se nivelarem com as melhores técnicas actuais, onde a mecanização da lavra e o transporte mecânico do produto são prática corrente.
+
+Neste pressuposto, terá também que reorganizar-se a produção no que se refere à dimensão e constituição das empresas produtoras e que atender à situação do pessoal excedentário, porque o barateamento do custo de produção e as garantias de qualidade do produto são o único caminho onde não temos liberdade de decisão.
+
+Estes aspectos classificam a produção salineira entre aquelas actividades que são abrangidas pelas reorganizações previstas na [Lei n.º 2055](https://diariodarepublica.pt/dr/detalhe/lei/2055-1952-561458).
+
+Nomeia-se por isso a respectiva comissão reorganizadora, com o encargo de estudar os aspectos que caraterizam a actual produção salineira e de preparar os elementos necessários, incluindo os projectos de diplomas legais cuja publicação pareça necessária; mas, atendendo à evidente repercussão social que pode deduzir-se das soluções mais económicas da produção, dá-se maior representação às entidades que são idóneas na apreciação e resolução de questões afectas ao domínio do trabalho.
+
+Sem prejuízo dos propósitos que estão na base desta reforma industrial, cabe à comissão a maior liberdade na orientação dos estudos e na preparação das melhores soluções; mas, ao fixar-se no tipo de estrutura das novas empresas, não parece que possa encontrar as raízes do problema fora da concentração da produção em entidades de dimensão conveniente: fica aberto, nesta hipótese, o caminho à solução cooperativa da produção ou à formação de empresas por fusão das existentes.
+
+Não se julga de antemão possível, antes de devido estudo, reflectir sobre o efeito de aplicação destas regras a todos os salgados do País. Pode, não obstante, afirmar-se desde já a dúvida sobre se seria acertada a solução de generalizar a todas as regiões ou a todos os salgados os mesmos processos de reorganização e, consequentemente, o mesmo exacto modelo na organização das empresas patronais, vista a diversidade de usos e costumes. Não se pode, sequer, pôr fora das soluções a escolher a de deixar, como sempre estiveram, estruturas e processos em algumas das marinhas do País.
+
+Em resumo, pode enunciar-se como segue o amplo programa de trabalhos cometidos à comissão reorganizadora da produção de sal:
+
+Formação de empresas convenientemente dimensionadas;
+
+Adaptação das marinhas a processos e meios adequados de produção;
+
+Higienização do produto;
+
+Estudo de fábricas de lavagem e embalagem do sal para uso doméstico;
+
+Regulamentação do aproveitamento do pessoal e colocação ou reforma da mão-de-obra excedentária.
+
+Pelo exposto:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Economia, nos termos da base XVII da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, nomear uma comissão para o estudo da reorganização da produção de sal, constituída por um presidente, dois representantes do Ministério das Corporações e Previdência Social, um representante da Direcção-Geral dos Serviços Industriais, um representante da Comissão Reguladora dos Produtos Químicos e Farmacêuticos e representantes dos grémios da lavoura, respectivamente com interesses nos salgados ao norte do Tejo, do Tejo, do Sado e do Algarve, a indicar pela Corporação da Lavoura.
+
+A esta comissão serão agregados, sem voto, um técnico especializado em produção de sal, a contratar pela Direcção-Geral dos Serviços Industriais, e um representante das indústrias químicas utilizadoras de sal, a indicar pela Corporação da Indústria.
+
+A comissão apresentará o seu relatório dentro do prazo de seis meses, a contar da data da nomeação dos seus componentes.
+
+Ministério da Economia, 12 de Dezembro de 1960. - O Ministro da Economia, José do Nascimento Ferreira Dias Júnior.

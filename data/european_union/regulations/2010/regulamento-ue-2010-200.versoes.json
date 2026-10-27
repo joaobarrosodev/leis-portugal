@@ -1,0 +1,473 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32010R0200:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02010R0200-20190310",
+ "dre_path": null,
+ "source_lastmod": "2019-03-10",
+ "versions": [
+  {
+   "date": "2010-03-11",
+   "future": false,
+   "celex": "32010R0200",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0a7bd0de27158e1f",
+    "c0133e2cbd2507de",
+    "60fab7f531accc6e",
+    "48a0a5e70c5a9fbe",
+    "b4374a2dd547c720",
+    "df7f55ec339eb358",
+    "d07ec6f9eb72e44b"
+   ]
+  },
+  {
+   "date": "2011-05-29",
+   "future": false,
+   "celex": "02010R0200-20110529",
+   "acts": [
+    {
+     "id": "eu:celex:32011R0517:por",
+     "title": "REGULAMENTO (UE) N. o 517/2011 DA COMISSÃO de 25 de Maio de 2011",
+     "published": null,
+     "celex": "32011R0517"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Objectivo da União",
+    "Altera Artigo 5.º — Entrada em vigor e aplicabilidade",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Regime de testes necessário para verificar a realização do objectivo da União de redução dos serótipos de salmonelas relevantes em bandos adultos de reprodução de Gallus gallus",
+    "Adita 1. BASE DE AMOSTRAGEM",
+    "Adita 2. MONITORIZAÇÃO DOS BANDOS DE REPRODUÇÃO",
+    "Adita 2.1. Localização, frequência e estatuto da amostragem",
+    "Adita 2.1.1. Amostragem por iniciativa do operador da empresa do sector alimentar",
+    "Adita 2.1.2. Amostragem como elemento dos controlos oficiais",
+    "Adita 2.2. Protocolo de amostragem",
+    "Adita 2.2.1. Amostragem no centro de incubação",
+    "Adita 2.2.2. Amostragem na exploração",
+    "Adita 2.2.2.1. Amostragem de rotina por iniciativa do operador da empresa do sector alimentar",
+    "Adita 2.2.2.2. Amostragem como elemento dos controlos oficiais",
+    "Adita 3. ANÁLISE DAS AMOSTRAS",
+    "Adita 3.1. Transporte e preparação das amostras",
+    "Adita 3.1.1. Transporte",
+    "Adita 3.1.2. Revestimentos dos tabuleiros de incubação",
+    "Adita 3.1.3. Amostras de esfregaços em botas e amostras de pó",
+    "Adita 3.1.4. Outras amostras de excrementos",
+    "Adita 3.2. Método de detecção",
+    "Adita 3.3. Serotipagem",
+    "Adita 3.4. Métodos alternativos",
+    "Adita 3.5. Armazenagem das estirpes",
+    "Adita 4. RESULTADOS E RELATÓRIOS"
+   ],
+   "fragments": [
+    "0105d8280c981774",
+    "5709d3ef9b0e7d00",
+    "60fab7f531accc6e",
+    "48a0a5e70c5a9fbe",
+    "b4374a2dd547c720",
+    "781f6009be3d6a9f",
+    "10220b9774fa9034",
+    "d0670433a7fdd40a",
+    "dd1cc480c4aa6ff1",
+    "e6afdc0832ea270d",
+    "5eae2e744cdb161e",
+    "016b3c324018523a",
+    "988b8ceace97f795",
+    "9626310324f1f3aa",
+    "015bf74b8b54627b",
+    "c46667ea5c0629bc",
+    "8360edb43a044844",
+    "211c08c87641c771",
+    "896a92140c474cc8",
+    "acc4b8141454b2f3",
+    "f18566d3df565074",
+    "6fad10d1bf1e7fd0",
+    "46b6768886f8b71e",
+    "885f6349337bb04b",
+    "51c66f6f30ce5b4d",
+    "8d7f5a8171860df2",
+    "6526b41486a0d818",
+    "5cff69d7019b53f4",
+    "76517eb1d125cbc5",
+    "8faa2b7add6104b0"
+   ]
+  },
+  {
+   "date": "2019-03-10",
+   "future": false,
+   "celex": "02010R0200-20190310",
+   "acts": [
+    {
+     "id": "eu:celex:32019R0268:por",
+     "title": "REGULAMENTO (UE) 2019/268 DA COMISSÃO de 15 de fevereiro de 2019",
+     "published": null,
+     "celex": "32019R0268"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera 2.2.2.1. Amostragem de rotina por iniciativa do operador da empresa do sector alimentar",
+    "Altera 3.1.4. Outras amostras de excrementos",
+    "Altera 3.2. Método de detecção",
+    "Altera 3.4. Métodos alternativos",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "1b86935c9e14bd0b",
+    "5709d3ef9b0e7d00",
+    "60fab7f531accc6e",
+    "48a0a5e70c5a9fbe",
+    "b4374a2dd547c720",
+    "781f6009be3d6a9f",
+    "10220b9774fa9034",
+    "d0670433a7fdd40a",
+    "dd1cc480c4aa6ff1",
+    "e6afdc0832ea270d",
+    "5eae2e744cdb161e",
+    "016b3c324018523a",
+    "988b8ceace97f795",
+    "9626310324f1f3aa",
+    "015bf74b8b54627b",
+    "c46667ea5c0629bc",
+    "24c1d06e088c049b",
+    "211c08c87641c771",
+    "896a92140c474cc8",
+    "acc4b8141454b2f3",
+    "f18566d3df565074",
+    "6fad10d1bf1e7fd0",
+    "46b6768886f8b71e",
+    "0dc6e287164d68c7",
+    "03c043a362ea184b",
+    "8d7f5a8171860df2",
+    "123270cb6f705a64",
+    "5cff69d7019b53f4",
+    "84e10478a69d384b"
+   ]
+  }
+ ],
+ "fragments": {
+  "0a7bd0de27158e1f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Março de 2010\n\nque dá execução ao Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho no que se refere ao objectivo da União de redução da prevalência de serótipos de *salmonela* em bandos adultos de reprodução de *Gallus gallus*\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativo ao controlo de salmonelas e outros agentes zoonóticos específicos de origem alimentar [([^1])](http://publications.europa.eu/resource/cellar/c6442770-7e03-4ba8-8c56-90b4c407fc8d.0018.02/DOC_1#ntr1-L_2010061PT.01000101-E0001), e, nomeadamente, o seu artigo 4.º, n.º 1, segundo parágrafo, e o seu artigo 13.º,\n\nConsiderando o seguinte:\n\n(1) O objectivo do Regulamento (CE) n.º 2160/2003 consiste em assegurar que sejam tomadas medidas para detectar e controlar as salmonelas e outros agentes zoonóticos em todas as fases importantes da produção, transformação e distribuição, especialmente ao nível da produção primária, a fim de reduzir a sua prevalência e o risco que constituem para a saúde pública.\n\n(2) O Regulamento (CE) n.º 2160/2003 prevê a definição de objectivos da União para a redução da prevalência das zoonoses e dos agentes zoonóticos enumerados no seu anexo I nas populações animais nele enumeradas. Estabelece igualmente certos requisitos para a prossecução desses objectivos.\n\n(3) O anexo I do Regulamento (CE) n.º 2160/2003 refere-se a todos os serótipos de salmonelas relevantes em termos de saúde pública em bandos de reprodução de *Gallus gallus*. Esses bandos de reprodução podem propagar a infecção por salmonelas à sua progenitura, em especial, a bandos das galinhas poedeiras e de frangos. Por conseguinte, uma redução da prevalência de salmonelas em bandos de reprodução contribui para o controlo desse agente zoonótico nos ovos e na carne derivada da progenitura, que constitui um risco importante para a saúde pública.\n\n(4) O Regulamento (CE) n.º 1003/2005 da Comissão, de 30 de Junho de 2005, relativo à execução do Regulamento (CE) n.º 2160/2003 no que se refere ao objectivo comunitário de redução da prevalência de determinados serótipos de salmonela em bandos de reprodução de *Gallus gallus* [([^2])](http://publications.europa.eu/resource/cellar/c6442770-7e03-4ba8-8c56-90b4c407fc8d.0018.02/DOC_1#ntr2-L_2010061PT.01000101-E0002), fixa um objectivo comunitário de redução da prevalência de determinados serótipos de salmonela em bandos de reprodução de *Gallus gallus* durante um período de transição que termina em 31 de Dezembro de 2009. Nessa data, a percentagem máxima de bandos adultos de reprodução de *Gallus gallus* que permanecem positivos à *Salmonella enteritidis, Salmonella infantis, Salmonella hadar, Salmonella typhimurium* e *Salmonella virchow* («as espécies de salmonelas relevantes») deve ser 1 % ou inferior. Deste modo, é necessário estabelecer um objectivo da União permanente para a redução das espécies de salmonelas relevantes após o termo desse período.\n\n(5) O Regulamento (CE) n.º 2160/2003 determina que, no estabelecimento de objectivos da União, deve ter-se em consideração a experiência adquirida com as medidas nacionais em vigor assim como as informações transmitidas à Comissão ou à Autoridade Europeia para a Segurança dos Alimentos (AESA) ao abrigo das exigências da União existentes, nomeadamente no âmbito da informação prevista na Directiva 2003/99/CE do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativa à vigilância das zoonoses e dos agentes zoonóticos [([^3])](http://publications.europa.eu/resource/cellar/c6442770-7e03-4ba8-8c56-90b4c407fc8d.0018.02/DOC_1#ntr3-L_2010061PT.01000101-E0003), especialmente no seu artigo 5.º\n\n(6) Em conformidade com os requisitos do Regulamento (CE) n.º 2160/2003, a AESA foi consultada no que se refere à fixação do objectivo da União permanente relativo aos bandos de reprodução de *Gallus gallus*. Deste modo, em 26 de Março de 2009, o Painel dos riscos biológicos adoptou, a pedido da Comissão Europeia, um parecer científico sobre a avaliação quantitativa do impacto da definição de um novo objectivo para a redução de salmonelas em galinhas de reprodução da espécie *Gallus gallus* [([^4])](http://publications.europa.eu/resource/cellar/c6442770-7e03-4ba8-8c56-90b4c407fc8d.0018.02/DOC_1#ntr4-L_2010061PT.01000101-E0004). O referido parecer concluiu que a *Salmonella enteritidis* e a *Salmonella typhimurium* possuem o maior potencial de transmissão das galinhas de reprodução para a sua progenitura nas cadeias da carne de frango e de postura de ovos. Concluiu igualmente esperar-se que as medidas de controlo da UE relativas a estes dois serótipos em galinhas de reprodução contribuam para o controlo das infecções por salmonelas nos efectivos de produção e reduzam o risco para a saúde humana decorrente das aves de capoeira. Esse parecer científico indicou igualmente que os benefícios marginais para os criadores de um controlo adicional a nível da UE de outros serótipos eram relativamente pequenos: são menos frequentemente associados a doenças humanas e apresentam um menor potencial de transmissão vertical.\n\n(7) Tendo em conta o parecer científico da AESA e considerando que é necessário mais tempo para avaliar a tendência da presença de salmonelas nos bandos após a introdução dos programas nacionais de controlo, deveria ser mantido um objectivo da União de redução de salmonelas em bandos adultos de reprodução de *Gallus gallus* semelhante ao estabelecido no Regulamento (CE) n.º 1003/2005.\n\n(8) No sentido de verificar os progressos na consecução do objectivo da União, deve prever-se uma amostragem repetida dos bandos de reprodução de *Gallus gallus*.\n\n(9) Os programas nacionais de controlo para a realização do objectivo em 2010 foram aprovados em conformidade com a Decisão 2009/883/CE da Comissão, de 26 de Novembro 2009, que aprova programas anuais e plurianuais para erradicação, controlo e vigilância de determinadas doenças animais e zoonoses, apresentados pelos Estados-Membros para 2010 e anos subsequentes, bem como a participação financeira da Comunidade nesses programas [([^5])](http://publications.europa.eu/resource/cellar/c6442770-7e03-4ba8-8c56-90b4c407fc8d.0018.02/DOC_1#ntr5-L_2010061PT.01000101-E0005). Estes programas baseiam-se nas disposições jurídicas aplicáveis na altura da apresentação dos mesmos. Os programas relativos aos bandos de reprodução de *Gallus gallus* foram aprovados com base nas disposições no Regulamento (CE) n.º 1003/2005. É, por conseguinte, necessária uma medida de transição para os programas de controlo já aprovados.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c0133e2cbd2507de": {
+   "fragment_id": "Artigo 1.º — Objectivo da União",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo da União\n\n1. A partir de 1 de Janeiro de 2010, o objectivo da União referido no artigo 4.º, n.º 1, do Regulamento (CE) n.º 2160/2003 para a redução das espécies de salmonelas em bandos de reprodução de *Gallus gallus* («objectivo da União») é uma redução para 1 %, ou menos, da percentagem máxima de bandos adultos de reprodução de *Gallus gallus* que permanecem positivos à *Salmonella* e*nteritidis, Salmonella infantis, Salmonella hadar*, *Salmonella typhimurium* e *Salmonella virchow* («os serótipos de salmonelas relevantes»).\n\nContudo, para os Estados-Membros com menos de 100 bandos adultos de reprodução de *Gallus gallus*, o objectivo da União, a partir de 1 de Janeiro de 2010, é, no máximo, um desses bandos positivo aos serótipos de salmonelas relevantes por ano.\n\n2. O regime de testes necessário para verificar os progressos na consecução do objectivo da União consta do anexo."
+  },
+  "60fab7f531accc6e": {
+   "fragment_id": "Artigo 2.º — Revisão do objectivo da União",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Revisão do objectivo da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revisão do objectivo da União\n\nO objectivo da União é revisto pela Comissão, tendo em conta a informação recolhida em conformidade com o regime de testes previsto no artigo 1.º, n.º 2, do presente regulamento e os critérios estabelecidos no artigo 4.º, n.º 6, alínea c), do Regulamento (CE) n.º 2160/2003."
+  },
+  "48a0a5e70c5a9fbe": {
+   "fragment_id": "Artigo 3.º — Revogação do Regulamento (CE) n.º 1003/2005",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Revogação do Regulamento (CE) n.º 1003/2005",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Revogação do Regulamento (CE) n.º 1003/2005\n\n1. É revogado o Regulamento (CE) n.º 1003/2005.\n\n2. As referências ao regulamento revogado entendem-se como sendo feitas ao presente regulamento."
+  },
+  "b4374a2dd547c720": {
+   "fragment_id": "Artigo 4.º — Medidas de transição",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Medidas de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Medidas de transição\n\nAs disposições constantes do anexo do Regulamento (CE) nº 1003/2005 continuam a aplicar-se aos programas de controlo aprovados antes da entrada em vigor do presente regulamento."
+  },
+  "df7f55ec339eb358": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor e aplicabilidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor e aplicabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e aplicabilidade\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 10 de Março de 2010.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "d07ec6f9eb72e44b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/c6442770-7e03-4ba8-8c56-90b4c407fc8d.0018.02/DOC_1#ntc1-L_2010061PT.01000101-E0001) [JO L 325 de 12.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_325_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/c6442770-7e03-4ba8-8c56-90b4c407fc8d.0018.02/DOC_1#ntc2-L_2010061PT.01000101-E0002) [JO L 170 de 1.7.2005, p. 12](http://publications.europa.eu/resource/oj/JOL_2005_170_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/c6442770-7e03-4ba8-8c56-90b4c407fc8d.0018.02/DOC_1#ntc3-L_2010061PT.01000101-E0003) [JO L 325 de 12.12.2003, p. 31](http://publications.europa.eu/resource/oj/JOL_2003_325_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/c6442770-7e03-4ba8-8c56-90b4c407fc8d.0018.02/DOC_1#ntc4-L_2010061PT.01000101-E0004) *The EFSA Journal* (2009) 1036, p. 1-68.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/c6442770-7e03-4ba8-8c56-90b4c407fc8d.0018.02/DOC_1#ntc5-L_2010061PT.01000101-E0005) [JO L 317 de 3.12.2009, p. 36](http://publications.europa.eu/resource/oj/JOL_2009_317_R_TOC)."
+  },
+  "0105d8280c981774": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Março de 2010\n\nque dá execução ao Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho no que se refere ao objectivo da União de redução da prevalência de serótipos de *salmonela* em bandos adultos de reprodução de *Gallus gallus*\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativo ao controlo de salmonelas e outros agentes zoonóticos específicos de origem alimentar ([^1^](http://publications.europa.eu/resource/cellar/285e85d6-a7ba-49bf-899a-33ae47121e6b.0018.03/DOC_2#E0001)), e, nomeadamente, o seu artigo 4.º, n.º 1, segundo parágrafo, e o seu artigo 13.º,\n\n(1) O objectivo do Regulamento (CE) n.º 2160/2003 consiste em assegurar que sejam tomadas medidas para detectar e controlar as salmonelas e outros agentes zoonóticos em todas as fases importantes da produção, transformação e distribuição, especialmente ao nível da produção primária, a fim de reduzir a sua prevalência e o risco que constituem para a saúde pública.\n\n(2) O Regulamento (CE) n.º 2160/2003 prevê a definição de objectivos da União para a redução da prevalência das zoonoses e dos agentes zoonóticos enumerados no seu anexo I nas populações animais nele enumeradas. Estabelece igualmente certos requisitos para a prossecução desses objectivos.\n\n(3) O anexo I do Regulamento (CE) n.º 2160/2003 refere-se a todos os serótipos de salmonelas relevantes em termos de saúde pública em bandos de reprodução de *Gallus gallus*. Esses bandos de reprodução podem propagar a infecção por salmonelas à sua progenitura, em especial, a bandos das galinhas poedeiras e de frangos. Por conseguinte, uma redução da prevalência de salmonelas em bandos de reprodução contribui para o controlo desse agente zoonótico nos ovos e na carne derivada da progenitura, que constitui um risco importante para a saúde pública.\n\n(4) O Regulamento (CE) n.º 1003/2005 da Comissão, de 30 de Junho de 2005, relativo à execução do Regulamento (CE) n.º 2160/2003 no que se refere ao objectivo comunitário de redução da prevalência de determinados serótipos de salmonela em bandos de reprodução de *Gallus gallus* ([^2^](http://publications.europa.eu/resource/cellar/285e85d6-a7ba-49bf-899a-33ae47121e6b.0018.03/DOC_2#E0002)), fixa um objectivo comunitário de redução da prevalência de determinados serótipos de salmonela em bandos de reprodução de *Gallus gallus* durante um período de transição que termina em 31 de Dezembro de 2009. Nessa data, a percentagem máxima de bandos adultos de reprodução de *Gallus gallus* que permanecem positivos à *Salmonella enteritidis, Salmonella infantis, Salmonella hadar, Salmonella typhimurium* e *Salmonella virchow* («as espécies de salmonelas relevantes») deve ser 1 % ou inferior. Deste modo, é necessário estabelecer um objectivo da União permanente para a redução das espécies de salmonelas relevantes após o termo desse período.\n\n(5) O Regulamento (CE) n.º 2160/2003 determina que, no estabelecimento de objectivos da União, deve ter-se em consideração a experiência adquirida com as medidas nacionais em vigor assim como as informações transmitidas à Comissão ou à Autoridade Europeia para a Segurança dos Alimentos (AESA) ao abrigo das exigências da União existentes, nomeadamente no âmbito da informação prevista na Directiva 2003/99/CE do Parlamento Europeu e do Conselho, de 17 de Novembro de 2003, relativa à vigilância das zoonoses e dos agentes zoonóticos ([^3^](http://publications.europa.eu/resource/cellar/285e85d6-a7ba-49bf-899a-33ae47121e6b.0018.03/DOC_2#E0003)), especialmente no seu artigo 5.º\n\n(6) Em conformidade com os requisitos do Regulamento (CE) n.º 2160/2003, a AESA foi consultada no que se refere à fixação do objectivo da União permanente relativo aos bandos de reprodução de *Gallus gallus*. Deste modo, em 26 de Março de 2009, o Painel dos riscos biológicos adoptou, a pedido da Comissão Europeia, um parecer científico sobre a avaliação quantitativa do impacto da definição de um novo objectivo para a redução de salmonelas em galinhas de reprodução da espécie *Gallus gallus* ([^4^](http://publications.europa.eu/resource/cellar/285e85d6-a7ba-49bf-899a-33ae47121e6b.0018.03/DOC_2#E0004)). O referido parecer concluiu que a *Salmonella enteritidis* e a *Salmonella typhimurium* possuem o maior potencial de transmissão das galinhas de reprodução para a sua progenitura nas cadeias da carne de frango e de postura de ovos. Concluiu igualmente esperar-se que as medidas de controlo da UE relativas a estes dois serótipos em galinhas de reprodução contribuam para o controlo das infecções por salmonelas nos efectivos de produção e reduzam o risco para a saúde humana decorrente das aves de capoeira. Esse parecer científico indicou igualmente que os benefícios marginais para os criadores de um controlo adicional a nível da UE de outros serótipos eram relativamente pequenos: são menos frequentemente associados a doenças humanas e apresentam um menor potencial de transmissão vertical.\n\n(7) Tendo em conta o parecer científico da AESA e considerando que é necessário mais tempo para avaliar a tendência da presença de salmonelas nos bandos após a introdução dos programas nacionais de controlo, deveria ser mantido um objectivo da União de redução de salmonelas em bandos adultos de reprodução de *Gallus gallus* semelhante ao estabelecido no Regulamento (CE) n.º 1003/2005.\n\n(8) No sentido de verificar os progressos na consecução do objectivo da União, deve prever-se uma amostragem repetida dos bandos de reprodução de *Gallus gallus*.\n\n(9) Os programas nacionais de controlo para a realização do objectivo em 2010 foram aprovados em conformidade com a Decisão 2009/883/CE da Comissão, de 26 de Novembro 2009, que aprova programas anuais e plurianuais para erradicação, controlo e vigilância de determinadas doenças animais e zoonoses, apresentados pelos Estados-Membros para 2010 e anos subsequentes, bem como a participação financeira da Comunidade nesses programas ([^5^](http://publications.europa.eu/resource/cellar/285e85d6-a7ba-49bf-899a-33ae47121e6b.0018.03/DOC_2#E0005)). Estes programas baseiam-se nas disposições jurídicas aplicáveis na altura da apresentação dos mesmos. Os programas relativos aos bandos de reprodução de *Gallus gallus* foram aprovados com base nas disposições no Regulamento (CE) n.º 1003/2005. É, por conseguinte, necessária uma medida de transição para os programas de controlo já aprovados.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5709d3ef9b0e7d00": {
+   "fragment_id": "Artigo 1.º — Objectivo da União",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo da União\n\n1. A partir de 1 de Janeiro de 2010, o objectivo da União referido no artigo 4.º, n.º 1, do Regulamento (CE) n.º 2160/2003, para a redução de *Salmonella* spp. em bandos de reprodução de *Gallus gallus* (objectivo da União) é uma redução para 1 % ou menos da percentagem máxima de bandos adultos de reprodução de *Gallus gallus* que permanecem positivos à *Salmonella* Enteritidis, *Salmonella* Infantis, *Salmonella* Hadar, *Salmonella* Typhimurium, incluindo a *Salmonella* Typhimurium monofásica com a fórmula antigénica [**►C1**](http://publications.europa.eu/resource/celex/32011R0517R%2801%29) 1,4,[5],12:i:-**◄**, e a *Salmonella* Virchow (os serótipos de salmonelas relevantes).\n\nContudo, para os Estados-Membros com menos de 100 bandos adultos de reprodução de *Gallus gallus*, o objectivo da União, a partir de 1 de Janeiro de 2010, é, no máximo, um desses bandos positivo aos serótipos de salmonelas relevantes por ano.\n\n2. O regime de testes necessário para verificar os progressos na consecução do objectivo da União consta do anexo."
+  },
+  "781f6009be3d6a9f": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor e aplicabilidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor e aplicabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e aplicabilidade\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2010.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "d0670433a7fdd40a": {
+   "fragment_id": "Regime de testes necessário para verificar a realização do objectivo da União de redução dos serótipos de salmonelas relevantes em bandos adultos de reprodução de Gallus gallus",
+   "type": "divisao",
+   "heading": "Regime de testes necessário para verificar a realização do objectivo da União de redução dos serótipos de salmonelas relevantes em bandos adultos de reprodução de Gallus gallus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime de testes necessário para verificar a realização do objectivo da União de redução dos serótipos de salmonelas relevantes em bandos adultos de reprodução de Gallus gallus"
+  },
+  "dd1cc480c4aa6ff1": {
+   "fragment_id": "1. BASE DE AMOSTRAGEM",
+   "type": "divisao",
+   "heading": "1. BASE DE AMOSTRAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. BASE DE AMOSTRAGEM\n\nA base de amostragem para detectar a presença de *Salmonella* Enteritidis, *Salmonella infantis, Salmonella hadar, Salmonella typhimurium* e *Salmonella virchow* («os serótipos de salmonelas relevantes») abrange todos os bandos adultos de reprodução de galos e galinhas (*Gallus gallus*) com, pelo menos, 250 aves («bandos de reprodução»). É sem prejuízo das disposições do Regulamento (CE) n.º 2160/2003 e da Directiva 2003/99/CE, no que diz respeito aos requisitos de monitorização de outras populações animais ou de outros serótipos."
+  },
+  "e6afdc0832ea270d": {
+   "fragment_id": "2. MONITORIZAÇÃO DOS BANDOS DE REPRODUÇÃO",
+   "type": "divisao",
+   "heading": "2. MONITORIZAÇÃO DOS BANDOS DE REPRODUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. MONITORIZAÇÃO DOS BANDOS DE REPRODUÇÃO"
+  },
+  "5eae2e744cdb161e": {
+   "fragment_id": "2.1. Localização, frequência e estatuto da amostragem",
+   "type": "divisao",
+   "heading": "2.1. Localização, frequência e estatuto da amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1. Localização, frequência e estatuto da amostragem\n\nOs bandos de reprodução são amostrados por iniciativa do operador da empresa do sector alimentar e como elemento dos controlos oficiais."
+  },
+  "016b3c324018523a": {
+   "fragment_id": "2.1.1. Amostragem por iniciativa do operador da empresa do sector alimentar",
+   "type": "divisao",
+   "heading": "2.1.1. Amostragem por iniciativa do operador da empresa do sector alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1.1. Amostragem por iniciativa do operador da empresa do sector alimentar\n\nA amostragem efectua-se de duas em duas semanas, no local designado pela autoridade competente, segundo duas opções possíveis:\n\na) No centro de incubação; ou\n\nb) Na exploração.\n\nA autoridade competente pode decidir aplicar uma das opções referidas nas alíneas a) ou b) ao regime de testes na sua integralidade para todos os bandos de reprodução de frangos de carne e outra dessas opções para todos os bandos de reprodução de galinhas poedeiras. Contudo, a amostragem de bandos de reprodução que põem ovos para incubação destinados ao comércio no interior da União deve ter lugar na exploração.\n\nDeve ser implantado um procedimento para garantir que a detecção da presença dos serótipos de salmonelas relevantes durante a amostragem por iniciativa do operador da empresa do sector alimentar é notificada imediatamente à autoridade competente pelo laboratório que efectua as análises. A notificação atempada da detecção da presença de qualquer serótipo de salmonelas relevante é da responsabilidade do operador da empresa do sector alimentar e do laboratório que efectua as análises.\n\nEm derrogação ao disposto no primeiro parágrafo do presente ponto, se o objectivo da União tiver sido alcançado durante pelo menos dois anos civis consecutivos em todo o território do Estado-Membro, a amostragem na exploração pode passar a efectuar-se de três em três semanas, a critério da autoridade competente. Todavia, em caso de detecção da presença de um serótipo de salmonelas relevante num bando de reprodução na exploração e/ou em qualquer outro caso considerado apropriado pela autoridade competente, esta pode decidir manter ou reduzir novamente o intervalo entre amostragens para duas semanas."
+  },
+  "988b8ceace97f795": {
+   "fragment_id": "2.1.2. Amostragem como elemento dos controlos oficiais",
+   "type": "divisao",
+   "heading": "2.1.2. Amostragem como elemento dos controlos oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.1.2. Amostragem como elemento dos controlos oficiais\n\nA amostragem como elemento dos controlos oficiais consiste em:\n\n2.1.2.1. Se a amostragem por iniciativa do operador da empresa do sector alimentar se efectuar no centro de incubação: a) Amostragem de rotina com uma periodicidade de 16 semanas no centro de incubação; b) Amostragem de rotina na exploração, por duas vezes no decurso do ciclo de produção, a primeira vez no prazo de quatro semanas a seguir à passagem para a fase ou unidade de postura, a segunda mais para o final da fase de postura, pelo menos no período de oito semanas que antecede o final do ciclo de produção; c) Amostragem de confirmação na exploração, caso se tenha detectado a presença dos serótipos de salmonelas relevantes nas amostras colhidas no centro de incubação.\n\n2.1.2.2. Se a amostragem por iniciativa do operador da empresa do sector alimentar se realizar na exploração, a amostragem de rotina efectuar-se-á por três vezes no decurso do ciclo de produção: a) No prazo de quatro semanas a seguir à passagem para a fase de postura ou unidade de postura; b) No final da fase de postura, pelo menos no período de oito semanas que antecede o final do ciclo de produção; c) A qualquer momento do ciclo de produção suficientemente distante da amostragem referida nas alíneas a) e b).\n\n2.1.2.3. Em derrogação aos pontos 2.1.2.1 e 2.1.2.2 e se o objectivo da União for alcançado durante pelo menos dois anos civis consecutivos em todo o território do Estado-Membro, a autoridade competente pode substituir as amostragens de rotina por uma amostragem: a) Na exploração, uma vez e em qualquer altura durante o ciclo de produção, e uma vez por ano no centro de incubação; ou b) Na exploração, em duas ocasiões e em qualquer altura desde que suficientemente distantes uma da outra durante o ciclo de produção. Todavia, em caso de detecção da presença de um serótipo de salmonelas relevante num bando de reprodução na exploração e/ou em qualquer outro caso considerado apropriado pela autoridade competente, esta pode decidir manter ou reduzir novamente o intervalo entre as amostragens estabelecidas nos pontos 2.1.2.1 ou 2.1.2.2. Uma amostragem realizada pela autoridade competente pode substituir a amostragem realizada por iniciativa do operador da empresa do sector alimentar."
+  },
+  "9626310324f1f3aa": {
+   "fragment_id": "2.2. Protocolo de amostragem",
+   "type": "divisao",
+   "heading": "2.2. Protocolo de amostragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2. Protocolo de amostragem"
+  },
+  "015bf74b8b54627b": {
+   "fragment_id": "2.2.1. Amostragem no centro de incubação",
+   "type": "divisao",
+   "heading": "2.2.1. Amostragem no centro de incubação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.1. Amostragem no centro de incubação\n\nEm cada amostragem, deve ser colhida pelo menos uma amostra de cada bando de reprodução.\n\nA amostragem deve ser prevista para um dia de incubação em que estejam disponíveis amostras de todos os bandos de reprodução. Se tal não for possível, tem de se garantir que as amostras são colhidas de cada bando, pelo menos com a frequência estabelecida no ponto 2.1.\n\nTodas as matérias de todas as incubadoras de onde são retirados os pintos nascidos no dia da amostragem devem contribuir para o conjunto de amostras de forma proporcional.\n\nSe houver mais de 50 000 ovos de um banho de reprodução nas incubadoras, deve ser colhida uma segunda amostra desse bando.\n\nA amostra deve consistir, no mínimo:\n\na) Numa amostra composta de revestimentos dos tabuleiros de incubação, visivelmente sujos, colhida aleatoriamente de cinco tabuleiros ou locais distintos, para atingir uma superfície total de amostragem de, pelo menos, 1 m^2^; se os ovos para incubação de um bando de reprodução ocuparem mais do que uma incubadora, colher-se-á uma amostra composta de todas as incubadoras, num máximo de cinco; ou\n\nb) Numa amostra colhida imediatamente após a remoção das aves, utilizando um ou vários tecidos para esfregaço humedecidos que tenham, pelo menos, 900 cm^2^ de área total, passados em toda a superfície do fundo de no mínimo cinco cestos de incubação, ou na penugem de cinco locais diferentes, incluindo o soalho, em todas a incubadoras com ovos incubados provenientes do bando, num máximo de cinco incubadoras, assegurando que se colhe, pelo menos, uma amostra por bando de que provêm os ovos; ou\n\nc) 10 g de cascas de ovo quebradas tiradas de um total de 25 cestos de incubação diferentes, ou seja, 250 g de amostra inicial, num máximo de cinco incubadoras com ovos incubados provenientes do bando, esmagadas, misturadas e subdivididas para formar uma subamostra de 25 g para submeter a ensaio.\n\nO procedimento indicado nas alíneas a), b) e c) será seguido na realização de amostragens por iniciativa do operador da empresa do sector alimentar, bem como enquanto elemento dos controlos oficiais. Contudo, não é obrigatório incluir uma incubadora com ovos de bandos diferentes se pelo menos 80 % dos ovos estiverem noutras incubadoras submetidas a amostragem."
+  },
+  "c46667ea5c0629bc": {
+   "fragment_id": "2.2.2. Amostragem na exploração",
+   "type": "divisao",
+   "heading": "2.2.2. Amostragem na exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.2. Amostragem na exploração"
+  },
+  "8360edb43a044844": {
+   "fragment_id": "2.2.2.1. Amostragem de rotina por iniciativa do operador da empresa do sector alimentar",
+   "type": "divisao",
+   "heading": "2.2.2.1. Amostragem de rotina por iniciativa do operador da empresa do sector alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.2.1. Amostragem de rotina por iniciativa do operador da empresa do sector alimentar\n\nA amostragem consiste principalmente na recolha de amostras de excrementos e tem por objectivo detectar uma prevalência de 1 % no bando, com um limite de confiança de 95 %. Para esse efeito, as amostras incluem um dos seguintes elementos:\n\na) Amostras combinadas de excrementos, compostas de amostras separadas de excrementos frescos, pesando cada uma pelo menos 1 g, colhidas aleatoriamente em diversos pontos da capoeira em que se encontra o bando de reprodução ou, caso este tenha livre acesso a mais de uma capoeira de uma determinada exploração, colhidas em cada grupo de capoeiras da exploração em que se encontra o bando de reprodução. Os excrementos podem ser agrupados para análise até um mínimo de dois grupos.\n\nNúmero de aves mantidas no bando de reprodução Número de amostras de excrementos a colher do bando de reprodução\n\n250-349 200\n\n350-449 220\n\n450-799 250\n\n800-999 260\n\n1 000 ou mais 300\n\nb) Amostras de esfregaços em botas e/ou amostras de pó:\n\nAs botas para esfregaço devem ser suficientemente absorventes de modo a absorver a humidade. Para este efeito, também são aceitáveis as «meias» tubulares de gaze.\n\nHumedece-se a superfície das botas para esfregaço com diluente adequado (como cloreto de sódio a 0,8 %, peptona a 0,1 % em água desionizada estéril, água estéril, ou qualquer outro diluente aprovado pela autoridade competente).\n\nAs amostras são colhidas enquanto se anda através da instalação, utilizando um caminho que produza amostras representativas de todas as partes da capoeira ou do respectivo sector. Isto deve incluir as zonas de cama e com chão de ripas, desde que seja seguro caminhar sobre essas ripas. A amostragem deve incluir todos os diferentes compartimentos dentro de uma mesma capoeira. Concluída a amostragem em determinado sector, devem retirar-se cuidadosamente as botas para esfregaço de modo a não remover o material aderente.\n\ni) cinco pares de botas para esfregaço, representando cada um cerca de 20 % da superfície da capoeira; as amostras de esfregaços podem ser agrupadas para análise num mínimo de dois grupos, ou\n\nii) pelo menos um par de botas para esfregaço, representando a totalidade da superfície da capoeira, e uma amostra de pó adicional colhida em diversos locais em toda a capoeira em superfícies onde a presença de pó seja visível; para colher a amostra de pó, devem ser utilizados um ou vários tecidos para esfregaço humedecidos que tenham, pelo menos, 900 cm^2^ de área total.\n\nc) No que se refere aos bandos criados em gaiolas, as amostras podem ser excrementos naturalmente misturados provenientes dos tapetes de evacuação do esterco, das raspadeiras ou das fossas, dependendo do tipo de gaiola utilizada. Recolhem-se duas amostras de, pelo menos, 150 g, que serão analisadas individualmente:\n\ni) tapetes de evacuação do esterco por baixo de cada piso de gaiolas que são regularmente accionados e descarregados para um sistema de parafuso sem fim ou um tapete rolante;\n\nii) sistema de fossa, em que existem deflectores por baixo das gaiolas que raspam para uma fossa por baixo da instalação;\n\niii) sistema de fossa no caso de gaiolas montadas em escada, estando desalinhadas, e os excrementos caem directamente para a fossa."
+  },
+  "211c08c87641c771": {
+   "fragment_id": "2.2.2.2. Amostragem como elemento dos controlos oficiais",
+   "type": "divisao",
+   "heading": "2.2.2.2. Amostragem como elemento dos controlos oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.2.2. Amostragem como elemento dos controlos oficiais\n\na) A amostragem de rotina será efectuada tal como descrita no ponto 2.2.2.1.\n\nb) A amostragem de confirmação, caso se tenham detectado os serótipos de salmonelas relevantes nas amostras colhidas no centro de incubação, efectua-se tal como descrito no ponto 2.2.2.1.\n\nc) Suspeita de resultados falsos"
+  },
+  "896a92140c474cc8": {
+   "fragment_id": "3. ANÁLISE DAS AMOSTRAS",
+   "type": "divisao",
+   "heading": "3. ANÁLISE DAS AMOSTRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. ANÁLISE DAS AMOSTRAS"
+  },
+  "acc4b8141454b2f3": {
+   "fragment_id": "3.1. Transporte e preparação das amostras",
+   "type": "divisao",
+   "heading": "3.1. Transporte e preparação das amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1. Transporte e preparação das amostras"
+  },
+  "f18566d3df565074": {
+   "fragment_id": "3.1.1. Transporte",
+   "type": "divisao",
+   "heading": "3.1.1. Transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.1. Transporte\n\nAs amostras devem ser enviadas, de preferência, por correio expresso ou por serviço de correio privado aos laboratórios mencionados nos artigos 11.º e 12.º do Regulamento (CE) n.º 2160/2003 no prazo de 24 horas após a colheita. Se não forem enviadas nesse prazo, devem manter-se refrigeradas. O transporte pode ser efectuado à temperatura ambiente desde que sejam evitados calor excessivo (superior a 25 °C) e exposição à luz solar. No laboratório, as amostras devem conservar-se refrigeradas até à sua análise, a qual deve iniciar-se no prazo de 48 horas após a sua recepção e de 96 horas após a colheita."
+  },
+  "6fad10d1bf1e7fd0": {
+   "fragment_id": "3.1.2. Revestimentos dos tabuleiros de incubação",
+   "type": "divisao",
+   "heading": "3.1.2. Revestimentos dos tabuleiros de incubação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.2. Revestimentos dos tabuleiros de incubação\n\na) Colocar a amostra num litro de água peptonada tamponada, previamente aquecida à temperatura ambiente, e agitar suavemente;\n\nb) Continuar a cultura da amostra através do método de detecção descrito no ponto 3.2."
+  },
+  "46b6768886f8b71e": {
+   "fragment_id": "3.1.3. Amostras de esfregaços em botas e amostras de pó",
+   "type": "divisao",
+   "heading": "3.1.3. Amostras de esfregaços em botas e amostras de pó",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.3. Amostras de esfregaços em botas e amostras de pó\n\na) Os pares de botas/meias para esfregaço e as amostras de pó (tecido para esfregaço) devem ser desembrulhados cuidadosamente, de forma a evitar a retirada dos excrementos aderentes ou a perda de partículas de pó, e colocados em 225 ml de água peptonada tamponada, previamente aquecida à temperatura ambiente;\n\nb) As botas/meias para esfregaço e o tecido para esfregaço devem ficar completamente imersos na água peptonada tamponada para que o líquido livre à volta da amostra seja suficiente para permitir a migração das salmonelas, podendo, por conseguinte, ser acrescentada mais água peptonada tamponada, se necessário.\n\nc) Nos casos em que se tenham reunido cinco pares de botas/meias para esfregaço em duas amostras, colocar cada amostra já reunida em 225 ml de água peptonada tamponada, ou mais se necessário, para imersão total da amostra e de modo a que o líquido livre à volta da amostra seja suficiente para permitir a migração das salmonelas;\n\nd) Agitar para saturar completamente a amostra e continuar a cultura através do método de detecção descrito no ponto 3.2."
+  },
+  "885f6349337bb04b": {
+   "fragment_id": "3.1.4. Outras amostras de excrementos",
+   "type": "divisao",
+   "heading": "3.1.4. Outras amostras de excrementos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.4. Outras amostras de excrementos\n\na) As amostras de excrementos devem ser combinadas e misturadas cuidadosamente, devendo colher-se uma subamostra de 25 g para cultura;\n\nb) À subamostra de 25 g devem adicionar-se 225 ml de água peptonada tamponada, previamente aquecida à temperatura ambiente;\n\nc) Continuar a cultura da amostra através do método de detecção descrito no ponto 3.2.\n\nCaso sejam acordadas normas ISO sobre a preparação de amostras relevantes para a detecção de salmonelas, essas normas devem ser aplicadas, devendo substituir-se às disposições referidas nos pontos 3.1.2, 3.1.3 e 3.1.4 relativas à preparação das amostras."
+  },
+  "51c66f6f30ce5b4d": {
+   "fragment_id": "3.2. Método de detecção",
+   "type": "divisao",
+   "heading": "3.2. Método de detecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Método de detecção\n\nA detecção dos serótipos de salmonelas relevantes é realizada de acordo com a alteração 1 da norma EN/ISO 6579-2002/Amd1:2007. «Microbiologia de alimentos para consumo humano e para alimentação animal — Método horizontal para a detecção de *Salmonella* spp. — Alteração 1: Anexo D: Detecção de *Salmonella* spp. em excrementos de origem animal e em amostras ambientais da fase de produção primária».\n\nNo que se refere às amostras em botas para esfregaço, amostras de pó e outras amostras de excrementos referidas no ponto 3.1, é possível combinar para cultura posterior o caldo de enriquecimento de água peptonada tamponada incubado. Para o efeito, incubar ambas as amostras em água peptonada tamponada, tal como referido no ponto 3.1.3. Retirar 1 ml de caldo incubado de cada amostra e misturar cuidadosamente; em seguida, retirar 0,1 ml da mistura e inocular as placas de meio Rappaport-Vassiladis semi-sólido modificado (MSRV).\n\nNão mexer nem agitar de qualquer outra maneira as amostras em água peptonada tamponada após a incubação, dado que isto liberta partículas inibitórias e reduz o isolamento subsequente em MSRV."
+  },
+  "8d7f5a8171860df2": {
+   "fragment_id": "3.3. Serotipagem",
+   "type": "divisao",
+   "heading": "3.3. Serotipagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.3. Serotipagem\n\nPara cada amostra que revela uma reacção positiva, deve fazer-se a tipagem de pelo menos um isolado, segundo o sistema Kaufmann-White."
+  },
+  "6526b41486a0d818": {
+   "fragment_id": "3.4. Métodos alternativos",
+   "type": "divisao",
+   "heading": "3.4. Métodos alternativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.4. Métodos alternativos\n\nNo atinente às amostras colhidas por iniciativa do operador da empresa do sector alimentar, podem ser utilizados métodos alternativos, em substituição dos métodos de preparação de amostras, dos métodos de detecção e da serotipagem previstos nos pontos 3.1, 3.2 e 3.3 do presente anexo, se validados de acordo com a versão mais recente da norma EN/ISO 16140."
+  },
+  "5cff69d7019b53f4": {
+   "fragment_id": "3.5. Armazenagem das estirpes",
+   "type": "divisao",
+   "heading": "3.5. Armazenagem das estirpes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.5. Armazenagem das estirpes\n\nDeve assegurar-se a armazenagem, para eventual futura fagotipagem ou teste de susceptibilidade antimicrobiana, de pelo menos uma estirpe dos serótipos de salmonelas relevantes por capoeira e por ano, isolada a partir da amostragem como elemento dos controlos oficiais, usando os métodos normais de colecção de culturas, que devem assegurar a integridade das estirpes durante um período mínimo de dois anos. Se a autoridade competente assim o decidir, os isolados da amostragem por iniciativa dos operadores de empresas do sector alimentar serão igualmente armazenados para estes fins."
+  },
+  "76517eb1d125cbc5": {
+   "fragment_id": "4. RESULTADOS E RELATÓRIOS",
+   "type": "divisao",
+   "heading": "4. RESULTADOS E RELATÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. RESULTADOS E RELATÓRIOS\n\nUm bando de reprodução é considerado positivo para efeitos de verificação da consecução do objectivo da União,\n\n— se for detectada a presença dos serótipos de salmonelas relevantes (excepto estirpes de vacina) numa ou várias amostras do bando, mesmo que os serótipos de salmonelas relevantes apenas sejam detectados na amostra de pó, ou\n\n— se a amostragem de confirmação como elemento dos controlos oficiais em conformidade com o ponto 2.2.2.2, alínea b), não confirmar a detecção dos serótipos de salmonelas relevantes mas tenham sido detectados no bando agentes antimicrobianos ou de efeito inibidor do crescimento bacteriano.\n\nEsta regra não se aplica nos casos excepcionais descritos no ponto 2.2.2.2, alínea c), sempre que o resultado inicial positivo às salmonelas da amostragem por iniciativa do operador da empresa do sector alimentar não for confirmado pela amostragem como elemento dos controlos oficiais.\n\nUm bando de reprodução positivo é apenas contabilizado uma vez independentemente da frequência com que os serótipos de salmonelas relevantes tiverem sido detectados neste bando durante o período de produção ou de a amostragem ter sido realizada por iniciativa do operador da empresa do sector alimentar ou pela autoridade competente. No entanto, se a amostragem durante o período de produção abranger mais de dois anos civis, o resultado de cada ano é notificado separadamente.\n\nOs relatórios devem incluir:\n\na) Uma descrição pormenorizada das opções aplicadas no regime de amostragem e o tipo de amostras colhidas, conforme adequado;\n\nb) O número total de bandos adultos de reprodução com, pelo menos, 250 aves que foram testados no mínimo uma vez durante o ano a que se refere o relatório;\n\nc) Os resultados das análises, incluindo:\n\ni) o número total de bandos de reprodução positivos a quaisquer salmonelas no Estado-Membro;\n\nii) o número de bandos de reprodução positivos a, pelo menos, um dos serótipos de salmonelas relevantes;\n\niii) o número de bandos de reprodução positivos a cada serótipo de salmonelas ou a salmonelas não especificadas (isolados não tipáveis ou não submetidos a serotipagem);\n\nd) O número de casos nos quais a amostra inicial positiva às salmonelas da amostragem por iniciativa do operador da empresa do sector alimentar não foi confirmada pela amostragem como elemento dos controlos oficiais;\n\ne) A explicação dos resultados, sobretudo no que se refere aos casos excepcionais.\n\nOs resultados e quaisquer informações adicionais relevantes devem ser notificados como parte do relatório sobre tendências e origens previsto no n.º 1 do artigo 9.º da Directiva 2003/99/CE.\n\n---"
+  },
+  "8faa2b7add6104b0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/285e85d6-a7ba-49bf-899a-33ae47121e6b.0018.03/DOC_2#src.E0001)) JO L 325 de 12.12.2003, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/285e85d6-a7ba-49bf-899a-33ae47121e6b.0018.03/DOC_2#src.E0002)) JO L 170 de 1.7.2005, p. 12.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/285e85d6-a7ba-49bf-899a-33ae47121e6b.0018.03/DOC_2#src.E0003)) JO L 325 de 12.12.2003, p. 31.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/285e85d6-a7ba-49bf-899a-33ae47121e6b.0018.03/DOC_2#src.E0004)) *The EFSA Journal* (2009) 1036, p. 1-68.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/285e85d6-a7ba-49bf-899a-33ae47121e6b.0018.03/DOC_2#src.E0005)) JO L 317 de 3.12.2009, p. 36."
+  },
+  "1b86935c9e14bd0b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Março de 2010\n\nque dá execução ao Regulamento (CE) n.º 2160/2003 do Parlamento Europeu e do Conselho no que se refere ao objectivo da União de redução da prevalência de serótipos de *salmonela* em bandos adultos de reprodução de *Gallus gallus*\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "24c1d06e088c049b": {
+   "fragment_id": "2.2.2.1. Amostragem de rotina por iniciativa do operador da empresa do sector alimentar",
+   "type": "divisao",
+   "heading": "2.2.2.1. Amostragem de rotina por iniciativa do operador da empresa do sector alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2.2.2.1. Amostragem de rotina por iniciativa do operador da empresa do sector alimentar\n\nA amostragem consiste principalmente na recolha de amostras de excrementos e tem por objectivo detectar uma prevalência de 1 % no bando, com um limite de confiança de 95 %. Para esse efeito, as amostras incluem um dos seguintes elementos:\n\na) Amostras combinadas de excrementos, compostas de amostras separadas de excrementos frescos, pesando cada uma pelo menos 1 g, colhidas aleatoriamente em diversos pontos da capoeira em que se encontra o bando de reprodução ou, caso este tenha livre acesso a mais de uma capoeira de uma determinada exploração, colhidas em cada grupo de capoeiras da exploração em que se encontra o bando de reprodução. Os excrementos podem ser agrupados para análise até um mínimo de dois grupos.\n\nNúmero de aves mantidas no bando de reprodução Número de amostras de excrementos a colher do bando de reprodução\n\n250-349 200\n\n350-449 220\n\n450-799 250\n\n800-999 260\n\n1 000 ou mais 300\n\nb) Amostras de esfregaços em botas e/ou amostras de pó:\n\nAs botas para esfregaço devem ser suficientemente absorventes de modo a absorver a humidade. Para este efeito, também são aceitáveis as «meias» tubulares de gaze.\n\nHumedece-se a superfície das botas para esfregaço com diluente adequado (como cloreto de sódio a 0,8 %, peptona a 0,1 % em água desionizada estéril, água estéril, ou qualquer outro diluente aprovado pela autoridade competente).\n\nAs amostras são colhidas enquanto se anda através da instalação, utilizando um caminho que produza amostras representativas de todas as partes da capoeira ou do respectivo sector. Isto deve incluir as zonas de cama e com chão de ripas, desde que seja seguro caminhar sobre essas ripas. A amostragem deve incluir todos os diferentes compartimentos dentro de uma mesma capoeira. Concluída a amostragem em determinado sector, devem retirar-se cuidadosamente as botas para esfregaço de modo a não remover o material aderente.\n\ni) cinco pares de botas para esfregaço, representando cada um cerca de 20 % da superfície da capoeira; as amostras de esfregaços podem ser agrupadas para análise num mínimo de dois grupos, ou\n\nii) pelo menos um par de botas para esfregaço, representando a totalidade da superfície da capoeira, e uma amostra de pó adicional colhida em diversos locais em toda a capoeira em superfícies onde a presença de pó seja visível; para colher a amostra de pó, devem ser utilizados um ou vários tecidos para esfregaço humedecidos que tenham, pelo menos, 900 cm^2^ de área total.\n\nc) No que se refere aos bandos criados em gaiolas, as amostras podem ser excrementos naturalmente misturados provenientes dos tapetes de evacuação do esterco, das raspadeiras ou das fossas, dependendo do tipo de gaiola utilizada. Recolhem-se duas amostras de, pelo menos, 150 g, que serão analisadas individualmente:\n\ni) tapetes de evacuação do esterco por baixo de cada piso de gaiolas que são regularmente accionados e descarregados para um sistema de parafuso sem fim ou um tapete rolante;\n\nii) sistema de fossa, em que existem deflectores por baixo das gaiolas que raspam para uma fossa por baixo da instalação;\n\niii) sistema de fossa no caso de gaiolas montadas em escada, estando desalinhadas, e os excrementos caem directamente para a fossa.\n\nd) Nas instalações de gaiolas em que não se acumula uma quantidade suficiente de excrementos nas raspadeiras ou instrumentos de limpeza dos tapetes na extremidade de descarga dos tapetes, devem ser utilizados quatro ou mais tecidos para esfregaço humedecidos que tenham, pelo menos, 900 cm^2^ por esfregaço, humedecidos com um diluente adequado (como cloreto de sódio a 0,8 %, peptona a 0,1 % em água desionizada estéril, água estéril, ou qualquer outro diluente aprovado pela autoridade competente), para efetuar um esfregaço de uma superfície tão vasta quanto possível na extremidade de descarga de todos os tapetes acessíveis, após estes terem sido colocados em funcionamento, garantindo que cada esfregaço está revestido em ambos os lados com excrementos dos tapetes e raspadeiras ou instrumentos de limpeza dos tapetes.\n\ne) Nas instalações de criação no solo ou ao ar livre com vários níveis em que a maior parte dos excrementos são removidos da instalação por tapetes de evacuação do esterco, a amostragem deve ser efetuada utilizando um par de botas para esfregaço e caminhando nas zonas de cama em conformidade com a alínea b), e, pelo menos, dois tecidos para esfregaço humedecidos, para efetuar um esfregaço à mão de todos os tapetes de evacuação do esterco acessíveis, como na alínea d)."
+  },
+  "0dc6e287164d68c7": {
+   "fragment_id": "3.1.4. Outras amostras de excrementos",
+   "type": "divisao",
+   "heading": "3.1.4. Outras amostras de excrementos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.1.4. Outras amostras de excrementos\n\na) As amostras de excrementos devem ser combinadas e misturadas cuidadosamente, devendo colher-se uma subamostra de 25 g para cultura;\n\nb) À subamostra de 25 g devem adicionar-se 225 ml de água peptonada tamponada, previamente aquecida à temperatura ambiente;\n\nc) Continuar a cultura da amostra através do método de detecção descrito no ponto 3.2.\n\nCaso sejam acordadas normas ISO sobre a preparação de amostras relevantes para a detecção de salmonelas, essas normas devem ser aplicadas, devendo substituir-se às disposições referidas nos pontos 3.1.2, 3.1.3 e 3.1.4 relativas à preparação das amostras.\n\nEm caso de recolha de tecido para esfregaço em conformidade com o ponto 2.2.2.1, alínea d), ou de um par de botas para esfregaço e dois tecidos para esfregaço humedecidos em conformidade com o ponto 2.2.2.1, alínea e), as amostras devem ser combinadas em conformidade com o ponto 3.1.3, alínea b)."
+  },
+  "03c043a362ea184b": {
+   "fragment_id": "3.2. Método de detecção",
+   "type": "divisao",
+   "heading": "3.2. Método de detecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.2. Método de detecção\n\nA deteção de *Salmonella* spp. é realizada de acordo com a norma EN ISO 6579-1.\n\nNo que se refere às amostras em botas para esfregaço, amostras de pó e outras amostras de excrementos referidas no ponto 3.1, é possível combinar para cultura posterior o caldo de enriquecimento de água peptonada tamponada incubado. Para o efeito, incubar ambas as amostras em água peptonada tamponada, tal como referido no ponto 3.1.3. Retirar 1 ml de caldo incubado de cada amostra e misturar cuidadosamente; em seguida, retirar 0,1 ml da mistura e inocular as placas de meio Rappaport-Vassiladis semi-sólido modificado (MSRV).\n\nNão mexer nem agitar de qualquer outra maneira as amostras em água peptonada tamponada após a incubação, dado que isto liberta partículas inibitórias e reduz o isolamento subsequente em MSRV."
+  },
+  "123270cb6f705a64": {
+   "fragment_id": "3.4. Métodos alternativos",
+   "type": "divisao",
+   "heading": "3.4. Métodos alternativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3.4. Métodos alternativos\n\nPodem ser utilizados métodos alternativos, em substituição dos métodos de deteção e de serotipagem previstos nos pontos 3.1, 3.2 e 3.3 do presente anexo, se validados de acordo com a norma EN ISO 16140-2 (para métodos alternativos de deteção)."
+  },
+  "84e10478a69d384b": {
+   "fragment_id": "4. RESULTADOS E RELATÓRIOS",
+   "type": "divisao",
+   "heading": "4. RESULTADOS E RELATÓRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. RESULTADOS E RELATÓRIOS\n\nUm bando de reprodução é considerado positivo para efeitos de verificação da consecução do objectivo da União,\n\n— se for detectada a presença dos serótipos de salmonelas relevantes (excepto estirpes de vacina) numa ou várias amostras do bando, mesmo que os serótipos de salmonelas relevantes apenas sejam detectados na amostra de pó, ou\n\n— se a amostragem de confirmação como elemento dos controlos oficiais em conformidade com o ponto 2.2.2.2, alínea b), não confirmar a detecção dos serótipos de salmonelas relevantes mas tenham sido detectados no bando agentes antimicrobianos ou de efeito inibidor do crescimento bacteriano.\n\nEsta regra não se aplica nos casos excepcionais descritos no ponto 2.2.2.2, alínea c), sempre que o resultado inicial positivo às salmonelas da amostragem por iniciativa do operador da empresa do sector alimentar não for confirmado pela amostragem como elemento dos controlos oficiais.\n\nUm bando de reprodução positivo é apenas contabilizado uma vez independentemente da frequência com que os serótipos de salmonelas relevantes tiverem sido detectados neste bando durante o período de produção ou de a amostragem ter sido realizada por iniciativa do operador da empresa do sector alimentar ou pela autoridade competente. No entanto, se a amostragem durante o período de produção abranger mais de dois anos civis, o resultado de cada ano é notificado separadamente.\n\nOs relatórios devem incluir:\n\na) Uma descrição pormenorizada das opções aplicadas no regime de amostragem e o tipo de amostras colhidas, conforme adequado;\n\nb) O número total de bandos adultos de reprodução com, pelo menos, 250 aves que foram testados no mínimo uma vez durante o ano a que se refere o relatório;\n\nc) Os resultados das análises, incluindo:\n\ni) o número total de bandos de reprodução positivos a quaisquer salmonelas no Estado-Membro;\n\nii) o número de bandos de reprodução positivos a, pelo menos, um dos serótipos de salmonelas relevantes;\n\niii) o número de bandos de reprodução positivos a cada serótipo de salmonelas ou a salmonelas não especificadas (isolados não tipáveis ou não submetidos a serotipagem);\n\nd) O número de casos nos quais a amostra inicial positiva às salmonelas da amostragem por iniciativa do operador da empresa do sector alimentar não foi confirmada pela amostragem como elemento dos controlos oficiais;\n\ne) A explicação dos resultados, sobretudo no que se refere aos casos excepcionais.\n\nOs resultados e quaisquer informações adicionais relevantes devem ser notificados como parte do relatório sobre tendências e origens previsto no n.º 1 do artigo 9.º da Directiva 2003/99/CE."
+  }
+ }
+}

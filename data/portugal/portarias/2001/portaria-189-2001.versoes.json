@@ -1,0 +1,244 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:401733:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-943762775",
+ "dre_path": "/dr/detalhe/portaria/189-2001-401733",
+ "source_lastmod": "2025-11-04",
+ "versions": [
+  {
+   "date": "2001-03-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "942972932",
+    "942972933",
+    "942972934",
+    "942972935",
+    "942972936",
+    "942972937",
+    "942972938",
+    "942972939",
+    "942972940",
+    "942972941",
+    "942972942",
+    "942972943",
+    "942972944",
+    "942972945",
+    "942972946",
+    "942972947",
+    "942972948",
+    "942972949",
+    "942972950",
+    "942972951",
+    "942972952",
+    "942972953",
+    "942972954",
+    "942972955",
+    "942972956"
+   ]
+  }
+ ],
+ "fragments": {
+  "942972932": {
+   "fragment_id": "943762776",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 189/2001\n\nde 9 de Março\n\nO artigo 25.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, determina que os preços a cobrar pelos cuidados prestados no quadro do SNS são estabelecidos por portaria do Ministro da Saúde tendo em conta os custos reais e o necessário equilíbrio de exploração.\n\nOs preços fixados pela Portaria n.º 348-B/98, de 18 de Junho, encontram-se desajustados face aos custos reais, importando, assim, proceder à actualização da tabela de preços a cobrar pelo SNS, de modo a concretizar a repartição da responsabilidade pelos encargos com cuidados de saúde prevista no artigo 23.º do Estatuto.\n\nAssim:\n\nNos termos do artigo 23.º e do n.º 1 do artigo 25.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro:\n\nManda o Governo, pela Ministra da Saúde, o seguinte:"
+  },
+  "942972933": {
+   "fragment_id": "943762777",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO valor das prestações de saúde realizadas pelas instituições e serviços integrados no Serviço Nacional de Saúde e que devam ser cobradas aos subsistemas de saúde cujos beneficiários a eles recorram, bem como a quaisquer entidades, públicas ou privadas, responsáveis pelos respectivos encargos, regem-se pelo presente Regulamento."
+  },
+  "942972934": {
+   "fragment_id": "943762778",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente Regulamento, entende-se por:\n\na) Doente internado - indivíduo que ocupa cama ou berço de neonatologia ou de pediatria, para diagnóstico ou tratamento, com permanência de pelo menos uma noite no estabelecimento de saúde;\n\nb) Tempo de internamento - número de dias consumidos por cada doente internado, considerando o dia da admissão e ignorando o da alta. Nesta contagem não se incluem os dias de estada em SO do serviço de urgência, quando o doente tiver tido alta deste serviço. Para efeitos de agrupamento dos doentes em grupos de diagnósticos homogéneos, incluem-se nesta contagem os dias referentes à observação em SO, sempre que o doente tiver sido internado através do serviço de urgência;\n\nc) Intervenção cirúrgica - acto invasivo único ou múltiplo, com objectivo terapêutico e ou de diagnóstico, realizado por cirurgião, sob qualquer tipo de anestesia, em sala operatória e na mesma sessão;\n\nd) Cirurgia de ambulatório - intervenção cirúrgica programada, realizada sob anestesia geral, loco-regional ou local que, embora habitualmente efectuada em regime de internamento, pode ser realizada em instalações próprias;\n\ne) Com segurança e de acordo com as actuais leges artis, em regime de admissão e alta no mesmo dia.\n\n2 - É equiparado a doente internado o doente saído contra parecer médico, por óbito, por procedimento não realizado ou transferido do internamento para outro estabelecimento de saúde que depois de admitido não chegue a permanecer uma noite no hospital."
+  },
+  "942972935": {
+   "fragment_id": "943762779",
+   "type": 11,
+   "heading": "Artigo 3.º — Grupos de diagnósticos homogéneos para o internamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Grupos de diagnósticos homogéneos para o internamento\n\n1 - Nos hospitais centrais, nos centros regionais do Instituto Português de Oncologia de Francisco Gentil, no Instituto de Oftalmologia do Dr. Gama Pinto e nos hospitais distritais, os preços a aplicar aos doentes internados são os constantes na Tabela Nacional de Grupos de Diagnósticos Homogéneos (GDH) - Internamento (anexo II), devendo observar-se na sua aplicação o disposto nos números seguintes.\n\n2 - Os hospitais distritais de nível 1 facturam 90% dos preços constantes na Tabela.\n\n3 - A facturação dos GDH deve ser feita de acordo com as seguintes regras:\n\na) O valor a facturar é o em vigor na data da alta do doente;\n\nb) O preço do GDH compreende todos os serviços prestados no internamento, quer em regime de enfermaria, quer em unidades de cuidados intensivos, incluindo todos os cuidados médicos, hotelaria e meios complementares de diagnóstico e terapêutica;\n\nc) A cada episódio de internamento só pode corresponder um GDH, independentemente do número de serviços em que o doente tenha sido tratado desde a data de admissão até à data da alta;\n\nd) Nas situações em que o internamento se tenha processado através do serviço de urgência podem ser facturados, para além do preço do GDH, os actos aí praticados, de acordo com o estabelecido no artigo 19.º, desde que compreendidos no período de vinte e quatro horas após a admissão. Excluem-se, no entanto, os actos codificados para efeito de agrupamento do doente em GDH, os quais não dão lugar a pagamento para além do preço do respectivo GDH.\n\n4 - O preço a facturar, por doente, em cada GDH, é o constante das colunas D e E da Tabela, com excepção do disposto nos artigos 4.º a 10.º\n\n5 - Os preços estabelecidos para o GDH 483 apenas podem ser aplicados às situações em que o doente foi submetido a ventilação mecânica (códigos de procedimento 96.7X da CID-9-MC); aos doentes classificados naquele GDH que não tenham sido submetidos a ventilação mecânica aplicam-se os preços estabelecidos para o GDH 482."
+  },
+  "942972936": {
+   "fragment_id": "943762780",
+   "type": 11,
+   "heading": "Artigo 4.º — Equiparados a doentes internados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Equiparados a doentes internados\n\nNos casos de equiparação a doente internado a que se refere o n.º 2 do artigo 2.º devem observar-se as seguintes regras de facturação:\n\na) Os doentes saídos contra parecer médico ou por óbito são pagos pelo preço constante das colunas G e H da Tabela (100% da diária do respectivo GDH);\n\nb) Os doentes saídos por procedimento não realizado ou transferidos do internamento para outro estabelecimento de saúde não dão lugar a pagamento."
+  },
+  "942972937": {
+   "fragment_id": "943762781",
+   "type": 11,
+   "heading": "Artigo 5.º — Transferência de doentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transferência de doentes\n\n1 - As prestações de saúde realizadas a doentes transferidos para outros hospitais do SNS devem ser facturadas de acordo com os critérios constantes dos números seguintes.\n\n2 - As prestações de saúde realizadas a doentes internados que sejam transferidos para outros hospitais do SNS por inexistência de recursos no hospital que transfere devem ser facturadas de acordo com os seguintes critérios:\n\na) Os dias de internamento até à transferência são facturados, pelo hospital que transfere, aos preços por dia de internamento constantes das colunas G e H (100% da diária do respectivo GDH), não podendo exceder, no entanto, 50% do preço do respectivo GDH;\n\nb) O hospital que trata o doente transferido factura o preço do respectivo GDH.\n\n3 - O hospital que trata um doente transferido ou que transfere um doente para outro hospital para continuidade de prestação de cuidados factura o preço do respectivo GDH de acordo com as regras estabelecidas no n.º 4 do artigo 3.º e no artigo 6.º\n\n4 - Na transferência de doentes internados para outro hospital para continuidade de prestação de cuidados deve observar-se o seguinte:\n\na) O hospital que trata o doente factura o preço do respectivo GDH;\n\nb) O hospital que recebe o doente transferido para continuidade de prestação de cuidados factura o GDH 465 ou 466.\n\n5 - Exceptuam-se do disposto na alínea b) do número anterior os casos em que os preços dos GDH 465 e 466 excedam o preço do GDH em que o doente foi classificado no hospital que efectuou a transferência (GDH de origem). Nesses casos, o hospital que recebe o doente transferido factura o número de dias de internamento pelas diárias constantes das colunas G e H (100% da diária do GDH de origem), não podendo, no entanto, exceder o preço desse GDH.\n\n6 - Nos casos excepcionais em que o doente transferido para continuidade de prestação de cuidados é no hospital que o recebe submetido a intervenção cirúrgica, nomeadamente por ocorrência de uma complicação da sua situação clínica, factura-se o preço do respectivo GDH.\n\n7 - Na transferência de doentes internados para outro hospital para realização de exame que obrigue ao seu internamento, seguindo-se o tratamento no hospital de origem, observa-se o seguinte:\n\na) O hospital que trata o doente factura o preço do respectivo GDH;\n\nb) O hospital que realiza o exame não pode facturar ao terceiro responsável os custos decorrentes da sua realização.\n\n8 - Nas situações em que a transferência do doente internado implique o seu transporte em helicóptero da Força Aérea ou em ambulância deve ser facturado, para além do preço do GDH, o custo do respectivo transporte, conforme o estabelecido no anexo III-A.\n\n9 - Na transferência de doentes assistidos no estrangeiro observa-se o disposto nos n.os 2 a 8.\n\n10 - Os terceiros legal ou contratualmente responsáveis pelo pagamento dos cuidados prestados podem pedir a transferência do doente para unidade de saúde fora do SNS, mediante o pagamento do preço do GDH em que o doente foi classificado, nos termos previstos no n.º 4 do artigo 3.º e no artigo 6.º"
+  },
+  "942972938": {
+   "fragment_id": "943762782",
+   "type": 11,
+   "heading": "Artigo 6.º — Doentes internados de curta e de longa duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Doentes internados de curta e de longa duração\n\n1 - As prestações de saúde realizadas a doentes cujos tempos de internamento sejam menores ou iguais aos limiares inferiores definidos na coluna K devem ser facturadas, por dia de internamento, aos preços constantes das colunas G e H da Tabela (100% da diária do respectivo GDH).\n\n2 - Quando os tempos de internamento forem iguais ou superiores aos limiares superiores definidos na coluna L, deve ser observado o seguinte:\n\na) Nos casos em que o tempo de internamento seja inferior ao limiar máximo definido na coluna M, o hospital factura o preço do GDH e, ainda, por cada dia de internamento a contar do respectivo limiar superior, o preço constante das colunas I e J (60% da diária do GDH);\n\nb) Nos casos em que o tempo de internamento seja igual ou superior ao limiar máximo definido na coluna M aplica-se o estabelecido na alínea anterior até ao limiar máximo e, ainda, por cada dia de internamento a contar do limiar máximo, o valor da diária constante no n.º 1 do artigo 12.º para outros serviços de saúde com internamento."
+  },
+  "942972939": {
+   "fragment_id": "943762783",
+   "type": 11,
+   "heading": "Artigo 7.º — Internamento em psiquiatria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Internamento em psiquiatria\n\n1 - No caso de doentes internados em serviços ou departamentos de psiquiatria e saúde mental de hospitais centrais e distritais deve observar-se o seguinte:\n\na) Aos episódios agudos aplicam-se os preços dos GDH e respectivas regras de facturação;\n\nb) Exceptuam-se do disposto na alínea anterior os casos cuja data de admissão ocorra até 60 dias após um episódio de internamento anterior em serviço ou departamento de psiquiatria e saúde mental do mesmo hospital, os quais deverão ser facturados por dia de internamento, pelo valor da diária constante do n.º 1 do artigo 12.º para outros serviços de saúde com internamento;\n\nc) Às situações não contempladas na alínea a) aplica-se a diária constante do n.º 1 do artigo 12.º para hospitais psiquiátricos."
+  },
+  "942972940": {
+   "fragment_id": "943762784",
+   "type": 11,
+   "heading": "Artigo 8.º — Internamento em medicina física e de reabilitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Internamento em medicina física e de reabilitação\n\n1 - No caso de doentes internados em serviços de medicina física e de reabilitação oficialmente reconhecidos aplicam-se as diárias referidas no n.º 1 do artigo 12.º\n\n2 - Nas situações de transferência dentro do mesmo hospital para uma unidade de medicina física e de reabilitação oficialmente reconhecida deve observar-se o seguinte:\n\na) Até à transferência para a unidade de medicina física e de reabilitação aplicam-se as regras de facturação definidas no n.º 4 do artigo 3.º e no artigo 6.º;\n\nb) Os dias de internamento na unidade de medicina física e de reabilitação são facturados pelas diárias referidas no n.º 1 do artigo 12.º"
+  },
+  "942972941": {
+   "fragment_id": "943762785",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios específicos\n\n1 - Nos casos de implante coclear, cirurgia da vitreorretinopatia, transplante de pâncreas, transplante do intestino e implantação ou substituição de cardioversor-desfibrilhador automático não são aplicáveis os preços dos GDH, devendo a facturação ser efectuada, por dia de internamento, conforme o disposto no n.º 1 do artigo 12.º\n\n2 - No caso de doentes ventilados permanentemente, o pagamento da assistência prestada é efectuado, por dia de internamento, ao preço correspondente a 50% da diária em unidade de cuidados intensivos fixada no n.º 1 do artigo 12.º"
+  },
+  "942972942": {
+   "fragment_id": "943762786",
+   "type": 11,
+   "heading": "Artigo 10.º — Reinternamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reinternamento\n\n1 - Nas situações de reinternamento do doente no mesmo hospital, num período de setenta e duas horas a contar da data da alta, só há lugar ao pagamento do GDH correspondente ao primeiro episódio de internamento.\n\n2 - Exceptuam-se do disposto no número anterior as situações em que o episódio de internamento subsequente não está clinicamente relacionado com o anterior ou, estando, refere-se a consolidação de tratamento, nomeadamente na área oncológica, havendo então lugar ao pagamento dos respectivos GDH, de acordo com as regras fixadas nos números anteriores."
+  },
+  "942972943": {
+   "fragment_id": "943762787",
+   "type": 11,
+   "heading": "Artigo 11.º — Cirurgia de ambulatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cirurgia de ambulatório\n\n1 - Os preços a praticar em cirurgia de ambulatório pelos estabelecimentos de saúde referidos no n.º 1 do artigo 3.º são os estabelecidos pela Tabela Nacional de Grupos de Diagnósticos Homogéneos (GDH) - Cirurgia de Ambulatório (anexo II-A), devendo observar-se os critérios dos números seguintes.\n\n2 - Os preços do GDH a facturar são os constantes da Tabela em vigor na data da alta do doente.\n\n3 - Os hospitais distritais de nível 1 facturam 90% dos preços constantes da referida Tabela.\n\n4 - O preço do GDH compreende todos os serviços prestados durante o dia da intervenção, incluindo os cuidados médicos, hotelaria e meios complementares de diagnóstico e terapêutica.\n\n5 - Quando após a realização da intervenção se justifique o internamento do doente, por complicações no decurso da mesma ou no período de recobro, o regime de internamento substitui automaticamente o de ambulatório, só havendo lugar à facturação do respectivo GDH.\n\n6 - Quando o doente tiver sido internado por complicações nas vinte e quatro horas posteriores à alta, não há lugar ao pagamento da cirurgia de ambulatório, facturando-se apenas o GDH correspondente ao episódio de internamento, de acordo com as regras fixadas nos números anteriores."
+  },
+  "942972944": {
+   "fragment_id": "943762788",
+   "type": 11,
+   "heading": "Artigo 12.º — Diárias de internamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Diárias de internamento\n\n1 - São as seguintes as diárias de internamento em enfermaria, quando haja lugar à facturação de acordo com este critério:\n\na) Hospitais centrais e Instituto Português de Oncologia de Francisco Gentil - 40000$00 ((euro) 199,52);\n\nb) Hospitais distritais - 30500$00 ((euro) 152,13);\n\nc) Unidades de internamento de centros de saúde - 13800$00 ((euro) 68,83);\n\nd) Hospitais psiquiátricos - 13800$00 ((euro) 68,83);\n\ne) Outros serviços de saúde com internamento - 8600$00 ((euro) 42,90);\n\nf) Unidades de cuidados intensivos oficialmente reconhecidas - 95200$00 ((euro) 474,86).\n\n2 - Os preços incluem todos os serviços prestados, à excepção dos referidos no capítulo V, «Outros», do anexo III-A.\n\n3 - Aos acompanhantes de doentes internados em regime de enfermaria aplica-se uma diária de 3000$00 ((euro) 14,96), que inclui permanência e alimentação.\n\n4 - Nos lares de doentes do Instituto Português de Oncologia de Francisco Gentil:\n\nDiária - 12800$00 ((euro) 63,85);\n\nAcompanhante - 6300$00 ((euro) 31,42).\n\n5 - Os preços referidos no número anterior incluem toda a assistência prestada no lar, à excepção dos actos de ambulatório facturáveis nos termos dos anexos III e III-A e do artigo 19.º"
+  },
+  "942972945": {
+   "fragment_id": "943762789",
+   "type": 11,
+   "heading": "Artigo 13.º — Quartos particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Quartos particulares\n\n1 - Os utentes do Serviço Nacional de Saúde que não tenham terceiros legal ou contratualmente responsáveis pelos encargos das prestações de saúde podem optar por quarto particular mediante o pagamento dos seguintes valores:\n\na) Quarto especial - 26900$00 ((euro) 134,18);\n\nb) Quarto de 1.ª classe - 20100$00 ((euro) 100,26);\n\nc) Quarto de 2.ª classe - 12000$00 ((euro) 59,86);\n\nd) Quarto semiprivado - 6600$00 ((euro) 32,92).\n\n2 - Os utentes do Serviço Nacional de Saúde cujos encargos relativos às prestações de saúde devam ser suportados pelo próprio ou por terceiro responsável legal ou contratualmente podem ser internados em quarto particular mediante o pagamento dos acréscimos referidos no número anterior e um dos seguintes valores consoante o método de facturação adoptado:\n\na) 80% do preço do respectivo GDH no caso de a facturação ser feita por GDH;\n\nb) Os valores das diárias de internamento previstos no artigo 12.º\n\n3 - No caso do número anterior e sempre que exista escolha do médico no âmbito do exercício da medicina privada acrescem ainda honorários médicos a pagar ao médico pelo utente.\n\n4 - A diária de acompanhante em quarto particular, incluindo alojamento e pequeno-almoço, é a seguinte:\n\na) Quarto especial - 7500$00 ((euro) 37,41);\n\nb) Quarto de 1.ª classe - 5000$00 ((euro) 24,94);\n\nc) Quarto de 2.ª classe - 3750$00 ((euro) 18,70)."
+  },
+  "942972946": {
+   "fragment_id": "943762790",
+   "type": 11,
+   "heading": "Artigo 14.º — Periodicidade da facturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Periodicidade da facturação\n\nA facturação das prestações de saúde realizadas a doentes internados e tratados em cirurgia de ambulatório deve ser efectuada após a alta, à excepção das situações previstas na alínea c) do n.º 1 do artigo 7.º, na alínea b) do n.º 2 do artigo 8.º e no n.º 2 do artigo 9.º, cuja periodicidade deverá ser mensal."
+  },
+  "942972947": {
+   "fragment_id": "943762791",
+   "type": 11,
+   "heading": "Artigo 15.º — Hospital de dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Hospital de dia\n\nA diária em hospital de dia é de 4500$00 ((euro) 22,45)."
+  },
+  "942972948": {
+   "fragment_id": "943762792",
+   "type": 11,
+   "heading": "Artigo 16.º — Consultas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Consultas\n\nO preço das consultas é o seguinte:\n\na) Hospitais centrais e Instituto Português de Oncologia de Francisco Gentil - 4600$00 ((euro) 22,94);\n\nb) Hospitais distritais - 3100$00 ((euro) 15,46);\n\nc) Centros de saúde - 2100$00 ((euro) 10,47);\n\nd) Hospitais psiquiátricos - os constantes da tabela de psiquiatria do anexo III;\n\ne) Outros serviços de saúde - 2100$00 ((euro) 10,47);\n\nf) Serviço de atendimento permanente - 2800$00 ((euro) 13,97)."
+  },
+  "942972949": {
+   "fragment_id": "943762793",
+   "type": 11,
+   "heading": "Artigo 17.º — Urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Urgência\n\nOs preços das urgências são os seguintes:\n\na) Hospitais centrais e Instituto Português de Oncologia de Francisco Gentil - 9300$00 ((euro) 46,39);\n\nb) Hospitais distritais - 5600$00 ((euro) 27,93)."
+  },
+  "942972950": {
+   "fragment_id": "943762794",
+   "type": 11,
+   "heading": "Artigo 18.º — Serviço domiciliário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Serviço domiciliário\n\nO preço do serviço domiciliário é de 4700$00 ((euro) 23,44)."
+  },
+  "942972951": {
+   "fragment_id": "943762795",
+   "type": 11,
+   "heading": "Artigo 19.º — Meios auxiliares de diagnóstico e terapêutica e outros actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Meios auxiliares de diagnóstico e terapêutica e outros actos\n\nOs preços a que se referem os artigos 15.º a 18.º não incluem os meios auxiliares de diagnóstico e terapêutica e outros actos discriminados nos anexos III e III-A, que serão facturados segundo as respectivas tabelas."
+  },
+  "942972952": {
+   "fragment_id": "943762796",
+   "type": 11,
+   "heading": "Artigo 20.º — Equiparação para efeitos de facturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Equiparação para efeitos de facturação\n\n1 - O Instituto de Oftalmologia do Dr. Gama Pinto e o Instituto Português do Sangue e os centros de histocompatibilidade são equiparados para efeitos de facturação a hospitais centrais.\n\n2 - No Serviço de Prevenção e Tratamento da Toxicodependência aplicam-se os preços fixados para os hospitais distritais."
+  },
+  "942972953": {
+   "fragment_id": "943762797",
+   "type": 14,
+   "heading": "Anexo II — Tabela Nacional de Preços por GDH - Internamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Tabela Nacional de Preços por GDH - Internamento\n\n(ver tabela no documento original)\n\n> Nota: [Declaração de Rectificação n.º 10-J/2001 - Diário da República n.º 100/2001, 4º Suplemento, Série I-B de 2001-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-j-2001-617281) Retifica o presente anexo nos seguintes termos: Na «Tabela Nacional de Preços por GDH - Internamento»: No GDH 482, onde se lê «boca, laringe ou faringe» deve ler-se «face, boca e pescoço». No GDH 483, onde se lê «boca, laringe ou faringe» deve ler-se «face, boca e pescoço». No GDH 172, col. «G - Diária 100% (em contos)», onde se lê «45,835» deve ler-se «45,335». No GDH 224, onde se lê «Grandes procedimentos» deve ler-se «Procedimentos». No GDH 490, onde se lê «HIV com procedimentos, em bloco operatório, sem outras situações relacionadas» deve ler-se «HIV com ou sem outra situação clínica relacionada»."
+  },
+  "942972954": {
+   "fragment_id": "943762798",
+   "type": 14,
+   "heading": "Anexo II-A — Tabela Nacional de Preços por GDH - Cirurgia de ambulatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II-A — Tabela Nacional de Preços por GDH - Cirurgia de ambulatório\n\n(ver tabela no documento original)\n\n> Nota: [Declaração de Rectificação n.º 10-J/2001 - Diário da República n.º 100/2001, 4º Suplemento, Série I-B de 2001-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-j-2001-617281) Retifica o presente anexo nos seguintes termos: Na «Tabela Nacional de Preços por GDH - Cirurgia de ambulatório», na col. «A - GDH», na GCD 5, «Doenças e perturbações do aparelho circulatório», os n.os 112, «Procedimentos cardiovasculares percutâneos», e 118, «Substituição do gerador de pacemaker cardíaco», devem ser eliminados."
+  },
+  "942972955": {
+   "fragment_id": "943762799",
+   "type": 14,
+   "heading": "Anexo III — Tabela de anatomia patológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Tabela de anatomia patológica\n\n(ver tabela no documento original)\n\nTabela de anestesiologia\n\n(ver tabela no documento original)\n\nTabela de cardiologia\n\n(ver tabela no documento original)\n\nTabela de dermatologia\n\n(ver tabela no documento original)\n\nTabela de desenvolvimento\n\n(ver tabela no documento original)\n\nTabela de gastrenterologia\n\n(ver tabela no documento original)\n\nTabela de genética\n\n(ver tabela no documento original)\n\nTabela de ginecologia\n\n(ver tabela no documento original)\n\nTabela de imagiologia\n\n(ver tabela no documento original)\n\nTabela de imuno-alergologia\n\n(ver tabela no documento original)\n\nTabela de imuno-hemoterapia\n\n(ver tabela no documento original)\n\nTabela de medicina física e de reabilitação\n\n(ver tabela no documento original)\n\nTabela de medicina nuclear\n\n(ver tabela no documento original)\n\nTabela de medicina da reprodução\n\n(ver tabela no documento original)\n\nTabela de nefrologia\n\n(ver tabela no documento original)\n\nTabela de obstetrícia\n\n(ver tabela no documento original)\n\nTabela de oftalmologia\n\n(ver tabela no documento original)\n\nTabela de ortopedia\n\n(ver tabela no documento original)\n\nTabela de otorrinolaringologia\n\n(ver tabela no documento original)\n\nPatologia clínica\n\n(ver tabela no documento original)\n\nTabela de pneumologia\n\n(ver tabela no documento original)\n\nTabela de psiquiatria\n\n(ver tabela no documento original)\n\nTabela de quimioterapia\n\n(ver tabela no documento original)\n\nTabela de radioterapia\n\n(ver tabela no documento original)\n\nTabela de serviços e técnicas especiais\n\n(ver tabela no documento original)\n\nTabela de urologia\n\n(ver tabela no documento original)\n\n> Nota: [Declaração de Rectificação n.º 10-J/2001 - Diário da República n.º 100/2001, 4º Suplemento, Série I-B de 2001-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-j-2001-617281) Retifica o presente anexo nos seguintes termos: Na «Tabela de gastrenterologia», na col. «Designação», onde se lê «C) Técnicas terapêuticas endoscópicas» deve ler-se «D) Técnicas terapêuticas endoscópicas». Na «Tabela de genética», o código «34332 - Extracção de DNA» deve ser eliminado. Na «Tabela de imagiologia»: No código 16310, na col. «Designação», onde se lê «TC suplemento de contraste endovenoso iónico, até 80 cc» deve ler-se «TC suplemento de contraste iónico, até 80 cc». No código 16311, na col. «Designação», onde se lê «TC suplemento de contraste endovenoso iónico, superior a 80 cc» deve ler-se «TC suplemento de contraste iónico, superior a 80 cc». No código 16320, na col. «Designação», onde se lê «TC suplemento de contraste endovenoso não iónico, até 80 cc» deve ler-se «TC suplemento de contraste não iónico, até 80 cc». No código 16321, na col. «Designação», onde se lê «TC suplemento de contraste endovenoso não iónico, superior a 80 cc» deve ler-se «TC suplemento de contraste não iónico, superior a 80 cc». Na «Tabela de imuno-alergologia», onde se lê: (ver tabela no documento original) deve ler-se: (ver tabela no documento original) Na «Tabela de otorrinolaringologia», onde se lê: (ver tabela no documento original) deve ler-se: (ver tabela no documento original) Na «Tabela de patologia clínica»: No código 25146, na col. «Designação», onde se lê «Cross match antilinfocitário/leucocitário por citometria do fluxo (cada par de células/soro)» deve ler-se «Cross match antilinfocitário/leucocitário por citometria de fluxo (cada par), células/soro». Na «Tabela de psiquiatria», onde se lê: (ver tabela no documento original) deve ler-se: (ver tabela no documento original) Na «Tabela de serviços e técnicas especiais»: No código 99035, na col. «Designação», onde se lê «Oxigenoterapia hiperbárica» deve ler-se «Oxigenoterapia hiperbárica, por sessão»."
+  },
+  "942972956": {
+   "fragment_id": "943762800",
+   "type": 14,
+   "heading": "Anexo III-A — Tabela de preços de exames e técnicas de diagnóstico e terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III-A — Tabela de preços de exames e técnicas de diagnóstico e terapêutica\n\nMeios complementares de diagnóstico e terapêutica e outros actos não incluídos no anexo III\n\n(ver tabela no documento original)\n\nNotas\n\n1 - Os medicamentos de fornecimento obrigatório pelas farmácias dos hospitais aos doentes em regime ambulatório são facturados ao preço de custo.\n\n2 - A facturação dos exames deste anexo só deve fazer-se se não for possível a facturação pelas tabelas existentes no anexo III.\n\n> Nota: [Declaração de Rectificação n.º 10-J/2001 - Diário da República n.º 100/2001, 4º Suplemento, Série I-B de 2001-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-j-2001-617281) Retifica o presente anexo nos seguintes termos: Na «Tabela de preços de exames e técnicas de diagnóstico e terapêutica», onde se lê: (ver tabela no documento original) deve ler-se: (ver tabela no documento original)"
+  }
+ }
+}

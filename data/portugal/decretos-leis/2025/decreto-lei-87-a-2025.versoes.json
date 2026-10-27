@@ -1,0 +1,539 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:926483751:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-926588602",
+ "dre_path": "/dr/detalhe/decreto-lei/87-a-2025-926483751",
+ "source_lastmod": "2026-07-10",
+ "versions": [
+  {
+   "date": "2025-12-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:992627243:por",
+     "title": "Decreto-Lei n.º 131/2025",
+     "published": "2025-12-24",
+     "dre_path": "/dr/detalhe/decreto-lei/131-2025-992627243"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "926710075",
+    "926710275",
+    "926710475",
+    "926710675",
+    "926710875",
+    "926713075",
+    "926713275",
+    "926713475",
+    "926713675",
+    "926713875",
+    "926714075",
+    "926714275",
+    "926714475",
+    "926714675",
+    "926714875",
+    "926715075",
+    "926715275",
+    "926715475",
+    "926715675",
+    "993022560",
+    "926716075",
+    "926716275",
+    "926716475",
+    "926716675",
+    "926716875",
+    "926717075",
+    "926717275",
+    "926717475",
+    "926717675",
+    "926717875",
+    "935953294",
+    "926718275",
+    "926718475",
+    "926718675",
+    "926718875",
+    "926719075",
+    "926719275",
+    "926719475",
+    "926719675",
+    "926719875",
+    "926720075",
+    "926720275",
+    "926720475",
+    "926720675",
+    "926720875",
+    "926721075",
+    "926721275",
+    "926721475"
+   ]
+  },
+  {
+   "date": "2026-07-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1145969706:por",
+     "title": "Decreto-Lei n.º 139/2026",
+     "published": "2026-07-10",
+     "dre_path": "/dr/detalhe/decreto-lei/139-2026-1145969706"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 33.º"
+   ],
+   "fragments": [
+    "926710075",
+    "926710275",
+    "926710475",
+    "926710675",
+    "926710875",
+    "926713075",
+    "926713275",
+    "926713475",
+    "926713675",
+    "926713875",
+    "926714075",
+    "926714275",
+    "926714475",
+    "926714675",
+    "926714875",
+    "926715075",
+    "926715275",
+    "926715475",
+    "926715675",
+    "993022560",
+    "926716075",
+    "926716275",
+    "926716475",
+    "926716675",
+    "926716875",
+    "926717075",
+    "926717275",
+    "926717475",
+    "926717675",
+    "926717875",
+    "935953294",
+    "926718275",
+    "926718475",
+    "926718675",
+    "926718875",
+    "926719075",
+    "926719275",
+    "926719475",
+    "1146319175",
+    "926719875",
+    "926720075",
+    "926720275",
+    "926720475",
+    "926720675",
+    "926720875",
+    "926721075",
+    "926721275",
+    "926721475"
+   ]
+  }
+ ],
+ "fragments": {
+  "926710075": {
+   "fragment_id": "926709975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O presente decreto-lei aprova o regime de organização e funcionamento do XXV Governo Constitucional, no qual se adota uma estrutura adequada à realização de uma ação governativa inovadora, eficaz e eficiente, focada no cumprimento dos objetivos definidos no Programa do Governo.\n\nO XXV Governo Constitucional assume funções num momento de renovada ambição reformista, com o compromisso de assegurar uma Administração Pública mais próxima, desburocratizada, eficiente e digital, de aprofundar a transformação estrutural do Estado e da economia e de promover a coesão territorial. Neste contexto, o Governo adota uma nova estrutura orgânica que reflete não só o compromisso com uma Administração Pública mais digital, desburocratizada e eficiente, orientada para a proximidade com os cidadãos e as empresas, como também reforça a articulação entre políticas públicas e territórios, promovendo a coesão como motor de crescimento e combate às assimetrias regionais, valorizando a cultura e a juventude como eixos de identidade e inovação, e integrando a agricultura e o mar numa visão estratégica de sustentabilidade e soberania.\n\nLimitando as alterações orgânicas ao objetivo de assegurar uma governação responsável, centrada nas pessoas e orientada para os resultados, são introduzidas inovações relevantes que refletem uma visão reformista e uma aposta clara na modernização do Estado, como demonstra a criação de um ministro especialmente responsável pela Reforma do Estado, com competências em matéria de simplificação, digitalização e modernização da Administração Pública. Igualmente significativa daquela ambição é a integração da área da coesão territorial no Ministério da Economia, o que obedece a uma lógica de desenvolvimento integral do território nacional. Digna de nota é também a agregação das áreas da juventude e do desporto no Ministério da Cultura e das matérias relativas ao Mar no Ministério da Agricultura. Esta reorganização estratégica da composição do Governo visa, assim, assegurar uma governação mais integrada, transparente e eficiente, em linha com os objetivos do Programa do Governo.\n\nConstituindo a reforma do Estado um desígnio central do XXV Governo Constitucional, esta assume-se como resposta estruturante aos bloqueios persistentes da Administração Pública, nomeadamente, a burocracia, a morosidade e a complexidade dos procedimentos. Assente nos pilares da simplificação, digitalização, responsabilização e articulação, esta reforma procura reforçar a confiança dos cidadãos no Estado, eliminar exigências desproporcionadas e assegurar mecanismos de controlo eficazes e justos. A designação de um ministro com responsabilidade pela Reforma do Estado representa um passo decisivo na concretização desta agenda transformadora, funcionando como motor de uma reorganização profunda da estrutura administrativa do Estado, promovendo a modernização dos serviços públicos, a interoperabilidade entre sistemas, a avaliação sistemática de políticas públicas e a redefinição da relação entre o Estado, os cidadãos e as empresas.\n\nO presente decreto-lei reafirma, com renovada confiança, a prioridade, a qualidade e a celeridade da execução do mais volumoso pacote de fundos europeus desde a adesão de Portugal à União Europeia, projetando-se como um verdadeiro motor de progresso económico, há muito reclamado por todos. A consolidação do desiderato de desenvolvimento do território nacional, continental e insular, permanece assim vinculada à superação das assimetrias regionais ainda existentes na realidade social e económica do País, defendendo-se uma ideia estruturalmente equilibrada e moderna de território, com o objetivo de aumentar o bem-estar das gerações presentes e vindouras. Foi com este mote que se optou, assim, por juntar, a economia e a coesão territorial, permitindo uma visão integrada de desenvolvimento económico e territorial, em coerência com a transformação territorial que se pretende implementar.\n\nAdicionalmente, a preservação da identidade nacional, através da história e da cultura do País - que formam e definem o cidadão e a sociedade -, valoriza-se, completa-se e encontra projeção nos mais jovens e nas futuras gerações, de forma a preservar a soberania nacional. Neste horizonte, a prática desportiva, enquanto expressão de cultura e de realização comunitária, tem de estar necessariamente no centro das políticas públicas, não apenas para os mais jovens, mas igualmente como forma de promover a saúde e a inclusão em todas as faixas etárias. Com a junção, no mesmo Ministério, destas dimensões da vida humana e social, reforça-se a centralidade estratégica do património, das artes, do desporto e dos mais jovens, e, principalmente, atesta-se a sua articulação, presença e intenção transformadora na sociedade portuguesa.\n\nPor outro lado, a integração do mar no Ministério da Agricultura traduz o reconhecimento da importância estratégica destes setores para o desenvolvimento sustentável e económico do País. Esta agregação reforça uma abordagem integrada às políticas do território, da produção alimentar e da sustentabilidade, valorizando simultaneamente estes setores, que são expressão profunda da identidade e individualidade de Portugal, pilares da sua afirmação no plano europeu e internacional.\n\nPor fim, a orgânica do XXV Governo Constitucional assegura a continuidade das prioridades estratégicas da governação refletidas na anterior composição governamental, com especial destaque para a criação de oportunidades para os jovens, a superação de atrasos e impasses infraestruturais, a melhoria do acesso à habitação e o desenvolvimento de políticas públicas de educação e saúde com uma visão integrada e de longo prazo.\n\nAssim:\n\nNos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "926710275": {
+   "fragment_id": "926710175",
+   "type": 1,
+   "heading": "Capítulo I — ORGANIZAÇÃO DO GOVERNO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — ORGANIZAÇÃO DO GOVERNO"
+  },
+  "926710475": {
+   "fragment_id": "926710375",
+   "type": 8,
+   "heading": "Secção I — ESTRUTURA DO GOVERNO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — ESTRUTURA DO GOVERNO"
+  },
+  "926710675": {
+   "fragment_id": "926710575",
+   "type": 11,
+   "heading": "Artigo 1.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Composição\n\n1 - O Governo é constituído pelo Primeiro-Ministro, pelos ministros e pelos secretários de Estado.\n\n2 - São órgãos colegiais do Governo o Conselho de Ministros e a Reunião de Secretários de Estado."
+  },
+  "926710875": {
+   "fragment_id": "926710775",
+   "type": 11,
+   "heading": "Artigo 2.º — Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ministros\n\nIntegram o Governo os seguintes ministros:\n\na) Ministro de Estado e dos Negócios Estrangeiros;\n\nb) Ministro de Estado e das Finanças;\n\nc) Ministro da Presidência;\n\nd) Ministro da Economia e da Coesão Territorial;\n\ne) Ministro Adjunto e da Reforma do Estado;\n\nf) Ministro dos Assuntos Parlamentares;\n\ng) Ministro da Defesa Nacional;\n\nh) Ministro das Infraestruturas e Habitação;\n\ni) Ministra da Justiça;\n\nj) Ministra da Administração Interna;\n\nk) Ministro da Educação, Ciência e Inovação;\n\nl) Ministra da Saúde;\n\nm) Ministra do Trabalho, Solidariedade e Segurança Social;\n\nn) Ministra do Ambiente e Energia;\n\no) Ministra da Cultura, Juventude e Desporto;\n\np) Ministro da Agricultura e Mar."
+  },
+  "926713075": {
+   "fragment_id": "926712975",
+   "type": 11,
+   "heading": "Artigo 3.º — Secretários de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Secretários de Estado\n\n1 - O Ministro de Estado e dos Negócios Estrangeiros é coadjuvado, no exercício das suas funções, pela Secretária de Estado dos Assuntos Europeus, pela Secretária de Estado dos Negócios Estrangeiros e da Cooperação e pelo Secretário de Estado das Comunidades Portuguesas.\n\n2 - O Ministro de Estado e das Finanças é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto e do Orçamento, pela Secretária de Estado dos Assuntos Fiscais, pelo Secretário de Estado do Tesouro e das Finanças e pela Secretária de Estado da Administração Pública.\n\n3 - O Ministro da Presidência é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto e da Presidência e Imigração, pelo Secretário de Estado da Presidência do Conselho de Ministros e pelo Secretário de Estado da Presidência.\n\n4 - O Ministro da Economia e da Coesão Territorial é coadjuvado, no exercício das suas funções, pelo Secretário de Estado do Planeamento e Desenvolvimento Regional, pelo Secretário de Estado da Economia, pelo Secretário de Estado da Administração Local e Ordenamento do Território e pelo Secretário de Estado do Turismo, Comércio e Serviços.\n\n5 - O Ministro Adjunto e da Reforma do Estado é coadjuvado, no exercício das suas funções, pelo Secretário de Estado para a Digitalização e pelo Secretário de Estado para a Simplificação.\n\n6 - O Ministro da Defesa Nacional é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto e da Defesa Nacional e pelo Secretário de Estado Adjunto da Política da Defesa Nacional.\n\n7 - O Ministro das Infraestruturas e Habitação é coadjuvado, no exercício das suas funções, pelo Secretário de Estado das Infraestruturas, pela Secretária de Estado da Mobilidade e pela Secretária de Estado da Habitação.\n\n8 - A Ministra da Justiça é coadjuvada, no exercício das suas funções, pelo Secretário de Estado Adjunto e da Justiça e pela Secretária de Estado da Justiça.\n\n9 - A Ministra da Administração Interna é coadjuvada, no exercício das suas funções, pelo Secretário de Estado Adjunto e da Administração Interna, pelo Secretário de Estado da Administração Interna e pelo Secretário de Estado da Proteção Civil.\n\n10 - O Ministro da Educação, Ciência e Inovação é coadjuvado, no exercício das suas funções, pelo Secretário de Estado Adjunto e da Educação, pela Secretária de Estado da Administração Escolar, pela Secretária de Estado da Ciência e Inovação e pela Secretária de Estado do Ensino Superior.\n\n11 - A Ministra da Saúde é coadjuvada, no exercício das suas funções, pela Secretária de Estado da Saúde e pelo Secretário de Estado da Gestão da Saúde.\n\n12 - A Ministra do Trabalho, Solidariedade e Segurança Social é coadjuvada, no exercício das suas funções, pelo Secretário de Estado Adjunto e do Trabalho, pela Secretária de Estado da Segurança Social e pela Secretária de Estado da Ação Social e da Inclusão.\n\n13 - A Ministra do Ambiente e Energia é coadjuvada, no exercício das suas funções, pelo Secretário de Estado Adjunto e da Energia e pelo Secretário de Estado do Ambiente.\n\n14 - A Ministra da Cultura, Juventude e Desporto é coadjuvada, no exercício das suas funções, pela Secretária de Estado Adjunta e da Juventude e da Igualdade, pelo Secretário de Estado da Cultura e pelo Secretário de Estado do Desporto.\n\n15 - O Ministro da Agricultura e Mar é coadjuvado, no exercício das suas funções, pelo Secretário de Estado das Pescas e do Mar, pelo Secretário de Estado da Agricultura e pelo Secretário de Estado das Florestas."
+  },
+  "926713275": {
+   "fragment_id": "926713175",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição do Conselho de Ministros\n\n1 - O Conselho de Ministros é constituído pelo Primeiro-Ministro, que preside, e pelos ministros.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participa nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - Podem ainda participar nas reuniões do Conselho de Ministros, sem direito a voto, os membros do Governo que venham, em cada caso, a ser convocados por indicação do Primeiro-Ministro.\n\n4 - O Chefe do Gabinete do Primeiro-Ministro pode assistir às reuniões do Conselho de Ministros.\n\n5 - Salvo indicação em contrário do Primeiro-Ministro, este é substituído, no exercício das suas funções de presidência e de coordenação, durante as suas ausências ou impedimentos, pelo ministro que não se encontre ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º\n\n6 - Cada ministro é substituído, nas suas ausências ou impedimentos, pelo secretário de Estado que indicar ao Primeiro-Ministro, através de comunicação eletrónica dirigida ao Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "926713475": {
+   "fragment_id": "926713375",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição das reuniões de Secretários de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição das reuniões de Secretários de Estado\n\n1 - As reuniões de Secretários de Estado são presididas pelo Ministro da Presidência ou, na sua ausência ou impedimento, pelo Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - Participam nas reuniões de Secretários de Estado:\n\na) O Secretário de Estado da Presidência do Conselho de Ministros, que coadjuva o Ministro da Presidência;\n\nb) Um secretário de Estado em representação de cada ministro.\n\n3 - Podem também participar nas reuniões de Secretários de Estado, sem direito a voto, outros secretários de Estado que, pela natureza da matéria agendada, sejam convocados pelo Ministro da Presidência.\n\n4 - Podem assistir às reuniões de Secretários de Estado:\n\na) Um membro do gabinete do Primeiro-Ministro;\n\nb) Um membro do gabinete do Ministro da Presidência;\n\nc) Um membro do gabinete do Ministro dos Assuntos Parlamentares;\n\nd) Um membro do gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n5 - O Secretário de Estado da Presidência do Conselho de Ministros é substituído nas reuniões de Secretários de Estado, nas suas ausências ou impedimentos, pelo respetivo chefe do gabinete, exceto para os efeitos do n.º 1."
+  },
+  "926713675": {
+   "fragment_id": "926713575",
+   "type": 8,
+   "heading": "Secção II — COMPETÊNCIA DOS MEMBROS DO GOVERNO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — COMPETÊNCIA DOS MEMBROS DO GOVERNO"
+  },
+  "926713875": {
+   "fragment_id": "926713775",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência do Primeiro-Ministro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência do Primeiro-Ministro\n\n1 - O Primeiro-Ministro possui a competência própria que lhe é conferida pela Constituição e pela lei e a competência delegada pelo Conselho de Ministros.\n\n2 - O Primeiro-Ministro pode exercer transitoriamente as competências atribuídas pelo presente decreto-lei a um ministro ou ministra, em caso de cessação de funções destes.\n\n3 - O Primeiro-Ministro exerce, ainda, os poderes relativos aos serviços, organismos, entidades e estruturas compreendidos na Presidência do Conselho de Ministros que não se encontrem atribuídos aos demais membros do Governo que a integram.\n\n4 - A competência atribuída por lei ao Conselho de Ministros, no âmbito dos assuntos correntes da Administração Pública, considera-se delegada no Primeiro-Ministro, com faculdade de subdelegação em qualquer membro do Governo.\n\n5 - O Primeiro-Ministro pode delegar em qualquer membro do Governo, com faculdade de subdelegação, a competência relativa aos serviços, organismos, entidades e estruturas dele dependentes, nos termos da lei, bem como a que legalmente lhe seja conferida no domínio dos assuntos correntes da Administração Pública."
+  },
+  "926714075": {
+   "fragment_id": "926713975",
+   "type": 11,
+   "heading": "Artigo 7.º — Ausências e impedimentos do Primeiro-Ministro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ausências e impedimentos do Primeiro-Ministro\n\nO Primeiro-Ministro, salvo sua indicação em contrário, é substituído na sua ausência ou impedimento pelo ministro que não se encontre ausente ou impedido, de acordo com a ordem estabelecida no artigo 2.º, sendo a substituição comunicada ao Presidente da República, nos termos do n.º 1 do artigo 185.º da Constituição."
+  },
+  "926714275": {
+   "fragment_id": "926714175",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência dos Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência dos Ministros\n\n1 - Os ministros dispõem da competência própria que a lei lhes atribui e da competência que, nos termos da lei, lhes seja delegada pelo Conselho de Ministros ou pelo Primeiro-Ministro.\n\n2 - Os ministros podem delegar nos secretários de Estado que os coadjuvam, com faculdade de subdelegação, a competência relativa aos serviços, organismos, entidades e estruturas deles dependentes.\n\n3 - Os ministros podem delegar nos secretários-gerais dos respetivos ministérios as competências relativas à prática dos atos necessários à adoção dos instrumentos de mobilidade ou à celebração dos contratos previstos na lei, relativos ao exercício de funções de apoio técnico e administrativo nos respetivos gabinetes, bem como para autorizar a realização de despesas por conta do orçamento do respetivo gabinete, até ao limite previsto na alínea a) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual."
+  },
+  "926714475": {
+   "fragment_id": "926714375",
+   "type": 11,
+   "heading": "Artigo 9.º — Ausências e impedimentos dos ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Ausências e impedimentos dos ministros\n\nCada ministro é substituído na sua ausência ou impedimento pelo secretário de Estado que indicar ao Primeiro-Ministro ou, na falta de tal indicação, pelo membro do Governo que o Primeiro-Ministro designar, nos termos do n.º 2 do artigo 185.º da Constituição."
+  },
+  "926714675": {
+   "fragment_id": "926714575",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência dos secretários de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência dos secretários de Estado\n\n1 - Os secretários de Estado não dispõem de competência própria, exceto no que se refere aos respetivos gabinetes, e exercem, em cada caso, a competência que neles seja delegada pelo Primeiro-Ministro ou pelo ministro respetivo.\n\n2 - Os secretários de Estado podem, no que se refere aos respetivos gabinetes, delegar nos secretários-gerais dos respetivos ministérios as competências relativas à prática dos atos necessários à adoção dos instrumentos de mobilidade ou à celebração dos contratos previstos na lei, relativos ao exercício de funções de apoio técnico e administrativo nos respetivos gabinetes, bem como para autorizar a realização de despesas por conta do orçamento do respetivo gabinete, até ao limite previsto na alínea a) do n.º 1 do artigo 17.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual."
+  },
+  "926714875": {
+   "fragment_id": "926714775",
+   "type": 8,
+   "heading": "Secção III — ORGÂNICA DO GOVERNO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — ORGÂNICA DO GOVERNO"
+  },
+  "926715075": {
+   "fragment_id": "926714975",
+   "type": 11,
+   "heading": "Artigo 11.º — Negócios Estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Negócios Estrangeiros\n\n1 - O Ministério dos Negócios Estrangeiros é o departamento governamental que tem por missão formular, conduzir, executar e avaliar a política externa do País, bem como coordenar e apoiar os demais ministros no âmbito da dimensão externa das respetivas competências, assegurando, assim, uma perspetiva estratégica e integrada da ação externa de Portugal.\n\n2 - O Ministro de Estado e dos Negócios Estrangeiros conduz a política europeia do País, orientando a ação portuguesa nas instituições próprias da União Europeia, coordenando a definição das posições nacionais sobre as políticas da União Europeia, incluindo a política comercial comum, e as relações bilaterais com países europeus.\n\n3 - O Ministro de Estado e dos Negócios Estrangeiros exerce o poder de direção sobre:\n\na) A Secretaria-Geral do Ministério dos Negócios Estrangeiros;\n\nb) A Direção-Geral de Política Externa;\n\nc) A Inspeção-Geral Diplomática e Consular;\n\nd) A Direção-Geral dos Assuntos Europeus;\n\ne) A Direção-Geral de Direito Europeu e Internacional;\n\nf) A Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas;\n\ng) As embaixadas;\n\nh) As missões e representações permanentes, designadamente a Representação Permanente de Portugal junto da União Europeia, e as missões temporárias;\n\ni) Os postos consulares.\n\n4 - O Ministro de Estado e dos Negócios Estrangeiros exerce poderes de superintendência e tutela sobre a Comissão Nacional da UNESCO, sem prejuízo das competências atribuídas por lei a outros membros do Governo.\n\n5 - O Ministro de Estado e dos Negócios Estrangeiros exerce os poderes de superintendência e tutela sobre:\n\na) O Fundo para as Relações Internacionais, I. P.;\n\nb) O Camões - Instituto da Cooperação e da Língua, I. P.\n\n6 - O Ministro de Estado e dos Negócios Estrangeiros assegura o funcionamento da Comissão Interministerial de Limites e Bacias Hidrográficas Luso-Espanholas, em coordenação com a Ministra do Ambiente e Energia e com o Ministro da Agricultura e Mar.\n\n7 - O Ministro de Estado e dos Negócios Estrangeiros assegura o funcionamento da Comissão Luso-Espanhola para a Cooperação Transfronteiriça.\n\n8 - Compete ao Ministro de Estado e dos Negócios Estrangeiros, conjuntamente com o Ministro da Agricultura e Mar, a coordenação intersetorial da participação nacional nos organismos europeus e internacionais responsáveis pela definição e pela monitorização das políticas marítimas.\n\n9 - O Ministro de Estado e dos Negócios Estrangeiros exerce ainda os poderes que lhe são conferidos pelos n.<sup>os </sup>3 e 4 do artigo 14.º, pelos n.<sup>os </sup>6, 11 e 17 do artigo 15.º, pelo n.º 1 do artigo 26.º e pelos n.<sup>os </sup>3 e 8 do artigo 27.º"
+  },
+  "926715275": {
+   "fragment_id": "926715175",
+   "type": 11,
+   "heading": "Artigo 12.º — Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Finanças\n\n1 - O Ministério das Finanças é o departamento governamental que tem por missão formular, conduzir, executar e avaliar a política financeira do Estado, promovendo a gestão racional dos recursos públicos, o aumento da eficiência e a equidade na sua obtenção e gestão, bem como políticas para a Administração Pública e o emprego público.\n\n2 - O Ministro de Estado e das Finanças exerce o poder de direção sobre:\n\na) O Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais;\n\nb) A Inspeção-Geral de Finanças;\n\nc) A Entidade Orçamental;\n\nd) A Entidade do Tesouro e Finanças;\n\ne) A Autoridade Tributária e Aduaneira;\n\nf) A Direção-Geral da Administração e do Emprego Público;\n\ng) Os Serviços Sociais da Administração Pública.\n\n3 - O Ministro de Estado e das Finanças exerce o poder de direção sobre a Direção-Geral da Administração e do Emprego Público, em coordenação com o Ministro da Presidência, relativamente à organização, funcionamento e gestão dos serviços públicos e das estruturas, organismos e unidades da administração central e à qualificação, valorização e avaliação dos respetivos recursos humanos.\n\n4 - O Ministro de Estado e das Finanças exerce o poder de direção sobre a Inspeção-Geral de Finanças, em coordenação com o Ministro da Presidência, relativamente ao controlo e avaliação da organização, funcionamento, gestão e recursos humanos dos serviços públicos e estruturas, organismos e unidades da administração central.\n\n5 - O Ministro de Estado e das Finanças exerce o poder de direção sobre a Inspeção-Geral de Finanças, em coordenação com o Ministro da Economia e da Coesão Territorial, no âmbito do exercício da tutela inspetiva sobre as autarquias locais, as demais formas de organização territorial autárquica e o setor empresarial local.\n\n6 - O Ministro de Estado e das Finanças exerce os poderes de superintendência e tutela sobre a Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E.\n\n7 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e a outros membros do Governo, o Ministro de Estado e das Finanças exerce as competências que lhe são atribuídas por lei sobre as demais entidades do setor empresarial do Estado.\n\n8 - Compete ao Ministro de Estado e das Finanças, sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros, quando estejam em causa empresas participadas, definir as orientações da PARPÚBLICA - Participações Públicas (SGPS), S. A., bem como acompanhar a sua execução, em coordenação com o membro do Governo competente em razão da matéria.\n\n9 - O Ministro de Estado e das Finanças exerce os poderes de superintendência e tutela sobre a Entidade de Serviços Partilhados da Administração Pública, I. P., em coordenação com o Ministro da Presidência.\n\n10 - O Ministro de Estado e das Finanças exerce os poderes de superintendência e tutela sobre o Instituto de Proteção e Assistência na Doença, I. P.\n\n11 - O Ministro de Estado e das Finanças exerce ainda os poderes que lhe são conferidos pelos n.<sup>os </sup>2, 6 e 7 do artigo 14.º, pelos n.<sup>os </sup>9 e 19 do artigo 15.º, pela alínea a) do n.º 5 e pelo n.º 6 do artigo 16.º, pelo n.º 9 do artigo 18.º, pelos n.<sup>os </sup>5 e 6 do artigo 19.º, pelo n.º 12 do artigo 22.º, pelo n.º 6 do artigo 23.º, pelo n.º 8 do artigo 24.º, pelo n.º 7 do artigo 25.º, pelo n.º 9 do artigo 26.º, pelos n.<sup>os </sup>13, 17 e 18 do artigo 27.º e pelo artigo 38.º"
+  },
+  "926715475": {
+   "fragment_id": "926715375",
+   "type": 11,
+   "heading": "Artigo 13.º — Presidência do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Presidência do Conselho de Ministros\n\n1 - A Presidência do Conselho de Ministros é o departamento central do Governo que tem por missão prestar apoio ao Conselho de Ministros, ao Primeiro-Ministro e aos demais membros do Governo nela integrados e promover a coordenação interministerial dos diversos departamentos governamentais.\n\n2 - A Presidência do Conselho de Ministros tem ainda por missão a prossecução das políticas confiadas aos ministros que a integram.\n\n3 - A Presidência do Conselho de Ministros integra os seguintes membros do Governo:\n\na) Ministro da Presidência;\n\nb) Ministro Adjunto e da Reforma do Estado;\n\nc) Ministro dos Assuntos Parlamentares;\n\nd) Ministro das Infraestruturas e Habitação;\n\ne) Secretário de Estado Adjunto da Presidência e Imigração;\n\nf) Secretário de Estado da Presidência do Conselho de Ministros;\n\ng) Secretário de Estado da Presidência;\n\nh) Secretário de Estado para a Digitalização;\n\ni) Secretário de Estado para a Simplificação;\n\nj) Secretário de Estado das Infraestruturas;\n\nk) Secretária de Estado da Mobilidade;\n\nl) Secretária de Estado da Habitação.\n\n4 - A Presidência do Conselho de Ministros compreende os serviços, organismos, entidades e estruturas sujeitos aos poderes de direção, superintendência e tutela dos ministros referidos no número anterior.\n\n5 - A Presidência do Conselho de Ministros compreende ainda todos os serviços, organismos, entidades e estruturas não expressamente integrados em outros ministérios, designadamente o Gabinete Nacional de Segurança, os quais dependem do Primeiro-Ministro, salvo disposição legal em contrário e sem prejuízo do disposto nos números seguintes, podendo a respetiva competência ser delegada no Ministro da Presidência ou nos demais membros do Governo integrados na Presidência do Conselho de Ministros, que a podem subdelegar.\n\n6 - A Presidência do Conselho de Ministros assegura o apoio aos serviços dependentes do Primeiro-Ministro, nos termos do respetivo diploma orgânico.\n\n7 - A Presidência do Conselho de Ministros assegura o apoio aos serviços dependentes do Ministro da Presidência, do Ministro Adjunto e da Reforma do Estado, do Ministro dos Assuntos Parlamentares, do Ministro das Infraestruturas e Habitação e da Ministra da Cultura, Juventude e Desporto."
+  },
+  "926715675": {
+   "fragment_id": "926715575",
+   "type": 11,
+   "heading": "Artigo 14.º — Ministro da Presidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ministro da Presidência\n\n1 - O Ministro da Presidência exerce as competências que lhe são delegadas pelo Primeiro-Ministro, em matéria de preparação, convocação e coordenação do Conselho de Ministros e da Reunião de Secretários de Estado, promove a coordenação interministerial dos diversos departamentos governamentais, formula e avalia políticas e estratégias de desenvolvimento económico e social, coordena processos de transformação na organização de serviços públicos que aproveitem sinergias e reforcem a capacidade técnica no apoio à ação governativa e à decisão no âmbito da definição, planeamento e implementação das políticas públicas, bem como conduz e avalia as políticas nas áreas das migrações, da comunicação social e do cumprimento dos Objetivos de Desenvolvimento Sustentável.\n\n2 - O Ministro da Presidência conduz e avalia as políticas da Administração Pública, designadamente em matéria de organização e do funcionamento dos serviços públicos, de alterações na qualificação do emprego público, em coordenação com o Ministro de Estado e das Finanças e com o Ministro Adjunto e da Reforma do Estado.\n\n3 - O Ministro da Presidência coordena a conceção, adoção e execução das novas soluções procedimentais e organizacionais, podendo preparar e apresentar atos normativos ao Conselho de Ministros, em matéria de concessão de vistos, de autorizações de residência e de nacionalidade, tendo em vista a promoção de políticas de integração de imigrantes, em coordenação com o Ministro de Estado e dos Negócios Estrangeiros, com a Ministra da Justiça, com a Ministra da Administração Interna e com a Ministra do Trabalho, Solidariedade e Segurança Social.\n\n4 - O Ministro da Presidência coordena a política de acolhimento e integração de requerentes e beneficiários de proteção internacional, em coordenação com o Ministro de Estado e dos Negócios Estrangeiros, com a Ministra da Administração Interna e com a Ministra do Trabalho, Solidariedade e Segurança Social.\n\n5 - O Ministro da Presidência exerce os poderes de superintendência e tutela sobre:\n\na) O Instituto Nacional de Estatística, I. P.;\n\nb) A Agência para a Integração, Migrações e Asilo, I. P.\n\n6 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, o Ministro da Presidência exerce as competências que lhe são atribuídas por lei sobre as entidades do setor empresarial do Estado nas áreas da comunicação social, designadamente sobre:\n\na) A Lusa - Agência de Notícias de Portugal, S. A.;\n\nb) A RTP - Rádio e Televisão de Portugal, S. A.\n\n7 - O Ministro da Presidência exerce os poderes de superintendência e tutela sobre a Imprensa Nacional-Casa da Moeda, S. A., sem prejuízo da superintendência e tutela do Ministro Adjunto e da Reforma do Estado no que respeita ao Laboratório de Inovação (INCMLab) e aos investimentos em startups e das competências legalmente atribuídas ao Ministro de Estado e das Finanças relativamente às áreas da sua competência.\n\n8 - O Ministro da Presidência exerce os poderes, previstos nos respetivos estatutos, sobre a Comissão de Recrutamento e Seleção para a Administração Pública.\n\n9 - O Ministro da Presidência exerce ainda os poderes que lhe são conferidos pelos n.<sup>os </sup>3, 4 e 9 do artigo 12.º, pela alínea a) do n.º 5 do artigo 16.º e pelo n.º 5 do artigo 26.º"
+  },
+  "993022560": {
+   "fragment_id": "926715775",
+   "type": 11,
+   "heading": "Artigo 15.º — Economia e Coesão Territorial",
+   "in_force_from": "2025-12-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29"
+   ],
+   "markdown": "###### Artigo 15.º — Economia e Coesão Territorial\n\n1 - O Ministério da Economia e da Coesão Territorial é o departamento governamental que tem por missão formular, conduzir, executar e avaliar as políticas de desenvolvimento dirigidas ao crescimento da economia, da competitividade, do investimento e da inovação, à internacionalização das empresas, à promoção da indústria, do comércio, dos serviços e do turismo, à defesa dos consumidores, bem como, participar na coordenação interministerial das políticas de desenvolvimento económico e social e formular, conduzir, executar e avaliar as políticas de coesão territorial, de administração local, do ordenamento do território, de cooperação territorial europeia, de desenvolvimento regional, de cidades e de valorização do interior, tendo em vista a redução das desigualdades territoriais e o desenvolvimento equilibrado do território, atendendo às especificidades das áreas do País com baixa densidade populacional e aos territórios transfronteiriços.\n\n2 - O Ministério da Economia e da Coesão Territorial tem ainda por missão formular, conduzir e avaliar as estratégias de desenvolvimento económico e social relacionadas com os objetivos da convergência e da coesão, assim como definir e executar a estratégia, as prioridades, as orientações, a monitorização, a avaliação e a gestão global dos programas financiados por fundos europeus, nomeadamente no âmbito da política de coesão da União Europeia e do Plano de Recuperação e Resiliência (PRR).\n\n3 - O Ministro da Economia e da Coesão Territorial exerce o poder de direção sobre:\n\na) A Direção-Geral da Economia;\n\nb) A Direção-Geral do Consumidor;\n\nc) A Direção-Geral das Autarquias Locais;\n\nd) O Fundo para a Inovação Social;\n\ne) A Unidade Nacional de Gestão do Mecanismo Financeiro do Espaço Económico Europeu.\n\n4 - O Ministro da Economia e da Coesão Territorial exerce o poder de direção sobre a Direção-Geral do Território, em coordenação com a Ministra do Ambiente e Energia e com o Ministro da Agricultura e Mar, em matérias da sua competência.\n\n5 - O Ministro da Economia e da Coesão Territorial exerce os poderes de superintendência e tutela sobre:\n\na) O IAPMEI - Agência para a Competitividade e Inovação;\n\nb) O Instituto do Turismo de Portugal, I. P.;\n\nc) O Instituto Português da Qualidade, I. P.;\n\nd) O Instituto Português de Acreditação, I. P.;\n\ne) A Comissão Permanente de Apoio ao Investidor;\n\nf) As Entidades Regionais de Turismo;\n\ng) A Agência para o Desenvolvimento e Coesão, I. P.;\n\nh) O Fundo de Apoio Municipal.\n\n6 - O Ministro da Economia e da Coesão Territorial exerce os poderes de superintendência e tutela sobre a Agência para o Investimento e Comércio Externo de Portugal, E. P. E., em coordenação com o Ministro de Estado e dos Negócios Estrangeiros.\n\n7 - O Ministro da Economia e da Coesão Territorial exerce o poder de direção sobre a Autoridade de Segurança Alimentar e Económica, em coordenação com o Ministro da Agricultura e Mar, no que diz respeito às suas áreas de competência.\n\n8 - O Ministro da Economia e da Coesão Territorial, conjuntamente com o Ministro da Educação, Ciência e Inovação, exerce os poderes de superintendência e tutela, nas matérias da sua competência, sobre a ANI - Agência Nacional de Inovação, S. A.\n\n9 - O Ministro da Economia e da Coesão Territorial exerce as competências legalmente previstas em relação ao Banco Português de Fomento, S. A., em coordenação com o Ministro de Estado e das Finanças.\n\n10 - O Ministro da Economia e da Coesão Territorial exerce, ainda, os poderes de superintendência e tutela, sobre as seguintes entidades, salvo nas áreas da educação, saúde, ambiente, cultura, agricultura e pescas, em que a superintendência e tutela pertencem, respetivamente, ao Ministro da Educação, Ciência e Inovação, à Ministra da Saúde, à Ministra do Ambiente e Energia, à Ministra da Cultura, Juventude e Desporto e ao Ministro da Agricultura e Mar, bem como nas outras áreas setoriais que venham a ser desconcentradas nas Comissões de Coordenação e Desenvolvimento Regional, I. P. (CCDR, I. P.):\n\na) A Comissão de Coordenação e Desenvolvimento Regional do Norte, I. P.;\n\nb) A Comissão de Coordenação e Desenvolvimento Regional do Centro, I. P.;\n\nc) A Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo, I. P.;\n\nd) A Comissão de Coordenação e Desenvolvimento Regional do Alentejo, I. P.;\n\ne) A Comissão de Coordenação e Desenvolvimento Regional do Algarve, I. P.\n\n11 - O Ministro da Economia e da Coesão Territorial é responsável pelo Programa de Valorização do Interior, pelo Programa de Revitalização do Pinhal Interior, pelo Programa de Revitalização do Parque Natural da Serra da Estrela, em conjunto com a Ministra do Ambiente e Energia, e pela Estratégia Comum de Desenvolvimento Transfronteiriço e pelo Programa Nacional de Apoio ao Investimento da Diáspora, em conjunto com o Ministro de Estado e dos Negócios Estrangeiros.\n\n12 - O Ministro da Economia e da Coesão Territorial coordena a Comissão Interministerial de Coordenação do Acordo de Parceria - CIC Portugal 2020 e CIC Portugal 2030, exercendo as competências previstas no n.º 3 do artigo 10.º, no n.º 3 do artigo 23.º e no n.º 16 do artigo 83.º do Decreto-Lei n.º 137/2014, de 12 de setembro, na sua redação atual, bem como a competência prevista na alínea a) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, bem como as competências previstas no artigo 9.º do Decreto-Lei n.º 5/2023, de 25 de janeiro.\n\n13 - O Ministro da Economia e da Coesão Territorial, com a Ministra do Ambiente e Energia e com o Ministro da Agricultura e Mar, exerce o poder de direção, nas matérias da sua competência, sobre a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território.\n\n14 - O Ministro da Economia e da Coesão Territorial preside, com faculdade de delegação, à Comissão de Captação de Investimento para o Interior.\n\n15 - O Ministro da Economia e da Coesão Territorial integra as comissões especializadas da Comissão Interministerial de Coordenação do Acordo de Parceria - CIC Portugal 2020 e CIC Portugal 2030, previstas no n.º 5 do artigo 9.º do Decreto-Lei n.º 137/2014, de 12 de setembro, na sua redação atual, e no n.º 8 do Decreto-Lei n.º 5/2023, de 25 de janeiro.\n\n16 - O Ministro da Economia e da Coesão Territorial exerce as competências previstas nos n.os 4 e 5 do artigo 24.º do Decreto-Lei n.º 137/2014, de 12 de setembro, na sua redação atual.\n\n17 - Compete ao Ministro da Economia e da Coesão Territorial, sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e a outros membros do Governo, promover, atrair e acompanhar a execução de investimentos nacionais e estrangeiros, bem como a promoção de reuniões de coordenação de assuntos económicos e de investimento, visando a coordenação e o acompanhamento dos assuntos de caráter setorial com implicações na esfera económica e no investimento e o favorecimento da concretização célere de projetos de investimento relevantes, em coordenação com o Primeiro-Ministro e com o Ministro de Estado e dos Negócios Estrangeiros.\n\n18 - Compete ao Ministro da Economia e da Coesão Territorial promover políticas públicas dirigidas ao setor empresarial, às startups e ao empreendedorismo, incluindo o acompanhamento da atividade da Startup Portugal, ESNA e Digital Innovation Hubs, em coordenação com o Ministro Adjunto e da Reforma do Estado no que respeita à transição digital.\n\n19 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, o Ministro da Economia e da Coesão Territorial exerce as competências que lhe são conferidas por lei sobre as entidades do setor empresarial do Estado, no domínio das matérias referidas no n.º 1.\n\n20 - São órgãos consultivos do Ministro da Economia e da Coesão Territorial e do Ministro da Educação, Ciência e Inovação o Conselho Nacional para o Empreendedorismo e a Inovação e o Conselho Nacional de Ciência, Tecnologia e Inovação.\n\n21 - O Ministro da Economia e da Coesão Territorial exerce ainda os poderes que lhe são conferidos pelo n.º 5 do artigo 12.º, pela alínea b) do n.º 4 do artigo 19.º, pelo n.º 5 do artigo 20.º, pelo n.º 9 do artigo 22.º, pelo n.º 7 do artigo 24.º, pelos n.os 4, 6 e 7 do artigo 25.º, pelo n.º 5 do artigo 26.º e pelos n.os 7, 13 e 18 do artigo 27.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2025-992627243), em vigor a partir de 2025-12-29"
+  },
+  "926716075": {
+   "fragment_id": "926715975",
+   "type": 11,
+   "heading": "Artigo 16.º — Ministro Adjunto e da Reforma do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Ministro Adjunto e da Reforma do Estado\n\n1 - O Ministro Adjunto e da Reforma do Estado tem por missão formular, conduzir, executar e avaliar, de modo transversal, as políticas de modernização e simplificação do Estado e da Administração Pública, direta, indireta e o setor empresarial do Estado, designadamente em matéria de transformação, organização e gestão dos serviços públicos, de alterações nos processos e procedimentos administrativos e na qualificação do emprego público.\n\n2 - O Ministro Adjunto e da Reforma do Estado é também responsável pela formulação, condução, execução e avaliação das políticas de digitalização, inovação e transição digital da economia, sociedade e Administração Pública, direta, indireta e o setor empresarial do Estado, e quanto a esta, na definição estratégica e gestão transversal e unificada da digitalização e modernização dos sistemas, aplicações e ferramentas tecnológicas.\n\n3 - O Ministro Adjunto e da Reforma do Estado pode intervir junto dos serviços da Administração direta do Estado, determinando a adoção de atos, procedimentos ou operações materiais, e junto das entidades da Administração indireta do Estado, emitindo orientações e solicitando informações, nas matérias da sua competência.\n\n4 - Estão designadamente sujeitos aos poderes referidos no número anterior os seguintes serviços e as entidades, cujas atribuições estão, direta ou indiretamente, ligadas à organização, ao funcionamento e à modernização da Administração Pública:\n\na) A Direção-Geral da Administração e do Emprego Público;\n\nb) A Entidade de Serviços Partilhados da Administração Pública, I. P.;\n\nc) A Direção-Geral da Economia;\n\nd) A Direção-Geral das Autarquias Locais;\n\ne) O Instituto da Mobilidade e dos Transportes, I. P.;\n\nf) O Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P.;\n\ng) O Instituto da Habitação e da Reabilitação Urbana, I. P.;\n\nh) O Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.;\n\ni) O Instituto dos Registos e do Notariado, I. P.;\n\nj) A Fundação para a Ciência e a Tecnologia, I. P.;\n\nk) Os Serviços Partilhados do Ministério da Saúde, E. P. E.;\n\nl) O Instituto da Segurança Social, I. P.;\n\nm) O Instituto de Informática, I. P.;\n\nn) A Direção-Geral de Energia e Geologia;\n\no) A Agência Portuguesa do Ambiente, I. P.;\n\np) A Direção-Geral de Agricultura e Desenvolvimento Rural.\n\n5 - O Ministro Adjunto e da Reforma do Estado exerce os poderes de superintendência e tutela sobre:\n\na) O Instituto Nacional de Administração, I. P., em coordenação com o Ministro de Estado e das Finanças e com o Ministro da Presidência;\n\nb) A Agência para a Modernização Administrativa, I. P.\n\n6 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, o Ministro Adjunto e da Reforma do Estado exerce as competências legalmente previstas sobre a Imprensa Nacional-Casa da Moeda, S. A., no que respeita à política e cultura de inovação prosseguida pelo Laboratório de Inovação (INCMLab) e aos investimentos em startups, e a IP - Telecom, S. A., e a ANI - Agência Nacional de Inovação, S. A., em matéria de digitalização.\n\n7 - É órgão consultivo do Ministro Adjunto e da Reforma do Estado o Conselho para o Digital na Administração Pública.\n\n8 - O Ministro Adjunto e da Reforma do Estado exerce ainda os poderes que lhe são conferidos pelos n.<sup>os </sup>2 e 7 do artigo 14.º e pelo n.º 18 do artigo 15.º"
+  },
+  "926716275": {
+   "fragment_id": "926716175",
+   "type": 11,
+   "heading": "Artigo 17.º — Ministro dos Assuntos Parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Ministro dos Assuntos Parlamentares\n\nO Ministro dos Assuntos Parlamentares acompanha a atividade parlamentar e assegura as relações do Governo com a Assembleia da República e com os grupos parlamentares."
+  },
+  "926716475": {
+   "fragment_id": "926716375",
+   "type": 11,
+   "heading": "Artigo 18.º — Defesa Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Defesa Nacional\n\n1 - O Ministério da Defesa Nacional é o departamento governamental que tem por missão formular, conduzir, executar e avaliar a política de defesa nacional no âmbito das competências que lhe são conferidas pela Lei de Defesa Nacional, bem como assegurar e fiscalizar a administração das Forças Armadas e dos demais serviços, organismos, entidades e estruturas nela integrados.\n\n2 - O Ministro da Defesa Nacional exerce o poder de direção sobre:\n\na) O Estado-Maior-General das Forças Armadas;\n\nb) Os ramos das Forças Armadas - Marinha, Exército e Força Aérea;\n\nc) A Secretaria-Geral do Ministério da Defesa Nacional;\n\nd) A Inspeção-Geral da Defesa Nacional;\n\ne) A Direção-Geral de Política de Defesa Nacional;\n\nf) A Direção-Geral de Recursos Humanos da Defesa Nacional;\n\ng) A Direção-Geral de Armamento e Património da Defesa Nacional;\n\nh) O Instituto da Defesa Nacional;\n\ni) A Polícia Judiciária Militar.\n\n3 - O Ministro da Defesa Nacional exerce os poderes de superintendência e tutela sobre o Instituto de Ação Social das Forças Armadas, I. P.\n\n4 - O Ministro da Defesa Nacional exerce a tutela sobre a Liga dos Combatentes.\n\n5 - O Ministro da Defesa Nacional exerce o poder de tutela sobre as instituições de ensino superior militar, em coordenação com o Ministro da Educação, Ciência e Inovação no que respeita às matérias de ensino e investigação.\n\n6 - Compete ao Ministro da Defesa Nacional, conjuntamente com o Ministro da Agricultura e Mar, no âmbito das respetivas competências, definir as orientações estratégicas para a Autoridade Marítima Nacional e coordenar a execução dos poderes de autoridade marítima nos espaços de jurisdição e no quadro de atribuições do Sistema da Autoridade Marítima.\n\n7 - Compete ao Ministro da Defesa Nacional definir as orientações estratégicas para o Instituto Hidrográfico, bem como fixar objetivos e acompanhar a sua execução, em coordenação com o Ministro da Educação, Ciência e Inovação e com o Ministro da Agricultura e Mar.\n\n8 - O Ministro da Defesa Nacional conduz a atividade interministerial de planeamento civil de emergência, em matérias da sua competência e, especificamente, no que respeita às relações com a Organização do Tratado do Atlântico Norte, em coordenação com a Ministra da Administração Interna.\n\n9 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, o Ministro Defesa Nacional exerce as competências que lhe são conferidas por lei sobre as entidades do setor empresarial do Estado, no domínio das matérias referidas no n.º 1.\n\n10 - O Ministro da Defesa Nacional exerce ainda os poderes que lhe são conferidos pelo n.º 9 do artigo 22.º e pelo n.º 21 do artigo 27.º"
+  },
+  "926716675": {
+   "fragment_id": "926716575",
+   "type": 11,
+   "heading": "Artigo 19.º — Ministro das Infraestruturas e Habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Ministro das Infraestruturas e Habitação\n\n1 - O Ministro das Infraestruturas e Habitação formula, conduz, executa e avalia as políticas de infraestruturas nas áreas da mobilidade, transportes terrestres e aéreos e respetivas infraestruturas, incluindo a segurança dos mesmos, e das comunicações, bem como as políticas dos transportes fluviais, marítimos e dos portos, incluindo a segurança dos mesmos, e as políticas de habitação, de reabilitação urbana, da construção e de imobiliário, incluindo a regulação dos contratos públicos.\n\n2 - O Ministro das Infraestruturas e Habitação exerce o poder de direção sobre:\n\na) O Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e Acidentes Ferroviários;\n\nb) O Gabinete para a Mobilidade Elétrica em Portugal.\n\n3 - O Ministro das Infraestruturas e Habitação exerce o poder de direção sobre a Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos em matéria de portos comerciais, sem prejuízo do disposto no n.º 5 do artigo 27.º\n\n4 - O Ministro das Infraestruturas e Habitação exerce os poderes de superintendência e tutela sobre:\n\na) O Laboratório Nacional de Engenharia Civil, I. P., em coordenação com o Ministro da Educação, Ciência e Inovação;\n\nb) O Instituto da Mobilidade e dos Transportes, I. P., em coordenação com o Ministro da Economia e da Coesão Territorial, com a Ministra da Administração Interna, e com a Ministra do Ambiente e Energia, em razão das matérias relacionadas com as respetivas áreas;\n\nc) O Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P.;\n\nd) O Instituto da Habitação e da Reabilitação Urbana, I. P.\n\n5 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, o Ministro das Infraestruturas e Habitação exerce as competências legalmente previstas em relação às entidades do setor empresarial do Estado que atuam no âmbito das matérias identificadas no n.º 1, incluindo o Metro Mondego, S. A., a CP - Comboios de Portugal, E. P. E., e a Infraestruturas de Portugal, S. A., e gere a concessão de exploração do serviço de transporte ferroviário de passageiros do eixo Norte-Sul da região de Lisboa, bem como a Construção Pública, E. P. E., e a ESTAMO - Participações Imobiliárias, S. A., relativamente à respetiva atividade no domínio da habitação.\n\n6 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, o Ministro das Infraestruturas e Habitação exerce os poderes de superintendência e tutela sobre as administrações portuárias, em coordenação com o Ministro da Agricultura e Mar.\n\n7 - O Ministro das Infraestruturas e Habitação exerce ainda os poderes que lhe são conferidos pelo n.º 7 do artigo 25.º e pelos n.<sup>os </sup>6 e 12 do artigo 27.º"
+  },
+  "926716875": {
+   "fragment_id": "926716775",
+   "type": 11,
+   "heading": "Artigo 20.º — Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Justiça\n\n1 - O Ministério da Justiça é o departamento governamental que tem por missão formular, conduzir, executar e avaliar a política de justiça definida pela Assembleia da República e pelo Governo.\n\n2 - A Ministra da Justiça exerce o poder de direção sobre:\n\na) A Secretaria-Geral do Ministério da Justiça;\n\nb) A Inspeção-Geral dos Serviços de Justiça;\n\nc) A Direção-Geral da Política de Justiça;\n\nd) A Direção-Geral da Administração da Justiça;\n\ne) A Direção-Geral de Reinserção e Serviços Prisionais;\n\nf) A Polícia Judiciária;\n\ng) A Comissão de Programas Especiais de Segurança.\n\n3 - A Ministra da Justiça exerce os poderes de superintendência e tutela sobre:\n\na) O Instituto de Gestão Financeira e Equipamentos da Justiça, I. P.;\n\nb) O Instituto dos Registos e do Notariado, I. P.;\n\nc) O Instituto Nacional de Medicina Legal e Ciências Forenses, I. P.\n\n4 - A Ministra da Justiça exerce o poder de tutela sobre o Centro de Estudos Judiciários.\n\n5 - A Ministra da Justiça exerce os poderes de superintendência e tutela sobre o Instituto Nacional da Propriedade Industrial, I. P., em coordenação com o Ministro da Economia e da Coesão Territorial e com Ministro da Educação, Ciência e Inovação.\n\n6 - O Conselho Consultivo da Justiça é o órgão consultivo da Ministra da Justiça.\n\n7 - A Ministra da Justiça exerce ainda os poderes que lhe são conferidos pelo n.º 3 do artigo 14.º"
+  },
+  "926717075": {
+   "fragment_id": "926716975",
+   "type": 11,
+   "heading": "Artigo 21.º — Administração Interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Administração Interna\n\n1 - O Ministério da Administração Interna é o departamento governamental que tem por missão formular, conduzir, executar e avaliar as políticas de segurança interna, do controlo de fronteiras, de proteção e socorro, de planeamento civil de emergência, de segurança rodoviária e de administração eleitoral.\n\n2 - A Ministra da Administração Interna exerce o poder de direção sobre:\n\na) As forças de segurança;\n\nb) A Autoridade Nacional de Emergência e Proteção Civil;\n\nc) A Autoridade Nacional de Segurança Rodoviária;\n\nd) A Secretaria-Geral do Ministério da Administração Interna;\n\ne) A Inspeção-Geral da Administração Interna.\n\n3 - A Ministra da Administração Interna exerce o poder de direção sobre a Rede Nacional de Segurança Interna, disponibilizada às forças e serviços de segurança e restantes organismos do Ministério da Administração Interna, e da Rede de Emergência e Segurança de Portugal.\n\n4 - A Ministra da Administração Interna exerce a tutela sobre o Instituto Superior de Ciências Policiais e de Segurança Interna, em coordenação com o Ministro da Educação, Ciência e Inovação no que respeita às matérias de ensino e investigação.\n\n5 - A Ministra da Administração Interna exerce ainda os poderes que lhe são conferidos pelos n.<sup>os </sup>3 e 4 do artigo 14.º, pelo n.º 8 do artigo 18.º e pela alínea b) do n.º 4 do artigo 19.º"
+  },
+  "926717275": {
+   "fragment_id": "926717175",
+   "type": 11,
+   "heading": "Artigo 22.º — Educação, Ciência e Inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Educação, Ciência e Inovação\n\n1 - O Ministério da Educação, Ciência e Inovação é o departamento governamental que tem por missão formular, conduzir, executar e avaliar a política nacional relativa ao sistema educativo, e articular as políticas nacionais de qualificação e de formação profissional.\n\n2 - O Ministério da Educação, Ciência e Inovação tem, ainda, por missão formular, conduzir, executar e avaliar a política nacional para a ciência e o ensino superior, compreendendo a inovação de base científica e tecnológica, o espaço, as orientações em matéria de competências digitais, a computação científica, a difusão da cultura científica e tecnológica e a cooperação científica e tecnológica internacional, nomeadamente com os países de língua oficial portuguesa.\n\n3 - O Ministro da Educação, Ciência e Inovação exerce o poder de direção sobre:\n\na) A Secretaria-Geral da Educação e Ciência;\n\nb) A Inspeção-Geral da Educação e Ciência;\n\nc) A Direção-Geral da Educação;\n\nd) A Direção-Geral da Administração Escolar;\n\ne) A Direção-Geral dos Estabelecimentos Escolares;\n\nf) A Direção-Geral de Estatísticas da Educação e Ciência;\n\ng) A Direção-Geral do Ensino Superior.\n\n4 - O Ministro da Educação, Ciência e Inovação exerce os poderes de superintendência e tutela sobre:\n\na) O Instituto de Gestão Financeira da Educação, I. P.;\n\nb) O Instituto de Avaliação Educativa, I. P.;\n\nc) A Fundação para a Ciência e a Tecnologia, I. P.;\n\nd) O Centro Cultural e Científico de Macau, I. P.\n\n5 - O Ministro da Educação, Ciência e Inovação, conjuntamente com o Ministro da Economia e da Coesão Territorial, exerce os poderes de superintendência e tutela, nas matérias da sua competência, sobre a ANI - Agência Nacional de Inovação, S. A.\n\n6 - O Ministro da Educação, Ciência e Inovação exerce o poder de tutela sobre as instituições de ensino superior públicas.\n\n7 - O Ministro da Educação, Ciência e Inovação exerce as competências legalmente previstas sobre a Agência Nacional para a Gestão do Programa Erasmus+ Educação e Formação, em coordenação com a Ministra do Trabalho, Solidariedade e Segurança Social, no que diz respeito às suas áreas de competência.\n\n8 - O Ministro da Educação, Ciência e Inovação exerce os poderes, previstos nos respetivos estatutos, sobre a Academia das Ciências de Lisboa.\n\n9 - O Ministro da Educação, Ciência e Inovação acompanha a execução da Estratégia Nacional para o Espaço «Portugal Espaço 2030», prosseguida pela Agência Espacial Portuguesa Portugal Space, em coordenação com o Ministro da Economia e da Coesão Territorial e com o Ministro da Defesa Nacional.\n\n10 - O Ministro da Educação, Ciência e Inovação acompanha as atividades de interesse público desenvolvidas pela Agência para a Investigação Clínica e Inovação Biomédica, na área da investigação clínica e da translação, e pelo Conselho Nacional dos Centros Académicos Clínicos, em coordenação com a Ministra da Saúde.\n\n11 - O Ministro da Educação, Ciência e Inovação acompanha a atividade de investigação realizada nos laboratórios do Estado, em coordenação com os ministros que os superintendam ou tutelem.\n\n12 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, o Ministro da Educação, Ciência e Inovação exerce as competências legalmente previstas em relação à Construção Pública, E. P. E., relativamente à respetiva atividade no domínio da educação.\n\n13 - São órgãos consultivos do Ministro da Educação, Ciência e Inovação o Conselho Nacional de Educação, o Conselho das Escolas, o Conselho Coordenador do Ensino Superior e o Conselho Nacional para a Inovação Pedagógica no Ensino Superior.\n\n14 - São órgãos consultivos do Ministro da Educação, Ciência e Inovação e do Ministro da Economia e da Coesão Territorial o Conselho Nacional de Ciência, Tecnologia e Inovação e o Conselho Nacional para o Empreendedorismo e a Inovação.\n\n15 - O Ministro da Educação, Ciência e Inovação, conjuntamente com a Ministra do Trabalho, Solidariedade e Segurança Social, exerce os poderes de superintendência e a tutela, nas matérias da sua competência, sobre a Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\n16 - O Ministro da Educação, Ciência e Inovação exerce ainda os poderes que lhe são conferidos pelos n.<sup>os </sup>5 e 7 do artigo 18.º, pela alínea a) do n.º 4 do artigo 19.º, pelo n.º 5 do artigo 20.º, pelo n.º 4 do artigo 21.º, pelos n.<sup>os </sup>3 e 8 do artigo 26.º e pelos n.<sup>os </sup>8, 11, 12, 16 e 22 do artigo 27.º"
+  },
+  "926717475": {
+   "fragment_id": "926717375",
+   "type": 11,
+   "heading": "Artigo 23.º — Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Saúde\n\n1 - O Ministério da Saúde é o departamento governamental que tem por missão formular, conduzir, executar e avaliar a política nacional de saúde e, em especial, do Serviço Nacional de Saúde, garantindo uma aplicação e utilização sustentáveis de recursos e a avaliação dos seus resultados.\n\n2 - A Ministra da Saúde exerce o poder de direção sobre:\n\na) A Secretaria-Geral do Ministério da Saúde;\n\nb) A Inspeção-Geral das Atividades em Saúde;\n\nc) A Direção-Geral da Saúde.\n\n3 - A Ministra da Saúde exerce os poderes de superintendência e tutela sobre:\n\na) A Direção Executiva do Serviço Nacional de Saúde, I. P.;\n\nb) A Administração Central do Sistema de Saúde, I. P.;\n\nc) O INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P.;\n\nd) O Instituto para os Comportamentos Aditivos e as Dependências, I. P.;\n\ne) O Instituto Nacional de Emergência Médica, I. P.;\n\nf) O Instituto Português do Sangue e da Transplantação, I. P.;\n\ng) O Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P.;\n\nh) Os serviços e estabelecimentos do Serviço Nacional de Saúde.\n\n4 - A Ministra da Saúde exerce a tutela sobre o Serviço de Utilização Comum dos Hospitais.\n\n5 - A Ministra da Saúde coordena, em conjunto com a Ministra do Trabalho, Solidariedade e Segurança Social, a Rede Nacional de Cuidados Continuados Integrados.\n\n6 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, a Ministra da Saúde exerce as competências que lhe são atribuídas por lei sobre as entidades do setor empresarial do Estado no domínio da saúde, que compreende:\n\na) Os estabelecimentos do Serviço Nacional de Saúde com natureza de entidade pública empresarial;\n\nb) Os Serviços Partilhados do Ministério da Saúde, E. P. E.\n\n7 - O Conselho Nacional de Saúde é o órgão consultivo da Ministra da Saúde.\n\n8 - A Ministra da Saúde exerce ainda os poderes que lhe são conferidos pelo n.º 10 do artigo 22.º"
+  },
+  "926717675": {
+   "fragment_id": "926717575",
+   "type": 11,
+   "heading": "Artigo 24.º — Trabalho, Solidariedade e Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Trabalho, Solidariedade e Segurança Social\n\n1 - O Ministério do Trabalho, Solidariedade e Segurança Social é o departamento governamental que tem por missão formular, conduzir, executar e avaliar as políticas de emprego, de formação profissional, de relações laborais e condições de trabalho, solidariedade e segurança social, bem como a coordenação das políticas sociais de apoio à família, crianças e jovens em risco, idosos e natalidade, de inclusão das pessoas com deficiência, de combate à pobreza e de promoção da inclusão social, de fortalecimento do setor cooperativo, da economia social e do voluntariado.\n\n2 - A Ministra do Trabalho, Solidariedade e Segurança Social exerce o poder de direção sobre:\n\na) A Secretaria-Geral do Ministério do Trabalho, Solidariedade e Segurança Social;\n\nb) A Inspeção-Geral do Ministério do Trabalho, Solidariedade e Segurança Social;\n\nc) O Gabinete de Estratégia e Planeamento;\n\nd) A Autoridade para as Condições do Trabalho;\n\ne) A Direção-Geral do Emprego e das Relações de Trabalho;\n\nf) A Direção-Geral da Segurança Social.\n\n3 - A Ministra do Trabalho, Solidariedade e Segurança Social exerce os poderes de superintendência e tutela sobre:\n\na) O Instituto da Segurança Social, I. P.;\n\nb) O Instituto de Gestão Financeira da Segurança Social, I. P.;\n\nc) O Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P.;\n\nd) O Instituto Nacional para a Reabilitação, I. P.;\n\ne) A Casa Pia de Lisboa, I. P.;\n\nf) O Instituto de Informática, I. P.\n\n4 - A Ministra do Trabalho, Solidariedade e Segurança Social exerce o poder de tutela sobre a Santa Casa da Misericórdia de Lisboa.\n\n5 - A Ministra do Trabalho, Solidariedade e Segurança Social exerce os poderes previstos nos respetivos estatutos sobre as fundações e cooperativas da respetiva área governativa, bem como sobre as entidades que funcionem no âmbito ou na dependência do Ministério, designadamente a Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens e o Centro de Relações Laborais.\n\n6 - A Ministra do Trabalho, Solidariedade e Segurança Social, conjuntamente com o Ministro da Educação, Ciência e Inovação, exerce os poderes de superintendência e tutela, nas matérias da sua competência, sobre a Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\n7 - A Ministra do Trabalho, Solidariedade e Segurança Social exerce os poderes de superintendência e tutela sobre o Instituto do Emprego e da Formação Profissional, I. P., em coordenação com o Ministro da Economia e da Coesão Territorial.\n\n8 - A Ministra do Trabalho, Solidariedade e Segurança Social exerce os poderes de superintendência e tutela sobre a Caixa Geral de Aposentações, I. P., em coordenação com o Ministro de Estado e das Finanças.\n\n9 - A Comissão para a Igualdade no Trabalho e no Emprego fica na dependência da Ministra do Trabalho, Solidariedade e Segurança Social, em coordenação com a Ministra da Cultura, Juventude e Desporto no que respeita à promoção da igualdade e da não discriminação entre homens e mulheres no trabalho e no emprego.\n\n10 - A Ministra do Trabalho, Solidariedade e Segurança Social, conjuntamente com a Ministra da Cultura, Juventude e Desporto, exerce os poderes de superintendência e tutela, no que diz respeito às matérias de demografia e desigualdade, sobre o Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social.\n\n11 - A Ministra do Trabalho, Solidariedade e Segurança Social exerce ainda os poderes que lhe são conferidos pelos n.<sup>os </sup>3 e 4 do artigo 14.º, pelo n.º 7 do artigo 22.º, pelo n.º 5 do artigo 23.º e pelo n.º 7 do artigo 26.º"
+  },
+  "926717875": {
+   "fragment_id": "926717775",
+   "type": 11,
+   "heading": "Artigo 25.º — Ambiente e Energia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Ambiente e Energia\n\n1 - O Ministério do Ambiente e Energia é o departamento governamental que tem por missão formular, conduzir, executar e avaliar as políticas de ambiente, água, resíduos, clima, proteção do litoral, conservação da natureza, biodiversidade, energia e geologia, numa perspetiva de desenvolvimento sustentável e de coesão social e territorial, bem como do ordenamento em matérias da sua competência, incluindo da orla costeira e do espaço rústico.\n\n2 - A Ministra do Ambiente e Energia exerce o poder de direção sobre a Direção-Geral de Energia e Geologia.\n\n3 - A Ministra do Ambiente e Energia exerce os poderes de superintendência e tutela sobre:\n\na) A Agência Portuguesa do Ambiente, I. P.;\n\nb) O Laboratório Nacional de Energia e Geologia, I. P.\n\n4 - A Ministra do Ambiente e Energia exerce os poderes de superintendência e tutela sobre a Agência para o Clima, I. P., em coordenação com o Ministro da Economia e da Coesão Territorial e com o Ministro da Agricultura e Mar, em razão das matérias relacionadas com as respetivas áreas.\n\n5 - A Ministra do Ambiente e Energia exerce os poderes de superintendência e tutela sobre o Instituto da Conservação da Natureza e das Florestas, I. P., relativamente às matérias da conservação da natureza e da biodiversidade, sem prejuízo do disposto no n.º 15 do artigo 27.º quanto às matérias de silvicultura, floresta, atividade cinegética e bem-estar animal.\n\n6 - A Ministra do Ambiente e Energia, conjuntamente com o Ministro da Economia e da Coesão Territorial e com o Ministro da Agricultura e Mar, exerce o poder de direção, nas matérias da sua competência, sobre a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território.\n\n7 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros, ao Ministro de Estado e das Finanças, ao Ministro da Economia e da Coesão Territorial e ao Ministro das Infraestruturas e Habitação, a Ministra do Ambiente e Energia exerce as competências que lhe são conferidas por lei sobre as entidades do setor empresarial do Estado, no domínio das águas, dos resíduos, do ordenamento do território, da política de cidades, da energia, da geologia e da conservação da natureza e da valorização do património ambiental.\n\n8 - A Ministra do Ambiente e Energia exerce as competências que lhe são atribuídas por lei sobre a ADENE - Agência para a Energia.\n\n9 - São órgãos consultivos da Ministra do Ambiente e Energia:\n\na) O Conselho Nacional da Água;\n\nb) O Conselho Nacional do Ambiente e do Desenvolvimento Sustentável.\n\n10 - A Ministra do Ambiente e Energia exerce ainda os poderes que lhe são conferidos pelo n.º 6 do artigo 11.º, pelos n.<sup>os </sup>4, 11 e 13 do artigo 15.º, pela alínea b) do n.º 4 do artigo 19.º e pelos n.<sup>os </sup>7, 8, 11, 18 e 22 do artigo 27.º"
+  },
+  "935953294": {
+   "fragment_id": "926717975",
+   "type": 11,
+   "heading": "Artigo 26.º — Cultura, Juventude e Desporto",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 38/2025/1 - Diário da República n.º 182/2025, Série I de 2025-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2025-935918855), produz efeitos a partir de 2025-07-26"
+   ],
+   "markdown": "###### Artigo 26.º — Cultura, Juventude e Desporto\n\n1 - O Ministério da Cultura, Juventude e Desporto é o departamento governamental que tem por missão formular, conduzir, executar e avaliar uma política global e coordenada na área da cultura e domínios com ela relacionados, designadamente na salvaguarda e valorização do património cultural, bem como no incentivo à criação artística e à difusão cultural, na qualificação do tecido cultural e, em coordenação com o Ministro de Estado e dos Negócios Estrangeiros, na internacionalização da cultura e língua portuguesa, e assegurar a formulação, condução, execução e avaliação das políticas nas áreas da juventude, da cidadania e da igualdade, incluindo a área da prevenção e combate à violência contra as mulheres, à violência doméstica e a qualquer forma de discriminação, bem como na área do desporto.\n\n2 - A Ministra da Cultura, Juventude e Desporto exerce poderes de direção sobre:\n\na) A Inspeção-Geral das Atividades Culturais;\n\nb) O Gabinete de Estratégia, Planeamento e Avaliação Culturais;\n\nc) A Direção-Geral das Artes;\n\nd) A Comissão para a Cidadania e a Igualdade de Género;\n\ne) A Autoridade para a Prevenção e o Combate à Violência no Desporto;\n\nf) A Autoridade Antidopagem de Portugal.\n\n3 - A Ministra da Cultura, Juventude e Desporto exerce o poder de direção sobre a Biblioteca Nacional de Portugal e sobre a Direção-Geral do Livro, dos Arquivos e das Bibliotecas, em coordenação com o Ministro da Educação, Ciência e Inovação em matéria de repositórios digitais.\n\n4 - A Ministra da Cultura, Juventude e Desporto exerce os poderes de superintendência e tutela sobre:\n\na) O Património Cultural, I. P.;\n\nb) A Cinemateca Portuguesa - Museu do Cinema, I. P.;\n\nc) O Instituto Português do Desporto e Juventude, I. P.\n\n5 - A Ministra da Cultura, Juventude e Desporto exerce os poderes de superintendência e tutela sobre o Instituto do Cinema e do Audiovisual, I. P., em coordenação com o Ministro da Presidência e, ambos, em coordenação com o Ministro da Economia e da Coesão Territorial em matérias de incentivos à produção cinematográfica e audiovisual e captação de filmagens internacionais para Portugal.\n\n6 - A Ministra da Cultura, Juventude e Desporto exerce as competências legalmente previstas sobre a Agência Nacional Erasmus+ Juventude/Desporto e Corpo Europeu de Solidariedade.\n\n7 - A Ministra da Cultura, Juventude e Desporto, conjuntamente com a Ministra do Trabalho, Solidariedade e Segurança Social, exerce a superintendência e tutela, no que diz respeito às matérias de demografia e desigualdade, sobre o Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social.\n\n8 - A Ministra da Cultura, Juventude e Desporto exerce, exclusivamente no que respeita a matérias de desporto escolar e de desporto no ensino superior, o poder de direção sobre a Direção-Geral da Educação e a Direção-Geral do Ensino Superior, conjuntamente com o Ministro da Educação, Ciência e Inovação.\n\n9 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, a Ministra da Cultura, Juventude e Desporto exerce as competências que lhe são atribuídas por lei sobre as entidades do setor empresarial do Estado nas áreas da cultura, que compreende, designadamente:\n\na) O Organismo de Produção Artística, E. P. E.;\n\nb) O Teatro Nacional de São João, E. P. E.;\n\nc) O Teatro Nacional D. Maria II, E. P. E.;\n\nd) A Museus e Monumentos de Portugal, E. P. E.\n\n10 - A Ministra da Cultura, Juventude e Desporto exerce os poderes previstos nos respetivos estatutos sobre as academias e fundações da área da cultura.\n\n11 - São órgãos consultivos da Ministra da Cultura, Juventude e Desporto:\n\na) O Conselho Nacional de Cultura;\n\nb) Conselho Consultivo da Juventude;\n\nc) Conselho Nacional do Desporto.\n\n12 - A Ministra da Cultura, Juventude e Desporto exerce ainda os poderes que lhe são conferidos pelos n.<sup>os </sup>9 e 10 do artigo 24.º\n\n> Retificado pelo/a [Declaração de Retificação n.º 38/2025/1 - Diário da República n.º 182/2025, Série I de 2025-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2025-935918855), produz efeitos a partir de 2025-07-26"
+  },
+  "926718275": {
+   "fragment_id": "926718175",
+   "type": 11,
+   "heading": "Artigo 27.º — Agricultura e Mar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Agricultura e Mar\n\n1 - O Ministério da Agricultura e Mar é o departamento governamental que tem por missão formular, conduzir, executar e avaliar as políticas em matéria de alimentação, agricultura, silvicultura, florestas, desenvolvimento rural, bem-estar animal, atividade cinegética, pescas e aquicultura, segurança marítima e proteção portuária nestas matérias, bem como planear e coordenar a aplicação dos fundos nacionais e europeus destinados à agricultura, às florestas, ao desenvolvimento rural, às pescas, à aquicultura e às obras de proteção portuária e segurança marítima nestas matérias, procedendo à respetiva definição da estratégia e prioridades, e ainda estabelecer orientações estratégicas setoriais referentes aos portos de pescas e a todas as atividades neles desenvolvidas.\n\n2 - O Ministério da Agricultura e Mar é o departamento governamental que tem ainda por missão formular, conduzir, executar e avaliar as políticas de desenvolvimento dirigidas à coordenação transversal dos assuntos do mar, através da definição e acompanhamento da Estratégia Nacional para o Mar, da promoção do conhecimento científico, da inovação e do desenvolvimento tecnológico na área do mar, da definição e coordenação da execução das políticas de proteção, planeamento, ordenamento, gestão e exploração dos recursos do mar, da promoção de uma presença efetiva no mar, dos seus usos e de uma economia do mar sustentável, da náutica de recreio e da segurança marítima, e a gestão dos fundos nacionais e europeus relativos ao mar, bem como o desenvolvimento de grandes investimentos e projetos associados ao mar.\n\n3 - Compete ao Ministro da Agricultura e Mar, conjuntamente com o Ministro de Estado e dos Negócios Estrangeiros, a coordenação intersetorial da participação nacional nos organismos europeus e internacionais responsáveis pela definição e pela monitorização das políticas marítimas.\n\n4 - O Ministro da Agricultura e Mar exerce o poder de direção sobre:\n\na) O Gabinete de Planeamento, Políticas e Administração Geral;\n\nb) A Direção-Geral de Alimentação e Veterinária;\n\nc) A Direção-Geral de Agricultura e Desenvolvimento Rural;\n\nd) A Direção-Geral de Política do Mar;\n\ne) A Autoridade de Gestão do Plano Estratégico da Política Agrícola Comum para Portugal, em território continental;\n\nf) A Autoridade de Gestão do Programa Operacional Mar 2020 (Mar 2020), e do Programa Operacional Mar 2030;\n\ng) O Provedor do Animal;\n\nh) A Comissão Técnica do Registo Internacional de Navios da Madeira.\n\n5 - O Ministro da Agricultura e Mar exerce o poder de direção sobre a Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, sem prejuízo do disposto no n.º 3 do artigo 19.º\n\n6 - O Ministro da Agricultura e Mar exerce o poder de direção sobre o Gabinete de Investigação de Acidentes Marítimos, em coordenação com o Ministro das Infraestruturas e Habitação.\n\n7 - O Ministro da Agricultura e Mar, conjuntamente com o Ministro da Economia e da Coesão Territorial e com a Ministra do Ambiente e Energia, exerce o poder de direção sobre a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, no que diz respeito às suas áreas de competência.\n\n8 - Encontra-se na dependência do Ministro da Agricultura e Mar o Comité Nacional para a Década do Oceano, sem prejuízo da coordenação com o Ministro de Estado e dos Negócios Estrangeiros, o Ministro da Educação, Ciência e Inovação e a Ministra do Ambiente e Energia.\n\n9 - O Ministro da Agricultura e Mar exerce os poderes de superintendência e tutela sobre:\n\na) O Instituto da Vinha e do Vinho, I. P.;\n\nb) O Instituto dos Vinhos do Douro e do Porto, I. P.;\n\nc) A Agência para a Gestão Integrada de Fogos Rurais, I. P.;\n\nd) A Fundação Mata do Buçaco.\n\n10 - O Ministro da Agricultura e Mar exerce os poderes de superintendência e tutela nas áreas da sua competência, sobre as CCDR, I. P.\n\n11 - O Ministro da Agricultura e Mar exerce os poderes de superintendência e tutela sobre o Instituto Português do Mar e da Atmosfera, I. P., em coordenação com o Ministro da Educação, Ciência e Inovação e com a Ministra do Ambiente e Energia.\n\n12 - O Ministro da Agricultura e Mar exerce o poder de tutela sobre a Escola Superior Náutica Infante D. Henrique, em coordenação com o Ministro das Infraestruturas e Habitação e com o Ministro da Educação, Ciência e Inovação.\n\n13 - O Ministro da Agricultura e Mar exerce os poderes de superintendência e tutela sobre o Instituto de Financiamento da Agricultura e Pescas, I. P., em coordenação com o Ministro de Estado e das Finanças e com o Ministro da Economia e da Coesão Territorial.\n\n14 - Nos termos do disposto no número anterior, o Ministro da Agricultura e Mar exerce os poderes de superintendência e tutela em matéria de agricultura, desenvolvimento rural, silvicultura, florestas, pescas, aquicultura e mar e respetivos fundos europeus.\n\n15 - O Ministro da Agricultura e Mar exerce os poderes de superintendência e tutela sobre o Instituto da Conservação da Natureza e das Florestas, I. P., relativamente às matérias da silvicultura, floresta e atividade cinegética, sem prejuízo do disposto no n.º 5 do artigo 25.º, quanto às matérias da conservação da natureza e biodiversidade.\n\n16 - O Ministro da Agricultura e Mar exerce os poderes de superintendência e tutela sobre o Instituto Nacional de Investigação Agrária e Veterinária, I. P., em coordenação com a Ministro da Educação, Ciência e Inovação, no que respeita às matérias de investigação e inovação relacionadas com a respetiva área.\n\n17 - Compete ao Ministro da Agricultura e Mar, sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, os poderes de superintendência e tutela sobre a Docapesca - Portos e Lotas, S. A., a Companhia das Lezírias, S. A., e Florestgal, S. A.\n\n18 - Sem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, o Ministro da Agricultura e Mar exerce os poderes de superintendência e tutela sobre a EDIA - Empresa de Desenvolvimento e Infraestruturas do Alqueva, S. A., sendo a competência relativa à definição das orientações, nos domínios do ambiente, dos recursos hídricos, do ordenamento do território e do desenvolvimento regional, bem como o acompanhamento da sua execução, exercida em coordenação com o Ministro da Economia e da Coesão Territorial e com a Ministra do Ambiente e Energia.\n\n19 - O Ministro da Agricultura e Mar exerce os poderes de superintendência e tutela dos fundos europeus em matéria de agricultura, desenvolvimento rural, silvicultura, florestas, pescas e aquicultura.\n\n20 - O Ministro da Agricultura e Mar coordena a Comissão Interministerial para os Assuntos do Mar e substitui o Primeiro-Ministro na respetiva presidência, nas suas ausências e impedimentos.\n\n21 - Compete ao Ministro da Agricultura e Mar, conjuntamente com o Ministro da Defesa Nacional, no âmbito das respetivas competências, definir as orientações estratégicas para a Autoridade Marítima Nacional e coordenar a execução dos poderes de autoridade marítima nos espaços de jurisdição e no quadro de atribuições do Sistema da Autoridade Marítima.\n\n22 - Compete ao Ministro da Agricultura e Mar definir as orientações estratégicas para o Observatório para o Atlântico, em coordenação com o Ministro da Educação, Ciência e Inovação e com a Ministra do Ambiente e Energia.\n\n23 - Sem prejuízo dos poderes legalmente conferidos a outras áreas governativas, o Ministro da Agricultura e Mar assume a qualidade de concedente no âmbito das bases da concessão das atividades de serviço público de exploração e administração do Oceanário de Lisboa.\n\n24 - O Ministro da Agricultura e Mar exerce ainda os poderes que lhe são conferidos pelos n.<sup>os </sup>6 e 8 do artigo 11.º, pelos n.<sup>os </sup>4, 7, 10 e 13 do artigo 15.º, pelos n.<sup>os </sup>6 e 7 do artigo 18.º, pelo n.º 6 do artigo 19.º e pelos n.<sup>os </sup>4 e 6 do artigo 25.º"
+  },
+  "926718475": {
+   "fragment_id": "926718375",
+   "type": 11,
+   "heading": "Artigo 28.º — Setor empresarial do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Setor empresarial do Estado\n\nSem prejuízo do disposto no presente decreto-lei e dos poderes legalmente conferidos ao Conselho de Ministros e ao Ministro de Estado e das Finanças, os ministros exercem as competências que lhes são atribuídas por lei sobre as entidades do setor empresarial do Estado, nas matérias abrangidas pelas suas competências."
+  },
+  "926718675": {
+   "fragment_id": "926718575",
+   "type": 11,
+   "heading": "Artigo 29.º — Serviços e fundos autónomos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Serviços e fundos autónomos\n\nSem prejuízo do disposto no presente decreto-lei e dos poderes legalmente conferidos ao Conselho de Ministros, os ministros exercem as competências que lhes são atribuídas por lei sobre os serviços e fundos autónomos."
+  },
+  "926718875": {
+   "fragment_id": "926718775",
+   "type": 11,
+   "heading": "Artigo 30.º — Organismos profissionais públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Organismos profissionais públicos\n\nSem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros, os ministros exercem as competências que lhes são atribuídas por lei sobre as entidades profissionais de direito público na área da respetiva competência."
+  },
+  "926719075": {
+   "fragment_id": "926718975",
+   "type": 11,
+   "heading": "Artigo 31.º — Entidades reguladoras e outros órgãos ou entidades administrativas independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entidades reguladoras e outros órgãos ou entidades administrativas independentes\n\nSem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros, os ministros exercem as competências que lhes são atribuídas por lei sobre as entidades reguladoras e outros órgãos ou entidades administrativas independentes na área da respetiva competência."
+  },
+  "926719275": {
+   "fragment_id": "926719175",
+   "type": 11,
+   "heading": "Artigo 32.º — Estruturas ou unidades de missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Estruturas ou unidades de missão\n\nSem prejuízo dos poderes legalmente conferidos ao Conselho de Ministros, os ministros exercem as competências que lhes são atribuídas por lei sobre as estruturas ou unidades de missão na área da respetiva competência."
+  },
+  "926719475": {
+   "fragment_id": "926719375",
+   "type": 1,
+   "heading": "Capítulo II — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+  },
+  "926719675": {
+   "fragment_id": "926719575",
+   "type": 11,
+   "heading": "Artigo 33.º — Procedimento de alienação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Procedimento de alienação\n\nA alienação, a permuta, a oneração e a cedência de utilização do património imobiliário do Estado e de qualquer entidade da administração direta ou indireta do Estado ou do setor público empresarial estão dependentes de despacho do Primeiro-Ministro, que pode delegar em qualquer membro do Governo, com faculdade de subdelegação, a referida competência."
+  },
+  "926719875": {
+   "fragment_id": "926719775",
+   "type": 11,
+   "heading": "Artigo 34.º — Coordenação regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Coordenação regional\n\nEm situação de alerta, contingência ou calamidade, estado de sítio ou de emergência, o Primeiro-Ministro procede à nomeação dos membros do Governo a quem incumbe, designadamente, a coordenação horizontal das entidades, organismos ou serviços de âmbito regional ou distrital da administração direta e indireta do Estado, promovendo a articulação e interlocução de todas as estruturas desconcentradas do Estado, autarquias locais e entidades dos setores social e económico existentes na respetiva NUTS II."
+  },
+  "926720075": {
+   "fragment_id": "926719975",
+   "type": 11,
+   "heading": "Artigo 35.º — Gabinete do Secretário de Estado da Presidência do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Gabinete do Secretário de Estado da Presidência do Conselho de Ministros\n\nO gabinete do Secretário de Estado da Presidência do Conselho de Ministros é equiparado, para efeitos da legislação sobre gabinetes, a gabinete ministerial."
+  },
+  "926720275": {
+   "fragment_id": "926720175",
+   "type": 11,
+   "heading": "Artigo 36.º — Atos de delegação de poderes do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Atos de delegação de poderes do Conselho de Ministros\n\nPara efeitos do disposto no artigo 50.º do Código do Procedimento Administrativo, aprovado, em anexo, pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, os atos de delegação de poderes efetuados pelo Conselho de Ministros nos membros do Governo e nos dirigentes da Administração Pública, ao abrigo do Decreto-Lei n.º 32/2024, de 10 de maio, que ainda não esgotaram todos os seus efeitos, não se extinguem, considerando-se as delegações efetuadas nos membros do Governo que os sucederam nas suas atribuições e competências, bem como nos dirigentes da Administração Pública, quando seja o caso, nos termos do presente decreto-lei."
+  },
+  "926720475": {
+   "fragment_id": "926720375",
+   "type": 11,
+   "heading": "Artigo 37.º — Disposições orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Disposições orçamentais\n\n1 - Os encargos com os gabinetes dos membros do Governo são assegurados com recurso às verbas anteriormente afetas às estruturas que prosseguiam as respetivas atribuições e competências.\n\n2 - Compete ao Ministro de Estado e das Finanças, sob proposta das áreas setoriais, autorizar as alterações orçamentais necessárias à execução do Orçamento e prestação de contas de 2025.\n\n3 - Compete ao Ministro de Estado e das Finanças proceder à adequação dos classificadores orçamentais, designadamente orgânicos e programas orçamentais, à nova estrutura orgânica do Governo prevista no presente decreto-lei.\n\n4 - O Ministro de Estado e das Finanças pode delegar as competências previstas nos n.<sup>os </sup>2 e 3 nos secretários de Estado que o coadjuvam."
+  },
+  "926720675": {
+   "fragment_id": "926720575",
+   "type": 11,
+   "heading": "Artigo 38.º — Secretaria-Geral do Ministério das Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Secretaria-Geral do Ministério das Finanças\n\nEnquanto decorrer o processo de extinção da Secretaria-Geral do Ministério das Finanças, nos termos do Decreto-Lei n.º 54/2025, de 28 de março, o poder de direção sobre ela exercido compete ao Ministro de Estado e das Finanças."
+  },
+  "926720875": {
+   "fragment_id": "926720775",
+   "type": 11,
+   "heading": "Artigo 39.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Revogação\n\nCom a entrada em vigor do presente decreto-lei, são revogadas as normas do Decreto-Lei n.º 32/2024, de 10 de maio, que regulam as mesmas matérias previstas neste diploma e na Resolução do Conselho de Ministros n.º 105/2025, de 3 de julho, designadamente sobre o regime de organização e funcionamento do Governo, bem como as regras do Regimento do Conselho de Ministros e de legística na elaboração dos atos normativos do Governo."
+  },
+  "926721075": {
+   "fragment_id": "926720975",
+   "type": 11,
+   "heading": "Artigo 40.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 5 de junho de 2025, considerando-se ratificados todos os atos entretanto praticados."
+  },
+  "926721275": {
+   "fragment_id": "926721175",
+   "type": 11,
+   "heading": "Artigo 41.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "926721475": {
+   "fragment_id": "926721375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de julho de 2025. - Luís Montenegro - Paulo Artur dos Santos de Castro de Campos Rangel - Joaquim Miranda Sarmento - António Leitão Amaro - Manuel Castro Almeida - Gonçalo Nuno da Cruz Saraiva Matias - Carlos Eduardo Almeida de Abreu Amorim - Nuno Melo - Miguel Martinez de Castro Pinto Luz - Rita Alarcão Júdice - Maria Lúcia da Conceição Abrantes Amaral - Fernando Alexandre - Ana Paula Martins - Rosário Palma Ramalho - Maria da Graça Carvalho - Margarida Balseiro Lopes - José Manuel Fernandes.\n\nPromulgado em 24 de julho de 2025.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 25 de julho de 2025.\n\nO Primeiro-Ministro, Luís Montenegro.\n\n119359271"
+  },
+  "1146319175": {
+   "fragment_id": "926719575",
+   "type": 11,
+   "heading": "Artigo 33.º — Património imobiliário",
+   "in_force_from": "2026-07-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2026-1145969706), em vigor a partir de 2026-07-11."
+   ],
+   "markdown": "###### Artigo 33.º — Património imobiliário\n\n1 - A alienação, a permuta, a oneração, o arrendamento e a cedência de utilização do património imobiliário do Estado e de qualquer entidade da administração direta ou indireta do Estado ou do setor público empresarial estão dependentes de despacho do Primeiro-Ministro, que pode delegar em qualquer membro do Governo, com faculdade de subdelegação, a referida competência.\n\n2 - Excluem-se da aplicação do disposto no número anterior:\n\na) Os contratos de arrendamento cujo valor da renda anual seja inferior a 7500 € e cujo prazo não exceda seis anos;\n\nb) As cedências de utilização cuja compensação financeira anual seja inferior a 7500 € e cuja duração não ultrapasse o prazo referido na alínea anterior.\n\n3 - O património imobiliário referido no n.º 1 não abrange os bens de domínio público.\n\n4 - O disposto nos números anteriores não revoga nem suspende nenhuma norma do regime jurídico do património imobiliário público (RJPIP), aprovado pelo <a href=\"https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-2007-637402\"><u>Decreto-Lei n.º 280/2007</u></a>, de 7 de agosto, na sua redação atual, designadamente no que respeita à determinação das entidades competentes para autorizar os atos de administração e de disposição do património imobiliário nos termos do referido decreto-lei.\n\n5 - O despacho referido no n.º 1, quando exigível, tem natureza de autorização administrativa, a proferir em momento anterior às autorizações previstas no RJPIP, no âmbito do mesmo procedimento.\n\n> Nota: [Artigo 3.º, Decreto-Lei n.º 139/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2026-1145969706) O disposto nos n.ºs 3 e 4 do presente artigo tem caráter interpretativo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 139/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2026-1145969706), em vigor a partir de 2026-07-11."
+  }
+ }
+}

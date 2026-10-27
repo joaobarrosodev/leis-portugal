@@ -1,0 +1,279 @@
+---
+schema_version: '1.0'
+id: pt:dre:500771:por
+title: Portaria n.º 22493
+short_title: null
+summary: Aprova o Regulamento Geral do Serviço de Reabilitação Profissional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Corporações a Previdência Social - Gabinete do Ministro
+proposing_entity: null
+official_number: '22493'
+official_date: null
+publication_date: '1967-01-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 24/1967, Série I de 1967-01-28
+  number: '24'
+  series: I
+  supplement: null
+  pages: 141 - 144
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/01/02400/01410144.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '500771'
+  dre_path: /dr/detalhe/portaria/22493-1967-500771
+  internal: pt:dre:500771:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22493-1967-500771
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22493-1967-500771
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:26:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a9bc840773182d85d135b542da44ed9220a73ae2bc8a20772d823639407a685f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:26:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:488323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659680:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:26:44Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22493
+
+Tendo em vista facilitar a actuação do Serviço de Reabilitação Profissional, criado pelo [Decreto-Lei n.º 46872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46872-1966-488323), de 15 de Fevereiro de 1966:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Previdência Social, aprovar o regulamento geral do referido Serviço de Reabilitação Profissional.
+
+Ministério das Corporações e Previdência Social, 28 de Janeiro de 1967. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.
+
+REGULAMENTO GERAL DO SERVIÇO DE REABILITAÇÃO PROFISSIONAL
+
+Artigo 1.º O Serviço de Reabilitação Profissional (S. R. P.), instituído na Direcção-Geral do Trabalho e Corporações, do Ministério das Corporações e Previdência Social, pelo [Decreto-Lei n.º 46872](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46872-1966-488323), de 15 de Fevereiro de 1966, tem por finalidade a readaptação, orientação, reeducação e formação profissionais dos diminuídos físicos, proporcionando-lhes a sua reinserção social e económica tanto quanto possível pelo ingresso nos quadros normais do trabalho.
+
+Art. 2.º - 1. O S. R. P. abrange na sua acção os diminuídos físicos que residam em território nacional e se encontrem nas condições regulamentares previstas para a admissão nos serviços ou centros de reabilitação profissional.
+
+2. Normas especiais definirão os requisitos e as condições a que deverão obedecer os interessados para serem admitidos nos serviços de reabilitação.
+
+3. As normas referidas no número antecedente serão aprovadas por despacho do Ministro das Corporações e Previdência Social, por sua iniciativa ou sob proposta do director do S. R. P., ouvido o conselho consultivo.
+
+Art. 3.º O S. R. P., considerado como pessoa moral, com capacidade jurídica, fica dependente, em tudo quanto respeite à política de emprego, do Fundo de Desenvolvimento da Mão-de-Obra e deve actuar na mais estreita colaboração com os organismos corporativos representativos das entidades patronais e dos trabalhadores, instituições de previdência e departamentos oficiais ou particulares aos quais a sua acção possa interessar.
+
+Art. 4.º No âmbito das suas atribuições, compete nomeadamente ao S. R. P., ponderadas, segundo a conjuntura do momento, as necessidades e conveniências das empresas e dos trabalhadores e sem prejuízo das atribuições legalmente conferidas a outros departamentos do Estado em matéria de mão-de-obra:
+
+a) Prover, em estreita cooperação com o Serviço Nacional de Emprego, ao despiste, recenseamento e colocação dos diminuídos físicos e acompanhar a situação profissional destes pelo menos na fase inicial do seu regresso ao trabalho;
+
+b) Promover as diligências necessárias para que os interessados possam beneficiar, em tempo útil, dos cuidados médicos e cirúrgicos adequados, tendo em vista a sua máxima recuperação funcional e, bem assim, a melhoria da sua aptidão para o exercício de uma profissão remunerada;
+
+c) Dispor de serviços específicos de readaptação profissional, de orientação, de reeducação e formação capazes de assegurar a reclassificação dos diminuídos físicos ou o seu ingresso na profissão anteriormente exercida em condições psicológicas, sociais e económicas suficientes;
+
+d) Instalar e manter centros oficinais especialmente concebidos e equipados para o exercício de tarefas profissionais pelos grandes incapacitados;
+
+e) Estudar e promover a adaptação, conservação e renovação dos aparelhos de prótese e de ortopedia necessários à readaptação profissional dos diminuídos físicos, bem como o melhor ajustamento possível das máquinas, utensílios e ferramentas às deficiências funcionais dos incapacitados a que se destinam;
+
+f) Dispensar aos interessados, sempre que possível e se justifique, todo o auxílio na solução dos seus problemas pessoais, familiares ou profissionais antes, durante e após a sua readaptação profissional;
+
+g) Conceder subsídios, quando devidamente autorizados, para o transporte dos trabalhadores que se destinem aos estágios de formação ou reeducação promovidos pelo S. R. P., e, bem assim, para a sua manutenção durante os mesmos estágios.
+
+Nos casos devidamente justificados, poderão tais subsídios abranger as despesas com a deslocação e manutenção de um acompanhante;
+
+h) Dar apoio técnico ou financeiro aos serviços ou instituições particulares que exerçam uma acção de comprovado interesse para a recuperação profissional dos diminuídos físicos, desde que se prove a manifesta carência de tal apoio.
+
+Normas especiais regularão os termos em que este apoio se poderá efectivar, ficando dependente da autorização do Ministro das Corporações e Previdência Social, em cada caso, a concessão dos correspondentes benefícios;
+
+i) Promover junto das empresas e pelos meios mais adequados a difusão e a consciencialização dos princípios e das vantagens da reabilitação profissional, nomeadamente quanto ao valor e rentabilidade do trabalho dos reclassificados e quanto à conveniência em se adaptarem, na medida do possível, as instalações e equipamento às particularidades funcionais dos incapacitados;
+
+j) Realizar uma adequada acção social tendente a proporcionar aos diminuídos físicos e suas famílias as condições gerais de vida, segurança e bem-estar compatíveis com a sua especial situação, nomeadamente a instalação de lares, o aproveitamento dos tempos livres, etc.
+
+Esta acção deverá ser prosseguida em estreita cooperação com a Fundação Nacional para a Alegria no Trabalho e com a Federação de Caixas de Previdência - Obras Sociais;
+
+l) Reunir e compilar toda a documentação disponível relativa à melhoria das condições de vida dos diminuídos físicos e à técnica da reabilitação profissional e manter intercâmbios com as instituições, serviços ou departamentos públicos ou privados que em Portugal ou no estrangeiro se dedicam ao estudo e às realizações da recuperação vocacional;
+
+m) Promover a formação e o aperfeiçoamento de pessoal especializado.
+
+Art. 5.º - 1. Para consecução das suas finalidades, o S. R. P. disporá de instalações próprias providas de pessoal especializado, nomeadamente centros de formação e reeducação profissional e centros de ocupação profissional.
+
+2. As condições de admissão nos centros previstos no número anterior, bem como o respectivo regime, estrutura e funcionamento, serão definidos em regulamentação própria.
+
+Art. 6.º O S. R. P. utilizará, sempre que possível e com as convenientes adaptações, os centros de formação do Instituto de Formação Profissional Acelerada e, bem assim, os demais serviços centrais ou regionais articulados pelo Fundo de Desenvolvimento da Mão-de-Obra, sem prejuízo do recurso a meios próprios que melhor ou mais ràpidamente assegurem, segundo as circunstâncias, a execução das acções programadas.
+
+Art. 7.º - 1. O S. R. P. poderá celebrar acordos de cooperação com os serviços hospitalares e de recuperação funcional dependentes do Estado, das Misericórdias, instituições de previdência ou de outras entidades públicas ou privadas, regulando os termos e as condições de utilização dos referidos serviços.
+
+2. Os acordos ficam sujeitos a homologação do Ministro das Corporações e Previdência Social, ouvido o conselho consultivo.
+
+Art. 8.º - 1. Para efeito de promover a reabilitação profissional dos diminuídos físicos, poderá o S. R. P. celebrar com as entidades interessadas, nomeadamente instituições de previdência ou assistência, sociedades de seguros ou quaisquer outros departamentos ou serviços públicos ou privados, os convenientes acordos, prevendo, entre outros aspectos, as categorias de incapacidades a considerar e as condições e prazos de pagamento das correspondentes acções de reabilitação.
+
+2. Estes acordos serão sujeitos à homologação do Ministro das Corporações e Previdência Social.
+
+Art. 9.º - 1. A admissão dos diminuídos físicos nos serviços de reabilitação profissional poderá ser requerida, directamente pelos interessados ou pelas instituições ou entidades responsáveis, ao director do S. R. P.
+
+2. O pedido de admissão será formulado em impresso de modelo próprio e submetido a despacho do director, que decidirá com base no parecer da comissão técnica e nas conclusões dos exames, testes e inquéritos médicos, psicológicos e sociais competentes.
+
+Art. 10.º - 1. A direcção do S. R. P. será constituída por um director e dois adjuntos, a designar pelo Ministro das Corporações e Previdência Social.
+
+2. Ao provimento de cargos de director e adjuntos do director do S. R. P. é extensivo o disposto no [Decreto-Lei n.º 37743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37743-1950-659680), de 23 de Novembro de 1950.
+
+Art. 11.º - 1. A orientação directa do S. R. P. cabe ao director, coadjuvado pelos adjuntos.
+
+2. Compete ao director em especial:
+
+a) Dirigir, orientar e coordenar todas as actividades do S. R. P.;
+
+b) Representar o S. R. P.;
+
+c) Submeter a despacho os assuntos afectos à competência e atribuições do S. R. P.;
+
+d) Assinar a correspondência;
+
+e) Propor a nomeação do pessoal;
+
+f) Elaborar o programa anual das actividades e o correspondente orçamento;
+
+g) Promover a execução pontual dos programas aprovados;
+
+h) Tomar todas as providências que se tornem necessárias para a plena realização das finalidades do S. R. P.;
+
+i) Elaborar os regulamentos necessários ao seu funcionamento.
+
+3. Ao director compete ainda a distribuição dos diferentes serviços e actividades pelos adjuntos.
+
+Art. 12.º - 1. Aos adjuntos compete coadjuvar o director no exercício das suas funções.
+
+2. Ao adjunto técnico cabe a orientação dos quadros especializados e, bem assim, da comissão a que se refere o artigo 13.º
+
+Art. 13.º - 1. Junto da direcção funcionará uma comissão técnica, constituída por peritos de reabilitação, que se pronunciará sobre a oportunidade, viabilidade ou conveniência na admissão de diminuídos físicos nos centros de reabilitação funcional ou profissional a promover pelo S. R. P., tendo em atenção os dados de ordem médica, psicológica e social referidos no artigo 9.º
+
+2. A comissão dará parecer sobre todos os casos da sua especialidade que lhe sejam submetidos pela direcção e ainda sobre os esquemas funcionais dos serviços específicos da reabilitação, acordos de cooperação a celebrar, equipamento técnico, etc.
+
+Art. 14.º Na imediata dependência do director e dos adjuntos do S. R. P. haverá um centro de documentação com as seguintes funções:
+
+a) Organizar a biblioteca do S. R. P. e velar pelo seu funcionamento e pela sua actualização;
+
+b) Coligir e sistematizar todos os elementos de informação com interesse para o estudo e esclarecimento dos problemas relativos ao processo da reabilitação em todas as fases. Nesta sistematização devem incluir-se os dados estatísticos, doutrinais, legais, técnicos e institucionais disponíveis na experiência nacional e estrangeira;
+
+c) Acompanhar, em cooperação com o Serviço de Relações Internacionais do Ministério, o movimento internacional sobre a reabilitação e estudar e propor a representação em organismos internacionais dedicados ao estudo do problema.
+
+Art. 15.º - 1. Em colaboração com a direcção funcionará um conselho consultivo, do qual farão parte:
+
+a) O director-geral do Trabalho e Corporações;
+
+b) Representante do Fundo de Desenvolvimento da Mão-de-Obra;
+
+c) O director do Serviço de Reabilitação Profissional;
+
+d) Representantes das entidades patronais e dos trabalhadores, a designar pelas corporações interessadas;
+
+e) Representante da Caixa Nacional de Pensões;
+
+f) Representante da Federação das Caixas de Previdência e Abono de Família;
+
+g) Representante da Direcção-Geral da Assistência;
+
+h) Representante das forças armadas;
+
+i) Representante do Instituto de Obras Sociais;
+
+j) Representante da Fundação Nacional para a Alegria no Trabalho;
+
+l) Representante da Federação de Caixas de Previdência - Habitações Económicas.
+
+2. Poderão ser convidados a assistir às reuniões do conselho consultivo quaisquer outras entidades cuja presença seja julgada conveniente.
+
+3. O conselho consultivo será presidido pelo director-geral do Trabalho e Corporações, que poderá fazer-se representar pelo director do S. R. P.
+
+4. O conselho terá como secretário um dos adjuntos da direcção do S. R. P.
+
+5. Compete ao conselho consultivo pronunciar-se sobre os seguintes assuntos:
+
+a) Programa anual das actividades e orçamento;
+
+b) Instalação de escolas de reeducação, centros oficinais, lares e outras modalidades da acção em benefício dos diminuídos físicos;
+
+c) Acordos de cooperação;
+
+d) Definição do âmbito da acção do S. R. P. nos termos previstos no artigo 2.º;
+
+c) Quaisquer outras questões que o presidente, por iniciativa própria ou a requerimento de algum dos vogais, entenda dever submeter-lhe.
+
+6. As reuniões do conselho serão convocadas pelo seu presidente.
+
+7. O secretário do conselho acompanhará as discussões e anotará em registo próprio os pareceres emitidos.
+
+Art. 16.º - 1. O S. R. P. disporá:
+
+a) Das verbas que em cada ano lhe forem atribuídas pelo Fundo de Desenvolvimento da Mão-de-Obra;
+
+b) De quaisquer outras verbas que lhe sejam destinadas por entidades públicas ou particulares e ainda das receitas que eventualmente resultam do exercício da sua própria actividade.
+
+2. As verbas referidas nas alíneas prececedentes serão depositadas em conta própria do S. R. P.
+
+3. As receitas e despesas do S. R. P. constarão de um orçamento anual elaborado até 15 de Dezembro do ano anterior àquele a que respeitar e a submeter, com o parecer do conselho consultivo, dentro dos quinze dias subsequentes, à homologação do Ministro das Corporações e Previdência Social.
+
+4. Quaisquer alterações no orçamento anual serão levadas a efeito através de orçamentos suplementares sujeitos, na parte aplicável, às regras estabelecidas no corpo do artigo.
+
+Art. 17.º - 1. O Fundo de Desenvolvimento da Mão-de-Obra colocará em cada mês à disposição do S. R. P. as verbas correspondentes ao duodécimo da dotação anual, sem prejuízo da antecipação sempre que haja de liquidar despesas devidamente autorizadas cujo montante exceda as disponibilidades em depósito.
+
+2. A efectivação das despesas do S. R. P. será autorizada pelo Ministro das Corporações e Previdência Social, que poderá delegar a sua competência em termos a estabelecer por despacho.
+
+3. Os pagamentos serão sempre feitos por meio de cheques, assinados pelo director e por um adjunto.
+
+4. Para pagamentos correntes que devam efectuar-se em dinheiro poderá ser autorizada a constituição de um fundo de maneio.
+
+Art. 18.º - 1. As contas do S. R. P. serão elaboradas nos mesmos termos em que o são as do Fundo de Desenvolvimento da Mão-de-Obra, a cujo conselho administrativo serão presentes para aprovação.
+
+2. As contas de receita e despesa do S. R. P. serão apresentadas juntamente com as do Fundo de Desenvolvimento da Mão-de-Obra e submetidas com as deste à homologação ministerial, mediante a qual se consideram legitimadas para todos os efeitos.
+
+Art. 19.º - 1. O quadro do pessoal do S. R. P. será aprovado pelo Ministro das Corporações e Previdência Social, de acordo com as necessidades dos serviços.
+
+2. A admissão do pessoal fica pendente de despacho do Ministro e efectivar-se-á por meio de contrato em que intervirá o director do S. R. P., quando não se tratar de funcionários públicos designados em comissão de serviço.
+
+Ministério das Corporações e Previdência Social, 28 de Janeiro de 1967. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

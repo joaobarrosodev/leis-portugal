@@ -1,0 +1,271 @@
+---
+schema_version: '1.0'
+id: pt:dre:428013:por
+title: Decreto-Lei n.º 365/76
+short_title: null
+summary: Transfere os albergues distritais de mendicidade para o Ministério dos Assuntos Sociais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Administração Interna e dos Assuntos Sociais
+proposing_entity: null
+official_number: 365/76
+official_date: null
+publication_date: '1976-05-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/1976, Série I de 1976-05-15
+  number: '114'
+  series: I
+  supplement: null
+  pages: 1092 - 1094
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/05/11400/10921094.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '428013'
+  dre_path: /dr/detalhe/decreto-lei/365-1976-428013
+  internal: pt:dre:428013:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1976-428013
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1976-428013
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:53:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a55f739bc6bc656d4e212bed130ec28cc4ce2c39f94d0cc2d8532f9335b62472
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:53:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Albergue de Mendicidade
+- Centro de Acolhimento
+- Coimbra
+- Comissão Liquidatária
+- Criação de Serviços
+- Definição de Competências
+- Fundo de Socorro Social
+- Gestão Administrativa
+- Gestão Financeira
+- Instituto da Família e Acção Social
+- Integração de Serviços
+- Junta Administrativa e de Desenvolvimento Regional da Madeira
+- Junta Administrativa e de Desenvolvimento Regional dos Açores
+- Lisboa
+- Ministério dos Assuntos Sociais
+- Porto
+- Receita Própria
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:391226:por
+  label: "Prorrogado por mais seis meses o prazo previsto na primeira parte do nº3 do art. 2º do presente diploma, pelo DEC\
+    \ LEI.938/76.31.12.1976.MAS, DR.IS [303-3ºSupl] de 31.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/938-1976-391226
+  date: '1976-12-31'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:182396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514458:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:328601:por
+  label: "Revogados os arts. 4º, 5º, 6º e 7º pelo DEC LEI.301/78.07.10.1978.MAS, DR.IS [231] de 07.10.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/301-1978-328601
+  date: '1978-10-07'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:53:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 365/76
+
+de 15 de Maio
+
+Considerando que o acolhimento de pessoas em situação de carência social é uma função que deve caber ao sector da segurança social;
+
+Considerando que na sequência desse acolhimento de emergência se tem de dar uma resposta adequada às causas que o motivaram através de serviços sociais específicos (equipamentos sociais de retaguarda e outros), cuja acção se enquadre numa óptica de recuperação;
+
+Considerando que os actuais albergues de mendicidade, além do acolhimento de emergência, tiveram de manter os albergados por falta de soluções, transformando-se em «depósitos» onde se encontram cerca de 3000 indivíduos, estimando-se em cerca de 70% os pertencentes ao foro psiquiátrico;
+
+Considerando que o problema da mendicidade é consequência do nível de desenvolvimento sócio-económico e cultural de uma comunidade e que na sua origem estão essencialmente causas de impossibilidade de angariar meios de sustento (por motivos de idade, de deficiências físicas ou sensoriais, de doença física ou mental e de desemprego) e outras de natureza psicológica (instabilidade e desvios de comportamento);
+
+Considerando que a resposta a dar ao problema da mendicidade assenta por um lado no desenvolvimento de medidas preventivas, estando estas logicamente ligadas às causas que o originam, e por outro na educação e consciencialização da população acerca do problema;
+
+Considerando que os actuais albergues não acolhem só casos de mendicidade, mas também outros resultantes de carência de natureza diferente, é proposta pelo presente decreto-lei, como orgânica que visa responder a esta problemática:
+
+A criação de uma rede de serviços de acolhimento e triagem que encaminharão os utentes para as soluções adequadas e onde a estada destes não pode ultrapassar três meses;
+
+A reconversão dos edifícios dos actuais albergues distritais de mendicidade em equipamento de retaguarda, de acordo com as necessidades locais ou regionais.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. Os albergues distritais de mendicidade serão integrados com todo o seu património no Ministério dos Assuntos Sociais, através do Instituto da Família e Acção Social, a partir do dia 1 do mês seguinte à data da publicação deste diploma.
+
+2. Os Albergues Distritais dos Açores e Madeira passarão a depender das respectivas Juntas Regionais.
+
+Art. 2.º - 1. Estes estabelecimentos manterão a sua autonomia administrativa e financeira.
+
+2. O Ministro dos Assuntos Sociais nomeará comissões liquidatárias de que farão parte representantes daquele Instituto, cujo mandato se inicia nos termos do n.º 1 do artigo 1.º, e às quais competirá:
+
+a) Exercer, durante o período da sua vigência, as funções das actuais comissões administrativas;
+
+b) Estudar e propor, de colaboração com os grupos distritais incumbidos de proceder à reconversão dos albergues distritais de mendicidade, o destino a dar a cada um deles, tendo em conta a criação de equipamento social integrado.
+
+3. As comissões liquidatárias deverão cessar as funções dentro de seis meses contados a partir da data da entrada em vigor deste diploma, salvo no que se refere ao Albergue da Mitra, cujo mandato não deverá exceder um ano.
+
+4. Findo o mandato da comissão liquidatária, o Ministro dos Assuntos Sociais declarará extinta a instituição e determinará, por despacho, os termos da reconversão dos referidos estabelecimentos e serviços, nomeadamente no que respeita aos utentes, pessoal, património e eventual aplicação do regime de instalação.
+
+Art. 3.º - 1. Os albergues de mendicidade e as entidades para as quais venha a reverter o seu património, nos termos dos artigos anteriores, manterão até ao fim do ano de 1976 as fontes de receita referidas no artigo 16.º do [Decreto-Lei n.º 36448](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36448-1947-182396), de 1 de Agosto de 1947.
+
+2. A receita a que se refere a alínea a) do artigo 5.º será destinada, a título provisório e durante o ano de 1976, a financiar os estabelecimentos que resultarem da extinção e reconversão do património dos albergues de mendicidade.
+
+Art. 4.º - 1. Em Lisboa, Porto e Coimbra serão criados, a título experimental, centros distritais de acolhimento, cujo funcionamento deverá ser regulamentado por despacho do Ministro dos Assuntos Sociais.
+
+2. Os centros distritais de acolhimento são estabelecimentos dependentes do Instituto da Família e Acção Social e dotados de personalidade jurídica e autonomia administrativa.
+
+3. Sempre que o movimento dos utentes o justifique, poderão ser criados, por portaria dos Ministros dos Assuntos Sociais e das Finanças, centros distritais de acolhimento em outros distritos além dos referidos no n.º 1.
+
+Art. 5.º - 1. Constituem receitas dos centros distritais de acolhimento:
+
+a) As dotações inscritas no Orçamento Geral do Estado;
+
+b) Os subsídios concedidos por entidades oficiais ou particulares;
+
+c) Quaisquer outras receitas que por disposições especiais lhes sejam atribuídas.
+
+2. Aos centros distritais de acolhimento será aplicado o regime de instalação, nos termos dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, a fixar por portaria do Ministro dos Assuntos Sociais.
+
+Art. 6.º Nos centros distritais de acolhimento de Lisboa e Porto, e sempre que o movimento o justifique, existirá uma secção que acolherá e encaminhará crianças e adolescentes até aos 16 anos.
+
+Art. 7.º A estada dos utentes dos Serviços de Acção Directa do Instituto da Família e Acção Social e nos centros distritais de acolhimento não poderá exceder, em caso algum, o prazo máximo de três meses.
+
+Art. 8.º - 1. Todos os serviços oficiais, especificamente os dependentes da Secretaria de Estado da Saúde, prestarão obrigatoriamente o apoio necessário aos Serviços de Acção Directa e centros distritais de acolhimento no desempenho das funções que lhes são cometidas por este diploma, nomeadamente no que se refere ao estabelecido na alínea b) do n.º 1 do artigo 12.º
+
+2. O estudo da situação social dos utentes será efectuado pelo pessoal técnico competente dos Serviços de Acção Directa e centros distritais de acolhimento.
+
+3. O encaminhamento dos utentes deverá ser baseado em parecer conjunto de técnicos de serviço social, de saúde mental, de clínica geral e de outros elementos que forem considerados necessários, de acordo com o disposto nos números anteriores.
+
+Art. 9.º Compete à Divisão de Acolhimento, Informação e Orientação do Instituto da Família e Acção Social, além das funções que lhe são atribuídas por lei:
+
+a) Prestar orientação técnica aos Serviços de Acção Directa e aos centros distritais de acolhimento no desempenho das funções que lhe são cometidas nos termos do artigo 1.º;
+
+b) Promover a criação de centros distritais de acolhimento, sempre que se revele necessário, nos termos do n.º 3 do artigo 4.º;
+
+c) Estabelecer, a nível central, os contactos necessários com o Ministério da Justiça, Ministério da Educação e Investigação Científica, Instituto de Assistência Psiquiátrica e todas as outras entidades ou instituições que possam colaborar na solução dos problemas que a nível distrital não possam ser resolvidos;
+
+d) Promover a preparação e aperfeiçoamento do pessoal necessário ao funcionamento dos Serviços de Acção Directa e centros distritais de acolhimento, por intermédio do departamento competente;
+
+e) Estudar e propor medidas que visem a prevenção e solução de situações de marginalidade;
+
+f) Manter actualizado o registo do movimento dos Serviços de Acção Directa e centros distritais de acolhimento no que respeita a funções que lhes são cometidas pelos artigos 12.º e 13.º
+
+Art. 10.º - 1. É criado o Conselho Consultivo de Acolhimento, que terá como membros:
+
+a) O chefe da Divisão de Acolhimento, Informação e Orientação do Instituto da Família e Acção Social;
+
+b) Um representante do Ministério da Administração Interna;
+
+c) Um representante do Ministério da Justiça;
+
+d) Um representante do Ministério da Educação e Investigação Científica;
+
+e) Um representante do Ministério do Trabalho;
+
+f) Um representante da Direcção-Geral dos Hospitais;
+
+g) Um representante do Instituto de Assistência Psiquiátrica.
+
+2. Poderão participar nas reuniões do Conselho outros serviços e entidades, para exame das questões que se relacionem com as suas funções.
+
+Art. 11.º São funções do Conselho Consultivo de Acolhimento:
+
+a) Estudar as medidas de cooperação das entidades que representem com a Divisão de Acolhimento, Informação e Orientação no exercício da competência que lhe é atribuída por este diploma;
+
+b) Dar parecer sobre quaisquer assuntos relativos ao acolhimento que lhe sejam apresentados pela Divisão de Acolhimento, Informação e Orientação;
+
+c) Estudar, propor e organizar, em colaboração com a Divisão de Acolhimento, Informação e Orientação, campanhas educativas e profilácticas que se relacionem com a prevenção e solução de situações de marginalidade.
+
+Art. 12.º - 1. Ao Instituto da Família e Acção Social, por intermédio dos Serviços de Acção Directa distritais, são cometidas as seguintes funções, além da competência que lhe é atribuída pela legislação em vigor:
+
+a) Acolher todas as pessoas que, por razões de ordem social e/ou de saúde (física ou psíquica), solicitem apoio urgente e se apresentem por si próprias ou acompanhadas pelas autoridades administrativas ou policiais;
+
+b) Proceder a uma triagem das pessoas a que se refere a alínea anterior que implique um rastreio de saúde (física ou psíquica) e a detecção das causas sociais que motivaram a sua apresentação e encaminhá-las para as soluções adequadas após conclusão do estudo das mesmas;
+
+c) Proceder ao registo de todo o movimento.
+
+2. A partir do início do mês seguinte ao da publicação deste diploma é extinto o Serviço de Repressão à Mendicidade, criado pelo [Decreto-Lei n.º 43280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43280-1960-514458), de 29 de Outubro de 1960, transitando para o Instituto da Família e Acção Social o saldo existente, bem como os assuntos pendentes e arquivo.
+
+Art. 13.º Para os efeitos do n.º 1 do artigo anterior, o Instituto da Família e Acção Social celebrará acordos em cada distrito com os estabelecimentos oficiais de assistência ou instituições particulares de assistência, visando um ajustamento das instalações ao desempenho das funções.
+
+Art. 14.º Passam a constituir receitas do Instituto da Família e Acção Social exclusivamente destinadas a financiar as actividades e estabelecimentos a que se refere o presente decreto-lei, sem prejuízo do disposto no artigo 15.º:
+
+a) O produto do adicional cobrado com todas as multas aplicadas por transgressão ou contravenção dos sistemas ou regulamentos policiais a que se refere o n.º 6 do artigo 16.º do [Decreto-Lei n.º 36448](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36448-1947-182396), de 1 de Agosto de 1947;
+
+b) As receitas do Fundo de Socorro Social que vêm sendo atribuídas ao Serviço de Repressão à Mendicidade.
+
+Art. 15.º O pessoal da Polícia de Segurança Pública que presta serviço nos albergues de mendicidade será substituído gradualmente por pessoal do Ministério dos Assuntos Sociais até ao prazo máximo de seis meses após a entrada em vigor deste diploma.
+
+Art. 16.º São revogados pelo presente decreto-lei os Decretos-Leis n.os 30389, de 20 de Abril de 1940, 36448, de 1 de Agosto de 1947, e 43280, de 29 de Outubro de 1960, com efeitos a partir do início do mês seguinte ao da publicação do presente diploma.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - João de Deus Pinheiro Farinha - Vítor Manuel Rodrigues Alves - João Pedro Tomás Rosa - Rui Manuel Parente Chancerelle de Machete.
+
+Promulgado em 7 de Maio de 1976.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

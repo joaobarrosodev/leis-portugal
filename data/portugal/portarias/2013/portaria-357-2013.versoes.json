@@ -1,0 +1,769 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:484140:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-71047575",
+ "dre_path": "/dr/detalhe/portaria/357-2013-484140",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "180030449",
+    "71047676",
+    "71047677",
+    "71047678",
+    "71047679",
+    "71047680",
+    "71047681",
+    "71047682",
+    "71047683",
+    "71047684",
+    "71047685",
+    "71047686",
+    "71047687",
+    "71047688",
+    "71047689",
+    "71047690",
+    "71047691",
+    "71047692",
+    "71047693",
+    "71047694",
+    "71047695",
+    "71047696",
+    "71047697",
+    "71047698",
+    "71047699",
+    "71047700",
+    "71047701"
+   ]
+  },
+  {
+   "date": "2014-03-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571899:por",
+     "title": "Portaria n.º 67/2014",
+     "published": "2014-03-12",
+     "dre_path": "/dr/detalhe/portaria/67-2014-571899"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 15.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "71047675",
+    "71047676",
+    "71047677",
+    "71047678",
+    "71047679",
+    "71047680",
+    "71047681",
+    "71051881",
+    "71051886",
+    "71047684",
+    "71047685",
+    "71051883",
+    "71047687",
+    "71047688",
+    "71047689",
+    "71051884",
+    "71047691",
+    "71047692",
+    "71047693",
+    "71047694",
+    "71047695",
+    "71047696",
+    "71047697",
+    "71047698",
+    "71047699",
+    "71051885",
+    "71047701"
+   ]
+  },
+  {
+   "date": "2015-07-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69866575:por",
+     "title": "Portaria n.º 219/2015",
+     "published": "2015-07-23",
+     "dre_path": "/dr/detalhe/portaria/219-2015-69866575"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "71047675",
+    "71047676",
+    "71047677",
+    "71047678",
+    "71047679",
+    "71047680",
+    "71051893",
+    "71051881",
+    "71051894",
+    "71047684",
+    "71051895",
+    "71051883",
+    "71047687",
+    "71051896",
+    "71047689",
+    "71051884",
+    "71047691",
+    "71047692",
+    "71047693",
+    "71047694",
+    "71047695",
+    "71047696",
+    "71047697",
+    "71047698",
+    "71047699",
+    "71051885",
+    "71047701"
+   ]
+  },
+  {
+   "date": "2016-12-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105371772:por",
+     "title": "Portaria n.º 320/2016",
+     "published": "2016-12-16",
+     "dre_path": "/dr/detalhe/portaria/320-2016-105371772"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "180030449",
+    "180030450",
+    "180030451",
+    "180030452",
+    "180030453",
+    "180030454",
+    "180030455",
+    "180030456",
+    "180030457",
+    "180030458",
+    "180030459",
+    "180030460",
+    "180030461",
+    "180030462",
+    "180030463",
+    "180030464",
+    "180030465",
+    "180030466",
+    "180030467",
+    "180030468",
+    "180030469",
+    "180030470",
+    "180030471",
+    "180030472",
+    "180030473",
+    "180030474",
+    "180032775"
+   ]
+  }
+ ],
+ "fragments": {
+  "180030449": {
+   "fragment_id": "71047576",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2016-12-17",
+   "changed_by": [],
+   "markdown": "Portaria n.º 357/2013\n\nde 10 de dezembro\n\nO acordo alcançado na reforma da Política Agrícola Comum para o período de 2014-2018, confirmou a continuidade do regime de apoio à competitividade do sector vitivinícola nacional e do respetivo envelope financeiro atribuído a Portugal.\n\nConcluída a negociação que procedeu à revisão do regime de apoio à reestruturação e reconversão das vinhas estabelecido no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de outubro, e no Regulamento n.º 555/2008, da Comissão, de 27 de junho, com as alterações entretanto introduzidas os normativos nacionais a este novo quadro comunitário para efeitos da operacionalização desta medida, a qual constitui um dos instrumentos privilegiados de melhoria da competitividade do sector e da qualidade dos seus produtos.\n\nConsiderando a recetividade que esta medida tem encontrado junto do sector, considera-se oportuno promover um conjunto de alterações destinadas a precisar determinados conceitos, tornando, com isso, o regime mais claro, bem como, efetuar ajustamentos ao atual quadro legal desta medida, para simplificar os procedimentos administrativos, as formas e níveis de ajuda e todos os aspetos inerentes à sua implementação e execução.\n\nAproveita-se ainda a oportunidade, tendo em conta os resultados e experiência obtidos nas campanhas já decorridas, para introduzir melhorias no regime nacional vigente, de modo a permitir um resultado mais eficiente, quer para os viticultores, quer para os organismos envolvidos nesta medida de ajuda à reestruturação e reconversão da vinha.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 83/97, de 9 de abril, o seguinte:"
+  },
+  "71047676": {
+   "fragment_id": "71047577",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece, para o continente, no âmbito do programa nacional, as normas complementares de execução do regime de apoio à reestruturação e reconversão das vinhas (VITIS), para o período 2014-2018, previsto no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de outubro.\n\n2 - O Instituto da Vinha e do Vinho, I. P. (IVV, I.P.) e o Instituto de Financiamento da Agricultura e Pescas, I P. (IFAP, I.P.) estabelecem as normas complementares, de caráter técnico e específico, de aplicação da presente portaria, as quais constituem um manual, publicitado nos sítios da internet do IVV, I.P. e do IFAP, I.P."
+  },
+  "71047677": {
+   "fragment_id": "71047578",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da aplicação da presente portaria, entende-se por:\n\na) «Área de vinha», área do terreno ocupado com vinha, expressa em hectares, arredondada a quatro casas decimais, obtida por medição, em projeção horizontal, do contorno da parcela delimitada pelo perímetro exterior das videiras, ampliada com uma faixa tampão de largura igual a metade da distância entre as linhas, até ao limite do terreno, sendo que caso existam árvores em bordadura e sempre que as mesmas se situem na faixa tampão, não é descontada, à área da vinha, a área ocupada pelas árvores;\n\nb) «Parcelas contíguas», parcelas que têm estremas comuns/confinantes ou que se encontram separadas por taludes, cabeceiras, valas de drenagem ou linhas de água, caminhos e estradas;\n\nc) «Vinha estreme», a parcela de vinha com um número de árvores dispersas, no seu interior, inferior ou igual a 40 por hectare;\n\nd) «Renovação normal das vinhas que chegam ao fim do seu ciclo de vida natural» a replantação da mesma parcela de terra com a mesma casta, no mesmo sistema de viticultura;\n\ne) «Instalação da vinha», que compreende o arranque da vinha a reestruturar, a preparação do terreno, podendo incluir a alteração do perfil do terreno e melhoria das infraestruturas fundiárias, a colocação do material vegetativo no terreno, quer se trate de enxertos prontos, quer de porta-enxertos e respetiva enxertia, ou em situações especiais autorizadas pelo IVV, I.P., após parecer da Direção Regional de Agricultura e Pescas (DRAP) territorialmente competente, de garfos e instalação do sistema de suporte;\n\nf) «Sobreenxertia» é uma nova operação de enxertia, realizada numa planta enxertada, isto é, sobre o garfo, com o objetivo de alterar a variedade;\n\ng) «Reenxertia» é uma nova operação de enxertia, realizada sobre o porta-enxerto, com o objetivo de alterar a variedade;\n\nh) «Plantações ilegais» as plantações realizadas sem um direito de plantação correspondente."
+  },
+  "71047678": {
+   "fragment_id": "71047579",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - O regime de apoio à reestruturação e reconversão das vinhas é aplicável:\n\na) Às parcelas de vinha que observem as disposições do Decreto-Lei n.º 83/97, de 9 de abril, cuja categoria de utilização seja a produção de uvas para vinho e que após aplicação do regime de apoio satisfaçam as condições de produção de vinho com denominação de origem (DOP) e vinho com indicação geográfica (IGP);\n\nb) Aos direitos de replantação;\n\nc) Aos direitos de replantação obtidos por transferência:\n\ni) A exercer pelo adquirente ou pelo titular de um direito de exploração sobre a parcela de destino dos direitos;\n\nii) A exercer pela entidade promotora de candidaturas conjuntas, nos termos da alínea b), subalínea ii), do n.º 1 do artigo 6.º\n\nd) Aos direitos de plantação atribuídos a partir da reserva do território do continente, a exercer pelos titulares.\n\n2 - O regime de apoio abrange:\n\na) A reconversão varietal efetuada:\n\ni) Por replantação;\n\nii) Por sobreenxertia ou por reenxertia, constituindo parcelas/talhões estremes.\n\nb) A relocalização de vinhas, efetuada por replantação noutro local;\n\nc) A melhoria das técnicas de gestão da vinha, efetuada através da:\n\ni) Alteração do sistema de viticultura que compreende a sistematização do terreno e o sistema de condução;\n\nii) Melhoria das infraestruturas fundiárias que compreende a drenagem de águas superficiais e a reconstrução e construção de muros de suporte.\n\n3 - O regime de apoio não abrange:\n\na) A renovação normal das vinhas que cheguem ao fim do seu ciclo de vida natural;\n\nb) A gestão corrente da vinha;\n\nc) A proteção contra danos causados por caça, aves ou granizo;\n\nd) A construção de quebra-ventos e de muros de proteção contra o vento;\n\ne) As vias de acesso e elevadores;\n\nf) As vinhas com idade inferior a 10 anos, exceto em situações excecionais devidamente fundamentadas e autorizadas pelo IVV, I.P.;\n\ng) As explorações que detenham plantações ilegais pertencentes, quer ao candidato, quer ao titular dos direitos usados na candidatura."
+  },
+  "71047679": {
+   "fragment_id": "71047580",
+   "type": 11,
+   "heading": "Artigo 4.º — Medidas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Medidas específicas\n\nO regime de apoio previsto no artigo anterior é concretizado através das seguintes medidas específicas:\n\na) Instalação da vinha que é constituída pelas ações:\n\ni) «Arranque da vinha a reestruturar», que compreende as operações de arranque e remoção das videiras e do sistema de suporte;\n\nii) «Plantação da vinha», que compreende a preparação do terreno, podendo incluir a alteração do perfil do terreno, a colocação do material vegetativo no terreno, quer se trate de enxertos prontos, quer de porta-enxertos e respetiva enxertia, quer de garfos e instalação do sistema de suporte;\n\niii) «Melhoria das infraestruturas fundiárias», que apenas é elegível quando realizada cumulativamente com a ação «Plantação da vinha».\n\nb) Sobreenxertia ou reenxertia, que compreende as ações relativas a cada uma destas operações."
+  },
+  "71047680": {
+   "fragment_id": "71047581",
+   "type": 11,
+   "heading": "Artigo 5.º — Superfícies abrangidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Superfícies abrangidas\n\n1 - O regime de apoio é aplicável às áreas cujos limites estão definidos no anexo I à presente portaria, da qual faz parte integrante, desde que observadas as seguintes condições:\n\na) As parcelas de vinha, após reestruturação, devem ser estremes;\n\nb) O material de propagação vegetativa, das categorias base, certificado e standard, deve respeitar o estabelecido no Decreto-Lei n.º 194/2006, de 27 setembro, relativo à produção, controlo, certificação e comercialização de materiais de propagação vegetativa da videira.\n\n2 - Em situações excecionais devidamente fundamentadas e autorizadas pelo IVV, I.P., pode ser utilizado material vegetativo não classificado nos termos da alínea b) do número anterior, desde que proveniente de variedades autóctones.\n\n3 - As candidaturas apresentadas pelas entidades a que se refere a subalínea ii) e as candidaturas agrupadas referidas na subalínea iii), ambas da alínea b), do n.º 1, do artigo 6.º, não ficam sujeitas aos limites de área das parcelas definidos no anexo I."
+  },
+  "71047681": {
+   "fragment_id": "71047582",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Candidatos\n\n1 - A apresentação dos pedidos de apoio pode revestir a forma de candidatura individual ou conjunta, nos termos seguintes:\n\na) Candidatura individual, candidatura apresentada por qualquer pessoa, singular ou coletiva, adiante designada por viticultor, que exerça ou venha a exercer a atividade vitícola, desde que:\n\ni) Seja proprietária da parcela a plantar com vinha ou detentora de um título válido que confira o direito à sua exploração, até ao termo do período previsto no n.º 1 do artigo 19.º, devendo a comprovação da posse da terra ser efetuada no momento da submissão da declaração de plantação no Sistema de Informação da Vinha e do Vinho (SIVV), previamente à apresentação do pedido de pagamento.\n\nii) Declare respeitar as disposições de incidência ambiental previstas na legislação em vigor, no que se refere a áreas protegidas, Rede Natura e despacho conjunto n.º 473/2004, de 30 de julho, relativo à movimentação de terras no Alto Douro Vinhateiro.\n\nb) Candidaturas conjuntas, candidaturas apresentadas por uma pluralidade de viticultores, quer sejam pessoas singulares ou coletivas, de comum acordo, e que integrem um dos seguintes tipos:\n\ni) Grupo de três ou mais viticultores, cujos projetos de investimento envolvem parcelas contíguas, desde que a área mínima de cada uma das parcelas de cada viticultor respeite os limites definidos no anexo I, não devendo cada viticultor deter mais de 50% da área total a reestruturar;\n\nii) Entidades promotoras de projetos de emparcelamento, no âmbito do Decreto-Lei n.º 103/90, de 22 de março, em representação dos viticultores;\n\niii) Agrupada, apresentada por três ou mais viticultores, podendo as parcelas ser contíguas ou não, independentemente da área de cada uma delas, desde que o total da área a reestruturar seja igual ou superior a 20 ha e os candidatos forneçam a sua produção a uma estrutura associativa ou empresa comercial, que a vinifique e que se constitua como representante das respetivas candidaturas, sem prejuízo das regras aplicáveis aos produtos com DOP ou IGP.\n\n2 - Os candidatos que apresentem candidaturas conjuntas devem respeitar o estabelecido nas subalíneas i) e ii) da alínea a) do n.º 1."
+  },
+  "71047682": {
+   "fragment_id": "71047583",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma e nível de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Forma e nível de apoio\n\n1 - O regime de apoio abrange:\n\na) A concessão de uma comparticipação financeira para os investimentos realizados, através do pagamento de uma ajuda, de acordo com os valores constantes dos anexos II e III à presente portaria, da qual faz parte integrante;\n\nb) Uma compensação pela perda de receita inerente à reestruturação e reconversão.\n\n2 - A compensação pela perda de receita é aplicável nos casos de replantação de vinhas instaladas ou de sobreenxertia ou reenxertia, podendo assumir uma das seguintes formas:\n\na) Nos casos de replantação de vinhas instaladas:\n\ni) Manutenção da vinha velha durante três campanhas subsequentes àquela em que foi plantada a vinha nova; ou\n\nii) Compensação financeira, no valor de (euro) 1 500/ha, paga após a confirmação de arranque pela DRAP territorialmente competente;\n\nb) Nos casos de sobreenxertia ou reenxertia, uma compensação financeira, no valor de (euro) 1 000/ha, paga após a apresentação do pedido de pagamento da execução da medida.\n\n3 - Nos termos do n.º 2 do artigo 63.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, de 27 de junho, a opção pela manutenção da vinha velha, referida na subalínea i) da alínea c) do número anterior, exige a prestação de uma garantia, com prazo de 5 anos após a apresentação do pedido, a favor do IVV, I.P., no valor de (euro) 1 500/ha.\n\n4 - A garantia a que se refere o número anterior é liberada, ao viticultor, no prazo máximo de 45 dias após a comunicação do arranque da vinha velha à DRAP territorialmente competente."
+  },
+  "71047683": {
+   "fragment_id": "71047584",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Elegibilidade\n\n1 - São elegíveis os investimentos iniciados 20 dias após o termo do prazo de submissão das candidaturas, salvo em situações devidamente autorizadas pelo IVV, I.P., nos termos a definir no manual a que se refere o n.º 2 do artigo 1.º\n\n2 - O disposto no número anterior não se aplica às candidaturas apresentadas ao abrigo da Portaria n.º 74/2012, de 15 de fevereiro, com a redação dada pela Portaria n.º 135/2013, de 28 de março, considerando-se, neste caso, elegíveis os investimentos iniciados a partir da data de apresentação das candidaturas.\n\n3 - A opção pela compensação financeira nos termos do artigo anterior exige o arranque da vinha velha antes do início da colocação do material vegetativo no terreno, quer se trate de enxertos prontos, quer de porta-enxertos e respetiva enxertia, ou garfos, desde que o arranque tenha ocorrido a partir de 1 de janeiro de 2013.\n\n> Nota: [Artigo 3.º, Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899) O n.º 3 do artigo 8.º fica revogado a partir da campanha vitivinícola de 2014-2015."
+  },
+  "71047684": {
+   "fragment_id": "71047585",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamentos\n\n1 - A ajuda é paga direta e integralmente aos viticultores, tanto nas candidaturas individuais como nas candidaturas conjuntas, em função:\n\na) Das medidas específicas incluídas na candidatura;\n\nb) Dos valores unitários fixados nos anexos II e III, da presente portaria;\n\nc) Da área de vinha reestruturada desde que suportada pelos correspondentes direitos de plantação definitivos.\n\n2 - No caso da ação «Melhoria das infraestruturas fundiárias» e «alteração do perfil do terreno», o pagamento depende de parecer qualitativo emitido pela DRAP territorialmente competente."
+  },
+  "71047685": {
+   "fragment_id": "71047586",
+   "type": 11,
+   "heading": "Artigo 10.º — Submissão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Submissão das candidaturas\n\n1 - A abertura das candidaturas ocorre anualmente entre 15 de novembro e 15 de janeiro, através de aviso de abertura que estabelece o prazo durante o qual as candidaturas podem ser submetidas, que não pode ser inferior a 30 dias.\n\n2 - O IVV, I.P., após consulta ao IFAP, I.P., publicita nos sítios da internet do IVV, I.P., e do IFAP, I.P., o aviso de abertura para a submissão de candidaturas, do qual deve constar o modo de submissão e o respetivo prazo de decisão.\n\n3 - Sempre que circunstâncias especiais devidamente fundamentadas o determinem, o prazo de submissão das candidaturas e o prazo de decisão podem ser prorrogados pelo IVV, I.P., após consulta ao IFAP, I.P., sendo a prorrogação publicitada nos sítios da internet do IVV, I.P., e do IFAP, I.P.\n\n4 - Caso se venha a verificar a necessidade de aplicação de critérios de prioridade na aprovação das candidaturas, os mesmos serão estabelecidos no aviso de abertura de candidaturas a publicitar nos sítios da internet do IVV, I.P. e do IFAP, I.P."
+  },
+  "71047686": {
+   "fragment_id": "71047587",
+   "type": 11,
+   "heading": "Artigo 11.º — Alterações das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alterações das candidaturas\n\n1 - Podem ser submetidos pedidos de alteração às candidaturas até ao termo do período referido no n.º 2 do artigo anterior, os quais seguem os procedimentos previstos para a submissão e decisão das candidaturas.\n\n2 - Salvo casos excecionais devidamente fundamentados e comprovados, os pedidos de alteração às candidaturas aprovadas só podem ser submetidos até à data de apresentação do pedido de pagamento nos prazos previstos no artigo 13.º, não podendo, em qualquer caso, implicar um aumento do valor do apoio atribuído.\n\n3 - Nos pedidos de alteração submetidos nos termos dos números anteriores devem ainda ser consideradas as seguintes especificidades:\n\na) No caso de transmissão da titularidade, os transmissários devem reunir as condições para serem beneficiários, manter os pressupostos de aprovação da candidatura individual ou conjunta, e assumir os compromissos e as obrigações do beneficiário transmitente;\n\nb) No caso de um ou mais proponentes de uma candidatura agrupada ser excluído ou desistir ou apresentar um pedido de alteração da área, antes da apresentação do pedido de pagamento, a referida candidatura pode ser reformulada, desde que os restantes proponentes mantenham as condições mínimas de admissibilidade da candidatura agrupada, podendo para tal, excecionalmente, aqueles que ainda não tenham apresentado o pedido de pagamento, repor a área em falta."
+  },
+  "71047687": {
+   "fragment_id": "71047588",
+   "type": 11,
+   "heading": "Artigo 12.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Decisão\n\nA decisão de aprovação ou de rejeição da candidatura é comunicada aos candidatos, preferencialmente, através dos respetivos endereços eletrónicos inscritos no sistema de informação do IFAP, I.P., ou através do seu sítio da internet, na respetiva área reservada."
+  },
+  "71047688": {
+   "fragment_id": "71047589",
+   "type": 11,
+   "heading": "Artigo 13.º — Execução das medidas e apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Execução das medidas e apresentação dos pedidos de pagamento\n\n1 - As candidaturas aprovadas em cada campanha vitivinícola devem:\n\na) Encontrar-se integralmente executadas até 30 de junho da campanha seguinte à da apresentação da candidatura e ser objeto dos correspondentes pedidos de pagamento das ajudas e da compensação financeira por perda de receita, sendo o caso, até àquela data, ou;\n\nb) Ser objeto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas até 30 de junho da campanha seguinte à da apresentação da candidatura, mediante a prestação de uma garantia a favor do IFAP, I.P., de montante igual a 110% do valor das ajudas previstas, devendo as medidas específicas em causa encontrarem-se integralmente executadas até ao termo da segunda campanha vitivinícola após o pagamento do adiantamento.\n\n2 - No caso das candidaturas conjuntas, aos prazos de execução referidos nas alíneas a) e b) do número anterior acresce o período de uma campanha, com exceção das candidaturas referidas na subalínea ii) da alínea b) do artigo 6.º, a que acresce o período de duas campanhas, mas em qualquer caso, o prazo para apresentação do pedido de pagamento antecipado das ajudas é o referido na alínea b) do número anterior.\n\n3 - O prazo de apresentação dos pedidos de pagamento previstos nos números anteriores, não pode, em nenhum caso, ultrapassar 30 de junho de 2018.\n\n4 - Caso se verifique a impossibilidade de realização da plantação por motivos de profilaxia sanitária ou intempéries na parcela a reestruturar, mediante confirmação oficial da DRAP territorialmente competente, ao prazo de execução previsto na alínea b) do n.º 1, acresce o período de uma campanha.\n\n5 - Após a apresentação do pedido de pagamento, as ajudas relativas às candidaturas aprovadas são pagas aos viticultores, em cada ano, nas seguintes condições:\n\na) Depois de verificada a execução das medidas específicas; ou\n\nb) Após o início da execução da medida específica, mediante a prestação de uma garantia, nos termos da alínea b) do n.º 1, a qual é liberada no prazo máximo de 45 dias após a comunicação da conclusão da medida específica, desde que se verifique estar totalmente executada."
+  },
+  "71047689": {
+   "fragment_id": "71047590",
+   "type": 11,
+   "heading": "Artigo 14.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Controlo\n\n1 - As verificações são efetuadas por meio de controlos administrativos e de controlos no local.\n\n2 - Os controlos administrativos são sistemáticos e incluem o cruzamento de informações, nomeadamente com dados do cadastro vitícola informatizado, do SIVV e do sistema integrado de gestão e de controlo.\n\n3 - O controlo no local antes da execução das operações pode limitar-se a 5 % dos pedidos, para confirmar a fiabilidade do sistema de controlo administrativo.\n\n4 - Após a execução das operações de reestruturação e reconversão de vinhas, os controlos no local ocorrem sistematicamente."
+  },
+  "71047690": {
+   "fragment_id": "71047591",
+   "type": 11,
+   "heading": "Artigo 15.º — Incumprimento das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Incumprimento das candidaturas\n\n1 - Sem prejuízo do disposto no n.º 4, aos viticultores que não cumpram os requisitos fixados no artigo 13.º não lhes é reconhecido o direito a qualquer ajuda nem compensação financeira, ficando os que beneficiaram de um pagamento antecipado das ajudas sujeitos à execução da garantia prestada, e os que auferiram compensação financeira obrigados à sua restituição, caso os projetos não se encontrem executados nos prazos estabelecidos.\n\n2 - Se o viticultor renunciar à antecipação do pagamento das medidas específicas, no prazo de três meses após a apresentação do pedido, deve restituir o valor da compensação financeira, se recebida, e a garantia prestada é liberada em 95% do seu montante, e em 85% do seu montante caso aquele prazo seja ultrapassado.\n\n3 - Se o viticultor renunciar à execução das medidas específicas após o pagamento da ajuda, fica obrigado a restituir o valor da compensação financeira e reembolsar o pagamento antecipado das ajudas, sendo a garantia liberada em 90% do seu montante, ou em 80%, caso a renúncia ocorra após o prazo de três meses depois do pagamento.\n\n4 - Sempre que, no âmbito do controlo, se constatar que:\n\na) A medida específica constante do pedido de ajuda não se encontra totalmente executada dentro do prazo previsto, a ajuda será paga em função do que foi efetivamente executado, desde que cumpridas as áreas mínimas previstas no anexo I;\n\nb) A medida específica constante do pedido de ajuda e objeto de pagamento antecipado não se encontra totalmente executada, dentro do prazo previsto:\n\ni) É devolvido o montante da ajuda recebida e não executada, desde que cumpridas as áreas mínimas previstas no anexo I;\n\nii) Quando a área executada for inferior em mais de 6% e 0,5 ha em relação à área aprovada, ao montante previsto na subalínea anterior acresce uma penalização de 5% sobre o montante total das ajudas para as medidas específicas em causa, a qual pode ser executada através da garantia.\n\n5 - Nos casos referidos nas alíneas a) e b) em que se verifique que a execução foi inferior a 80% da área objeto de candidatura, por causa imputável ao viticultor, este não poderá candidatar-se nas duas campanhas seguintes à campanha de apresentação do pedido de pagamento, ou, no caso de pagamentos antecipados, à comunicação da execução do investimento.\n\n6 - Nos casos de força maior ou em situações excecionais, na aceção do artigo 31.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0073\" title=\"Link para Regulamento da Comunidade Europeia\">73/2009</a>, do Conselho, de 19 de janeiro, não se aplica o disposto na alínea b) do n.º 4.\n\n7 - O disposto no n.º 4 é aplicável à compensação financeira por perda de receita, havendo lugar à sua recuperação em função da área que foi efetivamente executada, ou caso a referida compensação ainda não tenha sido paga, ao respetivo recálculo.\n\n8 - As candidaturas cujos investimentos foram executados e que por limitação orçamental não possam ser pagas no exercício financeiro em causa serão pagas no exercício financeiro seguinte.\n\n9 - No caso de candidaturas conjuntas, aplicam-se as regras referidas nos números anteriores por viticultor, e se a superfície efetivamente reestruturada for inferior a 80% da totalidade da área aprovada nessa candidatura, o apoio de 10% referido nos n.os 2.2 dos anexos II e III é retirado a todos os viticultores dessa candidatura, independentemente do facto de a inexecução se verificar apenas em relação a um deles.\n\n10 - No caso de incumprimento dos requisitos legais de gestão e das boas condições agrícolas e ambientais a que se refere o n.º 4 do artigo 19.º, verificado até três anos após o pagamento do apoio, e que resulte de um ato ou omissão diretamente imputável ao beneficiário, o montante do pagamento é reduzido ou cancelado, parcial ou totalmente, em função da gravidade, extensão, permanência e reiteração do incumprimento."
+  },
+  "71047691": {
+   "fragment_id": "71047592",
+   "type": 11,
+   "heading": "Artigo 16.º — Recuperação de pagamentos indevidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Recuperação de pagamentos indevidos\n\n1 - O beneficiário fica obrigado a devolver os montantes considerados como indevidamente recebidos e a proceder ao pagamento das penalizações aplicadas, nos termos do artigo anterior e da regulamentação comunitária aplicável.\n\n2 - Os montantes indevidamente recebidos e o valor das penalizações aplicadas são restituídos e pagos ao IFAP, I.P., no prazo de 30 dias contados da notificação para o efeito, findo o qual são devidos juros de mora sobre os montantes em dívida.\n\n3 - A restituição e o pagamento referido no número anterior podem ser efetuados por execução da garantia constituída no âmbito do adiantamento do apoio, por compensação com quaisquer ajudas a que o beneficiário tenha direito a receber do IFAP, I.P., e/ou por pagamento voluntário ou coercivo."
+  },
+  "71047692": {
+   "fragment_id": "71047593",
+   "type": 11,
+   "heading": "Artigo 17.º — Isenção de apresentação de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Isenção de apresentação de garantias\n\n1 - Os candidatos ficam isentos de apresentação da garantia a que se refere o n.º 3 do artigo 7.º sempre que o seu montante seja inferior a (euro) 500.\n\n2 - Na situação prevista no número anterior, o interessado compromete-se, por escrito, a pagar um montante equivalente ao que lhe seria exigido se tivesse constituído uma garantia e se, consequentemente, esta tivesse sido declarada adquirida total ou parcialmente."
+  },
+  "71047693": {
+   "fragment_id": "71047594",
+   "type": 11,
+   "heading": "Artigo 18.º — Formas de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Formas de garantias\n\n1 - As garantias a prestar, nos termos do n.º 3 do artigo 7.º, podem assumir as formas de:\n\na) Garantia bancária ou seguro-caução prestados por entidade que se encontre inscrita no registo especial do Banco de Portugal ou na lista das instituições habilitadas a prestar serviços no país, publicada por aquele banco, nos termos dos artigos 65.º, 67.º e 68.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, republicado pelo Decreto-Lei n.º 1/2008, de 3 de janeiro, alterado pelo Decreto-Lei n.º 63-A/2013, de 10 de maio;\n\nb) Depósito em dinheiro, efetuado por transferência bancária ou através de cheque visado, de acordo com os artigos 12.º e 13.º do Regulamento de Execução (UE) n.º <a href=\"eurlex.asp?ano=2012&id=312R0282\" title=\"Link para Regulamento da Comunidade Europeia\">282/2012</a>, da Comissão, de 28 de março;\n\nc) Fundos bloqueados num banco, correspondentes a depósitos caução.\n\n2 - Considera-se equivalente às garantias referidas no número anterior o compromisso escrito das autoridades públicas candidatas à ajuda, no qual estas se comprometem a pagar o montante devido no caso de não ter sido comprovado o direito ao adiantamento.\n\n3 - As condições de prestação das garantias a que se refere a alínea b) do n.º 1 do artigo 13.º, encontram-se definidas no sítio da internet do IFAP, I.P."
+  },
+  "71047694": {
+   "fragment_id": "71047595",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Obrigações\n\n1 - A parcela de vinha que tenha sido objeto de pagamento de ajudas no âmbito do regime de apoio deve ser mantida em exploração normal, pelo prazo mínimo de cinco anos, após a campanha da plantação, exceto se for objeto de expropriação por utilidade pública ou de arranque de profilaxia sanitária oficialmente confirmado.\n\n2 - O beneficiário não pode receber quaisquer outros apoios públicos para as ações e operações apoiadas ao abrigo do regime de apoio previsto na presente portaria.\n\n3 - Os beneficiários estão obrigados a respeitar as regras da condicionalidade, as quais envolvem cumulativamente:\n\na) O cumprimento dos requisitos legais de gestão aplicáveis à exploração, constantes do aviso publicado anualmente no Diário da República;\n\nb) A adoção de boas condições agrícolas e ambientais a que se refere o anexo II do Despacho Normativo n.º 7/2005, alterado e republicado pelo Despacho Normativo n.º 4/2012, de 2 de abril.\n\n4 - No caso de candidaturas agrupadas, previstas na subalínea iii) da alínea b) do n.º 1 do artigo 6.º, os candidatos ficam obrigados a proceder à entrega da sua produção a uma estrutura associativa ou empresa comercial, representante da agrupada, pelo prazo mínimo de cinco anos após a campanha de plantação.\n\n5 - Em caso de não cumprimento do disposto no número anterior por parte de algum viticultor fica o mesmo obrigado a devolver, por campanha em incumprimento, um terço do valor acrescido nos termos dos n.os 2.2 dos anexos II e III à presente portaria.\n\n6 - O disposto no número anterior aplica-se aos beneficiários que, a partir da data da entrada em vigor da presente portaria, não procedam à entrega da sua produção a uma estrutura associativa ou empresa comercial, representante da agrupada, nos termos definidos do n.º 4.\n\n7 - O beneficiário fica sujeito ao cumprimento das regras comunitárias e nacionais aplicáveis ao presente regime de apoio e a manter as condições de admissibilidade e de aprovação da candidatura."
+  },
+  "71047695": {
+   "fragment_id": "71047596",
+   "type": 11,
+   "heading": "Artigo 20.º — Entidades intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entidades intervenientes\n\n1 - São entidades intervenientes no procedimento do regime de apoio, o IVV, I. P., que exerce as funções de entidade de gestão, o IFAP, I. P., que exerce funções de organismo pagador e as DRAP, que exercem as funções de entidades de controlo.\n\n2 - Compete ao IVV, I. P.:\n\na) Elaborar a regulamentação relativa à aplicação do regime de apoio;\n\nb) Proceder à abertura e respetivo aviso para apresentação de candidaturas;\n\nc) Coordenar e monitorizar a execução das atividades relacionadas com o regime de apoio;\n\nd) Promover a divulgação genérica do regime de apoio;\n\ne) Autorizar situações excecionais previstas no regime de apoio relativas a medidas específicas;\n\nf) Controlar o cumprimento do disposto no n.º 5 do artigo 19.º;\n\ng) Definir, em colaboração com o IFAP, I.P., os requisitos do sistema de informação que suporta o VITIS, no que se refere à produção de informação necessária ao acompanhamento da execução e à avaliação, de acordo com modelos padronizados, calendários, especificações técnicas e níveis de acesso previamente definidos;\n\nh) Colaborar com o IFAP, I.P., na definição dos procedimentos relativos à submissão e controlo da medida;\n\ni) Acompanhar as missões comunitárias de controlo realizadas ao organismo pagador;\n\nj) Assegurar a interlocução com as instâncias comunitárias, no Comité de Gestão e Grupo Conselho, no âmbito da Organização Comum dos Mercados Agrícolas;\n\nk) Remeter à Comissão os elementos a que se refere o artigo 35.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho.\n\n3 - Compete ao IFAP, I.P.:\n\na) Participar na divulgação do regime de apoio;\n\nb) Recolher as candidaturas no seu sistema de informação;\n\nc) Aprovar as normas complementares de suporte ao processo de pagamento;\n\nd) Proceder à análise e decisão das candidaturas e dos pedidos de pagamento;\n\ne) Realizar as ações de controlo administrativo;\n\nf) Coordenar as ações de controlo no local;\n\ng) Proceder ao pagamento das ajudas e compensações financeiras, até 15 de outubro de cada ano, decidir a recuperação de montantes indevidamente pagos e a aplicação de penalizações;\n\nh) Colaborar com o IVV, I.P., na elaboração da regulamentação relativa à aplicação do regime de apoio;\n\ni) Disponibilizar ao IVV, I.P., a informação necessária ao acompanhamento da execução e à avaliação da medida;\n\nj) Remeter ao IVV, I. P., até 15 de novembro de cada ano, os elementos a que se refere o anexo VIII-A do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho;\n\nk) Remeter ao IVV, I.P., até 31 de dezembro de cada ano, os elementos a que se referem os anexos VI e VII do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho;\n\nl) Exercer as demais funções de organismo pagador das despesas financiadas no âmbito desta medida, na aceção do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2005&id=305R1290\" title=\"Link para Regulamento da Comunidade Europeia\">1290/2005</a>, do Conselho, de 21 de junho, e do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R0885\" title=\"Link para Regulamento da Comunidade Europeia\">885/2006</a>, da Comissão, de 21 de junho;\n\nm) As competências previstas nas alíneas a), b), d) e e) podem ser delegadas, nos termos do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R0885\" title=\"Link para Regulamento da Comunidade Europeia\">885/2006</a>, da Comissão, de 21 de junho, e do Decreto-Lei n.º 22/2013, de 15 de fevereiro.\n\n4 - Compete às DRAP:\n\na) Participar na divulgação do regime de apoio;\n\nb) Emitir os pareceres técnicos previstos na alínea e) do artigo 2.º, do n.º 2 do artigo 9.º e do n.º 4 do artigo 13.º;\n\nc) Realizar as ações de controlo, no âmbito das suas competências;\n\nd) Exercer as demais funções e competências delegadas pelo IFAP, I.P., nos termos da alínea m) do número anterior."
+  },
+  "71047696": {
+   "fragment_id": "71047597",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\n1 - O regime de concessão das ajudas previsto na Portaria n.º 1144/2008, de 10 de outubro, alterada pelas Portarias n.os 495-A/2010, de 13 de julho, 987/2010, de 28 de setembro, 281/2011, de 17 de outubro, e 313/2012, de 10 de outubro, aplica-se às operações de reestruturação em curso que tenham sido aprovadas ao abrigo desse regime, sem prejuízo do disposto no n.º 6 do artigo 19.º da presente portaria.\n\n2 - As candidaturas apresentadas ao abrigo da Portaria n.º 74/2013, de 15 de fevereiro, com a redação dada pela Portaria n.º 135/2013, de 28 de março, transitam para o regime de apoio aprovado pela presente portaria, podendo os candidatos adaptar as suas candidaturas à presente portaria até ao termo do prazo de submissão das candidaturas para a campanha 2014/2015."
+  },
+  "71047697": {
+   "fragment_id": "71047598",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 1144/2008, de 10 de outubro, alterada pelas Portarias n.os 495-A/2010, de 13 de julho, 987/2010, de 28 de setembro, 281/2011, de 17 de outubro, e 313/2012, de 10 de outubro, sem prejuízo do n.º 1 do artigo anterior;\n\nb) A Portaria n.º 74/2013, de 15 de fevereiro, com a redação dada pela Portaria n.º 135/2013, de 28 de março."
+  },
+  "71047698": {
+   "fragment_id": "71047599",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nO Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 4 de dezembro de 2013."
+  },
+  "71047699": {
+   "fragment_id": "71047600",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 5.º)\n\nÁreas elegíveis\n\n1 - Áreas mínimas:\n\n1.1 - Da parcela de vinha a reestruturar ou dos direitos de replantação a utilizar - sem limite;\n\n1.2 - Da parcela de vinha ou conjunto de parcelas de vinhas contíguas reestruturadas - 0, 30 ha;\n\n1.3 - Das parcelas/talhões, reenxertadas e sobreenxertadas - 0,50 ha\n\n1.4 - Das parcelas reestruturadas, em candidaturas conjuntas - 2,0 ha\n\n2 - Áreas máximas:\n\nDa parcela de vinha ou conjunto de parcelas de vinhas contíguas reestruturadas - sem limite."
+  },
+  "71047700": {
+   "fragment_id": "71047601",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 7.º)\n\nValores unitários das ajudas para regiões de convergência\n\n1 - Melhoria das infraestruturas fundiárias:\n\n1.1 - Drenagem de águas superficiais do terreno, quando, em função da geometria e do declive da parcela, se justificar a execução de valas artificiais, de valetas em meias manilhas, a colocação de manilhas ou de tubos em PVC e a construção de valetas em pedra:\n\ni) Execução de valas artificiais - (euro) 2,10/m3;\n\nii) Valetas em meias manilhas - (euro) 7,10/m;\n\niii) Colocação de manilhas ou de tubos em PVC - (euro) 8,07/m;\n\niv) Construção de valetas em pedra, com secção mínima de 0,06 m2 - (euro) 12,50/m.\n\n1.2 - Reconstrução de muros de uma armação do terreno preexistente ou construção de muros nas restantes sistematizações do terreno quando, justificadamente, estiver em causa a sua estabilidade ou a preservação do solo:\n\ni) Construção ou reconstrução de muros em alvenaria de pedra - (euro) 164/m3;\n\nii) Construção de muros em gabião - (euro) 42,50/m3.\n\n1.3 - As ações descritas nos n.os 1.1 e 1.2 são limitadas a 15% e 20%, respetivamente, do valor total da ajuda prevista para a «Instalação da vinha» e a 30% relativamente à ação 1.2 quando se tratar de muros em pedra posta na região do Douro;\n\n1.4 - Nas candidaturas conjuntas, as ajudas previstas nos n.os 1.1 e 1.2 são limitadas a 30% do valor total da «Instalação de vinha», prevista para esta situação;\n\n1.5 - As candidaturas que incluam a ação «Melhoria das infraestruturas fundiárias», apenas são consideradas desde que efetuadas em parcelas de propriedade do candidato ou mediante apresentação de autorização do respetivo proprietário.\n\n2 - Instalação da vinha:\n\n(ver documento original)\n\n2.1 - Os valores unitários da ajuda correspondentes à «Instalação da vinha» são reduzidos em 5% relativamente às áreas reestruturadas com base em direitos de replantação adquiridos por transferência, por direitos de plantação atribuídos a partir da reserva do território do continente, ou quando o arranque da vinha de compensação é efetuado em data anterior aos prazos estabelecidos nos n.os 1 e 2 do artigo 8.º da presente Portaria.\n\n2.2 - Nas candidaturas conjuntas, as ajudas previstas são acrescidas em 10%.\n\n3 - Sobreenxertia ou reenxertia: é atribuída uma ajuda de 3.000 euros/ha\n\n4 - A densidade, expressa em número de plantas por hectare, é calculada em função do compasso de plantação utilizado.\n\n5 - Entende-se por «alteração do perfil do terreno» a realização de grandes movimentações de terras, prévias ao trabalho de surriba, que modifiquem o declive natural das encostas através da abertura sistemática de terraços ou de terraços de trabalho para instalação de vinhas ao alto, permitam mecanizar as operações culturais ou combater os riscos de erosão, não decorram apenas de correções pontuais do declive das encostas e:\n\ni) Sejam efetuadas em parcelas com um declive igual ou superior a 15% em pelo menos 50% da sua área total; ou\n\nii) Quando a parcela possua mais de 50% da sua superfície com declive inferior a 15%, a ajuda será calculada em função da respetiva repartição, «com» e «sem» alteração do perfil.\n\n6 - No caso da Região Demarcada do Douro a alteração do perfil com terraceamento ou manutenção dos socalcos do Douro aplica-se, independentemente do declive, à abertura sistemática de terraços, ou de terraços de trabalho para instalação de vinhas ao alto, ou manutenção dos socalcos do Douro, em pelo menos 50% da sua área total, entendendo-se por socalcos do Douro plataformas horizontais ou inclinadas suportadas por muros em pedra posta."
+  },
+  "71047701": {
+   "fragment_id": "71047602",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere a alínea a) do n.º 1 do artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere a alínea a) do n.º 1 do artigo 7.º)\n\nValores unitários das ajudas para regiões de competitividade regional e do emprego\n\n1 - Melhoria das infraestruturas fundiárias:\n\n1.1 - Drenagem de águas superficiais do terreno, quando, em função da geometria e do declive da parcela, se justificar a execução de valas artificiais, de valetas em meias manilhas, a colocação de manilhas ou de tubos em PVC e a construção de valetas em pedra:\n\ni) Execução de valas artificiais - (euro) 1,47/m3;\n\nii) Valetas em meias manilhas - (euro) 4,73/m;\n\niii) Colocação de manilhas ou de tubos em PVC - (euro) 5,38/m;\n\niv) Construção de valetas em pedra, com secção mínima de 0,06 m2 - (euro) 8,33/m.\n\n1.2 - Reconstrução de muros de uma armação do terreno preexistente, ou construção de muros nas restantes sistematizações do terreno, quando, justificadamente, estiver em causa a sua estabilidade ou a preservação do solo:\n\ni) Construção ou reconstrução de muros em alvenaria de pedra - (euro) 109,33/m3;\n\nii) Construção de muros em gabião - (euro) 28,33/m3.\n\n1.3 - As ações descritas nos n.os 1.1 e 1.2 são limitadas a 15% e 20%, respetivamente, do valor total da ajuda prevista para a «Instalação da vinha»;\n\n1.4 - Nas candidaturas conjuntas, as ajudas previstas nos n.os 1.1 e 1.2 são limitadas a 30% do valor total da «Instalação de vinha», prevista para esta situação;\n\n1.5 - As candidaturas que incluam a ação «Melhoria das infraestruturas fundiárias», apenas são consideradas desde que efetuadas em parcelas de propriedade do candidato ou mediante apresentação de autorização do respetivo proprietário.\n\n2 - Instalação da vinha:\n\n(ver documento original)\n\n2.1 - Os valores unitários da ajuda correspondentes à «Instalação da vinha» são reduzidos em 5% relativamente às áreas reestruturadas com base em direitos de replantação adquiridos por transferência, por direitos de plantação atribuídos a partir da reserva do território do continente, ou quando o arranque da vinha de compensação é efetuado em data anterior aos prazos estabelecidos nos n.os 1 e 2 do artigo 8.º, da presente Portaria.\n\n2.2 - Nas candidaturas conjuntas, as ajudas previstas são acrescidas em 10%.\n\n3 - Sobreenxertia ou reenxertia: é atribuída uma ajuda de 1.900 euros/ha.\n\n4 - A densidade, expressa em número de plantas por hectare, é calculada em função do compasso de plantação utilizado.\n\n5 - Entende-se por «alteração do perfil do terreno» a realização de grandes movimentações de terras, prévias ao trabalho de surriba, que modifiquem o declive natural das encostas através da abertura sistemática de terraços ou de terraços de trabalho para instalação de vinhas ao alto, permitam mecanizar as operações culturais ou combater os riscos de erosão, não decorram apenas de correções pontuais do declive das encostas e:\n\ni) Sejam efetuadas em parcelas com um declive igual ou superior a 15% em pelo menos 50% da sua área total; ou\n\nii) Quando a parcela possua mais de 50% da sua superfície com declive inferior a 15%, a ajuda será calculada em função da respetiva repartição, «com» e «sem» alteração do perfil."
+  },
+  "71047675": {
+   "fragment_id": "71047576",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 357/2013\n\nde 10 de dezembro\n\nO acordo alcançado na reforma da Política Agrícola Comum para o período de 2014-2018, confirmou a continuidade do regime de apoio à competitividade do sector vitivinícola nacional e do respetivo envelope financeiro atribuído a Portugal.\n\nConcluída a negociação que procedeu à revisão do regime de apoio à reestruturação e reconversão das vinhas estabelecido no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de outubro, e no Regulamento n.º 555/2008, da Comissão, de 27 de junho, com as alterações entretanto introduzidas os normativos nacionais a este novo quadro comunitário para efeitos da operacionalização desta medida, a qual constitui um dos instrumentos privilegiados de melhoria da competitividade do sector e da qualidade dos seus produtos.\n\nConsiderando a recetividade que esta medida tem encontrado junto do sector, considera-se oportuno promover um conjunto de alterações destinadas a precisar determinados conceitos, tornando, com isso, o regime mais claro, bem como, efetuar ajustamentos ao atual quadro legal desta medida, para simplificar os procedimentos administrativos, as formas e níveis de ajuda e todos os aspetos inerentes à sua implementação e execução.\n\nAproveita-se ainda a oportunidade, tendo em conta os resultados e experiência obtidos nas campanhas já decorridas, para introduzir melhorias no regime nacional vigente, de modo a permitir um resultado mais eficiente, quer para os viticultores, quer para os organismos envolvidos nesta medida de ajuda à reestruturação e reconversão da vinha.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 83/97, de 9 de abril, o seguinte:"
+  },
+  "71051881": {
+   "fragment_id": "71047583",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma e nível de apoio",
+   "in_force_from": "2014-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+   ],
+   "markdown": "###### Artigo 7.º — Forma e nível de apoio\n\n1 - O regime de apoio abrange:\n\na) A concessão de uma comparticipação financeira para os investimentos realizados, através do pagamento de uma ajuda, de acordo com os valores constantes dos anexos II e III à presente portaria, da qual faz parte integrante;\n\nb) Uma compensação pela perda de receita inerente à reestruturação e reconversão.\n\n2 - A compensação pela perda de receita é aplicável nos casos de replantação de vinhas instaladas ou de sobreenxertia ou reenxertia, podendo assumir uma das seguintes formas:\n\na) Nos casos de replantação de vinhas instaladas:\n\ni) Manutenção da vinha velha durante três campanhas subsequentes àquela em que foi plantada a vinha nova; ou\n\nii) Compensação financeira, no valor de (euro) 1 500/ha, paga após a confirmação de arranque pela DRAP territorialmente competente;\n\nb) Nos casos de sobreenxertia ou reenxertia, uma compensação financeira, no valor de (euro) 1 000/ha, paga após a apresentação do pedido de pagamento da execução da medida.\n\n3 - Nos termos do n.º 2 do artigo 63.º do Regulamento (CE) n.º 555/2008, de 27 de junho, a opção pela manutenção da vinha velha, referida na subalínea i) da alínea a) do número anterior, exige a prestação de uma garantia, com prazo de 5 anos após a apresentação do pedido, a favor do IVV, I. P., no valor de (euro) 1 500/ha.\n\n4 - A garantia a que se refere o número anterior é liberada, ao viticultor, no prazo máximo de 45 dias após a comunicação do arranque da vinha velha à DRAP territorialmente competente.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+  },
+  "71051886": {
+   "fragment_id": "71047584",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899)"
+   ],
+   "markdown": "###### Artigo 8.º — Elegibilidade\n\n1 - São elegíveis os investimentos iniciados 20 dias após o termo do prazo de submissão das candidaturas, salvo em situações devidamente autorizadas pelo IVV, I. P.\n\n2 - O disposto no número anterior não se aplica às candidaturas apresentadas ao abrigo da Portaria n.º 74/2013, de 15 de fevereiro, com a redação dada pela Portaria n.º 135/2013, de 28 de março, considerando-se, neste caso, elegíveis os investimentos iniciados a partir da data de apresentação das candidaturas.\n\n3 - (Revogado).\n\n> Nota: [Artigo 3.º, Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899) O n.º 3 do artigo 8.º fica revogado a partir da campanha vitivinícola de 2014-2015.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899)"
+  },
+  "71051883": {
+   "fragment_id": "71047587",
+   "type": 11,
+   "heading": "Artigo 11.º — Alterações das candidaturas",
+   "in_force_from": "2014-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+   ],
+   "markdown": "###### Artigo 11.º — Alterações das candidaturas\n\n1 - Podem ser submetidos pedidos de alteração às candidaturas até ao termo do período referido no n.º 1 do artigo anterior, os quais seguem os procedimentos previstos para a submissão e decisão das candidaturas.\n\n2 - Salvo casos excecionais devidamente fundamentados e comprovados, os pedidos de alteração às candidaturas aprovadas só podem ser submetidos até à data de apresentação do pedido de pagamento nos prazos previstos no artigo 13.º, não podendo, em qualquer caso, implicar um aumento do valor do apoio atribuído.\n\n3 - Nos pedidos de alteração submetidos nos termos dos números anteriores devem ainda ser consideradas as seguintes especificidades:\n\na) No caso de transmissão da titularidade, os transmissários devem reunir as condições para serem beneficiários, manter os pressupostos de aprovação da candidatura individual ou conjunta, e assumir os compromissos e as obrigações do beneficiário transmitente;\n\nb) No caso de um ou mais proponentes de uma candidatura agrupada ser excluído ou desistir ou apresentar um pedido de alteração da área, antes da apresentação do pedido de pagamento, a referida candidatura pode ser reformulada, desde que os restantes proponentes mantenham as condições mínimas de admissibilidade da candidatura agrupada, podendo para tal, excecionalmente, aqueles que ainda não tenham apresentado o pedido de pagamento, repor a área em falta.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+  },
+  "71051884": {
+   "fragment_id": "71047591",
+   "type": 11,
+   "heading": "Artigo 15.º — Incumprimento das candidaturas",
+   "in_force_from": "2014-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+   ],
+   "markdown": "###### Artigo 15.º — Incumprimento das candidaturas\n\n1 - Sem prejuízo do disposto no n.º 4, aos viticultores que não cumpram os requisitos fixados no artigo 13.º não lhes é reconhecido o direito a qualquer ajuda nem compensação financeira, ficando os que beneficiaram de um pagamento antecipado das ajudas sujeitos à execução da garantia prestada, e os que auferiram compensação financeira obrigados à sua restituição, caso os projetos não se encontrem executados nos prazos estabelecidos.\n\n2 - Se o viticultor renunciar à antecipação do pagamento das medidas específicas, no prazo de três meses após a apresentação do pedido, deve restituir o valor da compensação financeira, se recebida, e a garantia prestada é liberada em 95% do seu montante, e em 85% do seu montante caso aquele prazo seja ultrapassado.\n\n3 - Se o viticultor renunciar à execução das medidas específicas após o pagamento da ajuda, fica obrigado a restituir o valor da compensação financeira e reembolsar o pagamento antecipado das ajudas, sendo a garantia liberada em 90% do seu montante, ou em 80%, caso a renúncia ocorra após o prazo de três meses depois do pagamento.\n\n4 - Sempre que, no âmbito do controlo, se constatar que:\n\na) A medida específica constante do pedido de ajuda não se encontra totalmente executada dentro do prazo previsto, a ajuda será paga em função do que foi efetivamente executado, desde que cumpridas as áreas mínimas previstas no anexo I;\n\nb) A medida específica constante do pedido de ajuda e objeto de pagamento antecipado não se encontra totalmente executada, dentro do prazo previsto:\n\ni) É devolvido o montante da ajuda recebida e não executada, desde que cumpridas as áreas mínimas previstas no anexo I;\n\nii) Quando a área executada for inferior em mais de 6% e 0,5 ha em relação à área aprovada, ao montante previsto na subalínea anterior acresce uma penalização de 5% sobre o montante total das ajudas para as medidas específicas em causa, a qual pode ser executada através da garantia.\n\n5 - Nos casos referidos nas alíneas a) e b) do número anterior em que se verifique que a execução foi inferior a 80 % da área objeto de candidatura, por causa imputável ao viticultor, este não poderá candidatar-se nas duas campanhas seguintes à campanha de apresentação do pedido de pagamento, ou, no caso de pagamentos antecipados, à comunicação da execução do investimento.\n\n6 - Nos casos de força maior ou em situações excecionais, na aceção do artigo 31.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0073\" title=\"Link para Regulamento da Comunidade Europeia\">73/2009</a>, do Conselho, de 19 de janeiro, não se aplica o disposto na alínea b) do n.º 4.\n\n7 - O disposto no n.º 4 é aplicável à compensação financeira por perda de receita, havendo lugar à sua recuperação em função da área que foi efetivamente executada, ou caso a referida compensação ainda não tenha sido paga, ao respetivo recálculo.\n\n8 - As candidaturas cujos investimentos foram executados e que por limitação orçamental não possam ser pagas no exercício financeiro em causa serão pagas no exercício financeiro seguinte.\n\n9 - No caso de candidaturas conjuntas, aplicam-se as regras referidas nos números anteriores por viticultor, e se a superfície efetivamente reestruturada for inferior a 80% da totalidade da área aprovada nessa candidatura, o apoio de 10% referido nos n.os 2.2 dos anexos II e III é retirado a todos os viticultores dessa candidatura, independentemente do facto de a inexecução se verificar apenas em relação a um deles.\n\n10 - No caso de incumprimento dos requisitos legais de gestão e das boas condições agrícolas e ambientais a que se refere o n.º 3 do artigo 19.º, verificado até três anos após o pagamento do apoio, e que resulte de um ato ou omissão diretamente imputável ao beneficiário, o montante do pagamento é reduzido ou cancelado, parcial ou totalmente, em função da gravidade, extensão, permanência e reiteração do incumprimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+  },
+  "71051885": {
+   "fragment_id": "71047601",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 7.º)",
+   "in_force_from": "2014-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+   ],
+   "markdown": "## Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 7.º)\n\nValores unitários das ajudas para regiões de convergência\n\n1 - Melhoria das infraestruturas fundiárias:\n\n1.1 - Drenagem de águas superficiais do terreno, quando, em função da geometria e do declive da parcela, se justificar a execução de valas artificiais, de valetas em meias manilhas, a colocação de manilhas ou de tubos em PVC e a construção de valetas em pedra:\n\ni) Execução de valas artificiais - (euro) 2,10/m3;\n\nii) Valetas em meias manilhas - (euro) 7,10/m;\n\niii) Colocação de manilhas ou de tubos em PVC - (euro) 8,07/m;\n\niv) Construção de valetas em pedra, com secção mínima de 0,06 m2 - (euro) 12,50/m.\n\n1.2 - Reconstrução de muros de uma armação do terreno preexistente ou construção de muros nas restantes sistematizações do terreno quando, justificadamente, estiver em causa a sua estabilidade ou a preservação do solo:\n\ni) Construção ou reconstrução de muros em alvenaria de pedra - (euro) 164/m3;\n\nii) Construção de muros em gabião - (euro) 42,50/m3.\n\n1.3 - As ações descritas nos n.os 1.1 e 1.2 são limitadas a 15% e 20%, respetivamente, do valor total da ajuda prevista para a «Instalação da vinha» e a 30% relativamente à ação 1.2 quando se tratar de muros em pedra posta na região do Douro;\n\n1.4 - Nas candidaturas conjuntas, as ajudas previstas nos n.os 1.1 e 1.2 são limitadas a 30% do valor total da «Instalação de vinha», prevista para esta situação;\n\n1.5 - As candidaturas que incluam a ação «Melhoria das infraestruturas fundiárias», apenas são consideradas desde que efetuadas em parcelas de propriedade do candidato ou mediante apresentação de autorização do respetivo proprietário.\n\n2 - Instalação da vinha:\n\n(ver documento original)\n\n2.1 - Os valores unitários da ajuda correspondentes à «Instalação da vinha» são reduzidos em 5% relativamente às áreas reestruturadas com base em direitos de replantação adquiridos por transferência, por direitos de plantação atribuídos a partir da reserva do território do continente, ou quando o arranque da vinha de compensação é efetuado em data anterior aos prazos estabelecidos nos n.os 1 e 2 do artigo 8.º da presente Portaria.\n\n2.2 - Nas candidaturas conjuntas, as ajudas previstas são acrescidas em 10%.\n\n3 - Sobreenxertia ou reenxertia: é atribuída uma ajuda de 3.000 euros/ha\n\n4 - A densidade, expressa em número de plantas por hectare, é calculada em função do compasso de plantação utilizado.\n\n5 - Entende-se por «alteração do perfil do terreno» a realização de grandes movimentações de terras, prévias ao trabalho de surriba, que modifiquem o declive natural das encostas através da abertura sistemática de terraços ou de terraços de trabalho para instalação de vinhas ao alto, permitam mecanizar as operações culturais ou combater os riscos de erosão, não decorram apenas de correções pontuais do declive das encostas e:\n\ni) Sejam efetuadas em parcelas com um declive igual ou superior a 15% em pelo menos 50% da sua área total; ou\n\nii) Quando a parcela possua mais de 50% da sua superfície com declive inferior a 15%, a ajuda será calculada em função da respetiva repartição, «com» e «sem» alteração do perfil.\n\n6 - No caso da Região Demarcada do Douro a alteração do perfil com terraceamento ou manutenção dos socalcos do Douro aplica-se, independentemente do declive, à abertura sistemática de terraços, ou de terraços de trabalho para instalação de vinhas ao alto, ou manutenção dos socalcos do Douro, em pelo menos 50% da sua área total, entendendo-se por socalcos do Douro plataformas horizontais ou inclinadas suportadas por muros em pedra posta.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+  },
+  "71051893": {
+   "fragment_id": "71047582",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidatos",
+   "in_force_from": "2015-07-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+   ],
+   "markdown": "###### Artigo 6.º — Candidatos\n\n1 - A apresentação dos pedidos de apoio pode revestir a forma de candidatura individual ou conjunta, nos termos seguintes:\n\na) Candidatura individual, candidatura apresentada por qualquer pessoa, singular ou coletiva, adiante designada por viticultor, que exerça ou venha a exercer a atividade vitícola, desde que:\n\ni) Seja proprietária da parcela a plantar com vinha ou detentora de um título válido que confira o direito à sua exploração até ao termo do período previsto no n.º 1 do artigo 19.º, devendo a comprovação da posse da terra ser efetuada previamente à submissão da candidatura, no momento da atualização da informação no sistema de identificação do Parcelário (iSIP) do IFAP, I. P.\n\nii) Declare respeitar as disposições de incidência ambiental previstas na legislação em vigor, no que se refere a áreas protegidas, Rede Natura e despacho conjunto n.º 473/2004, de 30 de julho, relativo à movimentação de terras no Alto Douro Vinhateiro.\n\nb) Candidaturas conjuntas, candidaturas apresentadas por uma pluralidade de viticultores, quer sejam pessoas singulares ou coletivas, de comum acordo, e que integrem um dos seguintes tipos:\n\ni) Grupo de três ou mais viticultores, cujos projetos de investimento envolvem parcelas contíguas, desde que a área mínima de cada uma das parcelas de cada viticultor respeite os limites definidos no anexo I, não devendo cada viticultor deter mais de 50% da área total a reestruturar;\n\nii) Entidades promotoras de projetos de emparcelamento, no âmbito do Decreto-Lei n.º 103/90, de 22 de março, em representação dos viticultores;\n\niii) Agrupada, apresentada por três ou mais viticultores, podendo as parcelas ser contíguas ou não, independentemente da área de cada uma delas, desde que o total da área a reestruturar seja igual ou superior a 20 ha e os candidatos forneçam a sua produção a uma estrutura associativa ou empresa comercial, que a vinifique e que se constitua como representante das respetivas candidaturas, sem prejuízo das regras aplicáveis aos produtos com DOP ou IGP.\n\n2 - Os candidatos que apresentem candidaturas conjuntas devem respeitar o estabelecido nas subalíneas i) e ii) da alínea a) do n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+  },
+  "71051894": {
+   "fragment_id": "71047584",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade",
+   "in_force_from": "2015-07-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899)"
+   ],
+   "markdown": "###### Artigo 8.º — Elegibilidade\n\n1 - São elegíveis os investimentos iniciados a partir de 20 fevereiro, salvo em situações devidamente autorizadas pelo IVV, I. P., nos termos a definir no manual a que se refere o n.º 2 do artigo 1.º\n\n2 - O disposto no número anterior não se aplica às candidaturas apresentadas ao abrigo da Portaria n.º 74/2013, de 15 de fevereiro, com a redação dada pela Portaria n.º 135/2013, de 28 de março, considerando-se, neste caso, elegíveis os investimentos iniciados a partir da data de apresentação das candidaturas.\n\n3 - (Revogado).\n\n> Nota: [Artigo 3.º, Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899) O n.º 3 do artigo 8.º fica revogado a partir da campanha vitivinícola de 2014-2015.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899)"
+  },
+  "71051895": {
+   "fragment_id": "71047586",
+   "type": 11,
+   "heading": "Artigo 10.º — Submissão das candidaturas",
+   "in_force_from": "2015-07-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+   ],
+   "markdown": "###### Artigo 10.º — Submissão das candidaturas\n\n1 - A abertura das candidaturas ocorre anualmente entre 15 de novembro e 31 de dezembro, através de aviso de abertura que estabelece o prazo durante o qual as candidaturas podem ser submetidas, que não pode ser inferior a 30 dias.\n\n2 - O IVV, I. P., após consulta ao IFAP, I. P., publicita nos sítios da internet do IVV, I. P., e do IFAP, I. P., o aviso de abertura para a submissão de candidaturas, do qual deve constar o modo de submissão e o respetivo prazo de decisão.\n\n3 - Sempre que circunstâncias especiais devidamente fundamentadas o determinem, os prazos de submissão e decisão das candidaturas podem ser prorrogados pelo I.V.V., I. P., após consulta ao IFAP, I. P., não podendo no entanto o prazo de submissão de candidaturas ultrapassar a data de 31 de janeiro, sendo os mesmos publicitados nos sítios da internet do IVV, I. P., e do IFAP, I. P.\n\n4 - Caso se venha a verificar a necessidade de aplicação de critérios de prioridade na aprovação das candidaturas, os mesmos serão estabelecidos no aviso de abertura de candidaturas, a publicitar nos sítios da internet do IVV, I. P. e do IFAP, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+  },
+  "71051896": {
+   "fragment_id": "71047589",
+   "type": 11,
+   "heading": "Artigo 13.º — Execução das medidas e apresentação dos pedidos de pagamento",
+   "in_force_from": "2015-07-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+   ],
+   "markdown": "###### Artigo 13.º — Execução das medidas e apresentação dos pedidos de pagamento\n\n1 - As candidaturas aprovadas em cada campanha vitivinícola devem:\n\na) Encontrar-se integralmente executadas até 30 de junho da campanha seguinte à da apresentação da candidatura e ser objeto dos correspondentes pedidos de pagamento das ajudas e da compensação financeira por perda de receita, sendo o caso, até àquela data, ou;\n\nb) Ser objeto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas até 30 de junho da campanha seguinte à da apresentação da candidatura, mediante a prestação de uma garantia a favor do IFAP, I.P., de montante igual a 110% do valor das ajudas previstas, devendo as medidas específicas em causa encontrarem-se integralmente executadas até ao termo da segunda campanha vitivinícola após o pagamento do adiantamento.\n\n2 - No caso das candidaturas conjuntas, aos prazos de execução referidos nas alíneas a) e b) do número anterior acresce o período de uma campanha, com exceção das candidaturas referidas na subalínea ii) da alínea b) do artigo 6.º, a que acresce o período de duas campanhas, mas em qualquer caso, o prazo para apresentação do pedido de pagamento antecipado das ajudas é o referido na alínea b) do número anterior.\n\n3 - O prazo de apresentação dos pedidos de pagamento previstos nos números anteriores, não pode, em nenhum caso, ultrapassar 30 de junho de 2018.\n\n4 - Caso se verifique a impossibilidade de realização da plantação por motivos de profilaxia sanitária ou intempéries na parcela a reestruturar, mediante confirmação oficial da DRAP territorialmente competente, ao prazo de execução previsto na alínea b) do n.º 1, acresce o período de uma campanha.\n\n5 - Após a apresentação do pedido de pagamento, as ajudas relativas às candidaturas aprovadas são pagas aos viticultores, em cada ano, nas seguintes condições:\n\na) Depois de verificada a execução das medidas específicas; ou\n\nb) Após o início da execução da medida específica, mediante a prestação de uma garantia, nos termos da alínea b) do n.º 1, a qual é liberada no prazo máximo de 45 dias após a comunicação da conclusão da medida específica, desde que se verifique estar totalmente executada.\n\n6 - Sempre que circunstâncias especiais devidamente fundamentadas o determinem, e sem prejuízo do disposto no n.º 3 do presente artigo, o prazo de apresentação dos pedidos de pagamento pode ser prorrogado pelo IFAP, I. P., mediante autorização do membro do Governo responsável pela área da agricultura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+  },
+  "180030450": {
+   "fragment_id": "71047577",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece, para o continente, no âmbito do programa nacional, as normas complementares de execução do regime de apoio à reestruturação e reconversão das vinhas (VITIS), para o período 2014-2018, previsto no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de outubro.\n\n2 - O Instituto da Vinha e do Vinho, I. P. (IVV, I.P.) e o Instituto de Financiamento da Agricultura e Pescas, I P. (IFAP, I.P.) estabelecem as normas complementares, de caráter técnico e específico, de aplicação da presente portaria, as quais constituem um manual, publicitado nos sítios da internet do IVV, I.P. e do IFAP, I.P.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030451": {
+   "fragment_id": "71047578",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da aplicação da presente portaria, entende-se por:\n\na) «Área de vinha», área do terreno ocupado com vinha, expressa em hectares, arredondada a quatro casas decimais, obtida por medição, em projeção horizontal, do contorno da parcela delimitada pelo perímetro exterior das videiras, ampliada com uma faixa tampão de largura igual a metade da distância entre as linhas, até ao limite do terreno, sendo que caso existam árvores em bordadura e sempre que as mesmas se situem na faixa tampão, não é descontada, à área da vinha, a área ocupada pelas árvores;\n\nb) «Parcelas contíguas», parcelas que têm estremas comuns/confinantes ou que se encontram separadas por taludes, cabeceiras, valas de drenagem ou linhas de água, caminhos e estradas;\n\nc) «Vinha estreme», a parcela de vinha com um número de árvores dispersas, no seu interior, inferior ou igual a 40 por hectare;\n\nd) «Renovação normal das vinhas que chegam ao fim do seu ciclo de vida natural» a replantação da mesma parcela de terra com a mesma casta, no mesmo sistema de viticultura;\n\ne) «Instalação da vinha», que compreende o arranque da vinha a reestruturar, a preparação do terreno, podendo incluir a alteração do perfil do terreno e melhoria das infraestruturas fundiárias, a colocação do material vegetativo no terreno, quer se trate de enxertos prontos, quer de porta-enxertos e respetiva enxertia, ou em situações especiais autorizadas pelo IVV, I.P., após parecer da Direção Regional de Agricultura e Pescas (DRAP) territorialmente competente, de garfos e instalação do sistema de suporte;\n\nf) «Sobreenxertia» é uma nova operação de enxertia, realizada numa planta enxertada, isto é, sobre o garfo, com o objetivo de alterar a variedade;\n\ng) «Reenxertia» é uma nova operação de enxertia, realizada sobre o porta-enxerto, com o objetivo de alterar a variedade;\n\nh) «Plantações ilegais» as plantações realizadas sem um direito de plantação correspondente.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030452": {
+   "fragment_id": "71047579",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - O regime de apoio à reestruturação e reconversão das vinhas é aplicável:\n\na) Às parcelas de vinha que observem as disposições do Decreto-Lei n.º 83/97, de 9 de abril, cuja categoria de utilização seja a produção de uvas para vinho e que após aplicação do regime de apoio satisfaçam as condições de produção de vinho com denominação de origem (DOP) e vinho com indicação geográfica (IGP);\n\nb) Aos direitos de replantação;\n\nc) Aos direitos de replantação obtidos por transferência:\n\ni) A exercer pelo adquirente ou pelo titular de um direito de exploração sobre a parcela de destino dos direitos;\n\nii) A exercer pela entidade promotora de candidaturas conjuntas, nos termos da alínea b), subalínea ii), do n.º 1 do artigo 6.º\n\nd) Aos direitos de plantação atribuídos a partir da reserva do território do continente, a exercer pelos titulares.\n\n2 - O regime de apoio abrange:\n\na) A reconversão varietal efetuada:\n\ni) Por replantação;\n\nii) Por sobreenxertia ou por reenxertia, constituindo parcelas/talhões estremes.\n\nb) A relocalização de vinhas, efetuada por replantação noutro local;\n\nc) A melhoria das técnicas de gestão da vinha, efetuada através da:\n\ni) Alteração do sistema de viticultura que compreende a sistematização do terreno e o sistema de condução;\n\nii) Melhoria das infraestruturas fundiárias que compreende a drenagem de águas superficiais e a reconstrução e construção de muros de suporte.\n\n3 - O regime de apoio não abrange:\n\na) A renovação normal das vinhas que cheguem ao fim do seu ciclo de vida natural;\n\nb) A gestão corrente da vinha;\n\nc) A proteção contra danos causados por caça, aves ou granizo;\n\nd) A construção de quebra-ventos e de muros de proteção contra o vento;\n\ne) As vias de acesso e elevadores;\n\nf) As vinhas com idade inferior a 10 anos, exceto em situações excecionais devidamente fundamentadas e autorizadas pelo IVV, I.P.;\n\ng) As explorações que detenham plantações ilegais pertencentes, quer ao candidato, quer ao titular dos direitos usados na candidatura.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030453": {
+   "fragment_id": "71047580",
+   "type": 11,
+   "heading": "Artigo 4.º — Medidas específicas",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 4.º — Medidas específicas\n\nO regime de apoio previsto no artigo anterior é concretizado através das seguintes medidas específicas:\n\na) Instalação da vinha que é constituída pelas ações:\n\ni) «Arranque da vinha a reestruturar», que compreende as operações de arranque e remoção das videiras e do sistema de suporte;\n\nii) «Plantação da vinha», que compreende a preparação do terreno, podendo incluir a alteração do perfil do terreno, a colocação do material vegetativo no terreno, quer se trate de enxertos prontos, quer de porta-enxertos e respetiva enxertia, quer de garfos e instalação do sistema de suporte;\n\niii) «Melhoria das infraestruturas fundiárias», que apenas é elegível quando realizada cumulativamente com a ação «Plantação da vinha».\n\nb) Sobreenxertia ou reenxertia, que compreende as ações relativas a cada uma destas operações.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030454": {
+   "fragment_id": "71047581",
+   "type": 11,
+   "heading": "Artigo 5.º — Superfícies abrangidas",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 5.º — Superfícies abrangidas\n\n1 - O regime de apoio é aplicável às áreas cujos limites estão definidos no anexo I à presente portaria, da qual faz parte integrante, desde que observadas as seguintes condições:\n\na) As parcelas de vinha, após reestruturação, devem ser estremes;\n\nb) O material de propagação vegetativa, das categorias base, certificado e standard, deve respeitar o estabelecido no Decreto-Lei n.º 194/2006, de 27 setembro, relativo à produção, controlo, certificação e comercialização de materiais de propagação vegetativa da videira.\n\n2 - Em situações excecionais devidamente fundamentadas e autorizadas pelo IVV, I.P., pode ser utilizado material vegetativo não classificado nos termos da alínea b) do número anterior, desde que proveniente de variedades autóctones.\n\n3 - As candidaturas apresentadas pelas entidades a que se refere a subalínea ii) e as candidaturas agrupadas referidas na subalínea iii), ambas da alínea b), do n.º 1, do artigo 6.º, não ficam sujeitas aos limites de área das parcelas definidos no anexo I.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030455": {
+   "fragment_id": "71047582",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidatos",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+   ],
+   "markdown": "###### Artigo 6.º — Candidatos\n\n1 - A apresentação dos pedidos de apoio pode revestir a forma de candidatura individual ou conjunta, nos termos seguintes:\n\na) Candidatura individual, candidatura apresentada por qualquer pessoa, singular ou coletiva, adiante designada por viticultor, que exerça ou venha a exercer a atividade vitícola, desde que:\n\ni) Seja proprietária da parcela a plantar com vinha ou detentora de um título válido que confira o direito à sua exploração até ao termo do período previsto no n.º 1 do artigo 19.º, devendo a comprovação da posse da terra ser efetuada previamente à submissão da candidatura, no momento da atualização da informação no sistema de identificação do Parcelário (iSIP) do IFAP, I. P.\n\nii) Declare respeitar as disposições de incidência ambiental previstas na legislação em vigor, no que se refere a áreas protegidas, Rede Natura e despacho conjunto n.º 473/2004, de 30 de julho, relativo à movimentação de terras no Alto Douro Vinhateiro.\n\nb) Candidaturas conjuntas, candidaturas apresentadas por uma pluralidade de viticultores, quer sejam pessoas singulares ou coletivas, de comum acordo, e que integrem um dos seguintes tipos:\n\ni) Grupo de três ou mais viticultores, cujos projetos de investimento envolvem parcelas contíguas, desde que a área mínima de cada uma das parcelas de cada viticultor respeite os limites definidos no anexo I, não devendo cada viticultor deter mais de 50% da área total a reestruturar;\n\nii) Entidades promotoras de projetos de emparcelamento, no âmbito do Decreto-Lei n.º 103/90, de 22 de março, em representação dos viticultores;\n\niii) Agrupada, apresentada por três ou mais viticultores, podendo as parcelas ser contíguas ou não, independentemente da área de cada uma delas, desde que o total da área a reestruturar seja igual ou superior a 20 ha e os candidatos forneçam a sua produção a uma estrutura associativa ou empresa comercial, que a vinifique e que se constitua como representante das respetivas candidaturas, sem prejuízo das regras aplicáveis aos produtos com DOP ou IGP.\n\n2 - Os candidatos que apresentem candidaturas conjuntas devem respeitar o estabelecido nas subalíneas i) e ii) da alínea a) do n.º 1.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+  },
+  "180030456": {
+   "fragment_id": "71047583",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma e nível de apoio",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+   ],
+   "markdown": "###### Artigo 7.º — Forma e nível de apoio\n\n1 - O regime de apoio abrange:\n\na) A concessão de uma comparticipação financeira para os investimentos realizados, através do pagamento de uma ajuda, de acordo com os valores constantes dos anexos II e III à presente portaria, da qual faz parte integrante;\n\nb) Uma compensação pela perda de receita inerente à reestruturação e reconversão.\n\n2 - A compensação pela perda de receita é aplicável nos casos de replantação de vinhas instaladas ou de sobreenxertia ou reenxertia, podendo assumir uma das seguintes formas:\n\na) Nos casos de replantação de vinhas instaladas:\n\ni) Manutenção da vinha velha durante três campanhas subsequentes àquela em que foi plantada a vinha nova; ou\n\nii) Compensação financeira, no valor de (euro) 1 500/ha, paga após a confirmação de arranque pela DRAP territorialmente competente;\n\nb) Nos casos de sobreenxertia ou reenxertia, uma compensação financeira, no valor de (euro) 1 000/ha, paga após a apresentação do pedido de pagamento da execução da medida.\n\n3 - Nos termos do n.º 2 do artigo 63.º do Regulamento (CE) n.º 555/2008, de 27 de junho, a opção pela manutenção da vinha velha, referida na subalínea i) da alínea a) do número anterior, exige a prestação de uma garantia, com prazo de 5 anos após a apresentação do pedido, a favor do IVV, I. P., no valor de (euro) 1 500/ha.\n\n4 - A garantia a que se refere o número anterior é liberada, ao viticultor, no prazo máximo de 45 dias após a comunicação do arranque da vinha velha à DRAP territorialmente competente.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+  },
+  "180030457": {
+   "fragment_id": "71047584",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899)"
+   ],
+   "markdown": "###### Artigo 8.º — Elegibilidade\n\n1 - São elegíveis os investimentos iniciados a partir de 20 fevereiro, salvo em situações devidamente autorizadas pelo IVV, I. P., nos termos a definir no manual a que se refere o n.º 2 do artigo 1.º\n\n2 - O disposto no número anterior não se aplica às candidaturas apresentadas ao abrigo da Portaria n.º 74/2013, de 15 de fevereiro, com a redação dada pela Portaria n.º 135/2013, de 28 de março, considerando-se, neste caso, elegíveis os investimentos iniciados a partir da data de apresentação das candidaturas.\n\n3 - (Revogado).\n\n> Nota: [Artigo 3.º, Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899) O n.º 3 do artigo 8.º fica revogado a partir da campanha vitivinícola de 2014-2015.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899)"
+  },
+  "180030458": {
+   "fragment_id": "71047585",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamentos",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 9.º — Pagamentos\n\n1 - A ajuda é paga direta e integralmente aos viticultores, tanto nas candidaturas individuais como nas candidaturas conjuntas, em função:\n\na) Das medidas específicas incluídas na candidatura;\n\nb) Dos valores unitários fixados nos anexos II e III, da presente portaria;\n\nc) Da área de vinha reestruturada desde que suportada pelos correspondentes direitos de plantação definitivos.\n\n2 - No caso da ação «Melhoria das infraestruturas fundiárias» e «alteração do perfil do terreno», o pagamento depende de parecer qualitativo emitido pela DRAP territorialmente competente.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030459": {
+   "fragment_id": "71047586",
+   "type": 11,
+   "heading": "Artigo 10.º — Submissão das candidaturas",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+   ],
+   "markdown": "###### Artigo 10.º — Submissão das candidaturas\n\n1 - A abertura das candidaturas ocorre anualmente entre 15 de novembro e 31 de dezembro, através de aviso de abertura que estabelece o prazo durante o qual as candidaturas podem ser submetidas, que não pode ser inferior a 30 dias.\n\n2 - O IVV, I. P., após consulta ao IFAP, I. P., publicita nos sítios da internet do IVV, I. P., e do IFAP, I. P., o aviso de abertura para a submissão de candidaturas, do qual deve constar o modo de submissão e o respetivo prazo de decisão.\n\n3 - Sempre que circunstâncias especiais devidamente fundamentadas o determinem, os prazos de submissão e decisão das candidaturas podem ser prorrogados pelo I.V.V., I. P., após consulta ao IFAP, I. P., não podendo no entanto o prazo de submissão de candidaturas ultrapassar a data de 31 de janeiro, sendo os mesmos publicitados nos sítios da internet do IVV, I. P., e do IFAP, I. P.\n\n4 - Caso se venha a verificar a necessidade de aplicação de critérios de prioridade na aprovação das candidaturas, os mesmos serão estabelecidos no aviso de abertura de candidaturas, a publicitar nos sítios da internet do IVV, I. P. e do IFAP, I. P.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+  },
+  "180030460": {
+   "fragment_id": "71047587",
+   "type": 11,
+   "heading": "Artigo 11.º — Alterações das candidaturas",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+   ],
+   "markdown": "###### Artigo 11.º — Alterações das candidaturas\n\n1 - Podem ser submetidos pedidos de alteração às candidaturas até ao termo do período referido no n.º 1 do artigo anterior, os quais seguem os procedimentos previstos para a submissão e decisão das candidaturas.\n\n2 - Salvo casos excecionais devidamente fundamentados e comprovados, os pedidos de alteração às candidaturas aprovadas só podem ser submetidos até à data de apresentação do pedido de pagamento nos prazos previstos no artigo 13.º, não podendo, em qualquer caso, implicar um aumento do valor do apoio atribuído.\n\n3 - Nos pedidos de alteração submetidos nos termos dos números anteriores devem ainda ser consideradas as seguintes especificidades:\n\na) No caso de transmissão da titularidade, os transmissários devem reunir as condições para serem beneficiários, manter os pressupostos de aprovação da candidatura individual ou conjunta, e assumir os compromissos e as obrigações do beneficiário transmitente;\n\nb) No caso de um ou mais proponentes de uma candidatura agrupada ser excluído ou desistir ou apresentar um pedido de alteração da área, antes da apresentação do pedido de pagamento, a referida candidatura pode ser reformulada, desde que os restantes proponentes mantenham as condições mínimas de admissibilidade da candidatura agrupada, podendo para tal, excecionalmente, aqueles que ainda não tenham apresentado o pedido de pagamento, repor a área em falta.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+  },
+  "180030461": {
+   "fragment_id": "71047588",
+   "type": 11,
+   "heading": "Artigo 12.º — Decisão",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 12.º — Decisão\n\nA decisão de aprovação ou de rejeição da candidatura é comunicada aos candidatos, preferencialmente, através dos respetivos endereços eletrónicos inscritos no sistema de informação do IFAP, I.P., ou através do seu sítio da internet, na respetiva área reservada.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030462": {
+   "fragment_id": "71047589",
+   "type": 11,
+   "heading": "Artigo 13.º — Execução das medidas e apresentação dos pedidos de pagamento",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+   ],
+   "markdown": "###### Artigo 13.º — Execução das medidas e apresentação dos pedidos de pagamento\n\n1 - As candidaturas aprovadas em cada campanha vitivinícola devem:\n\na) Encontrar-se integralmente executadas até 30 de junho da campanha seguinte à da apresentação da candidatura e ser objeto dos correspondentes pedidos de pagamento das ajudas e da compensação financeira por perda de receita, sendo o caso, até àquela data, ou;\n\nb) Ser objeto, após o início da sua execução, de um pedido de pagamento antecipado das ajudas até 30 de junho da campanha seguinte à da apresentação da candidatura, mediante a prestação de uma garantia a favor do IFAP, I.P., de montante igual a 110% do valor das ajudas previstas, devendo as medidas específicas em causa encontrarem-se integralmente executadas até ao termo da segunda campanha vitivinícola após o pagamento do adiantamento.\n\n2 - No caso das candidaturas conjuntas, aos prazos de execução referidos nas alíneas a) e b) do número anterior acresce o período de uma campanha, com exceção das candidaturas referidas na subalínea ii) da alínea b) do artigo 6.º, a que acresce o período de duas campanhas, mas em qualquer caso, o prazo para apresentação do pedido de pagamento antecipado das ajudas é o referido na alínea b) do número anterior.\n\n3 - O prazo de apresentação dos pedidos de pagamento previstos nos números anteriores, não pode, em nenhum caso, ultrapassar 30 de junho de 2018.\n\n4 - Caso se verifique a impossibilidade de realização da plantação por motivos de profilaxia sanitária ou intempéries na parcela a reestruturar, mediante confirmação oficial da DRAP territorialmente competente, ao prazo de execução previsto na alínea b) do n.º 1, acresce o período de uma campanha.\n\n5 - Após a apresentação do pedido de pagamento, as ajudas relativas às candidaturas aprovadas são pagas aos viticultores, em cada ano, nas seguintes condições:\n\na) Depois de verificada a execução das medidas específicas; ou\n\nb) Após o início da execução da medida específica, mediante a prestação de uma garantia, nos termos da alínea b) do n.º 1, a qual é liberada no prazo máximo de 45 dias após a comunicação da conclusão da medida específica, desde que se verifique estar totalmente executada.\n\n6 - Sempre que circunstâncias especiais devidamente fundamentadas o determinem, e sem prejuízo do disposto no n.º 3 do presente artigo, o prazo de apresentação dos pedidos de pagamento pode ser prorrogado pelo IFAP, I. P., mediante autorização do membro do Governo responsável pela área da agricultura.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 219/2015 - Diário da República n.º 142/2015, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/portaria/219-2015-69866575), em vigor a partir de 2015-07-24"
+  },
+  "180030463": {
+   "fragment_id": "71047590",
+   "type": 11,
+   "heading": "Artigo 14.º — Controlo",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 14.º — Controlo\n\n1 - As verificações são efetuadas por meio de controlos administrativos e de controlos no local.\n\n2 - Os controlos administrativos são sistemáticos e incluem o cruzamento de informações, nomeadamente com dados do cadastro vitícola informatizado, do SIVV e do sistema integrado de gestão e de controlo.\n\n3 - O controlo no local antes da execução das operações pode limitar-se a 5 % dos pedidos, para confirmar a fiabilidade do sistema de controlo administrativo.\n\n4 - Após a execução das operações de reestruturação e reconversão de vinhas, os controlos no local ocorrem sistematicamente.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030464": {
+   "fragment_id": "71047591",
+   "type": 11,
+   "heading": "Artigo 15.º — Incumprimento das candidaturas",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+   ],
+   "markdown": "###### Artigo 15.º — Incumprimento das candidaturas\n\n1 - Sem prejuízo do disposto no n.º 4, aos viticultores que não cumpram os requisitos fixados no artigo 13.º não lhes é reconhecido o direito a qualquer ajuda nem compensação financeira, ficando os que beneficiaram de um pagamento antecipado das ajudas sujeitos à execução da garantia prestada, e os que auferiram compensação financeira obrigados à sua restituição, caso os projetos não se encontrem executados nos prazos estabelecidos.\n\n2 - Se o viticultor renunciar à antecipação do pagamento das medidas específicas, no prazo de três meses após a apresentação do pedido, deve restituir o valor da compensação financeira, se recebida, e a garantia prestada é liberada em 95% do seu montante, e em 85% do seu montante caso aquele prazo seja ultrapassado.\n\n3 - Se o viticultor renunciar à execução das medidas específicas após o pagamento da ajuda, fica obrigado a restituir o valor da compensação financeira e reembolsar o pagamento antecipado das ajudas, sendo a garantia liberada em 90% do seu montante, ou em 80%, caso a renúncia ocorra após o prazo de três meses depois do pagamento.\n\n4 - Sempre que, no âmbito do controlo, se constatar que:\n\na) A medida específica constante do pedido de ajuda não se encontra totalmente executada dentro do prazo previsto, a ajuda será paga em função do que foi efetivamente executado, desde que cumpridas as áreas mínimas previstas no anexo I;\n\nb) A medida específica constante do pedido de ajuda e objeto de pagamento antecipado não se encontra totalmente executada, dentro do prazo previsto:\n\ni) É devolvido o montante da ajuda recebida e não executada, desde que cumpridas as áreas mínimas previstas no anexo I;\n\nii) Quando a área executada for inferior em mais de 6% e 0,5 ha em relação à área aprovada, ao montante previsto na subalínea anterior acresce uma penalização de 5% sobre o montante total das ajudas para as medidas específicas em causa, a qual pode ser executada através da garantia.\n\n5 - Nos casos referidos nas alíneas a) e b) do número anterior em que se verifique que a execução foi inferior a 80 % da área objeto de candidatura, por causa imputável ao viticultor, este não poderá candidatar-se nas duas campanhas seguintes à campanha de apresentação do pedido de pagamento, ou, no caso de pagamentos antecipados, à comunicação da execução do investimento.\n\n6 - Nos casos de força maior ou em situações excecionais, na aceção do artigo 31.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0073\" title=\"Link para Regulamento da Comunidade Europeia\">73/2009</a>, do Conselho, de 19 de janeiro, não se aplica o disposto na alínea b) do n.º 4.\n\n7 - O disposto no n.º 4 é aplicável à compensação financeira por perda de receita, havendo lugar à sua recuperação em função da área que foi efetivamente executada, ou caso a referida compensação ainda não tenha sido paga, ao respetivo recálculo.\n\n8 - As candidaturas cujos investimentos foram executados e que por limitação orçamental não possam ser pagas no exercício financeiro em causa serão pagas no exercício financeiro seguinte.\n\n9 - No caso de candidaturas conjuntas, aplicam-se as regras referidas nos números anteriores por viticultor, e se a superfície efetivamente reestruturada for inferior a 80% da totalidade da área aprovada nessa candidatura, o apoio de 10% referido nos n.os 2.2 dos anexos II e III é retirado a todos os viticultores dessa candidatura, independentemente do facto de a inexecução se verificar apenas em relação a um deles.\n\n10 - No caso de incumprimento dos requisitos legais de gestão e das boas condições agrícolas e ambientais a que se refere o n.º 3 do artigo 19.º, verificado até três anos após o pagamento do apoio, e que resulte de um ato ou omissão diretamente imputável ao beneficiário, o montante do pagamento é reduzido ou cancelado, parcial ou totalmente, em função da gravidade, extensão, permanência e reiteração do incumprimento.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+  },
+  "180030465": {
+   "fragment_id": "71047592",
+   "type": 11,
+   "heading": "Artigo 16.º — Recuperação de pagamentos indevidos",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 16.º — Recuperação de pagamentos indevidos\n\n1 - O beneficiário fica obrigado a devolver os montantes considerados como indevidamente recebidos e a proceder ao pagamento das penalizações aplicadas, nos termos do artigo anterior e da regulamentação comunitária aplicável.\n\n2 - Os montantes indevidamente recebidos e o valor das penalizações aplicadas são restituídos e pagos ao IFAP, I.P., no prazo de 30 dias contados da notificação para o efeito, findo o qual são devidos juros de mora sobre os montantes em dívida.\n\n3 - A restituição e o pagamento referido no número anterior podem ser efetuados por execução da garantia constituída no âmbito do adiantamento do apoio, por compensação com quaisquer ajudas a que o beneficiário tenha direito a receber do IFAP, I.P., e/ou por pagamento voluntário ou coercivo.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030466": {
+   "fragment_id": "71047593",
+   "type": 11,
+   "heading": "Artigo 17.º — Isenção de apresentação de garantias",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 17.º — Isenção de apresentação de garantias\n\n1 - Os candidatos ficam isentos de apresentação da garantia a que se refere o n.º 3 do artigo 7.º sempre que o seu montante seja inferior a (euro) 500.\n\n2 - Na situação prevista no número anterior, o interessado compromete-se, por escrito, a pagar um montante equivalente ao que lhe seria exigido se tivesse constituído uma garantia e se, consequentemente, esta tivesse sido declarada adquirida total ou parcialmente.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030467": {
+   "fragment_id": "71047594",
+   "type": 11,
+   "heading": "Artigo 18.º — Formas de garantias",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 18.º — Formas de garantias\n\n1 - As garantias a prestar, nos termos do n.º 3 do artigo 7.º, podem assumir as formas de:\n\na) Garantia bancária ou seguro-caução prestados por entidade que se encontre inscrita no registo especial do Banco de Portugal ou na lista das instituições habilitadas a prestar serviços no país, publicada por aquele banco, nos termos dos artigos 65.º, 67.º e 68.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, republicado pelo Decreto-Lei n.º 1/2008, de 3 de janeiro, alterado pelo Decreto-Lei n.º 63-A/2013, de 10 de maio;\n\nb) Depósito em dinheiro, efetuado por transferência bancária ou através de cheque visado, de acordo com os artigos 12.º e 13.º do Regulamento de Execução (UE) n.º <a href=\"eurlex.asp?ano=2012&id=312R0282\" title=\"Link para Regulamento da Comunidade Europeia\">282/2012</a>, da Comissão, de 28 de março;\n\nc) Fundos bloqueados num banco, correspondentes a depósitos caução.\n\n2 - Considera-se equivalente às garantias referidas no número anterior o compromisso escrito das autoridades públicas candidatas à ajuda, no qual estas se comprometem a pagar o montante devido no caso de não ter sido comprovado o direito ao adiantamento.\n\n3 - As condições de prestação das garantias a que se refere a alínea b) do n.º 1 do artigo 13.º, encontram-se definidas no sítio da internet do IFAP, I.P.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030468": {
+   "fragment_id": "71047595",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 19.º — Obrigações\n\n1 - A parcela de vinha que tenha sido objeto de pagamento de ajudas no âmbito do regime de apoio deve ser mantida em exploração normal, pelo prazo mínimo de cinco anos, após a campanha da plantação, exceto se for objeto de expropriação por utilidade pública ou de arranque de profilaxia sanitária oficialmente confirmado.\n\n2 - O beneficiário não pode receber quaisquer outros apoios públicos para as ações e operações apoiadas ao abrigo do regime de apoio previsto na presente portaria.\n\n3 - Os beneficiários estão obrigados a respeitar as regras da condicionalidade, as quais envolvem cumulativamente:\n\na) O cumprimento dos requisitos legais de gestão aplicáveis à exploração, constantes do aviso publicado anualmente no Diário da República;\n\nb) A adoção de boas condições agrícolas e ambientais a que se refere o anexo II do Despacho Normativo n.º 7/2005, alterado e republicado pelo Despacho Normativo n.º 4/2012, de 2 de abril.\n\n4 - No caso de candidaturas agrupadas, previstas na subalínea iii) da alínea b) do n.º 1 do artigo 6.º, os candidatos ficam obrigados a proceder à entrega da sua produção a uma estrutura associativa ou empresa comercial, representante da agrupada, pelo prazo mínimo de cinco anos após a campanha de plantação.\n\n5 - Em caso de não cumprimento do disposto no número anterior por parte de algum viticultor fica o mesmo obrigado a devolver, por campanha em incumprimento, um terço do valor acrescido nos termos dos n.os 2.2 dos anexos II e III à presente portaria.\n\n6 - O disposto no número anterior aplica-se aos beneficiários que, a partir da data da entrada em vigor da presente portaria, não procedam à entrega da sua produção a uma estrutura associativa ou empresa comercial, representante da agrupada, nos termos definidos do n.º 4.\n\n7 - O beneficiário fica sujeito ao cumprimento das regras comunitárias e nacionais aplicáveis ao presente regime de apoio e a manter as condições de admissibilidade e de aprovação da candidatura.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030469": {
+   "fragment_id": "71047596",
+   "type": 11,
+   "heading": "Artigo 20.º — Entidades intervenientes",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 20.º — Entidades intervenientes\n\n1 - São entidades intervenientes no procedimento do regime de apoio, o IVV, I. P., que exerce as funções de entidade de gestão, o IFAP, I. P., que exerce funções de organismo pagador e as DRAP, que exercem as funções de entidades de controlo.\n\n2 - Compete ao IVV, I. P.:\n\na) Elaborar a regulamentação relativa à aplicação do regime de apoio;\n\nb) Proceder à abertura e respetivo aviso para apresentação de candidaturas;\n\nc) Coordenar e monitorizar a execução das atividades relacionadas com o regime de apoio;\n\nd) Promover a divulgação genérica do regime de apoio;\n\ne) Autorizar situações excecionais previstas no regime de apoio relativas a medidas específicas;\n\nf) Controlar o cumprimento do disposto no n.º 5 do artigo 19.º;\n\ng) Definir, em colaboração com o IFAP, I.P., os requisitos do sistema de informação que suporta o VITIS, no que se refere à produção de informação necessária ao acompanhamento da execução e à avaliação, de acordo com modelos padronizados, calendários, especificações técnicas e níveis de acesso previamente definidos;\n\nh) Colaborar com o IFAP, I.P., na definição dos procedimentos relativos à submissão e controlo da medida;\n\ni) Acompanhar as missões comunitárias de controlo realizadas ao organismo pagador;\n\nj) Assegurar a interlocução com as instâncias comunitárias, no Comité de Gestão e Grupo Conselho, no âmbito da Organização Comum dos Mercados Agrícolas;\n\nk) Remeter à Comissão os elementos a que se refere o artigo 35.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho.\n\n3 - Compete ao IFAP, I.P.:\n\na) Participar na divulgação do regime de apoio;\n\nb) Recolher as candidaturas no seu sistema de informação;\n\nc) Aprovar as normas complementares de suporte ao processo de pagamento;\n\nd) Proceder à análise e decisão das candidaturas e dos pedidos de pagamento;\n\ne) Realizar as ações de controlo administrativo;\n\nf) Coordenar as ações de controlo no local;\n\ng) Proceder ao pagamento das ajudas e compensações financeiras, até 15 de outubro de cada ano, decidir a recuperação de montantes indevidamente pagos e a aplicação de penalizações;\n\nh) Colaborar com o IVV, I.P., na elaboração da regulamentação relativa à aplicação do regime de apoio;\n\ni) Disponibilizar ao IVV, I.P., a informação necessária ao acompanhamento da execução e à avaliação da medida;\n\nj) Remeter ao IVV, I. P., até 15 de novembro de cada ano, os elementos a que se refere o anexo VIII-A do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho;\n\nk) Remeter ao IVV, I.P., até 31 de dezembro de cada ano, os elementos a que se referem os anexos VI e VII do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho;\n\nl) Exercer as demais funções de organismo pagador das despesas financiadas no âmbito desta medida, na aceção do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2005&id=305R1290\" title=\"Link para Regulamento da Comunidade Europeia\">1290/2005</a>, do Conselho, de 21 de junho, e do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R0885\" title=\"Link para Regulamento da Comunidade Europeia\">885/2006</a>, da Comissão, de 21 de junho;\n\nm) As competências previstas nas alíneas a), b), d) e e) podem ser delegadas, nos termos do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R0885\" title=\"Link para Regulamento da Comunidade Europeia\">885/2006</a>, da Comissão, de 21 de junho, e do Decreto-Lei n.º 22/2013, de 15 de fevereiro.\n\n4 - Compete às DRAP:\n\na) Participar na divulgação do regime de apoio;\n\nb) Emitir os pareceres técnicos previstos na alínea e) do artigo 2.º, do n.º 2 do artigo 9.º e do n.º 4 do artigo 13.º;\n\nc) Realizar as ações de controlo, no âmbito das suas competências;\n\nd) Exercer as demais funções e competências delegadas pelo IFAP, I.P., nos termos da alínea m) do número anterior.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030470": {
+   "fragment_id": "71047597",
+   "type": 11,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\n1 - O regime de concessão das ajudas previsto na Portaria n.º 1144/2008, de 10 de outubro, alterada pelas Portarias n.os 495-A/2010, de 13 de julho, 987/2010, de 28 de setembro, 281/2011, de 17 de outubro, e 313/2012, de 10 de outubro, aplica-se às operações de reestruturação em curso que tenham sido aprovadas ao abrigo desse regime, sem prejuízo do disposto no n.º 6 do artigo 19.º da presente portaria.\n\n2 - As candidaturas apresentadas ao abrigo da Portaria n.º 74/2013, de 15 de fevereiro, com a redação dada pela Portaria n.º 135/2013, de 28 de março, transitam para o regime de apoio aprovado pela presente portaria, podendo os candidatos adaptar as suas candidaturas à presente portaria até ao termo do prazo de submissão das candidaturas para a campanha 2014/2015.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030471": {
+   "fragment_id": "71047598",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 1144/2008, de 10 de outubro, alterada pelas Portarias n.os 495-A/2010, de 13 de julho, 987/2010, de 28 de setembro, 281/2011, de 17 de outubro, e 313/2012, de 10 de outubro, sem prejuízo do n.º 1 do artigo anterior;\n\nb) A Portaria n.º 74/2013, de 15 de fevereiro, com a redação dada pela Portaria n.º 135/2013, de 28 de março.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030472": {
+   "fragment_id": "71047599",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nO Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 4 de dezembro de 2013.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030473": {
+   "fragment_id": "71047600",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 5.º)",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 5.º)\n\nÁreas elegíveis\n\n1 - Áreas mínimas:\n\n1.1 - Da parcela de vinha a reestruturar ou dos direitos de replantação a utilizar - sem limite;\n\n1.2 - Da parcela de vinha ou conjunto de parcelas de vinhas contíguas reestruturadas - 0, 30 ha;\n\n1.3 - Das parcelas/talhões, reenxertadas e sobreenxertadas - 0,50 ha\n\n1.4 - Das parcelas reestruturadas, em candidaturas conjuntas - 2,0 ha\n\n2 - Áreas máximas:\n\nDa parcela de vinha ou conjunto de parcelas de vinhas contíguas reestruturadas - sem limite.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  },
+  "180030474": {
+   "fragment_id": "71047601",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 7.º)",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+   ],
+   "markdown": "## Anexo II — (a que se refere a alínea a) do n.º 1 do artigo 7.º)\n\nValores unitários das ajudas para regiões de convergência\n\n1 - Melhoria das infraestruturas fundiárias:\n\n1.1 - Drenagem de águas superficiais do terreno, quando, em função da geometria e do declive da parcela, se justificar a execução de valas artificiais, de valetas em meias manilhas, a colocação de manilhas ou de tubos em PVC e a construção de valetas em pedra:\n\ni) Execução de valas artificiais - (euro) 2,10/m3;\n\nii) Valetas em meias manilhas - (euro) 7,10/m;\n\niii) Colocação de manilhas ou de tubos em PVC - (euro) 8,07/m;\n\niv) Construção de valetas em pedra, com secção mínima de 0,06 m2 - (euro) 12,50/m.\n\n1.2 - Reconstrução de muros de uma armação do terreno preexistente ou construção de muros nas restantes sistematizações do terreno quando, justificadamente, estiver em causa a sua estabilidade ou a preservação do solo:\n\ni) Construção ou reconstrução de muros em alvenaria de pedra - (euro) 164/m3;\n\nii) Construção de muros em gabião - (euro) 42,50/m3.\n\n1.3 - As ações descritas nos n.os 1.1 e 1.2 são limitadas a 15% e 20%, respetivamente, do valor total da ajuda prevista para a «Instalação da vinha» e a 30% relativamente à ação 1.2 quando se tratar de muros em pedra posta na região do Douro;\n\n1.4 - Nas candidaturas conjuntas, as ajudas previstas nos n.os 1.1 e 1.2 são limitadas a 30% do valor total da «Instalação de vinha», prevista para esta situação;\n\n1.5 - As candidaturas que incluam a ação «Melhoria das infraestruturas fundiárias», apenas são consideradas desde que efetuadas em parcelas de propriedade do candidato ou mediante apresentação de autorização do respetivo proprietário.\n\n2 - Instalação da vinha:\n\n(ver documento original)\n\n2.1 - Os valores unitários da ajuda correspondentes à «Instalação da vinha» são reduzidos em 5% relativamente às áreas reestruturadas com base em direitos de replantação adquiridos por transferência, por direitos de plantação atribuídos a partir da reserva do território do continente, ou quando o arranque da vinha de compensação é efetuado em data anterior aos prazos estabelecidos nos n.os 1 e 2 do artigo 8.º da presente Portaria.\n\n2.2 - Nas candidaturas conjuntas, as ajudas previstas são acrescidas em 10%.\n\n3 - Sobreenxertia ou reenxertia: é atribuída uma ajuda de 3.000 euros/ha\n\n4 - A densidade, expressa em número de plantas por hectare, é calculada em função do compasso de plantação utilizado.\n\n5 - Entende-se por «alteração do perfil do terreno» a realização de grandes movimentações de terras, prévias ao trabalho de surriba, que modifiquem o declive natural das encostas através da abertura sistemática de terraços ou de terraços de trabalho para instalação de vinhas ao alto, permitam mecanizar as operações culturais ou combater os riscos de erosão, não decorram apenas de correções pontuais do declive das encostas e:\n\ni) Sejam efetuadas em parcelas com um declive igual ou superior a 15% em pelo menos 50% da sua área total; ou\n\nii) Quando a parcela possua mais de 50% da sua superfície com declive inferior a 15%, a ajuda será calculada em função da respetiva repartição, «com» e «sem» alteração do perfil.\n\n6 - No caso da Região Demarcada do Douro a alteração do perfil com terraceamento ou manutenção dos socalcos do Douro aplica-se, independentemente do declive, à abertura sistemática de terraços, ou de terraços de trabalho para instalação de vinhas ao alto, ou manutenção dos socalcos do Douro, em pelo menos 50% da sua área total, entendendo-se por socalcos do Douro plataformas horizontais ou inclinadas suportadas por muros em pedra posta.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 67/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/67-2014-571899), em vigor a partir de 2014-03-13"
+  },
+  "180032775": {
+   "fragment_id": "71047602",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere a alínea a) do n.º 1 do artigo 7.º)",
+   "in_force_from": "2016-12-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+   ],
+   "markdown": "## Anexo III — (a que se refere a alínea a) do n.º 1 do artigo 7.º)\n\nValores unitários das ajudas para regiões de competitividade regional e do emprego\n\n1 - Melhoria das infraestruturas fundiárias:\n\n1.1 - Drenagem de águas superficiais do terreno, quando, em função da geometria e do declive da parcela, se justificar a execução de valas artificiais, de valetas em meias manilhas, a colocação de manilhas ou de tubos em PVC e a construção de valetas em pedra:\n\ni) Execução de valas artificiais - (euro) 1,47/m3;\n\nii) Valetas em meias manilhas - (euro) 4,73/m;\n\niii) Colocação de manilhas ou de tubos em PVC - (euro) 5,38/m;\n\niv) Construção de valetas em pedra, com secção mínima de 0,06 m2 - (euro) 8,33/m.\n\n1.2 - Reconstrução de muros de uma armação do terreno preexistente, ou construção de muros nas restantes sistematizações do terreno, quando, justificadamente, estiver em causa a sua estabilidade ou a preservação do solo:\n\ni) Construção ou reconstrução de muros em alvenaria de pedra - (euro) 109,33/m3;\n\nii) Construção de muros em gabião - (euro) 28,33/m3.\n\n1.3 - As ações descritas nos n.os 1.1 e 1.2 são limitadas a 15% e 20%, respetivamente, do valor total da ajuda prevista para a «Instalação da vinha»;\n\n1.4 - Nas candidaturas conjuntas, as ajudas previstas nos n.os 1.1 e 1.2 são limitadas a 30% do valor total da «Instalação de vinha», prevista para esta situação;\n\n1.5 - As candidaturas que incluam a ação «Melhoria das infraestruturas fundiárias», apenas são consideradas desde que efetuadas em parcelas de propriedade do candidato ou mediante apresentação de autorização do respetivo proprietário.\n\n2 - Instalação da vinha:\n\n(ver documento original)\n\n2.1 - Os valores unitários da ajuda correspondentes à «Instalação da vinha» são reduzidos em 5% relativamente às áreas reestruturadas com base em direitos de replantação adquiridos por transferência, por direitos de plantação atribuídos a partir da reserva do território do continente, ou quando o arranque da vinha de compensação é efetuado em data anterior aos prazos estabelecidos nos n.os 1 e 2 do artigo 8.º, da presente Portaria.\n\n2.2 - Nas candidaturas conjuntas, as ajudas previstas são acrescidas em 10%.\n\n3 - Sobreenxertia ou reenxertia: é atribuída uma ajuda de 1.900 euros/ha.\n\n4 - A densidade, expressa em número de plantas por hectare, é calculada em função do compasso de plantação utilizado.\n\n5 - Entende-se por «alteração do perfil do terreno» a realização de grandes movimentações de terras, prévias ao trabalho de surriba, que modifiquem o declive natural das encostas através da abertura sistemática de terraços ou de terraços de trabalho para instalação de vinhas ao alto, permitam mecanizar as operações culturais ou combater os riscos de erosão, não decorram apenas de correções pontuais do declive das encostas e:\n\ni) Sejam efetuadas em parcelas com um declive igual ou superior a 15% em pelo menos 50% da sua área total; ou\n\nii) Quando a parcela possua mais de 50% da sua superfície com declive inferior a 15%, a ajuda será calculada em função da respetiva repartição, «com» e «sem» alteração do perfil.\n\n> Revogado pelo/a Artigo 21.º do/a [Portaria n.º 320/2016 - Diário da República n.º 240/2016, Série I de 2016-12-16](https://diariodarepublica.pt/dr/detalhe/portaria/320-2016-105371772), em vigor a partir de 2016-12-17"
+  }
+ }
+}

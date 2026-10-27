@@ -1,0 +1,830 @@
+---
+schema_version: '1.0'
+id: eu:celex:32008L0105:por
+title: Directiva 2008/105/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008
+short_title: null
+summary: Directiva 2008/105/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008 , relativa a normas de qualidade
+  ambiental no domínio da política da água, que altera e subsequentemente revoga as Directivas 82/176/CEE, 83/513/CEE, 84/156/CEE,
+  84/491/CEE e 86/280/CEE do Conselho, e que altera a Directiva 2000/60/CE
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+- Parlamento Europeu
+proposing_entity: null
+official_number: 2008/105
+official_date: null
+publication_date: '2008-12-24'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 348 de 24.12.2008
+  number: '348'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/66d82696-784f-4a55-9060-678e1076ae7d.0018.01/DOC_1
+entry_into_force_dates:
+- '2009-01-13'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2026-05-10'
+version_history:
+  file: diretiva-ue-2008-105.versoes.json
+  count: 3
+  source_lastmod: '2026-05-10'
+  versions:
+  - date: '2008-12-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-09-13'
+    amending: eu:celex:32013L0039:por
+    amending_title: DIRETIVA 2013/39/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 12 de agosto
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Normas de qualidade ambiental
+    - Altera Artigo 4.º — Zonas de mistura
+    - Altera Artigo 5.º — Inventário de emissões, descargas e perdas
+    - Altera Artigo 9.º — Procedimento de comité
+    - Altera Artigo 15.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 7.º-A — Coordenação
+    - Adita Artigo 8º — Revisão do Anexo X da Diretiva 2000/60/CE
+    - Adita Artigo 8º-A — Disposições específicas para certas substâncias
+    - Adita Artigo 8º-B — Lista de vigilância
+    - Adita Artigo 8º-C — Disposições específicas para substâncias farmacêuticas
+    - Adita Artigo 9.º-A — Exercício da delegação
+    - Adita ANEXO I
+    - Adita NORMAS DE QUALIDADE AMBIENTAL E OUTROS POLUENTES
+    - 'Adita PARTE A: NORMAS DE QUALIDADE AMBIENTAL (NQA)'
+    - 'Adita PARTE B: APLICAÇÃO DAS NQA ESTABELECIDAS NA PARTE A'
+    - Suprime Artigo 8.º — Revisão do Anexo X da Directiva 2000/60/CE
+  - date: '2026-05-10'
+    amending: eu:celex:32026L0805:por
+    amending_title: DIRETIVA (UE) 2026/805 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Normas de qualidade ambiental
+    - Altera Artigo 7.º-A — Coordenação
+    - Altera Artigo 9.º — Procedimento de comité
+    - Altera Artigo 9.º-A — Exercício da delegação
+    - 'Altera PARTE B: APLICAÇÃO DAS NQA ESTABELECIDAS NA PARTE A'
+    - Altera Notas
+    - Adita Artigo 5.º
+    - Adita Artigo 8.º
+    - Adita Artigo 8.º-A
+    - Adita Artigo 8.º-B
+    - Adita Artigo 8.º-D
+    - Adita NORMAS DE QUALIDADE AMBIENTAL (NQA) PARA AS SUBSTÂNCIAS PRIORITÁRIAS NAS ÁGUAS DE SUPERFÍCIE
+    - 'Adita PARTE A: NORMAS DE QUALIDADE AMBIENTAL'
+    - Adita ANEXO II
+    - Adita NORMAS DE QUALIDADE AMBIENTAL PARA OS POLUENTES ESPECÍFICOS DAS BACIAS HIDROGRÁFICAS
+    - 'Adita PARTE A: LISTA INDICATIVA DE CATEGORIAS DE POLUENTES ESPECÍFICOS DAS BACIAS HIDROGRÁFICAS'
+    - 'Adita PARTE B: PROCEDIMENTO PARA DERIVAR AS NORMAS DE QUALIDADE AMBIENTAL PARA OS POLUENTES ESPECÍFICOS DAS BACIAS
+      HIDROGRÁFICAS'
+    - 'Adita PARTE C: REPOSITÓRIO DE NORMAS DE QUALIDADE AMBIENTAL HARMONIZADAS PARA OS POLUENTES ESPECÍFICOS DAS BACIAS HIDROGRÁFICAS'
+    - Adita ANEXO III
+    - Adita SUBSTÂNCIAS SUJEITAS A REVISÃO PARA EVENTUAL IDENTIFICAÇÃO COMO SUBSTÂNCIAS PRIORITÁRIAS
+    - Suprime Artigo 5.º — Inventário de emissões, descargas e perdas
+    - Suprime Artigo 8º — Revisão do Anexo X da Diretiva 2000/60/CE
+    - Suprime Artigo 8º-A — Disposições específicas para certas substâncias
+    - Suprime Artigo 8º-B — Lista de vigilância
+    - Suprime Artigo 10.º — Alteração da Directiva 2000/60/CE
+    - Suprime NORMAS DE QUALIDADE AMBIENTAL E OUTROS POLUENTES
+    - 'Suprime PARTE A: NORMAS DE QUALIDADE AMBIENTAL (NQA)'
+identifiers:
+  celex: 32008L0105
+  eli: http://data.europa.eu/eli/dir/2008/105/oj
+  oj: oj:JOL_2008_348_R_0084_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32008L0105:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32008L0105
+  metadata_url: http://publications.europa.eu/resource/cellar/66d82696-784f-4a55-9060-678e1076ae7d.0018
+  content_url: http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0105-20260510
+  retrieved_at: '2026-10-22T15:13:28Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-10-30T21:22:17.012+01:00'
+integrity:
+  source_sha256: 816748ceb30aa2cc3ec731b65a151246a48470eb42f5ed355d3b67fbbb260f44
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:28Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2008-105.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- controlo da poluição
+- norma ambiental
+- poluição da água
+- produto químico
+- proteção das águas
+- qualidade do ambiente
+- água superficial
+relationships:
+- type: amended_by
+  target: celex:32013L0039
+  label: null
+  source: http://publications.europa.eu/resource/cellar/296e91b8-4610-11e3-ae03-01aa75ed71a1
+  date: '2013-11-05'
+- type: amended_by
+  target: celex:32026L0805
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d197a5b1-3c51-11f1-814f-01aa75ed71a1
+  date: '2026-04-20'
+- type: amends
+  target: celex:31982L0176
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9985e70e-134c-4179-95f2-8f2d2ce6095e
+  date: '1982-03-27'
+- type: amends
+  target: celex:31983L0513
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5165e22d-2235-4176-bbaa-e8cf2cba1b66
+  date: '1983-10-24'
+- type: amends
+  target: celex:31984L0156
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5ccb14a6-77a3-4e66-b65b-7723ba42d7e2
+  date: '1984-03-17'
+- type: amends
+  target: celex:31984L0491
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ee8040a9-af5c-4462-b4cd-9f988f786301
+  date: '1984-10-17'
+- type: amends
+  target: celex:32000L0060
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5c835afb-2ec6-4577-bdf8-756d3d694eeb
+  date: '2000-10-23'
+- type: based_on
+  target: celex:12006E175
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1923204d-4c33-4a1d-b0f3-3d5e8a226f7f
+  date: '2007-01-31'
+- type: based_on
+  target: celex:12006E251
+  label: null
+  source: http://publications.europa.eu/resource/cellar/171e521a-3ffe-46ac-90eb-ed97dbb7dcd2
+  date: '2007-01-31'
+- type: cited_by
+  target: pt:dre:70476206:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:75701996:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31967L0548
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8e12a450-cb71-4356-bd3b-8a9f980208a0
+- type: cites
+  target: celex:31976L0464
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2efc093a-eba8-4834-8ae6-c91d6c47db78
+- type: cites
+  target: celex:31991L0414
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c2514307-b9a4-4a7b-9f36-a9f3662df21b
+- type: cites
+  target: celex:31993L0067
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1b5257d9-fe8c-4071-9c79-d0b9a8079b8b
+- type: cites
+  target: celex:31998L0008
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dd121338-803b-4793-b8bd-6db66b18104a
+- type: cites
+  target: celex:31999D0468
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f9830283-df4c-4576-b043-875dce0385ce
+- type: cites
+  target: celex:32001D2455
+  label: null
+  source: http://publications.europa.eu/resource/cellar/309e2a94-6831-4bac-b15b-a9cac54cbae0
+- type: cites
+  target: celex:32002D1600
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4263f8fc-f705-4176-b54e-d8f63700c1a0
+- type: cites
+  target: celex:32006R1907
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5a380587-970b-46c6-80b0-985dd1d4812d
+- type: cites
+  target: celex:32008L0001
+  label: null
+  source: http://publications.europa.eu/resource/cellar/72d5da67-0af9-4aa9-911a-df3f940c1409
+- type: corrected_by
+  target: celex:32008L0105R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9396718f-04c7-11e3-a352-01aa75ed71a1
+  date: '2013-08-14'
+- type: corrected_by
+  target: celex:32008L0105R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/78579c57-c71b-11e5-a4b5-01aa75ed71a1
+  date: '2016-01-30'
+- type: implicitly_repeals
+  target: celex:31988L0347
+  label: null
+  source: http://publications.europa.eu/resource/cellar/62084ccf-044c-43fb-a9fb-9427028a636a
+  date: '1988-06-25'
+- type: implicitly_repeals
+  target: celex:31990L0415
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b62d8091-91d7-49e1-9fd3-bb5032f3c8dd
+  date: '1990-08-14'
+- type: repeals
+  target: celex:31982L0176
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9985e70e-134c-4179-95f2-8f2d2ce6095e
+  date: '1982-03-27'
+- type: repeals
+  target: celex:31983L0513
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5165e22d-2235-4176-bbaa-e8cf2cba1b66
+  date: '1983-10-24'
+- type: repeals
+  target: celex:31984L0156
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5ccb14a6-77a3-4e66-b65b-7723ba42d7e2
+  date: '1984-03-17'
+- type: repeals
+  target: celex:31984L0491
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ee8040a9-af5c-4462-b4cd-9f988f786301
+  date: '1984-10-17'
+- type: repeals
+  target: celex:31986L0280
+  label: null
+  source: http://publications.europa.eu/resource/cellar/792c242d-4946-480a-b00e-8aeb9a19dab2
+  date: '1986-07-04'
+- type: transposed_by
+  target: pt:dre:342131:por
+  label: null
+  source: null
+article_structure:
+  article_count: 20
+  section_count: 12
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T15:13:28Z'
+  warnings: []
+  errors: []
+---
+
+# Directiva 2008/105/CE do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008
+
+de 16 de dezembro de 2008
+
+relativa a normas de qualidade ambiental e à prevenção e controlo da poluição das águas de superfície, que altera e subsequentemente revoga as Diretivas 82/176/CEE, 83/513/CEE, 84/156/CEE, 84/491/CEE e 86/280/CEE do Conselho, e que altera a Diretiva 2000/60/CE do Parlamento Europeu e do Conselho
+
+###### Artigo 1.º — Objecto
+
+A presente directiva estabelece normas de qualidade ambiental (NQA) para substâncias prioritárias e para outros poluentes, como previsto no artigo 16.º da Directiva 2000/60/CE, a fim de alcançar um bom estado químico das águas de superfície e em conformidade com as disposições e objectivos do artigo 4.º dessa directiva.
+
+###### Artigo 2.º — Definições
+
+Para efeitos da presente diretiva, são aplicáveis as definições estabelecidas no artigo 2.º da Diretiva 2000/60/CE e no artigo 2.º da Diretiva 2009/90/CE da Comissão, de 31 de julho de 2009, que estabelece, nos termos da Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, especificações técnicas para a análise e monitorização químicas do estado da água ([^1^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0001)).
+
+São ainda aplicáveis as seguintes definições:
+
+1) «Matriz»: um compartimento (água, sedimentos ou biota) do meio aquático;
+
+2) «Táxon do biota»: um determinado táxon aquático com o grau taxonómico de «sub-filo», «classe» ou equivalente;
+
+3) «indicador de poluição»: um parâmetro que pode ser monitorizado para dar um valor representativo do nível ou da concentração de um poluente ou de um grupo de poluentes e, por conseguinte, do risco que representam.
+
+###### Artigo 3.º — Normas de qualidade ambiental
+
+1. Sem prejuízo do n.º 1-A, os Estados-Membros aplicam as NQA estabelecidas no Anexo I, Parte A, às massas de água de superfície, e aplicam essas NQA de acordo com os requisitos previstos no Anexo I, Parte B.
+
+1-A.
+
+Sem prejuízo das obrigações decorrentes da presente diretiva na sua versão em vigor em 13 de janeiro de 2009, em especial a de alcançar um bom estado químico das águas de superfície no que respeita às substâncias e NQA nela enumeradas, os Estados-Membros aplicam as NQA estabelecidas no Anexo I, Parte A, em relação:
+
+i) às substâncias n.^os^ 2, 5, 15, 20, 22, 23 e 28, do Anexo I, Parte A, para as quais são estabelecidas NQA revistas com efeitos a partir de 22 de dezembro de 2015, a fim de alcançar um bom estado químico das águas de superfície no que se refere a essas substâncias até 22 de dezembro de 2021 através de programas de medidas previstas nos planos de gestão das bacias hidrográficas, elaborados nos termos do artigo 13.º, n.º 7, da Diretiva 2000/60/CE, para 2015, e
+
+ii) às substâncias n.^os^ 34 a 45 do Anexo I, Parte A, recentemente identificadas com efeitos a partir de 22 de dezembro de 2018 a fim de alcançar um bom estado químico das águas de superfície no que se refere a essas substâncias até 22 de dezembro de 2027 e de evitar a deterioração do estado químico das massas de água de superfície no que diz respeito a essas substâncias. Para o efeito, até 22 de dezembro de 2018, os Estados-Membros estabelecem e apresentam à Comissão um programa de monitorização complementar e um programa preliminar de medidas que abranjam estas substâncias. Nos termos do artigo 11.º da Diretiva 2000/60/CE deve ser estabelecido um programa final de medidas até 22 de dezembro de 2021, o qual deve ser aplicado e estar plenamente operacional o mais rapidamente possível após essa data e pelo menos até 22 de dezembro de 2024;
+
+iii) às substâncias n.^os^ 5, 9, 13, 15, 17, 21, 23, 24, 28, 30, 34, 37, 41 e 43, da parte A, do anexo I para as quais são estabelecidas NQA revistas com efeitos a partir de 22 de dezembro de 2027, a fim de alcançar um bom estado químico das águas de superfície no que se refere a essas substâncias até 22 de dezembro de 2033 e de evitar a deterioração do estado químico das massas de águas de superfície no que diz respeito a essas substâncias através de programas de medidas previstas nos planos de gestão das bacias hidrográficas de 2027, elaborados nos termos do artigo 13.º, n.º 7, da Diretiva 2000/60/CE;
+
+iv) às substâncias recentemente identificadas e numeradas de 46 a 70 na parte A, do anexo I com efeitos a partir de 22 de dezembro de 2027, a fim de alcançar um bom estado químico das águas de superfície no que se refere a essas substâncias até 22 de dezembro de 2039 e de evitar a deterioração do estado químico das massas de água de superfície no que diz respeito a essas substâncias; para esse efeito, os Estados-Membros estabelecem, até 22 de dezembro de 2027, um programa de monitorização complementar e, até 22 de dezembro de 2030, um programa preliminar de medidas que abranjam essas substâncias; nos termos do artigo 11.º da Diretiva 2000/60/CE, é incluído um programa final de medidas no plano de gestão de bacia hidrográfica para 2033, elaborados nos termos do artigo 13.º, n.º 7, da referida diretiva.
+
+O artigo 4.º, n.^os^ 4 a 9, da Diretiva 2000/60/CE é aplicável, com as necessárias adaptações, às substâncias enumeradas nas alíneas i) e ii) do primeiro parágrafo do presente número.
+
+O artigo 4.º, n.^os^ 4 a 9, da Diretiva 2000/60/CE é aplicável, com as necessárias adaptações, às substâncias enumeradas nas alíneas iii) e iv) do primeiro parágrafo do presente número. No que diz respeito às prorrogações de prazo previstas no artigo 4.º, n.º 4, dessa diretiva, estas devem ser limitadas, no máximo, a uma nova atualização do plano de gestão de bacia hidrográfica, exceto nos casos em que as condições naturais sejam tais que os objetivos não possam ser alcançados durante esse período de vigência do plano de gestão de bacia hidrográfica.
+
+1-B. A NQA estabelecida a nível da União para poluentes específicos das bacias hidrográficas nos termos do artigo 16.º, n.º 4, da Diretiva 2000/60/CE e enumerada na parte C do anexo II da presente diretiva, ou poluentes adicionais específicos das bacias hidrográficas e NQA correspondentes identificados pelos Estados-Membros nos termos do artigo 8.º-D, n.º 1 da presente diretiva, produzem efeitos a partir do início do período de vigência do plano de gestão de bacia hidrográfica que começa após a data em que a NQA foi estabelecida, a fim de alcançar um bom estado químico das águas de superfície no que se refere a esses poluentes até ao final desse mesmo período de vigência do plano de gestão de bacia hidrográfica e de evitar a deterioração do estado químico das massas de águas de superfície no que diz respeito a esses poluentes.
+
+O artigo 4.º, n.^os^ 4 a 9, da Diretiva 2000/60/CE é aplicável, com as necessárias adaptações, aos poluentes a que refere primeiro parágrafo do presente número. No que diz respeito às prorrogações de prazo previstas no artigo 4.º, n.º 4, dessa diretiva, estas devem ser limitadas, no máximo, a uma nova atualização do plano de gestão de bacia hidrográfica, exceto nos casos em que as condições naturais sejam tais que os objetivos não possam ser alcançados durante esse período de vigência do plano de gestão de bacia hidrográfica.
+
+2. No que diz respeito às substâncias para as quais a parte A, do anexo I estabelece uma NQA para a biota ou os sedimentos, os Estados-Membros aplicam essa NQA para a biota ou os sedimentos.
+
+No que diz respeito às substâncias não abrangidas pelo primeiro parágrafo, os Estados-Membros aplicam as NQA para as águas de superfície estabelecidas na parte A, do anexo I.
+
+3. Os Estados-Membros podem optar, no que se refere a uma ou mais categorias de águas de superfície, por aplicar NQA correspondentes a matrizes diferentes das indicadas no n.º 2 ou, se for caso disso, correspondentes a uma taxa do biota diferentes dos indicados no Anexo I, Parte A.
+
+Os Estados-Membros que recorram à possibilidade referida no primeiro parágrafo aplicam a NQA correspondente estabelecida no Anexo I, Parte A, ou, se nenhuma NQA estiver aí estabelecida para a matriz ou o táxon do biota, estabelecem uma NQA que proporcione, pelo menos, o mesmo nível de proteção que a NQA prevista no Anexo I, Parte A.
+
+Os Estados-Membros só podem recorrer à possibilidade referida no primeiro parágrafo se o método de análise utilizado para a matriz ou o táxon do biota escolhido cumprir os critérios de desempenho mínimo definidos no artigo 4.º da Diretiva 2009/90/CE. Se estes critérios não forem cumpridos no caso de uma determinada matriz, os Estados-Membros garantem que a monitorização seja efetuada utilizando as melhores técnicas disponíveis e que não impliquem custos excessivos e que o desempenho do método de análise seja pelo menos equivalente ao método disponível para a matriz indicada no n.º 2 do presente artigo para a substância em causa.
+
+3-A. Caso tenha sido identificado um risco potencial para o meio aquático, ou por intermédio deste, resultante de uma exposição aguda, com base nas concentrações ou emissões medidas ou estimadas no ambiente e caso uma NQA para o biota ou os sedimentos seja aplicada, os Estados-Membros asseguram-se de que são efetuadas monitorizações na água de superfície e aplicam as NQA-CMA constantes do Anexo I, Parte A, da presente diretiva se essas NQA tiverem sido estabelecidas.
+
+3-B. Se, nos termos do artigo 5.º da Diretiva 2009/90/CE, o valor médio calculado dos resultados de uma medição, realizada utilizando a melhor técnica disponível e que não implique custos excessivos, for considerado "inferior ao limite de quantificação", e o limite de quantificação dessa técnica for superior à NQA, o resultado obtido para a substância objeto de medições não é tido em conta para efeitos da avaliação do estado químico geral da massa de água em questão.
+
+4. No caso das substâncias às quais se aplique uma NQA para os sedimentos ou o biota, ou ambos, os Estados-Membros monitorizam a substância na matriz em causa pelo menos uma vez por ano, salvo se os conhecimentos técnicos e o parecer dos peritos justificarem outra periodicidade.
+
+5.
+
+Nas atualizações dos planos de gestão de bacia hidrográfica efetuadas nos termos do artigo 13.º, n.º 7, da Diretiva 2000/60/CE, os Estados-Membros devem incluir os seguintes elementos:
+
+a) Um quadro com os limites de quantificação dos métodos de análise aplicados e elementos referentes ao desempenho desses métodos relativamente aos critérios de desempenho mínimo definidos no artigo 4.º da Diretiva 2009/90/CE;
+
+b) No que respeita às substâncias relativamente às quais tenham recorrido à possibilidade prevista no n.º 3 do presente artigo:
+
+i) as razões e fundamentos dessa opção,
+
+ii) se relevante, as NQA alternativas estabelecidas, a prova de que o grau de proteção que essas NQA conferem é, pelo menos, idêntico ao das NQA previstas no Anexo I, Parte A, incluindo os dados e a metodologia utilizados para determinar as NQA e as categorias de águas de superfície às quais se aplicam,
+
+iii) para comparação com os elementos referidos na alínea a) do presente número, os limites de quantificação dos métodos de análise utilizados para as matrizes especificadas no Anexo I, Parte A, da presente diretiva, incluindo referência ao desempenho desses métodos relativamente aos critérios de desempenho mínimo definidos no artigo 4.º da Diretiva 2009/90/CE;
+
+c) A justificação da frequência da monitorização aplicada nos termos do n.º 4, caso os intervalos entre monitorizações excedam um ano.
+
+5-A. Os Estados-Membros tomam as medidas necessárias para garantir que os planos atualizados de gestão das bacias hidrográficas, apresentados nos termos do artigo 13.º, n.º 7 da Diretiva 2000/60/CE, que contêm os resultados e o impacto das medidas adotadas para prevenir a poluição das águas de superfície, e o relatório intercalar que dá conta dos progressos registados na execução do programa de medidas previsto nos termos do artigo 15.º, n.º 3, da Diretiva 2000/60/CE sejam disponibilizados eletronicamente através de um portal Internet central acessível ao público nos termos do artigo 7.º, n.º 1, da Diretiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de janeiro de 2003, relativa ao acesso do público às informações sobre ambiente ([^2^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0002)).
+
+6. Os Estados-Membros velam por que se proceda à análise das tendências a longo prazo das concentrações das substâncias prioritárias identificadas no parte A, do anexo I, como substâncias que tendem a acumular-se nos sedimentos ou na biota, com base na monitorização dos sedimentos ou da biota no âmbito da monitorização do estado das águas de superfície efetuada de acordo com o artigo 8.º da Diretiva 2000/60/CE. Os Estados-Membros tomam medidas destinadas a garantir que, sem prejuízo do artigo 4.º da Diretiva 2000/60/CE, essas concentrações não aumentam significativamente nos sedimentos ou na biota.
+
+Os Estados-Membros determinam a frequência da monitorização nos sedimentos ou no biota, ou em ambos, de modo que se disponha de dados suficientes para uma análise fiável das tendências a longo prazo. A título indicativo, a monitorização deverá realizar-se de três em três anos, salvo se os conhecimentos técnicos e o parecer dos peritos justificarem outra periodicidade.
+
+8. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 9.º-A para alterar a parte B, ponto 3, do anexo I, a fim de o adaptar ao progresso científico e técnico.
+
+8-A. A fim de facilitar a execução do presente artigo, são elaboradas, no âmbito do processo de execução vigente da Diretiva 2000/60/CE e na medida do possível até 22 de dezembro de 2014, orientações técnicas para as estratégias de monitorização e os métodos analíticos aplicáveis às substâncias, incluindo a amostragem e monitorização do biota.
+
+As orientações dizem nomeadamente respeito:
+
+a) À monitorização de substâncias no biota, tal como previsto nos n.^os^ 2 e 3 do presente artigo;
+
+b) No caso das substâncias recentemente identificadas (n.^os^ 34 a 35 do Anexo I, Parte A) e das substâncias para as quais foram estabelecidas NQA revistas mais estritas (n.^os^ 2, 5, 15, 20, 22, 23 e 28 do Anexo I, Parte A), a métodos analíticos que cumpram os critérios de desempenho mínimo previstos no artigo 4.º da Diretiva 2009/90/CE.
+
+8-B. No caso das substâncias para as quais não tenham sido adotadas orientações técnicas até 22 de dezembro de 2014, o prazo fixado no artigo 3º, n.º 1-A, alínea i), é prorrogado de 22 de dezembro de 2015 para 22 de dezembro de 2018 e o prazo fixado nessa alínea é prorrogado de 22 de dezembro de 2021 para 22 de dezembro de 2027.
+
+###### Artigo 4.º — Zonas de mistura
+
+1. Os Estados-Membros podem designar zonas de mistura adjacentes aos pontos de descarga. As concentrações de uma ou mais substâncias indicadas na parte A do Anexo I podem exceder as NQA nessas zonas de mistura se não afectarem a conformidade das restantes massas de água de superfície com essas normas.
+
+2.
+
+Os Estados-Membros que designem zonas de mistura devem incluir nos planos de gestão das bacias hidrográficas elaborados de acordo com o artigo 13.º da Directiva 2000/60/CE uma descrição:
+
+a) Das abordagens e dos métodos aplicados para determinar tais zonas, e
+
+b) Das medidas tomadas para reduzir a dimensão das zonas de mistura no futuro, tais como as previstas na alínea k) do n.º 3 do artigo 11.º da Directiva 2000/60/CE, ou uma reavaliação das licenças referidas na Directiva 2008/1/CE ou dos regulamentos anteriores referidos na alínea g) do n.º 3 do artigo 11.º da Directiva 2000/60/CE.
+
+3.
+
+Os Estados-Membros que designem zonas de mistura devem assegurar que a dimensão de tais zonas seja:
+
+a) Limitada à proximidade do ponto de descarga;
+
+b) Proporcionada, atendendo à concentração de poluentes no ponto de descarga e às condições relativas a emissões de poluentes constantes da legislação anterior, tais como as autorizações e/ou licenças referidas na alínea g) do n.º 3 do artigo 11.º da Directiva 2000/60/CE e demais legislação comunitária aplicável, em conformidade com a aplicação das melhores técnicas disponíveis e com o artigo 10.º da Directiva 2000/60/CE, em especial após a revisão dessa legislação anterior.
+
+###### Artigo 5.º
+
+Inventário de emissões, descargas e perdas
+
+1. Com base na informação recolhida nos termos dos artigos 5.º e 8.º da Diretiva 2000/60/CE e tendo em conta outros dados disponíveis, cada Estado-Membro estabelece um inventário de emissões, descargas e perdas de todas as substâncias prioritárias enumeradas na parte A, do anexo I da presente diretiva e de todas as substâncias identificadas pelo Estado-Membro como poluentes específicos das bacias hidrográficas para cada região hidrográfica ou parte de região hidrográfica que se encontre no seu território.
+
+O primeiro parágrafo não é aplicável às emissões, descargas e perdas comunicadas anualmente por via eletrónica ao Portal das Emissões Industriais criado ao abrigo do Regulamento (UE) 2024/1244 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0003)), em conformidade com o artigo 7.º do mesmo regulamento.
+
+2. Os Estados-Membros atualizam os seus inventários no âmbito das revisões especificadas no artigo 5.º, n.º 2, da Diretiva 2000/60/CE.
+
+O período de referência para o estabelecimento dos valores inscritos nos inventários atualizados é o ano anterior ao da conclusão das revisões especificadas no artigo 5.º, n.º 2, da Diretiva 2000/60/CE.
+
+No âmbito dessas atualizações, os Estados-Membros asseguram que as emissões de fontes tópicas para a água que não são abrangidas pelo âmbito de aplicação do Regulamento (UE) 2024/1244 ou que são inferiores aos limiares de comunicação anual estabelecidos nesse regulamento, bem como as emissões de poluentes de fontes difusas, na aceção do artigo 3.º, ponto 12, desse regulamento, para a água, são igualmente comunicadas por via eletrónica à Comissão, a fim de serem disponibilizadas no Portal das Emissões Industriais criado ao abrigo desse regulamento, pelo menos de seis em seis anos, e agregadas a nível de cada região hidrográfica ou parte de região hidrográfica do território de um Estado-Membro.
+
+A Comissão adota um ato de execução que estabelece o formato da comunicação de dados a que se refere o terceiro parágrafo do presente número. O referido ato de execução é adotado em conformidade com o procedimento de exame a que se refere o artigo 9.º, n.º 2, da presente diretiva. Ao estabelecer esse ato de execução, a Comissão é assistida, se necessário, pela EEA.
+
+3. Os Estados-Membros asseguram que os planos de gestão de bacia hidrográfica estabelecidos em conformidade com o artigo 13.º da Diretiva 2000/60/CE incluem uma referência clara a todas as informações sobre as emissões para a água ou uma hiperligação para dados sobre essas emissões, disponibilizadas no Portal das Emissões Industriais em conformidade com os n.^os^ 1 e 4 do presente artigo.
+
+###### Artigo 6.º — Poluição transfronteiriça
+
+1.
+
+Os Estados-Membros não violam as suas obrigações decorrentes da presente directiva devido ao facto de excederem uma NQA se puderem demonstrar que:
+
+a) A superação foi devida a uma fonte de poluição situada fora da sua jurisdição nacional; e
+
+b) Não puderam, devido a essa poluição transfronteiriça, tomar medidas eficazes para cumprir a NQA em causa; e
+
+c) Aplicaram os mecanismos de coordenação estabelecidos no artigo 3.º da Directiva 2000/60/CE e, se adequado, utilizaram o disposto nos n.^os^ 4, 5 e 6 do artigo 4.º dessa directiva para as massas de água afectadas pela poluição transfronteiriça.
+
+2. Os Estados-Membros utilizam o mecanismo estabelecido no artigo 12.º da Directiva 2000/60/CE para facultar à Comissão as informações necessárias nas circunstâncias estabelecidas no n.º 1 do presente artigo, bem como um resumo das medidas tomadas relativamente à poluição transfronteiriça no plano de gestão de bacia hidrográfica relevante, de acordo com os requisitos de informação estabelecidos no n.º 1 do artigo 15.º da Directiva 2000/60/CE.
+
+###### Artigo 7.º — Relatórios e revisão
+
+1. Com base nos relatórios dos Estados-Membros, incluindo os relatórios elaborados de acordo com o artigo 12.º da Directiva 2000/60/CE e, em especial, os relatórios sobre a poluição transfronteiriça, a Comissão revê a necessidade de alterar os actos existentes e de prever medidas específicas suplementares a nível comunitário, tais como controlos de emissões.
+
+2.
+
+A Comissão informa o Parlamento Europeu e o Conselho, no contexto do relatório preparado de acordo com o n.º 1 do artigo 18.º da Directiva 2000/60/CE, sobre:
+
+a) As conclusões da revisão referida no n.º 1 do presente artigo;
+
+b) As medidas tomadas para reduzir a dimensão das zonas de mistura designadas em conformidade com o n.º 1 do artigo 4.º da presente directiva;
+
+c) Os resultados da verificação referida no n.º 5 do artigo 5.º da presente directiva;
+
+d) A situação relativa à poluição gerada fora do território da Comunidade.
+
+Se for caso disso, a Comissão faz acompanhar o seu relatório de propostas adequadas.
+
+###### Artigo 7.º-A — Coordenação
+
+1. No caso das substâncias prioritárias que se enquadram no âmbito de aplicação da Diretiva 2001/83/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0004)), dos Regulamentos (CE) n.º 1907/2006 ([^5^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0005)) ou (CE) n.º 1107/2009 ([^6^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0006)) do Parlamento Europeu e do Conselho, das Diretivas 2009/128/CE ([^7^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0007)) ou 2010/75/UE ([^8^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0008)) do Parlamento Europeu e do Conselho ou dos Regulamentos (UE) n.º 528/2012 ([^9^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0009)) ou (UE) 2019/6 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0010)), a Comissão, tendo em conta os dados de monitorização a que se refere o artigo 8.º, n.º 4, da Diretiva 2000/60/CE, e no âmbito do relatório a que se refere o artigo 18.º, n.º 1, da mesma diretiva, avalia se as medidas em vigor na União e nos Estados-Membros são suficientes para cumprir as NQA aplicáveis às substâncias prioritárias e alcançar o objetivo de cessação ou eliminação faseada das descargas, emissões e perdas de substâncias perigosas prioritárias, nos termos do artigo 4.º, n.º 1, alínea a), da Diretiva 2000/60/CE.
+
+2. A Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre o resultado da avaliação referida no n.º 1 do presente artigo, de acordo com o calendário previsto no artigo 16.º, n.º 4, da Diretiva 2000/60/CE, e faz acompanhar esse relatório de propostas adequadas, nomeadamente de medidas de controlo.
+
+3. Se os resultados do relatório demonstrarem a necessidade de medidas adicionais a nível da União ou dos Estados-Membros para facilitar o cumprimento da Diretiva 2000/60/CE no que se refere a uma determinada substância aprovada nos termos do Regulamento (CE) n.º 1107/2009 ou do Regulamento (UE) n.º 528/2012, os Estados-Membros ou a Comissão aplicam as disposições dos artigos 21.º ou 44.º do Regulamento (CE) n.º 1107/2009 ou dos artigos 15.º ou 48.º do Regulamento (UE) n.º 528/2012, conforme adequado, a essa substância ou a produtos que contenham essa substância.
+
+No caso de substâncias abrangidas pelo Regulamento (CE) n.º 1907/2006, a Comissão dá início, se tal for adequado, ao processo referido nos artigos 59.º, 61.º ou 69.º do referido regulamento.
+
+Ao aplicarem as disposições dos regulamentos referidos no primeiro e no segundo parágrafos, os Estados-Membros e a Comissão devem ter em conta quaisquer avaliações de risco e análises socioeconómicas ou de custo-benefício exigidas por força desses regulamentos, incluindo no que diz respeito à existência de alternativas.
+
+###### Artigo 8.º
+
+Revisão dos anexos I e II
+
+1. A Comissão deve ponderar a possibilidade de estabelecer normas de qualidade para o total de PFAS nas águas de superfície na próxima revisão do anexo I da presente diretiva, a realizar em conformidade com o artigo 16.º da Diretiva 2000/60/CE, e procurar complementar as orientações sobre a monitorização do total de PFAS na água potável elaboradas em conformidade com o artigo 13.º, n.º 7, da Diretiva (UE) 2020/2184 do Parlamento Europeu e do Conselho ([^11^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0011)), a fim de as tornar aplicáveis à monitorização do total de PFAS nas águas de superfície. Os Estados-Membros são incentivados a aplicar já essas orientações para monitorizar o total de PFAS nas águas de superfície e a comunicar os dados em conformidade com o artigo 8.º, n.º 4, da Diretiva 2000/60/CE. Tendo em conta a toxicidade, a persistência e a prevalência do ácido trifluoroacético (TFA) no ambiente, a Comissão deve ponderar a possibilidade de estabelecer para o TFA, no âmbito da próxima revisão, uma norma de qualidade separada no anexo I da presente diretiva.
+
+2. São incluídos no anexo III da presente diretiva um parâmetro “soma de bisfenóis” e parâmetros para a(s) soma(s) de pesticidas selecionados por modo de ação e de produtos farmacêuticos selecionados por modo de ação. A Comissão deve rever a eventual inclusão destes parâmetros na lista de substâncias prioritárias na sua próxima revisão do anexo I da presente diretiva, a realizar em conformidade com o artigo 16.º da Diretiva 2000/60/CE, e estabelecer NQA conforme adequado. A Comissão deve ponderar igualmente, na próxima revisão, a possibilidade de adotar uma abordagem baseada no risco para o estabelecimento de NQA para o total de bisfenóis, o total de pesticidas e o total de produtos farmacêuticos nas águas de superfície, apoiada por métodos de monitorização adequados.
+
+3. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 9.º-A para alterar a parte B, do anexo II, a fim de o adaptar ao progresso científico e tecnológico
+
+###### Artigo 8.º-A
+
+Disposições específicas para certas substâncias
+
+1. Nos planos de gestão de bacia hidrográfica elaborados nos termos do artigo 13.º da Diretiva 2000/60/CE, sem prejuízo dos requisitos previstos no ponto 1.4.3 do anexo V,, dessa diretiva, no que respeita à apresentação do estado químico geral, e dos objetivos e obrigações estabelecidos no artigo 4.º, n.º 1, alínea a), no artigo 11.º, n.º 3, alínea k), e no artigo 16.º, n.º 6, dessa diretiva, os Estados-Membros podem fornecer mapas suplementares que apresentem os dados relativos ao estado químico tal como previsto no ponto 1.4.3 do anexo V da Diretiva 2000/60/CE.
+
+2. Os Estados-Membros podem monitorizar as substâncias identificadas na parte A, do anexo I da presente diretiva, como substâncias que se comportam como substâncias PTB ubíquas menos intensivamente do que o exigido para as substâncias prioritárias nos termos do artigo 3.º, n.º 4, da presente diretiva e do anexo V da Diretiva 2000/60/CE, desde que a monitorização efetuada seja representativa e que se disponha de dados de base estatisticamente sólidos relativos à presença dessas substâncias no meio aquático. A título indicativo, nos termos do artigo 3.º, n.º 6, segundo parágrafo, da presente diretiva, a monitorização deve realizar-se, pelo menos, de três em três anos, salvo se a utilização ou emissão da substância ou os conhecimentos técnicos e o parecer dos peritos justificarem outra periodicidade.
+
+3. Durante um período de dois anos a contar de 1 de janeiro de 2030, os Estados-Membros monitorizam a presença de substâncias estrogénicas nas massas de água utilizando métodos de monitorização baseados nos efeitos. A amostragem e a análise não têm de começar no início desse período de dois anos, mas são realizadas pelo menos quatro vezes por ano. Os Estados-Membros realizam a monitorização numa seleção de pontos onde as três hormonas estrogénicas 17-beta-estradiol (E2), estrona (E1) e 17-alfa-etinilestradiol (EE2), enumeradas na parte A, do anexo I da presente diretiva, são monitorizadas recorrendo a métodos analíticos convencionais nos termos do artigo 8.º da Diretiva 2000/60/CE e do anexo V da mesma, a fim de obter resultados comparativos numa gama de concentrações. Os dados são comunicados em conjunto e em conformidade com o artigo 8.º, n.º 4, da referida diretiva. O número de pontos não pode ser inferior ao especificado no artigo 8.º-B, n.º 3, da presente diretiva para a monitorização das substâncias constantes da lista de vigilância. Os Estados-Membros podem iniciar a monitorização antes de 1 de janeiro de 2030, desde que tenham sido adotadas as especificações técnicas a que se refere o n.º 4 do presente artigo. Os Estados-Membros não podem utilizar os resultados baseados em efeitos obtidos durante o período de monitorização comparativa de dois anos para efeitos de classificação do estado químico das massas de água monitorizadas, tal como descrito no ponto 1.4.3 do anexo V da Diretiva 2000/60/CE.
+
+4. Até 1 de dezembro de 2027, a Comissão adota um ato de execução que estabeleça as especificações técnicas para a monitorização de substâncias estrogénicas utilizando métodos de monitorização baseados nos efeitos. O ato de execução é adotado pelo procedimento de exame a que se refere o artigo 9.º, n.º 2.
+
+5. No prazo de 18 meses a contar da data em que os dados forem comunicados pelos Estados-Membros, a Comissão publica um relatório comparando os resultados dos métodos analíticos convencionais e os métodos baseados nos efeitos, e analisa a possibilidade de utilizar métodos de monitorização baseados nos efeitos em conjugação com um valor de desencadeamento baseado nos efeitos para os estrogénios, na aceção do artigo 2.º, ponto 35-A, da Diretiva 2000/60/CE, para efeitos de rastreio e para apoiar a avaliação do estado químico.
+
+No contexto de futuras revisões da lista de poluentes em conformidade com o artigo 16.º, n.º 2, da Diretiva 2000/60/CE, tendo em conta a análise constante do relatório a que se refere o primeiro parágrafo do presente número, a Comissão deve ponderar a fixação de um valor de desencadeamento para os estrogénios para efeitos de rastreio e de avaliação do estado químico. Logo que os métodos baseados nos efeitos estejam prontos a ser utilizados também para outras substâncias, a Comissão deve ponderar exigir, no contexto de futuras revisões, que os Estados-Membros os utilizem, se necessário, pelo menos inicialmente em paralelo com os métodos analíticos convencionais, e ponderar a fixação de valores de desencadeamento correspondentes.
+
+###### Artigo 8.º-B
+
+Lista de vigilância
+
+1. A Comissão fica habilitada a adotar atos de execução para estabelecer, tendo em conta os relatórios científicos elaborados pela Agência Europeia dos Produtos Químicos (ECHA) em conformidade com o n.º 1-A do presente artigo, uma lista de vigilância das substâncias para as quais é necessário recolher dos Estados-Membros dados de monitorização em toda a União, com vista a apoiar revisões futuras nos termos do artigo 16.º, n.º 2, da Diretiva 2000/60/CE, e para estabelecer os modelos a utilizar pelos Estados-Membros para comunicar à Comissão os resultados dessa monitorização e as informações conexas. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 9.º, n.º 2.
+
+A lista de vigilância deve conter um número nunca superior a 10 substâncias, grupos de substâncias ou indicadores de poluição e deve indicar, para cada substância, as matrizes de monitorização e os eventuais métodos de análise. Essas matrizes de monitorização e métodos não podem implicar custos excessivos para as autoridades competentes. As substâncias a incluir na lista de vigilância devem ser selecionadas de entre as substâncias em relação às quais a informação disponível indique que podem representar um risco significativo, a nível da União, para o meio aquático, ou por intermédio deste, e para as quais os dados de monitorização sejam insuficientes. A lista de vigilância deve incluir substâncias de preocupação emergente.
+
+Com base nos relatórios científicos elaborados pela ECHA em conformidade com o n.º 1-A, a Comissão deve incluir na lista de vigilância microplásticos e indicadores adequados da presença, evolução ou transmissão da resistência antimicrobiana (“indicadores da resistência antimicrobiana”), desde que estejam disponíveis métodos de amostragem e análise fiáveis e que não impliquem custos excessivos. A Comissão identifica esses métodos de amostragem e análise até 1 de dezembro de 2027.
+
+1-A.
+
+A ECHA elabora relatórios científicos para assistir a Comissão na seleção das substâncias e indicadores a incluir na lista de vigilância a que se refere o n.º 1 do presente artigo, tendo em conta as seguintes informações:
+
+a) O anexo I da Diretiva 2006/118/CE do Parlamento Europeu e do Conselho [(11)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0011) e os resultados da revisão mais recente desse anexo, bem como os resultados da revisão regular mais recente do anexo I da presente diretiva;
+
+b) As listas de vigilância estabelecidas em conformidade com as Diretivas 2006/118/CE e (UE) 2020/2184;
+
+c) Recomendações das partes interessadas;
+
+d) A caracterização das regiões hidrográficas efetuada pelos Estados-Membros em conformidade com o artigo 5.º da Diretiva 2000/60/CE e os resultados dos programas de monitorização estabelecidos em conformidade com o artigo 8.º da mesma diretiva;
+
+e) Informações sobre os volumes de produção, padrões de utilização, propriedades intrínsecas (incluindo, se pertinente, o tamanho das partículas), concentrações no ambiente e efeitos adversos de uma substância para a saúde humana e o ambiente aquático, incluindo informações recolhidas em conformidade com a Diretiva 2001/83/CE, o Regulamento (CE) n.º 1907/2006, o Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho ([^12^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0012)), o Regulamento (CE) n.º 1107/2009, a Diretiva 2009/128/CE, o Regulamento (UE) n.º 528/2012 e o Regulamento (UE) 2022/2379 do Parlamento Europeu e do Conselho ([^13^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0013));
+
+f) Projetos de investigação e publicações científicas, incluindo informações sobre tendências e previsões baseadas em modelização ou noutras avaliações preditivas, bem como informações e dados recolhidos através de tecnologias de teledeteção, observação da Terra, como os serviços Copernicus, sensores e dispositivos *in situ* ou dados da ciência cidadã, tirando partido das oportunidades proporcionadas pela inteligência artificial e pela análise e tratamento avançados de dados;
+
+g) Recomendações dos grupos de trabalho criados no âmbito da Estratégia Comum de Aplicação da Diretiva 2000/60/CE;
+
+h) Informações sobre emissões, descargas e perdas disponíveis no Portal das Emissões Industriais criado ao abrigo do Regulamento (UE) 2024/1244, bem como quaisquer informações adicionais disponíveis sobre as substâncias abrangidas por licenças ao abrigo da Diretiva 2010/75/UE.
+
+1-B. Os relatórios científicos elaborados pela ECHA em conformidade com o n.º 1-A devem apresentar uma lista de substâncias, grupos de substâncias ou indicadores, a matriz de monitorização recomendada, bem como um método indicativo de análise e um limite máximo aceitável de quantificação para cada uma delas, com uma referência à literatura científica ou a orientações científicas.
+
+1-C. Até 1 de fevereiro de 2028 e, posteriormente, de três em três anos, a ECHA elabora e disponibiliza ao público um relatório de síntese das conclusões dos relatórios científicos elaborados em conformidade com o n.º 1-A.
+
+2. A Comissão atualiza a lista de vigilância a que se refere o n.º 1 até 1 de maio de 2028 e, posteriormente, de três em três anos.
+
+Ao atualizar a lista de vigilância, a Comissão retira qualquer substância ou indicador em relação aos quais possa ser efetuada uma avaliação de risco nos termos do artigo 16.º, n.º 2, da Diretiva 2000/60/CE sem recorrer a dados de monitorização suplementares. No entanto, uma substância específica, um grupo de substâncias ou um indicador podem ser mantidos na lista por mais um período máximo de três anos caso sejam necessários dados de monitorização suplementares para avaliar o risco para o meio aquático.
+
+Cada lista de vigilância atualizada deve também incluir uma ou mais substâncias, grupos de substâncias ou indicadores adicionais relativamente aos quais a Comissão considere, com base nos relatórios científicos da ECHA, que pode existir um risco generalizado para o ambiente aquático ou por intermédio deste, sob condição da atualização da lista de vigilância que contém, no máximo, 10 substâncias, grupos de substâncias ou indicadores, em conformidade com o n.º 1.
+
+Os microplásticos e os indicadores de resistência antimicrobiana não podem ser mantidos na lista durante um segundo período consecutivo de três anos, a menos que esteja disponível uma metodologia harmonizada e fiável de avaliação dos riscos que, quando aplicada, demonstre que os dados de monitorização recolhidos durante o primeiro período de monitorização são insuficientes para avaliar o risco que representam para o ambiente aquático ou por intermédio deste.
+
+3. Os Estados-Membros monitorizam cada substância, grupo de substâncias e indicador constante da lista de vigilância a que se refere no n.º 1 em estações de monitorização representativas durante um período de 24 meses. O período de monitorização tem início no prazo de seis meses a contar da inclusão da substância na lista, mas a amostragem e a análise não têm de começar no início desse período.
+
+Cada Estado-Membro seleciona, pelo menos, uma estação de monitorização, mais uma estação se tiver mais de um milhão de habitantes, mais o número de estações correspondente à sua área geográfica em km^2^ dividida por 60 000, arredondado ao número inteiro mais próximo, mais o número de estações correspondente à sua população dividida por cinco milhões, arredondado ao número inteiro mais próximo.
+
+Na seleção das estações de monitorização representativas e no estabelecimento da frequência e do calendário de monitorização para cada substância, grupo de substâncias ou indicador, os Estados-Membros devem ter em conta a variabilidade sazonal da pluviosidade, níveis de água, padrões de utilização e a possível ocorrência da substância, grupo de substâncias ou indicador em causa. A frequência de monitorização não pode ser inferior a duas vezes por ano, quando efetuada na água, nem inferior a uma vez por ano, quando efetuada nos sedimentos ou na biota. Quando são necessárias frequências mais elevadas, como para as substâncias sensíveis a variações climáticas ou sazonais, o aumento da frequência é determinado e tecnicamente justificado no ato de execução que estabelece a lista de vigilância adotado nos termos do n.º 1.
+
+Nos casos em que um Estado-Membro esteja em posição de gerar e fornecer à Comissão, para uma determinada substância, grupo de substâncias ou indicador, dados de monitorização suficientes, comparáveis, representativos e recentes a partir de programas de monitorização ou estudos, pode decidir não proceder a monitorizações suplementares dessa substância, desse grupo de substâncias ou desse indicador no âmbito do mecanismo da lista de vigilância, desde que os mesmos tenham sido monitorizados com recurso a uma metodologia conforme com as matrizes de monitorização e os métodos de análise a que se refere o ato de execução que estabelece a lista de vigilância, bem como com a Diretiva 2009/90/CE da Comissão ([^14^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0014)).
+
+4. Os Estados-Membros disponibilizam anualmente os resultados da monitorização a que se refere o n.º 3 do presente artigo em conformidade com o artigo 8.º, n.º 4, da Diretiva 2000/60/CE e com o ato de execução que estabelece a lista de vigilância adotado nos termos do n.º 1 do presente artigo. Devem também disponibilizar informações sobre a representatividade das estações de monitorização e sobre a estratégia de monitorização.
+
+5. No final do período de 24 meses referido no n.º 3, a ECHA revê os resultados da monitorização e avalia quais as substâncias, grupos de substâncias ou indicadores que devem ser monitorizados durante outro período de 24 meses e que, por conseguinte, devem ser mantidos na lista de vigilância, e avalia igualmente quais as substâncias, grupos de substâncias ou indicadores que podem ser retirados da lista de vigilância.
+
+Se a Comissão, tendo em conta a avaliação realizada pela ECHA a que se refere o primeiro parágrafo do presente número, concluir que não é necessária uma monitorização adicional para avaliar mais aprofundadamente o risco para o meio aquático, essa avaliação da ECHA é tida em conta na revisão das listas de substâncias constantes do anexo I ou da parte C do anexo II da presente diretiva e em conformidade com o artigo 16.º da Diretiva 2000/60/CE.
+
+###### Artigo 8º-C — Disposições específicas para substâncias farmacêuticas
+
+Nos termos do artigo 16.º, n.º 9, da Diretiva 2000/60/CE e, se for caso disso, com base nos resultados do seu estudo de 2013 sobre os riscos dos medicamentos para o ambiente e de outros estudos e relatórios pertinentes, a Comissão elabora, na medida do possível no prazo de dois anos a contar de 13 de setembro de 2013, uma abordagem estratégica em matéria de poluição da água causada por substâncias farmacêuticas. Se adequado, essa abordagem estratégica inclui, na medida do necessário, propostas que permitam que os impactos ambientais dos medicamentos sejam mais eficazmente tidos em conta no procedimento de colocação de medicamentos no mercado. No quadro dessa abordagem estratégica, a Comissão propõe, se for caso disso, até 14 de setembro de 2017, medidas a tomar a nível da União ou dos Estados-Membros, ou a ambos os níveis, consoante necessário, para fazer face aos possíveis impactos ambientais das substâncias farmacêuticas, em especial as referidas no artigo 8º-B, n.º 1, com vista a reduzir as descargas, emissões e perdas das respetivas substâncias para o ambiente aquático, tendo em conta as necessidades em matéria de saúde pública e a relação custo-eficácia das medidas propostas.
+
+###### Artigo 8.º-D
+
+Poluentes específicos das bacias hidrográficas
+
+1. Os Estados-Membros estabelecem e aplicam NQA para os poluentes específicos das bacias hidrográficas abrangidos pelas categorias enumeradas na parte A, do anexo II da presente diretiva, sempre que identifiquem esses poluentes como um risco para as massas de água de uma ou mais das suas regiões hidrográficas com base nas análises e estudos previstos no artigo 5.º da Diretiva 2000/60/CE, em conformidade com o procedimento estabelecido na parte B, do anexo II da presente diretiva.
+
+Até 22 de dezembro de 2027, os Estados-Membros informam a Comissão da sua lista de poluentes específicos das bacias hidrográficas e das NQA estabelecidas nos termos do primeiro parágrafo do presente número. A Comissão assegura que as referidas informações são disponibilizadas publicamente.
+
+As atualizações subsequentes da lista de poluentes específicos das bacias hidrográficas identificados pelos Estados-Membros em conformidade com o primeiro parágrafo do presente número e das respetivas NQA são incluídas nos planos de gestão de bacia hidrográfica a elaborar nos termos do artigo 13.º da Diretiva 2000/60/CE.
+
+2. Sempre que tenham sido estabelecidas NQA para os poluentes específicos das bacias hidrográficas a nível da União em conformidade com o artigo 16.º, n.º 4, da Diretiva 2000/60/CE, e enumeradas na parte C, do anexo II da presente diretiva, essas NQA têm precedência sobre as NQA para os poluentes específicos das bacias hidrográficas estabelecidas a nível nacional nos termos do n.º 1 do presente artigo. As NQA estabelecidas a nível da União são igualmente aplicadas pelos Estados-Membros para determinar se os poluentes específicos das bacias hidrográficas enumerados na parte C, do anexo II da presente diretiva constituem um risco.
+
+3. Para que uma massa de água atinja um bom estado químico das águas de superfície, na aceção do artigo 2.º, ponto 24, da Diretiva 2000/60/CE, é obrigatório cumprir as NQA nacionais aplicáveis ou, se for caso disso, as NQA estabelecidas a nível da União.
+
+###### Artigo 9.º — Procedimento de comité
+
+1. A Comissão é assistida pelo comité criado pelo artigo 21.º, n.º 1, da Diretiva 2000/60/CE. Esse comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([^15^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0015)).
+
+2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.
+
+Na falta de parecer do comité, a Comissão não pode adotar o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011.
+
+###### Artigo 9.º-A — Exercício da delegação
+
+1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.
+
+2. O poder de adotar atos delegados referido no artigo 3.º, n.º 8, e no artigo 8.º, n.º 3, é conferido à Comissão por um prazo de seis anos a contar de 10 de maio de 2026. A Comissão elabora um relatório relativo à delegação de poderes, o mais tardar, nove meses antes do final do prazo de seis anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.
+
+3. A delegação de poderes a que se referem o artigo 3.º, n.º 8, e o artigo 8.º, n.º 3, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.
+
+3-A. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor.
+
+4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.
+
+5. Os atos delegados adotados nos termos do artigo 3.º, n.º 8, e do artigo 8.º, n.º 3, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho.
+
+###### Artigo 11.º — Alteração das Directivas 82/176/CEE, 83/513/CEE, 84/156/CEE, 84/491/CEE e 86/280/CE
+
+1. São suprimidos os Anexos II das Directivas 82/176/CEE, 83/513/CEE, 84/156/CEE e 84/491/CEE.
+
+2. São suprimidas as rubricas B das Secções I a XI do Anexo II da Directiva 86/280/CEE.
+
+###### Artigo 12.º — Revogação das Directivas 82/176/CEE, 83/513/CEE, 84/156/CEE, 84/491/CEE e 86/280/CEE
+
+1. São revogadas, com efeitos a partir de 22 de Dezembro de 2012, as Directivas 82/176/CEE, 83/513/CEE, 84/156/CEE, 84/491/CEE e 86/280/CEE.
+
+2. Até 22 de Dezembro de 2012, os Estados-Membros podem proceder à monitorização e comunicação de informações de acordo com o estabelecido nos artigos 5.º, 8.º e 15.º da Directiva 2000/60/CE, em vez de o fazerem de acordo com as directivas referidas no n.º 1 do presente artigo.
+
+###### Artigo 13.º — Transposição
+
+1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 13 de Julho de 2010.
+
+Quando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são aprovadas pelos Estados-Membros.
+
+2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva.
+
+###### Artigo 14.º — Entrada em vigor
+
+A presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+###### Artigo 15.º — Destinatários
+
+Os Estados-Membros são os destinatários da presente directiva.
+
+## ANEXO I
+
+### NORMAS DE QUALIDADE AMBIENTAL (NQA) PARA AS SUBSTÂNCIAS PRIORITÁRIAS NAS ÁGUAS DE SUPERFÍCIE
+
+#### PARTE A: NORMAS DE QUALIDADE AMBIENTAL
+
+| 1) | 2) | 3) | 4) | 5) | 6) | 7) | 8) | 9) | 10) | 11) | 12) | 13) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Entrada N.º | Nome da substância | Categoria de substâncias | Número CAS [(^1^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0016) | Número UE [(^2^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0017) | NQA-MA [(^3^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0018) Águas de superfície interiores [(^4^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0019) [μg/l] | NQA-MA [(^3^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0018) Outras águas de superfície [μg/l] | NQA-CMA [(^5^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0020) Águas de superfície interiores [(^4^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0019) [μg/l] | NQA-CMA [(^5^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0020) Outras águas de superfície [μg/l] | NQA para a biota [(^6^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0021) [μg/kg de peso húmido] ou, quando indicado, NQA para os sedimentos [μg/kg de peso seco] | Identificada como substância perigosa prioritária | Identificada como substância persistente, bioacumulável e tóxica ubíqua (uPBT) | Identificada como substância que tende a acumular-se em sedimentos e/ou na biota |
+| 1) | A substância «alacloro» foi transferida para a parte C, do anexo II |  |  |  |  |  |  |  |  |  |  |  |
+| 2) | Antraceno | Substâncias industriais | 120-12-7 | 204-371-1 | 0,1 | 0,1 | 0,1 | 0,1 |  | X |  | X |
+| 3) | A substância «atrazina» foi transferida para a parte C, do anexo II |  |  |  |  |  |  |  |  |  |  |  |
+| 4) | Benzeno | Substâncias industriais | 71-43-2 | 200-753-7 | 10 | 8 | 50 | 50 |  |  |  |  |
+| 5) | Éteres difenílicos bromados [(^7^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0022) | Substâncias industriais | Não aplicável | Não aplicável |  |  | 0,14 | 0,014 [(^7^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0022) | 0,00028 [(^7^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0022) | X [(^8^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0023) | X | X |
+| 6) | Cádmio e seus compostos (consoante a classe de dureza da água) [(^9^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0024) | Metais | 7440-43-9 | 231-152-8 | ≤ 0,08 (Classe 1) 0,08 (Classe 2) 0,09 (Classe 3) 0,15 (Classe 4) 0,25 (Classe 5) | 0,2 | ≤ 0,45 (Classe 1) 0,45 (Classe 2) 0,6 (Classe 3) 0,9 (Classe 4) 1,5 (Classe 5) | ≤ 0,45 (Classe 1) 0,45 (Classe 2) 0,6 (Classe 3) 0,9 (Classe 4) 1,5 (Classe 5) |  | X |  | X |
+| 6-A) | A substância «tetracloreto de carbono» foi transferida para a parte C, do anexo II |  |  |  |  |  |  |  |  |  |  |  |
+| 7) | C10-13 Cloroalcanos [(^10^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0025) | Substâncias industriais | 85535-84-8 | 287-476-5 | 0,4 | 0,4 | 1,4 | 1,4 |  | X |  | X |
+| 8) | A substância «clorfenvinfos» foi transferida para a parte C, do anexo II |  |  |  |  |  |  |  |  |  |  |  |
+| 9) | Clorpirifos (Clorpirifos-etilo) | Pesticidas – organofosfa-to | 292188-2 | 220-864-4 | 4,6 × 10^-4^ | 4,6 × 10^-5^ | 0,0026 | 5,2 × 10^-4^ |  | X | X | X |
+| 9-A) | Pesticidas ciclodienos: Aldrina Dieldrina Endrina Isodrina | Pesticidas – organoclora-do | 309-00-2 60-57-1 72-20-8 465-73-6 | 206-215-8 200-484-5 200-775-7 207-366-2 | Σ = 0,01 | Σ = 0,005 | Não aplicável | Não aplicável |  | X |  |  |
+| 9-B) | DDT total [(^11^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0026) | Pesticidas – organoclorado | Não aplicável | Não aplicável | 0,025 | 0,025 | Não aplicável | Não aplicável |  | X |  |  |
+|  | p, p-DDT |  | 50-29-3 | 200-024-3 | 0,01 | 0,01 | Não aplicável | Não aplicável |  | X |  |  |
+| 10) | 1,2-dicloroetano | Substâncias industriais | 107-06-2 | 203-458-1 | 10 | 10 | Não aplicável | Não aplicável |  | X |  |  |
+| 11) | Diclorometano | Substâncias industriais | 75-09-2 | 200-838-9 | 20 | 20 | Não aplicável | Não aplicável |  |  |  |  |
+| 12) | Ftalato de di(2-etil-hexilo) (DEHP) | Substâncias industriais | 117-81-7 | 204-211-0 | 1,3 | 1,3 | Não aplicável | Não aplicável |  | X |  | X |
+| 13) | Diurão | Pesticidas – herbicida | 330-54-1 | 206-354-4 | 0,049 | 0,0049 | 0,27 | 0,054 |  |  |  |  |
+| 14) | Endossulfão | Pesticidas – organoclora-do | 115-29-7 | 204-079-4 | 0,005 | 0,0005 | 0,01 | 0,004 |  | X |  |  |
+| 15) | Fluoranteno | Substâncias industriais | 206-44-0 | 205-912-4 | 7,62 × 10^-4^ | 7,62 × 10^-4^ | 0,12 | 0,012 | 6,1 | X | X | X |
+| 16) | Hexaclorobenzeno | Pesticidas – organoclora-do | 118-74-1 | 204-273-9 |  |  | 0,5 | 0,05 | 8 peixe AD 1 peixe AS | X |  | X |
+| 17) | Hexaclorobutadieno | Substâncias industriais (solventes) | 87-68-3 | 201-765-5 | 9,5 x 10^-4^ | 9,5 × 10^-4^ | 0,6 | 0,06 | 21 | X |  | X |
+| 18) | Hexaclorociclo-hexano | Pesticidas – inseticidas | 608-73-1 | 210-168-9 | 0,02 | 0,002 | 0,04 | 0,02 |  | X |  | X |
+| 19) | Isoproturão | Pesticidas – herbicida | 34123-59-6 | 251-835-4 | 0,3 | 0,3 | 1,0 | 1,0 |  |  |  |  |
+| 20) | Chumbo e seus compostos | Metais | 7439-92-1 | 231-100-4 | 1,2 [(^12^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0027) | 1,3 | 14 | 14 |  | X |  | X |
+| 21) | Mercúrio e seus compostos | Metais | 7439-97-6 | 231-106-7 |  |  | 0,07 | 0,07 | 11 | X | X | X |
+| 22) | Naftaleno | Substâncias industriais | 91-20-3 | 202-049-5 | 2 | 2 | 130 | 130 |  |  |  |  |
+| 23) | Níquel e seus compostos | Metais | 7440-02-0 | 231-111-4 | 2 [(^12^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0027) | 3,1 | 8,2 | 8,2 |  |  |  |  |
+| 24) | Nonilfenóis [(^13^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0028) (4-nonilfenol) | Substâncias industriais | Ver nota 13 | Ver nota 13 | 0,037 | 0,0018 | 2,1 | 0,17 |  | X |  |  |
+| 25) | Octilfenóis [(^14^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0029) ((4-(1,1',3,3'-tetrametilbutil)fenol)) | Substâncias industriais | Ver nota 14 | Ver nota 14 | 0,1 | 0,01 | Não aplicável | Não aplicável |  | X |  |  |
+| 26) | Pentaclorobenzeno | Substâncias industriais | 608-93-5 | 210-172-0 | 0,007 | 0,0007 | Não aplicável | Não aplicável |  | X |  | X |
+| 27) | Pentaclorofenol | Pesticidas – organoclorado | 87-86-5 | 201-778-6 | 0,4 | 0,4 | 1 | 1 |  | X |  |  |
+| 28) | Hidrocarbonetos aromáticos policíclicos (HAP) [(^15^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0030) | Produtos de combustão | Não aplicável | Não aplicável | Não aplicável | Não aplicável | Não aplicável | Não aplicável | Soma de equivalentes de benzo(a)pireno 0,6 [(^16^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0031) | X | X | X |
+|  | Benzo(a)pireno |  | 50-32-8 | 200-028-5 |  |  | 0,5 | 0,05 | 0,6 |  |  |  |
+| Benzo(b)fluoranteno |  | 205-99-2 | 205-911-9 |  |  | 0,017 | 0,017 | Ver nota 16 |  |  |  |  |
+| Benzo(k)fluoranteno |  | 207-08-9 | 205-916-6 |  |  | 0,017 | 0,017 | Ver nota 16 |  |  |  |  |
+|  | Benzo(g,h,i)perileno |  | 191-24-2 | 205-883-8 |  |  | 8,2 × 10^-3^ | 8,2 × 10^-4^ | Ver nota 16 |  |  |  |
+| Indeno(1,2,3-cd)pireno |  | 193-39-5 | 205-893-2 |  |  | Não aplicável | Não aplicável | Ver nota 16 |  |  |  |  |
+|  | Criseno |  | 218-01-9 | 205-923-4 |  |  | 0,07 | 0,007 | Ver nota 16 |  |  |  |
+|  | Benzo(a)antraceno |  | 56-55-3 | 200-280-6 |  |  | 0,1 | 0,01 | Ver nota 16 |  |  |  |
+| Dibenzo(a,h)antraceno | 53-70-3 | 200-181-8 |  |  | 0,014 | 0,0014 | Ver nota 16 |  |  |  |  |  |
+| Fluoranteno |  | 206-44-0 | 205-912-4 |  |  | 0,12 | 0,012 | Ver nota 16 |  |  |  |  |
+| 29) | A substância «simazina» foi transferida para a parte C, do anexo II |  |  |  |  |  |  |  |  |  |  |  |
+| 29-A) | Tetracloroetileno | Substâncias industriais | 127-18-4 | 204-825-9 | 10 | 10 | Não aplicável | Não aplicável |  |  |  |  |
+| 29-B) | Tricloroetileno | Substâncias industriais | 79-01-6 | 201-167-4 | 10 | 10 | Não aplicável | Não aplicável |  | X |  |  |
+| 30) | Compostos de tributilestanho [(^17^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0032) (catião tributilestanho) | Pesticidas – biocida | 36643-28-4 | Não aplicável | 0,0002 | 0,0002 | 0,0015 | 0,0015 | 1,6 [(^18^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0033) | X | X | X |
+| 31) | A substância «triclorobenzeno» foi transferida para a parte C, do anexo II |  |  |  |  |  |  |  |  |  |  |  |
+| 32) | Triclorometano | Substâncias industriais | 67-66-3 | 200-663-8 | 2,5 | 2,5 | Não aplicável | Não aplicável |  |  |  |  |
+| 33) | Trifluralina | Pesticidas – herbicidas | 1582-09-8 | 216-428-8 | 0,03 | 0,03 | Não aplicável | Não aplicável |  | X |  |  |
+| 34) | Dicofol | Pesticidas – organoclora-do | 115-32-2 | 204-082-0 | 4,45 × 10^-3^ | 0,185 × 10^-3^ | Não aplicável [(^19^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0034) | Não aplicável [(^19^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0034) | 111 peixe AD 4,6 peixe AS | X |  | X |
+| 35) | Ácido perfluoro-octanossulfónico (PFOS) e seus derivados | Substâncias industriais | 1763-23-1 | 217-179-8 | Abrangidos pelo grupo de substâncias n.º 65 (substâncias perfluoroalquiladas e polifluoroalquiladas (PFAS) — soma das 25) |  |  |  |  |  |  |  |
+| 36) | Quinoxifena | Pesticidas – fungicida | 124495-18-7 | Não aplicável | 0,15 | 0,015 | 2,7 | 0,54 |  | X |  | X |
+| 37) | Dioxinas e compostos semelhantes a dioxinas [(^20^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0035) | Subprodutos industriais | Não aplicável | Não aplicável |  |  | Não aplicável | Não aplicável | Soma de equivalentes de PCDD + PCDF + PCB-DL 3,5 x 10^-5^ [(^21^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0036) | X | X | X |
+| 38) | Aclonifena | Pesticidas – herbicida | 74070-46-5 | 277-704-1 | 0,12 | 0,012 | 0,12 | 0,012 |  |  |  |  |
+| 39) | Bifenox | Pesticidas – herbicida | 42576-02-3 | 255-894-7 | 0,012 | 0,0012 | 0,04 | 0,004 |  |  |  |  |
+| 40) | Cibutrina | Pesticidas – biocida | 28159-98-0 | 248-872-3 | 0,0025 | 0,0025 | 0,016 | 0,016 |  |  |  |  |
+| 41) | Cipermetrina [(^22^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0037) | Pesticidas – piretróide | 52315-07-8 | 257-842-9 | 3 × 10^-5^ | 3 × 10^-6^ | 6 × 10^-4^ | 6 × 10^-5^ |  |  |  | X |
+| 42) | Diclorvos | Pesticidas – organofosfa-to | 62-73-7 | 200-547-7 | 6 × 10^-4^ | 6 × 10^-5^ | 7 × 10^-4^ | 7 × 10^-5^ |  |  |  |  |
+| 43) | Hexabromociclododecano (HBCDD) [(^23^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0038) | Substâncias industriais | Ver nota 23 | Ver nota 23 | 4,6 × 10^-4^ | 2 × 10^-5^ | 0,5 | 0,05 | 90 peixe AD 3,5 peixe AS | X | X | X |
+| 44) | Heptacloro e epóxido de heptacloro | Pesticidas – organoclora-do | 76-44-8/1024-57-3 | 200-962-3/213-831-0 | 1,7 × 10^-7^ | 1,7 × 10^-7^ | 3 × 10^-4^ | 3 × 10^-5^ | 0,013 | X | X | X |
+| 45) | Terbutrina | Pesticidas – biocidas | 886-50-0 | 212-950-5 | 0,065 | 0,0065 | 0,34 | 0,034 |  |  |  |  |
+| 46) | 17-alfa-etinilestradiol (EE2) | Produtos farmacêuti-cos – hormona estrogénica | 57-63-6 | 200-342-2 | 1,7 × 10^-5^ | 1,6 × 10^-6^ | não derivado | não derivado |  |  |  |  |
+| 47) | 17-beta-estradiol (E2) | Produtos farmacêuti-cos – hormona estrogénica | 50-28-2 | 200-023-8 | 0,00018 | 9 × 10^-6^ | não derivado | não derivado |  |  |  |  |
+| 48) | Acetamipride | Pesticidas – neonicotinói-de | 135410-20-7/160430-64-8 | 603-921-1 | 0,037 | 0,0037 | 0,16 | 0,016 |  |  |  |  |
+| 49) | Azitromicina | Produtos farmacêuticos – antibiótico macrólido | 83905-01-5 | 617-500-5 | 0,019 | 0,0019 | 0,18 | 0,018 |  |  |  | X |
+| 50) | Bifentrina | Pesticidas – piretróide | 82657-04-3 | 617-373-6 | 9,5 × 10^-5^ | 9,5 × 10^-6^ | 0,011 | 0,001 |  |  |  | X |
+| 51) | Bisfenol-A (BPA) | Substâncias industriais | 80-05-7 | 201-245-8 | 1,7 x 10^-4^ | 1,7 x 10^-4^ | 130 | 51 | 0,025 | X |  |  |
+| 52) | Carbamazepina | Produtos farmacêuti-cos – anticonvulsi-onante | 298-46-4 | 206-062-7 | 2,5 | 0,25 | 1,6 × 10^3^ | 160 |  |  |  |  |
+| 53) | Claritromicina | Produtos farmacêuti-cos – antibiótico macrólido | 81103-11-9 | 658-034-2 | 0,13 | 0,013 | 0,13 | 0,013 |  |  |  | X |
+| 54) | Clotianidina | Pesticidas – neonicotinói-de | 210880-92-5 | 433-460-1 | 0,01 | 0,001 | 0,34 | 0,034 |  |  |  |  |
+| 55) | Deltametrina | Pesticidas – piretróide | 52918-63-5 | 258-256-6 | 1,7 × 10^-6^ | 1,7 × 10^-7^ | 1,7 × 10^-5^ | 3,4 × 10^-6^ |  |  |  | X |
+| 56) | Diclofenaco | Produtos farmacêuti-cos – anti-inflamatório | 15307-86-5/15307-79-6 | 239-348-5/239-346-4 | 0,04 | 0,004 | 250 | 25 |  |  |  | X |
+| 57) | Eritromicina | Produtos farmacêuti-cos – antibiótico macrólido | 114-07-8 | 204-040-1 | 0,5 | 0,05 | 1 | 0,1 |  |  |  | X |
+| 58) | Esfenvalerato | Pesticidas – piretróide | 66230-04-4 | 613-911-9 | 1,7 × 10^-5^ | 1,7 × 10^-6^ | 0,0085 | 0,00085 |  |  |  | X |
+| 59) | Estrona (E1) | Produtos farmacêuti-cos – hormona estrogénica | 53-16-7 | 200-164-5 | 3,6 × 10^-4^ | 1,8 × 10^-5^ | não derivado | não derivado |  |  |  |  |
+| 60) | Glifosato | Pesticidas – herbicida | 1071-83-6 | 213-997-4 | 0,1 [(^24^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0039) 86,7 [(^25^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0040) | 8,67 | Não aplicável [(^24^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0039) 398,6 [(^25^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0040) | 39,86 |  |  |  |  |
+| 61) | Ibuprofeno | Produtos farmacêuticos – anti-inflama-tório | 15687-27-1 | 239-784-6 | 0,14 | 0,014 |  |  |  |  |  | X |
+| 62) | Imidaclopride | Pesticidas – neonicotinóide | 138261-41-3/105827-78-9 | 428-040-8 | 0,0068 | 6,8 × 10^-4^ | 0,057 | 0,0057 |  |  |  |  |
+| 63) | Nicossulfurão | Pesticidas – herbicida | 111991-09-4 | 601-148-4 | 0,0087 | 8,7 × 10^-4^ | 0,23 | 0,023 |  |  |  |  |
+| 64) | Permetrina | Pesticidas – piretróide | 52645-53-1 | 258-067-9 | 2,7 × 10^-4^ | 2,7 × 10^-5^ | 0,0025 | 2,5 × 10^-4^ |  |  |  | X |
+| 65) | Substâncias perfluoroalquiladas e polifluoroalquiladas (PFAS) — soma das 25 [(^26^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0041) [(^29^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0044) | Substâncias industriais | Não aplicável | Não aplicável | Soma de equivalentes de PFOA 0,0044 [(^27^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0042) | Soma de equivalentes de PFOA 0,0044 [(^27^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0042) | Não aplicável | Não aplicável | Soma de equivalentes de PFOA 0,077 [(^27^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0042) | X | X | X |
+| 66) | Prata | Metais | 7440-22-4 | 231-131-3 | 0,01 | 0,006 (10 ‰ de salinidade) 0,17 (30 ‰ de salinidade) | 0,022 | não derivado |  |  |  |  |
+| 67) | Tiaclopride | Pesticidas – neonicotinói-de | 111988-49-9 | 601-147-9 | 0,01 | 0,001 | 0,05 | 0,005 |  |  |  |  |
+| 68) | Tiametoxame | Pesticidas – neonicotinói-de | 153719-23-4 | 428-650-4 | 0,04 | 0,004 | 0,77 | 0,077 |  |  |  |  |
+| 69) | Triclosano | Pesticidas – biocidas | 3380-34-5 | 222-182-2 | 0,02 | 0,002 | 0,02 | 0,002 |  |  |  |  |
+| 70) | Soma das substâncias ativas nos pesticidas [(^28^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0043) enumerados no presente quadro [(^29^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0044) [(^30^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0045) | Pesticidas | Não aplicável | Não aplicável | 0,2 [(^30^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0045) |  |  |  |  |  |  |  |
+| (^1^) CAS: *Chemical Abstracts Service* (Serviço de Resumos de Química). (^2^) Número UE: Inventário Europeu das Substâncias Químicas Existentes no Mercado (EINECS) ou Lista Europeia das Substâncias Químicas Notificadas (ELINCS). (^3^) Este parâmetro constitui a NQA expressa em valor médio anual (NQA-MA). Salvo indicação em contrário, aplica-se à concentração total de todas as substâncias e isómeros. (^4^) As águas de superfície interiores compreendem os rios e lagos e as massas de água artificiais, ou fortemente modificadas, afins. (^5^) Este parâmetro constitui a NQA expressa em concentração máxima admissível (NQA-CMA). Salvo indicação em contrário, aplica-se à concentração total de todas as substâncias e isómeros. A indicação «não aplicável» nesta coluna significa que se considera que os valores NQA-MA protegem contra os picos de poluição de curta duração em descargas contínuas, por serem significativamente inferiores aos valores determinados com base na toxicidade aguda. (^6^) Se for indicada uma NQA para a biota ou para os sedimentos, deve ser aplicada em vez da NQA para a água, sem prejuízo do artigo 3.º, n.º 3, da presente diretiva, que permite a monitorização de outro táxon da biota ou de outra matriz, desde que a NQA aplicada proporcione um nível de proteção equivalente. Salvo indicação em contrário, aplica-se à concentração total de todas as substâncias e isómeros. Salvo indicação em contrário, a NQA para a biota diz respeito aos peixes. «peixe AD» indica a NQA para a biota referente a peixes de água doce monitorizados em águas interiores; «peixe AS» indica a NQA para a biota referente a peixes de água salgada monitorizada noutras águas de superfície. No caso das substâncias n.^os^ 15 (fluoranteno), 28 (HAP) e 51 (bisfenol-A), a NQA para a biota refere-se aos crustáceos e moluscos. Para efeitos de avaliação do estado químico, a monitorização do fluoranteno, dos HAP e do bisfenol-A nos peixes não é adequada. Para a substância n.º 37 (dioxinas e compostos semelhantes a dioxinas), a NQA para a biota refere-se aos peixes, crustáceos e moluscos, em conformidade com o ponto 4.1.5 do anexo I do Regulamento (UE) 2023/915 da Comissão (*). (^7^) Para o grupo de substâncias prioritárias «éteres difenílicos bromados» (n.º 5), a NQA refere-se à soma das concentrações dos congéneres n.^os^ 28, 47, 99, 100, 153 e 154. (^8^) Éteres tetra, penta, hexa, hepta, octa e decabromodifenílicos (n.^os^ CAS 40088-47-9, 32534-81-9, 36483-60-0, 68928-80-3, 32536-52-0, 1163-19-5, respetivamente). (^9^) No caso do cádmio e seus compostos (n.º 6), os valores NQA variam em função de cinco classes de dureza da água (Classe 1: <40 mg CaCO3/l, Classe 2: 40 a <50 mg CaCO3/l, Classe 3: 50 a <100 mg CaCO3/l, Classe 4: 100 a <200 mg CaCO3/l, Classe 5: ≥200 mg CaCO3/l). (^10^) Não está previsto nenhum parâmetro indicativo para este grupo de substâncias. O(s) parâmetro(s) indicativo(s) deve(m) ser definido(s) com base no método analítico. (^11^) O «DDT total» inclui a soma dos isómeros 1,1,1-tricloro-2,2-bis(p-clorofenil)etano (n.º CAS 50-29-3, n.º UE 200-024-3); 1,1,1-tricloro-2(o-clorofenil)-2-(p-clorofenil)etano (n.º CAS 789-02-6, n.º UE-212-332-5); 1,1-dicloro-2,2-bis(p-clorofenil)etileno (n.º CAS 72-55-9, n.º UE 200-784-6); e 1,1-dicloro-2,2-bis(p-clorofenil)etano (n.º CAS 72-54-8, n.º UE 200-783-0). (^12^) Estas NQA referem-se às concentrações biodisponíveis das substâncias. (^13^) Nonilfenol (n.º CAS 25154-52-3, n.º UE 246-672-0), incluindo os isómeros 4-nonilfenol (n.º CAS 104-40-5, n.º UE 203-199-4) e 4-nonilfenol ramificado (n.º CAS 84852-15-3, n.º UE 284-325-5). (^14^) Octilfenol (n.º CAS 1806-26-4, n.º UE 217-302-5), incluindo o isómero 4-(1,1’,3,3’-tetrametilbutil)fenol (n.º CAS 140-66-9, n.º UE 205-426-2). (^15^) Benzo(a)pireno (n.º CAS 50-32-8) (RPF 1), benzo(b)fluoranteno (n.º CAS 205-99-2) (RPF 0,1 ), benzo(k)fluoranteno (n.º CAS 207-08-9) (RPF 0,1 ), benzo(g,h,i)perileno (n.º CAS 191-24-2) (RPF 0), indeno(1,2,3-cd)pireno (n.º CAS 193-39-5) (RPF 0,1 ), criseno (n.º CAS 218-01-9) (RPF 0,01 ), benzo(a)antraceno (n.º CAS 56-55-3) (RPF 0,1 ), dibenzo(a,h)antraceno (n.º CAS 53-70-3) (RPF 1) e fluoranteno (CAS 206-44-0) (RPF 0,01 ). O fluoranteno também figura separadamente na linha 15. Os HAP antraceno e naftaleno só são enumerados em separado porque não existe RPF disponível. (^16^) Para o grupo dos hidrocarbonetos aromáticos policíclicos (HAP) (n.º 28), a NQA para a biota refere-se à soma das concentrações de oito dos nove HAP enumerados na nota 15, expressas em equivalentes de benzo(a)pireno com base na potência carcinogénica das substâncias relativamente às do benzo(a)pireno, ou seja, as RPF constantes da nota 15. Não é necessário medir o benzo(g,h,i)perileno na biota para efeitos de determinação da conformidade com a globalidade da NQA para a biota. A NQA para a biota aplicável ao fluoranteno na linha 15 também deve ser cumprida. (^17^) Compostos de tributilestanho, incluindo o catião tributilestanho (n.º CAS 36643-28-4). (^18^) NQA para sedimentos. (^19^) Não existem dados suficientes para estabelecer normas NQA-CMA para estas substâncias. (^20^) Refere-se aos seguintes compostos: Sete dibenzeno-p-dioxinas policloradas (PCDD): 2,3,7,8-T4CDD (n.º CAS 1746-01-6, n.º UE 217-122-7), 1,2,3,7,8-P5CDD (n.º CAS 40321-76-4), 1,2,3,4,7,8-H6CDD (n.º CAS 39227-28-6), 1,2,3,6,7,8-H6CDD (n.º CAS 57653-85-7), 1,2,3,7,8,9-H6CDD (n.º CAS 19408-74-3), 1,2,3,4,6,7,8-H7CDD (n.º CAS 35822-46-9), 1,2,3,4,6,7,8,9-O8CDD (n.º CAS 3268-87-9). Dez dibenzofuranos policlorados (PCDF): 2,3,7,8-T4CDF (n.º CAS 51207-31-9), 1,2,3,7,8-P5CDF (n.º CAS 57117-41-6), 2,3,4,7,8-P5CDF (n.º CAS 57117-31-4), 1,2,3,4,7,8-H6CDF (n.º CAS 70648-26-9), 1,2,3,6,7,8-H6CDF (n.º CAS 57117-44-9), 1,2,3,7,8,9-H6CDF (n.º CAS 72918-21-9), 2,3,4,6,7,8-H6CDF (n.º CAS 60851-34-5), 1,2,3,4,6,7,8-H7CDF (n.º CAS 67562-39-4), 1,2,3,4,7,8,9-H7CDF (n.º CAS 55673-89-7), 1,2,3,4,6,7,8,9-O8CDF (n.º CAS 39001-02-0). Doze bifenilos policlorados semelhantes a dioxinas (PCB-DL): 3,3’,4,4’-T4CB (PCB 77, n.º CAS 32598-13-3), 3,3’,4’,5-T4CB (PCB 81, n.º CAS 70362-50-4), 2,3,3',4,4'-P5CB (PCB 105, n.º CAS 32598-14-4), 2,3,4,4',5-P5CB (PCB 114, n.º CAS 74472-37-0), 2,3',4,4',5-P5CB (PCB 118, n.º CAS 31508-00-6), 2,3',4,4',5'-P5CB (PCB 123, n.º CAS 65510-44-3), 3,3’,4,4’,5-P5CB (PCB 126, n.º CAS 57465-28-8), 2,3,3',4,4',5-H6CB (PCB 156, n.º CAS 38380-08-4), 2,3,3',4,4',5'-H6CB (PCB 157, n.º CAS 69782-90-7), 2,3',4,4',5,5'-H6CB (PCB 167, n.º CAS 52663-72-6), 3,3’,4,4’,5,5’-H6CB (PCB 169, n.º CAS 32774-16-6), 2,3,3',4,4',5,5'-H7CB (PCB 189, n.º CAS 39635-31-9). (^21^) Para o grupo das dioxinas e dos compostos semelhantes a dioxinas (n.º 37), a NQA para a biota refere-se à soma das concentrações das substâncias enumeradas na nota 20, expressas em equivalentes tóxicos com base nos fatores de equivalência tóxica 2005 da Organização Mundial da Saúde. (^22^) O n.º CAS 52315-07-8 refere-se a uma mistura de isómeros de cipermetrina, alfa-cipermetrina (n.º CAS 67375-30-8, n.º UE 257-842-9), beta-cipermetrina (n.º CAS 65731-84-2, n.º UE 265-898-0), teta-cipermetrina (n.º CAS 71691-59-1) e zeta-cipermetrina (n.º CAS 1315501-18-8, n.º UE 257-842-9). (^23^) Refere-se ao 1,3,5,7,9,11-hexabromociclododecano (n.º CAS 25637-99-4, n.º UE 247-148-4), 1,2,5,6,9,10-hexabromociclododecano (n.º CAS 3194-55-6, n.º UE 221-695-9), alfa-hexabromociclododecano (n.º CAS 134237-50-6), beta-hexabromociclododecano (n.º CAS 134237-51-7) e gama-hexabromociclododecano (n.º CAS 134237-52-8). (^24^) Para a água doce utilizada para captação e preparação de água potável. (^25^) Para a água doce não utilizada para captação e preparação de água potável. (^26^) Refere-se aos seguintes compostos, enumerados com os respetivos números CAS e UE e o seu fator de potência relativa (RPF): Ácido perfluoro-octanóico (PFOA) (n.º CAS 335-67-1, n.º UE 206-397-9) (RPF 1), ácido perfluoro-octanossulfónico (PFOS) (n.º CAS 1763-23-1, n.º UE 217-179-8) (RPF 2), ácido perfluorohexanossulfónico (PFHxS) (n.º CAS 355-46-4, n.º UE 206-587-1) (RPF 0,6 ), ácido perfluorononanóico (PFNA) (n.º CAS 375-95-1, n.º UE 206-801-3) (RPF 10), ácido perfluorobutanossulfónico (PFBS) (n.º CAS 375-73-5, n.º UE 206-793-1) (RPF 0,001 ), ácido perfluorohexanóico (PFHxA) (n.º CAS 307-24-4, n.º UE 206-196-6) (RPF 0,01 ), ácido perfluorobutanóico (PFBA) (n.º CAS 375-22-4, n.º UE 206-786-3) (RPF 0,05 ), ácido perfluoropentanóico (PFPeA) (n.º CAS 2706-90-3, n.º UE 220-300-7) (RPF 0,03 ), ácido perfluoropentanossulfónico (PFPeS) (n.º CAS 2706-91-4, n.º UE 220-301-2) (RPF 0,3005 ), ácido perfluorodecanóico (PFDA) (n.º CAS 335-76-2, n.º UE 206-400-3) (RPF 7), ácido perfluorododecanóico (PFDoDA ou PFDoA) (n.º CAS 307-55-1, n.º UE 206-203-2) (RPF 3), ácido perfluoroundecanóico (PFUnDA ou PFUnA) (n.º CAS 2058-94-8, n.º UE 218-165-4) (RPF 4), ácido perfluoroheptanóico (PFHpA) (n.º CAS 375-85-9, n.º UE 206-798-9) (RPF 0,505 ), ácido perfluorotridecanóico (PFTrDA) (n.º CAS 72629-94-8, n.º UE 276-745-2) (RPF 1,65 ), ácido perfluoroheptanossulfónico (PFHpS) (n.º CAS 375-92-8, n.º UE 206-800-8) (RPF 1,3 ), ácido perfluorodecanossulfónico (PFDS) (n.º CAS 335-77-3, n.º UE 206-401-9) (RPF 2), ácido perfluorotetradecanóico (PFTeDA) (n.º CAS 376-06-7, n.º UE 206-803-4) (RPF 0,3 ), ácido perfluorohexadecanóico (PFHxDA) (n.º CAS 67905-19-5, n.º UE 267-638-1) (RPF 0,02 ), ácido perfluoro-octadecanóico (PFODA) (n.º CAS 16517-11-6, n.º UE 240-582-5) (RPF 0,02 ), ácido 2,3,3,3-tetrafluoro-2-(heptafluoropropoxi)propiónico (HFPO-DA) (n.º CAS 13252-13-6) (RPF 0,06 ), ácido 2,2,3-trifluoro-3-(1,1,2,2,3,3-hexafluoro-3-(trifluorometoxi)propoxi)propanóico (n.º CAS 919005-14-4) (RPF 0,03 ), álcool 2-(perfluorohexil)etílico (6:2 FTOH) (n.º CAS 647-42-7, n.º UE 211-477-1) (RPF 0,02 ), 2-(perfluoro-octil)etanol (8:2 FTOH) (n.º CAS 678-39-7, n.º UE 211-648-0) (RPF 0,04 ), ácido 2,2-difluoro-2-((2,2,4,5-tetrafluoro-5-(trifluorometoxi)-1,3-dioxolano-4-il)oxi)acético (C6O4) (n.º CAS 1190931-41-9) (RPF 0,06 ) e ácido trifluoroacético (TFA) (n.º CAS 76-05-1, n.º UE 200-929-3) (RPF 0,002 ). (^27^) Para o grupo das PFAS (n.º 65), a NQA refere-se à soma das concentrações das 25 PFAS enumeradas na nota 26, expressas em equivalentes de PFOA com base na potência das substâncias relativamente às do PFOA, ou seja, as RPF constantes da nota 26. A NQA crítica é a NQA para a biota (relativa ao consumo de peixe) e deve, por conseguinte, ser cumprida. As NQA-MA não protegem de forma equivalente. (^28^) Entende-se por «pesticidas» os produtos fitofarmacêuticos a que se refere o artigo 2.º do Regulamento (CE) n.º 1107/2009 e os produtos biocidas na aceção do artigo 3.º do Regulamento (UE) n.º 528/2012. (^29^) Os critérios de desempenho mínimo estabelecidos na Diretiva 2009/90/CE aplicam-se a cada substância pertencente ao grupo de substâncias, mas tendo em conta a necessidade de quantificar a contribuição de cada substância para a concentração total para efeitos de comparação com a NQA. (^30^) Com as seguintes exceções: os quatro pesticidas a monitorizar na biota ou nos sedimentos, ou seja, as substâncias n.^os^ 16, 30, 34 e 44, e o glifosato. (*) Regulamento (UE) 2023/915 da Comissão, de 25 de abril de 2023, relativo aos teores máximos de certos contaminantes presentes nos géneros alimentícios e que revoga o Regulamento (CE) n.º 1881/2006 (JO L 119 de 5.5.2023, p. 103, ELI: http://data.europa.eu/eli/reg/2023/915/oj). |  |  |  |  |  |  |  |  |  |  |  |  |
+
+#### PARTE B: APLICAÇÃO DAS NQA ESTABELECIDAS NA PARTE A
+
+1. [**►M2**](http://publications.europa.eu/resource/celex/32026L0805) Para uma dada massa de águas de superfície, o cumprimento de uma NQA-MA exige que, em cada ponto de monitorização representativo situado na massa de água, a média aritmética das concentrações medidas em momentos diferentes do ano não exceda a norma.**◄** O cálculo da média aritmética, o método analítico utilizado e, sempre que não exista um método analítico adequado que cumpra os critérios de desempenho mínimos, o método de aplicação de uma NQA devem estar de acordo com actos de execução que aprovem especificações técnicas para a monitorização química e a qualidade dos resultados analíticos nos termos da Directiva 2000/60/CE.
+
+2. [**►M2**](http://publications.europa.eu/resource/celex/32026L0805) Para uma dada massa de águas de superfície, o cumprimento de uma NQA-CMA exige que a concentração medida não exceda a norma em nenhum ponto de monitorização representativo situado na massa de água.**◄** Contudo, de acordo com o Anexo V, ponto 1.3.4, da Diretiva 2000/60/CE, os Estados-Membros podem aplicar métodos estatísticos, como o cálculo de percentis, para garantir, na determinação do cumprimento das NQA-CMA, um nível de confiança e precisão aceitável. Caso os Estados-Membros assim fizerem, esses métodos estatísticos devem cumprir as regras de execução estabelecidas pelo procedimento de exame a que se refere o artigo 9.º, n.º 2, da presente diretiva.
+
+3. As NQA da água de superfície estabelecidas no presente anexo são expressas em concentração total na amostra integral de água. Não obstante o primeiro parágrafo, no caso dos casos do cádmio, do chumbo, do mercúrio e do níquel (a seguir designados por "metais"), as NQA da água de superfície referem-se à concentração em solução, ou seja, na fase dissolvida de uma amostra de água obtida após filtração através de um filtro de 0,45 μm ou por qualquer pré-tratamento equivalente ou, se expressamente indicado, à concentração biodisponível. Ao confrontarem os resultados da monitorização com as NQA aplicáveis, os Estados-Membros podem tomar em consideração: a) As concentrações de fundo naturais dos metais e respetivos compostos, caso estas concentrações impeçam o respeito das NQA aplicáveis; b) A dureza, o carbono orgânico dissolvido, o pH ou outros parâmetros de qualidade da água que afetem a biodisponibilidade dos metais, sendo as concentrações biodisponíveis determinadas mediante a utilização de modelos de biodisponibilidade adequados.
+
+## ANEXO II
+
+### NORMAS DE QUALIDADE AMBIENTAL PARA OS POLUENTES ESPECÍFICOS DAS BACIAS HIDROGRÁFICAS
+
+### PARTE A: LISTA INDICATIVA DE CATEGORIAS DE POLUENTES ESPECÍFICOS DAS BACIAS HIDROGRÁFICAS
+
+1. Compostos organo-halogenados e substâncias suscetíveis de formar esses compostos no meio aquático.
+
+2. Compostos organofosforados.
+
+3. Compostos organoestânicos.
+
+4. Substâncias e preparações ou os produtos da sua degradação, com propriedades comprovadamente carcinogénicas ou mutagénicas ou com propriedades suscetíveis de afetar as funções esteroidogénica, tiroideia, reprodutiva ou outras funções endócrinas no meio aquático ou por intermédio deste.
+
+5. Hidrocarbonetos persistentes e substâncias orgânicas tóxicas persistentes e bioacumuláveis.
+
+6. Cianetos.
+
+7. Metais e respetivos compostos.
+
+8. Arsénio e seus compostos.
+
+9. Biocidas e produtos fitofarmacêuticos.
+
+10. Matérias em suspensão, incluindo micro/nanoplásticos.
+
+11. Microrganismos, genes ou material genético que reflitam a presença de microrganismos resistentes a agentes antimicrobianos, em particular microrganismos patogénicos para os seres humanos ou para o gado.
+
+### PARTE B: PROCEDIMENTO PARA DERIVAR AS NORMAS DE QUALIDADE AMBIENTAL PARA OS POLUENTES ESPECÍFICOS DAS BACIAS HIDROGRÁFICAS
+
+Os métodos utilizados para o estabelecimento de NQA para os poluentes específicos das bacias hidrográficas devem incluir as seguintes etapas:
+
+a) Identificação dos recetores e compartimentos ou matrizes expostos ao perigo da substância que suscita preocupação;
+
+b) Recolha e avaliação da qualidade dos dados sobre as propriedades da substância que suscita preocupação (incluindo a sua (eco)toxicidade), em particular de relatórios de estudos laboratoriais, de mesocosmos e de campo que abranjam os efeitos crónicos e agudos em ambientes de água doce e de água salgada;
+
+c) Extrapolação de dados de (eco)toxicidade para concentrações sem efeitos ou semelhantes, utilizando métodos determinísticos ou probabilísticos, e seleção e aplicação de fatores de avaliação adequados para fazer face às incertezas e derivar NQA;
+
+d) Comparação das NQA para diferentes recetores e compartimentos e seleção de NQA críticas, ou seja, as NQA que proporcionam proteção ao recetor mais sensível no compartimento ou matriz mais relevante.
+
+### PARTE C: REPOSITÓRIO DE NORMAS DE QUALIDADE AMBIENTAL HARMONIZADAS PARA OS POLUENTES ESPECÍFICOS DAS BACIAS HIDROGRÁFICAS
+
+| Entrada N.º | Nome da substância | Categoria de substâncias | Número CAS [(^1^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0052) | Número UE [(^2^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0053) | NQA-MA [(^3^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0054) Águas de superfície interiores [(^4^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0055) [μg/l] | NQA-MA [(^3^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0054) Outras águas de superfície [μg/l] | NQA-CMA [(^5^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0056) Águas de superfície interiores [(^4^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0055) [μg/l] | NQA-CMA [(^5^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0056) Outras águas de superfície [μg/l] | NQA para a biota [(^6^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0057) [μg/kg de peso húmido] ou, quando indicado, NQA para sedimentos [μg/kg de peso seco] |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | Alacloro [(^7^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0058) | Pesticidas | 15972-60-8 | 240-110-8 | 0,3 | 0,3 | 0,7 | 0,7 |  |
+| 2 | Tetracloreto de carbono [(^7^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0058) | Substâncias industriais | 56-23-5 | 200-262-8 | 12 | 12 | Não aplicável | Não aplicável |  |
+| 3 | Clorfenvinfos [(^7^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0058) | Pesticidas | 470-90-6 | 207-432-0 | 0,1 | 0,1 | 0,3 | 0,3 |  |
+| 4 | Simazina [(^7^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0058) | Pesticidas | 122-34-9 | 204-535-2 | 1 | 1 | 4 | 4 |  |
+| 5 | Triclorobenzenos [(^7^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0058) | Substâncias industriais – solventes | 12002-48-1 | 234-413-4 | 0,4 | 0,4 | Não aplicável | Não aplicável |  |
+| 6 | Atrazina [(^7^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0058) | Pesticidas – herbicidas | 1912-24-9 | 217-617-8 | 0,6 | 0,6 | 2,0 | 2,0 |  |
+| (^1^) CAS: *Chemical Abstracts Service* (Serviço de Resumos de Química). (^2^) Número UE: Inventário Europeu das Substâncias Químicas Existentes no Mercado (EINECS) ou Lista Europeia das Substâncias Químicas Notificadas (ELINCS). (^3^) Este parâmetro constitui a NQA expressa em valor médio anual (NQA-MA). Salvo indicação em contrário, aplica-se à concentração total de todas as substâncias e isómeros. (^4^) As águas de superfície interiores compreendem os rios e lagos e as massas de água artificiais, ou fortemente modificadas, afins. (^5^) Este parâmetro constitui a NQA expressa em concentração máxima admissível (NQA-CMA). A indicação «não aplicável» nesta coluna significa que se considera que os valores NQA-MA protegem contra os picos de poluição de curta duração em descargas contínuas, por serem significativamente inferiores aos valores determinados com base na toxicidade aguda. (^6^) Se for indicada uma NQA para a biota, deve ser aplicada em vez da NQA para a água, sem prejuízo do artigo 3.º, n.º 3, da presente diretiva, que permite a monitorização de outro táxon da biota ou de outra matriz, desde que a NQA aplicada proporcione um nível de proteção equivalente. Salvo indicação em contrário, a NQA para a biota diz respeito aos peixes. (^7^) Substância anteriormente enumerada como substância prioritária no anexo X da Diretiva 2000/60/CE ou no anexo I da Diretiva 2008/105/CE. |  |  |  |  |  |  |  |  |  |
+
+## ANEXO III
+
+### SUBSTÂNCIAS SUJEITAS A REVISÃO PARA EVENTUAL IDENTIFICAÇÃO COMO SUBSTÂNCIAS PRIORITÁRIAS
+
+| Nome da substância | Número CAS [(^1^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0059) | Número UE [(^2^)](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#E0060) |
+| --- | --- | --- |
+| Soma de bisfenóis | Não aplicável | Não aplicável |
+| Soma(s) de pesticidas selecionados por modo de ação | Não aplicável | Não aplicável |
+| Soma(s) de produtos farmacêuticos selecionados por modo de ação | Não aplicável | Não aplicável |
+| (^1^) CAS: *Chemical Abstracts Service* (Serviço de Resumos de Química). (^2^) Número UE: Inventário Europeu das Substâncias Químicas Existentes no Mercado (EINECS) ou Lista Europeia das Substâncias Químicas Notificadas (ELINCS). |  |  |
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0001)) JO L 201 de 1.8.2009, p. 36.
+
+> ([^2^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0002)) JO L 41 de 14.2.2003, p. 26.
+
+> ([^3^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0003)) Regulamento (UE) 2024/1244 do Parlamento Europeu e do Conselho, de 24 de abril de 2024, relativo à comunicação de dados ambientais de instalações industriais, à criação de um Portal das Emissões Industriais e que revoga o Regulamento (CE) n.º 166/2006 (JO L, 2024/1244, 2.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1244/oj).
+
+> ([^4^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0004)) Diretiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano (JO L 311 de 28.11.2001, p. 67, ELI: [http://data.europa.eu/eli/dir/2001/83/oj](http://data.europa.eu/eli/dir/2001/83/oj)).
+
+> ([^5^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0005)) Regulamento (CE) n.º 1907/2006 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, relativo ao registo, avaliação, autorização e restrição dos produtos químicos (REACH), que cria a Agência Europeia dos Produtos Químicos, que altera a Diretiva 1999/45/CE e revoga o Regulamento (CEE) n.º 793/93 do Conselho e o Regulamento (CE) n.º 1488/94 da Comissão, bem como a Diretiva 76/769/CEE do Conselho e as Diretivas 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE da Comissão (JO L 396 de 30.12.2006, p. 1, ELI: [http://data.europa.eu/eli/reg/2006/1907/oj](http://data.europa.eu/eli/reg/2006/1907/oj)).
+
+> ([^6^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0006)) Regulamento (CE) n.º 1107/2009 do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, relativo à colocação dos produtos fitofarmacêuticos no mercado e que revoga as Diretivas 79/117/CEE e 91/414/CEE do Conselho (JO L 309 de 24.11.2009, p. 1, ELI: [http://data.europa.eu/eli/reg/2009/1107/oj](http://data.europa.eu/eli/reg/2009/1107/oj)).
+
+> ([^7^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0007)) Diretiva 2009/128/CE do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece um quadro de ação a nível comunitário para uma utilização sustentável dos pesticidas (JO L 309 de 24.11.2009, p. 71, ELI: [http://data.europa.eu/eli/dir/2009/128/oj](http://data.europa.eu/eli/dir/2009/128/oj)).
+
+> ([^8^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0008)) Diretiva 2010/75/UE do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, relativa às emissões industriais e provenientes da criação de animais (prevenção e controlo integrados da poluição) (JO L 334 de 17.12.2010, p. 17, ELI: [http://data.europa.eu/eli/dir/2010/75/oj](http://data.europa.eu/eli/dir/2010/75/oj)).
+
+> ([^9^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0009)) Regulamento (UE) n.º 528/2012 do Parlamento Europeu e do Conselho, de 22 de maio de 2012, relativo à disponibilização no mercado e à utilização de produtos biocidas (JO L 167 de 27.6.2012, p. 1, ELI: [http://data.europa.eu/eli/reg/2012/528/oj](http://data.europa.eu/eli/reg/2012/528/oj)).
+
+> ([^10^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0010)) Regulamento (UE) 2019/6 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, relativo aos medicamentos veterinários e que revoga a Diretiva 2001/82/CE (JO L 4 de 7.1.2019, p. 43, ELI: [http://data.europa.eu/eli/reg/2019/6/oj](http://data.europa.eu/eli/reg/2019/6/oj)).
+
+> ([^11^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0011)) Diretiva 2006/118/CE do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa à prevenção e controlo da poluição das águas subterrâneas (JO L 372 de 27.12.2006, p. 19, ELI: [http://data.europa.eu/eli/dir/2006/118/oj](http://data.europa.eu/eli/dir/2006/118/oj)).
+
+> ([^12^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0012)) Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas, que altera e revoga as Diretivas 67/548/CEE e 1999/45/CE, e altera o Regulamento (CE) n.º 1907/2006 (JO L 353 de 31.12.2008, p. 1, ELI: [http://data.europa.eu/eli/reg/2008/1272/oj](http://data.europa.eu/eli/reg/2008/1272/oj)).
+
+> ([^13^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0013)) Regulamento (UE) 2022/2379 do Parlamento Europeu e do Conselho, de 23 de novembro de 2022, relativo às estatísticas dos fatores de produção e produtos agrícolas, que altera o Regulamento (CE) n.º 617/2008 da Comissão e que revoga os Regulamentos (CE) n.º 1165/2008, (CE) n.º 543/2009 e (CE) n.º 1185/2009 do Parlamento Europeu e do Conselho e a Diretiva 96/16/CE do Conselho (JO L 315 de 7.12.2022, p. 1, ELI: [http://data.europa.eu/eli/reg/2022/2379/oj](http://data.europa.eu/eli/reg/2022/2379/oj)).
+
+> ([^14^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0014)) Diretiva 2009/90/CE da Comissão, de 31 de julho de 2009, que estabelece, nos termos da Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, especificações técnicas para a análise e monitorização químicas do estado da água (JO L 201 de 1.8.2009, p. 36, ELI: [http://data.europa.eu/eli/dir/2009/90/oj](http://data.europa.eu/eli/dir/2009/90/oj)).
+
+> ([^15^](http://publications.europa.eu/resource/cellar/1764589c-69c2-11f1-ae88-01aa75ed71a1.0018.02/DOC_1#src.E0015)) JO L 55 de 28.2.2011, p. 13.

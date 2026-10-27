@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:508602:por
+title: Decreto n.º 5-A/80
+short_title: null
+summary: Sujeita ao regime de servidão militar as áreas confinantes com as instalações da Estação Radionaval da Horta
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 5-A/80
+official_date: null
+publication_date: '1980-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 7/1980, 4º Suplemento, Série I de 1980-01-09
+  number: '7'
+  series: I
+  supplement: null
+  pages: 26-(69) a 26-(70)
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00704/00690070.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '508602'
+  dre_path: /dr/detalhe/decreto/5-a-1980-508602
+  internal: pt:dre:508602:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-a-1980-508602
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-a-1980-508602
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:55:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b47226b9246514a2264fe8b6fabac9267102703058181aaad678cdb490c6f331
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:55:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Estação Radionaval
+- Horta
+- Servidão Militar
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:55:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 5-A/80
+
+de 9 de Janeiro
+
+Sendo necessário definir as zonas confinantes com as instalações da central transmissora e da central receptora da Estação Radionaval da Horta, situadas no distrito da Horta, ilha do Faial, arquipélago dos Açores;
+
+Considerando o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e no [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964:
+
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+
+Artigo 1.º Ficam sujeitas ao regime de servidão militar as áreas confinantes com as instalações da Estação Radionaval da Horta, definidas como segue:
+
+a) Área A:
+
+Área compreendida nos círculos de 250 m de raio com centro no depósito de água (38º 31' 52,7" N.-28º 37' 57,1" W.) e no radiofarol da central transmissora (38º 31' 54,5" N.-28º 38' 03,3" W.), para oeste da linha de azimute 218º e norte da linha de azimute 290º, marcados, respectivamente, a partir da Igreja de S. Francisco (38º 32' 02,9" N.-28º 37' 42,3" W.) e do marco geodésico no monte das Moças (38º 31' 46,68" N.-28º 37' 47,85" W.).
+
+b) Área B:
+
+Restante área dentro dos círculos referenciados no artigo 1.º, alínea a) (pontos conspícuos tirados do Plano do Porto da Horta, carta n.º 183 do Instituto Hidrográfico).
+
+c) Área C:
+
+Área compreendida nos círculos de 500 m e 800 m de raio com centros, respectivamente, na esquina N. E. do edifício central da central receptora (P = 4266727; M = 355441 U. T. M.) e no centro da antena do radiogoniómetro (M = 355518,46; P = 4265980,06 U. T. M.).
+
+d) Área D:
+
+Sector circular do círculo de 3000 m de raio centrado no centro da antena do radiogoniómetro definido desde o azimute 68º até ao azimute 292º, marcados a partir do centro, com um total de 224º.
+
+e) Área E:
+
+Área do círculo com 3000 m de raio com o centro no centro da antena do radiogoniómetro.
+
+Art. 2.º Nos termos do artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), é proibida a execução, sem licença da autoridade militar competente, dos trabalhos e actividades seguintes, referidos às áreas mencionadas no artigo anterior:
+
+a) Nas áreas A e C:
+
+1) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
+
+2) Montagem de instalações eléctricas, máquinas e aparelhos industriais ou comerciais, tais como motores, instrumentos eléctricos de cabeleireiro, tabuletas e anúncios luminosos de funcionamento contínuo ou intermitente, trolleys ou carros eléctricos, ascensores, aparelhos electroterápicos, grupos electrogéneos e outros quaisquer aparelhos ou instrumentos que possam produzir interferências nas recepções e transmissões radiotelefónicas, radiotelegráficas e de radiolocalização da Estação;
+
+3) Instalação de cabos aéreos de transporte de energia eléctrica;
+
+4) Vedações, mesmo que sejam de rede e como divisória de propriedades;
+
+5) Plantações de árvores e arbustos;
+
+6) Outros trabalhos ou actividades, mesmo que não permanentes, que pelo seu funcionamento ou pelo obstáculo físico possam afectar o funcionamento da Estação.
+
+b) Na área B:
+
+Todas as construções cuja cota exceda 70 m.
+
+c) Na área D:
+
+Construções de qualquer natureza cuja cota máxima exceda a cota de 70 m acrescida de um valor igual a 5% da distância horizontal a que se encontrem do posto central da antena do radiogoniómetro da Estação.
+
+d) Na área E:
+
+1) Instalações de cabos aéreos de transporte de energia eléctrica a tensões superiores a 380 V;
+
+2) Instalações de radiocomunicações ou outras que possam produzir interferência nas recepções radiotelefónicas, radiotelegráficas e de radiolocalização da Estação.
+
+Art. 3.º - 1 - A concessão da licença a que se faz referência neste decreto compete ao Comando Naval dos Açores, depois de ouvido o Estado-Maior da Armada.
+
+2 - Das decisões tomadas ao abrigo do n.º 1 deste artigo cabe recurso para o Chefe do Estado-Maior da Armada.
+
+Art. 4.º - 1 - A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando da Defesa Marítima do Porto da Horta;
+
+2 - Compete também ao Comando da Defesa Marítima do Porto da Horta ordenar a demolição das obras e aplicar as multas pelas infracções verificadas, nos casos e nas condições previstos no [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
+
+3 - Das decisões tomadas ao abrigo do n.º 2 deste artigo cabe recurso para o comandante naval dos Açores.
+
+Art. 5.º Em conformidade com o disposto no § 1.º do artigo 7.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), os trabalhos e actividades condicionados pela servidão estabelecida pelo presente decreto que hajam de ser executados pelo Estado, nomeadamente pela Junta Autónoma dos Portos do Distrito da Horta e pelas autarquias locais, não carecem de licença, mas só podem realizar-se com a concordância do Chefe do Estado-Maior da Armada.
+
+Art. 6.º - 1 - Dos requerimentos das licenças a que se refere o artigo 3.º deverão constar:
+
+a) A descrição precisa e clara dos trabalhos ou actividades cuja execução se pretende, com a pormenorização necessária à sua conveniente caracterização;
+
+b) A localização do prédio em que se pretende efectuar os trabalhos ou actividades, com a menção dos necessários elementos de referência.
+
+2 - Os requerimentos deverão ser acompanhados de planta geral, em triplicado, com a situação das obras em relação ao prédio onde ela se projecta e, se for caso disso, de memória descritiva da construção projectada, também em triplicado, em escala não inferior a 1:200.
+
+Art. 7.º As áreas sujeitas a servidão militar serão demarcadas em planta apropriada, sendo destinados exemplares aos seguintes departamentos:
+
+Ministério da Defesa Nacional;
+
+Estado-Maior-General das Forças Armadas;
+
+Estado-Maior da Armada;
+
+Comando Naval dos Açores;
+
+Departamentos do Governo Regional dos Açores competentes.
+
+Maria de Lourdes Ruivo da Silva Matos Pintasilgo - José Alberto Loureiro dos Santos - Henrique Afonso da Silva Horta.
+
+Promulgado em 3 de Janeiro de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

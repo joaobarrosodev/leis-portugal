@@ -1,0 +1,342 @@
+---
+schema_version: '1.0'
+id: pt:dre:494853:por
+title: Portaria n.º 752/87
+short_title: null
+summary: Aprova o regulamento interno da Comissão do Domínio Público Marítimo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 752/87
+official_date: null
+publication_date: '1987-09-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 201/1987, Série I de 1987-09-02
+  number: '201'
+  series: I
+  supplement: null
+  pages: 3458 - 3459
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/09/20100/34583459.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '494853'
+  dre_path: /dr/detalhe/portaria/752-1987-494853
+  internal: pt:dre:494853:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/752-1987-494853
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/752-1987-494853
+  consolidated_url: null
+  retrieved_at: '2026-10-23T09:15:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f74fff4d4b761b758fc11090aeafa3f96f33ce6fe2b1b26b4c9b68d851cd7ee6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T09:15:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão do Domínio Público Marítimo
+- Domínio Público Hídrico
+- Domínio Público Marítimo
+- Regulamento Interno
+relationships:
+- type: amended_by
+  target: pt:dre:1183491:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:411653:por
+  label: "Alterado o n.º 10 e revogada a al. f) do n.º 23, ambos do Regulamento aprovado pelo presente diploma, pela PORT.344/96.08.08.1996.MDN,\
+    \ DR.IS-B [183] de 08.08.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/344-1996-411653
+  date: '1996-08-08'
+- type: amended_by
+  target: pt:numero:portaria:344/96
+  label: ALTERADO O NUM 10 E REVOGADA A AL F) DO NUM 23 DO REGULAMENTO, PELA PORT 344/96 DE 08-AGO DR.IS-B [183] .IS-B [183]
+  source: null
+  date: '1996-08-08'
+- type: amended_by
+  target: pt:dre:1183491:por
+  label: "Alterado os arts. 2º, 3º, 4º, 10º, 22º, 26º e 30º pela PORT.566/2008.11.06.2008.SEDNAM-MDN, DR.IIS [111] de 11.06.2008\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/566-2008-1183491
+  date: '2008-06-11'
+- type: cites
+  target: pt:dre:373428:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T09:15:57Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 752/87
+
+de 2 de Setembro
+
+O [Decreto-Lei n.º 300/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1984-373428), de 7 de Setembro, que define o sistema de autoridade marítima, prevê como um dos órgãos consultivos para as matérias relacionadas com o exercício global das actividades da autoridade marítima a Comissão do Domínio Público Marítimo, cujo regulamento interno será estabelecido por portaria do Ministro da Defesa Nacional.
+
+Nestes termos, ao abrigo do n.º 6 do artigo 5.º do [Decreto-Lei n.º 300/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1984-373428), de 7 de Setembro:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, aprovar o regulamento interno da Comissão do Domínio Público Marítimo, anexo à presente portaria, da qual faz parte integrante.
+
+Ministério da Defesa Nacional.
+
+Assinada em 13 de Agosto de 1987.
+
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.
+
+Regulamento interno da Comissão do Domínio Público Marítimo (CDPM)
+
+I - Competência e composição
+
+1 - A Comissão do Domínio Público Marítimo, abreviadamente designada por CDPM, destina-se a estudar e dar parecer sobre os assuntos relativos a utilização, manutenção e defesa do domínio público marítimo.
+
+2 - A CDPM funciona na dependência hierárquica directa do Chefe do Estado-Maior da Armada.
+
+3 - A CDPM é apoiada administrativamente pela Direcção-Geral de Marinha (DGM).
+
+4 - A CDPM é constituída por:
+
+a) Presidente - um oficial general da Armada, do activo ou da reserva;
+
+b) Seis individualidades de reconhecido mérito, sendo duas delas professores das faculdades de Direito;
+
+c) O juiz auditor do Tribunal Militar da Marinha;
+
+d) Um representante do órgão central do sistema de autoridade marítima;
+
+e) Um representante do sector de cartografia militar;
+
+f) Um representante do departamento de tutela do domínio público marítimo e dos portos;
+
+g) Um representante do Instituto Hidrográfico;
+
+h) Um representante do departamento de tutela dos recursos hídricos;
+
+i) Um representante do departamento de tutela das pescas;
+
+j) Um representante do departamento de tutela da qualidade de vida;
+
+l) Um representante do departamento de tutela do turismo;
+
+m) Um representante das administrações portuárias autónomas;
+
+n) Um representante do departamento de tutela das florestas;
+
+o) Um representante do departamento de tutela da cultura;
+
+p) Um representante do sector do património do Estado;
+
+q) Um representante das alfândegas;
+
+r) Um representante do Governo Regional dos Açores;
+
+s) Um representante do Governo Regional da Madeira;
+
+t) Um representante do sector da administração regional e autárquica;
+
+u) Um oficial da Armada, como secretário, sem direito a voto.
+
+II - Funcionamento
+
+5 - A CDPM reúne ordinariamente uma vez por semana, em dia e hora designados pelo presidente, e extraordinariamente sempre que a urgência dos assuntos a tratar o exija ou quando o presidente o entender.
+
+6 - Para as sessões extraordinárias deverá ser previamente distribuída a agenda de trabalhos.
+
+7 - As sessões da CDPM não são públicas e efectuam-se em instalações que tenham sido designadas para esse efeito.
+
+8 - Para a CDPM deliberar é necessário que esteja presente a maioria dos membros com direito a voto em efectividade de funções.
+
+9 - Quando forem tratados assuntos respeitantes a uma região autónoma, o respectivo representante será especialmente convocado para o efeito.
+
+10 - Nas sessões ordinárias, depois de o presidente declarar aberta a sessão, a ordem dos trabalhos será normalmente a seguinte:
+
+a) A leitura da minuta da acta da última sessão para eventuais correcções e aprovação;
+
+b) A assinatura, pelos membros presentes, das actas de sessões a que tenham assistido;
+
+c) O conhecimento do expediente recebido e de quaisquer assuntos correntes de serviço para eventuais tomadas de posição;
+
+d) A designação dos relatores para os processos entrados;
+
+e) O tratamento de quaisquer assuntos que se relacionem com o funcionamento da CDPM, tendente a dar maior eficiência aos seus trabalhos;
+
+f) A assinatura, pelos membros presentes, dos pareceres cujos projectos tenham sido anteriormente aprovados pela CDPM;
+
+g) A apresentação pelos relatores, para apreciação e votação, dos projectos de pareceres sobre os processos que lhes foram distribuídos.
+
+11 - Nas sessões extraordinárias o procedimento será, nas suas linhas gerais, idêntico, sem prejuízo do cumprimento da agenda de trabalhos distribuídos.
+
+12 - As deliberações da CDPM são tomadas por maioria simples, tendo o presidente, em caso de empate, voto de qualidade.
+
+13 - Nas votações, os vogais da Comissão que não concordem com a maioria, como aqueles que entendam necessário consignar qualquer comentário ao seu voto, poderão apresentar declarações de voto, que ficarão anexas ao texto aprovado, registando-se esse facto na acta da sessão.
+
+14 - Os processos submetidos a estudo e parecer da CDPM, depois de examinados pelo secretário, serão apresentados ao presidente, que, no caso de faltarem quaisquer documentos que considere essenciais, providenciará para que estes sejam juntos.
+
+15 - Os processos, numerados com a indicação abreviada do ano, serão distribuídos, em sessão, aos relatores.
+
+16 - Tanto o relator como os outros membros podem, sempre que o entendam necessário, propor, em sessão, que os processos voltem à entidade que os organizou, para informação mais desenvolvida, esclarecimento de qualquer aspecto ou junção de outros documentos convenientes ao seu estudo.
+
+17 - Os pedidos de parecer da CDPM serão dirigidos ao Chefe do Estado-Maior da Armada através do seu Gabinete.
+
+18 - Para a obtenção dos elementos complementares a que se referem os n.os 14 e 16, o presidente da CDPM corresponder-se-á directamente com os organismos responsáveis pela elaboração dos processos.
+
+19 - Os pareceres identificam-se pelo número que lhe será atribuído e pela data da sessão em que foram aprovados.
+
+20 - De cada parecer serão tirados sete exemplares, dos quais:
+
+a) Dois, incluindo o original a ser presente à homologação, seguirão juntos ao processo;
+
+b) Um será reservado à DGM;
+
+c) Dois ficarão no arquivo da CDPM;
+
+d) Um destinar-se-á à pasta do boletim da CDPM a publicar;
+
+e) Um será entregue ao relator.
+
+III - Pessoal e atribuições
+
+21 - Compete ao presidente:
+
+a) Marcar os dias e as horas em que devem realizar-se as sessões;
+
+b) Dirigir as sessões;
+
+c) Distribuir os processos que careçam de parecer, nomeando os relatores para este efeito;
+
+d) Assinar as actas das sessões e os pareceres, depois de aprovados, bem como a correspondência a expedir;
+
+e) Corresponder-se directamente, por meio de ofício, com as entidades indicadas no n.º 18 e, por meio de nota, com as entidades da Marinha no que respeita a pessoal e ao material e serviços;
+
+f) Convidar, ouvida a CDPM, a participar nas sessões personalidades com responsabilidade em determinadas matérias ou áreas geográficas cujo contributo seja importante para a discussão de assuntos constantes da respectiva agenda de trabalhos;
+
+g) Usar do voto de qualidade nas votações de que resulte empate;
+
+h) Presidir à comissão de redacção do boletim da CDPM;
+
+i) Representar a CDPM;
+
+j) Exercer, quanto ao pessoal da Armada em serviço na CDPM, a competência disciplinar fixada no Regulamento de Disciplina Militar para os oficiais generais.
+
+22 - Na ausência do presidente ou no seu impedimento temporário, será este substituído nas suas funções pelo oficial da Armada mais antigo.
+
+23 - Compete aos vogais:
+
+a) Tomar parte nos trabalhos das sessões;
+
+b) Propor em sessão, no período a esse fim destinado, o que se lhes afigurar conveniente para maior eficiência dos trabalhos da CDPM;
+
+c) Estudar os processos que lhes sejam distribuídos para relatar, elaborando os projectos de parecer respectivos, que serão presentes em sessão para apreciação e votação;
+
+d) Estudar os assuntos sobre os quais foram pedidas informações à Comissão;
+
+e) Acatar as resoluções da CDPM que lhes digam respeito;
+
+f) Assinar as actas e os pareceres.
+
+24 - Sempre que um vogal falte, sem motivo justificado, a seis sessões consecutivas, o presidente comunicará superiormente esse fato para o efeito de aquele ser substituído.
+
+25 - Ao secretário compete:
+
+a) Secretariar as sessões;
+
+b) Tomar parte nos trabalhos, com excepção das votações;
+
+c) Redigir as actas das sessões tendo em conta as resoluções nelas tomadas;
+
+d) Receber e examinar os processos enviados à CDPM e submetê-los à apreciação do presidente;
+
+e) Dar execução às decisões tomadas pela CDPM ou pelo presidente;
+
+f) Corresponder-se com os serviços da Marinha quando para tal receber incumbência do presidente;
+
+g) Orientar os serviços do arquivo;
+
+h) Secretariar a comissão de redacção do boletim da CDPM, tomando as medidas necessárias para a sua publicação.
+
+26 - No impedimento temporário do secretário, será este substituído nas suas funções pelo vogal oficial da Armada mais moderno.
+
+27 - Prestam serviço na Comissão um sargento e uma praça da Armada.
+
+28 - Compete ao sargento:
+
+a) Executar os serviços de arquivo, assegurando a sua boa ordem e actualização;
+
+b) Manter e conservar todo o material do Estado à sua responsabilidade;
+
+c) Seguir as orientações do secretário da CDPM nos diversos serviços de arquivo.
+
+29 - Compete à praça:
+
+a) Coadjuvar o sargento nas suas atribuições;
+
+b) Desempenhar o serviço de ordenança.
+
+30 - As senhas de presença devidas aos membros da CDPM serão pagas pelo órgão administrativo competente da DGM.
+
+IV - Material
+
+31 - Compete à DGM, através do seu órgão administrativo competente, dentro dos preceitos legais, a administração das verbas destinadas a assegurar o funcionamento da CDPM.
+
+32 - Todo o material do Estado ao serviço da CDPM, devidamente inventariado, fica à guarda e responsabilidade do sargento, como responsável subsidiário para com o órgão da DGM competente nesta matéria.
+
+V - Arquivo
+
+33 - A CDPM dispõe de arquivo próprio, sendo o apoio de secretaria dado pela DGM.
+
+34 - No arquivo existirão, para consulta, colecções tão completas quanto possível das disposições legais relativas aos fins que incumbem à CDPM, bem como quaisquer outros trabalhos publicados sobre os mesmos fins.
+
+35 - Além do arquivo geral dos processos e do arquivo geral de pareceres, existirão os livros, registadores e ficheiros necessários.
+
+VI - Boletim
+
+36 - Além dos pareceres da CDPM, serão também publicados no boletim os estudos e quaisquer outros trabalhos relacionados com o domínio público marítimo que convenha divulgar.
+
+37 - A elaboração do boletim competirá a uma comissão especial constituída pelo presidente, por dois vogais designados em sessão e pelo secretário.
+
+38 - O boletim será distribuído gratuitamente aos membros da CDPM e às entidades oficiais que carecem do conhecimento das doutrinas contidas nos pareceres, estudos e trabalhos publicados e, mediante o pagamento do preço que for fixado para cada exemplar, às entidades que pretendam adquiri-lo.
+
+39 - As despesas com a publicação do boletim correrão por conta da verba orçamental respectiva e o produto da venda dos exemplares dará entrada nos cofres do Estado.
+
+O Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida.

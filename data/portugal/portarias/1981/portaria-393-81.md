@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:573879:por
+title: Portaria n.º 393/81
+short_title: null
+summary: Altera os quadros do pessoal da Direcção-Geral de Portos e das Juntas Autónomas dos Portos de Aveiro, de Setúbal
+  e de Sotavento do Algarve
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, dos Transportes e Comunicações e da Reforma Administrativa
+proposing_entity: null
+official_number: 393/81
+official_date: null
+publication_date: '1981-05-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 112/1981, Série I de 1981-05-16
+  number: '112'
+  series: I
+  supplement: null
+  pages: 1139 - 1142
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/05/11200/11391142.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '573879'
+  dre_path: /dr/detalhe/portaria/393-1981-573879
+  internal: pt:dre:573879:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-1981-573879
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/393-1981-573879
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:45:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6f7cdd5e8c523af938ebea04bc5e73cf2b2fdd4422321f026f225cea0734db08
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:45:07Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral de Portos
+- Junta Autónoma do Porto de Aveiro
+- Junta Autónoma do Porto de Setúbal
+- Junta Autónoma dos Portos do Sotavento do Algarve
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:601104:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:381287:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667951:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:667958:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:578968:por
+  label: Rectificada pela DECL.DD6522.27.05.1981.PCM, DR.IS [135] de 15.06.1981
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1981-578968
+  date: '1981-05-27'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:45:07Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 393/81
+
+de 16 de Maio
+
+De harmonia com o disposto no n.º 1 do artigo 3.º do [Decreto-Lei n.º 247/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1979-381287), de 25 de Julho, os quadros do pessoal da Direcção-Geral de Portos e das Juntas Autónomas do Porto de Aveiro, do Porto de Setúbal e dos Portos de Sotavento do Algarve foram fixados pelas Portarias n.os [311-F/80](https://diariodarepublica.pt/dr/detalhe/portaria/311-f-1980-667954), [311-J/80](https://diariodarepublica.pt/dr/detalhe/portaria/311-j-1980-667958), 311-1/80 e [311-C/80](https://diariodarepublica.pt/dr/detalhe/portaria/311-c-1980-667951), de 30 de Maio.
+
+Por virtude da aplicação das regras do primeiro provimento, a que se refere o artigo 82.º do [Decreto-Lei n.º 247/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1979-381287) citado, verificou-se a indispensabilidade de alterar os quadros daqueles organismos portuários por forma a permitirem a integração dos agentes actualmente em actividade nas categorias e classes a que têm direito, sem que desse facto haja que alterar as dotações orçamentais já autorizadas. Na verdade, as correcções a introduzir não alteram o número de unidades que foram previstas por se tratar apenas do reajustamento do quadro perante a classificação atribuída aos funcionários a integrar nos respectivos quadros. Por este motivo as novas categorias agora introduzidas são a extinguir quando vagarem, mantendo-se, depois disso, intactos os quadros actualmente aprovados.
+
+Por outro lado, no quadro da Direcção-Geral de Portos é aumentada uma unidade na carreira de operários qualificados, categoria de serralheiro, e reduzida, em troca, uma unidade na categoria de electricista. No quadro do pessoal da Junta Autónoma dos Portos de Sotavento do Algarve é corrigida na carreira de marinheiros, categoria de marinheiros de 2.ª classe, a referência a dezoito unidades por respeitar apenas a oito unidades.
+
+Nestes termos, considerando o disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 247/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1979-381287), de 25 de Julho:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano, dos Transportes e Comunicações e da Reforma Administrativa, o seguinte:
+
+Único. Os quadros do pessoal da Direcção-Geral de Portos, da Junta Autónoma do Porto de Aveiro, da Junta Autónoma do Porto de Setúbal e da Junta Autónoma dos Portos de Sotavento do Algarve, fixados, respectivamente, pelas Portarias n.os [311-F/80](https://diariodarepublica.pt/dr/detalhe/portaria/311-f-1980-667954), [311-J/80](https://diariodarepublica.pt/dr/detalhe/portaria/311-j-1980-667958), 311-1/80 e [311-C/80](https://diariodarepublica.pt/dr/detalhe/portaria/311-c-1980-667951), de 30 de Maio, são alterados na conformidade dos anexos I, II, III e IV da presente portaria e que dela fazem parte integrante.
+
+Ministérios das Finanças e do Plano, dos Transportes e Comunicações e da Reforma Administrativa, 4 de Maio de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - Pelo Ministro dos Transportes e Comunicações, José da Silva Domingos, Secretário de Estado dos Transportes Exteriores. - O Ministro da Reforma Administrativa, Eusébio Marques de Carvalho.
+
+## ANEXO I — Alterações Introduzidas nos quadros do pessoal da Direcção-Geral de Portos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/11200/11391142.pdf)
+
+## ANEXO II — Alterações Introduzidas nos quadros do pessoal da Junta Autónoma do Porto de Aveiro
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/11200/11391142.pdf)
+
+## ANEXO III — Alterações introduzidas nos quadros do pessoal da Junta Autónoma do Porto de Setúbal
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/11200/11391142.pdf)
+
+## ANEXO IV — Alterações introduzidas nos quadros do pessoal da Junta Autónoma dos Portos de Sotavento do Algarve
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/05/11200/11391142.pdf)

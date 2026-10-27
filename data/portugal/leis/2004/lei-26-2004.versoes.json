@@ -1,0 +1,410 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517241:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2004-176885510",
+ "dre_path": "/dr/detalhe/lei/26-2004-517241",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-07-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176885671",
+    "176885655",
+    "176885656",
+    "176885657",
+    "176885658",
+    "176885659",
+    "176885660",
+    "176885661",
+    "176885662",
+    "176885663",
+    "176885664",
+    "176885665",
+    "176885666",
+    "176885667",
+    "176885668",
+    "176885669"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:529450:por",
+     "title": "Lei n.º 67-A/2007",
+     "published": "2007-12-31",
+     "dre_path": "/dr/detalhe/lei/67-a-2007-529450"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A"
+   ],
+   "fragments": [
+    "176885654",
+    "176885655",
+    "176885656",
+    "176885657",
+    "176885658",
+    "176885659",
+    "176885660",
+    "176885661",
+    "176885662",
+    "176885663",
+    "176885664",
+    "176885665",
+    "176885666",
+    "176885667",
+    "176885670",
+    "176885668",
+    "176885669"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243769:por",
+     "title": "Lei n.º 64-B/2011",
+     "published": "2011-12-30",
+     "dre_path": "/dr/detalhe/lei/64-b-2011-243769"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "176885671",
+    "176885672",
+    "176885673",
+    "176885674",
+    "176886375",
+    "176886376",
+    "176886377",
+    "176886378",
+    "176886379",
+    "176886380",
+    "176886381",
+    "176886382",
+    "176886383",
+    "176886384",
+    "176886385",
+    "176886386",
+    "176886387"
+   ]
+  }
+ ],
+ "fragments": {
+  "176885671": {
+   "fragment_id": "176885511",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2012-01-01",
+   "changed_by": [],
+   "markdown": "Lei n.º 26/2004\n\nde 8 de Julho\n\nAprova o Estatuto do Mecenato Científico e procede à nona alteração do Decreto-Lei n.º 74/99, de 16 de Março (Estatuto do Mecenato).\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:\n\nArtigo 1.º\n\nAprovação do Estatuto do Mecenato Científico\n\nÉ aprovado o Estatuto do Mecenato Científico, anexo à presente lei e dela fazendo parte integrante.\n\nArtigo 2.º\n\nAlteração ao Decreto-Lei n.º 74/99, de 16 de Março\n\nO artigo 1.º do Decreto-Lei n.º 74/99, de 16 de Março, bem como os artigos 1.º, 3.º, 4.º-A e 5.º-A do Estatuto do Mecenato, aprovado pelo mesmo diploma, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - Para os efeitos do disposto no presente diploma, apenas têm relevância fiscal os donativos em dinheiro ou em espécie concedidos sem contrapartidas que configurem obrigações de carácter pecuniário ou comercial às entidades públicas ou privadas nele previstas, cuja actividade consista predominantemente na realização de iniciativas nas áreas social, cultural, ambiental, desportiva e educacional.\n\n3 - ...\n\n4 - ...\n\nESTATUTO DO MECENATO\n\nCAPÍTULO I\n\nImposto sobre o rendimento das pessoas colectivas\n\nArtigo 1.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Os donativos referidos nos números anteriores são considerados custos em valor correspondente a 140% do respectivo total quando se destinarem exclusivamente à prossecução de fins de carácter social, a 120% se destinados exclusivamente a fins de carácter cultural, ambiental, desportivo e educacional ou a 130% quando atribuídos ao abrigo de contratos plurianuais celebrados para fins específicos que fixem os objectivos a prosseguir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos.\n\n4 - ...\n\nArtigo 3.º\n\nMecenato cultural, ambiental, desportivo e educacional\n\n1 - São considerados custos ou perdas de exercício até ao limite de 6/1000 do volume de vendas ou dos serviços prestados os donativos atribuídos às seguintes entidades:\n\na) Cooperativas culturais, institutos, fundações e associações que prossigam actividades de cultura e de defesa do património histórico-cultural e outras entidades que desenvolvam acções no âmbito do teatro, do bailado, da música, da organização de festivais e outras manifestações artísticas e da produção cinematográfica, áudio-visual e literária;\n\nb) ...\n\nc) ...\n\nd) [Anterior alínea f).]\n\ne) [Anterior alínea g).]\n\nf) [Anterior alínea h).]\n\ng) [Anterior alínea i).]\n\n2 - O limite previsto no número anterior não é aplicável aos donativos atribuídos às entidades nele referidas para a realização de actividades ou programas que sejam considerados de superior interesse cultural, ambiental, desportivo e educacional.\n\n3 - ...\n\nArtigo 4.º-A\n\nValor dos bens doados\n\nNo caso de donativos em espécie, considera-se, para efeitos do presente Estatuto, que o valor dos bens é o valor fiscal que os mesmos tiverem no exercício em que forem doados, ou seja:\n\na) No caso de bens do activo imobilizado, o custo de aquisição ou de produção deduzido das reintegrações efectivamente praticadas e aceites para efeitos fiscais, sem prejuízo do disposto na parte final da alínea a) do n.º 5 do artigo 29.º do Código do IRC;\n\nb) No caso de bens com a natureza de existências, o custo de aquisição ou de produção, eventualmente deduzido das provisões que devam ser constituídas de acordo com o respectivo regime fiscal.\n\nCAPÍTULO II\n\nImposto sobre o rendimento das pessoas singulares\n\nArtigo 5.º-A\n\nValor dos bens doados\n\n1 - No caso de donativos em espécie efectuados por sujeitos passivos de IRS que exerçam actividades empresariais e profissionais, considera-se, para efeitos do presente Estatuto, que o valor dos bens é o valor fiscal que os mesmos tiverem no exercício em que forem doados, calculado nos termos do artigo 4.º-A.\n\n2 - Sendo os donativos efectuados por sujeitos passivos que não exerçam actividades empresariais ou profissionais, ou que, exercendo-as, os mesmos bens não lhes estejam afectos, o seu valor corresponde ao respectivo custo de aquisição ou de produção, devidamente comprovado.»\n\nArtigo 3.º\n\nEntrada em vigor\n\n1 - A presente lei entra em vigor no prazo de 90 dias, salvo os artigos 8.º e 9.º do Estatuto do Mecenato Científico, que apenas produzem efeitos a partir de 1 de Janeiro de 2005.\n\n2 - Ficam, todavia, ressalvados os efeitos jurídicos decorrentes de reconhecimentos já efectuados.\n\n3 - Até à entrada em vigor dos artigos 8.º e 9.º do Estatuto do Mecenato Científico, para efeitos de determinação dos montantes dos respectivos incentivos fiscais, é aplicável o disposto no Estatuto do Mecenato, aprovado pelo Decreto-Lei n.º 74/99, de 16 de Março, alterado pelas Leis n.os 160/99, de 14 de Setembro, 176-A/99, de 30 de Dezembro, 3-B/2000, de 4 de Abril, 30-C/2000, de 29 de Dezembro, 30-G/2000, de 29 de Dezembro, e 109-B/2001, de 27 de Dezembro, e pela Lei n.º 107-B/2003, de 31 de Dezembro.\n\nAprovada em 6 de Maio de 2004.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 22 de Junho de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 24 de Junho de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\nANEXO\n\nESTATUTO DO MECENATO CIENTÍFICO"
+  },
+  "176885655": {
+   "fragment_id": "176885512",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "176885656": {
+   "fragment_id": "176885513",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Estatuto regula os incentivos fiscais e não fiscais a usufruir pelas pessoas singulares e colectivas, de natureza pública ou privada, que concedam a outras donativos em dinheiro ou em espécie, sem contrapartidas que configurem obrigações de carácter pecuniário ou comercial, destinados exclusivamente à realização de actividades de natureza científica ou à promoção de condições que permitam a sua realização.\n\n2 - Os incentivos regulados no presente Estatuto não são cumuláveis com quaisquer outros de idêntica natureza."
+  },
+  "176885657": {
+   "fragment_id": "176885514",
+   "type": 11,
+   "heading": "Artigo 2.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Modalidades\n\n1 - São modalidades do mecenato científico:\n\na) O mecenato de projecto de investigação;\n\nb) O mecenato de equipamento científico;\n\nc) O mecenato de recursos humanos;\n\nd) O mecenato para a divulgação científica;\n\ne) O mecenato de inovação ou aplicação industrial.\n\n2 - Para efeitos do disposto no número anterior, entende-se por:\n\na) «Mecenato de projecto de investigação» o contributo de uma pessoa singular ou colectiva, nos termos do artigo 1.º, destinado a apoiar o desenvolvimento de um projecto de investigação científica, desde que no quadro de uma instituição legalmente reconhecida pelo Ministério da Ciência e do Ensino Superior, salvo quando tal contributo tenha por objecto o pagamento de taxas de frequência obrigatórias dos estabelecimentos de ensino superior;\n\nb) «Mecenato de equipamento científico» o contributo de uma pessoa singular ou colectiva, nos termos do artigo 1.º, destinado a apoiar a aquisição de instalações e ou equipamento científico, bem como a realização de obras de conservação em instalações destinadas à investigação científica;\n\nc) «Mecenato de recursos humanos» a cedência de investigadores e ou especialistas de uma entidade a outra, para o desenvolvimento, em exclusividade, de um projecto de investigação ou demonstração;\n\nd) «Mecenato para a divulgação científica» o contributo de uma pessoa singular ou colectiva, nos termos do artigo 1.º, destinado a apoiar actividades de divulgação científica, incluindo a realização de grandes eventos científicos, como feiras, congressos e exposições;\n\ne) «Mecenato de inovação ou aplicação industrial» o contributo de uma pessoa singular ou colectiva, nos termos do artigo 1.º, destinado a apoiar a demonstração, em ambiente industrial, de resultados de investigação e desenvolvimento tecnológico, desde que tal demonstração assuma carácter inovador.\n\n3 - O mecenato científico pode ser singular ou colectivo, consoante seja praticado por uma ou mais pessoas singulares ou colectivas, tendo por objecto a mesma prestação."
+  },
+  "176885658": {
+   "fragment_id": "176885515",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\n1 - São consideradas entidades beneficiárias as destinatárias directas dos donativos a que se refere o artigo 1.º, independentemente da sua natureza jurídica e cuja actividade consista predominantemente na realização de actividades científicas, considerando-se como tal:\n\na) Fundações, associações e institutos públicos ou privados;\n\nb) Instituições de ensino superior, bibliotecas, mediatecas e centros de documentação;\n\nc) Laboratórios do Estado, laboratórios associados, unidades de investigação e desenvolvimento, centros de transferência e centros tecnológicos.\n\n2 - São ainda consideradas como entidades beneficiárias:\n\na) Órgãos de comunicação social, quando se trate de mecenato para a divulgação científica;\n\nb) Empresas nas quais se desenvolvam acções de demonstração a que refere a alínea e) do n.º 2 do artigo 2.º"
+  },
+  "176885659": {
+   "fragment_id": "176885516",
+   "type": 11,
+   "heading": "Artigo 4.º — Mecenas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Mecenas\n\n1 - São consideradas mecenas as pessoas singulares ou colectivas que concedam donativos às entidades a que se refere o artigo anterior, nos termos do presente Estatuto.\n\n2 - Não são considerados mecenas, para os efeitos previstos nesta lei:\n\na) Os titulares de cargos de direcção ou administração da entidade beneficiária;\n\nb) As pessoas, singulares ou colectivas, relativamente às quais a entidade beneficiária seja economicamente dependente, considerando-se como tal a titularidade de mais de 50% do capital da entidade beneficiária.\n\n3 - Exceptuam-se do disposto no número anterior os membros fundadores das entidades beneficiárias.\n\n4 - As incompatibilidades a que se refere o n.º 2 são motivo de rejeição da acreditação, nos termos do artigo 6.º\n\n5 - Para os efeitos previstos no capítulo II, não é reconhecido o mecenato recíproco nem o mecenato em cadeia."
+  },
+  "176885660": {
+   "fragment_id": "176885517",
+   "type": 11,
+   "heading": "Artigo 5.º — Acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acreditação\n\n1 - A usufruição de qualquer dos incentivos previstos no presente diploma depende de acreditação, consubstanciando-se esta na emissão do certificado Ciência 2010.\n\n2 - O certificado Ciência 2010 é atribuído a cada donativo, por uma entidade acreditadora designada por despacho do Ministro da Ciência e do Ensino Superior, e comprova a afectação do donativo a uma actividade de natureza científica.\n\n3 - Nos casos em que o donativo não tenha sido ainda atribuído, o certificado Ciência 2010 deverá estabelecer o seu prazo de validade."
+  },
+  "176885661": {
+   "fragment_id": "176885518",
+   "type": 11,
+   "heading": "Artigo 6.º — Processo de acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Processo de acreditação\n\n1 - Para obter o certificado Ciência 2010 a entidade mecenas deve apresentar à entidade acreditadora documento justificativo contendo os seguintes elementos:\n\na) Nome completo, domicílio ou sede e número de contribuinte da entidade mecenas e da entidade beneficiária;\n\nb) Descrição detalhada do donativo atribuído ou a atribuir, incluindo o seu valor pecuniário e a identificação da actividade a que se destina, nomeadamente o seu lugar de execução e uma estimativa de custos do projecto, quando se justifique;\n\nc) Declaração de inexistência de incompatibilidades, tal como definidas no artigo 4.º do presente Estatuto.\n\n2 - A entidade beneficiária deve fornecer à entidade mecenas as informações necessárias ao cumprimento do disposto no número anterior.\n\n3 - Recebido o pedido, a entidade acreditadora dispõe de 30 dias para proferir uma decisão, devendo convidar, de imediato, a entidade mecenas a suprir as insuficiências do pedido, dentro do mesmo prazo.\n\n4 - Serão indeferidos:\n\na) Os pedidos que não contenham as informações referidas no n.º 1, desde que, ultrapassado o prazo previsto, e após ser dado conhecimento daquela falta, por escrito, a entidade mecenas não as apresente;\n\nb) Os pedidos cuja justificação se apresente manifestamente insuficiente.\n\n5 - A decisão de acreditação é comunicada, por escrito, à entidade mecenas e à entidade beneficiária, devendo a entidade acreditadora enviar, anualmente, às autoridades fiscais lista de todos os certificados Ciência 2010 atribuídos."
+  },
+  "176885662": {
+   "fragment_id": "176885519",
+   "type": 11,
+   "heading": "Artigo 7.º — Reconhecimento por despacho conjunto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reconhecimento por despacho conjunto\n\n1 - Sem prejuízo do disposto nos artigos anteriores, nos casos em que a entidade beneficiária seja de natureza privada, a acreditação depende de prévio reconhecimento, através de despacho conjunto dos Ministros das Finanças e da Ciência e do Ensino Superior.\n\n2 - A entidade beneficiária deve requerer, fundamentadamente, junto da entidade acreditadora o reconhecimento da natureza científica da actividade por si desenvolvida, competindo à entidade acreditadora emitir parecer sobre o mesmo e remeter o pedido à tutela.\n\n3 - Do despacho conjunto referido no n.º 1 consta necessariamente a fixação do prazo de validade de tal reconhecimento."
+  },
+  "176885663": {
+   "fragment_id": "176885520",
+   "type": 1,
+   "heading": "Capítulo II — Incentivos fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Incentivos fiscais"
+  },
+  "176885664": {
+   "fragment_id": "176885521",
+   "type": 11,
+   "heading": "Artigo 8.º — Imposto sobre o rendimento das pessoas colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Imposto sobre o rendimento das pessoas colectivas\n\n1 - São considerados custos ou perdas do exercício, em valor correspondente a 130% do respectivo total, para efeitos do IRC ou da categoria B do IRS, os donativos atribuídos às entidades previstas no artigo 3.º do presente Estatuto, pertencentes:\n\na) Ao Estado, às Regiões Autónomas e autarquias locais e a qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados;\n\nb) A associações de municípios e freguesias;\n\nc) A fundações em que o Estado, as Regiões Autónomas ou as autarquias locais participem no património inicial.\n\n2 - São considerados custos ou perdas do exercício, até ao limite de 8/1000 do volume de vendas ou de serviços prestados, em valor correspondente a 130% para efeitos do IRC ou da categoria B do IRS, os donativos atribuídos às entidades de natureza privada previstas no artigo 3.º do presente Estatuto.\n\n3 - Os donativos previstos nos números anteriores são considerados custos em valor correspondente a 140% do seu valor quando atribuídos ao abrigo de contratos plurianuais que fixem objectivos a atingir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos."
+  },
+  "176885665": {
+   "fragment_id": "176885522",
+   "type": 11,
+   "heading": "Artigo 9.º — Imposto sobre o rendimento das pessoas singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Imposto sobre o rendimento das pessoas singulares\n\n1 - Os donativos atribuídos pelas pessoas singulares residentes em território nacional às entidades previstas no artigo 3.º do presente Estatuto são dedutíveis à colecta do ano a que dizem respeito, com as seguintes especificidades:\n\na) Em valor correspondente a 25% das importâncias atribuídas, no caso das entidades beneficiárias a que se refere o n.º 1 do artigo anterior;\n\nb) Em valor correspondente a 25% das importâncias atribuídas, até ao limite de 15% da colecta, nos casos a que se refere o n.º 2 do artigo anterior.\n\n2 - As deduções previstas no número anterior só são efectuadas no caso de não terem sido contabilizadas como custos."
+  },
+  "176885666": {
+   "fragment_id": "176885523",
+   "type": 11,
+   "heading": "Artigo 10.º — Imposto sobre o valor acrescentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Imposto sobre o valor acrescentado\n\nNão estão sujeitas a IVA as transmissões de bens e as prestações de serviços efectuadas a título gratuito pelas entidades às quais forem concedidos donativos abrangidos pelo presente Estatuto, em benefício directo das pessoas singulares ou colectivas que os atribuam quando o correspondente valor não ultrapassar, no seu conjunto, 5% do montante do donativo recebido."
+  },
+  "176885667": {
+   "fragment_id": "176885524",
+   "type": 11,
+   "heading": "Artigo 11.º — Valor dos donativos em espécie",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Valor dos donativos em espécie\n\n1 - No caso de donativos em espécie efectuados por sujeitos passivos de IRC ou por sujeitos passivos de IRS que exerçam actividades empresariais e profissionais, considera-se, para efeitos do presente Estatuto, que o valor dos bens é o valor fiscal que os mesmos tiverem no exercício em que forem doados, ou seja:\n\na) No caso de bens do activo imobilizado, o custo de aquisição ou de produção deduzido das reintegrações efectivamente praticadas e aceites para efeitos fiscais, sem prejuízo do disposto na parte final da alínea a) do n.º 5 do artigo 29.º do Código do IRC;\n\nb) No caso de bens com a natureza de existências, o custo de aquisição ou de produção eventualmente deduzido das provisões que devam ser constituídas de acordo com o respectivo regime fiscal.\n\n2 - Sendo os bens doados por sujeitos passivos de IRS que não exerçam actividades empresariais ou profissionais, ou que, exercendo-as, os mesmos bens não lhes estejam afectos, o seu valor corresponde ao respectivo custo de aquisição ou de produção, devidamente comprovado.\n\n3 - No caso de mecenato de recursos humanos, considera-se, para efeitos do presente Estatuto, que o valor da cedência de um investigador ou especialista é o valor correspondente aos encargos despendidos pela entidade patronal com a sua remuneração, incluindo os suportados para regimes obrigatórios de segurança social, durante o período da respectiva cedência."
+  },
+  "176885668": {
+   "fragment_id": "176885525",
+   "type": 1,
+   "heading": "Capítulo III — Incentivos não fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Incentivos não fiscais"
+  },
+  "176885669": {
+   "fragment_id": "176885526",
+   "type": 11,
+   "heading": "Artigo 12.º — Rede Nacional do Mecenato Científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Rede Nacional do Mecenato Científico\n\n1 - É criada a Rede Nacional do Mecenato Científico - MECEN.PT - destinada a promover e divulgar o mecenato científico.\n\n2 - Fazem parte da MECEN.PT todas as entidades mecenas às quais seja atribuído o certificado Ciência 2010 e as entidades beneficiárias, podendo, ainda, integrar a Rede todos os interessados na promoção do mecenato científico.\n\n3 - A Rede assenta numa base de dados de livre acesso, contendo informação sobre as acções de mecenato científico já realizadas e em curso, bem como sobre os mecenas e beneficiários, sem prejuízo do cumprimento do desejo de anonimato eventualmente expresso junto da entidade acreditora, no momento do reconhecimento, caso em que a entidade será apenas tida em conta para efeitos estatísticos.\n\n4 - Anualmente, serão atribuídos, em cerimónia pública, promovida pelo Ministério da Ciência e do Ensino Superior, os prémios Mecenas aos membros da MECEN.PT que mais se destaquem no âmbito do mecenato científico."
+  },
+  "176885654": {
+   "fragment_id": "176885511",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 26/2004\n\nde 8 de Julho\n\nAprova o Estatuto do Mecenato Científico e procede à nona alteração do Decreto-Lei n.º 74/99, de 16 de Março (Estatuto do Mecenato).\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:\n\nArtigo 1.º\n\nAprovação do Estatuto do Mecenato Científico\n\nÉ aprovado o Estatuto do Mecenato Científico, anexo à presente lei e dela fazendo parte integrante.\n\nArtigo 2.º\n\nAlteração ao Decreto-Lei n.º 74/99, de 16 de Março\n\nO artigo 1.º do Decreto-Lei n.º 74/99, de 16 de Março, bem como os artigos 1.º, 3.º, 4.º-A e 5.º-A do Estatuto do Mecenato, aprovado pelo mesmo diploma, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - Para os efeitos do disposto no presente diploma, apenas têm relevância fiscal os donativos em dinheiro ou em espécie concedidos sem contrapartidas que configurem obrigações de carácter pecuniário ou comercial às entidades públicas ou privadas nele previstas, cuja actividade consista predominantemente na realização de iniciativas nas áreas social, cultural, ambiental, desportiva e educacional.\n\n3 - ...\n\n4 - ...\n\nESTATUTO DO MECENATO\n\nCAPÍTULO I\n\nImposto sobre o rendimento das pessoas colectivas\n\nArtigo 1.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Os donativos referidos nos números anteriores são considerados custos em valor correspondente a 140% do respectivo total quando se destinarem exclusivamente à prossecução de fins de carácter social, a 120% se destinados exclusivamente a fins de carácter cultural, ambiental, desportivo e educacional ou a 130% quando atribuídos ao abrigo de contratos plurianuais celebrados para fins específicos que fixem os objectivos a prosseguir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos.\n\n4 - ...\n\nArtigo 3.º\n\nMecenato cultural, ambiental, desportivo e educacional\n\n1 - São considerados custos ou perdas de exercício até ao limite de 6/1000 do volume de vendas ou dos serviços prestados os donativos atribuídos às seguintes entidades:\n\na) Cooperativas culturais, institutos, fundações e associações que prossigam actividades de cultura e de defesa do património histórico-cultural e outras entidades que desenvolvam acções no âmbito do teatro, do bailado, da música, da organização de festivais e outras manifestações artísticas e da produção cinematográfica, áudio-visual e literária;\n\nb) ...\n\nc) ...\n\nd) [Anterior alínea f).]\n\ne) [Anterior alínea g).]\n\nf) [Anterior alínea h).]\n\ng) [Anterior alínea i).]\n\n2 - O limite previsto no número anterior não é aplicável aos donativos atribuídos às entidades nele referidas para a realização de actividades ou programas que sejam considerados de superior interesse cultural, ambiental, desportivo e educacional.\n\n3 - ...\n\nArtigo 4.º-A\n\nValor dos bens doados\n\nNo caso de donativos em espécie, considera-se, para efeitos do presente Estatuto, que o valor dos bens é o valor fiscal que os mesmos tiverem no exercício em que forem doados, ou seja:\n\na) No caso de bens do activo imobilizado, o custo de aquisição ou de produção deduzido das reintegrações efectivamente praticadas e aceites para efeitos fiscais, sem prejuízo do disposto na parte final da alínea a) do n.º 5 do artigo 29.º do Código do IRC;\n\nb) No caso de bens com a natureza de existências, o custo de aquisição ou de produção, eventualmente deduzido das provisões que devam ser constituídas de acordo com o respectivo regime fiscal.\n\nCAPÍTULO II\n\nImposto sobre o rendimento das pessoas singulares\n\nArtigo 5.º-A\n\nValor dos bens doados\n\n1 - No caso de donativos em espécie efectuados por sujeitos passivos de IRS que exerçam actividades empresariais e profissionais, considera-se, para efeitos do presente Estatuto, que o valor dos bens é o valor fiscal que os mesmos tiverem no exercício em que forem doados, calculado nos termos do artigo 4.º-A.\n\n2 - Sendo os donativos efectuados por sujeitos passivos que não exerçam actividades empresariais ou profissionais, ou que, exercendo-as, os mesmos bens não lhes estejam afectos, o seu valor corresponde ao respectivo custo de aquisição ou de produção, devidamente comprovado.»\n\nArtigo 3.º\n\nEntrada em vigor\n\n1 - A presente lei entra em vigor no prazo de 90 dias, salvo os artigos 8.º e 9.º do Estatuto do Mecenato Científico, que apenas produzem efeitos a partir de 1 de Janeiro de 2005.\n\n2 - Ficam, todavia, ressalvados os efeitos jurídicos decorrentes de reconhecimentos já efectuados.\n\n3 - Até à entrada em vigor dos artigos 8.º e 9.º do Estatuto do Mecenato Científico, para efeitos de determinação dos montantes dos respectivos incentivos fiscais, é aplicável o disposto no Estatuto do Mecenato, aprovado pelo Decreto-Lei n.º 74/99, de 16 de Março, alterado pelas Leis n.os 160/99, de 14 de Setembro, 176-A/99, de 30 de Dezembro, 3-B/2000, de 4 de Abril, 30-C/2000, de 29 de Dezembro, 30-G/2000, de 29 de Dezembro, e 109-B/2001, de 27 de Dezembro, e pela Lei n.º 107-B/2003, de 31 de Dezembro.\n\nAprovada em 6 de Maio de 2004.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 22 de Junho de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 24 de Junho de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\nANEXO\n\nESTATUTO DO MECENATO CIENTÍFICO"
+  },
+  "176885670": {
+   "fragment_id": "176885527",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Obrigações acessórias das entidades beneficiárias",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 77.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Obrigações acessórias das entidades beneficiárias\n\n1 - As entidades beneficiárias dos donativos são obrigadas a:\n\na) Emitir documento comprovativo dos montantes dos donativos recebidos dos seus mecenas, com a indicação do seu enquadramento no âmbito do presente Estatuto e, bem assim, com a menção de que o donativo é concedido sem contrapartidas;\n\nb) Possuir registo actualizado das entidades mecenas, do qual constem, nomeadamente, o nome, o número de identificação fiscal, bem como a data e o valor de cada donativo que lhes tenha sido atribuído nos termos do presente Estatuto;\n\nc) Entregar à Direcção-Geral dos Impostos, até ao final do mês de Fevereiro de cada ano, uma declaração de modelo oficial, referente aos donativos recebidos no ano anterior.\n\n2 - Para efeitos da alínea a) do número anterior, o documento comprovativo deve conter:\n\na) A qualidade jurídica da entidade beneficiária;\n\nb) O normativo legal onde se enquadra, bem como, se for caso disso, a identificação do despacho necessário ao reconhecimento;\n\nc) O montante do donativo em dinheiro, quando este for de natureza monetária;\n\nd) No caso de donativos em espécie, a identificação dos bens, dos serviços e o respectivo valor, determinado nos termos do artigo anterior.\n\n3 - Os donativos em dinheiro de valor superior a (euro) 200 devem ser efectuados através de meio de pagamento que permita a identificação do mecenas, designadamente transferência bancária, cheque nominativo ou débito directo.\n\n> Aditado pelo/a Artigo 77.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "176885672": {
+   "fragment_id": "176885512",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176885673": {
+   "fragment_id": "176885513",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Estatuto regula os incentivos fiscais e não fiscais a usufruir pelas pessoas singulares e colectivas, de natureza pública ou privada, que concedam a outras donativos em dinheiro ou em espécie, sem contrapartidas que configurem obrigações de carácter pecuniário ou comercial, destinados exclusivamente à realização de actividades de natureza científica ou à promoção de condições que permitam a sua realização.\n\n2 - Os incentivos regulados no presente Estatuto não são cumuláveis com quaisquer outros de idêntica natureza.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176885674": {
+   "fragment_id": "176885514",
+   "type": 11,
+   "heading": "Artigo 2.º — Modalidades",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Modalidades\n\n1 - São modalidades do mecenato científico:\n\na) O mecenato de projecto de investigação;\n\nb) O mecenato de equipamento científico;\n\nc) O mecenato de recursos humanos;\n\nd) O mecenato para a divulgação científica;\n\ne) O mecenato de inovação ou aplicação industrial.\n\n2 - Para efeitos do disposto no número anterior, entende-se por:\n\na) «Mecenato de projecto de investigação» o contributo de uma pessoa singular ou colectiva, nos termos do artigo 1.º, destinado a apoiar o desenvolvimento de um projecto de investigação científica, desde que no quadro de uma instituição legalmente reconhecida pelo Ministério da Ciência e do Ensino Superior, salvo quando tal contributo tenha por objecto o pagamento de taxas de frequência obrigatórias dos estabelecimentos de ensino superior;\n\nb) «Mecenato de equipamento científico» o contributo de uma pessoa singular ou colectiva, nos termos do artigo 1.º, destinado a apoiar a aquisição de instalações e ou equipamento científico, bem como a realização de obras de conservação em instalações destinadas à investigação científica;\n\nc) «Mecenato de recursos humanos» a cedência de investigadores e ou especialistas de uma entidade a outra, para o desenvolvimento, em exclusividade, de um projecto de investigação ou demonstração;\n\nd) «Mecenato para a divulgação científica» o contributo de uma pessoa singular ou colectiva, nos termos do artigo 1.º, destinado a apoiar actividades de divulgação científica, incluindo a realização de grandes eventos científicos, como feiras, congressos e exposições;\n\ne) «Mecenato de inovação ou aplicação industrial» o contributo de uma pessoa singular ou colectiva, nos termos do artigo 1.º, destinado a apoiar a demonstração, em ambiente industrial, de resultados de investigação e desenvolvimento tecnológico, desde que tal demonstração assuma carácter inovador.\n\n3 - O mecenato científico pode ser singular ou colectivo, consoante seja praticado por uma ou mais pessoas singulares ou colectivas, tendo por objecto a mesma prestação.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886375": {
+   "fragment_id": "176885515",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\n1 - São consideradas entidades beneficiárias as destinatárias directas dos donativos a que se refere o artigo 1.º, independentemente da sua natureza jurídica e cuja actividade consista predominantemente na realização de actividades científicas, considerando-se como tal:\n\na) Fundações, associações e institutos públicos ou privados;\n\nb) Instituições de ensino superior, bibliotecas, mediatecas e centros de documentação;\n\nc) Laboratórios do Estado, laboratórios associados, unidades de investigação e desenvolvimento, centros de transferência e centros tecnológicos.\n\n2 - São ainda consideradas como entidades beneficiárias:\n\na) Órgãos de comunicação social, quando se trate de mecenato para a divulgação científica;\n\nb) Empresas nas quais se desenvolvam acções de demonstração a que refere a alínea e) do n.º 2 do artigo 2.º\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886376": {
+   "fragment_id": "176885516",
+   "type": 11,
+   "heading": "Artigo 4.º — Mecenas",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Mecenas\n\n1 - São consideradas mecenas as pessoas singulares ou colectivas que concedam donativos às entidades a que se refere o artigo anterior, nos termos do presente Estatuto.\n\n2 - Não são considerados mecenas, para os efeitos previstos nesta lei:\n\na) Os titulares de cargos de direcção ou administração da entidade beneficiária;\n\nb) As pessoas, singulares ou colectivas, relativamente às quais a entidade beneficiária seja economicamente dependente, considerando-se como tal a titularidade de mais de 50% do capital da entidade beneficiária.\n\n3 - Exceptuam-se do disposto no número anterior os membros fundadores das entidades beneficiárias.\n\n4 - As incompatibilidades a que se refere o n.º 2 são motivo de rejeição da acreditação, nos termos do artigo 6.º\n\n5 - Para os efeitos previstos no capítulo II, não é reconhecido o mecenato recíproco nem o mecenato em cadeia.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886377": {
+   "fragment_id": "176885517",
+   "type": 11,
+   "heading": "Artigo 5.º — Acreditação",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Acreditação\n\n1 - A usufruição de qualquer dos incentivos previstos no presente diploma depende de acreditação, consubstanciando-se esta na emissão do certificado Ciência 2010.\n\n2 - O certificado Ciência 2010 é atribuído a cada donativo, por uma entidade acreditadora designada por despacho do Ministro da Ciência e do Ensino Superior, e comprova a afectação do donativo a uma actividade de natureza científica.\n\n3 - Nos casos em que o donativo não tenha sido ainda atribuído, o certificado Ciência 2010 deverá estabelecer o seu prazo de validade.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886378": {
+   "fragment_id": "176885518",
+   "type": 11,
+   "heading": "Artigo 6.º — Processo de acreditação",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Processo de acreditação\n\n1 - Para obter o certificado Ciência 2010 a entidade mecenas deve apresentar à entidade acreditadora documento justificativo contendo os seguintes elementos:\n\na) Nome completo, domicílio ou sede e número de contribuinte da entidade mecenas e da entidade beneficiária;\n\nb) Descrição detalhada do donativo atribuído ou a atribuir, incluindo o seu valor pecuniário e a identificação da actividade a que se destina, nomeadamente o seu lugar de execução e uma estimativa de custos do projecto, quando se justifique;\n\nc) Declaração de inexistência de incompatibilidades, tal como definidas no artigo 4.º do presente Estatuto.\n\n2 - A entidade beneficiária deve fornecer à entidade mecenas as informações necessárias ao cumprimento do disposto no número anterior.\n\n3 - Recebido o pedido, a entidade acreditadora dispõe de 30 dias para proferir uma decisão, devendo convidar, de imediato, a entidade mecenas a suprir as insuficiências do pedido, dentro do mesmo prazo.\n\n4 - Serão indeferidos:\n\na) Os pedidos que não contenham as informações referidas no n.º 1, desde que, ultrapassado o prazo previsto, e após ser dado conhecimento daquela falta, por escrito, a entidade mecenas não as apresente;\n\nb) Os pedidos cuja justificação se apresente manifestamente insuficiente.\n\n5 - A decisão de acreditação é comunicada, por escrito, à entidade mecenas e à entidade beneficiária, devendo a entidade acreditadora enviar, anualmente, às autoridades fiscais lista de todos os certificados Ciência 2010 atribuídos.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886379": {
+   "fragment_id": "176885519",
+   "type": 11,
+   "heading": "Artigo 7.º — Reconhecimento por despacho conjunto",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Reconhecimento por despacho conjunto\n\n1 - Sem prejuízo do disposto nos artigos anteriores, nos casos em que a entidade beneficiária seja de natureza privada, a acreditação depende de prévio reconhecimento, através de despacho conjunto dos Ministros das Finanças e da Ciência e do Ensino Superior.\n\n2 - A entidade beneficiária deve requerer, fundamentadamente, junto da entidade acreditadora o reconhecimento da natureza científica da actividade por si desenvolvida, competindo à entidade acreditadora emitir parecer sobre o mesmo e remeter o pedido à tutela.\n\n3 - Do despacho conjunto referido no n.º 1 consta necessariamente a fixação do prazo de validade de tal reconhecimento.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886380": {
+   "fragment_id": "176885520",
+   "type": 1,
+   "heading": "Capítulo II — Incentivos fiscais",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "### Capítulo II — Incentivos fiscais\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886381": {
+   "fragment_id": "176885521",
+   "type": 11,
+   "heading": "Artigo 8.º — Imposto sobre o rendimento das pessoas colectivas",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Imposto sobre o rendimento das pessoas colectivas\n\n1 - São considerados custos ou perdas do exercício, em valor correspondente a 130% do respectivo total, para efeitos do IRC ou da categoria B do IRS, os donativos atribuídos às entidades previstas no artigo 3.º do presente Estatuto, pertencentes:\n\na) Ao Estado, às Regiões Autónomas e autarquias locais e a qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados;\n\nb) A associações de municípios e freguesias;\n\nc) A fundações em que o Estado, as Regiões Autónomas ou as autarquias locais participem no património inicial.\n\n2 - São considerados custos ou perdas do exercício, até ao limite de 8/1000 do volume de vendas ou de serviços prestados, em valor correspondente a 130% para efeitos do IRC ou da categoria B do IRS, os donativos atribuídos às entidades de natureza privada previstas no artigo 3.º do presente Estatuto.\n\n3 - Os donativos previstos nos números anteriores são considerados custos em valor correspondente a 140% do seu valor quando atribuídos ao abrigo de contratos plurianuais que fixem objectivos a atingir pelas entidades beneficiárias e os montantes a atribuir pelos sujeitos passivos.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886382": {
+   "fragment_id": "176885522",
+   "type": 11,
+   "heading": "Artigo 9.º — Imposto sobre o rendimento das pessoas singulares",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Imposto sobre o rendimento das pessoas singulares\n\n1 - Os donativos atribuídos pelas pessoas singulares residentes em território nacional às entidades previstas no artigo 3.º do presente Estatuto são dedutíveis à colecta do ano a que dizem respeito, com as seguintes especificidades:\n\na) Em valor correspondente a 25% das importâncias atribuídas, no caso das entidades beneficiárias a que se refere o n.º 1 do artigo anterior;\n\nb) Em valor correspondente a 25% das importâncias atribuídas, até ao limite de 15% da colecta, nos casos a que se refere o n.º 2 do artigo anterior.\n\n2 - As deduções previstas no número anterior só são efectuadas no caso de não terem sido contabilizadas como custos.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886383": {
+   "fragment_id": "176885523",
+   "type": 11,
+   "heading": "Artigo 10.º — Imposto sobre o valor acrescentado",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Imposto sobre o valor acrescentado\n\nNão estão sujeitas a IVA as transmissões de bens e as prestações de serviços efectuadas a título gratuito pelas entidades às quais forem concedidos donativos abrangidos pelo presente Estatuto, em benefício directo das pessoas singulares ou colectivas que os atribuam quando o correspondente valor não ultrapassar, no seu conjunto, 5% do montante do donativo recebido.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886384": {
+   "fragment_id": "176885524",
+   "type": 11,
+   "heading": "Artigo 11.º — Valor dos donativos em espécie",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Valor dos donativos em espécie\n\n1 - No caso de donativos em espécie efectuados por sujeitos passivos de IRC ou por sujeitos passivos de IRS que exerçam actividades empresariais e profissionais, considera-se, para efeitos do presente Estatuto, que o valor dos bens é o valor fiscal que os mesmos tiverem no exercício em que forem doados, ou seja:\n\na) No caso de bens do activo imobilizado, o custo de aquisição ou de produção deduzido das reintegrações efectivamente praticadas e aceites para efeitos fiscais, sem prejuízo do disposto na parte final da alínea a) do n.º 5 do artigo 29.º do Código do IRC;\n\nb) No caso de bens com a natureza de existências, o custo de aquisição ou de produção eventualmente deduzido das provisões que devam ser constituídas de acordo com o respectivo regime fiscal.\n\n2 - Sendo os bens doados por sujeitos passivos de IRS que não exerçam actividades empresariais ou profissionais, ou que, exercendo-as, os mesmos bens não lhes estejam afectos, o seu valor corresponde ao respectivo custo de aquisição ou de produção, devidamente comprovado.\n\n3 - No caso de mecenato de recursos humanos, considera-se, para efeitos do presente Estatuto, que o valor da cedência de um investigador ou especialista é o valor correspondente aos encargos despendidos pela entidade patronal com a sua remuneração, incluindo os suportados para regimes obrigatórios de segurança social, durante o período da respectiva cedência.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886385": {
+   "fragment_id": "176885527",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Obrigações acessórias das entidades beneficiárias",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Aditado pelo/a Artigo 77.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Obrigações acessórias das entidades beneficiárias\n\n1 - As entidades beneficiárias dos donativos são obrigadas a:\n\na) Emitir documento comprovativo dos montantes dos donativos recebidos dos seus mecenas, com a indicação do seu enquadramento no âmbito do presente Estatuto e, bem assim, com a menção de que o donativo é concedido sem contrapartidas;\n\nb) Possuir registo actualizado das entidades mecenas, do qual constem, nomeadamente, o nome, o número de identificação fiscal, bem como a data e o valor de cada donativo que lhes tenha sido atribuído nos termos do presente Estatuto;\n\nc) Entregar à Direcção-Geral dos Impostos, até ao final do mês de Fevereiro de cada ano, uma declaração de modelo oficial, referente aos donativos recebidos no ano anterior.\n\n2 - Para efeitos da alínea a) do número anterior, o documento comprovativo deve conter:\n\na) A qualidade jurídica da entidade beneficiária;\n\nb) O normativo legal onde se enquadra, bem como, se for caso disso, a identificação do despacho necessário ao reconhecimento;\n\nc) O montante do donativo em dinheiro, quando este for de natureza monetária;\n\nd) No caso de donativos em espécie, a identificação dos bens, dos serviços e o respectivo valor, determinado nos termos do artigo anterior.\n\n3 - Os donativos em dinheiro de valor superior a (euro) 200 devem ser efectuados através de meio de pagamento que permita a identificação do mecenas, designadamente transferência bancária, cheque nominativo ou débito directo.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Aditado pelo/a Artigo 77.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "176886386": {
+   "fragment_id": "176885525",
+   "type": 1,
+   "heading": "Capítulo III — Incentivos não fiscais",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "### Capítulo III — Incentivos não fiscais\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "176886387": {
+   "fragment_id": "176885526",
+   "type": 11,
+   "heading": "Artigo 12.º — Rede Nacional do Mecenato Científico",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Rede Nacional do Mecenato Científico\n\n1 - É criada a Rede Nacional do Mecenato Científico - MECEN.PT - destinada a promover e divulgar o mecenato científico.\n\n2 - Fazem parte da MECEN.PT todas as entidades mecenas às quais seja atribuído o certificado Ciência 2010 e as entidades beneficiárias, podendo, ainda, integrar a Rede todos os interessados na promoção do mecenato científico.\n\n3 - A Rede assenta numa base de dados de livre acesso, contendo informação sobre as acções de mecenato científico já realizadas e em curso, bem como sobre os mecenas e beneficiários, sem prejuízo do cumprimento do desejo de anonimato eventualmente expresso junto da entidade acreditora, no momento do reconhecimento, caso em que a entidade será apenas tida em conta para efeitos estatísticos.\n\n4 - Anualmente, serão atribuídos, em cerimónia pública, promovida pelo Ministério da Ciência e do Ensino Superior, os prémios Mecenas aos membros da MECEN.PT que mais se destaquem no âmbito do mecenato científico.\n\n> Revogado pelo/a Artigo 147.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  }
+ }
+}

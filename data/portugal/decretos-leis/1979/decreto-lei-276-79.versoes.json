@@ -1,0 +1,183 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:377920:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1979-182137183",
+ "dre_path": "/dr/detalhe/decreto-lei/276-1979-377920",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1979-08-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "182153719",
+    "182134946",
+    "182134947",
+    "182134948",
+    "182134949",
+    "182134950",
+    "182134951"
+   ]
+  },
+  {
+   "date": "2018-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115235757:por",
+     "title": "Decreto-Lei n.º 32/2018",
+     "published": "2018-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2018-115235757"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "182153719",
+    "182153720",
+    "182153721",
+    "182153722",
+    "182153723",
+    "182153724",
+    "182153725",
+    "182153726"
+   ]
+  }
+ ],
+ "fragments": {
+  "182153719": {
+   "fragment_id": "182137184",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-05-13",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 276/79\n\nde 7 de Agosto\n\nA diversidade e natureza das funções que hoje estão cometidas aos reitores e vice-reitores das Universidades e Institutos Universitários aconselham e impõem que se tomem medidas susceptíveis de conferirem a esses cargos a dignidade e prestígio compatíveis com o elevado grau de responsabilidade próprio do seu eficiente desempenho.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "182134946": {
+   "fragment_id": "182137185",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O vencimento dos reitores das Universidades e Institutos Universitários é o que estiver fixado para os directores-gerais dos diferentes Ministérios.\n\n2 - A percepção do vencimento referido no número anterior é acompanhada da de um subsídio mensal para despesas de representação, de montante igual a 3000$00."
+  },
+  "182134947": {
+   "fragment_id": "182137186",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Os vice-reitores das mesmas instituições passam a ter o vencimento correspondente à letra A da tabela salarial da função pública.\n\n2 - Os vice-reitores são igualmente abonados das despesas de representação fixadas no n.º 2 do artigo anterior."
+  },
+  "182134948": {
+   "fragment_id": "182137187",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O exercício dos cargos referidos neste diploma tem lugar em regime de exclusividade, se e enquanto o contrário não for requerido ao Ministro da Educação e Investigação Científica pelos respectivos titulares.\n\n2 - A exclusividade prevista no número anterior confere a reitores e vice-reitores o direito à percepção de uma remuneração complementar no montante correspondente a 35% dos respectivos vencimentos."
+  },
+  "182134949": {
+   "fragment_id": "182137188",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs titulares dos cargos a que se refere o presente diploma ficam dispensados da prestação de serviço docente."
+  },
+  "182134950": {
+   "fragment_id": "182137189",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs dúvidas suscitadas na interpretação e aplicação deste decreto-lei serão resolvidas, consoante a sua natureza, por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e investigação Científica e do Secretário de Estado da Administração Pública."
+  },
+  "182134951": {
+   "fragment_id": "182137190",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nEste diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "182153720": {
+   "fragment_id": "182137185",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637)"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O vencimento dos reitores das Universidades e Institutos Universitários é o que estiver fixado para os directores-gerais dos diferentes Ministérios.\n\n2 - [Revogado].\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637)"
+  },
+  "182153721": {
+   "fragment_id": "182137186",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), produz efeitos a partir de 1986-04-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Os vice-reitores das mesmas instituições passam a ter o vencimento correspondente à letra A da tabela salarial da função pública.\n\n2 - Os vice-reitores são igualmente abonados das despesas de representação fixadas no n.º 2 do artigo anterior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), produz efeitos a partir de 1986-04-01"
+  },
+  "182153722": {
+   "fragment_id": "182137187",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), produz efeitos a partir de 1986-04-01"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - O exercício dos cargos referidos neste diploma tem lugar em regime de exclusividade, se e enquanto o contrário não for requerido ao Ministro da Educação e Investigação Científica pelos respectivos titulares.\n\n2 - A exclusividade prevista no número anterior confere a reitores e vice-reitores o direito à percepção de uma remuneração complementar no montante correspondente a 35% dos respectivos vencimentos.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), produz efeitos a partir de 1986-04-01"
+  },
+  "182153723": {
+   "fragment_id": "182137188",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), produz efeitos a partir de 1986-04-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs titulares dos cargos a que se refere o presente diploma ficam dispensados da prestação de serviço docente.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), produz efeitos a partir de 1986-04-01"
+  },
+  "182153724": {
+   "fragment_id": "182137189",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), produz efeitos a partir de 1986-04-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\nAs dúvidas suscitadas na interpretação e aplicação deste decreto-lei serão resolvidas, consoante a sua natureza, por despacho do Ministro da Educação e Investigação Científica ou por despacho conjunto dos Ministros das Finanças e do Plano e da Educação e investigação Científica e do Secretário de Estado da Administração Pública.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), produz efeitos a partir de 1986-04-01"
+  },
+  "182153725": {
+   "fragment_id": "182137190",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), produz efeitos a partir de 1986-04-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\nEste diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 244/85 - Diário da República n.º 157/1985, Série I de 1985-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1985-182637), produz efeitos a partir de 1986-04-01"
+  },
+  "182153726": {
+   "fragment_id": "182137191",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Junho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Luís Francisco Valente de Oliveira - António Jorge de Figueiredo Lopes.\n\nPromulgado em 24 de Julho de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  }
+ }
+}

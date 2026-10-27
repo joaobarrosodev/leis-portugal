@@ -1,0 +1,650 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32016L0801:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02016L0801-20211117",
+ "dre_path": null,
+ "source_lastmod": "2021-11-17",
+ "versions": [
+  {
+   "date": "2021-11-17",
+   "future": false,
+   "celex": "02016L0801-20211117",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "384531db567b389d",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "065989cf9d563cf4",
+    "96d92b7e2716a82c",
+    "934d622eef97f562",
+    "b2fae98e0238468e",
+    "f0f8c960bfdbce9b",
+    "17e6f1df17cf1522",
+    "7d692231eea9b0bc",
+    "ef12400a6083a1da",
+    "b8452dd86d1a5821",
+    "8f521866f9c7bd64",
+    "cf5adacc0ea0643d",
+    "ef1ee6d546917d28",
+    "8fa7ad882939f3f9",
+    "c178110ea8b832cd",
+    "ed8dd1657446d539",
+    "f70139734eded9d9",
+    "729ffb265eadc45a",
+    "d4ce4bdbfc06e31d",
+    "1e7a0903d2eed348",
+    "370cc38c6ac7d487",
+    "9e4c42d9af3421d4",
+    "4b5122bd6e54cd1c",
+    "11c3d870f8b3af17",
+    "1ecfc79da3f1ac7f",
+    "fac6f70ae866c959",
+    "1fad42af8d4d958b",
+    "5e356dc754a0b719",
+    "40ed6b62e188ac6f",
+    "8070722acfb320d6",
+    "cf832a72cc578802",
+    "c5d8c5622d0a5a6e",
+    "5bc10c29bf0919aa",
+    "0b88774694c0324d",
+    "924982f3e36f21bc",
+    "b76d202a844f758e",
+    "c656b99845b785d3",
+    "0f0d670edbbe7c5f",
+    "e65b5a8ee0857726",
+    "6c0e48f0324d40cc",
+    "e58b480f73f33448",
+    "ebc9dc9e2a30000e",
+    "1f8ade93ecfa17ff",
+    "7fd045ac4f655f13",
+    "ed7d9b9eb8b3e9f9",
+    "a9548523c05c4e4a",
+    "7944e38b0971df3e",
+    "a35209656a6675eb",
+    "2fcecbe666b18e8e",
+    "99973826fcc02605",
+    "dde9cf53e9ae6c9a",
+    "a6a0b201e496d9f8",
+    "cc04bff0e3dd6b81",
+    "5478de980e6f26c7",
+    "e9bddbd67c09bbb3",
+    "0a5902869fbc6971",
+    "e59fb957b4e39822",
+    "27b488aa4a0979b6",
+    "d664376e2a8dcecd",
+    "6cd9753221daf8f2",
+    "5a7334c207094501",
+    "172efeb15d2411ca",
+    "c476005056aa0321",
+    "07bf445517d2d7fc",
+    "51a0324cf5c5df9a",
+    "852174729551523b",
+    "35a2326bac24179c",
+    "01d8f79ea327f6e4"
+   ]
+  }
+ ],
+ "fragments": {
+  "384531db567b389d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de maio de 2016\n\nrelativa às condições de entrada e de residência de nacionais de países terceiros para efeitos de investigação, de estudos, de formação, de voluntariado, de programas de intercâmbio de estudantes, de projetos educativos e de colocação *au pair*\n\n(reformulação)"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "065989cf9d563cf4": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente diretiva estabelece:\n\na) as condições de entrada e residência por um período superior a 90 dias no território dos Estados-Membros e os direitos que assistem aos nacionais de países terceiros e, quando aplicável, aos seus familiares, para efeitos de investigação, estudos, formação ou atividades de voluntariado no Serviço Voluntário Europeu, e, caso os Estados-Membros assim o decidam, para efeitos de intercâmbio de estudantes, projetos educativos, atividades de voluntariado fora do âmbito do Serviço Voluntário Europeu, ou colocação «*au pair*»;\n\nb) as condições de entrada e residência e os direitos que assistem aos investigadores e, quando aplicável, aos seus familiares, e aos estudantes, referidos na alínea a), nos Estados-Membros distintos do Estado-Membro que primeiro conceda uma autorização ao nacional de um país terceiro com base na presente diretiva."
+  },
+  "96d92b7e2716a82c": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. A presente diretiva é aplicável aos nacionais de países terceiros que requeiram a admissão ou que já tenham sido admitidos no território de um Estado-Membro com o objetivo de realizar investigação, estudos, uma formação ou atividades de voluntariado no Serviço Voluntário Europeu. Os Estados-Membros podem igualmente decidir aplicar o disposto na presente diretiva aos nacionais de países terceiros que requeiram a admissão a fim de participarem num programa de intercâmbio de estudantes, num projeto educativo ou em atividades de voluntariado fora do âmbito do Serviço Voluntário Europeu, ou de serem colocados como «*au pair*».\n\n2.\n\nA presente diretiva não é aplicável a nacionais de países terceiros:\n\na) que procurem proteção internacional ou dela beneficiem nos termos da Diretiva 2011/95/UE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001)), ou que beneficiem de proteção temporária num Estado-Membro em conformidade com a Diretiva 2001/55/CE do Conselho ([^2^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0002));\n\nb) cuja expulsão tenha sido suspensa por razões de facto ou de direito;\n\nc) familiares de cidadãos da União que tenham exercido o direito de circular livremente dentro da União;\n\nd) beneficiários do estatuto de residentes de longa duração num Estado-Membro nos termos da Diretiva 2003/109/CE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0003));\n\ne) que, juntamente com os seus familiares e independentemente da respetiva nacionalidade, gozem de direitos de livre circulação equivalentes aos que assistem aos cidadãos da União por força de acordos celebrados entre a União e os seus Estados-Membros e países terceiros, ou entre a União e países terceiros;\n\nf) que entrem na União como estagiários no quadro de transferências dentro de empresas efetuadas ao abrigo da Diretiva 2014/66/UE;\n\ng) que apresentem o pedido de residência num Estado-Membro para efeitos de emprego altamente qualificado na aceção da Diretiva (UE) 2021/1883 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0004))."
+  },
+  "934d622eef97f562": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente diretiva, entende-se por:\n\n1) «nacional de um país terceiro», uma pessoa que não seja cidadão da União na aceção do artigo 20.º, n.º 1, do TFUE;\n\n2) «investigador», o nacional de um país terceiro, titular de um doutoramento ou de uma qualificação adequada de ensino superior que lhe dê acesso a programas de doutoramento, que seja selecionado por um organismo de investigação e admitido no território de um Estado-Membro a fim de realizar uma atividade de investigação para a qual a referida qualificação seja normalmente exigida;\n\n3) «estudante do ensino superior», o nacional de um país terceiro que tenha sido aceite por uma instituição de ensino superior e admitido no território de um Estado-Membro para frequentar, a título de atividade principal, numa instituição de ensino superior um ciclo de estudos a tempo inteiro conducente à obtenção de um título de ensino superior reconhecido por esse Estado-Membro, nomeadamente um diploma, um certificado ou um doutoramento, o que poderá abranger um curso de preparação para tais estudos nos termos do direito nacional ou formação obrigatória no programa de estudos;\n\n4) «estudante do ensino secundário», o nacional de um país terceiro que tenha sido admitido no território de um Estado-Membro para frequentar um programa estatal ou regional de ensino secundário reconhecido e equivalente aos níveis 2 ou 3 da Classificação Internacional Tipo da Educação no quadro de um programa de intercâmbio de estudantes do ensino secundário ou de um projeto educativo realizado por um estabelecimento de ensino em conformidade com a legislação ou com a prática administrativa nacionais;\n\n5) «estagiário», o nacional de um país terceiro que seja titular de um diploma de ensino superior, ou que frequente um ciclo de estudos num país terceiro conducente à obtenção de um diploma de ensino superior, e que tenha sido admitido no território de um Estado-Membro para seguir um programa de formação com o objetivo de adquirir conhecimentos, prática e experiência num contexto profissional;\n\n6) «voluntário», o nacional de um país terceiro que tenha sido admitido no território de um Estado-Membro para participar num programa de voluntariado;\n\n7) «programa de voluntariado», um programa de atividades concretas de solidariedade, baseadas num programa reconhecido como tal pelo Estado-Membro em causa ou pela União, que tenha objetivos de interesse geral em prol de uma causa não lucrativa e cujas atividades não sejam remuneradas, a não ser para efeitos de reembolso de despesas e/ou dinheiro de bolso;\n\n8) «pessoa colocada *au pair*», o nacional de um país terceiro admitido no território de um Estado-Membro a fim de ser temporariamente acolhido por uma família nele residente com o objetivo de melhorar as suas aptidões linguísticas e o seu conhecimento do Estado-Membro em causa a troco da realização de tarefas domésticas ligeiras e do cuidado de crianças;\n\n9) «investigação», trabalhos de criação efetuados de forma sistemática a fim de aumentar os conhecimentos, incluindo o conhecimento do ser humano, da cultura e da sociedade, e a utilização desses conhecimentos para novas aplicações;\n\n10) «organismo de investigação», um organismo público ou privado que efetua investigação;\n\n11) «estabelecimento de ensino», um estabelecimento de ensino secundário, público ou privado, reconhecido pelo Estado-Membro em causa ou cujos programas de estudo sejam reconhecidos, em conformidade com a legislação ou com a prática administrativa nacionais, com base em critérios transparentes, e que participa num programa de intercâmbio de estudantes do ensino secundário ou num projeto educativo para os fins estabelecidos na presente diretiva;\n\n12) «projeto educativo», um conjunto de ações educativas desenvolvidas por um estabelecimento de ensino de um Estado-Membro em cooperação com instituições similares de um país terceiro, com o objetivo de partilhar conhecimentos e culturas;\n\n13) «instituição de ensino superior», qualquer tipo de instituição de ensino superior reconhecida ou considerada como tal nos termos da legislação nacional que, de acordo com a legislação ou com a prática nacionais, confira diplomas de ensino superior reconhecidos ou outras qualificações de nível superior igualmente reconhecidas, independentemente da denominação desses estabelecimentos, ou uma instituição que, de acordo com a legislação ou com a prática nacionais, ministre formação ou ensino profissionais de nível superior;\n\n14) «entidade de acolhimento», um organismo de investigação, instituição de ensino superior, estabelecimento de ensino, organização responsável por um programa de voluntariado ou entidade que acolha estagiários a que o nacional de um país terceiro esteja afetado para efeitos da presente diretiva, situado no território do Estado-Membro em causa, independentemente da forma jurídica que assuma nos termos da legislação nacional;\n\n15) «família de acolhimento», uma família que acolhe temporariamente uma pessoa colocada «*au pair*» e que com ela partilha a sua vida familiar quotidiana no território de um Estado-Membro, com base num acordo firmado entre essa família e a pessoa «*au pair*»;\n\n16) «emprego», o exercício de uma atividade que inclua qualquer forma de trabalho ou ocupação profissional regulamentada pela legislação nacional, pelos acordos coletivos aplicáveis ou de acordo com a prática estabelecida, por conta ou sob a direção ou supervisão de um empregador;\n\n17) «empregador», uma pessoa singular ou uma entidade jurídica, por conta da qual ou sob cuja direção ou supervisão o trabalho é realizado;\n\n18) «primeiro Estado-Membro», o Estado-Membro que primeiro concede uma autorização a um nacional de um país terceiro com base na presente diretiva;\n\n19) «segundo Estado-Membro», um Estado-Membro que não seja o primeiro Estado-Membro;\n\n20) «programas multilaterais ou da União que incluem medidas de mobilidade», programas financiados pela União ou pelos Estados-Membros que promovem a mobilidade de nacionais de países terceiros na União ou nos Estados-Membros que participam nos respetivos programas;\n\n21) «autorização», um título de residência ou, se assim previsto na legislação nacional, um visto de longa duração emitido para efeitos da presente diretiva;\n\n22) «título de residência», uma autorização emitida utilizando o modelo definido no Regulamento (CE) n.º 1030/2002, que permite ao seu titular permanecer legalmente no território de um Estado-Membro;\n\n23) «visto de longa duração», uma autorização emitida por um Estado-Membro nos moldes previstos no artigo 18.º da Convenção de Schengen ([^5^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0005)), ou em conformidade com a legislação nacional, no caso dos Estados-Membros que não aplicam integralmente o acervo de Schengen;\n\n24) «familiares», os nacionais de países terceiros definidos no artigo 4.º, n.º 1, da Diretiva 2003/86/CE."
+  },
+  "b2fae98e0238468e": {
+   "fragment_id": "Artigo 4.º — Disposições mais favoráveis",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Disposições mais favoráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposições mais favoráveis\n\n1.\n\nA presente diretiva não prejudica disposições mais favoráveis constantes de:\n\na) acordos bilaterais ou multilaterais celebrados entre a União ou a União e os seus Estados-Membros, por um lado, e um ou mais países terceiros, por outro; ou\n\nb) acordos bilaterais ou multilaterais celebrados entre um ou mais Estados-Membros e um ou mais países terceiros.\n\n2. A presente diretiva não prejudica, no que respeita ao artigo 10.º, n.º 2, alínea a), e aos artigos 18.º, 22.º, 23.º, 24.º, 25.º, 26.º, 34.º e 35.º, o direito que assiste aos Estados-Membros de adotarem ou manterem disposições mais favoráveis aos nacionais de países terceiros abrangidos pelo âmbito de aplicação da presente diretiva."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "17e6f1df17cf1522": {
+   "fragment_id": "ADMISSÃO",
+   "type": "divisao",
+   "heading": "ADMISSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ADMISSÃO"
+  },
+  "7d692231eea9b0bc": {
+   "fragment_id": "Artigo 5.º — Princípios",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios\n\n1.\n\nA admissão de nacionais de países terceiros ao abrigo da presente diretiva fica sujeita à verificação de provas documentais que certifiquem que essas pessoas preenchem:\n\na) as condições gerais estabelecidas no artigo 7.º; e\n\nb) as condições específicas pertinentes previstas nos artigos 8.º, 11.º, 12.º, 13.º, 14.º ou 16.º.\n\n2. Os Estados-Membros podem exigir que o requerente apresente as provas documentais a que se refere o n.º 1 numa das línguas oficiais do Estado-Membro em causa ou na língua oficial da União que esse Estado-Membro determine.\n\n3. Caso todas as condições gerais e todas as condições específicas pertinentes estejam preenchidas, os nacionais de países terceiros têm o direito de obter a respetiva autorização.\n\nSe um Estado-Membro só emitir títulos de residência no seu território e estiverem preenchidas todas as condições de admissão previstas na presente diretiva, o Estado-Membro em causa deve conceder ao nacional do país terceiro o visto solicitado."
+  },
+  "ef12400a6083a1da": {
+   "fragment_id": "Artigo 6.º — Volumes de admissão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Volumes de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Volumes de admissão\n\nA presente diretiva não afeta o direito de um Estado-Membro determinar, nos termos do artigo 79.º, n.º 5, do TFUE, os volumes de admissão de nacionais de países terceiros a que se refere o artigo 2.º, n.º 1, da presente diretiva, com exceção dos estudantes do ensino superior, se entender que estes mantêm ou passarão a manter uma relação de trabalho. Nessa base, um pedido de autorização pode ser considerado inadmissível ou ser indeferido."
+  },
+  "b8452dd86d1a5821": {
+   "fragment_id": "Artigo 7.º — Condições gerais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Condições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições gerais\n\n1.\n\nNo que respeita à admissão de nacionais de países terceiros ao abrigo da presente diretiva, os requerentes:\n\na) apresentam um documento de viagem válido nos termos definidos pela legislação nacional e, se assim for exigido, um pedido de visto ou um visto válido ou, se aplicável, um título de residência ou um visto de longa duração igualmente válidos; os Estados-Membros podem exigir que o período de validade do documento de viagem cubra pelo menos a duração prevista da estadia;\n\nb) se os nacionais de países terceiros forem menores de idade nos termos da legislação nacional do Estado-Membro em causa, apresentam uma autorização parental ou um documento equivalente para a estadia prevista;\n\nc) comprovam que os nacionais de países terceiros possuem ou, se a legislação nacional assim o previr, requereram um seguro de doença que cubra todos os riscos contra os quais estão normalmente cobertos os nacionais do Estado-Membro em causa. O período de validade do seguro cobrirá a duração prevista da estadia;\n\nd) se o Estado-Membro o exigir, comprovam que pagaram a taxa fixada para o tratamento do pedido, prevista no artigo 36.º;\n\ne) a pedido do Estado-Membro em causa, comprovam que, durante a estadia prevista, os nacionais de países terceiros disporão de recursos suficientes para cobrir as suas despesas de subsistência sem recorrer ao sistema de assistência social do Estado-Membro, bem como para custear a viagem de regresso. A suficiência dos recursos é avaliada com base no exame individual do caso e tem em conta os recursos provenientes, nomeadamente, de uma subvenção ou bolsa de estudo, de um contrato de trabalho válido, de uma oferta firme de trabalho ou de um compromisso financeiro assumido por uma organização responsável por programas de intercâmbio de estudantes, por uma entidade de acolhimento de estagiários, por uma organização responsável por programas de voluntariado, por uma família de acolhimento ou por uma organização de colocação de pessoas «*au pair*».\n\n2. Os Estados-Membros podem exigir que o requerente comunique o endereço do nacional do país terceiro em causa no seu território.\n\nSe a legislação nacional de um Estado-Membro exigir que, ao apresentar o pedido, o nacional do país terceiro em causa comunique um endereço e este não o conhecer ainda, os Estados-Membros aceitarão um endereço temporário. Nesse caso, o nacional do país terceiro comunica o seu endereço permanente o mais tardar quando a autorização nos termos do artigo 17.º for emitida.\n\n3. Os Estados-Membros podem indicar um montante de referência que, em seu entender, constitua os «recursos suficientes» referidos no n.º 1, alínea e). A avaliação da suficiência dos recursos baseia-se num exame individual do caso.\n\n4. O pedido é apresentado e analisado quer o nacional do país terceiro em causa resida fora do território do Estado-Membro em que pretende ser admitido, quer resida já nesse Estado-Membro enquanto titular de uma autorização de residência válida ou de um visto de longa duração.\n\nA título de derrogação, um Estado-Membro pode, nos termos da legislação nacional, aceitar um pedido apresentado por um nacional de um país terceiro que não possua nem um título de residência válido nem um visto de longa duração, mas resida legalmente no seu território.\n\n5. Os Estados-Membros determinam se os pedidos devem ser apresentados pelo nacional do país terceiro, pela entidade de acolhimento ou por ambos.\n\n6. Não são admitidos os nacionais de países terceiros que constituam uma ameaça para a ordem pública, para a segurança pública ou para a saúde pública."
+  },
+  "8f521866f9c7bd64": {
+   "fragment_id": "Artigo 8.º — Condições específicas aplicáveis aos investigadores",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Condições específicas aplicáveis aos investigadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições específicas aplicáveis aos investigadores\n\n1. Para além das condições gerais estabelecidas no artigo 7.º, no que respeita à admissão de um nacional de um país terceiro que requeira a admissão para fins de investigação, o requerente apresenta um contrato ou uma convenção de acolhimento ou, se a legislação nacional assim o previr, um contrato ou uma convenção em conformidade com o artigo 10.º.\n\n2. Os Estados-Membros podem exigir, em conformidade com a legislação nacional, que o organismo de investigação assuma o compromisso escrito de que se responsabiliza pelo reembolso das despesas de estadia e regresso suportadas por fundos públicos, caso um investigador permaneça ilegalmente no território do Estado-Membro em causa. A responsabilidade financeira do organismo de investigação cessa, o mais tardar, seis meses após o termo da convenção de acolhimento.\n\nCaso o direito de residência do investigador seja prorrogado em conformidade com o disposto no artigo 25.º, a responsabilidade do organismo de investigação a que se refere o primeiro parágrafo do presente número fica limitada até à data em que comece a aplicar-se o título de residência para efeitos de procura de emprego ou de criação de uma empresa.\n\n3. Os Estados-Membros que tenham instituído um procedimento de aprovação dos organismos de investigação em conformidade com o artigo 9.º dispensam os requerentes de apresentarem um ou mais dos documentos ou elementos de prova referidos no n.º 2 do presente artigo, no artigo 7.º, n.º 1, alíneas c), d) ou e), no artigo 7.º, n.º 1, ou no artigo 7.º, n.º 2, desde que os nacionais de países terceiros sejam acolhidos por organismos de investigação aprovados."
+  },
+  "cf5adacc0ea0643d": {
+   "fragment_id": "Artigo 9.º — Aprovação dos organismos de investigação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Aprovação dos organismos de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aprovação dos organismos de investigação\n\n1. Os Estados-Membros podem decidir estabelecer um procedimento de aprovação dos organismos de investigação públicos e/ou privados que pretendam acolher um investigador no âmbito do procedimento de admissão previsto na presente diretiva.\n\n2. A aprovação do organismo de investigação é feita segundo os procedimentos estabelecidos na legislação ou na prática administrativa do Estado-Membro em causa. Os pedidos de aprovação dos organismos de investigação são apresentados segundo tais procedimentos e baseiam-se, consoante os casos, nas suas atribuições legais ou objeto social e na prova de que se dedicam a atividades de investigação.\n\nA aprovação de um organismo de investigação é válida por um período de cinco anos. Em casos excecionais, os Estados-Membros podem conceder a aprovação por períodos mais curtos.\n\n3.\n\nPara além de outras medidas, os Estados-Membros podem recusar renovar ou decidir retirar a aprovação no caso de:\n\na) os organismos de investigação deixarem de cumprir o disposto no n.º 2 do presente artigo, no artigo 8.º, n.º 2, ou no artigo 10.º, n.º 7;\n\nb) a aprovação ter sido obtida de forma fraudulenta; ou\n\nc) os organismos de investigação terem assinado uma convenção de acolhimento com um nacional de um país terceiro de forma fraudulenta ou negligente.\n\nCaso o pedido de renovação tenha sido indeferido ou a aprovação retirada, o organismo em causa pode ser proibido de solicitar nova aprovação durante um prazo que pode ir até cinco anos a contar da data de publicação da decisão de não renovação ou de retirada da aprovação."
+  },
+  "ef1ee6d546917d28": {
+   "fragment_id": "Artigo 10.º — Convenção de acolhimento",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Convenção de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Convenção de acolhimento\n\n1. O organismo de investigação que pretenda acolher um nacional de um país terceiro para fins de investigação assina com o mesmo uma convenção de acolhimento. Os Estados-Membros podem determinar que os contratos de que constem os elementos referidos no n.º 2 e, quando aplicável, no n.º 3, sejam considerados equivalentes a convenções de acolhimento para efeitos da presente diretiva.\n\n2.\n\nConsta da convenção de acolhimento:\n\na) o título ou o objeto da atividade ou do domínio de investigação;\n\nb) o compromisso assumido pelo nacional do país terceiro de se esforçar por concluir a atividade de investigação;\n\nc) o compromisso assumido pelo organismo de investigação de acolher o nacional do país terceiro para que este conclua a atividade de investigação;\n\nd) as datas de início e de termo ou a duração prevista da atividade de investigação;\n\ne) informações sobre a mobilidade projetada num ou em vários segundos Estados-Membros, se esta for conhecida quando é apresentado o pedido no primeiro Estado-Membro.\n\n3.\n\nOs Estados-Membros podem também exigir que a convenção de acolhimento contenha:\n\na) informações sobre a relação jurídica existente entre o organismo de investigação e o investigador;\n\nb) informações sobre as condições de trabalho do investigador.\n\n4.\n\nOs organismos de investigação só podem assinar convenções de acolhimento se os seus órgãos competentes tiverem aceitado a atividade de investigação depois de terem examinado:\n\na) o objeto e a duração prevista da atividade de investigação e a disponibilidade dos meios financeiros necessários para a realizar;\n\nb) as qualificações do nacional do país terceiro relativamente aos objetivos da investigação, comprovadas por cópia autenticada do diploma.\n\n5. A convenção de acolhimento caduca automaticamente em caso de não admissão do nacional do país terceiro ou de cessação da relação jurídica que une o investigador ao organismo de investigação.\n\n6. O organismo de investigação informa o mais rapidamente possível a autoridade competente do Estado-Membro em causa de qualquer eventualidade que impeça a execução da convenção de acolhimento.\n\n7. Os Estados-Membros podem determinar que, no prazo de dois meses a contar do termo da convenção de acolhimento em causa, o organismo de investigação confirme às autoridades competentes designadas para o efeito que a atividade de investigação foi levada a cabo.\n\n8. Os Estados-Membros podem determinar na respetiva legislação nacional as consequências da retirada da aprovação ou da recusa da sua renovação no que respeita às convenções de acolhimento em vigor celebradas nos termos do artigo 9.º, bem como às autorizações concedidas aos investigadores em causa."
+  },
+  "8fa7ad882939f3f9": {
+   "fragment_id": "Artigo 11.º — Condições específicas aplicáveis aos estudantes do ensino superior",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Condições específicas aplicáveis aos estudantes do ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Condições específicas aplicáveis aos estudantes do ensino superior\n\n1.\n\nPara além das condições gerais estabelecidas no artigo 7.º, no que respeita à admissão de nacionais de países terceiros para efeitos de estudos, o requerente deve comprovar:\n\na) que os nacionais de países terceiros tenham sido aceites por uma instituição de ensino superior para efetuar um programa de estudos;\n\nb) que foi efetuado o pagamento das propinas cobradas pela instituição de ensino superior, se o Estado-Membro assim o exigir;\n\nc) a posse de conhecimentos suficientes da língua em que é ministrado o programa de estudos frequentado, se o Estado-Membro assim o exigir;\n\nd) que os nacionais de países terceiros possuem recursos suficientes para custear as despesas incorridas com os estudos a efetuar.\n\n2. Pressupõe-se que os nacionais de países terceiros que beneficiem automaticamente de um seguro de doença que cubra todos os riscos contra os quais estão normalmente cobertos os nacionais do Estado-Membro em causa por força da sua inscrição numa instituição de ensino superior preenchem a condição estabelecida no artigo 7.º, n.º 1, alínea c).\n\n3. O Estado-Membro que tenha estabelecido um procedimento de aprovação das instituições de ensino superior em conformidade com o artigo 15.º dispensa os requerentes de apresentarem um ou mais dos documentos ou elementos de prova referidos no n.º 1, alíneas b), c) ou d), do presente artigo, no artigo 7.º, n.º 1, alínea d), ou no artigo 7.º, n.º 2, desde que os nacionais de países terceiros sejam acolhidos por instituições de ensino superior aprovadas."
+  },
+  "c178110ea8b832cd": {
+   "fragment_id": "Artigo 12.º — Condições específicas aplicáveis aos estudantes do ensino secundário",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Condições específicas aplicáveis aos estudantes do ensino secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condições específicas aplicáveis aos estudantes do ensino secundário\n\n1.\n\nPara além das condições gerais estabelecidas no artigo 7.º, no que respeita à admissão de nacionais de países terceiros para efeitos de um programa de intercâmbio de estudantes ou a um projeto educativo, o requerente deve apresentar prova:\n\na) de que o nacional de um país terceiro tem a idade ou o grau mínimos e não excede a idade ou o grau máximos fixados pelo Estado-Membro em causa;\n\nb) da aceitação num estabelecimento de ensino;\n\nc) da participação num programa educativo estatal ou regional reconhecido no quadro de um programa de intercâmbio de estudantes do ensino secundário ou de um projeto educativo realizado por um estabelecimento de ensino em conformidade com a legislação ou com a prática administrativa nacionais;\n\nd) de que o estabelecimento de ensino ou, na medida em que isso esteja previsto na legislação nacional, um terceiro aceitam responsabilizar-se pelo nacional de um país terceiro durante a sua estadia no território do Estado-Membro em causa, nomeadamente no que respeita às despesas incorridas com os estudos que efetua;\n\ne) de que, durante o período da sua estadia, o nacional de país terceiro é acolhido no seio de uma família, em instalações de alojamento especial dentro do estabelecimento de ensino ou, na medida em que isso esteja previsto na legislação nacional, noutras instalações que preencham as condições fixadas pelo Estado-Membro em causa e que tenham sido selecionadas em conformidade com as regras do programa de intercâmbio de estudantes ou do projeto educativo em que o nacional de um país terceiro participa.\n\n2. Os Estados-Membros podem limitar a admissão de estudantes do ensino secundário para efeitos de participação num programa de intercâmbio ou num projeto educativo aos nacionais oriundos de países terceiros que ofereçam a mesma possibilidade aos seus próprios nacionais."
+  },
+  "ed8dd1657446d539": {
+   "fragment_id": "Artigo 13.º — Condições específicas aplicáveis aos estagiários",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Condições específicas aplicáveis aos estagiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Condições específicas aplicáveis aos estagiários\n\n1.\n\nPara além das condições gerais estabelecidas no artigo 7.º, no que respeita à admissão de nacionais de países terceiros para efeitos de estágios, o requerente deve:\n\na) apresentar um contrato de formação firmado com uma entidade de acolhimento que preveja formação teórica e prática. Os Estados-Membros podem exigir que esse contrato de formação seja aprovado pela autoridade competente e que as condições em que se baseia preencham os requisitos estabelecidos na legislação nacional, acordos coletivos ou práticas do Estado-Membro em causa. O contrato de formação contém:\n\ni) uma descrição do programa de formação, nomeadamente os seus objetivos educativos ou os componentes de aprendizagem,\n\nii) a duração da formação,\n\niii) a localização e as condições de supervisão do estágio,\n\niv) o horário da formação, e\n\nv) a relação jurídica entre o estagiário e a entidade que o acolhe;\n\nb) comprovar que obteve um diploma de ensino superior nos dois anos anteriores à data de apresentação do pedido ou que frequentou um ciclo de estudos conducente à obtenção de um diploma de ensino superior;\n\nc) se o Estado-Membro o exigir, comprovar que, durante a estadia, o nacional de um país terceiro disporá de recursos suficientes para custear as despesas de formação em que incorra;\n\nd) se o Estado-Membro o exigir, comprovar que o nacional de um país terceiro frequenta ou frequentará um curso de línguas a fim de adquirir os conhecimentos necessários à realização do estágio;\n\ne) se o Estado-membro o exigir, comprovar que a entidade de acolhimento aceita responsabilizar-se pelo nacional de um país terceiro durante o período em que ele permaneça no território do Estado-Membro em causa, especialmente no que respeita ao seu sustento e despesas de alojamento;\n\nf) se o Estado-membro o exigir, comprovar que, no caso de serem alojados pela entidade de acolhimento durante a estadia, o alojamento satisfaz as condições estabelecidas pelo Estado-Membro em causa.\n\n2. Os Estados-Membros podem exigir que o estágio incida tanto no domínio como no nível de qualificação correspondentes ao diploma de ensino superior ou ao ciclo de estudos referidos no n.º 1, alínea b).\n\n3. Os Estados-Membros podem exigir que a entidade de acolhimento comprove que o estágio não substitui um posto de trabalho.\n\n4. Os Estados-Membros podem, em conformidade com a legislação nacional, exigir que a entidade de acolhimento assuma o compromisso escrito de que, caso um estagiário permaneça ilegalmente no território do Estado-Membro em causa, essa entidade de acolhimento se responsabiliza pelo reembolso das despesas de estadia e regresso suportadas por fundos públicos. A responsabilidade financeira da entidade de acolhimento cessa, o mais tardar, seis meses após o termo do contrato de formação."
+  },
+  "f70139734eded9d9": {
+   "fragment_id": "Artigo 14.º — Condições específicas aplicáveis aos voluntários",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Condições específicas aplicáveis aos voluntários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Condições específicas aplicáveis aos voluntários\n\n1.\n\nPara além das condições gerais estabelecidas no artigo 7.º, no que respeita à admissão de nacionais de países terceiros para efeitos de programas de voluntariado, o requerente deve:\n\na) apresentar um contrato com a entidade de acolhimento ou, se estiver previsto pelo direito nacional, com outro organismo responsável no Estado-Membro em causa pelo programa de voluntariado em que o nacional de um país terceiro participa. O contrato contém:\n\ni) uma descrição do programa de voluntariado,\n\nii) a duração do programa de voluntariado,\n\niii) as condições de colocação e de supervisão do programa de voluntariado,\n\niv) o horário a cumprir,\n\nv) os recursos disponíveis para cobrir as despesas de alimentação e de alojamento do nacional de um país terceiro, e uma soma mínima para dinheiro de bolso durante o período da estadia, e\n\nvi) se for caso disso, a formação que o nacional de um país terceiro receberá para assegurar o cumprimento adequado do programa de voluntariado;\n\nb) se o Estado-Membro o exigir, comprovar que, caso o nacional de um país terceiro seja alojado durante a sua estadia pela entidade de acolhimento, o alojamento satisfaz as condições estabelecidas pelo Estado-Membro em causa;\n\nc) apresentar prova de que a entidade de acolhimento ou, se o direito nacional o previr, outro organismo responsável pelo programa de voluntariado subscreveu um seguro de responsabilidade civil;\n\nd) se o Estado-Membro o exigir, comprovar que o nacional de um país terceiro frequentou ou frequentará um curso de introdução à língua, à história e às estruturas política e social desse Estado-Membro.\n\n2. Os Estados-Membros podem determinar um limite mínimo e máximo de idade para os nacionais de países terceiros que se candidatam a um programa de voluntariado, sem prejuízo das regras do Serviço Voluntário Europeu.\n\n3. Os voluntários que participam no Serviço Voluntário Europeu não são obrigados a apresentar provas nos termos do n.º 1, alínea c), e, quando aplicável, alínea d)."
+  },
+  "729ffb265eadc45a": {
+   "fragment_id": "Artigo 15.º — Aprovação de estabelecimentos de ensino superior, de estabelecimentos escolares, e organizações responsáveis por programas de voluntariado ou de entidades que acolhem estagiários",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Aprovação de estabelecimentos de ensino superior, de estabelecimentos escolares, e organizações responsáveis por programas de voluntariado ou de entidades que acolhem estagiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aprovação de estabelecimentos de ensino superior, de estabelecimentos escolares, e organizações responsáveis por programas de voluntariado ou de entidades que acolhem estagiários\n\n1. Para efeitos da presente diretiva, os Estados-Membros podem decidir um procedimento de aprovação para estabelecimentos de ensino superior, estabelecimentos escolares, organizações responsáveis por programas de voluntariado ou entidades que acolhem estagiários.\n\n2. Esta aprovação é feita segundo os procedimentos estabelecidos na legislação nacional ou prática administrativa do Estado-Membro em causa.\n\n3. Se um Estado-Membro decidir estabelecer um procedimento de aprovação em conformidade com os n.^os^ 1 e 2, fornece informações claras e transparentes às entidades de acolhimento interessadas, nomeadamente as condições e critérios para aprovação, o seu período de validade, as consequências do incumprimento, incluindo a possível retirada ou a não renovação, bem como as eventuais sanções aplicáveis."
+  },
+  "d4ce4bdbfc06e31d": {
+   "fragment_id": "Artigo 16.º — Condições específicas aplicáveis às pessoas colocadas «au pair»",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Condições específicas aplicáveis às pessoas colocadas «au pair»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Condições específicas aplicáveis às pessoas colocadas «au pair»\n\n1.\n\nPara além das condições gerais estabelecidas no artigo 7.º, no que respeita à admissão de nacionais de países terceiros para efeitos de colocação «*au pair*», o nacional de um país terceiro deve:\n\na) apresentar um contrato celebrado entre o nacional de um país terceiro e a família de acolhimento, que defina os direitos e obrigações do nacional de país um terceiro, enquanto pessoa colocada «*au pair*», incluindo disposições sobre o dinheiro de bolso que receberá e modalidades adequadas que permitam à pessoa colocada «*au pair*» assistir aos cursos e sobre o número máximo diário de horas de tarefas no seio da família;\n\nb) apresentar prova de que o nacional de um país terceiro tem idade compreendida entre 18 e 30 anos. Em casos excecionais, os Estados-Membros podem autorizar a admissão, como «*au pair*», de nacionais de um país terceiro que excedam o limite máximo de idade;\n\nc) comprovar que a família de acolhimento ou uma organização de colocação de pessoas «*au pair*», na medida em que isso esteja previsto na legislação nacional, aceita a responsabilidade pelo nacional de um país terceiro durante a estadia no território do Estado-Membro em causa, nomeadamente no que respeita às despesas de subsistência, ao alojamento e ao risco de acidentes.\n\n2.\n\nOs Estados-Membros podem exigir que o nacional de um país terceiro que se candidata a ser admitido como «*au pair*» comprove que:\n\na) possui conhecimentos básicos da língua do Estado-Membro em causa; ou\n\nb) recebeu educação secundária, possui qualificações profissionais ou, quando aplicável, cumpre os requisitos para exercer uma profissão regulamentada, como exigido pelo direito nacional.\n\n3. Os Estados-Membros podem determinar que a colocação de pessoas «*au pair*» apenas seja feita por uma organização de colocação de pessoas «*au pair*'», nas condições definidas pelo direito nacional.\n\n4. Os Estados-Membros podem exigir que os membros da família de acolhimento sejam de nacionalidade diferente da do nacional de um país terceiro que se candidate a ser admitido para efeitos de trabalho «*au pair*» e que não tenham quaisquer laços familiares com o nacional de um país terceiro em causa.\n\n5. A duração máxima semanal do desempenho de funções como «*au pair*» não pode exceder 25 horas. A pessoa colocada «*au pair*» tem pelo menos um dia livre, por semana, das suas obrigações de «*au pair*».\n\n6. Os Estados-Membros podem estabelecer uma quantia mínima de dinheiro de bolso que deve ser paga à pessoa «*au pair*»."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "370cc38c6ac7d487": {
+   "fragment_id": "AUTORIZAÇÕES E DURAÇÃO DA RESIDÊNCIA",
+   "type": "divisao",
+   "heading": "AUTORIZAÇÕES E DURAÇÃO DA RESIDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AUTORIZAÇÕES E DURAÇÃO DA RESIDÊNCIA"
+  },
+  "9e4c42d9af3421d4": {
+   "fragment_id": "Artigo 17.º — Autorizações",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Autorizações\n\n1. Quando a autorização assumir a forma de título de residência, os Estados-Membros utilizam o modelo previsto no Regulamento (CE) n.º 1030/2002 e inserem os termos «investigador», «estudante do ensino superior», «estudante do ensino secundário», «estagiário», «voluntário» ou «pessoa *au pair*» no título de residência.\n\n2. Quando a autorização assumir a forma de visto de longa duração, os Estados-Membros inserem uma referência indicando que o mesmo é concedido a um «investigador», «estudante do ensino superior», «estudante do ensino secundário», «estagiário», «voluntário» ou «pessoa *au pair*», na rubrica «observações» da vinheta de visto.\n\n3. No respeitante aos investigadores e estudantes do ensino superior que entrem na União no quadro de um programa da União ou multilateral específico que inclua medidas de mobilidade, ou de um acordo entre duas ou mais instituições de ensino superior reconhecidas, a autorização faz referência a tal programa específico ou acordo.\n\n4. Quando for concedida a um investigador autorização de mobilidade a longo prazo sob a forma de título de residência, os Estados-Membros utilizam o modelo previsto no Regulamento (CE) n.º 1030/2002 e incluem «mobilidade-investigador» no título de residência. Quando a autorização de mobilidade a longo prazo for concedida a um investigador sob a forma de um visto a longo prazo, os Estados-Membros incluem «mobilidade-investigador» na rubrica «observações» da vinheta de visto."
+  },
+  "4b5122bd6e54cd1c": {
+   "fragment_id": "Artigo 18.º — Duração da autorização",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Duração da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Duração da autorização\n\n1. O período de validade da autorização para investigadores é de um ano, pelo menos, ou tem a mesma duração que a convenção de acolhimento, caso esta seja mais breve. A autorização é renovada se não se aplicar o disposto no artigo 21.º.\n\nA duração da autorização para investigadores que estejam abrangidos por programas da União ou multilaterais que incluam medidas de mobilidade é de dois anos pelo menos ou tem a duração da convenção de acolhimento, caso esta seja mais breve. Se as condições estabelecidas no artigo 7.º não estiverem reunidas para os dois anos ou para a duração total da convenção de acolhimento, aplica-se o primeiro parágrafo do presente número. Os Estados-Membros mantêm o direito de verificar se os motivos de retirada previstos no artigo 21.º não são aplicáveis.\n\n2. O período de validade da autorização para estudantes do ensino superior é de um ano, pelo menos, ou tem a duração dos estudos, caso estes sejam mais breves. A autorização é renovada se se não se aplicar o disposto no artigo 21.º.\n\nA duração da autorização para estudantes do ensino superior que estejam abrangidos por programas da União ou multilaterais que incluam medidas de mobilidade, ou por um acordo entre duas ou mais instituições de ensino superior, é de dois anos pelo menos ou é igual à dos estudos, caso estes tenham uma duração inferior. Se as condições gerais estabelecidas no artigo 7.º não estiverem reunidas para os dois anos ou para a duração total dos estudos, aplica-se o primeiro parágrafo do presente número. Os Estados-Membros mantêm o direito de verificar se os motivos de retirada previstos no artigo 21.º não são aplicáveis.\n\n3. Os Estados-Membros podem determinar que o tempo total de residência para estudos não exceda a duração máxima desses estudos, definida na legislação nacional.\n\n4. O período de validade de uma autorização para estudantes do ensino secundário tem a duração do programa de intercâmbio ou do projeto educativo, caso essa duração seja inferior a um ano, ou é de um ano no máximo. Os Estados-Membros poderão decidir conceder a renovação da autorização por uma vez, para o período necessário para completar o programa de intercâmbio do estudante do ensino secundário ou o projeto educativo, se não se aplicar o disposto no artigo 21.º.\n\n5. O período de validade das autorizações para pessoas colocadas «*au pair*» tem a duração da convenção entre a pessoa colocada «*au pair*» e a família de acolhimento caso essa duração seja inferior a um ano, ou seja de um ano no máximo. Os Estados-Membros poderão decidir conceder a renovação da autorização por um período máximo de seis meses, após um pedido justificado da família de acolhimento, se não se aplicar o disposto no artigo 21.º.\n\n6. O período de validade de uma autorização para estagiários tem a duração da convenção de estágio, caso essa duração seja inferior a seis meses, ou é de seis meses no máximo. Se a duração da convenção for superior a seis meses, a duração da validade da autorização requerida pode corresponder ao período em causa, nos termos da legislação nacional.\n\nOs Estados-Membros podem decidir conceder a renovação da autorização por uma vez, para o período necessário para completar o estágio, se não se aplicar o disposto no artigo 21.º.\n\n7. O período de validade de uma autorização para voluntários tem a duração da convenção mencionada no artigo 14.º, n.º 1, alínea a), caso essa duração seja inferior a um ano, ou seja de um ano no máximo. Se a duração da convenção for superior a um ano, a duração da validade da autorização requerida pode corresponder ao período em causa, nos termos da legislação nacional.\n\n8. Os Estados-Membros podem determinar, se a validade do documento de viagem do nacional de um país terceiro em causa for inferior a um ano, ou inferior a dois anos nos casos referidos nos n.^os^ 1 e 2, que o prazo de validade da autorização solicitada não exceda o prazo de validade do documento de viagem.\n\n9. Nos casos em que os Estados-Membros autorizam a entrada e a residência durante o primeiro ano com base num visto de longa duração, é apresentado um pedido de autorização de residência antes da expiração do visto de longa duração. O título de residência é concedido se não se aplicar o disposto no artigo 21.º."
+  },
+  "11c3d870f8b3af17": {
+   "fragment_id": "Artigo 19.º — Informações complementares",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Informações complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Informações complementares\n\n1. Os Estados-Membros podem incluir informações complementares em formato papel ou armazená-las em formato eletrónico, como referido no artigo 4.º do Regulamento (CE) n.º 1030/2002 e no ponto a)16 do respetivo anexo. Essas informações podem dizer respeito à residência e, nos casos abrangidos pelo artigo 24.º da presente diretiva, às atividades económicas do estudante do ensino superior e incluir nomeadamente a lista completa dos Estados-Membros para onde o investigador ou o estudante tenciona ir no quadro da mobilidade, ou informações relevantes sobre um programa específico da União ou multilateral que inclua medidas de mobilidade, ou uma convenção entre duas ou mais instituições de ensino superior.\n\n2. Os Estados-Membros podem também prever que as informações referidas no n.º 1 sejam indicadas no visto de longa duração, de acordo com o ponto 12 do anexo do Regulamento (CE) n.º 1683/95 do Conselho ([^6^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0006))."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "fac6f70ae866c959": {
+   "fragment_id": "MOTIVOS DE RECUSA, DE RETIRADA OU DE NÃO RENOVAÇÃO DAS AUTORIZAÇÕES",
+   "type": "divisao",
+   "heading": "MOTIVOS DE RECUSA, DE RETIRADA OU DE NÃO RENOVAÇÃO DAS AUTORIZAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MOTIVOS DE RECUSA, DE RETIRADA OU DE NÃO RENOVAÇÃO DAS AUTORIZAÇÕES"
+  },
+  "1fad42af8d4d958b": {
+   "fragment_id": "Artigo 20.º — Motivos de recusa",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Motivos de recusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Motivos de recusa\n\n1.\n\nOs Estados-Membros indeferem o pedido se:\n\na) não estiverem reunidas as condições estabelecidas no artigo 7.º ou as condições específicas estabelecidas nos artigos 8.º, 11.º, 12.º, 13.º, 14.º ou 16.º;\n\nb) os documentos apresentados tiverem sido obtidos de modo fraudulento ou forjados ou falsificados;\n\nc) o Estado-Membro em causa só conceder a admissão através de uma entidade de acolhimento aprovada, e a entidade de acolhimento não estiver aprovada.\n\n2.\n\nOs Estados-Membros podem indeferir o pedido se:\n\na) a entidade de acolhimento ou outro organismo referido no artigo 14.º, n.º 1, alínea a), uma terceira parte referida no artigo 12.º, n.º 1, alínea d), a família de acolhimento ou a organização de colocação de pessoas «*au pair*» não tiverem cumprido as suas obrigações jurídicas relativamente à segurança social, tributação, direitos laborais ou condições de trabalho;\n\nb) as condições de emprego previstas na legislação aplicável, os acordos coletivos ou as práticas do Estado-Membro em causa, não forem respeitados pela entidade de acolhimento ou pela família de acolhimento que emprega o nacional de um país terceiro;\n\nc) a entidade de acolhimento, outro organismo referido no artigo 14.º, n.º 1, alínea a), uma terceira parte referida no artigo 12.º, n.º 1, alínea d), a família de acolhimento ou a organização de colocação de pessoas «*au pair*» tiver sido sancionada nos termos do direito nacional por trabalho não declarado ou emprego ilegal;\n\nd) a entidade de acolhimento estiver estabelecida ou funcione com a finalidade principal de facilitar a entrada de nacionais de países terceiros abrangidos pelo âmbito da presente diretiva;\n\ne) quando aplicável, a empresa da entidade de acolhimento estiver a ser ou tenha sido dissolvida nos termos da legislação nacional de falência, ou quando não houver nenhuma atividade económica;\n\nf) o Estado-Membro tiver provas ou motivos sérios e objetivos para concluir que o nacional de um país terceiro pretende residir para efeitos distintos daqueles para os quais pede admissão.\n\n3. No caso de um nacional de um país terceiro se candidatar a ser admitido numa relação de trabalho num Estado-Membro, esse Estado-Membro pode verificar se o lugar em questão pode ser preenchido por nacionais desse Estado-Membro ou por outros cidadãos da União, ou por nacionais de países terceiros que residam legalmente nesse Estado-Membro, caso em que pode recusar o pedido. Este ponto aplica-se sem prejuízo do princípio de preferência pelos cidadãos da União, manifestado nas disposições pertinentes dos Atos de Adesão relevantes.\n\n4. Sem prejuízo do n.º 1, a decisão de indeferimento de um pedido tem em conta as circunstâncias específicas do caso e respeita o princípio da proporcionalidade."
+  },
+  "5e356dc754a0b719": {
+   "fragment_id": "Artigo 21.º — Motivos de retirada ou de não renovação da autorização",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Motivos de retirada ou de não renovação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Motivos de retirada ou de não renovação da autorização\n\n1.\n\nOs Estados-Membros retiram ou, quando aplicável, recusam a renovação de uma autorização se:\n\na) o nacional de um país terceiro deixar de reunir as condições previstas no artigo 7.º, exceto no que respeita ao artigo 7.º, n.º 7, ou as condições específicas relevantes estabelecidas nos artigos 8.º, 11.º, 12.º, 13.º, 14.º e 16.º, ou as condições previstas no artigo 18.º;\n\nb) as autorizações ou os documentos apresentados tiverem sido obtidos de modo fraudulento ou tiverem sido forjados ou falsificados;\n\nc) o Estado-Membro em causa só conceder a admissão através de uma entidade de acolhimento aprovada, e a entidade de acolhimento não estiver aprovada;\n\nd) o nacional de um país terceiro permanecer no território para efeitos diferentes daqueles para que foi autorizado a residir.\n\n2.\n\nOs Estados-Membros podem retirar ou recusar a renovação da autorização se:\n\na) a entidade de acolhimento ou outro organismo mencionado no artigo 14.º, n.º 1, alínea a), ou uma terceira parte referida no artigo 12.º, n.º 1, alínea d), a família de acolhimento ou a organização de colocação de pessoas «*au pair*» não tiverem cumprido as suas obrigações jurídicas relativamente à segurança social, tributação, direitos laborais ou condições de trabalho;\n\nb) quando aplicável, as condições de emprego previstas na legislação nacional ou nos acordos coletivos ou as práticas do Estado-Membro em causa, não forem respeitados pela entidade de acolhimento ou pela família de acolhimento que emprega o nacional de um país terceiro;\n\nc) a entidade de acolhimento, outro organismo referido no artigo 14.º, n.º 1, alínea a), uma terceira parte mencionada no artigo 12.º, n.º 1, alínea d), a família de acolhimento ou a organização de colocação de pessoas «*au pair*» tiver sido sancionada nos termos do direito nacional por trabalho não declarado ou por emprego ilegal;\n\nd) a entidade de acolhimento estiver estabelecida ou funcionar com a finalidade principal de facilitar a entrada de nacionais de países terceiros abrangidos pelo âmbito da presente diretiva;\n\ne) quando aplicável, a empresa da entidade de acolhimento estiver a ser ou tenha sido dissolvida nos termos da legislação nacional de falência, ou quando não há nenhuma atividade económica;\n\nf) no que respeita aos estudantes do ensino superior, os prazos máximos impostos em matéria de acesso a atividades económicas, ao abrigo do artigo 24.º, não forem respeitados, ou o estudante não progredir de forma suficiente nos seus estudos, em conformidade com a legislação ou com a prática administrativa nacionais.\n\n3. Em caso de retirada, ao avaliar a falta de progresso nos estudos relevantes, como referido no n.º 2, alínea f), o Estado-Membro pode consultar a entidade de acolhimento.\n\n4. Os Estados-Membros podem retirar ou recusar renovar uma autorização por razões de ordem pública, de segurança pública ou de saúde pública.\n\n5. No caso de um nacional de um país terceiro se candidatar à renovação da autorização para estabelecer ou continuar uma relação de trabalho num Estado-Membro, com exceção de um investigador que continue a relação de trabalho com a mesma entidade de acolhimento, esse Estado-Membro pode verificar se o lugar em questão pode ser preenchido por nacionais desse Estado-Membro ou por outros cidadãos da União, ou por nacionais de países terceiros que sejam residentes de longa duração nesse Estado-Membro, caso em que poderão recusar a renovação da autorização. Este ponto aplica-se sem prejuízo do princípio de preferência pelos cidadãos da União, manifestado nas disposições pertinentes dos Atos de Adesão relevantes.\n\n6. No caso de os Estados-Membros tencionarem retirar ou não renovar a autorização a um estudante do ensino superior, em conformidade com o n.º 2, alíneas a), c), d) ou e), o estudante é autorizado a apresentar um pedido para ser acolhido por outra instituição de ensino superior para um curso académico equivalente, a fim de poder concluir os estudos. O estudante do ensino superior é autorizado a permanecer no território do Estado-Membro em causa até que as autoridades competentes tenham tomado uma decisão sobre o pedido.\n\n7. Sem prejuízo do n.º 1, qualquer decisão de retirada ou não renovação da autorização tem em conta as circunstâncias específicas do caso e respeita o princípio da proporcionalidade."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "8070722acfb320d6": {
+   "fragment_id": "DIREITOS",
+   "type": "divisao",
+   "heading": "DIREITOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DIREITOS"
+  },
+  "cf832a72cc578802": {
+   "fragment_id": "Artigo 22.º — Igualdade de tratamento",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Igualdade de tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Igualdade de tratamento\n\n1. Os investigadores beneficiam do mesmo tratamento que os nacionais do Estado-Membro em causa, conforme previsto no artigo 12.º, n.^os^ 1 e 4, da Diretiva 2011/98/UE.\n\n2.\n\nOs Estados-Membros podem restringir a igualdade de tratamento relativamente a investigadores:\n\na) ao abrigo do artigo 12.º, n.º 1, alínea c), da Diretiva 2011/98/UE, excluindo empréstimos ou bolsas de estudo e de subsistência ou outras bolsas ou empréstimos;\n\nb) ao abrigo do artigo 12.º, n.º 1, alínea e), da Diretiva 2011/98/UE, não atribuindo prestações familiares a investigadores que tenham sido autorizados a residir no território do Estado-Membro em causa por um período não superior a seis meses;\n\nc) ao abrigo do artigo 12.º, n.º 1, alínea f), da Diretiva 2011/98/UE, restringindo a sua aplicação aos casos em que o local de residência registado ou habitual dos familiares do investigador para os quais se requerem as prestações esteja situado no Estado-Membro em causa;\n\nd) ao abrigo do artigo 12.º, n.º 1, alínea g), da Diretiva 2011/98/UE, restringindo o acesso à habitação.\n\n3. Os estagiários, os voluntários e as pessoas «*au pair*» consideradas como tendo uma relação de trabalho no Estado-Membro em causa, bem como os estudantes do ensino superior, beneficiam do mesmo tratamento que os nacionais do Estado-Membro em causa, conforme previsto no artigo 12.º, n.^os^ 1 e 4, da Diretiva 2011/98/UE, sob reserva das restrições previstas no n.º 2 desse artigo.\n\n4. Os estagiários, os voluntários e as pessoas «*au pair*» não considerados como tendo uma relação de trabalho no Estado-Membro em causa, bem como os estudantes do ensino secundário, beneficiam do mesmo tratamento em relação ao acesso a bens e serviços e à oferta de bens e serviços disponibilizados ao público, de acordo com o direito nacional, bem como, quando aplicável, em relação ao reconhecimento de diplomas, certificados e outras qualificações profissionais em conformidade com os procedimentos nacionais relevantes.\n\nOs Estados-Membros podem decidir não lhes conceder o mesmo tratamento em relação a procedimentos para acesso a habitação e/ou serviços fornecidos pelos centros públicos de emprego, nos termos do direito nacional."
+  },
+  "c5d8c5622d0a5a6e": {
+   "fragment_id": "Artigo 23.º — Ensino por investigadores",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Ensino por investigadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Ensino por investigadores\n\nPara além das atividades de investigação, os investigadores podem dar aulas, em conformidade com o direito nacional. Os Estados-Membros podem fixar um número máximo de horas ou dias para a atividade de ensino."
+  },
+  "5bc10c29bf0919aa": {
+   "fragment_id": "Artigo 24.º — Atividades económicas de estudantes do ensino superior",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Atividades económicas de estudantes do ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Atividades económicas de estudantes do ensino superior\n\n1. Fora do período consagrado ao programa de estudos e sob reserva das regras e condições aplicáveis à atividade pertinente no Estado-Membro em causa, os estudantes do ensino superior têm o direito de exercer uma atividade económica por conta de outrem e podem ser autorizados a exercer uma atividade económica por conta própria, sob reserva das limitações previstas no n.º 3.\n\n2. Se necessário, os Estados-Membros concedem aos estudantes e/ou aos empregadores uma autorização prévia em conformidade com o direito nacional.\n\n3. Cada Estado-Membro fixa o número máximo de horas por semana ou de dias ou meses por ano em que essa atividade é autorizada, o qual não será inferior a 15 horas por semana ou ao equivalente em dias ou meses por ano. Poder ser tida em conta a situação do mercado de trabalho no Estado-Membro em causa."
+  },
+  "0b88774694c0324d": {
+   "fragment_id": "Artigo 25.º — Estadia para efeitos de procura de emprego ou de criação de uma empresa pelos investigadores e pelos estudantes do ensino superior",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Estadia para efeitos de procura de emprego ou de criação de uma empresa pelos investigadores e pelos estudantes do ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Estadia para efeitos de procura de emprego ou de criação de uma empresa pelos investigadores e pelos estudantes do ensino superior\n\n1. Após a conclusão da investigação ou dos estudos, os investigadores e os estudantes do ensino superior têm a possibilidade de permanecer no território do Estado-Membro que concedeu a autorização nos termos do artigo 17.º, com base na autorização de residência referida no n.º 3 do presente artigo, por um período de pelo menos nove meses, a fim de procurarem emprego ou de criarem uma empresa.\n\n2. Os Estados-Membros podem decidir estabelecer um nível mínimo do grau que os estudantes do ensino superior terão completado para beneficiar da aplicação do presente artigo. Esse nível não ultrapassa o nível 7 do Quadro Europeu de Qualificações ([^7^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0007)).\n\n3. Para efeitos da estadia a que se refere o n.º 1, os Estados-Membros emitem, a pedido do investigador ou do estudante do ensino superior, uma autorização de residência a esse nacional de um país terceiro em conformidade com o Regulamento (CE) n.º 1030/2002, desde que continuem a estar preenchidas as condições estabelecidas no artigo 7.º, n.º 1, alíneas a), c), d) e e), n.º 6 e, se aplicável, n.º 2, da presente diretiva. Os Estados-Membros exigem aos investigadores uma confirmação, do organismo de investigação, da conclusão da atividade de investigação ou, aos estudantes do ensino superior, uma prova da obtenção de diploma, certificado de ensino superior ou outras qualificações formais. Quando aplicável, e se continuarem a estar preenchidas as disposições do artigo 26.º, a autorização de residência prevista nesse artigo é renovada.\n\n4.\n\nOs Estados-Membros podem rejeitar um pedido nos termos do presente artigo se:\n\na) as condições previstas nos n.^os^ 3 e, quando aplicável, nos n.^os^ 2 e 5, não estiverem preenchidas; ou\n\nb) os documentos apresentados tiverem sido obtidos de forma fraudulenta, falsificados ou alterados.\n\n5. Os Estados-Membros podem exigir que o pedido, termos do presente artigo, do investigador ou do estudante do ensino superior e, quando aplicável, dos familiares do investigador, seja apresentado pelo menos 30 dias antes de caducar a autorização concedida nos termos dos artigos 17.º ou 26.º.\n\n6. Se a prova da obtenção de um diploma, certificado de ensino superior ou outras qualificações formais ou a confirmação, pelo organismo de investigação, da conclusão da atividade de investigação não estiverem disponíveis antes de caducar a autorização emitida nos termos do artigo 17.º, e estiverem preenchidas todas as restantes condições, os Estados-Membros autorizam o nacional de um país terceiro a permanecer no seu território a fim de apresentarem essa prova num prazo razoável, em conformidade com o direito nacional.\n\n7. Após um período mínimo de três meses após a emissão da autorização de residência nos termos do presente artigo pelo Estado-Membro em causa, este pode exigir aos nacionais de países terceiros a prova de que têm hipóteses reais de ser contratados ou de criar a sua empresa.\n\nOs Estados-Membros podem exigir que o emprego que os nacionais de países terceiros procuram ou a empresa que estão a criar correspondam ao nível da investigação ou dos estudos que concluíram.\n\n8. Se as condições previstas nos n.^os^ 3 ou 7 deixarem de estar preenchidas, os Estados-Membros podem retirar a autorização de residência ao nacional de um país terceiro e, quando aplicável, aos membros da sua família, em conformidade com o direito nacional.\n\n9. Os segundos Estados-Membros podem aplicar o presente artigo a investigadores e, quando aplicável, a familiares do investigador ou do estudante do ensino superior que residam ou tenham residido no segundo Estado-Membro em causa, em conformidade com os artigos 28.º, 29.º, 30.º ou 31.º."
+  },
+  "924982f3e36f21bc": {
+   "fragment_id": "Artigo 26.º — Familiares dos investigadores",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Familiares dos investigadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Familiares dos investigadores\n\n1. Os Estados-Membros aplicam o disposto na Diretiva 2003/86/CE com as derrogações estabelecidas no presente artigo, a fim de autorizar os familiares dos investigadores a juntar-se a estes no primeiro Estado-Membro ou, em caso de mobilidade de longo prazo, nos segundos Estados-Membros.\n\n2. Em derrogação do artigo 3.º, n.º 1, e do artigo 8.º da Diretiva 2003/86/CE, a concessão de autorização de residência aos familiares não fica subordinada ao requisito de o investigador ter perspetiva fundamentada de obter o direito de residência permanente, nem de um período mínimo de residência.\n\n3. Em derrogação do artigo 4.º, n.º 1, último parágrafo, e do artigo 7.º, n.º 2, da Diretiva 2003/86/CE, as referidas condições e medidas de integração apenas se aplicam depois de as pessoas em causa terem recebido uma autorização de residência.\n\n4. Em derrogação do artigo 5.º, n.º 4, primeiro parágrafo, da Diretiva 2003/86/CE, as autorizações de residência para os familiares são concedidas pelos Estados-Membros, se estiverem preenchidas as condições para o reagrupamento familiar no prazo de 90 dias a contar da data em que o processo completo é apresentado. A autoridade competente do Estado-Membro em causa trata o pedido para os familiares em simultâneo com o pedido de admissão ou de mobilidade de longo prazo para o investigador, caso o pedido para os familiares seja apresentado ao mesmo tempo. A autorização de residência para os familiares só é concedida se for concedida ao investigador uma autorização ao abrigo do artigo 17.º.\n\n5. Em derrogação do artigo 13.º, n.^os^ 2 e 3, da Diretiva 2003/86/CE, a duração da validade da autorização de residência dos familiares cessa, regra geral, na data em que expira a autorização do investigador. Tal inclui, quando aplicável, autorizações emitidas ao investigador para efeitos de procura de emprego ou criação de empresa, em conformidade com o artigo 25.º. Os Estados-Membros podem exigir que o período de validade dos documentos de viagem dos familiares cubra pelo menos a duração prevista da estadia.\n\n6. Em derrogação do artigo 14.º, n.º 2, segunda frase, da Diretiva 2003/86/CE, o primeiro Estado-Membro ou, no caso da mobilidade de longo prazo, os segundos Estados-Membros não aplicam nenhum prazo no que respeita ao acesso dos familiares ao mercado de trabalho, exceto em circunstâncias excecionais como níveis particularmente elevados de desemprego."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "c656b99845b785d3": {
+   "fragment_id": "MOBILIDADE ENTRE ESTADOS-MEMBROS",
+   "type": "divisao",
+   "heading": "MOBILIDADE ENTRE ESTADOS-MEMBROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MOBILIDADE ENTRE ESTADOS-MEMBROS"
+  },
+  "0f0d670edbbe7c5f": {
+   "fragment_id": "Artigo 27.º — Mobilidade no interior da União",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Mobilidade no interior da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Mobilidade no interior da União\n\n1. O nacional de um país terceiro que seja detentor de uma autorização válida emitida pelo primeiro Estado-Membro, para efeitos de estudos no quadro de um programa da União ou multilateral que inclua medidas de mobilidade ou de um acordo entre duas ou mais instituições de ensino superior, ou para efeitos de investigação, pode entrar e permanecer para realizar parte dos estudos ou investigação num ou mais segundos Estados-Membros com base nessa autorização e num documento de viagem válido, nos termos das condições estabelecidas nos artigos 28.º, 29.º e 31.º, e sob reserva do artigo 32.º.\n\n2. Durante a mobilidade a que se refere o n.º 1, os investigadores podem lecionar para além das atividades de investigação e os estudantes do ensino superior podem trabalhar para além dos seus estudos, num ou mais segundos Estados-Membros, em conformidade com as condições estabelecidas nos artigos 23.º e 24.º, respetivamente.\n\n3. Se um investigador se deslocar para um segundo Estado-Membro em conformidade com os artigos 28.º ou 29.º, os familiares que sejam detentores de um título de residência em conformidade com o artigo 26.º são autorizados a acompanhar o investigador no quadro da sua mobilidade, nas condições estabelecidas no artigo 30.º."
+  },
+  "e65b5a8ee0857726": {
+   "fragment_id": "Artigo 28.º — Mobilidade de curto prazo dos investigadores",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Mobilidade de curto prazo dos investigadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Mobilidade de curto prazo dos investigadores\n\n1. Os investigadores na posse de uma autorização válida emitida pelo primeiro Estado-Membro têm direito a permanecer num segundo Estado-Membro, ou em vários, para efetuar parte da sua investigação num organismo de investigação, durante um período máximo de 180 dias por cada período de 360 dias em cada Estado-Membro, nas condições previstas no presente artigo.\n\n2. O segundo Estado-Membro pode exigir que o investigador, o organismo de investigação no primeiro Estado-Membro ou o organismo de investigação no segundo Estado-Membro notifiquem as autoridades competentes do primeiro Estado-Membro e do segundo Estado-Membro da intenção do investigador de efetuar parte da investigação no organismo de investigação do segundo Estado-Membro.\n\nEm tais casos, o segundo Estado-Membro permite que a notificação seja feita:\n\na) no momento em que é apresentado o pedido no primeiro Estado-Membro, quando a mobilidade para o segundo Estado-Membro já estiver prevista nessa fase; ou\n\nb) depois de o investigador ter começado a sua investigação no primeiro Estado-Membro, logo que se tenha conhecimento da mobilidade pretendida para o segundo Estado-Membro.\n\n3. Se a notificação for feita nos termos do n.º 2, alínea a), e se o segundo Estado-Membro não tiver levantado objeções junto do primeiro Estado-Membro nos termos do n.º 7, a mobilidade do investigador para o segundo Estado-Membro pode ter lugar em qualquer momento, dentro do prazo de validade da autorização.\n\n4. Se a notificação for feita nos termos do n.º 2, alínea b), a mobilidade pode ser iniciada após a notificação ao segundo Estado-Membro, imediatamente ou em qualquer momento a seguir à mesma, dentro do prazo de validade da autorização.\n\n5. A notificação inclui o documento de viagem válido previsto no artigo 7.º, n.º 1, alínea a), e a autorização válida emitida pelo primeiro Estado-Membro que abranja o período de mobilidade.\n\n6.\n\nO segundo Estado-Membro pode exigir que a notificação inclua a transmissão dos seguintes documentos e informações:\n\na) a convenção de acolhimento no primeiro Estado-Membro, nos termos do disposto no artigo 10.º ou, caso o segundo Estado-Membro o exija, uma convenção de acolhimento celebrada com o organismo de investigação no segundo Estado-Membro;\n\nb) caso não sejam indicadas na convenção de acolhimento, a duração prevista e as datas da mobilidade;\n\nc) um comprovativo de que o investigador possui um seguro de doença contra os quais estão normalmente cobertos os nacionais do Estado-Membro em causa, tal como previsto no artigo 7.º, n.º 1, alínea c);\n\nd) um comprovativo de que, durante a estadia, o investigador disporá de recursos suficientes para cobrir as despesas de subsistência sem recorrer ao sistema de assistência social do Estado-Membro, tal como previsto no artigo 7.º, n.º 1, alínea e), bem como o custo da viagem de regresso para o primeiro Estado-Membro, nos casos mencionados no artigo 32.º, n.º 4, alínea b).\n\nO segundo Estado-Membro pode exigir que o notificante forneça, antes do início da mobilidade, o endereço que o investigador em causa terá no território do segundo Estado-Membro.\n\nO segundo Estado-Membro pode exigir que o notificante apresente os documentos numa das línguas oficiais desse Estado-Membro ou na língua oficial da União que este determine.\n\n7.\n\nApós a notificação referida no n.º 2, o segundo Estado-Membro pode opor-se à mobilidade do investigador para o seu território, no prazo de 30 dias a contar da receção da notificação completa, caso:\n\na) as condições estabelecidas no n.º 5 ou, se aplicável, no n.º 6, não estejam cumpridas;\n\nb) seja aplicável um dos motivos de recusa estabelecidos no artigo 20.º, n.º 1, alíneas b) ou c), ou n.º 2;\n\nc) tenha sido atingida a duração máxima de estadia referida no n.º 1.\n\n8. Os investigadores considerados como ameaça à ordem, segurança e saúde públicas não são autorizados a entrar ou permanecer no território do segundo Estado-Membro.\n\n9. As autoridades competentes do segundo Estado-Membro informam sem demora, por escrito, as autoridades competentes do primeiro Estado-Membro e o notificante acerca da sua oposição à mobilidade. Se o segundo Estado-Membro se opuser à mobilidade nos termos do n.º 7 e a mobilidade ainda não tiver ocorrido, o investigador não é autorizado a realizar parte da investigação no organismo de investigação do segundo Estado-Membro. Caso já tenha ocorrido a mobilidade, é aplicável o artigo 32.º, n.º 4.\n\n10. Uma vez expirado o período de recusa, o segundo Estado-Membro pode emitir ao investigador um comprovativo de que tem autorização para permanecer no seu território e usufruir dos direitos previstos na presente diretiva."
+  },
+  "6c0e48f0324d40cc": {
+   "fragment_id": "Artigo 29.º — Mobilidade de longo prazo dos investigadores",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Mobilidade de longo prazo dos investigadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Mobilidade de longo prazo dos investigadores\n\n1.\n\nEm relação aos investigadores na posse de uma autorização válida emitida pelo primeiro Estado-Membro e que pretendem permanecer num segundo Estado-Membro, ou em vários, para efetuar parte da sua investigação num organismo de investigação durante mais de 180 dias por Estado-Membro, o segundo Estado-Membro:\n\na) aplica o artigo 28.º e autoriza o investigador a permanecer no seu território, com base na autorização emitida pelo primeiro Estado-Membro e durante o respetivo prazo de validade; ou\n\nb) aplica o procedimento previsto nos n.^os^ 2 a 7.\n\nO segundo Estado-Membro pode definir o período máximo da mobilidade de longo prazo para investigadores, que não será inferior a 360 dias.\n\n2.\n\nCaso seja apresentado um pedido de mobilidade de longa duração:\n\na) o segundo Estado-Membro pode exigir que o investigador, o organismo de investigação do primeiro Estado-Membro ou o organismo de investigação no segundo Estado-Membro enviem os seguintes documentos:\n\ni) um documento de viagem válido, tal como previsto no artigo 7.º, n.º 1, alínea a), e a autorização válida emitida pelo primeiro Estado-Membro,\n\nii) um comprovativo de que o investigador possui um seguro de doença para todos os riscos contra os quais estão normalmente cobertos os nacionais do Estado-Membro em causa, tal como previsto no artigo 7.º, n.º 1, alínea c),\n\niii) um comprovativo de que, durante a estadia, o investigador disporá de recursos suficientes para cobrir as suas despesas de subsistência sem recorrer ao sistema de assistência social do Estado-Membro, tal como previsto no artigo 7.º, n.º 1, alínea e), bem como o custo da viagem de regresso para o primeiro Estado-Membro, nos casos mencionados no artigo 32.º, n.º 4, alínea b),\n\niv) a convenção de acolhimento no primeiro Estado-Membro, nos termos do disposto no artigo 10.º ou, caso o segundo Estado-Membro o exija, uma convenção de acolhimento celebrada com o organismo de investigação no segundo Estado-Membro,\n\nv) caso não estejam indicadas em nenhum dos documentos apresentados pelo requerente, a duração prevista e as datas da mobilidade.\n\nb) o segundo Estado-Membro toma uma decisão sobre o pedido de mobilidade de longo prazo e notifica por escrito a decisão ao requerente, o mais rapidamente possível mas o mais tardar 90 dias a contar da data em que o pedido completo for apresentado às autoridades competentes do segundo Estado-Membro;\n\nc) o investigador não é obrigado a abandonar os territórios dos Estados-Membros a fim de apresentar o pedido, nem está sujeito à obrigação de visto;\n\nd) o investigador tem autorização para efetuar parte da sua investigação no organismo de investigação do segundo Estado-Membro até as autoridades competentes tomarem uma decisão sobre o pedido de mobilidade de longo prazo, desde que:\n\ni) nem o período referido no artigo 28.º, n.º 1, nem o prazo de validade da autorização emitida pelo primeiro Estado-Membro, tenham terminado, e\n\nii) caso o segundo Estado-Membro o exija, o pedido completo tenha sido apresentado ao segundo Estado-Membro pelo menos 30 dias antes de a mobilidade de longo prazo do investigador ter início;\n\ne) o pedido de mobilidade de longo prazo não pode ser apresentado ao mesmo tempo que a notificação de mobilidade de curto prazo. Caso surja a necessidade de mobilidade de longo prazo depois de iniciada a mobilidade de curto prazo do investigador, o segundo Estado-Membro pode exigir que o pedido de mobilidade de longo prazo seja apresentado pelo menos 30 dias antes de terminar a mobilidade de curto prazo.\n\n3.\n\nO segundo Estado-Membro pode indeferir um pedido de mobilidade de longo prazo se:\n\na) não estiverem cumpridas as condições estabelecidas no n.º 2, alínea a);\n\nb) for aplicável um dos motivos de recusa estabelecidos no artigo 20.º, com exceção do n.º 1, alínea a), desse artigo;\n\nc) a autorização do investigador para o primeiro Estado-Membro caducar durante o processo; ou\n\nd) quando aplicável, tiver sido atingida a duração máxima de estadia referida no n.º 1, segundo parágrafo.\n\n4. Os investigadores considerados como ameaça à ordem, segurança e saúde públicas não são autorizados a entrar ou permanecer no território do segundo Estado-Membro.\n\n5. Caso o segundo Estado-Membro defira o pedido de mobilidade de longa duração referido no n.º 2 do presente artigo, é concedida ao investigador uma autorização nos termos do artigo 17.º, n.º 4. O segundo Estado-Membro comunica às autoridades competentes do primeiro Estado-Membro que emitiu uma autorização de mobilidade de longo prazo.\n\n6.\n\nO segundo Estado-Membro pode anular a autorização de mobilidade de longo prazo quando:\n\na) não estiverem, ou deixarem de estar, cumpridas as condições estabelecidas no n.º 2, alínea a), ou no n.º 4 do presente artigo; ou\n\nb) for aplicável um dos motivos de retirada estabelecidos no artigo 21.º, com exceção do n.º 1, alínea a), do n.º 2, alínea f), e dos n.^os^ 3, 5 e 6 desse artigo.\n\n7. Quando um Estado-Membro tomar uma decisão relativa à mobilidade de longo prazo, aplica-se de modo correspondente o artigo 34.º, n.^os^ 2 a 5."
+  },
+  "e58b480f73f33448": {
+   "fragment_id": "Artigo 30.º — Mobilidade dos membros da família dos investigadores",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Mobilidade dos membros da família dos investigadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Mobilidade dos membros da família dos investigadores\n\n1. Os membros da família de um investigador na posse de uma autorização de residência válida emitida pelo primeiro Estado-Membro têm direito a entrar e permanecer num ou mais segundos Estados-Membros para acompanhar o investigador.\n\n2.\n\nAo aplicar o processo de notificação referido no artigo 28.º, n.º 2, o segundo Estado-Membro exige a transmissão dos seguintes documentos e informações:\n\na) os documentos e informações relacionados com os membros da família que acompanham o investigador, exigidos nos termos do artigo 28, n.º 5, e n.º 6, alíneas b), c) e d); e\n\nb) um comprovativo de que o membro da família residiu no primeiro Estado-Membro na qualidade de membro da família do investigador, nos termos do artigo 26.º.\n\nO segundo Estado-Membro pode exigir que o notificante apresente os documentos numa das línguas oficiais desse Estado-Membro ou na língua oficial da União que este determine.\n\nSe as condições estabelecidas no primeiro parágrafo não forem cumpridas, o segundo Estado-Membro pode opor-se à mobilidade do membro da família para o seu território. O artigo 28.º, n.º 7, alíneas b) e c), e n.º 9, aplica-se de modo correspondente aos referidos membros da família.\n\n3.\n\nSe o segundo Estado-Membro aplicar o procedimento referido no artigo 29.º, n.º 1, alínea b), o investigador ou os membros da família do investigador enviam um pedido às autoridades competentes do segundo Estado-Membro. O segundo Estado-Membro exige que o requerente envie os seguintes documentos e informações relativos aos membros da família:\n\na) os documentos e informações relacionados com os membros da família que acompanham o investigador, exigidos no artigo 29.º, n.º 2, alínea a), subalíneas i), ii), iii) e v); e\n\nb) um comprovativo de que o membro da família residiu no primeiro Estado-Membro na qualidade de membro da família do investigador, nos termos do artigo 26.º.\n\nO segundo Estado-Membro pode exigir que o requerente apresente os documentos numa das línguas oficiais desse Estado-Membro ou na língua oficial da União que este determine.\n\nSe as condições estabelecidas no primeiro parágrafo não forem cumpridas, o segundo Estado-Membro pode recusar o pedido de mobilidade de longo prazo do membro da família para o seu território. O artigo 29.º, n.º 2, alíneas b) e c), n.º 3, alíneas b), c) e d), n.º 5, n.º 6, alínea b), e n.º 7, aplica-se de modo correspondente aos referidos membros da família.\n\nA validade da autorização de mobilidade de longo prazo dos membros da família caduca, regra geral, na data em que a autorização do investigador emitida pelo segundo Estado-Membro caducar.\n\nA autorização de mobilidade de longo prazo dos membros da família dos investigadores pode ser retirada e a sua renovação pode ser recusada se a autorização de mobilidade de longo prazo do investigador que acompanham for retirada ou se a sua renovação for recusada e se os seus familiares não beneficiarem do direito a uma autorização de residência autónoma.\n\n4. Os membros da família considerados como ameaça à ordem, segurança e saúde públicas não são autorizados a entrar ou permanecer no território do segundo Estado-Membro."
+  },
+  "ebc9dc9e2a30000e": {
+   "fragment_id": "Artigo 31.º — Mobilidade dos estudantes do ensino superior",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Mobilidade dos estudantes do ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Mobilidade dos estudantes do ensino superior\n\n1. Os estudantes na posse de uma autorização válida emitida pelo primeiro Estado-Membro e abrangidos por um programa da União ou multilateral que inclui medidas de mobilidade ou por um acordo entre duas ou mais instituições de ensino superior têm direito a entrar e permanecer num ou vários segundos Estados-Membros durante um período máximo de 360 dias por cada Estado-Membro, nos termos das condições estabelecidas nos n.^os^ 2 a 10, a fim de realizarem parte dos seus estudos num estabelecimento de ensino superior.\n\nOs estudantes que não estão abrangidos por um programa da União ou multilateral que inclui medidas de mobilidade ou por um acordo entre duas ou mais instituições de ensino superior requerem autorização para entrar e permanecer num segundo Estado-Membro para aí realizarem parte dos estudos num estabelecimento de ensino superior, nos termos dos artigos 7.º e 11.º.\n\n2. O segundo Estado-Membro pode exigir que o estabelecimento de ensino superior no primeiro Estado-Membro, o estabelecimento de ensino superior no segundo Estado-Membro ou o estudante notifiquem as autoridades competentes do primeiro e do segundo Estados-Membros da intenção do estudante de realizar parte dos estudos no estabelecimento de ensino superior do segundo Estado-Membro.\n\nEm tais casos, o segundo Estado-Membro permite que a notificação seja feita:\n\na) no momento em que é apresentado o pedido no primeiro Estado-Membro, quando a mobilidade para o segundo Estado-Membro já está prevista nessa fase; ou\n\nb) depois de o estudante ter entrado no primeiro Estado-Membro, logo que se tenha conhecimento da pretendida mobilidade para o segundo Estado-Membro.\n\n3. Se a notificação for feita nos termos do n.º 2, alínea a), e se o segundo Estado-Membro não tiver levantado objeções junto do primeiro Estado-Membro nos termos do n.º 7, a mobilidade do estudante para o segundo Estado-Membro pode ter lugar em qualquer momento, dentro do prazo de validade da autorização.\n\n4. Se a notificação for feita nos termos do n.º 2, alínea b), e se o segundo Estado-Membro não tiver levantado objeções, por escrito, à mobilidade do estudante nos termos dos n.^os^ 7 e 9, a mobilidade é considerada aprovada e pode ter lugar no segundo Estado-Membro.\n\n5. A notificação inclui o documento de viagem válido previsto no artigo 7.º, n.º 1, alínea a), e a autorização válida emitida pelo primeiro Estado-Membro, que abranjam na totalidade o período de mobilidade.\n\n6.\n\nO segundo Estado-Membro pode exigir que a notificação inclua a transmissão dos seguintes documentos e informações:\n\na) um comprovativo de que o estudante realiza parte dos estudos no segundo Estado-Membro no quadro de um programa da União ou multilateral que inclui medidas de mobilidade ou de um acordo entre duas ou mais instituições de ensino superior e um comprovativo de que o estudante tenha sido aceite numa instituição de ensino superior do segundo Estado-Membro;\n\nb) caso não estejam especificadas nos termos da alínea a), a duração prevista e as datas da mobilidade;\n\nc) um comprovativo de que o estudante possui um seguro de doença para todos os riscos contra os quais estão normalmente cobertos os nacionais do Estado-Membro em causa, tal como previsto no artigo 7.º, n.º 1, alínea c);\n\nd) um comprovativo de que, durante a estadia, o estudante disporá de recursos suficientes para cobrir as despesas de subsistência sem recorrer ao sistema de assistência social do Estado-Membro, tal como previsto no artigo 7.º, n.º 1, alínea e), as despesas incorridas com os estudos que realiza e o custo da viagem de regresso para o primeiro Estado-Membro, nos casos referidos no artigo 32.º, n.º 4, alínea b);\n\ne) um comprovativo de que as propinas cobradas pela instituição de ensino superior foram pagas, se aplicável.\n\nO segundo Estado-Membro pode exigir que o notificante forneça, antes do início da mobilidade, o endereço que o estudante em causa terá no território do segundo Estado-Membro.\n\nO segundo Estado-Membro pode exigir que o notificante apresente os documentos numa das línguas oficiais desse Estado-Membro ou na língua oficial da União que este determine.\n\n7.\n\nApós a notificação referida no n.º 2, o segundo Estado-Membro pode opor-se à mobilidade do estudante para o seu território, no prazo de 30 dias a contar da receção da notificação completa, caso:\n\na) as condições estabelecidas no n.º 5 ou no n.º 6 não estejam cumpridas;\n\nb) seja aplicável um dos motivos de recusa estabelecidos no artigo 20.º, n.º 1, alíneas b) ou c), ou n.º 2;\n\nc) a duração máxima de estadia referida no n.º 1 tenha sido atingida.\n\n8. Os estudantes considerados como ameaça à ordem, segurança e saúde públicas não são autorizados a entrar ou permanecer no território do segundo Estado-Membro.\n\n9. As autoridades competentes do segundo Estado-Membro informam sem demora, por escrito, as autoridades competentes do primeiro Estado-Membro e o notificante acerca da sua oposição à mobilidade. Se o segundo Estado-Membro se opuser à mobilidade nos termos do n.º 7, os estudantes não são autorizados a realizar parte dos estudos no estabelecimento de ensino superior do segundo Estado-Membro.\n\n10. Uma vez expirado o período de objeção, o segundo Estado-Membro pode emitir ao estudante um comprovativo de que tem autorização para permanecer no seu território e usufruir dos direitos previstos na presente diretiva."
+  },
+  "1f8ade93ecfa17ff": {
+   "fragment_id": "Artigo 32.º — Garantias e sanções nos casos de mobilidade",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Garantias e sanções nos casos de mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Garantias e sanções nos casos de mobilidade\n\n1.\n\nSe a autorização para efeitos de investigação ou estudos for emitida pelas autoridades competentes de um Estado-Membro que não aplique o acervo de Schengen na totalidade ou se o investigador ou o estudante atravessarem uma fronteira externa para entrar num segundo Estado-Membro no quadro da mobilidade, as autoridades competentes do segundo Estado-Membro têm direito a exigir, como comprovativo da mobilidade, a autorização válida emitida pelo primeiro Estado-Membro e:\n\na) uma cópia da notificação nos termos do artigo 28.º, n.º 2, ou do artigo 31.º, n.º 2; ou\n\nb) se o segundo Estado-Membro permitir a mobilidade sem notificação, um comprovativo de que o estudante realiza parte dos estudos no segundo Estado-Membro no quadro de um programa da União ou multilateral que inclui medidas de mobilidade ou de um acordo entre duas ou mais instituições de ensino superior ou, no caso dos investigadores, uma cópia da convenção de acolhimento que especifique os pormenores da mobilidade do investigador ou, se os referidos pormenores não estiverem especificados na convenção de acolhimento, uma carta do organismo de investigação do segundo Estado-Membro que especifique, pelo menos, a duração da mobilidade dentro da União e a localização do organismo de investigação no segundo Estado-Membro.\n\nNo caso dos membros da família do investigador, as autoridades competentes do segundo Estado-Membro têm o direito de exigir, como comprovativo da mobilidade, uma autorização válida emitida pelo primeiro Estado-Membro e uma cópia da notificação nos termos do artigo 30.º, n.º 2, ou um comprovativo de que estão a acompanhar o investigador.\n\n2. Se retirarem a autorização, as autoridades competentes do primeiro Estado-Membro informam imediatamente as autoridades do segundo Estado-Membro, quando aplicável.\n\n3. O segundo Estado-Membro pode exigir que a entidade de acolhimento do segundo Estado-Membro, o investigador ou o estudante comuniquem todas as alterações que afetem as condições que serviram de base à autorização de mobilidade.\n\n4.\n\nNo caso de o investigador ou, se aplicável, os membros da sua família ou o estudante deixarem de cumprir as condições de mobilidade:\n\na) o segundo Estado-Membro pode exigir que o investigador e, se aplicável, os membros da sua família ou o estudante interrompam todas as atividades e abandonem o seu território;\n\nb) o primeiro Estado-Membro permite, a pedido do segundo Estado-Membro, a reentrada sem formalidades e sem demora do investigador e, quando aplicável, dos membros da sua família ou do estudante. O mesmo se aplica se a autorização emitida pelo primeiro Estado-Membro tiver caducado ou for retirada durante o período de mobilidade no segundo Estado-Membro.\n\n5. Se o investigador, os membros da sua família ou o estudante atravessarem as fronteiras externas de um Estado-Membro que aplica o acervo de Schengen na íntegra, esse Estado-Membro consulta o sistema de informação Schengen. O mesmo Estado-Membro recusa a entrada ou opõe-se à mobilidade das pessoas indicadas no sistema de informação Schengen para efeitos de recusa de entrada e permanência."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "ed7d9b9eb8b3e9f9": {
+   "fragment_id": "PROCEDIMENTO E TRANSPARÊNCIA",
+   "type": "divisao",
+   "heading": "PROCEDIMENTO E TRANSPARÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTO E TRANSPARÊNCIA"
+  },
+  "a9548523c05c4e4a": {
+   "fragment_id": "Artigo 33.º — Sanções contra a entidade de acolhimento",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Sanções contra a entidade de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Sanções contra a entidade de acolhimento\n\nOs Estados-Membros podem prever sanções contra entidades de acolhimento ou, nos casos abrangidos pelo artigo 24.º, contra empregadores que não tenham cumprido as suas obrigações nos termos da presente diretiva. Essas sanções devem ser efetivas, proporcionadas e dissuasivas."
+  },
+  "7944e38b0971df3e": {
+   "fragment_id": "Artigo 34.º — Garantias processuais e transparência",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Garantias processuais e transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Garantias processuais e transparência\n\n1. As autoridades competentes do Estado-Membro em causa decidem sobre o pedido de autorização ou sobre a renovação da mesma, e notificam a decisão ao requerente por escrito, o mais cedo possível mas o mais tardar 90 dias a contar da data de apresentação do pedido completo, em conformidade com os processos de notificação previstos na legislação nacional desse Estado-Membro.\n\n2. Em derrogação do n.º 1 do presente artigo, no caso de o processo de admissão estar relacionado com uma entidade de acolhimento aprovada nos termos dos artigos 9.º e 15.º, a decisão sobre o pedido completo é tomada o mais rapidamente possível, no prazo máximo de 60 dias.\n\n3. Se as informações ou a documentação comprovativas do pedido forem incompletas, as autoridades competentes notificam ao requerente, num prazo razoável, as informações adicionais necessárias e fixam um prazo razoável para a sua apresentação. O prazo referido nos n.^os^ 1 e 2 fica suspenso até que as autoridades competentes tenham recebido as informações complementares exigidas. Se as informações ou os documentos adicionais não forem apresentados dentro do prazo, o pedido pode ser indeferido.\n\n4. Os fundamentos da decisão que declara inadmissível ou indefere um pedido ou recusa a sua renovação são comunicados por escrito ao requerente. Os fundamentos da decisão de retirar uma autorização são comunicados por escrito ao nacional de um país terceiro. Os fundamentos da decisão de retirar uma autorização podem ser comunicados por escrito também à entidade de acolhimento.\n\n5. Qualquer decisão que declara inadmissível ou indefere um pedido, recusa a renovação ou cancela a autorização é passível de recurso no Estado-Membro em causa, em conformidade com a legislação nacional. A notificação escrita especifica o tribunal ou a autoridade administrativa perante os quais pode ser interposto o recurso e o prazo para o interpor."
+  },
+  "a35209656a6675eb": {
+   "fragment_id": "Artigo 35.º — Transparência e acesso à informação",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Transparência e acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Transparência e acesso à informação\n\nOs Estados-Membros facilitam o acesso dos requerentes à informação sobre todas as provas documentais necessárias ao pedido bem como à informação sobre entrada e permanência, incluindo os direitos, as obrigações e as garantias processuais dos nacionais de países terceiros abrangidos pela presente diretiva e, se aplicável, dos membros das suas famílias. Quando aplicável, esta informação inclui o nível suficiente de recursos mensais, nomeadamente os recursos necessários para cobrir as despesas decorrentes dos estudos ou da formação, sem prejuízo de uma análise individual de cada caso, e as taxas aplicáveis.\n\nAs autoridades competentes em cada um dos Estados-Membros publicam as listas das entidades de acolhimento aprovadas para efeitos da presente diretiva. As versões atualizadas das referidas listas são publicadas o mais rapidamente possível depois de terem sido alteradas."
+  },
+  "2fcecbe666b18e8e": {
+   "fragment_id": "Artigo 36.º — Taxas",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Taxas\n\nOs Estados-Membros podem exigir que os nacionais de países terceiros e, quando aplicável, os membros da sua família, ou as entidades de acolhimento paguem taxas de tratamento das notificações e dos pedidos efetuados nos termos da presente diretiva. O valor dessas taxas não deve ser desproporcionado nem excessivo."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "a6a0b201e496d9f8": {
+   "fragment_id": "Artigo 37.º — Cooperação entre pontos de contacto",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Cooperação entre pontos de contacto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Cooperação entre pontos de contacto\n\n1. Os Estados-Membros nomeiam pontos de contacto, que cooperam de modo eficaz e são responsáveis por receber e transmitir as informações necessárias à aplicação dos artigos 28.º a 32.º. Os Estados-Membros privilegiam o intercâmbio de informações por via eletrónica.\n\n2.\n\nCada Estado-Membro informa os outros Estados-Membros, através dos pontos de contacto referidos no n.º 1:\n\na) acerca dos procedimentos aplicáveis à mobilidade referidos nos artigos 28.º a 31.º;\n\nb) se apenas permite a entrada de estudantes e investigadores através de organismos de investigação e instituições de ensino superior aprovados;\n\nc) acerca dos programas multilaterais para estudantes e investigadores que incluam medidas de mobilidade e acordos entre duas ou mais instituições de ensino superior."
+  },
+  "cc04bff0e3dd6b81": {
+   "fragment_id": "Artigo 38.º — Estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Estatísticas\n\n1. Os Estados-Membros transmitem à Comissão estatísticas sobre o número de autorizações emitidas para efeitos da presente diretiva e das notificações recebidas nos termos do artigo 28.º, n.º 2, ou do artigo 31.º, n.º 2, e, na medida do possível, sobre o número de nacionais de países terceiros cujas autorizações foram renovadas ou retiradas. Os Estados-Membros transmitem também estatísticas sobre as pessoas admitidas na qualidade de membros da família de investigadores. As estatísticas são desagregadas por nacionalidades e, na medida do possível, pelos períodos de validade das autorizações.\n\n2. As estatísticas referidas no n.º 1 dizem respeito a períodos de referência de um ano civil e são transmitidas à Comissão no prazo de seis meses a contar do final do ano de referência. O primeiro ano de referência é 2019.\n\n3. As estatísticas a que se refere o n.º 1 são transmitidas nos termos do Regulamento (CE) n.º 862/2007 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0008))."
+  },
+  "5478de980e6f26c7": {
+   "fragment_id": "Artigo 39.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Relatórios\n\nPeriodicamente, e pela primeira vez até 23 de maio de 2023, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação da presente diretiva nos Estados-Membros, e, se for caso disso, propõe as alterações necessárias."
+  },
+  "e9bddbd67c09bbb3": {
+   "fragment_id": "Artigo 40.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Transposição\n\n1. Os Estados-Membros põem em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva até 23 de maio de 2018. Comunicam imediatamente à Comissão o texto dessas disposições.\n\nQuando os Estados-Membros adotarem essas disposições, estas incluem uma referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. Incluem igualmente uma menção precisando que as remissões, nas disposições legislativas, regulamentares e administrativas em vigor, para as diretivas revogadas pela presente diretiva, se entendem como sendo feitas para a presente diretiva. As modalidades dessa referência e a formulação dessa menção são estabelecidas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que adotarem nas matérias reguladas pela presente diretiva."
+  },
+  "0a5902869fbc6971": {
+   "fragment_id": "Artigo 41.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Revogação\n\nAs Diretivas 2004/114/CE e 2005/71/CE são revogadas, no que respeita aos Estados-Membros vinculados pela presente diretiva, com efeitos a partir de 24 de maio de 2018, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito interno das diretivas, indicados no anexo I, parte B, da presente diretiva.\n\nNo que respeita aos Estados-Membros vinculados pela presente diretiva, as remissões para as diretivas revogadas entendem-se como sendo feitas para a presente diretiva e devem ser lidas nos termos das tabelas de correspondência que constam do anexo II."
+  },
+  "e59fb957b4e39822": {
+   "fragment_id": "Artigo 42.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Entrada em vigor\n\nA presente diretiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "27b488aa4a0979b6": {
+   "fragment_id": "Artigo 43.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros, nos termos dos Tratados."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "6cd9753221daf8f2": {
+   "fragment_id": "Parte A",
+   "type": "divisao",
+   "heading": "Parte A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A"
+  },
+  "5a7334c207094501": {
+   "fragment_id": "Diretivas revogadas",
+   "type": "divisao",
+   "heading": "Diretivas revogadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Diretivas revogadas"
+  },
+  "172efeb15d2411ca": {
+   "fragment_id": "(referidas no artigo 42.º)",
+   "type": "divisao",
+   "heading": "(referidas no artigo 42.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidas no artigo 42.º)\n\nDiretiva 2004/114/CE do Conselho (JO L 375 de 23.12.2004, p. 12)\n\nDiretiva 2005/71/CE do Conselho (JO L 289 de 3.11.2005, p. 15)"
+  },
+  "c476005056aa0321": {
+   "fragment_id": "Parte B",
+   "type": "divisao",
+   "heading": "Parte B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B"
+  },
+  "07bf445517d2d7fc": {
+   "fragment_id": "Prazos de transposição para o direito interno e datas de aplicação",
+   "type": "divisao",
+   "heading": "Prazos de transposição para o direito interno e datas de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Prazos de transposição para o direito interno e datas de aplicação"
+  },
+  "51a0324cf5c5df9a": {
+   "fragment_id": "(referidos no artigo 41.º)",
+   "type": "divisao",
+   "heading": "(referidos no artigo 41.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (referidos no artigo 41.º)\n\n| Diretiva | Prazo de transposição | Data de aplicação |\n| --- | --- | --- |\n| 2004/114/CE | 12.1.2007 |  |\n| 2005/71/CE | 12.10.2007 |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "35a2326bac24179c": {
+   "fragment_id": "Tabelas de correspondência",
+   "type": "divisao",
+   "heading": "Tabelas de correspondência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tabelas de correspondência\n\nDiretiva 2004/114/CE Presente diretiva\n\nArtigo 1.º, alínea a) Artigo 1.º, alínea a)\n\nArtigo 1.º, alínea b) —\n\n— Artigo 1.º, alínea b)\n\nArtigo 2.º, frase introdutória Artigo 3.º, frase introdutória\n\nArtigo 2.º, alínea a) Artigo 3.º, n.º 1\n\nArtigo 2.º, alínea b) Artigo 3.º, n.º 3\n\nArtigo 2.º, alínea c) Artigo 3.º, n.º 4\n\nArtigo 2.º, alínea d) Artigo 3.º, n.º 5\n\n— Artigo 3.º, n.º 6\n\nArtigo 2.º, alínea e) Artigo 3.º, n.^os^ 11 e 13\n\nArtigo 2.º, alínea f) Artigo 3.º, n.º 7\n\nArtigo 2.º, alínea g) Artigo 3.º, n.º 22\n\n— Artigo 3.º, n.º 8\n\n— Artigo 3.º, n.º 12\n\n— Artigo 3.º, n.^os^ 14 a 21\n\n— Artigo 3.º, n.^os^ 23 e 24\n\nArtigo 3.º, n.º 1 Artigo 2.º, n.º 1\n\nArtigo 3.º, n.º 2, alíneas a) a d) Artigo 2.º, n.º 2, alíneas a) a d)\n\nArtigo 3.º, n.º 2, alínea e) —\n\n— Artigo 2.º, n.º 2, alíneas e) a g)\n\nArtigo 4.º Artigo 4.º\n\nArtigo 5.º Artigo 5.º, n.º 1\n\n— Artigo 5.º, n.^os^ 2 e 3\n\n— Artigo 6.º\n\nArtigo 6.º, n.º 1, alíneas a) a c) e e) Artigo 7.º, n.º 1, alíneas a) a d)\n\nArtigo 6.º, n.º 1,alínea d) Artigo 7.º, n.º 6\n\nArtigo 6.º, n.º 2 —\n\n— Artigo 7.º, n.^os^ 2 e 3\n\nArtigo 7.º, n.º 1, frase introdutória Artigo 11.º, n.º 1, frase introdutória\n\nArtigo 7.º, n.º 1, alínea a) Artigo 11.º, n.º 1, alínea a)\n\nArtigo 7.º, n.º 1, alínea b) Artigos 7, n.º 1, alínea e), e 11.º, n.º 1, alínea d)\n\nArtigo 7.º, n.º 1, alínea c) Artigo 11.º, n.º 1, alínea c)\n\nArtigo 7.º, n.º 1, alínea d) Artigo 11.º, n.º 1, alínea b)\n\nArtigo 7.º, n.º 2 Artigo 11.º, n.º 2\n\n— Artigo 11.º, n.º 3\n\nArtigo 8.º Artigo 31.º\n\nArtigo 9.º, n.ºs 1 e 2 Artigo 12.º, n.^os^ 1 e 2\n\nArtigo 10.º, frase introdutória Artigo 13.º, n.º 1, frase introdutória\n\nArtigo 10.º, alínea a) Artigo 13.º, n.º 1, alínea a)\n\n— Artigo 13.º, n.º 1, alínea b)\n\nArtigo 10.º, alínea b) Artigos 7.º, n.º 1, alínea e), e 13.º, n.º 1, alínea c)\n\nArtigo 10.º, alínea c) Artigo 13.º, n.º 1, alínea d)\n\n— Artigo 13.º, n.º 1, alíneas e) e f)\n\n— Artigo 13.º, n.^os^ 2 a 4\n\nArtigo 11.º, frase introdutória Artigo 14.º, n.º 1, frase introdutória\n\nArtigo 11.º, alínea a) Artigo 14.º, n.º 2,\n\nArtigo 11.º, alínea b) Artigo 14.º, n.º 1, alínea a)\n\n— Artigo 14.º, n.º 1, alínea b)\n\nArtigo 11.º, alínea c) Artigo 14.º, n.º 1, alínea c)\n\nArtigo 11.º, alínea d) Artigo 14.º, n.º 1, alínea d)\n\nArtigo 12.º, n.º 1 Artigo 18.º, n.º 2\n\nArtigo 12.º, n.º 2 Artigo 21.º, n.º 2, alínea f)\n\nArtigo 13.º Artigo 18.º, n.º 4\n\nArtigo 14.º Artigo 18.º, n.º 6\n\nArtigo 15.º Artigo 18.º, n.º 7\n\n— Artigo 18.º, n.^os^ 3, 5, 8 e 9\n\n— Artigos 16.º, 17.º e 19.º\n\nArtigo 16.º, n.º 1 Artigo 21.º, n.º 1, alíneas a) e b)\n\n— Artigo 21.º, n.º 1, alíneas c) e d)\n\nArtigo 16.º, n.º 2 Artigo 21.º, n.º 4\n\n— Artigo 21.º, n.º 2, alíneas a) e e)\n\n— Artigo 21.º, n.º 3\n\n— Artigo 21.º, n.^os^ 5 a 7\n\n— Artigo 22.º, n.^os^ 3 e 4\n\nArtigo 17.º, n.º 1, primeiro parágrafo, primeiro período Artigo 24.º, n.º 1\n\nArtigo 17.º, n.º 1, primeiro parágrafo, segundo período Artigo 24.º, n.º 3\n\nArtigo 17.º, n.º 1, segundo parágrafo Artigo 24.º, n.º 2\n\nArtigo 17.º, n.º 2 Artigo 24.º, n.º 3\n\nArtigo 17.º, n.^os^ 3 e 4 —\n\n— Artigo 24.º\n\n— Artigo 27.º\n\n— Artigo 30.º\n\n— Artigos 32.º e 33.º\n\nArtigo 18.º, n.º 1 Artigo 34.º, n.º 1\n\n— Artigo 34.º, n.º 2\n\nArtigo 18.º, n.ºs 2, 3 e 4 Artigo 34.º, n.^os^ 3, 4 e 5\n\nArtigo 19.º —\n\n— Artigo 35.º, primeiro parágrafo\n\nArtigo 20.º Artigo 36.º\n\n— Artigos 37.º e 38.º\n\nArtigo 21.º Artigo 39.º\n\nArtigos 22.º a 25.º —\n\n— Artigos 40.º a 42.º\n\nArtigo 26.º Artigo 43.º\n\n— Anexos I e II\n\nDiretiva 2005/71/CE Presente diretiva\n\nArtigo 1.º Artigo 1.º, alínea a)\n\nArtigo 2.º, frase introdutória Artigo 3.º, frase introdutória\n\nArtigo 2.º, alínea a) Artigo 3.º, n.º 1\n\nArtigo 2.º, alínea b) Artigo 3.º, n.º 9\n\nArtigo 2.º, alínea c) Artigo 3.º, n.º 10\n\nArtigo 2.º, alínea d) Artigo 3.º, n.º 2\n\nArtigo 2.º, alínea e) Artigo 3.º, n.º 22\n\nArtigo 3.º, n.º 1 Artigo 2.º, n.º 1\n\nArtigo 3.º, n.º 2, alínea a) Artigo 2.º, n.º 2, alínea a)\n\nArtigo 3.º, n.º 2, alínea b) —\n\nArtigo 3.º, n.º 2, alínea c) Artigo 2.º, n.º 2, alínea b)\n\nArtigo 3.º, n.º 2, alínea d) —\n\nArtigo 4.º Artigo 4.º\n\nArtigo 5, n.º 1 Artigo 9.º, n.º 1\n\nArtigo 5, n.º 2 Artigo 9.º, n.º 2\n\nArtigo 5, n.º 3 Artigo 8.º, n.º 2\n\nArtigo 5, n.º 4 Artigo 10.º, n.º 7\n\nArtigo 5, n.º 5 Artigo 35.º, segundo parágrafo\n\nArtigo 5, n.º 6 Artigo 9.º, n.º 3\n\nArtigo 5, n.º 7 Artigo10.º, n.º 8\n\nArtigo 6.º, n.º 1 Artigo 10.º, n.º 1\n\n— Artigo 10.º, n.º 2\n\nArtigo 6.º, n.º 2, alínea a) Artigo 10.º, n.º 4\n\nArtigo 6.º, n.º 2, alínea b) Artigo 7.º, n.º 1, alínea e)\n\nArtigo 6.º, n.º 2, alínea c) Artigo 7.º, n.º 1, alínea c)\n\nArtigo 6.º, n.º 2, alínea d) Artigo 10.º, n.º 3\n\nArtigo 6.º, n.º 3 —\n\nArtigo 6.º, n.^os^ 4 e 5 Artigo 10.º, n.^os^ 5 e 6\n\nArtigo 7.º, n.º 1, alínea a) Artigo 7.º, n. 1, alínea a)\n\nArtigo 7.º, n.º 1, alínea b) Artigo 8.º, n.º 1\n\nArtigo 7.º, n.º 1, alínea c) Artigo 8.º, n.º 2\n\nArtigo 7.º, n.º 1, alínea d) Artigo 7.º, n.º 6\n\nArtigo 7.º, n.º 1, último parágrafo —\n\nArtigo 7.º, n.º 2 —\n\nArtigo 7.º, n.º 3 Artigo 5.º, n.º 3\n\nArtigo 8.º Artigo 18.º, n.º 1\n\nArtigo 9.º Artigo 26.º\n\nArtigo 10.º, n.º 1 Artigo 21.º, n.º 1, alíneas a), b) e d)\n\nArticle 10.º, n.º 2 Artigo 21.º, n.º 4\n\nArtigo 11.º, n.^os^ 1 e 2 Artigo 23.º\n\nArtigo 12.º Artigo 22.º, n.^os^ 1 e 2\n\nArtigo 13.º Artigos 28.º e 29.º\n\nArtigo 14.º, n.º 1 Artigo 7.º, n.º 5\n\nArtigo 14.º, n.ºs 2 e 3 Artigo 7.º, n.º 4\n\nArtigo 14.º, n.º 4 Artigo 5.º, n.º 3\n\nArtigo 15.º, n.º 1 Artigo 34.º, n.º 1\n\n— Artigo 34.º, n.º 2\n\nArtigo 15.º, n.º 2 Artigo 34.º, n.º 3\n\nArtigo 15.º, n.º 3 Artigo 34.º, n.º 4\n\nArtigo 15.º, n.º 4 Artigo 34.º, n.º 5\n\nArtigo 16.º Artigo 39.º\n\nArtigos 17.º a 20.º —\n\nArtigo 21.º Artigo 43.º\n\n---"
+  },
+  "01d8f79ea327f6e4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Diretiva 2011/95/UE do Parlamento Europeu e do Conselho, de 13 de dezembro de 2011, que estabelece normas relativas às condições a preencher pelos nacionais de países terceiros ou por apátridas para poderem beneficiar de proteção internacional, a um estatuto uniforme para refugiados ou pessoas elegíveis para proteção subsidiária e ao conteúdo da proteção concedida (JO L 337 de 20.12.2011, p. 9).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Diretiva 2001/55/CE do Conselho, de 20 de julho de 2001, relativa a normas mínimas em matéria de concessão de proteção temporária no caso de afluxo maciço de pessoas deslocadas e a medidas tendentes a assegurar uma repartição equilibrada do esforço assumido pelos Estados-Membros ao acolherem estas pessoas e suportarem as consequências decorrentes desse acolhimento (JO L 212 de 7.8.2001, p. 12).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Diretiva 2003/109/CE do Conselho, de 25 de Novembro de 2003, relativa ao estatuto dos nacionais de países terceiros residentes de longa duração (JO L 16 de 23.1.2004, p. 44).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Diretiva (UE) 2021/1883 do Parlamento Europeu e do Conselho, de 20 de outubro de 2021, relativa às condições de entrada e de residência de nacionais de países terceiros para efeitos de emprego altamente qualificado e que revoga a Diretiva 2009/50/CE do Conselho (JO L 382 de 28.10.2021, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0005)) Convenção de Aplicação do Acordo de Schengen, de 14 de junho de 1985, entre os Governos dos Estados da União Económica Benelux, da República Federal da Alemanha e da República Francesa relativo à supressão gradual dos controlos nas fronteiras comuns (JO L 239 de 22.9.2000, p. 19).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0006)) Regulamento (CE) n.º 1683/95 do Conselho, de 29 de maio de 1995, que estabelece um modelo-tipo de visto (JO L 164 de 14.7.1995, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0007)) Recomendação do Parlamento Europeu e do Conselho, de 23 de abril de 2008, relativa à instituição do Quadro Europeu de Qualificações para a aprendizagem ao longo da vida (JO C 111 de 6.5.2008, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/81a044c6-4c88-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#src.E0008)) Regulamento (CE) n.º 862/2007 do Parlamento Europeu e do Conselho, de 11 de julho de 2007, relativo às estatísticas comunitárias sobre migração e proteção internacional e que revoga o Regulamento (CEE) n.º 311/76 do Conselho relativo ao estabelecimento de estatísticas sobre trabalhadores estrangeiros (JO L 199 de 31.7.2007, p. 23)."
+  }
+ }
+}

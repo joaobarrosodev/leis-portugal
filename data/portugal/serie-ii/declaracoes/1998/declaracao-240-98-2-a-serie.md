@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:2289646:por
+title: Declaração n.º 240/98 (2.ª Série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: declaracao
+document_type_label: Declaração
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território - Direcção-Geral do Ordenamento do Território
+  e Desenvolvimento Urbano
+proposing_entity: null
+official_number: 240/98 (2.ª Série)
+official_date: null
+publication_date: '1998-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 173/1998, Série II de 1998-07-29
+  number: '173'
+  series: II
+  supplement: null
+  pages: null
+  pdf_url: null
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- 'Fonte sem texto: o DRE não tem texto eletrónico nem PDF deste diploma; o registo tem só os metadados (verificado em 2026-10-26).'
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2289646'
+  dre_path: /dr/detalhe/declaracao/240-1998-2289646
+  internal: pt:dre:2289646:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao/240-1998-2289646
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao/240-1998-2289646
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:00:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 48508bff3d93794056fdcd5c9c472fdc161f5c4c757fd40cd234cb9fd07f8952
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-26T12:00:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Plano Director Municipal
+- Política de Solos
+- Regulamento
+- VALE de Cambra
+relationships:
+- type: amended_by
+  target: pt:dre:660096:por
+  label: "Ratificadas as alterações dos art.s 19º e 29º do Regulamento bem como na área de intervenção do Plano de Urbanização\
+    \ das plantas de ordenamento e de condicionantes, todas do Plano Director Municipal ratificado pela Res 73/93, de 11-Nov,\
+    \ na redacção da Res 183/97, da presente Declararação e da Res 157/2001, de 31-Out, pela RES.112/2003.2003.07.16.PCM DR.IS-B\
+    \ [186] de 13/AGO/2003\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/112-2003-660096
+  date: '2003-07-16'
+- type: amended_by
+  target: pt:dre:2654210:por
+  label: "Tornada pública a atualização da Carta de Condicionantes do Plano Diretor Municipal de Vale de Cambra, ratificado\
+    \ pela Res 73/93, de 16-dez, da PCM, na redação da Res 183/97, de 28-Out, ddo presente do presente diploma, da Res 157/2001,\
+    \ de 31-Out e da Res 112/2003, de 13-ago, pelo AV.10368/2012.01.08.2012.MVALE DE CAMBRA, DR.IIS [148] de 01.08.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/10368-2012-2654210
+  date: '2012-08-01'
+- type: amended_by
+  target: pt:dre:73362382:por
+  label: Tornada pública a alteração ao Regulamento do Plano Diretor Municipal de Vale de Cambra ratificado pela Res 73/93,
+    de 16-dez, na redação do presente diploma pelo(a) Aviso n.º 1065/2016 - Diário da República n.º 20/2016, Série II de 2016-01-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/1065-2016-73362382
+  date: '2016-01-29'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: 'Sem texto na fonte: o SHA-256 identifica a resposta de metadados do DRE (JSON, chaves ordenadas).'
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:00:18Z'
+  warnings:
+  - Sem texto e sem PDF no DRE; registo só com os metadados.
+  errors: []
+---
+
+# Declaração n.º 240/98 (2.ª Série)
+
+> O DRE não tem o texto deste diploma nem o PDF; este registo tem só os metadados.

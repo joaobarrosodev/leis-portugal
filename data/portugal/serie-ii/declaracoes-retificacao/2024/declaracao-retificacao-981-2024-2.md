@@ -1,0 +1,330 @@
+---
+schema_version: '1.0'
+id: pt:dre:897247292:por
+title: Declaração de Retificação n.º 981/2024/2
+short_title: null
+summary: Retifica o Alvará n.º 9/2024, publicado no Diário da República, 2.ª série, n.º 205, de 22 de outubro de 2024.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Administração Interna - Polícia de Segurança Pública - Direção Nacional
+proposing_entity: null
+official_number: 981/2024/2
+official_date: null
+publication_date: '2024-11-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 225/2024, Série II de 2024-11-20
+  number: '225'
+  series: II
+  supplement: null
+  pages: 58 - 63
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/11/225000000/0005800063.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '897247292'
+  dre_path: /dr/detalhe/declaracao-retificacao/981-2024-897247292
+  internal: pt:dre:897247292:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/981-2024-897247292
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/981-2024-897247292
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:56:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b920075724f83bfaf750748b1c75eb985663909e21d488fc1c7a253f2b9ff54a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:56:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:158636:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:205457496:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:692396:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:891997326:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:56:10Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 981/2024/2
+
+Ao abrigo do disposto nos n.os2 e 3 do artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 21 de dezembro, publicado no Diário da República, 2.ª série, n.º 251, de 30 de dezembro de 2022, declara-se que o [Alvará n.º 9/2024](https://diariodarepublica.pt/dr/detalhe/alvara/9-2024-891997326), publicado no Diário da República, 2.ª série, n.º 205, parte C, de 22 de outubro de 2024, saiu com inexatidão, por não ter sido publicado o anexo que faz parte integrante do alvará, pelo que, mediante declaração da entidade emitente, se publica.
+
+Na p. 2, onde se lê:
+
+«11 de outubro de 2024. - O Diretor Nacional da Polícia de Segurança Pública, Superintendente Luís Miguel Ribeiro Carrilho.»
+
+deve ler-se:
+
+«11 de outubro de 2024 - O Diretor Nacional da Polícia de Segurança Pública, Superintendente Luís Miguel Ribeiro Carrilho.
+
+ANEXO
+
+Estabelecimento fabril de pirotecnia da empresa Pirotécnica - J. Vieira & Filhos, L.da, sito no lugar de Santa Rita, n.º 7, freguesia de Golães, concelho de Fafe, distrito de Braga
+
+1 - Produtos explosivos
+
+A) Fabrico autorizado
+
+| Tipo de produto | N.º ONU | Classe | Código<br>de classificação | Produção anual *<br>(kg) |
+| --- | --- | --- | --- | --- |
+| Artifícios de divertimento/fogos-de-artifício | 0335 | 1 | 1.3G | 2500 |
+| Artifícios de divertimento/fogos-de-artifício | 0336 | 1 | 1.4G | 2500 |
+| Artifícios de divertimento/fogos-de-artifício | 0337 | 1 | 1.4S | 2500 |
+
+* Valores estimados.
+
+B) Aquisições autorizadas
+
+| Tipo de produto | N.º ONU | Classe | Código<br>de classificação |
+| --- | --- | --- | --- |
+| Artifícios de divertimento/fogos-de-artifício | 0335 | 1 | 1.3G |
+| Artifícios de divertimento/fogos-de-artifício | 0336 | 1 | 1.4G |
+| Artifícios de divertimento/fogos-de-artifício | 0337 | 1 | 1.4S |
+| Objetos Pirotécnicos para Uso Técnico | 0430 | 1 | 1.3G |
+| Objetos Pirotécnicos para Uso Técnico | 0431 | 1 | 1.4G |
+| Mecha de combustão rápida | 0066 | 1 | 1.4G |
+| Mecha de mineiro (Rastilho) | 0105 | 1 | 1.4S |
+| Inflamadores | 0454 | 1 | 1.4S |
+
+2 - Edifícios com produtos explosivo
+
+Edifício 4 - Oficina de trabalho
+
+| Função | Montagem de artigos de pirotecniaAs operações de admitidas limitam-se à inserção de inflamadores, rastilhos e aplicação sistemas dos restantes sistemas de iniciação e ligação dos artigos não operações de preparação para a sua utilização em espetáculos.Estão vedadas, proibidas, operações de combinação ou alteração de artigos que alterem a sua divisão de risco. |  |
+| --- | --- | --- |
+| Produtos explosivos | Fogos de artifício, objetos pirotécnicos para uso técnico, mecha de combustão rápida, mecha de mineiro (rastilho) e inflamadores. |  |
+| Lotação - Divisão de Risco | 100 kg - 1.3 e 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 7 × 5 × 3/5 |  |
+| Travesamento | Em todas as direções, exceto a nascente |  |
+| Materiais de construção | Paredes | Alvenaria de tijolo, lisa, pintada, interior e exteriormente, de branco. |
+| Pavimento | Betonilha de cimento lisa coberta com tinta antiestática. |  |
+| Teto/Cobertura | Painel isotérmico tipo sandwich. |  |
+| Porta | Alumínio, de abrir para fora. |  |
+
+Edifício 7 - Paiol
+
+| Função | Armazenagem |  |
+| --- | --- | --- |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados, mecha de combustão rápida, mecha de mineiro (rastilho) e inflamadores. |  |
+| Lotação - Divisão de Risco | 550 kg - 1.3 ou 1 500 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 3 × 4 × 4/3 |  |
+| Travesamento | Em todas as direções, exceto a nascente. |  |
+| Materiais de construção | Paredes | Alvenaria de tijolo, lisa, pintada, interior e exteriormente, de branco. |
+| Pavimento | Betonilha de cimento lisa. |  |
+| Teto/Cobertura | Painel isotérmico tipo sandwich. |  |
+| Porta | Alumínio, de abrir para fora. |  |
+
+Edifício 9 - Paiol
+
+|  |  |  |
+| --- | --- | --- |
+| Função | Armazenagem |  |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados, mecha de combustão rápida, mecha de mineiro (rastilho) e inflamadores. |  |
+| Lotação - Divisão de Risco | 450 kg - 1.3 ou 1500 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 6 × 2,3 × 2,4 |  |
+| Travesamento | Em todas as direções, exceto a nascente. |  |
+| Materiais de construção | Paredes | Contentor de 20 pés constituído por painéis fibráticos e isolamento térmico. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
+
+Edifício 10 - Paiol
+
+| Função | Armazenagem |  |
+| --- | --- | --- |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |  |
+| Lotação - Divisão de Risco | 550 kg - 1.3 ou 1500 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 3 × 4 × 4/3 |  |
+| Travesamento | Em todas as direções, exceto a nascente. |  |
+| Materiais de construção | Paredes | Alvenaria de tijolo, lisa, pintada, interior e exteriormente, de branco. |
+| Pavimento | Betonilha de cimento lisa. |  |
+| Teto/Cobertura | Painel isotérmico tipo sandwich. |  |
+| Porta | Alumínio, de abrir para fora. |  |
+
+Edifício 11 - Paiol
+
+| Função | Armazenagem |  |
+| --- | --- | --- |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |  |
+| Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |  |
+| Travesamento | Em todas as direções, exceto a nascente. |  |
+| Materiais de construção | Paredes | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
+
+Edifício 12 - Paiol
+
+|  |  |  |
+| --- | --- | --- |
+| Função | Armazenagem |  |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |  |
+| Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 12 × 5,5 × 4/3 |  |
+| Travesamento | Em todas as direções exceto a nascente. |  |
+| Materiais de construção | Paredes | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
+
+Edifício 13 - Paiol
+
+| Função | Armazenagem |  |
+| --- | --- | --- |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |  |
+| Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |  |
+| Travesamento | Em todas as direções exceto a nascente. |  |
+| Materiais de construção | Paredes | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
+
+Edifício 14 - Paiol
+
+| Função | Armazenagem |  |
+| --- | --- | --- |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados. |  |
+| Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |  |
+| Travesamento | Em todas as direções exceto a nascente. |  |
+| Materiais de construção | Paredes | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
+
+Edifício 15 - Paiol
+
+| Função | Armazenagem |  |
+| --- | --- | --- |
+| Produtos explosivos | Artigos de pirotecnia acabados ou semiacabados |  |
+| Lotação - Divisão de Risco | 425 kg - 1.3 ou 5000 kg - 1.4 |  |
+| Dimensões (interior) - C × L × H (m) | 12 × 2,3 × 2,2 |  |
+| Travesamento | Em todas as direções exceto a nascente. |  |
+| Materiais de construção | Paredes | Contentor de 20 pés, em painel sanduíche, isotérmico.Encontra-se completamente encastrado em construção de alvenaria, terra e betão, onde existe uma parede de separação com cerca de 5 m de espessura. |
+| Pavimento |  |  |
+| Teto/Cobertura |  |  |
+| Porta |  |  |
+
+3 - Edifícios e estruturas sem matéria ativa:
+
+1 e 2 - Instalações sociais e administrativas;
+
+3, 6 e 8 - Armazéns de inertes;
+
+5 - Telheiro de apoio;
+
+16, 17, 18 e 19 - Dependências de apoio.
+
+4 - Energia a utilizar: Os edifícios com produtos explosivos não têm energia elétrica.
+
+5 - Zona de segurança (ZS):
+
+A zona de segurança (ZS) do estabelecimento fabril em causa será a área delimitada na planta em anexo (limite do terreno na posse da empresa), cumprindo com o disposto no n.º 1 do artigo 12.º do Regulamento de Segurança dos Estabelecimentos de Fabrico e de Armazenagem de Produtos Explosivos (RSEFAPE), aprovado pelo [Decreto-Lei n.º 139/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-2002-158636), de 17 de maio, e artigo 6.º do [Decreto-Lei n.º 87/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2005-692396), de 23 de maio.
+
+Na ZS referida não existem quaisquer edificações, vias de comunicação ou instalações de transporte de energia ou comunicações, além das indispensáveis ao serviço do estabelecimento.
+
+O perímetro da zona de segurança está assinalado por painéis com a indicação «ZONA DE SEGURANÇA DE ESTABELECIMENTO DE FABRICO/ARMAZENAGEM DE PRODUTOS EXPLOSIVOS» (n.º 10 do artigo 12.º do RSEFAPE).
+
+6 - Vedação:
+
+O estabelecimento encontra-se vedado de forma a impedir a intrusão de pessoas estranhas num perímetro não inferior ao indicado no n.º 8 do artigo 12.º do RSEFAPE.
+
+A vedação referida encontra-se ao longo do limite da propriedade da empresa e é efetuada por um muro construído em alvenaria de blocos, sendo algumas zonas completadas com vedação em rede.
+
+Ao longo dessa vedação existem painéis bem visíveis ostentando a inscrição «PERIGO DE EXPLOSÃO» e junto das entradas e saídas a inscrição «PROIBIDA A ENTRADA DE PESSOAS ESTRANHAS AO ESTABELECIMENTO» (n.º 9 do artigo 12.º do RSEFAPE).
+
+7 - Tipo de embalagens: As embalagens a utilizar no acondicionamento para transporte de produtos explosivos obedecem ao preceituado no Regulamento Nacional de Transporte de Matérias Perigosas por Estrada em vigor.
+
+8 - Sistema de vigilância permanente:
+
+O estabelecimento encontra-se protegido por um sistema de vigilância permanente que assegura a deteção de intrusos e que promove, em caso de urgência, o aviso imediato das forças de segurança e dos bombeiros.
+
+Este sistema de vigilância permanente consiste num sistema de videovigilância e alarmes de intrusão.
+
+9 - Controlo e sinalização de acessos:
+
+Os edifícios possuem afixado, em posição bem visível, instruções sobre as condições de laboração ou de funcionamento e sobre as normas de segurança a observar.
+
+Na zona frontal dos edifícios que constituem o estabelecimento, em local bem visível, existe uma inscrição em letras bem legíveis respeitante ao produto armazenado, sua natureza, quantidade máxima autorizada e correspondente divisão de risco.
+
+10 - Proteção contra descargas atmosféricas: Os edifícios contendo produtos explosivos estão convenientemente protegidos por para-raios, existindo documento técnico a atestar o seu raio de ação, bem como a sua operacionalidade.
+
+11 - Proteção contra eletricidade estática: Foram tomadas medidas de proteção contra os perigos da eletricidade estática nos locais de manipulação de produtos sensíveis, nos termos do artigo 31.º do RSEFAPE, através da adoção de soluções técnicas na construção e na seleção dos materiais dos edifícios (pavimentos com cobertura antiestática).
+
+12 - Meios de combate a incêndios:
+
+O estabelecimento dispõe de um sistema de combate a incêndios aprovado pela Autoridade Nacional de Emergência e Proteção Civil.
+
+A empresa dispõe de extintores e bocas-de-incêndio distribuídos em pontos estratégicos para uma melhor intervenção em caso de incêndio.
+
+13 - Proteção Individual: Os equipamentos de proteção individual (EPI), fornecidos pela empresa aos seus funcionários, observam o disposto no artigo 35.º do Regulamento de Segurança.
+
+14 - Pessoal: Conforme o quadro de pessoal empresa.
+
+15 - Estrutura técnica responsável: O cargo de responsável técnico geral é exercido por Mateus Augusto Freitas Vieira e o cargo de responsável técnico substituto é exercido por José Fernandes Castro Vieira, pessoas com comprovada experiência na área.
+
+16 - Planta de localização:
+
+Latitude: 41°28’25.85”N; Longitude: 8°11’4.86”W
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/897247292/897247381.png) |
+| --- |
+
+»
+
+12 de novembro de 2024. - O Diretor Nacional da Polícia de Segurança Pública, Superintendente Luís Miguel Ribeiro Carrilho.
+
+318349809

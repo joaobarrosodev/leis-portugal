@@ -1,0 +1,997 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66357209:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2015-125973461",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/1-2015-66357209",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "901381300",
+    "125926377",
+    "125926378",
+    "125926379",
+    "125926380",
+    "125926381",
+    "125926382",
+    "125926383",
+    "125926384",
+    "125926385",
+    "125926386",
+    "125926387",
+    "125926388",
+    "125926389",
+    "125926390",
+    "125926391",
+    "125926392",
+    "125926393",
+    "125926394",
+    "125926395",
+    "125926396",
+    "125926397",
+    "125926398",
+    "125926399",
+    "125926400",
+    "125926401",
+    "125926402",
+    "125926403",
+    "125926404",
+    "125926405",
+    "125926406",
+    "125926407",
+    "125926408",
+    "125926409",
+    "125926410",
+    "125926411",
+    "125926413",
+    "125926414",
+    "125926415",
+    "125926416",
+    "125926417",
+    "125926418",
+    "125926419"
+   ]
+  },
+  {
+   "date": "2019-11-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125902660:por",
+     "title": "Decreto Regulamentar Regional n.º 10/2019/A",
+     "published": "2019-11-08",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/10-2019-125902660"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "125926376",
+    "125926377",
+    "125926378",
+    "125926379",
+    "125926380",
+    "125926381",
+    "125926382",
+    "125926468",
+    "125926384",
+    "125926385",
+    "125926386",
+    "125926387",
+    "125926388",
+    "125926389",
+    "125926469",
+    "125926391",
+    "125926392",
+    "125926393",
+    "125926394",
+    "125926395",
+    "125926396",
+    "125926397",
+    "125926398",
+    "125926399",
+    "125926400",
+    "125926401",
+    "125926402",
+    "125926403",
+    "125926404",
+    "125926405",
+    "125926406",
+    "125926407",
+    "125926408",
+    "125926409",
+    "125926410",
+    "125926411",
+    "125926412",
+    "125926413",
+    "125926414",
+    "125926415",
+    "125926416",
+    "125926417",
+    "125926418",
+    "125926419"
+   ]
+  },
+  {
+   "date": "2024-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901147129:por",
+     "title": "Decreto Regulamentar Regional n.º 24/2024/A",
+     "published": "2024-12-24",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "901381300",
+    "901381301",
+    "901381302",
+    "901381303",
+    "901381304",
+    "901381305",
+    "901381306",
+    "901381307",
+    "901381308",
+    "901381309",
+    "901381310",
+    "901381311",
+    "901381312",
+    "901381313",
+    "901381314",
+    "901381315",
+    "901381316",
+    "901381317",
+    "901381318",
+    "901381319",
+    "901381320",
+    "901381321",
+    "901381322",
+    "901381323",
+    "901381324",
+    "901381325",
+    "901381326",
+    "901381327",
+    "901381328",
+    "901381329",
+    "901381330",
+    "901381331",
+    "901381332",
+    "901381333",
+    "901381334",
+    "901381335",
+    "901381336",
+    "901381337",
+    "901381338",
+    "901381339",
+    "901381340",
+    "901381341",
+    "901381342",
+    "901381343"
+   ]
+  }
+ ],
+ "fragments": {
+  "901381300": {
+   "fragment_id": "125973462",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-12-25",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 1/2015/A\n\nRegulamenta o regime jurídico de apoios a conceder aos agentes que desenvolvam atividades culturais consideradas de relevante interesse para a Região, aprovado pelo Decreto Legislativo Regional n.º 29/2006/A, de 8 de agosto, alterado e republicado pelo Decreto Legislativo Regional n.º 9/2014/A, de 3 de julho.\n\nConsiderando que o Decreto Legislativo Regional n.º 29/2006/A, de 8 de agosto, criou o regime jurídico de apoios a conceder pela administração regional autónoma dos Açores aos agentes, individuais ou coletivos, regionais, nacionais ou estrangeiros, que desenvolvam atividades culturais consideradas de relevante interesse para a Região.\n\nConsiderando que aquele diploma foi alterado e republicado pelo Decreto Legislativo Regional n.º 9/2014/A, de 3 de julho.\n\nConsiderando que se torna necessário proceder à regulamentação e aprovação dos novos modelos de formulários, com vista à concessão dos apoios previstos.\n\nNos termos da alínea b) do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, e para efeitos do disposto no n.º 2 do artigo 6.º, no n.º 2 do artigo 8.º e no artigo 19.º do Decreto Legislativo Regional n.º 29/2006/A, de 8 de agosto, na redação introduzida pelo Decreto Legislativo Regional n.º 9/2014/A, de 3 de julho, o Governo Regional decreta o seguinte:\n\n> Nota: [Artigo 24.º, Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129) O presente decreto regulamentar regional, apesar de se encontrar revogado desde 25 de dezembro de 2024, aplica-se às candidaturas a apoios a projetos culturais que se realizem em 2026."
+  },
+  "125926377": {
+   "fragment_id": "125973463",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "125926378": {
+   "fragment_id": "125973464",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma regulamenta o regime jurídico de apoios a conceder pela administração regional autónoma dos Açores, através do departamento do Governo Regional com competência em matéria de cultura, aos agentes, individuais ou coletivos, regionais, nacionais ou estrangeiros, que desenvolvam atividades culturais consideradas de relevante interesse para a Região, aprovado pelo Decreto Legislativo Regional n.º 29/2006/A, de 8 de agosto, alterado e republicado pelo Decreto Legislativo Regional n.º 9/2014/A, de 3 de julho, adiante designado de RJAAC."
+  },
+  "125926379": {
+   "fragment_id": "125973465",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O regime previsto no Capítulo II do presente diploma aplica-se à comparticipação dos encargos das alíneas a), c) e d) do artigo 2.º do RJAAC, através das modalidades de apoio previstas nas alíneas a) a d) do artigo 3.º do mesmo diploma.\n\n2 - O regime previsto no Capítulo III do presente diploma aplica-se à atribuição de bolsas de estudo, formação e criação previstas no artigo 8.º do RJAAC, através das modalidades de apoio previstas na alínea e) do artigo 3.º do mesmo diploma."
+  },
+  "125926380": {
+   "fragment_id": "125973466",
+   "type": 1,
+   "heading": "Capítulo II — Apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Apoios"
+  },
+  "125926381": {
+   "fragment_id": "125973467",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoios para projetos culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apoios para projetos culturais\n\n1 - Os projetos abrangidos pelo disposto na alínea a) do artigo 2.º do RJAAC que incluam atividades de várias áreas artísticas são candidatados à área predominante.\n\n2 - Os projetos a que se refere o número anterior relativamente aos quais não seja possível determinar a área predominante são candidatados à área artística \"programas interdisciplinares\"."
+  },
+  "125926382": {
+   "fragment_id": "125973468",
+   "type": 11,
+   "heading": "Artigo 4.º — Apoios para aquisição, manutenção e reparação de instrumentos musicais e outros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apoios para aquisição, manutenção e reparação de instrumentos musicais e outros\n\n1 - Os apoios com os encargos previstos na alínea c) do artigo 2.º do RJAAC, desde que exclusivamente afetos à atividade do requerente, destinam-se a:\n\na) Aquisição, manutenção e reparação de instrumentos musicais e material consumível;\n\nb) Aquisição de fardamento;\n\nc) Aquisição e recuperação de trajes;\n\nd) Aquisição de repertório.\n\n2 - Para efeitos do disposto na alínea a) do número anterior entende-se que:\n\na) A aquisição de instrumentos inclui a aquisição dos respetivos estojos;\n\nb) O material consumível inclui as palhetas, as cordas, os arcos, os bocais, as boquilhas, as surdinas e os lubrificantes considerados essenciais.\n\n3 - A candidatura a apoios para aquisição, manutenção e reparação de instrumentos musicais e outros não prejudica a candidatura por parte das entidades beneficiárias a quaisquer outros apoios ou incentivos públicos, nomeadamente na área da cultura.\n\n4 - As sociedades recreativas e filarmónicas que tenham beneficiado de apoios ao abrigo do Programa Regional de Apoio às Sociedades Recreativas e Filarmónicas da Região Autónoma dos Açores, criado pelo Decreto Legislativo Regional n.º 3/2014/A, de 14 de fevereiro, estão inibidas de, para o mesmo efeito, apresentar candidatura."
+  },
+  "125926383": {
+   "fragment_id": "125973469",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoios para edição de obras culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apoios para edição de obras culturais\n\n1 - Sem prejuízo do disposto no n.º 2 do artigo 12.º do RJAAC, podem candidatar-se aos apoios a custos de edição previstos na alínea d) do artigo 2.º do RJAAC:\n\na) As empresas editoras regionais e nacionais e com atividade editorial regular há, pelo menos, dois anos, que nos últimos dois anos tenham editado e promovido autores açorianos ou a Região Autónoma dos Açores;\n\nb) Outras pessoas coletivas de direito privado que tenham a sua sede e exerçam atividade editorial regular há, pelo menos, dois anos na Região, e que tenham editado nos últimos dois anos mais de 60 % do seu projeto editorial sem apoios públicos.\n\n2 - Os apoios aos custos de edição de livros dependem da verificação dos seguintes requisitos:\n\na) Ter uma tiragem mínima de:\n\ni) 500 (quinhentos) exemplares, quando se trate da primeira obra editada pelo autor;\n\nii) 750 (setecentos e cinquenta) exemplares, quando se trate de autores já editados, e ser primeiras edições, ou reedições de títulos, cuja última edição tenha mais de cinco anos.\n\nb) Não constituir reimpressão;\n\nc) Não constituir anuário, publicação periódica, separata ou número monográfico desta, nem publicação na área da investigação.\n\n3 - Os apoios aos custos de edição de CD's e DVD's dependem da verificação dos seguintes requisitos:\n\na) Ter uma tiragem mínima de:\n\ni) 500 exemplares, quando se trate da primeira obra editada pelo autor ou grupo;\n\nii) 750 exemplares quando se trate de autor ou grupo já editados.\n\nb) Ser primeiras edições ou reedições de títulos cuja última edição tenha mais de cinco anos.\n\n4 - Para efeitos dos n.os 2 e 3 o controlo de impressão e de cópia dos exemplares é efetuado presencialmente pela direção regional com competência em matéria de cultura.\n\n5 - São excluídas as candidaturas cujas edições de obras culturais:\n\na) Digam respeito a obras que já tenham sido publicadas à data da entrega do processo de candidatura;\n\nb) Se refiram a obras a publicar antes do final da conclusão do processo de candidatura e respetiva contratualização, relativo ao ano a que concorrem;\n\nc) Apresentem edições de autores que estão no domínio público, que não estejam incluídos no aviso de abertura, publicitado anualmente, na sequência do despacho do membro do Governo Regional com competência em matéria de cultura, até ao dia 31 de janeiro."
+  },
+  "125926384": {
+   "fragment_id": "125973470",
+   "type": 1,
+   "heading": "Capítulo III — Contratos de cooperação técnica e financeira, contratos de financiamento, protocolos e subsídios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Contratos de cooperação técnica e financeira, contratos de financiamento, protocolos e subsídios"
+  },
+  "125926385": {
+   "fragment_id": "125973471",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Forma\n\n1 - Os apoios que revistam as modalidades previstas nas alíneas a) a c) do artigo 3.º do RJAAC são formalizados, conforme os casos, através de contratos ou protocolos reduzidos a escrito, outorgado pelos beneficiários e pelo membro do Governo Regional competente em matéria de cultura, podendo delegar poderes para o efeito no diretor regional com competência em matéria de cultura.\n\n2 - Os apoios que revistam a modalidade prevista na alínea d) do artigo 3.º do RJAAC são formalizados mediante despacho do membro do Governo Regional com competência em matéria de cultura, aplicando-se com as necessárias adaptações o disposto no artigo 7.º\n\n3 - Os contratos têm a duração correspondente à execução do projeto, programa ou atividade a desenvolver."
+  },
+  "125926386": {
+   "fragment_id": "125973472",
+   "type": 11,
+   "heading": "Artigo 7.º — Cláusulas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cláusulas\n\nPara efeitos do disposto no n.º 2 do artigo 6.º do RJAAC, faz parte integrante do contrato ou protocolo um clausulado que deve conter, para além da identificação das partes, da referência ao Decreto Legislativo Regional n.º 29/2006/A, de 8 de agosto, alterado e republicado pelo Decreto Legislativo Regional n.º 9/2014/A, de 3 de julho, e ao presente Regulamento, os seguintes elementos:\n\na) Descrição pormenorizada dos projetos ou atividades a desenvolver;\n\nb) Período de vigência;\n\nc) Quantificação do investimento a efetuar pelas partes, ou terceiros, e respetivo faseamento;\n\nd) Instalações, equipamentos, meios humanos, técnicos e financeiros a disponibilizar pelas partes ou por terceiros;\n\ne) Datas de início e termo dos projetos, atividades e execução das obras;\n\nf) Eventuais contrapartidas a prestar pelas entidades apoiadas;\n\ng) Direitos e obrigações das entidades contratantes;\n\nh) Despesas elegíveis;\n\ni) Estrutura de acompanhamento e controlo da execução do contrato;\n\nj) Penalizações face a situações de incumprimento, por qualquer das entidades contratantes;\n\nk) Outras cláusulas que se revelem necessárias para salvaguardar interesses específicos relacionados com o objeto concreto dos contratos, com a qualidade do particular ou com a participação de terceiros."
+  },
+  "125926387": {
+   "fragment_id": "125973473",
+   "type": 1,
+   "heading": "Capítulo IV — Concessão dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Concessão dos apoios"
+  },
+  "125926388": {
+   "fragment_id": "125973474",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pedido de apoio\n\n1 - Para efeitos do disposto no artigo 9.º do RJAAC encontra-se disponível no Portal do Governo Regional dos Açores o formulário de candidatura, cujo modelo consta do Anexo I ao presente diploma e que dele faz parte integrante.\n\n2 - A data limite para entrega de candidaturas é fixada por despacho do membro do Governo Regional com competência em matéria de cultura, até ao dia 31 de janeiro."
+  },
+  "125926389": {
+   "fragment_id": "125998775",
+   "type": 11,
+   "heading": "Artigo 9.º — Formulário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formulário\n\nPara além dos elementos referidos no n.º 3 do artigo 9.º do RJAAC, e ao abrigo do disposto no n.º 4 do mesmo artigo, a direção regional com competência em matéria de cultura pode solicitar aos requerentes, entre outros e conforme os encargos em causa, os seguintes elementos:\n\na) Meios necessários;\n\nb) Meios disponibilizados pelo interessado ou por terceiros;\n\nc) Meios pretendidos da administração regional;\n\nd) Datas de início e termo dos projetos, atividades ou execução das obras;\n\ne) Descrição pormenorizada do objeto do investimento, incluindo a utilização prevista e o número de pessoas que dele beneficiarão;\n\nf) Declaração de que não se encontram em incumprimento relativamente a apoios concedidos ao abrigo de outros sistemas de apoio financeiro público;\n\ng) Fatura pró-forma ou orçamento carimbado e validado pelo fornecedor, comprovativos do valor dos instrumentos e acessórios que o agente pretende adquirir, os quais devem, cumulativamente, indicar o nome, contactos permanentes, morada e número de identificação fiscal da empresa que os emitiu e indicar marcas, materiais e quantidade das peças a adquirir;\n\nh) Um exemplar integral da obra a publicar, em formato digital e em ficheiro não editável e um em papel, para livros;\n\ni) Sinopse do texto de cada obra apresentada, no máximo de duas folhas tamanho A4;\n\nj) Apresentação em suporte adequado e com indicação do título, tratando-se de outro tipo de edição, nomeadamente CD, DVD e CD-ROM;\n\nk) Certidão do registo comercial da entidade candidata;\n\nl) Cópia do contrato de cedência de direitos de autor;\n\nm) Cópia do comprovativo do pedido à Sociedade Portuguesa de Autores de licenciamento fonográfico ou reprodução mecânica, no caso da edição em CD e DVD;\n\nn) Cópia do comprovativo do pedido de registo e classificação de videograma da Inspeção Regional das Atividades Culturais, no caso da edição em DVD;\n\no) Catálogo atualizado da editora ou outras pessoas coletivas de direito privado;\n\np) Plano de divulgação e promoção das obras a editar;\n\nq) Custos de edição, distribuição, divulgação e promoção das obras a editar;\n\nr) Projeção do preço de venda ao público das obras a editar;\n\ns) No caso de obras de autores do domínio público sujeitas a direitos conexos, o contrato de cedência de direitos correspondentes."
+  },
+  "125926390": {
+   "fragment_id": "125998776",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comissão de apreciação\n\n1 - Para efeitos do disposto no n.º 2 do artigo 13.º do RJAAC, as comissões de apreciação são compostas por duas individualidades, oriundas do Conselho Regional de Cultura, uma individualidade externa e um elemento da direção regional com competência em matéria de cultura, sem direito a voto e que desempenhará as funções de relator.\n\n2 - Os elementos que constituem uma comissão podem integrar comissões de outros domínios, desde que o seu mérito seja também reconhecido nessas áreas.\n\n3 - Os membros das comissões de apreciação não são remunerados.\n\n4 - As despesas inerentes a ajudas de custo e deslocações dos membros das comissões são asseguradas pelos respetivos serviços de origem no caso de trabalhadores da administração regional, ou pelo departamento do Governo Regional competente em matéria de cultura no caso de indivíduos não vinculados à administração regional, através de verbas afetas à ação que suporta os apoios a atividades culturais.\n\n5 - A direção regional com competência em matéria de cultura assegura o apoio administrativo necessário às comissões de apreciação.\n\n6 - As comissões de apreciação podem recorrer a técnicos para a emissão de pareceres quando se trate de matérias em áreas especializadas ou específicas.\n\n7 - No prazo de trinta dias a contar do termo do prazo de apresentação de candidaturas, as comissões de apreciação deliberam sobre as candidaturas, lavrando uma ata fundamentada que deve conter as seguintes menções:\n\na) A avaliação de cada candidatura;\n\nb) Os totais da pontuação de cada candidatura, obtidos em cada critério e respetivos fatores de majoração, ordenados de forma decrescente, a partir da pontuação mais elevada.\n\n8 - A ata da apreciação das candidaturas, por cada comissão de apreciação, e a proposta de montantes a atribuir a cada entidade beneficiária, são submetidas a homologação do membro do Governo Regional com competência em matéria de cultura.\n\n9 - Sem prejuízo do disposto no n.º 7 do artigo 14.º do RJAAC, a concessão dos apoios é publicitada no Portal do Governo Regional dos Açores e no Portal Cultura Açores."
+  },
+  "125926391": {
+   "fragment_id": "125998777",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de apreciação\n\n1 - Os critérios e subcritérios são pontuados por cada um dos membros da comissão, sendo a pontuação mais elevada correspondente à maior adequação da candidatura ao critério em análise.\n\n2 - A pontuação de cada critério e subcritério é o resultado da média aritmética correspondente à avaliação atribuída por cada membro da comissão de apreciação.\n\n3 - A classificação total obtida pela candidatura corresponde à soma aritmética da aplicação dos critérios e subcritérios de apreciação e dos fatores de majoração.\n\n4 - Os fatores de majoração serão definidos no aviso de abertura.\n\n5 - São critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea a) do artigo 2.º do RJAAC os constantes do Anexo II ao presente diploma e que dele faz parte integrante.\n\n6 - São critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea c) do artigo 2.º do RJAAC os constantes do Anexo III ao presente diploma e que dele faz parte integrante.\n\n7 - São critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea d) do artigo 2.º do RJAAC os constantes do Anexo IV ao presente diploma e que dele faz parte integrante."
+  },
+  "125926392": {
+   "fragment_id": "125998778",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Obrigações dos beneficiários\n\n1 - As entidades beneficiárias cujas atividades sejam apoiadas no âmbito do presente diploma devem sempre mencionar, em todo o material promocional, pelos meios adequados ao tipo de atividades, o apoio concedido pelo Governo Regional, nos termos a definir no texto do acordo estabelecido.\n\n2 - No caso dos apoios com os encargos previstos na alínea d) do artigo 2.º do RJAAC a editora ou outras pessoas coletivas de direito privado devem enviar à direção regional com competência em matéria de cultura cinquenta exemplares de cada uma das obras editadas, cujos destinatários serão, preferencialmente, as Bibliotecas Públicas e Arquivos Regionais e a Rede Regional de bibliotecas escolares."
+  },
+  "125926393": {
+   "fragment_id": "125998779",
+   "type": 11,
+   "heading": "Artigo 13.º — Processamento da comparticipação financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Processamento da comparticipação financeira\n\n1 - O processamento da comparticipação financeira dos apoios culturais cujos montantes sejam iguais ou superiores a (euro) 5.000,00 é efetuado da seguinte forma:\n\na) 60 % do valor global, após a assinatura do contrato e receção do mesmo na direção regional com competência em matéria de cultura;\n\nb) Os restantes 40 %, trinta dias após a conclusão do projeto e apresentação do relatório técnico e financeiro com cópia das faturas e recibos das despesas realizadas.\n\n2 - O processamento da comparticipação financeira dos apoios a atividades culturais cujos montantes sejam inferiores a (euro) 5.000,00 será processado numa única prestação, após a assinatura do contrato e receção do mesmo na direção regional com competência em matéria de cultura.\n\n3 - Nos casos previstos no número anterior as entidades beneficiárias devem remeter à direção regional com competência em matéria de cultura, trinta dias após a conclusão do projeto, o respetivo relatório técnico e financeiro com cópia das faturas e recibos das despesas realizadas."
+  },
+  "125926394": {
+   "fragment_id": "125998780",
+   "type": 1,
+   "heading": "Capítulo V — Bolsas de estudo, de formação e de criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Bolsas de estudo, de formação e de criação"
+  },
+  "125926395": {
+   "fragment_id": "125998781",
+   "type": 8,
+   "heading": "Secção I — Bolsas de estudo e de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Bolsas de estudo e de formação"
+  },
+  "125926396": {
+   "fragment_id": "125998782",
+   "type": 11,
+   "heading": "Artigo 14.º — Número de bolsas de estudo e de formação e data para entrega de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Número de bolsas de estudo e de formação e data para entrega de candidaturas\n\nSão fixados, mediante despacho do membro do Governo Regional com competência em matéria de cultura, a emitir até 31 de janeiro de cada ano:\n\na) As bolsas de estudo e de formação nas seguintes áreas temáticas:\n\ni) Artes Plásticas;\n\nii) Audiovisual e Multimédia;\n\niii) Criação Literária;\n\niv) Dança;\n\nv) Dramaturgia;\n\nvi) Fotografia;\n\nvii) Música.\n\nb) O número de bolsas de estudo e de formação a atribuir em cada área;\n\nc) A data limite para entrega das candidaturas."
+  },
+  "125926397": {
+   "fragment_id": "125998783",
+   "type": 11,
+   "heading": "Artigo 15.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Candidaturas\n\n1 - A candidatura a bolsas de estudo e formação é formalizada, no prazo que estiver estabelecido no despacho mencionado no n.º 1 do artigo anterior, através de requerimento dirigido ao membro do Governo Regional com competência em matéria de cultura, conforme modelo constante do Anexo V ao presente diploma e que dele faz parte integrante.\n\n2 - Apenas podem ser candidatos a bolsas de estudo e formação os indivíduos com residência fiscal na Região.\n\n3 - O requerimento deve ser acompanhado de certificado de inscrição no curso e de declaração de compromisso de prestação de serviço, conforme modelo constante do Anexo VI ao presente diploma e que dele faz parte integrante.\n\n4 - Quando o número de candidatos a bolsa de estudo e de formação, numa determinada área, for superior ao número de bolsas oferecido, os candidatos são ordenados de acordo com o critério do menor tempo em falta para conclusão do curso."
+  },
+  "125926398": {
+   "fragment_id": "125998784",
+   "type": 11,
+   "heading": "Artigo 16.º — Atribuição das bolsas de estudo e de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Atribuição das bolsas de estudo e de formação\n\n1 - As bolsas de estudo e de formação atribuídas entendem-se como abrangendo o tempo remanescente até à conclusão do curso.\n\n2 - As bolsas de estudo e de formação compreendem:\n\na) A atribuição de um subsídio mensal equivalente a 65 % ou 40 % da remuneração mínima mensal mais elevada garantida por lei, pago por cada mês de frequência do curso, consoante o aluno frequente o curso em instituição localizada fora ou dentro da sua ilha de residência;\n\nb) A atribuição, por ano, de duas passagens de ida e volta, pela tarifa e modalidade mais económicas, entre o local de residência do aluno e a localidade onde estude, mediante a apresentação dos respetivos recibos, bilhetes de viagem e comprovativos de embarque.\n\n3 - Para efeitos de atribuição de bolsa de estudo e de formação, as interrupções letivas do Natal, Carnaval e Páscoa fazem parte integrante do ano formativo.\n\n4 - As bolsas de estudo e de formação são pagas em duas prestações em cada ano, sendo o processamento das quantias efetuado a partir da data do despacho do membro do Governo Regional com competência em matéria de cultura, nos seguintes termos:\n\na) O processamento efetua-se no próprio mês se o despacho for da primeira quinzena;\n\nb) O processamento efetua-se no mês seguinte se o despacho for da segunda quinzena."
+  },
+  "125926399": {
+   "fragment_id": "125998785",
+   "type": 11,
+   "heading": "Artigo 17.º — Contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contrato\n\nA concessão da bolsa de estudo e de formação deve ser formalizada através da outorga de contrato, aplicando-se com as devidas adaptações o disposto nos artigos 6.º e 7.º"
+  },
+  "125926400": {
+   "fragment_id": "125998786",
+   "type": 11,
+   "heading": "Artigo 18.º — Direitos e obrigações dos bolseiros de estudo e de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direitos e obrigações dos bolseiros de estudo e de formação\n\n1 - Os alunos beneficiários da bolsa de estudo e de formação podem prescindir, a qualquer momento, do estatuto de bolseiro, através de requerimento dirigido ao membro do Governo Regional com competência em matéria de cultura, desde que reembolsem a Região, na totalidade dos valores entretanto recebidos a título de bolsa, incluindo as despesas com passagens, nos termos do disposto no n.º 3 do artigo 17.º do RJAAC.\n\n2 - A reprovação por motivo de doença clinicamente comprovada ou outra razão justificada não determina o reembolso se os alunos bolseiros repetirem e concluírem com aproveitamento a parte do curso que reprovaram, não podendo, contudo, o número de anos reprovados ao longo do curso ser superior a dois, sob pena de lhes ser aplicada a obrigação de devolução estabelecida no número anterior.\n\n3 - No início de cada ano letivo os alunos bolseiros abrangidos pelo disposto no número anterior devem dar conhecimento da repetição e razões que a determinaram, à direção regional com competência em matéria de cultura.\n\n4 - No início de cada ano e até à sua conclusão, os bolseiros devem apresentar o certificado de inscrição no curso."
+  },
+  "125926401": {
+   "fragment_id": "125998787",
+   "type": 8,
+   "heading": "Secção II — Bolsas de criação artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Bolsas de criação artística"
+  },
+  "125926402": {
+   "fragment_id": "125998788",
+   "type": 11,
+   "heading": "Artigo 19.º — Categorias e conteúdos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Categorias e conteúdos\n\n1 - Podem ser concedidas bolsas de criação artísticas para projetos nas categorias previstas na alínea a) do artigo 14.º\n\n2 - Por despacho do membro do Governo Regional com competência em matéria de cultura, a emitir até 31 de janeiro de cada ano, é definido o número de bolsas de criação artística a conceder anualmente em cada categoria e a temática a abordar nos projetos em cada categoria.\n\n3 - As bolsas de criação artística são concedidas por um período de doze meses, a contar a partir da data de assinatura do contrato.\n\n4 - Para orientação dos interessados em participar da seleção prevista no presente diploma os respetivos campos temáticos para cada uma das categorias constam do Anexo VII ao presente diploma que dele faz parte integrante."
+  },
+  "125926403": {
+   "fragment_id": "125998789",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Condições de admissão\n\n1 - Os candidatos podem inscrever-se apenas num projeto, numa das categorias previstas no Anexo VII.\n\n2 - Não são aceites projetos elaborados em coautoria.\n\n3 - Caso os candidatos tenham um projeto a decorrer no âmbito do presente diploma ficam excluídos de poder apresentar nova candidatura enquanto o processo não estiver concluído."
+  },
+  "125926404": {
+   "fragment_id": "125998790",
+   "type": 11,
+   "heading": "Artigo 21.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Candidaturas\n\n1 - O período de candidaturas decorre durante o mês de agosto de cada ano e são analisadas pelas comissões de apreciação no decorrer do mês de setembro.\n\n2 - As candidaturas devem ser enviadas, por qualquer meio, para a direção regional com competência em matéria de cultura, indicando-se expressamente a menção 'Bolsa para criação artística' e a respetiva categoria.\n\n3 - Para efeitos do disposto no n.º 4 do artigo 9.º do RJAAC a direção regional com competência em matéria de cultura pode solicitar aos candidatos, entre outros, os seguintes elementos:\n\na) Ficha de candidatura devidamente preenchida e assinada;\n\nb) Três cópias encadernadas do currículo comprovado do candidato;\n\nc) Três cópias encadernadas do projeto, incluindo: objetivo justificativo da necessidade da bolsa de criação artística, memória descritiva e descrição detalhada do planeamento de execução e do produto final previsto, comprovativo de ter a situação tributária regularizada, além de outros materiais que o candidato julgue necessários para a avaliação.\n\n4 - No caso específico da categoria Fotografia, o candidato deve incluir no processo de candidatura um pequeno texto, com a descrição do conceito artístico justificativo da abordagem fotográfica pretendida e um CD com um portfólio contendo algumas imagens, ainda que não definitivas, do seu projeto, devendo as imagens ser apresentadas em «ficheiros jpg» de baixa resolução.\n\n5 - Ao inscrever-se, o candidato assume a inexistência de plágio no projeto que se propõe desenvolver, assumindo integralmente a sua autoria e incorrendo na responsabilidade civil e criminal que daí possa advir.\n\n6 - Sempre que as obras a expor publicamente incluam pessoas ou outras produções artísticas deve o autor assegurar-se das autorizações referentes a direitos de imagem ou de autor.\n\n7 - O conjunto de documentos constantes do processo de candidatura não será devolvido.\n\n8 - Sem prejuízo do disposto no n.º 7 do artigo 14.º do RJAAC, a relação oficial dos candidatos admitidos, por categoria, está sujeita a publicação e divulgação no Portal do Governo Regional dos Açores e no Portal Cultura Açores."
+  },
+  "125926405": {
+   "fragment_id": "125998791",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação\n\n1 - Os projetos e os respetivos candidatos são avaliados segundo os critérios previstos no presente diploma por comissões de apreciação, nos termos do disposto no artigo 10.º\n\n2 - A pontuação dos projetos e respetivos candidatos corresponde à média das notas finais atribuídas pelos três membros de cada comissão de apreciação com direito a voto.\n\n3 - Os projetos e os candidatos a bolsa de criação artística são avaliados de acordo com os seguintes critérios, com total máximo de 100 pontos:\n\na) Currículo do candidato (0 a 15 pontos);\n\nb) Justificação da necessidade da bolsa (0 a 10 pontos);\n\nc) Qualidade, originalidade e relevância do projeto para a Região (0 a 30 pontos);\n\nd) Contribuição do projeto para o desenvolvimento artístico e estético na respetiva categoria de inscrição (0 a 30 pontos);\n\ne) Consistência, prazo para a execução do projeto e metodologia no planeamento de execução do projeto (0 a 15 pontos).\n\n4 - O desempate entre candidatos numa mesma categoria é efetuado através da aplicação da seguinte ordem de critérios e respetiva pontuação, correspondente à média das notas dos membros da comissão de apreciação:\n\na) Contribuição do projeto para o desenvolvimento artístico e estético na respetiva categoria de inscrição;\n\nb) Qualidade, originalidade e relevância do projeto para a Região;\n\nc) Currículo do candidato;\n\nd) Justificação da necessidade da bolsa.\n\n5 - A comissão de apreciação pode decidir não atribuir as bolsas de criação artística em qualquer das categorias, se entender não estar garantida a qualidade dos projetos apresentados.\n\n6 - As deliberações da comissão de apreciação, com a classificação de todos os candidatos em cada categoria, são apresentadas em ata e submetidas a deliberação do membro do Governo Regional com competência em matéria de cultura, para efeitos do disposto n.º 1 do artigo 14.º do RJAAC.\n\n7 - Sem prejuízo do disposto no n.º 7 do artigo 14.º do RJAAC, a concessão dos apoios é publicitada no Portal do Governo Regional dos Açores e no Portal Cultura Açores."
+  },
+  "125926406": {
+   "fragment_id": "125998792",
+   "type": 11,
+   "heading": "Artigo 23.º — Concessão das bolsas de criação artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Concessão das bolsas de criação artística\n\n1 - O pagamento das bolsas de criação artística é efetuado da seguinte forma:\n\na) 75 % pagos na assinatura do contrato de financiamento;\n\nb) 25 % pagos mediante a entrega do relatório final, a remeter à direção regional com competência em matéria de cultura, trinta dias após a conclusão do projeto.\n\n2 - A atribuição da bolsa de criação artística caduca nas seguintes situações:\n\na) Decorridos sessenta dias após a comunicação da atribuição sem que tenha sido devolvido o contrato assinado;\n\nb) Incumprimento pelo bolseiro de qualquer uma das obrigações estabelecidas no presente Regulamento e no contrato assinado;\n\nc) Não correspondência entre as atividades executadas e as atividades descritas e aprovadas aquando da candidatura;\n\nd) Decorridos trinta dias após a data prevista para a conclusão da atividade sem que tenha sido entregue o relatório final."
+  },
+  "125926407": {
+   "fragment_id": "125998793",
+   "type": 11,
+   "heading": "Artigo 24.º — Obrigações dos bolseiros de criação artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Obrigações dos bolseiros de criação artística\n\n1 - Os bolseiros de criação artística devem formalizar um contrato com a direção regional com competência em matéria de cultura, no qual devem constar, entre outros elementos, os direitos e obrigações das partes em decorrência do presente diploma, aplicando-se com as devidas adaptações o disposto no artigo 7.º\n\n2 - Nos casos aplicáveis, o contrato deve, igualmente, prever os termos em que os bolseiros retribuirão à Região o apoio concedido, seja em espécie, seja através de outras iniciativas de âmbito cultural.\n\n3 - Os bolseiros devem apresentar, no máximo de dez dias após a divulgação do resultado no Jornal Oficial, os seguintes documentos para a assinatura do contrato:\n\na) Cópia autenticada do documento de identidade;\n\nb) Cópia autenticada do cartão de contribuinte;\n\nc) Comprovativo de ter a situação tributária regularizada perante a instituição da previdência ou segurança social;\n\nd) Declaração comprovativa da situação tributária regularizada perante a Autoridade Tributária e Aduaneira;\n\ne) Comprovativo do número de identificação bancária.\n\n4 - São da responsabilidade dos bolseiros todos os contactos, custos e encargos para o desenvolvimento do projeto proposto.\n\n5 - Em toda a publicação, edição, montagem, exposição ou divulgação do produto resultante e dos resultados do projeto, os selecionados devem incluir a menção \"Projeto cofinanciado pelo Governo dos Açores\", devendo ainda ser dado conhecimento à direção regional com competência em matéria de cultura das datas concretas de todas as atividades a decorrer, resultantes do projeto apoiado no âmbito do presente Regulamento."
+  },
+  "125926408": {
+   "fragment_id": "125998794",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "125926409": {
+   "fragment_id": "125998795",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma transitória\n\nO período de candidaturas para o ano de 2015 é fixado por despacho do membro do Governo Regional com competência em matéria de cultura, excecionalmente nos trinta dias seguintes à publicação do presente diploma."
+  },
+  "125926410": {
+   "fragment_id": "125998796",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 83/2006, de 23 de novembro;\n\nb) A Portaria n.º 2/2008, de 3 de janeiro;\n\nc) A Portaria n.º 92/2011, de 24 de novembro."
+  },
+  "125926411": {
+   "fragment_id": "125998797",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "125926413": {
+   "fragment_id": "125998799",
+   "type": 14,
+   "heading": "Anexo I — Formulário de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Formulário de candidatura\n\nProjetos culturais com interesse relevante para a preservação, valorização, promoção e divulgação cultural da Região Autónoma dos Açores\n\n(a que se refere o artigo 8.º)\n\n(ver documento original)\n\nFormulário de candidatura\n\nAquisição de instrumentos musicais e respetivo material consumível, aquisição de fardamento, aquisição e recuperação de trajes e de reportório por coletividades destinados à realização de projetos culturais.\n\n(ver documento original)\n\nFormulário de candidatura\n\nEdição de obras Culturais\n\n(ver documento original)\n\nFormulário de candidatura\n\nBolsas para criação artística\n\n(ver documento original)"
+  },
+  "125926414": {
+   "fragment_id": "125998800",
+   "type": 14,
+   "heading": "Anexo II — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea a) do artigo 2.º do RJAAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea a) do artigo 2.º do RJAAC\n\n(a que se refere o n.º 5 do artigo 11.º)\n\n(ver documento original)"
+  },
+  "125926415": {
+   "fragment_id": "125998801",
+   "type": 14,
+   "heading": "Anexo III — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea c) do artigo 2.º do RJAAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea c) do artigo 2.º do RJAAC\n\n(a que se refe o n.º 6 do artigo 11.º)\n\n(ver documento original)"
+  },
+  "125926416": {
+   "fragment_id": "125998802",
+   "type": 14,
+   "heading": "Anexo IV — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea d) do artigo 2.º do RJAAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea d) do artigo 2.º do RJAAC\n\n(a que se refere o n.º 7 do artigo 11.º)\n\n(ver documento original)"
+  },
+  "125926417": {
+   "fragment_id": "125998803",
+   "type": 14,
+   "heading": "Anexo V — Modelo de requerimento para concessão de Bolsa de Estudo e Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Modelo de requerimento para concessão de Bolsa de Estudo e Formação\n\n(a que se refere o n.º 1 do artigo 15.º)\n\n(ver documento original)"
+  },
+  "125926418": {
+   "fragment_id": "125998804",
+   "type": 14,
+   "heading": "Anexo VI — Modelo de declaração de compromisso de aceitação de emprego na Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Modelo de declaração de compromisso de aceitação de emprego na Região Autónoma dos Açores\n\n(a que se refere o n.º 3 do artigo 15.º)\n\n(ver documento original)"
+  },
+  "125926419": {
+   "fragment_id": "125998805",
+   "type": 14,
+   "heading": "Anexo VII — Campos temáticos para cada uma das categorias das bolsas de criação artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — Campos temáticos para cada uma das categorias das bolsas de criação artística\n\n(a que se refere o n.º 4 do artigo 19.º)\n\nArtes Plásticas\n\nDesenvolvimento de projeto de criação individual nos segmentos que compõem as Artes Plásticas, resultando em ações, obras ou processos inéditos para apresentação ou exposição pública. O projeto conclui-se na apresentação das obras em espaço de acesso público, acompanhada de catálogo explicativo.\n\nCaso o projeto seja constituído por um conjunto superior a duas peças, uma das peças reverterá para a direção regional com competência em matéria de cultura. As restantes peças serão propriedade do autor, que poderá comercializá-las.\n\nAudiovisual e Multimédia\n\nConceção e desenvolvimento de um projeto artístico audiovisual ou multimédia, resultando numa obra original para apresentação ou exibição pública.\n\nSão contempladas as seguintes áreas do audiovisual:\n\na) Ficção;\n\nb) Animação;\n\nc) Documentário.\n\nÉ da responsabilidade do artista a resolução legal dos direitos de autor e/ou de imagem.\n\nOs suportes admitidos são:\n\na) Película;\n\nb) Vídeo.\n\nO projeto deve ser entregue na direção regional com competência em matéria de cultura em suporte digital de utilização comum.\n\nNa área do multimédia, o projeto deve ser acompanhado de eventual documentação, em qualquer suporte, que o autor entenda dever assistir ao eventual processo de apresentação ou exibição pública das obras em causa, a que poderá adicionar, em qualquer suporte, informação que entenda necessária, ou útil, à plena compreensão no processo de avaliação do mérito do projeto/obra.\n\nCriação Literária\n\nDesenvolvimento de projeto de criação literária individual e inédito (poesia, ficção, ensaio, banda desenhada, dramaturgia), destinado a público juvenil ou a público adulto.\n\nNa modalidade de poesia, a obra pode ser um longo poema ou um conjunto de poemas.\n\nAs obras de ficção podem ser de um dos seguintes géneros: conto, novela ou romance.\n\nNa modalidade de ensaio dar-se-á preferência a textos que reflitam sobre a obra de escritores ou de outros criadores açorianos (nomeadamente artistas plásticos e músicos) ou sobre o papel dos Açores na Europa e no Mundo, seja a temática literária ou científica.\n\nNa modalidade de banda desenhada, o dossier de candidatura deve incluir uma prancha original que corresponda a um aspeto concreto da sinopse apresentada.\n\nO projeto conclui-se numa publicação, em edição de autor ou por editora comercial, com uma tiragem mínima de 500 exemplares.\n\nOs direitos de autor da obra literária pertencem ao bolseiro.\n\nO autor compromete-se a entregar quinze exemplares à direção regional com competência em matéria de cultura.\n\nDança\n\nDesenvolvimento de projeto de criação coreográfica para espetáculo em dança contemporânea, individual ou coletiva, resultando em obra inédita para montagem e apresentação pública. O projeto conclui-se com a apresentação de um espetáculo público, cujos custos de montagem são da responsabilidade do autor.\n\nO autor compromete-se a ceder convites à direção regional com competência em matéria de cultura, em número a fixar por acordo entre ambas as partes.\n\nDramaturgia\n\nDesenvolvimento de projeto de criação dramatúrgica para teatro adulto ou teatro para infância e juventude, resultando em obra inédita para montagem e apresentação pública. O projeto conclui-se com a apresentação de um espetáculo público, cujos custos de montagem são da responsabilidade do autor.\n\nO autor compromete-se a ceder convites à direção regional com competência em matéria de cultura, em número a fixar por acordo entre ambas as partes.\n\nFotografia\n\nDesenvolvimento de projeto de criação fotográfica individual, nos segmentos que compõem a fotografia contemporânea, resultando em ação, obra ou processo inédito para apresentação ou exposição pública. O projeto conclui-se com a apresentação das obras em espaço de acesso público, acompanhada de catálogo explicativo.\n\nO autor compromete-se a ceder à direção regional com competência em matéria de cultura os suportes digitais das fotografias, que as poderá utilizar, sem lugar a quaisquer direitos, para fins que não resultem em benefícios financeiros para a direção regional com competência em matéria de cultura.\n\nMúsica\n\nComposição de três peças de música erudita e respetivas estreias em concertos públicos, cuja duração mínima deverá ser de 30 minutos (conjunto das três peças), escritas para um agrupamento de música de câmara até ao limite de sete instrumentos. As peças podem, ou não, ter formações diferentes entre si. O projeto conclui-se com a entrega, na sua totalidade ou separadamente (após cada uma das estreias), na direção regional com competência em matéria de cultura, do seguinte material:\n\na) Programas e/ou cartazes que comprovem a estreia de cada uma das três peças em três concertos públicos, em Portugal ou no estrangeiro, por um agrupamento (ou agrupamentos) de reconhecido mérito à escolha do compositor, não podendo ser estreada mais do que uma das três peças em cada concerto;\n\nb) Gravação (amadora) integral de cada uma das três peças, em formato áudio ou vídeo em suporte digital (CD), na ocasião da sua estreia, ou, por impedimento técnico, gravadas posteriormente (podendo nesse caso não ser em concerto);\n\nc) Indicação do nome do(s) agrupamento(s) que estreou (estrearam) as peças;\n\nd) Partitura e partes instrumentais das três peças (entregues na totalidade ou separadamente, com os restantes documentos referidos nas alíneas anteriores) em suporte digital (CD).\n\nDesenvolvimento de projeto de criação e composição para bandas filarmónicas e respetiva apresentação em concerto público, tendo em conta os efetivos instrumentais dos agrupamentos locais, resultando em obras inéditas e/ou arranjos instrumentais específicos para a renovação de repertório, destinado à apresentação pública. A duração mínima da(s) obra(s) deverá ser de 20 minutos (peça única) ou 40 minutos (conjunto de peças). O projeto conclui-se com a apresentação de partitura, partes instrumentais por naipes/solos e em suporte digital (CD), entregando um exemplar na direção regional com competência em matéria de cultura e uma gravação amadora integral das obras."
+  },
+  "125926376": {
+   "fragment_id": "125973462",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 1/2015/A\n\nRegulamenta o regime jurídico de apoios a conceder aos agentes que desenvolvam atividades culturais consideradas de relevante interesse para a Região, aprovado pelo Decreto Legislativo Regional n.º 29/2006/A, de 8 de agosto, alterado e republicado pelo Decreto Legislativo Regional n.º 9/2014/A, de 3 de julho.\n\nConsiderando que o Decreto Legislativo Regional n.º 29/2006/A, de 8 de agosto, criou o regime jurídico de apoios a conceder pela administração regional autónoma dos Açores aos agentes, individuais ou coletivos, regionais, nacionais ou estrangeiros, que desenvolvam atividades culturais consideradas de relevante interesse para a Região.\n\nConsiderando que aquele diploma foi alterado e republicado pelo Decreto Legislativo Regional n.º 9/2014/A, de 3 de julho.\n\nConsiderando que se torna necessário proceder à regulamentação e aprovação dos novos modelos de formulários, com vista à concessão dos apoios previstos.\n\nNos termos da alínea b) do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, e para efeitos do disposto no n.º 2 do artigo 6.º, no n.º 2 do artigo 8.º e no artigo 19.º do Decreto Legislativo Regional n.º 29/2006/A, de 8 de agosto, na redação introduzida pelo Decreto Legislativo Regional n.º 9/2014/A, de 3 de julho, o Governo Regional decreta o seguinte:"
+  },
+  "125926468": {
+   "fragment_id": "125973469",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoios para edição de obras culturais",
+   "in_force_from": "2019-11-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2019/A - Diário da República n.º 215/2019, Série I de 2019-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2019-125902660), em vigor a partir de 2019-11-09"
+   ],
+   "markdown": "###### Artigo 5.º — Apoios para edição de obras culturais\n\n1 - Sem prejuízo do disposto no n.º 2 do artigo 12.º do RJAAC, podem candidatar-se aos apoios a custos de edição previstos na alínea d) do artigo 2.º do RJAAC:\n\na) As empresas editoras regionais e nacionais e com atividade editorial regular há, pelo menos, dois anos, que nos últimos dois anos tenham editado e promovido autores açorianos ou a Região Autónoma dos Açores;\n\nb) Outras pessoas coletivas de direito privado que tenham a sua sede e exerçam atividade editorial regular há, pelo menos, dois anos na Região, e que tenham editado nos últimos dois anos mais de 60 % do seu projeto editorial sem apoios públicos.\n\n2 - Os apoios aos custos de edição de livros dependem da verificação dos seguintes requisitos:\n\na) Ter uma tiragem mínima de:\n\ni) Trezentos exemplares, quando se trate da primeira obra editada pelo autor;\n\nii) Quinhentos exemplares, quando se trate de autores já editados, e ser primeiras edições, ou reedições de títulos, cuja última edição tenha mais de cinco anos.\n\nb) Não constituir reimpressão;\n\nc) Não constituir anuário, publicação periódica, separata ou número monográfico desta, nem publicação na área da investigação.\n\n3 - Os apoios aos custos de edição de CD's e DVD's dependem da verificação dos seguintes requisitos:\n\na) Ter uma tiragem mínima de:\n\ni) Trezentos exemplares, quando se trate da primeira obra editada pelo autor ou grupo;\n\nii) Quinhentos exemplares quando se trate de autor ou grupo já editados.\n\nb) Ser primeiras edições ou reedições de títulos cuja última edição tenha mais de cinco anos.\n\n4 - (Revogado).\n\n5 - São excluídas as candidaturas cujas edições de obras culturais:\n\na) Digam respeito a obras que já tenham sido publicadas à data da entrega do processo de candidatura;\n\nb) Se refiram a obras a publicar antes do final da conclusão do processo de candidatura e respetiva contratualização, relativo ao ano a que concorrem;\n\nc) Apresentem edições de autores que estão no domínio público, que não estejam incluídos no aviso de abertura, publicitado anualmente, na sequência do despacho do membro do Governo Regional com competência em matéria de cultura, até ao dia 31 de janeiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2019/A - Diário da República n.º 215/2019, Série I de 2019-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2019-125902660), em vigor a partir de 2019-11-09"
+  },
+  "125926469": {
+   "fragment_id": "125998776",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão de apreciação",
+   "in_force_from": "2019-11-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2019/A - Diário da República n.º 215/2019, Série I de 2019-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2019-125902660), em vigor a partir de 2019-11-09"
+   ],
+   "markdown": "###### Artigo 10.º — Comissão de apreciação\n\n1 - Para efeitos do disposto no n.º 2 do artigo 13.º do RJAAC, as comissões de apreciação são compostas por três elementos externos à direção regional com competência em matéria de cultura e por um elemento desta, sem direito a voto e que desempenha as funções de relator.\n\n2 - Os elementos que constituem uma comissão podem integrar comissões de outros domínios, desde que o seu mérito seja também reconhecido nessas áreas.\n\n3 - Os membros das comissões de apreciação não são remunerados.\n\n4 - As despesas inerentes a ajudas de custo e deslocações dos membros das comissões são asseguradas pelos respetivos serviços de origem no caso de trabalhadores da administração regional, ou pelo departamento do Governo Regional competente em matéria de cultura no caso de indivíduos não vinculados à administração regional, através de verbas afetas à ação que suporta os apoios a atividades culturais.\n\n5 - A direção regional com competência em matéria de cultura assegura o apoio administrativo necessário às comissões de apreciação.\n\n6 - As comissões de apreciação podem recorrer a técnicos para a emissão de pareceres quando se trate de matérias em áreas especializadas ou específicas.\n\n7 - No prazo de trinta dias a contar do termo do prazo de apresentação de candidaturas, as comissões de apreciação deliberam sobre as candidaturas, lavrando uma ata fundamentada que deve conter as seguintes menções:\n\na) A avaliação de cada candidatura;\n\nb) Os totais da pontuação de cada candidatura, obtidos em cada critério e respetivos fatores de majoração, ordenados de forma decrescente, a partir da pontuação mais elevada.\n\n8 - A ata da apreciação das candidaturas, por cada comissão de apreciação, e a proposta de montantes a atribuir a cada entidade beneficiária, são submetidas a homologação do membro do Governo Regional com competência em matéria de cultura.\n\n9 - Sem prejuízo do disposto no n.º 7 do artigo 14.º do RJAAC, a concessão dos apoios é publicitada no Portal do Governo Regional dos Açores e no Portal Cultura Açores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2019/A - Diário da República n.º 215/2019, Série I de 2019-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2019-125902660), em vigor a partir de 2019-11-09"
+  },
+  "125926412": {
+   "fragment_id": "125998798",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 7 de novembro de 2014.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 9 de janeiro de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  },
+  "901381301": {
+   "fragment_id": "125973463",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381302": {
+   "fragment_id": "125973464",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma regulamenta o regime jurídico de apoios a conceder pela administração regional autónoma dos Açores, através do departamento do Governo Regional com competência em matéria de cultura, aos agentes, individuais ou coletivos, regionais, nacionais ou estrangeiros, que desenvolvam atividades culturais consideradas de relevante interesse para a Região, aprovado pelo Decreto Legislativo Regional n.º 29/2006/A, de 8 de agosto, alterado e republicado pelo Decreto Legislativo Regional n.º 9/2014/A, de 3 de julho, adiante designado de RJAAC.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381303": {
+   "fragment_id": "125973465",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O regime previsto no Capítulo II do presente diploma aplica-se à comparticipação dos encargos das alíneas a), c) e d) do artigo 2.º do RJAAC, através das modalidades de apoio previstas nas alíneas a) a d) do artigo 3.º do mesmo diploma.\n\n2 - O regime previsto no Capítulo III do presente diploma aplica-se à atribuição de bolsas de estudo, formação e criação previstas no artigo 8.º do RJAAC, através das modalidades de apoio previstas na alínea e) do artigo 3.º do mesmo diploma.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381304": {
+   "fragment_id": "125973466",
+   "type": 1,
+   "heading": "Capítulo II — Apoios",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "### Capítulo II — Apoios\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381305": {
+   "fragment_id": "125973467",
+   "type": 11,
+   "heading": "Artigo 3.º — Apoios para projetos culturais",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 3.º — Apoios para projetos culturais\n\n1 - Os projetos abrangidos pelo disposto na alínea a) do artigo 2.º do RJAAC que incluam atividades de várias áreas artísticas são candidatados à área predominante.\n\n2 - Os projetos a que se refere o número anterior relativamente aos quais não seja possível determinar a área predominante são candidatados à área artística \"programas interdisciplinares\".\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381306": {
+   "fragment_id": "125973468",
+   "type": 11,
+   "heading": "Artigo 4.º — Apoios para aquisição, manutenção e reparação de instrumentos musicais e outros",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 4.º — Apoios para aquisição, manutenção e reparação de instrumentos musicais e outros\n\n1 - Os apoios com os encargos previstos na alínea c) do artigo 2.º do RJAAC, desde que exclusivamente afetos à atividade do requerente, destinam-se a:\n\na) Aquisição, manutenção e reparação de instrumentos musicais e material consumível;\n\nb) Aquisição de fardamento;\n\nc) Aquisição e recuperação de trajes;\n\nd) Aquisição de repertório.\n\n2 - Para efeitos do disposto na alínea a) do número anterior entende-se que:\n\na) A aquisição de instrumentos inclui a aquisição dos respetivos estojos;\n\nb) O material consumível inclui as palhetas, as cordas, os arcos, os bocais, as boquilhas, as surdinas e os lubrificantes considerados essenciais.\n\n3 - A candidatura a apoios para aquisição, manutenção e reparação de instrumentos musicais e outros não prejudica a candidatura por parte das entidades beneficiárias a quaisquer outros apoios ou incentivos públicos, nomeadamente na área da cultura.\n\n4 - As sociedades recreativas e filarmónicas que tenham beneficiado de apoios ao abrigo do Programa Regional de Apoio às Sociedades Recreativas e Filarmónicas da Região Autónoma dos Açores, criado pelo Decreto Legislativo Regional n.º 3/2014/A, de 14 de fevereiro, estão inibidas de, para o mesmo efeito, apresentar candidatura.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381307": {
+   "fragment_id": "125973469",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoios para edição de obras culturais",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2019/A - Diário da República n.º 215/2019, Série I de 2019-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2019-125902660), em vigor a partir de 2019-11-09"
+   ],
+   "markdown": "###### Artigo 5.º — Apoios para edição de obras culturais\n\n1 - Sem prejuízo do disposto no n.º 2 do artigo 12.º do RJAAC, podem candidatar-se aos apoios a custos de edição previstos na alínea d) do artigo 2.º do RJAAC:\n\na) As empresas editoras regionais e nacionais e com atividade editorial regular há, pelo menos, dois anos, que nos últimos dois anos tenham editado e promovido autores açorianos ou a Região Autónoma dos Açores;\n\nb) Outras pessoas coletivas de direito privado que tenham a sua sede e exerçam atividade editorial regular há, pelo menos, dois anos na Região, e que tenham editado nos últimos dois anos mais de 60 % do seu projeto editorial sem apoios públicos.\n\n2 - Os apoios aos custos de edição de livros dependem da verificação dos seguintes requisitos:\n\na) Ter uma tiragem mínima de:\n\ni) Trezentos exemplares, quando se trate da primeira obra editada pelo autor;\n\nii) Quinhentos exemplares, quando se trate de autores já editados, e ser primeiras edições, ou reedições de títulos, cuja última edição tenha mais de cinco anos.\n\nb) Não constituir reimpressão;\n\nc) Não constituir anuário, publicação periódica, separata ou número monográfico desta, nem publicação na área da investigação.\n\n3 - Os apoios aos custos de edição de CD's e DVD's dependem da verificação dos seguintes requisitos:\n\na) Ter uma tiragem mínima de:\n\ni) Trezentos exemplares, quando se trate da primeira obra editada pelo autor ou grupo;\n\nii) Quinhentos exemplares quando se trate de autor ou grupo já editados.\n\nb) Ser primeiras edições ou reedições de títulos cuja última edição tenha mais de cinco anos.\n\n4 - (Revogado).\n\n5 - São excluídas as candidaturas cujas edições de obras culturais:\n\na) Digam respeito a obras que já tenham sido publicadas à data da entrega do processo de candidatura;\n\nb) Se refiram a obras a publicar antes do final da conclusão do processo de candidatura e respetiva contratualização, relativo ao ano a que concorrem;\n\nc) Apresentem edições de autores que estão no domínio público, que não estejam incluídos no aviso de abertura, publicitado anualmente, na sequência do despacho do membro do Governo Regional com competência em matéria de cultura, até ao dia 31 de janeiro.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2019/A - Diário da República n.º 215/2019, Série I de 2019-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2019-125902660), em vigor a partir de 2019-11-09"
+  },
+  "901381308": {
+   "fragment_id": "125973470",
+   "type": 1,
+   "heading": "Capítulo III — Contratos de cooperação técnica e financeira, contratos de financiamento, protocolos e subsídios",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "### Capítulo III — Contratos de cooperação técnica e financeira, contratos de financiamento, protocolos e subsídios\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381309": {
+   "fragment_id": "125973471",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 6.º — Forma\n\n1 - Os apoios que revistam as modalidades previstas nas alíneas a) a c) do artigo 3.º do RJAAC são formalizados, conforme os casos, através de contratos ou protocolos reduzidos a escrito, outorgado pelos beneficiários e pelo membro do Governo Regional competente em matéria de cultura, podendo delegar poderes para o efeito no diretor regional com competência em matéria de cultura.\n\n2 - Os apoios que revistam a modalidade prevista na alínea d) do artigo 3.º do RJAAC são formalizados mediante despacho do membro do Governo Regional com competência em matéria de cultura, aplicando-se com as necessárias adaptações o disposto no artigo 7.º\n\n3 - Os contratos têm a duração correspondente à execução do projeto, programa ou atividade a desenvolver.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381310": {
+   "fragment_id": "125973472",
+   "type": 11,
+   "heading": "Artigo 7.º — Cláusulas",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 7.º — Cláusulas\n\nPara efeitos do disposto no n.º 2 do artigo 6.º do RJAAC, faz parte integrante do contrato ou protocolo um clausulado que deve conter, para além da identificação das partes, da referência ao Decreto Legislativo Regional n.º 29/2006/A, de 8 de agosto, alterado e republicado pelo Decreto Legislativo Regional n.º 9/2014/A, de 3 de julho, e ao presente Regulamento, os seguintes elementos:\n\na) Descrição pormenorizada dos projetos ou atividades a desenvolver;\n\nb) Período de vigência;\n\nc) Quantificação do investimento a efetuar pelas partes, ou terceiros, e respetivo faseamento;\n\nd) Instalações, equipamentos, meios humanos, técnicos e financeiros a disponibilizar pelas partes ou por terceiros;\n\ne) Datas de início e termo dos projetos, atividades e execução das obras;\n\nf) Eventuais contrapartidas a prestar pelas entidades apoiadas;\n\ng) Direitos e obrigações das entidades contratantes;\n\nh) Despesas elegíveis;\n\ni) Estrutura de acompanhamento e controlo da execução do contrato;\n\nj) Penalizações face a situações de incumprimento, por qualquer das entidades contratantes;\n\nk) Outras cláusulas que se revelem necessárias para salvaguardar interesses específicos relacionados com o objeto concreto dos contratos, com a qualidade do particular ou com a participação de terceiros.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381311": {
+   "fragment_id": "125973473",
+   "type": 1,
+   "heading": "Capítulo IV — Concessão dos apoios",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "### Capítulo IV — Concessão dos apoios\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381312": {
+   "fragment_id": "125973474",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de apoio",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 8.º — Pedido de apoio\n\n1 - Para efeitos do disposto no artigo 9.º do RJAAC encontra-se disponível no Portal do Governo Regional dos Açores o formulário de candidatura, cujo modelo consta do Anexo I ao presente diploma e que dele faz parte integrante.\n\n2 - A data limite para entrega de candidaturas é fixada por despacho do membro do Governo Regional com competência em matéria de cultura, até ao dia 31 de janeiro.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381313": {
+   "fragment_id": "125998775",
+   "type": 11,
+   "heading": "Artigo 9.º — Formulário",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 9.º — Formulário\n\nPara além dos elementos referidos no n.º 3 do artigo 9.º do RJAAC, e ao abrigo do disposto no n.º 4 do mesmo artigo, a direção regional com competência em matéria de cultura pode solicitar aos requerentes, entre outros e conforme os encargos em causa, os seguintes elementos:\n\na) Meios necessários;\n\nb) Meios disponibilizados pelo interessado ou por terceiros;\n\nc) Meios pretendidos da administração regional;\n\nd) Datas de início e termo dos projetos, atividades ou execução das obras;\n\ne) Descrição pormenorizada do objeto do investimento, incluindo a utilização prevista e o número de pessoas que dele beneficiarão;\n\nf) Declaração de que não se encontram em incumprimento relativamente a apoios concedidos ao abrigo de outros sistemas de apoio financeiro público;\n\ng) Fatura pró-forma ou orçamento carimbado e validado pelo fornecedor, comprovativos do valor dos instrumentos e acessórios que o agente pretende adquirir, os quais devem, cumulativamente, indicar o nome, contactos permanentes, morada e número de identificação fiscal da empresa que os emitiu e indicar marcas, materiais e quantidade das peças a adquirir;\n\nh) Um exemplar integral da obra a publicar, em formato digital e em ficheiro não editável e um em papel, para livros;\n\ni) Sinopse do texto de cada obra apresentada, no máximo de duas folhas tamanho A4;\n\nj) Apresentação em suporte adequado e com indicação do título, tratando-se de outro tipo de edição, nomeadamente CD, DVD e CD-ROM;\n\nk) Certidão do registo comercial da entidade candidata;\n\nl) Cópia do contrato de cedência de direitos de autor;\n\nm) Cópia do comprovativo do pedido à Sociedade Portuguesa de Autores de licenciamento fonográfico ou reprodução mecânica, no caso da edição em CD e DVD;\n\nn) Cópia do comprovativo do pedido de registo e classificação de videograma da Inspeção Regional das Atividades Culturais, no caso da edição em DVD;\n\no) Catálogo atualizado da editora ou outras pessoas coletivas de direito privado;\n\np) Plano de divulgação e promoção das obras a editar;\n\nq) Custos de edição, distribuição, divulgação e promoção das obras a editar;\n\nr) Projeção do preço de venda ao público das obras a editar;\n\ns) No caso de obras de autores do domínio público sujeitas a direitos conexos, o contrato de cedência de direitos correspondentes.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381314": {
+   "fragment_id": "125998776",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão de apreciação",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2019/A - Diário da República n.º 215/2019, Série I de 2019-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2019-125902660), em vigor a partir de 2019-11-09"
+   ],
+   "markdown": "###### Artigo 10.º — Comissão de apreciação\n\n1 - Para efeitos do disposto no n.º 2 do artigo 13.º do RJAAC, as comissões de apreciação são compostas por três elementos externos à direção regional com competência em matéria de cultura e por um elemento desta, sem direito a voto e que desempenha as funções de relator.\n\n2 - Os elementos que constituem uma comissão podem integrar comissões de outros domínios, desde que o seu mérito seja também reconhecido nessas áreas.\n\n3 - Os membros das comissões de apreciação não são remunerados.\n\n4 - As despesas inerentes a ajudas de custo e deslocações dos membros das comissões são asseguradas pelos respetivos serviços de origem no caso de trabalhadores da administração regional, ou pelo departamento do Governo Regional competente em matéria de cultura no caso de indivíduos não vinculados à administração regional, através de verbas afetas à ação que suporta os apoios a atividades culturais.\n\n5 - A direção regional com competência em matéria de cultura assegura o apoio administrativo necessário às comissões de apreciação.\n\n6 - As comissões de apreciação podem recorrer a técnicos para a emissão de pareceres quando se trate de matérias em áreas especializadas ou específicas.\n\n7 - No prazo de trinta dias a contar do termo do prazo de apresentação de candidaturas, as comissões de apreciação deliberam sobre as candidaturas, lavrando uma ata fundamentada que deve conter as seguintes menções:\n\na) A avaliação de cada candidatura;\n\nb) Os totais da pontuação de cada candidatura, obtidos em cada critério e respetivos fatores de majoração, ordenados de forma decrescente, a partir da pontuação mais elevada.\n\n8 - A ata da apreciação das candidaturas, por cada comissão de apreciação, e a proposta de montantes a atribuir a cada entidade beneficiária, são submetidas a homologação do membro do Governo Regional com competência em matéria de cultura.\n\n9 - Sem prejuízo do disposto no n.º 7 do artigo 14.º do RJAAC, a concessão dos apoios é publicitada no Portal do Governo Regional dos Açores e no Portal Cultura Açores.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 10/2019/A - Diário da República n.º 215/2019, Série I de 2019-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2019-125902660), em vigor a partir de 2019-11-09"
+  },
+  "901381315": {
+   "fragment_id": "125998777",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de apreciação",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 11.º — Critérios de apreciação\n\n1 - Os critérios e subcritérios são pontuados por cada um dos membros da comissão, sendo a pontuação mais elevada correspondente à maior adequação da candidatura ao critério em análise.\n\n2 - A pontuação de cada critério e subcritério é o resultado da média aritmética correspondente à avaliação atribuída por cada membro da comissão de apreciação.\n\n3 - A classificação total obtida pela candidatura corresponde à soma aritmética da aplicação dos critérios e subcritérios de apreciação e dos fatores de majoração.\n\n4 - Os fatores de majoração serão definidos no aviso de abertura.\n\n5 - São critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea a) do artigo 2.º do RJAAC os constantes do Anexo II ao presente diploma e que dele faz parte integrante.\n\n6 - São critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea c) do artigo 2.º do RJAAC os constantes do Anexo III ao presente diploma e que dele faz parte integrante.\n\n7 - São critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea d) do artigo 2.º do RJAAC os constantes do Anexo IV ao presente diploma e que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381316": {
+   "fragment_id": "125998778",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações dos beneficiários",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 12.º — Obrigações dos beneficiários\n\n1 - As entidades beneficiárias cujas atividades sejam apoiadas no âmbito do presente diploma devem sempre mencionar, em todo o material promocional, pelos meios adequados ao tipo de atividades, o apoio concedido pelo Governo Regional, nos termos a definir no texto do acordo estabelecido.\n\n2 - No caso dos apoios com os encargos previstos na alínea d) do artigo 2.º do RJAAC a editora ou outras pessoas coletivas de direito privado devem enviar à direção regional com competência em matéria de cultura cinquenta exemplares de cada uma das obras editadas, cujos destinatários serão, preferencialmente, as Bibliotecas Públicas e Arquivos Regionais e a Rede Regional de bibliotecas escolares.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381317": {
+   "fragment_id": "125998779",
+   "type": 11,
+   "heading": "Artigo 13.º — Processamento da comparticipação financeira",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 13.º — Processamento da comparticipação financeira\n\n1 - O processamento da comparticipação financeira dos apoios culturais cujos montantes sejam iguais ou superiores a (euro) 5.000,00 é efetuado da seguinte forma:\n\na) 60 % do valor global, após a assinatura do contrato e receção do mesmo na direção regional com competência em matéria de cultura;\n\nb) Os restantes 40 %, trinta dias após a conclusão do projeto e apresentação do relatório técnico e financeiro com cópia das faturas e recibos das despesas realizadas.\n\n2 - O processamento da comparticipação financeira dos apoios a atividades culturais cujos montantes sejam inferiores a (euro) 5.000,00 será processado numa única prestação, após a assinatura do contrato e receção do mesmo na direção regional com competência em matéria de cultura.\n\n3 - Nos casos previstos no número anterior as entidades beneficiárias devem remeter à direção regional com competência em matéria de cultura, trinta dias após a conclusão do projeto, o respetivo relatório técnico e financeiro com cópia das faturas e recibos das despesas realizadas.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381318": {
+   "fragment_id": "125998780",
+   "type": 1,
+   "heading": "Capítulo V — Bolsas de estudo, de formação e de criação",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "### Capítulo V — Bolsas de estudo, de formação e de criação\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381319": {
+   "fragment_id": "125998781",
+   "type": 8,
+   "heading": "Secção I — Bolsas de estudo e de formação",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "#### Secção I — Bolsas de estudo e de formação\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381320": {
+   "fragment_id": "125998782",
+   "type": 11,
+   "heading": "Artigo 14.º — Número de bolsas de estudo e de formação e data para entrega de candidaturas",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 14.º — Número de bolsas de estudo e de formação e data para entrega de candidaturas\n\nSão fixados, mediante despacho do membro do Governo Regional com competência em matéria de cultura, a emitir até 31 de janeiro de cada ano:\n\na) As bolsas de estudo e de formação nas seguintes áreas temáticas:\n\ni) Artes Plásticas;\n\nii) Audiovisual e Multimédia;\n\niii) Criação Literária;\n\niv) Dança;\n\nv) Dramaturgia;\n\nvi) Fotografia;\n\nvii) Música.\n\nb) O número de bolsas de estudo e de formação a atribuir em cada área;\n\nc) A data limite para entrega das candidaturas.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381321": {
+   "fragment_id": "125998783",
+   "type": 11,
+   "heading": "Artigo 15.º — Candidaturas",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 15.º — Candidaturas\n\n1 - A candidatura a bolsas de estudo e formação é formalizada, no prazo que estiver estabelecido no despacho mencionado no n.º 1 do artigo anterior, através de requerimento dirigido ao membro do Governo Regional com competência em matéria de cultura, conforme modelo constante do Anexo V ao presente diploma e que dele faz parte integrante.\n\n2 - Apenas podem ser candidatos a bolsas de estudo e formação os indivíduos com residência fiscal na Região.\n\n3 - O requerimento deve ser acompanhado de certificado de inscrição no curso e de declaração de compromisso de prestação de serviço, conforme modelo constante do Anexo VI ao presente diploma e que dele faz parte integrante.\n\n4 - Quando o número de candidatos a bolsa de estudo e de formação, numa determinada área, for superior ao número de bolsas oferecido, os candidatos são ordenados de acordo com o critério do menor tempo em falta para conclusão do curso.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381322": {
+   "fragment_id": "125998784",
+   "type": 11,
+   "heading": "Artigo 16.º — Atribuição das bolsas de estudo e de formação",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 16.º — Atribuição das bolsas de estudo e de formação\n\n1 - As bolsas de estudo e de formação atribuídas entendem-se como abrangendo o tempo remanescente até à conclusão do curso.\n\n2 - As bolsas de estudo e de formação compreendem:\n\na) A atribuição de um subsídio mensal equivalente a 65 % ou 40 % da remuneração mínima mensal mais elevada garantida por lei, pago por cada mês de frequência do curso, consoante o aluno frequente o curso em instituição localizada fora ou dentro da sua ilha de residência;\n\nb) A atribuição, por ano, de duas passagens de ida e volta, pela tarifa e modalidade mais económicas, entre o local de residência do aluno e a localidade onde estude, mediante a apresentação dos respetivos recibos, bilhetes de viagem e comprovativos de embarque.\n\n3 - Para efeitos de atribuição de bolsa de estudo e de formação, as interrupções letivas do Natal, Carnaval e Páscoa fazem parte integrante do ano formativo.\n\n4 - As bolsas de estudo e de formação são pagas em duas prestações em cada ano, sendo o processamento das quantias efetuado a partir da data do despacho do membro do Governo Regional com competência em matéria de cultura, nos seguintes termos:\n\na) O processamento efetua-se no próprio mês se o despacho for da primeira quinzena;\n\nb) O processamento efetua-se no mês seguinte se o despacho for da segunda quinzena.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381323": {
+   "fragment_id": "125998785",
+   "type": 11,
+   "heading": "Artigo 17.º — Contrato",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 17.º — Contrato\n\nA concessão da bolsa de estudo e de formação deve ser formalizada através da outorga de contrato, aplicando-se com as devidas adaptações o disposto nos artigos 6.º e 7.º\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381324": {
+   "fragment_id": "125998786",
+   "type": 11,
+   "heading": "Artigo 18.º — Direitos e obrigações dos bolseiros de estudo e de formação",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 18.º — Direitos e obrigações dos bolseiros de estudo e de formação\n\n1 - Os alunos beneficiários da bolsa de estudo e de formação podem prescindir, a qualquer momento, do estatuto de bolseiro, através de requerimento dirigido ao membro do Governo Regional com competência em matéria de cultura, desde que reembolsem a Região, na totalidade dos valores entretanto recebidos a título de bolsa, incluindo as despesas com passagens, nos termos do disposto no n.º 3 do artigo 17.º do RJAAC.\n\n2 - A reprovação por motivo de doença clinicamente comprovada ou outra razão justificada não determina o reembolso se os alunos bolseiros repetirem e concluírem com aproveitamento a parte do curso que reprovaram, não podendo, contudo, o número de anos reprovados ao longo do curso ser superior a dois, sob pena de lhes ser aplicada a obrigação de devolução estabelecida no número anterior.\n\n3 - No início de cada ano letivo os alunos bolseiros abrangidos pelo disposto no número anterior devem dar conhecimento da repetição e razões que a determinaram, à direção regional com competência em matéria de cultura.\n\n4 - No início de cada ano e até à sua conclusão, os bolseiros devem apresentar o certificado de inscrição no curso.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381325": {
+   "fragment_id": "125998787",
+   "type": 8,
+   "heading": "Secção II — Bolsas de criação artística",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "#### Secção II — Bolsas de criação artística\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381326": {
+   "fragment_id": "125998788",
+   "type": 11,
+   "heading": "Artigo 19.º — Categorias e conteúdos",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 19.º — Categorias e conteúdos\n\n1 - Podem ser concedidas bolsas de criação artísticas para projetos nas categorias previstas na alínea a) do artigo 14.º\n\n2 - Por despacho do membro do Governo Regional com competência em matéria de cultura, a emitir até 31 de janeiro de cada ano, é definido o número de bolsas de criação artística a conceder anualmente em cada categoria e a temática a abordar nos projetos em cada categoria.\n\n3 - As bolsas de criação artística são concedidas por um período de doze meses, a contar a partir da data de assinatura do contrato.\n\n4 - Para orientação dos interessados em participar da seleção prevista no presente diploma os respetivos campos temáticos para cada uma das categorias constam do Anexo VII ao presente diploma que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381327": {
+   "fragment_id": "125998789",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições de admissão",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 20.º — Condições de admissão\n\n1 - Os candidatos podem inscrever-se apenas num projeto, numa das categorias previstas no Anexo VII.\n\n2 - Não são aceites projetos elaborados em coautoria.\n\n3 - Caso os candidatos tenham um projeto a decorrer no âmbito do presente diploma ficam excluídos de poder apresentar nova candidatura enquanto o processo não estiver concluído.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381328": {
+   "fragment_id": "125998790",
+   "type": 11,
+   "heading": "Artigo 21.º — Candidaturas",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 21.º — Candidaturas\n\n1 - O período de candidaturas decorre durante o mês de agosto de cada ano e são analisadas pelas comissões de apreciação no decorrer do mês de setembro.\n\n2 - As candidaturas devem ser enviadas, por qualquer meio, para a direção regional com competência em matéria de cultura, indicando-se expressamente a menção 'Bolsa para criação artística' e a respetiva categoria.\n\n3 - Para efeitos do disposto no n.º 4 do artigo 9.º do RJAAC a direção regional com competência em matéria de cultura pode solicitar aos candidatos, entre outros, os seguintes elementos:\n\na) Ficha de candidatura devidamente preenchida e assinada;\n\nb) Três cópias encadernadas do currículo comprovado do candidato;\n\nc) Três cópias encadernadas do projeto, incluindo: objetivo justificativo da necessidade da bolsa de criação artística, memória descritiva e descrição detalhada do planeamento de execução e do produto final previsto, comprovativo de ter a situação tributária regularizada, além de outros materiais que o candidato julgue necessários para a avaliação.\n\n4 - No caso específico da categoria Fotografia, o candidato deve incluir no processo de candidatura um pequeno texto, com a descrição do conceito artístico justificativo da abordagem fotográfica pretendida e um CD com um portfólio contendo algumas imagens, ainda que não definitivas, do seu projeto, devendo as imagens ser apresentadas em «ficheiros jpg» de baixa resolução.\n\n5 - Ao inscrever-se, o candidato assume a inexistência de plágio no projeto que se propõe desenvolver, assumindo integralmente a sua autoria e incorrendo na responsabilidade civil e criminal que daí possa advir.\n\n6 - Sempre que as obras a expor publicamente incluam pessoas ou outras produções artísticas deve o autor assegurar-se das autorizações referentes a direitos de imagem ou de autor.\n\n7 - O conjunto de documentos constantes do processo de candidatura não será devolvido.\n\n8 - Sem prejuízo do disposto no n.º 7 do artigo 14.º do RJAAC, a relação oficial dos candidatos admitidos, por categoria, está sujeita a publicação e divulgação no Portal do Governo Regional dos Açores e no Portal Cultura Açores.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381329": {
+   "fragment_id": "125998791",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 22.º — Avaliação\n\n1 - Os projetos e os respetivos candidatos são avaliados segundo os critérios previstos no presente diploma por comissões de apreciação, nos termos do disposto no artigo 10.º\n\n2 - A pontuação dos projetos e respetivos candidatos corresponde à média das notas finais atribuídas pelos três membros de cada comissão de apreciação com direito a voto.\n\n3 - Os projetos e os candidatos a bolsa de criação artística são avaliados de acordo com os seguintes critérios, com total máximo de 100 pontos:\n\na) Currículo do candidato (0 a 15 pontos);\n\nb) Justificação da necessidade da bolsa (0 a 10 pontos);\n\nc) Qualidade, originalidade e relevância do projeto para a Região (0 a 30 pontos);\n\nd) Contribuição do projeto para o desenvolvimento artístico e estético na respetiva categoria de inscrição (0 a 30 pontos);\n\ne) Consistência, prazo para a execução do projeto e metodologia no planeamento de execução do projeto (0 a 15 pontos).\n\n4 - O desempate entre candidatos numa mesma categoria é efetuado através da aplicação da seguinte ordem de critérios e respetiva pontuação, correspondente à média das notas dos membros da comissão de apreciação:\n\na) Contribuição do projeto para o desenvolvimento artístico e estético na respetiva categoria de inscrição;\n\nb) Qualidade, originalidade e relevância do projeto para a Região;\n\nc) Currículo do candidato;\n\nd) Justificação da necessidade da bolsa.\n\n5 - A comissão de apreciação pode decidir não atribuir as bolsas de criação artística em qualquer das categorias, se entender não estar garantida a qualidade dos projetos apresentados.\n\n6 - As deliberações da comissão de apreciação, com a classificação de todos os candidatos em cada categoria, são apresentadas em ata e submetidas a deliberação do membro do Governo Regional com competência em matéria de cultura, para efeitos do disposto n.º 1 do artigo 14.º do RJAAC.\n\n7 - Sem prejuízo do disposto no n.º 7 do artigo 14.º do RJAAC, a concessão dos apoios é publicitada no Portal do Governo Regional dos Açores e no Portal Cultura Açores.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381330": {
+   "fragment_id": "125998792",
+   "type": 11,
+   "heading": "Artigo 23.º — Concessão das bolsas de criação artística",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 23.º — Concessão das bolsas de criação artística\n\n1 - O pagamento das bolsas de criação artística é efetuado da seguinte forma:\n\na) 75 % pagos na assinatura do contrato de financiamento;\n\nb) 25 % pagos mediante a entrega do relatório final, a remeter à direção regional com competência em matéria de cultura, trinta dias após a conclusão do projeto.\n\n2 - A atribuição da bolsa de criação artística caduca nas seguintes situações:\n\na) Decorridos sessenta dias após a comunicação da atribuição sem que tenha sido devolvido o contrato assinado;\n\nb) Incumprimento pelo bolseiro de qualquer uma das obrigações estabelecidas no presente Regulamento e no contrato assinado;\n\nc) Não correspondência entre as atividades executadas e as atividades descritas e aprovadas aquando da candidatura;\n\nd) Decorridos trinta dias após a data prevista para a conclusão da atividade sem que tenha sido entregue o relatório final.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381331": {
+   "fragment_id": "125998793",
+   "type": 11,
+   "heading": "Artigo 24.º — Obrigações dos bolseiros de criação artística",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 24.º — Obrigações dos bolseiros de criação artística\n\n1 - Os bolseiros de criação artística devem formalizar um contrato com a direção regional com competência em matéria de cultura, no qual devem constar, entre outros elementos, os direitos e obrigações das partes em decorrência do presente diploma, aplicando-se com as devidas adaptações o disposto no artigo 7.º\n\n2 - Nos casos aplicáveis, o contrato deve, igualmente, prever os termos em que os bolseiros retribuirão à Região o apoio concedido, seja em espécie, seja através de outras iniciativas de âmbito cultural.\n\n3 - Os bolseiros devem apresentar, no máximo de dez dias após a divulgação do resultado no Jornal Oficial, os seguintes documentos para a assinatura do contrato:\n\na) Cópia autenticada do documento de identidade;\n\nb) Cópia autenticada do cartão de contribuinte;\n\nc) Comprovativo de ter a situação tributária regularizada perante a instituição da previdência ou segurança social;\n\nd) Declaração comprovativa da situação tributária regularizada perante a Autoridade Tributária e Aduaneira;\n\ne) Comprovativo do número de identificação bancária.\n\n4 - São da responsabilidade dos bolseiros todos os contactos, custos e encargos para o desenvolvimento do projeto proposto.\n\n5 - Em toda a publicação, edição, montagem, exposição ou divulgação do produto resultante e dos resultados do projeto, os selecionados devem incluir a menção \"Projeto cofinanciado pelo Governo dos Açores\", devendo ainda ser dado conhecimento à direção regional com competência em matéria de cultura das datas concretas de todas as atividades a decorrer, resultantes do projeto apoiado no âmbito do presente Regulamento.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381332": {
+   "fragment_id": "125998794",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381333": {
+   "fragment_id": "125998795",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma transitória",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 25.º — Norma transitória\n\nO período de candidaturas para o ano de 2015 é fixado por despacho do membro do Governo Regional com competência em matéria de cultura, excecionalmente nos trinta dias seguintes à publicação do presente diploma.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381334": {
+   "fragment_id": "125998796",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma revogatória",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 26.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 83/2006, de 23 de novembro;\n\nb) A Portaria n.º 2/2008, de 3 de janeiro;\n\nc) A Portaria n.º 92/2011, de 24 de novembro.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381335": {
+   "fragment_id": "125998797",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381336": {
+   "fragment_id": "125998798",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 7 de novembro de 2014.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 9 de janeiro de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381337": {
+   "fragment_id": "125998799",
+   "type": 14,
+   "heading": "Anexo I — Formulário de candidatura",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "## Anexo I — Formulário de candidatura\n\nProjetos culturais com interesse relevante para a preservação, valorização, promoção e divulgação cultural da Região Autónoma dos Açores\n\n(a que se refere o artigo 8.º)\n\n(ver documento original)\n\nFormulário de candidatura\n\nAquisição de instrumentos musicais e respetivo material consumível, aquisição de fardamento, aquisição e recuperação de trajes e de reportório por coletividades destinados à realização de projetos culturais.\n\n(ver documento original)\n\nFormulário de candidatura\n\nEdição de obras Culturais\n\n(ver documento original)\n\nFormulário de candidatura\n\nBolsas para criação artística\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381338": {
+   "fragment_id": "125998800",
+   "type": 14,
+   "heading": "Anexo II — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea a) do artigo 2.º do RJAAC",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "## Anexo II — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea a) do artigo 2.º do RJAAC\n\n(a que se refere o n.º 5 do artigo 11.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381339": {
+   "fragment_id": "125998801",
+   "type": 14,
+   "heading": "Anexo III — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea c) do artigo 2.º do RJAAC",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "## Anexo III — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea c) do artigo 2.º do RJAAC\n\n(a que se refe o n.º 6 do artigo 11.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381340": {
+   "fragment_id": "125998802",
+   "type": 14,
+   "heading": "Anexo IV — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea d) do artigo 2.º do RJAAC",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "## Anexo IV — Critérios e subcritérios de apreciação das candidaturas a apoios com os encargos previstos na alínea d) do artigo 2.º do RJAAC\n\n(a que se refere o n.º 7 do artigo 11.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381341": {
+   "fragment_id": "125998803",
+   "type": 14,
+   "heading": "Anexo V — Modelo de requerimento para concessão de Bolsa de Estudo e Formação",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "## Anexo V — Modelo de requerimento para concessão de Bolsa de Estudo e Formação\n\n(a que se refere o n.º 1 do artigo 15.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381342": {
+   "fragment_id": "125998804",
+   "type": 14,
+   "heading": "Anexo VI — Modelo de declaração de compromisso de aceitação de emprego na Região Autónoma dos Açores",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "## Anexo VI — Modelo de declaração de compromisso de aceitação de emprego na Região Autónoma dos Açores\n\n(a que se refere o n.º 3 do artigo 15.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  },
+  "901381343": {
+   "fragment_id": "125998805",
+   "type": 14,
+   "heading": "Anexo VII — Campos temáticos para cada uma das categorias das bolsas de criação artística",
+   "in_force_from": "2024-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+   ],
+   "markdown": "## Anexo VII — Campos temáticos para cada uma das categorias das bolsas de criação artística\n\n(a que se refere o n.º 4 do artigo 19.º)\n\nArtes Plásticas\n\nDesenvolvimento de projeto de criação individual nos segmentos que compõem as Artes Plásticas, resultando em ações, obras ou processos inéditos para apresentação ou exposição pública. O projeto conclui-se na apresentação das obras em espaço de acesso público, acompanhada de catálogo explicativo.\n\nCaso o projeto seja constituído por um conjunto superior a duas peças, uma das peças reverterá para a direção regional com competência em matéria de cultura. As restantes peças serão propriedade do autor, que poderá comercializá-las.\n\nAudiovisual e Multimédia\n\nConceção e desenvolvimento de um projeto artístico audiovisual ou multimédia, resultando numa obra original para apresentação ou exibição pública.\n\nSão contempladas as seguintes áreas do audiovisual:\n\na) Ficção;\n\nb) Animação;\n\nc) Documentário.\n\nÉ da responsabilidade do artista a resolução legal dos direitos de autor e/ou de imagem.\n\nOs suportes admitidos são:\n\na) Película;\n\nb) Vídeo.\n\nO projeto deve ser entregue na direção regional com competência em matéria de cultura em suporte digital de utilização comum.\n\nNa área do multimédia, o projeto deve ser acompanhado de eventual documentação, em qualquer suporte, que o autor entenda dever assistir ao eventual processo de apresentação ou exibição pública das obras em causa, a que poderá adicionar, em qualquer suporte, informação que entenda necessária, ou útil, à plena compreensão no processo de avaliação do mérito do projeto/obra.\n\nCriação Literária\n\nDesenvolvimento de projeto de criação literária individual e inédito (poesia, ficção, ensaio, banda desenhada, dramaturgia), destinado a público juvenil ou a público adulto.\n\nNa modalidade de poesia, a obra pode ser um longo poema ou um conjunto de poemas.\n\nAs obras de ficção podem ser de um dos seguintes géneros: conto, novela ou romance.\n\nNa modalidade de ensaio dar-se-á preferência a textos que reflitam sobre a obra de escritores ou de outros criadores açorianos (nomeadamente artistas plásticos e músicos) ou sobre o papel dos Açores na Europa e no Mundo, seja a temática literária ou científica.\n\nNa modalidade de banda desenhada, o dossier de candidatura deve incluir uma prancha original que corresponda a um aspeto concreto da sinopse apresentada.\n\nO projeto conclui-se numa publicação, em edição de autor ou por editora comercial, com uma tiragem mínima de 500 exemplares.\n\nOs direitos de autor da obra literária pertencem ao bolseiro.\n\nO autor compromete-se a entregar quinze exemplares à direção regional com competência em matéria de cultura.\n\nDança\n\nDesenvolvimento de projeto de criação coreográfica para espetáculo em dança contemporânea, individual ou coletiva, resultando em obra inédita para montagem e apresentação pública. O projeto conclui-se com a apresentação de um espetáculo público, cujos custos de montagem são da responsabilidade do autor.\n\nO autor compromete-se a ceder convites à direção regional com competência em matéria de cultura, em número a fixar por acordo entre ambas as partes.\n\nDramaturgia\n\nDesenvolvimento de projeto de criação dramatúrgica para teatro adulto ou teatro para infância e juventude, resultando em obra inédita para montagem e apresentação pública. O projeto conclui-se com a apresentação de um espetáculo público, cujos custos de montagem são da responsabilidade do autor.\n\nO autor compromete-se a ceder convites à direção regional com competência em matéria de cultura, em número a fixar por acordo entre ambas as partes.\n\nFotografia\n\nDesenvolvimento de projeto de criação fotográfica individual, nos segmentos que compõem a fotografia contemporânea, resultando em ação, obra ou processo inédito para apresentação ou exposição pública. O projeto conclui-se com a apresentação das obras em espaço de acesso público, acompanhada de catálogo explicativo.\n\nO autor compromete-se a ceder à direção regional com competência em matéria de cultura os suportes digitais das fotografias, que as poderá utilizar, sem lugar a quaisquer direitos, para fins que não resultem em benefícios financeiros para a direção regional com competência em matéria de cultura.\n\nMúsica\n\nComposição de três peças de música erudita e respetivas estreias em concertos públicos, cuja duração mínima deverá ser de 30 minutos (conjunto das três peças), escritas para um agrupamento de música de câmara até ao limite de sete instrumentos. As peças podem, ou não, ter formações diferentes entre si. O projeto conclui-se com a entrega, na sua totalidade ou separadamente (após cada uma das estreias), na direção regional com competência em matéria de cultura, do seguinte material:\n\na) Programas e/ou cartazes que comprovem a estreia de cada uma das três peças em três concertos públicos, em Portugal ou no estrangeiro, por um agrupamento (ou agrupamentos) de reconhecido mérito à escolha do compositor, não podendo ser estreada mais do que uma das três peças em cada concerto;\n\nb) Gravação (amadora) integral de cada uma das três peças, em formato áudio ou vídeo em suporte digital (CD), na ocasião da sua estreia, ou, por impedimento técnico, gravadas posteriormente (podendo nesse caso não ser em concerto);\n\nc) Indicação do nome do(s) agrupamento(s) que estreou (estrearam) as peças;\n\nd) Partitura e partes instrumentais das três peças (entregues na totalidade ou separadamente, com os restantes documentos referidos nas alíneas anteriores) em suporte digital (CD).\n\nDesenvolvimento de projeto de criação e composição para bandas filarmónicas e respetiva apresentação em concerto público, tendo em conta os efetivos instrumentais dos agrupamentos locais, resultando em obras inéditas e/ou arranjos instrumentais específicos para a renovação de repertório, destinado à apresentação pública. A duração mínima da(s) obra(s) deverá ser de 20 minutos (peça única) ou 40 minutos (conjunto de peças). O projeto conclui-se com a apresentação de partitura, partes instrumentais por naipes/solos e em suporte digital (CD), entregando um exemplar na direção regional com competência em matéria de cultura e uma gravação amadora integral das obras.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 24/2024/A - Diário da República n.º 249/2024, Série I de 2024-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2024-901147129), em vigor a partir de 2024-12-25"
+  }
+ }
+}

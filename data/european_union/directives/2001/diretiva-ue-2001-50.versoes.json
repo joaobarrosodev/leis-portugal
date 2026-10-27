@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32001L0050:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02001L0050-20010801",
+ "dre_path": null,
+ "source_lastmod": "2001-08-01",
+ "versions": [
+  {
+   "date": "2001-07-12",
+   "future": false,
+   "celex": "32001L0050",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b390048423a29f86",
+    "8c36c83a00bb9ace",
+    "93f21923927d46fd",
+    "271594770ecf7591",
+    "5e7cab2212fb1f38",
+    "a970dbe7b096c12d"
+   ]
+  }
+ ],
+ "fragments": {
+  "b390048423a29f86": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2001/50/CE da Comissão, de 3 de Julho de 2001, que altera a Directiva 95/45/CE que estabelece os critérios de pureza específicos dos corantes que podem ser utilizados nos géneros alimentícios (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 190 de 12/07/2001 p. 0014 - 0017*\n\nDirectiva 2001/50/CE da Comissão\n\nde 3 de Julho de 2001\n\nque altera a Directiva 95/45/CE que estabelece os critérios de pureza específicos dos corantes que podem ser utilizados nos géneros alimentícios\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 89/107/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-Membros respeitantes aos aditivos que podem ser utilizados nos géneros destinados à alimentação humana(1), alterada pela Directiva 94/34/CE do Parlamento Europeu e do Conselho(2), e nomeadamente, o n.o 3, alínea a) do seu artigo 3.o,\n\nApós consulta do Comité Científico da Alimentação Humana,\n\nConsiderando o seguinte:\n\n(1) A Directiva 94/36/CE do Parlamento Europeu e do Conselho, de 30 de Junho de 1994, relativa aos corantes para utilização nos géneros alimentares(3), apresenta uma lista das substâncias que podem ser utilizadas como corantes nos géneros alimentícios.\n\n(2) A Directiva 95/45/CE da Comissão, de 26 de Julho de 1995, estabelece os critérios de pureza específicos dos corantes que podem ser utlizados nos géneros alimentícios(4), alterada pela Directiva 1999/75/CE(5), estabelece os critérios de pureza dos corantes mencionados na Directiva 94/36/CE.\n\n(3) É necessário, à luz dos progressos técnicos, alterar os critérios de pureza estabelecidos na Directiva 95/45/CE respeitantes aos carotenos mistos [E 160 a(i)] e ao beta-caroteno [E 160 a (ii)].\n\n(4) É necessário ter em conta as especificações e técnicas de análise dos corantes definidos no Codex Alimentarius elaboradas pelo Comité Misto FAO-OMS de peritos em aditivos alimentares, (JECFA).\n\n(5) É, consequentemente, necessário adaptar a Directiva 95/45/CE.\n\n(6) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente dos Géneros Alimentícios,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "8c36c83a00bb9ace": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNa parte B do anexo à Directiva 95/45/CE, o texto relativo aos carotenos mistos [E 160 a(i)] e ao beta-caroteno [E 160 a(ii)] é substituído pelo texto do anexo à presente directiva."
+  },
+  "93f21923927d46fd": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros porão em vigor as disposições legislativas, reglamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 30 de Junho de 2002. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-Membros."
+  },
+  "271594770ecf7591": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "5e7cab2212fb1f38": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 3 de Julho de 2001.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 40 de 11.2.1989, p. 27.\n\n(2) JO L 237 de 10.9.1994, p. 1.\n\n(3) JO L 237 de 10.9.1994, p. 13.\n\n(4) JO L 226 de 22.9.1995, p. 1.\n\n(5) JO L 206 de 5.8.1999, p. 19."
+  },
+  "a970dbe7b096c12d": {
+   "fragment_id": "ANEXO — \">POSIÇÃO NUMA TABELA>\"",
+   "type": "divisao",
+   "heading": "ANEXO — \">POSIÇÃO NUMA TABELA>\"",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — \">POSIÇÃO NUMA TABELA>\""
+  }
+ }
+}

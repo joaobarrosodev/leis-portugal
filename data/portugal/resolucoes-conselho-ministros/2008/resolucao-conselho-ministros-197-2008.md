@@ -1,0 +1,223 @@
+---
+schema_version: '1.0'
+id: pt:dre:444215:por
+title: Resolução do Conselho de Ministros n.º 197/2008
+short_title: null
+summary: Cria o Sistema de Controlo dos Actos Normativos (SCAN), aprovando medidas destinadas ao controlo automatizado e ao
+  acompanhamento das necessidades de emissão de actos normativos
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 197/2008
+official_date: null
+publication_date: '2008-12-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 251/2008, Série I de 2008-12-30
+  number: '251'
+  series: I
+  supplement: null
+  pages: 9167 - 9169
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/12/25100/0916709169.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/197/2008/12/30/p/dre/pt/html
+  oj: null
+  dre: '444215'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/197-2008-444215
+  internal: pt:dre:444215:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/197-2008-444215
+  metadata_url: https://data.dre.pt/eli/resolconsmin/197/2008/12/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/197-2008-444215
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:57:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7aa41bcd2ed6aae755f16e5192a62fb895170e60579c4ddd8782ff6e75e6a6c0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:57:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização Legislativa
+- Cejur
+- Definição de Competências
+- Diploma Legal
+- Direcção Geral dos Assuntos Europeus
+- Processo Legislativo
+- Programa Legislar Melhor
+- SCAN
+- Secretário de Estado da Presidência do Conselho de Ministros
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/63/2006/05/18/p/dre
+- type: cites
+  target: pt:dre:633530:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:57:28Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 197/2008
+
+O controlo da regulamentação atempada dos actos legislativos reveste-se hoje da maior relevância no contexto da melhoria da qualidade dos actos normativos, uma vez que a plena eficácia das normas produzidas pelo legislador está na maioria dos casos dependente da aprovação de actos regulamentares de execução.
+
+A centralidade desta matéria é já amplamente reconhecida pela ordem jurídica, sendo de referir, a título de exemplo, a consagração, em 2002, no artigo 73.º do Código de Processo nos Tribunais Administrativos de um meio processual específico do contencioso administrativo para remediar os casos em que a ausência de uma norma regulamentar de execução se afigura lesiva dos direitos e interesses legalmente protegidos dos particulares. Para além da potencial lesão da esfera jurídica dos cidadãos, a ausência de emissão atempada da regulamentação prescrita em actos legislativos pode também comprometer a execução das alterações legislativas e dos programas reformadores aprovados pela Assembleia da República ou pelo Governo, privando-os dos actos normativos complementares de execução.
+
+Para além das consequências decorrentes da falta de regulamentação de actos legislativos, também a ausência de atempada transposição de actos jurídicos da União Europeia para a ordem jurídica interna tem o potencial de diminuir a eficácia das normas aprovadas pelo legislador, obstando à coerência global da ordem jurídica comunitária e potenciando consequências para o Estado Português no plano de acções por incumprimento junto do Tribunal de Justiça das Comunidades Europeias, decorrente da falta de transposição de directivas ou decisões-quadro.
+
+Neste contexto, um dos eixos do Programa Legislar Melhor, aprovado pela [Resolução do Conselho de Ministros n.º 63/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2006-633530), de 18 de Maio, traduz-se precisamente em assegurar a maior eficácia das normas jurídicas, com destaque para os aspectos relacionados com a transposição de actos comunitários e com a regulamentação dos actos legislativos, cuja efectivação deverá ser assegurada com recurso a mecanismos automatizados de controlo.
+
+Nos n.os 6.1 e 6.2 do Programa Legislar Melhor, precisamente no âmbito do controlo da eficácia das normas jurídicas, determina-se a adopção de medidas de monitorização automatizada, com recurso a sistema electrónico, da actividade de regulamentação administrativa dos actos legislativos, de forma a controlar o cumprimento das imposições legais de regulamentação, bem como a monitorização da transposição atempada das directivas, num quadro de estreita articulação entre o Ministério dos Negócios Estrangeiros e a Presidência do Conselho de Ministros.
+
+Neste sentido depõe também o Regimento do Conselho de Ministros do XVII Governo Constitucional, alterado na sequência da aprovação do Programa Legislar Melhor, cujos artigos 39.º e 43.º determinam, por um lado, que o Governo assegura a adequada e tempestiva aprovação dos regulamentos administrativos da sua competência, devendo o Secretário de Estado da Presidência do Conselho de Ministros assegurar a criação e gestão de mecanismos automatizados de controlo dos prazos de regulamentação de actos legislativos e da notificação periódica dos respectivos prazos aos membros do Governo competentes em razão da matéria, e, por outro lado, que o Ministro de Estado e dos Negócios Estrangeiros deve, num prazo de oito dias contados da data de publicação de uma directiva ou de uma decisão-quadro no Jornal Oficial da União Europeia, informar os ministros competentes em razão da matéria e o Secretário de Estado da Presidência do Conselho de Ministros do prazo da transposição daquele acto normativo para a ordem jurídica interna, devendo este último membro do Governo promover a criação e a gestão de mecanismos automatizados de notificação periódica aos membros do Governo competentes em razão da matéria dos prazos de transposição.
+
+Assim sendo, recolhendo a experiência dos últimos dois anos de gestão dos sistemas de controlo automatizado de aprovação de actos regulamentares e legislativos, cumpre dar um passo em frente e integrar num único sistema centralizado de controlo os mecanismos já em execução na Presidência do Conselho de Ministros, no Ministério dos Negócios Estrangeiros e nos demais ministérios sectoriais, criando o Sistema de Controlo dos Actos Normativos (SCAN) e cometendo a sua coordenação ao Centro Jurídico, serviço central da Presidência do Conselho de Ministros, no quadro das suas competências em matéria de acompanhamento do Programa Legislar Melhor e em articulação com um ponto focal em cada ministério sectorial.
+
+Neste contexto, afigura-se ainda de grande utilidade a introdução de uma terceira valia no sistema de controlo, assente na monitorização da utilização pelo Governo das autorizações legislativas concedidas pela Assembleia da República, controlando os prazos conferidos para o efeito.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar, em execução do disposto no Programa Legislar Melhor, aprovado pela [Resolução do Conselho de Ministros n.º 63/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2006-633530), de 18 de Maio, o Sistema de Controlo dos Actos Normativos, abreviadamente designado por SCAN, visando acompanhar os procedimentos de aprovação de actos legislativos e regulamentares cuja emissão seja determinada por outros actos normativos, bem como a utilização das autorizações legislativas contidas em leis da Assembleia da República.
+
+2 - Determinar que o Centro Jurídico, abreviadamente designado por CEJUR, assegura a coordenação da gestão do SCAN, de acordo com as orientações fixadas pelo Secretário de Estado da Presidência do Conselho de Ministros e em prossecução dos objectivos do Programa Legislar Melhor.
+
+3 - Determinar a criação, no âmbito do SCAN, de uma base de dados informatizada, gerida pelo CEJUR, que assegure mecanismos de controlo automatizado das necessidades de regulamentação dos actos legislativos da Assembleia da República e do Governo, dos procedimentos de aprovação de decretos-leis emitidos no uso de lei de autorização legislativa e dos procedimentos de transposição de actos jurídicos da União Europeia.
+
+4 - Estabelecer que o tratamento dos actos referidos no número anterior deve indicar:
+
+4.1 - Em relação aos actos legislativos carecidos de regulamentação de execução:
+
+a) Norma do diploma que determina a emissão de acto regulamentar;
+
+b) Objecto da regulamentação;
+
+c) Forma do acto de regulamentação, quando exista determinação legal da mesma;
+
+d) Ministério ou entidade responsável pela sua emissão;
+
+e) Prazo de emissão, quando exista, com indicação da respectiva data final;
+
+f) Datas de publicação e de entrada em vigor do acto;
+
+g) Dependência da emissão de regulamentação para a entrada em vigor, total ou parcial, do acto legislativo, com especial referência para os casos de vigência condicionada de actos legislativos decorrente da falta de regulamentação.
+
+4.2 - Em relação às leis de autorização legislativa:
+
+a) Identificação da lei de autorização e das normas que conferem a autorização;
+
+b) Objecto e sentido da autorização legislativa;
+
+c) Ministério sectorialmente competente para desencadear o procedimento legislativo;
+
+d) Datas de publicação e de entrada em vigor da lei;
+
+e) Duração da autorização legislativa.
+
+4.3 - Em relação aos actos jurídicos da União Europeia carecidos de transposição:
+
+a) Identificação da directiva ou decisão-quadro carecida de transposição;
+
+b) Objecto do acto de transposição;
+
+c) Forma do acto de transposição;
+
+d) Ministério sectorialmente competente para desencadear o procedimento de transposição;
+
+e) Datas de publicação e de entrada em vigor do acto;
+
+f) Prazo para transposição, com indicação da respectiva data final.
+
+5 - Determinar que, sem prejuízo das competências de gestão da base de dados pelo CEJUR, compete ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros a remessa de fichas preliminares de regulamentação relativas aos actos normativos aprovados em Conselho de Ministros.
+
+6 - Determinar que, sem prejuízo das competências de gestão da base de dados pelo CEJUR, compete aos serviços da Direcção-Geral dos Assuntos Europeus, do Ministério dos Negócios Estrangeiros, a remessa dos dados relativos ao estado da transposição para o direito interno de actos normativos da União Europeia.
+
+7 - Estabelecer que a gestão da base de dados pelo CEJUR deve assegurar a notificação periódica automática do gabinete do Secretário de Estado da Presidência do Conselho de Ministros, do ministério sectorialmente competente e do CEJUR nos seguintes termos:
+
+a) Notificação do início dos últimos 180, 90, 30, 15 e 5 dias do prazo para emissão de regulamentos de execução de actos normativos e para a utilização de autorizações legislativas;
+
+b) Notificação do início dos últimos 180, 90, 30, 15 e 5 dias do prazo para transposição de actos jurídicos da União Europeia;
+
+c) Notificação do decurso do prazo de 90 dias sobre a entrada em vigor de qualquer acto normativo carecido de emissão de normas regulamentares que não tenha estipulado um prazo para a sua emissão;
+
+d) Notificação mensal do incumprimento de qualquer dos prazos referidos nas alíneas anteriores durante o 1.º mês em que se verificar uma situação de incumprimento;
+
+e) Notificação semanal do incumprimento de qualquer dos prazos referidos nas alíneas anteriores após o 2.º mês em que se verificar uma situação de incumprimento.
+
+8 - Determinar a apresentação pelo CEJUR de um relatório mensal de progresso sobre o estado dos procedimentos de aprovação dos actos normativos em falta para dar cumprimento às obrigações de regulamentação e de emissão de legislação, com a informação discriminada por ministério, com indicação dos seguintes elementos:
+
+a) Actos normativos cujo prazo para emissão de regulamentação de execução tenha expirado no mês a que o relatório diz respeito ou, no caso de não haver estipulação de prazo, actos sobre os quais tenham decorrido 60 dias contados da data da sua publicação no mês a que o relatório diz respeito;
+
+b) Actos jurídicos da União Europeia cujo prazo para emissão de legislação de transposição tenha expirado no mês a que o relatório diz respeito;
+
+c) Leis de autorização legislativa cujo prazo para emissão de decreto-lei autorizado tenha expirado no mês a que o relatório diz respeito;
+
+d) Actos normativos cujo prazo para emissão de regulamentação de execução expire no mês seguinte àquele a que o relatório diz respeito ou, no caso de não haver estipulação de prazo, actos sobre os quais venham a decorrer 60 dias contados da data da sua publicação no mês seguinte àquele a que o relatório diz respeito;
+
+e) Actos jurídicos da União Europeia cujo prazo para emissão de legislação de transposição expire no mês seguinte àquele a que o relatório diz respeito;
+
+f) Leis de autorização legislativa cujo prazo para emissão de decreto-lei autorizado expirado no mês seguinte àquele a que o relatório diz respeito;
+
+g) Actos normativos que tenham sido emitidos no mês a que o relatório diz respeito e que consubstanciem o cumprimento de uma obrigação de legislar ou regulamentar ou a utilização de uma lei de autorização legislativa;
+
+h) Actos normativos cujo início ou cessação de vigência esteja condicionada pela ausência de emissão de regulamentos de execução.
+
+9 - Determinar a apresentação pelo CEJUR de um relatório anual sumário incidindo sobre os elementos referidos no número anterior e apresentando a evolução dos níveis de cumprimento verificados em função de ano civil, da legislatura e do governo constitucional.
+
+10 - Estipular que, sem prejuízo da sua actualização diária e de posterior recuperação de outros actos anteriores, a base de dados deve ser carregada com as fichas relativas a todos os actos normativos aprovados pela Assembleia da República durante a X Legislatura e pelo XVII Governo Constitucional.
+
+11 - Determinar que, para efeitos do disposto no n.º 7, cada ministério deve indicar um ponto focal para recepção das notificações do decurso dos prazos de regulamentação e emissão de legislação, que, conjuntamente com o CEJUR, que coordena, e com a Direcção-Geral dos Assuntos Europeus, constituem uma rede de pontos focais de monitorização dos procedimentos de aprovação de actos normativos do Governo.
+
+12 - Estipular que o disposto na presente resolução não prejudica que, em relação aos procedimentos de transposição de actos jurídicos da União Europeia, a Direcção-Geral dos Assuntos Europeus assegure:
+
+a) A elaboração de listas com actualização permanente contendo o ponto da situação, por ministério, de todas as directivas em vias de transposição, tendo em conta o respectivo estado, seja por ter sido ultrapassado o prazo para a sua adopção (fase do Tribunal de Justiça, fase de parecer fundamentado, fase de notificação de incumprimentos, fase de carta administrativa) seja por ainda estarem em vias de adopção;
+
+b) A distribuição mensal das listas pelos gabinetes ministeriais e pelos representantes dos ministérios na Comissão Interministerial para os Assuntos Europeus;
+
+c) A promoção da realização de reuniões regulares, pelo menos de dois em dois meses, com os ministérios interessados, para apreciação da situação de cada directiva constante da lista respectiva, definindo os objectivos de redução do défice de transposição de directivas e avaliando a forma de ultrapassar eventuais dificuldades com os procedimentos de transposição nas fases de pré-contencioso e contencioso comunitário.
+
+13 - Determinar que a presente resolução entra em vigor em 1 de Janeiro de 2009.
+
+Presidência do Conselho de Ministros, 13 de Novembro de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

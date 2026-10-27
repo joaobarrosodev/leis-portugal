@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:479398:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1998-169035718",
+ "dre_path": "/dr/detalhe/portaria/365-1998-479398",
+ "source_lastmod": "2025-06-23",
+ "versions": [
+  {
+   "date": "1998-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169035910",
+    "169035912"
+   ]
+  }
+ ],
+ "fragments": {
+  "169035910": {
+   "fragment_id": "169035719",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 365/98\n\nde 26 de Junho\n\nIntegrado no processo, que tem vindo a ser concretizado, de adequação dos suportes de informações utilizados no âmbito do sistema de segurança social às exigências da Lei n.º 10/91, de 29 de Abril, na redacção dada pela Lei n.º 28/94, de 29 de Agosto, procede-se à alteração dos modelos relativos à inscrição dos trabalhadores e das entidades empregadoras na segurança social.\n\nOs modelos agora aprovados, para além de integrarem a nova imagem do sistema de segurança social, consubstanciam uma racionalização da informação solicitada aos respectivos destinatários, facto que determinou a autonomização dos modelos para a inscrição das entidades empregadoras e de grupos sócio-profissionais específicos, designadamente dos trabalhadores independentes e dos trabalhadores estrangeiros.\n\nNa linha da simplificação e desburocratização que vem sendo prosseguida, os modelos passam a ser referenciados, apenas, com a identificação do sistema de segurança social, sem a indicação do nome dos centros regionais de segurança social.\n\nProcura-se, desta forma, dar uma maior relevância à unidade do sistema e permitir a sua disponibilização na Internet, para utilização dos interessados junto da segurança social.\n\nPor outro lado, a progressiva introdução de processos de leitura automática da informação determina a necessidade de alterar o procedimento que vinha sendo adoptado relativamente ao preenchimento informático dos suportes de informação, na sequência do disposto na portaria de 1 de Abril de 1985, publicada no Diário da República, 2.ª série, n.º 90, de 18 de Abril de 1985.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Segurança Social e das Relações Laborais, o seguinte:"
+  },
+  "169035912": {
+   "fragment_id": "169035721",
+   "type": 14,
+   "heading": "Anexo — A que se refere o n.º 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — A que se refere o n.º 1.º\n\n«Contribuinte da segurança social - Inscrição/alteração de elementos», mod. RV1001-DGRSS.\n\n«Trabalhadores por conta de outrem - Inscrição/enquadramento», mod. RV1005-DGRSS.\n\n«Boletim de inscrição/enquadramento dos trabalhadores independentes», mod. RV1000/98-DGRSS.\n\n«Trabalhadores estrangeiros - Identificação complementar», mod. RV1006-DGRSS.\n\n(ver modelos no documento original)\n\n> Nota: [2.º, Portaria n.º 157/2002 - Diário da República n.º 44/2002, Série I-B de 2002-02-21](https://diariodarepublica.pt/dr/detalhe/portaria/157-2002-281433) A Portaria n.º 157/2002, de 21 de fevereiro aprova o novo suporte de informação para a inscrição das entidades empregadoras no sistema de solidariedade e segurança social, mod. RV1011-DGSSS, revogando, para esse efeito, o presente anexo relativamente ao suporte de informação «Contribuinte da segurança social — Inscrição/alteração de elementos», mod. RV1001-DGRSS."
+  }
+ }
+}

@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:238263:por
+title: Portaria n.º 21196
+short_title: null
+summary: Autoriza a Direcção da Arma de Engenharia a passar o boletim para a condução de máquinas especiais de engenharia
+  aos militares que, nos respectivos centros de instrução, recebam instrução e demonstrem que se encontram habilitados a conduzir
+  tais viaturas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Exército - Repartição do Gabinete do Ministro
+proposing_entity: null
+official_number: '21196'
+official_date: null
+publication_date: '1965-03-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 67/1965, Série I de 1965-03-20
+  number: '67'
+  series: I
+  supplement: null
+  pages: 389 - 390
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/03/06700/03890390.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '238263'
+  dre_path: /dr/detalhe/portaria/21196-1965-238263
+  internal: pt:dre:238263:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21196-1965-238263
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21196-1965-238263
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:58:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fac8264d63f2e66d4748d8c17bdd2bfa1743c11257eacadd1d8b2619b4906a47
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:58:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:318084:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:58:13Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21196
+
+Tornando-se necessário que os operadores de máquinas especiais da arma de engenharia sejam habilitados com um boletim de condução que comprove, às autoridades respectivas, quando nos seus deslocamentos para os locais de trabalho têm que circular pela via pública, que estão habilitados a tal, à semelhança do que é exigido pelo Código da Estrada aos condutores civis de máquinas industriais e agrícolas;
+
+Tendo em atenção que os condutores de máquinas especiais não são habilitados com o exame de condução de viaturas auto, pelo que não dispõem do boletim de condução militar criado pelo [Decreto-Lei n.º 22804](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22804-1933-318084), de 6 de Julho de 1933:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Exército, observar o seguinte:
+
+1.º É a Direcção da Arma de Engenharia autorizada a passar o boletim para a condução de máquinas especiais de engenharia aos militares que, nos centros de instrução respectivos, recebam instrução e demonstrem, mediante um exame, que se encontram habilitados a conduzir tais viaturas.
+
+2.º Os boletins para a condução de máquinas especiais de engenharia são ùnicamente válidos para a condução das viaturas militares dos tipos indicados no verso do respectivo boletim, sendo tal validade comprovada pela indicação do centro de instrução em que foi submetido a exame, a data do mesmo, o número de registo e assinatura do comandante da unidade em que o referido centro e instrução funciona.
+
+3.º O boletim para a condução de máquinas especiais é do modelo anexo à presente portaria, com as dimensões de 12 cm x 8 cm, em cartão de cor amarela, só sendo válido com a fotografia do possuidor autenticada com a assinatura do comandante da unidade que o passou e o respectivo selo branco.
+
+4.º Os júris para os exames de condução de máquinas especiais de engenharia a que se refere a presente portaria deverá ser constituído da seguinte forma:
+
+Presidente - Comandante ou 2.º comandante da unidade.
+
+Vogais - Dois capitães ou subalternos da unidade, pelo menos um deles habilitado a conduzir máquinas especiais de engenharia, podendo o outro ter apenas o boletim de condução de viaturas automóveis, com faixa branca.
+
+5.º Dos exames serão lavradas actas em livros a tal fim destinados, sendo os resultados dos mesmos publicados em ordem de serviço.
+
+6.º O exame para a concessão de certificados de condução deverá constar de uma prova prática de condução em estrada e em terreno livre e um interrogatório oral sobre o Código da Estrada.
+
+§ único. A prova prática deverá ser realizada em cada um dos tipos de máquina especial para que o boletim passa a ser válido em caso de aprovação.
+
+7.º Os certificados de condução de máquinas especiais deverão ser registados pelo centro de instrução em que o exame se realizou num registo especial onde deverão constar o número do certificado, a data da concessão, o posto, o número e o nome do titular e os números das ampliações de validade para outros tipos de viaturas especiais de engenharia.
+
+Ministério do Exército, 20 de Março de 1965. - O Ministro do Exército, Joaquim da Luz Cunha.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/03/06700/03890390.pdf)
+
+Ministério do Exército, 20 de Março de 1965. - O Ministro do Exército, Joaquim da Luz Cunha.

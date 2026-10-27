@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: pt:dre:574925:por
+title: Decreto-Lei n.º 181/90
+short_title: null
+summary: Introduz alterações ao Código da Sisa e do Imposto sobre as Sucessões e Doações
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 181/90
+official_date: null
+publication_date: '1990-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 130/1990, Série I de 1990-06-06
+  number: '130'
+  series: I
+  supplement: null
+  pages: 2452 - 2452
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13000/24522452.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '574925'
+  dre_path: /dr/detalhe/decreto-lei/181-1990-574925
+  internal: pt:dre:574925:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1990-574925
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1990-574925
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:59:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 96429151d19ba93300b3f63ca4b13d954dac6cd383b6d4d790b5cbd3b50ca876
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:59:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Imóveis
+- Código da SISA e do Imposto sobre Sucessões e Doações
+- Contribuições e Impostos
+- Habitação
+- Imposto sobre Sucessões e Doações
+- Instituição de Crédito
+- Isenção Fiscal
+- Jovem Agricultor
+- Prédio Rústico
+- Sisa
+relationships:
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:163561196:por
+  label: Determinada a não vigência, a partir de 23.05.2021, pelo(a) Lei n.º 28/2021 - Diário da República n.º 96/2021, Série
+    I de 2021-05-18, nos termos do disposto no seu art. 1.º.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2021-163561196
+  date: '2021-05-18'
+- type: cites
+  target: pt:dre:254631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590339:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:59:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 181/90
+
+de 6 de Junho
+
+Através do presente diploma é instituído um regime mais amplo de isenção de sisa para as aquisições de bens imóveis efectuadas pelas instituições de crédito, para a realização dos seus créditos, passando a abranger as transmissões operadas mediante processos de falência e de insolvência, e, bem assim, para as aquisições de prédios rústicos destinados à primeira instalação de jovens agricultores, criando-se uma isenção de base até 10000 contos.
+
+Assim:
+
+No uso da autorização legislativa concedida pelas alíneas a) e c) do n.º 1 do artigo 27.º da [Lei n.º 101/89](https://diariodarepublica.pt/dr/detalhe/lei/101-1989-590339), de 29 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo único. O n.º 20.º do artigo 11.º, o n.º 13.º do artigo 13.º e o artigo 136.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, aprovado pelo [Decreto-Lei n.º 41969](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41969-1958-339416), de 24 de Novembro de 1958, passam a ter a seguinte redacção:
+
+Art. 11.º ...
+
+...
+
+20.º As aquisições de bens por instituições de crédito ou por sociedades comerciais cujo capital seja directa ou indirectamente por aquelas dominado, em processo de execução movido por essas instituições ou por outro credor, bem como as efectuadas em processo de falência ou de insolvência e, ainda, as que derivem de actos de dação em cumprimento, desde que, em qualquer caso, se destinem à realização de créditos resultantes de empréstimos feitos ou de fianças prestadas.
+
+No caso de serem adquirentes sociedades directa ou indirectamente dominadas pelas instituições de crédito, só haverá lugar à isenção quando as aquisições resultem da cessão do crédito ou da fiança efectuadas pelas mesmas instituições àquelas sociedades comerciais.
+
+Art. 13.º ...
+
+...
+
+13.º Ficam isentas de sisa as aquisições de prédios rústicos que se destinem à primeira instalação de jovens agricultores candidatos aos apoios previstos no [Decreto-Lei n.º 79-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1987-254631), de 18 de Fevereiro, ainda que operadas em épocas diferentes, até ao valor de 10000 contos, independentemente de o valor sobre que incidiria o imposto ultrapassar aquele limite.
+
+Art. 136.º Nenhuma pessoa singular ou colectiva poderá autorizar o levantamento de quaisquer depósitos que lhe tenham sido confiados ou a mobilização dos saldos das contas poupança-habitação para fins diferentes dos previstos na legislação que regulamenta essas contas, averbar títulos nominativos, registar ou aceitar depósitos de acções, bem como de títulos estrangeiros, ou pagar títulos de crédito, juros, dividendos, lucros, quotas e partes sociais, que hajam constituído objecto de uma transmissão gratuita, por ela de qualquer forma conhecida, sem que se mostre pago o imposto relativo a esses bens ou assegurado o seu pagamento ou sem que, tratando-se de bens isentos, se mostre feita a sua relacionação no competente processo.
+
+§ 1.º ...
+
+a) ...
+
+b) ...
+
+§ 2.º ...
+
+Visto e aprovado em Conselho de Ministros de 3 de Maio de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza.
+
+Promulgado em 25 de Maio 1990.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 29 de Maio de 1990.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

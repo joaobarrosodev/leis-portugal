@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:584670:por
+title: Portaria n.º 1064/92
+short_title: null
+summary: Altera o quadro de pessoal do Hospital Distrital de Espinho na parte respeitante ao pessoal das carreiras de técnico
+  superior de serviço social e de técnico superior de saúde
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Saúde
+proposing_entity: null
+official_number: 1064/92
+official_date: null
+publication_date: '1992-11-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 267/1992, Série I-B de 1992-11-18
+  number: '267'
+  series: I
+  supplement: null
+  pages: 5291 - 5291
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/11/267b00/52915291.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1064/1992/11/18/p/dre/pt/html
+  oj: null
+  dre: '584670'
+  dre_path: /dr/detalhe/portaria/1064-1992-584670
+  internal: pt:dre:584670:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1064-1992-584670
+  metadata_url: https://data.dre.pt/eli/port/1064/1992/11/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1064-1992-584670
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:07:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 81b9442c7dae3799f616f5aa5a643a07e729b2289e19be353e882c8ae703c921
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:07:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Espinho
+- Hospital Distrital
+- Pessoal de Saúde
+- Pessoal Técnico Superior de Serviço Social
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:436635:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:436635:por
+  label: "Substituído o quadro de pessoal do Hospital de Nossa Senhora da Ajuda - Espinho, aprovado pela Portaria 749/87,\
+    \ de 1 de Setembro, alterado no presente diploma, pela PORT.210/96.12.06.1996.PCM, DR.IS-B [135] de 12.06.1996\06\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/210-1996-436635
+  date: '1996-06-12'
+- type: cites
+  target: pt:dre:334637:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:344424:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+- type: cites
+  target: pt:dre:494850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674062:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:07:54Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1064/92
+
+de 18 de Novembro
+
+Os Decretos-Leis n.os [296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, e [414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, regulamentam o estatuto das carreiras de técnico superior de serviço social e de técnico superior de saúde, respectivamente, e definem as normas de transição para as mesmas carreiras.
+
+A execução dos citados diplomas implica a alteração dos quadros de pessoal dos serviços e estabelecimentos por eles abrangidos.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, em conjugação com o artigo 4.º do [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, e com o n.º 1 do artigo 38.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro:
+
+Manda o Governo, pelos Ministros das Finanças e da Saúde, que o quadro de pessoal do Hospital Distrital de Espinho, aprovado pela [Portaria n.º 749/87](https://diariodarepublica.pt/dr/detalhe/portaria/749-1987-494850), de 1 de Setembro, e posteriormente alterado pela [Portaria n.º 113/90](https://diariodarepublica.pt/dr/detalhe/portaria/113-1990-334637), de 12 de Fevereiro, seja substituído, na parte referente às carreiras de técnico superior de saúde e de técnico superior de serviço social, de acordo com o quadro anexo à presente portaria.
+
+Ministérios das Finanças e da Saúde.
+
+Assinada em 27 de Outubro de 1992.
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Saúde, Jorge Augusto Pires, Secretário de Estado Adjunto do Ministro da Saúde.
+
+Quadro de Pessoal do Hospital Distrital de Espinho
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/267b00/52915291.pdf)

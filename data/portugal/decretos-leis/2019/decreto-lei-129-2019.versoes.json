@@ -1,0 +1,337 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124283153:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-124315160",
+ "dre_path": "/dr/detalhe/decreto-lei/129-2019-124283153",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-08-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124317078",
+    "124317079",
+    "124317080",
+    "124317081",
+    "124317082",
+    "124317083",
+    "124317084",
+    "124317085",
+    "124317086",
+    "124317087",
+    "124317088",
+    "124317089",
+    "124317090",
+    "124317091",
+    "124317092",
+    "124317093",
+    "124317094",
+    "124317095",
+    "124317096",
+    "124317097",
+    "124317098",
+    "124317099",
+    "124317100",
+    "124317101",
+    "124317102",
+    "124317103"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "124317078",
+    "124317079",
+    "124317080",
+    "124317081",
+    "124317082",
+    "124317083",
+    "124317084",
+    "124317085",
+    "124317086",
+    "124317087",
+    "124317088",
+    "124317089",
+    "124317090",
+    "124317091",
+    "124317092",
+    "124317093",
+    "157266019",
+    "157266020",
+    "124317096",
+    "124317097",
+    "157266021",
+    "124317099",
+    "124317100",
+    "124317101",
+    "124317102",
+    "124317103",
+    "124317104"
+   ]
+  }
+ ],
+ "fragments": {
+  "124317078": {
+   "fragment_id": "124315161",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 129/2019\n\nde 29 de agosto\n\nSumário: Assegura a execução na ordem jurídica interna das obrigações decorrentes do Regulamento (UE) 2016/426, relativo aos aparelhos a gás.\n\nO Regulamento (UE) 2016/426, do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo aos aparelhos a gás e que revoga a Diretiva 2009/142/CE, do Conselho, visa garantir que a disponibilização no mercado de aparelhos a gás obedece a regras harmonizadas para a conceção e o fabrico, assegurando, desse modo, a proteção da saúde e a segurança dos utilizadores e fixando as regras sobre a livre circulação de tais equipamentos na União Europeia.\n\nPara além disso, o mencionado Regulamento define as condições necessárias para a aposição da marcação CE nos aparelhos a gás em conformidade com os princípios gerais definidos na legislação da União Europeia, nomeadamente o Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008, cuja execução na ordem jurídica interna é assegurada pelo Decreto-Lei n.º 23/2011, de 11 de fevereiro, e a Decisão n.º 768/2008/CE, do Parlamento Europeu e do Conselho, de 9 de julho de 2008.\n\nPorém, ainda que os regulamentos da União sejam obrigatórios e diretamente aplicáveis na ordem jurídica interna, torna-se indispensável assegurar a efetiva execução do Regulamento (UE) 2016/426, do Parlamento Europeu e do Conselho, de 9 de março de 2016, o que, ora, é concretizado através do presente decreto-lei, que procede à adoção das disposições necessárias para a concretização das exigências específicas cometidas aos Estados-Membros\n\nDeste modo, o presente decreto-lei vem definir, nomeadamente, os mecanismos de avaliação dos organismos notificados e a entidade competente para a sua notificação, bem como as sanções aplicáveis ao incumprimento das disposições previstas no Regulamento.\n\nForam ouvidos os órgãos de Governo próprios das Região Autónomas dos Açores.\n\nFoi promovida a audição dos órgãos de Governo próprios da Região Autónoma da Madeira e do Conselho Nacional de Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "124317079": {
+   "fragment_id": "124315162",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "124317080": {
+   "fragment_id": "124315163",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à execução na ordem jurídica interna do disposto no Regulamento (UE) 2016/426, do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo aos aparelhos a gás, adiante designado por Regulamento."
+  },
+  "124317081": {
+   "fragment_id": "124315164",
+   "type": 11,
+   "heading": "Artigo 2.º — Instruções, informações e documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Instruções, informações e documentação\n\n1 - Para efeitos do n.º 7 do artigo 7.º, do n.º 4 do artigo 9.º e do n.º 2 do artigo 10.º do Regulamento, as instruções e informações de segurança que acompanhem um aparelho a gás são redigidas em língua portuguesa.\n\n2 - Para efeitos do n.º 9 do artigo 7.º, da alínea b) do n.º 2 do artigo 8.º, do n.º 9 do artigo 9.º e do n.º 5 do artigo 10.º do Regulamento, a documentação solicitada pela autoridade de fiscalização do mercado, no exercício das suas funções, deve ser disponibilizada em língua portuguesa, salvo indicação em contrário."
+  },
+  "124317082": {
+   "fragment_id": "124315165",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências do Instituto Português da Qualidade, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências do Instituto Português da Qualidade, I. P.\n\nO Instituto Português da Qualidade, I. P. (IPQ, I. P.), é a autoridade nacional competente para acompanhar a execução do Regulamento e do presente decreto-lei, competindo-lhe, nomeadamente:\n\na) Assegurar a representação nacional no Comité dos Aparelhos, nos termos previstos no artigo 42.º do Regulamento;\n\nb) Comunicar à Comissão e aos outros Estados-Membros, nos termos e data mencionados no Regulamento, com recurso a formulário apropriado e após consulta à Direção-Geral de Energia e Geologia (DGEG), os tipos de gás e as pressões de alimentação correspondentes dos combustíveis gasosos constantes do anexo II do Regulamento, bem como quaisquer alterações dos mesmos, no prazo de seis meses após o anúncio dessas alterações, conforme previsto no artigo 4.º do Regulamento."
+  },
+  "124317083": {
+   "fragment_id": "124315166",
+   "type": 1,
+   "heading": "Capítulo II — Notificação dos organismos de avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Notificação dos organismos de avaliação da conformidade"
+  },
+  "124317084": {
+   "fragment_id": "124315167",
+   "type": 11,
+   "heading": "Artigo 4.º — Autoridade notificadora e notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autoridade notificadora e notificação\n\n1 - Para efeitos do Regulamento e do presente decreto-lei, o IPQ, I. P., é a autoridade notificadora.\n\n2 - Ao IPQ, I. P., compete notificar a Comissão Europeia dos organismos responsáveis pela realização da avaliação da conformidade.\n\n3 - O IPQ, I. P., informa a Comissão Europeia dos procedimentos de notificação dos organismos de avaliação da conformidade, bem como de qualquer alteração nessa matéria.\n\n4 - Para efetuar a notificação, o IPQ, I. P., deve utilizar o instrumento de notificação eletrónico concebido e gerido pela Comissão Europeia.\n\n5 - O IPQ, I. P., apenas pode notificar os organismos de avaliação da conformidade que sejam acreditados nos termos de n.º 2 do artigo seguinte.\n\n6 - Os organismos de avaliação da conformidade apenas podem exercer as atividades de organismo notificado caso a Comissão Europeia ou outros Estados-Membros não levantem objeções nas duas semanas seguintes à notificação.\n\n7 - Presume-se que os organismos de avaliação da conformidade que comprovem a sua conformidade com os critérios estabelecidos nas normas harmonizadas aplicáveis, ou em partes destas, cujas referências tenham sido publicadas no JOUE, cumprem os requisitos estabelecidos no artigo 23.º do Regulamento, na medida em que as referidas normas harmonizadas contemplem esses requisitos.\n\n8 - O IPQ, I. P., deve notificar a Comissão Europeia de quaisquer alterações relevantes posteriormente introduzidas na notificação.\n\n9 - Caso seja informado pelo Instituto Português de Acreditação, I. P. (IPAC, I. P.), de que um organismo notificado deixou de cumprir os requisitos estabelecidos no artigo 23.º do Regulamento, ou de que não cumpre os seus deveres, o IPQ, I. P., deve restringir, suspender ou retirar a notificação, consoante o caso, e deve informar imediatamente do facto a Comissão Europeia e os outros Estados-Membros.\n\n10 - Nos casos referidos no número anterior, ou quando o organismo notificado cessar a sua atividade, o IPQ, I. P., deve tomar as medidas necessárias para que o tratamento dos processos seja realizado por outro organismo notificado."
+  },
+  "124317085": {
+   "fragment_id": "124315168",
+   "type": 11,
+   "heading": "Artigo 5.º — Acreditação dos organismos de avaliação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acreditação dos organismos de avaliação da conformidade\n\n1 - Compete ao IPAC, I. P., enquanto organismo nacional de acreditação, a avaliação e o controlo dos organismos de avaliação da conformidade.\n\n2 - Para efeitos de notificação, os organismos de avaliação da conformidade devem ser previamente acreditados pelo IPAC, I. P., nas modalidades correspondentes às atividades de avaliação da conformidade pretendidas.\n\n3 - Para efeitos do número anterior, os organismos de avaliação da conformidade acreditados devem cumprir os requisitos enumerados nos artigos 23.º e 31.º do Regulamento."
+  },
+  "124317086": {
+   "fragment_id": "124315169",
+   "type": 11,
+   "heading": "Artigo 6.º — Filiais e subcontratados dos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Filiais e subcontratados dos organismos notificados\n\n1 - Caso um organismo notificado subcontrate tarefas específicas relacionadas com a avaliação da conformidade ou recorra a uma filial, deve assegurar que o subcontratado ou a filial cumpre os requisitos previstos no artigo 23.º do Regulamento e comunicar esse facto ao IPAC, I. P., e ao IPQ, I. P.\n\n2 - Os organismos notificados devem assumir plena responsabilidade pelas tarefas executadas por subcontratados ou filiais, independentemente do local em que estes se encontrem estabelecidos.\n\n3 - As tarefas só podem ser executadas por um subcontratado ou por uma filial com o acordo do cliente.\n\n4 - Os organismos notificados devem manter à disposição do IPAC, I. P., e do IPQ, I. P., os documentos relevantes relativos à avaliação das qualificações do subcontratado ou da filial e às atividades por estes exercidas."
+  },
+  "124317087": {
+   "fragment_id": "124315170",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedidos de notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pedidos de notificação\n\n1 - Para o exercício da sua atividade, os organismos de avaliação da conformidade devem apresentar junto do IPQ, I. P., os pedidos de notificação, através de formulário eletrónico disponível no respetivo portal.\n\n2 - O IPQ, I. P., solicita ao IPAC, I. P., no prazo de cinco dias após a submissão do formulário referido no número anterior, acesso, consulta ou cópia do certificado de acreditação e respetivo anexo técnico, no qual ateste que o interessado atua em conformidade, cumprindo os requisitos estabelecidos no artigo 23.º do Regulamento, bem como a competência deste para as atividades de avaliação da conformidade, do módulo ou módulos de avaliação da conformidade e do aparelho ou equipamento em causa."
+  },
+  "124317088": {
+   "fragment_id": "124315171",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres funcionais dos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres funcionais dos organismos notificados\n\nOs organismos notificados devem exercer a sua atividade cumprindo os deveres funcionais referidos no artigo 31.º do Regulamento."
+  },
+  "124317089": {
+   "fragment_id": "124315172",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de informação dos organismos notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dever de informação dos organismos notificados\n\n1 - Os organismos notificados devem comunicar ao IPQ, I. P., as seguintes informações:\n\na) A recusa, restrição, suspensão ou retirada de certificados;\n\nb) As circunstâncias que afetem o âmbito e as condições da notificação;\n\nc) Os pedidos de informação que tenham recebido da autoridade de fiscalização do mercado sobre as atividades de avaliação da conformidade por eles realizadas;\n\nd) A pedido, as atividades de avaliação da conformidade que exerceram no âmbito da respetiva notificação e quaisquer outras atividades exercidas, nomeadamente atividades transfronteiriças e de subcontratação.\n\n2 - Os organismos notificados devem facultar às autoridades de fiscalização do mercado e aos outros organismos notificados, incluindo de outros Estados-Membros, que exerçam atividades de avaliação da conformidade semelhantes, abrangendo os mesmos aparelhos ou equipamentos, informações relevantes sobre questões relacionadas com os resultados negativos e, a pedido, os resultados positivos da avaliação da conformidade."
+  },
+  "124317090": {
+   "fragment_id": "124315173",
+   "type": 11,
+   "heading": "Artigo 10.º — Procedimento de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento de recurso\n\n1 - As decisões tomadas pelos organismos notificados são suscetíveis de recurso.\n\n2 - Para efeitos do número anterior, os organismos notificados devem implementar os procedimentos de recurso previstos nas normas técnicas de acreditação a que estão sujeitos, nos termos da legislação aplicável em matéria de acreditação.\n\n3 - Os procedimentos referidos no número anterior devem ser tornados públicos pelo organismo notificado.\n\n4 - Sem prejuízo do disposto no n.º 2, as decisões dos organismos notificados são passíveis de impugnação judicial."
+  },
+  "124317091": {
+   "fragment_id": "124315174",
+   "type": 1,
+   "heading": "Capítulo III — Controlo, fiscalização e regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Controlo, fiscalização e regime contraordenacional"
+  },
+  "124317092": {
+   "fragment_id": "124317375",
+   "type": 11,
+   "heading": "Artigo 11.º — Controlo na fronteira externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Controlo na fronteira externa\n\nCompete à Autoridade Tributária e Aduaneira, nos termos do artigo 5.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, efetuar o controlo na fronteira externa dos aparelhos a gás abrangidos pelo Regulamento provenientes de países terceiros."
+  },
+  "124317093": {
+   "fragment_id": "124317376",
+   "type": 11,
+   "heading": "Artigo 12.º — Fiscalização do mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fiscalização do mercado\n\n1 - A fiscalização do disposto no Regulamento e no presente decreto-lei compete, no âmbito das suas atribuições, à Autoridade de Segurança Alimentar e Económica (ASAE), sem prejuízo das competências atribuídas por lei a outras entidades.\n\n2 - A ASAE é a autoridade competente para a receção das informações referentes aos equipamentos que constituam um risco, nos termos do capítulo V do Regulamento."
+  },
+  "124317094": {
+   "fragment_id": "124317377",
+   "type": 11,
+   "heading": "Artigo 13.º — Contraordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contraordenações e coimas\n\n1 - Constituem contraordenações puníveis com coima no valor de (euro) 1 000,00 a (euro) 3 740,00, no caso de pessoas singulares, e de (euro) 2 500,00 a (euro) 44 890,00, no caso de pessoas coletivas, as seguintes infrações:\n\na) O incumprimento do disposto nos n.os 1 e 2 do artigo 2.º do presente decreto-lei;\n\nb) A disponibilização no mercado e/ou a colocação em serviço, por qualquer operador económico, de aparelhos a gás que não satisfaçam os requisitos essenciais constantes do anexo I ao Regulamento, em violação do disposto no artigo 5.º do Regulamento;\n\nc) O incumprimento, pelo fabricante, dos deveres previstos no artigo 7.º do Regulamento;\n\nd) O incumprimento, pelo mandatário, dos deveres previstos no artigo 8.º do Regulamento;\n\ne) O incumprimento, pelo importador, dos deveres previstos no artigo 9.º do Regulamento;\n\nf) O incumprimento, pelo distribuidor, dos deveres previstos no artigo 10.º do Regulamento;\n\ng) O incumprimento do disposto no artigo 11.º do Regulamento;\n\nh) O incumprimento do disposto no artigo 12.º do Regulamento;\n\ni) A violação das regras e condições de aposição da marcação «CE» previstas no artigo 17.º do Regulamento.\n\n2 - A violação ao disposto no artigo 16.º do Regulamento rege-se pelo disposto no artigo 6.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro.\n\n3 - A negligência e a tentativa são puníveis, sendo os limites mínimos e máximos das coimas reduzidos para metade."
+  },
+  "124317095": {
+   "fragment_id": "124317378",
+   "type": 11,
+   "heading": "Artigo 14.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sanções acessórias\n\nSem prejuízo da responsabilidade civil e criminal a que haja lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual."
+  },
+  "124317096": {
+   "fragment_id": "124317379",
+   "type": 11,
+   "heading": "Artigo 15.º — Instrução e decisão de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instrução e decisão de processos\n\n1 - Sem prejuízo das competências da Autoridade Tributária e Aduaneira, a instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.\n\n2 - A aplicação das coimas e sanções acessórias previstas no presente decreto-lei compete ao inspetor-geral da ASAE."
+  },
+  "124317097": {
+   "fragment_id": "124317380",
+   "type": 11,
+   "heading": "Artigo 16.º — Distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Distribuição do produto das coimas\n\n1 - O produto das coimas resultantes da aplicação do disposto no presente decreto-lei é distribuído da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 10 % para a entidade que levantou o auto;\n\nc) 20 % para a ASAE;\n\nd) 10 % para o IPQ, I. P.\n\n2 - O produto resultante da aplicação das respetivas coimas pelas Regiões Autónomas constitui receita própria das mesmas."
+  },
+  "124317098": {
+   "fragment_id": "124317381",
+   "type": 11,
+   "heading": "Artigo 17.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direito subsidiário\n\nÀs contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime jurídico do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual."
+  },
+  "124317099": {
+   "fragment_id": "124317382",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias finais"
+  },
+  "124317100": {
+   "fragment_id": "124317383",
+   "type": 11,
+   "heading": "Artigo 18.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regiões Autónomas\n\nOs atos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa."
+  },
+  "124317101": {
+   "fragment_id": "124317384",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma transitória\n\nPodem ser disponibilizados no mercado ou colocados em serviço os aparelhos e os equipamentos abrangidos pelo Decreto-Lei n.º 25/2011, de 14 de fevereiro, que cumpram o disposto nesse decreto-lei e que tenham sido colocados no mercado ou em serviço antes de 21 de abril de 2018."
+  },
+  "124317102": {
+   "fragment_id": "124317385",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 25/2011, de 14 de fevereiro."
+  },
+  "124317103": {
+   "fragment_id": "124317386",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação"
+  },
+  "157266019": {
+   "fragment_id": "124317377",
+   "type": 11,
+   "heading": "Artigo 13.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 175.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 13.º — Contraordenações\n\n1 - Constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), as seguintes infrações:\n\na) O incumprimento do disposto nos n.os 1 e 2 do artigo 2.º do presente decreto-lei;\n\nb) A disponibilização no mercado e/ou a colocação em serviço, por qualquer operador económico, de aparelhos a gás que não satisfaçam os requisitos essenciais constantes do anexo I ao Regulamento, em violação do disposto no artigo 5.º do Regulamento;\n\nc) O incumprimento, pelo fabricante, dos deveres previstos no artigo 7.º do Regulamento;\n\nd) O incumprimento, pelo mandatário, dos deveres previstos no artigo 8.º do Regulamento;\n\ne) O incumprimento, pelo importador, dos deveres previstos no artigo 9.º do Regulamento;\n\nf) O incumprimento, pelo distribuidor, dos deveres previstos no artigo 10.º do Regulamento;\n\ng) O incumprimento do disposto no artigo 11.º do Regulamento;\n\nh) O incumprimento do disposto no artigo 12.º do Regulamento;\n\ni) A violação das regras e condições de aposição da marcação «CE» previstas no artigo 17.º do Regulamento.\n\n2 - A violação ao disposto no artigo 16.º do Regulamento rege-se pelo disposto no artigo 6.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro.\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 175.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157266020": {
+   "fragment_id": "124317378",
+   "type": 11,
+   "heading": "Artigo 14.º — Sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 175.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 14.º — Sanções acessórias\n\nSem prejuízo da responsabilidade civil e criminal a que haja lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifiquem, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.\n\n> Alterado pelo/a Artigo 175.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "157266021": {
+   "fragment_id": "124317381",
+   "type": 11,
+   "heading": "Artigo 17.º — Direito subsidiário",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 175.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 17.º — Direito subsidiário\n\nÀs contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.\n\n> Alterado pelo/a Artigo 175.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "124317104": {
+   "fragment_id": "124317387",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de agosto de 2019. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - António Manuel Veiga dos Santos Mendonça Mendes - Pedro Gramaxo de Carvalho Siza Vieira.\n\nPromulgado em 2 de agosto de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 5 de agosto de 2019.\n\nPelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.\n\n112543185"
+  }
+ }
+}

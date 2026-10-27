@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:401711:por
+title: Decreto n.º 48129
+short_title: null
+summary: Adita um artigo ao Regulamento para o Serviço de Encomendas Postais, aprovado pelo Decreto de 22 de Agosto de 1911
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Comunicações - Administração-Geral dos Correios, Telégrafos e Telefones
+proposing_entity: null
+official_number: '48129'
+official_date: null
+publication_date: '1967-12-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 293/1967, Série I de 1967-12-19
+  number: '293'
+  series: I
+  supplement: null
+  pages: 2346 - 2346
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/12/29300/23462346.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '401711'
+  dre_path: /dr/detalhe/decreto/48129-1967-401711
+  internal: pt:dre:401711:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48129-1967-401711
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48129-1967-401711
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:00:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0101babce9743734e27444e759a2442ec567596066afa755db12cb57a1d93810
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:00:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:00:20Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48129
+
+Verifica-se que a apresentação de elevado número de encomendas postais, para registo, nas estações e postos dos CTT causa sensível perturbação nos serviços e ocasiona embaraços de vária ordem aos usuários dos mesmos serviços. Reconhece-se, porém, que há possibilidade de satisfazer as pretensões que por vários interessados têm sido apresentadas no sentido de se lhes autorizar o registo privativo de encomendas nos seus domicílios, à semelhança do que já acontece com as correspondências.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo único. É aditado ao Regulamento para o Serviço de Encomendas Postais em vigor, aprovado por Decreto de 22 de Agosto de 1911, o artigo 2.º-A, com a seguinte redacção:
+
+Art. 2.º-A Administração-Geral dos Correios, Telégrafos e Telefones poderá autorizar o serviço de registo privativo de encomendas postais (SRPE) nos domicílios de entidades idóneas que o requeiram, mediante o pagamento prévio da taxa anual que for fixada nos sistemas tarifários dos CTT em vigor.
+
+§ único. O serviço de registo privativo de encomendas postais será regulado pelas instruções que vierem a ser estabelecidas pela Administração-Geral dos Correios, Telégrafos e Telefones.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 19 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

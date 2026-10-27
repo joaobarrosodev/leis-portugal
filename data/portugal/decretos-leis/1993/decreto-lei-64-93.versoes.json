@@ -1,0 +1,240 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:626418:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-886137936",
+ "dre_path": "/dr/detalhe/decreto-lei/64-1993-626418",
+ "source_lastmod": "2024-08-28",
+ "versions": [
+  {
+   "date": "1993-03-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886175818",
+    "886138795",
+    "886138796",
+    "886138797",
+    "886138798",
+    "886138799",
+    "886138800",
+    "886138801",
+    "886138802",
+    "886138803",
+    "886138804",
+    "886138805",
+    "886138806",
+    "886138807"
+   ]
+  },
+  {
+   "date": "1993-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490026:por",
+     "title": "Declaração de Rectificação n.º 109/93",
+     "published": "1993-06-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/109-1993-490026"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma",
+    "Retifica Artigo 3.º",
+    "Retifica Artigo 5.º",
+    "Retifica Artigo 6.º",
+    "Retifica Artigo 8.º",
+    "Retifica Artigo 9.º"
+   ],
+   "fragments": [
+    "886175818",
+    "886138795",
+    "886138796",
+    "886138816",
+    "886138798",
+    "886138817",
+    "886138818",
+    "886138801",
+    "886138819",
+    "886138820",
+    "886138804",
+    "886138805",
+    "886138806",
+    "886138807",
+    "886138808"
+   ]
+  }
+ ],
+ "fragments": {
+  "886175818": {
+   "fragment_id": "886137937",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1993-06-30",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 64/93\n\nde 5 de Março\n\nSão cada vez mais frequentes as situações em que empresas sediadas num determinado país exercem, com carácter temporário, actividade noutro país, para o que carecem de destacar trabalhadores seus para aí desenvolverem a actividade profissional em causa.\n\nApresenta, nestes casos, particular importância a garantia da continuidade de protecção social aos referidos trabalhadores, sem deixar de se ter em conta o princípio geral, embora sujeito a excepções, da competência da legislação do país de trabalho em matéria de segurança social.\n\nÉ este o objectivo do presente diploma, que visa regular a situação perante o regime geral de segurança social dos trabalhadores de empresas estabelecidas em Portugal que vão exercer, em regime de destacamento, actividade temporária em países estrangeiros, bem como dos trabalhadores de empresas estabelecidas em país estrangeiro que venham exercer actividade, igualmente temporária, em Portugal.\n\nPara o efeito, levaram-se em consideração as orientações sobre esta matéria constantes de instrumentos internacionais, designadamente no âmbito do Conselho da Europa e da Comunidade Europeia.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido na Lei n.º 28/84, de 14 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886138795": {
+   "fragment_id": "886137938",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma tem por objecto regular o enquadramento no regime geral de segurança social dos trabalhadores por conta de outrem em situação de destacamento, sem prejuízo do disposto em instrumentos internacionais a que Portugal se encontre vinculado."
+  },
+  "886138796": {
+   "fragment_id": "886137939",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito de destacamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito de destacamento\n\n1 - Para efeitos do presente diploma considera-se em situação de destacamento o trabalhador que, ao serviço da sua entidade empregadora, seja por esta enviado para outro país para aí desenvolver uma actividade profissional com carácter temporário.\n\n2 - Considera-se que a actividade tem carácter temporário se for previsível que a sua duração não exceda 12 meses.\n\n3 - Em casos devidamente fundamentados, pode ser reconhecido o carácter temporário a actividades cuja duração exceda o período referido no número anterior.\n\n4 - Não se considera em situação de destacamento, abrangida pelo presente diploma, o trabalhador que seja destacado em substituição de outro trabalhador que tenha esgotado o período do destacamento."
+  },
+  "886138797": {
+   "fragment_id": "886137940",
+   "type": 11,
+   "heading": "Artigo 3.º — Trabalhadores destacados em país estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Trabalhadores destacados em país estrangeiro\n\n1 - Os trabalhadores ao serviço de empresas estabelecidas em Portugal, que sejam por estas destacados para exercerem actividade temporária em país estrangeiro por conta das entidades empregadoras, continuam sujeitos ao regime geral de segurança social enquanto durar o trabalho temporário a efectuar, nos termos do artigo anterior.\n\n2 - A manutenção do enquadramento obrigatório no regime geral de segurança social dos trabalhadores por conta de outrem é extensiva às entidades empregadoras dos trabalhadores destacados."
+  },
+  "886138798": {
+   "fragment_id": "886137941",
+   "type": 11,
+   "heading": "Artigo 4.º — Situações excluídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Situações excluídas\n\n1 - Ficam excluídos do disposto no artigo anterior os trabalhadores destacados para exercerem actividade temporária em país estrangeiro, bem como as suas entidades empregadoras, nos casos em que se verifiquem, cumulativamente, as seguintes condições:\n\na) Não exista instrumento internacional de segurança social que vincule os dois Estados;\n\nb) Os trabalhadores requeiram a suspensão do seu enquadramento no regime de segurança social português;\n\nc) Os trabalhadores façam prova, perante a instituição portuguesa competente, de que se encontram abrangidos no país de emprego por regime de protecção social obrigatório.\n\n2 - Para efeitos do disposto na alínea c) do número anterior, só relevam os regimes de protecção social obrigatórios cujo esquema de benefícios cubra, pelo menos, os riscos determinantes da perda de rendimentos de trabalho protegidos pelo regime geral de segurança social português."
+  },
+  "886138799": {
+   "fragment_id": "886137942",
+   "type": 11,
+   "heading": "Artigo 5.º — Trabalhadores destacados em Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Trabalhadores destacados em Portugal\n\nOs trabalhadores que sejam destacados para exercerem actividades em Portugal, bem como as respectivas entidades empregadoras, são obrigatoriamente abrangidos pelo regime geral de segurança social, salvo se fizerem prova, junto do centro regional de segurança social que abranja o local do exercício de actividade, de que estão enquadrados por regime de protecção social obrigatório do país de envio."
+  },
+  "886138800": {
+   "fragment_id": "886137943",
+   "type": 11,
+   "heading": "Artigo 6.º — Duração máxima do destacamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Duração máxima do destacamento\n\n1 - A duração do destacamento em Portugal sem sujeição à legislação nacional de segurança social é de 12 meses, eventualmente prorrogável, por igual período, a requerimento da entidade empregadora ou trabalhador destacado, devidamente fundamentado e dirigido ao Departamento de Relações Internacionais e Convenções de Segurança Social.\n\n2 - No caso de ser previsível que a duração do trabalho temporário ultrapasse os 24 meses, pode ser requerida e concedida autorização especial, renovável anualmente, até à conclusão do mesmo."
+  },
+  "886138801": {
+   "fragment_id": "886137944",
+   "type": 11,
+   "heading": "Artigo 7.º — Substituição do trabalhador destacado em Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Substituição do trabalhador destacado em Portugal\n\nO trabalhador destacado em Portugal pode ser substituído por outro trabalhador, igualmente destacado, considerando-se, neste caso, ambas as situações como um único período de destacamento."
+  },
+  "886138802": {
+   "fragment_id": "886137945",
+   "type": 11,
+   "heading": "Artigo 8.º — Regresso temporário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regresso temporário\n\nNos casos em que um trabalhador destacado regresse, com carácter temporário, ao país de envio sem que se verifique a sua substituição por outro trabalhador, considera-se que há uma única situação de destacamento, pelo que há lugar à suspensão da contagem dos prazos previstos no artigo 6.º"
+  },
+  "886138803": {
+   "fragment_id": "886137946",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigação contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigação contributiva\n\nOs trabalhadores destacados, e as respectivas entidades empregadoras, abrangidos, nos termos do presente diploma, pelo regime geral de segurança, ficam obrigados a contribuir para o financiamento do regime, de acordo com as normas em vigor nesta matéria."
+  },
+  "886138804": {
+   "fragment_id": "886137947",
+   "type": 11,
+   "heading": "Artigo 10.º — Âmbito material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Âmbito material\n\n1 - Os trabalhadores destacados, abrangidos pelo regime geral de segurança social, nos termos do presente diploma, têm direito às prestações concedidas no âmbito daquele regime.\n\n2 - Exceptua-se do disposto no número anterior o subsídio de educação especial, no âmbito das prestações familiares, que só será concedido nos casos em que os descendentes com deficiência residam em território português."
+  },
+  "886138805": {
+   "fragment_id": "886137948",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nFicam revogados os n.os 2, 3 e 4 do artigo 18.º do Decreto n.º 45266, de 23 de Setembro de 1963, com a redacção que lhe foi dada pelo Decreto Regulamentar n.º 45/84, de 25 de Junho."
+  },
+  "886138806": {
+   "fragment_id": "886137949",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamentação\n\nAs normas técnicas de execução relativas ao reconhecimento do carácter temporário de actividades cuja duração exceda os 12 meses e à prorrogação do destacamento são objecto de portaria do Ministro do Emprego e da Segurança Social."
+  },
+  "886138807": {
+   "fragment_id": "886137950",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente diploma, com excepção do artigo anterior, entra em vigor no dia 1 do segundo mês seguinte ao da publicação da regulamentação prevista no mesmo artigo."
+  },
+  "886138816": {
+   "fragment_id": "886137940",
+   "type": 11,
+   "heading": "Artigo 3.º — Trabalhadores destacados em país estrangeiro",
+   "in_force_from": "1993-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 109/93 - Diário da República n.º 151/1993, 4º Suplemento, Série I-A de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1993-490026), em vigor a partir de 1993-06-30"
+   ],
+   "markdown": "###### Artigo 3.º — Trabalhadores destacados em país estrangeiro\n\n1 - Os trabalhadores ao serviço de empresas estabelecidas em Portugal, que sejam por estas destacados para exercerem actividade temporária em país estrangeiro por conta das mesmas entidades empregadoras, continuam sujeitos ao regime geral de segurança social enquanto durar o trabalho temporário a efectuar, nos termos do artigo anterior.\n\n2 - A manutenção do enquadramento obrigatório no regime geral de segurança social dos trabalhadores por conta de outrem é extensiva às entidades empregadoras dos trabalhadores destacados.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 109/93 - Diário da República n.º 151/1993, 4º Suplemento, Série I-A de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1993-490026), em vigor a partir de 1993-06-30"
+  },
+  "886138817": {
+   "fragment_id": "886137942",
+   "type": 11,
+   "heading": "Artigo 5.º — Trabalhadores destacados em Portugal",
+   "in_force_from": "1993-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 109/93 - Diário da República n.º 151/1993, 4º Suplemento, Série I-A de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1993-490026), em vigor a partir de 1993-06-30"
+   ],
+   "markdown": "###### Artigo 5.º — Trabalhadores destacados em Portugal\n\nOs trabalhadores que sejam destacados para exercerem actividade em Portugal, bem como as respectivas entidades empregadoras, são obrigatoriamente abrangidos pelo regime geral de segurança social, salvo se fizerem prova, junto do centro regional de segurança social que abranja o local do exercício de actividade, de que estão enquadrados por regime de protecção social obrigatório do país de envio.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 109/93 - Diário da República n.º 151/1993, 4º Suplemento, Série I-A de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1993-490026), em vigor a partir de 1993-06-30"
+  },
+  "886138818": {
+   "fragment_id": "886137943",
+   "type": 11,
+   "heading": "Artigo 6.º — Duração máxima do destacamento",
+   "in_force_from": "1993-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 109/93 - Diário da República n.º 151/1993, 4º Suplemento, Série I-A de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1993-490026), em vigor a partir de 1993-06-30"
+   ],
+   "markdown": "###### Artigo 6.º — Duração máxima do destacamento\n\n1 - A duração do destacamento em Portugal sem sujeição à legislação nacional de segurança social é de 12 meses, eventualmente prorrogável, por igual período, a requerimento da entidade empregadora do trabalhador.\n\n2 - No caso de ser previsível que a duração do trabalho temporário ultrapasse os 24 meses, pode ser requerida e concedida autorização especial, renovável anualmente, até à conclusão do mesmo.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 109/93 - Diário da República n.º 151/1993, 4º Suplemento, Série I-A de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1993-490026), em vigor a partir de 1993-06-30"
+  },
+  "886138819": {
+   "fragment_id": "886137945",
+   "type": 11,
+   "heading": "Artigo 8.º — Regresso temporário",
+   "in_force_from": "1993-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 109/93 - Diário da República n.º 151/1993, 4º Suplemento, Série I-A de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1993-490026), em vigor a partir de 1993-06-30"
+   ],
+   "markdown": "###### Artigo 8.º — Regresso temporário\n\nNos casos em que um trabalhador destacado regresse, com carácter temporário, ao país de envio, sem que se verifique a sua substituição por outro trabalhador, considera-se que há uma única situação de destacamento, pelo que há lugar à suspensão da contagem dos prazos previstos no artigo 6.º\n\n> Retificado pelo/a [Declaração de Rectificação n.º 109/93 - Diário da República n.º 151/1993, 4º Suplemento, Série I-A de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1993-490026), em vigor a partir de 1993-06-30"
+  },
+  "886138820": {
+   "fragment_id": "886137946",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigação contributiva",
+   "in_force_from": "1993-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 109/93 - Diário da República n.º 151/1993, 4º Suplemento, Série I-A de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1993-490026), em vigor a partir de 1993-06-30"
+   ],
+   "markdown": "###### Artigo 9.º — Obrigação contributiva\n\nOs trabalhadores destacados e as respectivas entidades empregadoras abrangidas, nos termos do presente diploma, pelo regime geral de segurança social, ficam obrigados a contribuir para o financiamento do regime, de acordo com as normas em vigor nesta matéria.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 109/93 - Diário da República n.º 151/1993, 4º Suplemento, Série I-A de 1993-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1993-490026), em vigor a partir de 1993-06-30"
+  },
+  "886138808": {
+   "fragment_id": "886137951",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de Dezembro de 1992. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.\n\nPromulgado em Setúbal em 5 de Fevereiro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 9 de Fevereiro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

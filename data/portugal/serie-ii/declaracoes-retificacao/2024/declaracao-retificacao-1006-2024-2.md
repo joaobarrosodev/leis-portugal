@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:897667142:por
+title: Declaração de Retificação n.º 1006/2024/2
+short_title: null
+summary: Retifica o Aviso n.º 20186/2024/2, relativo ao Regulamento de Organização dos Serviços Municipalizados de Transportes
+  Urbanos de Coimbra.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Serviços Municipalizados de Transportes Urbanos de Coimbra
+proposing_entity: null
+official_number: 1006/2024/2
+official_date: null
+publication_date: '2024-11-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 228/2024, Série II de 2024-11-25
+  number: '228'
+  series: II
+  supplement: null
+  pages: 450 - 451
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/11/228000000/0045000451.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '897667142'
+  dre_path: /dr/detalhe/declaracao-retificacao/1006-2024-897667142
+  internal: pt:dre:897667142:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1006-2024-897667142
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1006-2024-897667142
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:50:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 11515cf495d818066a00f459cff787949841b2bcb23d48ef570ae27cc85d9975
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:50:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:887311469:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:50:08Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 1006/2024/2
+
+Para os devidos efeitos, torna-se público que o [Aviso n.º 20186/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso/20186-2024-887311469), publicado no Diário da República, 2.ª série, n.º 175, de 10 de setembro de 2024, foi publicado com inexatidão, que assim se retifica:
+
+Onde se lê:
+
+«Artigo 1.º
+
+Identificação das unidades orgânicas flexíveis e unidades instrumentais de apoio
+
+1 - A estrutura flexível da organização interna dos SMTUC comporta 5 divisões, que correspondem a cargos de direção intermédia do 2.º grau e 6 unidades instrumentais de apoio que funcionam todas na dependência do Conselho de Administração (CA).
+
+2 - Unidades orgânicas flexíveis (dirigidas por Chefes de Divisão):
+
+a) Divisão de Serviços de Produção (DSP)
+
+b) Divisão de Equipamentos e Manutenção (DEM)
+
+c) Divisão de Serviços Financeiros (DSF)
+
+d) Divisão de Recursos Humanos (DRH)
+
+e) Divisão Comercial e Clientes (DCC)
+
+3 - Unidades instrumentais de apoio:
+
+a) Gabinete de Planeamento, Controlo e Gestão da Qualidade (PGQ);
+
+Artigo 3.º
+
+Divisão de Serviços de Equipamento
+
+1 - À Divisão de Equipamento e Manutenção (DEM),»
+
+deve ler-se:
+
+«Artigo 1.º
+
+Identificação das unidades orgânicas flexíveis e unidades instrumentais de apoio
+
+1 - A estrutura flexível da organização interna dos SMTUC comporta 5 divisões, que correspondem a cargos de direção intermédia do 2.º grau e 6 unidades instrumentais de apoio que funcionam todas na dependência do Conselho de Administração (CA).
+
+2 - Unidades orgânicas flexíveis (dirigidas por Chefes de Divisão):
+
+a) Divisão de Serviços de Produção (DSP)
+
+b) Divisão de Equipamentos e Manutenção (DEM)
+
+c) Divisão de Serviços Financeiros (DSF)
+
+d) Divisão de Recursos Humanos (DRH)
+
+e) Divisão Comercial e Clientes (DCC)
+
+3 - Unidades instrumentais de apoio:
+
+a) Gabinete de Planeamento, Controlo e Gestão da Qualidade (PCQ);
+
+Artigo 3.º
+
+Divisão de Equipamentos e Manutenção
+
+1 - À Divisão de Equipamentos e Manutenção (DEM),»
+
+11 de outubro de 2024. - O Presidente do Conselho de Administração, Jorge Miguel da Silva de Jesus.
+
+318220726

@@ -1,0 +1,562 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975R1365:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R1365-20050804",
+ "dre_path": null,
+ "source_lastmod": "2005-08-04",
+ "versions": [
+  {
+   "date": "1975-05-30",
+   "future": false,
+   "celex": "31975R1365",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889e53d745033d53",
+    "b1a55a282048b91d",
+    "4692f687d7320459",
+    "644899b3958d03f0",
+    "f0b70e4927370762",
+    "c745ab6ddca5850e",
+    "d4edcb9e5a219348",
+    "081898668f56f7e8",
+    "8a4566e72af4f42d",
+    "ce74e025ceffc984",
+    "6b948ad00eae1ea4",
+    "faf722df40fc8e3b",
+    "62c0dfa80d9756ad",
+    "cc4d81f6c9367bb1",
+    "f83d8dc16a59ebd1",
+    "1edfb9722ea2abce",
+    "8a19fab3b8321005",
+    "565109893f71cd15",
+    "a1bd733546110197",
+    "2adfa019017d5b65",
+    "685cd29b03c21eef",
+    "b7f0429c13a66871",
+    "cd2507434f2a5228",
+    "8b1b84e12bc1b46b"
+   ]
+  },
+  {
+   "date": "2005-08-04",
+   "future": false,
+   "celex": "01975R1365-20050804",
+   "acts": [
+    {
+     "id": "eu:celex:31993R1947:por",
+     "title": "M1",
+     "published": null,
+     "celex": "31993R1947"
+    },
+    {
+     "id": "eu:celex:32003R1649:por",
+     "title": "REGULAMENTO (CE) N. o 1649/2003 DO CONSELHO de 18 de Junho de 2003",
+     "published": null,
+     "celex": "32003R1649"
+    },
+    {
+     "id": "eu:celex:32005R1111:por",
+     "title": "REGULAMENTO (CE) N. o 1111/2005 DO CONSELHO de 24 de Junho de 2005",
+     "published": null,
+     "celex": "32005R1111"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "A3",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 18.ºA",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita Artigo 21.º",
+    "Adita Artigo 22.º",
+    "Adita Artigo 23.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o",
+    "Suprime Artigo 20o",
+    "Suprime Artigo 21o",
+    "Suprime Artigo 22o",
+    "Suprime Artigo 23o"
+   ],
+   "fragments": [
+    "2965913667baf9a3",
+    "ddf4e7f276f11bec",
+    "8b54bfb492c0a2d9",
+    "8de4c1c8a8a986db",
+    "dcb71c505462534f",
+    "1809354826ea45e5",
+    "e4fb99222b2ccb0c",
+    "f4f98d382e0737b6",
+    "61399aa74fb9b87c",
+    "46a9a147fe7b20af",
+    "365c3dcd135b624d",
+    "e39b61eaaf6e1849",
+    "220aa58c7ec09e32",
+    "e9cf0cfd6ceb7193",
+    "82a4c6bb7129c9c4",
+    "552dddefbf2346a3",
+    "f0bc65979ba54c3a",
+    "a7363e723ef1cbd0",
+    "46fd4ff0cd6ed61f",
+    "b53236d57ebd7174",
+    "405d8c8fb0774b1c",
+    "53936ca5eea25d89",
+    "0b760e15f3e00089",
+    "ec14fb594b820ee9",
+    "f453bf6ad9ccd096"
+   ]
+  }
+ ],
+ "fragments": {
+  "889e53d745033d53": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 1365/75 do Conselho, de 26 de Maio de 1975, relativo à criação de uma Fundação Europeia para a melhoria das condições de vida e de trabalho** *Jornal Oficial nº L 139 de 30/05/1975 p. 0001 - 0004 Edição especial grega: Capítulo 05 Fascículo 2 p. 0046 Edição especial espanhola: Capítulo 15 Fascículo 1 p. 0081 Edição especial portuguesa: Capítulo 15 Fascículo 1 p. 0081 Edição especial finlandesa: Capítulo 15 Fascículo 1 p. 0221 Edição especial sueca: Capítulo 15 Fascículo 1 p. 0221*\n\nREGULAMENTO (CEE) No 1365/75 DO CONSELHO de 26 de Maio de 1975 relativo à criação de uma Fundação Europeia para a melhoria das condições de vida e de trabalho\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que a melhoria das condições de vida e de trabalho na sociedade moderna levanta problemas cada vez mais numerosos e de uma crescente complexidade; que é importante que as acções a empreender na Comunidade nessa matéria, possam ser fundamentadas em bases científicas interdisciplinares e que, simultaneamente, é importante associar os parceiros sociais às acções assim empreendidas;\n\nConsiderando que a Comunidade não pode neste momento efectuar análises, estudos e reflexões que permitam uma abordagem científica sistemática destes problemas;\n\nConsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente (3) prevê que as instituições comunitárias deveriam dotar-se de um órgão capaz de inventariar os elementos que, através dos seus efeitos combinados, afectam as condições de vida e de trabalho, e de realizar o estudo prospectivo dos factores que podem ameaçar as condições de existência e dos factores que as podem melhorar;\n\nConsiderando que a Resolução do Conselho, de 21 de Janeiro de 1974, relativa a um programa de acção social (4), prevé, nomeadamente, um programa de acção em prol dos trabalhadores com o objectivo de humanizar as condições de vida e de trabalho;\n\nConsiderando que a instituição de uma Fundação é necessária para a realização dos objectivos da Comunidade nos domínios da melhoria das condições de vida e de trabalho;\n\nConsiderando que os poderes de acção específicos exigidos para a criação desta Fundação não foram previstos no Tratado;\n\nConsiderando que a Fundação é criada no âmbito das Comunidades Europeias e actua no respeito do direito comunitário; que é oportuno determinar as condições em que se aplicam certas disposições de alcance geral,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "b1a55a282048b91d": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nE instituída uma Fundação Europeia para a melhoria das condições de vida e de trabalho, a seguir denominada «Fundação»."
+  },
+  "4692f687d7320459": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. A Fundação tem por missão contribuir para a concepção e o estabelecimento de melhores condições de vida e de trabalho através de uma acção com vista a desenvolver e difundir os conhecimentos que contribuam para tal evolução.\n\n2. Nesta perspectiva, são tarefas da Fundação desenvolver e aprofundar, à luz da experiência prática, as reflexões sobre a melhoria do meio de vida e das condições de trabalho a médio e a longo prazo e identificar os factores de mudança. Na execução das suas tarefas, a Fundação terá em conta as políticas comunitárias nestes domínios e elucidará as instituições da Comunidade sobre os objectivos e orientações a considerar, transmitindo-lhes, nomeadamente, conhecimentos científicos e dados técnicos.\n\n3. No âmbito da melhoria das condições de vida e de trabalho ocupar-se-á, em especial, das seguintes questões, esforçando-se por estabelecer prioridades:\n\n- a condição do homem no trabalho,\n\n- a organização do trabalho e, nomeadamente, a concepção dos postos de trabalho,\n\n- os problemas específicos de determinadas categorias de trabalhadores,\n\n- os aspectos, a longo prazo, da melhoria do ambiente,\n\n- a repartição no espaço das actividades humanas e a sua distribuição no tempo."
+  },
+  "644899b3958d03f0": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Para a realização da sua missão, a Fundação favorecerá a troca de informações e de experiências nestes domínios e instalaá, se necessário, um sistema de informação e documentação. Pode, nomeadamente:\n\na) Facilitar os contactos entre as universidades, institutos de estudo e de investigação, administrações e organizações da vida económica e social e fomentar acções concertadas;\n\nb) Criar grupos de trabalho;\n\nc) Celebrar contratos de estudo, participar em estudos, promover e contribuir para a realização de projectos-piloto e, quando necessário, realizar ela própria determinados estudos;\n\nd) Organizar cursos, conferências e seminários.\n\n2. A Fundação colaborará o mais estreitamente possível com os institutos, fundações e organismos especializados existentes nos Estados-membros ou a nível internacional."
+  },
+  "f0b70e4927370762": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. A Fundação é um organismo sem fins lucrativos. É dotada, em todos os Estados-membros, da mais ampla capacidade jurídica, reconhecida às pessoas colectivas.\n\n2. A Fundação terá a sua sede na Irlanda."
+  },
+  "c745ab6ddca5850e": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nA Fundação compreenderá:\n\n- um Conselho de Administração,\n\n- um director e um director adjunto,\n\n- um comité de peritos."
+  },
+  "d4edcb9e5a219348": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O Conselho de Administração é composto por trinta membros, dos quais:\n\na) Nove membros representam os governos dos Estados-membros;\n\nb) Nove membros representam as organizações das entidades patronais;\n\nc) Nove membros representam as organizações de trabalhadores;\n\nd) Três membros representam a Comissão.\n\n2. Os membros referidos nas alíneas a), b) e c) serão nomeados pelo Conselho na proporção de um por Estado-membro e para cada uma das categorias mencionadas. O Conselho nomeará, ao mesmo tempo, e nas mesmas condições que as válidas para os membros efectivos, um membro suplente que apenas participará nas reuniões do Conselho de Administração em caso de ausência do membro efectivo. Os membros efectivos e suplentes que representam a Comissão serão por ela nomeados.\n\n3. A nomeação dos membros do Conselho de Administração é feita por um período de três anos. Os membros podem ser novamente nomeados. Findo o período de nomeação ou em caso de demissão, os membros permanecerão em funções até que se proceda à sua nova nomeação ou à sua substituição.\n\n4. O Conselho de Administração designará, de entre os seus membros, o seu presidente e três vice-presidentes, por um período de um ano.\n\n5. O presidente convocará o Conselho de Administração pelo menos duas vezes por ano e a pedido de pelo menos um terço dos seus membros.\n\n6. As decisões do Conselho de Administração serão tomadas por maioria absoluta dos seus membros."
+  },
+  "081898668f56f7e8": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. O Conselho de Administração gere a Fundação, determinando as orientações, apões parecer do Comité de Peritos. Com base num projecto apresentado pelo director, o Conselho de Administração adoptará, de acordo com a Comissão, o programa de trabalho.\n\n2. Adoptará o regulamento interno, que entrará em vigor quando o Conselho o aprovar após parecer da Comissão.\n\n3. Decidirá da aceitação de todos os legados, donativos e subvenções provenientes de outras fontes que não a Comunidade."
+  },
+  "8a4566e72af4f42d": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O director da Fundação e o director adjunto serão nomeados pela Comissão, com base numa lista de candidatos apresentada pelo Conselho de Administração.\n\n2. O director e o director adjunto serão escolhidos com base na competência e devem oferecer todas as garantias de independência.\n\n3. O director e o director adjunto serão nomeados por um período máximo de cinco anos. Podem ser novamente nomeados."
+  },
+  "ce74e025ceffc984": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. O director dirigirá a Fundação e executará as decisões tomadas pelo Conselho de Administração. Assegurará a representação jurídica da Fundação.\n\n2. No âmbito das disposições aplicáveis ao pessoal, o director terá autoridade sobre o pessoal da Fundação que contrata, demite e, para o qual, determina as qualificações requeridas.\n\n3. O director preparará os trabalhos do Conselho de Administração. O director, o director adjunto ou ambos participarão nas reuniões deste Conselho.\n\n4. O director informará o Conselho de Administração da execução das suas funções."
+  },
+  "6b948ad00eae1ea4": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. O Comité de Peritos é composto por doze membros, nomeados pelo Conselho sob proposta da Comissão, escolhidos nos meios científicos e noutros meios relacionados com a actividade da Fundação.\n\n2. Ao elaborar a sua proposta, a Comissão terá em conta as considerações seguintes:\n\n- a manutenção de um equilíbrio entre os dois aspectos complementares da Fundação, ou seja, as condições de vida e as condições de trabalho,\n\n- a obtenção do melhor apoio científico e técnico possível,\n\n- a participação de pelo menos um nacional de cada Estado-membro.\n\n3. Os membros do Comité de Peritos são nomeados por um período de três anos, podendo ser reconduzidos nas suas funções."
+  },
+  "faf722df40fc8e3b": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. O Comité de Peritos terá como missão formular pareceres aos outros órgãos da Fundação em todos os domínios da competência daquela, seja a pedido do director, seja por iniciativa própria. Todos os pareceres, incluindo o parecer dirigido ao director para elaboração do programa de trabalho referido no artigo 12o, deverão ser comunicados simultaneamente ao director e ao Conselho de Administração.\n\n2. O Comité elegerá um presidente de entre os seus membros e estabelecerá o seu regulamento interno.\n\n3. O Comité reunir-se-á por convocação do seu presidente com o acordo do director. As reuniões realizar-se-ao pelo menos duas vezes por ano e a pedido de pelo menos sete dos seus membros."
+  },
+  "62c0dfa80d9756ad": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. O director estabelecerá, antes do dia 1 de Julho de cada ano, o programa anual de trabalho, com base nas orientações referidas no artigo 7o. O programa anual faz parte dum programa rotativo que abrange um período de quatro anos. As acções inseridas no programa anual serão acompanhadas de uma estimativa das despesas necessárias.\n\nAquando da elaboração deste programa, o director tomará em consideração os pareceres do Comité de Peritos bem como os pareceres apresentados pelas instituições comunitárias e pelo Comité Económico e Social.\n\nPara o efeito, e para evitar duplicação de trabalho, as instituições comunitárias e o Comité Económico e Social comunicarão à Fundação as suas necessidades bem como, na medida do possível, os estudos e trabalhos que fazem parte das suas actividades.\n\n2. O director transmitirá o programa de trabalho, ao Conselho de Administração, para aprovação."
+  },
+  "cc4d81f6c9367bb1": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\n1. O director preparará, o mais tardar até ao dia 31 de Março de cada ano, um relatório geral sobre as actividades, a situação financeira e as perspectivas da Fundação e submetê-lo-á ao Conselho de Administração.\n\n2. Após adopção pelo Conselho de Administração, o director comunicará o relatório geral às instituições comunitárias e ao Comité Económico e Social."
+  },
+  "f83d8dc16a59ebd1": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nO Conselho de Administração estabelecerá, para cada exercício orçamental, que coincide com o ano civil, um mapa das receitas e das despesas, que deve ser equilibrado."
+  },
+  "1edfb9722ea2abce": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\n1. Todos os anos, o Conselho de Administração comunicará à Comissão, o mais tardar até ao dia 31 de Março, uma previsão das receitas e despesas. Esta previsão, que inclui um quadro dos efectivos, será transmitida pela Comissão ao Conselho com o anteprojecto de orçamento das Comunidades Europeias.\n\n2. Uma subvenção destinada à Fundação será inscrita, todos os anos, no orçamento das Comunidades Europeias numa rubrica orçamental específica.\n\nO processo em vigor para as transferências das dotações de capítulo para capítulo aplicar-se-á à dotação relativa a esta subvenção.\n\nA autoridade orçamental fixará o quadro do pessoal da Fundação.\n\n3. O Conselho de Administração adoptará o mapa das receitas e despesas antes do início do exercício orçamental, adaptando-o à subvenção atribuída pela autoridade orçamental. O mapa assim adoptado é transmitido pela Comissão à autoridade orçamental."
+  },
+  "8a19fab3b8321005": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\n1. As disposições financeiras aplicáveis à Fundação são adoptadas nos termos do artigo 209o do Tratado.\n\n2. Todos os anos, o mais tardar no dia 31 de Março, o Conselho de Administração dirigirá à Comissão e à Comissão de Fiscalização as contas da totalidade das receitas e das despesas da Fundação relativas ao último exercício. A Comissão de Fiscalização examiná-las-á nas condições previstas no segundo parágrafo do artigo 206o do Tratado.\n\n3. As contas e o relatório da Comissão de Fiscalização assim como as observações da Comissão serão submetidos ao Conselho e ao Parlamento Europeu pela Comissão o mais tardar no dia 31 de Outubro. O Conselho e o Parlamento darão quitação ao Conselho de Administração da Fundação segundo os processos previstos no quarto parágrafo do artigo 206o do Tratado.\n\n4. A fiscalização da autorização e do pagamento de todas as despesas assim como a fiscalização do apuramento e da cobrança de todas as receitas da Fundação serão exercidas pelo auditor financeiro da Comissão."
+  },
+  "565109893f71cd15": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\nAs disposições relativas ao pessoal da Fundação serão adoptadas pelo Conselho, sob proposta da Comissão."
+  },
+  "a1bd733546110197": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nOs membros do Conselho de Administração, o director, o director adjunto e os membros do pessoal bem como qualquer pessoa que participe nas actividades da Fundação não devem, mesmo após a cessação das suas funções, divulgar as informações que, pela sua natureza, estejam abrangidas pelo segredo profissional."
+  },
+  "2adfa019017d5b65": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nÉ aplicável à Fundação o regime linguístico das Comunidades Europeias."
+  },
+  "685cd29b03c21eef": {
+   "fragment_id": "Artigo 20o",
+   "type": "artigo",
+   "heading": "Artigo 20o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20o\n\nÉ aplicável à Fundação o protocolo sobre os privilégios e imunidades das Comunidades Europeias."
+  },
+  "b7f0429c13a66871": {
+   "fragment_id": "Artigo 21o",
+   "type": "artigo",
+   "heading": "Artigo 21o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21o\n\n1. A responsabilidade contratual da Fundação será regulada pela lei aplicável ao contrato em causa.\n\nO Tribunal de Justiça das Comunidades Europeias é competente para decidir com fundamento em cláusula compromissória contida num contrato concluído pela Fundação.\n\n2. Em matéria de responsabilidade não contratual, a Fundação deve reparar, em conformidade com os princípios gerais comuns aos direitos dos Estados-membros, os danos causados pela Fundação ou pelos seus agentes no exercício das suas funções.\n\nO Tribunal de Justiça das Comunidades Europeias é competente para conhecer dos litígios relativos à reparação destes danos.\n\n3. A responsabilidade pessoal dos agentes para com a Fundação será regulada pelas disposições relativas ao pessoal da Fundação."
+  },
+  "cd2507434f2a5228": {
+   "fragment_id": "Artigo 22o",
+   "type": "artigo",
+   "heading": "Artigo 22o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22o\n\nQualquer acto, implícito ou explícito, da Fundação, poderá ser submetido à Comissão por qualquer Estado-membro, qualquer membro do Conselho de Administração ou qualquer terceira pessoa directa e individualmente visada, tendo em vista o controlo da sua legalidade.\n\nDeve recorrer-se à Comissão num prazo de quinze dias a contar do dia em que o interessado teve conhecimento do acto impugnado.\n\nA Comissão tomará uma decisão no prazo de um mês. A ausência de decisão, dentro desse prazo, tem o valor de decisão tácita de rejeição."
+  },
+  "8b1b84e12bc1b46b": {
+   "fragment_id": "Artigo 23o",
+   "type": "artigo",
+   "heading": "Artigo 23o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23o\n\nO presente regulamento entra em vigor no terceiro dia a contar da data da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito no Luxemburgo em 26 de Maio de 1975.\n\nPelo Conselho\n\nO Presidente\n\nM. A. CLINTON\n\n(1) JO no C 76 de 3. 7. 1974, p. 33.(2) JO no C 109 de 19. 9. 1974, p. 37.(3) JO no C 112 de 20. 12. 1973, p. 3.(4) JO no C 13 de 12. 2. 1974, p. 1."
+  },
+  "2965913667baf9a3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Maio de 1975\n\nrelativo à criação de uma Fundação Europeia para a melhoria das condições de vida e de trabalho\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#E0002)),\n\nConsiderando que a melhoria das condições de vida e de trabalho na sociedade moderna levanta problemas cada vez mais numerosos e de uma crescente complexidade; que é importante que as acções a empreender na Comunidade nessa matéria, possam ser fundamentadas em bases científicas interdisciplinares e que, simultaneamente, é importante associar os parceiros sociais às acções assim empreendidas;\n\nConsiderando que a Comunidade não pode neste momento efectuar análises, estudos e reflexões que permitam uma abordagem científica sistemática destes problemas;\n\nConsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente ([^3^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#E0003)) prevê que as instituições comunitárias deveriam dotar-se de um órgão capaz de inventariar os elementos que, através dos seus efeitos combinados, afectam as condições de vida e de trabalho, e de realizar o estudo prospectivo dos factores que podem ameaçar as condições de existência e dos factores que as podem melhorar;\n\nConsiderando que a Resolução do Conselho, de 21 de Janeiro de 1974, relativa a um programa de acção social ([^4^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#E0004)), prevê, nomeadamente, um programa de acção em prol dos trabalhadores com o objectivo de humanizar as condições de vida e de trabalho;\n\nConsiderando que a instituição de uma Fundação é necessária para a realização dos objectivos da Comunidade nos domínios da melhoria das condições de vida e de trabalho;\n\nConsiderando que os poderes de acção específicos exigidos para a criação desta Fundação não foram previstos no Tratado;\n\nConsiderando que a Fundação é criada no âmbito das Comunidades Europeias e actua no respeito do direito comunitário; que é oportuno determinar as condições em que se aplicam certas disposições de alcance geral,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "ddf4e7f276f11bec": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nE instituída uma Fundação Europeia para a melhoria das condições de vida e de trabalho, a seguir denominada «Fundação»."
+  },
+  "8b54bfb492c0a2d9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A Fundação tem por missão contribuir para a concepção e o estabelecimento de melhores condições de vida e de trabalho através de uma acção com vista a desenvolver e difundir os conhecimentos que contribuam para tal evolução.\n\n2. Nesta perspectiva, são tarefas da Fundação desenvolver e aprofundar, à luz da experiência prática, as reflexões sobre a melhoria do meio de vida e das condições de trabalho a médio e a longo prazo e identificar os factores de mudança. Na execução das suas tarefas, a Fundação terá em conta as políticas comunitárias nestes domínios e elucidará as instituições da Comunidade sobre os objectivos e orientações a considerar, transmitindo-lhes, nomeadamente, conhecimentos científicos e dados técnicos.\n\n3. No âmbito da melhoria das condições de vida e de trabalho ocupar-se-á, em especial, das seguintes questões, esforçando-se por estabelecer prioridades:\n\n— a condição do homem no trabalho,\n\n— a organização do trabalho e, nomeadamente, a concepção dos postos de trabalho,\n\n— os problemas específicos de determinadas categorias de trabalhadores,\n\n— os aspectos, a longo prazo, da melhoria do ambiente,\n\n— a repartição no espaço das actividades humanas e a sua distribuição no tempo."
+  },
+  "8de4c1c8a8a986db": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Para a realização da sua missão, a Fundação favorecerá a troca de informações e de experiências nestes domínios e instalará, se necessário, um sistema de informação e documentação. Pode, nomeadamente:\n\na) Facilitar os contactos entre as universidades, institutos de estudo e de investigação, administrações e organizações da vida económica e social e fomentar acções concertadas;\n\nb) Criar grupos de trabalho;\n\nc) Celebrar contratos de estudo, participar em estudos, promover e contribuir para a realização de projectos-piloto e, quando necessário, realizar ela própria determinados estudos;\n\nd) Organizar cursos, conferências e seminários.\n\n2. A Fundação colaborará o mais estreitamente possível com as instituições, fundações e organismos especializados existentes nos Estados-Membros e a nível internacional. Em especial assegurará a devida cooperação com a Agência Europeia para a Segurança e a Saúde no Trabalho, sem prejuízo dos seus próprios objectivos."
+  },
+  "dcb71c505462534f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A Fundação é um organismo sem fins lucrativos. É dotada, em todos os Estados-membros, da mais ampla capacidade jurídica, reconhecida às pessoas colectivas.\n\n2. A Fundação terá a sua sede na Irlanda."
+  },
+  "1809354826ea45e5": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA estrutura de direcção e de gestão da Fundação é constituída por:\n\na) Conselho de Direcção;\n\nb) Mesa;\n\nc) director e director-adjunto."
+  },
+  "e4fb99222b2ccb0c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O Conselho de Direcção é composto por:\n\na) Um membro em representação dos governos de cada Estado-Membro;\n\nb) Um membro em representação das organizações patronais de cada Estado-Membro;\n\nc) Um membro em representação das organizações de trabalhadores de cada Estado-Membro;\n\nd) Três membros em representação da Comissão.\n\n2. Os membros referidos nas alíneas a), b) e c) do n.º 1 são nomeados pelo Conselho, na proporção de um por Estado-Membro e para cada uma das categorias acima referidas. Simultaneamente e em condições idênticas às aplicáveis aos membros efectivos, o Conselho nomeia um membro suplente, que apenas participará nas reuniões do Conselho de Direcção em caso de ausência do membro efectivo.\n\nOs membros efectivos e suplentes que representam a Comissão são por ela nomeados, tendo em conta a necessidade de uma representação equilibrada entre homens e mulheres.\n\nAo apresentarem as listas de candidatos, os Estados-Membros, as organizações patronais e as organizações de trabalhadores procurarão assegurar uma representação equilibrada entre homens e mulheres na composição do Conselho de Direcção.\n\nA lista dos membros do Conselho de Direcção será publicada pelo Conselho no *Jornal Oficial da União Europeia* e pela Fundação na sua página na internet.\n\n3. A duração dos mandatos dos membros do Conselho de Direcção é de três anos. Estes mandatos são renováveis.\n\nFindo o mandato ou em caso de demissão, os membros permanecem em funções até que se proceda à renovação do respectivo mandato ou à sua substituição.\n\n4. O Conselho de Direcção elege o seu presidente e três vice-presidentes pelo período renovável de um ano; destes quatro cargos, três serão ocupados por membros de cada um dos três grupos referidos no n.º 7 e o restante por um dos representantes da Comissão.\n\n5. O presidente convoca o Conselho de Direcção pelo menos uma vez por ano. Convoca, além disso, reuniões adicionais a pedido de pelo menos um terço dos membros do Conselho de Direcção.\n\n6. As decisões do Conselho de Direcção são tomadas por maioria absoluta dos seus membros.\n\n7. No Conselho de Direcção, serão constituídos grupos de representantes dos governos, das organizações patronais e das organizações de trabalhadores. Cada grupo deve designar um coordenador, que participará nas reuniões do Conselho de Direcção. Os coordenadores dos grupos dos trabalhadores e dos empregadores devem ser representantes das respectivas organizações a nível europeu. Os coordenadores que não sejam nomeados membros do Conselho de Direcção na acepção do n.º 1 participam nas reuniões sem direito de voto.\n\n8. O Conselho de Direcção deve instituir uma Mesa, composta por 11 membros. A Mesa será composta pelo presidente e pelos três vice-presidentes do Conselho de Direcção, por um coordenador por cada um dos grupos referidos no n.º 7 e por mais um representante de cada grupo e da Comissão. Cada grupo pode designar até três membros suplentes, que participarão nas reuniões da Mesa em caso de ausência dos membros efectivos.\n\n9. O número anual de reuniões da Mesa é decidido pelo Conselho de Direcção. O presidente da Mesa convoca reuniões adicionais a pedido dos seus membros.\n\n10. As decisões da Mesa são tomadas por consenso. Se não for possível chegar a uma decisão consensual, a Mesa deve remeter a questão para o Conselho de Direcção, para que seja este a decidir.\n\n11. O Conselho de Direcção será plena e imediatamente informado das actividades da Mesa e das decisões por ela tomadas."
+  },
+  "f4f98d382e0737b6": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O Conselho de Direcção dirige a Fundação, cujas orientações estabelece. Com base num projecto apresentado pelo director e de acordo com a Comissão, o Conselho de Direcção aprova o programa anual de trabalho da Fundação e um programa rotativo de quatro anos.\n\n2. Uma vez na posse do parecer da Comissão, o Conselho de Direcção aprovará o seu regulamento interno, do qual constarão as disposições práticas que irão reger as suas actividades. O regulamento interno será transmitido, para informação, ao Parlamento Europeu e ao Conselho. Todavia, no prazo de três meses a contar da sua transmissão e deliberando por maioria simples, o Conselho pode alterar esse regulamento.\n\n3. Decidirá da aceitação de todos os legados, donativos e subvenções provenientes de outras fontes que não a Comunidade.\n\n4. Sem prejuízo das atribuições do director previstas nos artigos 8.º e 9.º, a Mesa, em conformidade com a delegação de competências que lhe é conferida pelo Conselho de Direcção, supervisionará a execução das decisões do Conselho de Direcção e tomará todas as medidas necessárias à gestão correcta da Fundação entre as reuniões do Conselho de Direcção. O Conselho de Direcção não pode delegar na Mesa as competências referidas nos artigos 12.º e 15.º"
+  },
+  "61399aa74fb9b87c": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O director da Fundação e o director adjunto serão nomeados pela Comissão, com base numa lista de candidatos apresentada pelo [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄**.\n\n2. O director e o director adjunto serão escolhidos com base na competência e devem oferecer todas as garantias de independência.\n\n3. O director e o director adjunto serão nomeados por um período máximo de cinco anos. Podem ser novamente nomeados."
+  },
+  "46a9a147fe7b20af": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O director é responsável pela gestão da Fundação, bem como pela execução das decisões e programas aprovados pelo Conselho de Direcção e pela Mesa. O director é o representante legal da Fundação.\n\n2. Sem prejuízo do n.º 1 do artigo 8.º, o director exerce os poderes referidos no n.º 1 do artigo 17.º\n\n3. Compete ao director preparar as actividades do Conselho de Direcção e da Mesa. O director, ou o director-adjunto ou ambos participarão nas reuniões do Conselho de Direcção e da Mesa.\n\n4. O director é responsável perante o Conselho de Direcção pela gestão da Fundação."
+  },
+  "365c3dcd135b624d": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nCom base numa proposta do director, o Conselho de Direcção pode seleccionar peritos independentes e solicitar o seu parecer sobre questões específicas relativas ao programa rotativo de quatro anos e ao programa anual de trabalho."
+  },
+  "e39b61eaaf6e1849": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Antes de 1 de Julho de cada ano, o director estabelecerá o programa anual de trabalho, com base nas orientações referidas no artigo 7.º. O programa anual de trabalho faz parte de um programa rotativo de quatro anos. As acções inseridas no programa anual de trabalho serão acompanhadas de uma estimativa das despesas necessárias.\n\nAo elaborar os programas, o director tomará em consideração os pareceres das instituições comunitárias e do Comité Económico e Social Europeu.\n\nPara o efeito, e para evitar duplicação de trabalho, as instituições comunitárias e o Comité Económico e Social comunicarão à Fundação as suas necessidades bem como, na medida do possível, os estudos e trabalhos que fazem parte das suas actividades.\n\n2. O director transmitirá os programas ao Conselho de Direcção, para aprovação."
+  },
+  "220aa58c7ec09e32": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. O [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄** aprovará o relatório anual de actividades e perspectivas da Fundação e transmiti-lo-á, até 15 de Junho, ao Parlamento Europeu, ao Conselho, à Comissão, ao Comité Económico e Social Europeu e ao Tribunal de Contas.\n\n2. A Fundação transmitirá anualmente à autoridade orçamental todas as informações pertinentes sobre os resultados dos processos de avaliação."
+  },
+  "e9cf0cfd6ceb7193": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Todas as receitas e despesas da Fundação serão objecto de previsões para cada exercício orçamental, que coincide com o ano civil, e serão inscritas no orçamento da Fundação, que inclui um quadro de pessoal.\n\n2. O orçamento da Fundação deverá respeitar o equilíbrio entre receitas e despesas."
+  },
+  "82a4c6bb7129c9c4": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. O [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄** elaborará anualmente, com base num projecto elaborado pelo director, o mapa previsional das receitas e despesas da Fundação para o exercício seguinte. Este mapa previsional, que incluirá um projecto de quadro de pessoal, será transmitido pelo [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄** à Comissão, até 31 de Março.\n\n2. A Comissão transmitirá o mapa previsional ao Parlamento Europeu e ao Conselho (a seguir designados «autoridade orçamental»), juntamente com o anteprojecto de orçamento geral da União Europeia.\n\n3. Com base no mapa previsional, a Comissão procederá à inscrição, no anteprojecto de orçamento geral da União Europeia, das previsões que considere necessárias no que respeita ao quadro de pessoal e ao montante da subvenção a cargo do orçamento geral, que submeterá à apreciação da autoridade orçamental nos termos do disposto no artigo 272.º do Tratado.\n\n4. A autoridade orçamental autorizará as dotações a título da subvenção destinada à Fundação.\n\nA autoridade orçamental aprovará o quadro de pessoal da Fundação.\n\n5. O orçamento da Fundação será aprovado pelo [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄**, tornando-se definitivo após a aprovação definitiva do orçamento geral da União Europeia. O orçamento será adaptado em conformidade, se for caso disso.\n\n6. O [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄** notificará, com a maior brevidade, a autoridade orçamental da sua intenção de realizar qualquer projecto susceptível de ter incidências financeiras significativas sobre o financiamento do orçamento, nomeadamente os projectos de natureza imobiliária, tais como o arrendamento ou a aquisição de imóveis. Do facto informará a Comissão.\n\nSempre que um ramo da autoridade orçamental tiver comunicado a sua intenção de emitir um parecer, transmiti-lo-á ao [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄** no prazo de seis semanas a contar da notificação do projecto."
+  },
+  "552dddefbf2346a3": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Após consulta à Comissão, o [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄** aprovará a regulamentação financeira aplicável à Fundação. Esta regulamentação só poderá divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^5^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#E0005)), se as exigências específicas do funcionamento da Fundação o impuserem e desde que a Comissão dê previamente o seu acordo.\n\n2. O director executará o orçamento da Fundação.\n\n3. Até ao dia 1 de Março seguinte ao exercício encerrado, o contabilista da Fundação comunicará ao contabilista da Comissão as contas provisórias acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Comissão consolidará as contas provisórias das instituições e dos organismos descentralizados nos termos do disposto no artigo 128.º do Regulamento Financeiro Geral.\n\n4. Até ao dia 31 de Março seguinte ao exercício encerrado, o contabilista da Comissão transmitirá ao Tribunal de Contas as contas provisórias da Fundação, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O relatório sobre a gestão orçamental e financeira do exercício será igualmente transmitido ao Parlamento Europeu e ao Conselho.\n\n5. Após recepção das observações formuladas pelo Tribunal de Contas relativamente às contas provisórias da Fundação, nos termos do disposto no artigo 129.º do Regulamento Financeiro Geral, o director elaborará as contas definitivas da Fundação, sob sua própria responsabilidade, e transmiti-las-á, para parecer, ao [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄**.\n\n6. O [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄** emitirá um parecer sobre as contas definitivas da Fundação.\n\n7. O director transmitirá ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas, acompanhadas do parecer do [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄**, até ao dia 1 de Julho seguinte ao exercício encerrado.\n\n8. As contas definitivas serão publicadas.\n\n9. O director enviará ao Tribunal de Contas uma resposta às observações deste último, até 30 de Setembro. Enviará igualmente esta resposta ao [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄**.\n\n10. O director submeterá à apreciação do Parlamento Europeu, a pedido deste último, tal como previsto no n.º 3 do artigo 146.º do Regulamento Financeiro Geral, qualquer informação necessária ao bom desenrolar do processo de quitação relativamente ao exercício em causa.\n\n11. Sob recomendação do Conselho, deliberando por maioria qualificada, o Parlamento Europeu dará ao director, antes de 30 de Abril do ano N + 2, quitação da execução do orçamento do exercício N."
+  },
+  "f0bc65979ba54c3a": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O pessoal da Fundação recrutado após 4 de Agosto de 2005 ficará sujeito ao Estatuto dos funcionários das Comunidades Europeias ou ao regime aplicável aos outros Agentes das Comunidades (ROA), fixados no Regulamento (CEE, Euratom, CECA) n.º 259/68 ([^6^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#E1003)). Será aplicável a secção 2 do anexo XIII do Estatuto dos funcionários.\n\n2. Considera-se que os contratos de trabalho celebrados pela Fundação e pelos membros do seu pessoal ao abrigo do Regulamento (CECA, CEE, Euratom) n.º 1860/76 ([^7^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#E1004)) antes de 4 de Agosto de 2005 foram celebrados ao abrigo da alínea a) do artigo 2.º do ROA. A partir dessa data, são aplicáveis a esses contratos as disposições das secções 1, 3 e 4 — com excepção do n.º 2 do artigo 22.º — do anexo XIII do Estatuto dos funcionários.\n\nOs membros do pessoal têm direito a rescindir a seu contrato na mesma data, sem terem de respeitar o prazo de pré-aviso previsto no artigo 45.º do Regulamento (CECA, CEE, Euratom) n.º 1860/76. Para efeitos das compensações a prestar aquando da rescisão do contrato e do subsídio de desemprego, considerar-se-á que a rescisão resulta de uma acção da Fundação.\n\n3. Em relação ao seu pessoal, a Fundação exerce os poderes conferidos à autoridade competente para proceder a nomeações ou, eventualmente, à autoridade habilitada para celebrar contratos.\n\n4. De acordo com a Comissão, o Conselho de Direcção aprovará as normas de execução apropriadas."
+  },
+  "a7363e723ef1cbd0": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs membros do [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄**, o director, o director adjunto e os membros do pessoal bem como qualquer pessoa que participe nas actividades da Fundação não devem, mesmo após a cessação das suas funções, divulgar as informações que, pela sua natureza, estejam abrangidas pelo segredo profissional."
+  },
+  "46fd4ff0cd6ed61f": {
+   "fragment_id": "Artigo 18.ºA",
+   "type": "artigo",
+   "heading": "Artigo 18.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.ºA\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^8^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#E0006)), é aplicável aos documentos detidos pela Fundação.\n\n2. O [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄** aprovará as regras de execução do Regulamento (CE) n.º 1049/2001 no prazo de seis meses a contar da data de entrada em vigor do Regulamento (CE) n.º 1649/2003 do Conselho, de 18 de Junho de 2003, que altera o Regulamento (CEE) n.º 1365/75 relativo à criação de uma Fundação Europeia para a Melhoria das Condições de Vida e de Trabalho e que revoga o Regulamento (CEE) n.º 1417/76 ([^9^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#E0007)).\n\n3. As decisões tomadas pela Fundação ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado."
+  },
+  "b53236d57ebd7174": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nÉ aplicável à Fundação o regime linguístico das Comunidades Europeias."
+  },
+  "405d8c8fb0774b1c": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nÉ aplicável à Fundação o protocolo sobre os privilégios e imunidades das Comunidades Europeias."
+  },
+  "53936ca5eea25d89": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. A responsabilidade contratual da Fundação será regulada pela lei aplicável ao contrato em causa.\n\nO Tribunal de Justiça das Comunidades Europeias é competente para decidir com fundamento em cláusula compromissória contida num contrato concluído pela Fundação.\n\n2. Em matéria de responsabilidade não contratual, a Fundação deve reparar, em conformidade com os princípios gerais comuns aos direitos dos Estados-membros, os danos causados pela Fundação ou pelos seus agentes no exercício das suas funções.\n\nO Tribunal de Justiça das Comunidades Europeias é competente para conhecer dos litígios relativos à reparação destes danos.\n\n3. A responsabilidade pessoal dos agentes para com a Fundação será regulada pelas disposições relativas ao pessoal da Fundação."
+  },
+  "0b760e15f3e00089": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nQualquer acto, implícito ou explícito, da Fundação, poderá ser submetido à Comissão por qualquer Estado-membro, qualquer membro do [**►M3**](http://publications.europa.eu/resource/celex/32005R1111) Conselho de Direcção**◄** ou qualquer terceira pessoa directa e individualmente visada, tendo em vista o controlo da sua legalidade.\n\nDeve recorrer-se à Comissão num prazo de quinze dias a contar do dia em que o interessado teve conhecimento do acto impugnado.\n\nA Comissão tomará uma decisão no prazo de um mês. A ausência de decisão, dentro desse prazo, tem o valor de decisão tácita de rejeição."
+  },
+  "ec14fb594b820ee9": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nO presente regulamento entra em vigor no terceiro dia a contar da data da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "f453bf6ad9ccd096": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#src.E0001)) JO n.º C 76 de 3. 7. 1974, p. 33.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#src.E0002)) JO n.º C 109 de 19. 9. 1974, p. 37.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#src.E0003)) JO n.º C 112 de 20. 12. 1973, p. 3.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#src.E0004)) JO n.º C 13 de 12. 2. 1974, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#src.E0005)) JO L 357 de 31.12.2002, p. 72 (rectificação no JO L 2 de 7.1.2003, p. 39).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#src.E1003)) JO L 56 de 4.3.1968, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE, Euratom) n.º 31/2005 (JO L 8 de 12.1.2005, p. 1).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#src.E1004)) Regulamento (CECA, CEE, Euratom) n.º 1860/76 do Conselho, de 29 de Junho de 1976, que define o regime aplicável ao pessoal da Fundação Europeia para a Melhoria das Condições de Vida e de Trabalho (JO L 214 de 6.8.1976, p. 24). Regulamento com a última redacção que lhe foi dada pelo Regulamento (Euratom, CECA, CEE) n.º 680/87 (JO L 72 de 14.3.1987, p. 15).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#src.E0006)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/094eff76-7e5a-47da-b3da-3b660c0f8fcc.0018.03/DOC_1#src.E0007)) JO L 245 de 29.9.2003, p. 25."
+  }
+ }
+}

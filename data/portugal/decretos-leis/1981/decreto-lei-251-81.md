@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: pt:dre:577910:por
+title: Decreto-Lei n.º 251/81
+short_title: null
+summary: Dá nova redacção a alguns artigos do Decreto-Lei n.º 125/79, de 10 de Maio (Parempresa - Sociedade Parabancária para
+  a Recuperação de Empresas, S. A. R. L.)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 251/81
+official_date: null
+publication_date: '1981-08-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 198/1981, Série I de 1981-08-29
+  number: '198'
+  series: I
+  supplement: null
+  pages: 2288 - 2289
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/08/19800/22882289.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '577910'
+  dre_path: /dr/detalhe/decreto-lei/251-1981-577910
+  internal: pt:dre:577910:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1981-577910
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1981-577910
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:38:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 297f85ce648390cc557e9a393e400383c6b865251a864b8a2e51dfa590de183e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa
+- Orgânica
+- Parempresa-Sociedade Parabancária para a Recuperação de Empresas
+- Saneamento Económico e Financeiro
+relationships:
+- type: amended_by
+  target: pt:dre:311459:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:294551:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378957:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383210:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471880:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:311459:por
+  label: Revogado pelo(a) Decreto-Lei n.º 120/83 - Diário da República n.º 49/1983, Série I de 1983-03-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/120-1983-311459
+  date: '1983-03-01'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:38:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 251/81
+
+de 29 de Agosto
+
+O esquema dos contratos de viabilização criado pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, cuja natureza conjuntural, decorrente embora desde logo dos objectivos que prosseguiu, veio a ser consagrado, primeiro, no [Decreto-Lei n.º 120/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-1978-294551), de 1 de Junho, e, mais recentemente, no [Decreto-Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1981-390001), de 29 de Janeiro, encontra-se na fase final de aplicação, encontrando-se neste momento consolidado o conjunto de empresas candidatas à sua outorga.
+
+A subsequente criação da Parempresa - Sociedade Parabancária para a Recuperação de Empresas, S. A. R. L., através do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, com a alteração introduzida pelo [Decreto-Lei n.º 310/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1979-378957), de 20 de Agosto, com os fins estatutários que lhe foram cometidos e o âmbito da intervenção do Estado nos acordos de assistência a celebrar, consubstanciou a vontade política da manutenção do apoio governamental na reorganização e saneamento financeiro do tecido empresarial privado.
+
+Considerando programaticamente o Governo que a iniciativa privada e o seu reforço constituem a base do desejável relançamento económico do País, entende, porém, que aquele desiderato haverá de prosseguir-se no quadro do funcionamento das regras próprias da economia de mercado.
+
+Nesta perspectiva, o empenhamento directo do Estado na revitalização do sector privado, mediante afectação de dinheiros públicos, só encontra justificação bastante em quadros empresariais devidamente caracterizados de manifesto interesse económico-social.
+
+Acresce, por outro lado, que a situação conjuntural de défice do Orçamento Geral do Estado não se concilia com a manutenção de um esquema de incentivos estatais às empresas privadas degradadas, com o grau e amplitude vigentes, atento o seu pesado impacte orçamental.
+
+As considerações expendidas e, bem assim, o gradual regresso a uma situação de maior estabilidade e normalidade a que se assiste na vida económica e financeira do País aconselham que, no quadro dos mecanismos normais de reestruturação de uma economia de mercado, seja devolvida às entidades credoras, nomeadamente às instituições de crédito, a responsabilidade pela concretização das medidas financeiras julgadas adequadas para obter a desejável revitalização e a possível recuperação das unidades económicas que manifestem indícios de viabilidade mais ou menos segura.
+
+A participação directa do Estado no processo de saneamento económico-financeiro das empresas privadas passará, pois, a revestir carácter de excepcionalidade, bem delimitada no seu condicionalismo e extensão.
+
+Torna-se, portanto, necessário adequar a legislação existente sobre a matéria às orientações agora definidas.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 11.º, 13.º, n.º 1, e 14.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio, passam a ter a seguinte redacção:
+
+Art. 1.º Os benefícios financeiros a conceder às empresas abrangidas pelo artigo 2.º atenderão à política monetária definida pelo Governo e serão suportados pelas instituições de crédito credoras e, em condições excepcionais devidamente fundamentadas, pelo Fundo de Compensação criado pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.
+
+Art. 13.º - 1 - A proposta da sociedade, que deverá ser submetida à apreciação do Ministro das Finanças e do Plano, quando abranja a atribuição de benefícios financeiros a suportar pelo Fundo de Compensação ou de benefícios fiscais, incluirá, para além dos benefícios enunciados nos artigos anteriores, medidas de saneamento financeiro de grau e amplitude variáveis em função da dificuldade de recuperação diagnosticada para a empresa assistida e, bem assim, as actuações a desenvolver pelas instituições de crédito pela empresa e pela sociedade.
+
+Art. 14.º A atribuição concreta de benefícios financeiros através do Fundo de Compensação e dos benefícios fiscais previstos no artigo 12.º dependerá de despacho do Ministro das Finanças e do Plano.
+
+Art. 2.º Os n.os 2, 3, 4 e 5 do artigo 2.º e o n.º 3 do artigo 4.º do [Decreto-Lei n.º 215/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1980-471880), de 9 de Julho, passam a ter a seguinte redacção:
+
+Art. 2.º - 1 - ...
+
+2 - Do montante do passivo transformado nos termos do n.º 1, a parte necessária à cobertura do activo imobilizado líquido de amortizações por capitais permanentes poderá ser objecto de bonificação de juros a suportar pelas instituições de crédito envolvidas e, em condições excepcionais devidamente justificadas, pelo Fundo de Compensação criado pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, em conformidade com o disposto no artigo 11.º do [Decreto-Lei n.º 125/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1979-383210), de 10 de Maio.
+
+3 - Quando o passivo transformado nos termos do n.º 1 não seja suficiente para o cumprimento da regra de equilíbrio mínimo expressa no número anterior, poderá ser bonificada, nos termos ali referidos, a parte do financiamento a que se refere a alínea b) do artigo 1.º necessária para o efeito.
+
+4 - Serão definidas por aviso do Banco de Portugal as condições em que o Fundo de Compensação poderá intervir na bonificação de juros relativos às operações referidas nas alíneas a) e b) do artigo anterior.
+
+5 - A parcela do montante da bonificação de juros prevista nos n.os 2 e 3 do presente artigo que não for abrangida pela intervenção do Fundo de Compensação, referida no número anterior, será suportada pelas instituições de crédito envolvidas nas respectivas operações.
+
+Art. 4.º - 1 - ...
+
+2 - ...
+
+3 - Sendo o despacho favorável, ficarão o Estado, o Fundo de Compensação e as instituições de crédito envolvidas vinculados nos precisos termos desse despacho e, no caso de homologação tácita, nos termos da proposta da Parempresa.
+
+Art. 3.º As dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+
+Visto e aprovado em Conselho de Ministros de 21 de Julho de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 19 de Agosto de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

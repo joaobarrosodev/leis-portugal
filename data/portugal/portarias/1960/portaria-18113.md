@@ -1,0 +1,302 @@
+---
+schema_version: '1.0'
+id: pt:dre:512798:por
+title: Portaria n.º 18113
+short_title: null
+summary: Estabelece novos preceitos para o comércio de peixe no continente - Revoga as Portarias n.os 11459, 11981, 13303
+  e 18054 e o despacho inserto no Diário do Governo n.º 216, 2.ª série, de 16 de Setembro de 1946
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Marinha e da Economia - Secretaria de Estado do Comércio
+proposing_entity: null
+official_number: '18113'
+official_date: null
+publication_date: '1960-12-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 285/1960, Série I de 1960-12-10
+  number: '285'
+  series: I
+  supplement: null
+  pages: 2734 - 2735
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/12/28500/27342735.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '512798'
+  dre_path: /dr/detalhe/portaria/18113-1960-512798
+  internal: pt:dre:512798:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/18113-1960-512798
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18113-1960-512798
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:51:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ed05fe78d0f0a711609f113fce04ce9550a9fe6dde0a37220c8afe5a3c9a38ef
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:51:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comércio
+- Comércio a Retalho
+- Comércio por Grosso
+- Lota
+- Lucro
+- Multa
+- Peixe
+- Preço de Venda
+- Serviço de Abastecimento de Peixe ao PAIS
+relationships:
+- type: amended_by
+  target: pt:dre:667948:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:412019:por
+  label: "Alterados os n.ºs 13.º e 19.º pela PORT.820/73.19.11.1973.MECO, DG.IS [270] de 19.11.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/820-1973-412019
+  date: '1973-11-19'
+- type: amended_by
+  target: pt:dre:382791:por
+  label: "Mantido em vigor, relativamente ao pescado transaccionado na lota, o disposto no n.º 13.º, pelo DEC LEI.147/79.24.05.1979.PCM,\
+    \ DR.IS [119] de 24.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/147-1979-382791
+  date: '1979-05-24'
+- type: cites
+  target: pt:dre:156016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:181648:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:321313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:482165:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614807:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:446519:por
+  label: Revogado o n.º 17.º da presente portaria pelo(a) Portaria n.º 95/78 - Diário da República n.º 40/1978, Série I de
+    1978-02-17, nos termos dos seus n.ºs 1.º e 2.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/95-1978-446519
+  date: '1978-02-17'
+- type: repealed_by
+  target: pt:dre:667948:por
+  label: "Revogada pela PORT.311/80.30.05.1980.MAP, DR.IS [125]Supl de 30.05.1980, considerando-se todas as disposições remetidas\
+    \ para a citada portaria \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/311-1980-667948
+  date: '1980-05-30'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:51:59Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 18113
+
+O comércio de peixe no continente foi regulado em novas bases pela [Portaria n.º 18054](https://diariodarepublica.pt/dr/detalhe/portaria/18054-1960-514262), publicada no Diário do Governo n.º 262, 1.ª série, de 11 de Novembro de 1960.
+
+Acontecendo, porém, ser o texto publicado infiel em algumas das suas disposições às normas que se pretendiam pôr em vigor, pelo presente diploma se revoga aquela portaria, reconduzindo o texto à expressão autêntica do pensamento que o informava.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha e pelo Secretário de Estado do Comércio, o seguinte:
+
+1.º Em todo o continente a venda de peixe por parte dos pescadores e dos industriais só pode ser feita nas lotas e respeitando os preços máximos constantes da tabela anexa à presente portaria para as espécies nela previstas.
+
+§ 1.º Para os efeitos desta portaria consideram-se lotas as que funcionam junto das estâncias aduaneiras ou postos fiscais habilitados a cobrar o imposto de pescado, nos termos da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 31665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31665-1941-321313), de 22 de Novembro de 1941, e zonas de influência das lotas todas as localidades situadas num raio de 35 km a partir de cada uma.
+
+§ 2.º Não é permitida a venda de peixe em leilão fora das lotas.
+
+§ 3.º A tabela referida neste número é válida pelo período de um ano, a partir da data da sua publicação, findo o qual poderá ser revista ou reposta em vigor, pelo período que for julgado conveniente, por despacho do Secretário de Estado do Comércio, mediante proposta da Intendência-Geral dos Abastecimentos, ouvida a comissão criada por portaria publicada no Diário do Governo n.º 84, 2.ª série, de 9 de Abril de 1960.
+
+2.º As entidades que tenham celebrado contratos de fornecimento com o Grémio dos Armadores da Pesca do Arrasto podem retirar das lotas, antes do início destas, as quantidades de peixe capturado pelo arrasto de que necessitem, nos termos das cláusulas dos mesmos contratos.
+
+§ 1.º Na falta de contrato, os hospitais civis, cadeias, ranchos da Manutenção Militar, serviço de abastecimento do Ministério da Marinha, Santa Casa da Misericórdia de Lisboa e Fundação Nacional para a Alegria no Trabalho podem adquirir o peixe capturado pelo arrasto de que necessitem antes do início da lota ao preço médio do dia de aquisição ou, quando se trate de espécies tabeladas, ao preço máximo fixado, deduzido de 10 por cento, desde que façam a requisição respectiva com a antecedência mínima de dois dias.
+
+§ 2.º Em iguais circunstâncias se podem abastecer nas lotas de peixe capturado pelo arrasto, mas aos preços médios do dia, o Serviço de Abastecimento de Peixe ao País, criado de acordo com as disposições do [Decreto n.º 34528](https://diariodarepublica.pt/dr/detalhe/decreto/34528-1945-614807), de 24 de Abril de 1945, as entidades oficiais, com excepção das referidas no parágrafo anterior, as entidades particulares que administrem cantinas ou messes ou prossigam uma finalidade social e ainda as que destinem o pescado a fornecimentos urgentes.
+
+§ 3.º As quantidades a retirar das lotas, nos termos dos parágrafos anteriores, poderão ser reduzidas na medida em que o abastecimento público o impuser.
+
+3.º Com excepção das entidades referidas no número anterior, a entrada e licitação na lota de Santos serão permitidas ùnicamente às pessoas que se encontrem nas condições previstas no regulamento da mesma lota.
+
+4.º As margens de lucro ilíquido do comércio grossista serão as seguintes, por quilograma:
+
+a) $90 para o peixe comprado na lota até ao preço de 3$60;
+
+b) 1$10 para o peixe comprado na lota a preço superior a 3$60 até 5$30;
+
+c) 1$30 para o peixe comprado na lota a preço superior a 5$30 até 7$00;
+
+d) 1$70 para o peixe comprado na lota a preço superior a 7$00 até 9$60;
+
+e) 2$00 para o peixe comprado na lota a preço superior a 9$60 até 12$60;
+
+f) 15 por cento para o peixe comprado na lota a preço superior a 12$60.
+
+§ único. As margens de lucro mencionadas neste número só poderão ser acrescidas das despesas de frete, considerando-se como tal ùnicamente as do transporte do peixe, pelo meio mais económico, desde a origem, posto sobre vagão ou camioneta, até à localidade do destino.
+
+5.º As margens de lucro ilíquido do comércio retalhista serão as seguintes, por quilograma:
+
+a) 1$20 para o peixe adquirido até ao preço de 3$60;
+
+b) 1$40 para o peixe adquirido a preço superior a 3$60 até 5$30;
+
+c) 1$90 para o peixe adquirido a preço superior a 5$30 até 7$00;
+
+d) 2$40 para o peixe adquirido a preço superior a 7$00 até 9$60;
+
+e) 2$60 para o peixe adquirido a preço superior a 9$60 até 12$60;
+
+f) 20 por cento para o peixe adquirido a preço superior a 12$60.
+
+§ 1.º Quando o retalhista adquirir o peixe ao grossista, as margens de lucro referidas neste número serão diminuídas de $30.
+
+§ 2.º Sem prejuízo do disposto no parágrafo anterior, quando o retalhista adquira peixe para além de 35 km da localidade onde exerce o seu comércio e as despesas de frete previstas no § único do n.º 4.º fiquem, total ou parcialmente, a seu cargo, poderá acrescentá-las às margens de lucro referidas neste número, sem que, no entanto, o total das despesas venha a ultrapassar o limite permitido no mesmo § único do n.º 4.º
+
+6.º Na comercialização do peixe desde os locais das lotas até ao retalhista não pode haver mais do que um intermediário.
+
+§ único. Exceptua-se do disposto neste número o intermediário que, com guias da alfândega, faz transitar o pescado de uma lota para o vender noutra, devendo, porém, respeitar-se sempre nesta outra lota os máximos referidos no n.º 1.º da presente portaria.
+
+7.º Os preços máximos de venda do peixe ao consumidor nas zonas de influência das lotas previstas no § 1.º do n.º 1.º não poderão ultrapassar aqueles por que foi comprado na lota, acrescidos das margens de lucro fixadas no n.º 5.º da presente portaria para o retalhista.
+
+§ único. Dentro da zona de influência de cada lota o grossista só poderá beneficiar das margens de lucro referidas no n.º 4.º quando venda peixe proveniente de lotas situadas fora dessa zona, mantendo-se para o retalhista a limitação constante do § 1.º do n.º 5.º
+
+8.º Nas localidades em que funcionam lotas todo o peixe proveniente de lotas diferentes que não seja acompanhado de documento onde se faça expressa indicação do retalhista a que se destina e do local de venda terá de ser submetido à lota local.
+
+9.º A venda de quaisquer espécies de peixe não pode, em caso algum, fazer-se depender da aquisição simultânea de outras diferentes.
+
+10.º Nas zonas definidas no § 1.º do n.º 1.º da presente portaria os retalhistas e os grossistas têm obrigação de prover, em primeiro lugar, ao abastecimento das localidades existentes naquelas zonas, de harmonia com as determinações da Intendência-Geral dos Abastecimentos ou, na sua falta, das autoridades locais.
+
+11.º Quando se verificar, na lata de Santos, a existência de elevadas quantidades de peixe de certas espécies, o Grémio dos Armadores da Pesca do Arrasto pode autorizar que, enquanto se mantiverem aquelas condições, a venda se efectue em grupos de até cinco caixas, desde que prèviamente torne pública essa resolução.
+
+12.º Na lota de Santos, não será permitida a venda de caixas com diferentes espécies de pescado.
+
+§ único. O peixe contido numa caixa deverá ser tanto quanto possível, do mesmo tamanho.
+
+13.º Os comerciantes grossistas ou retalhistas deverão fazer acompanhar todo o peixe de documento de compra, obrigatòriamente passado pela entidade vendedora (lota ou grossista), em que se indiquem as espécies, as quantidades, os preços e a data da compra.
+
+§ 1.º Os retalhistas cujas vendas se limitem a parte de uma caixa obtida na lota por outro em representação de um grupo de vendedores ficam obrigados, sempre que os órgãos de fiscalização competentes o exigirem, a indicar o número da guia relativa à compra na lota e, bem assim, o nome de quem adquiriu a caixa.
+
+§ 2.º Quando, por falta de cumprimento do disposto neste número e no § 1.º, for impossível determinar o preço exacto da compra do peixe na lota, presumir-se-á que esse preço foi o mínimo praticado no dia da aquisição.
+
+14.º Para o peixe vendido à posta o consumidor poderá escolher entre a compra ao preço do peixe inteiro com a obrigação de levar como contrapeso 1/4 em cabeça e a compra do peixe limpo por aquele preço acrescido de 25 por cento.
+
+§ único. O contrapeso do safio e do congro incluirá cabeça e cauda.
+
+15.º Todos os vendedores de peixe a retalho são obrigados a colocar, em sítio bem visível, letreiros escritos com algarismos de, pelo menos, 2 cm de altura onde estejam indicados os preços de venda ao público das espécies que possuam.
+
+§ único. Quando dos letreiros conste mais do que um preço para a mesma espécie, considerar-se-á que todo o peixe dessa espécie foi vendido ou se tenta vendê-lo ao preço mais elevado.
+
+16.º Constituem infracções punidas nos termos do artigo 25.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957:
+
+a) A venda de peixe, por parte dos pescadores e industriais, por preços superiores aos máximos fixados na tabela anexa à presente portaria para as espécies nela previstas;
+
+b) A venda de peixe com lucros superiores aos fixados nos n.os 4.º e 5.º e seus parágrafos;
+
+c) A intervenção de mais de um intermediário, desde o local das lotas até ao retalhista, contràriamente ao disposto no n.º 6.º;
+
+d) A venda do peixe ao consumidor, nas zonas de influência das lotas, por preços superiores aos previstos no n.º 7.º;
+
+e) A venda do peixe à posta com inobservância das condições estabelecidas no n.º 14.º
+
+17.º Constitui infracção punida nos termos do artigo 28.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, a falta de letreiros indicativos dos preços de venda ao público nas condições referidas no n.º 15.º
+
+18.º Constituem contravenções puníveis com a multa de 500$00 a 10000$00:
+
+a) A venda do peixe fora das lotas, nas localidades em que estas existam, quando seja proveniente de outras e não venha acompanhado de documento indicando o retalhista a que se destina e o local da venda, contràriamente ao disposto no n.º 8.º;
+
+b) A recusa de venda de certas espécies de peixe, condicionando-a à aquisição simultânea de outras diferentes, contra o preceituado no n.º 9.º;
+
+c) A inobservância da obrigação de abastecimento prévio das localidades situadas na zona de influência das lotas, imposta no n.º 10.º
+
+19.º Constituem contravenções puníveis com a multa do 200$00 a 3000$00:
+
+a) A venda de peixe fora das lotas, por pescadores ou industriais, contràriamente ao disposto no n.º 1.º;
+
+b) A venda em leilão fora das lotas, proibida no § 2.º do n.º 1.º;
+
+c) A falta de passagem, pelos comerciantes grossistas, de documento de venda, de onde constem os elementos referidos no n.º 13.º
+
+20.º Esta portaria entra imediatamente em vigor e por ela ficam revogados: [Portaria n.º 11459](https://diariodarepublica.pt/dr/detalhe/portaria/11459-1946-156016), de 14 de Agosto de 1946, despacho da Intendência-Geral dos Abastecimentos de 11 de Setembro de 1946, publicado no Diário do Governo n.º 216, 2.ª série, de 16 do mesmo mês, [Portaria n.º 11981](https://diariodarepublica.pt/dr/detalhe/portaria/11981-1947-181648), de 8 de Agosto de 1947, [Portaria n.º 13303](https://diariodarepublica.pt/dr/detalhe/portaria/13303-1950-482165), de 23 de Setembro de 1950, e [Portaria n.º 18054](https://diariodarepublica.pt/dr/detalhe/portaria/18054-1960-514262), de 11 de Novembro de 1960.
+
+Ministérios da Marinha e da Economia, 10 de Dezembro de 1960. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - Pelo Secretário de Estado do Comércio, João Augusto Dias Rosas, Subsecretário de Estado do Comércio.
+
+Tabela de preços máximos de venda na lota
+
+... Quilograma
+
+1.º grupo:
+
+Cantaril, ruivo, anchova, pata-roxa, tamboril, sapo, anjo, cação, raia, ratão, tremelga e carapau pequeno (até 10 cm) ... 3$60
+
+2.º grupo:
+
+Abrótea, cachucho, chicharro, cabaço, besugo, galo, juliana, potra e pombo (pargo mulato) ... 5$30
+
+3.º grupo:
+
+Pargo capatão, pargo dentão, pargueta, sêmola, bica, buço, choupa, roncador, roncadeiras, peixe-espada e carapau grande ... 7$00
+
+4.º grupo:
+
+Marmota negra até 1,5 kg ... 9$60
+
+5.º grupo:
+
+Congro, corvina e caudas de marmota ... 12$60
+
+Ministérios da Marinha e da Economia, 10 de Dezembro de 1960. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - Pelo Secretário de Estado do Comércio, João Augusta Dias Rosas, Subsecretário de Estado do Comércio.

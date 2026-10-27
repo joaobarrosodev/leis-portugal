@@ -1,0 +1,581 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31982L0883:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982L0883-20140107",
+ "dre_path": null,
+ "source_lastmod": "2014-01-07",
+ "versions": [
+  {
+   "date": "1982-12-31",
+   "future": false,
+   "celex": "31982L0883",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8ae888eafe1eda55",
+    "03fca4d0b5cf6683",
+    "feb92c1cae7ab510",
+    "fc5a7dee918f1f2e",
+    "ffae160064ffbf6d",
+    "6a47007cb34d77a7",
+    "2b1aed87972a1d41",
+    "c0cf057e19b738f4",
+    "9feb738bcea271c7",
+    "a8b44e5d43cd39de",
+    "6ec493cd9b2ad581",
+    "7f574e477b0f2419",
+    "4b30ca0fe0e3d545",
+    "6a36674b6e98ce05",
+    "9f8847a6a0a9d91b",
+    "07292c63e8e56b46",
+    "df17b94265a665e4",
+    "b9a51c84f54290df",
+    "6d2edfef1fa4427c",
+    "ba4615521a596817"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "01982L0883-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:32003R0807:por",
+     "title": "REGULAMENTO (CE) N. o 807/2003 DO CONSELHO de 14 de Abril de 2003",
+     "published": null,
+     "celex": "32003R0807"
+    },
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) N. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    },
+    {
+     "id": null,
+     "title": "A1",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita ANEXO I",
+    "Adita MODO DE ELIMINAÇÃO DE RESÍDUOS: EMISSÕES PARA A ATMOSFERA",
+    "Adita ANEXO II",
+    "Adita MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA OU IMERSÃO EM ÁGUAS MARINHAS",
+    "Adita (estuarinas, costeiras, águas profundas)",
+    "Adita ANEXO III",
+    "Adita MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA EM ÁGUAS DOCES SUPERFICIAIS",
+    "Adita ANEXO IV",
+    "Adita MODO DE ELIMINAÇÃO DE RESÍDUOS: ARMAZENAGEM E DEPOSIÇÃO NO SOLO",
+    "Adita ANEXO V",
+    "Adita MODO DE ELIMINAÇÃO DE RESÍDUOS: INJECÇÃO NO SOLO",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º — As alterações necessárias tendo em vista a adaptação ao progresso técnico e científico: - dos parâmetros da coluna «determinação facultativa»,",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º",
+    "Suprime ANEXO I MODO DE ELIMINAÇÃO DE RESÍDUOS: EMISSÕES PARA A ATMOSFERA — >PIC FILE= \"T0022435\">",
+    "Suprime ANEXO III MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA EM ÁGUAS DOCES SUPERFICIAIS — >PIC FILE= \"T0022439\">",
+    "Suprime ANEXO IV MODO DE ELIMINAÇÃO DE RESÍDUOS: ARMAZENAGEM E DEPOSIÇÃO NO SOLO — >PIC FILE= \"T0022443\">",
+    "Suprime ANEXO V MODO DE ELIMINAÇÃO DE RESÍDUOS: INJECÇÃO NO SOLO — >PIC FILE= \"T0022444\">"
+   ],
+   "fragments": [
+    "6d9586b5a53c600b",
+    "46e59057bfba896f",
+    "3e2d457526f10389",
+    "70193c7d99e07182",
+    "6bb0cdf8879d67ca",
+    "477fb3130b883c35",
+    "8732a996a86e5c17",
+    "47ce18504a738caf",
+    "2bb40749fb4f1300",
+    "f756d55c791ae577",
+    "01c01e09d9a6f08c",
+    "a4578f24f1377aac",
+    "eb06fb85a95cdea0",
+    "88fdea429227cfc9",
+    "37421787b6f6a9af",
+    "d287b3f0b5880f7e",
+    "d664376e2a8dcecd",
+    "51eceddfb45fee68",
+    "852174729551523b",
+    "40b883429f8d4244",
+    "0a14c58737987d50",
+    "720af75c92791b10",
+    "f7940845b433e7a3",
+    "e03a0eb4d5b2eef3",
+    "7bb4a28dd205ca15",
+    "64610ae29a6cb67c",
+    "4840ec40836a5f8c",
+    "060462594535f995"
+   ]
+  },
+  {
+   "date": "2014-01-07",
+   "future": false,
+   "celex": "01982L0883-20140107",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime ANEXO I",
+    "Suprime MODO DE ELIMINAÇÃO DE RESÍDUOS: EMISSÕES PARA A ATMOSFERA",
+    "Suprime ANEXO II",
+    "Suprime MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA OU IMERSÃO EM ÁGUAS MARINHAS",
+    "Suprime (estuarinas, costeiras, águas profundas)",
+    "Suprime ANEXO III",
+    "Suprime MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA EM ÁGUAS DOCES SUPERFICIAIS",
+    "Suprime ANEXO IV",
+    "Suprime MODO DE ELIMINAÇÃO DE RESÍDUOS: ARMAZENAGEM E DEPOSIÇÃO NO SOLO",
+    "Suprime ANEXO V",
+    "Suprime MODO DE ELIMINAÇÃO DE RESÍDUOS: INJECÇÃO NO SOLO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e568fe182e0d44e4"
+   ]
+  }
+ ],
+ "fragments": {
+  "8ae888eafe1eda55": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 82/883/CEE do Conselho, de 3 de Dezembro de 1982, relativa às modalidades de vigilância e de controlo dos meios afectados por descargas provenientes da indústria de dióxido de titânio** *Jornal Oficial nº L 378 de 31/12/1982 p. 0001 - 0014 Edição especial finlandesa: Capítulo 15 Fascículo 4 p. 0042 Edição especial espanhola: Capítulo 15 Fascículo 4 p. 0003 Edição especial sueca: Capítulo 15 Fascículo 4 p. 0042 Edição especial portuguesa: Capítulo 15 Fascículo 4 p. 0003*\n\nDIRECTIVA DO CONSELHO de 3 de Dezembro de 1982 relativa às modalidades de vigilância e de controlo dos meios afectados por descargas provenientes da indústria de dióxido de titânio (82/883/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100º e 235º,\n\nTendo em conta a Directiva 78/176/CEE do Conselho, de 20 de Fevereiro de 1978, relativa aos resíduos provenientes da indústria do dióxido de titânio (1) e, nomeadamente, o nº 3 do seu artigo 7º,\n\nTendo em conta a proposta da Comissão (2),\n\nTendo em conta o parecer do Parlamento Europeu (3),\n\nTendo em conta o parecer do Comité Económico e Social (4),\n\nConsiderando que quaisquer que sejam o modo e o grau de tratamento dos resíduos provenientes da indústria do dióxido de titânio, a sua descarga, a sua imersão, a sua armazenagem, o seu depósito e a sua injecção devem ser acompanhados de operações de vigilância e de controlo dos meios afectados sob o ponto de vista físico, químico, biológico e ecológico;\n\nConsiderando que, para assegurar o controlo da qualidade desses meios, convém proceder com uma frequência mínima à colheita de amostras para medição dos parâmetros especificados nos anexos; que o número de colheitas pode ser reduzido em função dos resultados obtidos; que, para assegurar a eficácia do dito controlo, é conveniente que as colheitas sejam, se possível, efectuadas também numa zona considerada não afectada pelas descargas em questão;\n\nConsiderando que é necessário, relativamente às análises efectuadas pelos Estados-membros, fixar métodos de medição de referência comuns para a determinação dos valores dos parmetros que definem as características físicas, químicas, biológicas e ecológicas dos meios afectados;\n\nConsiderando que, em relação à vigilância e ao controlo dos meios afectados, os Estados-membros são livres em qualquer momento de fixar outros parâmetros além dos previstos na presente directiva;\n\nConsiderando que é necessário precisar os dados relativos às modalidades de vigilância e de controlo que os Estados-membros transmitirão à Comissão; que é conveniente que a Comissão publique, com o acordo prévio dos Estados-membros, um relatório síntese destes dados;\n\nConsiderando que, em certas circunstâncias naturais, as operações de vigilância e de controlo podem revelar-se difíceis de executar; que é necessário prever a possibilidade de derrogar em certos casos, a presente directiva;\n\nConsiderando que o progresso técnico e científico pode exigir uma adaptação rápida de certas disposições dos anexos; que convém, para facilitar a execução das medidas necessárias para esse efeito, prever um procedimento que crie uma cooperação estreita entre os Estados-membros e a Comissão no âmbito de um comité para a adaptação ao progresso técnico e científico, (1) JO nº L 54 de 25.2.1978, p. 19. (2) JO nº C 356 de 31.12.1980, p. 32, e JO nº C 187 de 22.7.1982, p. 10. (3) JO nº C 149 de 14.6.1982, p. 101. (4) JO nº C 230 de 10.9.1981, p. 5.\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "03fca4d0b5cf6683": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nA presente directiva fixa, em conformidade com o nº 3 do artigo 7º da Directiva 78/176/CEE, as modalidades de vigilância e de controlo dos efeitos que a descarga, a imersão, a armazenagem, o depósito ou a injecção de resíduos provenientes da indústria do dióxido de titânio têm sobre o meio, considerado sob os seus aspectos físicos, químicos e ecológicos."
+  },
+  "feb92c1cae7ab510": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos do disposto na presente directiva, entende-se por: - meios afectados: as águas, a superfície terrestre e o subsolo, bem como o ar, nos quais são descarregados, imersos, armazenados, depositados ou injectados, os resíduos da indústria do dióxido de titânio,\n\n- local de colheita: o ponto característico de amostragem."
+  },
+  "fc5a7dee918f1f2e": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Os parâmetros aplicáveis para a vigilância e o controlo referidos no artigo 1º são especificados nos anexos.\n\n2. Quando um parâmetro constar da coluna «determinação obrigatória» nos anexos, a colheita e a análise das amostras devem ser efectuadas relativamente aos compartimentos indicados.\n\n3. Quando um parâmetro constar da coluna «determinação facultativa» nos anexos, a colheita e a análise das amostras serão efectuadas em relação aos compartimentos indicados, se os Estados-membros o considerarem necessário."
+  },
+  "ffae160064ffbf6d": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros procederão à vigilância e ao controlo dos meios afectados e de uma zona vizinha considerada não afectada, tendo em conta, nomeadamente, as condições locais desses meios e as condições de eliminação - intermitente ou contínua - dos resíduos em questão.\n\n2. Salvo disposição em contrário, prevista nos anexos, os Estados-membros, definirão, caso a caso, os locais exactos de colheita, a distância entre estes e o ponto de eliminação do poluente mais próximo, bem como a profundidade ou a altura à qual as amostras devem ser colhidas.\n\nA colheita de amostras deve efectuar-se nos mesmos locais e nas mesmas condições em que as operações de amostragem se sucedem; por exemplo, no caso das águas do mar sujeitas à influência de marés, as amostras serão colhidas à mesma hora em relação à maré alta e ao coeficiente da maré.\n\n3. Tendo em vista a vigilância e o controlo dos meios afectados, os Estados-membros fixarão a frequência de amostragem e de análise para cada parâmetro referido nos anexos.\n\nEm caso de parâmetros cuja determinação é obrigatória, a frequência de amostragem e de análise não pode ser inferior às frequências mínimas indicadas nos anexos. Todavia, quando o comportamento, o destino e os efeitos das descargas tiverem sido, na medida do possível, estabelecidos e desde que não haja nenhuma deterioração significativa na qualidade do ambiente, os Estados-membros podem definir uma frequência de amostragem e de análise para essas frequências. Se se verificar, posteriormente, uma deterioração significativa da qualidade do ambiente imputável quer aos resíduos, quer a uma mudança nos processos de eliminação dos resíduos, o Estado-membro reintroduz uma frequência de amostragem e de análise igual pelo menos à especificada nos anexos. Se um Estado-membro o considerar necessário ou oportuno, pode fazer uma distinção entre diferentes parâmetros, aplicando as disposições do presente parágrafo àqueles para os quais não foi verificada nenhuma deterioração significativa da qualidade do ambiente.\n\n4. Em relação à vigilância e controlo de uma zona vizinha adequada, considerada não afectada, a fixação da frequência de amostragem e de análise é deixada ao critério dos Estados-membros. Quando um Estado-membro verificar que não é possível definir uma tal zona, deve comunicar esse facto à Comissão."
+  },
+  "6a47007cb34d77a7": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Os métodos de medição de referência destinados a determinar o valor dos parâmetros são especificados nos anexos. Os laboratórios que utilizam outros métodos devem assegurar-se de que os resultados obtidos são comparáveis.\n\n2. Os recipientes destinados a conter as amostras, os agentes ou métodos para conservar uma amostra parcial, tendo em vista a análise de um ou de vários parâmetros, o transporte e a armazenagem das amostras, bem como a sua preparação para a análise não devem ser susceptíveis de alterar de forma significativa o resultado desta última."
+  },
+  "2b1aed87972a1d41": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nEm relação à vigilância e controlo dos meios afectados, os Estados-membros são livres de em qualquer momento, fixar outros parâmetros para além dos previstos na presente directiva."
+  },
+  "c0cf057e19b738f4": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. O relatório que os Estados-membros são obrigados a transmitir à Comissão, nos termos do artigo 14º da Directiva 78/176/CEE, deve conter os dados relativos às operações de vigilância e de controlo que foram efectuadas pelos organismos designados por força do nº 2 do artigo 7º da mesma directiva. Estes dados incluirão nomeadamente, para cada zona afectada: - a descrição do local de colheita, incluindo esta os elementos fixos podendo ser representados por um código e diversas outras informações administrativas e geográficas. Esta descrição é feita apenas uma vez, aquando da criação do ponto característico de amostragem,\n\n- a descrição dos métodos de colheita utilizados,\n\n- os resultados da medição dos parâmetros cuja determinação é obrigatória assim como, se os Estados-membros o considerarem útil, os dos parâmetros cuja determinação é facultativa,\n\n- os métodos de medida e de análise utilizados e, se for caso disso, o seu limite de detecção, a sua exactidão e a sua precisão,\n\n- as modificações introduzidas em conformidade com o nº 3 do artigo 4º no que diz respeito à frequência de amostragem e de análise.\n\n2. As primeiras informações a comunicar na aplicação do nº 1 serão aquelas recolhidas durante o terceiro ano a seguir à notificação da presente directiva.\n\n3. A Comissão publicará em forma resumida, com o acordo prévio do Estado-membro em causa, as informações que lhe são fornecidas.\n\n4. A Comissão avaliará a eficácia do procedimento de vigilância e de controlo dos meios afectados e apresentará ao Conselho, se for caso disso, num prazo máximo de seis anos após a notificação da presente directiva, propostas tendentes a melhorar este procedimento e a harmonizar se necessário, os métodos de medida, incluindo o seu limite de detecção, a sua exactidão e precisão, bem como os métodos de colheita de amostras."
+  },
+  "9feb738bcea271c7": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nOs Estados-membros poderão derrogar a presente directiva em caso de inundações ou de catástrofes naturais, ou devido a circunstâncias meteorológicas excepcionais."
+  },
+  "a8b44e5d43cd39de": {
+   "fragment_id": "Artigo 9º — As alterações necessárias tendo em vista a adaptação ao progresso técnico e científico: - dos parâmetros da coluna «determinação facultativa»,",
+   "type": "artigo",
+   "heading": "Artigo 9º — As alterações necessárias tendo em vista a adaptação ao progresso técnico e científico: - dos parâmetros da coluna «determinação facultativa»,",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — As alterações necessárias tendo em vista a adaptação ao progresso técnico e científico: - dos parâmetros da coluna «determinação facultativa»,\n\ne\n\n- dos métodos de medida de referência\n\nque são especificados nos anexos, serão realizados de acordo com o procedimento previsto no artigo 11º"
+  },
+  "6ec493cd9b2ad581": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. É instituído um Comité para a adaptação ao progresso técnico, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão.\n\n2. O comité estabelecerá o seu regulamento interno."
+  },
+  "7f574e477b0f2419": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. No caso de ser feita referência ao procedimento definido no presente artigo, o Comité será convocado pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá ao Comité um projecto de medidas a tomar. O Comité emitirá o seu parecer sobre este projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. Pronunciar-se-á por maioria de quarenta e cinco votos, sendo os votos dos Estados-membros afectados da ponderação prevista no nº 2 do artigo 148º do Tratado. O presidente não toma parte na votação.\n\n3. a) A Comissão adoptará as medidas previstas se estas estiverem em conformidade com o parecer do Comité;\n\nb) Se as medidas previstas não estiverem em conformidade com o parecer do Comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada;\n\nc) Se, decorrido o prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este não tiver deliberado, as medidas propostas serão adoptadas pela Comissão."
+  },
+  "4b30ca0fe0e3d545": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nA alínea c) do nº 1, do artigo 8º da Directiva 78/176/CEE, passa a ter a seguinte redacção:\n\n«c) se os resultados do controlo que os Estados-membros são obrigados a exercer sobre o meio afectado revelarem uma degradação na zona considerada, ou.»"
+  },
+  "6a36674b6e98ce05": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nQuando a eliminação de resíduos necessitar, nos termos do nº 1 do artigo 4º da Directiva 78/176/CEE, da concessão de autorizações prévias pelas autoridades competentes de vários Estados-membros, os Estados-membros em questão consultar-se-ão sobre o conteúdo e a execução do programa de controlo."
+  },
+  "9f8847a6a0a9d91b": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva no prazo de dois anos a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "07292c63e8e56b46": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 3 de Dezembro de 1982.\n\nPelo Conselho\n\nO Presidente\n\nCh. CHRISTENSEN"
+  },
+  "df17b94265a665e4": {
+   "fragment_id": "ANEXO I MODO DE ELIMINAÇÃO DE RESÍDUOS: EMISSÕES PARA A ATMOSFERA — >PIC FILE= \"T0022435\">",
+   "type": "divisao",
+   "heading": "ANEXO I MODO DE ELIMINAÇÃO DE RESÍDUOS: EMISSÕES PARA A ATMOSFERA — >PIC FILE= \"T0022435\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I MODO DE ELIMINAÇÃO DE RESÍDUOS: EMISSÕES PARA A ATMOSFERA — >PIC FILE= \"T0022435\">\n\nANEXO II MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA OU IMERSÃO EM ÁGUAS MARINHAS (estuarinas, costeiras, águas profundas)\n\n>PIC FILE= \"T0022436\">\n\n>PIC FILE= \"T0022437\">\n\n>PIC FILE= \"T0022438\">"
+  },
+  "b9a51c84f54290df": {
+   "fragment_id": "ANEXO III MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA EM ÁGUAS DOCES SUPERFICIAIS — >PIC FILE= \"T0022439\">",
+   "type": "divisao",
+   "heading": "ANEXO III MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA EM ÁGUAS DOCES SUPERFICIAIS — >PIC FILE= \"T0022439\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA EM ÁGUAS DOCES SUPERFICIAIS — >PIC FILE= \"T0022439\">\n\n>PIC FILE= \"T0022440\">\n\n>PIC FILE= \"T0022441\">\n\n>PIC FILE= \"T0022442\">"
+  },
+  "6d2edfef1fa4427c": {
+   "fragment_id": "ANEXO IV MODO DE ELIMINAÇÃO DE RESÍDUOS: ARMAZENAGEM E DEPOSIÇÃO NO SOLO — >PIC FILE= \"T0022443\">",
+   "type": "divisao",
+   "heading": "ANEXO IV MODO DE ELIMINAÇÃO DE RESÍDUOS: ARMAZENAGEM E DEPOSIÇÃO NO SOLO — >PIC FILE= \"T0022443\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV MODO DE ELIMINAÇÃO DE RESÍDUOS: ARMAZENAGEM E DEPOSIÇÃO NO SOLO — >PIC FILE= \"T0022443\">"
+  },
+  "ba4615521a596817": {
+   "fragment_id": "ANEXO V MODO DE ELIMINAÇÃO DE RESÍDUOS: INJECÇÃO NO SOLO — >PIC FILE= \"T0022444\">",
+   "type": "divisao",
+   "heading": "ANEXO V MODO DE ELIMINAÇÃO DE RESÍDUOS: INJECÇÃO NO SOLO — >PIC FILE= \"T0022444\">",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V MODO DE ELIMINAÇÃO DE RESÍDUOS: INJECÇÃO NO SOLO — >PIC FILE= \"T0022444\">"
+  },
+  "6d9586b5a53c600b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Dezembro de 1982\n\nrelativa às modalidades de vigilância e de controlo dos meios afectados por descargas provenientes da indústria de dióxido de titânio\n\n(82/883/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 100.º e 235.º,\n\nTendo em conta a Directiva 78/176/CEE do Conselho, de 20 de Fevereiro de 1978, relativa aos resíduos provenientes da indústria do dióxido de titânio ([^1^](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0001)) e, nomeadamente, o n.º 3 do seu artigo 7.º,\n\nTendo em conta a proposta da Comissão ([^2^](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Parlamento Europeu ([^3^](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité Económico e Social ([^4^](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0004)),\n\nConsiderando que quaisquer que sejam o modo e o grau de tratamento dos resíduos provenientes da indústria do dióxido de titânio, a sua descarga, a sua imersão, a sua armazenagem, o seu depósito e a sua injecção devem ser acompanhados de operações de vigilância e de controlo dos meios afectados sob o ponto de vista físico, químico, biológico e ecológico;\n\nConsiderando que, para assegurar o controlo da qualidade desses meios, convém proceder com uma frequência mínima à colheita de amostras para medição dos parâmetros especificados nos anexos; que o número de colheitas pode ser reduzido em função dos resultados obtidos; que, para assegurar a eficácia do dito controlo, é conveniente que as colheitas sejam, se possível, efectuadas também numa zona considerada não afectada pelas descargas em questão;\n\nConsiderando que é necessário, relativamente às análises efectuadas pelos Estados-membros, fixar métodos de medição de referência comuns para a determinação dos valores dos parmetros que definem as características físicas, químicas, biológicas e ecológicas dos meios afectados;\n\nConsiderando que, em relação à vigilância e ao controlo dos meios afectados, os Estados-membros são livres em qualquer momento de fixar outros parâmetros além dos previstos na presente directiva;\n\nConsiderando que é necessário precisar os dados relativos às modalidades de vigilância e de controlo que os Estados-membros transmitirão à Comissão; que é conveniente que a Comissão publique, com o acordo prévio dos Estados-membros, um relatório síntese destes dados;\n\nConsiderando que, em certas circunstâncias naturais, as operações de vigilância e de controlo podem revelar-se difíceis de executar; que é necessário prever a possibilidade de derrogar em certos casos, a presente directiva;\n\nConsiderando que o progresso técnico e científico pode exigir uma adaptação rápida de certas disposições dos anexos; que convém, para facilitar a execução das medidas necessárias para esse efeito, prever um procedimento que crie uma cooperação estreita entre os Estados-membros e a Comissão no âmbito de um comité para a adaptação ao progresso técnico e científico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "46e59057bfba896f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA presente directiva fixa, em conformidade com o n.º 3 do artigo 7.º da Directiva 78/176/CEE, as modalidades de vigilância e de controlo dos efeitos que a descarga, a imersão, a armazenagem, o depósito ou a injecção de resíduos provenientes da indústria do dióxido de titânio têm sobre o meio, considerado sob os seus aspectos físicos, químicos e ecológicos."
+  },
+  "3e2d457526f10389": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n— meios afectados: as águas, a superfície terrestre e o subsolo, bem como o ar, nos quais são descarregados, imersos, armazenados, depositados ou injectados, os resíduos da indústria do dióxido de titânio,\n\n— local de colheita: o ponto característico de amostragem."
+  },
+  "70193c7d99e07182": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os parâmetros aplicáveis para a vigilância e o controlo referidos no artigo 1.º são especificados nos anexos.\n\n2. Quando um parâmetro constar da coluna «determinação obrigatória» nos anexos, a colheita e a análise das amostras devem ser efectuadas relativamente aos compartimentos indicados.\n\n3. Quando um parâmetro constar da coluna «determinação facultativa» nos anexos, a colheita e a análise das amostras serão efectuadas em relação aos compartimentos indicados, se os Estados-membros o considerarem necessário."
+  },
+  "6bb0cdf8879d67ca": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-membros procederão à vigilância e ao controlo dos meios afectados e de uma zona vizinha considerada não afectada, tendo em conta, nomeadamente, as condições locais desses meios e as condições de eliminação — intermitente ou contínua — dos resíduos em questão.\n\n2. Salvo disposição em contrário, prevista nos anexos, os Estados-membros, definirão, caso a caso, os locais exactos de colheita, a distância entre estes e o ponto de eliminação do poluente mais próximo, bem como a profundidade ou a altura à qual as amostras devem ser colhidas.\n\nA colheita de amostras deve efectuar-se nos mesmos locais e nas mesmas condições em que as operações de amostragem se sucedem; por exemplo, no caso das águas do mar sujeitas à influência de marés, as amostras serão colhidas à mesma hora em relação à maré alta e ao coeficiente da maré.\n\n3. Tendo em vista a vigilância e o controlo dos meios afectados, os Estados-membros fixarão a frequência de amostragem e de análise para cada parâmetro referido nos anexos.\n\nEm caso de parâmetros cuja determinação é obrigatória, a frequência de amostragem e de análise não pode ser inferior às frequências mínimas indicadas nos anexos. Todavia, quando o comportamento, o destino e os efeitos das descargas tiverem sido, na medida do possível, estabelecidos e desde que não haja nenhuma deterioração significativa na qualidade do ambiente, os Estados-membros podem definir uma frequência de amostragem e de análise para essas frequências. Se se verificar, posteriormente, uma deterioração significativa da qualidade do ambiente imputável quer aos resíduos, quer a uma mudança nos processos de eliminação dos resíduos, o Estado-membro reintroduz uma frequência de amostragem e de análise igual pelo menos à especificada nos anexos. Se um Estado-membro o considerar necessário ou oportuno, pode fazer uma distinção entre diferentes parâmetros, aplicando as disposições do presente parágrafo àqueles para os quais não foi verificada nenhuma deterioração significativa da qualidade do ambiente.\n\n4. Em relação à vigilância e controlo de uma zona vizinha adequada, considerada não afectada, a fixação da frequência de amostragem e de análise é deixada ao critério dos Estados-membros. Quando um Estado-membro verificar que não é possível definir uma tal zona, deve comunicar esse facto à Comissão."
+  },
+  "477fb3130b883c35": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os métodos de medição de referência destinados a determinar o valor dos parâmetros são especificados nos anexos. Os laboratórios que utilizam outros métodos devem assegurar-se de que os resultados obtidos são comparáveis.\n\n2. Os recipientes destinados a conter as amostras, os agentes ou métodos para conservar uma amostra parcial, tendo em vista a análise de um ou de vários parâmetros, o transporte e a armazenagem das amostras, bem como a sua preparação para a análise não devem ser susceptíveis de alterar de forma significativa o resultado desta última."
+  },
+  "8732a996a86e5c17": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nEm relação à vigilância e controlo dos meios afectados, os Estados-membros são livres de em qualquer momento, fixar outros parâmetros para além dos previstos na presente directiva."
+  },
+  "47ce18504a738caf": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O relatório que os Estados-membros são obrigados a transmitir à Comissão, nos termos do artigo 14.º da Directiva 78/176/CEE, deve conter os dados relativos às operações de vigilância e de controlo que foram efectuadas pelos organismos designados por força do n.º 2 do artigo 7.º da mesma directiva. Estes dados incluirão nomeadamente, para cada zona afectada:\n\n— a descrição do local de colheita, incluindo esta os elementos fixos podendo ser representados por um código e diversas outras informações administrativas e geográficas. Esta descrição é feita apenas uma vez, aquando da criação do ponto característico de amostragem,\n\n— a descrição dos métodos de colheita utilizados,\n\n— os resultados da medição dos parâmetros cuja determinação é obrigatória assim como, se os Estados-membros o considerarem útil, os dos parâmetros cuja determinação é facultativa,\n\n— os métodos de medida e de análise utilizados e, se for caso disso, o seu limite de detecção, a sua exactidão e a sua precisão,\n\n— as modificações introduzidas em conformidade com o n.º 3 do artigo 4.º no que diz respeito à frequência de amostragem e de análise.\n\n2. As primeiras informações a comunicar na aplicação do n.º 1 serão aquelas recolhidas durante o terceiro ano a seguir à notificação da presente directiva.\n\n3. A Comissão publicará em forma resumida, com o acordo prévio do Estado-membro em causa, as informações que lhe são fornecidas.\n\n4. A Comissão avaliará a eficácia do procedimento de vigilância e de controlo dos meios afectados e apresentará ao Conselho, se for caso disso, num prazo máximo de seis anos após a notificação da presente directiva, propostas tendentes a melhorar este procedimento e a harmonizar se necessário, os métodos de medida, incluindo o seu limite de detecção, a sua exactidão e precisão, bem como os métodos de colheita de amostras."
+  },
+  "2bb40749fb4f1300": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs Estados-membros poderão derrogar a presente directiva em caso de inundações ou de catástrofes naturais, ou devido a circunstâncias meteorológicas excepcionais."
+  },
+  "f756d55c791ae577": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Comissão aprova as alterações necessárias tendo em vista a adaptação dos anexos ao progresso técnico e científico, no que se refere aos parâmetros enumerados na coluna «determinação facultativa» e aos métodos de medida de referência.\n\nEssas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 2 do artigo 11.º."
+  },
+  "01c01e09d9a6f08c": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. É instituído um Comité para a adaptação ao progresso técnico, a seguir denominado «Comité», composto por representantes dos Estados-membros e presidido por um representante da Comissão."
+  },
+  "a4578f24f1377aac": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A Comissão é assistida pelo comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "eb06fb85a95cdea0": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA alínea c) do n.º 1, do artigo 8.º da Directiva 78/176/CEE, passa a ter a seguinte redacção:\n\n«c) se os resultados do controlo que os Estados-membros são obrigados a exercer sobre o meio afectado revelarem uma degradação na zona considerada, ou.»"
+  },
+  "88fdea429227cfc9": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nQuando a eliminação de resíduos necessitar, nos termos do n.º 1 do artigo 4.º da Directiva 78/176/CEE, da concessão de autorizações prévias pelas autoridades competentes de vários Estados-membros, os Estados-membros em questão consultar-se-ão sobre o conteúdo e a execução do programa de controlo."
+  },
+  "37421787b6f6a9af": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva no prazo de dois anos a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "d287b3f0b5880f7e": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs Estados-membros são destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "51eceddfb45fee68": {
+   "fragment_id": "MODO DE ELIMINAÇÃO DE RESÍDUOS: EMISSÕES PARA A ATMOSFERA",
+   "type": "divisao",
+   "heading": "MODO DE ELIMINAÇÃO DE RESÍDUOS: EMISSÕES PARA A ATMOSFERA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODO DE ELIMINAÇÃO DE RESÍDUOS: EMISSÕES PARA A ATMOSFERA\n\n| Compartimentos | Parâmetros cuya determinação é | Frequência mínima anual de amostragem e análise | Observações |  |\n| --- | --- | --- | --- | --- |\n| obrigatória | facultativa |  |  |  |\n| *Ar* | Dióxido de enxofre (SO2) [(^1^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0005) Cloro [(^2^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0006) | Poeiras | Em contínuo | 1.Região vigiada por uma rede de vigilância da poluição do ar, tendo pelo menos uma estação na proximidade do local de produção, e representativa da poluição emanente do local. |\n|  |  |  | 12 [(^3^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0007) | 2.Região não dotada de rede de vigilância.Medição das quantidades totais de emissoes gasosas emitidas pelo local de produção. No caso de fontes de emissão múltiplas provenientes dum emsmo local, pode prever-se a medição sequencial.O método de medição de referência aplicável ao dióxido de enxofre é o que consta do Anexo III da Directiva 80/799/CEE do Conselho, de 15 de Julho de 1980, respeitante aos valores limite e aos valores guia de qualidade atmosférica para o dióxido de enxofre e partículas em suspensao.(JO n.º L 229 de 30.8.1980, p. 30) |\n| (^1^)Se o processo de produção utilizado é o processo a sulfato. (^2^)A ter em consideração quando as técnicas de medição permitam uma medição apropriada, e se o processo de produção for o processo ao cloro. (^3^)Os dados devem ser suficientemente representativos e significativos. |  |  |  |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "40b883429f8d4244": {
+   "fragment_id": "MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA OU IMERSÃO EM ÁGUAS MARINHAS",
+   "type": "divisao",
+   "heading": "MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA OU IMERSÃO EM ÁGUAS MARINHAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA OU IMERSÃO EM ÁGUAS MARINHAS"
+  },
+  "0a14c58737987d50": {
+   "fragment_id": "(estuarinas, costeiras, águas profundas)",
+   "type": "divisao",
+   "heading": "(estuarinas, costeiras, águas profundas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (estuarinas, costeiras, águas profundas)\n\n| Compartimentos | Parâmetros cuya determinação é | Frequência mínima anual de amostragem e análise | Métodos de medida de referência |  |\n| --- | --- | --- | --- | --- |\n| obrigatória | facultativa |  |  |  |\n| *Coluna de água* Água do mar não filtrada [(^1^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0008) | Temperatura (°C) |  | 3 | Termometria — a medição é efectuada *in situ* ao mesmo tempo que a amostragem |\n| Salinidade (‰) |  | 3 | Condutimetria |  |\n| pH (unidade pH) |  | 3 | Electrometria — a medição é efectuada *in situ* ao mesmo tempo que a amostragem |  |\n| O2 dissolvido (mg/O2 dissolvido/l) |  | 3 | — método de Winkler — método electroquímico |  |\n| Turvação (mg sólidos/l) ou sólidos suspensos (mg/l) |  | 3 | Para a turvação: turbidimetria Para sólidos suspensos: gravimetria — filtração em membrana filtrante de 0,45 μm de porosidade, secagem a 105°C e pesagem — centrifugação (tempo mínimo: 5 min, aceleração média: 2 800 a 3 200 g), secagem a 105°C e pesagem |  |\n| Fe (dissolvido e em suspensão) (mg/l) |  | 3 | Após preparação adequada da amostra: dosagem por espectrometria de absorção atómica ou por espectrofotometria de absorção molecular |  |\n|  | Cr, Cd total, Hg total (mg/l) | 3 | — Espectrometria de absorção atómica — Espectrometria de absorção molecular |  |\n| Ti (mg/l) | V, Mn, Ni, Zn (mg/l) | 3 | Espectrometria de absorção atómica |  |\n|  | Cu, Pb (mg/l) | 3 | — Espectrometria de absorção atómica — Polarografia |  |\n| Água do mar filtrada através de membrana filtrante de porosidade 0,45 μm [(^2^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0009) | Fe dissolvido (mg/l) |  | 3 | Dosagem por espectrometria de absorção atómica ou por espectrometria de absorção molecular |\n|  | Cr, Cd, Hg (mg/l) | 3 | — espectrometria de absorção atómica — espectrometria de absorção molecular |  |\n|  | Ti, V, Mn, Ni, Zn (mg/l) | 3 | — espectrometria de absorção atómica |  |\n|  | Cu, Pb (mg/l) | 3 | — espectrometria de absorção atómica — polarografía |  |\n| Sólidos suspensos retidos por membrana filtrante de porosidade 0,45 μm | Fe total (mg/l) | Cr, Cd, Hg (mg/l) | 3 | — espectrometria de absorção atómica — espectrometria de absorção molecular |\n|  | Ti, V, Mn, Ni, Zn (mg/l) | 3 | — espectrometria de absorção atómica |  |\n|  | Cu, Pb (mg/l) | 3 | — espectrometria de absorção atómica — polarografia |  |\n| Óxidos hidratados e hidroxidos de ferro (mg Fe/l) |  | 3 | Extração da amostra em meio ácido apropriado: dosagens por espectrometria de absorção atómica ou por espectrofotometria de absorção molecular. Para todas as amostras provenientes do mesmo local será utilizado o mesmo processo de extração ácida. |  |\n| *Sedimentos* Na camada superficial do sedimento, o mais perto possível da superfície | Ti, Fe total (mg/kg de matéria seca) | V, Cr, Mn, Ni, Cu, Zn, Cd, Hg, Pb (mg/kg de matéria seca) | 1 | Métodos idênticos aos utilizados nas medições efectuadas em coluna de água. Após preparação apropriada da amostra (mineralização por via húmida ou seca e purificação). Os teores de metais são sempre determinados para uma classe granulométrica determinada |\n| Óxidos hidratados e hidróxidos de ferro (mg Fe/kg) |  | 1 | Métodos idênticos aos utilizados nas medições, efectuadas em coluna de água |  |\n| *Organismos vivos* Espécies representativas do local: peixes e invertebrados bênticos ou outras espécies apopriadas [(^3^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0010) | Ti, Cr, Fe, Ni, Zn, Pb (mg/kg peso húmido e seco) | V, Mn, Cu, Cd, Hg (mg/kg peso húmido e seco) | 1 | Espectrometria de absorção atómica, após preparação apropriada da amostra triturada (mineralização por via húmida ou seca e purificação) — nos peixes, os metais são pesquisados, no tecido muscular ou outros orgãos apropriados; a amostra deve consistir em pelo menos 10 indivíduos — nos moluscos e crustáceos, os metais são pesquisados na sua polpa; a amostra deve consistir em pelo menos 50 indivíduos |\n| Fauna bêntica | Diversidade e abundância relativa |  | 1 | Triagem qualitativa e quantitativa das espécies representativas, indicando o n.º de indivíduos por espécie, a densidade e a dominância |\n| Fauna planctónica |  | Diversidade e abundância relativa | 1 | Triagem qualitativa e quantitativa das espécies representativas, indicando o n.º de indivíduos por espécie, a densidade e a dominância |\n| Flora |  | Diversidade e abundância relativa | 1 | Triagem qualitativa e quantitativa das espécies representativas, indicando o n.º de indivíduos por espécies, a densidade e a dominância |\n| Peixes em especial | Presença de lesões anatomopatológicas nos peixes |  | 1 | Inspecção visual das amostras das espécies representativas, recolhidas para análise química |\n| (^1^)Os Estados-membros têm a possibilidade de escolher analisar ou água não filtrada, ou a água filtrada para as substâncias que figuram nas colunas «Parâmetros». (^2^)Os Estados-membros têm a possibilidade de escolher analisar ou a água não filtrada, ou a água filtrada para as substâncias que figuram nas colunas «Parâmetros». (^3^)Espécies representativas do local de descarga, determinadas especialmente em função da sua sensibilidade a eventuais fenómenos de bioacumulação, tais como o *Mytilus edulis, Crangon crangon*, solha espinhosa, patruça, bacalhau, cavala, salmonete, arenque, solha (ou outra espécie bentica apropriada). |  |  |  |  |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "f7940845b433e7a3": {
+   "fragment_id": "MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA EM ÁGUAS DOCES SUPERFICIAIS",
+   "type": "divisao",
+   "heading": "MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA EM ÁGUAS DOCES SUPERFICIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODO DE ELIMINAÇÃO DE RESÍDUOS: DESCARGA EM ÁGUAS DOCES SUPERFICIAIS\n\n| Compartimentos | Parâmetros cuja determinação é | Frequência mínima anual de amostragem e análise | Métodos de medida de referência |  |\n| --- | --- | --- | --- | --- |\n| obrigatória | facultativa |  |  |  |\n| *Coluna de água* [(^1^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0011) Água doce não filtrada | Temperatura (°C) |  | 3 | Termometria. A medição é efectuada *in situ* ao mesmo tempo que a amostragem |\n| Condutividade a 20°C (μs cm^-1^) |  | 3 | Medição electrométrica |  |\n| pH (unidade pH) |  | 3 | Electrometria. A medição é efectuada *in situ* ao mesmo tempo que a amostragem |  |\n| O2 disolvido (mg O2 dissolvido/l) |  | 3 | — método de Winkler — método electroquímico |  |\n| Turvação (mg sólidos/l) ou sólidos suspensos (mg/l) |  | 3 | Para a turvação: turbidimetria Para os sólidos suspensos: gravimetria — filtração em membrana filtrante de 0,45 μm, secagem a 105 °C e pesagem |  |\n| Água doce não filtrada [(^2^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0012) | Fe (dissolvido e em suspensão) (mg/l) |  | 3 | Após preparação apropriada da amostra: dosagem por espectrometria de absorção atómica e espectrofotometria de absorção molecular |\n|  | Cr, Cd total, Hg total (mg/l) | 3 | — espectrometria de absorção atómica — espectrofotometria de absorção molecular |  |\n| Ti (mg/l) | V, Mn, Ni, Zn (mg/l) | 3 | Espectrometria de absorção atómica |  |\n|  | Cu, Pb (mg/l) | 3 | — espectrometria de absorção atómica — polarografia |  |\n| Agua doce filtrada através de membrana filtrante de 0,45 μm [(^2^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0012) de porosidade | Fe dissolvido (mg/l) |  | 3 | Dosagem por espectrometria de absorção atómica ou espectrofotometria de absorção molecular |\n|  | Cr, Cd, Hg (mg/l) | 3 | — espectrometria de absorção atómica — espectrofotometria de absorção molecular |  |\n|  | Ti, V, Mn, Ni, Zn (mg/l) | 3 | Espectrometria de absorção atómica |  |\n|  | Cu, Pb (mg/l) | 3 | — espectrometria de absorção atómica — polarografia |  |\n| Sólidos suspensos retidos por membrana filtrante de de 0,45 μm de porosidade | Fe (mg/l) | Cr, Cd, Hg (mg/l) | 3 | — espectrometria de absorção atómica — espectrofotometria de absorção molecular |\n|  | Ti, V, Mn, Ni, Zn (mg/l) | 3 | Espectrometria de absorção atómica |  |\n|  | Cu, Pb (mg/l) | 3 | — espectrometria de absorção atómica — polarografia |  |\n| Óxidos hidratados e hidróxidos de ferro (mg/l) |  | 3 | Extracção da amostra em meio ácido apropriado: dosagem por espectrometria da absorção atómica ou por espectrofotometria de absorção molecular Para todas as amostras provenientes do mesmo local, utiliza-se um procedimento idêntico, de extracção ácida |  |\n| *Sedimentos* Na camada superficial do sedimento, o mais perto possível da superfície | Ti, Fe (mg/kg matérias secas) | V, Cr, Mn, Ni, Cu, Zn, Cs, Hg, Pb (mg/kg matérias secas) | 1 | Métodos idênticos aos utilizados nas medições efectuadas em coluna de água Após preparação apropriada da amostra (mineralização por via húmida ou seca e purificação). Os teores de metais são sempre determinados para uma classe granulométrica determinada |\n| Óxidos hidratados e hidróxidos de ferro (mg Fe/kg) |  | 1 | Métodos idênticos aos utilizados nas medições efectuadas em coluna de água |  |\n|  |  |  |  | — para os moluscos e crustáceos, os metais são pesquisados na sua polpa; a amostra deve consistir em pelo menos 50 indivíduos |\n| Fauna bêntica | Diversidade e abundância relativa |  | 1 | Triagem qualitativa e quantitativa das espécies representativas, indicando o n.º de indivíduos por espécies, a densidade e a dominância |\n| Fauna planctónica |  | Diversidade e abundância relativa | 1 | Triagem qualitativa e quantitativa das espécies representativas, indicando o n.º de indivíduos por espécie, a densidade e a abundância |\n| Peixes em especial |  | Presença de lesões anátomo patológicas dos peixes | 1 | Inspecção visual das amostras das espécies representativas recolhidas para análise química |\n| (^1^)As colheitas devem ser efectuadas na mesma época do ano e, se possível, a 50 cm de profundidade. (^2^)Os Estados-membros têm a possibilidade de escolher analisar ou a água não filtrada, ou a água filtrada para as substâncias que figuram nas colunas «Parâmetros». |  |  |  |  |"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "7bb4a28dd205ca15": {
+   "fragment_id": "MODO DE ELIMINAÇÃO DE RESÍDUOS: ARMAZENAGEM E DEPOSIÇÃO NO SOLO",
+   "type": "divisao",
+   "heading": "MODO DE ELIMINAÇÃO DE RESÍDUOS: ARMAZENAGEM E DEPOSIÇÃO NO SOLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODO DE ELIMINAÇÃO DE RESÍDUOS: ARMAZENAGEM E DEPOSIÇÃO NO SOLO\n\n| Compartimentos | Parâmetros cuja determinação é | Frequência mínima anual de amostragem e análise | Métodos de medida de referência |  |\n| --- | --- | --- | --- | --- |\n| obrigatória | facultativa |  |  |  |\n| 1.*Águas de superfície* não filtradas, perto do local na zona de influência da armazenagem e num ponto exterior a esta zona [(^1^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0013) [(^2^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0014) [(^3^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0015)2.Águas subterrâneas não filtradas perto do local, compreendendo, quando for o caso, os seus exutores [(^1^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0013) [(^2^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0014) | pH (unidades pH) |  | 1 | Electrometria. A medição é efectuada ao mesmo tempo que a amostragem |\n| SO4 [(^4^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0016) (mg/l) |  | 1 | — gravimetria — complexometria do EDTA — espectrofotometria de absorção molecular |  |\n| Ti [(^5^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0017) (mg/l) | V, Mn, Ni, Zn (mg/l) | 1 | Espectrometria de absorção atómica |  |\n| Fe [(^6^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0018) (mg/l) | Cr (mg/l) | 1 | — espectrometria de absorção atómica — espectrofotometria de absorção molecular |  |\n| Ca (mg/l) |  | 1 | — espectrometria de absorção atómica — complexometria |  |\n|  | Cu, Pb (mg/l) | 1 | — espectrometria de absorção atómica — polarografia |  |\n| Cl [(^5^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0017) (mg/l) |  | 1 | Titulação (método de Mohr) |  |\n| Ambiente do local de armazenagem e de deposição | Inspecção visual relativa a: — topografia e gestão do local — efeito no sub-solo — ecologia do local |  | 1 | Métodos da responsabilidade do Estado-membro |\n| (^1^)As amostragens devem ser efectuadas na mesma época do ano. (^2^)No âmbito do controlo das águas superficiais e das águas subterrâneas, será dada particular atenção às contribuições eventuais provenientes de águas de escorrência vindas da área de armazenagem dos resíduos. (^3^)As amostragens devem ser efectuadas a 50 cm de superfície, se possível. (^4^)Determinação obrigatória no caso de a armazenagem ou depósito conterem resíduos provenientes do processo com sulfato. (^5^)Determinação obrigatória no caso de a armazenagem ou depósito conterem resíduos provenientes do processo com cloro. (^6^)Compreende igualmente a determinação do Fe no filtrado (sólidos suspensos). |  |  |  |  |"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "4840ec40836a5f8c": {
+   "fragment_id": "MODO DE ELIMINAÇÃO DE RESÍDUOS: INJECÇÃO NO SOLO",
+   "type": "divisao",
+   "heading": "MODO DE ELIMINAÇÃO DE RESÍDUOS: INJECÇÃO NO SOLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODO DE ELIMINAÇÃO DE RESÍDUOS: INJECÇÃO NO SOLO\n\n| Compartimentos | Parâmetros cuya determinação é | Frecuência mínima anual de amostrA geme e análise | Métodos de medida de referência |  |\n| --- | --- | --- | --- | --- |\n| obrigatória | facultativa |  |  |  |\n| 1.*Águas de superficície* não filtradas perto do local na zona de influência da injecçao2.*Águas subterrâneas* não filtradas sob e perto do local, incluindo os seus exutores | pH (unidades pH) |  | 1 | Electrometria. A medição é efectuada ao mesmo tempo que a amostagem |\n| SO4 [(^1^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0019) (mg/l) |  | 1 | — gravimetria — complexometria do EDTA — espectrofotometria de absorção molecular |  |\n| Ti [(^2^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0020) (mg/l) | V, Mn, Ni, Zn (mg/l) | 1 | Espectrometria de absorção atómica |  |\n| Fe [(^3^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0021) (mg/l) | Cr (mg/l) | 1 | — espectrometria de absorção atómica — espectrofotometria de absorção molecular |  |\n| Ca (mg/l) |  | 1 | — espectrometria de absorção atómica — complexometria |  |\n|  | Cu, Pb (mg/l) | 1 | — espeçtrometria de absorção atómica — polarografia |  |\n| Cl [(^2^)](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#E0020) (mg/l) |  | 1 | Titulação (Método de Mohr) |  |\n| *Ambiente* Topografia | Estabilidade do solo |  | 1 | Controlo fotográfico e topográfico |\n| Permeabilidade Porosidade |  | 1 | Ensaios de bombagem Diagráfia de brocagem |  |\n| (^1^)Determinação obrigatória no caso da injecção no solo de resíduos provenientes do processo com sulfato. (^2^)Determinação obrigatória no caso da injecção no solo de resíduos provenientes do processo com cloro. (^3^)Compreende igualmente a determinação do Fe no filtrado (sólidos suspensos). |  |  |  |  |\n\n---"
+  },
+  "060462594535f995": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#src.E0001)) JO n.º L 54 de 25.2.1978, p. 19.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#src.E0002)) JO n.º C 356 de 31.12.1980, p. 32, e JO n.º C 187 de 22.7.1982, p. 10.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#src.E0003)) JO n.º C 149 de 14.6.1982, p. 101.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/0c1c43c8-eaa4-4b07-b638-1864e1394bc8.0018.03/DOC_1#src.E0004)) JO n.º C 230 de 10.9.1981, p. 5."
+  },
+  "e568fe182e0d44e4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1982L0883 — PT — 07.01.2014 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31982L0883) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31982L0883) [de 3 de Dezembro de 1982](http://publications.europa.eu/resource/celex/31982L0883) [relativa às modalidades de vigilância e de controlo dos meios afectados por descargas provenientes da indústria de dióxido de titânio](http://publications.europa.eu/resource/celex/31982L0883) [(82/883/CEE)](http://publications.europa.eu/resource/celex/31982L0883) (JO L 378, 31.12.1982, p.1)\n\n**revogado por:**\n\n- [Directiva 2010/75/UE do Parlamento Europeu e do Conselho de 24 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010L0075) — L 334 — 17 — 17.12.2010"
+  }
+ }
+}

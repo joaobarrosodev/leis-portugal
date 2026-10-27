@@ -1,0 +1,1097 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:404743:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-203083770",
+ "dre_path": "/dr/detalhe/decreto-lei/316-2002-404743",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-12-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "203156184",
+    "203156185",
+    "203156186",
+    "203156187",
+    "203156188",
+    "203156190",
+    "203156191",
+    "203156192",
+    "203156193",
+    "203156194",
+    "203156195",
+    "203156196",
+    "203156197",
+    "203156198",
+    "203156199",
+    "203156200",
+    "203156201",
+    "203156202",
+    "203156203",
+    "203156204",
+    "203156205",
+    "203156206",
+    "203156207",
+    "203156208",
+    "203156209",
+    "203156210",
+    "203156211",
+    "203156212",
+    "203156213",
+    "203156214",
+    "203156215",
+    "203156216",
+    "203156217",
+    "203156218",
+    "203156219",
+    "203156220",
+    "203156221",
+    "203156222",
+    "203156223",
+    "203156224",
+    "203156225",
+    "203156226",
+    "203156227",
+    "203156228",
+    "203156229",
+    "203156230",
+    "203156231",
+    "203156232",
+    "203156233",
+    "203156234",
+    "203156235",
+    "203156236",
+    "203156237",
+    "203156238",
+    "203156239",
+    "203156240",
+    "203156241",
+    "203156242",
+    "203156243",
+    "203156244",
+    "203156245",
+    "203156246",
+    "203156247",
+    "203156248",
+    "203156249",
+    "203156250",
+    "203156251",
+    "203156252",
+    "203156253",
+    "203156254",
+    "203156255",
+    "203156256",
+    "203156257",
+    "203156258",
+    "203156259",
+    "203156260",
+    "203156261",
+    "203156262",
+    "203156263",
+    "203156264",
+    "203156265",
+    "203156266",
+    "203156267",
+    "203156268",
+    "203156269",
+    "203156270",
+    "203156271",
+    "203156272",
+    "203156273",
+    "203156274",
+    "203154075",
+    "203154076",
+    "203154077",
+    "203154078",
+    "203154079",
+    "203154080",
+    "203154081",
+    "203154082",
+    "203154083",
+    "203154084",
+    "203154085",
+    "203154086"
+   ]
+  },
+  {
+   "date": "2022-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:203083712:por",
+     "title": "Decreto-Lei n.º 77/2022",
+     "published": "2022-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/77-2022-203083712"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 26.º",
+    "Altera Artigo 65.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "203156184",
+    "203156185",
+    "203156186",
+    "203156187",
+    "203156188",
+    "203156189",
+    "203156190",
+    "203156191",
+    "203156192",
+    "203156193",
+    "203156194",
+    "203156195",
+    "203156196",
+    "203156197",
+    "203156198",
+    "203156199",
+    "203156200",
+    "203156201",
+    "203156202",
+    "203156203",
+    "203156204",
+    "203156205",
+    "203156206",
+    "203156207",
+    "203156208",
+    "203156209",
+    "203156210",
+    "203156211",
+    "203156212",
+    "203156213",
+    "203156214",
+    "203156215",
+    "203156216",
+    "203156217",
+    "203156218",
+    "203156219",
+    "203156220",
+    "203156221",
+    "203156222",
+    "203156223",
+    "203154087",
+    "203156225",
+    "203156226",
+    "203156227",
+    "203156228",
+    "203156229",
+    "203156230",
+    "203156231",
+    "203156232",
+    "203156233",
+    "203156234",
+    "203156235",
+    "203156236",
+    "203156237",
+    "203156238",
+    "203156239",
+    "203156240",
+    "203156241",
+    "203156242",
+    "203156243",
+    "203156244",
+    "203156245",
+    "203156246",
+    "203156247",
+    "203156248",
+    "203156249",
+    "203156250",
+    "203156251",
+    "203156252",
+    "203156253",
+    "203156254",
+    "203156255",
+    "203156256",
+    "203156257",
+    "203156258",
+    "203156259",
+    "203156260",
+    "203156261",
+    "203156262",
+    "203156263",
+    "203156264",
+    "203156265",
+    "203156266",
+    "203156267",
+    "203156268",
+    "203156269",
+    "203156270",
+    "203156271",
+    "203156272",
+    "203156273",
+    "203154088",
+    "203154075",
+    "203154076",
+    "203154077",
+    "203154078",
+    "203154079",
+    "203154080",
+    "203154081",
+    "203154082",
+    "203154083",
+    "203154084",
+    "203154089",
+    "203154086"
+   ]
+  }
+ ],
+ "fragments": {
+  "203156184": {
+   "fragment_id": "203083771",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 316/2002\n\nde 27 de Dezembro\n\nO Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, constante do Decreto n.º 566/71, de 20 de Dezembro, sofreu ao longo de quase três décadas de vigência sucessivas alterações, que se considera aconselhável reunir num único diploma.\n\nImpõe-se também adequar as disposições normativas contidas naquele Regulamento às normas constitucionais e às alterações operadas na organização, funcionamento e disciplina das Forças Armadas, decorrentes da entrada em vigor da Lei de Defesa Nacional e das Forças Armadas (LDNFA), da Lei Orgânica de Bases da Organização das Forças Armadas (LOBOFA), da Lei do Serviço Militar (LSM) e do Estatuto dos Militares das Forças Armadas (EMFAR).\n\nAlém disso, importa integrar no Regulamento da Medalha Militar as medalhas da cruz de São Jorge, de D. Afonso Henriques - Patrono do Exército, da cruz naval e de mérito aeronáutico, instituídas, respectivamente, pelos Decretos-Leis n.os 325/2000, de 22 de Dezembro, e 397/85, 398/85 e 399/85, de 11 de Outubro.\n\nNão dispondo o Ministério da Defesa Nacional de uma medalha privativa destinada a premiar serviços notáveis nele prestados ou em benefício da Defesa Nacional em geral, torna-se necessário colmatar essa omissão com a criação de uma medalha correspondente às existentes no Estado-Maior-General e nos ramos das Forças Armadas, aproveitando-se para o efeito o modelo do brasão de armas do Ministro da Defesa Nacional, instituído pela Portaria n.º 587/79, de 8 de Novembro.\n\nTambém o esforço físico e mental normalmente associado à privação de liberdade justifica a criação de uma medalha, a ser atribuída aos militares e civis que em situação de campanha ou em circunstâncias com ela directamente relacionadas, bem como noutras missões de serviço em território nacional ou no estrangeiro, designadamente no âmbito das missões humanitárias e de paz, tenham estado privados de liberdade. Neste sentido é criada a medalha de reconhecimento.\n\nA institucionalização da prestação voluntária do serviço militar em tempo de paz e o consequente esforço na obtenção dos efectivos necessários às Forças Armadas torna necessária uma crescente valorização e reconhecimento da condição militar, para a qual deve contribuir a aplicação do Regulamento agora aprovado, independentemente da natureza do vínculo dos militares que devam ser galardoados.\n\nConsiderando, ainda, a necessidade de rever a ordem de precedência de algumas das condecorações, determinada quer pela criação de umas, quer pela extinção de outras:\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "203156185": {
+   "fragment_id": "203083772",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado o Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, cujo texto se publica em anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "203156186": {
+   "fragment_id": "203083773",
+   "type": 11,
+   "heading": "Artigo 2.º — Manutenção de precedência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Manutenção de precedência\n\nA Ordem do Império, a medalha de serviços distintos ou relevantes no ultramar e a medalha da vitória mantêm, para os possuidores destes galardões, as posições de precedência previstas no Regulamento ora revogado."
+  },
+  "203156187": {
+   "fragment_id": "203083774",
+   "type": 11,
+   "heading": "Artigo 3.º — Medalhas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Medalhas nacionais\n\nOs militares possuidores de medalhas nacionais, cujo uso tenha sido autorizado nos termos da precedência 20.ª do n.º 1 do artigo 92.º do Regulamento ora revogado, podem, envergando uniforme, continuar a usar estas condecorações."
+  },
+  "203156188": {
+   "fragment_id": "203153975",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nSem prejuízo do disposto nos artigos anteriores, fica revogada toda a legislação que contrarie o disposto no presente diploma, designadamente:\n\nDecreto n.º 566/71, de 20 de Dezembro;\n\nDecreto n.º 95/77, de 8 de Julho;\n\nDecreto n.º 4/79, de 17 de Janeiro;\n\nDecreto n.º 37/80, de 12 de Junho;\n\nDecreto-Lei n.º 715/74, de 12 de Dezembro;\n\nDecreto-Lei n.º 99/83, de 18 de Fevereiro;\n\nDecreto-Lei n.º 211 /83, de 24 de Maio;\n\nDecreto-Lei n.º 331/84, de 16 de Outubro;\n\nDecreto-Lei n.º 397/85, de 11 de Outubro;\n\nDecreto-Lei n.º 398/85, de 11 de Outubro;\n\nDecreto-Lei n.º 399/85, de 11 de Outubro;\n\nDecreto-Lei n.º 325/2000, de 22 de Dezembro."
+  },
+  "203156190": {
+   "fragment_id": "203153977",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DA MEDALHA MILITAR E DAS MEDALHAS COMEMORATIVAS DAS FORÇAS ARMADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DA MEDALHA MILITAR E DAS MEDALHAS COMEMORATIVAS DAS FORÇAS ARMADAS"
+  },
+  "203156191": {
+   "fragment_id": "203153978",
+   "type": 1,
+   "heading": "Capítulo I — Da medalha militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Da medalha militar"
+  },
+  "203156192": {
+   "fragment_id": "203153979",
+   "type": 8,
+   "heading": "Secção I — Finalidade e modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Finalidade e modalidades"
+  },
+  "203156193": {
+   "fragment_id": "203153980",
+   "type": 3,
+   "heading": "Subsecção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Disposições gerais"
+  },
+  "203156194": {
+   "fragment_id": "203153981",
+   "type": 11,
+   "heading": "Artigo 1.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Finalidade\n\n1 - A medalha militar, nas suas diferentes modalidades, destina-se a galardoar serviços notáveis prestados à instituição militar e à Nação e, bem assim, a distinguir altas virtudes reveladas no serviço por militares das Forças Armadas.\n\n2 - A medalha militar pode também ser concedida a militares estrangeiros e a civis nacionais ou estrangeiros, nos casos expressamente previstos neste Regulamento."
+  },
+  "203156195": {
+   "fragment_id": "203153982",
+   "type": 11,
+   "heading": "Artigo 2.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Modalidades\n\n1 - A medalha militar compreende as seguintes modalidades:\n\na) Valor militar;\n\nb) Cruz de guerra;\n\nc) Serviços distintos;\n\nd) Mérito militar;\n\ne) Privativas do Ministério da Defesa Nacional, do Estado-Maior-General e dos ramos das Forças Armadas;\n\nf) Comportamento exemplar.\n\n2 - As medalhas correspondentes às modalidades referidas nas alíneas a) e c) do número anterior, quando concedidas por feitos ou serviços em campanha, designam-se, respectivamente:\n\na) Valor militar, com palma;\n\nb) Serviços distintos, com palma.\n\n3 - As figuras e descrições técnicas dos padrões de insígnias das medalhas previstas nos n.os 1 e 2 do presente artigo constam do anexo I ao presente Regulamento, dele fazendo parte integrante."
+  },
+  "203156196": {
+   "fragment_id": "203153983",
+   "type": 11,
+   "heading": "Artigo 3.º — Campanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Campanha\n\nPara efeitos do presente diploma, entende-se por campanha a situação existente no decurso de operações militares, em tempo de guerra ou de conflito armado, no território nacional ou no estrangeiro, bem como no desempenho de missões militares de idêntica gravidade e risco, competindo ao Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior, definir, para o efeito, cada uma das situações."
+  },
+  "203156197": {
+   "fragment_id": "203153984",
+   "type": 3,
+   "heading": "Subsecção II — Da medalha de valor militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Da medalha de valor militar"
+  },
+  "203156198": {
+   "fragment_id": "203153985",
+   "type": 11,
+   "heading": "Artigo 4.º — Finalidade e graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Finalidade e graus\n\n1 - A medalha de valor militar é destinada a galardoar actos heróicos de extraordinária abnegação e valentia ou de grande coragem moral e excepcional capacidade de decisão, quer em campanha, quer em tempo de paz, mas sempre em circunstâncias em que haja comprovado ou presumível perigo de vida.\n\n2 - A medalha de valor militar compreende os seguintes graus:\n\na) Ouro;\n\nb) Prata;\n\nc) Cobre."
+  },
+  "203156199": {
+   "fragment_id": "203153986",
+   "type": 11,
+   "heading": "Artigo 5.º — Medalha de ouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Medalha de ouro\n\nA medalha de ouro de valor militar pode ser concedida aos militares que tenham praticado brilhantes e extraordinários actos de bravura, revelando audácia, desprezo pelo perigo e arrojo em frente do inimigo, ou tenham exercido firme e muito valorosa condução de operações de que haja resultado grande lustre para as armas portuguesas."
+  },
+  "203156200": {
+   "fragment_id": "203153987",
+   "type": 11,
+   "heading": "Artigo 6.º — Medalha de ouro para unidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Medalha de ouro para unidades\n\nA medalha de ouro de valor militar pode ainda ser concedida às unidades de terra, mar ou ar que tenham praticado um feito de armas muito brilhante e extraordinário ou tenham, com grande valor e raro exemplo de abnegação, heroísmo e coragem, sustentado contra o inimigo uma acção de que resulte excepcional honra e glória para a Pátria."
+  },
+  "203156201": {
+   "fragment_id": "203153988",
+   "type": 11,
+   "heading": "Artigo 7.º — Medalha de prata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medalha de prata\n\nA medalha de prata de valor militar pode ser concedida aos militares que:\n\na) Em campanha tenham praticado actos extraordinários de abnegação, valentia e coragem ou firme e notável condução de operações, demonstrando alta noção da grandeza do dever militar e da disciplina, em circunstâncias semelhantes às indicadas no artigo 5.º, embora não justificativas da concessão da medalha de ouro;\n\nb) Em tempo de paz tenham praticado actos extraordinários de abnegação, valentia e decisão, com desprezo pelo perigo, para submeter pelas armas à obediência e à disciplina elementos ou forças por qualquer forma constituídas em rebelião, ou por ocasião de acções armadas de qualquer natureza."
+  },
+  "203156202": {
+   "fragment_id": "203153989",
+   "type": 11,
+   "heading": "Artigo 8.º — Medalha de cobre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medalha de cobre\n\nA medalha de cobre de valor militar destina-se a galardoar militares por feitos idênticos aos mencionados no artigo anterior, mas em circunstâncias em que não seja de considerar a concessão da medalha de prata."
+  },
+  "203156203": {
+   "fragment_id": "203153990",
+   "type": 11,
+   "heading": "Artigo 9.º — Condição geral de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condição geral de atribuição\n\nÉ ainda condição de atribuição da medalha de valor militar que o militar a galardoar figure, a título nominal, no relatório de combate ou da acção em que se verificou o feito ou, em caso de acção de condução de operações, ser a mesma confirmada por entidade hierarquicamente superior, devendo o militar, em qualquer dos casos, ser louvado, individualmente, no Diário da República ou ordem do ramo, com a citação precisa dos factos extraordinários justificativos da concessão."
+  },
+  "203156204": {
+   "fragment_id": "203153991",
+   "type": 3,
+   "heading": "Subsecção III — Da medalha da cruz de guerra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Da medalha da cruz de guerra"
+  },
+  "203156205": {
+   "fragment_id": "203153992",
+   "type": 11,
+   "heading": "Artigo 10.º — Finalidade e classes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Finalidade e classes\n\n1 - A medalha da cruz de guerra destina-se a galardoar actos ou feitos de bravura praticados em campanha por cidadãos, militares ou não, nacionais ou estrangeiros.\n\n2 - A medalha da cruz de guerra compreende as seguintes classes:\n\na) 1.ª;\n\nb) 2.ª;\n\nc) 3.ª;\n\nd) 4.ª\n\n3 - A atribuição das diferentes classes da medalha é feita de acordo com a graduação dos critérios de exigência enunciados no n.º 3 do artigo 36.º"
+  },
+  "203156206": {
+   "fragment_id": "203153993",
+   "type": 11,
+   "heading": "Artigo 11.º — Medalha de 1.ª classe para unidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Medalha de 1.ª classe para unidades\n\nA medalha da cruz de guerra de 1.ª classe pode ser concedida a unidades de terra, mar e ar que hajam, colectivamente, praticado feitos de armas de excepcional valor."
+  },
+  "203156207": {
+   "fragment_id": "203153994",
+   "type": 11,
+   "heading": "Artigo 12.º — Condição geral de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condição geral de atribuição\n\nÉ condição de atribuição da medalha da cruz de guerra que os feitos praticados em campanha, frente ao inimigo, denotem coragem, decisão, serena energia debaixo de fogo, sangue frio e outras qualidades dignas de realce, e constem de louvor publicado no Diário da República ou em ordem do ramo, para a cruz de guerra de 1.ª classe, ou em ordem de unidade, estabelecimento ou órgão de comando, direcção ou chefia não inferior a:\n\na) Oficial general - para a cruz de guerra de 2.ª e 3.ª classes;\n\nb) Capitão-de-fragata ou tenente-coronel - para a cruz de guerra de 4.ª classe."
+  },
+  "203156208": {
+   "fragment_id": "203153995",
+   "type": 3,
+   "heading": "Subsecção IV — Da medalha de serviços distintos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Da medalha de serviços distintos"
+  },
+  "203156209": {
+   "fragment_id": "203153996",
+   "type": 11,
+   "heading": "Artigo 13.º — Finalidade e graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Finalidade e graus\n\n1 - A medalha de serviços distintos destina-se a galardoar serviços de carácter militar, relevantes e extraordinários, ou actos notáveis de qualquer natureza ligados à vida da instituição militar, de que resulte, em qualquer dos casos, honra e lustre para a Pátria ou para a própria instituição.\n\n2 - A medalha de serviços distintos compreende os seguintes graus:\n\na) Ouro;\n\nb) Prata;\n\nc) Cobre."
+  },
+  "203156210": {
+   "fragment_id": "203153997",
+   "type": 11,
+   "heading": "Artigo 14.º — Medalha de ouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medalha de ouro\n\nA medalha de ouro de serviços distintos é reservada ao militar que, no desempenho de uma muito importante comissão de serviço militar, designadamente no exercício de funções de comando, direcção e estado-maior, ou de uma alta missão de serviço público, bem como na prática de actos notáveis ligados à vida das Forças Armadas, tenha prestado serviços distintíssimos e relevantes, como tal qualificados em louvor individual, publicado no Diário da República ou ordem do ramo."
+  },
+  "203156211": {
+   "fragment_id": "203153998",
+   "type": 11,
+   "heading": "Artigo 15.º — Medalha de ouro para unidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Medalha de ouro para unidades\n\nA medalha de ouro de serviços distintos pode ser concedida a unidades militares que tenham prestado serviços classificados como distintos, nos termos do artigo 19.º"
+  },
+  "203156212": {
+   "fragment_id": "203153999",
+   "type": 11,
+   "heading": "Artigo 16.º — Medalha de prata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Medalha de prata\n\n1 - A medalha de prata de serviços distintos, destinada a galardoar actos de esclarecido e excepcional zelo de que resulte prestígio para a instituição militar no cumprimento, por forma altamente honrosa e brilhante, de comissões de serviço militar ou missões de serviço público, pode ser concedida ao militar:\n\na) Que tenha praticado um importante serviço de carácter militar ou uma acção notável de que resulte lustre e honra para a instituição militar e pela qual tenha obtido louvor publicado no Diário da República ou na ordem do ramo, com indicação expressa de deverem os serviços prestados ser classificados como distintos;\n\nb) Que tenha desempenhado uma importante comissão de serviço militar e nela tenha revelado excepcionais qualidades militares ou evidenciado dotes e virtudes de natureza extraordinária, de modo a merecer louvor no Diário da República ou ordem do ramo, com a indicação referida na alínea anterior;\n\nc) Que tenha prestado três serviços, de entre os enumerados no n.º 1 do artigo 19.º e nas alíneas a) e b) anteriores, de modo a obter, por cada um deles, louvor individual, considerando-o expressamente como distinto, em ordem de unidade, estabelecimento ou órgão, comandado, dirigido ou chefiado por oficial general.\n\n2 - Não são contados, para os efeitos da alínea c) do número anterior, os louvores relativos a serviços idênticos prestados na mesma unidade, estabelecimento ou órgão, ainda que pelo seu desempenho o militar tenha sido louvado por entidades diferentes, quando entre as datas dos respectivos louvores tenha decorrido prazo inferior a três anos."
+  },
+  "203156213": {
+   "fragment_id": "203154000",
+   "type": 11,
+   "heading": "Artigo 17.º — Medalha de cobre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Medalha de cobre\n\n1 - A medalha de cobre de serviços distintos pode ser concedida ao militar:\n\na) Que tenha desempenhado um importante serviço de carácter militar, por forma a obter louvor individual no Diário da República ou em ordem do ramo, com a indicação de dever ser considerado extraordinário e importante o serviço prestado;\n\nb) Que tenha prestado dois serviços, de entre os enumerados no n.º 1 do artigo 19.º, de modo a obter, por cada um deles, louvor individual, em ordem de unidade, estabelecimento ou órgão comandado, dirigido ou chefiado por oficial general, com a indicação de dever ser considerado extraordinário o serviço prestado;\n\nc) Que tenha sido individualmente louvado cinco vezes em ordem de unidade, estabelecimento ou órgão comandado, dirigido ou chefiado por oficial de posto não inferior a capitão-de-fragata ou tenente-coronel pelo desempenho de serviços de carácter militar, desde que um desses serviços seja considerado extraordinário.\n\n2 - Aos louvores previstos nas alíneas b) e c) do número anterior é aplicável o disposto no n.º 2 do artigo 16.º"
+  },
+  "203156214": {
+   "fragment_id": "203154001",
+   "type": 11,
+   "heading": "Artigo 18.º — Concessão a civis ou estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Concessão a civis ou estrangeiros\n\nA medalha de serviços distintos pode, a título excepcional, ser concedida a civis ou a estrangeiros."
+  },
+  "203156215": {
+   "fragment_id": "203154002",
+   "type": 11,
+   "heading": "Artigo 19.º — Serviços e actos distintos e serviço de campanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Serviços e actos distintos e serviço de campanha\n\n1 - Para efeitos da concessão da medalha, podem ser considerados distintos, designadamente, os serviços e actos seguintes:\n\na) Serviço de campanha;\n\nb) Serviços de organização e preparação das forças militares para a guerra ou conflito armado, no território nacional ou no estrangeiro, bem como no desempenho de missões de idêntica gravidade e risco;\n\nc) Actos que evidenciem raras qualidades de abnegação, coragem física ou moral, carácter firme e virtudes militares dignas de serem apontadas como exemplo;\n\nd) Elaboração de livros, memórias e outros trabalhos de interesse militar e educativo que, pelo seu valor, hajam sido considerados merecedores de distinção pelas entidades competentes;\n\ne) Execução de trabalhos técnicos ou científicos de reconhecida importância militar ou civil;\n\nf) Serviços docentes, particularmente distintos, desempenhados nos estabelecimentos militares de ensino ou em quaisquer outros estabelecimentos de ensino dependentes ou utilizados pelas Forças Armadas;\n\ng) Colaboração em negociações internacionais de carácter político-militar que atinjam os objectivos que mais interessam à defesa nacional.\n\n2 - Na apreciação dos serviços de organização e preparação para a guerra a que se refere a alínea b) do número anterior são, designadamente, considerados:\n\na) A elaboração de regulamentos ou instruções tendentes a assegurar o bom funcionamento dos serviços militares, em campanha ou em tempo de paz;\n\nb) Os serviços de instrução de carácter relevante, designadamente, os referentes à instrução dos quadros e aos exercícios conjuntos das Forças Armadas;\n\nc) Os estudos e trabalhos preparatórios referentes à mobilização militar e civil e à defesa nacional, não incluídos nas alíneas anteriores."
+  },
+  "203156216": {
+   "fragment_id": "203154003",
+   "type": 3,
+   "heading": "Subsecção V — Da medalha de mérito militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção V — Da medalha de mérito militar"
+  },
+  "203156217": {
+   "fragment_id": "203154004",
+   "type": 11,
+   "heading": "Artigo 20.º — Finalidade e classes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Finalidade e classes\n\n1 - A medalha de mérito militar destina-se a galardoar os militares que revelem excepcionais qualidades e virtudes militares, pela afirmação constante de elevados dotes de carácter, lealdade, abnegação, espírito de sacrifício e de obediência e competência profissional.\n\n2 - A medalha de mérito militar compreende as seguintes classes:\n\na) Grã-cruz;\n\nb) 1.ª classe;\n\nc) 2.ª classe;\n\nd) 3.ª classe;\n\ne) 4.ª classe."
+  },
+  "203156218": {
+   "fragment_id": "203154005",
+   "type": 11,
+   "heading": "Artigo 21.º — Grã-cruz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Grã-cruz\n\nA grã-cruz da medalha de mérito militar só pode ser concedida a oficiais generais."
+  },
+  "203156219": {
+   "fragment_id": "203154006",
+   "type": 11,
+   "heading": "Artigo 22.º — Outras classes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Outras classes\n\nAs restantes classes da medalha de mérito militar podem ser concedidas aos militares que possuam o seguinte posto ou graduação:\n\na) 1.ª classe - oficial general e capitão-de-mar-e-guerra ou coronel;\n\nb) 2.ª classe - capitão-de-fragata ou tenente-coronel e capitão-tenente ou major;\n\nc) 3.ª classe - primeiro-tenente ou capitão, outros oficiais de posto inferior e sargento-mor;\n\nd) 4.ª classe - outros sargentos e praças."
+  },
+  "203156220": {
+   "fragment_id": "203154007",
+   "type": 11,
+   "heading": "Artigo 23.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Requisitos\n\n1 - Para se poder ser agraciado com qualquer das classes da medalha de mérito militar é necessário:\n\na) Ter publicados, pelo menos, três louvores individuais, em ordem de unidade, estabelecimento ou órgão comandado, dirigido ou chefiado por oficial de posto não inferior a capitão-de-fragata ou tenente-coronel, que evidenciem as qualidades e virtudes constantes no n.º 1 do artigo 20.º, sendo pelo menos um obtido no posto ou graduação correspondente à classe da medalha;\n\nb) Ter registadas avaliações individuais favoráveis;\n\nc) Não ter sido anteriormente condecorado com a mesma classe desta medalha.\n\n2 - Quando a concessão tiver lugar por iniciativa do Ministro da Defesa Nacional, do Chefe do Estado-Maior-General das Forças Armadas ou dos chefes de estado-maior dos ramos, é dispensada a satisfação da condição referida na alínea a) do número anterior."
+  },
+  "203156221": {
+   "fragment_id": "203154008",
+   "type": 11,
+   "heading": "Artigo 24.º — Concessão a militares estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Concessão a militares estrangeiros\n\nA medalha de mérito militar pode ser concedida a militares estrangeiros."
+  },
+  "203156222": {
+   "fragment_id": "203154009",
+   "type": 3,
+   "heading": "Subsecção VI — Das medalhas privativas do Ministério da Defesa Nacional, do Estado-Maior-General e dos ramos das Forças Armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção VI — Das medalhas privativas do Ministério da Defesa Nacional, do Estado-Maior-General e dos ramos das Forças Armadas"
+  },
+  "203156223": {
+   "fragment_id": "203154010",
+   "type": 11,
+   "heading": "Artigo 25.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Finalidade\n\nAs medalhas privativas do Ministério da Defesa Nacional, do Estado-Maior-General e dos ramos das Forças Armadas destinam-se a galardoar os militares e civis, nacionais ou estrangeiros, que, no âmbito técnico-profissional, revelem elevada competência, extraordinário desempenho e relevantes qualidades pessoais, contribuindo significativamente para a eficiência, prestígio e cumprimento da missão do Ministério da Defesa Nacional, do Estado-Maior-General das Forças Armadas ou do respectivo ramo."
+  },
+  "203156224": {
+   "fragment_id": "203154011",
+   "type": 11,
+   "heading": "Artigo 26.º — Espécies e classes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Espécies e classes\n\n1 - São medalhas privativas do Ministério da Defesa Nacional, do Estado-Maior-General e dos ramos das Forças Armadas:\n\na) A medalha da defesa nacional;\n\nb) A medalha da cruz de São Jorge;\n\nc) A medalha da cruz naval;\n\nd) A medalha de D. Afonso Henriques - Mérito do Exército;\n\ne) A medalha de mérito aeronáutico.\n\n2 - As medalhas privativas compreendem as seguintes classes:\n\na) 1.ª;\n\nb) 2.ª;\n\nc) 3.ª;\n\nd) 4.ª"
+  },
+  "203156225": {
+   "fragment_id": "203154012",
+   "type": 11,
+   "heading": "Artigo 27.º — Critérios de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Critérios de concessão\n\n1 - A concessão de qualquer das classes das medalhas privativas subordinar-se-á ao seguinte critério de atribuição:\n\na) 1.ª classe - oficial general e capitão-de-mar-e-guerra ou coronel;\n\nb) 2.ª classe - capitão-de-fragata ou tenente-coronel e capitão-tenente ou major;\n\nc) 3.ª classe - outros oficiais e sargento-mor;\n\nd) 4.ª classe - outros sargentos e praças.\n\n2 - A concessão das medalhas privativas a militarizados e civis é feita, relativamente aos primeiros, de acordo com a equiparação estabelecida entre as categorias e os postos militares e, relativamente aos segundos, tendo em conta a função exercida e o valor dos serviços prestados."
+  },
+  "203156226": {
+   "fragment_id": "203154013",
+   "type": 3,
+   "heading": "Subsecção VII — Da medalha de comportamento exemplar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção VII — Da medalha de comportamento exemplar"
+  },
+  "203156227": {
+   "fragment_id": "203154014",
+   "type": 11,
+   "heading": "Artigo 28.º — Finalidade e graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Finalidade e graus\n\n1 - A medalha de comportamento exemplar destina-se a galardoar os militares que manifestem ao longo da sua carreira exemplar conduta moral e disciplinar, zelo pelo serviço e comprovado espírito de lealdade.\n\n2 - A medalha de comportamento exemplar compreende os seguintes graus:\n\na) Ouro;\n\nb) Prata;\n\nc) Cobre."
+  },
+  "203156228": {
+   "fragment_id": "203154015",
+   "type": 11,
+   "heading": "Artigo 29.º — Medalha de ouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Medalha de ouro\n\nA medalha de ouro de comportamento exemplar é concedida ao militar que conte 30 anos de serviço efectivo, sem qualquer pena disciplinar ou criminal."
+  },
+  "203156229": {
+   "fragment_id": "203154016",
+   "type": 11,
+   "heading": "Artigo 30.º — Medalha de prata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Medalha de prata\n\nA medalha de prata de comportamento exemplar é concedida ao militar que conte 15 anos de serviço efectivo sem qualquer pena disciplinar ou criminal ou que, tendo sofrido pena não privativa de liberdade, complete igual período de tempo sem sofrer nova pena."
+  },
+  "203156230": {
+   "fragment_id": "203154017",
+   "type": 11,
+   "heading": "Artigo 31.º — Medalha de cobre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Medalha de cobre\n\nA medalha de cobre de comportamento exemplar é concedida ao militar que conte seis anos de serviço efectivo sem qualquer pena disciplinar ou criminal ou que, tendo sofrido pena não privativa de liberdade, complete igual período de tempo sem sofrer nova pena."
+  },
+  "203156231": {
+   "fragment_id": "203154018",
+   "type": 11,
+   "heading": "Artigo 32.º — Penas disciplinares anuladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Penas disciplinares anuladas\n\nAs penas disciplinares anuladas são tomadas em consideração para efeitos do disposto nos artigos anteriores, salvo se a anulação tiver resultado de reclamação, recurso ou revisão de processo disciplinar."
+  },
+  "203156232": {
+   "fragment_id": "203154019",
+   "type": 8,
+   "heading": "Secção II — Concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Concessão"
+  },
+  "203156233": {
+   "fragment_id": "203154020",
+   "type": 3,
+   "heading": "Subsecção I — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Competências"
+  },
+  "203156234": {
+   "fragment_id": "203154021",
+   "type": 11,
+   "heading": "Artigo 33.º — Concessão pelo Presidente da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Concessão pelo Presidente da República\n\n1 - O Presidente da República pode conceder qualquer grau ou classe das medalhas de valor militar, da cruz de guerra, de serviços distintos e de mérito militar, a título individual ou colectivo, por sua iniciativa ou mediante proposta:\n\na) Do Primeiro-Ministro;\n\nb) Do Ministro da Defesa Nacional;\n\nc) Do Chefe do Estado-Maior-General das Forças Armadas ou dos chefes de estado-maior dos ramos, através do Ministro da Defesa Nacional.\n\n2 - A concessão, pelo Presidente da República, de qualquer das medalhas e graus referidos no número anterior não fica dependente de publicação em ordem dos factos que deram origem ao agraciamento, devendo, contudo, o decreto respectivo fundamentar a concessão com os actos e feitos praticados pelo condecorado.\n\n3 - É da exclusiva competência do Presidente da República a concessão do grau ouro das medalhas de valor militar, de serviços distintos e da 1.ª classe da medalha da cruz de guerra, a título colectivo, e da grã-cruz da medalha de mérito militar.\n\n4 - Quando uma unidade for condecorada com qualquer das medalhas referidas nos artigos 6.º, 11.º e 15.º e não possuir Estandarte Nacional, deve o chefe de estado-maior do ramo respectivo propor a sua atribuição à unidade em causa."
+  },
+  "203156235": {
+   "fragment_id": "203154022",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nConcessão pelo Ministro da Defesa Nacional, pelo Chefe do Estado-Maior-General das Forças Armadas, pelos chefes de estado-maior dos ramos e pelos comandantes-chefes.\n\n1 - Sem prejuízo da competência atribuída ao Presidente da República, a concessão das medalhas militares, nas suas diferentes modalidades e graus, compete ao Ministro da Defesa Nacional, ao Chefe do Estado-Maior-General das Forças Armadas, aos chefes de estado-maior dos ramos e aos comandantes-chefes, com as especificidades decorrentes dos números seguintes.\n\n2 - Compete ao Chefe do Estado-Maior-General das Forças Armadas a concessão das medalhas de valor militar e de serviços distintos, com palma, e ainda a medalha da cruz de guerra, sempre que se trate de galardoar militares subordinados a comandantes-chefes.\n\n3 - A concessão das medalhas da defesa nacional, da cruz de S. Jorge, da cruz naval, de D. Afonso Henriques - Mérito do Exército e de mérito aeronáutico é, respectivamente, da competência exclusiva do Ministro da Defesa Nacional, do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes de Estado-Maior da Armada, do Exército e da Força Aérea.\n\n4 - A concessão das medalhas da cruz de guerra e de serviços distintos a civis, não pertencentes às Forças Armadas, e a estrangeiros é da competência do Ministro da Defesa Nacional."
+  },
+  "203156236": {
+   "fragment_id": "203154023",
+   "type": 11,
+   "heading": "Artigo 35.º — Entrega das insígnias das medalhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrega das insígnias das medalhas\n\n1 - A entrega das insígnias das medalhas de valor militar e da cruz de guerra de 1.ª classe, quando concedidas pelo Presidente da República, é feita, sempre que possível, perante formatura de tropas, pelo próprio Presidente da República ou, mediante delegação expressa, por outra entidade.\n\n2 - Sem prejuízo do disposto no número anterior, a entrega das insígnias das medalhas militares concedidas por quaisquer entidades é feita, sempre que possível, em cerimónia militar, devendo, para o efeito, aproveitar-se os dias festivos."
+  },
+  "203156237": {
+   "fragment_id": "203154024",
+   "type": 3,
+   "heading": "Subsecção II — Organização dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Organização dos processos"
+  },
+  "203156238": {
+   "fragment_id": "203154025",
+   "type": 11,
+   "heading": "Artigo 36.º — Instrução dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Instrução dos processos\n\n1 - Quando a iniciativa para a concessão das medalhas não partir das entidades referidas nos artigos 33.º e 34.º, é organizado um processo de condecoração, instruído com os seguintes documentos:\n\na) Proposta devidamente fundamentada do comandante, director ou chefe da unidade, estabelecimento ou órgão a que o militar pertence, onde sejam detalhadamente apontados os actos ou serviços meritórios praticados pelo proposto, com a indicação da modalidade e grau ou classe da medalha objecto da proposta;\n\nb) Fotocópia autenticada da nota de assentos ou de documento equivalente;\n\nc) Informação de todos os escalões por onde transita o processo, de acordo com a via hierárquica estabelecida;\n\nd) Certificado do registo criminal, dispensável para os militares nacionais que não tenham estado afastados do serviço efectivo, quando se trate da concessão da medalha de comportamento exemplar.\n\n2 - Além dos documentos enunciados nas alíneas a) a c) do número anterior, os processos relativos à concessão das medalhas de valor militar e da cruz de guerra devem incluir cópias autenticadas dos planos, directivas, relatórios de operações ou outros documentos julgados necessários ou de interesse, onde conste a citação individual do elemento a agraciar pelo acto ou feito praticado e, sempre que possível, o depoimento de testemunhas.\n\n3 - Do relatório de operações referido no número anterior deve constar:\n\na) O grau de risco de vida corrido pelo elemento a agraciar, debaixo de fogo ou em contacto com o inimigo;\n\nb) O número de baixas verificado no decurso da operação;\n\nc) O conjunto de virtudes de abnegação, valentia e alta noção do dever militar e da disciplina reveladas pelo elemento a agraciar;\n\nd) As decisões correctas e oportunas tomadas no exercício de funções de comando, em situação de perigo, que denotem grande coragem moral, excepcional capacidade de decisão e alta noção da grandeza do dever militar e da disciplina;\n\ne) A importância do feito praticado.\n\n4 - Sempre que o chefe de estado-maior do ramo entender conveniente pode solicitar parecer ao respectivo conselho superior de disciplina."
+  },
+  "203156239": {
+   "fragment_id": "203154026",
+   "type": 11,
+   "heading": "Artigo 37.º — Condicionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Condicionamentos\n\nNa elaboração dos processos para a concessão das diferentes medalhas militares deve atender-se a que:\n\na) Qualquer classe da medalha de mérito militar ou grau da medalha de comportamento exemplar apenas pode ser concedida uma vez;\n\nb) Os louvores que serviram de base à concessão de uma medalha devem ser assinalados e considerados cativos, não podendo ser utilizados para nova proposta de condecoração;\n\nc) Nos casos em que se estabelece como condição de concessão de qualquer medalha a publicação de louvor em ordem de determinado escalão, deve entender-se que apenas são válidos os louvores concedidos ou considerados como dados pelo comandante, director ou chefe de posto não inferior a capitão-de-fragata ou tenente-coronel."
+  },
+  "203156240": {
+   "fragment_id": "203154027",
+   "type": 11,
+   "heading": "Artigo 38.º — Responsabilidade pela elaboração do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Responsabilidade pela elaboração do processo\n\n1 - A responsabilidade pela elaboração do processo de atribuição de condecorações cabe à unidade, estabelecimento ou órgão a que os militares pertencem ou que detêm os respectivos processos individuais.\n\n2 - Quando a iniciativa para a concessão pertença ao Ministro da Defesa Nacional, ao Chefe do Estado-Maior-General das Forças Armadas, aos chefes de estado-maior dos ramos ou aos comandantes-chefes, os processos de condecoração referentes a militares e civis, nacionais ou estrangeiros são, em regra, organizados pelos serviços na sua dependência."
+  },
+  "203156241": {
+   "fragment_id": "203154028",
+   "type": 3,
+   "heading": "Subsecção III — Forma, publicação e averbamento das condecorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Forma, publicação e averbamento das condecorações"
+  },
+  "203156242": {
+   "fragment_id": "203154029",
+   "type": 11,
+   "heading": "Artigo 39.º — Forma e publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Forma e publicação\n\n1 - A concessão das medalhas militares reveste a forma de:\n\na) Decreto - quando efectuada pelo Presidente da República;\n\nb) Portaria - quando efectuada pelo Ministro da Defesa Nacional;\n\nc) Despacho - quando efectuado pelo Chefe do Estado-Maior-General das Forças Armadas, pelos chefes de estado-maior dos ramos ou pelos comandantes-chefes.\n\n2 - A publicação dos diplomas e despachos referidos no número anterior é feita:\n\na) No Diário da República - os decretos do Presidente da República, as portarias do Ministro da Defesa Nacional e os despachos do Chefe do Estado-Maior-General das Forças Armadas;\n\nb) Na ordem do ramo ou do comando-chefe - os despachos respectivos."
+  },
+  "203156243": {
+   "fragment_id": "203154030",
+   "type": 11,
+   "heading": "Artigo 40.º — Averbamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Averbamento\n\n1 - A concessão das medalhas militares é registada no processo individual do agraciado, após publicação no Diário da República ou ordem do ramo ou do comando-chefe respectivo.\n\n2 - A concessão, a título colectivo, da medalha de ouro de valor militar, da medalha da cruz de guerra de 1.ª classe e da medalha de ouro de serviços distintos é registada no processo individual dos militares que tomaram parte no acto ou serviço que deu origem à concessão, integrados nos efectivos da unidade, e cujos nomes constem do relatório dos actos ou serviços distinguidos ou dos louvores que lhe serviram de base."
+  },
+  "203156244": {
+   "fragment_id": "203154031",
+   "type": 1,
+   "heading": "Capítulo II — Das medalhas comemorativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Das medalhas comemorativas"
+  },
+  "203156245": {
+   "fragment_id": "203154032",
+   "type": 8,
+   "heading": "Secção I — Finalidade e modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Finalidade e modalidades"
+  },
+  "203156246": {
+   "fragment_id": "203154033",
+   "type": 11,
+   "heading": "Artigo 41.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Finalidade\n\nAs medalhas comemorativas das Forças Armadas destinam-se a assinalar épocas ou factos de realce na vida dos militares, ocorridos em serviço de campanha ou durante o desempenho de comissões de serviço especiais."
+  },
+  "203156247": {
+   "fragment_id": "203154034",
+   "type": 11,
+   "heading": "Artigo 42.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Modalidades\n\nAs medalhas comemorativas compreendem as seguintes modalidades:\n\na) Medalha dos promovidos por feitos distintos em campanha;\n\nb) Medalha dos feridos em campanha;\n\nc) Medalha de reconhecimento;\n\nd) Medalha comemorativa das campanhas;\n\ne) Medalha comemorativa de comissões de serviço especiais."
+  },
+  "203156248": {
+   "fragment_id": "203154035",
+   "type": 11,
+   "heading": "Artigo 43.º — Medalha dos promovidos por feitos distintos em campanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Medalha dos promovidos por feitos distintos em campanha\n\nA medalha dos promovidos por feitos distintos em campanha destina-se a galardoar os militares que, pelas excepcionais virtudes militares ou dotes de comando, direcção ou chefia demonstrados em campanha ou em circunstâncias com ela directamente relacionadas, tenham sido promovidos por distinção."
+  },
+  "203156249": {
+   "fragment_id": "203154036",
+   "type": 11,
+   "heading": "Artigo 44.º — Medalha dos feridos em campanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Medalha dos feridos em campanha\n\nA medalha dos feridos em campanha é atribuída aos militares que, em campanha ou em circunstâncias com ela directamente relacionadas, tenham sofrido uma diminuição permanente, caracterizada pelo prejuízo ou perda anatómica de qualquer órgão ou função."
+  },
+  "203156250": {
+   "fragment_id": "203154037",
+   "type": 11,
+   "heading": "Artigo 45.º — Medalha de reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Medalha de reconhecimento\n\n1 - A medalha de reconhecimento é atribuída aos militares que em situação de campanha ou em circunstâncias com ela directamente relacionadas, bem como noutras missões de serviço em território nacional ou no estrangeiro, designadamente no âmbito das missões humanitárias e de paz, tenham estado privados de liberdade.\n\n2 - A medalha de reconhecimento também pode ser concedida a civis e a estrangeiros."
+  },
+  "203156251": {
+   "fragment_id": "203154038",
+   "type": 11,
+   "heading": "Artigo 46.º — Medalha comemorativa das campanhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Medalha comemorativa das campanhas\n\n1 - A medalha comemorativa das campanhas é atribuída aos militares que tenham servido em situação de campanha.\n\n2 - A medalha comemorativa das campanhas também pode ser concedida a civis e a estrangeiros."
+  },
+  "203156252": {
+   "fragment_id": "203154039",
+   "type": 11,
+   "heading": "Artigo 47.º — Medalha comemorativa de comissões de serviço especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Medalha comemorativa de comissões de serviço especiais\n\n1 - A medalha comemorativa de comissões de serviço especiais destina-se aos militares que, integrando ou não forças constituídas, nacionais ou multinacionais, tenham cumprido missões de serviço no estrangeiro.\n\n2 - A medalha comemorativa de comissões de serviço especiais também pode ser concedida a civis e a estrangeiros."
+  },
+  "203156253": {
+   "fragment_id": "203154040",
+   "type": 8,
+   "heading": "Secção II — Concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Concessão"
+  },
+  "203156254": {
+   "fragment_id": "203154041",
+   "type": 11,
+   "heading": "Artigo 48.º — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Condições de atribuição\n\n1 - As medalhas dos promovidos por feitos distintos em campanha, a dos feridos em campanha e a de reconhecimento podem ser concedidas mais do que uma vez.\n\n2 - A medalha comemorativa das campanhas e a medalha comemorativa de comissões de serviços especiais são atribuídas a quem tenha participado em operações militares ou desempenhado uma comissão durante um período mínimo de seis meses ou durante todo o tempo da sua duração, se esta for inferior a seis meses, podendo esse período ser menor nos casos de acidente ou doença em serviço que impossibilitem a sua conclusão.\n\n3 - A mesma comissão de serviço só confere direito a uma condecoração, preferindo a medalha comemorativa das campanhas.\n\n4 - É reconhecido o direito a nova passadeira, por cada comissão efectuada, aos militares já condecorados com alguma das medalhas comemorativas das campanhas ou de comissões de serviço especiais, desde que estes reúnam as condições expressas no n.º 2.\n\n5 - Não há lugar à concessão da medalha de reconhecimento quando se verifique qualquer das seguintes situações:\n\na) Condenação na pena acessória de expulsão das Forças Armadas;\n\nb) Condenação em pena de prisão superior a três anos;\n\nc) Condenação em qualquer pena por crimes contra a paz e contra a humanidade, contra a segurança do Estado, contra a soberania nacional e contra a realização do Estado de direito, previstos no Código Penal;\n\nd) Punição disciplinar com pena de separação de serviço;\n\ne) Os militares que comprovadamente tenham fornecido informações a partir das quais tenha resultado vantagem para o inimigo."
+  },
+  "203156255": {
+   "fragment_id": "203154042",
+   "type": 11,
+   "heading": "Artigo 49.º — Competência para a concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Competência para a concessão\n\n1 - A concessão da medalha dos promovidos por feitos distintos em campanha, da medalha dos feridos em campanha e da medalha de reconhecimento é da competência do Ministro da Defesa Nacional.\n\n2 - A concessão das restantes medalhas comemorativas é da competência do Chefe do Estado-Maior-General das Forças Armadas e dos chefes de estado-maior dos ramos, conforme a dependência do agraciado no desempenho da respectiva missão."
+  },
+  "203156256": {
+   "fragment_id": "203154043",
+   "type": 11,
+   "heading": "Artigo 50.º — Responsabilidade pela elaboração do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Responsabilidade pela elaboração do processo\n\nA responsabilidade pela elaboração do processo de atribuição das medalhas comemorativas cabe à unidade, estabelecimento ou órgão a que os militares pertencem ou que detém os respectivos processos individuais."
+  },
+  "203156257": {
+   "fragment_id": "203154044",
+   "type": 11,
+   "heading": "Artigo 51.º — Instrução dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Instrução dos processos\n\n1 - Do processo para a concessão da medalha comemorativa deve constar:\n\na) Proposta fundamentada do comandante, director ou chefe, com a indicação da medalha e modalidade a conceder;\n\nb) Relatório circunstanciado do acidente e relatório médico, com a indicação das lesões sofridas pelo sinistrado e suas consequências permanentes, para a medalha dos feridos em campanha;\n\nc) Documento que ateste a situação de privação de liberdade, para a medalha de reconhecimento.\n\n2 - O disposto na alínea a) do número anterior não é aplicável à medalha dos promovidos por feitos distintos em campanha, para cuja concessão é documento bastante o diploma oficial de promoção, nem à medalha de reconhecimento, quando a iniciativa partir do Ministro da Defesa Nacional."
+  },
+  "203156258": {
+   "fragment_id": "203154045",
+   "type": 11,
+   "heading": "Artigo 52.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Publicação\n\n1 - A concessão das medalhas comemorativas reveste a forma de despacho.\n\n2 - A concessão das medalhas comemorativas quando efectuada pelo Ministro da Defesa Nacional ou pelo Chefe do Estado-Maior-General das Forças Armadas é publicada no Diário da República.\n\n3 - A concessão das medalhas comemorativas quando efectuada pelos chefes de estado-maior dos ramos é publicada nas ordens respectivas."
+  },
+  "203156259": {
+   "fragment_id": "203154046",
+   "type": 11,
+   "heading": "Artigo 53.º — Averbamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Averbamento\n\nApós publicação, o despacho de concessão das medalhas comemorativas é averbado no processo individual do agraciado."
+  },
+  "203156260": {
+   "fragment_id": "203154047",
+   "type": 1,
+   "heading": "Capítulo III — Padrões das medalhas, seu uso e transferência de distinções e condecorações colectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Padrões das medalhas, seu uso e transferência de distinções e condecorações colectivas"
+  },
+  "203156261": {
+   "fragment_id": "203154048",
+   "type": 8,
+   "heading": "Secção I — Padrões das medalhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Padrões das medalhas"
+  },
+  "203156262": {
+   "fragment_id": "203154049",
+   "type": 11,
+   "heading": "Artigo 54.º — Figuras e descrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Figuras e descrições\n\nOs padrões das insígnias das medalhas militares e das medalhas comemorativas das Forças Armadas para os diferentes graus e classes, dos distintivos de condecorações colectivas, das fitas simples, das miniaturas das insígnias, das rosetas, das placas e da banda da medalha de mérito militar são os constantes do anexo I ao presente Regulamento, do qual faz parte integrante."
+  },
+  "203156263": {
+   "fragment_id": "203154050",
+   "type": 8,
+   "heading": "Secção II — Uso das medalhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Uso das medalhas"
+  },
+  "203156264": {
+   "fragment_id": "203154051",
+   "type": 11,
+   "heading": "Artigo 55.º — Direito ao uso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Direito ao uso\n\nO direito ao uso das medalhas militares e das medalhas comemorativas das Forças Armadas adquire-se com a imposição das insígnias em cerimónia oficial ou com a publicação do decreto, portaria ou despacho de concessão no Diário da República, na ordem do ramo ou na ordem do comando-chefe, respectivamente."
+  },
+  "203156265": {
+   "fragment_id": "203154052",
+   "type": 11,
+   "heading": "Artigo 56.º — Condições de uso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Condições de uso\n\nO uso das medalhas militares e das medalhas comemorativas das Forças Armadas é regulado pelas disposições constantes do presente Regulamento, pelo estabelecido nos regulamentos de uniformes dos ramos das Forças Armadas e, subsidiariamente, pelas normas de protocolo aplicáveis em cada caso."
+  },
+  "203156266": {
+   "fragment_id": "203154053",
+   "type": 11,
+   "heading": "Artigo 57.º — Uso de insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Uso de insígnias\n\n1 - Os militares usam, nos respectivos uniformes, as insígnias correspondentes a todos os graus ou classes das medalhas com que foram condecorados, salvo o disposto no n.º 3.\n\n2 - Em actos solenes, os militares podem, ainda, usar pendente do pescoço por fita da respectiva cor as seguintes insígnias:\n\na) Medalha de ouro de valor militar;\n\nb) Medalha da cruz de guerra de 1.ª classe;\n\nc) Medalha da grã-cruz e das 1.ª e 2.ª classes de mérito militar;\n\nd) Medalha da defesa Nnacional de 1.ª classe, medalha da cruz de São Jorge de 1.ª classe, medalha da cruz naval de 1.ª classe, medalha de D. Afonso Henriques - Mérito do Exército de 1.ª classe ou medalha de mérito aeronáutico de 1.ª classe.\n\n3 - Não pode ser usado, simultaneamente, mais de uma banda, uma insígnia pendente do pescoço ou um grau da medalha de comportamento exemplar, preferindo a condecoração de maior precedência e grau ou classe mais elevada.\n\n4 - Apenas pode ser usada uma insígnia da medalha comemorativa das campanhas e da medalha comemorativa de comissões de serviço especiais; no caso das insígnias para o peito, cada uma delas pode carregar duas passadeiras, justificando-se o uso de uma nova insígnia quando este limite for ultrapassado.\n\n5 - Em cerimónias adequadas, os cidadãos, que façam uso de trajo civil, podem usar ao peito, do lado esquerdo, as insígnias, as miniaturas ou as rosetas das medalhas com que foram agraciados, de acordo com o estabelecido no presente Regulamento, nos regulamentos de uniformes e nas normas de protocolo aplicáveis.\n\n6 - O disposto nos n.os 1 a 3 é aplicável aos civis que, em actos solenes, enverguem traje académico de cerimónia ou traje eclesiástico correspondente."
+  },
+  "203156267": {
+   "fragment_id": "203154054",
+   "type": 11,
+   "heading": "Artigo 58.º — Uso de miniaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Uso de miniaturas\n\n1 - Nos uniformes em que, nos termos dos respectivos regulamentos e normas de protocolo aplicáveis, as condecorações devam ser substituídas pelas correspondentes miniaturas, estas são usadas do lado esquerdo do peito.\n\n2 - O disposto no número anterior aplica-se às situações em que os agraciados, militares ou civis, façam uso do traje civil de cerimónia, designadamente casaca, smoking e fraque ou, tratando-se de senhora, o vestido correspondente."
+  },
+  "203156268": {
+   "fragment_id": "203154055",
+   "type": 11,
+   "heading": "Artigo 59.º — Uso de rosetas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Uso de rosetas\n\n1 - As rosetas são usadas com traje civil de passeio, na lapela do casaco ou no vestido, do lado esquerdo.\n\n2 - Só pode ser usada uma roseta."
+  },
+  "203156269": {
+   "fragment_id": "203154056",
+   "type": 11,
+   "heading": "Artigo 60.º — Uso da banda e da placa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Uso da banda e da placa\n\n1 - A banda da grã-cruz de mérito militar é usada a tiracolo, da direita para a esquerda.\n\n2 - As placas da grã-cruz e das 1.ª e 2.ª classes da medalha de mérito militar são colocadas ao peito, de acordo com o estabelecido nos regulamentos de uniformes e nas normas de protocolo aplicáveis, observando-se a ordem de precedência constante do artigo 65.º"
+  },
+  "203156270": {
+   "fragment_id": "203154057",
+   "type": 11,
+   "heading": "Artigo 61.º — Uso de fitas simples",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Uso de fitas simples\n\nAs fitas simples usam-se em barras, do lado esquerdo, de acordo com o estabelecido no anexo I ao presente Regulamento, nos regulamentos de uniformes e nas normas de protocolo aplicáveis a cada caso."
+  },
+  "203156271": {
+   "fragment_id": "203154058",
+   "type": 11,
+   "heading": "Artigo 62.º — Condecorações atribuídas a unidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Condecorações atribuídas a unidades\n\nAs condecorações, nacionais ou estrangeiras, concedidas a unidades, nos termos dos artigos 6.º, 11.º e 15.º, são usadas, simultaneamente, como gravatas do Estandarte Nacional atribuído à unidade."
+  },
+  "203156272": {
+   "fragment_id": "203154059",
+   "type": 11,
+   "heading": "Artigo 63.º — Uso de distintivos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Uso de distintivos especiais\n\n1 - A condecoração de unidade com as medalhas de valor militar e da cruz de guerra confere aos militares que tomaram parte nas acções ou feitos e cuja identificação conste expressamente dos respectivos relatórios o direito ao uso dos distintivos individuais previstos e descritos no anexo I ao presente Regulamento.\n\n2 - Quando haja direito a mais do que um distintivo individual, apenas será usado o correspondente à medalha de maior precedência.\n\n3 - Nas situações em que os regulamentos de uniformes prevejam o uso das miniaturas dos distintivos individuais das condecorações de unidade, estas podem ser usadas, na totalidade, por cima do bolso direito ou local correspondente, de acordo com a respectiva ordem de precedência."
+  },
+  "203156273": {
+   "fragment_id": "203154060",
+   "type": 11,
+   "heading": "Artigo 64.º — Uso de outras condecorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Uso de outras condecorações\n\nO uso de condecorações não previstas no presente Regulamento, concedidas a unidades ou a militares, carece de autorização do Ministro da Defesa Nacional."
+  },
+  "203156274": {
+   "fragment_id": "203154061",
+   "type": 11,
+   "heading": "Artigo 65.º — Precedência das insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Precedência das insígnias\n\nAs insígnias das condecorações individuais de que trata o presente Regulamento são usadas no lado esquerdo do peito, de acordo com a seguinte ordem de precedência, em relação a outras condecorações nacionais e estrangeiras:\n\n1.ª Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito;\n\n2.ª Medalha de valor militar;\n\n3.ª Medalha da cruz de guerra;\n\n4.ª Ordem Militar de Cristo;\n\n5.ª Ordem Militar de Avis;\n\n6.ª Medalha de serviços distintos;\n\n7.ª Medalha de mérito militar;\n\n8.ª Ordem Militar de Sant'Iago da Espada;\n\n9.ª Ordem do Infante D. Henrique;\n\n10.ª Ordem da Liberdade;\n\n11.ª As medalhas privativas, pela seguinte ordem: medalha da Defesa Nacional, medalha da cruz de São Jorge, medalha da cruz naval, medalha de D. Afonso Henriques - Patrono do Exército e medalha de mérito aeronáutico;\n\n12.ª Medalha de comportamento exemplar;\n\n13.ª Medalha dos promovidos por feitos distintos em campanha;\n\n14.ª Medalha dos feridos em campanha;\n\n15.ª Medalha de reconhecimento;\n\n16.ª Medalha comemorativa das campanhas;\n\n17.ª Medalha comemorativa de comissões de serviço especiais;\n\n18.ª Outras condecorações nacionais, sendo a respectiva precedência determinada pela ordem cronológica da sua instituição;\n\n19.ª Condecorações estrangeiras, sendo a respectiva precedência determinada pela ordem alfabética dos nomes das respectivas nações ou organizações em língua portuguesa."
+  },
+  "203154075": {
+   "fragment_id": "203154062",
+   "type": 11,
+   "heading": "Artigo 66.º — Perda do direito ao uso das medalhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Perda do direito ao uso das medalhas\n\n1 - O direito ao uso das medalhas militares e das medalhas comemorativas das Forças Armadas perde-se nas situações referidas nas alíneas do n.º 5 do artigo 48.º, bem como no caso de punição disciplinar com pena igual ou superior à de detenção ou privação de saída, relativamente à medalha de comportamento exemplar.\n\n2 - Logo que houver conhecimento de alguma das situações mencionadas no número anterior, a unidade, estabelecimento ou órgão a que o militar pertence ou que detém o respectivo processo individual comunica o facto ao departamento competente do ramo, para efeitos de perda do direito ao uso das condecorações."
+  },
+  "203154076": {
+   "fragment_id": "203154063",
+   "type": 8,
+   "heading": "Secção III — Transferência de condecorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Transferência de condecorações"
+  },
+  "203154077": {
+   "fragment_id": "203154064",
+   "type": 11,
+   "heading": "Artigo 67.º — Condecorações atribuídas a unidades ou subunidades depois de desmobilizadas ou extintas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Condecorações atribuídas a unidades ou subunidades depois de desmobilizadas ou extintas\n\n1 - As condecorações atribuídas a uma unidade ou subunidade de constituição temporária passam, para todos os efeitos, a integrar o património histórico da unidade territorial de que aquela dependia à data da sua desmobilização, transitando, após esta data, para o respectivo Estandarte Nacional.\n\n2 - O disposto no número anterior aplica-se, ainda, em caso de extinção de unidade territorial, competindo ao chefe de estado-maior do respectivo ramo a indicação da unidade que herdará o património histórico daquela."
+  },
+  "203154078": {
+   "fragment_id": "203154065",
+   "type": 11,
+   "heading": "Artigo 68.º — Condecorações atribuídas a subunidade orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Condecorações atribuídas a subunidade orgânica\n\nAs condecorações atribuídas a uma subunidade orgânica mantêm-se na posse desta enquanto nela permanecer qualquer elemento que à data da acção que motivou essa distinção já fizesse parte dos seus efectivos e só depois será imposta no Estandarte Nacional da unidade."
+  },
+  "203154079": {
+   "fragment_id": "203154066",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares"
+  },
+  "203154080": {
+   "fragment_id": "203154067",
+   "type": 11,
+   "heading": "Artigo 69.º — Diploma de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Diploma de concessão\n\nDa concessão de medalhas militares e de medalhas comemorativas das Forças Armadas será passado diploma, conforme o anexo II ao presente Regulamento, a emitir pelos gabinetes das entidades competentes para a concessão e assinados por estas."
+  },
+  "203154081": {
+   "fragment_id": "203154068",
+   "type": 11,
+   "heading": "Artigo 70.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Encargos\n\nOs encargos com as insígnias das medalhas militares e das medalhas comemorativas, os diplomas de concessão e, bem assim, os certificados de registo criminal necessários à instrução dos processos de agraciamento são suportados pelo Estado."
+  },
+  "203154082": {
+   "fragment_id": "203154069",
+   "type": 11,
+   "heading": "Artigo 71.º — Militares falecidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Militares falecidos\n\n1 - Quando o agraciado com a medalha militar ou medalha comemorativa tiver falecido antes de haver recebido as respectivas insígnias ou a concessão tiver sido feita a título póstumo, as mesmas serão entregues aos herdeiros, de acordo com a ordem de sucessão legalmente estabelecida.\n\n2 - Se o cidadão não deixar herdeiros, o destino da condecoração é definido por despacho da entidade que a concedeu."
+  },
+  "203154083": {
+   "fragment_id": "203154070",
+   "type": 11,
+   "heading": "Artigo 72.º — Direito de requerer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Direito de requerer\n\nAos militares nas condições exigidas no presente diploma assistirá o direito de requerer a medalha de comportamento exemplar e as medalhas comemorativas das Forças Armadas, quando não tenham sido propostos pelos respectivos chefes."
+  },
+  "203154084": {
+   "fragment_id": "203154071",
+   "type": 11,
+   "heading": "Artigo 73.º — Direito a pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Direito a pensão\n\n1 - Os cidadãos agraciados com a medalha de valor militar ou com a medalha da cruz de guerra têm direito a haver do Estado uma pensão de valor correspondente a 10% do vencimento base de capitão, desde que a requeiram e se encontrem em situação de insuficiência económica.\n\n2 - Para efeitos do disposto no número anterior, a insuficiência económica verifica-se quando o rendimento ilíquido mensal do agregado familiar do agraciado é igual ou inferior a uma vez e meia o valor do salário mínimo nacional fixado para os trabalhadores por conta de outrem ou, sendo superior, quando o rendimento per capita dos membros do agregado familiar é inferior a metade daquela remuneração.\n\n3 - As pensões concedidas nos termos do n.º 1 do presente artigo são actualizadas, com dispensa de quaisquer formalidades, de acordo com as alterações que se verifiquem na remuneração de referência e com efeitos reportados à data da entrada em vigor das referidas alterações.\n\n4 - O direito à pensão referida no n.º 1 extingue-se no momento em que o agraciado perder o direito ao uso da respectiva condecoração.\n\n5 - A pensão não é cumulável com qualquer outra pensão por condecoração ou por serviços excepcionais e relevantes prestados ao País, podendo, porém, o agraciado optar pela mais conveniente.\n\n6 - O direito à pensão prevista no n.º 1 é transmissível ao cônjuge sobrevivo e aos filhos menores ou incapazes.\n\n7 - São aplicáveis à instrução, à prova de rendimentos, à concorrência de beneficiários, à reversão, à cessação do direito à pensão, à execução da decisão e ao respectivo recurso, com as necessárias adaptações, as regras estabelecidas para as pensões de preço de sangue."
+  },
+  "203154085": {
+   "fragment_id": "203154072",
+   "type": 14,
+   "heading": "Anexo I — Padrões das insígnias - Figuras e descrições técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Padrões das insígnias - Figuras e descrições técnicas\n\nI - Medalha de valor militar\n\n1 - Insígnia para o peito (fig. 1):\n\na) Grau ouro:\n\nFita de suspensão: de seda ondeada, com nove filetes longitudinais de igual largura, sendo cinco azuis e quatro brancos, dispostos alternadamente; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, um Escudo Nacional, de ouro, assente sobre esfera armilar, também de ouro, conforme fig. 1;\n\nPassadeiras: de ouro;\n\nBelheira: em forma de túlipa invertida, de ouro;\n\nPendente:\n\nAnverso: cruz pátea, de contornos rectilíneos, de ouro cinzelado, assente numa coroa circular de folhas de louro, frutadas, tudo de verde, e tendo sobreposto, ao centro, um Emblema Nacional (constituído pelo escudo das armas nacionais, nos seus metais e esmaltes, assente numa esfera armilar, de ouro), circundado por uma bordadura de azul com a legenda «VALOR MILITAR», em letras de tipo elzevir, maiúsculas, de ouro; cruz nos esmaltes e dimensões indicadas na figura;\n\nReverso: de ouro liso, para inscrição do posto e nome do agraciado, bem como do ano da concessão;\n\nb) Grau prata: idêntica ao grau ouro, com as seguintes diferenças:\n\nFita de suspensão: igual à do grau ouro, com as seguintes modificações: ao centro, o Escudo Nacional e a esfera armilar são em prata;\n\nPassadeira, belheira e pendente: iguais ao grau ouro, mas de prata;\n\nc) Grau cobre: idêntica ao grau ouro, com as seguintes diferenças:\n\nFita de suspensão: igual às anteriores, mas sem emblema nacional ao centro;\n\nPassadeira, belheira e pendente: idênticas às anteriores, mas de cobre.\n\n(ver figura no documento original)\n\n2 - Insígnia para o pescoço (fig. 1-A):\n\nGravata: constituída por fita, com as características indicadas para a fita de suspensão (grau ouro), mas com a largura de 0,038 m;\n\nArgola espalmada, cinzelada e canevão: de ouro;\n\nBelheira e pendente: de ouro, idênticos aos descritos para o peito nas dimensões constantes da figura.\n\nNota. - Na faixa da condecoração a usar como gravata de bandeira ou estandarte, de unidades militares ou localidades condecoradas com o grau ouro da medalha de valor militar, será bordado a fio de ouro o anverso do pendente desta insígnia.\n\n(ver figura no documento original)\n\n3 - Miniaturas (fig. 1-B):\n\na) Do pendente (cruz pátea) - Esta miniatura (A) tem, conforme os graus, as seguintes dimensões:\n\nGrau ouro - módulo de 0,017 m;\n\nGrau prata - módulo de 0,015 m;\n\nGrau cobre - módulo de 0,013 m;\n\nb) Da insígnia:\n\nFita de suspensão (B) idêntica à da insígnia para o peito, com a largura máxima de 0,0115 m e o pendente de acordo com o grau;\n\nComprimento total da miniatura - 0,06 m.\n\n(ver figura no documento original)\n\n4 - Rosetas (fig. 1-C):\n\na) As rosetas são constituídas por um cilindro, com a altura de 0,003 m, forrado com o tecido da fita de suspensão, tendo sobreposta a cruz pátea em metal correspondente ao respectivo grau e as medidas definidas para as miniaturas;\n\nb) Têm os seguintes diâmetros:\n\nGrau ouro - 0,018 m;\n\nGrau prata - 0,016 m;\n\nGrau cobre - 0,014 m.\n\n(ver figura no documento original)\n\n5 - Fitas simples (fig. 1-D):\n\na) As fitas simples, de tecido igual ao da fita de suspensão da insígnia de peito, com 0,03 m de comprimento e 0,012 m de largura, são colocadas em barras metálicas ou de material plástico rígido. Estas barras têm um alfinete de segurança para fixação;\n\nb) Cada barra terá o comprimento necessário para suportar uma ou mais fitas simples até ao máximo de quatro, podendo as barras superiores, por exigência da configuração da banda ou lapela do jaquetão, casaco ou dólman, ter número inferior de fitas;\n\nc) Colocam-se da direita para a esquerda e de cima para baixo, de acordo com a ordem de precedência estabelecida;\n\nd) Modelos:\n\n(ver figura no documento original)\n\n6 - Distintivo da condecoração de unidade para uso individual (fig. 1-E):\n\na) É constituído por dois cordões (A), encadeados, nas cores da fita, com as seguintes medidas:\n\nDiâmetro - 0,004 m;\n\nComprimento - 0,4 m e 0,6 m;\n\nAgulhetas - 0,06 m;\n\nb) As miniaturas dos cordões (B) são em seda, das cores da fita, e têm as seguintes medidas:\n\nDiâmetro - 0,002 m;\n\nComprimento - 0,065 m e 0,045 m;\n\nAgulhetas - 0,012 m;\n\nc) Os cordões são de seda e as agulhetas de metal dourado;\n\nd) Os cordões usam-se suspensos na platina do ombro direito e a miniatura por cima do bolso superior direito, ou local equivalente, suspensa do respectivo travessão, em metal dourado.\n\n(ver figura no documento original)\n\nII - Medalha da cruz de guerra\n\n7 - Insígnia para o peito (fig. 2):\n\na) 1.ª classe:\n\nFita de suspensão: de seda ondeada, com fundo vermelho, cortado longitudinalmente por cinco filetes verdes de 0,0015 m de largura e equidistantes entre si e das margens da fita; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, uma miniatura da cruz de guerra, cercada de duas vergônteas de louro, tudo de ouro, conforme o padrão da fig. 2-B;\n\nPassadeira: de ouro;\n\nPendente: de bronze:\n\nAnverso: cruz templária, tendo sobreposto, ao centro, um Emblema Nacional;\n\nReverso: ao centro, um círculo carregado de duas espadas antigas passadas em aspa, cercadas de duas vergônteas de louro, frutadas e atadas nos topos proximais com um laço;\n\nb) 2.ª classe: idêntica à 1.ª classe, com a seguinte diferença:\n\nFita de suspensão: ao centro, uma miniatura da cruz de guerra, de ouro, conforme o padrão da fig. 2-C;\n\nc) 3.ª classe: idêntica à de 1.ª classe com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma miniatura da cruz de guerra, de prata, conforme o padrão da fig. 2-C;\n\nPassadeira: de bronze;\n\nd) 4.ª classe: idêntica à de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma miniatura da cruz de guerra, de bronze, conforme o padrão da fig. 2-C;\n\nPassadeira: de bronze.\n\n(ver figura no documento original)\n\n8 - Insígnia para o pescoço (fig. 2-A):\n\nGravata: constituída por fita, com as características indicadas para a fita de suspensão da insígnia para o peito, 1.ª classe, mas com a largura de 0,038 m;\n\nArgola espalmada, cinzelada e canevão: de ouro;\n\nPendente: de bronze:\n\nCruz idêntica à descrita para a insígnia de peito, mas cercada de duas vergônteas de louro, frutadas e atadas nos topos proximais com um laço.\n\nNota. - Na faixa da condecoração de unidade a usar como gravata de bandeira ou estandarte, de unidades militares ou localidades condecoradas com a 1.ª classe da cruz de guerra, será bordado a fio de ouro o anverso do pendente descrito para esta insígnia (cruz e vergônteas de louro).\n\n(ver figura no documento original)\n\n9 - Miniaturas:\n\na) Do pendente:\n\n1) 1 ª classe (fig. 2-B) - Cruz templária, cercada de vergônteas, com as descritas relativamente à insígnia para o pescoço, como indicado no n.º 8, tudo de ouro:\n\nMódulo da cruz - 0,008 m;\n\nDiâmetro das vergônteas - 0,017 m;\n\n2) 2.ª, 3.ª e 4.ª classes (fig. 2-C) - Cruz idêntica à da 1.ª classe, mas sem vergônteas, em ouro, prata ou cobre, conforme se trate de 2.ª, 3.ª ou 4.ª classes:\n\nMódulo da cruz - 0,010 m;\n\nb) Da insígnia (fig. 2-D):\n\nFita de suspensão, com características idênticas às da insígnia para o peito, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n(ver figuras no documento original)\n\n10 - Rosetas:\n\na) Têm a configuração descrita no n.º 4 (fig. 1-C), com as mesmas cores da fita de suspensão;\n\nb) Dimensões:\n\n1.ª classe - 0,018 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,011 m.\n\n11 - Fitas simples:\n\nCom as cores da fita de suspensão, tendo em atenção o disposto no n.º 5.\n\n12 - Distintivo da condecoração de unidade, para uso individual:\n\nÉ constituído por cordões com as cores da fita da insígnia e características idênticas às referidas no n.º 6 (fig. 1-E).\n\nIII - Medalha dos serviços distintos\n\n13 - Insígnia para o peito (fig. 3):\n\na) Grau ouro:\n\nFita de suspensão: de seda ondeada, com nove filetes longitudinais de igual largura, sendo cinco vermelhos e quatro brancos, dispostos alternadamente; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, um Emblema Nacional de prata dourada;\n\nPassadeira e canevão: de ouro;\n\nPendente: de ouro:\n\nAnverso: Emblema Nacional, rodeado da legenda «SERVIÇOS DISTINTOS», em letras de tipo elzevir, maiúsculas; a legenda cercada de duas vergônteas de louro, frutadas e atadas nos topos proximais, com um laço largo encimado por um troféu;\n\nReverso: Estandarte Nacional, cercado de duas vergônteas de carvalho e tendo sobreposta a figura, meio corpo, de um guerreiro da época da fundação da nacionalidade, segurando na dextra uma espada antiga, e na sinistra um escudo que lhe protege o hemitórax esquerdo; este conjunto, rodeado da legenda «PARA SERVIR-VOS BRAÇO ÀS ARMAS FEITO», em letras de tipo elzevir, maiúsculas, num listel circular, rematado inferiormente por um laço largo encimado por um troféu;\n\nb) Grau prata: idêntica à insígnia do grau ouro, com as seguintes diferenças:\n\nFita de suspensão: ao centro, um Emblema Nacional, idêntico na forma ao do grau ouro, mas todo de prata;\n\nPassadeira, canevão e pendente: de prata;\n\nc) Grau cobre: idêntica à insígnia do grau ouro, com as seguintes diferenças:\n\nFita de suspensão: desprovida de Emblema Nacional;\n\nPassadeira, canevão e pendente: de cobre.\n\n(ver figura no documento original)\n\nNota. - Quando esta insígnia for usada com outras de modalidade diferente, é autorizada a sobreposição do troféu à fita, conforme a fig. 3-A, a fim de se obter o alinhamento inferior das condecorações.\n\n(ver figuras no documento original)\n\nFig. 3-B - Modelo da insígnia a bordar na faixa da condecoração colectiva, usada como gravata, nas bandeiras ou estandartes de unidades militares condecoradas com o grau de ouro da medalha de serviços distintos.\n\n14 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a);\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n15 - Rosetas:\n\nTêm a cor da fita da insígnia correspondente e as características e dimensões indicadas no n.º 4.\n\n16 - Fitas simples:\n\nTêm a configuração e as cores da fita de suspensão da insígnia, com o Escudo Nacional ao centro, em ouro, prata ou cobre, sendo as dimensões as indicadas no n.º 5, alínea a).\n\nIV - Medalha de mérito militar\n\n17 - Banda da grã-cruz (constituída pelo conjunto banda, laço e cruz de mérito militar) (fig. 4):\n\nBanda: de seda ondeada, com fundo carmesim, cortada longitudinalmente, a 0,015 m das margens da fita, por dois jogos de três filetes azuis-escuros de 0,003 m de largura e distanciados entre si 0,003 m e ao centro por três filetes contíguos de 0,0045 m de largura, sendo o do meio azul-escuro e os outros brancos; largura de 0,10 m; comprimento necessário para que, colocada a tiracolo, a extremidade do braço superior da cruz fique a 0,10 m abaixo da cintura;\n\nLaço: da mesma fita e do modelo da figura;\n\nCruz de mérito militar: com anverso e reverso iguais, é uma cruz alta, florenciada, branca, com as dimensões da figura, e tendo sobreposta uma cruz alta, vermelha; é encimada por uma torre de ouro, suspensa do laço por uma passadeira do mesmo metal.\n\n18 - Insígnia para o peito (fig. 4-A):\n\na) Grã-cruz (a usar quando não se utilizar a banda):\n\nFita de suspensão: de seda ondeada, com fundo carmesim, cortada longitudinalmente a 0,005 m das margens por dois jogos de três filetes azuis-escuros de 0,001 m de largura e distanciados entre si de 0,001 m e ao centro por três filetes contíguos de 0,0015 m de largura, sendo o do meio azul-escuro e os outros brancos; largura de 0,030 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, a miniatura da cruz de mérito militar, de altura de 0,010 m, rodeada de duas vergônteas de louro, conforme o padrão constante da fig. 4-D;\n\nArgola: de ouro;\n\nPendente: cruz (nos esmaltes) e torre idênticas às da banda, mas com as dimensões da figura;\n\nb) 1.ª classe: idêntica à insígnia da grã-cruz com a seguinte diferença:\n\nFita de suspensão: ao centro, uma miniatura da cruz de mérito militar, de altura de 0,016 m, conforme o padrão respectivo da fig. 4-D;\n\nc) 2.ª classe: idêntica à insígnia da grã-cruz, com a seguinte diferença:\n\nFita de suspensão: ao centro, uma miniatura da cruz de mérito militar, de altura de 0,014 m, conforme o padrão respectivo da fig. 4-D;\n\nd) 3.ª classe: idêntica à insígnia da grã-cruz, com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma miniatura da cruz de mérito militar, de altura de 0,012 m, conforme o padrão respectivo da fig. 4-D;\n\nPendente: a torre que encima a cruz é de prata;\n\ne) 4.ª classe: idêntica à insígnia da grã-cruz, com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma miniatura da cruz de mérito militar, de altura de 0,010 m, conforme o padrão respectivo da fig. 4-D;\n\nPendente: a torre que encima a cruz é de prata como na de 3.ª classe.\n\n(ver figuras no documento original)\n\n19 - Placa para o peito (fig. 4-B):\n\na) Grã-cruz de 1.ª classe:\n\nPlaca de ouro, com 22 raios tendo ao centro um disco vermelho carregado com miniatura da cruz de mérito militar, de altura de 0,014 m, circundada pela legenda «MÉRITO MILITAR», em letras de tipo elzevir, maiúsculas, de ouro; rodeando este disco, uma coroa de folhas de carvalho, de ouro.\n\n(ver figura no documento original)\n\nb) 2.ª classe: placa de prata, de características idênticas às referidas na alínea anterior.\n\n20 - Insígnia para o pescoço (1.ª e 2.ª classes) (fig. 4-C):\n\nGravata: constituída por fita, com as características indicadas para a fita de suspensão (grã-cruz), mas com a largura de 0,038 m;\n\nArgola espalmada, cinzelada: de ouro;\n\nPendente: cruz e torre idênticas às descritas para a banda da grã-cruz, tanto nos metais como nas dimensões.\n\n(ver figura no documento original)\n\n21 - Miniaturas (fig. 4-D):\n\na) Do pendente:\n\n1) Miniatura da cruz de mérito militar para a fita da grã-cruz (A) - cruz idêntica à descrita para a banda da grã-cruz, mas com a altura de 0,010 m, cercada de duas vergônteas de louro, frutadas e atadas com um laço vermelho e com o diâmetro exterior de 0,017 m;\n\n2) Miniaturas da cruz de mérito militar para as fitas de 1.ª, 2.ª, 3.ª e 4.ª classes (B) - cruz idêntica à descrita para a banda da grã-cruz, sem vergônteas, com as seguintes alturas:\n\n1.ª classe - 0,016 m;\n\n2.ª classe - 0,014 m;\n\n3.ª classe - 0,012 m;\n\n4.ª classe - 0,010 m;\n\nb) Da insígnia (C):\n\nFita de suspensão com as dimensões indicadas no n.º 3, alínea b), as cores da fita da insígnia e a cruz correspondente à 1.ª classe.\n\n(ver figura no documento original)\n\n22 - Rosetas (fig. 4-E):\n\nForradas com o tecido da fita de suspensão, têm as mesmas características indicadas no n.º 4 e os diâmetros seguintes:\n\nGrã-cruz - 0,019 m;\n\n1.ª classe - 0,017 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,010 m.\n\n(ver figura no documento original)\n\n23 - Fitas simples:\n\nCom as cores da fita de suspensão, tendo em atenção o disposto no n.º 5.\n\nV - Medalha da Defesa Nacional\n\n24 - Insígnia para o peito (fig. 5):\n\na) 1.ª classe:\n\nFita de suspensão: de seda ondeada, com o comprimento necessário para que seja de 0,090 m a distância do topo superior da fita ao bordo inferior da condecoração e 0,030 m de largura, com 13 filetes longitudinais, respectivamente, azul, com 0,0034 m de largura; prata, com 0,0033 m de largura; vermelho, com 0,0011 m de largura; prata, com 0,0011 m de largura; vermelho, com 0,0011 m de largura; prata, com 0,0033 m de largura; azul, com 0,0034 m de largura; prata, com 0,0033 m de largura; vermelho, com 0,0011 m de largura; prata, com 0,0011 m de largura; vermelho, com 0,0011 m de largura; prata, com 0,0033 m de largura; e azul, com 0,0034 m de largura;\n\nAo centro da fita o escudo das armas do Ministério da Defesa Nacional, de ouro, com largura de 0,008 m;\n\nPassadeira: de ouro;\n\nPendente: de ouro:\n\nAnverso: com o timbre, virol e escudo das armas do Ministério da Defesa Nacional, encimado por duas vergônteas de carvalho;\n\nReverso: liso;\n\nb) 2.ª, 3.ª e 4.ª classes: idênticas à insígnia de 1.ª classe, com as seguintes diferenças, respectivamente:\n\nFita de suspensão: ao centro o escudo das armas do Ministério da Defesa Nacional idêntico na forma ao de 1.ª classe, de prata;\n\nPassadeira e pendente: de prata;\n\nFita de suspensão: ao centro o escudo das armas do Ministério da Defesa Nacional idêntico na forma ao de 1.ª classe, de cobre;\n\nPassadeira e pendente: de cobre;\n\nFita de suspensão desprovida do escudo das armas do Ministério da Defesa Nacional;\n\nPassadeira e pendente: de cobre.\n\n(ver figura no documento original)\n\n25 - Insígnia para o pescoço (1.ª classe) (fig. 5-A):\n\nGravata: constituída por fita com as características indicadas para a fita de suspensão, mas com a largura de 0,038 m;\n\nArgola espalmada cinzelada e canevão: de ouro;\n\nPendente: de ouro, igual ao da insígnia para o peito, mas com as dimensões da figura:\n\n(ver figura no documento original)\n\n26 - Miniaturas:\n\na) Fita de suspensão idêntica à das insígnias para o peito, mas sem brasão ao centro e com metade da largura;\n\nb) Pendente idêntico ao das insígnias para o peito, mas com as seguintes alturas:\n\n1.ª, 2.ª e 3.ª classes - 0,018 m;\n\n4.ª classe - 0,012 m.\n\n27 - Rosetas (fig. 5-B):\n\nForradas com o tecido da fita de suspensão e com os seguintes diâmetros:\n\n1.ª classe - 0,018 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,011 m.\n\n(ver figura no documento original)\n\n28 - Fitas simples (fig. 5-C):\n\nForradas com as cores da fita de suspensão carregadas ao centro com as peças constantes das medalhas de 1.ª, 2.ª e 3.ª classes, sem qualquer distinção para a de 4.ª classe e tendo em atenção o disposto no n.º 5.\n\n(ver figura no documento original)\n\nVI - Medalha da cruz de São Jorge\n\n29 - Insígnia para o peito (fig. 6):\n\na) 1.ª classe:\n\nFita de suspensão: de seda ondeada azul, com largura de 0,03 m, cortada por uma faixa longitudinal vermelha com 0,01 m de largura e com o comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, um leão marinho alado, empunhando uma espada, circundado por uma corrente circular de 14 elos, 7 vistos de perfil e 7 de topo, tudo em ouro, e com o diâmetro igual a 0,012 m;\n\nPassadeira: de ouro;\n\nPendente:\n\nAnverso: com uma cruz de São Jorge de vermelho, orlada a ouro, e, sobreposto um leão marinho alado, empunhando uma espada e circundado por uma corrente circular de 14 elos, 7 vistos de perfil e 7 de topo, tudo em ouro;\n\nReverso: liso;\n\nb) 2.ª, 3.ª e 4.ª classes: idênticas à insígnia de 1.ª classe, com as seguintes diferenças, respectivamente:\n\nFita de suspensão carregada com a mesma peça, mas com 0,01 m de diâmetro; fita de suspensão carregada de um leão marinho alado, empunhando uma espada, tudo em ouro, mas sem a corrente circular de elos e sem nenhuma peça a carregar a fita de suspensão.\n\n(ver figura no documento original)\n\n30 - Insígnia para o pescoço (1.ª classe) (fig. 6-A):\n\nGravata: constituída por fita com as características indicadas para a fita de suspensão, mas com a largura de 0,038 m;\n\nArgola espalmada cinzelada e canevão: dourados;\n\nBelheira: constituída por folhas de loureiro douradas;\n\nPendente: igual ao da insígnia para o peito.\n\n(ver figura no documento original)\n\n31 - Miniaturas (fig. 6-B):\n\na) Fita de suspensão idêntica à das condecorações, mas com a largura de 0,015 m;\n\nb) Insígnia idêntica à das condecorações, mas com as seguintes dimensões:\n\n1.ª classe - 0,017 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,012 m;\n\n4.ª classe - 0,010 m.\n\n(ver figura no documento original)\n\n32 - Rosetas (fig. 6-C):\n\nForradas com o tecido da fita de suspensão, com os seguintes diâmetros:\n\n1.ª classe - 0,018 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,011 m.\n\n(ver figura no documento original)\n\n33 - Fitas simples (fig. 6-D):\n\nCom as cores da fita de suspensão carregadas com as peças constantes das medalhas de 1.ª, 2.ª e 3.ª classes, e sem qualquer distinção para a de 4.ª classe.\n\n(ver figura no documento original)\n\nVII - Medalha da cruz naval\n\n34 - Insígnia para o peito (fig. 7):\n\na) 1.ª classe:\n\nFita de suspensão: de seda ondeada, com fundo azul, cortada longitudinalmente por duas listas amarelo-douradas, cada uma de largura igual a um sexto da largura total da fita e afastadas do bordo de uma distância igual à sua largura; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, uma âncora, cercada de duas vergônteas de louro frutadas e atadas com um laço, tudo em ouro, conforme padrão da fig. 7-B;\n\nPassadeira: de ouro;\n\nPendente:\n\nAnverso: cruz pátea de branco debruada a ouro, tendo ao centro o emblema da Armada, sobreposto a duas espadas antigas, de ouro, passadas em pala;\n\nReverso: liso, de ouro;\n\nb) 2.ª, 3.ª e 4.ª classes: idênticas à insígnia de 1.ª classe, com a seguinte diferença:\n\nSobre a fita de suspensão e ao centro, e consoante se trate da 2.ª, 3.ª ou 4.ª classes, será aplicada uma âncora desprovida de cercadura, respectivamente, em ouro, prata ou cobre, conforme padrão da fig. 7-C.\n\n(ver figura no documento original)\n\n35 - Insígnia para o pescoço (1.ª classe) (fig. 7-A):\n\nGravata: constituída por fita com as características indicadas para a fita de suspensão da insígnia para o peito, mas com a largura de 0,038 m;\n\nArgola: lisa, de ouro;\n\nPendente: idêntico ao da insígnia para o peito.\n\n(ver figuras no documento original)\n\n36 - Miniaturas (fig. 7-D):\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau cobre;\n\nb) Da insígnia:\n\nFita de suspensão idêntica à da insígnia para o peito, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n(ver figura no documento original)\n\n37 - Rosetas (fig. 7-E):\n\nDo modelo e dimensões do padrão da figura e do material e cores indicados para a fita de suspensão; têm aposta a âncora correspondente a cada uma das classes.\n\n(ver figura no documento original)\n\n38 - Fitas simples (fig. 7-F):\n\nConfiguração e cores da fita de suspensão da insígnia para o peito, com a âncora correspondente a cada uma das classes aposta ao centro e as dimensões indicadas no n.º 5, alínea a).\n\n(ver figura no documento original)\n\nVIII - Medalha de D. Afonso Henriques - Mérito do Exército\n\n39 - Insígnia para o peito (fig. 8):\n\na) 1.ª classe:\n\nFita de suspensão: de seda ondeada, com fundo branco, cortada por uma faixa longitudinal azul, de 0,01 m de largura; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, uma cruz composta por 12 escudetes, com os 3 de cada flanco apontados ao centro, firmada no listel circular do sinal rodado de D. Afonso Henriques de 1183, dourado;\n\nPassadeira: dourada;\n\nPendente: dourado:\n\nAnverso: o sinal rodado de D. Afonso Henriques de 1183;\n\nReverso: um leão rampante, segurando na garra dianteira dextra uma espada, rodeado da legenda «MÉRITO DO EXÉRCITO», em letras de tipo elzevir, maiúsculas, num listel circular;\n\nb) 2.ª classe: idêntica à insígnia de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma cruz idêntica na forma à de 1.ª classe, prateada;\n\nPassadeira e pendente: prateados;\n\nc) 3.ª classe: idêntica à insígnia de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma cruz idêntica na forma à de 1.ª classe, em cobre;\n\nPassadeira e pendente: em cobre;\n\nd) 4.ª classe: idêntica à insígnia de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: desprovida de cruz;\n\nPassadeira e pendente: em cobre.\n\n(ver figura no documento original)\n\n40 - Insígnia para o pescoço (1.ª classe) (fig. 8-A):\n\nGravata: constituída por fita com as características indicadas para a fita de suspensão (1.ª classe), mas com a largura de 0,038 m;\n\nArgola espalmada cinzelada e canevão: dourados;\n\nBelheira: em forma de tulipa invertida, dourada;\n\nPendente: dourado, constituído por uma cruz firmada no listel circular do sinal rodado de D. Afonso Henriques de 1183.\n\n(ver figura no documento original)\n\n41 - Miniaturas (fig. 8-B):\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau cobre;\n\nb) Da insígnia:\n\nFita de suspensão idêntica à da insígnia para o peito, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n(ver figura no documento original)\n\n42 - Rosetas (fig. 8-C):\n\nForradas com o tecido da fita de suspensão, com os seguintes diâmetros:\n\n1.ª classe - 0,018 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,011 m.\n\n(ver figura no documento original)\n\n43 - Fitas simples (fig. 8-D):\n\nDe acordo com o referido no n.º 5, alínea a); têm aposta a cruz correspondente a cada uma das classes, com excepção da 4.ª classe.\n\n(ver figura no documento original)\n\nIX - Medalha de mérito aeronáutico\n\n44 - Insígnia para o peito (fig. 9):\n\na) Medalha de 1.ª classe:\n\nFita de suspensão de seda ondeada, com cinco filetes, alternados, sendo três azuis, com a largura de 0,007 m, e dois brancos, com a largura de 0,006 m comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter-se o alinhamento inferior das diferentes condecorações; ao centro da fita, a roseta do modelo e dimensões da fig. 9-C e do material indicados para a fita de suspensão;\n\nArgola: de ouro;\n\nPendentes: de ouro:\n\nAnverso: cruz de mérito aeronáutico, formada pela cruz de Cristo, de braços iguais, de cor vermelha, perfilada a ouro, tendo carregada, ao centro, a águia do brasão da Força Aérea sobre o fundo azul, circundado por uma coroa circular de cor dourada com a legenda «MÉRITO AERONÁUTICO» na parte superior e duas vergônteas de louro na parte inferior;\n\nReverso: cruz de Cristo de braços iguais, de cor vermelha, perfilada a ouro, tendo carregada, ao centro, a passarola do padre Bartolomeu de Gusmão, dourada, sobre fundo azul, circundada por uma coroa circular com a legenda «EX MERO MOTU» e duas vergônteas de louro;\n\nb) Medalha de 2.ª classe: idêntica à insígnia de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: tem aposta ao centro a roseta de 2.ª classe constante da fig. 9-C, do material e cores indicados para a fita de suspensão da medalha de 1.ª classe;\n\nArgola: de prata;\n\nc) Medalha de 3.ª classe: idêntica à insígnia de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: tem aposta ao centro a roseta de 3.ª classe constante da fig. 9-C, de material e cores indicados para a fita de suspensão da medalha de 1.ª classe;\n\nArgola: de prata;\n\nd) Medalha de 4.ª classe: idêntica à insígnia da medalha de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: desprovida de roseta;\n\nArgola: de prata.\n\n(ver figura no documento original)\n\n45 - Insígnia para o pescoço (medalha de 1.ª classe) (fig. 9-A):\n\nGravata: constituída por fita com as características indicadas para a fita de suspensão da insígnia para o peito, mas com a largura de 0,038 m;\n\nArgola e canevão: de ouro;\n\nPendente: idêntico ao da insígnia para o peito.\n\n(ver figura no documento original)\n\n46 - Miniaturas (fig. 9-B):\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau cobre;\n\nb) Da insígnia:\n\nFita de suspensão idêntica à da insígnia para o peito, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n(ver figura no documento original)\n\n47 - Rosetas (fig. 9-C):\n\nForradas com o tecido da fita de suspensão, com os seguintes diâmetros:\n\n1.ª classe - 0,018 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,011 m.\n\n(ver figura no documento original)\n\n48 - Fitas simples (fig. 9-D):\n\nDe acordo com o referido no n.º 5, alínea a), tem aposta a roseta correspondente a cada uma das classes, com excepção da 4.ª classe.\n\n(ver figura no documento original)\n\nX - Comportamento exemplar\n\n49 - Insígnia para a peito (fig. 10)\n\na) Grau ouro:\n\nFita de suspensão: seda ondeada, com nove filetes longitudinais de igual largura, sendo cinco verdes e quatro brancos, dispostos alternadamente; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, um Emblema Nacional, de ouro.\n\nArgola: de ouro;\n\nPendente:\n\nAnverso: Emblema Nacional, rodeado de um listel circular com a legenda «COMPORTAMENTO EXEMPLAR», em letras de tipo elzevir, maiúsculas; tudo circundado de duas vergônteas de louro, frutadas, atadas nos topos proximais com um laço largo; Reverso: reserva delimitada por quatro lúnulas, carregada de um escudo com cinco quinas postas em cruz, encimando uma mão dextra de guerreiro medieval, que segura uma chave, com a argola para a dextra e o palhetão para cima, e uma espada antiga, com o punho para a sinistra, postas em faixa; rodeando a reserva, a legenda «PORTUGUESES NOS FEITOS E NA LEALDADE», em letras de tipo elzevir, maiúsculas; tudo circundado de duas vergônteas de louro, frutadas, atadas nos topos proximais com um laço largo;\n\nb) Grau prata: idêntica ao grau ouro com as seguintes diferenças:\n\nFita de suspensão: ao centro, um Emblema Nacional, idêntico na forma ao do grau ouro, mas todo de prata;\n\nArgola e pendente: de prata;\n\nc) Grau cobre: idêntica ao grau ouro com as seguintes diferenças:\n\nFita de suspensão: desprovida de Emblema Nacional, ao centro;\n\nArgola e pendente: de cobre.\n\n(ver figura no documento original)\n\n50 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a);\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n51 - Rosetas:\n\nTêm a cor da fita da insígnia e as dimensões indicadas no n.º 4.\n\n52 - Fitas simples:\n\nConfiguração e cores da fita de suspensão, com o Escudo Nacional em ouro, prata ou sem Escudo e nas dimensões indicadas no n.º 5, alínea a).\n\nXI - Medalha dos promovidos por feitos distintos em campanha\n\n53 - Insígnia para o peito (fig. 11):\n\nFita de suspensão: de seda, com fundo vermelho, cortada ao centro por um filete longitudinal preto de 0,008 m de largura; largura da fita de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, uma estrela de cinco pontas e de 0,005 m de raio, do padrão da fig. 11-A, de ouro, prata ou cobre, conforme se trate de representar, respectivamente, a promoção a oficial general, a oficial de outra patente ou a qualquer posto inferior;\n\nPendente: de bronze:\n\nAnverso: estrela de cinco pontas, cinzeladas, cada uma terminada por uma esfera armilar pequena; ao centro, um disco carregado de um emblema nacional rodeado de listel circular com a legenda «PROMOÇÃO POR DISTINÇÃO», em letras de tipo elzevir, maiúsculas;\n\nReverso: idêntico ao anverso, mas tendo ao centro um disco com a legenda «MORRER MAS DEVAGAR», em letras de tipo elzevir, maiúsculas, em três linhas sobrepostas;\n\ncercando a legenda, duas vergônteas de louro, frutadas e cruzadas nos topos proximais.\n\n(ver figuras no documento original)\n\n54 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau ouro;\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n55 - Fitas simples:\n\nConfiguração e cores da fita de suspensão, das dimensões indicadas no n.º 5, alínea a), e com a respectiva estrela (fig. 11-A) aposta na mesma.\n\nXII - Medalha dos feridos em campanha\n\n56 - Insígnia para o peito (fig. 12):\n\nFita de suspensão: de seda, com fundo vermelho, cortada por dois filetes longitudinais verdes de 0,005 m de largura, afastados entre si 0,01m; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias;\n\nPendente: de bronze:\n\nAnverso: estrela de cinco pontas, cinzeladas, cada uma terminada por uma esfera armilar pequena; ao centro, um disco carregado de um Emblema Nacional rodeado de um listel circular com a legenda «FERIDOS EM CAMPANHA», em letras de tipo elzevir, maiúsculas;\n\nReverso: idêntico ao anverso, mas tendo ao centro um disco com a legenda «MORRER MAS DEVAGAR», em letras de tipo elzevir, maiúsculas, dispostas em três linhas; cercando a legenda, duas vergônteas de louro, frutadas e cruzadas nos topos proximais.\n\n(ver figura no documento original)\n\n57 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau ouro;\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n58 - Fitas simples:\n\nConfiguração e cores da fita de suspensão e das dimensões indicadas no n.º 5, alínea a).\n\nXIII - Medalha de reconhecimento\n\n59 - Insígnia para o peito (fig. 13):\n\nFita de suspensão: de seda, com fundo branco, largura de 0,03 m, cortada por dois filetes longitudinais de negro de 0,005 m de largura, afastados entre si 0,01 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias;\n\nPendente: de bronze:\n\nAnverso: estrela de cinco pontas, cinzeladas, cada uma terminada por uma esfera armilar pequena; ao centro, um disco carregado de um emblema nacional rodeado de um listel circular com a legenda «RECONHECIMENTO», em letras de tipo elzevir, maiúsculas;\n\nReverso: idêntico ao anverso, mas tendo ao centro um disco com a legenda «A QUEM SE SACRIFICOU PELA PÁTRIA», em letras de tipo elzevir, maiúsculas, dispostas em seis linhas; cercando a legenda, duas vergônteas de louro, frutadas e cruzadas nos topos proximais.\n\n(ver figura no documento original)\n\n60 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau ouro;\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n61 - Fitas simples:\n\nConfiguração e cores da fita de suspensão e das dimensões indicadas no n.º 5, alínea a).\n\nXIV - Medalha comemorativa das campanhas\n\n62 - Insígnia para o peito (fig. 14):\n\nFita de suspensão: de seda, com fundo verde e duas orlas vermelhas de 0,005 m de largura, levando uma passadeira, de prata, com 0,005 m de altura e com o nome das regiões geográficas em que ocorreram as campanhas e o ano ou anos em que os agraciados nelas tomaram parte, conforme padrão e exemplos da fig. 14; largura e comprimento da fita iguais às das restantes medalhas comemorativas;\n\nArgola: de prata;\n\nPendente: de prata:\n\nAnverso: emblema nacional rodeado de um listel circular com a legenda «CAMPANHAS E COMISSÕES ESPECIAIS DAS FORÇAS ARMADAS PORTUGUESAS», em letras de tipo elzevir, maiúsculas, a legenda cercada de duas vergônteas de louro, frutadas e atadas nos topos proximais com um laço largo; encimando este conjunto, uma coroa mural de cinco torres.\n\nReverso: disco tendo, na parte superior, uma Bandeira Nacional; sobrepostas a ela, e medindo quase todo o diâmetro, as figuras de um soldado do Exército, à dextra, um soldado da Força Aérea, ao centro, e um marinheiro da Armada, à sinistra, de pé e firmados num pedestal; o disco rodeado da legenda «ESTE REINO É OBRA DE SOLDADOS», em letras de tipo elzevir, maiúsculas, num listel circular, rematado inferiormente por um laço largo; encimando este conjunto, uma coroa mural idêntica à do anverso.\n\n(ver figura no documento original)\n\n63 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau ouro;\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n64 - Fitas simples:\n\nConfiguração e cores da fita de suspensão e das dimensões indicadas no n.º 5, alínea a).\n\nXV - Medalha comemorativa das comissões de serviço especiais\n\n65 - Insígnia para o peito (fig. 15):\n\nFita de suspensão: de seda, com fundo branco e duas orlas vermelhas de 0,005 m de largura, levando uma passadeira, de prata, idêntica à descrita para a medalha comemorativa das campanhas; largura e comprimento da fita iguais às das restantes medalhas comemorativas. Argola e pendente: com as características indicadas para a medalha comemorativa das campanhas.\n\n(ver figura no documento original)\n\n66 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau ouro;\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n67 - Fitas simples:\n\nConfiguração e cores da fita de suspensão e das dimensões indicadas no n.º 5, alínea a).\n\nXVI - Distintivos a usar sobre as fitas\n\n68 - Escudo Nacional (fig. 16):\n\nAssente sobre esfera armilar, de ouro, a usar nas fitas das condecorações de valor militar, serviços distintos e comportamento exemplar.\n\n(ver figura no documento original)\n\n69 - Palma de ouro (fig. 17):\n\nA usar nas fitas de condecorações de valor militar e serviços distintos, concedidos por feitos ou serviços em campanha.\n\n(ver figura no documento original)\n\n70 - Passadeiras (fig. 18):\n\nExemplos de passadeiras para as fitas das medalhas comemorativas de campanha, ou de comissões de serviço especiais; de prata, com as dimensões constantes da figura, levando os nomes do país, região ou regiões geográficas em que ocorrerem as campanhas ou comissões e o ano ou anos em que os agraciados participaram nelas, de harmonia com o fixado nas respectivas portarias de criação.\n\n(ver figura no documento original)"
+  },
+  "203154086": {
+   "fragment_id": "203154073",
+   "type": 14,
+   "heading": "Anexo II — Diploma de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Diploma de concessão\n\n(ver diploma no documento original)\n\nDimensão do diploma: 34,5 cm x 23,5 cm; o tipo de papel e de letra ficam ao critério da entidade que concede."
+  },
+  "203156189": {
+   "fragment_id": "203153976",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - Maria Celeste Ferreira Lopes Cardona.\n\nPromulgado em 29 de Novembro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Dezembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "203154087": {
+   "fragment_id": "203154011",
+   "type": 11,
+   "heading": "Artigo 26.º — Espécies e classes",
+   "in_force_from": "2022-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2022 - Diário da República n.º 214/2022, Série I de 2022-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2022-203083712), em vigor a partir de 2022-11-08"
+   ],
+   "markdown": "###### Artigo 26.º — Espécies e classes\n\n1 - São medalhas privativas do Ministério da Defesa Nacional, do Estado-Maior-General e dos ramos das Forças Armadas:\n\na) A medalha da defesa nacional, concedida pelo membro do Governo responsável pela área da defesa nacional;\n\nb) A medalha da cruz de São Jorge e a medalha do apoio militar a emergências civis, concedidas pelo Chefe do Estado-Maior-General das Forças Armadas;\n\nc) A medalha da cruz naval, concedida pelo Chefe do Estado-Maior da Armada;\n\nd) A medalha de D. Afonso Henriques - Mérito do Exército, concedida pelo Chefe do Estado-Maior do Exército;\n\ne) A medalha de mérito aeronáutico, concedida pelo Chefe do Estado-Maior da Força Aérea.\n\n2 - As medalhas privativas compreendem as seguintes classes:\n\na) 1.ª;\n\nb) 2.ª;\n\nc) 3.ª;\n\nd) 4.ª\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2022 - Diário da República n.º 214/2022, Série I de 2022-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2022-203083712), em vigor a partir de 2022-11-08"
+  },
+  "203154088": {
+   "fragment_id": "203154061",
+   "type": 11,
+   "heading": "Artigo 65.º — Precedência das insígnias",
+   "in_force_from": "2022-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2022 - Diário da República n.º 214/2022, Série I de 2022-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2022-203083712), em vigor a partir de 2022-11-08"
+   ],
+   "markdown": "###### Artigo 65.º — Precedência das insígnias\n\nAs insígnias das condecorações individuais de que trata o presente Regulamento são usadas no lado esquerdo do peito, de acordo com a seguinte ordem de precedência, em relação a outras condecorações nacionais e estrangeiras:\n\n1.ª Ordem Militar da Torre e Espada, do Valor, Lealdade e Mérito;\n\n2.ª Medalha de valor militar;\n\n3.ª Medalha da cruz de guerra;\n\n4.ª Ordem Militar de Cristo;\n\n5.ª Ordem Militar de Avis;\n\n6.ª Medalha de serviços distintos;\n\n7.ª Medalha de mérito militar;\n\n8.ª Ordem Militar de Sant'Iago da Espada;\n\n9.ª Ordem do Infante D. Henrique;\n\n10.ª Ordem da Liberdade;\n\n11.ª As medalhas privativas, pela seguinte ordem: medalha da Defesa Nacional, medalha da cruz de São Jorge, medalha da cruz naval, medalha de D. Afonso Henriques - Patrono do Exército, medalha de mérito aeronáutico e medalha do apoio militar a emergências civis;\n\n12.ª Medalha de comportamento exemplar;\n\n13.ª Medalha dos promovidos por feitos distintos em campanha;\n\n14.ª Medalha dos feridos em campanha;\n\n15.ª Medalha de reconhecimento;\n\n16.ª Medalha comemorativa das campanhas;\n\n17.ª Medalha comemorativa de comissões de serviço especiais;\n\n18.ª Outras condecorações nacionais, sendo a respectiva precedência determinada pela ordem cronológica da sua instituição;\n\n19.ª Condecorações estrangeiras, sendo a respectiva precedência determinada pela ordem alfabética dos nomes das respectivas nações ou organizações em língua portuguesa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2022 - Diário da República n.º 214/2022, Série I de 2022-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2022-203083712), em vigor a partir de 2022-11-08"
+  },
+  "203154089": {
+   "fragment_id": "203154072",
+   "type": 14,
+   "heading": "Anexo I — Padrões das insígnias - Figuras e descrições técnicas",
+   "in_force_from": "2022-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2022 - Diário da República n.º 214/2022, Série I de 2022-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2022-203083712), em vigor a partir de 2022-11-08"
+   ],
+   "markdown": "## Anexo I — Padrões das insígnias - Figuras e descrições técnicas\n\nI - Medalha de valor militar\n\n1 - Insígnia para o peito (fig. 1):\n\na) Grau ouro:\n\nFita de suspensão: de seda ondeada, com nove filetes longitudinais de igual largura, sendo cinco azuis e quatro brancos, dispostos alternadamente; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, um Escudo Nacional, de ouro, assente sobre esfera armilar, também de ouro, conforme fig. 1;\n\nPassadeiras: de ouro;\n\nBelheira: em forma de túlipa invertida, de ouro;\n\nPendente:\n\nAnverso: cruz pátea, de contornos rectilíneos, de ouro cinzelado, assente numa coroa circular de folhas de louro, frutadas, tudo de verde, e tendo sobreposto, ao centro, um Emblema Nacional (constituído pelo escudo das armas nacionais, nos seus metais e esmaltes, assente numa esfera armilar, de ouro), circundado por uma bordadura de azul com a legenda «VALOR MILITAR», em letras de tipo elzevir, maiúsculas, de ouro; cruz nos esmaltes e dimensões indicadas na figura;\n\nReverso: de ouro liso, para inscrição do posto e nome do agraciado, bem como do ano da concessão;\n\nb) Grau prata: idêntica ao grau ouro, com as seguintes diferenças:\n\nFita de suspensão: igual à do grau ouro, com as seguintes modificações: ao centro, o Escudo Nacional e a esfera armilar são em prata;\n\nPassadeira, belheira e pendente: iguais ao grau ouro, mas de prata;\n\nc) Grau cobre: idêntica ao grau ouro, com as seguintes diferenças:\n\nFita de suspensão: igual às anteriores, mas sem emblema nacional ao centro;\n\nPassadeira, belheira e pendente: idênticas às anteriores, mas de cobre.\n\n(ver figura no documento original)\n\n2 - Insígnia para o pescoço (fig. 1-A):\n\nGravata: constituída por fita, com as características indicadas para a fita de suspensão (grau ouro), mas com a largura de 0,038 m;\n\nArgola espalmada, cinzelada e canevão: de ouro;\n\nBelheira e pendente: de ouro, idênticos aos descritos para o peito nas dimensões constantes da figura.\n\nNota. - Na faixa da condecoração a usar como gravata de bandeira ou estandarte, de unidades militares ou localidades condecoradas com o grau ouro da medalha de valor militar, será bordado a fio de ouro o anverso do pendente desta insígnia.\n\n(ver figura no documento original)\n\n3 - Miniaturas (fig. 1-B):\n\na) Do pendente (cruz pátea) - Esta miniatura (A) tem, conforme os graus, as seguintes dimensões:\n\nGrau ouro - módulo de 0,017 m;\n\nGrau prata - módulo de 0,015 m;\n\nGrau cobre - módulo de 0,013 m;\n\nb) Da insígnia:\n\nFita de suspensão (B) idêntica à da insígnia para o peito, com a largura máxima de 0,0115 m e o pendente de acordo com o grau;\n\nComprimento total da miniatura - 0,06 m.\n\n(ver figura no documento original)\n\n4 - Rosetas (fig. 1-C):\n\na) As rosetas são constituídas por um cilindro, com a altura de 0,003 m, forrado com o tecido da fita de suspensão, tendo sobreposta a cruz pátea em metal correspondente ao respectivo grau e as medidas definidas para as miniaturas;\n\nb) Têm os seguintes diâmetros:\n\nGrau ouro - 0,018 m;\n\nGrau prata - 0,016 m;\n\nGrau cobre - 0,014 m.\n\n(ver figura no documento original)\n\n5 - Fitas simples (fig. 1-D):\n\na) As fitas simples, de tecido igual ao da fita de suspensão da insígnia de peito, com 0,03 m de comprimento e 0,012 m de largura, são colocadas em barras metálicas ou de material plástico rígido. Estas barras têm um alfinete de segurança para fixação;\n\nb) Cada barra terá o comprimento necessário para suportar uma ou mais fitas simples até ao máximo de quatro, podendo as barras superiores, por exigência da configuração da banda ou lapela do jaquetão, casaco ou dólman, ter número inferior de fitas;\n\nc) Colocam-se da direita para a esquerda e de cima para baixo, de acordo com a ordem de precedência estabelecida;\n\nd) Modelos:\n\n(ver figura no documento original)\n\n6 - Distintivo da condecoração de unidade para uso individual (fig. 1-E):\n\na) É constituído por dois cordões (A), encadeados, nas cores da fita, com as seguintes medidas:\n\nDiâmetro - 0,004 m;\n\nComprimento - 0,4 m e 0,6 m;\n\nAgulhetas - 0,06 m;\n\nb) As miniaturas dos cordões (B) são em seda, das cores da fita, e têm as seguintes medidas:\n\nDiâmetro - 0,002 m;\n\nComprimento - 0,065 m e 0,045 m;\n\nAgulhetas - 0,012 m;\n\nc) Os cordões são de seda e as agulhetas de metal dourado;\n\nd) Os cordões usam-se suspensos na platina do ombro direito e a miniatura por cima do bolso superior direito, ou local equivalente, suspensa do respectivo travessão, em metal dourado.\n\n(ver figura no documento original)\n\nII - Medalha da cruz de guerra\n\n7 - Insígnia para o peito (fig. 2):\n\na) 1.ª classe:\n\nFita de suspensão: de seda ondeada, com fundo vermelho, cortado longitudinalmente por cinco filetes verdes de 0,0015 m de largura e equidistantes entre si e das margens da fita; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, uma miniatura da cruz de guerra, cercada de duas vergônteas de louro, tudo de ouro, conforme o padrão da fig. 2-B;\n\nPassadeira: de ouro;\n\nPendente: de bronze:\n\nAnverso: cruz templária, tendo sobreposto, ao centro, um Emblema Nacional;\n\nReverso: ao centro, um círculo carregado de duas espadas antigas passadas em aspa, cercadas de duas vergônteas de louro, frutadas e atadas nos topos proximais com um laço;\n\nb) 2.ª classe: idêntica à 1.ª classe, com a seguinte diferença:\n\nFita de suspensão: ao centro, uma miniatura da cruz de guerra, de ouro, conforme o padrão da fig. 2-C;\n\nc) 3.ª classe: idêntica à de 1.ª classe com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma miniatura da cruz de guerra, de prata, conforme o padrão da fig. 2-C;\n\nPassadeira: de bronze;\n\nd) 4.ª classe: idêntica à de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma miniatura da cruz de guerra, de bronze, conforme o padrão da fig. 2-C;\n\nPassadeira: de bronze.\n\n(ver figura no documento original)\n\n8 - Insígnia para o pescoço (fig. 2-A):\n\nGravata: constituída por fita, com as características indicadas para a fita de suspensão da insígnia para o peito, 1.ª classe, mas com a largura de 0,038 m;\n\nArgola espalmada, cinzelada e canevão: de ouro;\n\nPendente: de bronze:\n\nCruz idêntica à descrita para a insígnia de peito, mas cercada de duas vergônteas de louro, frutadas e atadas nos topos proximais com um laço.\n\nNota. - Na faixa da condecoração de unidade a usar como gravata de bandeira ou estandarte, de unidades militares ou localidades condecoradas com a 1.ª classe da cruz de guerra, será bordado a fio de ouro o anverso do pendente descrito para esta insígnia (cruz e vergônteas de louro).\n\n(ver figura no documento original)\n\n9 - Miniaturas:\n\na) Do pendente:\n\n1) 1 ª classe (fig. 2-B) - Cruz templária, cercada de vergônteas, com as descritas relativamente à insígnia para o pescoço, como indicado no n.º 8, tudo de ouro:\n\nMódulo da cruz - 0,008 m;\n\nDiâmetro das vergônteas - 0,017 m;\n\n2) 2.ª, 3.ª e 4.ª classes (fig. 2-C) - Cruz idêntica à da 1.ª classe, mas sem vergônteas, em ouro, prata ou cobre, conforme se trate de 2.ª, 3.ª ou 4.ª classes:\n\nMódulo da cruz - 0,010 m;\n\nb) Da insígnia (fig. 2-D):\n\nFita de suspensão, com características idênticas às da insígnia para o peito, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n(ver figuras no documento original)\n\n10 - Rosetas:\n\na) Têm a configuração descrita no n.º 4 (fig. 1-C), com as mesmas cores da fita de suspensão;\n\nb) Dimensões:\n\n1.ª classe - 0,018 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,011 m.\n\n11 - Fitas simples:\n\nCom as cores da fita de suspensão, tendo em atenção o disposto no n.º 5.\n\n12 - Distintivo da condecoração de unidade, para uso individual:\n\nÉ constituído por cordões com as cores da fita da insígnia e características idênticas às referidas no n.º 6 (fig. 1-E).\n\nIII - Medalha dos serviços distintos\n\n13 - Insígnia para o peito (fig. 3):\n\na) Grau ouro:\n\nFita de suspensão: de seda ondeada, com nove filetes longitudinais de igual largura, sendo cinco vermelhos e quatro brancos, dispostos alternadamente; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, um Emblema Nacional de prata dourada;\n\nPassadeira e canevão: de ouro;\n\nPendente: de ouro:\n\nAnverso: Emblema Nacional, rodeado da legenda «SERVIÇOS DISTINTOS», em letras de tipo elzevir, maiúsculas; a legenda cercada de duas vergônteas de louro, frutadas e atadas nos topos proximais, com um laço largo encimado por um troféu;\n\nReverso: Estandarte Nacional, cercado de duas vergônteas de carvalho e tendo sobreposta a figura, meio corpo, de um guerreiro da época da fundação da nacionalidade, segurando na dextra uma espada antiga, e na sinistra um escudo que lhe protege o hemitórax esquerdo; este conjunto, rodeado da legenda «PARA SERVIR-VOS BRAÇO ÀS ARMAS FEITO», em letras de tipo elzevir, maiúsculas, num listel circular, rematado inferiormente por um laço largo encimado por um troféu;\n\nb) Grau prata: idêntica à insígnia do grau ouro, com as seguintes diferenças:\n\nFita de suspensão: ao centro, um Emblema Nacional, idêntico na forma ao do grau ouro, mas todo de prata;\n\nPassadeira, canevão e pendente: de prata;\n\nc) Grau cobre: idêntica à insígnia do grau ouro, com as seguintes diferenças:\n\nFita de suspensão: desprovida de Emblema Nacional;\n\nPassadeira, canevão e pendente: de cobre.\n\n(ver figura no documento original)\n\nNota. - Quando esta insígnia for usada com outras de modalidade diferente, é autorizada a sobreposição do troféu à fita, conforme a fig. 3-A, a fim de se obter o alinhamento inferior das condecorações.\n\n(ver figuras no documento original)\n\nFig. 3-B - Modelo da insígnia a bordar na faixa da condecoração colectiva, usada como gravata, nas bandeiras ou estandartes de unidades militares condecoradas com o grau de ouro da medalha de serviços distintos.\n\n14 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a);\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n15 - Rosetas:\n\nTêm a cor da fita da insígnia correspondente e as características e dimensões indicadas no n.º 4.\n\n16 - Fitas simples:\n\nTêm a configuração e as cores da fita de suspensão da insígnia, com o Escudo Nacional ao centro, em ouro, prata ou cobre, sendo as dimensões as indicadas no n.º 5, alínea a).\n\nIV - Medalha de mérito militar\n\n17 - Banda da grã-cruz (constituída pelo conjunto banda, laço e cruz de mérito militar) (fig. 4):\n\nBanda: de seda ondeada, com fundo carmesim, cortada longitudinalmente, a 0,015 m das margens da fita, por dois jogos de três filetes azuis-escuros de 0,003 m de largura e distanciados entre si 0,003 m e ao centro por três filetes contíguos de 0,0045 m de largura, sendo o do meio azul-escuro e os outros brancos; largura de 0,10 m; comprimento necessário para que, colocada a tiracolo, a extremidade do braço superior da cruz fique a 0,10 m abaixo da cintura;\n\nLaço: da mesma fita e do modelo da figura;\n\nCruz de mérito militar: com anverso e reverso iguais, é uma cruz alta, florenciada, branca, com as dimensões da figura, e tendo sobreposta uma cruz alta, vermelha; é encimada por uma torre de ouro, suspensa do laço por uma passadeira do mesmo metal.\n\n18 - Insígnia para o peito (fig. 4-A):\n\na) Grã-cruz (a usar quando não se utilizar a banda):\n\nFita de suspensão: de seda ondeada, com fundo carmesim, cortada longitudinalmente a 0,005 m das margens por dois jogos de três filetes azuis-escuros de 0,001 m de largura e distanciados entre si de 0,001 m e ao centro por três filetes contíguos de 0,0015 m de largura, sendo o do meio azul-escuro e os outros brancos; largura de 0,030 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, a miniatura da cruz de mérito militar, de altura de 0,010 m, rodeada de duas vergônteas de louro, conforme o padrão constante da fig. 4-D;\n\nArgola: de ouro;\n\nPendente: cruz (nos esmaltes) e torre idênticas às da banda, mas com as dimensões da figura;\n\nb) 1.ª classe: idêntica à insígnia da grã-cruz com a seguinte diferença:\n\nFita de suspensão: ao centro, uma miniatura da cruz de mérito militar, de altura de 0,016 m, conforme o padrão respectivo da fig. 4-D;\n\nc) 2.ª classe: idêntica à insígnia da grã-cruz, com a seguinte diferença:\n\nFita de suspensão: ao centro, uma miniatura da cruz de mérito militar, de altura de 0,014 m, conforme o padrão respectivo da fig. 4-D;\n\nd) 3.ª classe: idêntica à insígnia da grã-cruz, com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma miniatura da cruz de mérito militar, de altura de 0,012 m, conforme o padrão respectivo da fig. 4-D;\n\nPendente: a torre que encima a cruz é de prata;\n\ne) 4.ª classe: idêntica à insígnia da grã-cruz, com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma miniatura da cruz de mérito militar, de altura de 0,010 m, conforme o padrão respectivo da fig. 4-D;\n\nPendente: a torre que encima a cruz é de prata como na de 3.ª classe.\n\n(ver figuras no documento original)\n\n19 - Placa para o peito (fig. 4-B):\n\na) Grã-cruz de 1.ª classe:\n\nPlaca de ouro, com 22 raios tendo ao centro um disco vermelho carregado com miniatura da cruz de mérito militar, de altura de 0,014 m, circundada pela legenda «MÉRITO MILITAR», em letras de tipo elzevir, maiúsculas, de ouro; rodeando este disco, uma coroa de folhas de carvalho, de ouro.\n\n(ver figura no documento original)\n\nb) 2.ª classe: placa de prata, de características idênticas às referidas na alínea anterior.\n\n20 - Insígnia para o pescoço (1.ª e 2.ª classes) (fig. 4-C):\n\nGravata: constituída por fita, com as características indicadas para a fita de suspensão (grã-cruz), mas com a largura de 0,038 m;\n\nArgola espalmada, cinzelada: de ouro;\n\nPendente: cruz e torre idênticas às descritas para a banda da grã-cruz, tanto nos metais como nas dimensões.\n\n(ver figura no documento original)\n\n21 - Miniaturas (fig. 4-D):\n\na) Do pendente:\n\n1) Miniatura da cruz de mérito militar para a fita da grã-cruz (A) - cruz idêntica à descrita para a banda da grã-cruz, mas com a altura de 0,010 m, cercada de duas vergônteas de louro, frutadas e atadas com um laço vermelho e com o diâmetro exterior de 0,017 m;\n\n2) Miniaturas da cruz de mérito militar para as fitas de 1.ª, 2.ª, 3.ª e 4.ª classes (B) - cruz idêntica à descrita para a banda da grã-cruz, sem vergônteas, com as seguintes alturas:\n\n1.ª classe - 0,016 m;\n\n2.ª classe - 0,014 m;\n\n3.ª classe - 0,012 m;\n\n4.ª classe - 0,010 m;\n\nb) Da insígnia (C):\n\nFita de suspensão com as dimensões indicadas no n.º 3, alínea b), as cores da fita da insígnia e a cruz correspondente à 1.ª classe.\n\n(ver figura no documento original)\n\n22 - Rosetas (fig. 4-E):\n\nForradas com o tecido da fita de suspensão, têm as mesmas características indicadas no n.º 4 e os diâmetros seguintes:\n\nGrã-cruz - 0,019 m;\n\n1.ª classe - 0,017 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,010 m.\n\n(ver figura no documento original)\n\n23 - Fitas simples:\n\nCom as cores da fita de suspensão, tendo em atenção o disposto no n.º 5.\n\nV - Medalha da Defesa Nacional\n\n24 - Insígnia para o peito (fig. 5):\n\na) 1.ª classe:\n\nFita de suspensão: de seda ondeada, com o comprimento necessário para que seja de 0,090 m a distância do topo superior da fita ao bordo inferior da condecoração e 0,030 m de largura, com 13 filetes longitudinais, respectivamente, azul, com 0,0034 m de largura; prata, com 0,0033 m de largura; vermelho, com 0,0011 m de largura; prata, com 0,0011 m de largura; vermelho, com 0,0011 m de largura; prata, com 0,0033 m de largura; azul, com 0,0034 m de largura; prata, com 0,0033 m de largura; vermelho, com 0,0011 m de largura; prata, com 0,0011 m de largura; vermelho, com 0,0011 m de largura; prata, com 0,0033 m de largura; e azul, com 0,0034 m de largura;\n\nAo centro da fita o escudo das armas do Ministério da Defesa Nacional, de ouro, com largura de 0,008 m;\n\nPassadeira: de ouro;\n\nPendente: de ouro:\n\nAnverso: com o timbre, virol e escudo das armas do Ministério da Defesa Nacional, encimado por duas vergônteas de carvalho;\n\nReverso: liso;\n\nb) 2.ª, 3.ª e 4.ª classes: idênticas à insígnia de 1.ª classe, com as seguintes diferenças, respectivamente:\n\nFita de suspensão: ao centro o escudo das armas do Ministério da Defesa Nacional idêntico na forma ao de 1.ª classe, de prata;\n\nPassadeira e pendente: de prata;\n\nFita de suspensão: ao centro o escudo das armas do Ministério da Defesa Nacional idêntico na forma ao de 1.ª classe, de cobre;\n\nPassadeira e pendente: de cobre;\n\nFita de suspensão desprovida do escudo das armas do Ministério da Defesa Nacional;\n\nPassadeira e pendente: de cobre.\n\n(ver figura no documento original)\n\n25 - Insígnia para o pescoço (1.ª classe) (fig. 5-A):\n\nGravata: constituída por fita com as características indicadas para a fita de suspensão, mas com a largura de 0,038 m;\n\nArgola espalmada cinzelada e canevão: de ouro;\n\nPendente: de ouro, igual ao da insígnia para o peito, mas com as dimensões da figura:\n\n(ver figura no documento original)\n\n26 - Miniaturas:\n\na) Fita de suspensão idêntica à das insígnias para o peito, mas sem brasão ao centro e com metade da largura;\n\nb) Pendente idêntico ao das insígnias para o peito, mas com as seguintes alturas:\n\n1.ª, 2.ª e 3.ª classes - 0,018 m;\n\n4.ª classe - 0,012 m.\n\n27 - Rosetas (fig. 5-B):\n\nForradas com o tecido da fita de suspensão e com os seguintes diâmetros:\n\n1.ª classe - 0,018 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,011 m.\n\n(ver figura no documento original)\n\n28 - Fitas simples (fig. 5-C):\n\nForradas com as cores da fita de suspensão carregadas ao centro com as peças constantes das medalhas de 1.ª, 2.ª e 3.ª classes, sem qualquer distinção para a de 4.ª classe e tendo em atenção o disposto no n.º 5.\n\n(ver figura no documento original)\n\nVI - Medalha da cruz de São Jorge\n\n29 - Insígnia para o peito (fig. 6):\n\na) 1.ª classe:\n\nFita de suspensão: de seda ondeada azul, com largura de 0,03 m, cortada por uma faixa longitudinal vermelha com 0,01 m de largura e com o comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, um leão marinho alado, empunhando uma espada, circundado por uma corrente circular de 14 elos, 7 vistos de perfil e 7 de topo, tudo em ouro, e com o diâmetro igual a 0,012 m;\n\nPassadeira: de ouro;\n\nPendente:\n\nAnverso: com uma cruz de São Jorge de vermelho, orlada a ouro, e, sobreposto um leão marinho alado, empunhando uma espada e circundado por uma corrente circular de 14 elos, 7 vistos de perfil e 7 de topo, tudo em ouro;\n\nReverso: liso;\n\nb) 2.ª, 3.ª e 4.ª classes: idênticas à insígnia de 1.ª classe, com as seguintes diferenças, respectivamente:\n\nFita de suspensão carregada com a mesma peça, mas com 0,01 m de diâmetro; fita de suspensão carregada de um leão marinho alado, empunhando uma espada, tudo em ouro, mas sem a corrente circular de elos e sem nenhuma peça a carregar a fita de suspensão.\n\n(ver figura no documento original)\n\n30 - Insígnia para o pescoço (1.ª classe) (fig. 6-A):\n\nGravata: constituída por fita com as características indicadas para a fita de suspensão, mas com a largura de 0,038 m;\n\nArgola espalmada cinzelada e canevão: dourados;\n\nBelheira: constituída por folhas de loureiro douradas;\n\nPendente: igual ao da insígnia para o peito.\n\n(ver figura no documento original)\n\n31 - Miniaturas (fig. 6-B):\n\na) Fita de suspensão idêntica à das condecorações, mas com a largura de 0,015 m;\n\nb) Insígnia idêntica à das condecorações, mas com as seguintes dimensões:\n\n1.ª classe - 0,017 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,012 m;\n\n4.ª classe - 0,010 m.\n\n(ver figura no documento original)\n\n32 - Rosetas (fig. 6-C):\n\nForradas com o tecido da fita de suspensão, com os seguintes diâmetros:\n\n1.ª classe - 0,018 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,011 m.\n\n(ver figura no documento original)\n\n33 - Fitas simples (fig. 6-D):\n\nCom as cores da fita de suspensão carregadas com as peças constantes das medalhas de 1.ª, 2.ª e 3.ª classes, e sem qualquer distinção para a de 4.ª classe.\n\n(ver figura no documento original)\n\nVII - Medalha da cruz naval\n\n34 - Insígnia para o peito (fig. 7):\n\na) 1.ª classe:\n\nFita de suspensão: de seda ondeada, com fundo azul, cortada longitudinalmente por duas listas amarelo-douradas, cada uma de largura igual a um sexto da largura total da fita e afastadas do bordo de uma distância igual à sua largura; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, uma âncora, cercada de duas vergônteas de louro frutadas e atadas com um laço, tudo em ouro, conforme padrão da fig. 7-B;\n\nPassadeira: de ouro;\n\nPendente:\n\nAnverso: cruz pátea de branco debruada a ouro, tendo ao centro o emblema da Armada, sobreposto a duas espadas antigas, de ouro, passadas em pala;\n\nReverso: liso, de ouro;\n\nb) 2.ª, 3.ª e 4.ª classes: idênticas à insígnia de 1.ª classe, com a seguinte diferença:\n\nSobre a fita de suspensão e ao centro, e consoante se trate da 2.ª, 3.ª ou 4.ª classes, será aplicada uma âncora desprovida de cercadura, respectivamente, em ouro, prata ou cobre, conforme padrão da fig. 7-C.\n\n(ver figura no documento original)\n\n35 - Insígnia para o pescoço (1.ª classe) (fig. 7-A):\n\nGravata: constituída por fita com as características indicadas para a fita de suspensão da insígnia para o peito, mas com a largura de 0,038 m;\n\nArgola: lisa, de ouro;\n\nPendente: idêntico ao da insígnia para o peito.\n\n(ver figuras no documento original)\n\n36 - Miniaturas (fig. 7-D):\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau cobre;\n\nb) Da insígnia:\n\nFita de suspensão idêntica à da insígnia para o peito, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n(ver figura no documento original)\n\n37 - Rosetas (fig. 7-E):\n\nDo modelo e dimensões do padrão da figura e do material e cores indicados para a fita de suspensão; têm aposta a âncora correspondente a cada uma das classes.\n\n(ver figura no documento original)\n\n38 - Fitas simples (fig. 7-F):\n\nConfiguração e cores da fita de suspensão da insígnia para o peito, com a âncora correspondente a cada uma das classes aposta ao centro e as dimensões indicadas no n.º 5, alínea a).\n\n(ver figura no documento original)\n\nVIII - Medalha de D. Afonso Henriques - Mérito do Exército\n\n39 - Insígnia para o peito (fig. 8):\n\na) 1.ª classe:\n\nFita de suspensão: de seda ondeada, com fundo branco, cortada por uma faixa longitudinal azul, de 0,01 m de largura; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, uma cruz composta por 12 escudetes, com os 3 de cada flanco apontados ao centro, firmada no listel circular do sinal rodado de D. Afonso Henriques de 1183, dourado;\n\nPassadeira: dourada;\n\nPendente: dourado:\n\nAnverso: o sinal rodado de D. Afonso Henriques de 1183;\n\nReverso: um leão rampante, segurando na garra dianteira dextra uma espada, rodeado da legenda «MÉRITO DO EXÉRCITO», em letras de tipo elzevir, maiúsculas, num listel circular;\n\nb) 2.ª classe: idêntica à insígnia de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma cruz idêntica na forma à de 1.ª classe, prateada;\n\nPassadeira e pendente: prateados;\n\nc) 3.ª classe: idêntica à insígnia de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: ao centro, uma cruz idêntica na forma à de 1.ª classe, em cobre;\n\nPassadeira e pendente: em cobre;\n\nd) 4.ª classe: idêntica à insígnia de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: desprovida de cruz;\n\nPassadeira e pendente: em cobre.\n\n(ver figura no documento original)\n\n40 - Insígnia para o pescoço (1.ª classe) (fig. 8-A):\n\nGravata: constituída por fita com as características indicadas para a fita de suspensão (1.ª classe), mas com a largura de 0,038 m;\n\nArgola espalmada cinzelada e canevão: dourados;\n\nBelheira: em forma de tulipa invertida, dourada;\n\nPendente: dourado, constituído por uma cruz firmada no listel circular do sinal rodado de D. Afonso Henriques de 1183.\n\n(ver figura no documento original)\n\n41 - Miniaturas (fig. 8-B):\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau cobre;\n\nb) Da insígnia:\n\nFita de suspensão idêntica à da insígnia para o peito, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n(ver figura no documento original)\n\n42 - Rosetas (fig. 8-C):\n\nForradas com o tecido da fita de suspensão, com os seguintes diâmetros:\n\n1.ª classe - 0,018 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,011 m.\n\n(ver figura no documento original)\n\n43 - Fitas simples (fig. 8-D):\n\nDe acordo com o referido no n.º 5, alínea a); têm aposta a cruz correspondente a cada uma das classes, com excepção da 4.ª classe.\n\n(ver figura no documento original)\n\nIX - Medalha de mérito aeronáutico\n\n44 - Insígnia para o peito (fig. 9):\n\na) Medalha de 1.ª classe:\n\nFita de suspensão de seda ondeada, com cinco filetes, alternados, sendo três azuis, com a largura de 0,007 m, e dois brancos, com a largura de 0,006 m comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter-se o alinhamento inferior das diferentes condecorações; ao centro da fita, a roseta do modelo e dimensões da fig. 9-C e do material indicados para a fita de suspensão;\n\nArgola: de ouro;\n\nPendentes: de ouro:\n\nAnverso: cruz de mérito aeronáutico, formada pela cruz de Cristo, de braços iguais, de cor vermelha, perfilada a ouro, tendo carregada, ao centro, a águia do brasão da Força Aérea sobre o fundo azul, circundado por uma coroa circular de cor dourada com a legenda «MÉRITO AERONÁUTICO» na parte superior e duas vergônteas de louro na parte inferior;\n\nReverso: cruz de Cristo de braços iguais, de cor vermelha, perfilada a ouro, tendo carregada, ao centro, a passarola do padre Bartolomeu de Gusmão, dourada, sobre fundo azul, circundada por uma coroa circular com a legenda «EX MERO MOTU» e duas vergônteas de louro;\n\nb) Medalha de 2.ª classe: idêntica à insígnia de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: tem aposta ao centro a roseta de 2.ª classe constante da fig. 9-C, do material e cores indicados para a fita de suspensão da medalha de 1.ª classe;\n\nArgola: de prata;\n\nc) Medalha de 3.ª classe: idêntica à insígnia de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: tem aposta ao centro a roseta de 3.ª classe constante da fig. 9-C, de material e cores indicados para a fita de suspensão da medalha de 1.ª classe;\n\nArgola: de prata;\n\nd) Medalha de 4.ª classe: idêntica à insígnia da medalha de 1.ª classe, com as seguintes diferenças:\n\nFita de suspensão: desprovida de roseta;\n\nArgola: de prata.\n\n(ver figura no documento original)\n\n45 - Insígnia para o pescoço (medalha de 1.ª classe) (fig. 9-A):\n\nGravata: constituída por fita com as características indicadas para a fita de suspensão da insígnia para o peito, mas com a largura de 0,038 m;\n\nArgola e canevão: de ouro;\n\nPendente: idêntico ao da insígnia para o peito.\n\n(ver figura no documento original)\n\n46 - Miniaturas (fig. 9-B):\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau cobre;\n\nb) Da insígnia:\n\nFita de suspensão idêntica à da insígnia para o peito, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n(ver figura no documento original)\n\n47 - Rosetas (fig. 9-C):\n\nForradas com o tecido da fita de suspensão, com os seguintes diâmetros:\n\n1.ª classe - 0,018 m;\n\n2.ª classe - 0,015 m;\n\n3.ª classe - 0,013 m;\n\n4.ª classe - 0,011 m.\n\n(ver figura no documento original)\n\n48 - Fitas simples (fig. 9-D):\n\nDe acordo com o referido no n.º 5, alínea a), tem aposta a roseta correspondente a cada uma das classes, com excepção da 4.ª classe.\n\n(ver figura no documento original)\n\nX - Comportamento exemplar\n\n49 - Insígnia para a peito (fig. 10)\n\na) Grau ouro:\n\nFita de suspensão: seda ondeada, com nove filetes longitudinais de igual largura, sendo cinco verdes e quatro brancos, dispostos alternadamente; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, um Emblema Nacional, de ouro.\n\nArgola: de ouro;\n\nPendente:\n\nAnverso: Emblema Nacional, rodeado de um listel circular com a legenda «COMPORTAMENTO EXEMPLAR», em letras de tipo elzevir, maiúsculas; tudo circundado de duas vergônteas de louro, frutadas, atadas nos topos proximais com um laço largo; Reverso: reserva delimitada por quatro lúnulas, carregada de um escudo com cinco quinas postas em cruz, encimando uma mão dextra de guerreiro medieval, que segura uma chave, com a argola para a dextra e o palhetão para cima, e uma espada antiga, com o punho para a sinistra, postas em faixa; rodeando a reserva, a legenda «PORTUGUESES NOS FEITOS E NA LEALDADE», em letras de tipo elzevir, maiúsculas; tudo circundado de duas vergônteas de louro, frutadas, atadas nos topos proximais com um laço largo;\n\nb) Grau prata: idêntica ao grau ouro com as seguintes diferenças:\n\nFita de suspensão: ao centro, um Emblema Nacional, idêntico na forma ao do grau ouro, mas todo de prata;\n\nArgola e pendente: de prata;\n\nc) Grau cobre: idêntica ao grau ouro com as seguintes diferenças:\n\nFita de suspensão: desprovida de Emblema Nacional, ao centro;\n\nArgola e pendente: de cobre.\n\n(ver figura no documento original)\n\n50 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a);\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n51 - Rosetas:\n\nTêm a cor da fita da insígnia e as dimensões indicadas no n.º 4.\n\n52 - Fitas simples:\n\nConfiguração e cores da fita de suspensão, com o Escudo Nacional em ouro, prata ou sem Escudo e nas dimensões indicadas no n.º 5, alínea a).\n\nXI - Medalha dos promovidos por feitos distintos em campanha\n\n53 - Insígnia para o peito (fig. 11):\n\nFita de suspensão: de seda, com fundo vermelho, cortada ao centro por um filete longitudinal preto de 0,008 m de largura; largura da fita de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias; ao centro, uma estrela de cinco pontas e de 0,005 m de raio, do padrão da fig. 11-A, de ouro, prata ou cobre, conforme se trate de representar, respectivamente, a promoção a oficial general, a oficial de outra patente ou a qualquer posto inferior;\n\nPendente: de bronze:\n\nAnverso: estrela de cinco pontas, cinzeladas, cada uma terminada por uma esfera armilar pequena; ao centro, um disco carregado de um emblema nacional rodeado de listel circular com a legenda «PROMOÇÃO POR DISTINÇÃO», em letras de tipo elzevir, maiúsculas;\n\nReverso: idêntico ao anverso, mas tendo ao centro um disco com a legenda «MORRER MAS DEVAGAR», em letras de tipo elzevir, maiúsculas, em três linhas sobrepostas;\n\ncercando a legenda, duas vergônteas de louro, frutadas e cruzadas nos topos proximais.\n\n(ver figuras no documento original)\n\n54 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau ouro;\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n55 - Fitas simples:\n\nConfiguração e cores da fita de suspensão, das dimensões indicadas no n.º 5, alínea a), e com a respectiva estrela (fig. 11-A) aposta na mesma.\n\nXII - Medalha dos feridos em campanha\n\n56 - Insígnia para o peito (fig. 12):\n\nFita de suspensão: de seda, com fundo vermelho, cortada por dois filetes longitudinais verdes de 0,005 m de largura, afastados entre si 0,01m; largura de 0,03 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias;\n\nPendente: de bronze:\n\nAnverso: estrela de cinco pontas, cinzeladas, cada uma terminada por uma esfera armilar pequena; ao centro, um disco carregado de um Emblema Nacional rodeado de um listel circular com a legenda «FERIDOS EM CAMPANHA», em letras de tipo elzevir, maiúsculas;\n\nReverso: idêntico ao anverso, mas tendo ao centro um disco com a legenda «MORRER MAS DEVAGAR», em letras de tipo elzevir, maiúsculas, dispostas em três linhas; cercando a legenda, duas vergônteas de louro, frutadas e cruzadas nos topos proximais.\n\n(ver figura no documento original)\n\n57 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau ouro;\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n58 - Fitas simples:\n\nConfiguração e cores da fita de suspensão e das dimensões indicadas no n.º 5, alínea a).\n\nXIII - Medalha de reconhecimento\n\n59 - Insígnia para o peito (fig. 13):\n\nFita de suspensão: de seda, com fundo branco, largura de 0,03 m, cortada por dois filetes longitudinais de negro de 0,005 m de largura, afastados entre si 0,01 m; comprimento necessário para que seja de 0,09 m a distância do topo superior da fita ao bordo inferior da condecoração, por forma a obter o alinhamento inferior das diferentes insígnias;\n\nPendente: de bronze:\n\nAnverso: estrela de cinco pontas, cinzeladas, cada uma terminada por uma esfera armilar pequena; ao centro, um disco carregado de um emblema nacional rodeado de um listel circular com a legenda «RECONHECIMENTO», em letras de tipo elzevir, maiúsculas;\n\nReverso: idêntico ao anverso, mas tendo ao centro um disco com a legenda «A QUEM SE SACRIFICOU PELA PÁTRIA», em letras de tipo elzevir, maiúsculas, dispostas em seis linhas; cercando a legenda, duas vergônteas de louro, frutadas e cruzadas nos topos proximais.\n\n(ver figura no documento original)\n\n60 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau ouro;\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n61 - Fitas simples:\n\nConfiguração e cores da fita de suspensão e das dimensões indicadas no n.º 5, alínea a).\n\nXIV - Medalha comemorativa das campanhas\n\n62 - Insígnia para o peito (fig. 14):\n\nFita de suspensão: de seda, com fundo verde e duas orlas vermelhas de 0,005 m de largura, levando uma passadeira, de prata, com 0,005 m de altura e com o nome das regiões geográficas em que ocorreram as campanhas e o ano ou anos em que os agraciados nelas tomaram parte, conforme padrão e exemplos da fig. 14; largura e comprimento da fita iguais às das restantes medalhas comemorativas;\n\nArgola: de prata;\n\nPendente: de prata:\n\nAnverso: emblema nacional rodeado de um listel circular com a legenda «CAMPANHAS E COMISSÕES ESPECIAIS DAS FORÇAS ARMADAS PORTUGUESAS», em letras de tipo elzevir, maiúsculas, a legenda cercada de duas vergônteas de louro, frutadas e atadas nos topos proximais com um laço largo; encimando este conjunto, uma coroa mural de cinco torres.\n\nReverso: disco tendo, na parte superior, uma Bandeira Nacional; sobrepostas a ela, e medindo quase todo o diâmetro, as figuras de um soldado do Exército, à dextra, um soldado da Força Aérea, ao centro, e um marinheiro da Armada, à sinistra, de pé e firmados num pedestal; o disco rodeado da legenda «ESTE REINO É OBRA DE SOLDADOS», em letras de tipo elzevir, maiúsculas, num listel circular, rematado inferiormente por um laço largo; encimando este conjunto, uma coroa mural idêntica à do anverso.\n\n(ver figura no documento original)\n\n63 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau ouro;\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n64 - Fitas simples:\n\nConfiguração e cores da fita de suspensão e das dimensões indicadas no n.º 5, alínea a).\n\nXV - Medalha comemorativa das comissões de serviço especiais\n\n65 - Insígnia para o peito (fig. 15):\n\nFita de suspensão: de seda, com fundo branco e duas orlas vermelhas de 0,005 m de largura, levando uma passadeira, de prata, idêntica à descrita para a medalha comemorativa das campanhas; largura e comprimento da fita iguais às das restantes medalhas comemorativas. Argola e pendente: com as características indicadas para a medalha comemorativa das campanhas.\n\n(ver figura no documento original)\n\n66 - Miniaturas:\n\na) Do pendente:\n\nTem as dimensões indicadas no n.º 3, alínea a), para o grau ouro;\n\nb) Da insígnia:\n\nA miniatura é constituída pela própria insígnia, reduzida às dimensões indicadas no n.º 3, alínea b).\n\n67 - Fitas simples:\n\nConfiguração e cores da fita de suspensão e das dimensões indicadas no n.º 5, alínea a).\n\nXVI - Distintivos a usar sobre as fitas\n\n68 - Escudo Nacional (fig. 16):\n\nAssente sobre esfera armilar, de ouro, a usar nas fitas das condecorações de valor militar, serviços distintos e comportamento exemplar.\n\n(ver figura no documento original)\n\n69 - Palma de ouro (fig. 17):\n\nA usar nas fitas de condecorações de valor militar e serviços distintos, concedidos por feitos ou serviços em campanha.\n\n(ver figura no documento original)\n\n70 - Passadeiras (fig. 18):\n\nExemplos de passadeiras para as fitas das medalhas comemorativas de campanha, ou de comissões de serviço especiais; de prata, com as dimensões constantes da figura, levando os nomes do país, região ou regiões geográficas em que ocorrerem as campanhas ou comissões e o ano ou anos em que os agraciados participaram nelas, de harmonia com o fixado nas respectivas portarias de criação.\n\n(ver figura no documento original)\n\nVI-A - Medalha do apoio militar a emergências civis\n\n1 - Insígnia para o peito:\n\na) Medalha de 1.ª Classe (fig. 6a-A e 6a-B):\n\nAnverso:\n\nTrifólio: rosa, em alusão aos três ramos das Forças Armadas e à proteção, por ser esta a função das pétalas na natureza;\n\nProteção, Segurança e Bem-Estar: missão das Forças Armadas;\n\nCorrente: alude à cadeia de comando;\n\nLeão-Marinho Alado: alude ao Estado-Maior-General das Forças Armadas que, sob comando do Chefe do Estado-Maior-General das Forças Armadas, responde em permanência perante o Governo através do Ministério da Defesa Nacional, pela prontidão, disponibilidade, sustentação e emprego dos meios que constituem a componente operacional do sistema de forças;\n\nRosa dos Ventos: alude à abrangência territorial das missões nacionais e internacionais;\n\nReverso:\n\nLegenda 'APOIO MILITAR A EMERGÊNCIAS CIVIS', rodeado da legenda 'MEDALHA PRIVATIVA * FORÇAS ARMADAS PORTUGUESAS *'.\n\nFita de suspensão de seda ondada:\n\nDe ouro: em alusão ao Estado-Maior-General das Forças Armadas;\n\nÀ dextra um filete longitudinal de azul: alusivo à Marinha;\n\nAo centro um filete longitudinal de vermelho: alusivo ao Exército;\n\nÀ sinistra um filete longitudinal de azul: alusivo à Força Aérea;\n\nAo centro, trifólio rodeado por uma corrente com dez elos, tudo em ouro, e com o diâmetro igual a 12 milímetros;\n\nb) 2.ª, 3.ª e 4.ª classes: idênticas à insígnia de 1.ª classe, com as seguintes diferenças, respetivamente:\n\ni) 2.ª classe: Na fita de suspensão, ao centro, trifólio rodeado por uma corrente com 10 elos, tudo em ouro, e com o diâmetro igual a 10 milímetros;\n\nii) 3.ª classe: Na fita de suspensão, ao centro, trifólio em ouro, e com o diâmetro igual a 8 milímetros;\n\niii) 4.ª classe: Sem nenhuma peça a carregar a fita de suspensão.\n\n(ver documento original)\n\nFig. 6a-A - Insígnia para o peito - Anverso\n\n(ver documento original)\n\nFig. 6a-B - Insígnia para o peito - Reverso\n\n2 - Insígnia para o pescoço (1.ª classe) (fig. 6a-C):\n\nGravata: constituída por fita com as características indicadas para a fita de suspensão, mas com a largura de 0,038 m;\n\nPassadeira espalmada cinzelada e canevão: dourados;\n\nPendente: igual ao da insígnia para o peito.\n\n(ver documento original)\n\nFig. 6a-C - Insígnia para o pescoço\n\n3 - Miniatura da insígnia (fig. 6a-D):\n\nFita de suspensão idêntica à da insígnia para o peito, com a largura máxima de 0,015 m e o comprimento total da miniatura de 0,06 m.\n\n(ver documento original)\n\nFig. 6a-D - Miniatura da insígnia\n\n4 - Roseta (fig. 6a-E):\n\na) As rosetas são constituídas por um cilindro, com a altura de 0,003 m, forrado com o tecido da fita de suspensão;\n\nb) Tem o diâmetro de 0,017 m.\n\n(ver documento original)\n\nFig. 6a-E - Rosetas\n\n5 - Fita simples (fig. 6a-F):\n\nAs fitas simples, de tecido igual ao da fita de suspensão da insígnia de peito, com 0,03 m de comprimento e 0,012 m de largura, são colocadas em barras metálicas ou de material plástico rígido. Estas barras têm um alfinete de segurança para fixação;\n\n(ver documento original)\n\nFig. 6a-F - Fitas simples\n\n115836443\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 77/2022 - Diário da República n.º 214/2022, Série I de 2022-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2022-203083712), em vigor a partir de 2022-11-08"
+  }
+ }
+}

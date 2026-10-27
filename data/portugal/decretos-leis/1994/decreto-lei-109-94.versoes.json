@@ -1,0 +1,1293 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:265543:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-108015620",
+ "dre_path": "/dr/detalhe/decreto-lei/109-1994-265543",
+ "source_lastmod": "2025-06-06",
+ "versions": [
+  {
+   "date": "1994-04-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108023093",
+    "108023094",
+    "108023095",
+    "108023096",
+    "108023097",
+    "108023098",
+    "108023099",
+    "108023100",
+    "108023101",
+    "108023102",
+    "108023103",
+    "108023104",
+    "108023105",
+    "108023106",
+    "108023107",
+    "108023108",
+    "108023109",
+    "108023110",
+    "108023111",
+    "108023112",
+    "108023113",
+    "108023114",
+    "108023115",
+    "108023116",
+    "108023117",
+    "108023118",
+    "108023119",
+    "108023120",
+    "108023121",
+    "108023122",
+    "108023123",
+    "108023124",
+    "108023125",
+    "108023126",
+    "108023127",
+    "108023128",
+    "108023129",
+    "108023130",
+    "108023131",
+    "108023132",
+    "108023133",
+    "108023134",
+    "108023135",
+    "108023136",
+    "108023137",
+    "108023138",
+    "108023139",
+    "108023140",
+    "108023141",
+    "108023142",
+    "108023143",
+    "108023144",
+    "108023145",
+    "108023146",
+    "108023147",
+    "108023148",
+    "108023149",
+    "108023150",
+    "108023151",
+    "108023152",
+    "108023153",
+    "108023154",
+    "108023155",
+    "108023156",
+    "108023157",
+    "108023158",
+    "108023159",
+    "108023160",
+    "108023161",
+    "108023162",
+    "108023163",
+    "108023164",
+    "108023165",
+    "108023166",
+    "108023167",
+    "108023168",
+    "108023169",
+    "108023170",
+    "108023171",
+    "108023172",
+    "108023173",
+    "108023174",
+    "108024675",
+    "108024676",
+    "108024677",
+    "108024678",
+    "108024679",
+    "108024680",
+    "108024681",
+    "108024682",
+    "108024683",
+    "108024684",
+    "108024685",
+    "108024686",
+    "108024687",
+    "108024688",
+    "108024689",
+    "108024690",
+    "108024691",
+    "108024692",
+    "108024693",
+    "108024694",
+    "108024695",
+    "108024696"
+   ]
+  },
+  {
+   "date": "1994-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:468804:por",
+     "title": "Declaração de Rectificação n.º 64/94",
+     "published": "1994-05-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/64-1994-468804"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º",
+    "Retifica Artigo 36.º",
+    "Retifica Artigo 37.º",
+    "Retifica Artigo 38.º",
+    "Retifica Artigo 46.º",
+    "Retifica Artigo 51.º",
+    "Retifica Artigo 61.º"
+   ],
+   "fragments": [
+    "108023093",
+    "108023094",
+    "108023095",
+    "108023096",
+    "920958693",
+    "108023098",
+    "108023099",
+    "108023100",
+    "108023101",
+    "108023102",
+    "108023103",
+    "108023104",
+    "108023105",
+    "108023106",
+    "108023107",
+    "108023108",
+    "108023109",
+    "108023110",
+    "108023111",
+    "108023112",
+    "108023113",
+    "108023114",
+    "108023115",
+    "108023116",
+    "108023117",
+    "108023118",
+    "108023119",
+    "108023120",
+    "108023121",
+    "108023122",
+    "108023123",
+    "108023124",
+    "108023125",
+    "108023126",
+    "108023127",
+    "108023128",
+    "108023129",
+    "108023130",
+    "108023131",
+    "108023132",
+    "108023133",
+    "108023134",
+    "108023135",
+    "108023136",
+    "108023137",
+    "920958694",
+    "108023139",
+    "920958695",
+    "920958696",
+    "108023142",
+    "108023143",
+    "108023144",
+    "108023145",
+    "108023146",
+    "108023147",
+    "108023148",
+    "108023149",
+    "920958697",
+    "108023151",
+    "108023152",
+    "108023153",
+    "108023154",
+    "108023155",
+    "920958698",
+    "108023157",
+    "108023158",
+    "108023159",
+    "108023160",
+    "108023161",
+    "108023162",
+    "108023163",
+    "108023164",
+    "108023165",
+    "108023166",
+    "108023167",
+    "108023168",
+    "108023169",
+    "920958699",
+    "108023171",
+    "108023172",
+    "108023173",
+    "108023174",
+    "108024675",
+    "108024676",
+    "108024677",
+    "108024678",
+    "108024679",
+    "108024680",
+    "108024681",
+    "108024682",
+    "108024683",
+    "108024684",
+    "108024685",
+    "108024686",
+    "108024687",
+    "108024688",
+    "108024689",
+    "108024690",
+    "108024691",
+    "108024692",
+    "108024693",
+    "108024694",
+    "108024695",
+    "108024696",
+    "108024697"
+   ]
+  },
+  {
+   "date": "2017-08-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108021177:por",
+     "title": "Lei n.º 82/2017",
+     "published": "2017-08-18",
+     "dre_path": "/dr/detalhe/lei/82-2017-108021177"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "108023093",
+    "108023094",
+    "108023095",
+    "108023096",
+    "920958693",
+    "108023098",
+    "920958759",
+    "108023100",
+    "108023101",
+    "108023102",
+    "108023103",
+    "108023104",
+    "108023105",
+    "108023106",
+    "108023107",
+    "108023108",
+    "108023109",
+    "108023110",
+    "108023111",
+    "108023112",
+    "108023113",
+    "108023114",
+    "108023115",
+    "108023116",
+    "108023117",
+    "108023118",
+    "108023119",
+    "108023120",
+    "108023121",
+    "108023122",
+    "108023123",
+    "108023124",
+    "108023125",
+    "108023126",
+    "108023127",
+    "108023128",
+    "108023129",
+    "108023130",
+    "108023131",
+    "108023132",
+    "108023133",
+    "108023134",
+    "108023135",
+    "108023136",
+    "108023137",
+    "920958694",
+    "108023139",
+    "920958695",
+    "920958696",
+    "108023142",
+    "108023143",
+    "108023144",
+    "108023145",
+    "108023146",
+    "108023147",
+    "108023148",
+    "108023149",
+    "920958697",
+    "108023151",
+    "108023152",
+    "108023153",
+    "108023154",
+    "108023155",
+    "920958698",
+    "108023157",
+    "108023158",
+    "108023159",
+    "108023160",
+    "108023161",
+    "108023162",
+    "108023163",
+    "108023164",
+    "108023165",
+    "108023166",
+    "108023167",
+    "108023168",
+    "108023169",
+    "920958699",
+    "108023171",
+    "108023172",
+    "108023173",
+    "108023174",
+    "108024675",
+    "108024676",
+    "108024677",
+    "108024678",
+    "108024679",
+    "108024680",
+    "108024681",
+    "108024682",
+    "108024683",
+    "108024684",
+    "108024685",
+    "108024686",
+    "108024687",
+    "108024688",
+    "108024689",
+    "108024690",
+    "108024691",
+    "108024692",
+    "108024693",
+    "108024694",
+    "108024695",
+    "108024696",
+    "108024697"
+   ]
+  }
+ ],
+ "fragments": {
+  "108023093": {
+   "fragment_id": "108015621",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 109/94\n\nde 26 de Abril\n\nAs actividades de prospecção e pesquisa de petróleo em Portugal foram objecto de grande desenvolvimento durante quase toda a década de 70, beneficiando, entre outras razões, de uma conjuntura internacional favorável. O ritmo de actividades decaiu, drasticamente, durante a década de 80, esgotada a capacidade de resposta dos meios tecnológicos existentes na altura, sem que qualquer descoberta comercial tenha sido efectuada.\n\nA tendência para a retracção dos investimentos no sector não foi então contrariada pela criação de um quadro jurídico mais incentivador, o qual poderia compensar, pelo menos em parte, o acréscimo de risco decorrente da pouca favorabilidade dos resultados obtidos.\n\nA legislação relativa ao acesso e exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo actualmente existente contempla a emissão de vários títulos de licenciamento sucessivos, culminando na outorga de contrato de concessão apenas se e quando for efectuada a declaração de uma descoberta comercial. Por outro lado, a atribuição do título inicial faz-se sempre na sequência de concurso, desencadeado pela apresentação de proposta por parte de uma entidade interessada, não dando lugar a negociação.\n\nA experiência adquirida quanto à aplicação deste quadro jurídico e da filosofia que lhe está inerente tem demonstrado não ser incentivador na captação de novos investimentos no sector por parte da indústria, para além da atribuição de licenças a pequenas empresas dotadas de reduzida capacidade técnica e financeira.\n\nFace à evolução tecnológica verificada nas actividades ligadas à prospecção e pesquisa de petróleo nos últimos anos, cuja aplicação aos dados técnicos existentes das nossas bacias sedimentares se encontra actualmente em curso, é possível inverter favoravelmente a imagem do seu potencial petrolífero de modo a permitir a retoma do interesse dos investidores. Haverá, contudo, que ter em conta a grande concorrência internacional existente para atrair este tipo de investimentos de alto risco, pelo que urge criar condições objectivas de atractividade através da criação de um novo regime jurídico claro, objectivo e adequado aos objectivos a prosseguir.\n\nCom o presente diploma, pretende o Governo dar um novo impulso às actividades de prospecção e pesquisa de petróleo e, consequentemente, de desenvolvimento e produção, criando-se condições de acesso mais favoráveis, simplificando procedimentos administrativos e estabelecendo regras claras ao seu exercício de modo ajustado à realidade e à prática da indústria.\n\nNo que respeita ao acesso às actividades e para além da figura do concurso já consagrada, é introduzido o regime de negociação directa, o qual pode vir a mostrar-se útil para um país não produtor de petróleo, como é o caso de Portugal.\n\nO exercício das actividades fica subordinado a um único título, sob a forma de contrato administrativo de concessão, contemplando todas as fases de actividade. Durante as fases de prospecção e pesquisa, o ritmo é marcado por obrigações mínimas de trabalhos, enquadradas por prazos bem definidos para restituição de áreas e para renúncia, compatíveis com a prática usual na indústria.\n\nO direito ao acesso e exercício das actividades exercer-se-á em áreas suficientemente extensas para assegurar a necessária perspectiva dimensional dos modelos estruturais a estudar, admitindo-se prazos de execução, para as diversas fases, adequados ao que a experiência da indústria recomenda.\n\nÉ criada ainda a figura da licença de avaliação prévia facultativa e de curta duração, de modo a permitir às entidades que o desejem realizar estudos sobre a informação existente, com vista a melhor fundamentar os seus pedidos de concessão.\n\nNo domínio da fiscalidade, aplica-se o regime geral previsto no Código do IRC, com os mecanismos relativos a deduções e amortizações nele previstas para a exploração petrolífera. É, contudo, introduzido um imposto sobre produção de petróleo, aplicável somente para valores de produção anual situados para além de um patamar de isenção predefinido, calculado com base numa escala progressiva. A produção de gás natural fica isenta de pagamento deste imposto.\n\nFinalmente, as concessionárias disporão livremente do petróleo produzido, exceptuando as situações específicas de guerra ou emergência.\n\nNa elaboração do presente diploma foram já consideradas as orientações e recomendações comunitárias pertinentes.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 30.º da Lei n.º 75/93, de 20 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108023094": {
+   "fragment_id": "108015622",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "108023095": {
+   "fragment_id": "108015623",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente diploma regulamenta o acesso e exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo nas áreas disponíveis da superfície emersa do território nacional, das águas interiores, do mar territorial e da plataforma continental, bem como a realização de estudos de avaliação prévia do potencial interesse no referido exercício de actividade.\n\n2 - Para efeitos do presente diploma, considera-se plataforma continental o leito do mar e o subsolo das zonas submarinas adjacentes ao território nacional, até onde a profundidade das águas permita o exercício das actividades referidas no número anterior, sem prejuízo das disposições de direito internacional aplicáveis na matéria."
+  },
+  "108023096": {
+   "fragment_id": "108015624",
+   "type": 11,
+   "heading": "Artigo 2.º — Áreas destinadas ao exercício das actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Áreas destinadas ao exercício das actividades\n\n1 - Para efeitos do disposto nos artigos 8.º e 9.º, o Gabinete para a Pesquisa e Exploração de Petróleo, adiante abreviadamente designado por GPEP, promoverá, no prazo de 90 dias após a entrada em vigor do presente diploma, a publicação de um aviso no Diário da República e no Jornal Oficial das Comunidades, onde serão indicadas as áreas destinadas ao exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo e, de entre essas áreas, as consideradas disponíveis numa base permanente, bem como o local onde poderão ser obtidas informações pormenorizadas a este respeito.\n\n2 - Qualquer alteração significativa da situação constante do aviso a que se refere o número anterior será publicada pela mesma forma em aviso suplementar.\n\n3 - A indicação de áreas referida nos números anteriores constará de um mapa, à escala de 1:400000, cujo original será mantido pelo GPEP, onde poderá ser consultado por qualquer interessado."
+  },
+  "108023097": {
+   "fragment_id": "108015625",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Petróleo - toda a concentração ou mistura natural de hidrocarbonetos líquidos ou gasosos, incluindo todas as substâncias de qualquer outra natureza que, com eles, se encontrem em combinação, suspensão ou mistura, com exclusão dos hidrocarbonetos sólidos naturais e todas as concentrações cuja exploração só possa ser feita através da extracção das próprias rochas;\n\nb) Campo de petróleo - uma ou mais acumulações comerciais de hidrocarbonetos líquidos ou gasosos, adjacentes ou sobrepostas, confinadas a uma única estrutura geológica;\n\nc) Lote - unidade básica de área das concessões, com 6? de longitude e 5? de latitude, excepto quando intersectada pela linha da costa, linha de fronteira territorial ou linha exterior da plataforma continental correspondente à batimétrica que definia o limite de explorabilidade económica, ou ainda pelos limites dos lotes remanescentes após as restituições de áreas previstas, nomeadamente no artigo 36.º, casos em que tais linhas passam a integrar também os limites do lote;\n\nd) Bloco de concessão - um ou mais lotes contíguos da área das concessões com um lado comum entre eles;\n\ne) Bloco petrolífero - a área da concessão, dentro de cujos limites se projectam, na vertical do lugar, um ou mais campos de petróleo;\n\nf) Área de concessão - a área objecto de um contrato de concessão em qualquer momento da sua vigência, podendo ser constituída por um ou mais blocos;\n\ng) Sondagem de pesquisa - sondagem cujo objectivo é o de descobrir e avaliar uma ou mais acumulações de petróleo."
+  },
+  "108023098": {
+   "fragment_id": "108015626",
+   "type": 11,
+   "heading": "Artigo 4.º — Dominialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dominialidade\n\nOs jazigos de petróleo existentes nas áreas referidas no artigo 1.º fazem parte integrante do domínio público do Estado."
+  },
+  "108023099": {
+   "fragment_id": "108015627",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições do exercício de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições do exercício de actividades\n\n1 - As actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo só podem ser exercidas mediante concessão, na sequência de concurso público ou de negociação directa.\n\n2 - Os estudos de avaliação prévia a que se refere o artigo 9.º são titulados por licença, emitida nos termos do disposto nos artigos 23.º a 29.º"
+  },
+  "108023100": {
+   "fragment_id": "108015628",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência para a emissão dos títulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência para a emissão dos títulos\n\n1 - A atribuição de concessão para o exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo é da competência do Governo, através do ministro responsável pela área da energia.\n\n2 - A emissão de licenças de avaliação prévia é da competência do GPEP, mediante autorização do ministro da tutela."
+  },
+  "108023101": {
+   "fragment_id": "108015629",
+   "type": 11,
+   "heading": "Artigo 7.º — Sobreponibilidade e incompatibilidade de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sobreponibilidade e incompatibilidade de direitos\n\n1 - A atribuição de direitos relativos ao exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo não é, por regra, incompatível com a prévia ou posterior atribuição de direitos para o exercício de actividades respeitantes a outros recursos naturais ou usos para a mesma área.\n\n2 - Havendo incompatibilidade no exercício dos direitos referidos no número anterior, os ministros da tutela das actividades em conflito decidem qual o direito que deve prevalecer, de acordo com o interesse nacional e em conformidade com o direito internacional aplicável.\n\n3 - Em qualquer caso, a atribuição de direitos relativos às actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo só pode ser feita com salvaguarda dos interesses nacionais em matéria de defesa, de ambiente, de navegação e de investigação, de gestão e de preservação dos recursos do mar.\n\n4 - Para efeitos do disposto no presente artigo e no artigo anterior, devem ser ouvidas as entidades sectorialmente competentes nos termos da legislação específica aplicável."
+  },
+  "108023102": {
+   "fragment_id": "108015630",
+   "type": 1,
+   "heading": "Capítulo II — Atribuição de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Atribuição de direitos"
+  },
+  "108023103": {
+   "fragment_id": "108015631",
+   "type": 8,
+   "heading": "Secção I — Atribuição de concessões e emissão de licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Atribuição de concessões e emissão de licenças"
+  },
+  "108023104": {
+   "fragment_id": "108015632",
+   "type": 11,
+   "heading": "Artigo 8.º — Atribuição de concessões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Atribuição de concessões\n\n1 - A abertura de concurso público para atribuição de uma ou mais concessões poderá ter lugar a todo o tempo, por iniciativa do Governo, através do ministro da tutela ou quando for apresentada qualquer candidatura para o exercício de actividades em determinada área, sem prejuízo do disposto no número seguinte.\n\n2 - Podem ser atribuídas concessões por negociação directa com entidades interessadas mas apenas relativamente a áreas:\n\na) Previamente declaradas disponíveis numa base permanente;\n\nb) Objecto de concurso público anterior de que não tenha resultado a atribuição de uma concessão;\n\nc) Restituídas por concessionárias;\n\nd) Contíguas às de uma concessão em vigor, se a anexação dessas áreas à referida concessão se justificar por razões de ordem técnica ou económica.\n\n3 - Na situação referida na alínea d) do número anterior, havendo mais de uma concessão contígua nas condições indicadas será aberto concurso, limitado às concessionárias confinantes com a área em questão."
+  },
+  "108023105": {
+   "fragment_id": "108015633",
+   "type": 11,
+   "heading": "Artigo 9.º — Emissão de licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Emissão de licenças\n\nDe forma a facilitar a aquisição e tratamento de informação que permita uma melhor avaliação e suporte técnico dos pedidos de atribuição de direitos em áreas destinadas para esse efeito, nos termos do disposto no artigo 2.º, o Governo, através do ministro da tutela, poderá autorizar o GPEP a emitir licenças de uso privativo para a realização de estudos de avaliação prévia da documentação existente relativa a essas áreas, nos termos do disposto nos artigos 23.º a 29.º"
+  },
+  "108023106": {
+   "fragment_id": "108015634",
+   "type": 8,
+   "heading": "Secção II — Concurso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Concurso público"
+  },
+  "108023107": {
+   "fragment_id": "108015635",
+   "type": 11,
+   "heading": "Artigo 10.º — Programa do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Programa do concurso\n\n1 - Nos termos do disposto no n.º 1 do artigo 8.º, o ministro da tutela determina a abertura de concurso público para apresentação de propostas com vista à concessão prevista no artigo 1.º, mandando, para o efeito, publicar anúncio no Diário da República, no Jornal Oficial das Comunidades e, se o entender conveniente, em publicações internacionais da especialidade.\n\n2 - O anúncio referido no número anterior especificará, designadamente, a área ou áreas geográficas que, em parte ou na totalidade, podem ser objecto do pedido, a legislação aplicável à concessão, o prazo para apresentação das propostas, o montante da caução provisória definida nos termos do artigo 74.º, o nome e endereço do organismo onde poderão ser prestadas informações complementares e ainda um mapa da área ou áreas a concessionar, com indicação dos lotes que a constituem."
+  },
+  "108023108": {
+   "fragment_id": "108015636",
+   "type": 11,
+   "heading": "Artigo 11.º — Requisitos da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Requisitos da candidatura\n\n1 - Serão admitidas a concurso entidades que façam prova de idoneidade técnica e económico-financeira para o exercício das actividades do âmbito de aplicação deste diploma.\n\n2 - Para efeitos do disposto no número anterior, são consideradas entidades as sociedades comerciais, os agrupamentos complementares de empresas (ACE) e os agrupamentos europeus de interesse económico (AEIE).\n\n3 - A prova far-se-á através da apresentação de declarações bancárias apropriadas, dos balanços das empresas concorrentes referentes aos últimos três anos de actividade, dos elementos sobre a experiência anterior no âmbito da prospecção, pesquisa e produção de petróleo e de quaisquer outros elementos que o concorrente considere relevantes para valorização da sua candidatura.\n\n4 - Para além dos requisitos indicados nos números anteriores, serão sempre exigíveis aos candidatos:\n\na) Certidão comprovativa da existência legal;\n\nb) Programa de trabalhos proposto e estimativa dos respectivos custos e das fontes de financiamento;\n\nc) Prestação de caução provisória referida no artigo 74.º"
+  },
+  "108023109": {
+   "fragment_id": "108015637",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrega de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrega de propostas\n\n1 - As propostas de candidatura dos concorrentes serão elaboradas em língua portuguesa, ou noutra qualquer língua acompanhada de tradução para português e em conformidade com o disposto nos artigos 10.º e 11.º, devendo ser apresentadas no GPEP, em envelope fechado, em prazo não inferior a 90 dias após a publicação do anúncio do concurso no Jornal Oficial das Comunidades.\n\n2 - Após a entrega das propostas, não há lugar a qualquer tipo de negociação relativamente ao respectivo conteúdo.\n\n3 - Não sendo apresentadas quaisquer propostas, o concurso é considerado extinto."
+  },
+  "108023110": {
+   "fragment_id": "108015638",
+   "type": 11,
+   "heading": "Artigo 13.º — Abertura e apreciação das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Abertura e apreciação das propostas\n\n1 - Expirado o prazo previsto no n.º 1 do artigo anterior, o GPEP procederá à abertura das propostas apresentadas, em acto público, de que é dado prévio conhecimento a todos os concorrentes.\n\n2 - O acto público decorre perante um júri constituído por três ou cinco elementos, a indicar pelo director do GPEP.\n\n3 - O júri procede à verificação da conformidade processual da documentação apresentada pelos concorrentes com o conteúdo do anúncio."
+  },
+  "108023111": {
+   "fragment_id": "108015639",
+   "type": 11,
+   "heading": "Artigo 14.º — Deficiências e irregularidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Deficiências e irregularidades\n\n1 - Verificando-se a existência de irregularidades ou deficiências nos processos de candidatura, na sequência do procedimento indicado no artigo anterior, serão os interessados notificados por telefax ou carta registada com aviso de recepção para, no prazo de 15 dias a contar da data da recepção da notificação, suprirem as irregularidades ou deficiências verificadas, sob pena de exclusão do concurso.\n\n2 - Das decisões do júri há lugar a reclamação necessária perante o mesmo, devendo as reclamações ser decididas no prazo de 15 dias após a apresentação da reclamação.\n\n3 - Das decisões finais do júri há lugar a recurso necessário para o ministro da tutela."
+  },
+  "108023112": {
+   "fragment_id": "108015640",
+   "type": 11,
+   "heading": "Artigo 15.º — Adjudicação da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Adjudicação da concessão\n\n1 - Na sequência do acto público de abertura de propostas a que se refere o artigo 13.º ou decorridos os prazos previstos no artigo 14.º, se for caso disso, o GPEP procede, em prazo razoável, à avaliação das propostas apresentadas e aceites, submetendo o seu parecer a decisão do ministro da tutela.\n\n2 - O parecer do GPEP deverá basear-se em critérios objectivos, tomando especialmente em atenção, sem prejuízo de outros que considere relevantes, os seguintes factores:\n\na) Capacidade técnica e financeira;\n\nb) Qualidade, quantidade e ritmo dos trabalhos;\n\nc) Contrapartidas oferecidas ao Estado.\n\n3 - A concessão será adjudicada por despacho do ministro da tutela ao concorrente cuja proposta seja considerada mais vantajosa, ponderados os factores referidos no número anterior.\n\n4 - Proferido o despacho de adjudicação da concessão, a outorga do respectivo contrato faz-se nos termos do disposto nos artigos 20.º e 21.º\n\n5 - O ministro da tutela pode, no entanto, decidir não atribuir a concessão a nenhum dos concorrentes, se considerar que as propostas apresentadas são insatisfatórias em função dos critérios de adjudicação referidos no n.º 2.\n\n6 - A decisão do ministro da tutela será comunicada a todos os concorrentes, pelo GPEP, no prazo de 15 dias após a data do despacho correspondente."
+  },
+  "108023113": {
+   "fragment_id": "108015641",
+   "type": 11,
+   "heading": "Artigo 16.º — Recursos das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Recursos das decisões\n\nDa decisão do ministro da tutela, tomada nos termos dos artigos 14.º e 15.º, podem os interessados interpor recurso nos termos gerais de direito."
+  },
+  "108023114": {
+   "fragment_id": "108015642",
+   "type": 8,
+   "heading": "Secção III — Negociação directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Negociação directa"
+  },
+  "108023115": {
+   "fragment_id": "108015643",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime de negociação directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime de negociação directa\n\n1 - Nos casos referidos no n.º 2 do artigo 8.º, qualquer entidade interessada pode requerer ao GPEP a atribuição de concessão para uma área que se encontre nas condições ali indicadas, mediante negociação prévia.\n\n2 - O requerimento a que se refere o número anterior deverá ser instruído nos termos do disposto no artigo 11.º, com excepção da caução provisória, que não é exigível, e a sua apresentação dará início ao processo negocial.\n\n3 - O prazo para a conclusão das negociações é de 90 dias a contar da data da entrega do requerimento, podendo o GPEP prorrogá-lo por mais 60 dias, se entender que tal se justifica.\n\n4 - Havendo acordo entre o GPEP e o requerente quanto à proposta resultante da negociação, deverá o GPEP submetê-la à aprovação do ministro da tutela no prazo de 15 dias após a conclusão das negociações.\n\n5 - Proferido o despacho de aprovação e consequente atribuição da concessão, a outorga do respectivo contrato faz-se nos termos do disposto nos artigos 20.º e 21.º"
+  },
+  "108023116": {
+   "fragment_id": "108015644",
+   "type": 8,
+   "heading": "Secção IV — O contrato de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — O contrato de concessão"
+  },
+  "108023117": {
+   "fragment_id": "108015645",
+   "type": 11,
+   "heading": "Artigo 18.º — Natureza do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Natureza do contrato\n\nO contrato de concessão deve ser elaborado em conformidade com as bases contratuais constantes de portaria a publicar nos termos do artigo 83.º e tem natureza de contrato administrativo."
+  },
+  "108023118": {
+   "fragment_id": "108015646",
+   "type": 11,
+   "heading": "Artigo 19.º — Área de concessão e sua divisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Área de concessão e sua divisão\n\n1 - São concessionáveis todas as áreas destinadas ao exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo, em conformidade com o aviso publicado nos termos do artigo 2.º\n\n2 - Sem prejuízo do disposto no artigo 84.º, a área inicial de concessão pode ser constituída por um ou mais blocos, mas, no seu conjunto, não poderá exceder 16 lotes."
+  },
+  "108023119": {
+   "fragment_id": "108015647",
+   "type": 11,
+   "heading": "Artigo 20.º — Elaboração e aprovação da minuta do contrato de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Elaboração e aprovação da minuta do contrato de concessão\n\n1 - Proferido o despacho de atribuição da concessão, de acordo com o previsto nos artigos 15.º, n.º 3, ou 17.º, n.º 4, o GPEP procederá à elaboração da minuta do respectivo contrato, de acordo com as bases contratuais a que se refere o artigo 18.º e com as cláusulas negociais acordadas, se for o caso.\n\n2 - A minuta do contrato, depois de rubricada pelo director do GPEP e pelo representante da futura concessionária, devidamente credenciado para o efeito, será submetida pelo GPEP a aprovação ministerial no prazo máximo de 15 dias.\n\n3 - Após a rubrica da minuta, a futura concessionária fica obrigada a constituir estabelecimento em território nacional, nos termos da legislação comercial portuguesa."
+  },
+  "108023120": {
+   "fragment_id": "108015648",
+   "type": 11,
+   "heading": "Artigo 21.º — Outorga do contrato de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Outorga do contrato de concessão\n\nAprovada a minuta a que se refere o artigo anterior, será outorgado o contrato de concessão, em acto público."
+  },
+  "108023121": {
+   "fragment_id": "108015649",
+   "type": 11,
+   "heading": "Artigo 22.º — Prazos e suas prorrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Prazos e suas prorrogações\n\n1 - Sem prejuízo do disposto nos n.os 2 e 3, o prazo inicial da concessão é de oito anos, contados a partir da data da assinatura do respectivo contrato.\n\n2 - O prazo inicial referido no número anterior pode, a requerimento da concessionária, ser prorrogado, por duas vezes, por períodos de um ano, nos termos do disposto nos n.os 4 e 5 do artigo 35.º\n\n3 - Se, em qualquer altura da vigência do prazo inicial ou das suas eventuais prorrogações, for aprovado um plano geral de desenvolvimento e produção, nos termos do disposto no artigo 39.º, para a totalidade ou parte da área concessionada, o prazo da concessão será acrescido de mais 25 anos, contados a partir da data da aprovação do referido plano.\n\n4 - O prazo acrescido nos termos do disposto no número anterior designar-se-á por prazo de produção e será aplicável apenas em relação à área abrangida pelo plano geral de desenvolvimento e produção, mantendo-se o prazo inicial relativamente às restantes áreas concessionadas.\n\n5 - O prazo de produção a que se refere o n.º 3 poderá ser prorrogado, por uma ou mais vezes, até ao limite de 15 anos, não podendo qualquer das prorrogações ser inferior a 3 anos.\n\n6 - As prorrogações do prazo de produção serão feitas a requerimento da concessionária e nas condições fixadas no contrato de concessão."
+  },
+  "108023122": {
+   "fragment_id": "108015650",
+   "type": 8,
+   "heading": "Secção V — Licença de avaliação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Licença de avaliação prévia"
+  },
+  "108023123": {
+   "fragment_id": "108015651",
+   "type": 11,
+   "heading": "Artigo 23.º — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Condições de atribuição\n\n1 - Qualquer entidade dotada de comprovada competência técnica, económica e financeira para o efeito pode requerer ao GPEP a atribuição de licença de avaliação prévia do potencial pretrolífero de área ou áreas destinadas ao exercício de actividades, nos termos do disposto no artigo 2.º\n\n2 - Para efeitos do disposto no número anterior, consideram-se entidades as sociedades comerciais, os ACE e os AEIE."
+  },
+  "108023124": {
+   "fragment_id": "108015652",
+   "type": 11,
+   "heading": "Artigo 24.º — Objecto e natureza da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Objecto e natureza da licença\n\n1 - Podem ser objecto da licença de avaliação prévia o processamento da informação disponível nos arquivos do GPEP e a colheita de amostras de superfície e de sondagem existentes para a realização de análises e outros estudos conducentes a um melhor conhecimento do potencial petrolífero da área licenciada.\n\n2 - Durante o prazo de validade da licença não poderão ser atribuídos direitos a terceiros ao abrigo do artigo 8.º, incidentes no todo ou em parte sobre a área objecto da licença."
+  },
+  "108023125": {
+   "fragment_id": "108015653",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazo da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Prazo da licença\n\nO prazo máximo de validade da licença de avaliação prévia é de seis meses, não podendo ser prorrogado."
+  },
+  "108023126": {
+   "fragment_id": "108015654",
+   "type": 11,
+   "heading": "Artigo 26.º — Área da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Área da licença\n\nA área da licença de avaliação prévia será constituída por lotes contíguos com, pelo menos, um lado comum e cujo número não pode ser superior a 35."
+  },
+  "108023127": {
+   "fragment_id": "108015655",
+   "type": 11,
+   "heading": "Artigo 27.º — Pedido de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pedido de licença\n\nO requerimento para atribuição da licença de avaliação prévia deverá ser apresentado no GPEP, instruído com os elementos comprovativos da idoneidade técnica, económica e financeira do requerente, aplicando-se, com as necessárias adaptações, o disposto nos n.os 1 a 3 do artigo 11.º, devendo ainda constar, claramente, os objectivos a alcançar, a área pretendida, os meios técnicos e financeiros e o orçamento previsional a utilizar, para além de outros elementos que o requerente considere relevantes para o efeito."
+  },
+  "108023128": {
+   "fragment_id": "108015656",
+   "type": 11,
+   "heading": "Artigo 28.º — Apreciação do pedido e atribuição da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Apreciação do pedido e atribuição da licença\n\n1 - O pedido será apreciado pelo GPEP, o qual poderá solicitar ao requerente, no prazo de 30 dias após a recepção, esclarecimentos sobre as condições por este propostas.\n\n2 - Concluída a apreciação do pedido e após audição do requerente, o GPEP submeterá a sua proposta a despacho do ministro da tutela, para efeitos do disposto no n.º 2 do artigo 6.º\n\n3 - Proferido o despacho de autorização do ministro, o GPEP procederá à emissão da licença de avaliação prévia no prazo de 15 dias após a data do referido despacho."
+  },
+  "108023129": {
+   "fragment_id": "108015657",
+   "type": 11,
+   "heading": "Artigo 29.º — Conteúdo da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Conteúdo da licença\n\nDa licença emitida deverão constar, designadamente, os seguintes elementos:\n\na) Identificação completa da entidade licenciada;\n\nb) Área e prazo da licença;\n\nc) Direitos e obrigações da entidade licenciada;\n\nd) Descrição dos trabalhos a realizar e respectivo orçamento;\n\ne) Definição dos regimes de propriedade e de confidencialidade dos dados resultantes da avaliação."
+  },
+  "108023130": {
+   "fragment_id": "108015658",
+   "type": 1,
+   "heading": "Capítulo III — Fases de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fases de actividade"
+  },
+  "108023131": {
+   "fragment_id": "108015659",
+   "type": 8,
+   "heading": "Secção I — Prospecção e pesquisa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Prospecção e pesquisa"
+  },
+  "108023132": {
+   "fragment_id": "108015660",
+   "type": 11,
+   "heading": "Artigo 30.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Conteúdo\n\nConstituem trabalhos de prospecção e pesquisa todos os trabalhos de gabinete, de laboratório e de campo executados na área de concessão, com objectivos conducentes à descoberta e ou avaliação de acumulações de petróleo que não estejam directamente abrangidos pelo plano geral de desenvolvimento e produção a que se refere o artigo 39.º"
+  },
+  "108023133": {
+   "fragment_id": "108015661",
+   "type": 11,
+   "heading": "Artigo 31.º — Apresentação dos planos anuais de trabalhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Apresentação dos planos anuais de trabalhos\n\n1 - Os trabalhos a que se refere o artigo anterior constarão de um plano anual, devidamente pormenorizado e orçamentado, a apresentar no GPEP até ao final do mês de Outubro do ano anterior àquele a que respeitam.\n\n2 - O primeiro plano anual de trabalhos deverá ser apresentado dentro do prazo de 60 dias a contar da data da assinatura do contrato de concessão.\n\n3 - Caso o contrato de concessão seja outorgado durante o 2.º semestre do ano, o plano anual deverá incluir os trabalhos a executar na restante parte desse ano e no ano imediato."
+  },
+  "108023134": {
+   "fragment_id": "108015662",
+   "type": 11,
+   "heading": "Artigo 32.º — Apreciação dos planos anuais de trabalhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Apreciação dos planos anuais de trabalhos\n\n1 - O plano anual de trabalhos será apreciado pelo GPEP, que só poderá recusar a sua aprovação no caso de desrespeito pelo disposto na lei ou no contrato de concessão.\n\n2 - Em caso de recusa da totalidade ou de parte do plano anual, deverá o GPEP comunicar o facto à concessionária, indicando os respectivos fundamentos, dentro do prazo de 15 dias após a data da sua recepção.\n\n3 - Verificando-se a recusa referida no número anterior, a concessionária deverá elaborar novo plano, ou rectificar o anterior, submetendo-o ao GPEP no prazo de 30 dias após a data da comunicação da recusa.\n\n4 - Não havendo recusa do plano dentro do prazo referido no n.º 2, o plano considera-se tacitamente aprovado.\n\n5 - A concessionária poderá apresentar aditamentos ao plano anual de trabalhos, desde que tecnicamente justificados e mediante prévia comunicação ao GPEP, para efeitos de aprovação, nos termos do disposto nos números anteriores."
+  },
+  "108023135": {
+   "fragment_id": "108015663",
+   "type": 11,
+   "heading": "Artigo 33.º — Projectos de trabalhos de campo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Projectos de trabalhos de campo\n\n1 - Para os efeitos previstos neste diploma, consideram-se trabalhos de campo os efectuados no terreno, relativos a levantamentos geológicos e geofísicos de qualquer espécie, as sondagens de pesquisa, assim como a colheita de amostras para estudo.\n\n2 - Nenhum trabalho de campo de prospecção ou de pesquisa constante do plano anual de trabalhos pode ser iniciado sem prévia apresentação ao GPEP do respectivo projecto.\n\n3 - Os projectos previstos no número anterior deverão ser apresentados no GPEP com antecedência não inferior a 30 dias relativamente ao início dos respectivos trabalhos.\n\n4 - O GPEP dará conhecimento à concessionária das instruções técnicas que entender pertinentes, relativamente aos projectos de trabalhos a que se refere este artigo."
+  },
+  "108023136": {
+   "fragment_id": "108015664",
+   "type": 11,
+   "heading": "Artigo 34.º — Apreciação dos projectos de trabalhos de campo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Apreciação dos projectos de trabalhos de campo\n\n1 - O projecto de trabalhos de campo será apreciado pelo GPEP, que poderá recusá-lo, no caso de contrariar o plano anual de trabalhos ou as instruções técnicas previamente transmitidas.\n\n2 - À recusa do projecto aplica-se, com as devidas adaptações, o disposto nos n.os 2, 3 e 4 do artigo 32.º"
+  },
+  "108023137": {
+   "fragment_id": "108015665",
+   "type": 11,
+   "heading": "Artigo 35.º — Da actividade de pesquisa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Da actividade de pesquisa\n\n1 - Sem prejuízo da faculdade de renúncia prevista no artigo 63.º, deverá a concessionária, durante o prazo inicial de concessão a que se refere o artigo 22.º, efectuar com regularidade sondagens de pesquisa em todos os blocos da área concessionada, de acordo com os planos anuais e com os respectivos projectos de trabalhos.\n\n2 - As sondagens de pesquisa a que se refere o número anterior deverão obedecer ao calendário de execução estabelecido no contrato de concessão, que, no mínimo, obrigará a concessionária a iniciar uma sondagem anual, em cada bloco, a partir do 4.º ano, inclusive, do período inicial.\n\n3 - As sondagens efectuadas em cada ano, para além da obrigação contratual para esse ano, serão consideradas no cômputo das sondagens a efectuar obrigatoriamente no ano seguinte.\n\n4 - Até 90 dias antes de terminar o prazo inicial a que se refere o n.º 1 do artigo 22.º, pode a concessionária requerer a respectiva prorrogação, por um ano, a fim de completar os trabalhos a que se tenha obrigado e que, justificadamente, não possa concluir dentro daquele prazo.\n\n5 - Uma segunda prorrogação do prazo inicial, por mais um ano, pode ser requerida pela concessionária até 90 dias antes de terminar a prorrogação referida no número anterior, quando se mostrar necessária para fundamentar a apresentação de um plano geral de desenvolvimento e produção, nos termos do disposto no artigo 38.º"
+  },
+  "108023138": {
+   "fragment_id": "108015666",
+   "type": 11,
+   "heading": "Artigo 36.º — Restituição de áreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Restituição de áreas\n\n1 - No final dos primeiros cinco anos do prazo inicial da concessão, e desde que não seja exercido o direito de renúncia previsto no artigo 63.º, deve a concessionária restituir, pelo menos, 50% do total da área inicialmente concessionada.\n\n2 - No final do 8.º ano do prazo inicial da concessão, e no caso de pretender requerer a prorrogação a que se refere o n.º 4 do artigo anterior, deve a concessionária restituir, pelo menos, 50% da área contratual então em vigor.\n\n3 - O número de blocos retidos após cada restituição de áreas não pode exceder o número de blocos existentes antes da restituição.\n\n4 - Sem prejuízo do disposto no número anterior, as áreas a restituir são de livre escolha da concessionária e delimitadas por um polígono cujos lados serão orientados segundo a longitude e a latitude e cujos vértices terão coordenadas múltiplas de 1?.\n\n5 - As restituições de áreas de que trata este artigo serão efectuadas pela concessionária mediante comunicação escrita, endereçada ao GPEP até 30 dias antes das datas referidas nos n.os 1 e 2, acompanhada de um mapa, à escala adequada, onde constem a implantação e as coordenadas dos vértices das áreas retidas e restituídas.\n\n6 - No cômputo das áreas a restituir não serão consideradas as áreas entretanto demarcadas para efeitos de desenvolvimento e produção."
+  },
+  "108023139": {
+   "fragment_id": "108015667",
+   "type": 8,
+   "heading": "Secção II — Desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Desenvolvimento"
+  },
+  "108023140": {
+   "fragment_id": "108015668",
+   "type": 11,
+   "heading": "Artigo 37.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Conteúdo\n\n1 - Sempre que a concessionária estabeleça, no âmbito das actividades de prospecção e pesquisa, a existência de um campo de petróleo economicamente viável, deverá elaborar a demarcação preliminar e o plano geral de trabalhos de desenvolvimento e produção do referido campo.\n\n2 - Os limites da área preliminarmente demarcada serão definidos por um polígono cujos lados são constituídos por segmentos de recta, orientados segundo a latitude e a longitude, cujos vértices terão coordenadas múltiplas de 1?."
+  },
+  "108023141": {
+   "fragment_id": "108015669",
+   "type": 11,
+   "heading": "Artigo 38.º — Apresentação do plano geral de desenvolvimento e produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Apresentação do plano geral de desenvolvimento e produção\n\nO plano geral a que se refere o artigo anterior deverá ser apresentado ao GPEP dentro do prazo inicial ou das suas prorrogações, se as houver, acompanhado dos seguintes documentos:\n\na) Relatório técnico de caracterização da acumulação de petróleo e explorar, acompanhado da planta da demarcação preliminar à escala adequada;\n\nb) Programa de trabalhos de desenvolvimento e produção, juntando plantas de localização das instalações previstas, à escala adequada;\n\nc) Programa de investimentos a realizar e respectiva cobertura financeira;\n\nd) Previsão da data de início da produção comercial e da evolução dos volumes de produção ao longo da vida do campo;\n\ne) Licenças e autorizações obtidas e indicação daquelas cujo pedido se encontra pendente."
+  },
+  "108023142": {
+   "fragment_id": "108015670",
+   "type": 11,
+   "heading": "Artigo 39.º — Apreciação e aprovação do plano geral de desenvolvimento e produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Apreciação e aprovação do plano geral de desenvolvimento e produção\n\n1 - Dentro do prazo de 60 dias após a recepção do plano geral de desenvolvimento e produção formulado nos termos do disposto no artigo anterior, o GPEP procederá à sua apreciação e aprovação, podendo o mesmo ser excepcionalmente prorrogado por mais 30 dias, devendo, neste caso, o GPEP informar atempadamente a concessionária.\n\n2 - No caso de falta ou insuficiência de qualquer dos documentos a que se refere o artigo anterior, será a concessionária notificada pelo GPEP para proceder à respectiva regularização no prazo de 30 dias a contar da data da notificação.\n\n3 - O plano geral de desenvolvimento e produção poderá, a todo o tempo, ser alterado mediante pedido expresso da concessionária, devidamente fundamentado, dirigido ao director do GPEP, aplicando-se, para a apreciação e aprovação dos pedidos de alteração, os prazos previstos no n.º 1."
+  },
+  "108023143": {
+   "fragment_id": "108015671",
+   "type": 11,
+   "heading": "Artigo 40.º — Apresentação e apreciação dos planos anuais de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Apresentação e apreciação dos planos anuais de trabalho\n\n1 - Os trabalhos de desenvolvimento e ou de produção previstos para cada ano constarão de planos anuais, devidamente pormenorizados e orçamentados, a apresentar no GPEP, aplicando-se, com as devidas adaptações, o disposto no n.º 1 do artigo 31.º e no artigo 32.º\n\n2 - Os planos anuais de desenvolvimento e produção podem ser alterados, mediante pedido da concessionária, nos termos previstos no n.º 3 do artigo anterior."
+  },
+  "108023144": {
+   "fragment_id": "108015672",
+   "type": 11,
+   "heading": "Artigo 41.º — Demarcação definitiva de campos de petróleo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Demarcação definitiva de campos de petróleo\n\n1 - No prazo de cinco anos a contar da data da aprovação de cada plano geral de desenvolvimento e produção, deverá a concessionária proceder à demarcação definitiva dos blocos petrolíferos em que se enquadram os campos de petróleo evidenciados, sendo os limites da área demarcada definidos nos termos do disposto no n.º 2 do artigo 37.º\n\n2 - O GPEP poderá autorizar, a pedido da concessionária, o prolongamento do prazo previsto no número anterior, quando tecnicamente justificável."
+  },
+  "108023145": {
+   "fragment_id": "108015673",
+   "type": 8,
+   "heading": "Secção III — Produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Produção"
+  },
+  "108023146": {
+   "fragment_id": "108015674",
+   "type": 11,
+   "heading": "Artigo 42.º — Início da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Início da produção\n\nA produção comercial de um campo de petróleo poderá ser iniciada a partir da data da aprovação do respectivo plano geral de desenvolvimento e produção."
+  },
+  "108023147": {
+   "fragment_id": "108024575",
+   "type": 11,
+   "heading": "Artigo 43.º — Medição e registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Medição e registo\n\nA concessionária deverá proceder diariamente à medição e registo de todo o petróleo extraído e recuperado, utilizando, para o efeito, métodos e instrumentos certificados de acordo com as normas da União Europeia em vigor, com respeito absoluto pelas regras da boa técnica e prática da indústria."
+  },
+  "108023148": {
+   "fragment_id": "108024576",
+   "type": 11,
+   "heading": "Artigo 44.º — Transporte e armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Transporte e armazenagem\n\n1 - A instalação e o funcionamento de oleodutos, gasodutos e instalações de armazenagem de petróleo relacionados com a concessão estão sujeitos a aprovação dos respectivos projectos e subsequente licenciamento por parte dos serviços competentes do ministério da tutela.\n\n2 - Os equipamentos de transporte e armazenagem a que se refere o número anterior poderão, na medida da sua capacidade disponível, ser utilizados por outras concessionárias, mediante o pagamento de preço a acordar entre os interessados."
+  },
+  "108023149": {
+   "fragment_id": "108024577",
+   "type": 11,
+   "heading": "Artigo 45.º — Utilização do gás associado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Utilização do gás associado\n\n1 - A concessionária deverá utilizar o gás associado de forma racional, podendo, para o efeito, comercializá-lo, utilizá-lo como combustível nas instalações de produção, injectá-lo em reservatório ou colocá-lo gratuitamente à disposição do Estado.\n\n2 - O Governo, através do ministro da tutela, poderá autorizar a concessionária a queimar na tocha os excedentes de gás associado que não forem utilizados de acordo com o disposto no número anterior."
+  },
+  "108023150": {
+   "fragment_id": "108024578",
+   "type": 11,
+   "heading": "Artigo 46.º — Integração de campos de petróleo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Integração de campos de petróleo\n\n1 - No caso de um ou mais campos de petróleo se prolongarem para além de uma área concessionada, deverá ser adoptado um dos seguintes procedimentos:\n\na) No caso de o prolongamento não atingir a área da outra concessão, a concessionária da área onde se situa o campo petrolífero pode requerer negociação directa para efeitos de integração na sua concessão da área abrangida pelo prolongamento do campo, ao abrigo do disposto na alínea d) do n.º 2 do artigo 8.º e nos termos do disposto no artigo 17.º;\n\nb) No caso de o prolongamento atingir a área de outra ou outras concessões não contíguas, abrir-se-á concurso entre as concessionárias cujas áreas de concessão sejam confinantes com o campo petrolífero, nos termos do disposto no n.º 3 do artigo 8.º;\n\nc) No caso de o campo de petróleo abranger as áreas de duas ou mais concessões contíguas, os trabalhos de desenvolvimento e produção poderão ser efectuados conjuntamente pelas concessionárias das concessões cujas áreas são abrangidas pelo campo de petróleo, se, para tanto, houver acordo entre elas;\n\nd) No caso previsto no número anterior, e se não houver acordo entre as concessionárias, o Conselho de Ministros, sob proposta do ministro da tutela, poderá integrar o campo de petróleo na área da concessão relativamente à qual tal integração melhor se justifique por razões de ordem técnica e económica e de racionalidade de aproveitamento de recursos.\n\n2 - Ocorrendo a integração prevista na alínea anterior, o Governo resgatará, total ou parcialmente, as concessões afectadas pela integração, nos termos do disposto no artigo 64.º"
+  },
+  "108023151": {
+   "fragment_id": "108024579",
+   "type": 11,
+   "heading": "Artigo 47.º — Encerramento definitivo de sondagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Encerramento definitivo de sondagens\n\nO encerramento definitivo de qualquer sondagem afecta à produção de um campo de petróleo carece de apresentação prévia do respectivo projecto ao GPEP, para efeitos de aprovação."
+  },
+  "108023152": {
+   "fragment_id": "108024580",
+   "type": 11,
+   "heading": "Artigo 48.º — Abandono do campo de petróleo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Abandono do campo de petróleo\n\n1 - A concessionária pode, em qualquer altura, requerer o abandono de um ou mais campos de petróleo, por razões de inviabilidade técnica ou económica.\n\n2 - Recebido o requerimento no GPEP, deverá este formular o seu parecer sobre o mesmo, submetendo-o a decisão do ministro da tutela no prazo de 30 dias.\n\n3 - O abandono torna-se efectivo 60 dias após a comunicação à concessionária do despacho de deferimento."
+  },
+  "108023153": {
+   "fragment_id": "108024581",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalidade"
+  },
+  "108023154": {
+   "fragment_id": "108024582",
+   "type": 11,
+   "heading": "Artigo 49.º — Impostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Impostos\n\nSem prejuízo do disposto no artigo 50.º, as entidades que, nos termos do presente diploma, exerçam as actividades nele previstas estão sujeitas à generalidade dos impostos integrantes do sistema fiscal vigente no País e ainda ao imposto sobre produção de petróleo a que se refere o artigo 51.º"
+  },
+  "108023155": {
+   "fragment_id": "108024583",
+   "type": 11,
+   "heading": "Artigo 50.º — Contabilização dos investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Contabilização dos investimentos\n\n1 - Os investimentos realizados no exercício das actividades de prospecção e pesquisa devem ser contabilizados como imobilizado incorpóreo.\n\n2 - O disposto no número anterior não é aplicável a elementos do activo imobilizado corpóreo cuja vida útil não se esgote nas fases aí indicadas.\n\n3 - Os investimentos referidos no n.º 1 nos quais não tiver sido utilizada a provisão mencionada no artigo 36.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas e contabilizados como imobilizado incorpóreo serão amortizados de acordo com o regime previsto naquele Código, a partir do início da produção, podendo, no entanto, os que sejam imputáveis à descoberta e sua avaliação durante o período de prospecção e pesquisa ser integralmente dedutíveis no primeiro exercício completo da exploração."
+  },
+  "108023156": {
+   "fragment_id": "108024584",
+   "type": 11,
+   "heading": "Artigo 51.º — Imposto sobre produção de petróleo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Imposto sobre produção de petróleo\n\n1 - Sobre os valores de produção anual de petróleo líquido de cada campo petrolífero é aplicável uma taxa progressiva, calculada em função dos seguintes escalões:\n\na) Campos de petróleo localizados na área emersa do território nacional e nas águas interiores:\n\ni) As produções anuais até 300000 t ficam isentas;\n\nii) À parte da produção anual situada entre as 300000 t e as 500000 t aplica-se uma taxa de 6%;\n\niii) Para as produções anuais superiores a 500000 t aplica-se uma taxa de 9% sobre o valor da parte da produção excedente;\n\nb) Campos de petróleo localizados na área imersa do território e na plataforma continental até à batimétrica dos 200 m:\n\ni) As produções anuais até 500000 t ficam isentos;\n\nii) Para as produções anuais superiores a 500000 t aplica-se uma taxa única de 10% sobre a parte da produção excedente àquele valor;\n\nc) Os campos de petróleo localizados na plataforma continental para além da batimétrica dos 200 m ficam isentos, qualquer que seja o valor da produção.\n\n2 - Os valores de produção do petróleo líquido referem-se a petróleo desidratado, contendo menos de 1% de água e de sedimentos, medidos à boca do poço.\n\n3 - O valor da produção tributável é calculado em função dos preços médios praticados no mercado livre para petróleo de qualidade comparável.\n\n4 - A produção de gás natural e do condensado a ele associado não é tributável nos termos deste artigo."
+  },
+  "108023157": {
+   "fragment_id": "108024585",
+   "type": 1,
+   "heading": "Capítulo V — Rendas de superfície e taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Rendas de superfície e taxas"
+  },
+  "108023158": {
+   "fragment_id": "108024586",
+   "type": 8,
+   "heading": "Secção I — Rendas de superfície",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Rendas de superfície"
+  },
+  "108023159": {
+   "fragment_id": "108024587",
+   "type": 11,
+   "heading": "Artigo 52.º — Incidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Incidência\n\nA concessionária fica sujeita ao pagamento anual de uma renda de superfície (RS), de montante a determinar no contrato de concessão, calculada entre os valores mínimo e máximo por quilómetro quadrado da área atribuída, a fixar por despacho conjunto dos Ministros das Finanças e da tutela."
+  },
+  "108023160": {
+   "fragment_id": "108024588",
+   "type": 11,
+   "heading": "Artigo 53.º — Liquidação e cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Liquidação e cobrança\n\n1 - A RS será paga de uma só vez em cada ano, em qualquer tesouraria da Fazenda Pública, dentro do prazo de 15 dias a contar da data da entrega à concessionária da respectiva guia, a emitir pelo GPEP durante o mês de Janeiro.\n\n2 - O processamento da primeira guia será efectuado pelo GPEP nos 30 dias seguintes à assinatura do contrato, sendo o seu valor calculado proporcionalmente ao número de meses que decorra entre a data da assinatura e o final do ano.\n\n3 - Efectuado o pagamento, a repartição de finanças competente remeterá ao GPEP um dos exemplares das guias, em tempo útil.\n\n4 - Em caso de não pagamento da RS, independentemente de outras sanções previstas na lei, proceder-se-á nos termos do Código de Processo Tributário para as cobranças coercivas."
+  },
+  "108023161": {
+   "fragment_id": "108024589",
+   "type": 8,
+   "heading": "Secção II — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Taxas"
+  },
+  "108023162": {
+   "fragment_id": "108024590",
+   "type": 11,
+   "heading": "Artigo 54.º — Enumeração e valor das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Enumeração e valor das taxas\n\n1 - As licenciadas e as concessionárias ficam vinculadas ao pagamento ao GPEP das seguintes taxas:\n\na) Taxa de emissão de licença de avaliação prévia;\n\nb) Taxa de celebração de contrato;\n\nc) Taxa de transmissão da posição contratual.\n\n2 - O valor das taxas a que se refere o número anterior será fixado por despacho do ministro da tutela."
+  },
+  "108023163": {
+   "fragment_id": "108024591",
+   "type": 11,
+   "heading": "Artigo 55.º — Liquidação e cobrança das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Liquidação e cobrança das taxas\n\n1 - A liquidação das taxas previstas no artigo anterior será feita pelo GPEP, mediante a emissão de guias fixando o prazo de pagamento, não inferior a 30 dias, a qual será devidamente notifificada ao respectivo titular.\n\n2 - As importâncias devidas nos termos do número anterior e de outras disposições legais e contratuais aplicáveis serão pagas directamente ao GPEP, constituindo sua receita própria."
+  },
+  "108023164": {
+   "fragment_id": "108024592",
+   "type": 1,
+   "heading": "Capítulo VI — Da extinção das licenças e dos contratos de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Da extinção das licenças e dos contratos de concessão"
+  },
+  "108023165": {
+   "fragment_id": "108024593",
+   "type": 11,
+   "heading": "Artigo 56.º — Causas da extinção das licenças de avaliação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Causas da extinção das licenças de avaliação prévia\n\nAs licenças de avaliação prévia extinguem-se por qualquer das seguintes causas:\n\na) Caducidade;\n\nb) Rescisão."
+  },
+  "108023166": {
+   "fragment_id": "108024594",
+   "type": 11,
+   "heading": "Artigo 57.º — Caducidade das licenças de avaliação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Caducidade das licenças de avaliação prévia\n\nSão motivos de caducidade das licenças de avaliação prévia:\n\na) O decurso do seu prazo de validade;\n\nb) A extinção do titular da licença;\n\nc) A verificação de condição resolutiva prevista na licença;\n\nd) A ocorrência de caso de força maior, de carácter definitivo, que impossibilite a licenciada de cumprir totalmente as obrigações assumidas."
+  },
+  "108023167": {
+   "fragment_id": "108024595",
+   "type": 11,
+   "heading": "Artigo 58.º — Rescisão das licenças de avaliação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Rescisão das licenças de avaliação prévia\n\n1 - As licenças de avaliação prévia serão rescindidas sempre que a entidade licenciada não cumpra obrigações legais ou impostas pela licença.\n\n2 - A rescisão das licenças de avaliação prévia é da competência do ministro da tutela."
+  },
+  "108023168": {
+   "fragment_id": "108024596",
+   "type": 11,
+   "heading": "Artigo 59.º — Da extinção dos contratos de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Da extinção dos contratos de concessão\n\nOs contratos de concessão extinguem-se por qualquer das seguintes causas:\n\na) Caducidade;\n\nb) Rescisão;\n\nc) Acordo entre o Estado e a concessionária;\n\nd) Renúncia da concessionária;\n\ne) Resgate."
+  },
+  "108023169": {
+   "fragment_id": "108024597",
+   "type": 11,
+   "heading": "Artigo 60.º — Caducidade dos contratos de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Caducidade dos contratos de concessão\n\nSão motivos de caducidade dos contratos de concessão:\n\na) O decurso do prazo inicial ou das suas prorrogações, excepto para as áreas em relação às quais tiverem sido apresentados, pela concessionária, planos gerais de desenvolvimento e produção;\n\nb) O decurso do prazo de produção ou das suas prorrogações;\n\nc) A extinção da entidade concessionária;\n\nd) A verificação de condição resolutiva prevista no contrato;\n\ne) A ocorrência de caso de força maior, de carácter definitivo, que impossibilite a concessionária de cumprir totalmente as suas obrigações contratuais."
+  },
+  "108023170": {
+   "fragment_id": "108024598",
+   "type": 11,
+   "heading": "Artigo 61.º — Rescisão dos contratos de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Rescisão dos contratos de concessão\n\n1 - São fundamentos de rescisão dos contratos de concessão:\n\na) A inexecução injustificada dos trabalhos da prospecção, pesquisa, desenvolvimento e produção nos termos constantes dos planos e projectos aprovados;\n\nb) A associação da concessionária com terceiros ou a transmissão da sua posição contratual sem autorização do ministro da tutela, nos termos do disposto no artigo 77.º;\n\nc) O abandono de qualquer campo de petróleo sem autorização do ministro da tutela, nos termos do disposto no artigo 48.º;\n\nd) A violação grave, por parte da concessionária, das suas obrigações contratuais, designadamente as constantes dos artigos 35.º, n.º 2, 38.º, 41.º e 43.º\n\n2 - A rescisão dos contratos de concessão é da competência do ministro da tutela."
+  },
+  "108023171": {
+   "fragment_id": "108024599",
+   "type": 11,
+   "heading": "Artigo 62.º — Acordo entre o Estado e a concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Acordo entre o Estado e a concessionária\n\nO contrato de concessão pode extinguir-se por acordo entre o Estado e a concessionária, mediante requerimento desta em que, fundamentadamente, se demonstre a inviabilidade técnica ou económica de produção petrolífera nas áreas concessionadas."
+  },
+  "108023172": {
+   "fragment_id": "108024600",
+   "type": 11,
+   "heading": "Artigo 63.º — Renúncia da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Renúncia da concessionária\n\n1 - A concessionária pode renunciar à totalidade ou parte da área da concessão:\n\na) No termo do 3.º ano do prazo inicial;\n\nb) No termo de cada um dos anos seguintes do prazo inicial;\n\nc) Em qualquer momento, no decurso do prazo de produção.\n\n2 - A renúncia, quando exercida nos termos das alíneas a) e b) do número anterior, deverá ser comunicada ao GPEP com, pelo menos, 30 dias de antecedência em relação à respectiva data.\n\n3 - A renúncia exercida nos termos da alínea c) do n.º 1 deverá ser comunicada ao GPEP com, pelo menos, um ano de antecedência em relação à data em que se tornará efectiva.\n\n4 - Em caso de renúncia parcial, a concessionária deve respeitar o critério de delimitação de áreas constante dos n.os 3 e 4 do artigo 36.º\n\n5 - A renúncia que respeitar à totalidade da área da concessão implica a extinção do respectivo contrato.\n\n6 - Em qualquer caso, a concessionária fica vinculada ao cumprimento das obrigações legais e contratuais até à data em que a renúncia se torne efectiva."
+  },
+  "108023173": {
+   "fragment_id": "108024601",
+   "type": 11,
+   "heading": "Artigo 64.º — Resgate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Resgate\n\n1 - As concessões podem ser resgatadas pelo Estado, total ou parcialmente, mediante o pagamento de justa compensação.\n\n2 - O resgate de concessões é da competência do Conselho de Ministros, sob proposta do ministro da tutela, e pode ser decidido por razões de interesse público ou quando ocorra a situação prevista na alínea d) do n.º 1 do artigo 46.º\n\n3 - O resgate parcial de uma concessão apenas poderá ter lugar com o acordo da concessionária."
+  },
+  "108023174": {
+   "fragment_id": "108024602",
+   "type": 11,
+   "heading": "Artigo 65.º — Reversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Reversão\n\nExtinto o contrato de concessão por qualquer dos fundamentos previstos no artigo 59.º, revertem gratuitamente para o Estado, salvo disposição contratual em contrário, os trabalhos realizados, os equipamentos, instrumentos, instalações e quaisquer outros bens afectos directamente e com carácter de permanência à concessão."
+  },
+  "108024675": {
+   "fragment_id": "108024603",
+   "type": 1,
+   "heading": "Capítulo VII — Supervisão da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Supervisão da actividade"
+  },
+  "108024676": {
+   "fragment_id": "108024604",
+   "type": 11,
+   "heading": "Artigo 66.º — Acompanhamento e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Acompanhamento e fiscalização\n\n1 - Compete ao GPEP o acompanhamento e a fiscalização de toda a actividade desenvolvida pelas licenciadas ou concessionárias, no âmbito dos respectivos títulos.\n\n2 - Para efeitos do disposto no número anterior, as licenciadas ou concessionárias remeterão ao GPEP, em triplicado, cópia de todas as informações produzidas, bem como relatórios de actividade, cujo objecto e periodicidade constarão da licença de avaliação prévia ou do contrato de concessão.\n\n3 - As informações acima referidas são propriedade da licenciada ou concessionária e do GPEP, que delas poderão livremente dispor, sem prejuízo do dever de confidencialidade a que se refere o n.º 5.\n\n4 - No exercício da competência referida no n.º 1, e sem prejuízo do dever de confidencialidade relativamente às informações que lhe forem transmitidas, o GPEP poderá fazer-se assistir por entidades qualificadas por si designadas.\n\n5 - O dever de confidencialidade do GPEP caduca no prazo de cinco anos após a recepção das informações, ou com a extinção da licença ou do contrato de concessão, se esta ocorrer antes daquele prazo.\n\n6 - Não se consideram abrangidas no dever de confidencialidade do GPEP as informações de carácter geral, designadamente aquelas que possam ser utilizadas para apoio à cartografia geológica do País ou para fins estatísticos.\n\n7 - Sem prejuízo do disposto nos números anteriores, as licenciadas e as concessionárias deverão prestar toda a colaboração que lhes for solicitada pelo GPEP, no âmbito da sua competência de supervisão.\n\n8 - A competência de supervisão do GPEP não obsta a que as actividades das licenciadas e das concessionárias sejam objecto de acções de fiscalização da competência específica de outros serviços da Administração."
+  },
+  "108024677": {
+   "fragment_id": "108024605",
+   "type": 11,
+   "heading": "Artigo 67.º — Dever de confidencialidade das licenciadas e concessionárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Dever de confidencialidade das licenciadas e concessionárias\n\n1 - As entidades licenciadas ou concessionárias, bem como as que com elas cooperem, manterão confidenciais os dados ou elementos de informação obtidos no decurso das suas actividades, durante toda a vigência da licença ou do contrato de concessão.\n\n2 - Sem prejuízo do disposto no número anterior e mediante autorização expressa do GPEP, as licenciadas e concessionárias poderão transmitir a terceiros dados ou elementos de informação obtidos no decurso das respectivas actividades."
+  },
+  "108024678": {
+   "fragment_id": "108024606",
+   "type": 11,
+   "heading": "Artigo 68.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Contra-ordenações\n\n1 - Constituem contra-ordenação punível com coima:\n\na) De 500000$00 a 6000000$00, o exercício das actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo, sem apresentação e aprovação dos respectivos planos e projectos;\n\nb) De 500000$00 a 6000000$00, a recusa na entrega da informação recolhida no decurso das actividades e dos elementos disponíveis, solicitados pelo GPEP;\n\nc) De 2000000$00 a 6000000$00, a violação do dever de confidencialidade a que se refere o n.º 1 do artigo 67.º;\n\nd) De 100000$00 a 2500000$00, a falta de prestação das cauções exigíveis dentro dos prazos previstos no artigo 74.º;\n\ne) De 1000000$00 a 3000000$00, a falta de entrega, dentro do respectivo prazo, dos planos a que se referem os artigos 31.º e 40.º, n.º 1;\n\nf) De 3000000$00 a 6000000$00, a violação do disposto no artigo 42.º;\n\ng) De 2000000$00 a 6000000$00, a violação do disposto no artigo 43.º;\n\nh) De 2000000$00 a 6000000$00, a não adopção de medidas preventivas no que respeita a segurança do pessoal e instalações e de recuperação paisagística a que se referem os n.os 2 dos artigos 70.º e 71.º;\n\ni) De 100000$00 a 1000000$00, a falta de pagamento, dentro do respectivo prazo, das taxas e outros encargos devidos nos termos do presente diploma.\n\n2 - Os montantes referidos no número anterior consideram-se automaticamente alterados na proporção dos valores que vierem a resultar de actualizações aos limites previstos no Decreto-Lei n.º 433/82, de 27 de Outubro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 356/89, de 17 de Outubro.\n\n3 - A negligência é punível.\n\n4 - A aplicação e o pagamento das coimas não desobrigam o infractor do cumprimento dos deveres e obrigações que as determinaram.\n\n5 - A iniciativa para a instauração e instrução dos processos de contra-ordenação e a aplicação das respectivas coimas é da competência do GPEP.\n\n6 - O produto das coimas constituirá, em 60% do seu montante, receita do Estado e, em 40%, receita própria do GPEP."
+  },
+  "108024679": {
+   "fragment_id": "108024607",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais"
+  },
+  "108024680": {
+   "fragment_id": "108024608",
+   "type": 11,
+   "heading": "Artigo 69.º — Princípios da condução de trabalhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Princípios da condução de trabalhos\n\n1 - Os titulares dos direitos previstos neste diploma deverão conduzir e executar, ou assegurar que sejam executados, os trabalhos a que estiverem obrigados, com regularidade e continuidade e de acordo com a boa técnica e prática da indústria petrolífera, os quais assumem total responsabilidade pelas perdas e danos provocados ao Estado ou a terceiros decorrentes do exercício das actividades previstas neste diploma.\n\n2 - No respeito pela lei e pelo contrato, podem os titulares dos direitos livremente programar, projectar e executar, ou mandar executar, os trabalhos a que estejam obrigados ou autorizados, utilizando os meios humanos e técnicos que entenderem mais adequados, tendo em conta o disposto no número anterior."
+  },
+  "108024681": {
+   "fragment_id": "108024609",
+   "type": 11,
+   "heading": "Artigo 70.º — Segurança e higiene do pessoal e instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Segurança e higiene do pessoal e instalações\n\n1 - No exercício das actividades a que respeita o presente diploma, deverão ser observadas as normas gerais relativas às condições de segurança, higiene e saúde no trabalho e, bem assim, as disposições comunitárias relativas à protecção dos trabalhadores das indústrias extractivas.\n\n2 - Para os efeitos do disposto no número anterior, e sem prejuízo de outras medidas preventivas previstas na lei, deverá a concessionária apresentar atempadamente no GPEP, quando aplicáveis, os seguintes planos:\n\na) De protecção contra eventuais erupções não controladas de hidrocarbonetos e emanações gasosas;\n\nb) De formação do pessoal para a sua protecção contra as referidas erupções e emanações;\n\nc) De evacuação das populações vizinhas."
+  },
+  "108024682": {
+   "fragment_id": "108024610",
+   "type": 11,
+   "heading": "Artigo 71.º — Protecção do meio ambiente e recuperação paisagística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Protecção do meio ambiente e recuperação paisagística\n\n1 - No exercício das suas actividades, deverão as concessionárias adoptar as providências adequadas à minimização do impacte ambiental, assegurando a protecção do ecossistema envolvente e a salvaguarda do património cultural, em cumprimento da legislação vigente.\n\n2 - Para os efeitos do disposto no número anterior, e sem prejuízo da aplicação de outras medidas legalmente exigíveis, deverá a concessionária apresentar atempadamente no GPEP, quando aplicáveis, planos especificando as medidas de prevenção a adoptar contra a poluição das águas superficiais e contaminação dos aquíferos, assim como de tratamento de efluentes das sondagens."
+  },
+  "108024683": {
+   "fragment_id": "108024611",
+   "type": 11,
+   "heading": "Artigo 72.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Situações especiais\n\n1 - O Estado, mediante resolução do Conselho de Ministros, poderá requisitar, em caso de guerra ou emergência, a totalidade ou parte do petróleo produzido pelas concessionárias, com vista a assegurar a satisfação das necessidades estragégicas do País.\n\n2 - Nas situações referidas no número anterior, a concessionária será compensada pelo Estado, mediante o pagamento do preço na altura praticado nos mercados internacionais para produtos de características semelhantes."
+  },
+  "108024684": {
+   "fragment_id": "108024612",
+   "type": 11,
+   "heading": "Artigo 73.º — Zona de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Zona de segurança\n\nCompete ao GPEP, ouvidos os outros organismos competentes, estabelecer os limites da zona de segurança adjacente ao local de implantação de equipamentos e instalações, permanentes ou provisórias, afectos à realização dos trabalhos da concessionária."
+  },
+  "108024685": {
+   "fragment_id": "108024613",
+   "type": 11,
+   "heading": "Artigo 74.º — Cauções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Cauções\n\n1 - A caução provisória a que se refere o n.º 4 do artigo 11.º destina-se a garantir a manutenção da proposta de candidatura ao concurso público e será mantida até 60 dias após a decisão ministerial referida no n.º 3 do artigo 15.º, sem prejuízo do disposto no número seguinte.\n\n2 - Não é exigível aos concorrentes que mantenham válida a caução provisória por prazo superior a um ano.\n\n3 - O montante da caução provisória é fixado pelo GPEP e constará do anúncio do concurso, a publicar nos termos do disposto no artigo 10.º\n\n4 - As licenciadas e as concessionárias prestarão caução destinada a garantir o cumprimento das obrigações assumidas com a emissão da licença ou com a outorga do contrato de concessão, compreendendo-se no âmbito dessas obrigações o pagamento de coimas e de indemnizações por prejuízos causados ao Estado ou a terceiros.\n\n5 - O montante da caução da licença de avaliação prévia será equivalente a 50% do valor dos trabalhos orçamentados e o respectivo prazo de validade será o correspondente ao da licença acrescido de 60 dias.\n\n6 - Durante o prazo inicial, as cauções dos contratos de concessão serão prestadas anualmente e o respectivo montante será equivalente a 50% do valor dos trabalhos orçamentados constantes dos planos anuais a que se refere o artigo 31.º\n\n7 - As cauções a que se refere o número anterior são prestadas simultaneamente com a apresentação dos planos anuais de trabalhos de prospecção e pesquisa.\n\n8 - As cauções de que trata este artigo são prestadas a favor do GPEP, por depósito em dinheiro, garantia bancária ou seguro de caução.\n\n9 - As cauções prestadas por garantia bancária ou seguro de caução devem conter a declaração da entidade emitente assegurando, até ao limite do valor da garantia ou do seguro, o pagamento imediato e incondicional de quaisquer quantias exigidas pelo GPEP em virtude do incumprimento de obrigações abrangidas pela caução.\n\n10 - As cauções extinguem-se decorrido o respectivo prazo de validade, excepto as que devam ser renovadas ou substituídas, que se manterão em vigor enquanto não for emitida a correspondente renovação ou substituição por nova caução.\n\n11 - Se qualquer caução prestada por licenciada ou concessionária vier a ser total ou parcialmente utilizada, deverá, no prazo de 30 dias após a data da utilização, ser substituída por nova caução de montante e conteúdo idênticos aos da caução utilizada."
+  },
+  "108024686": {
+   "fragment_id": "108024614",
+   "type": 11,
+   "heading": "Artigo 75.º — Suspensão ou alteração das licenças e dos contratos de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Suspensão ou alteração das licenças e dos contratos de concessão\n\n1 - A ocorrência de caso de força maior que não impossibilite total e definitivamente as licenciadas ou as concessionárias de cumprirem as obrigações assumidas pode determinar a alteração ou suspensão das licenças ou dos contratos se, para tanto, houver acordo entre o Estado e as licenciadas ou concessionárias.\n\n2 - Excepcionalmente, pode o Estado, através de resolução do Conselho de Ministros, determinar o condicionamento ou suspensão das actividades, por razões de segurança ou de interesse nacional."
+  },
+  "108024687": {
+   "fragment_id": "108024615",
+   "type": 11,
+   "heading": "Artigo 76.º — Contratos de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Contratos de prestação de serviços\n\nA concessionária deverá dar conhecimento ao GPEP, ao longo da vigência do contrato de concessão, de todos os contratos e subcontratos celebrados com terceiros, designadamente através dos seguintes elementos:\n\na) Identificação das partes contratantes;\n\nb) Objecto;\n\nc) Prazos e sua duração;\n\nd) Entidades responsáveis pela supervisão dos trabalhos."
+  },
+  "108024688": {
+   "fragment_id": "108024616",
+   "type": 11,
+   "heading": "Artigo 77.º — Associação com terceiros e transmissão da posição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Associação com terceiros e transmissão da posição\n\n1 - As licenciadas e as concessionárias não podem associar-se com terceiros em regime de participação não societária de interesses nem podem transmitir a terceiros a sua posição de licenciadas ou concessionárias sem prévia autorização do ministro da tutela.\n\n2 - Para efeitos do presente diploma, é equiparada à transmissão da posição da licenciada ou da concessionária a transmissão para terceiros das respectivas quotas ou acções que representem mais de 50% do capital social."
+  },
+  "108024689": {
+   "fragment_id": "108024617",
+   "type": 11,
+   "heading": "Artigo 78.º — Liberdade da venda do petróleo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Liberdade da venda do petróleo\n\nSalvo no caso previsto no artigo 72.º, a concessionária pode dispor livremente do petróleo por si produzido."
+  },
+  "108024690": {
+   "fragment_id": "108024618",
+   "type": 11,
+   "heading": "Artigo 79.º — Servidões administrativas e expropriações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Servidões administrativas e expropriações\n\n1 - A fim de dar início e executar os trabalhos constantes dos planos anuais e dos projectos aprovados, quando localizados em prédio alheio, deverá a concessionária sucessivamente:\n\na) Diligenciar por todas as formas a obtenção do consentimento e autorização do dono do prédio;\n\nb) Face à impossibilidade de acordo, indagar sobre a existência de alternativas para a localização dos trabalhos;\n\nc) Não sendo possível nenhuma das soluções anteriormente previstas, requerer ao ministro da tutela a constituição, nos termos do Código das Expropriações, de servidão administrativa, indicando o valor da renda ou indemnização considerada justa, competindo ao ministro determinar, por despacho, a solução a adoptar e as respectivas condições.\n\n2 - No caso de os prédios se destinarem à implantação de instalações indispensáveis ao exercício das actividades de desenvolvimento e produção, a concessionária pode requerer a expropriação do prédio por utilidade pública, indicando o seu grau de urgência, de acordo com a legislação específica aplicável."
+  },
+  "108024691": {
+   "fragment_id": "108024619",
+   "type": 11,
+   "heading": "Artigo 80.º — Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Arbitragem\n\n1 - Os diferendos que eventualmente ocorram entre o Estado e as concessionárias, relativamente à interpretação ou aplicação das disposições legais e contratuais que regulam as relações entre as partes na qualidade de contratantes, serão resolvidos por tribunal arbitral, a funcionar em Lisboa, nos termos da legislação processual portuguesa.\n\n2 - Para os efeitos do disposto no número anterior, podem o Estado e as concessionárias celebrar convenções de arbitragem, em condições a fixar no contrato de concessão."
+  },
+  "108024692": {
+   "fragment_id": "108024620",
+   "type": 11,
+   "heading": "Artigo 81.º — Regime de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Regime de transição\n\n1 - As actividades licenciadas nos termos do Decreto-Lei n.º 141/90, de 2 de Maio, continuarão a ser reguladas pelo regime estabelecido nesse diploma.\n\n2 - Caso venha a ser requerida concessão por qualquer das entidades licenciadas, nos termos do número anterior, a outorga do respectivo contrato e o exercício das subsequentes actividades de desenvolvimento e produção passarão, com excepção do regime fiscal, a subordinar-se ao regime do presente diploma."
+  },
+  "108024693": {
+   "fragment_id": "108024621",
+   "type": 11,
+   "heading": "Artigo 82.º — Normas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Normas técnicas\n\nAs normas técnicas aplicáveis ao exercício das actividades previstas no presente diploma serão estabelecidas por portaria do ministro da tutela."
+  },
+  "108024694": {
+   "fragment_id": "108024622",
+   "type": 11,
+   "heading": "Artigo 83.º — Bases contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Bases contratuais\n\nAs bases dos contratos de concessão constarão de portaria do ministro da tutela, a publicar no prazo de 90 dias a contar da data da entrada em vigor do presente diploma."
+  },
+  "108024695": {
+   "fragment_id": "108024623",
+   "type": 11,
+   "heading": "Artigo 84.º — Zona imersa profunda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Zona imersa profunda\n\n1 - Os contratos de concessão cuja área se situe na zona imersa para além da batimétrica dos 200 m serão objecto de regulamentação específica.\n\n2 - Enquanto não for publicada a regulamentação específica a que se refere o número anterior, aplicar-se-á às referidas concessões o disposto no presente diploma, com as seguintes excepções:\n\na) A área da concessão pode exceder os limites fixados no artigo 19.º;\n\nb) O prazo inicial, o prazo de produção, o prazo para restituição de áreas e o prazo para demarcação dos blocos petrolíferos podem exceder os limites fixados, respectivamente, nos artigos 22.º, 36.º e 41.º;\n\nc) As áreas a restituir podem ser inferiores às fixadas no artigo 36.º;\n\nd) O número de sondagens a efectuar durante o prazo inicial poderá ser inferior ao fixado no artigo 35.º"
+  },
+  "108024696": {
+   "fragment_id": "108024624",
+   "type": 11,
+   "heading": "Artigo 85.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Norma revogatória\n\nSem prejuízo do regime transitório referido no artigo 81.º, ficam revogados os Decretos-Leis n.os 141/90, de 2 de Maio, e 261-B/91, de 25 de Julho, e a Portaria n.º 1054/91, de 17 de Outubro."
+  },
+  "920958693": {
+   "fragment_id": "108015625",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "1994-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Petróleo - toda a concentração ou mistura natural de hidrocarbonetos líquidos ou gasosos, incluindo todas as substâncias de qualquer outra natureza que, com eles, se encontrem em combinação, suspensão ou mistura, com exclusão dos hidrocarbonetos sólidos naturais e todas as concentrações cuja exploração só possa ser feita através da extracção das próprias rochas;\n\nb) Campo de petróleo - uma ou mais acumulações comerciais de hidrocarbonetos líquidos ou gasosos, adjacentes ou sobrepostas, confinadas a uma única estrutura geológica;\n\nc) Lote - unidade básica de área das concessões, com 6' de longitude e 5' de latitude, excepto quando intersectada pela linha da costa, linha de fronteira territorial ou linha exterior da plataforma continental correspondente à batimétrica que defina o limite de explorabilidade económica, ou ainda pelos limites dos lotes remanescentes após as restituições de áreas previstas, nomeadamente no artigo 36.º, casos em que tais linhas passam a integrar também os limites do lote;\n\nd) Bloco de concessão - um ou mais lotes contíguos da área das concessões com um lado comum entre eles;\n\ne) Bloco petrolífero - a área da concessão, dentro de cujos limites se projectam, na vertical do lugar, um ou mais campos de petróleo;\n\nf) Área de concessão - a área objecto de um contrato de concessão em qualquer momento da sua vigência, podendo ser constituída por um ou mais blocos;\n\ng) Sondagem de pesquisa - sondagem cujo objectivo é o de descobrir e avaliar uma ou mais acumulações de petróleo.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+  },
+  "920958694": {
+   "fragment_id": "108015666",
+   "type": 11,
+   "heading": "Artigo 36.º — Restituição de áreas",
+   "in_force_from": "1994-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+   ],
+   "markdown": "###### Artigo 36.º — Restituição de áreas\n\n1 - No final dos primeiros cinco anos do prazo inicial da concessão, e desde que não seja exercido o direito de renúncia previsto no artigo 63.º, deve a concessionária restituir, pelo menos, 50% do total da área inicialmente concessionada.\n\n2 - No final do 8.º ano do prazo inicial da concessão, e no caso de pretender requerer a prorrogação a que se refere o n.º 4 do artigo anterior, deve a concessionária restituir, pelo menos, 50% da área contratual então em vigor.\n\n3 - O número de blocos retidos após cada restituição de áreas não pode exceder o número de blocos existentes antes da restituição.\n\n4 - Sem prejuízo do disposto no número anterior, as áreas a restituir são de livre escolha da concessionária e delimitadas por um polígono cujos lados serão orientados segundo a longitude e a latitude e cujos vértices terão coordenadas múltiplos de 1'.\n\n5 - As restituições de áreas de que trata este artigo serão efectuadas pela concessionária mediante comunicação escrita, endereçada ao GPEP até 30 dias antes das datas referidas nos n.os 1 e 2, acompanhada de um mapa, à escala adequada, onde constem a implantação e as coordenadas dos vértices das áreas retidas e restituídas.\n\n6 - No cômputo das áreas a restituir não serão consideradas as áreas entretanto demarcadas para efeitos de desenvolvimento e produção.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+  },
+  "920958695": {
+   "fragment_id": "108015668",
+   "type": 11,
+   "heading": "Artigo 37.º — Conteúdo",
+   "in_force_from": "1994-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+   ],
+   "markdown": "###### Artigo 37.º — Conteúdo\n\n1 - Sempre que a concessionária estabeleça, no âmbito das actividades de prospecção e pesquisa, a existência de um campo de petróleo economicamente viável, deverá elaborar a demarcação preliminar e o plano geral de trabalhos de desenvolvimento e produção do referido campo.\n\n2 - Os limites da área preliminarmente demarcada serão definidos por um polígono cujos lados são constituídos por segmentos de recta, orientados segundo a latitude e a longitude, cujos vértices terão coordenadas múltiplos de 1'.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+  },
+  "920958696": {
+   "fragment_id": "108015669",
+   "type": 11,
+   "heading": "Artigo 38.º — Apresentação do plano geral de desenvolvimento e produção",
+   "in_force_from": "1994-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+   ],
+   "markdown": "###### Artigo 38.º — Apresentação do plano geral de desenvolvimento e produção\n\nO plano geral a que se refere o artigo anterior deverá ser apresentado ao GPEP dentro do prazo inicial ou das suas prorrogações, se as houver, acompanhado dos seguintes documentos:\n\na) Relatório técnico de caracterização da acumulação de petróleo a explorar, acompanhado da planta da demarcação preliminar à escala adequada;\n\nb) Programa de trabalhos de desenvolvimento e produção, juntando plantas de localização das instalações previstas, à escala adequada;\n\nc) Programa de investimentos a realizar e respectiva cobertura financeira;\n\nd) Previsão da data de início da produção comercial e da evolução dos volumes de produção ao longo da vida do campo;\n\ne) Licenças e autorizações obtidas e indicação daquelas cujo pedido se encontra pendente.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+  },
+  "920958697": {
+   "fragment_id": "108024578",
+   "type": 11,
+   "heading": "Artigo 46.º — Integração de campos de petróleo",
+   "in_force_from": "1994-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+   ],
+   "markdown": "###### Artigo 46.º — Integração de campos de petróleo\n\n1 - No caso de um ou mais campos de petróleo se prolongarem para além de uma área concessionada, deverá ser adoptado um dos seguintes procedimentos:\n\na) No caso de o prolongamento não atingir a área de outra concessão, a concessionária da área onde se situa o campo petrolífero pode requerer negociação directa para efeitos de integração na sua concessão da área abrangida pelo prolongamento do campo, ao abrigo do disposto na alínea d) do n.º 2 do artigo 8.º e nos termos do disposto no artigo 17.º;\n\nb) No caso de o prolongamento atingir a área de outra ou outras concessões não contíguas, abrir-se-á concurso entre as concessionárias cujas áreas de concessão sejam confinantes com o campo petrolífero, nos termos do disposto no n.º 3 do artigo 8.º;\n\nc) No caso de o campo de petróleo abranger as áreas de duas ou mais concessões contíguas, os trabalhos de desenvolvimento e produção poderão ser efectuados conjuntamente pelas concessionárias das concessões cujas áreas são abrangidas pelo campo de petróleo, se, para tanto, houver acordo entre elas;\n\nd) No caso previsto no número anterior, e se não houver acordo entre as concessionárias, o Conselho de Ministros, sob proposta do ministro da tutela, poderá integrar o campo de petróleo na área da concessão relativamente à qual tal integração melhor se justifique por razões de ordem técnica e económica e de racionalidade de aproveitamento de recursos.\n\n2 - Ocorrendo a integração prevista na alínea anterior, o Governo resgatará, total ou parcialmente, as concessões afectadas pela integração, nos termos do disposto no artigo 64.º\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+  },
+  "920958698": {
+   "fragment_id": "108024584",
+   "type": 11,
+   "heading": "Artigo 51.º — Imposto sobre produção de petróleo",
+   "in_force_from": "1994-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+   ],
+   "markdown": "###### Artigo 51.º — Imposto sobre produção de petróleo\n\n1 - Sobre os valores de produção anual de petróleo líquido de cada campo petrolífero é aplicável uma taxa progressiva, calculada em função dos seguintes escalões:\n\na) Campos de petróleo localizados na área emersa do território nacional e nas águas interiores:\n\ni) As produções anuais até 300000 t ficam isentas;\n\nii) À parte da produção anual situada entre as 300000 t e as 500000 t aplica-se uma taxa de 6%;\n\niii) Para as produções anuais superiores a 500000 t aplica-se uma taxa de 9% sobre o valor da parte da produção excedente;\n\nb) Campos de petróleo localizados na área imersa do território e na plataforma continental até à batimétrica dos 200 m:\n\ni) As produções anuais até 500000 t ficam isentas;\n\nii) Para as produções anuais superiores a 500000 t aplica-se uma taxa única de 10% sobre a parte da produção excedente àquele valor;\n\nc) Os campos de petróleo localizados na plataforma continental para além da batimétrica dos 200 m ficam isentos, qualquer que seja o valor da produção.\n\n2 - Os valores de produção do petróleo líquido referem-se a petróleo desidratado, contendo menos de 1% de água e de sedimentos, medidos à boca do poço.\n\n3 - O valor da produção tributável é calculado em função dos preços médios praticados no mercado livre para petróleo de qualidade comparável.\n\n4 - A produção de gás natural e do condensado a ele associado não é tributável nos termos deste artigo.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+  },
+  "920958699": {
+   "fragment_id": "108024598",
+   "type": 11,
+   "heading": "Artigo 61.º — Rescisão dos contratos de concessão",
+   "in_force_from": "1994-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+   ],
+   "markdown": "###### Artigo 61.º — Rescisão dos contratos de concessão\n\n1 - São fundamentos de rescisão dos contratos de concessão:\n\na) A inexecução injustificada dos trabalhos de prospecção, pesquisa, desenvolvimento e produção nos termos constantes dos planos e projectos aprovados;\n\nb) A associação da concessionária com terceiros ou a transmissão da sua posição contratual sem autorização do ministro da tutela, nos termos do disposto no artigo 77.º;\n\nc) O abandono de qualquer campo de petróleo sem autorização do ministro da tutela, nos termos do disposto no artigo 48.º;\n\nd) A violação grave, por parte da concessionária, das suas obrigações contratuais, designadamente as constantes dos artigos 35.º, n.º 2, 38.º, 41.º e 43.º\n\n2 - A rescisão dos contratos de concessão é da competência do ministro da tutela.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/94 - Diário da República n.º 126/1994, 2º Suplemento, Série I-A de 1994-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1994-468804), em vigor a partir de 1994-05-31"
+  },
+  "108024697": {
+   "fragment_id": "108024625",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 1994. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - Luís Fernando Mira Amaral - José Bernardo Veloso Falcão e Cunha - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.\n\nPromulgado em 31 de Março de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Abril de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "920958759": {
+   "fragment_id": "108015627",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições do exercício de actividades",
+   "in_force_from": "2017-08-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 82/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/82-2017-108021177), em vigor a partir de 2017-08-19"
+   ],
+   "markdown": "###### Artigo 5.º — Condições do exercício de actividades\n\n1 - As actividades de prospecção, pesquisa, desenvolvimento e produção de petróleo só podem ser exercidas mediante concessão, na sequência de concurso público ou de negociação directa.\n\n2 - Os estudos de avaliação prévia a que se refere o artigo 9.º são titulados por licença, emitida nos termos do disposto nos artigos 23.º a 29.º\n\n3 - Qualquer procedimento administrativo relativo à prospeção e pesquisa, exploração experimental e exploração de hidrocarbonetos é precedido de consulta obrigatória aos municípios, nas respetivas áreas de jurisdição territorial.\n\n4 - Caso o procedimento administrativo tenha por objeto uma exploração na zona económica exclusiva nacional (offshore), a consulta é realizada aos municípios da respetiva linha costeira.\n\n5 - Para efeitos do disposto nos números anteriores, os municípios pronunciam-se sobre as condicionantes ao desenvolvimento das atividades de prospeção e pesquisa, exploração experimental e exploração de hidrocarbonetos, com o objetivo de dotar o requerente de toda a informação disponível sobre a área requerida.\n\n6 - As consultas previstas nos números anteriores são promovidas pela Direção-Geral de Energia e Geologia, sendo as respetivas pronúncias publicitadas no seu sítio na Internet.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 82/2017 - Diário da República n.º 159/2017, Série I de 2017-08-18](https://diariodarepublica.pt/dr/detalhe/lei/82-2017-108021177), em vigor a partir de 2017-08-19"
+  }
+ }
+}

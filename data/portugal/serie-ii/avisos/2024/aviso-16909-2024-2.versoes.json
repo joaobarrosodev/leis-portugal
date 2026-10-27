@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:876111773:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2024-1170975675",
+ "dre_path": "/dr/detalhe/aviso/16909-2024-876111773",
+ "source_lastmod": "2026-09-16",
+ "versions": [
+  {
+   "date": "2024-08-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1170977075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1170977075": {
+   "fragment_id": "1170975775",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Comunicação de Início de Funções\n\nEm cumprimento do disposto na alínea b) do n.º 1 do artigo 4.º da Lei n.º 35/2014, de 20 de junho, torna-se público que na sequência do procedimento concursal comum, com vista ao estabelecimento de relação jurídica de emprego público, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, para ocupação de um posto de trabalho na carreira de Assistente Operacional, categoria de Assistente Operacional (Mecânico), conforme caracterização no Mapa de Pessoal para o ano de 2024, aberto mediante deliberações da Câmara Municipal de 19/07/2023 e da Assembleia Municipal de 22/09/2023, publicado por extrato no Diário da República, 2.ª série, n.º 28, de 8 de fevereiro de 2024 e na BEP com o código de oferta n.º OE202402/0316 em 13 de fevereiro de 2024, foi celebrado contrato de trabalho em funções públicas por tempo indeterminado em 1 de julho de 2024, João Carlos Navarro Caçador, com efeitos na mesma data, na carreira e categoria de Assistente Operacional (mecânico), tendo ficado posicionado na 1.ª posição remuneratória, nível 5 da Tabela Remuneratória Única, a que corresponde o montante pecuniário de €821,83.\n\n> Nota: [Ato, Declaração de Retificação n.º 697/2024/2 - Diário da República n.º 167/2024, Série II de 2024-08-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/697-2024-886181228) Retifica o sumário do presente ato, nos seguintes termos: Onde se lê: \"Nomeação do diretor do Agrupamento de Escolas de Marvão.\" deve ler-se: \"Celebração de contrato de trabalho em funções públicas com um trabalhador ― assistente operacional (mecânico).\""
+  }
+ }
+}

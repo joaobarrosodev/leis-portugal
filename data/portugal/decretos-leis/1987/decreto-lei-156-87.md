@@ -1,0 +1,232 @@
+---
+schema_version: '1.0'
+id: pt:dre:666536:por
+title: Decreto-Lei n.º 156/87
+short_title: null
+summary: Institui, no âmbito do regime não contributivo da Segurança Social, uma prestação pecuniária designada «subsídio
+  de inserção dos jovens na vida activa» para os jovens à procura do primeiro emprego
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 156/87
+official_date: null
+publication_date: '1987-03-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 75/1987, Série I de 1987-03-31
+  number: '75'
+  series: I
+  supplement: null
+  pages: 1292 - 1294
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/03/07500/12921294.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '666536'
+  dre_path: /dr/detalhe/decreto-lei/156-1987-666536
+  internal: pt:dre:666536:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1987-666536
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1987-666536
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:18:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7e3f04291dc73c77c64a7310e3a641db2a922db62e7f0cac3b69161465160c73
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:18:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Jovem Trabalhador
+- Política de Emprego
+- Primeiro Emprego
+- Segurança Social
+- Subsídio de Inserção dos Jovens na VIDA Activa
+relationships:
+- type: amended_by
+  target: pt:dre:417629:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:328843:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:417629:por
+  label: "Revogado pela LEI.35/87.1987.08.18.AR DR.IS [188]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/35-1987-417629
+  date: '1987-08-18'
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:18:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 156/87
+
+de 31 de Março
+
+O desemprego juvenil constitui um dos mais graves problemas que afectam a sociedade portuguesa. A procura prolongada do primeiro emprego pelos jovens, situação vulgarmente designada por «desemprego juvenil», assumiu na última década proporções preocupantes em muitos países europeus.
+
+Em Portugal, conquanto a dimensão do problema seja comparativamente menor do que a registada em muitos países da Europa, verificava-se a existência, segundo os dados do Instituto Nacional de Estatística, de cerca de 125000 jovens com idades inferiores a 25 anos à procura do primeiro emprego nos fins de 1985.
+
+Como causas profundas desta incapacidade de absorção da mão-de-obra disponível estarão a queda brutal do investimento verificada nos últimos anos, a extrema rigidez da legislação laboral, que constitui uma barreira à entrada dos jovens no mercado do trabalho, o natural fluxo do sector primário para o secundário e terciário, a rápida evolução tecnológica com as consequentes exigências ao nível do mercado de trabalho e a falta de formação profissional adequada.
+
+Impõe-se, por isso, atacar o desemprego juvenil por todos os meios que determinem uma solução sustentada e permanente, o que passa naturalmente pela criação de emprego e pelo revigoramento das empresas já existentes ou pelo aparecimento de novas unidades. Em última instância, está em causa o estímulo da capacidade de iniciativa que leva todos a sentirem-se solidariamente responsáveis pela resolução de um problema que é, originalmente, económico, mas que rapidamente se transforma em questão social, política e cultural.
+
+Ciente desta situação, procurou o Governo actuar simultaneamente sobre as diferentes causas do problema, designadamente através do relançamento da economia, da retoma do investimento gerador de riqueza e de emprego - donde o grande rigor imposto às despesas públicas e o combate ao desperdício -, do incentivo ao lançamento de jovens empresários agrícolas e industriais, do apoio à contratação de jovens, da melhoria de educação e formação profissional e da sensibilização às exigências da vida activa, como os programas de ocupação temporária de jovens e ocupação de tempos livres e acções de formação nas novas tecnologias da informação.
+
+Está ainda o Governo a trabalhar no sentido de incentivar a mobilidade geográfica dos trabalhadores portugueses, e designadamente dos jovens, no sentido de os estimular à deslocação de zonas onde haja excesso de oferta de mão-de-obra para outras onde a carência seja manifesta.
+
+Enquanto não se alterar significativamente o quadro referido, importa dar aos jovem condições mínimas de vida que, não os desincentivando da procura ou da criação do seu próprio posto de trabalho ou do prosseguimento dos estudos, com vista à elevação do seu nível escolar ou profissional, lhes permita contemplar o futuro sem ansiedade, autorizando-os a desfrutar de uma disponibilidade material e mental que os habilite a organizar a sua vida em moldes estáveis e sem constrangimentos maiores. Não haverá nada pior para um jovem do que iniciar a sua vida activa como um assistido social; mas nada será também tão prejudicial como a pressão que o leva a ter de aceitar a primeira actividade que lhe aparecer, seja ela lícita ou ilícita, ou, pior do que tudo, ficar na inactividade, que conduz à descrença e ao desemprego.
+
+A solidariedade que todos nos devemos, numa sociedade civilizada, impõe a criação de condições para todos, e nomeadamente para os jovens, de modo que cada um tome as decisões que lhe dizem respeito, numa atitude de grande responsabilização social, mas sem se ver coagido a aceitar condições que, por serem eventualmente penosas para si próprio, acabarão também por o ser para o grupo.
+
+É com este propósito que é criado um subsídio de inserção dos jovens na vida activa. Pretende-se que ele seja estimulador da sua capacidade de iniciativa e da vontade de melhoria do seu nível de preparação para o exercício de uma profissão; mas quer-se também que os jovem não sintam que a sociedade os abandona à sua sorte, especialmente aqueles cujas famílias dispõem de escassos recursos. Trata-se de uma mostra de solidariedade que pressupõe, naturalmente, reciprocidade nos deveres do indivíduo beneficiado para com a sociedade que o apoia.
+
+Várias razões desaconselham o alargamento indiscriminado dos benefícios sociais. Tal alargamento impediria a melhoria real das prestações sociais já existentes, sob pena de desencadear significativos agravamentos do desequilíbrio das contas públicas.
+
+Tal tipo de medidas contrariaria frontalmente a estratégia de redução gradual do défice do Estado, défice esse que constitui um grave desequilíbrio da economia portuguesa e cuja superação constitui um pressuposto essencial de qualquer processo de desenvolvimento.
+
+A solução do problema do desemprego não passa pela extensão dos respectivos subsídios, mas pela criação de condições para o investimento das empresas, que é a via mais sólida para a criação de emprego.
+
+A afectação de um volume acrescido de meios ao pagamento de subsídios, nas presentes circunstâncias das contas públicas, tem um efeito contrariador do aumento do emprego, na medida em que reduz os meios financeiros disponíveis para o investimento (quer por uma eventual acomodação dos aumentos de prestações através da redução do investimento público, quer pelo aumento do défice do Estado e consequente decréscimo do crédito disponível para o sector privado e ou elevação das taxas de juro).
+
+Deste modo, uma extensão indiscriminada de apoio social a prestar aos jovens à procura do primeiro emprego contribuiria, afinal, para a redução das suas oportunidades de emprego, por diminuição de recursos para o investimento produtivo, traduzindo-se, assim, no alargamento de situação de desemprego.
+
+Também por isso e por razões de justiça social - que, a não serem tomadas em conta, poderiam fazer com que o dinheiro aqui gasto fosse afectar outras camadas de beneficiários da Segurança Social, designadamente os pensionistas, e isto porque os recursos da Segurança Social são escassos - importa que o subsídio a conceder seja encarado de forma positivamente selectiva, contemplando apenas os jovens cujos agregados familiares tenham rendimentos inferiores a um certo valor.
+
+Assim, os jovens candidatos ao primeiro emprego passarão a beneficiar de um subsídio de inserção na vida activa durante quinze meses, nas seguintes condições:
+
+1 - Terem entre 18 e 25 anos e estarem à procura de um emprego há um ano.
+
+Com efeito, não será de interesse do próprio jovem que, mal comece a procurar trabalho e não o encontre, receba um subsídio do Estado. Tal esquema claramente o desincentivaria da procura de um posto de trabalho, indo criar-lhe uma mentalidade assistencial, a prazo manifestamente perniciosa.
+
+Em consonância com as preocupações que a CEE tem no que toca aos desempregados de longa duração, equipara-se o jovem procurando trabalho há mais de um ano a desempregado de longa duração, categoria em que se impõe uma assistência e cuidados muito especiais por parte do Estado.
+
+Por isso se fixa em um ano o período a partir do qual o jovem terá direito ao subsídio.
+
+2 - Terem um mínimo de escolaridade ou de formação profissional.
+
+Só assim se desincentiva o jovem a desistir dos estudos e da sua valorização profisssional. A não haver uma condição deste tipo, claramente se poderia levar o jovem a não se empenhar nesse esforço porque teria um subsídio do Estado à sua espera. Assim, ele sabe que esse subsídio só virá se ele necessitar e se tiver um mínimo de formação.
+
+3 - Estabelece-se uma condição de recursos no agregado familiar para o acesso ao subsídio.
+
+Sendo este subsídio inserido no esquema não contributivo da Segurança Social, tal condição seria sempre necessária. Acresce o facto de os recursos da Segurança Social serem escassos e terem de ser partilhados entre várias aplicações.
+
+Um acesso algo indiscriminado dos jovens a esta prestação, além de poder gerar injustiças em relação a outras camadas da população que também precisam de ajuda do Estado, pondo em causa as suas prestações - é claramente o caso dos pensionistas -, seria também nocivo para os jovens pelos efeitos nefastos que lhes provocaria, como foi anteriormente referido.
+
+4 - Dá-se prioridade aos jovens abrangidos por este subsídio nas iniciativas e programas de emprego e formação profissional, por forma que este subsídio possa positivamente ajudar o jovem a inserir-se no mercado de trabalho.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Objectivos
+
+Para os jovens à procura do primeiro emprego é instituída, no âmbito do regime não contributivo da Segurança Social, uma prestação pecuniária designada «subsídio de inserção dos jovens na vida activa», compensatório dos rendimentos que aufeririam caso estivessem empregados.
+
+###### Artigo 2.º — Âmbito pessoal
+
+1 - Têm direito ao subsídio de inserção os jovens entre os 18 e 25 anos à procura do primeiro emprego que reúnam cumulativamente as seguintes condições:
+
+a) Estejam inscritos como candidatos a emprego nos centros de emprego da sua área de residência há, pelo menos, doze meses após o fim dos cursos referidos na alínea e) deste artigo;
+
+b) Tenham capacidade e disponibilidade para o trabalho, nos termos do artigo 4.º do [Decreto-Lei n.º 20/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1985-328843), de 17 de Janeiro;
+
+c) O rendimento do agregado familiar, per capita, não seja superior à pensão do regime não contributivo da Segurança Social;
+
+d) Não tenham direito ao subsídio de desemprego ou subsídio social de desemprego;
+
+e) Tenham terminado com aproveitamento o 9.º ano de escolaridade ou tenham o curso de aprendizagem ou um curso de formação profissional do Instituto do Emprego e Formação Profissional (IEFP) ou cursos de formação profissional idênticos reconhecidos como tal pelo IEFP;
+
+f) Não se encontrem matriculados em qualquer estabelecimento de ensino oficial ou particular ou a frequentar qualquer dos cursos profissionalizantes referidos na alínea anterior.
+
+2 - Não têm direito ao subsídio ou perdê-lo-ão os que tenham obtido importâncias em dinheiro, a qualquer título, nomeadamente por sucessão ou doação e em lotarias, durante o número inteiro de meses que resultar da divisão daquelas importâncias pelo valor do subsídio de inserção previsto no artigo 5.º
+
+###### Artigo 3.º — Agregado familiar
+
+O agregado familiar, para os efeitos deste diploma, inclui, para o requerente casado, o cônjuge e filhos e, para o requerente não casado, os parentes e afins do 1.º grau e os irmãos a cargo daqueles parentes e afins.
+
+###### Artigo 4.º — Requerimento e provas
+
+A composição do agregado familiar, os respectivos rendimentos e a não frequência de estabelecimentos de ensino ou de formação profissional a que se refere a alínea f) do artigo 2.º comprovam-se por declaração feita, sob compromisso de honra, pelo interessado no acto de requerer o subsídio.
+
+###### Artigo 5.º — Montante e início do pagamento
+
+O montante mensal do subsídio de inserção na vida activa é o valor da pensão do regime não contributivo da Segurança Social.
+
+2 - O subsídio é pago a partir do mês seguinte ao do data da entrada do requerimento.
+
+###### Artigo 6.º — Duração
+
+O subsídio de inserção é concedido durante o período de quinze meses, ficando, porém, o trabalhador obrigado a renovar as provas referidas no artigo 4.º no decurso do 8.º mês.
+
+###### Artigo 7.º — Emprego e formação profissional
+
+Os jovens aos quais seja concedido o subsídio de inserção na vida activa têm preferência nas iniciativas e programas de apoio ao emprego, à contratação salarial e à formação profissional, bem como nas iniciativas empresariais para a criação do próprio emprego lançadas pelo Governo.
+
+###### Artigo 8.º — Nova concessão
+
+Só poderá ser requerido novo subsídio de inserção desde que tenham decorrido 360 dias sobre a cessação do anterior.
+
+###### Artigo 9.º — Normas subsidiárias
+
+Em tudo o que não é expressamente regulado neste diploma aplica-se o regime constante do [Decreto-Lei n.º 20/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1985-328843), de 17 de Janeiro.
+
+###### Artigo 10.º — Normas de execução
+
+Por portaria do Ministro do Trabalho e Segurança Social serão aprovadas as normas de execução indispensáveis à boa aplicação deste diploma.
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 do segundo mês seguinte ao da publicação.
+
+Visto e aprovado em Conselho de Ministros de 5 Março de 1987. - Aníbal António Cavaco Silva - Rui Carlos Alvarez Carp - Luís Fernando Mira Amaral.
+
+Promulgado em 23 de Março de 1987.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 25 de Março de 1987.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -1,0 +1,727 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0477:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0477-20210426",
+ "dre_path": null,
+ "source_lastmod": "2021-04-26",
+ "versions": [
+  {
+   "date": "1991-09-13",
+   "future": false,
+   "celex": "31991L0477",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2008-07-28",
+   "future": false,
+   "celex": "01991L0477-20080728",
+   "acts": [
+    {
+     "id": "eu:celex:32008L0051:por",
+     "title": "DIRECTIVA 2008/51/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de Maio de 2008",
+     "published": null,
+     "celex": "32008L0051"
+    }
+   ],
+   "changes": [
+    "Adita preambulo",
+    "Adita CAPÍTULO 1",
+    "Adita Âmbito de aplicação",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita CAPÍTULO 2",
+    "Adita Harmonização das legislações relativas às armas de fogo",
+    "Adita Artigo 4.º",
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita CAPÍTULO 3",
+    "Adita Formalidades exigidas para a circulação de armas na Comunidade",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 14.º",
+    "Adita CAPÍTULO 4",
+    "Adita Disposições finais",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita ANEXO I",
+    "Adita ANEXO II",
+    "Adita CARTÃO EUROPEU DE ARMA DE FOGO",
+    "Adita Notas"
+   ],
+   "fragments": [
+    "d97d50cc31187bc6",
+    "f6c2eb219fe1b284",
+    "77cfad0ffc7686a4",
+    "a26d379f6dcd3e30",
+    "e426e84ee9ebacf8",
+    "ec82c603b1376191",
+    "8a6992ea3c104fd1",
+    "ade342a834f098a0",
+    "82e8c195105d9b12",
+    "02d7823b3164cbfb",
+    "46d3d9af15880d49",
+    "4ca73b438535e4ca",
+    "59b96d00003c9a07",
+    "7af9371d73ccc324",
+    "cc8c080e49dbfe08",
+    "9a1fcf0d833fe2c7",
+    "c649366456cf0224",
+    "a3b195c08c38f795",
+    "441caf342bd6c9a3",
+    "38b87dcb1fbdd983",
+    "c0828cb479be788f",
+    "70f055602bba4b11",
+    "a71ad27fd25b185d",
+    "b47cf80070cc91b1",
+    "6cc3b57c1b453c93",
+    "bbdde795c58f027f",
+    "bea55e56a5e58c98",
+    "d104157c054a1b90",
+    "49aff781cdec5182",
+    "339cefda9ccab6a4",
+    "fe23fcede97efb4b",
+    "83d3e1e5184cdc50",
+    "852174729551523b",
+    "197ed86f7a5b4f4a",
+    "ec6bb75c9694115c"
+   ]
+  },
+  {
+   "date": "2017-06-13",
+   "future": false,
+   "celex": "01991L0477-20170613",
+   "acts": [
+    {
+     "id": "eu:celex:32017L0853:por",
+     "title": "DIRETIVA (UE) 2017/853 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 17 de maio de 2017",
+     "published": null,
+     "celex": "32017L0853"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 4.º-A",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 13.º-A",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera ANEXO I",
+    "Altera CARTÃO EUROPEU DE ARMA DE FOGO",
+    "Altera Notas",
+    "Adita Artigo 5.º-A",
+    "Adita Artigo 5.º-B",
+    "Adita Artigo 10.º-A",
+    "Adita Artigo 10.º-B",
+    "Adita Formalidades exigidas para a circulação de armas na [►M2](http://publications.europa.eu/resource/celex/32017L0853) União◄",
+    "Adita Artigo 13.º-B",
+    "Suprime Artigo 4.º-B",
+    "Suprime Formalidades exigidas para a circulação de armas na Comunidade"
+   ],
+   "fragments": [
+    "9d57aa6c28fdce08",
+    "f6c2eb219fe1b284",
+    "77cfad0ffc7686a4",
+    "19a234842c97d369",
+    "d43146dc70424db5",
+    "ec82c603b1376191",
+    "8a6992ea3c104fd1",
+    "ade342a834f098a0",
+    "d1c8c74cd5adf34a",
+    "c471e3a1aeee5b4b",
+    "0abc81f1c02b601f",
+    "418955c07bfa3c77",
+    "d20bdcd6cab06913",
+    "a8f20b93e65610f9",
+    "6fcf6346c892fd44",
+    "e954f37a8f2e0830",
+    "9a1fcf0d833fe2c7",
+    "7a0289c790ef9c48",
+    "e4ed72b25570c8d2",
+    "6777871b40094515",
+    "a3b195c08c38f795",
+    "88cf007cf4494968",
+    "8a003b49f5455bfc",
+    "b7bfbe451bab8aa5",
+    "3da9dd09895df6db",
+    "237544bdf64daca8",
+    "de9228ed622b18d7",
+    "b47cf80070cc91b1",
+    "6cc3b57c1b453c93",
+    "bbdde795c58f027f",
+    "5c9a9ab104cc48a5",
+    "d104157c054a1b90",
+    "933fd998f13a0c89",
+    "339cefda9ccab6a4",
+    "fe23fcede97efb4b",
+    "fa6946ea703f693a",
+    "852174729551523b",
+    "6545a53381a85d65",
+    "51eb26902ce0ac86"
+   ]
+  },
+  {
+   "date": "2021-04-26",
+   "future": false,
+   "celex": "01991L0477-20210426",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO 1",
+    "Suprime Âmbito de aplicação",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime CAPÍTULO 2",
+    "Suprime Harmonização das legislações relativas às armas de fogo",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 4.º-A",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 5.º-A",
+    "Suprime Artigo 5.º-B",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 10.º-A",
+    "Suprime Artigo 10.º-B",
+    "Suprime CAPÍTULO 3",
+    "Suprime Formalidades exigidas para a circulação de armas na [►M2](http://publications.europa.eu/resource/celex/32017L0853) União◄",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 13.º-A",
+    "Suprime Artigo 13.º-B",
+    "Suprime Artigo 14.º",
+    "Suprime CAPÍTULO 4",
+    "Suprime Disposições finais",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime CARTÃO EUROPEU DE ARMA DE FOGO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "429a4c0b21939ce0"
+   ]
+  }
+ ],
+ "fragments": {
+  "d97d50cc31187bc6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Junho de 1991\n\nrelativa ao controlo da aquisição e da detenção de armas\n\n(91/477/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100.º A,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#E0001)),\n\nEm cooperação com o Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#E0003)),\n\nConsiderando que o artigo 8.º A do Tratado prevê que o mercado interno deverá ser estabelecido o mais tardar até 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas no qual a livre circulação das mercadorias, das pessoas, dos serviços e dos capitais é assegurada de acordo com as disposições do Tratado;\n\nConsiderando que, na reunião de Fontainebleau de 25 e 26 de Junho de 1984, o Conselho Europeu fixou expressamente como objectivo a supressão de todas as formalidades policiais e aduaneiras nas fronteiras intracomunitárias;\n\nConsiderando que a supressão total dos controlos e formalidades nas fronteiras intracomunitárias pressupõe que determinadas condições de fundo sejam satisfeitas; que a Comissão indicou, no seu «Livro Branco — A realização do mercado interno», que a supressão dos controlos da segurança dos objectos transportados e das pessoas pressupõe, designadamente, uma aproximação das legislações sobre as armas;\n\nConsiderando que a abolição dos controlos da detenção de armas nas fronteiras intracomunitárias exige uma regulamentação eficaz que permita o controlo, no interior dos Estados-membros, da aquisição e da detenção de armas de fogo e da sua transferência para outro Estado-membro; que, consequentemente, os controlos sistemáticos devem ser suprimidos nas fronteiras intracomunitárias;\n\nConsiderando que desta regulamentação resultará uma maior confiança mútua entre os Estados-membros no domínio da salvaguarda da segurança das pessoas, na medida em que se apoia em legislações parcialmente harmonizadas; que é conveniente, para o efeito, prever categorias de armas de fogo cuja aquisição e detenção por particulares sejam proibidas ou sujeitas a uma autorização ou a uma declaração;\n\nConsiderando que é indicado proibir, em princípio, a passagem de um Estado-membro para outro com armas, e que apenas é aceitável uma excepção se for seguido um processo que permita aos Estados-membros estarem ao corrente da introdução de uma arma de fogo no seu território;\n\nConsiderando, todavia, que devem ser adoptadas regras mais flexíveis em matéria de caça e de competições desportivas, a fim de não entravar mais do que o necessário a livre circulação de pessoas;\n\nConsiderando que a presente directiva não afecta o poder de os Estados-membros tomarem medidas destinadas a evitar o tráfico ilegal de armas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "77cfad0ffc7686a4": {
+   "fragment_id": "Âmbito de aplicação",
+   "type": "divisao",
+   "heading": "Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Âmbito de aplicação"
+  },
+  "a26d379f6dcd3e30": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para efeitos da presente directiva, entende-se por «arma de fogo» qualquer arma portátil, com cano, apta a disparar ou que seja concebida para disparar ou que possa ser modificada para disparar balas ou projécteis através da acção de uma carga propulsora, com excepção dos casos referidos na parte III do anexo I. A classificação das armas de fogo consta da parte II do anexo I.\n\nPara efeitos da presente directiva, um objecto é considerado susceptível de ser modificado para disparar balas ou projécteis através da acção de uma carga propulsora se:\n\n— tiver a aparência de uma arma de fogo, e\n\n— devido à sua construção ou ao material a partir do qual é fabricado, puder ser modificado para esse efeito.\n\n1-A. Para efeitos da presente directiva, entende-se por «parte» qualquer componente ou elemento de substituição especificamente concebido para uma arma de fogo e essencial ao seu funcionamento, incluindo o cano, a carcaça ou o carregador, a corrediça ou o tambor, a culatra móvel ou a caixa da culatra, e ainda qualquer dispositivo concebido ou adaptado para reduzir o ruído resultante do disparo.\n\n1-B. Para efeitos da presente directiva, entende-se por «componente essencial» o mecanismo de travamento, a câmara e o cano das armas de fogo, que, enquanto objectos separados, estão incluídos na categoria em que tiver sido classificada a arma de fogo de que fazem parte ou a que se destinam.\n\n1-C. Para efeitos da presente directiva, entende-se por «munição» o cartucho completo ou os seus componentes, incluindo o invólucro, o fulminante, a carga propulsora, as balas ou os projécteis utilizados numa arma de fogo, desde que esses componentes estejam sujeitos a autorização no Estado-Membro em causa.\n\n1-D. Para efeitos da presente directiva, entende-se por «localização» o acompanhamento continuado do percurso das armas de fogo e, sempre que possível, das suas partes e munições, desde o fabricante até ao comprador, com o objectivo de auxiliar as autoridades competentes dos Estados-Membros nas detecção, investigação e análise do fabrico e do tráfico ilícitos.\n\n1-E. Para efeitos da presente directiva, entende-se por «corretor» qualquer pessoa singular ou colectiva, que não seja armeiro, cuja actividade profissional consista, total ou parcialmente, na aquisição, venda ou transferência de armas.\n\n2. Para efeitos da presente directiva, entende-se por «armeiro» qualquer pessoa singular ou colectiva cuja actividade profissional consista, total ou parcialmente, no fabrico, comércio, troca, aluguer, reparação ou modificação de armas de fogo, das suas partes e de munições.\n\n2-A. Para efeitos da presente directiva, entende-se por «fabrico ilícito» o fabrico ou a montagem de armas de fogo, das suas partes e de munições:\n\ni) A partir de componentes essenciais dessas armas de fogo provenientes de tráfico ilícito;\n\nii) Sem autorização emitida de acordo com o artigo 4.º por uma autoridade competente do Estado-Membro no qual se procede ao fabrico ou à montagem; ou\n\niii) Sem marcação das armas de fogo montadas no momento do fabrico, de acordo com o n.º 1 do artigo 4.º\n\n2-B. Para efeitos da presente directiva, entende-se por «tráfico ilícito» a aquisição, a venda, a entrega, o transporte ou a transferência de armas de fogo, das suas partes ou de munições desde ou através do território de um Estado-Membro para o território de outro Estado-Membro, caso um dos Estados-Membros em causa não o autorize de acordo com as disposições da presente directiva ou se as armas de fogo montadas não estiverem marcadas de acordo com o n.º 1 do artigo 4.º.\n\n3. Para efeitos da presente directiva, as pessoas são consideradas residentes do país referido no endereço mencionado num documento que prove a residência, nomeadamente um passaporte ou um bilhete de identidade, que seja apresentado às autoridades de um Estado-membro ou a um armeiro, aquando de um controlo de detenção ou por ocasião da aquisição.\n\n4. O cartão europeu de arma de fogo é emitido pelas autoridades de um Estado-Membro, a pedido de uma pessoa que se torna detentora e utilizadora legal de uma arma de fogo. É válido por um prazo máximo de cinco anos, prorrogável, e deve conter as informações estabelecidas no anexo II. É intransmissível e dele deve constar o registo da arma ou armas de fogo de que o titular do cartão é detentor e utilizador. Deve encontrar-se sempre na posse do utilizador da arma de fogo e dele devem ainda constar todas as alterações da detenção ou das características da arma de fogo, bem como os seus extravio, furto ou roubo."
+  },
+  "e426e84ee9ebacf8": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A presente directiva não prejudica a aplicação das disposições nacionais relativas ao porte de armas ou à regulamentação da caça e do tiro desportivo.\n\n2. A presente directiva não se aplica à aquisição e à detenção, em conformidade com a legislação nacional, de armas e munições, pelas forças armadas, pela polícia ou pelos serviços públicos ou pelos coleccionadores e organismos de vocação cultural e histórica em matéria de armas, reconhecidos como tal pelo Estado-membro em cujo território se encontram estabelecidos. Não se aplica igualmente às transferências comerciais de armas e munições de guerra."
+  },
+  "ec82c603b1376191": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs Estados-membros podem adoptar, nas suas legislações, disposições mais restritivas que as previstas na presente directiva, sob reserva dos direitos conferidos pelo n.º 2 do artigo 12.º aos residentes dos Estados-membros."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "ade342a834f098a0": {
+   "fragment_id": "Harmonização das legislações relativas às armas de fogo",
+   "type": "divisao",
+   "heading": "Harmonização das legislações relativas às armas de fogo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Harmonização das legislações relativas às armas de fogo"
+  },
+  "82e8c195105d9b12": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-Membros asseguram que qualquer arma de fogo ou parte colocadas no mercado estejam marcadas e registadas nos termos da presente directiva, ou tenham sido desactivadas.\n\n2. Para efeitos de identificação e localização de cada arma de fogo montada, os Estados-Membros, no momento do fabrico de cada arma de fogo, devem:\n\na) Exigir uma marcação única que inclua o nome do fabricante, o país ou o local de fabrico, o número de série e o ano de fabrico (se não fizer parte do número de série). Tal não pode inviabilizar a aposição da marca comercial do fabricante. Para esse efeito, os Estados-Membros podem optar por aplicar as disposições da Convenção sobre o Reconhecimento Recíproco de Punções em Armas de Fogo Portáteis, de 1 de Julho de 1969; ou\n\nb) Manter qualquer outra marcação única de fácil aplicação, com um código numérico ou alfanumérico, que permita a todos os Estados identificarem rapidamente o país fabricante.\n\nA marcação é aposta num componente essencial da arma de fogo, cuja destruição tornaria a arma inutilizável.\n\nOs Estados-Membros devem assegurar que cada embalagem de munições completas esteja marcada de forma a identificar o fabricante, o número de identificação do lote, o calibre e o tipo de munição. Para esse efeito, os Estados-Membros podem optar por aplicar as disposições da Convenção sobre o Reconhecimento Recíproco de Punções em Armas de Fogo Portáteis, de 1 de Julho de 1969.\n\nOs Estados-Membros devem ainda assegurar que, em caso de transferência de uma arma de fogo dos depósitos do Estado com vista a uma utilização civil permanente, a arma esteja dotada de uma marcação única adequada que permita aos Estados identificarem o país de transferência.\n\n3. Os Estados-Membros fazem depender de autorização o exercício da actividade de armeiro no seu território, pelo menos com base na avaliação da idoneidade individual e da competência profissional do armeiro. Se se tratar de uma pessoa colectiva, a avaliação incide sobre a pessoa que dirige a empresa.\n\n4. Até 31 de Dezembro de 2014, os Estados-Membros devem assegurar que seja criado e mantido um ficheiro informatizado de dados, centralizado ou descentralizado, que garanta às autoridades competentes o acesso aos ficheiros de dados em que é registada cada arma de fogo abrangida pela presente directiva. Neste ficheiro são registados e conservados durante pelo menos 20 anos o tipo, a marca, o modelo, o calibre e o número de fabrico, e os nomes e endereços do fornecedor e do adquirente ou detentor da arma de fogo.\n\nDurante todo o período de actividade, os armeiros são obrigados a conservar um registo no qual são inscritas todas as armas de fogo abrangidas pela presente directiva, as suas entradas e saídas, com os dados que permitam a sua identificação e localização, nomeadamente, o tipo, a marca, o modelo, o calibre e o número de fabrico, e os nomes e endereços do fornecedor e do adquirente. Aquando da cessação da actividade, o armeiro entrega o registo à autoridade nacional responsável pelo ficheiro informatizado previsto no parágrafo anterior.\n\n5. Os Estados-Membros devem assegurar que seja possível identificar em qualquer momento todas as armas de fogo e os respectivos proprietários. No entanto, no que se refere às armas de fogo da categoria D, os Estados-Membros devem aplicar, a partir de 28 de Julho de 2010, medidas de localização adequadas, incluindo, a partir de 31 de Dezembro de 2014, medidas que permitam identificar em qualquer momento as armas de fogo colocadas no mercado após 28 de Julho de 2010 e os respectivos proprietários."
+  },
+  "02d7823b3164cbfb": {
+   "fragment_id": "Artigo 4.º-A",
+   "type": "artigo",
+   "heading": "Artigo 4.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-A\n\nSem prejuízo do disposto no artigo 3.º, os Estados-Membros só autorizam a aquisição e a detenção de armas de fogo a pessoas às quais tenha sido concedida uma licença ou, em relação às categorias C ou D, às pessoas às quais tenha sido especificamente autorizada a aquisição e a detenção de tais armas nos termos da legislação nacional."
+  },
+  "46d3d9af15880d49": {
+   "fragment_id": "Artigo 4.º-B",
+   "type": "artigo",
+   "heading": "Artigo 4.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-B\n\nOs Estados-Membros devem avaliar a possibilidade de estabelecer um sistema de regulação das actividades dos corretores. Este sistema pode incluir uma ou várias medidas, tais como:\n\na) A obrigação de registo dos corretores que exercem actividades no seu território;\n\nb) A obrigação de detenção de uma licença ou autorização para o exercício da actividade de corretagem."
+  },
+  "4ca73b438535e4ca": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSem prejuízo do disposto no artigo 3.º, os Estados-Membros só autorizam a aquisição e a detenção de armas de fogo a pessoas que possuam um motivo válido para tal e que:\n\na) Tenham 18 anos ou mais, excepto para a aquisição, por meios distintos da compra, e para a detenção de armas de fogo para a prática de caça e de tiro desportivo, na condição de, neste caso, os menores de 18 anos terem uma autorização parental, ou estarem sob a supervisão parental ou de um adulto com uma licença válida de uso e porte de arma ou de caça, ou estarem integrados num centro de formação autorizado ou licenciado;\n\nb) Não sejam susceptíveis de constituir perigo para si próprias, para a ordem pública ou para a segurança pública. A condenação por crime doloso violento é considerada indiciadora desse perigo.\n\nOs Estados-Membros podem retirar a autorização de uso e porte de arma se qualquer dos requisitos que justificou a emissão deixar de se verificar.\n\nOs Estados-Membros só podem proibir, a pessoas que residam no seu território, a detenção de uma arma adquirida noutro Estado-Membro se a aquisição dessa arma for proibida no seu território."
+  },
+  "59b96d00003c9a07": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros tomarão todas as medidas necessárias para proibir a aquisição e detenção de armas de fogo e munições da categoria A. As autoridades competentes poderão, em casos especiais, conceder autorizações para as referidas armas de fogo e munições se a segurança pública e a ordem pública a isso não se opuserem.\n\nOs Estados-Membros devem assegurar que, salvo em relação aos armeiros, a aquisição de armas de fogo, das suas partes e de munições através de meios de comunicação à distância, tal como definidos no artigo 2.º da Directiva 97/7/CE do Parlamento Europeu e do Conselho, de 20 de Maio de 1997, relativa à protecção dos consumidores em matéria de contratos à distância ([^4^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#E0004)), seja, quando autorizada, rigorosamente controlada."
+  },
+  "7af9371d73ccc324": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Não é permitida a aquisição de uma arma de fogo da categoria B no território de um Estado-membro sem que este tenha para o efeito autorizado o adquirente.\n\nEsta autorização não pode ser dada a um residente de outro Estado-membro sem o acordo prévio deste último Estado.\n\n2. Não é permitida a detenção de uma arma de fogo da categoria B no território de um Estado-membro sem que este tenha para o efeito autorizado o detentor. Se o detentor residir noutro Estado-membro, este será informado do facto.\n\n3. As autorizações de aquisição e detenção de uma arma de fogo da categoria B podem assumir a forma de decisão administrativa única.\n\n4. Os Estados-Membros podem avaliar a possibilidade de conceder, às pessoas que reúnam os requisitos necessários para a concessão de autorização de uso e porte de arma de fogo, uma licença plurianual para a aquisição e a posse de todas as armas de fogo sujeitas a autorização, sem prejuízo:\n\na) Da obrigação de notificação das transferências às autoridades competentes;\n\nb) Da verificação periódica de que as pessoas em causa continuam a satisfazer os requisitos; e\n\nc) Dos limites máximos de detenção estabelecidos na legislação nacional.\n\n5. Os Estados-Membros aprovam regras para assegurar que as pessoas detentoras de autorizações de uso e porte de armas de fogo classificadas na categoria B pela legislação nacional à data de 28 de Julho de 2008 sejam dispensadas de requerer uma licença ou autorização para as armas de fogo das categorias C ou D de que sejam detentoras devido à entrada em vigor da Directiva 2008/51/CE do Parlamento Europeu e do Conselho, de 21 de Maio de 2008 ([^5^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#E0005)). No entanto, qualquer transferência subsequente de armas de fogo das categorias C ou D está sujeita à obtenção ou detenção de uma autorização pelo cessionário ou a uma autorização específica para a detenção dessas armas ao abrigo da legislação nacional."
+  },
+  "cc8c080e49dbfe08": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Não é permitida a detenção de uma arma de fogo da categoria C sem que o detentor tenha para o efeito apresentado uma declaração às autoridades do Estado-membro em que essa arma é detida.\n\nOs Estados-membros preverão a declaração obrigatória de todas as armas de fogo da categoria C actualmente detidas no seu território, no prazo de um ano a contar da entrada em vigor das disposições nacionais de transposição da presente directiva.\n\n2. Os armeiros, vendedores ou particulares informarão de qualquer cessão ou entrega de uma arma de fogo da categoria C as autoridades do Estado-membro em que a mesma se tiver realizado, especificando os elementos de identificação do comprador e da arma de fogo. Se o adquirente residir noutro Estado-membro, este será informado da aquisição pelo Estado-membro onde a mesma se tiver realizado e pelo próprio adquirente.\n\n3. Em aplicação do n.º 2 do artigo 12.º, se um Estado-membro proibir ou sujeitar a autorização no seu território a aquisição e a detenção de uma arma de fogo das categorias B, C ou D, informará desse facto os outros, Estados-membros, que o mencionarão expressamente ao emitirem um cartão europeu de arma de fogo para essa arma."
+  },
+  "9a1fcf0d833fe2c7": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. A entrega de uma arma de fogo das categorias A, B e C a uma pessoa que não resida no Estado-membro em causa pode ser permitida, desde que respeitadas as condições previstas nos artigos 6.º, 7.º e 8.º:\n\n— a um adquirente que tenha obtido a autorização, nos termos do artigo 11.º, para efectuar ele próprio a transferência para o seu país de residência,\n\n— a um adquirente que apresente uma declaração escrita que ateste e justifique a sua intenção de a deter no Estado-membro de aquisição, desde que preencha nesse país as condições legais para a sua detenção.\n\n2. Os Estados-membros poderão autorizar a entrega temporária de uma arma de fogo em condições a determinar."
+  },
+  "c649366456cf0224": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO regime de aquisição e detenção de munições é idêntico ao das armas de fogo a que se destinam."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "441caf342bd6c9a3": {
+   "fragment_id": "Formalidades exigidas para a circulação de armas na Comunidade",
+   "type": "divisao",
+   "heading": "Formalidades exigidas para a circulação de armas na Comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formalidades exigidas para a circulação de armas na Comunidade"
+  },
+  "38b87dcb1fbdd983": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Sem prejuízo do artigo 12.º, as armas de fogo só podem ser transferidas de um Estado-membro para outro de acordo com o processo previsto nos números seguintes. Estas disposições são igualmente aplicáveis em caso de transferência de uma arma de fogo resultante de uma venda por correspondência.\n\n2. No que diz respeito às transferências de armas de fogo para outro Estado-membro, o interessado comunicará ao Estado-membro em que se encontrem tais armas, antes de qualquer expedição:\n\n— o nome e endereço do vendedor ou cedente e do comprador ou adquirente ou, se for caso disso, do proprietário,\n\n— o endereço do local para onde tais armas serão enviadas ou transportadas,\n\n— o número de armas que fazem parte do envio ou do transporte,\n\n— os dados que permitam a identificação de cada arma e ainda a indicação de que a arma de fogo foi objecto de um controlo de acordo com as disposições da convenção de 1 de Julho de 1969 relativa ao reconhecimento recíproco das funções de prova das armas de fogo portáteis,\n\n— o meio de transferência,\n\n— a data da partida e a data prevista da chegada.\n\nNão será necessário comunicar as informações referidas nos dois últimos travessões quando se tratar de uma transferência entre armeiros.\n\nO Estado-membro analisará as condições de realização da transferência, nomeadamente no que diz respeito à segurança.\n\nSe o Estado-membro autorizar essa transferência, emitirá uma autorização contendo todas as menções referidas no primeiro parágrafo. A autorização deve acompanhar as armas de fogo até ao ponto do destino; deve ser apresentada sempre que solicitado pelas autoridades dos Estados-membros.\n\n3. No que se refere à transferência de armas de fogo, que não sejam armas de guerra, excluídas do âmbito de aplicação desta directiva nos termos do n.º 2 do artigo 2.º, cada Estado-membro pode conceder aos armeiros o direito de efectuar transferências de armas de fogo a partir do seu território para um armeiro estabelecido noutro Estado-membro sem a autorização prévia, na acepção do n.º 2. Para o efeito, emitirá uma licença válida por um período máximo de três anos que pode ser, em qualquer momento, suspensa ou anulada mediante decisão fundamentada. As armas de fogo deverão se acompanhadas até ao destino por um documento referente a esta licença; este documento deve ser apresentado sempre que solicitado pelas autoridades dos Estados-membros.\n\nAntes da data da transferência, os armeiros comunicam às autoridades do Estado-Membro a partir do qual se deverá efectuar a transferência todas as informações referidas no primeiro parágrafo do n.º 2. Essas autoridades realizam inspecções, se necessário *in loco*, para verificar se existe correspondência entre as informações comunicadas pelo armeiro e as características efectivas da transferência. As informações devem ser comunicadas pelos armeiros em tempo oportuno.\n\n4. Cada Estado-membro comunicará aos outros Estados-membros a lista das armas de fogo relativamente às quais pode ser dada, sem o seu acordo prévio, a autorização de transferência para o seu território.\n\nEstas listas de armas de fogo serão comunicadas aos armeiros que tenham obtido uma autorização para transferir armas de fogo sem licença prévia no âmbito do procedimento previsto no n.º 3."
+  },
+  "c0828cb479be788f": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A menos que tenha sido seguido o processo previsto no artigo 11.º, a detenção de uma arma de fogo durante uma viagem através de dois ou mais Estados-membros apenas será permitida se o interessado tiver obtido a autorização desses Estados-membros.\n\nOs Estados-membros podem conceder esta autorização para uma ou várias viagens, por um período máximo de um ano, renovável. Estas autorizações serão inscritas no cartão europeu de arma de fogo, que o viajante deve apresentar sempre que solicitado pelas autoridades dos Estados-membros.\n\n2. [**►M1**](http://publications.europa.eu/resource/celex/32008L0051) Não obstante o disposto no n.º 1, os caçadores, para as categorias C e D, e os atiradores desportivos, para as categorias B, C e D, podem deter sem autorização prévia uma ou várias armas de fogo durante uma viagem através de dois ou mais Estados-Membros tendo em vista a prática das suas actividades, desde que possuam um cartão europeu de arma de fogo que abranja essa ou essas armas e que possam comprovar o motivo da viagem, nomeadamente mediante a apresentação de um convite ou de outro documento que prove a prática das actividades de caça ou de tiro desportivo no Estado-Membro de destino.\n\nOs Estados-Membros não podem fazer depender a aceitação do cartão europeu de arma de fogo do pagamento de qualquer taxa ou encargo.**◄**\n\nContudo, esta derrogação não se aplica às viagens para um Estado-membro que proíba a aquisição e a detenção da arma em questão ou que por virtude do disposto no n.º 3 do artigo 8.º para ela exija uma autorização; neste caso, deve ser aposta uma menção expressa no cartão europeu de arma de fogo.\n\nNo contexto do relatório referido no artigo 17.º, a Comissão analisará igualmente os resultados da aplicação do segundo parágrafo, especialmente no que se refere às suas incidências na ordem pública e na segurança pública.\n\n3. Através de acordos de reconhecimento mútuo de documentos nacionais, dois ou mais Estados-membros podem prever um regime mais flexível que o previsto no presente artigo para a circulação com uma arma de fogo nos respectivos territórios."
+  },
+  "70f055602bba4b11": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Cada Estado-membro transmitirá qualquer informação útil de que disponha relativa às transferências definitivas de armas de fogo ao Estado-membro para cujo território a transferência seja efectuada.\n\n2. As informações que os Estados-membros receberem em aplicação dos procedimentos previstos no artigo 11.º sobre as transferências de armas de fogo, no n.º 2 do artigo 7.º e no n.º 2 do artigo 8.º sobre a aquisição de armas de fogo por não residentes serão comunicadas ao Estado-membro de destino o mais tardar por ocasião da transferência e, se for caso disso, aos Estados-membros de trânsito, o mais tardar por acasião da transferência.\n\n3. Para efeitos da aplicação eficaz da presente directiva, os Estados-Membros procedem regularmente a um intercâmbio de informações. Para este fim, a Comissão deve criar, até 28 de Julho de 2009, um grupo de contacto para o intercâmbio de informações para efeitos de aplicação do presente artigo. Os Estados-Membros indicam aos outros Estados-Membros e à Comissão quais as autoridades nacionais responsáveis pela transmissão e recepção das informações e pelo cumprimento das obrigações estabelecidas no n.º 4 do artigo 11.º."
+  },
+  "a71ad27fd25b185d": {
+   "fragment_id": "Artigo 13.º-A",
+   "type": "artigo",
+   "heading": "Artigo 13.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-A\n\n1. A Comissão é assistida por um comité.\n\n2. Sempre que se faça referência ao presente número, aplicam-se os artigos 5.º e 7.º da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^6^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#E0006)), tendo-se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses."
+  },
+  "b47cf80070cc91b1": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-membros adoptarão todas as disposições necessárias para proibir a entrada no respectivo território:\n\n— de uma arma de fogo, para além das situações previstas nos artigos 11.º e 12.º e desde que as condições neles previstas sejam respeitadas,\n\n— de uma arma que não seja de fogo a menos que a legislação nacional do Estados-membros em causa o permita."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "bea55e56a5e58c98": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os Estados-membros reforçarão os controlos da detenção de armas nas fronteiras externas da Comunidade. Zelarão em especial pela observância do disposto no artigo 12.º por parte dos viajantes provenientes de países terceiros que se dirijam a outro Estado-membro.\n\n2. A presente directiva não prejudica os controlos efectuados pelos Estados-membros ou pelo transportador no momento do embarque num meio de transporte.\n\n3. Os Estados-membros informarão a Comissão das modalidades de realização dos controlos referidos nos n.^os^ 1 e 2. A Comissão recolherá essas informações e colocá-las-á à disposição de todos os Estados-membros.\n\n4. Cada Estado-membro comunicará à Comissão as suas disposições nacionais, incluindo as alterações em matéria de aquisição e detenção de armas, na medida em que a legislação nacional for mais severa que a norma mínima a adoptar. A Comissão transmitirá estas informações aos outros Estados-membros."
+  },
+  "d104157c054a1b90": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs Estados-Membros determinam o regime das sanções aplicáveis às violações das disposições nacionais aprovadas em aplicação da presente directiva e tomam todas as medidas necessárias para garantir a aplicação das mesmas. As sanções estabelecidas devem ser efectivas, proporcionadas e dissuasivas."
+  },
+  "49aff781cdec5182": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nAté 28 de Julho de 2015, a Comissão deve apresentar ao Parlamento Europeu e ao Conselho um relatório sobre a situação resultante da aplicação da presente directiva, eventualmente acompanhado de propostas.\n\nAté 28 de Julho de 2012, a Comissão deve elaborar um estudo e apresentar ao Parlamento Europeu e ao Conselho um relatório sobre as eventuais vantagens e desvantagens de uma redução para duas categorias de armas de fogo (proibidas ou autorizadas) com vista a um melhor funcionamento do mercado interno dos produtos em questão por meio de uma eventual simplificação.\n\nAté 28 de Julho de 2010, a Comissão deve apresentar um relatório ao Parlamento Europeu e ao Conselho que contenha as conclusões de um estudo sobre a questão da colocação no mercado de réplicas de armas de fogo, a fim de determinar se a inclusão de tais produtos no âmbito da presente directiva é possível e desejável."
+  },
+  "339cefda9ccab6a4": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, em tempo útil para que as medidas previstas na presente directiva sejam aplicáveis o mais tardar em 1 de Janeiro de 1993. Comunicarão imediatamente as medidas tomadas à Comissão e aos outros Estados-membros.\n\nSempre que os Estados-membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros,"
+  },
+  "fe23fcede97efb4b": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "83d3e1e5184cdc50": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nI. Na acepção da presente directiva, entende-se por «armas»: [▼M1](http://publications.europa.eu/resource/celex/32008L0051) — qualquer arma de fogo, tal como definida no artigo 1.º da presente directiva, [▼B](http://publications.europa.eu/resource/celex/31991L0477) — as «armas não de fogo» tal como são definidas pelas legislações nacionais.\n\nII. Na acepção da presente directiva, entende-se por «armas de fogo»: A. Qualquer objecto que se integre numa das seguintes categorias, com exclusão dos que correspondam à definição mas tenham sido excluídos do presente anexo pelas razões referidas no ponto III: Categoria A — **Armas de fogo proibidas** 1. Equipamentos e meios de lançamento militares com efeito explosivo. 2. Armas de fogo automáticas. 3. Armas de fogo camufladas sob a forma de outro objecto. 4. Munições com balas perfurantes, explosivas ou incendiárias, bem como os projécteis para essas munições. 5. Munições para pistolas e revólveres com os respectivos projécteis expansivos, bem como os mesmos projécteis, excepto no que se refere às armas de caça ou de tiro com mira para as pessoas habilitadas a utilizá-las. Categoria B — **Armas de fogo sujeitas a autorização** 1. Armas de fogo curtas semiautomáticas ou de repetição. 2. Armas de fogo curtas de tiro a tiro, de percussão central. 3. Armas de fogo curtas de tiro a tiro, de percussão anular, com um comprimento total inferior a 28 centímetros. 4. Armas de fogo longas semiautomáticas cujos depósito e câmara podem conter mais de três cartuchos. 5. Armas de fogo longas semi-automáticas cujos depósito e câmara não podem conter**◄** mais de três cartuchos, com carregador não fixo, sem garantia de que não possam ser transformadas, através de utensílios comuns, em armas cujo depósito e câmara podem conter mais de três cartuchos. 6. Armas de fogo longas de repetição e semiautomáticas, de cano liso, em que este não excede 60 centímetros. 7. Armas de fogo civis semiautomáticas com a aparência de uma arma de fogo automática. Categoria C — **Armas de fogo sujeitas a declaração** 1. As armas de fogo longas de repetição, com exclusão das compreendidas na categoria B, ponto 6. 2. As armas de fogo longas de tiro a tiro por cano estriado. 3. As armas de fogo longas semiautomáticas, com exclusão das compreendidas na categoria B, pontos 4 a 7. 4. As armas de fogo curtas de tiro a tiro, de percussão anular, de comprimento total superior ou igual a 28 centímetros. Categoria D — **Outras armas de fogo** Armas de fogo longas de tiro a tiro de cano liso; B. Partes essenciais dessas armas de fogo: O mecanismo de fecho, a câmara e o cano das armas de fogo que, enquanto objectos separados, estão incluídos na categoria em que tiver sido classificada a arma de fogo de que fazem parte ou a que se destinam.\n\nA. Qualquer objecto que se integre numa das seguintes categorias, com exclusão dos que correspondam à definição mas tenham sido excluídos do presente anexo pelas razões referidas no ponto III: Categoria A — **Armas de fogo proibidas** 1. Equipamentos e meios de lançamento militares com efeito explosivo. 2. Armas de fogo automáticas. 3. Armas de fogo camufladas sob a forma de outro objecto. 4. Munições com balas perfurantes, explosivas ou incendiárias, bem como os projécteis para essas munições. 5. Munições para pistolas e revólveres com os respectivos projécteis expansivos, bem como os mesmos projécteis, excepto no que se refere às armas de caça ou de tiro com mira para as pessoas habilitadas a utilizá-las. Categoria B — **Armas de fogo sujeitas a autorização** 1. Armas de fogo curtas semiautomáticas ou de repetição. 2. Armas de fogo curtas de tiro a tiro, de percussão central. 3. Armas de fogo curtas de tiro a tiro, de percussão anular, com um comprimento total inferior a 28 centímetros. 4. Armas de fogo longas semiautomáticas cujos depósito e câmara podem conter mais de três cartuchos. 5. Armas de fogo longas semi-automáticas cujos depósito e câmara não podem conter**◄** mais de três cartuchos, com carregador não fixo, sem garantia de que não possam ser transformadas, através de utensílios comuns, em armas cujo depósito e câmara podem conter mais de três cartuchos. 6. Armas de fogo longas de repetição e semiautomáticas, de cano liso, em que este não excede 60 centímetros. 7. Armas de fogo civis semiautomáticas com a aparência de uma arma de fogo automática. Categoria C — **Armas de fogo sujeitas a declaração** 1. As armas de fogo longas de repetição, com exclusão das compreendidas na categoria B, ponto 6. 2. As armas de fogo longas de tiro a tiro por cano estriado. 3. As armas de fogo longas semiautomáticas, com exclusão das compreendidas na categoria B, pontos 4 a 7. 4. As armas de fogo curtas de tiro a tiro, de percussão anular, de comprimento total superior ou igual a 28 centímetros. Categoria D — **Outras armas de fogo** Armas de fogo longas de tiro a tiro de cano liso;\n\nB. Partes essenciais dessas armas de fogo: O mecanismo de fecho, a câmara e o cano das armas de fogo que, enquanto objectos separados, estão incluídos na categoria em que tiver sido classificada a arma de fogo de que fazem parte ou a que se destinam.\n\nIII. Na acepção do presente anexo, não estão incluídos na definição de armas de fogo os objectos que correspondem à definição mas que: [▼M1](http://publications.europa.eu/resource/celex/32008L0051) a) Tenham sido tornados definitivamente impróprios para utilização através de uma desactivação, garantindo que todas as partes essenciais da arma de fogo foram tornadas definitivamente inutilizáveis e impossíveis de retirar, substituir ou alterar tendo em vista qualquer reactivação; [▼B](http://publications.europa.eu/resource/celex/31991L0477) b) Sejam concebidos para fins de alarme, sinalização, salvamento, abate, pesca com arpão ou destinados a fins industriais ou técnicos, na condição de só poderem ser utilizados para esses fins precisos; c) Sejam consideradas armas antigas ou reproduções de armas antigas, na medida em que não tenham sido incluídas nas categorias anteriores e respeitem as legislações nacionais. [▼M1](http://publications.europa.eu/resource/celex/32008L0051) Os Estados-Membros tomam medidas para que uma autoridade competente verifique as medidas de desactivação a que se refere a alínea a), a fim de garantir que as alterações efectuadas numa arma de fogo a tornem irreversivelmente inutilizável. Os Estados-Membros prevêem, no âmbito da referida verificação, a emissão de um certificado ou de um documento que ateste a desactivação da arma de fogo ou a aposição, para este efeito, de uma marca claramente visível na arma de fogo. A Comissão, deliberando nos termos do procedimento a que se refere o n.º 2 do artigo 13.º-A da presente directiva, publica orientações comuns sobre as normas e técnicas de desactivação a fim de garantir que as armas de fogo desactivadas fiquem irreversivelmente inutilizáveis. [▼B](http://publications.europa.eu/resource/celex/31991L0477) Até coordenação a nível comunitário, os Estados-membros poderão aplicar a respectiva legislação nacional no que se refere às armas de fogo indicadas no presente ponto.\n\nIV. Na acepção do presente anexo, entende-se por: a) «Arma de fogo curta» uma arma de fogo cujo cano não exceda 30 centímetros ou cujo comprimento total não exceda 60 centímetros; b) «Arma de fogo longa» qualquer arma de fogo com exclusão das armas de fogo curtas; c) «Arma automática» uma arma de fogo que após cada disparo se recarregue automaticamente e que, mediante uma única pressão do gatilho, possa fazer uma rajada de vários disparos; d) «Arma semiautomática» uma arma de fogo que após cada disparo se recarregue automaticamente e que não possa, mediante uma única pressão no gatilho, fazer mais de um único disparo; e) «Arma de repetição» uma arma de fogo que após cada disparo seja recarregada manualmente mediante a introdução no cano de um cartucho retirado de um depósito e transportado através de um mecanismo; f) «Arma de tiro a tiro» uma arma de fogo sem depósito, que seja carregada antes de cada disparo mediante a introdução manual do cartucho na câmara ou no compartimento previsto para o efeito à entrada do cano; g) «Munição de balas perfurantes» munição para uso militar com bala blindada de núcleo duro perfurante; h) «Munição de balas explosivas» munição para uso militar com bala contendo uma carga que explode na altura do impacte; i) «Munição de balas incendiárias» munição para uso militar com bala contendo uma mistura química que se inflama em contacto com o ar ou na altura do impacte."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "197ed86f7a5b4f4a": {
+   "fragment_id": "CARTÃO EUROPEU DE ARMA DE FOGO",
+   "type": "divisao",
+   "heading": "CARTÃO EUROPEU DE ARMA DE FOGO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CARTÃO EUROPEU DE ARMA DE FOGO\n\nO cartão deverá prever as seguintes rubricas:\n\na) Identificação do detentor;\n\nb) Identificação da arma ou das armas de fogo, incluído a menção da categoria, na acepção da presente directiva;\n\nc) Período de validade do cartão;\n\nd) Parte reservada às indicações de Estado-membro que emitiu o cartão (natureza e referências das autorizações, etc.);\n\ne) Parte reservada às indicações dos outros Estados-membros (autorização de entrada, etc.);\n\nf) A menção:\n\n«O direito de efectuar uma viagem para outro Estado-membro com uma arma ou armas das categorias B, C ou D mencionadas no presente cartão é sujeito a uma autorização ou a autorizações correspondentes prévias do Estado-membro visitado. Esta ou estas autorizações podem ser inscritas no cartão.\n\nA formalidade de autorização prévia acima referida não é, em princípio, necessária para efectuar uma viagem com uma arma da categoria C ou D para a prática da caça ou com uma arma da categoria B, C ou D para a prática do tiro desportivo, com a condição de a pessoa interessada estar na posse do cartão da arma e poder estabelecer a razão da viagem».\n\n«É proibido a viagem a … [Estado(s) em causa] com a arma … (identificação)»,\n\n«É sujeita a autorização a viagem a … [Estado(s) em causa] com a arma … (identificação)».\n\n---"
+  },
+  "ec6bb75c9694115c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#src.E0001)) JO n.º C 235 de 1.9.1987, p. 8 e JO n.º C 299 de 28.11.1989, p. 6.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#src.E0002)) JO n.º C 231 de 17.9.1990, p. 69 e JO n.º C 158 de 17.6.1991, p. 89.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#src.E0003)) JO n.º C 35 de 8.2.1988, p. 5..\n\n> ([^4^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#src.E0004)) JO L 144 de 4.6.1997, p. 19. Directiva com a última redacção que lhe foi dada pela Directiva 2005/29/CE (JO L 149 de 11.6.2005, p. 22).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#src.E0005)) JO L 179 de 8.7.2008, p. 5.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/3e715aff-c257-486d-9d78-a724ea620fe0.0018.03/DOC_1#src.E0006)) JO L 184 de 17.7.1999, p. 23. Decisão alterada pela Decisão 2006/512/CE (JO L 200 de 22.7.2006, p. 11)."
+  },
+  "9d57aa6c28fdce08": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Junho de 1991\n\nrelativa ao controlo da aquisição e da detenção de armas\n\n(91/477/CEE)"
+  },
+  "19a234842c97d369": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para efeitos da presente diretiva, entende-se por:\n\n1) «Armas de fogo» uma arma portátil, com cano, apta a disparar ou que seja concebida para disparar ou que possa ser modificada para disparar balas ou projéteis através da ação de uma carga propulsora, com exceção dos casos referidos no anexo I, parte III. A classificação das armas de fogo consta da parte II do anexo I.\n\na) Tiver a aparência de uma arma de fogo; e\n\nb) Devido à sua construção ou ao material a partir do qual é fabricado, puder ser modificado para esse efeito;\n\n2) «Componente essencial» o cano, a carcaça, a caixa da culatra, incluindo tanto a caixa da culatra superior como a inferior, quando adequado, a corrediça, o tambor, a culatra móvel ou o corpo da culatra, que, sendo objetos separados, estão incluídos na categoria de armas de fogo de que fazem parte ou a que se destinem;\n\n3) «Munição», o cartucho completo ou os seus componentes, incluindo o invólucro, o fulminante, a carga propulsora, as balas ou os projéteis utilizados numa arma de fogo, desde que esses componentes estejam sujeitos a autorização no Estado-Membro em causa;\n\n4) «Armas de alarme, *starter*, gás e sinalização» os dispositivos com um carregador que só são destinados ao tiro de munições sem projéteis, irritantes, outras substâncias ativas ou munições de pirotecnia e que não podem ser modificados para disparar um tiro, uma bala ou um projétil através da ação de um propulsor combustível;\n\n5) «Armas de alarme ou salva», as armas de fogo especificamente modificadas para utilização exclusiva de tiro de munições sem projéteis e para utilização a esse título em espetáculos teatrais, sessões fotográficas, gravações cinematográficas e televisivas, reconstituições históricas, desfiles, eventos desportivos e formação;\n\n6) «Arma de fogo desativada» armas de fogo que tenham sido tornadas permanentemente inapropriada para utilização mediante desativação, assegurando que todas os componentes essenciais da arma de fogo em causa foram tornados permanentemente inoperáveis e insuscetíveis de remoção, substituição ou modificação que permita à arma de fogo ser de algum modo reativada;\n\n7) «Museu», uma instituição de caráter permanente, ao serviço da sociedade e do seu desenvolvimento, aberta ao público, que adquira, conserve, investigue e exiba armas de fogo, seus componentes essenciais ou munições para fins históricos, culturais, científicos, técnicos, educativos, patrimoniais ou recreativos, e reconhecida como tal pelo Estado-Membro em causa;\n\n8) «Colecionador» uma pessoa singular ou coletiva que se dedique à recolha e conservação de armas de fogo, componentes essenciais ou munições para fins históricos, culturais, científicos, técnicos, educativos ou patrimoniais, e reconhecido como tal pelo Estado-Membro em causa;\n\n9) «Armeiro» uma pessoa singular ou coletiva cuja atividade comercial ou empresarial consista, total ou parcialmente:\n\na) No fabrico, comércio, na troca, locação, reparação, modificação ou conversão de armas de fogo ou seus componentes essenciais; ou\n\nb) No fabrico, comércio, na troca, modificação ou conversão de munições.\n\n10) «Intermediário» uma pessoa singular ou coletiva, que não seja armeiro, cuja atividade comercial ou empresarial consista, total ou parcialmente:\n\na) Na negociação ou organização de transações para a compra, a venda ou o fornecimento de armas de fogo, componentes essenciais ou munições; ou\n\nb) Na organização da transferência de armas de fogo, componentes essenciais ou munições num Estado-Membro, de um Estado-Membro para outro Estado-Membro, de um Estado-Membro para um país terceiro ou de um país terceiro para um Estado-Membro.\n\n11) «Fabrico ilícito» o fabrico ou a montagem de armas de fogo, dos seus componentes essenciais e de munições:\n\na) A partir de componentes essenciais dessas armas de fogo provenientes de tráfico ilícito;\n\nb) Sem autorização emitida de acordo com o artigo 4.º por uma autoridade competente do Estado-Membro no qual se procede ao fabrico ou à montagem;\n\nc) Sem marcação das armas de fogo montadas no momento do fabrico, de acordo com o artigo 4.º.\n\n12) «Tráfico ilícito» a aquisição, a venda, a entrega, o transporte ou a transferência de armas de fogo, dos seus componentes essenciais ou munições do ou através do território de um Estado-Membro para o território de outro Estado-Membro, se um dos Estados-Membros em causa não o autorizar em conformidade com as disposições da presente diretiva ou se as armas de fogo, os seus componentes essenciais ou munições não estiverem marcados de acordo com o artigo 4.º;\n\n13) «Rastreabilidade», o rastreio sistemático das armas de fogo e, se possível, dos seus componentes essenciais e munições, desde o fabricante até ao comprador, a fim de ajudar as autoridades competentes dos Estados-Membros a detetar, investigar e analisar o fabrico e o tráfico ilícitos.\n\n2. Para efeitos da presente diretiva, as pessoas são consideradas residentes do país referido no endereço constante de um documento oficial que mencione o seu local de residência, nomeadamente um passaporte ou um bilhete de identidade nacional, que seja apresentado às autoridades competentes de um Estado-Membro ou a um armeiro ou intermediário, por ocasião da aquisição ou de um controlo de detenção. Se o endereço da pessoa não constar do seu passaporte ou do seu bilhete de identidade nacional, o país de residência é determinado com base em qualquer outra prova oficial de residência reconhecida pelo Estado-Membro em causa.\n\n3. O cartão europeu de arma de fogo é emitido pelas autoridades competentes de um Estado-Membro, a pedido de uma pessoa que se torna detentora e utilizadora legal de uma arma de fogo. É válido por um prazo máximo de cinco anos, prorrogável, e deve conter as informações estabelecidas no anexo II. É intransmissível e dele deve constar o registo da arma ou armas de fogo de que o titular do cartão é detentor e utilizador. Deve encontrar-se sempre na posse do utilizador da arma de fogo e dele devem ainda constar todas as alterações da detenção ou das características da arma de fogo, bem como o seu extravio, furto ou roubo."
+  },
+  "d43146dc70424db5": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A presente diretiva não prejudica a aplicação das disposições nacionais relativas ao porte de armas, à caça ou ao tiro desportivo, utilizando armas legalmente adquiridas e detidas em conformidade com a presente diretiva.\n\n2. A presente diretiva não se aplica à aquisição ou detenção de armas e munições, em conformidade com a legislação nacional, pelas forças armadas, pela polícia ou pelas autoridades públicas, nem às transferências comerciais reguladas pela Diretiva 2009/43/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#E0001))."
+  },
+  "d1c8c74cd5adf34a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. No que diz respeito às armas de fogo fabricadas ou importadas para a União após 14 de setembro de 2018, os Estados-Membros devem assegurar que uma arma de fogo, ou um componente essencial, colocados no mercado se encontram:\n\na) Marcados com uma marcação única, que seja clara e permanente, imediatamente após o fabrico e, o mais tardar, antes da colocação no mercado, ou imediatamente após a importação para a União; e\n\nb) Registados nos termos da presente diretiva, imediatamente após o fabrico e, o mais tardar, antes da colocação no mercado, ou imediatamente após a importação para a União.\n\n2. Da marcação única a que se refere o n.º 1, alínea a), deve constar o nome do fabricante ou a marca, o país ou o local de fabrico, o número de série e o ano de fabrico se não fizer parte do número de série, e o modelo sempre que possível. Tal não prejudica a afixação da marca comercial do fabricante. Se o componente essencial for demasiado pequeno para que a marcação respeite as disposições do presente artigo, deve ser marcado, pelo menos, com um número de série, ou um código alfanumérico ou digital.\n\nOs requisitos de marcação para uma arma de fogo ou os seus componentes essenciais que são de particular importância histórica devem ser estabelecidos de acordo com a legislação nacional.\n\nOs Estados-Membros devem assegurar que cada embalagem de munições completas esteja marcada de forma a indicar o nome do fabricante, o número de identificação do lote, o calibre e o tipo de munição.\n\nPara o efeito do disposto no n.º 1 e no presente número, os Estados-Membros podem optar por aplicar as disposições da Convenção das Nações Unidas sobre o Reconhecimento Recíproco de Punções em Armas de Fogo Portáteis, de 1 de julho de 1969.\n\nOs Estados-Membros devem ainda assegurar que, em caso de transferência de uma arma de fogo ou dos componentes essenciais de uma arma de fogo dos depósitos do Estado com vista a um uso civil permanente, a arma tenha aposta a marcação única, nos termos do n.º 1, que permite a identificação da entidade que efetuou a transferência.\n\n2-A. A Comissão adota atos de execução que estabeleçam as especificações técnicas em matéria de marcação. Os atos de execução são adotados nos termos do procedimento de exame a que se refere o artigo 13.º-B, n.º 2.\n\n3. Os Estados-Membros devem criar um sistema para regular as atividades dos armeiros e intermediários. Esse sistema inclui, pelo menos, os seguintes elementos:\n\na) O registo de intermediários e armeiros que operam no território desses Estados-Membros;\n\nb) O licenciamento ou autorização das atividades dos armeiros e intermediários no território desses Estados-Membros;\n\nc) A avaliação da idoneidade privada e profissional e da competência profissional do armeiro ou intermediário em causa. Se se tratar de uma pessoa coletiva, a avaliação incidirá na pessoa coletiva e nos respetivos responsáveis técnicos.\n\na) O tipo, a marca, o modelo, o calibre e o número de série de cada arma de fogo e a marca aposta à sua carcaça ou caixa de culatra como marcação única, nos termos do n.º 1, que deve servir de identificador único de cada arma de fogo;\n\nb) O número de série ou a marcação única aposta aos componentes essenciais, se esta for diferente da marcação na carcaça ou na caixa de culatra de cada arma de fogo;\n\nc) Os nomes e endereços dos fornecedores e dos adquirentes ou detentores da arma de fogo, juntamente com a data ou as datas relevantes; e\n\nd) Todas as conversões ou modificações a uma arma de fogo que resultem na sua classificação noutra categoria ou subcategoria, incluindo a sua desativação ou destruição certificada e a data ou datas relevantes.\n\nOs Estados-Membros devem assegurar que os registos das armas de fogo e dos seus componentes essenciais, incluindo os dados pessoais pertinentes, sejam conservados no ficheiro de dados pelas autoridades competentes durante 30 anos após a destruição das armas de fogo ou dos componentes essenciais em causa.\n\nOs registos das armas de fogo e dos seus componentes essenciais a que se refere o primeiro parágrafo do presente número e os dados pessoais conexos estão acessíveis:\n\na) Às autoridades competentes para a concessão ou revogação das autorizações referidas no artigo 6.º ou 7.º ou às autoridades competentes em matéria de processos aduaneiros durante 10 anos após a destruição da arma de fogo ou dos componentes essenciais em causa; e\n\nb) Às autoridades competentes em matéria de prevenção, investigação, deteção ou repressão de infrações penais ou de execução de sanções penais durante 30 anos após a destruição da arma de fogo ou dos componentes essenciais em causa.\n\nOs Estados-Membros devem assegurar que os dados pessoais sejam apagados do ficheiro de dados no termo dos períodos previstos no segundo e no terceiro parágrafos. Sem prejuízo dos casos em que tenham sido transferidos dados pessoais específicos a uma autoridade competente em matéria de prevenção, investigação, deteção ou repressão de infrações penais ou de execução de sanções penais, e que sejam utilizados neste contexto específico, ou a outras autoridades competentes para fins compatíveis previstos pela legislação nacional. Nestes casos, o tratamento desses dados pelas autoridades competentes deve ser regulado pela legislação nacional dos Estados-Membros em causa, em plena conformidade com o Direito da União, em particular no que respeita à proteção de dados.**◄**\n\nDurante todo o período de atividade, os armeiros e os intermediários devem conservar um registo no qual são inscritos todas as armas de fogo e todos os componentes essenciais abrangidos pela presente diretiva e que por eles sejam recebidas ou entregues, juntamente com os dados que permitam a sua identificação e localização, nomeadamente o tipo, a marca, o modelo, o calibre e o número de série dessas armas ou dos componentes essenciais, bem como os nomes e endereços dos fornecedores e dos adquirentes.\n\nAquando da cessação da sua atividade, os armeiros e os intermediários devem entregar esse registo à autoridade nacional responsável pelo ficheiro de dados previsto no parágrafo anterior.\n\nOs Estados-Membros devem assegurar que os armeiros e intermediário estabelecidos no seu território comuniquem sem demora injustificada as transações que envolvam armas de fogo ou componentes essenciais à autoridade nacional competente, que os armeiros e intermediário tenham uma ligação eletrónica a essas autoridades para esses fins de informação e que o ficheiro de dados seja atualizado imediatamente após a receção da informação relativa a essas transações.\n\n5. Os Estados-Membros devem assegurar que seja possível identificar em qualquer momento todas as armas de fogo e os respetivos proprietários."
+  },
+  "c471e3a1aeee5b4b": {
+   "fragment_id": "Artigo 4.º-A",
+   "type": "artigo",
+   "heading": "Artigo 4.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-A\n\nSem prejuízo do disposto no artigo 3.º, os Estados-Membros só autorizam a aquisição e a detenção de armas de fogo a pessoas às quais tenha sido concedida uma licença ou, em relação a armas de fogo classificadas na categoria C, a pessoas às quais tenha sido especificamente autorizada a aquisição e a detenção de tais armas de fogo nos termos da legislação nacional."
+  },
+  "0abc81f1c02b601f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Sem prejuízo do disposto no artigo 3.º, os Estados-Membros só devem permitir a aquisição e a detenção de armas de fogo a pessoas que possuam um motivo válido para tal e que:\n\na) Tenham 18 anos ou mais, exceto para a aquisição, por meios distintos da compra, e para a detenção de armas de fogo para a prática de caça e de tiro desportivo, na condição de, neste caso, os menores de 18 anos terem uma autorização parental, ou estarem sob a supervisão parental ou de um adulto com uma licença válida de uso e porte de arma ou de caça, ou estarem integrados num centro de formação autorizado ou licenciado, e se a autoridade parental ou um adulto com uma licença válida de uso e porte de arma ou de caça assumir a responsabilidade pelo armazenamento adequado, em conformidade com o artigo 5.º-A; e\n\nb) Não sejam suscetíveis de constituir perigo para si próprias ou para terceiros, para a ordem pública ou para a segurança pública. A condenação por crime doloso violento é considerada indiciadora desse perigo.\n\n2. Os Estados-Membros devem dispor de um sistema de fiscalização, que pode funcionar numa base contínua ou intermitente, a fim de garantir que as condições de autorização estabelecidas na legislação nacional estejam preenchidas durante a validade da autorização e, nomeadamente, que as informações médicas e psicológicas pertinentes sejam avaliadas. As disposições específicas para o efeito devem ser estabelecidas de acordo com a legislação nacional.\n\nSe as condições da autorização deixarem de estar preenchidas, os Estados-Membros revogam a respetiva autorização.\n\nOs Estados-Membros não podem proibir, a pessoas que residam no seu território, a posse de uma arma de fogo adquirida noutro Estado-Membro, salvo se essa aquisição desse tipo de arma de fogo for proibida no seu território.\n\n3. Os Estados-Membros devem assegurar que as autorizações de aquisição e detenção de uma arma de fogo classificada na categoria B sejam revogadas se a pessoa a quem foi concedida a autorização for encontrado na posse de um carregador apto a ser acoplado a armas de fogo semiautomáticas ou armas de fogo de repetição, de percussão central, com:\n\na) Capacidade para mais de 20 munições; ou\n\nb) Capacidade para mais de 10 munições, no caso de armas de fogo longas,\n\nexceto nos casos em que tenha sido concedida uma autorização ao abrigo do artigo 6.º ou uma autorização confirmada, renovada ou prorrogada nos termos do artigo 7.º, n.º 4-A."
+  },
+  "418955c07bfa3c77": {
+   "fragment_id": "Artigo 5.º-A",
+   "type": "artigo",
+   "heading": "Artigo 5.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A\n\nA fim de minimizar o risco de acesso a armas de fogo e a munições por parte de pessoas não autorizadas, os Estados-Membros devem estabelecer regras para a supervisão adequada de armas de fogo e munições e para o seu armazenamento correto de forma segura. As armas de fogo e respetivas munições não devem estar facilmente acessíveis em conjunto. Nestes casos, a supervisão adequada significa que o detentor da arma de fogo ou das munições assume o controlo das mesmas durante o seu transporte e uso. O nível de controlo das condições de armazenamento deve corresponder à categoria da arma de fogo em causa."
+  },
+  "d20bdcd6cab06913": {
+   "fragment_id": "Artigo 5.º-B",
+   "type": "artigo",
+   "heading": "Artigo 5.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-B\n\nOs Estados-Membros devem assegurar que, nos casos relacionados com a aquisição e venda de armas de fogo, ou dos seus componentes essenciais ou munições classificados nas categorias A, B ou C, através de contratos à distância na aceção do artigo 2.º, ponto 7, da Diretiva 2011/83/UE do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#E0002)), a identidade e, se necessário, a autorização da pessoa que adquire a arma de fogo, os seus componentes essenciais ou munições, são objeto de verificação antes ou, o mais tardar, no ato da entrega a essa pessoa, por parte de:\n\na) Um armeiro ou um intermediário, licenciados ou autorizados; ou\n\nb) Uma autoridade pública ou um seu representante."
+  },
+  "a8f20b93e65610f9": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Sem prejuízo do disposto no artigo 2.º, n.º 2, os Estados-Membros devem tomar medidas adequadas para proibir a aquisição e detenção das armas, dos seus componentes essenciais e das munições classificados na categoria A. Devem garantir que essas armas de fogo, esses componentes essenciais e munições, quando detidos ilegalmente em violação da referida proibição, sejam apreendidos.\n\n2. Para a proteção da segurança das infraestruturas críticas, da marinha mercante, dos comboios de valor elevado e das instalações sensíveis, bem como para efeitos de defesa nacional, educação, cultura, investigação e história, e sem prejuízo do disposto no n.º 1, as autoridades nacionais competentes podem, em casos individuais, conceder, a título excecional e de forma devidamente fundamentada, autorizações para as armas de fogo, os componentes essenciais e munições classificadas na categoria A se tal não for contrário à segurança pública ou à ordem pública.\n\n3. Os Estados-Membros podem optar por conceder em certos casos especiais, a título excecional e de forma devidamente fundamentada, autorizações a colecionadores para a aquisição e detenção de armas de fogo, dos seus componentes essenciais e de munições classificadas na categoria A, sujeitas a condições rigorosas em matéria de segurança, incluindo o fornecimento às autoridades nacionais competentes de provas de que estão em vigor medidas destinadas a lidar com os riscos para a segurança pública ou para a ordem pública e que as armas de fogo, os componentes essenciais ou munições em causa estão armazenados com um nível de segurança proporcional aos riscos associados ao acesso não autorizado a esses objetos.\n\nOs Estados-Membros devem assegurar que esses colecionadores autorizados nos termos do primeiro parágrafo do presente número são identificáveis no ficheiro de dados a que se refere o artigo 4.º. Esses colecionadores autorizados devem conservar um registo de todas as armas de fogo na sua posse classificadas na categoria A, o qual deve ser acessível às autoridades nacionais competentes. Os Estados-Membros devem criar um sistema de controlo apropriado relativamente a esses colecionadores autorizados, tendo em conta todos os aspetos pertinentes.\n\n4. Os Estados-Membros podem autorizar os armeiros ou intermediário, no âmbito das respetivas atividades profissionais, a adquirir, fabricar, desativar, reparar, fornecer, transferir e deter armas de fogo, seus componentes essenciais e munições classificados na categoria A, sob rigorosas condições de segurança.\n\n5. Os Estados-Membros podem autorizar os museus a adquirir e deter armas de fogo, seus componentes essenciais e munições classificados na categoria A, sob rigorosas condições de segurança.\n\n6. Os Estados-Membros podem autorizar os atiradores desportivos a adquirir e deter armas de fogo semiautomáticas classificadas nos pontos 6 e 7 da categoria A do anexo I, nas seguintes condições:\n\na) Obtenção de uma avaliação satisfatória da informação pertinente derivada da aplicação do artigo 5.º, n.º 2;\n\nb) Prestação de prova de que o atirador desportivo em causa treina ativamente ou participa em competições de tiro reconhecidas por uma organização de tiro desportivo do Estado-Membro em causa oficialmente reconhecida ou por uma federação de tiro desportivo internacionalmente instituída e oficialmente reconhecida; e\n\nc) Apresentação de um certificado emitido por uma organização de tiro desportivo oficialmente reconhecida, comprovando que:\n\ni) o atirador desportivo é sócio de um clube de tiro onde tem treinado regularmente tiro ao alvo durante pelo menos doze meses, e\n\nii) a arma de fogo em questão cumpre as especificações requeridas para uma disciplina de tiro reconhecida por uma federação de tiro desportivo internacionalmente instituída e oficialmente reconhecida.\n\nNo que respeita às armas de fogo classificadas no ponto 6 da categoria A, os Estados-Membros que dispõem de um sistema baseado no serviço militar obrigatório e que, nos últimos cinquenta anos, tenham tido um sistema de transferência de armas de fogo militares para pessoas que deixam o exército depois de cumpridos os seus deveres militares podem conceder a essas pessoas, na qualidade de atiradores desportivos, uma autorização para conservarem uma arma de fogo utilizada durante o período de serviço militar obrigatório. A autoridade pública competente deve transformar essas armas de fogo em armas de fogo semiautomáticas e deve verificar periodicamente se as pessoas que as utilizam não representam um risco para a segurança pública. Aplica-se o disposto no primeiro parágrafo, alíneas a), b) e c).\n\n7. As autorizações concedidas ao abrigo do presente artigo devem ser revistas periodicamente pelo menos de cinco em cinco anos."
+  },
+  "6fcf6346c892fd44": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Não é permitida a aquisição de uma arma de fogo da categoria B no território de um Estado-membro sem que este tenha para o efeito autorizado o adquirente.\n\nEsta autorização não pode ser dada a um residente de outro Estado-membro sem o acordo prévio deste último Estado.\n\n2. Não é permitida a detenção de uma arma de fogo da categoria B no território de um Estado-membro sem que este tenha para o efeito autorizado o detentor. Se o detentor residir noutro Estado-membro, este será informado do facto.\n\n3. As autorizações de aquisição e detenção de uma arma de fogo da categoria B podem assumir a forma de decisão administrativa única.\n\n4. Os Estados-Membros podem avaliar a possibilidade de conceder, às pessoas que reúnam os requisitos necessários para a concessão de autorização de uso e porte de arma de fogo, uma licença plurianual para a aquisição e a posse de todas as armas de fogo sujeitas a autorização, sem prejuízo:\n\na) Da obrigação de notificação das transferências às autoridades competentes;\n\nb) Da verificação periódica de que as pessoas em causa continuam a satisfazer os requisitos; e\n\nc) Dos limites máximos de detenção estabelecidos na legislação nacional.\n\nA autorização de detenção de uma arma de fogo deve ser revista periodicamente, pelo menos de cinco em cinco anos. A autorização pode ser renovada ou prorrogada se as condições com base nas quais foi concedida continuarem a estar preenchidas.\n\n4-A. Os Estados-Membros podem decidir confirmar, renovar ou prorrogar as autorizações para armas de fogo semiautomáticas classificadas nos pontos 6, 7 ou 8 da categoria A para uma arma de fogo classificada na categoria B e legalmente adquirida e registada antes de 13 de junho de 2017, sem prejuízo das restantes condições estabelecidas na presente diretiva. Além disso, os Estados-Membros podem permitir a aquisição destas armas de fogo por outras pessoas por si autorizadas nos termos da presente diretiva, com a redação que lhe foi dada pela Diretiva (UE) 2017/853 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#E0003)).\n\n5. Os Estados-Membros aprovam regras para assegurar que as pessoas detentoras de autorizações de uso e porte de armas de fogo classificadas na categoria B pela legislação nacional à data de 28 de Julho de 2008 sejam dispensadas de requerer uma licença ou autorização para as armas de fogo das categorias C ou D de que sejam detentoras devido à entrada em vigor da Directiva 2008/51/CE do Parlamento Europeu e do Conselho, de 21 de Maio de 2008 ([^4^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#E0004)). No entanto, qualquer transferência subsequente de armas de fogo das categorias C ou D está sujeita à obtenção ou detenção de uma autorização pelo cessionário ou a uma autorização específica para a detenção dessas armas ao abrigo da legislação nacional."
+  },
+  "e954f37a8f2e0830": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Não é permitida a detenção de uma arma de fogo da categoria C sem que o detentor tenha para o efeito apresentado uma declaração às autoridades do Estado-membro em que essa arma é detida.\n\nOs Estados-membros preverão a declaração obrigatória de todas as armas de fogo da categoria C actualmente detidas no seu território, no prazo de um ano a contar da entrada em vigor das disposições nacionais de transposição da presente directiva.\n\n2. Os armeiros, vendedores ou particulares informarão de qualquer cessão ou entrega de uma arma de fogo da categoria C as autoridades do Estado-membro em que a mesma se tiver realizado, especificando os elementos de identificação do comprador e da arma de fogo. Se o adquirente residir noutro Estado-membro, este será informado da aquisição pelo Estado-membro onde a mesma se tiver realizado e pelo próprio adquirente.\n\n3. Se um Estado-Membro proibir ou sujeitar a autorização a aquisição e detenção no seu território de uma arma de fogo classificada nas categorias B ou C, deve informar desse facto os outros Estados-Membros, que o devem mencionar expressamente ao emitirem um cartão europeu de arma de fogo para essa arma, nos termos do artigo 12, n.º 2."
+  },
+  "7a0289c790ef9c48": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. O regime de aquisição e detenção de munições é idêntico ao da detenção das armas de fogo a que se destinam.\n\nA aquisição de carregadores para armas de fogo semiautomáticas de percussão central, que possam conter mais de 20 munições ou mais de 10 munições no caso das armas de fogo longas, só deve ser autorizada para as pessoas a quem tenha sido concedida uma autorização nos termos do artigo 6.º ou a quem tenha sido confirmada, renovada ou prorrogada uma autorização nos termos do artigo 7.º, n.º 4-A.\n\n2. Os intermediários e os armeiros podem recusar qualquer transação tendo em vista a aquisição de munições completas ou de componentes de munições, caso haja motivos razoáveis para a considerarem suspeita devido à sua natureza ou escala, e devem comunicar qualquer tentativa de transação desse tipo às autoridades competentes."
+  },
+  "e4ed72b25570c8d2": {
+   "fragment_id": "Artigo 10.º-A",
+   "type": "artigo",
+   "heading": "Artigo 10.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A\n\n1. Os Estados-Membros devem tomar medidas para impedir que os dispositivos com um carregador que só são destinados ao tiro de munições sem projéteis, irritantes, outras substâncias ativas ou munições de pirotecnia possam ser convertidos para disparar um tiro, uma munição ou um projétil através da ação de um propulsor combustível.\n\n2. Os Estados-Membros devem classificar como armas de fogo os dispositivos com carregador que só são destinados ao tiro de munições sem projéteis, irritantes, outras substâncias ativas ou munições de pirotecnia e que possam ser convertidos para disparar um tiro, uma munição ou um projétil através da ação de um propulsor combustível.\n\n3. A Comissão adota atos de execução que estabelecem as especificações técnicas para as armas utilizadas para fins de alarme e sinalização fabricadas ou importadas para a União após 14 de setembro de 2018 de modo a garantir que não possam ser convertidas para disparar um tiro, uma munição ou um projétil através da ação de um propulsor combustível. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 13.º-B, n.º 2. A Comissão adota o primeiro ato de execução até 14 de setembro de 2018."
+  },
+  "6777871b40094515": {
+   "fragment_id": "Artigo 10.º-B",
+   "type": "artigo",
+   "heading": "Artigo 10.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-B\n\n1. Os Estados-Membros devem tomar medidas para que a desativação das armas de fogo seja verificada por uma autoridade competente, a fim de garantir que as modificações efetuadas nas armas de fogo tornam todas os seus componentes essenciais definitivamente inoperáveis e insuscetíveis de remoção, substituição ou modificação que permitisse à arma de fogo ser de algum modo reativada. No âmbito desta verificação, os Estados-Membros devem estabelecer as regras de emissão de um certificado e de um documento que certifique a desativação da arma de fogo e a aposição, para este efeito, de uma marca claramente visível na arma de fogo.\n\n2. A Comissão adota atos de execução que estabelecem normas e técnicas de desativação para garantir que todos os componentes essenciais das armas de fogo foram tornados definitivamente inoperáveis e insuscetíveis de remoção, substituição ou modificação que permitisse à arma de fogo ser de algum modo reativada. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 13.º-B, n.º 2.\n\n3. Os atos de execução a que se refere o n.º 2 não se aplicam às armas de fogo desativadas antes da data da aplicação desses atos de execução, exceto se essas armas de fogo forem transferidas para outro Estado-Membro ou colocadas no mercado após essa data.\n\n4. Os Estados-Membros podem notificar a Comissão, no prazo de dois meses após 13 de junho de 2017, das respetivas normas e técnicas nacionais de desativação, aplicadas antes de 8 de abril de 2016, e justificar as razões pelas quais o nível de segurança assegurado por essas normas e técnicas nacionais é equivalente ao assegurado pelas especificações técnicas para a desativação das armas de fogo constantes do anexo I do Regulamento de Execução (UE) 2015/2403 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#E0005)), conforme aplicável em 8 de abril de 2016.\n\n5. Caso os Estados-Membros notifiquem a Comissão nos termos do n.º 4 do presente artigo, a Comissão deve, o mais tardar 12 meses após a data da notificação, adotar atos de execução que decidam se as normas e técnicas nacionais de desativação notificadas asseguraram que as armas de fogo fossem desativadas com um nível de segurança equivalente ao assegurado pelas especificações técnicas para a desativação das armas de fogo constantes do anexo I do Regulamento de Execução (UE) 2015/2403, conforme aplicável em 8 de abril de 2016. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 13.º-B, n.º 2.\n\n6. Até à data de aplicação dos atos de execução a que se refere o n.º 5, as armas de fogo desativadas de acordo com as normas e técnicas nacionais de desativação aplicáveis antes de 8 de abril de 2016, transferidas para outro Estado-Membro ou colocadas no mercado, devem estar de acordo com as especificações técnicas para a desativação das armas de fogo constantes do anexo I do Regulamento de Execução (UE) 2015/2403.\n\n7. As armas de fogo desativadas antes de 8 de abril de 2016 de acordo com as normas e técnicas nacionais de desativação que se considerou assegurarem um nível de segurança equivalente ao assegurado pelas especificações técnicas para a desativação das armas de fogo constantes do anexo I do Regulamento de Execução (UE) 2015/2403, tal como aplicáveis em 8 de abril de 2016, devem ser consideradas armas de fogo desativadas, incluindo se forem transferidas para outro Estado-Membro ou colocadas no mercado após a data de aplicação dos atos de execução a que se refere o n.º 5."
+  },
+  "88cf007cf4494968": {
+   "fragment_id": "Formalidades exigidas para a circulação de armas na [►M2](http://publications.europa.eu/resource/celex/32017L0853) União◄",
+   "type": "divisao",
+   "heading": "Formalidades exigidas para a circulação de armas na [►M2](http://publications.europa.eu/resource/celex/32017L0853) União◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Formalidades exigidas para a circulação de armas na [►M2](http://publications.europa.eu/resource/celex/32017L0853) União◄"
+  },
+  "8a003b49f5455bfc": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Sem prejuízo do artigo 12.º, as armas de fogo só podem ser transferidas de um Estado-Membro para outro de acordo com o processo previsto no presente artigo. Esse procedimento é igualmente aplicável em caso de transferência de uma arma de fogo resultante de uma venda por meio de contratos à distância, na aceção do artigo 2.º, ponto 7, da Diretiva 2011/83/UE.\n\n2. No que diz respeito às transferências de armas de fogo para outro Estado-membro, o interessado comunicará ao Estado-membro em que se encontrem tais armas, antes de qualquer expedição:\n\n— o nome e endereço do vendedor ou cedente e do comprador ou adquirente ou, se for caso disso, do proprietário,\n\n— o endereço do local para onde tais armas serão enviadas ou transportadas,\n\n— o número de armas que fazem parte do envio ou do transporte,\n\n— os dados que permitam a identificação de cada arma e ainda a indicação de que a arma de fogo foi objecto de um controlo de acordo com as disposições da convenção de 1 de Julho de 1969 relativa ao reconhecimento recíproco das funções de prova das armas de fogo portáteis,\n\n— o meio de transferência,\n\n— a data da partida e a data prevista da chegada.\n\nNão será necessário comunicar as informações referidas nos dois últimos travessões quando se tratar de uma transferência entre armeiros.\n\nO Estado-membro analisará as condições de realização da transferência, nomeadamente no que diz respeito à segurança.\n\nSe o Estado-membro autorizar essa transferência, emitirá uma autorização contendo todas as menções referidas no primeiro parágrafo. A autorização deve acompanhar as armas de fogo até ao ponto do destino; deve ser apresentada sempre que solicitado pelas autoridades dos Estados-membros.\n\n3. No que se refere à transferência de armas de fogo, que não sejam armas de guerra, excluídas do âmbito de aplicação desta directiva nos termos do n.º 2 do artigo 2.º, cada Estado-membro pode conceder aos armeiros o direito de efectuar transferências de armas de fogo a partir do seu território para um armeiro estabelecido noutro Estado-membro sem a autorização prévia, na acepção do n.º 2. Para o efeito, emitirá uma licença válida por um período máximo de três anos que pode ser, em qualquer momento, suspensa ou anulada mediante decisão fundamentada. As armas de fogo deverão se acompanhadas até ao destino por um documento referente a esta licença; este documento deve ser apresentado sempre que solicitado pelas autoridades dos Estados-membros.\n\nAntes da data da transferência, os armeiros comunicam às autoridades do Estado-Membro a partir do qual se deverá efectuar a transferência todas as informações referidas no primeiro parágrafo do n.º 2. Essas autoridades realizam inspecções, se necessário *in loco*, para verificar se existe correspondência entre as informações comunicadas pelo armeiro e as características efectivas da transferência. As informações devem ser comunicadas pelos armeiros em tempo oportuno.\n\n4. Cada Estado-membro comunicará aos outros Estados-membros a lista das armas de fogo relativamente às quais pode ser dada, sem o seu acordo prévio, a autorização de transferência para o seu território.\n\nEstas listas de armas de fogo serão comunicadas aos armeiros que tenham obtido uma autorização para transferir armas de fogo sem licença prévia no âmbito do procedimento previsto no n.º 3."
+  },
+  "b7bfbe451bab8aa5": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. A menos que tenha sido seguido o processo previsto no artigo 11.º, a detenção de uma arma de fogo durante uma viagem através de dois ou mais Estados-membros apenas será permitida se o interessado tiver obtido a autorização desses Estados-membros.\n\nOs Estados-membros podem conceder esta autorização para uma ou várias viagens, por um período máximo de um ano, renovável. Estas autorizações serão inscritas no cartão europeu de arma de fogo, que o viajante deve apresentar sempre que solicitado pelas autoridades dos Estados-membros.\n\na) Possuam um cartão europeu de arma de fogo respeitante a essa arma ou armas de fogo; e\n\nb) Possam justificar as razões da sua viagem, em especial apresentando um convite ou outra prova das suas atividades de caça, tiro ao alvo ou reconstituição histórica no Estado-Membro de destino.\n\nOs Estados-Membros não podem fazer depender a aceitação do cartão europeu de arma de fogo do pagamento de qualquer taxa ou encargo.**◄**\n\nContudo, esta derrogação não se aplica às viagens para um Estado-Membro que, nos termos do artigo 8.º, n.º 3, proíba a aquisição e detenção da arma de fogo em causa ou que para ela exija uma autorização. Neste caso, deve ser aposta uma menção expressa no cartão europeu de arma de fogo. Os Estados-Membros podem igualmente recusar a aplicação desta derrogação no caso de armas de fogo classificadas na categoria A para as quais tenha sido concedida uma autorização nos termos do artigo 6.º, n.º 6, ou cuja autorização tenha sido confirmada, renovada ou prorrogada nos termos do artigo 7.º, n.º 4-A.\n\nNo contexto do relatório referido no artigo 17.º, a Comissão analisará igualmente os resultados da aplicação do segundo parágrafo, especialmente no que se refere às suas incidências na ordem pública e na segurança pública.\n\n3. Através de acordos de reconhecimento mútuo de documentos nacionais, dois ou mais Estados-membros podem prever um regime mais flexível que o previsto no presente artigo para a circulação com uma arma de fogo nos respectivos territórios."
+  },
+  "3da9dd09895df6db": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Cada Estado-membro transmitirá qualquer informação útil de que disponha relativa às transferências definitivas de armas de fogo ao Estado-membro para cujo território a transferência seja efectuada.\n\n2. As informações que os Estados-membros receberem em aplicação dos procedimentos previstos no artigo 11.º sobre as transferências de armas de fogo, no n.º 2 do artigo 7.º e no n.º 2 do artigo 8.º sobre a aquisição de armas de fogo por não residentes serão comunicadas ao Estado-membro de destino o mais tardar por ocasião da transferência e, se for caso disso, aos Estados-membros de trânsito, o mais tardar por acasião da transferência.\n\n3. Para efeitos da aplicação eficaz da presente directiva, os Estados-Membros procedem regularmente a um intercâmbio de informações. Para este fim, a Comissão deve criar, até 28 de Julho de 2009, um grupo de contacto para o intercâmbio de informações para efeitos de aplicação do presente artigo. Os Estados-Membros indicam aos outros Estados-Membros e à Comissão quais as autoridades nacionais responsáveis pela transmissão e recepção das informações e pelo cumprimento das obrigações estabelecidas no n.º 4 do artigo 11.º.\n\n4. As autoridades competentes dos Estados-Membros trocam informações, por via eletrónica, sobre as autorizações concedidas para a transferência de armas de fogo para outros Estados-Membros e informações sobre as recusas de autorização, tal como previsto nos artigos 6.º e 7.º, por motivos de segurança ou relativos à idoneidade da pessoa em causa.\n\n5. A Comissão instaura um sistema para o intercâmbio de informações previsto no presente artigo.\n\nA Comissão adota atos delegados nos termos do artigo 13.º-A, com vista a completar a presente diretiva, através do estabelecimento de um regime pormenorizado para o sistemático intercâmbio de informações por via eletrónica. A Comissão adota o primeiro ato delegado até 14 de setembro de 2018."
+  },
+  "237544bdf64daca8": {
+   "fragment_id": "Artigo 13.º-A",
+   "type": "artigo",
+   "heading": "Artigo 13.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-A\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 13.º, n.º 5, é conferido à Comissão por um período indeterminado, a contar de 13 de junho de 2017.\n\n3. A delegação de poderes referida no artigo 13.º, n.º 5, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre Legislar Melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 13.º, n.º 5, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "de9228ed622b18d7": {
+   "fragment_id": "Artigo 13.º-B",
+   "type": "artigo",
+   "heading": "Artigo 13.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-B\n\n1. A Comissão é assistida por um comité. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#E0006)).\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "5c9a9ab104cc48a5": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os Estados-membros reforçarão os controlos da detenção de armas nas fronteiras externas da [**►M2**](http://publications.europa.eu/resource/celex/32017L0853) União**◄**. Zelarão em especial pela observância do disposto no artigo 12.º por parte dos viajantes provenientes de países terceiros que se dirijam a outro Estado-membro.\n\n2. A presente directiva não prejudica os controlos efectuados pelos Estados-membros ou pelo transportador no momento do embarque num meio de transporte.\n\n3. Os Estados-membros informarão a Comissão das modalidades de realização dos controlos referidos nos n.^os^ 1 e 2. A Comissão recolherá essas informações e colocá-las-á à disposição de todos os Estados-membros.\n\n4. Cada Estado-membro comunicará à Comissão as suas disposições nacionais, incluindo as alterações em matéria de aquisição e detenção de armas, na medida em que a legislação nacional for mais severa que a norma mínima a adoptar. A Comissão transmitirá estas informações aos outros Estados-membros."
+  },
+  "933fd998f13a0c89": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nAté 14 de setembro de 2020 e, em seguida, de cinco em cinco anos, a Comissão apresenta um relatório ao Parlamento Europeu e ao Conselho sobre a aplicação da presente diretiva, incluindo uma avaliação da adequação das suas disposições, acompanhado, se se justificar, de propostas legislativas que digam respeito, em especial, às categorias de armas de fogo no anexo I e às questões relacionadas com a aplicação do sistema do cartão europeu de arma de fogo, com a marcação e com o impacto de novas tecnologias, como a impressão 3D, a utilização de códigos QR e a utilização da identificação por radiofrequência (RFID)."
+  },
+  "fa6946ea703f693a": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nI. Na acepção da presente directiva, entende-se por «armas»: [▼M1](http://publications.europa.eu/resource/celex/32008L0051) — qualquer arma de fogo, tal como definida no artigo 1.º da presente directiva, [▼B](http://publications.europa.eu/resource/celex/31991L0477) — as «armas não de fogo» tal como são definidas pelas legislações nacionais.\n\nII. [**►M2**](http://publications.europa.eu/resource/celex/32017L0853) Para efeitos da presente diretiva, as armas de fogo são classificadas nas seguintes categorias:**◄** A. [**►M2**](http://publications.europa.eu/resource/celex/32017L0853) —————**◄** Categoria A — **Armas de fogo proibidas** 1. Equipamentos e meios de lançamento militares com efeito explosivo. 2. Armas de fogo automáticas. 3. Armas de fogo camufladas sob a forma de outro objecto. 4. Munições com balas perfurantes, explosivas ou incendiárias, bem como os projécteis para essas munições. 5. Munições para pistolas e revólveres com os respectivos projécteis expansivos, bem como os mesmos projécteis, excepto no que se refere às armas de caça ou de tiro com mira para as pessoas habilitadas a utilizá-las. [▼M2](http://publications.europa.eu/resource/celex/32017L0853) 6. Armas de fogo automáticas convertidas em armas de fogo semiautomáticas, sem prejuízo do artigo 7.º, n.º 4-A. 7. Qualquer das seguintes armas de fogo semiautomáticas, de percussão central: a) Armas de fogo curtas que permitam disparar mais de 21 munições sem recarga, se: i) um carregador com capacidade para mais de 20 munições fizer parte da arma de fogo, ou ii) um carregador amovível com capacidade para mais de 20 munições estiver inserido na arma de fogo; b) Armas de fogo longas que permitam disparar mais de 11 munições sem recarga, se: i) um carregador com capacidade para mais de 10 munições fizer parte da arma, ou ii) um carregador amovível com capacidade para mais de 10 munições estiver inserido na arma de fogo. 8. Armas de fogo longas semiautomáticas (isto é, armas de fogo originalmente concebidas para disparar a partir do ombro), suscetíveis de ser reduzidas a um comprimento inferior a 60 cm sem perda de funcionalidades através de uma coronha rebatível ou telescópica ou de uma coronha que possa ser removida sem utilizar ferramentas. 9. Qualquer arma de fogo desta categoria convertida para disparar munições sem projétil, irritantes, outras substâncias ativas ou cartuchos de pirotecnia, ou após ter sido convertida numa arma de alarme ou de salva. [▼M2](http://publications.europa.eu/resource/celex/32017L0853) Categoria B — **Armas de fogo sujeitas a autorização** 1. Armas de fogo curtas de repetição. 2. Armas de fogo curtas de tiro a tiro, de percussão central. 3. Armas de fogo curtas de tiro a tiro, de percussão anelar, com um comprimento total inferior a 28 cm. 4. Armas de fogo longas semiautomáticas cujo carregador e cuja câmara podem conter mais de três munições, no caso de armas de fogo de percussão anular, e mais de três mas menos de doze munições, no caso de armas de fogo de percussão central. 5. Armas de fogo curtas semiautomáticas não enumeradas no ponto 7, alínea a), da categoria A. 6. Armas de fogo longas semiautomáticas enumeradas no ponto 7, alínea b), da categoria A cujo carregador e cuja câmara não podem conter mais de três munições, com carregador amovível ou sem garantia de que não possam ser convertidas, através de ferramentas comuns, em armas cujo carregador e cuja câmara podem conter mais de três munições. 7. Armas de fogo longas de repetição e semiautomáticas, de cano liso, em que este não exceda 60 cm. 8. Qualquer arma de fogo desta categoria convertida para disparar munições sem projétil, irritantes, outras substâncias ativas ou cartuchos de pirotecnia, ou após ter sido convertida numa arma de salva ou acústica. 9. Armas de fogo semiautomáticas para uso civil com a aparência de armas de fogo automáticas não enumeradas nos pontos 6, 7 ou 8 da categoria A. Categoria C — **Armas de fogo e armas sujeitas a declaração** 1. Armas de fogo longas de repetição não enumeradas na categoria B, ponto 7. 2. Armas de fogo longas de tiro a tiro, de cano estriado. 3. Armas de fogo longas semiautomáticas não enumeradas nas categorias A ou B. 4. Armas de fogo curtas de tiro a tiro, de percussão anelar, com um comprimento total superior ou igual a 28 cm. 5. Qualquer arma de fogo desta categoria convertida para disparar munições sem projétil, irritantes, outras substâncias ativas ou cartuchos de pirotecnia, ou após ter sido convertida numa arma de alarme ou de salva. 6. As armas de fogo classificadas nas categorias A ou B ou na presente categoria que tenham sido desativadas nos termos do Regulamento de Execução (UE) 2015/2403. 7. Armas de fogo longas de tiro a tiro de cano liso colocadas no mercado em ou após 14 de setembro de 2018. [▼M2](http://publications.europa.eu/resource/celex/32017L0853) —————\n\nA. [**►M2**](http://publications.europa.eu/resource/celex/32017L0853) —————**◄** Categoria A — **Armas de fogo proibidas** 1. Equipamentos e meios de lançamento militares com efeito explosivo. 2. Armas de fogo automáticas. 3. Armas de fogo camufladas sob a forma de outro objecto. 4. Munições com balas perfurantes, explosivas ou incendiárias, bem como os projécteis para essas munições. 5. Munições para pistolas e revólveres com os respectivos projécteis expansivos, bem como os mesmos projécteis, excepto no que se refere às armas de caça ou de tiro com mira para as pessoas habilitadas a utilizá-las. [▼M2](http://publications.europa.eu/resource/celex/32017L0853) 6. Armas de fogo automáticas convertidas em armas de fogo semiautomáticas, sem prejuízo do artigo 7.º, n.º 4-A. 7. Qualquer das seguintes armas de fogo semiautomáticas, de percussão central: a) Armas de fogo curtas que permitam disparar mais de 21 munições sem recarga, se: i) um carregador com capacidade para mais de 20 munições fizer parte da arma de fogo, ou ii) um carregador amovível com capacidade para mais de 20 munições estiver inserido na arma de fogo; b) Armas de fogo longas que permitam disparar mais de 11 munições sem recarga, se: i) um carregador com capacidade para mais de 10 munições fizer parte da arma, ou ii) um carregador amovível com capacidade para mais de 10 munições estiver inserido na arma de fogo. 8. Armas de fogo longas semiautomáticas (isto é, armas de fogo originalmente concebidas para disparar a partir do ombro), suscetíveis de ser reduzidas a um comprimento inferior a 60 cm sem perda de funcionalidades através de uma coronha rebatível ou telescópica ou de uma coronha que possa ser removida sem utilizar ferramentas. 9. Qualquer arma de fogo desta categoria convertida para disparar munições sem projétil, irritantes, outras substâncias ativas ou cartuchos de pirotecnia, ou após ter sido convertida numa arma de alarme ou de salva. [▼M2](http://publications.europa.eu/resource/celex/32017L0853) Categoria B — **Armas de fogo sujeitas a autorização** 1. Armas de fogo curtas de repetição. 2. Armas de fogo curtas de tiro a tiro, de percussão central. 3. Armas de fogo curtas de tiro a tiro, de percussão anelar, com um comprimento total inferior a 28 cm. 4. Armas de fogo longas semiautomáticas cujo carregador e cuja câmara podem conter mais de três munições, no caso de armas de fogo de percussão anular, e mais de três mas menos de doze munições, no caso de armas de fogo de percussão central. 5. Armas de fogo curtas semiautomáticas não enumeradas no ponto 7, alínea a), da categoria A. 6. Armas de fogo longas semiautomáticas enumeradas no ponto 7, alínea b), da categoria A cujo carregador e cuja câmara não podem conter mais de três munições, com carregador amovível ou sem garantia de que não possam ser convertidas, através de ferramentas comuns, em armas cujo carregador e cuja câmara podem conter mais de três munições. 7. Armas de fogo longas de repetição e semiautomáticas, de cano liso, em que este não exceda 60 cm. 8. Qualquer arma de fogo desta categoria convertida para disparar munições sem projétil, irritantes, outras substâncias ativas ou cartuchos de pirotecnia, ou após ter sido convertida numa arma de salva ou acústica. 9. Armas de fogo semiautomáticas para uso civil com a aparência de armas de fogo automáticas não enumeradas nos pontos 6, 7 ou 8 da categoria A. Categoria C — **Armas de fogo e armas sujeitas a declaração** 1. Armas de fogo longas de repetição não enumeradas na categoria B, ponto 7. 2. Armas de fogo longas de tiro a tiro, de cano estriado. 3. Armas de fogo longas semiautomáticas não enumeradas nas categorias A ou B. 4. Armas de fogo curtas de tiro a tiro, de percussão anelar, com um comprimento total superior ou igual a 28 cm. 5. Qualquer arma de fogo desta categoria convertida para disparar munições sem projétil, irritantes, outras substâncias ativas ou cartuchos de pirotecnia, ou após ter sido convertida numa arma de alarme ou de salva. 6. As armas de fogo classificadas nas categorias A ou B ou na presente categoria que tenham sido desativadas nos termos do Regulamento de Execução (UE) 2015/2403. 7. Armas de fogo longas de tiro a tiro de cano liso colocadas no mercado em ou após 14 de setembro de 2018. [▼M2](http://publications.europa.eu/resource/celex/32017L0853) —————\n\nIII. Para efeitos do presente anexo, os objetos que correspondem à definição de ‘armas de fogo’ não são incluídos nessa definição se: a) Tiverem sido concebidos para fins de alarme, sinalização, salvamento, abate, pesca com arpão ou para fins industriais ou técnicos, e só possam ser utilizados para o fim declarado; b) Forem considerados armas antigas, não tiverem sido incluídos nas categorias constantes da Parte II e respeitarem a legislação nacional. Enquanto não existir coordenação a nível da União, os Estados-Membros podem aplicar a sua legislação nacional às armas de fogo constantes da presente parte.\n\nIV. Na acepção do presente anexo, entende-se por: a) «Arma de fogo curta» uma arma de fogo cujo cano não exceda 30 centímetros ou cujo comprimento total não exceda 60 centímetros; b) «Arma de fogo longa» qualquer arma de fogo com exclusão das armas de fogo curtas; c) «Arma automática» uma arma de fogo que após cada disparo se recarregue automaticamente e que, mediante uma única pressão do gatilho, possa fazer uma rajada de vários disparos; d) «Arma semiautomática» uma arma de fogo que após cada disparo se recarregue automaticamente e que não possa, mediante uma única pressão no gatilho, fazer mais de um único disparo; e) «Arma de repetição» uma arma de fogo que após cada disparo seja recarregada manualmente mediante a introdução no cano de um cartucho retirado de um depósito e transportado através de um mecanismo; f) «Arma de tiro a tiro» uma arma de fogo sem depósito, que seja carregada antes de cada disparo mediante a introdução manual do cartucho na câmara ou no compartimento previsto para o efeito à entrada do cano; g) «Munição de balas perfurantes» munição para uso militar com bala blindada de núcleo duro perfurante; h) «Munição de balas explosivas» munição para uso militar com bala contendo uma carga que explode na altura do impacte; i) «Munição de balas incendiárias» munição para uso militar com bala contendo uma mistura química que se inflama em contacto com o ar ou na altura do impacte."
+  },
+  "6545a53381a85d65": {
+   "fragment_id": "CARTÃO EUROPEU DE ARMA DE FOGO",
+   "type": "divisao",
+   "heading": "CARTÃO EUROPEU DE ARMA DE FOGO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CARTÃO EUROPEU DE ARMA DE FOGO\n\nO cartão deverá prever as seguintes rubricas:\n\na) Identificação do detentor;\n\nb) Identificação da arma ou das armas de fogo, incluído a menção da categoria, na acepção da presente directiva;\n\nc) Período de validade do cartão;\n\nd) Parte reservada às indicações de Estado-membro que emitiu o cartão (natureza e referências das autorizações, etc.);\n\ne) Parte reservada às indicações dos outros Estados-membros (autorização de entrada, etc.);\n\nf) As menções:\n\n«O direito de efetuar uma viagem para outro Estado-Membro com uma ou mais armas classificadas nas categorias A, B ou C mencionadas no presente cartão fica sujeito a uma ou mais autorizações prévias correspondentes do Estado-Membro visitado. Essas autorizações podem ser inscritas no cartão.\n\nA autorização prévia acima referida não é necessária, em princípio, para efetuar uma viagem com uma arma de fogo classificada na categoria C para a prática de atividades de caça ou de reconstituição histórica, ou com uma arma de fogo classificada nas categorias A, B ou C para a prática de tiro desportivo, desde que o viajante esteja na posse do cartão da arma e possa estabelecer a razão da viagem.»\n\n---"
+  },
+  "51eb26902ce0ac86": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#src.E0001)) Diretiva 2009/43/CE do Parlamento Europeu e do Conselho, de 6 de maio de 2009, relativa à simplificação das condições das transferências de produtos relacionados com a defesa na Comunidade (JO L 146 de 10.6.2009, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#src.E0002)) Diretiva 2011/83/UE do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativa aos direitos dos consumidores, que altera a Diretiva 93/13/CEE do Conselho e a Diretiva 1999/44/CE do Parlamento Europeu e do Conselho e que revoga a Diretiva 85/577/CEE do Conselho e a Diretiva 97/7/CE do Parlamento Europeu e do Conselho (JO L 304 de 22.11.2011, p. 64).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#src.E0003)) Diretiva (UE) 2017/853 do Parlamento Europeu e do Conselho, de 17 de maio de 2017, que altera a Diretiva 91/477/CEE do Conselho relativa ao controlo da aquisição e da detenção de armas (JO L 137 de 24.5.2017, p. 22).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#src.E0004)) JO L 179 de 8.7.2008, p. 5.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#src.E0005)) Regulamento de Execução (UE) 2015/2403 da Comissão, de 15 de dezembro de 2015, que estabelece orientações comuns em matéria de normas e técnicas de desativação a fim de garantir a inutilização irreversível das armas de fogo desativadas (JO L 333 de 19.12.2015, p. 62).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/80771b01-0034-463b-9c38-8cb9a5f86933.0015.02/DOC_1#src.E0006)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13)."
+  },
+  "429a4c0b21939ce0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01991L0477 — PT — 26.04.2021 — 003.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31991L0477) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0477) [de 18 de Junho de 1991](http://publications.europa.eu/resource/celex/31991L0477) [relativa ao controlo da aquisição e da detenção de armas](http://publications.europa.eu/resource/celex/31991L0477) [(91/477/CEE)](http://publications.europa.eu/resource/celex/31991L0477) (JO L 256, 13.9.1991, p.51)\n\n**Revogada por:**\n\n- [Diretiva (UE) 2021/555 do Parlamento Europeu e do Conselho de 24 de março de 2021](http://publications.europa.eu/resource/celex/32021L0555) — L 115 — 1 — 6.4.2021"
+  }
+ }
+}

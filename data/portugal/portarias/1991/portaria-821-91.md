@@ -1,0 +1,218 @@
+---
+schema_version: '1.0'
+id: pt:dre:675251:por
+title: Portaria n.º 821/91
+short_title: null
+summary: Estabelece as advertências da nocividade e os teores de nicotina e de alcatrão que devem constar das embalagens dos
+  produtos do tabaco que se destinam a ser comercializadas em território nacional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Saúde e do Ambiente e Recursos Naturais
+proposing_entity: null
+official_number: 821/91
+official_date: null
+publication_date: '1991-08-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 184/1991, Série I-B de 1991-08-12
+  number: '184'
+  series: I
+  supplement: null
+  pages: 4086 - 4087
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/08/184b00/40864087.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/821/1991/08/12/p/dre/pt/html
+  oj: null
+  dre: '675251'
+  dre_path: /dr/detalhe/portaria/821-1991-675251
+  internal: pt:dre:675251:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/821-1991-675251
+  metadata_url: https://data.dre.pt/eli/port/821/1991/08/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/821-1991-675251
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:01:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fadad44ca740a2827357b743829c3505cde671ecbe3ee3db6f7f0305b98d30bf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:01:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Comércio
+- Embalagem
+- Etiquetagem
+- Proteção do Consumidor
+- Saúde Pública
+- Tabaco
+- Tabagismo
+relationships:
+- type: amended_by
+  target: pt:dre:209590:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:532036:por
+  label: ALTERADAS AS DISPOSIÇÕES DO NUM 3.1, DO NUM 3.2, DA AL D) DO NUM 3.3 DO NUM 3.4, DO NUM 7 E DO NUM 8 E REVOGADAS
+    AS DISPOSIÇÕES DOS NUM 10.1 E 10.2 E ADITADOS OS NUM 3.1-A E 3.1-B E 3.4-A E ALTERADO O ANEXO QUE PASSA A ANEXO A E INSERIDO
+    UM NOVO ANEXO (ANEXO B) PELA PORT 32/94 DE 11-JAN DR.IS-B [8]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/32-1994-532036
+  date: '1994-01-11'
+- type: cites
+  target: celex:31989L0622
+  label: null
+  source: http://data.europa.eu/eli/dir/1989/622/oj
+- type: cites
+  target: celex:31990L0239
+  label: null
+  source: http://data.europa.eu/eli/dir/1990/239/oj
+- type: repealed_by
+  target: pt:dre:209590:por
+  label: "Revogada pelo DEC LEI.25/2003.2003.02.04.MS DR.IS-A [29]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/25-2003-209590
+  date: '2003-02-04'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:01:53Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 821/91
+
+de 12 de Agosto
+
+Tal como afirma o preâmbulo do Decreto-Lei n.º 200/91, de 29 de Maio, o cumprimento das disposições comunitárias sobre rotulagem dos produtos do tabaco implica a adopção de medidas internas, nomeadamente de natureza regulamentar.
+
+A presente portaria pretende, assim, complementar aquele decreto-lei, de modo a permitir a completa transposição da Directiva n.º [89/622/CEE](http://data.europa.eu/eli/dir/1989/622/oj?locale=pt), do Conselho, relativa à rotulagem dos produtos do tabaco, publicada no Jornal Oficial das Comunidades Europeias, série L, n.º 359, de 8 de Dezembro de 1989 (NUMDOC 389L 622).
+
+Por tratar de matéria conexa, transpõe-se também, pelo presente diploma, a Directiva n.º [90/239/CEE](http://data.europa.eu/eli/dir/1990/239/oj?locale=pt), do Conselho, que estabelece o teor máximo de alcatrão nos cigarros, publicada no Jornal Oficial das Comunidades Europeias, série L, n.º 137, de 30 de Maio de 1990 (NUMDOC 390L 239).
+
+Por razões de clareza do direito vigente, entende-se necessário aproveitar esta ocasião para codificar a regulamentação existente em matéria de rotulagem e teor em certas substâncias de produtos do tabaco, eliminando também algumas disposições internas que se entendem incompatíveis com o direito comunitário.
+
+Finalmente, esclareça-se que o Decreto-Lei n.º 226/83, de 27 de Maio, para além de constituir a lei habilitante para a emissão do presente regulamento, é também referência fundamental para enquadrar o que aqui é estabelecido, nomeadamente no que diz respeito às noções que fixa no seu artigo 1.º e às disposições relativas ao direito contra-ordenacional aplicável neste caso concreto. Devem ter-se em conta as alterações posteriores daquele diploma, também referidas no preâmbulo do Decreto-Lei n.º 200/91, de 29 de Maio.
+
+Ouvidos o Conselho de Prevenção do Tabagismo e a Direcção-Geral dos Cuidados de Saúde Primários e ao abrigo do artigo 8.º do Decreto-Lei n.º 226/83, de 27 de Maio, na redacção que lhe foi dada pelo artigo único do Decreto-Lei n.º 200/91, de 29 de Maio:
+
+Manda o Governo, pelos Ministros da Saúde e do Ambiente e Recursos Naturais, o seguinte:
+
+1.º O presente diploma estabelece as advertências de nocividade e os teores de nicotina e de alcatrão que devem constar das embalagens dos produtos do tabaco que se destinam a ser comercializadas em território nacional.
+
+2.º - 2.1 - Todas as embalagens de produtos do tabaco devem apresentar, na superfície mais visível, em língua portuguesa, a advertência geral: «Prejudica gravemente a saúde».
+
+2.2 - Esta advertência será obrigatoriamente impressa nos maços de cigarros e impressa ou aposta nas embalagens dos restantes produtos do tabaco, de modo inamovível e indelével, sobre fundo contrastante, em caracteres claramente legíveis, não podendo ficar dissimulada, velada ou separada por outras indicações ou imagens.
+
+3.º - 3.1 - Nos maços de cigarros, além da advertência geral prevista no número anterior, a outra grande superfície deve apresentar advertências específicas, que constam da lista anexa ao presente diploma e que alternarão de modo a aparecerem numa quantidade igual de unidades de embalagem, com uma tolerância de 5% para mais ou para menos.
+
+3.2 - Numa das faces laterais, os maços devem apresentar as menções dos teores de alcatrão e nicotina, medidos e verificados segundo as normas referidas no n.º 6.º deste diploma.
+
+3.3 - As advertências e menções referidas nos n.os 3.1 e 3.2 devem:
+
+a) Ser obrigatoriamente impressas;
+
+b) Ser escritas em caracteres facilmente legíveis, sobre fundo contrastante;
+
+c) Ser redigidas em língua portuguesa;
+
+d) Ocupar pelo menos 4% da superfície em que estão inseridas.
+
+3.4 - As advertências a inserir nas duas grandes superfícies dos maços de tabaco devem ainda:
+
+a) Ser impressas a corpo «negro»;
+
+b) Ser colocadas em local onde não possam ficar danificadas com a abertura do maço;
+
+c) Não ser colocadas na folha transparente nem em qualquer outro papel de invólucro exterior da embalagem.
+
+4.º Sem prejuízo do disposto na norma transitória do n.º 10.3, o teor de alcatrão dos cigarros comercializados em território nacional não pode exceder:
+
+a) 20 mg por cigarro até 31 de Dezembro de 1992;
+
+b) 15 mg por cigarro a partir de 31 de Dezembro de 1992;
+
+c) 12 mg por cigarro a partir de 31 de Dezembro de 1997.
+
+5.º - O teor de nicotina por cigarro a comercializar em território nacional não pode exceder:
+
+a) 1,5 mg até 31 de Dezembro de 1992;
+
+b) 1,3 mg a partir de 31 de Dezembro de 1992.
+
+6.º O teor de alcatrão e de nicotina dos cigarros é medido segundo as normas ISO 4387 e 3400 e verificado segundo a norma ISO 8243.
+
+7.º Os produtores e importadores de produtos do tabaco devem enviar anualmente, até ao dia 30 de Setembro, ao Instituto Nacional de Defesa do Consumidor a lista dos teores de condensado e nicotina dos cigarros comercializados em território nacional).
+
+8.º Compete ao Instituto Nacional de Defesa do Consumidor, nos termos da lei, assegurar e promover as acções necessárias ao cumprimento do disposto nesta portaria, ouvido, designadamente, o Conselho de Prevenção do Tabagismo e socorrendo-se, para o efeito, da colaboração de serviços e entidades habilitados.
+
+9.º São revogados:
+
+a) A Portaria n.º 388/88, de 17 de Junho;
+
+b) A Portaria n.º 403/90, de 29 de Maio;
+
+c) O Despacho Normativo n.º 29/89, de 10 de Março.
+
+10.º - 10.1 - A presente portaria entra em vigor 90 dias após a sua publicação, sem prejuízo do disposto nos números seguintes.
+
+10.2 - Os produtos cuja rotulagem não esteja conforme com o disposto no presente diploma que sejam manufacturados até 31 de Dezembro de 1991 podem ser comercializados:
+
+a) Até 31 de Dezembro de 1992, os cigarros;
+
+b) Até 31 de Dezembro de 1993, os restantes produtos do tabaco.
+
+10.3 - Os produtos que não respeitem os limites estabelecidos no n.º 4.º desta portaria nas datas aí fixadas podem ainda ser comercializados nos dois anos posteriores a essas datas.
+
+Ministérios da Saúde e do Ambiente e Recursos Naturais.
+
+Assinada em 18 de Julho de 1991.
+
+O Ministro da Saúde, Arlindo Gomes de Carvalho. - O Ministro do Ambiente e Recursos Naturais, Carlos Alberto Diogo Soares Borrego.
+
+## ANEXO — Lista de advertências específicas a apor nos maços de cigarros (n.º 3.1)
+
+Fumar provoca o cancro.
+
+Fumar provoca doenças cardiovasculares.
+
+Fumar provoca doenças mortais.
+
+Proteja as crianças; não as obrigue a respirar o seu fumo.
+
+Fumar pode matar.
+
+Os fumadores morrem prematuramente.

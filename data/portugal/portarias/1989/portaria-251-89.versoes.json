@@ -1,0 +1,1337 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:615194:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1989-865325422",
+ "dre_path": "/dr/detalhe/portaria/251-1989-615194",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1989-04-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "865420375",
+    "865420376",
+    "865420377",
+    "865420378",
+    "865420379",
+    "865420380",
+    "865420381",
+    "865420382",
+    "865420383",
+    "865420384",
+    "865420385",
+    "865420386",
+    "865420387",
+    "865420388",
+    "865420389",
+    "865420390",
+    "865420391",
+    "865420392",
+    "865420393",
+    "865420394",
+    "865420395",
+    "865420396",
+    "865420397",
+    "865420398",
+    "865420399",
+    "865420400",
+    "865420401",
+    "865420402",
+    "865420403",
+    "865420404",
+    "865420405",
+    "865420406",
+    "865420407",
+    "865420408",
+    "865420409",
+    "865420410",
+    "865420411",
+    "865420412",
+    "865420413",
+    "865420414",
+    "865420415",
+    "865420416",
+    "865420417",
+    "865420418",
+    "865420419",
+    "865420420",
+    "865420421",
+    "865420422",
+    "865420423",
+    "865420424",
+    "865420425",
+    "865420426",
+    "865420427",
+    "865420428",
+    "865420429",
+    "865420430",
+    "865420431",
+    "865420432",
+    "865420433",
+    "865420434",
+    "865420435",
+    "865420436",
+    "865420437",
+    "865420438",
+    "865420439",
+    "865420440",
+    "865420441",
+    "865420442",
+    "865420443",
+    "865420444",
+    "865420445",
+    "865420446",
+    "865420447",
+    "865420448",
+    "865420449",
+    "865420450",
+    "865420451",
+    "865420452"
+   ]
+  },
+  {
+   "date": "1989-07-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:619924:por",
+     "title": "Portaria n.º 570/89",
+     "published": "1989-07-22",
+     "dre_path": "/dr/detalhe/portaria/570-1989-619924"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "865420375",
+    "865420376",
+    "865420377",
+    "865420378",
+    "865420379",
+    "865420380",
+    "865420381",
+    "865420382",
+    "865420383",
+    "865420384",
+    "865420385",
+    "865420386",
+    "865420387",
+    "865420388",
+    "865420389",
+    "865420390",
+    "865420391",
+    "865420392",
+    "865420393",
+    "865420394",
+    "865421332",
+    "865420396",
+    "865420397",
+    "865420398",
+    "865420399",
+    "865420400",
+    "865420401",
+    "865420402",
+    "865420403",
+    "865420404",
+    "865420405",
+    "865420406",
+    "865420407",
+    "865420408",
+    "865420409",
+    "865420410",
+    "865420411",
+    "865420412",
+    "865420413",
+    "865420414",
+    "865420415",
+    "865420416",
+    "865420417",
+    "865420418",
+    "865420419",
+    "865420420",
+    "865420421",
+    "865420422",
+    "865420423",
+    "865420424",
+    "865420425",
+    "865420426",
+    "865420427",
+    "865420428",
+    "865420429",
+    "865420430",
+    "865420431",
+    "865420432",
+    "865420433",
+    "865420434",
+    "865420435",
+    "865420436",
+    "865420437",
+    "865420438",
+    "865420439",
+    "865420440",
+    "865420441",
+    "865420442",
+    "865420443",
+    "865420444",
+    "865420445",
+    "865420446",
+    "865420447",
+    "865420448",
+    "865420449",
+    "865420450",
+    "865420451",
+    "865420452"
+   ]
+  },
+  {
+   "date": "1991-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:288646:por",
+     "title": "Portaria n.º 1052/91",
+     "published": "1991-10-15",
+     "dre_path": "/dr/detalhe/portaria/1052-1991-288646"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 51.º",
+    "Altera Artigo 52.º"
+   ],
+   "fragments": [
+    "865420375",
+    "865420376",
+    "865420377",
+    "865420378",
+    "865420379",
+    "865421335",
+    "865420381",
+    "865421336",
+    "865421337",
+    "865420384",
+    "865420385",
+    "865420386",
+    "865420387",
+    "865420388",
+    "865420389",
+    "865420390",
+    "865420391",
+    "865420392",
+    "865420393",
+    "865420394",
+    "865421332",
+    "865421338",
+    "865420397",
+    "865420398",
+    "865420399",
+    "865420400",
+    "865420401",
+    "865420402",
+    "865420403",
+    "865420404",
+    "865420405",
+    "865420406",
+    "865421339",
+    "865421347",
+    "865421348",
+    "865421349",
+    "865420411",
+    "865421350",
+    "865421351",
+    "865421340",
+    "865421333",
+    "865421334",
+    "865420417",
+    "865420418",
+    "865420419",
+    "865420420",
+    "865420421",
+    "865420422",
+    "865420423",
+    "865420424",
+    "865420425",
+    "865420426",
+    "865420427",
+    "865421341",
+    "865420429",
+    "865421342",
+    "865421343",
+    "865420432",
+    "865420433",
+    "865420434",
+    "865420435",
+    "865420436",
+    "865420437",
+    "865420438",
+    "865420439",
+    "865421344",
+    "865420441",
+    "865421345",
+    "865421346",
+    "865420444",
+    "865420445",
+    "865420446",
+    "865420447",
+    "865420448",
+    "865420449",
+    "865420450",
+    "865420451",
+    "865420452"
+   ]
+  },
+  {
+   "date": "1994-07-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:509199:por",
+     "title": "Decreto-Lei n.º 12/94",
+     "published": "1994-01-15",
+     "dre_path": "/dr/detalhe/decreto-lei/12-1994-509199"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 58.º"
+   ],
+   "fragments": [
+    "865420375",
+    "865420376",
+    "865420377",
+    "865420378",
+    "865420379",
+    "865421335",
+    "865420381",
+    "865421336",
+    "865421337",
+    "865420384",
+    "865420385",
+    "865420386",
+    "865420387",
+    "865420388",
+    "865420389",
+    "865420390",
+    "865420391",
+    "865420392",
+    "865420393",
+    "865420394",
+    "865421332",
+    "865421338",
+    "865420397",
+    "865420398",
+    "865420399",
+    "865420400",
+    "865420401",
+    "865420402",
+    "865420403",
+    "865420404",
+    "865420405",
+    "865420406",
+    "865421339",
+    "865421347",
+    "865421348",
+    "865421349",
+    "865420411",
+    "865421350",
+    "865421351",
+    "865421340",
+    "865421333",
+    "865421334",
+    "865420417",
+    "865420418",
+    "865420419",
+    "865420420",
+    "865420421",
+    "865420422",
+    "865420423",
+    "865420424",
+    "865420425",
+    "865420426",
+    "865420427",
+    "865421341",
+    "865420429",
+    "865421342",
+    "865421343",
+    "865420432",
+    "865420433",
+    "865420434",
+    "865420435",
+    "865420436",
+    "865420437",
+    "865420438",
+    "865420439",
+    "865421344",
+    "865420441",
+    "865421345",
+    "865421346",
+    "865420444",
+    "865420445",
+    "865420446",
+    "865420447",
+    "865420448",
+    "865420449",
+    "865420450",
+    "865421352",
+    "865420452"
+   ]
+  },
+  {
+   "date": "1995-04-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223582:por",
+     "title": "Portaria n.º 346/95",
+     "published": "1995-04-21",
+     "dre_path": "/dr/detalhe/portaria/346-1995-223582"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "865420375",
+    "865420376",
+    "865420377",
+    "865420378",
+    "865420379",
+    "865421335",
+    "865420381",
+    "865421336",
+    "865421337",
+    "865420384",
+    "865420385",
+    "865420386",
+    "865420387",
+    "865420388",
+    "865420389",
+    "865420390",
+    "865420391",
+    "865420392",
+    "865420393",
+    "868689425",
+    "865421332",
+    "865421338",
+    "865420397",
+    "865420398",
+    "865420399",
+    "865420400",
+    "865420401",
+    "865420402",
+    "865420403",
+    "865420404",
+    "865420405",
+    "865420406",
+    "865421339",
+    "865421347",
+    "865421348",
+    "865421349",
+    "865420411",
+    "865421350",
+    "865421351",
+    "865421340",
+    "865421333",
+    "865421334",
+    "865420417",
+    "865420418",
+    "865420419",
+    "865420420",
+    "865420421",
+    "865420422",
+    "865420423",
+    "865420424",
+    "865420425",
+    "865420426",
+    "865420427",
+    "865421341",
+    "865420429",
+    "865421342",
+    "865421343",
+    "865420432",
+    "865420433",
+    "865420434",
+    "865420435",
+    "865420436",
+    "865420437",
+    "865420438",
+    "865420439",
+    "865421344",
+    "865420441",
+    "865421345",
+    "865421346",
+    "865420444",
+    "865420445",
+    "865420446",
+    "865420447",
+    "865420448",
+    "865420449",
+    "865420450",
+    "865421352",
+    "865420452"
+   ]
+  }
+ ],
+ "fragments": {
+  "865420375": {
+   "fragment_id": "865325423",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 251/89\n\nde 6 de Abril\n\nNos termos do artigo 23.º do Decreto-Lei n.º 104/89, de 6 de Abril, as funções e os requisitos de acesso às diversas categorias profissionais previstas no aludido diploma constarão de regulamento a aprovar por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.\n\nÉ a tal definição que se procede pela presente portaria, reconhecendo-se que a capacidade profissional deve ser condição básica da evolução profissional, em reflexo do esforço nacional que vem sendo desenvolvido no âmbito da formação profissional.\n\nAssim, nos termos do artigo 23.º do Decreto-Lei n.º 104/89, de 6 de Abril, manda o Governo, pelos Ministros da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações, o seguinte:\n\n1.º As funções e os requisitos de acesso às categorias profissionais dos marítimos, previstas no Decreto-Lei n.º 104/89, de 6 de Abril, são os que constam do regulamento anexo a esta portaria, que dela faz parte integrante.\n\n2.º A presente portaria entra em vigor no dia do início da vigência do Decreto-Lei n.º 104/89, de 6 de Abril.\n\nMinistérios da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 17 de Fevereiro de 1989.\n\nO Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.\n\nRegulamento anexo à Portaria n.º 251/89, de 6 de Abril"
+  },
+  "865420376": {
+   "fragment_id": "865325424",
+   "type": 8,
+   "heading": "Secção I — Pessoal do convés",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Pessoal do convés"
+  },
+  "865420377": {
+   "fragment_id": "865325425",
+   "type": 3,
+   "heading": "Subsecção I — Oficiais de pilotagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Oficiais de pilotagem"
+  },
+  "865420378": {
+   "fragment_id": "865325426",
+   "type": 11,
+   "heading": "Artigo 1.º — Capitão da marinha mercante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Capitão da marinha mercante\n\n1 - O capitão da marinha mercante pode exercer o comando de quaisquer embarcações, independentemente da tonelagem.\n\n2 - A categoria de capitão da marinha mercante será atribuída ao piloto-chefe que, após a obtenção desta categoria, prove ter dois anos de embarque.\n\n3 - Ao capitão da marinha mercante assiste o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção Internacional sobre Normas de Formação, de Certificação e de Serviço de Quartos para os Marítimos (STCW), para o desempenho das funções de comandante de navios de qualquer tonelagem, desde que:\n\na) Seja titular do certificado previsto no n.º 3 do artigo 2.º;\n\nb) Tenha efectuado os tirocínios estabelecidos no número anterior a bordo de embarcações da marinha do comércio."
+  },
+  "865420379": {
+   "fragment_id": "865325427",
+   "type": 11,
+   "heading": "Artigo 2.º — Piloto-chefe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Piloto-chefe\n\n1 - O piloto-chefe pode exercer as funções de:\n\na) Imediato de embarcações de qualquer tonelagem;\n\nb) Comandante de embarcações com menos de 5000 tAB, desde que tenha efectuado como imediato, quatro meses de embarque ou 700 horas de navegação, conforme se trate, respectivamente, de embarcações da marinha do comércio ou da marinha da pesca.\n\n2 - A categoria de piloto-chefe será atribuída ao piloto de 1.ª classe que, após a obtenção desta categoria, prove ter dois anos de embarque.\n\n3 - Ao piloto-chefe assiste o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de comandante de navios de qualquer tonelagem, sem prejuízo do disposto no n.º 1, quando embarque em navios de comércio nacionais, desde que:\n\na) Seja titular dos certificados previstos no n.º 4 do artigo 3.º;\n\nb) Tenha efectuado os tirocínios estabelecidos no número anterior a bordo de embarcações da marinha do comércio."
+  },
+  "865420380": {
+   "fragment_id": "865325428",
+   "type": 11,
+   "heading": "Artigo 3.º — Piloto de 1.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Piloto de 1.ª classe\n\n1 - O piloto de 1.ª classe pode exercer as funções de:\n\na) Primeiro-piloto de embarcações de qualquer tonelagem;\n\nb) Imediato de embarcações com menos de 5000 tAB;\n\nc) Comandante de embarcações com menos de 1600 tAB, desde que tenha efectuado como imediato quatro meses de embarque ou 900 horas de navegação, conforme se trate, respectivamente, de embarcações da marinha do comércio ou da marinha da pesca.\n\n2 - A categoria de piloto de 1.ª classe será atribuída ao piloto de 2.ª classe que, após a obtenção desta categoria, prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dezoito meses de embarque;\n\nb) Estar habilitado com o curso de actualização de pilotagem.\n\n3 - O requisito da alínea b) do número anterior é substituído pelo curso complementar de pilotagem da Escola Náutica Infante D. Henrique (ENIDH) para os pilotos de 2.ª classe habilitados com o curso geral de pilotagem da mesma Escola.\n\n4 - Ao piloto de 1.ª classe assiste o direito de requerer a passagem de certificados de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de imediato de navios de qualquer tonelagem e de comandante de embarcações com menos de 1600 tAB, sem prejuízo do disposto no n.º 1, quando embarque em navios de comércio nacionais, desde que:\n\na) Seja titular dos certificados previstos no n.º 3 do artigo 4.º;\n\nb) Tenha efectuado os tirocínios estabelecidos no n.º 2 a bordo de embarcações da marinha do comércio."
+  },
+  "865420381": {
+   "fragment_id": "865325429",
+   "type": 11,
+   "heading": "Artigo 4.º — Piloto de 2.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Piloto de 2.ª classe\n\n1 - O piloto de 2.ª classe pode exercer as funções de:\n\na) Segundo-piloto de embarcações de qualquer tonelagem;\n\nb) Primeiro-piloto de embarcações com menos de 5000 tAB;\n\nc) Imediato de embarcações com menos de 1600 tAB;\n\nd) Comandante de embarcações da navegação costeira nacional (NCN) com menos de 500 tAB e de embarcações de pesca até 1000 tAB, desde que tenha efectuado como imediato três meses de embarque ou 1100 horas de navegação, conforme se trate, respectivamente, de embarcações da marinha do comércio ou da marinha da pesca.\n\n2 - A categoria de piloto de 2.ª classe será atribuída ao piloto de 3.ª classe que, após a obtenção desta categoria, prove ter dezoito meses de embarque.\n\n3 - Ao piloto de 2.ª classe assiste o direito de requerer a passagem de certificados de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de imediato de embarcações com menos de 1600 tAB e de comandante de embarcações da NCN com menos de 1600 tAB, sem prejuízo do disposto no n.º 1, quando embarque em navios de comércio nacionais, desde que:\n\na) Seja titular do certificado previsto no n.º 3 do artigo 5.º;\n\nb) Tenha efectuado os tirocínios estabelecidos no número anterior a bordo de embarcações da marinha do comércio."
+  },
+  "865420382": {
+   "fragment_id": "865325430",
+   "type": 11,
+   "heading": "Artigo 5.º — Piloto de 3.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Piloto de 3.ª classe\n\n1 - O piloto de 3.ª classe pode exercer as funções de:\n\na) Terceiro-piloto de embarcações de qualquer tonelagem;\n\nb) Segundo-piloto de embarcações com menos de 5000 tAB;\n\nc) Primeiro-piloto de embarcações com menos de 1600 tAB;\n\nd) Imediato de embarcações de pesca até 1000 tAB;\n\ne) Comandante de embarcações de pesca até 700 tAB, desde que tenha efectuado 1300 horas de navegação como imediato nesse tipo de embarcações.\n\n2 - A categoria de piloto de 3.ª classe será atribuída ao indivíduo que prove estar habilitado com o curso superior de pilotagem e poderá ser atribuída ao praticante de piloto que prove ter um ano de embarque.\n\n3 - Ao piloto de 3.ª classe assiste o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de oficial chefe de quarto de navegação, desde que tenha efectuado os tirocínios estabelecidos no número anterior a bordo de embarcações da marinha do comércio."
+  },
+  "865420383": {
+   "fragment_id": "865325431",
+   "type": 11,
+   "heading": "Artigo 6.º — Praticante de piloto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Praticante de piloto\n\n1 - O praticante de piloto desempenha a bordo serviços compatíveis com a sua categoria.\n\n2 - Os serviços a desempenhar destinam-se a complementar, com a prática, a formação teórica adquirida no curso geral de pilotagem da ENIDH, sendo desempenhados sob a responsabilidade de um oficial de pilotagem de categoria superior.\n\n3 - A categoria de praticante de piloto será atribuída ao indivíduo que prove estar habilitado com o curso geral referido no número anterior."
+  },
+  "865420384": {
+   "fragment_id": "865325432",
+   "type": 11,
+   "heading": "Artigo 7.º — Capitão pescador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Capitão pescador\n\n1 - O capitão pescador pode exercer o comando de embarcações de pesca de qualquer tonelagem.\n\n2 - A categoria de capitão pescador será atribuída ao oficial de pilotagem, de categoria não inferior a piloto de 3.ª classe, que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dois anos de embarque em embarcações de pesca do largo;\n\nb) Ter 3600 horas de navegação, das quais 2000 como imediato;\n\nc) Estar habilitado com o curso de especialização para capitão pescador.\n\n3 - A categoria de capitão pescador pode ainda ser atribuída ao piloto pescador que, além dos requisitos enumerados nas alíneas do número anterior, possua como habilitações literárias mínimas o 12.º ano de escolaridade."
+  },
+  "865420385": {
+   "fragment_id": "865325433",
+   "type": 11,
+   "heading": "Artigo 8.º — Piloto pescador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Piloto pescador\n\n1 - O piloto pescador pode exercer, em embarcações de pesca, as funções de:\n\na) Imediato ou piloto de embarcações de qualquer tonelagem;\n\nb) Comandante de embarcações até 1000 tAB.\n\n2 - A categoria de piloto pescador será atribuída ao mestre do largo pescador que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dois anos de embarque após a obtenção da categoria de mestre do largo pescador;\n\nb) Ter 3600 horas de navegação;\n\nc) Estar habilitado com o curso de qualificação para piloto pescador."
+  },
+  "865420386": {
+   "fragment_id": "865325434",
+   "type": 3,
+   "heading": "Subsecção II — Mestrança e marinhagem do comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Mestrança e marinhagem do comércio"
+  },
+  "865420387": {
+   "fragment_id": "865325435",
+   "type": 11,
+   "heading": "Artigo 9.º — Mestre costeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Mestre costeiro\n\n1 - O mestre costeiro pode exercer as funções de:\n\na) Mestre de embarcações da NCN com menos de 200 tAB;\n\nb) Mestre de embarcações do tráfego local (TL), rebocadores locais ou embarcações auxiliares locais de qualquer tonelagem.\n\n2 - A categoria de mestre costeiro será atribuída ao contramestre que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dois anos de embarque em embarcações de comércio, rebocadores ou embarcações auxiliares, com excepção de embarcações do TL, rebocadores locais e embarcações auxiliares locais, devendo este tempo de embarque incluir ou seis meses de embarque em embarcações de navegação costeira, rebocadores costeiros ou embarcações auxiliares costeiras ou 500 horas de prática de serviço de chefe de quarto em navegação costeira, sob a responsabilidade de um oficial, em embarcações de cabotagem ou de longo curso;\n\nb) Estar habilitado com o curso de promoção para mestre costeiro.\n\n3 - A categoria de mestre costeiro confere ao respectivo titular o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de mestre de embarcações da NCN com menos de 200 tAB.\n\n4 - O mestre costeiro a quem esteja cometido o governo de um rebocador local com menos de 300 tAB poderá, em casos excepcionais e desde que autorizado pelo capitão do porto, governar a mesma embarcação na área da NCN."
+  },
+  "865420388": {
+   "fragment_id": "865325436",
+   "type": 11,
+   "heading": "Artigo 10.º — Contramestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contramestre\n\n1 - O contramestre pode exercer as funções de:\n\na) Chefe de quarto de navegação de embarcações da NCN com menos de 200 tAB em que seja contramestre;\n\nb) As normalmente atribuídas a esta categoria em embarcações de comércio, rebocadores e embarcações auxiliares, com excepção de embarcações do TL, rebocadores locais e embarcações auxiliares locais.\n\n2 - A categoria de contramestre será atribuída ao marinheiro de 1.ª classe que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter três anos de embarque nas embarcações referidas no número anterior;\n\nb) Estar habilitado com o curso de promoção para contramestre.\n\n3 - A categoria de contramestre confere ao respectivo titular o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de chefe de quarto de navegação em embarcações da NCN com menos de 200 tAB."
+  },
+  "865420389": {
+   "fragment_id": "865325437",
+   "type": 11,
+   "heading": "Artigo 11.º — Bombeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Bombeiro\n\n1 - Ao bombeiro compete a condução, manutenção e reparação de bombas de carga e respectivos circuitos de encanamentos.\n\n2 - A categoria de bombeiro será atribuída ao marinheiro de 1.ª classe ou ao marinheiro motorista que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dois anos de embarque em navios-tanques;\n\nb) Estar habilitado com o curso de preparação de curta duração para bombeiro."
+  },
+  "865420390": {
+   "fragment_id": "865325438",
+   "type": 11,
+   "heading": "Artigo 12.º — Marinheiro de 1.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Marinheiro de 1.ª classe\n\n1 - Ao marinheiro de 1.ª classe compete executar as tarefas inerentes ao serviço de convés e ao serviço de quartos, a navegar ou em porto.\n\n2 - A categoria de marinheiro de 1.ª classe será atribuída ao marinheiro de 2.ª classe que prove ter dois anos de embarque em embarcações de comércio, rebocadores ou embarcações auxiliares, com excepção de embarcações do TL, rebocadores locais e embarcações auxiliares locais.\n\n3 - O marinheiro de 1.ª classe poderá requerer a passagem do documento oficial, nos termos e para os efeitos da Convenção STCW, de qualificação como marítimo da mestrança e marinhagem habilitado para o serviço de quartos de navegação, desde que prove ter exercido funções relacionadas com o serviço de quartos de navegação durante um período mínimo de seis meses nas embarcações referidas no número anterior.\n\n4 - Os marítimos que, nos termos do n.º 4 do artigo 13.º, adquiram a categoria de marinheiro de 2.ª classe só poderão ascender à categoria de marinheiro de 1.ª classe após provarem ter, além dos requisitos mencionados no n.º 2, o curso de formação para marinheiro."
+  },
+  "865420391": {
+   "fragment_id": "865325439",
+   "type": 11,
+   "heading": "Artigo 13.º — Marinheiro de 2.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Marinheiro de 2.ª classe\n\n1 - Ao marinheiro de 2.ª classe compete executar as tarefas inerentes ao serviço de convés e ao serviço de quartos, a navegar ou em porto, subordinadas ao nível da sua competência técnica em embarcações de comércio, rebocadores e embarcações auxiliares.\n\n2 - A categoria de marinheiro de 2.ª classe será atribuída ao indivíduo que prove estar habilitado com o curso de formação para marinheiro.\n\n3 - O marinheiro de 2.ª classe poderá requerer a passagem do documento oficial, nos termos e para os efeitos da Convenção STCW, de qualificação como marítimo da mestrança e marinhagam habilitado para o serviço de quartos de navegação, desde que prove ter exercido funções relacionadas com o serviço de quartos de navegação durante um período mínimo de seis meses em embarcações de comércio, rebocadores ou embarcações auxiliares, com excepção das embarcações do TL, rebocadores locais e embarcações auxiliares locais.\n\n4 - Os marítimos que à data da entrada em vigor do presente diploma possuam as categorias de marinheiro de 2.ª classe do tráfego local e de ajudante de marinheiro ingressam na categoria de marinheiro de 2.ª classe.\n\n5 - Os marinheiros de 2.ª classe do tráfego local que, nos termos do número anterior, ingressem na categoria de marinheiro de 2.ª classe, enquanto não possuírem o curso de formação para marinheiro, só poderão exercer a sua actividade no TL, nos rebocadores locais e nas embarcações auxiliares locais, o que será averbado no registo e na cédula."
+  },
+  "865420392": {
+   "fragment_id": "865325440",
+   "type": 3,
+   "heading": "Subsecção III — Mestrança a marinhagem da pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Mestrança a marinhagem da pesca"
+  },
+  "865420393": {
+   "fragment_id": "865325441",
+   "type": 11,
+   "heading": "Artigo 14.º — Mestre do largo pescador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Mestre do largo pescador\n\n1 - O mestre do largo pescador pode exercer as funções de mestre de embarcações de pesca até 700 tAB, podendo operar sem limite de área.\n\n2 - A categoria de mestre do largo pescador será atribuída ao mestre costeiro pescador que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter um ano de embarque;\n\nb) Estar habilitado com o curso de qualificação para mestre do largo pescador.\n\n3 - Os marítimos que à data da entrada em vigor do presente diploma possuam a categoria de mestre do alto pescador, ingressam na categoria de mestre do largo pescador."
+  },
+  "865420394": {
+   "fragment_id": "865325442",
+   "type": 11,
+   "heading": "Artigo 15.º — Mestre costeiro pescador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Mestre costeiro pescador\n\n1 - O mestre costeiro pescador pode exercer as funções de mestre de embarcações de pesca até 250 tAB, desde que opere:\n\na) Para as embarcações registadas nos portos do continente:\n\n1) Na área limitada a norte pelo paralelo 48º N, a oeste pelo meridiano 14º W até ao paralelo 30º N e, a partir daí, meridiano 16º W, a sul pelo paralelo 25º N e a leste pela costa africana, linha que une Orão a Almeria, e costa europeia;\n\n2) Nos bancos Gorringe (Gettysburg), Josephine, Ampére, Seine e Dácia;\n\nb) Para as embarcações registadas nos portos da Região Autónoma da Madeira:\n\n1) Na área circunscrita pelo limite exterior da respectiva subárea da zona económica exclusiva;\n\n2) Nos bancos Gorringe (Gettysburg), Josephine e Dácia;\n\nc) Para as embarcações registadas nos portos da Região Autónoma dos Açores;\n\n1) Na área circunscrita pelo limite exterior da respectiva subárea da zona económica exclusiva;\n\n2) No banco Chaucer.\n\n2 - A categoria de mestre costeiro pescador será atribuída ao contramestre pescador que prove satisfazer cumulativamente:\n\na) Ter um ano de embarque;\n\nb) Estar habilitado com o curso de qualificação para mestre costeiro pescador."
+  },
+  "865420395": {
+   "fragment_id": "865325443",
+   "type": 11,
+   "heading": "Artigo 16.º — Contramestre pescador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contramestre pescador\n\n1 - O contramestre pescador pode exercer as funções de:\n\na) Mestre de embarcações de pesca costeira até 100 tAB, desde que opere:\n\n1) Para as embarcações registadas nos portos do continente, na área limitada a norte pelo paralelo 43º N, a oeste pelo meridiano 11º W, a sul pelo paralelo 36º N e a leste pela costa ibérica, e nos bancos Gorringe (Gettysburg), Josephine, Ampére, Seine e Dácia;\n\n2) Para as embarcações registadas nos portos das Regiões Autónomas da Madeira e dos Açores, nas áreas referidas nas alíneas b) e c) do n.º 1 do artigo anterior;\n\nb) Chefe de quarto de navegação de embarcações de pesca costeira e do largo de qualquer tonelagem.\n\n2 - A categoria de contramestre pescador será atribuída ao:\n\na) Arrais de pesca que prove satisfazer cumulativamente as seguintes condições:\n\n1) Ter cinco anos de embarque e a escolaridade obrigatória;\n\n2) Estar habilitado com o curso de qualificação para constramestre pescador;\n\nb) Marinheiro pescador que prove satisfazer cumulativamente as seguintes condições:\n\n1) Ter dois anos de embarque;\n\n2) Estar habilitado com o curso de qualificação para contramestre pescador."
+  },
+  "865420396": {
+   "fragment_id": "865325444",
+   "type": 11,
+   "heading": "Artigo 17.º — Arrais de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Arrais de pesca\n\n1 - O arrais de pesca pode exercer o governo de embarcações de pesca local de qualquer tonelagem ou de pesca costeira até 35 tAB, ficando limitado a operar na área de jurisdição da capitania do porto onde está inscrito e nas áreas de jurisdição das capitanias limítrofes.\n\n2 - O disposto no número anterior apenas será aplicado um ano após a data da entrada em vigor do presente diploma.\n\n3 - A categoria de arrais de pesca será atribuída ao:\n\na) Marinheiro pescador que prove ter dois anos de embarque em embarcações de pesca costeira ou local;\n\nb) Pescador que prove ter cinco anos de embarque e habilitações para o exercício da categoria que pretenda adquirir, mediante aprovação no curso de qualificação para arrais de pesca.\n\n4 - Os marítimos que à data da entrada em vigor do presente diploma possuam as categorias de arrais de pesca costeira e de arrais de pesca local ingressam na categoria de arrais de pesca.\n\n> Nota: [2.º, Portaria n.º 397/90 - Diário da República n.º 121/1990, Série I de 1990-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/397-1990-574920) O prazo fixado no n.º 2 do presente artigo, é alargado para três anos, a partir da data da entrada em vigor do presente diploma."
+  },
+  "865420397": {
+   "fragment_id": "865325445",
+   "type": 11,
+   "heading": "Artigo 18.º — Marinheiro pescador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Marinheiro pescador\n\n1 - Ao marinheiro pescador compete executar as tarefas inerentes ao serviço de convés nas embarcações de pesca, bem como as relacionadas com o pescado e com a conservação e manutenção das artes e instrumentos de pesca.\n\n2 - A categoria de marinheiro pescador será atribuída ao indivíduo que prove ter o curso de qualificação para marinheiro pescador."
+  },
+  "865420398": {
+   "fragment_id": "865325446",
+   "type": 11,
+   "heading": "Artigo 19.º — Pescador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pescador\n\n1 - Ao pescador compete executar as tarefas inerentes à captura, preparação e armazenagem do pescado, bem como efectuar serviços de conservação, beneficiação e limpeza dos navios e das artes e instrumentos de pesca.\n\n2 - A categoria de pescador será atribuída ao indivíduo que prove estar habilitado com o curso de iniciação adequado.\n\n3 - Os marítimos que à data da entrada em vigor do presente diploma possuam a categoria de moço pescador ingressam na categoria de pescador."
+  },
+  "865420399": {
+   "fragment_id": "865325447",
+   "type": 11,
+   "heading": "Artigo 20.º — Moliceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Moliceiro\n\nAs funções e os requisitos para atribuição da categoria de moliceiro são os estabelecidos em regulamento específico, a aprovar pelo Ministro da Agricultura, Pescas e Alimentação."
+  },
+  "865420400": {
+   "fragment_id": "865325448",
+   "type": 3,
+   "heading": "Subsecção IV — Mestrança e marinhagem do tráfego local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Mestrança e marinhagem do tráfego local"
+  },
+  "865420401": {
+   "fragment_id": "865325449",
+   "type": 11,
+   "heading": "Artigo 21.º — Mestre do tráfego local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Mestre do tráfego local\n\n1 - O mestre do tráfego local pode exercer o governo de embarcações do TL, rebocadores locais ou embarcações auxiliares locais que operem na área de jurisdição da capitania do porto onde for efectuado o tempo de embarque.\n\n2 - A área em que o mestre do tráfego local pode exercer a sua actividade será averbada no registo e na cédula.\n\n3 - A categoria de mestre do tráfego local será atribuída ao marinheiro do tráfego local ou ao marinheiro de 1.ª classe que prove satisfazer cumulativamente dois anos de embarque nas embarcações referidas no n.º 1 e o curso de promoção para mestre do tráfego local.\n\n4 - O governo de embarcações do TL com menos de 5 tAB poderá ser cometido ao marinheiro do tráfego local a quem o capitão do porto reconheça competência para o exercício das correspondentes funções, desde que não existam mestres do tráfego local interessados no governo da embarcação."
+  },
+  "865420402": {
+   "fragment_id": "865325450",
+   "type": 11,
+   "heading": "Artigo 22.º — Operador de gruas flutuantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Operador de gruas flutuantes\n\n1 - Ao operador de gruas flutuantes compete a manobra de aparelhos elevatórios e a conservação e reparação dos correspondentes aprestos.\n\n2 - À categoria de operador de gruas flutuantes será acrescentado o tipo de grua em que foi efectuada a prova prática do respectivo curso.\n\n3 - A categoria de operador de gruas flutuantes será atribuída:\n\na) Ao marinheiro de 2.ª classe, marinheiro do tráfego local ou marinheiro motorista que prove satisfazer cumulativamente dois anos de embarque em gruas flutuantes e o curso de preparação de curta duração para operador de gruas flutuantes;\n\nb) Ao indivíduo que prove satisfazer cumulativamente quatro anos de prática depois de adquirida a carteira profissional de grueiro e o curso de preparação de curta duração para operador de gruas flutuantes.\n\n4 - Os marítimos que à data da entrada em vigor do presente diploma possuam a categoria de operador de gruas flutuantes do tráfego local ingressam na categoria de operador de gruas flutuantes."
+  },
+  "865420403": {
+   "fragment_id": "865325451",
+   "type": 11,
+   "heading": "Artigo 23.º — Marinheiro do tráfego local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Marinheiro do tráfego local\n\n1 - Ao marinheiro do tráfego local compete executar as tarefas inerentes à secção do convés das embarcações do TL, rebocadores locais ou embarcações auxiliares locais.\n\n2 - A categoria de marinheiro do tráfego local será atribuída ao marinheiro de 2.ª classe que prove ter dois anos de embarque em embarcações do TL, rebocadores locais ou embarcações auxiliares locais.\n\n3 - Exceptuam-se do disposto no número anterior os marinheiros de 2.ª classe que não possuam o curso de formação para marinheiro, os quais só poderão ascender à categoria de marinheiro do tráfego local após a obtenção do referido curso.\n\n4 - Os marítimos que à data da entrada em vigor do presente diploma possuam a categoria de marinheiro de 1.ª classe do tráfego local ingressam na categoria de marinheiro do tráfego local.\n\n5 - Aos marítimos que à data da entrada em vigor do presente diploma possuam a categoria de marinheiro de 2.ª classe do tráfego local e ingressem na categoria de marinheiro de 2.ª classe ao abrigo do n.º 4 do artigo 13.º não é aplicável o disposto no n.º 3, podendo obter a categoria de marinheiro do tráfego local, com dispensa de curso de formação para marinheiro, quando provarem ter três anos de embarque nas embarcações referidas no n.º 1."
+  },
+  "865420404": {
+   "fragment_id": "865325452",
+   "type": 8,
+   "heading": "Secção II — Pessoal de máquinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Pessoal de máquinas"
+  },
+  "865420405": {
+   "fragment_id": "865325453",
+   "type": 3,
+   "heading": "Subsecção I — Oficiais maquinistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Oficiais maquinistas"
+  },
+  "865420406": {
+   "fragment_id": "865325454",
+   "type": 11,
+   "heading": "Artigo 24.º — Maquinista-chefe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Maquinista-chefe\n\n1 - O maquinista-chefe pode exercer as funções de chefe de máquinas de embarcações com máquinas propulsoras de qualquer potência.\n\n2 - A categoria de maquinista-chefe será atribuída ao maquinista de 1.ª classe que, depois de obtida esta categoria, prove ter dois anos de embarque em embarcações com máquinas propulsoras de potência não inferior a 3000 kW.\n\n3 - A categoria de maquinista-chefe confere ao respectivo titular o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de chefe de máquinas de embarcações com máquinas propulsoras de qualquer potência.\n\n4 - Os tirocínios referidos no n.º 2 deverão ser efectuados numa ou em ambas as modalidades de vapor e de motor, sendo a carta de maquinista-chefe passada:\n\na) Sem registo de restrição, desde que o maquinista de 1.ª classe possua, em cada uma das referidas modalidades, pelo menos seis meses de embarque em embarcações com máquinas propulsoras de potência não inferior a 750 kW após a obtenção da categoria de maquinista de 3.ª classe e três meses de embarque em embarcações com máquinas propulsoras de potência não inferior a 3000 kW após a obtenção da categoria de maquinista de 1.ª classe;\n\nb) Com registo de restrição, por apostilha, para a modalidade em falta, quando o maquinista de 1.ª classe não satisfaça o disposto na alínea anterior.\n\n5 - A apostilha referida na alínea b) do número anterior será anulada quando o maquinista-chefe fizer prova de que satisfaz os requisitos estabelecidos na alínea a) do número anterior."
+  },
+  "865420407": {
+   "fragment_id": "865325455",
+   "type": 11,
+   "heading": "Artigo 25.º — Maquinista de 1.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Maquinista de 1.ª classe\n\n1 - O maquinista de 1.ª classe pode exercer as funções de:\n\na) Primeiro-maquinista de embarcações com máquinas propulsoras de qualquer potência;\n\nb) Chefe de máquinas de embarcações com máquinas propulsoras de potência inferior a 3000 kW.\n\n2 - A categoria de maquinista de 1.ª classe será atribuída ao maquinista de 2.ª classe que, depois de obtida esta categoria, prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dezoito meses de embarque em embarcações com máquinas propulsoras de potência não inferior a 750 kW;\n\nb) Estar habilitado com o curso de actualização de máquinas marítimas.\n\n3 - A categoria de maquinista de 1.ª classe confere ao respectivo titular o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, como:\n\na) Segundo-maquinista de embarcações com máquinas propulsoras de qualquer potência;\n\nb) Chefe de máquinas de embarcações com máquinas propulsoras de potência inferior a 3000 kW.\n\n4 - Os tirocínios referidos no n.º 2 deverão ser efectuados numa ou em ambas as modalidades de vapor e de motor, sendo a carta de maquinista de 1.ª classe passada:\n\na) Sem registo de restrição, desde que o maquinista de 2.ª classe possua, em cada uma das referidas modalidades e em embarcações com máquinas propulsoras de potência não inferior a 750 kW, pelo menos três meses de embarque após a obtenção da categoria de maquinista de 3.ª classe e três meses de embarque após a obtenção da categoria de maquinista de 2.ª classe;\n\nb) Com registo de restrição, por apostilha, para a modalidade em falta, quando o maquinista de 2.ª classe não satisfaça o disposto na alínea anterior.\n\n5 - A apostilha referida na alínea b) do número anterior será anulada quando o maquinista de 1.ª classe fizer prova de que satisfaz os requisitos estabelecidos na alínea a) do número anterior.\n\n6 - O requisito da alínea b) do n.º 2 é substituído pelo curso complementar de máquinas marítimas da ENIDH para os maquinistas de 2.ª classe habilitados com o curso geral de máquinas marítimas da mesma Escola."
+  },
+  "865420408": {
+   "fragment_id": "865325456",
+   "type": 11,
+   "heading": "Artigo 26.º — Maquinista de 2.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Maquinista de 2.ª classe\n\n1 - O maquinista de 2.ª classe pode exercer as funções de:\n\na) Segundo-maquinista de embarcações com máquinas propulsoras de qualquer potência;\n\nb) Primeiro-maquinista de embarcações com máquinas propulsoras de potência inferior a 3000 kW;\n\nc) Chefe de máquinas de embarcações de pesca com máquinas propulsoras de potência inferior a 1500 kW.\n\n2 - A categoria de maquinista de 2.ª classe será atribuída ao maquinista de 3.ª classe que prove ter, depois de obtida esta categoria, dezoito meses de embarque em embarcações com máquinas propulsoras de potência não inferior a 750 kW.\n\n3 - A categoria de maquinista de 2.ª classe confere ao respectivo titular o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, como segundo-maquinista de embarcações com máquinas propulsoras de potência inferior a 3000 kW.\n\n4 - Os tirocínios referidos no n.º 2 deverão ser efectuados numa ou em ambas as modalidades de vapor e de motor, sendo a carta de maquinista de 2.ª classe passada:\n\na) Sem registo de restrição, quando o maquinista de 3.ª classe possua, em cada uma das referidas modalidades, três meses de embarque em embarcações com máquinas propulsoras de potência não inferior a 750 kW;\n\nb) Com registo de restrição, por apostilha, para a modalidade em falta, quando o maquinista de 3.ª classe não satisfaça o disposto na alínea anterior.\n\n5 - A apostilha referida na alínea b) do número anterior será anulada quando o maquinista de 2.ª classe fizer prova de que satisfaz os requisitos mencionados na alínea a) do mesmo número."
+  },
+  "865420409": {
+   "fragment_id": "865325457",
+   "type": 11,
+   "heading": "Artigo 27.º — Maquinista de 3.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Maquinista de 3.ª classe\n\n1 - O maquinista de 3.ª classe pode exercer as funções de:\n\na) Terceiro-maquinista de embarcações com máquinas propulsoras de qualquer potência;\n\nb) Segundo-maquinista de embarcações com máquinas propulsoras de potência inferior a 3000 kW;\n\nc) Primeiro-maquinista de embarcações de pesca com máquinas propulsoras de potência inferior a 2000 kW.\n\n2 - A categoria de maquinista de 3.ª classe será atribuída ao indivíduo que prove estar habilitado com o curso superior de máquinas marítimas e poderá ser atribuída ao praticante de maquinista que prove ter um ano de embarque.\n\n3 - A categoria de maquinista de 3.ª classe confere ao respectivo titular o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de oficial de máquinas chefe de quarto."
+  },
+  "865420410": {
+   "fragment_id": "865325458",
+   "type": 11,
+   "heading": "Artigo 28.º — Praticante de maquinista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Praticante de maquinista\n\n1 - O praticante de maquinista desempenha a bordo serviços compatíveis com a sua categoria.\n\n2 - Os serviços a desempenhar destinam-se a complementar, com a prática, a formação teórica adquirida no curso geral de máquinas marítimas da ENIDH, sendo desempenhados sob a responsabilidade de um oficial maquinista de categoria superior.\n\n3 - A categoria de praticante de maquinista será atribuída ao indivíduo que prove estar habilitado com o curso geral referido no número anterior."
+  },
+  "865420411": {
+   "fragment_id": "865325459",
+   "type": 3,
+   "heading": "Subsecção II — Mestrança e marinhagem de máquinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Mestrança e marinhagem de máquinas"
+  },
+  "865420412": {
+   "fragment_id": "865325460",
+   "type": 11,
+   "heading": "Artigo 29.º — Motorista prático de 1.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Motorista prático de 1.ª classe\n\n1 - O motorista prático de 1.ª classe pode exercer, no âmbito do TL, rebocadores locais, embarcações auxiliares locais e de pesca, as funções de:\n\na) Segundo-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 1500 kW;\n\nb) Primeiro-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 1250 kW;\n\nc) Chefe de máquinas de embarcações com máquinas propulsoras de combustão interna de potência inferior a 750 kW.\n\n2 - A categoria de motorista prático de 1.ª classe será atribuída ao motorista prático de 2.ª classe que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter três anos de embarque;\n\nb) Estar habilitado com o curso de qualificação para motorista prático de 1.ª classe.\n\n3 - A categoria de motorista prático de 1.ª classe poderá ser atribuída ao maquinista prático de 1.ª classe que prove, por exame, satisfazer as matérias do curso de qualificação para motorista prático de 1.ª classe."
+  },
+  "865420413": {
+   "fragment_id": "865325461",
+   "type": 11,
+   "heading": "Artigo 30.º — Motorista prático de 2.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Motorista prático de 2.ª classe\n\n1 - O motorista prático de 2.ª classe pode exercer, no âmbito do TL, rebocadores locais, embarcações auxiliares locais e de pesca, as funções de:\n\na) Segundo-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 1000 kW;\n\nb) Primeiro-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 750 kW;\n\nc) Chefe de máquinas de embarcações com máquinas propulsoras de combustão interna de potência inferior a 500 kW.\n\n2 - A categoria de motorista prático de 2.ª classe será atribuída ao motorista prático de 3.ª classe que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter três anos de embarque;\n\nb) Estar habilitado com o curso de qualificação para motorista prático de 2.ª classe.\n\n3 - A categoria de motorista prático de 2.ª classe poderá ser atribuída ao maquinista prático de 2.ª classe e ao mecânico de bordo que prove, por exame, satisfazer as matérias do curso de qualificação para motorista prático de 2.ª classe."
+  },
+  "865420414": {
+   "fragment_id": "865325462",
+   "type": 11,
+   "heading": "Artigo 31.º — Motorista prático de 3.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Motorista prático de 3.ª classe\n\n1 - O motorista prático de 3.ª classe pode exercer, no âmbito do TL, rebocadores locais, embarcações auxiliares locais e de pesca, as funções de:\n\na) Segundo-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 750 kW;\n\nb) Primeiro-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 500 kW;\n\nc) Chefe de máquinas de embarcações com máquinas propulsoras de combustão interna de potência inferior a 250 kW.\n\n2 - A categoria de motorista prático de 3.ª classe será atribuída ao marinheiro motorista ou ao ajudante de motorista que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter três anos de embarque;\n\nb) Estar habilitado com o curso de qualificação para motorista prático de 3.ª classe."
+  },
+  "865420415": {
+   "fragment_id": "865325463",
+   "type": 11,
+   "heading": "Artigo 32.º — Electricista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Electricista\n\n1 - Ao electricista compete a manutenção e reparação do material eléctrico, executando os serviços próprios da sua profissão.\n\n2 - A categoria de electricista será atribuída ao indivíduo que prove satisfazer cumulativamente as seguintes condições:\n\na) Estar habilitado com um curso de formação profissional para electricista ou seis anos de prática em serviço de electricidade após a obtenção de carteira profissional de electricista;\n\nb) Estar habilitado com o curso de preparação de curta duração para electricista.\n\n3 - O director-geral do Pessoal do Mar e Estudos Náuticos, ouvida a Escola de Mestrança e Marinhagem (EMM), determinará quais os cursos a considerar para efeitos da alínea a) do número anterior.\n\n4 - A categoria de electricista poderá ser atribuída ao:\n\na) Electricista de 2.ª classe que prove ter dois anos de embarque e o curso de preparação de curta duração para electricista;\n\nb) Ajudante de electricista que prove ter três anos de embarque e o curso de preparação de curta duração para electricista.\n\n5 - Os marítimos que à data da entrada em vigor do presente diploma possuam a categoria de electricista de 1.ª classe ingressam na categoria de electricista."
+  },
+  "865420416": {
+   "fragment_id": "865325464",
+   "type": 11,
+   "heading": "Artigo 33.º — Mecânico de bordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Mecânico de bordo\n\n1 - Ao mecânico de bordo compete a manutenção e reparação de material diverso, executando os serviços próprios das especialidades de torneiro, serralheiro-mecânico, soldador e canalizador.\n\n2 - A categoria de mecânico de bordo será atribuída ao indivíduo que prove satisfazer cumulativamente as seguintes condições:\n\na) Estar habilitado com um curso de formação profissional da área ocupacional de mecânica ou seis anos de prática oficinal como torneiro ou serralheiro mecânico;\n\nb) Estar habilitado com o curso de preparação de curta duração para mecânico de bordo.\n\n3 - O director-geral do Pessoal do Mar e Estudos Náuticos, ouvida a EMM, determinará quais os cursos a considerar para efeitos da alínea a) do número anterior.\n\n4 - A categoria de mecânico de bordo poderá ser atribuída ao artífice, ao ajudante de motorista e ao marinheiro motorista que possua o curso referido na alínea b) do n.º 2."
+  },
+  "865420417": {
+   "fragment_id": "865325465",
+   "type": 11,
+   "heading": "Artigo 34.º — Marinheiro motorista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Marinheiro motorista\n\n1 - Ao marinheiro motorista compete exercer em embarcações de comércio, rebocadores e embarcações auxiliares as funções normalmente atribuídas aos ajudantes de motorista e, quando as condições de trabalho a bordo o permitam, as funções atribuídas aos marinheiros de 2.ª classe.\n\n2 - A categoria de marinheiro motorista será atribuída ao indivíduo que prove satisfazer cumulativamente o curso de iniciação para ajudante de motorista ou o de formação para marinheiro e o curso de preparação de curta duração para marinheiro motorista."
+  },
+  "865420418": {
+   "fragment_id": "865325466",
+   "type": 11,
+   "heading": "Artigo 35.º — Ajudante de motorista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Ajudante de motorista\n\n1 - Ao ajudante de motorista compete exercer as funções inerentes ao serviço de máquinas e outros equipamentos mecânicos existentes a bordo, designadamente limpezas e acções de manutenção e reparação.\n\n2 - A categoria de ajudante de motorista será atribuída ao indivíduo que prove ter o curso de iniciação de ajudante de motorista.\n\n3 - A categoria de ajudante de motorista poderá ser atribuída ao marítimo com a categoria de fogueiro que prove, por exame, satisfazer as matérias do curso de iniciação para ajudante de motorista."
+  },
+  "865420419": {
+   "fragment_id": "865325467",
+   "type": 11,
+   "heading": "Artigo 36.º — Fogueiro e chegador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Fogueiro e chegador\n\nOs marítimos que à data da entrada em vigor do presente diploma possuam a categoria de chegador ingressam na categoria de fogueiro, sendo-lhes aplicável o regime estabelecido para tal categoria."
+  },
+  "865420420": {
+   "fragment_id": "865325468",
+   "type": 8,
+   "heading": "Secção III — Pessoal de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Pessoal de saúde"
+  },
+  "865420421": {
+   "fragment_id": "865325469",
+   "type": 3,
+   "heading": "Subsecção I — Oficiais médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Oficiais médicos"
+  },
+  "865420422": {
+   "fragment_id": "865325470",
+   "type": 11,
+   "heading": "Artigo 37.º — Médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Médico\n\n1 - Ao médico compete assegurar o serviço de saúde de embarcações de comércio ou de pesca.\n\n2 - A categoria de médico será atribuída ao indivíduo que prove satisfazer cumulativamente as seguintes condições:\n\na) Ser licenciado por uma das faculdades de medicina nacionais;\n\nb) Estar inscrito na Ordem dos Médicos."
+  },
+  "865420423": {
+   "fragment_id": "865325471",
+   "type": 3,
+   "heading": "Subsecção II — Mestrança de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Mestrança de saúde"
+  },
+  "865420424": {
+   "fragment_id": "865325472",
+   "type": 11,
+   "heading": "Artigo 38.º — Enfermeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Enfermeiro\n\n1 - Ao enfermeiro compete exercer as funções correspondentes a esta categoria, cabendo-lhe ainda nas embarcações sem médico a responsabilidade pelo serviço de saúde.\n\n2 - A categoria de enfermeiro será atribuída ao indivíduo que prove ter o curso de enfermagem geral ou equivalente legal, devidamente registado, de escola de enfermagem nacional."
+  },
+  "865420425": {
+   "fragment_id": "865325473",
+   "type": 8,
+   "heading": "Secção IV — Pessoal de câmara",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Pessoal de câmara"
+  },
+  "865420426": {
+   "fragment_id": "865325474",
+   "type": 3,
+   "heading": "Subsecção I — Oficiais comissários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Oficiais comissários"
+  },
+  "865420427": {
+   "fragment_id": "865420475",
+   "type": 11,
+   "heading": "Artigo 39.º — Comissário-chefe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Comissário-chefe\n\n1 - Ao comissário-chefe compete assegurar as funções de serviço do comissariado de embarcações de comércio, independentemente da lotação de passageiros.\n\n2 - A categoria de comissário-chefe será atribuída ao comissário de 1.ª classe que, depois de obtida esta categoria, prove ter dois anos de embarque."
+  },
+  "865420428": {
+   "fragment_id": "865420476",
+   "type": 11,
+   "heading": "Artigo 40.º — Comissário de 1.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Comissário de 1.ª classe\n\n1 - O comissário de 1.ª classe pode exercer as funções de:\n\na) Primeiro-comissário de embarcações de comércio, independentemente da lotação de passageiros;\n\nb) Chefe de comissariado de embarcações de comércio com lotação máxima de 250 passageiros.\n\n2 - A categoria de comissário de 1.ª classe será atribuída ao comissário de 2.ª classe que, depois de obtida esta categoria, prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dezoito meses de embarque;\n\nb) Estar habilitado com o curso de actualização de comissariado.\n\n3 - O requisito da alínea b) do número anterior é substituído pelo curso complementar de comissariado da ENIDH para os comissários de 2.ª classe habilitados com o curso geral de comissariado da mesma Escola."
+  },
+  "865420429": {
+   "fragment_id": "865420477",
+   "type": 11,
+   "heading": "Artigo 41.º — Comissário de 2.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Comissário de 2.ª classe\n\n1 - O comissário de 2.ª classe pode exercer as funções de:\n\na) Segundo-comissário de embarcações de comércio, independentemente da lotação de passageiros;\n\nb) Primeiro-comissário de embarcações de comércio com lotação máxima de 250 passageiros;\n\nc) Chefe de comissariado de embarcações de comércio com lotação máxima de 100 passageiros.\n\n2 - A categoria de comissário de 2.ª classe será atribuída ao comissário de 3.ª classe que, depois de obtida esta categoria, prove ter dezoito meses de embarque."
+  },
+  "865420430": {
+   "fragment_id": "865420478",
+   "type": 11,
+   "heading": "Artigo 42.º — Comissário de 3.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Comissário de 3.ª classe\n\n1 - O comissário de 3.ª classe pode exercer as funções de:\n\na) Terceiro-comissário de embarcações de comércio, independentemente da lotação de passageiros;\n\nb) Segundo-comissário de embarcações de comércio com lotação máxima de 250 passageiros;\n\nc) Primeiro-comissário de embarcações de comércio com lotação máxima de 100 passageiros;\n\nd) Chefe de comissariado de embarcações de comércio com lotação máxima de 50 passageiros.\n\n2 - A categoria de comissário de 3.ª classe será atribuída ao indivíduo que prove estar habilitado com o curso superior de comissariado e poderá ser atribuída ao praticante de comissário que prove ter um ano de embarque."
+  },
+  "865420431": {
+   "fragment_id": "865420479",
+   "type": 11,
+   "heading": "Artigo 43.º — Praticante de comissário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Praticante de comissário\n\n1 - O praticante de comissário desempenha a bordo serviços compatíveis com a sua categoria.\n\n2 - Os serviços a desempenhar destinam-se a complementar, com a prática, a formação teórica adquirida no curso geral de comissariado da ENIDH, sendo desempenhados sob a responsabilidade de um oficial comissário de categoria superior.\n\n3 - A categoria de praticante de comissário será atribuída ao indivíduo que prove estar habilitado com o curso geral referido no número anterior."
+  },
+  "865420432": {
+   "fragment_id": "865420480",
+   "type": 3,
+   "heading": "Subsecção II — Mestrança e marinhagem de câmaras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Mestrança e marinhagem de câmaras"
+  },
+  "865420433": {
+   "fragment_id": "865420481",
+   "type": 11,
+   "heading": "Artigo 44.º — Despenseiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Despenseiro\n\n1 - Ao despenseiro compete a responsabilidade de todos os serviços de câmaras, incluindo os de cozinha, paióis e despensas.\n\n2 - A categoria de despenseiro será atribuída ao empregado de câmaras ou ao cozinheiro que prove satisfazer cumultativamente as seguintes condições:\n\na) Ter dois anos de embarque;\n\nb) Estar habilitado com o curso de promoção para despenseiro."
+  },
+  "865420434": {
+   "fragment_id": "865420482",
+   "type": 11,
+   "heading": "Artigo 45.º — Empregado de câmaras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Empregado de câmaras\n\n1 - Ao empregado de câmaras compete executar as tarefas inerentes ao serviço de câmaras.\n\n2 - A categoria de empregado de câmaras será atribuída ao indivíduo que prove estar habilitado com o curso de formação para empregado de câmaras.\n\n3 - Os marítimos que à data da entrada em vigor do presente diploma possuam a categoria de empregado de câmaras ingressam na categoria de empregado de câmaras.\n\n4 - Os marítimos que à data da entrada em vigor do presente diploma possuam a categoria de ajudante de copa ingressam na categoria de empregado de câmaras."
+  },
+  "865420435": {
+   "fragment_id": "865420483",
+   "type": 11,
+   "heading": "Artigo 46.º — Cozinheiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Cozinheiro\n\n1 - Ao cozinheiro compete executar as tarefas inerentes aos serviços de cozinha.\n\n2 - A categoria de cozinheiro será atribuída ao indivíduo que prove estar habilitado com o curso de formação para cozinheiro.\n\n3 - Os marítimos que, nos termos do n.º 2 do artigo 47.º, adquiram a categoria de ajudante de cozinheiro só poderão ascender à categoria de cozinheiro após provarem estar habilitados com o curso de formação para cozinheiro.\n\n4 - Os marítimos que à data da entrada em vigor do presente diploma possuam as categorias de cozinheiro de 2.ª classe ou de cozinheiro de embarcações de pesca ingressam na categoria de cozinheiro."
+  },
+  "865420436": {
+   "fragment_id": "865420484",
+   "type": 11,
+   "heading": "Artigo 47.º — Ajudante de cozinheiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Ajudante de cozinheiro\n\n1 - Ao ajudante de cozinheiro compete colaborar com o cozinheiro nos serviços de cozinha.\n\n2 - A categoria de ajudante de cozinheiro será atribuída ao indivíduo que prove ter prática do serviço de cozinha de pelo menos um ano comprovada com atestado sujeito a verificação oficial."
+  },
+  "865420437": {
+   "fragment_id": "865420485",
+   "type": 8,
+   "heading": "Secção V — Pessoal de radiotecnia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Pessoal de radiotecnia"
+  },
+  "865420438": {
+   "fragment_id": "865420486",
+   "type": 3,
+   "heading": "Subsecção I — Oficiais radiotécnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Oficiais radiotécnicos"
+  },
+  "865420439": {
+   "fragment_id": "865420487",
+   "type": 11,
+   "heading": "Artigo 48.º — Radiotécnico-chefe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Radiotécnico-chefe\n\n1 - Ao radiatécnico-chefe compete, em embarcações de comércio e de pesca:\n\na) A chefia de estações de radiocomunicações de qualquer categoria;\n\nb) A responsabilidade pela assistência técnica dos equipamentos de radiocomunicações e de ajudas à navegação.\n\n2 - A categoria de radiotécnico-chefe será atribuída ao radiotécnico de 1.ª classe que, depois de adquirida esta categoria, prove ter dois anos de embarque.\n\n3 - A categoria de radiotécnico-chefe confere ao respetivo titular o direito de requerer a passagem de:\n\na) Um certificado de operador geral de radiocomuniações, nos termos do Regulamento das Radiocomunicações, anexo à Convenção Internacional de Telecomunicações (RR/CIT);\n\nb) Um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de oficial radiotécnico."
+  },
+  "865420440": {
+   "fragment_id": "865420488",
+   "type": 11,
+   "heading": "Artigo 49.º — Radiotécnico de 1.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Radiotécnico de 1.ª classe\n\n1 - O radiotécnico de 1.ª classe pode exercer as funções de primeiro - radiotécnico ou de chefe de radiotecnia de embarcações com estações de radiocomunicações de qualquer categoria.\n\n2 - A categoria de radiotécnico de 1.ª classe será atribuída ao radiotécnico de 2.ª classe que, depois de adquirir esta categoria, prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dezoito meses de embarque;\n\nb) Estar habilitado com o curso de actualização de radiotecnia.\n\n3 - O requisito da alínea b) do número anterior é substituído pelo curso complementar de radiotecnia da ENIDH para os radiotécnicos de 2.ª classe habilitados com o curso geral da mesma Escola.\n\n4 - A categoria de radiotécnico de 1.ª classe confere ao respectivo titular o direito de requerer a passagem de:\n\na) Um certificado de operador radiotelegrafista de 1.ª classe, nos termos do RR/CIT;\n\nb) Um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de oficial radiotécnico."
+  },
+  "865420441": {
+   "fragment_id": "865420489",
+   "type": 11,
+   "heading": "Artigo 50.º — Radiotécnico de 2.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Radiotécnico de 2.ª classe\n\n1 - O radiotécnico de 2.ª classe pode exercer as funções de:\n\na) Segundo-radiotécnico ou primeiro-radiotécnico de embarcações com estações de radiocomunicações de qualquer categoria;\n\nb) Chefe de radiotecnia de embarcações com estações de radio - comunicações de 2.ª, 3.ª e 4.ª categorias.\n\n2 - A categoria de radiotécnico de 2.ª classe será atribuída ao radiotécnico de 3.ª classe que, depois de adquirida esta categoria, prove ter dezoito meses de embarque.\n\n3 - A categoria de radiotécnico de 2.ª classe confere ao respectivo titular o direito de requerer a passagem de:\n\na) Um certificado de operador radiotelegrafista de 2.ª classe, nos termos do RR/CIT;\n\nb) Um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de oficial radiotécnico."
+  },
+  "865420442": {
+   "fragment_id": "865420490",
+   "type": 11,
+   "heading": "Artigo 51.º — Radiotécnico de 3.ª classe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Radiotécnico de 3.ª classe\n\n1 - O radiotécnico de 3.ª classe pode exercer as funções de:\n\na) Terceiro-radiotécnico, segundo-radiotécnico ou primeiro-radiotécnico de embarcações com estações de radiocomunicações, de qualquer categoria;\n\nb) Chefe de radiotecnia de embarcações com estações de radiocomunicações de 2.ª, 3.ª e 4.ª categorias.\n\n2 - A categoria de radiotécnico de 3.ª classe será atribuída ao indivíduo que prove estar habilitado com o curso superior de radiotecnia e ao praticante de radiotécnico que prove ter um ano de embarque.\n\n3 - A categoria de radiotécnico de 3.ª classe confere ao respectivo titular o direito de requerer a passagem de:\n\na) Um certificado de operador radiotelegrafista de 2.ª classe nos termos do RR/CIT;\n\nb) Um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de oficial radiotécnico."
+  },
+  "865420443": {
+   "fragment_id": "865420491",
+   "type": 11,
+   "heading": "Artigo 52.º — Praticante de radiotécnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Praticante de radiotécnico\n\n1 - O praticante de radiotécnico desempenha a bordo serviços compatíveis com a sua categoria.\n\n2 - Os serviços a desempenhar destinam-se a complementar, com a prática, a formação teórica adquirida no curso geral de radiotecnia da ENIDH, sendo desempenhados sob a responsabilidade de um oficial radiotécnico de categoria superior.\n\n3 - A categoria de praticante de radiotécnico será atribuída ao indivíduo que prove estar habilitado com o curso geral referido no número anterior."
+  },
+  "865420444": {
+   "fragment_id": "865420492",
+   "type": 3,
+   "heading": "Subsecção II — Mestrança de radiotecnia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Mestrança de radiotecnia"
+  },
+  "865420445": {
+   "fragment_id": "865420493",
+   "type": 11,
+   "heading": "Artigo 53.º — Radiotelegrafista prático da classe A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Radiotelegrafista prático da classe A\n\n1 - O radiotelegrafista prático da classe A pode exercer as funções de chefe de radiotelegrafia em embarcações dotadas de instalação radiotelegráfica não obrigatória.\n\n2 - A categoria de radiotelegrafista prático da classe A confere ao respectivo titular o direito de requerer a passagem de um certificado de operador radiotelegrafista de 2.ª classe, nos termos do RR/CIT.\n\n3 - Na categoria de radiotelegrafista prático da classe A não são permitidas novas inscrições, salvo nos casos de progressão na carreira dos actuais radiotelegrafistas práticos da classe B.\n\n4 - A extinção desta categoria terá lugar quando, para todos os marítimos que a possuam à data da entrada em vigor do presente diploma ou a ela ascendam nos termos do n.º 3, se verifique o cancelamento da inscrição."
+  },
+  "865420446": {
+   "fragment_id": "865420494",
+   "type": 11,
+   "heading": "Artigo 54.º — Radiotelegrafista prático da classe B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Radiotelegrafista prático da classe B\n\n1 - O radiotelegrafista prático da classe B pode exercer, em embarcações dotadas de instalação radiotelegráfica não obrigatória, as funções de:\n\na) Segundo-radiotelegrafista ou primeiro-radiotelegrafista de estações de radiocomunicações de qualquer categoria;\n\nb) Chefe de radiotelegrafia de estações de radiocomunicações de 4.ª categoria.\n\n2 - A categoria de radiotelegrafista prático da classe B confere ao respectivo titular o direito de requerer a passagem de um certificado especial de operador radiotelegrafista, nos termos do RR/CIT, o qual poderá ser de uma das seguintes modalidades:\n\na) Com a validade de um ano, renovável por períodos iguais, desde que requerido no prazo de um ano a contar da data de caducidade;\n\nb) Sem prazo de validade, desde que o marítimo prove ter um total de três anos de embarque no período de sete anos imediatamente anteriores à data em que o certificado é requerido.\n\n3 - A não renovação do certificado especial referido na alínea a) do número anterior dentro do prazo nele estipulado determina o cancelamento da inscrição do radiotelegrafista prático da classe B, nos termos da alínea c) do n.º 2 do artigo 9.º do Decreto-Lei n.º 104/89, de 6 de Abril.\n\n4 - Na categoria de radiotelegrafista prático da classe B não são permitidas novas inscrições.\n\n5 - A extinção desta categoria terá lugar quando, para todos os marítimos que a possuam à data da entrada em vigor do presente diploma, se verifique o cancelamento da inscrição."
+  },
+  "865420447": {
+   "fragment_id": "865420495",
+   "type": 8,
+   "heading": "Secção VI — Pessoal auxiliar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Pessoal auxiliar"
+  },
+  "865420448": {
+   "fragment_id": "865420496",
+   "type": 11,
+   "heading": "Artigo 55.º — Superintendente da marinha mercante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Superintendente da marinha mercante\n\n1 - Ao superintendente da marinha mercante compete colaborar nos serviços das empresas armadoras e afins, quer em terra quer a bordo.\n\n2 - A categoria de superintendente da marinha mercante será atribuída ao oficial que prove ter uma das seguintes categorias: capitão da marinha mercante, piloto-chefe, capitão pescador, maquinista-chefe, comissário-chefe e radiotécnico-chefe.\n\n3 - O superintendente da marinha mercante que coordenar e controlar as tarefas de dois ou mais superintendentes terá a designação de superintendente-chefe."
+  },
+  "865420449": {
+   "fragment_id": "865420497",
+   "type": 11,
+   "heading": "Artigo 56.º — Mestre encarregado do tráfego local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Mestre encarregado do tráfego local\n\n1 - Ao mestre encarregado do tráfego local compete exercer em terra funções de controlador dos serviços ligados à actividade das embarcações do tráfego local.\n\n2 - A categoria de mestre encarregado do tráfego local será atribuída ao marítimo que prove ter a categoria de mestre do tráfego local."
+  },
+  "865420450": {
+   "fragment_id": "865420498",
+   "type": 11,
+   "heading": "Artigo 57.º — Vigia da marinha mercante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Vigia da marinha mercante\n\n1 - Ao vigia da marinha mercante compete garantir, a bordo de embarcações surtas em porto e sob a responsabilidade do comandante ou do mestre, a segurança da embarcação e a segurança portuária.\n\n2 - A categoria de vigia da marinha mercante será atribuída ao marítimo que prove ter uma das seguintes categorias: mestre costeiro, contramestre, marinheiro de 1.ª classe, marinheiro de 2.ª classe, mestre costeiro pescador, contramestre pescador, arrais de pesca, marinheiro pescador, pescador, mestre do tráfego local, marinheiro do tráfego local e marinheiro motorista."
+  },
+  "865420451": {
+   "fragment_id": "865420499",
+   "type": 11,
+   "heading": "Artigo 58.º — Mergulhador de 1.ª, 2.ª e 3.ª classes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Mergulhador de 1.ª, 2.ª e 3.ª classes\n\nOs requisitos para atribuição das categorias de mergulhador de 1.ª, 2.ª e 3.ª classes e as respectivas funções são os estabelecidos no regulamento específico da actividade."
+  },
+  "865420452": {
+   "fragment_id": "865420500",
+   "type": 11,
+   "heading": "Artigo 59.º — Apanhador de algas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Apanhador de algas\n\nOs requisitos para a atribuição da categoria de apanhador de algas e as respectivas funções são os estabelecidos no regulamento específico da actividade."
+  },
+  "865421332": {
+   "fragment_id": "865325443",
+   "type": 11,
+   "heading": "Artigo 16.º — Contramestre pescador",
+   "in_force_from": "1989-07-22",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 570/89 - Diário da República n.º 167/1989, Série I de 1989-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/570-1989-619924), em vigor a partir de 1989-07-22"
+   ],
+   "markdown": "###### Artigo 16.º — Contramestre pescador\n\n1 - O contramestre pescador pode exercer as funções de:\n\na) Mestre de embarcações de pesca costeira até 100 tAB, desde que opere:\n\n1) Para as embarcações registadas nos portos do continente, na área limitada a norte pelo paralelo 43º N, a oeste pelo meridiano 11º W, a sul pelo paralelo 36º N e a leste pela costa ibérica, e nos bancos Gorringe (Gettysburg), Josephine, Ampére, Seine e Dácia;\n\n2) Para as embarcações registadas nos portos das Regiões Autónomas da Madeira e dos Açores, nas áreas referidas nas alíneas b) e c) do n.º 1 do artigo anterior;\n\nb) Chefe de quarto de navegação de embarcações de pesca costeira e do largo de qualquer tonelagem.\n\n2 - A categoria de contramestre pescador será atribuída ao:\n\na) Arrais de pesca que prove satisfazer cumulativamente as seguintes condições:\n\n1) Ter cinco anos de embarque e a escolaridade obrigatória;\n\n2) Estar habilitado com o curso de qualificação para constramestre pescador;\n\nb) Marinheiro pescador que prove satisfazer cumulativamente as seguintes condições:\n\n1) Ter dois anos de embarque;\n\n2) Estar habilitado com o curso de qualificação para contramestre pescador.\n\n3 - A categoria de contramestre pescador será ainda atribuída aos marítimos que, tendo inscrição válida na categoria de pescador à data da entrada em vigor da presente portaria, provem satisfazer cumulativamente as seguintes condições:\n\na) Ter cinco anos de embarque e a escolaridade que era obrigatória à data da inscrição na categoria de pescador;\n\nb) Estar habilitado com o curso de qualificação para contramestre pescador.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 570/89 - Diário da República n.º 167/1989, Série I de 1989-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/570-1989-619924), em vigor a partir de 1989-07-22"
+  },
+  "865421335": {
+   "fragment_id": "865325428",
+   "type": 11,
+   "heading": "Artigo 3.º — Piloto de 1.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 3.º — Piloto de 1.ª classe\n\n1 - O piloto de 1.ª classe pode exercer as funções de:\n\na) Primeiro-piloto de embarcações de qualquer tonelagem;\n\nb) Imediato de embarcações com menos de 5000 tAB;\n\nc) Comandante de embarcações com menos de 1600 tAB, desde que tenha efectuado como imediato quatro meses de embarque ou 900 horas de navegação, conforme se trate, respectivamente, de embarcações da marinha do comércio ou da marinha da pesca.\n\n2 - A categoria de piloto de 1.ª classe será atribuída ao piloto de 2.ª classe que, após a obtenção desta categoria, prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dezoito meses de embarque;\n\nb) Estar habilitado com o curso de estudos superiores especializados em Gestão e Tecnologias Marítimas.\n\n3 - O requisito da alínea b) do número anterior é substituído pelo curso complementar de pilotagem da Escola Náutica Infante D. Henrique (ENIDH) para os pilotos de 2.ª classe habilitados com o curso geral de pilotagem da mesma Escola.\n\n4 - Ao piloto de 1.ª classe assiste o direito de requerer a passagem de certificados de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de imediato de navios de qualquer tonelagem e de comandante de embarcações com menos de 1600 tAB, sem prejuízo do disposto no n.º 1, quando embarque em navios de comércio nacionais, desde que:\n\na) Seja titular dos certificados previstos no n.º 3 do artigo 4.º;\n\nb) Tenha efectuado os tirocínios estabelecidos no n.º 2 a bordo de embarcações da marinha do comércio.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421336": {
+   "fragment_id": "865325430",
+   "type": 11,
+   "heading": "Artigo 5.º — Piloto de 3.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 5.º — Piloto de 3.ª classe\n\n1 - O piloto de 3.ª classe pode exercer as funções de:\n\na) Terceiro-piloto de embarcações de qualquer tonelagem;\n\nb) Segundo-piloto de embarcações com menos de 5000 tAB;\n\nc) Primeiro-piloto de embarcações com menos de 1600 tAB;\n\nd) Imediato de embarcações de pesca até 1000 tAB;\n\ne) Comandante de embarcações de pesca até 700 tAB, desde que tenha efectuado 1300 horas de navegação como imediato nesse tipo de embarcações.\n\n2 - A categoria de piloto de 3.ª classe será atribuída ao praticante de piloto que prove ter um ano de embarque e aprovação pela ENIDH de um relatório de estágio.\n\n3 - Ao piloto de 3.ª classe assiste o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de oficial chefe de quarto de navegação, desde que tenha efectuado os tirocínios estabelecidos no número anterior a bordo de embarcações da marinha do comércio.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421337": {
+   "fragment_id": "865325431",
+   "type": 11,
+   "heading": "Artigo 6.º — Praticante de piloto",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 6.º — Praticante de piloto\n\n1 - O praticante de piloto desempenha a bordo serviços compatíveis com a sua categoria.\n\n2 - Os serviços a desempenhar destinam-se a complementar, com a prática, a formação teórica adquirida no respectivo curso de ofical da ENIDH, sendo desempenhados sob a responsabilidade de um oficial de pilotagem de categoria superior.\n\n3 - A categoria de praticante de piloto será atribuída ao indivíduo que prove estar habilitado com o curso de bacharelato em Pilotagem, podendo ser também atribuída a quem possuir a parte escolar do curso superior de Pilotagem ou o curso geral de Pilotagem.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421338": {
+   "fragment_id": "865325444",
+   "type": 11,
+   "heading": "Artigo 17.º — Arrais de pesca",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 17.º — Arrais de pesca\n\n1 - O arrais de pesca pode exercer o governo de embarcações de pesca local de qualquer tonelagem ou de pesca costeira até 35 tAB.\n\n2 - O arrais de pesca que exerça o governo de embarcações de pesca local fica limitado a operar na área de jurisdição da capitania de porto onde está inscrito e nas áreas de jurisdição das capitanias limítrofes.\n\n3 - O arrais de pesca que exerça o governo de embarcações de pesca costeira até 35 tAB pode operar:\n\na) Para as embarcações registadas nos portos do continente, ao longo da costa continental portuguesa e até à distância de 50 milhas da linha da costa;\n\nb) Para as embarcações registadas nos portos das Regiões Autónomas da Madeira e dos Açores, ao largo da costa da respectiva Região Autónoma e até à distância de 50 milhas da costa.\n\n4 - A categoria de arrais de pesca será atribuída ao:\n\na) Marinheiro-pescador que prove ter dois anos de embarque em embarcações de pesca local ou costeira;\n\nb) Pescador que prove ter cinco anos de embarque e habilitações para o exercício da categoria que pretende adquirir, mediante aprovação no curso de qualificação para arrais de pesca.\n\n5 - Os marítimos que à data da entrada em vigor do presente diploma possuam as categorias de arrais de pesca costeira e de arrais de pesca local ingressam na categoria de arrais de pesca.\n\n> Nota: [2.º, Portaria n.º 397/90 - Diário da República n.º 121/1990, Série I de 1990-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/397-1990-574920) O prazo fixado no n.º 2 do presente artigo, é alargado para três anos, a partir da data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421339": {
+   "fragment_id": "865325455",
+   "type": 11,
+   "heading": "Artigo 25.º — Maquinista de 1.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 25.º — Maquinista de 1.ª classe\n\n1 - O maquinista de 1.ª classe pode exercer as funções de:\n\na) Primeiro-maquinista de embarcações com máquinas propulsoras de qualquer potência;\n\nb) Chefe de máquinas de embarcações com máquinas propulsoras de potência inferior a 3000 kW.\n\n2 - A categoria de maquinista de 1.ª classe será atribuída ao maquinista de 2.ª classe que, depois de obtida esta categoria, prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dezoito meses de embarque em embarcações com máquinas propulsoras de potência não inferior a 750 kW;\n\nb) Estar habilitado com o curso de estudos superiores especializados em Engenharia de Máquinas Marítimas.\n\n3 - A categoria de maquinista de 1.ª classe confere ao respectivo titular o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, como:\n\na) Segundo-maquinista de embarcações com máquinas propulsoras de qualquer potência;\n\nb) Chefe de máquinas de embarcações com máquinas propulsoras de potência inferior a 3000 kW.\n\n4 - Os tirocínios referidos no n.º 2 deverão ser efectuados numa ou em ambas as modalidades de vapor e de motor, sendo a carta de maquinista de 1.ª classe passada:\n\na) Sem registo de restrição, desde que o maquinista de 2.ª classe possua, em cada uma das referidas modalidades e em embarcações com máquinas propulsoras de potência não inferior a 750 kW, pelo menos três meses de embarque após a obtenção da categoria de maquinista de 3.ª classe e três meses de embarque após a obtenção da categoria de maquinista de 2.ª classe;\n\nb) Com registo de restrição, por apostilha, para a modalidade em falta, quando o maquinista de 2.ª classe não satisfaça o disposto na alínea anterior.\n\n5 - A apostilha referida na alínea b) do número anterior será anulada quando o maquinista de 1.ª classe fizer prova de que satisfaz os requisitos estabelecidos na alínea a) do número anterior.\n\n6 - O requisito da alínea b) do n.º 2 é substituído pelo curso complementar de máquinas marítimas da ENIDH para os maquinistas de 2.ª classe habilitados com o curso geral de máquinas marítimas da mesma Escola.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421347": {
+   "fragment_id": "865325456",
+   "type": 11,
+   "heading": "Artigo 26.º — Maquinista de 2.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 26.º — Maquinista de 2.ª classe\n\n1 - O maquinista de 2.ª classe pode exercer as funções de:\n\na) Segundo-maquinista de embarcações com máquinas propulsoras de qualquer potência;\n\nb) Primeiro-maquinista de embarcações com máquinas propulsoras de potência inferior a 3000 kW;\n\nc) Chefes de máquinas de embarcações de pesca com máquinas propulsores de potência inferior a 2000 kW.\n\n2 - A categoria de maquinista de 2.ª classe será atribuída ao maquinista de 3.ª classe que prove ter, depois de obtida esta categoria, dezoito meses de embarque em embarcações com máquinas propulsoras de potência não inferior a 750 kW.\n\n3 - A categoria de maquinista de 2.ª classe confere ao respectivo titular o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, como segundo-maquinista de embarcações com máquinas propulsoras de potência inferior a 3000 kW.\n\n4 - Os tirocínios referidos no n.º 2 deverão ser efectuados numa ou em ambas as modalidades de vapor e de motor, sendo a carta de maquinista de 2.ª classe passada:\n\na) Sem registo de restrição, quando o maquinista de 3.ª classe possua, em cada uma das referidas modalidades, três meses de embarque em embarcações com máquinas propulsoras de potência não inferior a 750 kW;\n\nb) Com registo de restrição, por apostilha, para a modalidade em falta, quando o maquinista de 3.ª classe não satisfaça o disposto na alínea anterior.\n\n5 - A apostilha referida na alínea b) do número anterior será anulada quando o maquinista de 2.ª classe fizer prova de que satisfaz os requisitos mencionados na alínea a) do mesmo número.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421348": {
+   "fragment_id": "865325457",
+   "type": 11,
+   "heading": "Artigo 27.º — Maquinista de 3.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 27.º — Maquinista de 3.ª classe\n\n1 - O maquinista de 3.ª classe pode exercer as funções de:\n\na) Terceiro-maquinista de embarcações com máquinas propulsoras de qualquer potência;\n\nb) Segundo-maquinista de embarcações com máquinas propulsoras de potência inferior a 3000 kW;\n\nc) Primeiro-maquinista de embarcações de pesca com máquinas propulsoras de potência inferior a 2000 kW.\n\nd) Chefe de máquinas de embarcações de pesca com máquinas propulsoras de potência inferior a 1250 kW.\n\n2 - A categoria de maquinista de 3.ª classe será atribuída ao praticante de maquinista que prove ter um ano de embarque e aprovação pela ENIDH de um relatório de estágio.\n\n3 - A categoria de maquinista de 3.ª classe confere ao respectivo titular o direito de requerer a passagem de um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de oficial de máquinas chefe de quarto.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421349": {
+   "fragment_id": "865325458",
+   "type": 11,
+   "heading": "Artigo 28.º — Praticante de maquinista",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 28.º — Praticante de maquinista\n\n1 - O praticante de maquinista desempenha a bordo serviços compatíveis com a sua categoria.\n\n2 - Os serviços a desempenhar destinam-se a complementar, com a prática, a formação teórica adquirida no respectivo curso de oficial da ENIDH, sendo desempenhados sob a responsabilidade de um oficial maquinista de categoria superior.\n\n3 - A categoria de praticante de maquinista será atribuída ao indivíduo que prove estar habilitado com o curso de bacharelato em Engenharia de Máquinas Marítimas, podendo ser também atribuída a quem possuir a parte escolar do curso superior de Máquinas Marítimas ou o curso geral de Máquinas Marítimas.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421350": {
+   "fragment_id": "865325460",
+   "type": 11,
+   "heading": "Artigo 29.º — Motorista prático de 1.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 29.º — Motorista prático de 1.ª classe\n\n1 - O motorista prático de 1.ª classe pode exercer, no âmbito da navegação costeira nacional, TL, rebocadores locais e embarcações auxiliares locais e de pesca, as funções de:\n\na) Segundo-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 2000 kW;\n\nb) Primeiro-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 1500 kW;\n\nc) Chefe de máquinas de embarcações com máquinas propulsoras de combustão interna de potência inferior a 1250 kW.\n\n2 - A categoria de motorista prático de 1.ª classe será atribuída ao motorista prático de 2.ª classe que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter três anos de embarque;\n\nb) Estar habilitado com o curso de qualificação para motorista prático de 1.ª classe.\n\n3 - A categoria de motorista prático de 1.ª classe poderá ser atribuída ao maquinista prático de 1.ª classe que prove, por exame, satisfazer as matérias do curso de qualificação para motorista prático de 1.ª classe.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421351": {
+   "fragment_id": "865325461",
+   "type": 11,
+   "heading": "Artigo 30.º — Motorista prático de 2.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 30.º — Motorista prático de 2.ª classe\n\n1 - O motorista prático de 2.ª classe pode exercer, no âmbito da navegação costeira nacional, TL, rebocadores locais e embarcações auxiliares locais e de pesca, as funções de:\n\na) Segundo-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 1250 kW;\n\nb) Primeiro-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 1000 kW;\n\nc) Chefe de máquinas de embarcações com máquinas propulsoras de combustão interna de potência inferior a 750 kW.\n\n2 - A categoria de motorista prático de 2.ª classe será atribuída ao motorista prático de 3.ª classe que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter três anos de embarque;\n\nb) Estar habilitado com o curso de qualificação para motorista prático de 2.ª classe.\n\n3 - A categoria de motorista prático de 2.ª classe poderá ser atribuída ao maquinista prático de 2.ª classe e ao mecânico de bordo que prove, por exame, satisfazer as matérias do curso de qualificação para motorista prático de 2.ª classe.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421340": {
+   "fragment_id": "865325462",
+   "type": 11,
+   "heading": "Artigo 31.º — Motorista prático de 3.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 31.º — Motorista prático de 3.ª classe\n\n1 - O motorista prático de 3.ª classe pode exercer, no âmbito da navegação costeira nacional, TL, rebocadores locais e embarcações auxiliares locais e de pesca, as funções de:\n\na) Segundo-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 1000 kW;\n\nb) Primeiro-maquinista de embarcações com máquinas propulsoras de combustão interna de potência inferior a 750 kW;\n\nc) Chefe de máquinas de embarcações com máquinas propulsoras de combustão interna de potência inferior a 500 kW.\n\n2 - A categoria de motorista prático de 3.ª classe será atribuída ao marinheiro motorista ou ao ajudante de motorista que prove satisfazer cumulativamente as seguintes condições:\n\na) Ter três anos de embarque;\n\nb) Estar habilitado com o curso de qualificação para motorista prático de 3.ª classe.\n\n3 - As funções inerentes à categoria de motorista prático de 3.ª classe em embarcações de pesca local ou de pesca costeira com tonelagem de arqueação bruta até 35 tAB e potência inferior ou igual a 150 kW podem ser exercidas por qualquer inscrito marítimo que prove, mediante apresentação do competente certificado, encontrar-se habilitado por exame para a condução de motores com potência inferior ou igual a 150 kW ou para ajudante de motorista, não sendo, porém, autorizada a redução do número de efectivos da lotação de segurança estabelecida, sem prejuízo de poderem acumular as funções referidas com as do governo da embarcação.\n\n4 - O disposto no número anterior aplica-se aos inscritos marítimos cujos certificados tenham sido obtidos quer anteriormente à data da entrada em vigor da Portaria n.º 251/89, de 6 de Abril, quer no âmbito da Portaria n.º 397/90, de 26 de Maio, ou que venham a ser obtidos ao abrigo do artigo 18.º do anexo à Portaria n.º 1086/90, de 27 de Outubro.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421333": {
+   "fragment_id": "865325463",
+   "type": 11,
+   "heading": "Artigo 32.º — Electricista",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 200/1989, 1º Suplemento, Série I de 1989-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-291473), produz efeitos a partir de 1989-04-11"
+   ],
+   "markdown": "###### Artigo 32.º — Electricista\n\n1 - Ao electricista compete a manutenção e reparação do material eléctrico, executando os serviços próprios da sua profissão.\n\n2 - A categoria de electricista será atribuída ao indivíduo que prove satisfazer cumulativamente as seguintes condições:\n\na) Estar habilitado com um curso de formação profissional para electricista e seis anos de prática em serviço de electricidade após a obtenção de carteira profissional de electricista;\n\nb) Estar habilitado com o curso de preparação de curta duração para electricista.\n\n3 - O director-geral do Pessoal do Mar e Estudos Náuticos, ouvida a Escola de Mestrança e Marinhagem (EMM), determinará quais os cursos a considerar para efeitos da alínea a) do número anterior.\n\n4 - A categoria de electricista poderá ser atribuída ao:\n\na) Electricista de 2.ª classe que prove ter dois anos de embarque e o curso de preparação de curta duração para electricista;\n\nb) Ajudante de electricista que prove ter três anos de embarque e o curso de preparação de curta duração para electricista.\n\n5 - Os marítimos que à data da entrada em vigor do presente diploma possuam a categoria de electricista de 1.ª classe ingressam na categoria de electricista.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 200/1989, 1º Suplemento, Série I de 1989-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-291473), produz efeitos a partir de 1989-04-11"
+  },
+  "865421334": {
+   "fragment_id": "865325464",
+   "type": 11,
+   "heading": "Artigo 33.º — Mecânico de bordo",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 200/1989, 1º Suplemento, Série I de 1989-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-291473), produz efeitos a partir de 1989-04-11"
+   ],
+   "markdown": "###### Artigo 33.º — Mecânico de bordo\n\n1 - Ao mecânico de bordo compete a manutenção e reparação de material diverso, executando os serviços próprios das especialidades de torneiro, serralheiro-mecânico, soldador e canalizador.\n\n2 - A categoria de mecânico de bordo será atribuída ao indivíduo que prove satisfazer cumulativamente as seguintes condições:\n\na) Estar habilitado com um curso de formação profissional da área ocupacional de mecânica e seis anos de prática oficinal como torneiro ou serralheiro mecânico;\n\nb) Estar habilitado com o curso de preparação de curta duração para mecânico de bordo.\n\n3 - O director-geral do Pessoal do Mar e Estudos Náuticos, ouvida a EMM, determinará quais os cursos a considerar para efeitos da alínea a) do número anterior.\n\n4 - A categoria de mecânico de bordo poderá ser atribuída ao artífice, ao ajudante de motorista e ao marinheiro motorista que possua o curso referido na alínea b) do n.º 2.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 200/1989, 1º Suplemento, Série I de 1989-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1989-291473), produz efeitos a partir de 1989-04-11"
+  },
+  "865421341": {
+   "fragment_id": "865420476",
+   "type": 11,
+   "heading": "Artigo 40.º — Comissário de 1.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 40.º — Comissário de 1.ª classe\n\n1 - O comissário de 1.ª classe pode exercer as funções de:\n\na) Primeiro-comissário de embarcações de comércio, independentemente da lotação de passageiros;\n\nb) Chefe de comissariado de embarcações de comércio com lotação máxima de 250 passageiros.\n\n2 - A categoria de comissário de 1.ª classe será atribuída ao comissário de 2.ª classe que, depois de obtida esta categoria, prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dezoito meses de embarque;\n\nb) Estar habilitado com o curso complementar de Comissariado.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421342": {
+   "fragment_id": "865420478",
+   "type": 11,
+   "heading": "Artigo 42.º — Comissário de 3.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 42.º — Comissário de 3.ª classe\n\n1 - O comissário de 3.ª classe pode exercer as funções de:\n\na) Terceiro-comissário de embarcações de comércio, independentemente da lotação de passageiros;\n\nb) Segundo-comissário de embarcações de comércio com lotação máxima de 250 passageiros;\n\nc) Primeiro-comissário de embarcações de comércio com lotação máxima de 100 passageiros;\n\nd) Chefe de comissariado de embarcações de comércio com lotação máxima de 50 passageiros.\n\n2 - A categoria de comissário de 3.ª classe será atribuída ao praticante de comissário que prove ter um ano de embarque e aprovação pela ENIDH de um relatório de estágio.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421343": {
+   "fragment_id": "865420479",
+   "type": 11,
+   "heading": "Artigo 43.º — Praticante de comissário",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 43.º — Praticante de comissário\n\n1 - O praticante de comissário desempenha a bordo serviços compatíveis com a sua categoria.\n\n2 - Os serviços a desempenhar destinam-se a complementar, com a prática, a formação teórica adquirida no respectivo curso de oficial da ENIDH, sendo desempenhados sob a responsabilidade de um oficial comissário de categoria superior.\n\n3 - A categoria de praticante de comissário será atribuída ao indivíduo que prove estar habilitado com a parte escolar do curso superior de Comissariado, podendo ser também atribuída a quem possuir o curso geral de Comissariado.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421344": {
+   "fragment_id": "865420488",
+   "type": 11,
+   "heading": "Artigo 49.º — Radiotécnico de 1.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 49.º — Radiotécnico de 1.ª classe\n\n1 - O radiotécnico de 1.ª classe pode exercer as funções de primeiro - radiotécnico ou de chefe de radiotecnia de embarcações com estações de radiocomunicações de qualquer categoria.\n\n2 - A categoria de radiotécnico de 1.ª classe será atribuída ao radiotécnico de 2.ª classe que, depois de adquirir esta categoria, prove satisfazer cumulativamente as seguintes condições:\n\na) Ter dezoito meses de embarque;\n\nb) Estar habilitados com o curso de estudos superiores especializados em Engenharia de Sistemas Marítimos de Electrotecnia e Telecomunicações.\n\n3 - O requisito da alínea b) do número anterior é substituído pelo curso complementar de radiotecnia da ENIDH para os radiotécnicos de 2.ª classe habilitados com o curso geral da mesma Escola.\n\n4 - A categoria de radiotécnico de 1.ª classe confere ao respectivo titular o direito de requerer a passagem de:\n\na) Um certificado de operador radiotelegrafista de 1.ª classe, nos termos do RR/CIT;\n\nb) Um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de oficial radiotécnico.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421345": {
+   "fragment_id": "865420490",
+   "type": 11,
+   "heading": "Artigo 51.º — Radiotécnico de 3.ª classe",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 51.º — Radiotécnico de 3.ª classe\n\n1 - O radiotécnico de 3.ª classe pode exercer as funções de:\n\na) Terceiro-radiotécnico, segundo-radiotécnico ou primeiro-radiotécnico de embarcações com estações de radiocomunicações, de qualquer categoria;\n\nb) Chefe de radiotecnia de embarcações com estações de radiocomunicações de 2.ª, 3.ª e 4.ª categorias.\n\n2 - A categoria de radiotécnico de 3.a classe será atribuída ao praticante de radiotécnico que prove ter um ano de embarque e aprovação pela ENIDH de um relatório de estágio.\n\n3 - A categoria de radiotécnico de 3.ª classe confere ao respectivo titular o direito de requerer a passagem de:\n\na) Um certificado de operador radiotelegrafista de 2.ª classe nos termos do RR/CIT;\n\nb) Um certificado de competência, nos termos e para os efeitos da Convenção STCW, para o desempenho das funções de oficial radiotécnico.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421346": {
+   "fragment_id": "865420491",
+   "type": 11,
+   "heading": "Artigo 52.º — Praticante de radiotécnico",
+   "in_force_from": "1991-10-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+   ],
+   "markdown": "###### Artigo 52.º — Praticante de radiotécnico\n\n1 - O praticante de radiotécnico desempenha a bordo serviços compatíveis com a sua categoria.\n\n2 - Os serviços a desempenhar destinam-se a complementar, com a prática, a formação teórica adquirida no respectivo curso de oficial da ENIDH, sendo desempenhados sob a responsabilidade de um oficial radiotécnico de categoria superior.\n\n3 - A categoria de praticante de radiotécnico será atribuída ao indivíduo que prove estar habilitado com o curso de bacharelato em Engenharia de Sistemas Marítimos de Electrónica e Telecomunicações, podendo ser também atribuída a quem possuir a parte escolar do curso superior de Radiotecnia ou o curso geral de Radiotecnia.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1052/91 - Diário da República n.º 237/1991, Série I-B de 1991-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/1052-1991-288646), em vigor a partir de 1991-10-15"
+  },
+  "865421352": {
+   "fragment_id": "865420499",
+   "type": 11,
+   "heading": "Artigo 58.º — Mergulhador de 1.ª, 2.ª e 3.ª classes",
+   "in_force_from": "1994-07-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/94 - Diário da República n.º 12/1994, Série I-A de 1994-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1994-509199), em vigor a partir de 1994-07-14"
+   ],
+   "markdown": "###### Artigo 58.º — Mergulhador de 1.ª, 2.ª e 3.ª classes\n\nOs requisitos para atribuição das categorias de mergulhador de 1.ª, 2.ª e 3.ª classes e as respectivas funções são os estabelecidos no regulamento específico da actividade.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/94 - Diário da República n.º 12/1994, Série I-A de 1994-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1994-509199), em vigor a partir de 1994-07-14"
+  },
+  "868689425": {
+   "fragment_id": "865325442",
+   "type": 11,
+   "heading": "Artigo 15.º — Mestre costeiro pescador",
+   "in_force_from": "1995-04-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Portaria n.º 346/95 - Diário da República n.º 94/1995, Série I-B de 1995-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/346-1995-223582), em vigor a partir de 1995-04-26"
+   ],
+   "markdown": "###### Artigo 15.º — Mestre costeiro pescador\n\n1 - O mestre costeiro pescador pode exercer as funções de mestre de embarcações de pesca até 250 TAB, desde que opere:\n\na) Para as embarcações registadas nos portos do continente:\n\n1) Na área limitada a norte pelo paralelo 48º N., a oeste pelo meridiano 14º W. até ao paralelo 30º N. e, a partir daí, meridiano 16º W., a sul pelo paralelo 15º N. e a leste pela costa africana, linha que une Orão a Almeria e costa europeia;\n\n2) Nos bancos Gorringe (Gettysburg), Josephine, Ampére, Seine e Dácia;\n\nb) Para as embarcações registadas nos portos da Região Autónoma da Madeira:\n\n1) Na área circunscrita pelo limite exterior da respectiva subárea da zona económica exclusiva;\n\n2) Nos bancos Gorringe (Gettysburg), Josephine e Dácia;\n\nc) Para as embarcações registadas nos portos da Região Autónoma dos Açores;\n\n1) Na área circunscrita pelo limite exterior da respectiva subárea da zona económica exclusiva;\n\n2) No banco Chaucer.\n\n2 - A categoria de mestre costeiro pescador será atribuída ao contramestre pescador que prove satisfazer cumulativamente:\n\na) Ter um ano de embarque;\n\nb) Estar habilitado com o curso de qualificação para mestre costeiro pescador.\n\n> Alterado pelo/a Artigo 15.º do/a [Portaria n.º 346/95 - Diário da República n.º 94/1995, Série I-B de 1995-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/346-1995-223582), em vigor a partir de 1995-04-26"
+  }
+ }
+}

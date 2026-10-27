@@ -1,0 +1,283 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:434414:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-1012031627",
+ "dre_path": "/dr/detalhe/decreto-lei/325-1999-434414",
+ "source_lastmod": "2026-05-12",
+ "versions": [
+  {
+   "date": "2008-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:468663:por",
+     "title": "Lei n.º 12-A/2008",
+     "published": "2008-02-27",
+     "dre_path": "/dr/detalhe/lei/12-a-2008-468663"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "1012163475",
+    "1012163675",
+    "1012163875",
+    "1012164075",
+    "1012164275",
+    "1012164475",
+    "1116789975",
+    "1116790175",
+    "1116790375",
+    "1012165275",
+    "1012165475",
+    "1012165675",
+    "1012165875"
+   ]
+  },
+  {
+   "date": "2014-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25676932:por",
+     "title": "Lei n.º 35/2014",
+     "published": "2014-06-20",
+     "dre_path": "/dr/detalhe/lei/35-2014-25676932"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1121039575",
+    "1121039775",
+    "1121039875",
+    "1121039975",
+    "1121040075",
+    "1121040175",
+    "1116789975",
+    "1116790175",
+    "1116790375",
+    "1121040575",
+    "1121040675",
+    "1121040775",
+    "1121040875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1012163475": {
+   "fragment_id": "1012163375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A situação do mercado de trabalho nos tempos actuais e a estrutura etária dos trabalhadores da Administração Pública aconselham a adopção das medidas que potenciem a renovação dos seus efectivos, contribuindo, simultaneamente, para a promoção do emprego.\n\nCom a instituição do regime especial da semana de quatro dias visa-se a criação de condições favoráveis à prossecução daqueles objectivos.\n\nPor outro lado, a redução da duração do trabalho e a redistribuição do tempo de trabalho constituem uma resposta colectiva e solidária a dois dos graves problemas das sociedades actuais: o desemprego e a falta de tempo livre, com a correspondente dificuldade de harmonizar a vida familiar e profissional.\n\nEntende assim o Governo que cabe à Administração Pública desempenhar um papel locomotivo sobre o mercado de emprego, dando, nesta matéria, o exemplo ao sector privado e às administrações regionais e locais.\n\nFoi, aliás, em conformidade com este entendimento que, ao abrigo de autorização legislativa, o Governo aprovou o Decreto-Lei n.º 259/98, de 18 de Agosto, que estabeleceu os princípios gerais em matéria de duração e horário de trabalho, o qual, no seu artigo 12.º, permite o estabelecimento de outros regimes de trabalho a tempo parcial, sempre que a política de emprego público o justifique.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 23 de Maio, e, bem assim, foram ouvidos os órgãos de governo próprios das Regiões Autónomas dos Açores e da Madeira, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pelo artigo 12.º do Decreto-Lei n.º 259/98, de 18 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "1012163675": {
+   "fragment_id": "1012163575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente diploma estabelece o regime de prestação de trabalho designado por semana de quatro dias de funcionários de nomeação definitiva de serviços e organismos da administração central, bem como dos institutos públicos, nas modalidades de serviços personalizados do Estado e de fundos públicos.\n\n2 - O mesmo regime é aplicável, com as necessárias adaptações, à administração local e à administração regional, sem prejuízo da competência dos órgãos de governo próprios das Regiões Autónomas.\n\n3 - O regime estabelecido no presente diploma não é aplicável aos funcionários integrados em corpos especiais que disponham já da faculdade legal da prática de horário de trabalho reduzido."
+  },
+  "1012163875": {
+   "fragment_id": "1012163775",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Noção e regime\n\n1 - A semana de quatro dias traduz-se na redução de um dia, ou de dois meios-dias, na duração do período normal de trabalho semanal.\n\n2 - A prestação de trabalho em regime de semana de quatro dias é deferida pelo período mínimo de um ano, renovável por iguais períodos, sem prejuízo do disposto no número seguinte.\n\n3 - A prestação de trabalho em regime de semana de quatro dias pode ser interrompida, ou cessar, a requerimento do funcionário, uma vez decorrido o primeiro período inicial de um ano e observadas as demais condições fixadas no presente diploma e na lei geral do regime de emprego público."
+  },
+  "1012164075": {
+   "fragment_id": "1012163975",
+   "type": 11,
+   "heading": "Artigo 3.º — Situação funcional do pessoal abrangido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Situação funcional do pessoal abrangido\n\n1 - O funcionário que opte pela semana de quatro dias é considerado, para todos os efeitos legais, em efectividade de serviço, mantendo a totalidade dos direitos e ficando subordinado a todos os deveres de carácter geral ou especial, com as modificações constantes do presente diploma.\n\n2 - A prestação de trabalho em regime de semana de quatro dias não prejudica a contagem do tempo do funcionário para efeitos de progressão na carreira e aposentação, sendo considerado nos mesmos termos que a prestação de trabalho em regime de tempo completo.\n\n3 - O funcionário que opte pela semana de quatro dias tem direito a 80% da retribuição que corresponder ao escalão em que se encontrar integrado e, bem assim, dos suplementos remuneratórios fixos, a que acrescem as prestações sociais devidas e um diferencial destinado a garantir, na sua totalidade, as quotizações para a Caixa Geral de Aposentações e ADSE.\n\n4 - O funcionário tem ainda direito a 80% dos subsídios de férias e de Natal, bem como ao abono do subsídio de refeição, nos termos da respectiva lei reguladora."
+  },
+  "1012164275": {
+   "fragment_id": "1012164175",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento\n\n1 - O procedimento conducente à passagem ao regime da semana de quatro dias inicia-se com a apresentação de requerimento, do qual deve constar:\n\na) A data a partir da qual o funcionário pretende passar a este regime;\n\nb) O período semanal de trabalho que pretende cumprir, nos termos do n.º 1 do artigo 2.º do presente diploma.\n\n2 - O requerimento é objecto de despacho do membro do Governo competente, sob proposta do dirigente máximo do serviço.\n\n3 - A data da passagem do funcionário para este regime pode ser diferida, por um período não superior a dois meses, com fundamento em conveniência de serviço e respeitada a audiência prévia do interessado."
+  },
+  "1012164475": {
+   "fragment_id": "1012164375",
+   "type": 11,
+   "heading": "Artigo 5.º — Regresso ao regime de tempo completo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regresso ao regime de tempo completo\n\n1 - O regresso ao regime de tempo completo é feito a requerimento do funcionário interessado.\n\n2 - O requerimento previsto no número anterior será obrigatoriamente apresentado até ao último dia útil do 9.º mês de cada período anual de duração do regime da semana de quatro dias.\n\n3 - A não apresentação do requerimento, ou a sua apresentação extemporânea, determina a prorrogação automática do regime em que o funcionário se encontra."
+  },
+  "1116789975": {
+   "fragment_id": "1012164575",
+   "type": 11,
+   "heading": "Artigo 6.º — Contratação de pessoal",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008 - Diário da República n.º 41/2008, 1º Suplemento, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), em vigor a partir de 2008-03-01."
+   ],
+   "markdown": "###### Artigo 6.º — Contratação de pessoal\n\n1 - Quando num mesmo serviço ou organismo houver pelo menos cinco funcionários em regime de semana de quatro dias, o respectivo dirigente máximo promoverá uma contratação em regime de contrato de trabalho a termo certo, com observância dos procedimentos legais aplicáveis e do disposto no artigo 8.º\n\n2 - Sem prejuízo da observância do disposto no número anterior, na contratação a efectuar será dada prioridade aos candidatos:\n\na) Que tenham concluído, com aproveitamento, o estágio profissional nos termos legalmente previstos;\n\nb) Que estejam inscritos no centro de emprego da respectiva área, possuam formação adequada e se encontrem disponíveis para colocação em regime de contrato de trabalho a termo certo.\n\n> Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008 - Diário da República n.º 41/2008, 1º Suplemento, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), em vigor a partir de 2008-03-01."
+  },
+  "1116790175": {
+   "fragment_id": "1012164775",
+   "type": 11,
+   "heading": "Artigo 7.º — Formalidades e responsabilidades",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008 - Diário da República n.º 41/2008, 1º Suplemento, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), em vigor a partir de 2008-03-01."
+   ],
+   "markdown": "###### Artigo 7.º — Formalidades e responsabilidades\n\n1 - A celebração dos contratos de trabalho a termo certo carece da anuência prévia do Ministro das Finanças e do membro do Governo responsável pela Administração Pública, devendo as propostas respectivas incluir a indicação das verbas orçamentais disponibilizadas por aplicação do presente diploma e a comprovação dos pressupostos referidos no artigo anterior.\n\n2 - As contratações efectuadas com preterição das formalidades fixadas no número anterior são nulas, sem prejuízo de os contratos produzirem todos os seus efeitos como se fossem válidos em relação ao tempo durante o qual estiveram em execução.\n\n3 - Os dirigentes que celebrem ou autorizem a celebração de contratos com preterição das formalidades exigidas incorrem em responsabilidade civil, disciplinar e financeira pela prática de actos ilícitos, constituindo fundamento para a cessação da respectiva comissão de serviço.\n\n4 - A responsabilidade financeira dos dirigentes efectiva-se através da entrega nos cofres do Estado do quantitativo igual ao que tiver sido abonado ao pessoal ilegalmente contratado.\n\n> Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008 - Diário da República n.º 41/2008, 1º Suplemento, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), em vigor a partir de 2008-03-01."
+  },
+  "1116790375": {
+   "fragment_id": "1012164975",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime do contrato de trabalho a termo certo",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008 - Diário da República n.º 41/2008, 1º Suplemento, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), em vigor a partir de 2008-03-01."
+   ],
+   "markdown": "###### Artigo 8.º — Regime do contrato de trabalho a termo certo\n\n1 - A celebração de contrato de trabalho a termo certo, nos termos deste diploma, não confere ao contratado a qualidade de agente administrativo.\n\n2 - O contrato referido no número anterior é resolúvel nos termos gerais, designadamente quando se verifique inadaptação do trabalhador ou manifesto incumprimento seu das cláusulas contratuais, podendo ser iniciado novo processo de recrutamento.\n\n3 - Os contratos de trabalho a termo certo a celebrar nos termos do presente diploma têm o prazo de um ano, renovável, nos termos gerais, até ao máximo de dois anos.\n\n4 - Nos casos em que, por virtude da celebração de um ou mais contratos, o contratado complete, no mesmo serviço, dois anos seguidos de desempenho efectivo de funções, ou interpolados, com interrupções não superiores a 60 dias, o seu contrato de trabalho a termo certo é convertível em contrato administrativo de provimento, caso a necessidade se mantenha e seja expressamente reconhecida, nos termos do número seguinte.\n\n5 - O reconhecimento de que o contratado não desempenha funções que correspondam a necessidades próprias do serviço, de natureza permanente, consta de despacho devidamente fundamentado do dirigente máximo do serviço.\n\n> Revogado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008 - Diário da República n.º 41/2008, 1º Suplemento, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), em vigor a partir de 2008-03-01."
+  },
+  "1012165275": {
+   "fragment_id": "1012165175",
+   "type": 11,
+   "heading": "Artigo 9.º — Limitação de encargos com o pessoal contratado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Limitação de encargos com o pessoal contratado\n\nOs encargos com o pessoal contratado nos termos dos artigos anteriores não poderão exceder as disponibilidades libertadas por aplicação do regime nele previsto, podendo estas ser geridas a nível de cada ministério, através do serviço responsável pela coordenação da política sectorial de recursos humanos, quando se mostre inexequível o disposto no n.º 1 do artigo 6.º do presente diploma."
+  },
+  "1012165475": {
+   "fragment_id": "1012165375",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Acompanhamento\n\nCompete à Direcção-Geral da Administração Pública o acompanhamento das medidas directamente previstas no presente diploma e a apresentação de propostas que visem o seu aperfeiçoamento."
+  },
+  "1012165675": {
+   "fragment_id": "1012165575",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "1012165875": {
+   "fragment_id": "1012165775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de Março de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 4 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Agosto de 1999.\n\nO Primeiro-Ministro, em exercício, Jaime José Matos da Gama."
+  },
+  "1121039575": {
+   "fragment_id": "1012163375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "A situação do mercado de trabalho nos tempos actuais e a estrutura etária dos trabalhadores da Administração Pública aconselham a adopção das medidas que potenciem a renovação dos seus efectivos, contribuindo, simultaneamente, para a promoção do emprego.\n\nCom a instituição do regime especial da semana de quatro dias visa-se a criação de condições favoráveis à prossecução daqueles objectivos.\n\nPor outro lado, a redução da duração do trabalho e a redistribuição do tempo de trabalho constituem uma resposta colectiva e solidária a dois dos graves problemas das sociedades actuais: o desemprego e a falta de tempo livre, com a correspondente dificuldade de harmonizar a vida familiar e profissional.\n\nEntende assim o Governo que cabe à Administração Pública desempenhar um papel locomotivo sobre o mercado de emprego, dando, nesta matéria, o exemplo ao sector privado e às administrações regionais e locais.\n\nFoi, aliás, em conformidade com este entendimento que, ao abrigo de autorização legislativa, o Governo aprovou o Decreto-Lei n.º 259/98, de 18 de Agosto, que estabeleceu os princípios gerais em matéria de duração e horário de trabalho, o qual, no seu artigo 12.º, permite o estabelecimento de outros regimes de trabalho a tempo parcial, sempre que a política de emprego público o justifique.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 23 de Maio, e, bem assim, foram ouvidos os órgãos de governo próprios das Regiões Autónomas dos Açores e da Madeira, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pelo artigo 12.º do Decreto-Lei n.º 259/98, de 18 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1121039775": {
+   "fragment_id": "1012163575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente diploma estabelece o regime de prestação de trabalho designado por semana de quatro dias de funcionários de nomeação definitiva de serviços e organismos da administração central, bem como dos institutos públicos, nas modalidades de serviços personalizados do Estado e de fundos públicos.\n\n2 - O mesmo regime é aplicável, com as necessárias adaptações, à administração local e à administração regional, sem prejuízo da competência dos órgãos de governo próprios das Regiões Autónomas.\n\n3 - O regime estabelecido no presente diploma não é aplicável aos funcionários integrados em corpos especiais que disponham já da faculdade legal da prática de horário de trabalho reduzido.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1121039875": {
+   "fragment_id": "1012163775",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção e regime",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 2.º — Noção e regime\n\n1 - A semana de quatro dias traduz-se na redução de um dia, ou de dois meios-dias, na duração do período normal de trabalho semanal.\n\n2 - A prestação de trabalho em regime de semana de quatro dias é deferida pelo período mínimo de um ano, renovável por iguais períodos, sem prejuízo do disposto no número seguinte.\n\n3 - A prestação de trabalho em regime de semana de quatro dias pode ser interrompida, ou cessar, a requerimento do funcionário, uma vez decorrido o primeiro período inicial de um ano e observadas as demais condições fixadas no presente diploma e na lei geral do regime de emprego público.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1121039975": {
+   "fragment_id": "1012163975",
+   "type": 11,
+   "heading": "Artigo 3.º — Situação funcional do pessoal abrangido",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 3.º — Situação funcional do pessoal abrangido\n\n1 - O funcionário que opte pela semana de quatro dias é considerado, para todos os efeitos legais, em efectividade de serviço, mantendo a totalidade dos direitos e ficando subordinado a todos os deveres de carácter geral ou especial, com as modificações constantes do presente diploma.\n\n2 - A prestação de trabalho em regime de semana de quatro dias não prejudica a contagem do tempo do funcionário para efeitos de progressão na carreira e aposentação, sendo considerado nos mesmos termos que a prestação de trabalho em regime de tempo completo.\n\n3 - O funcionário que opte pela semana de quatro dias tem direito a 80% da retribuição que corresponder ao escalão em que se encontrar integrado e, bem assim, dos suplementos remuneratórios fixos, a que acrescem as prestações sociais devidas e um diferencial destinado a garantir, na sua totalidade, as quotizações para a Caixa Geral de Aposentações e ADSE.\n\n4 - O funcionário tem ainda direito a 80% dos subsídios de férias e de Natal, bem como ao abono do subsídio de refeição, nos termos da respectiva lei reguladora.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1121040075": {
+   "fragment_id": "1012164175",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 4.º — Procedimento\n\n1 - O procedimento conducente à passagem ao regime da semana de quatro dias inicia-se com a apresentação de requerimento, do qual deve constar:\n\na) A data a partir da qual o funcionário pretende passar a este regime;\n\nb) O período semanal de trabalho que pretende cumprir, nos termos do n.º 1 do artigo 2.º do presente diploma.\n\n2 - O requerimento é objecto de despacho do membro do Governo competente, sob proposta do dirigente máximo do serviço.\n\n3 - A data da passagem do funcionário para este regime pode ser diferida, por um período não superior a dois meses, com fundamento em conveniência de serviço e respeitada a audiência prévia do interessado.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1121040175": {
+   "fragment_id": "1012164375",
+   "type": 11,
+   "heading": "Artigo 5.º — Regresso ao regime de tempo completo",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 5.º — Regresso ao regime de tempo completo\n\n1 - O regresso ao regime de tempo completo é feito a requerimento do funcionário interessado.\n\n2 - O requerimento previsto no número anterior será obrigatoriamente apresentado até ao último dia útil do 9.º mês de cada período anual de duração do regime da semana de quatro dias.\n\n3 - A não apresentação do requerimento, ou a sua apresentação extemporânea, determina a prorrogação automática do regime em que o funcionário se encontra.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1121040575": {
+   "fragment_id": "1012165175",
+   "type": 11,
+   "heading": "Artigo 9.º — Limitação de encargos com o pessoal contratado",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 9.º — Limitação de encargos com o pessoal contratado\n\nOs encargos com o pessoal contratado nos termos dos artigos anteriores não poderão exceder as disponibilidades libertadas por aplicação do regime nele previsto, podendo estas ser geridas a nível de cada ministério, através do serviço responsável pela coordenação da política sectorial de recursos humanos, quando se mostre inexequível o disposto no n.º 1 do artigo 6.º do presente diploma.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1121040675": {
+   "fragment_id": "1012165375",
+   "type": 11,
+   "heading": "Artigo 10.º — Acompanhamento",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 10.º — Acompanhamento\n\nCompete à Direcção-Geral da Administração Pública o acompanhamento das medidas directamente previstas no presente diploma e a apresentação de propostas que visem o seu aperfeiçoamento.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1121040775": {
+   "fragment_id": "1012165575",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1121040875": {
+   "fragment_id": "1012165775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de Março de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 4 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Agosto de 1999.\n\nO Primeiro-Ministro, em exercício, Jaime José Matos da Gama.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  }
+ }
+}

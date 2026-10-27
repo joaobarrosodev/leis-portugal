@@ -1,0 +1,263 @@
+---
+schema_version: '1.0'
+id: pt:dre:296235:por
+title: Resolução n.º 71/78
+short_title: null
+summary: Determina a cessação da intervenção do Estado no grupo de sociedades Grão-Pará
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 71/78
+official_date: null
+publication_date: '1978-05-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/1978, Série I de 1978-05-18
+  number: '114'
+  series: I
+  supplement: null
+  pages: 891 - 893
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/05/11400/08910893.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '296235'
+  dre_path: /dr/detalhe/resolucao/71-1978-296235
+  internal: pt:dre:296235:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/71-1978-296235
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/71-1978-296235
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:15:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0657699a9c9b15e9f48fd0165d6d33c16bc6a28c9f6191dce795b5aadd505a91
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:15:54Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de Imóveis
+- AVAL do Estado
+- Conselho Fiscal
+- Contrato de Viabilização
+- Empresa
+- Enatur
+- Estabelecimento Hoteleiro
+- Financiamento
+- Gestão de Empresas
+- Grupo Grão-Pará
+- Infraestrutura Turística
+- Instituição de Crédito
+- Intervenção do Estado
+- Órgãos Sociais
+- Saneamento Económico e Financeiro
+relationships:
+- type: amended_by
+  target: pt:dre:391592:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:324545:por
+  label: Prorrogado o prazo referido no n.º 4 pelo(a) Resolução n.º 229/78 - Diário da República n.º 281/1978, Série I de
+    1978-12-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/229-1978-324545
+  date: '1978-12-07'
+- type: amended_by
+  target: pt:dre:383211:por
+  label: "Prorrogado, por cento e oitenta dias os prazos fixados nos n.ºs 8 e 12 do presente diploma, pela RES.140/79.10.05.1979.PCM,\
+    \ DR.IS [107] de 10.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/140-1979-383211
+  date: '1979-05-10'
+- type: amended_by
+  target: pt:dre:353750:por
+  label: "Prorrogados até 31.01.1980 o prazo referido no nº 4 e até 30.04.1980 os prazos fixados nos nºs 8 e 12 do presente\
+    \ diploma pela RES.368/79.31.12.1979.PCM, DR.IS [300] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/368-1979-353750
+  date: '1979-12-31'
+- type: amended_by
+  target: pt:dre:473078:por
+  label: "Prorrogado até 31.07.1980, na parte que não colida com o disposto no Decreto-Lei n.º 74-B/79, de 05 de Abril, o\
+    \ prazo fixado no n.º 8 do presente diploma, pela RES.213/80.17.06.1980.PCM, DR.IS [137] de 17.06.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/213-1980-473078
+  date: '1980-06-17'
+- type: amended_by
+  target: pt:dre:463874:por
+  label: "Prorrogado até 31.01.1981, o prazo fixado no n.º 8 do presente diploma, na parte que não colida com o disposto no\
+    \ Decreto-Lei 74-B/79, de 05 de Abril, pela RES.309/80.13.08.1980.PCM, DR.IS [200] de 30.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/309-1980-463874
+  date: '1980-08-13'
+- type: amended_by
+  target: pt:dre:391592:por
+  label: "Prorrogado o prazo fixado no n.º 8 do presente diploma, na parte que não colida om o disposto no Decreto-Lei 74-B/79,\
+    \ de 05 de Abril pela RES.15/81.27.01.1981.PCM, DR.IS [30] de 05.02.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/15-1981-391592
+  date: '1981-01-27'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:329977:por
+  label: Rectificada pela DECL.DD7499.07.09.1978.PCM, DR.IS [206] de 07.09.1978
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1978-329977
+  date: '1978-09-07'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:15:54Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 71/78
+
+O grupo de sociedades Grão-Pará foi intervencionado por resolução do Conselho de Ministros de 19 de Fevereiro de 1975, publicada no Diário do Governo, 1.ª série, n.º 50, de 28 de Fevereiro de 1975.
+
+Este grupo apresenta potencialidades de índole turística e paraturística que urge aproveitar e que se traduzem na disponibilidade de terrenos urbanizáveis de área apreciável, na localização privilegiada dos empreendimentos, na existência de obras de expansão em adiantado estado de acabamento, na disposição de projectos de edificação, na posse de poderosos meios de construção civil, na capacidade de oferta turística e na propriedade de edifícios de considerável valor.
+
+No entanto, verificam-se actualmente pontos fracos no funcionamento das sociedades do grupo, designadamente a desmotivação da generalidade dos seus trabalhadores, a falta de quadros de todos os níveis, a deterioração das relações humanas e laborais, a deficiente preparação especializada da maioria dos quadros, a ausência de um sistema de gestão por objectivos, a carência de uma empresa holding coordenadora da actividade das sociedades, a falta de um sistema eficaz de planeamento, informação e contrôle, a deficiente estrutura orgânica e a deterioração económica e financeira.
+
+Nesta medida, considerando que:
+
+a) As perspectivas de desenvolvimento do turismo português se apresentam favoráveis e que de tal situação beneficiam as actividades que se desenvolvem a montante e a jusante deste sector;
+
+b) A análise dos planos de recuperação apresentados pela comissão administrativa das sociedades do grupo e pelas respectivas administrações suspensas permite concluir pela possibilidade de viabilização económico-financeira daquele grupo de sociedades, o que permite dispensar certas formas de auxílio a que a empresa vem recorrendo, designadamente a concessão de avales do Estado, só justificados no período transitório em que as actividades turística e de construção civil se encontraram em fase de recessão;
+
+c) A natureza provisória da gestão não permite simultaneamente definir diagnósticos, procurar e encontrar aspirações e vocações específicas, fixar objectivos, numa palavra, apontar uma estratégia de relançamento do grupo;
+
+d) O panorama apresentado demonstra que é necessário tomar medidas muito urgentes; umas imediatas, destinadas a reduzir a sangria existente na vida económica da empresa, devendo ser aplicadas no prazo máximo de três meses, e outras, de curto prazo, visando desenvolver também, desde já, e no espaço de seis meses, o estabelecimento de um plano de médio ou longo prazo para o relançamento da actividade económica das empresas nos diversos sectores onde operam, com vista à sua viabilização económica e recuperação financeira;
+
+e) É, portanto, urgente que a gestão das empresas deixe de ser transitória para adquirir características de continuidade compatíveis com a dinâmica da economia das empresas, permitindo, desse modo, motivar os trabalhadores, melhorar o aproveitamento dos recursos humanos existentes, suprir custos suplementares que a sua subutilização provoca e admitir os quadros indispensáveis;
+
+f) É necessário melhorar os sistemas de organização do grupo e implantar um sistema de contrôle de gestão, que introduzirá substanciais melhorias na sua economicidade;
+
+g) É necessário relançar, de acordo com a legislação aplicável, a actividade imobiliário-turística, estabelecendo planos de actividade de médio ou longo prazo;
+
+h) A aplicação das medidas preconizadas impõe o indispensável apoio financeiro intercalar para acabamento dos investimentos em curso, até à determinação das condições de viabilização das empresas, sendo entretanto necessário prosseguir as negociações com as entidades financiadoras de modo a conseguir crédito para acabamento dos investimentos mais avançados ou prioritários, os quais permitirão aumentar a dimensão hoteleira do grupo e melhorar as condições económicas da sua actividade, nomeadamente pela absorção de postos de trabalho excedentários nas estruturas actuais, diluindo, portanto, os custos fixos e criando novos postos de trabalho;
+
+i) É necessário dar nova estrutura aos órgãos de gestão das sociedades que satisfaça determinados requisitos, nomeadamente: elevado grau de especialização; distribuição por pelouros bem definidos; aptidão vocacionada para o negócio imobiliário-turístico, e gestão permanente nos grandes locais de actividade.
+
+Nestas condições, ouvidas as partes interessadas, o Conselho de Ministros, na sua reunião de 3 de Maio de 1978, resolveu:
+
+1 - Determinar a cessação da intervenção do Estado, com efeito a partir da publicação da presente resolução, nas seguintes sociedades:
+
+Imobiliária Construtora Grão-Pará, S. A. R. L.;
+
+Matur - Sociedade de Empreendimentos Turísticos da Madeira, S. A. R. L.;
+
+Interhotel - Sociedade Internacional de Hotéis, S. A. R. L.;
+
+Somotel - Sociedade Portuguesa de Motéis, S. A. R. L.;
+
+Autodril - Sociedade do Autódromo do Estoril, S. A. R. L.;
+
+Edec - Edificações Económicas, S. A. R. L.;
+
+Compete - Companhia Promotora de Empreendimentos Turísticos, S. A. R. L.;
+
+Comportur - Companhia Portuguesa de Urbanização e Turismo, S. A. R. L.;
+
+Orplano - Organização de Planeamento Técnico de Construção, Lda.;
+
+Agência de Viagens Rota do Atlântico, S. A. R. L.
+
+2 - Fazer cessar, na mesma data, em consequência do disposto em 1, as funções da Enatur - Empresa Nacional de Turismo, E. P., na gestão das empresas citadas, para as quais tinha sido designada nos termos da Resolução do Conselho de Ministros n.º 91/77, de 12 de Abril, publicada no Diário da República, 1.ª série, n.º 96.
+
+3 - Levantar a suspensão dos corpos sociais das sociedades indicadas em 1, com excepção dos membros do conselho fiscal, cujas funções serão entretanto desempenhadas pelos elementos previstos em 6.2, os quais serão imediatamente nomeados.
+
+4 - Fixar o prazo até 31 de Outubro do ano corrente para os corpos sociais das sociedades referidas em 1 apresentarem à instituição bancária maior credora todos os elementos necessários à celebração de um ou mais contratos de viabilização, nos termos do disposto no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e demais legislação aplicável.
+
+5 - Instituir imediatamente uma auditoria financeira externa, a designar pelo Ministro da Tutela, a qual ficará a assessorar o conselho fiscal, perante quem responderá e a quem apresentará os resultados da sua actividade, até à oportunidade em que, por alteração dos respectivos estatutos, as sociedades cumpram a obrigação prevista em 6.3.
+
+6 - Estabelecer que cada uma das sociedades indicadas em 1 proceda, no prazo de sessenta dias a contar da data da publicação desta resolução, à alteração dos respectivos estatutos, neles incluindo, obrigatoriamente, as seguintes modificações:
+
+6.1 - Autorização para as sociedades emitirem obrigações, para subscrição pública, tendo em vista as operações de saneamento financeiro que se mostrem necessárias, independentemente dos limites do artigo 196.º do Código Comercial.
+
+6.2 - Reestruturação do conselho fiscal em termos de um dos seus membros efectivos, até 1980, vir a ser designado pelo Ministério da Tutela, em representação do Estado, outro dos seus membros efectivos, até ao cumprimento das obrigações directamente decorrentes do contrato de viabilização, vir a ser designado pelo Ministério das Finanças, em representação da banca credora, e um terceiro membro efectivo vir a ser designado pelos investidores.
+
+Para os efeitos do disposto neste número, são considerados investidores as entidades seguintes:
+
+a) Titulares de contratos que lhes dêem direito à ocupação temporária de qualquer parcela de um empreendimento turístico-urbanístico, ainda que tal direito de ocupação possa ser substituído pela percepção de um juro ou outro tipo de prestação pecuniária;
+
+b) Titulares de contratos-promessa de compra e venda ainda não executados, haja ou não concomitante afectação da coisa objecto da promessa à exploração por alguma das sociedades do grupo;
+
+c) Titulares da propriedade de qualquer parcela de um empreendimento turístico-urbanístico cuja utilização esteja afecta à exploração da actividade de qualquer sociedade do grupo.
+
+6.3 - Instituição de uma auditoria financeira, a levar a cabo por entidade independente, estranha ao grupo, a contratar pelo conselho fiscal, mediante parecer favorável do Ministério da Tutela, a qual ficará a assessorar o mesmo, perante quem responderá e a quem apresentará os resultados da sua actividade.
+
+6.4 - As sociedades identificadas em 1 deverão dispor de especialistas das seguintes áreas da actividade da empresa:
+
+a) Financeira e administrativa;
+
+b) Turístico-hoteleira;
+
+c) Imobiliária e patrimonial;
+
+d) Construção civil,
+
+sendo a sua afectação às sociedades estabelecida por acordo dos vários órgãos de gestão das mesmas.
+
+7 - Estabelecer que, para efeito do disposto nesta resolução, seja convocada uma assembleia geral extraordinária com a finalidade de aprovar as alterações estatutárias referidas no número anterior, eleger novos corpos sociais, se for caso disso, e autorizar as sociedades a proceder a todas as operações de fusão, cisão, transformação e aumento ou redução de capital, as quais deverão estar efectivadas aquando da celebração do contrato de viabilização.
+
+8 - Estabelecer que, até à celebração do contrato de viabilização ou até final do ano corrente, se entretanto tal contrato não for celebrado, não seja exigido das sociedades referidas em 1 o pagamento das dívidas e respectivos acréscimos legais que se encontrem vencidos à data da desintervenção do Estado, autarquias locais, previdência social e banca nacionalizada, salvo se aquelas sociedades puderem dispor, sem prejuízo do seu regular funcionamento, de fundos suficientes para efectuar a sua liquidação. Em qualquer caso, o não pagamento será sempre justificado por escrito junto da entidade credora, com apresentação do calendário de liquidação que a empresa possa cumprir, sendo as dívidas vencidas perante a banca nacionalizada sempre tituladas.
+
+9 - Determinar que os corpos sociais do grupo deverão, até 31 de Agosto de 1978, negociar com os investidores um esquema de regularização da situação destes perante as mesmas sociedades, cujos termos e consequências deverão reflectir-se integralmente no contrato de viabilização.
+
+10 - Estabelecer que o sistema bancário conceda o apoio financeiro transitório cuja necessidade seja justificada às empresas identificadas no ponto 1, até à decisão sobre a sua viabilização, nas seguintes condições:
+
+a) Prestação, pelo Estado, imediatamente após a desintervenção, da verba de 40000 contos, equivalente ao valor locativo de quarenta meses (Janeiro de 1975 a Abril de 1978) do prédio sito na Rua de Castilho, 50, o qual desde essa data vem sendo usado pelos serviços públicos;
+
+b) Não concessão, até à celebração do contrato de viabilização, de apoio financeiro à exploração hoteleira e ao pagamento de salários das sociedades referidas em 1;
+
+c) Concessão de financiamento para apoio dos empreendimentos deste grupo, incluídos no «Plano de relançamento dos investimentos turísticos em curso com a coordenação da Enatur», com uma prestação inicial de 50000 contos e entregas posteriores escalonadas e com justificação a partir de orçamentos mensais de tesouraria, para investimentos até ao montante de 135000 contos, acrescido dos respectivos encargos financeiros.
+
+11 - As operações de financiamento que se integram no apoio financeiro transitório referido no número anterior serão garantidas por hipotecas sobre os bens das empresas, sobre as obras que venham a ser realizadas ou por quaisquer outras garantias reais ou pessoais aceites pelas entidades financiadoras.
+
+12 - Manter, nos termos do n.º 3 do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), o regime dos artigos 12.º, 13.º e 14.º do mesmo diploma relativamente a todas as sociedades indicadas em 1, até à efectiva outorga dos contratos de viabilização referidos em 4.
+
+13 - Proibir o despedimento de quaisquer trabalhadores das referidas sociedades com fundamento em factos ocorridos até à cessação da intervenção do Estado, devendo ser assegurados os postos de trabalho, sem prejuízo das medidas previstas na legislação em vigor.
+
+14 - Determinar que, enquanto se mantiver a existência de avales ou quaisquer garantias por parte do Estado a favor das empresas referidas em 1, a venda ou alienação, a qualquer título, dos bens imóveis propriedade das mesmas, bem como a sua oneração a título diverso do referido em 11, depende da autorização do Ministério da Tutela, que avaliará a inserção desses actos na gestão corrente da empresa, pedindo, sempre que considere necessário, o parecer do órgão fiscalizador.
+
+15 - Para efeitos da aplicação das medidas referidas na alínea e) do n.º 1 do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, a instituição de crédito maior credora, expressa e justificadamente deverá declarar perante os Ministérios das Finanças e do Plano e do Comércio e Turismo a impossibilidade de celebração dos contratos de viabilização, que deverão considerar tanto os aspectos de saneamento e económico-financeiro das empresas como o desenvolvimento integrado das suas actividades futuras.
+
+Presidência do Conselho de Ministros, 3 de Maio de 1978. - O Primeiro-Ministro, Mário Soares.

@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0336:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0336-20070720",
+ "dre_path": null,
+ "source_lastmod": "2007-07-20",
+ "versions": [
+  {
+   "date": "1989-05-23",
+   "future": false,
+   "celex": "31989L0336",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "982459e034bc40fb",
+    "a410d67d52000ee7",
+    "deca03676e85d28a",
+    "e5fa5d67c23cad0b",
+    "95b5ef70629a3cdf",
+    "bcbf57c7f6f43c2c",
+    "a4dd32f535b031e1",
+    "d5f13990a62e4a62",
+    "4f3ad38f090f2456",
+    "3ec66360b2f74195",
+    "c6570224c5478e20",
+    "358457e072a8e235",
+    "db9c48b3916143df",
+    "06cd5526a73cdc2d",
+    "18631b871ccf1bce",
+    "61e797e9458d5652",
+    "4cb5d5e8ec60b795"
+   ]
+  },
+  {
+   "date": "2007-07-20",
+   "future": false,
+   "celex": "01989L0336-20070720",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II — Critérios para a avaliação dos organismos a notificar",
+    "Suprime ANEXO III — Lista exemplificativa dos principais requisitos em matéria de protecção"
+   ],
+   "fragments": [
+    "15890805fcf664a9"
+   ]
+  }
+ ],
+ "fragments": {
+  "982459e034bc40fb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 89/336/CEE do Conselho de 3 de Maio de 1989 relativa à aproximação das legislações dos Estados- membros respeitantes à compatibilidade electromagnética** *Jornal Oficial nº L 139 de 23/05/1989 p. 0019 - 0026 Edição especial finlandesa: Capítulo 13 Fascículo 18 p. 0241 Edição especial sueca: Capítulo 13 Fascículo 18 p. 0241*\n\n*****\n\nDIRECTIVA DO CONSELHO\n\nde 3 de Maio de 1989\n\nrelativa à aproximação das legislações dos Estados-membros respeitantes à compatibilidade electromagnética\n\n(89/336/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 100º A,\n\nTendo em conta a proposta da Comissão (1),\n\nEm cooperação com o Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que importa adoptar medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992; que o mercado interno compreende um espaço sem fronteiras internas no qual é assegurada a livre circulação de mercadorias, de pessoas, de serviços e de capitais;\n\nConsiderando que cabe aos Estados-membros assegurar às radiocomunicações bem como aos dispositivos, aparelhos ou sistemas cujo funcionamento é susceptível de ser alterado por perturbações electromagnéticas produzidas por aparelhos eléctricos e electrónicos uma protecção suficiente contra as interferências provocadas por estas perturbações;\n\nConsiderando que compete igualmente aos Estados-membros assegurar a protecção das redes de distribuição de energia eléctrica contra as interferências electromagnéticas susceptíveis de afectar essas redes e também, por conseguinte, os equipamentos alimentados pelas mesmas redes;\n\nConsiderando que a Directiva 86/361/CEE do Conselho, de 24 de Julho de 1986, relativa à primeira etapa de reconhecimento mútuo das aprovações de equipamentos terminais de telecomunicações (4), visa, nomeadamente, os sinais emitidos por estes equipamentos quando o seu funcionamento é normal, bem como a protecção das redes públicas de telecomunicações contra qualquer dano; que é necessário, portanto, assegurar uma protecção suficiente destas redes, incluindo os aparelhos que lhes estão ligados, contra as interferências momentâneas provocadas pelos sinais de natureza acidental susceptíveis de serem emitidos por estes aparelhos;\n\nConsiderando que, em alguns Estados-membros, existem disposições imperativas que determinam, em especial, os níveis admissíveis de interferências electromagnéticas que estes aparelhos são susceptíveis de provocar e o seu grau de imunidade contra estes mesmos sinais; que estas disposições imperativas não conduzem necessariamente a níveis de protecção diferentes de um Estado-membro para outro, mas entravam, devido à sua disparidade, as trocas comerciais no interior da Comunidade;\n\nConsiderando que as disposições nacionais que asseguram esta protecção devem ser harmonizadas de modo a garantirem a livre circulação dos aparelhos eléctricos e electrónicos, sem que os níveis existentes e justificados de protecção nos Estados-membros sejam reduzidos;\n\nConsiderando que o direito comunitário, no seu estado actual, prevê que, em derrogação de uma das regras fundamentais da Comunidade, que consiste na livre circulação de mercadorias, os obstáculos à circulação intracomunitária resultantes de disparidade das disposições nacionais relativas à comercialização dos produtos devem ser aceites\n\nna medida em que estas disposições podem ser reconhecidas como necessárias à satisfação de exigências imperativas; que, por conseguinte, a harmonização legislativa no presente caso deve limitar-se às únicas disposições necessárias para satisfazer os objectivos de protecção em matéria de compatibilidade electromagnética; que estes objectivos devem substituir as disposições nacionais na matéria;\n\nConsiderando, portanto, que a presente directiva só define os objectivos de protecção em matéria de compatibilidade electromagnética; que, para facilitar a prova de conformidade com estes objectivos, é importante dispor de normas harmonizadas ao nível europeu em matéria de compatibilidade electromagnética, normas cuja observância garanta aos produtos uma presunção de conformidade com os objectivos de protecção; que estas normas harmonizadas ao nível europeu são elaboradas por organismos privados e devem conservar o seu estatuto de textos não obrigatórios; que, para o efeito, o Comité Europeu de Normalização Electrotécnica (Cenelec) é reconhecido como sendo o organismo competente no domínio da presente directiva para aprovar as normas harmonizadas, de acordo com as orientações gerais para a cooperação entre a Comissão e o Comité Europeu de Normalização (CEN) e o Cenelec, assinadas em 13 de Novembro de 1984; que, na acepção da presente directiva, uma norma harmonizada é uma especificação técnica (norma europeia ou documento de harmonização) adoptada pelo Cenelec sob mandato da Comissão, nos termos da Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas (1), com a última redacção que lhe foi dada pela Directiva 88/182/CEE (2), bem como por força das orientações gerais acima referidas;\n\nConsiderando que, enquanto se aguarda a adopção de normas harmonizadas na acepção da presente directiva, é oportuno facilitar a livre circulação de mercadorias através da aceitação a nível comunitário, e a título transitório, de aparelhos conformes às normas nacionais adoptadas de acordo com um procedimento de controlo comunitário destinado a assegurar que estas normas nacionais correspondam aos objectivos de protecção da presente directiva;\n\nConsiderando que a declaração CE de conformidade relativa ao aparelho constitui um pressuposto da sua conformidade com a presente directiva; que esta declaração deve apresentar-se na forma mais simples possível;\n\nConsiderando, no entanto, que, relativamente aos aparelhos abrangidos pela Directiva 86/361/CEE, deve garantir-se a observância da presente directiva através de marcas ou certificados de conformidade emitidos por organismos notificados pelos Estados-membros, a fim de se obter uma protecção eficaz em matéria de compatibilidade electromagnética; que, para facilitar o reconhecimento mútuo das marcas e certificados emitidos por estes organismos, é conveniente harmonizar os critérios a ter em consideração para os designar;\n\nConsiderando, todavia, que alguns aparelhos podem perturbar as radiocomunicações e as redes de telecomunicações; que é conveniente, portanto, prever um procedimento destinado a minimizar este perigo;\n\nConsiderando que a presente directiva se aplica aos aparelhos e materiais que são objecto das Directivas 76/889/CEE (1) e 76/890/CEE (2), relativas à harmonização das legislações dos Estados-membros sobre interferências radioeléctricas produzidas pelos aparelhos electrodomésticos, ferramentas portáteis e aparelhos similares e à supressão das interferências radioeléctricas das luminárias com arrancador para iluminação fluorescente; que é conveniente, portanto, revogar estas directivas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "a410d67d52000ee7": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nNa acepção da presente directiva, entende-se por:\n\n1. « Aparelhos »: todos os aparelhos eléctricos e electrónicos, bem como os equipamentos e instalações que contêm componentes eléctricos e/ou electrónicos;\n\n2. «Interferências electromagnéticas »: os fenómenos electromagnéticos susceptíveis de criar perturbações no funcionamento de um dispositivo, de um aparelho ou de um sistema. São considerados interferências electromagnéticas um ruído electromagnético, um sinal indesejado ou uma alteração do próprio meio de propagação;\n\n3. « Imunidade » a capacidade de um dispositivo, de um aparelho ou de um sistema para funcionar sem diminuição de qualidade em presença de uma interferência electromagnética;\n\n4. « Compatibilidade electromagnética »: a capacidade de um dispositivo, de um aparelho ou de um sistema para funcionar no seu ambiente electromagnético de modo satisfatório e sem produzir ele próprio interferências electromagnéticas intoleráveis para tudo o que se encontre nesse ambiente;\n\n5. « Organismo competente »: qualquer organismo que satisfaça os critérios enumerados no anexo II e reconhecido como tal;\n\n6. « Certificado de tipo CE »: documento pelo qual um organismo notificado nos termos do nº 6 do artigo 10º certifica que o tipo de aparelho analisado satisfaz as disposições da presente directiva que lhe são aplicáveis."
+  },
+  "deca03676e85d28a": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A presente directiva aplica-se aos aparelhos susceptíveis de criar interferências electromagnéticas ou cujo funcionamento é susceptível de ser afectado por essas interferências.\n\nA presente directiva fixa os requisitos de protecção nestas matérias bem como as respectivas modalidades de controlo.\n\n2. Na medida em que os requisitos de protecção especificados na presente directiva sejam harmonizados, quanto a determinados aparelhos, por directivas específicas, a presente directiva não se aplicará, ou deixará de se aplicar a esses aparelhos e requisitos de protecção após a entrada em vigor dessas directivas específicas.\n\n3. São excluídos do campo de aplicação da presente directiva os equipamentos de rádio utilizados por rádio-amadores, na acepção da definição nº 53 do artigo 1º do Regulamento Rádio, que faz parte da Convenção Internacional das Telecomunicações, excepto se esse equipamento se encontrar disponível no comércio."
+  },
+  "e5fa5d67c23cad0b": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros tomarão todas as disposições necessárias para que os aparelhos referidos no artigo 2º só possam ser colocados no mercado ou em serviço se satisfazerem os requisitos fixados na presente directiva, se forem instalados e mantidos convenientemente e se forem utilizados de acordo com os fins a que se destinam."
+  },
+  "95b5ef70629a3cdf": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs aparelhos referidos no artigo 2º devem ser fabricados de forma a que:\n\na) As interferências electromagnéticas sejam limitadas a um nível que permita aos aparelhos de rádio e telecomunicações e aos outros aparelhos funcionar de acordo com os fins a que se destinam;\n\nb) Os aparelhos tenham um nível adequado de imunidade intrínseca contra as interferências electromagnéticas que lhes permita funcionar de acordo com os fins a que se destinam.\n\nOs principais requisitos em matéria de protecção constam do anexo III."
+  },
+  "bcbf57c7f6f43c2c": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nOs Estados-membros não levantarão obstáculos, por motivos relacionados com a compatibilidade electromagnética, à colocação no mercado ou à entrada em serviço no seu território dos aparelhos que são objecto da presente directiva e obedeçam às respectivas disposições."
+  },
+  "a4dd32f535b031e1": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\n1. Os requisitos da presente directiva não obstam à aplicação, num Estado-membro, das seguintes medidas especiais:\n\na) As medidas relativas à entrada em funcionamento e à utilização do aparelho, tomadas para um local específico, com vista a solucionar um problema de compatibilidade electromagnética existente ou previsível;\n\nb) As medidas relativas à instalação do aparelho, tomadas para protecção das redes de telecomunicações públicas ou das estações receptoras ou emissoras utilizadas por razões de segurança.\n\n2. Sem prejuízo do disposto na Directiva 83/189/CEE, os Estados-membros informarão a Comissão e os outros Estados-membros das medidas especiais que tenham tomado por força do número anterior.\n\n3. As medidas especiais que forem reconhecidas como justificadas serão objecto de informação adequada no Jornal Oficial das Comunidades Europeias, por iniciativa da Comissão."
+  },
+  "d5f13990a62e4a62": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os Estados-membros atribuirão uma presunção de conformidade com os requisitos de protecção referidos no artigo 4º aos aparelhos que estejam de acordo:\n\na) Com as normas nacionais aplicáveis a esses aparelhos que sejam a transposição de normas harmonizadas cujas referências tenham sido objecto de publicação no Jornal Oficial das Comunidades Europeias. Os Estados-membros publicarão as referências dessas normas nacionais; ou\n\nb) Com as normas nacionais aplicáveis a esses aparelhos, referidas no nº 2 na medida em que nos domínios abrangidos por essas normas não existam normas harmonizadas.\n\n2. Os Estados-membros comunicarão à Comissão o texto das normas nacionais referidas na alínea b) do nº 1, que considerem obedecer aos requisitos de protecção referidos no artigo 4º A Comissão comunicará imediatamente esse texto aos outros Estados-membros. A Comissão notificará os Estados-membros, nos termos do procedimento previsto no nº 2 do artigo 8º, das normas que beneficiem da presunção de conformidade com os objectivos de protecção referidos no artigo 4º\n\nOs Estados-membros publicarão as referências destas normas. A Comissão publicá-las-á igualmente no Jornal Oficial das Comunidades Europeias.\n\n3. Os Estados-membros aceitarão que os aparelhos em relação aos quais o fabricante não aplicou parcialmente ou só aplicou parcialmente as normas referidas no nº 1, ou no caso de inexistência de normas, beneficiem da presunção de conformidade com os requisitos de protecção referidos no artigo 4º desde que a sua conformidade com esses requisitos seja comprovada pelo meio da prova referida no nº 2 do artigo 10º"
+  },
+  "4f3ad38f090f2456": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. Quando um Estado-membro ou a Comissão considerarem que as normas harmonizadas referidas no nº 1, alínea a), do artigo 7º não obedecem inteiramente aos requisitos constantes do artigo 4º, o Estado-membro ou a Comissão recorrerão ao Comité Permanente instituído pela Directiva 83/189/CEE, a seguir denominado « Comité », expondo as suas razões. O Comité emitirá, com urgência, um parecer.\n\nPerante o parecer do Comité, a Comissão notificará o mais rapidamente possível os Estados-membros sobre se as normas em questão devem ou não ser retiradas, no todo ou em parte, das publicações referidas no nº 1, alínea a), do artigo 7º 2. Após recepção da comunicação referida no nº 2 do artigo 7º, a Comissão consultará o Comité. Perante o parecer deste último, a Comissão notificará o mais rapidamente possível os Estados-membros sobre se a norma em causa deve ou não beneficiar da presunção de conformidade e, em caso afirmativo, ser desde logo objecto de uma publicação nacional de referência.\n\nSe a Comissão ou um Estado-membro considerar que uma norma nacional deixou de preencher as condições necessárias para beneficiar da presunção de conformidade com os requisitos de protecção referidos no artigo 4º, a Comissão consultará o Comité, que emitirá imediatamente o seu parecer. Perante este parecer, a Comissão notificará o mais rapidamente possível os Estados-membros sobre se a norma em causa deve ou não beneficiar da presunção de conformidade e, neste caso, ser retirada, no todo ou em parte, das publicações referidas no nº 2 do artigo 7º"
+  },
+  "3ec66360b2f74195": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. Quando um Estado-membro verificar que um aparelho acompanhado de um dos meios de prova referidos no artigo 10º não obedece aos requisitos de protecção referidos no artigo 4º, tomará todas as medidas necessárias para retirar ou proibir a colocação do aparelho em causa no mercado ou para restringir a sua livre circulação.\n\nO Estado-membro em causa informará imediatamente a Comissão desta medida, indicando as razões de sua decisão e, em especial, se a não conformidade resultar:\n\na) Do não cumprimento dos requisitos referidos no artigo 4º, quando o aparelho não corresponder às normas referidas no nº 1 do artigo 7º;\n\nb) De má aplicação das normas referidas no nº 1 do artigo 7º;\n\nc) De uma lacuna das próprias normas referidas no nº 1 do artigo 7º\n\n2. A Comissão procederá a consultas com as partes interessadas no mais curto prazo. Se a Comissão verificar, após essas consultas, que a acção é justificada, informará imediatamente o Estado-membro que tomou a iniciativa, bem como os outros Estados-membros.\n\nQuando a decisão referida no número anterior for motivada por uma lacuna das normas, a Comissão, após consulta das partes interessadas, recorrerá ao Comité no prazo de dois meses, se o Estado-membro que tiver tomado as medidas entender que deve mantê-las e dará início aos procedimentos referidos no artigo 8º\n\n3. Quando um aparelho não conforme for acompanhado de um dos meios de prova referidos no artigo 10º, o Estado-membro competente tomará as medidas necessárias, contra o autor da prova, informando do facto a Comissão e os outros Estados-membros.\n\n4. A Comissão certificar-se-á de que os Estados-membros são mantidos ao corrente do desenrolar e dos resultados deste processo."
+  },
+  "c6570224c5478e20": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. No caso de aparelhos relativamente aos quais o fabricante tenha aplicado as normas referidas no nº 1 do artigo 7º, a conformidade dos aparelhos com a presente directiva será comprovada por uma declaração CE de conformidade emitida pelo fabricante ou por mandatário deste estabelecido na Comunidade. Essa declaração deve ser mantida à disposição de autoridade competente durante dez anos após a colocação dos aparelhos no mercado.\n\nAlém disso, o fabricante ou o seu mandatário estabelecido na Comunidade aporão a marca CE de conformidade no próprio aparelho ou, se isso não for possível, na embalagem, no modo de emprego ou no certificado de garantia.\n\nQuando nem o fabricante nem o seu mandatário estiverem estabelecidos na Comunidade, a obrigação acima referida de manter à disposição a declaração CE de conformidade incumbe a qualquer pessoa que comercialize o aparelho no mercado comunitário.\n\nAs disposições relativas à declaração CE e à marca CE encontram-se reproduzidas no anexo I.\n\n2. No caso de aparelhos relativamente aos quais o fabricante não tenha aplicado, ou apenas tenha aplicado parcialmente as normas referidas no nº 1 do artigo 7º, ou na ausência de normas, o fabricante ou o seu mandatário estabelecido na Comunidade porão à disposição das autoridades competentes em causa, a partir da colocação no mercado, um « dossier » técnico de construção. Este « dossier » deverá incluir uma descrição do aparelho, mencionar as regras aplicadas para garantir a conformidade do aparelho com os requisitos de protecção referidos no artigo 4º e conter um relatório técnico ou um certificado emitidos por um organismo competente.\n\nO « dossier » deve ser mantido à disposição das autoridades competentes durante dez anos após a colocação dos aparelhos no mercado.\n\nQuando nem o fabricante nem o seu mandatário se encontrem estabelecidos na Comunidade, a obrigação de manter disponível o « dossier » incumbe a qualquer pessoa que coloque o aparelho no mercado comunitário.\n\nA conformidade dos aparelhos com a descrição constante do « dossier » técnico será comprovada nos termos do procedimento previsto no número anterior.\n\nSem prejuízo do disposto no presente número, os Estados-membros aplicarão a presunção de que estes aparelhos são conformes aos requisitos de protecção referidos no artigo 4º 3. Enquanto não forem produzidas as normas a que se refere o nº 1 do artigo 7º, e sem prejuízo do disposto no nº 2 do presente artigo, os aparelhos em causa, podem continuar sujeitos, a título transitório e o mais tardar até 31 de Dezembro de 1992, aos regimes nacionais em vigor à data de adopção da presente directiva, desde que esses regimes sejam compatíveis com as disposições do tratado.\n\n4. A conformidade dos aparelhos referidos no nº 2 do artigo 2º da Directiva 86/361/CEE com as disposições da presente directiva será certificado nos termos do procedimento previsto no nº 1, depois de o fabricante ou o seu mandatário estabelecido na Comunidade terem obtido um atestado de tipo CE relativo a esses aparelhos, emitido por um dos organismos notificados a que se refere o nº 6 do presente artigo.\n\n5. A conformidade dos aparelhos concebidos para emissão de radiocomunicações, tal como são definidas na Convenção da União Internacional das Telecomunicações, com a presente directiva será certificada nos termos do procedimento previsto no nº 1 do presente artigo, depois de o fabricante ou o seu mandatário estabelecido na Comunidade terem obtido um atestado de tipo CE relativo a esses aparelhos, emitido por um dos organismos notificados a que se refere o nº 6 do presente artigo.\n\nEsta disposição não se aplica aos aparelhos acima referidos, quando concebidos e destinados exclusivamente à utilização por rádio-amadores, na acepção do nº 3 do artigo 2º\n\n6. Cada Estado-membro notificará à Comissão e aos restantes Estados-membros quais as autoridades competentes referidas no presente artigo e quais os organismos encarregados de emitir os atestados de tipo CE referidos nos nºs 4 e 5. A Comissão publicará, a título informativo, a lista desses organismos no Jornal Oficial das Comunidades Europeias e assegurará a respectiva actualização.\n\nA notificação deverá especificar se esses organismos são competentes relativamente a todos os aparelhos abrangidos pela presente directiva ou se a sua responsabilidade se limita a determinados domínios específicos.\n\nOs Estados-membros aplicarão os critérios enumerados no anexo II para a avaliação dos organismos a notificar.\n\nPresume-se que obedecem aos critérios acima referidos os organismos que satisfazem os critérios da avaliação estabelecidos pelas normas harmonizadas aplicáveis.\n\nUm Estado-membro que tenha notificado um organismo deve retirar a sua aprovação se verificar que esse organismo deixou de satisfazer os critérios enumerados no anexo II. Do facto dará imediato conhecimento à Comissão e aos outros Estados-membros."
+  },
+  "358457e072a8e235": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nSão revogadas, a partir de 1 de Janeiro de 1992, a Directiva 76/889/CEE e a Directiva 76/890/CEE."
+  },
+  "db9c48b3916143df": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\n1. Os Estados-membros adoptarão e publicarão, antes de 1 de Julho de 1991, as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva. Os Estados-membros informarão a Comissão desse facto.\n\nOs Estados-membros aplicarão as presentes disposições a partir de 1 de Janeiro de 1992.\n\n2. Os Estados-membros comunicarão à Comissão os textos das disposições de direito interno que adoptarem no domínio regido pela presente directiva."
+  },
+  "06cd5526a73cdc2d": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas, em 3 de Maio de 1989.\n\nPelo Conselho\n\nO Presidente\n\nP. SOLBES\n\n(1) JO nº C 322 de 2. 12. 1987, p. 4.\n\n(2) JO nº C 262 de 10. 10. 1988, p. 82.\n\nJO nº C 69 de 20. 3. 1989, p. 72.\n\n(3) JO nº C 134 de 24. 5. 1988, p. 2.\n\n(4) JO nº L 217 de 5. 8. 1986, p. 21.\n\n(1) JO nº L 109 de 26. 4. 1983, p. 8.\n\n(2) JO nº L 81 de 26. 3. 1988, p. 75.\n\n(3) JO nº L 336 de 4. 12. 1976, p. 1.\n\n(4) JO nº L 336 de 4. 12. 1976, p. 22."
+  },
+  "18631b871ccf1bce": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n1. Declaração CE de conformidade\n\nDa declaração CE de conformidade deverão constar os seguintes elementos:\n\n- descrição do aparelho ou dos aparelhos em causa,\n\n- indicação das especificações em relação às quais se declara a conformidade e, eventualmente, as medidas internas aplicadas para assegurar a conformidade dos aparelhos com as disposições da directiva,\n\n- identificação do signatário autorizado a representar o fabricante ou o seu mandatário,\n\n- eventualmente, a referência do atestado de tipo CE emitido por um organismo notificado.\n\n2. Marca CE de conformidade\n\n- A marca CE de conformidade é constituída pela sigla CE abaixo representada e pela indicação do ano em que a marca foi aposta.\n\n- Esta marca deverá, se necessário, ser completada pela sigla destintiva do organismo notificado que emitiu a prova de tipo CE.\n\n- Quando os aparelhos forem objecto de outras directivas que prevejam a marca CE de conformidade, a aposição da marca CE indicará igualmente a conformidade com os requisitos correspondentes dessas directivas."
+  },
+  "61e797e9458d5652": {
+   "fragment_id": "ANEXO II — Critérios para a avaliação dos organismos a notificar",
+   "type": "divisao",
+   "heading": "ANEXO II — Critérios para a avaliação dos organismos a notificar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Critérios para a avaliação dos organismos a notificar\n\nOs organismos designados pelos Estados-membros devem obedecer às seguintes condições mínimas:\n\n1. Disponibilidade em pessoal, bem como em meios e equipamentos necessários;\n\n2. Competência técnica e integridade profissional do pessoal;\n\n3. Independência, no que diz respeito à execução dos testes, elaboração dos relatórios, emissão de atestados e realização da fiscalização previstas na presente directiva, dos funcionários superiores e do pessoal técnico em relação a todos os meios, agrupamentos ou pessoas, directa ou indirectamente interessadas no domínio do produto em causa;\n\n4. Respeito do sigilo profissional pelo pessoal;\n\n5. Subscrição de um seguro de responsabilidade civil, se esta responsabilidade não for coberta pelo Estado com base no direito nacional.\n\nAs condições referidas nos pontos 1 e 2 serão periodicamente verificadas pelas autoridades competentes dos Estados-membros."
+  },
+  "4cb5d5e8ec60b795": {
+   "fragment_id": "ANEXO III — Lista exemplificativa dos principais requisitos em matéria de protecção",
+   "type": "divisao",
+   "heading": "ANEXO III — Lista exemplificativa dos principais requisitos em matéria de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Lista exemplificativa dos principais requisitos em matéria de protecção\n\nO nível máximo das interferências electromagnéticas geradas pelos aparelhos deve ser de modo a não perturbar a utilização designadamente dos aparelhos seguintes:\n\na) Receptores de rádio e de televisão privados;\n\nb) Equipamentos industriais;\n\nc) Equipamentos rádio móveis;\n\nd) Equipamentos rádio móveis e radiotelefónicos comerciais;\n\ne) Aparelhos médicos e científicos;\n\nf) Equipamentos das tecnologias da informação;\n\ng) Aparelhos domésticos e equipamentos electrónicos domésticos;\n\nh) Aparelhos de rádio para a aeronáutica e a marinha;\n\ni) Equipamentos educativos electrónicos;\n\nj) Redes e aparelhos de telecomunicações;\n\nk) Emissores de rádio e de teledifusão;\n\nl) Iluminação e lâmpadas fluorescentes.\n\nOs aparelhos, e nomeadamente os mencionados nas alíneas a) a l), devem ser fabricados por forma a terem um nível adequado de imunidade electromagnética num ambiente de compatibilidade electromagnética (CEM) normal nos locais em que os mesmos se destinam a funcionar, de modo a poderem ser utilizados sem perturbação, tendo em conta os níveis da interferência gerada pelos aparelhos conformes com as normas definidas no artigo 7º\n\nAs informações necessárias para permitir uma utilização conforme com o fim a que o aparelho se destina devem constar do folheto de instruções que o acompanha."
+  },
+  "15890805fcf664a9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1989L0336 — PT — 20.07.2007 — 002.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31989L0336) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0336) [de 3 de Maio de 1989](http://publications.europa.eu/resource/celex/31989L0336) [relativa à aproximação das legislações dos Estados-membros respeitantes à compatibilidade electromagnética](http://publications.europa.eu/resource/celex/31989L0336) [(89/336/CEE)](http://publications.europa.eu/resource/celex/31989L0336) (JO L 139, 23.5.1989, p.19)\n\n**revogado por:**\n\n- [Directiva 2004/108/CE do Parlamento Europeu e do Conselho de 15 de Dezembro de 2004](http://publications.europa.eu/resource/celex/32004L0108) — L 390 — 24 — 31.12.2004"
+  }
+ }
+}

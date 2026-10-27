@@ -1,0 +1,278 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75158991:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-900705435",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/39-2016-75158991",
+ "source_lastmod": "2024-12-19",
+ "versions": [
+  {
+   "date": "2016-08-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "900704270",
+    "900704271",
+    "900704272",
+    "900704273",
+    "900704274",
+    "900786475",
+    "900786476",
+    "900786477",
+    "900786478",
+    "900786479",
+    "900786480",
+    "900786481",
+    "900786482",
+    "900786483",
+    "900786484",
+    "900786485",
+    "900786486",
+    "900786487",
+    "900786488"
+   ]
+  },
+  {
+   "date": "2024-12-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:900706910:por",
+     "title": "Decreto Legislativo Regional n.º 18/2024/M",
+     "published": "2024-12-19",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/18-2024-900706910"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "900704270",
+    "900704271",
+    "900704272",
+    "900704273",
+    "900786509",
+    "900786510",
+    "900786476",
+    "900786477",
+    "900786511",
+    "900786512",
+    "900786480",
+    "900786481",
+    "900786482",
+    "900786483",
+    "900786484",
+    "900786485",
+    "900786486",
+    "900786487",
+    "900786488",
+    "900786489"
+   ]
+  }
+ ],
+ "fragments": {
+  "900704270": {
+   "fragment_id": "900705436",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 39/2016/M\n\nAprova o Programa Regional de Apoios à Comunicação Social Privada\n\nO novo regime de incentivos do Estado à comunicação social foi aprovado mediante a publicação do Decreto-Lei n.º 23/2015, de 6 de fevereiro, de forma a acompanhar uma tendência verificada noutros países, de aprofundamento e revisão dos regimes de apoios diretos e indiretos à comunicação social.\n\nNão obstante ser vocacionado para apoiar órgãos de comunicação social de âmbito regional e local, este novo regime de incentivos do Estado não deixa, também, de abranger órgãos de âmbito nacional, contemplando um conjunto de normas que exprimem a abrangência e amplitude que o legislador nacional pretendeu conferir ao mencionado diploma.\n\nTodavia, apesar de os órgãos de comunicação social da Região Autónoma da Madeira serem elegíveis para efeitos do Decreto-Lei n.º 23/2015, de 6 de fevereiro, a prática demonstra-nos que se afigura necessário instituir um regime especificamente centrado na realidade regional insular, que se apresente não como alternativa ao sistema de incentivos nacional, mas complementar e interligado a este, e que tenha por objetivo atender às especificidades do setor da comunicação social privada nesta Região Autónoma.\n\nCiente do papel de excecional relevância desempenhado pela comunicação social regional, quer em termos sociais, como na sua vertente cultural, reconhecendo a importância de promover na Região um setor mais dinâmico e empreendedor, com a contínua salvaguarda da pluralidade, independência e diversidade, o novo programa de apoios pretende conferir um conjunto de instrumentos que sejam potenciadores do desenvolvimento, divulgação e difusão dos órgãos de comunicação regionais já existentes, mas também que possa contribuir para o surgimento de novos media, nomeadamente nas suas vertentes escrita ou digital.\n\nAcresce que, a criação de um programa de apoio à comunicação social privada, não poderá descurar as dificuldades experimentadas pelas empresas do setor, sobretudo centradas nos custos que diariamente são forçadas a assumir e que são determinantes para o seu regular funcionamento, assim como nos sobrecustos derivados da circunstância de exercerem a sua atividade numa Região afetada de forma permanente pela sua condição ultraperiférica.\n\nDeste modo, o regime consagrado no atual diploma encontra-se especialmente vocacionado para apoiar o funcionamento das empresas privadas detentoras dos órgãos de comunicação social abrangidos.\n\nCom o presente regime de apoios procura-se ainda, de forma complementar, assegurar a manutenção do emprego ou mesmo promover a criação de postos de trabalho no setor, nomeadamente mediante a obrigatoriedade de conservação do quadro de pessoal durante a vigência dos incentivos.\n\nDe modo a envolver na elaboração deste normativo aqueles que são os interessados diretos, procedeu-se a uma ronda de auscultação aos responsáveis de todos os órgãos de comunicação social privados na Região, abrangidos pelo presente diploma, com o objetivo de recolher as suas críticas e os seus contributos.\n\nAssim, a Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a), do n.º 1 do artigo 227.º, e ainda do n.º 1 do artigo 228.º, ambos da Constituição da República Portuguesa, também da alínea c), do n.º 1 do artigo 37.º, da alínea aa), do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, na redação dada pela Lei n.º 130/99, de 21 de agosto, e pela Lei n.º 12/2000, de 21 de junho, o seguinte:"
+  },
+  "900704271": {
+   "fragment_id": "900705437",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma aprova o Programa Regional de Apoios à Comunicação Social Privada, adiante denominado de MEDIARAM."
+  },
+  "900704272": {
+   "fragment_id": "900705438",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Os apoios aprovados pelo presente decreto legislativo regional aplicam-se aos órgãos de comunicação social de natureza privada, com sede e difusão na Região Autónoma da Madeira.\n\n2 - Podem candidatar-se aos apoios previstos no presente diploma:\n\na) As pessoas singulares ou coletivas, que sejam proprietárias ou editoras de publicações periódicas, em língua portuguesa, registadas na Entidade Reguladora para a Comunicação Social (ERC);\n\nb) As pessoas singulares ou coletivas que sejam proprietárias ou editoras de plataformas digitais de informação regional e local, registadas na Entidade Reguladora para a Comunicação Social (ERC).\n\n3 - As pessoas singulares e coletivas que integrem simultaneamente as alíneas a) e b) do número anterior, apenas poderão apresentar uma candidatura ao presente programa de apoios, optando pela qualidade na qual se candidatam.\n\n4 - Encontram-se excluídas do presente diploma as pessoas coletivas que tenham participação do Estado, das Regiões Autónomas ou de quaisquer outras entidades públicas, de caráter administrativo ou empresarial, por forma direta ou indireta.\n\n5 - Os operadores de radiodifusão sonora a operarem como rádios regionais ou locais, estão excluídos do âmbito de aplicação do presente diploma."
+  },
+  "900704273": {
+   "fragment_id": "900705439",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipologia de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipologia de apoios\n\nO programa regional de apoios, aprovado pelo presente decreto legislativo regional, permite a seguinte atribuição de incentivos:\n\na) O apoio à produção;\n\nb) O apoio especial ao emprego."
+  },
+  "900704274": {
+   "fragment_id": "900705440",
+   "type": 11,
+   "heading": "Artigo 4.º — Interligação e cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Interligação e cumulação de apoios\n\n1 - O regime de apoios aprovado pelo presente decreto legislativo regional encontra-se estruturado em duas tipologias, enunciadas no artigo anterior, e implica a impossibilidade das entidades beneficiárias do presente regime de incentivos apresentarem candidaturas a quaisquer outros programas de apoios direcionados para o funcionamento, nomeadamente ao Sistema de Apoio à Compensação dos Custos Adicionais das Empresas da Região Autónoma da Madeira (Funcionamento 2020), criado e regulamentado pela Portaria n.º 119/2015, de 17 de julho, ou outros previstos na lei, conferidos por outros organismos ou entidades públicas regionais.\n\n2 - O presente regime de apoios não prejudica a aplicação aos órgãos de comunicação social de âmbito regional ou local, de quaisquer outros sistemas de incentivos, gerais ou especiais, nomeadamente aqueles destinados ao investimento, bem como os destinados ao incentivo à leitura de publicações periódicas, aprovado pelo Decreto-Lei n.º 98/2007, de 2 de abril, alterado pelo Decreto-Lei n.º 22/2015, de 6 de fevereiro, e ainda os incentivos do Estado à comunicação social, aprovado pelo Decreto-Lei n.º 23/2015, de 6 de fevereiro, adaptado à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 8/2015/M, de 1 de dezembro."
+  },
+  "900786475": {
+   "fragment_id": "900705441",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições gerais de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições gerais de elegibilidade\n\n1 - São elegíveis ao regime de apoios aprovado pelo presente decreto legislativo regional, as entidades mencionadas na alínea a) do n.º 2 do artigo 2.º, sediadas e a exercerem a sua atividade na Região Autónoma da Madeira, cujas publicações preencham, cumulativamente, os seguintes requisitos:\n\na) Tenham âmbito regional ou local;\n\nb) Sejam de informação geral;\n\nc) Tenham periodicidade pelo menos semanal, nos doze meses anteriores à data de apresentação da candidatura;\n\nd) Tenham pelo menos um ano de registo na ERC e de edição ininterrupta à data de apresentação de candidatura;\n\ne) Que nos doze meses anteriores à apresentação da candidatura, possuam um mínimo de oito jornalistas com carteira profissional devidamente validada pelas entidades competentes, seis dos quais a tempo inteiro;\n\nf) Tenham, nos doze meses anteriores à data de apresentação da candidatura, uma tiragem média mínima por edição de cinco mil exemplares, comprovada pela Associação Portuguesa para o Controlo de Tiragem e Circulação (APCT) ou por outra entidade certificadora, devidamente acreditada pelo Instituto Português de Acreditação, I. P. (IPAC).\n\n2 - São, também, elegíveis para o regime de apoios previsto no presente decreto legislativo regional as entidades mencionadas na alínea b) do n.º 2 do artigo 2.º, sediadas e a exercerem a sua atividade na Região Autónoma da Madeira, cujas plataformas digitais de informação preencham, cumulativamente, os seguintes requisitos:\n\na) Sejam de âmbito regional ou local;\n\nb) Sejam de informação geral;\n\nc) Na data da apresentação da candidatura, cumpram um período mínimo de um ano de registo na ERC;\n\nd) Possuam produção informativa própria, atualizada diariamente;\n\ne) Que, nos doze meses anteriores à apresentação da candidatura, possuam um mínimo de quatro jornalistas com carteira profissional devidamente validada pelas entidades competentes, dois dos quais a tempo inteiro.\n\n3 - Só podem ser beneficiárias dos apoios previstos no presente diploma, as entidades que contratualmente se comprometam a manter o respetivo quadro de pessoal ou, nos casos em que não exista, o respetivo número de trabalhadores.\n\n4 - As entidades que mantenham pelo menos 75 % do seu quadro de pessoal pelo período de dois anos a contar da data de apresentação da respetiva candidatura, poderão ainda beneficiar dos apoios conferidos pelo presente diploma, embora sendo-lhes aplicável uma redução do incentivo nos termos a definir em portaria conjunta dos membros do Governo Regional com a competência em matéria de comunicação social e com a competência em matéria de finanças.\n\n5 - Para efeitos de candidatura, são elegíveis as despesas apresentadas com referência a um período de doze meses, tendo por base a estimativa dos custos a suportar pela entidade beneficiária no que concerne ao período para o qual é apresentada a candidatura."
+  },
+  "900786476": {
+   "fragment_id": "900705442",
+   "type": 11,
+   "heading": "Artigo 6.º — Exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exclusões\n\nNão estão abrangidas pelos apoios previstos no presente diploma as publicações periódicas e as plataformas digitais que se enquadrem em alguma das seguintes alíneas:\n\na) Pertencentes ou editadas, direta ou indiretamente, por partidos ou associações políticas;\n\nb) Pertencentes ou editadas, direta ou indiretamente, por associações sindicais, patronais ou profissionais;\n\nc) De conteúdo predominantemente religioso ou que se destinem, de forma predominante, a promover confissões religiosas;\n\nd) Pertencentes ou editadas pela administração central, regional ou local, bem como por quaisquer serviços ou departamentos delas dependentes ou empresas cujo capital social tenha a participação direta ou indireta do Estado, das Regiões Autónomas ou das autarquias locais;\n\ne) Pertencentes ou editadas por concessionários de serviços públicos;\n\nf) De conteúdo pornográfico ou incitadoras, de forma direta ou indireta, ao ódio e à violência;\n\ng) Que incluam mensagens discriminatórias, nomeadamente de teor sexista, racista, homofóbico ou contrário aos princípios do Estado de Direito democrático;\n\nh) Que não sejam maioritariamente distribuídas na Região Autónoma da Madeira;\n\ni) Que ocupem com conteúdo publicitário uma superfície superior a 30 % do espaço disponível de edição, incluindo suplementos e encartes, calculada com base na média das edições publicadas nos 12 meses anteriores à data de apresentação da respetiva candidatura;\n\nj) Que não se integrem no conceito de imprensa, definido na lei."
+  },
+  "900786477": {
+   "fragment_id": "900705443",
+   "type": 11,
+   "heading": "Artigo 7.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Encargos\n\nOs encargos decorrentes da aplicação do presente diploma são inscritos anualmente no orçamento do departamento do Governo Regional com a tutela da comunicação social"
+  },
+  "900786478": {
+   "fragment_id": "900705444",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio à produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio à produção\n\n1 - O incentivo no âmbito do apoio à produção tem como objetivo suportar iniciativas diretamente relacionadas com a produção de órgãos de comunicação social, incentivando o seu crescimento, promovendo a divulgação de assuntos de caráter regional e local, estimulando a leitura e proporcionando a captação de novos leitores.\n\n2 - Consideram-se elegíveis, no âmbito do presente tipo de apoio, as seguintes despesas:\n\na) Custos com a aquisição, transporte e manuseamento do papel utilizado na impressão;\n\nb) Custo com a atividade de impressão do órgão de comunicação social;\n\nc) Encargos suportados com manutenção de plataformas informáticas e alojamento de conteúdos respeitantes à edição dos meios de comunicação;\n\nd) Encargos suportados respeitantes a contratos e/ou prestação de serviços por parte de agências noticiosas;\n\ne) Encargos suportados com telecomunicações.\n\n3 - O apoio às iniciativas referidas no n.º 1 consiste na comparticipação, a título de incentivo não reembolsável, de um montante correspondente a 25 % das despesas elegíveis executadas da candidatura aprovada, nos termos a definir em portaria conjunta dos membros do Governo Regional com a competência em matéria de comunicação social e com a competência em matéria de finanças."
+  },
+  "900786479": {
+   "fragment_id": "900705445",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio especial ao emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio especial ao emprego\n\n1 - O apoio especial ao emprego tem por objetivo compensar os custos laborais suportados pelas empresas proprietárias de órgãos de comunicação social, nomeadamente com as remunerações atribuídas aos seus trabalhadores e respetivos encargos sociais.\n\n2 - Consideram-se elegíveis, no âmbito do presente tipo de apoio, as seguintes despesas:\n\na) Custos suportados com os salários brutos pagos aos trabalhadores;\n\nb) Custos suportados com as contribuições obrigatórias para a segurança social;\n\nc) O apoio a conceder no âmbito deste incentivo será regulamentado mediante portaria conjunta dos membros do Governo Regional com a competência em matéria de comunicação social e com a competência em matéria de finanças.\n\n3 - O apoio a conceder, referido no n.º 1, consiste na comparticipação, a título de incentivo não reembolsável, de um montante correspondente a 25 % das despesas elegíveis executadas da candidatura aprovada, nos termos a definir em portaria conjunta dos membros do Governo Regional com a competência em matéria de comunicação social e com a competência em matéria de finanças."
+  },
+  "900786480": {
+   "fragment_id": "900705446",
+   "type": 11,
+   "heading": "Artigo 10.º — Limites dos incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Limites dos incentivos\n\nOs apoios máximos a conceder por entidade beneficiária, bem como os montantes a atribuir por cada uma das tipologias referidas no artigo 3.º, assim como o montante global a atribuir no âmbito do MEDIARAM, terão o limite fixado por portaria conjunta dos membros do Governo Regional com a competência em matéria de comunicação social e com a competência em matéria de finanças, que irá regulamentar a execução do MEDIARAM."
+  },
+  "900786481": {
+   "fragment_id": "900705447",
+   "type": 11,
+   "heading": "Artigo 11.º — Apreciação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apreciação de candidaturas\n\n1 - A instrução dos procedimentos de atribuição dos apoios previstos no artigo 3.º do presente diploma compete ao departamento do Governo Regional com a competência em matéria de comunicação social.\n\n2 - A decisão final de aprovação da candidatura é da competência do membro do Governo Regional com a competência em matéria de comunicação social.\n\n3 - O processo de apreciação das candidaturas aos apoios previstos no presente diploma é regulamentado em portaria conjunta dos membros do Governo Regional com a competência em matéria de comunicação social e com a competência em matéria de finanças.\n\n4 - O requerimento da candidatura é indeferido caso o requerente não tenha regularizado as respetivas obrigações tributárias e as situações contributivas perante a administração fiscal e a segurança social, ou ainda caso detenha alguma dívida por regularizar à Região Autónoma da Madeira."
+  },
+  "900786482": {
+   "fragment_id": "900705448",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamentos\n\nOs pagamentos dos apoios previstos nos artigos 8.º e 9.º poderão ser faseados, até ao máximo de três pedidos de pagamento, realizados sempre após a apresentação dos respetivos documentos comprovativos e justificativos das despesas elegíveis, bem como da regularização da respetiva situação contributiva perante a administração fiscal e a segurança social."
+  },
+  "900786483": {
+   "fragment_id": "900705449",
+   "type": 11,
+   "heading": "Artigo 13.º — Reporte periódico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reporte periódico\n\n1 - As entidades beneficiárias dos apoios devem reportar anualmente à entidade com competência em matéria de atribuição dos apoios, através de relatório, os termos e os níveis de execução dos apoios concedidos.\n\n2 - Os termos da obrigação do reporte são fixados na portaria mencionada no artigo 10.º do presente decreto legislativo regional."
+  },
+  "900786484": {
+   "fragment_id": "900705450",
+   "type": 11,
+   "heading": "Artigo 14.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fiscalização\n\n1 - Sem prejuízo da obrigação de reporte prevista no artigo anterior, as entidades beneficiárias do programa de apoio à comunicação social privada estão sujeitas a ações de fiscalização, por parte do departamento do Governo Regional com a competência em matéria de comunicação social, em matéria de finanças ou ainda por entidade idónea por estas designada.\n\n2 - As entidades beneficiárias dos apoios previstos no presente diploma devem fornecer todos os elementos que lhes sejam solicitados pelos serviços com competência para o controlo e fiscalização, bem como facultar o acesso dos agentes fiscalizadores às respetivas instalações, equipamentos, documentos de prestação de contas e outros elementos necessários ao exercício da sua atividade.\n\n3 - A recusa de prestação de informações ou a prestação de falsas declarações acarretam a nulidade do contrato, a consequente devolução dos montantes percebidos e a impossibilidade de apresentar candidaturas no âmbito do presente regime."
+  },
+  "900786485": {
+   "fragment_id": "900705451",
+   "type": 11,
+   "heading": "Artigo 15.º — Relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Relatório anual\n\n1 - O departamento do Governo Regional com competência em matéria da comunicação social elabora um relatório anual relativo à execução do regime de apoios aprovado pelo presente diploma, bem como os seus destinatários.\n\n2 - A entidade referida no número anterior deve ainda publicar no respetivo sítio da internet o relatório aprovado, com menção dos projetos e ações submetidos e aprovados, com identificação dos respetivos beneficiários, tipologia dos apoios, valores financiados e síntese de execução dos projetos."
+  },
+  "900786486": {
+   "fragment_id": "900705452",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão de Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comissão de Acompanhamento\n\n1 - É criada uma comissão dedicada ao acompanhamento do MEDIARAM, composta pelos seguintes elementos:\n\na) Um representante do membro do Governo Regional com competência em matéria de comunicação social, que preside, e a quem assiste voto de qualidade;\n\nb) Um representante do membro do Governo Regional com a competência em matéria de finanças;\n\nc) Dois representantes da Assembleia Legislativa da Região Autónoma da Madeira;\n\nd) Um representante designado por acordo entre entidades privadas proprietárias ou editoras de publicações periódicas impressas em formato papel que reúnam as condições de elegibilidade;\n\ne) Um representante designado por acordo entre entidades proprietárias ou editoras de publicações periódicas online que reúnam as condições de elegibilidade;\n\nf) Um representante da secção regional do Sindicato dos Jornalistas.\n\n2 - À comissão de acompanhamento compete inteirar-se acerca do funcionamento do MEDIARAM, analisar e fiscalizar a sua gestão e nomeadamente:\n\na) Analisar e emitir parecer prévio, obrigatório e não vinculativo sobre as propostas de decisão final de atribuição de apoios que lhe sejam remetidas pelo órgão instrutor do procedimento, no prazo máximo de 30 dias;\n\nb) Solicitar à entidade instrutora do procedimento quaisquer informações sobre os processos objeto de decisão e pronunciar-se sobre o relatório anual de execução por aquela elaborado;\n\nc) Identificar novas necessidades e temas que devam ser considerados no âmbito do MEDIARAM;\n\nd) Acompanhar a execução dos projetos beneficiados.\n\n3 - A comissão de acompanhamento pode reunir-se com um quórum mínimo de metade da sua composição.\n\n4 - Os membros da Comissão estão impedidos de tomar parte nos pareceres que digam respeito às entidades a que pertencem.\n\n5 - Os membros da comissão de acompanhamento não são remunerados."
+  },
+  "900786487": {
+   "fragment_id": "900705453",
+   "type": 11,
+   "heading": "Artigo 17.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Disposição transitória\n\n1 - No primeiro ano de vigência do MEDIARAM, será aberto um período excecional de receção de candidaturas tendo por objetivo conferir o apoio previsto no presente diploma, tendo por referência as despesas elegíveis reportadas ao período compreendido entre 1 de janeiro e 31 de dezembro de 2016.\n\n2 - O procedimento especial relativo às candidaturas referidas no número anterior será objeto de regulamentação específica, constante da Portaria conjunta referida no artigo 10.º"
+  },
+  "900786488": {
+   "fragment_id": "900705454",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "900786509": {
+   "fragment_id": "900705440",
+   "type": 11,
+   "heading": "Artigo 4.º — Interligação e cumulação de apoios",
+   "in_force_from": "2024-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 18/2024/M - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2024-900706910), em vigor a partir de 2024-12-20"
+   ],
+   "markdown": "###### Artigo 4.º — Interligação e cumulação de apoios\n\n1 - O regime de apoios aprovado pelo presente decreto legislativo regional encontra-se estruturado em duas tipologias, enunciadas no artigo anterior, e implica a impossibilidade das entidades beneficiárias do presente regime de incentivos apresentarem candidaturas a quaisquer outros programas de apoios direcionados para o funcionamento, conferidos por outros organismos ou entidades públicas regionais.\n\n2 - O presente regime de apoios não prejudica a aplicação aos órgãos de comunicação social de âmbito regional ou local, de quaisquer outros sistemas de incentivos, gerais ou especiais, nomeadamente aqueles destinados ao investimento, bem como os destinados ao incentivo à leitura de publicações periódicas, aprovado pelo Decreto-Lei n.º 98/2007, de 2 de abril, alterado pelo Decreto-Lei n.º 22/2015, de 6 de fevereiro, e ainda os incentivos do Estado à comunicação social, aprovado pelo Decreto-Lei n.º 23/2015, de 6 de fevereiro, adaptado à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 8/2015/M, de 1 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 18/2024/M - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2024-900706910), em vigor a partir de 2024-12-20"
+  },
+  "900786510": {
+   "fragment_id": "900705441",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições gerais de elegibilidade",
+   "in_force_from": "2024-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 18/2024/M - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2024-900706910), em vigor a partir de 2024-12-20"
+   ],
+   "markdown": "###### Artigo 5.º — Condições gerais de elegibilidade\n\n1 - São elegíveis ao regime de apoios aprovado pelo presente decreto legislativo regional, as entidades mencionadas na alínea a) do n.º 2 do artigo 2.º, sediadas e a exercerem a sua atividade na Região Autónoma da Madeira, cujas publicações preencham, cumulativamente, os seguintes requisitos:\n\na) Tenham âmbito regional ou local;\n\nb) Sejam de informação geral;\n\nc) Tenham periodicidade pelo menos semanal, nos doze meses anteriores à data de apresentação da candidatura;\n\nd) Tenham pelo menos um ano de registo na ERC e de edição ininterrupta à data de apresentação de candidatura;\n\ne) Que nos doze meses anteriores à apresentação da candidatura, possuam um mínimo de oito jornalistas com carteira profissional devidamente validada pelas entidades competentes, seis dos quais a tempo inteiro;\n\nf) Tenham, nos 12 meses anteriores à data de apresentação da candidatura, uma tiragem média mínima por edição de cinco mil exemplares, comprovada pela Associação Portuguesa para o Controlo de Tiragem e Circulação (APCT) ou por outra entidade certificadora.\n\n2 - São, também, elegíveis para o regime de apoios previsto no presente decreto legislativo regional as entidades mencionadas na alínea b) do n.º 2 do artigo 2.º, sediadas e a exercerem a sua atividade na Região Autónoma da Madeira, cujas plataformas digitais de informação preencham, cumulativamente, os seguintes requisitos:\n\na) Sejam de âmbito regional ou local;\n\nb) Sejam de informação geral;\n\nc) Na data da apresentação da candidatura, cumpram um período mínimo de um ano de registo na ERC;\n\nd) Possuam produção informativa própria, atualizada diariamente;\n\ne) Que, nos doze meses anteriores à apresentação da candidatura, possuam um mínimo de quatro jornalistas com carteira profissional devidamente validada pelas entidades competentes, dois dos quais a tempo inteiro.\n\n3 - São, ainda, elegíveis ao regime de apoios aprovado pelo presente decreto legislativo regional, as entidades mencionadas na alínea a) do n.º 2 do artigo 2.º, sediadas e a exercerem a sua atividade na Região Autónoma da Madeira, que sejam, simultaneamente, proprietárias de plataformas digitais de informação, e cujas publicações preencham, cumulativamente, os seguintes requisitos:\n\na) Tenham âmbito regional ou local;\n\nb) Sejam de informação geral;\n\nc) Tenham periodicidade diária, nos 12 meses anteriores à data de apresentação da candidatura;\n\nd) Tenham pelo menos um ano de registo na ERC e de edição ininterrupta à data de apresentação da candidatura;\n\ne) Que nos 12 meses anteriores à apresentação da candidatura, possuam um mínimo de 12 jornalistas com carteira profissional devidamente validada pelas entidades competentes, 8 dos quais a tempo inteiro;\n\nf) Tenham, nos 12 meses anteriores à data de apresentação da candidatura, uma tiragem média mínima por edição de três mil exemplares, comprovada pela APCT ou por outra entidade certificadora.\n\n4 - Só podem ser beneficiárias dos apoios previstos no presente diploma, as entidades que contratualmente se comprometam a manter o respetivo quadro de pessoal ou, nos casos em que não exista, o respetivo número de trabalhadores.\n\n5 - As entidades que mantenham pelo menos 75 % do seu quadro de pessoal pelo período de dois anos a contar da data de apresentação da respetiva candidatura, poderão ainda beneficiar dos apoios conferidos pelo presente diploma, embora sendo-lhes aplicável uma redução do incentivo nos termos a definir em portaria conjunta dos membros do Governo Regional com a competência em matéria de comunicação social e com a competência em matéria de finanças.\n\n6 - Para efeitos de candidatura, são elegíveis as despesas apresentadas com referência a um período de doze meses, tendo por base a estimativa dos custos a suportar pela entidade beneficiária no que concerne ao período para o qual é apresentada a candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 18/2024/M - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2024-900706910), em vigor a partir de 2024-12-20"
+  },
+  "900786511": {
+   "fragment_id": "900705444",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio à produção",
+   "in_force_from": "2024-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 18/2024/M - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2024-900706910), em vigor a partir de 2024-12-20"
+   ],
+   "markdown": "###### Artigo 8.º — Apoio à produção\n\n1 - O incentivo no âmbito do apoio à produção tem como objetivo suportar iniciativas diretamente relacionadas com a produção de órgãos de comunicação social, incentivando o seu crescimento, promovendo a divulgação de assuntos de caráter regional e local, estimulando a leitura e proporcionando a captação de novos leitores.\n\n2 - Consideram-se elegíveis, no âmbito do presente tipo de apoio, as seguintes despesas:\n\na) Custos com a aquisição, transporte e manuseamento do papel utilizado na impressão;\n\nb) Custo com a atividade de impressão do órgão de comunicação social;\n\nc) Encargos suportados com o licenciamento, licenças e manutenção de software, de plataformas informáticas e de alojamento de conteúdos, respeitantes à edição dos meios de comunicação;\n\nd) Encargos respeitantes a contratos e/ou prestação de serviços por parte de agências noticiosas, bem como de outros serviços específicos necessários à atividade do órgão de comunicação social;\n\ne) Encargos suportados com telecomunicações.\n\n3 - O apoio às iniciativas referidas no n.º 1 consiste na comparticipação, a título de incentivo não reembolsável, das despesas elegíveis executadas da candidatura aprovada, nos termos a definir em portaria conjunta dos membros do Governo Regional com a competência em matéria de comunicação social e com a competência em matéria de finanças.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 18/2024/M - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2024-900706910), em vigor a partir de 2024-12-20"
+  },
+  "900786512": {
+   "fragment_id": "900705445",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio especial ao emprego",
+   "in_force_from": "2024-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 18/2024/M - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2024-900706910), em vigor a partir de 2024-12-20"
+   ],
+   "markdown": "###### Artigo 9.º — Apoio especial ao emprego\n\n1 - O apoio especial ao emprego tem por objetivo compensar os custos laborais suportados pelas empresas proprietárias de órgãos de comunicação social, nomeadamente com as remunerações atribuídas aos seus trabalhadores e respetivos encargos sociais.\n\n2 - Consideram-se elegíveis, no âmbito do presente tipo de apoio, as seguintes despesas:\n\na) Custos suportados com os salários brutos pagos aos trabalhadores;\n\nb) Custos suportados com as contribuições obrigatórias para a segurança social;\n\nc) O apoio a conceder no âmbito deste incentivo será regulamentado mediante portaria conjunta dos membros do Governo Regional com a competência em matéria de comunicação social e com a competência em matéria de finanças.\n\n3 - O apoio a conceder, referido no n.º 1, consiste na comparticipação, a título de incentivo não reembolsável, das despesas elegíveis executadas da candidatura aprovada, nos termos a definir em portaria conjunta dos membros do Governo Regional com a competência em matéria de comunicação social e com a competência em matéria de finanças.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 18/2024/M - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2024-900706910), em vigor a partir de 2024-12-20"
+  },
+  "900786489": {
+   "fragment_id": "900705455",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira, em 21 de julho de 2016.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 29 de julho de 2016.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  }
+ }
+}

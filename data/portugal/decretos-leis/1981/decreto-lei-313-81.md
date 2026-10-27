@@ -1,0 +1,170 @@
+---
+schema_version: '1.0'
+id: pt:dre:568491:por
+title: Decreto-Lei n.º 313/81
+short_title: null
+summary: Regulamenta as cooperativas culturais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 313/81
+official_date: null
+publication_date: '1981-11-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 267/1981, Série I de 1981-11-19
+  number: '267'
+  series: I
+  supplement: null
+  pages: 3064 - 3065
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/11/26700/30643065.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '568491'
+  dre_path: /dr/detalhe/decreto-lei/313-1981-568491
+  internal: pt:dre:568491:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1981-568491
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1981-568491
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:39:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bac7e3c119b277af3b4e4e1e15c3832136b27ccb294dd53b7205b02eba6680e3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:39:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código Cooperativo
+- Cooperativa Cultural
+- Política Cultural
+relationships:
+- type: cites
+  target: pt:dre:471532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631796:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:39:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 313/81
+
+de 19 de Novembro
+
+As cooperativas culturais conheceram no nosso país um desenvolvimento sem paralelo além fronteiras. Já no regime anterior haviam sido importantes centros de debate e crítica, vindo a sofrer então as consequências das medidas cerceadoras do [Decreto-Lei n.º 520/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/520-1971-631796), de 24 de Novembro. Segundo este diploma, ficavam sujeitas ao regime regulador do «direito de associação» as cooperativas que exercessem actividades que não fossem exclusivamente económicas. Tal disposição, visando aumentar o controle de Estado sobre as actividades culturais dos cidadãos, teve como consequência o encerramento forçado de muitas cooperativas. Apesar de fortemente contestado pelas cooperativas, este diploma só veio a ser revogado pelo [Decreto-Lei n.º 594/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/594-1974-471532), de 7 de Novembro.
+
+O Código Cooperativo, procurando sublinhar a dignidade reconhecida a estas cooperativas, cujo número actual se eleva a cerca de duzentas, considerou-as como um dos ramos do sector cooperativo nacional.
+
+Assim, reconhecendo a natureza específica das cooperativas culturais prevista na alínea i) do n.º 1 do artigo 4.º do Código Cooperativo;
+
+Considerando a necessidade de completar o normativo legal do referido Código, através de preceitos específicos para o ramo:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º — (Âmbito)
+
+As cooperativas culturais e suas organizações de grau superior regem-se pelas disposições do presente diploma e, nas suas omissões, pelas do Código Cooperativo.
+
+###### ARTIGO 2.º — (Noção)
+
+1 - São cooperativas culturais as que tenham por objecto principal o exercício de uma actividade no âmbito de áreas de acção cultural.
+
+2 - Consideram-se áreas de acção cultural, entre outras, a criatividade, a difusão, a informação, a dinamização e a animação.
+
+3 - A utilização da forma cooperativa não isenta da obrigatoriedade da conformidade do exercício da sua actividade com a lei, da obtenção de autorizações e licenças e de outras formalidades exigíveis nos termos legais, devendo as entidades de quem dependem as referidas autorizações e licenças ter em conta a especial natureza e função social das cooperativas.
+
+###### ARTIGO 3.º — (Classificação indicativa)
+
+Consideram-se englobadas no conceito do artigo anterior, entre outras, as cooperativas cinematográficas, as cooperativas musicais, as cooperativas áudio-visuais, as cooperativas circenses, as cooperativas editoriais, as cooperativas de artes plásticas e as cooperativas jornalísticas.
+
+###### ARTIGO 4.º — (Organizações de grau superior)
+
+As cooperativas que se caracterizem por desenvolver actividades da mesma zona específica integradas neste ramo do sector cooperativo poderão constituir uniões e federações nacionais nos termos previstos no Código Cooperativo.
+
+###### ARTIGO 5.º — (Admissão de membros)
+
+Podem ser membros das cooperativas culturais as pessoas singulares ou colectivas que nelas desenvolvam actividades produtivas.
+
+###### ARTIGO 6.º — (Entradas mínimas de capital)
+
+Nas cooperativas culturais as entradas mínimas de capital não poderão ser inferiores ao equivalente a 3 títulos de capital.
+
+###### ARTIGO 7.º — (Operações com terceiros)
+
+Nas cooperativas culturais são consideradas operações com terceiros as realizadas, a título complementar, pelos produtores não admitidos como membros.
+
+###### ARTIGO 8.º — (Distribuição de excedentes)
+
+1 - A distribuição de excedentes anuais gerados pelos produtores membros é proporcional ao trabalho de cada membro, segundo critérios definidos nos estatutos e ou regulamentos internos da cooperativa, nos termos do artigo 71.º do Código Cooperativo, deduzindo-se após a sua determinação os levantamentos dos membros recebidos por conta dos mesmos.
+
+2 - Os excedentes anuais gerados por produtores não membros (terceiros) são insusceptíveis de repartição, revertendo integralmente para reservas obrigatórias.
+
+3 - Os excedentes anuais líquidos gerados pelos produtores não membros são proporcionais ao valor da sua produção, como se de membros se tratasse, para efeitos do cálculo dos excedentes anuais.
+
+###### ARTIGO 9.º — (Subsídios)
+
+Os subsídios concedidos pelo Governo ou institutos públicos destinados à aquisição de imobilizações corpóreas são insusceptíveis de repartição entre membros, sendo lançados em conta de balanço, a incluir na situação líquida.
+
+###### ARTIGO 10.º — (Admissão de trabalhadores)
+
+Poderão ser admitidos como membros das cooperativas culturais as pessoas que, em regime de contrato de trabalho, desenvolvam, há mais de um ano, a sua actividade ao serviço da cooperativa, podendo os estatutos prever, neste caso, a sua inegibilidade para os órgãos sociais.
+
+###### ARTIGO 11.º — (Início de actividade)
+
+Para os efeitos previstos no n.º 1 do artigo 93.º do Código Cooperativo é considerado início de actividade a apresentação às entidades competentes dos requerimentos de que as leis e regulamentos façam depender o exercício da actividade que a cooperativa visa prosseguir.
+
+###### ARTIGO 12.º — (Adaptação das entradas mínimas de capital)
+
+O prazo previsto no n.º 2 do artigo 23.º do Código Cooperativo é aplicável à actualização do capital por parte dos membros da cooperativa que já tivessem tal qualidade à data de escritura pública pela qual for efectuada a adaptação do estatuto ao Código Cooperativo.
+
+Visto e aprovado em Conselho de Ministros de 15 de Outubro de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 4 de Novembro de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

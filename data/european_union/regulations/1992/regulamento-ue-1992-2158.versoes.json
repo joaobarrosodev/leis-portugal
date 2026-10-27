@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R2158:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R2158-19970222",
+ "dre_path": null,
+ "source_lastmod": "1997-02-22",
+ "versions": [
+  {
+   "date": "1992-07-31",
+   "future": false,
+   "celex": "31992R2158",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d28a12ae8fe61a77",
+    "a09d7197984b387a",
+    "6a6bb8cf7487def4",
+    "a9c9504b96f2ced5",
+    "9c89abb74bcac917",
+    "ca6ad3ca6bc6f949",
+    "c29c963a69d7d7aa",
+    "20be89373cbc2497",
+    "9fe908a13096df89",
+    "264b0c20acbd746e",
+    "99941541ca569df0",
+    "6f0150b67898fb56",
+    "7101a28a657da59e"
+   ]
+  }
+ ],
+ "fragments": {
+  "d28a12ae8fe61a77": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 2158/92 do Conselho, de 23 de Julho de 1992, relativo à protecção das florestas da Comunidade contra os incêndios** *Jornal Oficial nº L 217 de 31/07/1992 p. 0003 - 0007 Edição especial finlandesa: Capítulo 3 Fascículo 44 p. 0003 Edição especial sueca: Capítulo 3 Fascículo 44 p. 0003*\n\nREGULAMENTO (CEE) No 2158/92 DO CONSELHO de 23 de Julho de 1992 relativo à protecção das florestas da Comunidade contra os incêndios\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 43o e 130oS,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a floresta desempenha um papel essencial na preservação dos equilíbrios fundamentais, nomeadamente no que diz respeito ao solo, ao regime das águas, ao clima, à fauna e à flora;\n\nConsiderando que, por conseguinte, a floresta contribui para a preservação e o desenvolvimento da agricultura e do meio rural, cujas condições de existência podem depender em grande medida da presença e do bom estado das florestas circundantes;\n\nConsiderando que estas funções da floresta, nomeadamente na parte meridional da Comunidade, são ameaçadas pelos incêndios florestais que afectam anualmente vastas áreas florestais;\n\nConsiderando que a protecção da floresta contra os incêndios se reveste de uma importância e de uma urgência especiais para a Comunidade e que esta deve reforçar a sua contribuição para os esforços empreendidos pelos Estados-membros no sentido de melhorar esta protecção;\n\nConsiderando que, para diminuir em número e importância o desencadeamento de incêndios e as superfícies queimadas, a contribuição comunitária deve ser orientada para a necessidade de combater as causas dos incêndios e de prever medidas de prevenção contra incêndios e para a vigilância das florestas;\n\nConsiderando que a contribuição da Comunidade se deve concentrar prioritariamente nas zonas da Comunidade ameaçadas por riscos permanentes ou cíclicos de incêndio; que é, pois, conveniente classificar o território da Comunidade em função do grau de risco de incêndios florestais e adaptá-la em função do grau de risco de cada zona;\n\nConsiderando que, nomeadamente nas zonas de elevado grau de risco de incêndio, a Comunidade deve contribuir para a realização de planos integrados de protecção das florestas contra os incêndios, que incluam tanto a eliminação das causas como a criação dos sistemas de prevenção e vigilância e a melhoria dos sistemas existentes;\n\nConsiderando que a criação de um banco de dados a nível dos Estados-membros e da Comunidade pode constituir um importante instrumento para a melhoria do sistema de protecção das florestas contra os incêndios;\n\nConsiderando que, para facilitar a aplicação das disposições previstas, é conveniente estabelecer uma estreita cooperação entre os Estados-membros e a Comissão; que esta cooperação pode ser assegurada pelo Comité Permanente Florestal;\n\nConsiderando que se deve prever, para efeitos do presente regulamento, um programa com uma duração de cinco anos;\n\nConsiderando que o montante considerado necessário para a execução deste programa plurianual é de 70 milhões de ecus; que, no âmbito das perspectivas financeiras actuais, o montante considerado necessário para o ano de 1992 é de 12 milhões de ecus;\n\nConsiderando que os montantes a autorizar para o financiamento do programa durante o período subsequente ao exercício de 1992 deverão ser função do enquadramento financeiro comunitário em vigor,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "a09d7197984b387a": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Para aumentar a protecção das florestas e, designadamente, reforçar os esforços empreendidos em matéria de preservação e vigilância dos ecossistemas florestais e de salvaguarda das várias funções desempenhadas pelas florestas a favor das zonas rurais, é instituída uma acção comunitária para a protecção das florestas contra os incêndios, a seguir denominada « acção ».\n\n2. A acção tem por objectivo:\n\n- a diminuição do número de eclosões de fogos florestais,\n\n- a diminuição das superfícies queimadas.\n\n3. A acção inclui as medidas seguintes:\n\na) Identificação das causas dos incêndios florestais e meios para os combater, nomeadamente:\n\n- estudos relativos à identificação das causas dos incêndios e sua origem,\n\n- estudos relativos a propostas de acções destinadas a eliminar as causas e sua origem,\n\n- campanhas de informação e sensibilização;\n\nb) Criação ou melhoramento dos sistemas de prevenção, nomeadamente, no âmbito de uma estratégia global de protecção dos maciços florestais contra os incêndios, a criação de infra-estruturas de protecção, tais como caminhos florestais, pistas, pontos de água, corta-fogos, zonas sem matos e áreas de corte, bem como o arranque de operações de manutenção dos corta-fogos, das zonas sem matos e das áreas de corte e o lançamento de operações de prevenção silvícola;\n\nc) Criação ou melhoramento dos sistemas de vigilância das florestas, inclusive com carácter de vigilância dissuasiva, e, nomeadamente, a instalação de estruturas de vigilância fixas ou móveis e a aquisição de equipamentos de comunicações;\n\nd) Acções conexas e, nomeadamente:\n\n- a formação de pessoal altamente especializado,\n\n- a realização de estudos analíticos, bem como de projectos-piloto e de demonstração relativos a novos métodos, técnicas e tecnologias, destinados a aumentar a eficácia da acção."
+  },
+  "6a6bb8cf7487def4": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. Os Estados-membros procederão a uma classificação do seu território por grau de risco de incêndio florestal. Uma zona classificada segundo o grau de risco deve, em regra, corresponder a uma zona administrativa de nível mínimo NUTS III.\n\n2. Apenas podem ser classificadas como zonas de alto risco as zonas onde o risco permanente ou cíclico de incêndios florestais ameace gravemente o equilíbrio ecológico e a segurança das pessoas e bens ou contribua para acelerar os processos de desertificação das zonas rurais.\n\nApenas podem ser classificadas como zonas de alto risco as zonas situadas:\n\n- em Portugal,\n\n- em Espanha,\n\n- em França: nas regiões da Aquitaine, Midi-Pyrénnées, Corse, Languedoc-Roussillon, Provence-Alpes-Côte d'Azur, bem como nos departamentos de Ardèche e Drôme,\n\n- em Itália: no Mezzogiorno, Lazio, Toscana, Liguria, Umbria, Marche, Emilia-Romagna, bem como nas províncias de Cuneo e Alessandria, no Piemonte, e Pavia, na Lombardia, e ainda nas zonas florestadas de montanha do Norte do país,\n\n- na Grécia.\n\nPara além das zonas referidas no parágrafo anterior, a pedido fundamentado de um Estado-membro, poderão ser reconhecidas como zonas classificadas de alto risco zonas situadas noutras regiões da Comunidade.\n\n3. Podem ser classificadas como zonas de médio risco as zonas em que o risco de incêndios florestais, embora não sendo permanente ou cíclico, possa ameaçar os ecossistemas florestais de forma significativa.\n\n4. São consideradas zonas de baixo risco as outras zonas comunitárias.\n\n5. Os Estados-membros enviarão à Comissão a lista das zonas classificadas por grau de risco, o mais tardar, no fim de um período de seis meses a contar da data de entrada em vigor do presente regulamento.\n\nA Comissão decidirá quanto à aprovação das listas de acordo com o procedimento previsto no artigo 9o"
+  },
+  "a9c9504b96f2ced5": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Os Estados-membros transmitirão à Comissão planos de protecção das florestas contra os incêndios para as regiões classificadas como de elevado e médio riscos, facultando igualmente indicações sobre as medidas de protecção das florestas contra os incêndios já realizadas com contribuição financeira da Comunidade, assim como sobre a avaliação da eficácia relativa dos diversos tipos de medidas.\n\n2. Quanto às zonas classificadas como de alto risco, os planos conterão:\n\na) Uma descrição da situação actual da zona ou subzona em causa no que diz respeito ao sistema de prevenção e vigilância existente, bem como quanto aos meios de luta disponíveis, que incluirá igualmente uma descrição dos métodos e das técnicas empregues para proteger as florestas contra os incêndios;\n\nb) O balanço dos incêndios dos últimos cinco anos, incluindo uma descrição e uma análise das principais causas constatadas;\n\nc) A indicação dos objectivos a atingir no final do período de duração do plano, relativamente:\n\n- à eliminação ou diminuição das principais causas,\n\n- ao melhoramento dos sistemas de prevenção e de vigilância,\n\n- ao melhoramento dos sistemas de luta;\n\nd) A descrição das medidas previstas para atingir os objectivos;\n\ne) A indicação dos parceiros associados à protecção das florestas contra os incêndios e das modalidades de coordenação desses parceiros.\n\n3. Quanto às zonas de médio risco, os planos conterão, pelo menos:\n\na) A descrição da situação actual da zona ou subzona em causa quanto ao sistema de prevenção e vigilância existente, incluindo também uma descrição dos métodos e técnicas empregues na protecção contra os incêndios;\n\nb) A indicação dos objectivos a atingir no final do período de duração do plano, relativamente:\n\n- à eliminação ou redução das principais causas,\n\n- ao melhoramento dos sistemas de prevenção e vigilância;\n\nc) A descrição das medidas previstas para atingir os objectivos;\n\nd) A indicação dos parceiros associados à protecção das florestas contra os incêndios e das regras de coordenação desses parceiros.\n\n4. Após consulta do Comité Permanente Florestal, instituído pela Decisão 89/367/CEE (4), a Comissão emitirá um parecer sobre os planos de protecção das florestas contra os incêndios, nos três meses seguintes à sua comunicação.\n\n5. A partir de 1 de Janeiro de 1993, o financiamento, a título das acções comunitárias, de medidas florestais em zonas classificadas nos graus de risco elevado ou médio fica sujeito à condição de terem sido adoptados planos de protecção das florestas contra os incêndios e de as medidas terem sido executadas em conformidade com esses planos."
+  },
+  "9c89abb74bcac917": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Os Estados-membros apresentarão à Comissão, até 1 de Novembro de cada ano, os seus projectos ou programas para aumentar a protecção da floresta contra os incêndios.\n\n2. Os projectos e programas podem dizer respeito:\n\n- quanto às zonas classificadas no grau de risco elevado, às medidas referidas no no 3, alíneas a), b), c) e d), do artigo 1o,\n\n- quanto às zonas classificadas no grau de risco médio, às medidas referidas no no 3, alíneas b) e d), do artigo 1o, bem como a campanhas de informação e de sensibilização.\n\n3. A partir de 1 de Novembro de 1992, apenas podem ser apresentados projectos e programas que se inscrevam em planos referidos no artigo 3o que tenham sido objecto de parecer favorável da Comissão.\n\nA partir de 1 de Novembro de 1992, será dada prioridade aos programas.\n\n4. As modalidades de aplicação do disposto no no 1 serão adoptadas de acordo com o procedimento previsto no artigo 9o\n\n5. Os programas de objectivos múltiplos conterão indicações sobe a repartição das verbas a afectar às diversas medidas de protecção previstas."
+  },
+  "ca6ad3ca6bc6f949": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. A Comissão assegurará a coordenação e o acompanhamento da acção. Pode, nomeadamente, recorrer a institutos de investigação e a conselheiros científicos ou técnicos.\n\n2. A coordenação e o acompanhamento incidirão igualmente numa contribuição comunitária destinada a ajudar os Estados-membros a estabelecer um sistema de informação sobre os incêndios florestais, que terá por objectivo:\n\n- favorecer a troca de informações sobre os incêndios florestais,\n\n- avaliar de forma contínua o impacte das acções empreendidas pelos Estados-membros e a Comissão no domínio da protecção das florestas contra os incêndios,\n\n- avaliar os períodos, o grau e as causas de risco,\n\n- aperfeiçoar estratégias relativas à protecção das florestas contra os incêndios e, nomeadamente, à eliminação ou redução das causas.\n\n3. As modalidades de aplicação do disposto no número anterior serão adoptadas de acordo com o procedimento previsto no artigo 9o Incidirão, em especial, na natureza, comparabilidade e recolha das informações, bem como nas condições de acesso às informações colhidas.\n\n4. Os Estados-membros podem limitar a recolha de informações às zonas de alto e médio riscos.\n\n5. Com vista à preparação dos sistemas de informação, previstos no no 2, a Comissão pode financiar projectos-piloto que digam respeito, em primeiro lugar, à viabilidade dos vários objectivos do sistema. Os projectos serão estabelecidos em concertação com as autoridades competentes dos Estados-membros."
+  },
+  "c29c963a69d7d7aa": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. A Comissão decidirá da participação financeira da Comunidade nos projectos e programas apresentados pelos Estados-membros e definidos no artigo 4o A concessão da contribuição financeira será decidida após consulta do Comité Permanente Florestal.\n\n2. A participação financeira da Comunidade nas medidas referidas no no 3, alíneas a) a d), do artigo 1o é fixada:\n\n- num máximo de 50 % das despesas aprovadas pela Comissão, em relação às zonas classificadas como de alto risco,\n\n- num máximo de 30 % das despesas aprovadas pela Comissão, em relação às zonas classificadas como de médio risco.\n\n3. As despesas com a coordenação referida no no 1 do artigo 5o ficam a cargo da Comunidade. Todavia, a participação financeira da Comunidade nas despesas dos Estados-membros relativas ao estabelecimento do sistema de informação referido no no 2 do artigo 5o é fixada:\n\n- num máximo de 50 %, quanto às operações relativas às zonas classificadas como de alto risco,\n\n- num máximo de 30 %, quanto às operações relativas às zonas classificadas como de médio risco,\n\n- num máximo de 15 %, quanto às operações relativas às outras zonas.\n\n4. Não poderão beneficiar de contribuições financeiras ao abrigo do presente regulamento os projectos e programas de protecção das florestas contra os incêndios que beneficiem de uma contribuição prevista noutro instrumento financeiro comunitário."
+  },
+  "20be89373cbc2497": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nOs Estados-membros designarão os serviços e organismos habilitados a executar as medidas tomadas nos termos do presente regulamento, bem como os serviços e organismos que serão reembolsados pelos serviços da Comissão dos montantes correspondentes à participação financeira da Comunidade."
+  },
+  "9fe908a13096df89": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros tomarão, de acordo com as disposições legislativas, regulamentares e administrativas nacionais, as medidas necessárias para:\n\n- verificar a execução efectiva e a regularidade das operações financiadas pela Comunidade,\n\n- evitar irregularidades,\n\n- recuperar as somas perdidas devido a irregularidades ou negligências.\n\nOs Estados-membros porão à disposição da Comissão todas as informações necessárias para efeitos do parágrafo anterior e tomarão todas as medidas susceptíveis de facilitar os controlos que a Comissão considerar útil efectuar no âmbito da gestão do financiamento comunitário, incluindo as verificações no local. Os Estados-membros informarão a Comissão das medidas tomadas para o efeito."
+  },
+  "264b0c20acbd746e": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\n1. Sempre que se faça referência ao procedimento definido no presente artigo, o Comité Permanente Florestal será chamado a pronunciar-se pelo seu presidente, seja por sua própria iniciativa, seja a pedido do representante de um Estado-membro.\n\n2. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer será emitido por maioria, nos termos previstos no no 2 do artigo 148o do Tratado para a adopção das decisões que o Conselho é chamado a tomar sob proposta da Comissão. Nas votações no comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no artigo atrás referido. O presidente não participa na votação.\n\n3. a) A Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité;\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto foi submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, pondo-as imediatamente em aplicação."
+  },
+  "99941541ca569df0": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. A acção está prevista por um período de cinco anos, com início em 1 de Janeiro de 1992.\n\n2. O montante dos recursos financeiros comunitários considerado necessário para a sua execução é de 70 milhões de ecus, dos quais 12 milhões de ecus se destinam ao ano de 1992, no âmbito das perspectivas financeiras para 1988/1992.\n\nPara o subsequente período de aplicação do programa, o montante deverá ser função do enquadramento financeiro comunitário em vigor.\n\nA autoridade orçamental determinará as dotações disponíveis para cada exercício, tendo em consideração os princípios da boa gestão referidos no artigo 2o do Regulamento Financeiro, de 21 de Dezembro de 1977, aplicável ao orçamento geral das Comunidades Europeias (5).\n\n3. Antes do termo do período referido no no 1, o presente regulamento será reexaminado pelo Conselho, sob proposta da Comissão e com base num relatório de actividades completado, nomeadamente, pelas informações sobre a avaliação da eficácia das medidas referidas no no 2 do arigo 5o, no sector regido pelo presente regulamento."
+  },
+  "6f0150b67898fb56": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nO Regulamento (CEE) no 3529/86 do Conselho, de 17 de Novembro de 1986, relativo à protecção das florestas da Comunidade contra os incêndios (6), permanece aplicável aos projectos ou programas apresentados até 1 de Janeiro de 1992."
+  },
+  "7101a28a657da59e": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nÉ aplicável a partir de 1 de Janeiro de 1992. O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 23 de Julho de 1992. Pelo Conselho\n\nO Presidente\n\nJohn COPE\n\n(1) JO no C 312 de 3. 12. 1991, p. 7. (2) Parecer emitido em 10 de Julho de 1992 (ainda não publicado no Jornal Oficial). (3) JO no C 106 de 27. 4. 1992, p. 1. (4) JO no L 165 de 15. 6. 1989, p. 14. (5) JO no L 356 de 31. 12. 1977, p. 1. Com a última redacção que lhe foi dada pelo Regulamento (CEE) no 610/90 (JO no L 70 de 16. 3. 1990, p. 1). (6) JO no L 326 de 21. 11. 1986, p. 5. Alterado pelo Regulamento (CEE) no 1614/89 (JO no L 165 de 15. 6. 1989, p. 10)."
+  }
+ }
+}

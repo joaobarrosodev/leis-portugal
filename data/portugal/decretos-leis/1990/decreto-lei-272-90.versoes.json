@@ -1,0 +1,487 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:556664:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-979310530",
+ "dre_path": "/dr/detalhe/decreto-lei/272-1990-556664",
+ "source_lastmod": "2025-12-12",
+ "versions": [
+  {
+   "date": "1990-09-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "976085469",
+    "976085470",
+    "976085471",
+    "976085472",
+    "976085473",
+    "976085474",
+    "979311175",
+    "979311176",
+    "979311177",
+    "979311178",
+    "979311179",
+    "979311180",
+    "979311182",
+    "979311183",
+    "979311184",
+    "979311185",
+    "979311186",
+    "979311187",
+    "979311188",
+    "979311189",
+    "979311190",
+    "979311191",
+    "979311192",
+    "979311193",
+    "979311194",
+    "979311195",
+    "979311196",
+    "979311197",
+    "979311198",
+    "979311199",
+    "979311200",
+    "979311201",
+    "979311202",
+    "979311203",
+    "979311204",
+    "979311205",
+    "979311206",
+    "979311207",
+    "979311208",
+    "979311209",
+    "979311210"
+   ]
+  },
+  {
+   "date": "1990-09-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:199389:por",
+     "title": "Declaração",
+     "published": "1990-09-29",
+     "dre_path": "/dr/detalhe/declaracao/1990-199389"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º",
+    "Retifica Artigo 3.º",
+    "Retifica Artigo 7.º"
+   ],
+   "fragments": [
+    "976085469",
+    "976085470",
+    "979311213",
+    "976085472",
+    "976085473",
+    "976085474",
+    "979311175",
+    "979311176",
+    "979311177",
+    "979311178",
+    "979311179",
+    "979311180",
+    "979311181",
+    "979311182",
+    "979311183",
+    "979311184",
+    "979311185",
+    "979311214",
+    "979311187",
+    "979311188",
+    "979311189",
+    "979311190",
+    "979311191",
+    "979311192",
+    "979311215",
+    "979311194",
+    "979311195",
+    "979311196",
+    "979311197",
+    "979311198",
+    "979311199",
+    "979311200",
+    "979311201",
+    "979311202",
+    "979311203",
+    "979311204",
+    "979311205",
+    "979311206",
+    "979311207",
+    "979311208",
+    "979311209",
+    "979311210"
+   ]
+  }
+ ],
+ "fragments": {
+  "976085469": {
+   "fragment_id": "979310531",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 272/90\n\nde 7 de Setembro\n\nO presente decreto-lei, tendo em atenção o disposto na Lei n.º 11/90, de 5 de Abril, visa transformar a empresa pública Crédito Predial Português, E. P., em sociedade anónima, com vista à posterior alienação total das acções representativas do capital dessa sociedade.\n\nFoi ouvida a comissão de trabalhadores.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 11/90, de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "976085470": {
+   "fragment_id": "979310532",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A Companhia Geral de Crédito Predial Português, E. P., que também usa Crédito Predial Português, E. P., criada nos termos do artigo 5.º da Lei de 13 de Julho de 1863 e do Decreto de 25 de Outubro de 1864, nacionalizada pelo Decreto-Lei n.º 132-A/75, de 14 de Março, e submetida ao regime de empresa pública por força do Decreto-Lei n.º 729-F/75, de 22 de Dezembro, é transformada pelo presente diploma em sociedade anónima, com a denominação de Companhia Geral de Crédito Predial Português, S. A., podendo também usar a denominação de Crédito Predial Português, S. A.\n\n2 - O Crédito Predial Português, S. A., rege-se pelo presente diploma, pelas normas especiais cuja aplicação decorra do objecto da sociedade, pelas normas reguladoras das sociedades anónimas e pelos seus Estatutos."
+  },
+  "976085471": {
+   "fragment_id": "979310533",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O Crédito Predial Português, S. A., sucede automática e globalmente à empresa pública Crédio Predial Português, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.\n\n2 - O presente diploma constitui título bastante para a comprovação do previsto no artigo 1.º, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração do Crédito Predial Português, S. A."
+  },
+  "976085472": {
+   "fragment_id": "979310534",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro.\n\n2 - Os direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho do Ministro das Finanças."
+  },
+  "976085473": {
+   "fragment_id": "979310535",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO capital inicial do Crédito Predial Português, S. A., é de 8000000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade."
+  },
+  "976085474": {
+   "fragment_id": "979310536",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - São aprovados os Estatutos do Crédito Predial Português, S. A., anexos a este diploma.\n\n2 - A transformação efectuada pelo artigo 1.º deste diploma, bem como os Estatutos do Crédito Predial Português, S. A., agora aprovados, produz efeitos relativamente a terceiros independentemente de registo, que, no entanto, deve ser efectuado oficiosamente, sem taxas ou emolumentos, nos 30 dias seguintes à entrada em vigor deste diploma.\n\n3 - As futuras alterações dos Estatutos far-se-ão nos termos da lei comercial."
+  },
+  "979311175": {
+   "fragment_id": "979310537",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Enquanto não forem eleitos os membros dos órgãos sociais, os membros do conselho de gestão e os membros da comissão de fiscalização da empresa pública constituirão, respectivamente, o conselho de administração e o conselho fiscal da sociedade.\n\n2 - Nos 30 dias seguintes à publicação do presente diploma, o conselho de administração convocará a assembleia geral para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.\n\n3 - A assembleia geral referida no n.º 2 será presidida pelo presidente do conselho de administração da sociedade, servindo de secretário uma pessoa por aquele designada."
+  },
+  "979311176": {
+   "fragment_id": "979310538",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Ministério das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.\n\n1 - O conselho fiscal enviará trimestralmente ao Ministério das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões."
+  },
+  "979311177": {
+   "fragment_id": "979310539",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Os trabalhadores ao serviço e os pensionistas do Crédito Predial Português, E. P., mantêm perante o Crédito Predial Português, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.\n\n2 - Os funcionários do Estado, de institutos públicos e de autarquias, bem como os trabalhadores de empresas públicas ou de sociedades anónimas de capitais públicos, podem ser autorizados a exercer funções no Crédito Predial Português, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem, incluindo antiguidade, reforma e outros que usufruiriam, por antiguidade, se tivessem permanecido naquele quadro.\n\n3 - A situação dos trabalhadores do Crédito Predial Português, S. A., que, chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções noutras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando os trabalhadores aos seus lugares logo que terminem o mandato ou o tempo de requisição."
+  },
+  "979311178": {
+   "fragment_id": "979310540",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA alienação das acções, quando o Estado o entenda conveniente e oportuno, será regulada, nos termos da Lei n.º 11/90, de 5 de Abril, por decreto-lei."
+  },
+  "979311179": {
+   "fragment_id": "979310541",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nTodos os contratos ou actos jurídicos que tenham por objecto principal ou acessório a constituição, alteração ou restrição de garantias reais sobre imóveis de que seja beneficiário o Crédito Predial Português, S. A., continuarão a ser formalizados através de títulos particulares, que são considerados como escrituras públicas para todos os efeitos legais, conforme a Carta de Lei de 16 de Abril de 1864, regulamentada pelo Decreto de 7 de Janeiro de 1876 e mantida pelo artigo 90.º, alínea c), do Código do Notariado, de acordo com as seguintes regras:\n\na) A verificação da identidade dos outorgantes deve ser feita através de qualquer dos meios previstos na legislação do notariado;\n\nb) Os imóveis objecto de garantia prestada serão identificados no título apenas pelo número da sua descrição predial na competente conservatória;\n\nc) Os títulos particulares poderão ser impressos ou exarados em papel de qualquer formato, sendo o imposto do selo a eles relativo, quando devido, pago por meio de guia, nos termos da legislação geral."
+  },
+  "979311180": {
+   "fragment_id": "979310542",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "979311182": {
+   "fragment_id": "979310544",
+   "type": 14,
+   "heading": "ESTATUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ESTATUTOS"
+  },
+  "979311183": {
+   "fragment_id": "979310545",
+   "type": 1,
+   "heading": "Capítulo I — Firma, duração, sede e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Firma, duração, sede e objecto"
+  },
+  "979311184": {
+   "fragment_id": "979310546",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A sociedade anónima que, por força do Decreto-Lei n.º 272/90, de 7 de Setembro, continua a personalidade jurídica da empresa pública Crédito Predial Português, E. P., adopta a denominação de Companhia Geral de Crédito Predial Português, S. A., podendo também usar a denominação abreviada de Crédito Predial Português, S. A.\n\n2 - A sociedade rege-se pelo Decreto-Lei n.º 272/90, de 7 de Setembro, pelas normas reguladoras das sociedades anónimas, pelas normas especiais cuja aplicação decorra do objecto da sociedade e pelos presentes Estatutos."
+  },
+  "979311185": {
+   "fragment_id": "979310547",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A sociedade tem a sede na Rua Augusta, 237 - 1194 Lisboa Codex.\n\n2 - O conselho de administração, ouvido o conselho fiscal, pode criar e encerrar, em qualquer ponto do território nacional ou fora dele, agências, delegações ou quaisquer formas de representação."
+  },
+  "979311186": {
+   "fragment_id": "979310548",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A sociedade tem por objecto o exercício da actividade bancária, recebendo depósito ou outros fundos reembolsáveis, concedendo crédito por sua própria conta e praticando toda a universalidade das operações e actos de prestação de serviços permitidos por lei às instituições de crédito.\n\n2 - No âmbito da sua actividade como estabelecimento especial de crédito, a sociedade exerce as funções resultantes da sua natureza de instituição de crédito predial através da intervenção especializada no fomento à construção civil e obras públicas, no financiamento à construção, beneficiação, ampliação e aquisição de habitação e nas restantes operações imobiliárias.\n\n3 - A sociedade pode participar em agrupamentos complementares de empresas, em agrupamentos europeus de interesse económico e, bem assim, adquirir, originária ou subsequentemente, acções ou quotas em sociedades de responsabilidade limitada, qualquer que seja o objecto destas e embora sujeitas a leis especiais."
+  },
+  "979311187": {
+   "fragment_id": "979310549",
+   "type": 1,
+   "heading": "Capítulo II — Capital, acções e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital, acções e obrigações"
+  },
+  "979311188": {
+   "fragment_id": "979310550",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O capital da sociedade é de 8000000000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.\n\n2 - O capital social é representado por 8000000 de acções com o valor nominal de 1000$00 cada uma."
+  },
+  "979311189": {
+   "fragment_id": "979310551",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As acções são nominativas, não podendo ser convertidas em acções ao portador.\n\n2 - As acções podem revestir forma escritural.\n\n3 - Poderão ser emitidos títulos de 1, 5, 10, 50 e 100 acções e de múltiplos de 100, até 100000 acções.\n\n4 - A sociedade pode emitir acções preferenciais sem voto, nos termos do artigo 341.º do Código das Sociedades Comerciais."
+  },
+  "979311190": {
+   "fragment_id": "979310552",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos sociais"
+  },
+  "979311191": {
+   "fragment_id": "979310553",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.\n\n2 - O presidente do conselho de administração é escolhido, de entre os administradores, pela assembleia geral que eleger aquele órgão.\n\n3 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos, renováveis.\n\n4 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à eleição de quem deva substituí-los."
+  },
+  "979311192": {
+   "fragment_id": "979310554",
+   "type": 1,
+   "heading": "Capítulo IV — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Assembleia geral"
+  },
+  "979311193": {
+   "fragment_id": "979310555",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - A assembleia geral é composta pelos accionistas com direito a voto, não sendo permitido que às suas reuniões assistam accionistas sem direito a voto.\n\n2 - A cada 100 acções corresponde um voto em assembleia geral.\n\n3 - Não são consideradas para efeito de participação em assembleia geral as transmissões de acções efectuadas durantes os oito dias que precedem a reunião de cada assembleia, em primeira convocação."
+  },
+  "979311194": {
+   "fragment_id": "979310556",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA mesa da assembleia geral será constituída por um presidente, um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei."
+  },
+  "979311195": {
+   "fragment_id": "979310557",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nNo aviso convocatório da assembleia pode ser fixado um prazo, não superior a oito dias antes da reunião da assembleia, para a recepção pelo presidente da mesa dos instrumentos de representação de accionistas e, bem assim, da indicação dos representantes de pessoas colectivas."
+  },
+  "979311196": {
+   "fragment_id": "979310558",
+   "type": 1,
+   "heading": "Capítulo V — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Conselho de administração"
+  },
+  "979311197": {
+   "fragment_id": "979310559",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - O conselho de administração é composto por cinco administradores.\n\n2 - O presidente do conselho de administração tem voto de qualidade."
+  },
+  "979311198": {
+   "fragment_id": "979310560",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - O conselho de administração pode delegar poderes nos termos do artigo 407.º do Código das Sociedades Comerciais.\n\n2 - A aquisição, alienação e oneração de participações sociais, quer quando seja apenas da competência do conselho quer quando autorizadas pela assembleia geral, não se incluem nos actos delegáveis."
+  },
+  "979311199": {
+   "fragment_id": "979310561",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - A sociedade é representada:\n\na) Por dois administradores;\n\nb) Pelos administradores-delegados, dentro dos limites da delegação do conselho;\n\nc) Por procuradores, quanto aos actos ou categorias de actos definidos nas procurações.\n\n2 - O conselho de administração poderá deliberar, nos termos e dentro dos limites legais, que certos documentos da sociedade sejam assinados por processos mecânicos ou chancela.\n\n3 - Em assuntos de mero expediente bastará a assinatura de um administrador."
+  },
+  "979311200": {
+   "fragment_id": "979310562",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.\n\n2 - Não é permitida a representação de mais de um administrador em cada reunião."
+  },
+  "979311201": {
+   "fragment_id": "979310563",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada por períodos de três anos.\n\n2 - A remuneração pode consistir parcialmente numa percentagem que não poderá exceder globalmente 1% dos lucros do exercício, deduzidos da importância da reserva legal."
+  },
+  "979311202": {
+   "fragment_id": "979310564",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs administradores terão direito a reforma por velhice ou invalidez, ou a complementos de pensão de reforma, nos termos que vierem a constar de regulamentos a aprovar pela assembleia geral."
+  },
+  "979311203": {
+   "fragment_id": "979310565",
+   "type": 1,
+   "heading": "Capítulo VI — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Conselho fiscal"
+  },
+  "979311204": {
+   "fragment_id": "979310566",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - O conselho fiscal é composto por três membros.\n\n2 - Haverá dois suplentes."
+  },
+  "979311205": {
+   "fragment_id": "979310567",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO conselho fiscal deve reunir, pelo menos, uma vez em cada mês."
+  },
+  "979311206": {
+   "fragment_id": "979310568",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs remunerações dos membros do conselho fiscal serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada e devem ser certas."
+  },
+  "979311207": {
+   "fragment_id": "979310569",
+   "type": 1,
+   "heading": "Capítulo VII — Aplicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Aplicação dos resultados"
+  },
+  "979311208": {
+   "fragment_id": "979310570",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs lucros de exercício, apurados em conformidade com a lei, terão, sucessivamente, a seguinte aplicação:\n\na) Cobertura dos prejuízos de exercícios anteriores;\n\nb) Constituição e eventualmente reintegração de reserva legal e de outras reservas que a lei determinar;\n\nc) Remuneração dos administradores e gratificação a atribuir aos trabalhadores, se disso for caso, segundo critério a definirem assembleia geral;\n\nd) Constituição, reforço ou reintegração de outras reservas, conforme a assembleia geral deliberar;\n\ne) Dividendos a distribuir aos accionistas;\n\nf) Outras finalidades que a assembleia geral deliberar."
+  },
+  "979311209": {
+   "fragment_id": "979310571",
+   "type": 1,
+   "heading": "Capítulo VIII — Diposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Diposições finais"
+  },
+  "979311210": {
+   "fragment_id": "979310572",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - A sociedade dissolve-se quando para isso haja causa legal.\n\n2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.\n\nPelo Ministro das Finanças, José Oliveira Costa, Secretário de Estado dos Assuntos Fiscais."
+  },
+  "979311213": {
+   "fragment_id": "979310533",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1990-09-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 226/1990, 1º Suplemento, Série I de 1990-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-199389), em vigor a partir de 1990-09-29"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - O Crédito Predial Português, S. A., sucede automática e globalmente à empresa pública Crédito Predial Português, E. P., e continua a personalidade jurídica desta, conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.\n\n2 - O presente diploma constitui título bastante para a comprovação do previsto no artigo 1.º, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração do Crédito Predial Português, S. A.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 226/1990, 1º Suplemento, Série I de 1990-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-199389), em vigor a partir de 1990-09-29"
+  },
+  "979311181": {
+   "fragment_id": "979310543",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Julho de 1990. - Aníbal António Cavaco Silva - José Oliveira Costa - José Manuel Cardoso Borges Soeiro.\n\nPromulgado em 22 de Agosto de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Agosto de 1990.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "979311214": {
+   "fragment_id": "979310548",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1990-09-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 226/1990, 1º Suplemento, Série I de 1990-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-199389), em vigor a partir de 1990-09-29"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - A sociedade tem por objecto o exercício da actividade bancária, recebendo depósitos ou outros fundos reembolsáveis, concedendo crédito por sua própria conta e praticando toda a universalidade das operações e actos de prestação de serviços permitidos por lei às instituições de crédito.\n\n2 - No âmbito da sua actividade como estabelecimento especial de crédito, a sociedade exerce as funções resultantes da sua natureza de instituição de crédito predial através da intervenção especializada no fomento à construção civil e obras públicas, no financiamento à construção, beneficiação, ampliação e aquisição de habitação e nas restantes operações imobiliárias.\n\n3 - A sociedade pode participar em agrupamentos complementares de empresas, em agrupamentos europeus de interesse económico e, bem assim, adquirir, originária ou subsequentemente, acções ou quotas em sociedades de responsabilidade limitada, qualquer que seja o objecto destas e embora sujeitas a leis especiais.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 226/1990, 1º Suplemento, Série I de 1990-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-199389), em vigor a partir de 1990-09-29"
+  },
+  "979311215": {
+   "fragment_id": "979310555",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1990-09-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 226/1990, 1º Suplemento, Série I de 1990-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-199389), em vigor a partir de 1990-09-29"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - A assembleia geral é composta pelos accionistas com direito a voto, não sendo permitido que às suas reuniões assistam accionistas sem direito a voto.\n\n2 - A cada 100 acções corresponde um voto em assembleia geral.\n\n3 - Não são consideradas para efeito de participação em assembleia geral as transmissões de acções efectuadas durante os oito dias que precedem a reunião de cada assembleia, em primeira convocação.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 226/1990, 1º Suplemento, Série I de 1990-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-199389), em vigor a partir de 1990-09-29"
+  }
+ }
+}

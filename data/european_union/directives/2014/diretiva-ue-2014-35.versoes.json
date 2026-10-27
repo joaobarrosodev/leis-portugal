@@ -1,0 +1,569 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014L0035:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0035-20260530",
+ "dre_path": null,
+ "source_lastmod": "2026-05-30",
+ "versions": [
+  {
+   "date": "2026-05-30",
+   "future": false,
+   "celex": "02014L0035-20260530",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f3259350bde7440b",
+    "f6c2eb219fe1b284",
+    "e17a2adcfbbdd4cc",
+    "9b46202d9e74ea8a",
+    "335b92b688ca98c7",
+    "3bcd78269c214607",
+    "8fbdb4aa4ca1ccb1",
+    "c11e77649f86993e",
+    "8a6992ea3c104fd1",
+    "d0c1084d62b9fc85",
+    "378992deafc50e7e",
+    "0be7810b5f1cea07",
+    "b739cb070f164ef6",
+    "4e95a9c5b5baa25b",
+    "2f82579698f5dacb",
+    "757ca187358829b4",
+    "a3b195c08c38f795",
+    "176cdf2526ac9df2",
+    "5d595bd87a1b866b",
+    "ad9396e8031e9cab",
+    "89558f53d4e7e1e2",
+    "4b3be1e1bc221947",
+    "efc2fcb0cd46194b",
+    "7d3130f532cea03f",
+    "6cc3b57c1b453c93",
+    "2f7573eb11236c26",
+    "b13bd53a218d86b2",
+    "dc447fdf22239ce3",
+    "c8d1fe50e6d69707",
+    "10ff6d3e97182c76",
+    "99fae3510d51eb7f",
+    "62ea5f32e90507e6",
+    "5e062bf41c5998ec",
+    "c0c6ebbe9e622bdf",
+    "88d45b3bde2f845a",
+    "496f517186f9e93f",
+    "ba538fa7b6eb44e8",
+    "08eea57f04a169e2",
+    "e41848c7e786c722",
+    "8866ae483837fdd2",
+    "e25c4e940ec429d1",
+    "707d0c662092b76c",
+    "9df7cb7bf4b8672d",
+    "5238fef29786ed67",
+    "8c7159c07c1fd001",
+    "d664376e2a8dcecd",
+    "414e3602cdaf9a5a",
+    "9abcfd4f8a53d1eb",
+    "2e7b89a2bb5d1d3a",
+    "76f267f9b4760770",
+    "852174729551523b",
+    "952673c307966a98",
+    "720af75c92791b10",
+    "86497b13d13f7857",
+    "0b1cfe4b4cd5f34d",
+    "e03a0eb4d5b2eef3",
+    "f349acdc8ea0a489",
+    "a54d12c662b87d2f",
+    "33c97384696ac4dc",
+    "222d5555fd2f0b02",
+    "d614ca320fe0b5c1"
+   ]
+  }
+ ],
+ "fragments": {
+  "f3259350bde7440b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de fevereiro de 2014\n\nrelativa à harmonização da legislação dos Estados-Membros respeitante à disponibilização no mercado de material elétrico destinado a ser utilizado dentro de certos limites de tensão\n\n(reformulação)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "9b46202d9e74ea8a": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\nA presente diretiva tem por objetivo assegurar que o material elétrico presente no mercado cumpra os requisitos que proporcionam um elevado nível de proteção da saúde e da segurança das pessoas, e dos animais domésticos e dos bens, garantindo ao mesmo tempo o funcionamento do mercado interno.\n\nA presente diretiva aplica-se ao material elétrico destinado a ser utilizado sob uma tensão nominal compreendida entre 50 e 1 000 V para a corrente alterna, e entre 75 e 1 500 V para a corrente contínua, com exceção dos materiais e fenómenos referidos no anexo II."
+  },
+  "335b92b688ca98c7": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente diretiva, entende-se por:\n\n1) «Disponibilização no mercado», a oferta de material elétrico para distribuição, consumo ou utilização no mercado da União no âmbito de uma atividade comercial, a título oneroso ou gratuito;\n\n2) «Colocação no mercado», a primeira disponibilização de um material elétrico no mercado da União;\n\n3) «Fabricante», uma pessoa singular ou coletiva que fabrica ou manda conceber ou fabricar material elétrico e que o comercializa com o seu nome ou a sua marca comercial;\n\n4) «Mandatário», uma pessoa singular ou coletiva estabelecida na União, mandatada por escrito pelo fabricante para praticar determinados atos em seu nome;\n\n5) «Importador», uma pessoa singular ou coletiva estabelecida na União que coloca material elétrico proveniente de países terceiros no mercado da União;\n\n6) «Distribuidor», uma pessoa singular ou coletiva que faz parte da cadeia de distribuição, com exceção do fabricante ou do importador, e que disponibiliza material elétrico no mercado;\n\n7) «Operadores económicos», o fabricante, o mandatário, o importador e o distribuidor;\n\n8) «Especificação técnica», um documento que define os requisitos técnicos que o material elétrico deve cumprir;\n\n9) «Norma harmonizada», uma norma harmonizada na aceção do artigo 2.º, ponto 1, alínea c), do Regulamento (UE) n.º 1025/2012;\n\n10) «Avaliação da conformidade», o processo de verificação através do qual se demonstra se estão cumpridos os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I relativos ao material elétrico;\n\n11) «Recolha», uma medida destinada a obter o retorno de material elétrico já disponibilizado ao utilizador final;\n\n12) «Retirada», uma medida destinada a impedir a disponibilização no mercado de material elétrico presente na cadeia de distribuição;\n\n13) «Legislação de harmonização da União», legislação da União destinada a harmonizar as condições de comercialização dos produtos;\n\n14) «Marcação CE», a marcação através da qual o fabricante indica que o material elétrico cumpre todos os requisitos aplicáveis estabelecidos na legislação de harmonização da União que prevê a sua aposição;\n\n15) «Bens relevantes em situação de crise», bens relevantes em situação de crise na aceção do artigo 3.º, ponto 6, do Regulamento (UE) 2024/2747 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/28a368e1-2d74-11f1-906d-01aa75ed71a1.0019.02/DOC_1#E0001));\n\n16) «Modo de emergência do mercado interno», o modo de emergência do mercado interno na aceção do artigo 3.º, ponto 3, do Regulamento (UE) 2024/2747."
+  },
+  "3bcd78269c214607": {
+   "fragment_id": "Artigo 3.º — Disponibilização no mercado e objetivos de segurança",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Disponibilização no mercado e objetivos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disponibilização no mercado e objetivos de segurança\n\nO material elétrico só pode ser disponibilizado no mercado da União quando construído de acordo com as regras da arte em matéria de segurança válidas na União, de modo a não comprometer, no caso de instalação e manutenção adequadas e de utilização de acordo com a sua finalidade, a saúde e a segurança de pessoas e dos animais domésticos, e os bens.\n\nOs principais elementos dos objetivos de segurança constam do anexo I."
+  },
+  "8fbdb4aa4ca1ccb1": {
+   "fragment_id": "Artigo 4.º — Livre circulação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Livre circulação\n\nOs Estados-Membros não podem impedir, relativamente aos aspetos abrangidos pela presente diretiva, a disponibilização no mercado de material elétrico que respeite o disposto na presente diretiva."
+  },
+  "c11e77649f86993e": {
+   "fragment_id": "Artigo 5.º — Fornecimento de eletricidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Fornecimento de eletricidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fornecimento de eletricidade\n\nOs Estados-Membros devem assegurar que as empresas distribuidoras de eletricidade não subordinem a ligação à rede e ao fornecimento de eletricidade aos consumidores, no que disser respeito a material elétrico, a requisitos de segurança mais rigorosos do que os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "d0c1084d62b9fc85": {
+   "fragment_id": "DEVERES DOS OPERADORES ECONÓMICOS",
+   "type": "divisao",
+   "heading": "DEVERES DOS OPERADORES ECONÓMICOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DEVERES DOS OPERADORES ECONÓMICOS"
+  },
+  "378992deafc50e7e": {
+   "fragment_id": "Artigo 6.º — Deveres dos fabricantes",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Deveres dos fabricantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres dos fabricantes\n\n1. Os fabricantes devem garantir que o material elétrico que colocam no mercado foi concebido e fabricado em conformidade com os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I.\n\n2. Os fabricantes devem reunir a documentação técnica referida no anexo III e efetuar ou mandar efetuar o procedimento de avaliação da conformidade referido no mesmo anexo.\n\nCaso a conformidade do material elétrico com os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I tenha sido demonstrada através do procedimento de avaliação da conformidade referido no primeiro parágrafo, os fabricantes devem elaborar uma declaração UE de conformidade e apor a marcação CE.\n\n3. Os fabricantes devem conservar a documentação técnica referida no anexo III e a declaração UE de conformidade durante 10 anos a contar da data de colocação do material elétrico no mercado.\n\n4. Os fabricantes devem assegurar a existência de procedimentos para manter a conformidade da produção em série com a presente diretiva. As alterações da conceção ou das características do produto e as alterações das normas harmonizadas referidas no artigo 12.º, das normas internacionais ou nacionais referidas nos artigos 13.º e 14.º, ou das outras especificações técnicas que constituíram a referência para a comprovação da conformidade do material elétrico devem ser devidamente tidas em conta.\n\nSempre que for considerado apropriado, em função do risco que um material elétrico apresenta, os fabricantes devem realizar, a fim de proteger a saúde e a segurança dos consumidores, ensaios por amostragem de material elétrico disponibilizado no mercado, investigar e, se necessário, conservar um registo das reclamações, do material elétrico não conforme e do material elétrico recolhido, e devem informar os distribuidores de todas estas ações de controlo.\n\n5. Os fabricantes devem assegurar que no material elétrico que colocaram no mercado figura o tipo, o número do lote ou da série, ou outros elementos que permitam a sua identificação, ou, se as dimensões ou a natureza do material elétrico não o permitirem, que as informações exigidas constem da sua embalagem ou de um documento que acompanhe o material elétrico.\n\n6. Os fabricantes devem indicar o seu nome, o nome comercial registado ou a marca registada e o endereço postal de contacto no material elétrico ou, se tal não for possível, na embalagem ou num documento que o acompanhe. O endereço deve indicar um único ponto de contacto do fabricante. Os dados de contacto devem ser facultados numa língua facilmente compreensível pelos utilizadores finais e pelas autoridades de fiscalização do mercado.\n\n7. Os fabricantes devem assegurar que o material elétrico seja acompanhado de instruções e informações de segurança numa língua facilmente compreensível pelos consumidores e por outros utilizadores finais, de acordo com o que o Estado-Membro em causa determinar. Essas instruções e informações de segurança, bem como a rotulagem, devem ser claras, compreensíveis e inteligíveis.\n\n8. Os fabricantes que considerem ou tenham motivos para crer que determinado material elétrico que colocaram no mercado não é conforme com a presente diretiva devem tomar imediatamente as medidas corretivas necessárias para o pôr em conformidade, para o retirar ou para o recolher, se adequado. Além disso, se o material elétrico apresentar um risco, os fabricantes devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros nos quais disponibilizaram o material elétrico no mercado, fornecendo-lhes as informações relevantes, sobretudo no que se refere à não conformidade e às medidas corretivas aplicadas.\n\n9. Mediante pedido fundamentado da autoridade nacional competente, os fabricantes devem facultar toda a informação e documentação necessárias em papel ou em suporte eletrónico, numa língua facilmente compreensível por essa autoridade, a fim de demonstrar a conformidade do material elétrico com a presente diretiva. Devem ainda cooperar com a referida autoridade, a pedido desta, em qualquer ação de eliminação dos riscos decorrentes de material elétrico que tenham colocado no mercado."
+  },
+  "0be7810b5f1cea07": {
+   "fragment_id": "Artigo 7.º — Mandatários",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Mandatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mandatários\n\n1. Os fabricantes podem designar por escrito um mandatário.\n\nOs deveres previstos no artigo 6.º, n.º 1, e o dever de elaborar a documentação técnica referida no artigo 6.º, n.º 2 não fazem parte do mandato.\n\n2.\n\nO mandatário deve praticar os atos definidos no mandato conferido pelo fabricante. O mandato deve permitir ao mandatário, no mínimo:\n\na) Manter à disposição das autoridades nacionais de fiscalização do mercado a declaração UE de conformidade e a documentação técnica pelo prazo de 10 anos a contar da data de colocação no mercado do material elétrico;\n\nb) Mediante pedido fundamentado da autoridade nacional competente, facultar-lhe toda a informação e a documentação necessárias para demonstrar a conformidade do material elétrico;\n\nc) Cooperar com a autoridade nacional competente, a pedido desta, no que se refere a qualquer ação para eliminar os riscos decorrentes de material elétrico abrangido pelo seu mandato."
+  },
+  "b739cb070f164ef6": {
+   "fragment_id": "Artigo 8.º — Deveres dos importadores",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Deveres dos importadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres dos importadores\n\n1. Os importadores só podem colocar no mercado material elétrico conforme.\n\n2. Antes de colocarem material elétrico no mercado, os importadores devem assegurar que o fabricante aplicou o procedimento de avaliação da conformidade adequado. Devem assegurar que o fabricante elaborou a documentação técnica, que o material elétrico ostenta a marcação CE e vem acompanhado dos documentos necessários, e que o fabricante respeitou os requisitos previstos no artigo 6.º, n.^os^ 5 e 6.\n\nCaso o importador considere ou tenha motivos para crer que o material elétrico não é conforme com os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I, não deve colocar o material elétrico no mercado até que este seja posto em conformidade. Além disso, caso o material elétrico apresente um risco, o importador deve informar desse facto o fabricante e as autoridades de fiscalização do mercado.\n\n3. Os importadores devem indicar o seu nome, o nome comercial registado ou a marca registada e o endereço postal de contacto no material elétrico ou, se tal não for possível, na embalagem ou num documento que o acompanhe. Os dados de contacto devem ser facultados numa língua facilmente compreensível pelos utilizadores finais e pelas autoridades de fiscalização do mercado.\n\n4. Os importadores devem assegurar que o material elétrico seja acompanhado de instruções e informações de segurança numa língua facilmente compreensível pelos consumidores e por outros utilizadores finais, de acordo com o que o Estado-Membro em causa determinar.\n\n5. Os importadores devem assegurar que, enquanto um material elétrico estiver sob a sua responsabilidade, as suas condições de armazenamento ou de transporte não prejudiquem a sua conformidade com os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I.\n\n6. Sempre que for considerado apropriado, em função do risco que o material elétrico apresenta, os importadores devem realizar, a fim de proteger a saúde e a segurança dos consumidores, ensaios por amostragem do material elétrico disponibilizado no mercado, investigar e, se necessário, conservar um registo das reclamações, do material elétrico não conforme e do material elétrico recolhido, e devem informar os distribuidores de todas estas ações de controlo.\n\n7. Os importadores que considerem ou tenham motivos para crer que determinado material elétrico que colocaram no mercado não é conforme com a presente diretiva devem tomar imediatamente as medidas corretivas necessárias para o pôr em conformidade, para o retirar ou para o recolher, se adequado. Além disso, se o material elétrico apresentar um risco, os importadores devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros nos quais disponibilizaram o material elétrico no mercado, fornecendo-lhes as informações relevantes, sobretudo no que se refere à não conformidade e às medidas corretivas aplicadas.\n\n8. Durante 10 anos a contar da data de colocação do material elétrico no mercado, os importadores devem manter um exemplar da declaração UE de conformidade à disposição das autoridades de fiscalização do mercado e assegurar que a documentação técnica lhes possa ser facultada, a pedido.\n\n9. Mediante pedido fundamentado da autoridade nacional competente, os importadores devem facultar toda a informação e documentação necessárias em papel ou em suporte eletrónico, numa língua facilmente compreensível por essa autoridade, a fim de demonstrar a conformidade do material elétrico. Devem ainda cooperar com a referida autoridade, a pedido desta, em qualquer ação de eliminação dos riscos decorrentes de material elétrico que tenham colocado no mercado."
+  },
+  "4e95a9c5b5baa25b": {
+   "fragment_id": "Artigo 9.º — Deveres dos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Deveres dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Deveres dos distribuidores\n\n1. Ao disponibilizarem material elétrico no mercado, os distribuidores devem agir com a devida diligência em relação aos requisitos da presente diretiva.\n\n2. Antes de disponibilizarem material elétrico no mercado, os distribuidores devem verificar se o mesmo ostenta a marcação CE, se vem acompanhado dos documentos exigidos pela presente diretiva e das instruções e informações respeitantes à segurança, numa língua facilmente compreensível pelos consumidores e por outros utilizadores finais no Estado-Membro em que o material elétrico é disponibilizado no mercado, e ainda se o fabricante e o importador respeitaram os requisitos previstos, respetivamente, no artigo 6.º, n.^os^ 5 e 6, e no artigo 8.º, n.º 3.\n\nCaso o distribuidor considere ou tenha motivos para crer que o material elétrico não é conforme com os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I, não deve disponibilizar o material elétrico no mercado até que este seja posto em conformidade. Além disso, caso o material elétrico apresente um risco, o distribuidor deve informar desse facto o fabricante ou o importador e as autoridades de fiscalização do mercado.\n\n3. Os distribuidores devem assegurar que, enquanto o material elétrico estiver sob a sua responsabilidade, as suas condições de armazenamento ou de transporte não prejudiquem a sua conformidade com os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I.\n\n4. Os distribuidores que considerem ou tenham motivos para crer que determinado material elétrico que disponibilizaram no mercado não é conforme com a presente diretiva devem tomar as medidas corretivas necessárias para o pôr em conformidade, para o retirar ou para o recolher, se adequado. Além disso, se o material elétrico apresentar um risco, os distribuidores devem informar imediatamente desse facto as autoridades nacionais competentes dos Estados-Membros nos quais disponibilizaram o material elétrico no mercado, fornecendo-lhes as informações relevantes, sobretudo no que se refere à não conformidade e às medidas corretivas aplicadas.\n\n5. Mediante pedido fundamentado da autoridade nacional competente, os distribuidores devem facultar toda a informação e documentação necessárias em papel ou em suporte eletrónico a fim de demonstrar a conformidade do material elétrico. Os distribuidores devem cooperar com a referida autoridade, a pedido desta, em qualquer ação de eliminação dos riscos decorrentes de material elétrico que tenham disponibilizado no mercado."
+  },
+  "2f82579698f5dacb": {
+   "fragment_id": "Artigo 10.º — Situações em que os deveres dos fabricantes se aplicam aos importadores e aos distribuidores",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Situações em que os deveres dos fabricantes se aplicam aos importadores e aos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Situações em que os deveres dos fabricantes se aplicam aos importadores e aos distribuidores\n\nOs importadores ou os distribuidores são considerados fabricantes para efeitos da presente diretiva, ficando sujeitos aos mesmos deveres que estes nos termos do artigo 6.º, sempre que coloquem no mercado material elétrico em seu nome ou ao abrigo de uma marca sua, ou alterem material elétrico já colocado no mercado de tal modo que a conformidade com o disposto na presente diretiva possa ser afetada."
+  },
+  "757ca187358829b4": {
+   "fragment_id": "Artigo 11.º — Identificação dos operadores económicos",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Identificação dos operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Identificação dos operadores económicos\n\nA pedido das autoridades de fiscalização do mercado, os operadores económicos devem identificar:\n\na) O operador económico que lhes forneceu determinado material elétrico;\n\nb) O operador económico ao qual forneceram determinado material elétrico.\n\nOs operadores económicos devem estar em condições de apresentar as informações referidas no primeiro parágrafo pelo prazo de 10 anos após lhes ter sido fornecido o material elétrico, e de 10 anos após terem fornecido o material elétrico."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "176cdf2526ac9df2": {
+   "fragment_id": "CONFORMIDADE DO MATERIAL ELÉTRICO",
+   "type": "divisao",
+   "heading": "CONFORMIDADE DO MATERIAL ELÉTRICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONFORMIDADE DO MATERIAL ELÉTRICO"
+  },
+  "5d595bd87a1b866b": {
+   "fragment_id": "Artigo 12.º — Presunção da conformidade baseada nas normas harmonizadas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Presunção da conformidade baseada nas normas harmonizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Presunção da conformidade baseada nas normas harmonizadas\n\nPresume-se que o material elétrico que está conforme com as normas harmonizadas ou partes destas, cujas referências tenham sido publicadas no *Jornal Oficial da União Europeia*, está conforme com os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I, abrangidos pelas referidas normas ou por partes destas."
+  },
+  "ad9396e8031e9cab": {
+   "fragment_id": "Artigo 13.º — Presunção da conformidade baseada nas normas internacionais",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Presunção da conformidade baseada nas normas internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Presunção da conformidade baseada nas normas internacionais\n\n1. Caso as normas harmonizadas referidas no artigo 12.º não tenham sido elaboradas e publicadas, os Estados-Membros devem tomar todas as medidas necessárias para assegurar que, tendo em vista a disponibilização no mercado referida no artigo 3.º ou a livre circulação referida no artigo 4.º, as respetivas entidades competentes considerem igualmente que o material elétrico cumpre os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I desde que satisfaça as regras de segurança das normas internacionais estabelecidas pela Comissão Eletrotécnica Internacional em relação às quais o processo de publicação previsto no presente artigo, n.^os^ 2 e 3, tenha sido aplicado.\n\n2. As regras de segurança referidas no n.º 1 são notificadas aos Estados-Membros pela Comissão. A Comissão deve indicar, após consulta prévia dos Estados-Membros, as regras de segurança e, em especial, as respetivas alterações para as quais é recomendada a publicação.\n\n3. Os Estados-Membros devem comunicar à Comissão, no prazo de três meses, as eventuais objeções às regras de segurança que lhes foram notificadas nos termos do n.º 2, com indicação dos motivos que, por razões de segurança, justificam a sua oposição à aceitação de qualquer dessas regras.\n\nAs referências às regras que não tenham levantado objeções são publicadas, a título informativo, no *Jornal Oficial da União Europeia*."
+  },
+  "89558f53d4e7e1e2": {
+   "fragment_id": "Artigo 14.º — Presunção da conformidade baseada nas normas nacionais",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Presunção da conformidade baseada nas normas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Presunção da conformidade baseada nas normas nacionais\n\nCaso as normas harmonizadas referidas no artigo 12.º não tenham sido elaboradas ou publicadas ou as normas internacionais referidas no artigo 13.º não tenham sido publicadas, os Estados-Membros devem tomar todas as medidas necessárias para assegurar que, tendo em vista a disponibilização no mercado referida no artigo 3.º ou a livre circulação referida no artigo 4.º, as respetivas entidades competentes considerem igualmente que o material elétrico fabricado de acordo com as regras de segurança das normas aplicadas pelo Estado-Membro em que o material foi produzido cumpre os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I, desde que esse Estado-Membro garanta um nível de segurança equivalente ao exigido no seu próprio território."
+  },
+  "4b3be1e1bc221947": {
+   "fragment_id": "Artigo 15.º — Declaração UE de conformidade",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Declaração UE de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Declaração UE de conformidade\n\n1. A declaração UE de conformidade deve indicar que foi demonstrado o cumprimento dos objetivos de segurança referidos no artigo 3.º enunciados no anexo I.\n\n2. A declaração UE de conformidade deve respeitar o modelo constante do anexo IV, conter os elementos especificados no módulo A, constantes do anexo III, e ser permanentemente atualizada. A declaração UE de conformidade deve ser traduzida para a língua ou línguas exigidas pelo Estado-Membro no qual o material elétrico é colocado ou disponibilizado no mercado.\n\n3. Caso o material elétrico esteja sujeito a mais do que um ato da União que exija uma declaração UE de conformidade, deve ser elaborada uma única declaração UE de conformidade referente a todos esses atos da União. Essa declaração deve conter a identificação dos atos da União em causa, incluindo as respetivas referências de publicação.\n\n4. Ao elaborar a declaração UE de conformidade, o fabricante assume a responsabilidade pela conformidade do material elétrico com os requisitos previstos na presente diretiva."
+  },
+  "efc2fcb0cd46194b": {
+   "fragment_id": "Artigo 16.º — Princípios gerais da marcação CE",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Princípios gerais da marcação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Princípios gerais da marcação CE\n\nA marcação CE está sujeita aos princípios gerais previstos no artigo 30.º do Regulamento (CE) n.º 765/2008."
+  },
+  "7d3130f532cea03f": {
+   "fragment_id": "Artigo 17.º — Regras e condições para a aposição da marcação CE",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Regras e condições para a aposição da marcação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regras e condições para a aposição da marcação CE\n\n1. A marcação CE deve ser aposta no material elétrico ou na sua placa de identificação de modo visível, legível e indelével. Caso isso não seja possível ou não possa ser garantido devido à natureza do material elétrico, a marcação CE deve ser aposta na embalagem e nos documentos que o acompanham.\n\n2. A marcação CE deve ser aposta antes de o material elétrico ser colocado no mercado.\n\n3. Os Estados-Membros devem basear-se nos mecanismos existentes para assegurar a correta aplicação do regime de marcação CE e devem tomar as medidas adequadas em caso de utilização indevida dessa marcação."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "2f7573eb11236c26": {
+   "fragment_id": "FISCALIZAÇÃO DO MERCADO DA UNIÃO, CONTROLO DO MATERIAL ELÉTRICO QUE ENTRA NO MERCADO DA UNIÃO E PROCEDIMENTOS DE SALVAGUARDA DA UNIÃO",
+   "type": "divisao",
+   "heading": "FISCALIZAÇÃO DO MERCADO DA UNIÃO, CONTROLO DO MATERIAL ELÉTRICO QUE ENTRA NO MERCADO DA UNIÃO E PROCEDIMENTOS DE SALVAGUARDA DA UNIÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FISCALIZAÇÃO DO MERCADO DA UNIÃO, CONTROLO DO MATERIAL ELÉTRICO QUE ENTRA NO MERCADO DA UNIÃO E PROCEDIMENTOS DE SALVAGUARDA DA UNIÃO"
+  },
+  "b13bd53a218d86b2": {
+   "fragment_id": "Artigo 18.º — Fiscalização do mercado da União e controlo do material elétrico que entra no mercado da União",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Fiscalização do mercado da União e controlo do material elétrico que entra no mercado da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização do mercado da União e controlo do material elétrico que entra no mercado da União\n\nAplicam-se ao material elétrico o artigo 15.º, n.º 3, e os artigos 16.º a 29.º do Regulamento (CE) n.º 765/2008."
+  },
+  "dc447fdf22239ce3": {
+   "fragment_id": "Artigo 19.º — Procedimento aplicável ao material elétrico que apresenta riscos a nível nacional",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Procedimento aplicável ao material elétrico que apresenta riscos a nível nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Procedimento aplicável ao material elétrico que apresenta riscos a nível nacional\n\n1. Caso as autoridades de fiscalização do mercado de um Estado-Membro tenham motivos suficientes para crer que o material elétrico apresenta riscos para a saúde e a segurança das pessoas, dos animais domésticos ou dos bens, devem efetuar uma avaliação do material elétrico em causa que abranja todos os requisitos pertinentes previstos na presente diretiva. Os operadores económicos envolvidos devem cooperar, na medida do necessário, com as autoridades de fiscalização do mercado para esse efeito.\n\nCaso, durante a avaliação referida no primeiro parágrafo, as autoridades de fiscalização do mercado verifiquem que o material elétrico não cumpre os requisitos da presente diretiva, devem exigir imediatamente que o operador económico em causa tome todas as medidas corretivas adequadas para o pôr em conformidade com esses requisitos, para o retirar do mercado ou para o recolher num prazo razoável por si fixado, proporcionado em relação à natureza dos riscos.\n\nO artigo 21.º do Regulamento (CE) n.º 765/2008 aplica-se às medidas referidas no segundo parágrafo do presente número.\n\n2. Caso as autoridades de fiscalização do mercado considerem que a não conformidade não se limita ao território nacional, devem comunicar à Comissão e aos outros Estados-Membros os resultados da avaliação e as medidas que exigiram que o operador económico tomasse.\n\n3. O operador económico deve assegurar a aplicação de todas as medidas corretivas adequadas relativamente ao material elétrico em causa por si disponibilizado no mercado da União.\n\n4. Caso o operador económico em causa não tome as medidas corretivas adequadas no prazo referido no n.º 1, segundo parágrafo, as autoridades de fiscalização do mercado devem tomar todas as medidas provisórias adequadas para proibir ou restringir a disponibilização do material elétrico no seu mercado nacional, para o retirar do mercado ou para o recolher.\n\nAs autoridades de fiscalização do mercado devem informar imediatamente a Comissão e os demais Estados-Membros das medidas tomadas.\n\n5.\n\nAs informações referidas no n.º 4, segundo parágrafo, devem conter todos os pormenores disponíveis, nomeadamente os dados necessários para identificar o material elétrico não conforme e a sua origem, a natureza da alegada não conformidade e do risco conexo, a natureza e a duração das medidas nacionais tomadas e os argumentos expostos pelo operador económico em causa. As autoridades de fiscalização do mercado devem indicar, nomeadamente, se a não conformidade se deve a uma das seguintes razões:\n\na) Não conformidade do material elétrico com os objetivos de segurança referidos no artigo 3.º e enunciados no anexo I, ligados à saúde e à segurança das pessoas, dos animais domésticos ou dos bens; ou\n\nb) Deficiências das normas harmonizadas referidas no artigo 12.º ou das normas internacionais ou nacionais referidas nos artigos 13.º e 14.º, que conferem a presunção de conformidade.\n\n6. Os Estados-Membros, com exceção do Estado-Membro que desencadeou o procedimento ao abrigo do presente artigo, devem informar imediatamente a Comissão e os outros Estados-Membros das medidas adotadas, dos dados complementares de que disponham relativamente à não conformidade do material elétrico em causa e, em caso de desacordo com a medida nacional tomada, das suas objeções.\n\n7. Caso, no prazo de três meses a contar da receção das informações referidas no n.º 4, segundo parágrafo, nem os Estados-Membros nem a Comissão tiverem levantado objeções a uma medida provisória tomada por um Estado-Membro, considera-se que essa medida é justificada.\n\n8. Os Estados-Membros devem assegurar a aplicação imediata de medidas restritivas adequadas em relação ao material elétrico em causa, nomeadamente a sua retirada do mercado."
+  },
+  "c8d1fe50e6d69707": {
+   "fragment_id": "Artigo 20.º — Procedimento de salvaguarda da União",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Procedimento de salvaguarda da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Procedimento de salvaguarda da União\n\n1. Caso, no termo do procedimento previsto no artigo 19.º, n.^os^ 3 e 4, sejam levantadas objeções à medida tomada por um Estado-Membro, ou caso a Comissão considere que a mesma é contrária à legislação da União, a Comissão deve iniciar imediatamente consultas com os Estados-Membros e com os operadores económicos em causa, e avaliar a medida nacional. Com base nos resultados dessa avaliação, a Comissão adota um ato de execução que determina se a medida nacional se justifica ou não.\n\nA Comissão dirige a sua decisão aos Estados-Membros e comunica-a imediatamente aos mesmos e aos operadores económicos em causa.\n\n2. Se a medida nacional for considerada justificada, os Estados-Membros tomam as medidas necessárias para assegurar que o material elétrico não conforme seja retirado do seu mercado nacional e informam desse facto a Comissão. Se a medida nacional for considerada injustificada, o Estado-Membro em causa deve revogá-la.\n\n3. Caso a medida nacional seja considerada justificada e a não conformidade do material elétrico seja atribuída a uma deficiência das normas harmonizadas referidas no artigo 19.º, n.º 5, alínea b), da presente diretiva, a Comissão aplica o procedimento previsto no artigo 11.º do Regulamento (UE) n.º 1025/2012."
+  },
+  "10ff6d3e97182c76": {
+   "fragment_id": "Artigo 21.º — Material elétrico conforme que apresenta riscos para a saúde ou a segurança",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Material elétrico conforme que apresenta riscos para a saúde ou a segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Material elétrico conforme que apresenta riscos para a saúde ou a segurança\n\n1. Caso um Estado-Membro, após ter efetuado a avaliação prevista no artigo 19.º, n.º 1, verifique que, embora conforme com a presente diretiva, o material elétrico apresenta um risco para a saúde ou a segurança das pessoas, para os animais domésticos ou para os bens, deve exigir que o operador económico em causa tome todas as medidas corretivas adequadas para garantir que esse material elétrico, uma vez colocado no mercado, já não apresente esse risco, para o retirar do mercado ou para o recolher num prazo razoável por si fixado, proporcionado em relação à natureza do risco.\n\n2. O operador económico deve assegurar que sejam tomadas todas as medidas corretivas necessárias relativamente ao material elétrico em causa por si disponibilizado no mercado da União.\n\n3. O Estado-Membro deve informar imediatamente desse facto a Comissão e os outros Estados-Membros. Essas informações devem conter todos os pormenores disponíveis, nomeadamente os dados necessários para identificar o material elétrico em causa, a origem e o circuito comercial do material elétrico, a natureza do risco conexo e a natureza e duração das medidas nacionais tomadas.\n\n4. A Comissão deve iniciar imediatamente consultas com os Estados-Membros e com os operadores económicos relevantes e proceder à avaliação das medidas nacionais tomadas. Com base nos resultados dessa avaliação, a Comissão decide, por meio de atos de execução, se as medidas nacionais se justificam ou não, e, se necessário, propõe as medidas adequadas.\n\nOs atos de execução referidos no primeiro parágrafo são adotados pelo procedimento de exame a que se refere o artigo 23.º, n.º 2.\n\nCaso imperativos de urgência relativos à proteção da saúde e da segurança das pessoas, aos animais domésticos ou aos bens, o justifiquem, a Comissão adota atos de execução imediatamente aplicáveis pelo procedimento a que se refere o artigo 23.º, n.º 3.\n\n5. A Comissão dirige a sua decisão aos Estados-Membros e comunica-a imediatamente aos mesmos e aos operadores económicos em causa."
+  },
+  "99fae3510d51eb7f": {
+   "fragment_id": "Artigo 22.º — Não conformidade formal",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Não conformidade formal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Não conformidade formal\n\n1.\n\nSem prejuízo do disposto no artigo 19.º, caso um Estado-Membro constate um dos factos a seguir enunciados, deve exigir que o operador económico em causa ponha termo à não conformidade verificada:\n\na) A marcação CE foi aposta em violação do artigo 30.º do Regulamento (CE) n.º 765/2008 ou do artigo 17.º da presente diretiva;\n\nb) A marcação CE não foi aposta;\n\nc) A declaração UE de conformidade não foi elaborada;\n\nd) A declaração UE de conformidade não foi corretamente elaborada;\n\ne) A documentação técnica não está disponível ou não está completa;\n\nf) As informações referidas no artigo 6.º, n.º 6, ou no artigo 8.º, n.º 3, estão ausentes ou são falsas ou incompletas;\n\ng) Não foram respeitados outros requisitos administrativos previstos no artigo 6.º ou no artigo 8.º.\n\n2. Caso a não conformidade referida no n.º 1 persista, o Estado-Membro em causa deve tomar as medidas adequadas para restringir ou proibir a disponibilização no mercado do material elétrico ou para garantir que o mesmo seja recolhido ou retirado do mercado."
+  },
+  "62ea5f32e90507e6": {
+   "fragment_id": "CAPÍTULO 4-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4-A"
+  },
+  "5e062bf41c5998ec": {
+   "fragment_id": "PROCEDIMENTOS DE EMERGÊNCIA",
+   "type": "divisao",
+   "heading": "PROCEDIMENTOS DE EMERGÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTOS DE EMERGÊNCIA"
+  },
+  "c0c6ebbe9e622bdf": {
+   "fragment_id": "Artigo 22.º-A — Aplicação de procedimentos de emergência",
+   "type": "artigo",
+   "heading": "Artigo 22.º-A — Aplicação de procedimentos de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º-A — Aplicação de procedimentos de emergência\n\n1. Os Estados-Membros asseguram que as medidas adotadas com vista à transposição dos artigos 22.º-B e 22.º-C da presente diretiva são aplicáveis apenas se a Comissão tiver adotado um ato de execução nos termos do artigo 28.º do Regulamento (UE) 2024/2747 no que diz respeito ao material elétrico abrangido pela presente diretiva.\n\n2. Os Estados-Membros asseguram que as medidas adotadas com vista à transposição dos artigos 22.º-B e 22.º-C da presente diretiva são aplicáveis apenas a material elétrico que tenha sido designado como bem relevante em situação de crise nos termos do artigo 18.º, n.º 4, do Regulamento (UE) 2024/2747.\n\n3. Os Estados-Membros asseguram que as medidas adotadas com vista à transposição dos artigos 22.º-B e 22.º-C da presente diretiva são aplicáveis apenas durante o modo de emergência do mercado interno que tenha sido ativado em conformidade com o artigo 18.º do Regulamento (UE) 2024/2747.\n\n4. A Comissão pode adotar atos de execução relativos às medidas corretivas ou restritivas a tomar, aos procedimentos a seguir e aos requisitos específicos de rotulagem e rastreabilidade relativamente a material elétrico colocado no mercado em conformidade com o artigo 22.º-C. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 23.º, n.º 2."
+  },
+  "88d45b3bde2f845a": {
+   "fragment_id": "Artigo 22.º-B — Presunção de conformidade baseada em normas e especificações comuns",
+   "type": "artigo",
+   "heading": "Artigo 22.º-B — Presunção de conformidade baseada em normas e especificações comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º-B — Presunção de conformidade baseada em normas e especificações comuns\n\n1.\n\nNos casos em que o material elétrico tenha sido designado como bem relevante em situação de crise, a Comissão fica habilitada a adotar atos de execução que enumerem normas adequadas ou que estabeleçam especificações comuns para esse material elétrico a fim de abranger os objetivos de segurança a que se refere o artigo 3.º da presente diretiva e estabelecidos no anexo I da presente diretiva nos seguintes casos:\n\na) Sempre que não se encontre publicada no *Jornal Oficial da União Europeia* uma referência a normas harmonizadas que abranjam os objetivos de segurança referidos no artigo 3.º da presente diretiva e estabelecidos no anexo I da presente diretiva em conformidade com o Regulamento (UE) n.º 1025/2012 e não esteja prevista a publicação de tal referência dentro de um prazo razoável; ou\n\nb) Sempre que as perturbações graves no funcionamento do mercado interno, que conduziram à ativação do modo de emergência do mercado interno em conformidade com o artigo 18.º do Regulamento (UE) 2024/2747, restrinjam significativamente as possibilidades de os fabricantes fazerem uso das normas harmonizadas que abrangem os objetivos de segurança a que se refere o artigo 3.º da presente diretiva e estabelecidos no anexo I da presente diretiva e cujas referências já foram publicadas no *Jornal Oficial da União Europeia* em conformidade com o Regulamento (UE) n.º 1025/2012.\n\n2. Os atos de execução a que se refere o n.º 1 estabelecem a solução técnica alternativa mais adequada para conferir a presunção de conformidade nos termos do n.º 5. Para o efeito, as referências das normas europeias ou as referências das normas nacionais ou internacionais aplicáveis pertinentes podem ser publicadas nesses atos de execução ou, caso não exista uma norma europeia ou uma norma nacional ou internacional aplicável pertinente, podem ser estabelecidas especificações comuns por esses atos de execução.\n\n3. Os atos de execução a que se refere o n.º 1 do presente artigo são adotados em conformidade com o procedimento de exame a que se refere o artigo 23.º, n.º 2, e são aplicáveis até ao último dia do período durante o qual o modo de emergência do mercado interno estiver ativo, salvo se os referidos atos de execução forem alterados ou revogados em conformidade com o n.º 7 do presente artigo.\n\n4. Antes de elaborar o projeto de ato de execução a que se refere o n.º 1 do presente artigo, a Comissão informa o comité a que se refere o artigo 22.º do Regulamento (UE) n.º 1025/2012 de que considera terem sido preenchidas as condições previstas no n.º 1 do presente artigo. Ao elaborar esse projeto de ato de execução, a Comissão tem em conta as opiniões dos organismos pertinentes ou dos grupos de peritos criados ao abrigo da presente diretiva e consulta devidamente todas as partes interessadas pertinentes.\n\n5. Sem prejuízo do disposto nos artigos 12.º, 13.º e 14.º, presume-se que o material elétrico que esteja em conformidade com as normas ou especificações comuns a que se refere o n.º 1 do presente artigo, ou com partes destas, está conforme com os objetivos de segurança a que se refere o artigo 3.º e estabelecidos no anexo I que são abrangidos por essas normas e especificações comuns ou por partes destas. A partir do dia seguinte à caducidade ou desativação do modo de emergência do mercado interno, os fabricantes deixam de poder basear-se na presunção de conformidade conferida pelas normas ou especificações comuns referidas nos atos de execução a que se refere o n.º 1 do presente artigo.\n\n6. Em derrogação do disposto no artigo 22.º-A, n.º 3, a menos que exista razão suficiente para crer que o material elétrico abrangido pelas normas ou especificações comuns a que se refere o n.º 1 do presente artigo representa um risco para a saúde ou a segurança das pessoas, o material elétrico que esteja em conformidade com essas normas ou especificações comuns e tenha sido colocado no mercado é considerado conforme com os objetivos de segurança, referidos no artigo 3.º e estabelecidos no anexo I, após a caducidade ou revogação de um ato de execução adotado nos termos do n.º 3 do presente artigo e após a caducidade ou desativação do modo de emergência do mercado interno.\n\n7. Quando um Estado-Membro considere que uma norma ou especificação comum a que se refere o n.º 1 não satisfaz plenamente os objetivos de segurança a que se refere o artigo 3.º e estabelecidos no anexo I, informa a Comissão desse facto, apresentando uma explicação detalhada. A Comissão avalia essa explicação detalhada e pode, se for caso disso, alterar ou revogar o ato de execução que elenca a norma ou estabelece a especificação comum em causa."
+  },
+  "496f517186f9e93f": {
+   "fragment_id": "Artigo 22.º-C — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades",
+   "type": "artigo",
+   "heading": "Artigo 22.º-C — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º-C — Prioridade das atividades de fiscalização do mercado e assistência mútua entre autoridades\n\n1. Os Estados-Membros dão prioridade a atividades de fiscalização do mercado relativas ao material elétrico elencado no ato de execução a que se refere o artigo 22.º-A, n.º 1, da presente diretiva. A Comissão facilita a coordenação destes esforços de atribuição de prioridade através da rede da União para a conformidade dos produtos criada ao abrigo do artigo 29.º do Regulamento (UE) 2019/1020 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/28a368e1-2d74-11f1-906d-01aa75ed71a1.0019.02/DOC_1#E0002)).\n\n2. As autoridades de fiscalização do mercado dos Estados-Membros asseguram que são envidados os melhores esforços para prestar assistência a outras autoridades de fiscalização do mercado durante o modo de emergência do mercado interno, nomeadamente através da mobilização e do envio de equipas de peritos para reforçar temporariamente o pessoal das autoridades de fiscalização do mercado que solicitam assistência ou prestando apoio logístico como o reforço da capacidade de ensaio para material elétrico elencado no ato de execução a que se refere o artigo 22.º-A, n.º 1."
+  },
+  "ba538fa7b6eb44e8": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5"
+  },
+  "08eea57f04a169e2": {
+   "fragment_id": "COMITÉ, DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "COMITÉ, DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMITÉ, DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "e41848c7e786c722": {
+   "fragment_id": "Artigo 23.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité do Material Elétrico. Este comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\n3. Caso se faça referência ao presente número, aplica-se o artigo 8.º do Regulamento (UE) n.º 182/2011, em conjugação com o artigo 5.º do mesmo regulamento.\n\n4. O comité é consultado pela Comissão sobre todas as questões para as quais a consulta de peritos setoriais é obrigatória por força do Regulamento (UE) n.º 1025/2012 ou de outra legislação da União.\n\nAlém disso, o comité pode examinar qualquer outra questão relativa à aplicação da presente diretiva suscitada pelo seu presidente ou por representantes dos Estados-Membros nos termos do seu regulamento interno."
+  },
+  "8866ae483837fdd2": {
+   "fragment_id": "Artigo 24.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sanções\n\nOs Estados-Membros devem estabelecer regras sobre as sanções aplicáveis às infrações cometidas pelos operadores económicos ao disposto no direito nacional aprovado em execução da presente diretiva e tomar as medidas necessárias para assegurar a sua execução. Essas regras podem incluir sanções penais para infrações graves.\n\nAs sanções previstas devem ser efetivas, proporcionadas e dissuasivas."
+  },
+  "e25c4e940ec429d1": {
+   "fragment_id": "Artigo 25.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Disposições transitórias\n\nOs Estados-Membros não podem impedir a disponibilização no mercado de material elétrico abrangido pela Diretiva 2006/95/CE que esteja em conformidade com essa diretiva e que tenha sido colocado no mercado antes de 20 de abril de 2016."
+  },
+  "707d0c662092b76c": {
+   "fragment_id": "Artigo 26.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Transposição\n\n1. Os Estados-Membros devem adotar e publicar até 19 de abril de 2016 as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao disposto no artigo 2.º, no artigo 3.º, primeiro parágrafo, no artigo 4.º, nos artigos 6.º a 12.º, no artigo 13.º, n.º 1, nos artigos 14.º a 25.º e nos anexos II, III e IV. Os Estados-Membros devem comunicar imediatamente o texto dessas medidas à Comissão.\n\nOs Estados-Membros devem aplicar essas medidas a partir de 20 de abril de 2016.\n\nQuando os Estados-Membros adotarem essas medidas, estas devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Tais disposições devem igualmente precisar que as referências feitas, nas disposições legislativas, regulamentares e administrativas em vigor, à diretiva revogada pela presente diretiva se consideram como sendo feitas à presente diretiva. As modalidades dessa referência e desta menção incumbem aos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito nacional que tiverem adotado no domínio abrangido pela presente diretiva."
+  },
+  "9df7cb7bf4b8672d": {
+   "fragment_id": "Artigo 27.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Revogação\n\nA Diretiva 2006/95/CE é revogada com efeitos a partir de 20 de abril de 2016, sem prejuízo das obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional e às datas de aplicação da diretiva, indicados no anexo V.\n\nAs referências à diretiva revogada devem entender-se como sendo feitas à presente diretiva e devem ser lidas de acordo com a tabela de correspondência constante do anexo VI."
+  },
+  "5238fef29786ed67": {
+   "fragment_id": "Artigo 28.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO artigo 1.º, o artigo 3.º, segundo parágrafo, os artigo 5.º, o artigo 13.º, n.^os^ 2 e 3, e os anexos I, V e VI são aplicáveis a partir de 20 de abril de 2016."
+  },
+  "8c7159c07c1fd001": {
+   "fragment_id": "Artigo 29.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "414e3602cdaf9a5a": {
+   "fragment_id": "PRINCIPAIS ELEMENTOS DOS OBJETIVOS DE SEGURANÇA PARA O MATERIAL ELÉTRICO DESTINADO A SER UTILIZADO DENTRO DE CERTOS LIMITES DE TENSÃO",
+   "type": "divisao",
+   "heading": "PRINCIPAIS ELEMENTOS DOS OBJETIVOS DE SEGURANÇA PARA O MATERIAL ELÉTRICO DESTINADO A SER UTILIZADO DENTRO DE CERTOS LIMITES DE TENSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRINCIPAIS ELEMENTOS DOS OBJETIVOS DE SEGURANÇA PARA O MATERIAL ELÉTRICO DESTINADO A SER UTILIZADO DENTRO DE CERTOS LIMITES DE TENSÃO"
+  },
+  "9abcfd4f8a53d1eb": {
+   "fragment_id": "1. Condições gerais",
+   "type": "divisao",
+   "heading": "1. Condições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 1. Condições gerais\n\na) As características essenciais do material elétrico cujo conhecimento e cumprimento sejam indispensáveis para uma utilização isenta de perigos e de acordo com o fim a que o material se destina devem ser afixadas no próprio material elétrico, ou, em caso de impossibilidade, num documento que o acompanhe;\n\nb) Tanto o material elétrico como as partes que o constituem devem ser fabricados de modo a poder ser montados de forma segura e adequada;\n\nc) O material elétrico deve ser projetado e fabricado de tal modo que fique garantida a proteção contra os riscos mencionados nos pontos 2 e 3, desde que seja utilizado de acordo com o fim a que se destina e que seja objeto de manutenção adequada."
+  },
+  "2e7b89a2bb5d1d3a": {
+   "fragment_id": "2. Proteção contra os riscos resultantes do material elétrico",
+   "type": "divisao",
+   "heading": "2. Proteção contra os riscos resultantes do material elétrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 2. Proteção contra os riscos resultantes do material elétrico\n\nDevem ser previstas medidas de ordem técnica de acordo com o ponto 1, a fim de que:\n\na) As pessoas e os animais domésticos fiquem protegidos de forma adequada contra os riscos de ferimentos ou de outros acidentes resultantes de contactos diretos ou indiretos;\n\nb) Não se produzam temperaturas, descargas ou radiações que possam provocar perigo;\n\nc) As pessoas, os animais domésticos e os bens sejam protegidos de forma adequada contra os riscos de natureza não elétrica provenientes do material elétrico que a experiência venha a revelar;\n\nd) O isolamento seja adequado aos condicionamentos previstos."
+  },
+  "76f267f9b4760770": {
+   "fragment_id": "3. Proteção contra os riscos que possam ser provocados por influências exteriores sobre o material elétrico",
+   "type": "divisao",
+   "heading": "3. Proteção contra os riscos que possam ser provocados por influências exteriores sobre o material elétrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3. Proteção contra os riscos que possam ser provocados por influências exteriores sobre o material elétrico\n\nDevem ser previstas medidas de ordem técnica de acordo com o ponto 1, a fim de que o material elétrico:\n\na) Responda às exigências mecânicas previstas, de modo a não pôr em perigo as pessoas, os animais domésticos e os bens;\n\nb) Resista às influências não mecânicas nas condições ambientais previstas, de modo a não pôr em risco as pessoas, os animais domésticos e os bens;\n\nc) Não ponha em risco as pessoas, os animais domésticos e os bens nas condições de sobrecarga previstas."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "952673c307966a98": {
+   "fragment_id": "MATERIAL E FENÓMENOS EXCLUÍDOS DO CAMPO DE APLICAÇÃO DA PRESENTE DIRETIVA",
+   "type": "divisao",
+   "heading": "MATERIAL E FENÓMENOS EXCLUÍDOS DO CAMPO DE APLICAÇÃO DA PRESENTE DIRETIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MATERIAL E FENÓMENOS EXCLUÍDOS DO CAMPO DE APLICAÇÃO DA PRESENTE DIRETIVA\n\nEquipamento elétrico destinado a ser utilizado numa atmosfera explosiva.\n\nEquipamento elétrico para radiologia e para medicina.\n\nPartes elétricas dos elevadores e monta-cargas.\n\nContadores elétricos.\n\nFichas e tomadas para uso doméstico.\n\nDispositivos de alimentação de vedações eletrificadas.\n\nPerturbações radioelétricas.\n\nMaterial elétrico especializado, para utilização em navios ou aeronaves e nos caminhos-de-ferro, que satisfaça as regras de segurança estabelecidas pelos organismos internacionais de que os Estados-Membros façam parte.\n\nKits de avaliação fabricados por medida, destinados a profissionais, para uso exclusivo em instalações de investigação e desenvolvimento."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "86497b13d13f7857": {
+   "fragment_id": "MÓDULO A",
+   "type": "divisao",
+   "heading": "MÓDULO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÓDULO A"
+  },
+  "0b1cfe4b4cd5f34d": {
+   "fragment_id": "Controlo interno da produção",
+   "type": "divisao",
+   "heading": "Controlo interno da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Controlo interno da produção\n\n1. O controlo interno da produção é o procedimento de avaliação da conformidade através do qual o fabricante cumpre os deveres definidos nos pontos 2, 3 e 4 e garante e declara, sob a sua exclusiva responsabilidade, que o material elétrico em causa cumpre os requisitos da presente diretiva que lhe são aplicáveis.\n\n2. **Documentação técnica** O fabricante deve reunir a documentação técnica. Essa documentação deve permitir a avaliação da conformidade do material elétrico com os requisitos aplicáveis e incluir uma análise e uma avaliação adequadas dos riscos. A documentação técnica deve especificar os requisitos aplicáveis e abranger, se tal for relevante para a avaliação, o projeto, o fabrico e o funcionamento do material elétrico. A documentação técnica deve conter, se for esse o caso, pelo menos os seguintes elementos: a) Uma descrição geral do material elétrico; b) Os desenhos de projeto e de fabrico e esquemas de componentes, subconjuntos, circuitos, etc.; c) As descrições e explicações necessárias para a compreensão dos referidos desenhos e esquemas e do funcionamento do material elétrico; d) Uma lista das normas harmonizadas, aplicadas total ou parcialmente, cujas referências foram publicadas no *Jornal Oficial da União Europeia*, ou das normas internacionais ou nacionais referidas nos artigos 13.º e 14.º, e, nos casos em que as normas harmonizadas ou as normas internacionais ou nacionais não tenham sido aplicadas, descrições das soluções adotadas para cumprir os objetivos de segurança da presente diretiva, incluindo uma lista de outras especificações técnicas relevantes aplicadas. No caso de terem sido parcialmente aplicadas normas harmonizadas ou as normas internacionais ou nacionais referidas nos artigos 13.º e 14.º, a documentação técnica deve especificar as partes que foram aplicadas; e) Os resultados dos cálculos de projeto, dos exames efetuados, etc.; e f) Relatórios dos ensaios.\n\n3. **Fabrico** O fabricante deve tomar todas as medidas necessárias para que o processo de fabrico e o respetivo controlo garantam a conformidade do material elétrico fabricado com a documentação técnica mencionada no ponto 2 e com os requisitos da presente diretiva que lhe são aplicáveis.\n\n4. **Marcação CE e declaração UE de conformidade** 4.1. O fabricante deve apor a marcação CE a cada material elétrico que satisfaça os requisitos aplicáveis da presente diretiva. 4.2. O fabricante deve elaborar uma declaração UE de conformidade escrita para cada modelo de produto e mantê-la em conjunto, com a documentação técnica, à disposição das autoridades nacionais de fiscalização do mercado, por um período de 10 anos a contar da data de colocação no mercado do material elétrico. A declaração UE de conformidade deve especificar o material elétrico para o qual foi estabelecida. Deve ser fornecida às autoridades competentes de fiscalização do mercado, a seu pedido, uma cópia da declaração UE de conformidade.\n\n5. **Mandatário** Os deveres do fabricante, enunciados no ponto 4, podem ser cumpridos, em seu nome e sob a sua responsabilidade, pelo seu mandatário, desde que se encontrem especificados no mandato."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "f349acdc8ea0a489": {
+   "fragment_id": "DECLARAÇÃO UE DE CONFORMIDADE (N.º XXXX) ([^3^](http://publications.europa.eu/resource/cellar/28a368e1-2d74-11f1-906d-01aa75ed71a1.0019.02/DOC_1#E0003))",
+   "type": "divisao",
+   "heading": "DECLARAÇÃO UE DE CONFORMIDADE (N.º XXXX) ([^3^](http://publications.europa.eu/resource/cellar/28a368e1-2d74-11f1-906d-01aa75ed71a1.0019.02/DOC_1#E0003))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DECLARAÇÃO UE DE CONFORMIDADE (N.º XXXX) ([^3^](http://publications.europa.eu/resource/cellar/28a368e1-2d74-11f1-906d-01aa75ed71a1.0019.02/DOC_1#E0003))\n\n1. Modelo do produto/produto (número do produto, do tipo do lote ou da série):\n\n2. Nome e endereço do fabricante ou do respetivo mandatário:\n\n3. A presente declaração de conformidade é emitida sob a exclusiva responsabilidade do fabricante.\n\n4. Objeto da declaração (identificação do material elétrico que permita rastreá-lo; se for necessário para a identificação do material elétrico, pode incluir uma imagem a cores suficientemente clara):\n\n5. O objeto da declaração acima descrito está em conformidade com a legislação de harmonização da União aplicável:\n\n6. Referências às normas harmonizadas aplicáveis utilizadas ou a outras especificações técnicas em relação às quais é declarada a conformidade:\n\n7. Informações complementares:"
+  },
+  "a54d12c662b87d2f": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\n| Diretiva | Prazo de transposição | Data de aplicação |\n| --- | --- | --- |\n| 73/23/CEE | 21 de agosto de 1974 [(^1^)](http://publications.europa.eu/resource/cellar/28a368e1-2d74-11f1-906d-01aa75ed71a1.0019.02/DOC_1#E0004) | — |\n| 93/68/CEE | 1 de julho de 1994 | 1 de janeiro de 1995 [(^2^)](http://publications.europa.eu/resource/cellar/28a368e1-2d74-11f1-906d-01aa75ed71a1.0019.02/DOC_1#E0005) |\n| (^1^) No caso da Dinamarca, o prazo foi prorrogado por cinco anos, ou seja, termina em 21 de fevereiro de 1978. Ver artigo 13.º, n.º 1, da Diretiva 73/23/CEE. (^2^) Os Estados-Membros tiveram que admitir, até 1 de janeiro de 1997, a colocação no mercado e a entrada em serviço de produtos conformes com os regimes de marcação em vigor antes de 1 de janeiro de 1995. Ver artigo 14.º, n.º 2, da Diretiva 93/68/CEE. |  |  |"
+  },
+  "33c97384696ac4dc": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\nDiretiva 2006/95/CE Presente diretiva\n\nArtigo 1.º Artigo 1.º, segundo parágrafo\n\nArtigo 2.º Artigo 3.º\n\nArtigo 3.º Artigo 4.º\n\nArtigo 4.º Artigo 5.º\n\nArtigo 5.º Artigo 12.º\n\nArtigo 6.º Artigo 13.º\n\nArtigo 7.º Artigo 14.º\n\nArtigo 8.º, n.º 1 Artigos 16.º e 17.º\n\nArtigo 8.º, n.º 2 —\n\nArtigo 8.º, n.º 3 —\n\nArtigo 9.º Artigos 18.º a 20.º\n\nArtigo 10.º Artigos 16.º e 17.º\n\nArtigo 11.º —\n\nArtigo 12.º —\n\nArtigo 13.º Artigo 26.º, n.º 2\n\nArtigo 14.º Artigo 27.º\n\nArtigo 15.º Artigo 28.º\n\nAnexo I Anexo I\n\nAnexo II Anexo II\n\nAnexo III Artigos 15.º e 16.º e anexo IV\n\nAnexo IV Anexo III\n\nAnexo V Anexo V"
+  },
+  "222d5555fd2f0b02": {
+   "fragment_id": "DECLARAÇÃO DO PARLAMENTO EUROPEU",
+   "type": "divisao",
+   "heading": "DECLARAÇÃO DO PARLAMENTO EUROPEU",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## DECLARAÇÃO DO PARLAMENTO EUROPEU\n\nO Parlamento Europeu considera que unicamente nos casos em que atos de execução nos termos do Regulamento (UE) n.º 182/2011 sejam debatidos em reuniões de comissões, podem estas ser consideradas comités de comitologia na aceção do anexo I do Acordo-quadro sobre as relações entre o Parlamento Europeu e a Comissão Europeia. Por conseguinte, as reuniões das comissões inserem-se no âmbito de aplicação do ponto 15 do Acordo-quadro quando e na medida em que sejam debatidas outras questões.\n\n---"
+  },
+  "d614ca320fe0b5c1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/28a368e1-2d74-11f1-906d-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE) 2024/2747 do Parlamento Europeu e do Conselho, de 9 de outubro de 2024, que estabelece um regime relativo a emergências no mercado interno e à resiliência do mercado interno e que altera o Regulamento (CE) n.º 2679/98 do Conselho (Regulamento relativo a Emergências e à Resiliência do Mercado Interno) (JO L, 2024/2747, 8.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2747/oj).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/28a368e1-2d74-11f1-906d-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) 2019/1020 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, relativo à fiscalização do mercado e à conformidade dos produtos e que altera a Diretiva 2004/42/CE e os Regulamentos (CE) n.º 765/2008 e (UE) n.º 305/2011 (JO L 169 de 25.6.2019, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/28a368e1-2d74-11f1-906d-01aa75ed71a1.0019.02/DOC_1#src.E0003)) É facultativo para o fabricante atribuir um número à declaração de conformidade."
+  }
+ }
+}

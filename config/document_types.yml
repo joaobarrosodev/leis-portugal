@@ -1,0 +1,273 @@
+version: 2
+jurisdictions:
+  european_union:
+    regulation:
+      label_pt: Regulamento
+      code: R
+      path: european_union/regulations
+    directive:
+      label_pt: Diretiva
+      code: L
+      path: european_union/directives
+    decision:
+      label_pt: Decisão
+      code: D
+      path: european_union/decisions
+    treaty:
+      label_pt: Tratado
+      code: E
+      path: european_union/treaties
+  # Tipos canónicos do Diário da República. `path` é relativo a data/portugal/
+  # ou a data/regional/<territorio>/. `aliases` cobre as grafias usadas pelo DRE
+  # (segmento de tipo do LinkSitemap), incluindo grafias antigas.
+  # `eli` são os códigos de tipo usados nos ELI do DRE (data.dre.pt/eli/<código>/…).
+  portugal:
+    lei-constitucional:
+      label_pt: Lei Constitucional
+      path: leis-constitucionais
+      eli: [leiconst]
+    decreto-aprovacao-constituicao:
+      label_pt: Decreto de Aprovação da Constituição
+      path: constituicao
+    lei:
+      label_pt: Lei
+      path: leis
+      eli: [lei]
+    lei-organica:
+      label_pt: Lei Orgânica
+      path: leis-organicas
+      eli: [leiorg]
+    decreto-lei:
+      label_pt: Decreto-Lei
+      path: decretos-leis
+      eli: [dec-lei]
+    decreto:
+      label_pt: Decreto
+      path: decretos
+      eli: [dec]
+    decreto-governo:
+      label_pt: Decreto do Governo
+      path: decretos-governo
+      eli: [decgov]
+    decreto-regulamentar:
+      label_pt: Decreto Regulamentar
+      path: decretos-regulamentares
+      eli: [decregul]
+    decreto-presidente-republica:
+      label_pt: Decreto do Presidente da República
+      path: decretos-presidente-republica
+      eli: [decpresrep]
+    decreto-legislativo-regional:
+      label_pt: Decreto Legislativo Regional
+      path: decretos-legislativos-regionais
+      eli: [declegreg]
+    decreto-regulamentar-regional:
+      label_pt: Decreto Regulamentar Regional
+      path: decretos-regulamentares-regionais
+      eli: [decregulreg]
+    decreto-regional:
+      label_pt: Decreto Regional
+      path: decretos-regionais
+      eli: [decreg]
+    decreto-representante-republica:
+      label_pt: Decreto do Representante da República
+      path: decretos-representante-republica
+      eli: [decrepram, decrepraa]
+      aliases:
+        - decreto-representante-republica-para-regiao-autonoma-acores
+        - decreto-representante-republica-para-regiao-autonoma-madeira
+    decreto-ministro-republica:
+      label_pt: Decreto do Ministro da República
+      path: decretos-ministro-republica
+      eli: [decminrep, decminrepraa, decminrepram]
+      aliases:
+        - decreto-ministro-republica-para-regiao-autonoma-acores
+        - decreto-ministro-republica-para-regiao-autonoma-madeira
+    portaria:
+      label_pt: Portaria
+      path: portarias
+      eli: [port]
+    portaria-extrato:
+      label_pt: Portaria (extrato)
+      path: portarias-extratos
+      aliases: [portaria-extracto]
+    resolucao-conselho-ministros:
+      label_pt: Resolução do Conselho de Ministros
+      path: resolucoes-conselho-ministros
+      eli: [resolconsmin]
+    resolucao-conselho-ministros-assuntos-economicos:
+      label_pt: Resolução do Conselho de Ministros para os Assuntos Económicos
+      path: resolucoes-conselho-ministros
+      aliases: [resolucao-conselho-ministros-para-assuntos-economicos]
+    resolucao-assembleia-republica:
+      label_pt: Resolução da Assembleia da República
+      path: resolucoes-assembleia-republica
+      eli: [resolassrep]
+    resolucao-assembleia-nacional:
+      label_pt: Resolução da Assembleia Nacional
+      path: resolucoes-assembleia-nacional
+    resolucao-assembleia-legislativa-regional:
+      label_pt: Resolução da Assembleia Legislativa Regional
+      path: resolucoes-assembleia-legislativa
+      eli: [resolalr, resolalra, resolalraa, resolalram, resolassreg]
+      aliases:
+        - resolucao-assembleia-legislativa-regiao-autonoma-acores
+        - resolucao-assembleia-legislativa-regiao-autonoma-madeira
+        - resolucao-assembleia-legislativa-regional-acores
+        - resolucao-assembleia-legislativa-regional-madeira
+        - resolucao-assembleia-regional
+    resolucao:
+      label_pt: Resolução
+      path: resolucoes
+      eli: [resol]
+    resolucao-extrato:
+      label_pt: Resolução (extrato)
+      path: resolucoes-extratos
+      aliases: [resolucao-extracto]
+    despacho-normativo:
+      label_pt: Despacho Normativo
+      path: despachos-normativos
+      eli: [despnorm]
+    despacho-normativo-extrato:
+      label_pt: Despacho Normativo (extrato)
+      path: despachos-normativos-extratos
+      aliases: [despacho-normativo-extracto]
+    despacho:
+      label_pt: Despacho
+      path: despachos
+      eli: [desp]
+    despacho-extrato:
+      label_pt: Despacho (extrato)
+      path: despachos-extratos
+      aliases: [despacho-extracto]
+    declaracao-retificacao:
+      label_pt: Declaração de Retificação
+      path: declaracoes-retificacao
+      eli: [declretif, declrectif]
+      aliases: [declaracao-rectificacao]
+    declaracao-retificacao-extrato:
+      label_pt: Declaração de Retificação (extrato)
+      path: declaracoes-retificacao-extratos
+      aliases:
+        - declaracao-retificacao-extracto
+        - declaracao-rectificacao-extrato
+        - declaracao-rectificacao-extracto
+    declaracao:
+      label_pt: Declaração
+      path: declaracoes
+      eli: [decl]
+    acordao-tribunal-constitucional:
+      label_pt: Acórdão do Tribunal Constitucional
+      path: acordaos-tribunal-constitucional
+      eli: [actconst]
+    acordao-supremo-tribunal-justica:
+      label_pt: Acórdão do Supremo Tribunal de Justiça
+      path: acordaos-supremo-tribunal-justica
+      eli: [acstj]
+    acordao-supremo-tribunal-administrativo:
+      label_pt: Acórdão do Supremo Tribunal Administrativo
+      path: acordaos-supremo-tribunal-administrativo
+      eli: [acsta]
+    acordao-tribunal-contas:
+      label_pt: Acórdão do Tribunal de Contas
+      path: acordaos-tribunal-contas
+      eli: [actcont]
+    acordao-doutrinario:
+      label_pt: Acórdão Doutrinário
+      path: acordaos-doutrinarios
+    assento:
+      label_pt: Assento
+      path: assentos
+      eli: [asst]
+    aviso:
+      label_pt: Aviso
+      path: avisos
+      eli: [av]
+    aviso-extrato:
+      label_pt: Aviso (extrato)
+      path: avisos-extratos
+      aliases: [aviso-extracto]
+    aviso-banco-portugal:
+      label_pt: Aviso do Banco de Portugal
+      path: avisos-banco-portugal
+      eli: [avbdp]
+    edital:
+      label_pt: Edital
+      path: editais
+    mapa-oficial:
+      label_pt: Mapa Oficial
+      path: mapas-oficiais
+      eli: [mapofic]
+    regimento:
+      label_pt: Regimento
+      path: regimentos
+    regimento-assembleia-republica:
+      label_pt: Regimento da Assembleia da República
+      path: regimentos
+      eli: [rgtassrep]
+    regimento-conselho-estado:
+      label_pt: Regimento do Conselho de Estado
+      path: regimentos
+      eli: [rgtconsest]
+    regulamento:
+      label_pt: Regulamento
+      path: regulamentos
+      eli: [regul]
+    regulamento-cmvm:
+      label_pt: Regulamento da CMVM
+      path: regulamentos-cmvm
+      eli: [regul-cmvm]
+    diretiva:
+      label_pt: Diretiva
+      path: diretivas
+    deliberacao:
+      label_pt: Deliberação
+      path: deliberacoes
+    acordo-coletivo-trabalho:
+      label_pt: Acordo Coletivo de Trabalho
+      path: acordos-coletivos-trabalho
+      aliases: [acordo-colectivo-trabalho]
+# Tipos que, nos sitemaps do DRE, são sobretudo atos da 2.ª Série (centenas de
+# milhares de despachos, avisos, editais...). `collect dre --missing` conta-os, mas
+# só os recolhe com --all ou quando indicados em --types.
+sitemap_optional:
+  - despacho
+  - despacho-extrato
+  - aviso
+  - aviso-extrato
+  - edital
+  - deliberacao
+  - declaracao
+  - regulamento
+  - diretiva
+  - acordo-coletivo-trabalho
+territories:
+  acores:
+    label_pt: Região Autónoma dos Açores
+    number_suffix: A
+  madeira:
+    label_pt: Região Autónoma da Madeira
+    number_suffix: M
+version_kinds:
+  - original
+  - consolidated
+  - amendment
+  - corrigendum
+  - republication
+relationship_types:
+  - amends
+  - amended_by
+  - repeals
+  - implicitly_repeals
+  - repealed_by
+  - based_on
+  - corrects
+  - corrected_by
+  - republishes
+  - republished_by
+  - transposes
+  - transposed_by
+  - implements
+  - implemented_by
+  - cites
+  - cited_by

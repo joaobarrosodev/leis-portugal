@@ -1,0 +1,457 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007R0676:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0676-20180805",
+ "dre_path": null,
+ "source_lastmod": "2018-08-05",
+ "versions": [
+  {
+   "date": "2007-06-19",
+   "future": false,
+   "celex": "32007R0676",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "afe5a1efaabde5ed",
+    "226c39ffd0a88dad",
+    "b024533fa0bdee46",
+    "6a0716376a6362f5",
+    "09e2e149bd2bbabd",
+    "db00c24382cb5abf",
+    "93cd6b0c46ab36eb",
+    "a04eda01bd6646ac",
+    "f0f8c960bfdbce9b",
+    "31a08c7a79c0575b",
+    "dd3a90d3d9bc7438",
+    "f6298c2cbda6a675",
+    "8b70457727fb6760",
+    "1e7a0903d2eed348",
+    "817b587336d40f08",
+    "a1845dcb14efb7fe",
+    "1ecfc79da3f1ac7f",
+    "15845e5deb24f4e0",
+    "7be4d600abd609a6",
+    "697e7509bb2ab629",
+    "f75fd8a09ebaa5cf",
+    "ae6cf6a2ed3ca44e",
+    "680a181ec5bdba09",
+    "42d52693699a9dd2",
+    "47c5d9d63be1326b",
+    "40ed6b62e188ac6f",
+    "3507297bce1dd3db",
+    "ee9b8320034c2de1",
+    "ce465bf2b8cc6ef2",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "2589cbead01f913d",
+    "1eb06c1ade9f4929",
+    "0474f0c5d5d60f8b"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "celex": "02007R0676-20110101",
+   "acts": [
+    {
+     "id": "eu:celex:32009R1224:por",
+     "title": "REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009",
+     "published": null,
+     "celex": "32009R1224"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 19.º — Assistência ao abrigo do Fundo Europeu das Pescas",
+    "Altera Artigo 20.º — Entrada em vigor",
+    "Altera Notas",
+    "Suprime CAPÍTULO IV",
+    "Suprime CONTROLO, INSPECÇÃO E FISCALIZAÇÃO",
+    "Suprime Artigo 10.º — Comunicações sobre o esforço de pesca",
+    "Suprime Artigo 11.º — Margem de tolerância",
+    "Suprime Artigo 12.º — Pesagem das quantidades desembarcadas",
+    "Suprime Artigo 13.º — Notificação prévia",
+    "Suprime Artigo 14.º — Estiva separada da solha e do linguado",
+    "Suprime Artigo 15.º — Transporte de linguado e de solha",
+    "Suprime Artigo 16.º — Proibição de transbordos de solha e de linguado"
+   ],
+   "fragments": [
+    "b112fbf4a71b5bf4",
+    "226c39ffd0a88dad",
+    "b024533fa0bdee46",
+    "6a0716376a6362f5",
+    "09e2e149bd2bbabd",
+    "db00c24382cb5abf",
+    "93cd6b0c46ab36eb",
+    "a04eda01bd6646ac",
+    "f0f8c960bfdbce9b",
+    "31a08c7a79c0575b",
+    "dd3a90d3d9bc7438",
+    "f6298c2cbda6a675",
+    "8b70457727fb6760",
+    "1e7a0903d2eed348",
+    "817b587336d40f08",
+    "a1845dcb14efb7fe",
+    "40ed6b62e188ac6f",
+    "3507297bce1dd3db",
+    "ee9b8320034c2de1",
+    "ce465bf2b8cc6ef2",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "5940ff417eacaf02",
+    "5f79a8cafce79123",
+    "5d8ad074ffdb87f1"
+   ]
+  },
+  {
+   "date": "2018-08-05",
+   "future": false,
+   "celex": "02007R0676-20180805",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime OBJECTO E OBJECTIVO",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Limites biológicos seguros",
+    "Suprime Artigo 3.º — Objectivos do plano plurianual na primeira fase",
+    "Suprime Artigo 4.º — Objectivos do plano plurianual na segunda fase",
+    "Suprime Artigo 5.º — Disposições transitórias",
+    "Suprime CAPÍTULO II",
+    "Suprime TOTAIS ADMISSÍVEIS DE CAPTURAS",
+    "Suprime Artigo 6.º — Fixação de totais admissíveis de capturas (TAC)",
+    "Suprime Artigo 7.º — Procedimento de fixação do TAC para a solha",
+    "Suprime Artigo 8.º — Procedimento de fixação do TAC para o linguado",
+    "Suprime CAPÍTULO III",
+    "Suprime LIMITAÇÃO DO ESFORÇO DE PESCA",
+    "Suprime Artigo 9.º — Limitação do esforço de pesca",
+    "Suprime CAPÍTULO V",
+    "Suprime ACOMPANHAMENTO",
+    "Suprime Artigo 17.º — Avaliação das medidas de gestão",
+    "Suprime Artigo 18.º — Circunstâncias especiais",
+    "Suprime CAPÍTULO VI",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 19.º — Assistência ao abrigo do Fundo Europeu das Pescas",
+    "Suprime Artigo 20.º — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "765f1c8e70382162"
+   ]
+  }
+ ],
+ "fragments": {
+  "afe5a1efaabde5ed": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Junho de 2007\n\nque estabelece um plano plurianual de gestão das pescarias que exploram unidades populacionais de solha e de linguado do Mar do Norte\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntr1-L_2007157PT.01000101-E0001),\n\nConsiderando o seguinte:\n\n(1) De acordo com um parecer científico recente do Conselho Internacional para o Estudo do Mar (CIEM), os níveis de mortalidade por pesca das unidades populacionais de solha e de linguado do Mar do Norte têm sido superiores ao nível que o CIEM considera compatível com a abordagem de precaução, e a sustentabilidade da pesca destas unidades populacionais está em perigo.\n\n(2) O parecer de um comité de peritos que examinou as estratégias de gestão plurianuais indica que, no caso do linguado, o rendimento máximo pode ser atingido com uma taxa de mortalidade por pesca de 0,2 na classe etária de 2 a 6 anos.\n\n(3) O Comité Científico, Técnico e Económico das Pescas (CCTEP) recomendou que o nível da biomassa de precaução para a unidade populacional de solha do Mar do Norte fosse fixado em 230 000 t, que a taxa de mortalidade por pesca necessária para obter o rendimento máximo no respeitante à unidade populacional de solha do Mar do Norte a longo prazo fosse de 0,3 e que o nível da biomassa de precaução para a unidade populacional de linguado do Mar do Norte fosse fixado em 35 000 t.\n\n(4) É necessário tomar medidas para estabelecer um plano de gestão plurianual das pescarias das unidades populacionais de solha e de linguado do Mar do Norte. Quando disserem respeito à unidade populacional de solha do Mar do Norte, essas medidas deverão ser fixadas à luz de consultas com a Noruega.\n\n(5) O plano tem por objectivo garantir, numa primeira fase, a reposição dos limites biológicos seguros das unidades populacionais de solha e de linguado do Mar do Norte e, numa segunda fase, depois de o Conselho ter devidamente analisado os métodos de execução adequados para o efeito, assegurar que essas unidades populacionais sejam exploradas com base no rendimento máximo sustentável e em condições sustentáveis dos pontos de vista económico, ambiental e social.\n\n(6) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas [([^2])](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntr2-L_2007157PT.01000101-E0002), exige nomeadamente que, para atingir esse objectivo, a Comunidade aplique a abordagem de precaução ao adoptar medidas para proteger e conservar a unidade populacional, garantir a sua exploração sustentável e reduzir ao mínimo o impacto das actividades de pesca nos ecossistemas marinhos.\n\n(7) O presente regulamento deverá visar a aplicação progressiva de uma abordagem baseada no ecossistema na gestão das pescas, e deverá contribuir para o desenvolvimento de actividades de pesca eficazes no quadro de uma indústria pesqueira economicamente viável e competitiva, assegurando um nível de vida adequado às populações que dependem da pesca da solha e do linguado do Mar do Norte e tendo em conta os interesses dos consumidores. A Comunidade baseia parcialmente a sua política nas recomendações estratégicas do Conselho Consultivo Regional (CCR) competente. Grande parte das capturas de solha do Mar do Norte é efectuada simultaneamente com capturas de linguado. A gestão da solha não pode ser feita independentemente da gestão do linguado.\n\n(8) Por conseguinte, ao elaborar o plano plurianual, deverá também ser tido em conta o facto de que a elevada taxa de mortalidade por pesca da solha se deve, em grande medida, ao grande volume das devoluções de pescado na pesca de linguado com redes de arrasto de vara de 80 mm na zona meridional do Mar do Norte.\n\n(9) Esse controlo das taxas de mortalidade por pesca pode ser obtido através de um método adequado de fixação do nível dos totais admissíveis de capturas (TAC) das unidades populacionais em causa, e de um sistema que limite o número autorizado de dias no mar, reduzindo o esforço de pesca dessas unidades populacionais para níveis que tornem improvável a superação dos TAC e das taxas de mortalidade por pesca previstas, mas que seja suficiente para permitir capturar o TAC autorizado com base nas taxas de mortalidade por pesca estabelecidas no plano.\n\n(10) O plano deverá abranger todas as pescarias de peixes chatos com impacto significativo na mortalidade por pesca das unidades populacionais de solha e linguado em causa. Todavia, os Estados-Membros cujas quotas correspondentes a qualquer destas unidades populacionais forem inferiores a 5 % da quota-parte comunitária do TAC deverão ficar isentos das disposições do plano relativas à gestão do esforço.\n\n(11) Este plano deverá constituir o principal instrumento para a gestão das unidades populacionais de peixe chato do Mar do Norte e contribuir para a recuperação de outras espécies, entre as quais o bacalhau.\n\n(12) Para assegurar o cumprimento das medidas estabelecidas no presente regulamento, são necessárias medidas de controlo para além das previstas no Regulamento (CE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas [([^3])](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntr3-L_2007157PT.01000101-E0003).\n\n(13) Em 2006, a Comissão lançou o debate sobre uma estratégia comunitária de redução gradual da mortalidade por pesca em todas as principais pescarias, apresentando uma comunicação respeitante à consecução do objectivo do rendimento máximo sustentável até 2015. A Comissão apresentou essa comunicação, para parecer, aos CCR.\n\n(14) A Comissão solicitou ao CCTEP que apresentasse um relatório sobre os aspectos essenciais da avaliação de impacto em relação à gestão das unidades populacionais de solha e de linguado, que deverá basear-se em informações biológicas e financeiras exactas, objectivas e exaustivas. Essa avaliação de impacto será anexada à proposta da Comissão relativa à segunda fase do plano plurianual.\n\n(15) O plano plurianual deverá ser considerado um plano de recuperação durante a sua primeira fase e um plano de gestão durante a sua segunda fase, na acepção dos artigos 5.º e 6.º do Regulamento (CE) n.º 2371/2002,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "b024533fa0bdee46": {
+   "fragment_id": "OBJECTO E OBJECTIVO",
+   "type": "divisao",
+   "heading": "OBJECTO E OBJECTIVO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E OBJECTIVO"
+  },
+  "6a0716376a6362f5": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1. O presente regulamento estabelece um plano plurianual para as pescarias que exploram as unidades populacionais de solha e de linguado que têm o seu *habitat* no Mar do Norte.\n\n2. Para efeitos do presente regulamento, entende-se por «Mar do Norte» a zona do mar definida como subzona IV pelo Conselho Internacional para o Estudo do Mar."
+  },
+  "09e2e149bd2bbabd": {
+   "fragment_id": "Artigo 2.º — Limites biológicos seguros",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Limites biológicos seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Limites biológicos seguros\n\n1. Para efeitos do presente regulamento, considera-se que as unidades populacionais de solha e de linguado se encontram dentro dos limites biológicos seguros nos anos em que, segundo o parecer do Comité Científico, Técnico e Económico das Pescas (CCTEP), se encontrarem reunidas as seguintes condições:\n\na) A biomassa da população reprodutora de solha exceda 230 000 t;\n\nb) A taxa média de mortalidade por pesca sofrida pela unidade populacional de solha, na classe etária de 2 a 6 anos, seja inferior a 0,6 por ano;\n\nc) A biomassa da população reprodutora de linguado seja superior a 35 000 t;\n\nd) A taxa média de mortalidade por pesca sofrida pela unidade populacional de linguado, na classe etária de 2 a 6 anos, seja inferior a 0,4 por ano.\n\n2. Caso o CCTEP aconselhe a utilização de outros níveis de biomassa e de mortalidade por pesca para definir os limites biológicos seguros, a Comissão deve propor a alteração do n.º 1."
+  },
+  "db00c24382cb5abf": {
+   "fragment_id": "Artigo 3.º — Objectivos do plano plurianual na primeira fase",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objectivos do plano plurianual na primeira fase",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos do plano plurianual na primeira fase\n\n1. Na primeira fase, o plano plurianual deve assegurar que as unidades populacionais de solha e de linguado voltem a atingir os limites biológicos seguros.\n\n2. O objectivo referido no n.º 1 é alcançado mediante uma redução anual de 10 % da taxa de mortalidade da solha e do linguado, com uma variação máxima do TAC de 15 % por ano, até serem atingidos limites biológicos seguros para ambas as unidades populacionais."
+  },
+  "93cd6b0c46ab36eb": {
+   "fragment_id": "Artigo 4.º — Objectivos do plano plurianual na segunda fase",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Objectivos do plano plurianual na segunda fase",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos do plano plurianual na segunda fase\n\n1. Na segunda fase, o plano plurianual deve assegurar a exploração das unidades populacionais de solha e de linguado com base no rendimento máximo sustentável.\n\n2. O objectivo referido no n.º 1 é atingido mantendo a mortalidade por pesca da solha a um nível igual ou superior a 0,3 na classe etária de 2 a 6 anos.\n\n3. O objectivo referido no n.º 1 é atingido mantendo a mortalidade por pesca do linguado a um nível igual ou superior a 0,2 na classe etária de 2 a 6 anos."
+  },
+  "a04eda01bd6646ac": {
+   "fragment_id": "Artigo 5.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposições transitórias\n\n1. Quando se verificar, durante dois anos consecutivos, que as unidades populacionais de solha e de linguado voltaram a atingir os limites biológicos seguros, o Conselho decide, com base numa proposta da Comissão, se os n.^os^ 2 e 3 do artigo 4.º e os artigos 7.º, 8.º e 9.º devem ser alterados de modo a permitir, à luz do mais recente parecer científico do CCTEP, a exploração das unidades populacionais em causa a uma taxa de mortalidade por pesca compatível com o rendimento máximo sustentável.\n\n2. A proposta de revisão da Comissão deve ser acompanhada de uma avaliação de impacto exaustiva e ter em conta o parecer do Conselho Consultivo Regional do Mar do Norte."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "31a08c7a79c0575b": {
+   "fragment_id": "TOTAIS ADMISSÍVEIS DE CAPTURAS",
+   "type": "divisao",
+   "heading": "TOTAIS ADMISSÍVEIS DE CAPTURAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TOTAIS ADMISSÍVEIS DE CAPTURAS"
+  },
+  "dd3a90d3d9bc7438": {
+   "fragment_id": "Artigo 6.º — Fixação de totais admissíveis de capturas (TAC)",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Fixação de totais admissíveis de capturas (TAC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fixação de totais admissíveis de capturas (TAC)\n\nAnualmente, o Conselho decide por maioria qualificada, sob proposta da Comissão, dos TAC para o ano seguinte respeitantes às unidades populacionais de solha e de linguado do Mar do Norte, nos termos dos artigos 7.º e 8.º do presente regulamento."
+  },
+  "f6298c2cbda6a675": {
+   "fragment_id": "Artigo 7.º — Procedimento de fixação do TAC para a solha",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Procedimento de fixação do TAC para a solha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Procedimento de fixação do TAC para a solha\n\n1. O Conselho adopta o TAC para a solha, fixando-o a um nível de capturas que, de acordo com uma avaliação científica efectuada pelo CCTEP, corresponda ao mais elevado dos seguintes:\n\na) TAC de cuja aplicação resulte, no ano da sua aplicação, uma redução de 10 % da taxa de mortalidade por pesca em relação à taxa estimada de mortalidade por pesca no ano anterior;\n\nb) TAC de cuja aplicação resulte, no ano da sua aplicação, um nível da taxa de mortalidade por pesca de 0,3 na classe etária de 2 a 6 anos.\n\n2. Sempre que a aplicação do n.º 1 resulte num TAC superior em mais de 15 % ao do ano anterior, o Conselho deve adoptar um TAC 15 % superior ao desse ano.\n\n3. Sempre que a aplicação do n.º 1 resulte num TAC inferior em mais de 15 % ao do ano anterior, o Conselho deve adoptar um TAC 15 % inferior ao desse ano."
+  },
+  "8b70457727fb6760": {
+   "fragment_id": "Artigo 8.º — Procedimento de fixação do TAC para o linguado",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Procedimento de fixação do TAC para o linguado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimento de fixação do TAC para o linguado\n\n1. O Conselho adopta o TAC para o linguado, fixando-o a um nível de capturas que, de acordo com uma avaliação científica efectuada pelo CCTEP, corresponda ao mais elevado dos seguintes:\n\na) TAC de cuja aplicação resulte, no ano da sua aplicação, uma taxa de mortalidade por pesca de 0,2 na classe etária de 2 a 6 anos;\n\nb) TAC de cuja aplicação resulte, no ano da sua aplicação, uma redução de 10 % da taxa de mortalidade por pesca em relação à taxa estimada de mortalidade por pesca no ano anterior.\n\n2. Sempre que a aplicação do n.º 1 resulte num TAC superior em mais de 15 % ao do ano anterior, o Conselho deve adoptar um TAC 15 % superior ao desse ano.\n\n3. Sempre que a aplicação do n.º 1 resulte num TAC inferior em mais de 15 % ao do ano anterior, o Conselho deve adoptar um TAC 15 % inferior ao desse ano."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "817b587336d40f08": {
+   "fragment_id": "LIMITAÇÃO DO ESFORÇO DE PESCA",
+   "type": "divisao",
+   "heading": "LIMITAÇÃO DO ESFORÇO DE PESCA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LIMITAÇÃO DO ESFORÇO DE PESCA"
+  },
+  "a1845dcb14efb7fe": {
+   "fragment_id": "Artigo 9.º — Limitação do esforço de pesca",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Limitação do esforço de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Limitação do esforço de pesca\n\n1. Os TAC a que se refere o capítulo II são completados por um regime de limitação do esforço de pesca estabelecido na legislação comunitária.\n\n2. O Conselho decide todos os anos, por maioria qualificada, sob proposta da Comissão, de um ajustamento do nível máximo do esforço de pesca atribuído às frotas de pesca para as quais a solha e/ou o linguado constitua(m) uma parte importante dos desembarques ou sempre que sejam efectuadas devoluções substanciais, sob reserva do regime de limitação do esforço de pesca referido no n.º 1.\n\n3. A Comissão solicita ao CCTEP uma previsão do nível máximo do esforço de pesca necessário para manter as capturas de solha e de linguado num nível equivalente à quota-parte comunitária dos TAC fixados nos termos do artigo 6.º Este pedido é formulado tendo em conta outra legislação comunitária pertinente que regule as condições em que as quotas podem ser pescadas.\n\n4. O ajustamento anual do nível máximo do esforço de pesca referido no n.º 2 deve ser realizado em função do parecer do CCTEP prestado de acordo com o n.º 3.\n\n5. A Comissão solicita anualmente ao CCTEP que apresente um relatório sobre o nível anual do esforço de pesca dos navios que capturam solha e linguado, e um relatório sobre os tipos de artes de pesca utilizados nessas pescarias.\n\n6. Sem prejuízo do n.º 4, o esforço de pesca não deve aumentar acima do nível concedido em 2006.\n\n7. Os Estados-Membros cujas quotas sejam inferiores a 5 % da quota-parte dos TAC da Comunidade europeia para a solha e o linguado ficam isentos do regime de gestão do esforço.\n\n8. Um Estado-Membro abrangido pelas disposições do n.º 7 e que participe em qualquer troca das possibilidades de pesca de solha ou de linguado com base no n.º 5 do artigo 20.º do Regulamento (CE) n.º 2371/2002 que tenha como resultado que a soma da quota atribuída a esse Estado-Membro e da quantidade de solha ou linguado transferida exceda em 5 % a quota-parte comunitária do TAC, é submetido ao regime de gestão do esforço.\n\n9. O esforço de pesca realizado por navios para os quais a solha e o linguado sejam uma parte importante das capturas e que arvorem pavilhão de um Estado-Membro abrangido pelas disposições do n.º 7 não deve aumentar acima do nível autorizado em 2006."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "15845e5deb24f4e0": {
+   "fragment_id": "CONTROLO, INSPECÇÃO E FISCALIZAÇÃO",
+   "type": "divisao",
+   "heading": "CONTROLO, INSPECÇÃO E FISCALIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLO, INSPECÇÃO E FISCALIZAÇÃO"
+  },
+  "7be4d600abd609a6": {
+   "fragment_id": "Artigo 10.º — Comunicações sobre o esforço de pesca",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Comunicações sobre o esforço de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comunicações sobre o esforço de pesca\n\n1. Os artigos 19.º-B, 19.º-C, 19.º-D, 19.º-E e 19.º-K do Regulamento (CEE) n.º 2847/93 aplicam-se aos navios que operem na zona. Os navios equipados com sistemas de localização em conformidade com os artigos 5.º e 6.º do Regulamento (CE) n.º 2244/2003 da Comissão, de 18 de Dezembro de 2003, que estabelece normas de execução relativas aos sistemas de localização dos navios por satélite [([^4])](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntr4-L_2007157PT.01000101-E0004) são excluídos das obrigações de comunicação via rádio.\n\n2. Os Estados-Membros podem aplicar medidas de controlo alternativas para assegurar o cumprimento da obrigação a que se refere o n.º 1 que sejam tão eficazes e transparentes como essas obrigações de comunicação via rádio. Essas medidas devem ser notificadas à Comissão antes de serem aplicadas."
+  },
+  "697e7509bb2ab629": {
+   "fragment_id": "Artigo 11.º — Margem de tolerância",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Margem de tolerância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Margem de tolerância\n\n1. Em derrogação do n.º 2 do artigo 5.º do Regulamento (CEE) n.º 2807/83 da Comissão, de 22 de Setembro de 1983, que define as regras especiais de registo das informações relativas às capturas de peixe pelos Estados-Membros [([^5])](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntr5-L_2007157PT.01000101-E0005), a margem de tolerância autorizada no respeitante à estimativa das quantidades, expressas em quilogramas de peso vivo, tanto de solha como de linguado, mantidas a bordo dos navios de pesca que tenham estado presentes no Mar do Norte, é de 8 % do valor inscrito no diário de bordo. No caso de a legislação comunitária não fixar qualquer factor de conversão, é aplicável o factor de conversão adoptado pelo Estado-Membro de que o navio arvora pavilhão.\n\n2. O n.º 1 não é aplicável a espécies de organismos aquáticos cuja quantidade a bordo seja inferior a 50 kg."
+  },
+  "f75fd8a09ebaa5cf": {
+   "fragment_id": "Artigo 12.º — Pesagem das quantidades desembarcadas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Pesagem das quantidades desembarcadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pesagem das quantidades desembarcadas\n\nAs autoridades competentes dos Estados-Membros asseguram que todas as quantidades de linguado e de solha capturadas no Mar do Norte superiores a 300 kg ou 500 kg, respectivamente, sejam pesadas, antes da venda, utilizando básculas cuja precisão tenha sido certificada."
+  },
+  "ae6cf6a2ed3ca44e": {
+   "fragment_id": "Artigo 13.º — Notificação prévia",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Notificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Notificação prévia\n\nO capitão de um navio de pesca comunitário que tenha estado presente no Mar do Norte, e que pretenda desembarcar quaisquer quantidades de solha ou de linguado num porto ou num local de desembarque de um país terceiro, comunica às autoridades competentes do Estado-Membro de pavilhão as seguintes informações, pelo menos 24 horas antes do desembarque no país terceiro:\n\na) Nome do porto ou do local de desembarque;\n\nb) Hora prevista de chegada a esse porto ou local de desembarque;\n\nc) Quantidades, expressas em quilogramas de peso vivo, de cada espécie mantida a bordo em quantidades superiores a 50 kg.\n\nA notificação pode igualmente ser feita por um representante do capitão do navio de pesca."
+  },
+  "680a181ec5bdba09": {
+   "fragment_id": "Artigo 14.º — Estiva separada da solha e do linguado",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Estiva separada da solha e do linguado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estiva separada da solha e do linguado\n\n1. É proibido manter a bordo de um navio de pesca comunitário, em qualquer contentor individual, quaisquer quantidades de solha ou de linguado misturadas com qualquer outra espécie de organismo marinho.\n\n2. Os capitães dos navios de pesca comunitários devem prestar a assistência necessária aos inspectores dos Estados-Membros para permitir que as quantidades declaradas no diário de bordo e as capturas de solha e de linguado mantidas a bordo sejam objecto de controlos cruzados."
+  },
+  "42d52693699a9dd2": {
+   "fragment_id": "Artigo 15.º — Transporte de linguado e de solha",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Transporte de linguado e de solha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transporte de linguado e de solha\n\n1. As autoridades competentes de um Estado-Membro podem exigir que qualquer quantidade de solha superior a 500 kg ou qualquer quantidade de linguado superior a 300 kg capturada na zona geográfica a que se refere o n.º 2 do artigo 1.º e inicialmente desembarcada nesse Estado-Membro seja pesada, antes de ser transportada do porto do primeiro desembarque, utilizando básculas cuja precisão tenha sido certificada.\n\n2. Em derrogação ao artigo 13.º do Regulamento (CEE) n.º 2847/93, as quantidades de solha superiores a 500 kg e as quantidades de linguado superiores a 300 kg que sejam transportadas para um local diferente do local de desembarque devem ser acompanhadas da declaração prevista no n.º 1 do artigo 8.º desse regulamento. Não é aplicável a isenção prevista na alínea b) do n.º 4 do artigo 13.º do Regulamento (CEE) n.º 2847/93."
+  },
+  "47c5d9d63be1326b": {
+   "fragment_id": "Artigo 16.º — Proibição de transbordos de solha e de linguado",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Proibição de transbordos de solha e de linguado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Proibição de transbordos de solha e de linguado\n\nUm navio de pesca comunitário que esteja presente no Mar do Norte não efectua transbordos de quaisquer quantidades de solha ou de linguado para qualquer outro navio."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "3507297bce1dd3db": {
+   "fragment_id": "ACOMPANHAMENTO",
+   "type": "divisao",
+   "heading": "ACOMPANHAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACOMPANHAMENTO"
+  },
+  "ee9b8320034c2de1": {
+   "fragment_id": "Artigo 17.º — Avaliação das medidas de gestão",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Avaliação das medidas de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Avaliação das medidas de gestão\n\n1. No segundo ano de aplicação do presente regulamento e em cada um dos anos seguintes, a Comissão, com base no parecer do CCTEP, avalia o impacto das medidas de gestão sobre as unidades populacionais em causa e sobre as pescarias destas unidades populacionais.\n\n2. No terceiro ano de aplicação do presente regulamento e, em seguida, de três em três anos durante o seu período de aplicação, a Comissão solicita o parecer do CCTEP sobre a taxa de progressos realizados na consecução os objectivos do plano plurianual. Se for caso disso, a Comissão deve propor as medidas adequadas e o Conselho deve decidir, por maioria qualificada, a adopção de medidas alternativas para atingir os objectivos fixados nos artigos 3.º e 4.º"
+  },
+  "ce465bf2b8cc6ef2": {
+   "fragment_id": "Artigo 18.º — Circunstâncias especiais",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Circunstâncias especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Circunstâncias especiais\n\nSe o CCTEP indicar que a capacidade de reprodução das unidades populacionais reprodutoras de solha e/ou de linguado está em diminuição, o Conselho decide, por maioria qualificada sob proposta da Comissão, um TAC para a solha inferior ao previsto no artigo 7.º, um TAC para o linguado inferior ao previsto no artigo 8.º e níveis de esforço de pesca inferiores aos estabelecidos no artigo 9.º"
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "2589cbead01f913d": {
+   "fragment_id": "Artigo 19.º — Assistência ao abrigo do Fundo Europeu das Pescas",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Assistência ao abrigo do Fundo Europeu das Pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Assistência ao abrigo do Fundo Europeu das Pescas\n\n1. Durante a primeira fase prevista no artigo 3.º do presente regulamento, o plano plurianual deve ser considerado um plano de recuperação na acepção do artigo 5.º do Regulamento (CE) n.º 2371/2002, e para os efeitos da subalínea i) da alínea a) do artigo 21.º do Regulamento (CE) n.º 1198/2006 do Conselho, de 27 de Julho de 2006, relativo ao Fundo Europeu das Pescas [([^6])](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntr6-L_2007157PT.01000101-E0006).\n\n2. Durante a segunda fase prevista no artigo 4.º do presente regulamento, o plano plurianual deve ser considerado um plano de gestão, na acepção do artigo 6.º do Regulamento (CE) n.º 2371/2002, e para os efeitos da subalínea iv) da alínea a) do artigo 21.º do Regulamento (CE) n.º 1198/2006."
+  },
+  "1eb06c1ade9f4929": {
+   "fragment_id": "Artigo 20.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito no Luxemburgo, em 11 de Junho de 2007.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**H. SEEHOFER**\n\n---"
+  },
+  "0474f0c5d5d60f8b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntc1-L_2007157PT.01000101-E0001) Parecer emitido em 28 de Setembro de 2006 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntc2-L_2007157PT.01000101-E0002) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntc3-L_2007157PT.01000101-E0003) [JO L 261 de 20.10.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_261_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1967/2006 ([JO L 409 de 30.12.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_409_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntc4-L_2007157PT.01000101-E0004) [JO L 333 de 20.12.2003, p. 17](http://publications.europa.eu/resource/oj/JOL_2003_333_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntc5-L_2007157PT.01000101-E0005) [JO L 276 de 10.10.1983, p. 1](http://publications.europa.eu/resource/oj/JOL_1983_276_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1804/2005 ([JO L 290 de 4.11.2005, p. 10](http://publications.europa.eu/resource/oj/JOL_2005_290_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/f7c2db62-7eb6-4df3-9c3f-ecfe9210b62f.0018.02/DOC_1#ntc6-L_2007157PT.01000101-E0006) [JO L 223 de 15.8.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_223_R_TOC)."
+  },
+  "b112fbf4a71b5bf4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Junho de 2007\n\nque estabelece um plano plurianual de gestão das pescarias que exploram unidades populacionais de solha e de linguado do Mar do Norte\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/78aa4456-52da-4cd1-a647-263dbb77b1dc.0018.03/DOC_1#E0001)),\n\n(1) De acordo com um parecer científico recente do Conselho Internacional para o Estudo do Mar (CIEM), os níveis de mortalidade por pesca das unidades populacionais de solha e de linguado do Mar do Norte têm sido superiores ao nível que o CIEM considera compatível com a abordagem de precaução, e a sustentabilidade da pesca destas unidades populacionais está em perigo.\n\n(2) O parecer de um comité de peritos que examinou as estratégias de gestão plurianuais indica que, no caso do linguado, o rendimento máximo pode ser atingido com uma taxa de mortalidade por pesca de 0,2 na classe etária de 2 a 6 anos.\n\n(3) O Comité Científico, Técnico e Económico das Pescas (CCTEP) recomendou que o nível da biomassa de precaução para a unidade populacional de solha do Mar do Norte fosse fixado em 230 000 t, que a taxa de mortalidade por pesca necessária para obter o rendimento máximo no respeitante à unidade populacional de solha do Mar do Norte a longo prazo fosse de 0,3 e que o nível da biomassa de precaução para a unidade populacional de linguado do Mar do Norte fosse fixado em 35 000 t.\n\n(4) É necessário tomar medidas para estabelecer um plano de gestão plurianual das pescarias das unidades populacionais de solha e de linguado do Mar do Norte. Quando disserem respeito à unidade populacional de solha do Mar do Norte, essas medidas deverão ser fixadas à luz de consultas com a Noruega.\n\n(5) O plano tem por objectivo garantir, numa primeira fase, a reposição dos limites biológicos seguros das unidades populacionais de solha e de linguado do Mar do Norte e, numa segunda fase, depois de o Conselho ter devidamente analisado os métodos de execução adequados para o efeito, assegurar que essas unidades populacionais sejam exploradas com base no rendimento máximo sustentável e em condições sustentáveis dos pontos de vista económico, ambiental e social.\n\n(6) O Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas ([^2^](http://publications.europa.eu/resource/cellar/78aa4456-52da-4cd1-a647-263dbb77b1dc.0018.03/DOC_1#E0002)), exige nomeadamente que, para atingir esse objectivo, a Comunidade aplique a abordagem de precaução ao adoptar medidas para proteger e conservar a unidade populacional, garantir a sua exploração sustentável e reduzir ao mínimo o impacto das actividades de pesca nos ecossistemas marinhos.\n\n(7) O presente regulamento deverá visar a aplicação progressiva de uma abordagem baseada no ecossistema na gestão das pescas, e deverá contribuir para o desenvolvimento de actividades de pesca eficazes no quadro de uma indústria pesqueira economicamente viável e competitiva, assegurando um nível de vida adequado às populações que dependem da pesca da solha e do linguado do Mar do Norte e tendo em conta os interesses dos consumidores. A Comunidade baseia parcialmente a sua política nas recomendações estratégicas do Conselho Consultivo Regional (CCR) competente. Grande parte das capturas de solha do Mar do Norte é efectuada simultaneamente com capturas de linguado. A gestão da solha não pode ser feita independentemente da gestão do linguado.\n\n(8) Por conseguinte, ao elaborar o plano plurianual, deverá também ser tido em conta o facto de que a elevada taxa de mortalidade por pesca da solha se deve, em grande medida, ao grande volume das devoluções de pescado na pesca de linguado com redes de arrasto de vara de 80 mm na zona meridional do Mar do Norte.\n\n(9) Esse controlo das taxas de mortalidade por pesca pode ser obtido através de um método adequado de fixação do nível dos totais admissíveis de capturas (TAC) das unidades populacionais em causa, e de um sistema que limite o número autorizado de dias no mar, reduzindo o esforço de pesca dessas unidades populacionais para níveis que tornem improvável a superação dos TAC e das taxas de mortalidade por pesca previstas, mas que seja suficiente para permitir capturar o TAC autorizado com base nas taxas de mortalidade por pesca estabelecidas no plano.\n\n(10) O plano deverá abranger todas as pescarias de peixes chatos com impacto significativo na mortalidade por pesca das unidades populacionais de solha e linguado em causa. Todavia, os Estados-Membros cujas quotas correspondentes a qualquer destas unidades populacionais forem inferiores a 5 % da quota-parte comunitária do TAC deverão ficar isentos das disposições do plano relativas à gestão do esforço.\n\n(11) Este plano deverá constituir o principal instrumento para a gestão das unidades populacionais de peixe chato do Mar do Norte e contribuir para a recuperação de outras espécies, entre as quais o bacalhau.\n\n(12) Para assegurar o cumprimento das medidas estabelecidas no presente regulamento, são necessárias medidas de controlo para além das previstas no Regulamento (CE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas ([^3^](http://publications.europa.eu/resource/cellar/78aa4456-52da-4cd1-a647-263dbb77b1dc.0018.03/DOC_1#E0003)).\n\n(13) Em 2006, a Comissão lançou o debate sobre uma estratégia comunitária de redução gradual da mortalidade por pesca em todas as principais pescarias, apresentando uma comunicação respeitante à consecução do objectivo do rendimento máximo sustentável até 2015. A Comissão apresentou essa comunicação, para parecer, aos CCR.\n\n(14) A Comissão solicitou ao CCTEP que apresentasse um relatório sobre os aspectos essenciais da avaliação de impacto em relação à gestão das unidades populacionais de solha e de linguado, que deverá basear-se em informações biológicas e financeiras exactas, objectivas e exaustivas. Essa avaliação de impacto será anexada à proposta da Comissão relativa à segunda fase do plano plurianual.\n\n(15) O plano plurianual deverá ser considerado um plano de recuperação durante a sua primeira fase e um plano de gestão durante a sua segunda fase, na acepção dos artigos 5.º e 6.º do Regulamento (CE) n.º 2371/2002,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5940ff417eacaf02": {
+   "fragment_id": "Artigo 19.º — Assistência ao abrigo do Fundo Europeu das Pescas",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Assistência ao abrigo do Fundo Europeu das Pescas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Assistência ao abrigo do Fundo Europeu das Pescas\n\n1. Durante a primeira fase prevista no artigo 3.º do presente regulamento, o plano plurianual deve ser considerado um plano de recuperação na acepção do artigo 5.º do Regulamento (CE) n.º 2371/2002, e para os efeitos da subalínea i) da alínea a) do artigo 21.º do Regulamento (CE) n.º 1198/2006 do Conselho, de 27 de Julho de 2006, relativo ao Fundo Europeu das Pescas ([^4^](http://publications.europa.eu/resource/cellar/78aa4456-52da-4cd1-a647-263dbb77b1dc.0018.03/DOC_1#E0006)).\n\n2. Durante a segunda fase prevista no artigo 4.º do presente regulamento, o plano plurianual deve ser considerado um plano de gestão, na acepção do artigo 6.º do Regulamento (CE) n.º 2371/2002, e para os efeitos da subalínea iv) da alínea a) do artigo 21.º do Regulamento (CE) n.º 1198/2006."
+  },
+  "5f79a8cafce79123": {
+   "fragment_id": "Artigo 20.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "5d8ad074ffdb87f1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/78aa4456-52da-4cd1-a647-263dbb77b1dc.0018.03/DOC_1#src.E0001)) Parecer emitido em 28 de Setembro de 2006 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/78aa4456-52da-4cd1-a647-263dbb77b1dc.0018.03/DOC_1#src.E0002)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/78aa4456-52da-4cd1-a647-263dbb77b1dc.0018.03/DOC_1#src.E0003)) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1967/2006 (JO L 409 de 30.12.2006, p. 11).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/78aa4456-52da-4cd1-a647-263dbb77b1dc.0018.03/DOC_1#src.E0006)) JO L 223 de 15.8.2006, p. 1."
+  },
+  "765f1c8e70382162": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02007R0676 — PT — 05.08.2018 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32007R0676) [REGULAMENTO (CE) N.º 676/2007 DO CONSELHO](http://publications.europa.eu/resource/celex/32007R0676) [de 11 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0676) [que estabelece um plano plurianual de gestão das pescarias que exploram unidades populacionais de solha e de linguado do Mar do Norte](http://publications.europa.eu/resource/celex/32007R0676) (JO L 157, 19.6.2007, p.1)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2018/973 do Parlamento Europeu e do Conselho de 4 de julho de 2018](http://publications.europa.eu/resource/celex/32018R0973) — L 179 — 1 — 16.7.2018"
+  }
+ }
+}

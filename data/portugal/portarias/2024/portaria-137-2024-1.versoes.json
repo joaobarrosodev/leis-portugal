@@ -1,0 +1,190 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:858631720:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-859924670",
+ "dre_path": "/dr/detalhe/portaria/137-2024-858631720",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2024-04-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "859867767",
+    "859867768",
+    "859867769",
+    "859867770",
+    "859867771",
+    "859867772",
+    "859867773",
+    "859867774",
+    "860106975",
+    "860106976",
+    "860106977",
+    "860106978",
+    "860106979",
+    "860106980",
+    "860106981",
+    "860106982",
+    "860106983",
+    "860106985",
+    "860106986"
+   ]
+  }
+ ],
+ "fragments": {
+  "859867767": {
+   "fragment_id": "859924671",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 137/2024/1\n\nde 3 de abril\n\nA alergia às proteínas do leite de vaca (APLV) constitui a alergia alimentar mais frequente na primeira infância, sendo diagnosticada nos primeiros meses de vida.\n\nAs manifestações clínicas da APLV dependem do tipo de resposta imunológica, apresentam-se com intensidade variável e podem envolver diferentes sistemas ou órgãos.\n\nA principal consequência para as crianças com APLV é a malnutrição progressiva com implicações no crescimento e no desenvolvimento neurocognitivo, não esquecendo o risco de morte durante um episódio de anafilaxia.\n\nA dieta com eliminação completa de proteínas do leite de vaca através de alimentos com fins medicinais específicos é atualmente a estratégia mais segura para a gestão da APLV, devendo ser iniciada o mais precocemente possível após o diagnóstico.\n\nExistem dois tipos de fórmulas hipoalergénicas destinadas a APLV, fórmulas com aminoácidos livres (FAA) e fórmulas extensamente hidrolisadas (FEH), cuja escolha dependerá da gravidade dos sintomas apresentados.\n\nA Lei do Orçamento do Estado para 2023, no seu artigo 160.º, sob a epígrafe \"Comparticipação de leites, fórmulas infantis e vacinas destinadas a crianças com alergia às proteínas do leite de vaca\", previa que, \"em 2023, o Governo estuda a viabilidade do alargamento do âmbito do regime excecional de comparticipação no preço das fórmulas extensamente hidrolisados que se destinem especificamente a crianças com alergias às proteínas do leite de vaca\".\n\nNesta sequência, importa, então, estabelecer este regime, revogando a Portaria n.º 296/2019, de 9 de setembro, revendo a percentagem de comparticipação do Estado no preço das FAA e prevendo a comparticipação do Estado no preço das FEH.\n\nEste processo foi objeto de intenso trabalho técnico que envolveu, designadamente, o INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., a Ordem dos Médicos, a Direção-Geral da Saúde e um painel de peritos indicados por esta, bem como pela Sociedade Portuguesa de Alergologia e Imunologia Clínica e pela Sociedade Portuguesa de Alergologia Pediátrica. Estando consolidada a solução técnica e cuidadosamente avaliado o seu impacto financeiro, protelar esta decisão agrava no tempo a desproteção das crianças afetadas com APLV e das suas famílias.\n\nAssim, ao abrigo do disposto na alínea b) do n.º 7 do artigo 5.º, na alínea a) do n.º 2 do artigo 22.º e no artigo 24.º do Decreto-Lei n.º 97/2015, de 1 de junho, com as alterações introduzidas pelo Decreto-Lei n.º 115/2017, de 7 de setembro, e do artigo 160.º da Lei n.º 24-D/2022, de 30 de dezembro, manda o Governo, pelo Ministro da Saúde, o seguinte:"
+  },
+  "859867768": {
+   "fragment_id": "859924672",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime excecional de comparticipação do Estado no preço das fórmulas que se destinem especificamente a crianças com alergia às proteínas do leite de vaca (APLV), quando sejam beneficiárias do Serviço Nacional de Saude (SNS)."
+  },
+  "859867769": {
+   "fragment_id": "859924673",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nSão abrangidas pelo regime previsto pela presente portaria as seguintes tecnologias de saúde:\n\na) Fórmulas de aminoácidos ou elementares (FAA);\n\nb) Fórmulas extensamente hidrolisadas (FEH)."
+  },
+  "859867770": {
+   "fragment_id": "859924674",
+   "type": 11,
+   "heading": "Artigo 3.º — Comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comparticipação\n\nPara os efeitos previstos na presente portaria, o valor da comparticipação do Estado no preço máximo (PVP máximo) fixado é de:\n\na) 70 % do PVP máximo fixado para as fórmulas de aminoácidos ou elementares (FAA);\n\nb) 90 % do PVP máximo fixado para as fórmulas extensamente hidrolisadas (FEH)."
+  },
+  "859867771": {
+   "fragment_id": "860106875",
+   "type": 11,
+   "heading": "Artigo 4.º — Preços máximos de venda ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Preços máximos de venda ao público\n\n1 - A definição do PVP máximo a aplicar às fórmulas abrangidas pelo regime excecional de comparticipação previsto na presente portaria está sujeita a regras específicas que incluem as margens de comercialização e o IVA à taxa legal em vigor.\n\n2 - As fórmulas abrangidas pelo regime previsto pela presente portaria constam de lista anexa à mesma (anexo i).\n\n3 - A fixação do PVP máximo das fórmulas previstas na lista referida no número anterior obedece às seguintes regras:\n\na) Fórmulas de aminoácidos ou elementares (FAA):\n\ni) Fórmula de aminoácidos elementar, em pó, para crianças com APLV, até 12 meses de idade, (por grama) - 0,0950 €;\n\nii) Fórmula de aminoácidos elementar, em pó, para crianças com APLV, a partir de 1 ano de idade (por grama) - 0,1072 €.\n\nb) Fórmulas extensamente hidrolisadas (FEH):\n\ni) Fórmula extensamente hidrolisada, em pó, para crianças com APLV, até 6 meses de idade (por grama) - 0,0588 €;\n\nii) Fórmula extensamente hidrolisada, em pó, para crianças com APLV, a partir dos 6 meses de idade (por grama) - 0,0643 €;\n\niii) Fórmula extensamente hidrolisada, em pó, para crianças com APLV, a partir do nascimento (por grama) - 0,0750 €.\n\n4 - O disposto na presente portaria é objeto de avaliação periódica, tendo em conta a monitorização da utilização e do regime de preços máximos fixados."
+  },
+  "859867772": {
+   "fragment_id": "860106876",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de comparticipação\n\n1 - Para efeitos do disposto no n.º 1 do artigo anterior, a definição do PVP máximo a aplicar às fórmulas que se destinem especificamente a crianças com APLV é feita com base numa proposta fundamentada apresentada pelo requerente e apenas produz efeitos a partir da data de notificação ao requerente da decisão final de comparticipação.\n\n2 - Sem prejuízo do disposto no número anterior, o PVP máximo a aplicar no âmbito do presente regime pode ser revisto por iniciativa do requerente, desde que dessa revisão não resulte um preço superior ao PVP máximo fixado com base na presente portaria.\n\n3 - As embalagens das fórmulas que se destinem especificamente a crianças com APLV a incluir no presente regime excecional de comparticipação devem apresentar o PVP máximo bem como o código de identificação atribuído ao produto.\n\n4 - Qualquer alteração no preço das fórmulas deve ser comunicada ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), com antecedência mínima de 20 dias, previamente à data da sua concretização, devendo coincidir com o primeiro dia de cada mês."
+  },
+  "859867773": {
+   "fragment_id": "860106877",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento de comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de comparticipação\n\n1 - O pedido de inclusão de fórmulas que se destinem especificamente a crianças com APLV, no regime excecional de comparticipação previsto na presente portaria, é requerido ao INFARMED, I. P., e instruído com os elementos identificados no anexo ii à presente portaria, da qual faz parte integrante.\n\n2 - O INFARMED, I. P., deve, no prazo de 20 dias, apreciar a regularidade do requerimento e/ou solicitar elementos e esclarecimentos adicionais.\n\n3 - O requerente deve entregar ou prestar os elementos adicionais que lhe sejam solicitados no prazo de 10 dias a contar da data da notificação pelo INFARMED, I. P.\n\n4 - O pedido é liminarmente indeferido quando:\n\na) Não tenham sido prestados os esclarecimentos ou apresentados os elementos adicionais no prazo referido no número anterior;\n\nb) O requerimento não seja aperfeiçoado, após notificação do INFARMED, I. P.;\n\nc) Não tenham sido utilizados os modelos de documentos indicados pelo INFARMED, I. P.\n\n5 - Todas as comunicações efetuadas no âmbito do procedimento de comparticipação são realizadas através de meios eletrónicos."
+  },
+  "859867774": {
+   "fragment_id": "860106878",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Avaliação e decisão\n\n1 - Compete aos serviços do INFARMED, I. P., a responsabilidade pela emissão dos pareceres de avaliação das tecnologias de saúde abrangidas pela presente portaria para efeitos de comparticipação, podendo a mesma ser submetida à Comissão de Avaliação de Tecnologias de Saúde (CATS), sempre que se revele necessário e mediante solicitação.\n\n2 - Os pareceres da avaliação favoráveis e deliberados pela CATS, se aplicável, são enviados aos requerentes para conhecimento, podendo ser solicitados esclarecimentos ou apresentadas objeções no prazo de 10 dias.\n\n3 - Se o processo contiver todos os elementos considerados suficientes, o INFARMED, I. P., submete ao membro do Governo responsável pela área da saúde o pedido de inclusão da fórmula no regime de comparticipação previsto na presente portaria, no prazo de 10 dias após a validação.\n\n4 - A decisão prevista no número anterior é notificada ao requerente por via eletrónica.\n\n5 - A decisão de indeferimento do pedido é notificada ao requerente com todos os elementos que serviram de base à decisão e contém a indicação sobre os meios de reação contenciosa do ato e respetivos prazos."
+  },
+  "860106975": {
+   "fragment_id": "860106879",
+   "type": 11,
+   "heading": "Artigo 8.º — Comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comercialização\n\n1 - O requerente está obrigado a comunicar o início, suspensão ou cessação da comercialização, por sua iniciativa, das fórmulas que se destinem especificamente a crianças com APLV comparticipadas, com antecedência mínima de 20 dias, produzindo efeitos a partir do primeiro dia do mês seguinte ao da sua comunicação.\n\n2 - As fórmulas que se destinem especificamente a crianças com APLV comparticipadas devem estar obrigatoriamente disponíveis para dispensa nas farmácias de oficina, em conformidade com a notificação do início de comercialização."
+  },
+  "860106976": {
+   "fragment_id": "860106880",
+   "type": 11,
+   "heading": "Artigo 9.º — Publicitação da comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Publicitação da comparticipação\n\n1 - Após a comunicação referida no n.º 1 do artigo anterior, cabe ao INFARMED, I. P., incluir ou excluir as fórmulas nas listas e ficheiros que publicitam os produtos comparticipados.\n\n2 - A lista das fórmulas comparticipadas é atualizada e divulgada pelo INFARMED, I. P., pelos meios considerados mais adequados, nomeadamente através da página eletrónica desta entidade.\n\n3 - Os ficheiros das fórmulas comparticipadas são devidamente atualizados e disponibilizados pelo INFARMED, I. P., às entidades competentes.\n\n4 - Das listas e ficheiros referidos nos números anteriores devem constar o nome e marca, o código atribuído, o preço e o valor da comparticipação das fórmulas que se destinem especificamente a crianças com APLV comparticipadas."
+  },
+  "860106977": {
+   "fragment_id": "860106881",
+   "type": 11,
+   "heading": "Artigo 10.º — Prescrição e utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prescrição e utilização\n\nPara efeitos do regime excecional previsto na presente portaria, a utilização das fórmulas deve observar as Normas de Orientação Clínica (NOC) emitidas pela Direção-Geral da Saúde, devendo a prescrição ser feita por meio de plataforma de prescrição eletrónica, nos seguintes termos:\n\na) Fórmulas de aminoácidos ou elementares (FAA): devem ser prescritas por médicos especialistas em pediatria médica ou imunoalergologia;\n\nb) Fórmulas extensamente hidrolisadas (FEH): devem ser prescritas por médicos especialistas em pediatria médica, imunoalergologia ou medicina geral e familiar."
+  },
+  "860106978": {
+   "fragment_id": "860106882",
+   "type": 11,
+   "heading": "Artigo 11.º — Dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dispensa\n\nA dispensa das fórmulas abrangidas pelo presente regime excecional de comparticipação é realizada exclusivamente nas farmácias de oficina."
+  },
+  "860106979": {
+   "fragment_id": "860106883",
+   "type": 11,
+   "heading": "Artigo 12.º — Monitorização de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Monitorização de utilização\n\nA monitorização periódica da utilização das fórmulas, bem como do regime de preços máximos fixados abrangidos pela presente portaria, compete ao INFARMED, I. P., tendo em conta os dados de prescrição e dispensa no SNS no âmbito do presente regime excecional de comparticipação."
+  },
+  "860106980": {
+   "fragment_id": "860106884",
+   "type": 11,
+   "heading": "Artigo 13.º — Alteração dos preços autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração dos preços autorizados\n\n1 - Os fabricantes, ou os seus representantes legais, podem proceder a variações nos preços, desde que os mesmos não ultrapassem o PVP máximo autorizado.\n\n2 - Ainda que verificadas as variações previstas no número anterior, os fabricantes, ou os seus representantes legais, podem voltar a praticar o PVP máximo autorizado.\n\n3 - As alterações dos preços autorizados devem ser sempre comunicadas até 20 dias antes da data da sua concretização e os seus efeitos devem coincidir com o primeiro dia do mês seguinte."
+  },
+  "860106981": {
+   "fragment_id": "860106885",
+   "type": 11,
+   "heading": "Artigo 14.º — Transição de preços máximos de venda ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transição de preços máximos de venda ao público\n\n1 - A partir da data de entrada em vigor dos novos PVP máximos, não podem ser colocadas nos distribuidores por grosso nem nas farmácias embalagens das fórmulas que apresentem PVP máximos diferentes dos resultantes do disposto na presente portaria.\n\n2 - Sem prejuízo do número anterior, as embalagens das fórmulas que apresentem PVP máximos diferentes dos resultantes do disposto na presente portaria poderão ser escoados com aquele PVP máximos, nos seguintes termos:\n\na) Pelo prazo de 30 dias, no caso dos distribuidores por grosso;\n\nb) Pelo prazo de 60 dias, no caso das farmácias.\n\n3 - Para efeitos do disposto no n.º 1 é permitida a remarcação de PVP máximos nas instalações das farmácias de oficina ou dos distribuidores por grosso."
+  },
+  "860106982": {
+   "fragment_id": "860106886",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados a Portaria n.º 296/2019, de 9 de setembro, e o Despacho n.º 12433/2019, de 30 de dezembro."
+  },
+  "860106983": {
+   "fragment_id": "860106887",
+   "type": 11,
+   "heading": "Artigo 16.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Produção de efeitos\n\nA presente portaria produz efeitos 5 dias úteis após a data da sua publicação."
+  },
+  "860106985": {
+   "fragment_id": "860106889",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 4.º)\n\na) Fórmulas de aminoácidos ou elementares (FAA):\n\ni) Fórmula elementar, em pó, para crianças com APLV, até 12 meses de idade;\n\nii) Fórmula elementar, em pó, para crianças com APLV, a partir de 1 ano de idade.\n\nb) Fórmulas extensamente hidrolisadas (FEH):\n\ni) Fórmula extensamente hidrolisada, em pó, para crianças com APLV, até 6 meses de idade;\n\nii) Fórmula extensamente hidrolisada, em pó, para crianças com APLV, a partir dos 6 meses de idade;\n\niii) Fórmula extensamente hidrolisada, em pó, para crianças com APLV, a partir do nascimento."
+  },
+  "860106986": {
+   "fragment_id": "860106890",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 6.º)\n\nO pedido de inclusão de fórmulas que se destinem especificamente a crianças com alergia às proteínas do leite de vaca (APLV) no regime de comparticipação definido na presente portaria deve ser acompanhado dos seguintes elementos:\n\na) Identificação do requerente;\n\nb) Identificação do fabricante;\n\nc) Identificação do importador (se aplicável);\n\nd) Identificação do distribuidor;\n\ne) Documento, datado e assinado, no qual o fabricante do produto nomeie o requerente como seu representante, dotando-o de poderes para o efeito (se aplicável);\n\nf) Nome comercial do produto;\n\ng) Rotulagem;\n\nh) PVP proposto;\n\ni) Estudos e pareceres demonstrativos dos resultados clínicos reivindicados para o alimento ou suplemento alimentar no âmbito do presente regime, se aplicável.\n\n117536706"
+  }
+ }
+}

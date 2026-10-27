@@ -1,0 +1,29 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31973L0437:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01973L0437-20030712",
+ "dre_path": null,
+ "source_lastmod": "2003-07-12",
+ "versions": [
+  {
+   "date": "2003-07-12",
+   "future": false,
+   "celex": "01973L0437-20030712",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b5a14bb43169e27f"
+   ]
+  }
+ ],
+ "fragments": {
+  "b5a14bb43169e27f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1973L0437 — PT — 12.07.2003 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31973L0437) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31973L0437) [de 11 de Dezembro de 1973](http://publications.europa.eu/resource/celex/31973L0437) [relativa à aproximação das legislações dos Estados-membros respeitantes a determinados açúcares destinados à alimentação humana](http://publications.europa.eu/resource/celex/31973L0437) [(73/437/CEE)](http://publications.europa.eu/resource/celex/31973L0437) (JO L 356, 27.12.1973, p.71)\n\n**revogado por:**\n\n- [Directiva 2001/111/CE do Conselho de 20 de Dezembro de 2001](http://publications.europa.eu/resource/celex/32001L0111) — L 10 — 53 — 12.1.2002"
+  }
+ }
+}

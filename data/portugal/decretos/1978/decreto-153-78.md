@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:324879:por
+title: Decreto n.º 153/78
+short_title: null
+summary: Dá nova redacção ao § 2.º do artigo 1.º e ao corpo do artigo 6.º e seu § 3.º do Decreto n.º 47490, de 10 de Janeiro
+  de 1967
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 153/78
+official_date: null
+publication_date: '1978-12-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 287/1978, Série I de 1978-12-15
+  number: '287'
+  series: I
+  supplement: null
+  pages: 2644 - 2644
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/12/28700/26442644.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '324879'
+  dre_path: /dr/detalhe/decreto/153-1978-324879
+  internal: pt:dre:324879:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/153-1978-324879
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/153-1978-324879
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:49:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9b5980199d4418b85c8510b6fd3024c37bcae56409cdf7e827096fec23c52488
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:49:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estabelecimento Industrial
+relationships:
+- type: amended_by
+  target: pt:dre:441327:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:239377:por
+  label: null
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:49:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 153/78
+
+de 15 de Dezembro
+
+Tendo em vista o alargamento da gama de produtos a fabricar no depósito franco da General Instrument Lusitana, S. A. R. L., situada em Arruda dos Vinhos, Quinta de S. João, e a alteração da denominação social:
+
+O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
+
+Artigo 1.º O § 2.º do artigo 1.º e o corpo do artigo 6.º e seu § 3.º do [Decreto n.º 47490](https://diariodarepublica.pt/dr/detalhe/decreto/47490-1967-239377), de 10 de Janeiro de 1967, passam a ter as seguintes redacções:
+
+###### Artigo 1.º ...
+
+...
+
+§ 2.º Neste depósito franco a empresa propõe-se fabricar, construir e montar sistemas electrónicos e suas peças, tais como aparelhos de rádio e televisão, forquetas de desvio, transformadores de saída horizontal, conjuntos de bobina de convergência, transformadores intermédios de frequência e outros componentes electrónicos, compreendendo bobinas, semicondutores, condensadores e sintonizadores, bem como fabricar cilindros, válvulas, centrais e comandos hidráulicos e pneumáticos, elevadores hidráulicos e seus sobresselentes, peças hidráulicas em geral e componentes hidráulicos e pneumáticos para a indústria automóvel, e ainda sapatos de senhora de alta qualidade.
+
+Art. 6.º Os materiais e peças vindo do estrangeiro entrarão no recinto do depósito franco mediante bilhetes de entrada referidos no § 5.º do artigo 146.º da Reforma Aduaneira, bilhetes esses que devem ser processados separadamente por grupos de produtos das inerentes áreas de actividade.
+
+...
+
+§ 3.º A simplificação de formalidades do despacho de entrada no depósito franco de materiais e peças estrangeiros não dispensa o cumprimento das disposições relativas ao registo na Repartição do Comércio Externo e bem assim dos derivados das obrigações do âmbito da CEE, da EFTA, ou outras associações de idêntica natureza.
+
+Art. 2.º - 1 - A empresa estabelecerá separadamente as linhas de produção que digam respeito aos vários campos da sua actividade, bem como armazéns de stockagem e contabilidades distintas, por forma a propiciar à fiscalização técnica e aduaneira a conveniente facilitação.
+
+2 - A empresa a que se refere o presente decreto passa a denominar-se DCP - Produtos Industriais, S. A. R. L., ficando esta com todas as responsabilidades fiscais da empresa General Instrument Lusitana, S. A. R. L., de que é sucessora.
+
+Alfredo Jorge Nobre da Costa - José da Silva Lopes.
+
+Promulgado em 29 de Novembro de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

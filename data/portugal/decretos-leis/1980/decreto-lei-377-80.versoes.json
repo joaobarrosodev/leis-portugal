@@ -1,0 +1,98 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:460808:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1980-890265666",
+ "dre_path": "/dr/detalhe/decreto-lei/377-1980-460808",
+ "source_lastmod": "2024-10-10",
+ "versions": [
+  {
+   "date": "1980-09-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890536188"
+   ]
+  },
+  {
+   "date": "1980-10-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:462225:por",
+     "title": "Declaração",
+     "published": "1980-10-11",
+     "dre_path": "/dr/detalhe/declaracao/1980-462225"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma",
+    "Retifica Artigo único"
+   ],
+   "fragments": [
+    "890536188",
+    "890536189",
+    "890219008"
+   ]
+  },
+  {
+   "date": "1981-07-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:579739:por",
+     "title": "Decreto-Lei n.º 225/81",
+     "published": "1981-07-17",
+     "dre_path": "/dr/detalhe/decreto-lei/225-1981-579739"
+    }
+   ],
+   "changes": [
+    "Altera Artigo único"
+   ],
+   "fragments": [
+    "890536188",
+    "890536190",
+    "890219008"
+   ]
+  }
+ ],
+ "fragments": {
+  "890536188": {
+   "fragment_id": "890265667",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1980-10-11",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 377/80\n\nde 12 de Setembro\n\nConsiderando que se mostra necessário proceder à revisão de algumas normas contidas no Decreto-Lei n.º 47947, de 18 de Setembro de 1967, para que se atenda ao valor dos interesses materiais actualmente envolvidos na actividade de pesca;\n\nTendo em atenção que algumas das disposições de carácter processual que o mesmo diploma estabelecia vieram a ser derrogadas pela entrada em vigor da Constituição de 1976 e pela demais legislação que, com ela, se conformou;\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "890536189": {
+   "fragment_id": "890265673",
+   "type": 11,
+   "heading": "Artigo único",
+   "in_force_from": "1980-10-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 236/1980, Série I de 1980-10-11](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-462225), em vigor a partir de 1980-10-11"
+   ],
+   "markdown": "###### Artigo único\n\nOs artigos 3.º, n.º 2, 4.º, n.º 2, 5.º, n.os 1, 2 e 3, 8.º, alínea c), 10.º, 11.º, 12.º, 13.º, 14.º, 17.º e 21.º do Decreto-Lei n.º 47947, de 18 de Setembro de 1967, passam a ter a seguinte redacção:\n\nArt. 3.º - 1 - ...\n\n2 - Compete ao Ministério da Agricultura e Pescas determinar, por despachos, quais as embarcações estrangeiras que estão autorizadas a pescar nas águas jurisdicionais de pesca, fixando, segundo as circunstâncias, as áreas e os sistemas e artes de pesca utilizáveis, as espécies ou grupos de espécies de pescas capturáveis, os contigentes de pesca e os períodos de tempo em que aquelas embarcações podem exercer a sua actividade, competindo-lhe ainda alterar ou revogar a autorização concedida.\n\nArt. 4.º - 1 - ...\n\n2 - O proprietário, armador, capitão, mestre, patrão ou arrais de embarcação retida incorre na perda, a favor do Estado, de todos os instrumentos de pesca utilizados e não autorizados, de todo o pescado existente a bordo e numa pena de multa, a graduar conforme as circunstâncias, e de acordo com a arqueação bruta da embarcação, segundo o escalão seguinte:\n\na) Até 20 t, 10000$00 a 500000$00;\n\nb) De 21 t a 50 t, 200000$00 a 1000000$00;\n\nc) De 51 t a 100 t, 400000$00 a 2000000$00;\n\nd) De 101 t a 200 t, 800000$00 a 4000000$00;\n\ne) De 201 t a 500 t, 1600000$00 a 8000000$00;\n\nf) De 501 t a 1000 t, 3200000$00 a 16000000$00;\n\ng) Acima de 1000 t, de 6400000$00 até ao valor calculado da embarcação, seus instrumentos e apetrechos.\n\nArt. 5.º - 1 - Os limites máximos e mínimos da multa prevista no n.º 2 do artigo anterior são reduzidos a metade quando a infracção for relativa a quotas de captura ou esforço, capturas incidentais ou qualquer outro condicionamento não coberto pelo n.º 1 do mesmo artigo, nem pelo disposto no n.º 2 do artigo 3.º\n\n2 - Os limites máximos e mínimos da multa previstos no n.º 2 do artigo 4.º e no n.º 1 deste artigo serão elevados para o dobro quando a infracção se verificar dentro do mar territorial português.\n\nArt. 6.º - 1 - ...\n\n2 - ...\n\n3 - A cobrança das despesas referidas no número anterior, que serão discriminadas pelo agente que efectuou a retenção, será feita conjuntamente com a das multas.\n\nArt. 8.º - ...\n\na) ...\n\nb) ...\n\nc) Ordenar a notificação do transgressor para, querendo, no prazo de dez dias, proceder ao pagamento voluntário conjunto da multa e despesas.\n\nArt. 10.º No caso de a contravenção ser punida unicamente com multa e haver pagamento voluntário, o capitão do porto levantará a retenção da embarcação e de todo o material com ela retido, em conformidade com o disposto no artigo 15.º\n\nArt. 11.º Se, porém, tiverem sido utilizados instrumentos de pesca não autorizados, relativamente a eles não será levantada a apreensão, devendo os autos ser remetidos ao tribunal judicial competente para serem declarados perdidos a favor do Estado, o mesmo ocorrendo quando tiver sido apreendido pescado a declarar perdido a favor do Estado.\n\nArt. 12.º Decorrido o prazo para pagamento voluntário da multa sem que tal se verifique, ou logo que declarado não se pretender efectuar o pagamento voluntário, serão os autos remetidos ao tribunal judicial competente para julgamento.\n\nArt. 13.º No caso previsto no artigo anterior, e havendo pescado apreendido ainda não vendido em conformidade com o disposto na alínea a) do artigo 8.º, o tribunal determinará ao capitão do porto onde tiver sido entregue a embarcação a sua venda em hasta pública, quando o considere susceptível de se deteriorar.\n\nArt. 14.º Quando houver responsabilidade criminal do pessoal de equipagem da embarcação, nos termos do n.º 1 do artigo 6.º, de tais factos será imediatamente dado conhecimento pelo capitão do porto ao tribunal judicial competente.\n\nArt. 17.º Transitada em julgado a sentença condenatória e não pagas voluntariamente as quantias em dívida nos termos do Código das Custas Judiciais, na execução a instaurar a penhora incidirá sobre todos os bens retidos e não declarados perdidos a favor do Estado.\n\nArt. 18.º O produto da venda dos bens liquidados que exceda o necessário para o pagamento das quantias em dívida prescreverá a favor do Estado se não for requerido o seu levantamento no prazo de um ano, contado a partir da data em que transitou em julgado a decisão que julgou extinta a execução.\n\nArt. 21.º Os depósitos à ordem do capitão do porto serão feitos na Caixa Geral de Depósitos, ou sua delegação, e, na falta de uma outra, na Tesouraria da Fazenda Pública ou na delegação desta.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 236/1980, Série I de 1980-10-11](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-462225), em vigor a partir de 1980-10-11"
+  },
+  "890219008": {
+   "fragment_id": "890265672",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Agosto de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 21 de Agosto de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "890536190": {
+   "fragment_id": "890265673",
+   "type": 11,
+   "heading": "Artigo único",
+   "in_force_from": "1981-07-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 225/81 - Diário da República n.º 162/1981, Série I de 1981-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1981-579739), em vigor a partir de 1981-07-18",
+    "Retificado pelo/a [Declaração - Diário da República n.º 236/1980, Série I de 1980-10-11](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-462225), em vigor a partir de 1980-10-11"
+   ],
+   "markdown": "###### Artigo único\n\nOs artigos 3.º, n.º 2, 4.º, n.º 2, 5.º, n.os 1, 2 e 3, 8.º, alínea c), 10.º, 11.º, 12.º, 13.º, 14.º, 17.º e 21.º do Decreto-Lei n.º 47947, de 18 de Setembro de 1967, passam a ter a seguinte redacção:\n\nArt. 3.º - 1 - ...\n\n2 - Compete ao Ministério da Agricultura e Pescas determinar, por despachos, quais as embarcações estrangeiras que estão autorizadas a pescar nas águas jurisdicionais de pesca, fixando, segundo as circunstâncias, as áreas e os sistemas e artes de pesca utilizáveis, as espécies ou grupos de espécies de pescas capturáveis, os contigentes de pesca e os períodos de tempo em que aquelas embarcações podem exercer a sua actividade, competindo-lhe ainda alterar ou revogar a autorização concedida.\n\nArt. 4.º - 1 - ...\n\n2 - O proprietário, armador, capitão, mestre, patrão ou arrais de embarcação retida incorre na perda, a favor do Estado, de todos os instrumentos de pesca utilizados e não autorizados, de todo o pescado existente a bordo e numa pena de multa, a graduar conforme as circunstâncias, e de acordo com a arqueação bruta da embarcação, segundo o escalão seguinte:\n\na) Até 20 t, 100000$00 a 500000$00;\n\nb) De 21 t a 50 t, 200000$00 a 1000000$00;\n\nc) De 51 t a 100 t, 400000$00 a 2000000$00;\n\nd) De 101 t a 200 t, 800000$00 a 4000000$00;\n\ne) De 201 t a 500 t, 1600000$00 a 8000000$00;\n\nf) De 501 t a 1000 t, 3200000$00 a 16000000$00;\n\ng) Acima de 1000 t, de 6400000$00 até ao valor calculado da embarcação, seus instrumentos e apetrechos.\n\nArt. 5.º - 1 - Os limites máximos e mínimos da multa prevista no n.º 2 do artigo anterior são reduzidos a metade quando a infracção for relativa a quotas de captura ou esforço, capturas incidentais ou qualquer outro condicionamento não coberto pelo n.º 1 do mesmo artigo, nem pelo disposto no n.º 2 do artigo 3.º\n\n2 - Os limites máximos e mínimos da multa previstos no n.º 2 do artigo 4.º e no n.º 1 deste artigo serão elevados para o dobro quando a infracção se verificar dentro do mar territorial português.\n\nArt. 6.º - 1 - ...\n\n2 - ...\n\n3 - A cobrança das despesas referidas no número anterior, que serão discriminadas pelo agente que efectuou a retenção, será feita conjuntamente com a das multas.\n\nArt. 8.º - ...\n\na) ...\n\nb) ...\n\nc) Ordenar a notificação do transgressor para, querendo, no prazo de dez dias, proceder ao pagamento voluntário conjunto da multa e despesas.\n\nArt. 10.º No caso de a contravenção ser punida unicamente com multa e haver pagamento voluntário, o capitão do porto levantará a retenção da embarcação e de todo o material com ela retido, em conformidade com o disposto no artigo 15.º\n\nArt. 11.º Se, porém, tiverem sido utilizados instrumentos de pesca não autorizados, relativamente a eles não será levantada a apreensão, devendo os autos ser remetidos ao tribunal judicial competente para serem declarados perdidos a favor do Estado, o mesmo ocorrendo quando tiver sido apreendido pescado a declarar perdido a favor do Estado.\n\nArt. 12.º Decorrido o prazo para pagamento voluntário da multa sem que tal se verifique, ou logo que declarado não se pretender efectuar o pagamento voluntário, serão os autos remetidos ao tribunal judicial competente para julgamento.\n\nArt. 13.º No caso previsto no artigo anterior, e havendo pescado apreendido ainda não vendido em conformidade com o disposto na alínea a) do artigo 8.º, o tribunal determinará ao capitão do porto onde tiver sido entregue a embarcação a sua venda em hasta pública, quando o considere susceptível de se deteriorar.\n\nArt. 14.º Quando houver responsabilidade criminal do pessoal de equipagem da embarcação, nos termos do n.º 1 do artigo 6.º, de tais factos será imediatamente dado conhecimento pelo capitão do porto ao tribunal judicial competente.\n\nArt. 17.º Transitada em julgado a sentença condenatória e não pagas voluntariamente as quantias em dívida nos termos do Código das Custas Judiciais, na execução a instaurar a penhora incidirá sobre todos os bens retidos e não declarados perdidos a favor do Estado.\n\nArt. 18.º O produto da venda dos bens liquidados que exceda o necessário para o pagamento das quantias em dívida prescreverá a favor do Estado se não for requerido o seu levantamento no prazo de um ano, contado a partir da data em que transitou em julgado a decisão que julgou extinta a execução.\n\nArt. 21.º Os depósitos à ordem do capitão do porto serão feitos na Caixa Geral de Depósitos, ou sua delegação, e, na falta de uma outra, na Tesouraria da Fazenda Pública ou na delegação desta.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 225/81 - Diário da República n.º 162/1981, Série I de 1981-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1981-579739), em vigor a partir de 1981-07-18\n\n> Retificado pelo/a [Declaração - Diário da República n.º 236/1980, Série I de 1980-10-11](https://diariodarepublica.pt/dr/detalhe/declaracao/1980-462225), em vigor a partir de 1980-10-11"
+  }
+ }
+}

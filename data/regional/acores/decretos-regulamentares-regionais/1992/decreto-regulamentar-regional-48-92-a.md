@@ -1,0 +1,296 @@
+---
+schema_version: '1.0'
+id: pt:dre:599137:por
+title: Decreto Regulamentar Regional n.º 48/92/A
+short_title: null
+summary: Define as competências das delegações de educação física e desporto (Del. EFD). Revoga o Decreto Regulamentar Regional
+  n.º 8/79/A, de 12 de Março, e os artigos 1.º, 2.º e 3.º do Decreto Regulamentar Regional n.º 30/80/A, de 25 de Julho
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Educação e Cultura - Direcção Regional da Educação
+  Física e Desporto
+proposing_entity: null
+official_number: 48/92/A
+official_date: null
+publication_date: '1992-11-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 275/1992, Série I-B de 1992-11-27
+  number: '275'
+  series: I
+  supplement: null
+  pages: 5485 - 5489
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/11/275b00/54855489.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/48/1992/11/27/a/dre/pt/html
+  oj: null
+  dre: '599137'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/48-1992-599137
+  internal: pt:dre:599137:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1992-599137
+  metadata_url: https://data.dre.pt/eli/decregulreg/48/1992/11/27/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1992-599137
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:28:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a3c6a691471db5f0e14b061f4683a9b483d04c3b15097cd31ecd27a431187e40
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:28:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Definição de Competências
+- Delegação de Educação Física e Desporto
+- Desporto
+- Direcção Regional da Educação Física e Desporto
+- Educação Física
+- Integração de Trabalhadores
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:301023:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:378108:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378683:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:383806:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:472126:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:515866:por
+  label: "Revogada a al. c) do nº 1 e os nºs 3, 4 e 5 do art. 4º pelo DRR.10/98/A.1998.04.13.SREAS-RAA, DR.IS-B [101] de 02/Mai/1998\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/10-1998-515866
+  date: '1998-04-13'
+- type: repealed_by
+  target: pt:dre:301023:por
+  label: "Revogado pelo DRR.18/2000/A.2000.06.07.SREAS-RAA DR.IS-B [154]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/18-2000-301023
+  date: '2000-06-07'
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:28:11Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 48/92/A
+
+Decorrendo da transferência de competências para a Administração Regional Autónoma dos Açores, operada pelo [Decreto-Lei n.º 338/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1979-378683), de 25 de Agosto, as delegações dos desportos passaram, através do [Decreto Regulamentar Regional n.º 30/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1980-472126), de 25 de Julho, a possuir quadro de pessoal e algumas regras respeitantes ao recrutamento dos delegados, não estando, no entanto, definidas as competências das mesmas.
+
+Passados mais de 10 anos de meritória actuação das delegações dos desportos, verifica-se, todavia, a necessidade de estender aqueles serviços a toda a Região, por forma a tornar mais efectivo o apoio ao fomento desportivo.
+
+Do mesmo modo, as coordenações de zona de educação física, previstas no [Decreto Regulamentar Regional n.º 8/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1979-383806), de 12 de Março, carecem de estruturas que melhor se adeqúem às novas realidades escolares.
+
+Face a tal mutação, aliada à crescente mobilização da juventude para a prática de actividades físicas e desportivas, justifica-se que, no presente diploma, se substituam aqueles serviços por delegações de educação física e desporto a serem criadas em todas as ilhas, estabelecendo-se competências específicas de intervenção, quer no domínio do desporto, quer no da educação física.
+
+Trata-se, também, de adequar a lógica e o funcionamento dos serviços externos de coordenação à orgânica dos serviços centrais, de molde a permitir uma cadeia de transmissão que melhor viabilize o desenvolvimento das decisões tomadas.
+
+Salienta-se, por último, que o funcionamento dos serviços de desporto e de educação física numa mesma sede trará inegáveis vantagens de natureza logística, administrativa e em matéria de utilização dos recursos humanos disponíveis, repercutindo-se, favoravelmente, no plano das despesas públicas.
+
+Assim, em execução do disposto no artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea d), da Constituição, o seguinte:
+
+###### Artigo 1.º — Natureza e atribuições das delegações de educação física e desporto
+
+1 - As delegações de educação física e desporto, adiante abreviadamente designadas por Del. EFD, são serviços externos da Direcção Regional da Educação Física e Desporto (DREFD), que visam a execução da política superiormente definida nos domínios da educação física e do desenvolvimento e promoção desportivos.
+
+2 - São criadas as Del. EFD de Santa Maria, São Miguel, Terceira, São Jorge, Graciosa, Pico, Faial e Flores, englobando esta última a ilha do Corvo.
+
+###### Artigo 2.º — Composição das Del. EFD
+
+Integram as Del. EFD:
+
+a) Serviços do Desporto (SD);
+
+b) Serviços de Educação Física (SEF).
+
+###### Artigo 3.º — Competências dos Serviços do Desporto
+
+1 - Compete aos SD, designadamente:
+
+a) Promover e apoiar a prática desportiva de carácter associativo, recreativo e de ocupação de tempos livres;
+
+b) Colaborar nas acções que visem o desenvolvimento desportivo;
+
+c) Assegurar o apoio aos organismos que visem o desenvolvimento desportivo;
+
+d) Manter actualizados os ficheiros respeitantes, designadamente, aos praticantes, enquadramento técnico, formação, instalação e apetrechamento desportivo;
+
+e) Assegurar a gestão das instalações desportivas oficiais não escolares, nos locais onde não existam serviços próprios para o efeito;
+
+f) Acompanhar o processo de utilização das instalações desportivas escolares, nas actividades desenvolvidas no período pós-curricular;
+
+g) Propor e colaborar na realização de acções de formação de quadros técnicos desportivos;
+
+h) Manter permanentemente informada a DREFD dos factos que interessam ao processo de desenvolvimento desportivo, bem como cumprir as directivas dela emanadas;
+
+i) Elaborar os planos e relatórios de actividades.
+
+2 - Os SD são chefiados por delegados do desporto.
+
+###### Artigo 4.º — Competências dos Serviços de Educação Física
+
+1 - Compete aos SEF, designadamente:
+
+a) Colaborar na programação e orientação das actividades relacionadas com a educação física;
+
+b) Assegurar o cumprimento da política geral do ensino da educação física superiormente defenida, promovendo, para o efeito, as acções pedagógicas que se tornem necessárias nos estabelecimentos de ensino, exceptuando o superior;
+
+c) Coordenar e promover o intercâmbio escolar, bem como apoiar os professores na programação da disciplina de Educação Física;
+
+d) Coordenar, a nível local, as actividades do desporto escolar;
+
+e) Propor à DREFD os professores do 1.º ciclo do ensino básico que desenvolverão as actividades de coordenadores da educação física do 1.º ciclo do ensino básico, na sua zona de actuação;
+
+f) Promover, sempre que superiormente for determinado, reuniões com os directores das escolas, delegados escolares, coordenadores da educação física do ensino básico e professores que ministram a disciplina de Educação Física de todos os ciclos de ensino;
+
+g) Manter permanentemente informada a DREFD dos factos que interessam ao processo de desenvolvimento da educação física, bem como cumprir as directivas dela emanadas;
+
+h) Elaborar relatórios e planos de actividades relativos à sua actividade.
+
+2 - Os SEF são chefiados por delegados da educação física.
+
+3 - Integram os SEF os coordenadores da educação física do 1.º ciclo do ensino básico, adiante designados por coordenadores da educação física, aos quais compete:
+
+a) Veicular, na área da sua actuação, a orientação geral estabelecida pelos serviços;
+
+b) Incentivar e zelar pelo cumprimento dos programas de Educação Física para o 1.º ciclo do ensino básico, contactando para tal, regularmente, com todas as escolas primárias da área, orientando os respectivos professores e apoiando a sua acção;
+
+c) Propor planos de actividades para a respectiva área, de acordo com as directrizes dos serviços;
+
+d) Promover e coordenar o intercâmbio escolar na sua área de actuação, na base do trabalho curricular;
+
+e) Colaborar com o delegado da educação física nas tarefas respeitantes às actividades de educação física no ensino primário;
+
+f) Elaborar relatórios das suas actividades.
+
+4 - Os coordenadores da educação física serão destacados de entre professores do 1.º ciclo do ensino básico, ao abrigo do artigo 68.º do Estatuto da Carreira dos Educadores de Infância e dos Professores do Ensino Básico e Secundário, por despacho do Secretário Regional da Educação e Cultura.
+
+5 - Aos coordenadores da educação física será atribuída uma remuneração acessória, fixada em 10% do índice 100 da escala indiciária do pessoal docente dos estabelecimentos de ensino não superior.
+
+###### Artigo 5.º — Competências dos delegados das Del. EFD
+
+Compete aos delegados das Del. EFD, designadamente:
+
+a) Dirigir, orientar e coordenar os serviços;
+
+b) Elaborar pareceres e estudos que considerem de interesse ou que superiormente lhes sejam solicitados;
+
+c) Realizar as despesas que superiormente lhes forem autorizadas, bem como superintender na gestão dos recursos humanos e meios postos à sua disposição;
+
+d) Representar a DREFD nos actos que lhes forem solicitados;
+
+e) Cumprir e fazer as directivas emanadas pela DREFD.
+
+###### Artigo 6.º — Serviço administrativo
+
+As Del. EFD dispõem de serviços de apoio administrativo, aos quais compete, designadamente:
+
+a) Elaborar e assegurar os processos de pessoal, expediente e arquivo relativo ao funcionamento da delegação;
+
+b) Executar as tarefas relacionadas com a contabilidade e património;
+
+c) Assegurar o serviço de dactilografia.
+
+###### Artigo 7.º — Nomeação dos delegados das Del. EFD
+
+1 - Os delegados são nomeados em comissão de serviço, mediante despacho do Secretário Regional da Educação e Cultura, sob proposta do director regional da Educação Física e Desporto, de entre indivíduos de reconhecida competência e que possuam experiência válida para o cargo, sendo igualmente exigido, quanto ao delegado da educação física a posse do curso de Educação Física.
+
+2 - As funções do delegado poderão ser exercidas a tempo inteiro ou parcial, sendo, neste último caso, a remuneração fixada por despacho conjunto dos Secretários Regionais da Administração Interna, das Finanças e Planeamento e da Educação e Cultura, o qual mencionará, igualmente, a respectiva duração do trabalho.
+
+3 - Sempre que circunstâncias transitórias e excepcionais o justifiquem, poderá, numa mesma ilha, o delegado de uma área (educação física ou desporto) acumular, por inerência, o cargo de delegado da outra área (desporto ou educação física), devendo o despacho a que se refere o n.º 1 mencioná-lo expressamente.
+
+4 - O disposto no número anterior é igualmente de observar nos casos em que o delegado da educação física ou o delegado do desporto de uma ilha acumule, por inerência, respectivamente, o cargo de delegado da educação física ou do desporto de outra ilha.
+
+5 - O cargo de delegado, nos termos dos n.os 3 e 4, só pode ser exercido em regime de tempo inteiro.
+
+6 - No despacho de nomeação será designado o delegado que assegurará, perante o director regional da Educação Física e Desporto, a chefia da delegação.
+
+###### Artigo 8.º — Quadro de pessoal
+
+O quadro de pessoal das Del. EFD é o constante do mapa anexo ao presente diploma, que dele faz parte integrante.
+
+###### Artigo 9.º — Técnico auxiliar de desporto
+
+1 - É criada a carreira de técnico auxiliar de desporto, que tem o desenvolvimento da carreira técnico-profissional, nível 3.
+
+2 - O ingresso na carreira de técnico auxiliar de desporto far-se-á de entre indivíduos habilitados com o 11.º ano, da área vocacional ou de formação técnico-profissional de Desporto, ou de entre indivíduos habilitados com o 11.º ano, com comprovada experiência e formação na área, a reconhecer mediante despacho do Secretário Regional da Educação e Cultura.
+
+3 - O técnico auxiliar de desporto exerce funções de natureza executiva de aplicação técnico-profissional, no âmbito da actividade desportiva, com base em métodos e processos estabelecidos ou adaptados, conforme directivas definidas pelos serviços, nomeadamente nos campos da condução e orientação directa dos cidadãos na prática desportiva, quer de recreação, quer de alta competição, e da organização e realização de manifestações desportivas.
+
+###### Artigo 10.º — Integração de pessoal
+
+O pessoal dos quadros das delegações de desportos é integrado no quadro anexo ao presente diploma, na mesma ilha onde exerce funções e em igual categoria, mediante lista nominativa a publicar no Jornal Oficial da Região.
+
+###### Artigo 11.º — Integração directa de agentes administrativos
+
+O pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário de serviço, conte mais de três anos de serviço ininterrupto e foi admitido com observância dos requisitos habilitacionais poderá ser integrado, directamente, em lugares dos quadros, em carreira correspondente às funções efectivamente exercidas e para a qual possua as necessárias habilitações.
+
+###### Artigo 12.º — Revogação
+
+É revogado o [Decreto Regulamentar Regional n.º 8/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1979-383806), de 12 de Março, e os artigos 1.º, 2.º e 3.º do [Decreto Regulamentar Regional n.º 30/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1980-472126), de 25 de Julho.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 8 de Setembro de 1992.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 11 de Outubro de 1992.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.
+
+## ANEXO — Mapa a que se refere o artigo 8.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/275b00/54855489.pdf)

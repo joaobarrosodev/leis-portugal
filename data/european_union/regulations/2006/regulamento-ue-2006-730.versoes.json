@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006R0730:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006R0730-20160818",
+ "dre_path": null,
+ "source_lastmod": "2016-08-18",
+ "versions": [
+  {
+   "date": "2008-12-05",
+   "future": false,
+   "celex": "32006R0730",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e08d030a14a43212",
+    "3b484e53c30bfb4d",
+    "e47a5e72e67ef894",
+    "0c05376746153a6b",
+    "62792e0870040a32",
+    "951b5d6ff4283d0c",
+    "feda9788034ec777"
+   ]
+  },
+  {
+   "date": "2012-12-04",
+   "future": false,
+   "celex": "02006R0730-20121204",
+   "acts": [
+    {
+     "id": "eu:celex:32012R0923:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 923/2012 DA COMISSÃO de 26 de setembro de 2012",
+     "published": null,
+     "celex": "32012R0923"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 5.º — Entrada em vigor e aplicação",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "989c6ef9b77bd8c3",
+    "3b484e53c30bfb4d",
+    "d62c98badbc5c3f3",
+    "0c05376746153a6b",
+    "62792e0870040a32",
+    "317fcb1096862049",
+    "f2a8669a42d89843"
+   ]
+  },
+  {
+   "date": "2016-08-18",
+   "future": false,
+   "celex": "02006R0730-20160818",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Classificação do espaço aéreo acima do nível de voo 195",
+    "Suprime Artigo 4.º — Acesso dos voos VFR acima do nível de voo 195",
+    "Suprime Artigo 5.º — Entrada em vigor e aplicação",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "73fd7665e1b916c9"
+   ]
+  }
+ ],
+ "fragments": {
+  "e08d030a14a43212": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Maio de 2006\n\nrelativo à classificação do espaço aéreo e ao acesso dos voos de acordo com as regras do voo visual acima do nível de voo 195\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu (Regulamento relativo ao espaço aéreo) [([^1])](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntr1-L_2006128PT.01000301-E0001), nomeadamente o artigo 4.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu (Regulamento-quadro) [([^2])](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntr2-L_2006128PT.01000301-E0002), nomeadamente o n.º 2 do artigo 8.º,\n\nConsiderando o seguinte:\n\n(1) O parágrafo 6 do capítulo 2 do anexo 11 [([^3])](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntr3-L_2006128PT.01000301-E0003) da Convenção de Chicago de 1944 sobre a Aviação Civil Internacional estabelece que volumes definidos de espaço aéreo onde são prestados serviços de tráfego aéreo são classificados por ordem alfabética da classe A à classe G, volumes esses no interior dos quais são permitidos tipos específicos de voos para os quais são especificados serviços de tráfego aéreo e regras de operação.\n\n(2) A Organização Europeia de Segurança da Navegação Aérea (Eurocontrol) foi mandatada nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 549/2004 para estudar a harmonização da classificação do espaço aéreo no âmbito do céu único europeu. Os relatórios de 30 de Dezembro de 2004 e de 30 de Abril de 2005, elaborados no âmbito desse mandato, propõem a classe C do espaço aéreo como a classificação apropriada para o espaço aéreo acima do nível de voo 195. O presente regulamento tem na devida conta os referidos relatórios. A fim de assegurar a coerência na aplicação de tal classificação pelos Estados-Membros, é necessário estabelecer uma classificação harmonizada do espaço aéreo e prever o acesso de voos de acordo com as regras do voo visual.\n\n(3) Embora não seja especificado no presente regulamento nenhum limite superior do espaço aéreo, a classificação do espaço aéreo acima do nível de voo 195 deve ser coerente para todos os voos efectuados nesse espaço aéreo.\n\n(4) O parágrafo 5 do capítulo 4 do anexo 2 [([^4])](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntr4-L_2006128PT.01000301-E0004) da Convenção de Chicago de 1944 sobre a Aviação Civil Internacional estabelece que não são permitidos voos de acordo com as regras de voo visual, voos VFR, acima do nível de voo 290, em espaço aéreo onde seja aplicada a separação vertical mínima reduzida. O parágrafo 4 do referido capítulo estabelece que os voos VFR acima do nível de voo 200 carecem de autorização.\n\n(5) Os procedimentos de autorização de acesso dos voos VFR ao espaço aéreo acima do nível de voo 195, até e incluindo o nível de voo 285, devem ser abertos e transparentes em todos os Estados-Membros, sem restringir o acesso legítimo dos voos VFR e a flexibilidade dos serviços de tráfego aéreo.\n\n(6) Os Estados-Membros deverão garantir a transição segura para a introdução da classificação do espaço aéreo da classe C acima do nível de voo 195. Uma vez que os Estados-Membros necessitam de tempo para alterar a classificação do espaço aéreo, a aplicação do presente regulamento é diferida para 1 de Julho de 2007.\n\n(7) As medidas previstas no presente regulamento são conformes com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "3b484e53c30bfb4d": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece uma harmonização da classificação do espaço aéreo aplicável acima do nível de voo 195 e os requisitos para o acesso dos voos a esse espaço aéreo.\n\n2. Em conformidade com o n.º 3 do artigo 1.º do Regulamento (CE) n.º 551/2004, o presente regulamento é aplicável ao espaço aéreo das regiões EUR e AFI da Organização da Aviação Civil Internacional (OACI) em que os Estados-Membros são responsáveis pela prestação de serviços de tráfego aéreo."
+  },
+  "e47a5e72e67ef894": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nSão aplicáveis, para além das definições relevantes constantes do artigo 2.º do Regulamento (CE) n.º 549/2004, as seguintes definições:\n\n1) «Reserva de espaço aéreo», um volume definido de espaço aéreo reservado a título temporário para utilização exclusiva ou específica por determinadas categorias de utilizadores;\n\n2) «Órgão de serviços de tráfego aéreo» (órgão ATS), uma unidade organizacional civil ou militar responsável pela prestação de serviços de tráfego aéreo;\n\n3) «Voos de acordo com as regras de voo por instrumentos» (voos IFR), os voos operados segundo as regras de voo por instrumentos constantes do anexo 2 [([^5])](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntr5-L_2006128PT.01000301-E0005) da Convenção de Chicago de 1944 sobre a Aviação Civil Internacional;\n\n4) «Voos de acordo com as regras de voo visual» (voos VFR), os voos operados segundo as regras de voo visual constantes do anexo 2 [([^6])](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntr6-L_2006128PT.01000301-E0006) da Convenção de Chicago de 1944 sobre a Aviação Civil Internacional;\n\n5) «Classificação do espaço aéreo», a partição do espaço aéreo em volumes de serviços de tráfego aéreo de dimensões definidas, designados por ordem alfabética, nos quais podem operar tipos específicos de voos e para os quais são especificados serviços de tráfego aéreo e regras de operação. Os espaços de serviços de tráfego aéreo são classificados da classe A à classe G como definido no parágrafo 6.1 do capítulo 2 do anexo 11 [([^7])](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntr7-L_2006128PT.01000301-E0007) da Convenção de Chicago de 1944 sobre a Aviação Civil Internacional."
+  },
+  "0c05376746153a6b": {
+   "fragment_id": "Artigo 3.º — Classificação do espaço aéreo acima do nível de voo 195",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Classificação do espaço aéreo acima do nível de voo 195",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Classificação do espaço aéreo acima do nível de voo 195\n\n1. Os Estados-Membros devem classificar o espaço aéreo acima do nível de voos 195 como espaço aéreo da classe C.\n\n2. Sob reserva do disposto no artigo 4.º do presente regulamento, os Estados-Membros devem assegurar que, no espaço aéreo da classe C, são autorizados voos IFR e VFR, aos quais é prestado um serviço de controlo do tráfego aéreo, e que os voos IFR são separados dos outros voos IFR e dos voos VFR.\n\nOs voos VFR devem ser separados dos voos IFR e devem receber informação de tráfego sobre outros voos VFR."
+  },
+  "62792e0870040a32": {
+   "fragment_id": "Artigo 4.º — Acesso dos voos VFR acima do nível de voo 195",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Acesso dos voos VFR acima do nível de voo 195",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acesso dos voos VFR acima do nível de voo 195\n\nNo espaço aéreo acima do nível de voo 195, os Estados-Membros podem estabelecer uma reserva de espaço aéreo, se viável na prática, na qual podem ser autorizados voos VFR.\n\nNo espaço aéreo acima do nível de voo 195, até e incluindo o nível de voo 285, os voos VFR podem também ser autorizados pelo órgão de serviços de tráfego aéreo responsável, segundo os procedimentos de autorização estabelecidos e publicados pelos Estados-Membros em publicação de informação aeronáutica apropriada."
+  },
+  "951b5d6ff4283d0c": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Julho de 2007.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 11 de Maio de 2006.\n\n***Pela Comissão***\n\n**Jacques BARROT**\n\n***Vice-Presidente***\n\n---"
+  },
+  "feda9788034ec777": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntc1-L_2006128PT.01000301-E0001) [JO L 96 de 31.3.2004, p. 20](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntc2-L_2006128PT.01000301-E0002) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntc3-L_2006128PT.01000301-E0003) Décima terceira edição — Julho de 2001, www.icao.int\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntc4-L_2006128PT.01000301-E0004) Décima edição — Julho de 2005, www.icao.int\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntc5-L_2006128PT.01000301-E0005) Décima edição — Julho de 2005, www.icao.int\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntc6-L_2006128PT.01000301-E0006) Décima edição — Julho de 2005, www.icao.int\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/2422092d-a8ff-443b-b389-728ab583a1ac.0016.03/DOC_1#ntc7-L_2006128PT.01000301-E0007) Décima terceira edição — Julho de 2001, www.icao.int"
+  },
+  "989c6ef9b77bd8c3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Maio de 2006\n\nrelativo à classificação do espaço aéreo e ao acesso dos voos de acordo com as regras do voo visual acima do nível de voo 195\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 551/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à organização e utilização do espaço aéreo no céu único europeu (Regulamento relativo ao espaço aéreo) ([^1^](http://publications.europa.eu/resource/cellar/10312302-b472-4ae8-919f-0acc4dbb1725.0019.03/DOC_1#E0001)), nomeadamente o artigo 4.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu (Regulamento-quadro) ([^2^](http://publications.europa.eu/resource/cellar/10312302-b472-4ae8-919f-0acc4dbb1725.0019.03/DOC_1#E0002)), nomeadamente o n.º 2 do artigo 8.º,\n\n(1) O parágrafo 6 do capítulo 2 do anexo 11 ([^3^](http://publications.europa.eu/resource/cellar/10312302-b472-4ae8-919f-0acc4dbb1725.0019.03/DOC_1#E0003)) da Convenção de Chicago de 1944 sobre a Aviação Civil Internacional estabelece que volumes definidos de espaço aéreo onde são prestados serviços de tráfego aéreo são classificados por ordem alfabética da classe A à classe G, volumes esses no interior dos quais são permitidos tipos específicos de voos para os quais são especificados serviços de tráfego aéreo e regras de operação.\n\n(2) A Organização Europeia de Segurança da Navegação Aérea (Eurocontrol) foi mandatada nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 549/2004 para estudar a harmonização da classificação do espaço aéreo no âmbito do céu único europeu. Os relatórios de 30 de Dezembro de 2004 e de 30 de Abril de 2005, elaborados no âmbito desse mandato, propõem a classe C do espaço aéreo como a classificação apropriada para o espaço aéreo acima do nível de voo 195. O presente regulamento tem na devida conta os referidos relatórios. A fim de assegurar a coerência na aplicação de tal classificação pelos Estados-Membros, é necessário estabelecer uma classificação harmonizada do espaço aéreo e prever o acesso de voos de acordo com as regras do voo visual.\n\n(3) Embora não seja especificado no presente regulamento nenhum limite superior do espaço aéreo, a classificação do espaço aéreo acima do nível de voo 195 deve ser coerente para todos os voos efectuados nesse espaço aéreo.\n\n(4) O parágrafo 5 do capítulo 4 do anexo 2 ([^4^](http://publications.europa.eu/resource/cellar/10312302-b472-4ae8-919f-0acc4dbb1725.0019.03/DOC_1#E0004)) da Convenção de Chicago de 1944 sobre a Aviação Civil Internacional estabelece que não são permitidos voos de acordo com as regras de voo visual, voos VFR, acima do nível de voo 290, em espaço aéreo onde seja aplicada a separação vertical mínima reduzida. O parágrafo 4 do referido capítulo estabelece que os voos VFR acima do nível de voo 200 carecem de autorização.\n\n(5) Os procedimentos de autorização de acesso dos voos VFR ao espaço aéreo acima do nível de voo 195, até e incluindo o nível de voo 285, devem ser abertos e transparentes em todos os Estados-Membros, sem restringir o acesso legítimo dos voos VFR e a flexibilidade dos serviços de tráfego aéreo.\n\n(6) Os Estados-Membros deverão garantir a transição segura para a introdução da classificação do espaço aéreo da classe C acima do nível de voo 195. Uma vez que os Estados-Membros necessitam de tempo para alterar a classificação do espaço aéreo, a aplicação do presente regulamento é diferida para 1 de Julho de 2007.\n\n(7) As medidas previstas no presente regulamento são conformes com o parecer do Comité do Céu Único,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d62c98badbc5c3f3": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nSão aplicáveis, para além das definições relevantes constantes do artigo 2.º do Regulamento (CE) n.º 549/2004, as seguintes definições:\n\n1) «Reserva de espaço aéreo», um volume definido de espaço aéreo reservado a título temporário para utilização exclusiva ou específica por determinadas categorias de utilizadores;\n\n2) «Órgão de serviços de tráfego aéreo» (órgão ATS), uma unidade organizacional civil ou militar responsável pela prestação de serviços de tráfego aéreo;\n\n3) «IFR», sigla usada para designar as regras de voo por instrumentos;\n\n4) «VFR», sigla usada para designar as regras de voo visual;\n\n5) «Classificação do espaço aéreo», a partição do espaço aéreo em volumes de serviços de tráfego aéreo de dimensões definidas, designados por ordem alfabética, nos quais podem operar tipos específicos de voos e para os quais são especificados serviços de tráfego aéreo e regras de operação. Os espaços de serviços de tráfego aéreo são classificados da classe A à classe G como definido no parágrafo 6.1 do capítulo 2 do anexo 11 ([^5^](http://publications.europa.eu/resource/cellar/10312302-b472-4ae8-919f-0acc4dbb1725.0019.03/DOC_1#E0005)) da Convenção de Chicago de 1944 sobre a Aviação Civil Internacional."
+  },
+  "317fcb1096862049": {
+   "fragment_id": "Artigo 5.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Julho de 2007.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "f2a8669a42d89843": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/10312302-b472-4ae8-919f-0acc4dbb1725.0019.03/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/10312302-b472-4ae8-919f-0acc4dbb1725.0019.03/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/10312302-b472-4ae8-919f-0acc4dbb1725.0019.03/DOC_1#src.E0003)) Décima terceira edição — Julho de 2001, www.icao.int\n\n> ([^4^](http://publications.europa.eu/resource/cellar/10312302-b472-4ae8-919f-0acc4dbb1725.0019.03/DOC_1#src.E0004)) Décima edição — Julho de 2005, www.icao.int\n\n> ([^5^](http://publications.europa.eu/resource/cellar/10312302-b472-4ae8-919f-0acc4dbb1725.0019.03/DOC_1#src.E0005)) Décima terceira edição — Julho de 2001, www.icao.int"
+  },
+  "73fd7665e1b916c9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2006R0730 — PT — 18.08.2016 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32006R0730) [REGULAMENTO (CE) N.º 730/2006 DA COMISSÃO](http://publications.europa.eu/resource/celex/32006R0730) [de 11 de Maio de 2006](http://publications.europa.eu/resource/celex/32006R0730) [relativo à classificação do espaço aéreo e ao acesso dos voos de acordo com as regras do voo visual acima do nível de voo 195](http://publications.europa.eu/resource/celex/32006R0730) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32006R0730) (JO L 128, 16.5.2006, p.3)\n\n**revogado por:**\n\n- [Regulamento de Execução (UE) 2016/1185 da Comissão de 20 de julho de 2016](http://publications.europa.eu/resource/celex/32016R1185) — L 196 — 3 — 21.7.2016"
+  }
+ }
+}

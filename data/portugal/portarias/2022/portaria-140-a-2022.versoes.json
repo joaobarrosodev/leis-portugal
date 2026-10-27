@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:182727848:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-182873970",
+ "dre_path": "/dr/detalhe/portaria/140-a-2022-182727848",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-04-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "182894777",
+    "182894778",
+    "182894779",
+    "182894780",
+    "182894781",
+    "182894782",
+    "182894784"
+   ]
+  }
+ ],
+ "fragments": {
+  "182894777": {
+   "fragment_id": "182873971",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 140-A/2022\n\nde 29 de abril\n\nSumário: Revisão e fixação dos valores das taxas do imposto sobre os produtos petrolíferos e energéticos.\n\nNo âmbito do pacote de medidas extraordinárias que têm vindo a ser aprovadas para fazer face ao contexto de aumento dos preços, em particular dos combustíveis, o Governo determina uma descida nas taxas unitárias do ISP aplicáveis, no continente, à gasolina sem chumbo e ao gasóleo rodoviário, equivalente ao que resultaria da redução da taxa do IVA de 23% para 13%.\n\nEsta medida tem por base os últimos preços médios publicados pela Direção-Geral da Energia e Geologia (DGEG), referentes a 25 de abril de 2022.\n\nO valor da redução da carga fiscal agora implementada para o mês de maio será revisto para o mês de junho, de forma a continuar a replicar o impacto que resultaria de uma diminuição da taxa do IVA de 23% para 13%, tendo em conta preços atualizados.\n\nEm paralelo, o mecanismo semanal de revisão dos valores das taxas unitárias do ISP introduzido pela referida portaria mantém-se em vigor, prosseguindo a sua aplicação numa lógica semanal, no sentido de continuar a devolver a eventual receita extraordinária do IVA por via do ISP.\n\nNestes termos, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais e pelo Secretário de Estado do Ambiente e da Energia, nos termos do disposto no n.º 1 do artigo 92.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, o seguinte:"
+  },
+  "182894778": {
+   "fragment_id": "182873972",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à:\n\na) Revisão e fixação semanal dos valores das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP) aplicáveis, no continente, à gasolina sem chumbo e ao gasóleo rodoviário;\n\nb) Manutenção da vigência dos artigos 4.º e 5.º da Portaria n.º 111-A/2022, de 11 de março."
+  },
+  "182894779": {
+   "fragment_id": "182873973",
+   "type": 11,
+   "heading": "Artigo 2.º — Fórmula de determinação das taxas unitárias do ISP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fórmula de determinação das taxas unitárias do ISP\n\nOs valores das taxas unitárias do ISP aplicáveis, no continente, à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 11 41 a 2710 11 49, e ao gasóleo, classificado pelos códigos NC 2710 19 41 a 2710 19 49, são determinados pela aplicação das fórmulas constantes do anexo à presente portaria.\n\n> Nota: [Artigo 3.º, Portaria n.º 152-A/2022 - Diário da República n.º 103/2022, 1º Suplemento, Série I de 2022-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/152-a-2022-184108560) mantém em vigor o presente artigo, a partir de 30.05.2022, com efeitos até 05.06.2022.\n\n> Nota: [Artigo 3.º, Portaria n.º 151-A/2022 - Diário da República n.º 98/2022, 1º Suplemento, Série I de 2022-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/151-a-2022-183801117) mantém em vigor o presente artigo, a partir de 23.05.2022, com efeitos até 29.05.2022"
+  },
+  "182894780": {
+   "fragment_id": "182873974",
+   "type": 11,
+   "heading": "Artigo 3.º — Taxas do imposto sobre os produtos petrolíferos e energéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Taxas do imposto sobre os produtos petrolíferos e energéticos\n\n1 - Nos termos do disposto no artigo anterior, a taxa do ISP aplicável, no continente, à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 11 41 a 2710 11 49, é reduzida em (euro) 162,86 por 1000 litros face ao valor constante na Portaria n.º 301-A/2018, de 23 de novembro, fixando-se no valor de (euro) 363,78 por 1000 litros.\n\n2 - Nos termos do disposto no artigo anterior, a taxa do ISP aplicável, no continente, ao gasóleo, classificado pelos códigos NC 2710 19 41 a 2710 19 49, é reduzida em (euro) 162,57 por 1000 litros face ao valor constante na Portaria n.º 301-A/2018, de 23 de novembro, fixando-se no valor de (euro) 180,58 por 1000 litros."
+  },
+  "182894781": {
+   "fragment_id": "182897075",
+   "type": 11,
+   "heading": "Artigo 4.º — Manutenção parcial dos efeitos da Portaria n.º 111-A/2022, de 11 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Manutenção parcial dos efeitos da Portaria n.º 111-A/2022, de 11 de março\n\nMantêm-se em vigor os artigos 4.º e 5.º da Portaria n.º 111-A/2022, de 11 de março.\n\n> Nota: [Artigo 3.º, Portaria n.º 155-A/2022 - Diário da República n.º 108/2022, 1º Suplemento, Série I de 2022-06-03](https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2022-184435188) mantém em vigor o presente artigo, a partir de 06.06.2022, com efeitos até 19.06.2022.\n\n> Nota: [Artigo 3.º, Portaria n.º 152-A/2022 - Diário da República n.º 103/2022, 1º Suplemento, Série I de 2022-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/152-a-2022-184108560) mantém em vigor o presente artigo, a partir de 30.05.2022, com efeitos até 05.06.2022.\n\n> Nota: [Artigo 3.º, Portaria n.º 151-A/2022 - Diário da República n.º 98/2022, 1º Suplemento, Série I de 2022-05-20](https://diariodarepublica.pt/dr/detalhe/portaria/151-a-2022-183801117) mantém em vigor o presente artigo, a partir de 23.05.2022, com efeitos até 29.05.2022"
+  },
+  "182894782": {
+   "fragment_id": "182897076",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia 2 de maio de 2022 e produz efeitos até dia 8 de maio de 2022.\n\nEm 29 de abril de 2022."
+  },
+  "182894784": {
+   "fragment_id": "182897078",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\na) Fórmula de cálculo da taxa do ISP, em euros por mil litros, aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 11 41 a 2710 11 49:\n\n(ver documento original)\n\nb) Fórmula de cálculo da taxa do ISP, em euros por mil litros, aplicável ao gasóleo, classificado pelos códigos NC 2710 19 41 a 2710 19 49:\n\n(ver documento original)\n\n115276628"
+  }
+ }
+}

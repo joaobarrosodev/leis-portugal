@@ -1,0 +1,115 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:187110:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1995-216769885",
+ "dre_path": "/dr/detalhe/lei/5-1995-187110",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-02-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "216765186",
+    "216765187",
+    "216765188",
+    "216765189",
+    "216765190",
+    "216765191"
+   ]
+  },
+  {
+   "date": "1998-08-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:438064:por",
+     "title": "Lei n.º 49/98",
+     "published": "1998-08-11",
+     "dre_path": "/dr/detalhe/lei/49-1998-438064"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "216765186",
+    "216765194",
+    "216765188",
+    "216765189",
+    "216765190",
+    "216765191",
+    "216765192"
+   ]
+  }
+ ],
+ "fragments": {
+  "216765186": {
+   "fragment_id": "216769886",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 5/95\n\nde 21 de Fevereiro\n\nEstabelece a obrigatoriedade do porte de documento de identificação\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alíneas b) e c), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "216765187": {
+   "fragment_id": "216769887",
+   "type": 11,
+   "heading": "Artigo 1.º — Dever de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Dever de identificação\n\n1 - Os agentes das forças ou serviços de segurança a que se refere a Lei n.º 20/87, de 12 de Junho, no artigo 14.º, n.º 2, alíneas a), c), d) e e), podem exigir a identificação de qualquer pessoa que se encontre ou circule em lugar público, aberto ao público ou sujeito a vigilância policial, sempre que sobre a mesma pessoa existam fundadas suspeitas da prática de crimes contra a vida e a integridade das pessoas, a paz e a humanidade, a ordem democrática, os valores e interesses da vida em sociedade e o Estado ou tenha penetrado ou permaneça irregularmente no território nacional ou contra a qual penda processo de extradição ou de expulsão.\n\n2 - Os mesmos agentes só podem exigir a identificação depois de exibirem prova da sua qualidade e de terem comunicado ao identificando os seus direitos e, de forma objectiva, as circunstâncias concretas que fundam a obrigação de identificação e os vários meios por que se pode identificar.\n\n3 - A omissão do dever de comunicação a que se refere o número anterior determina a nulidade da ordem de identificação."
+  },
+  "216765188": {
+   "fragment_id": "216769888",
+   "type": 11,
+   "heading": "Artigo 2.º — Obrigação do porte de documento de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Obrigação do porte de documento de identificação\n\n1 - Os cidadãos maiores de 16 anos devem ser portadores de documento de identificação sempre que se encontrem em lugares públicos, abertos ao público ou sujeitos a vigilância policial.\n\n2 - Para os efeitos do número anterior, considera-se documento de identificação:\n\na) O bilhete de identidade ou o passaporte, para os cidadãos portugueses;\n\nb) O título de residência, o bilhete de identidade ou o passaporte, para os cidadãos nacionais de Estados membros da Comunidade Europeia;\n\nc) O título de residência, o bilhete de identidade de estrangeiro ou o passaporte, para os estrangeiros nacionais de países terceiros.\n\n3 - Na impossibilidade de apresentação dos documentos referidos nas alíneas a) e b) do número anterior, pode ser apresentado documento original, ou cópia autenticada, que contenha o nome completo, a assinatura e a fotografia do titular.\n\n4 - Consideram-se, ainda, documentos de identificação, para os efeitos do presente artigo, os documentos referidos no n.º 2 do artigo 5.º do Decreto-Lei n.º 59/93, de 3 de Março, que substituem o passaporte."
+  },
+  "216765189": {
+   "fragment_id": "216769889",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento de identificação\n\n1 - Nos casos de impossibilidade de identificação, nos termos do artigo anterior, ou nos casos de recusa de identificação, terá lugar um procedimento de identificação que consiste em conduzir o identificando ao posto policial mais próximo, onde permanecerá pelo tempo estritamente necessário à identificação e que não poderá, em caso algum, exceder duas horas.\n\n2 - O mesmo procedimento pode incluir, em caso de necessidade, provas dactiloscópicas, fotográficas ou de análoga natureza, as quais são destruídas, na presença do identificando, não se confirmando a suspeita, e ainda a indicação, pelo identificando, de residência onde possa ser encontrado e receber comunicações;\n\n3 - A redução a auto do procedimento de identificação é obrigatória em caso de recusa de identificação e é nos demais casos dispensada, a solicitação da pessoa a identificar.\n\n4 - Quando seja lavrado o auto, nos termos do número anterior, do mesmo será entregue cópia ao identificando e ao Ministério Público.\n\n5 - Quando se deva presumir que o identificando possa ser menor, os agentes das forças ou serviços de segurança devem, de imediato, comunicar com os responsáveis pelo mesmo.\n\n6 - O procedimento de identificação será sempre comunicado a pessoa da confiança do identificando, quando este o solicite."
+  },
+  "216765190": {
+   "fragment_id": "216769890",
+   "type": 11,
+   "heading": "Artigo 4.º — Meios de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Meios de identificação\n\nQuando o cidadão não possa identificar-se, por não ser portador de documento de identificação, o recurso ao procedimento a que se refere o artigo 3.º só terá lugar na impossibilidade de utilização dos seguintes meios:\n\na) Identificação por um terceiro, devidamente identificado, que garanta a veracidade dos dados pessoais oferecidos pelo cidadão não portador de documento com que possa identificar-se;\n\nb) Comunicação do identificando com pessoa da sua confiança, no sentido de apresentar, por via dela, os meios de identificação;\n\nc) Acompanhamento do identificando ao lugar onde se encontrem os seus documentos de identificação."
+  },
+  "216765191": {
+   "fragment_id": "216769891",
+   "type": 11,
+   "heading": "Artigo 5.º — Normas processuais penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Normas processuais penais\n\nO disposto no presente diploma não prejudica a aplicação das providências previstas no âmbito do processo penal."
+  },
+  "216765194": {
+   "fragment_id": "216769887",
+   "type": 11,
+   "heading": "Artigo 1.º — Dever de identificação",
+   "in_force_from": "1998-08-16",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 49/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/lei/49-1998-438064), em vigor a partir de 1998-08-16"
+   ],
+   "markdown": "###### Artigo 1.º — Dever de identificação\n\n1 - Os agentes das forças ou serviços de segurança a que se refere a Lei n.º 20/87, de 12 de Junho, no artigo 14.º, n.º 2, alíneas a), c), d) e e), e a Polícia Marítima, como força policial com competências de fiscalização e policiamento nas áreas de jurisdição do sistema da autoridade marítima, podem exigir a identificação de qualquer pessoa que se encontre ou circule em lugar público, aberto ao público ou sujeito a vigilância policial, sempre que sobre a mesma pessoa existam fundadas suspeitas de prática de crimes contra a vida e a integridade das pessoas, a paz e a Humanidade, a ordem democrática, os valores e interesses da vida em sociedade e o Estado ou tenha penetrado e permaneça irregularmente no território nacional ou contra a qual penda processo de extradição ou de expulsão.\n\n2 - Os mesmos agentes só podem exigir a identificação depois de exibirem prova da sua qualidade e de terem comunicado ao identificando os seus direitos e, de forma objectiva, as circunstâncias concretas que fundam a obrigação de identificação e os vários meios por que se pode identificar.\n\n3 - A omissão do dever de comunicação a que se refere o número anterior determina a nulidade da ordem de identificação.\n\n> Alterado pelo/a [Lei n.º 49/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/lei/49-1998-438064), em vigor a partir de 1998-08-16"
+  },
+  "216765192": {
+   "fragment_id": "216769892",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 14 de Dezembro de 1994.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 27 de Janeiro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 31 de Janeiro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

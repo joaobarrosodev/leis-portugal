@@ -1,0 +1,932 @@
+---
+schema_version: '1.0'
+id: pt:dre:207942906:por
+title: Portaria n.º 54-L/2023
+short_title: null
+summary: Aprova o Regulamento dos pedidos de ajuda e de pagamento a apresentar ao Instituto de Financiamento da Agricultura
+  e Pescas, I. P. (IFAP, I. P.), no âmbito das intervenções definidas a nível nacional e europeu para a agricultura
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura e Alimentação
+proposing_entity: null
+official_number: 54-L/2023
+official_date: null
+publication_date: '2023-02-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/2023, 1º Suplemento, Série I de 2023-02-27
+  number: '41'
+  series: I
+  supplement: 1º Suplemento
+  pages: 332-(367) a 332-(385)
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/02/04101/0036700385.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-02-19'
+version_history:
+  file: portaria-54-l-2023.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2023-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-10-14'
+    amending: pt:dre:222779384:por
+    amending_title: Portaria n.º 308/2023
+    changes:
+    - Altera Artigo 20.º
+    - Altera Artigo 31.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+  - date: '2024-03-05'
+    amending: pt:dre:854130986:por
+    amending_title: Portaria n.º 80-B/2024/1
+    changes:
+    - Altera Artigo 16.º
+  - date: '2024-10-22'
+    amending: pt:dre:891867285:por
+    amending_title: Portaria n.º 275/2024/1
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 31.º
+    - Altera Artigo 37.º
+    - Altera Artigo 40.º
+  - date: '2026-01-01'
+    amending: pt:dre:993270163:por
+    amending_title: Portaria n.º 482/2025/1
+    changes:
+    - Adita Artigo 1.º-A
+    - Adita Artigo 13.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 27.º
+    - Altera Artigo 31.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Anexo
+  - date: '2026-02-19'
+    amending: pt:dre:1051479909:por
+    amending_title: Portaria n.º 81/2026/1
+    changes:
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/54-l/2023/p/cons/20260218/pt/html
+  oj: null
+  dre: '207942906'
+  dre_path: /dr/detalhe/portaria/54-l-2023-207942906
+  internal: pt:dre:207942906:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/54-l-2023-207942906
+  metadata_url: https://data.dre.pt/eli/port/54-l/2023/p/cons/20260218/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-210520867
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-210520867
+  retrieved_at: '2026-10-22T12:55:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3bcddb8782cf34124519099447e65111475c165ab59b5113c3d12bb2af779fe4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:55:47Z'
+  notes: 6 versão(ões); histórico completo em portaria-54-l-2023.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Ajuda Comunitária
+- Região Autónoma
+- Financiamento
+- Desenvolvimento Rural
+- Definição de Competências
+- Regulamentação de Atos Legislativos
+- Feader
+- Especificação Técnica
+- Subvenção Pública
+- Feaga
+- Apoio ao Investimento
+- Projeto de Investimento
+- Fundos CE
+- Pagamento
+- IFAP
+- Investimento
+- Notificação
+- Exploração Agrícola
+- Página na Internet
+- Internet
+- Exploração Florestal
+- Agricultor
+- Madeira.região Autónoma
+- Produção Agrícola
+- Regime de Apoio
+- Regulamento
+- Agricultura
+- Açores
+- Subsídio
+- Subsídio a Agricultores
+- Plataforma Eletrónica
+relationships:
+- type: amended_by
+  target: pt:dre:222779384:por
+  label: Altera Artigo 20.º; Altera Artigo 31.º; Altera Artigo 39.º; Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/308-2023-222779384
+  date: '2023-10-13'
+- type: amended_by
+  target: pt:dre:854130986:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/80-b-2024-854130986
+  date: '2024-03-04'
+- type: amended_by
+  target: pt:dre:891867285:por
+  label: Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 31.º; Altera Artigo 37.º; Altera Artigo
+    40.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/275-2024-891867285
+  date: '2024-10-21'
+- type: amended_by
+  target: pt:dre:993270163:por
+  label: Adita Artigo 1.º-A; Adita Artigo 13.º-A; Altera Artigo 4.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo
+    14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo
+    21.º; Altera Artigo 24.º; Altera Artigo 27.º; Altera Artigo 31.º; Altera Artigo 37.º; Altera Artigo 39.º; Altera Artigo
+    40.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163
+  date: '2025-12-31'
+- type: amended_by
+  target: pt:dre:1051479909:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/81-2026-1051479909
+  date: '2026-02-18'
+- type: cites
+  target: celex:31991R2328
+  label: null
+  source: http://data.europa.eu/eli/reg/1991/2328/oj
+- type: cites
+  target: celex:31992R2080
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2080/oj
+- type: cites
+  target: celex:32007L0002
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R0228
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/228/oj
+- type: cites
+  target: celex:32013R1305
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1305/oj
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: http://data.europa.eu/eli/reg/2016/679/oj
+- type: cites
+  target: celex:32021R2016
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2016/oj
+- type: cites
+  target: celex:32021R2115
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2115/oj
+- type: cites
+  target: celex:32021R2116
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2116/oj
+- type: cites
+  target: celex:32022R0128
+  label: null
+  source: http://data.europa.eu/eli/reg/2022/128/oj
+- type: cites
+  target: celex:32022R1172
+  label: null
+  source: http://data.europa.eu/eli/reg/2022/1172/oj
+- type: cites
+  target: celex:32022R1173
+  label: null
+  source: http://data.europa.eu/eli/reg/2022/1173/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/declretif/50/2012/09/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/declretif/50/2012/09/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/58/2017/02/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/58/2017/02/06/p/dre
+- type: cites
+  target: pt:dre:123815982:por
+  label: null
+  source: http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
+- type: cites
+  target: pt:dre:175334:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/195/2012/08/23/p/dre
+- type: cites
+  target: pt:dre:203283191:por
+  label: null
+  source: http://data.dre.pt/eli/port/273/2022/11/10/p/dre
+- type: cites
+  target: pt:dre:207760041:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
+- type: cites
+  target: pt:dre:258684:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/22/2013/02/15/p/dre
+- type: cites
+  target: pt:dre:75177807:por
+  label: null
+  source: http://data.dre.pt/eli/lei/26/2016/08/22/p/dre
+article_structure:
+  article_count: 49
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:55:47Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 54-L/2023
+
+Portaria n.º 54-L/2023
+
+de 27 de fevereiro
+
+Sumário: Aprova o Regulamento dos pedidos de ajuda e de pagamento a apresentar ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no âmbito das intervenções definidas a nível nacional e europeu para a agricultura.
+
+A reforma da Política Agrícola Comum (PAC) em 2021 estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).
+
+O PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021.
+
+O Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), é o organismo pagador do FEAGA e do FEADER, e das ajudas e medidas definidas a nível nacional, nos termos do artigo 3.º do Decreto-Lei n.º 195/2012, de 23 de agosto, retificado pela Declaração de Retificação n.º 50/2012, 19 de setembro.
+
+Neste contexto, cumpre estabelecer as normas específicas relativas aos procedimentos aplicáveis aos pedidos de ajuda e de pagamentos a apresentar pelos beneficiários junto do IFAP, I. P., no âmbito das intervenções definidas a nível nacional e europeu para a agricultura, através da aprovação de um novo Regulamento aplicável ao PEPAC, bem como ao pagamento das ajudas decorrentes dos anteriores quadros de apoio, procedendo-se à revogação da Portaria n.º 58/2017, de 6 de fevereiro, que aprovou o Regulamento de candidatura e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P.
+
+Dos procedimentos agora instituídos destaca-se o reforço pela utilização de meios eletrónicos na desmaterialização dos formulários de pedidos de ajuda e de pagamento e a implementação da aplicação "IFAP Mobile" para dispositivos móveis para a comunicação entre os beneficiários e o IFAP, I. P., em conformidade com os princípios da simplificação e desmaterialização de procedimentos entre os órgãos de gestão e os beneficiários, consagrados no Decreto-Lei n.º 12/2023, de 24 de fevereiro, que estabelece as regras gerais de aplicação do PEPAC Portugal.
+
+É ainda de destacar o regime relativo ao Registo da Atividade Agrícola que permite aos produtores manter os registos das culturas atualizados bem como a demais informação necessária ao referido controlo. O registo dos produtos agrícolas do setor alimentar é essencial para que as autoridades competentes os possam conhecer e realizar os controlos oficiais e os reportes estatísticos a seu cargo com maior eficácia, devendo estar permanentemente atualizado de acordo com o disposto na Portaria n.º 273/2022, de 10 de novembro.
+
+Foram ouvidos os órgãos próprios da Região Autónoma dos Açores e da Região Autónoma da Madeira.
+
+Assim:
+
+Manda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É aprovado o Regulamento dos pedidos de ajuda e de pagamento a apresentar ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no âmbito das intervenções definidas a nível nacional e europeu para a agricultura, em anexo à presente portaria, da qual faz parte integrante, adiante designado por Regulamento.
+
+###### Artigo 2.º — Norma revogatória
+
+1 - É revogada a Portaria n.º 58/2017, de 6 de fevereiro, que aprova o Regulamento de candidatura e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.).
+
+2 - As remissões feitas em diplomas legais e regulamentares para a Portaria n.º 58/2017, de 6 de fevereiro, entendem-se como feitas para a presente portaria.
+
+###### Artigo 3.º — Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2023.
+
+A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.
+
+## Anexo — Regulamento dos pedidos de ajuda e de pagamento a apresentar ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.)
+
+(a que se refere o artigo 1.º da portaria)
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+1 - O presente Regulamento estabelece os requisitos e os procedimentos relativos à apresentação de pedidos de ajuda e de pagamento ao IFAP, I. P., no âmbito das intervenções definidas a nível nacional e europeu para a agricultura.
+
+2 - O presente Regulamento é também aplicável, com as devidas adaptações, às entidades delegadas (ED), divulgadas na área pública do portal do IFAP, I. P., em www.ifap.pt, na execução das tarefas delegadas por aquele Instituto, ao abrigo do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021 e do Regulamento de Execução (UE) 2022/1173, da Comissão, de 31 de maio, ou nos termos do Decreto-Lei n.º 22/2013, de 15 de fevereiro, na sua redação atual.
+
+3 - O presente Regulamento é também aplicável à partilha de dados e interoperabilidade com os diferentes organismos da administração pública, ou com entidades privadas que se relacionem com o IFAP, I. P., sempre que previsto nos respetivos regimes específicos das ajudas.
+
+4 - O disposto no presente Regulamento não prejudica a aplicação dos respetivos regimes legais nacionais e europeus.
+
+###### Artigo 1.º-A — Definições
+
+1 - No âmbito das intervenções definidas a nível nacional e europeu para a agricultura, para além das definições constantes da legislação da União Europeia e nacional aplicável, entende-se por:
+
+a) ‘Superfície candidata’, total de superfície elegível à intervenção ou ao grupo de culturas, ao qual seja aplicável uma taxa de apoio de ajuda ou apoio diferente, em resultado da verificação do sistema de vigilância de superfícies e do controlo administrativo;
+
+b) ‘Superfície determinada’, total da superfície em relação à qual foram cumpridos os critérios de elegibilidade ou outras obrigações relativas às condições para a concessão de pagamento por grupo de culturas, para os quais são tidos em consideração o resultado de qualquer controlo no local.
+
+2 - Para efeitos de pagamento, quando sejam utilizados montantes de ajuda degressivos é tida em conta a média desses montantes em relação às respetivas superfícies candidatas.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01, produz efeitos a partir de 2025-01-01
+
+### Capítulo II — Procedimentos gerais
+
+#### Secção I — Procedimentos aplicáveis aos beneficiários
+
+###### Artigo 2.º — Inscrições obrigatórias
+
+O beneficiário, antes de proceder à apresentação do pedido de ajuda ou do pedido de pagamento ao IFAP, I. P., deve, quando aplicável, inscrever e manter atualizados os dados relativos à identificação:
+
+a) Do beneficiário, no sistema de informação do IFAP, I. P., (SIFAP);
+
+b) Da totalidade das parcelas de referência que integram a sua exploração agrícola, no Sistema de Identificação
+
+Parcelar (iSIP);
+
+c) Dos animais, no Sistema Nacional de Informação e Registo Animal (SNIRA) ou noutras bases de dados especificamente aplicáveis a determinadas espécies;
+
+d) Da atividade agrícola, em aplicação própria disponível no portal do Ministério da Agricultura e Alimentação (MAA), em www.agricultura.gov.pt e no portal do IFAP, I. P., em www.ifap.pt.
+
+###### Artigo 3.º — Identificação dos beneficiários
+
+1 - A inscrição dos dados de identificação do beneficiário e a respetiva atualização é efetuada no SIFAP através do formulário de identificação de beneficiário (IB), de acordo com procedimentos complementares fixados para o efeito e disponíveis na área pública do portal do IFAP, I. P., em www.ifap.pt, ou no portal do MAA, em www.agricultura.gov.pt.
+
+2 - À inscrição dos dados de identificação do beneficiário no SIFAP corresponde a atribuição de um número de identificação no IFAP, I. P. (NIFAP), que o beneficiário deve indicar sempre que se dirija ao IFAP, I. P., ou a uma ED ou a qualquer organismo do MAA.
+
+3 - Os beneficiários estão obrigados a manter corretos e atualizados os dados de identificação inscritos, sendo da sua responsabilidade a existência de dados incorretos ou desatualizados no SIFAP.
+
+4 - A atualização dos dados inscritos deve ser efetuada pelo próprio beneficiário se for utilizador da área reservada do portal do IFAP, I. P., nos termos previstos no artigo 6.º do presente Regulamento ou, não sendo, junto das ED e de acordo com os procedimentos complementares fixados para o efeito.
+
+5 - Sem prejuízo do número anterior, considera-se que o beneficiário é informado sempre que a informação em causa conste da sua área reservada no portal do IFAP, I. P., em www.ifap.pt, ou no portal do MAA, em www.agricultura.gov.pt.
+
+###### Artigo 4.º — Identificação de parcelas de referência e de baldios
+
+1 - Os beneficiários são obrigados a inscrever no iSIP os dados de identificação da totalidade das parcelas de referência da sua exploração agrícola e as respetivas ocupações do solo, bem como toda a informação que seja necessária para apresentação de candidaturas.
+
+2 - Os gestores de baldio são obrigados a inscrever os dados de identificação da totalidade das parcelas de baldio sob a sua gestão e as respetivas ocupações do solo, no iSIP.
+
+3 - Os beneficiários e os gestores de baldio estão obrigados a manter corretos e atualizados os dados de identificação inscritos, sendo da sua responsabilidade a existência de dados incorretos ou desatualizados no iSIP.
+
+4 - A inscrição e a atualização dos dados de identificação e demais características das parcelas de referência e dos baldios é feita junto das ED e nos locais designados para o efeito, divulgados na área pública do portal do IFAP, I. P., em www.ifap.pt e estão sujeitas aos procedimentos específicos para o efeito estabelecidos nos manuais ou normas de procedimento aplicáveis ao iSIP, disponíveis na área reservada do mesmo portal, nomeadamente a exibição e upload pelo beneficiário, dos documentos comprovativos do título da sua exploração.
+
+5 - Os beneficiários estão obrigados a apresentar justificação escrita sempre que procederem à eliminação de parcelas de referência por sua iniciativa.
+
+6 - Para efeitos de atribuição de ajudas, os títulos comprovativos da exploração das parcelas devem ter uma duração superior a seis meses e devem ter assinaturas reconhecidas ou serem assinados digitalmente com recurso ao cartão de cidadão ou chave móvel digital.
+
+7 - Sempre que estejam associados compromissos, a duração dos títulos deve assegurar a posse da exploração durante o período correspondente ao compromisso assumido ou às obrigações decorrentes da vigência do contrato.
+
+8 - Os títulos comprovativos que suportam a inscrição e exploração das parcelas de referência devem ficar disponíveis no iSIP.
+
+9 - Sempre que disponível, a informação de natureza cadastral prevalece sobre a delimitação declarativa efetuada sobre um ortofotomapa.
+
+10 - Para efeitos de atualização do parcelário, nomeadamente nas alterações da ocupação do solo que não sejam possíveis de aferir através dos ortofotomapas disponíveis, cabe ao beneficiário fornecer as evidências necessárias para o cumprimento dos requisitos legalmente exigidos, utilizando os recursos disponibilizados pelo IFAP, I. P., designadamente a aplicação "IFAP Mobile" para dispositivos móveis.
+
+11 - A atualização dos dados de identificação das parcelas de referência e dos baldios inscritos no iSIP deve ser feita em prazo não superior a 10 dias úteis contados a partir da data da ocorrência que a originou, de acordo com os procedimentos complementares fixados para o efeito.
+
+12 - No âmbito das medidas de investimento, os beneficiários devem identificar os polígonos de investimento e respetivas infraestruturas de acordo com os procedimentos complementares fixados para o efeito.
+
+13 - Os documentos de caracterização da exploração agrícola (iE) e os documentos ortofotográficos (P3) resultantes de qualquer atualização dos dados inscritos no iSIP são disponibilizados na área reservada do portal do IFAP, I. P., em www.ifap.pt.
+
+14 - O IFAP, I. P., em articulação com as ED ou com outras entidades competentes em razão da matéria, procede à verificação, validação e atualização das informações residentes no iSIP.
+
+15 - Sem prejuízo do disposto no número anterior, no caso das medidas de investimento, cabe às ED, com função de controlo administrativo a pedidos de pagamento, proceder, ao ajustamento gráfico dos polígonos de investimento, das novas ocupações de solo e localização efetiva das infraestruturas, até ao pagamento final do apoio.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+###### Artigo 5.º — Representação do beneficiário
+
+Os beneficiários podem fazer-se representar junto do IFAP, I. P., nos termos gerais de direito e estão sujeitos aos procedimentos complementares fixados para o efeito.
+
+###### Artigo 6.º — Registo no portal do IFAP, I. P.
+
+1 - Os beneficiários devem registar-se como utilizadores na área reservada do portal do IFAP, I. P., em www.ifap.pt, nomeadamente para:
+
+a) Entrega de formulários de forma desmaterializada;
+
+b) Consulta das informações disponíveis sobre os seus processos;
+
+c) Acesso aos documentos disponíveis relativos aos seus processos, nomeadamente, ao visualizador do parcelário, à caracterização da sua exploração agrícola (iE), aos documentos ortofotográficos (P3), aos relatórios de verificação no local ou do controlo administrativo ou das verificações por monitorização, ao apuramento e pagamento de ajudas, ao processo de gestão de dívidas.
+
+2 - O registo do beneficiário na área reservada do portal do IFAP, I. P., em www.ifap.pt, determina a atribuição de um login, associado ao respetivo NIFAP, e de uma palavra passe.
+
+3 - O acesso à área reservada do portal do IFAP, I. P., em www.ifap.pt, é efetuado com recurso ao login e à palavra passe atribuídos nos termos do número anterior.
+
+4 - Os beneficiários podem aceder à área reservada do portal do IFAP, I. P., em www.ifap.pt por intermédio das ED desde que prestem o seu consentimento, de acordo com os procedimentos complementares fixados para o efeito.
+
+###### Artigo 7.º — Submissão de formulários e alterações no iSIP
+
+1 - Os formulários de pedidos de ajuda e de pagamento, bem como os documentos que os integram, são submetidos pelos beneficiários por via eletrónica no portal do IFAP, I. P., em www.ifap.pt, de acordo com os procedimentos complementares fixados e divulgados no mesmo portal, salvo quando se prevejam procedimentos alternativos na regulamentação específica.
+
+2 - A submissão de formulários de forma desmaterializada é efetuada pelo beneficiário por transmissão eletrónica de dados, ou através da recolha informática direta pelas ED e da autenticação efetuada pelo beneficiário, ou por outras entidades, sempre que os respetivos regimes específicos da ajuda o prevejam.
+
+3 - A submissão de formulários e as alterações no iSIP são efetuadas de forma desmaterializada no portal do IFAP, I. P., em www.ifap.pt.
+
+4 - A autenticação dos formulários submetidos de forma desmaterializada é efetuada através do login e da palavra passe atribuídos no âmbito do processo de registo na área reservada do portal do IFAP, I. P., nos termos previstos no artigo anterior do presente Regulamento.
+
+5 - A autenticação das alterações no iSIP é efetuada nos termos previstos no número anterior ou através de assinatura eletrónica com recurso ao Cartão de Cidadão ou à Chave Móvel Digital.
+
+6 - Os formulários e as alterações no iSIP consideram-se apresentados na data em que são submetidos e validados através da autenticação do beneficiário.
+
+###### Artigo 8.º — Direito à informação
+
+1 - Os beneficiários têm direito à informação sobre o andamento dos procedimentos existentes no IFAP, I. P., e ao acesso aos documentos administrativos detidos pelo IFAP, I. P., nos termos previstos no Código do Procedimento Administrativo, conjugado com o previsto no regime de acesso aos documentos administrativos aprovado pela Lei n.º 26/2016, de 22 de agosto, na sua redação atual, e no regime relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais previsto no Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, na Lei n.º 58/2019, de 8 de agosto, e nos procedimentos complementares fixados para o efeito.
+
+2 - A emissão de certidão, reprodução ou declaração autenticada de documentos administrativos detidos pelo IFAP, I. P., está sujeita ao pagamento de um valor, cujos montantes são aprovados por deliberação do conselho diretivo do IFAP, I. P., e divulgados na área pública do seu portal, em www.ifap.pt.
+
+3 - Não obstante o disposto nos números anteriores, o IFAP, I. P., não está obrigado a satisfazer os pedidos que:
+
+a) Face ao seu carácter repetitivo e sistemático ou ao número de documentos requeridos, sejam manifestamente abusivos, sem prejuízo do direito de queixa do requerente;
+
+b) Quando as informações requeridas estejam disponíveis na área pública do seu portal, em www.ifap.pt, salvo se o requerente demonstrar a impossibilidade de utilização dessa forma de acesso;
+
+c) Obriguem a criar ou a adaptar documentos ou a fornecer extratos de documentos, quando isso envolva um esforço desproporcionado que ultrapasse a simples manipulação dos mesmos.
+
+#### Secção II — Procedimentos aplicáveis ao IFAP, I. P.
+
+###### Artigo 9.º — Prazos de apresentação de formulários de pedidos de ajuda e de pagamento
+
+1 - Os prazos de apresentação de formulários de pedidos de ajuda e de pagamento são fixados de acordo com os respetivos regimes e divulgados na área pública do portal do IFAP, I. P., em www.ifap.pt.
+
+2 - Sempre que os regimes específicos de ajuda sejam omissos quanto aos prazos de apresentação dos pedidos de ajuda e de pagamento, os mesmos são fixados pelo conselho diretivo do IFAP, I. P., e divulgados na área pública do portal, em www.ifap.pt.
+
+###### Artigo 10.º — Publicação, divulgação e tratamento de informações
+
+1 - A informação sobre os pagamentos das ajudas e outras subvenções efetuados pelo IFAP, I. P., são publicados nos termos do artigo 98.º do Regulamento 2021/2116, do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021, conjugado com os artigos 58.º e 59.º do Regulamento de Execução 2022/128 da Comissão, de 21 de dezembro de 2021, e divulgados na área pública no portal do IFAP, I. P., em www.ifap.pt, mantendo-se disponível durante dois anos a contar da data da sua publicação inicial.
+
+2 - As informações de caráter geral são divulgadas na área pública no portal do IFAP, I. P., em www.ifap.pt ou pelas ED.
+
+3 - Para além da divulgação prevista no n.º 1, as informações que dizem respeito aos beneficiários podem também ser tratados por organismos de investigação e de auditoria nacionais e da União Europeia para efeitos de proteção dos interesses financeiros da União, nos termos previstos no artigo 99.º do Regulamento 2021/2116, do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021.
+
+###### Artigo 11.º — Notificações
+
+1 - As notificações aos beneficiários são efetuadas preferencialmente através da área reservada no portal do IFAP, I. P., em www.ifap.pt, ou no portal do MAA, em www.agricultura.gov.pt, por mensagem de correio eletrónico (e-mail) ou por mensagem de telemóvel (SMS).
+
+2 - De modo a permitir que as notificações ocorram pelas vias referidas no número anterior o beneficiário deve registar-se na área reservada no portal do IFAP, I. P., em www.ifap.pt, disponibilizar o respetivo endereço de correio eletrónico e o número de telemóvel aquando da inscrição dos dados de identificação do beneficiário no formulário de IB, e, no caso de pessoas singulares, prestar o consentimento prévio para ser notificado por essas vias.
+
+3 - No caso do beneficiário não se encontrar registado na referida área reservada no portal do IFAP, I. P., não ter disponibilizado no seu IB o endereço de correio eletrónico e o número de telemóvel, ou não ter dado o consentimento nos termos do número anterior, as notificações são efetuadas por correio postal registado para o domicílio fiscal ou para a morada de contacto indicados pelo beneficiário no IB.
+
+4 - Os beneficiários podem ainda ser notificados por contacto pessoal, por colaboradores do IFAP, I. P., ou das ED ou de outros colaboradores do MAA, se esta forma de notificação se mostrar possível e adequada e se for inviável a notificação por outra via.
+
+5 - As notificações efetuadas de acordo com o número anterior devem ser acompanhadas de um auto de notificação, do qual deve constar, nomeadamente, a data e o assunto da notificação, o nome e a função do notificante, o nome e o número de identificação fiscal ou o NIFAP do notificado, bem como a assinatura de ambos.
+
+6 - As notificações previstas nos números anteriores consideram -se efetuadas:
+
+a) Através da área reservada no portal do IFAP, I. P., em www.ifap.pt, ou no portal do MAA, em www.agricultura.gov.pt, por meio de mensagem de correio eletrónico (e -mail), no momento em que o beneficiário aceda ao correio enviado para, respetivamente, a sua conta da área reservada ou a sua caixa postal eletrónica;
+
+b) Por mensagem de telemóvel (SMS), na data em que ocorreu a comunicação telefónica;
+
+c) Por carta registada, para a morada identificada em sede de Identificação do Beneficiário (IB), no terceiro dia útil posterior ao registo ou no primeiro dia útil seguinte a esse, quando esse dia não seja útil;
+
+d) Por contacto pessoal, no dia da notificação, nos termos do disposto do n.º 3.
+
+7 - O IFAP, I. P. não pode ser responsabilizado por impossibilidade de contacto ou de notificação de beneficiários que resulte da incorreta identificação ou da desatualização de dados constantes do IB.
+
+###### Artigo 12.º — Partilha de informação
+
+1 - (Revogado.)
+
+2 - A informação recolhida através do sistema integrado de gestão e controlo que possa ser partilhada nos termos previstos no artigo 17.º da Diretiva 2007/2/CE do Parlamento Europeu e do Conselho, de 14 de março, e do artigo 67.º do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, quando se destina a ser disponibilizada ao público, é anonimizada sem a indicação do beneficiário que lhe está associada, de modo a proteger a confidencialidade dos dados pessoais em conformidade com o Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho.
+
+3 - A informação referida no número anterior abrange, designadamente:
+
+a) Parcelas de referência;
+
+b) Ocupações do solo;
+
+c) Declaração anual de culturas;
+
+d) Regimes de apoio;
+
+e) Áreas sujeitas a investimentos (polígonos de investimento) ou outros compromissos assumidos com informação geográfica associada;
+
+f) Licenciamento pecuário;
+
+g) Outras informações consideradas de interesse público.
+
+4 - A informação é disponibilizada para visualização no portal do IFAP no endereço que se encontra disponível em https://publico-isip.ifap.pt/.
+
+5 - A informação pode ser visualizada ou descarregada através do serviço de dados geográfico cujo endereço é https://www.ifap.pt/isip/ows/.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+###### Artigo 13.º — Pagamentos
+
+1 - Os pagamentos das ajudas, pelo IFAP, I. P., é efetuado de acordo com as regras específicas das correspondentes fontes de financiamento e nos prazos fixados nos respetivos regimes jurídicos.
+
+2 - Os pagamentos referidos no número anterior são efetuados por transferência bancária para o número de conta indicado pelo respetivo beneficiário no formulário IB, após:
+
+a) Verificação dos requisitos de elegibilidade do benefício em causa, nos termos da legislação nacional e europeia aplicável;
+
+b) Disponibilidade orçamental da fonte de financiamento ou, no caso de medidas de apoio cofinanciadas, de todas as fontes de financiamento.
+
+3 - Sem prejuízo da legislação da União Europeia ou nacional aplicável a cada Fundo, não são efetuados quaisquer pagamentos a partir da data de encerramento do respetivo período de programação ou da respetiva campanha, salvo nos casos devidamente justificados e de acordo com procedimentos complementares fixados para o efeito.
+
+4 - Os pagamentos referidos no n.º 2 podem ser efetuados para conta de entidade distinta do beneficiário, sempre que os regimes específicos da ajuda o prevejam
+
+5 - Os pagamentos e os adiantamentos das ajudas e das intervenções incluídas no PU são efetuados pelo IFAP, I. P., no período definido no n.º 2 do artigo 44.º do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho.
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+###### Artigo 13.º-A — Condições artificiais
+
+1 - Em aplicação do artigo 62.º do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, não é concedido pagamento a pessoas singulares ou coletivas relativamente às quais se conclua terem sido criadas artificialmente as condições requeridas na regulamentação específica para obter vantagens.
+
+2 - Para efeitos do disposto no número anterior podem ser consideradas como potenciais situações de criação de condições artificiais, a divisão de explorações com vista à obtenção de vantagem, nomeadamente financeira, na atribuição dos apoios das intervenções SIGC com pagamentos por escalões degressivos de apoio ou com limites máximos de área ou montante.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+### Capítulo III — Procedimentos específicos
+
+#### Secção I — Procedimentos aplicáveis à agricultura
+
+###### Artigo 14.º — Parcela de referência e subparcelas
+
+1 - A parcela de referência constitui a porção contínua de terreno homogéneo com limites estáveis agronómica e geograficamente, com uma identificação única conforme registado no iSIP, explorada apenas por um beneficiário e classificada em função da sua categoria de ocupação do solo como superfície agrícola, superfície florestal, ou outras superfícies e, dentro da categoria superfície agrícola, classificada em função da classe de ocupação de solo como culturas temporárias, culturas permanentes e prados ou pastagens permanentes, incluindo quando formam sistemas agroflorestais nessa superfície.
+
+2 - A subparcela corresponde à porção contínua de terreno homogéneo com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores ou coincidentes com a parcela de referência.
+
+3 - A área mínima da parcela de referência é de 0,005 ha, com exceção da parcela de baldio que é de 1 ha.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+###### Artigo 15.º — Fotografias com geomarcação
+
+Os beneficiários e técnicos credenciados podem obter fotografias com geomarcação, utilizando os meios disponíveis para o efeito, designadamente, a aplicação ‘IFAP Mobile’ para dispositivos móveis, as quais podem ser posteriormente submetidas nos sistemas informáticos do IFAP, I. P., de acordo com os procedimentos específicos para o efeito divulgados na área pública do portal do IFAP, I. P., em www.ifap.pt, de forma a evidenciar, nomeadamente, a ocupação do solo das subparcelas, a existência de culturas e o seu estado, os investimentos realizados, ou a documentar operações realizadas no terreno para posterior confirmação da condição de elegibilidade exigida nas intervenções candidatas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+###### Artigo 16.º — Baldios
+
+1 - Para efeitos de atribuição de ajudas e outras subvenções às áreas de baldio são consideradas as superfícies de pastoreio comunitário de carácter tradicional por animais das espécies bovina, caprina, ovina e equídea.
+
+2 - As subparcelas de prática local de pastoreio em baldio são elegíveis para os beneficiários, enquanto compartes do baldio, quando os beneficiários:
+
+a) Detenham marca de exploração localizada nos concelhos ou concelhos limítrofes do baldio;
+
+b) Estejam associados à marca de exploração do baldio e sejam residentes nos concelhos ou concelhos limítrofes do baldio.
+
+3 - Para a identificação do gestor do baldio no IB devem ser apresentados os seguintes documentos:
+
+a) (Revogada).
+
+b) (Revogada).
+
+c) O caderno de recenseamento com a constituição da assembleia de compartes;
+
+d) A ata que designa o conselho diretivo.
+
+4 - O gestor do baldio está obrigado a:
+
+a) Elaborar, assinar e submeter anualmente no iSIP, uma relação de compartes com a identificação dos mesmos e a distribuição, por comparte, das áreas efetivamente pastoreadas, em conformidade com as práticas locais de utilização destas áreas, não sendo elegíveis as superfícies de prados e pastagens permanentes - prática local quando o encabeçamento for inferior a 0,2 CN por hectare;
+
+b) Atualizar anualmente, até à data de início do período definido para a apresentação do pedido único (PU), a lista de compartes no SNIRA, de acordo com a relação prevista na alínea anterior.
+
+5 - (Revogado.)
+
+6 - Para o cálculo do encabeçamento previsto na alínea a) do n.º 4, considera-se o efetivo pecuário do próprio de bovinos, ovinos, caprinos e equídeos detidos nas marcas de exploração localizadas nos concelhos ou concelhos limítrofes do baldio.
+
+7 - Para efeitos do número anterior, no caso dos equídeos, apenas são consideradas as raças autóctones ‘Burro de Miranda’ e ‘Garrana’, identificadas no anexo xv da Portaria n.º 54-C/2023, de 27 de fevereiro, que dela faz parte integrante
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 81/2026/1 - Diário da República n.º 34/2026, Série I de 2026-02-18](https://diariodarepublica.pt/dr/detalhe/portaria/81-2026-1051479909), em vigor a partir de 2026-02-19, produz efeitos a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 275/2024/1 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/275-2024-891867285), em vigor a partir de 2024-10-22, produz efeitos a partir de 2023-02-28
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-B/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-b-2024-854130986), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 17.º — Sobredeclaração de parcelas de referência
+
+1 - Sempre que um beneficiário pretenda identificar no iSIP parcelas de referência já identificadas por outro beneficiário deve ser instaurado um processo de esclarecimento e justificação, de acordo com os procedimentos disponíveis na área pública do portal do IFAP, I. P., em www.ifap.pt.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+###### Artigo 18.º — Sistema de vigilância de superfícies
+
+1 - O sistema de vigilância de superfícies (SVS), previsto no artigo 10.º do Regulamento (UE) 2022/1173, da Comissão de 31 de maio, aplica-se a todos os pedidos únicos (PU) com intervenções baseadas nas superfícies, para efeitos de observação, acompanhamento e avaliação das condições de elegibilidade que podem ser monitorizadas a partir dos dados dos satélites Sentinel do Programa Copernicus ou de outros dados disponíveis de valor equivalente.
+
+2 - Entende-se por dados de valor equivalente, as imagens de muito alta resolução, tais como, imagens de satélite ou ortofotomapas obtidos a partir de fotografias aéreas, referentes ao ano agrícola, ou a fotografias com geomarcação, nos termos do artigo 15.º
+
+3 - São incluídas no sistema de vigilância superfícies (SVS) todas as condições de elegibilidade das intervenções declaradas no pedido único (PU) que sejam passíveis de monitorizar a partir dos dados dos satélites Sentinel do Programa Copernicus ou de outros dados disponíveis de valor equivalente.
+
+4 - As condições de elegibilidade que não possam ser monitorizadas a partir dos dados dos satélites Sentinel do Programa Copernicus podem ser monitorizáveis por recurso a fotografias com geomarcação nos termos do artigo 15.º, designadamente, no caso das superfícies ocupadas com estufas ou qualquer outro tipo de cobertura, como redes de ensombramento.
+
+5 - A comunicação das informações do SVS são efetuadas através da área reservada do portal do IFAP, I. P., em www.ifap.pt, ou, quando o endereço de correio eletrónico estiver disponível no IB, através de mensagem de correio eletrónico.
+
+6 - Os beneficiários podem alterar e corrigir o PU ou esclarecer as dúvidas que lhe sejam comunicadas, na sequência das informações obtidas através do SVS, fornecendo as evidências necessárias através dos meios disponíveis para o efeito, designadamente a aplicação "IFAP Mobile" para dispositivos móveis, dentro dos prazos estabelecidos e divulgados na área pública do portal do IFAP, I. P., em www.ifap.pt.
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2024/1 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/275-2024-891867285), em vigor a partir de 2024-10-22, produz efeitos a partir de 2023-02-28
+
+#### Secção II — Pedidos de ajuda e de pagamento
+
+###### Artigo 19.º — Pedido único
+
+1 - O PU inclui as intervenções sujeitas ao sistema integrado de gestão e de controlo (SIGC) a que se referem os n.os 2 e 3 do artigo 65.º do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, os direitos ao pagamento e a condicionalidade, nos termos previstos no n.º 3 do artigo 3.º do Regulamento de Execução (UE) 2022/1173, da Comissão, a definir anualmente por deliberação do conselho diretivo do IFAP, I. P.
+
+2 - (Revogado.)
+
+3 - No PU são declaradas por exploração agrícola:
+
+a) As culturas nas subparcelas;
+
+b) O número de animais identificados por espécie e por classe etária, quando aplicável.
+
+4 - Os pedidos de ajuda abrangidos pelo PU devem incluir os documentos que comprovem, à data da apresentação da candidatura, o cumprimento pelos beneficiários dos critérios e condições de elegibilidade e outros requisitos aplicáveis à intervenção em causa, quando exigido nos respetivos regimes de aplicação dos apoios.
+
+5 - O PU pode ainda abranger outras ajudas ou apoios, por decisão do conselho diretivo do IFAP, I. P., divulgada na área pública do portal do IFAP, I. P., em www.ifap.pt, ou no portal do MAA, em www.agricultura.gov.pt.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2024/1 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/275-2024-891867285), em vigor a partir de 2024-10-22, produz efeitos a partir de 2023-02-28
+
+###### Artigo 20.º — Superfície da exploração agrícola
+
+1 - O beneficiário é obrigado a declarar, no PU, a totalidade das parcelas agrícolas que integram a superfície da exploração agrícola, independentemente de estas serem ou não objeto de pedido de ajudas.
+
+2 - Para efeitos do número anterior entende-se por «superfície de exploração» o conjunto de parcelas utilizadas para o exercício da atividade agrícola, submetidos a uma gestão única.
+
+3 - A não declaração no PU da totalidade das parcelas agrícolas nos termos do número anterior determina a aplicação de reduções aos montantes totais dos apoios previstos no n.º 2 do artigo 19.º com exceção do apoio previsto na alínea h), em aplicação do disposto no título iv do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021.
+
+4 - A redução é aplicada quando a superfície não declarada seja superior a 3 % da superfície total da exploração, sendo determinada nos termos do anexo ao presente Regulamento, do qual faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2023 - Diário da República n.º 199/2023, Série I de 2023-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/308-2023-222779384), em vigor a partir de 2023-10-14, produz efeitos a partir de 2023-01-01
+
+###### Artigo 21.º — Alterações ou retiradas do PU
+
+1 - Os PU podem ser alterados ou retirados, nos termos do artigo 7.º do Regulamento de Execução (UE) 2022/1173, da Comissão, até à data-limite a definir anualmente por deliberação do conselho diretivo do IFAP, I. P., e a divulgar na área pública do seu portal, em www.ifap.pt.
+
+2 - (Revogado.)
+
+3 - As alterações ou as retiradas de parte ou da totalidade dos pedidos regem-se pelas normas previstas nos respetivos regimes da ajuda e estão sujeitas aos procedimentos fixados para o efeito e disponíveis na área pública do portal do IFAP, I. P., em www.ifap.pt.
+
+4 - As alterações ou retiradas parciais são efetuadas de forma desmaterializada através dos meios disponíveis para o efeito, designadamente a aplicação "IFAP Mobile" para dispositivos móveis, nos prazos estabelecidos e disponibilizados na área pública do portal do IFAP, I. P., em www.ifap.pt.
+
+5 - A retirada total do PU deve ser solicitada por escrito pelo beneficiário ao IFAP, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+###### Artigo 22.º — Data limite de apresentação do PU
+
+As datas limite para a apresentação, a alteração ou a retirada do PU são fixadas pelo IFAP, I. P., e divulgadas no portal do IFAP, I. P., em www.ifap.pt.
+
+###### Artigo 23.º — Apresentação tardia
+
+1 - Exceto nos casos de força maior e em circunstâncias excecionais, o PU pode ser apresentado após a data limite, e durante o período a fixar pelo IFAP, I. P., com uma redução de 1 % por dia útil dos montantes a que o beneficiário teria direito se o PU tivesse sido apresentado dentro do prazo estipulado.
+
+2 - Se o atraso for superior à data fixada pelo IFAP, I. P., o pedido não é admissível não podendo ser atribuída ao beneficiário qualquer ajuda ou apoio.
+
+###### Artigo 24.º — Controlo administrativo PU
+
+1 - Após a submissão de todos os PU é realizado o controlo administrativo entre os mesmos e as bases de dados de referência.
+
+2 - O reporte ao beneficiário das situações com anomalia é efetuado através da área reservada do portal do IFAP, I. P., em www.ifap.pt ou, quando o endereço de correio eletrónico estiver disponível no IB, através de mensagem de correio eletrónico.
+
+3 - De acordo com a alínea a) do artigo 7.º do Regulamento de Execução (UE) 2022/1173, da Comissão, de 31 de maio de 2022, o beneficiário pode alterar ou retirar, no PU, a parte afetada pelo incumprimento das anomalias que lhe sejam comunicadas, de forma a dar cumprimento aos requisitos de elegibilidade, nos prazos estabelecidos para o efeito e divulgados na área pública do portal do IFAP, I. P., em www.ifap.pt.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+###### Artigo 25.º — Casos de força maior e circunstâncias excecionais
+
+1 - O reconhecimento dos casos de força maior e das circunstâncias excecionais, previstos nos regulamentos específicos, é feito pelo IFAP, I. P.
+
+2 - A comunicação dos casos de força maior e das circunstâncias excecionais, acompanhada dos respetivos documentos de prova, deve ser efetuada junto do IFAP, I. P., por escrito, no prazo de 15 dias úteis a contar da ocorrência ou, excecionalmente, a contar da data em que o beneficiário ou o respetivo representante o possa fazer.
+
+###### Artigo 26.º — Outros pedidos de ajuda e de pagamento
+
+Os pedidos de ajuda e de pagamento que não estejam incluídos no PU são apresentados nos termos previstos nos regimes específicos da ajuda.
+
+#### Secção III — Procedimentos complementares
+
+###### Artigo 27.º — Transmissão de explorações
+
+1 - Quando, durante a vigência de um compromisso plurianual, o beneficiário cedente transmitir, por qualquer forma prevista no iSIP, a totalidade ou parte das terras a que se refere esse compromisso, o cessionário pode retomar o compromisso ou a parte do compromisso que corresponde às terras transmitidas durante o período remanescente, ou, em alternativa, o compromisso pode cessar, não sendo, neste caso, exigido o reembolso relativamente ao período em que o compromisso era aplicável.
+
+2 - Quando o cessionário da exploração informar o IFAP, I. P., da transmissão e requerer o pagamento da ajuda:
+
+a) Todos os direitos e obrigações do cedente, decorrentes da relação jurídica gerada pelo pedido de ajuda ou de pagamento entre este e o IFAP, I. P., são transferidos para o cessionário;
+
+b) O cessionário sub-roga-se ao cedente relativamente a todas as ações necessárias para a concessão da ajuda e a todas as declarações feitas pelo cedente antes da transmissão, para efeitos da aplicação das pertinentes normas da União.
+
+3 - Quando se verifique a transmissão de explorações, as sanções administrativas aplicadas no âmbito da condicionalidade, nos termos do artigo 84.º do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho, incidem sobre o beneficiário que apresentou a candidatura no ano civil em que foi detetado o incumprimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+###### Artigo 28.º — Reserva nacional de direitos no âmbito do apoio ao rendimento base
+
+1 - A candidatura à reserva nacional dos direitos ao pagamento no âmbito do apoio ao rendimento base efetua-se em simultâneo com o PU.
+
+2 - O período para a apresentação da candidatura prevista no número anterior é fixado nos termos previstos no artigo 9.º do presente Regulamento.
+
+###### Artigo 29.º — Transferência de direitos e compromissos
+
+Os pedidos de transferência definitiva ou temporária de direitos ao pagamento no âmbito do apoio ao rendimento base e de compromissos plurianuais no âmbito das medidas SIGC do desenvolvimento rural efetuam -se nos períodos fixados nos termos do artigo 9.º do presente Regulamento.
+
+###### Artigo 30.º — Recuperação de direitos ao pagamento indevidos
+
+1 - Nos casos em que o número de direitos ao pagamento atribuídos ao beneficiário for superior ao número de direitos ao pagamento a que tinha direito, os direitos atribuídos em excesso revertem para a reserva nacional.
+
+2 - Os beneficiários a quem foram transferidos os direitos ao pagamento atribuídos em excesso ficam igualmente sujeitos à obrigação prevista no número anterior, proporcionalmente ao número de direitos ao pagamento que lhes tenham sido transferidos.
+
+###### Artigo 31.º — Regime de apoio associado «animais»
+
+1 - Os pedidos de ajuda e os documentos comprovativos das condições de elegibilidade e outros requisitos aplicáveis ao abrigo do regime de apoio associado ‘animais’ previsto na Portaria n.º 54-I/2023, de 27 de fevereiro, e ao abrigo dos regimes ecológicos relativos a animais previstos na Portaria n.º 54-E/2023, de 27 de fevereiro, é efetuado anualmente através de formulário próprio, disponibilizado na área pública do portal do IFAP, I. P., em www.ifap.pt, salvo se o beneficiário tiver apresentado a candidatura no PU do ano anterior.
+
+2 - Independentemente da forma adotada para a apresentação do pedido de ajuda referido no número anterior, se o beneficiário detiver parcelas agrícolas é obrigado a declarar a sua totalidade no PU do ano seguinte, mesmo que não sejam objeto de pedido de ajudas, nos termos do n.º 1 do artigo 20.º
+
+3 - A não declaração da totalidade das parcelas agrícolas nos termos do número anterior determina a aplicação de uma redução de 3 % aos montantes totais dos apoios das intervenções incluídas no PU, nos termos do anexo ao Regulamento, do qual faz parte integrante, com exceção do pagamento do prémio anual destinado a compensar a perda de rendimento decorrente da florestação no âmbito do Regulamento (CEE) n.º 2328/91, do Conselho, e do Regulamento (CEE) n.º 2080/92, do Conselho.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2024/1 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/275-2024-891867285), em vigor a partir de 2024-10-22, produz efeitos a partir de 2023-02-28
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2023 - Diário da República n.º 199/2023, Série I de 2023-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/308-2023-222779384), em vigor a partir de 2023-10-14, produz efeitos a partir de 2023-01-01
+
+###### Artigo 32.º — Alteração dos efetivos pecuários
+
+As comunicações de alteração dos efetivos pecuários declarados para benefício dos apoios atribuídos no âmbito do regime de apoio associado «animais» e das medidas de apoio animais no âmbito do desenvolvimento rural que ocorram durante o período de retenção obrigatório, efetuam -se nos seguintes termos:
+
+a) A alteração do número de bovinos, ovinos e caprinos declarados deve ser comunicada à base de dados do SNIRA, de acordo com o artigo 2.º do presente Regulamento;
+
+b) Para as restantes espécies, a alteração do número de animais deve ser comunicada ao IFAP, I. P., no prazo de dez dias úteis a contar da data da ocorrência que a determinou e de acordo com os procedimentos complementares fixados para o efeito;
+
+c) A substituição de animais declarados deve ser efetuada no prazo de quinze dias úteis, a contar da data das respetivas ocorrências.
+
+###### Artigo 33.º — Alteração ou permuta de uso de parcelas classificadas como prados permanentes
+
+1 - A alteração ou comunicação do uso das parcelas classificadas como prados e pastagens permanentes, bem como a permuta entre parcelas exploradas pelo mesmo beneficiário depende de autorização prévia do IFAP, I. P..
+
+2 - Os pedidos de autorização para alteração de uso das parcelas classificadas como prados permanentes e as comunicações de alteração de uso de parcelas classificadas como prados permanentes bem como os pedidos de permuta efetuam-se junto das ED ou pelo próprio beneficiário por transmissão eletrónica de dados, nos períodos fixados para o efeito, nos termos do artigo 9.º do presente Regulamento.
+
+###### Artigo 34.º — Reconversão da superfície de prados permanentes e prados ambientalmente sensíveis
+
+1 - Sempre que o decréscimo do valor da proporção anual de prado permanente for superior a 5 % relativamente ao valor da proporção de referência nacional de prado permanente, é efetuada uma reconversão nacional das superfícies de prados permanentes.
+
+2 - Nos casos em que se verifique a situação prevista no número anterior, o beneficiário é notificado, até 31 de dezembro, da obrigação de reconversão para prado permanente de uma determinada área, antes do termo do prazo para apresentação do PU para o ano seguinte.
+
+3 - Nos casos em que se verificar que foram convertidas ou lavradas superfícies de prados ambientalmente sensíveis, o beneficiário é notificado da obrigação de reconversão das mesmas e do prazo para o cumprimento dessa obrigação, o qual não deve ser posterior à data prevista para apresentação do PU para o ano seguinte.
+
+###### Artigo 35.º — Manutenção das novas parcelas de prados permanentes
+
+As novas parcelas de prados permanentes que tenham sido objeto de reconversão através de permuta ou em resultado da reconversão nacional, nos termos dos artigos anteriores, ficam obrigadas a permanecer enquanto tal durante os 5 anos seguintes ao facto que lhes deu origem.
+
+### Capítulo IV — Controlos
+
+###### Artigo 36.º — Controlo administrativo e verificações no local
+
+O controlo administrativo e as verificações no local são efetuados com o objetivo de aferir:
+
+a) A exatidão das informações constantes no pedido de ajuda, no pedido de pagamento ou noutras declarações;
+
+b) O cumprimento dos critérios de elegibilidade, compromissos e outras obrigações relativamente às intervenções em causa, ao abrigo das quais são concedidos as ajudas ou a isenção de obrigações;
+
+c) O cumprimento de requisitos e normas aplicáveis no âmbito da condicionalidade, quando aplicável.
+
+###### Artigo 37.º — Verificações no local
+
+1 - As verificações no local podem ser objeto de aviso prévio, com uma antecedência que não excede 14 dias corridos, desde que o seu objetivo não fique comprometido.
+
+2 - Sem prejuízo do disposto no número anterior, em relação aos pedidos de ajuda ‘animal’ ou aos pedidos de pagamento no âmbito de medidas de apoio ‘animal’, o aviso prévio não pode exceder dois dias úteis, salvo em casos devidamente justificados.
+
+3 - (Revogado.)
+
+4 - Os pedidos de ajuda ou os pedidos de pagamento são recusados e excluídos de pagamento ou sujeitos a recuperação se o pagamento já tiver ocorrido, nos casos em que não seja possível proceder à verificação no local dos respetivos critérios e condições de elegibilidade ou dos compromissos assumidos, por razões imputáveis ao beneficiário ou ao seu representante, exceto em casos de força maior e em circunstâncias excecionais, devidamente justificados.
+
+5 - Nos casos das intervenções em que os critérios e condições de elegibilidade podem ser verificados a 100 % através do controlo administrativo ou pelo sistema de vigilância de superfícies (SVS), considera-se cumprida a obrigação de controlo para essa intervenção sem necessidade de recorrer a verificações no local.
+
+6 - No âmbito da condicionalidade, caso não seja possível proceder à verificação no local, na totalidade ou parcialmente, por razões imputáveis ao beneficiário ou ao seu representante, todos os pedidos de ajuda são recusados, exceto em casos de força maior e em circunstâncias excecionais, devidamente justificados.
+
+7 - As verificações no local destinadas ao controlo documental, contabilístico, financeiro e físico são prioritariamente efetuadas nos locais de realização das operações e naqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo da operação aprovado, sem prejuízo do IFAP, I. P., necessitar de aceder a outros locais, nomeadamente junto de entidades diretamente relacionadas com a execução da operação, incluindo fornecedores dos beneficiários ou terceiros subcontratados para efeitos de obtenção de pista de controlo adequada e suficiente.
+
+8 - As verificações no local previstas no número anterior podem ser realizadas à distância, por deliberação do conselho diretivo do IFAP, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2024/1 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/275-2024-891867285), em vigor a partir de 2024-10-22, produz efeitos a partir de 2023-02-28
+
+###### Artigo 38.º — Relatório de verificação no local
+
+1 - Após a realização da verificação no local é efetuado um relatório que permita aferir a exatidão das informações constantes no pedido de ajuda, no pedido de pagamento ou noutras declarações, o cumprimento dos critérios de elegibilidade, os compromissos e outras obrigações.
+
+2 - O relatório de verificação no local deve indicar, nomeadamente:
+
+a) As intervenções, os pedidos de ajuda ou os pedidos de pagamento controlados;
+
+b) As pessoas presentes;
+
+c) Se a verificação no local teve aviso prévio e, em caso afirmativo, o período decorrido entre esse aviso e a realização da verificação;
+
+d) Os resultados das verificações e, se for caso disso, quaisquer observações específicas.
+
+3 - Durante a verificação no local é dado ao beneficiário a possibilidade de atestar a sua presença, mediante assinatura em documento próprio para o efeito apresentado pelo técnico que realiza a verificação no local, no qual pode também acrescentar observações.
+
+4 - O beneficiário tem direito ao conhecimento dos resultados do controlo, mediante acesso ao relatório final.
+
+###### Artigo 39.º — Taxa de controlo
+
+As taxas de controlo para as verificações no local realizadas anualmente são fixadas por deliberação do conselho diretivo do IFAP, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2023 - Diário da República n.º 199/2023, Série I de 2023-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/308-2023-222779384), em vigor a partir de 2023-10-14, produz efeitos a partir de 2023-01-01
+
+###### Artigo 40.º — Seleção da amostra de controlo
+
+1 - Os pedidos ou os beneficiários considerados inadmissíveis para pagamento aquando da apresentação do pedido ou na sequência de controlos administrativos ou das verificações no local não devem fazer parte da população de controlo.
+
+2 - Sem prejuízo do disposto no n.º 5 do artigo 37.º a seleção da amostra deve assegurar que:
+
+a) Entre 20 % e 25 % da população de controlo relativa aos apoios referidos nos artigos 21.º, 28.º, 29.º, 31.º, 32.º, 36.º, 50.º, 55.º, 58.º, 69.º, 70.º, 71.º e 72.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, são selecionados aleatoriamente;
+
+b) A restante amostra de controlo incide sobre os apoios referidos nos artigos 31.º, 32.º, no que se refere à forma de pagamento por animal, 36.º, 50.º, 55.º, 58.º, 69.º, 70.º, 71.º e 72.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, é selecionada com base numa análise de risco.
+
+3 - A eficácia da análise de risco deve ser avaliada e atualizada anualmente, do seguinte modo:
+
+a) Determinando a pertinência de cada fator de risco;
+
+b) Comparando os resultados da amostra baseada no risco e da amostra selecionada aleatoriamente;
+
+c) Tendo em conta a situação específica e, se for caso disso, a evolução dos fatores de risco relevantes;
+
+d) Tendo em conta a natureza do incumprimento que determina um aumento da taxa de controlo.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2024/1 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/275-2024-891867285), em vigor a partir de 2024-10-22, produz efeitos a partir de 2023-02-28
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2023 - Diário da República n.º 199/2023, Série I de 2023-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/308-2023-222779384), em vigor a partir de 2023-10-14, produz efeitos a partir de 2023-01-01
+
+### Capítulo V — Incumprimento
+
+###### Artigo 41.º — Incumprimento das obrigações
+
+Sem prejuízo do disposto na legislação da União Europeia ou na legislação nacional, o incumprimento das obrigações do beneficiário, bem como a inexistência ou a perda de qualquer dos requisitos de concessão da ajuda, podem determinar a redução ou revogação do mesmo, nos termos previstos em regulamentação específica e, caso já tenham sido pagos, a sua recuperação, incluindo juros nos termos legais, quando aplicável.
+
+###### Artigo 42.º — Recuperação dos apoios
+
+Os montantes indevidamente recebidos, designadamente por incumprimento das obrigações legais ou contratuais, pela ocorrência de qualquer irregularidade, por erro no pagamento, bem como a inexistência ou a perda de qualquer requisito de concessão do apoio, constituem dívida do beneficiário, a recuperar termos do disposto no artigo 17.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro.
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 43.º — Procedimentos complementares
+
+Os procedimentos complementares relativos à aplicação do presente Regulamento e os manuais técnicos das ajudas são aprovados pelo conselho diretivo do IFAP, I. P., tendo em conta as especificidades de cada Fundo, e divulgados na área pública no portal do IFAP, I. P., em www.ifap.pt.
+
+###### Artigo 44.º — Aplicação no espaço
+
+O presente Regulamento tem aplicação no território de Portugal Continental, e com as devidas adaptações tendo em consideração os regimes de ajudas específicos, também nos territórios da Região Autónoma dos Açores e da Região Autónoma da Madeira.
+
+## Anexo — (a que se refere o n.º 4 do artigo 20.º e o n.º 3 do artigo 31.º do Regulamento aprovado em anexo à Portaria n.º 54-L/2023, de 27 de fevereiro)
+
+(ver documento original)
+
+116207252
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 482/2025/1 - Diário da República n.º 251/2025, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-2025-993270163), em vigor a partir de 2026-01-01

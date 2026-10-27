@@ -1,0 +1,248 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:434010:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-75114195",
+ "dre_path": "/dr/detalhe/lei/127-1999-434010",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75093945",
+    "75093946",
+    "75093947",
+    "75093948",
+    "75093949",
+    "75093950",
+    "75093951",
+    "75093952",
+    "75093953",
+    "75093954",
+    "75093955",
+    "75093956",
+    "75093957",
+    "75093958",
+    "75093959"
+   ]
+  },
+  {
+   "date": "2004-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:508871:por",
+     "title": "Lei n.º 37/2004",
+     "published": "2004-08-13",
+     "dre_path": "/dr/detalhe/lei/37-2004-508871"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "75093945",
+    "75093946",
+    "75093947",
+    "75093948",
+    "75093961",
+    "75093950",
+    "75093951",
+    "75093952",
+    "75093953",
+    "75093954",
+    "75093955",
+    "75093956",
+    "75093957",
+    "75093958",
+    "75093959",
+    "75093960"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "75093945",
+    "75093946",
+    "75093947",
+    "75093948",
+    "75093961",
+    "75093950",
+    "75093951",
+    "75093952",
+    "75093953",
+    "75093954",
+    "165106116",
+    "75093956",
+    "75093957",
+    "75093958",
+    "75093959",
+    "75093960"
+   ]
+  }
+ ],
+ "fragments": {
+  "75093945": {
+   "fragment_id": "75114196",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 127/99\n\nde 20 de Agosto\n\nLei das Associações de Pessoas Portadoras de Deficiência\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "75093946": {
+   "fragment_id": "75114197",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nA presente lei define os direitos de participação e de intervenção das associações de pessoas portadoras de deficiência, adiante designadas «associações», junto da administração central, regional e local, tendo por finalidade a eliminação de todas as formas de discriminação e a promoção da igualdade entre pessoas portadoras de deficiência e os restantes cidadãos."
+  },
+  "75093947": {
+   "fragment_id": "75114198",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza e fins\n\n1 - As associações são instituições sem fins lucrativos constituídas nos termos da lei geral, dotadas de personalidade jurídica, de âmbito nacional, regional ou local, e que prosseguem os seguintes fins:\n\na) A defesa e promoção dos direitos e interesses das pessoas portadoras de deficiência, em ordem à integração social e familiar dos seus membros, à respectiva valorização e realização pessoal, cívica e profissional;\n\nb) A eliminação de todas as formas de discriminação contra as pessoas portadoras de deficiência;\n\nc) A promoção da efectiva igualdade de tratamento entre as pessoas portadoras de deficiência e os demais cidadãos.\n\n2 - Para efeitos da presente lei, equiparam-se às associações as uniões e federações por elas criadas."
+  },
+  "75093948": {
+   "fragment_id": "75114199",
+   "type": 11,
+   "heading": "Artigo 3.º — Representatividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Representatividade\n\nGozam de representatividade genérica:\n\na) As associações de âmbito nacional;\n\nb) As uniões e federações."
+  },
+  "75093949": {
+   "fragment_id": "75114200",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos de participação e intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direitos de participação e intervenção\n\n1 - As associações, consoante o seu âmbito, têm o direito de participar na definição das políticas e das grandes linhas de orientação legislativa no domínio da reabilitação e integração social das pessoas portadoras de deficiência.\n\n2 - As associações com representatividade genérica gozam de estatuto de parceiro social para todos os efeitos legais, designadamente o de representação no Conselho Nacional de Reabilitação e nos demais órgãos consultivos que funcionem junto de entidades que tenham competência nos domínios da prevenção da deficiência, da reabilitação e da equiparação de oportunidades das pessoas portadoras de deficiência.\n\n3 - Em caso de crime cometido contra pessoa portadora de deficiência, e praticado em razão dessa deficiência, as associações gozam do direito de se constituírem como assistentes nos respectivos processos crime."
+  },
+  "75093950": {
+   "fragment_id": "75114201",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos de consulta e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direitos de consulta e informação\n\n1 - As associações gozam do direito de consulta e informação junto dos órgãos da administração central, regional e local, designadamente em relação a:\n\na) Planos integrados de acção no domínio da reabilitação de pessoas portadoras de deficiência;\n\nb) Políticas, medidas e acções sectoriais, ao nível nacional, regional e local, de reabilitação e integração social da pessoa portadora de deficiência.\n\n2 - As associações têm o direito de solicitar, junto das entidades competentes, as informações que lhes permitam acompanhar o modo de aplicação da legislação referente aos direitos das pessoas portadoras de deficiência e apurar eventuais situações de incumprimento da lei."
+  },
+  "75093951": {
+   "fragment_id": "75114202",
+   "type": 11,
+   "heading": "Artigo 6.º — Dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dever de colaboração\n\nO Estado e as autarquias locais devem colaborar com as associações nos planos e acções que respeitem a prevenção, tratamento, reabilitação e integração das pessoas portadoras de deficiência."
+  },
+  "75093952": {
+   "fragment_id": "75114203",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio às associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio às associações\n\n1 - As associações têm direito ao apoio do Estado através da administração central, regional e local para a prossecução dos seus fins.\n\n2 - O apoio financeiro às associações que o solicitarem será prestado pelo Secretariado Nacional da Reabilitação em condições de igualdade e equidade.\n\n3 - As associações que aufiram o apoio financeiro obrigam-se a apresentar anualmente ao Secretariado Nacional de Reabilitação relatório de actividade e relatório de contas."
+  },
+  "75093953": {
+   "fragment_id": "75114204",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito de antena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direito de antena\n\nAs associações com representatividade genérica têm direito a tempo de antena na rádio e na televisão na qualidade de organizações sociais."
+  },
+  "75093954": {
+   "fragment_id": "75114205",
+   "type": 11,
+   "heading": "Artigo 9.º — Dirigentes associativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dirigentes associativos\n\n1 - Os trabalhadores que sejam dirigentes de associações representadas no Conselho Nacional de Reabilitação poderão ser dispensados do serviço para participarem nas reuniões do mesmo Conselho ou para integrarem grupos de trabalho constituídos no seu âmbito.\n\n2 - As dispensas previstas no número anterior valerão pelo período assinalado pela entidade convocante acrescida do tempo necessário para as deslocações e serão concedidas a pedido dos trabalhadores convocados, só podendo ser denegadas com fundamento em motivos inadiáveis decorrentes do funcionamento dos serviços."
+  },
+  "75093955": {
+   "fragment_id": "75114206",
+   "type": 11,
+   "heading": "Artigo 10.º — Isenções e regalias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Isenções e regalias\n\nAs associações beneficiam:\n\na) Do regime de regalias e isenções fiscais legalmente atribuído às pessoas colectivas de utilidade pública;\n\nb) Da isenção de emolumentos devidos no acto da constituição."
+  },
+  "75093956": {
+   "fragment_id": "75114207",
+   "type": 11,
+   "heading": "Artigo 11.º — Mecenato associativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Mecenato associativo\n\nAos donativos a associações aplicam-se as regras previstas para o mecenato social no Estatuto do Mecenato."
+  },
+  "75093957": {
+   "fragment_id": "75114208",
+   "type": 11,
+   "heading": "Artigo 12.º — Associações já constituídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Associações já constituídas\n\nAs associações legalmente constituídas à data da entrada em vigor da presente lei que pretendam beneficiar do regime nela consignado devem cumprir o disposto no artigo 4.º"
+  },
+  "75093958": {
+   "fragment_id": "75114209",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentação\n\nO Governo regulamentará a presente lei no prazo de 120 dias."
+  },
+  "75093959": {
+   "fragment_id": "75114210",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nAs disposições da presente lei que não carecem de regulamentação entram em vigor imediatamente, excepto as que tenham incidência orçamental, que entrarão em vigor com o Orçamento do Estado para o ano 2000."
+  },
+  "75093961": {
+   "fragment_id": "75114200",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos de participação e intervenção",
+   "in_force_from": "2004-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/37-2004-508871), em vigor a partir de 2004-08-14"
+   ],
+   "markdown": "###### Artigo 4.º — Direitos de participação e intervenção\n\n1 - As associações, consoante o seu âmbito, têm o direito de participar na definição das políticas e das grandes linhas de orientação legislativa no domínio da reabilitação e integração social das pessoas portadoras de deficiência.\n\n2 - As associações com representatividade genérica gozam do estatuto de parceiro social para todos os efeitos legais, designadamente o de representação no Conselho Económico e Social, no Conselho Nacional de Reabilitação e nos demais órgãos consultivos que funcionem junto de entidades que tenham competência nos domínios da prevenção da deficiência, da reabilitação e da equiparação de oportunidades das pessoas portadoras de deficiência.\n\n3 - Em caso de crime cometido contra pessoa portadora de deficiência, e praticado em razão dessa deficiência, as associações gozam do direito de se constituírem como assistentes nos respectivos processos crime.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 37/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/37-2004-508871), em vigor a partir de 2004-08-14"
+  },
+  "75093960": {
+   "fragment_id": "75114211",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 2 de Julho de 1999.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 4 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 12 de Agosto de 1999.\n\nO Primeiro-Ministro, em exercício, Jaime José Matos da Gama."
+  },
+  "165106116": {
+   "fragment_id": "75114206",
+   "type": 11,
+   "heading": "Artigo 10.º — Isenções e regalias",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 10.º — Isenções e regalias\n\nAs associações beneficiam:\n\na) (Revogada);\n\nb) Da isenção de emolumentos devidos no acto da constituição.\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  }
+ }
+}

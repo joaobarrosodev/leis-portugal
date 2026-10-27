@@ -1,0 +1,830 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:325571:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1985-888215803",
+ "dre_path": "/dr/detalhe/portaria/212-1985-325571",
+ "source_lastmod": "2024-09-18",
+ "versions": [
+  {
+   "date": "1985-04-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888179996",
+    "888179997",
+    "888179998",
+    "888179999",
+    "888180000",
+    "888180001",
+    "888180002",
+    "888180003",
+    "888180004",
+    "888180005",
+    "888180006",
+    "888180007",
+    "888180008",
+    "888180009",
+    "888180010",
+    "888180011",
+    "888180012",
+    "888180013",
+    "888180014",
+    "888180015",
+    "888180016",
+    "888180017",
+    "888180018",
+    "888180019",
+    "888180020",
+    "888180021",
+    "888180022",
+    "888180023",
+    "888180024",
+    "888180025",
+    "888180026",
+    "888180027",
+    "888180028",
+    "888180029",
+    "888180030",
+    "888180031",
+    "888180032",
+    "888180033",
+    "888180034",
+    "888180035",
+    "888180036",
+    "888180037",
+    "888180038",
+    "888180039",
+    "888180040",
+    "888180041",
+    "888180042",
+    "888180043",
+    "888180044",
+    "888180045",
+    "888180046",
+    "888180047",
+    "888180048",
+    "888180049",
+    "888180050",
+    "888180051",
+    "888180052"
+   ]
+  },
+  {
+   "date": "1986-11-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221099:por",
+     "title": "Portaria n.º 654/86",
+     "published": "1986-11-04",
+     "dre_path": "/dr/detalhe/portaria/654-1986-221099"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 35.º"
+   ],
+   "fragments": [
+    "888179996",
+    "888179997",
+    "888179998",
+    "888179999",
+    "888180000",
+    "888180001",
+    "888180002",
+    "888180003",
+    "888180004",
+    "888180005",
+    "888180006",
+    "888180007",
+    "888180008",
+    "888180009",
+    "888180010",
+    "888180055",
+    "888180056",
+    "888180013",
+    "888180014",
+    "888180015",
+    "888180016",
+    "888180017",
+    "888180018",
+    "888180057",
+    "888180020",
+    "888180021",
+    "888180022",
+    "888180023",
+    "888180024",
+    "888180025",
+    "888180026",
+    "888180027",
+    "888180028",
+    "888180058",
+    "888180059",
+    "888180031",
+    "888180032",
+    "888180033",
+    "888180034",
+    "888180035",
+    "888180036",
+    "888180073",
+    "888180074",
+    "888218675",
+    "888180040",
+    "888180041",
+    "888180042",
+    "888180043",
+    "888180060",
+    "888180045",
+    "888180046",
+    "888180047",
+    "888180048",
+    "888180049",
+    "888180061",
+    "888218676",
+    "888218677"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:221099:por",
+     "title": "Portaria n.º 654/86",
+     "published": "1986-11-04",
+     "dre_path": "/dr/detalhe/portaria/654-1986-221099",
+     "date": "1986-11-09"
+    }
+   ]
+  },
+  {
+   "date": "1993-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:275615:por",
+     "title": "Portaria n.º 502/93",
+     "published": "1993-05-12",
+     "dre_path": "/dr/detalhe/portaria/502-1993-275615"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "888179996",
+    "888179997",
+    "888179998",
+    "888179999",
+    "888180000",
+    "888180001",
+    "888180002",
+    "888180003",
+    "888180004",
+    "888180005",
+    "888180006",
+    "888180007",
+    "888180008",
+    "888180009",
+    "888180010",
+    "888180055",
+    "888180056",
+    "888180013",
+    "888180014",
+    "888180015",
+    "888218681",
+    "888180017",
+    "888180018",
+    "888180057",
+    "888180020",
+    "888180021",
+    "888180022",
+    "888180023",
+    "888218682",
+    "888180025",
+    "888180026",
+    "888180027",
+    "888180028",
+    "888180058",
+    "888180059",
+    "888180031",
+    "888180032",
+    "888180033",
+    "888180034",
+    "888180035",
+    "888180036",
+    "888180073",
+    "888180074",
+    "888218675",
+    "888180040",
+    "888180041",
+    "888180042",
+    "888180043",
+    "888180060",
+    "888180045",
+    "888180046",
+    "888180047",
+    "888180048",
+    "888180049",
+    "888180061",
+    "888218676",
+    "888218677"
+   ]
+  }
+ ],
+ "fragments": {
+  "888179996": {
+   "fragment_id": "888215804",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 212/85\n\nde 17 de Abril\n\nO anterior regime jurídico das obras de fomento hidroagrícola e respectivo regulamento não continham normas que disciplinassem as relações de trabalho estabelecidas entre as então designadas associações de regantes e beneficiários e os trabalhadores ao seu serviço.\n\nA inexistência dos necessários preceitos normativos determinou, naturalmente, uma situação laboral caracterizada pela indefinição e incerteza.\n\nA entrada em vigor do Decreto-Lei n.º 269/82, de 10 de Julho, que define e classifica as obras de fomento hidroagrícola, e, sobretudo, do Decreto Regulamentar n.º 84/82, de 4 de Novembro (Regulamento das Associações de Beneficiários), veio possibilitar, ao consagrar o modo de estabelecer o estatuto dos trabalhadores daquelas associações, a superação da situação atrás descrita.\n\nNeste sentido, e por despacho conjunto publicado no Diário da República, 2.ª série, n.º 102, de 4 de Maio de 1983, foi constituído um grupo de trabalho a fim de proceder aos estudos de uma portaria conjunta que estabelecesse o regime laboral dos trabalhadores das associações de beneficiários.\n\nEm síntese, os estudos preparatórios atrás referidos, em consequência da aludida indefinição, revestiram-se de algumas dificuldades e apontaram para a necessidade de se proceder a adaptação nas normas gerais do contrato individual de trabalho e à instituição de preceitos definidores de um regime uniforme que tivesse em conta, por um lado, a natureza jurídica das associações de beneficiários como pessoas colectivas de direito público de tipo associativo e, por outro, regalias e direitos individuais já adquiridos.\n\nNestes termos:\n\nManda o Governo da República Portuguesa, pelos Ministros do Trabalho e Segurança Social e da Agricultura, ao abrigo do artigo 55.º do Decreto Regulamentar n.º 84/82, de 4 de Novembro, o seguinte:\n\n1.º É aprovado o Estatuto Laboral dos Trabalhadores das Associações de Beneficiários anexo a esta portaria.\n\n2.º A presente portaria entra em vigor nos termos legais.\n\nMinistérios do Trabalho e Segurança Social e da Agricultura.\n\nAssinada em 25 de Março de 1985.\n\nO Ministro do Trabalho e Segurança Social, Amândio Anes de Azevedo. - O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto.\n\nEstatuto Laboral dos Trabalhadores das Associações de Beneficiários"
+  },
+  "888179997": {
+   "fragment_id": "888215805",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "888179998": {
+   "fragment_id": "888215806",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente Estatuto regula as relações de trabalho estabelecidas entre as Associações de beneficiários e os trabalhadores ao seu serviço."
+  },
+  "888179999": {
+   "fragment_id": "888215807",
+   "type": 11,
+   "heading": "Artigo 2.º — Normas supletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Normas supletivas\n\nNas matérias não previstas no presente Estatuto, as relações de trabalho referidas no artigo anterior são reguladas pelas normas gerais do contrato individual de trabalho."
+  },
+  "888180000": {
+   "fragment_id": "888215808",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições gerais de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições gerais de admissão\n\nSem prejuízo do disposto no anexo I, são condições gerais de admissão:\n\na) Idade mínima não inferior a 15 anos;\n\nb) Escolaridade obrigatória."
+  },
+  "888180001": {
+   "fragment_id": "888215809",
+   "type": 11,
+   "heading": "Artigo 4.º — Classificação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Classificação profissional\n\nOs trabalhadores abrangidos pelo presente Estatuto serão classificados pela entidade patronal segundo as funções efectivamente desempenhadas e de acordo com o disposto no anexo II."
+  },
+  "888180002": {
+   "fragment_id": "888215810",
+   "type": 11,
+   "heading": "Artigo 5.º — Carreiras profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Carreiras profissionais\n\n1 - As carreiras profissionais dos trabalhadores abrangidos pelo presente Estatuto são regulamentadas no anexo I.\n\n2 - Para efeitos de atribuição da classificação de serviços prevista no anexo referido no número anterior, as entidades patronais terão de ter em conta:\n\na) Competência profissional;\n\nb) Zelo e assiduidade;\n\nc) Antiguidade na categoria e na associação;\n\nd) Habilitações profissionais e literárias."
+  },
+  "888180003": {
+   "fragment_id": "888215811",
+   "type": 11,
+   "heading": "Artigo 6.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Período experimental\n\n1 - Durante os primeiros 15 dias de vigência do contrato, e salvo acordo escrito em contrário, qualquer das partes pode fazer cessar unilateralmente o contrato sem aviso prévio nem necessidade de invocação de motivo ou alegação de justa causa, não havendo direito a qualquer indemnização.\n\n2 - O prazo definido no número anterior não se aplica aos cargos ou postos de trabalho em que, pela sua natureza, complexidade técnica ou grau de responsabilidade, só seja possível determinar a aptidão do trabalhador após um período maior de vigência do contrato, a fixar por contrato individual que não poderá, no entanto, exceder 6 meses."
+  },
+  "888180004": {
+   "fragment_id": "888215812",
+   "type": 1,
+   "heading": "Capítulo II — Direitos, deveres e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direitos, deveres e garantias"
+  },
+  "888180005": {
+   "fragment_id": "888215813",
+   "type": 11,
+   "heading": "Artigo 7.º — Deveres da entidade patronal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Deveres da entidade patronal\n\nA entidade patronal deve, quer directamente quer através dos seus representantes:\n\na) Cumprir o disposto no presente Estatuto e na legislação de trabalho aplicável;\n\nb) Fornecer aos trabalhadores os instrumentos necessários e apropriados ao desempenho das respectivas funções;\n\nc) Exigir a cada trabalhador trabalho compatível com a respectiva categoria, sem prejuízo do disposta no artigo 11.º;\n\nd) Não exigir do trabalhador a execução de actos ilícitos ou contrários a regras deontológicas da profissão ou que violem normas sobre higiene e segurança;\n\ne) Proporcionar aos trabalhadores a necessária formação, actualização e aperfeiçoamento profissional;\n\nf) Segurar o trabalhador contra acidentes de trabalho e e doenças profissionais."
+  },
+  "888180006": {
+   "fragment_id": "888215814",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres do trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres do trabalhador\n\nSão deveres do trabalhador:\n\na) Cumprir o disposto no presente Estatuto e na legislação de trabalho aplicável;\n\nb) Usar de urbanidade nas suas relações com a entidade patronal, restantes trabalhadores, beneficiários e utentes;\n\nc) Cumprir e diligenciar para que sejam observadas as normas sobre higiene e segurança de trabalho;\n\nd) Ser pontual e assíduo;\n\ne) Promover ou executar todos os actos tendentes à melhoria da produtividade da associação;\n\nf) Zelar pelo bom estado de conservação dos instrumentos de trabalho e do material que lhe estiverem confiados."
+  },
+  "888180007": {
+   "fragment_id": "888215815",
+   "type": 11,
+   "heading": "Artigo 9.º — Garantias do trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Garantias do trabalhador\n\nÉ vedado à entidade patronal:\n\na) Opor-se por qualquer forma a que o trabalhador exerça os seus direitos ou beneficie das garantias previstas na lei ou neste Estatuto, bem como despedi-lo ou aplicar-lhe sanções por causa desse exercício;\n\nb) Exercer pressão sobre o trabalhador para que actue no sentido de influir desfavoravelmente nas condições de trabalho dele ou dos seus companheiros;\n\nc) Diminuir a retribuição ou baixar a categoria, salvo nos casos previstos na lei geral;\n\nd) Transferir o trabalhador para outro local de trabalho, sem prejuízo do disposto no artigo 14.º;\n\ne) Obrigar o trabalhador a adquirir bens ou utilizar serviços fornecidos pela entidade patronal ou por pessoa por ela indicada;\n\nf) Despedir e readmitir o trabalhador, mesmo com o seu acordo, havendo o propósito de o prejudicar em direitos ou garantias decorrentes da antiguidade."
+  },
+  "888180008": {
+   "fragment_id": "888215816",
+   "type": 11,
+   "heading": "Artigo 10.º — Exercício dos direitos sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Exercício dos direitos sindicais\n\nO exercício dos direitos sindicais regular-se-á pela legislação vigente."
+  },
+  "888180009": {
+   "fragment_id": "888215817",
+   "type": 11,
+   "heading": "Artigo 11.º — Prestação de serviços não compreendidos no objecto do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prestação de serviços não compreendidos no objecto do contrato\n\nA entidade patronal pode, quando o interesse da associação o exija, encarregar temporariamente o trabalhador de serviços não compreendidos no objecto do contrato, desde que tal mudança não implique diminuição da retribuição nem modificação substancial da posição do trabalhador."
+  },
+  "888180010": {
+   "fragment_id": "888215818",
+   "type": 1,
+   "heading": "Capítulo III — Local de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Local de trabalho"
+  },
+  "888180011": {
+   "fragment_id": "888215819",
+   "type": 11,
+   "heading": "Artigo 12.º — Local de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Local de trabalho\n\nO trabalho deve ser prestado no local convencionado ou no que resulte da natureza do serviço ou das circunstanciais do corrente."
+  },
+  "888180012": {
+   "fragment_id": "888215820",
+   "type": 11,
+   "heading": "Artigo 13.º — Deslocações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deslocações\n\n1 - Quando os trabalhadores tenham de se deslocar em serviço para fora da área de trabalho ou dentro desta, quando haja justificação, terão direito ao transporte ou, na sua falta, a subsídio a fixar pela entidade patronal.\n\n2 - Para efeito do disposto na parte final do número anterior, a entidade patronal deverá ter em conta os custos do transporte mais apropriado às necessidades e economia dos serviços."
+  },
+  "888180013": {
+   "fragment_id": "888215821",
+   "type": 11,
+   "heading": "Artigo 14.º — Transferência do trabalhador para outro local de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transferência do trabalhador para outro local de trabalho\n\n1 - A entidade patronal, salvo estipulação em contrário, só pode transferir o trabalhador para outro local de trabalho se essa transferência não causar prejuízo sério ao trabalhador.\n\n2 - A entidade patronal custeará sempre as despesas feitas pelo trabalhador directamente impostas pela transferência."
+  },
+  "888180014": {
+   "fragment_id": "888215822",
+   "type": 1,
+   "heading": "Capítulo IV — Duração do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Duração do trabalho"
+  },
+  "888180015": {
+   "fragment_id": "888215823",
+   "type": 11,
+   "heading": "Artigo 15.º — Período normal de trabalho para os trabalhadores com funções administrativas e técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Período normal de trabalho para os trabalhadores com funções administrativas e técnicas\n\n1 - O período normal de trabalho dos trabalhadores com funções administrativas e técnicas não pode ser superior a 7 horas por dia e a 38 horas e meia por semana.\n\n2 - O período normal de trabalho diário poderá, porém, ser superior ao limite fixado no número anterior quando seja concedido 1 dia de descanso por semana, além do prescrito na lei.\n\n3 - No caso referido no n.º 2 o acréscimo do período normal diário não poderá ser superior a 1 hora."
+  },
+  "888180016": {
+   "fragment_id": "888215824",
+   "type": 11,
+   "heading": "Artigo 16.º — Período normal de trabalho dos restantes trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Período normal de trabalho dos restantes trabalhadores\n\n1 - O período normal de trabalho dos trabalhadores não abrangidos pelo artigo anterior não pode ser superior a 8 horas por dia e a 44 horas por semana.\n\n2 - O período normal de trabalho diário poderá, porém, ser superior ao limite fixado no número anterior quando seja concedido ao trabalhador 1 dia de descanso por semana além do de descanso prescrito na lei.\n\n3 - No caso referido no n.º 2 o acréscimo do período normal de trabalho diário não poderá ser superior a 1 hora."
+  },
+  "888180017": {
+   "fragment_id": "888215825",
+   "type": 11,
+   "heading": "Artigo 17.º — Isenção de horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Isenção de horário de trabalho\n\n1 - Poderão ser isentos de horário de trabalho, mediante requerimento, das entidades patronais, os trabalhadores que exerçam cargos de direcção, de confiança ou de fiscalização.\n\n2 - Os requerimentos de isenção do horário de trabalho, dirigidos ao Ministério do Trabalho e Segurança Social, serão acompanhados de declaração de concordância do trabalhador, bem como dos documentos que sejam necessários para comprovar os factos alegados.\n\n3 - Os trabalhadores isentos de horário de trabalho têm direito à retribuição especial prevista no artigo 29.º"
+  },
+  "888180018": {
+   "fragment_id": "888215826",
+   "type": 11,
+   "heading": "Artigo 18.º — Trabalho suplementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Trabalho suplementar\n\n1 - O regime do trabalho suplementar regula-se pela lei geral com a adaptação constante do número seguinte.\n\n2 - Pela prestação de trabalho suplementar, os trabalhadores apenas terão direito a descanso compensatório remunerado, a gozar num dia útil da semana seguinte ou noutra altura a fixar mediante acordo entre a entidade patronal e o trabalhador, nos casos de prestação daquele trabalho no dia de descanso semanal obrigatório."
+  },
+  "888180019": {
+   "fragment_id": "888215827",
+   "type": 11,
+   "heading": "Artigo 19.º — Trabalho por turnos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Trabalho por turnos\n\n1 - Sempre que as necessidades de serviço o determinarem, em regime de turnos.\n\n2 - Apenas é considerado trabalho em regime de turnos o prestado em turnos de rotação contínua, ou descontínua, em que o trabalhador está sujeito às correspondentes variações de horário de trabalho.\n\n3 - A duração do trabalho de cada turno não pode ultrapassar os limites máximos dos períodos normais de trabalho fixados de harmonia com o disposto nos artigos 15.º e 16.º\n\n4 - O pessoal só poderá ser mudado de turno após o dia de descanso semanal."
+  },
+  "888180020": {
+   "fragment_id": "888215828",
+   "type": 11,
+   "heading": "Artigo 20.º — Trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Trabalho nocturno\n\nConsidera-se nocturno o trabalho prestado no período que decorre entre as 20 horas de um dia e as 7 horas do dia imediato."
+  },
+  "888180021": {
+   "fragment_id": "888215829",
+   "type": 1,
+   "heading": "Capítulo V — Suspensão da prestação do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Suspensão da prestação do trabalho"
+  },
+  "888180022": {
+   "fragment_id": "888215830",
+   "type": 11,
+   "heading": "Artigo 21.º — Descanso semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Descanso semanal\n\nO trabalhador tem direito a 1 dia de descanso por semana, que só excepcionalmente poderá deixar de ser o domingo."
+  },
+  "888180023": {
+   "fragment_id": "888215831",
+   "type": 11,
+   "heading": "Artigo 22.º — Feriados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Feriados\n\n1 - São feriados obrigatórios:\n\n1 de Janeiro;\n\nSexta-Feira Santa;\n\n25 de Abril;\n\n1 de Maio;\n\nCorpo de Deus (festa móvel);\n\n10 de Junho;\n\n15 de Agosto;\n\n5 de Outubro;\n\n1 de Novembro;\n\n1 de Dezembro;\n\n8 de Dezembro;\n\n25 de Dezembro.\n\n2 - O feriado de Sexta-Feira Santa poderá ser observado em outro dia com significado local no período da Páscoa.\n\n3 - Poderão ainda ser observados como feriados a terça-feira de Carnaval e o feriado municipal, se existir.\n\n4 - Em substituição de qualquer dos feriados referidos no número anterior, poderá ser observado, a título de feriado, qualquer outro dia em que acordem a entidade patronal e os trabalhadores."
+  },
+  "888180024": {
+   "fragment_id": "888215832",
+   "type": 11,
+   "heading": "Artigo 23.º — Férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Férias\n\n1 - O direito a férias dos trabalhadores das associações de beneficiários regula-se pela lei geral, com a adaptação prevista no n.º 5.\n\n2 - O período anual de férias dos trabalhadores referidos no número anterior é de 30 dias consecutivos.\n\n3 - A marcação do período de férias deve ser feita por mútuo acordo entre a entidade patronal e o trabalhador.\n\n4 - Na falta de acordo, a marcação do período de férias cabe à entidade patronal.\n\n5 - No caso previsto no número anterior, a entidade patronal deve marcar o período de férias entre 1 de Maio e 31 de Outubro, salvo se existirem graves prejuízos para o serviço."
+  },
+  "888180025": {
+   "fragment_id": "888215833",
+   "type": 11,
+   "heading": "Artigo 24.º — Faltas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Faltas\n\n1 - O regime de faltas regula-se pela lei geral.\n\n2 - São consideradas faltas justificadas:\n\na) As dadas durante 11 dias consecutivos, excluindo os dias de descanso intercorrentes, por ocasião do casamento do trabalhador;\n\nb) As dadas durante 5 dias consecutivos por falecimento do cônjuge não separado de pessoas e bens, parente ou afim no 1.º grau da linha recta;\n\nc) As dadas durante 2 dias consecutivos por falecimento de outro parente ou afim da linha recta ou do 2.º grau da linha colateral ou ainda por falecimento de pessoas que vivam em comunhão de vida e habitação com o trabalhador;\n\nd) As motivadas pela prática de actos necessários e inadiáveis no exercício de funções em associações sindicais ou instituições de previdência e na qualidade de delegado sindical ou de membro da comissão de trabalhadores;\n\ne) As motivadas pela prestação de provas em estabelecimento de ensino;\n\nf) As motivadas por impossibilidade de prestar trabalho devido a facto que não seja imputável ao trabalhador, nomeadamente doença, acidente ou cumprimento de obrigações legais;\n\ng) As prévias ou posteriormente autorizadas pela entidade patronal."
+  },
+  "888180026": {
+   "fragment_id": "888215834",
+   "type": 11,
+   "heading": "Artigo 25.º — Licença sem retribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Licença sem retribuição\n\n1 - A entidade patronal pode atribuir ao trabalhador, a pedido escrito deste, licenças sem retribuição por períodos até 1 ano, prorrogáveis.\n\n2 - O período de licença sem retribuição conta-se para efeitos de antiguidade.\n\n3 - Durante o mesmo período cessam os direitos, deveres e garantias das partes, na medida em que pressuponham a efectiva prestação de trabalho.\n\n4 - O trabalhador beneficiário da licença sem vencimento mantém o direito ao lugar.\n\n5 - Poderá ser contratado um substituto para o trabalhador na situação de licença sem vencimento, nos termos previstos para o contrato a prazo."
+  },
+  "888180027": {
+   "fragment_id": "888215835",
+   "type": 1,
+   "heading": "Capítulo VI — Remuneração do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Remuneração do trabalho"
+  },
+  "888180028": {
+   "fragment_id": "888215836",
+   "type": 11,
+   "heading": "Artigo 26.º — Remunerações mínimas mensais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Remunerações mínimas mensais\n\nA todos os trabalhadores abrangidos pelo presente estatuto são asseguradas as remunerações mínimas constantes do anexo III."
+  },
+  "888180029": {
+   "fragment_id": "888215837",
+   "type": 11,
+   "heading": "Artigo 27.º — Remuneração horária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Remuneração horária\n\nO valor de remuneração horária é determinado pela seguinte fórmula:\n\n(Rm x 12)/(52 x n)\n\nsendo Rm o valor da remuneração mensal e n o período normal de trabalho semanal a que o trabalhador estiver obrigado."
+  },
+  "888180030": {
+   "fragment_id": "888215838",
+   "type": 11,
+   "heading": "Artigo 28.º — Remunerações por exercício de funções inerentes a diversas profissões ou categorias profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Remunerações por exercício de funções inerentes a diversas profissões ou categorias profissionais\n\nQuando algum trabalhador exercer funções inerentes a diversas profissões ou categorias profissionais terá direito, enquanto as executar, à remuneração mais elevada das estabelecidas para essas profissões ou categorias profissionais."
+  },
+  "888180031": {
+   "fragment_id": "888215839",
+   "type": 11,
+   "heading": "Artigo 29.º — Retribuição especial para os trabalhadores isentos de horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Retribuição especial para os trabalhadores isentos de horário de trabalho\n\nOs trabalhadores isentos de horário de trabalho têm direito a uma remuneração especial igual a 20% da retribuição mensal."
+  },
+  "888180032": {
+   "fragment_id": "888215840",
+   "type": 11,
+   "heading": "Artigo 30.º — Remuneração de trabalho suplementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Remuneração de trabalho suplementar\n\n1 - O trabalho suplementar prestado em dia normal de trabalho será remunerado com os seguintes acréscimos:\n\na) 50% da remuneração normal, na primeira hora;\n\nb) 75% da retribuição normal, nas horas ou fracções subsequentes.\n\n2 - O trabalho suplementar prestado em dia de descanso semanal, obrigatório ou complementar, e em dia feriado será remunerado com o acréscimo mínimo de 100% da retribuição normal."
+  },
+  "888180033": {
+   "fragment_id": "888215841",
+   "type": 11,
+   "heading": "Artigo 31.º — Subsídio de turno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Subsídio de turno\n\n1 - A prestação de trabalho em regime de turno confere direito aos seguintes complementos de retribuição, calculados com base na retribuição mensal efectiva:\n\na) Em regime de 2 turnos em que apenas um seja totalmente ou parcialmente nocturno, 20%;\n\nb) Em regime de 3 turnos ou de 2 turnos total ou parcialmente nocturno, 25%.\n\n2 - O complemento de retribuição previsto no número anterior inclui o acréscimo de retribuição pelo trabalho nocturno prestado em regime de turnos."
+  },
+  "888180034": {
+   "fragment_id": "888215842",
+   "type": 11,
+   "heading": "Artigo 32.º — Remuneração do trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Remuneração do trabalho nocturno\n\nA retribuição do trabalho nocturno será superior em 25% à retribuição a que dá direito o trabalho equivalente prestado durante o dia."
+  },
+  "888180035": {
+   "fragment_id": "888215843",
+   "type": 11,
+   "heading": "Artigo 33.º — Retribuição durante as férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Retribuição durante as férias\n\n1 - A retribuição correspondente ao período de férias não pode ser inferior à que os trabalhadores receberiam se estivessem em serviço efectivo e deve ser paga antes do início daquele período.\n\n2 - Além da retribuição mencionada no número anterior, os trabalhadores abrangidos pelo presente Estatuto têm direito a um subsídio de férias de montante igual ao dessa retribuição."
+  },
+  "888180036": {
+   "fragment_id": "888215844",
+   "type": 11,
+   "heading": "Artigo 34.º — Subsídio de Natal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Subsídio de Natal\n\n1 - Todos os trabalhadores abrangidos por este Estatuto têm direito a um subsídio de Natal de montante igual ao da retribuição mensal.\n\n2 - Os trabalhadores que no ano da admissão não tenham concluído um ano de serviço terão direito a tantos duodécimos daquele subsídio quantos os meses de serviço que completarem até 31 de Dezembro desse ano.\n\n3 - Suspendendo-se o contrato de trabalho por impedimento prolongado do trabalhador, este terá direito:\n\na) No ano de suspensão, a um subsídio de Natal de montante proporcional ao número de meses completos de serviço prestado nesse ano;\n\nb) No ano de regresso à prestação de trabalho, a um subsídio de Natal de montante proporcional ao número de meses completos de serviço até 31 de Dezembro, a contar da data de regresso.\n\n4 - Cessando o contrato de trabalho, a entidade patronal pagará ao trabalhador a parte de um subsídio de Natal proporcional ao número de meses completos de serviço no ano da cessação.\n\n5 - O subsídio de Natal será pago até 15 de Dezembro de cada ano, salvo no caso de cessação do contrato de trabalho, em que o pagamento se efectuará na data da cessação referida."
+  },
+  "888180037": {
+   "fragment_id": "888215845",
+   "type": 11,
+   "heading": "Artigo 35.º — Diuturnidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Diuturnidades\n\n1 - Os trabalhadores que estejam a prestar serviço com carácter de permanência e em regime de tempo completo têm direito a uma diuturnidade de 1200$00 por cada 5 anos de serviço, até ao limite de 5 diuturnidades.\n\n2 - Para a atribuição das diuturnidades será levado em conta todo o tempo de serviço prestado desde o início da exploração das obras, independentemente do organismo responsável pelas mesmas, bem como o tempo de serviço prestado anteriormente em associações de regantes e beneficiários.\n\n3 - As diuturnidades acrescem à retribuição efectiva."
+  },
+  "888180038": {
+   "fragment_id": "888215846",
+   "type": 11,
+   "heading": "Artigo 36.º — Subsídio de refeição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Subsídio de refeição\n\n1 - Os trabalhadores abrangidos pelo presente Estatuto terão direito, por cada dia de trabalho efectivamente prestado, a um subsídio de refeição no valor de 150$00.\n\n2 - Não haverá lugar à atribuição do subsídio de refeição designadamente nas seguintes situações de faltas e licenças:\n\na) Férias;\n\nb) Doença;\n\nc) Casamento;\n\nd) Nojo;\n\ne) Assistência a familiares;\n\nf) Faltas injustificadas;\n\ng) No exercício do direito à greve;\n\nh) Por aplicação de suspensão preventiva e no cumprimento de penas disciplinares.\n\n3 - O valor do subsídio referido no n.º 1 não será ainda considerado para cálculo dos subsídios de férias e de Natal."
+  },
+  "888180039": {
+   "fragment_id": "888215847",
+   "type": 11,
+   "heading": "Artigo 37.º — Abono para falhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Abono para falhas\n\n1 - Aos trabalhadores com responsabilidade efectiva de caixa será atribuído um abono mensal para falhas de 1000$00.\n\n2 - Sempre que os trabalhadores referidos no número anterior sejam substituídos no desempenho das respectivas funções, por período igual ou superior a 15 dias, o abono para falhas reverterá para o substituto na proporção do tempo de substituição."
+  },
+  "888180040": {
+   "fragment_id": "888215848",
+   "type": 1,
+   "heading": "Capítulo VII — Condições particulares de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Condições particulares de trabalho"
+  },
+  "888180041": {
+   "fragment_id": "888215849",
+   "type": 11,
+   "heading": "Artigo 38.º — Direitos especiais das mulheres e dos pais trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Direitos especiais das mulheres e dos pais trabalhadores\n\nAlém do disposto para a generalidade dos trabalhadores, são assegurados às mulheres e aos pais trabalhadores os direitos conferidos pela lei geral para a protecção da maternidade e da paternidade e da função genética."
+  },
+  "888180042": {
+   "fragment_id": "888215850",
+   "type": 11,
+   "heading": "Artigo 39.º — Trabalho de menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Trabalho de menores\n\n1 - A entidade patronal deve proporcionar aos menores que se encontram ao seu serviço condições de trabalho adequadas à sua idade, prevenindo de modo especial quaisquer danos ao seu desenvolvimento físico, espiritual ou moral.\n\n2 - É vedado à entidade patronal encarregar menores de serviços que exijam esforços prejudiciais à sua saúde e normal desenvolvimento."
+  },
+  "888180043": {
+   "fragment_id": "888215851",
+   "type": 11,
+   "heading": "Artigo 40.º — Trabalhadores-estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Trabalhadores-estudantes\n\nOs deveres e os direitos dos trabalhadores-estudantes são os consagrados na lei em vigor."
+  },
+  "888180044": {
+   "fragment_id": "888215852",
+   "type": 1,
+   "heading": "Capítulo VIII — Cessação do contrato do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Cessação do contrato do trabalho"
+  },
+  "888180045": {
+   "fragment_id": "888215853",
+   "type": 11,
+   "heading": "Artigo 41.º — Cessação do contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Cessação do contrato de trabalho\n\n1 - O regime de cessação do contrato de trabalho regula-se pela lei geral.\n\n2 - A cessação implica desocupação da habitação se esta estiver afecta aos fins prosseguidos pela entidade patronal."
+  },
+  "888180046": {
+   "fragment_id": "888215854",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições finais"
+  },
+  "888180047": {
+   "fragment_id": "888215855",
+   "type": 11,
+   "heading": "Artigo 42.º — Segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Segurança social\n\nO regime de segurança social dos trabalhadores das associações de beneficiários é o regime geral de segurança social para os trabalhadores das empresas privadas."
+  },
+  "888180048": {
+   "fragment_id": "888215856",
+   "type": 11,
+   "heading": "Artigo 43.º — Revisão das remunerações de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Revisão das remunerações de trabalho\n\nA tabela de remunerações mínimas e as disposições de natureza pecuniária poderão ser revistas anualmente por portaria conjunta dos Ministérios da Agricultura e do Trabalho e Segurança Social."
+  },
+  "888180049": {
+   "fragment_id": "888215857",
+   "type": 11,
+   "heading": "Artigo 44.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Produção de efeitos\n\n1 - O presente Estatuto começa a produzir efeitos a partir do início de vigência da portaria que o aprovou.\n\n2 - Exceptuam-se do disposto no número anterior as regras relativas a acessos e carreiras profissionais previstos no anexo I, que só começarão a produzir efeitos a partir do primeiro dia do segundo ano da entrada em vigor da portaria referida no n.º 1."
+  },
+  "888180050": {
+   "fragment_id": "888215858",
+   "type": 14,
+   "heading": "Anexo I — Carreiras profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Carreiras profissionais\n\nCondições específicas\n\nAgente técnico agrícola\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de agente técnico agrícola são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Habilitações correspondentes aos cursos das antigas e actuais estruturas do ensino secundário agrícola terminal, bem como a outros cursos nacionais ou estrangeiros oficialmente considerados como equivalentes.\n\nAcesso e carreira. - 1 - O agente técnico agrícola será admitido como agente técnico agrícola de 2.ª classe.\n\n2 - O agente técnico agrícola de 2.ª classe será promovido à categoria de agente técnicos agrícola de 1.ª classe, desde que complete 5 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em mérito e competência profissional, o agente técnico agrícola de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de agente técnico agrícola principal.\n\nCantoneiro de conservação\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de cantoneiro de conservação são as seguintes:\n\na) Idade mínima não inferior a 16 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O cantoneiro de conservação será admitido como cantoneiro de conservação de 2.ª classe.\n\n2 - O cantoneiro de conservação de 2.ª classe será promovido à categoria de cantoneiro de conservação de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nCantoneiro de rega\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de cantoneiro de rega são as seguintes:\n\na) Idade mínima não inferior a 21 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O cantoneiro de rega será admitido como cantoneiro de rega de 2.ª classe.\n\n2 - O cantoneiro de rega de 2.ª classe será promovido à categoria de cantoneiro de rega de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nContínuo\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de contínuo são as seguintes:\n\na) Idade mínima não inferior a 16 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O contínuo será admitido como contínuo de 2.ª classe.\n\n2 - O contínuo de 2.ª classe será promovido à categoria de contínuo de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nCondutor de máquinas\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de condutor de máquinas são as seguintes:\n\na) Idade mínima 18 anos;\n\nb) Experiência e habilitações profissionais adequadas.\n\nAcesso e carreira. - 1 - O condutor de máquinas será admitido como condutor de máquinas de 2.ª classe.\n\n2 - O condutor de máquinas de 2.ª classe será promovido à categoria de condutor de máquinas de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nDesenhador\n\nAdmissão. - As condições mínimos de admissão para o exercício da profissão de desenhador são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Formação escolar de nível secundário, curso geral ou complementar.\n\nAcesso e carreira. - 1 - O desenhador será admitido como desenhador de 2.ª classe.\n\n2 - O desenhador de 2.ª classe será promovido à categoria de desenhador de 1.ª classe, desde que complete 5 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em mérito e competência profissional, o desenhador de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de desenhador principal.\n\nElectricista\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de electricista são as seguintes:\n\na) Idade mínima não inferior a 15 anos;\n\nb) Escolaridade obrigatória;\n\nAprendizagem. - 1 - A aprendizagem far-se-á sob a responsabilidade de um profissional com a categoria de electricista principal, de 1.ª classe ou de 2.ª classe, sempre que a associação não possua serviços de formação profissional.\n\n2 - A duração da aprendizagem será de 3 anos, findos os quais os aprendizes ascenderão obrigatoriamente a ajudante de electricista.\n\n3 - O aprendiz com mais de 18 anos de idade ascenderá à categoria de ajudante de electricista, desde que permaneça um mínimo de 12 meses como aprendiz.\n\n4 - Para efeitos do disposto nos n.os 2 e 3 deverão ser tidos em conta os períodos de frequência de cursos ministrados em centros de aprendizagem oficialmente reconhecidos.\n\nAcesso e carreira. - 1 - Será admitido como ajudante de electricista o trabalhador diplomado com curso ministrado em centro de formação profissional oficialmente reconhecido.\n\n2 - O ajudante de electricista que tenha completado um período máximo de 2 anos nesta categoria será promovido a electricista de 3.ª classe.\n\n3 - O electricista de 3.ª classe e o de 2.ª classe serão, respectivamente, promovidos a electricista de 2.ª classe e de 1.ª classe, desde que completem 3 anos de bom e efectivo serviço naquelas categorias.\n\n4 - Mediante proposta fundamentada em mérito e competência profissional, o electricista de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido A categoria de electricista principal.\n\nEmpregado de escritório\n\nCondições mínimas gerais de admissão. - 1 - As idades mínimas para admissão de trabalhadores de escritório são as seguintes:\n\na) 21 anos para caixa;\n\nb) 16 anos para as restantes profissões ou categorias profissionais.\n\n2 - As habilitações mínimas exigíveis para a admissão de trabalhadores com as profissões de caixa, dactilógrafo e escriturário são o curso geral dos liceus ou o curso geral do comércio e os cursos oficiais ou oficializados que não tenham duração inferior à daqueles ou cursos equivalentes.\n\nEstágio. - 1 - O ingresso na profissão de escriturário poderá ser precedido de estágio.\n\n2 - Os estagiários para escriturário são promovidos a escriturários de 3.ª classe logo que completem 2 anos de estágio, sem prejuízo do disposto no número seguinte.\n\n3 - Para os trabalhadores admitidos com idade igual ou superior a 21 anos ou que completem 21 anos durante o estágio este não poderá exceder 1 ano.\n\nAcesso e carreira. - 1 - O dactilógrafo será admitido como dactilógrafo de 2.ª classe.\n\n2 - O dactilógrafo de 2.ª classe e o escriturário de 3.ª classe serão promovidos à categoria de dactilógrafo de 1.ª classe e escriturário de 2.ª classe, desde que completem 3 anos de bom e efectivo serviço naquelas categorias.\n\n3 - O escriturário de 2.ª classe será promovido a escriturário de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\n4 - Mediante proposta fundamentada em mérito e competência profissional, o dactilógrafo de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de principal.\n\nEngenheiro técnico agrário\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de engenheiro técnico agrário são as seguintes:\n\na) Idade mínima não inferior a 21 anos;\n\nb) Habilitações correspondentes ao grau de bacharel ou equiparado, obtido em curso superior de Engenharia em escolas nacionais e estrangeiras oficialmente reconhecidas.\n\nAcesso e carreira. - 1 - O engenheiro técnico agrário será admitido como engenheiro técnico agrário de 2.ª classe.\n\n2 - O engenheiro técnico agrário de 2.ª classe será promovido à categoria imediatamente superior, desde que complete 5 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em matéria e competência profissional, o engenheiro técnico agrário de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de principal.\n\nFiel de armazém\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de fiei de armazém são as seguintes:\n\na) Idade mínima não inferior a 21 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O fiel auxiliar que tenha completado um período máximo de 3 anos será promovido à categoria de fiel de 1.ª classe.\n\n2 - Mediante proposta fundamentada em mérito e competência profissional, o fiel de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de fiel principal.\n\nFiscal de rega\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de fiscal de rega são as seguintes:\n\na) Idade mínima não inferior a 21 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O fiscal de rega será admitido como fiscal de rega de 2.ª classe.\n\n2 - O fiscal de rega de 2.ª classe será promovido à categoria de fiscal de rega de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em mérito e competência profissional, o fiscal de rega de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço na categoria poderá ser promovido à categoria de fiscal de rega principal.\n\nGuarda\n\nAdmissão. - As condições mínimas de admissão para a profissão de guarda são as seguintes:\n\na) Idade mínima não inferior a 21 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O guarda será admitido como guarda de 2.ª classe.\n\n2 - O guarda de 2.ª classe será promovido à categoria de guarda de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nMotorista\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de motorista são as seguintes:\n\na) Habilitações literárias exigidas por lei;\n\nb) Carta de condução profissional.\n\nAcesso e carreira. - 1 - O motorista será admitido como motorista de 2.ª classe.\n\n2 - O motorista de 2.ª classe será promovido à categoria de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nOperador de estação elevatória\n\nAdmissão. - As condições mínimas para o exercício da profissão de operador de estação elevatória são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O operador de estação elevatória será admitido como operador de estação elevatória de 2.ª classe.\n\n2 - O operador de estação elevatória de 2.ª classe será promovido à categoria de operador de estação elevatória de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nPorta-miras\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de porta-miras são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O porta-miras será admitido como porta-miras de 2.ª classe.\n\n2 - O porta-miras de 2.ª clame será promovido à categoria de porta-miras de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nTelefonista\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de telefonista são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O telefonista será admitido como telefonista de 2.ª classe.\n\n2 - O telefonista de 2.ª classe será promovido à categoria de telefonista de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em mérito e competência profissional, o telefonista de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de telefonista principal.\n\nTopógrafo\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão, de topógrafo são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Formação escolar de nível secundário, curso geral ou complementar ou formação escolar de nível superior, com conhecimentos e experiência de topografia.\n\nAcesso e carreira. - 1 - O topógrafo será admitido como topógrafo de 2.ª classe.\n\n2 - O topógrafo de 2.ª classe será promovido à categoria de topógrafo de 1.ª classe, desde que complete 5 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em mérito e competência profissional, o topógrafo de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria, poderá ser promovido à categoria de topógrafo principal.\n\nTrabalhadores metalúrgicos e da construção civil\n\nAdmissão. - As condições mínimas de admissão para o exercício das profissões de mecânico, serralheiro civil, serralheiro mecânico, carpinteiro e pedreiro são:\n\na) Idade mínima não inferior a 15 anos;\n\nb) Escolaridade obrigatória.\n\nAprendizagem. - 1 - A aprendizagem far-se-á sob a responsabilidade de um profissional com a categoria de principal, 1.ª classe ou 2.ª classe, sempre que a associação não possua serviços de formação profissional.\n\n2 - A duração da aprendizagem será de 3 anos, findos os quais os aprendizes ascenderão obrigatoriamente a ajudante de mêcanico, de serralheiro civil, de serralheiro mecânico, de carpinteiro e de pedreiro.\n\n3 - O aprendiz com mais de 18 anos de idade ascenderá à categoria de ajudante, desde que permaneça um mínimo de 12 meses como aprendiz.\n\n4 - Para efeitos do disposto nos n.os 2 e 3, deverão ser tidos em conta os períodos de frequência de cursos ministrados em centros de aprendizagem oficialmente reconhecidos.\n\nAcesso e carreira. - 1 - Serão admitidos como ajudantes os trabalhadores que possuam cursos ministrados em centros de aprendizagem oficialmente reconhecidos.\n\n2 - Os ajudantes que tenham completado, um período máximo de 2 anos nesta categoria serão promovidos a mecânico, a serralheiro civil, a serralheiro mecânico, a carpinteiro e a pedreiro de 3.ª classe\n\n3 - O mecânico, o serralheiro civil, o serralheiro mecânico, o carpinteiro e o pedreiro, de 3.ª classe e de 2.ª classe, serão promovidos à categoria imediatamente superior, desde que completem 3 anos de bom e efectivo serviço naquelas categorias.\n\n4 - Mediante proposta fundamentada em mérito e competência profissional, o mecânico, o serralheiro civil, o serralheiro mecânico, o carpinteiro e o pedreiro, de 1.ª classe, com, pelo menos, 5 anos de bom e efectivo serviço nestas categorias, poderão ser promovidos à categoria de principal.\n\nTractorista\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de tractorista são as seguintes:\n\na) Idade mínima de 18 anos;\n\nb) Experiência e habilitações profissionais adequadas.\n\nCarreira. - Mediante proposta fundamentada em mérito e competência profissional, o tractorista com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de tractorista principal."
+  },
+  "888180051": {
+   "fragment_id": "888215859",
+   "type": 14,
+   "heading": "Anexo II — Definição de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Definição de funções\n\nAgente técnico agrícola. - Coordena a execução das diferentes tarefas relativas aos sistemas de regadio, defesa e enxugo, controla os trabalhos de campo que lhe forem confiados, nomeadamente levantamento da carta agrícola, trabalhos topográficos, bem como trabalhos de gabinete a ele ligados; elabora cartas de aproveitamento cultural.\n\nAjudante de encarregado de barragem. - Colabora nas funções desempenhadas pelo encarregado de barragem, podendo substituí-lo nas suas ausências e impedimentos. Pode desempenhar tarefas ligadas à conservação.\n\nCaixa. - Paga e recebe verbas diversas e elabora folhas de caixa, paga os recibos visados que lhe são entregues, certificando-se da importância registada; recebe quantias em numerário ou cheque dos beneficiários e utentes da associação referentes a cobrança de taxas de exploração e conservação, de quotas, de importâncias relativas ao aluguer de máquinas agrícolas e de outros serviços prestados; emite cheques, anotando a respectiva importância, o nome do destinatário e a data de emissão; elabora folhas de caixa, registando os quantitativos recebidos e pagos diariamente a fim de apurar o saldo de caixa.\n\nCantoneiro de conservação. - Executa tarefas, relativas à limpeza e conservação da rede de rega e de enxugo; limpa comportas, poços, caixas de água, adufas e outros, removendo para o exterior os detritos acumulados; decapa a ferrugem e pinta com tinta apropriada os diferentes órgãos das estruturas.\n\nCantoneiro de rega. - Executa os seguintes trabalhos de rega e de conservação: distribui a água de rega pelos agricultores e executa os trabalhos de conservação da respectiva rede; controla os volumes de água segundo instruções recebidas superiormente e a pedido dos regantes; faz o regime das águas fornecidas e efectua a limpeza das tomadas e dos canais; colabora nas medições feitas com vista à elaboração da carta agrícola onde são indicadas as áreas regadas e o tipo de cultura; pinta, lubrifica e procede à conservação geral canais.\n\nCarpinteiro. - Trabalha predominantemente em madeira, com ferramentas manuais ou mecânicas, executando, montando e reparando estruturas ou outras obras de madeira: executa cofragens para construção de caixas de rega; executa moldes para remendos em condutas; executa e repara móveis, janelas, portas e caixilhos.\n\nChefe dos serviços administrativos (chefe de secção). - Orienta e executa as tarefas exercidas no escritório, nomeadamente as referentes a gestão contabilística, tesouraria e pessoal: elabora orçamentos ordinários e suplementares com base nas receitas e despesas; efectua a escrituração dos livros de contabilidade, lançando em livro o «deve e haver», conferindo as facturas e classificando documentos; participa na elaboração do relatório anual, redigindo o respeitante à administração financeira; orienta os contactos e ou contacta com diferentes entidades, nomeadamente fornecedores e utentes, a fim de obter materiais, liquidação de débitos e outros; administra as receitas e os bens entregues à sua administração; remete às secções de finanças dos concelhos respectivos, para efeitos de cobrança, os mapas de liquidação das taxas de beneficiação e respectivos recibos.\n\nCondutor de máquinas. - Conduz e manobra máquinas de escavação e terraplenagem, a fim de escavar, desassorear e remover terras, dando aos terrenos o nivelamento e a configuração requeridos e verifica o bom funcionamento da máquina, observando níveis de óleo, água e outros.\n\nContínuo. - Anuncia, acompanha e informa os visitantes; faz a entrega de mensagens e objectos inerentes ao serviço interno; estampilha e entrega correspondência, além de a distribuir aos serviços a que é destinada. Pode executar o serviço de reprodução e endereçamento de documentos.\n\nDactilógrafo. - Escreve à máquina textos escritos ou ditados: dactilografa correspondência, recibos, pagamentos, notas e textos baseados em documentos escritos ou informações que lhe são ditadas ou comunicadas por outros meios. Pode desempenhar funções de arquivo.\n\nDesenhador. - Desenha cartas agrícolas e outras, sendo o responsável pelo desenho e cartografia: transcreve em papel adequado a carta topográfica da região; reproduz as cartas nas quantidades pretendidas, utilizando uma xerocopiadora; desenha em papel apropriado alterações a várias obras, ampliando, reduzindo ou introduzindo modificações nas mesmas; actualiza anualmente as cartas agrícolas introduzindo modificações em caminhos, terrenos e valas quando for caso disso.\n\nElectricista. - Instala, conserva e repara circuitos e aparelhagem eléctrica, guiando, frequentemente, a sua actividade por desenhos, esquemas ou outras especificações técnicas que interpreta.\n\nEncarregado de barragem. - Zela pela manutenção dos mecanismos que accionam os órgãos de segurança da barragem a fim de a manter em perfeito estado de funcionamento: manobra, quando autorizado, os órgãos de segurança da barragem, designadamente descarga de fundo, descarga de superfície e tomadas de água; executa a regulação dos caudais necessários à rega ou a outros fins, de acordo com as orientações recebidas; zela pela manutenção de comportas e quadros de manobra, providenciando pela sua pintura e lubrificação. Pode fazer a leitura e registo dos dados dos postos meteorológicos.\n\nEncarregado de barragem, com central eléctrica. - Zela pela manutenção dos mecanismos que accionam os órgãos de segurança da barragem e pela manutenção da rede de energia eléctrica a fim de a manter em perfeito estado de funcionamento: controla a rede de distribuição de energia eléctrica, aérea e subterrânea, fazendo vistorias periódicas a fim de detectar anomalias; manobra, quando autorizado, os órgãos de segurança da barragem, designadamente descarga de fundo, descarga de superfície e tornadas de água; executa a regulação dos caudais necessários à rega ou outros fim de acordo com as orientações dadas; zela pela manutenção de comportas, quadros de manobra e motores eléctricos, desmontando-os, quando for caso disso, a fim de os pintar ou efectuar lubrificações. Pode fazer a leitura e registo dos dados dos postos meteorológicos.\n\nEncarregado electricista de central. - Trabalhador electricista que dirige, controla e coordena a execução dos serviços de um grupo de trabalhadores electricistas nos vários locais de trabalho: zela pela manutenção da rede de energia eléctrica e pelo funcionamento dos órgãos das centrais eléctricas.\n\nEncarregado geral de máquinas. - Coordena o funcionamento do parque de máquinas: providência pela manutenção, reparação e distribuição das máquinas aos utentes da associação; distribui as máquinas para os trabalhos agrícolas, tendo por base a inscrição prévia dos interessados; distribui serviço aos tractoristas, condutores de máquinas e motoristas; orienta o serviço de, reparação de máquinas, controlando a respectiva reparação nos seus aspectos específicos; zela pela conservação do parque de máquinas e viaturas.\n\nEngenheiro técnico agrário. - Realiza estudos e projectos e coordena as diferentes tarefas relativas ao regadio e drenagem dos terrenos, podendo, quando tais funções lhe forem cometidas, coordenar a exploração e conservação da obra: dirige as tarefas relativas ao regadio o drenagem de terrenos, tais como distribuição de água, excessos de água, roturas, entupimentos e abastecimento das albufeiras; controla as reparações de canais, limpezas, pinturas e outras; executa trabalhos topográficos, nomeadamente medições de áreas, perfis de terrenos e levantamentos topográficos, efectuando os cálculos necessários; colabora na realização da carta agrícola, efectuando levantamentos e medições de áreas; estuda os nivelamentos dos terrenos, realizando os cálculos de volumes e de escavações necessários. Pode desempenhar outras funções no âmbito dos seus conhecimentos. Pode ser responsável pela parte técnica e ou administrativa.\n\nEscriturário. - Executa tarefas de natureza administrativa necessárias ao funcionamento corrente do escritório: efectua o expediente geral de escritório, tal como dactilografia e registo em livros apropriados da correspondência geral, cálculo de vencimentos e cálculos dos volumes de água fornecidos aos regantes a partir dos elementos obtidos pelos cantoneiros; arquiva a correspondência em lugar apropriado, classificando-a e ordenando-a; contabiliza manualmente e à máquina os elementos referentes a salários, descontos legais e as regalias sociais dos trabalhadores, bem como a utilização das máquinas pelos associados; elabora fichas de conta corrente dos utentes para posterior cobrança; calcula o volume de água armazenada nas albufeiras e respectivas variações, devendo os registos ser enviados à Direcção-Geral de Hidráulica e Engenharia Agrícola. Pode, eventualmente, exercer funções de caixa.\n\nFiel de armazém. - Regista no armazém as entradas e saídas de materiais, ferramentas e produtos, controla e responde pelas existências: mantém o armazém apetrechado com os materiais e ferramentas necessários, requisitando aqueles cujos stocks diminuam; entrega ferramentas, óleos o outros materiais a partir de requisições que lhe são apresentadas; regista, em impresso apropriado, os consumos de óleo, massas e outros lubrificantes destinados às diferentes máquinas; anota periodicamente, em impressos, as existências em armazém.\n\nFiscal de rega. - Coordena e fiscaliza os trabalhos de rega e conservação dentro da área que lhe é atribuída: executa o planeamento da manutenção e conservação dos canais, caixas de rega e restante rede; procede à distribuição do pessoal necessário às várias tarefas e requisita o material necessário; vigia e comunica superiormente as alterações do nível de água nos canais; distribui e fiscaliza o pessoal pelos canais de rega, a fim de se proceder à correcta distribuição da água, segundo os podidos existentes; confere os registos da água de rega fornecida aos regantes; acompanha o processo de rega e comunica todas as anomalias; elabora a carta agrícola da sua zona a fim de apurar a extensão da área regada e o tipo de cultura praticada; preenche folhas do pessoal com determinados elementos, tais como férias, dias de trabalho, presenças e abonos.\n\nGuarda. - Assegura a defesa, vigilância e conservação das instalações do escritório e ou das instalações gerais da empresa, bem como de outros valores que lhe estejam confiados, e ou exerce vigilância na obra de irrigação, numa área determinada.\n\nMecânico. - Repara e conserva vários tipos de máquinas, motores e outros conjuntos mecânicos, geralmente de metal. Por vezes, solda determinadas peças utilizando processo adequado.\n\nMotorista de pesados. - Conduz viaturas pesadas e ligeiras para o que possui carta de condução profissional: conduz as viaturas, manobrando os diferentes comandos, de acordo com os modelos e marcas, observando o preceituado na lei; zela pela boa conservação das viaturas e pela carga que transporta e colabora na sua manutenção, nomeadamente nas lubrificações, mudanças de óleo e pequenas reparações.\n\nOperador de estação elevatória. - Manobra os quadros de comando dos motores eléctricos, faz leituras periódicas e abre as tomadas de água, a fim de a distribuir pelos diferentes canais: liga os motores eléctricos, abrindo as válvulas de segurança, para elevar a água e abastecer o canal de rega; desloca-se nas bermas do canal, abrindo as tomadas de água, a fim de a distribuir conforme as requisições dos, regantes; regista os caudais em impresso, a fim de calcular os volumes respectivos; zela pela conservação e limpeza dos canais, grelhas e equipamentos da estação.\n\nPedreiro. - Levanta e repara paredes, manilhas, caixas de rega, edificações pertencentes à associação, utilizando ferramentas apropriadas: repara paredes, utilizando ponteiros e macetas, a fim de as nivelar; espalha o cimento nas paredes tendo o cuidado de que fiquem niveladas; pinta-as com tinta ou cal branca; assenta e repara manilhas no interior das valas, fazendo os moldes necessários e as respectivas caixas de protecção; constrói caixas de rega, utilizando moldes com cimento no interior, a fim de dar a consistência devida; assenta torneiras, adufas de boca e de fundo, módulos e comportas, construindo as cofragens das mesmas.\n\nPorta-miras. - Transporta e posiciona a mira nos terrenos, cuida do material topográfico e trabalha o solo abrindo covas: prepara os terrenos para os trabalhos topográficos, colocando bandeirolas nos locais apropriados; mede as áreas com fita métrica; coloca a mira nos trabalhos de medição de áreas e levantamentos topográficos, tendo em atenção, entre outros, o declive dos terrenos e os locais estratégicos; cuida do material topográfico à sua guarda, limpando-o e acondicionando-o.\n\nSerralheiro civil. - Constrói e ou monta e repara estruturas metálicas diversas como, por exemplo, adufas destinadas a regular a saída da água e comportas.\n\nSerralheiro mecânico. - Executa peças, monta, repara e conserva vários tipos de máquinas, motores e outros conjuntos mecânicos.\n\nTelefonista. - Presta serviços na central telefónica da associação transmitindo aos telefones internos as chamadas recebidas e estabelecendo ligações para o exterior.\n\nTopógrafo. - Efectua levantamentos topográficos, tendo em vista a elaboração de plantas, cartas e mapas, que se destinam à preparação e orientação de trabalhos de engenharia ou outros fins.\n\nTrabalhador auxiliar. - Executa, no domínio das actividades prosseguidas pela associação, as tarefas necessárias ao funcionamento da mesma que não exijam especialização e não estejam enquadradas em qualquer das profissões previstas.\n\nTrabalhador de limpeza. - Executa o serviço de limpeza e arrumação das instalações administrativas ou outras.\n\nTractorista. - Conduz e manobra tractores, de acordo com indicações técnicas que lhe são fornecidas, e lubrifica as diferentes peças das máquinas."
+  },
+  "888180052": {
+   "fragment_id": "888215860",
+   "type": 14,
+   "heading": "Anexo III — Remunerações mínimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Remunerações mínimas\n\n(ver documento original)"
+  },
+  "888180055": {
+   "fragment_id": "888215819",
+   "type": 11,
+   "heading": "Artigo 12.º — Local de trabalho",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+   ],
+   "markdown": "###### Artigo 12.º — Local de trabalho\n\nO trabalho deve ser prestado no local convencionado ou no que resulte da natureza do serviço ou das circunstâncias do contrato.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+  },
+  "888180056": {
+   "fragment_id": "888215820",
+   "type": 11,
+   "heading": "Artigo 13.º — Deslocações",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+   ],
+   "markdown": "###### Artigo 13.º — Deslocações\n\n1 - Quando os trabalhadores tenham de se deslocar em serviço para fora da área de trabalho normal ou dentro desta, quando haja justificação, terão direito ao transporte ou, na sua falta, a subsídio a fixar pela entidade patronal.\n\n2 - Para efeito do disposto na parte final do número anterior, a entidade patronal deverá ter em conta os custos do transporte mais apropriado às necessidades e economia dos serviços.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+  },
+  "888180057": {
+   "fragment_id": "888215827",
+   "type": 11,
+   "heading": "Artigo 19.º — Trabalho por turnos",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+   ],
+   "markdown": "###### Artigo 19.º — Trabalho por turnos\n\n1 - Sempre que as necessidades de serviço o determinarem, a entidade patronal poderá organizar a prestação de trabalho em regime de turnos.\n\n2 - Apenas é considerado trabalho em regime de turnos o prestado em turnos de rotação contínua, ou descontínua, em que o trabalhador está sujeito às correspondentes variações de horário de trabalho.\n\n3 - A duração do trabalho de cada turno não pode ultrapassar os limites máximos dos períodos normais de trabalho fixados de harmonia com o disposto nos artigos 15.º e 16.º\n\n4 - O pessoal só poderá ser mudado de turno após o dia de descanso semanal.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+  },
+  "888180058": {
+   "fragment_id": "888215837",
+   "type": 11,
+   "heading": "Artigo 27.º — Remuneração horária",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+   ],
+   "markdown": "###### Artigo 27.º — Remuneração horária\n\nO valor de remuneração horária é determinado pela seguinte fórmula:\n\n(Rm x 12)/(52 x n)\n\nsendo Rm o valor da remuneração mensal e n o período normal de trabalho semanal a que o trabalhador estiver obrigado.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+  },
+  "888180059": {
+   "fragment_id": "888215838",
+   "type": 11,
+   "heading": "Artigo 28.º — Remuneração por exercício de funções inerentes a diversas profissões ou categorias profissionais",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+   ],
+   "markdown": "###### Artigo 28.º — Remuneração por exercício de funções inerentes a diversas profissões ou categorias profissionais\n\nQuando algum trabalhador exercer funções inerentes a diversas profissões ou categorias profissionais terá direito, enquanto as executar, à remuneração mais elevada das estabelecidas para essas profissões ou categorias profissionais.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+  },
+  "888180073": {
+   "fragment_id": "888215845",
+   "type": 11,
+   "heading": "Artigo 35.º — Diuturnidades",
+   "in_force_from": "1986-11-04",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 654/86 - Diário da República n.º 254/1986, Série I de 1986-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/654-1986-221099), em vigor a partir de 1986-11-04, produz efeitos a partir de 1986-06-01"
+   ],
+   "markdown": "###### Artigo 35.º — Diuturnidades\n\n1 - Os trabalhadores que estejam a prestar serviço com carácter de permanência e em regime de tempo completo têm direito a uma diuturnidade de 1700$00 por cada cinco anos de serviço, até ao limite de cinco diuturnidades.\n\n2 - Para a atribuição das diuturnidades será levado em conta todo o tempo de serviço desde o início da construção das obras, independentemente do organismo responsável pelas mesmas, bem como o tempo de serviço prestado anteriormente em associações de regantes e beneficiários, salvo no caso de já ter sido considerado para o mesmo fim em outros organismos do Estado.\n\n3 - As diuturnidades acrescem à retribuição efectiva.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 654/86 - Diário da República n.º 254/1986, Série I de 1986-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/654-1986-221099), em vigor a partir de 1986-11-04, produz efeitos a partir de 1986-06-01"
+  },
+  "888180074": {
+   "fragment_id": "888215846",
+   "type": 11,
+   "heading": "Artigo 36.º — Subsídio de refeição",
+   "in_force_from": "1986-11-09",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 654/86 - Diário da República n.º 254/1986, Série I de 1986-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/654-1986-221099), em vigor a partir de 1986-11-09"
+   ],
+   "markdown": "###### Artigo 36.º — Subsídio de refeição\n\n1 - Os trabalhadores abrangidos pelo presente Estatuto terão direito, por cada dia de trabalho efectivamente prestado, a um subsídio de refeição no valor de 200$00.\n\n2 - Não haverá lugar à atribuição do subsídio de refeição designadamente nas seguintes situações de faltas e licenças:\n\na) Férias;\n\nb) Doença;\n\nc) Casamento;\n\nd) Nojo;\n\ne) Assistência a familiares;\n\nf) Faltas injustificadas;\n\ng) No exercício do direito à greve;\n\nh) Por aplicação de suspensão preventiva e no cumprimento de penas disciplinares.\n\n3 - O valor do subsídio referido no n.º 1 não será ainda considerado para cálculo dos subsídios de férias e de Natal.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 654/86 - Diário da República n.º 254/1986, Série I de 1986-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/654-1986-221099), em vigor a partir de 1986-11-09"
+  },
+  "888218675": {
+   "fragment_id": "888215847",
+   "type": 11,
+   "heading": "Artigo 37.º — Abono para falhas",
+   "in_force_from": "1986-11-09",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 654/86 - Diário da República n.º 254/1986, Série I de 1986-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/654-1986-221099), em vigor a partir de 1986-11-09"
+   ],
+   "markdown": "###### Artigo 37.º — Abono para falhas\n\n1 - Aos trabalhadores com responsabilidade efectiva de caixa será atribuído um abono mensal para falhas de 1500$00.\n\n2 - Sempre que os trabalhadores referidos no número anterior sejam substituídos no desempenho das respectivas funções, por período igual ou superior a 15 dias, o abono para falhas reverterá para o substituto na proporção do tempo de substituição.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 654/86 - Diário da República n.º 254/1986, Série I de 1986-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/654-1986-221099), em vigor a partir de 1986-11-09"
+  },
+  "888180060": {
+   "fragment_id": "888215852",
+   "type": 1,
+   "heading": "Capítulo VIII — Cessação do contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+   ],
+   "markdown": "### Capítulo VIII — Cessação do contrato de trabalho\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+  },
+  "888180061": {
+   "fragment_id": "888215858",
+   "type": 14,
+   "heading": "Anexo I — Carreiras profissionais",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+   ],
+   "markdown": "## Anexo I — Carreiras profissionais\n\nCondições específicas\n\nAgente técnico agrícola\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de agente técnico agrícola são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Habilitações correspondentes aos cursos das antigas e actuais estruturas do ensino secundário agrícola terminal, bem como a outros cursos nacionais ou estrangeiros oficialmente considerados como equivalentes.\n\nAcesso e carreira. - 1 - O agente técnico agrícola será admitido como agente técnico agrícola de 2.ª classe.\n\n2 - O agente técnico agrícola de 2.ª classe será promovido à categoria de agente técnicos agrícola de 1.ª classe, desde que complete 5 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em mérito e competência profissional, o agente técnico agrícola de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de agente técnico agrícola principal.\n\nCantoneiro de conservação\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de cantoneiro de conservação são as seguintes:\n\na) Idade mínima não inferior a 16 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O cantoneiro de conservação será admitido como cantoneiro de conservação de 2.ª classe.\n\n2 - O cantoneiro de conservação de 2.ª classe será promovido à categoria de cantoneiro de conservação de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nCantoneiro de rega\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de cantoneiro de rega são as seguintes:\n\na) Idade mínima não inferior a 21 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O cantoneiro de rega será admitido como cantoneiro de rega de 2.ª classe.\n\n2 - O cantoneiro de rega de 2.ª classe será promovido à categoria de cantoneiro de rega de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nContínuo\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de contínuo são as seguintes:\n\na) Idade mínima não inferior a 16 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O contínuo será admitido como contínuo de 2.ª classe.\n\n2 - O contínuo de 2.ª classe será promovido à categoria de contínuo de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nCondutor de máquinas\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de condutor de máquinas são as seguintes:\n\na) Idade mínima 18 anos;\n\nb) Experiência e habilitações profissionais adequadas.\n\nAcesso e carreira. - 1 - O condutor de máquinas será admitido como condutor de máquinas de 2.ª classe.\n\n2 - O condutor de máquinas de 2.ª classe será promovido à categoria de condutor de máquinas de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nDesenhador\n\nAdmissão. - As condições mínimos de admissão para o exercício da profissão de desenhador são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Formação escolar de nível secundário, curso geral ou complementar.\n\nAcesso e carreira. - 1 - O desenhador será admitido como desenhador de 2.ª classe.\n\n2 - O desenhador de 2.ª classe será promovido à categoria de desenhador de 1.ª classe, desde que complete 5 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em mérito e competência profissional, o desenhador de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de desenhador principal.\n\nElectricista\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de electricista são as seguintes:\n\na) Idade mínima não inferior a 15 anos;\n\nb) Escolaridade obrigatória;\n\nAprendizagem. - 1 - A aprendizagem far-se-á sob a responsabilidade de um profissional com a categoria de electricista principal, de 1.ª classe ou de 2.ª classe, sempre que a associação não possua serviços de formação profissional.\n\n2 - A duração da aprendizagem será de 3 anos, findos os quais os aprendizes ascenderão obrigatoriamente a ajudante de electricista.\n\n3 - O aprendiz com mais de 18 anos de idade ascenderá à categoria de ajudante de electricista, desde que permaneça um mínimo de 12 meses como aprendiz.\n\n4 - Para efeitos do disposto nos n.os 2 e 3 deverão ser tidos em conta os períodos de frequência de cursos ministrados em centros de aprendizagem oficialmente reconhecidos.\n\nAcesso e carreira. - 1 - Será admitido como ajudante de electricista o trabalhador diplomado com curso ministrado em centro de formação profissional oficialmente reconhecido.\n\n2 - O ajudante de electricista que tenha completado um período máximo de 2 anos nesta categoria será promovido a electricista de 3.ª classe.\n\n3 - O electricista de 3.ª classe e o de 2.ª classe serão, respectivamente, promovidos a electricista de 2.ª classe e de 1.ª classe, desde que completem 3 anos de bom e efectivo serviço naquelas categorias.\n\n4 - Mediante proposta fundamentada em mérito e competência profissional, o electricista de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido A categoria de electricista principal.\n\nEmpregado de escritório\n\nCondições mínimas gerais de admissão. - 1 - As idades mínimas para admissão de trabalhadores de escritório são as seguintes:\n\na) 21 anos para caixa;\n\nb) 16 anos para as restantes profissões ou categorias profissionais.\n\n2 - As habilitações mínimas exigíveis para a admissão de trabalhadores com as profissões de caixa, dactilógrafo e escriturário são o curso geral dos liceus ou o curso geral do comércio e os cursos oficiais ou oficializados que não tenham duração inferior à daqueles ou cursos equivalentes.\n\nEstágio. - 1 - O ingresso na profissão de escriturário poderá ser precedido de estágio.\n\n2 - Os estagiários para escriturário são promovidos a escriturários de 3.ª classe logo que completem 2 anos de estágio, sem prejuízo do disposto no número seguinte.\n\n3 - Para os trabalhadores admitidos com idade igual ou superior a 21 anos ou que completem 21 anos durante o estágio este não poderá exceder 1 ano.\n\nAcesso e carreira. - 1 - O dactilógrafo será admitido como dactilógrafo de 2.ª classe.\n\n2 - O dactilógrafo de 2.ª classe e o escriturário de 3.ª classe serão promovidos à categoria de dactilógrafo de 1.ª classe e escriturário de 2.ª classe, desde que completem 3 anos de bom e efectivo serviço naquelas categorias.\n\n3 - O escriturário de 2.ª classe será promovido a escriturário de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\n4 - Mediante proposta fundamentada em mérito e competência profissional, o dactilógrafo de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de principal.\n\nEngenheiro técnico agrário\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de engenheiro técnico agrário são as seguintes:\n\na) Idade mínima não inferior a 21 anos;\n\nb) Habilitações correspondentes ao grau de bacharel ou equiparado, obtido em curso superior de Engenharia em escolas nacionais e estrangeiras oficialmente reconhecidas.\n\nAcesso e carreira. - 1 - O engenheiro técnico agrário será admitido como engenheiro técnico agrário de 2.ª classe.\n\n2 - O engenheiro técnico agrário de 2.ª classe será promovido à categoria imediatamente superior, desde que complete 5 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em mérito e competência profissional, o engenheiro técnico agrário de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de principal.\n\nFiel de armazém\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de fiei de armazém são as seguintes:\n\na) Idade mínima não inferior a 21 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O fiel auxiliar que tenha completado um período máximo de 3 anos será promovido à categoria de fiel de 1.ª classe.\n\n2 - Mediante proposta fundamentada em mérito e competência profissional, o fiel de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de fiel principal.\n\nFiscal de rega\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de fiscal de rega são as seguintes:\n\na) Idade mínima não inferior a 21 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O fiscal de rega será admitido como fiscal de rega de 2.ª classe.\n\n2 - O fiscal de rega de 2.ª classe será promovido à categoria de fiscal de rega de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em mérito e competência profissional, o fiscal de rega de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço na categoria poderá ser promovido à categoria de fiscal de rega principal.\n\nGuarda\n\nAdmissão. - As condições mínimas de admissão para a profissão de guarda são as seguintes:\n\na) Idade mínima não inferior a 21 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O guarda será admitido como guarda de 2.ª classe.\n\n2 - O guarda de 2.ª classe será promovido à categoria de guarda de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nMotorista\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de motorista são as seguintes:\n\na) Habilitações literárias exigidas por lei;\n\nb) Carta de condução profissional.\n\nAcesso e carreira. - 1 - O motorista será admitido como motorista de 2.ª classe.\n\n2 - O motorista de 2.ª classe será promovido à categoria de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nOperador de estação elevatória\n\nAdmissão. - As condições mínimas para o exercício da profissão de operador de estação elevatória são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O operador de estação elevatória será admitido como operador de estação elevatória de 2.ª classe.\n\n2 - O operador de estação elevatória de 2.ª classe será promovido à categoria de operador de estação elevatória de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nPorta-miras\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de porta-miras são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O porta-miras será admitido como porta-miras de 2.ª classe.\n\n2 - O porta-miras de 2.ª clame será promovido à categoria de porta-miras de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\nTelefonista\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de telefonista são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Escolaridade obrigatória.\n\nAcesso e carreira. - 1 - O telefonista será admitido como telefonista de 2.ª classe.\n\n2 - O telefonista de 2.ª classe será promovido à categoria de telefonista de 1.ª classe, desde que complete 3 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em mérito e competência profissional, o telefonista de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de telefonista principal.\n\nTopógrafo\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão, de topógrafo são as seguintes:\n\na) Idade mínima não inferior a 18 anos;\n\nb) Formação escolar de nível secundário, curso geral ou complementar ou formação escolar de nível superior, com conhecimentos e experiência de topografia.\n\nAcesso e carreira. - 1 - O topógrafo será admitido como topógrafo de 2.ª classe.\n\n2 - O topógrafo de 2.ª classe será promovido à categoria de topógrafo de 1.ª classe, desde que complete 5 anos de bom e efectivo serviço naquela categoria.\n\n3 - Mediante proposta fundamentada em mérito e competência profissional, o topógrafo de 1.ª classe com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria, poderá ser promovido à categoria de topógrafo principal.\n\nTrabalhadores metalúrgicos e da construção civil\n\nAdmissão. - As condições mínimas de admissão para o exercício das profissões de mecânico, serralheiro civil, serralheiro mecânico, carpinteiro e pedreiro são:\n\na) Idade mínima não inferior a 15 anos;\n\nb) Escolaridade obrigatória.\n\nAprendizagem. - 1 - A aprendizagem far-se-á sob a responsabilidade de um profissional com a categoria de principal, 1.ª classe ou 2.ª classe, sempre que a associação não possua serviços de formação profissional.\n\n2 - A duração da aprendizagem será de 3 anos, findos os quais os aprendizes ascenderão obrigatoriamente a ajudante de mêcanico, de serralheiro civil, de serralheiro mecânico, de carpinteiro e de pedreiro.\n\n3 - O aprendiz com mais de 18 anos de idade ascenderá à categoria de ajudante, desde que permaneça um mínimo de 12 meses como aprendiz.\n\n4 - Para efeitos do disposto nos n.os 2 e 3, deverão ser tidos em conta os períodos de frequência de cursos ministrados em centros de aprendizagem oficialmente reconhecidos.\n\nAcesso e carreira. - 1 - Serão admitidos como ajudantes os trabalhadores que possuam cursos ministrados em centros de aprendizagem oficialmente reconhecidos.\n\n2 - Os ajudantes que tenham completado, um período máximo de 2 anos nesta categoria serão promovidos a mecânico, a serralheiro civil, a serralheiro mecânico, a carpinteiro e a pedreiro de 3.ª classe\n\n3 - O mecânico, o serralheiro civil, o serralheiro mecânico, o carpinteiro e o pedreiro, de 3.ª classe e de 2.ª classe, serão promovidos à categoria imediatamente superior, desde que completem 3 anos de bom e efectivo serviço naquelas categorias.\n\n4 - Mediante proposta fundamentada em mérito e competência profissional, o mecânico, o serralheiro civil, o serralheiro mecânico, o carpinteiro e o pedreiro, de 1.ª classe, com, pelo menos, 5 anos de bom e efectivo serviço nestas categorias, poderão ser promovidos à categoria de principal.\n\nTractorista\n\nAdmissão. - As condições mínimas de admissão para o exercício da profissão de tractorista são as seguintes:\n\na) Idade mínima de 18 anos;\n\nb) Experiência e habilitações profissionais adequadas.\n\nCarreira. - Mediante proposta fundamentada em mérito e competência profissional, o tractorista com, pelo menos, 5 anos de bom e efectivo serviço nesta categoria poderá ser promovido à categoria de tractorista principal.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1985, 2º Suplemento, Série I de 1985-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-422601), produz efeitos a partir de 1985-04-22"
+  },
+  "888218676": {
+   "fragment_id": "888215859",
+   "type": 14,
+   "heading": "Anexo II — Definição de funções",
+   "in_force_from": "1986-11-09",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 654/86 - Diário da República n.º 254/1986, Série I de 1986-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/654-1986-221099), em vigor a partir de 1986-11-09"
+   ],
+   "markdown": "## Anexo II — Definição de funções\n\nAgente técnico agrícola. - Coordena a execução das diferentes tarefas relativas aos sistemas de regadio, defesa e enxugo, controla os trabalhos de campo que lhe forem confiados, nomeadamente levantamento da carta agrícola, trabalhos topográficos, bem como trabalhos de gabinete a ele ligados; elabora cartas de aproveitamento cultural.\n\nAjudante de encarregado de barragem. - Colabora nas funções desempenhadas pelo encarregado de barragem, podendo substituí-lo nas suas ausências e impedimentos. Pode desempenhar tarefas ligadas à conservação.\n\nCaixa. - Paga e recebe verbas diversas e elabora folhas de caixa, paga os recibos visados que lhe são entregues, certificando-se da importância registada; recebe quantias em numerário ou cheque dos beneficiários e utentes da associação referentes a cobrança de taxas de exploração e conservação, de quotas, de importâncias relativas ao aluguer de máquinas agrícolas e de outros serviços prestados; emite cheques, anotando a respectiva importância, o nome do destinatário e a data de emissão; elabora folhas de caixa, registando os quantitativos recebidos e pagos diariamente a fim de apurar o saldo de caixa.\n\nCantoneiro de conservação. - Executa tarefas, relativas à limpeza e conservação da rede de rega e de enxugo; limpa comportas, poços, caixas de água, adufas e outros, removendo para o exterior os detritos acumulados; decapa a ferrugem e pinta com tinta apropriada os diferentes órgãos das estruturas.\n\nCantoneiro de rega. - Executa os seguintes trabalhos de rega e de conservação: distribui a água de rega pelos agricultores e executa os trabalhos de conservação da respectiva rede; controla os volumes de água segundo instruções recebidas superiormente e a pedido dos regantes; faz o regime das águas fornecidas e efectua a limpeza das tomadas e dos canais; colabora nas medições feitas com vista à elaboração da carta agrícola onde são indicadas as áreas regadas e o tipo de cultura; pinta, lubrifica e procede à conservação geral canais.\n\nCarpinteiro. - Trabalha predominantemente em madeira, com ferramentas manuais ou mecânicas, executando, montando e reparando estruturas ou outras obras de madeira: executa cofragens para construção de caixas de rega; executa moldes para remendos em condutas; executa e repara móveis, janelas, portas e caixilhos.\n\nchefe da secção administrativa.- Orienta e executa as tarefas exercidas no escritório, nomeadamente as referentes a gestão contabilística, tesouraria e pessoal: elabora orçamentos ordinários e suplementares com base nas receitas e despesas; efectua a escrituração dos livros de contabilidade, lançando em livro o «deve e haver», conferindo as facturas e classificando documentos; participa na elaboração do relatório anual, redigindo o respeitante à administração financeira; orienta os contactos e ou contacta com diferentes entidades, nomeadamente fornecedores e utentes, a fim de obter materiais, liquidação de débitos e outros; administra as receitas e os bens entregues à sua administração; remete às secções de finanças dos concelhos respectivos, para efeitos de cobrança, os mapas de liquidação das taxas de beneficiação e respectivos recibos.\n\nCondutor de máquinas. - Conduz e manobra máquinas de escavação e terraplenagem, a fim de escavar, desassorear e remover terras, dando aos terrenos o nivelamento e a configuração requeridos e verifica o bom funcionamento da máquina, observando níveis de óleo, água e outros.\n\nContínuo. - Anuncia, acompanha e informa os visitantes; faz a entrega de mensagens e objectos inerentes ao serviço interno; estampilha e entrega correspondência, além de a distribuir aos serviços a que é destinada. Pode executar o serviço de reprodução e endereçamento de documentos.\n\nDactilógrafo. - Escreve à máquina textos escritos ou ditados: dactilografa correspondência, recibos, pagamentos, notas e textos baseados em documentos escritos ou informações que lhe são ditadas ou comunicadas por outros meios. Pode desempenhar funções de arquivo.\n\nDesenhador. - Desenha cartas agrícolas e outras, sendo o responsável pelo desenho e cartografia: transcreve em papel adequado a carta topográfica da região; reproduz as cartas nas quantidades pretendidas, utilizando uma xerocopiadora; desenha em papel apropriado alterações a várias obras, ampliando, reduzindo ou introduzindo modificações nas mesmas; actualiza anualmente as cartas agrícolas introduzindo modificações em caminhos, terrenos e valas quando for caso disso.\n\nElectricista. - Instala, conserva e repara circuitos e aparelhagem eléctrica, guiando, frequentemente, a sua actividade por desenhos, esquemas ou outras especificações técnicas que interpreta.\n\nEncarregado de barragem. - Zela pela manutenção dos mecanismos que accionam os órgãos de segurança da barragem a fim de a manter em perfeito estado de funcionamento: manobra, quando autorizado, os órgãos de segurança da barragem, designadamente descarga de fundo, descarga de superfície e tomadas de água; executa a regulação dos caudais necessários à rega ou a outros fins, de acordo com as orientações recebidas; zela pela manutenção de comportas e quadros de manobra, providenciando pela sua pintura e lubrificação. Pode fazer a leitura e registo dos dados dos postos meteorológicos.\n\nEncarregado de barragem, com central eléctrica. - Zela pela manutenção dos mecanismos que accionam os órgãos de segurança da barragem e pela manutenção da rede de energia eléctrica a fim de a manter em perfeito estado de funcionamento: controla a rede de distribuição de energia eléctrica, aérea e subterrânea, fazendo vistorias periódicas a fim de detectar anomalias; manobra, quando autorizado, os órgãos de segurança da barragem, designadamente descarga de fundo, descarga de superfície e tornadas de água; executa a regulação dos caudais necessários à rega ou outros fim de acordo com as orientações dadas; zela pela manutenção de comportas, quadros de manobra e motores eléctricos, desmontando-os, quando for caso disso, a fim de os pintar ou efectuar lubrificações. Pode fazer a leitura e registo dos dados dos postos meteorológicos.\n\nEncarregado electricista de central. - Trabalhador electricista que dirige, controla e coordena a execução dos serviços de um grupo de trabalhadores electricistas nos vários locais de trabalho: zela pela manutenção da rede de energia eléctrica e pelo funcionamento dos órgãos das centrais eléctricas.\n\nEncarregado geral. - Coordena a actividade dos fiscais de rega e fiscaliza os trabalhos de conservação.\n\nEncarregado geral de máquinas. - Coordena o funcionamento do parque de máquinas: providência pela manutenção, reparação e distribuição das máquinas aos utentes da associação; distribui as máquinas para os trabalhos agrícolas, tendo por base a inscrição prévia dos interessados; distribui serviço aos tractoristas, condutores de máquinas e motoristas; orienta o serviço de, reparação de máquinas, controlando a respectiva reparação nos seus aspectos específicos; zela pela conservação do parque de máquinas e viaturas.\n\nEngenheiro técnico agrário. - Realiza estudos e projectos e coordena as diferentes tarefas relativas ao regadio e drenagem dos terrenos, podendo, quando tais funções lhe forem cometidas, coordenar a exploração e conservação da obra: dirige as tarefas relativas ao regadio o drenagem de terrenos, tais como distribuição de água, excessos de água, roturas, entupimentos e abastecimento das albufeiras; controla as reparações de canais, limpezas, pinturas e outras; executa trabalhos topográficos, nomeadamente medições de áreas, perfis de terrenos e levantamentos topográficos, efectuando os cálculos necessários; colabora na realização da carta agrícola, efectuando levantamentos e medições de áreas; estuda os nivelamentos dos terrenos, realizando os cálculos de volumes e de escavações necessários. Pode desempenhar outras funções no âmbito dos seus conhecimentos. Pode ser responsável pela parte técnica e ou administrativa.\n\nEscriturário. - Executa tarefas de natureza administrativa necessárias ao funcionamento corrente do escritório: efectua o expediente geral de escritório, tal como dactilografia e registo em livros apropriados da correspondência geral, cálculo de vencimentos e cálculos dos volumes de água fornecidos aos regantes a partir dos elementos obtidos pelos cantoneiros; arquiva a correspondência em lugar apropriado, classificando-a e ordenando-a; contabiliza manualmente e à máquina os elementos referentes a salários, descontos legais e as regalias sociais dos trabalhadores, bem como a utilização das máquinas pelos associados; elabora fichas de conta corrente dos utentes para posterior cobrança; calcula o volume de água armazenada nas albufeiras e respectivas variações, devendo os registos ser enviados à Direcção-Geral de Hidráulica e Engenharia Agrícola. Pode, eventualmente, exercer funções de caixa.\n\nFiel de armazém. - Regista no armazém as entradas e saídas de materiais, ferramentas e produtos, controla e responde pelas existências: mantém o armazém apetrechado com os materiais e ferramentas necessários, requisitando aqueles cujos stocks diminuam; entrega ferramentas, óleos o outros materiais a partir de requisições que lhe são apresentadas; regista, em impresso apropriado, os consumos de óleo, massas e outros lubrificantes destinados às diferentes máquinas; anota periodicamente, em impressos, as existências em armazém.\n\nFiscal de rega. - Coordena e fiscaliza os trabalhos de rega e conservação dentro da área que lhe é atribuída: executa o planeamento da manutenção e conservação dos canais, caixas de rega e restante rede; procede à distribuição do pessoal necessário às várias tarefas e requisita o material necessário; vigia e comunica superiormente as alterações do nível de água nos canais; distribui e fiscaliza o pessoal pelos canais de rega, a fim de se proceder à correcta distribuição da água, segundo os podidos existentes; confere os registos da água de rega fornecida aos regantes; acompanha o processo de rega e comunica todas as anomalias; elabora a carta agrícola da sua zona a fim de apurar a extensão da área regada e o tipo de cultura praticada; preenche folhas do pessoal com determinados elementos, tais como férias, dias de trabalho, presenças e abonos.\n\nGuarda. - Assegura a defesa, vigilância e conservação das instalações do escritório e ou das instalações gerais da empresa, bem como de outros valores que lhe estejam confiados, e ou exerce vigilância na obra de irrigação, numa área determinada.\n\nMecânico. - Repara e conserva vários tipos de máquinas, motores e outros conjuntos mecânicos, geralmente de metal. Por vezes, solda determinadas peças utilizando processo adequado.\n\nMotorista de pesados. - Conduz viaturas pesadas e ligeiras para o que possui carta de condução profissional: conduz as viaturas, manobrando os diferentes comandos, de acordo com os modelos e marcas, observando o preceituado na lei; zela pela boa conservação das viaturas e pela carga que transporta e colabora na sua manutenção, nomeadamente nas lubrificações, mudanças de óleo e pequenas reparações.\n\nOperador de estação elevatória. - Manobra os quadros de comando dos motores eléctricos, faz leituras periódicas e abre as tomadas de água, a fim de a distribuir pelos diferentes canais: liga os motores eléctricos, abrindo as válvulas de segurança, para elevar a água e abastecer o canal de rega; desloca-se nas bermas do canal, abrindo as tomadas de água, a fim de a distribuir conforme as requisições dos, regantes; regista os caudais em impresso, a fim de calcular os volumes respectivos; zela pela conservação e limpeza dos canais, grelhas e equipamentos da estação.\n\nPedreiro. - Levanta e repara paredes, manilhas, caixas de rega, edificações pertencentes à associação, utilizando ferramentas apropriadas: repara paredes, utilizando ponteiros e macetas, a fim de as nivelar; espalha o cimento nas paredes tendo o cuidado de que fiquem niveladas; pinta-as com tinta ou cal branca; assenta e repara manilhas no interior das valas, fazendo os moldes necessários e as respectivas caixas de protecção; constrói caixas de rega, utilizando moldes com cimento no interior, a fim de dar a consistência devida; assenta torneiras, adufas de boca e de fundo, módulos e comportas, construindo as cofragens das mesmas.\n\nPorta-miras. - Transporta e posiciona a mira nos terrenos, cuida do material topográfico e trabalha o solo abrindo covas: prepara os terrenos para os trabalhos topográficos, colocando bandeirolas nos locais apropriados; mede as áreas com fita métrica; coloca a mira nos trabalhos de medição de áreas e levantamentos topográficos, tendo em atenção, entre outros, o declive dos terrenos e os locais estratégicos; cuida do material topográfico à sua guarda, limpando-o e acondicionando-o.\n\nSerralheiro civil. - Constrói e ou monta e repara estruturas metálicas diversas como, por exemplo, adufas destinadas a regular a saída da água e comportas.\n\nSerralheiro mecânico. - Executa peças, monta, repara e conserva vários tipos de máquinas, motores e outros conjuntos mecânicos.\n\nTelefonista. - Presta serviços na central telefónica da associação transmitindo aos telefones internos as chamadas recebidas e estabelecendo ligações para o exterior.\n\nTopógrafo. - Efectua levantamentos topográficos, tendo em vista a elaboração de plantas, cartas e mapas, que se destinam à preparação e orientação de trabalhos de engenharia ou outros fins.\n\nTrabalhador auxiliar. - Executa, no domínio das actividades prosseguidas pela associação, as tarefas necessárias ao funcionamento da mesma que não exijam especialização e não estejam enquadradas em qualquer das profissões previstas.\n\nTrabalhador de limpeza. - Executa o serviço de limpeza e arrumação das instalações administrativas ou outras.\n\nTractorista. - Conduz e manobra tractores, de acordo com indicações técnicas que lhe são fornecidas, e lubrifica as diferentes peças das máquinas.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 654/86 - Diário da República n.º 254/1986, Série I de 1986-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/654-1986-221099), em vigor a partir de 1986-11-09"
+  },
+  "888218677": {
+   "fragment_id": "888215860",
+   "type": 14,
+   "heading": "Anexo III — Remunerações mínimas",
+   "in_force_from": "1986-11-09",
+   "changed_by": [
+    "Alterado pelo/a 4.º do/a [Portaria n.º 654/86 - Diário da República n.º 254/1986, Série I de 1986-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/654-1986-221099), em vigor a partir de 1986-11-09, produz efeitos a partir de 1986-06-01"
+   ],
+   "markdown": "## Anexo III — Remunerações mínimas\n\n(ver documento original)\n\n> Alterado pelo/a 4.º do/a [Portaria n.º 654/86 - Diário da República n.º 254/1986, Série I de 1986-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/654-1986-221099), em vigor a partir de 1986-11-09, produz efeitos a partir de 1986-06-01"
+  },
+  "888218681": {
+   "fragment_id": "888215824",
+   "type": 11,
+   "heading": "Artigo 16.º — Período normal de trabalho dos restantes trabalhadores",
+   "in_force_from": "1993-05-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 502/93 - Diário da República n.º 110/1993, Série I-B de 1993-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/502-1993-275615), em vigor a partir de 1993-05-17"
+   ],
+   "markdown": "###### Artigo 16.º — Período normal de trabalho dos restantes trabalhadores\n\n1 - O período normal de trabalho dos trabalhadores não abrangidos pelo artigo anterior não pode ser superior a oito horas por dia e a quarenta e quatro horas por semana de Abril a Setembro e a quarenta horas por semana nos restantes meses.\n\n2 - O período normal de trabalho diário poderá, porém, ser superior ao limite fixado no número anterior quando seja concedido ao trabalhador 1 dia de descanso por semana além do de descanso prescrito na lei.\n\n3 - No caso referido no n.º 2 o acréscimo do período normal de trabalho diário não poderá ser superior a 1 hora.\n\n> Alterado pelo/a [Portaria n.º 502/93 - Diário da República n.º 110/1993, Série I-B de 1993-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/502-1993-275615), em vigor a partir de 1993-05-17"
+  },
+  "888218682": {
+   "fragment_id": "888215832",
+   "type": 11,
+   "heading": "Artigo 23.º — Férias",
+   "in_force_from": "1993-05-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 502/93 - Diário da República n.º 110/1993, Série I-B de 1993-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/502-1993-275615), em vigor a partir de 1993-05-17"
+   ],
+   "markdown": "###### Artigo 23.º — Férias\n\n1 - O direito a férias dos trabalhadores das associações de beneficiários regula-se pela lei geral, com a adaptação prevista no n.º 5.\n\n2 - O período anual de férias dos trabalhadores referidos no número anterior é de 22 dias úteis.\n\n3 - A marcação do período de férias deve ser feita por mútuo acordo entre a entidade patronal e o trabalhador.\n\n4 - Na falta de acordo, a marcação do período de férias cabe à entidade patronal.\n\n5 - No caso previsto no número anterior, a entidade patronal deve marcar o período de férias entre 1 de Maio e 31 de Outubro, salvo se existirem graves prejuízos para o serviço.\n\n> Alterado pelo/a [Portaria n.º 502/93 - Diário da República n.º 110/1993, Série I-B de 1993-05-12](https://diariodarepublica.pt/dr/detalhe/portaria/502-1993-275615), em vigor a partir de 1993-05-17"
+  }
+ }
+}

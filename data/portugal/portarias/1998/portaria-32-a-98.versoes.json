@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544669:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1998-153959785",
+ "dre_path": "/dr/detalhe/portaria/32-a-1998-544669",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-01-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "153779869"
+   ]
+  },
+  {
+   "date": "2011-10-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670016:por",
+     "title": "Portaria n.º 237/2011",
+     "published": "2011-06-15",
+     "dre_path": "/dr/detalhe/portaria/237-2011-670016"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "153779852",
+    "153779853"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:566624:por",
+     "title": "Portaria n.º 277-A/2011",
+     "published": "2011-10-13",
+     "dre_path": "/dr/detalhe/portaria/277-a-2011-566624",
+     "date": "2011-10-14"
+    }
+   ]
+  },
+  {
+   "date": "2021-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:153917310:por",
+     "title": "Portaria n.º 15/2021",
+     "published": "2021-01-14",
+     "dre_path": "/dr/detalhe/portaria/15-2021-153917310"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "153779869",
+    "153779870"
+   ]
+  }
+ ],
+ "fragments": {
+  "153779869": {
+   "fragment_id": "153959786",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-02-01",
+   "changed_by": [],
+   "markdown": "Portaria n.º 32-A/98\n\nde 19 de Janeiro\n\nConsiderando o disposto no artigo 5.º do Decreto-Lei n.º 39/88, de 6 de Fevereiro:\n\nManda o Governo, pelo Ministro da Cultura, o seguinte:\n\n1.º Para os fins previstos no n.º 1 do artigo 3.º e sem prejuízo do disposto no n.º 4 do artigo 10.º do Decreto-Lei n.º 39/88, de 6 de Fevereiro, a etiqueta a afixar em cada videograma classificado será do modelo anexo, de edição exclusiva da Imprensa Nacional-Casa da Moeda, com as seguintes características:\n\nDimensões: 18 mm x 110 mm;\n\nImpressão: fundo microscópico de cor azul com a inscrição «Inspecção-Geral das Actividades Culturais»;\n\nTexto moldura em offset;\n\nHolograma: estampado com as iniciais M/C e, em fundo, M/C IGAC;\n\nInclusão de um campo invisível;\n\nLegendas e moldura em offset a preto;\n\nPapel autocolante.\n\n2.º A etiqueta a afixar nos videogramas classificados como destinados exclusivamente à venda directa ao público terá as características referidas no número anterior, mas em fundo offset de cor vermelha, com a frase, em diagonal e de cor verde, «Interdito o aluguer».\n\n3.º Por cada etiqueta, a Inspecção-Geral das Actividades Culturais cobrará a importância de 36$00.\n\n4.º Ficam revogadas as Portarias n.os 936/90, de 4 de Outubro, e 1397/95, de 23 de Novembro.\n\nMinistério da Cultura.\n\n> Nota: [Artigo 6.º, Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393) Até à entrada em vigor da portaria prevista no n.º 3 do artigo 21.º-A do Decreto-Lei n.º 23/2014, de 14 de fevereiro, na redação introduzida pelo presente decreto-lei, mantém-se em vigor a Portaria n.º 32-A/98, de 19 de janeiro.\n\n> Nota: [Artigo 1.º, Portaria n.º 304/2011 - Diário da República n.º 234/2011, Série I de 2011-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/304-2011-145257) É repristinada a Portaria n.º 32-A/98, como efeito da revogação da Portaria n.º 237/2011 operada pela Portaria n.º 304/201. Esta repristinação produz efeitos em 29 de novembro de 2011.\n\n> Nota: [Artigo 2.º, Portaria n.º 277-A/2011 - Diário da República n.º 197/2011, 1º Suplemento, Série I de 2011-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/277-a-2011-566624) A repristinação da presente portaria vigora pelo pelo prazo de 45 dias a contar da data da publicação da Portaria n.º 277-A/2011."
+  },
+  "153779852": {
+   "fragment_id": "153959786",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2011-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 237/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/237-2011-670016), em vigor a partir de 2011-10-13",
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 277-A/2011 - Diário da República n.º 197/2011, 1º Suplemento, Série I de 2011-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/277-a-2011-566624), em vigor a partir de 2011-10-14"
+   ],
+   "markdown": "Portaria n.º 32-A/98\n\nde 19 de Janeiro\n\nConsiderando o disposto no artigo 5.º do Decreto-Lei n.º 39/88, de 6 de Fevereiro:\n\nManda o Governo, pelo Ministro da Cultura, o seguinte:\n\n1.º Para os fins previstos no n.º 1 do artigo 3.º e sem prejuízo do disposto no n.º 4 do artigo 10.º do Decreto-Lei n.º 39/88, de 6 de Fevereiro, a etiqueta a afixar em cada videograma classificado será do modelo anexo, de edição exclusiva da Imprensa Nacional-Casa da Moeda, com as seguintes características:\n\nDimensões: 18 mm x 110 mm;\n\nImpressão: fundo microscópico de cor azul com a inscrição «Inspecção-Geral das Actividades Culturais»;\n\nTexto moldura em offset;\n\nHolograma: estampado com as iniciais M/C e, em fundo, M/C IGAC;\n\nInclusão de um campo invisível;\n\nLegendas e moldura em offset a preto;\n\nPapel autocolante.\n\n2.º A etiqueta a afixar nos videogramas classificados como destinados exclusivamente à venda directa ao público terá as características referidas no número anterior, mas em fundo offset de cor vermelha, com a frase, em diagonal e de cor verde, «Interdito o aluguer».\n\n3.º Por cada etiqueta, a Inspecção-Geral das Actividades Culturais cobrará a importância de 36$00.\n\n4.º Ficam revogadas as Portarias n.os 936/90, de 4 de Outubro, e 1397/95, de 23 de Novembro.\n\nMinistério da Cultura.\n\n> Nota: [Artigo 2.º, Portaria n.º 277-A/2011 - Diário da República n.º 197/2011, 1º Suplemento, Série I de 2011-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/277-a-2011-566624) A repristinação da presente portaria vigora pelo pelo prazo de 45 dias a contar da data da publicação da Portaria n.º 277-A/2011.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 237/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/237-2011-670016), em vigor a partir de 2011-10-13\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 277-A/2011 - Diário da República n.º 197/2011, 1º Suplemento, Série I de 2011-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/277-a-2011-566624), em vigor a partir de 2011-10-14"
+  },
+  "153779853": {
+   "fragment_id": "153959787",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2011-10-14",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 277-A/2011 - Diário da República n.º 197/2011, 1º Suplemento, Série I de 2011-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/277-a-2011-566624), em vigor a partir de 2011-10-14",
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 237/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/237-2011-670016), em vigor a partir de 2011-10-13"
+   ],
+   "markdown": "Assinada em 13 de Janeiro de 1998.\n\nO Ministro da Cultura, Manuel Maria Ferreira Carrilho.\n\nModelo descrito no n.º 1\n\n(ver modelo no documento origina\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 277-A/2011 - Diário da República n.º 197/2011, 1º Suplemento, Série I de 2011-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/277-a-2011-566624), em vigor a partir de 2011-10-14\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 237/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/237-2011-670016), em vigor a partir de 2011-10-13"
+  },
+  "153779870": {
+   "fragment_id": "153959787",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 15/2021 - Diário da República n.º 9/2021, Série I de 2021-01-14](https://diariodarepublica.pt/dr/detalhe/portaria/15-2021-153917310), em vigor a partir de 2021-02-01",
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 277-A/2011 - Diário da República n.º 197/2011, 1º Suplemento, Série I de 2011-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/277-a-2011-566624), em vigor a partir de 2011-10-14",
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 237/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/237-2011-670016), em vigor a partir de 2011-10-13"
+   ],
+   "markdown": "Assinada em 13 de Janeiro de 1998.\n\nO Ministro da Cultura, Manuel Maria Ferreira Carrilho.\n\nModelo descrito no n.º 1\n\n(ver modelo no documento origina\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 15/2021 - Diário da República n.º 9/2021, Série I de 2021-01-14](https://diariodarepublica.pt/dr/detalhe/portaria/15-2021-153917310), em vigor a partir de 2021-02-01\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 277-A/2011 - Diário da República n.º 197/2011, 1º Suplemento, Série I de 2011-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/277-a-2011-566624), em vigor a partir de 2011-10-14\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 237/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/237-2011-670016), em vigor a partir de 2011-10-13"
+  }
+ }
+}

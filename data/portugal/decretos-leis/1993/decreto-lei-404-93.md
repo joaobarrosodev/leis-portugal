@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:553405:por
+title: Decreto-Lei n.º 404/93
+short_title: null
+summary: Institui a figura da injunção
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 404/93
+official_date: null
+publication_date: '1993-12-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 287/1993, Série I-A de 1993-12-10
+  number: '287'
+  series: I
+  supplement: null
+  pages: 6842 - 6843
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/12/287a00/68426843.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/404/1993/12/10/p/dre/pt/html
+  oj: null
+  dre: '553405'
+  dre_path: /dr/detalhe/decreto-lei/404-1993-553405
+  internal: pt:dre:553405:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1993-553405
+  metadata_url: https://data.dre.pt/eli/dec-lei/404/1993/12/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1993-553405
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:28:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a80e7e15403823c13a9624d3cbf25019eec21851bfe1704afd4f959f3ee9a28a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:28:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Custas Judiciais
+- Definição de Competências
+- Dívida
+- Execução por Dívidas
+- Injunção
+- Processo Civil
+- Tribunal Judicial
+relationships:
+- type: amended_by
+  target: pt:dre:566629:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: corrected_by
+  target: pt:dre:165067:por
+  label: "RECTIFICADO PELA DECLARAÇÃO DE RECTIFICAÇÃO 19/94, DA PCM, DE 16 DE FEVEREIRO, PUBLICADO NO DR.IS-A, 49, 2SUPL,\
+    \ DE 940228.\0 940228."
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/19-1994-165067
+  date: '1994-02-28'
+- type: repealed_by
+  target: pt:dre:566629:por
+  label: "Revogado pelo DEC LEI.269/98.1998.09.01.MJ, DR.IS-A [201]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/269-1998-566629
+  date: '1998-09-01'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:28:23Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 404/93
+
+de 10 de Dezembro
+
+O presente diploma regula a injunção, providência que permite que o credor de uma prestação obtenha, de forma célere e simplificada, um título executivo, condição indispensável ao cumprimento coercivo da mesma, quando se consubstancie no cumprimento de uma obrigação pecuniária.
+
+Na verdade, após a apresentação na secretaria do tribunal territorialmente competente do pedido de injunção, atribui-se ao respectivo secretário judicial competência para proceder à notificação do requerido e, na ausência de oposição, também para a imediata aposição da fórmula executória na injunção.
+
+A aposição da fórmula executória, não constituindo, de modo algum, um acto jurisdicional, permite indubitavelmente ao devedor defender-se em futura acção executiva, com a mesma amplitude com que o pode fazer no processo de declaração, nos termos do disposto no artigo 815.º do Código de Processo Civil.
+
+Trata-se, pois, de uma fase desjurisdicionalizada e, portanto, inevitavelmente mais célere, sem que, todavia, se mostrem diminuídas as garantias das partes intervenientes no processo, ínsitas, aliás, no direito constitucionalmente consagrado do acesso à justiça. O acautelamento de tais garantias é, efectivamente, assegurado quer pela via da apresentação obrigatória dos autos ao juiz quando se verifique oposição do devedor, quer pelo reconhecimento do direito de reclamação no caso de recusa, por parte do secretário judicial, da aposição da fórmula executória na injunção.
+
+Num esforço de desburocratização, facilita-se, ainda, o acesso à justiça, possibilitando que a taxa de justiça inerente seja paga por estampilha apropriada e admitindo-se a aprovação de formulários próprios para a apresentação do pedido de injunção.
+
+Entende, assim, o Governo que o presente diploma, de natureza intercalar no que respeita à revisão da actual legislação processual civil em curso, constitui um significativo esforço de adequação dos trâmites processuais às exigências da realidade social presente, sem quebra ou diminuição da certeza e da segurança do direito, obedecendo, designadamente, aos princípios de celeridade, simplificação, desburocratização e modernização, que hão-de informar a nova legislação processual civil.
+
+Deste modo se contribui para a concretização do princípio constitucional do acesso à justiça, consagrado como direito fundamental no artigo 20.º da Constituição, que tem como vertente primordial a protecção eficaz e em tempo útil dos direitos dos cidadãos, através dos tribunais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Injunção
+
+Para os fins de aplicação do presente diploma, considera-se injunção a providência destinada a conferir força executiva ao requerimento destinado a obter o cumprimento efectivo de obrigações pecuniárias decorrentes de contrato cujo valor não exceda metade do valor da alçada do tribunal de 1.ª instância.
+
+###### Artigo 2.º — Tribunal competente para apresentação do pedido de injunção
+
+1 - O pedido de injunção é apresentado na secretaria do tribunal que seria competente para a acção declarativa com o mesmo objecto.
+
+2 - Havendo mais de um secretário judicial, o pedido a que alude o número anterior é averbado por escala iniciada pelo secretário do 1.º juízo.
+
+###### Artigo 3.º — Forma do requerimento
+
+No requerimento de injunção, deve o requerente expor os factos que fundamentam a sua pretensão, juntar os documentos comprovativos, se os houver, concluindo pelo pedido da prestação a efectuar, sendo aplicável, com as necessárias adaptações, o disposto no artigo 793.º do Código de Processo Civil.
+
+###### Artigo 4.º — Notificação da injunção
+
+Recebido o pedido, o secretário judicial do tribunal notifica o requerido, por carta registada com aviso de recepção, remetendo cópia da pretensão e dos documentos juntos, devendo indicar, de forma inteligível, o objecto do pedido e demais elementos úteis à compreensão do mesmo, referindo, ainda, expressamente, o último dia do prazo para a oposição.
+
+###### Artigo 5.º — Aposição da fórmula executória
+
+Na falta de oposição, ou em caso de desistência da mesma, o secretário judicial do tribunal apõe a seguinte fórmula executória no requerimento de injunção: «Execute-se.»
+
+###### Artigo 6.º — Oposição do requerido
+
+1 - O requerido pode opor-se à pretensão no prazo de sete dias a contar da notificação.
+
+2 - Sendo deduzida oposição, ou frustrando-se a notificação por via postal, o secretário judicial do tribunal apresentará os autos à distribuição, sendo conclusos ao juiz, o qual, se o estado do processo o permitir, designará, desde logo, o dia para julgamento, observando-se a tramitação estabelecida para o processo sumaríssimo.
+
+###### Artigo 7.º — Recusa da aposição da fórmula executória e reclamação
+
+A aposição da fórmula executória só poderá ser recusada quando o pedido não se adeqúe às finalidades constantes do artigo 1.º e nas situações em que à secretaria, nos termos da lei do processo, é lícito não receber a petição, cabendo da recusa reclamação para o juiz presidente do tribunal ou do respectivo juízo cível.
+
+###### Artigo 8.º — Restituição de documentos
+
+Os documentos são restituídos às partes, mediante solicitação destas e desde que se mostrem desnecessários à resolução do litígio.
+
+###### Artigo 9.º — Custas
+
+1 - O processo de injunção pressupõe o pagamento de uma taxa de justiça através de estampilha apropriada.
+
+2 - Se, por haver oposição, o processo prosseguir nos termos do artigo 6.º, o valor da estampilha a que se refere o número anterior será imputado nas custas devidas a final.
+
+###### Artigo 10.º — Formulários
+
+1 - O modelo e os valores da estampilha referida no artigo anterior são definidos mediante portaria do Ministro da Justiça.
+
+2 - A apresentação do pedido de injunção poderá ser efectuada através de formulário de modelo a aprovar por despacho do Ministro da Justiça.
+
+###### Artigo 11.º — Destino das receitas
+
+As receitas provenientes da utilização de estampilhas no processo de injunção reverterão para o Cofre Geral dos Tribunais.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 de Janeiro de 1994.
+
+Visto e aprovado em Conselho de Ministros de 28 de Outubro de 1993. - Aníbal António Cavaco Silva - José Manuel Cardoso Borges Soeiro.
+
+Promulgado em 23 de Novembro de 1993.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 24 de Novembro de 1993.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

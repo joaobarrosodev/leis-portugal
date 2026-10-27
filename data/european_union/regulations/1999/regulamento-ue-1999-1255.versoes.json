@@ -1,0 +1,639 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999R1255:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R1255-20080701",
+ "dre_path": null,
+ "source_lastmod": "2008-07-01",
+ "versions": [
+  {
+   "date": "2005-12-02",
+   "future": false,
+   "celex": "01999R1255-20051202",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1399fe3101f0ecd1",
+    "f0236fe900b87a0d",
+    "ffc348f463b781ad",
+    "bff0910fce5bf8eb",
+    "226c39ffd0a88dad",
+    "e6abe73e47429d90",
+    "48f93e57cf91c653",
+    "2d532b265a255162",
+    "866c3ec74381c3dd",
+    "f0f8c960bfdbce9b",
+    "8e77d70dc973dd2d",
+    "c7cba92dae220885",
+    "c175effc1859a219",
+    "36207397757fb994",
+    "2de7779e2170a47e",
+    "f47e2338f49daa7f",
+    "1e7a0903d2eed348",
+    "42ef95c90503edcd",
+    "c304cbc19f31f602",
+    "1e682c70e231a6ce",
+    "5dd8b4be4ecc2e4c",
+    "9d57f2125375cecd",
+    "a8661f9d90717906",
+    "4c8bdeab3d91ec7d",
+    "f5d98f8f882aae17",
+    "268003d73b9fe466",
+    "a5a60a612e3943d3",
+    "61f738e1c55f12e1",
+    "e150d16b77e570f0",
+    "25e658129729613e",
+    "b1d59a9b5706b110",
+    "31e6f0b584ceffb6",
+    "9c46a28e32a611a8",
+    "3dcfb07082e2d5ff",
+    "056b165a6b7485c7",
+    "9db704600627e53c",
+    "e17a2adcfbbdd4cc",
+    "dcb9b0898bc06a98",
+    "1c29464205fc61bd",
+    "9cf2fc2b191a821d",
+    "565865383a87b8a1",
+    "e9f044f2e7567408",
+    "1bcfb6f7c072d192",
+    "15aa48aae91a6026",
+    "def46b3dc9b85dce",
+    "da6096a08bc3b395",
+    "f151ce5fbe4a0491",
+    "662cf62f00c33127",
+    "fee7c0f6661bbf52",
+    "178ccd987889eeed",
+    "f8b3ccdfbda987e6",
+    "eff9bc8bbe0c392b",
+    "d664376e2a8dcecd",
+    "d9f986de4f3ea7db",
+    "d9261d29ab922219",
+    "720af75c92791b10",
+    "b53241a754ba9d46",
+    "5760692a736841d4"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "01999R1255-20080101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime TÍTULO I",
+    "Suprime MERCADO INTERNO",
+    "Suprime CAPÍTULO I",
+    "Suprime Regime de preços",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime CAPÍTULO II",
+    "Suprime Regime de intervenção",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime CAPÍTULO III",
+    "Suprime Medidas de comercialização",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime TÍTULO II",
+    "Suprime REGIME COMERCIAL COM PAÍSES TERCEIROS",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime Artigo 30.º",
+    "Suprime Artigo 31.º",
+    "Suprime Artigo 32.º",
+    "Suprime Artigo 33.º",
+    "Suprime Artigo 34.º",
+    "Suprime Artigo 35.º",
+    "Suprime TÍTULO III",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 36.º",
+    "Suprime Artigo 37.º",
+    "Suprime Artigo 38.º",
+    "Suprime Artigo 39.º",
+    "Suprime Artigo 40.º",
+    "Suprime Artigo 41.º",
+    "Suprime Artigo 42.º",
+    "Suprime Artigo 43.º",
+    "Suprime Artigo 44.º",
+    "Suprime Artigo 45.º",
+    "Suprime TÍTULO IV",
+    "Suprime DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+    "Suprime Artigo 46.º",
+    "Suprime Artigo 47.º",
+    "Suprime Artigo 48.º",
+    "Suprime ANEXO I",
+    "Suprime PAGAMENTOS COMPLEMENTARES: MONTANTES GLOBAIS REFERIDOS NO ARTIGO 17.º",
+    "Suprime ANEXO II",
+    "Suprime ANEXO III",
+    "Suprime TABELA DE CORRESPONDÊNCIA",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "9d193bca40754e7f"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "01999R1255-20080701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo"
+   ],
+   "fragments": [
+    "b693076d4d6c1075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1399fe3101f0ecd1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Maio de 1999\n\nque estabelece a organização comum de mercado no sector do leite e dos produtos lácteos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, os seus artigos 36.º e 37.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0003)),\n\nTendo em conta o parecer do Comité das Regiões ([^4^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0004)),\n\nTendo em conta o parecer do Tribunal de Contas ([^5^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0005)),\n\n(1) Considerando que o funcionamento e o desenvolvimento do mercado comum para os produtos agrícolas devem ser acompanhados do estabelecimento de uma política agrícola comum que compreenda, nomeadamente, uma organização comum dos mercados agrícolas, que pode assumir diversas formas consoante os produtos;\n\n(2) Considerando que a política agrícola comum pretende atingir os objectivos consagrados no artigo 33.º do Tratado; que, no sector do leite, a fim de estabilizar os mercados e assegurar um nível de vida equitativo à população agrícola, é necessário que os organismos de intervenção possam, com base num sistema de preços único, tomar medidas de intervenção no mercado, incluindo a compra de manteiga e de leite em pó desnatado e a concessão de ajudas à armazenagem privada destes produtos; que essas medidas devem, contudo, ser uniformizadas, de modo a não obstarem à livre circulação das mercadorias em causa na Comunidade;\n\n(3) Considerando que o Regulamento (CEE) n.º 3950/92 do Conselho, de 28 de Dezembro de 1992, que institui uma imposição suplementar no sector do leite e dos produtos lácteos ([^6^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0006)), introduziu um regime de imposição suplementar destinado a reduzir o desequilíbrio entre a oferta e a procura no mercado do leite e dos produtos lácteos e os consequentes excedentes estruturais; que esse regime é aplicável durante oito novos períodos consecutivos de 12 meses, com início em 1 de Abril de 2000;\n\n(4) Considerando que, a fim de fomentar o consumo de leite e produtos lácteos na Comunidade e de aumentar a competitividade destes produtos nos mercados internacionais, o nível de apoio do mercado deve ser reduzido, designadamente mediante uma redução gradual dos preços indicativos e dos preços de intervenção da manteiga e do leite em pó desnatado, com início em 1 de Julho de 2005;\n\n(5) Considerando que a aplicação do regime de intervenção para a manteiga deve manter a posição concorrencial da manteiga no mercado e proporcionar uma armazenagem tão eficaz quanto possível; que as exigências de qualidade a observar em relação à manteiga constituem um factor determinante para a realização destes objectivos; que as compras de intervenção devem ser efectuadas na medida do necessário para manter a estabilidade do mercado, por referência ao preço de mercado da manteiga nos Estados-Membros, e através de concurso;\n\n(6) Considerando que, no caso da ajuda à armazenagem privada da manteiga, é conveniente limitar a sua concessão à manteiga produzida a partir de nata e de leite de origem comunitária e manter uma referência a classes nacionais de qualidade como condição de elegibilidade;\n\n(7) Considerando que, para além da intervenção em relação à manteiga e à nata fresca, são necessárias outras medidas de intervenção comunitárias para rentabilizar ao máximo as proteínas do leite e apoiar os preços dos produtos particularmente importantes para a determinação dos preços do leite no produtor; que essas medidas devem assumir a forma de compra de leite em pó desnatado e de concessão de ajuda à armazenagem privada deste produto; que, no entanto, a compra normal de leite em pó desnatado em intervenção pode ser suspensa sempre que seja alcançada uma determinada quantidade e substituída pela compra por concurso;\n\n(8) Considerando que, a fim de evitar distorções entre operadores que vendem em intervenção pública, e no interesse de uma boa gestão dos fundos comunitários, devem ser fixadas exigências mínimas em matéria de teor de proteínas do leite em pó desnatado comprado em intervenção; que esse teor deve ser fixado tendo em conta as normas comerciais prevalecentes e de forma a não poder funcionar como critério de exclusão da intervenção;\n\n(9) Considerando que, a fim de contribuir para o equilíbrio do mercado do leite e de estabilizar os preços de mercado do leite e dos produtos lácteos, devem ser previstas medidas complementares para aumentar as possibilidades de escoamento dos produtos lácteos; que estas medidas devem incluir, por um lado, a concessão de uma ajuda à armazenagem privada de determinados tipos de queijo e, por outro, a concessão de ajudas à comercialização de determinados produtos lácteos para utilizações e destinos específicos;\n\n(10) Considerando que, para incentivar o consumo de leite pelos jovens, convém prever a possibilidade de uma participação da Comunidade nas despesas decorrentes da concessão de ajudas para o fornecimento de leite aos alunos nos estabelecimentos de ensino;\n\n(11) Considerando que, em consequência da redução do apoio do mercado no sector do leite, devem ser introduzidas medidas de apoio aos rendimentos dos produtores; que essas medidas devem assumir a forma de prémio por vaca leiteira, cujo nível deve evoluir em paralelo com a redução gradual do apoio do mercado; que o nível do apoio aos rendimentos individuais deve ser calculado com base nas quantidades de referência individuais dos produtores em causa; que, a fim de garantir a adequada aplicação do regime e de ter em conta os compromissos multilaterais da Comunidade, bem como por razões de controlo orçamental, é conveniente prever a manutenção do apoio global aos rendimentos ao nível das quantidades de referência totais dos Estados-Membros aquando da entrada em vigor do presente regulamento;\n\n(12) Considerando que as condições de produção de leite e a situação dos rendimentos dos produtores variam significativamente na Comunidade, em função das zonas de produção; que um regime comunitário com pagamentos porvaca leiteira uniformes para todos os produtores seria demasiado rígido para responder de forma adequada às disparidades estruturais e naturais e às diversas necessidades delas resultantes; que, por conseguinte, é conveniente prever que os Estados-Membros definam e apliquem um esquema flexível de pagamentos complementares comunitários, dentre dos limites de montantes globais definidos e de acordo com determinados critérios comuns; que os montantes globais devem ser atribuídos aos Estados-Membros com base nas suas quantidades de referência totais para o leite; que os critérios comuns se destinam nomeadamente, a evitar que os pagamentos complementares tenham efeitos discriminatórios e a ter na devida conta os compromissos multilaterais pertinentes da Comunidade; que é fundamental, designadamente, que os Estados-Membros sejam obrigados a utilizar os seus poderes discricionários exclusivamente com base em critérios objectivos, a aplicar plenamente o conceito de igualdade de tratamento e a evitar distorções do mercado ou de concorrência; que é conveniente prever as formas que os pagamentos complementares podem assumir; que os pagamentos complementares devem assumir a forma de suplementos de prémio e de pagamentos porsuperfície;\n\n(13) Considerando que os suplementos de prémio devem ser concedidos complementarmente aos montantes dos prémios por vaca leiteira concedidos por tonelada das quantidades de referência disponíveis para prémio; que é igualmente necessário limitar o montante total de apoio que pode ser concedido por montante de prémio e por ano;\n\n(14) Considerando que os pagamentos complementares por superfície só devem ser concedidos em relação a pastagens permanentes que não beneficiem de quaisquer outras medidas comunitárias de apoio do mercado; que os pagamentos por superfície devem ser aplicados dentro dos limites de áreas de base regionais de pastagens permanentes, a determinar pelos Estados-Membros, de acordo com dados históricos de referência; que o montante máximo dos pagamentos por superfície que pode ser concedido por hectare, incluindo pagamentos por superfície complementares ao abrigo da organização comum de mercado da carne de bovino, deve ser comparável ao apoio médio por hectare concedido no âmbito do regime de apoio aos produtores de determinadas culturas arvenses;\n\n(15) Considerando que, para se alcançar o impacto económico pretendido, os pagamentos directos devem ser concedidos dentro de certos prazos;\n\n(16) Considerando que, no caso de a administração de somatropina bovina às vacas leiteiras ser proibida pela legislação comunitária, a Comissão deverá estabelecer sanções análogas às previstas na organização comum de mercado da carne de bovino para a utilização de determinadas substâncias proibidas na produção de carne de bovino;\n\n(17) Considerando que a realização de um mercado único comunitário no sector do leite e dos produtos lácteos implica o estabelecimento de um regime comercial único em relação ao exterior; que um regime comercial que preveja direitos de importação e restituições à exportação, para além das medidas de intervenção, deve, em princípio, estabilizar o mercado comunitário; que este regime comercial deve basear-se nos compromissos assumidos no âmbito das negociações comerciais multilaterais do «Uruguay Round»;\n\n(18) Considerando que, a fim de controlar o volume do comércio de leite e de produtos lácteos com os países terceiros, importa prever, para determinados produtos, um sistema de certificados de importação e de exportação que inclua a constituição de uma garantia destinada a assegurar a realização das transacções para as quais os certificados são concedidos;\n\n(19) Considerando que, a fim de evitar ou de combater os efeitos adversos para o mercado comunitário susceptíveis de resultar da importação de determinados produtos agrícolas, a importação de um ou vários desses produtos deve ser sujeita ao pagamento de um direito de importação adicional, se estiverem reunidas determinadas condições;\n\n(20) Considerando que, em determinadas condições, é conveniente conferir à Comissão poderes para abrir e gerir contingentes pautais decorrentes de acordos internacionais concluídos segundo o Tratado ou qualquer outro acto do Conselho; que, além disso, a Comissão deve ter poderes análogos no que se refere a determinados contingentes pautais abertos por países terceiros;\n\n(21) Considerando que a possibilidade de conceder, aquando da exportação para países terceiros, uma restituição baseada na diferença entre os preços na Comunidade e no mercado mundial, no âmbito do Acordo sobre a agricultura da OMC ([^7^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0007)), deve salvaguardar a participação da Comunidade no comércio internacional de leite e produtos lácteos; que essas restituições devem ser sujeitas a limites em termos de quantidade e de valor;\n\n(22) Considerando que a observância dos limites em termos de valor deve ser assegurada, aquando da fixação das restituições, através do controlo dos pagamentos ao abrigo das regras do Fundo Europeu de Orientação e de Garantia Agrícola; que o controlo pode ser facilitado pela obrigatoriedade de fixação prévia das restituições, com a possibilidade, no caso de restituições diferenciadas, de se proceder à alteração do destino no interior de uma área geográfica a que se aplica uma taxa única de restituição; que, em caso de alteração do destino, deve ser paga a restituição aplicável ao destino efectivo, até ao limite do montante aplicável ao destino fixado antecipadamente;\n\n(23) Considerando que, para assegurar a observância dos limites quantitativos, é necessário introduzir um sistema de controlo fiável e eficaz; que, para o efeito, a concessão de restituições deve ser subordinada à emissão de certificados de exportação; que as restituições devem ser concedidas até aos limites disponíveis, em função da situação específica de cada produto; que só devem ser admitidas excepções a esta regra no caso de produtos transformados não constantes do anexo II do Tratado, a que não se aplicam limites quantitativos, e no caso de operações de ajuda alimentar, que estão isentas de qualquer limitação; que o controlo das quantidades exportadas com restituições durante as campanhas de comercialização deve, tal como referido no acordo sobre a agricultura concluído no âmbito da OMC, ser efectuado com base nos certificados de exportação emitidos em cada campanha de comercialização;\n\n(24) Considerando que, em complemento do sistema acima descrito, convém prever, na medida do necessário ao seu bom funcionamento, a possibilidade de regulamentar ou, se a situação do mercado assim o exigir, de proibir o recurso ao regime de aperfeiçoamento activo;\n\n(25) Considerando que é conveniente prever que possam ser tomadas medidas sempre que um aumento ou uma diminuição substancial dos preços perturbe ou ameace perturbar o mercado comunitário;\n\n(26) Considerando que o regime de direitos aduaneiros permite dispensar qualquer outra medida de protecção nas fronteiras externas da Comunidade; que, todavia, o mecanismo do mercado interno e dos direitos aduaneiros pode, em circunstâncias excepcionais, revelar-se insuficiente; que, a fim de não deixar, nesses casos, o mercado comunitário sem defesa contra as perturbações que daí possam resultar, a Comunidade deve poder tomar rapidamente todas as medidas necessárias; que essas medidas devem respeitar as obrigações que decorrem dos acordos relevantes da OMC;\n\n(27) Considerando que as restrições à livre circulação resultantes da aplicação de medidas destinadas a combater a propagação de doenças dos animais podem provocar dificuldades no mercado de um ou mais Estados-Membros; que é necessário prever a possibilidade de adoptar medidas excepcionais de apoio do mercado destinadas a solucionar essas situações;\n\n(28) Considerando que a realização de um mercado único seria comprometida pela concessão de certas ajudas; que é, portanto, conveniente que as disposições do Tratado que permitem apreciar as ajudas concedidas pelos Estados-Membros e proibir aquelas que são incompatíveis com o mercado comum sejam aplicáveis no âmbito da organização comum de mercado no sector do leite e dos produtos lácteos;\n\n(29) Considerando que, à medida que a organização comum de mercado no sector do leite e dos produtos lácteos evolui, é necessário que os Estados-Membros e a Comissão procedam à comunicação recíproca das informações necessárias à aplicação do presente regulamento;\n\n(30) Considerando que, para facilitar a execução das medidas propostas, é conveniente prever um procedimento de estreita cooperação entre os Estados-Membros e a Comissão no âmbito de um comité de gestão;\n\n(31) Considerando que as despesas efectuadas pelos Estados-Membros em resultado das obrigações decorrentes da aplicação do presente regulamento serão financiadas pela Comunidade, nos termos do Regulamento (CE) n.º 1258/1999 do Conselho, de 17 de Maio de 1999, relativo ao financiamento da política agrícola comum ([^8^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0008)).\n\n(32) Considerando que a organização comum de mercado no sector do leite e dos produtos lácteos deve ter devida e simultaneamente conta os objectivos previstos nos artigos 33.º e 131.º do Tratado;\n\n(33) Considerando que a organização comum de mercado no sector do leite e dos produtos lácteos, criada pelo Regulamento (CEE) n.º 804/68 do Conselho, de 27 de Junho de 1968, que estabelece a organização comum de mercado no sector do leite e dos produtos lácteos ([^9^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0009)), foi alterada diversas vezes; que, devido ao seu elevado número, à sua complexidade e à sua dispersão por diferentes Jornais Oficiais, estes textossão de difícil utilização e, por conseguinte, carecem daclareza que deve constituir uma característica fundamental de toda a legislação; que, nestas circunstâncias, os textos devem ser consolidados num novo regulamento e o Regulamento (CEE) n.º 804/68 deve ser revogado; que as regras essenciais dos Regulamentos (CEE) n.º 986/68 ([^10^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0010)), (CEE) n.º 987/68 ([^11^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0011)), (CEE) n.º 508/71 ([^12^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0012)), (CEE) n.º 1422/78 ([^13^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0013)), (CEE) n.º 1723/81 ([^14^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0014)), (CEE) n.º 2990/82 ([^15^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0015)), (CEE) n.º 1842/83 ([^16^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0016)), (CEE) n.º 865/84 ([^17^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0017)) e (CEE) n.º 777/87 ([^18^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0018)) do Conselho foram integradas no presente regulamento, pelo que devem ser igualmente revogados;\n\n(34) Considerando que a transição das disposições do Regulamento (CEE) n.º 804/68 para as do presente regulamento pode levantar dificuldades não solucionadas no presente regulamento; que, a fim de ter em conta essa eventualidade, é conveniente prever que a Comissão adopte as medidas transitórias necessárias; que a Comissão deve igualmente ser autorizada a solucionar problemas específicos de ordem prática,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "f0236fe900b87a0d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA organização comum de mercado no sector do leite e dos produtos lácteos abrange os seguintes produtos::\n\n| Código NC | Designação das mercadorias |  |\n| --- | --- | --- |\n| a) | 0401 | Leite e nata, não concentrados nem adicionados de açúcar ou de outros edulcorantes |\n| b) | 0402 | Leite e nata, concentrados ou adicionados de açúcar ou de outros edulcorantes |\n| c) | de 0403 10 11 a 39 | Leitelho, leite e nata coalhados, iogurte, *kefir* e outros leites e natas fermentados ou acidificados, mesmo concentrados ou adicionados de açúcar ou de outros edulcorantes, não aromatizados nem adicionados de frutas ou de cacau |\n|  | de 0403 90 11 a 69 |  |\n| d) | 0404 | Soro de leite, mesmo concentrado ou adicionado de açúcar ou de outros edulcorantes; produtos constituídos por componentes naturais do leite, mesmo adicionados de açúcar ou de outros edulcorantes, não especificados nem compreendidos em outras posições |\n| e) | ex04 05 | Manteiga e outras matérias gordas provenientes do leite; pastas de barrar (espalhar) de produtos provenientes do leite, de teor de matérias gordas superior a 75 % mas inferior a 80 % |\n| f) | 0406 | Queijos e requeijão |\n| g) | 1702 19 00 | Lactose e xarope de lactose, sem adição de aromatizantes ou de corantes, e contendo, [**►C1**](http://publications.europa.eu/resource/celex/31999R1255R%2801%29) em peso, menos de 99 % de lactose,**◄** expressos em lactose anidra, calculado sobre a matéria seca |\n| h) | 2106 90 51 | Xarope de lactose, aromatizado ou adicionado de corantes |\n| h) | 2106 90 51 | Xarope de lactose, aromatizado ou adicionado de corantes |\n| i) | ex23 09 | Preparação dos tipos utilizados na alimentação de animais: — Preparação e alimentos para animais que contenham produtos aos quais o presente regulamento é aplicável, directamente ou por força do Regulamento (CEE) n.º 2730/75 [(^1^)](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0019), com exclusão das preparações e alimentos para animais em relação aos quais é aplicável o Regulamento (CEE) n.º 1766/92 do Conselho [(^2^)](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0020). |\n| (^1^)JO L 281 de 1.11.1975, p. 20. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2931/95 (JO L 307 de 20.12.1995, p. 10). (^2^)JO L 181 de 1.7.1992, p. 21. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 923/96 (JO L 126 de 24.5.1996, p. 37). |  |  |"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "bff0910fce5bf8eb": {
+   "fragment_id": "MERCADO INTERNO",
+   "type": "divisao",
+   "heading": "MERCADO INTERNO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MERCADO INTERNO"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e6abe73e47429d90": {
+   "fragment_id": "Regime de preços",
+   "type": "divisao",
+   "heading": "Regime de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime de preços"
+  },
+  "48f93e57cf91c653": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA campanha leiteira inicia-se em 1 de Julho e termina em 30 de Junho do ano seguinte para todos os produtos referidos no artigo 1.º"
+  },
+  "2d532b265a255162": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os preços de intervençãocomunitários, expressos em euros por 100 kg, são fixados:\n\na) Para a manteiga, em:\n\n— 328,20, para o período compreendido entre 1 de Julho de 2000 e 30 de Junho de 2004,\n\n— 305,23, para o período compreendido entre 1 de Julho de 2004 e 30 de Junho de 2005,\n\n— 282,44, para o período compreendido entre 1 de Julho de 2005 e 30 de Junho de 2006,\n\n— 259,52, para o período compreendido entre 1 de Julho de 2006 e 30 de Junho de 2007,\n\n— 246,39, a partir de 1 de Julho de 2007;\n\nb) Para o leite em pó desnatado, em:\n\n— 205,52, para o período compreendido entre 1 de Julho de 2000 e 30 de Junho de 2004,\n\n— 195,24, para o período compreendido entre 1 de Julho de 2004 e 30 de Junho de 2005,\n\n— 184,97, para o período compreendido entre 1 de Julho de 2005 e 30 de Junho de 2006,\n\n— 174,69, a partir de 1 de Julho de 2006.\n\n2. O Conselho, deliberando nos termos do n.º 2 do artigo 37.º do Tratado, pode alterar os preços de intervenção."
+  },
+  "866c3ec74381c3dd": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO regime de preços é estabelecido sem prejuízo da aplicação do regime de imposição suplementar."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "8e77d70dc973dd2d": {
+   "fragment_id": "Regime de intervenção",
+   "type": "divisao",
+   "heading": "Regime de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regime de intervenção"
+  },
+  "c7cba92dae220885": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Sempre que os preços de mercado da manteiga se situem, em um ou vários Estados-Membros, durante um período de tempo representativo, a um nível inferior a 92 % do preço de intervenção, os organismos de intervenção procederão, nesse ou nesses Estados-Membros, à compra da manteiga referida no n.º 2, a 90 % do preço de intervenção no período compreendido entre 1 de Março e 31 de Agosto de cada ano, com base em especificações a determinar.\n\nSe as quantidades propostas para intervenção durante o período referido no primeiro parágrafo forem superiores a 70 000 toneladas em 2004, 60 000 toneladas em 2005, 50 000 toneladas em 2006, 40 000 toneladas em 2007 e 30 000 toneladas em 2008 e nos anos seguintes, a Comissão pode suspender as compras de manteiga em intervenção.\n\nNesse caso, as compras pelos organismos de intervenção podem ser efectuadas através de concurso permanente, com base em especificações a determinar.\n\nSe os preços de mercado da manteiga se situarem, no ou nos Estados-Membros em causa, a um nível igual ou superior a 92 % do preço de intervenção durante um período de tempo representativo, a Comissão suspenderá as compras.\n\n2. Nos termos do n.º 1, os organismos de intervenção apenas podem comprar manteiga produzida directa e exclusivamente a partir de nata pasteurizada, numa empresa aprovada na Comunidade, que:\n\na) Satisfaça as seguintes exigências:\n\n— contenha um teor de matéria gorda butírica, em peso, de 82 %, no mínimo, e um teor de água, em peso, de 16 %, no máximo,\n\n— não exceda, no momento da compra, uma idade a fixar,\n\n— preencha condições a determinar relativamente à quantidade mínima e à embalagem;\n\nb) Satisfaça certas exigências a determinar, nomeadamente quanto:\n\n— à conservação, podendo ser previstas exigências suplementares pelos organismos de intervenção,\n\n— ao teor de ácido gordos livres,\n\n— à taxa de peróxido,\n\n— à qualidade microbiológica,\n\n— às características organolépticas (aspecto, consistência, sabor e odor).\n\n3. Serão concedidas ajudas à armazenagem privada de:\n\n— nata,\n\n— manteiga sem sal produzida a partir de nata ou de leite num empresa aprovada da Comunidade, com um teor de matéria gorda butírica, em peso, de 82 %, no mínimo, e um teor de água, em peso, de 16 %, no máximo,\n\n— manteiga com sal produzida a partir de nata ou de leite numa empresa aprovada da Comunidade, com um teor de matéria gorda butírica, em peso, de 80 %, no mínimo, um teor de água, em peso, de 16 %, no máximo, e um teor de sal, em peso, de 2 %, no máximo.\n\nA manteiga deve corresponder a classes nacionais de qualidade a determinar e ser marcada em conformidade.\n\nO montante da ajuda será fixado atendendo às despesas de armazenagem e à evolução previsível dos preços de manteiga fresca e da manteiga de armazenagem. Se, no momento da desarmazenagem, o mercado tiver evoluído desfavorável e imprevisivelmente em relação ao momento da armazenagem, o montante da ajuda pode ser aumentado.\n\nA ajuda à armazenagem privada fica sujeita à celebração de um contrato de armazenagem, segundo disposições a determinar, pelo organismo de intervenção do Estado-Membro em cujo território a nata ou a manteiga que beneficia da ajuda se encontra armazenada.\n\nSe a situação do mercado o exigir, a Comissão pode decidir proceder à recolocação no mercado de parte ou da totalidade da nata ou da manteiga sob contrato de armazenagem privada.\n\n4. O escoamento da manteiga comprada pelos organismos de intervenção será efectuado a um preço mínimo e em condições a determinar, de forma a não comprometer o equilíbrio do mercado e a assegurar a igualdade de tratamento e de acesso dos compradores ao produto à venda. Sempre que a manteiga colocada à venda se destine à exportação, podem ser previstas condições especiais, a fim de garantir que o produto não seja desviado do seu destino e de forma a ter em conta exigências específicas deste tipo de vendas.\n\nEm relação à manteiga em armazenagem pública que não possa ser escoada durante a campanha leiteira em condições normais, podem ser tomadas medidas especiais. Desde que a natureza dessas medidas o justifique, serão igualmente adoptadas medidas especiais para manter as possibilidades de escoamento dos produtos que tenham beneficiado das ajudas referidas no n.º 3.\n\n5. O regime de intervenção deve ser aplicado de modo a:\n\n— manter a posição concorrencial da manteiga no mercado,\n\n— salvaguardar, na medida do possível, a qualidade inicial da manteiga,\n\n— assegurar a armazenagem de forma mais racional possível.\n\n6. Na acepção do presente artigo, entende-se por:\n\n— «leite» o leite de vaca produzido na Comunidade,\n\n— «nata» a nata obtida directa e exclusivamente a partir de leite."
+  },
+  "c175effc1859a219": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O organismo de intervenção designado por cada um dos Estados-Membros comparará ao preço de intervenção, em condições a determinar, o leite em pó desnatado de primeira qualidade fabricado por atomização e obtido, numa empresa aprovada da Comunidade, directa e exclusivamente a partir do leite desnatado que lhe for proposto no período compreendido entre 1 de Março e 31 de Agosto e que:\n\n— contenha um teor mínimo, em peso, de matéria proteica de 35,6 % em relação ao extracto seco não gordo,\n\n— satisfaça exigências de conservação a determinar,\n\n— preencha condições a determinar relativamente à quantidade mínima e à embalagem.\n\nTodavia, os organismos de intervenção comprarão igualmente o leite em pó desnatado com um teor de matéria proteica do extracto seco não gordo de, pelo menos, 31,4 % e inferior a 35,6 %, desde que o dito leite satisfaça as demais condições previstas no primeiro parágrafo. Neste caso, o preço de compra será igual aopreço de intervenção, diminuído de 1,75 % por cada ponto percentual abaixo do teor de 35,6 %.\n\nO preço de intervenção é o preço em vigor na data de fabrico do leite em pó desnatado e é aplicável ao leite em pó desnatado entregue no armazém designado pelo organismo de intervenção. No caso de o leite em pó desnatado ser entregue num armazém situado para além de uma distância a determinar do local em que o leite em pó desnatado seencontrava armazenado, as despesas de transporte serão suportadas forfetariamente, em condições a definir, pelo organismo de intervenção.\n\nO leite em pó desnatado só pode ser armazenado em armazéns que satisfaçam certas condições a determinar.\n\n2. A Comissão pode suspender a compra de leite em pó desnatado prevista no n.º 1 logo que as quantidades anualmente propostas para intervenção no período compreendido entre 1 de Março e 31 de Agosto excedam 109 000 toneladas.\n\nNesse caso, as compras pelos organismos de intervenção podem ser efectuadas através de concurso público permanente, sujeito a especificações a determinar.\n\n3. Pode ser decidida a concessão de uma ajuda à armazenagem privada de leite em pó desnatado de primeira qualidade obtido, numa empresa aprovada da Comunidade, directa e exclusivamente a partir de leite desnatado, designadamente no caso de a evolução dos preços e das existências deste produto demonstrar um desequilíbrio grave do mercado, susceptível de ser evitado ou atenuado pela sua armazenagem sazonal. Para poder beneficiar de ajuda, o leite em pó desnatado deve satisfazer certas condições a determinar.\n\nO montante da ajuda será fixado atendendo às despesas de armazenagem e à evolução previsível dos preços do leite em pó desnatado.\n\nA ajuda à armazenagem privada fica subordinada à celebração de um contrato de armazenagem, segundo disposições a determinar, pelo organismo de intervenção do Estado-Membro em cujo território o leite em pó desnatado que beneficia da ajuda se encontra armazenado. Se a situação do mercado o exigir, a Comissão pode decidir proceder à recolocação no mercado de parte ou da totalidade do leite em pó desnatado sob contrato de armazenagem privada.\n\n4. O escoamento do leite em pó desnatado comprado pelo organismo de intervenção será efectuado a um preço mínimo e em condições a determinar, de forma a não comprometer o equilíbrio do mercado e a assegurar a igualdade de tratamento e de acesso dos compradores ao produto à venda.\n\nSempre que o leite em pó desnatado colocado à venda se destine à exportação, podem ser previstas condições especiais, a fim de garantir que o produto não seja desviado do seu destino e de forma a ter em conta exigências específicas deste tipo de vendas.\n\nEm relação ao leite em pó desnatado em armazenagem pública que não possa ser escoado durante a campanha leiteira em condições normais, podem ser tomadas medidas especiais.\n\n5. Na acepção do presnete artigo, entende-se por «leite desnatado» o leite desnatado obtido directa e exclusivamente a partir de leite de vaca produzido na Comunidade."
+  },
+  "36207397757fb994": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Em condições a determinar, serão concedidas ajudas à armazenagem privada dos queijos:\n\na) Grana Padano com, pelo menos, nove meses;\n\nb) Parmigiano Reggiano com, pelo menos, 15 meses;\n\nc) Provolone com, pelo menos, três meses,\n\nse preencherem determinados requisitos.\n\n2. O montante da ajuda à armazenagem privada será fixado atendendo às despesas de armazenagem e à evolução previsível dos preços de mercado.\n\n3. A execução das medidas adoptadas em aplicação do n.º 1 será assegurada pelo organismo de intervenção designado pelo Estado-Membro em que os referidos queijos são produzidos e têm direito à denominação de origem.\n\nA concessão da ajuda à armazenagem privada será sujeita à celebração de um contrato de armazenagem com o organismo de intervenção. Esse contrato será celebrado em condições a determinar.\n\nSempre que a situação do mercado o exigir, a Comissão pode decidir que o organismo de intervenção mande proceder à recolocação no mercado de parte ou da totalidade dos queijos armazenados."
+  },
+  "2de7779e2170a47e": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Podem ser concedidas ajudas à armazenagem privada de queijos de longa conservação e de queijos produzidos a partir de leite de ovelha e/ou de cabra que necessitem de um período de maturação de, pelo menos, seis meses, se a evolução dos preços e das existências destes queijos demonstrar um desequilíbrio grave do mercado susceptível de ser evitado ou atenuado pela sua armazenagem sazonal.\n\n2. O montante da ajuda será fixado por referência aos custos de armazenagem e ao equilíbrio a manter entre os queijos que beneficiam da ajuda e os outros queijos colocados no mercado.\n\n3. Se a situação do mercado comunitário o exigir, a Comissão pode decidir da recolocação no mercado de parte ou da totalidade dos queijos sob contrato de armazenagem privada.\n\n4. Se, no termo do contrato de armazenagem, o nível dos preços de mercado dos queijos armazenados for superior ao praticado aquando da celebração do contrato, pode ser decidido ajustar o montante da ajuda nesse sentido."
+  },
+  "f47e2338f49daa7f": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nSerão adoptados, nos termos do artigo 42.º:\n\na) As regras de execução do presente capítulo, designadamente as relativas à fixação dos preços de mercado da manteiga;\n\nb) Os montantes da ajuda à armazenagem privada a que se refere o presente capítulo;\n\nc) As demais decisões e medidas que podem ser tomadas pela Comissão ao abrigo do presente capítulo."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "42ef95c90503edcd": {
+   "fragment_id": "Medidas de comercialização",
+   "type": "divisao",
+   "heading": "Medidas de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas de comercialização"
+  },
+  "c304cbc19f31f602": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Serão concedidas ajudas para o leite desnatado e o leite em pó desnatado utilizados na alimentação dos animais, se estes produtos satisfizerem certas normas.\n\nNa acepção do presente artigo, o leitelho e o leitelho em pó são equiparados ao leite desnatado e ao leite em pó desnatado.\n\n2. Os montantes da ajuda serão fixados tendo em conta os seguintes factores:\n\n— preço de intervenção do leite em pó desnatado,\n\n— evolução da situação em matéria de abastecimento de leite desnatado e de leite em pó desnatado, bem como evolução da utilização destes produtos nos alimentos para animais,\n\n— tendências dos preços dos vitelos,\n\n— tendências dos preços de mercado das proteínas concorrentes, comparativamente com os do leite em pó desnatado."
+  },
+  "1e682c70e231a6ce": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Nas condições definidas nos termos do n.º 2, será concedida uma ajuda para o leite desnatado produzido na Comunidade e transformado em caseína ou caseinatos, se este leite e a caseína ou caseinatos fabricados com este leite satisfizerem determinadas normas.\n\n2. A ajuda pode variar, consoante o leite desnatado tenha sido transformado em caseína ou caseinatos e consoante a qualidade destes produtos.\n\nO montante da ajuda será fixado tendo em conta os seguintes factores:\n\n— preço de intervenção do leite em pó desnatado ou preço de mercado do leite em pó desnatado de primeira qualidade fabricado por atomização, se esse preço for superior ao preço de intervenção,\n\n— preços de mercado da caseína e dos caseinatos nos mercados comunitário e mundial."
+  },
+  "5dd8b4be4ecc2e4c": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Quando se constituam ou exista o risco de se constituírem excedentes de produtos lácteos, a Comissão pode decidir da concessão de uma ajuda destinada a permitir a compra de nata, de manteiga e de manteiga concentrada a preços reduzidos:\n\na) Por instituições e organizações sem fins lucrativos;\n\nb) Por forças armadas e unidades com estatuto equiparável nos Estados-Membros;\n\nc) Por fabricantes de produtos de pastelaria e de gelados;\n\nd) Por fabricantes de outros géneros alimentícios, a determinar;\n\ne) Para o consumo directo de manteiga concentrada."
+  },
+  "9d57f2125375cecd": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. É concedida uma ajuda comunitária para a distribuição aos alunos, nos estabelecimentos de ensino, de certos produtos transformados à base de leite dos códigos NC 0401, 0403, 0404 90 e 0406 ou do código NC 2202 90.\n\n2. Como complemento da ajuda comunitária, os Estados-Membros podem conceder ajudas nacionais à distribuição aos alunos, nos estabelecimentos de ensino, dos produtos a que se refere o n.º 1. Os Estados-Membros podem financiar a sua ajuda nacional por meio de uma taxa colocada ao sector leiteiro, ou de qualquer outra contribuição do sector leiteiro.\n\n3. No caso do leite inteiro, o montante, expresso em euros, das ajudas comunitárias é fixado em:\n\n— 23,24/100 kg, para o período decorrente até 30 de Junho de 2004,\n\n— 21,69/100 kg, para o período compreendido entre 1 de Julho de 2004 e 30 de Junho de 2005,\n\n— 20,16/100 kg, para o período compreendido entre 1 de Julho de 2005 e 30 de Junho de 2006,\n\n— 18,61/100 kg, para o período compreendido entre 1 de Julho de 2006 e 30 de Junho de 2007,\n\n— 18,15/100 kg, a partir de 1 de Julho de 2007.\n\nNo caso dos outros produtos lácteos, o montante das ajudas será determinado tendo em conta as componentes lácteas dos produtos em causa.\n\n4. A ajuda referida do n.º 1 será concedida em relação a uma quantidade máxima de 0,25 litros de equivalente-leite por aluno e por dia."
+  },
+  "a8661f9d90717906": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nSerão adoptados, nos termos do artigo 42.º:\n\na) As regras de execução do presente capítulo, em especial as condições de concessão das ajudas nele previstas;\n\nb) Os montantes das ajudas a que se refere o presente capítulo;\n\nc) A lista dos produtos referidos na alínea d) do artigo 13.º e no n.º 1 do artigo 14.º;\n\nd) Outras decisões e medidas que possam ser tomadas pela Comissão ao abrigo do presente capítulo."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "f5d98f8f882aae17": {
+   "fragment_id": "REGIME COMERCIAL COM PAÍSES TERCEIROS",
+   "type": "divisao",
+   "heading": "REGIME COMERCIAL COM PAÍSES TERCEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGIME COMERCIAL COM PAÍSES TERCEIROS"
+  },
+  "268003d73b9fe466": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. Todas as importações para a Comunidade dos produtos enumerados no artigo 1.º estão sujeitas à apresentação de um certificado de importação. Todas as exportações desses produtos a partir da Comunidade podem ser sujeitas à apresentação de um certificado de exportação.\n\n2. Os certificados são emitidos pelos Estados-Membros, a pedido do interessado, independentemente do local do seu estabelecimento na Comunidade, sem prejuízo das disposições tomadas em aplicação dos artigos 29.º, 30.º e 31.º\n\nOs certificados de importação e de exportação são válidos em toda a Comunidade. A sua emissão está sujeita à constituição de uma garantia que cubra o compromisso de importar ou exportar durante o prazo de validade do certificado e que, salvo caso de força maior, ficará total ou parcialmente perdida, se a operação não for realizada nesse período ou se apenas o for parcialmente.\n\n3. Serão adoptados pela Comissão, nos termos do artigo 42.º:\n\na) A lista dos produtos para os quais são exigidos certificados de exportação;\n\nb) O prazo de validade dos certificados;\n\nc) As outras regras de execução do presente artigo."
+  },
+  "a5a60a612e3943d3": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nSalvo disposição em contrário do presente regulamento, as taxas dos direitos da pauta aduaneira comum são aplicáveis aos produtos enumerados no artigo 1.º"
+  },
+  "61f738e1c55f12e1": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. A fim de evitar ou combater os efeitos adversos para o mercado comunitário que possam resultar da importação de alguns produtos referidos no artigo 1.º, a importação, à taxa do direito referida no artigo 27.º, de um ou mais desses produtos é sujeita ao pagamento de um direito de importação adicional, se estiverem reunidas as condições previstas no artigo 5.º do Acordo sobre a agricultura, celebrado nos termos do artigo 300.º do Tratado, no âmbito das negociações comerciais multilaterais do «Uruguay Round», salvo se não houver risco de as importações perturbarem o mercado comunitário ou se os efeitos forem desproporcionados relativamente ao objectivo pretendido.\n\n2. Os preços de desencadeamento abaixo dos quais pode ser imposto um direito de importação adicional são os comunicados pela Comunidade à Organização Mundial do Comércio.\n\nOs volumes de desencadeamento que terão de ser ultrapassados para a imposição de um direito de importação adicional são determinados, nomeadamente, com base nas importações para a Comunidade durante os três anos que precedem o ano em que se manifestem ou possam vir a manifestar-se os efeitos adversos referidos no n.º 1.\n\n3. Os preços de importação a ter em consideração para a imposição de um direito de importação adicional são determinados com base nos preços de importação cif da remessa em causa.\n\nPara esse efeito, os preços de importação cif são verificados com base nos preços representativos do produto em causa no mercado mundial ou no mercado comunitário de importação do produto.\n\n4. A Comissão adoptará as regras de execução do presente artigo nos termos do artigo 42.º Essas regras incidirão designadamente sobre:\n\na) Os produtos a que podem ser aplicados direitos de importação adicionais nos termos do artigo 5.º do Acordo sobre a agricultura;\n\nb) Os outros critérios necessários para assegurar a aplicação do n.º 1 nos termos do artigo 5.º do mesmo acordo."
+  },
+  "e150d16b77e570f0": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. Os contingentes pautais, relativos aos produtos enumerados no artigo 1.º, que decorram de acordos celebrados segundo o artigo 300.º do Tratado ou qualquer outro acto do Conselho serão abertos e geridos segundo regras de execução adoptadas nos termos do artigo 42.º\n\n2. A gestão dos contingentes pode efectuar-se mediante aplicação de um dos métodos seguintes ou através de uma combinação dos mesmos:\n\n— método baseado na ordem cronológica de apresentação dos pedidos (segundo o princípio «primeiro a chegar, primeiro a ser servido»),\n\n— método de repartição proporcional às quantidades solicitadas na apresentação dos pedidos (segundo o método de «análise simultânea»),\n\n— método baseado na ponderação das correntes comerciais tradicionais (segundo o método «importadores tradicionais/novos importadores»).\n\nPoderão ser estabelecidos outros métodos adequados.\n\nOs métodos deverão evitar qualquer discriminação entre os operadores interessados.\n\n3. O método de gestão adoptado deverá atender, quando se considere adequado, às exigências de abastecimento do mercado comunitário e à necessidade de salvaguardar o seu equilíbrio, podendo simultaneamente inspirar-se nos métodos aplicados no passado aos contingentes correspondentes aos mencionados no n.º 1, sem prejuízo dos direitos decorrentes dos acordos celebrados no âmbito das negociações comerciais do «Uruguay Round».\n\n4. As regras de execução a que se refere o n.º 1 prevêem a abertura dos contingentes numa base anual e, se necessário, de acordo com um calendário adequado, determinam o método de gestão a aplicar e incluem, eventualmente:\n\na) Disposições que garantam a natureza, proveniência e origem doproduto;\n\nb) Disposições relativas ao reconhecimento do documento que permita verificar as garantias referidas na alínea a);\n\nc) As condições de emissão e o prazo de validade dos certificados de importação."
+  },
+  "25e658129729613e": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. Sempre que um acordo celebrado segundo o artigo 300.º do Tratado preveja a gestão total ou parcial de um contingente pautal aberto por um país terceiro para produtos referidos no artigo 1.º, o método de gestão a aplicar e as respectivas regras de execução serão determinados nos termos do artigo 42.º\n\n2. A gestão dos contingentes pode efectuar-se mediante aplicação dos métodos seguintes ou através de uma combinação dos mesmos:\n\n— método baseado na ordem cronológica de apresentação dos pedidos (segundo o princípio «primeiro a chegar, primeiro a ser servido»);\n\n— método de repartição proporcional às quantidades solicitadas na apresentação dos pedidos (segundo o método de «análise simultânea»),\n\n— método baseado na ponderação das correntes comerciais tradicionais (segundo o método «importadores tradicionais/novos importadores»).\n\nPoderão ser estabelecidos outros métodos adequados, nomeadamente os que assegurarem a plena utilização das possibilidades proporcionadas pelo contingente em causa.\n\nOs métodos deverão evitar qualquer discriminação entre os operadores interessados."
+  },
+  "b1d59a9b5706b110": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. Na medida do necessário para permitir a exportação dos produtos enumerados no artigo 1.º, sem alteração ou sob a forma de mercadorias constantes do anexo II, se se tratar dos produtos enunciados nas alíneas a), b), c), d), e) e g) do artigo 1.º, com base nos preços desses produtos no comércio internacional e dentro dos limites decorrentes dos acordos celebrados segundo o artigo 300.º do Tratado, a diferença entre esses preços e os preços na Comunidade pode ser coberta por uma restituição à exportação.\n\nA restituição à exportação de produtos referidos no artigo 1.º sob a forma de mercadorias constantes do anexo II não pode ser superior à restituição aplicável à exportação desses produtos sem alteração.\n\n2. No que respeita à atribuição das quantidades que podem ser exportadas com restituição, aplicar-se-á o método:\n\na) Mais adaptado à natureza do produto e à situação do mercado em questão e que permita a utilização mais eficaz possível dos recursos disponíveis, tendo em conta a eficácia e a estrutura das exportações da Comunidade, sem contudo criar qualquer discriminação entre pequenos e grandes operadores;\n\nb) Administrativamente menos complexo para os operadores, tendo em conta as exigências de gestão;\n\nc) Que evite qualquer discriminação entre os operadores interessados.\n\n3. A restituição é a mesma para toda a Comissão.\n\nPode ser diferenciada consoante os destinos, sempre que a situação do comércio internacional ou as exigências específicas de certos mercados o exigirem.\n\nAs restituições serão fixadas pela Comissão nos termos do artigo 42.º Essa fixação pode efectuar-se, designadamente:\n\na) De forma periódica;\n\nb) Por concurso, em relação aos produtos para os quais no passado estava previsto esse processo.\n\nExcepto em caso de fixação por concurso, a lista dos produtos em relação aos quais é condedida uma restituição, bem como o montante desta, são fixados pelo menos uma vez de quatro em quatro semanas. No entanto, as restituições podem ser mantidas ao mesmo nível durante mais de quatro semanas e, se necessário, alteradas pela Comissão no intervalo entre duas fixações, a pedido de um Estado-Membro ou por sua própria iniciativa. Contudo, no caso dos produtos referidos no artigo 1.º, exportados sob forma de mercadorias constantes do anexo II do presente regulamento, poderá estabelecer-se outro ritmo de fixação nos termos do artigo 16.º do Regulamento (CE) n.º 3448/93 do Conselho ([^19^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0022)).\n\n4. As restituições para os produtos referidos no artigo 1.º e exportados sem alteração serão fixadas tendo em conta os seguintes elementos:\n\na) Situação e perspectivas de evolução:\n\n— dos preços e disponibilidades do leite e dos produtos lácteos no mercado comunitário,\n\n— dos preços do leite e dos produtos lácteos no mercado mundial;\n\nb) Despesas de comercialização e de transporte mais favoráveis, a partir dos mercados comunitários para os portos ou outros locais de exportação da Comunidade, bem como despesas de acesso aos países de destino; procura no mercado comunitário;\n\nc) Objectivos da organização comum de mercado no sector do leite e dos produtos lácteos, que consistem em assegurar a estes mercados uma situação equilibrada e um desenvolvimento natural em termos de preços e trocas comerciais;\n\nd) Limites decorrentes dos acordos celebrados segundo o artigo 300.º do Tratado;\n\ne) Interesse em evitar pertubações no mercado comunitário;\n\nf) Aspecto económico das exportações previstas.\n\nAlém disso, será sobretudo tida em conta a necessidade de estabelecer um equilíbrio entre a utilização dos produtos agrícolas de base comunitários com vista à exportação de mercadorias transformadas para países terceiros e a utilização dos produtos destes países admitidos para o regime de aperfeiçoamento activo.\n\n5. Em relação aos produtos referidos no artigo 1.º e exportados sem alteração:\n\na) Os preços na Comunidade mencionados no n.º 1 são estabelecidos em função dos preços praticados que se relevarem mais favoráveis para efeitos de exportação;\n\nb) Os preços no comércio internacional mencionados no n.º 1 são estabelecidos em função, nomeadamente:\n\n— dos preços praticados nos mercados dos países terceiros,\n\n— dos preços mais favoráveis de importação, a partir de países terceiros, nos países terceiros de destino,\n\n— dos preços na produção registados nos países terceiros exportadores, tendo eventualmente em conta os subsídios concedidos por estes países,\n\n— dos preços de oferta franco-fronteira da Comunidade.\n\n6. Em relação aos produtos referidos no n.º 1 e exportados sem alteração, a restituição só será concedida a pedido e contra apresentação do correspondente certificado de exportação.\n\n7. O montante da restituição aplicável à exportação dos produtos referidos no artigo 1.º e exportados sem alteração será o montante em vigor na data do pedido do certificado; em caso de restituição diferenciada, será o montante aplicável nessa mesma data:\n\na) No destino indicado no certificado ou, se for caso disso;\n\nb) No destino real, se este for diferente do destino indicado no certificado. Nesse caso, o montante aplicável não poderá ultrapassar o montante aplicável no destino indicado no certificado.\n\nPoderão ser adoptadas medidas adequadas para evitar a utilização abusiva da flexibilidade prevista no presente número.\n\n8. O disposto nos n.^os^ 6 e 7 pode ser extensivo aos produtos referidos no artigo 1.º exportados sob forma de mercadorias constantes do anexo II, nos termos do artigo 16.º do Regulamento (CE) n.º 3448/93.\n\n9. Pode ser estabelecida uma derrogação dos n.^os^ 5 e 7 em relação a produtos referidos no artigo 1.º que beneficiem de restituições no âmbito de acções de ajuda alimentar, nos termos do artigo 42.º\n\n10. A restituição é paga logo que seja produzida prova de que os produtos:\n\n— são de origem comunitária,\n\n— foram exportados para fora da Comunidade, e\n\n— no caso de uma restituição diferenciada, chegaram ao destino indicado no certificado ou outro destino para o qual tenha sido fixada umarestituição, sem prejuízo da alínea b) do n.º 7. Podem ser previstas derrogações a esta regra nos termos do artigo 42.º, sob reserva de condições a determinar, que ofereçam garantias equivalentes.\n\n11. Sem prejuízo do primeiro travessão do artigo 10.º, na ausência de derrogação nos termos do artigo 42.º, não será concedida qualquer restituição à exportação de produtos importados de países terceiros e reexportados para países terceiros.\n\n12. No que se refere aos produtos mencionados no artigo 1.º, exportados sob forma de mercadorias constantes do anexo II do presente regulamento, os n.^os^ 10 e 11 só se aplicam às mercadorias dos seguintes códiges NC:\n\n— 0405 20 30 [pastas de barrar (espalhar) de produtos provenientes do leite, de teor, em peso, de matérias gordas, igual ou superior a 60 % mas não superior a 75 %],\n\n— 1806 90 60 a 1806 90 90 (certos produtos à base de cacau),\n\n— 1901 (certos preparados alimentares à base de farinha, etc.),\n\n— 2106 90 98 (certos preparados alimentares não especificados noutras posições),\n\ncom elevado teor de componentes lácteos.\n\n13. A observância dos limites de volume decorrentes de acordos celebrados segundo o artigo 300.º do Tratado será assegurada com base nos certificados de exportação emitidos a título dos períodos de referência neles previstos, aplicáveis aos produtos em causa. Quanto ao cumprimento das obrigações decorrentes do Acordo sobre a agricultura, a validade dos certificados de exportação não é afectada pelo termo de um período de referência.\n\n14. As regras de execução do presente artigo, incluindo as disposições relativas à redistribuição das quantidades exportáveis não atribuídas ou não utilizadas, assim como qualquer alteração do anexo II, serão adoptadas pela Comissão nos termos do artigo 42.º Contudo, as regras de execução dos n.^os^ 8, 10, 11 e 12 para os produtos referidos no artigo 1.º, exportados sob forma de mercadorias constantes do anexo II do presente regulamento, serão adoptadas nos termos do artigo 16.º do Regulamento (CE) n.º 3448/93."
+  },
+  "31e6f0b584ceffb6": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1. Na medida do necessário ao bom funcionamento da organização comum de mercado no sector do leite e dos produtos lácteos, o Conselho, deliberando por maioria qualificada, sob proposta da Comissão, pode, em casos especiais, proibir total ou parcialmente o recurso ao regime de aperfeiçoamento activo em relação aos produtos enumerados no artigo 1.º, destinados ao fabrico de produtos referidos nesse artigo ou de mercadorias referidas no anexo II do presente regulamento.\n\n2. Em derrogação do n.º 1, se a situação mencionada nesse número for excepcionalmente urgente e se o mercado comunitário for perturbado ou correr o risco de ser perturbado pelo regime de aperfeiçoamento activo, a Comissão, a pedido de um Estado-Membro ou por sua própria iniciativa, decidirá das medidas necessárias, que serão comunicadas ao Conselho e aos Estados-Membros, terão um prazo de validade máximo de seis meses e serão imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-Membro, tomará uma decisão no prazo de uma semana a contar da recepção do pedido.\n\n3. Qualquer Estado-Membro pode submeter à apreciação do Conselho a decisão da Comissão, no prazo de uma semana a contar da data da comunicação da mesma. O Conselho, deliberando por maioria qualificada, pode confirmar, alterar ou revogar a decisão da Comissão.\n\nSe no prazo de três meses o Conselho não tiver tomado qualquer decisão, considera-se revogada a decisão da Comissão."
+  },
+  "9c46a28e32a611a8": {
+   "fragment_id": "Artigo 33.º",
+   "type": "artigo",
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1. As regras gerais de interpretação da Nomenclatura Combinada e as regras especiais para a sua aplicação serão aplicáveis à classificação dos produtos abrangidos pelo presente regulamento; a nomenclatura pautal resultante da aplicação do presente regulamento será integrada na pauta aduaneira comum.\n\n2. Salvo disposições em contrário do presente regulamento ou adoptadas por força do mesmo, são proibidas, nas trocas comerciais com países terceiros:\n\n— a cobrança de qualquer imposição de efeito equivalente a um direito aduaneiro,\n\n— a aplicação de qualquer restrição quantitativa ou medida de efeito equivalente."
+  },
+  "3dcfb07082e2d5ff": {
+   "fragment_id": "Artigo 34.º",
+   "type": "artigo",
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1. Sempre que o preço franco-fronteira de um ou vários produtos enumerados no artigo 1.º exceda significativamente o nível dos preços comunitários e essa situação possa persistir, perturbando ou ameaçando perturbar o mercado comunitário, podem ser tomadas as medidas previstas no n.º 5.\n\n2. Considera-se que existe um excesso significativo, na acepção do n.º 1, quando o preço franco-fronteira exceder o preço de intervenção fixado para o produto em questão, acrescido de 15 % ou, no caso dos produtos para os quais não existe um preço de intervenção, um preço derivado do preço de intervenção a determinar nos termos do artigo 42.º, tendo em conta a natureza e a composição desse produto.\n\n3. Considera-se que o excesso significativo do nível dos preços pelo preço franco-fronteira pode persistir quando se verifica entre a oferta e a procura um desequilíbrio susceptível de se prolongar, tendo em conta a evolução previsível da produção e dos preços de mercado.\n\n4. Considera-se que existe uma perturbação ou ameaça de perturbação do mercado comunitário em consequência da situação descrita no presente artigo, quando o elevado nível dos preços no comércio internacional:\n\n— criar entraves à importação de produtos lácteos para a Comunidade, ou\n\n— provocar a saída de produtos lácteos da Comunidade,\n\nde tal forma que a segurança do abastecimento na Comunidade deixe — ou possa vir a deixar — de ser assegurada.\n\n5. Sempre que estejam prenchidas as condições enumeradas nos n.^os^ 1 a 4, podem ser determinadas, nos termos do artigo 42.º, a suspensão total ou parcial dos direitos de importação e/ou a cobrança de taxas de exportação. As regras de execução do presente artigo serão, se necessário, adoptadas pela Comissão nos termos do mesmo artigo."
+  },
+  "056b165a6b7485c7": {
+   "fragment_id": "Artigo 35.º",
+   "type": "artigo",
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. Se, devido às importações ou às exportações, o mercado comunitário de um ou vários produtos enumerados no artigo 1.º sofrer, ou correr o risco de sofrer, perturbações graves que possam pôr em perigo os objectivos previstos no artigo 33.º do Tratado, podem ser aplicadas medidas adequadas às trocas comerciais com países terceiros até que desapareça a perturbação ou o risco de perturbação.\n\nO Conselho, deliberando por maioria qualificada, sob proposta da Comissão, adoptará as regras gerais de execução do presente número e definirá os casos e limites em que os Estados-Membros podem tomar medidas de protecção.\n\n2. Se se verificar a situação prevista no n.º 1, a Comissão, a pedido de um Estado-Membro ou por sua própria iniciativa, decidirá das medidas necessárias, que serão comunicadas aos Estados-Membros e imediatamente aplicáveis. Se a Comissão receber um pedido de um Estado-Membro, tomará uma decisão no prazo de três dias úteis a contar da recepção do pedido.\n\n3. Qualquer Estado-Membro pode submeter ao Conselho a medida tomada pela Comissão no prazo de três dias úteis a contar da data da sua comunicação. O Conselho reunir-se-á imediatamente e, deliberando por maioria qualificada, pode alterar ou anular a medida em causa no prazo de um mês a contar da data em que a medida lhe foi submetida.\n\n4. O presente artigo será aplicado no respeito das obrigações decorrentes dos acordos celebrados segundo o n.º 2 do artigo 300.º do Tratado."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "dcb9b0898bc06a98": {
+   "fragment_id": "Artigo 36.º",
+   "type": "artigo",
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1. A fim de ter em conta as limitações à livre circulação que possam resultar da aplicação de medidas destinadas a combater a propagação de doenças dos animais, podem ser tomadas medidas excepcionais de apoio do mercado afectado por essas limitações, nos termos do artigo 42.º. Essas medidas são tomadas a pedido do Estado-Membro ou dos Estados-Membros em causa. Só podem ser tomadas se o Estado-Membro ou os Estados-Membros em causa tiverem adoptado medidas veterinárias e sanitárias para pôr rapidamente termo às epizootias e na medida e pelo período estritamente necessários ao apoio desse mercado.\n\n2. A Comunidade participa no financiamento das medidas excepcionais referidas no n.º 1, tomadas em relação directa com as medidas veterinárias e sanitárias, até ao limite de 50 % das despesas suportadas pelos Estados-Membros e, em caso de luta contra a febre aftosa, de 60 % dessas despesas.\n\n3. Os Estados-Membros devem assegurar que, caso os produtores contribuam para as despesas suportadas pelos Estados-Membros, tal facto não provoque distorções de concorrência entre produtores de diferentes Estados-Membros.\n\n4. Os artigos 87.º, 88.º e 89.º do Tratado não se aplicam à contribuição financeira dos Estados-Membros a favor das medidas referidas no n.º 1."
+  },
+  "1c29464205fc61bd": {
+   "fragment_id": "Artigo 37.º",
+   "type": "artigo",
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nSalvo disposição em contrário do presente regulamento, os artigos 87.º, 88.º e 89.º do Tratado são aplicáveis à produção e ao comércio dos produtos enumerados no artigo 1.º"
+  },
+  "9cf2fc2b191a821d": {
+   "fragment_id": "Artigo 38.º",
+   "type": "artigo",
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1. Sem prejuízo do disposto no n.º 2 do artigo 87.º do Tratado, são proibidas as ajudas cujo montante seja determinado em função do preço ou da quantidade dos produtos enumerados no artigo 1.º\n\n2. São igualmente proibidas as medidas nacionais que permitam uma perequação entre os preços dos produtos enumerados no artigo 1.º"
+  },
+  "565865383a87b8a1": {
+   "fragment_id": "Artigo 39.º",
+   "type": "artigo",
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nSem prejuízo da aplicação dos artigos 87.º, 88.º e 89.º do Tratado, os Estados-Membros podem cobrar aos seus produtores de leite uma imposição para promoção sobre as quantidades de leite ou de equivalente-leite comercializadas, a fim de financiar medidas relativas à promoção do consumo na Comunidade, ao alargamento dos mercados do leite e dos produtos lácteos e à melhoria da qualidade."
+  },
+  "e9f044f2e7567408": {
+   "fragment_id": "Artigo 40.º",
+   "type": "artigo",
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nOs Estados-Membros e a Comissão trocarão entre si os dados necessários à aplicação do presente regulamento. As normas para a comunicação e a difusão destes dados serão adoptadas pela Comissão nos termos do artigo 42.º"
+  },
+  "1bcfb6f7c072d192": {
+   "fragment_id": "Artigo 41.º",
+   "type": "artigo",
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nÉ instituído um Comité de Gestão do Leite e dos Produtos Lácteos, a seguir designado «comité», composto de representantes dos Estados-Membros e presidido por um representante da Comissão."
+  },
+  "15aa48aae91a6026": {
+   "fragment_id": "Artigo 42.º",
+   "type": "artigo",
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1. A Comissão é assistida pelo Comité de Gestão do Leite e dos Produtos Lácteos.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE ([^20^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#E0023)).\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O comité aprovará o seu regulamento interno."
+  },
+  "def46b3dc9b85dce": {
+   "fragment_id": "Artigo 43.º",
+   "type": "artigo",
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nO comité pode examinar qualquer outra questão suscitada pelo seu presidente, quer por iniciativa deste, quer a pedido do representante de um Estado-Membro."
+  },
+  "da6096a08bc3b395": {
+   "fragment_id": "Artigo 44.º",
+   "type": "artigo",
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nO presente regulamento deve ser aplicado de modo a que sejam tidos devida e simultaneamente em conta os objectivos previstos nos artigos 33.º e 131.º do Tratado."
+  },
+  "f151ce5fbe4a0491": {
+   "fragment_id": "Artigo 45.º",
+   "type": "artigo",
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nO [**►C2**](http://publications.europa.eu/resource/celex/31999R1255R%2802%29) Regulamento (CE) n.º 1258/1999**◄** e as disposições adoptadas em sua execução são aplicáveis aos produtos enumerados no artigo 1.º"
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "fee7c0f6661bbf52": {
+   "fragment_id": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES TRANSITÓRIAS E FINAIS"
+  },
+  "178ccd987889eeed": {
+   "fragment_id": "Artigo 46.º",
+   "type": "artigo",
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1. São revogados os Regulamentos (CEE) n.º 804/68, (CEE) n.º 986/68, (CEE) n.º 987/68, (CEE) n.º 508/71, (CEE) n.º 1422/78, (CEE) n.º 1723/81, (CEE) n.º 2990/92, (CEE) n.º 1842/83, (CEE) n.º 865/84 e (CEE) n.º 777/87.\n\n2. As referências ao Regulamento (CEE) n.º 804/68 devem entender-se como sendo feitas ao presente regulamento e ler-se nos termos da tablea de correspondência do anexo III."
+  },
+  "f8b3ccdfbda987e6": {
+   "fragment_id": "Artigo 47.º",
+   "type": "artigo",
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nA Comissão adoptará, nos termos do artigo 42.º:\n\n— as medidas necessárias para facilitar a transição das disposições do Regulamento (CEE) n.º 804/68 para as estabelecidas pelo presente regulamento,\n\n— as medidas necessárias para solucionar problemas práticos específicos. Essas medidas, se devidamente justificadas, podem derrogar determinadas partes do presente regulamento."
+  },
+  "eff9bc8bbe0c392b": {
+   "fragment_id": "Artigo 48.º",
+   "type": "artigo",
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nO presente regulamento entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*. É aplicável a partir de 1 de Janeiro de 2000.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "d9f986de4f3ea7db": {
+   "fragment_id": "PAGAMENTOS COMPLEMENTARES: MONTANTES GLOBAIS REFERIDOS NO ARTIGO 17.º",
+   "type": "divisao",
+   "heading": "PAGAMENTOS COMPLEMENTARES: MONTANTES GLOBAIS REFERIDOS NO ARTIGO 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PAGAMENTOS COMPLEMENTARES: MONTANTES GLOBAIS REFERIDOS NO ARTIGO 17.º\n\n| (em milhões de euros) |  |  |  |\n| --- | --- | --- | --- |\n|  | 2005 | 2006 | 2007 e anos seguintes |\n| Bélgica | 8,6 | 17,1 | 25,7 |\n| República Checa | 6,9 | 13,87 | 20,8 |\n| Dinamarca | 11,5 | 23,0 | 34,5 |\n| Alemanha | 72,0 | 144,0 | 216,0 |\n| Estónia | 1,6 | 3,2 | 4,85 |\n| Grécia | 1,6 | 3,3 | 4,9 |\n| Espanha | 14,4 | 28,7 | 43,1 |\n| França | 62,6 | 125,3 | 187,9 |\n| Irlanda | 13,6 | 27,1 | 40,7 |\n| Itália | 25,7 | 51,3 | 77,0 |\n| Chipre | 0,4 | 0,75 | 1,1 |\n| Letónia | 1,8 | 3,6 | 5,4 |\n| Lituânia | 4,25 | 8,5 | 12,8 |\n| Luxemburgo | 0,7 | 1,4 | 2,1 |\n| Hungria | 5,0 | 10,1 | 15,1 |\n| Malta | 0,13 | 0,25 | 0,38 |\n| Países Baixos | 28,6 | 57,2 | 85,8 |\n| Áustria | 7,1 | 14,2 | 21,3 |\n| Polónia | 23,1 | 46,3 | 69,6 |\n| Portugal | 4,8 | 9,7 | 14,5 |\n| Eslovénia | 1,45 | 2,9 | 4,35 |\n| Eslováquia | 2,6 | 5,2 | 7,9 |\n| Finlândia | 6,2 | 12,4 | 18,6 |\n| Suécia | 8,5 | 17,1 | 25,6 |\n| Reino Unido | 37,7 | 75,4 | 113,1 |"
+  },
+  "d9261d29ab922219": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| Código NC | Designação das mercadorias |\n| --- | --- |\n| ex04 05 | Manteiga e outras matérias gordas provenientes do leite; pastas de barrar (espalhar) de produtos provenientes do leite: |\n| 0405 20 | – Pastas de barrar (espalhar) de produtos provenientes do leite: |\n| 0405 20 10 | – – De teor, em peso, de matérias gordas igual ou superior a 39 % mas inferior a 60 % |\n| 0405 20 30 | – – De teor, em peso, de matérias gordas, igual ou superior a 60 % mas não superior a 75 % |\n| ex15 17 | Margarina; misturas ou preparações alimentícias de gorduras ou de óleos animais ou vegetais ou de fracções das diferentes gorduras ou óleos do presente capítulo, excepto as gorduras e óleos alimentícios, e respectivas fracções, da posição 1516: |\n| 1517 10 | – Margarina, excepto a margarina líquida: |\n| 1517 10 10 | – – De teor, em peso, de matérias gordas provenientes do leite superior a 10 % mas não superior a 15 % |\n| 1517 90 | – Outros: |\n| 1517 90 10 | – – De teor, em peso, de matérias gordas provenientes do leite, superior a 10 % mas não superior a 15 % |\n| ex17 04 | Produtos de confeitaria sem cacau (incluído o chocolate branco): |\n| ex17 04 90 | – Outros, com exclusão de extractos de alcaçuz contendo, em peso, mais de 10 % de sacarose, sem adição de outras matérias |\n| ex18 06 | Chocolate e outras preparações alimentícias contendo cacau, com exclusão do cacau em pó com adição de sacarose da posição 1806 10 |\n| ex19 01 | Extractos de malte; preparações alimentícias de farinhas, sêmolas, amidos, féculas ou extractos de malte, não contendo cacau ou contendo-o numa proporção inferior a 40 %, em peso, calculado sob uma base totalmente desengordurada, não especificadas nem compreendidas noutras posições; preparações alimentícias de produtos das posições 0401 a 0404, não contendo cacau ou contendo-o numa proporção inferior a 5 %, em peso, calculado sob uma base totalmente desengordurada, não especificadas nem compreendidas noutras posições: |\n| 1901 10 00 | – Preparações para alimentação de crianças, acondicionadas para venda a retalho |\n| 1901 20 00 | – Misturas e pastas para a preparação de produtos de padaria, pastelaria e da indústria de bolachas e biscoitos da posição 1905 |\n| 1901 90 | – Outros: |\n|  | – – Outros: |\n| 1901 90 99 | – – – Outros: |\n| ex19 02 | Massas alimentícias, mesmo cozidas ou recheadas (de carne ou de outras substâncias) ou preparadas de outro modo, tais como esparguete, macarrão, aletria, lasanha, nhoque, raviole e canelone; cuscuz, mesmo preparado: |\n|  | – Massas alimentícias não cozidas, nem recheadas nem preparadas de outro modo: |\n| 1902 19 | – – Outras |\n| 1902 20 | – Massas alimentícias recheadas (mesmo cozidas ou preparadas de outro modo): |\n|  | – – Outras: |\n| 1902 20 91 | – – – Cozidas |\n| 1902 20 99 | – – – Outros |\n| 1902 30 | – Outras massas alimentícias |\n| 1902 40 | – Cuscuz: |\n| 1902 40 90 | – – Outro |\n| 1904 | Produtos à base de cereais, obtidos por expansão ou por torrefacção [por exemplo: flocos de milho (*corn flakes*)]; cereais (excepto milho) em grãos trabalhados (com excepção da farinha e da sêmola), pré-cozidos ou preparados de outro modo, não especificados nem compreendidos noutras posições |\n| 1905 | Produtos de padaria, pastelaria ou da indústria de bolachas e biscoitos, mesmo adicionados de cacau; hóstias, cápsulas vazias para medicamentos, obreias, pastas secas de farinha, amido ou fécula em folhas e produtos semelhantes: |\n| 1905 10 00 | – Pão denominado *Knäckebrot* |\n| 1905 20 | – Pão de especiarias |\n| [▼M4](http://publications.europa.eu/resource/celex/32002R0509) |  |\n|  | – Bolachas e biscoitos adicionados de edulcorantes; *waffles* e *wafers*: |\n| 1905 31 | – – Bolachas e biscoitos adicionados de edulcorantes |\n| 1905 32 | – – *waffles* e *wafers* |\n| [▼M2](http://publications.europa.eu/resource/celex/32000R1526) |  |\n| 1905 40 | – Tostas, pão torrado e produtos semelhantes torrados |\n| 1905 90 | – Outros: |\n|  | – – Outros: |\n| [▼M7](http://publications.europa.eu/resource/celex/32004R0186) ————— |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32000R1526) |  |\n| 1905 90 45 | – – – Bolachas e biscoitos |\n| 1905 90 55 | – – – Produtos extrudidos ou expandidos, salgados ou aromatizados |\n| 1905 90 60 | – – – – Adicionados de edulcorantes |\n| 1905 90 90 | – – – – Outros |\n| ex20 04 | Outros produtos hortícolas preparados ou conservados, excepto em vinagre ou em ácido acético, congelados, com excepção dos produtos da posição 2006: |\n| 2004 10 | – Batatas: |\n|  | – – Outras: |\n| 2004 10 91 | – – – Sob a forma de farinhas, sêmolas ou flocos |\n| ex20 05 | Outros produtos hortícolas preparados ou conservados, excepto em vinagre ou em ácido acético, não congelados, com excepção dos produtos da posição 2006: |\n| 2005 20 | – Batatas: |\n| 2005 20 10 | – – Sob a forma de farinhas, sémolas ou flocos |\n| ex21 05 00 | Sorvetes, mesmo contendo cacau: |\n| ex21 06 | Preparações alimentícias não especificadas nem compreendidas noutras posições: |\n| 2106 90 | – Outras: |\n| 2106 90 10 | – – Preparações denominadas *fondues* |\n|  | – – Outras: |\n| 2106 90 92 | – – – Não contendo matérias gordas provenientes do leite, sacarose, isoglicose, glicose, amido ou fécula, ou contendo, em peso, menos de 1,5 % de matérias gordas provenientes do leite, menos de 5 % de sacarose ou de isoglicose, menos de 5 % de glicose ou amido ou fécula |\n| 2106 90 98 | – – – Outras |\n| ex22 02 | Águas, incluídas as águas minerais e as águas gaseificadas, adicionadas de açúcar ou de outros edulcorantes ou aromatizadas e outras bebidas não alcoólicas, excepto sumos de frutas ou de produtos hortícolas, da posição 2009: |\n| 2202 90 | – Outras: |\n|  | – – Outras, de teor, em peso, de matérias gordas provenientes de produtos das posições 0401 a 0404: |\n| 2202 90 91 | – – – Inferior a 0,2 % |\n| 2202 90 95 | – – – Igual ou superior a 0,2 % e inferior a 2 % |\n| 2202 90 99 | – – – Igual ou superior a 2 % |\n| ex22 08 | Álcool etílico não desnaturado, com um teor alcoólico em volume inferior a 80 % vol; aguardentes, licores e outras bebidas espirituosas: |\n| 2208 70 | – Licores |\n| 2208 90 | – Outros: |\n|  | – – Outras aguardentes e outras bebidas espirituosas, apresentadas em recipientes de capacidade: |\n|  | – – – Não superior a 2 l: |\n|  | – – – – Outras: |\n| 2208 90 69 | – – – – – Outras bebidas espirituosas |\n|  | – – – Superior a 2 l: |\n| 2208 90 78 | – – – – Outras bebidas espirituosas |\n| ex33 02 | Misturas de substâncias odoríferas e misturas (incluídas as soluções alcoólicas) à base de uma ou mais destas substâncias, dos tipos utilizados como matérias básicas para a indústria; outras preparações à base de substâncias odoríferas, dos tipos utilizados para a fabricação de bebidas: |\n| 3302 10 | – Dos tipos utilizados para as indústrias alimentares ou de bebidas: |\n|  | – – Dos tipos utilizados para as indústrias de bebidas: |\n| 3302 10 29 | – – – – – Outras |\n| 3501 | Caseínas, caseinatos e outros derivados das caseínas; colas de caseína |\n| ex35 02 | Albuminas, albuminatos e outros derivados das albuminas: |\n| 3502 20 | – Lactalbumina, incluídos os concentrados de duas ou mais proteínas de soro de leite: |\n|  | – – Outra: |\n| 3502 20 91 | – – – Seca (em folhas, escamas, cristais, pós, etc. |\n| [▼C3](http://publications.europa.eu/resource/celex/32000R1526R%2801%29) |  |\n| 3502 20 99 | – – – Outra |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "b53241a754ba9d46": {
+   "fragment_id": "TABELA DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "TABELA DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TABELA DE CORRESPONDÊNCIA\n\n**Regulamento (CEE) n.º 804/68** **Presente regulamento**\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º, n.^os^ 1 e 2 Artigo 3.º, n.º 1\n\nArtigo 3.º, n.º 3 —\n\nArtigo 3.º, n.º 4 Artigo 3.º, n.º 2\n\nArtigo 4.º —\n\nArtigo 5.º Artigo 4.º, n.º 1\n\nArtigo 5.ºA —\n\nArtigo 5.ºC Artigo 5.º\n\nArtigo 6.º, n.º 2 Artigo 6.º, n.º 3\n\nArtigo 6.º, n.º 3 Artigo 6.º, n.º 4\n\nArtigo 6.º, n.º 4 Artigo 6.º, n.º 5\n\nArtigo 6.º, n.º 6 Artigo 10.º\n\nArtigo 7.º, n.º 1 Artigo 7.º, n.º 1\n\nArtigo 7.º, n.º 2 Artigo 7.º, n.º 3\n\nArtigo 7.º, n.º 3, primeiro parágrafo Artigo 7.º, n.º 4, primeiro parágrafo\n\nArtigo 7.º, n.º 3, quarto parágrafo Artigo 7.º, n.º 4, segundo parágrafo\n\nArtigo 7.º, n.º 4 Artigo 7.º, n.º 5\n\nArtigo 7.º, n.º 5 Artigo 10.º\n\nArtigo 7.ºA —\n\nArtigo 8.º, n.^os^ 1 a 3 Artigo 8.º, n.^os^ 1 a 3\n\nArtigo 8.º, n.º 4 Artigo 10.º\n\nArtigo 9.º, n.º 3 Artigo 10.º\n\nArtigo 10.º, n.º 1 Artigo 11.º, n.º 1\n\nArtigo 10.º, n.º 2 —\n\nArtigo 10.º, n.º 3 Artigo 15.º\n\nArtigo 11.º, n.º 1 Artigo 12.º, n.º 1\n\nArtigo 11.º, n.º 2 —\n\nArtigo 11.º, n.º 3 Artigo 15.º\n\nArtigo 12.º, n.º 3 Artigo 15.º\n\nArtigo 13.º Artigo 26.º\n\nArtigo 14.º Artigo 27.º\n\nArtigo 15.º Artigo 28.º\n\nArtigo 16.º Artigo 29.º\n\nArtigo 16.ºA Artigo 30.º\n\nArtigo 17.º Artigo 31.º\n\nArtigo 18.º Artigo 32.º\n\nArtigo 19.º Artigo 33.º\n\nArtigo 20.º Artigo 34.º\n\nArtigo 21.º Artigo 35.º\n\nArtigo 22.º —\n\nArtigo 22.ºA Artigo 36.º\n\nArtigo 23.º Artigo 37.º\n\nArtigo 24.º Artigo 38.º\n\nArtigo 24.ºA Artigo 39.º\n\nArtigo 25.º —\n\nArtigo 26.º, n.^os^ 1 e 2 Artigo 14.º, n.^os^ 1 e 2\n\nArtigo 26.º, n.º 4 Artigo 15.º\n\nArtigo 26.º, n.º 5 —\n\nArtigo 28.º Artigo 40.º\n\nArtigo 29.º, n.º 1 Artigo 41.º\n\nArtigo 29.º, n.º 2 —\n\nArtigo 30.º Artigo 42.º\n\nArtigo 31.º Artigo 43.º\n\nArtigo 32.º —\n\nArtigo 33.º Artigo 44.º\n\nArtigo 34.º Artigo 45.º\n\nArtigo 35.º —\n\nArtigo 36.º —\n\nArtigo 37.º, n.º 1 Artigo 48.º\n\nAnexo Anexo II\n\n---"
+  },
+  "5760692a736841d4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0001)) JO C 170 de 4.6.1998, p. 38.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0002)) Parecer emitido em 6 de Maio de 1999 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0003)) JO C 407 de 28.12.1998, p. 203.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0004)) JO C 93 de 6.4.1999, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0005)) JO C 401 de 22.12.1998, p. 3.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0006)) JO L 405 de 31.12.1992, p. 11. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1256/1999 (Ver a página 73 do presente Jornal Oficial).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0007)) JO L 336 de 23.12.1994, p. 22.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0008)) Ver a página 103 do presente Jornal Oficial.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0009)) JO L 148 de 28.6.1968, p. 13. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1587/96 (JO L 206 de 16.8.1996, p. 21).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0010)) JO L 169 de 18.7.1968, p. 4. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1802/95 (JO L 174 de 26.7.1995, p. 31).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0011)) JO L 169 de 18.7.1968, p. 6. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 1435/90 (JO L 138 de 31.5.1990, p. 8).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0012)) JO L 58 de 11.3.1971, p. 1.\n\n> ([^13^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0013)) JO L 171 de 28.6.1978, p. 14.\n\n> ([^14^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0014)) JO L 172 de 30.6.1981, p. 14. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 863/84 (JO L 90 de 1.4.1984, p. 23).\n\n> ([^15^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0015)) JO L 314 de 10.11.1982, p. 26. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2442/96 (JO L 333 de 21.12.1996, p. 1).\n\n> ([^16^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0016)) JO L 183 de 7.7.1983, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1958/97 (JO L 277 de 10.10.1997, p. 1).\n\n> ([^17^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0017)) JO L 90 de 1.4.1984, p. 25.\n\n> ([^18^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0018)) JO L 78 de 20.3.1987, p. 10. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 1634/91 (JO L 150 de 15.6.1991, p. 26).\n\n> ([^19^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0022)) JO L 318 de 20.12.1993, p. 31.\n\n> ([^20^](http://publications.europa.eu/resource/cellar/f367dcd2-cc6a-49a3-9777-2dad0b1e9c68.0016.03/DOC_1#src.E0023)) JO L 184 de 17.7.1999, p. 23 (Rectificação: JO L 269 de 19.10.1999, p. 45)."
+  },
+  "9d193bca40754e7f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1999R1255 — PT — 01.01.2008 — 012.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/399R1255) [REGULAMENTO (CE) N.º 1255/1999 DO CONSELHO](http://publications.europa.eu/resource/celex/399R1255) [de 17 de Maio de 1999](http://publications.europa.eu/resource/celex/399R1255) [que estabelece a organização comum de mercado no sector do leite e dos produtos lácteos](http://publications.europa.eu/resource/celex/399R1255) (JO L 160, 26.6.1999, p.48)\n\n**revogado por:**"
+  },
+  "b693076d4d6c1075": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1999R1255 — PT — 01.07.2008 — 013.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31999R1255) [REGULAMENTO (CE) N.º 1255/1999 DO CONSELHO](http://publications.europa.eu/resource/celex/31999R1255) [de 17 de Maio de 1999](http://publications.europa.eu/resource/celex/31999R1255) [que estabelece a organização comum de mercado no sector do leite e dos produtos lácteos](http://publications.europa.eu/resource/celex/31999R1255) (JO L 160, 26.6.1999, p.48)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1234/2007 Do Conselho de 22 de Outubro de 2007](http://publications.europa.eu/resource/celex/32007R1234) — L 299 — 1 — 16.11.2007"
+  }
+ }
+}

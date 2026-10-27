@@ -1,0 +1,845 @@
+---
+schema_version: '1.0'
+id: pt:dre:605326:por
+title: Decreto-Lei n.º 38/2005
+short_title: null
+summary: Institui a Fundação Museu Nacional Ferroviário Armando Ginestal Machado
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 38/2005
+official_date: null
+publication_date: '2005-02-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 34/2005, Série I-A de 2005-02-17
+  number: '34'
+  series: I
+  supplement: null
+  pages: 1209 - 1215
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/02/034a00/12091215.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-01-03'
+version_history:
+  file: decreto-lei-38-2005.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2005-02-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-01-03'
+    amending: pt:dre:205557198:por
+    amending_title: Decreto-Lei n.º 1/2023
+    changes:
+    - Adita Artigo 7.º-A
+    - Adita Artigo 26.º-A
+    - Adita Artigo 29.º-A
+    - Adita Capítulo VI
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Secção V
+    - Altera Artigo 27.º
+    - Altera Capítulo IV
+    - Altera Capítulo V
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/38/2005/p/cons/20230102/pt/html
+  oj: null
+  dre: '605326'
+  dre_path: /dr/detalhe/decreto-lei/38-2005-605326
+  internal: pt:dre:605326:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2005-605326
+  metadata_url: https://data.dre.pt/eli/dec-lei/38/2005/p/cons/20230102/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-205648548
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-205648548
+  retrieved_at: '2026-10-22T12:54:28Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3b9848314e2c2d47b7b3035d6b1d52ad94a2318f4a29ae0046ec90a120f2b1b9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:54:28Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-38-2005.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Património
+- Fundação
+- Contrato Individual de Trabalho
+- Estatuto
+- Extinção de Serviços
+- Fundação Museu Nacional Ferroviário Armando Ginestal Machado
+- Isenção Fiscal
+- Museu Nacional Ferroviário Engenheiro Armando Ginestal Machado
+- Pessoa Colectiva de Direito Privado sem FINS Lucrativos
+- Benefícios Fiscais
+- Utilidade Pública
+relationships:
+- type: amended_by
+  target: pt:dre:205557198:por
+  label: Adita Artigo 7.º-A; Adita Artigo 26.º-A; Adita Artigo 29.º-A; Adita Capítulo VI; Altera Artigo 1.º; Altera Artigo
+    2.º; Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º;
+    Altera Artigo 17.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198
+  date: '2023-01-02'
+- type: cites
+  target: pt:dre:152526:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:676045:por
+  label: null
+  source: http://data.dre.pt/eli/lei/59/1991/08/13/p/dre
+article_structure:
+  article_count: 45
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:54:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 38/2005
+
+Decreto-Lei n.º 38/2005
+
+de 17 de Fevereiro
+
+O património ferroviário de interesse cultural tem em Portugal um valor incontestável que é urgente preservar e valorizar.
+
+A Companhia Portuguesa dos Caminhos de Ferro e a Rede Ferroviária Nacional - REFER, E. P., souberam conservar equipamentos, máquinas, carruagens e utensílios que o tempo tornou obsoletos para a utilização comercial, mas que constituem marcas de memória e documentam a história do País nos últimos dois séculos.
+
+Para além do cuidado na preservação destes testemunhos, acresce que a qualidade e quantidade do património cultural ligado aos caminhos de ferro em Portugal é das mais importantes a nível europeu e mundial, nomeadamente porque o nosso país não foi devastado pela destruição das duas últimas guerras mundiais.
+
+A Assembleia da República aprovou por unanimidade a criação do Museu Nacional Ferroviário através da Lei n.º 59/91, de 13 de Agosto.
+
+A comissão instaladora prevista nesta lei da Assembleia da República tem vindo a preparar a instalação do Museu no Entroncamento e desenvolver os respectivos núcleos museológicos existentes em Bragança, Chaves, Arco de Baúlhe, Valença, Braga/Nine, Lousado, Macinhata do Vouga, Santarém, Estremoz e Lagos.
+
+Foram, entretanto, desenvolvidos alguns trabalhos com o investimento do Estado e a colaboração da Câmara Municipal do Entroncamento, designadamente a instalação de uma sede provisória para o Museu e a realização de estudos e a elaboração de projectos para a conversão de instalações no Entroncamento.
+
+O Governo pretende agora concretizar a abertura do Museu no Entroncamento e valorizar também, numa perspectiva de descentralização, os núcleos museológicos referidos e de disseminação da inovação na ferrovia.
+
+No respeito pela posição da Assembleia da República, mas tendo em conta as alterações verificadas no transporte ferroviário, nomeadamente com a criação da Rede Ferroviária Nacional e a reestruturação dos Caminhos de Ferro Portugueses, bem como a abertura à iniciativa privada da exploração do serviço público ferroviário, importa alargar a intervenção na criação efectiva do Museu Nacional Ferroviário a estas entidades.
+
+Por outro lado, a instalação condigna do Museu e dos núcleos museológicos, a inventariação e o restauro de um património tão vasto, que importa vivificar e colocar ao serviço do ensino e do turismo cultural, exige já investimentos avultados.
+
+Considera-se que para prosseguir estes objectivos a forma mais adequada é a instituição de uma fundação, constituída por uma participação significativa de privados, nomeadamente de empresas ligadas à ferrovia.
+
+Este modelo institucional, partindo da solução defendida em 1991 com a criação de um serviço público, permite, ainda, uma gestão flexível e a concertação dos diversos interesses nacionais e locais presentes num projecto com esta dimensão, sobretudo na fase de recuperação e construção de instalações no Entroncamento e nos núcleos museológicos.
+
+É também atribuído à fundação o encargo de dinamizar a investigação cultural e a divulgação de novas tecnologias e soluções técnicas sobre os caminhos de ferro e a recolha, através de um centro de documentação e de um arquivo, de inúmera documentação dispersa.
+
+Com esta iniciativa o Governo desenvolve os princípios da política museológica nacional recentemente aprovados na Assembleia da República e corporiza o modelo institucional necessário à defesa de um sector do património cultural de relevante importância.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses e a Câmara Municipal do Entroncamento.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza e regime
+
+1 - É instituída a Fundação Museu Nacional Ferroviário Armando Ginestal Machado, F. P., doravante designada por Fundação.
+
+2 - A Fundação é uma fundação pública de direito privado, constituída por tempo indeterminado, e tem como beneficiários os cidadãos em geral.
+
+3 - A Fundação rege-se pelo disposto no presente decreto-lei, pelos respetivos Estatutos aprovados em anexo ao presente decreto-lei e do qual faz parte integrante, pela Lei-Quadro das Fundações, aprovada em anexo à Lei n.º 24/2012, de 9 de julho, alterada pelas Leis n.os 150/2015, de 10 de setembro, 36/2021, de 14 de junho, e 67/2021, de 25 de agosto, e pela demais legislação aplicável.
+
+4 - A Fundação encontra-se sujeita à superintendência e tutela dos membros do Governo responsáveis pelas áreas da cultura e das infraestruturas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 2.º — Utilidade pública
+
+A Fundação tem estatuto de utilidade pública, para efeitos do disposto na Lei-Quadro do Estatuto de Utilidade Pública, aprovada em anexo à Lei n.º 36/2021, de 14 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 3.º — Património
+
+O património inicial da Fundação é constituído pelos bens indicados no n.º 1 do artigo 6.º dos respectivos estatutos.
+
+###### Artigo 4.º — Regime laboral
+
+É aplicável aos trabalhadores da Fundação o regime jurídico dos trabalhadores que exercem funções públicas, nos termos da alínea b) do n.º 2 do artigo 52.º da Lei n.º 24/2012, de 9 de julho, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 5.º — Actividade museológica
+
+A Fundação aplica a legislação geral sobre museus no que respeita à implementação e gestão do Museu Nacional Ferroviário e dos respectivos núcleos museológicos.
+
+###### Artigo 6.º — Contratação pública
+
+Aplicam-se aos contratos celebrados pela Fundação o Decreto-Lei n.º 59/99, de 2 de Março, e o capítulo XIII do Decreto-Lei n.º 197/99, de 8 de Junho.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 7.º — Regime fiscal
+
+A Fundação goza do regime reconhecido às pessoas coletivas de utilidade pública, nomeadamente no que respeita a isenções e benefícios fiscais e a candidaturas a fundos públicos nacionais ou europeus.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 8.º — Registo
+
+O presente diploma constitui título suficiente para todos os efeitos legais, incluindo os de registo, os quais se farão sem pagamento de quaisquer taxas.
+
+###### Artigo 9.º — Comissão instaladora
+
+É extinta a comissão instaladora do Museu Nacional Ferroviário.
+
+###### Artigo 10.º — Revogação
+
+É revogada a Lei n.º 59/91, de 13 de Agosto.
+
+Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2004. - Pedro Miguel de Santana Lopes - António José de Castro Bagão Félix - José Luís Fazenda Arnaut Duarte - Maria do Carmo Félix da Costa Seabra - Maria da Graça Martins da Silva Carvalho - António Luís Guerra Nunes Mexia - Maria João Espírito Santo Bustorff Silva - Telmo Augusto Gomes de Noronha Correia.
+
+Promulgado em 31 de Janeiro de 2005.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 4 de Fevereiro de 2005.
+
+O Primeiro-Ministro, Pedro Miguel de Santana Lopes.
+
+ESTATUTOS
+
+## Anexo
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Natureza e designação
+
+1 - A Fundação Museu Nacional Ferroviário Armando Ginestal Machado, F. P., doravante designada por Fundação, é uma fundação pública de direito privado que se rege pelo disposto no decreto-lei que a institui, pelos presentes Estatutos, pela Lei-Quadro das Fundações, aprovada em anexo à Lei n.º 24/2012, de 9 de julho, na sua redação atual, e pela demais legislação que lhe seja aplicável.
+
+2 - A Fundação encontra-se sujeita à superintendência e tutela dos membros do Governo responsáveis pelas áreas da cultura e das infraestruturas.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 2.º — Duração
+
+A Fundação tem duração ilimitada.
+
+###### Artigo 3.º — Sede
+
+1 - A sede da Fundação é no complexo ferroviário da cidade do Entroncamento.
+
+2 - A Fundação desenvolve a sua actividade em qualquer outra parte do País, nomeadamente nos municípios em que se encontrem núcleos museológicos.
+
+3 - A Fundação pode criar delegações ou quaisquer outras formas de representação onde for julgado necessário para o cumprimento dos seus fins.
+
+###### Artigo 4.º — Fins
+
+1 - A Fundação tem por fim o estudo, a conservação e a valorização do património histórico, cultural e tecnológico ferroviário português.
+
+2 - A Fundação tem como fim específico a instalação e a gestão do Museu Nacional Ferroviário e dos respectivos núcleos museológicos.
+
+###### Artigo 5.º — Actividades
+
+1 - Para a prossecução dos seus fins, constituem actividades da Fundação:
+
+a) A construção, adaptação e/ou manutenção das instalações necessárias ao funcionamento do Museu Nacional Ferroviário no Entroncamento;
+
+b) A construção, adaptação e/ou manutenção das instalações dos núcleos museológicos do Museu Nacional Ferroviário;
+
+c) A gestão do Museu Nacional Ferroviário, conforme o disposto na Lei-Quadro dos Museus Portugueses, aprovada pela Lei n.º 47/2004, de 19 de agosto;
+
+d) A criação de um centro de documentação e de um arquivo no domínio da história dos caminhos de ferro;
+
+e) A promoção da salvaguarda, conservação, inventariação e divulgação do Património Ferroviário Nacional;
+
+f) A investigação científica, histórica e antropológica do caminho de ferro;
+
+g) A cooperação com estabelecimentos de ensino e de investigação e com outras entidades que possam contribuir para o desenvolvimento de actividades e de estudos no âmbito dos fins da Fundação e do desenvolvimento da ferrovia;
+
+h) A edição e publicação, sob qualquer forma, de obras relacionadas com o património histórico, cultural e tecnológico ferroviário;
+
+i) A dinamização de programas de voluntariado que se enquadrem no âmbito dos fins da Fundação;
+
+j) A realização de conferências, colóquios, seminários, congressos e debates sobre o transporte ferroviário;
+
+k) A instituição de prémios e a concessão de subsídios ou bolsas a investigadores que desenvolvam estudos cuja temática esteja directa ou indirectamente relacionada com os fins da Fundação e do desenvolvimento da ferrovia;
+
+l) O intercâmbio com instituições congéneres, nacionais ou estrangeiras, que prossigam actividades afins;
+
+m) A divulgação de linhas históricas e a colaboração com os operadores de transporte ferroviário no respectivo desenvolvimento;
+
+n) Quaisquer outras actividades que se revelem adequadas aos fins da Fundação, nomeadamente no tocante à divulgação técnico-científica no âmbito do desenvolvimento da ferrovia.
+
+2 - A Fundação deve estabelecer acordos com as entidades públicas ou privadas que tenham por objecto a colaboração recíproca para fins de identificação, reconhecimento, conservação, segurança, restauro, valorização e divulgação dos bens culturais móveis e imóveis relacionados com o transporte ferroviário.
+
+3 - A Fundação deve promover a inventariação e classificação dos bens culturais móveis e imóveis relacionados com o transporte ferroviário, podendo colaborar na instrução dos procedimentos administrativos necessários, por sua iniciativa ou a solicitação das entidades públicas competentes.
+
+4 - A Fundação pode ainda gerir bens do domínio público ferroviário que lhe sejam subconcessionados, dentro dos seus fins e atividades.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+### Capítulo II — Regime patrimonial e financeiro
+
+###### Artigo 6.º — Património e modo de funcionamento
+
+1 - O património da Fundação é constituído:
+
+a) Pelos bens da infraestrutura ferroviária necessários à instalação e funcionamento do Museu Nacional Ferroviário e dos núcleos museológicos, incluindo infraestruturas transferidas para a Fundação por acordo com a Infraestruturas de Portugal, S. A. (IP, S. A.);
+
+b) Pelos bens patrimoniais considerados pela Fundação como tendo interesse histórico, incluindo material circulante transferido para a Fundação por acordo com a CP - Comboios de Portugal, E. P. E. (CP, E. P. E.);
+
+c) Pela comparticipação financeira do Estado no montante de (euro) 750000;
+
+d) Pelo montante em dinheiro correspondente à dotação da Câmara Municipal do Entroncamento no valor de (euro) 10000, que se encontra depositado à ordem da Fundação;
+
+e) Pelo montante em dinheiro correspondente à soma das dotações dos demais fundadores, no valor de (euro) 25000 cada, que se encontra depositado à ordem da Fundação.
+
+f) Pelo património documental histórico produzido ou à guarda das empresas fundadoras, IP, S. A., e CP, E. P. E., bem como de outras entidades públicas que detenham património documental histórico de âmbito ferroviário, que lhe seja transferido por acordo;
+
+g) Pelas verbas atribuídas por entidades equiparadas a fundadores, nos termos dos presentes Estatutos;
+
+h) Por quaisquer subsídios, subvenções, contribuições, donativos, heranças, legados ou doações de entidades públicas ou privadas, portuguesas ou estrangeiras;
+
+i) Pelos bens imóveis ou móveis e direitos que adquira a qualquer título;
+
+j) Pelo produto da alienação de bens ou direitos de que seja titular;
+
+k) Pelos rendimentos de direitos de que seja ou venha a ser detentora;
+
+l) Pelas receitas provenientes de aplicações financeiras;
+
+m) Pelo produto de subscrições públicas;
+
+n) Pelo produto da prestação de serviços a terceiros;
+
+o) Por contrapartidas financeiras no âmbito de protocolos ou qualquer outro tipo de contratos com instituições nacionais ou estrangeiras;
+
+p) Pelo produto da venda de bilhetes, da locação dos bens e direitos referidos na alínea i), serviços e quaisquer obras ou bens da sua produção ou de terceiros, cuja venda seja autorizada;
+
+q) Pelas comparticipações financeiras das respetivas entidades instituidoras e do Fundo de Fomento Cultural;
+
+r) Pelo produto das taxas dos contratos de concessão ou subconcessão de uso privativo dos bens do domínio público ferroviário sob a sua gestão;
+
+s) Quaisquer outros rendimentos ou valores que provenham da sua atividade ou que, por lei ou negócio jurídico, lhe devam pertencer.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 7.º — Gestão patrimonial e financeira
+
+1 - A Fundação goza de autonomia financeira, administrativa e patrimonial, estando a sua ação subordinada às normas dos presentes Estatutos, à Lei-Quadro das Fundações e à demais legislação aplicável.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 7.º-A — Orçamento anual
+
+1 - O orçamento anual de funcionamento da Fundação é assegurado através do património e receitas referidos no artigo 6.º, bem como de outras verbas que lhe sejam atribuídas, designadamente pelas respetivas entidades instituidoras, inscritas nos respetivos orçamentos, e pelo Fundo de Fomento Cultural.
+
+2 - O orçamento anual de funcionamento da Fundação inclui os encargos com pessoal e com as aquisições de bens e serviços essenciais para a atividade corrente da Fundação, deduzidas as receitas dela resultantes.
+
+> Aditado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 8.º — Regime especial de afectação do património
+
+1 - Os bens descritos nas alíneas a) e b) do n.º 1 do artigo 6.º dos presentes Estatutos são inalienáveis e não podem ser dados em garantia.
+
+2 - Ao regime referido no número anterior estão sujeitos todos os bens incorporados no Museu Nacional Ferroviário e respectivos núcleos museológicos, salvo o disposto na lei geral.
+
+3 - Os bens descritos na alínea a) do n.º 1 do artigo 6.º dos presentes Estatutos podem reverter, nos termos da lei, para o domínio público ferroviário sob gestão da IP, S. A., caso deixem de ser necessários para a prossecução dos fins da Fundação.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 9.º — Participação noutras entidades
+
+1 - A Fundação, se tal se mostrar imprescindível para a prossecução das suas atribuições, pode criar ou participar em associações sem fins lucrativos ou sociedades comerciais cujo objeto se enquadre no âmbito dos seus fins ou, ainda, filiar-se ou estabelecer acordos de cooperação com instituições nacionais ou estrangeiras que prossigam fins análogos.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - A criação, participação ou filiação referidas no n.º 1 depende de prévia autorização dos membros do Governo responsáveis pelas áreas das finanças e da tutela e a deliberação do conselho diretivo tem de ter o voto favorável do respetivo presidente, ouvido o conselho de fundadores.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+### Capítulo III — Organização e funcionamento
+
+#### Secção I — Órgãos da Fundação
+
+###### Artigo 10.º — Órgãos
+
+1 - São órgãos da Fundação:
+
+a) O conselho diretivo;
+
+b) O conselho de fundadores;
+
+c) O conselho consultivo;
+
+d) O fiscal único.
+
+2 - O conselho diretivo é o órgão responsável pela definição das grandes linhas de orientação da Fundação e da sua atuação, bem como pela direção dos respetivos serviços, em conformidade com a lei e com as orientações governamentais.
+
+3 - O conselho de fundadores é o órgão a quem compete coadjuvar o conselho diretivo no enquadramento estratégico da atividade da Fundação, designadamente emitir pareceres sobre o relatório e contas anual, apreciar o plano de atividades anual e dar parecer sobre as linhas gerais estratégicas de prossecução da atividade de utilidade pública da Fundação, bem como das suas políticas e orientação de investimento.
+
+4 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação da Fundação e nas tomadas de decisão do conselho diretivo.
+
+5 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da Fundação.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 11.º — Duração de mandatos
+
+Os titulares do conselho diretivo e o fiscal único exercem o respetivo mandato por cinco anos, renovável uma vez por igual período.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 12.º — Representação de pessoas colectivas
+
+A designação dos titulares dos órgãos da Fundação que representem pessoas colectivas é feita por simples carta e a sua substituição, no que respeita ao conselho de fundadores e ao conselho consultivo, pode ser efectuada a todo o tempo pela mesma forma.
+
+#### Secção II — Conselho de administração
+
+###### Artigo 13.º — Composição
+
+1 - O conselho diretivo da Fundação é composto pelo presidente, por um vice-presidente, e por dois vogais.
+
+2 - (Revogado.)
+
+3 - O presidente do conselho diretivo é designado por despacho dos membros do Governo responsáveis pelas áreas da cultura e das infraestruturas.
+
+4 - Os demais membros do conselho diretivo são igualmente designados por despacho dos membros do Governo responsáveis pelas áreas da cultura e das infraestruturas, sob proposta das entidades envolvidas, nos seguintes termos:
+
+a) O vice-presidente e um dos vogais são propostos, alternadamente, entre a CP, E. P. E., e a IP, S. A.;
+
+b) O outro vogal é proposto pelo Município do Entroncamento.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 14.º — Competência
+
+Compete ao conselho diretivo:
+
+a) Aprovar as políticas gerais de investimento e funcionamento da Fundação;
+
+b) Aprovar o plano de atividades e orçamento da Fundação para o ano seguinte;
+
+c) Aprovar o relatório anual de atividades e contas;
+
+d) Organizar e gerir os serviços;
+
+e) Emitir regulamentos internos;
+
+f) Gerir o património da Fundação, sem prejuízo do disposto no n.º 2 do artigo 11.º da Lei-Quadro das Fundações;
+
+g) Contratar e dirigir o pessoal da Fundação;
+
+h) Nomear o director do Museu;
+
+i) Decidir sobre a criação de Núcleos Museológicos e aprovar o programa museológico dos Núcleos;
+
+j) Formular e aprovar a política de incorporações do Museu;
+
+l) Analisar e aprovar projectos e actividades da Fundação, bem como apoios e incentivos a conceder a terceiros, dentro dos limites fixados pelo orçamento e pelo plano de actividades;
+
+m) Constituir e manter sistemas internos de controlo contabilístico, nomeadamente livros e registos respeitantes ao património da Fundação, transacções e saídas de fundos, que permitam a aferição permanente da situação patrimonial e financeira da Fundação;
+
+n) Propor ao conselho de fundadores o montante da contribuição das entidades equiparadas a fundadores.
+
+o) Aprovar o valor da contrapartida, no caso de subconcessão de bens do domínio público ferroviário à Fundação, ouvido o fiscal único;
+
+p) Submeter à aprovação do membro do Governo responsável pela área das infraestruturas o mapa de pessoal da Fundação, o plano de atividades e orçamento, o relatório anual de atividades e contas e os demais atos previstos nos termos do artigo 57.º da Lei-Quadro das Fundações;
+
+q) Exercer os demais poderes previstos nos presentes Estatutos e que não estejam atribuídos a outro órgão.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 15.º — Competência do presidente do conselho diretivo
+
+1 - Compete ao presidente do conselho diretivo:
+
+a) Representar a Fundação em juízo ou fora dele;
+
+b) Convocar e presidir às reuniões do conselho diretivo e do conselho de fundadores, dirigir os respetivos trabalhos e promover a execução das suas deliberações;
+
+c) (Revogada.)
+
+d) Despachar os assuntos normais de expediente e outros que careçam de solução urgente, sujeitando estes últimos à ratificação do conselho diretivo na primeira reunião seguinte;
+
+e) Assegurar as relações com os órgãos de tutela e com os demais organismos públicos;
+
+f) Solicitar pareceres ao órgão de fiscalização e ao conselho consultivo, quando exista;
+
+g) Exercer quaisquer outras funções que lhe sejam delegadas pelo conselho diretivo.
+
+2 - O presidente é substituído nas suas faltas e impedimentos pelo vice-presidente.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 16.º — Funcionamento
+
+1 - O conselho diretivo reúne ordinariamente uma vez por semana e, extraordinariamente, sempre que for convocado pelo seu presidente por iniciativa própria ou por solicitação de dois membros.
+
+2 - O quórum do conselho diretivo é de três membros, sendo as suas deliberações tomadas por maioria absoluta de votos expressos.
+
+3 - O presidente tem voto de qualidade.
+
+4 - De todas as reuniões será lavrada acta em livro próprio, assinada pelos membros presentes.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 17.º — Delegação de competências
+
+1 - O conselho diretivo pode delegar num dos seus membros a prática dos atos de gestão corrente da Fundação.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 18.º — Representação
+
+A Fundação é representada, designadamente, em juízo ou na prática de atos jurídicos:
+
+a) Pelo presidente do conselho diretivo;
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) Por dois dos seus membros; ou
+
+e) Por mandatários especialmente designados.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+#### Secção III — Conselho de fundadores
+
+###### Artigo 19.º — Composição
+
+O conselho de fundadores é constituído:
+
+a) Pelo presidente do conselho diretivo;
+
+b) Pelos fundadores referidos no artigo 31.º;
+
+c) Pelas entidades que venham a ser reconhecidas pelo conselho de fundadores, nos termos do artigo 21.º
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 20.º — Competência
+
+a) Emitir parecer, até ao final do mês de julho de cada ano, sobre o orçamento e plano de atividades da Fundação para o ano seguinte;
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) Emitir parecer sobre qualquer matéria que lhe for apresentada para o efeito pelo conselho diretivo;
+
+f) Emitir parecer nos termos do n.º 4 do artigo 9.º;
+
+g) (Revogada.)
+
+h) Emitir parecer sobre propostas de alteração aos estatutos, de transformação ou extinção da Fundação;
+
+i) Emitir parecer sobre o relatório anual de atividades e contas da Fundação, acompanhadas de parecer do fiscal único;
+
+j) Emitir parecer sobre proposta do conselho diretivo ao abrigo do n.º 3 do artigo 8.º
+
+2 - O prazo para a emissão dos pareceres referidos no número anterior é de 15 dias a contar da receção dos documentos a que respeitam.
+
+3 - O conselho de fundadores pode dirigir ao conselho diretivo recomendações, bem como solicitar relativamente a essas recomendações o parecer do conselho consultivo.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 21.º — Entidades equiparadas a fundadores
+
+1 - Para efeitos do exercício dos direitos e obrigações conferidos pelos presentes Estatutos aos fundadores, são a estes equiparadas as entidades que contribuam para a realização dos fins da Fundação, mediante uma contribuição de valor igual ou superior ao montante fixado pelo conselho de fundadores sob proposta do conselho diretivo.
+
+2 - A contribuição referida no número anterior pode ser em espécie, mas o respetivo valor, para efeitos de equiparação a fundador, é traduzido em euros pelo conselho diretivo e mediante parecer prévio do fiscal único.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 22.º — Funcionamento
+
+1 - O conselho de fundadores reúne ordinariamente duas vezes por ano e, extraordinariamente, mediante convocação do presidente do conselho diretivo da Fundação, por sua iniciativa, de um terço dos membros do conselho de fundadores ou a pedido do fiscal único.
+
+2 - As deliberações do conselho de fundadores são tomadas por maioria dos membros presentes.
+
+3 - (Revogado.)
+
+4 - O conselho de fundadores reúne à hora marcada na convocatória se estiverem presentes, pelo menos, metade dos seus membros ou com qualquer número de membros, em segunda convocatória.
+
+5 - Às reuniões do conselho de fundadores podem assistir e participar, sem direito a voto, o presidente do conselho consultivo e o fiscal único.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+#### Secção IV — Conselho consultivo
+
+###### Artigo 23.º — Composição
+
+a) Por três representantes do membro do Governo responsável pela área da cultura, por este nomeados, sendo que um preside;
+
+b) Por um representante do membro do Governo responsável pela área da ciência, tecnologia e ensino superior, por este nomeado, que assume a vice-presidência;
+
+c) Por um representante do membro do Governo responsável pela área da educação, por este nomeado, que assume a vice-presidência;
+
+d) Por um representante do Instituto da Mobilidade e dos Transportes, I. P.;
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) Por um representante do Instituto de Turismo de Portugal, I. P.;
+
+h) Por um representante da Associação Nacional de Municípios Portugueses;
+
+i) Por um representante da Câmara Municipal do Entroncamento e de cada uma das câmaras municipais com núcleos museológicos do Museu Nacional Ferroviário;
+
+j) Pelos anteriores presidentes do conselho diretivo da Fundação;
+
+l) Por um representante das associações de amigos dos caminhos de ferro;
+
+m) Por três personalidades indicadas pelo membro do Governo responsável pela área das infraestruturas.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 24.º — Competência
+
+1 - O conselho consultivo tem como atribuições o aconselhamento e emissão de pareceres sobre todos os assuntos que lhe sejam submetidos pelo conselho diretivo ou pelo conselho de fundadores.
+
+2 - Compete ao conselho consultivo:
+
+a) Pronunciar-se sobre o plano de atividades da Fundação para o ano seguinte, bem como sobre o relatório anual de atividades;
+
+b) Pronunciar-se sobre a nomeação do director do Museu Nacional Ferroviário;
+
+c) Emitir parecer sobre o programa museológico do Museu Nacional Ferroviário;
+
+d) Pronunciar-se sobre a política de incorporações do Museu Nacional Ferroviário;
+
+e) Pronunciar-se sobre a criação de um centro de documentação e de um arquivo no domínio da história do caminho de ferro;
+
+f) Emitir parecer sobre a edição e publicação de obras relacionadas com o património cultural ferroviário;
+
+g) Emitir parecer sobre a criação de Núcleos Museológicos;
+
+h) Emitir parecer sobre todos os assuntos que lhe sejam submetidos pelo conselho diretivo ou pelo conselho de fundadores.
+
+3 - O prazo para a elaboração dos pareceres referidos no número anterior é de 15 dias a contar da receção dos documentos a que respeitam.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 25.º — Funcionamento
+
+1 - O conselho consultivo reúne ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa, ou por solicitação do conselho diretivo, ou a pedido de um terço dos seus membros.
+
+2 - As deliberações do conselho consultivo são tomadas por maioria dos membros presentes.
+
+3 - O conselho consultivo reúne à hora marcada na convocatória se estiverem presentes, pelo menos, metade dos seus membros ou com qualquer número de membros, em segunda convocatória.
+
+4 - Às reuniões do conselho consultivo podem assistir e participar, sem direito a voto, os membros do conselho diretivo.
+
+5 - O exercício das funções de membro do conselho consultivo não é remunerado.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+#### Secção V — Fiscal único
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 26.º — Composição
+
+O conselho fiscal é composto por três membros, sendo um eleito pelo conselho de fundadores, o segundo uma sociedade de revisores oficiais de contas designada pelo conselho de fundadores e o terceiro, que presidirá, designado pelo Ministro das Finanças.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 26.º-A — Designação, mandato e remuneração
+
+1 - O fiscal único é designado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da tutela, obrigatoriamente de entre os auditores registados na Comissão do Mercado de Valores Mobiliários ou, quando tal não se mostrar adequado, de entre os revisores oficiais de contas ou sociedades de revisores oficiais de contas inscritos na respetiva lista da Ordem dos Revisores Oficiais de Contas.
+
+2 - O exercício de funções no órgão de fiscalização é incompatível com a titularidade simultânea de cargos de administração ou de gestão corrente da Fundação.
+
+> Aditado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 27.º — Competência
+
+1 - Sem prejuízo das competências previstas na Lei-Quadro dos Institutos Públicos para os institutos públicos de regime comum, aplicável nos termos da Lei-Quadro das Fundações, compete ao fiscal único:
+
+a) Acompanhar e controlar o cumprimento da lei, dos estatutos da Fundação e dos regulamentos aplicáveis, a execução orçamental, a situação económica, financeira e patrimonial e analisar a contabilidade;
+
+b) (Revogada.)
+
+c) Fiscalizar a gestão e as contas podendo, para o efeito, consultar a documentação necessária;
+
+d) Emitir parecer sobre o relatório e contas do exercício;
+
+e) Emitir parecer sobre o plano de atividades e orçamento para o ano seguinte;
+
+f) (Revogada.)
+
+g) Elaborar um relatório anual sobre a sua ação fiscalizadora;
+
+h) Emitir o parecer previsto no n.º 2 do artigo 21.º;
+
+i) Manter o conselho diretivo informado sobre os resultados das verificações e exames a que proceda;
+
+j) Emitir parecer sobre o valor da contrapartida, no caso de subconcessão de bens do domínio público ferroviário à Fundação;
+
+k) Emitir parecer sobre quaisquer outros assuntos que o conselho diretivo e o conselho de fundadores submetam à sua apreciação.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - O prazo para a elaboração dos pareceres previstos no n.º 1 é de 15 dias a contar da receção dos documentos a que respeitam.
+
+5 - Para exercício da sua competência, o fiscal único tem direito a:
+
+a) Obter do conselho diretivo as informações e os esclarecimentos que repute necessários;
+
+b) Ter livre acesso a todos os serviços e à documentação da Fundação e solicitar os esclarecimentos que considere necessários;
+
+c) Tomar ou propor as demais providências que considere indispensáveis.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 28.º — Funcionamento
+
+O conselho fiscal reúne ordinariamente trimestralmente e, extraordinariamente, sempre que convocado pelo respectivo presidente ou pelo presidente da Fundação.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 29.º — Modificação dos Estatutos
+
+1 - Os presentes Estatutos podem ser alterados por proposta do Ministro das Obras Públicas, Transportes e Comunicações, ouvido o conselho de fundadores.
+
+2 - O conselho de administração, ouvido o conselho de fundadores, pode, em situações excepcionais, propor ao Ministro das Obras Públicas, Transportes e Comunicações a modificação dos presentes Estatutos.
+
+3 - As alterações aos Estatutos carecem de aprovação em Conselho de Ministros.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+### Capítulo IV — Regime financeiro
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 29.º-A — Gestão económico-financeira
+
+A Fundação está sujeita ao regime da gestão económico-financeira e patrimonial previsto na Lei-Quadro dos Institutos Públicos.
+
+> Aditado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+### Capítulo V — Extinção da Fundação
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 30.º — Extinção da Fundação
+
+À extinção da Fundação é aplicável o disposto na Lei-Quadro das Fundações.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+### Capítulo VI — Disposições complementares, transitórias e finais
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 31.º — Composição inicial do conselho de fundadores
+
+1 - O conselho de fundadores tem a seguinte composição inicial:
+
+a) Estado português, representado pelos membros do Governo responsáveis pelas áreas da cultura e das infraestruturas;
+
+b) Câmara Municipal do Entroncamento;
+
+c) CP - Comboios de Portugal, E. P. E.;
+
+d) Infraestruturas de Portugal, S. A.;
+
+e) Sacyer Engenharia e Infraestruturas;
+
+f) Siemens, S. A.;
+
+g) Grupo Elevo;
+
+h) Efacec.
+
+2 - Caso dois ou mais fundadores assumam essa qualidade conjuntamente, serão os mesmos representados nas reuniões do conselho de fundadores por um único representante pessoa singular designada para o efeito, sendo os respectivos direitos e deveres inerentes à qualidade de fundador exercidos conjuntamente.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03
+
+###### Artigo 32.º — Primeiro mandato
+
+1 - O presidente da Fundação será designado nos termos da alínea a) do n.º 1 do artigo 13.º dos Estatutos no prazo de 30 dias a contar da data da publicação do presente diploma.
+
+2 - O presidente da Fundação convocará, para os 15 dias subsequentes à data do despacho que o nomear, a primeira reunião do conselho de fundadores para proceder às eleições e designações previstas nos presentes Estatutos.
+
+3 - No prazo referido no número anterior, o presidente da Fundação diligenciará junto das entidades competentes para a designação dos restantes titulares dos órgãos sociais.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 1/2023 - Diário da República n.º 1/2023, Série I de 2023-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2023-205557198), em vigor a partir de 2023-01-03

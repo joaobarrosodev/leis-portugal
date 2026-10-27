@@ -1,0 +1,434 @@
+---
+schema_version: '1.0'
+id: pt:dre:390598:por
+title: Decreto Regulamentar Regional n.º 23/93/M
+short_title: null
+summary: Aprova a Lei Orgânica da Direcção Regional de Administração e Pessoal
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 23/93/M
+official_date: null
+publication_date: '1993-07-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1993, Série I-B de 1993-07-13
+  number: '162'
+  series: I
+  supplement: null
+  pages: 3815 - 3821
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/07/162b00/38153821.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/23/1993/07/13/m/dre/pt/html
+  oj: null
+  dre: '390598'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/23-1993-390598
+  internal: pt:dre:390598:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1993-390598
+  metadata_url: https://data.dre.pt/eli/decregulreg/23/1993/07/13/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-1993-390598
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:45:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 77a561bb80de69e98e81fc347844576ab92a1b3091eac7246d6b02aad7c525f8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direcção Regional de Administração e Pessoal
+- Governo Regional
+- Madeira.região Autónoma
+- Orgânica
+- Quadro de Pessoal
+- Secretaria Regional da Educação
+relationships:
+- type: amended_by
+  target: pt:dre:517385:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:429023:por
+  label: "Alterado o artigo 11.º e aditado, o lugar mencionado no anexo I, ao quadro de pessoal constante do mapa anexo ao\
+    \ presente diploma, pelo DRR.9/96/M.28.06.1996.PG-RAM, DR.IS-B [148] de 28.06.1996\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/9-1996-429023
+  date: '1996-06-28'
+- type: amended_by
+  target: pt:numero:decreto-regulamentar-regional:6/97/M
+  label: Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B
+    [64] de 1997.03.17
+  source: null
+  date: '1997-02-27'
+- type: amended_by
+  target: pt:dre:517385:por
+  label: "Mantido em vigor, até à publicação do DRR previsto no num 2 do art 4º pelo DRR.6/97/M.1997.02.27.PG-RAM, DR.IS-B\
+    \ [64] de 17/Mar/1997\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/6-1997-517385
+  date: '1997-02-28'
+- type: cites
+  target: pt:dre:444427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492471:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1991/07/04/p/dre
+- type: cites
+  target: pt:dre:584979:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/2/1993/01/20/m/dre
+- type: corrected_by
+  target: pt:dre:451183:por
+  label: "Rectificado o quadro de pessoal aprovado no presente diploma, pela DECL-RECT.180/93.30.09.1993.PCM, DR.IS-B [230]3ºSupl\
+    \ de 30.09.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/180-1993-451183
+  date: '1993-09-30'
+article_structure:
+  article_count: 22
+  section_count: 15
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:45:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 23/93/M
+
+Lei Orgânica da Direcção Regional de Administração e Pessoal
+
+O [Decreto Regulamentar Regional n.º 2/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1993-584979), de 20 de Janeiro, que criou a estrutura da Secretaria Regional de Educação, veio consignar, entre outros departamentos, a Direcção Regional de Administração e Pessoal.
+
+Neste contexto, urge criar a orgânica da nova Direcção Regional, de forma a regulamentar a sua natureza, atribuições, competências, organização e funcionamento.
+
+Nestes termos:
+
+O Governo Regional da Região Autónoma da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, da alínea c) do artigo 49.º da [Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/lei/23-1991-492471), de 5 de Junho, e do n.º 3 do artigo 4.º do [Decreto Regulamentar Regional n.º 2/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1993-584979), de 20 de Janeiro, o seguinte:
+
+### CAPÍTULO I — Natureza e atribuições
+
+###### Artigo 1.º — Natureza
+
+A Direcção Regional de Administração e Pessoal, designada no presente diploma, abreviadamente, por DRAP, é o departamento a que se refere a alínea f) do n.º 1 do artigo 4.º do [Decreto Regulamentar Regional n.º 2/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1993-584979), de 20 de Janeiro, e cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes.
+
+###### Artigo 2.º — Atribuições e competências
+
+1 - A DRAP, que é dirigida por um director regional, exerce a superintendência administrativa sobre todos os departamentos e serviços dependentes da Secretaria Regional de Educação.
+
+2 - À DRAP compete, designadamente:
+
+a) Superintender e coordenar a gestão administrativa dos estabelecimentos de ensino, bem como dos órgãos e serviços dependentes da Secretaria Regional;
+
+b) Superintender e realizar a colocação e a gestão de todo o pessoal docente, técnico, administrativo, operário e auxiliar dos estabelecimentos de ensino e dos órgãos e serviços da Secretaria Regional;
+
+c) Superintender e coordenar os serviços de acção social escolar;
+
+d) Promover e realizar acções de formação e reabilitação profissional de acordo com as necessidades dos serviços;
+
+e) Colaborar com a Direcção Regional de Inovação e Gestão Educativa na programação e orientação das operações relativas à rede escolar, nos seus aspectos de gestão e funcionamento;
+
+f) Proceder ao tratamento dos dados estatísticos relativos às áreas de competência desta Direcção Regional, em colaboração com a Direcção Regional de Inovação e Gestão Educativa.
+
+3 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços para o efeitos designado.
+
+4 - O director regional pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.
+
+### CAPÍTULO II — Órgãos e serviços
+
+###### Artigo 3.º — Estrutura
+
+Para o exercício das suas atribuições, a DRAP compreende os seguintes órgãos e serviços:
+
+a) Órgãos de concepção e apoio;
+
+b) Direcção de Serviços de Pessoal Docente (DSPD);
+
+c) Direcção de Serviços de Pessoal não Docente (DSPND);
+
+d) Direcção de Serviços da Acção Social Escolar (DSASE);
+
+e) Inspecção Administrativo-Financeira (IAF).
+
+#### SECÇÃO I — Órgãos de concepção e apoio
+
+###### Artigo 4.º — Estrutura
+
+1 - Os órgãos de concepção e apoio da DRAP são os seguintes:
+
+a) Secretariado;
+
+b) Gabinete de Estudos e Pareceres Jurídicos;
+
+c) Repartição Administrativa.
+
+2 - Os órgãos a que se refere o número anterior funcionam na directa dependência do director regional.
+
+##### SUBSECÇÃO I
+
+###### Artigo 5.º
+
+Secretariado
+
+O Secretariado é o órgão de apoio administrativo do director regional, competindo-lhe a organização e conservação do arquivo do seu Gabinete, bem como o registo e expediente da correspondência e documentação que lhe estão afectas.
+
+##### SUBSECÇÃO II
+
+###### Artigo 6.º
+
+Gabinete de Estudos e Pareceres Jurídicos
+
+O Gabinete de Estudos e Pareceres Jurídicos é um órgão com funções exclusivas de mera consulta jurídica, competindo-lhe, nomeadamente, emitir pareceres e elaborar estudos jurídicos.
+
+##### SUBSECÇÃO III
+
+###### Artigo 7.º
+
+Repartição Administrativa
+
+1 - A Repartição Administrativa (RA) é o órgão de apoio administrativo e logístico da DRAP com atribuições em matérias de expediente, registo, arquivo, pessoal, património e assuntos de natureza genérica.
+
+2 - A RA compreende três secções:
+
+a) Secção de Expediente Geral e Economato;
+
+b) Secção de Aquisições;
+
+c) Secção de Manutenção.
+
+#### SECÇÃO II — Direcção de Serviços de Pessoal Docente
+
+###### Artigo 8.º — Direcção de Serviços de Pessoal Docente
+
+1 - À Direcção de Serviço de Pessoal Docente compete, designadamente:
+
+a) Proceder à preparação e execução das operações ligadas à gestão do pessoal docente dos estabelecimentos de ensino da Região Autónoma da Madeira, bem como daqueles em exercício de funções em serviços dependentes da Secretaria Regional;
+
+b) Proceder à recolha de todas as estatísticas relativas a esta Direcção de Serviços, em colaboração com a Direcção Regional de Inovação e Gestão Educativa;
+
+c) Proceder ao apoio dos estabelecimentos de ensino em matéria do estatuto do pessoal docente;
+
+d) Proporcionar aos estabelecimentos de ensino particular e cooperativo e às instituições particulares de solidariedade social com valência de infância o apoio técnico, no domínio administrativo, em colaboração com as demais direcções regionais desta Secretaria Regional;
+
+e) Desencadear as acções necessárias à formação e aperfeiçoamento do pessoal em colaboração com os órgãos próprios da Secretaria Regional de Educação;
+
+f) Desenvolver as acções decorrentes do funcionamento dos estabelecimentos de ensino particular, nomeadamente a concessão de alvarás, certidões e autorizações de leccionação.
+
+2 - Dependentes desta Direcção de Serviços funcionam as delegações escolares, com a constituição e atribuições previstas no [Decreto Regulamentar Regional n.º 31/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1983-444427), de 24 de Dezembro.
+
+3 - Na dependência da DSPD funcionam a Divisão de Pessoal Docente e o Gabinete de Apoio ao Pessoal Docente nos estabelecimentos de ensino.
+
+##### SUBSECÇÃO I
+
+###### Artigo 9.º
+
+Divisão de Pessoal Docente
+
+1 - À Divisão de Pessoal Docente compete, nomeadamente:
+
+a) Coordenar, orientar e executar todo o serviço de expediente relacionado com o pessoal docente dos estabelecimentos dos ensinos básico e secundário;
+
+b) Elaborar estudos de previsão de pessoal docente e executar as operações relacionadas com o recrutamento, selecção e colocação desse pessoal nos estabelecimentos de educação pré-escolar e dos ensinos básico e secundário, em colaboração com a Direcção Regional de Inovação e Gestão Educativa;
+
+c) Elaborar o cadastro das escolas no que respeita ao número de lugares criados, ocupados e vagos de todo o pessoal docente, em colaboração com a Direcção Regional de Inovação e Gestão Educativa.
+
+2 - Na dependência da Divisão de Pessoal Docente funciona a Repartição de Apoio Administrativo.
+
+###### Artigo 10.º — Repartição de Apoio Administrativo
+
+1 - A Repartição de Apoio Administrativo é o órgão de apoio administrativo e logístico da DSPD com atribuições em matérias de expediente, registo, arquivo, pessoal e assuntos de natureza genérica.
+
+2 - A Repartição de Apoio Administrativo compreende duas secções:
+
+a) Secção de Pessoal Docente da Educação Pré-Escolar e do 1.º Ciclo do Ensino Básico;
+
+b) Secção de Pessoal Docente do 2.º e 3.º Ciclos do Ensino Básico e Secundário.
+
+##### SUBSECÇÃO II
+
+###### Artigo 11.º
+
+Gabinete de Apoio ao Pessoal Docente
+
+Ao Gabinete de Apoio ao Pessoal Docente compete, nomeadamente:
+
+a) Prestar informações e esclarecimentos sobre a carreira de pessoal docente dos estabelecimentos de ensino, nomeadamente em matéria de férias, faltas, licenças, escalões e concursos;
+
+b) Apoiar as escolas na prossecução da actividade referida no número anterior;
+
+c) Proceder ao levantamento das necessidades na área acima mencionada.
+
+#### SECÇÃO III — Direcção de Serviços de Pessoal não Docente
+
+###### Artigo 12.º — Direcção de Serviços de Pessoal não Docente
+
+1 - À Direcção de Serviços de Pessoal não Docente compete, designadamente:
+
+a) Orientar e coordenar a gestão de todo o pessoal não docente dos departamentos e serviços da Secretaria Regional, em colaboração com as outras direcções regionais;
+
+b) Orientar e coordenar a gestão do pessoal não docente de todos os estabelecimentos de ensino oficial;
+
+c) Promover acções de formação, actualização e aperfeiçoamento de todo o pessoal não docente da Secretaria Regional, bem como dos estabelecimentos de ensino;
+
+d) Proceder à recolha de dados estatísticos relativos a esta Direcção de Serviços;
+
+e) Proporcionar aos estabelecimentos de ensino particular e cooperativo e às instituições particulares de solidariedade social com valência de infância o apoio técnico no domínio do pessoal não docente, em colaboração com as demais direcções regionais desta Secretaria Regional, nos termos previstos por lei.
+
+2 - Na dependência da Direcção de Serviços de Pessoal não Docente funciona a Divisão de Pessoal não Docente.
+
+###### Artigo 13.º
+
+##### Divisão de Pessoal não Docente
+
+1 - À Divisão de Pessoal não Docente compete, nomeadamente:
+
+a) Promover e executar todo o serviço de gestão relacionado com o pessoal não docente dos estabelecimentos de ensino oficial, bem como dos departamentos e serviços da Secretaria Regional de Educação;
+
+b) Elaborar estudos de previsão de pessoal não docente e executar as operações relacionadas com o recrutamento, selecção e colocação desse pessoal nos estabelecimentos de ensino oficial e serviços da Secretaria Regional de Educação;
+
+c) Elaborar e manter actualizados os processos individuais do pessoal;
+
+d) Elaborar o cadastro do pessoal não docente dos estabelecimentos de ensino oficial no que respeita ao número de lugares criados, ocupados e vagos.
+
+2 - Na dependência da Divisão de Pessoal não Docente funciona a Repartição de Apoio Administrativo.
+
+###### Artigo 14.º — Repartição de Apoio Administrativo
+
+1 - A Repartição de Apoio Administrativo é o órgão de apoio administrativo e logístico da Direcção de Serviços de Pessoal não Docente com atribuições em matéria de expediente, registo, arquivo, pessoal e assuntos de natureza genérica.
+
+2 - A Repartição de Apoio Administrativo compreende duas secções:
+
+a) Secção de Pessoal não Docente;
+
+b) Secção Administrativa.
+
+#### SECÇÃO IV — Direcção de Serviços da Acção Social Escolar
+
+###### Artigo 15.º — Direcção de Serviços da Acção Social Escolar
+
+1 - À Direcção de Serviços da Acção Social Escolar compete, nomeadamente:
+
+a) Realizar os estudos necessários à formulação de propostas de definição da política da acção social escolar, propondo, se necessário, a adaptação da legislação nacional aos condicionalismos da Região;
+
+b) Perspectivar e planificar as acções regionais relativamente às actividades de acção social escolar no que se refere a transportes escolares, auxílios económicos directos, alimentação, seguro escolar e colónias de férias;
+
+c) Elaborar propostas orçamentais que assegurem o desenvolvimento da acção social escolar;
+
+d) Propor as acções de formação de pessoal necessárias ao funcionamento dos respectivos serviços;
+
+e) Promover a divulgação de informações e documentação relativas às suas próprias actividades nos núcleos dos estabelecimentos de ensino;
+
+f) Cooperar com os órgãos competentes da Secretaria Regional dos Assuntos Sociais nos domínios da saúde escolar e da assistência médica e medicamentosa aos estudantes, nomeadamente do seguro escolar.
+
+2 - Na dependência da Direcção de Serviços da Acção Social Escolar funciona a Secção Administrativa.
+
+#### SECÇÃO V — Inspecção Administrativo-Financeira
+
+###### Artigo 16.º — Inspecção Administrativo-Financeira
+
+À Inspecção Administrativo-Financeira, que será orientada por um inspector-coodenador-chefe, compete, nomeadamente:
+
+a) Realizar inspecções ao funcionamento, no plano administrativo-financeiro, dos estabelecimentos oficiais de ensino, bem como dos serviços dependentes da Secretaria Regional de Educação;
+
+b) Velar pela existência de boas condições de trabalho, nomeadamente no que se refere a instalações, equipamentos e segurança no trabalho, em coordenação com a Inspecção Pedagógica (IP);
+
+c) Propor e colaborar na instauração de processos de sindicância, bem como instruir processos de inquérito e processos disciplinares ao pessoal técnico, administrativo, operário e auxiliar dos estabelecimentos oficiais de ensino, bem como ao pessoal docente, sempre que se trate de matéria de âmbito administrativo ou financeiro;
+
+d) Exercer as atribuições enunciadas na alínea anterior relativamente aos funcionários de todos os serviços dependentes da Secretaria Regional de Educação;
+
+e) Colaborar com os serviços da IP na instrução dos processos disciplinares que, pela sua natureza, envolvam as duas inspecções.
+
+### CAPÍTULO III — Pessoal
+
+###### Artigo 17.º — Quadro
+
+1 - O pessoal do quadro da DRAP abrangido pela presente Lei Orgânica é agrupado em:
+
+a) Pessoal dirigente;
+
+b) Pessoal técnico superior;
+
+c) Pessoal técnico;
+
+d) Pessoal técnico de inspecção administrativo-financeira;
+
+e) Pessoal técnico-profissional;
+
+f) Pessoal administrativo;
+
+g) Pessoal auxiliar;
+
+h) Pessoal operário.
+
+2 - O quadro do pessoal a que se refere o número anterior é o constante do mapa anexo ao presente diploma (anexo I).
+
+###### Artigo 18.º — Transição de pessoal
+
+A integração do pessoal do quadro da Direcção Regional de Finanças, Administração e Pessoal no quadro da DRAP, bem como nos de outros departamentos da Secretaria Regional de Educação, será feita através de publicação de lista nominativa, nos termos da lei geral.
+
+###### Artigo 19.º — Concursos e estágios pendentes
+
+1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os correspondentes no mapa anexo a este diploma.
+
+2 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos e se neles obtiverem aproveitamento, para as categorias objecto de concursos e constantes do mapa anexo ao presente diploma.
+
+###### Artigo 20.º — Pessoal dirigente
+
+O recrutamento para os cargos de directores de serviços e chefes de divisão, bem como para os equiparados a estes, da DRAP pode também ser feito, por escolha ou por concurso, de entre funcionários integrados em carreiras dos respectivos serviços com pelo menos seis e quatro anos, respectivamente, de experiência profissional nessas carreiras, ainda que não possuidores de curso superior.
+
+###### Artigo 21.º — Regime
+
+As condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal da DRAP abrangido pelo presente diploma são os estabelecidos na legislação nacional e regional aplicável.
+
+### CAPÍTULO IV — Disposição final
+
+###### Artigo 22.º — Vigência
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 30 de Maio de 1993.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 11 de Junho de 1993.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.
+
+Anexo I, a que se refere o n.º 2 do artigo 17.º do presente diploma
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/07/162b00/38153821.pdf)

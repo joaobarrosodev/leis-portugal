@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108228013:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-213815042",
+ "dre_path": "/dr/detalhe/portaria/291-2017-108228013",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-09-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213864175",
+    "213864176",
+    "213864177",
+    "213864178",
+    "213864179",
+    "213864180",
+    "213864181",
+    "213864182",
+    "213864183",
+    "213864184"
+   ]
+  },
+  {
+   "date": "2023-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213815017:por",
+     "title": "Portaria n.º 149/2023",
+     "published": "2023-06-01",
+     "dre_path": "/dr/detalhe/portaria/149-2023-213815017"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "213864175",
+    "213864176",
+    "213864177",
+    "213864178",
+    "213864179",
+    "213864180",
+    "868026460",
+    "213864186",
+    "213864183",
+    "213864184",
+    "213864185"
+   ]
+  }
+ ],
+ "fragments": {
+  "213864175": {
+   "fragment_id": "213815043",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 291/2017\n\nde 28 de setembro\n\nA Lei n.º 7/2007, de 5 de fevereiro, que criou o cartão de cidadão, estatui nos seus artigos 34.º, n.os 1 e 2, e 61.º-A, n.º 9, que as taxas devidas pela prestação dos serviços associados ao cartão de cidadão e pela emissão do cartão de cidadão provisório, bem como as situações de redução, isenção ou gratuitidade daquelas, são definidas por portaria do membro do Governo responsável pela área da justiça.\n\nA experiência obtida com estes 10 anos desde a criação do cartão de cidadão permite-nos concluir que, e apesar do seu êxito, há ajustes a fazer.\n\nAssim, e em alinhamento com as alterações introduzidas pela Lei n.º 32/2017, de 1 de junho, à Lei n.º 7/2007, aproveita-se a oportunidade para regular a matéria atinente às taxas devidas pela prestação do serviço público do cartão de cidadão, bem como as situações de redução, isenção e gratuitidade.\n\nEm primeiro lugar, mostra-se necessário prever expressamente, no âmbito da emissão e substituição do cartão de cidadão e no pedido autónomo de alteração de morada, a possibilidade de benefício de gratuitidade nos casos em que o requerente comprove insuficiência económica ou se encontre internado em instituição de assistência ou de beneficência.\n\nEm segundo lugar, clarificam-se as taxas devidas pela realização do serviço externo quer no momento do pedido quer no momento da entrega do cartão de cidadão, incrementando-se a acessibilidade dos cidadãos aos serviços, designadamente no caso de cidadãos com mobilidade reduzida e promovendo políticas de inclusão social, como a da população reclusa, nas situações em que se verifique que a sua saída não se mostre viável.\n\nEm terceiro lugar, em face da criação de novos procedimentos e a simplificação de outros, designadamente no que concerne, respetivamente à possibilidade de fixação de novos códigos PIN e de apresentação do pedido de emissão do cartão de cidadão por intermédio de novos canais, procede-se à regulação das respetivas taxas.\n\nAssim:\n\nManda o Governo, pela Secretária de Estado da Justiça, ao abrigo do disposto nos n.os 1 e 2 do artigo 34.º e n.º 9 do artigo 61.º-A da Lei n.º 7/2007, de 5 de fevereiro, e no uso da competência delegada através do Despacho n.º 977/2016, publicado no Diário da República, 2.ª série, n.º 13, de 20 de janeiro, o seguinte:"
+  },
+  "213864176": {
+   "fragment_id": "213815044",
+   "type": 11,
+   "heading": "Artigo 1.º — Emissão e renovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Emissão e renovação\n\n1 - Pela emissão ou renovação do cartão de cidadão:\n\na) Com entrega normal no território nacional e prazo de validade até 5 anos - 15(euro);\n\nb) Com entrega normal no território nacional e prazo de validade superior a 5 anos - 18(euro);\n\nc) Com entrega urgente no território nacional e prazo de validade até 5 anos - 30(euro);\n\nd) Com entrega urgente no território nacional e prazo de validade superior a 5 anos - 33(euro);\n\ne) Com entrega normal no estrangeiro e prazo de validade até 5 anos - 20(euro);\n\nf) Com entrega normal no estrangeiro e prazo de validade superior a 5 anos - 23(euro);\n\ng) Com entrega urgente no estrangeiro e prazo de validade até 5 anos - 45(euro);\n\nh) Com entrega urgente no estrangeiro e prazo de validade superior a 5 anos - 48(euro);\n\ni) Com levantamento em balcão do Instituto dos Registos e do Notariado, I. P. (IRN), designado para o efeito, no próprio dia do pedido ou no dia útil seguinte e prazo de validade até 5 anos - 50(euro);\n\nj) Com levantamento em balcão do Instituto dos Registos e do Notariado, I. P. (IRN), designado para o efeito, no próprio dia do pedido ou no dia útil seguinte e prazo de validade superior a 5 anos - 53(euro).\n\n2 - Pela emissão ou renovação do cartão de cidadão provisório - 70(euro)."
+  },
+  "213864177": {
+   "fragment_id": "213815045",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração de morada e de local de entrega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração de morada e de local de entrega\n\n1 - Pelo pedido autónomo de alteração de morada - 3(euro).\n\n2 - Pela alteração do local de entrega do cartão de cidadão dentro do mesmo território nacional ou estrangeiro - 6(euro).\n\n3 - Pela alteração do local de entrega do cartão de cidadão para território estrangeiro - 8(euro)."
+  },
+  "213864178": {
+   "fragment_id": "213815046",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazos de entrega",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prazos de entrega\n\n1 - Sempre que seja requerida urgência na entrega do cartão de cidadão nos termos das alíneas c), d), g) e h) do n.º 1 do artigo 1.º, os prazos máximos de entrega da carta de ativação que permite o levantamento do cartão de cidadão, fixados em função da residência dos interessados, são os seguintes:\n\n1.1 - Portugal Continental - 3 dias;\n\n1.2 - Região Autónoma da Madeira e nas Ilhas de São Miguel, Terceira, Faial, Pico e Santa Maria da Região Autónoma dos Açores - 4 dias;\n\n1.3 - Nas Ilhas Graciosa, Corvo, São Jorge e Flores da Região Autónoma dos Açores - 5 dias;\n\n1.4 - Europa - 5 dias;\n\n1.5 - Resto do mundo - 7 dias.\n\n2 - Em caso de incumprimento dos prazos referidos nos n.os 1.1 a 1.5 do número anterior e nas alíneas i) e j) do n.º 1 do artigo 1.º, apenas é devida a taxa prevista nas alíneas a), b), e) e f) do n.º 1 do mesmo artigo."
+  },
+  "213864179": {
+   "fragment_id": "213815047",
+   "type": 11,
+   "heading": "Artigo 4.º — Serviço externo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Serviço externo\n\n1 - Pela realização de serviço externo, no pedido ou na entrega do cartão de cidadão, são devidas as seguintes taxas:\n\na) Por cada pedido de cartão de cidadão - 40(euro);\n\nb) Por cada entrega de cartão de cidadão - 40(euro).\n\n2 - Pela realização de serviço externo no quadro da execução de protocolos celebrados com o IRN e nas situações em que a entidade não assegure o transporte, é devida uma única taxa - 40(euro)"
+  },
+  "213864180": {
+   "fragment_id": "213815048",
+   "type": 11,
+   "heading": "Artigo 5.º — Recuperação do PUK",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recuperação do PUK\n\nPelo pedido de recuperação do PUK para a fixação de novos PIN - 5(euro)."
+  },
+  "213864181": {
+   "fragment_id": "213815049",
+   "type": 11,
+   "heading": "Artigo 6.º — Redução de taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Redução de taxa\n\n1 - Pela emissão do cartão de cidadão, com entrega normal e solicitada até à idade de 20 dias, a taxa prevista nas alíneas a) e e) do n.º 1 do artigo 1.º é reduzida em 50 %.\n\n2 - Pela renovação do cartão de cidadão promovida por via eletrónica, com entrega normal, a taxa devida é reduzida em 10 %."
+  },
+  "213864182": {
+   "fragment_id": "213815050",
+   "type": 11,
+   "heading": "Artigo 7.º — Atos gratuitos e isentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atos gratuitos e isentos\n\n1 - É gratuita a emissão e renovação do cartão de cidadão provisório por motivo imputável aos serviços.\n\n2 - São isentos de taxas a emissão ou renovação do cartão de cidadão e o processo autónomo de alteração de morada, relativos a indivíduos com insuficiência económica a comprovar pelos seguintes meios:\n\na) Documento ou informação obtidos da competente autoridade administrativa;\n\nb) Declaração ou informação obtidas de instituição pública de assistência social onde o indivíduo se encontre internado.\n\n3 - Pela emissão ou renovação do cartão de cidadão nos termos das alíneas c), d), g), h), i) e j) do n.º 1 do artigo 1.º, a isenção estabelecida no n.º anterior abrange apenas as taxas previstas nas alíneas a), b), e) e f) desse mesmo artigo.\n\n4 - É também isento de taxa o pedido autónomo de alteração de morada efetuado por via eletrónica.\n\n5 - É ainda isenta de taxa a realização de serviço externo:\n\na) Quando o requerente comprove insuficiência económica nos termos previstos no n.º 2;\n\nb) Quando solicitado por dirigente de estabelecimento prisional em situações de reconhecida urgência e de impossibilidade de deslocação dos reclusos, sendo o transporte assegurado pelo estabelecimento;\n\nc) Quando solicitado por indivíduo com idade igual ou superior a 70 anos, com comprovada mobilidade reduzida;\n\nd) Quando o serviço recetor não disponha de condições de acessibilidade para cidadãos com dificuldades motoras.\n\n> Nota: [Artigo 4.º, Portaria n.º 149/2023 - Diário da República n.º 106/2023, Série I de 2023-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/149-2023-213815017) O disposto no n.º 6 do presente artigo produz efeitos a partir de 1 de junho de 2023."
+  },
+  "213864183": {
+   "fragment_id": "213815051",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogada a Portaria n.º 203/2007, de 13 de fevereiro."
+  },
+  "213864184": {
+   "fragment_id": "213815052",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de outubro de 2017."
+  },
+  "868026460": {
+   "fragment_id": "213815049",
+   "type": 11,
+   "heading": "Artigo 6.º — Redução de taxa",
+   "in_force_from": "2023-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 149/2023 - Diário da República n.º 106/2023, Série I de 2023-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/149-2023-213815017), em vigor a partir de 2023-06-02, produz efeitos a partir de 2023-06-01"
+   ],
+   "markdown": "###### Artigo 6.º — Redução de taxa\n\n1 - (Revogado.)\n\n2 - Pela renovação do cartão de cidadão promovida por via eletrónica, com entrega normal, a taxa devida é reduzida em 10 %.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 149/2023 - Diário da República n.º 106/2023, Série I de 2023-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/149-2023-213815017), em vigor a partir de 2023-06-02, produz efeitos a partir de 2023-06-01"
+  },
+  "213864186": {
+   "fragment_id": "213815050",
+   "type": 11,
+   "heading": "Artigo 7.º — Atos gratuitos e isentos",
+   "in_force_from": "2023-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 149/2023 - Diário da República n.º 106/2023, Série I de 2023-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/149-2023-213815017), em vigor a partir de 2023-06-02"
+   ],
+   "markdown": "###### Artigo 7.º — Atos gratuitos e isentos\n\n1 - É gratuita a emissão e renovação do cartão de cidadão provisório por motivo imputável aos serviços.\n\n2 - São isentos de taxas a emissão ou renovação do cartão de cidadão e o processo autónomo de alteração de morada, relativos a indivíduos com insuficiência económica a comprovar pelos seguintes meios:\n\na) Documento ou informação obtidos da competente autoridade administrativa;\n\nb) Declaração ou informação obtidas de instituição pública de assistência social onde o indivíduo se encontre internado.\n\nc) Declaração ou informação emitidas pelo diretor do estabelecimento prisional ou centro educativo onde o indivíduo se encontre privado da liberdade.\n\n3 - Pela emissão ou renovação do cartão de cidadão nos termos das alíneas c), d), g), h), i) e j) do n.º 1 do artigo 1.º, a isenção estabelecida no n.º anterior abrange apenas as taxas previstas nas alíneas a), b), e) e f) desse mesmo artigo.\n\n4 - É também isento de taxa o pedido autónomo de alteração de morada efetuado por via eletrónica.\n\n5 - É ainda isenta de taxa a realização de serviço externo:\n\na) Quando o requerente comprove insuficiência económica nos termos previstos no n.º 2;\n\nb) Quando solicitado por dirigente de estabelecimento prisional em situações de reconhecida urgência e de impossibilidade de deslocação dos reclusos, sendo o transporte assegurado pelo estabelecimento;\n\nc) Quando solicitado por indivíduo com idade igual ou superior a 70 anos, com comprovada mobilidade reduzida;\n\nd) Quando o serviço recetor não disponha de condições de acessibilidade para cidadãos com dificuldades motoras.\n\n6 - É gratuita a emissão do cartão de cidadão com entrega normal e solicitado até um ano após o nascimento.\n\n> Nota: [Artigo 4.º, Portaria n.º 149/2023 - Diário da República n.º 106/2023, Série I de 2023-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/149-2023-213815017) O disposto no n.º 6 do presente artigo produz efeitos a partir de 1 de junho de 2023.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 149/2023 - Diário da República n.º 106/2023, Série I de 2023-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/149-2023-213815017), em vigor a partir de 2023-06-02"
+  },
+  "213864185": {
+   "fragment_id": "213815053",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Justiça, Francisca Eugénia da Silva Dias Van Dunem, em 25 de setembro de 2017."
+  }
+ }
+}

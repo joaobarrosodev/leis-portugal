@@ -1,0 +1,834 @@
+---
+schema_version: '1.0'
+id: pt:dre:517987:por
+title: Decreto-Lei n.º 37/2007
+short_title: null
+summary: Cria a Agência Nacional de Compras Públicas, E. P. E., e aprova os respectivos estatutos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 37/2007
+official_date: null
+publication_date: '2007-02-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 35/2007, Série I de 2007-02-19
+  number: '35'
+  series: I
+  supplement: null
+  pages: 1252 - 1259
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/02/03500/12521259.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-11'
+version_history:
+  file: decreto-lei-37-2007.versoes.json
+  count: 9
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-02-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-04-29'
+    amending: pt:dre:609990:por
+    amending_title: Lei n.º 3-B/2010
+    changes:
+    - Altera Artigo 5.º
+  - date: '2012-06-15'
+    amending: pt:dre:411608:por
+    amending_title: Decreto-Lei n.º 117-A/2012
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Anexo
+  - date: '2017-03-04'
+    amending: pt:dre:106549661:por
+    amending_title: Decreto-Lei n.º 25/2017
+    changes:
+    - Altera Artigo 3.º
+  - date: '2019-01-01'
+    amending: pt:dre:117537583:por
+    amending_title: Lei n.º 71/2018
+    changes:
+    - Entrada Vigor Artigo 3.º
+  - date: '2022-08-13'
+    amending: pt:dre:187413389:por
+    amending_title: Decreto-Lei n.º 53/2022
+    changes:
+    - Altera Artigo 5.º
+  - date: '2023-02-09'
+    amending: pt:dre:207177836:por
+    amending_title: Decreto-Lei n.º 10/2023
+    changes:
+    - Altera Artigo 5.º
+  - date: '2024-01-30'
+    amending: pt:dre:839477381:por
+    amending_title: Decreto-Lei n.º 17/2024
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+  - date: '2025-03-11'
+    amending: pt:dre:910323298:por
+    amending_title: Decreto-Lei n.º 13-A/2025
+    changes:
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/37/2007/p/cons/20250310/pt/html
+  oj: null
+  dre: '517987'
+  dre_path: /dr/detalhe/decreto-lei/37-2007-517987
+  internal: pt:dre:517987:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2007-517987
+  metadata_url: https://data.dre.pt/eli/dec-lei/37/2007/p/cons/20250310/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-117655922
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-117655922
+  retrieved_at: '2026-10-22T12:23:39Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 80a522d4802140c149a5b6a5b07e28b7309af59db199ab52e39802d09b1bbf56
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:23:39Z'
+  notes: 9 versão(ões); histórico completo em decreto-lei-37-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência Nacional de Compras Públicas
+- Aquisição de Bens e Serviços
+- BEM Móvel
+- Fiscal Único
+- Gestão Financeira
+- Comissão Interministerial
+- Conselho de Administração
+- Contrato de Prestação de Serviços
+- Contrato de Adesão
+- Empresa Pública
+- Estatuto
+- Fiscalização
+- Gestão do Património
+- Regime Jurídico
+- Sistema Nacional de Compras Públicas
+- Registo Comercial
+- Unidade Ministerial de Compras
+- Veículo do Estado
+relationships:
+- type: amended_by
+  target: pt:dre:609990:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:411608:por
+  label: Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 12.º; Revoga Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo 15.º;
+    Revoga Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608
+  date: '2012-06-14'
+- type: amended_by
+  target: pt:dre:106549661:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661
+  date: '2017-03-03'
+- type: amended_by
+  target: pt:dre:117537583:por
+  label: Entrada Vigor Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583
+  date: '2018-12-31'
+- type: amended_by
+  target: pt:dre:187413389:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389
+  date: '2022-08-12'
+- type: amended_by
+  target: pt:dre:207177836:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836
+  date: '2023-02-08'
+- type: amended_by
+  target: pt:dre:839477381:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381
+  date: '2024-01-29'
+- type: amended_by
+  target: pt:dre:910323298:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298
+  date: '2025-03-10'
+- type: cites
+  target: celex:32004L0018
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/18/oj
+article_structure:
+  article_count: 34
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:23:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 37/2007
+
+Decreto-Lei n.º 37/2007
+
+de 19 de Fevereiro
+
+O Programa do XVII Governo Constitucional preconiza um processo reformador da Administração Pública feito de passos positivos, firmes e consequentes para alcançar uma administração eficaz, que sirva bem os cidadãos e as empresas, à altura do que se espera de um Estado moderno. As acções a desenvolver enquadram-se em três linhas de actuação: facilitar a vida aos cidadãos e às empresas, melhorar a qualidade do serviço pela valorização dos recursos humanos e das condições de trabalho e tornar a Administração «amiga» da economia, ajustando-a aos recursos financeiros sustentáveis do País e contribuindo para um ambiente favorável ao crescimento.
+
+Pela Resolução do Conselho de Ministros n.º 39/2006, de 21 de Abril, foi aprovado o Programa de Reestruturação da Administração Central do Estado (PRACE), elaborado em consonância com aquele objectivo reformador e, em conformidade com ele, foram definidas as orientações gerais e especiais para a reestruturação dos ministérios.
+
+No que respeita ao Ministério das Finanças e da Administração Pública (MFAP), uma das orientações especiais contidas naquela resolução aponta expressamente para a consagração de uma solução de natureza empresarial, com vista à organização das compras públicas e à gestão do parque de veículos do Estado (PVE), numa lógica de partilha interadministrativa de serviços comuns.
+
+Este é o desiderato do presente diploma, com as linhas orientadoras e motivação seguintes:
+
+Procede-se, por um lado, à definição do sistema nacional de compras públicas (SNCP), assente nos seguintes pilares: integração de entidades compradoras por imposição legal e de entidades compradoras de adesão voluntária de base contratual; segregação das funções de contratação e de compras e pagamentos assente na adopção de procedimentos centralizados, aos níveis global e sectorial, de acordos quadro ou outros contratos públicos e na subsequente compra e pagamento pelas entidades compradoras; modelo híbrido de gestão do SNCP, com base numa entidade gestora central articulada com unidades ministeriais de compras (UMC) e entidades compradoras, funcionando em rede.
+
+Por outro lado, procede-se à criação e aprovação dos estatutos da Agência Nacional de Compras Públicas, E. P. E. (ANCP), com as funções de entidade gestora do SNCP e a fisionomia de central de compras, na acepção da Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0018" title="Link para Directiva da Comunidade Europeia">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março, publicada no Jornal Oficial, n.º L 134, de 30 de Abril de 2004, e com natureza jurídica de entidade pública empresarial, nos moldes previstos no regime jurídico do sector empresarial do Estado.
+
+Não se pretende, todavia, proceder através do presente decreto-lei à transposição da referida Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0018" title="Link para Directiva da Comunidade Europeia">2004/18/CE</a>, nem regular nenhum aspecto relativo à matéria da contratação pública, devendo a ANCP observar as regras legais em vigor em cada momento, nesse domínio.
+
+A ANCP assume-se ainda como gestora do PVE, centralizando a aquisição de veículos e dos respectivos serviços complementares, bem como a gestão de todo o parque de veículos, com vista a tornar essa gestão mais ágil, mais simples e mais racional. Deste modo, estabelece-se a base organizacional que permitirá a futura consagração de um regime jurídico de gestão centralizada do PVE mais moderno, que se fundamente não só no princípio da centralização das aquisições e da gestão do PVE, mas também nos princípios da onerosidade da utilização dos veículos, da responsabilidade das entidades utilizadoras, do controlo da despesa orçamental e da preferência pela composição da frota de automóveis ecologicamente limpos.
+
+O propósito essencial deste decreto-lei é, portanto, instituir um modelo organizacional integrado e coerente, dotado de flexibilidade de actuação, agilidade e capacidade de ajustamento rápidas e autonomia de gestão.
+
+Prevê-se, assim, que este seja um passo essencial para a reforma, a modernização e a racionalização da actividade administrativa e da gestão dos recursos disponíveis, esperando-se que os resultados da actividade da ANCP possam vir a evidenciar volumes significativos de poupança anual.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Criação e regime jurídico
+
+###### Artigo 1.º — Criação, objecto e estatutos
+
+1 - É criada a Agência Nacional de Compras Públicas, E. P. E., abreviadamente designada ANCP, com a natureza de entidade pública empresarial.
+
+2 - A ANCP tem por objecto:
+
+a) Conceber, definir, implementar, gerir e avaliar o sistema nacional de compras públicas, com vista à racionalização dos gastos do Estado, à desburocratização dos processos públicos de aprovisionamento, à simplificação e regulação do acesso e utilização de meios tecnológicos de suporte e à protecção do ambiente;
+
+b) Assegurar, de forma centralizada, a aquisição ou a locação, em qualquer das suas modalidades, a afectação, a manutenção, a assistência, a reparação, o abate e a alienação dos veículos que compõem o parque de veículos do Estado, abreviadamente designado por PVE.
+
+3 - São aprovados os estatutos da ANCP, publicados em anexo ao presente decreto-lei, que dele faz parte integrante.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 2.º — Regime jurídico
+
+A ANCP rege-se pelo presente decreto-lei, pelos seus Estatutos, pelos regulamentos internos e, subsidiariamente, pelo regime jurídico aplicável ao sector empresarial do Estado.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+### Capítulo II — Sistema nacional de compras públicas
+
+###### Artigo 3.º — Âmbito subjectivo
+
+1 - O sistema nacional de compras públicas (SNCP), além da ANCP e das unidades ministeriais de compras (UMC), integra entidades compradoras vinculadas e entidades compradoras voluntárias.
+
+2 - Integram o SNCP, na qualidade de entidades compradoras vinculadas, os serviços da administração direta do Estado e os institutos públicos, com exceção das instituições de ensino superior públicas previstas na Lei n.º 62/2007, de 10 de setembro, independentemente
+
+da sua natureza.
+
+3 - Podem integrar o SNCP, na qualidade de entidades compradoras voluntárias, os serviços e entidades públicas não referidos no número anterior, incluindo a Presidência da República, a Assembleia da República, a Procuradoria-Geral da República, os tribunais, as entidades administrativas independentes com funções de regulação, as entidades do setor público empresarial e as instituições de ensino superior públicas previstas na Lei n.º 62/2007, de 10 de setembro, independentemente da sua natureza.
+
+4 - A adesão das entidades voluntárias ao SNCP faz-se mediante a celebração de contrato com a ESPAP, I. P.
+
+5 - O Camões - Instituto da Cooperação e da Língua, I. P. (Camões, I. P.), na contratação de bens e serviços, destinados a serem entregues ou prestados fora do território nacional, no âmbito de projetos, programas e ações de cooperação para o desenvolvimento, bem como da promoção da língua e cultura portuguesas, fica dispensado das obrigações inerentes à qualidade de entidade compradora vinculada previstas no presente decreto-lei.
+
+> Alterado pelo/a Artigo 156.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 146.º do/a [Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), em vigor a partir de 2024-01-30, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 338.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04
+
+###### Artigo 4.º — Princípios orientadores do SNCP
+
+O SNCP deve orientar-se pelos seguintes princípios:
+
+a) Segregação das funções de contratação e de compras e pagamentos, assente na adopção de procedimentos centralizados com vista à celebração, aos níveis global e sectorial, de acordos quadro ou outros contratos públicos e na subsequente compra e pagamento pelas entidades compradoras;
+
+b) Celebração de acordos quadro ou outros contratos públicos de modo gradual, incremental e faseado por grupos de categorias de obras, bens móveis e serviços;
+
+c) Igualdade de acesso dos interessados aos procedimentos de formação de acordos quadro ou outros contratos públicos;
+
+d) Adopção de ferramentas de compras electrónicas com funcionalidades de catálogos electrónicos e de encomenda automatizada;
+
+e) Adopção de práticas aquisitivas por via electrónica baseadas na acção de negociadores e especialistas de elevada qualificação técnica, com vista à redução de custos para a Administração Pública;
+
+f) Adopção de práticas e preferência pela aquisição dos bens e serviços que promovam a protecção do ambiente;
+
+g) Promoção da concorrência e da diversidade de fornecedores.
+
+###### Artigo 5.º — Contratação centralizada de bens e serviços
+
+1 - A contratação de bens e serviços pelas entidades compradoras é efectuada preferencialmente de forma centralizada, pela ANCP ou pelas UMC, nos seguintes moldes:
+
+a) Celebração de contratos quadro ou de outros contratos públicos, tendo por objecto obras, bens móveis ou serviços destinados a entidades adjudicantes;
+
+b) Adjudicação de propostas relativas a obras, a bens móveis e a serviços, em representação das entidades adjudicantes e cujos contratos devam ser celebrados directamente por estas.
+
+2 - A despesa inerente à realização de obras, à aquisição de bens móveis e à prestação de serviços, em concreto, é da responsabilidade da entidade adjudicante que a solicite, salvo indicação prévia em contrário da ANCP ou da UMC que tenha intervindo.
+
+3 - A intervenção da ANCP e das UMC, nos termos do n.º 1, é repartida segundo categorias de obras, bens e serviços, a definir por portaria dos membros do Governo responsáveis pela área das finanças e pela área dos serviços partilhados da Administração Pública e por portaria dos membros do Governo responsáveis pela área das finanças, pela área dos serviços partilhados da Administração Pública e pela área setorial, respetivamente.
+
+4 - A contratação centralizada de bens e serviços, nos termos do n.º 1, é obrigatória para as entidades compradoras vinculadas, sendo-lhes proibida a adoção de procedimentos tendentes à contratação direta de obras, de bens móveis e de serviços abrangidos pelas categorias definidas nos termos do n.º 3, salvo autorização prévia expressa do membro do Governo responsável pela área dos serviços partilhados da Administração Pública, precedida de proposta fundamentada da entidade compradora interessada.
+
+5 - A competência dos membros do Governo responsáveis pela área das finanças e pela área dos serviços partilhados da Administração Pública pode ser delegada no conselho de administração da ANCP.
+
+6 - São nulos os contratos relativos a obras, bens móveis e serviços celebrados em violação do disposto no n.º 4, sem prejuízo da responsabilidade disciplinar, civil e financeira que ao caso couber, nos termos gerais de direito.
+
+7 - O disposto nos números anteriores não prejudica a observância das exigências legais decorrentes do regime de realização de despesas públicas ou da contratação pública, incluindo a legislação especial aplicável a determinados bens e serviços, designadamente material e equipamento militares e serviços associados.
+
+8 - O disposto no artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, não é aplicável:
+
+a) Aos procedimentos que envolvam despesas com a aquisição ou aluguer de bens e serviços ao abrigo de acordo quadro celebrado pela ANCP, que deem lugar a encargo orçamental em mais de um ano económico ou em ano que não seja o da sua realização que não exceda o limite de (euro) 100 000 em cada um dos anos económicos seguintes ao da sua contratação;
+
+b) Aos procedimentos que envolvam despesas com a aquisição ou aluguer de bens e serviços para o Parque de Veículos do Estado (PVE) que deem lugar a encargo orçamental em mais de um ano económico ou em ano que não seja o da sua realização, desde que:
+
+i) Sejam centralizados pela ESPAP, I. P.;
+
+ii) Sejam registados nos sistemas orçamentais da Direção-Geral do Orçamento, e
+
+iii) Cumpram o disposto no despacho a que se refere o n.º 1 do artigo 9.º do Decreto-Lei n.º 170/2008, de 26 de agosto, na sua redação atual.
+
+> Alterado pelo/a Artigo 146.º do/a [Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), em vigor a partir de 2024-01-30, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 144.º do/a [Decreto-Lei n.º 10/2023 - Diário da República n.º 28/2023, Série I de 2023-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), em vigor a partir de 2023-02-09, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 146.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+###### Artigo 6.º — Contratação centralizada no âmbito do PVE
+
+1 - A aquisição centralizada de bens e serviços para o PVE compete exclusivamente à ANCP.
+
+2 - Sem prejuízo das modalidades previstas no n.º 1 do artigo anterior, a aquisição dos bens e serviços adequados à satisfação das necessidades do PVE pode ser efectuada pela ANCP em nome próprio, que procede em seguida à respectiva disponibilização aos serviços e entidades utilizadores, nos termos e condições constantes de contrato a celebrar com o Estado, representado pelos respectivos serviços da administração directa, ou os institutos públicos em causa.
+
+3 - É igualmente aplicável à aquisição centralizada de bens e serviços para o PVE, com as devidas adaptações, o disposto nos n.os 6 e 7 do artigo anterior.
+
+4 - O disposto no presente artigo não é aplicável às viaturas para uso dos serviços periféricos externos do MNE, às viaturas a afetar a projetos de cooperação para o desenvolvimento e ajuda humanitária em países parceiros e às destinadas a uso pelas estruturas da rede externa do Camões, I. P.
+
+> Alterado pelo/a Artigo 146.º do/a [Decreto-Lei n.º 17/2024 - Diário da República n.º 20/2024, Série I de 2024-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2024-839477381), em vigor a partir de 2024-01-30, produz efeitos a partir de 2024-01-01
+
+###### Artigo 7.º — Mandato administrativo
+
+1 - A negociação da contratação de obras e da aquisição de bens móveis e de serviços não abrangidos pelas categorias definidas nos termos do n.º 3 do artigo 5.º pode ser atribuída à ANCP, mediante contrato de mandato administrativo a celebrar entre esta entidade e a entidade compradora interessada.
+
+2 - O contrato de mandato administrativo referido no número anterior regula as relações entre a ANCP e a entidade compradora e define, designadamente, os níveis de serviço nos termos dos quais aquela deve desenvolver, no caso concreto, a sua actividade.
+
+3 - A ANCP pode ainda exercer outras funções, no âmbito do seu objecto de actividade, mediante contrato de mandato administrativo a celebrar com o Estado, através do membro do Governo responsável pela área das finanças, nos termos e condições a fixar no respectivo título contratual.
+
+###### Artigo 8.º — Funcionamento do SNCP
+
+1 - A entidade gestora do SNCP é a ANCP, em articulação com as UMC e as entidades compradoras.
+
+2 - As regras sobre o funcionamento do SNCP são definidas por regulamento, aprovado pelo conselho de administração da ANCP e publicado na 2.ª série do Diário da República, o qual deve definir o modo de funcionamento em rede, a organização dos processos de trabalho e a articulação das relações funcionais entre a ANCP, as UMC e as entidades compradoras, designadamente o controlo interno do sistema.
+
+3 - Os serviços e organismos integrados no SNCP adoptam um modelo de funcionamento em rede, nos termos que vierem a ser definidos no regulamento referido no número anterior, a cujo cumprimento estão vinculados.
+
+###### Artigo 9.º — Unidade ministerial de compras
+
+As UMC funcionam nas secretarias-gerais, ou serviços equiparados, e têm por missão apoiar a ANCP na execução da política de compras públicas, de forma a assegurar melhores condições negociais aos serviços e organismos do respectivo ministério integrados no SNCP e racionalizar os processos e custos de aquisição, competindo-lhes, designadamente:
+
+a) Promover a centralização ao nível ministerial da negociação e celebração de acordos quadro ou outros contratos públicos em matérias não centralizadas ao nível da ANCP;
+
+b) Funcionar como apoio de primeira linha dentro do ministério relativamente a acordos quadro ou outros contratos públicos celebrados pela ANCP;
+
+c) Efectuar a agregação de informação de compras ao nível do ministério, nos moldes definidos pela ANCP;
+
+d) Enviar informação de compras à ANCP nos moldes e na periodicidade que vierem a ser definidos pela ANCP;
+
+e) Monitorizar os consumos e supervisionar a aplicação das condições negociadas;
+
+f) Em articulação com as entidades compradoras, zelar para que os orçamentos de obras, fornecimentos e serviços externos sejam efectuados por itens de compra e utilizando preços de referência adequados;
+
+g) Supervisionar a execução orçamental de compras, nomeadamente com vista a assegurar que as reduções de custos unitários se traduzem em poupança efectiva;
+
+h) Instalar e gerir os sistemas de informação relacionados com compras que venham a ser definidos pela ANCP.
+
+### Capítulo III — Gestão do PVE
+
+###### Artigo 10.º — Princípios de gestão do PVE
+
+A gestão do PVE está sujeita aos seguintes princípios:
+
+a) Centralização das aquisições e gestão do PVE;
+
+b) Onerosidade da afectação dos veículos;
+
+c) Responsabilidade das entidades utilizadoras;
+
+d) Controlo da despesa orçamental;
+
+e) Preferência pela composição de frotas automóveis ecologicamente avançadas.
+
+###### Artigo 11.º — Regime jurídico
+
+1 - O regime jurídico da aquisição, onerosa e gratuita, afectação, reafectação, abate e alienação de veículos, bem como da organização e utilização do PVE é estabelecido em diploma próprio.
+
+2 - Sem prejuízo do disposto no número anterior, a aquisição onerosa de direitos sobre veículos para efeitos de integração no PVE e dos respectivos serviços de manutenção, assistência e reparação é efectuada nos termos do artigo 6.º
+
+### Capítulo IV — Disposições finais e transitórias
+
+###### Artigo 12.º — Registo
+
+1 - A ANCP está sujeita a registo comercial, para o que constitui título bastante o presente diploma, sem dependência de outras formalidades.
+
+2 - Sem prejuízo do disposto no número anterior, a ANCP considera-se constituída e em actividade na data de entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 13.º — Sucessão legal
+
+1 - A ANCP sucede automaticamente nas atribuições e competências da Direcção-Geral do Património, no que diz respeito ao objecto do presente decreto-lei.
+
+2 - A posição jurídica do Estado nos contratos públicos de aprovisionamento celebrados pela Direcção-Geral do Património e nos respectivos procedimentos pendentes, qualquer que seja a fase em que se encontrem, é transferida para a ANCP na data da entrada em vigor do presente decreto-lei, independentemente de quaisquer formalidades.
+
+3 - A centralização da contratação no âmbito do PVE não é aplicável aos veículos que já se encontrem afectos aos respectivos serviços ou entidades utilizadores à data da entrada em vigor do presente decreto-lei, salvo acordo em contrário entre a ANCP e os respectivos serviços ou entidades utilizadores.
+
+4 - Os contratos que incidam sobre veículos do PVE vigentes à data da entrada em vigor do presente decreto-lei mantêm-se até ao seu termo, não podendo ser renovados ou renegociados, salvo se a renegociação for mais vantajosa para os interesses do Estado.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 14.º — Prossecução indirecta da actividade relacionada com o PVE
+
+1 - A ANCP pode, nos termos da lei e dos respectivos estatutos, proceder à constituição de uma sociedade comercial integralmente detida por si ou igualmente participada pelo Estado, com vista ao desempenho indirecto das atribuições que lhe são cometidas em relação ao PVE.
+
+2 - A sociedade que eventualmente seja constituída ao abrigo do disposto no número anterior fica igualmente obrigada ao cumprimento dos deveres e obrigações que, nos termos da lei, impendam sobre a ANCP no que respeita à gestão do PVE.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 15.º — Remuneração da ANCP
+
+1 - Constituem receitas da ANCP as cobradas por serviços prestados no âmbito do exercício das suas atribuições, bem como as que lhe sejam especialmente atribuídas por lei, acto ou contrato.
+
+2 - A ANCP é remunerada pelas entidades compradoras, nos termos definidos em portaria do ministro responsável pela área das finanças, tendo em conta indicadores de desempenho adequados, designadamente o volume de compras ou a poupança gerada.
+
+3 - As receitas da actividade da ANCP decorrentes da aquisição centralizada de bens e serviços para o PVE obedecem aos parâmetros igualmente definidos em portaria do ministro responsável pela área das finanças.
+
+4 - As restantes formas de remuneração da ANCP relacionadas com a gestão do PVE, designadamente as provenientes do aluguer de veículos, são fixadas, de forma não discriminatória, nos contratos celebrados com os serviços e entidades utilizadores.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 16.º — Regulamentação
+
+As portarias e o regulamento a que se referem o n.º 3 do artigo 5.º, o n.º 2 do artigo 8.º e os n.os 2 e 3 do artigo anterior devem ser aprovados no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
+
+Promulgado em 5 de Fevereiro de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 6 de Fevereiro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo — ESTATUTOS DA AGÊNCIA NACIONAL DE COMPRAS PÚBLICAS, E. P. E.
+
+(a que se refere o n.º 3 do artigo 1.º)
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+### Capítulo I — Natureza, sede e capital estatutário
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 1.º — Natureza, denominação e duração
+
+1 - A Agência Nacional de Compras Públicas, E. P. E., é uma entidade pública empresarial, abreviadamente designada ANCP.
+
+2 - A ANCP tem duração indeterminada.
+
+3 - A ANCP utiliza a denominação de Agência Nacional de Compras Públicas, E. P. E., ou ANCP, E. P. E.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 2.º — Superintendência e tutela
+
+1 - A ANCP está sujeita aos poderes de superintendência e de tutela do membro do Governo responsável pela área das finanças, nos termos destes estatutos e do regime jurídico aplicável ao sector empresarial do Estado.
+
+2 - Para além de outros previstos na lei, os poderes referidos no número anterior compreendem:
+
+a) A definição das orientações estratégicas, particularmente para efeitos de preparação dos planos de investimentos e financiamentos e dos orçamentos;
+
+b) O poder de exigir todas as informações e documentos julgados úteis para acompanhar a actividade da empresa;
+
+c) O poder de determinar inspecções ou inquéritos ao funcionamento da empresa, independentemente da existência de indícios de prática de irregularidades;
+
+d) O poder de autorizar a contracção de empréstimos de valor, individual ou acumulado, superior a 10% do capital estatutário;
+
+e) O poder de aprovar:
+
+i) Os planos de investimentos e respectivos planos de financiamento;
+
+ii) Os orçamentos anuais de exploração, de investimento e financeiros, bem como as respectivas actualizações que impliquem redução de resultados previsionais, acréscimo de despesas de investimento ou de necessidades de financiamento;
+
+iii) Os documentos relativos à prestação de contas, aplicação de resultados e utilização de reservas;
+
+iv) O estatuto do pessoal, incluindo o regulamento de carreiras e o regime retributivo;
+
+v) Os demais actos que nos termos destes estatutos e da lei necessitem de aprovação tutelar;
+
+f) O poder de autorizar:
+
+i) A aquisição e venda de bens imóveis, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados;
+
+ii) A celebração de contratos-programa e contratos de gestão;
+
+iii) Os demais actos que, nos termos destes estatutos e da lei, necessitem de autorização tutelar, designadamente em matéria de financiamento.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 3.º — Sede
+
+1 - A ANCP tem sede na Direcção-Geral do Tesouro e Finanças, sita no Ministério das Finanças e da Administração Pública, Avenida do Infante D. Henrique, em Lisboa, e exerce a sua actividade em todo o território nacional.
+
+2 - A sede da ANCP pode, mediante deliberação do respectivo conselho de administração, ser modificada.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 4.º — Capital estatutário
+
+1 - O capital estatutário da ANCP é de (euro) 8000000, detido pelo Estado, a realizar em numerário ou em espécie, de forma faseada, nos termos que vierem a ser definidos por despacho do membro do Governo responsável pela área das finanças.
+
+2 - O capital estatutário só pode ser aumentado ou reduzido por despacho do membro do Governo responsável pela área das finanças.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+### Capítulo II — Objecto e atribuições
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 5.º — Objecto
+
+A ANCP tem por objecto:
+
+a) Conceber, definir, implementar, gerir e avaliar o sistema nacional de compras públicas, com vista à racionalização dos gastos do Estado, à desburocratização dos processos públicos de aprovisionamento, à simplificação e regulação do acesso e utilização de meios tecnológicos de suporte e à protecção do ambiente;
+
+b) Assegurar de forma centralizada a aquisição ou locação, em qualquer das suas modalidades, a afectação, a manutenção, a assistência, a reparação, o abate e a alienação de todos os veículos que compõem o parque de veículos do Estado (PVE), nos termos da lei aplicável.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 6.º — Atribuições
+
+1 - São atribuições da ANCP, no âmbito do sistema nacional de compras públicas:
+
+a) Implementar e assegurar a actualização permanente do Programa Nacional de Compras Electrónicas (PNCE);
+
+b) Definir políticas, linhas de orientação, propostas de legislação, procedimentos e sistemas de informação de suporte relacionados com compras públicas;
+
+c) Negociar e celebrar acordos quadro ou outros contratos públicos de obras, de fornecimento ou de serviços destinados às entidades adjudicantes compradoras;
+
+d) Acompanhar e apoiar as UMC nas negociações dos acordos quadro ou outros contratos públicos a celebrar ao nível ministerial;
+
+e) Agregar e tratar a informação de compras;
+
+f) Gerir e supervisionar a comunicação relacionada com compras públicas;
+
+g) Definir, desenvolver e implementar estratégias de compra e negociação para as categorias de produtos e serviços cuja aquisição seja centralizada, preservando e incrementando os níveis de concorrência nos respectivos sectores de actividade;
+
+h) Coordenar e apoiar as entidades públicas e seus fornecedores na adopção das normas e procedimentos definidos para o aprovisionamento público;
+
+i) Avaliar permanentemente o desempenho do SNCP, designadamente mediante a realização de auditorias, sem prejuízo das atribuições e competências legalmente atribuídas às entidades com função inspectiva e de controlo financeiro;
+
+j) Definir e promover procedimentos de natureza normativa relativos à aquisição e utilização de sistemas informáticos de suporte ao aprovisionamento público;
+
+l) Gerir as aplicações centralizadas que integram o Sistema de Compras Públicas Electrónicas, bem como as aplicações de suporte à actividade da ANCP;
+
+m) Adoptar práticas e privilegiar a aquisição de bens e serviços que promovam o equilíbrio adequado entre a eficiência financeira e a protecção do ambiente.
+
+2 - São ainda atribuições da ANCP, no âmbito da gestão do PVE:
+
+a) Garantir a aquisição de veículos e de bens e serviços necessários;
+
+b) Assegurar a satisfação das necessidades dos serviços e organismos abrangidos pelo regime jurídico do PVE, no que se refere à utilização de veículos, incluindo a gestão das respectivas frotas;
+
+c) Assegurar o cumprimento das normas aplicáveis aos veículos que integrem o PVE;
+
+d) Elaborar e manter actualizado o inventário do PVE;
+
+e) Proceder à recolha e controlo de dados relativos aos veículos que integram o PVE e à respectiva utilização;
+
+f) Proceder ao tratamento estatístico dos dados referidos na alínea anterior e ao apuramento de indicadores que permitam aferir o nível de eficiência na gestão e utilização dos veículos, bem como a identificação de desvios;
+
+g) Propor ao membro do Governo responsável pela área das finanças os projectos de regulamentação necessários à adequada gestão e utilização dos veículos que integram o PVE e que, pela sua natureza, não possam ser por si aprovados.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+### Capítulo III — Estrutura orgânica
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+#### Secção I — Órgãos
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 7.º — Órgãos
+
+1 - São órgãos da ANCP, com funções de administração e fiscalização, o conselho de administração e o fiscal único, respectivamente.
+
+2 - A ANCP integra ainda a comissão interministerial de compras (CIC), com funções consultivas.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 8.º — Composição e nomeação do conselho de administração
+
+1 - O conselho de administração é composto por um presidente e dois vogais, nomeados e exonerados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área das finanças.
+
+2 - Salvo nos casos em que a resolução do Conselho de Ministros referida no número anterior ou o contrato de gestão a celebrar, nos termos da lei, disponham diversamente, os membros do conselho de administração ficam dispensados da prestação de caução.
+
+3 - A remuneração dos membros do conselho de administração é fixada por despacho do membro do Governo responsável pela área das finanças.
+
+4 - O mandato dos membros do conselho de administração tem a duração de três anos civis, sendo renovável por iguais períodos até ao limite de três, permanecendo aqueles no exercício das suas funções até efectiva substituição ou declaração da cessação das mesmas.
+
+5 - Os membros do conselho de administração estão sujeitos ao Estatuto do Gestor Público em tudo o que não estiver previsto nos presentes estatutos.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 9.º — Competência do conselho de administração
+
+1 - Além da prática de todos os actos relativos à gestão da ANCP, compete em especial ao conselho de administração:
+
+a) Definir as políticas e a estratégia global de compras para a Administração Pública, tendo em conta as políticas económicas globais e sectoriais definidas pelo Governo, bem como os objectivos preconizados pela tutela;
+
+b) Coordenar o SNCP e avaliar permanentemente o seu desempenho;
+
+c) Determinar a realização de auditorias ordinárias e extraordinárias ao desempenho do SNCP;
+
+d) Promover a implementação e adaptação contínua do PNCE;
+
+e) Assegurar a elaboração de planos, relatórios e orçamentos, bem como de instrumentos de prestação de contas;
+
+f) Aprovar as propostas de regime retributivo e de regulamento de carreiras e submeter a sua aprovação ao membro do Governo responsável pela área das finanças;
+
+g) Aprovar o regulamento disciplinar do pessoal e as condições de prestação do trabalho;
+
+h) Deliberar sobre a realização de empréstimos ou outras operações financeiras, após parecer favorável do fiscal único, e submetê-los à autorização do membro do Governo responsável pela área das finanças, com excepção das simples operações de tesouraria cujo termo ocorra no mesmo exercício em que tenham lugar;
+
+i) Aceitar doações, heranças ou legados;
+
+j) Constituir mandatários, em juízo e fora dele, com faculdade de substabelecimento;
+
+l) Deliberar sobre a participação da ANCP no capital social de sociedades e sobre a criação de associações ou fundações cujo objecto se relacione com as suas atribuições e não seja susceptível de gerar incompatibilidade ou conflito de interesses com o desempenho da respectiva actividade;
+
+m) Pronunciar-se sobre medidas legislativas, regulamentares ou de planeamento no âmbito das suas atribuições ou outras que o Governo entenda submeter-lhe;
+
+n) Exercer os poderes de direcção e disciplina do pessoal;
+
+o) Aprovar os regulamentos necessários ao funcionamento do sistema nacional de compras públicas e do PVE;
+
+p) Exercer os demais poderes e praticar os actos previstos nos presentes estatutos e na lei.
+
+2 - A competência do conselho de administração para a prática de actos próprios da função administrativa define-se de acordo com as regras de direito público aplicáveis.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 10.º — Reuniões, deliberações e actas
+
+1 - O conselho de administração reúne ordinariamente pelo menos uma vez por semana e extraordinariamente sempre que o seu presidente o convocar, por sua iniciativa ou a requerimento de qualquer dos seus membros.
+
+2 - O presidente do conselho de administração pode opor o seu veto a quaisquer deliberações que repute contrárias à lei, aos estatutos, aos regulamentos internos da empresa, à política definida pela tutela ou aos legítimos interesses do Estado, com a consequente suspensão da eficácia da deliberação, até que sobre esta se pronuncie o ministro da tutela.
+
+3 - A suspensão referida no número anterior finda com a confirmação do acto pelo ministro da tutela ou pelo decurso do prazo de oito dias úteis sobre o seu conhecimento, sem que a seu respeito tenha emitido qualquer juízo.
+
+4 - A confirmação do veto acarreta a ineficácia da deliberação.
+
+5 - Devem ser lavradas actas de todas as reuniões, em livro próprio, assinadas por todos os membros do conselho presentes.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 11.º — Vinculação da empresa
+
+1 - A ANCP obriga-se:
+
+a) Pela assinatura conjunta de dois membros do conselho de administração, sendo um deles o presidente;
+
+b) Pela assinatura de um membro do conselho de administração, no âmbito de delegação de poderes;
+
+c) Pela assinatura de mandatários, no âmbito e nos limites dos poderes que lhes tenham sido conferidos.
+
+2 - Tratando-se de documentos emitidos em massa, as assinaturas podem ser apostas através de chancela.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 12.º — Presidente do conselho de administração
+
+1 - O presidente do conselho de administração assegura a representação institucional da ANCP e exerce as seguintes competências próprias:
+
+a) Convocar e presidir às reuniões do conselho de administração, coordenar a sua actividade e assegurar o cumprimento das respectivas deliberações;
+
+b) Assegurar o regular funcionamento de todos os serviços;
+
+c) Submeter a aprovação ou autorização do membro do Governo competente todos os actos que dela careçam;
+
+d) Representar a empresa em convenção arbitral, podendo designar mandatário para o efeito;
+
+e) Aprovar, de acordo com as deliberações do conselho de administração, as minutas de contratos e outorgar os contratos relativos a pessoal, estudos, obras e fornecimento de materiais, bens ou serviços;
+
+f) Assegurar as relações com os órgãos de tutela e com as demais entidades públicas;
+
+g) Exercer as competências que lhe sejam delegadas.
+
+2 - O presidente é substituído, nas suas ausências, faltas ou impedimentos, pelo vogal do conselho de administração por ele designado.
+
+3 - O presidente do conselho de administração pode delegar competências nos vogais, com poderes de subdelegação.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 13.º — Órgão de fiscalização
+
+1 - O fiscal único da ANCP é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da empresa.
+
+2 - O fiscal único é nomeado por despacho do membro do Governo responsável pela área das finanças, devendo ser revisor oficial de contas ou sociedade de revisores oficiais de contas.
+
+3 - O mandato tem a duração de três anos civis e é renovável por uma única vez.
+
+4 - Compete ao fiscal único:
+
+a) Dar parecer sobre o orçamento e suas revisões e alterações, bem como sobre o plano de actividades na perspectiva da sua cobertura orçamental;
+
+b) Dar parecer sobre o relatório de gestão de exercício e contas;
+
+c) Acompanhar com regularidade a gestão através dos balancetes e mapas demonstrativos da execução orçamental;
+
+d) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que se proceda;
+
+e) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;
+
+f) Dar parecer sobre a subscrição de participações sociais em sociedades ou sobre as alterações do capital social nas empresas participadas da ANCP;
+
+g) Pronunciar-se sobre qualquer outro assunto, em matéria de gestão económica e financeira, que seja submetido à sua consideração pelo conselho de administração;
+
+h) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;
+
+i) Dar parecer sobre a contracção de empréstimos;
+
+j) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;
+
+l) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e pelas entidades que exercem poderes de controlo financeiro.
+
+5 - O fiscal único deve cumprir o seu mandato com independência, isenção e imparcialidade e os seus membros, agentes ou representantes devem observar o dever de estrito sigilo sobre os factos de que tenham conhecimento no exercício das suas funções ou por causa delas.
+
+6 - A remuneração do fiscal único é fixada por despacho do membro do Governo responsável pela área das finanças.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 14.º — Comissão Interministerial de Compras
+
+1 - Junto da ANCP funciona, como órgão consultivo, a Comissão Interministerial de Compras (CIC), cuja presidência é assegurada pelo presidente do conselho de administração ou por quem este designar.
+
+2 - A CIC é constituída, por inerência, pelos responsáveis pelas unidades ministeriais de compras, pelo director-geral do Orçamento e por representantes de quaisquer outras entidades, públicas ou privadas, designados por despacho do membro do Governo responsável pela área das finanças, sempre que este o entenda conveniente.
+
+3 - Compete à CIC:
+
+a) Pronunciar-se sobre as linhas gerais da política de aquisições públicas;
+
+b) Pronunciar-se sobre o aperfeiçoamento do quadro legal e regulamentar vigente;
+
+c) Pronunciar-se sobre o estabelecimento de padrões e níveis de consumo adequados às diferentes unidades;
+
+d) Assegurar a ligação entre a ANCP e os ministérios no que se refere à recolha e divulgação dos elementos necessários ao funcionamento do sistema de aquisições públicas;
+
+e) Promover a permuta de informação entre os serviços utilizadores e cada departamento ministerial de forma a melhorar as condições de processamento das aquisições;
+
+f) Dar parecer sobre o plano anual e o relatório de actividades e sobre quaisquer assuntos relacionados com as competências da CIC, que lhe sejam submetidos pela tutela, pelo conselho de administração ou pelo seu presidente.
+
+4 - A CIC reúne ordinariamente pelo menos duas vezes por ano e extraordinariamente sempre que o presidente, por sua iniciativa ou a solicitação de um terço dos seus membros, a convocar.
+
+5 - Os membros do conselho de administração e o fiscal único podem participar nas reuniões, sem direito a voto.
+
+6 - Podem participar ainda nas reuniões, sem direito a voto, por convocação do presidente, mediante proposta do conselho de administração, tendo em conta os assuntos a apreciar, outras entidades cuja presença seja considerada necessária.
+
+7 - As reuniões são convocadas pelo presidente com a antecedência mínima de cinco dias úteis, devendo ser indicados na convocatória a data, a hora e o local em que se realizam, bem como a ordem de trabalhos.
+
+8 - O exercício das funções de membro da CIC não é remunerado, sem prejuízo do pagamento de ajudas de custo, suportadas pelo orçamento da empresa, quando a tal houver lugar.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+#### Secção II — Organização dos serviços
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 15.º — Modelo organizacional
+
+1 - A estrutura geral da ANCP é definida por regulamento interno, a aprovar pelo conselho de administração.
+
+2 - O conselho de administração pode, sendo caso disso, aprovar regulamentos internos sectoriais, tendo por objecto unidades orgânicas, consoante a densidade e a complexidade críticas de cada uma delas.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+### Capítulo IV — Regime patrimonial e financeiro
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 16.º — Património
+
+1 - Constituem património da ANCP a universalidade dos bens e direitos transmitidos aquando da sua criação, identificados em despacho do membro do Governo responsável pela área das finanças, bem como os bens e direitos adquiridos no âmbito da sua actividade.
+
+2 - A ANCP promove junto das conservatórias e serviços competentes a inscrição de factos relativos a bens e direitos sujeitos a registo que integrem o seu património.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 17.º — Gestão financeira e patrimonial
+
+1 - Na sua gestão financeira e patrimonial, a ANCP deve aplicar as regras legais e os princípios da boa gestão empresarial, de forma a assegurar a sua viabilidade económica e o equilíbrio financeiro.
+
+2 - É da exclusiva competência da ANCP a cobrança de receitas provenientes da sua actividade ou que lhe forem facultadas nos termos dos presentes estatutos ou da lei, bem como a realização das despesas inerentes à prossecução do seu objecto.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+### Capítulo V — Plano, orçamento e contas
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15
+
+###### Artigo 18.º — Plano de actividades, orçamento anual e prestação de contas
+
+1 - O planeamento, a orçamentação e a prestação de contas da actividade da ANCP regem-se pelo disposto no regime jurídico do sector empresarial do Estado.
+
+2 - Sem prejuízo do disposto no número anterior, a ANCP fica ainda obrigada a:
+
+a) Elaborar uma conta de resultados que evidencie o volume de poupança gerado anualmente pelo SNCP aos níveis global e sectorial, por um lado, e pela gestão centralizada do PVE, por outro;
+
+b) Apresentar, em capítulo autónomo do respectivo relatório de gestão, os dados estatísticos e outros indicadores de gestão relevantes, nomeadamente os indicadores do volume de poupança alcançado.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117-A/2012 - Diário da República n.º 114/2012, 1º Suplemento, Série I de 2012-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-a-2012-411608), em vigor a partir de 2012-06-15

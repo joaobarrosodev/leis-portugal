@@ -1,0 +1,928 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:499251:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-58891121",
+ "dre_path": "/dr/detalhe/lei/74-2013-499251",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-09-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "58891025",
+    "58891026",
+    "58891027",
+    "58891028",
+    "58891029",
+    "58891030",
+    "58891031",
+    "58891032",
+    "58891033",
+    "58891034",
+    "58891035",
+    "58891036",
+    "58891037",
+    "58891038",
+    "58891039",
+    "58891040",
+    "58891041",
+    "58891042",
+    "58891043",
+    "58891044",
+    "58891045",
+    "58891046",
+    "58891047",
+    "58891048",
+    "58891049",
+    "58891050",
+    "58891051",
+    "58891052",
+    "58891053",
+    "58891054",
+    "58891055",
+    "58891056",
+    "58891057",
+    "58891058",
+    "58891059",
+    "58891060",
+    "58891061",
+    "58891062",
+    "58891063",
+    "58891064",
+    "58891065",
+    "58891066",
+    "58891067",
+    "58891068",
+    "58891069",
+    "58891070",
+    "58891071",
+    "58891072",
+    "58891073",
+    "58891074",
+    "58889675",
+    "58889676",
+    "58889677",
+    "58889678",
+    "58889679",
+    "58889680",
+    "58889681",
+    "58889682",
+    "58889683",
+    "58889684",
+    "58889685",
+    "58889686",
+    "58889687",
+    "58889688",
+    "58889689",
+    "58889690",
+    "58889691",
+    "58889692",
+    "58889693",
+    "58889694",
+    "58889695",
+    "58889696",
+    "58889697",
+    "58889698",
+    "58889699",
+    "58889700",
+    "58889701",
+    "58889702",
+    "58889703",
+    "58889704",
+    "58889705",
+    "58889706",
+    "58889707",
+    "58889708",
+    "58889709",
+    "58889710",
+    "58889711",
+    "58889712",
+    "58889713",
+    "58889714",
+    "58889715",
+    "58889716",
+    "58889717",
+    "58889718",
+    "58889719",
+    "58889720",
+    "58889721",
+    "58889722",
+    "58889723",
+    "58889724",
+    "58889725"
+   ]
+  }
+ ],
+ "fragments": {
+  "58891025": {
+   "fragment_id": "58891122",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 74/2013\n\nde 6 de setembro\n\nCria o Tribunal Arbitral do Desporto e aprova a respetiva lei\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "58891026": {
+   "fragment_id": "58891123",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei cria o Tribunal Arbitral do Desporto (TAD), com competência específica para administrar a justiça relativamente a litígios que relevam do ordenamento jurídico desportivo ou relacionados com a prática do desporto.\n\n2 - A presente lei aprova, ainda, a lei do TAD."
+  },
+  "58891027": {
+   "fragment_id": "58891124",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação da lei do Tribunal Arbitral do Desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação da lei do Tribunal Arbitral do Desporto\n\nÉ aprovada, em anexo à presente lei, da qual faz parte integrante, a lei do TAD que estabelece:\n\na) A natureza, a competência, a organização e os serviços do TAD; e\n\nb) As regras dos processos de arbitragem e de mediação a submeter ao TAD."
+  },
+  "58891028": {
+   "fragment_id": "58891125",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\n1 - A presente lei aplica-se aos processos iniciados após a sua entrada em vigor.\n\n2 - A aplicação da presente lei aos litígios pendentes à data da sua entrada em vigor carece de acordo das partes.\n\n3 - As comissões arbitrais às quais tenha sido atribuída competência exclusiva ou prévia, nos termos e para os efeitos do artigo 30.º da Lei n.º 28/98, de 26 de junho, alterada pela Lei n.º 114/99, de 3 de agosto, mantêm-se em vigor até 31 de julho de 2015, data a partir da qual a respetiva competência arbitral é atribuída ao TAD."
+  },
+  "58891029": {
+   "fragment_id": "58891126",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 30.º da Lei n.º 28/98, de 26 de junho, alterada pela Lei n.º 114/99, de 3 de agosto;\n\nb) O artigo 18.º da Lei n.º 5/2007, de 16 de janeiro;\n\nc) O artigo 12.º do Decreto-Lei n.º 248-B/2008, de 31 de dezembro;\n\nd) Os n.os 2 e 3 do artigo 31.º do Decreto-Lei n.º 273/2009, de 1 de outubro."
+  },
+  "58891030": {
+   "fragment_id": "58891127",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente lei entra em vigor no prazo de 90 dias após a instalação do TAD."
+  },
+  "58891031": {
+   "fragment_id": "58891128",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\nLei do Tribunal Arbitral do Desporto"
+  },
+  "58891032": {
+   "fragment_id": "58891129",
+   "type": 13,
+   "heading": "Título I — Natureza, competência, organização e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Natureza, competência, organização e serviços"
+  },
+  "58891033": {
+   "fragment_id": "58891130",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e competência"
+  },
+  "58891034": {
+   "fragment_id": "58891131",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e regime\n\n1 - O Tribunal Arbitral do Desporto (TAD) é uma entidade jurisdicional independente, nomeadamente dos órgãos da administração pública do desporto e dos organismos que integram o sistema desportivo, dispondo de autonomia administrativa e financeira.\n\n2 - O TAD tem competência específica para administrar a justiça relativamente a litígios que relevam do ordenamento jurídico desportivo ou relacionados com a prática do desporto.\n\n3 - São receitas do TAD as custas processuais cobradas nos correspondentes processos e outras que possam ser geradas pela sua atividade, nomeadamente as receitas provenientes dos serviços de consulta e de mediação previstos na presente lei.\n\n4 - Incumbe ao Comité Olímpico de Portugal promover a instalação e o funcionamento do TAD."
+  },
+  "58891035": {
+   "fragment_id": "58891132",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição e sede\n\nO TAD exerce a sua jurisdição em todo o território nacional e tem a sua sede no Comité Olímpico de Portugal."
+  },
+  "58891036": {
+   "fragment_id": "58891133",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito da jurisdição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito da jurisdição\n\nNo julgamento dos recursos e impugnações previstas nos artigos anteriores, o TAD goza de jurisdição plena, em matéria de facto e de direito."
+  },
+  "58891037": {
+   "fragment_id": "58891134",
+   "type": 11,
+   "heading": "Artigo 4.º — Arbitragem necessária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Arbitragem necessária\n\n1 - Compete ao TAD conhecer dos litígios emergentes dos atos e omissões das federações e outras entidades desportivas e ligas profissionais, no âmbito do exercício dos correspondentes poderes de regulamentação, organização, direção e disciplina.\n\n2 - Salvo disposição em contrário e sem prejuízo do disposto no número seguinte, a competência definida no número anterior abrange as modalidades de garantia contenciosa previstas no Código de Processo nos Tribunais Administrativos que forem aplicáveis.\n\n3 - O acesso ao TAD só é admissível em via de recurso das decisões dos órgãos jurisdicionais das federações desportivas ou das decisões finais de outras entidades desportivas referidas no n.º 1, não dispensando a necessidade de fazer uso dos meios internos de impugnação, recurso ou sancionamento dos atos ou omissões referidos no n.º 1 e previstos nos termos da lei ou de norma estatutária ou regulamentar.\n\n4 - Cessa o disposto no número anterior sempre que a decisão do órgão jurisdicional federativo ou a decisão final de outra entidade desportiva referida no n.º 1 não haja sido proferida no prazo de 30 dias úteis, sobre a autuação do correspondente processo, caso em que o prazo para a apresentação do requerimento inicial junto do TAD é de 10 dias, contados a partir do final daquele prazo.\n\n5 - É excluída da jurisdição do TAD, não sendo assim suscetível designadamente do recurso referido no n.º 3, a resolução de questões emergentes da aplicação das normas técnicas e disciplinares diretamente respeitantes à prática da própria competição desportiva."
+  },
+  "58891038": {
+   "fragment_id": "58891135",
+   "type": 11,
+   "heading": "Artigo 5.º — Arbitragem necessária em matéria de dopagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Arbitragem necessária em matéria de dopagem\n\nCompete ao TAD conhecer dos recursos das deliberações tomadas por órgãos disciplinares das federações desportivas ou pela Autoridade Antidopagem de Portugal em matéria de violação das normas antidopagem, nos termos da Lei n.º 38/2012, de 28 de agosto, que aprova a lei antidopagem no desporto."
+  },
+  "58891039": {
+   "fragment_id": "58891136",
+   "type": 11,
+   "heading": "Artigo 6.º — Arbitragem voluntária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Arbitragem voluntária\n\n1 - Podem ser submetidos à arbitragem do TAD todos os litígios, não abrangidos pelos artigos 4.º e 5.º, relacionados direta ou indiretamente com a prática do desporto, que, segundo a lei da arbitragem voluntária (LAV), sejam suscetíveis de decisão arbitral.\n\n2 - A submissão ao TAD dos litígios referidos no número anterior pode operar-se mediante convenção de arbitragem ou, relativamente a litígios decorrentes da correspondente relação associativa, mediante cláusula estatutária de uma federação ou outro organismo desportivo."
+  },
+  "58891040": {
+   "fragment_id": "58891137",
+   "type": 11,
+   "heading": "Artigo 7.º — Arbitragem voluntária em matéria laboral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Arbitragem voluntária em matéria laboral\n\n1 - O disposto no artigo anterior é designadamente aplicável a quaisquer litígios emergentes de contratos de trabalho desportivo celebrados entre atletas ou técnicos e agentes ou organismos desportivos, podendo ser apreciada a regularidade e licitude do despedimento.\n\n2 - De acordo com o definido no número anterior é atribuída ao TAD a competência arbitral das comissões arbitrais paritárias, prevista na Lei n.º 28/98, de 26 de junho."
+  },
+  "58891041": {
+   "fragment_id": "58891138",
+   "type": 11,
+   "heading": "Artigo 8.º — Recurso das decisões arbitrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recurso das decisões arbitrais\n\n1 - São passíveis de recurso, para a câmara de recurso, as decisões dos colégios arbitrais que:\n\na) Sancionem infrações disciplinares previstas pela lei ou pelos regulamentos disciplinares aplicáveis;\n\nb) Estejam em contradição com outra, já transitada em julgado, proferida por um colégio arbitral ou pela câmara de recurso, no domínio da mesma legislação ou regulamentação, sobre a mesma questão fundamental de direito, salvo se conformes com decisão subsequente entretanto já tomada sobre tal questão pela câmara de recurso.\n\n2 - Das decisões proferidas pela câmara de recurso, pode haver recurso de revista para o Supremo Tribunal Administrativo quando esteja em causa a apreciação de uma questão que, pela sua relevância jurídica ou social, se revista de importância fundamental ou quando a admissão do recurso seja claramente necessária para uma melhor aplicação do direito, aplicando-se, com as necessárias adaptações, o disposto no Código de Processo nos Tribunais Administrativos quanto ao recurso de revista.\n\n3 - No caso de arbitragem voluntária, a submissão do litígio ao TAD implica a renúncia aos recursos referidos nos números anteriores.\n\n4 - Fica salvaguardada, em todos os casos, a possibilidade de recurso para o Tribunal Constitucional e de impugnação da decisão com os fundamentos e nos termos previstos na LAV.\n\n5 - São competentes para conhecer da impugnação referida no número anterior o Tribunal Central Administrativo do lugar do domicílio da pessoa contra quem se pretende fazer valer a sentença, no tocante a decisões proferidas no exercício da jurisdição arbitral necessária, ou o Tribunal da Relação do lugar do domicílio da pessoa contra quem se pretende fazer valer a sentença, no tocante a decisões proferidas no exercício da jurisdição arbitral voluntária, previstas nesta lei.\n\n6 - O recurso para o Tribunal Constitucional, o recurso de revista para o Supremo Tribunal Administrativo, bem como a ação de impugnação da decisão arbitral, não afetam os efeitos desportivos validamente produzidos pela mesma decisão.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 781/2013 - Diário da República n.º 243/2013, Série I de 2013-12-16](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/781-2013-483939) Declarada a inconstitucionalidade, com força obrigatória geral, das normas constantes do n.º 1 e do n.º 2 do presente artigo, pelo Acórdão n.º781/2013 do Tribunal Constitucional"
+  },
+  "58891042": {
+   "fragment_id": "58891139",
+   "type": 1,
+   "heading": "Capítulo II — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização e funcionamento"
+  },
+  "58891043": {
+   "fragment_id": "58891140",
+   "type": 8,
+   "heading": "Secção I — Composição e organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Composição e organização interna"
+  },
+  "58891044": {
+   "fragment_id": "58891141",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição\n\nSão elementos integrantes da organização e funcionamento do TAD o Conselho de Arbitragem Desportiva, o presidente, o vice-presidente, os árbitros, o conselho diretivo, o secretariado, a câmara de recurso e os árbitros."
+  },
+  "58891045": {
+   "fragment_id": "58891142",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho de Arbitragem Desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conselho de Arbitragem Desportiva\n\n1 - O Conselho de Arbitragem Desportiva é constituído por 11 membros, 10 dos quais assim designados:\n\na) Dois, pelo Comité Olímpico de Portugal, devendo a designação recair em juristas de reconhecido mérito e idoneidade, com experiência na área do desporto;\n\nb) Dois, pela Confederação do Desporto de Portugal, devendo a designação recair em juristas de reconhecido mérito e idoneidade, com experiência na área do desporto;\n\nc) Um, pelo Conselho Nacional do Desporto, devendo a designação recair em jurista de reconhecido mérito e idoneidade, com experiência na área do desporto;\n\nd) Um, pelo Conselho Superior da Magistratura, de entre atuais ou antigos magistrados;\n\ne) Um, pelo Conselho Superior dos Tribunais Administrativos e Fiscais, de entre atuais ou antigos magistrados;\n\nf) Um, pelo Conselho Superior do Ministério Público, de entre atuais ou antigos magistrados;\n\ng) Um, pelo Conselho de Reitores das Universidades Portuguesas, de entre professores das Faculdades de Direito, sob indicação destas;\n\nh) Um, pela Ordem dos Advogados, de entre advogados de reconhecido mérito e idoneidade, com experiência na área do direito do desporto.\n\n2 - Integra ainda o Conselho de Arbitragem Desportiva o presidente do TAD.\n\n3 - Os membros do Conselho elegem, de entre si, o presidente e o vice-presidente do Conselho de Arbitragem Desportiva, por maioria de votos.\n\n4 - O mandato dos membros do Conselho tem a duração de três anos, podendo ser renovado por dois períodos idênticos.\n\n5 - Se ocorrer alguma vaga no Conselho, a mesma é preenchida nos termos do n.º 1, sendo o respetivo mandato completado pelo novo membro.\n\n6 - Os membros do Conselho não podem agir como árbitros em litígios submetidos à arbitragem do TAD, nem como advogados ou representantes de qualquer das partes em litígio.\n\n7 - Pelo exercício das suas funções, os membros do Conselho têm apenas direito à compensação de despesas que tal exercício lhes acarrete e ao abono de uma senha de presença por cada dia de reunião em que participem, cujo valor é fixado pelo presidente do TAD."
+  },
+  "58891046": {
+   "fragment_id": "58891143",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência do Conselho de Arbitragem Desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência do Conselho de Arbitragem Desportiva\n\nCompete designadamente ao Conselho de Arbitragem Desportiva:\n\na) Estabelecer a lista de árbitros do TAD e designar os árbitros que a integram, nos termos do disposto no artigo 21.º, bem como designar os árbitros que integram a câmara de recurso;\n\nb) Acompanhar a atividade e o funcionamento do TAD, em ordem à preservação da sua independência e garantia da sua eficiência, podendo, para o efeito, formular as sugestões de alteração legislativa ou regulamentar que entenda convenientes;\n\nc) Aprovar os regulamentos de processo e de custas processuais no âmbito da arbitragem voluntária, bem como dos serviços de mediação e consulta;\n\nd) Aprovar a lista de mediadores e de consultores do TAD e as respetivas alterações;\n\ne) Aprovar a tabela de vencimentos do pessoal do TAD;\n\nf) Aprovar o seu regimento, observado o disposto na presente lei;\n\ng) Promover o estudo e a difusão da arbitragem desportiva e a formação específica de árbitros, nomeadamente estabelecendo relações com outras instituições de arbitragem nacionais ou com instituições similares estrangeiras ou internacionais;\n\nh) Adotar todas as medidas apropriadas para assegurar a proteção dos direitos das partes e a independência dos árbitros."
+  },
+  "58891047": {
+   "fragment_id": "58891144",
+   "type": 11,
+   "heading": "Artigo 12.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reuniões e deliberações\n\n1 - O Conselho de Arbitragem Desportiva reúne ordinariamente uma vez por semestre e sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de, pelo menos, metade dos seus membros.\n\n2 - As deliberações do Conselho de Arbitragem Desportiva são tomadas por maioria de votos, achando-se presente pelo menos metade dos seus membros, e dispondo o presidente de voto de qualidade.\n\n3 - As deliberações relativas às competências previstas nas alíneas a), c) e f) do artigo anterior carecem da aprovação de dois terços dos membros em efetividade de funções.\n\n4 - É vedado a cada membro do Conselho de Arbitragem Desportiva participar em reuniões ou na tomada de deliberações sempre que:\n\na) A reunião ou a deliberação respeitar a arbitragem em que uma das partes seja uma entidade de que o membro em causa é filiado ou associado, dirigente ou representante;\n\nb) A reunião ou a deliberação respeitar a arbitragem em que intervenha advogado pertencente ao mesmo escritório ou à mesma sociedade de advogados do membro em causa como árbitro, assessor ou representante de uma das partes;\n\nc) Em geral, a reunião ou a deliberação respeitar a arbitragem em que uma das partes tenha com o membro em causa relação que seria motivo de escusa ou suspeição para intervir como árbitro na arbitragem, o que será apreciado e decidido pelo próprio Conselho de Arbitragem Desportiva."
+  },
+  "58891048": {
+   "fragment_id": "58891145",
+   "type": 11,
+   "heading": "Artigo 13.º — Presidência do TAD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Presidência do TAD\n\n1 - O presidente e o vice-presidente do TAD são eleitos pelo plenário dos árbitros, de entre estes.\n\n2 - O mandato do presidente e do vice-presidente do TAD tem a duração de três anos, podendo ser renovado por dois períodos idênticos."
+  },
+  "58891049": {
+   "fragment_id": "58891146",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência do presidente do TAD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência do presidente do TAD\n\n1 - Compete ao presidente do TAD:\n\na) Representar o Tribunal nas suas relações externas;\n\nb) Coordenar a atividade do Tribunal;\n\nc) Convocar e dirigir as reuniões do conselho diretivo;\n\nd) Exercer as demais funções que lhe sejam cometidas por lei ou regulamento.\n\n2 - Compete ao vice-presidente substituir o presidente nas suas faltas e impedimentos."
+  },
+  "58891050": {
+   "fragment_id": "58891147",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conselho diretivo\n\n1 - O TAD tem um conselho diretivo constituído pelo presidente e pelo vice-presidente do TAD, por dois vogais e pelo secretário-geral.\n\n2 - Um dos vogais é eleito pelo plenário dos árbitros do TAD, de entre os seus membros, sendo o outro designado pelo Conselho Nacional do Desporto, tendo o respetivo mandato a duração de três anos e podendo ser renovado por dois períodos idênticos.\n\n3 - O secretário-geral é designado pelo presidente do TAD, ouvidos o vice-presidente e os vogais do conselho diretivo, de entre licenciados ou mestres em Direito com qualificação e experiência adequadas ao exercício da função ou mediante solicitação ao Ministério da Justiça, em termos a definir, no quadro legal, pelo titular da respetiva pasta, de entre funcionários judiciais com a categoria de secretário judicial.\n\n4 - Pelo exercício das respetivas funções, o presidente do TAD tem direito ao abono de uma gratificação permanente e o vice-presidente e os vogais do conselho diretivo têm direito ao abono de uma senha de presença por cada dia de reunião em que participem, cujo valor é fixado pelo Conselho de Arbitragem Desportiva."
+  },
+  "58891051": {
+   "fragment_id": "58891148",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência do conselho diretivo\n\n1 - Compete ao conselho diretivo superintender na gestão e administração do TAD.\n\n2 - Compete ainda especificamente ao conselho diretivo:\n\na) Elaborar e submeter à aprovação do Conselho de Arbitragem Desportiva os regulamentos de processo, designadamente o previsto no artigo 60.º, os regulamentos de custas aplicáveis no domínio da jurisdição arbitral voluntária, da mediação e da consulta, os quais incluirão as tabelas de honorários dos árbitros, juristas designados para emitir pareceres, mediadores e consultores, e o regulamento do serviço de mediação;\n\nb) Aprovar o regulamento do secretariado do TAD e os regulamentos internos necessários ao funcionamento do Tribunal;\n\nc) Aprovar o orçamento e as contas anuais do TAD."
+  },
+  "58891052": {
+   "fragment_id": "58891149",
+   "type": 11,
+   "heading": "Artigo 17.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reuniões e deliberações\n\n1 - O conselho diretivo reúne ordinariamente uma vez por mês e sempre que convocado pelo presidente do TAD.\n\n2 - As deliberações do conselho diretivo são tomadas por maioria de votos, achando-se presente pelo menos metade dos seus membros, e dispondo o presidente de voto de qualidade."
+  },
+  "58891053": {
+   "fragment_id": "58891150",
+   "type": 11,
+   "heading": "Artigo 18.º — Secretariado do TAD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Secretariado do TAD\n\n1 - O secretariado do TAD integra os serviços judiciais e administrativos necessários e adequados ao funcionamento do Tribunal.\n\n2 - O secretariado do TAD é dirigido pelo secretário-geral e tem a organização e composição que são definidas no respetivo regulamento."
+  },
+  "58891054": {
+   "fragment_id": "58891151",
+   "type": 11,
+   "heading": "Artigo 19.º — Câmara de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Câmara de recurso\n\n1 - A câmara de recurso é constituída, além do presidente, ou, em sua substituição, do vice-presidente do TAD, por oito árbitros, de entre os da lista do Tribunal, designados pelo Conselho de Arbitragem Desportiva.\n\n2 - Em cada dois anos proceder-se-á à substituição de metade dos oito árbitros designados para a câmara de recurso, sendo designados por sorteio os árbitros a substituir na primeira renovação.\n\n3 - A designação dos árbitros para a câmara de recurso fica dependente de aceitação dos próprios, a qual implica o compromisso da disponibilidade da sua intervenção em qualquer recurso que suba à mesma câmara, salvo o caso de impedimento ou recusa ou de outro motivo específico que impossibilite essa intervenção, reconhecido pelo presidente do TAD."
+  },
+  "58891055": {
+   "fragment_id": "58891152",
+   "type": 8,
+   "heading": "Secção II — Estatuto dos árbitros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Estatuto dos árbitros"
+  },
+  "58891056": {
+   "fragment_id": "58891153",
+   "type": 11,
+   "heading": "Artigo 20.º — Lista e requisitos dos árbitros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Lista e requisitos dos árbitros\n\n1 - O TAD é integrado, no máximo, por 40 árbitros, constantes de uma lista estabelecida nos termos do artigo seguinte.\n\n2 - Podem integrar a lista de árbitros prevista no número anterior, juristas de reconhecida idoneidade e competência e personalidades de comprovada qualificação científica, profissional ou técnica na área do desporto, de reconhecida idoneidade e competência, a qual é aprovada pelo Conselho de Arbitragem Desportiva.\n\n3 - Os árbitros devem ser pessoas singulares e plenamente capazes.\n\n4 - Ninguém pode ser preterido, na sua designação como árbitro, em razão da nacionalidade, sem prejuízo da liberdade de escolha das partes.\n\n5 - Os árbitros devem ser independentes e imparciais.\n\n6 - Os árbitros não podem ser responsabilizados por danos decorrentes das decisões por eles proferidas, salvo nos casos em que os magistrados judiciais o possam ser."
+  },
+  "58891057": {
+   "fragment_id": "58891154",
+   "type": 11,
+   "heading": "Artigo 21.º — Estabelecimento da lista de árbitros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estabelecimento da lista de árbitros\n\n1 - Em ordem ao estabelecimento da lista referida no artigo anterior devem ser apresentadas ao Conselho de Arbitragem Desportiva propostas de árbitros das quais devem constar:\n\na) Cinco árbitros designados pelas federações desportivas de modalidades olímpicas em cujo âmbito não se organizem competições desportivas profissionais;\n\nb) Cinco árbitros designados pelas federações desportivas de modalidades não olímpicas;\n\nc) Cinco árbitros designados pela Confederação do Desporto de Portugal;\n\nd) Dois árbitros designados pelas federações em cujo âmbito se organizem competições desportivas profissionais;\n\ne) Dois árbitros designados pelas ligas que organizem as competições desportivas profissionais referidas na alínea anterior;\n\nf) Um árbitro designado por cada uma das organizações socioprofissionais de praticantes, treinadores e árbitros e juízes das modalidades em que se disputam as competições referidas na alínea d), reconhecidas pelas federações respetivas;\n\ng) Dois árbitros designados pela Comissão de Atletas Olímpicos;\n\nh) Dois árbitros designados pela Confederação Portuguesa das Associações dos Treinadores;\n\ni) Dois árbitros designados pelas associações representativas de outros agentes desportivos, reconhecidas pelas federações respetivas;\n\nj) Um árbitro designado pela Associação Portuguesa de Direito Desportivo;\n\nk) Cinco árbitros escolhidos pela Comissão Executiva do Comité Olímpico de Portugal, de entre personalidades independentes das entidades referidas nas alíneas anteriores.\n\n2 - As propostas referidas no número anterior deverão conter um número de nomes igual ao dobro do número de árbitros a incluir na correspondente lista.\n\n3 - Os restantes membros da lista de árbitros, até ao limite previsto no artigo anterior, são designados pelo Conselho de Arbitragem Desportiva, por livre escolha deste.\n\n4 - O Conselho de Arbitragem pode recusar fundamentadamente a inclusão na lista de árbitros de qualquer das personalidades indicadas no n.º 1, caso em que haverá lugar a nova proposta, nos mesmos termos aí referidos.\n\n5 - Pelo menos metade dos árbitros designados devem ser licenciados em Direito."
+  },
+  "58891058": {
+   "fragment_id": "58891155",
+   "type": 11,
+   "heading": "Artigo 22.º — Período de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Período de exercício\n\n1 - Os árbitros são designados por um período de quatro anos, renovável, sem prejuízo do disposto no número seguinte.\n\n2 - O Conselho de Arbitragem Desportiva pode, a todo o tempo, por deliberação tomada por maioria de dois terços dos respetivos membros, excluir da lista estabelecida nos termos do artigo anterior qualquer árbitro, quando houver razões fundadas para tanto, nomeadamente a recusa do exercício de funções ou a incapacidade permanente para esse exercício.\n\n3 - No caso referido no número anterior, proceder-se-á à inclusão na lista de árbitros de um novo árbitro, designado nos termos do artigo anterior, para o quadriénio em curso."
+  },
+  "58891059": {
+   "fragment_id": "58891156",
+   "type": 11,
+   "heading": "Artigo 23.º — Aceitação do encargo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Aceitação do encargo\n\n1 - Ninguém pode ser obrigado a atuar como árbitro; mas se o encargo tiver sido aceite, só é legítima a escusa fundada em causa superveniente que impossibilite o designado de exercer tal função.\n\n2 - Cada árbitro designado deve, no prazo de três dias a contar da comunicação da sua designação, declarar por escrito a aceitação do encargo a quem o designou; se em tal prazo não declarar a sua aceitação nem por outra forma revelar a intenção de agir como árbitro, entende-se que não aceita a designação.\n\n3 - O árbitro que, tendo aceitado o encargo, se escusar injustificadamente ao exercício da sua função responde pelos danos a que der causa."
+  },
+  "58891060": {
+   "fragment_id": "58891157",
+   "type": 11,
+   "heading": "Artigo 24.º — Incompatibilidade com o exercício da advocacia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Incompatibilidade com o exercício da advocacia\n\nA integração na lista de árbitros do TAD implica a incompatibilidade com o exercício da advocacia no mesmo tribunal."
+  },
+  "58891061": {
+   "fragment_id": "58891158",
+   "type": 11,
+   "heading": "Artigo 25.º — Fundamentos de recusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Fundamentos de recusa\n\n1 - Nenhum árbitro pode exercer as suas funções quando tiver qualquer interesse, direto ou indireto, pessoal ou económico, nos resultados do litígio, sendo-lhe aplicável, com as devidas adaptações, o regime de impedimentos e suspeições próprio dos magistrados judiciais.\n\n2 - São designadamente motivos específicos de impedimento dos árbitros do TAD:\n\na) Ter intervindo, em qualquer qualidade, na questão em litígio;\n\nb) Deter vínculo profissional ou de outra natureza com qualquer das partes no litígio.\n\n3 - Quem for designado para exercer funções de árbitro deve revelar todas as circunstâncias que possam suscitar fundadas dúvidas sobre a sua independência e imparcialidade.\n\n4 - O árbitro deve, durante todo o processo arbitral, revelar, sem demora, às partes e aos demais árbitros as circunstâncias referidas no número anterior que sejam supervenientes ou de que só tenha tomado conhecimento depois de aceitar o encargo.\n\n5 - Um árbitro só pode ser recusado se existirem circunstâncias que possam suscitar fundadas dúvidas sobre a sua imparcialidade ou independência, sendo que uma parte só pode recusar um árbitro que haja designado ou em cuja designação haja participado com fundamento numa causa de que só tenha tido conhecimento após essa designação."
+  },
+  "58891062": {
+   "fragment_id": "58891159",
+   "type": 11,
+   "heading": "Artigo 26.º — Processo de recusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Processo de recusa\n\n1 - A parte que pretenda recusar um árbitro deve expor por escrito os motivos da recusa ao presidente do TAD, no prazo de três dias a contar da data em que teve conhecimento da constituição do colégio arbitral ou da data em que teve conhecimento das circunstâncias referidas no artigo anterior.\n\n2 - Se o árbitro recusado não renunciar à função que lhe foi confiada e a parte que o designou insistir em mantê-lo, o presidente do TAD no prazo máximo de cinco dias, mediante ponderação das provas apresentadas, sendo sempre garantida a audição do árbitro, quando a invocação da causa do incidente não tenha sido da sua iniciativa, e ouvida a parte contrária, quando deduzido por uma das partes, decide sobre a recusa.\n\n3 - A decisão do presidente do TAD prevista no número anterior é insuscetível de recurso."
+  },
+  "58891063": {
+   "fragment_id": "58891160",
+   "type": 11,
+   "heading": "Artigo 27.º — Incapacitação ou inação de um árbitro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Incapacitação ou inação de um árbitro\n\n1 - Cessam as funções do árbitro que fique incapacitado, de direito ou de facto, para exercê-las, se o mesmo a elas renunciar ou as partes de comum acordo lhes puserem termo com esse fundamento.\n\n2 - Se um árbitro, por qualquer outra razão, não se desincumbir, em tempo razoável, das funções que lhe foram cometidas, as partes podem, de comum acordo, fazê-las cessar, sem prejuízo da eventual responsabilidade do árbitro em causa.\n\n3 - No caso de as partes não chegarem a acordo quanto ao afastamento do árbitro afetado por uma das situações referidas nos números anteriores, qualquer das partes pode requerer ao presidente do TAD que, com fundamento na situação em causa, o destitua, sendo esta decisão insuscetível de recurso.\n\n4 - Se, nos termos dos números anteriores ou do n.º 1 do artigo anterior, um árbitro renunciar à sua função ou as partes aceitarem que cesse a função de um árbitro que alegadamente se encontre numa das situações aí previstas, tal não implica o reconhecimento da procedência dos motivos de destituição mencionados nas disposições acima referidas."
+  },
+  "58891064": {
+   "fragment_id": "58891161",
+   "type": 8,
+   "heading": "Secção III — Designação dos árbitros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Designação dos árbitros"
+  },
+  "58891065": {
+   "fragment_id": "58891162",
+   "type": 11,
+   "heading": "Artigo 28.º — Designação dos árbitros no âmbito da arbitragem necessária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Designação dos árbitros no âmbito da arbitragem necessária\n\n1 - Sem prejuízo do disposto no n.º 8, a jurisdição do TAD, no âmbito da sua competência arbitral necessária, é exercida por um colégio de três árbitros, de entre os constantes da lista do Tribunal.\n\n2 - Cada parte designa um árbitro e os árbitros assim designados devem escolher outro, que atua como presidente do colégio de árbitros.\n\n3 - Se uma parte não designar o árbitro ou se os árbitros designados pelas partes não acordarem na escolha do árbitro presidente, a designação do árbitro em falta é feita, a pedido de qualquer das partes, pelo presidente do Tribunal Central Administrativo do Sul.\n\n4 - Em caso de pluralidade de demandantes ou de demandados, os primeiros designam conjuntamente um árbitro e os segundos designam conjuntamente outro.\n\n5 - Se os demandantes ou os demandados não chegarem a acordo sobre o árbitro que lhes cabe designar, cabe ao presidente do Tribunal Central Administrativo do Sul, a pedido de qualquer das partes, fazer a designação do árbitro em falta.\n\n6 - No caso previsto no número anterior, pode o presidente do Tribunal Central Administrativo do Sul, caso se demonstre que as partes que não conseguiram nomear conjuntamente um árbitro têm interesses conflituantes relativamente ao fundo da causa, nomear a totalidade dos árbitros e designar de entre eles quem é o presidente, ficando nesse caso sem efeito a designação do árbitro que uma das partes tiver entretanto efetuado.\n\n7 - Das decisões proferidas pelo presidente do Tribunal Central Administrativo do Sul ao abrigo dos números anteriores não cabe recurso.\n\n8 - No caso de serem indicados contrainteressados, estes designam conjuntamente um árbitro, aplicando-se, com as devidas adaptações, o disposto no n.º 5 do presente artigo."
+  },
+  "58891066": {
+   "fragment_id": "58891163",
+   "type": 11,
+   "heading": "Artigo 29.º — Designação dos árbitros no âmbito da arbitragem voluntária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Designação dos árbitros no âmbito da arbitragem voluntária\n\n1 - No âmbito da sua competência arbitral voluntária, a jurisdição do TAD é exercida por um árbitro único ou por um colégio de três árbitros, de entre os constantes da lista do Tribunal.\n\n2 - Salvo quando diversamente determinado pela cláusula ou compromisso arbitral, intervém um colégio de três árbitros.\n\n3 - O árbitro único é designado por acordo das partes e, na falta de acordo, consoante a natureza do litígio, pelo presidente do Tribunal Central Administrativo do Sul ou pelo presidente do Tribunal da Relação de Lisboa.\n\n4 - Intervindo um colégio de três árbitros, cada parte designa um árbitro e os árbitros assim designados devem escolher outro, que atua como presidente do colégio de árbitros.\n\n5 - Se uma parte não designar o árbitro ou se os árbitros designados pelas partes não acordarem na escolha do árbitro presidente, a designação do árbitro em falta é feita, a pedido de qualquer das partes, consoante a natureza do litígio, pelo presidente do Tribunal Central Administrativo do Sul ou pelo presidente do Tribunal da Relação de Lisboa.\n\n6 - Em caso de pluralidade de demandantes ou de demandados, os primeiros designam conjuntamente um árbitro e os segundos designam conjuntamente outro.\n\n7 - Se os demandantes ou os demandados não chegarem a acordo sobre o árbitro que lhes cabe designar, o presidente do Tribunal Central Administrativo do Sul ou o presidente do Tribunal da Relação de Lisboa pode, consoante a natureza do litígio, a pedido de qualquer das partes, fazer a designação do árbitro em falta.\n\n8 - No caso previsto no número anterior, pode o presidente do TAD, se se demonstrar que as partes que não conseguiram nomear conjuntamente um árbitro têm interesses conflituantes relativamente ao fundo da causa, o presidente do Tribunal Central Administrativo do Sul ou o presidente do Tribunal da Relação de Lisboa pode, consoante a natureza do litígio, nomear a totalidade dos árbitros e designar de entre eles quem é o presidente, ficando nesse caso sem efeito a designação do árbitro que uma das partes tiver entretanto efetuado.\n\n9 - Das decisões proferidas pelo presidente do Tribunal Central Administrativo do Sul ou pelo presidente do Tribunal da Relação de Lisboa ao abrigo dos números anteriores não cabe recurso."
+  },
+  "58891067": {
+   "fragment_id": "58891164",
+   "type": 11,
+   "heading": "Artigo 30.º — Designação dos árbitros no âmbito da câmara de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Designação dos árbitros no âmbito da câmara de recurso\n\nÀ designação dos árbitros no âmbito da câmara de recurso aplica-se, com as devidas adaptações, o disposto no artigo 28.º, não podendo fazer parte desta câmara, no âmbito do mesmo processo, qualquer elemento que tenha integrado o colégio arbitral em primeira instância."
+  },
+  "58891068": {
+   "fragment_id": "58891165",
+   "type": 11,
+   "heading": "Artigo 31.º — Nomeação de um árbitro substituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Nomeação de um árbitro substituto\n\n1 - Em todos os casos em que, por qualquer razão, cessem as funções de um árbitro, é nomeado um árbitro substituto, de acordo com as regras aplicadas à designação do árbitro substituído.\n\n2 - Quando haja lugar à substituição de árbitro, consoante a natureza do litígio, o presidente do Tribunal Central Administrativo do Sul ou o presidente do Tribunal da Relação de Lisboa decide, ouvidas as partes e os árbitros, se e em que medida os atos processuais já realizados e os que eventualmente venham a realizar-se na pendência da substituição, por motivos de celeridade do procedimento, devem ser aproveitados."
+  },
+  "58891069": {
+   "fragment_id": "58891166",
+   "type": 1,
+   "heading": "Capítulo III — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Serviços"
+  },
+  "58891070": {
+   "fragment_id": "58891167",
+   "type": 11,
+   "heading": "Artigo 32.º — Serviço de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Serviço de mediação\n\nJunto do TAD funciona um serviço de mediação."
+  },
+  "58891071": {
+   "fragment_id": "58891168",
+   "type": 11,
+   "heading": "Artigo 33.º — Serviço de consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Serviço de consulta\n\n1 - O TAD disponibiliza um serviço de consulta, o qual fica responsável pela emissão de pareceres não vinculativos respeitantes a questões jurídicas relacionadas com o desporto, a requerimento dos órgãos da administração pública do desporto, do Comité Olímpico de Portugal, do Comité Paralímpico de Portugal, das federações desportivas dotadas do estatuto de utilidade pública desportiva, das ligas profissionais e da Autoridade Antidopagem de Portugal, mediante o pagamento da taxa de consulta estabelecida no regulamento de custas.\n\n2 - Quando for requerida a emissão de parecer nos termos do número anterior, o presidente do TAD decide se a matéria em questão deve ser objeto de parecer e, em caso afirmativo, designa para a sua emissão um árbitro único ou um colégio de três árbitros da lista de árbitros estabelecida nos termos do artigo 21.º, designa o respetivo árbitro presidente e formula discricionariamente as questões que devem ser apreciadas.\n\n3 - Antes da emissão do parecer, podem ser solicitadas ao requerente informações adicionais por parte do árbitro único ou do árbitro presidente.\n\n4 - O TAD publicita na sua página na Internet o parecer emitido ou um sumário do mesmo, salvo se a entidade que o tiver requerido a isso se opuser por escrito e de forma fundamentada, cabendo ao presidente do TAD a decisão sobre a publicação."
+  },
+  "58891072": {
+   "fragment_id": "58891169",
+   "type": 13,
+   "heading": "Título II — Processo arbitral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Processo arbitral"
+  },
+  "58891073": {
+   "fragment_id": "58891170",
+   "type": 1,
+   "heading": "Capítulo I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições comuns"
+  },
+  "58891074": {
+   "fragment_id": "58891171",
+   "type": 11,
+   "heading": "Artigo 34.º — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Princípios fundamentais\n\nConstituem princípios fundamentais do processo junto do TAD:\n\na) As partes são tratadas com igualdade;\n\nb) O demandado é citado para se defender;\n\nc) Em todas as fases do processo, é garantida a estrita observância do princípio do contraditório;\n\nd) As partes devem ser ouvidas, oralmente ou por escrito, antes de ser proferida decisão final;\n\ne) As partes devem agir de boa-fé e observar os adequados deveres de cooperação;\n\nf) As decisões são publicitadas, nos termos previstos na presente lei."
+  },
+  "58889675": {
+   "fragment_id": "58891172",
+   "type": 11,
+   "heading": "Artigo 35.º — Idioma a usar no processo arbitral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Idioma a usar no processo arbitral\n\n1 - Sem prejuízo do disposto no número seguinte, em todos os processos a decorrer no TAD é usada a língua portuguesa.\n\n2 - Os árbitros podem, ouvidas as partes, aceitar depoimentos e documentos em língua estrangeira, competindo-lhes decidir se é ou não necessária a respetiva tradução."
+  },
+  "58889676": {
+   "fragment_id": "58891173",
+   "type": 11,
+   "heading": "Artigo 36.º — Da constituição do colégio arbitral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Da constituição do colégio arbitral\n\nO colégio arbitral considera-se constituído com a aceitação do encargo por todos os árbitros que o compõem."
+  },
+  "58889677": {
+   "fragment_id": "58891174",
+   "type": 11,
+   "heading": "Artigo 37.º — Representação das partes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Representação das partes\n\nJunto do TAD, as partes devem fazer-se representar por advogado."
+  },
+  "58889678": {
+   "fragment_id": "58889775",
+   "type": 11,
+   "heading": "Artigo 38.º — Citações e notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Citações e notificações\n\n1 - As citações e as notificações são efetuadas pelo secretariado do TAD para a morada constante do requerimento inicial ou da contestação.\n\n2 - As citações e as notificações são efetuadas por qualquer meio que proporcione prova da receção, preferencialmente por carta registada ou entregue por protocolo."
+  },
+  "58889679": {
+   "fragment_id": "58889776",
+   "type": 11,
+   "heading": "Artigo 39.º — Contagem de prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Contagem de prazos\n\n1 - Todos os prazos fixados nesta lei são contínuos, não se suspendendo aos sábados, domingos e feriados, nem em férias judiciais.\n\n2 - A contagem do prazo inicia-se no dia útil seguinte àquele em que se considere recebida a citação ou a notificação, por qualquer dos meios previstos no artigo anterior.\n\n3 - Na falta de disposição especial ou de determinação do TAD, o prazo para a prática de qualquer ato é de cinco dias.\n\n4 - Quando o prazo para a prática do ato processual terminar em dia em que o tribunal estiver encerrado, transfere-se o seu termo para o primeiro dia em que o tribunal estiver aberto."
+  },
+  "58889680": {
+   "fragment_id": "58889777",
+   "type": 11,
+   "heading": "Artigo 40.º — Redução dos prazos do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Redução dos prazos do processo\n\n1 - As partes podem acordar na redução dos prazos fixados nesta lei.\n\n2 - Caso o acordo tenha lugar depois de constituído o colégio arbitral, só produz efeitos com o acordo dos árbitros.\n\n3 - Em circunstâncias especiais e fundamentadas, o presidente do TAD pode reduzir os prazos e procedimentos estabelecidos nesta lei, depois de ouvidas as partes e o colégio arbitral, se entretanto tiver sido constituído."
+  },
+  "58889681": {
+   "fragment_id": "58889778",
+   "type": 11,
+   "heading": "Artigo 41.º — Procedimento cautelar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Procedimento cautelar\n\n1 - O TAD pode decretar providências cautelares adequadas à garantia da efetividade do direito ameaçado, quando se mostre fundado receio de lesão grave e de difícil reparação, ficando o respetivo procedimento cautelar sujeito ao regime previsto no presente artigo.\n\n2 - No âmbito da arbitragem necessária, a competência para decretar as providências cautelares referidas no número anterior pertence em exclusivo ao TAD.\n\n3 - No âmbito da arbitragem voluntária, o recurso ao TAD obsta a que as partes possam obter providências cautelares para o mesmo efeito noutra jurisdição.\n\n4 - As providências cautelares são requeridas juntamente com o requerimento inicial de arbitragem ou com a defesa.\n\n5 - A parte requerida é ouvida dispondo, para se pronunciar, de um prazo de cinco dias quando a audição não puser em risco sério o fim ou a eficácia da medida cautelar pretendida.\n\n6 - O procedimento cautelar é urgente, devendo ser decidido no prazo máximo de cinco dias, após a receção do requerimento ou após a dedução da oposição ou a realização da audiência, se houver lugar a uma ou outra.\n\n7 - Consoante a natureza do litígio, cabe ao presidente do Tribunal Central Administrativo do Sul ou ao presidente do Tribunal da Relação de Lisboa a decisão sobre o pedido de aplicação de medidas provisórias e cautelares, se o processo não tiver ainda sido distribuído ou se o colégio arbitral ainda não estiver constituído.\n\n8 - O deferimento de providência cautelar pode ficar sujeito à prestação de garantia, por parte do requerente, que se mostre suficiente para prevenir a lesão ou repará-la integralmente.\n\n9 - Ao procedimento cautelar previsto no presente artigo são aplicáveis, com as necessárias adaptações, os preceitos legais relativos ao procedimento cautelar comum, constantes do Código de Processo Civil."
+  },
+  "58889682": {
+   "fragment_id": "58889779",
+   "type": 11,
+   "heading": "Artigo 42.º — Forma de apresentação das peças processuais e dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Forma de apresentação das peças processuais e dos documentos\n\n1 - As peças processuais são, em regra, apresentadas por via eletrónica, através da página do TAD na Internet.\n\n2 - Quando não for possível o envio por meios eletrónicos nem a sua apresentação sob forma digitalizada, todas as peças processuais, bem como os documentos que os acompanhem, são apresentados em suporte de papel, devendo o original, destinado aos autos, ser acompanhado de tantas cópias quantas as contrapartes intervenientes no processo, acrescidas de uma cópia para cada um dos árbitros."
+  },
+  "58889683": {
+   "fragment_id": "58889780",
+   "type": 11,
+   "heading": "Artigo 43.º — Meios de prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Meios de prova\n\n1 - Pode ser produzida perante o TAD qualquer prova admitida em direito, sendo da responsabilidade das partes a respetiva produção ou apresentação, incluindo a prova testemunhal e pericial.\n\n2 - Os articulados devem ser acompanhados de todos os documentos probatórios dos factos alegados e bem assim da indicação dos restantes meios de prova que as partes se proponham produzir.\n\n3 - As testemunhas são apresentadas em julgamento pelas partes, podendo, no entanto, o colégio arbitral determinar a sua inquirição em data e local diferentes.\n\n4 - Mediante requerimento devidamente fundamentado de qualquer das partes, pode o colégio arbitral fixar um prazo até cinco dias, para que as partes completem a indicação dos seus meios de prova.\n\n5 - O colégio arbitral pode, por sua iniciativa ou a requerimento de uma ou de ambas as partes:\n\na) Recolher o depoimento pessoal das partes;\n\nb) Ouvir terceiros;\n\nc) Promover a entrega de documentos em poder das partes ou de terceiros;\n\nd) Proceder a exames ou verificações diretas.\n\n6 - O colégio arbitral procede à instrução no mais curto prazo possível, podendo recusar diligências que as partes lhe requeiram se entender não serem relevantes para a decisão ou serem manifestamente dilatórias.\n\n7 - Quando solicitado por qualquer das partes, pode o colégio arbitral disponibilizar uma lista de peritos, constituída por pessoas de reconhecida idoneidade e mérito nas matérias da sua competência, sendo a respetiva designação e remuneração da exclusiva responsabilidade da parte interessada."
+  },
+  "58889684": {
+   "fragment_id": "58889781",
+   "type": 11,
+   "heading": "Artigo 44.º — Deliberação do colégio arbitral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Deliberação do colégio arbitral\n\n1 - A decisão arbitral é tomada por maioria de votos, em deliberação em que todos os árbitros devem participar.\n\n2 - No caso de não se formar maioria, a decisão cabe ao árbitro presidente."
+  },
+  "58889685": {
+   "fragment_id": "58889782",
+   "type": 11,
+   "heading": "Artigo 45.º — Responsabilidade dos árbitros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Responsabilidade dos árbitros\n\nOs árbitros que obstem a que a decisão seja proferida dentro do prazo previsto no n.º 1 do artigo 58.º respondem pelos danos causados."
+  },
+  "58889686": {
+   "fragment_id": "58889783",
+   "type": 11,
+   "heading": "Artigo 46.º — Decisão arbitral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Decisão arbitral\n\nA decisão final do colégio arbitral é reduzida a escrito e dela constam:\n\na) A identificação das partes e, caso existam, dos contrainteressados;\n\nb) A referência à competência do TAD;\n\nc) A identificação dos árbitros e a indicação da forma como foram designados;\n\nd) A menção do objeto do litígio;\n\ne) A fundamentação de facto e de direito;\n\nf) O lugar da arbitragem, o local e a data em que a decisão for proferida;\n\ng) A assinatura do árbitro presidente ou do árbitro único;\n\nh) A fixação do montante das custas finais do processo arbitral e a eventual repartição pelas partes."
+  },
+  "58889687": {
+   "fragment_id": "58889784",
+   "type": 11,
+   "heading": "Artigo 47.º — Interpretação e correção da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Interpretação e correção da decisão\n\n1 - Qualquer das partes pode requerer ao colégio arbitral, no prazo de três dias após a respetiva notificação:\n\na) A retificação de erros materiais contidos na decisão;\n\nb) A nulidade da decisão por não conter alguns dos elementos referidos no artigo anterior ou por existir oposição entre os fundamentos e a decisão;\n\nc) O esclarecimento de alguma obscuridade ou ambiguidade da decisão ou dos seus fundamentos.\n\n2 - Apresentado o requerimento, o árbitro presidente ou o árbitro único mandam ouvir a contraparte e, sendo o caso, os contrainteressados, para se pronunciarem no prazo de três dias, após o que o colégio arbitral decide no prazo de cinco dias."
+  },
+  "58889688": {
+   "fragment_id": "58889785",
+   "type": 11,
+   "heading": "Artigo 48.º — Impugnação da decisão arbitral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Impugnação da decisão arbitral\n\nA ação para impugnação da decisão arbitral, ao abrigo e nos termos do disposto no n.º 4 do artigo 8.º, deve ser intentada no prazo de 15 dias a contar da notificação da mesma decisão, ou da que venha a ser proferida nos termos do artigo anterior."
+  },
+  "58889689": {
+   "fragment_id": "58889786",
+   "type": 11,
+   "heading": "Artigo 49.º — Caso julgado e força executiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Caso julgado e força executiva\n\n1 - A decisão arbitral, notificada às partes, considera-se transitada em julgado logo que não seja suscetível de recurso ou impugnação.\n\n2 - A decisão arbitral tem, nos termos da lei, a mesma força executiva que uma sentença judicial."
+  },
+  "58889690": {
+   "fragment_id": "58889787",
+   "type": 11,
+   "heading": "Artigo 50.º — Depósito da decisão, arquivo e publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Depósito da decisão, arquivo e publicitação\n\n1 - O original da decisão arbitral é depositado no secretariado do TAD, não havendo lugar a qualquer outro depósito da mesma.\n\n2 - O secretariado organiza e mantém o arquivo dos processos que correrem termos junto do TAD.\n\n3 - O TAD publicita na sua página na Internet a decisão arbitral, um sumário da mesma e ou um comunicado de imprensa a descrever os resultados do processo, salvo se qualquer das partes a isso se opuser."
+  },
+  "58889691": {
+   "fragment_id": "58889788",
+   "type": 11,
+   "heading": "Artigo 51.º — Comunicação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Comunicação da decisão\n\n1 - Sempre que seja recusada a aplicação de uma norma, por inconstitucionalidade ou ilegalidade, constante de convenção internacional, ato legislativo ou decreto regulamentar, o secretariado do TAD deve comunicar a decisão à Procuradoria-Geral da República, para os efeitos previstos no n.º 1 do artigo 70.º da Lei n.º 28/82, de 15 de novembro.\n\n2 - O disposto no número anterior é igualmente aplicável sempre que seja aplicada norma já anteriormente julgada inconstitucional ou ilegal pelo próprio Tribunal Constitucional, seja aplicada norma já anteriormente julgada inconstitucional pela Comissão Constitucional, nos precisos termos em que seja requerido a sua apreciação ao Tribunal Constitucional ou seja recusada a aplicação de norma constante de ato legislativo, com fundamento na sua contrariedade com uma convenção internacional, ou aquela seja aplicada em desconformidade com o anteriormente decidido sobre a que questão pelo Tribunal Constitucional."
+  },
+  "58889692": {
+   "fragment_id": "58889789",
+   "type": 1,
+   "heading": "Capítulo II — Processo de jurisdição arbitral necessária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Processo de jurisdição arbitral necessária"
+  },
+  "58889693": {
+   "fragment_id": "58889790",
+   "type": 11,
+   "heading": "Artigo 52.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Legitimidade\n\n1 - Tem legitimidade para intervir como parte em processo arbitral necessário no TAD quem for titular de um interesse direto em demandar ou contradizer.\n\n2 - Quando a ação arbitral seja instaurada em via de recurso da decisão de um órgão jurisdicional federativo ou da decisão final de outra entidade desportiva referida no n.º 1 do artigo 4.º, tem igualmente legitimidade para a sua interposição o órgão federativo, ou outra entidade desportiva referida na mesma disposição, que haja ficado vencido."
+  },
+  "58889694": {
+   "fragment_id": "58889791",
+   "type": 11,
+   "heading": "Artigo 53.º — Efeito da ação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Efeito da ação\n\n1 - Quando a ação arbitral seja instaurada em via de recurso da decisão de um órgão jurisdicional federativo ou da decisão final de outra entidade desportiva referida no n.º 1 do artigo 4.º, a sua instauração não tem efeito suspensivo da decisão recorrida, sem prejuízo do disposto no artigo 41.º\n\n2 - No caso previsto no artigo 5.º, a instauração da correspondente ação de impugnação tem efeito suspensivo da decisão punitiva impugnada."
+  },
+  "58889695": {
+   "fragment_id": "58889792",
+   "type": 11,
+   "heading": "Artigo 54.º — Início do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Início do processo\n\n1 - A instância constitui-se com a apresentação do requerimento inicial e este considera-se apresentado com a receção do mesmo no secretariado do TAD ou com a remessa do processo, nos casos em que esta se encontra prevista na lei processual civil.\n\n2 - Quando tenha por objeto a impugnação de um ato ou o recurso de uma decisão jurisdicional federativa ou da decisão final de outra entidade desportiva referida no n.º 1 do artigo 4.º, o prazo para a apresentação do requerimento inicial junto do TAD é de 10 dias, contados da notificação desse ato ou dessa decisão pelo requerente.\n\n3 - O requerimento inicial deve conter, nomeadamente:\n\na) A identificação do requerente e do demandado e dos eventuais contrainteressados, bem como a indicação das respetivas moradas;\n\nb) A indicação da morada em que o requerente deve ser notificado;\n\nc) A exposição dos factos e das razões de direito que servem de fundamento ao pedido, bem como a apresentação sintética, mas precisa, das pretensões;\n\nd) A referência aos meios de prova apresentados ou a apresentar;\n\ne) A indicação do valor da causa;\n\nf) A designação do árbitro.\n\n4 - O requerimento deve ser acompanhado do pagamento da taxa de arbitragem, sob pena de não ser admitido, se a omissão não for suprida no prazo de três dias.\n\n5 - O requerimento inicial que não contenha os elementos mencionados no n.º 3 será indeferido, se o requerente, depois de convidado a suprir a falta, o não fizer no prazo que lhe for fixado para o efeito."
+  },
+  "58889696": {
+   "fragment_id": "58889793",
+   "type": 11,
+   "heading": "Artigo 55.º — Contestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Contestação\n\n1 - Recebido o requerimento, é citado o demandado para, em 10 dias, contestar e apresentar provas, não havendo lugar a pedido reconvencional.\n\n2 - A contestação deve conter, nomeadamente:\n\na) A identificação completa e a morada em que deve ser notificado;\n\nb) A exposição das razões de facto e de direito por que se opõe à pretensão do requerente;\n\nc) Os elementos probatórios dos factos alegados;\n\nd) A indicação dos eventuais contrainteressados;\n\ne) A designação do árbitro.\n\n3 - Com a contestação deve o demandado promover o pagamento da taxa de arbitragem, sob pena de aquela ter-se por não apresentada.\n\n4 - A falta de apresentação de contestação não tem efeito cominatório, devendo o Tribunal decidir com base nos elementos constantes do processo."
+  },
+  "58889697": {
+   "fragment_id": "58889794",
+   "type": 11,
+   "heading": "Artigo 56.º — Formalidades subsequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Formalidades subsequentes\n\n1 - Recebida a contestação é citado o demandante o qual pode, querendo, responder, no prazo de 10 dias, apenas à matéria de exceção.\n\n2 - São ainda citados os eventuais contrainteressados para designarem árbitro e, querendo, pronunciarem-se sobre o que tiverem por conveniente, no prazo de 10 dias, devendo ser-lhes dado a conhecer o requerimento inicial, a contestação e os documentos que os acompanhem.\n\n3 - Com a pronúncia, o contrainteressado procede ao pagamento da taxa de arbitragem, sob pena de aquela não ser admitida.\n\n4 - A falta de pronúncia dos contrainteressados não tem efeito cominatório, devendo o Tribunal decidir com base nos elementos constantes do processo."
+  },
+  "58889698": {
+   "fragment_id": "58889795",
+   "type": 11,
+   "heading": "Artigo 57.º — Instrução, alegações, junção de pareceres e encerramento do debate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Instrução, alegações, junção de pareceres e encerramento do debate\n\n1 - Apresentadas as peças processuais são as partes notificadas para comparecerem no TAD a fim de se proceder à instrução do processo e serem produzidas as alegações.\n\n2 - A instrução do processo tem por objeto os factos relevantes para o exame e decisão da causa.\n\n3 - Finda a produção de prova são as partes convidadas a apresentarem as alegações orais, sem prejuízo do disposto no número seguinte.\n\n4 - Se as partes acordarem na apresentação de alegações escritas devem as mesmas, no prazo de 10 dias, proceder à respetiva apresentação.\n\n5 - Até à apresentação das alegações as partes podem juntar pareceres.\n\n6 - Decorridos os atos previstos nos números anteriores e efetuadas quaisquer diligências que sejam determinadas pelo colégio arbitral, este declara encerrado o debate."
+  },
+  "58889699": {
+   "fragment_id": "58889796",
+   "type": 11,
+   "heading": "Artigo 58.º — Prazos para a decisão e sua notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Prazos para a decisão e sua notificação\n\n1 - A decisão final é proferida, salvo prazo diferente acordado pelas partes, no prazo de 15 dias a contar da data do encerramento do debate, devendo este ser conjunto, de facto e de direito.\n\n2 - O árbitro presidente do colégio tem voto de qualidade.\n\n3 - O presidente do TAD, a pedido fundamentado do colégio arbitral e depois de ouvidas as partes, pode prorrogar o prazo previsto no n.º 1.\n\n4 - Nos casos em que se revele uma especial urgência na decisão, e após o encerramento do debate, o colégio arbitral pode proferir e comunicar a parte dispositiva da sua decisão, devendo a fundamentação da mesma ser comunicada no prazo limite estabelecido no n.º 1, sendo que, neste caso, a decisão produzirá os seus efeitos na data da comunicação às partes, mas o prazo para eventual recurso ou impugnação só começa a contar da data da comunicação da fundamentação.\n\n5 - Proferida a decisão, as partes são, de imediato, dela notificadas, através de remessa da respetiva cópia pelo secretariado do TAD."
+  },
+  "58889700": {
+   "fragment_id": "58889797",
+   "type": 11,
+   "heading": "Artigo 59.º — Recurso para a câmara de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Recurso para a câmara de recurso\n\n1 - O recurso previsto no n.º 1 do artigo 8.º, deve ser interposto no prazo de 10 dias, acompanhado da respetiva alegação.\n\n2 - Recebido o recurso, será o mesmo submetido de imediato ao presidente do TAD, para que se pronuncie, no prazo de três dias, sobre a sua admissibilidade e seguimento, bem como sobre o efeito que deverá ser-lhe atribuído.\n\n3 - Da decisão do presidente do TAD que não admita ou não dê seguimento ao recurso, bem como da que fixe o efeito do recurso, cabe reclamação, a apresentar no prazo de três dias, para uma conferência de três juízes da câmara de recurso designados por sorteio, a qual deverá decidir a reclamação igualmente no prazo de três dias.\n\n4 - Se o recurso for admitido e dever seguir, o presidente do TAD promoverá a designação, no prazo de três dias e por sorteio, de um relator, que não haja integrado a conferência referida no número anterior, e ordenará a notificação do recorrido ou recorridos para alegarem no prazo de 10 dias.\n\n5 - Junta a alegação ou alegações do recorrido ou recorridos, ou findo o prazo referido no número anterior, o recurso deverá ser decidido no prazo de 15 dias."
+  },
+  "58889701": {
+   "fragment_id": "58889798",
+   "type": 1,
+   "heading": "Capítulo III — Processo de jurisdição arbitral voluntária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Processo de jurisdição arbitral voluntária"
+  },
+  "58889702": {
+   "fragment_id": "58889799",
+   "type": 11,
+   "heading": "Artigo 60.º — Regulamento processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Regulamento processual\n\nPara além do disposto na presente lei, e observados os seus princípios, bem como os da LAV que os não contrariem, as regras de processo aplicáveis aos processos de arbitragem voluntária no TAD são definidas em regulamento de processo aprovado pelo Conselho de Arbitragem Desportiva."
+  },
+  "58889703": {
+   "fragment_id": "58889800",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "58889704": {
+   "fragment_id": "58889801",
+   "type": 11,
+   "heading": "Artigo 61.º — Normas subsidiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Normas subsidiárias\n\nEm tudo o que não esteja previsto neste título e não contrarie os princípios desta lei, aplicam-se subsidiariamente, com as necessárias adaptações, as regras previstas no Código de Processo nos Tribunais Administrativos, nos processos de jurisdição arbitral necessária, e a LAV, nos processos de jurisdição arbitral voluntária."
+  },
+  "58889705": {
+   "fragment_id": "58889802",
+   "type": 11,
+   "heading": "Artigo 62.º — Acesso ao direito e aos tribunais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Acesso ao direito e aos tribunais\n\nAo processo de arbitragem necessária é aplicável, com as devidas adaptações, o regime de acesso ao direito e aos tribunais."
+  },
+  "58889706": {
+   "fragment_id": "58889803",
+   "type": 13,
+   "heading": "Título III — Processo de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Processo de mediação"
+  },
+  "58889707": {
+   "fragment_id": "58889804",
+   "type": 11,
+   "heading": "Artigo 63.º — Natureza da mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Natureza da mediação\n\nA mediação no âmbito do TAD constitui um processo voluntário e informal de resolução de litígios ligados ao desporto, baseado numa convenção de mediação e desenvolvido sob a direção de um mediador do TAD."
+  },
+  "58889708": {
+   "fragment_id": "58889805",
+   "type": 11,
+   "heading": "Artigo 64.º — Convenção de mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Convenção de mediação\n\nA convenção de mediação é um acordo entre as partes, em que estas aceitam submeter à mediação qualquer litígio ligado ao desporto, já existente, ou que possa vir a surgir entre si, através de cláusula expressa inserida num contrato ou sob a forma de documento autónomo."
+  },
+  "58889709": {
+   "fragment_id": "58889806",
+   "type": 11,
+   "heading": "Artigo 65.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Âmbito de aplicação\n\nA mediação não é aplicável à resolução de litígios sujeitos à autoridade dos órgãos disciplinares desportivos, nem a litígios relativos a matérias disciplinares, dopagem ou violência associada ao desporto."
+  },
+  "58889710": {
+   "fragment_id": "58889807",
+   "type": 11,
+   "heading": "Artigo 66.º — Regras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Regras\n\nA convenção de mediação pode estabelecer as regras do processo a adotar ou remeter para o regulamento de mediação do TAD."
+  },
+  "58889711": {
+   "fragment_id": "58889808",
+   "type": 11,
+   "heading": "Artigo 67.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Requerimento\n\n1 - A iniciativa do processo de mediação cabe a qualquer das partes interessadas na resolução do litígio, através de requerimento dirigido ao presidente do TAD, com cópia para a outra parte.\n\n2 - O requerimento de mediação deve conter a identificação das partes e dos seus representantes, uma cópia da convenção ou cláusula de mediação, quando exista, e uma breve descrição do objeto do litígio.\n\n3 - Em simultâneo com a entrega do requerimento de mediação deve ser paga a taxa de mediação estabelecida no regulamento de custas.\n\n4 - O secretariado do TAD comunica à outra parte a data de início do processo de mediação e o prazo fixado para o pagamento da taxa de mediação."
+  },
+  "58889712": {
+   "fragment_id": "58889809",
+   "type": 11,
+   "heading": "Artigo 68.º — Nomeação de mediador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Nomeação de mediador\n\n1 - Recebido o requerimento de mediação, o secretariado do TAD comunica a ambas as partes a lista de mediadores.\n\n2 - As partes dispõem do prazo de 15 dias para escolherem de comum acordo o mediador, o qual, na falta de acordo, é designado pelo presidente do TAD.\n\n3 - O mediador escolhido, ou nomeado, deve declarar a sua independência relativamente às partes em litígio e revelar quaisquer circunstâncias suscetíveis de comprometer a sua independência, sendo as partes informadas pelo secretariado do TAD."
+  },
+  "58889713": {
+   "fragment_id": "58889810",
+   "type": 11,
+   "heading": "Artigo 69.º — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Representação\n\n1 - As partes podem fazer-se representar por terceiros com poderes para tomar decisões sobre o objeto do litígio ou serem assistidas por conselheiros ou peritos nas suas reuniões com o mediador.\n\n2 - A parte representada deve informar antecipadamente a outra parte e o secretariado do TAD da identidade do seu representante."
+  },
+  "58889714": {
+   "fragment_id": "58889811",
+   "type": 11,
+   "heading": "Artigo 70.º — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Processo\n\n1 - O processo de mediação decorre segundo as regras definidas pelas partes ou, na falta de acordo, conforme for decidido pelo mediador.\n\n2 - O mediador fixa a forma e os prazos em que cada parte submete ao mediador e à outra parte um resumo do litígio contendo os elementos seguintes:\n\na) Uma breve descrição dos factos e das regras de direito aplicáveis ao litígio;\n\nb) Uma súmula das questões submetidas ao mediador tendo em vista a solução do litígio;\n\nc) Uma cópia da convenção, ou cláusula, de mediação.\n\n3 - Ambas as partes estão obrigadas ao dever de cooperação com o mediador e a assegurar-lhe as condições indispensáveis ao livre cumprimento do seu mandato.\n\n4 - O mediador pode reunir com ambas as partes, ou com cada uma separadamente, se o julgar necessário."
+  },
+  "58889715": {
+   "fragment_id": "58889812",
+   "type": 11,
+   "heading": "Artigo 71.º — Ação do mediador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Ação do mediador\n\n1 - O mediador, tendo em vista a regulação do litígio, deverá selecionar as questões de mérito a resolver, facilitar a discussão entre as partes e fazer sugestões ou apresentar propostas de solução.\n\n2 - O mediador deve, na sua atuação, respeitar as regras da equidade e da boa-fé, não podendo impor ou coagir as partes a aceitar qualquer solução de litígio."
+  },
+  "58889716": {
+   "fragment_id": "58889813",
+   "type": 11,
+   "heading": "Artigo 72.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Confidencialidade\n\n1 - O mediador, as partes e seus representantes ou conselheiros, ou qualquer pessoa que assista às reuniões de mediação, estão obrigados ao dever de confidencialidade.\n\n2 - Qualquer informação recebida de uma parte não pode ser revelada pelo mediador à outra parte sem o consentimento daquela e os documentos recebidos devem ser restituídos à parte que os forneceu, no fim da mediação, sem ser retida qualquer cópia.\n\n3 - As partes obrigam-se a não invocar em eventual processo arbitral ou judicial, quaisquer opiniões, sugestões ou propostas do mediador."
+  },
+  "58889717": {
+   "fragment_id": "58889814",
+   "type": 11,
+   "heading": "Artigo 73.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Extinção\n\n1 - Qualquer das partes ou o mediador podem, a todo o tempo, pôr termo à mediação.\n\n2 - O processo de mediação extingue-se:\n\na) Pela assinatura de termo de transação entre as partes;\n\nb) Por declaração escrita do mediador, quando entenda que a mediação não é suscetível de resolver o litígio;\n\nc) Por declaração escrita de uma das partes, ou de ambas, considerando o processo de mediação terminado."
+  },
+  "58889718": {
+   "fragment_id": "58889815",
+   "type": 11,
+   "heading": "Artigo 74.º — Termo de transação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Termo de transação\n\n1 - O termo de transação é redigido pelo mediador e assinado por este e pelas partes, a quem serão entregues cópias autenticadas pelo secretariado do TAD.\n\n2 - Em caso de incumprimento da transação, qualquer das partes pode obter a sua execução através de uma instância arbitral ou judiciária."
+  },
+  "58889719": {
+   "fragment_id": "58889816",
+   "type": 11,
+   "heading": "Artigo 75.º — Fim da mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Fim da mediação\n\n1 - As partes podem recorrer à arbitragem se o litígio não for resolvido pela via da mediação, desde que exista entre elas uma convenção ou cláusula de arbitragem.\n\n2 - O mediador, no caso de insucesso da mediação, não pode aceitar a sua nomeação como árbitro em processo de arbitragem relativo ao mesmo litígio."
+  },
+  "58889720": {
+   "fragment_id": "58889817",
+   "type": 13,
+   "heading": "Título IV — Das custas processuais no âmbito da arbitragem necessária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Das custas processuais no âmbito da arbitragem necessária"
+  },
+  "58889721": {
+   "fragment_id": "58889818",
+   "type": 11,
+   "heading": "Artigo 76.º — Conceito de custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Conceito de custas\n\n1 - As custas do processo arbitral compreendem a taxa de arbitragem e os encargos do processo arbitral.\n\n2 - A taxa de arbitragem corresponde ao montante devido pelo impulso processual do interessado e é fixada em função do valor da causa, por portaria dos membros do Governo responsáveis pela área da justiça e do desporto.\n\n3 - São encargos do processo arbitral todas as despesas resultantes da condução do mesmo, designadamente os honorários dos árbitros e as despesas incorridas com a produção da prova, bem como as demais despesas ordenadas pelos árbitros."
+  },
+  "58889722": {
+   "fragment_id": "58889819",
+   "type": 11,
+   "heading": "Artigo 77.º — Taxa de arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Taxa de arbitragem\n\n1 - O valor da causa é determinado nos termos do Código de Processo nos Tribunais Administrativos.\n\n2 - A taxa de arbitragem é reduzida a 95 % do seu valor quando a parte entregue todas as peças processuais através dos meios eletrónicos disponíveis.\n\n3 - A taxa de arbitragem é integralmente suportada pelas partes e por cada um dos contrainteressados, devendo ser paga por transferência bancária para a conta bancária do TAD, juntamente com a apresentação do requerimento inicial, da contestação e com a pronúncia dos contrainteressados.\n\n4 - A fixação do montante das custas finais do processo arbitral e a eventual repartição pelas partes é efetuada na decisão arbitral que vier a ser proferida pelo TAD.\n\n5 - A conta final é enviada às partes após a notificação da decisão, devendo cada uma, quando for o caso, proceder ao pagamento das quantias que acrescem à taxa previamente paga, no prazo no prazo de 10 dias a contar da respetiva notificação.\n\n6 - As custas de parte são pagas diretamente pela parte vencida à parte vencedora."
+  },
+  "58889723": {
+   "fragment_id": "58889820",
+   "type": 11,
+   "heading": "Artigo 78.º — Devolução da taxa de arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Devolução da taxa de arbitragem\n\nCessando o procedimento por qualquer motivo antes de ser constituído o colégio arbitral, as partes são reembolsadas da taxa de arbitragem paga, deduzindo-se um valor para efeito da cobrança de encargos e de processamento, a fixar pelo presidente do TAD."
+  },
+  "58889724": {
+   "fragment_id": "58889821",
+   "type": 11,
+   "heading": "Artigo 79.º — Taxa de justiça de atos avulsos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Taxa de justiça de atos avulsos\n\nA fixação de taxas relativas a atos avulsos é efetuada por portaria dos membros do Governo responsáveis pela área da justiça e do desporto."
+  },
+  "58889725": {
+   "fragment_id": "58889822",
+   "type": 11,
+   "heading": "Artigo 80.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Aplicação subsidiária\n\nSão de aplicação subsidiária:\n\na) As normas relativas a custas processuais constantes do Código de Processo Civil;\n\nb) O Regulamento das Custas Processuais."
+  }
+ }
+}

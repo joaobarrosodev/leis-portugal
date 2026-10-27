@@ -1,0 +1,1213 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:128326624:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2020-185654320",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/10-2020-128326624",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-01-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "838310068",
+    "185654248",
+    "185654249",
+    "185654250",
+    "185654251",
+    "185654252",
+    "185654253",
+    "185654254",
+    "185654255",
+    "185654256",
+    "185654257",
+    "185654258",
+    "185654259",
+    "185654260",
+    "185654261",
+    "185654262",
+    "185654263",
+    "185654264",
+    "185654265",
+    "185654266",
+    "185654267",
+    "185654268",
+    "185654269",
+    "185654270",
+    "185654271",
+    "185654272",
+    "185654273",
+    "185654274",
+    "185654375",
+    "185654376",
+    "185654377",
+    "185654378",
+    "185654379",
+    "185654380",
+    "185654381",
+    "185654382",
+    "185654383",
+    "185654385",
+    "185654386",
+    "185654387"
+   ]
+  },
+  {
+   "date": "2022-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185601685:por",
+     "title": "Decreto Regulamentar Regional n.º 11/2022/M",
+     "published": "2022-07-04",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Anexo I",
+    "Altera Anexo III",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "185654247",
+    "185654248",
+    "185654388",
+    "185654389",
+    "185654390",
+    "185654252",
+    "185654253",
+    "185654391",
+    "185654392",
+    "185654256",
+    "185654400",
+    "185654258",
+    "185654259",
+    "185654260",
+    "185654393",
+    "185654262",
+    "185654263",
+    "185654264",
+    "185654394",
+    "185654401",
+    "185654266",
+    "185654395",
+    "185654268",
+    "185654269",
+    "185654270",
+    "185654271",
+    "185654396",
+    "185654397",
+    "185654274",
+    "185654375",
+    "185654376",
+    "185654377",
+    "185654378",
+    "185654379",
+    "185654380",
+    "185654381",
+    "185654382",
+    "185654383",
+    "185654384",
+    "185654398",
+    "185654386",
+    "185654399"
+   ]
+  },
+  {
+   "date": "2023-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213069636:por",
+     "title": "Decreto Regulamentar Regional n.º 10/2023/M",
+     "published": "2023-05-15",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Anexo I",
+    "Revoga Artigo 12.º-A"
+   ],
+   "fragments": [
+    "185654247",
+    "185654248",
+    "185654388",
+    "213109237",
+    "213109240",
+    "185654252",
+    "185654253",
+    "185654391",
+    "213109238",
+    "185654256",
+    "185654400",
+    "185654258",
+    "185654259",
+    "185654260",
+    "185654393",
+    "185654262",
+    "185654263",
+    "185654264",
+    "185654394",
+    "213109241",
+    "185654266",
+    "185654395",
+    "185654268",
+    "185654269",
+    "185654270",
+    "185654271",
+    "185654396",
+    "185654397",
+    "185654274",
+    "185654375",
+    "185654376",
+    "185654377",
+    "185654378",
+    "185654379",
+    "185654380",
+    "185654381",
+    "185654382",
+    "185654383",
+    "185654384",
+    "213109265",
+    "185654386",
+    "185654399"
+   ]
+  },
+  {
+   "date": "2024-01-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:838326049:por",
+     "title": "Decreto Regulamentar Regional n.º 4/2024/M",
+     "published": "2024-01-22",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "838310068",
+    "838310069",
+    "838310070",
+    "838310071",
+    "838310072",
+    "838310073",
+    "838310074",
+    "838491375",
+    "838491376",
+    "838491377",
+    "838491378",
+    "838491379",
+    "838491380",
+    "838491381",
+    "838491382",
+    "838491383",
+    "838491384",
+    "838491385",
+    "838491386",
+    "838491387",
+    "838491388",
+    "838491389",
+    "838491390",
+    "838491391",
+    "838491392",
+    "838491393",
+    "838491394",
+    "838491395",
+    "838491396",
+    "838491397",
+    "838491398",
+    "838491399",
+    "838491400",
+    "838491401",
+    "838491402",
+    "838491403",
+    "838491404",
+    "838491405",
+    "838491406",
+    "838491407",
+    "838491408",
+    "838491409"
+   ]
+  }
+ ],
+ "fragments": {
+  "838310068": {
+   "fragment_id": "185654321",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-01-23",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 10/2020/M\n\nSumário: Aprova a orgânica da Secretaria Regional de Inclusão Social e Cidadania.\n\nAprova a orgânica da Secretaria Regional de Inclusão Social e Cidadania\n\nO Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, que aprova a organização e funcionamento do XIII Governo Regional da Madeira, integra na sua composição a Secretaria Regional de Inclusão Social e Cidadania.\n\nA esta Secretaria Regional são cometidas atribuições nos setores da segurança social, emprego, habitação, trabalho, inspeção do trabalho, defesa do consumidor e concertação social, que estavam atribuídas à extinta Secretaria Regional da Inclusão e Assuntos Sociais, bem como a cidadania e responsabilidade social, solidariedade, relações com as instituições da economia social, promoção e proteção social da família, crianças e jovens em risco, pessoas com deficiência e idosos, políticas de inclusão social, igualdade de género, igualdade perante o trabalho e combate às discriminações, natalidade e voluntariado.\n\nAlém dos setores que tradicionalmente são cometidos a este departamento do Governo Regional, importa pois, desta feita, colocar um enfoque em novas áreas de atuação que são, nos dias de hoje, realidades incontornáveis face ao atual modelo de organização social e às especificidades e desafios que, na área social, se vêm colocando.\n\nÉ assim natural e necessário que esta Secretaria Regional estabeleça atribuições que deem resposta a esses novos desafios, seja na área da redução de assimetrias sociais, do apoio a projetos de economia social, bem como da cidadania e da responsabilidade social.\n\nAliás, estas últimas terão especial relevo neste departamento regional, visando-se a capacitação interventiva dos cidadãos, bem como o desenvolvimento, o progresso e a equidade social como geradores de valor e bem-estar.\n\nNeste sentido, importa pois dotar este departamento regional de uma estrutura orgânica adequada a esta nova realidade, com vista ao cumprimento integral da sua missão, prosseguindo os objetivos de racionalização e simplificação das estruturas organizacionais existentes.\n\nAssim, atentas as atribuições e competências dos órgãos e serviços que transitaram para este departamento regional, procede-se, através deste diploma, à reestruturação da Direção Regional Adjunta, da Inclusão e do Desenvolvimento Local e do Conselho Regional da Inclusão e Assuntos Sociais, passando a designar-se Direção Regional dos Assuntos Sociais e Conselho Regional de Inclusão Social e Cidadania, respetivamente.\n\nA Direção Regional dos Assuntos Sociais terá por missão apoiar a definição e execução das políticas do Governo Regional em matéria de cidadania e responsabilidade social, inclusão social, igualdade de género, igualdade perante o trabalho e combate às discriminações, defesa do consumidor e do voluntariado, bem como o estabelecimento de relações com as instituições da economia social.\n\nA Direção Regional do Trabalho e da Ação Inspetiva, serviço da administração direta que integra esta Secretaria Regional, mantém-se tal como anteriormente definido, passando todavia a caber-lhe a gestão do Parque Desportivo dos Trabalhadores Dr. Sidónio Fernandes.\n\nFinalmente, o Instituto de Emprego da Madeira, IP-RAM e o Instituto de Segurança Social da Madeira, IP-RAM, serviços da administração indireta que integram esta Secretaria Regional, mantêm-se tal como anteriormente definido.\n\nAssim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e do artigo 14.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "185654248": {
+   "fragment_id": "185654322",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão, atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, missão, atribuições e competências"
+  },
+  "185654249": {
+   "fragment_id": "185654323",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria Regional de Inclusão Social e Cidadania, adiante abreviadamente designada por SRIC, é o departamento do Governo Regional da Madeira a que se refere a alínea g) do artigo 1.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro."
+  },
+  "185654250": {
+   "fragment_id": "185654324",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\nA SRIC tem por missão definir, coordenar, executar e avaliar a política regional nos setores da cidadania e responsabilidade social, solidariedade e segurança social, emprego, habitação, trabalho, inspeção do trabalho, concertação social, relações com as instituições da economia social, promoção e proteção social da família, crianças e jovens em risco, pessoas com deficiência e idosos, políticas de inclusão social, igualdade de género, igualdade perante o trabalho e combate às discriminações, defesa do consumidor, natalidade e voluntariado."
+  },
+  "185654251": {
+   "fragment_id": "185654325",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nNa prossecução da sua missão, são atribuições da SRIC:\n\na) Fomentar a cidadania e a responsabilidade social, visando a capacitação interventiva dos cidadãos, bem como o desenvolvimento, o progresso e a equidade social como geradores de valor e bem-estar;\n\nb) Assegurar as ações necessárias à definição, coordenação, execução e avaliação da política regional nos domínios da solidariedade e segurança social, combate à pobreza e à exclusão social;\n\nc) Promover o crescimento e a qualidade do emprego, através da implementação de programas e medidas ativas;\n\nd) Assegurar as ações necessárias à concretização de uma política de proximidade no domínio habitacional social, garantindo a implementação de programas e projetos de cariz social, na perspetiva da criação de melhores condições de habitabilidade para a população;\n\ne) Promover a valorização do trabalho, o diálogo e a concertação social, através de um adequado relacionamento institucional entre os parceiros sociais e os departamentos laborais, visando a criação de condições para a paz, estabilidade e justiça social;\n\nf) Orientar e superintender as relações coletivas de trabalho, as condições de trabalho, a higiene, segurança e saúde no trabalho, a política para a igualdade e a elaboração de estudos e de estatísticas laborais;\n\ng) Promover a inspeção das condições de trabalho, através da verificação do cumprimento das normas em matéria laboral, no âmbito das relações laborais privadas e, ainda, assegurar a observância da legislação relativa à segurança e saúde no trabalho, em todos os setores de atividade e nos serviços e organismos da administração pública regional e local, incluindo os institutos públicos, nas modalidades de serviços personalizados ou de fundos públicos;\n\nh) Assegurar a cooperação e o apoio às instituições da economia social;\n\ni) Promover e desenvolver as ações necessárias à proteção social da família, idosos, crianças e jovens em risco, bem como assegurar respostas integradas de caráter preventivo e de minimização dos efeitos de exclusão social;\n\nj) Assegurar o desenvolvimento funcional e integral de competências a pessoas com deficiência, numa perspetiva de inclusão, de reabilitação, de apoio psicossocial e familiar, propiciador de bem-estar, de saúde geral, de envelhecimento ativo e de qualidade;\n\nk) Assegurar as ações necessárias à definição, coordenação, execução e avaliação da política regional nos domínios da inclusão social, igualdade de género, igualdade perante o trabalho e do combate às discriminações;\n\nl) Promover e desenvolver as ações necessárias à defesa do consumidor, garantindo um elevado nível de proteção dos direitos e interesses dos consumidores;\n\nm) Assegurar as ações necessárias a uma política de promoção da natalidade e da família, da proteção da parentalidade e da promoção de medidas de compatibilização da vida profissional e familiar;\n\nn) Promover o voluntariado e o serviço à comunidade, como elemento essencial na cidadania ativa, através da dinamização de polos de desenvolvimento social;\n\no) Assegurar a cooperação com entidades públicas e privadas, regionais, nacionais, europeias e internacionais nos domínios sob a sua tutela;\n\np) Planear, conceber, gerir e monitorizar os programas e os projetos da sua responsabilidade, financiados ou cofinanciados por fundos ou instrumentos financeiros europeus no âmbito dos domínios sob a sua tutela;\n\nq) Promover a informação, sensibilização e formação nos domínios sob a sua tutela;\n\nr) Exercer as funções de direção, regulamentação, planeamento, financiamento, orientação, acompanhamento, avaliação, auditoria, inspeção e fiscalização, na execução do referido nas alíneas anteriores, nos termos da lei."
+  },
+  "185654252": {
+   "fragment_id": "185654326",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - A SRIC é superiormente representada e dirigida pelo Secretário Regional de Inclusão Social e Cidadania, designado no presente diploma abreviadamente por Secretário Regional, ao qual são genericamente cometidas todas as competências para a realização das atribuições referidas no artigo anterior.\n\n2 - Ao Secretário Regional compete, nomeadamente:\n\na) Promover e assegurar a execução das medidas de política regional nos setores referidos no artigo 2.º;\n\nb) Superintender e coordenar a ação dos vários órgãos e serviços da SRIC;\n\nc) Exercer a atividade normativa, reguladora e inspetiva no âmbito dos setores adstritos à SRIC;\n\nd) Autorizar o licenciamento de estabelecimentos de apoio social e demais entidades privadas cuja competência lhe caiba, nos termos da lei;\n\ne) Exercer a tutela relativamente às Instituições Particulares de Solidariedade Social, que atuem na área das atribuições da SRIC, nos termos da lei;\n\nf) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe sejam delegadas pelo Presidente ou pelo Conselho do Governo Regional.\n\n3 - O Secretário Regional pode, nos termos da lei, delegar competências, no pessoal do seu Gabinete, ou nos titulares dos cargos de direção dos órgãos e serviços que integram a estrutura da SRIC."
+  },
+  "185654253": {
+   "fragment_id": "185654327",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "185654254": {
+   "fragment_id": "185654328",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estrutura geral\n\nA SRIC prossegue as suas atribuições através de serviços integrados na administração direta e indireta da Região Autónoma da Madeira, bem como de entidades integradas no setor empresarial público da mesma."
+  },
+  "185654255": {
+   "fragment_id": "185654329",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços da administração direta\n\n1 - Integram a administração direta da Região Autónoma da Madeira, no âmbito da SRIC, as seguintes estruturas ou serviços:\n\na) Gabinete do Secretário Regional;\n\nb) Direção Regional do Trabalho e da Ação Inspetiva;\n\nc) Direção Regional dos Assuntos Sociais.\n\n2 - A SRIC compreende ainda o Conselho Regional de Inclusão Social e Cidadania, como órgão consultivo.\n\n3 - A estrutura referida na alínea a) do n.º 1 assegura o apoio técnico e administrativo necessário ao exercício das competências do Secretário Regional.\n\n4 - Os serviços referidos nas alíneas b) e c) do n.º 1 são serviços executivos, que garantem a prossecução da política referida no artigo 2.º do presente diploma."
+  },
+  "185654256": {
+   "fragment_id": "185654330",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços da administração indireta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços da administração indireta\n\nIntegram a administração indireta da Região Autónoma da Madeira, no âmbito da SRIC, os seguintes serviços:\n\na) Instituto de Emprego da Madeira, IP-RAM;\n\nb) Instituto de Segurança Social da Madeira, IP-RAM."
+  },
+  "185654257": {
+   "fragment_id": "185654331",
+   "type": 11,
+   "heading": "Artigo 8.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas\n\nO Secretário Regional exerce a tutela da entidade pública empresarial IHM-Investimentos Habitacionais da Madeira, EPERAM, pertencente ao setor empresarial da Região Autónoma da Madeira."
+  },
+  "185654258": {
+   "fragment_id": "185654332",
+   "type": 1,
+   "heading": "Capítulo III — Dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos serviços"
+  },
+  "185654259": {
+   "fragment_id": "185654333",
+   "type": 8,
+   "heading": "Secção I — Dos serviços da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dos serviços da administração direta"
+  },
+  "185654260": {
+   "fragment_id": "185654334",
+   "type": 3,
+   "heading": "Subsecção I — Missão, atribuições e estrutura do Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Missão, atribuições e estrutura do Gabinete do Secretário Regional"
+  },
+  "185654261": {
+   "fragment_id": "185654335",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gabinete do Secretário Regional\n\n1 - O Gabinete do Secretário Regional, abreviadamente designado por GSRIC, tem por missão coadjuvá-lo no exercício das suas funções, assegurando o planeamento e o apoio técnico, estratégico, jurídico, financeiro e administrativo necessários ao exercício das suas competências.\n\n2 - O GSRIC é composto pelos membros do Gabinete nos termos do disposto no artigo 13.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, compreendendo ainda as unidades orgânicas que funcionam sob a sua direta dependência.\n\n3 - São atribuições do GSRIC:\n\na) Apoiar técnica, estratégica, jurídica, financeira e administrativamente o Secretário Regional;\n\nb) Garantir o funcionamento harmonioso e concertado dos órgãos e serviços que integram a SRIC;\n\nc) Assegurar o expediente do GSRIC, nomeadamente a interligação desta Secretaria Regional com os demais departamentos do Governo Regional;\n\nd) Preparar e coordenar os assuntos a submeter a despacho do Secretário Regional;\n\ne) Garantir a organização, recolha, tratamento e conservação dos arquivos;\n\nf) Assegurar o desenvolvimento das atribuições conferidas à Unidade de Gestão, nos termos do n.º 3 do artigo 14.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro;\n\ng) Exercer as demais funções que lhe forem cometidas e/ou delegadas pelo Secretário Regional.\n\n4 - O GSRIC é coordenado e dirigido pelo Chefe do Gabinete, que representa o Secretário Regional, exceto nos atos de caráter pessoal, e que exerce ainda as competências delegadas por despacho.\n\n5 - Nas suas ausências e impedimentos, o Chefe do Gabinete é substituído pelo Adjunto ou membro do gabinete para o efeito designado pelo Secretário Regional."
+  },
+  "185654262": {
+   "fragment_id": "185654336",
+   "type": 11,
+   "heading": "Artigo 10.º — Organização interna do Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Organização interna do Gabinete do Secretário Regional\n\n1 - A organização interna do GSRIC, que compreende as unidades orgânicas nucleares e flexíveis que funcionam sob a sua direta dependência, obedece ao modelo de estrutura hierarquizada.\n\n2 - A organização interna a que se refere o número anterior é aprovada nos termos do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro."
+  },
+  "185654263": {
+   "fragment_id": "185654337",
+   "type": 3,
+   "heading": "Subsecção II — Missão dos serviços executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Missão dos serviços executivos"
+  },
+  "185654264": {
+   "fragment_id": "185654338",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção Regional do Trabalho e da Ação Inspetiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direção Regional do Trabalho e da Ação Inspetiva\n\n1 - A Direção Regional do Trabalho e da Ação Inspetiva, abreviadamente designada por DRTAI, tem por missão exercer a atividade no âmbito das relações coletivas de trabalho, apreciação das condições de higiene e segurança no trabalho, estatísticas laborais, realização de diligências de conciliação e mediação nos conflitos individuais de trabalho.\n\n2 - No domínio da Ação Inspetiva, a DRTAI tem por missão a promoção da melhoria das condições de trabalho, através da verificação do cumprimento das normas em matéria laboral, no âmbito das relações laborais privadas e, ainda, assegurar a observância da legislação relativa à segurança e saúde no trabalho, em todos os setores de atividade e nos serviços e organismos da administração pública regional e local, incluindo os institutos públicos, nas modalidades de serviços personalizados ou de fundos públicos.\n\n3 - À DRTAI cabe a gestão do Parque Desportivo dos Trabalhadores Dr. Sidónio Fernandes.\n\n4 - A DRTAI é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau, coadjuvado por um Inspetor Regional, cargo de direção superior de 2.º grau."
+  },
+  "185654265": {
+   "fragment_id": "185654339",
+   "type": 11,
+   "heading": "Artigo 12.º — Direção Regional dos Assuntos Sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direção Regional dos Assuntos Sociais\n\n1 - A Direção Regional dos Assuntos Sociais, adiante designada abreviadamente por DRAS, tem por missão apoiar a definição e execução das políticas do Governo Regional em matéria de cidadania e responsabilidade social, de relações com as instituições da economia social, de inclusão e apoio social, igualdade de género, igualdade perante o trabalho e combate às discriminações, defesa do consumidor e voluntariado.\n\n2 - A DRAS é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau."
+  },
+  "185654266": {
+   "fragment_id": "185654340",
+   "type": 3,
+   "heading": "Subsecção III — Órgão consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Órgão consultivo"
+  },
+  "185654267": {
+   "fragment_id": "185654341",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho Regional de Inclusão Social e Cidadania",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conselho Regional de Inclusão Social e Cidadania\n\n1 - O Conselho Regional de Inclusão Social e Cidadania, abreviadamente designado por CRI, tem por missão emitir pareceres, no âmbito da definição, coordenação, execução e avaliação da política regional, nos setores da cidadania e responsabilidade social, solidariedade e segurança social, emprego, habitação, trabalho, inspeção do trabalho, concertação social, relações com as instituições da economia social, promoção e proteção social da família, crianças e jovens em risco, pessoas com deficiência e idosos, políticas de inclusão social, igualdade de género, igualdade perante o trabalho e combate às discriminações, defesa do consumidor, natalidade e voluntariado.\n\n2 - A composição, a forma de designação dos membros e o regime de funcionamento do CRI constam de portaria do Secretário Regional."
+  },
+  "185654268": {
+   "fragment_id": "185654342",
+   "type": 8,
+   "heading": "Secção II — Missão dos serviços da administração indireta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Missão dos serviços da administração indireta"
+  },
+  "185654269": {
+   "fragment_id": "185654343",
+   "type": 11,
+   "heading": "Artigo 14.º — Instituto de Emprego da Madeira, IP-RAM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instituto de Emprego da Madeira, IP-RAM\n\n1 - O Instituto de Emprego da Madeira, IP-RAM, designado abreviadamente por IEM, IP-RAM, criado pelo Decreto Legislativo Regional n.º 11/2009/M, de 17 de abril, alterado pelo Decreto Legislativo Regional n.º 3/2013/M, de 2 de janeiro, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão a coordenação e execução da política de emprego na Região Autónoma da Madeira, promovendo a criação e a qualidade do emprego e combatendo o desemprego, através da implementação de medidas ativas e da execução de ações de promoção do emprego.\n\n2 - O IEM, IP-RAM é dirigido por um conselho diretivo, composto por um Presidente e por dois Vogais, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau."
+  },
+  "185654270": {
+   "fragment_id": "185654344",
+   "type": 11,
+   "heading": "Artigo 15.º — Instituto de Segurança Social da Madeira, IP-RAM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instituto de Segurança Social da Madeira, IP-RAM\n\n1 - O Instituto de Segurança Social da Madeira, IP-RAM, designado abreviadamente por ISSM, IP-RAM, criado pelo Decreto Legislativo Regional n.º 34/2012/M, de 16 de novembro, alterado pelos Decretos Legislativos Regionais n.os 6/2015/M, de 13 de agosto, 26/2016/M, de 30 de junho, 29/2016/M, de 15 de julho, e 26/2018/M, de 31 de dezembro, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão a gestão dos regimes de segurança social, o reconhecimento dos direitos e o cumprimento das obrigações decorrentes dos regimes de segurança social, a gestão da recuperação da dívida e o exercício da ação social, bem como assegurar a aplicação dos instrumentos internacionais de segurança social na RAM.\n\n2 - O ISSM, IP-RAM é dirigido por um conselho diretivo, composto por um Presidente, um Vice-presidente e um Vogal, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau, sendo equiparados, para efeitos remuneratórios, a gestores públicos."
+  },
+  "185654271": {
+   "fragment_id": "185654345",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "185654272": {
+   "fragment_id": "185654346",
+   "type": 11,
+   "heading": "Artigo 16.º — Sistema de gestão de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Sistema de gestão de pessoal\n\nA gestão de pessoal dos serviços da administração direta da SRIC rege-se pelo sistema centralizado de gestão, estabelecido nos artigos 7.º a 9.º do Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto."
+  },
+  "185654273": {
+   "fragment_id": "185654347",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime de pessoal\n\nO regime aplicável ao pessoal da SRIC é o genericamente estabelecido para os trabalhadores que exercem funções públicas, sem prejuízo do disposto neste diploma."
+  },
+  "185654274": {
+   "fragment_id": "185654348",
+   "type": 11,
+   "heading": "Artigo 18.º — Carreiras subsistentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Carreiras subsistentes\n\n1 - O desenvolvimento indiciário das carreiras subsistentes de Coordenador e de Chefe de Departamento é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26 de agosto, objeto da Declaração de Retificação n.º 15-I/99, publicada no Diário da República n.º 229/99, Série I-A, 2.º Suplemento, de 30 de setembro, sendo-lhes aplicável o disposto no artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.º 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66/2012 e 66-B/2012, ambas de 31 de dezembro, e pelo Decreto-Lei n.º 47/2013, de 5 de abril.\n\n2 - O disposto número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro."
+  },
+  "185654375": {
+   "fragment_id": "185654349",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "185654376": {
+   "fragment_id": "185654350",
+   "type": 11,
+   "heading": "Artigo 19.º — Dotação de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dotação de cargos de direção\n\n1 - A dotação de cargos de direção superior da administração direta e indireta da SRIC consta dos anexos I e II ao presente diploma, do qual fazem parte integrante.\n\n2 - A dotação de lugares de cargos de direção intermédia de 1.º grau, das unidades orgânicas nucleares que funcionam sob a direta dependência do GSRIC, consta do anexo III ao presente diploma, do qual faz parte integrante."
+  },
+  "185654377": {
+   "fragment_id": "185654351",
+   "type": 11,
+   "heading": "Artigo 20.º — Transição e manutenção de serviços e de comissões de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transição e manutenção de serviços e de comissões de serviços\n\n1 - Em cumprimento com o disposto no artigo 16.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, as unidades orgânicas nucleares previstas na Portaria n.º 79/2016, de 26 de fevereiro, da Secretaria Regional da Inclusão e Assuntos Sociais, transitam para a Secretaria Regional de Inclusão Social e Cidadania.\n\n2 - Até à entrada em vigor dos diplomas que aprovam a organização interna dos serviços do GSRIC, os serviços referidos no número anterior mantêm a mesma natureza jurídica, mantendo-se as comissões de serviço dos respetivos titulares de cargos dirigentes das unidades orgânicas nucleares.\n\n3 - A transição de serviços a que se refere o n.º 1 será acompanhada pela correspondente transição de pessoal afeto aos mesmos."
+  },
+  "185654378": {
+   "fragment_id": "185654352",
+   "type": 11,
+   "heading": "Artigo 21.º — Reestruturação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reestruturação de serviços\n\n1 - A Direção Regional Adjunta, da Inclusão e do Desenvolvimento Local é reestruturada passando a designar-se Direção Regional dos Assuntos Sociais.\n\n2 - O Conselho Regional da Inclusão e Assuntos Sociais é reestruturado passando a designar-se Conselho Regional de Inclusão Social e Cidadania."
+  },
+  "185654379": {
+   "fragment_id": "185654353",
+   "type": 11,
+   "heading": "Artigo 22.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produção de efeitos\n\n1 - A restruturação prevista no n.º 1 do artigo anterior apenas produz efeitos com a entrada em vigor do respetivo diploma orgânico.\n\n2 - A nomeação do titular do cargo de direção superior do respetivo serviço reestruturado, previsto no mapa anexo I, tem lugar após a entrada em vigor do respetivo diploma orgânico."
+  },
+  "185654380": {
+   "fragment_id": "185654354",
+   "type": 11,
+   "heading": "Artigo 23.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Referências\n\n1 - Todas as referências, legais ou regulamentares, feitas à Secretaria Regional da Inclusão e Assuntos Sociais, no âmbito das atribuições referidas no artigo 3.º, devem ter-se por feitas à Secretaria Regional de Inclusão Social e Cidadania.\n\n2 - Todas as referências, legais ou regulamentares, feitas ao Conselho Regional da Inclusão e Assuntos Sociais devem ter-se por feitas ao Conselho Regional de Inclusão Social e Cidadania."
+  },
+  "185654381": {
+   "fragment_id": "185654355",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Norma transitória\n\n1 - A SRIC prestará o apoio instrumental que se mostrar necessário para o regular funcionamento do Conselho Económico e da Concertação Social da Região Autónoma da Madeira, até à mobilidade a que se refere o artigo 11.º do Decreto Regulamentar Regional n.º 8/2017/M, de 1 de agosto.\n\n2 - A SRIC prestará o apoio logístico ao Conselho Económico e da Concertação Social da Região Autónoma da Madeira, até à sua instalação em sede própria."
+  },
+  "185654382": {
+   "fragment_id": "185654356",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto Regulamentar Regional n.º 15/2015/M, de 19 de agosto;\n\nb) O Despacho n.º 116/2016, de 31 de março, da Secretaria Regional da Inclusão e Assuntos Sociais."
+  },
+  "185654383": {
+   "fragment_id": "185654357",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no n.º 1 do artigo 22.º"
+  },
+  "185654385": {
+   "fragment_id": "185654359",
+   "type": 14,
+   "heading": "Anexo I — Cargos de direção superior da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Cargos de direção superior da administração direta\n\n(ver documento original)"
+  },
+  "185654386": {
+   "fragment_id": "185654360",
+   "type": 14,
+   "heading": "Anexo II — Dirigentes dos organismos da administração indireta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Dirigentes dos organismos da administração indireta\n\n(ver documento original)"
+  },
+  "185654387": {
+   "fragment_id": "185654361",
+   "type": 14,
+   "heading": "Anexo III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional\n\n(ver documento original)\n\n112917081"
+  },
+  "185654247": {
+   "fragment_id": "185654321",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, que aprova a organização e funcionamento do XIII Governo Regional da Madeira, integra na sua composição a Secretaria Regional de Inclusão Social e Cidadania.\n\nA esta Secretaria Regional são cometidas atribuições nos setores da segurança social, emprego, habitação, trabalho, inspeção do trabalho, defesa do consumidor e concertação social, que estavam atribuídas à extinta Secretaria Regional da Inclusão e Assuntos Sociais, bem como a cidadania e responsabilidade social, solidariedade, relações com as instituições da economia social, promoção e proteção social da família, crianças e jovens em risco, pessoas com deficiência e idosos, políticas de inclusão social, igualdade de género, igualdade perante o trabalho e combate às discriminações, natalidade e voluntariado.\n\nAlém dos setores que tradicionalmente são cometidos a este departamento do Governo Regional, importa pois, desta feita, colocar um enfoque em novas áreas de atuação que são, nos dias de hoje, realidades incontornáveis face ao atual modelo de organização social e às especificidades e desafios que, na área social, se vêm colocando.\n\nÉ assim natural e necessário que esta Secretaria Regional estabeleça atribuições que deem resposta a esses novos desafios, seja na área da redução de assimetrias sociais, do apoio a projetos de economia social, bem como da cidadania e da responsabilidade social.\n\nAliás, estas últimas terão especial relevo neste departamento regional, visando-se a capacitação interventiva dos cidadãos, bem como o desenvolvimento, o progresso e a equidade social como geradores de valor e bem-estar.\n\nNeste sentido, importa pois dotar este departamento regional de uma estrutura orgânica adequada a esta nova realidade, com vista ao cumprimento integral da sua missão, prosseguindo os objetivos de racionalização e simplificação das estruturas organizacionais existentes.\n\nAssim, atentas as atribuições e competências dos órgãos e serviços que transitaram para este departamento regional, procede-se, através deste diploma, à reestruturação da Direção Regional Adjunta, da Inclusão e do Desenvolvimento Local e do Conselho Regional da Inclusão e Assuntos Sociais, passando a designar-se Direção Regional dos Assuntos Sociais e Conselho Regional de Inclusão Social e Cidadania, respetivamente.\n\nA Direção Regional dos Assuntos Sociais terá por missão apoiar a definição e execução das políticas do Governo Regional em matéria de cidadania e responsabilidade social, inclusão social, igualdade de género, igualdade perante o trabalho e combate às discriminações, defesa do consumidor e do voluntariado, bem como o estabelecimento de relações com as instituições da economia social.\n\nA Direção Regional do Trabalho e da Ação Inspetiva, serviço da administração direta que integra esta Secretaria Regional, mantém-se tal como anteriormente definido, passando todavia a caber-lhe a gestão do Parque Desportivo dos Trabalhadores Dr. Sidónio Fernandes.\n\nFinalmente, o Instituto de Emprego da Madeira, IP-RAM e o Instituto de Segurança Social da Madeira, IP-RAM, serviços da administração indireta que integram esta Secretaria Regional, mantêm-se tal como anteriormente definido.\n\nAssim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e do artigo 14.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "185654388": {
+   "fragment_id": "185654323",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria Regional de Inclusão Social e Cidadania, adiante abreviadamente designada por SRIC, é o departamento do Governo Regional da Madeira a que se refere a alínea g) do artigo 1.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654389": {
+   "fragment_id": "185654324",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\nA SRIC tem por missão definir, coordenar, executar e avaliar a política regional nos setores da cidadania e responsabilidade social, solidariedade e segurança social, emprego, políticas públicas integradas e longevidade, trabalho, inspeção do trabalho, concertação social, relações com as instituições da Economia Social, promoção e proteção social da família, crianças e jovens em risco, pessoas com deficiência e idosos, políticas de inclusão social, igualdade de género, igualdade perante o trabalho, combate às discriminações, defesa do consumidor, natalidade, voluntariado e desenvolvimento local.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654390": {
+   "fragment_id": "185654325",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nNa prossecução da sua missão, são atribuições da SRIC:\n\na) Fomentar a cidadania e a responsabilidade social, visando a capacitação interventiva dos cidadãos, bem como o desenvolvimento, o progresso e a equidade social como geradores de valor e bem-estar;\n\nb) Assegurar as ações necessárias à definição, coordenação, execução e avaliação da política regional nos domínios da solidariedade e segurança social, combate à pobreza e à exclusão social;\n\nc) Promover o crescimento e a qualidade do emprego, através da implementação de programas e medidas ativas;\n\nd) Assegurar as ações necessárias à conceção, promoção e avaliação das políticas públicas para a longevidade, bem como a implementação de medidas integradas destinadas a garantir a proteção na fragilidade relacionada com o envelhecimento;\n\ne) Promover a valorização do trabalho, o diálogo e a concertação social, através de um adequado relacionamento institucional entre os parceiros sociais e os departamentos laborais, visando a criação de condições para a paz, estabilidade e justiça social;\n\nf) Orientar e superintender as relações coletivas de trabalho, as condições de trabalho, segurança e saúde no trabalho, a política para a igualdade perante o trabalho e a elaboração de estudos e de estatísticas laborais;\n\ng) Promover a inspeção das condições de trabalho, através da verificação do cumprimento das normas em matéria laboral, no âmbito das relações laborais privadas e, ainda, assegurar a observância da legislação relativa à segurança e saúde no trabalho, em todos os setores de atividade e nos serviços e organismos da administração pública regional e local, incluindo os institutos públicos, nas modalidades de serviços personalizados ou de fundos públicos;\n\nh) Assegurar a cooperação e o apoio às instituições da economia social;\n\ni) Promover e desenvolver as ações necessárias à proteção social da família, idosos, crianças e jovens em risco, bem como assegurar respostas integradas de caráter preventivo e de minimização dos efeitos de exclusão social;\n\nj) Assegurar o desenvolvimento funcional e integral de competências a pessoas com deficiência, numa perspetiva de inclusão, de reabilitação, de apoio psicossocial e familiar, propiciador de bem-estar, de saúde geral, de envelhecimento ativo e de qualidade;\n\nk) Assegurar as ações necessárias à definição, coordenação, execução e avaliação da política regional nos domínios da inclusão social, igualdade de género e do combate às discriminações;\n\nl) Promover uma política adequada de intervenção local, em articulação com as associações de desenvolvimento local, nomeadamente casas do povo, estabelecendo medidas e atividades em favor das comunidades locais, numa perspetiva integrada de desenvolvimento local e coesão social;\n\nm) Promover e desenvolver as ações necessárias à defesa do consumidor, garantindo um elevado nível de proteção dos direitos e interesses dos consumidores;\n\nn) Assegurar as ações necessárias a uma política de promoção da natalidade e da família, da proteção da parentalidade e da promoção de medidas de compatibilização da vida profissional e familiar;\n\no) Promover o voluntariado e o serviço à comunidade, como elemento essencial na cidadania ativa, através da dinamização de polos de desenvolvimento social;\n\np) Assegurar a cooperação com entidades públicas e privadas, regionais, nacionais, europeias e internacionais nos domínios sob a sua tutela;\n\nq) Planear, conceber, gerir e monitorizar os programas e os projetos da sua responsabilidade, financiados ou cofinanciados por fundos ou instrumentos financeiros europeus no âmbito dos domínios sob a sua tutela;\n\nr) Promover a informação, sensibilização e formação nos domínios sob a sua tutela;\n\ns) Exercer as funções de direção, regulamentação, planeamento, financiamento, orientação, acompanhamento, avaliação, auditoria, inspeção e fiscalização, na execução do referido nas alíneas anteriores, nos termos da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654391": {
+   "fragment_id": "185654328",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura geral",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 5.º — Estrutura geral\n\nA SRIC prossegue as suas atribuições através de serviços integrados na administração direta e indireta da Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654392": {
+   "fragment_id": "185654329",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços da administração direta",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 6.º — Serviços da administração direta\n\n1 - Integram a administração direta da Região Autónoma da Madeira, no âmbito da SRIC, as seguintes estruturas ou serviços:\n\na) Gabinete do Secretário Regional;\n\nb) Direção Regional do Trabalho e da Ação Inspetiva;\n\nc) Direção Regional da Cidadania e dos Assuntos Sociais;\n\nd) Direção Regional para as Políticas Públicas Integradas e Longevidade.\n\n2 - A SRIC compreende ainda o Conselho Regional de Inclusão Social e Cidadania, como órgão consultivo.\n\n3 - A estrutura referida na alínea a) do n.º 1 assegura o apoio técnico e administrativo necessário ao exercício das competências do Secretário Regional.\n\n4 - Os serviços referidos nas alíneas b), c) e d) do n.º 1 são serviços executivos, que garantem a prossecução da política referida no artigo 2.º do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654400": {
+   "fragment_id": "185654331",
+   "type": 11,
+   "heading": "Artigo 8.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 8.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas\n\nO Secretário Regional exerce a tutela da entidade pública empresarial IHM-Investimentos Habitacionais da Madeira, EPERAM, pertencente ao setor empresarial da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654393": {
+   "fragment_id": "185654335",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete do Secretário Regional",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 9.º — Gabinete do Secretário Regional\n\n1 - O Gabinete do Secretário Regional, abreviadamente designado por GSRIC, tem por missão coadjuvá-lo no exercício das suas funções, assegurando o planeamento e o apoio técnico, estratégico, jurídico, financeiro e administrativo necessários ao exercício das suas competências.\n\n2 - O GSRIC é composto pelos membros do Gabinete nos termos do disposto no artigo 13.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, na sua redação atual, compreendendo ainda as unidades orgânicas que funcionam sob a sua direta dependência.\n\n3 - São atribuições do GSRIC:\n\na) Apoiar técnica, estratégica, jurídica, financeira e administrativamente o Secretário Regional;\n\nb) Garantir o funcionamento harmonioso e concertado dos órgãos e serviços que integram a SRIC;\n\nc) Assegurar o expediente do GSRIC, nomeadamente a interligação desta Secretaria Regional com os demais departamentos do Governo Regional;\n\nd) Preparar e coordenar os assuntos a submeter a despacho do Secretário Regional;\n\ne) Garantir a organização, recolha, tratamento e conservação dos arquivos;\n\nf) Assegurar o desenvolvimento das atribuições conferidas à Unidade de Gestão, nos termos do n.º 3 do artigo 14.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, na sua redação atual;\n\ng) Exercer as demais funções que lhe forem cometidas e/ou delegadas pelo Secretário Regional.\n\n4 - O GSRIC é coordenado e dirigido pelo Chefe do Gabinete, que representa o Secretário Regional, exceto nos atos de caráter pessoal, e que exerce ainda as competências delegadas por despacho.\n\n5 - Nas suas ausências e impedimentos, o Chefe do Gabinete é substituído pelo Adjunto ou membro do gabinete para o efeito designado pelo Secretário Regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654394": {
+   "fragment_id": "185654339",
+   "type": 11,
+   "heading": "Artigo 12.º — Direção Regional da Cidadania e dos Assuntos Sociais",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 12.º — Direção Regional da Cidadania e dos Assuntos Sociais\n\n1 - A Direção Regional da Cidadania e dos Assuntos Sociais, adiante designada abreviadamente por DRAS, tem por missão apoiar a definição e execução das políticas do Governo Regional em matéria de cidadania e responsabilidade social, de inclusão e apoio social, na relação com as instituições da economia social e do desenvolvimento local, nos domínios da igualdade de género e combate às discriminações, defesa do consumidor, voluntariado e desenvolvimento local.\n\n2 - A DRAS é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654401": {
+   "fragment_id": "185654362",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Direção Regional para as Políticas Públicas Integradas e Longevidade",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 12.º-A — Direção Regional para as Políticas Públicas Integradas e Longevidade\n\n1 - A Direção Regional para as Políticas Públicas Integradas e Longevidade, abreviadamente designada por DRPPIL, tem por missão contribuir para a conceção, promoção e avaliação das políticas públicas para a longevidade, numa ótica de desenvolvimento de um ecossistema económico e social sustentável, assente numa cultura colaborativa que promova a cooperação multissetorial e a disseminação, aplicação e transferência do conhecimento qualificado no âmbito da longevidade, e ainda assegurar a implementação de medidas integradas destinadas a garantir a proteção na fragilidade relacionada com o envelhecimento.\n\n2 - A DRPPIL é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654395": {
+   "fragment_id": "185654341",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho Regional de Inclusão Social e Cidadania",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 13.º — Conselho Regional de Inclusão Social e Cidadania\n\n1 - O Conselho Regional de Inclusão Social e Cidadania, abreviadamente designado por CRI, é um órgão consultivo da SRIC que tem por missão emitir pareceres no âmbito da definição, implementação e acompanhamento das políticas de inclusão social e cidadania, por solicitação do Secretário Regional, órgão que é presidido por este.\n\n2 - A composição, a forma de designação dos membros e o regime de funcionamento do CRI constam de portaria do Secretário Regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654396": {
+   "fragment_id": "185654346",
+   "type": 11,
+   "heading": "Artigo 16.º — Sistema de gestão de pessoal",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 16.º — Sistema de gestão de pessoal\n\nA gestão de pessoal dos serviços da administração direta da SRIC, em função das suas especificidades, rege-se pelo sistema centralizado de gestão de recursos humanos de tipo misto, sendo descentralizado relativamente às carreiras de regime especial de inspetor do trabalho, observando o estabelecido nos artigos 7.º a 9.º do Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654397": {
+   "fragment_id": "185654347",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime de pessoal",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 17.º — Regime de pessoal\n\nO regime aplicável ao pessoal da SRIC é o genericamente estabelecido para os trabalhadores que exercem funções públicas, sem prejuízo do estabelecido para as carreiras de regime especial de inspetor do trabalho e do disposto neste diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654384": {
+   "fragment_id": "185654358",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 21 de novembro de 2019.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 20 de dezembro de 2019.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "185654398": {
+   "fragment_id": "185654359",
+   "type": 14,
+   "heading": "Anexo I — Cargos de direção superior da administração direta",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "## Anexo I — Cargos de direção superior da administração direta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "185654399": {
+   "fragment_id": "185654361",
+   "type": 14,
+   "heading": "Anexo III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional",
+   "in_force_from": "2022-07-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "## Anexo III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional\n\n(ver documento original)\n\n112917081\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "213109237": {
+   "fragment_id": "185654324",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2023-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\nA SRIC tem por missão definir, coordenar, executar e avaliar a política regional nos setores da cidadania e responsabilidade social, solidariedade e segurança social, emprego, trabalho, inspeção do trabalho, concertação social, relações com as instituições da Economia Social, promoção e proteção social da família, crianças e jovens em risco, pessoas com deficiência e idosos, políticas de inclusão social, igualdade de género, igualdade perante o trabalho, combate às discriminações, defesa do consumidor, natalidade, voluntariado e desenvolvimento local.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "213109240": {
+   "fragment_id": "185654325",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2023-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nNa prossecução da sua missão, são atribuições da SRIC:\n\na) Fomentar a cidadania e a responsabilidade social, visando a capacitação interventiva dos cidadãos, bem como o desenvolvimento, o progresso e a equidade social como geradores de valor e bem-estar;\n\nb) Assegurar as ações necessárias à definição, coordenação, execução e avaliação da política regional nos domínios da solidariedade e segurança social, combate à pobreza e à exclusão social;\n\nc) Promover o crescimento e a qualidade do emprego, através da implementação de programas e medidas ativas;\n\nd) (Revogada.)\n\ne) Promover a valorização do trabalho, o diálogo e a concertação social, através de um adequado relacionamento institucional entre os parceiros sociais e os departamentos laborais, visando a criação de condições para a paz, estabilidade e justiça social;\n\nf) Orientar e superintender as relações coletivas de trabalho, as condições de trabalho, segurança e saúde no trabalho, a política para a igualdade perante o trabalho e a elaboração de estudos e de estatísticas laborais;\n\ng) Promover a inspeção das condições de trabalho, através da verificação do cumprimento das normas em matéria laboral, no âmbito das relações laborais privadas e, ainda, assegurar a observância da legislação relativa à segurança e saúde no trabalho, em todos os setores de atividade e nos serviços e organismos da administração pública regional e local, incluindo os institutos públicos, nas modalidades de serviços personalizados ou de fundos públicos;\n\nh) Assegurar a cooperação e o apoio às instituições da economia social;\n\ni) Promover e desenvolver as ações necessárias à proteção social da família, idosos, crianças e jovens em risco, bem como assegurar respostas integradas de caráter preventivo e de minimização dos efeitos de exclusão social;\n\nj) Assegurar o desenvolvimento funcional e integral de competências a pessoas com deficiência, numa perspetiva de inclusão, de reabilitação, de apoio psicossocial e familiar, propiciador de bem-estar, de saúde geral, de envelhecimento ativo e de qualidade;\n\nk) Assegurar as ações necessárias à definição, coordenação, execução e avaliação da política regional nos domínios da inclusão social, igualdade de género e do combate às discriminações;\n\nl) Promover uma política adequada de intervenção local, em articulação com as associações de desenvolvimento local, nomeadamente casas do povo, estabelecendo medidas e atividades em favor das comunidades locais, numa perspetiva integrada de desenvolvimento local e coesão social;\n\nm) Promover e desenvolver as ações necessárias à defesa do consumidor, garantindo um elevado nível de proteção dos direitos e interesses dos consumidores;\n\nn) Assegurar as ações necessárias a uma política de promoção da natalidade e da família, da proteção da parentalidade e da promoção de medidas de compatibilização da vida profissional e familiar;\n\no) Promover o voluntariado e o serviço à comunidade, como elemento essencial na cidadania ativa, através da dinamização de polos de desenvolvimento social;\n\np) Assegurar a cooperação com entidades públicas e privadas, regionais, nacionais, europeias e internacionais nos domínios sob a sua tutela;\n\nq) Planear, conceber, gerir e monitorizar os programas e os projetos da sua responsabilidade, financiados ou cofinanciados por fundos ou instrumentos financeiros europeus no âmbito dos domínios sob a sua tutela;\n\nr) Promover a informação, sensibilização e formação nos domínios sob a sua tutela;\n\ns) Exercer as funções de direção, regulamentação, planeamento, financiamento, orientação, acompanhamento, avaliação, auditoria, inspeção e fiscalização, na execução do referido nas alíneas anteriores, nos termos da lei.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "213109238": {
+   "fragment_id": "185654329",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços da administração direta",
+   "in_force_from": "2023-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 6.º — Serviços da administração direta\n\n1 - Integram a administração direta da Região Autónoma da Madeira, no âmbito da SRIC, as seguintes estruturas ou serviços:\n\na) Gabinete do Secretário Regional;\n\nb) Direção Regional do Trabalho e da Ação Inspetiva;\n\nc) Direção Regional da Cidadania e dos Assuntos Sociais;\n\nd) (Revogada.)\n\n2 - A SRIC compreende ainda o Conselho Regional de Inclusão Social e Cidadania, como órgão consultivo.\n\n3 - A estrutura referida na alínea a) do n.º 1 assegura o apoio técnico e administrativo necessário ao exercício das competências do Secretário Regional.\n\n4 - Os serviços referidos nas alíneas b) e c) do n.º 1 são serviços executivos, que garantem a prossecução da política referida no artigo 2.º do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "213109241": {
+   "fragment_id": "185654362",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Direção Regional para as Políticas Públicas Integradas e Longevidade",
+   "in_force_from": "2023-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 12.º-A — Direção Regional para as Políticas Públicas Integradas e Longevidade\n\n1 - A Direção Regional para as Políticas Públicas Integradas e Longevidade, abreviadamente designada por DRPPIL, tem por missão contribuir para a conceção, promoção e avaliação das políticas públicas para a longevidade, numa ótica de desenvolvimento de um ecossistema económico e social sustentável, assente numa cultura colaborativa que promova a cooperação multissetorial e a disseminação, aplicação e transferência do conhecimento qualificado no âmbito da longevidade, e ainda assegurar a implementação de medidas integradas destinadas a garantir a proteção na fragilidade relacionada com o envelhecimento.\n\n2 - A DRPPIL é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "213109265": {
+   "fragment_id": "185654359",
+   "type": 14,
+   "heading": "Anexo I — Cargos de direção superior da administração direta",
+   "in_force_from": "2023-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "## Anexo I — Cargos de direção superior da administração direta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838310069": {
+   "fragment_id": "185654322",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão, atribuições e competências",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "### Capítulo I — Natureza, missão, atribuições e competências\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838310070": {
+   "fragment_id": "185654323",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria Regional de Inclusão Social e Cidadania, adiante abreviadamente designada por SRIC, é o departamento do Governo Regional da Madeira a que se refere a alínea g) do artigo 1.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, na sua redação atual.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838310071": {
+   "fragment_id": "185654324",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\nA SRIC tem por missão definir, coordenar, executar e avaliar a política regional nos setores da cidadania e responsabilidade social, solidariedade e segurança social, emprego, trabalho, inspeção do trabalho, concertação social, relações com as instituições da Economia Social, promoção e proteção social da família, crianças e jovens em risco, pessoas com deficiência e idosos, políticas de inclusão social, igualdade de género, igualdade perante o trabalho, combate às discriminações, defesa do consumidor, natalidade, voluntariado e desenvolvimento local.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838310072": {
+   "fragment_id": "185654325",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nNa prossecução da sua missão, são atribuições da SRIC:\n\na) Fomentar a cidadania e a responsabilidade social, visando a capacitação interventiva dos cidadãos, bem como o desenvolvimento, o progresso e a equidade social como geradores de valor e bem-estar;\n\nb) Assegurar as ações necessárias à definição, coordenação, execução e avaliação da política regional nos domínios da solidariedade e segurança social, combate à pobreza e à exclusão social;\n\nc) Promover o crescimento e a qualidade do emprego, através da implementação de programas e medidas ativas;\n\nd) (Revogada.)\n\ne) Promover a valorização do trabalho, o diálogo e a concertação social, através de um adequado relacionamento institucional entre os parceiros sociais e os departamentos laborais, visando a criação de condições para a paz, estabilidade e justiça social;\n\nf) Orientar e superintender as relações coletivas de trabalho, as condições de trabalho, segurança e saúde no trabalho, a política para a igualdade perante o trabalho e a elaboração de estudos e de estatísticas laborais;\n\ng) Promover a inspeção das condições de trabalho, através da verificação do cumprimento das normas em matéria laboral, no âmbito das relações laborais privadas e, ainda, assegurar a observância da legislação relativa à segurança e saúde no trabalho, em todos os setores de atividade e nos serviços e organismos da administração pública regional e local, incluindo os institutos públicos, nas modalidades de serviços personalizados ou de fundos públicos;\n\nh) Assegurar a cooperação e o apoio às instituições da economia social;\n\ni) Promover e desenvolver as ações necessárias à proteção social da família, idosos, crianças e jovens em risco, bem como assegurar respostas integradas de caráter preventivo e de minimização dos efeitos de exclusão social;\n\nj) Assegurar o desenvolvimento funcional e integral de competências a pessoas com deficiência, numa perspetiva de inclusão, de reabilitação, de apoio psicossocial e familiar, propiciador de bem-estar, de saúde geral, de envelhecimento ativo e de qualidade;\n\nk) Assegurar as ações necessárias à definição, coordenação, execução e avaliação da política regional nos domínios da inclusão social, igualdade de género e do combate às discriminações;\n\nl) Promover uma política adequada de intervenção local, em articulação com as associações de desenvolvimento local, nomeadamente casas do povo, estabelecendo medidas e atividades em favor das comunidades locais, numa perspetiva integrada de desenvolvimento local e coesão social;\n\nm) Promover e desenvolver as ações necessárias à defesa do consumidor, garantindo um elevado nível de proteção dos direitos e interesses dos consumidores;\n\nn) Assegurar as ações necessárias a uma política de promoção da natalidade e da família, da proteção da parentalidade e da promoção de medidas de compatibilização da vida profissional e familiar;\n\no) Promover o voluntariado e o serviço à comunidade, como elemento essencial na cidadania ativa, através da dinamização de polos de desenvolvimento social;\n\np) Assegurar a cooperação com entidades públicas e privadas, regionais, nacionais, europeias e internacionais nos domínios sob a sua tutela;\n\nq) Planear, conceber, gerir e monitorizar os programas e os projetos da sua responsabilidade, financiados ou cofinanciados por fundos ou instrumentos financeiros europeus no âmbito dos domínios sob a sua tutela;\n\nr) Promover a informação, sensibilização e formação nos domínios sob a sua tutela;\n\ns) Exercer as funções de direção, regulamentação, planeamento, financiamento, orientação, acompanhamento, avaliação, auditoria, inspeção e fiscalização, na execução do referido nas alíneas anteriores, nos termos da lei.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838310073": {
+   "fragment_id": "185654326",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - A SRIC é superiormente representada e dirigida pelo Secretário Regional de Inclusão Social e Cidadania, designado no presente diploma abreviadamente por Secretário Regional, ao qual são genericamente cometidas todas as competências para a realização das atribuições referidas no artigo anterior.\n\n2 - Ao Secretário Regional compete, nomeadamente:\n\na) Promover e assegurar a execução das medidas de política regional nos setores referidos no artigo 2.º;\n\nb) Superintender e coordenar a ação dos vários órgãos e serviços da SRIC;\n\nc) Exercer a atividade normativa, reguladora e inspetiva no âmbito dos setores adstritos à SRIC;\n\nd) Autorizar o licenciamento de estabelecimentos de apoio social e demais entidades privadas cuja competência lhe caiba, nos termos da lei;\n\ne) Exercer a tutela relativamente às Instituições Particulares de Solidariedade Social, que atuem na área das atribuições da SRIC, nos termos da lei;\n\nf) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe sejam delegadas pelo Presidente ou pelo Conselho do Governo Regional.\n\n3 - O Secretário Regional pode, nos termos da lei, delegar competências, no pessoal do seu Gabinete, ou nos titulares dos cargos de direção dos órgãos e serviços que integram a estrutura da SRIC.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838310074": {
+   "fragment_id": "185654327",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "### Capítulo II — Estrutura orgânica\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491375": {
+   "fragment_id": "185654328",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura geral",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 5.º — Estrutura geral\n\nA SRIC prossegue as suas atribuições através de serviços integrados na administração direta e indireta da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838491376": {
+   "fragment_id": "185654329",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviços da administração direta",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 6.º — Serviços da administração direta\n\n1 - Integram a administração direta da Região Autónoma da Madeira, no âmbito da SRIC, as seguintes estruturas ou serviços:\n\na) Gabinete do Secretário Regional;\n\nb) Direção Regional do Trabalho e da Ação Inspetiva;\n\nc) Direção Regional da Cidadania e dos Assuntos Sociais;\n\nd) (Revogada.)\n\n2 - A SRIC compreende ainda o Conselho Regional de Inclusão Social e Cidadania, como órgão consultivo.\n\n3 - A estrutura referida na alínea a) do n.º 1 assegura o apoio técnico e administrativo necessário ao exercício das competências do Secretário Regional.\n\n4 - Os serviços referidos nas alíneas b) e c) do n.º 1 são serviços executivos, que garantem a prossecução da política referida no artigo 2.º do presente diploma.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838491377": {
+   "fragment_id": "185654330",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços da administração indireta",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 7.º — Serviços da administração indireta\n\nIntegram a administração indireta da Região Autónoma da Madeira, no âmbito da SRIC, os seguintes serviços:\n\na) Instituto de Emprego da Madeira, IP-RAM;\n\nb) Instituto de Segurança Social da Madeira, IP-RAM.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491378": {
+   "fragment_id": "185654331",
+   "type": 11,
+   "heading": "Artigo 8.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 8.º — Setor empresarial da Região Autónoma da Madeira e entidades tuteladas\n\nO Secretário Regional exerce a tutela da entidade pública empresarial IHM-Investimentos Habitacionais da Madeira, EPERAM, pertencente ao setor empresarial da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838491379": {
+   "fragment_id": "185654332",
+   "type": 1,
+   "heading": "Capítulo III — Dos serviços",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "### Capítulo III — Dos serviços\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491380": {
+   "fragment_id": "185654333",
+   "type": 8,
+   "heading": "Secção I — Dos serviços da administração direta",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "#### Secção I — Dos serviços da administração direta\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491381": {
+   "fragment_id": "185654334",
+   "type": 3,
+   "heading": "Subsecção I — Missão, atribuições e estrutura do Gabinete do Secretário Regional",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "##### Subsecção I — Missão, atribuições e estrutura do Gabinete do Secretário Regional\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491382": {
+   "fragment_id": "185654335",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete do Secretário Regional",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 9.º — Gabinete do Secretário Regional\n\n1 - O Gabinete do Secretário Regional, abreviadamente designado por GSRIC, tem por missão coadjuvá-lo no exercício das suas funções, assegurando o planeamento e o apoio técnico, estratégico, jurídico, financeiro e administrativo necessários ao exercício das suas competências.\n\n2 - O GSRIC é composto pelos membros do Gabinete nos termos do disposto no artigo 13.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, na sua redação atual, compreendendo ainda as unidades orgânicas que funcionam sob a sua direta dependência.\n\n3 - São atribuições do GSRIC:\n\na) Apoiar técnica, estratégica, jurídica, financeira e administrativamente o Secretário Regional;\n\nb) Garantir o funcionamento harmonioso e concertado dos órgãos e serviços que integram a SRIC;\n\nc) Assegurar o expediente do GSRIC, nomeadamente a interligação desta Secretaria Regional com os demais departamentos do Governo Regional;\n\nd) Preparar e coordenar os assuntos a submeter a despacho do Secretário Regional;\n\ne) Garantir a organização, recolha, tratamento e conservação dos arquivos;\n\nf) Assegurar o desenvolvimento das atribuições conferidas à Unidade de Gestão, nos termos do n.º 3 do artigo 14.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, na sua redação atual;\n\ng) Exercer as demais funções que lhe forem cometidas e/ou delegadas pelo Secretário Regional.\n\n4 - O GSRIC é coordenado e dirigido pelo Chefe do Gabinete, que representa o Secretário Regional, exceto nos atos de caráter pessoal, e que exerce ainda as competências delegadas por despacho.\n\n5 - Nas suas ausências e impedimentos, o Chefe do Gabinete é substituído pelo Adjunto ou membro do gabinete para o efeito designado pelo Secretário Regional.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838491383": {
+   "fragment_id": "185654336",
+   "type": 11,
+   "heading": "Artigo 10.º — Organização interna do Gabinete do Secretário Regional",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 10.º — Organização interna do Gabinete do Secretário Regional\n\n1 - A organização interna do GSRIC, que compreende as unidades orgânicas nucleares e flexíveis que funcionam sob a sua direta dependência, obedece ao modelo de estrutura hierarquizada.\n\n2 - A organização interna a que se refere o número anterior é aprovada nos termos do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491384": {
+   "fragment_id": "185654337",
+   "type": 3,
+   "heading": "Subsecção II — Missão dos serviços executivos",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "##### Subsecção II — Missão dos serviços executivos\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491385": {
+   "fragment_id": "185654338",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção Regional do Trabalho e da Ação Inspetiva",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 11.º — Direção Regional do Trabalho e da Ação Inspetiva\n\n1 - A Direção Regional do Trabalho e da Ação Inspetiva, abreviadamente designada por DRTAI, tem por missão exercer a atividade no âmbito das relações coletivas de trabalho, apreciação das condições de higiene e segurança no trabalho, estatísticas laborais, realização de diligências de conciliação e mediação nos conflitos individuais de trabalho.\n\n2 - No domínio da Ação Inspetiva, a DRTAI tem por missão a promoção da melhoria das condições de trabalho, através da verificação do cumprimento das normas em matéria laboral, no âmbito das relações laborais privadas e, ainda, assegurar a observância da legislação relativa à segurança e saúde no trabalho, em todos os setores de atividade e nos serviços e organismos da administração pública regional e local, incluindo os institutos públicos, nas modalidades de serviços personalizados ou de fundos públicos.\n\n3 - À DRTAI cabe a gestão do Parque Desportivo dos Trabalhadores Dr. Sidónio Fernandes.\n\n4 - A DRTAI é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau, coadjuvado por um Inspetor Regional, cargo de direção superior de 2.º grau.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491386": {
+   "fragment_id": "185654339",
+   "type": 11,
+   "heading": "Artigo 12.º — Direção Regional da Cidadania e dos Assuntos Sociais",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 12.º — Direção Regional da Cidadania e dos Assuntos Sociais\n\n1 - A Direção Regional da Cidadania e dos Assuntos Sociais, adiante designada abreviadamente por DRAS, tem por missão apoiar a definição e execução das políticas do Governo Regional em matéria de cidadania e responsabilidade social, de inclusão e apoio social, na relação com as instituições da economia social e do desenvolvimento local, nos domínios da igualdade de género e combate às discriminações, defesa do consumidor, voluntariado e desenvolvimento local.\n\n2 - A DRAS é dirigida por um Diretor Regional, cargo de direção superior de 1.º grau.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838491387": {
+   "fragment_id": "185654362",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Direção Regional para as Políticas Públicas Integradas e Longevidade",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 12.º-A — Direção Regional para as Políticas Públicas Integradas e Longevidade\n\n1 - A Direção Regional para as Políticas Públicas Integradas e Longevidade, abreviadamente designada por DRPPIL, tem por missão contribuir para a conceção, promoção e avaliação das políticas públicas para a longevidade, numa ótica de desenvolvimento de um ecossistema económico e social sustentável, assente numa cultura colaborativa que promova a cooperação multissetorial e a disseminação, aplicação e transferência do conhecimento qualificado no âmbito da longevidade, e ainda assegurar a implementação de medidas integradas destinadas a garantir a proteção na fragilidade relacionada com o envelhecimento.\n\n2 - A DRPPIL é dirigida por um diretor regional, cargo de direção superior de 1.º grau.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838491388": {
+   "fragment_id": "185654340",
+   "type": 3,
+   "heading": "Subsecção III — Órgão consultivo",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "##### Subsecção III — Órgão consultivo\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491389": {
+   "fragment_id": "185654341",
+   "type": 11,
+   "heading": "Artigo 13.º — Conselho Regional de Inclusão Social e Cidadania",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 13.º — Conselho Regional de Inclusão Social e Cidadania\n\n1 - O Conselho Regional de Inclusão Social e Cidadania, abreviadamente designado por CRI, é um órgão consultivo da SRIC que tem por missão emitir pareceres no âmbito da definição, implementação e acompanhamento das políticas de inclusão social e cidadania, por solicitação do Secretário Regional, órgão que é presidido por este.\n\n2 - A composição, a forma de designação dos membros e o regime de funcionamento do CRI constam de portaria do Secretário Regional.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838491390": {
+   "fragment_id": "185654342",
+   "type": 8,
+   "heading": "Secção II — Missão dos serviços da administração indireta",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "#### Secção II — Missão dos serviços da administração indireta\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491391": {
+   "fragment_id": "185654343",
+   "type": 11,
+   "heading": "Artigo 14.º — Instituto de Emprego da Madeira, IP-RAM",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 14.º — Instituto de Emprego da Madeira, IP-RAM\n\n1 - O Instituto de Emprego da Madeira, IP-RAM, designado abreviadamente por IEM, IP-RAM, criado pelo Decreto Legislativo Regional n.º 11/2009/M, de 17 de abril, alterado pelo Decreto Legislativo Regional n.º 3/2013/M, de 2 de janeiro, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão a coordenação e execução da política de emprego na Região Autónoma da Madeira, promovendo a criação e a qualidade do emprego e combatendo o desemprego, através da implementação de medidas ativas e da execução de ações de promoção do emprego.\n\n2 - O IEM, IP-RAM é dirigido por um conselho diretivo, composto por um Presidente e por dois Vogais, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491392": {
+   "fragment_id": "185654344",
+   "type": 11,
+   "heading": "Artigo 15.º — Instituto de Segurança Social da Madeira, IP-RAM",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 15.º — Instituto de Segurança Social da Madeira, IP-RAM\n\n1 - O Instituto de Segurança Social da Madeira, IP-RAM, designado abreviadamente por ISSM, IP-RAM, criado pelo Decreto Legislativo Regional n.º 34/2012/M, de 16 de novembro, alterado pelos Decretos Legislativos Regionais n.os 6/2015/M, de 13 de agosto, 26/2016/M, de 30 de junho, 29/2016/M, de 15 de julho, e 26/2018/M, de 31 de dezembro, é um serviço público personalizado com autonomia administrativa, financeira e patrimonial, que tem por missão a gestão dos regimes de segurança social, o reconhecimento dos direitos e o cumprimento das obrigações decorrentes dos regimes de segurança social, a gestão da recuperação da dívida e o exercício da ação social, bem como assegurar a aplicação dos instrumentos internacionais de segurança social na RAM.\n\n2 - O ISSM, IP-RAM é dirigido por um conselho diretivo, composto por um Presidente, um Vice-presidente e um Vogal, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau, sendo equiparados, para efeitos remuneratórios, a gestores públicos.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491393": {
+   "fragment_id": "185654345",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "### Capítulo IV — Pessoal\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491394": {
+   "fragment_id": "185654346",
+   "type": 11,
+   "heading": "Artigo 16.º — Sistema de gestão de pessoal",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 16.º — Sistema de gestão de pessoal\n\nA gestão de pessoal dos serviços da administração direta da SRIC, em função das suas especificidades, rege-se pelo sistema centralizado de gestão de recursos humanos de tipo misto, sendo descentralizado relativamente às carreiras de regime especial de inspetor do trabalho, observando o estabelecido nos artigos 7.º a 9.º do Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto, na sua redação atual.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838491395": {
+   "fragment_id": "185654347",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime de pessoal",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "###### Artigo 17.º — Regime de pessoal\n\nO regime aplicável ao pessoal da SRIC é o genericamente estabelecido para os trabalhadores que exercem funções públicas, sem prejuízo do estabelecido para as carreiras de regime especial de inspetor do trabalho e do disposto neste diploma.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838491396": {
+   "fragment_id": "185654348",
+   "type": 11,
+   "heading": "Artigo 18.º — Carreiras subsistentes",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 18.º — Carreiras subsistentes\n\n1 - O desenvolvimento indiciário das carreiras subsistentes de Coordenador e de Chefe de Departamento é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26 de agosto, objeto da Declaração de Retificação n.º 15-I/99, publicada no Diário da República n.º 229/99, Série I-A, 2.º Suplemento, de 30 de setembro, sendo-lhes aplicável o disposto no artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.º 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66/2012 e 66-B/2012, ambas de 31 de dezembro, e pelo Decreto-Lei n.º 47/2013, de 5 de abril.\n\n2 - O disposto número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491397": {
+   "fragment_id": "185654349",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491398": {
+   "fragment_id": "185654350",
+   "type": 11,
+   "heading": "Artigo 19.º — Dotação de cargos de direção",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 19.º — Dotação de cargos de direção\n\n1 - A dotação de cargos de direção superior da administração direta e indireta da SRIC consta dos anexos I e II ao presente diploma, do qual fazem parte integrante.\n\n2 - A dotação de lugares de cargos de direção intermédia de 1.º grau, das unidades orgânicas nucleares que funcionam sob a direta dependência do GSRIC, consta do anexo III ao presente diploma, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491399": {
+   "fragment_id": "185654351",
+   "type": 11,
+   "heading": "Artigo 20.º — Transição e manutenção de serviços e de comissões de serviços",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 20.º — Transição e manutenção de serviços e de comissões de serviços\n\n1 - Em cumprimento com o disposto no artigo 16.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, as unidades orgânicas nucleares previstas na Portaria n.º 79/2016, de 26 de fevereiro, da Secretaria Regional da Inclusão e Assuntos Sociais, transitam para a Secretaria Regional de Inclusão Social e Cidadania.\n\n2 - Até à entrada em vigor dos diplomas que aprovam a organização interna dos serviços do GSRIC, os serviços referidos no número anterior mantêm a mesma natureza jurídica, mantendo-se as comissões de serviço dos respetivos titulares de cargos dirigentes das unidades orgânicas nucleares.\n\n3 - A transição de serviços a que se refere o n.º 1 será acompanhada pela correspondente transição de pessoal afeto aos mesmos.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491400": {
+   "fragment_id": "185654352",
+   "type": 11,
+   "heading": "Artigo 21.º — Reestruturação de serviços",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 21.º — Reestruturação de serviços\n\n1 - A Direção Regional Adjunta, da Inclusão e do Desenvolvimento Local é reestruturada passando a designar-se Direção Regional dos Assuntos Sociais.\n\n2 - O Conselho Regional da Inclusão e Assuntos Sociais é reestruturado passando a designar-se Conselho Regional de Inclusão Social e Cidadania.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491401": {
+   "fragment_id": "185654353",
+   "type": 11,
+   "heading": "Artigo 22.º — Produção de efeitos",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 22.º — Produção de efeitos\n\n1 - A restruturação prevista no n.º 1 do artigo anterior apenas produz efeitos com a entrada em vigor do respetivo diploma orgânico.\n\n2 - A nomeação do titular do cargo de direção superior do respetivo serviço reestruturado, previsto no mapa anexo I, tem lugar após a entrada em vigor do respetivo diploma orgânico.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491402": {
+   "fragment_id": "185654354",
+   "type": 11,
+   "heading": "Artigo 23.º — Referências",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 23.º — Referências\n\n1 - Todas as referências, legais ou regulamentares, feitas à Secretaria Regional da Inclusão e Assuntos Sociais, no âmbito das atribuições referidas no artigo 3.º, devem ter-se por feitas à Secretaria Regional de Inclusão Social e Cidadania.\n\n2 - Todas as referências, legais ou regulamentares, feitas ao Conselho Regional da Inclusão e Assuntos Sociais devem ter-se por feitas ao Conselho Regional de Inclusão Social e Cidadania.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491403": {
+   "fragment_id": "185654355",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma transitória",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 24.º — Norma transitória\n\n1 - A SRIC prestará o apoio instrumental que se mostrar necessário para o regular funcionamento do Conselho Económico e da Concertação Social da Região Autónoma da Madeira, até à mobilidade a que se refere o artigo 11.º do Decreto Regulamentar Regional n.º 8/2017/M, de 1 de agosto.\n\n2 - A SRIC prestará o apoio logístico ao Conselho Económico e da Concertação Social da Região Autónoma da Madeira, até à sua instalação em sede própria.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491404": {
+   "fragment_id": "185654356",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto Regulamentar Regional n.º 15/2015/M, de 19 de agosto;\n\nb) O Despacho n.º 116/2016, de 31 de março, da Secretaria Regional da Inclusão e Assuntos Sociais.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491405": {
+   "fragment_id": "185654357",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no n.º 1 do artigo 22.º\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491406": {
+   "fragment_id": "185654358",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional em 21 de novembro de 2019.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 20 de dezembro de 2019.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491407": {
+   "fragment_id": "185654359",
+   "type": 14,
+   "heading": "Anexo I — Cargos de direção superior da administração direta",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "## Anexo I — Cargos de direção superior da administração direta\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2023/M - Diário da República n.º 93/2023, Série I de 2023-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2023-213069636), em vigor a partir de 2023-05-16\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  },
+  "838491408": {
+   "fragment_id": "185654360",
+   "type": 14,
+   "heading": "Anexo II — Dirigentes dos organismos da administração indireta",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+   ],
+   "markdown": "## Anexo II — Dirigentes dos organismos da administração indireta\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23"
+  },
+  "838491409": {
+   "fragment_id": "185654361",
+   "type": 14,
+   "heading": "Anexo III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional",
+   "in_force_from": "2024-01-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+   ],
+   "markdown": "## Anexo III — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional\n\n(ver documento original)\n\n112917081\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto Regulamentar Regional n.º 4/2024/M - Diário da República n.º 15/2024, Série I de 2024-01-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2024-838326049), em vigor a partir de 2024-01-23\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 11/2022/M - Diário da República n.º 127/2022, Série I de 2022-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2022-185601685), em vigor a partir de 2022-07-05"
+  }
+ }
+}

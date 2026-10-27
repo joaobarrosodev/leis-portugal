@@ -1,0 +1,260 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32014L0062:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02014L0062-20241104",
+ "dre_path": null,
+ "source_lastmod": "2024-11-04",
+ "versions": [
+  {
+   "date": "2014-05-21",
+   "future": false,
+   "celex": "32014L0062",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ce132b613a34599b",
+    "cc6772841adf6647",
+    "c13eedd20665e810",
+    "de3f4e7110db6feb",
+    "78e0c925c51cd6ed",
+    "c9f45523c7cdb042",
+    "69f18b7fc6d73131",
+    "bbffbeb2fcf81760",
+    "730a0001372f8bc1",
+    "52774e9041529197",
+    "beeb2d2d2aefb52a",
+    "85e825a3112de2d6",
+    "d9f83a66517e0af3",
+    "77027220a81a8be6",
+    "85d959dba0185f64",
+    "61076ebb10c1d7ed",
+    "c3785c5575d1e0f8",
+    "16551f0bff275ab9"
+   ]
+  },
+  {
+   "date": "2024-11-04",
+   "future": false,
+   "celex": "02014L0062-20241104",
+   "acts": [
+    {
+     "id": "eu:celex:32024L2808:por",
+     "title": "DIRETIVA (UE) 2024/2808 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024",
+     "published": null,
+     "celex": "32024L2808"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Infrações penais",
+    "Altera Artigo 16.º — Destinatários",
+    "Suprime Artigo 11.º — Estatísticas",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e6f4a0b4c21e5fa3",
+    "cc6772841adf6647",
+    "c13eedd20665e810",
+    "ac390d6366708f70",
+    "78e0c925c51cd6ed",
+    "c9f45523c7cdb042",
+    "2cd6be802afddd79",
+    "bbffbeb2fcf81760",
+    "b3f3bc1648105cf2",
+    "52774e9041529197",
+    "beeb2d2d2aefb52a",
+    "d9f83a66517e0af3",
+    "77027220a81a8be6",
+    "85d959dba0185f64",
+    "61076ebb10c1d7ed",
+    "54a5af4cb6ff1bfd"
+   ]
+  }
+ ],
+ "fragments": {
+  "ce132b613a34599b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de maio de 2014\n\nrelativa à proteção penal do euro e de outras moedas contra a contrafação e que substitui a Decisão-Quadro 2000/383/JAI do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 83.º, n.º 1,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Banco Central Europeu [([^1])](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntr1-L_2014151PT.01000101-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntr2-L_2014151PT.01000101-E0002),\n\nDeliberando de acordo com o processo legislativo ordinário [([^3])](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntr3-L_2014151PT.01000101-E0003),\n\nConsiderando o seguinte:\n\n(1) Enquanto moeda única partilhada pelos Estados-Membros que fazem parte da área do euro, esta moeda tornou-se um fator importante na economia da União e na vida quotidiana dos seus cidadãos. No entanto, desde a sua introdução, em 2002, por ser uma moeda constantemente alvo de grupos da criminalidade organizada que se dedicam à contrafação de moeda, a sua contrafação provocou um prejuízo financeiro de, pelo menos, 500 milhões de EUR. É do interesse da União, no seu conjunto, combater e sancionar atividades suscetíveis de pôr em causa a autenticidade do euro através de contrafação.\n\n(2) A moeda contrafeita tem efeitos nefastos consideráveis para a sociedade. Prejudica os cidadãos e as empresas que não são reembolsados da moeda contrafeita, mesmo que a tenham recebido de boa-fé. Pode suscitar preocupações nos consumidores relativamente à proteção suficiente do numerário e receio de receber notas e moedas contrafeitas. É, por isso, absolutamente fundamental garantir que os cidadãos, as empresas e as instituições financeiras de todos os Estados-Membros e dos países terceiros tenham confiança na autenticidade das notas e moedas.\n\n(3) É essencial assegurar que, em todos os Estados-Membros, sejam adotadas medidas de direito penal eficazes e eficientes para proteger adequadamente o euro ou qualquer outra moeda cuja circulação esteja legalmente autorizada.\n\n(4) O Regulamento (CE) n.º 974/98 do Conselho [([^4])](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntr4-L_2014151PT.01000101-E0004) obriga os Estados-Membros cuja moeda é o euro a aplicar sanções adequadas à contrafação e falsificação de notas e moedas de euro.\n\n(5) Os Regulamentos (CE) n.º 1338/2001 [([^5])](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntr5-L_2014151PT.01000101-E0005) e (CE) n.º 1339/2001 [([^6])](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntr6-L_2014151PT.01000101-E0006) do Conselho definem as medidas necessárias à proteção do euro contra a falsificação, nomeadamente medidas para retirar da circulação notas e moedas de euro falsas.\n\n(6) A Convenção Internacional para a Repressão da Moeda Falsa, assinada em Genebra em 20 de abril de 1929, e o respetivo Protocolo («Convenção de Genebra») [([^7])](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntr7-L_2014151PT.01000101-E0007), estabelecem regras para impedir, instaurar processos penais e punir a infração de contrafação de moeda. A referida convenção visa especialmente garantir a possibilidade de serem impostas sanções penais severas e outras sanções por infrações de contrafação de moeda. Todas as partes contratantes na Convenção de Genebra estão obrigadas a aplicar o princípio de não discriminação relativamente a outras moedas que não a sua moeda nacional.\n\n(7) A presente diretiva completa as disposições e facilita a aplicação da Convenção de Genebra pelos Estados-Membros. Para esse efeito, é importante que os Estados-Membros sejam Partes na Convenção de Genebra.\n\n(8) A presente diretiva baseia-se na Decisão-Quadro 2000/383/JAI do Conselho [([^8])](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntr8-L_2014151PT.01000101-E0008), atualizando-a. A presente diretiva completa essa decisão-quadro com outras disposições sobre o nível das sanções, os instrumentos de investigação e a análise, a identificação e deteção, no decurso de processos judiciais, de notas e moedas de euro contrafeitas.\n\n(9) A presente diretiva deverá proteger todas as notas e moedas cuja circulação esteja legalmente autorizada, independentemente de se tratar de papel, de metal ou de outro material.\n\n(10) Para assegurar a proteção do euro e das outras moedas, é necessária uma definição comum das infrações penais em matéria de falsificação da moeda, bem como sanções comuns efetivas, proporcionadas e dissuasivas, tanto para as pessoas singulares como para as pessoas coletivas. Para assegurar a coerência com a Convenção de Genebra, a presente diretiva deverá tornar puníveis penalmente as mesmas infrações que as previstas na Convenção de Genebra. Por conseguinte, a produção de notas e moedas contrafeitas e a respetiva distribuição deverão constituir infrações penais. Os atos preparatórios importantes dessas infrações, por exemplo a produção de instrumentos e componentes para a contrafação, deverão ser punidos de forma independente. O objetivo comum destas definições de infrações penais deverá ser o de exercer um efeito dissuasivo em relação a qualquer manipulação de notas ou moedas contrafeitas, instrumentos e outros meios de contrafação.\n\n(11) A utilização abusiva de instalações ou materiais legais de gráficas ou casas da moeda autorizadas para o fabrico de notas e moedas não autorizadas com vista a uma utilização fraudulenta deverá igualmente constituir uma infração penal. Tal utilização abusiva abrange as situações em que um banco central nacional, a casa da moeda ou outra instituição autorizada produz notas ou moedas em quantidades superiores à quota autorizada pelo Banco Central Europeu («BCE»). Esta utilização abusiva abrange igualmente as situações em que um empregado de uma gráfica ou de uma casa da moeda autorizadas utiliza abusivamente as instalações para os seus próprios fins. Essa conduta deverá ser punível como infração penal, mesmo que as quantidades autorizadas não tenham sido ultrapassadas, dado que, depois de colocadas em circulação, é impossível distinguir as notas e moedas contrafeitas das autorizadas.\n\n(12) As notas e as moedas que o BCE ou os bancos centrais nacionais e as casas da moeda ainda não tiverem emitido formalmente deverão igualmente ser abrangidas pela proteção conferida pela presente diretiva. Assim, por exemplo, as moedas de euro com as novas faces nacionais ou as novas séries de notas de euro deverão ser protegidas antes de serem colocadas oficialmente em circulação.\n\n(13) A instigação, a cumplicidade e a tentativa na prática das principais infrações penais de contrafação, incluindo a utilização abusiva de instalações ou de materiais legais, bem como a contrafação de notas e de moedas ainda não emitidas mas destinadas a entrar em circulação, deverão também ser puníveis, sempre que adequado. A presente diretiva não exige que os Estados-Membros sancionem a tentativa de cometer uma infração relacionada com um instrumento ou com um componente para a contrafação.\n\n(14) A intenção deverá fazer parte de todos os elementos constitutivos das infrações penais previstas na presente diretiva.\n\n(15) A contrafação de moeda é tradicionalmente um crime sujeito a uma sanção pesada nos Estados-Membros. Isso deve-se à natureza grave e ao impacto do tipo de crime nos cidadãos e nas empresas, bem como à necessidade de garantir a confiança dos cidadãos e das empresas no caráter genuíno do euro e das outras moedas. Isto é especialmente verdade no que respeita ao euro, a moeda única de mais de 330 milhões de pessoas que vivem na área do euro e a segunda moeda internacional mais importante.\n\n(16) Os Estados-Membros deverão prever sanções penais na sua legislação nacional respeitante às disposições do direito da União em matéria de combate à contrafação de moeda. Essas sanções deverão ser eficazes, proporcionadas e dissuasivas e incluir a pena de prisão. O nível mínimo do limite máximo da pena de prisão prevista na presente diretiva para as infrações penais nela enunciadas deverá ser aplicado, pelo menos, às formas mais graves desses tipos de infrações.\n\n(17) O nível das sanções deverá ser eficaz e dissuasivo, mas não deverá ir além do que seja proporcionado às infrações. Embora a passagem intencional de moeda contrafeita recebida de boa-fé possa, de acordo com a legislação nacional dos Estados-Membros, ser punida com tipos de sanções penais diferentes, incluindo a aplicação de multas, essas legislações nacionais deverão prever a prisão como pena máxima. As penas de prisão aplicáveis às pessoas singulares funcionarão como um poderoso dissuasor de potenciais criminosos em toda a União.\n\n(18) Atendendo a que a presente diretiva estabelece regras mínimas, os Estados-Membros podem manter ou adotar regras mais rigorosas para as infrações penais de contrafação de moeda.\n\n(19) A presente diretiva não prejudica as normas e os princípios gerais do direito penal nacional relativos à aplicação e à execução das penas em conformidade com as circunstâncias concretas de cada caso individual.\n\n(20) Visto que a confiança no caráter genuíno das notas e moedas também pode ser afetada ou posta em risco pela conduta de pessoas coletivas, estas deverão ser responsabilizadas pelas infrações penais cometidas em seu nome.\n\n(21) Para assegurar o êxito da investigação e da ação penal no que respeita a infrações de contrafação de moeda, os responsáveis pela investigação e ação penal relativas a essas infrações deverão ter a possibilidade de recorrer a instrumentos de investigação eficazes, como os utilizados no combate à criminalidade organizada e a outros crimes graves. Esses instrumentos poderão incluir, por exemplo, quando necessário, a interceção de comunicações, a vigilância encoberta, nomeadamente a vigilância eletrónica, a monitorização de contas bancárias e outras investigações financeiras. Tendo em conta, nomeadamente, o princípio da proporcionalidade, a utilização desses instrumentos em conformidade com o direito nacional deverá ser adaptada à natureza e à gravidade das infrações penais investigadas. O direito à proteção dos dados pessoais deverá ser respeitado.\n\n(22) Os Estados-Membros deverão estabelecer a sua competência em conformidade com a Convenção de Genebra e com as disposições em matéria de competência de outras legislações penais da União, ou seja, para as infrações penais cometidas no seu território e para as infrações penais cometidas pelos seus nacionais, devendo porém observar-se que, de um modo geral, o sistema penal do país em que as infrações são cometidas é o mais adequado para as sancionar.\n\n(23) O papel fundamental do euro para a economia e a sociedade da União, bem como a ameaça específica que pesa sobre o euro enquanto moeda de importância mundial, que se manifesta pela existência de um importante número de tipografias situadas em países terceiros, requerem a tomada de medidas adicionais para a sua proteção. Por conseguinte, deverá ser estabelecida a competência para as infrações penais relacionadas com o euro cometidas fora do território de um determinado Estado-Membro, quer o autor da infração se encontre no território desse Estado-Membro e não seja extraditado, quer as notas ou as moedas de euro falsas ou contrafeitas objeto da infração sejam detetadas nesse Estado-Membro. Considerando que é objetivamente diferente a situação dos Estados-Membros cuja moeda é o euro, convém que a obrigação de estabelecer essa competência apenas se aplique a esses Estados-Membros. Para efeitos de instauração de ação penal pelas infrações referidas no artigo 3.º, n.º 1, alínea a), ou no artigo 3.º, n.^os^ 2 e 3, se relacionadas com o n.º 1, alínea a), do mesmo artigo, bem como pela instigação à prática dessas infrações penais, pela cumplicidade na prática das mesmas e pela tentativa de as cometer, a competência judiciária não deverá estar subordinada à condição de tais atos constituírem uma infração penal no local onde foram cometidos. No exercício dessa competência, os Estados-Membros deverão ter em conta o facto de as infrações serem ou não abrangidas pelo sistema de justiça penal do país em que foram cometidas, e deverão respeitar o princípio da proporcionalidade, em especial no que se refere a condenações por um país terceiro pela mesma conduta.\n\n(24) No que respeita ao euro, a análise e a identificação de notas e moedas contrafeitas é centralizada, respetivamente, nos centros nacionais de análise e nos centros nacionais de análise de moedas (CNAM), designados ou instituídos nos termos do Regulamento (CE) n.º 1338/2001. Deverá igualmente ser possível proceder à análise, à identificação e à deteção de notas e moedas de euro falsas ou contrafeitas durante processos judiciais em curso, a fim de acelerar a deteção da fonte de produção de contrafações numa determinada investigação ou num determinado processo penal e para evitar e impedir que esse tipo de contrafações continue em circulação, no devido respeito do princípio de um processo equitativo e eficaz. Tal contribuirá para a eficácia do combate às infrações penais de contrafação e, simultaneamente, aumentará o número de transmissões de contrafações apreendidas durante os processos penais em curso, sob reserva de determinadas exceções, nos casos em que só deva ser disponibilizado o acesso a contrafações. Em geral, as autoridades competentes deverão autorizar a transmissão física das contrafações aos centros nacionais de análise e aos centros nacionais de análise de moedas. Em certas circunstâncias, por exemplo quando os elementos de prova do processo penal são constituídos por apenas um pequeno número de notas ou de moedas contrafeitas ou quando a transmissão física implique um risco de destruição de provas, como as impressões digitais, as autoridades competentes deverão, pelo contrário, poder decidir dar acesso às referidas notas e moedas.\n\n(25) É necessário recolher dados comparáveis sobre as infrações penais previstas na presente diretiva. A fim de obter uma imagem mais fiel do problema da contrafação a nível da União e, deste modo, contribuir para a elaboração de uma resposta mais eficaz, os Estados-Membros deverão transmitir à Comissão dados estatísticos relevantes sobre o número de infrações penais relativas a notas e moedas contrafeitas e o número de pessoas objeto de ação penal e condenadas.\n\n(26) No intuito de prosseguir o objetivo de combater a contrafação de notas e moedas, é oportuno celebrar acordos com países terceiros, em particular com os países que utilizam o euro como moeda, em conformidade com os procedimentos relevantes previstos no Tratado.\n\n(27) A presente diretiva respeita os direitos fundamentais e observa os princípios reconhecidos, nomeadamente, na Carta dos Direitos Fundamentais da União Europeia, em especial o direito à liberdade e à segurança, o direito ao respeito pela vida privada e familiar, a liberdade profissional e o direito de trabalhar, a liberdade de empresa, o direito de propriedade, o direito à ação e a um tribunal imparcial, a presunção de inocência e o direito de defesa, os princípios da legalidade e da proporcionalidade dos delitos e das penas, bem como o direito a não ser julgado ou punido penalmente mais do que uma vez pelo mesmo delito. A presente diretiva procura assegurar o pleno respeito desses direitos e princípios e deverá ser aplicada em conformidade.\n\n(28) A presente diretiva visa alterar e alargar o âmbito das disposições da Decisão-Quadro 2000/383/JAI. Uma vez que as alterações a efetuar são substanciais em número e natureza, a referida decisão-quadro deverá, em prol da clareza, ser integralmente substituída nos Estados-Membros vinculados pela presente diretiva.\n\n(29) Atendendo a que o objetivo da presente diretiva, a saber, proteger o euro e outras moedas contra a contrafação, não pode ser suficientemente alcançado pelos Estados-Membros, mas pode, devido à sua dimensão e aos seus efeitos, ser mais bem alcançado ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia («TUE»). Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente diretiva não excede o necessário para alcançar esse objetivo.\n\n(30) Nos termos dos artigos 1.º e 2.º do Protocolo n.º 22 relativo à posição da Dinamarca, anexo ao TUE e ao Tratado sobre o Funcionamento da União Europeia («TFUE»), a Dinamarca não participa na adoção da presente diretiva e não fica por ela vinculada nem sujeita à sua aplicação.\n\n(31) Nos termos do artigo 3.º do Protocolo n.º 21 relativo à posição do Reino Unido e da Irlanda em relação ao espaço de liberdade, segurança e justiça, anexo ao TUE e ao TFUE, a Irlanda notificou o seu desejo de participar na adoção e na aplicação da presente diretiva.\n\n(32) Nos termos dos artigos 1.º e 2.º e do artigo 4.º-A, n.º 1, do Protocolo n.º 21 relativo à posição do Reino Unido e da Irlanda em relação ao espaço de liberdade, segurança e justiça, anexo ao TUE e ao TFUE, e sem prejuízo do artigo 4.º do referido protocolo, o Reino Unido não participa na adoção da presente diretiva e não fica por ela vinculado nem sujeito à sua aplicação,\n\nADOTARAM A PRESENTE DIRETIVA:"
+  },
+  "cc6772841adf6647": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente diretiva estabelece regras mínimas relativas à definição das infrações penais e das sanções no domínio da contrafação do euro e de outras moedas. Introduz igualmente disposições comuns para reforçar o combate a essas infrações, para melhorar a investigação dessas infrações e para assegurar uma melhor cooperação no combate à contrafação."
+  },
+  "c13eedd20665e810": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente diretiva, entende-se por:\n\na) «Moeda», as notas e moedas que tenham curso legal, incluindo notas e moedas de euro cuja circulação está legalmente autorizada nos termos do Regulamento (CE) n.º 974/98;\n\nb) «Pessoa coletiva», uma entidade que goza de personalidade jurídica nos termos do direito aplicável, com exceção dos Estados ou de entidades de direito público no exercício de prerrogativas de autoridade pública e das organizações internacionais de direito público."
+  },
+  "de3f4e7110db6feb": {
+   "fragment_id": "Artigo 3.º — Infrações penais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Infrações penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Infrações penais\n\n1. Os Estados-Membros devem tomar as medidas necessárias para assegurar que os seguintes atos sejam puníveis como infrações penais, quando cometidos intencionalmente:\n\na) O fabrico ou alteração fraudulentos de moeda, independentemente dos meios utilizados;\n\nb) A colocação fraudulenta em circulação de moeda contrafeita;\n\nc) A importação, a exportação, o transporte, a receção ou a obtenção de moeda contrafeita a fim de a pôr em circulação com conhecimento de que a mesma é contrafeita;\n\nd) O fabrico, a receção, a obtenção ou a posse fraudulentos de: i) instrumentos, objetos, programas e dados informáticos, bem como de quaisquer outros meios que se prestem, pela sua natureza, à contrafação ou alteração de moeda, ou ii) elementos de segurança, como hologramas, marcas de água ou outros elementos da moeda que sirvam de proteção contra a contrafação.\n\ni) instrumentos, objetos, programas e dados informáticos, bem como de quaisquer outros meios que se prestem, pela sua natureza, à contrafação ou alteração de moeda, ou\n\nii) elementos de segurança, como hologramas, marcas de água ou outros elementos da moeda que sirvam de proteção contra a contrafação.\n\n2. Os Estados-Membros devem tomar as medidas necessárias para garantir que os atos referidos no n.º 1, alíneas a), b) e c), também sejam puníveis no caso de terem por objeto notas ou moedas que estejam a ser fabricadas, ou que o tenham sido, através da utilização de instalações ou de materiais legais em violação dos direitos ou das condições em que as autoridades competentes podem emitir notas ou moedas.\n\n3. Os Estados-Membros devem tomar as medidas necessárias para garantir que os atos referidos nos n.^os^ 1 e 2 também sejam puníveis no caso de terem por objeto notas e moedas ainda não emitidas, mas que se destinam a entrar em circulação com curso legal."
+  },
+  "78e0c925c51cd6ed": {
+   "fragment_id": "Artigo 4.º — Instigação, cumplicidade e tentativa",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Instigação, cumplicidade e tentativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Instigação, cumplicidade e tentativa\n\n1. Os Estados-Membros devem tomar as medidas necessárias para que o facto de instigar ou ajudar a cometer uma infração referida no artigo 3.º seja punível como infração penal.\n\n2. Os Estados-Membros devem tomar as medidas necessárias para assegurar que a tentativa de cometer qualquer das infrações penais referidas no artigo 3.º, n.º 1, alíneas a), b) ou c), ou no artigo 3.º, n.^os^ 2 ou 3, que estejam relacionadas com os atos referidos no artigo 3.º, n.º 1, alíneas a), b) ou c), seja punível como infração penal."
+  },
+  "c9f45523c7cdb042": {
+   "fragment_id": "Artigo 5.º — Sanções aplicáveis às pessoas singulares",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Sanções aplicáveis às pessoas singulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sanções aplicáveis às pessoas singulares\n\n1. Os Estados-Membros devem tomar as medidas necessárias para assegurar que os atos referidos nos artigos 3.º e 4.º sejam puníveis com sanções penais efetivas, proporcionadas e dissuasivas.\n\n2. Os Estados-Membros devem tomar as medidas necessárias para garantir que as infrações referidas no artigo 3.º, n.º 1, alínea d), as infrações referidas no artigo 3.º, n.º 2, e as infrações referidas no artigo 3.º, n.º 3, que estejam relacionadas com os atos referidos no artigo 3.º, n.º 1, alínea d), sejam puníveis com uma sanção máxima que implique a prisão.\n\n3. Os Estados-Membros devem tomar as medidas necessárias para garantir que as infrações referidas no artigo 3.º, n.º 1, alínea a), e no artigo 3.º, n.º 3, que estejam relacionadas com os atos referidos no artigo 3.º, n.º 1, alínea a), sejam puníveis com uma pena de prisão cujo limite máximo seja de, pelo menos, oito anos.\n\n4. Os Estados-Membros devem tomar as medidas necessárias para garantir que as infrações referidas no artigo 3.º, n.º 1, alíneas b) e c), e no artigo 3.º, n.º 3, que estejam relacionadas com os atos referidos no artigo 3.º, n.º 1, alíneas b) e c), sejam puníveis com uma pena de prisão cujo limite máximo seja de, pelo menos, cinco anos.\n\n5. No que respeita à infração referida no artigo 3.º, n.º 1, alínea b), os Estados-Membros podem prever sanções penais efetivas, proporcionadas e dissuasivas diferentes da referida no n.º 4 do presente artigo, incluindo multas e penas de prisão, se as notas ou moedas contrafeitas tiverem sido recebidas sem conhecimento de que são contrafeitas, mas passadas com conhecimento da contrafação."
+  },
+  "69f18b7fc6d73131": {
+   "fragment_id": "Artigo 6.º — Responsabilidade das pessoas coletivas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Responsabilidade das pessoas coletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Responsabilidade das pessoas coletivas\n\n1. Os Estados-Membros devem tomar as medidas necessárias para garantir que as pessoas coletivas possam ser consideradas responsáveis pelas infrações referidas nos artigos 3.º e 4.º, cometidas em seu benefício por qualquer pessoa, agindo a título individual ou na qualidade de membro de um órgão da pessoa coletiva, que nela exerça um cargo de direção, com base nos seguintes elementos:\n\na) Poder de representação da pessoa coletiva;\n\nb) Autoridade para tomar decisões em nome da pessoa coletiva; ou\n\nc) Autoridade para exercer o controlo nessa pessoa coletiva.\n\n2. Os Estados-Membros devem garantir que uma pessoa coletiva possa ser responsabilizada sempre que a falta de vigilância ou de controlo pela pessoa a que se refere o n.º 1 do presente artigo tenha possibilitado a prática de uma infração referida nos artigos 3.º e 4.º em benefício dessa pessoa coletiva, por uma pessoa sob a sua autoridade.\n\n3. A responsabilidade de uma pessoa coletiva nos termos dos n.^os^ 1 e 2 do presente artigo não exclui o procedimento penal contra as pessoas singulares autoras, instigadoras ou cúmplices de uma infração referida nos artigos 3.º e 4.º."
+  },
+  "bbffbeb2fcf81760": {
+   "fragment_id": "Artigo 7.º — Sanções aplicáveis a pessoas coletivas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Sanções aplicáveis a pessoas coletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sanções aplicáveis a pessoas coletivas\n\nOs Estados-Membros devem tomar as medidas necessárias para assegurar que uma pessoa coletiva declarada responsável por força do artigo 6.º seja punível com sanções efetivas, proporcionadas e dissuasivas que incluam multas ou coimas e, eventualmente, outras sanções, nomeadamente:\n\na) Exclusão do benefício de vantagens ou ajudas públicas;\n\nb) Proibição temporária ou permanente de exercício de atividades comerciais;\n\nc) Sujeição a controlo judiciário;\n\nd) Medida judiciária de liquidação;\n\ne) Encerramento temporário ou permanente dos estabelecimentos utilizados para cometer a infração."
+  },
+  "730a0001372f8bc1": {
+   "fragment_id": "Artigo 8.º — Competência",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência\n\n1. Cada Estado-Membro deve tomar as medidas necessárias para estabelecer a sua competência em relação às infrações referidas nos artigos 3.º e 4.º, caso:\n\na) A infração tenha sido cometida, no todo ou em parte, no seu território; ou\n\nb) O autor da infração seja um seu nacional.\n\n2. Cada Estado-Membro cuja moeda é o euro deve tomar as medidas necessárias para estabelecer a sua competência em relação às infrações referidas nos artigos 3.º e 4.º cometidas fora do seu território, pelo menos nos casos em que essas infrações digam respeito ao euro e caso:\n\na) O autor da infração se encontre no território desse Estado-Membro e não seja extraditado; ou\n\nb) As notas ou moedas de euro contrafeitas objeto da infração tenham sido detetadas no território desse Estado-Membro.\n\nPara a instauração de um processo penal pelas infrações referidas no artigo 3.º, n.º 1, alínea a), no artigo 3.º, n.^os^ 2 e 3, quando relacionadas com o artigo 3.º, n.º 1, alínea a), bem como pela instigação à sua prática, pela cumplicidade na sua prática e pela tentativa de cometer uma dessas infrações, cada Estado-Membro deve tomar as medidas necessárias para garantir que a sua competência não esteja subordinada à condição de tais atos constituírem uma infração penal no local em que foram cometidos."
+  },
+  "52774e9041529197": {
+   "fragment_id": "Artigo 9.º — Instrumentos de investigação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Instrumentos de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Instrumentos de investigação\n\nOs Estados-Membros devem tomar as medidas necessárias para garantir que estejam à disposição das pessoas, das unidades ou dos serviços responsáveis por investigar ou por instaurar ações penais relativas às infrações penais referidas nos artigos 3.º e 4.º instrumentos de investigação eficazes, tais como os utilizados nos casos de criminalidade organizada ou de outros crimes graves."
+  },
+  "beeb2d2d2aefb52a": {
+   "fragment_id": "Artigo 10.º — Obrigação de transmissão das notas e moedas de euro contrafeitas para efeitos de análise e deteção de contrafações",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Obrigação de transmissão das notas e moedas de euro contrafeitas para efeitos de análise e deteção de contrafações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigação de transmissão das notas e moedas de euro contrafeitas para efeitos de análise e deteção de contrafações\n\nOs Estados-Membros devem garantir que, durante o processo penal, o centro nacional de análise e o centro nacional de análise de moeda sejam autorizados a examinar sem demora as notas e moedas de euro que se suspeite serem contrafeitas para efeitos de análise, identificação e deteção de outras contrafações. As autoridades competentes devem transmitir sem demora as amostras necessárias, e o mais tardar logo que seja proferida uma decisão final no processo penal."
+  },
+  "85e825a3112de2d6": {
+   "fragment_id": "Artigo 11.º — Estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estatísticas\n\nOs Estados-Membros devem transmitir à Comissão, pelo menos de dois em dois anos, dados sobre o número de infrações previstas nos artigos 3.º e 4.º e o número de pessoas objeto de ação penal e condenadas por essas infrações."
+  },
+  "d9f83a66517e0af3": {
+   "fragment_id": "Artigo 12.º — Relatórios da Comissão e revisão",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Relatórios da Comissão e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Relatórios da Comissão e revisão\n\nAté 23 de maio de 2019, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a aplicação da presente diretiva. O relatório avalia em que medida os Estados-Membros tomaram as medidas necessárias para dar cumprimento à presente diretiva. O relatório é acompanhado, se necessário, de uma proposta legislativa."
+  },
+  "77027220a81a8be6": {
+   "fragment_id": "Artigo 13.º — Substituição da Decisão-Quadro 2000/383/JAI",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Substituição da Decisão-Quadro 2000/383/JAI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Substituição da Decisão-Quadro 2000/383/JAI\n\nA Decisão-Quadro 2000/383/JAI é substituída no que diz respeito aos Estados-Membros vinculados pela presente diretiva, sem prejuízo das obrigações desses Estados-Membros relativas ao prazo de transposição da Decisão-Quadro 2000/383/JAI para o seu ordenamento jurídico nacional.\n\nNo que diz respeito aos Estados-Membros vinculados pela presente diretiva, as referências à Decisão-Quadro 2000/383/JAI são entendidas como referências à presente diretiva."
+  },
+  "85d959dba0185f64": {
+   "fragment_id": "Artigo 14.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transposição\n\n1. Os Estados-Membros põem em vigor até 23 de maio de 2016 as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Do facto informam imediatamente a Comissão.\n\nAs disposições adotadas pelos Estados-Membros incluem uma referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são estabelecidas pelos Estados-Membros.\n\n2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito nacional tiverem aprovado nas matérias reguladas pela presente diretiva."
+  },
+  "61076ebb10c1d7ed": {
+   "fragment_id": "Artigo 15.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente diretiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia.*"
+  },
+  "c3785c5575d1e0f8": {
+   "fragment_id": "Artigo 16.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros, nos termos dos Tratados.\n\nFeito em Bruxelas, em 15 de maio de 2014.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**M. SCHULZ**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**D. KOURKOULAS**\n\n---"
+  },
+  "16551f0bff275ab9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntc1-L_2014151PT.01000101-E0001) [JO C 179 de 25.6.2013, p. 9](http://publications.europa.eu/resource/oj/JOC_2013_179_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntc2-L_2014151PT.01000101-E0002) [JO C 271 de 19.9.2013, p. 42](http://publications.europa.eu/resource/oj/JOC_2013_271_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntc3-L_2014151PT.01000101-E0003) Posição do Parlamento Europeu de 16 de abril de 2014 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 6 de maio de 2014.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntc4-L_2014151PT.01000101-E0004) Regulamento (CE) n.º 974/98 do Conselho, de 3 de maio de 1998, relativo à introdução do euro ([JO L 139 de 11.5.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_139_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntc5-L_2014151PT.01000101-E0005) Regulamento (CE) n.º 1338/2001 do Conselho, de 28 de junho de 2001, que define medidas necessárias à proteção do euro contra a falsificação ([JO L 181 de 4.7.2001, p. 6](http://publications.europa.eu/resource/oj/JOL_2001_181_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntc6-L_2014151PT.01000101-E0006) Regulamento (CE) n.º 1339/2001 do Conselho, de 28 de junho de 2001, que torna extensivos os efeitos do Regulamento (CE) n.º 1338/2001, que define medidas necessárias para a proteção do euro contra a falsificação, aos Estados-Membros que não tiverem adotado o euro como moeda única ([JO L 181 de 4.7.2001, p. 11](http://publications.europa.eu/resource/oj/JOL_2001_181_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntc7-L_2014151PT.01000101-E0007) N.º 2623, p. 372. Coletânea de Tratados da Sociedade das Nações 1931.\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/7fac78ae-ea66-11e3-8cd4-01aa75ed71a1.0018.02/DOC_1#ntc8-L_2014151PT.01000101-E0008) Decisão-Quadro 2000/383/JAI do Conselho, de 29 de maio de 2000, sobre o reforço da proteção contra a contrafação de moeda na perspetiva da introdução do euro, através de sanções penais e outras ([JO L 140 de 14.6.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_140_R_TOC))."
+  },
+  "e6f4a0b4c21e5fa3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de maio de 2014\n\nrelativa à proteção penal do euro e de outras moedas contra a contrafação e que substitui a Decisão-Quadro 2000/383/JAI do Conselho"
+  },
+  "ac390d6366708f70": {
+   "fragment_id": "Artigo 3.º — Infrações penais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Infrações penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Infrações penais\n\n1.\n\nOs Estados-Membros devem tomar as medidas necessárias para assegurar que os seguintes atos sejam puníveis como infrações penais, quando cometidos intencionalmente:\n\na) O fabrico ou alteração fraudulentos de moeda, independentemente dos meios utilizados;\n\nb) A colocação fraudulenta em circulação de moeda contrafeita;\n\nc) A importação, a exportação, o transporte, a receção ou a obtenção de moeda contrafeita a fim de a pôr em circulação com conhecimento de que a mesma é contrafeita;\n\nd) O fabrico, a receção, a obtenção ou a posse fraudulentos de:\n\ni) instrumentos, objetos, programas e dados informáticos, bem como de quaisquer outros meios que se prestem, pela sua natureza, à contrafação ou alteração de moeda, ou\n\nii) elementos de segurança, como hologramas, marcas de água ou outros elementos da moeda que sirvam de proteção contra a contrafação.\n\n2. Os Estados-Membros devem tomar as medidas necessárias para garantir que os atos referidos no n.º 1, alíneas a), b) e c), também sejam puníveis no caso de terem por objeto notas ou moedas que estejam a ser fabricadas, ou que o tenham sido, através da utilização de instalações ou de materiais legais em violação dos direitos ou das condições em que as autoridades competentes podem emitir notas ou moedas.\n\n3. Os Estados-Membros devem tomar as medidas necessárias para garantir que os atos referidos nos n.^os^ 1 e 2 também sejam puníveis no caso de terem por objeto notas e moedas ainda não emitidas, mas que se destinam a entrar em circulação com curso legal."
+  },
+  "2cd6be802afddd79": {
+   "fragment_id": "Artigo 6.º — Responsabilidade das pessoas coletivas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Responsabilidade das pessoas coletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Responsabilidade das pessoas coletivas\n\n1.\n\nOs Estados-Membros devem tomar as medidas necessárias para garantir que as pessoas coletivas possam ser consideradas responsáveis pelas infrações referidas nos artigos 3.º e 4.º, cometidas em seu benefício por qualquer pessoa, agindo a título individual ou na qualidade de membro de um órgão da pessoa coletiva, que nela exerça um cargo de direção, com base nos seguintes elementos:\n\na) Poder de representação da pessoa coletiva;\n\nb) Autoridade para tomar decisões em nome da pessoa coletiva; ou\n\nc) Autoridade para exercer o controlo nessa pessoa coletiva.\n\n2. Os Estados-Membros devem garantir que uma pessoa coletiva possa ser responsabilizada sempre que a falta de vigilância ou de controlo pela pessoa a que se refere o n.º 1 do presente artigo tenha possibilitado a prática de uma infração referida nos artigos 3.º e 4.º em benefício dessa pessoa coletiva, por uma pessoa sob a sua autoridade.\n\n3. A responsabilidade de uma pessoa coletiva nos termos dos n.^os^ 1 e 2 do presente artigo não exclui o procedimento penal contra as pessoas singulares autoras, instigadoras ou cúmplices de uma infração referida nos artigos 3.º e 4.º."
+  },
+  "b3f3bc1648105cf2": {
+   "fragment_id": "Artigo 8.º — Competência",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência\n\n1.\n\nCada Estado-Membro deve tomar as medidas necessárias para estabelecer a sua competência em relação às infrações referidas nos artigos 3.º e 4.º, caso:\n\na) A infração tenha sido cometida, no todo ou em parte, no seu território; ou\n\nb) O autor da infração seja um seu nacional.\n\n2.\n\nCada Estado-Membro cuja moeda é o euro deve tomar as medidas necessárias para estabelecer a sua competência em relação às infrações referidas nos artigos 3.º e 4.º cometidas fora do seu território, pelo menos nos casos em que essas infrações digam respeito ao euro e caso:\n\na) O autor da infração se encontre no território desse Estado-Membro e não seja extraditado; ou\n\nb) As notas ou moedas de euro contrafeitas objeto da infração tenham sido detetadas no território desse Estado-Membro.\n\nPara a instauração de um processo penal pelas infrações referidas no artigo 3.º, n.º 1, alínea a), no artigo 3.º, n.^os^ 2 e 3, quando relacionadas com o artigo 3.º, n.º 1, alínea a), bem como pela instigação à sua prática, pela cumplicidade na sua prática e pela tentativa de cometer uma dessas infrações, cada Estado-Membro deve tomar as medidas necessárias para garantir que a sua competência não esteja subordinada à condição de tais atos constituírem uma infração penal no local em que foram cometidos."
+  },
+  "54a5af4cb6ff1bfd": {
+   "fragment_id": "Artigo 16.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros, nos termos dos Tratados."
+  }
+ }
+}

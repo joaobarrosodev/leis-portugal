@@ -1,0 +1,571 @@
+---
+schema_version: '1.0'
+id: pt:dre:662893:por
+title: Decreto-Lei n.º 64/87
+short_title: null
+summary: Aprova a Lei Orgânica da Inspecção-Geral da Administração do Território (IGAT)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Plano e da Administração do Território
+proposing_entity: null
+official_number: 64/87
+official_date: null
+publication_date: '1987-02-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 31/1987, Série I de 1987-02-06
+  number: '31'
+  series: I
+  supplement: null
+  pages: 475 - 480
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/02/03100/04750480.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '662893'
+  dre_path: /dr/detalhe/decreto-lei/64-1987-662893
+  internal: pt:dre:662893:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1987-662893
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1987-662893
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:23:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 173703706ffefe197012b9c5e7ebed8939d6adc2559b97bfdba826801137a630
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:23:22Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Inspecção Geral da Administração do Território
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:398495:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:614669:por
+  label: Alterados os arts. 13º, 20º, 26º, 27º e 28º e aditado o art. 26º-A pelo DEC LEI.99/89.29.03.1989.MPAT, DR.IS [73]
+    de 29.03.1989, que substituiu, pelos seus anexos I, II e III, os anexos I e II do presente diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1989-614669
+  date: '1989-03-29'
+- type: amended_by
+  target: pt:dre:516267:por
+  label: Alterados os arts. 3º e 10º pelo DEC LEI.121-A/90.12.04.1990.MPLAT, DR.IS [86-Supl] de 12.04.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/121-a-1990-516267
+  date: '1990-04-12'
+- type: amended_by
+  target: pt:dre:375435:por
+  label: "Alterado o art. 28º (com a redacção constante do Dec Lei 99/89 de 29-Mar) pelo DEC LEI.242/93.08.07.1993.MPLAT,\
+    \ DR.IS-A [158] de 08.07.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-1993-375435
+  date: '1993-07-08'
+- type: amended_by
+  target: pt:dre:534795:por
+  label: "Prevista a sua fusão com a Inspecção-Geral das Obras Públicas Transportes e Comunicações, pelo DEC LEI.23/96.1996.03.20.PCM\
+    \ DR.IS-A [68]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-1996-534795
+  date: '1996-03-20'
+- type: amended_by
+  target: pt:dre:692200:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros, da Inspecção-Geral das Administração do Território\
+    \ (integrada no Ministério do Equipamento do Planeamento e da Administração do Território pelo Dec Lei 23/96, de 20-Mar),\
+    \ cuja Lei Orgânica foi aprovada pelo presente diploma, pelo DEC LEI.474-A/99.1999.11.08.PCM DR.IS-A [260]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/474-a-1999-692200
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:508819:por
+  label: "Alterada a estrutura salarial da carreira técnica superior de inspecção pelo DR.5/2000.2000.02.10.PCM DR.IS-B [73]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/5-2000-508819
+  date: '2000-02-10'
+- type: amended_by
+  target: pt:dre:276467:por
+  label: "Transferida a Inspecção-Geral da Administração do Território da Presidência do Conselho de Ministros para o Ministério\
+    \ do Ambiente e do Ordenamento do Território, pelo DEC LEI.267-A/2000.2000.10.20.PCM DR.IS-A [243]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/267-a-2000-276467
+  date: '2000-10-20'
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para o Ministério das Cidades, Administração Local, Habitação e Desenvolvimento Regional\
+    \ da Inspecção-Geral da Administração do Território (integrada no agora extinto Ministério das Cidades, Ordenamento do\
+    \ Território e Ambiente), pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros, da Inspecção-Geral cuja orgânica foi aprovada\
+    \ no presente diploma, colocando-a na dependência do Ministro de Estado e da Administração Interna, e sendo a competência\
+    \ relativa à definição das orientações estratégicas no domínio do ordenamento do território e do ambiente, bem como o\
+    \ acompanhamento da sua execução, exercida pelo Ministro de Estado e da Administração Interna em articulação com o Ministro\
+    \ do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A\
+    \ [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:545641:por
+  label: "Determinada a reestruturação da Inspecção-Geral da Administração do Território, cuja orgânica foi aprovada no presente\
+    \ diploma, pelo DEC LEI.202/2006.27.10.2006.PCM, DR.IS [208] de 27.10.2006, passando a designar-se Inspecção-Geral da\
+    \ Administração Local, nos termos dos seus artigos 32.º e 33.º\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/202-2006-545641
+  date: '2006-10-27'
+- type: cites
+  target: pt:dre:229097:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:398495:por
+  label: "Revogado, a partir de 01.10.2007, pelo DEC LEI.326-A/2007.28.09.2007.PCM, DR.IS [188]Supl de 28.09.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/326-a-2007-398495
+  date: '2007-09-28'
+article_structure:
+  article_count: 30
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:23:22Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 64/87
+
+de 6 de Fevereiro
+
+No quadro orgânico do Ministério do Plano e da Administração do Território (MPAT) foi criada a Inspecção-Geral da Administração do Território (IGAT), cuja regulamentação constitui o objecto deste diploma.
+
+Sucede este novo organismo à antiga Inspecção-Geral da Administração Interna, no exercício da tutela inspectiva do Governo sobre as autarquias locais, sendo-lhe conferido um âmbito de acção mais vasto. Efectivamente, comete-se à IGAT um novo domínio de actuação, qual seja o da acção inspectiva sobre os serviços do MPAT, adequando-se a sua orgânica interna à conveniente prossecução das suas atribuições.
+
+Para além de um serviço de estudos, de âmbito horizontal e vocacionado para funções gerais e de apoio às demais unidades ora criadas, é a IGAT estruturada em dois serviços de inspecções, um projectado para a administração autárquica e outro visando os serviços do Ministério. Importa, pois, anotar que o Ministério não cura apenas da legalidade da actuação das autarquias; alarga o âmbito da acção inspectiva sobre os próprios serviços, assumindo a sua quota-parte na tarefa de reforço da legalidade e dignificação da Administração Pública.
+
+Assim:
+
+Tendo em vista o n.º 1 do artigo 75.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Inspecção-Geral da Administração do Território, abreviadamente designada IGAT, é o organismo de exercício da tutela inspectiva do Governo sobre as autarquias locais e de fiscalização superior do Ministério do Plano e da Administração do Território (MPAT).
+
+###### Artigo 2.º — Âmbito e actuação
+
+1 - A IGAT desenvolve a sua actividade junto dos órgãos e serviços das autarquias locais do continente, ou delas dependentes, e junto dos órgãos e serviços centrais e desconcentrados do MPAT, ou sob sua tutela.
+
+2 - A IGAT poderá prestar a colaboração solicitada pelos órgãos das regiões autónomas no exercício dos poderes de tutela que estes detêm sobre as autarquias locais.
+
+###### Artigo 3.º — Atribuições
+
+São atribuições da IGAT:
+
+a) Averiguar do cumprimento das obrigações impostas por lei às autarquias locais e suas associações e federações, bem como aos órgãos e serviços dependentes do Ministério, ou sob tutela do Ministro;
+
+b) Proceder às visitas de inspecção previstas no respectivo plano, ou que sejam superiormente determinadas, elaborando relatórios informativos;
+
+c) Dar conhecimento aos responsáveis pelos serviços das autarquias das deficiências e irregularidades encontradas no decurso das visitas de inspecção e prestar-lhes os esclarecimentos necessários com vista ao seu suprimento;
+
+d) Prestar à Direcção-Geral da Administração Autárquica (DGAA) a colaboração solicitada na definição das carências de formação do pessoal das autarquias;
+
+e) Estudar e propor, em colaboração com os serviços competentes do Ministério das Finanças, medidas que visem uma maior eficiência do exercício da tutela inspectiva do Governo sobre as autarquias;
+
+f) Proceder a visitas de inspecção aos serviços do Ministério, elaborando relatórios informativos e propondo medidas tendentes à eliminação das deficiências e irregularidades encontradas;
+
+g) Remeter cópia dos relatórios elaborados em resultado das visitas de inspecção aos serviços do Ministério com competência própria nas matérias neles versadas;
+
+h) Proceder a inquéritos e sindicâncias aos órgãos e serviços das autarquias locais e suas associações e federações, bem como aos dependentes do Ministério;
+
+i) Propor e, se necessário, instruir processos disciplinares resultantes da sua actividade inspectiva, bem como instruir os que lhe forem superiormente determinados;
+
+j) Constituir e manter um centro de informação bibliográfica e documental para estudo e consulta dos funcionários;
+
+l) Colaborar com a DGAA e as comissões de coordenação regional na realização de colóquios, conferências e outras acções de formação e reciclagem;
+
+m) Elaborar estudos relativos à temática das suas atribuições.
+
+###### Artigo 4.º — Direcção
+
+1 - A IGAT é dirigida por um inspector-geral, coadjuvado por dois subinspectores-gerais, equiparados, respectivamente, a director-geral e a subdirectores-gerais.
+
+2 - O inspector-geral é substituído nas suas faltas e impedimentos pelo subinspector-geral por ele designado e os subinspectores-gerais substituem-se reciprocamente.
+
+###### Artigo 5.º — Competência do inspector-geral
+
+1 - Compete ao inspector-geral orientar e coordenar superiormente a IGAT.
+
+2 - Compete, em especial, ao inspector-geral:
+
+a) Representar a IGAT;
+
+b) Expedir as ordens de serviços e as instruções que julgar convenientes;
+
+c) Elaborar e apresentar superiormente, até 31 de Março, o relatório anual da actividade da IGAT;
+
+d) Elaborar e harmonizar os planos anuais gerais das inspecções propostas pelos Serviços de Inspecção e submetê-los a aprovação superior;
+
+e) Propor superiormente a adopção dos modelos de questionário a que alude o n.º 3 do artigo 15.º e das normas sobre organização dos processos elaborados pela Direcção de Serviços de Estudos;
+
+f) Distribuir pelos inspectores os inquéritos e sindicâncias, bem como a instrução dos processos disciplinares, mandados instaurar superiormente;
+
+g) Submeter a apreciação superior os processos de inspecção acompanhados dos pareceres emitidos sobre cada um;
+
+h) Propor a realização de inquéritos ou sindicâncias, designadamente em resultado das visitas de inspecção;
+
+i) Fixar e prorrogar os prazos para a conclusão dos serviços e apresentação dos relatórios;
+
+j) Propor o provimento dos lugares vagos no quadro da IGAT;
+
+l) Tomar o compromisso de honra e conferir posse aos subinspectores-gerais, director de Serviços de Estudos, inspectores e funcionários da Repartição Administrativa (RA);
+
+m) Executar e fazer executar as disposições legais relativas à organização e ao funcionamento da IGAT;
+
+n) Emitir as informações e pareceres que lhe forem solicitados pelo ministro da tutela;
+
+o) Exercer as funções que lhe sejam conferidas por lei e as que, devendo ser prosseguidas pela IGAT, não pertençam a outros órgãos.
+
+###### Artigo 6.º — Estrutura geral
+
+1 - A IGAT compreende os seguintes serviços:
+
+a) Serviço de Inspecção às Autarquias (SIA);
+
+b) Serviço de Inspecção ao Ministério (SIM);
+
+c) Direcção de Serviços de Estudos (DSE).
+
+2 - Directamente dependente do inspector-geral funciona a RA.
+
+###### Artigo 7.º — Constituição e direcção do Serviço de Inspecção às Autarquias
+
+1 - O SIA é constituído pelos inspectores incumbidos da realização de serviço inspectivo junto das autarquias locais.
+
+2 - O SIA é dirigido por um subinspector-geral, que é coadjuvado por inspectores, rotativamente designados por despacho do inspector-geral, sob proposta daquele, por períodos de dois anos.
+
+3 - Os inspectores referidos no número anterior, enquanto exercerem as funções ali aludidas, ficam dispensados da realização de inspecções, inquéritos e sindicâncias.
+
+###### Artigo 8.º — Competência do Serviço de Inspecção às Autarquias
+
+1 - Compete ao SIA:
+
+a) Realizar as inspecções previstas no respectivo plano anual ou que sejam superiormente determinadas;
+
+b) Proceder a inquéritos e sindicâncias aos órgãos e serviços das autarquias locais e suas associações e federações;
+
+c) Prestar localmente aos funcionários e agentes os esclarecimentos necessários para o suprimento das deficiências e irregularidades encontradas;
+
+d) Propor e, se necessário, instruir processos disciplinares resultantes da sua actividade inspectiva, bem como instruir os que lhe forem superiormente determinados;
+
+e) Propor o modelo de questionário de inspecção às autarquias locais e as normas e procedimentos técnicos a adoptar na organização dos processos de inspecção, de inquérito e de sindicância.
+
+2 - A competência referida nos números anteriores não inclui as competências específicas que a lei prevê para a Inspecção-Geral de Finanças (IGF).
+
+###### Artigo 9.º — Constituição e direcção do Serviço de Inspecção ao Ministério
+
+1 - O SIM é constituído pelos inspectores incumbidos da realização de serviço inspectivo junto dos serviços do Ministério.
+
+2 - O SIM é dirigido por um subinspector-geral, que é coadjuvado por inspectores, rotativamente designados por despacho do inspector-geral, sob proposta daquele, por períodos de dois anos.
+
+3 - Os inspectores referidos no número anterior, enquanto exercerem as funções ali aludidas, ficam dispensados da realização de inspecções, inquéritos e sindicâncias.
+
+###### Artigo 10.º — Competência do Serviço de Inspecção ao Ministério
+
+Compete ao SIM:
+
+a) Realizar inspecções, inquéritos e sindicâncias aos serviços centrais e regionais do Ministério, designadamente aos serviços administrativos, de contabilidade, orçamento e tesouraria neles instalados;
+
+b) Analisar o cumprimento das disposições legais e regulamentares, das instruções superiores e dos programas aprovados por parte dos serviços;
+
+c) Efectuar, de forma sistemática, a auditoria das empresas públicas sob tutela do Ministro, emitindo parecer sobre a respectiva gestão económico-financeira;
+
+d) Apreciar e dar parecer sobre o grau de eficácia e aptidão dos serviços inspeccionados e dos respectivos agentes;
+
+e) Prestar localmente aos funcionários os esclarecimentos necessários para o suprimento das deficiências e irregularidades encontradas;
+
+f) Propor e, se necessário, instruir processos disciplinares resultantes da sua actividade inspectiva, bem como instruir os que lhe forem superiormente determinados;
+
+g) Propor o modelo de questionário de inspecção a realizar aos serviços indicados na alínea a) e as normas e procedimentos técnicos a adoptar na organização dos processos de inspecção, de inquérito e de sindicância.
+
+###### Artigo 11.º — Constituição da Direcção de Serviços de Estudos
+
+A DSE é constituída por técnicos superiores ou inspectores incumbidos da realização das funções de apoio, informações e estudo das acções que competem à IGAT.
+
+###### Artigo 12.º — Competência da Direcção de Serviços de Estudos
+
+Compete à DSE:
+
+a) Efectuar estudos sobre matérias compreendidas nas atribuições da IGAT;
+
+b) Prestar apoio científico e técnico no domínio das acções a prosseguir pela IGAT;
+
+c) Emitir os pareceres que lhe forem superiormente solicitados;
+
+d) Proceder à análise dos relatórios das inspecções, com vista à recolha e tratamento de dados com interesse para o apoio a prestar à actividade da IGAT;
+
+e) Elaborar, sob proposta dos Serviços de Inspecção, o questionário a que alude o n.º 3 do artigo 15.º e as normas e procedimentos técnicos a adoptar na organização dos processos de inspecção, de inquérito e de sindicância, e manter regularmente a sua actualização;
+
+f) Promover a realização de seminários, colóquios, conferências, designadamente em colaboração com a DGAA;
+
+g) Promover, periodicamente, a realização de cursos de formação específica e de reciclagem e outras acções de idêntica natureza dos inspectores, técnicos superiores e pessoal administrativo da IGAT e dar idêntica colaboração à DGAA no âmbito das suas atribuições;
+
+h) Proceder à instalação, organização e manutenção da biblioteca e de um banco de dados e informações para apoio documental e técnico da actividade em geral da IGAT;
+
+i) Assegurar a publicação e difusão de estudos promovidos pela DSE sempre que de reconhecida qualidade;
+
+j) Seleccionar, classificar e arquivar notícias e comentários com interesse para a actividade da IGAT, bem como proceder à análise do respectivo conteúdo;
+
+l) Assegurar as relações entre a IGAT e os meios de comunicação social, nos termos e dentro dos limites estabelecidos no presente diploma e demais legislação aplicável.
+
+###### Artigo 13.º — Direcção, constituição e competência da Repartição Administrativa
+
+1 - A RA, que funciona na dependência directa do inspector-geral, compreende uma secção de processos e é dirigida por um chefe de repartição, coadjuvado pelo chefe de secção.
+
+2 - Compete à RA:
+
+a) Assegurar o funcionamento dos serviços administrativos e executar o expediente que não seja da competência da Secção de Processos;
+
+b) Registar os documentos dirigidos à IGAT, as ordens de serviço, os pareceres da DSE e os relatórios e despachos do inspector-geral e dos subinspectores-gerais;
+
+c) Promover e executar, em ligação com a Secretaria-Geral do Ministério, as acções relativas à administração do pessoal da IGAT;
+
+d) Proceder à organização do orçamento e da contabilidade e preparar o expediente a eles respeitante;
+
+e) Desempenhar quaisquer outras funções conferidas por lei ou por determinação do inspector-geral.
+
+3 - Compete, em especial, à Secção de Processos:
+
+a) Escriturar o livro de registos de processos e registar os pareceres dos inspectores;
+
+b) Desempenhar todos os serviços relativos à movimentação dos processos da competência da IGAT;
+
+c) Praticar outros actos de expediente por determinação do inspector-geral.
+
+###### Artigo 14.º — Colaboração com a Inspecção-Geral de Finanças e a Alta Autoridade contra a Corrupção (AACC)
+
+1 - A actuação da IGAT deverá ser coordenada com a da IGF pelos respectivos inspectores-gerais, designadamente na elaboração dos planos anuais de actividade e na constituição de equipas mistas de inspecção às autarquias locais.
+
+2 - Sem prejuízo do cumprimento do seu plano anual de inspecções, deve a IGAT prestar ao serviço da AACC a colaboração e informações que lhe forem solicitadas, no domínio das suas atribuições.
+
+###### Artigo 15.º — Planos anuais e questionário
+
+1 - As visitas de inspecção serão realizadas mediante planos anuais, elaborados pelo inspector-geral e aprovados pelo Ministro.
+
+2 - Nos planos anuais de inspecções às autarquias locais deve prever-se a realização de, pelo menos, uma inspecção a cada município, no período normal de cada mandato.
+
+3 - As visitas de inspecção deverão guiar-se por um questionário sistemático que abranja os aspectos essenciais da averiguação, o qual deve ser divulgado junto dos órgãos e serviços cuja actividade é objecto da acção inspectiva.
+
+###### Artigo 16.º — Competência do Ministro
+
+Compete ao Ministro decidir os processos instaurados pela IGAT e ordenar as inspecções, as sindicâncias, os inquéritos e os processos disciplinares que hajam de ser instruídos por ela.
+
+###### Artigo 17.º — Dever de cooperação
+
+1 - Os titulares e agentes da Administração têm o dever de prestar todos os esclarecimentos e informações que lhes sejam solicitados pela IGAT.
+
+2 - As autoridades públicas, bem como os órgãos de qualquer autoridade pública, prestarão à IGAT toda a colaboração que por esta lhes for solicitada, designadamente prestando informações.
+
+3 - A IGAT poderá solicitar a qualquer pessoa colectiva de direito privado ou cidadão informações e ainda a este último depoimento, sempre que o repute necessário, para o apuramento dos factos da sua competência.
+
+4 - A IGAT deve exercer a sua competência no rigoroso respeito dos direitos individuais e dos interesses legítimos previstos na Constituição e na lei.
+
+###### Artigo 18.º — Requisição de testemunhas ou declarantes
+
+1 - Os titulares dos órgãos autárquicos e os dirigentes dos serviços serão notificados pelo inspector responsável pelo processo de inquérito, de sindicância ou disciplinar para a prestação de declarações ou depoimentos que se julguem necessários.
+
+2 - A comparência, para prestação de declarações ou depoimentos em processos de inquérito, de sindicância ou disciplinares, de funcionários ou agentes do Estado ou das autarquias locais, bem como de trabalhadores do sector público ou nacionalizado, deverá ser requisitada à entidade a cujo serviço se encontrem, a qual poderá recusar a respectiva satisfação por uma só vez e por motivo inadiável.
+
+3 - A notificação para comparência de quaisquer outras pessoas para os efeitos referidos no número anterior, observadas as disposições aplicáveis no Código de Processo Penal (CPP), poderá ser requisitada às autoridades policiais.
+
+4 - As declarações e depoimentos a que aludem os números anteriores deverão ser colhidos no município da residência dos respectivos autores ou, quando conhecido, no do local de trabalho ou centro da actividade profissional do declarante ou depoente, podendo, para tanto, ser utilizada instalação apropriada, a ceder pelo respectivo governador civil, câmara municipal, junta de freguesia ou serviço local do Ministério.
+
+5 - Todas as pessoas notificadas ou avisadas que não compareçam no dia, hora e local designados, nem justifiquem as faltas, serão punidas nos termos e pelas entidades referidas no CPP, sendo remetida ao magistrado do Ministério Público (MP) da comarca competente certidão para esse efeito, sem prejuízo do procedimento disciplinar a que haja lugar.
+
+###### Artigo 19.º — Duração e relatório dos serviços externos
+
+1 - Os serviços externos deverão ser iniciados e concluídos dentro do prazo que, para cada caso, for superiormente fixado.
+
+2 - No final de cada serviço será elaborado relatório dos trabalhos realizados e, quando se trate de visita de inspecção, deverá nele chamar-se a atenção para os aspectos que especialmente o justifiquem, e bem assim sugerir-se as providências que se entenda deverem ser adoptadas.
+
+3 - O relatório, com o respectivo processo, será entregue até quinze dias depois de terminado o serviço a que respeita, salvo se prazo diferente for fixado pelo inspector-geral.
+
+###### Artigo 20.º — Direitos e prerrogativas dos inspectores
+
+Os inspectores gozam dos seguintes direitos e prerrogativas:
+
+a) Utilizar nos locais de trabalho, por cedência das respectivas entidades inspeccionadas, instalações com as indispensáveis condições para o desempenho eficaz das suas funções;
+
+b) Corresponder-se, quando em serviço fora da sede da IGAT, com todas as autoridades e, bem assim, com quaisquer pessoas singulares ou colectivas sobre assuntos de serviço da sua competência;
+
+c) Ter acesso e livre trânsito em todos os serviços e instalações inspeccionados, sempre que necessário ao desempenho das suas funções;
+
+d) Examinar livros, documentos e arquivos dos serviços inspeccionados;
+
+e) Obter, para auxílio nas acções em curso nos mesmos serviços, a cedência de material e equipamento próprio, bem como a colaboração de funcionários ou agentes do respectivo quadro de pessoal que se mostrem indispensáveis, designadamente para o efeito de se executarem ou complementarem serviços em atraso de execução, cuja falta impossibilite ou dificulte aquelas acções;
+
+f) Participar ao MP a recusa de quaisquer informações ou elementos solicitados nas condições das alíneas b) e d), bem como a falta injustificada da colaboração solicitada ao abrigo das alíneas a), c) e e);
+
+g) Requisitar às autoridades policiais a colaboração que se mostre necessária ao exercício das suas funções, designadamente nos casos de resistência a esse exercício por parte dos destinatários;
+
+h) Proceder à selagem de quaisquer instalações e à selagem ou arrombamento de dependências, cofres ou móveis, bem como à apreensão, requisição ou reprodução de documentos em poder dos serviços das autarquias inspeccionadas, de autarcas, de funcionários ou agentes do Estado ou das autarquias locais, quando isso se mostre indispensável ao êxito da acção, para o que será levantado o competente auto, dispensável no caso de simples reprodução de documentos;
+
+i) Estabelecer, mediante despacho do inspector-geral, a sua residência habitual em localidade diferente da sede da IGAT, a fim de exercer acção inspectiva preferencialmente na área do respectivo distrito.
+
+###### Artigo 21.º — Deveres específicos dos inspectores
+
+Além da sua sujeição aos deveres gerais inerentes ao exercício da função pública, os inspectores da IGAT devem:
+
+a) Desempenhar com o maior escrúpulo, correcção e diligência os serviços de que estiverem encarregados;
+
+b) Guardar sigilo em todos os assuntos que se relacionem com o serviço.
+
+###### Artigo 22.º — Impedimentos
+
+É vedado aos inspectores da IGAT:
+
+a) Executar inspecções, efectuar inquéritos, sindicâncias ou instruir processos disciplinares em serviços onde prestem actividades parentes seus ou afins em qualquer grau da linha recta ou até ao 3.º grau da linha colateral;
+
+b) Executar inspecções e efectuar inquéritos e sindicâncias a serviços onde tenham exercido funções nos cinco anos seguintes à cessação das mesmas.
+
+###### Artigo 23.º — Gratificação
+
+O inspector-geral, os subinspectores-gerais, o director de serviços e os inspectores têm direito a uma gratificação mensal, de importância equivalente a 20% do respectivo vencimento e diuturnidades.
+
+###### Artigo 24.º — Abonos e ajudas de custo
+
+1 - O pessoal de inspecção, sempre que, por motivos de serviço, se desloque da sua residência oficial, tem direito a ajudas de custo e à utilização de transportes públicos em 1.ª classe, podendo ainda fazer uso de automóvel da sua propriedade, tudo nas condições estabelecidas na lei geral aplicável.
+
+2 - Nos casos em que não consiga obter alojamento condigno na localidade onde deva prestar serviço, poderá o pessoal de inspecção escolhê-lo em localidade vizinha, dando do facto conhecimento e justificação ao inspector-geral.
+
+3 - É proibido ao pessoal de inspecção aceitar hospedagem de titulares dos órgãos, funcionários e agentes das autarquias locais quando estes forem objecto de inspecção, inquérito, sindicância ou simples averiguação.
+
+4 - Tendo em conta a natureza específica das suas funções, quando numa localidade se encontrem deslocados funcionários de categorias diferentes, serão a todos abonadas ajudas de custo do quantitativo que competir ao inspector de maior categoria.
+
+###### Artigo 25.º — Interrupção de licença para férias de funcionários e agentes dos serviços visitados
+
+Os funcionários de inspecção, quando assim o exigirem as necessidades dos trabalhos que estejam a executar, podem determinar a interrupção, pelo menor período de tempo possível, do gozo da licença para férias de qualquer funcionário dos serviços visitados cuja imediata presença se torne imprescindível.
+
+###### Artigo 26.º — Carreira de inspecção administrativa
+
+1 - Os lugares de inspector superior administrativo são providos, mediante provas de avaliação curricular, que incluirão a discussão de trabalhos apresentados para o efeito, de entre:
+
+a) Inspectores administrativos-coordenadores com um mínimo de 3 anos de bom e efectivo serviço na categoria;
+
+b) Assessores com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de inspector administrativo-coordenador são providos, mediante concurso documental, de entre:
+
+a) Inspectores administrativos principais com um mínimo de 3 anos de bom e efectivo serviço na categoria;
+
+b) Técnicos superiores principais com um mínimo de 3 anos de bom e efectivo serviço na categoria;
+
+c) Assessores autárquicos de assembleias distritais com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+
+3 - Os lugares de inspector administrativo principal serão providos, mediante concurso documental, de entre:
+
+a) Inspectores administrativos com um mínimo de 3 anos de bom e efectivo serviço na categoria;
+
+b) Técnicos superiores de 1.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+
+4 - Os lugares de inspector administrativo serão providos, mediante concurso documental, de entre técnicos superiores de 2.ª classe, licenciados em Direito, Economia, Finanças, Engenharia ou Gestão de Empresas.
+
+5 - O provimento dos lugares a que se referem os números anteriores por não licenciados não pode exceder um quarto dos lugares dotados da respectiva categoria.
+
+6 - O tempo de serviço para acesso nas diversas categorias da carreira de inspecção pode ser reduzido de um ano, nos termos da lei geral.
+
+###### Artigo 27.º — Dotação de pessoal
+
+1 - A IGAT tem o pessoal constante da dotação que lhe vier a ser atribuída no âmbito do quadro único do Ministério.
+
+2 - Até à definição do disposto no número anterior fica afecto à IGAT o pessoal que se encontra em funções na extinta Inspecção-Geral da Administração Interna.
+
+3 - A distribuição do pessoal pelos diversos serviços da IGAT será feita por despacho do inspector-geral, tendo em conta a respectiva experiência profissional e as funções a exercer.
+
+###### Artigo 28.º — Pessoal dirigente e de chefia - Provimento
+
+1 - Os lugares de inspector-geral, subinspector-geral e director de serviços são preenchidos de acordo com as disposições da lei geral.
+
+2 - Os cargos de inspector-geral e de subinspector-geral podem ser providos por magistrado judicial ou do MP, não podendo no primeiro caso recair em categoria inferior à de juiz desembargador ou de procurador-geral-adjunto que, de preferência, tenha exercido funções de inspecção nos serviços judiciários.
+
+3 - No caso previsto no número anterior, a nomeação será obrigatoriamente precedida de autorização, a obter nos termos das respectivas leis estatutárias, considerando-se o serviço prestado nos cargos de inspector-geral e de subinspector-geral como se o tivesse sido nas categorias e funções dos quadros de origem.
+
+4 - Aos magistrados judiciais e do MP bem como aos funcionários já vinculados à função pública providos nos lugares de inspector-geral, subinspector-geral e director de serviços é-lhes reservada a faculdade de optarem pela remuneração integral e regalias auferidas no quadro de origem, acrescidas sempre da gratificação aludida no artigo 23.º
+
+5 - Os lugares de chefe de repartição são providos de entre:
+
+a) Chefe de secção com o mínimo de 3 anos de bom e efectivo serviço na categoria;
+
+b) Indivíduos possuidores de curso superior e experiência adequada.
+
+6 - Os lugares de chefe de secção são providos nos termos da lei geral.
+
+7 - Os lugares de chefe de repartição e de chefe de secção podem ainda ser providos por secretários judiciais ou escrivães de direito, a requisitar aos serviços competentes nos termos das respectivas leis estatutárias, considerando-se o serviço por eles prestado na IGAT como se o tivesse sido nas categorias e funções dos quadros de origem.
+
+8 - No caso previsto no número anterior é reservado aos secretários judiciais e escrivães de direito a faculdade de opção pela remuneração integral e regalias auferidas no quadro de origem.
+
+###### Artigo 29.º — Protecção criminal
+
+O inspector-geral, os subinspectores-gerais, o director de Serviços de Estudos e os inspectores da IGAT são considerados como autoridade pública para efeitos criminais.
+
+###### Artigo 30.º — Identificação e livre trânsito
+
+1 - O inspector-geral, os subinspectores-gerais, o director de Serviços de Estudos e os inspectores têm direito a cartão de identidade especial, do modelo n.º 1 anexo ao presente diploma, passado pela Secretaria-Geral do MPAT, sendo assinado pelo ministro da tutela o do inspector-geral, subinspectores-gerais e director de Serviços de Estudos e pelo inspector-geral o dos inspectores.
+
+2 - O cartão a que se refere o número anterior é simultaneamente de livre trânsito e de acesso a todos os locais de funcionamento dos serviços, órgãos e instituições referidos no n.º 1 do artigo 2.º
+
+3 - O restante pessoal da IGAT usará, para sua identificação, um cartão modelo n.º 2 anexo ao presente diploma, passado pela Secretaria-Geral do MPAT e assinado pelo inspector-geral.
+
+Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
+
+Promulgado em 15 de Janeiro de 1987.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 21 de Janeiro de 1987.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## ANEXO I — Quadro de pessoal dirigente e de chefia a que se refere o artigo 28.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/02/03100/04750480.pdf)
+
+## ANEXO II — Reverso do cartão modelo n.º 1
+
+O titular deste cartão tem direito a livre trânsito e acesso a todos os locais de funcionamento dos serviços e órgãos das autarquias locais do continente, ou delas dependentes, e dos serviços e órgãos dos serviços centrais e desconcentrados do Ministério do Plano e da Administração do Território, ou sob a sua tutela, e direito à cooperação das autoridades públicas no exercício das suas funções (artigos 17.º e 30.º do Decreto-Lei n.º 64/87, de 6 de Fevereiro).
+
+Reverso do cartão modelo n.º 2
+
+O titular deste cartão tem direito à cooperação das autoridades públicas no exercício das suas funções.

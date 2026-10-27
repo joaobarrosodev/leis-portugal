@@ -1,0 +1,214 @@
+---
+schema_version: '1.0'
+id: pt:dre:472724:por
+title: Portaria n.º 654/74
+short_title: null
+summary: Altera o regime de importação de batata de semente constante das Portarias n.os 680/71, de 7 de Dezembro, e 609/73,
+  de 7 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado do Abastecimento e Preços
+proposing_entity: null
+official_number: 654/74
+official_date: null
+publication_date: '1974-10-11'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 237/1974, Série I de 1974-10-11
+  number: '237'
+  series: I
+  supplement: null
+  pages: 1207 - 1209
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/10/23700/12071209.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '472724'
+  dre_path: /dr/detalhe/portaria/654-1974-472724
+  internal: pt:dre:472724:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/654-1974-472724
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/654-1974-472724
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:32:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8c67f5030b456f5449c7f57f8eccfa9fdd640db3afa9361fc25adf113865f578
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:32:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:312473:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:251990:por
+  label: Alterado, a partir do dia 16 de dezembro de 1974, os n.ºs 2 e 3 do n.º 1.º e 1 e 2 do n.º 4.º da presente portaria,
+    pelo(a) Portaria n.º 830-C/74 - Diário do Governo n.º 297/1974, 1º Suplemento, Série I de 1974-12-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/830-c-1974-251990
+  date: '1974-12-20'
+- type: cites
+  target: pt:dre:220942:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413207:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:413433:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:439600:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688470:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:312473:por
+  label: Revogada, nos termos do art. 11.º da Port 651/75 de 17-nov, a presente portaria, pelo(a) Portaria n.º 651/75 - Diário
+    do Governo n.º 258/1975, Série I de 1975-11-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/651-1975-312473
+  date: '1975-11-07'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:32:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 654/74
+
+de 11 de Outubro
+
+O actual regime de importação de batata de semente e de protecção à batata de semente nacional, constante das Portarias n.os [680/71](https://diariodarepublica.pt/dr/detalhe/portaria/680-1971-220942), de 7 de Dezembro, e [609/73](https://diariodarepublica.pt/dr/detalhe/portaria/609-1973-413433), de 7 de Setembro, é substancialmente alterado para a próxima campanha de 1974-1975.
+
+Embora se mantenha o princípio geral da liberdade de importação de todas as variedades autorizadas pela Direcção-Geral dos Serviços Agrícolas, fixa-se, como limite mínimo para a importação de cada variedade, a quantidade de 100 t, de modo a obviar à excessiva onerosidade que sempre decorre da aquisição de pequenas partidas no mercado externo.
+
+Constitui excepção a este limite mínimo a importação de variedades para efeito de realização de experiências. A importação será, então, efectuada pela Junta Nacional das Frutas e as experiências deverão ser acompanhadas pela Direcção-Geral dos Serviços Agrícolas, dado que se pretende que os organismos oficiais possam conhecer os resultados obtidos com as variedades cuja experimentação não é da sua iniciativa.
+
+Também a importação da variedade Voran será efectuada exclusivamente pela Junta Nacional das Frutas e de forma a garantir que a batata de semente se destine à produção para abastecimento da indústria de amido, escoamento mais conveniente para esta variedade.
+
+No que respeita à importação da variedade Arran-Banner - única sujeita a contingente - e de acordo com a orientação que sistematicamente vem sendo prosseguida pelo Governo Provisório, o referido contingente deixa de ser distribuído pelos importadores segundo o regime proteccionista de quotas de rateio. Com efeito, a importação da variedade Arran-Banner passa a efectuar-se por adjudicação em concurso público aberto pela Junta Nacional das Frutas, funcionando como critérios para a adjudicação os melhores preços propostos para o fornecimento à lavoura e, subsidiariamente, o melhor escoamento assegurado à batata de semente de produção nacional.
+
+A fim de evitar que os preços de fornecimento à lavoura de qualquer variedade atinjam valores desproporcionados com as cotações prevalecentes no mercado internacional, a Direcção-Geral de Preços, com a colaboração da Junta Nacional das Frutas, procederá ao estudo e proposta de preços máximos na venda à lavoura de batata de semente importada.
+
+A protecção à batata de semente de produção nacional limitar-se-á à atribuição do habitual subsídio, a retirar do fundo constituído pelos diferenciais incidentes sobre a batata de semente importada, tendo-se desobrigado os importadores de garantir o escoamento de uma parcela de tal produção. Esta alteração foi, aliás, proposta pela Junta Nacional das Frutas depois de reunir com representantes da Direcção-Geral dos Serviços Agrícolas, dos importadores, dos produtores e da União das Cooperativas Agrícolas dos Produtores de Batata de Semente do Norte.
+
+Nestes termos:
+
+Manda o Governo Provisório da República Portuguesa, pelo Secretário de Estado do Abastecimento e Preços, ao abrigo do disposto nos Decretos-Leis n.os 36665, 38747, 45835 e 329-A/74, respectivamente, de 10 de Dezembro de 1947, 10 de Maio de 1952, 27 de Julho de 1964 e 10 de Julho o seguinte:
+
+1.º - 1. É livre a importação de todas as variedades de batata de semente incluídas na lista a que se refere o artigo 20.º do [Decreto-Lei n.º 36665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36665-1947-637463), de 10 de Dezembro de 1947, com excepção das variedades Arran-Banner e Voran.
+
+2. Só serão, porém, autorizadas importações iguais ou superiores a 100 t por cada variedade.
+
+3. Caso se revele conveniente a importação de quantidades inferiores às referidas no número anterior, para o efeito de realização de experiências, não só das variedades constantes da lista referida no n.º 1 do presente número, como de outras variedades novas previamente autorizadas pela Direcção-Geral dos Serviços Agrícolas, a importação será realizada pela Junta Nacional das Frutas, devendo tais experiências ser realizadas com a colaboração daquela Direcção-Geral.
+
+2.º - 1. A importação da batata de semente da variedade Arran-Banner será efectuada segundo o regime de contingente, para o qual desde já se estabelece o quantitativo de 3000 t.
+
+2. A autorização das importações depende de adjudicação efectuada em concurso público a realizar pela Junta Nacional das Frutas, só sendo de considerar propostas para importações iguais ou superiores a 100 t.
+
+3. A adjudicação das importações será feita ao proponente ou proponentes que ofereçam as melhores condições de preço no fornecimento à lavoura e, subsidiariamente, garantam o escoamento da batata de semente da produção nacional nas melhores condições de quantidade e preço.
+
+4. Compete à Junta Nacional das Frutas tomar as medidas necessárias para garantir o cumprimento desta última condição
+
+5. O importador ou importadores adjudicatários da importação ficam obrigados a proceder à distribuição da batata de semente da variedade Arran-Banner de acordo com as instruções emanadas da Junta Nacional das Frutas.
+
+6. A Junta Nacional das Frutas anulará o concurso e procederá à importação directa caso verifique que os proponentes actuaram concertadamente em restrição da concorrência ou que os preços propostos são excessivamente elevados em relação às cotações prevalecentes no mercado internacional.
+
+3.º - 1. A importação de batata de semente da variedade Voran será efectuada pela Junta Nacional das Frutas e depois de feita prova considerada bastante de que essa variedade se destina à produção para abastecimento da indústria de amido.
+
+2. A Junta Nacional das Frutas divulgará o termo do período para recepção de pedidos e as normas a que deve obedecer a prova referida no número anterior.
+
+4.º - 1. A efectiva importação de quantidades inferiores a 100 t, por cada variedade de batata de semente, determina a obrigação de pagamento, pelos importadores, à Junta Nacional das Frutas de uma quantia igual ao valor da mercadoria em falta, desde que a quantidade importada seja inferior a 90 t.
+
+2. A fim de assegurar o cumprimento da referida obrigação, os importadores prestarão perante a Junta Nacional das Frutas garantia bancária pelo valor correspondente a 90 t de cada uma das variedades de batata de semente objecto da importação.
+
+3. Para efeitos do disposto neste número, entende-se como valor da batata de semente o que consta do respectivo boletim de registo de importação.
+
+4. As importâncias cobradas em virtude do disposto neste número reverterão para um fundo administrado pela Junta Nacional das Frutas (Fundo para Regularização de Preços de Batata).
+
+5.º Não é autorizada a importação de batata de semente da classe C ou de classes correspondentes e inferiores, nem de tubérculos que passem pela malha quadrada de 28 mm ou que não passem pela malha quadrada de 60 mm de lado.
+
+6.º Mantém-se em 3% a tolerância em peso por saco de 50 kg de batata.
+
+7.º - 1. Serão aplicados à batata de semente a importar os seguintes diferenciais:
+
+a) De 40$00/saco de 50 kg para as variedades Arran-Banner e Voran;
+
+b) De 20$00/saco de 50 kg para as variedades restantes.
+
+2. O diferencial aplicado à variedade Voran será restituído aos produtores que provem, mediante documento autenticado pelos industriais, ter entregue a respectiva produção à indústria de amido, numa relação semente/produção a definir pela Junta Nacional das Frutas.
+
+3. O produto dos diferenciais cobrados nos termos deste número, deduzidas as despesas de administração, reverterá para um fundo administrado pela Junta Nacional das Frutas (Fundo para Regularização de Preços de Batata).
+
+4. O pagamento dos diferenciais constituirá uma das condições prévias para o licenciamento da importação de batata de semente e será efectuado por meio de guia de depósito na Caixa Geral de Depósitos, Crédito e Previdência, passada pela Junta Nacional das Frutas.
+
+8.º O Fundo para Regularização de Preços de Batata é destinado à concessão de subsídios à batata de semente nacional e às intervenções necessárias para regularizar os preços de batata de consumo que forem superiormente autorizadas.
+
+9.º A venda à lavoura de batata de semente importada fica sujeita ao regime de preços máximos a que se refere a alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+
+10.º - 1. A protecção à batata de semente nacional consistirá num subsídio, a retirar do fundo constituído pelos diferenciais de batata de semente, igual ao produto das quantidades médias de batata das classes A e B certificadas nos últimos dez anos, de acordo com as indicações a fornecer pela Repartição dos Serviços Fitopatológicos da Direcção-Geral dos Serviços Agrícolas, pelos preços, respectivamente, de 1500$00 e 1000$00 por tonelada.
+
+2. A Junta distribuirá este subsídio global pelas diferentes cooperativas, proporcionalmente às quantidades de batata das classes A e B certificadas na presente campanha, segundo os números fornecidos pela Repartição dos Serviços Fitopatológicos, devendo a quota-parte de cada uma ser distribuída pelos respectivos associados proporcionalmente às suas produções, de modo que a classe A seja beneficiada com um subsídio superior em 50% ao atribuído à classe B.
+
+11.º Beneficiam de isenção da taxa de $10/kg instituída pela [Portaria n.º 17433](https://diariodarepublica.pt/dr/detalhe/portaria/17433-1959-439600), de 18 de Novembro de 1959, quando cheguem aos portos do continente até 15 de Dezembro do ano em curso, as seguintes variedades:
+
+Agnes, Ari, Arran Pilot, Bintje, Cosima, Daroli, Desirée, Eigenheimer, Fina, Grata, Home Guard, Isola, Kerne, King Edward, Mirka, Nervia, Santa Lucia (ou Oberarnbacher Frühe), Ostara, Record e Sientje.
+
+12.º A Junta Nacional das Frutas elaborará as instruções regulamentares necessárias à execução da presente portaria.
+
+13.º Ficam revogadas as Portarias n.os [680/71](https://diariodarepublica.pt/dr/detalhe/portaria/680-1971-220942), [515/72](https://diariodarepublica.pt/dr/detalhe/portaria/515-1972-688470) e [690/73](https://diariodarepublica.pt/dr/detalhe/portaria/690-1973-413207), respectivamente, de 7 de Dezembro, de 1 de Setembro e de 7 de Setembro.
+
+14.º Esta portaria entra imediatamente em vigor.
+
+Secretaria de Estado do Abastecimento e Preços, 1 de Outubro de 1974. - O Secretário de Estado do Abastecimento e Preços, Nelson Sérgio Melo da Rocha Trigo.

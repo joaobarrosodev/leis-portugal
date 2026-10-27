@@ -1,0 +1,231 @@
+---
+schema_version: '1.0'
+id: pt:dre:518863:por
+title: Decreto-Lei n.º 49/2007
+short_title: null
+summary: Estabelece regras de execução do Regulamento (CE) n.º 648/2004, do Parlamento Europeu e do Conselho, de 31 de Março,
+  relativo aos detergentes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 49/2007
+official_date: null
+publication_date: '2007-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 42/2007, Série I de 2007-02-28
+  number: '42'
+  series: I
+  supplement: null
+  pages: 1410 - 1412
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/02/04200/14101412.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-49-2007.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/49/2007/p/cons/20210129/pt/html
+  oj: null
+  dre: '518863'
+  dre_path: /dr/detalhe/decreto-lei/49-2007-518863
+  internal: pt:dre:518863:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2007-518863
+  metadata_url: https://data.dre.pt/eli/dec-lei/49/2007/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-156246167
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-156246167
+  retrieved_at: '2026-10-22T12:38:14Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 54f1e4c5a4b9184a393439dd6ad994be07553197d8fa795672774f76244d15f2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:38:14Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-49-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Detergente
+- Saúde Pública
+- Proteção do Ambiente
+- Produto de Limpeza
+- Proteção do Consumidor
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 7.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: celex:32004R0648
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/648/oj
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/1989/542/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/1989/542/oj
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:38:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49/2007
+
+Decreto-Lei n.º 49/2007
+
+de 28 de Fevereiro
+
+Em 31 de Março de 2004, a Comunidade Económica Europeia aprovou o Regulamento (CE) n.º <a href="eurlex.asp?ano=2004&id=304R0648" title="Link para Regulamento da Comunidade Europeia">648/2004</a>, do Parlamento Europeu e do Conselho, com o objectivo de estabelecer regras para assegurar a livre circulação dos detergentes e tensoactivos para detergentes no mercado interno e, em simultâneo, garantir um nível de protecção do ambiente e da saúde humana.
+
+O referido regulamento veio harmonizar as regras relativas à colocação no mercado de detergentes e de tensoactivos para detergentes, referentes à biodegradabilidade dos tensoactivos nos detergentes, às restrições ou proibições de tensoactivos por motivos de biodegradabilidade, à rotulagem suplementar dos detergentes, incluindo fragrâncias alergénicas, e à informação que os fabricantes devem manter à disposição das autoridades competentes dos Estados membros e do pessoal médico.
+
+Importa salientar que o regulamento em referência reuniu num só diploma a matéria constante de directivas relativas à aproximação das legislações dos Estados membros em matéria de biodegradabilidade, transpostas para o direito nacional pelo Decreto-Lei n.º 8/90, de 4 de Janeiro, pelas Portarias n.os 89/90, de 5 de Fevereiro, e 90/90, de 5 de Fevereiro, e ainda as disposições da Recomendação n.º <a href="eurlex.asp?ano=1989&id=389H0542" title="Link para Recomendação da Comunidade Europeia">89/542/CE</a> em matéria de rotulagem.
+
+Para além da legislação referida, desde o ano de 1986 que, pelo Decreto-Lei n.º 397/86, de 25 de Novembro, se encontram consagradas disposições nacionais específicas em matéria de rotulagem e embalagem dos produtos de lavagem, conservação e limpeza, abrangendo, entre outros produtos, os detergentes na acepção do definido no Regulamento (CE) n.º <a href="eurlex.asp?ano=2004&id=304R0648" title="Link para Regulamento da Comunidade Europeia">648/2004</a>.
+
+Sendo o regulamento comunitário de aplicabilidade directa e obrigatória em todos os Estados membros, verificou-se que na ordem jurídica interna há matérias que carecem de desenvolvimento. Por esta razão, torna-se necessário dar execução, em diploma específico, ao disposto nos artigos 8.º, 17.º e 18.º do referido regulamento, nomeadamente definindo a autoridade competente para a comunicação e intercâmbio de informações com a Comissão e os outros Estados membros e pela recepção e análise dos pedidos de derrogação nele previstas, bem como a autoridade competente para aplicar sanções, no caso de violação das suas normas, revogando a legislação nacional em matéria de biodegradabilidade e de rotulagem e embalagem de detergentes.
+
+Foram ouvidos, a título facultativo, o Centro de Informação Antivenenos (CIAV), o Instituto do Consumidor (IC) e a Associação dos Industriais de Sabões, Detergentes e Produtos de Conservação e Limpeza (AISDPCL).
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente decreto-lei estabelece regras necessárias à plena aplicação na ordem jurídica interna do Regulamento (CE) n.º <a href="eurlex.asp?ano=2004&id=304R0648" title="Link para Regulamento da Comunidade Europeia">648/2004</a>, do Parlamento Europeu e do Conselho, de 31 de Março, que visa assegurar a livre circulação dos detergentes e tensoactivos para detergentes no mercado interno e garantir um elevado nível da protecção do ambiente e da saúde humana, adiante designado abreviadamente por regulamento.
+
+###### Artigo 2.º — Autoridade competente
+
+1 - Compete à Direcção-Geral da Empresa, abreviadamente designada por DGE, o exercício das competências nacionais de análise dos pedidos de derrogação relativos aos detergentes industriais ou institucionais que contenham tensoactivos e aos tensoactivos para detergentes industriais ou institucionais que não cumpram os critérios de biodegradabilidade aeróbia final, tal como referido no n.º 2 do artigo 4.º do regulamento, bem como a comunicação do resultado da avaliação à Comissão Europeia.
+
+2 - Compete igualmente à DGE notificar os outros Estados membros e a Comissão da lista de laboratórios autorizados habilitados a efectuar os ensaios exigidos pelo regulamento e informar a Comissão sempre que considerar que um laboratório aprovado não cumpre as normas exigidas pelo regulamento.
+
+3 - Para o exercício das competências referidas no n.º 1, a DGE pode solicitar o parecer prévio de outras entidades.
+
+###### Artigo 3.º — Informação a fornecer pelos fabricantes para fins médicos
+
+1 - Sem prejuízo de colocarem à disposição do pessoal médico, mediante pedido, a ficha de informação referida no capítulo C do anexo VII do regulamento, os fabricantes que coloquem no mercado os detergentes e outros produtos abrangidos pelo artigo 2.º do regulamento devem fornecer ao Centro de Informação Antivenenos (CIAV), do Instituto Nacional de Emergência Médica, a respectiva composição química completa, qualitativa e quantitativa, e as informações necessárias para responder a qualquer solicitação de ordem médica, com vista à tomada de medidas tanto preventivas como curativas, em situações de emergência, nomeadamente de intoxicação.
+
+2 - As informações referidas no número anterior são confidenciais e não podem ser utilizadas para outros fins.
+
+###### Artigo 4.º — Taxas
+
+1 - Pelos actos relativos a procedimentos de concessão de derrogações para detergentes industriais e institucionais, a que se refere o n.º 1 do artigo 2.º do presente decreto-lei, é devida uma taxa, fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia, sobre critérios não discriminatórios e cujo montante não pode exceder o custo do processamento do pedido.
+
+2 - O produto das taxas cobradas constitui receita própria da DGE.
+
+###### Artigo 5.º — Fiscalização
+
+1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do disposto no regulamento e no presente decreto-lei compete à Autoridade de Segurança Alimentar e Económica (ASAE).
+
+2 - As entidades fiscalizadoras podem solicitar a colaboração de quaisquer outras entidades, sempre que o julguem necessário ao exercício das suas funções.
+
+3 - Das infracções verificadas é levantado auto de notícia, competindo a instrução dos respectivos processos às entidades fiscalizadoras referidas no n.º 1.
+
+###### Artigo 6.º — Recolha de amostras
+
+1 - As entidades fiscalizadoras podem proceder à recolha de amostras para verificação do cumprimento do disposto no regulamento e no presente decreto-lei, devendo os encargos com ensaios laboratoriais ou quaisquer outras avaliações ser suportados pela entidade que promoveu a recolha.
+
+2 - Em caso de infracção, os referidos encargos são suportados pelo agente económico em causa.
+
+3 - As amostras para o controlo são remetidas a laboratórios autorizados para prestar o serviço necessário à verificação da conformidade dos detergentes com os requisitos do regulamento e dos seus anexos, os quais terão de cumprir o disposto no anexo I do regulamento.
+
+###### Artigo 7.º — Contra-ordenações
+
+1 - Constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), as seguintes infrações:
+
+a) A colocação no mercado de detergentes e tensoactivos para detergentes em violação do disposto no artigo 3.º do regulamento;
+
+b) A violação da obrigação de prestação de informações ao pessoal médico e ao CIAV, tal como estipulado no artigo 3.º do presente decreto-lei.
+
+2 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+> Alterado pelo/a Artigo 73.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 8.º — Sanção acessória
+
+Independentemente da responsabilidade civil e penal em que possam incorrer os infractores, simultaneamente com a coima pode ainda ser determinada, como sanção acessória, a perda do produto em causa sempre que a sua colocação no mercado represente perigo que o justifique.
+
+###### Artigo 9.º — Aplicação e destino da receita das coimas
+
+1 - A aplicação das coimas e das sanções acessórias compete ao inspetor-geral da ASAE.
+
+2 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
+
+> Alterado pelo/a Artigo 73.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 10.º — Acompanhamento da aplicação do diploma
+
+O acompanhamento da aplicação global do presente decreto-lei compete à DGE, que propõe as medidas necessárias à prossecução dos seus objectivos e as que se destinam a assegurar a ligação com a Comissão e os Estados membros da União Europeia, nomeadamente o intercâmbio de informações previsto no n.º 1 do artigo 8.º do Regulamento.
+
+###### Artigo 11.º — Norma revogatória
+
+São revogados os seguintes diplomas:
+
+a) Decreto-Lei n.º 8/90, de 4 de Janeiro;
+
+b) Portaria n.º 89/90, de 5 de Fevereiro;
+
+c) Portaria n.º 90/90, de 5 de Fevereiro;
+
+d) Decreto-Lei n.º 397/86, de 25 de Novembro.
+
+Visto e aprovado em Conselho de Ministros de 6 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Carlos Manuel Costa Pina - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - António Fernando Correia de Campos.
+
+Promulgado em 8 de Fevereiro de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 9 de Fevereiro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629085:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-937446168",
+ "dre_path": "/dr/detalhe/portaria/1396-2007-629085",
+ "source_lastmod": "2025-10-01",
+ "versions": [
+  {
+   "date": "2007-10-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "937471197",
+    "937471198",
+    "937471199",
+    "937471200",
+    "937471201",
+    "937471202",
+    "937471203",
+    "937471204",
+    "937471205",
+    "937471206",
+    "937471207",
+    "937471209"
+   ]
+  }
+ ],
+ "fragments": {
+  "937471197": {
+   "fragment_id": "937446169",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1396/2007\n\nde 25 de Outubro\n\nO Decreto-Lei n.º 167/2005, de 23 de Setembro, estabeleceu o regime jurídico da assistência na doença aos militares das Forças Armadas (ADM), resultante da unificação dos subsistemas de saúde específicos de cada ramo, no contexto da necessidade de fazer convergir os diversos subsistemas de saúde públicos com o regime geral da assistência na doença aos servidores civis do Estado, efectuada no âmbito da Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE).\n\nO artigo 11.º do Decreto-Lei n.º 167/2005, de 23 de Setembro, estabelece que o Ministro da Defesa Nacional pode celebrar ou autorizar que a entidade gestora da ADM celebre acordos com pessoas singulares ou colectivas, públicas ou privadas, que tenham por objecto a prestação de cuidados de saúde aos seus beneficiários. Torna-se assim necessário estabelecer o regime e as condições de celebração, assim como as cláusulas tipo dos acordos a celebrar com a ADM.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 11.º, conjugado com o n.º 2 do artigo 12.º, do Decreto-Lei n.º 167/2005, de 23 de Setembro, manda o Governo, pelos Ministros de Estado e das Finanças e da Defesa Nacional, o seguinte:"
+  },
+  "937471198": {
+   "fragment_id": "937446170",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria regula o regime dos acordos para a prestação de cuidados de saúde aos beneficiários da assistência na doença aos militares das Forças Armadas (ADM).\n\n2 - Entende-se por acordo o contrato celebrado entre a entidade gestora da ADM e outras pessoas singulares ou colectivas, públicas ou privadas, que tenham por objecto a prestação de cuidados de saúde e o fornecimento de medicamentos, próteses e ortóteses aos beneficiários da ADM."
+  },
+  "937471199": {
+   "fragment_id": "937446171",
+   "type": 11,
+   "heading": "Artigo 2.º — Necessidade de acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Necessidade de acordo\n\nA prestação de cuidados de saúde por pessoas singulares ou colectivas, públicas ou privadas, a beneficiários da ADM, no âmbito do regime convencionado, depende da celebração e vigência de acordos a celebrar pelo Ministro da Defesa Nacional, ou por autorização deste, pela entidade gestora da ADM."
+  },
+  "937471200": {
+   "fragment_id": "937446172",
+   "type": 11,
+   "heading": "Artigo 3.º — Fins a prosseguir pelos acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fins a prosseguir pelos acordos\n\nA celebração de acordos deve visar a racionalização da aquisição de bens e serviços de saúde, a redução dos respectivos custos relativamente ao regime livre, bem como garantir aos beneficiários um elevado grau de prontidão, continuidade e qualidade, com a finalidade de promover a saúde, no âmbito da prevenção, do diagnóstico, da terapêutica e da reabilitação."
+  },
+  "937471201": {
+   "fragment_id": "937446173",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos da celebração de acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos da celebração de acordos\n\n1 - Os acordos podem ser celebrados com quaisquer pessoas singulares ou colectivas, públicas ou privadas, que tenham idoneidade para a prestação dos cuidados de saúde ou para o fornecimento de bens a contratar, sob orientação e responsabilidade de profissionais de saúde devidamente habilitados.\n\n2 - Para efeitos do número anterior, a idoneidade para a prestação dos cuidados de saúde a contratar depende:\n\na) Do licenciamento, quando exigível;\n\nb) Da observância, pelas instalações e pelos equipamentos, dos requisitos e normas técnicas exigidos pelo Ministério da Saúde;\n\nc) Da regularidade da situação fiscal e perante a segurança social."
+  },
+  "937471202": {
+   "fragment_id": "937446174",
+   "type": 11,
+   "heading": "Artigo 5.º — Conteúdo essencial dos acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conteúdo essencial dos acordos\n\nOs acordos integram necessariamente os seguintes elementos:\n\na) A identificação e a definição dos bens e cuidados de saúde contratados;\n\nb) A definição da responsabilidade das partes contratantes;\n\nc) A definição dos deveres das entidades prestadoras dos cuidados de saúde contratados relativamente ao acesso e fiscalização por parte da ADM;\n\nd) Os requisitos de idoneidade técnica do pessoal;\n\ne) A indicação do local ou locais de prestação dos serviços;\n\nf) As condições de adequação das instalações e do equipamento;\n\ng) Os critérios que permitam a acreditação;\n\nh) A fiscalização do cumprimento contratual;\n\ni) As tabelas de comparticipação;\n\nj) As condições de facturação."
+  },
+  "937471203": {
+   "fragment_id": "937471275",
+   "type": 11,
+   "heading": "Artigo 6.º — Clausulado tipo dos acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Clausulado tipo dos acordos\n\nSem prejuízo das adaptações que se revelem necessárias no caso concreto, o clausulado tipo dos acordos é o constante do anexo i da presente portaria, que dela faz parte integrante."
+  },
+  "937471204": {
+   "fragment_id": "937471276",
+   "type": 11,
+   "heading": "Artigo 7.º — Período de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Período de vigência\n\n1 - Os acordos vigoram por períodos de um ano, renováveis automaticamente por períodos de idêntica duração, salvo se, com a antecedência mínima de 60 dias em relação ao termo de cada período de vigência, qualquer das partes comunicar a oposição à renovação por carta registada com aviso de recepção.\n\n2 - O disposto no número anterior não prejudica a denúncia do acordo, a qualquer momento, por qualquer das partes com pré-aviso de 60 dias, ressalvando-se, neste caso, a continuidade de cuidados aos doentes que ainda se encontrem em tratamento."
+  },
+  "937471205": {
+   "fragment_id": "937471277",
+   "type": 11,
+   "heading": "Artigo 8.º — Comparticipações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comparticipações\n\n1 - Os preços dos cuidados de saúde fixados no âmbito de convenções são os que constam nas tabelas acordadas pela ADSE, mantendo o mesmo co-financiamento do beneficiário.\n\n2 - Quanto aos cuidados de saúde que possam não estar incluídos nas tabelas do regime convencionado da ADSE, a ADM poderá celebrar acordos específicos, dando conhecimento às entidades gestoras dos demais subsistemas de saúde públicos, das condições de preço e do co-financiamento do beneficiário."
+  },
+  "937471206": {
+   "fragment_id": "937471278",
+   "type": 11,
+   "heading": "Artigo 9.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Avaliação\n\nA ADM avalia, de forma sistemática, a qualidade e a acessibilidade dos cuidados de saúde prestados ao abrigo de acordos e zela pelo integral cumprimento das disposições clausuladas."
+  },
+  "937471207": {
+   "fragment_id": "937471279",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 10 de Setembro de 2007."
+  },
+  "937471209": {
+   "fragment_id": "937471281",
+   "type": 14,
+   "heading": "Anexo I — Clausulado tipo de acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Clausulado tipo de acordo\n\nAcordo para a prestação de cuidados de saúde no âmbito da assistência na doença aos militares das Forças Armadas\n\nEntre o Instituto de Acção Social das Forças Armadas (IASFA), com sede em ..., na qualidade de entidade gestora da assistência na doença aos militares das Forças Armadas (ADM), representada por ..., adiante designada por primeiro outorgante, e ..., com morada/sede em ..., representada/o por ..., adiante designada/o por segunda/o outorgante, é celebrado o presente acordo, que se rege pelas cláusulas seguintes:"
+  }
+ }
+}

@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:427468:por
+title: Resolução do Conselho de Ministros
+short_title: null
+summary: Mantém em funcionamento a Comissão Interministerial para a Instalação dos Serviços Públicos (CIISP)
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: null
+official_date: null
+publication_date: '1976-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 102/1976, Série I de 1976-04-30
+  number: '102'
+  series: I
+  supplement: null
+  pages: 942 - 943
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/04/10200/09420943.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '427468'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/1976-427468
+  internal: pt:dre:427468:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1976-427468
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1976-427468
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:28:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4646af86f0eef9b440baa26a8f42fe9b1f03df0466404195712a3368097d51b6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:28:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Comissão Interministerial
+- Definição de Competências
+- Direcção Geral da Organização Administrativa
+- Direcção Geral do Património
+- Direcção Geral dos Edifícios e Monumentos Nacionais
+- Serviço Público
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:28:09Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros
+
+1. Com o fim de contribuir para a resolução do importante problema da carência de instalações para os serviços públicos, foi constituída, por despacho do Chefe do Estado-Maior-General dos Forças Armadas e dos Ministros da Administração Interna, das Finanças e do Equipamento Social, publicado no Diário do Governo, 1.ª série, n.º 294, de 22 de Dezembro de 1975, uma comissão interministerial que tinha como principal objectivo proceder à elaboração de uma lista de disponibilidades em edifícios pertencentes ao Estado, nomeadamente da banca e dos seguros, aptos a neles instalar serviços.
+
+2. Ao concluir a 1.ª fase dos seus trabalhos, constatou a referida Comissão a existência de elevadas carências de instalações para o funcionamento eficaz dos serviços necessitados, a par de uma insuficiência de edifícios disponíveis.
+
+Com efeito, de acordo com os dados recolhidos, os serviços centrais localizados em Lisboa consideravam como de extrema urgência a procura de instalações correspondentes a uma área total de implantação de cerca de 110000 m2, podendo ceder, face à sua reinstalação, cerca de 8000 m2, donde resultariam, após a reocupação destes últimos espaços, necessidades imediatas correspondentes a 102000 m2 para resolver situações críticas de instalações.
+
+Por outro lado, a área total das disponibilidades de prédios pertencentes à banca e aos seguros era de cerca de 18000 m2.
+
+3. Trata-se de uma situação tanto mais preocupante quanto é certo que um importante factor que condiciona a boa organização e a eficiência administrativa dos serviços públicos é, sem dúvida, a instalação adequada desses mesmos serviços.
+
+As dificuldades são ainda maiores se se levar em conta que as carências acima enumeradas resultam quer de um desenvolvimento natural, mas raramente planificado, dos serviços existentes, quer da ampliação, nem sempre subordinada a critérios técnicos, dos órgãos superiores da Administração Central do Estado.
+
+4. Nestas circunstâncias:
+
+Considerando que o problema das instalações dos serviços públicos não deve ser isolado do conjunto de questões relacionadas com as providências globais tendentes a colocar a administração pública em condições de corresponder, através de uma organização e gestão administrativa ágil e eficaz, às exigências dos processos de transformação social;
+
+Considerando também que a instalação racional de qualquer serviço deve ser sempre precedida da elaboração de um plano de implantação funcional dos diversos postos de trabalho, de acordo com os fins e estrutura das respectivas unidades orgânicas;
+
+Considerando que se torna indispensável encarar soluções gerais, para o que haverá que definir com urgência um esquema orgânico-administrativo de planificação e coordenação nesta matéria;
+
+Considerando, no entanto, a necessidade de solucionar com a maior rapidez possível algumas situações críticas existentes:
+
+O Conselho de Ministros, reunido em 9 de Abril de 1976, resolveu que:
+
+a) Se mantém em funcionamento a Comissão Interministerial para a Instalação dos Serviços Públicos (CIISP), com a composição prevista no despacho mencionado em 1;
+
+b) Compete, em especial, à referida Comissão:
+
+Continuar o levantamento das necessidades urgentes dos serviços da Administração Central localizados em Lisboa;
+
+Continuar a inventariação dos edifícios, com as características exigidas para a instalação de serviços que existam disponíveis, do Estado e particulares, para compra ou arrendamento;
+
+Proceder à distribuição dos edifícios ou áreas disponíveis, de acordo com critérios de prioridade e de adequação estabelecidos em conformidade com os interesses gerais da Administração, e sem prejuízo para a implantação racional dos serviços a instalar;
+
+c) Os serviços passarão a apresentar à Comissão Interministerial para a Instalação dos Serviços Públicos (CIISP) as suas necessidades urgentes de instalações, segundo as instruções da mesma Comissão;
+
+d) Sempre que o entender, pode a Comissão proceder à confirmação e revisão dos pedidos, analisando, designadamente, os critérios que presidiram à determinação das áreas requeridas;
+
+e) Em colaboração com a Direcção-Geral da Organização Administrativa, a Comissão Interministerial para a Instalação dos Serviços Públicos (CIISP) promoverá a introdução de medidas de simplificação nos procedimentos administrativos actualmente exigidos para o arrendamento de imóveis destinados à instalação de serviços públicos;
+
+f) Através da Direcção-Geral da Organização Administrativa, devem iniciar-se imediatamente estudos para a definição de um sistema orgânico de planificação, coordenação e execução no domínio das instalações e implantação funcional dos serviços públicos;
+
+g) O apoio técnico e administrativo às actividades da Comissão será assegurado pelas Direcção-Geral dos Edifícios e Monumentos Nacionais, Direcção-Geral do Património e Direcção-Geral da Organização Administrativa, mediante o destacamento temporário do pessoal necessário, podendo recorrer à contratação em regime de prestação de serviços do pessoal técnico indispensável.
+
+Presidência do Conselho de Ministros, 9 de Abril de 1976. - O Primeiro-Ministro, José Baptista Pinheiro de Azevedo.

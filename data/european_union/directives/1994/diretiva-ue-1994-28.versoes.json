@@ -1,0 +1,366 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0028:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0028-20080903",
+ "dre_path": null,
+ "source_lastmod": "2008-09-03",
+ "versions": [
+  {
+   "date": "1994-07-12",
+   "future": false,
+   "celex": "31994L0028",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6ecad5d1dca97c50",
+    "9be9420263d314d0",
+    "54f7819065fc57b0",
+    "5085c395b60ec935",
+    "8aa8b314ab4bf883",
+    "bbe050d4c583c2ad",
+    "5874ac60643dcfc1",
+    "7f77a4c34bc3917e",
+    "d3d220ce9e1e0d16",
+    "44cb15740c63f1f3",
+    "d1b6ebeffc8bffa9",
+    "84117c20351b00e8",
+    "d97c70a4e1e245e2",
+    "72e0fa08fa9879c9",
+    "5f10da245d97cbfe",
+    "a4cf9653bf05f777"
+   ]
+  },
+  {
+   "date": "2008-09-03",
+   "future": false,
+   "celex": "01994L0028-20080903",
+   "acts": [
+    {
+     "id": "eu:celex:32008L0073:por",
+     "title": "DIRECTIVA 2008/73/CE DO CONSELHO Texto relevante para efeitos do EEE de 15 de Julho de 2008",
+     "published": null,
+     "celex": "32008L0073"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Notas",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime Artigo 14º",
+    "Suprime Artigo 15º"
+   ],
+   "fragments": [
+    "f15a13fa9263118c",
+    "01d58ded0a6e595b",
+    "54a419d14f4f7428",
+    "c497d2f366f8037b",
+    "997ceec25966b051",
+    "d04e66054f17a552",
+    "e6c2c8fbb4e3b379",
+    "6b2560b55db928c8",
+    "48ff7143ad07e0ac",
+    "cfd07b7de10ede5f",
+    "96e35121d55f56ce",
+    "5bd31dd165a979e5",
+    "a0b7c969bbe5b034",
+    "43ed576f079bc569",
+    "9a0caf61372b2581",
+    "4eeb78257d8bd1b3",
+    "476d2a6d60ba7240"
+   ]
+  }
+ ],
+ "fragments": {
+  "6ecad5d1dca97c50": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/28/CE do Conselho, de 23 de Junho de 1994, que fixa os princípios relativos às condições zootécnicas e genealógicas aplicáveis às importações de animais, sémen, óvulos e embriões provenientes de países terceiros, e que altera a Directiva 77/504/CEE, que diz respeito aos animais da espécie bovina reprodutores de raça pura** *Jornal Oficial nº L 178 de 12/07/1994 p. 0066 - 0068 Edição especial finlandesa: Capítulo 3 Fascículo 59 p. 0031 Edição especial sueca: Capítulo 3 Fascículo 59 p. 0031*\n\nDIRECTIVA 94/28/CE DO CONSELHO de 23 de Junho de 1994 que fixa os princípios relativos às condições zootécnicas e genealógicas aplicáveis às importações de animais, sémen, óvulos e embriões provenientes de países terceiros, e que altera a Directiva 77/504/CEE, que diz respeito aos animais da espécie bovina reprodutores de raça pura\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43º,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que a criação de animais de raça se enquadra geralmente nas actividades agrícolas; que esses animais constituem uma fonte de rendimento para parte da população agrícola;\n\nConsiderando que, enquanto animais vivos, os animais de raça estão incluídos na lista do anexo II do Tratado;\n\nConsiderando que, para a generalidade dos animais, em especial para os bovinos, suínos, ovinos, caprinos e equídeos, foram definidas regras harmonizadas a nível comunitário no que diz respeito às condições zootécnicas e genealógicas que regem o comércio intracomunitário ou a sua comercialização;\n\nConsiderando que, nesse contexto, o Conselho adoptou a Directiva 77/504/CEE, de 25 de Julho de 1977, que diz respeito aos animais da espécie bovina reprodutores de raça pura (4), a Directiva 88/661/CEE, de 19 de Dezembro de 1988, relativa às normas zootécnicas aplicáveis aos animais reprodutores de espécie suína (5), a Directiva 89/361/CEE, de 30 de Maio de 1989, relativa aos animais reprodutores de raça pura das espécies ovina e caprina (6), a Directiva 90/427/CEE, de 26 de Junho de 1990, relativa às condições zootécnicas e genealógicas que regem o comércio intracomunitário de equídeos (7), e a Directiva 91/174/CEE, de 25 de Março de 1991, relativa às condições zootécnicas e genealógicas que regem a comercialização de animais de raça (8);\n\nConsiderando que, nomeadamente para assegurar um desenvolvimento racional da criação de animais de raça e aumentar, assim, a produtividade do sector, é necessário prever a nível comunitário os princípios relativos às condições zootécnicas e genealógicas aplicáveis às importações provenientes de países terceiros desses animais, do seu sémen, óvulos e embriões;\n\nConsiderando que o disposto na Directiva 90/675/CEE do Conselho, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade (9) bem como o disposto na Directiva 91/496/CEE do Conselho, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade (10), se deve aplicar aos animais e produtos objecto da presente directiva;\n\nConsiderando que é conveniente confiar à Comissão a responsabilidade de adoptar medidas de aplicação em certos domínios de carácter técnico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9be9420263d314d0": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva fixa os princípios relativos às condições zootécnicas e genealógicas aplicáveis às importações provenientes de países terceiros de animais, sémen, óvulos e embriões abrangidos pelas directivas 77/504/CEE, 88/661/CEE, 89/361/CEE, 90/427/CEE e 91/174/CEE e pelas respectivas decisões comunitárias de execução dessas directivas.\n\n2. A presente directiva aplica-se sem prejuízo das regras comunitárias de polícia sanitária aplicáveis às importações provenientes de países terceiros dos animais, sémen, óvulos e embriões referidos no nº 1.\n\n3. A presente directiva não prejudica:\n\n- a aplicação das normas relativas a determinadas substâncias com efeito hormonal e tireostático e as substâncias B-agonistas na especulação animal,\n\n- as importações de animais, sémen, óvulos e embriões abrangidos pelas directivas referidas no nº 1 e destinados a experiências técnicas ou científicas efectuadas sob o controlo das autoridades competentes.\n\n4. As importações de animais, incluindo dos que não são objecto do nº 1, óvulos e embriões não podem ser proibidas, restringidas ou entravadas por razões zootécnicas ou genealógicas que não as resultantes da aplicação da presente directiva.\n\nContudo, enquanto não forem adoptadas regras comunitárias, as regras nacionais em matéria zootécnica ou genealógica permanecem aplicáveis às importações de sémen de animais que não são objecto do nº 1."
+  },
+  "54f7819065fc57b0": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. Para efeitos da presente directiva, entende-se por « instância », quaisquer organizações, organizações de criação, associações de criadores, empresas privadas ou serviços oficiais reconhecidos por manterem, para a espécie e/ou raça em questão, um registo ou livro genealógico em conformidade com as disposições pertinentes das directivas 77/504/CEE, 88/661/CEE, 89/361/CEE, 90/427/CEE e 91/174/CEE.\n\n2. Além disso:\n\na) As definições que constam do artigo 1º das directivas 77/504/CEE, 88/661/CEE e 91/174/CEE e do artigo 2º das directivas 89/361/CEE e 90/427/CEE são respectivamente aplicáveis sempre que necessário;\n\nb) Para efeitos da aplicação da Nomenclatura Combinada (11), entende-se por « cavalos reprodutores de raça pura », os cavalos registados, excepto os capões."
+  },
+  "5085c395b60ec935": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\n1. Para os animais e produtos referidos no nº 1, será estabelecida, nos termos do procedimento previsto no artigo 12º, uma lista de instâncias de cada país terceiro, para a espécie e/ou raça em questão, aprovadas para efeitos da presente directiva.\n\n2. Para constar da lista referida no nº 1, a instância do país terceiro em questão deve:\n\na) Constar de uma lista estabelecida pelas autoridades competentes do país terceiro e comunicada à Comissão e aos Estados-membros;\n\nb) Respeitar, para cada espécie e/ou raça, as exigências pertinentes previstas pela regulamentação comunitária para as instâncias aprovadas na Comunidade, nomeadamente:\n\n- as disposições aplicáveis à inscrição e ao registo nos registos ou livros genealógicos,\n\n- as disposições aplicáveis à admissão dos animais para reprodução,\n\n- as disposições aplicáveis à utilização do sémen, óvulos e embriões dos animais,\n\n- os métodos utilizados para o controlo do desempenho e apreciação do valor genético dos animais;\n\nc) Ser fiscalizada por um serviço oficial de controlo do país terceiro.\n\nd) Comprometer-se a inscrever e/ou registar nos seus livros genealógicos ou registos os animais, sémen, óvulos e embriões e os animais deles derivados, referidos no nº 1 do artigo 1º e originários de uma instância para a espécie e/ou raça em questão, reconhecida nos termos da legislação comunitária.\n\n3. As listas referidas no nº 1 podem ser alteradas nos termos do procedimento previsto no artigo 12º\n\n4. Sempre que necessário, serão adoptadas, nos termos do procedimento previsto no artigo 12º, regras de execução do disposto no presente artigo, nomeadamente na alínea d) do nº 2."
+  },
+  "8aa8b314ab4bf883": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nPara serem importados, os animais referidos no artigo 1º devem:\n\n- estar registados ou inscritos num registo ou livro genealógico mantido por uma instância que conste de uma das listas referidas no nº 1 do artigo 3º,\n\n- ser acompanhados de um certificado genealógico e zootécnico, a estabelecer nos termos do procedimento previsto no artigo 12º,\n\n- ser acompanhados de uma prova de que vão ser registados ou inscritos num registo ou livro genealógico da Comunidade, de acordo com regras a estabelecer nos termos do procedimento previsto no artigo 12º"
+  },
+  "bbe050d4c583c2ad": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nPara ser importado, o sémen referido no artigo 1º deve:\n\n- ser proveniente de um animal registado ou inscrito num registo ou livro genealógico mantido por uma instância que conste de uma das listas referidas no nº 1 do artigo 3º,\n\n- ser proveniente de um animal que tenha sido submetido a controlos de desempenho e de apreciação do valor genético, a fixar nos termos do procedimento previsto no artigo 12º, com base nos princípios previstos pela regulamentação comunitária na matéria,\n\n- ser acompanhado de um certificado genealógico e zootécnico, a estabelecer nos termos do procedimento previsto no artigo 12º,"
+  },
+  "5874ac60643dcfc1": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nPara serem importados, os óvulos referidos no artigo 1º devem:\n\n- ser provenientes de um animal registado ou inscrito num registo ou livro genealógico mantido por uma instância que conste de uma das listas referidas no nº 1 do artigo 3º,\n\n- ser acompanhados de um certificado genealógico e zootécnico, a estabelecer nos termos do procedimento previsto no artigo 12º"
+  },
+  "7f77a4c34bc3917e": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\nPara serem importados, os embriões referidos no artigo 1º devem:\n\n- ser provenientes de um animal registado ou inscrito num registo ou livro genealógico mantido por uma instância que conste de uma das listas referidas no nº 1 do artigo 3º,\n\n- ser acompanhados de um certificado genealógico e zootécnico, a estabelecer nos termos do procedimento previsto no artigo 12º"
+  },
+  "d3d220ce9e1e0d16": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\nA pedido, acompanhado das necessárias justificações, de um Estado-membro ou por sua iniciativa, a Comissão pode fixar, nos termos do procedimento previsto no artigo 12º, fixar requisitos suplementares em matéria zootécnica e genealógica às importações provenientes de países terceiros de determinados animais, sémen, óvulos e embriões, a fim de ter em conta a situação específica desses países terceiros."
+  },
+  "44cb15740c63f1f3": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\n1. O disposto na Directiva 91/496/CEE do Conselho é aplicável aos animais referidos no nº 1 do artigo 1º\n\n2. O disposto na Directiva 90/675/CEE é aplicável aos sémen, óvulos e embriões referidos no nº 1 do artigo 1º\n\n3. Sempre que necessário, serão adoptadas, nos termos do procedimento previsto no artigo 11º, regras de execução específicas relativamente aos controlos zootécnicos a que diz respeito o presente artigo."
+  },
+  "d1b6ebeffc8bffa9": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\nPeritos da Comissão e dos Estados-membros efectuarão controlos no local, a fim de serem elaboradas as listas referidas no nº 1 do artigo 3º, bem como adoptadas as condições previstas nos artigos 4º, 5º, 6º e 7º\n\nOs peritos dos Estados-membros responsáveis pelos controlos serão designados pela Comissão sob proposta dos Estados-membros.\n\nOs controlos serão efectuados por conta da Comunidade, que suportará os encargos correspondentes.\n\nA periodicidade e as regras de execução desses controlos serão determinadas nos termos do procedimento previsto no artigo 12º"
+  },
+  "84117c20351b00e8": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\nNa Directiva 77/504/CEE, a expressão « óvulos fecundados » é substituída por « óvulos e embriões » no segundo travessão do artigo 2º, no segundo parágrafo do artigo 3º e no artigo 5º"
+  },
+  "d97c70a4e1e245e2": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nNos casos em que se remete para o procedimento definido no presente artigo, o Comité Zootécnico Permanente, instituído pela Decisão 77/505/CEE (12), deliberará em conformidade com as regras estabelecidas no artigo 11º da Directiva 88/661/CEE."
+  },
+  "72e0fa08fa9879c9": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias, incluindo as eventuais sanções, para dar cumprimento à presente directiva antes de 1 de Julho de 1995. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva.\n\n3. Enquanto se aguarda a aplicação do disposto na presente directiva, são aplicáveis, em conformidade com as disposições gerais do Tratado, as regras nacionais correspondentes."
+  },
+  "5f10da245d97cbfe": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nA presente directiva em vigor na data da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "a4cf9653bf05f777": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 23 de Junho de 1994.\n\nPelo Conselho\n\nO Presidente\n\nG. MORAITIS\n\n(1) JO nº C 306 de 11. 11. 1993, p. 11.\n\n(2) JO nº C 20 de 24. 1. 1994, p. 518.\n\n(3) JO nº C 127 de 7. 5. 1994, p. 7.\n\n(4) JO nº L 206 de 12. 8. 1977, p. 8. Directiva com a última redacção que lhe foi dada pela Directiva 91/174/CEE (JO nº L 85 de 5. 4. 1991, p. 37).\n\n(5) JO nº L 382 de 31. 12. 1988, p. 36.\n\n(6) JO nº L 153 de 6. 6. 1989, p. 30.\n\n(7) JO nº L 224 de 18. 8. 1990, p. 55.\n\n(8) JO nº L 85 de 5. 4. 1991, p. 37.\n\n(9) JO nº L 373 de 31. 12. 1990, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1601/92 (JO nº L 173 de 27. 6. 1992, p. 13).\n\n(10) JO nº L 268 de 24. 9. 1991, p. 56. Directiva com a última redacção que lhe foi dada pela Decisão 92/438/CEE (JO nº L 243 de 25. 8. 1992, p. 27).\n\n(11) Anexo I do Regulamento (CEE) nº 2658/87 do Conselho, de 23 de Julho de 1987, relativo à nomenclatura pautal e estatística e à Pauta Aduaneira Comum, com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 3080/93 (JO nº L 277 de 10. 11. 1993, p. 1).\n\n(12) JO nº L 206 de 12. 8. 1977, p. 11."
+  },
+  "f15a13fa9263118c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Junho de 1994\n\nque fixa os princípios relativos às condições zootécnicas e genealógicas aplicáveis às importações de animais, sémen, óvulos e embriões provenientes de países terceiros, e que altera a Directiva 77/504/CEE, que diz respeito aos animais da espécie bovina reprodutores de raça pura\n\nO CONSELHO DA UNIAO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 43.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0003)),\n\nConsiderando que a criação de animais de raça se enquadra geralmente nas actividades agrícolas; que esses animais constituem uma fonte de rendimento para parte da população agrícola;\n\nConsiderando que, enquanto animais vivos, os animais de raça estão incluídos na lista do anexo II do Tratado;\n\nConsiderando que, para a generalidade dos animais, em especial para os bovinos, suínos, ovinos, caprinos e equídeos, foram definidas regras harmonizadas a nível comunitário no que diz respeito às condições zootécnicas e genealógicas que regem o comércio intracomunitário ou a sua comercialização;\n\nConsiderando que, nesse contexto, o Conselho adoptou a Directiva 77/504/CEE, de 25 de Julho de 1977, que diz respeito aos animais da espécie bovina reprodutores de raça pura ([^4^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0004)), a Directiva 88/661/CEE, de 19 de Dezembro de 1988, relativa às normas zootécnicas aplicáveis aos animais reprodutores de espécie suína ([^5^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0005)), a Directiva 89/361/CEE, de 30 de Maio de 1989, relativa aos animais reprodutores de raça pura das espécies ovina e caprina ([^6^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0006)), a Directiva 90/427/CEE, de 26 de Junho de 1990, relativa às condições zootécnicas e genealógicas que regem o comércio intracomunitário de equídeos ([^7^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0007)), e a Directiva 91/174/CEE, de 25 de Março de 1991, relativa às condições zootécnicas e genealógicas que regem a comercialização de animais de raça ([^8^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0008));\n\nConsiderando que, nomeadamente para assegurar um desenvolvimento racional da criação de animais de raça e aumentar, assim, a produtividade do sector, é necessário prever a nível comunitário os princípios relativos às condições zootécnicas e genealógicas aplicáveis às importações provenientes de países terceiros desses animais, do seu sémen, óvulos e embriões;\n\nConsiderando que o disposto na Directiva 90/675/CEE do Conselho, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade ([^9^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0009)) bem como o disposto na Directiva 91/496/CEE do Conselho, de 15 de Julho de 1991, que fixa os princípios relativos à organização dos controlos veterinários dos animais provenientes de países terceiros introduzidos na Comunidade ([^10^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0010)), se deve aplicar aos animais e produtos objecto da presente directiva;\n\nConsiderando que é conveniente confiar à Comissão a responsabilidade de adoptar medidas de aplicação em certos domínios de carácter técnico,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "01d58ded0a6e595b": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva fixa os princípios relativos às condições zootécnicas e genealógicas aplicáveis às importações provenientes de países terceiros de animais, sémen, óvulos e embriões abrangidos pelas directivas 77/504/CEE, 88/661/CEE, 89/361/CEE, 90/427/CEE e 91/174/CEE e pelas respectivas decisões comunitárias de execução dessas directivas.\n\n2. A presente directiva aplica-se sem prejuízo das regras comunitárias de polícia sanitária aplicáveis às importações provenientes de países terceiros dos animais, sémen, óvulos e embriões referidos no n.º 1.\n\n3. A presente directiva não prejudica:\n\n— a aplicação das normas relativas a determinadas substâncias com efeito hormonal e tireostático e as substâncias B-agonistas na especulação animal,\n\n— as importações de animais, sémen, óvulos e embriões abrangidos pelas directivas referidas no n.º 1 e destinados a experiências técnicas ou científicas efectuadas sob o controlo das autoridades competentes.\n\n4. As importações de animais, incluindo dos que não são objecto do n.º 1, óvulos e embriões não podem ser proibidas, restringidas ou entravadas por razões zootécnicas ou genealógicas que não as resultantes da aplicação da presente directiva.\n\nContudo, enquanto não forem adoptadas regras comunitárias, as regras nacionais em matéria zootécnica ou genealógica permanecem aplicáveis às importações de sémen de animais que não são objecto do n.º 1."
+  },
+  "54a419d14f4f7428": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos da presente directiva, entende-se por «instância», quaisquer organizações, organizações de criação, associações de criadores, empresas privadas ou serviços oficiais reconhecidos por manterem, para a espécie e/ou raça em questão, um registo ou livro genealógico em conformidade com as disposições pertinentes das directivas 77/504/CEE, 88/661/CEE, 89/361/CEE, 90/427/CEE e 91/174/CEE.\n\n2. Além disso:\n\na) As definições que constam do artigo 1.º das directivas 77/504/CEE, 88/661/CEE e 91/174/CEE e do artigo 2.º das directivas 89/361/CEE e 90/427/CEE são respectivamente aplicáveis sempre que necessário;\n\nb) Para efeitos da aplicação da Nomenclatura Combinada ([^11^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0011)), entende-se por «cavalos reprodutores de raça pura», os cavalos registados, excepto os capões."
+  },
+  "c497d2f366f8037b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. É estabelecida uma lista de organismos de cada país terceiro, para a espécie e/ou raça em questão, aprovadas para efeitos da presente directiva pelas autoridades competentes desses países, que deve ser comunicada à Comissão.\n\nA aprovação de um organismo tem de ser imediatamente retirada ou suspensa pela autoridade competente do respectivo país terceiro sempre que aquela deixe de cumprir as condições estabelecidas na alínea b) do n.º 2 do artigo 3.º, devendo a Comissão ser imediatamente informada desse facto.\n\nA Comissão transmite aos Estados-Membros eventuais listas novas e actualizadas que receba das autoridades competentes dos países terceiros em causa, em conformidade com o segundo parágrafo, disponibilizando-as ao público para efeitos de informação.\n\n2. Para constar da lista referida no n.º 1, a instância do país terceiro em questão deve:\n\nb) Respeitar, para cada espécie e/ou raça, as exigências pertinentes previstas pela regulamentação comunitária para as instâncias aprovadas na Comunidade, nomeadamente:\n\n— as disposições aplicáveis à inscrição e ao registo nos registos ou livros genealógicos,\n\n— as disposições aplicáveis à admissão dos animais para reprodução,\n\n— as disposições aplicáveis à utilização do sémen, óvulos e embriões dos animais,\n\n— os métodos utilizados para o controlo do desempenho e apreciação do valor genético dos animais;\n\nc) Ser fiscalizada por um serviço oficial de controlo do país terceiro.\n\nd) Comprometer-se a inscrever e/ou registar nos seus livros genealógicos ou registos os animais, sémen, óvulos e embriões e os animais deles derivados, referidos no n.º 1 do artigo 1.º e originários de uma instância para a espécie e/ou raça em questão, reconhecida nos termos da legislação comunitária.\n\n4. Sempre que necessário, serão adoptadas, nos termos do procedimento previsto no artigo 12.º, regras de execução do disposto no presente artigo, nomeadamente na alínea d) do n.º 2."
+  },
+  "997ceec25966b051": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPara serem importados, os animais referidos no artigo 1.º devem:\n\n— estar registados ou inscritos num registo ou livro genealógico mantido por uma instância que conste de uma das listas referidas no n.º 1 do artigo 3.º,\n\n— ser acompanhados de um certificado genealógico e zootécnico, a estabelecer nos termos do procedimento previsto no artigo 12.º,\n\n— ser acompanhados de uma prova de que vão ser registados ou inscritos num registo ou livro genealógico da Comunidade, de acordo com regras a estabelecer nos termos do procedimento previsto no artigo 12.º"
+  },
+  "d04e66054f17a552": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPara ser importado, o sémen referido no artigo 1.º deve:\n\n— ser proveniente de um animal registado ou inscrito num registo ou livro genealógico mantido por uma instância que conste de uma das listas referidas no n.º 1 do artigo 3.º,\n\n— ser proveniente de um animal que tenha sido submetido a controlos de desempenho e de apreciação do valor genético, a fixar nos termos do procedimento previsto no artigo 12.º, com base nos princípios previstos pela regulamentação comunitária na matéria,\n\n— ser acompanhado de um certificado genealógico e zootécnico, a estabelecer nos termos do procedimento previsto no artigo 12.º,"
+  },
+  "e6c2c8fbb4e3b379": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nPara serem importados, os óvulos referidos no artigo 1.º devem:\n\n— ser provenientes de um animal registado ou inscrito num registo ou livro genealógico mantido por uma instância que conste de uma das listas referidas no n.º 1 do artigo 3.º,\n\n— ser acompanhados de um certificado genealógico e zootécnico, a estabelecer nos termos do procedimento previsto no artigo 12.º"
+  },
+  "6b2560b55db928c8": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPara serem importados, os embriões referidos no artigo 1.º devem:\n\n— ser provenientes de um animal registado ou inscrito num registo ou livro genealógico mantido por uma instância que conste de uma das listas referidas no n.º 1 do artigo 3.º,\n\n— ser acompanhados de um certificado genealógico e zootécnico, a estabelecer nos termos do procedimento previsto no artigo 12.º"
+  },
+  "48ff7143ad07e0ac": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA pedido, acompanhado das necessárias justificações, de um Estado-membro ou por sua iniciativa, a Comissão pode fixar, nos termos do procedimento previsto no artigo 12.º, fixar requisitos suplementares em matéria zootécnica e genealógica às importações provenientes de países terceiros de determinados animais, sémen, óvulos e embriões, a fim de ter em conta a situação específica desses países terceiros."
+  },
+  "cfd07b7de10ede5f": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O disposto na Directiva 91/496/CEE do Conselho é aplicável aos animais referidos no n.º 1 do artigo 1.º\n\n2. O disposto na Directiva 90/675/CEE é aplicável aos sémen, óvulos e embriões referidos no n.º 1 do artigo 1.º\n\n3. Sempre que necessário, serão adoptadas, nos termos do procedimento previsto no artigo 11.º, regras de execução específicas relativamente aos controlos zootécnicos a que diz respeito o presente artigo."
+  },
+  "96e35121d55f56ce": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nPeritos da Comissão e dos Estados-membros efectuarão controlos no local, a fim de serem elaboradas as listas referidas no n.º 1 do artigo 3.º, bem como adoptadas as condições previstas nos artigos 4.º, 5.º, 6.º e 7.º\n\nOs peritos dos Estados-membros responsáveis pelos controlos serão designados pela Comissão sob proposta dos Estados-membros.\n\nOs controlos serão efectuados por conta da Comunidade, que suportará os encargos correspondentes.\n\nA periodicidade e as regras de execução desses controlos serão determinadas nos termos do procedimento previsto no artigo 12.º\n\nSempre que se justificar, por motivos de infracção grave ao disposto na alínea b) do n.º 2 do artigo 3.º, nomeadamente à luz dos resultados dos controlos no local mencionados no primeiro parágrafo do presente artigo, podem ser adoptadas medidas de suspensão das importações de animais, sémen, óvulos e embriões referidas no n.º 1 do artigo 1.º, nos termos do artigo 12.º."
+  },
+  "5bd31dd165a979e5": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nNa Directiva 77/504/CEE, a expressão «óvulos fecundados» é substituída por «óvulos e embriões» no segundo travessão do artigo 2.º, no segundo parágrafo do artigo 3.º e no artigo 5.º"
+  },
+  "a0b7c969bbe5b034": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nNos casos em que se remete para o procedimento definido no presente artigo, o Comité Zootécnico Permanente, instituído pela Decisão 77/505/CEE ([^12^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#E0012)), deliberará em conformidade com as regras estabelecidas no artigo 11.º da Directiva 88/661/CEE."
+  },
+  "43ed576f079bc569": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias, incluindo as eventuais sanções, para dar cumprimento à presente directiva antes de 1 de Julho de 1995. Do facto informarão imediatamente a Comissão.\n\nQuando os Estados-membros adoptarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-membros.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito interno que adoptem no domínio regido pela presente directiva.\n\n3. Enquanto se aguarda a aplicação do disposto na presente directiva, são aplicáveis, em conformidade com as disposições gerais do Tratado, as regras nacionais correspondentes."
+  },
+  "9a0caf61372b2581": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA presente directiva em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "4eeb78257d8bd1b3": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs Estados-membros são os destinatários da presente directiva.\n\n---"
+  },
+  "476d2a6d60ba7240": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0001)) JO n.º C 306 de 11.11.1993, p. 11.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0002)) JO n.º C 20 de 24.1.1994, p. 518.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0003)) JO n.º C 127 de 7.5.1994, p. 7.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0004)) JO n.º L 206 de 12.8.1977, p. 8. Directiva com a última redacção que lhe foi dada pela Directiva 91/174/CEE (JO n.º L 85 de 5.4.1991, p. 37).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0005)) JO n.º L 382 de 31.12.1988, p. 36.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0006)) JO n.º L 153 de 6.6.1989, p. 30.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0007)) JO n.º L 224 de 18.8.1990, p. 55.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0008)) JO n.º L 85 de 5.4.1991, p. 37.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0009)) JO n.º L 373 de 31.12.1990, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 1601/92 (JO n.º L 173 de 27.6.1992, p. 13).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0010)) JO n.º L 268 de 24.9.1991, p. 56. Directiva com a última redacção que lhe foi dada pela Decisão 92/438/CEE (JO n.º L 243 de 25.8.1992, p. 27).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0011)) Anexo I do Regulamento (CEE) n.º 2658/87 do Conselho, de 23 de Julho de 1987, relativo à nomenclatura pautai e estatística e à Pauta Aduaneira Comum, com a última redacção que lhe foi dada pelo Regulamento (CEE) n.º 3080/93 (JO n.º L 277 de 10.11.1993, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/02c33b4d-5b15-485a-911f-2293655f2611.0018.03/DOC_1#src.E0012)) JO n.º L 206 de 12.8.1977, p. 11."
+  }
+ }
+}

@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:307427:por
+title: Portaria n.º 549/75
+short_title: null
+summary: Fixa as condições a que devem obedecer as vendas a prestações
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios para o Planeamento Económico e Coordenação Económica e das Finanças
+proposing_entity: null
+official_number: 549/75
+official_date: null
+publication_date: '1975-09-11'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 210/1975, Série I de 1975-09-11
+  number: '210'
+  series: I
+  supplement: null
+  pages: 1336 - 1338
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/09/21000/13361338.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '307427'
+  dre_path: /dr/detalhe/portaria/549-1975-307427
+  internal: pt:dre:307427:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/549-1975-307427
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/549-1975-307427
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:49:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f903057817b8e4c2e19a3ba97ca972ab81dee6ee692abcad78b4b60b8ae9ecbc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:49:26Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Regime Jurídico
+- TAXA de JURO
+- Venda a Prestações
+relationships:
+- type: amended_by
+  target: pt:dre:367607:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:204403:por
+  label: "Alterado o n.º 6 e a al. h) do mapa anexo ao presente diploma, pela PORT.72/77.1977.02.12.MPCE DR.IS [36]2ºSUPL\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/72-1977-204403
+  date: '1977-02-12'
+- type: amended_by
+  target: pt:dre:328667:por
+  label: "Aditado um n.º 3 ao n.º 6, pela PORT.613/78.1978.10.12.MFP DR.IS [235]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/613-1978-328667
+  date: '1978-10-12'
+- type: cites
+  target: pt:dre:314912:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631441:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:367607:por
+  label: "Revogada pela PORT.602/79.1979.11.21.MF DR.IS [269]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/602-1979-367607
+  date: '1979-11-21'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:49:26Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 549/75
+
+de 11 de Setembro
+
+Nos termos do disposto no artigo 2.º do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro, com a nova redacção dada pelo artigo 1.º do [Decreto-Lei n.º 451/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1975-314912), de 21 de Agosto, e no artigo 7.º daquele mesmo diploma:
+
+Manda o Governo da República Portuguesa, pelos Ministros para o Planeamento e Coordenação Económica e das Finanças, o seguinte:
+
+1.º Em todos os casos de vendas a prestações, de valor inferior ou igual a 5000$00, e independentemente da natureza dos bens ou serviços a que respeitem, é aplicável o disposto nos artigos 3.º e 5.º do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro, com a nova redacção dada pelo [Decreto-Lei n.º 451/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1975-314912), de 21 de Agosto, bem como o disposto nos artigos 6.º, 10.º e 14.º do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro, e:
+
+a) O desembolso inicial mínimo será de 30% do preço de venda a contado;
+
+b) O prazo máximo que pode ser convencionado para o pagamento total do montante do preço da operação, a contar da data do desembolso inicial, será de dezoito meses;
+
+c) O valor mínimo de cada prestação mensal, incluindo os juros e demais encargos definidos na presente portaria, será de 200$00.
+
+2.º Para os casos de vendas a prestações de valor superior a 5000$00 é aplicável:
+
+a) O disposto nos artigos 2.º, 3.º, 4.º e 5.º do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro, com a nova redacção do [Decreto-Lei n.º 451/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1975-314912), de 21 de Agosto, e ainda o disposto nos artigos 8.º, 10.º e 14.º do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro;
+
+b) O disposto nas alíneas a), b) e c) do n.º 1 desta portaria, com ressalva de que o valor mínimo de cada prestação mensal será de 500$00.
+
+3.º - 1. Nas vendas a prestações de bens ou serviços descriminados no mapa anexo à presente portaria observar-se-ão os limites nele fixados relativamente ao desembolso inicial mínimo e aos prazos máximos que podem ser convencionados para o pagamento total do montante do preço da operação, a contar da data do desembolso inicial.
+
+2. Tais vendas deverão obedecer também ao disposto nos artigos 2.º, 3.º, 4.º e 5.º do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 451/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1975-314912), de 21 de Agosto, e ainda ao preceituado nos artigos 6.º, 8.º, 10.º e 14.º do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro.
+
+3. Nessas vendas o valor mínimo de cada prestação mensal, incluindo os juros e demais encargos definidos na presente portaria, será de 200$00 ou 500$00, consoante o valor da venda seja inferior ou igual a 5000$00 ou superior a esta importância.
+
+4.º Sempre que o comprador der em troca uma ou mais coisas de qualquer natureza, poderá o seu valor ser considerado como parte integrante do desembolso inicial.
+
+5.º As prestações subsequentes deverão ser todas iguais, à excepção da última, cujo montante, no entanto, obedecerá ao disposto no artigo 5.º, n.º 1, do [Decreto-Lei n.º 490/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1971-631441), de 10 de Novembro.
+
+6.º - 1. Independentemente do prazo de venda a prestações, os encargos a cobrar ao comprador não poderão exceder uma taxa máxima global de juro anual de 13%, que incidirá sobre o montante do preço em dívida após o desembolso inicial.
+
+2. Tal taxa variará automaticamente, e por forma idêntica, sempre que ocorram alterações à taxa de desconto do Banco de Portugal. Nas operações em curso não se procederá a qualquer ajustamento de taxa.
+
+7.º Nos preços a contado das coisas oferecidas para venda a prestações terá obrigatoriamente de observar-se o que quanto a eles estiver legalmente estabelecido.
+
+8.º Não se encontram sujeitas ao disposto nesta portaria, quer quanto a desembolso inicial, quer quanto a prazo máximo para pagamento total do montante da operação, as vendas a prestações de bens de equipamento destinados à agricultura, pecuária, silvicultura, pesca, comércio e indústria.
+
+9.º As dúvidas que se suscitem na aplicação do disposto na presente portaria serão resolvidas por despacho conjunto dos Ministros para o Planeamento e Coordenação Económica e das Finanças.
+
+10.º Fica revogada a [Portaria n.º 341/72](https://diariodarepublica.pt/dr/detalhe/portaria/341-1972-682608), de 16 de Junho.
+
+11.º Esta portaria entra imediatamente em vigor.
+
+Ministérios para o Planeamento e Coordenação Económica e das Finanças, 22 de Agosto de 1975. - O Ministro para o Planeamento e Coordenação Económica, Mário Luís da Silva Murteira. - O Ministro das Finanças, José Joaquim Fragoso.
+
+Mapa a que se refere o n.º 3 da Portaria n.º 549/75, de 11 de Setembro
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/09/21000/13361338.pdf)
+
+O Ministro para o Planeamento e Coordenação Económica, Mário Luís da Silva Murteira. - O Ministro das Finanças, José Joaquim Fragoso.

@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:1071448217:por
+title: Resolução da Assembleia da República n.º 52/2026
+short_title: null
+summary: Recomenda ao Governo medidas de isenção ou reembolso de portagens nos municípios afetados pela tempestade Kristin.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 52/2026
+official_date: null
+publication_date: '2026-03-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/2026, Série I de 2026-03-13
+  number: '51'
+  series: I
+  supplement: null
+  pages: 2 - 2
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/03/05100/0000200002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/52/2026/03/13/p/dre/pt/html
+  oj: null
+  dre: '1071448217'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/52-2026-1071448217
+  internal: pt:dre:1071448217:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2026-1071448217
+  metadata_url: https://data.dre.pt/eli/resolassrep/52/2026/03/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/52-2026-1071448217
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:35:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4451a335122facfcc44ad43fb61f1251ac01ab08ef2cca51da3e656aeb3aa1f5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:35:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Auto-estrada do Norte
+- Governo
+- Isenção de Portagem
+- Portagem
+- Recomendação
+- Reembolso
+- Situação de Calamidade
+relationships:
+- type: cites
+  target: pt:dre:1031784677:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/15-b/2026/01/30/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:35:34Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 52/2026
+
+Recomenda ao Governo medidas de isenção ou reembolso de portagens nos municípios afetados pela tempestade Kristin
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Inclua, no âmbito da isenção temporária do pagamento de portagens em vigor, os lanços da A1 que servem os municípios abrangidos pela situação de calamidade, decorrente da tempestade Kristin, declarada pela [Resolução do Conselho de Ministros n.º 15-B/2026](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/15-b-2026-1031784677), de 30 de janeiro.
+
+2 - Crie um mecanismo de devolução do valor pago por utilizadores que tenham necessariamente utilizado vias portajadas, entre 28 de janeiro e 3 de fevereiro de 2026, em resultado de cortes ou condicionamentos de estradas nacionais, municipais ou locais, ou situações de emergência, solidariedade, segurança ou proteção civil.
+
+3 - Defina, em articulação com as concessionárias rodoviárias, mecanismos simples e céleres para a identificação dos períodos e dos procedimentos de devolução das quantias pagas, garantindo que o processo não implica encargos administrativos excessivos ou penalizações.
+
+4 - Avalie a criação de um regime jurídico que permita a ativação automática de isenções temporárias de portagens em contextos de fenómenos climáticos extremos ou de proteção civil.
+
+Aprovada em 13 de fevereiro de 2026.
+
+O Presidente da Assembleia da República, José Pedro Aguiar Branco.
+
+119947992

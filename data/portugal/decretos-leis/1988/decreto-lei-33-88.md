@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:282717:por
+title: Decreto-Lei n.º 33/88
+short_title: null
+summary: Concede facilidades na regularização de situações em falta quanto ao pagamento da taxa de utilização da televisão
+  e registo de aparelhos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 33/88
+official_date: null
+publication_date: '1988-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/1988, Série I de 1988-02-04
+  number: '29'
+  series: I
+  supplement: null
+  pages: 384 - 385
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/02/02900/03840385.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '282717'
+  dre_path: /dr/detalhe/decreto-lei/33-1988-282717
+  internal: pt:dre:282717:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1988-282717
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-1988-282717
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:42:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: acb8a7689ddd2483b8c0d7df7b05ac48349ef9699f05e2d4298589538a6ae9d1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:42:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- RTP
+- TAXA de Televisão
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:42:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 33/88
+
+de 4 de Fevereiro
+
+Comemora-se no presente ano o 30.º aniversário da Radiotelevisão Portuguesa, E. P., como responsável pela emissão do serviço público de televisão em Portugal.
+
+Pretendendo associar-se o público em geral a tal comemoração e considerando a existência de muitos aparelhos televisivos espalhados pelo País cuja regularização e registo só não foi efectuada porque os seus possuidores se sentem dissuadidos de o fazer por conhecerem a sua situação de falta face às normas disciplinadoras de tal matéria, o que acarreta grandes prejuízos financeiros para a Radiotelevisão Portuguesa, E. P., entendeu o Governo, a título muito excepcional, conceder algumas facilidades no registo e regularização dos aparelhos de televisão.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os possuidores ou detentores de aparelhos televisivos que à data da entrada em vigor do presente diploma tenham em mora o pagamento da respectiva taxa de utilização poderão regularizar as suas situações no prazo de 60 dias, beneficiando de perdão sobre os juros de mora a que estiverem sujeitos, desde que as taxas em dívida ainda não hajam sido remetidas aos juízos competentes para cobrança coerciva.
+
+Art. 2.º - 1 - Os possuidores ou detentores de aparelhos televisivos não registados ficam isentos de pagamento de multa desde que procedam ao respectivo registo no prazo de 120 dias a contar da data de entrada em vigor do presente diploma.
+
+2 - O registo será efectuado com base nos elementos fornecidos pelos requerentes, sem necessidade de apresentação de documento comprovativo da data e local da aquisição do aparelho.
+
+3 - O registo poderá ser solicitado directamente aos balcões da Radiotelevisão Portuguesa, E. P., nas cidades de Lisboa, Porto, Funchal e Ponta Delgada, ou em qualquer estação dos CTT existente no País, através do preenchimento de impresso normal de registo.
+
+Art. 3.º No prazo de 120 dias a contar da entrada em vigor do presente diploma, serão aceites pedidos de cancelamento de anteriores registos, sem necessidade de apresentação de documento comprovativo da inutilização dos aparelhos primitivos, desde que acompanhados de pedido de novo registo de televisão a cores.
+
+Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - António Fernando Couto dos Santos.
+
+Promulgado em 20 de Janeiro de 1988.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 22 de Janeiro de 1988.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

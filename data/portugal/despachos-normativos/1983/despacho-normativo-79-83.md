@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:313031:por
+title: Despacho Normativo n.º 79/83
+short_title: null
+summary: Regulamenta a atribuição do subsídio de reconversão profissional dos artistas, intérpretes ou executantes
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios do Trabalho, dos Assuntos Sociais e da Cultura e Coordenação Científica - Secretarias de Estado do Emprego,
+  da Segurança Social e da Cultura
+proposing_entity: null
+official_number: 79/83
+official_date: null
+publication_date: '1983-04-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 81/1983, Série I de 1983-04-08
+  number: '81'
+  series: I
+  supplement: null
+  pages: 1225 - 1226
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/04/08100/12251226.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '313031'
+  dre_path: /dr/detalhe/despacho-normativo/79-1983-313031
+  internal: pt:dre:313031:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/79-1983-313031
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/79-1983-313031
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:26:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bb5e4c4e908d763427e7b123a72b686ebaa8537cb1a0b66b0b22157c5c3eb0bb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:26:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Profissão Artística
+- Segurança Social
+- Subsídio de Reconversão Profissional
+- Trabalhador Independente
+relationships:
+- type: amended_by
+  target: pt:dre:670003:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:375268:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:326279:por
+  label: Rectificado pela DECL.DD5754.21.04.1983.PCM, DR.IS [99-Supl] de 30.04.1983
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-326279
+  date: '1983-04-21'
+- type: repealed_by
+  target: pt:dre:670003:por
+  label: "Revogado, nos termos do art. 7º, pela LEI.28/2011.16.06.2011.AR, DR.IS [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/28-2011-670003
+  date: '2011-06-16'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:26:37Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 79/83
+
+1 - A importância das actividades exercidas pelos artistas, intérpretes ou executantes no contexto da vida cultural do País e o reconhecimento dos condicionalismos específicos que rodeiam essas actividades determinaram a adopção de medidas para adequar os regimes de segurança social aos referidos condicionalismos.
+
+Foi esse o objectivo do [Decreto-Lei n.º 407/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1982-375268), de 27 de Setembro, o qual prevê a colaboração do Ministério da Cultura e Coordenação Científica na regulamentação e no financiamento das medidas previstas para prevenir e obviar aos riscos sociais que incidem com maior acuidade sobre aqueles trabalhadores.
+
+Com essa finalidade criou o citado decreto-lei os subsídios de gravidez e de reconversão profissional, para cujo financiamento concorre o Ministério da Cultura e Coordenação Científica, a par do Fundo Especial da Caixa de Previdência dos Profissionais de Espectáculos.
+
+2 - Importa agora proceder à regulamentação do subsídio de reconversão profissional e determinar a forma como se deverá processar o financiamento garantido pelo Ministério da Cultura e Coordenação Científica, pelo Fundo Especial da referida instituição de previdência e pelo Instituto do Emprego e Formação Profissional.
+
+Nestes termos, ao abrigo do n.º 2 do artigo 11.º e dos artigos 14.º e 15.º do [Decreto-Lei n.º 407/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1982-375268), de 27 de Setembro, determina-se o seguinte:
+
+1.º
+
+(Finalidades do subsídio de reconversão profissional)
+
+O subsídio de reconversão profissional a que se refere o artigo 11.º do [Decreto-Lei n.º 407/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1982-375268), de 27 de Setembro, é uma prestação pecuniária mensal destinada a ocorrer à subsistência do candidato e do respectivo agregado familiar durante o estágio de reconversão profissional.
+
+2.º
+
+(Condições para requerer)
+
+1 - Para requerer a atribuição do subsídio de reconversão profissional, os artistas, intérpretes ou executantes devem satisfazer, cumulativamente, as seguintes condições:
+
+a) Terem exercido, comprovadamente, uma actividade artística como profissionais durante um período não inferior a 10 anos, com entrada de contribuições para a segurança social referentes, pelo menos, aos 5 últimos anos;
+
+b) Terem cessado o exercício da actividade artística há mais de 6 meses e menos de 2 anos;
+
+c) Terem idade inferior à estabelecida para o acesso à pensão de velhice;
+
+d) Terem rendimentos inferiores à remuneração mínima mensal garantida à generalidade dos trabalhadores.
+
+3.º
+
+(Requerimento)
+
+O requerimento para atribuição de subsídio de reconversão profissional deverá ser apresentado na instituição de segurança social gestora, acompanhado dos seguintes documentos:
+
+a) Certidão de registo de nascimento, bilhete de identidade ou outro documento de identificação bastante;
+
+b) Declaração formal do interesse quanto à cessação da actividade artística, data a que a mesma se reporta e montante dos seus rendimentos;
+
+c) Projecto fundamentado para a reconversão profissional, contendo a previsão dos meios financeiros necessários.
+
+4.º
+
+(Organização dos processos)
+
+Os processos para atribuição de subsídio de reconversão profissional devem compreender, para além do requerimento e dos documentos referidos na norma anterior, os seguintes elementos:
+
+a) Um relatório do serviço social da instituição gestora sobre as condições sócio-económicas do interessado;
+
+b) Quaisquer outros elementos que a instituição gestora considere adequados à correcta definição da situação do interessado, designadamente a averiguação oficiosa dos rendimentos;
+
+c) As informações que a instituição gestora considere necessário obter para avaliação da viabilidade do projecto de reconversão profissional apresentado;
+
+d) Para efeitos do previsto e disposto na alínea c) do n.º 1 do artigo 3.º compete à instituição gestora organizar a lista das entidades consideradas idóneas para avalização do requerimento a apresentar pelo interessado.
+
+5.º
+
+(Montante do subsídio)
+
+O montante global do subsídio de reconversão profissional será fixado caso a caso, tendo em atenção os elementos constantes do processo e a duração do estágio, não podendo, no entanto, exceder valor igual a 12 vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores.
+
+6.º
+
+(Forma e período de atribuição)
+
+1 - O subsídio de reconversão profissional poderá ser atribuído por uma só vez ou em prestações mensais.
+
+2 - Nos casos em que o subsídio seja atribuído mensalmente, o período de concessão não poderá exceder 24 meses.
+
+7.º
+
+(Decisão e homologação)
+
+1 - Os processos para atribuição de subsídio de reconversão profissional, depois de devidamente instruídos, serão objecto de decisão por parte da instituição gestora sobre o fundamento dos requerimentos e, quando for caso disso, sobre o montante do subsídio.
+
+2 - Da decisão que indefira o pedido de atribuição do subsídio, cabe recurso a interpor pelo interessado e dirigido ao Ministro dos Assuntos Sociais.
+
+3 - A decisão a que se refere o n.º 1 será obrigatoriamente sujeita à homologação dos Ministros do Trabalho, dos Assuntos Sociais e da Cultura e Coordenação Científica.
+
+8.º
+
+(Transferência de verbas)
+
+1 - As verbas disponíveis em cada trimestre com os subsídios de reconversão profissional serão apuradas provisoriamente pelo Instituto de Gestão Financeira da Segurança Social até ao fim do mês seguinte, procedendo o Ministério da Cultura e Coordenação Científica e o Instituto do Emprego e Formação Profissional à transferência para aquele Instituto dos montantes pelos quais é responsável até ao fim do 2.º mês do trimestre seguinte.
+
+2 - Até 15 de Julho de cada ano procederá o Instituto de Gestão Financeira da Segurança Social ao apuramento definitivo dos montantes a que se refere o número anterior, sendo os eventuais ajustamentos necessários realizados no orçamento do ano seguinte.
+
+9.º
+
+(Contabilização de despesas)
+
+Com o objectivo de dar cumprimento ao disposto na norma anterior deverá a instituição gestora proceder, de forma automatizada, à contabilização das despesas relativas às prestações em causa.
+
+Secretarias de Estado do Emprego, da Segurança Social e da Cultura, 14 de Março de 1983. - O Secretário de Estado do Emprego, Artur José Moreira Pereira da Mota. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix. - O Secretário de Estado da Cultura, António José Tomás Gomes de Pinho.

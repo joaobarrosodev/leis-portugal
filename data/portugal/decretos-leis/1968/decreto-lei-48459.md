@@ -1,0 +1,801 @@
+---
+schema_version: '1.0'
+id: pt:dre:273006:por
+title: Decreto-Lei n.º 48459
+short_title: null
+summary: Aprova, para adesão, o Protocolo adicional facultativo à Convenção Internacional das Telecomunicações, concluída
+  em Montreux em 12 de Novembro de 1965, relativo à solução obrigatória de litígios
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Económicos
+proposing_entity: null
+official_number: '48459'
+official_date: null
+publication_date: '1968-06-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 152/1968, Série I de 1968-06-28
+  number: '152'
+  series: I
+  supplement: null
+  pages: 933 - 937
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/06/15200/09330937.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '273006'
+  dre_path: /dr/detalhe/decreto-lei/48459-1968-273006
+  internal: pt:dre:273006:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48459-1968-273006
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48459-1968-273006
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:05:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1743499bcc81b8cd33e102231be1245e99d67c2686d62cfa51517854f4fc3cc7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:05:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comunicações
+- Cooperação Internacional
+- Montreux
+- Portugal
+- Suíça
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:05:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 48459
+
+Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo único. É aprovado, para adesão, o Protocolo adicional facultativo à Convenção Internacional das Telecomunicações, concluída em Montreux em 12 de Novembro de 1965, relativo à solução obrigatória de litígios, cujo texto em francês e a respectiva tradução para português vão anexos ao presente decreto-lei.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 28 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Protocole additionnel facultatif à la Convention Internationale des Télécommunications (Montreux, 1965)
+
+Règlement obligatoire des différends
+
+Au moment de procéder à la signature de la Convention Internationale des Télécommunications (Montreux, 1965), les plénipotentiaires soussignés ont signé le Protocole additionnel facultatif suivant relatif au règlement obligatoire des différends et faisant partie des Actes Finals de la Conférence de Plénipotentiaires (Montreux, 1965). Les Membres et les Membres associés de l Union, Parties au présent Protocole additionnel facultatif à la Convention Internationale des Télécommunications (Montreux, 1965);
+
+Exprimant le désir de recourir, pour ce qui les concerne, à l arbitrage obligatoire pour la solution de tous différends relatifs à l application de la Convention ou des règlements prévus à l article 15 de celle-ci;
+
+Sont convenus des dispositions suivantes:
+
+ARTICLE PREMIER
+
+À moins qu un des modes de règlement énumérés à l article 28 de la Convention n ait été choisi d un commun accord, les différends relatifs à l application de la Convention ou des règlements prévus à l article 15 de celleci sont à la demande d une des Parties, soumis à un arbitrage obligatoire. La procédure est celle de l Annexe 3 à la Convention, dont le paragraphe 5 est modifié comme suit:
+
+5. Dans le délai de trois mois à compter de la date de réception de la notification de la demande d arbitrage, chacune de deux parties en cause désigne un arbitre. Si, à l échéance de ce délai, l une des parties n a pas désigné son arbitre, cette désignation est faite, à la demande de l autre partie, par le secrétaire général qui procède conformément aux dispositions des paragraphes 3 et 4 de l Annexe 3 à la Convention.
+
+ARTICLE 2
+
+Le présent Protocole sera ouvert à la signature des Membres et Membres associés qui signeront la Convention. Il sera ratifié selon la procédure prévue pour la Convention et restera ouvert à l adhésion des États qui deviendront Membres ou Membres associés de l Union.
+
+ARTICLE 3
+
+Le présent Protocole entrera en vigueur le même jour que la Convention, ou le trentième jour suivant la date de dépôt du second instrument de ratification oo d adhésion, mais au plus tôt lors de l entrée en vigueur de la Convention.
+
+Pour chaque Membre associé qui ratifiera le présent Protocole ou y adhérera après son entrée en vigueur, ce Protocole entrera en vigueur le trentième jour après le dépôt de l instrument de ratification ou d adhésion.
+
+ARTICLE 4
+
+Le secrétaire général notifiera à tous les Membres et Membres associés:
+
+a) Les signatures apposées au présent Protocole et le dépôt des instruments de ratification ou d adhésion;
+
+b) La date à laquelle le présent Protocole entrera en vigueur.
+
+En foi de quoi, les plénipotentiaires respectifs ont signé le présent Protocole en un exemplaire dans chacune des langues anglaise, chinoise, espagnole, française et russe, le texte français faisant foi en cas de contestation; cet exemplaire restera déposé aux archives de l Union internationale des télécommunications, laquelle en remettra une copie à chacun des pays signataires.
+
+Fait à Montreux, le 12 novembro 1965.
+
+Pour l'Afghanistan:
+
+M. A. Gran.
+
+S. N. Alawi.
+
+Pour le Commonwealth de l'Australie:
+
+C. J. Griffiths.
+
+R. E. Butler.
+
+Pour l'Autriche:
+
+B. Schaginger.
+
+K. Vavra.
+
+A. Sapik.
+
+Pour la Belgique:
+
+M. C. E. D. Lambiotte.
+
+R. Rothschild.
+
+Pour l'Union de Birmanie:
+
+Min Lwin.
+
+Pe Than.
+
+Pour la Bolivie:
+
+Sra. M. C. Sejas Sierra.
+
+Pour le Brésil:
+
+E. Machado de Assis.
+
+D. S. Ferreira.
+
+C. Gomes de Barros.
+
+J. A. Marques.
+
+H. Dourado.
+
+Pour le Canada:
+
+F. G. Nixon.
+
+Pour la République Centrafricaine:
+
+E. N'Zengou.
+
+L. A. Moziallo.
+
+Pour la République de Chypre:
+
+R. Michaelides.
+
+A. E. Embedoklis.
+
+Pour l'État de la Cité du Vatican:
+
+A. Stefanizzi.
+
+P. V. Giudici.
+
+Pour la République Démocratique du Congo:
+
+J. Mulumba.
+
+B. Kalonji.
+
+F. Tumba.
+
+A. Masamba.
+
+M. G. M'Bela.
+
+Pour la République du Congo (Brazzaville):
+
+M. N'Tsiba.
+
+J. Balima.
+
+R. Rizet.
+
+Pour la République de Corée:
+
+I. Y. Chung.
+
+C. W. Pak.
+
+Pour Costa Rica:
+
+C. di Mottola Balestra.
+
+M. Bagli.
+
+Pour la République de Côte-d'Ivoire:
+
+S. Cissoko.
+
+T. Konde.
+
+B. Sakanoko.
+
+Pour l'ensemble des territoires représentés par l'Office Français des Postes et Télécommunications d'Outre-Mer:
+
+E. Skinazi.
+
+M. Chapron.
+
+J. L. A. Constantin.
+
+G. Auneveux.
+
+Pour la Finlande:
+
+O. J. Saloila.
+
+T. A. Puolanne.
+
+Pour la République Gabonaise.
+
+E. Méfane.
+
+J. A. Anguiley.
+
+Pour le Ghana:
+
+J. A. Brobbey.
+
+Pour la Grèce:
+
+A. Marangoudakis.
+
+D. Bacalexis.
+
+Pour le Guatemala:
+
+F. Villela Jiménez.
+
+Pour la République d'Haïti:
+
+J. D. Baguidy.
+
+Pour le Japon:
+
+I. Hatakeyama.
+
+M. Takashima.
+
+M. Itano.
+
+Pour la Principauté de Liechteustein:
+
+A. Hilbe.
+
+Pour le Luxembourg:
+
+E. Raus.
+
+J. B. Wolff.
+
+Pour la République Malgache:
+
+C. Ramanitra.
+
+R. Ravelomanantsoa-Ratsimihah.
+
+J. Chauvicourt.
+
+Pour Malte:
+
+I. Xuereb.
+
+A. Barbara.
+
+J. V. Galea.
+
+Pour la République Islamique de Mauritanie:
+
+M. N'Diaye.
+
+Pour le Mexique:
+
+C. Núnez A.
+
+L. Barajas G.
+
+Pour Monaco:
+
+C. C. Solamito.
+
+A. Y. Passeron.
+
+Pour la République Populaire de Mongolie:
+
+D. Gotov.
+
+S. Gandorje.
+
+L. Natsagdorje.
+
+Pour le Nicaragua:
+
+A. A. Mullhaupt.
+
+Pour le Panama:
+
+J. A. Tack.
+
+Pour le Paraguay:
+
+S. Guanes.
+
+M. Ferreira Falcon.
+
+Pour le Royaume des Pays-Bas:
+
+G. H. Bast.
+
+Pour la République des Philippines:
+
+V. A. Pacis.
+
+A. G. Gamboa, Jr.
+
+P. F. Martinez.
+
+R. D. Tandiñgan.
+
+Pour la Rhodésie:
+
+C. R. Dickenson.
+
+Pour le Royaume-Uni de la Grande-Bretagne et de l'Irlande du Nord:
+
+W. A. Wolverson.
+
+H. G. Lillicrap.
+
+C. E. Lovell.
+
+P. W. F. Fryer.
+
+H. C. Greenwood.
+
+Pour la République Rwandaise:
+
+Z. Hadiyambere.
+
+L. Sibomana.
+
+Pour la République du Sénégal:
+
+I. N'Diaye.
+
+M. Roulet.
+
+L. Dia.
+
+Pour la Confédération Suisse:
+
+G. A. Wettstein.
+
+A. Langenberger.
+
+F. Locher.
+
+R. Rütschi.
+
+G. Buttex.
+
+Pour la République du Tchad:
+
+M. Ngarnim.
+
+G. Goy.
+
+Pour les territoires d'outre-mer dont les relations internationales sont assurées par le Gouvernement du Royaume-Uni de la Grande-Bretagne et de l'Irlande du Nord:
+
+A. H. Sheffrield.
+
+D. Dimper.
+
+Pour la Thaïlande:
+
+S. Punyaratabandhu.
+
+S. Sukhanetr.
+
+C. Vajrabhaya.
+
+D. Charoenphol.
+
+Pour la République Togolaise:
+
+A. Aithnard.
+
+Pour Trinité et Tabago:
+
+W. A. Rose.
+
+T. A. Wilson.
+
+Pour la République de Zambie:
+
+L. Changufu.
+
+Protocolo adicional facultativo à Convenção Internacional das Telecomunicações (Montreux, 1965)
+
+Solução obrigatória de litígios
+
+No momento de procederem à assinatura da Convenção Internacional das Telecomunicações (Montreux, 1965), os plenipotenciários abaixo assinados assinaram o Protocolo adicional facultativo seguinte, relativo à solução obrigatória dos litígios e que faz parte dos Actos Finais da Conferência de Plenipotenciários (Montreux, 1965).
+
+Os Membros e os Membros associados da União, Partes do presente Protocolo adicional facultativo à Convenção Internacional das Telecomunicações (Montreux, 1965);Exprimindo o desejo de recorrer, no que se lhes refere, à arbitragem obrigatória para a solução de todos os litígios relativos à aplicação da Convenção ou dos regulamentos previstos no artigo 15 da Convenção;
+
+Acordam nas disposições seguintes:
+
+###### ARTIGO 1.º
+
+A não ser que um dos modos de solução enumerados no artigo 28 da Convenção tenha sido escolhido de comum acordo, os litígios relativos à aplicação da Convenção ou dos regulamentos previstos no artigo 15 da Convenção são submetidos, a pedido de uma das Partes, a uma arbitragem obrigatória. O procedimento é o do Anexo 3 da Convenção, cujo parágrafo 5 é modificado como segue:
+
+5. No prazo de três meses, a contar da data da recepção da notificação do pedido de arbitragem, cada uma das duas partes em causa designa um árbitro. Se, no termo desse prazo, uma das partes não tiver designado o seu árbitro, essa designação será feita, a pedido da outra parte, pelo secretário-geral, que procederá em conformidade com as disposições dos parágrafos 3 e 4 do Anexo 3 da Convenção.
+
+###### ARTIGO 2.º
+
+O presente Protocolo será aberto à assinatura dos Membros e dos Membros associados que assinarem a Convenção. Será ratificado segundo o processo previsto para a Convenção e ficará aberto à adesão dos Estados que se tornarem Membros ou Membros associados da União.
+
+###### ARTIGO 3.º
+
+O presente Protocolo entrará em vigor no mesmo dia que a Convenção, ou trinta dias depois da data do depósito do segundo instrumento de ratificação ou de adesão, mas nunca antes da entrada em vigor da Convenção.
+
+Em relação aos Membros associados que ratificarem o presente Protocolo ou a ele aderirem depois da sua entrada em vigor, o Protocolo entrará em vigor no trigésimo dia posterior ao depósito do instrumento de ratificação ou adesão.
+
+###### ARTIGO 4.º
+
+O secretário-geral notificará todos os Membros e Membros associados:
+
+a) Das assinaturas afixadas no presente Protocolo e do depósito dos instrumentos de ratificação ou adesão;
+
+b) Da data em que o presente Protocolo entrar em vigor.
+
+Em fé do que os plenipotenciários respectivos assinaram o presente Protocolo, num exemplar, em cada uma das línguas inglesa, chinesa, espanhola, francesa e russa, fazendo fé o texto francês em caso de contestação; esse exemplar ficará depositado nos arquivos da União Internacional das Telecomunicações, a qual enviará uma cópia a cada um dos países signatários.
+
+Concluído em Montreux em 12 de Novembro de 1965.
+
+Pelo Afganistão:
+
+M. A Gran.
+
+S. N. Alawi.
+
+Pela Austrália:
+
+C. J. Griffiths.
+
+R. E. Butler.
+
+Pela Áustria:
+
+B. Schaginger.
+
+K. Vavra.
+
+A. Sapik.
+
+Pela Bélgica:
+
+M. C. E. D. Lambiotte.
+
+R. Rothschild.
+
+Pela União da Birmânia:
+
+Min Lwin.
+
+Pe Than.
+
+Pela Bolívia:
+
+Sra. M. C. Sejas Sierra.
+
+Pelo Brasil:
+
+E. Machado de Assis.
+
+D. S. Ferreira.
+
+C. Gomes de Barros.
+
+J. A. Marques.
+
+H. Dourado.
+
+Pelo Canadá:
+
+F. G. Nixon.
+
+Pela República Centro-Africana:
+
+E. N'Zengou.
+
+L. A. Moziallo.
+
+Pela República de Chipre:
+
+R. Michaelides.
+
+A. E. Embedoklis.
+
+Pelo Estado do Vaticano:
+
+A. Stefanizzi.
+
+P. V. Giudici.
+
+Pela República Democrática do Congo:
+
+J. Mulumba.
+
+B. Kalonji.
+
+F. Tumba.
+
+A. Masamba.
+
+M. G. M'Bela.
+
+Pela República do Congo (Brazzaville):
+
+M. N'Tsiba.
+
+J. Balima.
+
+R. Rizet.
+
+Pela República da Coreia:
+
+I. Y. Chung.
+
+C. W. Pak.
+
+Pela Costa Rica:
+
+C. di Mottola Balestra.
+
+M. Bagli.
+
+Pela República da Costa do Marfim:
+
+S. Cissoko.
+
+T. Konde.
+
+B. Sakanoko.
+
+Pelo conjunto dos territórios representados pelo Ministério Francês dos Correios e Telecomunicações Ultramarinas:
+
+E. Skinazi.
+
+M. Chapron.
+
+J. L. A. Constantin.
+
+G. Auneveux.
+
+Pela Finlândia:
+
+O. J. Saloila.
+
+T. A. Puolanne.
+
+Pela República do Gabão:
+
+E. Méfane.
+
+J. A. Anguiley.
+
+Pelo Ghana:
+
+J. A. Brobbey.
+
+Pela Grécia:
+
+A. Marangoudakis.
+
+D. Bacalexis.
+
+Pela Guatemala:
+
+F. Villela Jiménez.
+
+Pela República do Haiti:
+
+J. D. Baguidy.
+
+Pelo Japão:
+
+I. Hatakeyama.
+
+M. Takashima.
+
+M. Itano.
+
+Pelo Principado de Listenstaina:
+
+A. Hilbe.
+
+Pelo Luxemburgo:
+
+E. Raus.
+
+J. B. Wolff.
+
+Pela República Malgaxe:
+
+C. Ramanitra.
+
+R. Ravelomanantsoa-Ratsimihah.
+
+J. Chauvicourt.
+
+Por Malta:
+
+I. Xuereb.
+
+A. Barbara.
+
+J. V. Galea.
+
+Pela República Islâmica da Mauritânia:
+
+M. N'Diaye.
+
+Pelo México:
+
+C. Núnez A.
+
+L. Barajas G.
+
+Pelo Mónaco:
+
+C. C. Solamito.
+
+A. Y. Passeron.
+
+Pela República Popular da Mongólia:
+
+D. Gotov.
+
+S. Gandorje.
+
+L. Natsagdorje.
+
+Pela Nicarágua:
+
+A. A. Mullhaupt.
+
+Pelo Panamá:
+
+J. A. Tack.
+
+Pelo Paraguai:
+
+S. Guanes.
+
+M. Ferreira Falcon.
+
+Pelo Reino dos Países Baixos:
+
+G. H. Bast.
+
+Pela República das Filipinas:
+
+V. A. Pacis.
+
+A. G. Gamboa, Jr.
+
+P. F. Martinez.
+
+R. D. Tandiñgan.
+
+Pela Rodésia:
+
+C. R. Dickenson.
+
+Pelo Reino Unido da Grã-Bretanha e da Irlanda do Norte:
+
+W. A. Wolverson.
+
+H. G. Lillicrap.
+
+C. E. Lovell.
+
+P. W. F. Fryer.
+
+H. C. Greenwood.
+
+Pela República do Ruanda:
+
+Z. Hadiyambere.
+
+L. Sibomana.
+
+Pela República do Senegal:
+
+I. N'Diaye.
+
+M. Roulet.
+
+L. Dia.
+
+Pela Confederação Suíça:
+
+G. A. Wettstein.
+
+A. Langenberger.
+
+F. Locher.
+
+R. Rütschi.
+
+G. Buttex.
+
+Pela República do Chade:
+
+M. Ngarnim.
+
+G. Goy.
+
+Pelos territórios ultramarinos cujas relações internacionais são asseguradas pelo Governo do Reino Unido da Grã-Bretenha e da Irlanda do Norte:
+
+A. H. Sheffrield.
+
+D. Dimper.
+
+Pela Tailândia:
+
+S. Punyaratabandhu.
+
+S. Sukhanetr.
+
+C. Vajrachaya.
+
+D. Charoenphol.
+
+Pela República do Togo:
+
+A. Aithnard.
+
+Por Trindade e Tabago:
+
+W. A. Rose.
+
+T. A. Wilson.
+
+Pela República da Zâmbia:
+
+L. Changufu.

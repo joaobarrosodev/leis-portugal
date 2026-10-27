@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:214724640:por
+title: Resolução do Conselho de Ministros n.º 62/2023
+short_title: null
+summary: Determina a situação excecional e temporária do aumento da atividade operacional do Instituto Nacional de Emergência
+  Médica, I. P.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 62/2023
+official_date: null
+publication_date: '2023-06-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 121/2023, Série I de 2023-06-23
+  number: '121'
+  series: I
+  supplement: null
+  pages: 4 - 5
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/06/12100/0000400005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/62/2023/06/23/p/dre/pt/html
+  oj: null
+  dre: '214724640'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/62-2023-214724640
+  internal: pt:dre:214724640:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-2023-214724640
+  metadata_url: https://data.dre.pt/eli/resolconsmin/62/2023/06/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/62-2023-214724640
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:28:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4a36c3a4dae58409cbe4a101b11144239e82c061351339a6a1baa98414dc373f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:28:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Ministros
+- Controlo Orçamental
+- INEM
+- Interesse Público
+- Lei Geral do Trabalho em Funções Públicas
+- Medicina de Urgência
+relationships:
+- type: cites
+  target: pt:dre:205557192:por
+  label: null
+  source: http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:28:41Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 62/2023
+
+A atividade do Instituto Nacional de Emergência Médica, I. P. (INEM, I. P.), é fundamental para garantir a adequada assistência a vítimas de acidente e doença súbita, no âmbito do Sistema Integrado de Emergência Médica. Desde 2021, a atividade do INEM, I. P., tem registado um aumento sustentado face aos níveis pré-pandemia. As chamadas de emergência recebidas nos Centros de Orientação de Doentes Urgentes aumentaram 8 % em 2022, em relação a 2019, e os acionamentos de meios de emergência médica apresentam, no mesmo ano, valores 5,2 % superiores aos verificados em 2019. É expectável que o aumento continue a verificar-se ao longo do ano de 2023, em particular até ao final do mês de setembro.
+
+Acresce que, em 2023, realizam-se vários eventos de massas em relação aos quais o INEM, I. P., tem um papel central na preparação e execução da resposta de emergência pré-hospitalar, com previsível acréscimo de atividade. São os casos, designadamente, da Peregrinação a Fátima, do Rally de Portugal e da Jornada Mundial da Juventude 2023, a que acresce a necessidade de garantir resposta no âmbito do apoio ao Dispositivo Especial de Combate aos Incêndios Rurais, ativo entre maio e outubro, particularmente quando o risco de incêndios rurais, face à situação de clima quente e de seca, já se situa em níveis superiores ao verificado em 2022.
+
+Este acréscimo excecional da atividade operacional, associado a níveis de requisitos extremamente exigentes, tem impacto na atividade da emergência médica e exige, por parte do INEM, I. P., uma capacidade acrescida de mobilização de profissionais, em especial dos trabalhadores da carreira de técnico de emergência pré-hospitalar, para que sejam assegurados os níveis necessários de prestação de assistência à população.
+
+A referida situação excecional de acréscimo de atividade do INEM, I. P., implica com grande probabilidade a necessidade de realização de trabalho suplementar por parte dos seus trabalhadores, para além dos limites estabelecidos nos n.os 2 e 3 do artigo 120.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
+
+Neste contexto e considerando o interesse público envolvido e a muito provável necessidade de prestação de trabalho suplementar por parte dos profissionais do INEM, I. P., em condições de extrema exigência e disponibilidade, justifica-se o recurso ao mecanismo previsto no n.º 5 do artigo 25.º da [Lei n.º 24-D/2022](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), de 30 de dezembro, na sua redação atual, que aprova o Orçamento do Estado para 2023, e que permite que o limite estabelecido no n.º 3 do artigo 120.º da LTFP seja aumentado em 20 %.
+
+Assim:
+
+Nos termos do n.º 5 do artigo 25.º da [Lei n.º 24-D/2022](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), de 30 de dezembro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Reconhecer o aumento consistente da atividade operacional do Instituto Nacional de Emergência Médica, I. P. (INEM, I. P.), acima dos níveis pré-pandemia e a perspetiva de acentuação desse aumento com a resposta no âmbito do apoio ao Dispositivo Especial de Combate aos Incêndios Rurais, e aos vários eventos internacionais de massas a ocorrer nos próximos meses, dos quais se destaca a Jornada Mundial da Juventude 2023.
+
+2 - Reconhecer que, até 30 de setembro de 2023, verifica-se, com grande probabilidade, a trajetória ascendente da atividade operacional do INEM, I. P., já observada nos anos anteriores, por força das condições climatéricas de tempo quente e de seca.
+
+3 - Determinar que o aumento de atividade operacional previsto, associado aos eventos internacionais de massas e ao período de tempo quente e de seca previstos, constitui uma situação excecional para efeitos do previsto no n.º 5 do artigo 25.º da [Lei n.º 24-D/2022](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), de 30 de dezembro, na sua redação atual.
+
+4 - Estabelecer que o limite previsto no n.º 3 do artigo 120.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, é aumentado em 20 % para os trabalhadores do INEM, I. P., relativamente ao trabalho suplementar prestado até 30 de setembro de 2023, desde que a prestação seja direta ou indiretamente afetada pela situação excecional prevista no número anterior.
+
+5 - Determinar que a presente resolução produz efeitos desde 1 de abril de 2023.
+
+Presidência do Conselho de Ministros, 15 de junho de 2023. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+116588318

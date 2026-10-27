@@ -1,0 +1,376 @@
+---
+schema_version: '1.0'
+id: pt:dre:115933868:por
+title: Decreto-Lei n.º 64/2018
+short_title: null
+summary: Consagra o estatuto da agricultura familiar
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Agricultura, Florestas e Desenvolvimento Rural
+official_number: 64/2018
+official_date: null
+publication_date: '2018-08-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 151/2018, Série I de 2018-08-07
+  number: '151'
+  series: I
+  supplement: null
+  pages: 3946 - 3949
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/08/15100/0394603949.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-11-10'
+version_history:
+  file: decreto-lei-64-2018.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2018-08-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-11-10'
+    amending: pt:dre:172604610:por
+    amending_title: Decreto-Lei n.º 81/2021
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/64/2018/p/cons/20211011/pt/html
+  oj: null
+  dre: '115933868'
+  dre_path: /dr/detalhe/decreto-lei/64-2018-115933868
+  internal: pt:dre:115933868:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2018-115933868
+  metadata_url: https://data.dre.pt/eli/dec-lei/64/2018/p/cons/20211011/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-172625715
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-172625715
+  retrieved_at: '2026-10-22T12:46:06Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9b2822dc746e1bb06e51ce605c7fc5d04109f3a3533fcd8b8ada6f33bd827836
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:46:06Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-64-2018.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Agrícola
+- Ajuda Comunitária
+- Direção Geral de Agricultura e Desenvolvimento Rural
+- Formação Profissional
+- Desenvolvimento Rural
+- Definição de Competências
+- Exploração Agrícola Familiar
+- Estatuto
+- Contribuições e Impostos
+- Presidente
+- Exploração Florestal
+- Madeira.região Autónoma
+- Política Agrícola
+- Agricultura
+- Segurança Social
+- Açores
+- Tributação
+- Ministro da Agricultura Florestas e Desenvolvimento Rural
+relationships:
+- type: amended_by
+  target: pt:dre:172604610:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2021-172604610
+  date: '2021-10-11'
+- type: cites
+  target: pt:dre:108010874:por
+  label: null
+  source: http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:46:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 64/2018
+
+Decreto-Lei n.º 64/2018
+
+de 7 de agosto
+
+O Programa do XXI Governo Constitucional, no seu capítulo V, «Valorizar o nosso território», em particular no que se refere à atividade agrícola, florestal e ao espaço rural, veio estabelecer diversas orientações fundamentais relativamente à promoção do desenvolvimento rural e da coesão territorial, assumindo claramente como um dos objetivos da sua política agrícola a discriminação positiva da agricultura familiar.
+
+A nível internacional, a Organização das Nações Unidas, a sua Organização para a Agricultura e Alimentação, o Parlamento Europeu, o Conselho de Ministros da União Europeia e a Comunidade dos países de Língua Oficial Portuguesa têm promovido um amplo debate e reflexão sobre o papel da agricultura familiar nas economias locais e regionais, as diferentes funções que a mesma assume e os valiosos bens públicos e serviços que, em geral, presta.
+
+Neste contexto, foi criada a Comissão Interministerial para a Pequena Agricultura Familiar, através do Despacho n.º 7423/2017, publicado no Diário da República, n.º 162, de 23 de agosto, visando responder aos principais desafios e reforçar as potencialidades desta importante modalidade de organização de atividades produtivas, de gestão do ambiente e de suporte da vida social nos espaços rurais do nosso país.
+
+Com efeito, as atividades da agricultura, da produção animal, da floresta, da caça, da pesca, bem como as atividades dos serviços que estão diretamente relacionados com a agricultura familiar são determinantes em grande parte do território nacional. Estas atividades assumem, assim, relevância na produção, no emprego, na biodiversidade e na preservação do ambiente através, nomeadamente, do incentivo à produção e ao consumo locais, que por sua vez minimizam as perdas e o desperdício alimentares, garantindo também uma presença em muitas áreas do interior, o que torna imperiosa a promoção de políticas públicas que reconheçam e potenciem essa contribuição da agricultura familiar.
+
+O debate e a reflexão efetuados em Portugal permitiram um conhecimento mais aprofundado sobre a agricultura familiar, sendo de salientar os indicadores de maior relevo, a saber, cerca de 242,5 mil explorações agrícolas classificam-se como familiares, o que representa 94 % do total das explorações, 54 % da Superfície Agrícola Utilizada e mais de 80 % do trabalho total agrícola. Verifica-se também que entre 2009 e 2016 o número de explorações familiares decresceu 17 %.
+
+O Governo, reconhecendo a importância da pequena agricultura, avançou já com um conjunto de medidas no quadro da Política Agrícola Comum (PAC), nomeadamente o aumento do montante forfetário de pagamento anual, a criação do Pagamento Redistributivo e as alterações nos apoios aos Pequenos Investimentos nas Explorações Agrícolas do Programa de Desenvolvimento Rural Continente (PDR 2020).
+
+Admite-se, no entanto, ser necessário complementar estas medidas, nomeadamente através da criação do Estatuto da Agricultura Familiar, contribuindo para que os diversos territórios rurais possam ser exemplos positivos da sua indispensável valorização, numa ótica de sustentabilidade e do reforço da coesão social e territorial.
+
+Estima-se ainda que cerca de 30 % das explorações agrícolas recenseadas pelo Instituto Nacional de Estatística, I. P.,não recebem pagamentos diretos ou outros prémios anuais da PAC de apoio e incentivo ao desenvolvimento da atividade agroflorestal, que assegure ao mesmo tempo um nível de vida equitativo da população ligada a esta atividade, o que constitui uma situação de relativa injustiça económica e social que importa minimizar.
+
+Neste quadro, há necessidade de promover um esforço institucional público de discriminação positiva não só através de políticas sociais redistributivas, mas sobretudo da sua inclusão ativa em intervenções promovidas por políticas públicas de desenvolvimento.
+
+Neste sentido, importa distinguir a especificidade da Agricultura Familiar nas suas diversas dimensões, criando um estatuto que a reconheça e valorize através de adoção de medidas de apoio específicas, a aplicar preferencialmente ao nível local para atender à diversidade de estruturas e de realidades agrárias, bem como aos constrangimentos e potencial de desenvolvimento de cada território.
+
+O Estatuto da Agricultura Familiar foi objeto de consulta pública, entre 22 de dezembro e 31 de janeiro de 2018.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.
+
+Foi promovida a audição da Associação Nacional de Freguesias.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei consagra o Estatuto da Agricultura Familiar, adiante designado por Estatuto.
+
+###### Artigo 2.º — Objetivos
+
+O Estatuto visa prosseguir os seguintes objetivos:
+
+a) Reconhecer e distinguir a especificidade da Agricultura Familiar nas suas diversas dimensões: económica, territorial, social e ambiental;
+
+b) Promover políticas públicas adequadas para este extrato socioprofissional;
+
+c) Promover e valorizar a produção local e melhorar os respetivos circuitos de comercialização;
+
+d) Promover uma agricultura sustentável, incentivando a melhoria dos sistemas e métodos de produção;
+
+e) Contribuir para contrariar a desertificação dos territórios do interior;
+
+f) Conferir à Agricultura Familiar um valor estratégico, a ter em conta, designadamente nas prioridades das políticas agrícolas nacional e europeia;
+
+g) Promover maior equidade na concessão de incentivos e condições de produção às explorações agrícolas familiares.
+
+###### Artigo 3.º — Definições
+
+Para efeitos de aplicação do presente decreto-lei, entende-se por:
+
+a) «Agregado familiar», os cônjuges, os ascendentes e descendentes na linha reta em primeiro e segundo grau, os parentes por afinidade, os que vivam em união de facto, e os demais a cargo que vivam em situação de economia comum com o titular da exploração agrícola e participem na atividade da exploração de forma regular;
+
+b) «Agricultura familiar», o modo de organização de atividades produtivas, de gestão do ambiente e de suporte da vida social nos territórios rurais, assente numa exploração agrícola familiar;
+
+c) «Exploração agrícola familiar», a exploração agrícola em que a mão-de-obra familiar, medida em Unidade de Trabalho Ano, representa mais de 50 % da mão-de-obra total da exploração agrícola;
+
+d) «Mão-de-obra da exploração agrícola», o trabalho mobilizado na exploração agrícola, com origem na família ou no assalariamento (trabalhadores permanentes, eventuais ou não contratados diretamente pelo produtor);
+
+e) «Mão-de-obra familiar», trabalho realizado pelo titular da exploração agrícola (produtor agrícola) e por membros do seu agregado familiar;
+
+f) «Rendimento coletável», rendimento anual bruto, efetuadas as respetivas deduções específicas;
+
+g) «Unidade de Trabalho Ano (UTA)», unidade de medida da mão-de-obra correspondente ao trabalho realizado num ano por um trabalhador a tempo inteiro.
+
+###### Artigo 4.º — Título de reconhecimento
+
+O estatuto é apenas atribuído a pessoa singular titular da exploração agrícola familiar, através da emissão de um título de reconhecimento pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR).
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2021 - Diário da República n.º 197/2021, Série I de 2021-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2021-172604610), em vigor a partir de 2021-11-10
+
+###### Artigo 5.º — Requisitos para o reconhecimento
+
+1 - O título de reconhecimento do estatuto é atribuído a pessoa singular titular da exploração agrícola familiar que satisfaça cumulativamente os requisitos seguintes:
+
+a) Tenha idade superior a 18 anos;
+
+b) Tenha um rendimento coletável, por sujeito passivo, inferior ou igual ao valor correspondente ao quarto escalão do imposto do rendimento de pessoas singulares;
+
+c) O rendimento da atividade agrícola seja igual ou superior a 20 % do total do rendimento coletável;
+
+d) Receba um montante de apoio não superior a (euro) 5000, decorrente das ajudas do Regime de Pagamento Base e do Regime da Pequena Agricultura, da Política Agrícola Comum, incluídas no pedido único ou, no caso da Região Autónoma dos Açores, no sistema integrado de gestão e controlo, do ano anterior ao da apresentação do pedido de reconhecimento do estatuto.
+
+2 - O responsável referido no número anterior deve, ainda, ser titular de exploração agrícola familiar, enquanto proprietário, superficiário, arrendatário, comodatário ou outro direito, que satisfaça cumulativamente os seguintes requisitos:
+
+a) Se situe em prédios rústicos ou mistos identificados no sistema de identificação parcelar do Instituto de Financiamento da Agricultura e Pescas, I. P.;
+
+b) Utilize mão-de-obra familiar em percentagem igual ou superior a 50 % do total de mão-de-obra utilizado.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2021 - Diário da República n.º 197/2021, Série I de 2021-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2021-172604610), em vigor a partir de 2021-11-10
+
+###### Artigo 6.º — Direitos da Agricultura Familiar
+
+1 - A atribuição do título de reconhecimento do Estatuto permite o acesso:
+
+a) A medidas específicas de políticas públicas de apoio às atividades de exploração agrícola e florestal, nomeadamente no âmbito dos programas de desenvolvimento rural, financiados pelo Fundo Europeu Agrícola de Desenvolvimento Rural;
+
+b) A medidas no âmbito dos Programas Operacionais financiados pelos Fundos Europeus Estruturais e de Investimento, nomeadamente o Fundo Europeu de Desenvolvimento Regional e o Fundo Social Europeu, enquanto medidas de caráter complementar aos apoios à agricultura familiar;
+
+c) A medidas de caráter excecional que contribuam para o ordenamento do território e a preservação da atividade agrícola e florestal nas zonas desfavorecidas, com manifestos pontos fracos em relação a fatores naturais e sociais, ou em zonas protegidas;
+
+d) A um regime simplificado, em matéria de licenciamento de unidades de produção ao nível da higiene e segurança alimentares;
+
+e) Aos mercados e aos consumidores, concretizado através do apoio à criação e reativação de mercados de proximidade e de circuitos curtos de comercialização;
+
+f) A um regime específico de contratação pública para fornecimento de proximidade de bens agroalimentares (escolas, hospitais, Instituições Particulares de Solidariedade Social e Forças Armadas);
+
+g) A um regime de reconhecimento das organizações de produtores, adaptado à sua dimensão económica;
+
+h) A linhas de crédito adaptadas a este segmento da agricultura;
+
+i) Prioritário ao arrendamento e compra de terras do domínio privado do Estado;
+
+j) A um procedimento especial simplificado e de custos reduzidos relativo ao registo de primeira inscrição de aquisição, de reconhecimento da propriedade ou de mera posse de prédios rústicos ou mistos omissos da exploração agrícola familiar, a definir por portaria do membro do Governo responsável pela área da justiça;
+
+k) A apoios específicos para formação, informação e aconselhamento agrícola e florestal;
+
+l) A benefícios adicionais na utilização do gasóleo colorido e marcado;
+
+m) A condições mais favoráveis em matéria de seguros agrícolas cofinanciados;
+
+n) A um incentivo à gestão eficiente de custos e redução dos custos de energia;
+
+o) A incentivos à utilização de energias com base em fontes de produção renovável;
+
+p) Ao regime fiscal adequado à Agricultura Familiar nos termos da lei;
+
+q) A um regime de segurança social adequado à Agricultura Familiar nos termos da lei;
+
+r) À disponibilização no «Espaço Cidadão» dos serviços destinados à Agricultura Familiar;
+
+s) Prioritário a ações desenvolvidas por Centros de Competências quando promovam o desenvolvimento tecnológico de produções de pequena escala e emergentes e a inovação social na organização setorial e territorial.
+
+2 - O disposto na alínea o) do número anterior é aplicável ao titular da exploração agrícola familiar e ao seu agregado familiar, desde que os respetivos rendimentos sejam provenientes exclusivamente do exercício da atividade agrícola.
+
+###### Artigo 7.º — Procedimento de reconhecimento
+
+O procedimento relativo à atribuição do título de reconhecimento do Estatuto, bem como as condições da sua manutenção são regulamentados por portaria do membro do Governo responsável pela área da agricultura, florestas e desenvolvimento rural.
+
+###### Artigo 8.º — Integração e promoção do Estatuto
+
+1 - Os serviços e organismos da administração direta ou indireta do Estado, nas áreas governativas relacionadas com as medidas constantes do artigo 6.º, devem desenvolver as iniciativas necessárias à sua adequada implementação.
+
+2 - As entidades gestoras de programas ou iniciativas de apoio, nacionais ou comunitários devem integrar e promover o Estatuto nos respetivos programas ou iniciativas.
+
+###### Artigo 9.º — Divulgação
+
+As entidades referidas no artigo anterior devem proceder à divulgação das medidas destinadas aos titulares do Estatuto.
+
+###### Artigo 10.º — Comissão Nacional da Agricultura Familiar
+
+1 - É criada a Comissão Nacional da Agricultura Familiar, doravante designada CNAF.
+
+2 - A CNAF é presidida pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural e constituída por representantes das seguintes áreas governativas, tuteladas pelos seguintes Ministros:
+
+a) Finanças;
+
+b) Justiça;
+
+c) Adjunto;
+
+d) Educação;
+
+e) Trabalho, Solidariedade e Segurança Social;
+
+f) Saúde;
+
+g) Planeamento e Infraestruturas;
+
+h) Economia;
+
+i) Ambiente;
+
+j) Mar.
+
+3 - A CNAF é ainda composta por representantes dos Governos Regionais da Madeira e dos Açores.
+
+4 - A CNAF integra ainda representantes das seguintes entidades:
+
+a) Associação dos Jovens Agricultores de Portugal;
+
+b) Confederação dos Agricultores de Portugal (CAP);
+
+c) Confederação Nacional da Agricultura;
+
+d) Confederação Nacional das Cooperativas Agrícolas e do Crédito Agrícola de Portugal;
+
+e) Confederação Nacional dos Jovens Agricultores e do Desenvolvimento Rural;
+
+f) MINHA TERRA - Federação Portuguesa de Associações de Desenvolvimento Local;
+
+g) ANIMAR - Associação Portuguesa para o Desenvolvimento Local;
+
+h) BALADI - Federação Nacional dos Baldios;
+
+i) Associação Nacional de Municípios Portugueses;
+
+j) Associação Nacional de Freguesias.
+
+5 - Os representantes das áreas governativas referidas no n.º 2 são designados no prazo de 30 dias a contar da data de entrada em vigor do presente decreto-lei, sendo a respetiva designação comunicada à presidência da CNAF.
+
+6 - O presidente da CNAF pode convidar outras entidades ou representantes a participar nas reuniões, em função das matérias em agenda.
+
+7 - A CNAF reúne semestralmente ou sempre que convocada pelo seu presidente.
+
+8 - O apoio logístico e administrativo necessário ao funcionamento da CNAF é assegurado pela DGADR.
+
+9 - Pelo exercício de funções enquanto membros da CNAF não é devida qualquer remuneração.
+
+###### Artigo 11.º — Competências da Comissão Nacional da Agricultura Familiar
+
+A CNAF tem as seguintes competências:
+
+a) Acompanhar a aplicação do presente diploma, incluindo a respetiva regulamentação;
+
+b) Proceder à avaliação anual do funcionamento do regime e à elaboração do respetivo relatório relativo à sua aplicação.
+
+###### Artigo 12.º — Âmbito territorial
+
+O presente decreto-lei é aplicável no território continental bem como na Região Autónoma dos Açores e na Região Autónoma da Madeira.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 90 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 7 de junho de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Pedro Siza Vieira - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Ângelo Nelson Rosário de Souza - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - José Apolinário Nunes Portada.
+
+Promulgado em 12 de julho de 2018.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 30 de julho de 2018.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+111549689

@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:1034985558:por
+title: Resolução do Conselho de Ministros n.º 21/2026
+short_title: null
+summary: Autoriza a República Portuguesa a participar no terceiro aumento de capital da Corporação Interamericana de Investimentos,
+  do Grupo do Banco Interamericano de Desenvolvimento.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 21/2026
+official_date: null
+publication_date: '2026-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/2026, Série I de 2026-02-04
+  number: '24'
+  series: I
+  supplement: null
+  pages: 60 - 61
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/02/02400/0006000061.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/21/2026/02/04/p/dre/pt/html
+  oj: null
+  dre: '1034985558'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/21-2026-1034985558
+  internal: pt:dre:1034985558:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-2026-1034985558
+  metadata_url: https://data.dre.pt/eli/resolconsmin/21/2026/02/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-2026-1034985558
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:31:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 33dd7e0c564cd32821b58451f97b73f7dd719492402284233b48ae4f57d25d13
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aumento de Capital
+- Corporação Interamericana de Investimentos
+- Portugal
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:31:17Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 21/2026
+
+A República Portuguesa é membro da Corporação Interamericana de Investimentos, adiante designada por CII ou BID Invest, instituição integrante do Grupo do Banco Interamericano de Desenvolvimento, adiante designado por BID.
+
+A CII, criada em 1985, tem por objetivo promover o desenvolvimento económico dos países da América Latina e Caraíbas através do fortalecimento do setor privado, nomeadamente o estabelecimento, expansão e modernização de empresas privadas na região, com enfoque histórico nas pequenas e médias empresas. A sua atividade materializa-se na concessão de empréstimos diretos, participações de capital, linhas de crédito para intermediários financeiros, participações em fundos de investimento e outros instrumentos de mercado de capital, em benefício de projetos de investimento elegíveis na região, com forte enfoque em cofinanciamento e mobilização de recursos de terceiros.
+
+Desde 2015, com a cisão das atividades sem garantia soberana do Grupo e do segundo aumento de capital, o BID Invest susteve uma fase de crescimento organizacional e de expansão do volume de aprovações, tendo-se posicionado em setores estratégicos para as economias da região - energias renováveis, infraestrutura sustentável, mercado de capitais - e assumido metas ambiciosas de financiamento climático e de apoio às economias mais pequenas da região (incluindo pequenos Estados e insulares).
+
+Destacou-se ainda pela robustez da resposta à crise da COVID-19 no apoio às empresas e instituições financeiras da região, tendo registado um aumento sustentado do volume de operações, de USD 2,2 mil milhões em 2016 para USD 8,3 mil milhões em 2022 e USD 6 mil milhões em 2023, o que antecipou a utilização plena da base de capital, inicialmente prevista para 2025, para 2023.
+
+Em março de 2024, os Governadores endossaram, por unanimidade, a nova visão e modelo de negócios para o período 2024-2033 assim como um aumento geral de capital. A Resolução AG 5/24 aprova a emissão de 166 666 novas ações de capital subscrito, com um valor nominal de USD 10 000 e um preço-base de USD 21 000, num montante total de USD 3,5 mil milhões, realizáveis em sete anos (2025-2031), em tranches de igual valor (USD 500 milhões). O período para a subscrição de capital por parte dos países acionistas decorre até 10 de março de 2026.
+
+A participação de Portugal no aumento de capital do BID Invest, uma instituição internacional na qual o português é língua oficial, evidencia o apoio de Portugal ao desenvolvimento do setor privado da região da América Latina e das Caraíbas como motor de desenvolvimento económico e emprego com impacto ao nível da redução de pobreza, transição energética e digital, mas também como instrumento de apoio à internacionalização de empresas para os mercados da região.
+
+No sentido de contribuir para a prossecução dos compromissos assumidos no âmbito da concessão de ajuda pública ao desenvolvimento e apoio à concretização dos Objetivos de Desenvolvimento Sustentável - Agenda 2030, e por forma a manter a posição acionista de Portugal no seio da Corporação Interamericana de Investimentos de 0,21 %, nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a participação da República Portuguesa no terceiro aumento de capital geral da Corporação Interamericana de Investimentos, através de uma subscrição de capital total de USD 7 371 000.
+
+2 - Determinar que os encargos financeiros previstos no número anterior são assegurados pelas verbas a inscrever no capítulo 60 do Orçamento do Estado, gerido pela Entidade do Tesouro e Finanças do Ministério das Finanças.
+
+3 - Autorizar o membro do Governo responsável pela área das finanças, com a faculdade de delegação, a praticar todos os atos necessários à participação da República Portuguesa no aumento de capital referido no n.º 1.
+
+4 - Estabelecer que o pagamento da participação decorrente da aplicação do disposto no n.º 1 é efetuado em numerário de acordo com o seguinte calendário:
+
+a) USD 1 053 000 entre 30 de novembro de 2025 e 9 de abril de 2026;
+
+b) USD 1 053 000 até 30 de novembro de 2026;
+
+c) USD 1 053 000 até 30 de novembro de 2027;
+
+d) USD 1 053 000 até 30 de novembro de 2028;
+
+e) USD 1 053 000 até 30 de novembro de 2029;
+
+f) USD 1 053 000 até 30 de novembro de 2030;
+
+g) USD 1 053 000 até 30 de novembro de 2031.
+
+5 - Autorizar que, caso ocorram alterações ao calendário de pagamentos previsto no número anterior, o membro do Governo responsável pela área das finanças pode autorizar essas alterações, desde que daí não resulte um aumento do valor total da contribuição prevista no n.º 1.
+
+6 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 22 de janeiro de 2026. - O Primeiro-Ministro, Luís Montenegro.
+
+119947548

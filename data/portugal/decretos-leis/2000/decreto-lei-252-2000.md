@@ -1,0 +1,2216 @@
+---
+schema_version: '1.0'
+id: pt:dre:541806:por
+title: Decreto-Lei n.º 252/2000
+short_title: null
+summary: Aprova a estrutura orgânica e define as atribuições do Serviço de Estrangeiros e Fronteiras
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 252/2000
+official_date: null
+publication_date: '2000-10-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 239/2000, Série I-A de 2000-10-16
+  number: '239'
+  series: I
+  supplement: null
+  pages: 5749 - 5766
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/10/239a00/57495766.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes:
+- Revogado, a partir de 11 de maio de 2022, com efeitos a partir de 29 de outubro de 2023, pela Lei n.º 73/2021, de 12 de
+  novembro, Diário da República n.º 220/2021, Série I, ao abrigo do disposto nos artigos 14.º, 14.º-A e 15.º desta.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-11'
+version_history:
+  file: decreto-lei-252-2000.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2000-10-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-11-22'
+    amending: pt:dre:649343:por
+    amending_title: Decreto-Lei n.º 290-A/2001
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 72.º
+  - date: '2009-01-01'
+    amending: pt:dre:456561:por
+    amending_title: Decreto-Lei n.º 121/2008
+    changes:
+    - Altera Artigo 57.º
+  - date: '2012-11-07'
+    amending: pt:dre:191526:por
+    amending_title: Decreto-Lei n.º 240/2012
+    changes:
+    - Adita Artigo 67.º-A
+  - date: '2022-01-11'
+    amending: pt:dre:174244808:por
+    amending_title: Lei n.º 73/2021
+    changes:
+    - Revoga Capítulo I
+    - Revoga Secção I
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Secção II
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Capítulo II
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 19.º-A
+    - Revoga Artigo 19.º-B
+    - Revoga Artigo 19.º-C
+    - Revoga Artigo 19.º-D
+    - Revoga Secção III
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Secção IV
+    - Revoga Subsecção I
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Subsecção II
+    - Revoga Artigo 26.º
+    - Revoga Subsecção IV
+    - Revoga Artigo 33.º
+    - Revoga Secção V
+    - Revoga Artigo 44.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/252/2000/p/cons/20220506/pt/html
+  oj: null
+  dre: '541806'
+  dre_path: /dr/detalhe/decreto-lei/252-2000-541806
+  internal: pt:dre:541806:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2000-541806
+  metadata_url: https://data.dre.pt/eli/dec-lei/252/2000/p/cons/20220506/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-74890934
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-74890934
+  retrieved_at: '2026-10-22T12:06:53Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: cc4c7c8cf3d97bf19c98dd5f480aac1816bf33b3fa97e62f86a1414e61ce1722
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:06:53Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-252-2000.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Regional do Algarve
+- Direcção Regional do Centro
+- Direcção Regional do Norte
+- Conselho Administrativo
+- Definição de Competências
+- Direcção Regional da Madeira
+- Direcção Regional dos Açores
+- Diretor Geral
+- Fronteiras
+- Integração de Trabalhadores
+- Serviço de Estrangeiros e Fronteiras
+- Orgânica
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Segredo Profissional
+- Serviço Regional
+- Polícia Criminal
+- Açores
+- Fardamento
+- Uso e porte de arma
+relationships:
+- type: amended_by
+  target: pt:dre:649343:por
+  label: Altera Artigo 10.º; Altera Artigo 72.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-a-2001-649343
+  date: '2001-11-17'
+- type: amended_by
+  target: pt:dre:456561:por
+  label: Altera Artigo 57.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561
+  date: '2008-07-11'
+- type: amended_by
+  target: pt:dre:191526:por
+  label: Adita Artigo 67.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526
+  date: '2012-11-06'
+- type: amended_by
+  target: pt:dre:174244808:por
+  label: Revoga Capítulo I; Revoga Secção I; Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Secção II; Revoga Artigo 3.º; Revoga
+    Artigo 4.º; Revoga Artigo 5.º; Revoga Artigo 6.º; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo
+    10.º; Revoga Capítulo II; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo
+    15.º; Revoga Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808
+  date: '2021-11-12'
+- type: cites
+  target: pt:dre:197754:por
+  label: null
+  source: http://data.dre.pt/eli/lei/15/1998/03/26/p/dre
+- type: cites
+  target: pt:dre:241633:por
+  label: null
+  source: http://data.dre.pt/eli/port/787/1998/09/21/p/
+- type: cites
+  target: pt:dre:324141:por
+  label: null
+  source: http://data.dre.pt/eli/lei/24/2000/08/23/p/dre
+- type: cites
+  target: pt:dre:434982:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/244/1998/08/08/p/dre
+- type: cites
+  target: pt:dre:438073:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/250/1998/08/11/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:626465:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/60/1993/03/03/p/dre
+- type: cites
+  target: pt:dre:626471:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/59/1993/03/03/p/dre
+- type: cites
+  target: pt:dre:651702:por
+  label: null
+  source: http://data.dre.pt/eli/lei/70/1993/09/29/p/dre
+- type: cites
+  target: pt:dre:690982:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/120/1993/04/16/p/dre
+article_structure:
+  article_count: 85
+  section_count: 32
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:06:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 252/2000
+
+Decreto-Lei n.º 252/2000
+
+de 16 de Outubro
+
+O Decreto-Lei n.º 440/86, de 31 de Dezembro, reestruturando o Serviço de Estrangeiros e alterando a sua denominação para «Serviço de Estrangeiros e Fronteiras», reiterou as atribuições no domínio do controlo documental da entrada e saída de cidadãos nacionais e estrangeiros nos postos de fronteira terrestres, marítimos e aéreos e cometendo-lhe uma nova responsabilidade: a de viabilizar uma correcta política de imigração e garantir a sua eficaz execução.
+
+Para atingir tal desiderato, aquele diploma consagrou e desenvolveu o princípio da centralização, no Serviço de Estrangeiros e Fronteiras, de toda a informação respeitante a cidadãos estrangeiros, por forma a habilitar o Ministro da Administração Interna com os elementos indispensáveis à formulação, pelo Governo, das grandes linhas orientadoras de política de imigração.
+
+Porém, o salto qualitativo pretendido com o Decreto-Lei n.º 440/86, de 31 de Dezembro, não veio, todavia, a efectivar-se, nomeadamente pela inexistência de pessoal da carreira de investigação e fiscalização, à qual, criada com aquele diploma, foram atribuídas competências para a investigação e fiscalização de cidadãos estrangeiros em território nacional e, em especial, as de controlo fronteiriço.
+
+Acresce que a esta dificuldade relativa à insuficiência de meios humanos, vieram juntar-se, ao longo da década de 90, outros condicionalismos a que o Serviço teve que dar resposta:
+
+O início de um terceiro ciclo de fluxos migratórios tendo Portugal por destino, caracterizado por um novo aumento das comunidades existentes e ainda de outras que até aí não assumiam grande significado;
+
+O crescimento anormal do fenómeno da imigração ilegal, com carácter marcadamente transnacional;
+
+A dinamização do mercado de trabalho nacional, em especial o sector da construção civil e obras públicas, que passou a revelar maior capacidade de absorção de mão de obra não qualificada, essencialmente constituída por cidadãos estrangeiros;
+
+A aplicação, na ordem jurídica interna, de directivas comunitárias no campo da imigração, fronteiras e asilo, bem como as disposições constantes do Acordo de Schengen e respectiva Convenção de Aplicação, assinado por Portugal em 25 de Junho de 1991;
+
+A necessidade de implementar a cooperação policial internacional, face às diversas responsabilidades que o Estado Português tem vindo a assumir em acordos internacionais de carácter bilateral e multilateral, dos quais se destacam os Acordos de Readmissão com a Espanha, a França, a Polónia e a Bulgária;
+
+A realização de dois processos de regularização extraordinária de imigrantes ilegais, em 1992 e 1996, com a finalidade de documentar cidadãos estrangeiros que permaneciam irregularmente em território nacional.
+
+Às dificuldades e condicionalismos apontados, vieram juntar-se ainda a assunção de novas atribuições, designadamente resultantes de medidas legislativas nacionais - Decretos-Leis n.os 59/93 e 60/93, ambos de 3 de Março, 120/93, de 14 de Abril, 244/98, de 8 de Agosto, 250/98, de 11 de Agosto, e Leis n.os 70/93, de 29 de Setembro e 15/98, de 26 de Março, e de compromissos internacionais, como o Acordo de Schengen e respectiva Convenção de Aplicação, Convenção de Dublin e Acordos de Cooperação Policial e, recentemente, do Tratado de Amsterdão que estabelece a comunitarização de políticas em matéria de livre circulação de pessoas.
+
+Por força da evolução que se deixou enunciada, o Serviço de Estrangeiros e Fronteiras detém, neste momento, o exercício efectivo das competências que seguidamente se enumeram, as quais ultrapassam largamente as que se encontram consignadas no Decreto-Lei n.º 440/86, de 31 de Dezembro, sua lei orgânica actual:
+
+Emitir pareceres relativamente a pedidos de visto consulares;
+
+Proceder ao controlo da circulação de pessoas nos postos de fronteira, impedindo a entrada ou saída do território nacional de pessoas que não satisfaçam os requisitos legais exigíveis para o efeito;
+
+Controlar e fiscalizar a permanência e actividades dos estrangeiros em todo o território nacional;
+
+Conceder vistos em território nacional, prorrogações de permanência, autorizações de residência, bem como documentos de viagem;
+
+Reconhecer o direito ao reagrupamento familiar;
+
+Proceder à investigação do crime de auxílio à imigração ilegal e de outros com este conexos;
+
+Colaborar com as entidades às quais compete a fiscalização do cumprimento da lei reguladora do trabalho de estrangeiros;
+
+Assegurar o funcionamento dos postos mistos de fronteira, com o objectivo de lutar contra a criminalidade transfronteiriça, a imigração ilegal e de aprofundar a cooperação policial com Espanha;
+
+Assegurar a realização de controlos móveis ao longo das fronteiras internas, tendo em vista o combate à imigração ilegal no espaço Schengen;
+
+Accionar os Acordos de Readmissão celebrados com Espanha, França, Bulgária e Polónia, para permitir o afastamento de pessoas em situação ilegal em território nacional, assegurando a execução do mesmo;
+
+Realizar operações conjuntas com os serviços congéneres de Espanha, destinadas ao combate dos fluxos de imigração ilegal nos dois sentidos da fronteira lusoespanhola;
+
+Instaurar, decidir e executar a expulsão de cidadãos estrangeiros em situação ilegal em Portugal e executar as decisões judiciais de expulsão;
+
+Escoltar os cidadãos estrangeiros sujeitos a medidas de afastamento de Portugal;
+
+Decidir sobre a aceitação da análise dos pedidos de asilo;
+
+Proceder à instrução de processos de concessão de asilo, de determinação do Estado responsável pela análise dos pedidos de asilo e de transferência dos candidatos a asilo entre os Estados membros da União Europeia;
+
+Analisar e dar parecer sobre os pedidos de concessão de nacionalidade portuguesa por naturalização;
+
+Analisar e dar parecer sobre os pedidos de concessão de estatutos de igualdade e sobre os de reconhecimento de associações internacionais;
+
+Garantir a ligação da Parte Nacional do Sistema de Informação Schengen (NSIS) ao Sistema Central de Informação Schengen (CSIS-Estrasburgo), sendo que se encontram conectados ao NSIS, para além do Serviço de Estrangeiros e Fronteiras, a Guarda Nacional Republicana, a Polícia de Segurança Pública, a Polícia Judiciária, a Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas e a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo;
+
+Assegurar a gestão e a comunicação de dados relativos à Parte Nacional do Sistema de Informação Schengen (NSIS) e de outros sistemas de informação no âmbito do controlo da circulação de pessoas, comuns aos Estados membros da União Europeia e Estados contratantes de Schengen, bem como os relativos à base de dados de emissão dos passaportes (BADEP);
+
+Coordenar a cooperação entre as forças e serviços de segurança nacionais e de outros países em matéria de circulação de pessoas e de controlo de estrangeiros;
+
+Cooperar com as representações diplomáticas e consulares de Estados estrangeiros, devidamente acreditadas no país, no repatriamento dos seus nacionais;
+
+Assegurar as relações de cooperação com todos os órgãos e serviços do Estado, nomeadamente com os demais serviços e forças de segurança;
+
+Colaborar com os serviços similares estrangeiros, podendo estabelecer formas concretas de cooperação.
+
+E ainda, na decorrência de compromissos internacionais:
+
+Assegurar, por determinação do Governo, a representação do Estado Português na União Europeia, designadamente no âmbito do Comité Estratégico Imigração, Fronteiras e Asilo, pelo qual é responsável o director do Serviço de Estrangeiros e Fronteiras e que compreende os Grupos de Trabalho Migração, Afastamento, Asilo, Vistos, Fronteiras, CIREA e CIREFI;
+
+Assegurar, por determinação do Governo, a representação do Estado Português no âmbito do Grupo de Alto Nível Asilo Migração, pelo qual é responsável o director do Serviço de Estrangeiros e Fronteiras;
+
+Garantir, por determinação do Governo, a representação do Estado Português, participando directamente nos grupos e subgrupos de trabalho, no âmbito do desenvolvimento do Acervo Schengen da União Europeia, nomeadamente Task Forces, Sistema de Informação SIS, Tecnologia do Sistema de Informação (SIS), Sirene, Comité de Avaliação Schengen, Comité Misto, Grupo de Avaliação Colectiva e nos Grupos de cooperação policial que versem matérias do âmbito das atribuições do SEF, Fronteiras Externas, Readmissões, Sirene, Comité Orientador SIS e PWP;
+
+Assegurar a representação do Estado Português no Grupo de Budapeste;
+
+Acompanhar os trabalhos da Conferência de Ministros do Interior dos Países do Mediterrâneo Ocidental (Portugal, Espanha, França, Itália, Marrocos, Tunísia e Argélia);
+
+Assegurar, através de oficiais de ligação, os compromissos assumidos no âmbito da cooperação internacional.
+
+Do elenco das atribuições actualmente prosseguidas pelo Serviço de Estrangeiros e Fronteiras que se deixaram enunciadas e face às constantes do Decreto-Lei n.º 440/86, de 31 de Dezembro, fácil é concluir pela total inadequação da estrutura orgânica prevista neste diploma para o seu cumprimento.
+
+De facto, desde a consulta prévia para a concessão de um visto de entrada em Portugal, passando pelas questões relacionadas com a legalização da entrada e da permanência de cidadãos estrangeiros, com o seu afastamento de território nacional, com o asilo até à aquisição da nacionalidade portuguesa por naturalização, todas as questões que giram à volta do fenómeno migratório são tratadas por um único serviço - o Serviço de Estrangeiros e Fronteiras.
+
+Ao exposto, acresce ainda a crescente complexidade que deriva do simples facto de Portugal dever ser hoje em dia considerado, com toda a propriedade, e à sua escala, um verdadeiro «país de imigração», que nada tem já a ver, nesta matéria, com o País existente em 1986. A população estrangeira legalmente residente em território nacional ultrapassa a fasquia dos 200000, sendo que a sua maioria continua a corresponder a cidadãos originários de países terceiros, em especial de países lusófonos.
+
+Em suma, o cumprimento de todas as atribuições que, como foi referido, ao longo dos anos foram sendo cometidas ao Serviço, nas vertentes nacional e internacional exige o estabelecimento de um quadro normativo que «crie» um serviço de estrangeiros e fronteiras capaz de dar resposta rápida e eficaz à execução da política de imigração definida pelo Governo, bem como às exigências estruturais e conjunturais do fenómeno migratório.
+
+Tal quadro normativo corresponde à modernização do Serviço de Estrangeiros e Fronteiras prevista no Programa do Governo como um dos instrumentos para dar cumprimento às exigências de cooperação entre os Estados membros da União Europeia em matéria de segurança, à compatibilização desta com a liberdade de circulação, ao reforço da cooperação com os países de expressão portuguesa e ao controlo de todas as fronteiras externas, nomeadamente as fronteiras marítimas.
+
+Assim, o presente diploma «cria» um serviço de estrangeiros e fronteiras preparado para cumprir aqueles objectivos e para acompanhar o desenvolvimento de mecanismos de cooperação internacional, o progressivo ajustamento de políticas de imigração entre países de destino e países de origem, bem como para prevenir e combater o tráfico de imigrantes, designadamente mediante:
+
+A criação de uma estrutura orgânica adequada ao suporte das atribuições prosseguidas pelo Serviço e consentânea com a sua dimensão;
+
+A previsão de uma directoria-geral composta por um director-geral e quatro directores-gerais-adjuntos;
+
+A definição precisa das competências do director-geral;
+
+A previsão de serviços centrais e serviços descentralizados, conferindo a estes últimos a necessária autonomia e flexibilidade para a gestão da comunidade de cidadãos estrangeiros e dos fluxos migratórios;
+
+A criação de direcções centrais que racionalizam e consolidam as várias áreas de actuação do Serviço;
+
+A definição dos postos de fronteira externa como unidades orgânicas, e das respectivas competências;
+
+A institucionalização dos postos mistos de fronteira.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Foi ouvida a Comissão Nacional de Protecção de Dados.
+
+No uso da autorização legislativa concedida no artigo 1.º da Lei n.º 24/2000, de 23 de Agosto, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 3.º, Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160) Revogado, a partir de 11 de maio de 2022, com efeitos a partir de 29 de outubro de 2023, pela Lei n.º 73/2021, de 12 de novembro, Diário da República n.º 220/2021, Série I, ao abrigo do disposto nos artigos 14.º, 14.º-A e 15.º desta.
+
+> Nota: [Artigo 2.º, Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727) O presente diploma encontra-se revogado a partir de 11 de maio de 2022, por força da alteração introduzida ao artigo 15.º da Lei n.º 73/2021, de 12 de novembro.
+
+### Capítulo I — Natureza, atribuições e princípios de atuação
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+#### Secção I — Natureza e atribuições
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 1.º — Natureza
+
+1 - O Serviço de Estrangeiros e Fronteiras, abreviadamente designado por SEF, é um serviço de segurança, organizado hierarquicamente na dependência do membro do Governo responsável pela área da administração interna, com autonomia administrativa e que, no quadro da política de segurança interna, tem por objetivos fundamentais controlar a circulação de pessoas nas fronteiras, a permanência e atividades de estrangeiros em território nacional, bem como estudar, promover, coordenar e executar as medidas e ações relacionadas com aquelas atividades e com os movimentos migratórios.
+
+2 - Enquanto órgão de polícia criminal, o SEF atua no processo, nos termos da lei processual penal, sob a direção e em dependência funcional da autoridade judiciária competente, realizando as ações determinadas e os atos delegados pela referida autoridade.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 2.º — Atribuições
+
+1 - São atribuições do SEF no plano interno:
+
+a) Vigiar e fiscalizar nos postos de fronteira, incluindo a zona internacional dos portos e aeroportos, a circulação de pessoas, podendo impedir o desembarque de passageiros e tripulantes de embarcações e aeronaves indocumentados ou em situação irregular;
+
+b) Impedir o desembarque de passageiros e tripulantes de embarcações e aeronaves que provenham de portos ou aeroportos de risco sob o aspeto sanitário, sem prévio assentimento das competentes autoridades sanitárias;
+
+c) Proceder ao controlo da circulação de pessoas nos postos de fronteira, impedindo a entrada ou saída do território nacional de pessoas que não satisfaçam os requisitos legais exigíveis para o efeito;
+
+d) Autorizar e verificar a entrada de pessoas a bordo de embarcações e aeronaves;
+
+e) Controlar e fiscalizar a permanência e atividades dos estrangeiros em todo o território nacional;
+
+f) Assegurar a realização de controlos móveis e de operações conjuntas com serviços ou forças de segurança congéneres, nacionais e espanholas;
+
+g) Proceder à investigação dos crimes de auxílio à imigração ilegal, bem como investigar outros com ele conexos, sem prejuízo da competência de outras entidades;
+
+h) Emitir parecer relativamente a pedidos de vistos consulares;
+
+i) Conceder em território nacional vistos, prorrogações de permanência, autorizações de residência, bem como documentos de viagem nos termos da lei;
+
+j) Reconhecer o direito ao reagrupamento familiar;
+
+k) Manter a necessária colaboração com as entidades às quais compete a fiscalização do cumprimento da lei reguladora do trabalho de estrangeiros;
+
+l) Instaurar, instruir e decidir os processos de expulsão administrativa de estrangeiros do território nacional e dar execução às decisões de expulsão administrativas e judiciais, bem como acionar, instruir e decidir os processos de readmissão e assegurar a sua execução;
+
+m) Efetuar escoltas de cidadãos objeto de medidas de afastamento;
+
+n) Decidir sobre a aceitação da análise dos pedidos de asilo e proceder à instrução dos processos de concessão, de determinação do Estado responsável pela análise dos respetivos pedidos e da transferência dos candidatos entre os Estados membros da União Europeia;
+
+o) Emitir parecer sobre os processos de concessão de nacionalidade portuguesa por naturalização;
+
+p) Analisar e dar parecer sobre os pedidos de concessão de estatutos de igualdade formulados pelos cidadãos estrangeiros abrangidos por convenções internacionais;
+
+q) Assegurar a gestão e a comunicação de dados relativos à parte nacional do Sistema de Informação Schengen (NSIS) e, sem prejuízo das competências de outras entidades, de outros sistemas de informação comuns aos Estados membros da União Europeia no âmbito do controlo da circulação de pessoas, nomeadamente o Sistema de Informação de Vistos (VIS) e o Sistema de Informação Antecipada de Passageiros (APIS), bem como os relativos ao sistema de informação do passaporte eletrónico português (SIPEP);
+
+r) Cooperar com as representações diplomáticas e consulares de outros Estados, devidamente acreditadas em Portugal, nomeadamente no repatriamento dos seus nacionais;
+
+s) Assegurar o cumprimento das atribuições previstas na legislação sobre a entrada, permanência, saída e afastamento de estrangeiros do território nacional;
+
+t) Assegurar as relações de cooperação com todos os órgãos e serviços do Estado, nomeadamente com os demais serviços e forças de segurança, bem como com organizações não-governamentais legalmente reconhecidas;
+
+u) Coordenar a cooperação entre as forças e serviços de segurança nacionais e de outros países em matéria de circulação de pessoas, do controlo de estrangeiros e da investigação dos crimes de auxílio à imigração ilegal e outros com eles conexos;
+
+v) Assegurar o planeamento e a execução da assistência técnica necessária ao correto funcionamento dos centros de cooperação policial e aduaneira (CCPA) em matéria de sistemas de informação, plataformas digitais de trabalho e sistemas de comunicação;
+
+w) Emitir o passaporte comum e o passaporte temporário português.
+
+2 - São atribuições do SEF no plano internacional:
+
+a) Assegurar, por determinação do Governo, a representação do Estado Português a nível da União Europeia no Comité Estratégico Imigração, Fronteiras e Asilo e no Grupo de Alto Nível de Asilo Migração, no Grupo de Budapeste e noutras organizações internacionais, bem como participar nos grupos de trabalho de cooperação policial que versem matérias relacionadas com as atribuições do SEF;
+
+b) Garantir, por determinação do Governo, a representação do Estado Português no desenvolvimento do Acervo de Schengen no âmbito da União Europeia;
+
+c) Assegurar, através de oficiais de ligação, os compromissos assumidos no âmbito da cooperação internacional nos termos legalmente previstos;
+
+d) Colaborar com os serviços similares estrangeiros, podendo estabelecer formas de cooperação.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+#### Secção II — Princípios de atuação
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 3.º — Autoridades de polícia criminal
+
+1 - São autoridades de polícia criminal para efeitos da lei penal:
+
+a) O diretor nacional;
+
+b) Os diretores nacionais-adjuntos;
+
+c) Os diretores de direção central e os diretores regionais;
+
+d) Os inspetores superiores e inspetores;
+
+e) Os inspetores-adjuntos principais;
+
+f) Os inspetores-adjuntos, quando exerçam funções de chefia de unidades orgânicas.
+
+2 - As autoridades referidas no número anterior são competentes para ordenar a detenção de pessoas e praticar outros atos urgentes, nos termos do Código de Processo Penal.
+
+3 - São considerados agentes de autoridade os inspetores-adjuntos.
+
+4 - Os trabalhadores mencionados nos n.os 1 e 3, podem ordenar a identificação de qualquer pessoa, nos termos da lei.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 4.º — Direito de acesso
+
+1 - Aos trabalhadores mencionados nos n.os 1 e 3 do artigo 3.º, desde que devidamente identificados, é facultada a entrada livre em todos os locais, nomeadamente estaleiros de obras públicas e privadas, parques de campismo, casas e recintos de diversão e espetáculos, hotéis, pensões, restaurantes, bares, estabelecimentos comerciais e industriais, escritórios e repartições ou serviços públicos, estabelecimentos prisionais, gares, estações de caminhos de ferro, cais de embarque e desembarque, aeroportos, navios ancorados nos portos e aeronaves.
+
+2 - Quando uma missão de serviço assim o justificar, o diretor nacional pode autorizar a emissão a favor de trabalhadores das carreiras de apoio à investigação e fiscalização e de vigilância e segurança, de credenciais que servem de livre trânsito pelo período e para os locais nelas fixados.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 5.º — Dever de cooperação
+
+1 - Entre o SEF e todas as entidades com funções de prevenção e investigação criminal, será mantida mútua cooperação no exercício das respetivas atribuições.
+
+2 - Para cumprimento das atribuições do SEF, os serviços públicos e as empresas públicas deverão prestar a colaboração que lhes for solicitada.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 6.º — Identificação de pessoas
+
+1 - Com vista ao estabelecimento ou confirmação da identidade de estrangeiros ou apátridas, o SEF pode recorrer aos meios de identificação civil, incluindo a obtenção de fotografias e impressões digitais.
+
+2 - As autoridades de polícia criminal referidas no n.º 1 do artigo 3.º terão acesso direto à informação de identificação civil e criminal constante dos ficheiros informáticos de identificação civil e criminal do Ministério da Justiça, bem como à informação de interesse criminal contida nos ficheiros de outros organismos, mediante protocolo a celebrar com as entidades em causa, após parecer da Comissão Nacional de Proteção de Dados e em condições a regulamentar por despacho dos membros do Governo responsáveis pelas áreas da administração interna e da justiça.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 7.º — Dever de comparência
+
+Qualquer pessoa, quando devidamente notificada ou por outra forma convocada pelo SEF, tem o dever de comparecer no dia, hora e local designados, sob pena das sanções previstas na lei de processo.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 8.º — Serviço permanente
+
+1 - O serviço no SEF é de carácter permanente e obrigatório não podendo o pessoal eximir-se às missões que lhe sejam confiadas, para além do horário normal do serviço.
+
+2 - Sem prejuízo do disposto no número anterior será definido por despacho dos membros do Governo responsáveis pelas áreas da administração interna, das finanças e da Administração Pública o horário normal da prestação de serviço, o qual poderá revestir a modalidade de trabalho por turnos.
+
+3 - O serviço no SEF pode ser assegurado em regime de piquete e de prevenção de acordo com regulamentação a aprovar conjuntamente pelo Ministro da Administração Interna, pelos membros do Governo responsáveis pelas áreas da administração interna, das finanças e da Administração Pública.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 9.º — Segredo profissional
+
+1 - O pessoal do SEF é obrigado a guardar sigilo sobre todas as informações a que tiver acesso no exercício das suas funções.
+
+2 - A obrigação de sigilo a que se refere o número anterior não impede que os trabalhadores referidos no artigo 3.º devam comunicar prontamente às autoridades competentes factos indiciários da prática de qualquer crime de que tenham conhecimento através do exercício da atividade de investigação e fiscalização.
+
+3 - As ações de prevenção, de investigação criminal e as de coadjuvação das autoridades judiciárias estão sujeitas a segredo de justiça, nos termos da lei.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 10.º — Receitas
+
+1 - O SEF dispõe, para além das dotações atribuídas no Orçamento do Estado, das seguintes receitas próprias:
+
+a) As importâncias cobradas pela concessão de vistos, prorrogações de permanência, pela concessão e renovação de autorizações de residência e títulos de residência e pela emissão de documentos de viagem nos termos da lei;
+
+b) As taxas e emolumentos que por lei estiverem em vigor;
+
+c) O produto da venda de impressos próprios do SEF;
+
+d) A percentagem do produto das coimas, de acordo com a lei vigente;
+
+e) Os saldos anuais resultantes das receitas consignadas transitam para o ano seguinte, nos termos do decreto-lei de execução orçamental;
+
+f) Quaisquer outras receitas que por lei lhe estejam ou venham a ser atribuídas.
+
+2 - As receitas referidas no número anterior são entregues nos Cofres do Estado mediante guias a expedir pelo SEF e aplicadas em despesas com compensação em receita.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 290-A/2001 - Diário da República n.º 267/2001, 1º Suplemento, Série I-A de 2001-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-a-2001-649343), em vigor a partir de 2001-11-22, produz efeitos a partir de 2001-07-01
+
+### Capítulo II — Órgãos, serviços e suas competências
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+#### Secção I — Organização geral
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 11.º — Tipo de organização interna
+
+1 - O SEF estrutura-se verticalmente e compreende os seguintes órgãos e serviços:
+
+a) Diretoria Nacional;
+
+b) Conselho administrativo;
+
+c) Serviços Centrais;
+
+d) Serviços descentralizados.
+
+2 - Os serviços referidos no número anterior integram:
+
+a) Serviços operacionais, que prosseguem diretamente as ações de investigação e fiscalização;
+
+b) Serviços de apoio, que desenvolvem um conjunto de atividades de apoio àquelas ações.
+
+3 - São serviços operacionais a Direção Central de Investigação, a Direção de Fronteiras de Lisboa, as direções regionais, as delegações regionais e os postos de fronteira.
+
+4 - São serviços de apoio todas as restantes unidades orgânicas, bem como aquelas que, integrando-se nos serviços referidos no número anterior, prosseguem atividades do tipo definido na alínea b) do n.º 2.
+
+5 - O SEF pode ainda dispor de núcleos integrados nas unidades orgânicas referidas nos artigos 12.º, 22.º e 45.º, sendo aqueles criados por portaria do membro do Governo responsável pela área da administração interna.
+
+6 - O número de núcleos não pode exceder, em cada momento, o máximo de 21.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+#### Secção II — Diretoria Nacional
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 12.º — Órgãos e serviços
+
+A Diretoria Nacional compreende:
+
+a) Diretor nacional, que é coadjuvado por dois diretores nacionais-adjuntos;
+
+b) Gabinete Jurídico (GJ);
+
+c) Gabinete de Inspeção (GI);
+
+d) Gabinete de Asilo e de Refugidos (GAR);
+
+e) Gabinete de Relações Internacionais, Cooperação e Relações Públicas (GRICRP);
+
+f) Gabinete de Estudos, Planeamento e Formação (GEPF);
+
+g) Gabinete Técnico de Fronteiras (GTF);
+
+h) Gabinete de Apoio às Direções Regionais (GADR);
+
+i) Gabinete de Recursos Humanos (GRH);
+
+j) Gabinete de Sistemas de Informação (GSI).
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 13.º — Diretor nacional
+
+1 - O SEF é dirigido por um diretor nacional, a quem compete orientar e coordenar superiormente a atividade do Serviço e assegurar a realização das suas atribuições.
+
+2 - Compete em especial ao diretor nacional:
+
+a) Representar o SEF;
+
+b) Presidir ao conselho administrativo;
+
+c) Definir e promover a política de qualidade, em especial dos processos organizativos;
+
+d) Definir a política de gestão de recursos humanos e proceder à sua afetação aos diversos serviços do SEF;
+
+e) Assegurar a coordenação do processo de planeamento, controlo e avaliação dos resultados da atividade do SEF;
+
+f) Ordenar inspeções que tiver por convenientes;
+
+g) Aplicar coimas em processos de contraordenação;
+
+h) Proferir decisões de expulsão administrativa;
+
+i) Determinar a inscrição ou retirada de pessoas na lista comum ou na lista nacional de pessoas não admissíveis;
+
+j) Autorizar a credenciação de trabalhadores;
+
+l) Exercer as demais competências que lhe sejam cometidas por lei, regulamento ou delegação.
+
+3 - O diretor nacional pode delegar em qualquer dos diretores nacionais-adjuntos as competências previstas no número anterior.
+
+4 - A competência prevista na alínea h) do n.º 2 é própria reservada, cabendo, dos respetivos atos, recurso hierárquico facultativo, sem prejuízo dos atos poderem ser praticados em substituição nos termos do n.º 2 do artigo 14.º
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 14.º — Diretores nacionais-adjuntos
+
+1 - O diretor-nacional é coadjuvado, no exercício das suas funções, pelos diretores nacionais-adjuntos, os quais exercerão as competências que lhes forem delegadas e subdelegadas.
+
+2 - O  diretor-nacional designará o diretor nacional-adjunto, que o substituirá nas suas faltas e impedimentos.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 15.º — Gabinete Jurídico
+
+Ao Gabinete Jurídico compete:
+
+a) Elaborar estudos, formular pareceres e preparar informações sobre matérias de natureza jurídica;
+
+b) Elaborar projetos de diploma e preparar instruções com vista à correta aplicação e harmonização doutrinária da legislação referente a estrangeiros;
+
+c) Elaborar pareceres, analisar e preparar as respostas a recursos sobre matérias das áreas de competência do Serviço;
+
+d) Emitir pareceres sobre acordos internacionais com interesse para o SEF;
+
+e) Prestar consultadoria jurídica sobre todos os assuntos que lhe sejam remetidos.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 16.º — Gabinete de Inspeção
+
+1 - Ao Gabinete de Inspeção compete efetuar, de harmonia com as instruções do diretor nacional, as inspeções ordinárias e extraordinárias aos serviços, proceder a auditorias, sindicâncias, inquéritos e instruir processos disciplinares.
+
+2 - As inspeções ordinárias serão realizadas anualmente a todos os serviços do SEF e as inspeções extraordinárias e as auditorias sempre que o diretor nacional o considere conveniente.
+
+3 - São designados por despacho do diretor nacional, sob proposta do coordenador, os trabalhadores incumbidos de assegurar o cumprimento das competências previstas no n.º 1.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 17.º — Gabinete de Asilo e Refugiados
+
+1 - Ao Gabinete de Asilo e Refugiados compete:
+
+a) Organizar e instruir os processos de asilo;
+
+b) Organizar e instruir, nos termos da lei do asilo, os processos de concessão de autorização de residência por motivos humanitários;
+
+c) Organizar e instruir os processos de determinação do Estado responsável pela análise dos pedidos de asilo e emitir o respetivo salvo-conduto, se necessário;
+
+d) Emitir parecer sobre os pedidos de reinstalação de refugiados;
+
+e) Emitir parecer sobre os pedidos de concessão e prorrogação de documentos de viagem para refugiados, apresentados nos postos consulares portugueses;
+
+f) Emitir cartões de identidade e títulos de viagem para refugiados, bem como conceder as autorizações de residência previstas na lei de asilo e renovar ou prorrogar os referidos documentos.
+
+g) Assegurar a ligação do SEF com o Gabinete Europeu de Apoio em Matéria de Asilo (EASO);
+
+h) Proceder à elaboração do planeamento estratégico no que respeita às ações do EASO.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 18.º — Gabinete de Relações Internacionais, Cooperação e Relações Públicas
+
+1 - Ao Gabinete de Relações Internacionais, Cooperação e Relações Públicas compete:
+
+a) Assegurar a obtenção, a atualização e a divulgação da informação técnica referente à participação de Portugal na União Europeia e em organizações internacionais, no âmbito das suas competências;
+
+b) [Anterior alínea b) do corpo do artigo.]
+
+c) Habilitar a direção do SEF com a informação técnica relativa à execução de acordos de cooperação e outras relações bilaterais ou multilaterais do Estado Português, no âmbito das atribuições do SEF;
+
+d) [Anterior alínea d) do corpo do artigo.]
+
+e) Produzir e difundir informação com interesse para os utentes do SEF e para os cidadãos em geral e selecionar e divulgar a informação veiculada pelos órgãos de comunicação social relativamente à atividade do SEF;
+
+f) Servir de elo de ligação entre o SEF e os órgãos de comunicação social e desenvolver atividades dirigidas à promoção da respetiva imagem;
+
+g) Assegurar o serviço de relações públicas e esclarecer questões decorrentes da atividade do SEF;
+
+h) Enquadrar os programas das atividades desenvolvidas no âmbito das relações de cooperação com entidades congéneres, nacionais e estrangeiras.
+
+2 - No que respeita às competências previstas no número anterior, o SEF articula-se, em todos os assuntos que impliquem a tomada de uma posição nacional, com a DGAI.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 19.º — Gabinete de Estudos, Planeamento e Formação
+
+1 - Ao Gabinete de Estudos, Planeamento e Formação compete:
+
+a) Elaborar o plano e o relatório anuais de atividades do SEF;
+
+b) Elaborar os programas gerais e setoriais do SEF, acompanhar a sua execução e proceder à respetiva avaliação;
+
+c) Prestar apoio aos diversos serviços do SEF no desenvolvimento das ações de planeamento e controlo;
+
+d) Participar na conceção, programação e coordenação, em articulação com a DGAI, na execução de projetos cofinanciados pela União Europeia nos quais o SEF seja interveniente;
+
+e) Elaborar e difundir as ordens de serviço;
+
+f) Recolher, tratar e difundir os dados estatísticos relativos à atividade do SEF;
+
+g) Apoiar a Direção Nacional na conceção, acompanhamento e implementação de medidas, prioridades e objetivos do SEF;
+
+h) Proceder à elaboração de documentos estratégicos para o SEF acompanhando e avaliando a sua execução;
+
+i) Identificar as necessidades de formação elaborando o plano anual de formação e procedendo à sua avaliação;
+
+j) Conceber, programar, realizar e avaliar as ações de formação promovidas pelo SEF;
+
+k) Assegurar o tratamento bibliográfico, arquivístico e documental por forma a manter atualizadas as bases de dados de interesse para as atividades do SEF;
+
+l) Colaborar na definição da política documental e de sistemas de informação do SEF;
+
+m) Promover a edição e difusão de estudos e publicações produzidos no âmbito das matérias relacionadas com a atividade do SEF;
+
+n) Assegurar a reprodução, tradução e retroversão de documentação.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 19.º-A — Gabinete Técnico de Fronteiras
+
+Ao Gabinete Técnico de Fronteiras compete:
+
+a) Assegurar o estudo e a elaboração de normas técnicas com vista à uniformização de procedimentos nos postos de fronteira, bem como dos equipamentos necessários ao funcionamento dos mesmos;
+
+b) Centralizar e recolher informação relativa à entrada, permanência e saída de pessoas do território nacional, ao tráfico de seres humanos, ao auxílio à imigração ilegal e aos demais crimes relacionados com imigração irregular, bem como participar na definição de prioridades para a implementação do modelo europeu de gestão integrada de fronteiras, sem prejuízo das competências atribuídas a outras entidades;
+
+c) Contribuir, através da elaboração de relatórios periódicos, para a definição da estratégia nacional para a gestão das fronteiras;
+
+d) Coordenar, no âmbito das atribuições do SEF, o intercâmbio das informações relacionadas com a entrada, permanência e saída do território nacional, procedendo à análise de risco estratégica e operacional, através da sala de situação e da unidade de risco migratório do SEF;
+
+e) Elaborar e disponibilizar análise de risco, estratégica e operacional, no âmbito das atribuições do SEF;
+
+f) Estabelecer e atualizar o quadro de situação nacional relativo à imigração;
+
+g) Elaborar alertas e proceder à gestão de incidentes relacionados com imigração;
+
+h) Dar assistência a operações em curso, bem como gerir e processar toda a informação operacional resultante dessas operações.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 19.º-B — Gabinete de Apoio às Direções Regionais
+
+Ao Gabinete de Apoio às Direções Regionais compete:
+
+a) Assegurar o estudo e a elaboração de normas técnicas com vista à uniformização de procedimentos, designadamente em matéria de gestão documental nas direções regionais;
+
+b) Instruir e centralizar a informação relativa aos pedidos de autorização de residência ao abrigo dos regimes excecionais, bem como elaborar normas técnicas com vista à uniformização de procedimentos;
+
+c) Emitir parecer sobre os processos de atribuição e aquisição da nacionalidade portuguesa, nos termos da lei;
+
+d) Instruir, informar e emitir parecer sobre pedidos de concessão do estatuto de igualdade de direitos e deveres;
+
+e) Coordenar o funcionamento dos centros destinados à instalação temporária de cidadãos estrangeiros não admitidos em território nacional que aguardam decisão de afastamento ou a respetiva execução e de requerentes de asilo que esperam decisão judicial.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 19.º-C — Gabinete de Recursos Humanos
+
+Ao Gabinete de Recursos Humanos compete:
+
+a) Definir e executar os procedimentos relativos à gestão e administração de pessoal;
+
+b) Elaborar estudos, inquéritos e trabalhos tendo em vista a gestão dos recursos humanos;
+
+c) Estudar e promover as medidas tendentes à atualização do mapa de pessoal;
+
+d) Organizar e manter atualizado o registo biográfico e disciplinar dos trabalhadores;
+
+e) Elaborar o balanço social, nos termos da legislação aplicável;
+
+f) Proceder às diligências necessárias à credenciação de trabalhadores.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 19.º-D — Gabinete de Sistemas de Informação
+
+1 - Ao Gabinete de Sistemas de Informação compete:
+
+a) Estudar, planear e gerir os sistemas de informação do SEF, nomeadamente, à parte nacional do NSIS, o Sistema Integrado de Informação do SEF (SIISEF), o Sistema de Informação de Vistos (VIS), o Sistema de Informação do Passaporte Eletrónico Português (SIPEP) e o Sistema de Controlo de Fronteiras (Passagem Automática e Segura de Saídas e Entradas, PASSE), que inclui o Sistema de Reconhecimento Automático de Passageiros Identificados Documentalmente (RAPID);
+
+b) Estudar e inventariar as necessidades em matéria de informática de todos os serviços do SEF, bem como apoiar a instalação e implementação dos sistemas informáticos desses serviços, colaborar na sua manutenção e acompanhar as ações de formação desta área específica;
+
+c) Participar na realização do plano sectorial de informática do Ministério e, nesse âmbito, planear, gerir e executar todas as tarefas incumbidas ao SEF no âmbito dos sistemas e tecnologias de informação;
+
+d) Contribuir para a elaboração do plano estratégico de sistemas e tecnologias de informação do SEF e para a elaboração e controlo do orçamento dos sistemas e tecnologias de informação do SEF;
+
+e) Definir os projetos informáticos e colaborar no planeamento de tarefas, devidamente alinhadas com as orientações do Ministério, e executar todos os trabalhos de estudo prévio, conceção, desenvolvimento, testes e implementação de sistemas de informação do SEF, bem como a correspondente manutenção, garantindo a sua correta integração e documentação, com recurso à elaboração de manuais de operação e de utilização assegurando uma gestão eficaz e racional dos recursos disponíveis;
+
+f) Exercer consultadoria técnica, planear, efetuar e participar em auditorias técnicas e ações de formação na área de informática, no âmbito das atribuições do SEF;
+
+g) Promover os projetos de desenvolvimento e de investigação próprios das áreas específicas do SEF;
+
+h) Garantir a monitorização e controlo dos acordos estabelecidos entre o SEF e as entidades externas;
+
+i) Representar o SEF e participar em projetos europeus, internacionais ou da Comunidade dos Países de Língua Portuguesa relacionados com sistemas e tecnologias de informação;
+
+j) Contribuir para a definição do conteúdo, detalhe e periodicidade das informações necessárias e para a definição de normas e procedimentos de suporte aos sistemas informáticos da responsabilidade do SEF;
+
+k) Validar e promover a gestão, disponibilidade, manutenção e segurança dos dados e informações dos sistemas de informação da responsabilidade do SEF por forma a garantir o acesso às suas bases de dados, nomeadamente para consulta ou extração de dados que possibilitem o seu tratamento estatístico, reporte operacional ou reporte de suporte à decisão;
+
+l) Estabelecer o interface com os utilizadores no que respeita às aplicações e bases de dados em regime de exploração, zelando pela oportuna receção dos dados, tratamento e entrega dos produtos de processamento, verificando a sua qualidade e obediência às especificações e padrões de controlo de qualidade acordados;
+
+m) Garantir que se encontra vedado o acesso aos dados dos sistemas de informação alojados em entidades externas ao SEF, nomeadamente através da assinatura de protocolos que garantam e disponibilizem mecanismos de acesso e de controlo.
+
+2 - No que respeita às competências previstas nas alíneas e), g) e i) do número anterior, o SEF articula-se com a Direção-Geral de Infraestruturas e Equipamentos e também, quanto à alínea i), com a DGAI.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+#### Secção III — Conselho administrativo
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 20.º — Natureza, composição e competência
+
+1 - O conselho administrativo é o órgão consultivo e fiscalizador em matéria de gestão financeira e patrimonial.
+
+2 - Compõem o conselho administrativo:
+
+a) O diretor nacional;
+
+b) O diretor nacional-adjunto que, por despacho do diretor nacional, tiver a seu cargo a área de gestão e administração dos recursos financeiros e patrimoniais do SEF;
+
+c) O diretor da Direção Central de Gestão e Administração.
+
+3 - Sem prejuízo do disposto na alínea b) do número anterior, o diretor nacional, quando o entender conveniente, pode chamar a participar nas reuniões do conselho administrativo o outro diretor nacional-adjunto.
+
+4 - O subdiretor central de Gestão e Administração participa como secretário nas reuniões do conselho administrativo.
+
+5 - Compete em especial ao conselho administrativo:
+
+a) Apreciar os projetos de orçamento de despesas e receitas e as contas de gerência a remeter ao Tribunal de Contas;
+
+b) Verificar e controlar a realização de despesas;
+
+c) Apreciar a situação administrativa e financeira;
+
+d) Proceder à verificação regular dos fundos em cofre e em depósito;
+
+e) Dar parecer sobre os contratos a celebrar pelo SEF;
+
+f) Fiscalizar a escrituração contabilística e a cobrança de receitas.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 21.º — Periodicidade das reuniões
+
+O conselho administrativo reúne ordinariamente uma vez por mês e, extraordinariamente, sempre que o respetivo presidente o convoque.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+#### Secção IV — Serviços Centrais
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+##### Subsecção I — Direção Central de Investigação
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 22.º — Serviços Centrais
+
+Os Serviços Centrais compreendem:
+
+a) A Direção Central de Investigação (DCINV);
+
+b) A Direção Central de Imigração e Documentação (DCID);
+
+c) (Revogada.)
+
+d) A Direção Central de Gestão e Administração (DCGA);
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) (Revogada.)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 23.º — Direção Central de Investigação
+
+1 - À Direção Central de Investigação (DCINV) compete:
+
+a) Desenvolver ações no âmbito da prevenção e investigação da criminalidade da competência do SEF quando esta envolva criminalidade organizada ou em casos cuja investigação se revista de especial complexidade, em especial no âmbito do disposto nos artigos 183.º a 188.º da Lei n.º 23/2007, de 4 de julho, ou ainda quando a ação a desenvolver abranja a área de intervenção de duas ou mais direções regionais, em qualquer dos casos no domínio das competências do SEF;
+
+b) Assegurar a coordenação técnica da prevenção e investigação criminal desenvolvida pelos departamentos regionais de investigação e fiscalização, cabendo-lhe centralizar e acompanhar os inquéritos registados e as investigações desenvolvidas no SEF;
+
+c) Concretizar as ações de interesse para a prevenção da criminalidade, designadamente a recolha de material e informação e respetivo tratamento e difusão, em qualquer dos casos no domínio das competências do SEF.
+
+2 - Nos casos onde subsista a dúvida relativamente à verificação dos pressupostos a que se refere a alínea a) do número anterior, o diretor nacional decide da intervenção da DCINV, sob proposta desta.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 24.º — Departamento de Investigação
+
+1 - Ao Departamento de Investigação compete:
+
+a) A averiguação e investigação criminal de actividades relacionadas com a prática do crime de auxílio à imigração ilegal e outros crimes com este conexos;
+
+b) A coordenação técnica da averiguação e investigação criminal desenvolvida pelos departamentos regionais de investigação e fiscalização.
+
+2 - Na área da Direcção Regional de Lisboa, Vale do Tejo e Alentejo, as competências previstas na alínea a) do número anterior são asseguradas pelo Departamento de Investigação.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 25.º — Departamento de Pesquisa e Análise
+
+Ao Departamento de Pesquisa e Análise compete a realização das acções que interessem à prevenção, averiguação e investigação criminal das actividades relacionadas com o crime de auxílio à imigração ilegal e outros crimes com ele conexos, designadamente a recolha de material e informação e o tratamento e a difusão desta, em qualquer dos casos no domínio das atribuições do SEF.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção II — Direção Central de Imigração e Documentação
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 26.º — Direção Central de Imigração e Documentação
+
+1 - À Direção Central de Imigração e Documentação (DCID) compete centralizar, tratar e difundir informação relacionada com os movimentos migratórios, estudar as medidas destinadas a apoiar a política de imigração, proceder à identificação e peritagem documental, registo e difusão dos movimentos migratórios e informação de natureza policial, bem como centralizar o controlo da emissão de documentos de viagem.
+
+2 - À DCID compete:
+
+a) Registar, tratar e difundir informação relacionada com os movimentos migratórios;
+
+b) Registar e atualizar a informação relativa a estrangeiros, em especial a de natureza policial e criminal, no âmbito das competências do SEF;
+
+c) Atualizar e difundir a informação relativa a estrangeiros em situação irregular e aos quais tenha sido recusada a entrada em território nacional;
+
+d) Atualizar as listas de estrangeiros indicados para efeitos de não admissão;
+
+e) Emitir parecer relativamente à inscrição ou retirada de pessoas na lista comum ou na lista nacional de pessoas não admissíveis;
+
+f) Centralizar a informação relativa ao afastamento coercivo, expulsão, readmissão e retorno voluntário de cidadãos estrangeiros, bem como elaborar normas técnicas com vista à uniformização de procedimentos;
+
+g) Centralizar o controlo e o registo nacional de passaportes, títulos de viagem, salvo-condutos emitidos a favor de estrangeiros e apátridas e títulos de residência;
+
+h) Realizar os procedimentos inerentes à concessão do passaporte comum e do passaporte temporário português;
+
+i) Emitir documentos de viagem nos casos previstos na lei, nomeadamente passaportes para estrangeiros em território nacional;
+
+j) Dar parecer aos postos consulares portugueses sobre a emissão de passaportes para estrangeiros;
+
+k) Visar os cartões de identidade emitidos pelo Ministério dos Negócios Estrangeiros aos agentes diplomáticos e consulares acreditados em Portugal, ao pessoal administrativo e doméstico ou equiparado em serviço nas missões diplomáticas ou postos consulares dos respetivos Estados e aos membros das suas famílias;
+
+l) Proceder à recolha, análise e difusão de informação relativa a documentos;
+
+m) Proceder à realização de peritagens de documentos e elaboração dos respetivos relatórios;
+
+n) Tratar os elementos de identificação de estrangeiros e apátridas, nomeadamente onomástico, dactiloscópico e fotográfico, bem como realizar peritagens e os respetivos relatórios;
+
+o) Prestar consultadoria técnica na conceção de documentos.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 27.º — Departamento de Imigração, Registo e Difusão
+
+Ao Departamento de Imigração, Registo e Difusão compete:
+
+a) Registar, tratar e difundir informação relacionada com os movimentos migratórios;
+
+b) Registar e actualizar a informação relativa a estrangeiros, em especial a de natureza policial e criminal, no âmbito das competências do Serviço;
+
+c) Actualizar e difundir a informação relativa a estrangeiros em situação irregular e aos quais tenha sido recusada a entrada em território nacional;
+
+d) Actualizar as listas de estrangeiros indicados para efeitos de não admissão;
+
+e) Emitir parecer relativamente à inscrição ou retirada de pessoas na lista comum ou na lista nacional de pessoas não admissíveis;
+
+f) Centralizar a informação relativa à expulsão, readmissão e retorno voluntário de cidadãos estrangeiros, bem como elaborar normas técnicas com vista à uniformização de procedimentos nesta matéria.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 28.º — Departamento de Controlo de Emissão de Documentos
+
+Ao Departamento de Controlo de Emissão de Documentos compete:
+
+a) Centralizar o controlo e o registo nacional de passaportes, títulos de viagem, salvo-condutos emitidos a favor de estrangeiros e apátridas e títulos de residência;
+
+b) Emitir documentos de viagem nos casos previstos na lei, nomeadamente passaportes para estrangeiros em território nacional;
+
+c) Dar parecer aos postos consulares portugueses sobre a emissão de passaportes para estrangeiros;
+
+d) Visar os cartões de identidade emitidos pelo Ministério dos Negócios Estrangeiros aos agentes diplomáticos e consulares acreditados em Portugal, ao pessoal administrativo e doméstico ou equiparado em serviço nas missões diplomáticas ou postos consulares dos respectivos Estados e aos membros das suas famílias.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 29.º — Departamento de Identificação e Peritagem Documental
+
+Ao Departamento de Identificação e Peritagem Documental compete:
+
+a) A recolha, análise e difusão de informação relativa a documentos;
+
+b) A realização de peritagens de documentos e elaboração dos respectivos relatórios;
+
+c) O tratamento dos elementos de identificação de estrangeiros e apátridas, nomeadamente onomástico, dactiloscópico e fotográfico, bem como a realização de peritagens e respectivos relatórios;
+
+d) Prestar consultadoria técnica na concepção de documentos.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção III — Direcção Central de Fronteiras
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 30.º — Competência e estrutura
+
+1 - À Direcção Central de Fronteiras compete definir os procedimentos a utilizar ao nível dos postos de fronteira, em geral, e assegurar as atribuições do SEF em matéria de controlo da circulação de pessoas nos postos de fronteira aérea e marítima situados na área de jurisdição da Direcção Regional de Lisboa, Vale do Tejo e Alentejo.
+
+2 - A Direcção Central de Fronteiras compreende:
+
+a) O Departamento Técnico de Fronteiras;
+
+b) Postos de fronteira.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 31.º — Competência do Director Central de Fronteiras
+
+1 - Ao director Central de Fronteiras compete, na área sob a sua jurisdição:
+
+a) Dirigir, coordenar e gerir a actuação dos postos de fronteira que integram a Direcção Central de Fronteiras;
+
+b) Garantir o cumprimento dos procedimentos inerentes ao controlo de fronteira;
+
+c) Assegurar o cumprimento das medidas cautelares determinadas pelas autoridades competentes e o registo de recusa de entradas verificadas;
+
+d) Decidir e mandar executar os pedidos de readmissão activa e passiva, por via aérea;
+
+e) Garantir a instrução dos processos de contra-ordenação;
+
+f) Desempenhar as funções que por lei, regulamento ou determinação superior lhe forem cometidas.
+
+2 - As competências previstas nos números anteriores podem ser delegadas nos responsáveis de postos de fronteira, com a faculdade de subdelegação.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 32.º — Departamento Técnico de Fronteiras
+
+1 - Ao Departamento Técnico de Fronteiras compete:
+
+a) Assegurar o estudo e a elaboração de normas técnicas com vista à uniformização de procedimentos nos postos de fronteira;
+
+b) Proceder ao estudo e definição de equipamentos necessários ao funcionamento dos postos de fronteira;
+
+c) Centralizar a informação relativa à circulação de pessoas nas fronteiras.
+
+2 - O Departamento Técnico de Fronteiras compreende:
+
+a) Núcleo de Fronteiras Aéreas;
+
+b) Núcleo de Fronteiras Marítimas.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção IV — Direção Central de Gestão e Administração
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 33.º — Direção Central de Gestão e Administração
+
+1 - À Direção Central de Gestão e Administração (DCGA) compete assegurar a gestão financeira e patrimonial e a gestão das telecomunicações e segurança.
+
+2 - À DCGA compete, em especial:
+
+a) Elaborar o projeto de orçamento e as propostas de alteração;
+
+b) Verificar e processar as despesas de acordo com o orçamento e as normas referentes à contabilidade pública;
+
+c) Apresentar às entidades competentes, dentro dos prazos legais, a conta de gerência das verbas atribuídas ao SEF, bem como a das provenientes de receitas próprias;
+
+d) Arrecadar e contabilizar as receitas;
+
+e) Processar as remunerações e outros abonos ao pessoal;
+
+f) Assegurar a aquisição, manutenção e gestão dos bens do SEF;
+
+g) Organizar e manter atualizado o cadastro e inventário dos bens do SEF;
+
+h) Assegurar a aquisição e distribuição do fardamento e do distintivo previstos no presente diploma;
+
+i) Assegurar a gestão e manutenção da frota automóvel;
+
+j) Promover a aquisição e arrendamento de instalações para o SEF;
+
+l) Providenciar pela realização das obras de manutenção, reparação e adaptação das instalações que estejam a cargo do SEF;
+
+m) Garantir a segurança do pessoal e das instalações;
+
+n) Definir procedimentos uniformes relativos à segurança do pessoal e das instalações;
+
+o) Conservar, guardar e distribuir o armamento e munições.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 34.º — Departamento de Gestão e Administração de Recursos Humanos
+
+1 - Ao Departamento de Gestão e Administração de Recursos Humanos compete:
+
+a) Elaborar estudos, inquéritos e trabalhos tendo em vista a gestão dos recursos humanos;
+
+b) Estudar e promover as medidas tendentes à actualização do quadro de pessoal;
+
+c) Assegurar as operações referentes ao recrutamento, selecção, progressão e promoção do pessoal;
+
+d) Organizar e manter actualizado o registo biográfico e disciplinar do pessoal;
+
+e) Assegurar os procedimentos administrativos referentes à movimentação, assiduidade, benefícios sociais e assistência na doença dos funcionários;
+
+f) Elaborar o balanço social, nos termos da legislação aplicável.
+
+2 - Para prossecução das suas competências, o Departamento de Gestão e Administração de Recursos Humanos compreende:
+
+a) Núcleo de Gestão de Pessoal, com as competências previstas nas alíneas a) a c) e f) do número precedente;
+
+b) Núcleo de Administração de Pessoal, com as competências previstas das alíneas d) e e) do mesmo preceito.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 35.º — Departamento de Gestão Financeira e Patrimonial
+
+1 - Ao Departamento de Gestão Financeira e Patrimonial compete:
+
+a) Elaborar o projecto de orçamento e as propostas de alteração;
+
+b) Verificar e processar as despesas de acordo com o orçamento e as normas referentes à contabilidade pública;
+
+c) Apresentar às entidades competentes, dentro dos prazos legais, a conta de gerência das verbas atribuídas ao SEF, bem como a das provenientes de receitas próprias;
+
+d) Arrecadar e contabilizar as receitas;
+
+e) Processar as remunerações e outros abonos ao pessoal;
+
+f) Assegurar a aquisição, manutenção e gestão dos bens do SEF;
+
+g) Organizar e manter actualizado o cadastro e inventário dos bens do SEF;
+
+h) Assegurar a aquisição e distribuição do fardamento e distintivo previstos no presente diploma;
+
+i) Assegurar a gestão e manutenção da frota automóvel.
+
+2 - Para prossecução das suas competências o Departamento de Gestão Financeira e Patrimonial compreende:
+
+a) Núcleo de Controlo Orçamental, com a competência enunciada nas alíneas a) a c) do n.º 1;
+
+b) Núcleo de Gestão Contabilística, com as competências previstas nas alíneas d) e e) do n.º 1;
+
+c) Núcleo de Aprovisionamento e Cadastro de Bens, com as competências previstas nas alíneas f) a h) do mesmo número;
+
+d) Núcleo de Gestão da Frota Automóvel, com a competência prevista na alínea i) do mesmo preceito.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 36.º — Departamento de Instalações e Segurança
+
+Ao Departamento de Instalações e Segurança compete:
+
+a) Promover a aquisição e arrendamento de instalações para o SEF;
+
+b) Providenciar pela realização das obras de manutenção, reparação e adaptação das instalações que estejam a cargo do SEF;
+
+c) Garantir a segurança do pessoal e das instalações;
+
+d) Definir procedimentos uniformes relativos à segurança do pessoal e das instalações;
+
+e) Conservar, guardar e distribuir o armamento e munições;
+
+f) Proceder às diligências necessárias à credenciação de funcionários;
+
+g) Assegurar a exploração e manutenção da rede rádio.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção V — Direcção Central de Informática
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 37.º — Competência e estrutura
+
+1 - À Direcção Central de Informática compete:
+
+a) O estudo, a coordenação e execução de todas as actividades relativas ao planeamento, administração, produção e desenvolvimento dos sistemas informáticos e de comunicações do SEF, incluindo os relativos à Parte Nacional do Sistema de Informação Schengen (NSIS) e à base de dados de emissão dos passaportes (BADEP) e outros que venham a ser criados no âmbito do controlo da circulação de pessoas em articulação com os utilizadores do sistema;
+
+b) O estudo e inventariação das necessidades em matéria de informática dos serviços com os quais o SEF tem relações de cooperação nesta área, designadamente os da CPLP, bem como apoiar a instalação dos sistemas informáticos desses serviços, colaborar na sua manutenção e acompanhar a acções de formação desta área específica.
+
+2 - A Direcção Central de Informática compreende:
+
+a) Departamento de Desenvolvimento de Aplicações (DDA);
+
+b) Departamento de Produção (DPr);
+
+c) Departamento de Sistemas e Comunicações (DSC).
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 38.º — Departamento de Desenvolvimento de Aplicações
+
+Ao Departamento de Desenvolvimento de Aplicações compete:
+
+a) Elaborar planos sectoriais de informática de acordo com os objectivos globais do SEF, colaborar na definição dos correspondentes sistemas de informação e em estudos e análise de custos informáticos;
+
+b) Contribuir para a definição do conteúdo, detalhe e periodicidade das informações necessárias e para a definição de normas e procedimentos informáticos;
+
+c) Assegurar a integração dos diversos sistemas de informação e a administração de dados;
+
+d) Colaborar nas tarefas de organização exigidas pela correcta implantação das metodologias informáticas;
+
+e) Realizar, no âmbito dos sistemas de informação, os estudos conducentes à selecção dos elementos de base mais adequados e à definição do seu consequente tratamento, bem como os conducentes à definição dos circuitos apropriados para a obtenção, tratamento e difusão das informações;
+
+f) Definir os projectos informáticos e planear e executar os trabalhos neles compreendidos, actualizar e remodelar as rotinas e programas em exploração concertadamente com o departamento de produção e executar todos os trabalhos de estudo prévio, concepção, desenvolvimento e implantação de sistemas de informação, bem como da sua manutenção, documentando as várias fases dos projectos e as diversas aplicações, nomeadamente com recurso à elaboração dos manuais de operação e do utilizador;
+
+g) Realizar os estudos conducentes à racionalização de formulários e outros documentos de trabalho cujos elementos devam ser tratados automaticamente e conceber questionários e outros documentos para registo de dados e informações;
+
+h) Requisitar ao departamento de produção os trabalhos de compilação e ensaio de unidade de tratamento e das cadeias em que se inserem, mantendo ligação com o mesmo departamento no que respeita à implantação e exploração de sistemas informáticos, com vista a definir os meios técnicos a utilizar, superando os condicionalismos operacionais ou de segurança.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 39.º — Departamento de Produção
+
+Ao Departamento de Produção compete:
+
+a) Participar na elaboração do plano director de informática e planear e executar todos os trabalhos de processamento de dados de que o SEF seja incumbido ou de interesse do Serviço;
+
+b) Administrar os sistemas informáticos, as bases de dados e os recursos de comunicações;
+
+c) Gerir e supervisionar a exploração do sistema de base de dados de passaportes nacionais bem como prestar apoio aos utilizadores do referido sistema;
+
+d) Velar pela segurança e privacidade da informação, bem como dos sistemas informáticos e de comunicações à sua guarda e assegurar o cumprimento das normas, métodos e técnicas de trabalho estabelecidos;
+
+e) Afectar recursos de equipamento e de suporte lógico às aplicações em desenvolvimento, optimizar a utilização do material disponível e manter estatísticas actualizadas sobre ocupação e rendimento do material e as condições de exploração dos sistemas;
+
+f) Colaborar com o departamento de desenvolvimento de aplicações na ultrapassagem dos condicionalismos operacionais ou de segurança que porventura afectem as rotinas vigentes ou projectadas;
+
+g) Estabelecer a ligação com os utentes no que respeita às aplicações em regime normal de exploração, velando pela oportuna recepção dos dados e entrega dos produtos do processamento e verificar a qualidade dos produtos no que respeita à obediência às especificações acordadas com os utentes e aos padrões de controlo que por estes tenham sido fornecidos;
+
+h) Manter e gerir o arquivo dos ficheiros em suporte informático e, nos casos em que tal se torne necessário, proceder ao registo dos dados por meio de equipamento adequado;
+
+i) Colaborar na elaboração dos manuais de operação e assegurar a sua correcta aplicação e actualização.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 40.º — Departamento de Sistemas e Comunicações
+
+Ao Departamento de Sistemas e Comunicações compete:
+
+a) Participar na elaboração do plano director de informática e realizar os estudos relativos à tomada de decisões quanto ao apetrechamento do SEF em material e suportes lógicos, bem como os necessários à implantação e optimização da comunicação de dados e os que visem a adopção de metodologias, normas de procedimentos e programas-produto;
+
+b) Implantar e manter os suportes adoptados, bem como gerir os sistemas informáticos e de comunicações, nomeadamente os relativos ao NSIS e à BADEP;
+
+c) Estabelecer ligação com os fornecedores dos equipamentos instalados, com vista à obtenção de informações técnicas, correcção de anomalias e apoio especializado no domínio dos suportes lógicos;
+
+d) Apoiar o pessoal técnico de informática do SEF ou dos seus utentes nas matérias relativas a sistemas, teleprocessamento, normalização e métodos, bem como participar nas actividades de formação e informação no âmbito da informática, seja no exercício de monitoragem, seja na redacção de textos, manuais e monografias;
+
+e) Exercer consultadoria técnica, planear e efectuar auditorias técnicas na área de informática e encarregar-se dos projectos de desenvolvimento e ou de investigação próprios das áreas referidas na alínea anterior ou que lhe sejam expressamente cometidos.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção VI — Departamento de Planeamento e Formação
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 41.º — Competência
+
+1 - Ao Departamento de Planeamento e Formação, que funciona na directa dependência do director-geral, compete:
+
+a) Elaborar o plano e o relatório de actividades do SEF;
+
+b) Elaborar os programas gerais e sectoriais do SEF, acompanhar a sua execução e proceder à respectiva avaliação;
+
+c) Prestar apoio aos diversos serviços do SEF no desenvolvimento das acções de planeamento e controlo;
+
+d) Identificar as necessidades de formação, elaborar o plano anual de formação e proceder à sua avaliação;
+
+e) Conceber, programar, realizar e avaliar as acções de formação que o SEF leve directamente a cabo;
+
+f) Elaborar e difundir as ordens de serviço;
+
+g) Recolher, tratar e difundir os dados estatísticos relativos à actividade do SEF;
+
+2 - O Departamento de Planeamento e Formação compreende:
+
+a) Núcleo de Planeamento, com as competências previstas nas alíneas a) a c) e f) e g) do número precedente;
+
+b) Núcleo de Formação, com as competências previstas nas alíneas d) e e) do mesmo preceito.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção VII — Departamento de Nacionalidade
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 42.º — Competência
+
+Ao Departamento de Nacionalidade, que funciona na directa dependência do director-geral, compete:
+
+a) Instruir, informar e dar parecer sobre os processos de concessão e conservação da nacionalidade portuguesa e da sua aquisição por naturalização;
+
+b) Instruir, informar e dar parecer sobre pedidos de concessão dos estatutos de igualdade;
+
+c) Instruir e informar os processos de reconhecimento de associações internacionais.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção VIII — Departamento de Operações
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 43.º — Competência
+
+Ao Departamento de Operações, que funciona na directa dependência do director-geral, compete:
+
+a) Coordenar com os serviços competentes o estudo e propostas da actividade operacional do SEF;
+
+b) Propor as instruções gerais e especiais relativas à actividade operacional;
+
+c) Supervisionar os planos de acções conjuntas;
+
+d) Centralizar a informação de carácter operacional obtida através das acções efectuadas;
+
+e) Transmitir ao serviço de relações públicas para difusão as notícias consideradas pertinentes sobre acções desenvolvidas ou a desenvolver;
+
+f) Receber e instruir os pedidos de concessão de autorização de residência a título excepcional por razões humanitárias ou de interesse nacional;
+
+g) Centralizar a informação relativa aos pedidos de autorização de residência a título excepcional, bem como emanar normas técnicas com vista à uniformização de procedimentos.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+#### Secção V — Serviços descentralizados
+
+Artigo 44.º
+
+Serviços descentralizados
+
+Os serviços descentralizados compreendem:
+
+a) Direcções regionais;
+
+b) Delegações regionais;
+
+c) Postos de fronteira;
+
+d) Postos mistos de fronteira;
+
+e) Aeródromos e postos de tráfego internacional eventual.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 44.º — Serviços descentralizados
+
+Os serviços descentralizados compreendem:
+
+a) Direções regionais;
+
+b) As delegações regionais, constantes do anexo i do presente diploma, do qual faz parte integrante;
+
+c) Direção de Fronteiras de Lisboa;
+
+d) Postos de fronteira;
+
+e) Postos mistos de fronteira.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção I — Direções regionais
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 45.º — Natureza e âmbito territorial
+
+1 - As direções regionais prosseguem, nas respetivas áreas de jurisdição, as atribuições do SEF, designadamente de natureza executiva e de investigação e fiscalização.
+
+2 - O SEF dispõe das seguintes direções regionais:
+
+a) Direção Regional de Lisboa, Vale do Tejo e Alentejo, com sede em Lisboa;
+
+b) Direção Regional do Norte, com sede no Porto;
+
+c) Direção Regional do Centro, com sede em Coimbra;
+
+d) Direção Regional do Algarve, com sede em Faro;
+
+e) Direção Regional da Madeira, com sede no Funchal;
+
+f) Direção Regional dos Açores, com sede em Ponta Delgada.
+
+3 - A área territorial e de jurisdição das direções regionais é definida por portaria do membro do Governo responsável pela área da administração interna.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 46.º — Orgânica das direções regionais
+
+1 - As direções regionais compreendem os seguintes órgãos e serviços:
+
+a) Diretor regional coadjuvado por subdiretores regionais, que o substituem nas suas faltas e impedimentos;
+
+b) Departamentos regionais;
+
+c) Delegações regionais;
+
+d) Postos de fronteira;
+
+e) [Revogada.]
+
+2 - O número de subdiretores regionais de cada direção regional é fixado em função do número de residentes da respetiva área de jurisdição, nos termos seguintes:
+
+a) Direção Regional de Lisboa, Vale do Tejo e Alentejo - dois;
+
+b) Direção Regional do Norte - um;
+
+c) Direção Regional do Algarve - um;
+
+d) Direção Regional do Centro - um;
+
+e) [Revogada.]
+
+3 - Mediante proposta do diretor regional, o diretor nacional designa o subdiretor regional de Lisboa, Vale do Tejo e Alentejo, que substitui o diretor regional nas suas faltas e impedimentos, e aquele que dirige a delegação de Setúbal.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 47.º — Competência do diretor regional
+
+1 - Ao diretor regional compete:
+
+a) Representar o SEF na respetiva área de jurisdição;
+
+b) Dirigir e coordenar a atuação dos serviços na sua dependência de modo a prosseguir os objetivos do SEF;
+
+c) Garantir o cumprimento dos procedimentos inerentes ao controlo de fronteira;
+
+d) Assegurar o cumprimento das medidas cautelares determinadas pelas autoridades competentes, bem como o registo das recusas de entrada em território nacional;
+
+e) (Revogada.)
+
+f) Garantir a instrução dos processos de contraordenação;
+
+g) Instaurar os processos de expulsão administrativa;
+
+h) Executar as decisões de expulsão;
+
+i) Decidir e mandar executar os processos de readmissão ativa e passiva, por via terrestre;
+
+j) Prorrogar a permanência de estrangeiros em território nacional;
+
+k) Emitir parecer sobre pedidos de vistos;
+
+l) Conceder e renovar autorizações de residência;
+
+m) Decidir sobre a isenção ou redução de taxas;
+
+n) Visar os passaportes emitidos pelas representações diplomáticas estrangeiras em Portugal;
+
+o) Conceder salvo-condutos;
+
+p) Autorizar a realização de despesas até ao montante a fixar por despacho do diretor nacional;
+
+q) Verificar e controlar a realização de despesas;
+
+r) Proceder à verificação regular dos fundos em cofre e em depósito;
+
+s) Fiscalizar a escrituração contabilística e a cobrança de receitas;
+
+t) Autorizar o gozo de férias do pessoal, de acordo com o mapa de férias superiormente aprovado;
+
+u) Mandar proceder à verificação domiciliária das faltas por doença;
+
+v) Justificar faltas;
+
+w) Desempenhar as funções que por lei, regulamento ou determinação superior lhe forem cometidas.
+
+2 - As competências previstas nas alíneas anteriores podem ser delegadas, com faculdade de subdelegação, nos subdiretores regionais, nos chefes de departamento regionais, nos chefes de delegação, nos responsáveis de postos de fronteira e nos chefes de núcleos que vierem a ficar na dependência hierárquica do respetivo diretor regional.
+
+3 - São delegadas nos subdiretores regionais do Norte e do Algarve as competências dos diretores regionais relativas aos postos de fronteira aéreos situados na área de jurisdição da respetiva direção regional.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 48.º — Departamentos regionais
+
+1 - As direções regionais compreendem os seguintes departamentos:
+
+a) Departamento Regional de Investigação e Fiscalização, a quem compete assegurar as ações da mesma natureza no âmbito das atribuições do SEF;
+
+b) Departamento Regional de Emissão de Documentos, a quem incumbe desenvolver procedimentos relativos à emissão de pareceres sobre vistos, prorrogações de permanência, autorizações e títulos de residência, emissão de documentos, registo, atendimento e informação ao público.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 49.º — Núcleos regionais
+
+1 - As direcções regionais integram, cada uma, um núcleo regional de administração, a quem compete desenvolver, no âmbito da respectiva direcção regional, os procedimentos relativos ao pessoal, contabilidade, economato e património.
+
+2 - A Direcção Regional de Lisboa, Vale do Tejo e Alentejo, além do núcleo referido no número anterior, integra ainda os seguintes núcleos:
+
+a) Núcleo regional de vistos e autorizações de residência;
+
+b) Núcleo regional de atendimento e informação do público;
+
+c) Núcleo regional de registo;
+
+d) Núcleo regional de afastamento;
+
+e) Núcleo regional de contra-ordenações.
+
+3 - Por decreto regulamentar, poderão ser criados nas restantes direcções regionais, quando tal se justifique, os núcleos previstos no número anterior.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 49.º-A — Direção de Fronteiras de Lisboa
+
+1 - À Direção de Fronteiras de Lisboa compete assegurar as atribuições do SEF em matéria de controlo da circulação de pessoas nos postos de fronteira aérea e marítima situados na área metropolitana de Lisboa.
+
+2 - À Direção de Fronteiras de Lisboa compete:
+
+a) Garantir o cumprimento dos procedimentos inerentes ao controlo de fronteira;
+
+b) Assegurar o cumprimento das medidas cautelares determinadas pelas autoridades competentes e o registo de recusa de entradas verificadas;
+
+c) Decidir e mandar executar os pedidos de readmissão ativa e passiva, por via aérea;
+
+d) Garantir a instrução dos processos de contraordenação.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção II — Delegações regionais
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 50.º — Tipo de delegações regionais
+
+1 - As delegações regionais são classificadas de tipo 1 e 2, por despacho do director-geral, tendo em conta o volume de residentes ou necessidades específicas do serviço.
+
+2 - As delegações regionais são chefiadas por um chefe de delegação.
+
+3 - Por conveniência de serviço nas localidades em que exista uma delegação regional e posto de fronteira ou posto misto, o chefe da delegação poderá assegurar a gestão dos postos de fronteira ou misto ali existentes.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção III — Postos de fronteira
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 51.º — Regime
+
+1 - Os postos de fronteira são os constantes do anexo ii do presente diploma, do qual faz parte integrante.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 52.º — Classificação
+
+1 - Os postos de fronteira são classificados em tipo 1, 2 e 3, em função do respectivo movimento de fronteira.
+
+2 - São postos de fronteira de tipo 1 os seguintes que se integram na Direcção Central de Fronteiras:
+
+a) O posto de fronteira do Aeroporto de Lisboa;
+
+b) O posto de fronteira do porto de Lisboa.
+
+3 - São postos de fronteira de tipo 2 os seguintes:
+
+a) Os postos de fronteira dos Aeroportos do Porto, Faro e Funchal;
+
+b) O posto de fronteira do porto de Leixões.
+
+4 - Os restantes postos de fronteira já existentes à data da publicação do presente diploma, são de tipo 3.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 53.º — Responsável de posto de fronteira
+
+1 - O diretor de Fronteiras de Lisboa dirige os postos de fronteira integrados na mesma Direção.
+
+2 - Os restantes postos de fronteira são dirigidos por trabalhadores da carreira de investigação e fiscalização, designados nos termos do artigo 69.º
+
+3 - Nas faltas e impedimentos do responsável do posto de fronteira, o mesmo é substituído por trabalhador integrado na carreira de investigação e fiscalização designado pelo diretor nacional.
+
+4 - (Revogado.)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção IV — Postos mistos de fronteira
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 54.º — Regime
+
+1 - Os postos mistos de fronteira existentes à data da publicação do presente decreto-lei, são os constantes do respectivo anexo II, que faz parte integrante do presente diploma.
+
+2 - A criação ou extinção de postos mistos de fronteira é feita por portaria do Ministro da Administração Interna, na execução de acordos internacionais.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 55.º — Atribuições
+
+Aos postos mistos de fronteira incumbe o desenvolvimento, na zona fronteiriça, da cooperação luso-espanhola no âmbito das competências do SEF, designadamente na luta contra a imigração ilegal e infracções com ela relacionadas, execução das medidas resultantes da aplicação do acordo de readmissão entre Portugal e Espanha, prevenção e repressão da criminalidade transfronteiriça.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção V — Aeródromos e postos de tráfego internacional eventual
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 56.º — Dependência
+
+1 - Os aeródromos e portos que não funcionem como postos de fronteira mas onde eventualmente seja autorizada a chegada ou a partida de tráfego internacional dependem do respetivo diretor regional, salvo se, por motivos de serviço e mediante despacho a publicar no Diário da República, o diretor nacional considerar mais conveniente colocá-los na dependência da Direção de Fronteiras de Lisboa.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+### Capítulo III — Regime de pessoal
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+#### Secção I — Disposições gerais
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 57.º — Pessoal
+
+1 - O pessoal do SEF será integrado num quadro único, cuja composição será fixada mediante portaria dos Ministros das Finanças, da Administração Interna e da Reforma do Estado e da Administração Pública, sendo constituído por:
+
+a) Pessoal dirigente;
+
+b) Pessoal de investigação e fiscalização;
+
+c) Pessoal de apoio à investigação e fiscalização;
+
+d) Pessoal de vigilância e segurança;
+
+e) Pessoal de informática;
+
+f) Pessoal auxiliar;
+
+g) Pessoal operário.
+
+2 - Integram o corpo especial do SEF:
+
+a) Pessoal dirigente;
+
+b) Carreira de investigação e fiscalização;
+
+c) Carreira de vigilância e segurança.
+
+3 - (Revogado).
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a MAPA I do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), em vigor a partir de 2009-01-01
+
+###### Artigo 58.º — Contratação de pessoal
+
+Podem ser celebrados, nos termos da legislação aplicável à função pública, em geral, sobre a matéria, contratos de trabalho a termo certo para satisfação de necessidades transitórias de serviço e de duração determinada.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 59.º — Identificação dos trabalhadores
+
+1 - A identificação das autoridades de polícia criminal e dos agentes de autoridade faz-se através de cartão de livre trânsito ou por intermédio de crachá.
+
+2 - A identificação dos restantes  trabalhadores faz-se por intermédio de cartão específico.
+
+3 - Em operações de controlos móveis o pessoal apresentar-se-á identificado pelo uso do fardamento a que se refere a alínea b) do n.º 1 do artigo 5.º da Portaria n.º 787/98, de 21 de Setembro, e as viaturas mediante utilização de sinalética luminosa.
+
+4 - Os modelos de identificação referidos nos números anteriores são aprovados por portaria do membro do Governo responsável pela área da administração interna.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 60.º — Uso de fardamento
+
+1 - Os trabalhadores da carreira de investigação e fiscalização ficam obrigados ao uso do respetivo fardamento durante os períodos de prestação de serviço nos postos de fronteira e nos CCPA.
+
+2 - Para além do previsto no número anterior, o director-geral pode determinar o uso de fardamento quando as circunstâncias o aconselharem.
+
+3 - O pessoal de vigilância e segurança, enquanto no exercício das suas funções, está obrigado ao uso de fardamento.
+
+4 - Sem prejuízo do disposto no n.º 1, o director-geral pode dispensar o uso de fardamento sempre que a natureza de determinadas missões o exija.
+
+5 - Ao pessoal referido nos números anteriores será fornecido pelo SEF fardamento e distintivo de modelos aprovados por portaria do membro do Governo responsável pela área da administração interna, na qual será estabelecida a dotação e duração de cada fardamento.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 61.º — Uso de meios coercivos e arma de fogo
+
+1 - As autoridades de polícia criminal e os agentes de autoridade a que se refere o artigo 3.º defendem e respeitam, em todas as circunstâncias, a vida e a integridade física e moral, a dignidade das pessoas e utilizam a persuasão como método de atuação, só fazendo uso da força em casos de absoluta necessidade.
+
+2 - Os trabalhadores referidos no número anterior têm direito, independentemente de licença, ao uso e porte de arma de fogo de modelo e calibre definido por despacho dos membros do Governo responsáveis pelas áreas da administração interna e da defesa nacional.
+
+3 - O pessoal referido no n.º 1 só pode utilizar a força nos casos expressamente previstos na lei fazendo uso dos meios de coerção nos seguintes casos:
+
+a) Repelir uma agressão iminente ou em execução, em defesa própria ou de terceiros;
+
+b) Vencer a resistência violenta à execução de um serviço no exercício das suas funções e manter a autoridade depois de ter feito aos resistentes intimação inequívoca de obediência e após esgotados todos os outros meios possíveis para o conseguir.
+
+4 - O uso de arma de fogo pelo pessoal a que se refere o n.º 1 obedece aos princípios e regras estabelecidos no Decreto-Lei n.º 457/99, de 5 de Novembro, em tudo o que este for aplicável.
+
+5 - A utilização de arma de fogo em instrução e em locais próprios não está abrangida pelo disposto no número anterior.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 62.º — Utilização de meios de transporte
+
+1 - As autoridades de polícia criminal e os agentes de autoridade têm direito à utilização, em todo o território nacional, dos transportes coletivos, mediante exibição do cartão de livre trânsito.
+
+2 - Os membros do Governo responsáveis pelas áreas da administração interna e dos transportes fixam anualmente, por despacho, o encargo decorrente da atribuição do direito previsto no n.º 1, a suportar pelo SEF.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 63.º — Condução de viaturas do serviço
+
+O pessoal do SEF constante das alíneas a) a d) do n.º 1 do artigo 57.º habilitado com carta de condução e desde que devidamente credenciado deve assegurar a condução de viaturas do Serviço, sempre que tal se revele necessário para o cumprimento de atos de serviço e sem prejuízo do respetivo conteúdo funcional, desde que salvaguardada a responsabilidade civil do trabalhador.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 64.º — Regulamentação específica
+
+O regime de exercício de funções e o estatuto de pessoal que integram o quadro de pessoal do SEF serão objeto de diploma próprio, a aprovar no prazo de 60 dias contado da entrada em vigor deste decreto-lei.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+#### Secção II — Pessoal dirigente e de chefia
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+##### Subsecção I — Pessoal dirigente
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 65.º — Mapa de cargos de direção e de chefia
+
+1 - Os lugares de direção superior e de direção intermédia constam do mapa constante do anexo iii do presente diploma, do qual faz parte integrante.
+
+2 - Os lugares de chefia constam do mapa constante do anexo iv do presente diploma, do qual faz parte integrante.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 65.º-A — Diretor nacional
+
+1 - O cargo de diretor nacional, cargo de direção superior do 1.º grau, é provido por despacho do Primeiro-Ministro e do membro do Governo responsável pela área da administração interna, de entre inspetores superiores da carreira de investigação e fiscalização ou licenciados de reconhecida idoneidade e experiência profissional, vinculados ou não à função pública.
+
+2 - O cargo é provido em comissão de serviço por um período de três anos, renovável por iguais períodos.
+
+3 - A renovação da comissão de serviço é comunicada ao interessado até 30 dias antes do seu termo, cessando a mesma automaticamente no final do respetivo período se o membro do Governo responsável pela área da administração interna não tiver manifestado expressamente a intenção de a renovar, caso em que o dirigente se mantém no exercício de funções em gestão corrente até à designação do novo titular do cargo.
+
+4 - Para efeitos de eventual renovação da comissão de serviço, deve o membro do Governo responsável pela área da administração interna ser informado, com a antecedência de 90 dias, do termo de cada comissão, cessando esta automaticamente no fim do respetivo período sempre que não seja dado cumprimento àquela formalidade.
+
+5 - Em qualquer momento, a comissão de serviço pode ser dada por finda por despacho do membro do Governo responsável pela área da administração interna, por iniciativa deste ou a requerimento do interessado.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 65.º-B — Diretor nacional-adjunto
+
+1 - O cargo de diretor nacional-adjunto, cargo de direção superior do 2.º grau, é provido por despacho do membro do Governo responsável pela área da administração interna, de entre inspetores superiores da carreira de investigação e fiscalização ou licenciados de reconhecida idoneidade e experiência profissional, vinculados ou não à função pública.
+
+2 - Ao provimento do cargo é aplicável o disposto nos n.os 2 a 5 do artigo anterior.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 66.º — Diretor central, diretor regional, diretor de Fronteiras de Lisboa e coordenador do Gabinete de Inspeção
+
+1 - As direções centrais e as direções regionais são dirigidas, respetivamente, por diretores centrais e diretores regionais, cargos de direção intermédia do 1.º grau.
+
+2 - A Direção de Fronteiras de Lisboa é dirigida por um diretor, cargo de direção intermédia do 1.º grau.
+
+3 - O Gabinete de Inspeção é dirigido por um coordenador, cargo de direção intermédia do 1.º grau.
+
+4 - O recrutamento para os cargos de diretor central, de diretor regional e de diretor de Fronteiras de Lisboa é feito de entre licenciados titulares da categoria de inspetor superior ou de inspetor do nível 1.
+
+5 - O recrutamento para o cargo de diretor central de Gestão e Administração é feito de entre os trabalhadores recrutáveis para o cargo de direção intermédia do 1.º grau, nos termos do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Central, Regional e Local do Estado.
+
+6 - O recrutamento para o cargo de coordenador do Gabinete de Inspeção é feito de entre licenciados em Direito, titulares da categoria de inspetores superiores, ou de trabalhadores que, nos termos do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Central, Regional e Local do Estado, sejam recrutáveis para o cargo de direção intermédia do 1.º grau.
+
+7 - Os cargos a que se referem os números anteriores são providos por despacho do membro do Governo responsável pela área da administração interna, sob proposta do diretor nacional, em comissão de serviço por um período de três anos, renovável por iguais períodos.
+
+8 - Ao provimento do cargo é aplicável o disposto nos n.os 3 a 5 do artigo 65.º-A, com as devidas adaptações.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 67.º — Chefe de departamento, coordenador de gabinete, subdirector de direcção central e subdirector regional
+
+1 - O recrutamento para os cargos de chefe de departamento, coordenador de gabinete e subdirector regional é feito, por concurso, de entre inspectores superiores ou inspectores licenciados de, pelo menos, nível 2 ou funcionários, que, nos termos do estatuto do pessoal dirigente da função pública, sejam recrutáveis para o cargo de chefe de divisão.
+
+2 - O recrutamento para o cargo de subdirector de direcção central será feito, por concurso, apenas de entre inspectores, pelo menos, de nível 2.
+
+3 - O recrutamento para os cargos de chefe de departamento e subdirector regional de serviços operacionais com atribuições exclusivamente nas áreas de investigação e controlo de fronteira, será feito, por concurso, apenas de entre inspectores, pelo menos, de nível 2.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 67.º-A — Subdiretor central, subdiretor regional e subdiretor de Fronteiras de Lisboa
+
+1 - Os diretores centrais, os diretores regionais e o diretor de Fronteiras de Lisboa são coadjuvados por subdiretores centrais, por subdiretores regionais e por um subdiretor, respetivamente, cargos de direção intermédia do 2.º grau.
+
+2 - O provimento para o cargo de subdiretor central é feito por despacho do membro do Governo responsável pela área da administração interna, de entre inspetores superiores ou inspetores licenciados do, pelo menos, nível 2, ou trabalhadores que, nos termos do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Central, Regional e Local do Estado, sejam recrutáveis para o cargo de direção intermédia do 2.º grau.
+
+3 - O provimento para o cargo de subdiretor regional é feito por despacho do membro do Governo responsável pela área da administração interna, de entre inspetores superiores ou inspetores licenciados do, pelo menos, nível 2.
+
+4 - O recrutamento para os cargos de subdiretor de direção central de serviços operacionais com atribuições exclusivamente nas áreas de investigação, fiscalização e controlo de fronteira é feito apenas de entre trabalhadores da carreira de investigação e fiscalização.
+
+5 - O provimento do subdiretor de Fronteiras de Lisboa é feito por despacho do membro do Governo responsável pela área da administração interna, de entre inspetores superiores ou inspetores licenciados do, pelo menos, nível 2.
+
+6 - Ao provimento dos cargos é aplicável o disposto nos n.os 2 a 5 do artigo 65.º-A.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-11-07
+
+###### Artigo 67.º-B — Dirigentes
+
+Ao pessoal dirigente do SEF aplica-se, subsidiariamente, o Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Central, Regional e Local do Estado.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+##### Subsecção II — Pessoal de chefia
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 68.º — Cargos de chefia
+
+1 - Consideram-se cargos de chefia:
+
+a) Chefes de delegação;
+
+b) Chefe de departamento regional;
+
+c) Responsável de posto de fronteira;
+
+d) Chefe de núcleo, a que se refere o artigo 11.º;
+
+e) (Revogada.)
+
+2 - Os cargos a que alude o n.º 1 são exercidos em comissão de serviço, por períodos de três anos, renováveis mediante despacho do diretor nacional, podendo ser dada por finda a todo o momento por despacho fundamentado do mesmo.
+
+3 - Nas localidades em que exista uma delegação regional e postos de fronteira, o chefe da delegação pode assegurar, por conveniência de serviço, mediante despacho do diretor nacional, a publicar no Diário da República, a gestão dos postos de fronteira.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+###### Artigo 69.º — Recrutamento para os cargos de chefia
+
+1 - O recrutamento para os cargos a que alude o artigo anterior faz-se:
+
+a) Os chefes de delegação e chefes de departamentos regionais, de entre, no mínimo, inspetores e, excecionalmente, em circunstâncias devidamente fundamentadas, de entre inspetores-adjuntos principais com, pelo menos, seis anos na categoria;
+
+b) Os responsáveis de postos de fronteira, de entre inspetores ou inspetores-adjuntos principais e, em circunstâncias excecionais, devidamente fundamentadas, de inspetores-adjuntos do nível 1;
+
+c) Os chefes de núcleo, de entre, no mínimo, inspetores-adjuntos principais ou técnicos superiores, ou, em casos excecionais e devidamente fundamentados, de entre inspetores-adjuntos do nível 1 ou de entre assistentes técnicos, em qualquer dos casos com um mínimo de três anos de comprovada experiência profissional nas respetivas áreas funcionais;
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+### Capítulo IV — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 70.º — Objetos que revertem a favor do SEF
+
+1 - Os objetos apreendidos pelo SEF que venham a ser declarados perdidos a favor do Estado ser-lhe-ão afetos quando:
+
+a) Se trate de documentos, armas, munições, viaturas, equipamento de telecomunicações ou outros com interesse criminalístico;
+
+b) Resultem do cumprimento de convenções internacionais e estejam correlacionados com a imigração ilegal.
+
+2 - A utilidade dos objetos a que se refere a alínea a) do n.º 1 deve ser proposta pelo SEF no relatório final do respetivo processo crime.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 71.º — Isenção de portagem
+
+As viaturas do SEF estão isentas do pagamento de qualquer taxa em pontes e autoestradas.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 72.º — Pessoal dirigente
+
+1 - Com a entrada em vigor da presente lei orgânica, cessam todas as comissões de serviço do pessoal dirigente, o qual, no entanto, terá que assegurar, em gestão corrente, o exercício das funções que vinha desempenhando até à nomeação dos titulares das correspondentes funções.
+
+2 - Enquanto não for publicada a legislação prevista no artigo 64.º, ao pessoal dirigente que, após a entrada em vigor do presente diploma, se mantenha em exercício de funções nos termos previstos no número anterior e ao pessoal que venha a ser nomeado para lugares previstos no n.º 1 do artigo 65.º, é aplicável o disposto no artigo 72.º do Decreto-Lei n.º 440/86, de 31 de Dezembro.
+
+3 - Sem prejuízo do disposto no artigo 67.º, durante o período transitório de 1 ano, o recrutamento para o cargo de chefe de departamento poderá ser feito de entre oficias das Forças Armadas ou das forças de segurança e, conforme previsto no n.º 7 do artigo 4.º do estatuto do pessoal dirigente da função pública, de entre especialista superior de nível 4 e, em ambos os casos, em exercício de funções na respetiva área, há mais de quatro anos.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 290-A/2001 - Diário da República n.º 267/2001, 1º Suplemento, Série I-A de 2001-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-a-2001-649343), em vigor a partir de 2001-11-22, produz efeitos a partir de 2000-11-01
+
+###### Artigo 73.º — Pessoal em exercício de funções no SEF
+
+1 - Os dirigentes em exercício à data da entrada em vigor do presente diploma, oriundos de outros organismos da Administração Pública, que não venham a ser providos em qualquer dos cargos dirigentes constantes do mapa de pessoal dirigente anexo, regressam ao respetivo serviço de origem exceto se, no prazo de trinta dias, contados a partir da data da entrada em vigor do diploma previsto no artigo 64.º optarem pela integração no quadro do SEF.
+
+2 - O pessoal em regime de requisição que, à data da entrada em vigor do presente diploma, se encontre a exercer funções no SEF, poderá, durante o período de um ano contado a partir da data da entrada em vigor do diploma previsto no artigo 64.º ser integrado no quadro do SEF.
+
+3 - Findo o período a que se refere o número anterior, o pessoal que não opte pela integração regressará aos respetivos serviços de origem.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 74.º — Garantias
+
+O pessoal em comissão de serviço no SEF mantém todos os direitos e regalias inerentes ao lugar de origem.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 75.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 do mês imediato ao da sua publicação.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+###### Artigo 76.º — Norma revogatória
+
+1 - Com a entrada em vigor do presente diploma são revogados os preceitos legais respeitantes a atribuições e organização do SEF constantes dos artigos 1.º a 8.º, 10.º a 34.º, n.os 2, 3 e 4 do artigo 38.º e artigos 40.º a 45.º do Decreto-Lei n.º 440/86, de 31 de Dezembro.
+
+2 - Enquanto não for publicada a legislação prevista no artigo 64.º continuam a aplicar-se os preceitos legais e regulamentares que não contrariem o estabelecido neste diploma, designadamente contidos nos:
+
+a) O Decreto-Lei n.º 440/86, de 31 de Dezembro;
+
+b) O Decreto-Lei n.º 198/88, de 31 de Maio;
+
+c) O Decreto-Lei n.º 372/88 de 17 de Outubro;
+
+d) O Decreto-Lei n.º 360/89, de 18 de Outubro;
+
+e) O Decreto-Lei n.º 160/92, de 1 de Agosto;
+
+f) O Decreto-Lei n.º 120/93, de 16 de Abril;
+
+g) O Decreto-Lei n.º 98/96, de 19 de Julho;
+
+h) O Decreto-Lei n.º 228/96, de 29 de Novembro;
+
+i) O Decreto-Lei n.º 108/97, de 8 de Maio.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Alberto de Sousa Martins - Maria de Belém Roseira Martins Coelho Henriques de Pina.
+
+Promulgado em 2 de Outubro de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 4 de Outubro de 2000.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+## Anexo I — Delegações regionais
+
+[a que se refere a alínea c) do artigo 44.º]
+
+Delegação Regional de Albufeira.
+
+Delegação Regional de Angra do Heroísmo.
+
+Delegação Regional de Aveiro.
+
+Delegação Regional de Beja.
+
+Delegação Regional de Braga.
+
+Delegação Regional de Bragança.
+
+Delegação Regional de Cascais.
+
+Delegação Regional de Castelo Branco.
+
+Delegação Regional de Espinho.
+
+Delegação Regional de Évora.
+
+Delegação Regional da Figueira da Foz.
+
+Delegação Regional da Horta.
+
+Delegação Regional de Leiria.
+
+Delegação Regional do Pico.
+
+Delegação Regional de Portalegre.
+
+Delegação Regional de Portimão.
+
+Delegação Regional de Porto Santo.
+
+Delegação Regional de Santarém.
+
+Delegação Regional de Setúbal.
+
+Delegação Regional de Tavira.
+
+Delegação Regional de Viana do Castelo.
+
+Delegação Regional de Vila Real.
+
+Delegação Regional de Viseu.
+
+Delegação Regional da Guarda.
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+## Anexo II — Postos de fronteira
+
+(a que se refere o n.º 1 do artigo 51.º)
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+## Anexo III — Mapa de pessoal dirigente
+
+(a que se refere o n.º 1 do artigo 65.º)
+
+(ver mapa no documento original)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 240/2012 - Diário da República n.º 214/2012, Série I de 2012-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2012-191526), em vigor a partir de 2012-12-01
+
+## Anexo IV — Mapa de chefias
+
+(a que se refere o n.º 2 do artigo 65.º)
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 14.º do/a [Lei n.º 73/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/73-2021-174244808), em vigor a partir de 2022-01-11

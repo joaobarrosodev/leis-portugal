@@ -1,0 +1,199 @@
+---
+schema_version: '1.0'
+id: pt:dre:580615:por
+title: Decreto Regulamentar n.º 11/2003
+short_title: null
+summary: Altera os limites do Parque Natural da Arrábida, definidos no Decreto Regulamentar n.º 23/98, de 14 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério das Cidades, Ordenamento do Território e Ambiente
+proposing_entity: null
+official_number: 11/2003
+official_date: null
+publication_date: '2003-05-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/2003, Série I-B de 2003-05-08
+  number: '106'
+  series: I
+  supplement: null
+  pages: 2965 - 2967
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/05/106b00/29652967.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/11/2003/05/08/p/dre/pt/html
+  oj: null
+  dre: '580615'
+  dre_path: /dr/detalhe/decreto-regulamentar/11-2003-580615
+  internal: pt:dre:580615:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2003-580615
+  metadata_url: https://data.dre.pt/eli/decregul/11/2003/05/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2003-580615
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:28:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1e1b5eea2e1dea8a22fe8034ddd6b38d2890db96c49eaca4a40dc09cfd12f50b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:28:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Parque Natural da Arrábida
+- Política de Solos
+- Proteção do Ambiente
+relationships:
+- type: cites
+  target: celex:31992L0043
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/43/oj
+- type: cites
+  target: pt:dre:234913:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/23/1998/10/14/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:28:18Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 11/2003
+
+de 8 de Maio
+
+Os trabalhos referentes à elaboração do Plano de Ordenamento do Parque Natural da Arrábida encontram-se em fase de conclusão.
+
+Os estudos técnicos que fundamentaram a elaboração deste plano especial de ordenamento do território identificaram um conjunto de valores geológicos, florísticos e de vegetação, faunísticos e paisagísticos, numa área superior à área actualmente classificada, cuja relevância justifica a sua inclusão nos limites do Parque Natural da Arrábida, actualmente definidos pelo Decreto Regulamentar n.º 23/98, de 14 de Outubro, pese embora a necessária descontinuidade dos limites, por via da exclusão do perímetro urbano de Sesimbra e de algumas zonas adjacentes que não justificam medidas específicas de protecção.
+
+Em especial, na zona mais ocidental da península de Setúbal, veio a ser incluído na primeira fase da lista nacional de sítios, aprovada pela Resolução do Conselho de Ministros n.º 142/97, de 28 de Agosto, o sítio Arrábida/Espichel (PTCON00010), tendo como objectivo a conservação de habitats e de espécies da flora e da fauna, constantes dos anexos à Directiva n.º [92/43/CEE](http://data.europa.eu/eli/dir/1992/43/oj?locale=pt), do Conselho, de 21 de Maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens.
+
+Com efeito, a riqueza em espécies endémicas e a raridade dos conjuntos florístico e faunístico, assim como o bom estado de conservação de alguns dos habitats existentes na zona marinha e na zona terrestre da Arrábida, justificaram a sua inclusão na Rede Natura 2000.
+
+Também na mesma zona, foi criada pelo Decreto-Lei n.º 384-B/99, de 23 de Setembro, a Zona de Protecção Especial (ZPE) do Cabo Espichel, com vista à conservação de espécies de aves constantes do anexo A-I ao Decreto-Lei n.º 140/99, de 24 de Abril.
+
+A definição da ZPE funda-se na singular importância para a migração de aves aquáticas e terrestres e no valor que alguns habitats representam para a nidificação de aves protegidas e ou de conservação prioritária.
+
+As medidas de protecção e conservação decorrentes dos mencionados regimes jurídicos aconselham, não obstante, a que os respectivos habitats e as espécies da flora e da fauna selvagens sejam objecto de uma gestão integrada no conjunto dos valores naturais, culturais e paisagísticos que justificaram a criação do Parque Natural da Arrábida.
+
+No tocante aos valores geológicos que fundamentam a presente ampliação dos limites do Parque Natural, compreende-se a necessidade de englobar os dois monumentos nacionais - Pedra da Mua e Lagosteiros - existentes no cabo Espichel, objecto de classificação pelo Decreto n.º 20/97, de 7 de Maio. Estes afloramentos geológicos apresentam notáveis registos de pistas e pegadas de dinossauros.
+
+No conjunto dos valores geológicos, assume também especial importância a morfologia cársica, que influenciou a criação de diversas grutas, algumas das quais com significativos lençóis freáticos, e encontrando-se uma das formações subterrâneas classificada como sítio com interesse espeleológico pelo Decreto-Lei n.º 140/79, de 21 de Maio. Isto sem prejuízo das demais áreas com interesse geológico relevante, como o litoral do cabo Espichel, os conglomerados intraformacionais do Alto da Califórnia, Gesseira de Sesimbra, e as cristas dos conglomerados da Azoia.
+
+Por último, e no tocante aos valores paisagísticos a preservar, salientam-se as arribas litorais com importantes particularidades geomorfológicas e a plataforma do cabo Espichel, unidade de valor paisagístico singular na extremidade mais ocidental da cadeia da Arrábida.
+
+Foram ouvidas as Câmaras Municipais de Palmela, Setúbal e Sesimbra.
+
+Assim:
+
+Ao abrigo do disposto no artigo 13.º do Decreto-Lei n.º 19/93, de 23 de Janeiro, alterado pelos Decretos-Leis n.os 151/95, de 24 de Junho, 213/97, de 16 de Agosto, 227/98, de 17 de Julho, e 380/99, de 22 de Setembro:
+
+Nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único — Alteração da área geográfica do Parque Natural da Arrábida
+
+1 - São alterados os limites do Parque Natural da Arrábida, adiante designado «Parque Natural», definidos no Decreto Regulamentar n.º 23/98, de 14 de Outubro.
+
+2 - O Parque Natural engloba as áreas cujos limites e definições constam dos textos e da carta simplificada que constituem os anexos I, II e III ao presente diploma e que dele fazem parte integrante.
+
+3 - São revogados os anexos I e III ao Decreto Regulamentar n.º 23/98, de 14 de Outubro, e é alterado o anexo II ao mesmo diploma regulamentar.
+
+4 - Ficam excluídas do âmbito de aplicação do Decreto Regulamentar n.º 23/98, de 14 de Outubro, as áreas marinhas sob jurisdição da APSS - Administração dos Portos de Setúbal e Sesimbra, S. A.
+
+Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2003. - José Manuel Durão Barroso - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
+
+Promulgado em 16 de Abril de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 21 de Abril de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+## ANEXO I — Limites do Parque Natural
+
+O limite terrestre do Parque Natural começa a nascente, com o início no Forte de Albarquel, segue pela estrada que liga o mesmo à estrada nacional n.º 10-4; pela estrada nacional n.º 10-4; no sentido poente-nascente, até ao quilómetro 0, ligando a estrada que leva ao Castelo de São Filipe; segue depois ao longo da estrada citada anteriormente até ao caminho vicinal que se inicia no Castelo de São Filipe e passa junto à Quinta do Lopes, vai ao longo do mesmo até ao entroncamento do Viso Grande. Aí inflecte para a direita, ao longo do caminho vicinal que passa ao Casal do Valido, Casal do Machado e Casal Ligeiro. No Casal Ligeiro inflecte para a esquerda, segue ao longo da azinhaga que passa ao Casal das Noivas, Quinta de Santa Efigénia e Quintão, até entroncar na estrada nacional n.º 10. No sentido nascente-poente, pela estrada nacional n.º 10, pela azinhaga que liga ao lugar de Combros, Casal da Fé, Casal do Guarda-Mor e Azinhaga de Alferrare. Do sítio de Arca de Água, pela azinhaga, do limite do concelho de Setúbal até à estrada municipal n.º 531; no sentido Sul-Norte pela estrada municipal n.º 531, Estrada da Cobra até ao entroncamento com a estrada nacional n.º 379, vila de Palmela; ao longo da estrada nacional n.º 379, desde Palmela à povoação de Santana. Aí inflecte para sul pela EN 378 até encontrar a estrada da Fonte do Carvalho, pela qual segue até ao Moinho dos Sete Caminhos, continuando para sul pelo caminho de acesso à Rua de Amélia Frade, até interceptar o perímetro urbano da vila de Sesimbra, acompanhando-o então para nascente até encontrar a área marinha.
+
+Reinicia-se a oeste de Sesimbra, na foz do ribeiro situado a poente do Forte do Cavalo e segue por este ribeiro até interceptar a estrada de acesso ao porto de abrigo, inflectindo aí para poente e seguindo por esta estrada até ao entroncamento com o caminho que dá acesso às pedreiras da ribeira do Cavalo, contornando o seu perímetro para poente até encontrar a Estrada de António Veiga, pela qual segue para norte até entroncar na EN 379, sensivelmente ao quilómetro 7,8. Segue por esta estrada nacional para poente até ao entroncamento com o caminho de acesso à localidade Pinheirinhos, nas proximidades do quilómetro 7,5, pelo qual segue até à localidade de Pinheirinhos, atravessando e continuando para poente pela estrada de acesso à localidade Aldeia Nova. Nesta inflecte para sul pela Rua do Penedo e de seguida para poente pela Rua da Pedra do Nar até à localidade Serra da Azoia, onde inflecte para norte pela Rua dos Pescadores e de seguida para poente pela estrada do campo de futebol, Rua da Baleeira, e segue pelo caminho que acede às instalações da NAV, continuando para poente até entroncar o caminho de acesso ao Porto da Baleeira, e por este na direcção noroeste, atravessando a ribeira da Mareta até interceptar a EN 379, ao quilómetro 1,7. Transpõe esta estrada e segue para noroeste por um caminho que dá acesso às Terras do Areeiro, continuando para norte até entroncar com um caminho, que, atravessando os ribeiros do Areeiro e dos Caixeiros, entronca na estrada que liga Casais da Azoia à Estrada da Foz, pela qual segue para norte até entroncar na Estrada da Foz. Segue-a para norte até interceptar a ribeira das Lajes, pela qual segue para jusante até à praia da Foz, onde intercepta novamente a área marinha.
+
+Os limites marinhos do Parque Natural começam a poente na linha de água da Foz, praia da Foz a norte do cabo Espichel; segue-se o paralelo 38º27'18" N. até ao ponto 1 assinalado no mapa anexo, com as coordenadas 38º27'18" N. e 9º14'00" W. e que dista da costa 2,2 milhas marítimas; segue-se o meridiano 9º14'00" W. até ao ponto 2 assinalado no mapa anexo, de coordenadas 38º23'54" N. e 9º14'00" W. segue-se o paralelo 38º23'54" N. até ao ponto 3 assinalado no mapa anexo, de coordenadas 38º23'54" N. e 9º11'42" W. e que dista da costa 0,7 milhas; segue-se o enfiamento do ponto referido na alínea anterior e a baliza n.º 2 da entrada da barra de Setúbal; segue-se o enfiamento da baliza n.º 2, a baliza n.º 4 e o pontão Este da praia da Figueirinha, onde estes limites terminam a nascente. O limite do Parque Natural da Arrábida segue para nascente pela linha de máxima baixa-mar de águas vivas equinociais até ao Forte de Albarquel. As coordenadas referem-se à projecção de Mercator, elipsóide internacional, Datum Lisboa.
+
+«ANEXO II
+
+1 - ...
+
+1.1 - ...
+
+1.2 - ...
+
+1.2.1 - ...
+
+1.2.2 - ...
+
+1.2.3 - ...
+
+1.2.4 - ...
+
+1.3 - ...
+
+1.4 - ...
+
+1.5 - Zona de protecção especial - inclui o litoral e a plataforma do cabo Espichel, assim como a área marinha adjacente coincidente com os limites do Parque Marinho.
+
+1.6 - Sítio Arrábida/Espichel - abrange toda a zona que se estende para nascente de Sesimbra, incluindo todo o maciço das serras da Arrábida, de São Luís e Gaiteiros e de São Francisco e Louro, assim como os vales adjacentes, enquanto na zona poente de Sesimbra coincide, em grande parte, com a Zona de Protecção Especial do Cabo Espichel.
+
+2 - ...
+
+2.1 - ...
+
+2.2 - ...
+
+2.3 - ...
+
+2.4 - ...
+
+2.5 - ...
+
+2.6 - Zona de protecção especial - área de importância comunitária no território nacional em que são aplicadas as medidas necessárias para a manutenção ou restabelecimento do estado de conservação das populações das espécies de aves selvagens inscritas no anexo A-I ao Decreto-Lei n.º 140/99, de 24 de Abril, e dos seus habitats.
+
+2.7 - Sítio de importância comunitária - um sítio que na região biogeográfica atlântica contribua de forma significativa para manter ou restabelecer um tipo de habitat natural do anexo B-I ou de uma espécie do anexo B-II ao Decreto-Lei n.º 140/99, de 24 de Abril, num estado de conservação favorável, e possa também contribuir de forma significativa para a coerência da Rede Natura 2000 ou para, de forma significativa, manter a diversidade biológica na referida região biogeográfica.»
+
+## ANEXO III — Limites do Parque Natural da Arrábida
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2003/05/106b00/29652967.pdf)

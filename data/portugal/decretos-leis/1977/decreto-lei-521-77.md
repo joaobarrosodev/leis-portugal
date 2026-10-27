@@ -1,0 +1,295 @@
+---
+schema_version: '1.0'
+id: pt:dre:280251:por
+title: Decreto-Lei n.º 521/77
+short_title: null
+summary: Cria a Junta Autónoma do Porto da Horta (JAPH)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Secretaria de Estado da Marinha Mercante - Direcção-Geral de Portos
+proposing_entity: null
+official_number: 521/77
+official_date: null
+publication_date: '1977-12-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 291/1977, Série I de 1977-12-19
+  number: '291'
+  series: I
+  supplement: null
+  pages: 2996 - 2998
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/12/29100/29962998.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '280251'
+  dre_path: /dr/detalhe/decreto-lei/521-1977-280251
+  internal: pt:dre:280251:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1977-280251
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1977-280251
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:08:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a1488b671017fb47de82e8d0d9a40cd2c60926ec8d8f4a9ea72399e0fe835f98
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:08:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Administração de Portos
+- ÁREA de Jurisdição
+- Autonomia Administrativa
+- Autonomia Financeira
+- Comissão Instaladora
+- Criação de Serviços
+- Definição de Competências
+- Direcção Geral de Portos
+- Instalação de Serviços
+- Integração de Trabalhadores
+- Junta Autónoma do Porto da Horta
+- Junta Autónoma dos Portos
+- Ministro dos Transportes e Comunicações
+- Património
+- Portos dos Açores
+- Receita
+- Recrutamento de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:567941:por
+  label: "Dado por findo o periodo de instalação previsto no presente diploma, pelo DRR.49/81/A.1981.11.16.GR-RAA, DR.IS [275]\
+    \ de 28/Nov/1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/49-1981-567941
+  date: '1981-11-16'
+- type: amended_by
+  target: pt:dre:693458:por
+  label: "Extinta a Junta Autonoma do Porto da Horta, pelo DLR.30/2003/A.2003.06.05.ALR-RAA, DR.IS-A [146] de 27/Jun/2003\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/30-2003-693458
+  date: '2003-06-05'
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:225603:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407118:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:408513:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502033:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525622:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659507:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:08:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 521/77
+
+de 19 de Dezembro
+
+Desde há muito que se vem fazendo sentir a necessidade, cada vez mais urgente, de instituir, para o grupo de ilhas do Pico, Faial, Flores e Corvo, um organismo regional a que seja atribuída a administração dos portos dessas ilhas da Região Autónoma dos Açores, designadamente do porto da Horta, o de maior dimensão.
+
+Confia o Governo em que a criação da Junta Autónoma do Porto da Horta (JAPH), prevista neste diploma, indo de encontro aos interesses locais e regionais, poderá desempenhar função importante na exploração comercial das infra-estruturas já existentes, no desenvolvimento do tráfego portuário, na condução e fiscalização de obras de melhoramento e, até mesmo, na criação e equipamento de novos portos.
+
+Por se reconhecer ter uma maior afinidade sócio-económica com as ilhas do Pico e Faial, por razões de maior proximidade, em especial com a primeira, integra-se a ilha de S. Jorge, com os seus portos, no grupo a ser administrado pela nova Junta Autónoma do Porto da Horta, ficando desanexada da actual Junta Autónoma dos Portos do Distrito de Angra do Heroísmo, a qual passará a englobar, unicamente, o grupo de portos das ilhas Terceira e Graciosa.
+
+Nestes termos:
+
+Tendo em consideração o § único do artigo 1.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, ouvido o Governo Regional dos Açores:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - É criada a Junta Autónoma do Porto da Horta (JAPH), organismo regional, nos termos do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, dotado de autonomia administrativa e financeira e personalidade jurídica de direito público, que, sob a orientação e fiscalização da Direcção-Geral de Portos, exercerá a administração do grupo de portos das ilhas de S. Jorge, Pico, Faial, Flores e Corvo, da Região Autónoma dos Açores.
+
+2 - A JAPH fica sujeita a um período de instalação, com a duração de um ano, prorrogável por despacho conjunto dos Ministros das Finanças e dos Transportes e Comunicações, sob proposta fundamentada da Direcção-Geral de Portos, ouvido o Governo Regional dos Açores.
+
+3 - Durante o período de instalação a JAPH reger-se-á, na parte aplicável, em tudo o que não contrariar o disposto neste diploma, pelo Estatuto das Juntas Autónomas dos Portos.
+
+Art. 2.º - 1 - É instituída uma comissão instaladora da Junta, que exercerá o seu mandato durante o período previsto no n.º 2 do artigo anterior.
+
+2 - Da comissão instaladora fazem parte:
+
+a) O presidente, nomeado pelo Ministro dos Transportes e Comunicações, sob proposta da Direcção-Geral de Portos, ouvido o Governo Regional dos Açores;
+
+b) Um engenheiro civil do quadro da Direcção-Geral de Portos ou estranho ao quadro, de reconhecida competência;
+
+c) O capitão do Porto da Horta.
+
+3 - O presidente da comissão instaladora tem direito a uma remuneração mensal a fixar por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e dos Transportes e Comunicações, ouvido o Governo Regional dos Açores.
+
+Art. 3.º - 1 - Durante o período de instalação, a competência atribuída pelo Estatuto das Juntas Autónomas dos Portos à comissão administrativa será exercida pela comissão instaladora, cabendo-lhe, nomeadamente, cobrar e arrecadar todas as receitas provenientes da exploração comercial dos portos, e outras, e realizar despesas, de acordo com o orçamento aprovado.
+
+2 - No prazo de trinta dias, a contar da data da sua entrada em exercício, a comissão instaladora elaborará um orçamento que será submetido à aprovação superior, nos termos do artigo 24.º, n.º 2, alínea n), do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro.
+
+3 - As contas de gerência da comissão instaladora ficarão sujeitas a julgamento do Tribunal de Contas, nos termos legais.
+
+Art. 4.º - 1 - O engenheiro civil, a que se refere a alínea b) do n.º 2 do artigo 2.º, exercerá a competência conferida aos engenheiros directores dos portos pelo Estatuto das Juntas Autónomas dos Portos, tendo direito a que lhe seja abonada uma gratificação de direcção, nos termos do artigo 65.º do mesmo Estatuto, de montante a fixar por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e dos Transportes e Comunicações.
+
+2 - Se não pertencer ao quadro da Direcção-Geral de Portos, poderá o engenheiro civil a que se refere a alínea b) do n.º 2 do artigo 2.º ser requisitado a outro serviço ou instituto público, ou ser contratado pela Direcção-Geral de Portos, nos termos legais.
+
+Art. 5.º - 1 - A área de jurisdição da JAPH abrange as zonas terrestres e marítimas necessárias à exploração portuária e à execução e conservação das obras dos respectivos portos, sendo definida e delimitada na lei orgânica da Junta, que a comissão instaladora elaborará e submeterá, dentro do prazo que lhe for assinalado pelo Ministro dos Transportes e Comunicações, à aprovação do Governo, depois de obtido o parecer do Governo Regional dos Açores.
+
+2 - Passam para a jurisdição da JAPH os portos, cais, varadouros e muralhas marítimas, de interesse portuário, das ilhas de S. Jorge, Pico, Faial, Flores e Corvo.
+
+3 - Cabe à JAPH exercer, nas ilhas referidas no número anterior, todos os poderes conferidos pela legislação em vigor às administrações portuárias e à Direcção-Geral de Portos, relativamente ao domínio público marítimo.
+
+Art. 6.º - 1 - Constituem receitas da JAPH:
+
+a) As importâncias resultantes da aplicação das taxas estabelecidas no regulamento de tarifas;
+
+b) As taxas de licenças, multas e emolumentos resultantes da aplicação do Regulamento dos Serviços Hidráulicos na área de jurisdição da Junta Autónoma;
+
+c) O produto das licenças que, nos termos do artigo 244.º do [Decreto-Lei n.º 265/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1972-408513), de 31 de Julho, são da competência das autoridades portuárias;
+
+d) As importâncias cobradas por prestação directa de serviços;
+
+e) As prestações provenientes da concessão de serviços e da concessão ou arrendamento de terrenos, aluguer de armazéns, utensílios, aparelhos ou embarcações não abrangidas pelo regulamento de tarifas;
+
+f) O rendimento da exploração de docas, estaleiros e oficinas;
+
+g) O produto da venda de pedra, areia e outros materiais extraídos por sua indústria;
+
+h) O produto da venda de aparelhos, máquinas ou materiais inutilizados ou disponíveis;
+
+i) As importâncias das multas por contravenção de regulamentos, quando por lei não devam ter outro destino;
+
+j) As importâncias de débitos previstos a favor da Junta;
+
+k) O produto de quaisquer impostos e de percentagens ou adicionais às contribuições directas do Estado, lançados ou a lançar pelo Governo Regional dos Açores, para este efeito;
+
+l) O produto da transferência ou alienação de bens imóveis, nos termos do [Decreto-Lei n.º 39083](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39083-1953-525622), de 17 de Janeiro de 1953;
+
+m) As receitas cobradas pela Capitania do Porto da Horta que resultem da exploração do mesmo e que não estejam atribuídas, por disposição de lei, a qualquer serviço especial;
+
+n) O produto da atribuição do uso privativo de qualquer parcela dominial, mediante licença, ou concessão, nos termos do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro;
+
+o) Qualquer outra receita proveniente dos serviços dos portos ou que por lei lhe venha a ser atribuída;
+
+p) As verbas que pelos Governos da República ou da Região Autónoma dos Açores forem postas à disposição da Junta;
+
+q) O produto de empréstimos ou de outras operações financeiras;
+
+r) As comparticipações, subsídios ou liberalidades de quaisquer entidades públicas ou privadas cuja aceitação seja autorizada pelo Governo Regional dos Açores;
+
+s) O produto de indemnizações por avarias ou prejuízos causados aos serviços ou instalações dos portos;
+
+t) O produto da venda de terrenos.
+
+2 - Enquanto não for aprovado o regulamento de tarifas para a JAPH, fica o Ministro dos Transportes e Comunicações, ouvido o Governo Regional dos Açores, autorizado a estabelecer ou aprovar, sob proposta fundamentada da comissão instaladora, tarifas provisórias, válidas por três meses, automaticamente renováveis por iguais períodos de tempo, se, entretanto, não for julgado conveniente revê-las.
+
+Art. 7.º - 1 - O pessoal indispensável ao funcionamento dos serviços será admitido, em regime de prestação eventual de serviço, pelo Ministro dos Transportes e Comunicações, sob proposta da comissão instaladora, sem prejuízo do disposto no artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro, devendo reunir todos os requisitos exigidos pela lei geral para provimento em cargos públicos de idêntica categoria, designadamente as habilitações literárias.
+
+2 - O Ministro dos Transportes e Comunicações poderá requisitar pessoal de outros serviços públicos ou destacar funcionários do seu Ministério para prestar serviço na comissão instaladora.
+
+3 - Findo o período de instalação, o pessoal referido no n.º 1 poderá transitar para a JAPH, nos termos dos artigos 52.º e 53.º do Estatuto das Juntas Autónomas dos Portos e do n.º 1 do artigo 1.º do [Decreto Regulamentar n.º 43/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1977-253067), de 18 de Junho, em categoria correspondente à que estiver ocupando.
+
+4 - O provimento resultará de lista nominativa aprovada pelo Ministro dos Transportes e Comunicações e publicada no Diário da República, donde conste a categoria em que cada funcionário fica integrado.
+
+5 - A integração do pessoal prevista neste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo o visto do Tribunal de Contas.
+
+6 - O pessoal presentemente ao serviço da Junta Autónoma dos Portos do Distrito de Angra do Heroísmo (JAPDAH), na ilha de S. Jorge, poderá optar, no prazo de trinta dias, contados a partir da data em que se processar a passagem do grupo de portos da ilha de S. Jorge para a jurisdição da JAPH, por continuar ao serviço da JAPDAH com transferência para as ilhas Terceira ou Graciosa, ou passar a estar ao serviço da JAPH, na ilha de S. Jorge, sem perda de quaisquer regalias ou direitos adquiridos, devendo, em tudo o que lhe possa ser aplicável e favorável, obter um tratamento idêntico ao do pessoal a admitir nos termos do disposto no n.º 1 deste artigo, mas com prioridade absoluta quanto à integração no quadro da JAPH, quando este for criado.
+
+Art. 8.º - 1 - Os funcionários que venham a ser requisitados para a comissão instaladora ao abrigo do n.º 2 do artigo 4.º e do n.º 2 do artigo 7.º continuam a pertencer ao quadro de origem, podendo o respectivo lugar desse quadro ser provido interinamente.
+
+2 - A requisição dependerá sempre da anuência do Ministro do departamento a que pertencer o funcionário a requisitar e do acordo deste.
+
+3 - O pessoal requisitado poderá optar pelo vencimento e demais abonos do lugar de origem.
+
+4 - O tempo de serviço prestado pelos funcionários requisitados contará, para todos os efeitos legais, como se tivesse sido prestado no quadro de origem, mantendo os funcionários, durante esse tempo, todos os direitos, incluindo os relativos à promoção.
+
+Art. 9.º - 1 - Fica o Ministro das Finanças autorizado a satisfazer os encargos decorrentes da criação da JAPH.
+
+2 - Para instalação da JAPH ser-lhe-á atribuído um subsídio, não reembolsável, de 6000 contos.
+
+3 - Poderão ser atribuídos subsídios à JAPH para aquisição de equipamento necessário à exploração portuária, nas condições que vierem a ser estabelecidas em despacho conjunto dos Ministros das Finanças e dos Transportes e Comunicações.
+
+Art. 10.º - 1 - O Governo transfere para a JAPH as instalações móveis e imóveis, materiais, máquinas, ferramentas e utensílios, incluindo material circulante e de navegação, afectos à exploração portuária nas ilhas de S. Jorge, Pico, Faial, Flores e Corvo, que sejam pertença do Estado e que não estejam atribuídos aos departamentos militares.
+
+2 - São, igualmente, transferidos para a JAPH os imóveis construídos e os terrenos adquiridos para efeitos de execução das obras do porto da Horta e que sejam pertença do Estado.
+
+Art. 11.º - 1 - É fixado o último dia do ano em que a comissão instaladora inicie o seu mandato, como data a partir da qual a JAPDAH deixa de administrar o grupo de portos da ilha de S. Jorge, os quais passarão, desde esse momento, a ficar sob a jurisdição da JAPH.
+
+2 - A partir da data prevista no número anterior considera-se revogado, na parte que se refere à ilha de S. Jorge, o disposto no artigo 4.º e seus parágrafos do [Decreto n.º 18441](https://diariodarepublica.pt/dr/detalhe/decreto/18441-1930-225603), de 11 de Junho de 1930.
+
+Art. 12.º As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações, com o acordo do Ministro das Finanças e ou do Secretário de Estado da Administração Pública, quando estiverem em causa matérias das respectivas competências.
+
+Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.
+
+Promulgado em 7 de Dezembro de 1977.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

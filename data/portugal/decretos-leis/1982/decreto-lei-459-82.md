@@ -1,0 +1,259 @@
+---
+schema_version: '1.0'
+id: pt:dre:380148:por
+title: Decreto-Lei n.º 459/82
+short_title: null
+summary: Estabelece normas sobre serviços e fundos autónomos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento
+proposing_entity: null
+official_number: 459/82
+official_date: null
+publication_date: '1982-11-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 274/1982, Série I de 1982-11-26
+  number: '274'
+  series: I
+  supplement: null
+  pages: 3969 - 3977
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/11/27400/39693977.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '380148'
+  dre_path: /dr/detalhe/decreto-lei/459-1982-380148
+  internal: pt:dre:380148:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1982-380148
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:47:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: de91e380f02adf91c3656a5c9c18f097f208e6ac3145e5fbd51d963d9220da91
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:47:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autonomia Administrativa
+- Autonomia Financeira
+- Fundos Autónomos
+relationships:
+- type: amended_by
+  target: pt:dre:144217:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:469214:por
+  label: "Rectificado pela DECL.DD2676.1983.01.12.PCM DR.IS [25]Supl de 31/Jan/1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1983-469214
+  date: '1983-01-12'
+- type: amended_by
+  target: pt:dre:275399:por
+  label: "Mantido transitóriamente em vigor pelo DEC LEI.77/94.1994.03.09.MF, DR.IS-A [57], nos termos do seu nº 4 do art.\
+    \ 2º \0 2º \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/77-1994-275399
+  date: '1994-03-09'
+- type: amended_by
+  target: pt:dre:196936:por
+  label: "Mantido transitoriamente em vigor, nos termos do n.º 4 do art. 2.º do DEC LEI.45/95.1995.03.02.MF DR.IS-A [52]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/45-1995-196936
+  date: '1995-03-02'
+- type: amended_by
+  target: pt:dre:144217:por
+  label: Mantido em vigor, para os serviços e organismos da Administração Pública que não tenham tido uma adesão plena aos
+    princípios definidos no Dec Lei 155/92 de 28-Jul, pelo(a) Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011,
+    1º Suplemento, Série I de 2011-03-01, sem prejuízo do disposto no n.º 2 do art. 2º deste último diploma.
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/29-a-2011-144217
+  date: '2011-03-01'
+- type: cites
+  target: pt:dre:299220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:461663:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:275619:por
+  label: "Revogado pelo DEC LEI.155/92.28.07.1992.MF, DR.IS-A [172] de 28.07.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1992-275619
+  date: '1992-07-28'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:47:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 459/82
+
+de 26 de Novembro
+
+Considerando a necessidade de reformular a reunir num único diploma a legislação geral aplicável à movimentação e utilização das receitas próprias, à organização e publicação dos orçamentos privativos e à prestação e publicidade das contas de gerência dos fundos e organismos autónomos;
+
+Mostrando-se necessário tornar extensivo esse regime geral aos serviços com autonomia administrativa, na parte em que elaboram orçamentos privativos para aplicação de receitas próprias, e aos organismos de coordenação económica cuja natureza o justifique;
+
+Atendendo a que se torna indispensável melhorar a disciplina financeira dos referidos fundos e organismos e a informação de gestão que devem prestar ao Ministério das Finanças e do Plano:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - A actividade financeira dos fundos autónomos e dos organismos dotados de autonomia administrativa e financeira, incluindo os institutos públicos financiados pelo Orçamento Geral do Estado em mais de 50%, fica sujeita ao regime estabelecido no presente diploma, relativamente à movimentação e utilização das suas receitas próprias e de outras fontes de financiamento que, eventualmente, lhes sejam atribuídas no Orçamento Geral do Estado, à organização e publicação dos seus orçamentos privativos, à prestação e publicidade das contas de gerência e à análise das informações daí resultantes.
+
+2 - Ficam também sujeitos ao mesmo regime os organismos dotados apenas de autonomia administrativa, na parte em que são obrigados a elaborar orçamentos privativos para aplicação de receitas próprias.
+
+3 - Ficam igualmente abrangidos pelo regime constante deste diploma, mesmo com prejuízo do disposto nas suas leis orgânicas, os organismos de coordenação económica, com excepção dos que, por a sua natureza o justificar, dele forem excluídos através de despacho conjunto dos ministros da respectiva tutela e do Ministro de Estado e das Finanças e do Plano, mediante proposta dos organismos a excluir e parecer da Direcção-Geral da Contabilidade Pública.
+
+Art. 2.º - 1 - Todos os fundos e organismos referidos no artigo anterior que apresentem orçamentos privativos com um total de receitas próprias igual ou superior a 10000 contos deverão ser incluídos em «Contas de ordem» do Orçamento Geral do Estado.
+
+2 - As entidades autónomas não abrangidas no número antecedente e cuja inserção em «Contas de ordem» já tenha sido efectuada manterão o mesmo regime, independentemente do montante das suas receitas próprias.
+
+3 - A inclusão a que se alude no n.º 1 deste artigo começará a ser efectuada com referência ao Orçamento Geral do Estado para 1983.
+
+Art. 3.º - 1 - As receitas próprias das entidades referidas nos n.os 1 e 2 do artigo anterior serão entregues nos cofres do Tesouro e escrituradas em «Contas de ordem» do Orçamento Geral do Estado, mediante guias passadas pelas mesmas entidades ou por outras legalmente competentes para o efeito.
+
+2 - Será enviado à delegação da Direcção-Geral da Contabilidade Pública junto do respectivo ministério um exemplar das referidas guias averbado do pagamento.
+
+Art. 4.º - 1 - Serão inscritas em «Contas de ordem» do orçamento de despesa de cada ministério as verbas correspondentes às receitas próprias que devam entrar nos cofres do Tesouro, nos termos do artigo anterior.
+
+2 - Para o efeito do número antecedente, os fundos e organismos abrangidos nos n.os 1 e 2 do artigo 2.º deste diploma incluirão nos projectos de orçamento a remeter à competente delegação da Direcção-Geral da Contabilidade Pública, nos termos da lei geral, os valores meramente globais a inscrever no orçamento do ano seguinte como despesa de «Contas de ordem».
+
+3 - A utilização das quantias inscritas no orçamento de cada ministério será feita mediante requisições processadas pelos fundos e organismos indicados, a remeter à competente delegação da Direcção-Geral da Contabilidade Pública para conferência, verificação do duplo cabimento e autorização de pagamento.
+
+4 - As diferenças verificadas entre os levantamentos dos cofres públicos em conta de receitas próprias descritas em «Contas de ordem» e as despesas efectivamente pagas constituirão os saldos de gerência em poder dos fundos e organismos interessados.
+
+5 - Para o efeito da determinação do saldo de gerência a que se refere o número antecedente deverá acrescentar-se aos levantamentos dos cofres do Tesouro a verba que constituiu o saldo da gerência anterior na posse do respectivo fundo ou organismo.
+
+6 - Os saldos apurados em «Contas de ordem», no termo da execução do Orçamento Geral do Estado, correspondentes à diferença entre os levantamentos de fundos e as verbas de receitas próprias nos cofres públicos, serão transferidos para o ano seguinte na públicos serão transferidos para o ano seguinte na a efectuar pela Direcção dos Serviços Gerais da Conta da Direcção-Geral da Contabilidade Pública, a fim de ser possível a sua ulterior aplicação pelas respectivas entidades autónomas.
+
+7 - Os saldos referidos nos números anteriores serão inscritos obrigatoriamente em orçamento suplementar, com a natureza de «Outras receitas de capital», sob a designação de «Saldo da gerência anterior: 1. Na posse do serviço; 2. Na posse do Tesouro».
+
+8 - Por despacho do Ministro de Estado e das Finanças e do Plano e do ministro da tutela, mesmo com prejuízo das leis orgânicas dos respectivos fundos e organismos, os saldos a que se refere o n.º 6 deste artigo poderão ser congelados e afectos a outras finalidades.
+
+9 - Todas as verbas, incluindo as destinadas a «Investimentos do Plano», recebidas directa ou indirectamente do Orçamento Geral do Estado por «Transferências» e não utilizadas até ao final do período complementar da liquidação das despesas deverão ser repostas nos cofres do Estado, mesmo com prejuízo do disposto nas leis orgânicas dos fundos e organismos em causa, até 14 de Fevereiro do ano seguinte àquele a que o orçamento respeita.
+
+Art. 5.º As despesas dos fundos e organismos autónomos que, além de disporem de receitas próprias, beneficiem directa ou indirectamente de «Transferências» do Orçamento Geral do Estado deverão ser cobertas prioritariamente pelas primeiras e só na parte excedente pelas verbas recebidas daquele Orçamento.
+
+Art. 6.º O recurso ao crédito pelos fundos e organismos autónomos não poderá ser efectuado, mesmo com prejuízo das suas leis orgânicas, sem prévio parecer favorável do ministro da tutela e autorização do Ministro de Estado e das Finanças e do Plano.
+
+Art. 7.º As dotações de despesas referidas no n.º 1 do artigo 4.º, bem como outras que forem atribuídas no Orçamento Geral do Estado, serão aplicadas, mediante orçamento privativo, nos termos legalmente estabelecidos.
+
+Art. 8.º - 1 - As entidades a que se refere o artigo 1.º deverão apresentar as suas contas de gerência à apreciação e julgamento do Tribunal de Contas, de harmonia com as normas legais aplicáveis, a partir da gerência de 1981.
+
+2 - Só excepcionalmente e mediante justificação por motivos insuperáveis o Tribunal de Contas poderá relevar as infracções financeiras por realização de despesas para além da verba orçamentada ou pela não elaboração em tempo útil de orçamentos suplementares.
+
+Art. 9.º - 1 - Sem prejuízo do disposto no artigo anterior e tendo em vista os objectivos constantes do artigo 16.º do [Decreto Regulamentar n.º 53/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1980-461663), de 27 de Setembro, a Direcção-Geral da Contabilidade Pública poderá analisar as contas de gerência e outros documentos de gestão das entidades a que se refere o artigo 1.º do presente diploma.
+
+2 - Para o efeito, os fundos autónomos e os organismos dotados de autonomia administrativa e financeira remeterão àquela Direcção-Geral todos os documentos que por ela forem solicitados.
+
+Art. 10.º - 1 - Os orçamentos privativos dos fundos e organismos a que se refere o artigo 1.º, depois de aprovados pela entidade competente, deverão ser remetidos, em duplicado, pelos próprios fundos e organismos ou pela entidade referida no n.º 5 deste artigo à Direcção dos Serviços Gerais do Orçamento da Direcção-Geral da Contabilidade Pública até ao dia 1 de Agosto do ano anterior àquele a que respeitam.
+
+2 - Os orçamentos referidos no número anterior constarão do Orçamento Geral do Estado sob a forma de mapas-resumo apensos ao orçamento do respectivo ministério, a elaborar por aquela Direcção de Serviços de harmonia com o modelo constante do anexo 1 a este diploma.
+
+3 - Se os orçamentos a que se referem os números anteriores vierem a ser elaborados de harmonia com esquemas de classificação ou planos de contas legalmente aprovados para a gestão de sectores específicos diferentes dos adoptados no Orçamento Geral do Estado, deverão constar dos mapas-resumo referidos no mesmo número, mas, neste caso, esses mapas serão elaborados pelos próprios fundos e organismos interessados ou pela entidade indicada no n.º 5 deste artigo.
+
+4 - As contas de gerência resultantes da execução dos orçamentos referidos nos números anteriores figurarão também em apenso à conta do respectivo ministério, sob a forma de extracto, a elaborar pelas próprias entidades interessadas de harmonia com o modelo constante do anexo 2 ao presente diploma, para o que esses extractos serão remetidos pelas mesmas ou pela entidade referida no n.º 5 deste artigo à Direcção dos Serviços Gerais da Conta da Direcção-Geral da Contabilidade Pública até 31 de Maio do ano seguinte àquele a que dizem respeito.
+
+5 - Quando for da competência de determinada entidade a coordenação da actividade dos fundos e organismos abrangidos por este diploma, poderá essa entidade remeter às competentes direcções de serviços da Direcção-Geral da Contabilidade Pública uma agregação dos orçamentos e extractos das contas de gerência referidos nos números anteriores, desde que isso seja autorizado por despacho conjunto do ministro da respectiva tutela e do Ministro de Estado e das Finanças e do Plano, mediante proposta daquela Direcção-Geral, ouvidas as entidades interessadas.
+
+6 - Quando for autorizada por despacho a remessa de elementos agregados prevista no número anterior, o visto que recair sobre o documento-síntese deverá considerar-se como abrangendo os orçamentos privativos que estão na sua origem.
+
+Art. 11.º - 1 - Os orçamentos suplementares dos diferentes fundos e organismos autónomos abrangidos pelo artigo anterior não poderão ser aprovados depois de 31 de Dezembro do ano a que respeitam, terminando impreterivelmente em 31 de Janeiro do ano seguinte, para efeitos de visto do Ministro de Estado e das Finanças e do Plano, o prazo para a sua entrega na Direcção dos Serviços Gerais do Orçamento da Direcção-Geral da Contabilidade Pública.
+
+2 - Não serão apresentados a visto do Ministro de Estado e das Finanças e do Plano os orçamentos suplementares recebidos em contravenção do disposto no número antecedente, salvo os que tenham sido devolvidos por aquela Direcção de Serviços para rectificação, os quais, a título excepcional, poderão ser submetidos a visto até 31 de Março do ano imediato àquele a que respeitam.
+
+Art. 12.º - 1 - Os fundos e organismos abrangidos pelos n.os 1 e 2 do artigo 2.º do presente diploma deverão elaborar, trimestralmente e com referência ao final de cada trimestre, em termos acumulados, mapas da receita arrecadada e da despesa efectuada, de harmonia com o modelo constante do anexo 3 a este decreto-lei.
+
+2 - Os mapas a que se refere o número anterior serão remetidos ao Gabinete de Estudos e Planeamento do Ministério das Finanças e do Plano até ao final do mês seguinte ao trimestre a que respeitam.
+
+3 - Os fundos e organismos referidos no n.º 1 deste artigo deverão remeter àquele Gabinete as informações relativas à receita arrecadada e à despesa efectuada, com referência à situação verificada em 31 de Dezembro de cada ano, até ao final do mês de Fevereiro do ano seguinte.
+
+4 - Quando for da competência de determinada entidade a coordenação da actividade dos fundos e organismos abrangidos pelo presente diploma, poderá essa entidade remeter ao Gabinete de Estudos e Planeamento uma agregação de mapas indicados nos números anteriores, desde que isso seja autorizado por despacho conjunto do ministro da respectiva tutela e do Ministro de Estado e das Finanças e do Plano, mediante proposta daquele Gabinete, ouvidas as entidades interessadas.
+
+Art. 13.º A remessa ao Gabinete de Estudos e Planeamento do Ministério das Finanças e do Plano dos mapas trimestrais referidos no artigo anterior deverá começar a ser efectuada com referência ao 3.º trimestre de 1982, continuando a ser cumprido, em relação ao período anterior, o artigo 1.º do [Decreto-Lei n.º 525/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1980-457462), de 5 de Novembro.
+
+Art. 14.º Os fundos e organismos autónomos referidos no artigo 1.º que, de harmonia com as respectivas leis orgânicas, prestam contas a entidades próprias dos departamentos a que pertencem deverão, independentemente desse facto, dar cumprimento ao estabelecido no presente diploma, designadamente ao n.º 4 do artigo 10.º
+
+Art. 15.º Os extractos referidos no n.º 4 do artigo 10.º relativos às contas de gerência de 1980 deverão ser remetidos à Direcção dos Serviços Gerais da Conta da Direcção-Geral da Contabilidade Pública até 60 dias após a publicação deste diploma.
+
+Art. 16.º - 1 - As delegações da Direcção-Geral da Contabilidade Pública não autorizarão as requisições para levantamento de fundos dos cofres do Estado respeitantes aos fundos e organismos abrangidos pelo presente diploma enquanto estes não justificarem o cumprimento de todas as disposições nele estabelecidas.
+
+2 - A justificação prevista no número anterior será feita através da apresentação às respectivas delegações de contabilidade da cópia dos documentos de remessa a que este diploma obriga.
+
+3 - Os dirigentes e responsáveis pelos órgãos de fiscalização dos fundos e organismos abrangidos pelo presente diploma serão solidariamente responsáveis pela inobservância de todas as obrigações nele estabelecidas, designadamente pelo incumprimento dos respectivos prazos, incorrendo em multas até ao valor do vencimento mensal da respectiva categoria, a aplicar por despacho do Ministro de Estado e das Finanças e do Plano, sem prejuízo da efectivação da responsabilidade que resultar da apreciação e julgamento das contas pelo Tribunal de Contas e da responsabilidade disciplinar a que possa legalmente haver lugar.
+
+Art. 17.º - 1 - Todos os fundos e organismos referidos no n.º 1 do artigo 1.º deverão remeter ao Ministério das Finanças e do Pano, até 60 dias após a entrada em vigor do presente diploma, uma nota contendo uma síntese das razões justificativas da manutenção da respectiva autonomia financeira, a fim de ser reapreciada a manutenção do correspondente regime de autonomia.
+
+2 - O não cumprimento do disposto no número anterior dentro do prazo aí estabelecido implicará a aplicação das sanções gerais previstas no presente diploma, designadamente a não autorização pelas delegações da Direcção-Geral da Contabilidade Pública das requisições para levantamento de fundos dos cofres do Estado.
+
+3 - A revogação do regime de autonomia financeira será efectuada mediante decreto-lei.
+
+Art. 18.º - 1 - Quando os fundos e organismos abrangidos pelo presente diploma pretendam contrair empréstimos cujos encargos sejam total ou parcialmente suportados por verbas inscritas no Orçamento Geral do Estado ou nos seus orçamentos privativos e pretendam confirmar perante as entidades mutuantes a inscrição e a evolução daquelas verbas, poderão os fundos e organismos interessados e as próprias entidades mutuantes solicitar à Direcção-Geral da Contabilidade Pública a referida confirmação.
+
+2 - Para o efeito do disposto no número anterior, todos os fundos e organismos prestarão regularmente à Direcção-Geral da Contabilidade Pública as informações relativas à evolução da sua dívida, mesmo que a eles não pretendam recorrer.
+
+Art. 19.º Os modelos constantes dos anexos 1 a 3 ao presente diploma poderão ser alterados por portaria do Ministro de Estado e das Finanças e do Plano, sob proposta da Direcção-Geral da Contabilidade Pública ou do Gabinete de Estudos e Planeamento do Ministério das Finanças e do Plano, conforme os casos.
+
+Art. 20.º - 1 - As normas gerais vigentes sobre a admissão e excedentes de pessoal da função pública aplicam-se a todos os serviços e organismos da administração central do Estado, incluindo os institutos públicos que revistam a natureza de serviços personalizados e os fundos públicos.
+
+2 - Os actos jurídicos que forem praticados sem observância das normas referidas no número anterior são nulos, ficando os funcionários e agentes que autorizarem, informarem favoravelmente ou omitirem informação relativamente a admissão ou permanência de pessoal em contravenção daquelas normas responsáveis solidariamente pela reposição das quantias indevidamente pagas, para além da responsabilidade civil e disciplinar que ao caso couber.
+
+Art. 21.º O presente diploma não tem aplicação ao Cofre Geral dos Tribunais, ao Cofre dos Conservadores, Notários e Funcionários de Justiça, ao Cofre do Supremo Tribunal Administrativo e aos cofres das auditorias administrativas.
+
+Art. 22.º As dúvidas que surgirem na aplicação deste decreto-lei serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano.
+
+Art. 23.º Ficam revogadas todas as disposições legais contrárias ao disposto neste diploma, designadamente as dos Decretos-Leis n.os [264/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1978-299220), de 30 de Agosto, e [525/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/525-1980-457462), de 5 de Novembro.
+
+Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1982. - Diogo Pinto de Freitas do Amaral.
+
+Promulgado em 22 de Setembro de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Do Anexo 1 ao Anexo 3
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/11/27400/39693977.pdf)

@@ -1,0 +1,258 @@
+---
+schema_version: '1.0'
+id: pt:dre:227048:por
+title: Decreto-Lei n.º 108/86
+short_title: null
+summary: Estabelece as normas a que deve obedecer a escolha dos manuais escolares a utilizar nos ensinos primário, preparatório
+  e secundário
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Cultura
+proposing_entity: null
+official_number: 108/86
+official_date: null
+publication_date: '1986-05-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/1986, Série I de 1986-05-21
+  number: '116'
+  series: I
+  supplement: null
+  pages: 1230 - 1232
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11600/12301232.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '227048'
+  dre_path: /dr/detalhe/decreto-lei/108-1986-227048
+  internal: pt:dre:227048:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1986-227048
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1986-227048
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:10:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a59218544080fd64084ea4a18d23708e80e127202e776ff55baf6c1f2cc4b72a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Preparatório
+- Ensino Primário
+- Ensino Secundário
+- Manual Escolar
+- Material de Ensino
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:218678:por
+  label: "Recusada a ratificação do presente diploma e repristinadas as normas legais por ele revogadas pela RES.21/86.17.07.1986.AR,\
+    \ DR.IS [174] de 31.07.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/21-1986-218678
+  date: '1986-07-17'
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:10:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 108/86
+
+de 21 de Maio
+
+Visa o decreto-lei dar cumprimento ao Programa do Governo, o qual, de entre as medidas a adoptar no domínio da educação, prevê expressamente a promoção de uma nova política de manuais escolares que garanta a qualidade e diminua os custos.
+
+O Governo entende que sobre o assunto existe legislação abundante que importa rever e unificar, num diploma operacional, tendo em conta os seguintes pontos essenciais à definição daquela política:
+
+Necessidade de conciliar a qualidade didáctica e científica dos manuais escolares e instrumentos individuais de trabalho com a defesa dos preços de aquisição;
+
+Necessidade de definição clara dos prazos mínimos de vigência dos programas curriculares sem limitar o processo de inovação pedagógica;
+
+Necessidade de salvaguarda dos interesses das famílias com vários filhos em idade escolar, que se vêem impossibilitadas de utilizar manuais adquiridos para os filhos mais velhos, com enorme sobrecarga no orçamento doméstico;
+
+Necessidade de garantir o cumprimento por parte das escolas e professores dos prazos legais de afixação das listas dos manuais seleccionados pelos conselhos pedagógicos.
+
+No que se refere aos custos e preços de venda ao público mantém-se o regime que tem sido adoptado, isto é, a sua fixação por portaria conjunta dos Ministérios da Indústria e do Comércio e da Educação e Cultura.
+
+O regime previsto no presente decreto-lei terá aplicação por um período mínimo de dois anos, findo o qual se prevê que venham a ser definidas e aprovadas as novas linhas de acção pela Comissão para a Reforma do Sistema Educativo.
+
+O presente diploma constitui, pois, um primeiro passo na execução da política de manuais escolares atrás referenciada.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º O presente diploma estabelece as normas a que deve obedecer a escolha dos manuais escolares a utilizar nos ensinos primário, preparatório e secundário.
+
+Art. 2.º Para efeitos do presente diploma, considera-se:
+
+a) Manual escolar, todo o instrumento de trabalho impresso e estruturado que se destine ao processo ensino-aprendizagem, apresentando uma progressão sistemática quanto aos objectivos e conteúdos programáticos e quanto à própria organização da aprendizagem;
+
+b) Livro auxiliar, todo o instrumento que, propondo um conjunto de informação, vise a aplicação e avaliação da aprendizagem efectuada, podendo não implicar qualquer organização do processo ensino-aprendizagem.
+
+Art. 3.º - 1 - A escolha dos manuais escolares será feita de acordo com os programas que vierem a ser aprovados.
+
+2 - Os programas a que se refere o número anterior serão fixados por portaria do Ministro da Educação e Cultura para cada uma das disciplinas e áreas disciplinares dos ensinos primário, preparatório e secundário e vigorarão por um período mínimo de dois anos lectivos.
+
+Art. 4.º - 1 - A adopção dos manuais escolares pelas escolas será feita, para cada um dos ensinos, nos termos e prazos indicados nos números seguintes deste artigo.
+
+2 - No ensino primário, de entre os manuais escolares existentes será adoptado, por fases e por cada área de cada delegação escolar, o que obtiver maior número de votos ou adesão por parte dos directores das escolas, ou equiparados, reunidos sob a presidência do respectivo delegado escolar, com observação do estabelecido nas alíneas abaixo indicadas:
+
+a) A escolha dos manuais escolares será feita de acordo com critérios definidos, tendo em conta os conteúdos, a forma de comunicação, os métodos e as características dos materiais, de acordo com a ficha constante do anexo ao presente diploma;
+
+b) As reuniões necessárias para a escolha dos manuais realizar-se-ão entre 5 e 10 de Julho;
+
+c) As deliberações, devidamente fundamentadas, serão registadas em acta.
+
+3 - Nos ensinos preparatório e secundário, de entre os manuais escolares existentes será escolhido um por cada escola, para grupo, subgrupo, disciplina ou especialidade, observando-se, porém, o estabelecido nas alíneas abaixo indicadas:
+
+a) Compete aos conselhos pedagógicos ou direcções pedagógicas, sob proposta do conselho de grupo, subgrupo, disciplina ou especialidade, aprovar a escolha dos manuais;
+
+b) As reuniões terão lugar entre 5 e 10 de Julho e a decisão final será tomada até 15 de Julho;
+
+c) Não se verificando consenso, optar-se-á pelo manual escolar que obtiver a adesão do maior número de professores presentes que leccionem a disciplina no mesmo ano escolar;
+
+d) A escolha dos manuais escolares será feita de acordo com critérios definidos, tendo em conta os conteúdos, a forma de comunicação, os métodos e as características dos materiais, de acordo com a ficha anexa.
+
+Art. 5.º Para efeitos da escolha referida no artigo anterior os docentes disporão, para consulta, das obras oferecidas pelos autores e editores, as quais deverão obrigatoriamente constar das bibliotecas das delegações escolares e dos estabelecimentos de ensino preparatório e secundário.
+
+Art. 6.º Os delegados escolares, presidentes dos conselhos directivos e directores pedagógicos dos estabelecimentos de ensino particular e cooperativo fixarão até 20 de Julho de cada ano, em locais de acesso ao público, a lista dos manuais escolares adoptados, por disciplina ou área disciplinar, com indicação do título, autor e editor.
+
+Art. 7.º Os delegados escolares, presidentes directivos e directores pedagógicos dos estabelecimentos de ensino particular e cooperativo enviarão até 25 de Julho de cada ano à direcção escolar, câmara municipal, direcções-gerais de ensino, delegação regional da Inspecção-Geral de Ensino e ainda à Associação Portuguesa de Editores e Livreiros a lista definitiva dos manuais escolares adoptados com indicação dos títulos, autores, editores e estimativa do número de alunos abrangidos.
+
+Art. 8.º - 1 - A escolha dos manuais escolares para alunos com deficiência visual terá em consideração os anteriormente adoptados e os catálogos existentes sobre o assunto.
+
+2 - Do número de alunos, bem como dos manuais escolares, deverá ser elaborada lista a remeter, no máximo, até 20 de Julho ao Centro de Recursos para a Educação Integrada, a fim de atempada reprodução, e ainda às Direcções-Gerais do Ensino Básico e do Ensino Secundário e aos respectivos professores de apoio.
+
+Art. 9.º Compete aos delegados escolares, presidentes dos conselhos directivos e directores pedagógicos dos estabelecimentos de ensino particular e cooperativo assegurar o cumprimento do estabelecido no presente diploma, nomeadamente que a escolha do manual escolar se faça de acordo com os princípios previstos nos artigos 4.º e 6.º
+
+Art. 10.º O uso dos manuais escolares adoptados poderá ser suspenso, a todo o tempo, por despacho do Ministro da Educação e Cultura, mediante proposta devidamente fundamentada dos serviços que têm a seu cargo a orientação pedagógica, desde que se verifique que os mesmos contêm graves deficiências de natureza científica.
+
+Art. 11.º Nos anos lectivos de 1986-1987 e 1987-1988 manter-se-ão em vigor os programas com os conteúdos que vigoraram no ano lectivo de 1985-1986, sem prejuízo de eventuais simplificações ou adaptações que não impliquem substituição ou inutilização de manuais.
+
+Visto e aprovado em Conselho de Ministros de 10 de Abril de 1986 - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
+
+Promulgado em 24 de Abril de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 8 de Maio de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## ANEXO — Ficha anexa a que se refere o artigo 4.º
+
+Os manuais escolares devem ser analisados sob quatro pontos de vista:
+
+a) Conteúdos;
+
+b) Comunicação;
+
+c) Métodos;
+
+d) Características dos materiais.
+
+a) Conteúdo. - O conteúdo de um manual deverá ser analisado sob dois parâmetros.
+
+Científico, em que se procure a qualidade e a quantidade de informação proposta, o seu rigor e actualidade e modo de apresentação em função de uma dada situação pedagógica;
+
+Pedagógico-didáctico, que visa a apreciação dos seguintes aspectos:
+
+Relação entre o conteúdo e as indicações programáticas ao nível etário dos alunos;
+
+Grau de adequação:
+
+Aos objectivos gerais do ensino e ou ciclo de estudos;
+
+Aos objectivos específicos da disciplina;
+
+À concepção pedagógica-didáctica que inspirou os programas;
+
+Aspecto gráfico;
+
+Inclusão de sugestões de tarefas e ou fichas de avaliação.
+
+b) Comunicação. - Numa situação de comunicação pedagógica há toda uma interacção directa entre o modo de comunicação e a metodologia.
+
+Terá então de ser examinada segundo os seguintes parâmetros:
+
+Sentido de comunicação;
+
+Formas de mensagem;
+
+Clareza de comunicação;
+
+Densidade de comunicação.
+
+Pretende-se apreciar o conjunto de modalidades que permitam passar uma mensagem de um emissor a um receptor.
+
+c) Métodos. - Enquanto instrumento de ensino-aprendizagem, o manual escolar veicula - implícita ou explicitamente - uma certa metodologia na exposição das ideias e na organização do trabalho.
+
+Entre outros aspectos da prática pedagógica, os aspectos metodológicos devem ser aferidos em três vertentes:
+
+Organização;
+
+Utilização;
+
+Adaptabilidade.
+
+d) Características dos materiais. - Com este item pretende-se determinar:
+
+Robustez e resistência ao uso;
+
+Maneabilidade;
+
+Custo.
+
+Para cada um destes parâmetros devem ser estabelecidos dois tipos de indicadores:
+
+1) Indicadores rápidos, imediatamente perceptíveis;
+
+2) Indicadores que se fundamentem em dados quantitativos e numa análise qualitativa aprofundada.

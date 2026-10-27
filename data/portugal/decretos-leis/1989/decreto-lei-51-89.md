@@ -1,0 +1,240 @@
+---
+schema_version: '1.0'
+id: pt:dre:612409:por
+title: Decreto-Lei n.º 51/89
+short_title: null
+summary: Disciplina a administração de materiais no âmbito da GNR
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 51/89
+official_date: null
+publication_date: '1989-02-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 44/1989, Série I de 1989-02-22
+  number: '44'
+  series: I
+  supplement: null
+  pages: 746 - 748
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/02/04400/07460748.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '612409'
+  dre_path: /dr/detalhe/decreto-lei/51-1989-612409
+  internal: pt:dre:612409:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1989-612409
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-1989-612409
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:56:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d610d271603b12d6f2a39e14ed4e12d58d8a4183f1f004bcd45150890e2a1715
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:56:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Gestão Administrativa
+- GNR
+- Orgânica
+relationships: []
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:56:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 51/89
+
+de 22 de Fevereiro
+
+Considerando que a administração dos materiais distribuídos à Guarda Nacional Republicana (GNR) constitui uma actividade da maior relevância, não só em razão do seu elevado valor patrimonial, como também pela necessidade de lhes assegurar elevados graus de disponibilidade e a utilização mais racional;
+
+Considerando que a GNR ainda segue os procedimentos previstos no Decreto-Lei n.º 35413, de 29 de Dezembro de 1945, que aprovou o Regulamento para a Organização, Funcionamento, Contabilidade e Escrituração dos Conselhos Administrativos, os quais já não correspondem às reais necessidades de administração dos materiais, designadamente no que concerne às responsabilidades do oficial tesoureiro e encarregado do material;
+
+Considerando que se torna, assim, necessário definir um novo quadro legal em ordem à correcta e eficiente administração dos materiais:
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Finalidade da administração dos materiais
+
+1 - A administração dos materiais tem por finalidade obter as melhores condições de utilização, conservação, registo e controlo dos materiais distribuídos à Guarda Nacional Republicana (GNR) e preservar os interesses da Fazenda Nacional.
+
+2 - São criadas secções de logística nos batalhões da GNR e unidades equivalentes.
+
+###### Artigo 2.º — Competências do Comando-Geral
+
+1 - A administração dos materiais e, em particular, o controlo de cargas constituem, a nível do Comando-Geral, uma responsabilidade da 4.ª Repartição e das chefias dos serviços, nos termos dos números seguintes.
+
+2 - À 4.ª Repartição, para além das funções que legalmente lhe estão ou venham a ser atribuídas, compete:
+
+a) Fixar normas técnicas sobre a administração dos materiais, em desenvolvimento das disposições constantes do presente diploma;
+
+b) Definir, com o apoio das chefias e serviços, um sistema de codificação e de catalogação dos diversos artigos que seja compatível com o utilizado pelas Forças Armadas, com vista à gestão informatizada dos materiais;
+
+c) Estudar e difundir, com o apoio das chefias dos serviços, registos normalizados a utilizar por todas as unidades e órgãos da GNR.
+
+3 - Às chefias dos serviços, para além das funções que legalmente lhes estão ou venham a ser atribuídas, compete:
+
+a) Difundir normas técnicas sobre a utilização, conservação e manutenção dos materiais, nos respectivos âmbitos;
+
+b) Difundir instruções específicas relativas ao controlo de cargas;
+
+c) Apreciar todos os autos resultantes de movimentos de artigos e materiais e submetê-los a despacho superior;
+
+d) Planear, propor e efectuar inspecções frequentes, por forma a garantir que todas as unidades, órgãos e subunidades observem os preceitos legais e as instruções em vigor sobre administração de materiais;
+
+e) Propor e realizar acções de formação e actualização do pessoal utilizador, operador e de manutenção dos materiais nos aspectos técnicos específicos do serviço;
+
+f) Coadjuvar a 4.ª Repartição do Comando-Geral, designadamente para os fins das alíneas b) e c) do n.º 2;
+
+g) Gerir os grupos e subgrupos de materiais que lhes sejam atribuídos, incluino o controlo de cargas, de acordo com o despacho do comandante-geral, a publicar em Ordem à Guarda.
+
+###### Artigo 3.º — Competências das secções de logística das unidades
+
+Às secções de logística das unidades compete, designadamente:
+
+a) Promover a apresentação no órgão de administração financeira da unidade das requisições que envolvem encargos financeiros, especificando, quando necessário, as características e outros elementos relativos aos materiais a adquirir;
+
+b) Propor, após a recepção dos materiais fornecidos pelo escalão superior ou provenientes de compra pelo órgão de administração financeira da unidade, a sua distribuição, tendo em conta as necessidades das subunidades e as prioridades estabelecidas pelo comando;
+
+c) Elaborar e difundir normas técnicas de utilização sempre que sejam adquiridos, por iniciativa da unidade, materiais com novas características e providenciar para que o pessoal utilizador ou operador seja devidamente instruído, tendo em conta as normas e instruções gerais das respectivas chefias de serviços;
+
+d) Promover a publicação em ordem de serviço de todos os aumentos, abates e distribuição de materiais, bem como a actualização dos respectivos registos, por forma a permitir um controlo eficiente das existências em toda a unidade;
+
+e) Elaborar, com a periodicidade que for estabelecida, o inventário dos materiais e respectivos valores à responsabilidade da unidade e as partes de alterações, a enviar ao escalão superior, bem como outros documentos afins que forem determinados;
+
+f) Promover a elaboração, através de comissões, dos autos resultantes dos movimentos dos artigos e materiais, de acordo com as instruções em vigor, submetendo-os a despacho superior e accionando o seu envio às respectivas chefias de serviços;
+
+g) Propor a nomeação das comissões, para os efeitos consignados na alínea anterior;
+
+h) Elaborar, anualmente, o plano de necessidades da unidade, em conformidade com as determinações em vigor.
+
+###### Artigo 4.º — Competências das subunidades de comando e serviços ou subunidades equivalentes
+
+1 - Compete às subunidades de comando e serviços:
+
+a) Administrar os materiais que lhes estejam distribuídos, em moldes idênticos aos que são estabelecidos para as subunidades territoriais;
+
+b) Assegurar a guarda e conservação dos materiais em carga à unidade que não estejam distribuídos para uso permanente às subunidades;
+
+c) Zelar pela execução das medidas de segurança dos materiais, de acordo com as instruções do comando.
+
+2 - A formação do Comando-Geral desempenha, quanto à administração dos materiais distribuídos ao Comando-Geral e ao controlo de cargas, funções idênticas às das subunidades de comando e serviços relativamente ao comando das unidades.
+
+###### Artigo 5.º — Competências das companhias territoriais ou subunidades equivalentes
+
+Compete às companhias territoriais ou subunidades equivalentes:
+
+a) Organizar os registos das cargas, de acordo com o artigo 7.º do presente diploma e outros preceitos legais e regulamentares em vigor;
+
+b) Distribuir os materiais, de acordo com as necessidades das subunidades e as instruções do escalão superior, e assegurar a sua correcta utilização;
+
+c) Fiscalizar, com frequência, as existências e o acondicionamento e conservação dos materiais em arrecadação ou depósito;
+
+d) Elaborar os autos de recepção, expedição, consumo, incapacidade, extravio, ruína prematura e outros resultantes dos movimentos dos artigos e materiais, de acordo com as instruções em vigor, e enviá-los aos comandos das unidades territoriais;
+
+e) Zelar pela segurança dos materiais, de acordo com as instruções do comando.
+
+###### Artigo 6.º — Competências das secções e dos posto territoriais
+
+Às secções e aos postos territoriais compete:
+
+a) Manter permanentemente actualizados e devidamente escriturados os registos de controlo de materiais superiormente determinados;
+
+b) Assegurar a correcta utilização, conservação e arrecadação dos materiais em carga;
+
+c) Verificar, frequentemente, se as existências conferem com os materiais em carga;
+
+d) Passar revistas às viaturas, armamento, equipamento e mais material que lhes esteja confiado;
+
+e) Zelar pela segurança dos materiais, de acordo com as instruções do comando;
+
+f) Comunicar, prontamente, ao escalão superior qualquer ocorrência anormal com os materiais.
+
+###### Artigo 7.º — Escrituração
+
+1 - Enquanto não for estabelecida a gestão informatizada dos materiais, são obrigatoriamente utilizados os seguintes registos no controlo dos materiais:
+
+a) Registo do movimento de fardamento;
+
+b) Registo do movimento do material em carga;
+
+c) Registo do movimento de outras existências, destinado a escriturar o movimento de artigos e materiais que não têm registos próprios, mas que, pela sua natureza e valor, importa controlar;
+
+d) Registo de requisições, destinado a escriturar o processamento das requisições dos materiais a aumentar à carga, até serem satisfeitos.
+
+2 - Os registos previstos no número anterior serão constituídos por fichas, folhas soltas ou livros.
+
+3 - Os livros contêm, obrigatoriamente, termos de abertura e de encerramento e as suas folhas são numeradas, devendo estas, assim como as fichas e folhassoltas, ser autenticadas pelo comandante ou chefe, considerando-se autenticação a rubrica, de próprio punho, ou chancela, com a aposição de selo branco em uso na unidade ou órgão.
+
+4 - Os modelos e as normas por que se rege a escrituração destes registos serão aprovados por despacho do comandante-geral, sob proposta da 4.ª Repartição.
+
+###### Artigo 8.º — Responsabilidade
+
+1 - O comandante, ou chefe, é, em cada escalão de comando, o primeiro responsável pela administração dos materiais.
+
+2 - Os chefes das secções de logística, os comandantes das companhias de comando e serviços ou subunidades equivalentes e os comandantes das companhias territoriais ou subunidades equivalentes são responsáveis:
+
+a) Pelas informações de carácter técnico que prestem sobre assuntos relativos à administração dos materiais e às cargas;
+
+b) Pela falta de cumprimento de quaisquer preceitos legais e regulamentares ou de instruções do escalão superior, quando actuem por iniciativa própria;
+
+c) Pelos erros de carácter técnico ou irregularidades cometidas no âmbito das suas competências.
+
+3 - Os prejuízos causados à Fazenda Nacional decorrentes de actuação dolosa ou negligente dão sempre origem a procedimento disciplinar e ou criminal.
+
+Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - José António da Silveira Godinho.
+
+Promulgado em 9 de Fevereiro de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 9 de Fevereiro de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

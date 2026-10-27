@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:274634:por
+title: Decreto n.º 48354
+short_title: null
+summary: Confere a medalha militar da cruz de guerra de 1.ª classe ao Destacamento n.º 7 de Fuzileiros Especiais
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Marinha - Superintendência dos Serviços da Armada
+proposing_entity: null
+official_number: '48354'
+official_date: null
+publication_date: '1968-04-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 100/1968, Série I de 1968-04-26
+  number: '100'
+  series: I
+  supplement: null
+  pages: 596 - 596
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/04/10000/05960596.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '274634'
+  dre_path: /dr/detalhe/decreto/48354-1968-274634
+  internal: pt:dre:274634:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48354-1968-274634
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48354-1968-274634
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:02:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 646207affe8f7318c40f92bd210fd1cd7cfe8eed0ffee5310279e05e3bd4df26
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:158239:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:02:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48354
+
+Considerando que o Destacamento n.º 7 de Fuzileiros Especiais teve um comportamento brilhante ao longo da sua actividade operacional na província da Guiné, demonstrando extraordinária agressividade, elevado espírito de corpo, alta eficiência em combate, destacada coragem e entusiasmo;
+
+Atendendo a que da sua acção resultaram consideráveis baixas inimigas, captura de valioso e abundante material de guerra, a destruição de vultosos abastecimentos e a apreensão ou inutilização de muitas dezenas de canoas;
+
+Tendo em atenção o louvor colectivo que lhe foi concedido pelo comandante-chefe das Forças Armadas da Guiné, que o considera unidade de eleição, valorosa e destemida, que dignifica e enobrece as forças armadas portuguesas e é orgulho dos chefes que têm a honra de a ter sob as suas ordens;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo único. Nos termos do artigo 13.º do Regulamento da Medalha Militar, promulgado pelo [Decreto n.º 35667](https://diariodarepublica.pt/dr/detalhe/decreto/35667-1946-158239), de 28 de Maio de 1946, é conferida a medalha militar da cruz de guerra de 1.ª classe ao Destacamento n.º 7 de Fuzileiros Especiais.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 26 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial da Guiné. - J. da Silva Cunha.

@@ -1,0 +1,672 @@
+---
+schema_version: '1.0'
+id: pt:dre:240646:por
+title: Decreto-Lei n.º 86/2003
+short_title: null
+summary: Define normas especiais aplicáveis às parcerias público-privadas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 86/2003
+official_date: null
+publication_date: '2003-04-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 97/2003, Série I-A de 2003-04-26
+  number: '97'
+  series: I
+  supplement: null
+  pages: 2682 - 2686
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/04/097a00/26822686.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2012-07-01'
+version_history:
+  file: decreto-lei-86-2003.versoes.json
+  count: 3
+  source_lastmod: '2024-07-03'
+  versions:
+  - date: '2003-04-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-07-28'
+    amending: pt:dre:539230:por
+    amending_title: Decreto-Lei n.º 141/2006
+    changes:
+    - Altera Artigo 2.º
+  - date: '2012-07-01'
+    amending: pt:dre:177863:por
+    amending_title: Decreto-Lei n.º 111/2012
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/86/2003/p/cons/20120523/pt/html
+  oj: null
+  dre: '240646'
+  dre_path: /dr/detalhe/decreto-lei/86-2003-240646
+  internal: pt:dre:240646:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646
+  metadata_url: https://data.dre.pt/eli/dec-lei/86/2003/p/cons/20120523/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-870881050
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-870881050
+  retrieved_at: '2026-10-22T13:10:32Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-07-03T00:00:00Z'
+integrity:
+  source_sha256: 61cbab2831635d39e28d3eabf33f0402d5e88cf6d404f460979081c4ea67f1bb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:10:32Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-86-2003.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adjudicação
+- Comissão de Acompanhamento
+- Comissão de Análise
+- Fiscalização
+- Parceria Público-Privada
+- Parcerias Saúde
+- Regime Jurídico
+- Setor Privado
+- Setor Público
+relationships:
+- type: amended_by
+  target: pt:dre:539230:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230
+  date: '2006-07-27'
+- type: amended_by
+  target: pt:dre:177863:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863
+  date: '2012-05-23'
+- type: cites
+  target: pt:dre:171692:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/185/2002/08/20/p/dre
+article_structure:
+  article_count: 26
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:10:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 86/2003
+
+Decreto-Lei n.º 86/2003
+
+de 26 de Abril
+
+A transformação dos sistemas sociais operada no decurso do século XX, em virtude das quais o Estado passou a assumir novas funções, inclusive produtivas, de satisfação das necessidades sociais e públicas, provocou, paralelamente, um elevado aumento da despesa pública, observando-se nas sociedades modernas um peso excessivo do Estado e níveis incomportáveis de endividamento público, sem o equivalente aumento da qualidade dos serviços públicos prestados aos cidadãos. Em resposta, tem vindo a assistir-se à alteração do entendimento quanto ao papel do Estado na economia e, mais genericamente, quanto à forma de satisfação das necessidades colectivas.
+
+A similitude entre determinadas actividades prosseguidas por entidades privadas e as subjacentes à prestação de certos serviços públicos, tem levado à conclusão de que também nos serviços públicos é possível tirar proveito da tradicional melhor capacidade de gestão do sector privado, melhorando a qualidade do serviço prestado e gerando poupanças consideráveis na utilização de recursos públicos.
+
+Uma das formas, internacionalmente consagrada e testada, de obtenção pelo Estado de tais competências de gestão, consiste no estabelecimento de relacionamentos duradouros com privados, em regime de parceria público-privada, no âmbito dos quais lhes são transferidos os riscos, nomeadamente tecnológicos e operacionais, com os quais se encontram mais familiarizados e para cujo manuseamento se encontram mais habilitados.
+
+Neste âmbito, têm vindo o Estado e outros entes públicos a desenvolver modelos alternativos e experiências inovadoras de relacionamento com entidades privadas.
+
+Essas inovações quase sempre passam por um relacionamento de longo prazo entre os parceiros públicos e privados, envolvendo a repartição de encargos e riscos entre as partes e o estabelecimento de compromissos de médio ou longo prazo que, quando implicam encargos a satisfazer pelos entes públicos envolvidos, afectam e condicionam imperativamente a totalidade ou parte dos respectivos orçamentos futuros, compreendidos no período de duração dos contratos celebrados.
+
+Tais modelos, nos casos em que criam encargos de médio ou longo prazo para o parceiro público, e pelo reflexo que comportam em termos de alteração do perfil e características da despesa pública, acarretam, também, a necessidade de dar passos no sentido de uma orçamentação plurianual do sector público administrativo, que, por um lado, permita aos decisores públicos avaliar objectivamente, em toda a sua dimensão e projecção temporal, os custos e benefícios plurianuais das opções tomadas, bem como ponderar devidamente a responsabilidade que assumem ao decidi-las e, por outro, habilite o parceiro público a evidenciar e enquadrar orçamentalmente, em tempo útil e realisticamente, a integralidade dos compromissos financeiros que resultam das parcerias contratadas.
+
+A implementação desse sistema de orçamentação plurianual, a qual se encontra em curso, não elimina, no entanto, a necessidade de estipulação de algumas regras gerais relativas aos procedimentos de assunção de responsabilidades e de partilha de riscos no âmbito de parcerias público-privadas, tendo em vista garantir a respectiva economia, eficiência e eficácia, bem como a respectiva articulação com as normas de enquadramento orçamental.
+
+Em paralelo, o objectivo de melhorar os procedimentos de contratação e padronizar os instrumentos de regulação jurídica das parcerias, torna-se, assim, ainda mais imperioso e evidente, como forma determinante de extrair todo o valor implícito, em termos de racionalização, previsibilidade e legitimação da realização de despesa pública, na existência de um tal sistema de programação financeira.
+
+Instituem-se, assim, princípios gerais de eficiência e economia relativos à repartição de riscos entre o parceiro público e o parceiro privado que permitam dotar a relação contratual subjacente de uma harmonia e equilíbrio ao nível da repartição dos encargos e da distribuição do risco.
+
+Tais princípios deverão desempenhar a dupla função de, por um lado, enformar o conteúdo de cada parceria efectivamente concretizada e, por outro, de obrigar o decisor público a reflectir, na fase constitutiva, acerca da adequação do recurso à figura da parceria, em geral, ou de determinados modelos, em particular, sempre que a apresentação dos projectos de forma atractiva para o mercado privado implique a assunção de encargos, por parte do Estado, que, pela duração dos compromissos assumidos ou pela imprevisibilidade de determinadas matérias, coloquem em causa o valor acrescentado do recurso a este modo de relacionamento, em detrimento de outros alternativos, ou o normal exercício da prossecução do interesse público no longo prazo.
+
+Estes princípios exigem também, nas fases preparatórias, uma mais cuidada avaliação da possível repartição do risco, e propiciam, durante a vigência da parceria, uma maior eficiência da mesma, criando incentivos à definição de parcerias financeiramente sustentáveis e bem geridas.
+
+O presente diploma avança ainda na consagração plena, no ordenamento jurídico português, do princípio segundo o qual a parceria apenas se justifica quando se revelar vantajosa em confronto com o comparador de sector público.
+
+A este nível, a inovação traduz-se no facto de a exigência constante do n.º 2 do artigo 16.º da lei de enquadramento orçamental receber um tratamento procedimental compatível com a complexidade do juízo subjacente, através da exigência, em várias fases processuais, do confronto do projecto de parceria com o comparador de sector público, de forma a preparar uma consistente justificação da economia, eficiência e eficácia daquele, para efeitos orçamentais.
+
+Esta exigência de quantificação rigorosa e de avaliação da criação de valor acrescentado pelo recurso à parceria é transversal a todo o procedimento de constituição da mesma, incluindo na fase concursal, tendo-se atribuído às comissões de avaliação das propostas uma nova competência para o efeito, de forma a tomar em consideração o custo de oportunidade para o Estado, extravasando, assim, a tradicional restrição da sua actividade à mera análise do mérito relativo das propostas apresentadas.
+
+Acresce que este diploma manifesta uma grande preocupação de articulação do regime geral, aplicável às parcerias público-privadas, com eventuais regimes sectoriais, os quais se podem revelar extremamente úteis para efeitos de lançamento de programas integrados de parcerias pelos vários ministérios. Assim, optou-se por uma concepção em que o regime ora aprovado funcionará como um regime de cúpula, que se atém ao essencial da disciplina que se pretende instituir, em detrimento de um regime mais vasto, contendo numerosas normas de natureza supletiva. Prevê-se, assim, a existência de regimes sectoriais, mas que surgirão com uma função complementar deste e não derrogatória.
+
+Esta concepção inspira-se numa filosofia, por um lado, de criação no Estado de competências e procedimentos especializados, para fazer face ao crescimento expectável do sector das parcerias e, por outro, de estímulo de uma intensa colaboração interministerial, sistematizada, de forma a garantir que as diversas componentes do projecto são abordadas com a maior profundidade sem, no entanto, se perder a visão de conjunto.
+
+A tramitação prevista no presente diploma responde à necessidade, de há muito sentida, de um enquadramento geral, contendo regras de disciplina genéricas e as linhas de conexão entre a realização deste novo tipo de despesa pública e a disciplina orçamental, convivendo harmonicamente com a eventual criação, quando se justifique, de regimes sectoriais para o lançamento de programas integrados de parcerias e a contratação dos parceiros nas várias áreas de actividade pública.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 1.º — Objecto
+
+O presente diploma tem por objecto a definição de normas gerais aplicáveis à intervenção do Estado na definição, concepção, preparação, concurso, adjudicação, alteração, fiscalização e acompanhamento global das parcerias público-privadas.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 2.º — Definição de parceria público-privada e âmbito de aplicação
+
+1 - Para os efeitos do presente diploma, entende-se por parceria público-privada o contrato ou a união de contratos, por via dos quais entidades privadas, designadas por parceiros privados, se obrigam, de forma duradoura, perante um parceiro público, a assegurar o desenvolvimento de uma actividade tendente à satisfação de uma necessidade colectiva, e em que o financiamento e a responsabilidade pelo investimento e pela exploração incumbem, no todo ou em parte, ao parceiro privado.
+
+2 - São parceiros públicos:
+
+a) O Estado e entidades públicas estaduais;
+
+b) Os fundos e serviços autónomos;
+
+c) As entidades públicas empresariais.
+
+3 - O presente diploma é igualmente aplicável a todas as parcerias em que o equivalente ao parceiro não público seja uma empresa pública, uma cooperativa ou uma instituição privada sem fins lucrativos.
+
+4 - Constituem, entre outros, instrumentos de regulação jurídica das relações de colaboração entre entes públicos e entes privados:
+
+a) O contrato de concessão de obras públicas;
+
+b) O contrato de concessão de serviço público;
+
+c) O contrato de fornecimento contínuo;
+
+d) O contrato de prestação de serviços;
+
+e) O contrato de gestão;
+
+f) O contrato de colaboração, quando estiver em causa a utilização de um estabelecimento ou uma infra-estrutura já existentes, pertencentes a outras entidades, que não o parceiro público.
+
+5 - Excluem-se do âmbito de aplicação do presente diploma:
+
+a) As empreitadas de obras públicas;
+
+b) Os arrendamentos;
+
+c) Os contratos públicos de aprovisionamento;
+
+d) Todas as parcerias público-privadas que envolvam, cumulativamente, um encargo acumulado actualizado inferior a 10 milhões de euros e um investimento inferior a 25 milhões de euros;
+
+e) Todos os outros contratos de fornecimento de bens ou de prestação de serviços, com prazo de duração igual ou inferior a três anos, que não envolvam a assunção automática de obrigações para o parceiro público no termo ou para além do termo do contrato.
+
+6 - As parcerias público-privadas promovidas por empresas públicas sob a forma societária devem observar, com as devidas adaptações, as exigências materiais e os princípios constantes do presente decreto-lei, designadamente os resultantes dos artigos 4.º, 5.º, 6.º, 7.º, 14.º-C e 14.º-F, sendo o respectivo acompanhamento e controlo pelos Ministros das Finanças e da tutela sectorial exercidos através da função accionista do Estado.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-07-28
+
+###### Artigo 3.º — Prevalência
+
+1 - O disposto no presente diploma prevalece sobre quaisquer outras normas, relativas a parcerias público-privadas, tal como definidas no artigo 2.º
+
+2 - Sem prejuízo do disposto no número anterior, quando a especificidade de determinado sector o justificar, podem ser criados regimes sectoriais especiais, nos termos dos quais são definidas as normas que se revelem necessárias ou convenientes, em virtude das características particulares do sector em causa, para assegurar a prossecução dos fins e o cumprimento dos pressupostos gerais da constituição de parcerias público-privadas.
+
+3 - Os regimes sectoriais especiais referidos no número anterior podem compreender:
+
+a) Princípios e regras económicos, financeiros e técnicos;
+
+b) Normas procedimentais específicas;
+
+c) A atribuição a uma entidade sob tutela sectorial das competências de identificação, preparação, avaliação prévia, acompanhamento e avaliação de constituição de projectos de parcerias.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 4.º — Fins
+
+Constituem finalidades essenciais das parcerias público-privadas o acréscimo de eficiência na afectação de recursos públicos e a melhoria qualitativa e quantitativa do serviço, induzida por formas de controlo eficazes que permitam a sua avaliação permanente por parte dos potenciais utentes e do parceiro público.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 5.º — Repartição de responsabilidades
+
+No âmbito das parcerias público-privadas, incumbe ao parceiro público o acompanhamento e o controlo da execução do objecto da parceria, de forma a garantir que são alcançados os fins de interesse público subjacentes, e ao parceiro privado cabe, preferencialmente, o financiamento, bem como o exercício e a gestão da actividade contratada.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 6.º — Pressupostos
+
+1 - O lançamento e a contratação da parceria público-privada pressupõem:
+
+a) O cumprimento, quando for o caso, das normas relativas à programação financeira plurianual constantes da lei de enquadramento orçamental;
+
+b) A clara enunciação dos objectivos da parceria, definindo os resultados pretendidos e permitindo uma adequada atribuição das responsabilidades das partes;
+
+c) A configuração de um modelo de parceria que apresente para o parceiro público vantagens relativamente a formas alternativas de alcançar os mesmos fins, avaliadas nos termos previstos no n.º 2 do artigo 19.º da lei de enquadramento orçamental, e que, simultaneamente, apresente para os parceiros privados uma expectativa de obtenção de remuneração adequada aos montantes investidos e ao grau de risco em que incorrem;
+
+d) A prévia adequação às normas legais e demais instrumentos normativos, bem como a obtenção das autorizações e pareceres administrativos exigidos, tais como, entre outros, os de natureza ambiental e urbanísticos, dos quais dependa o desenvolvimento do projecto, de modo a permitir que todo o risco da execução seja ou possa ser transferido para o parceiro privado;
+
+e) A concepção de modelos de parcerias que evitem ou menorizem, sempre que possível e salvo fundamentação adequada, a probabilidade da verificação de modificações unilaterais dos contratos determinadas pelo parceiro público ou quaisquer outros factos ou circunstâncias geradores ou potenciadores da obrigação de reposição do equilíbrio financeiro, designadamente a indefinição das prestações contratuais, a imprevisibilidade da matéria, a extensão ou incerteza quanto à duração do compromisso, bem como a assunção de termos e condições de reposição desse equilíbrio ou outros regimes indemnizatórios que sejam excessiva ou injustificadamente onerosos ou inadequados em face do perfil de risco efectivo da parceria;
+
+f) A adopção, na fase prévia à contratação, das diligências e a consagração das exigências que se revelem adequadas à obtenção de um resultado negocial economicamente competitivo.
+
+g) A identificação expressa da entidade pública que tem a responsabilidade de suportar os encargos decorrentes de pagamentos a realizar ao parceiro privado, quando se preveja que os mesmos venham a ter lugar, bem como a identificação da origem dos respectivos fundos.
+
+2 - Os estudos económico-financeiros de suporte ao lançamento da parceria utilizam os parâmetros macroeconómicos definidos por despacho do Ministro das Finanças, o qual determina, designadamente, a taxa de desconto, para efeitos de actualização, e as projecções de inflação.
+
+3 - A verificação da conformidade do projecto de parceria com os pressupostos referidos no n.º 1 deve ser realizada com o maior grau de concretização possível em função da fase em que o projecto se encontre.
+
+4 - No que respeita, em especial, à declaração de impacte ambiental, quando exigível segundo a lei aplicável, deve a mesma ser obtida previamente ao lançamento da parceria.
+
+5 - Nos casos a que se refere o número anterior, os prazos de caducidade previstos nos n.os 1 e 2 do artigo 21.º do Decreto-Lei n.º 69/2000, de 3 de Maio, são alargados para três anos.
+
+6 - Nos casos em que sejam apresentadas propostas com variantes assentes em pressupostos diferentes daqueles que serviram de base à declaração de impacte ambiental, os riscos inerentes à variante correm exclusivamente por conta do parceiro privado.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 7.º — Partilha de riscos
+
+A partilha de riscos entre as entidades públicas e privadas deve estar claramente identificada contratualmente e obedece aos seguintes princípios:
+
+a) Os diferentes riscos inerentes à parceria devem ser repartidos entre as partes de acordo com a sua capacidade de gerir esses mesmos riscos;
+
+b) O estabelecimento da parceria deverá implicar uma significativa e efectiva transferência de risco para o sector privado;
+
+c) Deverá ser evitada a criação de riscos que não tenham adequada justificação na redução significativa de outros riscos já existentes;
+
+d) O risco de insustentabilidade financeira da parceria, por causa não imputável a incumprimento ou modificação unilateral do contrato pelo parceiro público, ou a situação de força maior, deve ser, tanto quanto possível, transferido para o parceiro privado.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 7.º-A — Programas sectoriais de parcerias
+
+1 - De acordo com as prioridades políticas e de investimentos sectoriais, podem ser desenvolvidos programas sectoriais de parcerias, envolvendo um conjunto articulado de projectos com recurso à gestão e ao financiamento privado, nos termos dos artigos 18.º e seguintes da lei de enquadramento orçamental.
+
+2 - A coordenação e o apoio técnico à preparação dos projectos inseridos ou a inserir em programas sectoriais podem ser atribuídos, pelo ministro da tutela sectorial, a unidades ou estruturas técnicas especializadas, às quais cabe, nomeadamente, apresentar o respectivo estudo estratégico e as minutas dos instrumentos jurídicos necessários ao início do procedimento prévio à contratação.
+
+3 - O estudo previsto no número anterior deve demonstrar a aptidão do projecto para atrair o sector privado, tendo em conta os potenciais interessados e as condições de mercado existentes.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+### Capítulo II — Avaliação das parcerias
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 8.º — Preparação e estudo de parcerias
+
+1 - Os ministros das tutelas sectoriais que pretendam iniciar processos de parceria público-privada devem notificar o Ministro das Finanças, para efeitos de constituição de uma comissão de acompanhamento da preparação e da avaliação prévia do projecto, apresentando o respectivo estudo estratégico e as minutas dos instrumentos jurídicos para a realização do procedimento prévio à contratação.
+
+2 - As entidades mencionadas no n.º 2 do artigo 2.º que pretendam iniciar processos de parceria público-privada devem apresentar ao ministro da respectiva tutela sectorial uma proposta contendo os elementos a que se refere o número anterior.
+
+3 - A comissão de acompanhamento é nomeada por despacho conjunto dos Ministros das Finanças e da tutela sectorial, no prazo de 15 dias após a notificação a que se refere o n.º 1.
+
+4 - A comissão de acompanhamento é composta por três ou cinco membros efectivos e dois suplentes, sendo:
+
+a) O respectivo coordenador indicado por acordo entre os Ministros das Finanças e da tutela sectorial;
+
+b) Um ou dois membros efectivos, consoante a comissão seja constituída por três ou cinco membros, indicados por cada um dos ministros;
+
+c) Cada um dos suplentes indicados por cada um dos ministros.
+
+5 - O estudo e preparação da parceria devem ter em consideração a conveniência de averiguação prévia do posicionamento do sector privado relativamente ao tipo de parceria em estudo, tendo em vista, designadamente, a identificação de potenciais interessados e a análise das condições de mercado existentes, procedendo, quando aplicável, à actualização do estudo estratégico a que se refere o n.º 2 do artigo 7.º-A.
+
+6 - No despacho a que se refere o n.º 3, é fixado o prazo em que a comissão de acompanhamento deve apresentar o seu relatório, o qual contém a recomendação de decisão a ser tomada, não podendo o prazo exceder 60 dias, salvo em casos devidamente fundamentados.
+
+7 - Compete à comissão de acompanhamento apreciar os pressupostos a que obedeceu o estudo apresentado e desenvolver e aprofundar a análise estratégica e financeira subjacente, com vista à sua adequada inserção nos objectivos do Governo e a maximizar o seu impacte positivo na economia, bem como, especificamente:
+
+a) Promover uma eficaz articulação entre as entidades envolvidas, com vista a imprimir maior celeridade e eficácia à respectiva acção;
+
+b) Propor ao Governo as soluções e medidas que considere mais consentâneas com a defesa do interesse público;
+
+c) Propor os instrumentos jurídicos adequados ao lançamento e execução do projecto de parceria;
+
+d) Apresentar, quando solicitado, o desenvolvimento e aprofundamento do estudo estratégico da parceria e a justificação do modelo a adoptar, demonstrando a inexistência de alternativas equiparáveis dotadas de maior eficiência técnica e operacional ou de maior racionalidade financeira;
+
+e) Demonstrar a comportabilidade orçamental da parceria;
+
+f) Colaborar com as entidades incumbidas da fiscalização e acompanhamento global das parcerias público-privadas.
+
+8 - A comissão de acompanhamento tem poderes para solicitar a qualquer serviço e organismo do ministério da tutela sectorial ou às entidades a que se refere o n.º 2 do artigo 2.º, consoante o caso, a informação e o apoio técnico que se revelem necessários ao desenvolvimento e execução do projecto.
+
+9 - A comissão de acompanhamento deve envolver activamente no desenvolvimento do projecto as entidades que venham a assumir responsabilidades no acompanhamento e controlo da execução do contrato de parceria a celebrar, de forma que estas possam proceder, de forma eficaz, a um acompanhamento e controlo da execução do referido contrato.
+
+10 - Em casos excepcionais, devidamente fundamentados, a constituição da comissão de acompanhamento pode ser dispensada, nos termos e no prazo referidos no n.º 3.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 9.º — Comissão de avaliação das propostas
+
+1 - Até ao início do procedimento prévio à contratação, a comissão de avaliação de propostas é designada por despacho conjunto dos Ministros das Finanças e da tutela sectorial, aplicando-se à respectiva composição, com as devidas adaptações, o disposto no n.º 4 do artigo anterior, podendo a mesma ser alargada, em casos devidamente fundamentados, até sete ou nove elementos, sendo observada a paridade entre Ministérios na respectiva nomeação.
+
+2 - A comissão de avaliação das propostas deve ter, entre as suas incumbências, a de avaliação quantitativa dos encargos para o parceiro público ou para o Estado, bem como a estimativa do impacte potencial dos riscos, directa ou indirectamente, afectos ao parceiro público, decorrentes do conteúdo e natureza de cada uma das propostas, para além da avaliação do respectivo mérito relativo, tendo especialmente em conta o pressuposto referido na alínea c) do n.º 1 do artigo 6.º
+
+3 - É aplicável à comissão de avaliação das propostas, com as necessárias adaptações, o regime previsto nos n.os 6, 8 e 9 do artigo 8.º
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 10.º — Lançamento da parceria
+
+1 - Até ao termo do prazo fixado nos termos do n.º 6 do artigo 8.º, a comissão de acompanhamento, ouvido o órgão de gestão da entidade pública interessada, quando for o caso, submete à consideração dos Ministros das Finanças e da tutela sectorial, em relatório fundamentado, uma recomendação da decisão a ser tomada.
+
+2 - No relatório analisa-se, em especial, a conformidade da versão definitiva do projecto de parceria com o disposto no n.º 1 do artigo 6.º e no artigo 7.º e discrimina-se quantitativamente os encargos para o parceiro público ou para o Estado, bem como o impacte potencial dos riscos, directa ou indirectamente, afectos ao parceiro público.
+
+3 - Os Ministros das Finanças e da tutela sectorial decidem quanto ao lançamento da parceria e respectivas condições, mediante despacho conjunto a emitir no prazo de 30 dias a contar da apresentação do relatório, competindo a execução daquele despacho, quando se trate de entidades com personalidade jurídica, ao respectivo órgão de gestão.
+
+4 - Do teor do despacho conjunto, ou dos seus anexos, constam os seguintes elementos:
+
+a) O programa do procedimento adjudicatório aplicável;
+
+b) O caderno de encargos;
+
+c) A análise das opções que determinaram a configuração do projecto;
+
+d) A descrição do projecto e do seu modo de financiamento;
+
+e) A demonstração do seu interesse público;
+
+f) A justificação do modelo de parceria escolhida;
+
+g) A demonstração da comportabilidade dos custos e riscos decorrentes da parceria em função da programação financeira plurianual do sector público administrativo;
+
+h) A declaração de impacte ambiental, quando exigível nos termos da lei aplicável.
+
+5 - O lançamento da parceria é feito segundo o procedimento adjudicatório aplicável, nos termos da legislação relativa à contratação pública.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 11.º — Adjudicação e reserva de não atribuição
+
+1 - Sem prejuízo da competência prevista na lei para autorização de despesa, a adjudicação é realizada mediante despacho conjunto dos Ministros das Finanças e da tutela sectorial ou, quando se trate de entidades com personalidade jurídica, por acto do respectivo órgão de gestão precedido de despacho conjunto favorável daqueles ministros, aos quais compete apreciar o relatório elaborado pela comissão de avaliação de propostas, nos termos do artigo anterior, e verificar a conformidade com o disposto no n.º 1 do artigo 6.º e no artigo 7.º, bem como com as alíneas c) a g) do n.º 4 do artigo anterior.
+
+2 - O despacho conjunto referido no número anterior é emitido no prazo de 30 dias a contar da recepção do relatório elaborado pela comissão de avaliação de propostas.
+
+3 - A qualquer momento do processo de selecção do parceiro privado pode dar-se por interrompido ou anulado o processo em curso, mediante despacho conjunto dos Ministros das Finanças e da tutela sectorial e sem direito a qualquer indemnização, sempre que, de acordo com a apreciação dos objectivos a prosseguir, os resultados das análises e avaliações realizadas até então e os resultados das negociações levadas a cabo com os candidatos não correspondam, em termos satisfatórios, aos fins de interesse público subjacentes à constituição da parceria, incluindo a respectiva comportabilidade de encargos globais estimados.
+
+4 - A interrupção ou anulação do processo de constituição da parceria é decidida com observância do procedimento previsto no n.º 1.
+
+5 - A interrupção do procedimento de constituição da parceria é obrigatória sempre que se apresente apenas um concorrente no respectivo procedimento adjudicatório, salvo decisão expressa e fundamentada dos Ministros das Finanças e da tutela sectorial.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+### Capítulo III — Fiscalização e acompanhamento das parcerias
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 12.º — Fiscalização das parcerias
+
+Os poderes de fiscalização e controlo da execução das parcerias são exercidos por entidade ou serviço a indicar pelo Ministro das Finanças para as matérias económicas e financeiras e pelo ministro da tutela sectorial para as demais.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 13.º — Acompanhamento global das parcerias
+
+1 - Incumbe aos Ministros das Finanças e da tutela sectorial, proceder ao acompanhamento permanente das parcerias tendo por objectivo avaliar os seus custos e riscos e melhorar o processo de constituição de novas parcerias.
+
+2 - Os Ministros das Finanças e da tutela sectorial tomam as providências necessárias para uma eficaz divulgação dos conhecimentos adquiridos pelas entidades incumbidas do acompanhamento das parcerias, bem como para uma crescente colaboração entre elas.
+
+3 - O Ministro das Finanças designa, mediante despacho, a entidade que lhe presta apoio técnico no acompanhamento global das parcerias e à qual podem ser atribuídas, designadamente, as seguintes funções:
+
+a) Emitir pareceres e recolher e disponibilizar informação relativa aos custos, riscos e impacte financeiro das parcerias;
+
+b) Receber, em nome do Ministro das Finanças, os pedidos de constituição de comissões previstas no presente decreto-lei;
+
+c) Receber, em nome do Ministro das Finanças, as comunicações previstas no presente decreto-lei que aquele indicar;
+
+d) Indicar, quando tal lhe seja solicitado pelo Ministro das Finanças, a identificação de membros para comissões previstas no presente decreto-lei;
+
+e) Prestar apoio técnico às comissões previstas no presente decreto-lei;
+
+f) Proceder ao acompanhamento dos processos em curso nos tribunais arbitrais, prestando apoio técnico ao parceiro público quando tal lhe seja determinado pelo Ministro das Finanças;
+
+g) Proceder ao arquivo e registos de elementos relacionados com as parcerias.
+
+4 - Os serviços e organismos do Estado e as entidades indicadas no n.º 2 do artigo 2.º devem prestar à entidade designada pelo Ministro das Finanças toda a colaboração que se revele necessária, designadamente fornecendo os elementos que lhes sejam solicitados relacionados com processos de parcerias
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 14.º — Alterações das parcerias
+
+2 - Quando um serviço ou organismo do Estado ou uma das entidades indicadas no n.º 2 do artigo 2.º pretender dar início ao estudo e preparação de uma alteração dos termos e condições de um contrato de parceria já celebrado, notifica por escrito o Ministro das Finanças ou a entidade que este para o efeito designar, constituindo-se uma comissão de negociação e observando-se, com as devidas adaptações, o disposto nos n.os 3 a 9 do artigo 8.º
+
+3 - Em casos excepcionais, devidamente fundamentados, a constituição da comissão de negociação pode ser dispensada, nos termos e no prazo referidos no n.º 3 do artigo 8.º
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 14.º-A — Competências da comissão de negociação
+
+1 - Compete à comissão de negociação representar o parceiro público nas negociações que venham a ocorrer com o parceiro privado, bem como elaborar o correspondente relatório, submetendo-o à apreciação do órgão máximo do serviço do Estado que deu origem ao início do processo de alteração da parceria ou do órgão de gestão do respectivo parceiro público, quando se trate de entidade com personalidade jurídica.
+
+2 - O relatório é apresentado no prazo máximo de 60 dias, salvo casos devidamente fundamentados, e deve, designadamente;
+
+a) Analisar a conformidade do projecto de alteração da parceria com o disposto no n.º 1 do artigo 6.º e no artigo 7.º;
+
+b) Proceder à avaliação quantitativa dos encargos para o parceiro público ou para o Estado;
+
+c) Proceder à estimativa do impacte potencial dos riscos, directa ou indirectamente, afectos ao parceiro público;
+
+d) Fazer menção aos elementos indicados nas alíneas d), e) e g) do n.º 4 do artigo 10.º
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 14.º-B — Processo de alteração da parceria
+
+1 - Quando o órgão máximo do serviço do Estado ou o órgão de gestão, quando se trate de entidades com personalidade jurídica, considerar que o processo de alteração da parceria se encontra em condições de ser concluído, deve remeter aos Ministros das Finanças e da tutela sectorial o relatório a que se refere o n.º 1 do artigo anterior, acompanhado da minuta das alterações contratuais e de todos os elementos considerados relevantes.
+
+2 - A alteração da parceria deve ser precedida de um despacho conjunto dos Ministros das Finanças e da tutela sectorial, a emitir no prazo de 30 dias a contar da recepção do relatório da comissão de negociação, findo os quais se presume tacitamente emitido.
+
+3 - Emergindo novas situações susceptíveis de fundamentarem outra alteração à mesma parceria ou situações que fundamentem a reposição do equilíbrio financeiro do respectivo contrato, compete à comissão de negociação que se encontre em funções conduzir o respectivo processo.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 14.º-C — Equilíbrio financeiro e novas actividades
+
+1 - Pode haver lugar à reposição do equilíbrio financeiro do respectivo contrato quando ocorra uma alteração significativa das condições financeiras de desenvolvimento da parceria, nomeadamente nos casos de modificação unilateral, imposta pelo parceiro público, do conteúdo das obrigações contratuais do parceiro privado ou das condições essenciais de desenvolvimento da parceria.
+
+2 - O parceiro público tem direito à partilha equitativa com o parceiro privado dos benefícios financeiros que decorram para este do desenvolvimento da parceria, nomeadamente nos casos de melhoria das condições de financiamento da parceria por via da renegociação ou substituição dos contratos de financiamento.
+
+3 - Devem constar expressamente das peças do procedimento adjudicatório aplicável ou do título contratual os pressupostos em que há lugar à reposição do equilíbrio financeiro ou à partilha a favor do parceiro público de benefícios financeiros do desenvolvimento da parceria.
+
+4 - A aferição do equilíbrio financeiro da parceria tem em conta o modelo financeiro que constitui o respectivo caso-base, que deve ser anexo ao contrato de parceria e incluir todas as receitas do parceiro privado que sejam obtidas em resultado do desenvolvimento da parceria, incluindo as recebidas de terceiros ao abrigo de contratos de subconcessão ou cedência onerosa de espaços ou equipamentos para fins comerciais.
+
+5 - A reposição do equilíbrio financeiro ou a partilha a favor do parceiro público de benefícios financeiros são efectuadas nas seguintes modalidades:
+
+a) Alteração do prazo da parceria;
+
+b) Aumento ou redução de obrigações de natureza pecuniária;
+
+c) Atribuição de compensação directa;
+
+d) Combinação das modalidades anteriores ou qualquer outra forma que venha a ser acordada entre as partes.
+
+6 - Quando haja lugar à reposição do equilíbrio financeiro do contrato ou à partilha de benefícios entre o parceiro público e o parceiro privado, observa-se, com as necessárias adaptações, o procedimento de alteração da parceria previsto no n.º 2 do artigo 14.º e nos artigos 14.º-A e 14.º-B.
+
+7 - Quando o parceiro privado pretenda exercer actividades não previstas expressamente no contrato de parceria, a autorização das entidades que aprovaram a celebração do contrato de parceria não pode em caso algum ser emitida quando as propostas apresentadas não contenham a respectiva projecção económico-financeira e uma partilha da correspondente receita.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 14.º-D — Acréscimo de encargos
+
+1 - Sem prejuízo da observância do regime jurídico relativo à realização de despesas públicas, carece de despacho prévio de concordância dos Ministros das Finanças e da tutela sectorial, a emitir no prazo de 30 dias, findo o qual se presume tacitamente emitido, a realização, redução ou alteração de obras não previstas ou programadas em contrato de parceria já celebrado ou qualquer outra decisão susceptível de, no âmbito da execução do respectivo contrato e das condições aí fixadas, gerar um acréscimo dos encargos previstos para o parceiro público ou para o Estado, excepto se o respectivo valor não exceder, em termos acumulados anuais, (euro) 1000000.
+
+2 - Para efeitos do disposto no número anterior, o pedido apresentado pelo serviço ou entidade que representa o parceiro público na execução do contrato em causa deve ser acompanhado da respectiva fundamentação, do orçamento apresentado pelo parceiro privado e das condições de execução e de pagamento.
+
+3 - No caso de os ministros a que se refere o n.º 1 não aceitarem o orçamento apresentado, bem como as eventuais alterações que ao mesmo ocorram em função de um processo negocial, o parceiro público, obtido despacho de concordância daqueles ministros a emitir no prazo de 30 dias, findos os quais se presume tacitamente emitido, pode, unilateralmente e nos termos fixados no contrato ou na lei, tomar a decisão que acautele em melhores condições o interesse público.
+
+4 - Quando o serviço ou a entidade que representa o parceiro público na execução dos contratos de parcerias tomarem conhecimento de situações susceptíveis de gerarem encargos adicionais para o parceiro público ou para o Estado, designadamente os decorrentes de atrasos imputáveis a entidades públicas intervenientes no desenvolvimento do processo, devem, de imediato, comunicar tais factos aos Ministros das Finanças e da tutela sectorial, sempre que possível com indicação dos valores estimados envolvidos.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 14.º-E — Acompanhamento de processos arbitrais
+
+1 - Quando, nos termos de contrato de parceria já celebrado, seja requerida a constituição de um tribunal arbitral para a resolução de litígios entre as partes, o serviço ou entidade que representar o parceiro público no contrato de parceria deve comunicar imediatamente aos Ministros das Finanças e da tutela sectorial a ocorrência desse facto, fornecendo todos os elementos que se revelem úteis ao acompanhamento do processo.
+
+2 - Com vista ao acompanhamento do processo arbitral, os Ministros das Finanças e da tutela sectorial podem determinar, mediante despacho conjunto, a manutenção em funções da comissão de negociação anteriormente constituída em relação com o objecto do litígio.
+
+3 - Devem ser remetidas, periodicamente, à entidade directamente incumbida de proceder ao acompanhamento do respectivo processo arbitral, cópias dos actos processuais que sejam entretanto praticados por qualquer das partes e pelo tribunal, bem como dos pareceres técnicos e jurídicos e quaisquer outros elementos relevantes para a compreensão, desenvolvimento ou desfecho da lide.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+###### Artigo 14.º-F — Consultores externos
+
+1 - Sem prejuízo da observância do regime jurídico relativo à realização de despesas públicas, a decisão de contratar consultores para apoio no âmbito de processos de parcerias público-privadas deve identificar ou conter:
+
+a) As razões objectivas que justificam essa contratação e a correspondente delimitação, em termos claros e precisos, do âmbito de intervenção do consultor externo;
+
+b) Os encargos para o parceiro público ou para o Estado previsivelmente decorrentes dessa contratação e o seu cabimento orçamental;
+
+c) O procedimento a adoptar na selecção do consultor externo, nos termos da lei aplicável.
+
+2 - O consultor externo que venha a prestar serviços de consultoria ao parceiro público na preparação, avaliação, acompanhamento, renegociação ou outra intervenção referente a uma determinada parceria público-privada que lhe permita o acesso a informação não disponível publicamente fica impedido de prestar assessoria ao parceiro privado ou a qualquer entidade que se apresente como concorrente no âmbito dessa parceria.
+
+3 - A inobservância do disposto no número anterior é causa de exclusão do concorrente de qualquer procedimento tendente à adjudicação da parceria ou de cessação antecipada da mesma, por razões imputáveis ao parceiro privado, sem prejuízo da indemnização a que o parceiro público possa ter direito, nos termos legais ou contratuais aplicáveis.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/2006 - Diário da República n.º 144/2006, Série I de 2006-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2006-539230), em vigor a partir de 2006-08-01
+
+### Capítulo IV — Disposições finais
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 15.º — Delegação e subdelegação
+
+As competências atribuídas no presente diploma aos Ministros das Finanças e da tutela sectorial podem ser delegadas ou subdelegadas.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 16.º — Aplicação imediata
+
+O presente diploma aplica-se:
+
+a) A todas as parcerias público-privadas que ainda não tenham sido objecto do despacho referido no n.º 9 do artigo 8.º;
+
+b) Às renegociações, contratualmente previstas ou acordadas pelas partes, das parcerias já existentes, nos limites da disponibilidade negocial legalmente permitida.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 17.º — Alteração ao Decreto-Lei n.º 185/2002, de 20 de Agosto
+
+Os artigos 1.º, 12.º e 18.º do Decreto-Lei n.º 185/2002, de 20 de Agosto, passam a ter a redacção seguinte:
+
+«Artigo 1.º
+
+Âmbito
+
+O presente diploma define os princípios e os instrumentos para o estabelecimento de parcerias em saúde, em regime de gestão e financiamento privados, entre o Ministério da Saúde ou instituições e serviços integrados no Serviço Nacional de Saúde e outras entidades, nos termos do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 86/2003, de 26 de Abril.
+
+Artigo 12.º
+
+Competências do Ministro da Saúde
+
+1 - Compete ao Ministro da Saúde, com faculdade de delegação, a qual pode, por sua vez, ser subdelegada, o seguinte:
+
+a) Autorizar o lançamento da parceria;
+
+b) Escolher o co-contratante;
+
+c) Decidir sobre a conveniência de declarar sem efeito os procedimentos iniciados, bem como da não adjudicação do contrato de gestão aos concorrentes;
+
+d) Aprovar e autorizar a celebração dos contratos de gestão;
+
+e) Autorizar a introdução de modificações aos contratos de gestão;
+
+f) Declarar a utilidade pública das expropriações dos terrenos necessários à execução das actividades objecto do contrato de gestão e designar a entidade que, em nome do Estado, conduzirá a realização dos processos expropriativos dos bens ou direitos necessários à execução do contrato de gestão;
+
+g) Superintender no acompanhamento e fiscalização dos contratos de gestão, sem prejuízo das competências do Ministro das Finanças;
+
+h) Decidir sobre a aplicação de multas, o sequestro e a extinção do contrato de gestão.
+
+2 - O disposto nas alíneas a) a e) do número anterior, observa o regime previsto no Decreto-Lei n.º 86/2003, de 26 de Abril.
+
+Artigo 18.º
+
+Remuneração da entidade gestora
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Outra modalidade de pagamento a fixar no caderno de encargos específico.»
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 18.º — Norma revogatória
+
+É revogado o artigo 4.º do Decreto-Lei n.º 185/2002, de 20 de Agosto.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01
+
+Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira.
+
+Promulgado em 10 de Abril de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 14 de Abril de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01

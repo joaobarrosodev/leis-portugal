@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: pt:dre:295402:por
+title: Decreto-Lei n.º 46354
+short_title: null
+summary: Cria o Centro Nacional de Formação Turística e Hoteleira e define a sua finalidade
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho e Ministérios da Educação Nacional e das Corporações e Previdência Social
+proposing_entity: null
+official_number: '46354'
+official_date: null
+publication_date: '1965-05-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 117/1965, Série I de 1965-05-26
+  number: '117'
+  series: I
+  supplement: null
+  pages: 733 - 734
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/05/11700/07330734.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '295402'
+  dre_path: /dr/detalhe/decreto-lei/46354-1965-295402
+  internal: pt:dre:295402:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46354-1965-295402
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46354-1965-295402
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 40b00e9f42d73366d83a774d676c5a4e9602452a8d0dfad3e1d7f24a8310543e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:53:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Nacional de Formação Turística e Hoteleira
+- Criação de Serviços
+- Definição de Competências
+- Formação Profissional
+- Informação Turística
+- Ministério da Educação Nacional
+- Ministério das Corporações e Previdência Social
+- Orgânica
+- Presidência do Conselho
+- Turismo
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:53:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 46354
+
+Conhecido o valor económico, social e cultural do turismo e a sua crescente relevância na vida internacional; afirmadas as nossas aptidões e possibilidades de atracção turística; considerado o volume dos investimentos públicos e particulares já efectuados neste sector e ora reforçados pela sua inclusão no Plano Intercalar de Fomento para 1965-1967 e reconhecida a necessidade, em pleno crescimento, de se alargar, intensificar e aperfeiçoar a preparação dos profissionais do turismo e das actividades com ele mais directamente relacionadas, parece chegado o momento de o Estado, dando, aliás, satisfação ao que lhe vem sendo pedido, alargar a sua intervenção neste campo, suprindo carências, definindo directrizes e coordenando acções dispersas.
+
+Todos são concordes em afirmar que a escassez de mão-de-obra especializada nas actividades turísticas e hoteleira, e mormente nesta, constitui o seu mais importante e premente problema actual.
+
+Pelo que se refere em especial à hotelaria, foi mesmo já possível estimar o número de profissionais a formar, para satisfação das necessidades mínimas previsíveis até 1970, em mais de 7000, número que, em sua falibilidade, evidencia insofismàvelmente a necessidade e a urgência de se alargar e intensificar o ensino profissional hoteleiro, utilizando os meios tradicionais e recorrendo a novos métodos.
+
+Quanto às demais actividades com particular interesse para o turismo, as necessidades são sem dúvida muito menos volumosas e de mais fácil e menos onerosa satisfação, mas nem por isso podem ser descuradas, pois cada vez mais o turismo exige larga e adequada preparação.
+
+Exceptuadas algumas iniciativas particulares e a criação, em 1958, da Escola Hoteleira de Lisboa, de acção excessivamente limitada em relação às necessidades actuais e cuja manutenção, assim mesmo, só tem sido possível graças à assistência que lhe vem sendo concedida pelo Estado através do Fundo de Turismo, poucas, descontínuas e de reduzido alcance têm sido as iniciativas, quer individuais, quer dos organismos representativos do sector, no vasto campo da formação profissional turística e hoteleira.
+
+De harmonia com o exposto e tendo em atenção as circunstâncias em que a acção a desenvolver há-de exercer-se, o meio mais ajustado à satisfação das apontadas necessidades parece ser a criação, na dependência da Presidência do Conselho e dos Ministérios da Educação Nacional e das Corporações e Previdência Social, de um organismo especializado com o fim específico de promover, orientar e coordenar o ensino profissional turístico e hoteleiro e cooperar com os serviços competentes do Estado na formação de uma consciência geral favorável ao desenvolvimento do turismo, dotado dos meios financeiros indispensáveis à realização dos seus fins e constituído por representantes do Estado e dos organismos corporativos que integram o sector abrangido, assim chamados a colaborar no exercício de uma função que lhes é essencial e a que as actuais e referidas circunstâncias conferem primacial relevância.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º É criado o Centro Nacional de Formação Turística e Hoteleira, dotado de personalidade jurídica e autonomia administrativa e financeira.
+
+O Centro Nacional de Formação Turística e Hoteleira tem como fins especiais:
+
+a) Promover, orientar e coordenar o ensino profissional turístico e hoteleiro;
+
+b) Cooperar com os serviços competentes do Estado no estudo sistemático do fenómeno turístico e na formação de uma consciência geral favorável ao desenvolvimento do turismo.
+
+O Centro Nacional de Formação Turística e Hoteleira tem a sua sede em Lisboa e reger-se-á pelo presente decreto-lei e diplomas complementares.
+
+Art. 2.º Na prossecução dos seus fins, compete especialmente ao Centro Nacional de Formação Turística e Hoteleira:
+
+a) Promover, orientar e coordenar, sem prejuízo da competência dos órgãos próprios do Ministério da Educação Nacional, a formação e o ensino necessários ao exercício das profissões turísticas;
+
+b) Promover, em colaboração directa com o Fundo de Desenvolvimento da Mão-de-Obra, o ensino e aperfeiçoamento das profissões hoteleiras;
+
+c) Estimular, em estreita cooperação com os serviços oficiais competentes, órgãos locais de turismo e organismos corporativos integrantes do sector turístico e hoteleiro, o interesse geral, sobretudo das camadas mais novas da população, pelos assuntos de carácter turístico e pelo exercício das profissões turísticas e hoteleiras;
+
+d) Incentivar a difusão por todos os meios idóneos, e especialmente através da imprensa, da rádio, do cinema e da televisão, das informações e dos ensinamentos úteis ao desenvolvimento do turismo e ao aperfeiçoamento das actividades e profissões nele compreendidas ou afins;
+
+e) Organizar, em colaboração com os organismos corporativos directamente interessados, a realização de cursos livres, seminários e conferências dedicados ao estudo de assuntos de carácter turístico e hoteleiro;
+
+f) Estudar as motivações, características, tendências e preferências das correntes turísticas dominantes e dos respectivos mercados, na medida em que interessam à orientação da formação profissional, e organizar uma biblioteca e um gabinete de documentação especializados.
+
+Art. 3.º O Centro Nacional de Formação Turística e Hoteleira tem os seguintes órgãos:
+
+a) Conselho geral;
+
+b) Direcção;
+
+c) Conselho pedagógico.
+
+Art. 4.º Constituem receitas do Centro Nacional de Formação Turística e Hoteleira:
+
+a) As dotações anuais que lhe forem consignadas nos orçamentos do Fundo de Turismo e do Fundo de Desenvolvimento da Mão-de-Obra;
+
+b) A contribuição até 10 por cento da receita ordinária dos organismos corporativos patronais e 5 por cento da receita de igual natureza dos organismos sindicais que integram a secção de turismo e indústria hoteleira da Corporação dos Transportes e Turismo, a fixar por portaria da Presidência do Conselho e do Ministro das Corporações e Previdência Social;
+
+c) O rendimento de bens ou serviços explorados pelo Centro Nacional de Formação Turística e Hoteleira ou suas dependências no exercício das respectivas funções;
+
+d) Quaisquer dotações, comparticipações ou subsídios que lhe sejam atribuídos e aceites pelo conselho geral.
+
+§ único. A comparticipação prevista no número anterior, a cargo do Fundo de Desenvolvimento da Mão-de-Obra e dos organismos corporativos da indústria hoteleira, destina-se a ocorrer exclusivamente às actividades orientadas no sentido da formação profissional hoteleira.
+
+Art. 5.º As omissões ou dúvidas que surgirem na execução do presente decreto-lei e diplomas complementares serão resolvidas por despacho da Presidência do Conselho ou conjunto da Presidência do Conselho e do Ministro da Educação Nacional ou do Ministro das Corporações e Previdência Social, conforme os casos.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 26 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

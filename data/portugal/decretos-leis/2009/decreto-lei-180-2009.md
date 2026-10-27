@@ -1,0 +1,905 @@
+---
+schema_version: '1.0'
+id: pt:dre:494010:por
+title: Decreto-Lei n.º 180/2009
+short_title: null
+summary: Aprova o regime do Sistema Nacional de Informação Geográfica, transpondo para a ordem jurídica interna a Directiva
+  n.º 2007/2/CE, do Parlamento Europeu e do Conselho, de 14 de Março, que estabelece uma Infra-Estrutura de Informação Geográfica
+  na Comunidade Europeia (INSPIRE), e revoga o Decreto-Lei n.º 53/90, de 13 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 180/2009
+official_date: null
+publication_date: '2009-08-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/2009, Série I de 2009-08-07
+  number: '152'
+  series: I
+  supplement: null
+  pages: 5132 - 5139
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15200/0513205139.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-03-17'
+version_history:
+  file: decreto-lei-180-2009.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-08-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-26'
+    amending: pt:dre:67250268:por
+    amending_title: Decreto-Lei n.º 84/2015
+    changes:
+    - Altera Artigo 5.º
+  - date: '2017-03-17'
+    amending: pt:dre:106616122:por
+    amending_title: Decreto-Lei n.º 29/2017
+    changes:
+    - Adita Artigo 8.º-A
+    - Adita Artigo 12.º-A
+    - Adita Anexo I
+    - Adita Anexo II
+    - Adita Anexo III
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/180/2009/p/cons/20170316/pt/html
+  oj: null
+  dre: '494010'
+  dre_path: /dr/detalhe/decreto-lei/180-2009-494010
+  internal: pt:dre:494010:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2009-494010
+  metadata_url: https://data.dre.pt/eli/dec-lei/180/2009/p/cons/20170316/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-67267490
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-67267490
+  retrieved_at: '2026-10-22T11:59:30Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 0b1b1e3eebfd8a9acac3ed6fa5116e3724c36cbdc860355e6f6714f32e0db23a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:59:30Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-180-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Modernização Administrativa
+- Cartografia
+- Ordenamento do Território
+- Definição de Competências
+- Informação Geográfica
+- Sistema Nacional de Informação Geográfica
+- Regime Jurídico
+- Gestor de Dados
+- Instituto Geográfico Português
+- Perfil Nacional de Metadados
+- Registo Nacional de Dados Geográficos
+relationships:
+- type: amended_by
+  target: pt:dre:67250268:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2015-67250268
+  date: '2015-05-21'
+- type: amended_by
+  target: pt:dre:106616122:por
+  label: Adita Artigo 8.º-A; Adita Artigo 12.º-A; Adita Anexo I; Adita Anexo II; Adita Anexo III; Altera Artigo 2.º; Altera
+    Artigo 3.º; Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 13.º; Altera Artigo 17.º; Altera Artigo
+    19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122
+  date: '2017-03-16'
+- type: cites
+  target: celex:32000L0060
+  label: null
+  source: null
+- type: cites
+  target: celex:32007L0002
+  label: null
+  source: http://data.europa.eu/eli/dir/2007/2/oj
+- type: transposes
+  target: celex:32008L0056
+  label: null
+  source: null
+article_structure:
+  article_count: 30
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:59:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 180/2009
+
+Decreto-Lei n.º 180/2009
+
+de 7 de Agosto
+
+O elevado ritmo de transformação das sociedades modernas e a consequente necessidade de conhecimento e análise prospectiva da sua evolução trouxeram para o centro das preocupações actuais a valorização da informação. Hoje, em plena era da globalização, uma sociedade moderna reconhece-se por um modelo de desenvolvimento social e económico onde os processos de aquisição, armazenamento, processamento, distribuição e disseminação de informação conducentes à criação de conhecimento e à satisfação das necessidades dos cidadãos e das empresas, desempenham um papel central na actividade económica, na criação de riqueza e na qualidade de vida.
+
+Neste contexto, a existência e a divulgação de informação geográfica permitem um maior conhecimento do território, apoiando a sua preservação, valorização e desenvolvimento e suscitando o envolvimento mais activo dos cidadãos.
+
+O recurso à informação geográfica e às metodologias de análise espacial permite melhor compreender e explorar as relações existentes entre os vários factores que moldam os territórios. A informação geográfica e os modelos de análise espacial providenciam, de facto, uma capacidade de entendimento mais sólida e coerente, viabilizando tomadas de decisão quase em tempo real e que têm em conta a influência dos diversos factores territoriais.
+
+As infra-estruturas de informação geográfica, ao viabilizarem a rápida identificação e o acesso aos conjuntos e serviços de dados geográficos, representam uma importante mais-valia para a análise do território e para a modelação e monitorização dos fenómenos que nele ocorrem, apoiando a definição e aplicação de políticas de base territorial.
+
+Os primeiros projectos de criação de infra-estruturas de informação geográfica ganharam forma no final dos anos 80 do século passado, surgindo oficialmente na década seguinte.
+
+Portugal foi, e continua a ser, um País pioneiro neste sector.
+
+De facto, a infra-estrutura de informação geográfica nacional, o Sistema Nacional de Informação Geográfica (SNIG), foi criada há 18 anos através do Decreto-Lei n.º 53/90, de 13 de Fevereiro, tendo sido a primeira a ser desenvolvida na Europa e a primeira a ser disponibilizada na Internet, em 1995.
+
+Desde então, e sobretudo já nesta década, houve um substancial acréscimo de interesse por esta infra-estrutura, reconhecendo-se o papel vital que pode desempenhar no apoio à formulação, implementação e gestão de políticas e acções de âmbito territorial por parte dos agentes públicos e privados. É nesse contexto que se têm vindo a promover diversas iniciativas visando a reformulação do SNIG e a dinamização do mercado nacional de informação geográfica.
+
+Hoje, muito mais do que a representação cartográfica do espaço, importa a informação que sobre ele se consegue coligir, organizar, aceder e explorar, numa perspectiva pragmática e dinâmica. Mais do que simples repositórios de dados, é imprescindível poder mobilizar facilmente a informação existente, através das infra-estruturas da sociedade da informação e do conhecimento.
+
+Com efeito, a evolução registada no domínio das tecnologias de informação e comunicação permitiu ultrapassar grande parte dos problemas que inicialmente se colocaram, viabilizando, nomeadamente, a possibilidade de manipular de forma integrada informação geográfica proveniente de diferentes fontes.
+
+Abrem-se assim domínios de colaboração potenciadores de melhorias de resposta e de economias, designadamente na produção de informação estatística para monitorização de fenómenos dinâmicos, associados a aspectos tão distintos como os riscos naturais e tecnológicos, a criminalidade, as epidemias ou os factores ambientais.
+
+Neste sentido, o Parlamento Europeu e o Conselho aprovaram a Directiva n.º <a href="eurlex.asp?ano=2007&id=307L0002" title="Link para Directiva da Comunidade Europeia">2007/2/CE</a>, de 14 de Março, que estabelece a Infra-Estrutura de Informação Espacial na Comunidade Europeia (INSPIRE), em vigor desde 15 de Maio de 2007.
+
+De acordo com o estabelecido na Directiva INSPIRE, a infra-estrutura nacional de informação geográfica portuguesa e as outras infra-estruturas regionais e locais ou temáticas existentes ou que venham a ser estabelecidas no País devem garantir que:
+
+i) O armazenamento, a disponibilização e a manutenção de dados geográficos são efectuados aos níveis mais adequados;
+
+ii) A combinação coerente de dados geográficos de diversas fontes no País e em toda a União Europeia, partilhados por diferentes utilizadores e aplicações;
+
+iii) A partilha de dados entre autoridades públicas, independentemente do seu nível de administração;
+
+iv) A disponibilização de dados geográficos em condições que não restrinjam de forma indevida a sua utilização generalizada;
+
+v) A localização dos dados geográficos disponíveis, a avaliação da sua adequação para um determinado fim e o conhecimento das suas condições de utilização.
+
+Para além da infra-estrutura de informação geográfica de âmbito nacional e transversal, em Portugal materializada no SNIG, existem outras iniciativas de índole sectorial que importa articular e de que são exemplos projectos de âmbito nacional, como o Sistema Nacional de Informação de Recurso Hídricos (SNIRH) e o Sistema Nacional de Informação Territorial (SNIT), projectos de âmbito regional, com destaque para as infra-estruturas das Regiões Autónomas dos Açores e da Madeira, bem como um conjunto de iniciativas de base local suportadas pelos municípios.
+
+Um registo nacional de dados geográficos disponibilizado através do SNIG possibilitará a obtenção de informação e de respostas em tempo útil, com os correspondentes benefícios que essa capacidade trará à economia do País, a questões tão diversas como, por exemplo, o grau de cobertura cartográfica e o tipo de cartografia existente para uma determinada área, o seu grau de actualização, as escalas e os temas disponíveis, a sua natureza oficial, homologada ou outra, a identificação dos produtores e dos direitos de autor que sobre ela impendem, os custos associados a cada tema ou a sua disponibilização online.
+
+Acresce ainda que, sendo os encargos relacionados com a produção de informação geográfica elevados, os organismos públicos e privados que a produzem terão toda a vantagem em possuir informação fiável sobre a existência e qualidade dos produtos disponíveis, evitando-se assim, sempre que isso seja possível, duplicação de esforços e custos na produção de informação geográfica de raiz.
+
+Tendo presente o contexto actual, anteriormente descrito, e as necessidades da boa governança em matéria de informação geográfica, torna-se necessário promover a actualização do quadro legal do Sistema Nacional de Informação Geográfica, ajustando-o à realidade actual, adequando-o às imposições da Directiva INSPIRE e criando o Registo Nacional de Dados Geográficos.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses e os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei procede à revisão do Sistema Nacional de Informação Geográfica, transpondo para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=2007&id=307L0002" title="Link para Directiva da Comunidade Europeia">2007/2/CE</a>, do Parlamento Europeu e do Conselho, de 14 de Março, que estabelece uma Infra-Estrutura de Informação Geográfica na Comunidade Europeia (INSPIRE), e fixando as normas gerais para a constituição de infra-estruturas de informação geográfica em Portugal.
+
+2 - O presente decreto-lei cria o Registo Nacional de Dados Geográficos, integrado no Sistema Nacional de Informação Geográfica.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se:
+
+a) Às autoridades públicas portuguesas nele referidas;
+
+b) Às autoridades públicas portuguesas com responsabilidades na produção e disponibilização de informação geográfica.
+
+2 - São abrangidos os conjuntos de dados geográficos que satisfaçam as seguintes condições:
+
+a) Incidam sobre território ou águas sob soberania ou jurisdição nacional;
+
+b) Existam em formato electrónico;
+
+c) Sejam mantidos por um dos seguintes tipos de entidades ou por conta das mesmas:
+
+i) Autoridade pública;
+
+ii) Terceiro ao qual a rede tenha sido disponibilizada, nos termos do presente diploma;
+
+d) Respeitem às categorias temáticas enumeradas nos anexos I, II e III ao presente decreto-lei, do qual fazem parte integrante.
+
+3 - Incluem-se na subalínea i) da alínea c) do número anterior os dados que tenham sido fornecidos ou recebidos por autoridades públicas, ou que tenham sido geridos ou actualizados por essas autoridades, dentro do âmbito das respectivas atribuições.
+
+4 - Nos casos em que múltiplas cópias dos mesmos conjuntos de dados geográficos sejam conservadas por várias autoridades públicas, ou por conta das mesmas, o presente decreto-lei apenas se aplica à versão de referência da qual derivam as cópias.
+
+5 - São igualmente abrangidos os serviços de dados geográficos respeitantes aos elementos referidos no n.º 2.
+
+6 - Para efeitos do Registo Nacional de Dados Geográficos, é abrangida toda a produção de conjuntos de dados geográficos e de cartografia identificados no presente diploma.
+
+7 - Complementarmente podem ser disponibilizados através do SNIG outros conjuntos e serviços de dados geográficos, desde que obedeçam às disposições de execução.
+
+8 - O disposto no presente decreto-lei não afecta a existência ou a detenção de direitos de propriedade intelectual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+###### Artigo 3.º — Conceitos
+
+1 - Para os efeitos do presente decreto-lei, entende-se por:
+
+a) «Autoridade pública»:
+
+i) Os órgãos da Administração Pública nacional, regional ou local, incluindo órgãos consultivos;
+
+ii) Qualquer pessoa singular ou colectiva que exerça funções administrativas públicas nos termos da lei, incluindo deveres, actividades ou serviços específicos relacionados com o ambiente;
+
+iii) Qualquer pessoa singular ou colectiva que tenha responsabilidades ou exerça funções públicas, ou que preste serviços públicos relacionados com o ambiente, sob o controlo de um órgão ou de uma pessoa abrangidos pela subalínea i) ou ii);
+
+b) «Cartografia hidrográfica» a cartografia que tem por objecto a representação gráfica da morfologia e da natureza do fundo das zonas imersas e da região emersa adjacente;
+
+c) «Cartografia homologada» a cartografia topográfica, topográfica de imagem e hidrográfica produzida pelas entidades a que se refere o artigo 8.º do Decreto-Lei n.º 193/95, de 28 de julho, alterado e republicado pelo Decreto-Lei n.º 141/2014, de 19 de setembro, que estabelece os princípios e as normas a que deve obedecer a produção cartográfica no território nacional, desde que tenha sido reconhecida como tendo cumprido as especificações técnicas que sustentaram a sua produção;
+
+d) «Cartografia oficial» toda a cartografia produzida nos termos do disposto no artigo 2.º do Decreto-Lei n.º 193/95, de 28 de julho, alterado e republicado pelo Decreto-Lei n.º 141/2014, de 19 de setembro;
+
+e) «Cartografia temática», a cartografia específica que representa fenómenos localizáveis de qualquer natureza, quantitativos ou qualitativos, sobre uma base cartográfica oficial ou homologada;
+
+f) «Cartografia topográfica», a cartografia de finalidade múltipla representando, na forma analógica ou digital, os acidentes naturais e artificiais, de acordo com exigências de conteúdo, posicionamento e escalas de reprodução;
+
+g) «Conjunto de dados geográficos» uma colecção identificável de dados geográficos;
+
+h) «Dados geográficos» os dados com uma referência directa ou indirecta a uma localização ou zona geográfica específica;
+
+i) «Geoportal» um sítio na Internet ou equivalente, que dá acesso aos serviços de dados geográficos das autoridades públicas;
+
+j) «Infra-estrutura de informação geográfica» os metadados e conjuntos e serviços de dados geográficos, os serviços e tecnologias em rede, os acordos em matéria de partilha, acesso e utilização, e os mecanismos, processos e procedimentos de coordenação e acompanhamento estabelecidos, explorados ou disponibilizados nos termos do presente decreto-lei;
+
+l) «Interoperabilidade» a possibilidade de os conjuntos de dados geográficos serem combinados e de os serviços interagirem, sem intervenção manual repetitiva, de tal forma que o resultado seja coerente e o valor acrescentado dos conjuntos e serviços de dados seja reforçado;
+
+m) «Metadados» as informações que descrevem conjuntos e serviços de dados geográficos e que permitem pesquisá-los, inventariá-los e utilizá-los;
+
+n) «Objecto geográfico» a representação abstracta de um fenómeno real relacionado com uma localização ou zona geográfica específica;
+
+o) «Serviços de dados geográficos» as operações que podem ser efectuadas, utilizando uma aplicação informática, com os dados geográficos contidos em conjuntos de dados geográficos ou com os metadados correspondentes;
+
+p) «Terceiro» qualquer pessoa singular ou colectiva que não seja uma autoridade pública.
+
+2 - Os órgãos ou instituições que actuarem no exercício de poderes judiciais ou legislativos não são considerados autoridade pública para os efeitos do presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+### Capítulo II — Regime do Sistema Nacional de Informação Geográfica
+
+###### Artigo 4.º — Sistema Nacional de Informação Geográfica
+
+1 - O Sistema Nacional de Informação Geográfica (SNIG) é uma infra-estrutura de âmbito nacional, com funcionamento em rede, que tem por objectivo proporcionar o acesso aos metadados e a conjuntos e serviços de dados geográficos produzidos ou mantidos pelas autoridades públicas ou por sua conta.
+
+2 - A coordenação estratégica do SNIG é assegurada por um Conselho de Orientação do SNIG.
+
+3 - Compete ao Instituto Geográfico Português (IGP) a constituição, o desenvolvimento, a manutenção e a coordenação operacional do SNIG.
+
+4 - Integram o SNIG todas as autoridades públicas produtoras e fornecedoras de conjuntos e serviços de dados geográficos.
+
+5 - O SNIG é aberto a terceiros e utilizadores que a podem integrar mediante requerimento dirigido ao IGP.
+
+###### Artigo 5.º — Conselho de Orientação do SNIG
+
+1 - Compete ao Conselho de Orientação do SNIG:
+
+a) Aprovar as orientações estratégicas e os objectivos gerais do SNIG;
+
+b) Zelar para que se conceda às autoridades públicas a possibilidade técnica de cruzar os seus conjuntos e serviços de dados geográficos na Internet;
+
+c) Promover a boa articulação entre os membros da rede do SNIG, apreciar e pronunciar-se sobre eventuais situações de divergência de interesses;
+
+d) Garantir a articulação do SNIG com outras infraestruturas de informação geográfica, existentes ou que venham a ser estabelecidas, de natureza temática ou âmbito nacional, regional ou local;
+
+e) Aprovar a programação dos trabalhos que permitam a constituição e operacionalidade efectiva do SNIG, bem como os correspondentes planos de financiamento e a participação de cada serviço integrado nos custos;
+
+f) Dar parecer sobre as normas técnicas nacionais em matéria de informação geográfica;
+
+g) Dar parecer sobre a fixação das taxas pela partilha de dados propostas pelas autoridades públicas envolvidas;
+
+h) Emitir os pareceres que lhe sejam solicitados no âmbito do presente decreto-lei.
+
+2 - Integram o Conselho de Orientação do SNIG as seguintes autoridades públicas:
+
+a) Direção-Geral do Território, que preside;
+
+b) Agência Portuguesa do Ambiente, I. P.;
+
+c) Associação Nacional de Municípios Portugueses;
+
+d) Revogada;
+
+e) Autoridade Nacional de Protecção Civil;
+
+f) Revogada;
+
+g) Instituto da Conservação da Natureza e da Biodiversidade, I. P.;
+
+h) Centro de Informação Geoespacial do Exército;
+
+i) Instituto Hidrográfico;
+
+j) Revogada;
+
+k) [Revogada];
+
+l) Instituto Nacional de Estatística, I. P.;
+
+m) Laboratório Nacional de Energia e Geologia, I. P.;
+
+n) Instituto Português do Mar e da Atmosfera, I. P.;
+
+o) Direção-Geral de Agricultura e Desenvolvimento Rural;
+
+p) Direção-Geral do Tesouro e Finanças;
+
+q) Instituto de Financiamento da Agricultura e Pescas, I. P.;
+
+r) Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos;
+
+s) Administração Central do Sistema de Saúde, I. P.;
+
+t) Autoridade Nacional de Aviação Civil;
+
+u) Autoridade Tributária e Aduaneira;
+
+v) Direção-Geral de Estatísticas da Educação e Ciência;
+
+w) Direção-Geral de Energia e Geologia;
+
+x) Direção-Geral do Património Cultural;
+
+y) Direção-Geral da Saúde;
+
+z) Gabinete de Estratégia e Planeamento;
+
+aa) Infraestruturas de Portugal, S. A.;
+
+bb) Instituto da Mobilidade e dos Transportes, I. P.;
+
+cc) Instituto da Vinha e do Vinho, I. P.;
+
+dd) Instituto dos Registos e do Notariado, I. P.;
+
+ee) Instituto Nacional de Emergência Médica, I. P.;
+
+ff) Instituto Nacional de Investigação Agrária e Veterinária, I. P.;
+
+gg) Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P.;
+
+hh) Navegação Aérea de Portugal;
+
+ii) Comissões de Coordenação e Desenvolvimento Regional;
+
+jj) Serviço regional responsável pelas atividades de cartografia e de informação geográfica na Região Autónoma da Madeira;
+
+kk) Serviço regional responsável pelas atividades de cartografia e de informação geográfica na Região Autónoma dos Açores.
+
+ll) Outras autoridades públicas portuguesas da administração central direta e indireta do Estado com responsabilidades na produção e disponibilização de informação geográfica, mediante despacho do membro do Governo responsável pela área do ordenamento do território.
+
+3 - Por convite do presidente do conselho de orientação do SNIG, e sempre que tal se justifique em função da ordem de trabalhos, podem ainda participar no Conselho, sem direito a voto, outros organismos públicos ou entidades de reconhecido mérito.
+
+4 - Os representantes das entidades que integram o conselho de orientação do SNIG não têm, pelo exercício destas funções, direito a receber qualquer tipo de remuneração ou abono.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2015-67250268), em vigor a partir de 2015-05-26
+
+###### Artigo 6.º — Competências do IGP
+
+Compete ao IGP, enquanto entidade responsável pela constituição, desenvolvimento e manutenção do SNIG:
+
+a) Presidir ao Conselho de Orientação do SNIG;
+
+b) Propor ao Conselho de Orientação do SNIG as acções a desenvolver pelas autoridades públicas integradas no SNIG, para os efeitos do presente decreto-lei, a programação dos trabalhos e os planos de financiamento que permitam a constituição e operacionalidade efectiva do SNIG, e, sempre que necessário, o estabelecimento de protocolos específicos de colaboração;
+
+c) Actuar como ponto de contacto com a Comissão Europeia, de acordo com o previsto no n.º 2 do artigo 19.º da Directiva n.º <a href="eurlex.asp?ano=2007&id=307L0002" title="Link para Directiva da Comunidade Europeia">2007/2/CE</a>, do Parlamento Europeu e do Conselho, de 14 de Março, que estabelece uma Infra-Estrutura de Informação Geográfica na Comunidade Europeia (INSPIRE).
+
+###### Artigo 7.º — Geoportal do SNIG
+
+1 - O geoportal do SNIG, gerido pelo IGP, deve assegurar a possibilidade de pesquisar, visualizar, explorar e descarregar dados geográficos sobre o território nacional, numa perspectiva de partilha e acesso a dados distribuídos.
+
+2 - Para assegurar a interoperabilidade entre os sistemas integrados no SNIG e entre estes e os utilizadores externos, as soluções tecnológicas aplicadas devem cumprir as normas nacionais em matéria de informação geográfica, as disposições de execução aprovadas para o efeito por regulamento comunitário, as especificações técnicas emanadas pelo Open Geospatial Consortium (OGC) e ainda as normas ISO da série 19100.
+
+3 - O geoportal do SNIG deve viabilizar o acesso aos serviços referidos no n.º 1 do artigo 11.º da Directiva n.º <a href="eurlex.asp?ano=2007&id=307L0002" title="Link para Directiva da Comunidade Europeia">2007/2/CE</a>, do Parlamento Europeu e do Conselho, de 14 de Março, que estabelece uma Infra-Estrutura de Informação Geográfica na Comunidade Europeia (INSPIRE), através do geoportal INSPIRE.
+
+4 - O geoportal do SNIG deve conter informações actualizadas sobre o processo de evolução da implementação e regulamentação da Directiva n.º <a href="eurlex.asp?ano=2007&id=307L0002" title="Link para Directiva da Comunidade Europeia">2007/2/CE</a>, do Parlamento Europeu e do Conselho, de 14 de Março, que estabelece uma Infra-Estrutura de Informação Geográfica na Comunidade Europeia (INSPIRE) e ligações para o seu sítio.
+
+###### Artigo 8.º — Regulamentação do funcionamento do SNIG e outras infra-estruturas de informação geográfica
+
+1 - O funcionamento do SNIG deve obedecer às disposições de execução aprovadas para o efeito por regulamento comunitário, nos termos da Directiva n.º <a href="eurlex.asp?ano=2007&id=307L0002" title="Link para Directiva da Comunidade Europeia">2007/2/CE</a>, do Parlamento Europeu e do Conselho, de 14 de Março, que estabelece uma Infra-Estrutura de Informação Geográfica na Comunidade Europeia (INSPIRE).
+
+2 - As disposições de execução referidas no número anterior abrangem a definição dos aspetos técnicos da interoperabilidade e, se exequível, da harmonização dos conjuntos e serviços de dados geográficos e, ainda, a classificação de objetos geográficos pertinentes para os conjuntos de dados geográficos relacionados com as categorias temáticas enumeradas nos anexos I, II e III ao presente decreto-lei.
+
+3 - As disposições de execução referidas no n.º 1 aplicam-se igualmente a outras infra-estruturas de informação geográfica de âmbito nacional e natureza temática ou de âmbito regional e local.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+###### Artigo 8.º-A — Articulação do Sistema Nacional de Informação Geográfica com outras infraestruturas de informação geográfica
+
+1 - A constituição, o desenvolvimento, a manutenção e a coordenação de infraestruturas de informação geográfica temáticas, regionais e locais devem ser realizados de forma articulada com o SNIG.
+
+2 - As autoridades públicas com responsabilidade na produção de conjuntos e serviços de dados geográficos de temas abrangidos por uma infraestrutura de informação geográfica temática asseguram o registo destes conjuntos e serviços de dados geográficos nessa infraestrutura.
+
+3 - As autoridades públicas com caráter ou área de atuação de âmbito regional ou local que tenham responsabilidade na produção de conjuntos e serviços de dados geográficos asseguram o registo desta informação nas infraestruturas de informação geográfica regionais ou locais respetivas, caso existam.
+
+4 - O cumprimento das obrigações definidas na Diretiva n.º 2007/2/CE do Parlamento Europeu e do Conselho, de 14 de março, que estabelece a Infraestrutura de Informação Geográfica da Comunidade Europeia (INSPIRE), é assegurado mediante a observância dos procedimentos enunciados nos números anteriores.
+
+5 - Em caso de dúvida na aplicação do disposto nos números anteriores, deve ser solicitado um parecer técnico ao Conselho de Orientação do SNIG, o qual possui caráter vinculativo.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+### Capítulo III — Regime do Registo Nacional de Dados Geográficos
+
+###### Artigo 9.º — Registo Nacional de Dados Geográficos
+
+1 - O Registo Nacional de Dados Geográficos tem por função elencar e dar a conhecer a produção de conjuntos de dados geográficos e cartográfica abrangida pelo presente decreto-lei, através dos respectivos metadados.
+
+2 - O Registo Nacional de Dados Geográficos é constituído e mantido pelo IGP.
+
+3 - O acesso ao Registo Nacional de Dados Geográficos é efectuado através do SNIG.
+
+###### Artigo 10.º — Âmbito do Registo Nacional de Dados Geográficos
+
+1 - São obrigatoriamente inscritas no Registo Nacional de Dados Geográficos:
+
+a) A produção de conjuntos de dados geográficos das autoridades públicas;
+
+b) A produção de cartografia oficial topográfica e temática;
+
+c) A produção de cartografia homologada topográfica e temática.
+
+2 - Os conjuntos de dados geográficos e a cartografia oficial cujo acesso possa comprometer as relações internacionais, a segurança pública ou a defesa nacional podem não ser inscritos no Registo Nacional de Dados Geográficos.
+
+3 - Pode ser inscrita no Registo Nacional de Dados Geográficos a produção privada de conjuntos de dados geográficos e de cartografia para fins privados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+###### Artigo 11.º — Inscrição no Registo Nacional de Dados Geográficos
+
+1 - É competência da entidade detentora dos direitos de propriedade intelectual dos conjuntos de dados geográficos e da cartografia a respectiva inscrição no Registo Nacional de Dados Geográficos.
+
+2 - A inscrição no Registo Nacional de Dados Geográficos deve ser efectuada até 30 dias após:
+
+a) A data de referência, para os conjuntos de dados geográficos e a cartografia abrangidos pelas alíneas a) e b) do n.º 1 do artigo anterior;
+
+b) A data de homologação, para a cartografia abrangida pela alínea c) do n.º 1 do artigo anterior.
+
+### Capítulo IV — Metadados
+
+###### Artigo 12.º — Gestor de Metadados
+
+1 - As autoridades públicas devem designar um Gestor de Metadados e proceder à sua inscrição no geoportal do SNIG.
+
+2 - Nos casos previstos no n.º 3 do artigo 10.º, as entidades privadas devem igualmente designar um Gestor de Metadados e proceder à sua inscrição no geoportal do SNIG.
+
+###### Artigo 12.º-A — Características dos metadados
+
+1 - A Administração Pública assegura a criação e a atualização de metadados para os conjuntos e serviços de dados geográficos referentes às categorias temáticas constantes dos anexos I, II e III ao presente decreto-lei.
+
+2 - Os metadados devem estar de acordo com o Perfil Nacional de Metadados, a que se refere o artigo 14.º, incluindo, designadamente, informação sobre:
+
+a) A conformidade dos conjuntos de dados geográficos com as disposições europeias de execução, nos termos e para os efeitos do disposto no artigo 8.º;
+
+b) As condições que regulam o acesso e a utilização dos conjuntos e serviços de dados geográficos, bem como, se aplicável, as taxas e preços públicos correspondentes;
+
+c) A qualidade e a validação dos conjuntos de dados geográficos;
+
+d) As entidades ou organismos públicos responsáveis pelos estabelecimento, gestão, manutenção e distribuição de conjuntos e serviços interoperáveis de dados geográficos, bem como as entidades que atuem em nome destes ou outras pessoas singulares ou coletivas;
+
+e) As restrições ao acesso do público e os seus fundamentos, nos termos do disposto no artigo 20.º;
+
+f) Um resumo descritivo do conteúdo dos conjuntos e serviços de dados geográficos, incluindo a informação relativa às suas fontes e meios de produção;
+
+g) Informação sobre o sistema de referência e a localização de âmbito geográfico à qual se reporta o conjunto e serviço de dados;
+
+h) As temáticas principais a que se referem os conjuntos e serviços de dados geográficos.
+
+3 - As autoridades responsáveis adotam as medidas necessárias para garantir que os metadados são completos, facilmente pesquisáveis e possuem qualidade suficiente e adequada.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+###### Artigo 13.º — Criação e publicação de metadados
+
+1 - Compete ao Gestor de Metadados de cada entidade zelar pela criação e publicação dos metadados referentes aos conjuntos e serviços de dados geográficos, em conformidade com as disposições de execução da Directiva n.º <a href="eurlex.asp?ano=2007&id=307L0002" title="Link para Directiva da Comunidade Europeia">2007/2/CE</`�, do Parlamento Europeu e do Conselho, de 14 de Março, que estabelece uma Infra-Estrutura de Informação Geográfica na Comunidade Europeia (INSPIRE), previstas no artigo 8.º
+
+2 - (Revogado.)
+
+3 - Para o efeito do disposto nos números anteriores, o IGP disponibiliza, pública e gratuitamente, um Editor de Metadados contendo fichas estruturadas em conformidade com o Perfil Nacional de Metadados.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+###### Artigo 14.º — Perfil Nacional de Metadados
+
+1 - O Perfil Nacional de Metadados é constituído por um conjunto de metadados de carácter obrigatório e outro de natureza opcional e complementar.
+
+2 - Compete ao IGP a actualização do Perfil Nacional de Metadados, de acordo com as disposições de execução referidas no n.º 1 do artigo 8.º
+
+3 - O IGP, através do Editor de Metadados, faculta o acesso a fichas de metadados estruturadas de acordo com o Perfil Nacional de Metadados.
+
+### Capítulo V — Serviços de dados geográficos
+
+###### Artigo 15.º — Rede de serviços de dados geográficos
+
+1 - Para efeitos de suporte à operacionalização do SNIG, é constituída uma rede de serviços que englobe os conjuntos e serviços de dados geográficos em relação aos quais tenham sido criados metadados.
+
+2 - A rede de serviços referida no número anterior deve proporcionar aos utilizadores o acesso aos seguintes serviços:
+
+a) Serviços de pesquisa, que permitam procurar conjuntos e serviços de dados geográficos com base no conteúdo dos correspondentes metadados e visualizar o conteúdo dos metadados;
+
+b) Serviços de visualização, que permitam, no mínimo, visualizar, navegar, aumentar e reduzir a escala de visualização, deslocar ou sobrepor conjuntos visualizáveis de dados geográficos e visualizar informação contida em legendas e qualquer conteúdo relevante dos metadados;
+
+c) Serviços de descarregamento, que permitam descarregar e, se exequível, aceder directamente a cópias integrais ou parciais de conjuntos de dados geográficos;
+
+d) Serviços de transformação, que permitam transformar conjuntos de dados geográficos, tendo em vista garantir a interoperabilidade;
+
+e) Serviços que permitam chamar serviços de dados geográficos.
+
+3 - Os serviços de pesquisa previstos na alínea a) do número anterior devem permitir a aplicação da seguinte combinação de critérios:
+
+a) Autoridades públicas responsáveis pelo estabelecimento, gestão, manutenção e distribuição de conjuntos e serviços de dados geográficos;
+
+b) Classificação dos dados e serviços geográficos;
+
+c) Condições de acesso e utilização aplicáveis aos conjuntos e serviços de dados geográficos;
+
+d) Grau de conformidade com as disposições de execução referidas no n.º 1 do artigo 8.º;
+
+e) Localização geográfica;
+
+f) Palavras-chave;
+
+g) Qualidade e validade dos conjuntos ou dados geográficos.
+
+4 - Os serviços de transformação referidos na alínea d) do n.º 1 devem garantir que os serviços previstos funcionem de acordo com as disposições de execução previstas no n.º 1 do artigo 8.º
+
+5 - As autoridades públicas devem estabelecer e gerir uma rede de serviços dos dados geográficos que são da sua responsabilidade, garantindo a criação de metadados para esses dados e serviços.
+
+###### Artigo 16.º — Interoperabilidade dos serviços de dados geográficos
+
+1 - As autoridades públicas devem assegurar a possibilidade técnica de ligar os seus conjuntos e serviços de dados geográficos à rede referida no n.º 1 do artigo anterior.
+
+2 - Os serviços referidos no número anterior devem ser igualmente disponibilizados, quando solicitado, a terceiros cujos conjuntos e serviços de dados geográficos cumpram as disposições de execução que regulem, designadamente, os metadados, os serviços de rede e a interoperabilidade.
+
+3 - Em caso de incumprimento do disposto nos números anteriores, o IGP notifica as autoridades públicas em causa para a resolução dos problemas detectados.
+
+### Capítulo VI — Acesso e partilha de conjuntos e de serviços de dados geográficos
+
+###### Artigo 17.º — Acesso aos serviços de dados geográficos
+
+1 - O acesso aos serviços de dados geográficos realiza-se através da Internet ou por qualquer outro meio de telecomunicação adequado, devendo ser de fácil utilização e ter em consideração os requisitos dos utilizadores.
+
+2 - O acesso aos serviços é público, não estando sujeito a quaisquer restrições, sem prejuízo do disposto no artigo 20.º
+
+3 - As entidades responsáveis devem identificar e garantir as características técnicas que permitem a interoperabilidade de outras infraestruturas de informação geográfica com o SNIG.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+###### Artigo 18.º — Condições de acesso aos serviços de dados geográficos
+
+1 - As autoridades públicas devem assegurar que os serviços referidos nas alíneas a) e b) do n.º 1 do artigo 15.º sejam colocados gratuitamente à disposição do público.
+
+2 - Sem prejuízo do disposto no número anterior, uma autoridade pública que forneça serviços referidos na alínea b) do n.º 1 do artigo 15.º pode cobrar taxas caso as mesmas assegurem a manutenção de conjuntos de dados geográficos ou dos correspondentes serviços, especialmente em casos que envolvam grande volume de dados frequentemente actualizados.
+
+3 - Os dados disponibilizados através dos serviços de visualização referidos na alínea b) do n.º 1 do artigo 15.º podem ser apresentados numa forma que impeça a sua reutilização para fins comerciais.
+
+4 - Se as autoridades públicas, ou entidades que actuem em nome destas, cobrarem taxas pelos serviços referidos nas alíneas b), c) ou e) do n.º 1 do artigo 15.º, devem assegurar a disponibilidade de serviços de comércio electrónico.
+
+5 - Os serviços referidos no número anterior podem ser cobertos por declarações de exoneração de responsabilidade, licenças por clique ou, se necessário, licenças comuns.
+
+###### Artigo 19.º — Disponibilização de conjuntos e serviços de dados geográficos
+
+1 - As autoridades públicas com responsabilidade na produção e disponibilização de informação geográfica devem assegurar que todos os conjuntos de dados geográficos recentemente coligidos e largamente reestruturados, bem como os serviços de dados geográficos correspondentes, estejam disponíveis em conformidade com as disposições de execução referidas no artigo 8.º no prazo de dois anos a contar da aprovação destas.
+
+2 - As autoridades públicas com responsabilidade na produção e disponibilização de informação geográfica devem assegurar que os restantes conjuntos e serviços de dados geográficos ainda em vigor estejam disponíveis em conformidade com as disposições de execução referidas no artigo 8.º no prazo de sete anos a contar da aprovação destas.
+
+3 - Os conjuntos de dados geográficos devem ser disponibilizados em conformidade com as disposições de execução quer através da adaptação dos conjuntos de dados geográficos existentes, quer através dos serviços de transformação fornecidos pelas autoridades públicas.
+
+4 - De forma a garantir a coerência dos conjuntos e serviços de dados geográficos quando estes envolvam objetos geográficos que transponham a fronteira terrestre entre Portugal e Espanha, ou respeitem a águas marinhas que sejam limítrofes com espaços marítimos internacionais sob jurisdição ou soberania de outros Estados, as entidades responsáveis pela sua produção procedem à identificação dos elementos comuns e elaboram uma proposta de harmonização que, após validação pelo Conselho de Orientação do SNIG, constitui a base do acordo de cooperação a celebrar entre os países envolvidos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+###### Artigo 20.º — Limitações de acesso público aos conjuntos e serviços de dados geográficos
+
+1 - Sem prejuízo do disposto no n.º 1 do artigo anterior, as autoridades públicas podem restringir o acesso do público aos conjuntos e serviços de dados geográficos através dos serviços referidos na alínea a) do n.º 1 do artigo 15.º, caso tal acesso possa prejudicar as relações internacionais, a segurança pública ou a defesa nacional.
+
+2 - Sem prejuízo do disposto no n.º 1 do artigo anterior, as autoridades públicas podem restringir o acesso do público aos conjuntos e serviços de dados geográficos através dos serviços referidos nas alíneas b) a e) do n.º 1 do artigo 15.º, ou aos serviços de comércio electrónico referidos no n.º 4 do artigo 18.º, caso tal acesso possa prejudicar algum dos seguintes aspectos:
+
+a) A confidencialidade, legalmente prevista, dos procedimentos das autoridades públicas;
+
+b) As relações internacionais, a segurança pública ou a defesa nacional;
+
+c) O funcionamento da justiça, o direito a um julgamento equitativo ou a possibilidade de as autoridades públicas realizarem inquéritos de natureza criminal ou disciplinar;
+
+d) A confidencialidade de informações comerciais ou industriais, prevista no direito de origem nacional ou comunitária para proteger um interesse económico legítimo, incluindo o interesse público em manter a confidencialidade estatística e o segredo fiscal;
+
+e) Os direitos de propriedade intelectual;
+
+f) A confidencialidade de dados pessoais ou ficheiros relativos a uma pessoa singular, excepto se esta consentir a divulgação da informação, caso tal confidencialidade esteja prevista no direito de origem nacional ou comunitária;
+
+g) Os interesses ou a protecção de qualquer pessoa que tenha prestado voluntariamente a informação solicitada sem estar sujeita à obrigação legal de a prestar, excepto se esta consentir a divulgação da informação em causa;
+
+h) A protecção dos bens ambientais a que essa informação diz respeito, por exemplo, a localização de espécies raras.
+
+3 - As razões para limitar o acesso do público previstas no número anterior devem ser interpretadas de forma restritiva, tendo em conta, em cada caso concreto, o interesse público defendido pela divulgação dos dados e a ponderação entre esse interesse e o interesse defendido pela restrição ou pelo condicionamento do acesso.
+
+4 - As autoridades públicas não podem, ao abrigo das alíneas a), d), f), g) e h) do n.º 2, restringir o acesso à informação sobre emissões para o ambiente.
+
+5 - Para efeitos da aplicação da alínea f) do n.º 2, as autoridades públicas devem assegurar o cumprimento dos requisitos estabelecidos na Lei de Protecção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de Outubro.
+
+###### Artigo 21.º — Partilha de conjuntos e serviços de dados geográficos entre autoridades públicas
+
+1 - As autoridades públicas referidas nas alíneas a) e b) do n.º 1 do artigo 3.º devem partilhar os conjuntos e serviços de dados geográficos abrangidos pelo estipulado no n.º 2 do artigo 2.º numa base de reciprocidade e sem custos, através de protocolos celebrados entre elas ou de acordos estabelecidos no âmbito do Conselho de Orientação do SNIG.
+
+2 - Não podem ser colocadas restrições susceptíveis de criar obstáculos à utilização e à partilha entre autoridades públicas de conjuntos e serviços de dados geográficos.
+
+3 - Excepcionalmente, as autoridades públicas que fornecem conjuntos e serviços de dados geográficos podem conceder licenças de exploração dos mesmos e podem exigir o pagamento de preço correspondente às autoridades públicas ou instituições ou órgãos da Comunidade Europeia que utilizem tais conjuntos e serviços.
+
+4 - Os preços e as licenças referidos no número anterior devem ser inteiramente compatíveis com o objectivo geral de facilitar a partilha de conjuntos e serviços de dados geográficos entre autoridades públicas.
+
+5 - O valor dos referidos preços deve corresponder ao mínimo necessário para assegurar a qualidade e o fornecimento de conjuntos e serviços de dados geográficos com uma rendibilidade razoável, respeitando embora, se for caso disso, as necessidades de auto-financiamento das autoridades públicas que os fornecem.
+
+6 - A fixação das taxas é sujeita a parecer obrigatório do Conselho de Orientação do SNIG.
+
+###### Artigo 22.º — Partilha de conjuntos e serviços de dados geográficos com instituições e órgãos da Comunidade
+
+1 - As autoridades públicas responsáveis por conjuntos ou serviços de dados geográficos abrangidos pelo n.º 2 do artigo 2.º devem facultar às instituições e órgãos da Comunidade Europeia o acesso em condições harmonizadas, de acordo com as disposições de execução.
+
+2 - Sem prejuízo do disposto no número anterior, as autoridades públicas podem limitar a partilha quando tal possa comprometer o funcionamento da justiça, as relações internacionais, a segurança pública ou a defesa nacional.
+
+3 - Os conjuntos e serviços de dados geográficos fornecidos pelos Estados membros a instituições ou órgãos comunitários para cumprimento de obrigações de informação impostas pela legislação ambiental comunitária não estão sujeitos a pagamento de qualquer preço ou taxa.
+
+###### Artigo 23.º — Partilha de conjuntos e serviços de dados geográficos com instituições e órgãos dos outros Estados membros
+
+1 - São elegíveis para acesso ao disposto no artigo 21.º as autoridades públicas de outros Estados membros que se enquadrem nas alíneas a) e b) do n.º 1 do artigo 3.º, para efeitos de serviços susceptíveis de terem impacte ambiental.
+
+2 - São elegíveis para acesso ao disposto no artigo 21.º, numa base de reciprocidade e equivalência, os organismos instituídos por acordos internacionais em que sejam partes a Comunidade Europeia e os Estados membros, para efeitos de serviços susceptíveis de terem impacte ambiental.
+
+3 - Sem prejuízo do disposto no número anterior, as autoridades públicas podem limitar a partilha quando tal possa comprometer o funcionamento da justiça, as relações internacionais, a segurança pública ou a defesa nacional.
+
+### Capítulo VII — Disposições finais e transitórias
+
+###### Artigo 24.º — Monitorização e relatórios da infra-estrutura nacional de informação geográfica e das autoridades públicas
+
+1 - No sentido de viabilizar o acompanhamento da aplicação e utilização das infra-estruturas de informação geográfica e a disponibilização dos resultados desse acompanhamento à Comissão Europeia e ao público de forma permanente, as autoridades públicas devem fornecer numa base regular ao IGP a informação necessária para descrever:
+
+a) A forma como são coordenados os fornecedores e utilizadores do sector público e os organismos intermediários de conjuntos e serviços de dados geográficos, bem como as relações com terceiros e a forma como a qualidade dos dados é assegurada;
+
+b) Contributos das autoridades públicas ou terceiros para o funcionamento e a coordenação da infra-estrutura de informação geográfica;
+
+c) Informações sobre a utilização da infra-estrutura de informação geográfica;
+
+d) Acordos de partilha de dados entre autoridades públicas;
+
+e) Custos e benefícios da aplicação do presente decreto-lei.
+
+2 - Para efeitos do disposto no número anterior, o IGP notifica as autoridades públicas com 30 dias de antecedência em relação à data de entrega dos dados e disponibiliza modelos de resposta em conformidade com as disposições de execução da Directiva n.º <a href="eurlex.asp?ano=2007&id=307L0002" title="Link para Directiva da Comunidade Europeia">2007/2/CE</a>, do Parlamento Europeu e do Conselho, de 14 de Março, que estabelece uma Infra-Estrutura de Informação Geográfica na Comunidade Europeia (INSPIRE), referidas no artigo 8.º
+
+3 - O IGP compila e envia à Comissão Europeia um relatório, de três em três anos, contendo informações actualizadas relativas aos elementos referidos no n.º 1 e de acordo com as disposições de execução da Directiva n.º <a href="eurlex.asp?ano=2007&id=307L0002" title="Link para Directiva da Comunidade Europeia">2007/2/CE</a>, do Parlamento Europeu e do Conselho, de 14 de Março, que estabelece uma Infra-Estrutura de Informação Geográfica na Comunidade Europeia (INSPIRE), referidas no artigo 8.º
+
+###### Artigo 25.º — Alteração ao Decreto-Lei n.º 193/95, de 28 de Julho
+
+O artigo 3.º do Decreto-Lei n.º 193/95, de 28 de Julho, alterado pelos Decretos-Leis n.os 52/96, de 18 de Maio, 59/2002, de 15 de Março, e 202/2007, de 25 de Maio, passa a ter a seguinte redacção:
+
+«Artigo 3.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Compete ao IGP assegurar a publicação das listagens referidas no presente artigo no Sistema Nacional de Informação Geográfica.
+
+5 - As entidades, os serviços públicos e as entidades concessionárias apenas podem utilizar cartografia oficial inscrita no Registo Nacional de Dados Geográficos ou, na ausência desta, cartografia homologada, igualmente inscrita no Registo Nacional de Dados Geográficos.»
+
+###### Artigo 26.º — Regime transitório
+
+1 - A designação pelas autoridades públicas de um Gestor de Metadados e a sua inscrição no geoportal do SNIG, prevista no n.º 1 do artigo 12.º, deve ocorrer no prazo de 60 dias após entrada em vigor do presente decreto-lei.
+
+2 - O prazo de três anos para o envio de relatório do IGP à Comissão Europeia nos termos do n.º 3 do artigo 24.º tem início em 15 de Maio de 2010.
+
+###### Artigo 27.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 53/90, de 13 de Fevereiro.
+
+###### Artigo 28.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 5 de Junho de 2009. - Fernando Teixeira dos Santos - João Titterington Gomes Cravinho - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - João António da Costa Mira Gomes - Rui Carlos Pereira - João Manuel Machado Ferrão - António José de Castro Guerra - Jaime de Jesus Lopes Silva.
+
+Promulgado em 28 de Julho de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 30 de Julho de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — [a que se referem a alínea d) do n.º 2 do artigo 2.º, o n.º 2 do artigo 8.º e o n.º 1 do artigo 12.º-A]
+
+Categorias temáticas de dados geográficos a que se refere o Anexo I da Diretiva INSPIRE
+
+1 - Sistemas de referência
+
+Sistemas para referenciar inequivocamente a informação geográfica no espaço sob a forma de um conjunto de coordenadas (x, y, z) e/ou latitude e longitude e altitude, com base num datum geodésico horizontal e vertical.
+
+2 - Sistemas de quadrículas geográficas
+
+Quadrícula harmonizada multirresolução com um ponto de origem comum e localização e dimensão normalizadas das células.
+
+3 - Toponímia
+
+Denominações das zonas, regiões, localidades, cidades, subúrbios, vilas, aldeias ou povoações, ou de qualquer característica geográfica ou topográfica de interesse público ou histórico.
+
+4 - Unidades administrativas
+
+Unidades administrativas, zonas de divisão sobre as quais Portugal possui ou exerce direitos de soberania ou detém a jurisdição, para efeitos de governação ao nível local, regional, nacional e internacional.
+
+5 - Endereços
+
+Localização de propriedades com base em identificadores de endereço, em regra, o nome da rua, o número de polícia e o código postal.
+
+6 - Parcelas cadastrais
+
+Áreas definidas por registos cadastrais ou equivalentes.
+
+7 - Redes de transporte
+
+Redes de transporte rodoviário, ferroviário, aéreo, marítimo e fluvial, e respetivas infraestruturas, incluindo as ligações entre as diferentes redes, bem como a rede transeuropeia de transportes definida na Decisão n.º 1692/96/CE do Parlamento Europeu e do Conselho, de 23 de julho de 1996, sobre as orientações comunitárias para o desenvolvimento da rede transeuropeia de transportes e as futuras revisões dessa decisão.
+
+8 - Hidrografia
+
+Elementos hidrográficos, incluindo as zonas marinhas e todas as outras massas de água e elementos com eles relacionados, as bacias e sub-bacias hidrográficas e as águas marinhas nacionais, nos termos do artigo 2.º do Decreto-Lei n.º 108/2010, de 13 de outubro, que transpõe a Diretiva 2008/56/CE do Parlamento Europeu e do Conselho, de 17 de junho de 2008, que estabelece o quadro de ação comunitária no domínio da política para o Meio Marinho (Diretiva Quadro Estratégia Marinha). Estes elementos, quando adequado, são apresentados sob a forma de redes e de acordo com as definições da Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de outubro de 2000, que estabelece um quadro de ação comunitária no domínio da política da água, e da Lei n.º 58/2005, de 29 de dezembro, que aprova a Lei da Água e transpõe aquela diretiva para o direito interno, alterada e republicada pelo Decreto-Lei n.º 130/2012, de 22 de junho.
+
+9 - Sítios protegidos
+
+Zonas designadas ou geridas no âmbito de legislação internacional, europeia, nacional ou regional para a prossecução de objetivos específicos de gestão e de conservação, incluindo as áreas protegidas no solo e subsolo marinho e na coluna e superfície de água.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+## Anexo II — [a que se referem a alínea d) do n.º 2 do artigo 2.º, o n.º 2 do artigo 8.º e o n.º 1 do artigo 12.º-A]
+
+Categorias temáticas de dados geográficos a que se refere o Anexo II da Diretiva INSPIRE
+
+1 - Altitude
+
+Modelos digitais de elevação aplicáveis às superfícies terrestre, gelada e oceânica, incluindo a elevação terrestre, batimetria e os relativos às zonas costeiras.
+
+2 - Ocupação do solo
+
+Ocupação física e biológica da superfície terrestre, incluindo superfícies artificiais, zonas agrícolas, florestas, zonas naturais ou seminaturais, zonas húmidas e massas de água.
+
+3 - Ortoimagens
+
+Imagens georreferenciadas da superfície terrestre recolhidas por satélite ou sensores aéreos.
+
+4 - Geologia
+
+Geologia caracterizada de acordo com a composição e a estrutura, incluindo o substrato rochoso e sedimentar, os aquíferos e a geomorfologia.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17
+
+## Anexo III — [a que se referem a alínea d) do n.º 2 do artigo 2.º, o n.º 2 do artigo 8.º e o n.º 1 do artigo 12.º-A]
+
+Categorias temáticas de dados geográficos a que se refere o Anexo III da Diretiva INSPIRE
+
+1 - Unidades estatísticas
+
+Unidades para fins de divulgação ou utilização da informação estatística.
+
+2 - Edifícios
+
+Localização geográfica dos edifícios.
+
+3 - Solo
+
+Solo e subsolo, em meio terrestre e marinho, caracterizado de acordo com a profundidade, textura, estrutura e conteúdo em termos de partículas e matéria orgânica, pedregosidade, erosão, eventualmente declive médio e capacidade estimada de armazenamento de água.
+
+4 - Uso do solo
+
+Caracterização do território de acordo com a dimensão funcional ou finalidade socioeconómica planeada, presente e futura (por exemplo, residencial, industrial, comercial, agrícola, silvícola, recreativa).
+
+5 - Saúde humana e segurança
+
+Distribuição geográfica da frequência de patologias (doenças infeciosas, doenças não transmissíveis, outras doenças em geral incluindo as doenças raras, alergias, cancros, doenças respiratórias, doenças gastrointestinais, etc.), informações que indiquem o efeito da qualidade do ambiente e de outros determinantes da saúde (biomarcadores, declínio da fertilidade, surtos e epidemias) ou sobre o bem-estar dos seres humanos (fadiga, tensão, stress, etc.) de forma direta (poluição do ar, produtos químicos, empobrecimento da camada de ozono, ruído, radiações, como a ultravioleta ou as radiações ionizantes, etc.) ou indireta (vetores de doenças infeciosas, como as zoonoses, alimentação, organismos geneticamente modificados, etc.), e ainda informações acerca da distribuição de problemas de saúde relacionados com causas externas, como acidentes e violência).
+
+6 - Serviços de utilidade pública
+
+Instalações e serviços de utilidade pública, como redes de esgotos, gestão de resíduos, fornecimento de energia, abastecimento de água, serviços administrativos e sociais do Estado, tais como administrações públicas, instalações da proteção civil, escolas e hospitais.
+
+7 - Instalações de monitorização ambiental
+
+A localização e funcionamento de instalações de monitorização ambiental incluem a observação e medição de emissões, do estado das diferentes componentes ambientais e de outros parâmetros dos ecossistemas (biodiversidade, condições ecológicas da vegetação, etc.) pelas autoridades públicas ou por conta destas.
+
+8 - Instalações industriais e de produção
+
+Locais de produção industrial, incluindo instalações abrangidas pelo regime de licenciamento ambiental e instalações de captação de água, minas e locais de armazenagem.
+
+9 - Instalações agrícolas e aquícolas
+
+Equipamento e instalações de explorações agrícolas e de estabelecimento de culturas marinhas e conexos (aquicultura, salinas), incluindo sistemas de irrigação, estufas, viveiros e estábulos.
+
+10 - Distribuição da população - demografia
+
+Distribuição geográfica da população, incluindo características demográficas e níveis de atividade, agregada por quadrícula, região, unidade administrativa ou outra unidade analítica.
+
+11 - Zonas de gestão/restrição/regulamentação e unidades de referência
+
+Zonas geridas, regulamentadas ou utilizadas para o reporte a nível internacional, europeu, nacional, regional e local. Compreende aterros, zonas de proteção de nascentes de água potável, zonas vulneráveis aos nitratos, vias navegáveis regulamentadas no mar ou em águas interiores de grandes dimensões, zonas de descarga de resíduos, zonas de ruído condicionado, zonas autorizadas para efeitos de prospeção e extração mineira, regiões hidrográficas, unidades de reporte pertinentes e zonas abrangidas pela gestão das zonas costeiras.
+
+12 - Zonas de risco natural
+
+Zonas sensíveis, caracterizadas de acordo com os riscos naturais (todos os fenómenos atmosféricos, hidrológicos, sísmicos, vulcânicos e os incêndios que, pela sua localização, gravidade e frequência, possam afetar gravemente a sociedade), como sejam inundações, deslizamentos de terras e subsidências, avalanches, incêndios florestais, sismos, erupções vulcânicas e outros fenómenos.
+
+13 - Condições atmosféricas
+
+Condições físicas da atmosfera. Inclui dados geográficos baseados em medições, em modelos ou numa combinação de ambos, bem como os locais de medição.
+
+14 - Características geometeorológicas
+
+Condições atmosféricas e sua medição: precipitação, temperatura, evapotranspiração, velocidade e direção do vento.
+
+15 - Características oceanográficas
+
+Condições físicas dos oceanos (correntes, salinidade, altura das ondas, etc.).
+
+16 - Regiões marinhas
+
+As regiões e sub-regiões marinhas são determinadas tendo em conta as características hidrológicas, oceanográficas e biogeográficas e são identificadas no artigo 4.º da Diretiva 2008/56/CE do Parlamento Europeu e do Conselho, de 17 de junho, que estabelece um quadro de ação comunitária no domínio da política para o Meio Marinho (Diretiva Quadro Estratégia Marinha).
+
+17 - Regiões biogeográficas
+
+Zonas de condições ecológicas relativamente homogéneas com características comuns.
+
+18 - Habitats e biótopos
+
+Zonas geográficas caracterizadas por condições ecológicas, processos, estrutura e funções (de apoio às necessidades básicas) específicos que constituem o suporte físico dos organismos que nelas vivem. Inclui zonas terrestres e aquáticas, naturais ou seminaturais, diferenciadas pelas suas características geográficas, abióticas e bióticas.
+
+19 - Distribuição das espécies
+
+Distribuição geográfica da ocorrência de espécies animais e vegetais agregadas por quadrícula, região, unidade administrativa ou outra unidade analítica.
+
+20 - Recursos energéticos
+
+Recursos energéticos, incluindo os de hidrocarbonetos, hidroelétricos, de bioenergias, de energia solar, eólica, etc., incluindo, quando pertinente, informação sobre as cotas de profundidade/altura do recurso.
+
+21 - Recursos minerais
+
+Recursos minerais, incluindo minérios metálicos, minerais industriais, etc., abrangendo, quando pertinente, informação sobre as cotas de profundidade/altura do recurso.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 29/2017 - Diário da República n.º 54/2017, Série I de 2017-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2017-106616122), em vigor a partir de 2017-03-17

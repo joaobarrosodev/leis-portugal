@@ -1,0 +1,263 @@
+---
+schema_version: '1.0'
+id: pt:dre:1906274:por
+title: Portaria n.º 228/2011
+short_title: null
+summary: Admissão de cadetes candidatos à Escola Naval
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Marinha - Gabinete do Chefe do Estado-Maior da Armada
+proposing_entity: null
+official_number: 228/2011
+official_date: null
+publication_date: '2011-01-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/2011, Série II de 2011-01-19
+  number: '13'
+  series: II
+  supplement: null
+  pages: 3868 - 3869
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/01/013000000/0386803869.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1906274'
+  dre_path: /dr/detalhe/portaria/228-2011-1906274
+  internal: pt:dre:1906274:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-1906274
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-1906274
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:29:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0e4a6e9ed1a3e4c4d52a15af688d115123454f512657f1d74a9ac093a10a4220
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:29:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:219141:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:29:51Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 228/2011
+
+Ao abrigo do artigo 8.º do Decreto-Lei n.º 233/09, de 15 de Setembro, manda o Chefe do Estado-Maior da Armada:
+
+1.º De harmonia com o preceituado no artigo 187.º do Regulamento da Escola Naval ([Portaria n.º 471/86](https://diariodarepublica.pt/dr/detalhe/portaria/471-1986-219141) de 28 de Agosto) admitir, em 8 de Outubro de 2010, como cadetes do curso "Vice-Almirante José Mendes Cabeçadas Júnior" os cadetes candidatos a seguir mencionados os quais foram classificados conforme o estabelecido no artigo 188.º do Regulamento acima referido pela ordem seguinte:
+
+Marinha
+
+1 - Martim Correia Lico, NII 20210.
+
+2 - Mariana Sofia Melo de Almeida, NII 20310.
+
+3 - Rudi Gonçalves Pires, NII 20410.
+
+4 - Manuel Ken Itami Gamito, NII 20510.
+
+5 - José Miguel Esteves Dias da Cruz, NII 20610.
+
+6 - Pedro Cristiano Soares de Sousa, NII 20710.
+
+7 - David José da Rocha Marques, NII 20810.
+
+8 - Francisco de Albuquerque Marcão Ramos do Nascimento, NII 20910.
+
+9 - João Luís de Jesus Marques Antunes Pires, NII 21010.
+
+10 - Mário Nuno Fernandes Cabo, NII 21110.
+
+11 - Filipe José Martins Metelo, NII 21410.
+
+12 - Gonçalo Filipe Queiroz Marques de Magalhães, NII 21510.
+
+13 - Rui Gonçalo Ferreira de Almeida Santos, NII 21710.
+
+14 - João Diogo Mendes Martins, NII 21810.
+
+15 - José Emídio da Silva Vicente, NII 22010.
+
+16 - André Filipe Quendera Maurício, NII 22410.
+
+17 - Francisco Miguel Gaspar de Chaves, NII 22510.
+
+18 - Pedro Jorge da Silva Guerreiro, NII 22810.
+
+19 - Emanuel da Costa Dias, 1 GR OP RC, NII 9335308.
+
+20 - Ricardo Nuno Farinha Mira, NII 22910.
+
+21 - Miguel Paulo Zacarias de Mendonça, NII 23010.
+
+22 - Pedro Miguel Oliveira Gonçalves, NII 23110.
+
+23 - Gaspar dos Santos, NII 23410.
+
+24 - Rui Ferreira Maia de Sousa, NII 23510.
+
+25 - Joana Canas Costa, NII 23610.
+
+26 - Gonçalo Aguiar Miranda Ferreira da Cunha, NII 23710.
+
+27 - Diogo Nuno de Carvalho Vieira, NII 23810.
+
+28 - Frederico Araújo Abreu Fidalgo de Oliveira, NII 23910.
+
+29 - Diogo Francisco Freire Correia, NII 24110.
+
+30 - João Pedro Rodrigues Barata, NII 24210.
+
+31 - Mara Ramos Reis, NII 24310.
+
+32 - Ana Rita Bonito Cotrim Dias, NII 24410.
+
+33 - Tiago Capítulo Aleixo, NII 24510.
+
+34 - Pedro Miguel Vaz Dias Fona, NII 24610.
+
+35 - Ruben Gabriel Esteves Rodrigues de Carvalho, NII 24810.
+
+36 - Gonçalo Rodrigues Lopes, NII 24910.
+
+37 - João Paulo Serafim Lobato, NII 25110.
+
+38 - Pedro Ribeiro Silveira, NII 25310.
+
+39 - Cláudia Sofia Mourão Bastos, NII 25410.
+
+40 - Rui Filipe Carmo dos Santos, NII 25510.
+
+41 - João Pedro Soares Vilão, NII 25610.
+
+42 - Alexandre Luís da Silva Ribeiro Nunes, NII 25710.
+
+43 - Yazide Abdul Carimo Sulemane, NII 25810.
+
+44 - Sara Helena de Jesus Graça Barata, NII 25910.
+
+45 - Rodrigo Miguel Castanheiro Antunes, NII 26010.
+
+46 - Diogo Emereciano da Conceição, NII 26110.
+
+47 - Ricardo Alexandre Clemente Pires Lopes Correia, NII 26210.
+
+48 - Tiago André Gorgulho Arvelos, ASPOF FZ RC, NII 9602409.
+
+49 - Miguel Ângelo Nogueira Oehen, 2 SAG MQ QP 93, NII 17003.
+
+50 - Flávio André de Macedo Carvalho, NII 26310.
+
+Administração Naval
+
+1 - Tamara Santos Pessoa, 1 GR L RC, NII 9331508.
+
+2 - Miguel de Jesus Luís, NII 21610.
+
+3 - Isaías José Cadima Duarte, NII 21910.
+
+4 - Roberto Covita Ascensão, NII 22110.
+
+5 - Sara Alexandra Morais Magalhães, NII 22310.
+
+6 - Nuno Francisco dos Santos Fernandes, NII 23210.
+
+Engenheiros navais
+
+1 - Pedro Emanuel Queirós da Silva Marques, NII 22210 - EN-AEL.
+
+2 - Bruno Filipe Paiva Ferreira, NII 22710 - EN-MEC.
+
+3 - João Alexandre Narciso Gaivota, NII 23310 - EN-MEC.
+
+4 - João Vasco Peguicha dos Mártires Paulino, NII 24710 - EN-MEC.
+
+5 - Tiago Ventura Viegas, NII 25010 - EN-AEL.
+
+6 - Ricardo José Cardoso da Silva, NII 25210 - EN-MEC.
+
+7 - Luis Carlos Cézar Meneses, NII 26410 - EN-AEL.
+
+8 - Miguel José Costa e Nora Lopes Nunes, NII 26510 - EN-MEC.
+
+9 - Tiago Leonel Marques Carmona Afonso Pires, NII 26610 - EN-MEC.
+
+10 - Tiago Miguel Augusto Ferreira, NII 26710 - EN-AEL.
+
+11 - Cláudio André Sampaio do Rosário, NII 26810 - EN-AEL.
+
+12 - Manuel Maria Lança Rodrigues Temudo e Melo, NII 26910 - EN-MEC.
+
+Fuzileiros
+
+1 - Tiago Miguel Fonseca Paiva de Sousa Teles, NII 20110.
+
+2 - Guilherme Filipe Bonito Courela, NII 21210.
+
+3 - Francisco Miguel Costa Rocha, NII 21310.
+
+2.º Adoptar como patrono para os referidos cursos, de acordo com o disposto no artigo 178.º do Regulamento da Escola Naval, o "Vice-Almirante José Mendes Cabeçadas Júnior":
+
+José Mendes Cabeçadas Júnior nasceu a 19 de Agosto de 1883 em Loulé. Ingressou na Escola Naval em Outubro de 1903, como aspirante de Marinha, concluindo o curso em 1908, sendo promovido a guarda-marinha em Abril desse ano. De imediato embarcou na canhoneira "Diu", que integrou a Divisão Naval do Índico em Maio, e aí prestou serviço até Dezembro de 1909. Regressado a Lisboa, em Janeiro de 1910, foi colocado no cruzador "D. Carlos", a que se seguiram a fragata "D. Fernando II e Glória, e os cruzadores "Adamastor" e S. Rafael". Foi neste último que fez o necessário exame de 2.º tenente, ascendendo a esse posto em Setembro do mesmo ano.
+
+Cerca de um mês depois teriam lugar os acontecimentos revolucionários que culminaram com a proclamação da República a 5 de Outubro, e a acção do então tenente Mendes Cabeçadas seria decisiva.
+
+Os fumos da revolução sentiam-se há vários dias, com toda a guarnição de Lisboa de prevenção e os três mais poderosos cruzadores da Marinha fundeados no Tejo. O desencadear das operações devia ocorrer na noite de 3 para 4 de Outubro, e o sinal da revolta seria dado por uma salva da artilharia de um dos navios. Assim aconteceu a bordo do "Adamastor", sublevado por Mendes Cabeçadas na madrugada do dia 4. Foi sob o seu comando que o navio desceu o Tejo até Alcântara, de onde bombardeou o Palácio das Necessidades e embarcou pessoal do Quartel de Marinheiros, que foi conduzido ao Terreiro do Paço, com o objectivo de atacar as instalações do Arsenal e abrir uma nova frente contra as forças monárquicas, instaladas no Rossio. A atitude decidida e a forma como conduziu as operações mereceram-lhe a promoção por distinção ao posto de capitão-tenente.
+
+Foi eleito deputado em 1911, voltando a exercer esse cargo político de 1915 a 17 e em 1921. Continuou, contudo, a sua carreira militar, como oficial, primeiro, do "S. Rafael" e, depois, do "S. Gabriel" até concluir o "serviço de mar", em Dezembro de 1913. Seguiu-se uma longa comissão de serviço no Departamento Marítimo do Sul, exercendo o cargo de Capitão do Porto de Vila Real de Santo António durante cerca de cinco anos, com uma breve interrupção de funções entre Dezembro de 1917 e Fevereiro de 1918, enquanto assumiu a responsabilidade de Governador Civil de Faro. Foi promovido a capitão-de-fragata em Agosto de 1917 e a capitão de mar-e-guerra em Agosto de 1925, época em que desempenhou o cargo de comandante da Escola de Alunos Marinheiros do Sul e prestou serviço na Direcção de Hidrografia, Navegação e Meteorologia Náutica.
+
+A degradação da situação política nacional, sobretudo no rescaldo da participação na Primeira Grande Guerra, motiva-o para um crescente empenho na reforma do regime republicano, que culmina numa pertinaz oposição ao radicalismo do Partido Democrático. São essas as razões que o levaram a envolver-se nas revoltas militares de 18 de Abril e 19 de Julho de 1925, sem sucesso, e na revolução de 28 de Maio de 1926, que derrubou o regime. O pronunciamento militar começou em Braga, comandado por Gomes da Costa, mas assumiu vertentes múltiplas e por todo o país, que consubstanciam diversos desagrados sobre a situação da República. Mendes Cabeçadas representava um grupo republicano liberal reformador que tinha a vantagem de estar em Lisboa e prestígio suficiente para assumir a liderança da revolução. Era, acima de tudo, uma esperança para a manutenção do sistema republicano vigente, e isso levou a que o deposto Bernardino Machado lhe legasse as funções constitucionais de Presidente da República. Porém, a evolução da situação político-militar não lhe seria favorável e, a 17 de Junho, foi afastado pelos sectores mais conservadores representados no movimento.
+
+Não voltaria a desempenhar cargos de natureza política, mas a Marinha iria ainda beneficiar das suas capacidades e competências no processo de renovação, começado no final da década de 20, que culmina com o estabelecimento do Arsenal e da Base Naval na margem sul do Tejo. Desempenhou as funções de Superintendente dos Serviços da Marinha em 1928, a que se seguiram os cargos de Intendente do Arsenal de Marinha e de Presidente da Junta Autónoma das Obras do novo Arsenal do Alfeite. Promovido a contra-almirante em 1930, foi o primeiro Intendente do Arsenal do Alfeite, nomeado em 1933. E, com o posto de vice-almirante a que ascendera em Abril de 1937, viria a ser Intendente da Marinha do Alfeite e Presidente da Comissão Administrativa da Base Naval de Lisboa.
+
+Mantendo um pensamento livre e irreverente, facilmente se incompatibilizou com o regime emergente do 28 de Maio e, sobretudo, com a consolidação do Estado Novo. Logo em 1930 esteve ligado à criação da frente oposicionista, denominada por Aliança Republicana Socialista, cujo objectivo era apresentar-se em plebiscito frente à recém-criada União Nacional. Em 1955 integrou as listas da Oposição Democrática, nas eleições para a Assembleia Nacional e, em 1958, fez parte da Comissão de Honra da candidatura de Humberto Delgado à Presidência da República. Lutador inconformado, foi o único oficial da Armada atingido pela vaga de saneamentos políticos que se seguiram à II Guerra Mundial, obrigado a uma reforma compulsiva em 1947.
+
+O vice-almirante Mendes Cabeçadas foi agraciado, em 1926, com o grau de Oficial da Ordem Militar da Torre e Espada, ocupando o cargo de vogal do conselho da referida Ordem entre 1946 e 1953, data em que foi exonerado a seu pedido. Faleceu em Lisboa a 11 de Junho de 1965.
+
+06-01-2011. - O Chefe do Estado-Maior da Armada, José Carlos Torrado Saldanha Lopes, almirante.
+
+204204372

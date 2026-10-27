@@ -1,0 +1,845 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003R0091:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003R0091-20180522",
+ "dre_path": null,
+ "source_lastmod": "2018-05-22",
+ "versions": [
+  {
+   "date": "2003-01-21",
+   "future": false,
+   "celex": "32003R0091",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "53be6c56107053a2",
+    "6d6ca2e76fab2166",
+    "59565225fe20cc33",
+    "61aeef7f79bd5e92",
+    "0fb85611ba601671",
+    "8a1a74f4539c5266",
+    "aa7ea231ecb4697e",
+    "bb9daae1fb14cfb8",
+    "c4a8d50036d716f6",
+    "ec709711db0d21c2",
+    "918ff1fbecf6743f",
+    "3f0fb1cdb649a47e",
+    "af8d9e7d56183c50",
+    "2b4fddb9a4e44add",
+    "1ae48914cd7f7baa",
+    "e543a7fb82270848",
+    "cabe1d7602fd6a0e",
+    "4be887c99ddc9ee7",
+    "48192f0984374f70",
+    "f56711a7b360b9cf",
+    "f74b716766b6aff9",
+    "0e4df36aa20ffedb",
+    "8ff7285f3be1c427",
+    "03bd0558fbc02baf",
+    "01beb9059eefa60d"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "celex": "02003R0091-20080101",
+   "acts": [
+    {
+     "id": "eu:celex:32003R1192:por",
+     "title": "REGULAMENTO (CE) N. o 1192/2003 DA COMISSÃO de 3 de Julho de 2003",
+     "published": null,
+     "celex": "32003R1192"
+    },
+    {
+     "id": "eu:celex:32007R1304:por",
+     "title": "REGULAMENTO (CE) N. o 1304/2007 DA COMISSÃO de 7 de Novembro de 2007",
+     "published": null,
+     "celex": "32007R1304"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 13.º — Entrada em vigor",
+    "Adita ANEXO A",
+    "Adita ANEXO B",
+    "Adita ANEXO C",
+    "Adita ANEXO D",
+    "Adita ANEXO E",
+    "Adita ANEXO F",
+    "Adita ANEXO G",
+    "Adita ANEXO H",
+    "Adita ANEXO I",
+    "Adita ANEXO J",
+    "Adita NST 2007",
+    "Adita ANEXO K",
+    "Adita CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+    "Adita Notas",
+    "Suprime ANEXO A — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO DETALHADA",
+    "Suprime ANEXO B — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO SIMPLIFICADA",
+    "Suprime ANEXO C — ESTATÍSTICAS ANUAIS SPBRE TRANSPORTE DE PASSEIROS - DECLARAÇÃO DECLARADA",
+    "Suprime ANEXO D — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTE DE PASSAGEIRO - DECLARAÇÃO SIMPLIFICADA",
+    "Suprime ANEXO E — ESTATÍSTICAS TRIMESTRAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS",
+    "Suprime ANEXO F — ESTATÍSTICAS REGIONAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS",
+    "Suprime ANEXO G — ESTATÍSTICAS SOBRE FLUXOS DE TRÁFEGO NA REDE FERROVIÁRIA",
+    "Suprime ANEXO H — ESTATÍSTICAS SOBRE ACIDENTES",
+    "Suprime ANEXO I — LISTA DE EMPRESAS DE TRANSPORTE FERROVIÁRIO",
+    "Suprime ANEXO J — NOMENCLATURA DE MERCADORIAS",
+    "Suprime ANEXO K — CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS"
+   ],
+   "fragments": [
+    "a3f0e268d2142d41",
+    "6d6ca2e76fab2166",
+    "59565225fe20cc33",
+    "e308ec760295d8f6",
+    "ebffc04d97033e89",
+    "db30dbdd2fffd12f",
+    "d6e17e8361ef10ee",
+    "4c3f9b95168479cb",
+    "c4a8d50036d716f6",
+    "ddc464e8068103c8",
+    "72b6d2e5a8e73f7e",
+    "9197727b9879f531",
+    "af8d9e7d56183c50",
+    "c4f8ff1141eeae1f",
+    "0c775c346d6c54a2",
+    "acea8eb8e5c7a4f6",
+    "a941d7f8b29f9824",
+    "8fe955d32fd91def",
+    "d5f52a662ad49a44",
+    "78c94fd5d36d5d14",
+    "6fdbfdb8bf9f6daa",
+    "06249191ea0941f0",
+    "71711de12a0fbf6d",
+    "21fb6480d1a7eb5a",
+    "f73635fd9ca8b9a6",
+    "6b77e7afeab84e0f",
+    "b3c5232fabf945e0",
+    "20f5c81e17f69ec5"
+   ]
+  },
+  {
+   "date": "2009-04-20",
+   "future": false,
+   "celex": "02003R0091-20090420",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0219:por",
+     "title": "REGULAMENTO (CE) n. o 219/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de Março de 2009",
+     "published": null,
+     "celex": "32009R0219"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 4.º — Recolha de dados",
+    "Altera ANEXO H",
+    "Altera CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+    "Altera Notas",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Suprime Artigo 10.º — Medidas de execução",
+    "Suprime Artigo 11.º — Procedimento"
+   ],
+   "fragments": [
+    "a2d100a338ecb535",
+    "6d6ca2e76fab2166",
+    "59565225fe20cc33",
+    "97ea188887e9a4b1",
+    "114a666630092e60",
+    "db30dbdd2fffd12f",
+    "d6e17e8361ef10ee",
+    "4c3f9b95168479cb",
+    "c4a8d50036d716f6",
+    "ddc464e8068103c8",
+    "a403523e594cf2ba",
+    "ce7fed5db5b284f6",
+    "af8d9e7d56183c50",
+    "c4f8ff1141eeae1f",
+    "0c775c346d6c54a2",
+    "acea8eb8e5c7a4f6",
+    "a941d7f8b29f9824",
+    "8fe955d32fd91def",
+    "d5f52a662ad49a44",
+    "78c94fd5d36d5d14",
+    "6fdbfdb8bf9f6daa",
+    "248a2368a4c433e2",
+    "71711de12a0fbf6d",
+    "21fb6480d1a7eb5a",
+    "f73635fd9ca8b9a6",
+    "6b77e7afeab84e0f",
+    "eadfde0cc483e808",
+    "4664fa113ec295fa"
+   ]
+  },
+  {
+   "date": "2016-12-13",
+   "future": false,
+   "celex": "02003R0091-20161213",
+   "acts": [
+    {
+     "id": "eu:celex:32016R2032:por",
+     "title": "REGULAMENTO (UE) 2016/2032 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de outubro de 2016",
+     "published": null,
+     "celex": "32016R2032"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 4.º — Recolha de dados",
+    "Altera Artigo 5.º — Fontes de dados",
+    "Altera Artigo 8.º — Qualidade das estatísticas",
+    "Altera ANEXO C",
+    "Altera CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+    "Altera Notas",
+    "Adita Artigo 7.º — Divulgação",
+    "Adita Artigo 9.º — Relatórios de aplicação",
+    "Adita Artigo 10.º — Exercício da delegação",
+    "Adita Artigo 11.º — Procedimento de comité",
+    "Adita ANEXO L",
+    "Suprime Artigo 7.º — Difusão",
+    "Suprime Artigo 9.º — Relatório",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º — Directiva 80/1177/CEE",
+    "Suprime ANEXO B",
+    "Suprime ANEXO D",
+    "Suprime ANEXO H",
+    "Suprime ANEXO I"
+   ],
+   "fragments": [
+    "9b3e02b6fe08cfab",
+    "6d6ca2e76fab2166",
+    "59565225fe20cc33",
+    "53b9d1e20bc7256d",
+    "d0758cf8b1cb2f72",
+    "f56031a03c667509",
+    "d6e17e8361ef10ee",
+    "980b71e9f1c9facf",
+    "7a855f34ec9ac5e7",
+    "416165388ab3a338",
+    "821069cdb1fcdb75",
+    "e14c2adac2f49f42",
+    "c4f8ff1141eeae1f",
+    "0c775c346d6c54a2",
+    "85a5639223f57e06",
+    "d5f52a662ad49a44",
+    "78c94fd5d36d5d14",
+    "6fdbfdb8bf9f6daa",
+    "21fb6480d1a7eb5a",
+    "f73635fd9ca8b9a6",
+    "6b77e7afeab84e0f",
+    "c0e1c8d6b7a1a394",
+    "98f02d708b13bdef",
+    "b2cb595492698737"
+   ]
+  },
+  {
+   "date": "2018-05-22",
+   "future": false,
+   "celex": "02003R0091-20180522",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto",
+    "Suprime Artigo 2.º — Âmbito",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime Artigo 4.º — Recolha de dados",
+    "Suprime Artigo 5.º — Fontes de dados",
+    "Suprime Artigo 6.º — Transmissão de estatísticas ao Eurostat",
+    "Suprime Artigo 7.º — Divulgação",
+    "Suprime Artigo 8.º — Qualidade das estatísticas",
+    "Suprime Artigo 9.º — Relatórios de aplicação",
+    "Suprime Artigo 10.º — Exercício da delegação",
+    "Suprime Artigo 11.º — Procedimento de comité",
+    "Suprime Artigo 13.º — Entrada em vigor",
+    "Suprime ANEXO A",
+    "Suprime ANEXO C",
+    "Suprime ANEXO E",
+    "Suprime ANEXO F",
+    "Suprime ANEXO G",
+    "Suprime ANEXO J",
+    "Suprime NST 2007",
+    "Suprime ANEXO K",
+    "Suprime CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+    "Suprime ANEXO L",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "a17148d3ce634fad"
+   ]
+  }
+ ],
+ "fragments": {
+  "53be6c56107053a2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 91/2003 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2002, relativo às estatísticas dos transportes ferroviários** *Jornal Oficial nº L 014 de 21/01/2003 p. 0001 - 0015*\n\nRegulamento (CE) n.o 91/2003 do Parlamento Europeu e do Conselho\n\nde 16 de Dezembro de 2002\n\nrelativo às estatísticas dos transportes ferroviários\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 285.o,\n\nTendo em conta a proposta da Comissão(1),\n\nTendo em conta o parecer do Comité Económico e Social(2),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.o do Tratado(3),\n\nConsiderando o seguinte:\n\n(1) Os caminhos-de-ferro constituem uma parte importante das redes de transporte comunitárias.\n\n(2) A Comissão necessita de estatísticas sobre transportes ferroviários de mercadorias e de passageiros para acompanhar e desenvolver a política comum de transportes, bem como a componente dos transportes das políticas regionais e das redes transeuropeias.\n\n(3) A Comissão necessita de estatísticas sobre segurança ferroviária para poder preparar e acompanhar as acções comunitárias no domínio da segurança dos transportes.\n\n(4) As estatísticas comunitárias sobre transportes ferroviários são também necessárias para cumprir as medidas de acompanhamento previstas no artigo 10.oB da Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários(4).\n\n(5) As estatísticas comunitárias sobre todos os modos de transporte devem ser recolhidas de acordo com conceitos e padrões comuns, no intuito de atingir a máxima comparabilidade entre modos de transporte.\n\n(6) A reestruturação do sector ferroviário nos termos da Directiva 91/440/CEE, bem como as alterações do tipo de informação requerida pela Comissão e por outros utilizadores de estatísticas comunitárias sobre transportes ferroviários, tornam obsoletas as disposições da Directiva 80/1177/CEE, de 4 de Dezembro de 1980, relativa ao registo estatístico dos transportes ferroviários de mercadorias no âmbito de uma estatística regional(5), no que respeita à recolha de estatísticas por determinadas administrações das principais redes de caminhos-de-ferro.\n\n(7) A coexistência de empresas ferroviárias públicas e privadas em actividade num mercado comercial de transportes ferroviários exige uma definição explícita da informação estatística que deverá ser fornecida por todas as empresas ferroviárias e difundida pelo Eurostat.\n\n(8) De acordo com o princípio da subsidiariedade previsto no artigo 5.o do Tratado, a criação de normas estatísticas comuns que permitam obter dados harmonizados é uma acção que só poderá ser realizada com eficácia a nível comunitário. Essas normas serão aplicadas em cada Estado-Membro sob o controlo dos organismos e instituições responsáveis pela elaboração de estatísticas oficiais.\n\n(9) O Regulamento (CE) n.o 322/97 do Conselho, de 17 de Fevereiro de 1997, relativo às estatísticas comunitárias(6), proporciona um quadro de referência para as disposições do presente regulamento.\n\n(10) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão(7).\n\n(11) O Comité do Programa Estatístico, criado pela Decisão 89/382/CEE, Euratom, de 19 de Junho de 1989, que cria o Comité do Programa Estatístico das Comunidades Europeias(8), foi consultado pela Comissão nos termos do artigo 3.o da referida decisão,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "6d6ca2e76fab2166": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO objecto do presente regulamento é o estabelecimento de normas comuns para a elaboração de estatísticas comunitárias sobre transportes ferroviários."
+  },
+  "59565225fe20cc33": {
+   "fragment_id": "Artigo 2.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente regulamento abrange todos os caminhos-de-ferro da Comunidade. Cada Estado-Membro deve fornecer estatísticas relativas aos transportes ferroviários no seu território nacional. Se uma empresa ferroviária exercer a sua actividade em vários Estados-Membros, as entidades nacionais competentes exigirão a essa empresa que apresente dados separados para cada um dos países em que a empresa exerça a sua actividade, o que permitirá elaborar estatísticas nacionais.\n\nOs Estados-Membros podem excluir do âmbito do presente regulamento:\n\na) empresas de transporte ferroviário cuja exploração tenha lugar total ou parcialmente em instalações industriais ou similares, incluindo portos;\n\nb) empresas de transporte ferroviário que assegurem principalmente serviços turísticos locais, como os caminhos-de-ferro a vapor preservados pelo seu valor histórico."
+  },
+  "61aeef7f79bd5e92": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1. Para efeitos do presente regulamento, entende-se por:\n\na) \"País declarante\", o Estado-Membro que transmite os dados ao Eurostat;\n\nb) \"Autoridades nacionais\", os institutos nacionais de estatística ou outros organismos responsáveis pela elaboração de estatísticas comunitárias;\n\nc) \"Empresa de transporte ferroviário\", uma empresa pública ou privada, cuja actividade consista na prestação de serviços de transporte ferroviário de mercadorias e/ou passageiros.\n\n2. As definições do n.o 1 podem ser adaptadas e as definições técnicas suplementares necessárias para garantir a harmonização das estatísticas podem ser adoptadas nos termos do n.o 2 do artigo 11.o"
+  },
+  "0fb85611ba601671": {
+   "fragment_id": "Artigo 4.º — Recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recolha de dados\n\n1. As estatísticas a recolher são especificadas nos anexos do presente regulamento e abrangem os seguintes tipos de dados:\n\na) Estatísticas anuais sobre transporte de mercadorias - declaração detalhada (anexo A);\n\nb) Estatísticas anuais sobre transporte de mercadorias - declaração simplificada (anexo B);\n\nc) Estatísticas anuais sobre transporte de passageiros - declaração detalhada (anexo C);\n\nd) Estatísticas anuais sobre transporte de passageiros - declaração simplificada (anexo D);\n\ne) Estatísticas trimestrais sobre transporte de mercadorias e de passageiros (anexo E);\n\nf) Estatísticas regionais sobre transporte de mercadorias e de passageiros (anexo F);\n\ng) Estatísticas sobre fluxos de tráfego na rede ferroviária (anexo G);\n\nh) Estatísticas sobre acidentes (anexo H).\n\n2. Os anexos B e D determinam os requisitos da declaração simplificada que podem ser utilizados pelos Estados-Membros em alternativa à declaração normal detalhada prevista nos anexos A e C, para as empresas cujo volume total de transporte de mercadorias ou de passageiros seja inferior a 500 milhões de toneladas-quilómetro ou a 200 milhões de passageiros-quilómetro, respectivamente. Estes limiares podem ser adaptados nos termos do n.o 2 do artigo 11.o\n\n3. Os Estados-Membros fornecem igualmente uma relação das empresas de transporte ferroviário objecto das estatísticas, tal como previsto no anexo I.\n\n4. Para efeitos do presente regulamento, as mercadorias são classificadas nos termos do anexo J. As mercadorias perigosas são, além disso, classificadas nos termos do anexo K.\n\n5. O conteúdo dos anexos pode ser adaptado nos termos do n.o 2 do artigo 11.o"
+  },
+  "8a1a74f4539c5266": {
+   "fragment_id": "Artigo 5.º — Fontes de dados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Fontes de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fontes de dados\n\n1. Os Estados-Membros designam uma organização pública ou privada para participar na recolha de dados imposta pelo presente regulamento.\n\n2. Os dados necessários podem ser obtidos através de qualquer combinação das seguintes fontes:\n\na) Inquéritos obrigatórios;\n\nb) Dados administrativos, incluindo dados recolhidos pelas autoridades reguladoras;\n\nc) Procedimentos de cálculo estatístico;\n\nd) Dados fornecidos por organizações profissionais do sector ferroviário;\n\ne) Estudos ad hoc.\n\n3. As autoridades nacionais tomam medidas para coordenar as fontes de dados utilizadas e garantir a qualidade das estatísticas transmitidas ao Eurostat."
+  },
+  "aa7ea231ecb4697e": {
+   "fragment_id": "Artigo 6.º — Transmissão de estatísticas ao Eurostat",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Transmissão de estatísticas ao Eurostat",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transmissão de estatísticas ao Eurostat\n\n1. Os Estados-Membros transmitem ao Eurostat as estatísticas mencionadas no artigo 4.o\n\n2. O sistema de transmissão das estatísticas referidas no artigo 4.o é estabelecido nos termos do n.o 2 do artigo 11.o"
+  },
+  "bb9daae1fb14cfb8": {
+   "fragment_id": "Artigo 7.º — Difusão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Difusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Difusão\n\n1. As estatísticas da Comunidade baseadas nos dados especificados nos anexos A a H do presente regulamento são divulgadas pelo Eurostat. Neste contexto, e atendendo às características do mercado ferroviário europeu, os dados considerados confidenciais na acepção do n.o 1 do artigo 13.o do Regulamento (CE) n.o 322/97 do apenas podem ser divulgados desde que:\n\na) Já estejam acessíveis ao público nos Estados-Membros; ou\n\nb) As empresas interessadas tenham prévia e expressamente autorizado a sua divulgação.\n\nAs autoridades nacionais pedem a essas empresas autorização para a divulgação dos dados e informam o Eurostat do resultado desse pedido aquando da transmissão desses dados ao Eurostat.\n\n2. As informações comunicadas ao abrigo do anexo I não podem ser divulgadas."
+  },
+  "c4a8d50036d716f6": {
+   "fragment_id": "Artigo 8.º — Qualidade das estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Qualidade das estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Qualidade das estatísticas\n\n1. A fim de auxiliar os Estados-Membros a manter a qualidade das estatísticas sobre transportes ferroviários, o Eurostat deve desenvolver e publicar recomendações metodológicas, que tenham em consideração as melhores práticas das autoridades nacionais, das empresas de transporte ferroviário e das organizações profissionais do sector ferroviário.\n\n2. A qualidade dos dados estatísticos é avaliada pelo Eurostat. Para o efeito, os Estados-Membros fornecem, a pedido do Eurostat, informações sobre os métodos utilizados na elaboração das estatísticas."
+  },
+  "ec709711db0d21c2": {
+   "fragment_id": "Artigo 9.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relatório\n\nApós três anos de recolha de dados, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a experiência adquirida no trabalho realizado ao abrigo do presente regulamento, eventualmente acompanhado das propostas adequadas. Esse relatório deve incluir os resultados da avaliação de qualidade mencionada no artigo 8.o, avaliar o impacto que tem sobre a qualidade das estatísticas relativas ao transporte ferroviário a aplicação ao presente regulamento das disposições em matéria de confidencialidade das estatísticas previstas no Regulamento (CE) n.o 322/97 e avaliar igualmente as vantagens da existência de estatísticas neste domínio, os custos inerentes à sua produção e o ónus que representam para as empresas."
+  },
+  "918ff1fbecf6743f": {
+   "fragment_id": "Artigo 10.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas de execução\n\nAs seguintes medidas de execução devem ser tomadas nos termos do n.o 2 do artigo 11.o:\n\na) Adaptação dos limiares da declaração simplificada (artigo 4.o);\n\nb) Adaptação das definições e adopção de definições adicionais (artigo 3.o);\n\nc) Adaptação do conteúdo dos anexos (artigo 4.o);\n\nd) Disposições de transmissão dos dados ao Eurostat (artigo 6.o);\n\ne) Definição de directrizes para os relatórios sobre a qualidade e comparabilidade dos resultados (artigos 8.o e 9.o)."
+  },
+  "3f0fb1cdb649a47e": {
+   "fragment_id": "Artigo 11.º — Procedimento",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento\n\n1. A Comissão é assistida pelo Comité do Programa Estatístico instituído pelo artigo 1.o da Decisão 89/382/CEE, Euratom.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.o e 7.o da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.o\n\nO prazo previsto no n.o 6 do artigo 5.o da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "af8d9e7d56183c50": {
+   "fragment_id": "Artigo 12.º — Directiva 80/1177/CEE",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Directiva 80/1177/CEE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Directiva 80/1177/CEE\n\n1. Os Estados-Membros devem comunicar os resultados relativos ao ano de 2002 nos termos da Directiva 80/1177/CEE.\n\n2. A Directiva 80/1177/CEE é revogada com efeitos a 1 de Janeiro de 2003."
+  },
+  "2b4fddb9a4e44add": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 16 de Dezembro de 2002.\n\nPelo Parlamento Europeu\n\nO Presidente\n\nP. Cox\n\nPelo Conselho\n\nA Presidente\n\nM. Fischer Boel\n\n(1) JO C 180 E de 26.6.2001, p. 94.\n\n(2) JO C 221 de 30.5.2001, p. 63.\n\n(3) Parecer do Parlamento Europeu de 4 de Setembro de 2001 (JO C 72 E de 21.3.2002, p. 58), posição comum do Conselho de 27 de Junho de 2002 (ainda não publicada no Jornal Oficial) e decisão do Parlamento Europeu de 24 de Outubro de 2002 (ainda não publicada no Jornal Oficial).\n\n(4) JO L 237 de 24.8.1991, p. 25. Directiva com a última redacção que lhe foi dada pela Directiva 2001/12/CE do Parlamento Europeu e do Conselho (JO L 75 de 15.3.2001, p. 1).\n\n(5) JO L 350 de 23.12.1980, p. 23. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n(6) JO L 52 de 22.2.1997, p. 1.\n\n(7) JO L 184 de 17.7.1999, p. 23.\n\n(8) JO L 181 de 28.6.1989, p. 47."
+  },
+  "1ae48914cd7f7baa": {
+   "fragment_id": "ANEXO A — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO DETALHADA",
+   "type": "divisao",
+   "heading": "ANEXO A — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO DETALHADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO DETALHADA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "e543a7fb82270848": {
+   "fragment_id": "ANEXO B — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO SIMPLIFICADA",
+   "type": "divisao",
+   "heading": "ANEXO B — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO SIMPLIFICADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTES DE MERCADORIAS - DECLARAÇÃO SIMPLIFICADA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "cabe1d7602fd6a0e": {
+   "fragment_id": "ANEXO C — ESTATÍSTICAS ANUAIS SPBRE TRANSPORTE DE PASSEIROS - DECLARAÇÃO DECLARADA",
+   "type": "divisao",
+   "heading": "ANEXO C — ESTATÍSTICAS ANUAIS SPBRE TRANSPORTE DE PASSEIROS - DECLARAÇÃO DECLARADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C — ESTATÍSTICAS ANUAIS SPBRE TRANSPORTE DE PASSEIROS - DECLARAÇÃO DECLARADA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "4be887c99ddc9ee7": {
+   "fragment_id": "ANEXO D — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTE DE PASSAGEIRO - DECLARAÇÃO SIMPLIFICADA",
+   "type": "divisao",
+   "heading": "ANEXO D — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTE DE PASSAGEIRO - DECLARAÇÃO SIMPLIFICADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D — ESTATÍSTICAS ANUAIS SOBRE TRANSPORTE DE PASSAGEIRO - DECLARAÇÃO SIMPLIFICADA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "48192f0984374f70": {
+   "fragment_id": "ANEXO E — ESTATÍSTICAS TRIMESTRAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS",
+   "type": "divisao",
+   "heading": "ANEXO E — ESTATÍSTICAS TRIMESTRAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO E — ESTATÍSTICAS TRIMESTRAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "f56711a7b360b9cf": {
+   "fragment_id": "ANEXO F — ESTATÍSTICAS REGIONAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS",
+   "type": "divisao",
+   "heading": "ANEXO F — ESTATÍSTICAS REGIONAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO F — ESTATÍSTICAS REGIONAIS SOBRE TRANSPORTE DE MERCADORIAS E DE PASSAGEIROS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "f74b716766b6aff9": {
+   "fragment_id": "ANEXO G — ESTATÍSTICAS SOBRE FLUXOS DE TRÁFEGO NA REDE FERROVIÁRIA",
+   "type": "divisao",
+   "heading": "ANEXO G — ESTATÍSTICAS SOBRE FLUXOS DE TRÁFEGO NA REDE FERROVIÁRIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO G — ESTATÍSTICAS SOBRE FLUXOS DE TRÁFEGO NA REDE FERROVIÁRIA\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "0e4df36aa20ffedb": {
+   "fragment_id": "ANEXO H — ESTATÍSTICAS SOBRE ACIDENTES",
+   "type": "divisao",
+   "heading": "ANEXO H — ESTATÍSTICAS SOBRE ACIDENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO H — ESTATÍSTICAS SOBRE ACIDENTES\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "8ff7285f3be1c427": {
+   "fragment_id": "ANEXO I — LISTA DE EMPRESAS DE TRANSPORTE FERROVIÁRIO",
+   "type": "divisao",
+   "heading": "ANEXO I — LISTA DE EMPRESAS DE TRANSPORTE FERROVIÁRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — LISTA DE EMPRESAS DE TRANSPORTE FERROVIÁRIO\n\n>POSIÇÃO NUMA TABELA>\n\nQuadro I1\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "03bd0558fbc02baf": {
+   "fragment_id": "ANEXO J — NOMENCLATURA DE MERCADORIAS",
+   "type": "divisao",
+   "heading": "ANEXO J — NOMENCLATURA DE MERCADORIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO J — NOMENCLATURA DE MERCADORIAS\n\nOs seguintes grupos de mercadorias serão utilizados até à elaboração de uma nova nomenclatura, nos termos do procedimento definido no n.o 2 do artigo 11.o\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "01beb9059eefa60d": {
+   "fragment_id": "ANEXO K — CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+   "type": "divisao",
+   "heading": "ANEXO K — CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO K — CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS\n\n1. Matérias e objectos explosivos\n\n2. Gases comprimidos, liquefeitos ou dissolvidos sob pressão\n\n3. Matérias líquidas inflamáveis\n\n4.1. Matérias sólidas inflamáveis\n\n4.2. Matérias susceptíveis de inflamação espontânea\n\n4.3. Matérias que, em contacto com a água, libertam gases inflamáveis\n\n5.1. Matérias comburentes\n\n5.2. Peróxidos orgânicos\n\n6.1. Matérias tóxicas\n\n6.2. Matérias infecciosas\n\n7. Matérias radioactivas\n\n8. Matérias corrosivas\n\n9. Matérias e objectos perigosos diversos\n\nObservações:\n\nEstas categorias são as definidas no regulamento relativo ao transporte ferroviário internacional de mercadorias perigosas, conhecido pela sigla RID, tal como adoptado pela Directiva 96/49/CE do Conselho, de 23 de Julho de 1996, relativa à aproximação das legislações dos Estados-Membros respeitantes ao transporte ferroviário de mercadorias perigosas, e subsequentes alterações(1).\n\n(1) JO L 235 de 17.9.1996, p. 25. Directiva com a última redacção que lhe foi dada pela Directiva 2001/6/CE (JO L 30 de 1.2.2001, p. 42)."
+  },
+  "a3f0e268d2142d41": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 2002\n\nrelativo às estatísticas dos transportes ferroviários\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 285.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#E0003)),\n\n(1) Os caminhos-de-ferro constituem uma parte importante das redes de transporte comunitárias.\n\n(2) A Comissão necessita de estatísticas sobre transportes ferroviários de mercadorias e de passageiros para acompanhar e desenvolver a política comum de transportes, bem como a componente dos transportes das políticas regionais e das redes transeuropeias.\n\n(3) A Comissão necessita de estatísticas sobre segurança ferroviária para poder preparar e acompanhar as acções comunitárias no domínio da segurança dos transportes.\n\n(4) As estatísticas comunitárias sobre transportes ferroviários são também necessárias para cumprir as medidas de acompanhamento previstas no artigo 10.ºB da Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários ([^4^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#E0004)).\n\n(5) As estatísticas comunitárias sobre todos os modos de transporte devem ser recolhidas de acordo com conceitos e padrões comuns, no intuito de atingir a máxima comparabilidade entre modos de transporte.\n\n(6) A reestruturação do sector ferroviário nos termos da Directiva 91/440/CEE, bem como as alterações do tipo de informação requerida pela Comissão e por outros utilizadores de estatísticas comunitárias sobre transportes ferroviários, tornam obsoletas as disposições da Directiva 80/1177/CEE, de 4 de Dezembro de 1980, relativa ao registo estatístico dos transportes ferroviários de mercadorias no âmbito de uma estatística regional ([^5^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#E0005)), no que respeita à recolha de estatísticas por determinadas administrações das principais redes de caminhos-de-ferro.\n\n(7) A coexistência de empresas ferroviárias públicas e privadas em actividade num mercado comercial de transportes ferroviários exige uma definição explícita da informação estatística que deverá ser fornecida por todas as empresas ferroviárias e difundida pelo Eurostat.\n\n(8) De acordo com o princípio da subsidiariedade previsto no artigo 5.º do Tratado, a criação de normas estatísticas comuns que permitam obter dados harmonizados é uma acção que só poderá ser realizada com eficácia a nível comunitário. Essas normas serão aplicadas em cada Estado-Membro sob o controlo dos organismos e instituições responsáveis pela elaboração de estatísticas oficiais.\n\n(9) O Regulamento (CE) n.º 322/97 do Conselho, de 17 de Fevereiro de 1997, relativo às estatísticas comunitárias ([^6^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#E0006)), proporciona um quadro de referência para as disposições do presente regulamento.\n\n(10) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#E0007)).\n\n(11) O Comité do Programa Estatístico, criado pela Decisão 89/382/CEE, Euratom, de 19 de Junho de 1989, que cria o Comité do Programa Estatístico das Comunidades Europeias ([^8^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#E0008)), foi consultado pela Comissão nos termos do artigo 3.º da referida decisão,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "e308ec760295d8f6": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1. Para efeitos do presente regulamento, entende-se por:\n\n1. «País declarante», o Estado-Membro que transmite os dados ao Eurostat;\n\n2. «Autoridades nacionais», os institutos nacionais de estatística ou outros organismos responsáveis pela elaboração de estatísticas comunitárias;\n\n3. «Caminho-de-ferro», via de comunicação por carril para utilização exclusiva de veículos ferroviários;\n\n4. «Veículo ferroviário», material móvel que circula exclusivamente sobre carril, com tracção própria (veículos tractores) ou rebocado (carruagens, reboques de automotora, furgões e vagões);\n\n5. «Empresa de transporte ferroviário», uma empresa pública ou privada, cuja actividade consista na prestação de serviços de transporte ferroviário de mercadorias e/ou passageiros. Excluem-se as empresas de transporte ferroviário que assegurem exclusivamente serviços de transporte ferroviário de passageiros por metropolitano, eléctrico e/ou metro ligeiro;\n\n6. «Transporte ferroviário de mercadorias», a deslocação de mercadorias efectuada por meio de veículos ferroviários entre o local de carga e o local de descarga;\n\n7. «Transporte ferroviário de passageiros», a deslocação de passageiros efectuada por veículos ferroviários entre o local de embarque e o local de desembarque. Exclui-se o transporte de passageiros por metropolitano, eléctrico e/ou metro ligeiro;\n\n8. «Metropolitano» (também conhecido como «metro», «caminho-de-ferro metropolitano» ou «caminho-de-ferro subterrâneo»), caminho-de-ferro eléctrico para o transporte de passageiros com capacidade para tráfego muito intenso e caracterizado por direitos exclusivos de passagem, composições com várias carruagens, alta velocidade, aceleração rápida, sistemas de sinalização sofisticados, e pela ausência de passagens de nível, para permitir uma frequência elevada de comboios e uma grande ocupação dos cais. O metro caracteriza-se ainda pela elevada quantidade de estações, normalmente a intervalos de 700 m-1 200 m. A «alta velocidade» define-se por comparação com a de eléctricos e metro ligeiro, e significa neste caso cerca de 30-40 km/h, nas distâncias mais curtas, e 40-70 km/h, nas mais longas;\n\n9. «Eléctrico (carro eléctrico)», veículo rodoviário de passageiros concebido para levar sentadas mais de nove pessoas (incluindo o condutor), ligado a condutores eléctricos ou movido a diesel e que se desloca sobre carris;\n\n10. «Metro ligeiro», caminho-de-ferro para o transporte de passageiros que utiliza frequentemente carruagens eléctricas sobre carris, as quais funcionam isoladamente ou em comboios curtos, em linhas duplas fixas. A distância entre as estações/paragens não ultrapassa geralmente os 1 200 m. Comparado com o metro, o metro ligeiro é de construção mais ligeira, concebida para volumes mais pequenos de tráfego e velocidade inferior. Por vezes é difícil distinguir com precisão entre metro ligeiro e eléctrico; o eléctrico não está normalmente separado do tráfego rodoviário, enquanto o metro ligeiro pode estar separado dos restantes sistemas;\n\n11. «Transporte nacional», transporte ferroviário entre dois locais (local de carga/embarque e local de descarga/desembarque) situados no país declarante. Pode incluir o trânsito por um segundo país;\n\n12. «Transporte internacional», transporte ferroviário entre um local (de carga/embarque ou de descarga/desembarque) situado no país declarante e um local (de carga/embarque ou de descarga/desembarque) situado noutro país;\n\n13. «Trânsito», transporte ferroviário efectuado na rede ferroviária do país declarante entre dois locais (local de carga/embarque e local de descarga/desembarque) situados fora do país declarante. As operações de transporte que envolvem carga/embarque ou descarga/desembarque de mercadorias/passageiros na fronteira do país declarante de/para outro modo de transporte não são consideradas como trânsito;\n\n14. «Passageiro ferroviário», qualquer pessoa, excluindo o pessoal afecto ao serviço do comboio, que efectue um percurso num veículo ferroviário. Para efeitos das estatísticas sobre acidentes, incluem-se os passageiros que tentem embarcar/desembarcar num/de um comboio em movimento;\n\n15. «Número de passageiros», número de viagens efectuadas por passageiros ferroviários, em que cada viagem é definida como a deslocação entre o local de embarque e o local de desembarque, com ou sem transferências de um veículo ferroviário para outro. Sempre que possível, quando os passageiros utilizarem os serviços de mais do que uma empresa de transporte ferroviário não devem ser contabilizados mais do que uma vez;\n\n16. «Passageiro-quilómetro», unidade de medida correspondente ao transporte de um passageiro na distância de um quilómetro. Deve considerar-se apenas a distância efectivamente percorrida pelo passageiro no território nacional do país declarante;\n\n17. «Peso», unidade de medida que corresponde à quantidade de mercadorias em toneladas (1 000 quilogramas). O peso a ter em consideração inclui, além do peso das mercadorias transportadas, o peso das embalagens e a tara dos contentores, caixas móveis, paletes e veículos rodoviários transportados por caminho-de-ferro, no âmbito de operações de transporte combinado. Sempre que possível, quando as mercadorias forem transportadas recorrendo aos serviços de mais do que uma empresa de transportes ferroviários, o peso das mercadorias não deve ser contabilizado mais do que uma vez;\n\n18. «Tonelada-quilómetro», unidade de medida correspondente à deslocação, por caminho-de-ferro, de uma tonelada (1 000 quilogramas) de mercadoria, na distância de um quilómetro. Deve considerar-se apenas a distância efectivamente percorrida no território nacional do país declarante;\n\n19. «Comboio», um ou mais veículos ferroviários rebocados por uma ou mais locomotivas ou automotoras, ou uma automotora isolada, circulando com um número determinado ou uma designação específica, de um ponto fixo inicial para um ponto fixo final. Uma locomotiva isolada, isto é, que viaje sozinha, não é considerada um comboio;\n\n20. «Comboio-quilómetro», unidade de medida que corresponde à deslocação de um comboio num percurso de um quilómetro. A distância utilizada é a distância efectivamente percorrida, se disponível, ou a distância normal da rede entre a origem e o destino. Só será tida em consideração a distância percorrida no território nacional do país declarante;\n\n21. «Comboio completo», qualquer remessa, composta por um ou vários vagões carregados, entregue a transporte ao mesmo tempo, pelo mesmo expedidor, na mesma estação e enviada sem alteração na composição do comboio para o endereço de um mesmo destinatário, na mesma estação de destino;\n\n22. «Vagão completo», qualquer remessa de mercadorias para a qual é necessária a utilização exclusiva de um vagão, quer a sua capacidade de carga seja totalmente utilizada ou não;\n\n23. «TEU (unidade equivalente a vinte pés)», unidade normalizada com base num contentor ISO de 20 pés de comprimento (6,10 m), usada como medida estatística de fluxos ou capacidades de tráfego. Um contentor normalizado ISO série 1 de 40 pés equivale a 2 TEU. Uma caixa móvel inferior a 20 pés corresponde a 0,75 TEU, entre 20 pés e 40 pés corresponde a 1,5 TEU e acima de 40 pés corresponde a 2,25 TEU;\n\n24. «Acidente grave», qualquer acidente que implique pelo menos um veículo ferroviário em movimento e provoque a morte ou ferimentos graves em, pelo menos, uma pessoa, ou consideráveis prejuízos ao material, às vias, a outras instalações, ou ao ambiente, ou interrupções prolongadas da circulação. Excluem-se os acidentes ocorridos em oficinas, armazéns e depósitos;\n\n25. «Acidente com feridos graves», qualquer acidente que implique pelo menos um veículo ferroviário em movimento e provoque a morte ou ferimentos graves em, pelo menos, uma pessoa. Excluem-se os acidentes ocorridos em oficinas, armazéns e depósitos;\n\n26. «Morto em acidente ferroviário», óbito resultante de um acidente ou em sua consequência registado dentro de 30 dias, excluindo os suicídios;\n\n27. «Ferido grave», qualquer pessoa que, em consequência de um acidente, tenha sofrido lesões que levem à sua hospitalização por períodos superiores a 24 horas, excluindo as tentativas de suicídio;\n\n28. «Acidente que envolva o transporte de mercadorias perigosas», qualquer acidente ou incidente que deva ser objecto de uma declaração em conformidade com o RID/ADR, secção 1.8.5;\n\n29. «Suicídio», qualquer acto deliberado contra si próprio destinado a provocar a morte, tal como registado e classificado pelas autoridades nacionais competentes.\n\n30. «Tentativa de suicídio», qualquer acto deliberado contra si próprio resultante em ferimentos graves mas não em morte, tal como registado e classificado pelas autoridades nacionais competentes.\n\n2. As definições do n.º 1 podem ser adaptadas e as definições técnicas suplementares necessárias para garantir a harmonização das estatísticas podem ser adoptadas nos termos do n.º 2 do artigo 11.º"
+  },
+  "ebffc04d97033e89": {
+   "fragment_id": "Artigo 4.º — Recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recolha de dados\n\n1. As estatísticas a recolher são especificadas nos anexos do presente regulamento e abrangem os seguintes tipos de dados:\n\na) Estatísticas anuais sobre transporte de mercadorias — declaração detalhada (anexo A);\n\nb) Estatísticas anuais sobre transporte de mercadorias — declaração simplificada (anexo B);\n\nc) Estatísticas anuais sobre transporte de passageiros — declaração detalhada (anexo C);\n\nd) Estatísticas anuais sobre transporte de passageiros — declaração simplificada (anexo D);\n\ne) Estatísticas trimestrais sobre transporte de mercadorias e de passageiros (anexo E);\n\nf) Estatísticas regionais sobre transporte de mercadorias e de passageiros (anexo F);\n\ng) Estatísticas sobre fluxos de tráfego na rede ferroviária (anexo G);\n\nh) Estatísticas sobre acidentes (anexo H).\n\n2. Os anexos B e D determinam os requisitos da declaração simplificada que podem ser utilizados pelos Estados-Membros em alternativa à declaração normal detalhada prevista nos anexos A e C, para as empresas cujo volume total de transporte de mercadorias ou de passageiros seja inferior a 500 milhões de toneladas-quilómetro ou a 200 milhões de passageiros-quilómetro, respectivamente. Estes limiares podem ser adaptados nos termos do n.º 2 do artigo 11.º\n\n3. Os Estados-Membros fornecem igualmente uma relação das empresas de transporte ferroviário objecto das estatísticas, tal como previsto no anexo I.\n\n4. Para efeitos do presente regulamento, as mercadorias são classificadas nos termos do anexo J. As mercadorias perigosas são, além disso, classificadas nos termos do anexo K.\n\n5. O conteúdo dos anexos pode ser adaptado nos termos do n.º 2 do artigo 11.º"
+  },
+  "db30dbdd2fffd12f": {
+   "fragment_id": "Artigo 5.º — Fontes de dados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Fontes de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fontes de dados\n\n1. Os Estados-Membros designam uma organização pública ou privada para participar na recolha de dados imposta pelo presente regulamento.\n\n2. Os dados necessários podem ser obtidos através de qualquer combinação das seguintes fontes:\n\na) Inquéritos obrigatórios;\n\nb) Dados administrativos, incluindo dados recolhidos pelas autoridades reguladoras;\n\nc) Procedimentos de cálculo estatístico;\n\nd) Dados fornecidos por organizações profissionais do sector ferroviário;\n\ne) Estudos *ad hoc*.\n\n3. As autoridades nacionais tomam medidas para coordenar as fontes de dados utilizadas e garantir a qualidade das estatísticas transmitidas ao Eurostat."
+  },
+  "d6e17e8361ef10ee": {
+   "fragment_id": "Artigo 6.º — Transmissão de estatísticas ao Eurostat",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Transmissão de estatísticas ao Eurostat",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transmissão de estatísticas ao Eurostat\n\n1. Os Estados-Membros transmitem ao Eurostat as estatísticas mencionadas no artigo 4.º\n\n2. O sistema de transmissão das estatísticas referidas no artigo 4.º é estabelecido nos termos do n.º 2 do artigo 11.º"
+  },
+  "4c3f9b95168479cb": {
+   "fragment_id": "Artigo 7.º — Difusão",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Difusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Difusão\n\n1. As estatísticas da Comunidade baseadas nos dados especificados nos anexos A a H do presente regulamento são divulgadas pelo Eurostat. Neste contexto, e atendendo às características do mercado ferroviário europeu, os dados considerados confidenciais na acepção do n.º 1 do artigo 13.º do Regulamento (CE) n.º 322/97 do apenas podem ser divulgados desde que:\n\na) Já estejam acessíveis ao público nos Estados-Membros; ou\n\nb) As empresas interessadas tenham prévia e expressamente autorizado a sua divulgação.\n\nAs autoridades nacionais pedem a essas empresas autorização para a divulgação dos dados e informam o Eurostat do resultado desse pedido aquando da transmissão desses dados ao Eurostat.\n\n2. As informações comunicadas ao abrigo do anexo I não podem ser divulgadas."
+  },
+  "ddc464e8068103c8": {
+   "fragment_id": "Artigo 9.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relatório\n\nApós três anos de recolha de dados, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório sobre a experiência adquirida no trabalho realizado ao abrigo do presente regulamento, eventualmente acompanhado das propostas adequadas. Esse relatório deve incluir os resultados da avaliação de qualidade mencionada no artigo 8.º, avaliar o impacto que tem sobre a qualidade das estatísticas relativas ao transporte ferroviário a aplicação ao presente regulamento das disposições em matéria de confidencialidade das estatísticas previstas no Regulamento (CE) n.º 322/97 e avaliar igualmente as vantagens da existência de estatísticas neste domínio, os custos inerentes à sua produção e o ónus que representam para as empresas."
+  },
+  "72b6d2e5a8e73f7e": {
+   "fragment_id": "Artigo 10.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas de execução\n\nAs seguintes medidas de execução devem ser tomadas nos termos do n.º 2 do artigo 11.º:\n\na) Adaptação dos limiares da declaração simplificada (artigo 4.º);\n\nb) Adaptação das definições e adopção de definições adicionais (artigo 3.º);\n\nc) Adaptação do conteúdo dos anexos (artigo 4.º);\n\nd) Disposições de transmissão dos dados ao Eurostat (artigo 6.º);\n\ne) Definição de directrizes para os relatórios sobre a qualidade e comparabilidade dos resultados (artigos 8.º e 9.º)."
+  },
+  "9197727b9879f531": {
+   "fragment_id": "Artigo 11.º — Procedimento",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento\n\n1. A Comissão é assistida pelo Comité do Programa Estatístico instituído pelo artigo 1.º da Decisão 89/382/CEE, Euratom.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "c4f8ff1141eeae1f": {
+   "fragment_id": "Artigo 13.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "0c775c346d6c54a2": {
+   "fragment_id": "ANEXO A",
+   "type": "divisao",
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A\n\nLista de variáveis e unidades de medida Mercadorias transportadas, em: — toneladas — tonelada-quilómetro movimentos de comboios de mercadorias em: — comboios-quilómetro número de unidades de transporte intermodais transportadas em: — número — TEU (unidade equivalente a vinte pés) (para contentores e caixas móveis)\n\nPeríodo de referência Um ano\n\nPeriodicidade Anual\n\nLista de quadros, com repartição por quadro Quadro A1: mercadorias transportadas, por tipo de transporte Quadro A2: mercadorias transportadas, por tipo de mercadoria (anexo J) Quadro A3: mercadorias transportadas (para tráfego internacional e em trânsito) por país de carga e país de descarga Quadro A4: mercadorias transportadas, por categoria de mercadoria perigosa (anexo K) Quadro A5: mercadorias transportadas, por tipo de remessa (facultativo) Quadro A6: mercadorias transportadas em unidades de transporte intermodais, por tipo de transporte e tipo de unidade de transporte Quadro A7: número de unidades de transporte intermodais carregadas transportadas, por tipo de transporte e tipo de unidade de transporte Quadro A8: número de unidades de transporte intermodais vazias transportadas, por tipo de transporte e tipo de unidade de transporte Quadro A9: movimentos de comboios de mercadorias\n\nPrazo para a transmissão dos dados Cinco meses após o final do período de referência\n\nPrimeiro período de referência para os quadros A1, A2 e A3 2003\n\nPrimeiro período de referência para os quadros A4, A5, A6, A7, A8 e A9 2004\n\nObservações 1. Os tipos de transporte são repartidos do seguinte modo: — nacional — internacional — de entrada — internacional — de saída — trânsito 2. Os tipos de remessa podem ser repartidos do seguinte modo: — comboio completo — vagão completo — outro 3. Os tipos de unidade de transporte são repartidos do seguinte modo: — contentores e caixas móveis — semi-reboques (não acompanhados) — veículos rodoviários (acompanhados) 4. No que respeita ao quadro A3, o Eurostat e os Estados-Membros poderão adoptar disposições destinadas a facilitar a consolidação de dados provenientes de empresas de outros Estados-Membros, a fim de garantir a coerência desses dados. 5. No que respeita quadro A4, os Estados-Membros deverão indicar, se for caso disso, as categorias de tráfego que não estão cobertas pelos dados. 6. Para os quadros A2-A8, quando não haja informações completas sobre o transporte em trânsito, os Estados-Membros devem declarar todos os dados disponíveis."
+  },
+  "acea8eb8e5c7a4f6": {
+   "fragment_id": "ANEXO B",
+   "type": "divisao",
+   "heading": "ANEXO B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B\n\nLista de variáveis e unidades de medida mercadorias transportadas, em: — toneladas — tonelada-quilómetro movimentos de comboios de mercadorias em: — comboios-quilómetro\n\nPeríodo de referência um ano\n\nPeriodicidade anual\n\nLista de quadros, com repartição por quadro Quadro B1: mercadorias transportadas, por tipo de transporte Quadro B2: movimentos de comboios de mercadorias\n\nPrazo para a transmissão dos dados Cinco meses após o final do período de referência\n\nPrimeiro período de referência 2004\n\nObservações 1. Os tipos de transporte são repartidos do seguinte modo: — nacional — internacional — de entrada — internacional — de saída — trânsito"
+  },
+  "a941d7f8b29f9824": {
+   "fragment_id": "ANEXO C",
+   "type": "divisao",
+   "heading": "ANEXO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C\n\nLista de variáveis e unidades de medida Passageiros transportados em: — número de passageiros — passageiros-quilómetro Movimentos de comboios de passageiros em: — comboios-quilómetro\n\nPeríodo de referência Um ano\n\nPeriodicidade Anual\n\nLista de quadros, com repartição por quadro Quadro C1: passageiros transportados, por tipo de transporte (dados provisórios, número de passageiros unicamente) Quadro C2: passageiros internacionais transportados, por país de embarque e por país de desembarque (dados provisórios, número de passageiros unicamente) Quadro C3: passageiros transportados, por tipo de transporte (dados consolidados finais) Quadro C4: passageiros internacionais transportados, por país de embarque e por país de desembarque (dados consolidados finais, número de passageiros unicamente) Quadro C5: movimentos de comboios de passageiros\n\nPrazo para a transmissão de dados Oito meses após o final do período de referência (quadros C1, C2, C5) 14 meses após o final do período de referência (quadros C3, C4)\n\nPrimeiro período de referência 2004\n\nObservações 1. Os tipos de transporte são repartidos do seguinte modo: — nacional — internacional 2. No que respeita aos quadros C1 e C2, os Estados-Membros poderão comunicar dados provisórios com base no número de bilhetes vendidos no país declarante ou em qualquer outra fonte disponível. Relativamente aos quadros C3 e C4, os Estados-Membros comunicarão os dados consolidados finais, incluindo informações sobre o número de bilhetes vendidos fora do país declarante, as quais poderão ser solicitadas quer directamente às entidades nacionais de outros países, quer através das disposições internacionais de compensação de bilhetes"
+  },
+  "8fe955d32fd91def": {
+   "fragment_id": "ANEXO D",
+   "type": "divisao",
+   "heading": "ANEXO D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D\n\nLista de variáveis e unidades de medida Passageiros transportados, em: — número de passageiros — passageiros-quilómetro movimentos de comboios de passageiros em: — comboios-quilómetro\n\nPeríodo de referência Um ano\n\nPeriodicidade Anual\n\nLista de quadros, com repartição por quadro Quadro D1: passageiros transportados Quadro D2: movimentos de comboios de passageiros\n\nPrazo para a transmissão dos dados Oito meses após o final do período de referência\n\nPrimeiro período de referência 2004\n\nObservações 1. No que respeita ao quadro D1, os Estados-Membros poderão, tal como para o quadro C1, comunicar dados com base no número de bilhetes vendidos no país declarante ou em qualquer outra fonte disponível"
+  },
+  "d5f52a662ad49a44": {
+   "fragment_id": "ANEXO E",
+   "type": "divisao",
+   "heading": "ANEXO E",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO E\n\nLista de variáveis e unidades de medida Mercadorias transportadas, em: — toneladas — toneladas-quilómetro Passageiros transportados em: — número de passageiros — passageiros-quilómetro\n\nPeríodo de referência Um trimestre\n\nPeriodicidade Trimestral\n\nLista de quadros, com repartição por quadro Quadro E1: mercadorias transportadas Quadro E2: passageiros transportados\n\nPrazo para a transmissão dos dados Três meses após o final do período de referência\n\nPrimeiro período de referência P'rimeiro trimestre de 2004\n\nObservações 1. As informações dos quadros E1 e E2 poderão ser comunicadas com base em dados provisórios, incluindo estimativas. No que respeita ao quadro E2, os Estados-Membros podem comunicar dados com base no número de bilhetes vendidos no país declarante ou em qualquer outra fonte disponível 2. Estas estatísticas deverão dizer respeito às empresas abrangidas pelos anexos A e C"
+  },
+  "78c94fd5d36d5d14": {
+   "fragment_id": "ANEXO F",
+   "type": "divisao",
+   "heading": "ANEXO F",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO F\n\nLista de variáveis e unidades de medida Mercadorias transportadas, em — toneladas Passageiros transportados, em: — número de passageiros\n\nPeríodo de referência Um ano\n\nPeriodicidade Quinquenal\n\nLista de quadros, com repartição por quadro Quadro F1: transporte nacional de mercadorias por região de carga e região de descarga (NUTS 2) Quadro F2: transporte internacional de mercadorias por região de carga e região de descarga (NUTS 2) Quadro F3: transporte nacional de passageiros por região de embarque e região de desembarque (NUTS 2) Quadro F4: transporte internacional de passageiros por região de embarque e região de desembarque (NUTS 2)\n\nPrazo para a transmissão dos dados 12 meses após o final do período de referência\n\nPrimeiro período de referência 2005\n\nObservações 1. Se o local de carga ou de descarga (quadros F1 e F2) ou o local de embarque ou desembarque (quadros F3 e F4) se situarem fora do Espaço Económico Europeu, os Estados-Membros deverão registar apenas o país 2. A fim de auxiliar os Estados-Membros na elaboração dos presentes quadros, o Eurostat fornecer-lhes-á a lista de códigos de estações da UIC e os respectivos códigos NUTS 3. No que respeita aos quadros F3 e F4, os Estados-Membros poderão comunicar dados com base no número de bilhetes vendidos ou em qualquer outra fonte disponível 4. Estas estatísticas deverão dizer respeito às empresas abrangidas pelos anexos A e C"
+  },
+  "6fdbfdb8bf9f6daa": {
+   "fragment_id": "ANEXO G",
+   "type": "divisao",
+   "heading": "ANEXO G",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO G\n\nLista de variáveis e unidades de medida Transporte de mercadorias: — número de comboios transporte de passageiros: — número de comboios Outros (comboios de serviços, etc.) (facultativo): — número de comboios\n\nPeríodo de referência Um ano\n\nPeriodicidade Quinquenal\n\nLista de quadros, com repartição por quadro Quadro G1: transporte de mercadorias, por segmento de rede Quadro G2: transporte de passageiros, por segmento de rede Quadro G3: outros (comboios de serviços, etc.), por segmento de rede (facultativo)\n\nPrazo para a transmissão dos dados 18 meses após o final do período de referência\n\nPrimeiro período de referência 2005\n\nObservações 1. Os Estados-Membros deverão definir um conjunto de segmentos de rede que abranja, no mínimo, a rede ferroviária transeuropeia (TEN) situada no seu território nacional e deverão comunicar ao Eurostat: — as coordenadas geográficas e outros dados necessários para identificar e representar num mapa cada segmento de rede, bem como as ligações entre segmentos, — informações sobre as características (incluindo a capacidade) dos comboios que utilizam cada segmento de rede 2. Cada segmento de rede que faça parte da rede ferroviária transeuropeia (TEN) deverá ser identificado através de um atributo suplementar no registo de dados, para que seja possível quantificar o tráfego na respectiva rede ferroviária TEN"
+  },
+  "06249191ea0941f0": {
+   "fragment_id": "ANEXO H",
+   "type": "divisao",
+   "heading": "ANEXO H",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO H\n\nLista de variáveis e unidades de medida — número de acidentes (quadros H1, H2) — número de mortos (quadro H3) — número de feridos graves (quadro H4)\n\nPeríodo de referência Um ano\n\nPeriodicidade Anual\n\nLista de quadros, com repartição por quadro Quadro H1: número de acidentes graves e número de acidentes com feridos graves (opcional), por tipo de acidente Quadro H2: número de acidentes que envolvam o transporte de mercadorias perigosas Quadro H3: número de mortos, por tipo de acidente e categoria de pessoa Quadro H4: número de feridos graves, por tipo de acidente e categoria de pessoa\n\nPrazo para a transmissão dos dados Cinco meses após o final do período de referência\n\nPrimeiro período de referência 2004\n\nObservações 1. Os tipos de acidentes são repartidos do seguinte modo: — colisões (excluindo acidentes em passagens de nível) — descarrilamentos — acidentes ocorridos em passagens de nível — acidentes que afectem pessoas, provocados por material circulante em movimento — incêndios de material circulante — outros acidentes — total O tipo de acidente refere-se ao acidente primário 2. O quadro H2 é repartido do seguinte modo: — número total de acidentes que envolvam, pelo menos, um veículo ferroviário que transporte mercadorias perigosas, tal como definidas na lista de mercadorias constante no anexo K — número de acidentes desse tipo que provoquem a libertação de matérias perigosas 3. As categorias de pessoas são repartidas do seguinte modo: — passageiros — trabalhadores (incluindo contratantes) — outras categorias — total 4. Os dados dos quadros H1-H4 deverão dizer respeito a todos os caminhos-de-ferro cobertos pelo presente regulamento 5. Nos primeiros cinco anos de aplicação do presente regulamento, os Estados-Membros poderão transmitir estas estatísticas de acordo com as definições nacionais, caso os dados conformes com as definições harmonizadas (adoptadas nos termos do procedimento estabelecido no n.º 2 do artigo 11.º) não estejam disponíveis."
+  },
+  "71711de12a0fbf6d": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nLista de variáveis e unidades de medida Ver adiante\n\nPeríodo de referência Um ano\n\nPeriodicidade Anual\n\nLista de quadros, com repartição por quadro Ver adiante\n\nPrazo para a transmissão dos dados Cinco meses após o final do período de referência\n\nPrimeiro período de referência 2003\n\nObservações Para cada empresa de transporte ferroviário objecto de estatísticas em conformidade com os anexos A-H, deverá fornecer-se a informação a seguir indicada (quadro I1) Esta informação será utilizada para: — verificar quais as empresas abrangidas pelos quadros dos anexos A-H — validar a cobertura dos anexos A e C em relação ao total das actividades de transporte ferroviário\n\n| Identificação da fonte de dados |  |  |\n| --- | --- | --- |\n| I1.1.1 | País declarante |  |\n| I1.1.2 | Ano de referência |  |\n| I1.1.3 | Designação da empresa (facultativo) |  |\n| I1.1.4 | País onde a empresa está estabelecida |  |\n| Tipo de actividade |  |  |\n| I1.2.1 | Transporte de mercadorias: internacional | sim/não |\n| I1.2.2 | Transporte de mercadorias: nacional | sim/não |\n| I1.2.3 | Transporte de passageiros: internacional | sim/não |\n| I1.2.4 | Transporte de passageiros: nacional | sim/não |\n| Dados incluídos nos anexos A-H |  |  |\n|  | anexo A | sim/não |\n|  | anexo B | sim/não |\n|  | anexo C | sim/não |\n|  | anexo D | sim/não |\n|  | anexo E | sim/não |\n|  | anexo F | sim/não |\n|  | anexo G | sim/não |\n|  | anexo H | sim/não |\n| Nível da actividade de transporte (facultativo) |  |  |\n| I1.3.1 | Transporte total de mercadorias (toneladas) |  |\n| I1.3.2 | Transporte total de mercadorias (toneladas-quilómetro) |  |\n| I1.3.3 | Transporte total de passageiros (passageiros) |  |\n| I1.3.4 | Transporte total de passageiros (passageiros-quilómetro) |  |"
+  },
+  "21fb6480d1a7eb5a": {
+   "fragment_id": "ANEXO J",
+   "type": "divisao",
+   "heading": "ANEXO J",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO J"
+  },
+  "f73635fd9ca8b9a6": {
+   "fragment_id": "NST 2007",
+   "type": "divisao",
+   "heading": "NST 2007",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NST 2007\n\nDivisão Descrição\n\n01 Produtos da agricultura, da produção animal, da caça e da silvicultura; peixe e outros produtos da pesca\n\n02 Hulha e linhite; petróleo bruto e gás natural\n\n03 Produtos não energéticos das indústrias extractivas; turfa; urânio e tório\n\n04 Produtos alimentares, bebidas e tabaco\n\n05 Têxteis e produtos têxteis; couro e artigos de couro\n\n06 Madeira e cortiça e suas obras (excepto mobiliário); obras de espartaria e de cestaria; pasta, papel e cartão e seus artigos; material impresso, suportes gravados\n\n07 Coque e produtos petrolíferos refinados\n\n08 Produtos químicos e fibras sintéticas; artigos de borracha e de matérias plásticas; combustível nuclear\n\n09 Outros produtos minerais não metálicos\n\n10 Metais de base; produtos metálicos transformados, excepto máquinas e equipamento\n\n11 Máquinas e equipamentos n.e.; máquinas de escritório e equipamento informático; máquinas e aparelhos eléctricos n.e.; equipamento e aparelhos de radiotelevisão e telecomunicações; instrumentos de medicina, de precisão e de óptica; relógios\n\n12 Material de transporte\n\n13 Móveis; outros produtos das indústrias transformadoras n.e.\n\n14 Matérias-primas secundárias; resíduos municipais e outros resíduos\n\n15 Correio, encomendas\n\n16 Equipamento e material utilizados no transporte de mercadorias\n\n17 Mercadorias transportadas no contexto de uma mudança de carácter privado ou profissional; bagagem transportada separadamente dos passageiros; veículos a motor transportados para reparação; outros bens não mercantis n.e.\n\n18 Mercadorias grupadas: diversos tipos de mercadorias transportados em conjunto\n\n19 Mercadorias não identificáveis: mercadorias que, por determinado motivo, não podem ser identificadas e, por conseguinte, não se podem classificar num dos grupos de 01 a 16.\n\n20 Outras mercadorias n.e."
+  },
+  "6b77e7afeab84e0f": {
+   "fragment_id": "ANEXO K",
+   "type": "divisao",
+   "heading": "ANEXO K",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO K"
+  },
+  "b3c5232fabf945e0": {
+   "fragment_id": "CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+   "type": "divisao",
+   "heading": "CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS\n\n1. Matérias e objectos explosivos\n\n2. Gases comprimidos, liquefeitos ou dissolvidos sob pressão\n\n3. Matérias líquidas inflamáveis\n\n4.1. Matérias sólidas inflamáveis\n\n4.2. Matérias susceptíveis de inflamação espontânea\n\n4.3. Matérias que, em contacto com a água, libertam gases inflamáveis\n\n5.1. Matérias comburentes\n\n5.2. Peróxidos orgânicos\n\n6.1. Matérias tóxicas\n\n6.2. Matérias infecciosas\n\n7. Matérias radioactivas\n\n8. Matérias corrosivas\n\n9. Matérias e objectos perigosos diversos\n\nObservações:\n\nEstas categorias são as definidas no regulamento relativo ao transporte ferroviário internacional de mercadorias perigosas, conhecido pela sigla RID, tal como adoptado pela Directiva 96/49/CE do Conselho, de 23 de Julho de 1996, relativa à aproximação das legislações dos Estados-Membros respeitantes ao transporte ferroviário de mercadorias perigosas, e subsequentes alterações ([^9^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#E0009)).\n\n---"
+  },
+  "20f5c81e17f69ec5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#src.E0001)) JO C 180 E de 26.6.2001, p. 94.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#src.E0002)) JO C 221 de 30.5.2001, p. 63.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 4 de Setembro de 2001 (JO C 72 E de 21.3.2002, p. 58), posição comum do Conselho de 27 de Junho de 2002 (ainda não publicada no Jornal Oficial) e decisão do Parlamento Europeu de 24 de Outubro de 2002 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#src.E0004)) JO L 237 de 24.8.1991, p. 25. Directiva com a última redacção que lhe foi dada pela Directiva 2001/12/CE do Parlamento Europeu e do Conselho (JO L 75 de 15.3.2001, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#src.E0005)) JO L 350 de 23.12.1980, p. 23. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#src.E0006)) JO L 52 de 22.2.1997, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#src.E0008)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/e22bba37-9bc6-4569-bf03-11d5d64cb3cd.0018.03/DOC_1#src.E0009)) JO L 235 de 17.9.1996, p. 25. Directiva com a última redacção que lhe foi dada pela Directiva 2001/6/CE (JO L 30 de 1.2.2001, p. 42)."
+  },
+  "a2d100a338ecb535": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 2002\n\nrelativo às estatísticas dos transportes ferroviários\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 285.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#E0003)),\n\n(1) Os caminhos-de-ferro constituem uma parte importante das redes de transporte comunitárias.\n\n(2) A Comissão necessita de estatísticas sobre transportes ferroviários de mercadorias e de passageiros para acompanhar e desenvolver a política comum de transportes, bem como a componente dos transportes das políticas regionais e das redes transeuropeias.\n\n(3) A Comissão necessita de estatísticas sobre segurança ferroviária para poder preparar e acompanhar as acções comunitárias no domínio da segurança dos transportes.\n\n(4) As estatísticas comunitárias sobre transportes ferroviários são também necessárias para cumprir as medidas de acompanhamento previstas no artigo 10.ºB da Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários ([^4^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#E0004)).\n\n(5) As estatísticas comunitárias sobre todos os modos de transporte devem ser recolhidas de acordo com conceitos e padrões comuns, no intuito de atingir a máxima comparabilidade entre modos de transporte.\n\n(6) A reestruturação do sector ferroviário nos termos da Directiva 91/440/CEE, bem como as alterações do tipo de informação requerida pela Comissão e por outros utilizadores de estatísticas comunitárias sobre transportes ferroviários, tornam obsoletas as disposições da Directiva 80/1177/CEE, de 4 de Dezembro de 1980, relativa ao registo estatístico dos transportes ferroviários de mercadorias no âmbito de uma estatística regional ([^5^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#E0005)), no que respeita à recolha de estatísticas por determinadas administrações das principais redes de caminhos-de-ferro.\n\n(7) A coexistência de empresas ferroviárias públicas e privadas em actividade num mercado comercial de transportes ferroviários exige uma definição explícita da informação estatística que deverá ser fornecida por todas as empresas ferroviárias e difundida pelo Eurostat.\n\n(8) De acordo com o princípio da subsidiariedade previsto no artigo 5.º do Tratado, a criação de normas estatísticas comuns que permitam obter dados harmonizados é uma acção que só poderá ser realizada com eficácia a nível comunitário. Essas normas serão aplicadas em cada Estado-Membro sob o controlo dos organismos e instituições responsáveis pela elaboração de estatísticas oficiais.\n\n(9) O Regulamento (CE) n.º 322/97 do Conselho, de 17 de Fevereiro de 1997, relativo às estatísticas comunitárias ([^6^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#E0006)), proporciona um quadro de referência para as disposições do presente regulamento.\n\n(10) As medidas necessárias à execução do presente regulamento serão aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^7^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#E0007)).\n\n(11) O Comité do Programa Estatístico, criado pela Decisão 89/382/CEE, Euratom, de 19 de Junho de 1989, que cria o Comité do Programa Estatístico das Comunidades Europeias ([^8^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#E0008)), foi consultado pela Comissão nos termos do artigo 3.º da referida decisão,\n\nADOPTARAM O PRESENTE REGULAMENTO:"
+  },
+  "97ea188887e9a4b1": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1. Para efeitos do presente regulamento, entende-se por:\n\n1. «País declarante», o Estado-Membro que transmite os dados ao Eurostat;\n\n2. «Autoridades nacionais», os institutos nacionais de estatística ou outros organismos responsáveis pela elaboração de estatísticas comunitárias;\n\n3. «Caminho-de-ferro», via de comunicação por carril para utilização exclusiva de veículos ferroviários;\n\n4. «Veículo ferroviário», material móvel que circula exclusivamente sobre carril, com tracção própria (veículos tractores) ou rebocado (carruagens, reboques de automotora, furgões e vagões);\n\n5. «Empresa de transporte ferroviário», uma empresa pública ou privada, cuja actividade consista na prestação de serviços de transporte ferroviário de mercadorias e/ou passageiros. Excluem-se as empresas de transporte ferroviário que assegurem exclusivamente serviços de transporte ferroviário de passageiros por metropolitano, eléctrico e/ou metro ligeiro;\n\n6. «Transporte ferroviário de mercadorias», a deslocação de mercadorias efectuada por meio de veículos ferroviários entre o local de carga e o local de descarga;\n\n7. «Transporte ferroviário de passageiros», a deslocação de passageiros efectuada por veículos ferroviários entre o local de embarque e o local de desembarque. Exclui-se o transporte de passageiros por metropolitano, eléctrico e/ou metro ligeiro;\n\n8. «Metropolitano» (também conhecido como «metro», «caminho-de-ferro metropolitano» ou «caminho-de-ferro subterrâneo»), caminho-de-ferro eléctrico para o transporte de passageiros com capacidade para tráfego muito intenso e caracterizado por direitos exclusivos de passagem, composições com várias carruagens, alta velocidade, aceleração rápida, sistemas de sinalização sofisticados, e pela ausência de passagens de nível, para permitir uma frequência elevada de comboios e uma grande ocupação dos cais. O metro caracteriza-se ainda pela elevada quantidade de estações, normalmente a intervalos de 700 m-1 200 m. A «alta velocidade» define-se por comparação com a de eléctricos e metro ligeiro, e significa neste caso cerca de 30-40 km/h, nas distâncias mais curtas, e 40-70 km/h, nas mais longas;\n\n9. «Eléctrico (carro eléctrico)», veículo rodoviário de passageiros concebido para levar sentadas mais de nove pessoas (incluindo o condutor), ligado a condutores eléctricos ou movido a diesel e que se desloca sobre carris;\n\n10. «Metro ligeiro», caminho-de-ferro para o transporte de passageiros que utiliza frequentemente carruagens eléctricas sobre carris, as quais funcionam isoladamente ou em comboios curtos, em linhas duplas fixas. A distância entre as estações/paragens não ultrapassa geralmente os 1 200 m. Comparado com o metro, o metro ligeiro é de construção mais ligeira, concebida para volumes mais pequenos de tráfego e velocidade inferior. Por vezes é difícil distinguir com precisão entre metro ligeiro e eléctrico; o eléctrico não está normalmente separado do tráfego rodoviário, enquanto o metro ligeiro pode estar separado dos restantes sistemas;\n\n11. «Transporte nacional», transporte ferroviário entre dois locais (local de carga/embarque e local de descarga/desembarque) situados no país declarante. Pode incluir o trânsito por um segundo país;\n\n12. «Transporte internacional», transporte ferroviário entre um local (de carga/embarque ou de descarga/desembarque) situado no país declarante e um local (de carga/embarque ou de descarga/desembarque) situado noutro país;\n\n13. «Trânsito», transporte ferroviário efectuado na rede ferroviária do país declarante entre dois locais (local de carga/embarque e local de descarga/desembarque) situados fora do país declarante. As operações de transporte que envolvem carga/embarque ou descarga/desembarque de mercadorias/passageiros na fronteira do país declarante de/para outro modo de transporte não são consideradas como trânsito;\n\n14. «Passageiro ferroviário», qualquer pessoa, excluindo o pessoal afecto ao serviço do comboio, que efectue um percurso num veículo ferroviário. Para efeitos das estatísticas sobre acidentes, incluem-se os passageiros que tentem embarcar/desembarcar num/de um comboio em movimento;\n\n15. «Número de passageiros», número de viagens efectuadas por passageiros ferroviários, em que cada viagem é definida como a deslocação entre o local de embarque e o local de desembarque, com ou sem transferências de um veículo ferroviário para outro. Sempre que possível, quando os passageiros utilizarem os serviços de mais do que uma empresa de transporte ferroviário não devem ser contabilizados mais do que uma vez;\n\n16. «Passageiro-quilómetro», unidade de medida correspondente ao transporte de um passageiro na distância de um quilómetro. Deve considerar-se apenas a distância efectivamente percorrida pelo passageiro no território nacional do país declarante;\n\n17. «Peso», unidade de medida que corresponde à quantidade de mercadorias em toneladas (1 000 quilogramas). O peso a ter em consideração inclui, além do peso das mercadorias transportadas, o peso das embalagens e a tara dos contentores, caixas móveis, paletes e veículos rodoviários transportados por caminho-de-ferro, no âmbito de operações de transporte combinado. Sempre que possível, quando as mercadorias forem transportadas recorrendo aos serviços de mais do que uma empresa de transportes ferroviários, o peso das mercadorias não deve ser contabilizado mais do que uma vez;\n\n18. «Tonelada-quilómetro», unidade de medida correspondente à deslocação, por caminho-de-ferro, de uma tonelada (1 000 quilogramas) de mercadoria, na distância de um quilómetro. Deve considerar-se apenas a distância efectivamente percorrida no território nacional do país declarante;\n\n19. «Comboio», um ou mais veículos ferroviários rebocados por uma ou mais locomotivas ou automotoras, ou uma automotora isolada, circulando com um número determinado ou uma designação específica, de um ponto fixo inicial para um ponto fixo final. Uma locomotiva isolada, isto é, que viaje sozinha, não é considerada um comboio;\n\n20. «Comboio-quilómetro», unidade de medida que corresponde à deslocação de um comboio num percurso de um quilómetro. A distância utilizada é a distância efectivamente percorrida, se disponível, ou a distância normal da rede entre a origem e o destino. Só será tida em consideração a distância percorrida no território nacional do país declarante;\n\n21. «Comboio completo», qualquer remessa, composta por um ou vários vagões carregados, entregue a transporte ao mesmo tempo, pelo mesmo expedidor, na mesma estação e enviada sem alteração na composição do comboio para o endereço de um mesmo destinatário, na mesma estação de destino;\n\n22. «Vagão completo», qualquer remessa de mercadorias para a qual é necessária a utilização exclusiva de um vagão, quer a sua capacidade de carga seja totalmente utilizada ou não;\n\n23. «TEU (unidade equivalente a vinte pés)», unidade normalizada com base num contentor ISO de 20 pés de comprimento (6,10 m), usada como medida estatística de fluxos ou capacidades de tráfego. Um contentor normalizado ISO série 1 de 40 pés equivale a 2 TEU. Uma caixa móvel inferior a 20 pés corresponde a 0,75 TEU, entre 20 pés e 40 pés corresponde a 1,5 TEU e acima de 40 pés corresponde a 2,25 TEU;\n\n24. «Acidente grave», qualquer acidente que implique pelo menos um veículo ferroviário em movimento e provoque a morte ou ferimentos graves em, pelo menos, uma pessoa, ou consideráveis prejuízos ao material, às vias, a outras instalações, ou ao ambiente, ou interrupções prolongadas da circulação. Excluem-se os acidentes ocorridos em oficinas, armazéns e depósitos;\n\n25. «Acidente com feridos graves», qualquer acidente que implique pelo menos um veículo ferroviário em movimento e provoque a morte ou ferimentos graves em, pelo menos, uma pessoa. Excluem-se os acidentes ocorridos em oficinas, armazéns e depósitos;\n\n26. «Morto em acidente ferroviário», óbito resultante de um acidente ou em sua consequência registado dentro de 30 dias, excluindo os suicídios;\n\n27. «Ferido grave», qualquer pessoa que, em consequência de um acidente, tenha sofrido lesões que levem à sua hospitalização por períodos superiores a 24 horas, excluindo as tentativas de suicídio;\n\n28. «Acidente que envolva o transporte de mercadorias perigosas», qualquer acidente ou incidente que deva ser objecto de uma declaração em conformidade com o RID/ADR, secção 1.8.5;\n\n29. «Suicídio», qualquer acto deliberado contra si próprio destinado a provocar a morte, tal como registado e classificado pelas autoridades nacionais competentes.\n\n30. «Tentativa de suicídio», qualquer acto deliberado contra si próprio resultante em ferimentos graves mas não em morte, tal como registado e classificado pelas autoridades nacionais competentes.\n\n2. As definições constantes do n.º 1 podem ser adaptadas, podendo a Comissão aprovar definições técnicas suplementares necessárias para garantir a harmonização das estatísticas. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, nomeadamente completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 11.º."
+  },
+  "114a666630092e60": {
+   "fragment_id": "Artigo 4.º — Recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recolha de dados\n\n1. As estatísticas a recolher são especificadas nos anexos do presente regulamento e abrangem os seguintes tipos de dados:\n\na) Estatísticas anuais sobre transporte de mercadorias — declaração detalhada (anexo A);\n\nb) Estatísticas anuais sobre transporte de mercadorias — declaração simplificada (anexo B);\n\nc) Estatísticas anuais sobre transporte de passageiros — declaração detalhada (anexo C);\n\nd) Estatísticas anuais sobre transporte de passageiros — declaração simplificada (anexo D);\n\ne) Estatísticas trimestrais sobre transporte de mercadorias e de passageiros (anexo E);\n\nf) Estatísticas regionais sobre transporte de mercadorias e de passageiros (anexo F);\n\ng) Estatísticas sobre fluxos de tráfego na rede ferroviária (anexo G);\n\nh) Estatísticas sobre acidentes (anexo H).\n\n2. Os anexos B e D determinam os requisitos da declaração simplificada que podem ser utilizados pelos Estados-Membros em alternativa à declaração normal detalhada prevista nos anexos A e C, para as empresas cujo volume total de transporte de mercadorias ou de passageiros seja inferior a 500 milhões de toneladas-quilómetro ou a 200 milhões de passageiros-quilómetro, respectivamente. Estes limiares podem ser adaptados pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 11.º.\n\n3. Os Estados-Membros fornecem igualmente uma relação das empresas de transporte ferroviário objecto das estatísticas, tal como previsto no anexo I.\n\n4. Para efeitos do presente regulamento, as mercadorias são classificadas nos termos do anexo J. As mercadorias perigosas são, além disso, classificadas nos termos do anexo K.\n\n5. O conteúdo dos anexos pode ser adaptado pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 11.º."
+  },
+  "a403523e594cf2ba": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nMedidas de execução\n\n1. As disposições em matéria de transmissão dos dados ao Eurostat são aprovadas pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 11.º.\n\n2. A Comissão aprova as seguintes medidas de execução:\n\na) Adaptação dos limiares da declaração simplificada (artigo 4.º);\n\nb) Adaptação das definições e previsão de definições adicionais (n.º 2 do artigo 3.º);\n\nc) Adaptação do conteúdo dos anexos (artigo 4.º);\n\nd) Definição das informações a prestar para os relatórios sobre a qualidade e comparabilidade dos resultados (n.º 2 do artigo 8.º).\n\nEssas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, nomeadamente completando-o, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 11.º."
+  },
+  "ce7fed5db5b284f6": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nProcedimento de comité\n\n1. A Comissão é assistida pelo Comité do Programa Estatístico, criado pela Decisão 89/382/CEE, Euratom.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º.\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 e a alínea a) do n.º 5 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "248a2368a4c433e2": {
+   "fragment_id": "ANEXO H",
+   "type": "divisao",
+   "heading": "ANEXO H",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO H\n\nLista de variáveis e unidades de medida — número de acidentes (quadros H1, H2) — número de mortos (quadro H3) — número de feridos graves (quadro H4)\n\nPeríodo de referência Um ano\n\nPeriodicidade Anual\n\nLista de quadros, com repartição por quadro Quadro H1: número de acidentes graves e número de acidentes com feridos graves (opcional), por tipo de acidente Quadro H2: número de acidentes que envolvam o transporte de mercadorias perigosas Quadro H3: número de mortos, por tipo de acidente e categoria de pessoa Quadro H4: número de feridos graves, por tipo de acidente e categoria de pessoa\n\nPrazo para a transmissão dos dados Cinco meses após o final do período de referência\n\nPrimeiro período de referência 2004\n\nObservações 1. Os tipos de acidentes são repartidos do seguinte modo: — colisões (excluindo acidentes em passagens de nível) — descarrilamentos — acidentes ocorridos em passagens de nível — acidentes que afectem pessoas, provocados por material circulante em movimento — incêndios de material circulante — outros acidentes — total O tipo de acidente refere-se ao acidente primário 2. O quadro H2 é repartido do seguinte modo: — número total de acidentes que envolvam, pelo menos, um veículo ferroviário que transporte mercadorias perigosas, tal como definidas na lista de mercadorias constante no anexo K — número de acidentes desse tipo que provoquem a libertação de matérias perigosas 3. As categorias de pessoas são repartidas do seguinte modo: — passageiros — trabalhadores (incluindo contratantes) — outras categorias — total 4. Os dados dos quadros H1-H4 deverão dizer respeito a todos os caminhos-de-ferro cobertos pelo presente regulamento 5. Nos primeiros cinco anos de aplicação do presente regulamento, os Estados-Membros poderão transmitir estas estatísticas de acordo com as definições nacionais, caso os dados conformes com as definições harmonizadas (adoptadas [**►M3**](http://publications.europa.eu/resource/celex/32009R0219) pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 11.º **◄**) não estejam disponíveis."
+  },
+  "eadfde0cc483e808": {
+   "fragment_id": "CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+   "type": "divisao",
+   "heading": "CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS\n\n1. Matérias e objectos explosivos\n\n2. Gases comprimidos, liquefeitos ou dissolvidos sob pressão\n\n3. Matérias líquidas inflamáveis\n\n4.1. Matérias sólidas inflamáveis\n\n4.2. Matérias susceptíveis de inflamação espontânea\n\n4.3. Matérias que, em contacto com a água, libertam gases inflamáveis\n\n5.1. Matérias comburentes\n\n5.2. Peróxidos orgânicos\n\n6.1. Matérias tóxicas\n\n6.2. Matérias infecciosas\n\n7. Matérias radioactivas\n\n8. Matérias corrosivas\n\n9. Matérias e objectos perigosos diversos\n\nObservações:\n\nEstas categorias são as definidas no regulamento relativo ao transporte ferroviário internacional de mercadorias perigosas, conhecido pela sigla RID, tal como adoptado pela Directiva 96/49/CE do Conselho, de 23 de Julho de 1996, relativa à aproximação das legislações dos Estados-Membros respeitantes ao transporte ferroviário de mercadorias perigosas, e subsequentes alterações ([^9^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#E0009)).\n\n---"
+  },
+  "4664fa113ec295fa": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#src.E0001)) JO C 180 E de 26.6.2001, p. 94.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#src.E0002)) JO C 221 de 30.5.2001, p. 63.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 4 de Setembro de 2001 (JO C 72 E de 21.3.2002, p. 58), posição comum do Conselho de 27 de Junho de 2002 (ainda não publicada no Jornal Oficial) e decisão do Parlamento Europeu de 24 de Outubro de 2002 (ainda não publicada no Jornal Oficial).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#src.E0004)) JO L 237 de 24.8.1991, p. 25. Directiva com a última redacção que lhe foi dada pela Directiva 2001/12/CE do Parlamento Europeu e do Conselho (JO L 75 de 15.3.2001, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#src.E0005)) JO L 350 de 23.12.1980, p. 23. Directiva com a última redacção que lhe foi dada pelo Acto de Adesão de 1994.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#src.E0006)) JO L 52 de 22.2.1997, p. 1.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#src.E0007)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^8^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#src.E0008)) JO L 181 de 28.6.1989, p. 47.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/b466505b-39e5-4d40-b813-8143ba26e269.0018.03/DOC_1#src.E0009)) JO L 235 de 17.9.1996, p. 25. Directiva com a última redacção que lhe foi dada pela Directiva 2001/6/CE (JO L 30 de 1.2.2001, p. 42)."
+  },
+  "9b3e02b6fe08cfab": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Dezembro de 2002\n\nrelativo às estatísticas dos transportes ferroviários"
+  },
+  "53b9d1e20bc7256d": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1. Para efeitos do presente regulamento, entende-se por:\n\n1. «País declarante», o Estado-Membro que transmite os dados ao Eurostat;\n\n2. «Autoridades nacionais», os institutos nacionais de estatística ou outros organismos responsáveis pela elaboração de estatísticas comunitárias;\n\n3. «Caminho-de-ferro», via de comunicação por carril para utilização exclusiva de veículos ferroviários;\n\n4. «Veículo ferroviário», material móvel que circula exclusivamente sobre carril, com tracção própria (veículos tractores) ou rebocado (carruagens, reboques de automotora, furgões e vagões);\n\n5. «Empresa de transporte ferroviário», uma empresa pública ou privada, cuja actividade consista na prestação de serviços de transporte ferroviário de mercadorias e/ou passageiros. Excluem-se as empresas de transporte ferroviário que assegurem exclusivamente serviços de transporte ferroviário de passageiros por metropolitano, eléctrico e/ou metro ligeiro;\n\n6. «Transporte ferroviário de mercadorias», a deslocação de mercadorias efectuada por meio de veículos ferroviários entre o local de carga e o local de descarga;\n\n7. «Transporte ferroviário de passageiros», a deslocação de passageiros efectuada por veículos ferroviários entre o local de embarque e o local de desembarque. Exclui-se o transporte de passageiros por metropolitano, eléctrico e/ou metro ligeiro;\n\n8. «Metropolitano» (também conhecido como «metro», «caminho-de-ferro metropolitano» ou «caminho-de-ferro subterrâneo»), caminho-de-ferro eléctrico para o transporte de passageiros com capacidade para tráfego muito intenso e caracterizado por direitos exclusivos de passagem, composições com várias carruagens, alta velocidade, aceleração rápida, sistemas de sinalização sofisticados, e pela ausência de passagens de nível, para permitir uma frequência elevada de comboios e uma grande ocupação dos cais. O metro caracteriza-se ainda pela elevada quantidade de estações, normalmente a intervalos de 700 m-1 200 m. A «alta velocidade» define-se por comparação com a de eléctricos e metro ligeiro, e significa neste caso cerca de 30-40 km/h, nas distâncias mais curtas, e 40-70 km/h, nas mais longas;\n\n9. «Eléctrico (carro eléctrico)», veículo rodoviário de passageiros concebido para levar sentadas mais de nove pessoas (incluindo o condutor), ligado a condutores eléctricos ou movido a diesel e que se desloca sobre carris;\n\n10. «Metro ligeiro», caminho-de-ferro para o transporte de passageiros que utiliza frequentemente carruagens eléctricas sobre carris, as quais funcionam isoladamente ou em comboios curtos, em linhas duplas fixas. A distância entre as estações/paragens não ultrapassa geralmente os 1 200 m. Comparado com o metro, o metro ligeiro é de construção mais ligeira, concebida para volumes mais pequenos de tráfego e velocidade inferior. Por vezes é difícil distinguir com precisão entre metro ligeiro e eléctrico; o eléctrico não está normalmente separado do tráfego rodoviário, enquanto o metro ligeiro pode estar separado dos restantes sistemas;\n\n11. «Transporte nacional», transporte ferroviário entre dois locais (local de carga/embarque e local de descarga/desembarque) situados no país declarante. Pode incluir o trânsito por um segundo país;\n\n12. «Transporte internacional», transporte ferroviário entre um local (de carga/embarque ou de descarga/desembarque) situado no país declarante e um local (de carga/embarque ou de descarga/desembarque) situado noutro país;\n\n13. «Trânsito», transporte ferroviário efectuado na rede ferroviária do país declarante entre dois locais (local de carga/embarque e local de descarga/desembarque) situados fora do país declarante. As operações de transporte que envolvem carga/embarque ou descarga/desembarque de mercadorias/passageiros na fronteira do país declarante de/para outro modo de transporte não são consideradas como trânsito;\n\n14. «Passageiro ferroviário», qualquer pessoa, excluindo o pessoal afecto ao serviço do comboio, que efectue um percurso num veículo ferroviário. Para efeitos das estatísticas sobre acidentes, incluem-se os passageiros que tentem embarcar/desembarcar num/de um comboio em movimento;\n\n15. «Número de passageiros», número de viagens efectuadas por passageiros ferroviários, em que cada viagem é definida como a deslocação entre o local de embarque e o local de desembarque, com ou sem transferências de um veículo ferroviário para outro. Sempre que possível, quando os passageiros utilizarem os serviços de mais do que uma empresa de transporte ferroviário não devem ser contabilizados mais do que uma vez;\n\n16. «Passageiro-quilómetro», unidade de medida correspondente ao transporte de um passageiro na distância de um quilómetro. Deve considerar-se apenas a distância efectivamente percorrida pelo passageiro no território nacional do país declarante;\n\n17. «Peso», unidade de medida que corresponde à quantidade de mercadorias em toneladas (1 000 quilogramas). O peso a ter em consideração inclui, além do peso das mercadorias transportadas, o peso das embalagens e a tara dos contentores, caixas móveis, paletes e veículos rodoviários transportados por caminho-de-ferro, no âmbito de operações de transporte combinado. Sempre que possível, quando as mercadorias forem transportadas recorrendo aos serviços de mais do que uma empresa de transportes ferroviários, o peso das mercadorias não deve ser contabilizado mais do que uma vez;\n\n18. «Tonelada-quilómetro», unidade de medida correspondente à deslocação, por caminho-de-ferro, de uma tonelada (1 000 quilogramas) de mercadoria, na distância de um quilómetro. Deve considerar-se apenas a distância efectivamente percorrida no território nacional do país declarante;\n\n19. «Comboio», um ou mais veículos ferroviários rebocados por uma ou mais locomotivas ou automotoras, ou uma automotora isolada, circulando com um número determinado ou uma designação específica, de um ponto fixo inicial para um ponto fixo final. Uma locomotiva isolada, isto é, que viaje sozinha, não é considerada um comboio;\n\n20. «Comboio-quilómetro», unidade de medida que corresponde à deslocação de um comboio num percurso de um quilómetro. A distância utilizada é a distância efectivamente percorrida, se disponível, ou a distância normal da rede entre a origem e o destino. Só será tida em consideração a distância percorrida no território nacional do país declarante;\n\n21. «Comboio completo», qualquer remessa, composta por um ou vários vagões carregados, entregue a transporte ao mesmo tempo, pelo mesmo expedidor, na mesma estação e enviada sem alteração na composição do comboio para o endereço de um mesmo destinatário, na mesma estação de destino;\n\n22. «Vagão completo», qualquer remessa de mercadorias para a qual é necessária a utilização exclusiva de um vagão, quer a sua capacidade de carga seja totalmente utilizada ou não;\n\n23. «TEU (unidade equivalente a vinte pés)», unidade normalizada com base num contentor ISO de 20 pés de comprimento (6,10 m), usada como medida estatística de fluxos ou capacidades de tráfego. Um contentor normalizado ISO série 1 de 40 pés equivale a 2 TEU. Uma caixa móvel inferior a 20 pés corresponde a 0,75 TEU, entre 20 pés e 40 pés corresponde a 1,5 TEU e acima de 40 pés corresponde a 2,25 TEU.\n\n2. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 10.º, no que diz respeito à alteração do presente artigo para adaptar as definições técnicas constantes do n.º 1, pontos 8 a 10 e 21 a 23, e para elaborar novas definições técnicas, sempre que tal seja necessário para ter em conta novos factos que exijam a definição de certo nível de pormenores técnicos a fim de garantir a harmonização das estatísticas.\n\nAo exercer esses poderes, a Comissão assegura que os atos delegados não imponham encargos adicionais significativos aos Estados-Membros nem aos respondentes. Além disso, a Comissão fundamenta devidamente as medidas estatísticas previstas nos referidos atos delegados, recorrendo, se necessário, a uma análise de custo-benefício, incluindo uma avaliação da carga que recai sobre os respondentes e dos custos de produção, tal como referido no artigo 14.º, n.º 3, alínea c), do Regulamento (CE) n.º 223/2009 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/5f3751ed-ddbd-46d9-8648-96d396085700.0015.02/DOC_1#E0001))."
+  },
+  "d0758cf8b1cb2f72": {
+   "fragment_id": "Artigo 4.º — Recolha de dados",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recolha de dados\n\n1. As estatísticas a recolher são especificadas nos anexos do presente regulamento e abrangem os seguintes tipos de dados:\n\na) Estatísticas anuais sobre transporte de mercadorias — declaração detalhada (anexo A);\n\nc) Estatísticas anuais sobre transporte de passageiros — declaração detalhada (anexo C);\n\ne) Estatísticas trimestrais sobre transporte de mercadorias e de passageiros (anexo E);\n\nf) Estatísticas regionais sobre transporte de mercadorias e de passageiros (anexo F);\n\ng) Estatísticas sobre fluxos de tráfego na rede ferroviária (anexo G).\n\n2. Nos termos dos anexos A e C, os Estados-Membros comunicam dados relativos às empresas:\n\na) Cujo volume total de transporte de mercadorias seja, pelo menos, de 200 000 000 de toneladas-quilómetro ou, pelo menos, de 500 000 toneladas;\n\nb) Cujo volume total de transporte de passageiros seja, pelo menos, de 100 000 000 de passageiros-quilómetro.\n\nA apresentação de relatórios nos termos dos anexos A e C é facultativa em relação às empresas que se situem abaixo dos limiares referidos nas alíneas a) e b).\n\n3. Nos termos do anexo L, os Estados-Membros comunicam os dados totais relativos às empresas que se situem abaixo dos limiares referidos no n.º 2 se esses dados não forem comunicados nos termos dos anexos A e C, conforme especificado no anexo L.\n\n4. Para efeitos do presente regulamento, as mercadorias são classificadas nos termos do anexo J. As mercadorias perigosas são, além disso, classificadas nos termos do anexo K.\n\n5. O conteúdo dos anexos pode ser adaptado pela Comissão. Essas medidas, que têm por objecto alterar elementos não essenciais do presente regulamento, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 11.º."
+  },
+  "f56031a03c667509": {
+   "fragment_id": "Artigo 5.º — Fontes de dados",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Fontes de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fontes de dados\n\n1. Os Estados-Membros designam uma organização pública ou privada para participar na recolha de dados imposta pelo presente regulamento.\n\n2. Os dados necessários podem ser obtidos através de qualquer combinação das seguintes fontes:\n\na) Inquéritos obrigatórios;\n\nb) Dados administrativos, incluindo dados recolhidos pelas autoridades reguladoras, em especial a guia de remessa do transporte ferroviário de mercadorias, se disponível;\n\nc) Procedimentos de cálculo estatístico;\n\nd) Dados fornecidos por organizações profissionais do sector ferroviário;\n\ne) Estudos *ad hoc*.\n\n3. As autoridades nacionais tomam medidas para coordenar as fontes de dados utilizadas e garantir a qualidade das estatísticas transmitidas ao Eurostat."
+  },
+  "980b71e9f1c9facf": {
+   "fragment_id": "Artigo 7.º — Divulgação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Divulgação\n\nAs estatísticas baseadas nos dados especificados nos anexos A, C, E, F, G e L são divulgadas pela Comissão (Eurostat).\n\nA Comissão adota atos de execução que estabelecem as disposições aplicáveis à divulgação dos resultados. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 11.º, n.º 2."
+  },
+  "7a855f34ec9ac5e7": {
+   "fragment_id": "Artigo 8.º — Qualidade das estatísticas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Qualidade das estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Qualidade das estatísticas\n\n1. A fim de auxiliar os Estados-Membros a manter a qualidade das estatísticas sobre transportes ferroviários, o Eurostat deve desenvolver e publicar recomendações metodológicas, que tenham em consideração as melhores práticas das autoridades nacionais, das empresas de transporte ferroviário e das organizações profissionais do sector ferroviário.\n\n1-A. Os Estados-Membros tomam todas as medidas necessárias para assegurar a qualidade dos dados transmitidos.\n\n2. A qualidade dos dados estatísticos é avaliada pelo Eurostat. Para o efeito, os Estados-Membros fornecem, a pedido do Eurostat, informações sobre os métodos utilizados na elaboração das estatísticas.\n\n3. Para efeitos do presente regulamento, aplicam-se aos dados a transmitir os atributos de qualidade referidos no artigo 12.º, n.º 1, do Regulamento (CE) n.º 223/2009.\n\n4. A Comissão adota atos de execução que especificam as modalidades, a estrutura, a periodicidade e os elementos de comparabilidade dos relatórios de qualidade harmonizados. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 11.º, n.º 2."
+  },
+  "416165388ab3a338": {
+   "fragment_id": "Artigo 9.º — Relatórios de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Relatórios de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relatórios de aplicação\n\nAté 31 de dezembro de 2020 e, seguidamente, de quatro em quatro anos, a Comissão apresenta ao Parlamento Europeu e ao Conselho, após consultar o Comité do Sistema Estatístico Europeu, um relatório sobre a aplicação do presente regulamento e sobre a evolução futura.\n\nNesse relatório, a Comissão tem em conta as informações pertinentes, prestadas pelos Estados-Membros, relativas à qualidade dos dados transmitidos, aos métodos de recolha de dados utilizados e à informação sobre as melhorias potenciais e sobre as necessidades dos utilizadores.\n\nEsse relatório avalia, nomeadamente:\n\na) Os benefícios, resultantes para a União, para os Estados-Membros, para os fornecedores e para os utilizadores, das estatísticas elaboradas, em relação aos seus custos;\n\nb) A qualidade dos dados transmitidos, os métodos de recolha de dados utilizados e a qualidade das estatísticas elaboradas."
+  },
+  "821069cdb1fcdb75": {
+   "fragment_id": "Artigo 10.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 3.º, n.º 2, é conferido à Comissão por um prazo de cinco anos a contar de 13 de dezembro de 2016. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 3.º, n.º 2, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional de 13 de abril de 2016 sobre Legislar Melhor ([^2^](http://publications.europa.eu/resource/cellar/5f3751ed-ddbd-46d9-8648-96d396085700.0015.02/DOC_1#E0002)).\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 3.º, n.º 2, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "e14c2adac2f49f42": {
+   "fragment_id": "Artigo 11.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité do Sistema Estatístico Europeu, criado pelo Regulamento (CE) n.º 223/2009. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/5f3751ed-ddbd-46d9-8648-96d396085700.0015.02/DOC_1#E0003)).\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "85a5639223f57e06": {
+   "fragment_id": "ANEXO C",
+   "type": "divisao",
+   "heading": "ANEXO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C\n\n| ESTATÍSTICAS ANUAIS SOBRE TRANSPORTE DE PASSAGEIROS — DECLARAÇÃO DETALHADA |  |\n| --- | --- |\n| Lista de variáveis e unidades de medida | Passageiros transportados em: — número de passageiros — passageiros-km Movimentos de comboios de passageiros em: — comboios-km |\n| Período de referência | Um ano |\n| Periodicidade | Anual |\n| Lista de quadros com repartição por quadro | Quadro C3: passageiros transportados, por tipo de transporte Quadro C4: passageiros internacionais transportados, por país de embarque e por país de desembarque Quadro C5: movimentos de comboios de passageiros |\n| Prazo para a transmissão dos dados | Oito meses após o final do período de referência |\n| Primeiro período de referência | 2016 |\n| Observações | 1. Os tipos de transporte são repartidos do seguinte modo: — nacional — internacional 2. Relativamente aos quadros C3 e C4, os Estados-Membros comunicam os dados, incluindo informações sobre o número de bilhetes vendidos fora do país declarante. Essas informações poderão ser solicitadas quer diretamente às entidades nacionais de outros países, quer através das disposições internacionais de compensação de bilhetes |"
+  },
+  "c0e1c8d6b7a1a394": {
+   "fragment_id": "CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+   "type": "divisao",
+   "heading": "CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CLASSIFICAÇÃO DAS MERCADORIAS PERIGOSAS\n\n1. Matérias e objectos explosivos\n\n2. Gases comprimidos, liquefeitos ou dissolvidos sob pressão\n\n3. Matérias líquidas inflamáveis\n\n4.1. Matérias sólidas inflamáveis\n\n4.2. Matérias susceptíveis de inflamação espontânea\n\n4.3. Matérias que, em contacto com a água, libertam gases inflamáveis\n\n5.1. Matérias comburentes\n\n5.2. Peróxidos orgânicos\n\n6.1. Matérias tóxicas\n\n6.2. Matérias infecciosas\n\n7. Matérias radioactivas\n\n8. Matérias corrosivas\n\n9. Matérias e objectos perigosos diversos\n\nObservações:\n\nEstas categorias são as definidas no regulamento relativo ao transporte ferroviário internacional de mercadorias perigosas, conhecido pela sigla RID, tal como adoptado pela Directiva 96/49/CE do Conselho, de 23 de Julho de 1996, relativa à aproximação das legislações dos Estados-Membros respeitantes ao transporte ferroviário de mercadorias perigosas, e subsequentes alterações ([^4^](http://publications.europa.eu/resource/cellar/5f3751ed-ddbd-46d9-8648-96d396085700.0015.02/DOC_1#E0004))."
+  },
+  "98f02d708b13bdef": {
+   "fragment_id": "ANEXO L",
+   "type": "divisao",
+   "heading": "ANEXO L",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO L\n\n| NÍVEL DAS ATIVIDADES DE TRANSPORTE NO TRANSPORTE DE MERCADORIAS |  |\n| --- | --- |\n| Lista de variáveis e unidades de medida | Mercadorias transportadas em: — toneladas totais — total toneladas-km Movimentos de comboios de mercadorias em: — total comboio-km |\n| Período de referência | Um ano |\n| Periodicidade | Anual |\n| Prazo para a transmissão dos dados | Cinco meses após o final do período de referência |\n| Primeiro período de referência | 2017 |\n| Observações | Apenas para empresas com um volume total de transporte de mercadorias inferior a 200 milhões de toneladas-km e inferior a 500 000 toneladas, e não obrigadas a apresentar relatório nos termos do anexo A (relatório pormenorizado) |\n\n| NÍVEL DAS ATIVIDADES DE TRANSPORTE NO TRANSPORTE DE PASSAGEIROS |  |\n| --- | --- |\n| Lista de variáveis e unidades de medida | Passageiros transportados em: — total de passageiros — total passageiro-km Movimentos de comboios de passageiros em: — total comboio-km |\n| Período de referência | Um ano |\n| Periodicidade | Anual |\n| Prazo para a transmissão dos dados | Oito meses após o final do período de referência |\n| Primeiro período de referência | 2017 |\n| Observações | Apenas para empresas com um volume total de transporte de passageiros inferior a 100 milhões de passageiros-km, e não obrigadas a apresentar relatório nos termos do anexo C (relatório pormenorizado) |\n\n---"
+  },
+  "b2cb595492698737": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5f3751ed-ddbd-46d9-8648-96d396085700.0015.02/DOC_1#src.E0001)) Regulamento (CE) n.º 223/2009 do Parlamento Europeu e do Conselho, de 11 de março de 2009, relativo às Estatísticas Europeias e que revoga o Regulamento (CE, Euratom) n.º 1101/2008 relativo à transmissão de informações abrangidas pelo segredo estatístico ao Serviço de Estatística das Comunidades Europeias, o Regulamento (CE) n.º 322/97 do Conselho relativo às estatísticas comunitárias e a Decisão 89/382/CEE, Euratom do Conselho que cria o Comité do Programa Estatístico das Comunidades Europeias (JO L 87 de 31.3.2009, p. 164).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5f3751ed-ddbd-46d9-8648-96d396085700.0015.02/DOC_1#src.E0002)) JO L 123 de 12.5.2016, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5f3751ed-ddbd-46d9-8648-96d396085700.0015.02/DOC_1#src.E0003)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5f3751ed-ddbd-46d9-8648-96d396085700.0015.02/DOC_1#src.E0004)) JO L 235 de 17.9.1996, p. 25. Directiva com a última redacção que lhe foi dada pela Directiva 2001/6/CE (JO L 30 de 1.2.2001, p. 42)."
+  },
+  "a17148d3ce634fad": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02003R0091 — PT — 22.05.2018 — 005.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32003R0091) [REGULAMENTO (CE) N.º 91/2003 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32003R0091) [de 16 de Dezembro de 2002](http://publications.europa.eu/resource/celex/32003R0091) [relativo às estatísticas dos transportes ferroviários](http://publications.europa.eu/resource/celex/32003R0091) (JO L 014, 21.1.2003, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) 2018/643 do Parlamento Europeu e do Conselho de 18 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0643) — L 112 — 1 — 2.5.2018"
+  }
+ }
+}

@@ -1,0 +1,675 @@
+---
+schema_version: '1.0'
+id: pt:dre:105349903:por
+title: Portaria n.º 313-A/2016
+short_title: null
+summary: Estabelece o regime de aplicação da ação n.º 10.3 «Atividades de cooperação dos GAL», integradas na «Medida n.º 10
+  - LEADER», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura, Florestas e Desenvolvimento Rural
+proposing_entity: null
+official_number: 313-A/2016
+official_date: null
+publication_date: '2016-12-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 236/2016, 1º Suplemento, Série I de 2016-12-12
+  number: '236'
+  series: I
+  supplement: 1º Suplemento
+  pages: 4614-(2) a 4614-(8)
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/12/23601/0000200008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-06-18'
+version_history:
+  file: portaria-313-a-2016.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-12-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-08-08'
+    amending: pt:dre:107963501:por
+    amending_title: Portaria n.º 252/2017
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 17.º
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2018-02-13'
+    amending: pt:dre:114682828:por
+    amending_title: Portaria n.º 46/2018
+    changes:
+    - Altera Artigo 21.º
+  - date: '2018-11-27'
+    amending: pt:dre:117114264:por
+    amending_title: Portaria n.º 303/2018
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 17.º
+    - Altera Artigo 21.º
+  - date: '2019-09-17'
+    amending: pt:dre:124716451:por
+    amending_title: Portaria n.º 309/2019
+    changes:
+    - Altera Artigo 11.º
+    - Altera Anexo II
+  - date: '2025-06-18'
+    amending: pt:dre:921693793:por
+    amending_title: Portaria n.º 261/2025/1
+    changes:
+    - Altera Artigo 17.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/313-a/2016/p/cons/20250617/pt/html
+  oj: null
+  dre: '105349903'
+  dre_path: /dr/detalhe/portaria/313-a-2016-105349903
+  internal: pt:dre:105349903:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-a-2016-105349903
+  metadata_url: https://data.dre.pt/eli/port/313-a/2016/p/cons/20250617/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-107968059
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-107968059
+  retrieved_at: '2026-10-22T12:13:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 2807a65e2b976f3b0ceb144522b3889c00323dc1982947100ce55295f4572a76
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:13:41Z'
+  notes: 6 versão(ões); histórico completo em portaria-313-a-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Agrícola
+- Ajuda Comunitária
+- Financiamento
+- Desenvolvimento Rural
+- Cooperação
+- Cooperação Inter-regional
+- Cooperação Intermunicipal
+- Definição de Competências
+- Feader
+- Fiscalização
+- Formulário Eletrónico
+- Fundos CE
+- Pagamento
+- IFAP
+- Página na Internet
+- Programa Leader
+- Regulamento CE
+- Desenvolvimento Local
+- Subsídio não Reembolsável
+- PDR 2020
+relationships:
+- type: amended_by
+  target: pt:dre:107963501:por
+  label: Altera Artigo 7.º; Altera Artigo 11.º; Altera Artigo 17.º; Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/252-2017-107963501
+  date: '2017-08-07'
+- type: amended_by
+  target: pt:dre:114682828:por
+  label: Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828
+  date: '2018-02-12'
+- type: amended_by
+  target: pt:dre:117114264:por
+  label: Altera Artigo 10.º; Altera Artigo 17.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264
+  date: '2018-11-26'
+- type: amended_by
+  target: pt:dre:124716451:por
+  label: Altera Artigo 11.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/309-2019-124716451
+  date: '2019-09-16'
+- type: amended_by
+  target: pt:dre:921693793:por
+  label: Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/261-2025-921693793
+  date: '2025-06-17'
+- type: cites
+  target: celex:32013R1305
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1305/oj
+- type: cites
+  target: celex:32013R1306
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1306/oj
+- type: cites
+  target: celex:32014R0640
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/640/oj
+- type: cites
+  target: celex:32014R0809
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/809/oj
+- type: cites
+  target: pt:dre:175334:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/195/2012/08/23/p/dre
+- type: cites
+  target: pt:dre:56747378:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+- type: cites
+  target: pt:dre:58605739:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+- type: cites
+  target: pt:dre:70462181:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215/2015/10/06/p/dre
+article_structure:
+  article_count: 22
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:13:41Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 313-A/2016
+
+Portaria n.º 313-A/2016
+
+de 12 de dezembro
+
+O Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), estabelece como objetivos o incentivo da competitividade da agricultura, a gestão sustentável dos recursos naturais e ações do domínio do clima e o desenvolvimento territorial equilibrado das economias e comunidades rurais. O Decreto-Lei n.º 137/2014, de 12 de setembro, que estabeleceu o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.
+
+O PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.
+
+A medida n.º 10 - LEADER do PDR2020 visa promover o desenvolvimento de atividades económicas, permitindo fixar a população e aproveitar recursos endógenos, transformando-os em fatores de diferenciação e de competitividade.
+
+Estas funções têm vindo a assumir maior importância, correspondendo a novas procuras e necessidades das populações, inclusivamente exterior ao território local. Conjuga-se, assim, o reconhecimento das potencialidades dos territórios em todas as suas componentes, desde o património ambiental e cultural ao potencial endógeno de produção, a partir dos quais se pode estruturar o desenvolvimento local.
+
+A medida n.º 10 - LEADER integra a ação n.º 10.3 «Atividades de Cooperação dos GAL», que visa valorizar os territórios rurais e consolidar o seu tecido económico e social, através da cooperação, enquanto instrumento potenciador das complementaridades e diversidades, permitindo abrir novas oportunidades de mercado e de desenvolvimento dos territórios rurais.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece o regime de aplicação da ação n.º 10.3 «Atividades de cooperação dos GAL», integradas na «Medida n.º 10 - LEADER», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020.
+
+###### Artigo 2.º — Definições
+
+Para efeitos da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:
+
+a) «Candidatura conjunta», a candidatura apresentada por coordenador do projeto, na sequência de celebração de um protocolo de cooperação entre dois ou mais parceiros, cujos projetos estão relacionados entre si e com repercussão positiva nos territórios;
+
+b) «Cooperação Interterritorial», os projetos de cooperação, de nível nacional, entre Grupos de Ação Local (GAL), tendo estes entidades gestoras distintas;
+
+c) «Cooperação Transnacional», os projetos de cooperação entre GAL de vários Estados membros ou com outros parceiros ativos no desenvolvimento local de vários Estados membros ou de territórios de países terceiros;
+
+d) «Coordenador do projeto», o GAL nomeado pelos restantes parceiros do projeto de cooperação com funções de coordenação, animação da parceria e de verificação do respeito pelos compromissos assumidos entre os parceiros;
+
+e) «Desenvolvimento Local de Base Comunitária (DLBC)», a abordagem de desenvolvimento que incide em zonas sub-regionais específicas, dirigida por um GAL, sendo impulsionada através de estratégias de desenvolvimento local (EDL);
+
+f) «Entidade gestora», a responsável administrativa e financeira selecionada pelos membros de um GAL sem personalidade jurídica, capaz de administrar fundos públicos e garantir o seu funcionamento;
+
+g) «Estratégia de desenvolvimento local (EDL)», o modelo de desenvolvimento para um território de intervenção, sustentado na participação dos agentes locais, com vista a dar resposta às suas necessidades através da valorização dos recursos endógenos, assente num conjunto de prioridades e objetivos fixados a partir de um diagnóstico, privilegiando uma abordagem integrada, inovadora e com efeitos multiplicadores;
+
+h) «Grupo de ação local (GAL)», a parceria formada por representantes locais dos sectores público e privado de um determinado território de intervenção, representativa das atividades socioeconómicas e com uma estratégia de desenvolvimento própria, denominada EDL;
+
+i) «Outros parceiros ativos no desenvolvimento local», grupo de parceiros locais públicos e privados que:
+
+i) Executam uma estratégia de desenvolvimento local num território rural dentro ou fora da União Europeia;
+
+ii) Executam uma estratégia de desenvolvimento local num território não rural na União Europeia;
+
+j) «Projeto de cooperação», o instrumento que integra ações de cooperação individuais e comuns a vários parceiros, destinadas à valorização e desenvolvimento dos territórios, através da troca de experiências e utilização dos respetivos recursos;
+
+k) «Protocolo de cooperação», o documento de constituição de uma parceria de cooperação, que estabelece as responsabilidades e compromissos de gestão, coordenação, acompanhamento e avaliação do respetivo projeto.
+
+### Capítulo II — Atividades de Cooperação dos GAL
+
+###### Artigo 3.º — Objetivos
+
+O apoio previsto na presente portaria tem por objetivo valorizar, desenvolver os territórios rurais e consolidar o seu tecido económico e social, através da cooperação, enquanto instrumento potenciador de complementaridades, diversidade e heterogeneidade desses territórios.
+
+###### Artigo 4.º — Tipologia de operações
+
+O apoio previsto na presente portaria contempla as seguintes operações:
+
+a) Preparação de projetos de cooperação interterritorial;
+
+b) Preparação de projetos de cooperação transnacional;
+
+c) Desenvolvimento do projeto de cooperação interterritorial;
+
+d) Desenvolvimento do projeto de cooperação transnacional.
+
+###### Artigo 5.º — Beneficiários
+
+1 - Podem beneficiar do apoio previsto na presente portaria os GAL reconhecidos no âmbito do procedimento de seleção de DLBC na vertente rural.
+
+2 - No caso da cooperação transnacional prevista na alínea d) do artigo anterior podem ainda ser beneficiários do apoio previsto na presente portaria os parceiros nacionais ativos no desenvolvimento local, quando em parceria com os GAL reconhecidos no âmbito do procedimento de seleção de DLBC na vertente rural.
+
+###### Artigo 6.º — Critérios de elegibilidade dos beneficiários
+
+1 - Os candidatos aos apoios previstos na presente portaria, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:
+
+a) Encontrarem-se legalmente constituídos;
+
+b) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social;
+
+c) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER e do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);
+
+d) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA;
+
+e) Deterem um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;
+
+f) Demonstrarem capacidade para executar um projeto concreto, a definir em orientação técnica específica (OTE);
+
+g) Apresentarem um protocolo de cooperação, contendo o plano de atividades a desenvolver e onde estejam expressas as obrigações, os deveres e as responsabilidades de todos os parceiros envolvidos, bem como a designação do GAL coordenador do projeto de cooperação.
+
+2 - A condição prevista na alínea b) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento.
+
+###### Artigo 7.º — Critérios de elegibilidade das operações
+
+1 - Podem beneficiar dos apoios previstos na presente portaria as operações que se enquadrem nos objetivos do artigo 3.º, bem como nas alíneas a) e b) do artigo 4.º, e que reúnam ainda as seguintes condições:
+
+a) Correspondam a temáticas expressas nas EDL definidas pelos GAL para os territórios intervencionados;
+
+b) Apresentem um plano de desenvolvimento de cooperação, definindo os objetivos, atividades e potenciais interlocutores;
+
+c) Tenham início após a data de apresentação da candidatura, ou em data posterior a definir no anúncio de apresentação de candidaturas;
+
+d) Assegurem, quando aplicável, as fontes de financiamento de capital alheio.
+
+2 - Podem beneficiar dos apoios previstos na presente portaria as operações que se enquadrem nos objetivos do artigo 3.º, bem como nas alíneas c) e d) do artigo 4.º, e que reúnam ainda as seguintes condições:
+
+a) Correspondam a temáticas expressas nas EDL definidas pelos GAL para os territórios intervencionados;
+
+b) Apresentem coerência técnica, económica e financeira;
+
+c) Tenham início após a data de apresentação da candidatura;
+
+d) Assegurem, quando aplicável, as fontes de financiamento de capital alheio;
+
+e) Apresentem informação sobre os parceiros do projeto de cooperação, objetivos e as atividades a desenvolver por cada parceiro e respetivos orçamentos;
+
+f) Envolvam GAL com entidades gestoras distintas.
+
+3 - As operações previstas no presente diploma não podem prosseguir uma finalidade direta de âmbito económico.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 252/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/252-2017-107963501), em vigor a partir de 2017-08-08
+
+###### Artigo 8.º — Despesas elegíveis
+
+As despesas elegíveis são, designadamente, as constantes do anexo i à presente portaria, da qual faz parte integrante.
+
+###### Artigo 9.º — Critérios de seleção das candidaturas
+
+1 - Para efeitos de seleção das candidaturas aos apoios previstos nas alíneas a) e b) do artigo 4.º são considerados, designadamente, os seguintes critérios:
+
+a) O maior número de intenções de cooperação transnacional;
+
+b) O nível de maturidade das intenções de cooperação quanto aos potenciais parceiros e temáticas dos futuros projetos de cooperação.
+
+2 - Para efeitos de seleção das candidaturas aos apoios previstos nas alíneas c) e d) do artigo 4.º são considerados, designadamente, os seguintes critérios:
+
+a) A pertinência da cooperação em relação aos objetivos temáticos da Cooperação Territorial Europeia, nomeadamente:
+
+i) Reforço da investigação, desenvolvimento tecnológico e inovação;
+
+ii) Proteção do ambiente e promoção da eficiência energética;
+
+iii) Promoção do emprego e apoio à mobilidade dos trabalhadores;
+
+iv) Promoção da inclusão social e combate à pobreza;
+
+b) O contributo da cooperação para a integração dos agentes locais em redes de atividades estratégicas;
+
+c) O contributo da cooperação para ampliar e multiplicar o impacto da EDL;
+
+d) O contributo da cooperação para ampliar a visibilidade do território;
+
+e) A capacidade para melhorar, acrescentar e divulgar os resultados obtidos em projetos anteriormente executados.
+
+3 - A hierarquização dos critérios constantes dos números anteriores, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, e no respetivo anúncio do período de apresentação de candidaturas.
+
+###### Artigo 10.º — Obrigações dos beneficiários
+
+1 - Os beneficiários dos apoios previstos na presente portaria, além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, são obrigados a:
+
+a) Executar as operações nos termos e prazos fixados no termo de aceitação;
+
+b) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações;
+
+c) Cumprir os compromissos estabelecidos no protocolo de cooperação, nomeadamente informar regularmente o coordenador do projeto do desenvolvimento das atividades;
+
+d) Comunicar à autoridade de gestão qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projeto;
+
+e) Publicitar os apoios que lhe forem atribuídos nos termos da legislação comunitária aplicável e das normas técnicas do PDR2020;
+
+f) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;
+
+g) Manter um sistema de contabilidade organizada ou simplificada, nos termos da legislação em vigor;
+
+h) Garantir que todos os pagamentos e recebimentos relativos à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;
+
+i) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluída, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior;
+
+j) Assegurar o fornecimento de elementos necessários às atividades de monitorização e de avaliação das operações e participar em processos de inquirição relacionados com as mesmas;
+
+k) Apresentar o relatório final das atividades de preparação do projeto de cooperação desenvolvidas, e quando aplicável, a justificação da não prossecução do projeto de cooperação;
+
+l) Apresentar o relatório final do projeto de cooperação, com a avaliação dos resultados atingidos, dos eventuais desvios e justificação para os mesmos, bem como a envolvência da parceria.
+
+m) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento e exceto no caso de operação inteiramente sujeita a custos simplificados.
+
+2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea m) do número anterior.
+
+> Alterado pelo/a Artigo 20.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27
+
+###### Artigo 11.º — Forma, nível e limites dos apoios
+
+1 - O apoio previsto na presente portaria assume a forma de subvenção não reembolsável.
+
+2 - O apoio previsto assume a modalidade de montantes fixos, de acordo com o previsto na alínea d) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no caso das operações previstas nas alíneas a) e b) do artigo 4.º, conforme tabela constante do n.º 2 do anexo II da presente portaria, que dela faz parte integrante.
+
+3 - O nível e limite dos apoios a conceder no âmbito do presente regulamento, no caso das operações previstas nas alíneas c) e d) do artigo 4.º, constam do n.º 1 do anexo II da presente portaria, que dela faz parte integrante.
+
+4 - O apoio a conceder às operações previstas nas alíneas a) e b) do artigo 4.º está limitado a 30 000 euros por beneficiário, para o período de vigência do PDR 2020 e limitado aos GAL reconhecidos no âmbito do procedimento de seleção de DLBC, vertente rural.
+
+5 - As despesas gerais decorrentes de encargos com instalações e despesas de funcionamento previstas no anexo I, relativas às alíneas c) e d) do artigo 4.º, classificadas como custos indiretos, são determinadas por aplicação de uma taxa fixa de 15 % das despesas com pessoal, de acordo com o previsto na subalínea ii) da alínea e) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro.
+
+6 - As despesas com deslocações transnacionais, nomeadamente as viagens, são reembolsadas como custos elegíveis efetivamente incorridos e pagos.
+
+7 - As despesas com deslocações internas e ajudas de custo, para pagamento de alojamento, alimentação e deslocações, relativas às operações previstas nas alíneas c) e d) do artigo 4.º, assumem a forma de custos unitários, conforme previsto na alínea c) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, no valor correspondente ao per diem estabelecido pela Comissão Europeia, a publicar em OTE.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2019 - Diário da República n.º 177/2019, Série I de 2019-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/309-2019-124716451), em vigor a partir de 2019-09-17
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 252/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/252-2017-107963501), em vigor a partir de 2017-08-08
+
+### Capítulo III — Procedimento
+
+###### Artigo 12.º — Apresentação das candidaturas
+
+1 - São estabelecidos períodos contínuos para apresentação de candidaturas de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitado em dois órgãos de comunicação social.
+
+2 - A apresentação das candidaturas efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www. portugal2020.pt, ou do PDR 2020, em www.pdr-2020.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.
+
+3 - A apresentação de candidaturas para as operações das alíneas c) e d) do artigo 4.º reveste a forma de candidatura conjunta.
+
+###### Artigo 13.º — Anúncios
+
+1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:
+
+a) Os objetivos e as prioridades visadas;
+
+b) A tipologia das operações a apoiar;
+
+c) A área geográfica elegível;
+
+d) A dotação orçamental a atribuir;
+
+e) Os critérios de seleção, respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;
+
+f) A forma e o nível dos apoios a conceder, respeitando o disposto no artigo 11.º;
+
+g) Número de candidaturas por beneficiário, respeitando o disposto no artigo 11.º
+
+2 - Os anúncios dos períodos de apresentação das candidaturas podem prever dotações específicas para determinadas tipologias de operações a apoiar.
+
+3 - Os anúncios dos períodos de apresentação das candidaturas são divulgados, no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitados em dois órgãos de comunicação social.
+
+###### Artigo 14.º — Análise e decisão das candidaturas
+
+1 - A autoridade de gestão analisa e emite parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, bem como a aplicação dos fatores referidos no artigo 9.º, o apuramento do montante do custo total elegível e o nível de apoio previsional.
+
+2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.
+
+3 - O parecer referido no n.º 1 do presente artigo é emitido num prazo máximo de 45 dias úteis a contar da data limite para a apresentação das candidaturas.
+
+4 - A autoridade de gestão aplica os critérios de seleção, em função do princípio da coesão territorial e da dotação orçamental referida no respetivo anúncio e submete ao gestor a decisão das candidaturas.
+
+5 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código do Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.
+
+6 - As candidaturas são objeto de decisão pelo gestor no prazo de 60 dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.
+
+7 - No caso dos projetos de cooperação transnacional, a decisão prevista no número anterior fica condicionada à apresentação, por parte de todos os parceiros de outros Estados membros, do comprovativo da aprovação pelas respetivas autoridades de gestão.
+
+8 - A decisão de aprovação caduca no prazo de quatro meses após a data de apresentação da candidatura, no caso da cooperação transnacional, bem como na cooperação interterritorial que implique decisão de outra autoridade de gestão, quando não seja cumprida a condição prevista no número anterior.
+
+9 - A autoridade de gestão comunica à Comissão Europeia a aprovação dos projetos de cooperação transnacional no prazo de 20 dias após a respetiva tomada de decisão.
+
+###### Artigo 15.º — Termo de aceitação
+
+1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), e divulgados no respetivo portal, em www.ifap.pt.
+
+2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão.
+
+###### Artigo 16.º — Execução das operações
+
+1 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira das operações previstas nas alíneas a) e b) do artigo 4.º são, respetivamente, de 6 e 12 meses contados a partir da data da submissão autenticada do termo de aceitação.
+
+2 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira das operações previstas nas alíneas c) e d) do artigo 4.º são, respetivamente, de 6 e 36 meses contados a partir da data da submissão autenticada do termo de aceitação.
+
+3 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos nos números anteriores.
+
+###### Artigo 17.º — Apresentação dos pedidos de pagamento
+
+1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.
+
+2 - Os pedidos de pagamento, das operações previstas nas alíneas c) e d) do artigo 4.º, reportam-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.
+
+3 - Apenas são aceites os pedidos de pagamento relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.
+
+4 - Pode ser apresentado, nas operações previstas nas alíneas c) e d) do artigo 4.º, um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.
+
+5 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.
+
+6 - Podem ser apresentados até sete pedidos de pagamento por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.
+
+7 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento, devendo o beneficiário assegurar previamente a validação pela Autoridade de Gestão do relatório final do projeto de cooperação identificado na alínea l) do artigo 10.º, para as operações previstas nas alíneas c) e d) do artigo. 4.º
+
+8 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.
+
+9 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até três meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal do PDR 2020, em www.pdr-2020.pt.
+
+10 - No caso das operações previstas nas alíneas a) e b) do artigo 4.º, só há lugar à apresentação de um único pedido de pagamento, por operação, devendo o beneficiário assegurar previamente a validação pela Autoridade de Gestão do relatório final de atividade de preparação identificado na alínea k) do artigo 10.º
+
+11 - O disposto nos n.os 2 e 3 não é aplicável às despesas gerais de encargos com instalações, nomeadamente despesas de funcionamento classificadas como custos indiretos, as quais decorrem das despesas com pessoal apresentadas no pedido de pagamento, bem como às deslocações, estadas e ajudas de custo na Europa e fora da Europa.
+
+> Alterado pelo/a Artigo 10.º do/a [Portaria n.º 261/2025/1 - Diário da República n.º 115/2025, Série I de 2025-06-17](https://diariodarepublica.pt/dr/detalhe/portaria/261-2025-921693793), em vigor a partir de 2025-06-18
+
+> Alterado pelo/a Artigo 20.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 252/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/252-2017-107963501), em vigor a partir de 2017-08-08
+
+###### Artigo 18.º — Análise e decisão dos pedidos de pagamento
+
+1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer.
+
+2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.
+
+3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.
+
+4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores adota os procedimentos necessários ao respetivo pagamento.
+
+5 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.
+
+###### Artigo 19.º — Pagamentos
+
+1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.
+
+2 - Os pagamentos dos apoios são efetuados por transferência bancária, para a conta referida na alínea h) do artigo 10.º
+
+###### Artigo 20.º — Controlo
+
+As operações objeto de apoio, incluindo a candidatura e os pedidos de pagamento, estão sujeitas a ações de controlo administrativo e in loco a partir da data da submissão autenticada do termo de aceitação, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.
+
+###### Artigo 21.º — Reduções e exclusões
+
+1 - Os apoios previstos na presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.
+
+2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 10.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, é efetuada de acordo com o previsto no anexo iii à presente portaria, da qual faz parte integrante.
+
+3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.
+
+4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.
+
+5 - A recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, rege-se pelo disposto nos artigos 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, e 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.
+
+6 - A não comprovação do início da execução física da operação no prazo previsto na alínea m) do n.º 1 do artigo 10.º ou no n.º 2 do artigo 10.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.
+
+> Alterado pelo/a Artigo 20.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27
+
+> Alterado pelo/a Artigo 27.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13
+
+### Capítulo IV — Disposição final
+
+###### Artigo 22.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 12 de dezembro de 2016.
+
+## Anexo I — Despesas elegíveis do apoio «Atividades de Cooperação dos GAL»
+
+(a que se refere o artigo 8.º)
+
+Despesas elegíveis:
+
+Despesas decorrentes da ação conjunta dos GAL e dos outros parceiros ativos no desenvolvimento local envolvidos na cooperação e respetiva execução, relativas a:
+
+1 - Despesas elegíveis - alíneas a) e b) do artigo 4.º
+
+a) Estudos de mercado;
+
+b) Análise do impacto estratégico;
+
+c) Aquisição de serviços de consultadoria;
+
+d) Deslocações e estadas;
+
+e) Despesas com pessoal e funcionamento;
+
+f) Outras despesas diretamente associadas à tipologia das ações de cooperação.
+
+2 - Despesas elegíveis - alíneas c) e d) do artigo 4.º
+
+i) Custos diretos:
+
+a) Estudos de mercado;
+
+b) Análise do impacto estratégico;
+
+c) Aquisição de serviços de consultadoria;
+
+d) Deslocações e estadas;
+
+e) Ações de informação e promoção;
+
+f) Despesas com instalações e equipamentos necessários à ação comum;
+
+g) Despesas com o pessoal;
+
+h) Outras despesas diretamente associadas à tipologia das ações de cooperação.
+
+ii) Custos indiretos:
+
+a) Despesas com instalações e funcionamento, designadamente, água, eletricidade, comunicações, serviços de limpeza, seguro das instalações, produto de higiene e limpeza.
+
+Despesas não elegíveis:
+
+Despesas não elegíveis - artigo 4.º
+
+Investimentos materiais:
+
+1) Edifícios - aquisição de imóveis e despesas com trabalhos a mais de empreitadas de obras públicas e adicionais de contratos de fornecimento, erros e omissões do projeto;
+
+2) Bens de equipamento em estado de uso.
+
+Investimentos imateriais:
+
+1) Despesas com constituição de cauções relativas aos adiantamentos de ajuda pública;
+
+2) Juros das dívidas;
+
+3) Custos relacionados com contratos de locação financeira, como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro;
+
+4) IVA nas seguintes situações:
+
+4.1) Regime de isenção ao abrigo do artigo 53.º do CIVA;
+
+4.2) Regime normal.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 252/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/252-2017-107963501), em vigor a partir de 2017-08-08
+
+## Anexo II — Nível e limite de apoios
+
+(a que se refere o artigo 11.º)
+
+N.º 1
+
+<a href="https://dre.pt/application/conteudo/124716451" style="color: #0000ff; text-decoration: underline" target="blank">(ver documento original)</a>
+
+N.º 2
+
+<a href="https://dre.pt/application/conteudo/124716451" style="color: #0000ff; text-decoration: underline" target="blank">(ver documento original)</a>
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2019 - Diário da República n.º 177/2019, Série I de 2019-09-16](https://diariodarepublica.pt/dr/detalhe/portaria/309-2019-124716451), em vigor a partir de 2019-09-17
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 252/2017 - Diário da República n.º 151/2017, Série I de 2017-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/252-2017-107963501), em vigor a partir de 2017-08-08
+
+## Anexo III — Reduções e exclusões
+
+(a que se refere o n.º 2 do artigo 21.º)
+
+1 - O incumprimento das obrigações dos beneficiários, previstas no artigo 10.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:
+
+Reduções e exclusões
+
+(ver documento original)
+
+2 - O disposto no número anterior não prejudica, designadamente, a aplicação:
+
+a) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;
+
+b) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;
+
+c) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;
+
+d) Do artigo 63.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014;
+
+e) De outras cominações, designadamente de natureza penal, que ao caso couberem.
+
+3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt.

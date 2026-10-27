@@ -1,0 +1,524 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:117222795:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-117228699",
+ "dre_path": "/dr/detalhe/portaria/311-2018-117222795",
+ "source_lastmod": "2026-08-25",
+ "versions": [
+  {
+   "date": "2018-12-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117230775",
+    "117230776",
+    "117230777",
+    "117230778",
+    "117230779",
+    "117230780",
+    "117230781",
+    "117230782",
+    "117230783",
+    "117230784",
+    "117230785",
+    "117230786",
+    "117230787",
+    "117230788",
+    "117230789",
+    "117230790",
+    "117230791",
+    "117230792",
+    "117230793",
+    "117230794",
+    "117230795",
+    "117230796",
+    "117230797",
+    "117230798",
+    "117230799",
+    "117230800",
+    "117230801",
+    "117230803",
+    "117230804"
+   ]
+  },
+  {
+   "date": "2020-12-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151323165:por",
+     "title": "Portaria n.º 291/2020",
+     "published": "2020-12-17",
+     "dre_path": "/dr/detalhe/portaria/291-2020-151323165"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Anexo I",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "117230775",
+    "117230776",
+    "117230777",
+    "117230778",
+    "117230779",
+    "117230780",
+    "151510678",
+    "151510679",
+    "117230783",
+    "151510680",
+    "117230785",
+    "117230786",
+    "151510681",
+    "117230788",
+    "151510682",
+    "151510683",
+    "151510684",
+    "117230792",
+    "151510685",
+    "117230794",
+    "151510686",
+    "151510687",
+    "117230797",
+    "117230798",
+    "117230799",
+    "117230800",
+    "117230801",
+    "117230802",
+    "151510688",
+    "151510689"
+   ]
+  },
+  {
+   "date": "2026-08-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1161801441:por",
+     "title": "Portaria n.º 384/2026/1",
+     "published": "2026-08-25",
+     "dre_path": "/dr/detalhe/portaria/384-2026-1161801441"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "117230775",
+    "117230776",
+    "117230777",
+    "117230778",
+    "117230779",
+    "117230780",
+    "151510678",
+    "151510679",
+    "117230783",
+    "151510680",
+    "117230785",
+    "117230786",
+    "151510681",
+    "117230788",
+    "151510682",
+    "151510683",
+    "151510684",
+    "117230792",
+    "1162011475",
+    "117230794",
+    "151510686",
+    "151510687",
+    "117230797",
+    "117230798",
+    "117230799",
+    "117230800",
+    "117230801",
+    "117230802",
+    "151510688",
+    "151510689"
+   ]
+  }
+ ],
+ "fragments": {
+  "117230775": {
+   "fragment_id": "117228700",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 311/2018\n\nde 4 de dezembro\n\nO Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, que estabelece uma Organização Comum dos Mercados dos Produtos Agrícolas, inclui o regime de apoio à promoção de vinhos em mercados de países terceiros.\n\nO Regulamento Delegado (UE) n.º 2016/1149, da Comissão, de 15 de abril, e o Regulamento de Execução (UE) n.º 2016/1150, da Comissão, de 15 de abril, complementam e estabelecem as normas de execução no que se refere aos programas de apoio nacionais ao setor vitivinícola.\n\nCom a publicação do Regulamento de Execução (UE) 2017/256, da Comissão, de 14 de fevereiro, que altera o Regulamento de Execução (UE) 2016/1150, da Comissão, de 15 de abril, ficou assegurada a continuidade entre os programas de apoio 2013-2018 e 2019-2023.\n\nOs programas de promoção de vinhos em mercados de países terceiros contribuem, decisivamente, para a visibilidade e o reconhecimento do carácter diferenciador dos vinhos portugueses naqueles mercados e para o aumento das exportações.\n\nTendo presente as novas regras introduzidas pela regulamentação comunitária em matéria de apoios à promoção, bem como a experiência acumulada ao nível da gestão e controlo desta medida, importa proceder a uma revisão do atual quadro regulamentar nacional, no sentido de introduzir uma maior previsibilidade e eficácia na monitorização da execução financeira e responsabilização dos beneficiários ao nível da execução dos programas e cumprimento dos prazos administrativos.\n\nPor outro lado, os beneficiários passam a poder submeter pedidos de adiantamento até 80 % do valor total do apoio aprovado quando atualmente estavam limitados ao valor do apoio comunitário.\n\nAproveita-se ainda para introduzir alterações à Portaria n.º 303/2016, de 5 de dezembro, alterada pela Portaria n.º 10/2018, de 5 de janeiro, que estabelece as regras complementares do Apoio à Promoção de Vinhos em Mercados de Países Terceiros para o período de 2014-2018;\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo do disposto nas alíneas e) e f) do n.º 1 do artigo 22.º do Decreto-Lei n.º 94/2012, de 20 de abril, o seguinte:"
+  },
+  "117230776": {
+   "fragment_id": "117228701",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria estabelece as regras complementares para o apoio comunitário à promoção de vinhos em mercados de países terceiros, no âmbito do programa nacional de apoio ao setor vitivinícola, para o período 2019-2023, nos termos do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, do qual podem beneficiar os projetos que visem a promoção de vinhos com «Denominação de Origem Protegida» (DOP), vinhos com «Indicação Geográfica Protegida» (IGP) e vinhos com indicação de casta, produzidos no território nacional, que se destinem ao consumo direto.\n\n2 - A presente Portaria introduz ainda alterações ao regime da Portaria n.º 303/2016, de 5 de dezembro, alterada pela Portaria n.º 10/2018, de 5 de janeiro, que estabelece as regras complementares do Apoio à Promoção de Vinhos em Mercados de Países Terceiros para o período de 2014-2018."
+  },
+  "117230777": {
+   "fragment_id": "117228702",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidades intervenientes\n\n1 - São entidades intervenientes no procedimento relativo ao regime de apoio à promoção de vinhos em mercados de países terceiros o Instituto da Vinha e do Vinho, I. P. (IVV, I. P.), que exerce as funções de Entidade de Gestão (EG), e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), que exerce as funções de Organismo Pagador (OP).\n\n2 - Compete à EG:\n\na) Proceder à abertura de concursos;\n\nb) Fixar as taxas de apoio;\n\nc) Avaliar, selecionar e aprovar as candidaturas submetidas no âmbito de um concurso;\n\nd) Analisar e decidir as modificações aos projetos apresentadas pelos beneficiários;\n\ne) Efetuar o acompanhamento e a avaliação da medida de apoio;\n\nf) Comunicar aos candidatos a decisão relativa às candidaturas apresentadas;\n\ng) Definir o modelo e a forma de submissão de Relatório de Execução Final.\n\n3 - Compete ao OP:\n\na) Proceder à comunicação ao beneficiário do termo de aceitação do compromisso relativo ao projeto aprovado;\n\nb) Analisar e decidir sobre os pedidos de pagamentos apresentados e proceder aos controlos administrativos e in loco dos pedidos de pagamento, nos termos da regulamentação comunitária aplicável;\n\nc) Efetuar o pagamento dos apoios.\n\n4 - As entidades referidas nos números anteriores podem delegar as suas funções a outros organismos públicos, mediante celebração de protocolo de colaboração ou de outra forma acordada para o efeito."
+  },
+  "117230778": {
+   "fragment_id": "117228703",
+   "type": 11,
+   "heading": "Artigo 3.º — Normas complementares de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Normas complementares de aplicação\n\n1 - As entidades intervenientes referidas no artigo anterior estabelecem as normas complementares de aplicação da presente portaria, de acordo com as respetivas competências.\n\n2 - As normas complementares são publicitadas nas páginas eletrónicas do IVV, I. P., e do IFAP, I. P."
+  },
+  "117230779": {
+   "fragment_id": "117228704",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito das ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito das ações\n\n1 - Podem beneficiar do apoio as ações realizadas no âmbito de:\n\na) Relações públicas, promoção ou publicidade, que destaquem, designadamente, as vantagens dos produtos produzidos no território nacional, especialmente em termos de qualidade, segurança dos alimentos ou respeito pelo ambiente;\n\nb) Participação em eventos, feiras ou exposições de importância internacional;\n\nc) Campanhas de informação, especialmente sobre os regimes comunitários de denominações de origem, indicações geográficas e modo de produção biológica;\n\nd) Estudos de mercado necessários para a expansão das saídas comerciais e estudos de avaliação dos resultados das ações de informação e promoção.\n\n2 - Quando se trate de vinho com DOP ou IGP, deve ser indicada a origem do vinho nas campanhas de informação e promoção.\n\n3 - Sem prejuízo do disposto no número anterior, a referência a marcas comerciais pode integrar as campanhas de informação e de promoção.\n\n4 - A EG pode estabelecer, nas normas complementares de aplicação, orientações relativas às mensagens de promoção a transmitir, de modo a favorecer a coerência e eficácia da medida."
+  },
+  "117230780": {
+   "fragment_id": "117228705",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\nPodem beneficiar de apoio as seguintes entidades:\n\na) Empresas, grupos de empresas ou associações destas, de qualquer natureza e forma jurídica, desde que relacionadas com o setor do vinho;\n\nb) Organizações de produtores, reconhecidas no âmbito da Organização Comum de Mercado do Vinho;\n\nc) Associações e organizações profissionais do setor do vinho;\n\nd) Organizações interprofissionais do setor do vinho;\n\ne) Organismos públicos diretamente relacionados com o setor do vinho, nos termos da regulamentação comunitária."
+  },
+  "117230781": {
+   "fragment_id": "117228706",
+   "type": 11,
+   "heading": "Artigo 6.º — Duração do projeto e do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Duração do projeto e do apoio\n\n1 - A duração máxima de um projeto é de um ano, sendo fixadas no aviso de abertura do respetivo concurso as datas de início e de fim para a sua execução material e financeira.\n\n2 - O apoio a conceder ao projeto incide sobre as ações aprovadas e executadas no período temporal fixado para a sua execução material, exceto nas situações definidas nas normas complementares de aplicação referidas no artigo 3.º\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021."
+  },
+  "117230782": {
+   "fragment_id": "117228707",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma, nível e limite do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Forma, nível e limite do apoio\n\n1 - O apoio é concedido sob a forma de incentivo não reembolsável.\n\n2 - O nível máximo de apoio a conceder a cada projeto por fundos da União não pode ultrapassar 50 % do valor das despesas elegíveis.\n\n3 - Para os beneficiários referidos nas alíneas c) a e) do n.º 1 do artigo 5.º, o nível máximo de apoio pode ser majorado por fundos nacionais, até ao limite de 30 %, nos termos a definir pela EG nas normas complementares referidas no artigo 3.º, respeitando as disposições de direito da União Europeia aplicáveis em matéria de auxílios de Estado.\n\n4 - O disposto no número anterior não se aplica a ações que visem a promoção de produtos com a DO «Porto» e produtos originários das Regiões Autónomas dos Açores e da Madeira.\n\n5 - Nas situações previstas no número anterior, as ações que visem a promoção de produtos com a DO «Porto» e produtos originários das Regiões Autónomas dos Açores e da Madeira devem ser apresentadas num projeto individualizado.\n\n6 - A comparticipação de fundos nacionais resulta da disponibilidade orçamental proveniente das receitas geradas ao abrigo do disposto no Decreto-Lei n.º 94/2012, de 20 de abril.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021."
+  },
+  "117230783": {
+   "fragment_id": "117228708",
+   "type": 11,
+   "heading": "Artigo 8.º — Cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cumulação de apoios\n\n1 - As ações de promoção em mercados de países terceiros a realizar no âmbito da aplicação do programa nacional de apoio são financiadas pela Medida da Promoção de Vinhos em Mercados de Países Terceiros no âmbito da Organização Comum de Mercado.\n\n2 - As ações de informação e de promoção dos produtos agrícolas no mercado interno são financiadas exclusivamente no âmbito do Regulamento (UE) n.º 1144/2014, do Parlamento Europeu e do Conselho, de 22 de outubro."
+  },
+  "117230784": {
+   "fragment_id": "117228709",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis e não elegíveis\n\n1 - As despesas elegíveis são estabelecidas nas normas complementares referidas no artigo 3.º, incluindo as despesas diretamente relacionadas com a execução das ações do projeto, nomeadamente, com:\n\na) Aluguer de espaços e utilização de equipamentos, material promocional e informativo incluindo a conceção, a elaboração e a contratação de serviços especializados;\n\nb) Material e equipamento, utilização informática, publicação e divulgação;\n\nc) Viagens, alojamentos e despesas diárias;\n\nd) Transporte de bens e dos produtos a promover e o respetivo custo aduaneiro;\n\ne) Custos administrativos do beneficiário;\n\nf) O imposto sobre o valor acrescentado (IVA) não recuperável, desde que seja definitivamente suportado pelo beneficiário e devidamente comprovado pelo responsável técnico pela contabilidade do beneficiário.\n\n2 - A elegibilidade dos custos das ações será avaliada com base em tabelas normalizadas de custos unitários ou em documentos comprovativos apresentados pelo beneficiário, conforme definido nas normas complementares de aplicação, referidas no artigo 3.º\n\n3 - As despesas não elegíveis são estabelecidas nas normas complementares de aplicação referidas no artigo 3.º\n\n4 - Sem prejuízo do disposto no número anterior, não são elegíveis as despesas referentes a:\n\na) Valor dos vinhos consumidos nas ações de promoção, exceto nas ações realizadas em monopólios;\n\nb) Transportes públicos e refeições isoladas, quando referentes a intervenientes na ação para as quais estejam previstas despesas diárias elegíveis ao apoio;\n\nc) Criação e desenvolvimento de marcas: aquisição de patentes, licenças, copyrights e registo de marcas coletivas;\n\nd) Descontos comerciais ou com efeito equivalente;\n\ne) Provisões a títulos de eventuais perdas ou dívidas futuras;\n\nf) Despesas bancárias, juros bancários e prémios de seguros;\n\ng) Perdas resultantes do câmbio de moedas;\n\nh) Imposto sobre o valor acrescentado que incida sobre as despesas elegíveis quando recuperável pelo beneficiário;\n\ni) Criação, manutenção ou tradução de portais eletrónicos.\n\n5 - Os requisitos dos comprovativos das despesas para efeitos de pagamento do apoio são definidos pelo OP através das normas complementares referidas no artigo 3.º\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021."
+  },
+  "117230785": {
+   "fragment_id": "117228710",
+   "type": 11,
+   "heading": "Artigo 10.º — Abertura de concursos e apresentação de projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Abertura de concursos e apresentação de projetos\n\n1 - Os projetos de promoção são selecionados por concurso.\n\n2 - Os períodos para apresentação de candidaturas são definidos em aviso de abertura da iniciativa da EG, publicitado nas páginas eletrónicas do IVV, I. P., e do IFAP, I. P.\n\n3 - O aviso de abertura de cada concurso estabelece as regras relativas ao procedimento, nomeadamente:\n\na) Os objetivos e as prioridades;\n\nb) Os mercados prioritários, o âmbito das ações e as rubricas de despesa elegíveis;\n\nc) Os beneficiários;\n\nd) O período para a execução material do projeto;\n\ne) O período de elegibilidade da despesa, de acordo com o n.º 2 do artigo 6.º da presente portaria;\n\nf) O prazo e as regras para a apresentação de projetos;\n\ng) O prazo de comunicação da avaliação e seleção dos projetos;\n\nh) O prazo para a decisão sobre a atribuição do apoio;\n\ni) A dotação orçamental disponível e as taxas de apoio.\n\n4 - No aviso de abertura podem ainda ser fixados montantes mínimos e máximos para o investimento elegível por projeto e rubrica de despesa, bem como montantes mínimos por documento comprovativo das despesas realizadas."
+  },
+  "117230786": {
+   "fragment_id": "117228711",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de elegibilidade e critérios administrativos formais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de elegibilidade e critérios administrativos formais\n\n1 - Podem beneficiar de apoio os projetos que cumpram, cumulativamente, com os seguintes critérios de elegibilidade:\n\na) Tenham as ações claramente definidas, descrevendo as atividades de promoção e incluindo o custo estimado;\n\nb) Os custos propostos das ações não excedam os valores normais de mercado;\n\nc) Os beneficiários disponham de acesso a capacidade técnica suficiente para fazer face às condicionantes específicas do comércio com países terceiros e de recursos suficientes para garantir a realização das ações com o máximo de eficácia possível;\n\nd) Os beneficiários disponham a longo prazo, depois das ações de promoção, de produtos em quantidade e de qualidade suficientes para responder à procura do mercado;\n\ne) As candidaturas apresentem coerência entre as estratégias propostas, os objetivos estabelecidos e o impacto e sucesso prováveis no aumento da procura dos produtos em causa.\n\n2 - Os beneficiários devem observar, ainda, os seguintes critérios administrativos formais:\n\na) Submeter a candidatura dentro do prazo estipulado no aviso de abertura;\n\nb) Encontrar-se legalmente constituído e ter sede, representação permanente ou estabelecimento estável no território nacional;\n\nc) Cumprir as condições legais necessárias ao exercício da atividade no setor vitivinícola, nomeadamente, a inscrição no IVV, I. P., ou entidade competente das regiões autónomas, e não estar em dívida perante aquelas entidades;\n\nd) Possuir a situação regularizada face à administração fiscal e à segurança social;\n\ne) Dispor de contabilidade organizada nos termos do sistema de normalização contabilística ou outra regulamentação em vigor."
+  },
+  "117230787": {
+   "fragment_id": "117228712",
+   "type": 11,
+   "heading": "Artigo 12.º — Processo de análise e seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Processo de análise e seleção\n\n1 - Os projetos são apresentados à EG, que procede à verificação da conformidade através da aplicação dos critérios de elegibilidade e dos critérios administrativos formais definidos no artigo 11.º da presente portaria.\n\n2 - São liminarmente excluídos todos os projetos que não cumpram com o definido no artigo 11.º da presente portaria.\n\n3 - A EG procede à hierarquização dos projetos elegíveis com base na pontuação obtida com a aplicação dos critérios de prioridade constantes do Anexo I e tendo em conta o Anexo II da presente portaria, da qual fazem parte integrante.\n\n4 - Quando, num concurso, se verificar que o valor do apoio comunitário referente ao investimento global proposto excede a dotação orçamental comunitária prevista no aviso de abertura, a EG hierarquiza as candidaturas por ordem decrescente da pontuação até ao esgotamento do orçamento disponível.\n\n5 - Se, após a hierarquização efetuada nos termos descritos no número anterior, ainda subsistirem situações de projetos que obtenham a mesma pontuação e para as quais não exista dotação orçamental comunitária disponível suficiente, aplica-se, a esses projetos, uma distribuição numa base pro rata.\n\n6 - São excluídas as candidaturas que, após a aplicação do número anterior, deixem de cumprir com o montante mínimo do investimento elegível, caso este tenha sido previsto no aviso de abertura.\n\n7 - No prazo máximo de 90 dias seguidos, contados a partir do primeiro dia útil após o prazo fixado para apresentação dos projetos, a EG toma a decisão sobre as propostas recebidas e comunica-a ao beneficiário para que, num prazo de 10 dias úteis apresente, querendo, reclamação de acordo com o previsto no Código do Procedimento Administrativo.\n\n8 - No caso de projetos excluídos, a notificação contém os fundamentos, de facto e de direito, do indeferimento, nos termos do Código do Procedimento Administrativo.\n\n9 - A EG transmite ao OP a informação necessária à celebração do termo de aceitação com o beneficiário e procede à divulgação dos elementos relativos aos projetos aprovados em cada concurso.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021."
+  },
+  "117230788": {
+   "fragment_id": "117228713",
+   "type": 11,
+   "heading": "Artigo 13.º — Formalização da concessão do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Formalização da concessão do apoio\n\n1 - A aceitação do apoio é formalizada através de termo de aceitação assinado pelo beneficiário, o qual inclui, nomeadamente, a indicação do apoio máximo a conceder para a execução do projeto aprovado, bem como o período para a sua realização.\n\n2 - O OP remete ao beneficiário o termo de aceitação no prazo de 15 dias úteis após tomar conhecimento da aprovação do projeto.\n\n3 - A não formalização, por parte do beneficiário, do termo de aceitação no prazo de 30 dias úteis determina a caducidade da decisão de aprovação do projeto.\n\n4 - O OP disponibiliza à EG informação relativa aos termos de aceitação."
+  },
+  "117230789": {
+   "fragment_id": "117228714",
+   "type": 11,
+   "heading": "Artigo 14.º — Obrigações do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigações do beneficiário\n\n1 - O beneficiário fica obrigado a respeitar e cumprir o disposto na presente portaria, bem como o estabelecido nas normas complementares de aplicação previstas no artigo 3.º\n\n2 - O beneficiário fica, ainda, sujeito às seguintes obrigações:\n\na) Executar o projeto nos termos e condições aprovadas e nos prazos fixados no termo de aceitação;\n\nb) Disponibilizar, nos prazos estabelecidos, todos os elementos solicitados pelas entidades com competências para a gestão e controlo;\n\nc) Submeter-se a ações de controlo, realizadas pelas entidades competentes;\n\nd) Autorizar a EG e o OP, a obter, junto das entidades competentes, todas as informações que forem julgadas necessárias ou oportunas para efeito de acompanhamento e controlo do projeto;\n\ne) Manter um sistema de contabilidade organizada, de acordo com o sistema de normalização contabilística ou outra regulamentação aplicável;\n\nf) Conservar em boa ordem e devidamente organizados todos os documentos suscetíveis de comprovar as informações e declarações prestadas, a fundamentação das opções tomadas no âmbito do projeto, bem como, todos os originais dos documentos comprovativos da realização da despesa e evidências da realização das ações, durante cinco anos após o final do projeto, exceto se outro prazo se encontrar fixado em lei especial;\n\ng) Assegurar que o registo no sistema de identificação de beneficiários junto do OP se encontra devidamente atualizado, nomeadamente, quanto aos representantes legais e à identificação da conta bancária única a utilizar para registo de todas as despesas e receitas do beneficiário, relativas ao projeto;\n\nh) Garantir que todos os pagamentos e recebimentos referentes à candidatura são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto nas situações definidas nas normas complementares de aplicação referidas no artigo 3.º;\n\ni) Apresentar o relatório de execução final até 90 dias seguidos após a data limite do período de execução material, e previamente ao pedido de pagamento submetido ao OP, nos termos a definir nas normas complementares de aplicação referidas no artigo 3.º\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021."
+  },
+  "117230790": {
+   "fragment_id": "117228715",
+   "type": 11,
+   "heading": "Artigo 15.º — Modificações ao projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Modificações ao projeto\n\n1 - O beneficiário pode apresentar à EG um pedido de modificação ao conteúdo do projeto aprovado, podendo esta ser de natureza financeira e material, nos termos a definir nas normas complementares de aplicação previstas no artigo 3.º\n\n2 - O pedido de modificação carece de aprovação da EG, e deve ser submetido até à data limite fixada para a execução material do projeto e previamente à apresentação do pedido de pagamento.\n\n3 - Não são aceites pedidos de modificação que:\n\na) Modifiquem a atribuição da pontuação dos critérios de prioridade, nos casos previstos nos n.os 4 e 5 do artigo 12.º da presente portaria;\n\nb) Incluam ações em países não previstos na candidatura aprovada;\n\nc) Reduzam o orçamento aprovado em mais de 30 %.\n\n4 - O disposto nas alíneas b) e c) do número anterior não se aplica às ações a realizar em mercados sujeitos a regras de monopólio comercial.\n\n5 - Nos termos a definir nas normas complementares de aplicação previstas no artigo 3.º, podem ainda ser fixados limites máximos à reafetação de verbas aprovadas a novas ações ou ao reforço de dotações de ações já previstas.\n\n6 - A decisão da EG é comunicada ao OP e ao beneficiário, no prazo máximo de 45 dias seguidos após a data de submissão do pedido de modificação.\n\n7 - O prazo fixado no número anterior é contado a partir da data de apresentação de um pedido completo, devidamente fundamentado e corretamente submetido.\n\n8 - Para efeitos da aplicação do disposto no n.º 2, a EG informa o OP da data de entrada dos pedidos de modificação.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto no presente artigo aplica-se para o concursos n.º 1/2020."
+  },
+  "117230791": {
+   "fragment_id": "117228716",
+   "type": 11,
+   "heading": "Artigo 16.º — Pedido de adiantamento e pedido de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pedido de adiantamento e pedido de pagamento\n\n1 - O pedido de adiantamento e o pedido de pagamento são submetidos ao OP, sendo aceites mediante o cumprimento das obrigações constantes do artigo 14.º da presente portaria, quando aplicáveis.\n\n2 - O beneficiário só pode apresentar um pedido de adiantamento, até ao montante correspondente a 80 % do valor do apoio aprovado para o projeto, mediante a entrega de uma garantia constituída a favor do OP, de montante igual ao do adiantamento solicitado, e que o deve acompanhar, sob pena do pedido de adiantamento não ser aceite.\n\n3 - O pedido de adiantamento a que se refere o número anterior deve ser apresentado até à data limite do período de execução material e previamente à apresentação do pedido de pagamento.\n\n4 - O beneficiário só pode apresentar um pedido de pagamento ao OP no prazo de 90 dias seguidos após o fim do período de execução material do projeto.\n\n5 - Apenas é aceite o pedido de pagamento relativo a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação, no presente artigo e nas normas complementares de aplicação.\n\n6 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento bastante para a não aprovação do pedido.\n\n7 - Sob certas condições definidas nas normas complementares de aplicação previstas no artigo 3.º, o beneficiário pode apresentar um certificado das demonstrações financeiras que acompanham os pedidos de pagamento, nos termos do artigo 41.º do Regulamento de Execução (UE) 2016/1150, da Comissão, de 15 de abril.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021."
+  },
+  "117230792": {
+   "fragment_id": "117228717",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pagamentos\n\n1 - O pagamento do apoio é efetuado por transferência bancária para a conta referida na alínea g) do n.º 2 do artigo 14.º da presente portaria.\n\n2 - Em função da disponibilidade orçamental e da verificação realizada, o OP efetua o pagamento do apoio até ao último dia útil do mês em que se cumpram 120 dias seguidos da apresentação do pedido de pagamento, ou 30 dias seguidos da apresentação do pedido de adiantamento.\n\n3 - Ao valor do pedido de pagamento deve ser descontado, quando aplicável, o montante de apoio já pago a título do adiantamento já realizado.\n\n4 - A garantia referida no n.º 2 do artigo anterior é liberada no prazo máximo de 60 dias seguidos contados da data de apuramento do apoio."
+  },
+  "117230793": {
+   "fragment_id": "117228718",
+   "type": 11,
+   "heading": "Artigo 18.º — Resolução e denúncia do termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Resolução e denúncia do termo de aceitação\n\n1 - O termo de aceitação pode ser resolvido, unilateralmente, pelo OP ouvida a EG, ou por indicação desta, nos casos de prestação de informações falsas sobre a situação do beneficiário ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento da execução do projeto.\n\n2 - Nos casos previstos no número anterior, o beneficiário não pode beneficiar de quaisquer apoios no âmbito desta medida durante a vigência do quadro financeiro de apoio 2019-2023.\n\n3 - O termo de aceitação só pode ser denunciado por iniciativa do beneficiário até à data limite da execução material do projeto, através de comunicação ao OP, dando conhecimento à EG.\n\n4 - Salvo nos casos de força maior previstos no n.º 2 do artigo 2.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, a resolução ou a denúncia do termo de aceitação implica a devolução dos montantes já recebidos pelo beneficiário, no prazo de 30 dias seguidos a contar da data de notificação da decisão, findo o qual são devidos juros de mora sobre o montante a devolver.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021."
+  },
+  "117230794": {
+   "fragment_id": "117228719",
+   "type": 11,
+   "heading": "Artigo 19.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acompanhamento e avaliação\n\n1 - A EG procede à avaliação dos resultados da medida de apoio por forma a verificar o cumprimento dos objetivos estabelecidos.\n\n2 - O OP remete à EG a informação necessária ao cumprimento das comunicações obrigatórias à Comissão Europeia, bem como, para efeitos de acompanhamento dos projetos, os registos de despesas apresentadas pelos beneficiários e os pagamentos realizados ao nível da rubrica de despesa.\n\n3 - A informação para efeitos de acompanhamento dos projetos a que se refere o número anterior é efetuada com recurso a sistemas de informação que garantam a interoperabilidade das duas entidades e evitem duplicação de registos."
+  },
+  "117230795": {
+   "fragment_id": "117228720",
+   "type": 11,
+   "heading": "Artigo 20.º — Execução dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Execução dos projetos\n\n1 - O grau de execução financeira corresponde ao montante do apoio financeiro devido antes da aplicação de qualquer penalização prevista no presente diploma.\n\n2 - Salvo nos casos de força maior previstos no n.º 2 do artigo 2.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, o beneficiário deve garantir um grau mínimo de execução financeira do projeto de 50 %, ficando sujeito ao disposto no artigo 21.º da presente portaria, caso esse limiar não seja cumprido.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021."
+  },
+  "117230796": {
+   "fragment_id": "117228721",
+   "type": 11,
+   "heading": "Artigo 21.º — Penalizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Penalizações\n\n1 - Salvo nos casos de força maior previstos no n.º 2 do artigo 2.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, o incumprimento dos prazos de apresentação do relatório final de execução a que se refere a alínea i) do artigo 14.º ou do pedido de pagamento a que se refere o n.º 4 do artigo 16.º implica uma penalização de 1 % por dia do montante de ajuda a que o beneficiário teria direito se o pedido tivesse sido apresentado atempadamente.\n\n2 - Se o atraso a que se refere o número anterior for superior a 25 dias seguidos, o pedido é recusado.\n\n3 - Quando o grau de execução financeira de um projeto for inferior a 50 %, o valor total do apoio é reduzido em 20 %.\n\n4 - Salvo nos casos de força maior previstos no n.º 2 do artigo 2.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, e nas situações previstas no n.º 3 do artigo 18.º, a não apresentação do relatório de execução final ou do pedido de pagamento nos prazos fixados para o efeito determina a exclusão de qualquer apoio no concurso seguinte.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto no presente artigo aplica-se para o concursos n.º 1/2020."
+  },
+  "117230797": {
+   "fragment_id": "117228722",
+   "type": 11,
+   "heading": "Artigo 22.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Controlo\n\nAs candidaturas ao apoio à promoção de vinhos em mercados de países terceiros estão sujeitas a controlos administrativos e no local, nos termos do Regulamento (UE) 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, e do Regulamento de Execução (UE) 2016/1150, da Comissão, de 15 de abril, alterado pelo Regulamento de Execução (UE) 2017/256, da Comissão, de 14 de fevereiro."
+  },
+  "117230798": {
+   "fragment_id": "117228723",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposições transitórias\n\n1 - O pagamento dos apoios para os concursos a abrir ao abrigo da presente portaria fica condicionado à dotação financeira comunitária disponível para o exercício financeiro de 2020, bem como a que vier a ser fixada para o período 2021 a 2023 e às eventuais alterações que possam decorrer da futura regulamentação comunitária.\n\n2 - Se da aplicação das condições referidas no número anterior decorrer a necessidade de alteração das candidaturas, o IVV, I. P., determina o prazo e as condições em que os candidatos o podem fazer.\n\n3 - Quando necessário, para os períodos referidos no n.º 1, o pagamento dos apoios pode ser efetuado com recurso ao orçamento disponível do IVV, I. P., no respeito pelas regras relativas aos auxílios de Estado."
+  },
+  "117230799": {
+   "fragment_id": "117228724",
+   "type": 11,
+   "heading": "Artigo 24.º — Alterações ao regime da Portaria n.º 303/2016, de 5 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Alterações ao regime da Portaria n.º 303/2016, de 5 de dezembro\n\n1 - É revogada a alínea b) do n.º 1 do artigo 18.º da Portaria n.º 303/2016, de 5 de dezembro, alterada pela Portaria n.º 10/2018, de 5 de janeiro, que estabelece as regras complementares do Apoio à Promoção de Vinhos em Mercados de Países Terceiros para o período de 2014-2018.\n\n2 - A revogação referida no número anterior é de aplicação imediata a todos os concursos abertos no âmbito da Portaria n.º 303/2016, de 5 de dezembro.\n\n3 - Aos concursos 1/2018 e seguintes, abertos ao abrigo da Portaria n.º 303/2016, de 5 de dezembro, aplica-se o regime constante dos artigos 16.º, 18.º, 20.º e os n.os 1, 2 e 3 do artigo 21.º da presente portaria, ficando derrogados, para os referidos concursos, o disposto nos correspondentes artigos 16.º, 18.º, 20.º e 21.º da Portaria n.º 303/2016, de 5 de dezembro."
+  },
+  "117230800": {
+   "fragment_id": "117228725",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\nÉ revogada a Portaria n.º 347/2017, de 13 de novembro."
+  },
+  "117230801": {
+   "fragment_id": "117228726",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "117230803": {
+   "fragment_id": "117228728",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 3 do artigo 12.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 3 do artigo 12.º)\n\nCritérios de prioridade e ponderação\n\n(ver documento original)"
+  },
+  "117230804": {
+   "fragment_id": "117228729",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 3 do artigo 12.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 3 do artigo 12.º)\n\nMercados prioritários\n\n(ver documento original)\n\n111868675"
+  },
+  "151510678": {
+   "fragment_id": "117228706",
+   "type": 11,
+   "heading": "Artigo 6.º — Duração do projeto e do apoio",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "###### Artigo 6.º — Duração do projeto e do apoio\n\n1 - A duração máxima de um projeto é de um ano, sendo fixadas no aviso de abertura do respetivo concurso as datas de início e de fim para a sua execução material e financeira.\n\n2 - O apoio a conceder ao projeto incide sobre as despesas diretamente relacionadas com a realização das ações aprovadas e executadas no período temporal fixado para a sua execução material, exceto nas situações definidas no aviso de abertura do concurso.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "151510679": {
+   "fragment_id": "117228707",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma, nível e limite do apoio",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "###### Artigo 7.º — Forma, nível e limite do apoio\n\n1 - O apoio é concedido sob a forma de incentivo não reembolsável.\n\n2 - O nível máximo de apoio a conceder a cada projeto por fundos da União é definido no aviso de abertura de cada concurso.\n\n3 - Para os beneficiários referidos nas alíneas c) a e) do n.º 1 do artigo 5.º, o nível máximo de apoio pode ser majorado por fundos nacionais, a definir no aviso de abertura de cada concurso, respeitando as disposições de direito da União Europeia aplicáveis em matéria de auxílios de Estado.\n\n4 - O disposto no número anterior não se aplica a ações que visem a promoção de produtos com a DO «Porto» e produtos originários das Regiões Autónomas dos Açores e da Madeira.\n\n5 - Nas situações previstas no número anterior, as ações que visem a promoção de produtos com a DO «Porto» e produtos originários das Regiões Autónomas dos Açores e da Madeira devem ser apresentadas num projeto individualizado.\n\n6 - A comparticipação de fundos nacionais resulta da disponibilidade orçamental proveniente das receitas geradas ao abrigo do disposto no Decreto-Lei n.º 94/2012, de 20 de abril.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "151510680": {
+   "fragment_id": "117228709",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis e não elegíveis\n\n1 - As despesas elegíveis são estabelecidas nas normas complementares referidas no artigo 3.º, incluindo as despesas diretamente relacionadas com a execução das ações do projeto, nomeadamente, com:\n\na) Aluguer de espaços e utilização de equipamentos, material promocional e informativo incluindo a conceção, a elaboração e a contratação de serviços especializados;\n\nb) Material e equipamento, utilização informática, publicação e divulgação;\n\nc) Viagens, alojamentos e despesas diárias;\n\nd) Transporte de bens e dos produtos a promover e o respetivo custo aduaneiro;\n\ne) Custos administrativos do beneficiário;\n\nf) O imposto sobre o valor acrescentado (IVA) não recuperável, desde que seja definitivamente suportado pelo beneficiário e devidamente comprovado pelo responsável técnico pela contabilidade do beneficiário.\n\ng) Criação, reestruturação ou tradução de portais eletrónicos.\n\n2 - A elegibilidade dos custos das ações será avaliada com base em tabelas normalizadas de custos unitários ou em documentos comprovativos apresentados pelo beneficiário, conforme definido nas normas complementares de aplicação, referidas no artigo 3.º\n\n3 - As despesas não elegíveis são estabelecidas nas normas complementares de aplicação referidas no artigo 3.º\n\n4 - Sem prejuízo do disposto no número anterior, não são elegíveis as despesas referentes a:\n\na) Valor dos vinhos consumidos nas ações de promoção, exceto nas ações realizadas em monopólios;\n\nb) Transportes públicos e refeições isoladas, quando referentes a intervenientes na ação para as quais estejam previstas despesas diárias elegíveis ao apoio;\n\nc) Aquisição de patentes, licenças, copyrights e registo de marcas coletivas;\n\nd) Descontos comerciais ou com efeito equivalente;\n\ne) Provisões a títulos de eventuais perdas ou dívidas futuras;\n\nf) Despesas bancárias, juros bancários e prémios de seguros;\n\ng) Perdas resultantes do câmbio de moedas;\n\nh) Imposto sobre o valor acrescentado que incida sobre as despesas elegíveis quando recuperável pelo beneficiário;\n\ni) [Revogada.]\n\n5 - Os requisitos dos comprovativos das despesas para efeitos de pagamento do apoio são definidos pelo OP através das normas complementares referidas no artigo 3.º\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "151510681": {
+   "fragment_id": "117228712",
+   "type": 11,
+   "heading": "Artigo 12.º — Processo de análise e seleção",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "###### Artigo 12.º — Processo de análise e seleção\n\n1 - Os projetos são apresentados à EG, que procede à verificação da conformidade através da aplicação dos critérios de elegibilidade e dos critérios administrativos formais definidos no artigo 11.º da presente portaria.\n\n2 - São liminarmente excluídos todos os projetos que não cumpram com o definido no artigo 11.º da presente portaria.\n\n3 - A EG procede à hierarquização dos projetos elegíveis com base na pontuação obtida com a aplicação dos critérios de prioridade constantes do anexo i da presente Portaria, da qual faz parte integrante.\n\n4 - Quando, num concurso, se verificar que o valor do apoio comunitário referente ao investimento global proposto excede a dotação orçamental comunitária prevista no aviso de abertura, a EG hierarquiza as candidaturas por ordem decrescente da pontuação até ao esgotamento do orçamento disponível.\n\n5 - Se, após a hierarquização efetuada nos termos descritos no número anterior, ainda subsistirem situações de projetos que obtenham a mesma pontuação e para as quais não exista dotação orçamental comunitária disponível suficiente, aplica-se, a esses projetos, uma distribuição numa base pro rata.\n\n6 - São excluídas as candidaturas que, após a aplicação do número anterior, deixem de cumprir com o montante mínimo do investimento elegível, caso este tenha sido previsto no aviso de abertura.\n\n7 - No prazo máximo de 90 dias seguidos, contados a partir do momento em que a candidatura está completa, a EG toma a decisão sobre as propostas recebidas e comunica-a ao beneficiário para que, num prazo de 10 dias úteis, apresente, querendo, reclamação de acordo com o previsto no Código do Procedimento Administrativo.\n\n8 - No caso de projetos excluídos, a notificação contém os fundamentos, de facto e de direito, do indeferimento, nos termos do Código do Procedimento Administrativo.\n\n9 - A EG transmite ao OP a informação necessária à celebração do termo de aceitação com o beneficiário e procede à divulgação dos elementos relativos aos projetos aprovados em cada concurso.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "151510682": {
+   "fragment_id": "117228714",
+   "type": 11,
+   "heading": "Artigo 14.º — Obrigações do beneficiário",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "###### Artigo 14.º — Obrigações do beneficiário\n\n1 - O beneficiário fica obrigado a respeitar e cumprir o disposto na presente portaria, bem como o estabelecido nas normas complementares de aplicação previstas no artigo 3.º\n\n2 - O beneficiário fica, ainda, sujeito às seguintes obrigações:\n\na) Executar o projeto nos termos e condições aprovadas e nos prazos fixados no termo de aceitação;\n\nb) Disponibilizar, nos prazos estabelecidos, todos os elementos solicitados pelas entidades com competências para a gestão e controlo;\n\nc) Submeter-se a ações de controlo, realizadas pelas entidades competentes;\n\nd) Autorizar a EG e o OP, a obter, junto das entidades competentes, todas as informações que forem julgadas necessárias ou oportunas para efeito de acompanhamento e controlo do projeto;\n\ne) Manter um sistema de contabilidade organizada, de acordo com o sistema de normalização contabilística ou outra regulamentação aplicável;\n\nf) Conservar em boa ordem e devidamente organizados todos os documentos suscetíveis de comprovar as informações e declarações prestadas, a fundamentação das opções tomadas no âmbito do projeto, bem como, todos os originais dos documentos comprovativos da realização da despesa e evidências da realização das ações, durante cinco anos após o final do projeto, exceto se outro prazo se encontrar fixado em lei especial;\n\ng) Assegurar que o registo no sistema de identificação de beneficiários junto do OP se encontra devidamente atualizado, nomeadamente, quanto aos representantes legais e à identificação da conta bancária única a utilizar para registo de todas as despesas e receitas do beneficiário, relativas ao projeto;\n\nh) Garantir que todos os pagamentos e recebimentos referentes à candidatura são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto nas situações definidas nas normas complementares de aplicação referidas no artigo 3.º;\n\ni) Submeter o relatório de execução final à EG até 90 dias seguidos após a data limite do período de execução material, e previamente ao último pedido de pagamento submetido ao OP, nos termos a definir nas normas complementares de aplicação referidas no artigo 3.º;\n\nj) Na situação em que o beneficiário opte por não submeter o segundo pedido de pagamento, o relatório de execução final, deve ser submetido até 90 dias seguidos após a data limite do período de execução material.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "151510683": {
+   "fragment_id": "117228715",
+   "type": 11,
+   "heading": "Artigo 15.º — Modificações ao projeto",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "###### Artigo 15.º — Modificações ao projeto\n\n1 - O beneficiário pode apresentar à EG um pedido de modificação ao conteúdo do projeto aprovado, podendo esta ser de natureza financeira e material, nos termos a definir nas normas complementares de aplicação previstas no artigo 3.º\n\n2 - O pedido de modificação carece de aprovação da EG, e deve ser submetido até à data limite fixada para a execução material do projeto e previamente à apresentação do primeiro pedido de pagamento.\n\n3 - Não são aceites pedidos de modificação que:\n\na) Modifiquem a atribuição da pontuação dos critérios de prioridade, em concursos onde se tenha verificado a situação prevista no n.º 4 do artigo 12.º da presente portaria;\n\nb) [Revogada.]\n\nc) [Revogada.]\n\nd) Excedam o montante de investimento total aprovado em candidatura.\n\n4 - [Revogado.]\n\n5 - Nos termos a definir nas normas complementares de aplicação previstas no artigo 3.º, podem ainda ser fixados limites máximos à reafetação de verbas aprovadas a novas ações ou ao reforço de dotações de ações já previstas.\n\n6 - A decisão da EG é comunicada ao OP e ao beneficiário, no prazo máximo de 45 dias seguidos após a data de submissão do pedido de modificação.\n\n7 - O prazo fixado no número anterior é contado a partir da data de apresentação de um pedido completo, devidamente fundamentado e corretamente submetido.\n\n8 - [Revogado.]\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto no presente artigo aplica-se para o concursos n.º 1/2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "151510684": {
+   "fragment_id": "117228716",
+   "type": 11,
+   "heading": "Artigo 16.º — Pedido de adiantamento e pedido de pagamento",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "###### Artigo 16.º — Pedido de adiantamento e pedido de pagamento\n\n1 - O beneficiário pode apresentar ao OP no máximo um pedido de adiantamento e um pedido de pagamento, relativo a despesas efetivamente realizadas e pagas, sendo aceites mediante o cumprimento das obrigações constantes do artigo 14.º da presente portaria, quando aplicáveis.\n\n2 - O beneficiário só pode apresentar um pedido de adiantamento, até ao montante correspondente a 80 % do valor do apoio aprovado para o projeto, mediante a entrega de uma garantia constituída a favor do OP, de montante igual ao do adiantamento solicitado, e que o deve acompanhar, sob pena do pedido de adiantamento não ser aceite.\n\n3 - O pedido de adiantamento a que se refere o número anterior deve ser apresentado até à data limite do período de execução material e previamente à apresentação do primeiro pedido de pagamento.\n\n4 - Sem prejuízo do disposto no n.º 1, são admissíveis dois pedidos de pagamento para os beneficiários previstos nas alíneas c), d) e e) do artigo 5.º, desde que o primeiro pedido de pagamento corresponda a um montante mínimo de 200 mil euros de investimento total aprovado e deve ser apresentado até à data limite fixada para a execução material do projeto.\n\n5 - O último pedido de pagamento, deve ser apresentado no prazo máximo de 90 dias seguidos após o fim do período de execução material do projeto.\n\n6 - Apenas é aceite o pedido de pagamento relativo a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação, no presente artigo e nas normas complementares de aplicação.\n\n7 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento bastante para a não aprovação do pedido.\n\n8 - Sob certas condições definidas nas normas complementares de aplicação previstas no artigo 3.º, o beneficiário pode apresentar um certificado das demonstrações financeiras que acompanham os pedidos de pagamento, nos termos do artigo 41.º do Regulamento de Execução (UE) 2016/1150, da Comissão, de 15 de abril.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "151510685": {
+   "fragment_id": "117228718",
+   "type": 11,
+   "heading": "Artigo 18.º — Resolução e denúncia do termo de aceitação",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "###### Artigo 18.º — Resolução e denúncia do termo de aceitação\n\n1 - O termo de aceitação pode ser resolvido, unilateralmente, pelo OP ouvida a EG, ou por indicação desta, nos casos de prestação de informações falsas sobre a situação do beneficiário ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento da execução do projeto.\n\n2 - Nos casos previstos no número anterior, o beneficiário não pode beneficiar de quaisquer apoios no âmbito desta medida durante a vigência do quadro financeiro de apoio 2019-2023.\n\n3 - O termo de aceitação só pode ser denunciado por iniciativa do beneficiário até à data limite da execução material do projeto e antes da submissão do primeiro pedido de pagamento, através de comunicação ao OP, dando conhecimento à EG.\n\n4 - Salvo nos casos de força maior previstos no n.º 2 do artigo 2.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, a resolução ou a denúncia do termo de aceitação implica a devolução dos montantes já recebidos pelo beneficiário, no prazo de 30 dias seguidos a contar da data de notificação da decisão, findo o qual são devidos juros de mora sobre o montante a devolver.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "151510686": {
+   "fragment_id": "117228720",
+   "type": 11,
+   "heading": "Artigo 20.º — Execução dos projetos",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "###### Artigo 20.º — Execução dos projetos\n\n1 - O grau de execução financeira do projeto corresponde à percentagem entre o montante do apoio financeiro pago pelo OP e o montante do apoio aprovado em candidatura ou em pedido de modificação, se aplicável, e antes da aplicação de qualquer penalização prevista na presente portaria.\n\n2 - O beneficiário deve garantir um grau mínimo de execução financeira do projeto de 50 %, ficando sujeito ao disposto no n.º 3 do artigo 21.º da presente portaria, caso esse limiar não seja cumprido.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "151510687": {
+   "fragment_id": "117228721",
+   "type": 11,
+   "heading": "Artigo 21.º — Penalizações",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "###### Artigo 21.º — Penalizações\n\n1 - [Revogado.]\n\n2 - [Revogado.]\n\n3 - Salvo nos casos de força maior previstos no n.º 2 do artigo 2.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, quando o grau de execução financeira de um projeto for inferior a 50 %, o valor total do apoio é reduzido em 20 %.\n\n4 - Salvo nos casos de força maior previstos no n.º 2 do artigo 2.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, e nas situações previstas no n.º 3 do artigo 18.º, a não apresentação do relatório de execução final ou do pedido de pagamento nos prazos fixados para o efeito, determina a resolução do termo de aceitação de acordo com o n.º 4 do artigo 18.º da presente portaria.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto no presente artigo aplica-se para o concursos n.º 1/2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "117230802": {
+   "fragment_id": "117228727",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Medeiros Vieira, Secretário de Estado da Agricultura e Alimentação, em 29 de novembro de 2018."
+  },
+  "151510688": {
+   "fragment_id": "117228728",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 3 do artigo 12.º)",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 3 do artigo 12.º)\n\nCritérios de prioridade e ponderação\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "151510689": {
+   "fragment_id": "117228729",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 3 do artigo 12.º)",
+   "in_force_from": "2020-12-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 3 do artigo 12.º)\n\nMercados prioritários\n\n(ver documento original)\n\n111868675\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  },
+  "1162011475": {
+   "fragment_id": "117228718",
+   "type": 11,
+   "heading": "Artigo 18.º — Resolução e denúncia do termo de aceitação",
+   "in_force_from": "2026-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), em vigor a partir de 2026-08-26.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+   ],
+   "markdown": "###### Artigo 18.º — Resolução e denúncia do termo de aceitação\n\n1 - (Revogado)\n\n2 - (Revogado)\n\n3 - O termo de aceitação só pode ser denunciado por iniciativa do beneficiário até à data limite da execução material do projeto e antes da submissão do primeiro pedido de pagamento, através de comunicação ao OP, dando conhecimento à EG.\n\n4 - Salvo nos casos de força maior previstos no n.º 2 do artigo 2.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, a resolução ou a denúncia do termo de aceitação implica a devolução dos montantes já recebidos pelo beneficiário, no prazo de 30 dias seguidos a contar da data de notificação da decisão, findo o qual são devidos juros de mora sobre o montante a devolver.\n\n> Nota: [Artigo 5.º, Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165) O disposto na presente portaria produz efeitos para os concursos abertos após o dia 18 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 384/2026/1 - Diário da República n.º 164/2026, Série I de 2026-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/384-2026-1161801441), em vigor a partir de 2026-08-26.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 291/2020 - Diário da República n.º 244/2020, Série I de 2020-12-17](https://diariodarepublica.pt/dr/detalhe/portaria/291-2020-151323165), em vigor a partir de 2020-12-18"
+  }
+ }
+}

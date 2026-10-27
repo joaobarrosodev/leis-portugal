@@ -1,0 +1,422 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005R2166:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R2166-20110101",
+ "dre_path": null,
+ "source_lastmod": "2011-01-01",
+ "versions": [
+  {
+   "date": "2006-06-29",
+   "future": false,
+   "celex": "32005R2166",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a1fa4194eddddaac",
+    "226c39ffd0a88dad",
+    "95fd104f762bee8a",
+    "0fe77204fb8e28cb",
+    "ac228dcb5e9614bf",
+    "c4f191cdfa0238bb",
+    "f0f8c960bfdbce9b",
+    "31a08c7a79c0575b",
+    "a3932ede0a790c15",
+    "52e4bd2d58e7897d",
+    "582bf994c202fa13",
+    "89b1a83c6b56465d",
+    "1e7a0903d2eed348",
+    "817b587336d40f08",
+    "617be56419403c26",
+    "1ecfc79da3f1ac7f",
+    "488b2de53d1f7555",
+    "7c9c7efe49e08b36",
+    "81f5d4ee56a3ecce",
+    "944283ec1a8b21c6",
+    "48e86cfa6f6045df",
+    "3e66bd1f88445901",
+    "0ba989de5ae4ea0e",
+    "40ed6b62e188ac6f",
+    "e1c96bc78341f6b0",
+    "4b6178c7abb29287",
+    "703a39f1d3cee55c",
+    "970c93f522ecb14d",
+    "04e92c3b295cda9c",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "827e634f12e78467"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "celex": "02005R2166-20110101",
+   "acts": [
+    {
+     "id": "eu:celex:32009R1224:por",
+     "title": "REGULAMENTO (CE) N. o 1224/2009 do Conselho de 20 de Novembro de 2009",
+     "published": null,
+     "celex": "32009R1224"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 8.º — Limitação do esforço",
+    "Altera Artigo 15.º — Restrições aplicáveis à pesca de lagostins",
+    "Altera Artigo 17.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Método de cálculo de um TAC para as divisões CIEM VIIIc e IXa aplicável à pescada do Sul no caso de só existir uma previsão científica de capturas para uma parte da zona",
+    "Suprime CAPÍTULO IV",
+    "Suprime CONTROLO, INSPECÇÃO E VIGILÂNCIA",
+    "Suprime Artigo 9.º — Margem de tolerância",
+    "Suprime Artigo 10.º — Pesagem das quantidades desembarcadas",
+    "Suprime Artigo 11.º — Notificação prévia",
+    "Suprime Artigo 12.º — Estiva separada da pescada do Sul e dos lagostins",
+    "Suprime Artigo 13.º — Transporte de pescada do Sul e de lagostins",
+    "Suprime Artigo 14.º — Programa de controlo específico",
+    "Suprime «Artigo 29.º-B — Restrições aplicáveis à pesca de lagostins"
+   ],
+   "fragments": [
+    "2978ef8990940e55",
+    "226c39ffd0a88dad",
+    "95fd104f762bee8a",
+    "0fe77204fb8e28cb",
+    "ac228dcb5e9614bf",
+    "c4f191cdfa0238bb",
+    "f0f8c960bfdbce9b",
+    "31a08c7a79c0575b",
+    "a3932ede0a790c15",
+    "52e4bd2d58e7897d",
+    "582bf994c202fa13",
+    "89b1a83c6b56465d",
+    "1e7a0903d2eed348",
+    "817b587336d40f08",
+    "9b8178e77d169e84",
+    "40ed6b62e188ac6f",
+    "e1c96bc78341f6b0",
+    "0155d48158a0034c",
+    "04e92c3b295cda9c",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "d06484b530ef4a2d",
+    "10220b9774fa9034",
+    "982d17c97bcfdd49",
+    "0e772085a8eb2bfa"
+   ]
+  }
+ ],
+ "fragments": {
+  "a1fa4194eddddaac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2005\n\nque estabelece medidas para a recuperação das unidades populacionais de pescada do Sul e de lagostins no mar Cantábrico e a oeste da Península Ibérica e que altera o Regulamento (CE) n.º 850/98 relativo à conservação dos recursos da pesca através de determinadas medidas técnicas de protecção dos juvenis de organismos marinhos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntr1-L_2005345PT.01000501-E0001),\n\nConsiderando o seguinte:\n\n(1) Um parecer científico recente, emitido pelo Conselho Internacional de Exploração do Mar (CIEM), indica que os níveis de mortalidade por pesca das unidades populacionais de pescada do Sul e de lagostins nas divisões CIEM VIIIc e IXa têm vindo a provocar a erosão das quantidades de peixes adultos presentes no mar, a um nível tal, que as unidades populacionais podem deixar de se poder reconstituir por reprodução e estar, assim, ameaçadas de ruptura.\n\n(2) Deverão ser aprovadas medidas para estabelecer planos plurianuais com vista à recuperação destas unidades populacionais em conformidade com o artigo 5.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas [([^2])](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntr2-L_2005345PT.01000501-E0002).\n\n(3) Os planos devem ter por objectivo a reconstituição destas unidades populacionais, por forma a que atinjam limites biológicos de segurança num prazo de dez anos.\n\n(4) Deve considerar-se que foi atingido o objectivo quando o Comité Científico, Técnico e Económico das Pescas (CCTEP) determinar, à luz dos pareceres mais recentes do CIEM, que as unidades populacionais em causa se encontram dentro dos limites biológicos de segurança.\n\n(5) Para atingir esses objectivos, os níveis das taxas de mortalidade por pesca deverão ser controlados, de forma a que haja uma elevada probabilidade de redução dessas taxas de ano para ano.\n\n(6) O controlo das taxas de mortalidade por pesca pode ser obtido através de um método adequado de fixação do nível dos totais admissíveis de capturas (TAC) das unidades populacionais em causa e de um sistema que preveja áreas de defeso e limitações em termos de quilowatts-dias, em cujo âmbito o esforço de pesca exercido relativamente a estas unidades populacionais seja limitado a níveis que impossibilitem a superação dos TAC.\n\n(7) Após ter sido obtida a recuperação das unidades populacionais, o Conselho deve decidir, sob proposta da Comissão, das medidas de acompanhamento em conformidade com o artigo 6.º do Regulamento (CE) n.º 2371/2002.\n\n(8) Para assegurar a observância das medidas estabelecidas no presente regulamento, deverão ser incluídas medidas de controlo suplementares para além das estabelecidas no Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas [([^3])](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntr3-L_2005345PT.01000501-E0003).\n\n(9) A recuperação das unidades populacionais de lagostins requer que sejam protegidas determinadas zonas de reprodução destas espécies. O Regulamento (CE) n.º 850/98 [([^4])](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntr4-L_2005345PT.01000501-E0004), deve, pois, ser alterado em consequência,\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "95fd104f762bee8a": {
+   "fragment_id": "OBJECTO E OBJECTIVOS",
+   "type": "divisao",
+   "heading": "OBJECTO E OBJECTIVOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBJECTO E OBJECTIVOS"
+  },
+  "0fe77204fb8e28cb": {
+   "fragment_id": "Artigo 1.º — Objecto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente regulamento estabelece um plano de recuperação para as seguintes unidades populacionais (a seguir denominadas «unidades populacionais em causa»):\n\na) Unidade populacional de pescada do Sul que evolui nas divisões VIIIc e IXa, definidas pelo Conselho Internacional de Exploração do Mar (CIEM);\n\nb) Unidade populacional de lagostim que evolui na divisão CIEM VIIIc;\n\nc) Unidade populacional de lagostim que evolui na divisão CIEM IXa."
+  },
+  "ac228dcb5e9614bf": {
+   "fragment_id": "Artigo 2.º — Objectivo do plano de recuperação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Objectivo do plano de recuperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivo do plano de recuperação\n\nO objectivo do plano de recuperação é reconstituir as unidades populacionais em causa por forma a que se encontrem dentro dos limites biológicos de segurança. Tal significa:\n\na) No que se refere à unidade populacional referida na alínea a) do artigo 1.º, atingir uma biomassa de população reprodutora de 35 000 toneladas durante dois anos consecutivos, de acordo com os relatórios científicos disponíveis, ou aumentar as quantidades de peixes adultos dentro de um prazo de dez anos, de forma a que sejam atingidos valores iguais ou superiores a 35 000 toneladas. Este valor será ajustado à luz dos novos dados científicos emanados do CCTEP;\n\nb) No que se refere às unidades populacionais referidas nas alíneas b) e c) do artigo 1.º, reconstituí-las de forma a atingir limites biológicos de segurança num prazo de dez anos."
+  },
+  "c4f191cdfa0238bb": {
+   "fragment_id": "Artigo 3.º — Avaliação das medidas de recuperação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Avaliação das medidas de recuperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Avaliação das medidas de recuperação\n\n1. No segundo ano de aplicação do presente regulamento e em cada um dos anos seguintes, a Comissão, com base nos pareceres do CIEM e do CCTEP, avalia o impacto das medidas de recuperação nas unidades populacionais em causa e nas pescarias destas unidades populacionais.\n\n2. Se, com base na avaliação anual, a Comissão verificar que foi atingido o objectivo fixado no artigo 2.º relativamente a qualquer uma das unidades populacionais em causa, o Conselho decide, por maioria qualificada sob proposta da Comissão, substituir, no respeitante à unidade populacional em causa, o plano de recuperação previsto no presente regulamento por um plano de gestão em conformidade com o artigo 6.º do Regulamento (CE) n.º 2371/2002.\n\n3. Se, com base na avaliação anual, a Comissão verificar que qualquer uma das unidades populacionais em causa não mostra sinais de recuperação, o Conselho decide por maioria qualificada sob proposta da Comissão de medidas suplementares e/ou alternativas, a fim de assegurar a recuperação da unidade populacional em causa."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "31a08c7a79c0575b": {
+   "fragment_id": "TOTAIS ADMISSÍVEIS DE CAPTURAS",
+   "type": "divisao",
+   "heading": "TOTAIS ADMISSÍVEIS DE CAPTURAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TOTAIS ADMISSÍVEIS DE CAPTURAS"
+  },
+  "a3932ede0a790c15": {
+   "fragment_id": "Artigo 4.º — Fixação dos TAC",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Fixação dos TAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fixação dos TAC\n\n1. Todos os anos, o Conselho decide, por maioria qualificada com base numa proposta da Comissão, do TAC para o ano seguinte respeitante a cada uma das unidades populacionais em causa.\n\n2. O TAC para a unidade populacional de pescada do Sul é fixado em conformidade com o artigo 5.º\n\n3. Os TAC para as unidades populacionais referidas nas alíneas b) e c) do artigo 1.º são fixados em conformidade com o artigo 6.º"
+  },
+  "52e4bd2d58e7897d": {
+   "fragment_id": "Artigo 5.º — Processo de fixação do TAC para a unidade populacional de pescada do Sul",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Processo de fixação do TAC para a unidade populacional de pescada do Sul",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Processo de fixação do TAC para a unidade populacional de pescada do Sul\n\n1. Sempre que o CCTEP estime, à luz do relatório mais recente do CIEM, que a taxa de mortalidade por pesca da unidade populacional referida na alínea a) do artigo 1.º é superior a 0,3 por ano, o TAC não será superior ao nível de capturas que, de acordo com a avaliação científica efectuada pelo CCTEP à luz do relatório mais recente do CIEM, resultará, no ano da sua aplicação, numa redução de 10 % da taxa de mortalidade por pesca em relação à taxa de mortalidade por pesca estimada no respeitante ao ano anterior.\n\n2. Sempre que o CCTEP estime, à luz do relatório mais recente do CIEM, que a taxa de mortalidade por pesca da unidade populacional referida na alínea a) do artigo 1.º é igual ou inferior a 0,3 por ano, o TAC será fixado num nível de capturas que, de acordo com a avaliação científica efectuada pelo CCTEP à luz do relatório mais recente do CIEM, resultará, no ano da sua aplicação, numa taxa de mortalidade por pesca de 0,27 por ano.\n\n3. Sempre que, à luz do relatório mais recente do CIEM, o CCTEP possa calcular um nível de capturas correspondente às taxas de mortalidade especificadas nos n.^os^ 1 e 2 apenas para uma parte das Divisões CIEM VIIIc e IXa, o TAC será fixado num nível compatível com:\n\na) O nível de captura correspondente à taxa de mortalidade especificada na zona abrangida pelo parecer científico; e\n\nb) A manutenção de um rácio constante de capturas entre essa zona abrangida pelo parecer científico e a totalidade das Divisões VIIIc e IXa. O rácio será calculado com base nas capturas efectuadas nos três anos anteriores ao ano em que a decisão for tomada.\n\nO método de cálculo utilizado será o exposto no anexo ao presente regulamento."
+  },
+  "582bf994c202fa13": {
+   "fragment_id": "Artigo 6.º — Processo de fixação dos TAC para as unidades populacionais de lagostins",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Processo de fixação dos TAC para as unidades populacionais de lagostins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Processo de fixação dos TAC para as unidades populacionais de lagostins\n\nCom base na avaliação científica mais recente do CCTEP, os TAC para as unidades populacionais referidas nas alíneas b) e c) do artigo 1.º são fixados num nível que resulte numa alteração relativa da sua taxa de mortalidade por pesca idêntica à alteração da taxa de mortalidade por pesca obtida para a unidade populacional referida na alínea a) do artigo 1.º com a aplicação do artigo 5.º"
+  },
+  "89b1a83c6b56465d": {
+   "fragment_id": "Artigo 7.º — Limitações das variações dos TAC",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Limitações das variações dos TAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Limitações das variações dos TAC\n\nA partir do primeiro ano de aplicação do presente regulamento, são aplicáveis as seguintes regras:\n\na) Sempre que a aplicação dos artigos 5.º ou 6.º resulte num TAC superior em mais de 15 % ao do ano anterior, o Conselho adopta um TAC não superior em mais de 15 % ao TAC desse ano;\n\nb) Sempre que a aplicação dos artigos 5.º ou 6.º resulte num TAC inferior em mais de 15 % ao do ano anterior, o Conselho adopta um TAC não inferior em mais de 15 % ao TAC desse ano."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "817b587336d40f08": {
+   "fragment_id": "LIMITAÇÃO DO ESFORÇO DE PESCA",
+   "type": "divisao",
+   "heading": "LIMITAÇÃO DO ESFORÇO DE PESCA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### LIMITAÇÃO DO ESFORÇO DE PESCA"
+  },
+  "617be56419403c26": {
+   "fragment_id": "Artigo 8.º — Limitação do esforço",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Limitação do esforço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Limitação do esforço\n\n1. Os TAC referidos no capítulo II serão completados por um sistema de limitação do esforço de pesca, com base nas áreas geográficas e nos grupos de artes de pesca, assim como nas condições associadas para a utilização das possibilidades de pesca, especificados no anexo IVb do Regulamento (CE) n.º 27/2005 do Conselho, de 22 de Dezembro de 2004, que fixa, para 2005, em relação a determinadas populações de peixes ou grupos de populações de peixes, as possibilidades de pesca e as condições associadas aplicáveis nas águas comunitárias e, para os navios de pesca comunitários, nas águas em que são necessárias limitações das capturas [([^5])](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntr5-L_2005345PT.01000501-E0005).\n\n2. Anualmente, o Conselho decide, por maioria qualificada com base numa proposta da Comissão, da adaptação do número máximo de dias de pesca para os navios sujeitos ao sistema de limitação do esforço de pesca a que se refere o n.º 1. A adaptação será proporcional à adaptação anual da mortalidade por pesca, avaliada pelo CIEM e pelo CCTEP, de forma coerente com a aplicação das taxas de mortalidade por pesca estabelecidas de acordo com o método descrito no artigo 5.º\n\n3. Em derrogação do disposto nos n.^os^ 1 e 2, cada Estado-Membro em causa pode aplicar um método diferente de gestão do esforço na parte da zona IXa situada a leste da longitude 7° 23′ 48″ W medida em conformidade com a norma WGS84. Esse método estabelecerá um nível de referência de esforço de pesca igual ao esforço de pesca desenvolvido durante o ano de 2005. No que se refere aos anos 2006 e seguintes, o esforço de pesca será adaptado num montante a decidir por maioria qualificada pelo Conselho com base numa proposta da Comissão. Essa adaptação será proposta após ter tido em conta o parecer mais recente do CCTEP emitido à luz do relatório mais recente do CIEM. Na ausência de uma decisão do Conselho, os Estados-Membros em causa assegurarão que o esforço de pesca não exceda o nível de referência.\n\n4. A Comissão pode requerer a cada Estado-Membro que faça uso da derrogação prevista no n.º 3 que apresente um relatório sobre a implementação de qualquer método diferente de gestão do esforço. A Comissão comunicará esse relatório a todos os outros Estados-Membros.\n\n5. Para efeitos do n.º 3, o esforço de pesca será calculado como a soma, em cada ano civil, do produto da multiplicação da potência instalada do motor, expressa em quilowatts, de cada um dos navios pertinentes, pelo número de dias de pesca de cada um deles nessa zona."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "488b2de53d1f7555": {
+   "fragment_id": "CONTROLO, INSPECÇÃO E VIGILÂNCIA",
+   "type": "divisao",
+   "heading": "CONTROLO, INSPECÇÃO E VIGILÂNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLO, INSPECÇÃO E VIGILÂNCIA"
+  },
+  "7c9c7efe49e08b36": {
+   "fragment_id": "Artigo 9.º — Margem de tolerância",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Margem de tolerância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Margem de tolerância\n\n1. Em derrogação do disposto no n.º 2 do artigo 5.º do Regulamento (CEE) n.º 2807/83 da Comissão, de 22 de Setembro de 1983, que define as regras especiais de registo das informações relativas às capturas de peixe pelos Estados-Membros [([^6])](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntr6-L_2005345PT.01000501-E0006), a margem de tolerância autorizada no respeitante à estimativa das quantidades de unidades populacionais em causa mantidas a bordo dos navios, expressas em quilogramas, é de 8 % do valor inscrito no diário de bordo. Se a legislação comunitária não estabelecer qualquer factor de conversão, é aplicável o factor de conversão adoptado pelo Estado-Membro de pavilhão do navio.\n\n2. O n.º 1 não se aplica se a quantidade de unidades populacionais em causa mantida a bordo for inferior a 50 kg."
+  },
+  "81f5d4ee56a3ecce": {
+   "fragment_id": "Artigo 10.º — Pesagem das quantidades desembarcadas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Pesagem das quantidades desembarcadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pesagem das quantidades desembarcadas\n\nAs autoridades competentes dos Estados-Membros garantem que qualquer quantidade de capturas da unidade populacional referida na alínea a) do artigo 1.º superior a 300 kg e/ou qualquer quantidade de capturas das unidades populacionais referidas nas alíneas b) e/ou c) superior a 150 kg, capturadas em qualquer uma das zonas referidas no artigo 1.º, sejam pesadas nas balanças das lotas antes da venda."
+  },
+  "944283ec1a8b21c6": {
+   "fragment_id": "Artigo 11.º — Notificação prévia",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Notificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Notificação prévia\n\nO capitão de um navio de pesca comunitário que tenha estado presente nas zonas referidas no artigo 1.º e deseje transbordar qualquer quantidade de capturas das unidades populacionais em causa mantidas a bordo ou desembarcar qualquer quantidade de capturas das unidades populacionais em causa num porto ou num local de desembarque de um país terceiro deve comunicar às autoridades competentes do Estado-Membro de bandeira, com pelo menos 24 horas de antecedência em relação ao transbordo ou ao desembarque no país terceiro, as seguintes informações:\n\n— o nome do porto ou local de desembarque,\n\n— a hora prevista de chegada a esse porto ou local de desembarque,\n\n— as quantidades de peso vivo, expressas em quilogramas, de todas as espécies de que sejam mantidos a bordo mais de 50 kg.\n\nEsta notificação pode também ser feita por um representante do capitão do navio de pesca."
+  },
+  "48e86cfa6f6045df": {
+   "fragment_id": "Artigo 12.º — Estiva separada da pescada do Sul e dos lagostins",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Estiva separada da pescada do Sul e dos lagostins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estiva separada da pescada do Sul e dos lagostins\n\n1. Sempre que se encontrem estivadas a bordo de um navio quantidades de capturas da unidade populacional referida na alínea a) do artigo 1.º superiores a 50 kg, é proibido manter a bordo de um navio de pesca comunitário, em qualquer contentor, qualquer quantidade de capturas das unidades populacionais referidas no artigo 1.º misturada com quaisquer outras espécies de organismos marinhos.\n\n2. Os capitães dos navios de pesca comunitários devem prestar a assistência necessária aos inspectores dos Estados-Membros para permitir que as quantidades declaradas no diário de bordo e as capturas das unidades populacionais em causa que sejam mantidas a bordo sejam objecto de controlos cruzados."
+  },
+  "3e66bd1f88445901": {
+   "fragment_id": "Artigo 13.º — Transporte de pescada do Sul e de lagostins",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Transporte de pescada do Sul e de lagostins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transporte de pescada do Sul e de lagostins\n\n1. As autoridades competentes dos Estados-Membros podem exigir que qualquer quantidade de capturas da unidade populacional referida na alínea a) do artigo 1.º superior a 300 kg, ou qualquer quantidade de capturas das unidades populacionais referidas nas alíneas b) e/ou c) superior a 150 kg, capturada numa das zonas geográficas referidas no artigo 1.º e desembarcada pela primeira vez nesse Estado-Membro seja pesada antes de ser transportada do porto de primeiro desembarque para outro local.\n\n2. Em derrogação do artigo 13.º do Regulamento (CEE) n.º 2847/93, as quantidades de capturas da unidade populacional referida na alínea a) do artigo 1.º superiores a 300 kg que sejam transportadas para um local diferente do local do desembarque ou de importação devem ser acompanhadas de uma cópia de uma das declarações previstas no n.º 1 do artigo 8.º do Regulamento (CEE) n.º 2847/93 referente às quantidades dessas espécies transportadas. Não é aplicável a isenção prevista na alínea b) do n.º 4 do artigo 13.º do Regulamento (CEE) n.º 2847/93."
+  },
+  "0ba989de5ae4ea0e": {
+   "fragment_id": "Artigo 14.º — Programa de controlo específico",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Programa de controlo específico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Programa de controlo específico\n\nEm derrogação do n.º 1 do artigo 34.º-C do Regulamento (CEE) n.º 2847/93, os programas de controlo específicos para as unidades populacionais em causa podem durar mais de dois anos a partir da data da sua entrada em vigor."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "e1c96bc78341f6b0": {
+   "fragment_id": "ALTERAÇÕES DO REGULAMENTO (CE) N.º 850/98",
+   "type": "divisao",
+   "heading": "ALTERAÇÕES DO REGULAMENTO (CE) N.º 850/98",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ALTERAÇÕES DO REGULAMENTO (CE) N.º 850/98"
+  },
+  "4b6178c7abb29287": {
+   "fragment_id": "Artigo 15.º — Restrições aplicáveis à pesca de lagostins",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Restrições aplicáveis à pesca de lagostins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Restrições aplicáveis à pesca de lagostins\n\nÉ inserido o seguinte artigo no Regulamento (CE) n.º 850/98:"
+  },
+  "703a39f1d3cee55c": {
+   "fragment_id": "«Artigo 29.º-B — Restrições aplicáveis à pesca de lagostins",
+   "type": "divisao",
+   "heading": "«Artigo 29.º-B — Restrições aplicáveis à pesca de lagostins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### «Artigo 29.º-B — Restrições aplicáveis à pesca de lagostins\n\n1. Durante os períodos abaixo assinalados, é proibida a pesca com:\n\ni) redes de arrasto pelo fundo ou redes rebocadas similares que operem em contacto com o fundo do mar e\n\nii) covos nas zonas geográficas delimitadas por linhas de rumo que unem as seguintes posições, medidas em conformidade com a norma WGS84: a) De 1 de Junho a 31 de Agosto: latitude 42° 23′N, longitude 08° 57′W latitude 42° 00′N, longitude 08° 57′W latitude 42° 00′N, longitude 09° 14′W latitude 42° 04′N, longitude 09° 14′W latitude 42° 09′N, longitude 09° 09′W latitude 42° 12′N, longitude 09° 09′W latitude 42° 23′N, longitude 09° 15′W latitude 42° 23′N, longitude 08° 57′W; b) De 1 de Maio a 31 de Agosto: latitude 37° 45′N, longitude 009° 00′W latitude 38° 10′N, longitude 009° 00′W latitude 38° 10′N, longitude 009° 15′W latitude 37° 45′N, longitude 009° 20′W.\n\na) De 1 de Junho a 31 de Agosto: latitude 42° 23′N, longitude 08° 57′W latitude 42° 00′N, longitude 08° 57′W latitude 42° 00′N, longitude 09° 14′W latitude 42° 04′N, longitude 09° 14′W latitude 42° 09′N, longitude 09° 09′W latitude 42° 12′N, longitude 09° 09′W latitude 42° 23′N, longitude 09° 15′W latitude 42° 23′N, longitude 08° 57′W;\n\nlatitude 42° 23′N, longitude 08° 57′W\n\nlatitude 42° 00′N, longitude 08° 57′W\n\nlatitude 42° 00′N, longitude 09° 14′W\n\nlatitude 42° 04′N, longitude 09° 14′W\n\nlatitude 42° 09′N, longitude 09° 09′W\n\nlatitude 42° 12′N, longitude 09° 09′W\n\nlatitude 42° 23′N, longitude 09° 15′W\n\nlatitude 42° 23′N, longitude 08° 57′W;\n\nb) De 1 de Maio a 31 de Agosto: latitude 37° 45′N, longitude 009° 00′W latitude 38° 10′N, longitude 009° 00′W latitude 38° 10′N, longitude 009° 15′W latitude 37° 45′N, longitude 009° 20′W.\n\nlatitude 37° 45′N, longitude 009° 00′W\n\nlatitude 38° 10′N, longitude 009° 00′W\n\nlatitude 38° 10′N, longitude 009° 15′W\n\nlatitude 37° 45′N, longitude 009° 20′W.\n\n2. Por derrogação à proibição constante do n.º 1, será autorizada a pesca com redes de arrasto pelo fundo ou redes rebocadas similares que operem em contacto com o fundo do mar nas zonas geográficas e durante o período constante da alínea b) do n.º 1 desde que as capturas incidentais de lagostins não excedam 2 % do peso total das capturas.\n\n3. Por derrogação à proibição estipulada no n.º 1, a pesca com covos que não capture lagostins será autorizada na zona geográfica e durante o período constantes da alínea b) do n.º 1.\n\n4. Nas zonas geográficas e fora dos períodos referidos no n.º 1, as capturas incidentais de lagostins não poderão exceder 5 % do peso total das capturas.\n\n5. Nas zonas geográficas e fora dos períodos referidos no n.º 1, os Estados-Membros assegurarão que os níveis do esforço de pesca dos navios que pescam com redes de arrasto pelo fundo ou redes rebocadas similares que operem em contacto com o fundo do mar não ultrapassam os níveis do esforço de pesca desenvolvido pelos navios dos Estados-Membros em causa durante os mesmos nos períodos equivalentes nas mesmas zonas geográficas em 2004.\n\n6. Os Estados-Membros comunicarão à Comissão as medidas que tomaram para cumprir a obrigação estipulada no n.º 5. Caso considere que as medidas adoptadas pelos Estados-Membros não permitem cumprir essa obrigação, a Comissão poderá propor a sua alteração. Na ausência de acordo entre a Comissão e o Estado-Membro interessado quanto às referidas medidas, a Comissão poderá adoptar medidas em conformidade com o procedimento referido no n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002[([^*1])](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntr*1-L_2005345PT.01000501-E0007).\n\n---"
+  },
+  "970c93f522ecb14d": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^*1^)](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntc*1-L_2005345PT.01000501-E0007) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).».\""
+  },
+  "04e92c3b295cda9c": {
+   "fragment_id": "Artigo 16.º — Relatório sobre o plano de recuperação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Relatório sobre o plano de recuperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Relatório sobre o plano de recuperação\n\nA Comissão apresentará ao Parlamento Europeu e ao Conselho um relatório com as conclusões relativas à aplicação do plano de recuperação no que respeita às unidades populacionais em causa, incluindo os dados socioeconómicos disponíveis ligados ao plano. Esse relatório será apresentado até 17 de Janeiro de 2010."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "827e634f12e78467": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 20 de Dezembro de 2005.\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**M. BECKETT**\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntc1-L_2005345PT.01000501-E0001) Parecer emitido em 14 de Abril de 2005 (Ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntc2-L_2005345PT.01000501-E0002) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntc3-L_2005345PT.01000501-E0003) [JO L 261 de 20.10.1993, p. 1](http://publications.europa.eu/resource/oj/JOL_1993_261_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 768/2005 ([JO L 128 de 21.5.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_128_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntc4-L_2005345PT.01000501-E0004) [JO L 125 de 27.4.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_125_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1568/2005 ([JO L 252 de 28.9.2005, p. 2](http://publications.europa.eu/resource/oj/JOL_2005_252_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntc5-L_2005345PT.01000501-E0005) [JO L 12 de 14.1.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_012_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1936/2005 ([JO L 311 de 26.11.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_311_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/636b3e72-911b-4788-9cbc-56d2ede4916f.0016.03/DOC_1#ntc6-L_2005345PT.01000501-E0006) [JO L 276 de 10.10.1983, p. 1](http://publications.europa.eu/resource/oj/JOL_1983_276_R_TOC). Regulamento com a redacção que lhe foi dada pelo Regulamento (CE) n.º 1804/2005 ([JO L 290 de 4.11.2005, p. 10](http://publications.europa.eu/resource/oj/JOL_2005_290_R_TOC))."
+  },
+  "2978ef8990940e55": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Dezembro de 2005\n\nque estabelece medidas para a recuperação das unidades populacionais de pescada do Sul e de lagostins no mar Cantábrico e a oeste da Península Ibérica e que altera o Regulamento (CE) n.º 850/98 relativo à conservação dos recursos da pesca através de determinadas medidas técnicas de protecção dos juvenis de organismos marinhos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#E0001)),\n\n(1) Um parecer científico recente, emitido pelo Conselho Internacional de Exploração do Mar (CIEM), indica que os níveis de mortalidade por pesca das unidades populacionais de pescada do Sul e de lagostins nas divisões CIEM VIIIc e IXa têm vindo a provocar a erosão das quantidades de peixes adultos presentes no mar, a um nível tal, que as unidades populacionais podem deixar de se poder reconstituir por reprodução e estar, assim, ameaçadas de ruptura.\n\n(2) Deverão ser aprovadas medidas para estabelecer planos plurianuais com vista à recuperação destas unidades populacionais em conformidade com o artigo 5.º do Regulamento (CE) n.º 2371/2002 do Conselho, de 20 de Dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas ([^2^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#E0002)).\n\n(3) Os planos devem ter por objectivo a reconstituição destas unidades populacionais, por forma a que atinjam limites biológicos de segurança num prazo de dez anos.\n\n(4) Deve considerar-se que foi atingido o objectivo quando o Comité Científico, Técnico e Económico das Pescas (CCTEP) determinar, à luz dos pareceres mais recentes do CIEM, que as unidades populacionais em causa se encontram dentro dos limites biológicos de segurança.\n\n(5) Para atingir esses objectivos, os níveis das taxas de mortalidade por pesca deverão ser controlados, de forma a que haja uma elevada probabilidade de redução dessas taxas de ano para ano.\n\n(6) O controlo das taxas de mortalidade por pesca pode ser obtido através de um método adequado de fixação do nível dos totais admissíveis de capturas (TAC) das unidades populacionais em causa e de um sistema que preveja áreas de defeso e limitações em termos de quilowatts-dias, em cujo âmbito o esforço de pesca exercido relativamente a estas unidades populacionais seja limitado a níveis que impossibilitem a superação dos TAC.\n\n(7) Após ter sido obtida a recuperação das unidades populacionais, o Conselho deve decidir, sob proposta da Comissão, das medidas de acompanhamento em conformidade com o artigo 6.º do Regulamento (CE) n.º 2371/2002.\n\n(8) Para assegurar a observância das medidas estabelecidas no presente regulamento, deverão ser incluídas medidas de controlo suplementares para além das estabelecidas no Regulamento (CEE) n.º 2847/93 do Conselho, de 12 de Outubro de 1993, que institui um regime de controlo aplicável à política comum das pescas ([^3^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#E0003)).\n\n(9) A recuperação das unidades populacionais de lagostins requer que sejam protegidas determinadas zonas de reprodução destas espécies. O Regulamento (CE) n.º 850/98 ([^4^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#E0004)), deve, pois, ser alterado em consequência,\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "9b8178e77d169e84": {
+   "fragment_id": "Artigo 8.º — Limitação do esforço",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Limitação do esforço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Limitação do esforço\n\n1. Os TAC referidos no capítulo II serão completados por um sistema de limitação do esforço de pesca, com base nas áreas geográficas e nos grupos de artes de pesca, assim como nas condições associadas para a utilização das possibilidades de pesca, especificados no anexo IVb do Regulamento (CE) n.º 27/2005 do Conselho, de 22 de Dezembro de 2004, que fixa, para 2005, em relação a determinadas populações de peixes ou grupos de populações de peixes, as possibilidades de pesca e as condições associadas aplicáveis nas águas comunitárias e, para os navios de pesca comunitários, nas águas em que são necessárias limitações das capturas ([^5^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#E0005)).\n\n2. Anualmente, o Conselho decide, por maioria qualificada com base numa proposta da Comissão, da adaptação do número máximo de dias de pesca para os navios sujeitos ao sistema de limitação do esforço de pesca a que se refere o n.º 1. A adaptação será proporcional à adaptação anual da mortalidade por pesca, avaliada pelo CIEM e pelo CCTEP, de forma coerente com a aplicação das taxas de mortalidade por pesca estabelecidas de acordo com o método descrito no artigo 5.º\n\n3. Em derrogação do disposto nos n.^os^ 1 e 2, cada Estado-Membro em causa pode aplicar um método diferente de gestão do esforço na parte da zona IXa situada a leste da longitude 7° 23′ 48″ W medida em conformidade com a norma WGS84. Esse método estabelecerá um nível de referência de esforço de pesca igual ao esforço de pesca desenvolvido durante o ano de 2005. No que se refere aos anos 2006 e seguintes, o esforço de pesca será adaptado num montante a decidir por maioria qualificada pelo Conselho com base numa proposta da Comissão. Essa adaptação será proposta após ter tido em conta o parecer mais recente do CCTEP emitido à luz do relatório mais recente do CIEM. Na ausência de uma decisão do Conselho, os Estados-Membros em causa assegurarão que o esforço de pesca não exceda o nível de referência.\n\n4. A Comissão pode requerer a cada Estado-Membro que faça uso da derrogação prevista no n.º 3 que apresente um relatório sobre a implementação de qualquer método diferente de gestão do esforço. A Comissão comunicará esse relatório a todos os outros Estados-Membros.\n\n5. Para efeitos do n.º 3, o esforço de pesca será calculado como a soma, em cada ano civil, do produto da multiplicação da potência instalada do motor, expressa em quilowatts, de cada um dos navios pertinentes, pelo número de dias de pesca de cada um deles nessa zona."
+  },
+  "0155d48158a0034c": {
+   "fragment_id": "Artigo 15.º — Restrições aplicáveis à pesca de lagostins",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Restrições aplicáveis à pesca de lagostins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Restrições aplicáveis à pesca de lagostins\n\nÉ inserido o seguinte artigo no Regulamento (CE) n.º 850/98:\n\n1. Durante os períodos abaixo assinalados, é proibida a pesca com:\n\ni) redes de arrasto pelo fundo ou redes rebocadas similares que operem em contacto com o fundo do mar e\n\nii) covos nas zonas geográficas delimitadas por linhas de rumo que unem as seguintes posições, medidas em conformidade com a norma WGS84:\n\na) De 1 de Junho a 31 de Agosto:\n\nlatitude 42° 23′N, longitude 08° 57′W\n\nlatitude 42° 00′N, longitude 08° 57′W\n\nlatitude 42° 00′N, longitude 09° 14′W\n\nlatitude 42° 04′N, longitude 09° 14′W\n\nlatitude 42° 09′N, longitude 09° 09′W\n\nlatitude 42° 12′N, longitude 09° 09′W\n\nlatitude 42° 23′N, longitude 09° 15′W\n\nlatitude 42° 23′N, longitude 08° 57′W;\n\nb) De 1 de Maio a 31 de Agosto:\n\nlatitude 37° 45′N, longitude 009° 00′W\n\nlatitude 38° 10′N, longitude 009° 00′W\n\nlatitude 38° 10′N, longitude 009° 15′W\n\nlatitude 37° 45′N, longitude 009° 20′W.\n\n2. Por derrogação à proibição constante do n.º 1, será autorizada a pesca com redes de arrasto pelo fundo ou redes rebocadas similares que operem em contacto com o fundo do mar nas zonas geográficas e durante o período constante da alínea b) do n.º 1 desde que as capturas incidentais de lagostins não excedam 2 % do peso total das capturas.\n\n3. Por derrogação à proibição estipulada no n.º 1, a pesca com covos que não capture lagostins será autorizada na zona geográfica e durante o período constantes da alínea b) do n.º 1.\n\n4. Nas zonas geográficas e fora dos períodos referidos no n.º 1, as capturas incidentais de lagostins não poderão exceder 5 % do peso total das capturas.\n\n5. Nas zonas geográficas e fora dos períodos referidos no n.º 1, os Estados-Membros assegurarão que os níveis do esforço de pesca dos navios que pescam com redes de arrasto pelo fundo ou redes rebocadas similares que operem em contacto com o fundo do mar não ultrapassam os níveis do esforço de pesca desenvolvido pelos navios dos Estados-Membros em causa durante os mesmos nos períodos equivalentes nas mesmas zonas geográficas em 2004.\n\n6. Os Estados-Membros comunicarão à Comissão as medidas que tomaram para cumprir a obrigação estipulada no n.º 5. Caso considere que as medidas adoptadas pelos Estados-Membros não permitem cumprir essa obrigação, a Comissão poderá propor a sua alteração. Na ausência de acordo entre a Comissão e o Estado-Membro interessado quanto às referidas medidas, a Comissão poderá adoptar medidas em conformidade com o procedimento referido no n.º 2 do artigo 30.º do Regulamento (CE) n.º 2371/2002 ([^6^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#E0007))."
+  },
+  "d06484b530ef4a2d": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "982d17c97bcfdd49": {
+   "fragment_id": "Método de cálculo de um TAC para as divisões CIEM VIIIc e IXa aplicável à pescada do Sul no caso de só existir uma previsão científica de capturas para uma parte da zona",
+   "type": "divisao",
+   "heading": "Método de cálculo de um TAC para as divisões CIEM VIIIc e IXa aplicável à pescada do Sul no caso de só existir uma previsão científica de capturas para uma parte da zona",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Método de cálculo de um TAC para as divisões CIEM VIIIc e IXa aplicável à pescada do Sul no caso de só existir uma previsão científica de capturas para uma parte da zona\n\nSe o parecer científico relativo ao nível de capturas numa subzona situada dentro das divisões VIIIc e IXa, correspondente à taxa de mortalidade por pesca especificada no artigo 5.º, for de *x* toneladas, a média das capturas da mesma subzona nos três anos anteriores for de *y* toneladas, e a média de capturas de todas as divisões VIIIc e IXa nos três anos anteriores for de *z* toneladas, o TAC será calculado segundo a fórmula *zx/y* toneladas.\n\n---"
+  },
+  "0e772085a8eb2bfa": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#src.E0001)) Parecer emitido em 14 de Abril de 2005 (Ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#src.E0002)) JO L 358 de 31.12.2002, p. 59.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#src.E0003)) JO L 261 de 20.10.1993, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 768/2005 (JO L 128 de 21.5.2005, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#src.E0004)) JO L 125 de 27.4.1998, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1568/2005 (JO L 252 de 28.9.2005, p. 2).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#src.E0005)) JO L 12 de 14.1.2005, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1936/2005 (JO L 311 de 26.11.2005, p. 1).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b806a8e2-b988-41f9-b759-bab69887f92e.0018.03/DOC_1#src.E0007)) JO L 358 de 31.12.2002, p. 59.»."
+  }
+ }
+}

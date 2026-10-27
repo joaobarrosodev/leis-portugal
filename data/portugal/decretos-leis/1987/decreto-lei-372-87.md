@@ -1,0 +1,178 @@
+---
+schema_version: '1.0'
+id: pt:dre:498102:por
+title: Decreto-Lei n.º 372/87
+short_title: null
+summary: Cria o Conselho Consultivo de Alimentação Animal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 372/87
+official_date: null
+publication_date: '1987-12-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 280/1987, Série I de 1987-12-05
+  number: '280'
+  series: I
+  supplement: null
+  pages: 4231 - 4232
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/12/28000/42314232.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '498102'
+  dre_path: /dr/detalhe/decreto-lei/372-1987-498102
+  internal: pt:dre:498102:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1987-498102
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1987-498102
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:22:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4d2ed9adb4bec0eb88e64584429207e86a95a10d3222c79eac6c019bc706de6f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:22:07Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Consultivo de Alimentação Animal
+- Direcção Geral da Pecuária
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:329202:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473275:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:22:07Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 372/87
+
+de 5 de Dezembro
+
+Criada pelo [Decreto n.º 104/78](https://diariodarepublica.pt/dr/detalhe/decreto/104-1978-329202), de 28 de Setembro, e com as suas atribuições definidas no [Decreto n.º 41/80](https://diariodarepublica.pt/dr/detalhe/decreto/41-1980-473275), de 3 de Julho, a Comissão de Alimentação Animal vem exercendo, com carácter consultivo e executivo, as funções de coordenação da actividade dos diversos organismos com intervenção no campo da alimentação animal, nalguns casos em sobreposição às cometidas a estes últimos.
+
+Após a concretização da adesão de Portugal à CEE, importa adaptar os objectivos e estruturas a novas solicitações e quadros de funcionamento.
+
+No que se refere à alimentação animal, torna-se necessário cometer claramente aos organismos da Administração as funções executivas, de forma que, sem sobreposição de competências e atempadamente, sejam efectuadas as adaptações legislativas necessárias, executadas as convenientes medidas de controle e prestado o conveniente apoio aos representantes da Administração Portuguesa nas estruturas de trabalho da CEE.
+
+Simultaneamente, importa reformular a Comissão de Alimentação Animal, de modo que lhe sejam cometidas unicamente funções consultivas, visando obter os pareceres e consensos representativos dos interesses científicos, técnicos, profissionais e económicos envolvidos, particularmente sobre as grandes questões que afectam o campo pluridisciplinar da alimentação animal.
+
+Nesta perspectiva, é criado o Conselho Consultivo de Alimentação Animal.
+
+Assim:
+
+O Governo, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, decreta o seguinte:
+
+Artigo 1.º É criado o Conselho Consultivo de Alimentação Animal, abreviadamente designado por CCAA, o qual funciona junto da Direcção-Geral da Pecuária.
+
+Art. 2.º Compõem o Conselho Consultivo de Alimentação Animal:
+
+1) Um representante de cada um dos seguintes organismos:
+
+a) Direcção-Geral da Pecuária;
+
+b) Instituto de Qualidade Alimentar;
+
+c) Instituto Nacional de Investigação Agrária;
+
+d) Direcção-Geral da Indústria;
+
+e) Laboratório Nacional de Engenharia e Tecnologia Industrial;
+
+f) Direcção-Geral do Comércio Interno;
+
+g) Direcção-Geral dos Cuidados de Saúde Primários;
+
+2) Um representante de cada uma das seguintes associações:
+
+a) Confederação dos Agricultores de Portugal;
+
+b) Confederação Nacional das Federações das Cooperativas Agrícolas de Portugal;
+
+c) Associação Portuguesa dos Industriais de Alimentos Compostos para Animais;
+
+d) Associação dos Grossistas de Produtos Químicos e Farmacêuticos;
+
+e) Associação Portuguesa da Indústria Farmacêutica;
+
+3) Quando for julgado conveniente e a convite do presidente, poderão também participar nos trabalhos do CCAA representantes de outros organismos, associações, entidades ou personalidades especialmente competentes em função da matéria.
+
+Art. 3.º - 1 - O CCAA é presidido pelo director-geral da Pecuária ou por um seu representante.
+
+2 - A Direcção-Geral da Pecuária prestará todo o apoio técnico e administrativo necessário ao funcionamento do CCAA.
+
+3 - As reuniões do CCAA serão convocadas pelo seu presidente.
+
+Art. 4.º São competências do CCAA:
+
+a) Emitir parecer, a pedido dos organismos competentes, sobre a harmonização da legislação nacional de alimentos para animais com as correspondentes disposições da CEE;
+
+b) Emitir parecer, sempre que solicitado, sobre a posição a adoptar pelos representantes portugueses nas diferentes estruturas de trabalho da CEE, em matéria de alimentação animal;
+
+c) Pronunciar-se, quando para tal for solicitado, sobre a utilização de novos alimentos e aditivos destinados à alimentação animal;
+
+d) Propor aos organismos competentes o estudo e a implementação de linhas de investigação ou de outros aspectos da alimentação animal;
+
+e) Dar parecer sobre questões relacionadas com a alimentação animal que lhe sejam solicitadas por quaisquer entidades.
+
+Art. 5.º Os membros do CCAA são obrigados, mesmo após a cessação das suas funções, a não divulgar as informações que, por sua natureza, estejam abrangidas pelo segredo profissional, designadamente as respeitantes às empresas e respectivas relações comerciais ou elementos dos seus preços de custo e processos de fabrico, bem como a não divulgar as informações a que tenham acesso durante os trabalhos da Comissão, sempre que o presidente os informar de que o parecer solicitado ou a questão apresentada incide sobre uma matéria de carácter confidencial.
+
+Art. 6.º São revogados os Decretos n.os [104/78](https://diariodarepublica.pt/dr/detalhe/decreto/104-1978-329202) e [41/80](https://diariodarepublica.pt/dr/detalhe/decreto/41-1980-473275), de 28 de Setembro e de 3 de Julho, respectivamente.
+
+Visto e aprovado em Conselho de Ministros de 29 de Outubro de 1987. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 21 de Novembro de 1987.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 26 de Novembro de 1987.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:278929:por
+title: Decreto-Lei n.º 425/77
+short_title: null
+summary: Extingue o Fundo Nacional do Abono de Família e integra o seu património na Caixa Nacional de Pensões
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Assuntos Sociais - Secretaria de Estado da Segurança Social
+proposing_entity: null
+official_number: 425/77
+official_date: null
+publication_date: '1977-10-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 235/1977, Série I de 1977-10-11
+  number: '235'
+  series: I
+  supplement: null
+  pages: 2475 - 2476
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/10/23500/24752476.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '278929'
+  dre_path: /dr/detalhe/decreto-lei/425-1977-278929
+  internal: pt:dre:278929:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1977-278929
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1977-278929
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:06:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f28f0456f375e9bfb785c3395a79e1929ae647e33a526ff306ff091b38dabdb7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:06:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Abono de Família
+- Caixa Nacional de Pensões
+- Definição de Competências
+- Extinção de Serviços
+- Fundo Nacional de Abono de Família
+- Instituto de Gestão Financeira da Segurança Social
+- Junta Central das Casas do Povo
+- Trabalhador por Conta de Outrem
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Considerado revogado, a partir de 13.05.2018, pelo(a) Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018,
+    Série I de 2018-05-08 nos termos do seu art. 1.º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2018-115235757
+  date: '2018-05-08'
+- type: cites
+  target: pt:dre:139726:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:215768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264491:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:315169:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411864:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422176:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431267:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:492465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632745:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:666343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674864:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:06:55Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 425/77
+
+de 11 de Outubro
+
+O Fundo Nacional do Abono de Família tem como objectivo fundamental efectuar a compensação financeira entre os resultados das gerências da modalidade «abono de família» assegurada através das instituições de previdência da primeira categoria prevista na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, e das caixas de abono de família, competindo-lhe ainda auxiliar as referidas instituições na realização dos seus fins.
+
+Pela [Portaria n.º 280/74](https://diariodarepublica.pt/dr/detalhe/portaria/280-1974-411864), de 16 de Abril, a Caixa Nacional de Pensões, que já tinha a seu cargo o recebimento das contribuições que lhe competiam, conjuntamente com as das caixas de previdência e abono de família e as da Federação das Caixas de Previdência e Abono de Família, passou a ter também a seu cargo a compensação financeira mensal da doença e maternidade, que pertencia àquela Federação, e, ainda, a compensação mensal do abono de família, que pertencia ao Fundo Nacional do Abono de Família.
+
+Esta medida teve o alcance de concentrar numa só instituição os sistemas de compensação, por forma a reduzir os períodos de não utilização das importâncias envolvidas nos sistemas e de proporcionar uma visão global mais correcta da situação financeira da Previdência.
+
+Recentemente, o [Decreto-Lei n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1977-492465), de 12 de Janeiro, criou o Instituto de Gestão Financeira, o qual passou a assumir as funções que cabiam à Caixa Nacional de Pensões no que diz respeito à compensação financeira, como resulta do disposto no [Decreto Regulamentar n.º 24/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1977-139726), de 1 de Abril.
+
+Considerando, assim, que as actividades que especificamente cabiam ao Fundo Nacional do Abono de Família se encontram concentradas no Instituto de Gestão Financeira e que os encargos que oneravam aquele Fundo, por se destinarem a assegurar o funcionamento de serviços públicos, cabem, por sua natureza, ao Orçamento Geral do Estado, já se não justifica a existência do Fundo Nacional do Abono de Família:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - O Fundo Nacional do Abono de Família, criado pelo [Decreto-Lei n.º 32192](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32192-1942-315169), de 13 de Agosto de 1942, é extinto, sendo o seu património integrado na Caixa Nacional de Pensões, com observância do disposto no [Decreto-Lei n.º 503/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1976-431267), de 30 de Junho.
+
+2 - A arrecadação das receitas do referido Fundo, a satisfação de todos os encargos ao mesmo inerentes, bem como as atribuições definidas no [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), de 23 de Setembro de 1968, e demais legislação, passam a competir ao Instituto de Gestão Financeira da Segurança Social.
+
+Art. 2.º Os auxílios para apetrechamento e instalação de Casas do Povo, a que se refere o § 6.º do artigo 1.º do [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), passam a ser concedidos directamente à Junta Central das Casas do Povo.
+
+Art. 3.º Deixam de depender de autorização ministerial, passando para a competência do Instituto de Gestão Financeira da Segurança Social, a apreciação e o despacho dos casos excepcionais, devidamente justificados, de depósitos de contribuições de trabalho extraordinário, a efectuar fora do prazo a que se refere a parte final do § 2.º do artigo 2.º do [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), com a redacção dada pelo artigo 2.º do [Decreto-Lei n.º 410/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/410-1971-632745), de 27 de Setembro.
+
+Art. 4.º A movimentação das receitas por meio de guias de depósito na Caixa Geral de Depósitos, Crédito e Previdência, que nas competentes disposições do [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491) se faz a favor do Fundo Nacional do Abono de Família e, em alguns casos, com a intervenção da Direcção-Geral da Previdência, passa a fazer-se a favor e com a intervenção do Instituto de Gestão Financeira da Segurança Social.
+
+Art. 5.º As guias de receita do modelo A anexo ao [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491) passam a ser encimadas por «Instituto de Gestão Financeira da Segurança Social», em substituição de «Fundo Nacional do Abono de Família».
+
+Art. 6.º As dúvidas suscitadas na execução deste diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
+
+Art. 7.º São revogadas as seguintes disposições legais: a alínea b) do § 2.º do artigo 27.º do [Decreto-Lei n.º 37244](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37244-1948-370221), de 27 de Dezembro de 1948, e as seguintes disposições do [Decreto-Lei n.º 48588](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48588-1968-264491), de 23 de Setembro de 1968: os n.os 4.º e 5.º do artigo 2.º, os n.os 3.º e 4.º do artigo 5.º e n.º 7.º do mesmo artigo, na parte respeitante à Comissão de Política Social Rural, e os artigos 6.º a 11.º; a alínea c) do artigo 5.º do [Decreto-Lei n.º 49373](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49373-1969-215768), de 11 de Novembro de 1969, na parte respeitante ao Fundo Nacional do Abono de Família, a alínea c) do n.º 1 do artigo 15.º do [Decreto-Lei n.º 446/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1970-666343), de 23 de Setembro, o artigo 14.º do [Decreto-Lei n.º 130/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1973-674864), de 27 de Março, na parte respeitante ao mesmo Fundo, e o artigo 30.º do [Decreto-Lei n.º 228/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1973-422176), de 12 de Maio.
+
+Art. 8.º Fica assegurada a responsabilidade pelo pagamento das comparticipações que sejam de atribuir até final do ano de 1974, salvo quanto à comparticipação a que se refere o artigo 30.º do [Decreto-Lei n.º 228/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1973-422176), de 12 de Maio, que fica assegurada até final do ano de 1976.
+
+Art. 9.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1977.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Armando Bacelar.
+
+Promulgado em 28 de Setembro de 1977.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

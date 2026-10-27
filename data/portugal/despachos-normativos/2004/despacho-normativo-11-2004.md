@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:551651:por
+title: Despacho Normativo n.º 11/2004
+short_title: null
+summary: Estabelece as regras de atribuição, para o ano de 2004, de um lote até 25000 direitos ao prémio à vaca em aleitamento
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 11/2004
+official_date: null
+publication_date: '2004-03-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/2004, Série I-B de 2004-03-03
+  number: '53'
+  series: I
+  supplement: null
+  pages: 1217 - 1218
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/03/053b00/12171218.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/11/2004/03/03/p/dre/pt/html
+  oj: null
+  dre: '551651'
+  dre_path: /dr/detalhe/despacho-normativo/11-2004-551651
+  internal: pt:dre:551651:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2004-551651
+  metadata_url: https://data.dre.pt/eli/despnorm/11/2004/03/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-2004-551651
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:40:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: beb1e2e3cc4306ba6713b4b7a04bd3aa1b2276c4c7a1b70b192ec0500429c366
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:40:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carne de Vaca
+- Gado Bovino
+- Política Agrícola Comum
+- Prémio aos Produtores de Vacas Aleitantes
+- Produtor
+relationships:
+- type: amended_by
+  target: pt:dre:270026:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:301809:por
+  label: "Aditado o nº 3º pelo DN.22/2004.12.04.2004.MADRP, DR.IS-B [105] de 05.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/22-2004-301809
+  date: '2004-04-12'
+- type: amended_by
+  target: pt:dre:270026:por
+  label: "Prorrogado, até 30 de Abril, o prazo previsto no n.º 7, n.º 1 do presente diploma, pelo DN.24/2004.15.04.2004.MADRP,\
+    \ DR.IS-B [117] de 19.05.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-normativo/24-2004-270026
+  date: '2004-04-15'
+- type: cites
+  target: celex:31994R1017
+  label: null
+  source: http://data.europa.eu/eli/reg/1994/1017/oj
+- type: cites
+  target: celex:31999R1254
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1254/oj
+- type: cites
+  target: celex:32003R1782
+  label: null
+  source: http://data.europa.eu/eli/reg/2003/1782/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:40:46Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 11/2004
+
+O Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro, que estabelece as regras comuns para os regimes de apoio directo no âmbito da política agrícola comum, introduz uma profunda alteração nos referidos regimes em vigor, nomeadamente no Regulamento (CE) n.º [1254/99](http://data.europa.eu/eli/reg/1999/1254/oj?locale=pt), do Conselho, de 17 de Maio, que estabelece a organização comum de mercado do sector da carne de bovino.
+
+Através do citado regulamento, o número total de direitos ao prémio à vaca aleitante para Portugal é aumentado a partir de 1 de Janeiro de 2004.
+
+Dado o carácter excepcional do referido aumento, torna-se necessário criar regras específicas que garantam, desde já, uma primeira atribuição destes novos direitos.
+
+Contudo, convém evitar que esta primeira atribuição de direitos concorra com aquela que é efectuada a partir da reserva específica instituída pelo Regulamento (CE) n.º [1017/94](http://data.europa.eu/eli/reg/1994/1017/oj?locale=pt), do Conselho, de 26 de Abril, pelo que é fundamental limitar o número de direitos a atribuir, pretendendo-se desta forma optimizar a utilização dos dois mecanismos.
+
+A reconhecida importância da criação de bovinos de raças autóctones enquanto instrumento essencial para a preservação do património genético nacional e para o desenvolvimento da pecuária extensiva conduziu à necessidade de privilegiar este tipo de criação no quadro do presente mecanismo de atribuição de direitos.
+
+Assim, ao abrigo do artigo 9.º do Regulamento (CE) n.º [1254/99](http://data.europa.eu/eli/reg/1999/1254/oj?locale=pt), do Conselho, de 17 de Maio, e do n.º 8.º do Despacho Normativo n.º 2/2000, de 10 de Janeiro, com a redacção que lhe foi dada pelo Despacho Normativo n.º 7/2004, de 30 de Janeiro, determino o seguinte:
+
+1.º O presente despacho estabelece as regras de atribuição, para o ano de 2004, de um lote até 25000 direitos ao prémio à vaca em aleitamento.
+
+2.º A atribuição dos direitos ao prémio à vaca em aleitamento mencionados no número anterior será feita exclusivamente a criadores de bovinos de raças autóctones inscritos em livro genealógico (LG) ou registo zootécnico (RZ).
+
+3.º O número máximo de direitos a atribuir a cada candidato não pode ser superior à diferença entre o número de fêmeas já paridas inscritas no livro de adultos do LG ou RZ, e confirmadas pelo secretário técnico do respectivo LG ou RZ, e o número de direitos ao prémio à vaca em aleitamento que o candidato detiver em 31 de Janeiro de 2004.
+
+4.º Não têm acesso a esta atribuição de direitos os criadores referidos no n.º 7.º do Despacho Normativo n.º 2/2000, de 10 de Janeiro, nomeadamente os criadores que tenham transferido, no todo ou em parte, os seus direitos ao prémio sem transferência de exploração na campanha em que se candidatam ou nos três anos anteriores.
+
+5.º - 1 - A atribuição dos direitos referidos no n.º 1.º será feita de acordo com os critérios e pontuações a seguir enunciados:
+
+a) Criadores de bovinos das raças Marinhoa, Garvonesa e Ramo Grande - 5 pontos;
+
+b) Criadores de bovinos das raças Minhota, Maronesa, Barrosã, Cachena e Arouquesa - 3 pontos;
+
+c) Criadores de bovinos das raças Mirandesa, Brava e Mertolenga - 2 pontos;
+
+d) Criadores de bovinos das raças Preta e Alentejana - 1 ponto.
+
+2 - Não são cumuláveis os pontos obtidos em resultado da aplicação dos critérios definidos no número anterior.
+
+3 - Para efeitos da aplicação dos critérios definidos no n.º 1, quando um criador possuir animais de mais de uma raça autóctone, aplica-se a alínea correspondente à raça da maioria dos animais do criador e, em caso de igual número de animais, aplica-se a alínea correspondente à raça com pontuação superior.
+
+4 - Cada candidatura é classificada de acordo com o número de pontos atribuído, procedendo-se à sua ordenação de forma decrescente.
+
+5 - Sempre que, entre candidaturas com a mesma pontuação, o número de direitos solicitados seja superior ao número de direitos disponíveis para atribuir, as candidaturas serão ordenadas de forma decrescente em função da diferença entre o número de direitos detidos e o número de fêmeas inscritas no LG ou RZ.
+
+6 - Em caso de rateio na atribuição dos direitos, este será feito dentro das candidaturas com o mesmo número de pontos e com a mesma diferença entre o número de direitos e o número de animais.
+
+6.º Os produtores a quem sejam atribuídos direitos ao prémio à vaca em aleitamento ao abrigo deste despacho normativo ficam impedidos, nos três anos subsequentes à sua atribuição, de os utilizarem com animais que não de raças autóctones, sob pena de reintegração na reserva dos direitos indevidamente utilizados, sem qualquer compensação.
+
+7.º - 1 - A formalização das candidaturas deverá ser feita entre os dias 16 de Fevereiro e 23 de Abril, junto das organizações de produtores credenciadas pelo INGA - entidades credenciadas (EC), através do preenchimento dos respectivos campos no formulário do pedido de ajuda animais (modelo N) ou pela recolha informática directa do pedido.
+
+2 - As candidaturas ao prémio à manutenção de vacas aleitantes apresentadas antes de 16 de Fevereiro podem ser reformuladas desde que apresentadas por produtores que possam beneficiar do disposto no presente despacho.
+
+8.º Para efeitos de atribuição do prémio à manutenção de vacas aleitantes referente à campanha de 2004, os animais elegíveis nos termos do presente despacho normativo deverão ser declarados no formulário de candidatura referido no número anterior.
+
+9.º Caso, após a atribuição de direitos prevista neste despacho normativo, venha a verificar-se, através de controlos efectuados pelo INGA, que as informações que estiveram na base da atribuição não estão correctas, os direitos indevidamente atribuídos serão reintegrados na reserva nacional sem qualquer compensação, ficando os candidatos impedidos, nos três anos subsequentes à atribuição dos direitos, de se candidatarem à reserva nacional.
+
+10.º O presente despacho produz efeitos a partir de 15 de Fevereiro.
+
+Ministério da Agricultura, Desenvolvimento Rural e Pescas, 9 de Fevereiro de 2004. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.

@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:383578:por
+title: Portaria n.º 283/79
+short_title: null
+summary: Altera o n.º 1 do artigo 44.º do Regulamento do Código da Estrada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Transportes e Comunicações
+proposing_entity: null
+official_number: 283/79
+official_date: null
+publication_date: '1979-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/1979, Série I de 1979-06-18
+  number: '138'
+  series: I
+  supplement: null
+  pages: 1333 - 1333
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/06/13800/13331333.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '383578'
+  dre_path: /dr/detalhe/portaria/283-1979-383578
+  internal: pt:dre:383578:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-1979-383578
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/283-1979-383578
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:54:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fc2b31afe4b346fa6db862d5603cc76d3a7868f2593e34fdb8ca012964c21d2b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:54:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código da Estrada
+- Exame de Condução
+- Regulamento
+- Segurança Rodoviária
+- Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:417248:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:417248:por
+  label: "Alterado o nº 1 do art. 44º do Regulamento do Código da Estrada aprovado pelo Dec 39987 de 22-Dez 1954, com a redacção\
+    \ do presente diploma, pela PORT.664/87.29.07.1987.MOPTC, DR.IS [172] de 29.07.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/664-1987-417248
+  date: '1987-07-29'
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:54:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 283/79
+
+de 18 de Junho
+
+As escolas de condução e instrutores por conta própria têm o exclusivo, nos termos da lei, da ministração do ensino de condução, convindo daí extrair as consequentes ilações, nomeadamente no tocante aos veículos em que são realizados os exames de condução.
+
+Assim, e ainda por razões de segurança, introduz-se o princípio da realização de provas práticas em veículos licenciados para a instrução, salvo nos casos em que tal medida se manifesta inadequada.
+
+Por outro lado, regulamenta-se com o presente diploma o acompanhamento dos exames, matéria ainda omissa na legislação, aperfeiçoando-se também algumas das disposições já vigentes.
+
+Nestes termos:
+
+Considerando o disposto no artigo 2.º do [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes e Comunicações, o seguinte:
+
+1.º O n.º 1 do artigo 44.º do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, passa a ter a seguinte redacção:
+
+###### ARTIGO 44.º
+
+1 - A prova prática de condução a que se refere a alínea a) do n.º 1 do artigo 49.º do Código da Estrada será prestada pelo candidato em veículo da classe para que tenha requerido a carta.
+
+Nos exames para condutor de tractor agrícola ou de motociclo deverá o candidato fornecer o automóvel ligeiro de passageiros para que o examinador possa acompanhar devidamente a realização da prova.
+
+As provas práticas de exames de condução poderão ser acompanhadas por instrutor, o qual deve seguir no lugar direito do banco traseiro do automóvel ligeiro que for utilizado.
+
+É vedado o acompanhamento da prova prática realizada em automóvel pesado de mercadorias.
+
+Por despacho do director-geral de viação pode ser proibido de acompanhar provas práticas o instrutor que tenha, por qualquer forma, impedido ou perturbado o normal funcionamento do serviço de exames.
+
+Os exames de condução de candidatos a condutores de veículos automóveis só podem realizar-se em veículos licenciados para serviços de instrução, salvo quando o examinando não se encontrar obrigado à frequência de lições práticas de condução ou seja candidato a condutor de tractor agrícola, desde que os veículos particulares se encontrem seguros, nos termos da legislação aplicável a veículos de instrução, e possuam as características referidas na alínea a) do n.º 2 e nos n.os 3 e 4 do artigo 31.º do presente regulamento.
+
+Os exames de condução para candidatos a condutores de motociclos realizar-se-ão em veículos de cilindrada igual ou superior a 245 cm3. Será permitido que se realizem em veículos de menor cilindrada quando assim tenha sido requerido pelos interessados, mas estes não podem conduzir motociclos de cilindrada superior à daquele em que tenham prestado prova de condução.
+
+Os automóveis pesados de mercadorias e os reboques dos tractores agrícolas estarão carregados conforme for fixado pela Direcção-Geral de Viação.
+
+...
+
+2.º O disposto na presente portaria entra em vigor trinta dias após a sua publicação.
+
+Ministério dos Transportes e Comunicações, 22 de Maio de 1979. - O Secretário de Estado dos Transportes e Comunicações, Rogério do Ouro Lameira.

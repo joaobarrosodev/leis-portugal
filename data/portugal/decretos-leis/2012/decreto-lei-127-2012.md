@@ -1,0 +1,499 @@
+---
+schema_version: '1.0'
+id: pt:dre:178845:por
+title: Decreto-Lei n.º 127/2012
+short_title: null
+summary: Contempla as normas legais disciplinadoras dos procedimentos necessários à aplicação da Lei dos Compromissos e dos
+  Pagamentos em Atraso, aprovada pela Lei n.º 8/2012, de 21 de fevereiro, e à operacionalização da prestação de informação
+  nela prevista
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 127/2012
+official_date: null
+publication_date: '2012-06-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/2012, Série I de 2012-06-21
+  number: '119'
+  series: I
+  supplement: null
+  pages: 3074 - 3079
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/06/11900/0307403079.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-09-10'
+version_history:
+  file: decreto-lei-127-2012.versoes.json
+  count: 5
+  source_lastmod: '2026-09-16'
+  versions:
+  - date: '2012-06-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-12-21'
+    amending: pt:dre:190201:por
+    amending_title: Lei n.º 64/2012
+    changes:
+    - Altera Artigo 3.º
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 23.º
+  - date: '2015-06-03'
+    amending: pt:dre:67356343:por
+    amending_title: Decreto-Lei n.º 99/2015
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+  - date: '2026-09-10'
+    amending: pt:dre:1168451281:por
+    amending_title: Decreto-Lei n.º 180/2026
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre/pt/html
+  oj: null
+  dre: '178845'
+  dre_path: /dr/detalhe/decreto-lei/127-2012-178845
+  internal: pt:dre:178845:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845
+  metadata_url: https://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-67393380
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-67393380
+  retrieved_at: '2026-10-22T13:54:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-16T00:00:00Z'
+integrity:
+  source_sha256: 7a80bc83b27d3d1fc89cd10dd1110d76b5b6e94d165cbeb565bacc70c5290f76
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:54:41Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-127-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:190201:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201
+  date: '2012-12-20'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Altera Artigo 5.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:67356343:por
+  label: Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 16.º;
+    Altera Artigo 22.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343
+  date: '2015-06-02'
+- type: amended_by
+  target: pt:dre:1168451281:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2026-1168451281
+  date: '2026-09-09'
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: transposes
+  target: celex:32011L0007
+  label: null
+  source: null
+article_structure:
+  article_count: 24
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:54:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 127/2012
+
+Decreto-Lei n.º 127/2012
+
+de 21 de junho
+
+O presente diploma visa estabelecer, nos termos e para os efeitos do disposto no artigo 14.º da Lei n.º 8/2012, de 21 de fevereiro - Lei dos Compromissos e dos Pagamentos em Atraso, doravante abreviadamente designada LCPA -, os procedimentos necessários à aplicação da mesma e à operacionalização da prestação de informação.
+
+Através do presente diploma esclarecem-se alguns dos conceitos previstos na LCPA, nomeadamente os conceitos de dirigente, gestor e responsável pela contabilidade, os quais se revelam de enorme importância na delimitação de responsabilidade quando se verifique a violação da LCPA, a expressão «em qualquer momento» utilizada no artigo 7.º da LCPA, e, finalmente, o que se deve entender por receita com caráter pontual ou extraordinário constante do artigo 8.º da LPCA.
+
+Excluem-se dos pagamentos em atraso os pagamentos que tenham sido objeto de impugnação judicial e as situações de impossibilidade de cumprimento por ato imputável ao credor.
+
+No âmbito dos fundos disponíveis, mais concretamente no que diz respeito às transferências ainda não efetuadas decorrentes de programas e projetos do Quadro de Referência Estratégico Nacional (QREN)e de outros programas estruturais, esclarece-se que estas transferências englobam os pedidos submetidos nas plataformas eletrónicas dos respetivos programas, desde que a entidade beneficiária não tenha tido, nos últimos seis meses, uma taxa de correção dos pedidos de pagamento submetidos igual ou superior a 10 %. Simultaneamente, o presente diploma torna claro que os saldos transitados do ano anterior, cuja utilização tenha sido autorizada nos termos da lei, integram os fundos disponíveis.
+
+Prevê-se, ainda, a simplificação do processo de assunção de compromissos decorrentes de despesas urgentes e imprevisíveis e das despesas realizadas mediante utilização do fundo de maneio. No primeiro caso, a assunção do compromisso pode ser efetuada após a realização da despesa, enquanto no segundo ocorre no momento da reconstituição do fundo de maneio, não existindo a necessidade de se proceder individualmente ao compromisso de cada uma das faturas pagas pelo fundo de maneio.
+
+De forma a agilizar o processo decisório, e tendo presente as especificidades dos municípios, permite-se que a assunção dos compromissos plurianuais seja efetuada aquando da aprovação dos planos plurianuais de investimento.
+
+Ao nível da regulamentação da prestação de informação pelas entidades propõe-se, por razões de simplificação de procedimentos e de reconhecimento das boas práticas, a isenção do cumprimento do dever de informação relativo aos fundos disponíveis pelas entidades que não tenham pagamentos em atraso e pelo tempo em que estas se mantenham nesta situação.
+
+No plano da regulamentação dos planos de liquidação dos pagamentos em atraso estabelece-se o prazo máximo de duração de 5 anos, permitindo-se que este prazo possa, em situações excecionais, ter uma duração de 10 anos. Neste âmbito, para além da necessidade de as entidades disporem de informação atualizada dos planos de liquidação dos pagamentos e do registo das condições de cedência e respetiva modalidade nos casos de cedência dos montantes a pagar a entidades financeiras, estabelece-se a obrigatoriedade de as entidades apresentarem juntamente com os documentos de prestação de contas um mapa atualizado dos planos de liquidação de pagamentos e acordos de pagamento.
+
+Cientes da necessidade de as entidades disporem de um prazo de adaptação dos sistemas informáticos estabelece-se um prazo transitório de 45 dias seguidos para este efeito. Atenta a especificidade dos serviços periféricos externos do Ministério dos Negócios Estrangeiros, prevê-se que o período em referência possa ser alargado por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros.
+
+Durante este período, o cumprimento do disposto no n.º 3 do artigo 5.º da LCPA far-se-á mediante inserção manual do número de compromisso na ordem de compra, nota de encomenda, ou documento equivalente.
+
+Finalmente, de forma a agilizar o processo de aplicação da LCPA, estabelece-se a obrigatoriedade de as entidades setoriais em coordenação com a Direção-Geral do Orçamento elaborarem um manual de auxílio à aplicação da LCPA, a disponibilizar nas suas páginas eletrónicas, os quais deverão ser objeto de atualização sempre que tal se mostre necessário.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 8/2012, de 21 de fevereiro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Âmbito
+
+###### Artigo 1.º — Objeto
+
+O presente diploma contempla as normas legais disciplinadoras dos procedimentos necessários à aplicação da Lei dos Compromissos e dos Pagamentos em Atraso, aprovada pela Lei n.º 8/2012, de 21 de fevereiro, doravante abreviadamente designada por LCPA, e, bem assim, à operacionalização da prestação de informação constante do artigo 10.º da mesma lei.
+
+###### Artigo 2.º — Âmbito
+
+O presente diploma aplica-se às entidades referidas no artigo 2.º da LCPA.
+
+### Capítulo II — Princípios e regras gerais
+
+###### Artigo 3.º — Conceitos
+
+Para efeitos de aplicação da LCPA, entende-se por:
+
+a) 'Titulares de cargos políticos', aqueles que se encontram investidos em cargos políticos com competências para assunção de compromissos ou autorização de despesas e pagamentos;
+
+b) 'Dirigentes', aqueles que se encontram investidos em cargos de direção superior de 1.º e 2.º graus, ou equiparados a estes para quaisquer efeitos, bem como os membros do órgão de direção dos institutos públicos;
+
+c) «Gestores», aqueles que se encontrem designados para órgão de gestão ou administração das empresas públicas do sector empresarial do Estado, das Regiões Autónomas, dos municípios e as suas associações;
+
+d) «Responsáveis pela contabilidade»,os dirigentes de nível intermédio e, na sua ausência, os trabalhadores que exerçam funções públicas que, não correspondendo a qualquer dos cargos identificados nas alíneas anteriores, exerçam funções de direção ou supervisão dos serviços de contabilidade das entidades abrangidas pela LCPA.
+
+> Alterado pelo/a Artigo 15.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 4.º — Pagamentos em atraso
+
+1 - Consideram-se pagamentos em atraso as contas a pagar que permaneçam nessa situação para além dos prazos de 30 ou 60 dias estabelecidos nos termos do disposto nos n.os 1 a 3 do artigo 5.º do Decreto-Lei n.º 62/2013, de 10 de maio, que estabelece medidas contra os atrasos no pagamento de transações comerciais, e transpõe a Diretiva 2011/7/UE do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011.
+
+2 - Excluem-se do âmbito de aplicação do número anterior os pagamentos objeto de impugnação judicial até que sobre eles seja proferida decisão final e executória, as situações de impossibilidade de cumprimento por ato imputável ao credor e os montantes objeto de acordos de pagamento desde que o pagamento seja efetuado dentro dos prazos acordados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 180/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2026-1168451281), em vigor a partir de 2026-09-10.
+
+###### Artigo 5.º — Fundos disponíveis
+
+1 - Consideram-se fundos disponíveis as verbas disponíveis a muito curto prazo, que incluem, quando aplicável e desde que não tenham sido comprometidos ou gastos:
+
+a) A dotação corrigida líquida de cativos ou reservas, relativa aos três meses seguintes, tendo em consideração a arrecadação de receita disponível e o cumprimento das metas orçamentais, nos termos a estabelecer pelo decreto-lei de execução orçamental;
+
+b) As transferências ou subsídios com origem no Orçamento do Estado, relativos aos três meses seguintes, tendo em consideração a arrecadação de receita disponível e o cumprimento das metas orçamentais, nos termos a estabelecer pelo decreto-lei de execução orçamental;
+
+c) A receita efetiva própria que tenha sido cobrada ou recebida como adiantamento;
+
+d) A previsão da receita efetiva própria cobrada nos três meses seguintes, incluindo a previsão de receita de ativos e passivos, corrigida do desvio negativo apurado entre as previsões de receitas efetuadas nos meses anteriores da correspondente execução orçamental e as receitas efetivamente cobradas no mesmo período;
+
+e) O produto de empréstimos contraídos nos termos da lei;
+
+f) As transferências ainda não efetuadas decorrentes de programas e projetos do Quadro de Referência Estratégico Nacional (QREN) e de outros programas estruturais, cujas faturas se encontrem liquidadas e devidamente certificadas ou validadas;
+
+g) Outros montantes autorizados nos termos do artigo 4.º da LCPA.
+
+2 - As transferências referidas na alínea f) do número anterior correspondem a pedidos de pagamentos que tenham sido submetidos nas plataformas eletrónicas dos respetivos programas, desde que a entidade beneficiária não tenha tido, nos últimos seis meses, uma taxa de correção dos pedidos de pagamento submetidos igual ou superior a 10 %.
+
+3 - Integram ainda os fundos disponíveis:
+
+a) Os saldos transitados do ano anterior cuja utilização tenha sido autorizada nos termos da legislação em vigor;
+
+b) Os recebimentos em atraso existentes entre as entidades referidas no artigo 2.º da LCPA, desde que integrados em plano de liquidação de pagamentos em atraso da entidade devedora no respetivo mês de pagamento.
+
+c) A receita relativa a ativos financeiros e a outros passivos financeiros.
+
+4 - A Entidade Orçamental comunica o limite máximo a considerar na determinação dos fundos disponíveis a que respeitam as alíneas a), b) e d) do n.º 1, nos termos a estabelecer pelo decreto-lei de execução orçamental.
+
+5 - Para os fundos disponíveis previstos nas alíneas a), b) e d) do n.º 1 não releva o ano económico.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 180/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2026-1168451281), em vigor a partir de 2026-09-10.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), em vigor a partir de 2015-06-03
+
+> Alterado pelo/a Artigo 172.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 6.º — Aumento temporário dos fundos disponíveis
+
+1 - A autorização para o aumento temporário dos fundos disponíveis nas entidades relativamente às quais os órgãos previstos nas alíneas a), b) e c) do n.º 1 do artigo 4.º da LCPA não exerçam poderes de tutela ou superintendência é da competência dos respetivos órgãos executivos.
+
+2 - O aumento temporário dos fundos disponíveis a que se refere o artigo 4.º da LCPA só pode ser efetuado mediante recurso a montantes a cobrar ou a receber dentro do período compreendido entre a data do compromisso e a data em que se verifique a obrigação de efetuar o último pagamento relativo a esse compromisso.
+
+###### Artigo 7.º — Assunção de compromissos
+
+1 - Até ao 5.º dia útil de cada mês, deve a entidade coordenadora do programa proceder à fixação dos fundos disponíveis das entidades do programa, a partir da comunicação mensal da Entidade Orçamental, prevista no n.º 4 do artigo 5.º, dando indicação sobre o limite a considerar no que respeita às alíneas a), b) e d) do n.º 1 do artigo 5.º relativamente a cada programa.
+
+2 - Os compromissos assumidos não podem ultrapassar os fundos disponíveis.
+
+3 - Sob pena da respetiva nulidade, e sem prejuízo das responsabilidades aplicáveis, bem como do disposto nos artigos 9.º e 10.º do presente diploma, nenhum compromisso pode ser assumido sem que tenham sido cumpridas as seguintes condições:
+
+a) Verificada a conformidade legal e a regularidade financeira da despesa, nos termos da lei;
+
+b) Registado no sistema informático de apoio à execução orçamental;
+
+c) Emitido um número de compromisso válido e sequencial que é refletido na ordem de compra, nota de encomenda ou documento equivalente.
+
+4 - As entidades são responsáveis por manter registos informáticos permanentemente atualizados dos fundos disponíveis, compromissos, passivos, contas a pagar e pagamentos em atraso, especificados pela respetiva data de vencimento.
+
+5 - O cumprimento do previsto no n.º 2 é verificado através das declarações eletrónicas das entidades, nos suportes informáticos relevantes, por parte das seguintes instituições:
+
+a) Entidade Orçamental, no subsetor da administração central;
+
+b) Direções Regionais de Finanças que reportam à DGO, no subsector da administração regional;
+
+c) Administração Central do Sistema de Saúde (ACSS), no Serviço Nacional de Saúde (SNS);
+
+d) Direção-Geral das Autarquias Locais (DGAL), no subsector da administração local;
+
+e) Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), no subsector da segurança social.
+
+6 - O incumprimento do disposto nos n.os 1 a 3 é comunicado pelas entidades referidas no número anterior aos membros do Governo responsáveis pela área das finanças e da respetiva tutela para efeitos de eventual auditoria, a cargo da Inspeção-Geral de Finanças ou da inspeção sectorial, em função da gravidade ou da materialidade da situação, e à DGO, para efeitos de publicação mensal da lista das entidades incumpridoras e da natureza do incumprimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 180/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2026-1168451281), em vigor a partir de 2026-09-10.
+
+###### Artigo 8.º — Regras relativas à assunção de compromissos
+
+1 - A assunção de compromissos no âmbito dos contratos com duração limitada ao ano civil, independentemente da sua forma e natureza jurídica, deve ser efetuada pelo seu valor integral aquando da outorga do respetivo contrato, emissão da ordem de compra, nota de encomenda ou documento equivalente.
+
+2 - Independentemente da duração do respetivo contrato, se o montante efetivamente a pagar não puder ser determinado no momento da celebração do contrato, nomeadamente, por depender dos consumos a efetuar pela entidade adjudicante, a assunção do compromisso é efetuada aquando da emissão da nota de encomenda se for o caso ou pelo valor estimado de encargos relativos ao período temporal de apuramento dos fundos disponíveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), em vigor a partir de 2015-06-03
+
+###### Artigo 9.º — Despesas urgentes e inadiáveis
+
+1 - Nas despesas urgentes e inadiáveis, devidamente fundamentadas, do mesmo tipo ou natureza cujo valor, isolada ou conjuntamente, não exceda o montante de (euro) 10 000, por mês, a assunção do compromisso é efetuada até ao 5.º dia útil após a realização da despesa.
+
+2 - Nas situações em que estejam em causa o excecional interesse público ou a preservação da vida humana, a assunção do compromisso é efetuada no prazo de 10 dias após a realização da despesa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), em vigor a partir de 2015-06-03
+
+###### Artigo 10.º — Fundo de maneio
+
+Os pagamentos efetuados pelo fundo de maneio são objeto de compromisso pelo seu valor integral aquando da sua constituição e reconstituição, a qual deve ter caráter mensal e registo da despesa em rubrica de classificação económica adequada.
+
+###### Artigo 11.º — Compromissos plurianuais
+
+1 - A autorização prévia do membro do Governo responsável pela área das finanças a que se refere a alínea a) do n.º 1 do artigo 6.º da LCPA é efetuada nas situações em que a assunção de compromissos plurianuais depende de portaria de extensão de encargos, mediante aprovação e assinatura desta portaria ou do ato de excecionamento a que se refere o n.º 7 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho.
+
+2 - Nas situações que não se encontram previstas no número anterior, a autorização para assunção de encargos plurianuais, a que se refere a alínea a) do n.º 1 do artigo 6.º da LCPA, por parte dos membros do Governo responsáveis pela área das finanças e da tutela pode ser dada mediante despacho genérico, conjunto ou individual.
+
+3 - O regime previsto no presente diploma para a assunção de compromissos plurianuais aplica-se aos procedimentos de despesa que dão lugar a encargo orçamental em ano económico que não seja o da sua realização.
+
+4 - Exclui-se do âmbito de aplicação do n.º 1 do artigo 6.º da LCPA a assunção de compromissos relativos a despesas com pessoal independentemente da natureza do vínculo.
+
+5 - No caso dos institutos públicos de regime especial, das instituições de ensino superior públicas de natureza fundacional e das entidades públicas empresariais que não tenham pagamentos em atraso, a competência para a assunção de compromissos plurianuais que apenas envolvam receita própria e ou receitas provenientes de cofinanciamento comunitário é do respetivo órgão de direção.
+
+6- Por despacho dos membros do Governo responsáveis pela área das finanças e da tutela pode ser delegada nos órgãos de direção das entidades referidas no número anterior e circunscrita às situações nele referidas a competência referida no n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho.
+
+7 - O exercício da competência delegada nos termos do número anterior deve observar, com as devidas adaptações, o disposto nos n.os 1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, e revestir a forma de despacho sujeito a publicação no Diário da República.
+
+8 - O disposto no n.º 5 e a delegação de competência prevista no n.º 6 cessam no momento em que as entidades neles previstas passem a ter pagamentos em atraso.
+
+9 - O disposto no presente artigo não prejudica o cumprimento do disposto no artigo 13.º do presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), em vigor a partir de 2015-06-03
+
+###### Artigo 12.º — Compromissos plurianuais no âmbito do subsector local
+
+1 - Para efeitos de aplicação da alínea c) do n.º 1 do artigo 6.º da LCPA, a autorização prévia para a assunção de compromissos plurianuais ou a sua reprogramação pelo órgão deliberativo competente pode ser conferida aquando da aprovação das Grandes Opções do Plano.
+
+2 - Excetuam-se do disposto no número anterior os casos em que a reprogramação dos compromissos plurianuais implique aumento de despesa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), em vigor a partir de 2015-06-03
+
+###### Artigo 13.º — Inscrição dos compromissos plurianuais
+
+1 - Os compromissos plurianuais das entidades da administração central são registados obrigatoriamente na base de dados central disponibilizada e mantida pela DGO.
+
+2 - As instituições referidas nas alíneas b) a e) do n.º 5 do artigo 7.º são responsáveis por centralizar a informação relativa a cada subsector.
+
+###### Artigo 14.º — Atrasos nos pagamentos
+
+1 - Para efeitos do cumprimento do disposto no artigo 7.º da LCPA, no final de cada mês os pagamentos em atraso não podem ser superiores aos verificados no final do mês anterior.
+
+2 - Após o termo do prazo fixado nos n.os 1 a 3 do artigo 5.º do Decreto-Lei n.º 62/2013, de 10 de maio, o credor tem direito aos juros de mora legais pelo período correspondente à mora, sem necessidade de interpelação, conforme previsto no n.º 4 do artigo 5.º do referido decreto-lei.
+
+3 - Os juros de mora legais aplicáveis aos atrasos de pagamentos das transações comerciais entre empresas e entidades públicas são os estabelecidos no Código Comercial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 180/2026 - Diário da República n.º 175/2026, Série I de 2026-09-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2026-1168451281), em vigor a partir de 2026-09-10.
+
+###### Artigo 15.º — Receitas de natureza pontual ou extraordinária
+
+Para efeitos de aplicação do artigo 8.º da LCPA, considera-se que a receita tem natureza pontual ou extraordinária quando não tem um caráter repetitivo ou contínuo, nomeadamente quando resulte da alienação de bens imóveis ou da aceitação de heranças e doações.
+
+### Capítulo III — Prestação de informação
+
+###### Artigo 16.º — Prestação de informação
+
+1 - As entidades referidas no n.º 1 do artigo 2.º da LCPA procedem, mensalmente, ao registo no suporte informático das instituições referidas no n.º 5 do artigo 7.º, até à data definida para o efeito no decreto-lei de execução orçamental:
+
+a) Da receita a cobrar ou a receber para o conjunto do ano, especificada por meses, sendo que nos meses passados a previsão é substituída pela receita efetivamente arrecadada;
+
+b) Dos fundos disponíveis, compromissos assumidos, saldo inicial das contas a pagar, movimento mensal e saldo das contas a pagar a transitar para o mês seguinte e pagamentos em atraso.
+
+2 - A informação prestada nos termos do número anterior deve ser consistente com o registo de compromissos a que se refere o artigo 7.º do presente diploma.
+
+3 - No reporte de informação relativa aos fundos disponíveis e pagamentos em atraso, devem as entidades dar cumprimento aos procedimentos e formalidades previstas no manual de apoio à aplicação da LCPA a que se refere o artigo 21.º
+
+4 - Estão isentas do dever de prestação de informação relativa aos fundos disponíveis as entidades que não tenham pagamentos em atraso.
+
+5 - O disposto no número anterior cessa na data em que a entidade passe a ter pagamentos em atraso.
+
+6 - A prestação de informação referida no presente artigo pode ser objeto de atualização no decreto-lei de execução orçamental.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), em vigor a partir de 2015-06-03
+
+###### Artigo 17.º — Declarações
+
+1 - Para efeitos de cumprimento da alínea b) do n.º 1 do artigo 15.º da LCPA, os pagamentos e recebimentos em atraso existentes em 31 dezembro do ano anterior podem ser declarados de forma agregada quando se verifique uma das seguintes situações:
+
+a) Os pagamentos ou recebimentos tenham uma mesma natureza e o seu valor individualmente considerado seja inferior a (euro) 5000;
+
+b) O devedor ou credor seja uma pessoa individual.
+
+2 - O disposto no número anterior não é aplicável aos pagamentos ou recebimentos existentes entre as entidades previstas no artigo 2.º da LCPA.
+
+3 - Sem prejuízo do disposto no presente artigo, devem as entidades manter internamente o registo individualizado de todos os pagamentos e recebimentos em atraso existentes em 31 de dezembro do ano anterior.
+
+4 - Deve a Autoridade Tributária e Aduaneira informar as autarquias locais, até 30 dias após a data de entrada em vigor do presente diploma, dos recebimentos em atraso referentes às respetivas receitas fiscais.
+
+### Capítulo IV — Declarações e plano de liquidação dos pagamentos em atraso
+
+###### Artigo 18.º — Plano de liquidação dos pagamentos em atraso
+
+1 - As entidades com pagamentos em atraso elaboram um plano de liquidação de pagamentos em atraso com a indicação dos montantes a liquidar em cada período.
+
+2 - Para efeitos do disposto no artigo 16.º da LCPA, os planos de pagamento a apresentar pelas entidades não podem ter um prazo superior a cinco anos.
+
+3 - O prazo referido no número anterior pode ser alargado até ao limite de 10 anos, desde que 50 % da dívida sejam pagos em prazo não superior a 5 anos, nos casos em que a entidade demonstre, justificadamente e em termos claros e inequívocos, que aquele prazo irá conduzir ao incumprimento da LCPA.
+
+4 - Os montantes considerados nos planos de liquidação de pagamentos em atraso acrescem aos compromissos assumidos nos respetivos períodos de cálculo dos fundos disponíveis.
+
+###### Artigo 19.º — Informação e mapa
+
+1 - As entidades devem manter atualizada a informação relativa aos planos de liquidação dos pagamentos, nomeadamente, a identificação dos credores originários, o montante total a pagar, os pagamentos previstos e os executados em cada ano.
+
+2 - Caso os montantes a pagar sejam cedidos a entidades financeiras, deve a entidade registar a informação relativa às condições de cedência e respetiva modalidade.
+
+3 - Juntamente com os documentos da prestação de contas, devem as entidades proceder à junção de um mapa relativo aos planos de liquidação dos pagamentos em atraso e dos acordos de pagamento, o qual deve integrar a informação referida nos números anteriores, de acordo com modelo predefinido em suporte informático pela DGO.
+
+### Capítulo V — Disposições finais
+
+###### Artigo 20.º — Compromissos plurianuais
+
+Os compromissos plurianuais gerados por acordos de liquidação de pagamentos em atraso não relevam para efeitos do cumprimento do disposto no artigo 65.º da Lei n.º 64-B/2011, de 30 de dezembro.
+
+###### Artigo 21.º — Procedimentos
+
+1 - De forma a auxiliar as entidades na aplicação da LCPA, deverão as entidades setoriais, em coordenação com a DGO, elaborar um manual de apoio à aplicação desta lei, a disponibilizar nas respetivas páginas da Internet.
+
+2 - Os manuais de apoio à aplicação da LCPA referidos no número anterior serão, sempre que se mostre necessário, objeto de atualização.
+
+###### Artigo 22.º — Programas de assistência económica
+
+1 - A adesão a programa de assistência económica suspende, até à conclusão da utilização do financiamento destinado a reduzir os pagamentos em atraso, a aplicação à entidade beneficiária do disposto no artigo 8.º da LCPA.
+
+2 - No decurso do programa de assistência económica, as entidades beneficiárias não podem aumentar o valor global dos pagamentos em atraso, sob pena de multa calculada nos termos dos números seguintes.
+
+3 - A multa referida no número anterior é mensal e progressiva, e corresponde:
+
+a) No 1.º mês, a 1 % do acréscimo global de pagamentos em atraso relativamente ao valor mais baixo verificado desde a adesão ao programa;
+
+b) Em cada um dos meses subsequentes em que se mantenha o acréscimo, a taxa referida na alínea anterior é agravada em 0,5 % até um limite máximo de 3 %.
+
+4 - As multas só são aplicadas quando, pela aplicação do disposto no número anterior, perfaçam um montante igual ou superior a (euro) 500.
+
+5 - As multas são aplicadas pelas entidades de acompanhamento sectorial.
+
+6 - As receitas das multas aplicadas nos termos do presente artigo constituem receita geral do Estado, devendo ser entregues nos cofres do Estado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), em vigor a partir de 2015-06-03
+
+###### Artigo 23.º — Norma transitória
+
+1 - Sem prejuízo do cumprimento das regras e dos princípios constantes da LCPA e do presente diploma, as entidades dispõem de um período de 45 dias seguidos para, sempre que tal se mostre necessário, procederem à adaptação ou aquisição de sistemas informáticos necessários à execução destes diplomas legais, salvo os serviços periféricos externos do Ministério dos Negócios Estrangeiros, em que o período referido pode ser alargado por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros.
+
+2 - Durante o período transitório, o cumprimento do disposto no n.º 3 do artigo 5.º da LCPA far-se-á obrigatoriamente mediante a inserção manual do número de compromisso sequencial na ordem de compra, nota de encomenda, ou documento equivalente.
+
+3 - No caso de compromissos assumidos até à data da entrada em vigor do presente diploma em desconformidade com as regras procedimentais nele estatuídas presume-se, nos termos gerais de direito penal, excluída a culpa, para os efeitos do disposto no artigo 11.º da LCPA.
+
+4 - O disposto no número anterior é igualmente aplicável às entidades que beneficiem de programa de assistência económica, no âmbito do Programa de Apoio à Economia Local, ou do programa extraordinário de regularização de dívidas ao Serviço Nacional de Saúde, até ao início dos pagamentos previstos e desde que a sua adesão aos programas seja contratualizada até ao dia 30 de setembro de 2012.
+
+5 - A autorização a que se refere o n.º 1 do artigo 11.º, conferida mediante portaria de extensão de encargos, dispensa a emissão do parecer prévio vinculativo previsto na lei.
+
+6 - Para efeitos do disposto no artigo 16.º da LCPA, acrescem os pagamentos em atraso verificados entre 1 de janeiro e 21 de fevereiro de 2012.
+
+7 - Para as entidades que beneficiem do programa extraordinário de regularização de dívidas do SNS, o cumprimento do disposto no artigo 16.º da LCPA só é obrigatório após o termo de tal programa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), em vigor a partir de 2015-06-03
+
+> Alterado pelo/a Artigo 172.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 24.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 26 de abril de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
+
+Promulgado em 15 de junho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 15 de junho de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

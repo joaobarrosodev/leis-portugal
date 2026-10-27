@@ -1,0 +1,179 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31993D0013:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01993D0013-20040301",
+ "dre_path": null,
+ "source_lastmod": "2004-03-01",
+ "versions": [
+  {
+   "date": "1993-01-15",
+   "future": false,
+   "celex": "31993D0013",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eed9ede7f50b40d6",
+    "ecebfc3f650b0447",
+    "1e9e63fbcc305d37",
+    "405ce505f0277e94",
+    "84ce8f8c80216cda",
+    "4c993872028fd528",
+    "63f0e6591e3beadb",
+    "6ca0d8d3cc752666",
+    "472b9a3f533a519b",
+    "f1a054fe318f20eb",
+    "e7b2aa18c8da90e1",
+    "8ba014b902483b66",
+    "5a4c51cbbae0a03d",
+    "fd020a28821da1b5"
+   ]
+  },
+  {
+   "date": "2004-03-01",
+   "future": false,
+   "celex": "01993D0013-20040301",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime ANEXO A",
+    "Suprime ANEXO B — ANEXO C",
+    "Suprime ANEXO D",
+    "Suprime ANEXO E — Produtos vegetais sujeitos a controlos veterinários 1. Palha",
+    "Suprime ANEXO F — Lista dos países ou partes de países em proveniência dos quais os Estados-membros autorizarão as importações de feno e palha Austrália"
+   ],
+   "fragments": [
+    "39dc63a896620223"
+   ]
+  }
+ ],
+ "fragments": {
+  "eed9ede7f50b40d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**93/13/CEE: Decisão da Comissão, de 22 de Dezembro de 1992, que define os procedimentos de controlo veterinário nos postos de inspecção fronteiriços da Comunidade aquando da introdução de produtos provenientes de países terceiros** *Jornal Oficial nº L 009 de 15/01/1993 p. 0033 - 0041 Edição especial finlandesa: Capítulo 3 Fascículo 47 p. 0186 Edição especial sueca: Capítulo 3 Fascículo 47 p. 0186*\n\nDECISÃO DA COMISSÃO de 22 de Dezembro de 1992 que define os procedimentos de controlo veterinário nos postos de inspecção fronteiriços da Comunidade aquando da introdução de produtos provenientes de países terceiros\n\n(93/13/CEE)A COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 90/675/CEE do Conselho, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade (1), com a última redacção que lhe foi dada pela Decisão 92/438/CEE (2), e, nomeadamente, o no 6 do seu artigo 4o, o no 3 do seu artigo 8o, o no 2 do seu artigo 10o, o no 7 do seu artigo 11o, o no 3 do seu artigo 14o, o no 4 do seu artigo 16o e o no 1 do seu artigo 18o,\n\nConsiderando que estão estabelecidos os princípios relativos à organização dos controlos documentais e de identidade e dos controlos físicos, bem como à sequência a dar a estes últimos; que é agora necessário adoptar medidas complementares para se estabelecer procedimentos harmonizados fiáveis e instalar o novo sistema de controlos veterinários para os produtos provenientes de países terceiros;\n\nConsiderando que os controlos documentais e de identidade se baseiam na confrontação entre as informações transmitidas pelo importador e os produtos introduzidos na Comunidade e devem ser realizados em conformidade com certas regras; que os controlos físicos desses produtos devem igualmente satisfazer certas regras, devendo a sua natureza e os seus resultados ser objecto de uma menção no certificado;\n\nConsiderando que, por conseguinte, o funcionamento harmonioso do novo sistema justifica o agrupamento do conjunto das informações relativas a um produto num documento baseado num modelo determinado;\n\nConsiderando que é necessário que a expedição dos produtos que só podem ser aceites para utilizações que não o consumo humano se faça através de um procedimento comunitário definido e adequado;\n\nConsiderando que não são efectuados certos controlos veterinários relativos a produtos contidos nas bagagens dos viajantes e destinados ao seu próprio consumo ou objecto de pequenas remessas enviadas a particulares; que, todavia, deve ser estabelecido um peso máximo para os produtos que beneficiam dessas derrogações;\n\nConsiderando que certos produtos vegetais que podem representar um risco de propagação de doenças contagiosas para os animais devem ser submetidos a controlos veterinários; que é necessário estabelecer a respectiva lista, bem como a dos países terceiros ou partes de países terceiros que podem ser autorizados a exportá-los para a Comunidade;\n\nConsiderando que certos lotes de produtos exportados de um Estado-membro para um país terceiro podem ser objecto de uma recusa de importação por parte deste último; que, nesse caso, incumbe à autoridade competente do Estado-membro de exportação dos produtos tomar as medidas adequadas para controlar os lotes em causa aquando da sua reintrodução no território da Comunidade;\n\nConsiderando que, em conformidade com o no 2, alínea b), do artigo 11o da Directiva 90/675/CEE do Conselho, os Estados-membros podem celebrar acordos bilaterais para diferir certos controlos veterinários no país de destino; que, nesse caso, compete-lhes tomar todas as medidas úteis para que todos os controlos veterinários mencionados na presente directiva sejam efectuados;\n\nConsiderando que os produtos armazenados numa zona franca ou num entreposto franco, num entreposto sob controlo aduaneiro ou que transitem de um para outro país terceiro através do território da Comunidade serão objecto de normas de execução a adoptar no âmbito de outra decisão;\n\nConsiderando que as normas de execução das derrogações relativas à inspecção de peixes provenientes de países terceiros introduzidos na Comunidade serão posteriormente definidas;\n\nConsiderando que as condições específicas de colheita e de exame dos diferentes tipos de produtos serão objecto de decisões de aplicação separadas;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "ecebfc3f650b0447": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. Os controlos documentais e os controlos de identidade devem ser efectuados em conformidade com o anexo A.\n\n2. Os importadores ou os seus representantes devem informar com antecedência o pessoal veterinário do posto de inspecção fronteiriço da chegada dos produtos, utilizando um documento baseado no modelo constante do anexo B. Neste documento, a apresentar em quatro exemplares (um original e três cópias), o importador ou o seu representante deve:\n\n- completar a rubrica 1 dos quatro exemplares,\n\n- enviar uma cópia aos serviços aduaneiros do posto de inspecção fronteiriço,\n\n- enviar ao veterinário oficial responsável do posto de inspecção fronteiriço o original e as duas cópias restantes.\n\n3. O documento baseado no modelo constante do anexo B deve ser redigido na língua ou numa das línguas do posto de inspecção fronteiriço pelo qual os produtos provenientes de países terceiros serão introduzidos na Comunidade e na língua ou numa das línguas do país de destino do produto.\n\n4. Sem prejuízo do no 3, as informações contidas no documento baseado no modelo constante do anexo B podem, mediante acordo da autoridade competente do Estado-membro, ser transmitidas por telecomunicação ou por qualquer sistema de transmissão de dados."
+  },
+  "1e9e63fbcc305d37": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nOs controlos físicos, os exames laboratoriais e as análises de amostras oficiais devem ser realizados de acordo com os anexos C e D da presente decisão."
+  },
+  "405ce505f0277e94": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. Após os controlos mencionados nos artigos 1o e 2o, será preenchida a rubrica 2 do documento baseado no modelo constante do anexo B sob a responsabilidade do veterinário oficial responsável pelo posto de inspecção fronteiriço que assinará o documento. O original deste documento é então enviado ao serviço aduaneiro desse posto de inspecção fronteiriço, sendo uma cópia enviada ao importador ou ao seu representante e permanecendo a segunda cópia no posto de inspecção fronteiriço.\n\n2. O veterinário oficial conservará os certificados ou os documentos sanitários ou de salubridade originais que acompanham o lote, assim como a cópia do respectivo documento, baseado no modelo constante do anexo B, pelo menos durante três anos."
+  },
+  "84ce8f8c80216cda": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. Caso os controlos veterinários efectuados revelem irregularidades tais que os produtos não possam ser introduzidos no território da Comunidade, a autoridade competente, após consultar o importador ou o seu mandatário, decidirá sem demora reexpedir ou destruir o lote.\n\n2. Quando a autoridade competente decidir da destruição do lote, tomará todas as medidas adequadas para que a circulação do lote e as operações de destruição decorram sob controlo oficial permanente. A destruição do lote deve ser realizada nas instalações do posto de inspecção ou em instalações adequadas o mais próximo possível desse posto de inspecção.\n\n3. Caso, em derrogação do no 1, a autoridade competente, em conformidade com o no 2 do artigo 16o da Directiva 90/675/CEE, aceite a utilização dos produtos para fins diferentes do consumo humano, a expedição e o tratamento desses produtos só podem ser feitos sob controlo da autoridade competente e com destino a estabelecimentos registados nos termos da Directiva 90/667/CEE, de 27 de Novembro de 1990, que estabelece as normas sanitárias para a eliminação e transformação de resíduos animais, para a sua colocação no mercado e para a prevenção da presença de agentes patogénicos nos alimentos para animais de origem animal ou à base de peixe e que altera a Directiva 90/425/CEE (3). Além disso, a autoridade competente do local onde se situa o estabelecimento de destino registado deve ser informada desta expedição através do sistema Animo ou, na pendência da entrada em funcionamento deste último, por telecomunicação ou por qualquer outro sistema de transmissão de dados.\n\n4. Os procedimentos descritos nos nos 1, 2 e 3 aplicam-se também quando os controlos efectuados pela autoridade competente no ponto de passagem fronteiriço revelem o não cumprimento do no 3 do artigo 4o da Directiva 90/675/CEE. Todavia, as medidas previstas nos nos 1 e 2 do artigo 16o só podem ser tomadas pelo veterinário oficial responsável do posto de inspecção fronteiriço mais próximo. Todas as remessas que sejam objecto de reexpedição serão imediatamente notificadas através do sistema Shift ou, na pendência da entrada em funcionamento deste último, por telecomunicação ou por qualquer outro sistema de transmissão de dados."
+  },
+  "4c993872028fd528": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\n1. Sem prejuízo das regras comunitárias específicas para certos produtos, se tiverem um peso inferior a um quilograma e se se destinarem ao consumo humano, os produtos mencionados no no 1, alíneas i), ii) e iv), do artigo 14o da Directiva 90/675/CEE não serão submetidos aos controlos veterinários sistemáticos definidos no capítulo I dessa directiva. Todavia, serão tomadas todas as medidas necessárias para assegurar que apenas sejam introduzidos na Comunidade produtos provenientes de países terceiros ou de regiões de países terceiros autorizados.\n\n2. O disposto no no 1 não prejudica as regras aplicáveis decorrentes das exigências de saúde pública e de sanidade animal definidas nas legislações comunitárias adequadas ou, na sua falta, nas legislações nacionais."
+  },
+  "63f0e6591e3beadb": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. Os Estados-membros submeterão os produtos vegetais constantes do anexo E aos controlos veterinários previstos no no 1 do artigo 1o\n\n2. Os Estados-membros autorizarão a importação dos produtos vegetais mencionados no anexo E provenientes dos países terceiros ou das regiões de países terceiros constantes do anexo F, na medida em que as importações a partir desses países terceiros não estejam proibidas.\n\n3. As medidas previstas no artigo 16o da Directiva 90/675/CEE aplicar-se-ao, mutatis mutandis, aos produtos vegetais cujo controlo veterinário revelar não satisfazerem as condições estabelecidas na presente decisão."
+  },
+  "6ca0d8d3cc752666": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nA presente decisão é aplicável a partir de 1 de Janeiro de 1993."
+  },
+  "472b9a3f533a519b": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 22 de Dezembro de 1992.\n\nPela Comissão\n\nRay MAC SHARRY\n\nMembro da Comissão\n\n(1) JO no L 373 de 31. 12. 1990, p. 1.\n\n(2) JO no L 243 de 25. 8. 1992, p. 27.\n\n(3) JO no L 363 de 27. 12. 1990, p. 51."
+  },
+  "f1a054fe318f20eb": {
+   "fragment_id": "ANEXO A",
+   "type": "divisao",
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A\n\nNormas de execução do controlo documental e de identidade dos produtos provenientes de países terceiros 1. A autoridade competente deve, em relação a cada lote de produtos, verificar o seu destino aduaneiro.\n\n2. Cada um dos certificados ou documentos sanitários ou de salubridade que acompanhe um lote de produtos originários de países terceiros deve ser objecto de um controlo destinado a confirmar que:\n\na) Se trata de um certificado ou documento original;\n\nb) Diz respeito a um país terceiro ou a uma parte do território de um país terceiro autorizado a exportar para a Comunidade ou, em relação aos produtos não harmonizados, para o Estado-membro em questão;\n\nc) A sua forma e conteúdo correspondem ao modelo estabelecido para o produto e país terceiro em questão;\n\nd) É constituído por uma só folha;\n\ne) Foi inteiramente preenchido;\n\nf) A data de emissão do certificado ou do documento sanitário ou de salubridade é a data do carregamento dos produtos, tendo em vista a sua expedição para a Comunidade;\n\ng) Foi emitido para um único destinatário;\n\nh) Diz respeito a um estabelecimento autorizado a exportar para a Comunidade ou, no caso dos produtos não harmonizados, para o Estado-membro em questão;\n\ni) Foi emitido pelo menos numa das línguas oficiais do Estado-membro em que é efectuado o controlo;\n\nj) Está assinado pelo veterinário oficial ou, mediante autorização, pelo representante da autoridade oficial, menciona, de forma legível, em letra de imprensa, o nome e a qualificação do referido veterinário ou representante e ostenta o carimbo oficial do país terceiro, numa cor diferente da das outras menções inscritas no certificado;\n\nk) As informações nele contidas estão em conformidade com as do documento baseado no modelo constante do anexo B e respeitante ao lote.\n\n3. É necessário verificar, por inspecção visual, que os produtos correspondem aos dados constantes dos certificados ou dos documentos que acompanham o lote; esta operação inclui, nomeadamente:\n\na) A verificação de que os meios de transporte utilizados se encontram devidamente selados, nos casos em que isso seja exigido;\n\nb) O controlo, em relação a todos os tipos de produtos, da presença e da conformidade das estampilhas, marcas oficiais ou marcas de salubridade que identificam o país e o estabelecimento de origem, com as do certificado ou do documento;\n\nc) Adicionalmente, em relação aos produtos embalados, o controlo da rotulagem previsto na legislação veterinária."
+  },
+  "e7b2aa18c8da90e1": {
+   "fragment_id": "ANEXO B — ANEXO C",
+   "type": "divisao",
+   "heading": "ANEXO B — ANEXO C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — ANEXO C\n\nNormas de execução do controlo físico dos produtos 1. O controlo físico de cada lote deve ser feito em condições que permitam a realização satisfatória dos controlos e exames requeridos.\n\n2. Devem-se, relativamente a cada lote, controlar as condições e os meios de transporte, verificando-se, nomeadamente, que:\n\na) As condições de temperatura satisfazem as exigências relativas aos produtos em questão estabelecidas na legislação comunitária ou, na sua falta, nas legislações nacionais aplicáveis;\n\nb) As condições de transporte permitiram manter os produtos num estado conforme às exigências;\n\nc) Nenhum indício leva a supor a ocorrência de anomalias durante o transporte.\n\n3. A conformidade dos produtos com os dados constantes do certificado deve ser confirmada, procedendo-se, nomeadamente, às seguintes operações:\n\na) Verificação de que o número de volumes ou de embalagens mencionado no certificado ou no documento sanitário ou de salubridade de acompanhamento corresponde ao peso do lote, por exemplo, tendo em conta o peso de um volume ou de uma embalagem;\n\nb) Verificação de que a embalagem, o modo de acondicionamento e o invólucro utilizados satisfazem os requisitos comunitários ou, na sua falta, nacionais quanto ao material utilizado, estado e presença das marcas e/ou das menções exigidas.\n\n4. Após abertura das embalagens, acondicionamentos ou invólucros, cada lote será submetido a um exame físico para verificar que se encontram satisfeitas as condições previstas para o produto em causa nas directivas verticais ou, na sua ausência, nas legislações nacionais pertinentes.\n\nPara esse efeito, será efectuado um exame organoléptico, nomeadamente visual, para detecção de anomalias que tornem o produto impróprio para a utilização indicada nos certificados ou nos documentos de acompanhamento; esses exames incidirão, em princípio, em 1 % dos volumes ou das embalagens que constituem o lote, num mínimo de dois e num máximo de 10. No caso dos produtos a granel, devem-se analisar pelo menos cinco amostras colhidas separadamente.\n\nTodavia, em função dos produtos examinados, o veterinário oficial pode não respeitar o máximo acima fixado.\n\nPara além dos controlos físicos acima mencionados, o controlo de salubridade dos produtos destinados ao consumo humano deve incluir:\n\n- a medição da temperatura do produto, se existirem exigências comunitárias ou, na sua falta, nacionais a esse respeito,\n\n- a pesquisa de anomalias no aspecto, consistência, cor, cheiro e, eventualmente, sabor; no caso dos produtos congelados ou ultracongelados, esta pesquisa far-se-á após descongelação dos produtos.\n\n5. Além disso, sempre que o considere necessário, o veterinário fará realizar exames complementares destinados a verificar o respeito da legislação comunitária ou nacional que rege as importações ou as trocas comerciais do produto em questão.\n\n6. Em caso de dúvida, os produtos serão submetidos a exames físicos e laboratoriais adicionais após descarregamento completo do lote e, se necessário, a um exame para determinação da espécie animal.\n\n7. Para além das formalidades indicadas no artigo 3o da presente decisão, o serviço veterinário tomará todas as medidas adequadas para indicar que o controlo físico do lote foi efectuado, nomeadamente voltando a fechar e apondo um carimbo oficial em todas as embalagens manipuladas e voltando a selar todos os contentores abertos com a menção do número do selo no documento, baseado no modelo constante do anexo B e nos certificados e documentos que acompanham o lote."
+  },
+  "8ba014b902483b66": {
+   "fragment_id": "ANEXO D",
+   "type": "divisao",
+   "heading": "ANEXO D",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D\n\nNormas de execução das análises laboratoriais dos produtos 1. Na pendência da aprovação de planos de vigilância comunitária, cada Estado-membro submeterá lotes de produtos apresentados para importação a um plano de vigilância para verificação do respeito da legislação comunitária ou, na sua falta, nacional aplicável, designadamente para detecção de resíduos, agentes patogénicos ou outras substâncias perigosas para o homem, os animais ou o ambiente.\n\nEsse plano de vigilância terá em conta a natureza dos produtos e os riscos a eles inerentes.\n\nEm todos os casos, o veterinário oficial do posto de inspecção fronteiriço que tenha colhido uma amostra no âmbito desse plano de vigilância informará a autoridade competente do local de destino, em conformidade com o no 5 do artigo 4o da Directiva 90/675/CEE, e mencionará essa colheita no documento baseado no modelo constante do anexo B que emitir para certificar os controlos veterinários que tenha efectuado. Quando uma colheita respeitar a uma substância ou a um agente patogénico que implique um risco directo ou imediato para a saúde pública ou para a sanidade animal, o veterinário oficial responsável do posto de inspecção fronteiriço que efectuou essa colheita ou a autoridade competente do local de destino que foi por ele informada pode adiar a introdução do lote no consumo até que os resultados do exame laboratorial sejam conhecidos.\n\nCada Estado-membro manterá os outros Estados-membros e a Comissão informados das irregularidades verificadas aquando da execução desses planos de vigilância, a fim de adaptar os controlos veterinários a efectuar em função das informações assim reunidas.\n\n2. Quando, nomeadamente na sequência do exame de um lote ou com base em informações recebidas de outro Estado-membro ou da Comissão ou ainda com base no resultado de um exame desfavorável de um lote anterior, a autoridade competente decidir efectuar um exame laboratorial, esse lote só poderá ser encaminhado para o seu destino desde que esse exame laboratorial tenha dado resultados satisfatórios. Entretanto, o lote permanecerá sob controlo do veterinário responsável do posto de inspecção fronteiriço que tiver efectuado os controlos veterinários."
+  },
+  "5a4c51cbbae0a03d": {
+   "fragment_id": "ANEXO E — Produtos vegetais sujeitos a controlos veterinários 1. Palha",
+   "type": "divisao",
+   "heading": "ANEXO E — Produtos vegetais sujeitos a controlos veterinários 1. Palha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO E — Produtos vegetais sujeitos a controlos veterinários 1. Palha\n\n2. Feno"
+  },
+  "fd020a28821da1b5": {
+   "fragment_id": "ANEXO F — Lista dos países ou partes de países em proveniência dos quais os Estados-membros autorizarão as importações de feno e palha Austrália",
+   "type": "divisao",
+   "heading": "ANEXO F — Lista dos países ou partes de países em proveniência dos quais os Estados-membros autorizarão as importações de feno e palha Austrália",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO F — Lista dos países ou partes de países em proveniência dos quais os Estados-membros autorizarão as importações de feno e palha Austrália\n\nÁustria\n\nBielorrússia\n\nBulgária\n\nCanadá\n\nChecoslováquia\n\nChile\n\nChipre\n\nCroácia\n\nEslovénia\n\nEstados Unidos da América\n\nEstónia\n\nFinlândia\n\nGronelândia\n\nHungria\n\nIslândia\n\nLetónia\n\nLituânia\n\nMalta\n\nNoruega\n\nNova Zelândia\n\nPolónia\n\nRoménia\n\nSuécia\n\nSuíça"
+  },
+  "39dc63a896620223": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1993D0013 — PT — 01.03.2004 — 005.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31993D0013) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/31993D0013) [de 22 de Dezembro de 1992](http://publications.europa.eu/resource/celex/31993D0013) [que define os procedimentos de controlo veterinário nos postos de inspecção fronteiriços da Comunidade aquando da introdução de produtos provenientes de países terceiros](http://publications.europa.eu/resource/celex/31993D0013) [(93/13/CEE)](http://publications.europa.eu/resource/celex/31993D0013) (JO L 009, 15.1.1993, p.33)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 136/2004 da Comissão de 22 de Janeiro de 2004](http://publications.europa.eu/resource/celex/32004R0136) — L 21 — 11 — 28.1.2004"
+  }
+ }
+}

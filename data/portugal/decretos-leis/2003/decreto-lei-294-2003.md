@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:438038:por
+title: Decreto-Lei n.º 294/2003
+short_title: null
+summary: No uso da autorização legislativa concedida pela Lei n.º 38/2003, de 22 de Agosto, disciplina o processo de verificação
+  dos requisitos das associações de defesa dos investidores em valores mobiliários para efeitos de registo junto da Comissão
+  do Mercado de Valores Mobiliários e completa o quadro dos respectivos direitos a reconhecer
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 294/2003
+official_date: null
+publication_date: '2003-11-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 270/2003, Série I-A de 2003-11-21
+  number: '270'
+  series: I
+  supplement: null
+  pages: 7924 - 7926
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/11/270a00/79247926.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/294/2003/11/21/p/dre/pt/html
+  oj: null
+  dre: '438038'
+  dre_path: /dr/detalhe/decreto-lei/294-2003-438038
+  internal: pt:dre:438038:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2003-438038
+  metadata_url: https://data.dre.pt/eli/dec-lei/294/2003/11/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-2003-438038
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:40:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: abf1fbe0e0dbc5e36b5ec8ebd20318b0e95d1d1ec9d266de16df5989ce20bc1c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:40:46Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associações de Defesa dos Investidores em Valores Mobiliários
+- Bolsa de Valores
+- CMVM
+- Registo de Valores Mobiliários
+- Valores Mobiliários
+relationships:
+- type: cites
+  target: pt:dre:656102:por
+  label: null
+  source: http://data.dre.pt/eli/lei/38/2003/08/22/p/dre
+- type: cites
+  target: pt:dre:682983:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/486/1999/11/13/p/dre
+- type: cites
+  target: pt:dre:682985:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/473/1999/11/08/p/dre
+article_structure:
+  article_count: 11
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:40:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 294/2003
+
+de 21 de Novembro
+
+O [Decreto-Lei n.º 486/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1999-682983), de 13 de Novembro, que aprovou o Código dos Valores Mobiliários, prevê, no seu artigo 32.º, a possibilidade de as associações cujo objecto estatutário principal seja a protecção dos interesses dos investidores em valores mobiliários, que contem entre os seus associados pelo menos 100 pessoas singulares não qualificáveis como investidores institucionais e exerçam actividade efectiva há mais de um ano, beneficiarem, pela representatividade que, dessa forma, asseguram, de um conjunto de direitos conferidos por este Código e por legislação complementar.
+
+Entre os direitos das associações de defesa dos investidores em valores mobiliários já legalmente reconhecidos conta-se, nomeadamente, o direito de acção popular, nos termos da alínea b) do n.º 1 do artigo 31.º do Código dos Valores Mobiliários, o direito de intervir em procedimento de mediação de conflitos, de acordo com o n.º 2 do artigo 34.º deste mesmo Código, e, ainda, o direito de designarem um representante para o conselho consultivo da Comissão do Mercado de Valores Mobiliários, como estipula a alínea g) do n.º 1 do artigo 20.º do [Decreto-Lei n.º 473/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1999-682985), de 8 de Novembro, que aprovou o estatuto desta Comissão.
+
+Neste contexto, e visando facilitar a intervenção organizada dos investidores em defesa dos seus interesses, é objectivo do presente diploma disciplinar o processo de verificação dos requisitos exigidos para a constituição de associações de defesa dos investidores em valores mobiliários e completar o quadro dos direitos a reconhecer a essas associações.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 38/2003](https://diariodarepublica.pt/dr/detalhe/lei/38-2003-656102), de 22 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma disciplina:
+
+a) O processo de verificação dos requisitos a que se refere o artigo 32.º do Código dos Valores Mobiliários, aprovado pelo [Decreto-Lei n.º 486/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1999-682983), de 13 de Novembro;
+
+b) Os direitos das associações de defesa dos investidores em valores mobiliários que observem esses mesmos requisitos.
+
+###### Artigo 2.º — Independência das associações
+
+As associações de defesa dos investidores são independentes, nomeadamente, dos emitentes de valores mobiliários, das entidades gestoras de mercados, sistemas ou serviços relativos a valores mobiliários e dos intermediários financeiros.
+
+### CAPÍTULO II — Registo na Comissão do Mercado de Valores Mobiliários
+
+###### Artigo 3.º — Instrução do pedido de registo
+
+1 - O registo das associações de defesa dos investidores na Comissão do Mercado de Valores Mobiliários (CMVM) depende de requerimento dirigido a esta Comissão.
+
+2 - O requerimento é instruído com os seguintes elementos:
+
+a) Cópia do estatuto e respectiva acta de aprovação;
+
+b) Cópia do cartão de identificação da associação enquanto pessoa colectiva;
+
+c) Declaração onde conste o número e a identificação dos seus associados que sejam investidores não institucionais.
+
+###### Artigo 4.º — Prazo para o registo
+
+1 - A decisão quanto à concessão ou recusa do registo é tomada no prazo de 30 dias a contar da recepção dos documentos referidos no n.º 2 do artigo anterior.
+
+2 - A CMVM pode solicitar, complementarmente, quaisquer documentos ou informações que considere necessários à verificação dos requisitos de que depende o registo, ficando nesse caso suspenso o prazo referido no número anterior.
+
+###### Artigo 5.º — Decisão
+
+A decisão de concessão ou recusa de registo é imediatamente notificada à associação de defesa dos investidores e, em caso de recusa, devidamente fundamentada.
+
+###### Artigo 6.º — Caducidade do registo
+
+1 - Se a associação de defesa dos investidores deixar de reunir os requisitos que levaram à concessão do registo e a CMVM for notificada desse facto ou dele tiver comprovado conhecimento, concede àquela um prazo de 15 dias para suprir essa falta.
+
+2 - Durante o prazo referido no artigo anterior, os direitos da associação de defesa dos investidores não podem ser exercidos.
+
+3 - O registo caduca se, decorrido o prazo referido no n.º 1, a falta dos requisitos não for suprida.
+
+###### Artigo 7.º — Divulgação de associações registadas
+
+A CMVM divulga, através do seu sistema de difusão de informação, a lista actualizada de associações de defesa de investidores e de federações registadas.
+
+### CAPÍTULO III — Direitos das associações de defesa de investidores
+
+###### Artigo 8.º — Direito de participação
+
+1 - As associações de defesa dos investidores têm o direito de, através da elaboração de pareceres, estudos ou relatórios, participar na definição das grandes linhas de orientação legislativa relacionadas com o mercado de valores mobiliários, em especial com as políticas de protecção do investidor.
+
+2 - Tratando-se de regulamento que incida sobre matérias de interesse dos investidores, o órgão com competência regulamentar deve ouvir as associações de defesa dos investidores.
+
+###### Artigo 9.º — Direito de consulta e informação
+
+As associações de defesa dos investidores têm o direito de consultar os registos de natureza pública realizados pela CMVM, bem como de serem esclarecidas sobre a informação posta à disposição dos investidores por aquela entidade.
+
+###### Artigo 10.º — Direito de agrupamento
+
+1 - As associações de defesa dos investidores são livres de se agruparem em federações de âmbito regional, nacional ou internacional com fins idênticos aos seus.
+
+2 - As federações são registadas na CMVM nos mesmos termos das associações, bastando, para esse efeito, que apenas uma das associações de defesa dos investidores preencha os requisitos a que se refere o artigo 32.º do Código dos Valores Mobiliários.
+
+### CAPÍTULO IV — Disposições finais e transitórias
+
+###### Artigo 11.º — Associações já constituídas
+
+1 - As associações de defesa dos investidores em valores mobiliários já constituídas devem fazer prova de que preenchem os requisitos previstos no Código dos Valores Mobiliários para o exercício dos direitos previstos no presente diploma.
+
+2 - Aos pedidos de registos entrados na CMVM depois da entrada em vigor do Código dos Valores Mobiliários aplica-se o disposto neste diploma, considerando-se como termo inicial para efeitos da contagem do prazo referido no n.º 1 do artigo 4.º a data da sua entrada em vigor.
+
+Visto e aprovado em Conselho de Ministros de 2 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite.
+
+Promulgado em 6 de Novembro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 11 de Novembro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.

@@ -1,0 +1,536 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32008R1295:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1295-20220506",
+ "dre_path": null,
+ "source_lastmod": "2022-05-06",
+ "versions": [
+  {
+   "date": "2008-12-19",
+   "future": false,
+   "celex": "32008R1295",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "815c142dd0137802",
+    "59169c790d5cf8ba",
+    "e25cdcbdeded1e89",
+    "8bb093772eff7f8c",
+    "87afa40a4444ed9d",
+    "3a19e3965f6006b4",
+    "5109abe0b2b5b00f",
+    "e482f3d42328a813",
+    "d2724e8be0989b32",
+    "65d7e436e34e22f3",
+    "289dd82716621337",
+    "69bed1baf8a95f6a",
+    "8b9910b23c7cefa5",
+    "99c05225d35bc34f"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "celex": "02008R1295-20210101",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0267:por",
+     "title": "M1",
+     "published": null,
+     "celex": "32009R0267"
+    },
+    {
+     "id": "eu:celex:32012R0117:por",
+     "title": "M2",
+     "published": null,
+     "celex": "32012R0117"
+    },
+    {
+     "id": "eu:celex:32012R0631:por",
+     "title": "M3",
+     "published": null,
+     "celex": "32012R0631"
+    },
+    {
+     "id": "eu:celex:32013R0519:por",
+     "title": "M4",
+     "published": null,
+     "celex": "32013R0519"
+    },
+    {
+     "id": "eu:celex:32015R2000:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2015/2000 DA COMISSÃO de 9 de novembro de 2015",
+     "published": null,
+     "celex": "32015R2000"
+    },
+    {
+     "id": "eu:celex:32020R2103:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2020/2103 DA COMISSÃO de 15 de dezembro de 2020",
+     "published": null,
+     "celex": "32020R2103"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA:",
+    "Adita Lúpulo em cones do código NC ex 12 10",
+    "Adita Pós de lúpulo do código NC ex 12 10",
+    "Adita Sucos e extratos de lúpulo do código NC 1302 13 00",
+    "Adita ANEX0 II",
+    "Adita FORMULÁRIO DO ATESTADO DE EQUIVALÊNCIA",
+    "Adita ANEXO III",
+    "Adita FORMULÁRIO DO EXTRACTO DO ATESTADO DE EQUIVALÊNCIA",
+    "Adita ANEXO IV",
+    "Adita DISPOSIÇÕES RELATIVAS AOS FORMULÁRIOS REFERIDOS NOS ARTIGOS 4.º E 6.º",
+    "Adita I. PAPEL",
+    "Adita II. FORMATO",
+    "Adita III. LÍNGUAS",
+    "Adita IV. PREENCHIMENTO",
+    "Adita ANEXO V",
+    "Adita ANEXO VI"
+   ],
+   "fragments": [
+    "f8a32ca88b649253",
+    "59169c790d5cf8ba",
+    "e25cdcbdeded1e89",
+    "8bb093772eff7f8c",
+    "87afa40a4444ed9d",
+    "d416c697591466a1",
+    "5109abe0b2b5b00f",
+    "e482f3d42328a813",
+    "41710b85cc690f81",
+    "1901c6ae85ebd11b",
+    "289dd82716621337",
+    "69bed1baf8a95f6a",
+    "6e92082c6ec7d20b",
+    "d664376e2a8dcecd",
+    "89f72a79ac5b1b1b",
+    "1c2526f1d9f6ca88",
+    "75f8001dbd163b6e",
+    "c5b4202a3bf1a64e",
+    "909b25f2fe763739",
+    "e60ab375a786d54e",
+    "720af75c92791b10",
+    "0cb10a581c535e11",
+    "e03a0eb4d5b2eef3",
+    "e170b8aaafb24636",
+    "65528f30bbebef18",
+    "a8e962122a9d9ae3",
+    "05d2db79bcefb28b",
+    "094229523c7f12c7",
+    "a9a51071476b31e4",
+    "636f1318e081209a",
+    "ec7274dc967f277b"
+   ]
+  },
+  {
+   "date": "2022-05-06",
+   "future": false,
+   "celex": "02008R1295-20220506",
+   "acts": [
+    {
+     "id": "eu:celex:32022R0700:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2022/700 DA COMISSÃO de 4 de maio de 2022",
+     "published": null,
+     "celex": "32022R0700"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Notas",
+    "Adita ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA",
+    "Adita Lúpulo em cones Código NC: ex 12 10",
+    "Adita Pós de lúpulo Código NC: ex 12 10",
+    "Adita Sucos e extratos de lúpulo Código NC: 1302 13 00",
+    "Suprime ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA:",
+    "Suprime Lúpulo em cones do código NC ex 12 10",
+    "Suprime Pós de lúpulo do código NC ex 12 10",
+    "Suprime Sucos e extratos de lúpulo do código NC 1302 13 00"
+   ],
+   "fragments": [
+    "f8a32ca88b649253",
+    "59169c790d5cf8ba",
+    "e25cdcbdeded1e89",
+    "8bb093772eff7f8c",
+    "87afa40a4444ed9d",
+    "d416c697591466a1",
+    "5109abe0b2b5b00f",
+    "e482f3d42328a813",
+    "41710b85cc690f81",
+    "14e32b5689c34979",
+    "289dd82716621337",
+    "69bed1baf8a95f6a",
+    "6e92082c6ec7d20b",
+    "d664376e2a8dcecd",
+    "c07fd640ed1e82d6",
+    "914d48219f10a80e",
+    "6b9d6ffcf739f740",
+    "4bb5e7ebf167fc70",
+    "909b25f2fe763739",
+    "e60ab375a786d54e",
+    "720af75c92791b10",
+    "0cb10a581c535e11",
+    "e03a0eb4d5b2eef3",
+    "e170b8aaafb24636",
+    "65528f30bbebef18",
+    "a8e962122a9d9ae3",
+    "05d2db79bcefb28b",
+    "094229523c7f12c7",
+    "a9a51071476b31e4",
+    "636f1318e081209a",
+    "489428affc2fc7d9"
+   ]
+  }
+ ],
+ "fragments": {
+  "815c142dd0137802": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Dezembro de 2008\n\nrelativo à importação de lúpulo proveniente de países terceiros\n\n(Versão codificada)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho de 22 de Outubro de 2007 que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») [([^1])](http://publications.europa.eu/resource/cellar/6bf01c54-d572-4952-beaa-159de150f119.0018.02/DOC_1#ntr1-L_2008340PT.01004501-E0001) e, nomeadamente, os seus artigos 192.º, n.º 2,.º e 195.º, n.º 2, em conjugação com o artigo 4.º,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CEE) n.º 3076/78 da Comissão, de 21 de Dezembro de 1978, relativo à importação de lúpulo proveniente de países terceiros [([^2])](http://publications.europa.eu/resource/cellar/6bf01c54-d572-4952-beaa-159de150f119.0018.02/DOC_1#ntr2-L_2008340PT.01004501-E0002) e o Regulamento (CEE) n.º 3077/78 da Comissão, de 21 de Dezembro de 1978, relativo à verificação de equivalência entre os atestados que acompanham os lúpulos importados de países terceiros e os certificados comunitários [([^3])](http://publications.europa.eu/resource/cellar/6bf01c54-d572-4952-beaa-159de150f119.0018.02/DOC_1#ntr3-L_2008340PT.01004501-E0003), foram por várias vezes alterados de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/6bf01c54-d572-4952-beaa-159de150f119.0018.02/DOC_1#ntr4-L_2008340PT.01004501-E0004), sendo conveniente, por uma questão de lógica e clareza, proceder à codificação dos referidos regulamentos num único texto.\n\n(2) O n.º 1 do artigo 158.º do Regulamento (CE) n.º 1234/2007 estabelece que o lúpulo e seus derivados provenientes de países terceiros só podem ser importados se apresentarem características qualitativas equivalentes, pelo menos, às adoptadas para o lúpulo ou produtos derivados do lúpulo colhido na Comunidade ou elaborados a partir de tais produtos. O n.º 2 do mesmo artigo prevê, no entanto, que estes produtos sejam considerados como apresentando aquelas características se forem acompanhados de um atestado emitido pelas autoridades do país de origem e considerado equivalente ao certificado exigido para a comercialização do lúpulo e produtos derivados do lúpulo de origem comunitária.\n\n(3) O Regulamento (CE) n.º 1850/2006 da Comissão, de 14 de Dezembro de 2006, que estabelece as normas de execução relativas à certificação do lúpulo e dos produtos de lúpulo [([^5])](http://publications.europa.eu/resource/cellar/6bf01c54-d572-4952-beaa-159de150f119.0018.02/DOC_1#ntr5-L_2008340PT.01004501-E0005), submete a comercialização dos derivados do lúpulo a exigências muito rigorosas, nomeadamente no que se refere às misturas. Actualmente, não existem nas fronteiras métodos de controlo que permitam verificar de forma eficaz o cumprimento dessas exigências. Só o compromisso dos países exportadores de respeitar as exigências comunitárias relativamente à comercialização desses produtos pode substituir um controlo. É, portanto, necessário exigir que esses produtos provenientes de países terceiros sejam acompanhados do atestado referido no n.º 2 do artigo 158.º do Regulamento (CE) n.º 1234/2007.\n\n(4) De modo a assegurar o respeito da regulamentação comunitária em matéria de certificação do lúpulo, os Estados-Membros devem proceder a controlos para verificar se o lúpulo importado está em conformidade com as exigências mínimas de comercialização estabelecidas pelo Regulamento (CE) n.º 1850/2006.\n\n(5) Certos países terceiros comprometeram-se a respeitar as exigências prescritas para a comercialização do lúpulo e dos produtos derivados do lúpulo e autorizaram certos serviços a emitir atestados de equivalência. Convém, por consequência, reconhecer estes atestados como equivalentes aos certificados comunitários e admitir em livre prática os produtos por eles abrangidos.\n\n(6) Compete aos serviços em questão dos países terceiros manter actualizados os dados constantes do anexo I e comunicá-los aos serviços da Comissão, num espírito de estreita cooperação.\n\n(7) Para facilitar a tarefa das autoridades competentes dos Estados-Membros, importa prescrever a forma e, na medida do necessário, o conteúdo dos atestados e extractos previstos, bem como as condições da sua utilização.\n\n(8) Para ter em conta as práticas comerciais, é necessário dar às autoridades competentes poderes para mandar passar, sob o seu controlo, em caso de fraccionamento de uma remessa, um extracto do atestado para cada nova remessa resultante desse fraccionamento.\n\n(9) Por analogia com o regime comunitário de certificação, convém excluir, devido à sua utilização, certos produtos da apresentação dos atestados previstos no presente regulamento.\n\n(10) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "59169c790d5cf8ba": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A colocação em livre prática na Comunidade, dos produtos referidos na alínea f) do artigo 1.º do Regulamento (CE) n.º 1234/2007 provenientes de países terceiros está sujeita à prova do cumprimento das exigências referidas no n.º 1 do artigo 158.º do citado regulamento.\n\n2. A prova referida no n.º 1 do artigo 1.º do presente regulamento é feita através da apresentação do certificado previsto no n.º 2 do artigo 158.º do Regulamento (CE) n.º 1234/2007, a seguir denominado «certificado de equivalência»."
+  },
+  "e25cdcbdeded1e89": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento entende-se por «remessa» uma determinada quantidade de produtos com as mesmas características, enviados ao mesmo tempo por um único expedidor a um único destinatário."
+  },
+  "8bb093772eff7f8c": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs atestados que acompanham o lúpulo e os produtos elaborados a partir do lúpulo importado de países terceiros, emitidos por um organismo oficial habilitado pelo país terceiro de origem e que figura no Anexo I serão reconhecidos como certificados de equivalência.\n\nO anexo I será objecto de revisões em função das comunicações dos países terceiros."
+  },
+  "87afa40a4444ed9d": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O atestado de equivalência é passado em triplicado para cada remessa num formulário conforme ao modelo que figura no Anexo II e de acordo com as disposições que figuram no Anexo IV.\n\n2. Um atestado de equivalência só é válido se estiver devidamente preenchido e visado por um dos organismos constantes do Anexo I.\n\n3. Um atestado de equivalência encontra-se devidamente visado se indicar o local e a data de emissão e se estiver assinado e tiver o carimbo do organismo emissor."
+  },
+  "3a19e3965f6006b4": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Cada unidade de embalagem objecto de um atestado de equivalência deve incluir as seguintes indicações numa das línguas oficiais da Comunidade:\n\na) a designação do produto;\n\nb) a indicação da ou das variedades;\n\nc) o país de origem;\n\nd) as marcas e números constantes da casa 9 do atestado de equivalência ou do extracto.\n\n2. As indicações previstas no n.º 1 são feitas na embalagem exterior de forma legível, em caracteres indeléveis e com uma dimensão uniforme."
+  },
+  "5109abe0b2b5b00f": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Sempre que, antes da sua colocação em livre prática, uma remessa objecto de um atestado de equivalência for reexpedida após fraccionamento será passado um extracto do atestado para cada nova remessa resultante desse fraccionamento.\n\nO atestado será substituido pelo número de extractos necessário.\n\nO extracto é passado pelo interessado em triplicado num formulário conforme ao modelo que figura no Anexo III, de acordo com as disposições constantes do Anexo IV.\n\n2. A autoridade aduaneira anotará em conformidade o original e as duas cópias do atestado de equivalência e visará o original e as duas cópias de cada extracto.\n\nDeverá conservar o original do astestado, enviar as duas cópias à autoridade competente referida no artigo 21.º do Regulamento (CE) n.º 1850/2006 e entregar o original e as duas cópias de cada extracto ao interessado."
+  },
+  "e482f3d42328a813": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPor ocasião do cumprimento das formalidades aduaneiras requeridas para a colocação em livre prática na Comunidade do produto a que se refere o atestado de equivalência ou o extracto, o original e as duas cópias são apresentados às autoridades aduaneiras que os visam em conformidade e conservam o original. Uma das cópias é enviada pelas autoridades aduaneiras à autoridade competente referida no artigo 21.º do Regulamento (CE) n.º 1850/2006 do Estado-Membro onde o produto é colocado em livre prática. A segunda cópia é entregue ao importador que a deve conservar durante pelo menos três anos."
+  },
+  "d2724e8be0989b32": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nEm caso de revenda ou fraccionamento de uma remessa, após a colocação em livre prática, o produto deve ser acompanhado de uma factura ou de um documento comercial emitido pelo vendedor que indique o número do certificado de equivalência ou da cópia assim como o nome do organismo que emitiu esses certificados ou cópias.\n\nDevem figurar igualmente no documento comercial ou na factura as seguintes informações do atestado de equivalência ou do extracto:\n\na) Para o lúpulo em cones: i) a designação do produto, ii) o peso bruto, iii) o local de produção, iv) o ano da colheita, v) a variedade, vi) a país de origem, vii) as marcas e números que figuram na casa 9 do atestado;\n\ni) a designação do produto,\n\nii) o peso bruto,\n\niii) o local de produção,\n\niv) o ano da colheita,\n\nv) a variedade,\n\nvi) a país de origem,\n\nvii) as marcas e números que figuram na casa 9 do atestado;\n\nb) Para os produtos elaborados a partir do lúpulo além das indicações que figuram na alínea a), o local e a data de transformação."
+  },
+  "65d7e436e34e22f3": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-Membros procederão regularmente a controlos aleatórios para verificar a conformidade do lúpulo importado, ao abrigo do artigo 158.º do Regulamento (CE) n.º 1234/2007, com as exigências mínimas de comercialização estabelecidas no anexo I do Regulamento (CE) n.º 1850/2006.\n\n2. Os Estados-Membros comunicarão à Comissão, anualmente, até 30 de Junho, a frequência, tipo e resultado dos controlos que efectuaram durante o ano anterior àquela data. Os controlos devem incidir em, pelo menos, 5 % do número de remessas de lúpulo que se prevê sejam importadas de um país terceiro no Estado-Membro em causa durante o ano em curso.\n\n3. Se as autoridades competentes dos Estados-Membros verificarem que as amostras examinadas não satisfazem as exigências mínimas de comercialização referidas no n.º 1, as remessas correspondentes não podem ser comercializados na Comunidade.\n\n4. Caso um Estado-Membro verifique que as características de um produto não estão em conformidade com as indicações constantes do atestado de equivalência que acompanha o produto, o mesmo informará de tal facto a Comissão.\n\nDe acordo com o processo referido no n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007, pode ser decidido retirar o organismo emissor do atestado de equivalência que acompanha o produto em causa da lista constante do Anexo I do presente regulamento."
+  },
+  "289dd82716621337": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nEm derrogação do presente regulamento, não está sujeita à apresentação do atestado referido no n.º 2 do artigo 1.º nem às disposições do artigo 5.º a colocação em livre prática do lúpulo e derivados do lúpulo seguintes, até ao limite, por pacote, de 1 quilograma para o lúpulo em cones e o pó de lúpulo, e de 300 gramas para os extractos de lúpulos:\n\na) Apresentados em pequenos pacotes destinados à venda a particulares para seu uso privado;\n\nb) Destinados a experiências científicas e técnicas;\n\nc) Destinadas às feiras que beneficiam do regime aduaneiro previsto para este efeito.\n\nA designação, o peso e a utilização final do produto devem figurar na embalagem."
+  },
+  "69bed1baf8a95f6a": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs Regulamentos (CEE) n.º 3076/78 e (CEE) n.º 3077/78 são revogados.\n\nAs referências aos Regulamentos revogados devem entender-se como sendo feitas para o presente regulamento, e devem ser lidas de acordo com o quadro de correspondência constante do Anexo VI."
+  },
+  "8b9910b23c7cefa5": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 18 de Dezembro de 2008.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "99c05225d35bc34f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/6bf01c54-d572-4952-beaa-159de150f119.0018.02/DOC_1#ntc1-L_2008340PT.01004501-E0001) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/6bf01c54-d572-4952-beaa-159de150f119.0018.02/DOC_1#ntc2-L_2008340PT.01004501-E0002) [JO L 367 de 28.12.1978, p. 17](http://publications.europa.eu/resource/oj/JOL_1978_367_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/6bf01c54-d572-4952-beaa-159de150f119.0018.02/DOC_1#ntc3-L_2008340PT.01004501-E0003) [JO L 367 de 28.12.1978, p. 28](http://publications.europa.eu/resource/oj/JOL_1978_367_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/6bf01c54-d572-4952-beaa-159de150f119.0018.02/DOC_1#ntc4-L_2008340PT.01004501-E0004) Ver Anexo V.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/6bf01c54-d572-4952-beaa-159de150f119.0018.02/DOC_1#ntc5-L_2008340PT.01004501-E0005) [JO L 355 de 15.12.2006, p. 72](http://publications.europa.eu/resource/oj/JOL_2006_355_R_TOC)."
+  },
+  "f8a32ca88b649253": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Dezembro de 2008\n\nrelativo à importação de lúpulo proveniente de países terceiros\n\n(Versão codificada)"
+  },
+  "d416c697591466a1": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1.\n\nCada unidade de embalagem objecto de um atestado de equivalência deve incluir as seguintes indicações numa das línguas oficiais da Comunidade:\n\na) a designação do produto;\n\nb) a indicação da ou das variedades;\n\nc) o país de origem;\n\nd) as marcas e números constantes da casa 9 do atestado de equivalência ou do extracto.\n\n2. As indicações previstas no n.º 1 são feitas na embalagem exterior de forma legível, em caracteres indeléveis e com uma dimensão uniforme."
+  },
+  "41710b85cc690f81": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nEm caso de revenda ou fraccionamento de uma remessa, após a colocação em livre prática, o produto deve ser acompanhado de uma factura ou de um documento comercial emitido pelo vendedor que indique o número do certificado de equivalência ou da cópia assim como o nome do organismo que emitiu esses certificados ou cópias.\n\nDevem figurar igualmente no documento comercial ou na factura as seguintes informações do atestado de equivalência ou do extracto:\n\na) Para o lúpulo em cones:\n\ni) a designação do produto,\n\nii) o peso bruto,\n\niii) o local de produção,\n\niv) o ano da colheita,\n\nv) a variedade,\n\nvi) a país de origem,\n\nvii) as marcas e números que figuram na casa 9 do atestado;\n\nb) Para os produtos elaborados a partir do lúpulo além das indicações que figuram na alínea a), o local e a data de transformação."
+  },
+  "1901c6ae85ebd11b": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-Membros procederão regularmente a controlos aleatórios para verificar a conformidade do lúpulo importado, ao abrigo do artigo 158.º do Regulamento (CE) n.º 1234/2007, com as exigências mínimas de comercialização estabelecidas no anexo I do Regulamento (CE) n.º 1850/2006.\n\n2. Os Estados-Membros comunicarão à Comissão, anualmente, até 30 de Junho, a frequência, tipo e resultado dos controlos que efectuaram durante o ano anterior àquela data. Os controlos devem incidir em, pelo menos, 5 % do número de remessas de lúpulo que se prevê sejam importadas de um país terceiro no Estado-Membro em causa durante o ano em curso.\n\n3. Se as autoridades competentes dos Estados-Membros verificarem que as amostras examinadas não satisfazem as exigências mínimas de comercialização referidas no n.º 1, as remessas correspondentes não podem ser comercializados na Comunidade.\n\n4. Caso um Estado-Membro verifique que as características de um produto não estão em conformidade com as indicações constantes do atestado de equivalência que acompanha o produto, o mesmo informará de tal facto a Comissão.\n\nDe acordo com o processo referido no n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007, pode ser decidido retirar o organismo emissor do atestado de equivalência que acompanha o produto em causa da lista constante do Anexo I do presente regulamento.\n\n5. As comunicações referidas nos n.^os^ 2 e 4 devem ser efetuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/89bb1bdf-5a4b-11eb-b59f-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "6e92082c6ec7d20b": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "89f72a79ac5b1b1b": {
+   "fragment_id": "ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA:",
+   "type": "divisao",
+   "heading": "ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA:"
+  },
+  "1c2526f1d9f6ca88": {
+   "fragment_id": "Lúpulo em cones do código NC ex 12 10",
+   "type": "divisao",
+   "heading": "Lúpulo em cones do código NC ex 12 10",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lúpulo em cones do código NC ex 12 10"
+  },
+  "75f8001dbd163b6e": {
+   "fragment_id": "Pós de lúpulo do código NC ex 12 10",
+   "type": "divisao",
+   "heading": "Pós de lúpulo do código NC ex 12 10",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Pós de lúpulo do código NC ex 12 10"
+  },
+  "c5b4202a3bf1a64e": {
+   "fragment_id": "Sucos e extratos de lúpulo do código NC 1302 13 00",
+   "type": "divisao",
+   "heading": "Sucos e extratos de lúpulo do código NC 1302 13 00",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Sucos e extratos de lúpulo do código NC 1302 13 00\n\n| País de origem | Organismos habilitados | Endereço | Código | Telefone | Fax | Endereço eletrónico (facultativo) |\n| --- | --- | --- | --- | --- | --- | --- |\n| (AR) Argentina | Coordinación Regional Temática de Protección Vegetal (CRTPV) Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) Centro Regional Patagonia Norte | Calle 9 de Julio 933. General Roca, Provincia de Río Negro, Cod 8334 | (54-298) | 44 28 594 44 32 190 | 44 28 594 44 32 190 | groca@senasa.gov.ar cpaulovich@senasa.gov.ar jesparza@senasa.gov.ar |\n| Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) | Av. Pasco Colon 367 Ciudad Aut. de Buenos Aires, C1063ACD | (54-11) | 41 21 50 00 | 41 21 50 00 | webmaster@senasa.gob.ar cdei@senasa.gob.ar |  |\n| (AU) Austrália | Biosecurity Tasmania - Department of Primary Industries, Parks, Water and Environment | 13 St John’s Avenue, New Town TAS 7008 Hobart TAS 7000, Austrália | (61-3) | 62 33 33 52 | 03 6165 3777 | Biosecurity.Tasmania@dpipwe.tas.gov.au ou Export.Enquiries.Tas@dpipwe.tas.gov.au |\n| (CA) Canadá | Plant Protection Division, Animal and Plant Health Directorate, Food Production and Inspection Branch, Agriculture and Agri-food Canada | Floor 2, West Wing 59, Camelot Drive Napean, Ontário, K1A OY9 | (1-613) | 952 80 00 | 991 56 12 |  |\n| (CH) Suíça | Labor Veritas | Engimattstrasse 11, Postfach 353, CH-8027 Zurique | (41-44) | 283 29 30 | 201 42 49 | admin@laborveritas.ch |\n| (CN) China | Tianjin Airport Entry-Exit Inspection and Quarantine Bureau of the People’s Republic of China | No 33 Youyi Road, Hexi District Tianjin 300201 | (86-22) | 28 13 40 78 | 28 13 40 78 | ciqtj2002@163.com |\n| Tianjin Economic and Technical Development Zone Entry-Exit Inspection and Quarantine Bureau of the People’s Republic of China | No 8, Zhaofaxincun 2nd Avenue, TEDA Tianjin 300457 | (86-22) | 662 98-343 | 662 98-245 | zhujw@tjciq.gov.cn |  |\n| Inner Mongolia Entry-Exit Inspection and Quarantine Bureau of the People’s Republic of China | No 12 Erdos Street, Saihan District, Huhhot City Inner Mongólia 010020 | (86-471) | 434-1943 | 434-2163 | zhaoxb@nmciq.gov.cn |  |\n| Xinjiang Entry-Exit Inspection and Quarantine Bureau of the People’s Republic of China | No 116 North Nanhu Road Urumqi City Xinjiang 830063 | (86-991) | 464-0057 | 464-0050 | xjciq_jw@xjciq.gov.cn |  |\n| (NZ) Nova Zelândia | Ministry for Primary Industries | P.O. Box 2526, Wellington 6140 | (64-4) | 830 1574 | 894 0300 |  |\n| (RS) Sérvia | Institut za ratarstvo i povrtarstvo/ Institute of Field and Vegetable Crops | 21000 Novi Sad Maksima Gorkog 30 | (381-21) | 780 365 Operador: 4898 100 | 780 198 | institut@ifvcns.ns.ac.rs |\n| (UA) Ucrânia | Productional-Technical Centre (PTZ) Ukrhmel | Hlebnaja 27262028 Zhitomir | (380) | 37 21 11 | 36 73 31 |  |\n| (GB) Reino Unido [(^*1^)](http://publications.europa.eu/resource/cellar/89bb1bdf-5a4b-11eb-b59f-01aa75ed71a1.0019.02/DOC_1#E0002) | Rural Payments Agency (RPA) | Lancaster House, Hampshire Court, Newcastle upon Tyne, NE4 7YH Reino Unido | (+44) | (+44) 3300 416 500 | — | hops.exports@rpa.gov.uk |\n| (US) Estados Unidos | Washington Department of Agriculture State Chemical and Hop Lab | 21 N. 1st Ave. Suite 106 Yakima, WA 98902 | (1-509) | 225 76 26 | 454 76 99 |  |\n| Idaho Department of Agriculture Division of Plant Industries Hop Inspection Lab | 2270 Old Penitentiary Road P.O. Box 790 Boise, ID 83701 | (1-208) | 332 86 20 | 334 22 83 |  |  |\n| Oregon Department of Agriculture Commodity Inspection Division | 635 Capital Street NE Salem, OR 97310-2532 | (1-503) | 986 46 20 | 986 47 37 |  |  |\n| California Department of Food and Agriculture (CDFA-CAC) Division of Inspection Services Analytical Chemistry Laboratory | 3292 Meadowview Road Sacramento, CA 95832 | (1-916) | 445 00 29 ou 262 14 34 | 262 15 72 |  |  |\n| USDA, GIPSA, FGIS | 1100 NW Naito Parkway Portland, OR 97209-2818 | (1-503) | 326 78 87 | 326 78 96 |  |  |\n| USDA, GIPSA, TSD, Tech Service Division, Technical Testing Laboratory | 10383 Nth Ambassador Drive Kansas City, MO 64153-1394 | (1-816) | 891 04 01 | 891 04 78 |  |  |\n| (ZA) África do Sul | CSIR Food Science and Technology | PO Box 3950001 Pretória | (27-12) | 841 31 72 | 841 35 94 |  |\n| (ZW) Zimbabué | Standards Association of Zimbabwe (SAZ) | Northend Close, Northridge Park Borrowdale, P.O. Box 2259 Harare | (263-4) | 88 20 17, 88 20 21, 88 55 11 | 88 20 20 | info@saz.org.zw saz.org.zw |\n| (^*1^) Em conformidade com o Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica, nomeadamente o artigo 5.º, n.º 4, do Protocolo relativo à Irlanda/Irlanda do Norte, em conjugação com o seu anexo 2, para efeitos do presente anexo, as referências ao Reino Unido não incluem a Irlanda do Norte. |  |  |  |  |  |  |"
+  },
+  "909b25f2fe763739": {
+   "fragment_id": "ANEX0 II",
+   "type": "divisao",
+   "heading": "ANEX0 II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEX0 II"
+  },
+  "e60ab375a786d54e": {
+   "fragment_id": "FORMULÁRIO DO ATESTADO DE EQUIVALÊNCIA",
+   "type": "divisao",
+   "heading": "FORMULÁRIO DO ATESTADO DE EQUIVALÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FORMULÁRIO DO ATESTADO DE EQUIVALÊNCIA"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "0cb10a581c535e11": {
+   "fragment_id": "FORMULÁRIO DO EXTRACTO DO ATESTADO DE EQUIVALÊNCIA",
+   "type": "divisao",
+   "heading": "FORMULÁRIO DO EXTRACTO DO ATESTADO DE EQUIVALÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FORMULÁRIO DO EXTRACTO DO ATESTADO DE EQUIVALÊNCIA"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "e170b8aaafb24636": {
+   "fragment_id": "DISPOSIÇÕES RELATIVAS AOS FORMULÁRIOS REFERIDOS NOS ARTIGOS 4.º E 6.º",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES RELATIVAS AOS FORMULÁRIOS REFERIDOS NOS ARTIGOS 4.º E 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES RELATIVAS AOS FORMULÁRIOS REFERIDOS NOS ARTIGOS 4.º E 6.º"
+  },
+  "65528f30bbebef18": {
+   "fragment_id": "I. PAPEL",
+   "type": "divisao",
+   "heading": "I. PAPEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### I. PAPEL\n\nO papel a utilizar é um papel branco pesando pelo menos 40 g/m^2^."
+  },
+  "a8e962122a9d9ae3": {
+   "fragment_id": "II. FORMATO",
+   "type": "divisao",
+   "heading": "II. FORMATO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### II. FORMATO\n\nO formato é de 210 × 297 mm."
+  },
+  "05d2db79bcefb28b": {
+   "fragment_id": "III. LÍNGUAS",
+   "type": "divisao",
+   "heading": "III. LÍNGUAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### III. LÍNGUAS\n\nA. O atestado de equivalência é passado numa das línguas oficiais da Comunidade; pode ser ainda redigido ou numa das línguas oficiais do país emissor.\n\nB. O extracto do atestado de equivalência é passado numa das línguas oficiais da Comunidade designada pelas autoridades competentes do Estado-Membro emissor."
+  },
+  "094229523c7f12c7": {
+   "fragment_id": "IV. PREENCHIMENTO",
+   "type": "divisao",
+   "heading": "IV. PREENCHIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### IV. PREENCHIMENTO\n\nA. Os formulários são preenchidos à máquina de escrever ou à mão; no segundo caso devem ser preenchidos de forma legível a tinta ou em letra de imprensa.\n\nB. Cada formulário é individualizado através de um número atribuído pelo organismo emissor; este número é o mesmo para o original e para as duas cópias.\n\nC. No que diz respeito ao atestado de equivalência e respectivos extractos:\n\n1. A casa 5 do atestado não deve ser preenchida para os produtos do lúpulo elaborados a partir de misturas de lúpulo.\n\n2. As casas 7 e 8 devem ser preenchidas para todos os produtos elaborados a partir do lúpulo.\n\n3. A designação dos produtos (casa 9) faz-se de uma das seguintes formas conforme o caso:\n\na) «Lúpulo não preparado» para o lúpulo que foi sujeito unicamente a operações de primeira secagem e primeira embalagem;\n\nb) «Lúpulo preparado» para o lúpulo que foi sujeito a operações de secagem final e embalagem final;\n\nc) «Pó de lúpulo» (abrange igualmente os granulados e o pó enriquecido);\n\nd) «Extractos isomerizados de lúpulo» para um extracto no qual os ácidos alfa tenham sofrido uma isomerização quase total;\n\ne) «Extractos de lúpulo» para os extractos que não os extractos isomerizados de lúpulo;\n\nf) «Produtos misturados do lúpulo» para as misturas de produtos incluídos nas alíneas c), d) e e) com exclusão do lúpulo.\n\n4. A designação de «lúpulo preparado» e «lúpulo não preparado» deve ser acompanhada dos termos «sem sementes» quando o teor de sementes for inferior a 2 % do peso do lúpulo, e pelos termos «com sementes» nos outros casos.\n\n5. Nos casos em que os produtos elaborados a partir do lúpulo sejam obtidos a partir do lúpulo de diferentes variedades e/ou de diferentes locais de produção, e essas variedades e/ou locais de produção devem ser mencionados na casa 9 acompanhados da percentagem em peso de cada variedade de cada um dos locais de produção que entrem na mistura."
+  },
+  "a9a51071476b31e4": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V\n\nRegulamento (CEE) n.º 3076/78 da Comissão (JO L 367 de 28.12.1978, p. 17)\n\nRegulamento (CEE) n.º 1465/79 da Comissão (JO L 177 de 14.7.1979, p. 35) Apenas o artigo 2 e o artigo 3 no que respeita às referências feitas ao Regulamento (CEE) nº 3076/78\n\nRegulamento (CEE) n.º 4060/88 da Comissão (JO L 356 de 24.12.1988, p. 42) Apenas o artigo 1\n\nRegulamento (CEE) n.º 2264/91 da Comissão (JO L 208 de 30.7.1991, p. 20)\n\nRegulamento (CEE) n.º 2940/92 da Comissão (JO L 294 de 10.10.1992, p. 8)\n\nRegulamento (CEE) n.º 717/93 da Comissão (JO L 74 de 27.3.1993, p. 45)\n\nRegulamento (CEE) n.º 2918/93 da Comissão (JO L 264 de 23.10.1993, p. 37)\n\nRegulamento (CEE) n.º 3077/78 da Comissão (JO L 367 de 28.12.1978, p. 28)\n\nRegulamento (CEE) n.º 673/79 da Comissão (JO L 85 de 5.4.1979, p. 25)\n\nRegulamento (CEE) n.º 1105/79 da Comissão (JO L 138 de 6.6.1979, p. 9)\n\nRegulamento (CEE) n.º 1466/79 da Comissão (JO L 177 de 14.7.1979, p. 37)\n\nRegulamento (CEE) n.º 3042/79 da Comissão (JO L 343 de 31.12.1979, p. 5)\n\nRegulamento (CEE) n.º 3093/81 da Comissão (JO L 310 de 30.10.1981, p. 17)\n\nRegulamento (CEE) n.º 541/85 da Comissão (JO L 62 de 1.3.1985, p. 57)\n\nRegulamento (CEE) n.º 3261/85 da Comissão (JO L 311 de 22.11.1985, p. 20)\n\nRegulamento (CEE) n.º 3589/85 da Comissão (JO L 343 de 20.12.1985, p. 19) Apenas o artigo 1, número 2\n\nRegulamento (CEE) n.º 1835/87 da Comissão (JO L 174 de 1.7.1987, p. 14)\n\nRegulamento (CEE) n.º 3975/88 da Comissão (JO L 351 de 21.12.1988, p. 23)\n\nRegulamento (CEE) n.º 4060/88 da Comissão (JO L 356 de 24.12.1988, p. 42) Apenas o artigo 2\n\nRegulamento (CEE) n.º 2835/90 da Comissão (JO L 268 de 29.9.1990, p. 88)\n\nRegulamento (CEE) n.º 2238/91 da Comissão (JO L 204 de 27.7.1991, p. 13)\n\nRegulamento (CEE) n.º 2915/93 da Comissão (JO L 264 de 23.10.1993, p. 29)\n\nRegulamento (CE) n.º 812/94 da Comissão (JO L 94 de 13.4.1994, p. 4)\n\nRegulamento (CE) n.º 1757/94 da Comissão (JO L 183 de 19.7.1994, p. 11)\n\nRegulamento (CE) n.º 201/95 da Comissão (JO L 24 de 1.2.1995, p. 121)\n\nRegulamento (CE) n.º 972/95 da Comissão (JO L 97 de 29.4.1995, p. 62)\n\nRegulamento (CE) n.º 2132/95 da Comissão (JO L 214 de 8.9.1995, p. 7)\n\nRegulamento (CE) n.º 539/98 da Comissão (JO L 70 de 10.3.1998, p. 3)\n\nRegulamento (CE) n.º 81/2005 da Comissão (JO L 16 de 20.1.2005, p. 52)\n\nRegulamento (CE) n.º 495/2007 da Comissão (JO L 117 de 5.5.2007, p. 6)"
+  },
+  "636f1318e081209a": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI\n\n| Regulamento (CEE) n.º 3076/78 | Regulamento (CEE) n.º 3077/78 | Presente Regulamento |\n| --- | --- | --- |\n| Artigo 1, números 1 e 2 |  | Artigo 1.º, números 1 e 2 |\n| Artigo 1.º, número 3 |  | Artigo 2.º |\n|  | Artigo 1.º, primeira frase | Artigo 3.º, primeiro parágrafo |\n|  | Artigo 1.º, segunda frase | Artigo 3.º, segundo parágrafo |\n| Artigo 2.º |  | Artigo 4.º |\n| Artigo 3.º, número 1, frase introdutória |  | Artigo 5.º, número 1, frase introdutória |\n| Artigo 3.º, número 1, primeiro ao quarto travessões |  | Artigo 5.º, número 1, alíneas a) a d) |\n| Artigo 3.º, número 2 |  | Artigo 5.º, número 2 |\n| Artigo 4 |  | — |\n| Artigo 5.º, número 1, primeira frase |  | Artigo 6.º, número 1, primeiro parágrafo |\n| Artigo 5.º, número 1, segunda frase |  | Artigo 6.º, número 1, segundo parágrafo |\n| Artigo 5.º, número 1, terceira frase |  | Artigo 6.º, número 1, terceiro parágrafo |\n| Artigo 5.º, número 2, primeira frase |  | Artigo 6.º, número 2, primeiro parágrafo |\n| Artigo 5.º, número 2, segunda frase |  | Artigo 6.º, número 2, segundo parágrafo |\n| Artigo 6.º |  | Artigo 7.º |\n| Artigo 7.º, primeiro parágrafo, primeira frase |  | Artigo 8.º, primeiro parágrafo |\n| Artigo 7.º, primeiro parágrafo, segunda frase e ponto 1. |  | Artigo 8º, segundo parágrafo, frase introdutória |\n| Artigo 7.º, ponto 1., alínea a), frase introdutória |  | Artigo 8.º, segundo parágrafo, alínea a), frase introdutória |\n| Artigo 7.º, ponto 1., alínea a), primeiro travessão |  | Artigo 8.º, segundo parágrafo, alínea a), subalínea i) |\n| Artigo 7.º, ponto 1., alínea a), segundo travessão |  | Artigo 8.º, segundo parágrafo, alínea a), subalínea ii) |\n| Artigo 7.º, ponto 1., alínea a), terceiro travessão |  | Artigo 8.º, segundo parágrafo, alínea a), subalínea iii) |\n| Artigo 7.º, ponto 1., alínea a), quarto travessão |  | Artigo 8.º, segundo parágrafo, alínea a), subalínea iv) |\n| Artigo 7.º, ponto 1., alínea a), quinto travessão |  | Artigo 8.º, segundo parágrafo, alínea a), subalínea v) |\n| Artigo 7.º, ponto 1., alínea a), sexto travessão |  | Artigo 8.º, segundo parágrafo, alínea a), subalínea vi) |\n| Artigo 7.º, ponto 1., alínea a), sétimo travessão |  | Artigo 8.º, segundo parágrafo, alínea a), subalínea vii) |\n| Artigo 7º, ponto 1., alínea b) |  | Artigo 8.º, segundo parágrafo, alínea b) |\n| Artigo 7.º, ponto 2. |  | — |\n| Artigo 7.º-A, primeiro parágrafo, primeira frase |  | Artigo 9.º, número 1 |\n| Artigo 7.º-A, primeiro parágrafo, segunda e terceira frases |  | Artigo 9.º, número 2 |\n| Artigo 7.º-A, segundo parágrafo |  | Artigo 9.º, número 3 |\n| Artigo 7.º-A, terceiro parágrafo, primeira frase |  | Artigo 9.º, número 4, primeiro parágrafo |\n| Artigo 7.º-A, terceiro parágrafo, segunda frase |  | Artigo 9.º, número 4, segundo parágrafo |\n| Artigo 8.º |  | Artigo 10.º |\n| Artigo 9.º |  | — |\n| Artigo 10.º |  | — |\n|  | — | Artigo 11.º |\n|  | — | Artigo 12.º |\n|  | Anexo | Anexo I |\n| Anexo I |  | Anexo II |\n| Anexo II |  | Anexo III |\n| Anexo III |  | — |\n| Anexo IV |  | Anexo IV |\n| — | — | Anexo V |\n| — | — | Anexo VI |\n\n---"
+  },
+  "ec7274dc967f277b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/89bb1bdf-5a4b-11eb-b59f-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 792/2009 da Comissão, de 31 de agosto de 2009, que estabelece normas pormenorizadas para a notificação pelos Estados-Membros à Comissão de informações e documentos, em aplicação da organização comum dos mercados, do regime dos pagamentos diretos, da promoção dos produtos agrícolas e dos regimes aplicáveis às regiões ultraperiféricas e às ilhas menores do mar Egeu (JO L 228 de 1.9.2009, p. 3)."
+  },
+  "14e32b5689c34979": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os Estados-Membros procederão regularmente a controlos aleatórios para verificar a conformidade do lúpulo importado, ao abrigo do artigo 158.º do Regulamento (CE) n.º 1234/2007, com as exigências mínimas de comercialização estabelecidas no anexo I do Regulamento (CE) n.º 1850/2006.\n\n2. Os Estados-Membros comunicarão à Comissão, anualmente, até 30 de Junho, a frequência, tipo e resultado dos controlos que efectuaram durante o ano anterior àquela data. Os controlos devem incidir em, pelo menos, 5 % do número de remessas de lúpulo que se prevê sejam importadas de um país terceiro no Estado-Membro em causa durante o ano em curso.\n\n3. Se as autoridades competentes dos Estados-Membros verificarem que as amostras examinadas não satisfazem as exigências mínimas de comercialização referidas no n.º 1, as remessas correspondentes não podem ser comercializados na Comunidade.\n\n4. Caso um Estado-Membro verifique que as características de um produto não estão em conformidade com as indicações constantes do atestado de equivalência que acompanha o produto, o mesmo informará de tal facto a Comissão.\n\nDe acordo com o processo referido no n.º 2 do artigo 195.º do Regulamento (CE) n.º 1234/2007, pode ser decidido retirar o organismo emissor do atestado de equivalência que acompanha o produto em causa da lista constante do Anexo I do presente regulamento.\n\n5. As comunicações referidas nos n.^os^ 2 e 4 devem ser efetuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/e1685f07-e274-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "c07fd640ed1e82d6": {
+   "fragment_id": "ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA",
+   "type": "divisao",
+   "heading": "ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ORGANISMOS HABILITADOS A EMITIR ATESTADOS PARA"
+  },
+  "914d48219f10a80e": {
+   "fragment_id": "Lúpulo em cones Código NC: ex 12 10",
+   "type": "divisao",
+   "heading": "Lúpulo em cones Código NC: ex 12 10",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lúpulo em cones Código NC: ex 12 10"
+  },
+  "6b9d6ffcf739f740": {
+   "fragment_id": "Pós de lúpulo Código NC: ex 12 10",
+   "type": "divisao",
+   "heading": "Pós de lúpulo Código NC: ex 12 10",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Pós de lúpulo Código NC: ex 12 10"
+  },
+  "4bb5e7ebf167fc70": {
+   "fragment_id": "Sucos e extratos de lúpulo Código NC: 1302 13 00",
+   "type": "divisao",
+   "heading": "Sucos e extratos de lúpulo Código NC: 1302 13 00",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Sucos e extratos de lúpulo Código NC: 1302 13 00\n\n| País de origem | Organismos habilitados | Endereço | Código | Telefone | Fax | Endereço eletrónico (facultativo) |\n| --- | --- | --- | --- | --- | --- | --- |\n| (AR) Argentina | Coordinación Regional Temática de Protección Vegetal (CRTPV) Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) Centro Regional Patagonia Norte | Calle 9 de Julio 933. General Roca, Provincia de Río Negro, Cod 8334 | (54-298) | 44 28 594 44 32 190 | 44 28 594 44 32 190 | groca@senasa.gov.ar cpaulovich@senasa.gov.ar jesparza@senasa.gov.ar |\n| Servicio Nacional de Sanidad y Calidad Agroalimentaria (SENASA) | Av. Pasco Colon 367 Ciudad Aut. de Buenos Aires, C1063ACD | (54-11) | 41 21 50 00 | 41 21 50 00 | webmaster@senasa.gob.ar cdei@senasa.gob.ar |  |\n| (AU) Austrália | Biosecurity Tasmania -Department of Primary Industries, Parks, Water and Environment | 13 St John’s Avenue, New Town TAS 7008 Hobart TAS 7000, Australia | (61-3) | 62 33 33 52 | 03 6165 3777 | Biosecurity.Tasmania@dpipwe.tas.gov.au ou Export.Enquiries.Tas@dpipwe.tas.gov.au |\n| (CA) Canadá | Pacific Agricultural Certification Society (PACS) | 3402 32nd Avenue, Vernon, British Columbia, Canada, V1T2N1 | (1-613) | 1-250- 558-7927 | 1- 250-558-7947 | admin@pacscertifiedorganic.ca |\n| (CH) Suíça | Labor Veritas | Engimattstrasse 11, Postfach 353, CH-8027 Zürich | (41-44) | 283 29 30 | 201 42 49 | admin@laborveritas.ch |\n| (CN) China | Tianjin Airport Entry-Exit Inspection and Quarantine Bureau of the People’s Republic of China | N.º 33 Youyi Road, Hexi District Tianjin 300201 | (86-22) | 28 13 40 78 | 28 13 40 78 | ciqtj2002@163.com |\n| Tianjin Economic and Technical Development Zone Entry-Exit Inspection and Quarantine Bureau of the People’s Republic of China | N.º 8, Zhaofaxincun 2nd Avenue, TEDA Tianjin 300457 | (86-22) | 662 98-343 | 662 98-245 | zhujw@tjciq.gov.cn |  |\n| Inner Mongolia Entry-Exit Inspection and Quarantine Bureau of the People’s Republic of China | N.º 12 Erdos Street, Saihan District, Huhhot City Inner Mongólia 010020 | (86-471) | 434-1943 | 434-2163 | zhaoxb@nmciq.gov.cn |  |\n| Xinjiang Entry-Exit Inspection and Quarantine Bureau of the People’s Republic of China | N.º 116 North Nanhu Road Urumqi City Xinjiang 830063 | (86-991) | 464-0057 | 464-0050 | xjciq_jw@xjciq.gov.cn |  |\n| (NZ) Nova Zelândia | Ministry for Primary Industries | P.O. Box 2526, Wellington 6140 | (64-4) | 830 1574 | 894 0300 |  |\n| (RS) Sérvia | Institut za ratarstvo i povrtarstvo/ Institute of Field and Vegetable Crops | 21000 Novi Sad Maksima Gorkog 30. | (381-21) | 780 365 Operador: 4898 100 | 780 198 | institut@ifvcns.ns.ac.rs |\n| (UA) Ucrânia | Productional-Technical Centre (PTZ) Ukrhmel | Hlebnaja 27262028 Zhitomir | (380) | 37 21 11 | 36 73 31 |  |\n| (GB) Reino Unido [(^1^)](http://publications.europa.eu/resource/cellar/e1685f07-e274-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0002) | Rural Payments Agency (RPA) | Lancaster House, Hampshire Court, Newcastle upon Tyne, NE4 7YH Reino Unido | (44) | 3300 416 500 | - | hops.exports@rpa.gov.uk |\n| (US) Estados Unidos | Washington Department of Agriculture State Chemical and Hop Lab | 21 N. 1st Ave. Suite 106 Yakima, WA 98902 | (1-509) | 225 76 26 | 454 76 99 |  |\n| Idaho Department of Agriculture Division of Plant Industries Hop Inspection Lab | 2270 Old Penitentiary Road P.O. Box 790 Boise, ID 83701 | (1-208) | 332 86 20 | 334 22 83 |  |  |\n| Oregon Department of Agriculture Commodity Inspection Division | 635 Capital Street NE Salem, OR 97310-2532 | (1-503) | 986 46 20 | 986 47 37 |  |  |\n| California Department of Food and Agriculture (CDFA-CAC) Division of Inspection Services Analytical Chemistry Laboratory | 3292 Meadowview Road Sacramento, CA 95832 | (1-916) | 445 00 29 ou 262 14 34 | 262 15 72 |  |  |\n| USDA, GIPSA, FGIS | 1100 NW Naito Parkway Portland, OR 97209-2818 | (1-503) | 326 78 87 | 326 78 96 |  |  |\n| USDA, GIPSA, TSD, Tech Service Division, Technical Testing Laboratory | 10383 Nth Ambassador Drive Kansas City, MO 64153-1394 | (1-816) | 891 04 01 | 891 04 78 |  |  |\n| (ZA) África do Sul | CSIR Food Science and Technology | PO Box 3950001 Pretoria | (27-12) | 841 31 72 | 841 35 94 |  |\n| (ZW) Zimbabué | Standards Association of Zimbabwe (SAZ) | Northend Close, Northridge Park Borrowdale, P.O. Box 2259 Harare | (263-4) | 88 20 17, 88 20 21, 88 55 11 | 88 20 20 | info@saz.org.zw saz.org.zw |\n| (^1^) Em conformidade com o Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica, nomeadamente o artigo 5.º, n.º 4, do Protocolo relativo à Irlanda/Irlanda do Norte, em conjugação com o seu anexo 2, para efeitos do presente anexo, as referências ao Reino Unido não incluem a Irlanda do Norte. |  |  |  |  |  |  |"
+  },
+  "489428affc2fc7d9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e1685f07-e274-11ec-a534-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 792/2009 da Comissão, de 31 de agosto de 2009, que estabelece normas pormenorizadas para a notificação pelos Estados-Membros à Comissão de informações e documentos, em aplicação da organização comum dos mercados, do regime dos pagamentos diretos, da promoção dos produtos agrícolas e dos regimes aplicáveis às regiões ultraperiféricas e às ilhas menores do mar Egeu (JO L 228 de 1.9.2009, p. 3)."
+  }
+ }
+}

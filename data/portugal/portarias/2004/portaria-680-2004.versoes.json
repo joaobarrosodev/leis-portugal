@@ -1,0 +1,1057 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:272605:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-990181804",
+ "dre_path": "/dr/detalhe/portaria/680-2004-272605",
+ "source_lastmod": "2026-02-24",
+ "versions": [
+  {
+   "date": "2005-02-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:618148:por",
+     "title": "Portaria n.º 159/2005",
+     "published": "2005-02-09",
+     "dre_path": "/dr/detalhe/portaria/159-2005-618148"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "990328175",
+    "1029684161",
+    "1029684162",
+    "990328375",
+    "990328575",
+    "1060449475",
+    "1060449675",
+    "1060449875",
+    "1060458875",
+    "1060450275",
+    "1060459075",
+    "1060450675",
+    "1060459275",
+    "1060459475",
+    "1060459675",
+    "1060459875",
+    "1060451675",
+    "1060451875",
+    "1060583775",
+    "1060452275",
+    "1060460275",
+    "1060460475",
+    "1060452875",
+    "1060453075",
+    "1060453275",
+    "1060453475",
+    "1060453675",
+    "1060453875",
+    "1060455575",
+    "1060455775",
+    "1060457275",
+    "1060456775",
+    "1060457475",
+    "1060457675",
+    "1060457875",
+    "1060458075",
+    "1060458275",
+    "1060458475"
+   ]
+  },
+  {
+   "date": "2009-10-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483123:por",
+     "title": "Portaria n.º 1367/2009",
+     "published": "2009-10-27",
+     "dre_path": "/dr/detalhe/portaria/1367-2009-483123"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 20.º",
+    "Altera Anexo X"
+   ],
+   "fragments": [
+    "990328175",
+    "1029684161",
+    "1029684162",
+    "990328375",
+    "990328575",
+    "1060449475",
+    "1060449675",
+    "1060449875",
+    "1060458875",
+    "1060450275",
+    "1060459075",
+    "1060450675",
+    "1062687875",
+    "1060459475",
+    "1062692175",
+    "1062692375",
+    "1062690075",
+    "1062692575",
+    "1062692775",
+    "1062687075",
+    "1062687275",
+    "1062692975",
+    "1062693175",
+    "1062690275",
+    "1062687475",
+    "1062693375",
+    "1060453675",
+    "1062693575",
+    "1060455575",
+    "1060455775",
+    "1060457275",
+    "1060456775",
+    "1060457475",
+    "1060457675",
+    "1060457875",
+    "1060458075",
+    "1060458275",
+    "1062687675"
+   ]
+  },
+  {
+   "date": "2012-10-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175811:por",
+     "title": "Portaria n.º 301/2012",
+     "published": "2012-10-02",
+     "dre_path": "/dr/detalhe/portaria/301-2012-175811"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Anexo VIII"
+   ],
+   "fragments": [
+    "990328175",
+    "1029684161",
+    "1029684162",
+    "990328375",
+    "990328575",
+    "1062749775",
+    "1062749875",
+    "1062749975",
+    "1062750075",
+    "1062750175",
+    "1062750275",
+    "1062750375",
+    "1062750475",
+    "1062750575",
+    "1062750675",
+    "1062750775",
+    "1062750875",
+    "1062750975",
+    "1062751075",
+    "1062751175",
+    "1062751275",
+    "1062751375",
+    "1062751475",
+    "1062751575",
+    "1062751675",
+    "1062751775",
+    "1062751875",
+    "1062749575",
+    "1062751975",
+    "1062752075",
+    "1062752175",
+    "1062752275",
+    "1062752375",
+    "1062752475",
+    "1062752575",
+    "1062752675",
+    "1062752775",
+    "1062752875"
+   ]
+  },
+  {
+   "date": "2014-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570751:por",
+     "title": "Portaria n.º 32/2014",
+     "published": "2014-02-06",
+     "dre_path": "/dr/detalhe/portaria/32-2014-570751"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Revoga Artigo 20.º",
+    "Revoga Anexo IX",
+    "Revoga Anexo X"
+   ],
+   "fragments": [
+    "990328175",
+    "1029684161",
+    "1029684162",
+    "990328375",
+    "990328575",
+    "1062749775",
+    "1062749875",
+    "1062749975",
+    "1062750075",
+    "1062750175",
+    "1062750275",
+    "1062750375",
+    "1062750475",
+    "1062750575",
+    "1062750675",
+    "1062750775",
+    "1062750875",
+    "1062750975",
+    "1062751075",
+    "1062751175",
+    "1063802075",
+    "1062751375",
+    "1062751475",
+    "1062751575",
+    "1063802275",
+    "1062751775",
+    "1062751875",
+    "1062749575",
+    "1062751975",
+    "1062752075",
+    "1062752175",
+    "1062752275",
+    "1062752375",
+    "1062752475",
+    "1062752575",
+    "1062752675",
+    "1063802475",
+    "1063804675"
+   ]
+  }
+ ],
+ "fragments": {
+  "990328175": {
+   "fragment_id": "990328075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Atendendo à necessidade da melhoria da aplicação e execução da intervenção «Florestação de terras agrícolas» do Plano de Desenvolvimento Rural, abreviadamente designado por RURIS, foi proposta à Comissão Europeia uma alteração do referido Plano, nomeadamente no que se refere a esta intervenção.\n\nTornando-se necessário proceder à alteração do Regulamento de Aplicação da Intervenção Florestação de Terras Agrícolas, por forma a contemplar as propostas aprovadas pela Comissão Europeia, bem como clarificar algumas definições e matérias constantes do citado Regulamento e alterar algumas normas relativas ao processo de tramitação e concessão das ajudas, foi publicada a Portaria n.º 283/2004, de 17 de Março.\n\nVerificou-se, no entanto, que as regras gerais de aplicação do citado Plano de Desenvolvimento Rural vieram a ser alteradas de forma significativa, já em data posterior à da entrada em vigor do novo Regulamento, com a publicação do Decreto-Lei n.º 64/2004, de 22 de Março.\n\nTorna-se, assim, necessário adequar o novo Regulamento às novas regras gerais.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 64/2004, de 22 de Março:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:"
+  },
+  "1029684161": {
+   "fragment_id": "1033035859",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovado o Regulamento de Aplicação da Intervenção Florestação de Terras Agrícolas, do Plano de Desenvolvimento Rural, abreviadamente designado por RURIS, em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "1029684162": {
+   "fragment_id": "1033035860",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nÉ revogada a Portaria n.º 283/2004, de 17 de Março."
+  },
+  "990328375": {
+   "fragment_id": "990328275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto, em 31 de Maio de 2004."
+  },
+  "990328575": {
+   "fragment_id": "990328475",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO DA INTERVENÇÃO FLORESTAÇÃO DE TERRAS AGRÍCOLAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO DA INTERVENÇÃO FLORESTAÇÃO DE TERRAS AGRÍCOLAS"
+  },
+  "1060449475": {
+   "fragment_id": "1060445375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação da intervenção «Florestação de terras agrícolas» do Plano de Desenvolvimento Rural, abreviadamente designado por RURIS."
+  },
+  "1060449675": {
+   "fragment_id": "1060449575",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nO regime de ajudas instituído pelo presente Regulamento tem os seguintes objectivos:\n\na) Promover a expansão florestal em terras agrícolas com arborizações de qualidade e ambientalmente bem adaptadas;\n\nb) Aumentar a diversidade e oferta de madeiras de qualidade, cortiça e outros produtos não lenhosos;\n\nc) Contribuir para a reabilitação de terras degradadas e para a mitigação dos efeitos da desertificação, favorecendo a recuperação da fertilidade dos solos e a regularização dos recursos hidrológicos;\n\nd) Promover a diversificação de actividades nas explorações agrícolas, reforçando a sua multifuncionalidade;\n\ne) Introduzir benefícios sócio-económicos no meio rural."
+  },
+  "1060449875": {
+   "fragment_id": "1060449775",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente Regulamento, entende-se por:\n\na) «Agricultor» a pessoa singular que dedique, no mínimo, 25% do seu tempo total de trabalho à actividade agrícola e dela obtenha, pelo menos, 25% do seu rendimento, entendendo-se não reunir estes requisitos toda a pessoa que exerça uma actividade que ocupe mais de 75% do horário profissional de trabalho, que, em condições normais, caberia ao trabalhador a tempo inteiro dessa profissão, e a pessoa colectiva que, nos termos do respectivo estatuto, tem exclusivamente por objecto a actividade agrícola e cujos administradores ou gerentes, obrigatoriamente pessoas singulares e sócios da pessoa colectiva, detentores de, pelo menos, 10% do capital social, reúnem as condições anteriormente estabelecidas para as pessoas singulares;\n\nb) «Área agrupada» o conjunto de superfícies agrícolas pertencentes a, pelo menos, dois titulares, desde que se encontrem reunidas as seguintes condições:\n\ni) Seja objecto de um plano de gestão comum durante, pelo menos, o período de atribuição do prémio por perda de rendimento, mas nunca por período inferior a 10 anos;\n\nii) Tenha uma área mínima contínua de 5 ha;\n\niii) Nenhum dos titulares detenha mais de 75% da superfície total;\n\nc) «Áreas contínuas» os prédios ou partes de prédios confinantes ou que se encontrem separados por caminhos, estradas ou linhas de água;\n\nd) «Auto de acompanhamento e avaliação do projecto» a confirmação das condições de atribuição do prémio à manutenção e aferição do cumprimento do plano de gestão (PG) do projecto no decurso do período de atribuição do prémio por perda de rendimento, com vista a avaliar a eficácia da aplicação das ajudas atribuídas;\n\ne) «Auto de fecho do projecto» a comprovação da efectiva realização material do investimento e apreciação técnica da obra realizada, avaliada em termos qualitativos (viabilidade do povoamento) e quantitativos (auto de medição do projecto), no fim do período de instalação ou dois anos após aquele período no caso dos organismos da administração central e local;\n\nf) «Espécie principal em povoamentos mistos» a espécie objectivo de revolução mais longa que, de facto, corresponde à espécie de maior longevidade e maior importância;\n\ng) «Estabelecimento do povoamento» o período da instalação do povoamento, acrescido do intervalo de tempo durante o qual são realizados os trabalhos de manutenção necessários à respectiva consolidação;\n\nh) «Instalação do povoamento» o período que decorre desde o início dos trabalhos de mobilização do terreno até à retancha ou, quando esta não seja necessária, até um ano após o início da plantação;\n\ni) «Livro de obra» o livro subscrito pelo beneficiário, pelo técnico responsável pelo acompanhamento da execução do projecto e pelo prestador de serviços, no qual são inscritos todos os dados relativos à execução do investimento, etapa a etapa, bem como o averbamento de todas as visitas efectuadas pelas entidades competentes;\n\nj) «Povoamentos mistos» os povoamentos florestais constituídos utilizando mais de uma espécie e instalados pé a pé, linha a linha, faixa a faixa ou por manchas e em que nenhuma das espécies em presença atinge 75% do povoamento;\n\nl) «Superfície agrícola» toda a área que nos últimos 10 anos tenha sido objecto de uma utilização agrícola regular, incluindo pousios até 6 anos e pastagens naturais com um encabeçamento mínimo de 0,15 cabeças normais (CN) em que, existindo árvores florestais, a projecção horizontal das suas copas seja inferior a 15% da área total e, quando tiverem altura entre 2 m e 5 m no caso das folhosas ou 1,5 m e 5 m no caso das resinosas, a sua densidade seja inferior às constantes do anexo I, atestada pelas direcções regionais de agricultura."
+  },
+  "1060458875": {
+   "fragment_id": "1060449975",
+   "type": 11,
+   "heading": "Artigo 4.º — Investimentos elegíveis",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 4.º — Investimentos elegíveis\n\n1 - Podem ser concedidas ajudas aos seguintes investimentos:\n\na) Arborização de superfícies agrícolas;\n\nb) Construção e beneficiação de infra-estruturas, quando complementares do investimento referido na alínea anterior.\n\nc) Rearborização de áreas ardidas, por causa não imputável ao promotor do investimento, em superfícies anteriormente arborizadas ao abrigo do presente regime de ajudas e dos Regulamentos (CEE) n.os 2328/91 e 2080/92, durante o período de atribuição do prémio por perda de rendimento.\n\n2 - Para efeitos das alíneas a) e c) do número anterior, são elegíveis as espécies constantes do anexo II.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1060450275": {
+   "fragment_id": "1060450175",
+   "type": 11,
+   "heading": "Artigo 5.º — Investimentos excluídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Investimentos excluídos\n\nNão são concedidas ajudas aos seguintes investimentos:\n\na) Plantação de árvores de Natal;\n\nb) Arborização de áreas com as utilizações e condições definidas pelo despacho n.º 6205/2001, de 12 de Março, do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, publicado no Diário da República, 2.ª série, n.º 74, de 28 de Março de 2001;\n\nc) Arborização em terrenos de uso agrícola beneficiados por obras de fomento hidroagrícola ou em terrenos para os quais haja projectos de execução já aprovados, com excepção dos solos das classes V, VI e VII de aptidão ao regadio, nas condições estabelecidas no Decreto Regulamentar n.º 84/82, de 4 de Novembro;\n\nd) Arborização de áreas que integrem perímetros de emparcelamento, nos termos dos Decretos-Leis n.os 384/88, de 25 de Outubro, e 103/90, de 2 de Março, excepto quando incide sobre uma área destinada a utilização florestal no plano de uso do solo do projecto de emparcelamento aprovado e tenha um parecer favorável do Instituto de Desenvolvimento Rural e Hidráulica."
+  },
+  "1060459075": {
+   "fragment_id": "1060450375",
+   "type": 11,
+   "heading": "Artigo 6.º — Prémios à manutenção e por perda de rendimento",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 6.º — Prémios à manutenção e por perda de rendimento\n\n1 - No âmbito do presente Regulamento, podem ainda ser concedidos os seguintes prémios:\n\na) Prémio à manutenção, durante o período máximo de cinco anos, destinado a cobrir as despesas decorrentes das operações de manutenção das superfícies arborizadas ou rearborizadas constantes do projecto de investimento;\n\nb) Prémio por perda de rendimento, durante um período máximo de 20 anos, destinado a compensar a perda de rendimentos decorrente da arborização de superfícies agrícolas.\n\n2 - No caso a que se refere a alínea c) do n.º 1 do artigo 4.º o prémio por perda de rendimento é pago, pelo período remanescente, nos termos da legislação ali referida.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1060450675": {
+   "fragment_id": "1060450575",
+   "type": 11,
+   "heading": "Artigo 7.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Beneficiários\n\n1 - Podem beneficiar das ajudas previstas no presente Regulamento os:\n\na) Agricultores;\n\nb) Órgãos de administração dos baldios;\n\nc) Organismos da administração central e local;\n\nd) Outros titulares de superfícies agrícolas.\n\n2 - Os beneficiários referidos no número anterior, com excepção dos organismos da administração central, podem, individual ou conjuntamente, cometer a apresentação e execução do projecto, incluindo o estabelecimento do povoamento, às seguintes entidades:\n\na) Associações de produtores florestais e agrícolas;\n\nb) Cooperativas de produtores florestais ou agrícolas;\n\nc) Entidades gestoras de fundos imobiliários florestais.\n\n3 - As ajudas à arborização com espécies de crescimento rápido a explorar em revoluções inferiores a 20 anos aplicam-se apenas quando os beneficiários sejam agricultores.\n\n4 - As ajudas à arborização de superfícies agrícolas pertencentes a organismos da administração central e local abrangem apenas as ajudas ao investimento e uma ajuda, durante dois anos, para consolidação do povoamento.\n\n5 - Não podem candidatar-se ao regime de ajudas previsto neste Regulamento os beneficiários do regime de ajudas à reforma antecipada."
+  },
+  "1060459275": {
+   "fragment_id": "1060450775",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições de acesso",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 8.º — Condições de acesso\n\n1 - Os projectos de investimento devem reunir as seguintes condições:\n\na) Incidirem sobre uma área mínima de 0,50 ha e uma área máxima de 250 ha;\n\nb) Integrarem um plano de gestão florestal;\n\nc) Não terem início antes da apresentação da candidatura;\n\nd) Serem elaborados por um técnico com formação académica na área das ciências silvícolas ou agronómicas de grau igual ou superior a bacharel ou ainda com outras formações de nível superior desde que com experiência profissional comprovada na área florestal há mais de cinco anos, caso incidam sobre uma área superior a 20 ha.\n\n2 - Aos projectos de arborização que revistam a forma de projectos simplificados de investimento, previstos no n.º 2 do artigo 12.º, não se aplica o limite mínimo de área referido na alínea a) do n.º 1.\n\n3 - No caso dos projectos de investimento relativos a áreas agrupadas ou apresentados por entidades gestoras de fundos imobiliários florestais, não se aplica o limite máximo de área referido na alínea a) do n.º 1.\n\n4 - Quando se trate de projectos de arborização integrando espécies de crescimento rápido a explorar em revoluções inferiores a 20 anos, as áreas máximas contínuas destas espécies são as que constam do anexo III.\n\n5 - Os projectos de investimento podem ser iniciados logo após a apresentação das candidaturas, à excepção dos investimentos que recorram às ajudas previstas na alínea c) do n.º 1 do artigo 4.º ou nos n.os 5 e 6 do artigo 10.º, que não poderão ser iniciados antes da vistoria a realizar pelo Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), não derivando, em ambos os casos, qualquer compromisso de aprovação da candidatura.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1060459475": {
+   "fragment_id": "1060450975",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis e custos máximos",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis e custos máximos\n\n1 - No âmbito da ajuda aos investimentos são elegíveis as seguintes despesas:\n\na) Arborização e rearborização:\n\ni) Instalação de povoamentos florestais, através de sementeira ou plantação, incluindo a constituição de cortinas de abrigo ou aproveitamento da regeneração natural;\n\nii) Instalação de protecções individuais para melhorar as condições microclimáticas ou quando se torne necessário conciliar a arborização com a existência de fauna selvagem;\n\niii) Instalação de cercas para protecção dos povoamentos contra a acção do gado e ou da fauna selvagem, quando se torne necessário conciliar as duas actividades;\n\nb) Infra-estruturas:\n\ni) Construção e beneficiação de rede viária e construção de rede divisional próprias ou integrando redes existentes dentro e fora da área de intervenção, incluindo acessos à exploração, de acordo com as condições constantes do anexo IV;\n\nii) Construção de pontos de água, nos termos do anexo V;\n\niii) Beneficiação de outras infra-estruturas existentes, designadamente estruturas de suporte de terras, para prevenção da erosão, regularização dos recursos hídricos ou preservação da paisagem;\n\nc) Elaboração, acompanhamento da execução do projecto e cartografia digital;\n\nd) Despesas com a constituição de garantias, quando exigidas no quadro da análise de risco, até ao limite de 2% do montante total das despesas elegíveis.\n\n2 - As despesas indicadas nas subalíneas ii) e iii) da alínea a) e nas alíneas b), c) e d) do número anterior apenas são elegíveis quando integradas em projectos de investimento visando a arborização de superfícies agrícolas ou a rearborização de áreas ardidas referida na alínea c) do n.º 1 do artigo 4.º e a sua manutenção.\n\n3 - Os custos máximos das despesas elegíveis referidas nas alíneas a) e b) do n.º 1 encontram-se estabelecidos no despacho n.º 8147/2001, de 5 de Abril, do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, publicado no Diário da República, 2.ª série, n.º 92, de 19 de Abril de 2001.\n\n4 - No caso de projectos simplificados de investimento previstos no n.º 2 do artigo 12.º apenas são elegíveis as despesas previstas nas alíneas a) e c) do n.º 1, sendo atribuída uma ajuda forfetária cujo valor fixo por operação será estabelecido por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n5 - O custo máximo elegível com a elaboração, acompanhamento da execução do projecto e cartografia digital é de 12% das despesas elegíveis no âmbito das alíneas a) e b) do n.º 1, até ao limite de (euro) 3242 ou de (euro) 1600, no caso dos projectos referidos no número anterior.\n\n6 - A ajuda à arborização com espécies de crescimento rápido a explorar em revoluções inferiores a 20 anos abrange apenas as ajudas ao investimento.\n\n7 - O total dos custos elegíveis respeitantes às infra-estruturas previstas na alínea b) do n.º 1 não pode ser superior a 15% das despesas elegíveis no âmbito da alínea a) do mesmo número.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1060459675": {
+   "fragment_id": "1060451175",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma e valor das ajudas",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 10.º — Forma e valor das ajudas\n\n1 - As ajudas aos investimentos previstas neste Regulamento são atribuídas sob a forma de compensações financeiras não reembolsáveis, de acordo com os seguintes valores:\n\na) 100% das despesas elegíveis quando se trate de organismos da administração central e local e órgãos de administração dos baldios;\n\nb) 85% das despesas elegíveis, quando se trate de áreas agrupadas;\n\nc) 90% das despesas elegíveis, quando de trate de projectos de áreas agrupadas apresentados e executados pelas entidades referidas no n.º 2 do artigo 7.º;\n\nd) 75% das despesas elegíveis, quando se trate de agricultores;\n\ne) 60% das despesas elegíveis, quando se trate de outro tipo de beneficiários;\n\nf) 40% das despesas elegíveis, quando se trate de espécies exploradas em revoluções inferiores a 20 anos integradas em projectos apresentados por agricultores.\n\n2 - O montante das ajudas ao investimento calculado nos termos do número anterior, com excepção da alínea a), é majorado uma só vez em 10%, quando mais de 50% da área de intervenção do projecto se insira em áreas da Rede Nacional de Áreas Protegidas (RNAP), zonas de protecção especial (ZPE) e sítios da Lista Nacional de Sítios, com planos de ordenamento aprovados, quando previstos nos termos da lei e desde que sejam objecto de um parecer positivo da entidade gestora da área.\n\n3 - A ajuda para consolidação do povoamento prevista no n.º 4 do artigo 7.º é atribuída em função das despesas realizadas e até aos montantes máximos constantes do anexo VI.\n\n4 - O prémio à manutenção é atribuído, sob a forma de compensação financeira não reembolsável, durante um período de cinco anos de acordo com os valores constantes do anexo VI.\n\n4 - O prémio à manutenção é atribuído, sob a forma de compensação financeira não reembolsável, durante um período de cinco anos após a arborização ou rearborização de acordo com os valores constantes do anexo VI.\n\n5 - No caso da ocorrência de incêndios que afectem as arborizações realizadas, que sejam objecto de comunicação ao IFADAP nos termos do n.º 3 do artigo 16.º, pode ser atribuído um prémio à manutenção complementar para reposição do potencial produtivo, relativo à parte da área afectada, no valor de 100% do valor do prémio de manutenção.\n\n6 - Em anos de calamidade que afectem as arborizações realizadas poderá ser atribuído um prémio complementar à manutenção, para recuperação e consolidação do povoamento, de valor proporcional à severidade dos danos e até 100% do valor do prémio de manutenção, nos termos e condições a fixar em portaria do Ministério da Agricultura, Desenvolvimento Rural e Pescas.\n\n7 - O prémio por perda de rendimento é atribuído aos beneficiários referidos nas alíneas a), b) e d) do n.º 1 do artigo 7.º sob a forma de compensação financeira não reembolsável no valor e pelo período constantes, respectivamente, nos anexos VII e VIII.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1060459875": {
+   "fragment_id": "1060451375",
+   "type": 11,
+   "heading": "Artigo 11.º — Limites à aprovação de projectos",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 11.º — Limites à aprovação de projectos\n\n1 - Os beneficiários podem apresentar mais de um projecto de investimento, não podendo o segundo, ou os projectos subsequentes, ser formalizado sem que o anterior esteja concluído, excepto no caso de projectos visando a rearborização de áreas ardidas prevista na alínea c) do n.º 1 do artigo 4.º\n\n2 - Para efeitos do número anterior, entende-se por conclusão a aprovação do auto de fecho do projecto.\n\n3 - Quando ocorra a destruição total ou parcial, os beneficiários podem apresentar projecto para reposição do potencial produtivo no prazo de dois anos, notificando o IFADAP dessa intenção e podendo para o efeito recorrer às ajudas previstas na alínea c) do n.º 1 do artigo 4.º ou nos n.os 5 e 6 do artigo 10.º, em função da dimensão dos danos e consoante a causa da destruição.\n\n4 - No caso dos incêndios ocorridos no ano de 2003 que tenham afectado as arborizações realizadas, o prazo previsto no número anterior é de três anos.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1060451675": {
+   "fragment_id": "1060451575",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação junto do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) do formulário próprio, acompanhado de todos os documentos nele solicitados.\n\n2 - Os projectos de investimento que incidam em área igual ou inferior a 20 ha podem revestir a forma de projecto simplificado de investimento."
+  },
+  "1060451875": {
+   "fragment_id": "1060451775",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise das candidaturas\n\n1 - A análise das candidaturas compete ao IFADAP.\n\n2 - A análise das candidaturas, com vista a determinar a respectiva elegibilidade, faz-se tendo em conta os seguintes critérios:\n\na) Adaptação das espécies às condições locais;\n\nb) Compatibilidade com o meio ambiente;\n\nc) Normas técnicas de silvicultura;\n\nd) Equilíbrio entre a silvicultura e a fauna bravia;\n\ne) Respeito das boas práticas florestais definidas no anexo IX;\n\nf) Conformidade com os instrumentos de protecção da floresta contra incêndios;\n\ng) Compatibilidade das áreas objecto da intervenção com o disposto na alínea b) do artigo 5.º\n\n3 - A partir da publicação dos planos regionais de ordenamento florestal, a apreciação das candidaturas deve ter em conta as respectivas normas."
+  },
+  "1060583775": {
+   "fragment_id": "1060451975",
+   "type": 11,
+   "heading": "Artigo 14.º — Decisão das candidaturas",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 14.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao IFADAP.\n\n2 - As candidaturas são decididas no prazo máximo de 90 ou 120 dias a contar da data da respectiva apresentação, consoante se trate de projectos simplificados de investimento ou de outros projectos, findo o qual, na ausência de uma decisão, as candidaturas consideram-se tacitamente aprovadas.\n\n3 - O disposto no número anterior não se aplica quando se verifique que os compromissos assumidos para o período de 2000 a 2006 resultantes das candidaturas já aprovadas representam, pelo menos, 80% da cobertura orçamental total da intervenção.\n\n4 - Quando se verifique a situação referida no número anterior, a aprovação de candidaturas faz-se de acordo com critérios de hierarquização e nas condições a definir por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n5 - O disposto no n.º 2 quanto à aprovação tácita não se aplica às candidaturas respeitantes à rearborização de áreas afectadas por incêndios a que se refere a alínea c) do n.º 1 do artigo 4.º\n\n6 - São recusadas as candidaturas que não reúnam as condições decorrentes da aplicação do presente Regulamento e as que vierem a ser excluídas por motivos de cobertura orçamental.\n\n7 - Se as candidaturas apresentarem alguma deficiência ou insuficiência, os interessados serão convidados a suprir a mesma no prazo de 10 dias úteis, sob pena de as candidaturas serem recusadas, não havendo neste caso lugar à audiência prévia dos interessados.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1060452275": {
+   "fragment_id": "1060452175",
+   "type": 11,
+   "heading": "Artigo 15.º — Execução do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Execução do projecto\n\n1 - A execução material do projecto deve iniciar-se no prazo máximo de um ano a contar da data da decisão de aprovação da candidatura e estar concluída no prazo de tempo estabelecido na candidatura, não podendo este prazo ultrapassar três anos contados da data da decisão de aprovação da candidatura.\n\n2 - O início da execução do projecto deve ser comunicado, através do envio ao IFADAP do termo de abertura do livro de obra, com a antecedência mínima de 15 dias.\n\n3 - Em casos excepcionais e devidamente justificados, o IFADAP pode autorizar a prorrogação dos prazos referidos no n.º 1."
+  },
+  "1060460275": {
+   "fragment_id": "1060452375",
+   "type": 11,
+   "heading": "Artigo 16.º — Obrigações dos beneficiários",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 16.º — Obrigações dos beneficiários\n\n1 - Na execução do projecto, constituem, nomeadamente, obrigações dos beneficiários:\n\na) Cumprir as boas práticas florestais previstas no anexo IX, sem prejuízo do cumprimento de outras obrigações de natureza ambiental impostas por lei;\n\nb) Respeitar os objectivos específicos do projecto;\n\nc) Manter os povoamentos instalados e infra-estruturas associadas por um período mínimo de 10 anos ou, quando haja lugar à atribuição de prémio por perda de rendimento, durante o respectivo período de atribuição;\n\nd) Cumprir o plano de gestão florestal que integra a candidatura durante, pelo menos, o período de atribuição do prémio por perda de rendimento, mas nunca por período inferior a 10 anos;\n\ne) Respeitar as medidas cautelares a tomar para protecção das árvores e do solo, designadamente quando o controlo da vegetação espontânea for feito com recurso ao pastoreio com gado ovino, o qual só pode ter lugar após o período de atribuição do prémio à manutenção;\n\nf) Assegurar que, no ano seguinte ao da conclusão da instalação e durante o período de atribuição do prémio à manutenção, os povoamentos objecto de ajudas apresentem as densidades mínimas constantes do anexo VIII;\n\ng) Iniciar e concluir a execução do projecto nos prazos aprovados;\n\nh) Utilizar o livro de obra para acompanhamento e validação da execução dos investimentos, enviando ao IFADAP o termo de abertura do livro de obra com uma antecedência de 15 dias sobre o início dos trabalhos e o termo de encerramento no final dos mesmos;\n\ni) Apresentar a cartografia digital da área inter-vencionada até à conclusão da instalação e previamente à elaboração do auto de fecho do projecto, com excepção dos projectos simplificados.\n\n2 - Sem prejuízo do disposto no número anterior, os beneficiários ficam, ainda, obrigados a:\n\na) Aplicar integralmente a ajuda nos fins para que foi concedida;\n\nb) Respeitar integralmente os requisitos de concessão da ajuda.\n\n3 - Os casos de força maior que afectem a cabal realização do projecto de investimento ou que provoquem a destruição total ou parcial do povoamento devem ser comunicados por escrito ao IFADAP, no prazo máximo de 30 dias úteis a contar da data da ocorrência, indicando a extensão dos danos e juntando as respectivas provas, devendo, em caso de incêndio, ser apresentada declaração da Direcção-Geral dos Recursos Florestais (DGRF) que ateste a ocorrência e abrangendo a área do projecto.\n\n4 - No caso de atribuição de ajudas a uma área agrupada, cada um dos beneficiários responde solidariamente pelo cumprimento destas obrigações, nomeadamente pela pontual e integral execução do projecto de investimento e pelo plano de gestão florestal que dele faz parte integrante.\n\n5 - As densidades mínimas constantes do anexo VII em situações que assegurem a viabilidade do projecto podem ser excepcionadas por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1060460475": {
+   "fragment_id": "1060452575",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamentos",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 17.º — Pagamentos\n\n1 - Por efeito da decisão de aprovação da candidatura, o pagamento das ajudas previstas neste Regulamento é efectuado pelo IFADAP.\n\n2 - O beneficiário poderá solicitar ao IFADAP a concessão de adiantamentos até ao montante de 20% do custo total do investimento, mediante constituição de garantias bancárias autónomas e automáticas, à primeira solicitação, correspondente a 110% do montante do adiantamento.\n\n3 - O pagamento da ajuda ao investimento, incluindo a elaboração do projecto, fica condicionado à apresentação do termo de abertura do livro de obra.\n\n4 - Os pedidos de pagamento das ajudas aos investimentos devem ser acompanhados do livro de obra e, excepto quando se trate de projectos simplificados, dos comprovativos de despesa, ficando o pagamento da última parcela condicionado à aprovação do auto de fecho do projecto.\n\n5 - O pagamento da primeira anuidade do prémio à manutenção tem lugar no ano seguinte ao da conclusão da instalação, ficando condicionado à aprovação do auto de fecho do projecto, e o pagamento da última anuidade dependente da verificação do cumprimento das densidades mínimas.\n\n6 - O pagamento da primeira anuidade do prémio por perda de rendimento tem lugar no ano seguinte ao do início da instalação do povoamento.\n\n7 - No caso do prémio complementar à manutenção previsto nos n.os 5 e 6 do artigo 10.º, o pagamento é realizado numa única prestação, sendo, no caso previsto no n.º 5 do artigo 10.º, pago no ano em que ocorrer a comunicação.\n\n8 - As restantes anuidades do prémio por perda de rendimento após a conclusão da instalação ficam condicionadas à emissão do auto de acompanhamento e avaliação, a elaborar pelo menos de cinco em cinco anos, e às seguintes condições:\n\na) No período de atribuição do prémio à manutenção, sujeitas ao cumprimento das densidades mínimas constantes do anexo VIII;\n\nb) Nos períodos posteriores, sujeitas ao cumprimento do plano de gestão.\n\n9 - Quando parte do povoamento seja destruída por causas não imputáveis ao beneficiário, os prémios previstos no artigo 6.º do presente Regulamento continuam a ser pagos na parte respeitante à parcela que se mantenha em boas condições vegetativas.\n\n10 - Nos casos em que a cobertura orçamental anual não assegure a totalidade dos pagamentos no ano a que respeitam, serão os mesmos diferidos para a execução orçamental do ano seguinte.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1060452875": {
+   "fragment_id": "1060452775",
+   "type": 11,
+   "heading": "Artigo 18.º — Avaliação da execução do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Avaliação da execução do projecto\n\n1 - Compete ao IFADAP efectuar a avaliação técnica e qualitativa da execução dos projectos de investimento aprovados, com emissão do auto de fecho, assim como a emissão dos necessários e adequados autos de acompanhamento e avaliação do projecto.\n\n2 - A cartografia digital é objecto de validação no âmbito do auto de fecho do projecto."
+  },
+  "1060453075": {
+   "fragment_id": "1060452975",
+   "type": 11,
+   "heading": "Artigo 19.º — Recuperação de pagamentos indevidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Recuperação de pagamentos indevidos\n\nEm caso de pagamento indevido, o beneficiário deve reembolsar o montante em causa acrescido de juros à taxa legal calculados relativamente ao período decorrido entre a notificação ao beneficiário e o reembolso, podendo a recuperação desse montante ser efectuada em qualquer adiantamento ou pagamento, no âmbito do FEOGA-Garantia, processado pelo IFADAP ou pelo Instituto de Intervenção e Garantia Agrícola (INGA)."
+  },
+  "1060453275": {
+   "fragment_id": "1060453175",
+   "type": 11,
+   "heading": "Artigo 20.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Sanções\n\n1 - Quando em consequência de controlos administrativos ou no local, ou no âmbito da aprovação de auto de fecho, ou de autos de acompanhamento e avaliação, se verificarem divergências entre as áreas declaradas e as áreas determinadas aplica-se o disposto no Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril.\n\n2 - O incumprimento pelo beneficiário, em qualquer fase do projecto, de qualquer das boas práticas florestais a que se refere o anexo IX determina:\n\na) A suspensão dos pagamentos até à regularização da situação, o que deverá ocorrer no prazo máximo de um ano, sob pena do cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º;\n\nb) A redução de 10% do valor da ajuda ao investimento, se não for possível a regularização.\n\n3 - O incumprimento pelo beneficiário, em qualquer fase do projecto, de mais de uma das boas práticas florestais enumeradas no anexo IX determina:\n\na) A redução de 5% do valor da ajuda ao investimento e a suspensão dos pagamentos até à regularização da situação, o que deverá ocorrer no prazo máximo de um ano, sob pena do cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º;\n\nb) A redução de 10% do valor da ajuda ao investimento por cada boa prática florestal não cumprida, se não for possível a regularização.\n\n4 - Nas situações referidas nos n.os 2 e 3, a reincidência dá origem ao cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\n5 - Sem prejuízo do disposto nos números anteriores, no caso de incumprimento pelo beneficiário das obrigações referidas nas alíneas b) a i) do n.º 1 do artigo 16.º, aplicam-se as penalizações constantes do anexo X.\n\n6 - O incumprimento pelo beneficiário das obrigações constantes do n.º 2 do artigo 16.º determina o cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º"
+  },
+  "1060453475": {
+   "fragment_id": "1060453375",
+   "type": 11,
+   "heading": "Artigo 21.º — Cessão da posição contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cessão da posição contratual\n\n1 - Pode haver lugar à cessão da posição contratual desde que o cessionário reúna as condições exigidas para a atribuição da ajuda e a cessão seja previamente autorizada pelo IFADAP.\n\n2 - Em casos de cessão da posição contratual, cessa o pagamento do prémio por perda de rendimento.\n\n3 - O cedente da posição contratual não pode apresentar novas candidaturas ao abrigo do presente regime de ajudas durante um período de cinco anos."
+  },
+  "1060453675": {
+   "fragment_id": "1060453575",
+   "type": 11,
+   "heading": "Artigo 22.º — Sucessão por morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Sucessão por morte\n\nAs ajudas previstas no presente Regulamento são transmissíveis por morte dos beneficiários aos seus herdeiros, desde que estes manifestem, por escrito, a vontade de assumirem os compromissos daqueles."
+  },
+  "1060453875": {
+   "fragment_id": "1060453775",
+   "type": 11,
+   "heading": "Artigo 23.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Normas transitórias\n\n1 - O presente Regulamento é aplicável a todas as candidaturas formalizadas após 12 de Dezembro de 2002 e que não foram objecto de decisão, com a especialidade de os prazos referidos no n.º 2 do artigo 14.º serem contados a partir da data da entrada em vigor do presente Regulamento.\n\n2 - As candidaturas apresentadas antes de 12 de Dezembro de 2002 no âmbito da Portaria n.º 94-A/2001, de 9 de Fevereiro, e que ainda não foram objecto de decisão, devem ser reformuladas ao abrigo do disposto no presente Regulamento, no prazo de três meses após a sua entrada em vigor, sob pena de serem canceladas.\n\n3 - O disposto no artigo 17.º é de aplicação retroactiva, exceptuando o que respeita à primeira anuidade do prémio por perda de rendimento no caso dos projectos em que o ano seguinte ao início da instalação já decorreu.\n\n4 - No caso das candidaturas apresentadas no âmbito do Regulamento n.º 2080/92, por cessantes do regime de cessação de actividade instituído pelo Regulamento (CEE) n.º 2079/92, recepcionadas no IFADAP até 31 de Dezembro de 1999 e que não foram objecto de decisão, não será concedido o prémio por perda de rendimento a que se refere a alínea b) do artigo 6.º\n\n5 - Nos casos referidos no número anterior são elegíveis as despesas efectuadas após 6 de Janeiro de 2000."
+  },
+  "1060455575": {
+   "fragment_id": "1060455475",
+   "type": 14,
+   "heading": "Anexo I — Densidades mínimas dos povoamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Densidades mínimas dos povoamentos\n\n[a que se refere a alínea l) do artigo 3.º]\n\n(ver tabela no documento original)"
+  },
+  "1060455775": {
+   "fragment_id": "1060455675",
+   "type": 14,
+   "heading": "Anexo II — Espécies elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Espécies elegíveis\n\n(a que se refere o n.º 2 do artigo 4.º)\n\n1 - Espécies objectivo:\n\n(ver tabela no documento original)\n\n2 - Podem ser consideradas elegíveis outras espécies desde que adaptadas ecologicamente à estação e a sua percentagem não ultrapasse 20% da área do projecto.\n\n3 - O pinheiro-manso só será considerado espécie objectivo como espécie pioneira em áreas de elevada susceptibilidade à desertificação definidas no despacho n.º 24465/2000, do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, publicado no Diário da República, 2.ª série, n.º 276, de 29 de Novembro de 2000, e ou enquanto produção múltipla na zonagem definida pelo despacho n.º 10237/2001, do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas publicado no Diário da República, 2.ª série, n.º 113, de 16 de Maio de 2001.\n\n4 - Devem ser utilizadas espécies indígenas de Portugal continental e ainda espécies naturalizadas, constantes do anexo I do Decreto-Lei n.º 565/99, de 19 de Dezembro (excluindo as classificadas como invasoras), e as classificadas como de interesse para a arborização, listadas no anexo II do mesmo diploma."
+  },
+  "1060457275": {
+   "fragment_id": "1060457175",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III\n\nÁreas máximas contínuas\n\n(a que se refere o n.º 4 do artigo 8.º)\n\nEspécies de crescimento rápido exploradas em revoluções inferiores a 20 anos\n\n(ver tabela no documento original)\n\nNota. - Nas faixas adjacentes às linhas de água não deve proceder-se à instalação destas espécies, nos termos da Portaria n.º 528/89, de 11 de Julho."
+  },
+  "1060456775": {
+   "fragment_id": "1060456675",
+   "type": 14,
+   "heading": "Anexo IV — Densidades das redes viária e divisional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Densidades das redes viária e divisional\n\n[a que se refere a alínea i) da alínea b) do n.º 1 do artigo 9.º]\n\n(ver tabela no documento original)\n\nNota. - Para efeitos da determinação da densidade máxima elegível, é considerada a rede viária já existente na área de intervenção do projecto."
+  },
+  "1060457475": {
+   "fragment_id": "1060457375",
+   "type": 14,
+   "heading": "Anexo V — Número de pontos de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Número de pontos de água\n\n[a que se refere a alínea ii) da alínea b) do n.º 1 do artigo 9.º]\n\n(ver tabela no documento original)\n\nNota. - Para efeitos do número máximo de pontos de água elegível é considerado o número de pontos de água já existente na área de intervenção do projecto."
+  },
+  "1060457675": {
+   "fragment_id": "1060457575",
+   "type": 14,
+   "heading": "Anexo VI — Valor anual do prémio à manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Valor anual do prémio à manutenção\n\n(a que se referem os n.os 3 e 4 do artigo 10.º)\n\n(ver tabela no documento original)\n\nEm povoamentos mistos constituídos por espécies folhosas e resinosas, atribui-se o valor do prémio de manutenção definido para o grupo que represente mais de 50% do povoamento.\n\nO prémio previsto para as freguesias com elevada susceptibilidade à desertificação apenas é aplicável à área do povoamento situada nessas freguesias."
+  },
+  "1060457875": {
+   "fragment_id": "1060457775",
+   "type": 14,
+   "heading": "Anexo VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII\n\na que se refere o n.º 6 do artigo 10.º)\n\nValor anual do prémio por perda de rendimento\n\n(ver tabela no documento original)\n\nNíveis de majoração do prémio por perda de rendimento\n\n(ver tabela no documento original)\n\n1 - Os níveis de majoração são aplicados de acordo com as áreas de folhosas produtoras de madeira de elevada qualidade ou as áreas inseridas em freguesias de elevada susceptibilidade à desertificação e de forma não cumulativa.\n\n2 - No caso de povoamentos mistos que integrem folhosas produtoras de madeira de elevada qualidade, aplica-se a majoração definida para estas espécies, quando as mesmas representem mais de 50% do povoamento.\n\nNos restantes casos, apenas se aplica a majoração para a área ocupada pelas folhosas produtoras de madeira de elevada qualidade."
+  },
+  "1060458075": {
+   "fragment_id": "1060457975",
+   "type": 14,
+   "heading": "Anexo VIII — Período de atribuição do prémio por perda de rendimento e densidades mínimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — Período de atribuição do prémio por perda de rendimento e densidades mínimas\n\n[a que se referem o n.º 6 do artigo 10.º, a alínea f) do n.º 1 e o n.º 5 do artigo 16.º e a alínea a) do n.º 7 do artigo 17.º]\n\n(ver tabela no documento original)\n\n1 - A densidade mínima dos povoamentos mistos deve ser igual à densidade mínima definida para a espécie principal, devendo esta representar pelo menos 50% do povoamento.\n\n2 - Em povoamentos mistos, em que a espécie principal seja o sobreiro ou a azinheira, a densidade mínima total do povoamento deve ser de 600 árvores por hectare, devendo àquelas espécies corresponder, no mínimo, 300 árvores por hectare."
+  },
+  "1060458275": {
+   "fragment_id": "1060458175",
+   "type": 14,
+   "heading": "Anexo IX — Boas práticas florestais (ver nota 1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — Boas práticas florestais (ver nota 1)\n\n[a que se referem a alínea e) do n.º 2 do artigo 13.º e a alínea a) do n.º 1 do artigo 16.º]\n\nDurante, pelo menos, a vigência do plano de gestão, devem ser cumpridas as seguintes exigências mínimas ambientais:\n\n1 - Utilização de espécies e proveniências adaptadas à estação.\n\n2 - Utilização de plantas e ou sementes certificadas na instalação dos povoamentos para espécies constantes do Decreto-Lei n.º 205/2003, de 12 de Setembro, e respectiva regulamentação. Para as espécies pinheiro-bravo, pinheiro-manso, sobreiro e eucalipto-glóbulo só devem ser utilizadas plantas ou sementes das categorias «seleccionada», «qualificada» ou «testada».\n\n3 - Aproveitamento da regeneração natural existente na exploração a florestar, enquadrando-a nos objectivos do projecto sempre que se apresente em bom estado vegetativo.\n\n4 - Criação de faixas ou manchas de descontinuidade, preferencialmente ao longo das redes viária e divisional, das linhas de água e de cumeada e dos vales, utilizando, nomeadamente, espécies arbóreas ou arbustivas com baixa inflamabilidade e combustibilidade, comunidades herbáceas ou, ainda, mantendo a vegetação natural.\n\nEm arborizações monoespecíficas de resinosas ou folhosas de elevada combustibilidade, de superfície superior a 20 ha, as zonas de descontinuidade deverão representar pelo menos 15% da superfície total. Esta exigência não se aplica aos povoamentos constituídos por quercíneas autóctones.\n\n5 - Nas faixas de protecção às linhas de água, que deverão ter uma largura mínima de 10 m a partir do limite das margens do leito, efectuar, quando necessário, unicamente mobilizações de solo localizadas.\n\n6 - Conservação de maciços arbóreos, arbustivos e ou exemplares notáveis de espécies autóctones, principalmente os constantes da alínea c) do artigo 10.º do Decreto Regulamentar n.º 55/81, de 18 de Dezembro, e os classificados ao abrigo do Decreto-Lei n.º 28468, de 15 de Fevereiro de 1938, e legislação complementar.\n\n7 - Conservação de habitats classificados segundo a Directiva Habitats, florestais ou não.\n\n8 - As mobilizações do solo não localizadas devem ser executadas segundo as curvas de nível; no entanto, poderá a operação de ripagem não obedecer a essa regra, se seguida de uma operação final de vala e cômoro executada segundo as curvas de nível.\n\n9 - Em silvicultura de menores espaçamentos - entrelinhas (igual ou menor que) 4 m - e declives superiores a 20%, instalar uma cultura de cobertura ou manter a vegetação espontânea por um período mínimo de dois anos, através de faixas, dispostas em curva de nível, de acordo com uma das seguintes opções:\n\nManter em todas as entrelinhas uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com largura mínima de 0,5 m;\n\nManter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com largura mínima de 4 m.\n\n10 - Em silvicultura de maiores espaçamentos - entrelinhas (igual ou maior que) 4 m -, manter todas as entrelinhas por um período mínimo de dois anos, sem mobilização do solo ou, quando mobilizado, sem reviramento do solo, dispostas em curvas de nível, com largura mínima de 1 m, que preservem a vegetação espontânea.\n\n11 - Nas zonas de elevada susceptibilidade à desertificação aplicam-se as exigências 9 e 10. Nestas zonas, para qualquer declive, deve existir especial cuidado na protecção do solo contra a erosão, nomeadamente evitando o reviramento do solo e a sua permanência sem cobertura.\n\n12 - Utilizar apenas produtos fitofarmacêuticos (PFF) homologados pelo MADRP. É sempre obrigatória a conservação dos comprovativos de aquisição de PFF e fertilizantes.\n\n13 - Os PFF não se devem aplicar junto das linhas de captação de água, devendo o seu manuseamento e armazenamento efectuar-se em local seco e impermeabilizado, a uma distância mínima de 10 m de linhas ou captações de água.\n\n14 - Recolher os resíduos - embalagens (incluindo contentores de plantas, sacos de plástico, caixas diversas, etc.), restos de produtos, águas de lavagem de máquinas e óleos - dos locais de estação, de preparação dos produtos e das áreas de arborização para locais devidamente apropriados. Não queimar plásticos e borracha na exploração.\n\n15 - Não destruir locais de valor arqueológico, patrimonial ou cultural, bem como infra-estruturas tradicionais (muretes, poços, levadas, etc.) que contenham esses valores.\n\n16 - Em parceria com as autoridades competentes - autarquias, direcções regionais do ambiente, Instituto dos Resíduos -, proceder à remoção dos depósitos de entulhos e outros resíduos.\n\n(nota 1) Baseiam-se em objectivos ambientais que decorrem dos critérios de gestão florestal sustentável (GFS) aprovados no âmbito da Resolução L 2 da III Conferência Ministerial para a Protecção das Florestas (Lisboa, 1998)."
+  },
+  "1060458475": {
+   "fragment_id": "1060458375",
+   "type": 14,
+   "heading": "Anexo X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo X\n\n(a que se refere o n.º 5 do artigo 20.º)\n\n(ver tabela no documento original)\n\nA - Suspensão dos pagamentos até à regularização da situação, o que deverá ocorrer no prazo máximo de um ano, sob pena de não aprovação do auto de fecho e consequente cancelamento do projecto com devolução das ajudas nos termos do artigo 19.º\n\nB - Redução em 5% do valor da ajuda ao investimento.\n\nC - Redução de 20% do valor do prémio de manutenção e suspensão dos pagamentos até à regularização da situação, o que deverá ocorrer no prazo máximo de um ano, sob pena do cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\nD - Redução em 10% do valor do prémio por perda de rendimento e suspensão dos pagamentos até à regularização da situação, o que deverá ocorrer no prazo máximo de um ano, sob pena do cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\nE - Cancelamento do projecto, caso o mesmo não seja iniciado no prazo máximo previsto no n.º 1 do artigo 15.º, ou, no caso de o projecto não estar concluído no prazo aprovado, suspensão dos pagamentos até à sua conclusão, a qual deverá ocorrer no prazo máximo de um ano a contar do termo do prazo aprovado sob pena do cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º, sem prejuízo do disposto no n.º 3 do artigo 15.º\n\nF - Aplica-se, com as necessárias adaptações, o previsto no artigo 51.º do Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril."
+  },
+  "1062687875": {
+   "fragment_id": "1060450775",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123).",
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 8.º — Condições de acesso\n\n1 - Os projectos de investimento devem reunir as seguintes condições:\n\na) Incidirem sobre uma área mínima de 0,50 ha e uma área máxima de 250 ha;\n\nb) Integrarem um plano de gestão florestal;\n\nc) Não terem início antes da apresentação da candidatura;\n\nd) Serem elaborados por um técnico com formação académica na área das ciências silvícolas ou agronómicas de grau igual ou superior a bacharel ou ainda com outras formações de nível superior desde que com experiência profissional comprovada na área florestal há mais de cinco anos, caso incidam sobre uma área superior a 20 ha.\n\n2 - Aos projectos de arborização que revistam a forma de projectos simplificados de investimento, previstos no n.º 2 do artigo 12.º, não se aplica o limite mínimo de área referido na alínea a) do n.º 1.\n\n3 - No caso dos projectos de investimento relativos a áreas agrupadas ou apresentados por entidades gestoras de fundos imobiliários florestais, não se aplica o limite máximo de área referido na alínea a) do n.º 1.\n\n4 - Quando se trate de projectos de arborização integrando espécies de crescimento rápido a explorar em revoluções inferiores a 20 anos, as áreas máximas contínuas destas espécies são as que constam do anexo III.\n\n5 - Os projectos de investimento podem ser iniciados logo após a apresentação das candidaturas, à excepção dos investimentos que recorram às ajudas previstas na alínea c) do n.º 1 do artigo 4.º ou nos n.os 5 e 6 do artigo 10.º, que não poderão ser iniciados antes da vistoria a realizar pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), não derivando, em ambos os casos, qualquer compromisso de aprovação da candidatura.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123).\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062692175": {
+   "fragment_id": "1060451175",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma e valor das ajudas",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.",
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 10.º — Forma e valor das ajudas\n\n1 - As ajudas aos investimentos previstas neste Regulamento são atribuídas sob a forma de compensações financeiras não reembolsáveis, de acordo com os seguintes valores:\n\na) 100% das despesas elegíveis quando se trate de organismos da administração central e local e órgãos de administração dos baldios;\n\nb) 85% das despesas elegíveis, quando se trate de áreas agrupadas;\n\nc) 90% das despesas elegíveis, quando de trate de projectos de áreas agrupadas apresentados e executados pelas entidades referidas no n.º 2 do artigo 7.º;\n\nd) 75% das despesas elegíveis, quando se trate de agricultores;\n\ne) 60% das despesas elegíveis, quando se trate de outro tipo de beneficiários;\n\nf) 40% das despesas elegíveis, quando se trate de espécies exploradas em revoluções inferiores a 20 anos integradas em projectos apresentados por agricultores.\n\n2 - O montante das ajudas ao investimento calculado nos termos do número anterior, com excepção da alínea a), é majorado uma só vez em 10%, quando mais de 50% da área de intervenção do projecto se insira em áreas da Rede Nacional de Áreas Protegidas (RNAP), zonas de protecção especial (ZPE) e sítios da Lista Nacional de Sítios, com planos de ordenamento aprovados, quando previstos nos termos da lei e desde que sejam objecto de um parecer positivo da entidade gestora da área.\n\n3 - A ajuda para consolidação do povoamento prevista no n.º 4 do artigo 7.º é atribuída em função das despesas realizadas e até aos montantes máximos constantes do anexo VI.\n\n4 - O prémio à manutenção é atribuído, sob a forma de compensação financeira não reembolsável, durante um período de cinco anos de acordo com os valores constantes do anexo VI.\n\n4 - O prémio à manutenção é atribuído, sob a forma de compensação financeira não reembolsável, durante um período de cinco anos após a arborização ou rearborização de acordo com os valores constantes do anexo VI.\n\n5 - No caso da ocorrência de incêndios que afectem as arborizações realizadas, que sejam objecto de comunicação ao IFAP, I. P. nos termos do n.º 3 do artigo 16.º, pode ser atribuído um prémio à manutenção complementar para reposição do potencial produtivo, relativo à parte da área afectada, no valor de 100% do valor do prémio de manutenção.\n\n6 - Em anos de calamidade que afectem as arborizações realizadas poderá ser atribuído um prémio complementar à manutenção, para recuperação e consolidação do povoamento, de valor proporcional à severidade dos danos e até 100% do valor do prémio de manutenção, nos termos e condições a fixar em portaria do Ministério da Agricultura, Desenvolvimento Rural e Pescas.\n\n7 - O prémio por perda de rendimento é atribuído aos beneficiários referidos nas alíneas a), b) e d) do n.º 1 do artigo 7.º sob a forma de compensação financeira não reembolsável no valor e pelo período constantes, respectivamente, nos anexos VII e VIII.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062692375": {
+   "fragment_id": "1060451375",
+   "type": 11,
+   "heading": "Artigo 11.º — Limites à aprovação de projectos",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.",
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 11.º — Limites à aprovação de projectos\n\n1 - Os beneficiários podem apresentar mais de um projecto de investimento, não podendo o segundo, ou os projectos subsequentes, ser formalizado sem que o anterior esteja concluído, excepto no caso de projectos visando a rearborização de áreas ardidas prevista na alínea c) do n.º 1 do artigo 4.º\n\n2 - Para efeitos do número anterior, entende-se por conclusão a aprovação do auto de fecho do projecto.\n\n3 - Quando ocorra a destruição total ou parcial, os beneficiários podem apresentar projecto para reposição do potencial produtivo no prazo de dois anos, notificando o IFAP, I. P. dessa intenção e podendo para o efeito recorrer às ajudas previstas na alínea c) do n.º 1 do artigo 4.º ou nos n.os 5 e 6 do artigo 10.º, em função da dimensão dos danos e consoante a causa da destruição.\n\n4 - No caso dos incêndios ocorridos no ano de 2003 que tenham afectado as arborizações realizadas, o prazo previsto no número anterior é de três anos.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062690075": {
+   "fragment_id": "1060451575",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação junto do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) do formulário próprio, acompanhado de todos os documentos nele solicitados.\n\n2 - Os projectos de investimento que incidam em área igual ou inferior a 20 ha podem revestir a forma de projecto simplificado de investimento."
+  },
+  "1062692575": {
+   "fragment_id": "1060451775",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise das candidaturas",
+   "in_force_from": "2009-10-28",
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise das candidaturas\n\n1 - A análise das candidaturas compete ao IFAP, I. P.\n\n2 - A análise das candidaturas, com vista a determinar a respectiva elegibilidade, faz-se tendo em conta os seguintes critérios:\n\na) Adaptação das espécies às condições locais;\n\nb) Compatibilidade com o meio ambiente;\n\nc) Normas técnicas de silvicultura;\n\nd) Equilíbrio entre a silvicultura e a fauna bravia;\n\ne) Respeito das boas práticas florestais definidas no anexo IX;\n\nf) Conformidade com os instrumentos de protecção da floresta contra incêndios;\n\ng) Compatibilidade das áreas objecto da intervenção com o disposto na alínea b) do artigo 5.º\n\n3 - A partir da publicação dos planos regionais de ordenamento florestal, a apreciação das candidaturas deve ter em conta as respectivas normas."
+  },
+  "1062692775": {
+   "fragment_id": "1060451975",
+   "type": 11,
+   "heading": "Artigo 14.º — Decisão das candidaturas",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.",
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 14.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao IFAP, I. P.\n\n2 - As candidaturas são decididas no prazo máximo de 90 ou 120 dias a contar da data da respectiva apresentação, consoante se trate de projectos simplificados de investimento ou de outros projectos, findo o qual, na ausência de uma decisão, as candidaturas consideram-se tacitamente aprovadas.\n\n3 - O disposto no número anterior não se aplica quando se verifique que os compromissos assumidos para o período de 2000 a 2006 resultantes das candidaturas já aprovadas representam, pelo menos, 80% da cobertura orçamental total da intervenção.\n\n4 - Quando se verifique a situação referida no número anterior, a aprovação de candidaturas faz-se de acordo com critérios de hierarquização e nas condições a definir por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n5 - O disposto no n.º 2 quanto à aprovação tácita não se aplica às candidaturas respeitantes à rearborização de áreas afectadas por incêndios a que se refere a alínea c) do n.º 1 do artigo 4.º\n\n6 - São recusadas as candidaturas que não reúnam as condições decorrentes da aplicação do presente Regulamento e as que vierem a ser excluídas por motivos de cobertura orçamental.\n\n7 - Se as candidaturas apresentarem alguma deficiência ou insuficiência, os interessados serão convidados a suprir a mesma no prazo de 10 dias úteis, sob pena de as candidaturas serem recusadas, não havendo neste caso lugar à audiência prévia dos interessados.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062687075": {
+   "fragment_id": "1060452175",
+   "type": 11,
+   "heading": "Artigo 15.º — Execução do projecto",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+   ],
+   "markdown": "###### Artigo 15.º — Execução do projecto\n\n1 - A execução material do projecto deve iniciar-se no prazo máximo de um ano a contar da data da decisão de aprovação da candidatura e estar concluída no prazo de tempo estabelecido na candidatura, não podendo este prazo ultrapassar três anos contados da data da decisão de aprovação da candidatura.\n\n2 - O início da execução do projecto deve ser comunicado através do envio ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), do termo de abertura do livro de obra.\n\n3 - Em casos excepcionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação dos prazos referidos no n.º 1.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+  },
+  "1062687275": {
+   "fragment_id": "1060452375",
+   "type": 11,
+   "heading": "Artigo 16.º — Obrigações dos beneficiários",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.",
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 16.º — Obrigações dos beneficiários\n\n1 - Na execução do projecto, constituem, nomeadamente, obrigações dos beneficiários:\n\na) Cumprir as boas práticas florestais previstas no anexo IX, sem prejuízo do cumprimento de outras obrigações de natureza ambiental impostas por lei;\n\nb) Respeitar os objectivos específicos do projecto;\n\nc) Manter os povoamentos instalados e infra-estruturas associadas por um período mínimo de 10 anos ou, quando haja lugar à atribuição de prémio por perda de rendimento, durante o respectivo período de atribuição;\n\nd) Cumprir o plano de gestão florestal que integra a candidatura durante, pelo menos, o período de atribuição do prémio por perda de rendimento, mas nunca por período inferior a 10 anos;\n\ne) Respeitar as medidas cautelares a tomar para protecção das árvores e do solo, designadamente quando o controlo da vegetação espontânea for feito com recurso ao pastoreio com gado ovino, o qual só pode ter lugar após o período de atribuição do prémio à manutenção;\n\nf) Assegurar que, no ano seguinte ao da conclusão da instalação e durante o período de atribuição do prémio à manutenção, os povoamentos objecto de ajudas apresentem as densidades mínimas constantes do anexo VIII;\n\ng) Iniciar e concluir a execução do projecto nos prazos aprovados;\n\nh) Utilizar o livro de obra para acompanhamento e validação da execução dos investimentos;\n\ni) Apresentar a cartografia digital da área inter-vencionada até à conclusão da instalação e previamente à elaboração do auto de fecho do projecto, com excepção dos projectos simplificados.\n\n2 - Sem prejuízo do disposto no número anterior, os beneficiários ficam, ainda, obrigados a:\n\na) Aplicar integralmente a ajuda nos fins para que foi concedida;\n\nb) Respeitar integralmente os requisitos de concessão da ajuda.\n\n3 - Os casos de força maior que afectem a cabal realização do projecto de investimento ou que provoquem a destruição total ou parcial do povoamento devem ser comunicados por escrito ao IFAP, I. P., indicando a extensão dos danos e juntando as respectivas provas, no prazo de 10 dias úteis a contar da data da ocorrência, podendo este prazo ser ultrapassado, desde que devidamente justificado, devendo, em caso de incêndio, ser apresentada a declaração da Autoridade Florestal Nacional (AFN) que ateste a ocorrência e abrangendo a área do projecto.\n\n4 - No caso de atribuição de ajudas a uma área agrupada, cada um dos beneficiários responde solidariamente pelo cumprimento destas obrigações, nomeadamente pela pontual e integral execução do projecto de investimento e pelo plano de gestão florestal que dele faz parte integrante.\n\n5 - As densidades mínimas constantes do anexo VII em situações que assegurem a viabilidade do projecto podem ser excepcionadas por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062692975": {
+   "fragment_id": "1060452575",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamentos",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.",
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 17.º — Pagamentos\n\n1 - Por efeito da decisão de aprovação da candidatura, o pagamento das ajudas previstas neste Regulamento é efectuado pelo IFAP, I. P.\n\n2 - O beneficiário poderá solicitar ao IFAP, I. P. a concessão de adiantamentos até ao montante de 20% do custo total do investimento, mediante constituição de garantias bancárias autónomas e automáticas, à primeira solicitação, correspondente a 110% do montante do adiantamento.\n\n3 - O pagamento da ajuda ao investimento, incluindo a elaboração do projecto, fica condicionado à apresentação do termo de abertura do livro de obra.\n\n4 - Os pedidos de pagamento das ajudas aos investimentos devem ser acompanhados do livro de obra e, excepto quando se trate de projectos simplificados, dos comprovativos de despesa, ficando o pagamento da última parcela condicionado à aprovação do auto de fecho do projecto.\n\n5 - O pagamento da primeira anuidade do prémio à manutenção tem lugar no ano seguinte ao da conclusão da instalação, ficando condicionado à aprovação do auto de fecho do projecto, e o pagamento da última anuidade dependente da verificação do cumprimento das densidades mínimas.\n\n6 - O pagamento da primeira anuidade do prémio por perda de rendimento tem lugar no ano seguinte ao do início da instalação do povoamento.\n\n7 - No caso do prémio complementar à manutenção previsto nos n.os 5 e 6 do artigo 10.º, o pagamento é realizado numa única prestação, sendo, no caso previsto no n.º 5 do artigo 10.º, pago no ano em que ocorrer a comunicação.\n\n8 - As restantes anuidades do prémio por perda de rendimento após a conclusão da instalação ficam condicionadas à emissão do auto de acompanhamento e avaliação, a elaborar pelo menos de cinco em cinco anos, e às seguintes condições:\n\na) No período de atribuição do prémio à manutenção, sujeitas ao cumprimento das densidades mínimas constantes do anexo VIII;\n\nb) Nos períodos posteriores, sujeitas ao cumprimento do plano de gestão.\n\n9 - Quando parte do povoamento seja destruída por causas não imputáveis ao beneficiário, os prémios previstos no artigo 6.º do presente Regulamento continuam a ser pagos na parte respeitante à parcela que se mantenha em boas condições vegetativas.\n\n10 - Nos casos em que a cobertura orçamental anual não assegure a totalidade dos pagamentos no ano a que respeitam, serão os mesmos diferidos para a execução orçamental do ano seguinte.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062693175": {
+   "fragment_id": "1060452775",
+   "type": 11,
+   "heading": "Artigo 18.º — Avaliação da execução do projecto",
+   "in_force_from": "2009-10-28",
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Avaliação da execução do projecto\n\n1 - Compete ao IFAP, I. P. efectuar a avaliação técnica e qualitativa da execução dos projectos de investimento aprovados, com emissão do auto de fecho, assim como a emissão dos necessários e adequados autos de acompanhamento e avaliação do projecto.\n\n2 - A cartografia digital é objecto de validação no âmbito do auto de fecho do projecto."
+  },
+  "1062690275": {
+   "fragment_id": "1060452975",
+   "type": 11,
+   "heading": "Artigo 19.º — Recuperação de pagamentos indevidos",
+   "in_force_from": "2009-10-28",
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Recuperação de pagamentos indevidos\n\nEm caso de pagamento indevido, o beneficiário deve reembolsar o montante em causa acrescido de juros à taxa legal calculados relativamente ao período decorrido entre a notificação ao beneficiário e o reembolso, podendo a recuperação desse montante ser efectuada em qualquer adiantamento ou pagamento, no âmbito do FEOGA-Garantia, processado pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.)."
+  },
+  "1062687475": {
+   "fragment_id": "1060453175",
+   "type": 11,
+   "heading": "Artigo 20.º — Sanções",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+   ],
+   "markdown": "###### Artigo 20.º — Sanções\n\n1 - Quando em consequência de controlos administrativos ou no local, ou no âmbito da aprovação de auto de fecho, ou de autos de acompanhamento e avaliação, se verificarem divergências entre as áreas declaradas e as áreas determinadas aplica-se o disposto no Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril.\n\n2 - O incumprimento pelo beneficiário de qualquer das boas práticas florestais a que se refere o anexo ix do presente Regulamento determina:\n\na) Durante o período de instalação do projecto:\n\ni) A suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, a contar da notificação da suspensão, sob pena de redução de 15 % do valor total da ajuda ao investimento, findo esse prazo;\n\nii) Nos casos em que o IFAP, I. P., reconheça não ser possível a regularização da situação, é determinada a redução de 10 % do valor da ajuda ao investimento;\n\nb) Após o período de instalação do projecto, a suspensão do pagamento dos prémios até à regularização da situação, que deve ocorrer no prazo máximo de um ano, a contar da notificação da suspensão, sob pena de redução de 5 % do valor total dos prémios, findo esse prazo;\n\nc) O cancelamento das ajudas nos casos de reincidência, ou sempre que o incumprimento resulte de irregularidades cometidas deliberadamente.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Sem prejuízo do disposto nos números anteriores, no caso de incumprimento pelo beneficiário das obrigações referidas nas alíneas d), f) e g) do n.º 1 do artigo 16.º, aplica-se o disposto no anexo x.\n\n6 - O incumprimento pelo beneficiário das obrigações constantes do n.º 2 do artigo 16.º determina o cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+  },
+  "1062693375": {
+   "fragment_id": "1060453375",
+   "type": 11,
+   "heading": "Artigo 21.º — Cessão da posição contratual",
+   "in_force_from": "2009-10-28",
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cessão da posição contratual\n\n1 - Pode haver lugar à cessão da posição contratual desde que o cessionário reúna as condições exigidas para a atribuição da ajuda e a cessão seja previamente autorizada pelo IFAP, I. P.\n\n2 - Em casos de cessão da posição contratual, cessa o pagamento do prémio por perda de rendimento.\n\n3 - O cedente da posição contratual não pode apresentar novas candidaturas ao abrigo do presente regime de ajudas durante um período de cinco anos."
+  },
+  "1062693575": {
+   "fragment_id": "1060453775",
+   "type": 11,
+   "heading": "Artigo 23.º — Normas transitórias",
+   "in_force_from": "2009-10-28",
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Normas transitórias\n\n1 - O presente Regulamento é aplicável a todas as candidaturas formalizadas após 12 de Dezembro de 2002 e que não foram objecto de decisão, com a especialidade de os prazos referidos no n.º 2 do artigo 14.º serem contados a partir da data da entrada em vigor do presente Regulamento.\n\n2 - As candidaturas apresentadas antes de 12 de Dezembro de 2002 no âmbito da Portaria n.º 94-A/2001, de 9 de Fevereiro, e que ainda não foram objecto de decisão, devem ser reformuladas ao abrigo do disposto no presente Regulamento, no prazo de três meses após a sua entrada em vigor, sob pena de serem canceladas.\n\n3 - O disposto no artigo 17.º é de aplicação retroactiva, exceptuando o que respeita à primeira anuidade do prémio por perda de rendimento no caso dos projectos em que o ano seguinte ao início da instalação já decorreu.\n\n4 - No caso das candidaturas apresentadas no âmbito do Regulamento n.º 2080/92, por cessantes do regime de cessação de actividade instituído pelo Regulamento (CEE) n.º 2079/92, recepcionadas no IFAP, I. P. até 31 de Dezembro de 1999 e que não foram objecto de decisão, não será concedido o prémio por perda de rendimento a que se refere a alínea b) do artigo 6.º\n\n5 - Nos casos referidos no número anterior são elegíveis as despesas efectuadas após 6 de Janeiro de 2000."
+  },
+  "1062687675": {
+   "fragment_id": "1060458375",
+   "type": 14,
+   "heading": "Anexo X — (a que se refere o n.º 5 do artigo 20.º)",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+   ],
+   "markdown": "## Anexo X — (a que se refere o n.º 5 do artigo 20.º)\n\n(ver tabela no documento original)\n\nA - Redução de 20 % do valor da anuidade prevista do prémio de manutenção para o ano em curso e suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, sob pena de cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\nB - Redução de 10 % do valor da anuidade prevista do prémio de perda de rendimento para o ano em curso e suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, sob pena de cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\nC - Suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, sob pena do cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\nD - Cancelamento do projecto, caso o mesmo não seja iniciado no prazo previsto no artigo 15.º, ou, no caso de o projecto não estar concluído no prazo aprovado, suspensão dos pagamentos até à sua conclusão, a qual deve ocorrer no prazo máximo de um ano a contar do termo do prazo aprovado sob pena do cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º, sem prejuízo do disposto no n.º 3 do artigo 15.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+  },
+  "1062749775": {
+   "fragment_id": "1060445375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação da intervenção «Florestação de terras agrícolas» do Plano de Desenvolvimento Rural, abreviadamente designado por RURIS."
+  },
+  "1062749875": {
+   "fragment_id": "1060449575",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nO regime de ajudas instituído pelo presente Regulamento tem os seguintes objectivos:\n\na) Promover a expansão florestal em terras agrícolas com arborizações de qualidade e ambientalmente bem adaptadas;\n\nb) Aumentar a diversidade e oferta de madeiras de qualidade, cortiça e outros produtos não lenhosos;\n\nc) Contribuir para a reabilitação de terras degradadas e para a mitigação dos efeitos da desertificação, favorecendo a recuperação da fertilidade dos solos e a regularização dos recursos hidrológicos;\n\nd) Promover a diversificação de actividades nas explorações agrícolas, reforçando a sua multifuncionalidade;\n\ne) Introduzir benefícios sócio-económicos no meio rural."
+  },
+  "1062749975": {
+   "fragment_id": "1060449775",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2012-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03."
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente Regulamento, entende-se por:\n\na) 'Agricultor' a pessoa singular que dedique, no mínimo, 25 % do seu tempo total de trabalho à atividade agrícola e dela obtenha, pelo menos, 25 % do seu rendimento, e a pessoa coletiva que, nos termos do respetivo estatuto, exerce atividade agrícola, devendo um dos administradores ou gerentes ser uma pessoa singular e sócio da pessoa coletiva, detentor de, pelo menos, 10 % do capital social, e reunir as condições anteriormente estabelecidas para as pessoas singulares;\n\nb) «Área agrupada» o conjunto de superfícies agrícolas pertencentes a, pelo menos, dois titulares, desde que se encontrem reunidas as seguintes condições:\n\ni) Seja objecto de um plano de gestão comum durante, pelo menos, o período de atribuição do prémio por perda de rendimento, mas nunca por período inferior a 10 anos;\n\nii) Tenha uma área mínima contínua de 5 ha;\n\niii) Nenhum dos titulares detenha mais de 75% da superfície total;\n\nc) «Áreas contínuas» os prédios ou partes de prédios confinantes ou que se encontrem separados por caminhos, estradas ou linhas de água;\n\nd) «Auto de acompanhamento e avaliação do projecto» a confirmação das condições de atribuição do prémio à manutenção e aferição do cumprimento do plano de gestão (PG) do projecto no decurso do período de atribuição do prémio por perda de rendimento, com vista a avaliar a eficácia da aplicação das ajudas atribuídas;\n\ne) «Auto de fecho do projecto» a comprovação da efectiva realização material do investimento e apreciação técnica da obra realizada, avaliada em termos qualitativos (viabilidade do povoamento) e quantitativos (auto de medição do projecto), no fim do período de instalação ou dois anos após aquele período no caso dos organismos da administração central e local;\n\nf) «Espécie principal em povoamentos mistos» a espécie objectivo de revolução mais longa que, de facto, corresponde à espécie de maior longevidade e maior importância;\n\ng) «Estabelecimento do povoamento» o período da instalação do povoamento, acrescido do intervalo de tempo durante o qual são realizados os trabalhos de manutenção necessários à respectiva consolidação;\n\nh) «Instalação do povoamento» o período que decorre desde o início dos trabalhos de mobilização do terreno até à retancha ou, quando esta não seja necessária, até um ano após o início da plantação;\n\ni) «Livro de obra» o livro subscrito pelo beneficiário, pelo técnico responsável pelo acompanhamento da execução do projecto e pelo prestador de serviços, no qual são inscritos todos os dados relativos à execução do investimento, etapa a etapa, bem como o averbamento de todas as visitas efectuadas pelas entidades competentes;\n\nj) «Povoamentos mistos» os povoamentos florestais constituídos utilizando mais de uma espécie e instalados pé a pé, linha a linha, faixa a faixa ou por manchas e em que nenhuma das espécies em presença atinge 75% do povoamento;\n\nl) «Superfície agrícola» toda a área que nos últimos 10 anos tenha sido objecto de uma utilização agrícola regular, incluindo pousios até 6 anos e pastagens naturais com um encabeçamento mínimo de 0,15 cabeças normais (CN) em que, existindo árvores florestais, a projecção horizontal das suas copas seja inferior a 15% da área total e, quando tiverem altura entre 2 m e 5 m no caso das folhosas ou 1,5 m e 5 m no caso das resinosas, a sua densidade seja inferior às constantes do anexo I, atestada pelas direcções regionais de agricultura.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03."
+  },
+  "1062750075": {
+   "fragment_id": "1060449975",
+   "type": 11,
+   "heading": "Artigo 4.º — Investimentos elegíveis",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 4.º — Investimentos elegíveis\n\n1 - Podem ser concedidas ajudas aos seguintes investimentos:\n\na) Arborização de superfícies agrícolas;\n\nb) Construção e beneficiação de infra-estruturas, quando complementares do investimento referido na alínea anterior.\n\nc) Rearborização de áreas ardidas, por causa não imputável ao promotor do investimento, em superfícies anteriormente arborizadas ao abrigo do presente regime de ajudas e dos Regulamentos (CEE) n.os 2328/91 e 2080/92, durante o período de atribuição do prémio por perda de rendimento.\n\n2 - Para efeitos das alíneas a) e c) do número anterior, são elegíveis as espécies constantes do anexo II.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062750175": {
+   "fragment_id": "1060450175",
+   "type": 11,
+   "heading": "Artigo 5.º — Investimentos excluídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Investimentos excluídos\n\nNão são concedidas ajudas aos seguintes investimentos:\n\na) Plantação de árvores de Natal;\n\nb) Arborização de áreas com as utilizações e condições definidas pelo despacho n.º 6205/2001, de 12 de Março, do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, publicado no Diário da República, 2.ª série, n.º 74, de 28 de Março de 2001;\n\nc) Arborização em terrenos de uso agrícola beneficiados por obras de fomento hidroagrícola ou em terrenos para os quais haja projectos de execução já aprovados, com excepção dos solos das classes V, VI e VII de aptidão ao regadio, nas condições estabelecidas no Decreto Regulamentar n.º 84/82, de 4 de Novembro;\n\nd) Arborização de áreas que integrem perímetros de emparcelamento, nos termos dos Decretos-Leis n.os 384/88, de 25 de Outubro, e 103/90, de 2 de Março, excepto quando incide sobre uma área destinada a utilização florestal no plano de uso do solo do projecto de emparcelamento aprovado e tenha um parecer favorável do Instituto de Desenvolvimento Rural e Hidráulica."
+  },
+  "1062750275": {
+   "fragment_id": "1060450375",
+   "type": 11,
+   "heading": "Artigo 6.º — Prémios à manutenção e por perda de rendimento",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 6.º — Prémios à manutenção e por perda de rendimento\n\n1 - No âmbito do presente Regulamento, podem ainda ser concedidos os seguintes prémios:\n\na) Prémio à manutenção, durante o período máximo de cinco anos, destinado a cobrir as despesas decorrentes das operações de manutenção das superfícies arborizadas ou rearborizadas constantes do projecto de investimento;\n\nb) Prémio por perda de rendimento, durante um período máximo de 20 anos, destinado a compensar a perda de rendimentos decorrente da arborização de superfícies agrícolas.\n\n2 - No caso a que se refere a alínea c) do n.º 1 do artigo 4.º o prémio por perda de rendimento é pago, pelo período remanescente, nos termos da legislação ali referida.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062750375": {
+   "fragment_id": "1060450575",
+   "type": 11,
+   "heading": "Artigo 7.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Beneficiários\n\n1 - Podem beneficiar das ajudas previstas no presente Regulamento os:\n\na) Agricultores;\n\nb) Órgãos de administração dos baldios;\n\nc) Organismos da administração central e local;\n\nd) Outros titulares de superfícies agrícolas.\n\n2 - Os beneficiários referidos no número anterior, com excepção dos organismos da administração central, podem, individual ou conjuntamente, cometer a apresentação e execução do projecto, incluindo o estabelecimento do povoamento, às seguintes entidades:\n\na) Associações de produtores florestais e agrícolas;\n\nb) Cooperativas de produtores florestais ou agrícolas;\n\nc) Entidades gestoras de fundos imobiliários florestais.\n\n3 - As ajudas à arborização com espécies de crescimento rápido a explorar em revoluções inferiores a 20 anos aplicam-se apenas quando os beneficiários sejam agricultores.\n\n4 - As ajudas à arborização de superfícies agrícolas pertencentes a organismos da administração central e local abrangem apenas as ajudas ao investimento e uma ajuda, durante dois anos, para consolidação do povoamento.\n\n5 - Não podem candidatar-se ao regime de ajudas previsto neste Regulamento os beneficiários do regime de ajudas à reforma antecipada."
+  },
+  "1062750475": {
+   "fragment_id": "1060450775",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 8.º — Condições de acesso\n\n1 - Os projectos de investimento devem reunir as seguintes condições:\n\na) Incidirem sobre uma área mínima de 0,50 ha e uma área máxima de 250 ha;\n\nb) Integrarem um plano de gestão florestal;\n\nc) Não terem início antes da apresentação da candidatura;\n\nd) Serem elaborados por um técnico com formação académica na área das ciências silvícolas ou agronómicas de grau igual ou superior a bacharel ou ainda com outras formações de nível superior desde que com experiência profissional comprovada na área florestal há mais de cinco anos, caso incidam sobre uma área superior a 20 ha.\n\n2 - Aos projectos de arborização que revistam a forma de projectos simplificados de investimento, previstos no n.º 2 do artigo 12.º, não se aplica o limite mínimo de área referido na alínea a) do n.º 1.\n\n3 - No caso dos projectos de investimento relativos a áreas agrupadas ou apresentados por entidades gestoras de fundos imobiliários florestais, não se aplica o limite máximo de área referido na alínea a) do n.º 1.\n\n4 - Quando se trate de projectos de arborização integrando espécies de crescimento rápido a explorar em revoluções inferiores a 20 anos, as áreas máximas contínuas destas espécies são as que constam do anexo III.\n\n5 - Os projectos de investimento podem ser iniciados logo após a apresentação das candidaturas, à excepção dos investimentos que recorram às ajudas previstas na alínea c) do n.º 1 do artigo 4.º ou nos n.os 5 e 6 do artigo 10.º, que não poderão ser iniciados antes da vistoria a realizar pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), não derivando, em ambos os casos, qualquer compromisso de aprovação da candidatura.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062750575": {
+   "fragment_id": "1060450975",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis e custos máximos",
+   "in_force_from": "2005-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis e custos máximos\n\n1 - No âmbito da ajuda aos investimentos são elegíveis as seguintes despesas:\n\na) Arborização e rearborização:\n\ni) Instalação de povoamentos florestais, através de sementeira ou plantação, incluindo a constituição de cortinas de abrigo ou aproveitamento da regeneração natural;\n\nii) Instalação de protecções individuais para melhorar as condições microclimáticas ou quando se torne necessário conciliar a arborização com a existência de fauna selvagem;\n\niii) Instalação de cercas para protecção dos povoamentos contra a acção do gado e ou da fauna selvagem, quando se torne necessário conciliar as duas actividades;\n\nb) Infra-estruturas:\n\ni) Construção e beneficiação de rede viária e construção de rede divisional próprias ou integrando redes existentes dentro e fora da área de intervenção, incluindo acessos à exploração, de acordo com as condições constantes do anexo IV;\n\nii) Construção de pontos de água, nos termos do anexo V;\n\niii) Beneficiação de outras infra-estruturas existentes, designadamente estruturas de suporte de terras, para prevenção da erosão, regularização dos recursos hídricos ou preservação da paisagem;\n\nc) Elaboração, acompanhamento da execução do projecto e cartografia digital;\n\nd) Despesas com a constituição de garantias, quando exigidas no quadro da análise de risco, até ao limite de 2% do montante total das despesas elegíveis.\n\n2 - As despesas indicadas nas subalíneas ii) e iii) da alínea a) e nas alíneas b), c) e d) do número anterior apenas são elegíveis quando integradas em projectos de investimento visando a arborização de superfícies agrícolas ou a rearborização de áreas ardidas referida na alínea c) do n.º 1 do artigo 4.º e a sua manutenção.\n\n3 - Os custos máximos das despesas elegíveis referidas nas alíneas a) e b) do n.º 1 encontram-se estabelecidos no despacho n.º 8147/2001, de 5 de Abril, do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, publicado no Diário da República, 2.ª série, n.º 92, de 19 de Abril de 2001.\n\n4 - No caso de projectos simplificados de investimento previstos no n.º 2 do artigo 12.º apenas são elegíveis as despesas previstas nas alíneas a) e c) do n.º 1, sendo atribuída uma ajuda forfetária cujo valor fixo por operação será estabelecido por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n5 - O custo máximo elegível com a elaboração, acompanhamento da execução do projecto e cartografia digital é de 12% das despesas elegíveis no âmbito das alíneas a) e b) do n.º 1, até ao limite de (euro) 3242 ou de (euro) 1600, no caso dos projectos referidos no número anterior.\n\n6 - A ajuda à arborização com espécies de crescimento rápido a explorar em revoluções inferiores a 20 anos abrange apenas as ajudas ao investimento.\n\n7 - O total dos custos elegíveis respeitantes às infra-estruturas previstas na alínea b) do n.º 1 não pode ser superior a 15% das despesas elegíveis no âmbito da alínea a) do mesmo número.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062750675": {
+   "fragment_id": "1060451175",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma e valor das ajudas",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 10.º — Forma e valor das ajudas\n\n1 - As ajudas aos investimentos previstas neste Regulamento são atribuídas sob a forma de compensações financeiras não reembolsáveis, de acordo com os seguintes valores:\n\na) 100% das despesas elegíveis quando se trate de organismos da administração central e local e órgãos de administração dos baldios;\n\nb) 85% das despesas elegíveis, quando se trate de áreas agrupadas;\n\nc) 90% das despesas elegíveis, quando de trate de projectos de áreas agrupadas apresentados e executados pelas entidades referidas no n.º 2 do artigo 7.º;\n\nd) 75% das despesas elegíveis, quando se trate de agricultores;\n\ne) 60% das despesas elegíveis, quando se trate de outro tipo de beneficiários;\n\nf) 40% das despesas elegíveis, quando se trate de espécies exploradas em revoluções inferiores a 20 anos integradas em projectos apresentados por agricultores.\n\n2 - O montante das ajudas ao investimento calculado nos termos do número anterior, com excepção da alínea a), é majorado uma só vez em 10%, quando mais de 50% da área de intervenção do projecto se insira em áreas da Rede Nacional de Áreas Protegidas (RNAP), zonas de protecção especial (ZPE) e sítios da Lista Nacional de Sítios, com planos de ordenamento aprovados, quando previstos nos termos da lei e desde que sejam objecto de um parecer positivo da entidade gestora da área.\n\n3 - A ajuda para consolidação do povoamento prevista no n.º 4 do artigo 7.º é atribuída em função das despesas realizadas e até aos montantes máximos constantes do anexo VI.\n\n4 - O prémio à manutenção é atribuído, sob a forma de compensação financeira não reembolsável, durante um período de cinco anos de acordo com os valores constantes do anexo VI.\n\n4 - O prémio à manutenção é atribuído, sob a forma de compensação financeira não reembolsável, durante um período de cinco anos após a arborização ou rearborização de acordo com os valores constantes do anexo VI.\n\n5 - No caso da ocorrência de incêndios que afectem as arborizações realizadas, que sejam objecto de comunicação ao IFAP, I. P. nos termos do n.º 3 do artigo 16.º, pode ser atribuído um prémio à manutenção complementar para reposição do potencial produtivo, relativo à parte da área afectada, no valor de 100% do valor do prémio de manutenção.\n\n6 - Em anos de calamidade que afectem as arborizações realizadas poderá ser atribuído um prémio complementar à manutenção, para recuperação e consolidação do povoamento, de valor proporcional à severidade dos danos e até 100% do valor do prémio de manutenção, nos termos e condições a fixar em portaria do Ministério da Agricultura, Desenvolvimento Rural e Pescas.\n\n7 - O prémio por perda de rendimento é atribuído aos beneficiários referidos nas alíneas a), b) e d) do n.º 1 do artigo 7.º sob a forma de compensação financeira não reembolsável no valor e pelo período constantes, respectivamente, nos anexos VII e VIII.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062750775": {
+   "fragment_id": "1060451375",
+   "type": 11,
+   "heading": "Artigo 11.º — Limites à aprovação de projectos",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 11.º — Limites à aprovação de projectos\n\n1 - Os beneficiários podem apresentar mais de um projecto de investimento, não podendo o segundo, ou os projectos subsequentes, ser formalizado sem que o anterior esteja concluído, excepto no caso de projectos visando a rearborização de áreas ardidas prevista na alínea c) do n.º 1 do artigo 4.º\n\n2 - Para efeitos do número anterior, entende-se por conclusão a aprovação do auto de fecho do projecto.\n\n3 - Quando ocorra a destruição total ou parcial, os beneficiários podem apresentar projecto para reposição do potencial produtivo no prazo de dois anos, notificando o IFAP, I. P. dessa intenção e podendo para o efeito recorrer às ajudas previstas na alínea c) do n.º 1 do artigo 4.º ou nos n.os 5 e 6 do artigo 10.º, em função da dimensão dos danos e consoante a causa da destruição.\n\n4 - No caso dos incêndios ocorridos no ano de 2003 que tenham afectado as arborizações realizadas, o prazo previsto no número anterior é de três anos.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062750875": {
+   "fragment_id": "1060451575",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação junto do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) do formulário próprio, acompanhado de todos os documentos nele solicitados.\n\n2 - Os projectos de investimento que incidam em área igual ou inferior a 20 ha podem revestir a forma de projecto simplificado de investimento."
+  },
+  "1062750975": {
+   "fragment_id": "1060451775",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise das candidaturas",
+   "in_force_from": "2009-10-28",
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise das candidaturas\n\n1 - A análise das candidaturas compete ao IFAP, I. P.\n\n2 - A análise das candidaturas, com vista a determinar a respectiva elegibilidade, faz-se tendo em conta os seguintes critérios:\n\na) Adaptação das espécies às condições locais;\n\nb) Compatibilidade com o meio ambiente;\n\nc) Normas técnicas de silvicultura;\n\nd) Equilíbrio entre a silvicultura e a fauna bravia;\n\ne) Respeito das boas práticas florestais definidas no anexo IX;\n\nf) Conformidade com os instrumentos de protecção da floresta contra incêndios;\n\ng) Compatibilidade das áreas objecto da intervenção com o disposto na alínea b) do artigo 5.º\n\n3 - A partir da publicação dos planos regionais de ordenamento florestal, a apreciação das candidaturas deve ter em conta as respectivas normas."
+  },
+  "1062751075": {
+   "fragment_id": "1060451975",
+   "type": 11,
+   "heading": "Artigo 14.º — Decisão das candidaturas",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 14.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao IFAP, I. P.\n\n2 - As candidaturas são decididas no prazo máximo de 90 ou 120 dias a contar da data da respectiva apresentação, consoante se trate de projectos simplificados de investimento ou de outros projectos, findo o qual, na ausência de uma decisão, as candidaturas consideram-se tacitamente aprovadas.\n\n3 - O disposto no número anterior não se aplica quando se verifique que os compromissos assumidos para o período de 2000 a 2006 resultantes das candidaturas já aprovadas representam, pelo menos, 80% da cobertura orçamental total da intervenção.\n\n4 - Quando se verifique a situação referida no número anterior, a aprovação de candidaturas faz-se de acordo com critérios de hierarquização e nas condições a definir por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n5 - O disposto no n.º 2 quanto à aprovação tácita não se aplica às candidaturas respeitantes à rearborização de áreas afectadas por incêndios a que se refere a alínea c) do n.º 1 do artigo 4.º\n\n6 - São recusadas as candidaturas que não reúnam as condições decorrentes da aplicação do presente Regulamento e as que vierem a ser excluídas por motivos de cobertura orçamental.\n\n7 - Se as candidaturas apresentarem alguma deficiência ou insuficiência, os interessados serão convidados a suprir a mesma no prazo de 10 dias úteis, sob pena de as candidaturas serem recusadas, não havendo neste caso lugar à audiência prévia dos interessados.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062751175": {
+   "fragment_id": "1060452175",
+   "type": 11,
+   "heading": "Artigo 15.º — Execução do projecto",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+   ],
+   "markdown": "###### Artigo 15.º — Execução do projecto\n\n1 - A execução material do projecto deve iniciar-se no prazo máximo de um ano a contar da data da decisão de aprovação da candidatura e estar concluída no prazo de tempo estabelecido na candidatura, não podendo este prazo ultrapassar três anos contados da data da decisão de aprovação da candidatura.\n\n2 - O início da execução do projecto deve ser comunicado através do envio ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), do termo de abertura do livro de obra.\n\n3 - Em casos excepcionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação dos prazos referidos no n.º 1.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+  },
+  "1062751275": {
+   "fragment_id": "1060452375",
+   "type": 11,
+   "heading": "Artigo 16.º — Obrigações dos beneficiários",
+   "in_force_from": "2012-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.",
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 16.º — Obrigações dos beneficiários\n\n1 - Na execução do projecto, constituem, nomeadamente, obrigações dos beneficiários:\n\na) Cumprir as boas práticas florestais previstas no anexo IX, sem prejuízo do cumprimento de outras obrigações de natureza ambiental impostas por lei;\n\nb) Respeitar os objectivos específicos do projecto;\n\nc) Manter os povoamentos instalados e infra-estruturas associadas por um período mínimo de 10 anos ou, quando haja lugar à atribuição de prémio por perda de rendimento, durante o respectivo período de atribuição;\n\nd) Cumprir o plano de gestão florestal que integra a candidatura durante, pelo menos, o período de atribuição do prémio por perda de rendimento, mas nunca por período inferior a 10 anos;\n\ne) Respeitar as medidas cautelares a tomar para proteção das árvores e do solo, designadamente quando o controlo da vegetação espontânea for feito com recurso ao pastoreio, o qual só pode ter lugar:\n\ni) No caso de pastoreio ovino, após o período de atribuição do prémio à manutenção e se o povoamento florestal se encontrar devidamente consolidado para suportar esta prática;\n\nii) Para o pastoreio por outras espécies, após o período mínimo de 10 anos a contar da data de conclusão da instalação;\n\nf) Assegurar que, no ano seguinte ao da conclusão da instalação e durante o período de atribuição do prémio à manutenção, os povoamentos objecto de ajudas apresentem as densidades mínimas constantes do anexo VIII;\n\ng) Iniciar e concluir a execução do projecto nos prazos aprovados;\n\nh) Utilizar o livro de obra para acompanhamento e validação da execução dos investimentos;\n\ni) Proceder à delimitação da área intervencionada no Sistema de Identificação Parcelar (SIP) previamente à realização do auto de fecho do projeto.\n\n2 - Sem prejuízo do disposto no número anterior, os beneficiários ficam, ainda, obrigados a:\n\na) Aplicar integralmente a ajuda nos fins para que foi concedida;\n\nb) Respeitar integralmente os requisitos de concessão da ajuda.\n\n3 - Os casos de força maior que afectem a cabal realização do projecto de investimento ou que provoquem a destruição total ou parcial do povoamento devem ser comunicados por escrito ao IFAP, I. P., indicando a extensão dos danos e juntando as respectivas provas, no prazo de 10 dias úteis a contar da data da ocorrência, podendo este prazo ser ultrapassado, desde que devidamente justificado, devendo, em caso de incêndio, ser apresentada a declaração da Autoridade Florestal Nacional (AFN) que ateste a ocorrência e abrangendo a área do projecto.\n\n4 - No caso de atribuição de ajudas a uma área agrupada, cada um dos beneficiários responde solidariamente pelo cumprimento destas obrigações, nomeadamente pela pontual e integral execução do projecto de investimento e pelo plano de gestão florestal que dele faz parte integrante.\n\n5 - As densidades mínimas constantes do anexo VII em situações que assegurem a viabilidade do projecto podem ser excepcionadas por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n6 - Após o período mínimo de 10 anos referido na alínea c) do n.º 1, o beneficiário pode prescindir dos prémios por perda de rendimento e solicitar a desvinculação do cumprimento das obrigações emergentes da concessão do apoio, mediante requerimento dirigido ao Instituto de Financiamento da Agricultura e Pescas, I. P., devidamente justificado, cujo deferimento depende, designadamente, da confirmação da regularidade do projeto de investimento pelas entidades competentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062751375": {
+   "fragment_id": "1060452575",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamentos",
+   "in_force_from": "2012-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03.",
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 17.º — Pagamentos\n\n1 - Por efeito da decisão de aprovação da candidatura, o pagamento das ajudas previstas neste Regulamento é efectuado pelo IFAP, I. P.\n\n2 - O beneficiário poderá solicitar ao IFAP, I. P. a concessão de adiantamentos até ao montante de 20% do custo total do investimento, mediante constituição de garantias bancárias autónomas e automáticas, à primeira solicitação, correspondente a 110% do montante do adiantamento.\n\n3 - O pagamento da ajuda ao investimento, incluindo a elaboração do projecto, fica condicionado à apresentação do termo de abertura do livro de obra.\n\n4 - Os pedidos de pagamento das ajudas aos investimentos devem ser acompanhados do livro de obra e, excepto quando se trate de projectos simplificados, dos comprovativos de despesa, ficando o pagamento da última parcela condicionado à aprovação do auto de fecho do projecto.\n\n5 - O pagamento da primeira anuidade do prémio à manutenção tem lugar no ano seguinte ao da conclusão da instalação, ficando condicionado à aprovação do auto de fecho do projecto, e o pagamento da última anuidade dependente da verificação do cumprimento das densidades mínimas.\n\n6 - O pagamento da primeira anuidade do prémio por perda de rendimento tem lugar no ano seguinte ao do início da instalação do povoamento.\n\n7 - No caso do prémio complementar à manutenção previsto nos n.os 5 e 6 do artigo 10.º, o pagamento é realizado numa única prestação, sendo, no caso previsto no n.º 5 do artigo 10.º, pago no ano em que ocorrer a comunicação.\n\n8 - (Revogado.)\n\na) No período de atribuição do prémio à manutenção, sujeitas ao cumprimento das densidades mínimas constantes do anexo VIII;\n\nb) Nos períodos posteriores, sujeitas ao cumprimento do plano de gestão.\n\n9 - Quando parte do povoamento seja destruída por causas não imputáveis ao beneficiário, os prémios previstos no artigo 6.º do presente Regulamento continuam a ser pagos na parte respeitante à parcela que se mantenha em boas condições vegetativas.\n\n10 - Nos casos em que a cobertura orçamental anual não assegure a totalidade dos pagamentos no ano a que respeitam, serão os mesmos diferidos para a execução orçamental do ano seguinte.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1062751475": {
+   "fragment_id": "1060452775",
+   "type": 11,
+   "heading": "Artigo 18.º — Avaliação da execução do projecto",
+   "in_force_from": "2012-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03."
+   ],
+   "markdown": "###### Artigo 18.º — Avaliação da execução do projecto\n\n1 - Compete ao IFAP, I. P. efectuar a avaliação técnica e qualitativa da execução dos projectos de investimento aprovados, com emissão do auto de fecho, assim como a emissão dos necessários e adequados autos de acompanhamento e avaliação do projecto.\n\n2 - A delimitação da área intervencionada no SIP é objeto de validação no âmbito do auto de fecho do projeto.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03."
+  },
+  "1062751575": {
+   "fragment_id": "1060452975",
+   "type": 11,
+   "heading": "Artigo 19.º — Recuperação de pagamentos indevidos",
+   "in_force_from": "2009-10-28",
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Recuperação de pagamentos indevidos\n\nEm caso de pagamento indevido, o beneficiário deve reembolsar o montante em causa acrescido de juros à taxa legal calculados relativamente ao período decorrido entre a notificação ao beneficiário e o reembolso, podendo a recuperação desse montante ser efectuada em qualquer adiantamento ou pagamento, no âmbito do FEOGA-Garantia, processado pelo Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.)."
+  },
+  "1062751675": {
+   "fragment_id": "1060453175",
+   "type": 11,
+   "heading": "Artigo 20.º — Sanções",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+   ],
+   "markdown": "###### Artigo 20.º — Sanções\n\n1 - Quando em consequência de controlos administrativos ou no local, ou no âmbito da aprovação de auto de fecho, ou de autos de acompanhamento e avaliação, se verificarem divergências entre as áreas declaradas e as áreas determinadas aplica-se o disposto no Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril.\n\n2 - O incumprimento pelo beneficiário de qualquer das boas práticas florestais a que se refere o anexo ix do presente Regulamento determina:\n\na) Durante o período de instalação do projecto:\n\ni) A suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, a contar da notificação da suspensão, sob pena de redução de 15 % do valor total da ajuda ao investimento, findo esse prazo;\n\nii) Nos casos em que o IFAP, I. P., reconheça não ser possível a regularização da situação, é determinada a redução de 10 % do valor da ajuda ao investimento;\n\nb) Após o período de instalação do projecto, a suspensão do pagamento dos prémios até à regularização da situação, que deve ocorrer no prazo máximo de um ano, a contar da notificação da suspensão, sob pena de redução de 5 % do valor total dos prémios, findo esse prazo;\n\nc) O cancelamento das ajudas nos casos de reincidência, ou sempre que o incumprimento resulte de irregularidades cometidas deliberadamente.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Sem prejuízo do disposto nos números anteriores, no caso de incumprimento pelo beneficiário das obrigações referidas nas alíneas d), f) e g) do n.º 1 do artigo 16.º, aplica-se o disposto no anexo x.\n\n6 - O incumprimento pelo beneficiário das obrigações constantes do n.º 2 do artigo 16.º determina o cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+  },
+  "1062751775": {
+   "fragment_id": "1060453375",
+   "type": 11,
+   "heading": "Artigo 21.º — Cessão da posição contratual",
+   "in_force_from": "2009-10-28",
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cessão da posição contratual\n\n1 - Pode haver lugar à cessão da posição contratual desde que o cessionário reúna as condições exigidas para a atribuição da ajuda e a cessão seja previamente autorizada pelo IFAP, I. P.\n\n2 - Em casos de cessão da posição contratual, cessa o pagamento do prémio por perda de rendimento.\n\n3 - O cedente da posição contratual não pode apresentar novas candidaturas ao abrigo do presente regime de ajudas durante um período de cinco anos."
+  },
+  "1062751875": {
+   "fragment_id": "1060453575",
+   "type": 11,
+   "heading": "Artigo 22.º — Sucessão por morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Sucessão por morte\n\nAs ajudas previstas no presente Regulamento são transmissíveis por morte dos beneficiários aos seus herdeiros, desde que estes manifestem, por escrito, a vontade de assumirem os compromissos daqueles."
+  },
+  "1062749575": {
+   "fragment_id": "1060453775",
+   "type": 11,
+   "heading": "Artigo 23.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Normas transitórias\n\n1 - O presente Regulamento é aplicável a todas as candidaturas formalizadas após 12 de Dezembro de 2002 e que não foram objecto de decisão, com a especialidade de os prazos referidos no n.º 2 do artigo 14.º serem contados a partir da data da entrada em vigor do presente Regulamento.\n\n2 - As candidaturas apresentadas antes de 12 de Dezembro de 2002 no âmbito da Portaria n.º 94-A/2001, de 9 de Fevereiro, e que ainda não foram objecto de decisão, devem ser reformuladas ao abrigo do disposto no presente Regulamento, no prazo de três meses após a sua entrada em vigor, sob pena de serem canceladas.\n\n3 - O disposto no artigo 17.º é de aplicação retroactiva, exceptuando o que respeita à primeira anuidade do prémio por perda de rendimento no caso dos projectos em que o ano seguinte ao início da instalação já decorreu.\n\n4 - No caso das candidaturas apresentadas no âmbito do Regulamento n.º 2080/92, por cessantes do regime de cessação de actividade instituído pelo Regulamento (CEE) n.º 2079/92, recepcionadas no IFAP, I. P. até 31 de Dezembro de 1999 e que não foram objecto de decisão, não será concedido o prémio por perda de rendimento a que se refere a alínea b) do artigo 6.º\n\n5 - Nos casos referidos no número anterior são elegíveis as despesas efectuadas após 6 de Janeiro de 2000."
+  },
+  "1062751975": {
+   "fragment_id": "1060455475",
+   "type": 14,
+   "heading": "Anexo I — Densidades mínimas dos povoamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Densidades mínimas dos povoamentos\n\n[a que se refere a alínea l) do artigo 3.º]\n\n(ver tabela no documento original)"
+  },
+  "1062752075": {
+   "fragment_id": "1060455675",
+   "type": 14,
+   "heading": "Anexo II — Espécies elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Espécies elegíveis\n\n(a que se refere o n.º 2 do artigo 4.º)\n\n1 - Espécies objectivo:\n\n(ver tabela no documento original)\n\n2 - Podem ser consideradas elegíveis outras espécies desde que adaptadas ecologicamente à estação e a sua percentagem não ultrapasse 20% da área do projecto.\n\n3 - O pinheiro-manso só será considerado espécie objectivo como espécie pioneira em áreas de elevada susceptibilidade à desertificação definidas no despacho n.º 24465/2000, do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, publicado no Diário da República, 2.ª série, n.º 276, de 29 de Novembro de 2000, e ou enquanto produção múltipla na zonagem definida pelo despacho n.º 10237/2001, do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas publicado no Diário da República, 2.ª série, n.º 113, de 16 de Maio de 2001.\n\n4 - Devem ser utilizadas espécies indígenas de Portugal continental e ainda espécies naturalizadas, constantes do anexo I do Decreto-Lei n.º 565/99, de 19 de Dezembro (excluindo as classificadas como invasoras), e as classificadas como de interesse para a arborização, listadas no anexo II do mesmo diploma."
+  },
+  "1062752175": {
+   "fragment_id": "1060457175",
+   "type": 14,
+   "heading": "Anexo III — Áreas máximas contínuas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Áreas máximas contínuas\n\n(a que se refere o n.º 4 do artigo 8.º)\n\nEspécies de crescimento rápido exploradas em revoluções inferiores a 20 anos\n\n(ver tabela no documento original)\n\nNota. - Nas faixas adjacentes às linhas de água não deve proceder-se à instalação destas espécies, nos termos da Portaria n.º 528/89, de 11 de Julho."
+  },
+  "1062752275": {
+   "fragment_id": "1060456675",
+   "type": 14,
+   "heading": "Anexo IV — Densidades das redes viária e divisional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Densidades das redes viária e divisional\n\n[a que se refere a alínea i) da alínea b) do n.º 1 do artigo 9.º]\n\n(ver tabela no documento original)\n\nNota. - Para efeitos da determinação da densidade máxima elegível, é considerada a rede viária já existente na área de intervenção do projecto."
+  },
+  "1062752375": {
+   "fragment_id": "1060457375",
+   "type": 14,
+   "heading": "Anexo V — Número de pontos de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Número de pontos de água\n\n[a que se refere a alínea ii) da alínea b) do n.º 1 do artigo 9.º]\n\n(ver tabela no documento original)\n\nNota. - Para efeitos do número máximo de pontos de água elegível é considerado o número de pontos de água já existente na área de intervenção do projecto."
+  },
+  "1062752475": {
+   "fragment_id": "1060457575",
+   "type": 14,
+   "heading": "Anexo VI — Valor anual do prémio à manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Valor anual do prémio à manutenção\n\n(a que se referem os n.os 3 e 4 do artigo 10.º)\n\n(ver tabela no documento original)\n\nEm povoamentos mistos constituídos por espécies folhosas e resinosas, atribui-se o valor do prémio de manutenção definido para o grupo que represente mais de 50% do povoamento.\n\nO prémio previsto para as freguesias com elevada susceptibilidade à desertificação apenas é aplicável à área do povoamento situada nessas freguesias."
+  },
+  "1062752575": {
+   "fragment_id": "1060457775",
+   "type": 14,
+   "heading": "Anexo VII — Valor anual do prémio por perda de rendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — Valor anual do prémio por perda de rendimento\n\n(a que se refere o n.º 6 do artigo 10.º)\n\n(ver tabela no documento original)\n\nNíveis de majoração do prémio por perda de rendimento\n\n(ver tabela no documento original)\n\n1 - Os níveis de majoração são aplicados de acordo com as áreas de folhosas produtoras de madeira de elevada qualidade ou as áreas inseridas em freguesias de elevada susceptibilidade à desertificação e de forma não cumulativa.\n\n2 - No caso de povoamentos mistos que integrem folhosas produtoras de madeira de elevada qualidade, aplica-se a majoração definida para estas espécies, quando as mesmas representem mais de 50% do povoamento.\n\nNos restantes casos, apenas se aplica a majoração para a área ocupada pelas folhosas produtoras de madeira de elevada qualidade."
+  },
+  "1062752675": {
+   "fragment_id": "1060457975",
+   "type": 14,
+   "heading": "Anexo VIII — Período de atribuição do prémio por perda de rendimento e densidades mínimas",
+   "in_force_from": "2012-10-03",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03."
+   ],
+   "markdown": "## Anexo VIII — Período de atribuição do prémio por perda de rendimento e densidades mínimas\n\n[a que se referem o n.º 6 do artigo 10.º, a alínea f) do n.º 1 e o n.º 5 do artigo 16.º e a alínea a) do n.º 7 do artigo 17.º]\n\n(ver documento original)\n\n1 - A densidade mínima dos povoamentos mistos deve ser igual à densidade mínima definida para a espécie principal, devendo esta representar pelo menos 50 % do povoamento.\n\n2 - Em povoamentos mistos, em que a espécie principal seja o sobreiro ou a azinheira, a densidade mínima total do povoamento deve ser de 500 árvores por hectare, devendo àquelas espécies corresponder, no mínimo, 250 árvores por hectare.\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03."
+  },
+  "1062752775": {
+   "fragment_id": "1060458175",
+   "type": 14,
+   "heading": "Anexo IX — Boas práticas florestais (ver nota 1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — Boas práticas florestais (ver nota 1)\n\n[a que se referem a alínea e) do n.º 2 do artigo 13.º e a alínea a) do n.º 1 do artigo 16.º]\n\nDurante, pelo menos, a vigência do plano de gestão, devem ser cumpridas as seguintes exigências mínimas ambientais:\n\n1 - Utilização de espécies e proveniências adaptadas à estação.\n\n2 - Utilização de plantas e ou sementes certificadas na instalação dos povoamentos para espécies constantes do Decreto-Lei n.º 205/2003, de 12 de Setembro, e respectiva regulamentação. Para as espécies pinheiro-bravo, pinheiro-manso, sobreiro e eucalipto-glóbulo só devem ser utilizadas plantas ou sementes das categorias «seleccionada», «qualificada» ou «testada».\n\n3 - Aproveitamento da regeneração natural existente na exploração a florestar, enquadrando-a nos objectivos do projecto sempre que se apresente em bom estado vegetativo.\n\n4 - Criação de faixas ou manchas de descontinuidade, preferencialmente ao longo das redes viária e divisional, das linhas de água e de cumeada e dos vales, utilizando, nomeadamente, espécies arbóreas ou arbustivas com baixa inflamabilidade e combustibilidade, comunidades herbáceas ou, ainda, mantendo a vegetação natural.\n\nEm arborizações monoespecíficas de resinosas ou folhosas de elevada combustibilidade, de superfície superior a 20 ha, as zonas de descontinuidade deverão representar pelo menos 15% da superfície total. Esta exigência não se aplica aos povoamentos constituídos por quercíneas autóctones.\n\n5 - Nas faixas de protecção às linhas de água, que deverão ter uma largura mínima de 10 m a partir do limite das margens do leito, efectuar, quando necessário, unicamente mobilizações de solo localizadas.\n\n6 - Conservação de maciços arbóreos, arbustivos e ou exemplares notáveis de espécies autóctones, principalmente os constantes da alínea c) do artigo 10.º do Decreto Regulamentar n.º 55/81, de 18 de Dezembro, e os classificados ao abrigo do Decreto-Lei n.º 28468, de 15 de Fevereiro de 1938, e legislação complementar.\n\n7 - Conservação de habitats classificados segundo a Directiva Habitats, florestais ou não.\n\n8 - As mobilizações do solo não localizadas devem ser executadas segundo as curvas de nível; no entanto, poderá a operação de ripagem não obedecer a essa regra, se seguida de uma operação final de vala e cômoro executada segundo as curvas de nível.\n\n9 - Em silvicultura de menores espaçamentos - entrelinhas (igual ou menor que) 4 m - e declives superiores a 20%, instalar uma cultura de cobertura ou manter a vegetação espontânea por um período mínimo de dois anos, através de faixas, dispostas em curva de nível, de acordo com uma das seguintes opções:\n\nManter em todas as entrelinhas uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com largura mínima de 0,5 m;\n\nManter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com largura mínima de 4 m.\n\n10 - Em silvicultura de maiores espaçamentos - entrelinhas (igual ou maior que) 4 m -, manter todas as entrelinhas por um período mínimo de dois anos, sem mobilização do solo ou, quando mobilizado, sem reviramento do solo, dispostas em curvas de nível, com largura mínima de 1 m, que preservem a vegetação espontânea.\n\n11 - Nas zonas de elevada susceptibilidade à desertificação aplicam-se as exigências 9 e 10. Nestas zonas, para qualquer declive, deve existir especial cuidado na protecção do solo contra a erosão, nomeadamente evitando o reviramento do solo e a sua permanência sem cobertura.\n\n12 - Utilizar apenas produtos fitofarmacêuticos (PFF) homologados pelo MADRP. É sempre obrigatória a conservação dos comprovativos de aquisição de PFF e fertilizantes.\n\n13 - Os PFF não se devem aplicar junto das linhas de captação de água, devendo o seu manuseamento e armazenamento efectuar-se em local seco e impermeabilizado, a uma distância mínima de 10 m de linhas ou captações de água.\n\n14 - Recolher os resíduos - embalagens (incluindo contentores de plantas, sacos de plástico, caixas diversas, etc.), restos de produtos, águas de lavagem de máquinas e óleos - dos locais de estação, de preparação dos produtos e das áreas de arborização para locais devidamente apropriados. Não queimar plásticos e borracha na exploração.\n\n15 - Não destruir locais de valor arqueológico, patrimonial ou cultural, bem como infra-estruturas tradicionais (muretes, poços, levadas, etc.) que contenham esses valores.\n\n16 - Em parceria com as autoridades competentes - autarquias, direcções regionais do ambiente, Instituto dos Resíduos -, proceder à remoção dos depósitos de entulhos e outros resíduos.\n\n(nota 1) Baseiam-se em objectivos ambientais que decorrem dos critérios de gestão florestal sustentável (GFS) aprovados no âmbito da Resolução L 2 da III Conferência Ministerial para a Protecção das Florestas (Lisboa, 1998)."
+  },
+  "1062752875": {
+   "fragment_id": "1060458375",
+   "type": 14,
+   "heading": "Anexo X — (a que se refere o n.º 5 do artigo 20.º)",
+   "in_force_from": "2009-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+   ],
+   "markdown": "## Anexo X — (a que se refere o n.º 5 do artigo 20.º)\n\n(ver tabela no documento original)\n\nA - Redução de 20 % do valor da anuidade prevista do prémio de manutenção para o ano em curso e suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, sob pena de cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\nB - Redução de 10 % do valor da anuidade prevista do prémio de perda de rendimento para o ano em curso e suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, sob pena de cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\nC - Suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, sob pena do cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\nD - Cancelamento do projecto, caso o mesmo não seja iniciado no prazo previsto no artigo 15.º, ou, no caso de o projecto não estar concluído no prazo aprovado, suspensão dos pagamentos até à sua conclusão, a qual deve ocorrer no prazo máximo de um ano a contar do termo do prazo aprovado sob pena do cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º, sem prejuízo do disposto no n.º 3 do artigo 15.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+  },
+  "1063802075": {
+   "fragment_id": "1060452375",
+   "type": 11,
+   "heading": "Artigo 16.º — Obrigações dos beneficiários",
+   "in_force_from": "2014-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751), em vigor a partir de 2014-02-07.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.",
+    "Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+   ],
+   "markdown": "###### Artigo 16.º — Obrigações dos beneficiários\n\n1 - Na execução do projecto, constituem, nomeadamente, obrigações dos beneficiários:\n\na) [Revogada.]\n\nb) Respeitar os objectivos específicos do projecto;\n\nc) Manter os povoamentos instalados e infra-estruturas associadas por um período mínimo de 10 anos ou, quando haja lugar à atribuição de prémio por perda de rendimento, durante o respectivo período de atribuição;\n\nd) Cumprir o plano de gestão florestal que integra a candidatura durante, pelo menos, o período de atribuição do prémio por perda de rendimento, mas nunca por período inferior a 10 anos;\n\ne) Respeitar as medidas cautelares a tomar para proteção das árvores e do solo, designadamente quando o controlo da vegetação espontânea for feito com recurso ao pastoreio, o qual só pode ter lugar:\n\ni) No caso de pastoreio ovino, após o período de atribuição do prémio à manutenção e se o povoamento florestal se encontrar devidamente consolidado para suportar esta prática;\n\nii) Para o pastoreio por outras espécies, após o período mínimo de 10 anos a contar da data de conclusão da instalação;\n\nf) Assegurar que, no ano seguinte ao da conclusão da instalação e durante o período de atribuição do prémio à manutenção, os povoamentos objecto de ajudas apresentem as densidades mínimas constantes do anexo VIII;\n\ng) Iniciar e concluir a execução do projecto nos prazos aprovados;\n\nh) Utilizar o livro de obra para acompanhamento e validação da execução dos investimentos;\n\ni) Proceder à delimitação da área intervencionada no Sistema de Identificação Parcelar (SIP) previamente à realização do auto de fecho do projeto.\n\n2 - Sem prejuízo do disposto no número anterior, os beneficiários ficam, ainda, obrigados a:\n\na) Aplicar integralmente a ajuda nos fins para que foi concedida;\n\nb) Respeitar integralmente os requisitos de concessão da ajuda.\n\n3 - Os casos de força maior que afectem a cabal realização do projecto de investimento ou que provoquem a destruição total ou parcial do povoamento devem ser comunicados por escrito ao IFAP, I. P., indicando a extensão dos danos e juntando as respectivas provas, no prazo de 10 dias úteis a contar da data da ocorrência, podendo este prazo ser ultrapassado, desde que devidamente justificado, devendo, em caso de incêndio, ser apresentada a declaração da Autoridade Florestal Nacional (AFN) que ateste a ocorrência e abrangendo a área do projecto.\n\n4 - No caso de atribuição de ajudas a uma área agrupada, cada um dos beneficiários responde solidariamente pelo cumprimento destas obrigações, nomeadamente pela pontual e integral execução do projecto de investimento e pelo plano de gestão florestal que dele faz parte integrante.\n\n5 - As densidades mínimas constantes do anexo VII em situações que assegurem a viabilidade do projecto podem ser excepcionadas por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n6 - Após o período mínimo de 10 anos referido na alínea c) do n.º 1, o beneficiário pode prescindir dos prémios por perda de rendimento e solicitar a desvinculação do cumprimento das obrigações emergentes da concessão do apoio, mediante requerimento dirigido ao Instituto de Financiamento da Agricultura e Pescas, I. P., devidamente justificado, cujo deferimento depende, designadamente, da confirmação da regularidade do projeto de investimento pelas entidades competentes.\n\n> Nota: [Artigo 13.º, Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751) A alteração ao presente artigo, produz efeitos a partir da: a) Campanha de 2013, para os projetos em curso aprovados no âmbito da intervenção «Florestação de terras agrícolas» do RURIS; b) Campanha de 2014, para os projetos em curso aprovados no âmbito das medidas florestais na agricultura instituídas pelo Regulamento (CEE) n.º 2080/92, do Conselho, de 30 de junho, e das medidas florestais nas explorações agrícolas do Regulamento (CEE) n.º 2328/91, do Conselho, de 15 de julho.\n\n> Alterado pelo/a Artigo 12.º do/a [Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751), em vigor a partir de 2014-02-07.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 301/2012 - Diário da República n.º 191/2012, Série I de 2012-10-02](https://diariodarepublica.pt/dr/detalhe/portaria/301-2012-175811), em vigor a partir de 2012-10-03.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28.\n\n> Alterado pelo/a [Portaria n.º 159/2005 - Diário da República n.º 28/2005, Série I-B de 2005-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/159-2005-618148), em vigor a partir de 2005-02-14."
+  },
+  "1063802275": {
+   "fragment_id": "1060453175",
+   "type": 11,
+   "heading": "Artigo 20.º — Sanções",
+   "in_force_from": "2014-02-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751), em vigor a partir de 2014-02-07.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+   ],
+   "markdown": "###### Artigo 20.º — Sanções\n\n1 - Quando em consequência de controlos administrativos ou no local, ou no âmbito da aprovação de auto de fecho, ou de autos de acompanhamento e avaliação, se verificarem divergências entre as áreas declaradas e as áreas determinadas aplica-se o disposto no Regulamento (CE) n.º 796/2004, da Comissão, de 21 de Abril.\n\n2 - O incumprimento pelo beneficiário de qualquer das boas práticas florestais a que se refere o anexo ix do presente Regulamento determina:\n\na) Durante o período de instalação do projecto:\n\ni) A suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, a contar da notificação da suspensão, sob pena de redução de 15 % do valor total da ajuda ao investimento, findo esse prazo;\n\nii) Nos casos em que o IFAP, I. P., reconheça não ser possível a regularização da situação, é determinada a redução de 10 % do valor da ajuda ao investimento;\n\nb) Após o período de instalação do projecto, a suspensão do pagamento dos prémios até à regularização da situação, que deve ocorrer no prazo máximo de um ano, a contar da notificação da suspensão, sob pena de redução de 5 % do valor total dos prémios, findo esse prazo;\n\nc) O cancelamento das ajudas nos casos de reincidência, ou sempre que o incumprimento resulte de irregularidades cometidas deliberadamente.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - Sem prejuízo do disposto nos números anteriores, no caso de incumprimento pelo beneficiário das obrigações referidas nas alíneas d), f) e g) do n.º 1 do artigo 16.º, aplica-se o disposto no anexo x.\n\n6 - O incumprimento pelo beneficiário das obrigações constantes do n.º 2 do artigo 16.º determina o cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\n> Nota: [Artigo 13.º, Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751) A revogação do presente artigo, produz efeitos a partir da: a) Campanha de 2013, para os projetos em curso aprovados no âmbito da intervenção «Florestação de terras agrícolas» do RURIS; b) Campanha de 2014, para os projetos em curso aprovados no âmbito das medidas florestais na agricultura instituídas pelo Regulamento (CEE) n.º 2080/92, do Conselho, de 30 de junho, e das medidas florestais nas explorações agrícolas do Regulamento (CEE) n.º 2328/91, do Conselho, de 15 de julho.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751), em vigor a partir de 2014-02-07.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+  },
+  "1063802475": {
+   "fragment_id": "1060458175",
+   "type": 14,
+   "heading": "Anexo IX — Boas práticas florestais (ver nota 1)",
+   "in_force_from": "2014-02-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751), em vigor a partir de 2014-02-07."
+   ],
+   "markdown": "## Anexo IX — Boas práticas florestais (ver nota 1)\n\n[a que se referem a alínea e) do n.º 2 do artigo 13.º e a alínea a) do n.º 1 do artigo 16.º]\n\nDurante, pelo menos, a vigência do plano de gestão, devem ser cumpridas as seguintes exigências mínimas ambientais:\n\n1 - Utilização de espécies e proveniências adaptadas à estação.\n\n2 - Utilização de plantas e ou sementes certificadas na instalação dos povoamentos para espécies constantes do Decreto-Lei n.º 205/2003, de 12 de Setembro, e respectiva regulamentação. Para as espécies pinheiro-bravo, pinheiro-manso, sobreiro e eucalipto-glóbulo só devem ser utilizadas plantas ou sementes das categorias «seleccionada», «qualificada» ou «testada».\n\n3 - Aproveitamento da regeneração natural existente na exploração a florestar, enquadrando-a nos objectivos do projecto sempre que se apresente em bom estado vegetativo.\n\n4 - Criação de faixas ou manchas de descontinuidade, preferencialmente ao longo das redes viária e divisional, das linhas de água e de cumeada e dos vales, utilizando, nomeadamente, espécies arbóreas ou arbustivas com baixa inflamabilidade e combustibilidade, comunidades herbáceas ou, ainda, mantendo a vegetação natural.\n\nEm arborizações monoespecíficas de resinosas ou folhosas de elevada combustibilidade, de superfície superior a 20 ha, as zonas de descontinuidade deverão representar pelo menos 15% da superfície total. Esta exigência não se aplica aos povoamentos constituídos por quercíneas autóctones.\n\n5 - Nas faixas de protecção às linhas de água, que deverão ter uma largura mínima de 10 m a partir do limite das margens do leito, efectuar, quando necessário, unicamente mobilizações de solo localizadas.\n\n6 - Conservação de maciços arbóreos, arbustivos e ou exemplares notáveis de espécies autóctones, principalmente os constantes da alínea c) do artigo 10.º do Decreto Regulamentar n.º 55/81, de 18 de Dezembro, e os classificados ao abrigo do Decreto-Lei n.º 28468, de 15 de Fevereiro de 1938, e legislação complementar.\n\n7 - Conservação de habitats classificados segundo a Directiva Habitats, florestais ou não.\n\n8 - As mobilizações do solo não localizadas devem ser executadas segundo as curvas de nível; no entanto, poderá a operação de ripagem não obedecer a essa regra, se seguida de uma operação final de vala e cômoro executada segundo as curvas de nível.\n\n9 - Em silvicultura de menores espaçamentos - entrelinhas (igual ou menor que) 4 m - e declives superiores a 20%, instalar uma cultura de cobertura ou manter a vegetação espontânea por um período mínimo de dois anos, através de faixas, dispostas em curva de nível, de acordo com uma das seguintes opções:\n\nManter em todas as entrelinhas uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com largura mínima de 0,5 m;\n\nManter de 20 m em 20 m uma faixa, sem mobilização do solo ou, quando mobilizada, sem reviramento do solo, com largura mínima de 4 m.\n\n10 - Em silvicultura de maiores espaçamentos - entrelinhas (igual ou maior que) 4 m -, manter todas as entrelinhas por um período mínimo de dois anos, sem mobilização do solo ou, quando mobilizado, sem reviramento do solo, dispostas em curvas de nível, com largura mínima de 1 m, que preservem a vegetação espontânea.\n\n11 - Nas zonas de elevada susceptibilidade à desertificação aplicam-se as exigências 9 e 10. Nestas zonas, para qualquer declive, deve existir especial cuidado na protecção do solo contra a erosão, nomeadamente evitando o reviramento do solo e a sua permanência sem cobertura.\n\n12 - Utilizar apenas produtos fitofarmacêuticos (PFF) homologados pelo MADRP. É sempre obrigatória a conservação dos comprovativos de aquisição de PFF e fertilizantes.\n\n13 - Os PFF não se devem aplicar junto das linhas de captação de água, devendo o seu manuseamento e armazenamento efectuar-se em local seco e impermeabilizado, a uma distância mínima de 10 m de linhas ou captações de água.\n\n14 - Recolher os resíduos - embalagens (incluindo contentores de plantas, sacos de plástico, caixas diversas, etc.), restos de produtos, águas de lavagem de máquinas e óleos - dos locais de estação, de preparação dos produtos e das áreas de arborização para locais devidamente apropriados. Não queimar plásticos e borracha na exploração.\n\n15 - Não destruir locais de valor arqueológico, patrimonial ou cultural, bem como infra-estruturas tradicionais (muretes, poços, levadas, etc.) que contenham esses valores.\n\n16 - Em parceria com as autoridades competentes - autarquias, direcções regionais do ambiente, Instituto dos Resíduos -, proceder à remoção dos depósitos de entulhos e outros resíduos.\n\n(nota 1) Baseiam-se em objectivos ambientais que decorrem dos critérios de gestão florestal sustentável (GFS) aprovados no âmbito da Resolução L 2 da III Conferência Ministerial para a Protecção das Florestas (Lisboa, 1998).\n\n> Nota: [Artigo 13.º, Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751) A revogação do presente anexo, produz efeitos a partir da: a) Campanha de 2013, para os projetos em curso aprovados no âmbito da intervenção «Florestação de terras agrícolas» do RURIS; b) Campanha de 2014, para os projetos em curso aprovados no âmbito das medidas florestais na agricultura instituídas pelo Regulamento (CEE) n.º 2080/92, do Conselho, de 30 de junho, e das medidas florestais nas explorações agrícolas do Regulamento (CEE) n.º 2328/91, do Conselho, de 15 de julho.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751), em vigor a partir de 2014-02-07."
+  },
+  "1063804675": {
+   "fragment_id": "1060458375",
+   "type": 14,
+   "heading": "Anexo X — (a que se refere o n.º 5 do artigo 20.º)",
+   "in_force_from": "2014-02-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751), em vigor a partir de 2014-02-07.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+   ],
+   "markdown": "## Anexo X — (a que se refere o n.º 5 do artigo 20.º)\n\n(ver tabela no documento original)\n\nA - Redução de 20 % do valor da anuidade prevista do prémio de manutenção para o ano em curso e suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, sob pena de cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\nB - Redução de 10 % do valor da anuidade prevista do prémio de perda de rendimento para o ano em curso e suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, sob pena de cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\nC - Suspensão dos pagamentos até à regularização da situação, que deve ocorrer no prazo máximo de um ano, sob pena do cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º\n\nD - Cancelamento do projecto, caso o mesmo não seja iniciado no prazo previsto no artigo 15.º, ou, no caso de o projecto não estar concluído no prazo aprovado, suspensão dos pagamentos até à sua conclusão, a qual deve ocorrer no prazo máximo de um ano a contar do termo do prazo aprovado sob pena do cancelamento do projecto e consequente devolução das ajudas nos termos do artigo 19.º, sem prejuízo do disposto no n.º 3 do artigo 15.º\n\n> Nota: [Artigo 13.º, Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751) A revogação do presente anexo, produz efeitos a partir da: a) Campanha de 2013, para os projetos em curso aprovados no âmbito da intervenção «Florestação de terras agrícolas» do RURIS; b) Campanha de 2014, para os projetos em curso aprovados no âmbito das medidas florestais na agricultura instituídas pelo Regulamento (CEE) n.º 2080/92, do Conselho, de 30 de junho, e das medidas florestais nas explorações agrícolas do Regulamento (CEE) n.º 2328/91, do Conselho, de 15 de julho.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 32/2014 - Diário da República n.º 26/2014, Série I de 2014-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/32-2014-570751), em vigor a partir de 2014-02-07.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1367/2009 - Diário da República n.º 208/2009, Série I de 2009-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/1367-2009-483123), em vigor a partir de 2009-10-28."
+  }
+ }
+}

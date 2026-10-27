@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:143304:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-890194483",
+ "dre_path": "/dr/detalhe/decreto-lei/195-1984-143304",
+ "source_lastmod": "2024-10-07",
+ "versions": [
+  {
+   "date": "1984-06-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890193835",
+    "890193836",
+    "890193837",
+    "890193838",
+    "890193839",
+    "890193840",
+    "890193841",
+    "890193842",
+    "890193843",
+    "890193844",
+    "890193845",
+    "890193846",
+    "890193847",
+    "890193848"
+   ]
+  }
+ ],
+ "fragments": {
+  "890193835": {
+   "fragment_id": "890194484",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 195/84\n\nde 11 de Junho\n\nO alargamento das áreas marítimas submetidas à jurisdição exclusiva dos países costeiros teve como consequência, em certos casos, a impossibilidade absoluta e, noutros, a redução drástica das actividades de captura de uma parte importante das unidades de pesca longínqua que, tradicionalmente, operavam naquelas áreas.\n\nActualmente, os montantes das quotas de pesca e, entre elas, muito especialmente as de bacalhau, atribuídas a Portugal, quer por países estrangeiros quer por organizações internacionais, situam-se a níveis muito inferiores aos que seriam necessários à viabilização económica da exploração de totalidade das unidades de pesca longínqua qualificada para operarem nas áreas para as quais são licenciadas.\n\nImpõe-se, assim, que sejam tomadas medidas adequadas de reorientação, quando possível, ou de reestruturação das frotas, nomeadamente através do abate daquelas unidades que, pela sua idade, são manifestamente obsoletas.\n\nDesde a publicação do Decreto-Lei n.º 1/81, de 7 de Janeiro, têm sido, ao abrigo deste diploma, autorizadas e realizadas, pelas unidades de pesca, operações de complementação de captura das quotas atribuídas, por via de aquisição de pescado de origem estrangeira.\n\nContudo, a dificuldade de regulamentação do citado diploma e a necessidade de uma progressiva harmonização do ordenamento jurídico nacional com as normas comunitárias da CEE impõem a sua substituição.\n\nCom o objectivo de proporcionar condições favoráveis à reestruturação das frotas, com minimização dos respectivos custos financeiros e sociais, a publicação do presente decreto-lei tem em vista a manutenção, em termos transitórios, da possibilidade de realização de operações de complementos de captura, a par da aplicação de um regime aduaneiro excepcional, aos produtos delas provenientes descarregados em portos nacional.\n\nNestes termos, usando da autorização legislativa conferida pela alínea i) do artigo 19.º da Lei n.º 42/83, de 31 de Dezembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "890193836": {
+   "fragment_id": "890194485",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs armadores de embarcações de pesca nacionais qualificadas para exercerem actividades de captura em pesqueiros exteriores e não contíguos às áreas marítimas sob jurisdição portuguesa podem ser autorizados a adquirir, para transporte e descarga em portos nacionais, pescado processado, com excepção do bacalhau salgado seco, ou para processamento a bordo, desde que:\n\na) Tenham as suas actividades de captura restringidas quantitativamente no quadro de acordos ou convenções internacionais de que Portugal faz parte;\n\nb) A limitação das suas actividades à captura das partes das quotas que lhes forem atribuídas inviabilize economicamente a exploração das respectivas unidades;\n\nc) As aquisições se efectuem em países situados na área de actividade das respectivas embarcações."
+  },
+  "890193837": {
+   "fragment_id": "890194486",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPoderão igualmente os armadores de embarcações de pesca nacionais ser autorizados a constituir associações de interesses contratuais ou a celebrar contratos de prestação de serviços com entidades estrangeiras que tenham por objecto o processamento, a bordo das suas embarcações, de pescado fornecido por aquelas entidades, e a descarregar em portos nacionais a parte do produto processado que constitui a repartição dos lucros na associação de interesses ou a remuneração em espécie pelos serviços prestados."
+  },
+  "890193838": {
+   "fragment_id": "890194487",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO volume das aquisições referidas nos artigos anteriores não pode exceder, em cada ano, a quantidade máxima prevista no Plano de Abastecimento de Pescado para o conjunto das embarcações autorizadas a efectuar essas operações."
+  },
+  "890193839": {
+   "fragment_id": "890194488",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs espécies capturadas e as mercadorias obtidas a bordo a partir exclusivamente dessas espécies são de origem nacional, de harmonia com o disposto no n.º 1 e nas alíneas f) e g) do n.º 2 do artigo 3.º do Decreto-Lei n.º 107/83, de 19 de Fevereiro."
+  },
+  "890193840": {
+   "fragment_id": "890194489",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNa importação do pescado adquirido nos termos dos artigos 1.º e 2.º e descarregado em portos nacionais será aplicado um direito fixo de 3% ad valorem para os quantitativos previstos no Plano de Abastecimento de Pescado e a que alude o artigo 3.º"
+  },
+  "890193841": {
+   "fragment_id": "890194490",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs aquisições referidas nos artigos 1.º e 2.º deverão observar as normas de autorização e registo prévio aplicáveis à importação da generalidade das mercadorias."
+  },
+  "890193842": {
+   "fragment_id": "890194491",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Direcção-Geral das Pescas repartirá por armadores as quantidades máximas anuais de pescado a adquirir nos termos dos artigos 1.º e 2.º e fornecerá de imediato às Direcções-Gerais do Comércio Externo e das Alfândegas, para efeitos de emissão de boletim de registo prévio de importação e do controle aduaneiro, a lista das empresas e embarcações de pesca autorizadas a efectuar as operações, com indicação dos volumes de pescado a adquirir e descarregar em portos nacionais."
+  },
+  "890193843": {
+   "fragment_id": "890194492",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - As operações de aquisição de pescado para processamento a bordo referidas no artigo 1.º e os contratos de associação de interesses e de prestação de serviços a que alude o artigo 2.º serão obrigatoriamente submetidos a homologação do Ministro do Mar, obtido o parecer prévio da Direcção-Geral das Pescas, e registados no Banco de Portugal.\n\n2 - Das operações e contratos homologados será dado conhecimento aos Ministros das Finanças e do Plano e do Comércio e Turismo.\n\n> Nota: [Artigo 19.º, Decreto-Lei n.º 176/91 - Diário da República n.º 110/1991, Série I-A de 1991-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1991-640952) Deixam de estar sujeitos a registo e comunicação ao Banco de Portugal, os contratos e operações previstos no presente artigo."
+  },
+  "890193844": {
+   "fragment_id": "890194493",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Todos os contratos com entidades estrangeiras que tenham por objectivo actividades de captura por embarcações de pesca nacionais em pesqueiros localizados em áreas marítimas exteriores à zona económica exclusiva nacional, bem como os respeitantes a associações de interesses ou prestação de serviços, serão obrigatoriamente submetidos a homologação do Ministro do Mar, obtido o parecer prévio da Direcção-Geral das Pescas, e registados no Banco de Portugal.\n\n2 - Dos contratos homologados será dado conhecimento aos Ministros das Finanças e do Plano e do Comércio e Turismo.\n\n> Nota: [Artigo 19.º, Decreto-Lei n.º 176/91 - Diário da República n.º 110/1991, Série I-A de 1991-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1991-640952) Deixam de estar sujeitos a registo e comunicação ao Banco de Portugal, os contratos e operações previstos no presente artigo."
+  },
+  "890193845": {
+   "fragment_id": "890194494",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nIncumbe aos capitães ou mestres das embarcações admitidas ao exercício das operações previstas neste diploma assegurar a manutenção em dia dos registos de bordo, bem como a emissão de guias, manifestos, declarações e demais documentação, por cuja veracidade respondem pessoalmente, requeridos pelas autoridades competentes para verificação e fiscalização das respectivas actividades efectuadas em cada viagem entre a saída e a entrada no respectivo porto de armamento."
+  },
+  "890193846": {
+   "fragment_id": "890194495",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nNo prazo de 180 dias, contados a partir da entrada em vigor do presente diploma, a Direcção-Geral das Pescas, ouvidos os Ministérios das Finanças e do Plano e do Comércio e Turismo, proporá ao Ministro do Mar os critérios de abate e incentivos à reestruturação da frota de pesca longínqua.\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 308/84 - Diário da República n.º 220/1984, Série I de 1984-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1984-399627) São temporariamente reduzidos de 12% para 3% os direitos aduaneiros correspondentes à posição pautal n.º 03.02-A-I - Bacalhau seco, salgado ou em salmoura, do capítulo 3.º da Pauta dos Direitos de Importação, até ao termo do prazo previsto no presente artigo."
+  },
+  "890193847": {
+   "fragment_id": "890194496",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nFicam revogados os preceitos do Decreto-Lei n.º 1/81, de 7 de Janeiro, contrariados pelo disposto no presente diploma."
+  },
+  "890193848": {
+   "fragment_id": "890194497",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  }
+ }
+}

@@ -1,0 +1,856 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:499213:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-67644275",
+ "dre_path": "/dr/detalhe/portaria/257-2013-499213",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-08-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "872428272",
+    "67628617",
+    "67628618",
+    "67628619",
+    "67628620",
+    "67628621",
+    "67628622",
+    "67628623",
+    "67628624",
+    "67628625",
+    "67628626",
+    "67628627",
+    "67628628",
+    "67628629",
+    "67628630",
+    "67628631",
+    "67628632",
+    "67628633",
+    "67628634",
+    "67628635",
+    "67628636",
+    "67628637",
+    "67628638",
+    "67628639",
+    "67628640",
+    "67628641",
+    "67628642",
+    "67628643",
+    "67628644",
+    "67628645"
+   ]
+  },
+  {
+   "date": "2015-06-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67613391:por",
+     "title": "Portaria n.º 190/2015",
+     "published": "2015-06-26",
+     "dre_path": "/dr/detalhe/portaria/190-2015-67613391"
+    }
+   ],
+   "changes": [
+    "Adita Anexo IV",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "67628616",
+    "67628617",
+    "67628655",
+    "67628619",
+    "67628620",
+    "67628656",
+    "67628622",
+    "67628623",
+    "67628657",
+    "67628625",
+    "67628658",
+    "67628627",
+    "67628659",
+    "67628660",
+    "67628661",
+    "67628662",
+    "67628632",
+    "67628663",
+    "67628664",
+    "67628635",
+    "67628636",
+    "67628637",
+    "67628638",
+    "67628639",
+    "67628640",
+    "67628641",
+    "67628642",
+    "67628646",
+    "67628643",
+    "67628644",
+    "67628666",
+    "67628665"
+   ]
+  },
+  {
+   "date": "2016-12-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105300327:por",
+     "title": "Portaria n.º 303/2016",
+     "published": "2016-12-05",
+     "dre_path": "/dr/detalhe/portaria/303-2016-105300327"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "872428272",
+    "872428273",
+    "872428274",
+    "872430975",
+    "872430976",
+    "872430977",
+    "872430978",
+    "872430979",
+    "872430980",
+    "872430981",
+    "872430982",
+    "872430983",
+    "872430984",
+    "872430985",
+    "872430986",
+    "872430987",
+    "872430988",
+    "872430989",
+    "872430990",
+    "872430991",
+    "872430992",
+    "872430993",
+    "872430994",
+    "872430995",
+    "872430996",
+    "872430997",
+    "872430998",
+    "872430999",
+    "872431000",
+    "872431001",
+    "872431002",
+    "872431003"
+   ]
+  }
+ ],
+ "fragments": {
+  "872428272": {
+   "fragment_id": "67644276",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2016-12-06",
+   "changed_by": [],
+   "markdown": "Portaria n.º 257/2013\n\nde 13 de agosto\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de outubro, com as alterações introduzidas pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0491\" title=\"Link para Regulamento da Comunidade Europeia\">491/2009</a>, do Conselho, de 25 de maio, estabelece o novo quadro de apoio comunitário previsto para o período de 2014-2018.\n\nConsiderando que a medida de promoção em mercados de países terceiros contribui decisivamente para a visibilidade e o reconhecimento do carácter diferenciador dos vinhos portugueses naqueles mercados e para o aumento das exportações, importa adequar o programa nacional do apoio ao sector vitivinícola a este novo quadro de programação financeira comunitário.\n\nNa mesma medida, cumpre, ainda, acomodar a comparticipação nacional ao disposto no Decreto-Lei n.º 94/2012, de 20 de abril, que aprova as regras do financiamento dos regimes de apoio ao desenvolvimento de ações de promoção e de publicidade do vinho e dos produtos vínicos.\n\nPor último, e tendo em conta os resultados e experiência obtidos nos concursos anteriores, é necessário, também, efetuar ajustamentos ao atual quadro regulamentar desta medida de apoio, de modo a agilizar os procedimentos administrativos, permitindo um resultado mais eficiente da medida.\n\nAssim:\n\nManda o Governo, pela Ministra da Agricultura e do Mar, ao abrigo do disposto no n.º 1 do artigo 17.º do Decreto-Lei n.º 86-A/2011, de 12 de julho, o seguinte:\n\n> Nota: [Artigo 24.º, Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327) Os projetos contratualizados até 6 de dezembro de 2016, regem-se pelo disposto na presente Portaria."
+  },
+  "67628617": {
+   "fragment_id": "67644277",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nA presente Portaria estabelece as regras complementares para o apoio comunitário à promoção de vinhos em mercados de países terceiros, no âmbito do programa nacional de apoio ao sector vitivinícola, para o período 2014-2018, nos termos do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de outubro, com as alterações introduzidas pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0491\" title=\"Link para Regulamento da Comunidade Europeia\">491/2009</a>, do Conselho, de 25 de maio."
+  },
+  "67628618": {
+   "fragment_id": "67644278",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidades intervenientes\n\n1 - São entidades intervenientes no procedimento relativo ao regime de apoio à promoção de vinhos em mercados de países terceiros o Instituto da Vinha e do Vinho, I. P. (IVV, I. P.), que exerce as funções de entidade de gestão (EG), e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), que exerce as funções de organismo pagador.\n\n2 - Compete à EG:\n\na) Proceder à abertura de concursos para seleção de projetos;\n\nb) Avaliar e selecionar os projetos apresentados;\n\nc) Decidir e fixar as taxas de apoio a conceder aos projetos;\n\nd) Analisar e decidir as modificações apresentadas aos projetos;\n\ne) Definir o grau de execução mínimo dos projetos;\n\nf) Efetuar o acompanhamento e a avaliação da medida de apoio.\n\n3 - Compete ao IFAP, I. P.:\n\na) Proceder à comunicação ao beneficiário do termo de aceitação do compromisso relativo ao projeto aprovado;\n\nb) Avaliar e decidir sobre os pedidos de pagamentos solicitados;\n\nc) Efetuar o pagamento dos apoios;\n\nd) Proceder aos controlos administrativos e à coordenação dos controlos no local, com a entidade competente designada para o efeito nos termos da regulamentação comunitária aplicável.\n\n4 - As entidades referidas podem ser apoiadas nas suas funções por outros organismos públicos, mediante celebração de protocolo de colaboração ou de outra forma acordada para o efeito.\n\n5 - As entidades intervenientes promovem o intercâmbio de dados e informação sobre esta medida de apoio, para um desempenho eficaz das funções atribuídas."
+  },
+  "67628619": {
+   "fragment_id": "67644279",
+   "type": 11,
+   "heading": "Artigo 3.º — Normas complementares de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Normas complementares de aplicação\n\n1 - As entidades intervenientes referidas no artigo anterior estabelecem as normas complementares de aplicação da presente portaria, de acordo com as respetivas competências.\n\n2 - As normas complementares são publicitadas nas páginas eletrónicas do IVV, I. P., e do IFAP, I. P."
+  },
+  "67628620": {
+   "fragment_id": "67644280",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia de ações\n\n1 - São suscetíveis de apoio à promoção as seguintes tipologias de ações:\n\na) Ações de relações públicas, promoção ou publicidade, que destaquem, designadamente, as vantagens dos produtos produzidos no território nacional, especialmente em termos de qualidade, segurança dos alimentos ou respeito pelo ambiente;\n\nb) Participação em eventos, feiras ou exposições de importância internacional;\n\nc) Campanhas de informação, especialmente sobre os regimes comunitários de denominações de origem, indicações geográficas e modo de produção biológica;\n\nd) Estudos de mercado necessários para a expansão das saídas comerciais;\n\ne) Estudos de avaliação dos resultados das ações de promoção e informação.\n\n2 - As mensagens de promoção a transmitir devem basear-se nas qualidades intrínsecas do vinho.\n\n3 - Quando se trate de vinho com denominação de origem (DO) ou indicação geográfica (IG) deve ser indicada a origem do vinho nas campanhas de informação e promoção.\n\n4 - Sem prejuízo do disposto nos n.os 2 e 3, a referência a marcas comerciais pode integrar as mensagens de promoção.\n\n5 - A EG pode estabelecer nas normas complementares de aplicação diretivas relativas às mensagens de promoção a transmitir, de modo a favorecer a coerência e eficácia da medida."
+  },
+  "67628621": {
+   "fragment_id": "67644281",
+   "type": 11,
+   "heading": "Artigo 5.º — Produtos e mercados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produtos e mercados\n\n1 - São suscetíveis de apoio no âmbito da presente medida os projetos de promoção em mercados de países terceiros de vinhos com «Denominação de origem» (DO), vinhos com «Indicação geográfica» (IG) e vinhos com indicação de casta, produzidos no território nacional, que se destinem ao consumo direto e haja disponibilidade a longo prazo, em quantidade e qualidade suficientes, para responder à procura do mercado depois da realização das ações de promoção.\n\n2 - Os mercados prioritários considerados para a atribuição de apoio são os constantes no anexo i à presente portaria, da qual faz parte integrante, tendo em conta os seguintes critérios:\n\na) Evolução das exportações nacionais;\n\nb) Tendências do comércio de vinhos no mercado internacional;\n\nc) Evolução e tendências de mercados, considerando os padrões, comportamentos da procura e do consumo e a notoriedade dos vinhos portugueses.\n\n3 - Sem prejuízo do disposto no número anterior, a EG pode aceitar que a candidatura inclua outros mercados, desde que as ações, a desenvolver nos mesmos, contribuam para os objetivos estabelecidos nesta medida de apoio.\n\n4 - Caso sejam considerados novos mercados, nos termos do número anterior, os mesmos devem constar do aviso de abertura do respetivo concurso."
+  },
+  "67628622": {
+   "fragment_id": "67644282",
+   "type": 11,
+   "heading": "Artigo 6.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Beneficiários\n\nPodem beneficiar de apoio à promoção de vinho em mercados de países terceiros as seguintes entidades:\n\na) Empresas, grupos de empresas ou associações destas, de qualquer natureza e forma jurídica, desde que relacionadas com o sector do vinho;\n\nb) Organizações de produtores, reconhecidas no âmbito da Organização Comum de Mercado do Vinho;\n\nc) Associações e organizações profissionais do sector do vinho;\n\nd) Associações e organizações interprofissionais do sector do vinho;\n\ne) Organismos públicos diretamente relacionados com o sector do vinho."
+  },
+  "67628623": {
+   "fragment_id": "67644283",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de acesso do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de acesso do beneficiário\n\nO beneficiário deve observar as seguintes condições de acesso:\n\na) Encontrar-se legalmente constituído e ter sede, representação permanente ou estabelecimento estável no território nacional;\n\nb) Cumprir as condições legais necessárias ao exercício da atividade;\n\nc) Possuir a situação regularizada face à administração fiscal e à segurança social;\n\nd) Dispor de contabilidade organizada, nos termos do sistema de normalização contabilística ou outra regulamentação em vigor;\n\ne) Possuir ou assegurar os recursos necessários ao desenvolvimento e execução eficaz do projeto;\n\nf) Demonstrar ter capacidade de financiamento do projeto;\n\ng) Ter capacidade para fazer face às condicionantes específicas do comércio com países terceiros;\n\nh) No caso de empresa com atividade principal na área da distribuição, evidenciar o interesse de participação no projeto das entidades cujos vinhos distribuem nos mercados alvo do projeto, bem como, o compromisso das mesmas quanto ao fornecimento dos vinhos, em quantidade e qualidade, para responder à procura nos mercados."
+  },
+  "67628624": {
+   "fragment_id": "67644284",
+   "type": 11,
+   "heading": "Artigo 8.º — Duração do projeto e do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Duração do projeto e do apoio\n\n1 - A execução material do projeto não deve ser superior a 3 anos, sendo as datas de início e de fim do projeto fixadas no aviso de abertura do respetivo concurso.\n\n2 - O apoio a conceder ao projeto incide sobre as ações aprovadas e executadas no período temporal referido no número anterior.\n\n3 - O apoio concedido a um beneficiário em determinado mercado de país terceiro por um período de três anos, pode ser renovado, uma única vez, pelo período máximo de dois anos, devendo para o efeito o beneficiário apresentar um novo projeto que deve incluir a avaliação dos resultados obtidos anteriormente."
+  },
+  "67628625": {
+   "fragment_id": "67644285",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma, nível e limite dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Forma, nível e limite dos apoios\n\n1 - Os apoios são concedidos sob a forma de incentivo não reembolsável.\n\n2 - O nível máximo de apoio a conceder a cada projeto por fundos da União Europeia não pode ultrapassar 50 % do valor das despesas elegíveis.\n\n3 - Em função da pontuação final do projeto, o nível máximo de apoio pode ser majorado por fundos nacionais, até ao limite de 30 %, nos termos previstos no anexo ii à presente portaria, respeitando as disposições de direito europeu aplicáveis em matéria de auxílios de Estado.\n\n4 - A comparticipação de fundos nacionais resulta da disponibilidade orçamental proveniente das receitas geradas pela cobrança da taxa de promoção, de acordo com o disposto no Decreto-Lei n.º 94/2012, de 20 de abril.\n\n5 - O disposto do n.º 3 não se aplica aos beneficiários referidos nas alíneas a) e b) do artigo 6.º, nem a ações referentes a produtos com a DO «Porto» e produtos originários das Regiões Autónomas dos Açores e da Madeira.\n\n6 - Para os beneficiários referidos nas alíneas c) a e) do artigo 6.º, caso possuam ações que incluam produtos com a DO «Porto» e produtos originários das Regiões Autónomas dos Açores e da Madeira, estas devem ser apresentadas num projeto individualizado."
+  },
+  "67628626": {
+   "fragment_id": "67644286",
+   "type": 11,
+   "heading": "Artigo 10.º — Cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cumulação de apoios\n\nAs despesas apoiadas ao abrigo da presente portaria não podem beneficiar de quaisquer outros apoios públicos."
+  },
+  "67628627": {
+   "fragment_id": "67644287",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas elegíveis e não elegíveis\n\n1 - Para efeitos de candidatura, as despesas elegíveis são estabelecidas pela EG nas normas complementares referidas no artigo 3.º, incluindo as despesas diretamente relacionadas com a execução do projeto, nomeadamente com:\n\na) Comunicação e publicidade;\n\nb) Realização e participação em eventos;\n\nc) Material promocional;\n\nd) Estudos de mercados e de avaliação;\n\ne) Despesas do beneficiário;\n\nf) Viagens e estadias;\n\ng) Materiais, equipamentos e consumíveis;\n\nh) Publicações e sua distribuição.\n\n2 - Não são elegíveis, nomeadamente, as seguintes despesas:\n\na) O imposto sobre o valor acrescentado, exceto em relação aos beneficiários sujeitos ao regime de isenção ou integrados em regime misto;\n\nb) As despesas bancárias.\n\n3 - Os requisitos dos comprovativos das despesas para efeitos de pagamento do apoio são definidos pelo IFAP, I. P., através das normas complementares referidas no artigo 3.º."
+  },
+  "67628628": {
+   "fragment_id": "67644288",
+   "type": 11,
+   "heading": "Artigo 12.º — Abertura de concursos e apresentação de projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Abertura de concursos e apresentação de projetos\n\n1 - Os projetos de promoção em mercados de países terceiros são selecionados mediante concurso nos termos da presente portaria.\n\n2 - Os períodos para apresentação de candidaturas são abertos por iniciativa da EG, e publicitados nas páginas eletrónicas do IVV, I. P., e do IFAP, I. P.\n\n3 - São admitidos a concurso os projetos que contemplem uma ou mais tipologias de ações suscetíveis de apoio.\n\n4 - O aviso de abertura de cada concurso para apresentação de projetos deve estabelecer as regras relativas ao procedimento, nomeadamente:\n\na) Os objetivos e as prioridades;\n\nb) Os mercados, as tipologias de ações e as ações preferenciais;\n\nc) Os beneficiários;\n\nd) A duração dos projetos e os períodos de execução financeira;\n\ne) A metodologia de avaliação, apuramento de mérito e de seleção dos projetos;\n\nf) O prazo e as regras para a apresentação de projetos;\n\ng) O prazo para a decisão sobre a atribuição dos apoios;\n\nh) O orçamento disponível."
+  },
+  "67628629": {
+   "fragment_id": "67644289",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliação e seleção de projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliação e seleção de projetos\n\n1 - A avaliação e seleção dos projetos são efetuadas mediante a verificação de conformidade com os requisitos exigidos no aviso de abertura de concurso, a avaliação do mérito e da relação qualidade/custo e aplicação das prioridades estabelecidas na regulamentação comunitária.\n\n2 - A avaliação do mérito do projeto e da relação qualidade/custo, bem como as prioridades, são pontuadas de acordo com os parâmetros, critérios e níveis de ponderação estabelecidos no anexo iii à presente portaria.\n\n3 - Os projetos são hierarquizados pela pontuação final, devendo ser obtida uma pontuação mínima de 50 pontos para que o projeto possa beneficiar de apoio.\n\n4 - Quando num concurso se verificar que o valor do apoio comunitário referente ao investimento global proposto não excede a dotação orçamental comunitária, prevista no aviso de abertura, a decisão da EG sobre cada candidatura pode ser tomada isoladamente e comunicada ao respetivo candidato.\n\n5 - No prazo fixado no aviso de abertura, a EG procede à divulgação dos elementos relativos aos projetos aprovados em cada concurso na página eletrónica do IVV, I. P., indicando, pelo menos, a designação do beneficiário, o montante do investimento elegível e as taxas de apoio."
+  },
+  "67628630": {
+   "fragment_id": "67644290",
+   "type": 11,
+   "heading": "Artigo 14.º — Formalização da concessão do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Formalização da concessão do apoio\n\n1 - A concessão do apoio é formalizada através de termo de aceitação celebrado entre o beneficiário e o IFAP, I. P., o qual inclui a indicação do apoio máximo a conceder para a execução do projeto aprovado, bem como o período para a sua realização.\n\n2 - A não formalização, por parte do beneficiário, do termo de aceitação no prazo que vier a ser definido nas normas complementares de aplicação previstas no artigo 3.º, determina a caducidade da decisão de aprovação do projeto.\n\n3 - Após o prazo referido no n.º 2, o IFAP, I. P., informa a EG sobre a situação relativa à celebração dos termos de aceitação."
+  },
+  "67628631": {
+   "fragment_id": "67644291",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigações do beneficiário\n\n1 - O beneficiário fica obrigado a respeitar e cumprir o disposto na presente portaria, bem como o estabelecido nas normas complementares de aplicação previstas no artigo 3.º.\n\n2 - O beneficiário fica, ainda, sujeito às seguintes obrigações:\n\na) Executar o projeto nos termos e prazos fixados no termo de aceitação;\n\nb) Disponibilizar, nos prazos estabelecidos, todos os elementos solicitados pelas entidades com competências para o acompanhamento e controlo;\n\nc) Submeter-se a ações de controlo, realizadas pelas entidades competentes;\n\nd) Autorizar a EG e o IFAP, I. P., a obter, junto das entidades competentes, todas as informações que forem julgadas necessárias ou oportunas para efeito de acompanhamento e controlo do projeto;\n\ne) Manter contabilidade organizada, de acordo com sistema de normalização contabilística ou outra regulamentação aplicável;\n\nf) Conservar em boa ordem e devidamente organizados todos os documentos suscetíveis de comprovar as informações e declarações prestadas, a fundamentação das opções tomadas no âmbito do projeto, bem como, todos os originais dos documentos comprovativos da realização das despesas e evidências da realização das ações, durante cinco anos após o final do projeto, exceto se outro prazo se encontrar fixado em lei especial."
+  },
+  "67628632": {
+   "fragment_id": "67644292",
+   "type": 11,
+   "heading": "Artigo 16.º — Comunicações obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comunicações obrigatórias\n\n1 - Os beneficiários ficam obrigados a apresentar à EG informação periódica relativa à execução do projeto, nos prazos e condições que forem definidos para o efeito nas normas complementares de aplicação, previstas no artigo 3.º.\n\n2 - Os beneficiários devem transmitir à EG, até 15 de junho de cada ano, uma estimativa das despesas a apresentar ao IFAP, I. P., para pagamento de apoio até 15 de outubro seguinte, para efeitos do artigo 3.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho."
+  },
+  "67628633": {
+   "fragment_id": "67644293",
+   "type": 11,
+   "heading": "Artigo 17.º — Modificações ao projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Modificações ao projeto\n\n1 - Qualquer modificação relevante ao conteúdo dos projetos deve ser solicitada pelo beneficiário à EG para que possa ser apreciada, acompanhada de justificação que comprove que a modificação contribui de forma mais eficaz para atingir os objetivos do projeto.\n\n2 - A decisão da EG é comunicada ao IFAP, I. P., e ao beneficiário.\n\n3 - Os beneficiários apenas podem apresentar ao IFAP, I. P., pedido de pagamento que inclua despesas relacionadas com uma modificação ao projeto após a decisão e comunicação referida no número anterior."
+  },
+  "67628634": {
+   "fragment_id": "67644294",
+   "type": 11,
+   "heading": "Artigo 18.º — Formas de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Formas de pagamento\n\n1 - O apoio é pago ao beneficiário mediante apresentação ao IFAP, I. P., de pedidos de pagamento, nos termos definidos por este organismo nas normas complementares de aplicação previstas no artigo 3.º.\n\n2 - Os pedidos de pagamento reportam-se às despesas refletidas e aprovadas no projeto e efetivamente realizadas e pagas pelo beneficiário até à data da apresentação do pedido.\n\n3 - O registo de despesas a incluir no pedido de pagamento é efetuado pelo beneficiário, de forma eletrónica, em moldes a definir nas normas complementares de aplicação previstas no artigo 3.º.\n\n4 - O beneficiário pode apresentar pedidos de adiantamento, até ao montante correspondente a 80 % do valor do apoio estimado para o período de execução financeira estabelecido no aviso de abertura do concurso, descontado, se for caso disso, do montante de apoio já pago, mediante a entrega de uma garantia constituída a favor do IFAP, I. P., de montante correspondente a 110 % do adiantamento solicitado.\n\n5 - A concessão de um novo adiantamento para o mesmo projeto apenas será considerada quando o beneficiário tenha regularizado a situação do adiantamento anterior.\n\n6 - O beneficiário deve apresentar, no mínimo, um pedido de pagamento por cada período de execução financeira.\n\n7 - Em função da disponibilidade orçamental, o IFAP, I. P., efetua o pagamento dos pedidos de pagamento no prazo máximo de 90 dias, ou de 30 dias, no caso de pedido de adiantamento.\n\n8 - Os prazos fixados no número anterior são contados a partir da data de apresentação de um pedido válido e completo."
+  },
+  "67628635": {
+   "fragment_id": "67644295",
+   "type": 11,
+   "heading": "Artigo 19.º — Resolução e denúncia do termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Resolução e denúncia do termo de aceitação\n\n1 - O termo de aceitação pode ser resolvido unilateralmente pelo IFAP, I. P., ouvida a EG, ou por indicação desta, quando se verifique uma das seguintes condições:\n\na) Incumprimento pelo beneficiário das suas obrigações, nomeadamente a falta de apresentação das comunicações obrigatórias previstas no artigo 16.º ou do grau mínimo de execução financeira do projeto;\n\nb) Prestação de informações falsas sobre a situação do beneficiário ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento da execução do projeto;\n\nc) Não apresentação de, pelo menos, 1 pedido de pagamento ou de adiantamento por período de execução financeira.\n\n2 - Quando a resolução se verificar por motivo referido na alínea b), o beneficiário não pode beneficiar de quaisquer apoios no âmbito desta medida durante a vigência do quadro financeiro de apoio 2014-2018.\n\n3 - O termo de aceitação pode ser denunciado por iniciativa do beneficiário, através de comunicação escrita e fundamentada ao IFAP, I. P., que comunica à EG.\n\n4 - Salvo casos excecionais, devidamente fundamentados, a resolução ou a denúncia do termo de aceitação implica a devolução dos montantes já recebidos pelo beneficiário, no prazo de 30 dias a contar da data de notificação da decisão, findo o qual são devidos juros de mora sobre o montante a devolver."
+  },
+  "67628636": {
+   "fragment_id": "67644296",
+   "type": 11,
+   "heading": "Artigo 20.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acompanhamento e avaliação\n\n1 - A EG procede ao acompanhamento dos projetos através da apreciação das comunicações obrigatórias e registos de despesas apresentadas pelos beneficiários e com base nos elementos relativos aos pagamentos fornecidos pelo IFAP, I. P.\n\n2 - A EG procede à avaliação dos resultados da medida de apoio por forma a verificar o cumprimento dos objetivos estabelecidos.\n\n3 - A EG elabora e divulga relatórios de execução da medida de apoio."
+  },
+  "67628637": {
+   "fragment_id": "67644297",
+   "type": 11,
+   "heading": "Artigo 21.º — Execução dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Execução dos projetos\n\n1 - O beneficiário deve garantir um grau mínimo de execução financeira do projeto definido pela EG conforme disposto na alínea e) do n.º 2 do artigo 2.º da presente portaria.\n\n2 - O grau de execução é calculado com base no apoio financeiro pago pelo IFAP, I. P., resultante das despesas apresentadas."
+  },
+  "67628638": {
+   "fragment_id": "67644298",
+   "type": 11,
+   "heading": "Artigo 22.º — Penalizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Penalizações\n\n1 - No caso de incumprimento da apresentação das comunicações obrigatórias previstas no artigo 16.º, a EG recusa os pedidos de modificação ao projeto.\n\n2 - Quando o grau de execução de um projeto for inferior a 35 %, o beneficiário fica inibido de apresentar novos projetos no âmbito desta medida.\n\n3 - Quando o grau de execução do projeto for superior ou igual a 35 % mas inferior a 65 %, o beneficiário não pode concorrer à prorrogação do apoio prevista no n.º 3 do artigo 8.º.\n\n4 - Em derrogação do disposto nos n.os 2 e 3, a EG pode decidir, mediante justificação fundamentada a apresentar pelo beneficiário, não aplicar as penalizações previstas."
+  },
+  "67628639": {
+   "fragment_id": "67644299",
+   "type": 11,
+   "heading": "Artigo 23.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Controlo\n\nOs beneficiários são sujeitos aos controlos administrativos e no local que venham a ser determinados pelo IFAP, I. P., que, no exercício de funções de organismo pagador, adota os procedimentos necessários ao cumprimento dos critérios estabelecidos no anexo i do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R0885\" title=\"Link para Regulamento da Comunidade Europeia\">885/2006</a>, da Comissão, de 21 de junho, e as disposições previstas no capítulo i do título v do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho."
+  },
+  "67628640": {
+   "fragment_id": "67644300",
+   "type": 11,
+   "heading": "Artigo 24.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Revogação\n\nÉ revogada a Portaria n.º 1384-B/2008, de 2 de dezembro, alterada pelas Portarias n.os 989/2009, de 7 de setembro, 47/2010, de 20 de janeiro, 1055/2010, de 14 de outubro, 43/2012, de 10 de fevereiro, e 351/2012, de 30 de outubro, que aprova o Regulamento do Apoio à Promoção de Vinhos em Mercados de Países Terceiros."
+  },
+  "67628641": {
+   "fragment_id": "67644301",
+   "type": 11,
+   "heading": "Artigo 25.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Disposição transitória\n\nSem prejuízo do disposto no artigo anterior, aos projetos já contratualizados aplica-se o disposto no Regulamento do Apoio à Promoção de Vinhos em Mercados de Países Terceiros, aprovado pela Portaria n.º 1384-B/2008, com as alterações introduzidas pelas Portarias n.os 989/2009, de 7 de setembro, 47/2010, de 20 de janeiro, 1055/2010, de 14 de outubro, 43/2012, de 10 de fevereiro, e 351/2012, de 30 de outubro."
+  },
+  "67628642": {
+   "fragment_id": "67644302",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se aos concursos abertos no âmbito do regime de apoio comunitário à promoção de vinhos em mercados de países terceiros para o período 2014-2018."
+  },
+  "67628643": {
+   "fragment_id": "67644303",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 5.º)\n\nMercados prioritários\n\n(ver documento original)"
+  },
+  "67628644": {
+   "fragment_id": "67644304",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 3 do artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 3 do artigo 9.º)\n\nMajoração do Apoio\n\n(ver documento original)"
+  },
+  "67628645": {
+   "fragment_id": "67644305",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 2 do artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 2 do artigo 13.º)\n\nGrelha de classificação\n\nAvaliação do Mérito (MP)\n\n(ver documento original)\n\nAvaliação da relação qualidade/Custo (AQC)\n\n(ver documento original)\n\nPrioridades/Preferências (P)\n\n(ver documento original)"
+  },
+  "67628616": {
+   "fragment_id": "67644276",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 257/2013\n\nde 13 de agosto\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de outubro, com as alterações introduzidas pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0491\" title=\"Link para Regulamento da Comunidade Europeia\">491/2009</a>, do Conselho, de 25 de maio, estabelece o novo quadro de apoio comunitário previsto para o período de 2014-2018.\n\nConsiderando que a medida de promoção em mercados de países terceiros contribui decisivamente para a visibilidade e o reconhecimento do carácter diferenciador dos vinhos portugueses naqueles mercados e para o aumento das exportações, importa adequar o programa nacional do apoio ao sector vitivinícola a este novo quadro de programação financeira comunitário.\n\nNa mesma medida, cumpre, ainda, acomodar a comparticipação nacional ao disposto no Decreto-Lei n.º 94/2012, de 20 de abril, que aprova as regras do financiamento dos regimes de apoio ao desenvolvimento de ações de promoção e de publicidade do vinho e dos produtos vínicos.\n\nPor último, e tendo em conta os resultados e experiência obtidos nos concursos anteriores, é necessário, também, efetuar ajustamentos ao atual quadro regulamentar desta medida de apoio, de modo a agilizar os procedimentos administrativos, permitindo um resultado mais eficiente da medida.\n\nAssim:\n\nManda o Governo, pela Ministra da Agricultura e do Mar, ao abrigo do disposto no n.º 1 do artigo 17.º do Decreto-Lei n.º 86-A/2011, de 12 de julho, o seguinte:"
+  },
+  "67628655": {
+   "fragment_id": "67644278",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades intervenientes",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades intervenientes\n\n1 - São entidades intervenientes no procedimento relativo ao regime de apoio à promoção de vinhos em mercados de países terceiros o Instituto da Vinha e do Vinho, I. P. (IVV, I. P.), que exerce as funções de entidade de gestão (EG), e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), que exerce as funções de organismo pagador.\n\n2 - Compete à EG:\n\na) Proceder à abertura de concursos para seleção de projetos;\n\nb) Avaliar e selecionar os projetos apresentados;\n\nc) Decidir e fixar as taxas de apoio, os limites máximos da despesa elegível e os montantes de ajuda forfetária a conceder aos projetos;\n\nd) Analisar e decidir as modificações apresentadas aos projetos;\n\ne) Definir o grau de execução mínimo dos projetos;\n\nf) Efetuar o acompanhamento e a avaliação da medida de apoio.\n\n3 - Compete ao IFAP, I. P.:\n\na) Proceder à comunicação ao beneficiário do termo de aceitação do compromisso relativo ao projeto aprovado;\n\nb) Avaliar e decidir sobre os pedidos de pagamentos solicitados;\n\nc) Efetuar o pagamento dos apoios;\n\nd) Proceder aos controlos administrativos e à coordenação dos controlos no local, com a entidade competente designada para o efeito nos termos da regulamentação comunitária aplicável.\n\n4 - As entidades referidas podem ser apoiadas nas suas funções por outros organismos públicos, mediante celebração de protocolo de colaboração ou de outra forma acordada para o efeito.\n\n5 - As entidades intervenientes promovem o intercâmbio de dados e informação sobre esta medida de apoio, para um desempenho eficaz das funções atribuídas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "67628656": {
+   "fragment_id": "67644281",
+   "type": 11,
+   "heading": "Artigo 5.º — Produtos e mercados",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 5.º — Produtos e mercados\n\n1 - São suscetíveis de apoio no âmbito da presente medida os projetos de promoção em mercados de países terceiros de vinhos com «Denominação de origem» (DO), vinhos com «Indicação geográfica» (IG) e vinhos com indicação de casta, produzidos no território nacional, que se destinem ao consumo direto e haja disponibilidade a longo prazo, em quantidade e qualidade suficientes, para responder à procura do mercado depois da realização das ações de promoção.\n\n2 - Os mercados prioritários considerados para a atribuição de apoio são os constantes no anexo i à presente portaria, da qual faz parte integrante, tendo em conta os seguintes critérios:\n\na) Evolução das exportações nacionais;\n\nb) Tendências do comércio de vinhos no mercado internacional;\n\nc) Evolução e tendências de mercados, considerando os padrões, comportamentos da procura e do consumo e a notoriedade dos vinhos portugueses.\n\n3 - Sem prejuízo do disposto no número anterior, a EG pode aceitar outros mercados, desde que a candidatura inclua a sua caracterização.\n\n4 - O beneficiário não pode participar, de forma direta ou indireta, em mais do que um projeto, na mesma ação, no mesmo mercado e no mesmo período.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "67628657": {
+   "fragment_id": "67644284",
+   "type": 11,
+   "heading": "Artigo 8.º — Duração do projeto e do apoio",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 8.º — Duração do projeto e do apoio\n\n1 - A duração máxima de um projeto é de um ano, sendo fixadas no aviso de abertura do respetivo concurso as datas de início e de fim para a sua execução material.\n\n2 - Os beneficiários que se enquadrem nas alíneas d) e e) do artigo 6.º da presente portaria podem apresentar três projetos para anos consecutivos, nas condições a fixar no respetivo aviso de abertura.\n\n3 - Sem prejuízo do disposto nos números anteriores, o apoio concedido a um beneficiário, em determinado mercado de país terceiro, por um período de três anos pode ser renovado uma única vez, pelo período máximo de dois anos, sendo obrigatória a avaliação dos resultados obtidos no período inicial de três anos.\n\n4 - O apoio a conceder ao projeto incide sobre as ações aprovadas e executadas no período temporal fixado para a sua execução material.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "67628658": {
+   "fragment_id": "67644286",
+   "type": 11,
+   "heading": "Artigo 10.º — Cumulação de apoios",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 10.º — Cumulação de apoios\n\nAs despesas efetivamente apoiadas ao abrigo da presente portaria não podem beneficiar de quaisquer outros apoios públicos, nem de financiamento em mais do que um projeto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "67628659": {
+   "fragment_id": "67644288",
+   "type": 11,
+   "heading": "Artigo 12.º — Abertura de concursos e apresentação de projetos",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 12.º — Abertura de concursos e apresentação de projetos\n\n1 - Os projetos de promoção em mercados de países terceiros são selecionados mediante concurso nos termos da presente portaria.\n\n2 - Os períodos para apresentação de candidaturas são abertos por iniciativa da EG, e publicitados nas páginas eletrónicas do IVV, I. P., e do IFAP, I. P.\n\n3 - São admitidos a concurso os projetos que contemplem uma ou mais tipologias de ações suscetíveis de apoio.\n\n4 - O aviso de abertura de cada concurso para apresentação de projetos deve estabelecer as regras relativas ao procedimento, nomeadamente:\n\na) Os objetivos e as prioridades;\n\nb) Os mercados, as tipologias de ações e as ações preferenciais;\n\nc) Os beneficiários;\n\nd) A duração dos projetos e os períodos de execução financeira;\n\ne) A metodologia de avaliação, apuramento de mérito e de seleção dos projetos;\n\nf) O prazo e as regras para a apresentação de projetos;\n\ng) O prazo para a decisão sobre a atribuição dos apoios;\n\nh) O orçamento disponível.\n\n5 - Os projetos apresentados a concurso têm um valor mínimo de investimento anual de 10.000 EUR.\n\n6 - No caso de projetos apresentados pelas entidades previstas nas alíneas a) e b) do artigo 6.º da presente portaria, o valor de investimento anual máximo é o equivalente a 25 % do valor das vendas e serviços prestados que constar nas demonstrações de resultados que forem referidas no aviso de abertura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "67628660": {
+   "fragment_id": "67644289",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliação e seleção de projetos",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 13.º — Avaliação e seleção de projetos\n\n1 - A avaliação e seleção dos projetos são efetuadas mediante a verificação da conformidade com os requisitos exigidos no aviso de abertura de concurso, a avaliação do mérito e a relação qualidade/custo.\n\n2 - As avaliações do mérito do projeto e da relação qualidade/custo são pontuadas de acordo com os parâmetros, critérios e níveis de ponderação estabelecidos no anexo III à presente portaria.\n\n3 - Os projetos são hierarquizados pela pontuação do projeto, devendo ser obtida uma pontuação mínima de 50 pontos em cada uma das componentes avaliação do mérito e avaliação da relação qualidade/custo, para que o projeto possa ser aprovado e beneficiar de apoio.\n\n4 - Quando num concurso se verificar que o valor do apoio comunitário referente ao investimento global proposto não excede a dotação orçamental comunitária, prevista no aviso de abertura, a decisão da EG sobre cada candidatura pode ser tomada isoladamente e comunicada ao respetivo candidato.\n\n5 - Quando num concurso se verificar que o valor do apoio comunitário referente ao investimento global proposto excede a dotação orçamental comunitária prevista no aviso de abertura, são aplicadas as prioridades estabelecidas na regulamentação comunitária, pela adição à pontuação do projeto da pontuação obtida na componente prioridades e preferências, prevista no anexo IV.\n\n6 - No prazo máximo de 90 dias após o prazo fixado para apresentação dos projetos, a EG toma a decisão sobre as propostas recebidas e comunica-a ao beneficiário.\n\n7 - A EG transmite ao IFAP, I. P., a informação necessária à celebração do termo de aceitação referido no artigo seguinte e procede à divulgação dos elementos relativos aos projetos aprovados em cada concurso, na página eletrónica do IVV, I. P., indicando, pelo menos, a designação do beneficiário, o montante do investimento elegível e as taxas de apoio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "67628661": {
+   "fragment_id": "67644290",
+   "type": 11,
+   "heading": "Artigo 14.º — Formalização da concessão do apoio",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 14.º — Formalização da concessão do apoio\n\n1 - A concessão do apoio é formalizada através de termo de aceitação celebrado entre o beneficiário e o IFAP, I. P., o qual inclui a indicação do apoio máximo a conceder para a execução do projeto aprovado, bem como o período para a sua realização.\n\n2 - O IFAP, I. P., remete ao beneficiário o termo de aceitação no prazo de 15 dias úteis após tomar conhecimento da aprovação do projeto.\n\n3 - A não formalização, por parte do beneficiário, do termo de aceitação no prazo que vier a ser definido nas normas complementares de aplicação previstas no artigo 3.º, determina a caducidade da decisão de aprovação do projeto.\n\n4 - Após o prazo referido no n.º 3, o IFAP, I. P., informa a EG sobre a situação relativa à celebração dos termos de aceitação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "67628662": {
+   "fragment_id": "67644291",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações do beneficiário",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 15.º — Obrigações do beneficiário\n\n1 - O beneficiário fica obrigado a respeitar e cumprir o disposto na presente portaria, bem como o estabelecido nas normas complementares de aplicação previstas no artigo 3.º.\n\n2 - O beneficiário fica, ainda, sujeito às seguintes obrigações:\n\na) Executar o projeto nos termos e prazos fixados no termo de aceitação;\n\nb) Disponibilizar, nos prazos estabelecidos, todos os elementos solicitados pelas entidades com competências para o acompanhamento e controlo;\n\nc) Submeter-se a ações de controlo, realizadas pelas entidades competentes;\n\nd) Autorizar a EG e o IFAP, I. P., a obter, junto das entidades competentes, todas as informações que forem julgadas necessárias ou oportunas para efeito de acompanhamento e controlo do projeto;\n\ne) Manter contabilidade organizada, de acordo com sistema de normalização contabilística ou outra regulamentação aplicável;\n\nf) Conservar em boa ordem e devidamente organizados todos os documentos suscetíveis de comprovar as informações e declarações prestadas, a fundamentação das opções tomadas no âmbito do projeto, bem como, todos os originais dos documentos comprovativos da realização das despesas e evidências da realização das ações, durante cinco anos após o final do projeto, exceto se outro prazo se encontrar fixado em lei especial.\n\ng) Assegurar que o seu registo no sistema de identificação de beneficiários, junto do IFAP, I. P., se encontra devidamente atualizado, nomeadamente quanto aos representantes legais e à identificação da conta bancária a utilizar para registo de todas as despesas e receitas do projeto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "67628663": {
+   "fragment_id": "67644293",
+   "type": 11,
+   "heading": "Artigo 17.º — Modificações ao projeto",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 17.º — Modificações ao projeto\n\n1 - Qualquer modificação relevante ao conteúdo dos projetos deve ser solicitada pelo beneficiário à EG para que possa ser apreciada, acompanhada de justificação que comprove que a modificação contribui de forma mais eficaz para atingir os objetivos do projeto.\n\n2 - O beneficiário pode apresentar à EG, para apreciação e decisão, um pedido de modificação em cada ano de projeto, até à data limite fixada para a execução material do mesmo.\n\n3 - A inclusão de um novo mercado no projeto apenas é aceite se o mesmo constar do anexo I à presente portaria.\n\n4 - Pode, ainda, ser apresentado um outro pedido de modificação, no prazo máximo de 90 dias após o final do período da execução material e antes da submissão do último pedido de pagamento, não sendo admitidas alterações aos mercados.\n\n5 - Os pedidos de modificação não podem incluir alterações referentes a despesas que já tenham sido objeto de um pedido de pagamento.\n\n6 - As despesas relacionadas com a modificação só podem ser apresentadas ao IFAP, I. P., após a decisão da EG.\n\n7 - A decisão da EG é comunicada ao IFAP, I. P., e ao beneficiário, no prazo máximo de 90 dias após a data de submissão do pedido de modificação.\n\n8 - O prazo fixado no número anterior é contado a partir da data de apresentação de um pedido corretamente submetido e devidamente fundamentado.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "67628664": {
+   "fragment_id": "67644294",
+   "type": 11,
+   "heading": "Artigo 18.º — Formas de pagamento",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 18.º — Formas de pagamento\n\n1 - O apoio é pago ao beneficiário mediante apresentação ao IFAP, I. P., de pedidos de pagamento, nos termos definidos por este organismo nas normas complementares de aplicação previstas no artigo 3.º.\n\n2 - Os pedidos de pagamento reportam-se às despesas refletidas e aprovadas no projeto e efetivamente realizadas e pagas pelo beneficiário até à data da apresentação do pedido.\n\n3 - O registo de despesas a incluir no pedido de pagamento é efetuado pelo beneficiário, de forma eletrónica, em moldes a definir nas normas complementares de aplicação previstas no artigo 3.º.\n\n4 - O beneficiário pode apresentar, anualmente, um pedido de adiantamento, até ao montante correspondente a 80 % do valor do apoio estimado para cada ano de orçamento do projeto, descontado, se for caso disso, do montante de apoio já pago, mediante a entrega de uma garantia constituída a favor do IFAP, I. P., de montante correspondente a 110 % do adiantamento solicitado.\n\n5 - A concessão de um novo adiantamento para o mesmo projeto apenas será considerada quando o beneficiário tenha regularizado a situação do adiantamento anterior.\n\n6 - O beneficiário pode apresentar um máximo de dois pedidos de pagamento por ano de projeto.\n\n7 - O primeiro pedido de pagamento deve corresponder a um mínimo de 25 % do valor do apoio estimado para o projeto.\n\n8 - O último pedido de pagamento deve ser apresentado no prazo máximo de 180 dias após o fim do período de execução material do projeto.\n\n9 - Em função da disponibilidade orçamental e da verificação realizada, o IFAP, I. P., efetua o pagamento da ajuda, no prazo máximo de 90 dias, no caso de pedido de pagamento, ou de 30 dias, no caso de pedido de adiantamento, e disponibiliza ao IVV, I. P., a informação relativa aos pagamentos efetuados, preferencialmente, com recurso a sistemas de informação que garantam a interoperabilidade das duas entidades e evitem duplicação de registos.\n\n10 - Os prazos fixados no número anterior são contados a partir da data de apresentação de um pedido válido e completo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "67628646": {
+   "fragment_id": "67644306",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pela Ministra da Agricultura e do Mar, José Diogo Santiago de Albuquerque, Secretário de Estado da Agricultura, em substituição, em 7 de agosto de 2013."
+  },
+  "67628666": {
+   "fragment_id": "67644305",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 2 do artigo 13.º)",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 2 do artigo 13.º)\n\nGrelha de classificação\n\nAvaliação do Mérito (MP)\n\n(ver documento original)\n\nAvaliação da relação qualidade/Custo (AQC)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "67628665": {
+   "fragment_id": "67644329",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 5 do artigo 13.º)",
+   "in_force_from": "2015-06-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "## Anexo IV — (a que se refere o n.º 5 do artigo 13.º)\n\nPrioridades/Preferências (P)\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872428273": {
+   "fragment_id": "67644277",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nA presente Portaria estabelece as regras complementares para o apoio comunitário à promoção de vinhos em mercados de países terceiros, no âmbito do programa nacional de apoio ao sector vitivinícola, para o período 2014-2018, nos termos do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2007&id=307R1234\" title=\"Link para Regulamento da Comunidade Europeia\">1234/2007</a>, do Conselho, de 22 de outubro, com as alterações introduzidas pelo Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2009&id=309R0491\" title=\"Link para Regulamento da Comunidade Europeia\">491/2009</a>, do Conselho, de 25 de maio.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872428274": {
+   "fragment_id": "67644278",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades intervenientes",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades intervenientes\n\n1 - São entidades intervenientes no procedimento relativo ao regime de apoio à promoção de vinhos em mercados de países terceiros o Instituto da Vinha e do Vinho, I. P. (IVV, I. P.), que exerce as funções de entidade de gestão (EG), e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), que exerce as funções de organismo pagador.\n\n2 - Compete à EG:\n\na) Proceder à abertura de concursos para seleção de projetos;\n\nb) Avaliar e selecionar os projetos apresentados;\n\nc) Decidir e fixar as taxas de apoio, os limites máximos da despesa elegível e os montantes de ajuda forfetária a conceder aos projetos;\n\nd) Analisar e decidir as modificações apresentadas aos projetos;\n\ne) Definir o grau de execução mínimo dos projetos;\n\nf) Efetuar o acompanhamento e a avaliação da medida de apoio.\n\n3 - Compete ao IFAP, I. P.:\n\na) Proceder à comunicação ao beneficiário do termo de aceitação do compromisso relativo ao projeto aprovado;\n\nb) Avaliar e decidir sobre os pedidos de pagamentos solicitados;\n\nc) Efetuar o pagamento dos apoios;\n\nd) Proceder aos controlos administrativos e à coordenação dos controlos no local, com a entidade competente designada para o efeito nos termos da regulamentação comunitária aplicável.\n\n4 - As entidades referidas podem ser apoiadas nas suas funções por outros organismos públicos, mediante celebração de protocolo de colaboração ou de outra forma acordada para o efeito.\n\n5 - As entidades intervenientes promovem o intercâmbio de dados e informação sobre esta medida de apoio, para um desempenho eficaz das funções atribuídas.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872430975": {
+   "fragment_id": "67644279",
+   "type": 11,
+   "heading": "Artigo 3.º — Normas complementares de aplicação",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 3.º — Normas complementares de aplicação\n\n1 - As entidades intervenientes referidas no artigo anterior estabelecem as normas complementares de aplicação da presente portaria, de acordo com as respetivas competências.\n\n2 - As normas complementares são publicitadas nas páginas eletrónicas do IVV, I. P., e do IFAP, I. P.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430976": {
+   "fragment_id": "67644280",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de ações",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 4.º — Tipologia de ações\n\n1 - São suscetíveis de apoio à promoção as seguintes tipologias de ações:\n\na) Ações de relações públicas, promoção ou publicidade, que destaquem, designadamente, as vantagens dos produtos produzidos no território nacional, especialmente em termos de qualidade, segurança dos alimentos ou respeito pelo ambiente;\n\nb) Participação em eventos, feiras ou exposições de importância internacional;\n\nc) Campanhas de informação, especialmente sobre os regimes comunitários de denominações de origem, indicações geográficas e modo de produção biológica;\n\nd) Estudos de mercado necessários para a expansão das saídas comerciais;\n\ne) Estudos de avaliação dos resultados das ações de promoção e informação.\n\n2 - As mensagens de promoção a transmitir devem basear-se nas qualidades intrínsecas do vinho.\n\n3 - Quando se trate de vinho com denominação de origem (DO) ou indicação geográfica (IG) deve ser indicada a origem do vinho nas campanhas de informação e promoção.\n\n4 - Sem prejuízo do disposto nos n.os 2 e 3, a referência a marcas comerciais pode integrar as mensagens de promoção.\n\n5 - A EG pode estabelecer nas normas complementares de aplicação diretivas relativas às mensagens de promoção a transmitir, de modo a favorecer a coerência e eficácia da medida.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430977": {
+   "fragment_id": "67644281",
+   "type": 11,
+   "heading": "Artigo 5.º — Produtos e mercados",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 5.º — Produtos e mercados\n\n1 - São suscetíveis de apoio no âmbito da presente medida os projetos de promoção em mercados de países terceiros de vinhos com «Denominação de origem» (DO), vinhos com «Indicação geográfica» (IG) e vinhos com indicação de casta, produzidos no território nacional, que se destinem ao consumo direto e haja disponibilidade a longo prazo, em quantidade e qualidade suficientes, para responder à procura do mercado depois da realização das ações de promoção.\n\n2 - Os mercados prioritários considerados para a atribuição de apoio são os constantes no anexo i à presente portaria, da qual faz parte integrante, tendo em conta os seguintes critérios:\n\na) Evolução das exportações nacionais;\n\nb) Tendências do comércio de vinhos no mercado internacional;\n\nc) Evolução e tendências de mercados, considerando os padrões, comportamentos da procura e do consumo e a notoriedade dos vinhos portugueses.\n\n3 - Sem prejuízo do disposto no número anterior, a EG pode aceitar outros mercados, desde que a candidatura inclua a sua caracterização.\n\n4 - O beneficiário não pode participar, de forma direta ou indireta, em mais do que um projeto, na mesma ação, no mesmo mercado e no mesmo período.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872430978": {
+   "fragment_id": "67644282",
+   "type": 11,
+   "heading": "Artigo 6.º — Beneficiários",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 6.º — Beneficiários\n\nPodem beneficiar de apoio à promoção de vinho em mercados de países terceiros as seguintes entidades:\n\na) Empresas, grupos de empresas ou associações destas, de qualquer natureza e forma jurídica, desde que relacionadas com o sector do vinho;\n\nb) Organizações de produtores, reconhecidas no âmbito da Organização Comum de Mercado do Vinho;\n\nc) Associações e organizações profissionais do sector do vinho;\n\nd) Associações e organizações interprofissionais do sector do vinho;\n\ne) Organismos públicos diretamente relacionados com o sector do vinho.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430979": {
+   "fragment_id": "67644283",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de acesso do beneficiário",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 7.º — Condições de acesso do beneficiário\n\nO beneficiário deve observar as seguintes condições de acesso:\n\na) Encontrar-se legalmente constituído e ter sede, representação permanente ou estabelecimento estável no território nacional;\n\nb) Cumprir as condições legais necessárias ao exercício da atividade;\n\nc) Possuir a situação regularizada face à administração fiscal e à segurança social;\n\nd) Dispor de contabilidade organizada, nos termos do sistema de normalização contabilística ou outra regulamentação em vigor;\n\ne) Possuir ou assegurar os recursos necessários ao desenvolvimento e execução eficaz do projeto;\n\nf) Demonstrar ter capacidade de financiamento do projeto;\n\ng) Ter capacidade para fazer face às condicionantes específicas do comércio com países terceiros;\n\nh) No caso de empresa com atividade principal na área da distribuição, evidenciar o interesse de participação no projeto das entidades cujos vinhos distribuem nos mercados alvo do projeto, bem como, o compromisso das mesmas quanto ao fornecimento dos vinhos, em quantidade e qualidade, para responder à procura nos mercados.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430980": {
+   "fragment_id": "67644284",
+   "type": 11,
+   "heading": "Artigo 8.º — Duração do projeto e do apoio",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 8.º — Duração do projeto e do apoio\n\n1 - A duração máxima de um projeto é de um ano, sendo fixadas no aviso de abertura do respetivo concurso as datas de início e de fim para a sua execução material.\n\n2 - Os beneficiários que se enquadrem nas alíneas d) e e) do artigo 6.º da presente portaria podem apresentar três projetos para anos consecutivos, nas condições a fixar no respetivo aviso de abertura.\n\n3 - Sem prejuízo do disposto nos números anteriores, o apoio concedido a um beneficiário, em determinado mercado de país terceiro, por um período de três anos pode ser renovado uma única vez, pelo período máximo de dois anos, sendo obrigatória a avaliação dos resultados obtidos no período inicial de três anos.\n\n4 - O apoio a conceder ao projeto incide sobre as ações aprovadas e executadas no período temporal fixado para a sua execução material.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872430981": {
+   "fragment_id": "67644285",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma, nível e limite dos apoios",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 9.º — Forma, nível e limite dos apoios\n\n1 - Os apoios são concedidos sob a forma de incentivo não reembolsável.\n\n2 - O nível máximo de apoio a conceder a cada projeto por fundos da União Europeia não pode ultrapassar 50 % do valor das despesas elegíveis.\n\n3 - Em função da pontuação final do projeto, o nível máximo de apoio pode ser majorado por fundos nacionais, até ao limite de 30 %, nos termos previstos no anexo ii à presente portaria, respeitando as disposições de direito europeu aplicáveis em matéria de auxílios de Estado.\n\n4 - A comparticipação de fundos nacionais resulta da disponibilidade orçamental proveniente das receitas geradas pela cobrança da taxa de promoção, de acordo com o disposto no Decreto-Lei n.º 94/2012, de 20 de abril.\n\n5 - O disposto do n.º 3 não se aplica aos beneficiários referidos nas alíneas a) e b) do artigo 6.º, nem a ações referentes a produtos com a DO «Porto» e produtos originários das Regiões Autónomas dos Açores e da Madeira.\n\n6 - Para os beneficiários referidos nas alíneas c) a e) do artigo 6.º, caso possuam ações que incluam produtos com a DO «Porto» e produtos originários das Regiões Autónomas dos Açores e da Madeira, estas devem ser apresentadas num projeto individualizado.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430982": {
+   "fragment_id": "67644286",
+   "type": 11,
+   "heading": "Artigo 10.º — Cumulação de apoios",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 10.º — Cumulação de apoios\n\nAs despesas efetivamente apoiadas ao abrigo da presente portaria não podem beneficiar de quaisquer outros apoios públicos, nem de financiamento em mais do que um projeto.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872430983": {
+   "fragment_id": "67644287",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 11.º — Despesas elegíveis e não elegíveis\n\n1 - Para efeitos de candidatura, as despesas elegíveis são estabelecidas pela EG nas normas complementares referidas no artigo 3.º, incluindo as despesas diretamente relacionadas com a execução do projeto, nomeadamente com:\n\na) Comunicação e publicidade;\n\nb) Realização e participação em eventos;\n\nc) Material promocional;\n\nd) Estudos de mercados e de avaliação;\n\ne) Despesas do beneficiário;\n\nf) Viagens e estadias;\n\ng) Materiais, equipamentos e consumíveis;\n\nh) Publicações e sua distribuição.\n\n2 - Não são elegíveis, nomeadamente, as seguintes despesas:\n\na) O imposto sobre o valor acrescentado, exceto em relação aos beneficiários sujeitos ao regime de isenção ou integrados em regime misto;\n\nb) As despesas bancárias.\n\n3 - Os requisitos dos comprovativos das despesas para efeitos de pagamento do apoio são definidos pelo IFAP, I. P., através das normas complementares referidas no artigo 3.º.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430984": {
+   "fragment_id": "67644288",
+   "type": 11,
+   "heading": "Artigo 12.º — Abertura de concursos e apresentação de projetos",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 12.º — Abertura de concursos e apresentação de projetos\n\n1 - Os projetos de promoção em mercados de países terceiros são selecionados mediante concurso nos termos da presente portaria.\n\n2 - Os períodos para apresentação de candidaturas são abertos por iniciativa da EG, e publicitados nas páginas eletrónicas do IVV, I. P., e do IFAP, I. P.\n\n3 - São admitidos a concurso os projetos que contemplem uma ou mais tipologias de ações suscetíveis de apoio.\n\n4 - O aviso de abertura de cada concurso para apresentação de projetos deve estabelecer as regras relativas ao procedimento, nomeadamente:\n\na) Os objetivos e as prioridades;\n\nb) Os mercados, as tipologias de ações e as ações preferenciais;\n\nc) Os beneficiários;\n\nd) A duração dos projetos e os períodos de execução financeira;\n\ne) A metodologia de avaliação, apuramento de mérito e de seleção dos projetos;\n\nf) O prazo e as regras para a apresentação de projetos;\n\ng) O prazo para a decisão sobre a atribuição dos apoios;\n\nh) O orçamento disponível.\n\n5 - Os projetos apresentados a concurso têm um valor mínimo de investimento anual de 10.000 EUR.\n\n6 - No caso de projetos apresentados pelas entidades previstas nas alíneas a) e b) do artigo 6.º da presente portaria, o valor de investimento anual máximo é o equivalente a 25 % do valor das vendas e serviços prestados que constar nas demonstrações de resultados que forem referidas no aviso de abertura.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872430985": {
+   "fragment_id": "67644289",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliação e seleção de projetos",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 13.º — Avaliação e seleção de projetos\n\n1 - A avaliação e seleção dos projetos são efetuadas mediante a verificação da conformidade com os requisitos exigidos no aviso de abertura de concurso, a avaliação do mérito e a relação qualidade/custo.\n\n2 - As avaliações do mérito do projeto e da relação qualidade/custo são pontuadas de acordo com os parâmetros, critérios e níveis de ponderação estabelecidos no anexo III à presente portaria.\n\n3 - Os projetos são hierarquizados pela pontuação do projeto, devendo ser obtida uma pontuação mínima de 50 pontos em cada uma das componentes avaliação do mérito e avaliação da relação qualidade/custo, para que o projeto possa ser aprovado e beneficiar de apoio.\n\n4 - Quando num concurso se verificar que o valor do apoio comunitário referente ao investimento global proposto não excede a dotação orçamental comunitária, prevista no aviso de abertura, a decisão da EG sobre cada candidatura pode ser tomada isoladamente e comunicada ao respetivo candidato.\n\n5 - Quando num concurso se verificar que o valor do apoio comunitário referente ao investimento global proposto excede a dotação orçamental comunitária prevista no aviso de abertura, são aplicadas as prioridades estabelecidas na regulamentação comunitária, pela adição à pontuação do projeto da pontuação obtida na componente prioridades e preferências, prevista no anexo IV.\n\n6 - No prazo máximo de 90 dias após o prazo fixado para apresentação dos projetos, a EG toma a decisão sobre as propostas recebidas e comunica-a ao beneficiário.\n\n7 - A EG transmite ao IFAP, I. P., a informação necessária à celebração do termo de aceitação referido no artigo seguinte e procede à divulgação dos elementos relativos aos projetos aprovados em cada concurso, na página eletrónica do IVV, I. P., indicando, pelo menos, a designação do beneficiário, o montante do investimento elegível e as taxas de apoio.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872430986": {
+   "fragment_id": "67644290",
+   "type": 11,
+   "heading": "Artigo 14.º — Formalização da concessão do apoio",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 14.º — Formalização da concessão do apoio\n\n1 - A concessão do apoio é formalizada através de termo de aceitação celebrado entre o beneficiário e o IFAP, I. P., o qual inclui a indicação do apoio máximo a conceder para a execução do projeto aprovado, bem como o período para a sua realização.\n\n2 - O IFAP, I. P., remete ao beneficiário o termo de aceitação no prazo de 15 dias úteis após tomar conhecimento da aprovação do projeto.\n\n3 - A não formalização, por parte do beneficiário, do termo de aceitação no prazo que vier a ser definido nas normas complementares de aplicação previstas no artigo 3.º, determina a caducidade da decisão de aprovação do projeto.\n\n4 - Após o prazo referido no n.º 3, o IFAP, I. P., informa a EG sobre a situação relativa à celebração dos termos de aceitação.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872430987": {
+   "fragment_id": "67644291",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações do beneficiário",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 15.º — Obrigações do beneficiário\n\n1 - O beneficiário fica obrigado a respeitar e cumprir o disposto na presente portaria, bem como o estabelecido nas normas complementares de aplicação previstas no artigo 3.º.\n\n2 - O beneficiário fica, ainda, sujeito às seguintes obrigações:\n\na) Executar o projeto nos termos e prazos fixados no termo de aceitação;\n\nb) Disponibilizar, nos prazos estabelecidos, todos os elementos solicitados pelas entidades com competências para o acompanhamento e controlo;\n\nc) Submeter-se a ações de controlo, realizadas pelas entidades competentes;\n\nd) Autorizar a EG e o IFAP, I. P., a obter, junto das entidades competentes, todas as informações que forem julgadas necessárias ou oportunas para efeito de acompanhamento e controlo do projeto;\n\ne) Manter contabilidade organizada, de acordo com sistema de normalização contabilística ou outra regulamentação aplicável;\n\nf) Conservar em boa ordem e devidamente organizados todos os documentos suscetíveis de comprovar as informações e declarações prestadas, a fundamentação das opções tomadas no âmbito do projeto, bem como, todos os originais dos documentos comprovativos da realização das despesas e evidências da realização das ações, durante cinco anos após o final do projeto, exceto se outro prazo se encontrar fixado em lei especial.\n\ng) Assegurar que o seu registo no sistema de identificação de beneficiários, junto do IFAP, I. P., se encontra devidamente atualizado, nomeadamente quanto aos representantes legais e à identificação da conta bancária a utilizar para registo de todas as despesas e receitas do projeto.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872430988": {
+   "fragment_id": "67644292",
+   "type": 11,
+   "heading": "Artigo 16.º — Comunicações obrigatórias",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 16.º — Comunicações obrigatórias\n\n1 - Os beneficiários ficam obrigados a apresentar à EG informação periódica relativa à execução do projeto, nos prazos e condições que forem definidos para o efeito nas normas complementares de aplicação, previstas no artigo 3.º.\n\n2 - Os beneficiários devem transmitir à EG, até 15 de junho de cada ano, uma estimativa das despesas a apresentar ao IFAP, I. P., para pagamento de apoio até 15 de outubro seguinte, para efeitos do artigo 3.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430989": {
+   "fragment_id": "67644293",
+   "type": 11,
+   "heading": "Artigo 17.º — Modificações ao projeto",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 17.º — Modificações ao projeto\n\n1 - Qualquer modificação relevante ao conteúdo dos projetos deve ser solicitada pelo beneficiário à EG para que possa ser apreciada, acompanhada de justificação que comprove que a modificação contribui de forma mais eficaz para atingir os objetivos do projeto.\n\n2 - O beneficiário pode apresentar à EG, para apreciação e decisão, um pedido de modificação em cada ano de projeto, até à data limite fixada para a execução material do mesmo.\n\n3 - A inclusão de um novo mercado no projeto apenas é aceite se o mesmo constar do anexo I à presente portaria.\n\n4 - Pode, ainda, ser apresentado um outro pedido de modificação, no prazo máximo de 90 dias após o final do período da execução material e antes da submissão do último pedido de pagamento, não sendo admitidas alterações aos mercados.\n\n5 - Os pedidos de modificação não podem incluir alterações referentes a despesas que já tenham sido objeto de um pedido de pagamento.\n\n6 - As despesas relacionadas com a modificação só podem ser apresentadas ao IFAP, I. P., após a decisão da EG.\n\n7 - A decisão da EG é comunicada ao IFAP, I. P., e ao beneficiário, no prazo máximo de 90 dias após a data de submissão do pedido de modificação.\n\n8 - O prazo fixado no número anterior é contado a partir da data de apresentação de um pedido corretamente submetido e devidamente fundamentado.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872430990": {
+   "fragment_id": "67644294",
+   "type": 11,
+   "heading": "Artigo 18.º — Formas de pagamento",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "###### Artigo 18.º — Formas de pagamento\n\n1 - O apoio é pago ao beneficiário mediante apresentação ao IFAP, I. P., de pedidos de pagamento, nos termos definidos por este organismo nas normas complementares de aplicação previstas no artigo 3.º.\n\n2 - Os pedidos de pagamento reportam-se às despesas refletidas e aprovadas no projeto e efetivamente realizadas e pagas pelo beneficiário até à data da apresentação do pedido.\n\n3 - O registo de despesas a incluir no pedido de pagamento é efetuado pelo beneficiário, de forma eletrónica, em moldes a definir nas normas complementares de aplicação previstas no artigo 3.º.\n\n4 - O beneficiário pode apresentar, anualmente, um pedido de adiantamento, até ao montante correspondente a 80 % do valor do apoio estimado para cada ano de orçamento do projeto, descontado, se for caso disso, do montante de apoio já pago, mediante a entrega de uma garantia constituída a favor do IFAP, I. P., de montante correspondente a 110 % do adiantamento solicitado.\n\n5 - A concessão de um novo adiantamento para o mesmo projeto apenas será considerada quando o beneficiário tenha regularizado a situação do adiantamento anterior.\n\n6 - O beneficiário pode apresentar um máximo de dois pedidos de pagamento por ano de projeto.\n\n7 - O primeiro pedido de pagamento deve corresponder a um mínimo de 25 % do valor do apoio estimado para o projeto.\n\n8 - O último pedido de pagamento deve ser apresentado no prazo máximo de 180 dias após o fim do período de execução material do projeto.\n\n9 - Em função da disponibilidade orçamental e da verificação realizada, o IFAP, I. P., efetua o pagamento da ajuda, no prazo máximo de 90 dias, no caso de pedido de pagamento, ou de 30 dias, no caso de pedido de adiantamento, e disponibiliza ao IVV, I. P., a informação relativa aos pagamentos efetuados, preferencialmente, com recurso a sistemas de informação que garantam a interoperabilidade das duas entidades e evitem duplicação de registos.\n\n10 - Os prazos fixados no número anterior são contados a partir da data de apresentação de um pedido válido e completo.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872430991": {
+   "fragment_id": "67644295",
+   "type": 11,
+   "heading": "Artigo 19.º — Resolução e denúncia do termo de aceitação",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 19.º — Resolução e denúncia do termo de aceitação\n\n1 - O termo de aceitação pode ser resolvido unilateralmente pelo IFAP, I. P., ouvida a EG, ou por indicação desta, quando se verifique uma das seguintes condições:\n\na) Incumprimento pelo beneficiário das suas obrigações, nomeadamente a falta de apresentação das comunicações obrigatórias previstas no artigo 16.º ou do grau mínimo de execução financeira do projeto;\n\nb) Prestação de informações falsas sobre a situação do beneficiário ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento da execução do projeto;\n\nc) Não apresentação de, pelo menos, 1 pedido de pagamento ou de adiantamento por período de execução financeira.\n\n2 - Quando a resolução se verificar por motivo referido na alínea b), o beneficiário não pode beneficiar de quaisquer apoios no âmbito desta medida durante a vigência do quadro financeiro de apoio 2014-2018.\n\n3 - O termo de aceitação pode ser denunciado por iniciativa do beneficiário, através de comunicação escrita e fundamentada ao IFAP, I. P., que comunica à EG.\n\n4 - Salvo casos excecionais, devidamente fundamentados, a resolução ou a denúncia do termo de aceitação implica a devolução dos montantes já recebidos pelo beneficiário, no prazo de 30 dias a contar da data de notificação da decisão, findo o qual são devidos juros de mora sobre o montante a devolver.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430992": {
+   "fragment_id": "67644296",
+   "type": 11,
+   "heading": "Artigo 20.º — Acompanhamento e avaliação",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 20.º — Acompanhamento e avaliação\n\n1 - A EG procede ao acompanhamento dos projetos através da apreciação das comunicações obrigatórias e registos de despesas apresentadas pelos beneficiários e com base nos elementos relativos aos pagamentos fornecidos pelo IFAP, I. P.\n\n2 - A EG procede à avaliação dos resultados da medida de apoio por forma a verificar o cumprimento dos objetivos estabelecidos.\n\n3 - A EG elabora e divulga relatórios de execução da medida de apoio.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430993": {
+   "fragment_id": "67644297",
+   "type": 11,
+   "heading": "Artigo 21.º — Execução dos projetos",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 21.º — Execução dos projetos\n\n1 - O beneficiário deve garantir um grau mínimo de execução financeira do projeto definido pela EG conforme disposto na alínea e) do n.º 2 do artigo 2.º da presente portaria.\n\n2 - O grau de execução é calculado com base no apoio financeiro pago pelo IFAP, I. P., resultante das despesas apresentadas.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430994": {
+   "fragment_id": "67644298",
+   "type": 11,
+   "heading": "Artigo 22.º — Penalizações",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 22.º — Penalizações\n\n1 - No caso de incumprimento da apresentação das comunicações obrigatórias previstas no artigo 16.º, a EG recusa os pedidos de modificação ao projeto.\n\n2 - Quando o grau de execução de um projeto for inferior a 35 %, o beneficiário fica inibido de apresentar novos projetos no âmbito desta medida.\n\n3 - Quando o grau de execução do projeto for superior ou igual a 35 % mas inferior a 65 %, o beneficiário não pode concorrer à prorrogação do apoio prevista no n.º 3 do artigo 8.º.\n\n4 - Em derrogação do disposto nos n.os 2 e 3, a EG pode decidir, mediante justificação fundamentada a apresentar pelo beneficiário, não aplicar as penalizações previstas.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430995": {
+   "fragment_id": "67644299",
+   "type": 11,
+   "heading": "Artigo 23.º — Controlo",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 23.º — Controlo\n\nOs beneficiários são sujeitos aos controlos administrativos e no local que venham a ser determinados pelo IFAP, I. P., que, no exercício de funções de organismo pagador, adota os procedimentos necessários ao cumprimento dos critérios estabelecidos no anexo i do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R0885\" title=\"Link para Regulamento da Comunidade Europeia\">885/2006</a>, da Comissão, de 21 de junho, e as disposições previstas no capítulo i do título v do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308R0555\" title=\"Link para Regulamento da Comunidade Europeia\">555/2008</a>, da Comissão, de 27 de junho.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430996": {
+   "fragment_id": "67644300",
+   "type": 11,
+   "heading": "Artigo 24.º — Revogação",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 24.º — Revogação\n\nÉ revogada a Portaria n.º 1384-B/2008, de 2 de dezembro, alterada pelas Portarias n.os 989/2009, de 7 de setembro, 47/2010, de 20 de janeiro, 1055/2010, de 14 de outubro, 43/2012, de 10 de fevereiro, e 351/2012, de 30 de outubro, que aprova o Regulamento do Apoio à Promoção de Vinhos em Mercados de Países Terceiros.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430997": {
+   "fragment_id": "67644301",
+   "type": 11,
+   "heading": "Artigo 25.º — Disposição transitória",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 25.º — Disposição transitória\n\nSem prejuízo do disposto no artigo anterior, aos projetos já contratualizados aplica-se o disposto no Regulamento do Apoio à Promoção de Vinhos em Mercados de Países Terceiros, aprovado pela Portaria n.º 1384-B/2008, com as alterações introduzidas pelas Portarias n.os 989/2009, de 7 de setembro, 47/2010, de 20 de janeiro, 1055/2010, de 14 de outubro, 43/2012, de 10 de fevereiro, e 351/2012, de 30 de outubro.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430998": {
+   "fragment_id": "67644302",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "###### Artigo 26.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e aplica-se aos concursos abertos no âmbito do regime de apoio comunitário à promoção de vinhos em mercados de países terceiros para o período 2014-2018.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872430999": {
+   "fragment_id": "67644306",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "Pela Ministra da Agricultura e do Mar, José Diogo Santiago de Albuquerque, Secretário de Estado da Agricultura, em substituição, em 7 de agosto de 2013.\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872431000": {
+   "fragment_id": "67644303",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 5.º)",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 5.º)\n\nMercados prioritários\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872431001": {
+   "fragment_id": "67644304",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 3 do artigo 9.º)",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 3 do artigo 9.º)\n\nMajoração do Apoio\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06"
+  },
+  "872431002": {
+   "fragment_id": "67644305",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 2 do artigo 13.º)",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 2 do artigo 13.º)\n\nGrelha de classificação\n\nAvaliação do Mérito (MP)\n\n(ver documento original)\n\nAvaliação da relação qualidade/Custo (AQC)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  },
+  "872431003": {
+   "fragment_id": "67644329",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 5 do artigo 13.º)",
+   "in_force_from": "2016-12-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+   ],
+   "markdown": "## Anexo IV — (a que se refere o n.º 5 do artigo 13.º)\n\nPrioridades/Preferências (P)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 23.º do/a [Portaria n.º 303/2016 - Diário da República n.º 232/2016, Série I de 2016-12-05](https://diariodarepublica.pt/dr/detalhe/portaria/303-2016-105300327), em vigor a partir de 2016-12-06\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 190/2015 - Diário da República n.º 123/2015, Série I de 2015-06-26](https://diariodarepublica.pt/dr/detalhe/portaria/190-2015-67613391), em vigor a partir de 2015-06-27"
+  }
+ }
+}

@@ -1,0 +1,1264 @@
+---
+schema_version: '1.0'
+id: pt:dre:311397:por
+title: Decreto-Lei n.º 118/83
+short_title: null
+summary: Estabelece o funcionamento e o esquema de benefícios da Direcção-Geral de Protecção Social aos Funcionários e Agentes
+  da Administração Pública (ADSE)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Reforma Administrativa
+proposing_entity: null
+official_number: 118/83
+official_date: null
+publication_date: '1983-02-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 46/1983, Série I de 1983-02-25
+  number: '46'
+  series: I
+  supplement: null
+  pages: 631 - 642
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/02/04600/06310642.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-01-01'
+version_history:
+  file: decreto-lei-118-83.versoes.json
+  count: 18
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1983-02-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-04-15'
+    amending: pt:dre:167177:por
+    amending_title: Decreto-Lei n.º 90/98
+    changes:
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+  - date: '1999-07-27'
+    amending: pt:dre:353343:por
+    amending_title: Decreto-Lei n.º 279/99
+    changes:
+    - Revoga Artigo 46.º
+    - Revoga Artigo 47.º
+    - Revoga Artigo 48.º
+    - Revoga Artigo 49.º
+    - Revoga Artigo 50.º
+    - Revoga Artigo 51.º
+    - Revoga Artigo 52.º
+    - Revoga Artigo 53.º
+  - date: '2005-12-31'
+    amending: pt:dre:473499:por
+    amending_title: Decreto-Lei n.º 234/2005
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 34.º
+  - date: '2007-01-01'
+    amending: pt:dre:197491:por
+    amending_title: Lei n.º 53-D/2006
+    changes:
+    - Altera Capítulo V
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+  - date: '2009-01-01'
+    amending: pt:dre:243747:por
+    amending_title: Lei n.º 64-A/2008
+    changes:
+    - Altera Artigo 9.º
+  - date: '2010-04-29'
+    amending: pt:dre:609990:por
+    amending_title: Lei n.º 3-B/2010
+    changes:
+    - Altera Artigo 12.º
+  - date: '2011-01-01'
+    amending: pt:dre:344942:por
+    amending_title: Lei n.º 55-A/2010
+    changes:
+    - Adita Artigo 47.º-A
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Adita Artigo 64.º-A
+    - Altera Artigo 47.º
+  - date: '2013-07-31'
+    amending: pt:dre:498702:por
+    amending_title: Decreto-Lei n.º 105/2013
+    changes:
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 47.º-A
+  - date: '2013-11-23'
+    amending: pt:dre:503835:por
+    amending_title: Decreto-Lei n.º 161/2013
+    changes:
+    - Adita Artigo 46.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 18.º
+  - date: '2014-05-20'
+    amending: pt:dre:25343710:por
+    amending_title: Lei n.º 30/2014
+    changes:
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+  - date: '2015-01-01'
+    amending: pt:dre:66016527:por
+    amending_title: Lei n.º 82-B/2014
+    changes:
+    - Revoga Artigo 47.º-A
+  - date: '2018-05-16'
+    amending: pt:dre:115312061:por
+    amending_title: Decreto-Lei n.º 33/2018
+    changes:
+    - Altera Artigo 19.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 65.º
+  - date: '2019-01-01'
+    amending: pt:dre:117514515:por
+    amending_title: Decreto-Lei n.º 124/2018
+    changes:
+    - Altera Artigo 28.º
+  - date: '2020-04-01'
+    amending: pt:dre:130893436:por
+    amending_title: Lei n.º 2/2020
+    changes:
+    - Altera Artigo 61.º
+    - Altera Artigo 63.º
+  - date: '2021-01-09'
+    amending: pt:dre:153341277:por
+    amending_title: Decreto-Lei n.º 4/2021
+    changes:
+    - Adita Artigo 12.º-A
+    - Altera Artigo 12.º
+    - Altera Artigo 18.º
+    - Altera Artigo 47.º
+  - date: '2024-01-01'
+    amending: pt:dre:835864042:por
+    amending_title: Lei n.º 82/2023
+    changes:
+    - Adita Artigo 4.º-A
+    - Altera Artigo 47.º
+    - Altera Artigo 64.º
+    - Revoga Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/118/1983/p/cons/20231229/pt/html
+  oj: null
+  dre: '311397'
+  dre_path: /dr/detalhe/decreto-lei/118-1983-311397
+  internal: pt:dre:311397:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-1983-311397
+  metadata_url: https://data.dre.pt/eli/dec-lei/118/1983/p/cons/20231229/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1983-127022688
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1983-127022688
+  retrieved_at: '2026-10-22T12:30:16Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a29fb6ea223d711f5476e71033d385ae866b5a6c7b579e7c59c8a03d99459108
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:30:16Z'
+  notes: 18 versão(ões); histórico completo em decreto-lei-118-83.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ADSE
+- Administração Pública
+- Assistência Medicamentosa
+- Assistência Médica
+- Funcionário Público
+- Função Pública
+- Proteção Social
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:167177:por
+  label: Altera Artigo 47.º; Altera Artigo 49.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1998-167177
+  date: '1998-04-14'
+- type: amended_by
+  target: pt:dre:353343:por
+  label: Revoga Artigo 46.º; Revoga Artigo 47.º; Revoga Artigo 48.º; Revoga Artigo 49.º; Revoga Artigo 50.º; Revoga Artigo
+    51.º; Revoga Artigo 52.º; Revoga Artigo 53.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1999-353343
+  date: '1999-07-26'
+- type: amended_by
+  target: pt:dre:473499:por
+  label: Altera Artigo 14.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499
+  date: '2005-12-30'
+- type: amended_by
+  target: pt:dre:197491:por
+  label: Altera Capítulo V; Altera Artigo 46.º; Altera Artigo 47.º; Altera Artigo 48.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491
+  date: '2006-12-29'
+- type: amended_by
+  target: pt:dre:243747:por
+  label: Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:609990:por
+  label: Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990
+  date: '2010-04-28'
+- type: amended_by
+  target: pt:dre:344942:por
+  label: Adita Artigo 47.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Adita Artigo 64.º-A; Altera Artigo 47.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:498702:por
+  label: Altera Artigo 46.º; Altera Artigo 47.º; Altera Artigo 47.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702
+  date: '2013-07-30'
+- type: amended_by
+  target: pt:dre:503835:por
+  label: Adita Artigo 46.º-A; Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2013-503835
+  date: '2013-11-22'
+- type: amended_by
+  target: pt:dre:25343710:por
+  label: Altera Artigo 46.º; Altera Artigo 47.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-2014-25343710
+  date: '2014-05-19'
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Revoga Artigo 47.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Altera Artigo 19.º; Altera Artigo 62.º; Altera Artigo 63.º; Altera Artigo 65.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
+- type: amended_by
+  target: pt:dre:117514515:por
+  label: Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2018-117514515
+  date: '2018-12-28'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Altera Artigo 61.º; Altera Artigo 63.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:153341277:por
+  label: Adita Artigo 12.º-A; Altera Artigo 12.º; Altera Artigo 18.º; Altera Artigo 47.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2021-153341277
+  date: '2021-01-08'
+- type: amended_by
+  target: pt:dre:835864042:por
+  label: Adita Artigo 4.º-A; Altera Artigo 47.º; Altera Artigo 64.º; Revoga Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042
+  date: '2023-12-29'
+article_structure:
+  article_count: 72
+  section_count: 23
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:30:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 118/83
+
+Decreto-Lei n.º 118/83
+
+de 25 de Fevereiro
+
+1. O presente diploma destina-se a regulamentar o funcionamento e o esquema de benefícios da Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE) dentro dos princípios consignados no Decreto-Lei n.º 476/80, de 15 de Outubro.
+
+2. Efectivamente, a ADSE tem vindo a guiar-se por um conjunto de legislação avulsa de difícil consulta e nem sempre convenientemente conhecida pelos seus beneficiários, o que impõe múltiplos contactos e esclarecimentos perfeitamente evitáveis se num único diploma se reunisse toda aquela legislação.
+
+3. Por outro lado, a dinâmica colectiva justifica e impõe a introdução de inovações que respondam de forma adequada aos anseios e preocupações da população beneficiária.
+
+É nesta linha que se insere o novo regulamento da ADSE e que se encontra o fundamento para a transformação do habitual decreto regulamentar em decreto-lei. Introduzem-se melhorias e inovações no sistema, que o simples decreto regulamentar não pode acolher.
+
+4. Importa referir que as inovações, agora introduzidas se inserem numa linha de preocupação do Governo no sentido de facultar aos seus funcionários uma melhor segurança social, buscando a unidade do sistema no sector indispensável para uma distribuição equitativa dos benefícios por todos os funcionários públicos. Importa, por isso, refrear a tendência para a criação de regimes paralelos, bem como para a distanciação dos já existentes. É dentro desta perspectiva que aparece a ADSE como órgão operativo, coordenador do funcionamento do sistema de segurança social da função pública, em estreita colaboração e cooperação com os Ministérios da Reforma Administrativa e dos Assuntos Sociais.
+
+Nesta conformidade:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 de artigo 201.º da Constituição, o seguinte:
+
+### Capítulo I — Natureza, âmbito e fins
+
+###### Artigo 1.º — (Natureza, âmbito e fins)
+
+1 - A Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE) é um órgão da estrutura central do Ministério das Finanças e do Plano dotado de autonomia administrativa que tem por objectivo a protecção social nos seguintes domínios:
+
+a) Cuidados de saúde;
+
+b) Encargos familiares;
+
+c) Outras prestações de segurança social.
+
+2 - No âmbito dos cuidados de saúde, a sua acção exerce-se relativamente a:
+
+a) Promoção e vigilância da saúde;
+
+b) Prevenção, tratamento e recuperação da doença.
+
+3 - No domínio dos encargos familiares, enquanto não for redefinido o regime de segurança social para a função pública, o regime do abono de família obedecerá aos seguintes princípios:
+
+a) Pagamento do abono de família e prestações complementares através dos organismos processadores dos vencimentos, para os funcionários no activo, e da Caixa Geral de Aposentações, para os reformados e aposentados;
+
+b) Unidade do regime mediante a articulação dos serviços referidos na alínea anterior com a ADSE, através do exercício por esta do apoio técnico e coordenação das operações inerentes à atribuição do abono.
+
+4 - No tocante a outras prestações de segurança social, a actividade da ADSE deverá desenvolver-se segundo parâmetros que a levem a intervir a favor dos respectivos beneficiários sempre que se registe uma alteração desfavorável do equilíbrio entre as suas necessidades e os meios de que dispõem para as satisfazer.
+
+### Capítulo II — Dos beneficiários
+
+#### Secção I — Tipos de beneficiários
+
+###### Artigo 2.º — (Beneficiários)
+
+Os beneficiários da ADSE integram os seguintes grandes tipos:
+
+a) Beneficiários titulares;
+
+b) Beneficiários familiares ou equiparados.
+
+#### Secção II — Beneficiários titulares
+
+###### Artigo 3.º — (Titulares)
+
+Considera-se beneficiário titular:
+
+a) O pessoal civil do Estado, inclusive o dos organismos dotados de autonomia administrativa financeiramente autónomos e ainda de outros organismos que, não sendo financeiramente autónomos, sejam dotados de verbas próprias para pagamento ao seu pessoal, quer se encontre em situação de exercício de funções ou aposentado;
+
+b) O pessoal da administração regional e local nas condições da alínea anterior;
+
+c) O pessoal de outras entidades que a lei já contemple ou venha a contemplar.
+
+d) Os trabalhadores que cessem, por mútuo acordo, a relação jurídica de emprego público na modalidade de nomeação definitiva ou de contrato de trabalho em funções públicas por tempo indeterminado, caso optem pela manutenção dessa qualidade, nos termos do disposto nos n.os 5 e 6 do artigo 6.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2013 - Diário da República n.º 227/2013, Série I de 2013-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2013-503835), em vigor a partir de 2013-11-23
+
+##### Subsecção I — Dos organismos autónomos
+
+###### Artigo 4.º — (Autonomia administrativa e financeira ou equiparada)
+
+1 - Os funcionários e agentes dos organismos dotados de autonomia administrativa e financeira e ainda de outros organismos que não sendo financeiramente autónomos sejam dotados de verbas próprias para pagamento do seu pessoal podem adquirir a qualidade de beneficiário titular se, cumulativamente:
+
+a) Não beneficiarem como titulares de qualquer outro subsistema de saúde integrado na Administração Pública;
+
+b) Os respectivos organismos assegurarem pelas verbas inscritas nos seus orçamentos privativos os encargos resultantes dos benefícios concedidos pela ADSE;
+
+c) Concorrerem a favor da ADSE a título de comparticipação nas despesas de administração com um quantitativo anual por beneficiário inscrito, quer titular quer familiar, fixado por despacho do membro do Governo responsável pela área das finanças.
+
+2 - Os encargos decorrentes dos benefícios concedidos pela ADSE são suportados pelos respectivos organismos nos termos do preceituado no artigo seguinte.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 4.º-A — Autarquias locais
+
+Os trabalhadores em funções públicas das autarquias locais gozam dos benefícios concedidos pela ADSE, nos mesmos termos que os trabalhadores da administração central do Estado, assumindo a ADSE a responsabilidade financeira pelos cuidados de saúde prestados àqueles trabalhadores, nos termos do presente diploma.
+
+> Aditado pelo/a Artigo 288.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+##### Subsecção II — Autarquias locais
+
+###### Artigo 5.º — Autarquias
+
+1 - Os funcionários e agentes das autarquias locais gozam dos benefícios concedidos pela ADSE nos mesmos termos que o pessoal da administração central do Estado.
+
+2 - Os encargos resultantes do previsto no número anterior são satisfeitos por conta dos orçamentos próprios.
+
+3 - As verbas despendidas pela ADSE em produtos farmacêuticos adquiridos pelos trabalhadores das autarquias e seus familiares são compensadas pelo desconto legal efectuado nos vencimentos daqueles, o qual constitui receita do Orçamento Geral do Estado.
+
+4 - Devem ainda as autarquias reembolsar a ADSE das despesas por esta suportadas em consequência de acordos celebrados ou a celebrar com entidades de cuidados de saúde.
+
+5 - As autarquias devem concorrer a favor da ADSE, a título de comparticipação, nas despesas da Administração com o quantitativo anual por beneficiário inscrito, titular ou familiar, fixado por despacho do membro do Governo responsável pelas áreas das finanças e da Administração Pública.
+
+> Nota: [Artigo 317.º, Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042) A revogação deste artigo não prejudica o cumprimento do disposto no n.º 5 do artigo 288.º da Lei n.º 82/2023, de 29 de dezembro.
+
+> Revogado pelo/a Artigo 317.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 6.º — (Requisitos que devem reunir os beneficiários titulares)
+
+1 - Os funcionários e agentes a que se refere o presente diploma adquirem a qualidade de beneficiários titulares desde que, nessa qualidade, não estejam abrangidos por qualquer outro subsistema de saúde integrado na Administração Pública.
+
+2 - O pessoal referido na alínea c) do artigo 3.º adquire a qualidade de beneficiário titular mediante a celebração de acordo entre a entidade patronal e a ADSE em que são fixadas as condições de atribuição dos benefícios previstos no presente decreto-lei.
+
+3 - Os funcionários e agentes que passem a exercer funções no sector empresarial do Estado, das Regiões Autónomas e dos municípios e suas associações e, bem assim, nas pessoas colectivas de utilidade pública mantêm a qualidade de beneficiários titulares desde que, cumulativamente:
+
+a) Mantenham a vinculação ao serviço de origem;
+
+b) Declarem optar pelo regime de protecção social da função pública;
+
+c) Continuem a efectuar o desconto para a ADSE.
+
+4 - Os encargos resultantes da aplicação do número anterior são suportados:
+
+a) Pela ADSE, quando se trate de funcionários e agentes oriundos de serviços integrados;
+
+b) Pelos organismos autónomos ou Regiões e autarquias locais, relativamente aos seus funcionários e agentes.
+
+5 - Os trabalhadores referidos na alínea d) do artigo 3.º mantêm a qualidade de beneficiário titular se exercerem essa opção.
+
+6 - A opção pela manutenção da qualidade de beneficiário titular deve constar do acordo de cessação, do ato de exoneração ou do ato de demissão, consoante o caso.
+
+7 - Os funcionários na situação de aposentação só podem inscrever-se como beneficiários titulares desde que não estejam abrangidos por outro subsistema de saúde integrado na Administração Pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2013 - Diário da República n.º 227/2013, Série I de 2013-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2013-503835), em vigor a partir de 2013-11-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+#### Secção III — Dos beneficiários familiares ou equiparados
+
+###### Artigo 7.º — (Familiares ou equiparados)
+
+1 - Podem inscrever-se como beneficiários familiares:
+
+a) O cônjuge ou a pessoa que viva com o beneficiário titular em união de facto;
+
+b) Os descendentes ou equiparados;
+
+c) Os ascendentes ou equiparados a cargo do beneficiário titular.
+
+2 - A inscrição dos familiares só é possível desde que provem não estar abrangidos, em resultado do exercício de actividade remunerada ou tributável, por regime de segurança social de inscrição obrigatória, enquanto se mantiver essa situação.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499) As pessoas que viveram em união de facto com beneficiários titulares da ADSE falecidos antes da entrada em vigor dos artigos 7.º e 8.º do Decreto-Lei n.º 118/83, de 25 de Fevereiro, com a redacção dada pelo presente diploma, e que à data do falecimento daquele beneficiário se encontrassem nas condições previstas naqueles artigos podem requerer a sua inscrição na ADSE no prazo máximo de um ano após a entrada em vigor dos mesmos artigos, nos termos constantes da portaria prevista no n.º 4 do referido artigo 8.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 8.º — Cônjuges e membros de união de facto
+
+1 - Consideram-se beneficiários os cônjuges:
+
+a) Não separados de direito dos beneficiários titulares, quer estes estejam na actividade ou aposentados;
+
+b) Os sobrevivos dos beneficiários titulares falecidos no activo ou na situação de aposentados, desde que se mantenham no estado de viuvez e não tenha havido separação de direito.
+
+2 - Consideram-se beneficiários as pessoas que vivam com o beneficiário titular em união de facto, reconhecida nos termos da Lei n.º 7/2001, de 11 de Maio, ou que com ele viviam à data da sua morte nas mesmas condições enquanto não contraírem casamento ou constituírem nova união de facto.
+
+3 - O cônjuge ou o membro de união de facto sobrevivo que, encontrando-se à data do falecimento do beneficiário titular nas condições do artigo 7.º e dos números anteriores do presente artigo, não esteja inscrito pode requerer a sua inscrição na ADSE no prazo máximo de um ano após a morte daquele.
+
+4 - O procedimento de inscrição na ADSE como beneficiários familiares das pessoas que vivam com o beneficiário titular em união de facto é regulado mediante portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499) As pessoas que viveram em união de facto com beneficiários titulares da ADSE falecidos antes da entrada em vigor dos artigos 7.º e 8.º do Decreto-Lei n.º 118/83, de 25 de Fevereiro, com a redacção dada pelo presente diploma, e que à data do falecimento daquele beneficiário se encontrassem nas condições previstas naqueles artigos podem requerer a sua inscrição na ADSE no prazo máximo de um ano após a entrada em vigor dos mesmos artigos, nos termos constantes da portaria prevista no n.º 4 do referido artigo 8.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 9.º — (Descendentes ou equiparados)
+
+1 - Podem inscrever-se como beneficiários familiares:
+
+a) Os filhos menores dos beneficiários titulares, incluindo os dos que faleceram no activo ou na situação de aposentação;
+
+b) Os filhos maiores dos beneficiários titulares, incluindo os dos que faleceram no activo ou na situação de aposentação, que se encontrem nas condições do número seguinte.
+
+2 - Os descendentes mencionados na alínea b) do número anterior podem inscrever-se como beneficiários familiares, nos termos seguintes:
+
+a) Até aos 26 anos, desde que frequente curso do ensino de nível secundário ou equivalente, ou superior, até à conclusão da licenciatura, mestrado ou doutoramento;
+
+b) Se sofrerem de incapacidade total e permanente ou de doença prolongada que obstem à angariação de meios de subsistência.
+
+3 - Os descendentes além do 1.º grau a cargo do beneficiário titular, do seu cônjuge ou da pessoa que viva com o beneficiário titular em união de facto podem inscrever-se como beneficiários familiares desde que, por si ou por algum dos seus progenitores, não estejam abrangidos por outro sistema de protecção social.
+
+4 - Podem inscrever-se como beneficiários equiparados a descendentes, em qualquer das situações mencionadas nos n.os 1 e 2, os enteados e os filhos da pessoa que viva com o beneficiário titular em união de facto que estejam a seu cargo e, bem assim, os tutelados, os adoptados e os menores que, por via judicial ou administrativa, sejam confiados ao beneficiário titular, ao seu cônjuge ou à pessoa que viva com o beneficiário titular em união de facto.
+
+> Alterado pelo/a Artigo 17.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 10.º — (Ascendentes ou equiparados)
+
+1 - Podem inscrever-se como beneficiários familiares os ascendentes dos beneficiários titulares que não possuam rendimentos próprios mensais iguais ou superiores:
+
+a) A 60% da remuneração mínima mensal assegurada por lei à generalidade dos trabalhadores por conta de outrem, se se tratar de um só ascendente;
+
+b) A essa remuneração mínima mensal, no caso de se tratar de um casal de ascendentes.
+
+2 - Incluem-se no conceito de rendimentos próprios os proventos de qualquer espécie, nomeadamente retribuições, rendas, pensões ou equivalentes, que concorram na economia individual do ascendente ou na do seu agregado familiar.
+
+3 - Podem inscrever-se como beneficiários equiparados a ascendentes os adoptantes dos beneficiários titulares, nas condições dos números anteriores.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+#### Secção IV — Inscrições
+
+###### Artigo 11.º — (Aquisição de qualidade de beneficiário)
+
+1 - A aquisição da qualidade de beneficiário da ADSE depende de prévia inscrição dos candidatos que se encontrem nas condições legais.
+
+2 - O início da fruição dos benefícios concedidos pela ADSE reporta-se à data de início do desconto legal obrigatório sobre o vencimento relativamente aos beneficiários titulares no activo e à data de apresentação na ADSE do pedido de inscrição nos restantes casos, sem prejuízo do disposto nos números seguintes.
+
+3 - A fruição de benefícios concedidos pela ADSE é condicionada à comprovação da qualidade de beneficiário.
+
+4 - Relativamente aos descendentes recém-nascidos, nos primeiros três meses, a fruição de benefícios que dependa da exibição de cartão de beneficiário é obtida através do cartão de qualquer dos progenitores que seja beneficiário titular.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 12.º — Inscrição e direito de opção por outro subsistema de saúde
+
+1 - São inscritos como beneficiários titulares da ADSE todos os trabalhadores com relação jurídica de emprego público a título definitivo, com exceção dos que hajam anteriormente renunciado à qualidade de beneficiário.
+
+2 - São igualmente inscritos como beneficiários titulares da ADSE os trabalhadores com contrato individual de trabalho sem termo que exerçam funções em entidades de natureza jurídica pública, com exceção dos que hajam renunciado anteriormente à qualidade de beneficiário.
+
+3 - Para efeitos do número anterior, consideram-se entidades de natureza jurídica pública:
+
+a) As incluídas no âmbito de aplicação da Lei Geral de Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual;
+
+b) As entidades públicas empresariais, independentemente de serem do Estado, regionais ou municipais, desde que não tenham caráter industrial ou comercial;
+
+c) As instituições de ensino superior públicas, independentemente da sua forma e natureza.
+
+4 - A entidade processadora de remunerações comunica a inscrição dos trabalhadores a que se referem os n.os 1 e 2, no prazo de um mês a contar da data de constituição da primeira relação jurídica de emprego público a título definitivo ou da celebração do primeiro contrato individual de trabalho sem termo com entidades abrangidas pelo número anterior.
+
+5 - Para efeitos do número anterior, quanto aos trabalhadores a que se refere o n.º 2 considera-se como primeiro contrato individual de trabalho sem termo o celebrado a primeira vez com uma das entidades a que se refere o n.º 3, mantendo-se o direito à inscrição como beneficiário titular da ADSE quando sejam celebrados outros contratos individuais de trabalho sem termo, de forma ininterrupta e com entidades abrangidas pelo n.º 3.
+
+6 - Para efeitos do disposto nos n.os 1 e 2, considera-se que renunciam definitivamente à inscrição na ADSE os beneficiários titulares que o requeiram, a todo o tempo.
+
+7 - Os trabalhadores que sejam cônjuges ou membros de união de facto de beneficiários titulares de outro subsistema de saúde destinado a funcionários, agentes e outros servidores do Estado podem optar pela inscrição nesse subsistema como beneficiários extraordinários.
+
+8 - A opção prevista no número anterior deve realizar-se no prazo de três meses a contar da data de celebração do casamento ou da aquisição da qualidade de trabalhador.
+
+9 - No caso das uniões de facto, o prazo para o exercício do direito de opção previsto no n.º 7 é regulado pela portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.
+
+10 - As entidades de natureza jurídica pública a que se refere o n.º 3 são identificadas em lista elaborada pelo Conselho Diretivo da ADSE a publicar no respetivo sítio na Internet, homologada pelos membros do Governo responsáveis pela área das finanças e pela área que tutela a ADSE.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 4/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2021-153341277), em vigor a partir de 2021-01-09
+
+> Alterado pelo/a Artigo 17.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 12.º-A — Inscrição mediante requerimento
+
+1 - Podem inscrever-se como beneficiários titulares da ADSE os trabalhadores com relação jurídica de emprego público a termo resolutivo e os trabalhadores com contrato individual de trabalho a termo resolutivo celebrado com entidades abrangidas pelo n.º 3 do artigo anterior, com exceção dos que hajam anteriormente renunciado à qualidade de beneficiário e desde que a causa de cessação de contratos anteriores se considere involuntária nos termos do artigo 9.º do Decreto-Lei n.º 220/2006, de 3 de novembro, na sua redação atual.
+
+2 - A faculdade prevista no número anterior deve ser exercida pelo interessado no prazo de três meses a contar da data da celebração do contrato, incluindo eventuais renovações, mediante pedido de inscrição comunicado pela entidade processadora de remunerações.
+
+3 - Para efeitos do disposto no n.º 1, considera-se que renunciam definitivamente à inscrição na ADSE os beneficiários titulares que o requeiram, a todo o tempo, os trabalhadores que não exerçam a faculdade prevista no n.º 1 por ocasião dos primeiros três contratos, salvo se vierem a celebrar um contrato sem termo, aplicando-se, nesse caso, os n.os 1 e 2 do artigo anterior e aqueles cujo contrato cesse por facto imputável ao trabalhador.
+
+4 - Aos trabalhadores que sejam cônjuges ou membros de união de facto de beneficiários titulares de outro subsistema de saúde destinado a funcionários, agentes e outros servidores do Estado aplica-se o disposto nos n.os 7 a 9 do artigo anterior.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 4/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2021-153341277), em vigor a partir de 2021-01-09
+
+###### Artigo 13.º — (Responsabilidade pela inscrição)
+
+A inscrição na ADSE processar-se-á:
+
+a) Através dos serviços e organismos processadores de vencimentos, no tocante aos funcionários e agentes no activo e aos respectivos familiares ou equiparados, ainda que sobrevivos, quando aqueles tiverem falecido antes da sua inscrição na ADSE;
+
+b) Pelos próprios funcionários e agentes que se encontrem na situação de aposentação ou pelos familiares sobrevivos dos mesmos.
+
+###### Artigo 14.º — (Formalidades)
+
+1 - A inscrição como beneficiário da ADSE faz-se mediante o preenchimento do correspondente boletim de inscrição pelo interessado.
+
+2 - As informações incluídas no boletim são confirmadas:
+
+a) Pelas entidades responsáveis pela inscrição dos funcionários e agentes no activo, relativamente a estes e aos seus familiares ou equiparados e a familiares sobrevivos quando aqueles tiverem falecido antes da sua inscrição na ADSE;
+
+b) Pela entidade que paga a pensão aos funcionários e agentes aposentados ou ainda aos seus familiares sobrevivos.
+
+3 - As alterações da situação existente devem ser comunicadas à ADSE no prazo de 30 dias a contar da sua ocorrência ou do seu conhecimento:
+
+a) Pelas entidades mencionadas na alínea a) do número precedente, relativamente aos beneficiários nela citados;
+
+b) Pela entidade que pague a pensão ao funcionário e agente aposentado;
+
+c) Pelo próprio, nos restantes casos.
+
+4 - A ADSE pode, sempre que achar necessário, solicitar das entidades competentes e, bem assim, dos beneficiários titulares e familiares ou equiparados as informações de que careça para verificação das condições de inscrição e manutenção de direitos como beneficiário.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2005-12-31
+
+###### Artigo 15.º — (Dupla inscrição)
+
+1 - É vedada a inscrição na ADSE aos familiares dos beneficiários titulares que beneficiem de outros regimes de protecção social.
+
+2 - Os beneficiários titulares que tenham familiares inscritos nas condições do número anterior devem regularizar a situação perante a ADSE, mediante a apresentação de novo boletim de inscrição no prazo de 90 dias, a contar da data da publicação deste diploma.
+
+3 - O não cumprimento do disposto nos números anteriores envolve responsabilidade nos termos do artigo 45.º deste decreto-lei.
+
+#### Secção V — Manutenção, suspensão e perda da qualidade de beneficiário
+
+###### Artigo 16.º — (Manutenção da qualidade de beneficiário)
+
+Mantêm a qualidade de beneficiários titulares os funcionários e agentes que por motivo de doença se encontrem em situação de licença ilimitada ou de licença sem vencimento de longa duração.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 17.º — (Suspensão da qualidade de beneficiário)
+
+1 - Suspende-se a qualidade de beneficiário titular aos funcionários e agentes que:
+
+a) Entrem de licença sem vencimento até 90 dias;
+
+b) Entrem de licença sem vencimento por um ano ou de licença sem vencimento para acompanhamento do cônjuge colocado no estrangeiro, salvo se mantiverem os descontos para a ADSE.
+
+2 - É igualmente suspensa a qualidade de beneficiário e a fruição das regalias concedidas pela ADSE aos funcionários e agentes em efectividade de funções e, bem assim, aos aposentados que tenham infringido, por actos ou omissões, as normas e regulamentos da ADSE, nos termos do artigo 25.º do Decreto-Lei n.º 476/80, de 15 de Outubro.
+
+3 - As situações mencionadas no n.º 1 são comunicadas à ADSE pelos serviços processadores de vencimentos logo após o seu início, incumbindo-lhes ainda proceder à retenção do cartão dos beneficiários.
+
+4 - O não cumprimento do disposto no número anterior constitui infracção disciplinar, nos termos do artigo 25.º do Decreto-Lei n.º 476/80, de 15 de Outubro, e do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, aprovado pelo Decreto-Lei n.º 24/84, de 16 de Janeiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 18.º — (Perda da qualidade de beneficiário)
+
+1 - A qualidade de beneficiário titular e familiar perde-se pela verificação dos seguintes eventos:
+
+a) Exoneração, demissão e cessação do contrato de trabalho em funções públicas, exceto nos casos em que opte pela manutenção da qualidade de beneficiário, nos termos do disposto nos n.os 5 e 6 do artigo 6.º;
+
+b) Passagem à situação de licença sem vencimento de longa duração;
+
+c) Cessação das condições exigidas pelo presente decreto-lei para a inscrição como beneficiário;
+
+d) Renúncia nos termos previstos no n.º 6 do artigo 12.º e no n.º 3 do artigo 12.º-A;
+
+e) Cessação do contrato individual de trabalho, sem prejuízo do disposto no n.º 5 do artigo 12.º e no n.º 1 do artigo 12.º-A.
+
+2 - As situações acima mencionadas devem ser comunicadas à ADSE logo após a verificação do evento pelos respectivos serviços ou pelos próprios, consoante se trate de pessoal no activo ou aposentado, com devolução dos respectivos cartões.
+
+3 - O não cumprimento do disposto no número anterior constitui infracção disciplinar, nos termos do artigo 25.º do Decreto-Lei n.º 476/80, de 15 de Outubro, e do Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local, aprovado pelo Decreto-Lei n.º 24/84, de 16 de Janeiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 4/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2021-153341277), em vigor a partir de 2021-01-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2013 - Diário da República n.º 227/2013, Série I de 2013-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2013-503835), em vigor a partir de 2013-11-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+### Capítulo III — Das eventualidades e benefícios
+
+#### Secção I — Disposições gerais
+
+###### Artigo 19.º — (Concessão de benefícios)
+
+1 - A concessão de benefícios depende da inscrição nos termos da secção IV do capítulo II do presente decreto-lei e das contribuições legalmente estabelecidas para o efeito.
+
+2 - Os benefícios a conceder, bem como o modo e a forma como serão atribuídos, vêm indicados nas correspondentes secções do presente capítulo.
+
+3 - O pagamento pela ADSE dos cuidados prestados assenta nas técnicas do reembolso ao beneficiário e do pagamento directo à entidade prestadora de serviços, de conformidade com o legalmente estabelecido.
+
+4 - Quando seja a ADSE a pagar directamente às entidades prestadoras dos cuidados de saúde por força de acordos estabelecidos, será reembolsada:
+
+a) Pelos beneficiários da parte que exceder os limites legalmente estabelecidos;
+
+b) Pelas regiões e organismos autónomos, bem como pelas autarquias locais, da totalidade dessas despesas, competindo a estes reaver as comparticipações eventualmente devidas pelos beneficiários.
+
+5 - Nos acordos a celebrar pela ADSE pode vir a ser consagrado o princípio de o beneficiário pagar directamente à entidade prestadora dos cuidados de saúde a comparticipação que lhe couber.
+
+6 - Os trabalhadores em funções públicas das Regiões Autónomas da Madeira e dos Açores gozam dos benefícios concedidos pela ADSE, I. P., nos mesmo termos que os trabalhadores da administração central do Estado, passando a ADSE, I. P., a suportar, desde 1 de janeiro de 2018, os respetivos encargos com os reembolsos do regime livre e do regime convencionado.
+
+> Alterado pelo/a Artigo 148.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16
+
+#### Secção II — Dos cuidados de saúde
+
+###### Artigo 20.º — (De promoção e vigilância de saúde)
+
+A ADSE poderá vir a cooperar com as entidades competentes em todas as acções tendentes ao desenvolvimento das medidas sanitárias e de protecção às doenças de longa duração.
+
+###### Artigo 21.º — (Da prevenção, tratamento e recuperação da doença)
+
+1 - A protecção na doença é assegurada no País, tanto no regime ambulatório como no de internamento, através de comparticipações em:
+
+a) Cuidados médicos;
+
+b) Cuidados hospitalares;
+
+c) Enfermagem;
+
+d) Tratamentos termais;
+
+e) Transportes e aposentadoria;
+
+f) Produtos medicamentosos;
+
+g) Meios de correcção e compensação;
+
+h) Lares e casas de repouso;
+
+i) Outros cuidados de saúde.
+
+###### Artigo 22.º — (Cuidados médicos)
+
+No âmbito dos cuidados médicos, a ADSE assegura:
+
+a) Consultas de clínica geral e de especialidade;
+
+b) Meios complementares de diagnóstico e terapêutica;
+
+c) Intervenções cirúrgicas.
+
+###### Artigo 23.º — Cuidados hospitalares
+
+1 - No domínio dos cuidados hospitalares, a protecção é garantida, nas modalidades por eles praticadas e nos termos de acordos celebrados, em:
+
+a) Hospitais do Estado, incluindo qualquer unidade de cuidados primários;
+
+b) Hospitais e clínicas cooperativos;
+
+c) Hospitais e clínicas privados.
+
+2 - Quando o beneficiário recorrer a qualquer unidade hospitalar com a qual a ADSE não tenha acordo, esta concorre para as despesas efectuadas pelo beneficiário com as importâncias resultantes da aplicação do previsto no n.º 3 do artigo 19.º deste diploma.
+
+###### Artigo 24.º — (Enfermagem)
+
+Os actos de enfermagem, quando prescritos por médicos legalmente reconhecidos, serão comparticipados.
+
+###### Artigo 25.º — (Termas)
+
+Os tratamentos termais, quando clinicamente justificados, serão comparticipados, desde que efectuados em estâncias termais reconhecidas pelos serviços competentes do Ministério dos Assuntos Sociais, pelo período mínimo de 12 dias seguidos por ano em cada tipo de estabelecimento termal.
+
+###### Artigo 26.º — (Transportes)
+
+1 - Aos beneficiários será concedida uma comparticipação em despesas de transporte, desde que, por motivo de doença devidamente justificada pelo médico, sejam por este encaminhados para a unidade de cuidados hospitalares mais próxima do local em que se encontrem e em condições de prestar os cuidados requeridos.
+
+2 - A comparticipação não abrange as deslocações em viatura própria, sendo apenas viável quando utilizados os seguintes meios de transporte:
+
+a) Ambulância;
+
+b) Transportes colectivos;
+
+c) Automóvel de aluguer.
+
+3 - O recurso a automóvel de aluguer ou a ambulância apenas será permitido em casos de força maior, devidamente justificados.
+
+4 - A utilização dos transportes colectivos implica que a comparticipação se faça com base no custo da classe mais económica.
+
+5 - Excepcionam-se do previsto no número anterior as despesas em transportes colectivos nas localidades onde se situam as unidades hospitalares, caso em que não há lugar a qualquer comparticipação.
+
+6 - Quando haja necessidade médica, devidamente comprovada, de o beneficiário doente ser acompanhado, a ADSE poderá também comparticipar nas despesas de transporte
+
+###### Artigo 27.º — (Aposentadoria)
+
+1 - A ADSE poderá comparticipar nas despesas em aposentadoria, quando os beneficiários se encontrem deslocados da sua residência habitual a receber cuidados de saúde.
+
+2 - A comparticipação poderá ser extensiva ao acompanhante, se se verificarem as condições do n.º 6 do artigo anterior.
+
+###### Artigo 28.º — Comparticipação de medicamentos e dispositivos médicos
+
+1 - A ADSE comparticipa os medicamentos quando dispensados em ambiente hospitalar privado nas seguintes situações:
+
+a) Procedimento cirúrgico;
+
+b) Internamento médico-cirúrgico;
+
+c) Tratamento oncológico;
+
+d) Atendimento médico permanente.
+
+2 - A ADSE comparticipa ainda os medicamentos e os dispositivos médicos consumidos em ambiente hospitalar em entidades que tenham convenção com a ADSE.
+
+3 - Sem prejuízo do disposto no n.º 1, não são objeto de comparticipação pela ADSE os medicamentos e dispositivos médicos:
+
+a) Dispensados em farmácias comunitárias;
+
+b) Prescritos ou dispensados por estabelecimentos integrados na rede nacional de prestação de cuidados de saúde, exceto se consumidos em ambiente hospitalar numa entidade que tenha convenção com a ADSE.
+
+4 - A ADSE só comparticipa os medicamentos prescritos por entidades legalmente autorizadas, e que possuam:
+
+a) Autorização de Introdução no Mercado (AIM) ou Autorização de Utilização Excecional (AUE) sem AIM, de acordo com o regime previsto no Decreto-Lei n.º 176/2006, de 30 de agosto, na sua redação atual;
+
+b) Decisão de financiamento pelo SNS no âmbito do sistema nacional de avaliação das tecnologias de saúde (SINATS), previsto no Decreto-Lei n.º 97/2015, de 1 de junho, na sua redação atual, ou autorização especial conferida pela ADSE, em casos imperiosos para a saúde do doente, designadamente quando o mesmo corra risco imediato de vida ou de sofrer complicações graves.
+
+5 - O preço dos medicamentos e dispositivos médicos a comparticipar em regime convencionado são aprovados nos termos previstos no artigo 18.º do Decreto-Lei n.º 7/2017, de 9 de janeiro, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2018 - Diário da República n.º 250/2018, Série I de 2018-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2018-117514515), em vigor a partir de 2019-01-01
+
+###### Artigo 29.º — (Meios de correcção e compensação)
+
+1 - A ADSE poderá comparticipar na aquisição de instrumentos de correcção e compensação, nomeadamente próteses, ortóteses, aparelhos ortopédicos e veículos de rodas, mediante a apresentação da necessária prescrição de médico da respectiva especialidade e dos documentos comprovativos da aquisição e pagamento passados pelas casas da especialidade.
+
+2 - A comparticipação em cada um dos instrumentos indicados no número anterior não poderá repetir-se antes de decorrido o prazo de vida útil, o qual será, caso a caso, regulamentado.
+
+###### Artigo 30.º — (Lares e casas de repouso)
+
+1 - A comparticipação em despesas por internamento em lares e casas de repouso poderá ter lugar se, cumulativamente, se verificar:
+
+a) Reconhecimento oficial da instituição:
+
+b) Estado do beneficiário que exija vigilância da saúde.
+
+2 - A necessidade de internamento nos estabelecimentos referidos no número anterior deverá ser comprovada através de declaração médica.
+
+3 - O reconhecimento oficial dos lares e casas de repou prova-se mediante a apresentação de documento emitido pela entidade competente.
+
+##### Subsecção I — Dos cuidados de saúde no estrangeiro
+
+###### Artigo 31.º — (Protecção na doença no estrangeiro)
+
+Os beneficiários da ADSE podem recorrer aos cuidados de saúde no estrangeiro nas seguintes condições:
+
+a) Desde que não existam meios técnicos em Portugal para os cuidados exigidos, situação que deve ser reconhecida pelo responsável clínico dos serviços da especialidade de um hospital central nacional e mediante decisão fundamentada da ADSE;
+
+b)Em qualquer outra situação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 32.º — (Falta de meios técnicos)
+
+1 - Nas condições referidas na alínea a) do artigo anterior, o beneficiário tem direito a uma comparticipação equivalente às despesas efectuadas com os cuidados de saúde recebidos de acordo com os montantes fixados nas tabelas aprovadas pelo despacho referido no artigo 35.º do presente diploma.
+
+2 - Poderá ainda o beneficiário ser comparticipado nas despesas de transporte e, sempre que clinicamente se justifique, do seu acompanhante;
+
+3 - De igual modo, sempre que se verifique tratamento ambulatório, poderá ser concedida ao beneficiário e a um acompanhante uma comparticipação em despesas de aposentadoria.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 33.º — (Outras situações)
+
+1 - Quando o beneficiário opte por cuidados de saúde no estrangeiro fora das condições prevista na alínea a) do artigo 31.º, a comparticipação é atribuída de acordo com os montantes fixados nas tabelas aprovadas pelo despacho referido no artigo 35.º do presente decreto-lei, excluindo-se qualquer comparticipação nas despesas com transportes e aposentadoria.
+
+2 - Sempre que o beneficiário se encontre deslocado no estrangeiro em missão oficial tem direito a comparticipação nas despesas com cuidados de saúde de acordo com os montantes fixados nas tabelas aprovadas pelo despacho referido no artigo 35.º do presente decreto-lei.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 34.º — (Insuficiência de meios financeiros para tratamento no estrangeiro)
+
+1 - Desde que se verifiquem as condições previstas na alínea a) do artigo 31.º, a ADSE pode vir a adiantar uma verba de conformidade com a previsão dos encargos a suportar de acordo com as disponibilidades do seu orçamento.
+
+2 - A previsão dos encargos consta do relatório clínico da entidade referida na alínea a) do artigo 31.º ou da entidade onde os cuidados vão ser ministrados.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2005-12-31
+
+###### Artigo 35.º — (Montante das comparticipações)
+
+1 - As comparticipações a que se alude na presente secção serão de montante fixado por despacho do Ministro de Estado e das Finanças e do Plano, salvo no que se refere ao artigo 28.º deste diploma.
+
+2 - A ADSE reverva-se o direito de exigir todos os documentos que julgar necessários à atribuição das comparticipações.
+
+###### Artigo 36.º — A quem são pagas as comparticipações
+
+1 - As comparticipações podem ser pagas:
+
+a) Ao beneficiário titular;
+
+b) Ao representante legal;
+
+c) Ao representante voluntário;
+
+d) Ao beneficiário familiar, quando requerido e justificado perante a ADSE.
+
+2 - O pagamento das comparticipações pode ser efectuado, sempre que a ADSE o julgue oportuno:
+
+a) Directamente;
+
+b) Por crédito em conta;
+
+c) Por intermédio do serviço de que depende o beneficiário.
+
+> Alterado pelo/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+##### Subsecção II — Dos acordos e convenções
+
+###### Artigo 37.º — (Acordos)
+
+O director-geral da ADSE poderá celebrar acordos com instituições hospitalares do sector público, privado ou cooperativo, bem como com quaisquer outras entidades singulares ou colectivas, em ordem a obter e a oferecer, com a necessária prontidão e continuidade, as prestações que interessam ao prosseguimento dos seus fins.
+
+###### Artigo 38.º — (Convenções)
+
+Sempre que as circunstâncias o exijam, o Ministro de Estado e das Finanças e do Plano poderá participar na celebração de acordos e convenções com organismos estrangeiros e internacionais.
+
+#### Secção III — Outras prestações de segurança social
+
+###### Artigo 39.º — (Acção social)
+
+1 - Em complemento dos seus esquemas normais de prestações, a ADSE, mediante autorização do Ministro de Estado e das Finanças e do Plano, poderá prosseguir outras realizações de acção social com vista à protecção do beneficiário e sua família, sempre que este se encontre em situação económica desfavorável.
+
+2 - A atribuição das prestações referidas no número anterior dependerá das disponibilidades orçamentais da ADSE.
+
+#### Secção IV — Alteração, cumulação e publicidade dos benefícios
+
+###### Artigo 40.º — (Alteração)
+
+Sempre que as circunstâncias o exijam, a ADSE poderá vir a alterar o seu esquema de benefícios, de harmonia com uma política concertada de segurança social e mediante despacho do Ministro de Estado e das Finanças e do Plano.
+
+###### Artigo 41.º — (Cumulação)
+
+1 - A ADSE não comparticipa em despesas com cuidados de saúde que tenham sido objecto de comparticipação por outros subsistemas de saúde, serviços sociais ou obras sociais integrados na Administração Pública.
+
+2 - As despesas com cuidados de saúde que tenham sido objecto de comparticipação por entidades privadas são comparticipadas pela ADSE apenas relativamente aos montantes não comparticipados por aquelas entidades.
+
+3 - Nas situações previstas no número anterior, o beneficiário deve apresentar cópia dos documentos de despesa acompanhada de declaração original, emitida pela entidade que atribuiu a comparticipação, discriminando as despesas e os correspondentes montantes comparticipados.
+
+4 - Para efeitos do disposto nos números anteriores, as despesas são consideradas autonomamente, ainda que decorrentes da prestação do mesmo cuidado de saúde.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 42.º — (Publicidade)
+
+A divulgação dos benefícios oferecidos pelo regime, bem como os montantes das respectivas comparticipações, far-se-á através de publicações no Diário da República, 2.ª série, sob a forma de avisos.
+
+### Capítulo IV — Dos direitos, deveres e responsabilidade disciplinar dos beneficiários
+
+#### Secção I — Direitos e deveres
+
+###### Artigo 43.º — (Direitos)
+
+1 - Os beneficiários têm direito às prestações sociais asseguradas pela ADSE, bem como à livre escolha do médico ou da instituição de cuidados de saúde no País ou no estrangeiro.
+
+2 - Não são abrangidos pelo esquema de benefícios concedidos pela ADSE os cuidados de saúde a prestar em resultado:
+
+a) De acidente em serviço ou doença profissional;
+
+b) De acidente da responsabilidade de terceiro;
+
+c) De doença abrangida pelo regime de concessão de assistência aos funcionários e agentes tuberculosos e seus familiares.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 44.º — (Deveres)
+
+1 - Os beneficiários são obrigados:
+
+a) A cumprir as normas e regulamentos da ADSE;
+
+b) A comunicar imediatamente, através dos serviços de que dependem, todas as alterações de natureza profissional, pessoal ou familiar que tenham reflexos nas suas relações com a ADSE, devolvendo os respectivos cartões, quando for caso disso;
+
+c) Excepcionam-se da alínea anterior os aposentados, cujas alterações devem ser comunicadas directamente à ADSE.
+
+#### Secção II — Da responsabilidade disciplinar, civil e criminal
+
+###### Artigo 45.º — (Responsabilidade)
+
+1 - Os beneficiários que, para a obtenção das regalias oferecidas pela ADSE, usem de procedimento irregular, por acção ou omissão, ficarão sujeitos à responsabilidade disciplinar ou criminal perante a ADSE e os serviços de que dependam, sem prejuízo de reposição das importâncias indevidamente recebidas.
+
+2 - O previsto no número anterior implica a obrigatoriedade de os serviços de que depende o beneficiário instaurarem o competente processo disciplinar, nos termos do Decreto-Lei n.º 24/84, de 16 de Janeiro, de cujos resultados devem dar conhecimento à ADSE.
+
+3 - As penas a aplicar pela ADSE são as previstas no artigo 25.º do Decreto-Lei n.º 476/80, de 15 de Outubro.
+
+4 - O processo disciplinar instaurado pela ADSE deverá obedecer, com as devidas adaptações, aos trâmites processuais consignados no Estatuto Disciplinar dos Funcionários e Agentes da Administração Central, Regional e Local.
+
+5 - As entidades prestadoras de cuidados de saúde, fornecedoras de produtos farmacêuticos ou instrumentos de compensação ou correcção que usem de procedimento doloso nas suas relações com a ADSE e seus beneficiários ficam sujeitas, para além da responsabilidade civil ou criminal, à impossibilidade temporária ou definitiva de a ADSE conceder comparticipações nos actos ou fornecimentos por si praticados, de harmonia com a gravidade do acto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+### Capítulo V — Financiamento e responsabilidade pelo pagamento
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 53-D/2006 - Diário da República n.º 249/2006, 4º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491), em vigor a partir de 2007-01-01
+
+###### Artigo 46.º — Descontos nas remunerações
+
+1 - A remuneração base dos beneficiários titulares fica sujeita ao desconto de 3,50 % nos termos do n.º 1 do artigo 8.º-A da Lei n.º 53-D/2006, de 29 de dezembro, alterado pela Lei n.º 3-B/2010, de 28 de abril, e pelos Decretos-Leis n.os 29-A/2011, de 1 de março, e 105/2013, de 30 de julho.
+
+2 - A receita proveniente dos descontos referidos no número anterior é consignada ao pagamento dos benefícios concedidos pela ADSE aos seus beneficiários nos domínios da promoção da saúde, prevenção da doença, tratamento e reabilitação.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 105/2013 - Diário da República n.º 145/2013, Série I de 2013-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702) As percentagens referidas no n.º 1 do artigo 46.º e no n.º 1 do artigo 47.º do Decreto-Lei n.º 118/83, de 25 de fevereiro, na redação dada pelo presente decreto-lei, são até 31 de dezembro de 2013, de 2,25%.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2014 - Diário da República n.º 95/2014, Série I de 2014-05-19](https://diariodarepublica.pt/dr/detalhe/lei/30-2014-25343710), em vigor a partir de 2014-05-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2013 - Diário da República n.º 145/2013, Série I de 2013-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702), em vigor a partir de 2013-07-31
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 53-D/2006 - Diário da República n.º 249/2006, 4º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491), em vigor a partir de 2007-01-01
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 279/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1999-353343), em vigor a partir de 1999-07-27
+
+###### Artigo 46.º-A — Contribuição para a ADSE em caso de cessação da relação jurídica de emprego público
+
+1 - Os beneficiários titulares a que se refere a alínea d) do artigo 3.º ficam sujeitos a uma contribuição mensal determinada pela aplicação da taxa prevista no artigo anterior ao montante correspondente à remuneração base auferida à data da cessação da nomeação ou do contrato.
+
+2 - A remuneração base considerada para efeitos do número anterior está sujeita às ulteriores alterações nos termos em que o seja a remuneração dos trabalhadores em exercício de funções.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 161/2013 - Diário da República n.º 227/2013, Série I de 2013-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2013-503835), em vigor a partir de 2013-11-23
+
+###### Artigo 47.º — Descontos nas pensões
+
+1 - As pensões de aposentação e de reforma dos beneficiários titulares, quando o seu montante for superior a (euro) 635,00, ficam sujeitas ao desconto de 3,50 %.
+
+2 - Da aplicação do desconto previsto no número anterior não pode resultar pensão de valor inferior a (euro) 635,00.
+
+3 - As dotações equivalentes aos descontos que seriam devidos mensalmente pelos beneficiários titulares isentos, total ou parcialmente, a que se referem os números anteriores são suportados pelo Orçamento do Estado, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública e das finanças.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 105/2013 - Diário da República n.º 145/2013, Série I de 2013-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702) As percentagens referidas no n.º 1 do artigo 46.º e no n.º 1 do artigo 47.º do Decreto-Lei n.º 118/83, de 25 de fevereiro, na redação dada pelo presente decreto-lei, são até 31 de dezembro de 2013, de 2,25%.
+
+> Alterado pelo/a Artigo 287.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 4/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2021-153341277), em vigor a partir de 2021-01-09
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2014 - Diário da República n.º 95/2014, Série I de 2014-05-19](https://diariodarepublica.pt/dr/detalhe/lei/30-2014-25343710), em vigor a partir de 2014-05-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2013 - Diário da República n.º 145/2013, Série I de 2013-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702), em vigor a partir de 2013-07-31
+
+> Alterado pelo/a Artigo 195.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 53-D/2006 - Diário da República n.º 249/2006, 4º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491), em vigor a partir de 2007-01-01
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 279/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1999-353343), em vigor a partir de 1999-07-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/98 - Diário da República n.º 87/1998, Série I-A de 1998-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1998-167177), em vigor a partir de 1998-04-15
+
+###### Artigo 47.º-A — Contribuição para a ADSE da entidade patronal ou equiparada
+
+1 - Os serviços integrados e os serviços e fundos autónomos, enquanto entidades empregadoras, pagam uma contribuição de 1,25% das remunerações sujeitas a desconto para a CGA, I. P., ou para a segurança social dos respetivos trabalhadores que sejam beneficiários titulares da ADSE.
+
+2 - A contribuição prevista no número anterior é receita própria da ADSE e destina-se ao financiamento do sistema de benefícios assegurados pela ADSE, incluindo os regimes livre e convencionado.
+
+> Revogado pelo/a Artigo 260.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2013 - Diário da República n.º 145/2013, Série I de 2013-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2013-498702), em vigor a partir de 2013-07-31
+
+> Aditado pelo/a Artigo 163.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01
+
+###### Artigo 48.º — Destino das importâncias descontadas
+
+As importâncias descontadas nos termos dos artigos anteriores constituem receita da Direcção-Geral de Protecção Social aos Funcionários e Agentes da Administração Pública, afecta ao financiamento dos benefícios estabelecidos no presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 53-D/2006 - Diário da República n.º 249/2006, 4º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-d-2006-197491), em vigor a partir de 2007-01-01
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 279/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1999-353343), em vigor a partir de 1999-07-27
+
+###### Artigo 49.º — Constituição
+
+1 - O conselho administrativo é órgão consultivo em matéria de gestão financeira e é constituído pelos seguintes membros:
+
+a) O director-geral da ADSE, que preside;
+
+b) O subdirector-geral que for designado para o efeito;
+
+c) O responsável pelo Departamento dos Serviços Administrativos.
+
+2 - Quando os lugares de subdirector-geral ou de responsável pelo Departamento dos Serviços Administrativos se encontrem vagos, poderá o director-geral preencher o lugar com um director de serviços do ADSE, até que seja preenchido o lugar vago.
+
+3 - O conselho será secretariado pelo chefe da Repartição de Expediente e Pessoal.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 279/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1999-353343), em vigor a partir de 1999-07-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/98 - Diário da República n.º 87/1998, Série I-A de 1998-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1998-167177), em vigor a partir de 1998-04-15
+
+###### Artigo 50.º — (Competências)
+
+O conselho reúne quinzenalmente e sempre que o director-geral o convoque, competindo-lhe as atribuições enumeradas no n.º 3 do artigo 4.º do Decreto-Lei n.º 476/80, de 15 de Outubro.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 279/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1999-353343), em vigor a partir de 1999-07-27
+
+### Capítulo VI — Da gestão financeira
+
+#### Secção I — Receitas e despesas
+
+###### Artigo 51.º — (Princípio geral)
+
+A ADSE aplicará as regras legais em vigor, o disposto neste diploma e os princípios da gestão por objectivos.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 279/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1999-353343), em vigor a partir de 1999-07-27
+
+###### Artigo 52.º — (Receitas)
+
+1 - As receitas da ADSE são provenientes:
+
+a) Do Orçamento Geral do Estado;
+
+b) Das contribuições dos beneficiários;
+
+c) Das comparticipações dos beneficiários;
+
+d) Dos organismos autónomos;
+
+e) Das regiões e autarquias locais;
+
+f) Dos beneficiários prescritos;
+
+g) De outras receitas.
+
+2 - A ADSE arrecadará e administrará as suas receitas dentro dos princípios legalmente estabelecidos e de acordo com as regras de contabilidade pública.
+
+3 - Os fundos requisitados, bem como as receitas próprias, serão depositados na Caixa Geral de Depósitos, em conta especial à ordem da ADSE, podendo, sempre que for julgado de interesse para a Administração, tais fundos e receitas ser depositados noutras instituições de crédito nacionais.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 279/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1999-353343), em vigor a partir de 1999-07-27
+
+###### Artigo 53.º — (Despesas)
+
+1 - As despesas da ADSE classificam-se do seguinte modo:
+
+a) Comparticipações em cuidados de saúde;
+
+b) Restituição de contribuições ou comparticipações indevidas;
+
+c) Créditos de beneficiários falecidos;
+
+d) Acção social;
+
+e) Administração;
+
+f) Outras despesas.
+
+2 - Com base no programa de trabalho para cada ano económico, a ADSE promoverá a elaboração do respectivo orçamento anual, que será submetido a aprovação do Ministro de Estado e das Finanças e do Plano.
+
+3 - A ADSE poderá ainda submeter a aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral.
+
+> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 279/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1999-353343), em vigor a partir de 1999-07-27
+
+### Capítulo VII — Disposições finais e transitórias
+
+###### Artigo 54.º — (Regimes paralelos)
+
+Nenhum serviço civil do Estado pode criar ou desenvolver qualquer regime paralelo ao da ADSE sem que previamente esta emita o seu parecer, ainda que sejam financiados por receitas próprias.
+
+###### Artigo 55.º — (Coordenação do sistema)
+
+A ADSE, como órgão operativo, coordenará o funcionamento do sistema de segurança social da função pública relativamente aos benefícios imediatos com base na audição prévia e em estreita cooperação com os Ministérios dos Assuntos Sociais e da Reforma Administrativa.
+
+###### Artigo 56.º — (Manutenção de direitos)
+
+Os beneficiários que se encontrem nas condições do presente diploma mantêm o direito aos benefícios nele previstos.
+
+###### Artigo 57.º — Pagamento das comparticipações
+
+1 - As comparticipações devidas aos beneficiários ou a quaisquer outras entidades serão sempre, em todo o caso, pagas em moeda nacional.
+
+2 - A ADSE não se responsabiliza pela transferência de qualquer importância emitida a favor, de beneficiário que resida ou se encontre no estrangeiro.
+
+3 - Exceptuam-se dos números anteriores os casos em que haja acordos ou convenções que disponham em contrário.
+
+4 - As comparticipações devidas por cuidados de saúde prestados no estrangeiro são calculadas com base no câmbio oficial reportado à data da fatura, fatura-recibo ou fatura simplificada correspondente.
+
+5 - Sempre que um beneficiário reclame um benefício que conste nos registos da ADSE já ter sido pago, a emissão de uma nova ordem de pagamento só será viável após os serviços se certificarem de que a importância não foi recebida
+
+> Alterado pelo/a Artigo 412.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436)
+
+###### Artigo 58.º — (Inspecção médica)
+
+Poderá a ADSE mandar submeter a junta médica os beneficiários em relação aos quais se verifique uma situação anómala quanto aos cuidados de saúde recebidos.
+
+###### Artigo 59.º — (Cartão de beneficiário)
+
+1 - Aos beneficiários da ADSE é atribuído um cartão de modelo, características e validade aprovados por despacho do membro do Governo responsável pela área das finanças.
+
+2 - A emissão do cartão e as respectivas renovações são gratuitas, ficando a passagem de segunda via sujeita ao pagamento de taxa a fixar no despacho referido no número anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 60.º — (Prescrição)
+
+As comparticipações devidas a beneficiários prescrevem no prazo de 1 ano, a contar da data em que são postas a pagamento.
+
+###### Artigo 61.º — Documentos de despesa
+
+Não são objeto de financiamento por parte da ADSE as faturas, faturas-recibo ou faturas simplificadas quando:
+
+a) O valor da fatura respeite a mais de uma consulta;
+
+b) Haja fracionamento da faturação de atos ou cuidados de saúde;
+
+c) Os cuidados de saúde, ou os bens e serviços fornecidos não sejam descritos de forma clara na fatura, fatura-recibo ou fatura simplificada, que permita a sua identificação nas tabelas de regras e preços da ADSE;
+
+d) As faturas não tenham sido submetidas no sistema e-fatura, ou que tendo sido, sejam objeto de anulação ou emissão de nota de crédito.
+
+> Alterado pelo/a Artigo 412.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+###### Artigo 62.º — (Prazo de entrega de documentos)
+
+1 - A ADSE só comparticipará em despesas cujos documentos entrem nos seus serviços dentro de um período nunca superior a 6 meses após a realização do acto a que se reportem.
+
+2 - Excetuam-se os casos em que, por motivos alheios à vontade dos beneficiários, estes não consigam obter os respetivos documentos dentro do prazo indicado no número anterior, podendo, quando tal aconteça, os documentos ser remetidos à ADSE, I. P., fora do prazo estabelecido, acompanhados de documento comprovativo dos respetivos motivos.
+
+> Alterado pelo/a Artigo 148.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 63.º — Entrega de documentos
+
+1 - Sem prejuízo do disposto nos números seguintes, a ADSE, I. P., só pode pagar qualquer despesa mediante a apresentação dos originais da fatura, fatura-recibo ou fatura simplificada, com o número de identificação fiscal do beneficiário impresso, que cumpram as normas do Decreto-Lei n.º 102/2008, de 20 de junho, do Decreto-Lei n.º 28/2019, de 15 de fevereiro, e demais obrigações legais e documentos relevantes.
+
+2 - Não é permitido o pagamento mediante a apresentação de segundas vias dos documentos, salvo quando resulte inequivocamente de que não cabe qualquer responsabilidade ao beneficiário, caso em que se deve proceder de harmonia com a última parte do n.º 2 do artigo anterior.
+
+3 - A ADSE, I. P., pode disponibilizar ferramentas digitais de receção do pedido de reembolso que dispensem a entrega e o envio dos documentos originais de suporte, devendo o beneficiário conservar os originais em seu poder durante cinco anos para apresentação à ADSE, I. P., quando tal lhe seja solicitado.
+
+4 - Sempre que a ADSE, I. P., solicite ao beneficiário os documentos de suporte a um pedido de reembolso, devem os mesmos ser remetidos no prazo de 60 dias úteis, sob pena de prescrição da obrigação de a ADSE, I. P., proceder ao respetivo reembolso.
+
+5 - Os documentos redigidos em língua estrangeira devem ser acompanhados da respetiva tradução, devidamente autenticada por entidade competente, podendo esta autenticação, em casos justificados, ser dispensada pelo conselho diretivo da ADSE, I. P.
+
+6 - São definidos pela ADSE, I. P., os demais procedimentos e formalidades relativos ao processamento dos reembolsos em regime livre.
+
+7 - A ADSE, I. P., pode celebrar protocolos ou contratos para promover a receção descentralizada dos documentos que suportam os pedidos de reembolso.
+
+> Alterado pelo/a Artigo 412.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 148.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16
+
+###### Artigo 64.º — (Prestação de serviços)
+
+A ADSE pode assumir o pagamento de todas as prestações devidas pelos organismos autónomos, Regiões, autarquias locais e entidades referidas na alínea c) do artigo 3.º aos seus funcionários, mediante prévio acordo, tendo em conta o previsto nos artigos 4.º, 5.º e 6.º, n.º 2, do presente diploma.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 4/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2021-153341277)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 234/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2005-473499), em vigor a partir de 2006-01-01
+
+###### Artigo 64.º-A — Cobrança de dívidas
+
+A ADSE pode assumir o pagamento de todas as prestações devidas pelos organismos autónomos, regiões, autarquias locais e entidades referidas na alínea c) do artigo 3.º aos seus funcionários, mediante prévio acordo, tendo em conta o previsto nos artigos 4.º, 4.º-A e 6.º, n.º 2, do presente diploma.
+
+> Alterado pelo/a Artigo 287.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01
+
+> Aditado pelo/a Artigo 195.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 65.º — (Cooperação)
+
+1 - Para a realização dos seus objectivos a ADSE pode utilizar a cooperação dos serviços do Estado, civis e militares, e cooperar com organismos internacionais de segurança social, de acordo com os seus estatutos e os interesses da ADSE.
+
+2 - A ADSE, I. P. pode proceder à verificação das faturas que lhe são apresentadas para pagamento de cuidados de saúde prestados aos seus beneficiários, quer em regime livre, quer em regime convencionado, no sistema e-fatura, junto da Autoridade Tributária e Aduaneira (AT), nos seguintes termos:
+
+a) A transmissão de dados prevista é concretizada através de protocolo a celebrar, no prazo de 30 dias;
+
+b) As categorias dos titulares e os dados a analisar, bem como o tipo de tratamento de que são objeto, realiza-se nos termos do protocolo mencionado na alínea anterior, estando sujeito ao cumprimento das disposições legais em matéria de proteção de dados pessoais.
+
+3 - A AT pode, com a informação recebida da ADSE, I. P., nos termos do número anterior, verificar do cumprimento da obrigação de comunicação de faturas estabelecida no Decreto-Lei n.º 198/2012, de 24 de agosto.
+
+4 - Por protocolo a celebrar, no prazo de 30 dias, entre a ADSE, I. P., o Instituto de Segurança Social, I. P., e a Agência da Modernização Administrativa, I. P., são estabelecidos os procedimentos necessários à implementação do sistema de verificação desburocratizada e desmaterializada das condições e dos requisitos de inscrição e manutenção dos beneficiários familiares na ADSE, I. P., nomeadamente a existência de rendimentos, registo de remunerações, pensões do regime contributivo ou prestações sociais desse beneficiário familiar.
+
+> Alterado pelo/a Artigo 148.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16
+
+###### Artigo 66.º — (Revogação de legislação)
+
+É revogado o Decreto-Lei n.º 45688, de 27 de Abril de 1964.
+
+###### Artigo 67.º — (Entrada em vigor)
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 6 de Janeiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Manuel Meneres Sampaio Pimentel.
+
+Promulgado em 1 de Fevereiro de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 2 de Fevereiro de 1983.
+
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

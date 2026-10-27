@@ -1,0 +1,469 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:230006497:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-230064884",
+ "dre_path": "/dr/detalhe/portaria/434-2023-230006497",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-12-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "230070180",
+    "230070181",
+    "230070182",
+    "230070183",
+    "230070184",
+    "230070186",
+    "230070187",
+    "230070188",
+    "230070189",
+    "230070190",
+    "230070191",
+    "230070192",
+    "230070193",
+    "230070194",
+    "230070195",
+    "230070196",
+    "230070197",
+    "230070198",
+    "230070199",
+    "230070200",
+    "230070201",
+    "230070202",
+    "230070203",
+    "230070204",
+    "230070205",
+    "230070206",
+    "230070207",
+    "230070208",
+    "230070209",
+    "230070210",
+    "230070211",
+    "230070212",
+    "230070213",
+    "230070214",
+    "230070215",
+    "230070216",
+    "230070217",
+    "230070218",
+    "230070219",
+    "230070220",
+    "230070221",
+    "230070222",
+    "230070223",
+    "230070224",
+    "230070225",
+    "230070226",
+    "230070227",
+    "230070228",
+    "230070229",
+    "230070230"
+   ]
+  }
+ ],
+ "fragments": {
+  "230070180": {
+   "fragment_id": "230064885",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 434/2023\n\nde 13 de dezembro\n\nSumário: Aprova a primeira alteração à tabela de emolumentos consulares.\n\nA tabela de emolumentos consulares (TEC), aprovada pela Portaria n.º 229/2021, de 28 de outubro, constitui um instrumento fundamental da atividade quotidiana dos postos e secções consulares, estabelecendo os valores a cobrar pelos serviços prestados nos serviços periféricos externos do Ministério dos Negócios Estrangeiros (MNE).\n\nA alteração da Lei n.º 23/2007, de 4 de julho, que estabelece o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, através da Lei n.º 18/2022, de 25 de agosto, que procede a criação de um tipo de visto - o visto para procura de trabalho -, impôs a necessidade de alterar a tabela de emolumentos consulares para definir o tipo de emolumento a ser cobrado, nestes casos, pelos postos consulares.\n\nAtualmente, a TEC prevê, pelos custos administrativos do tratamento de pedidos de visto nacionais, o pagamento de 90 euros nos vistos de residência e 75 euros nos vistos de estada temporária. Tendo sido criado um novo tipo de visto nacional, torna-se necessário alterar a TEC para que preveja o emolumento deste tipo de visto.\n\nEmbora corresponda a uma categoria de visto separada, o visto para procura de trabalho tem aspetos muito semelhantes ao visto para residência, uma vez que, com a concessão do visto, o requerente terá acesso a um agendamento no Serviço de Estrangeiros e Fronteiras/Agência para a Integração, Migrações e Asilo (AIMA) que poderá utilizar, caso cumpra os requisitos previstos para solicitar uma autorização de residência.\n\nAtendendo à diversidade de categorias dentro de cada tipo de visto nacional, frequentemente o pedido de visto solicitado não corresponde à tipologia adequada ao objetivo da viagem e, ao ser alterado no momento de análise, cria a necessidade de retificar o pagamento. Frequentemente, os cálculos destas devoluções estão sujeitos às variações das taxas de câmbio, verificando-se, por vezes, a necessidade de entregar ao utente um valor superior àquele que havia sido pago em excesso.\n\nFace ao exposto, no âmbito da simplificação da TEC e do trabalho consular, bem como da fixação transparente dos custos dos atos consulares, justifica-se a harmonização dos emolumentos cobrados na instrução de pedidos de vistos nacionais, enquadrando o novo tipo de visto nacional para procura de trabalho.\n\nAssim:\n\nManda o Governo, ao abrigo do disposto no artigo 199.º, alínea g), da Constituição e do artigo 59.º do Regulamento Consular, pelo Ministro dos Negócios Estrangeiros, o seguinte:"
+  },
+  "230070181": {
+   "fragment_id": "230064886",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à primeira alteração da Portaria n.º 229/2021, de 28 de outubro, no que se refere à cobrança de emolumentos consulares pelo tratamento de pedidos de visto."
+  },
+  "230070182": {
+   "fragment_id": "230064887",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Portaria n.º 229/2021, de 28 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Portaria n.º 229/2021, de 28 de outubro\n\nO artigo 15.º do anexo à Portaria n.º 229/2021, de 28 de outubro passa a ter a seguinte redação:\n\n«Artigo 15.º\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - Pelos custos administrativos do tratamento de pedidos de visto nacionais - 90 euros.\n\n5 - [...]\n\n6 - [...]»"
+  },
+  "230070183": {
+   "fragment_id": "230064888",
+   "type": 11,
+   "heading": "Artigo 4.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Republicação\n\nA Portaria n.º 229/2021, de 28 de outubro, na sua redação atual, é republicada no anexo constante ao presente diploma, do qual faz parte integrante."
+  },
+  "230070184": {
+   "fragment_id": "230064889",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de janeiro de 2024."
+  },
+  "230070186": {
+   "fragment_id": "230064891",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n(a que se refere o n.º 1 do artigo 1.º)"
+  },
+  "230070187": {
+   "fragment_id": "230064892",
+   "type": 1,
+   "heading": "Capítulo I — Atos consulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Atos consulares"
+  },
+  "230070188": {
+   "fragment_id": "230064893",
+   "type": 8,
+   "heading": "Secção I — Atos consulares e receita consular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Atos consulares e receita consular"
+  },
+  "230070189": {
+   "fragment_id": "230064894",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A ação consular envolve toda a atividade de um órgão ou agente consular que vise salvaguardar os direitos dos cidadãos no estrangeiro.\n\n2 - Beneficiam da proteção das autoridades diplomáticas e consulares portuguesas, nas mesmas condições que cidadãos portugueses, os cidadãos nacionais de Estados-Membros da União Europeia que, no território de países terceiros, não possuam representação do país da sua nacionalidade.\n\n3 - Para execução da ação consular, os órgãos ou agentes consulares praticam atos consulares.\n\n4 - Os atos consulares solicitados por pessoas singulares ou coletivas dependem de uma inscrição consular única, a qual, não obstante o carácter voluntário, constitui pressuposto para a prática de qualquer ato consular.\n\n5 - A inscrição consular é efetuada presencialmente ou por via eletrónica, com base nos dados do cartão de cidadão, ou, supletivamente e na ausência deste, por passaporte eletrónico ou outro documento de identificação, preferencialmente com fotografia, devidamente válidos.\n\n6 - Os órgãos ou agentes consulares podem complementar a inscrição consular com os elementos de identificação e de comunicação, que se revelem necessários para melhor tutelar e proteger os interesses do cidadão, bem como contribuir para a adequada caracterização da comunidade residente na respetiva área de jurisdição.\n\n7 - As pessoas coletivas podem solicitar, igualmente, a intervenção dos órgãos ou agentes consulares no estrangeiro, visando proteger direitos que entendam encontrar-se em causa e que impliquem a prática de atos consulares.\n\n8 - A inscrição prévia de entidades coletivas para a prática de atos consulares, em seu nome, é efetuada por cidadão legalmente mandatado para o efeito, e por via do cumprimento do estipulado nos n.os 4 e 5."
+  },
+  "230070190": {
+   "fragment_id": "230064895",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Os emolumentos devidos pela prática de atos consulares integram a receita do posto consular onde são apresentados os pedidos, sendo registados obrigatoriamente no sistema de gestão consular.\n\n2 - As receitas geradas nos consulados honorários, por aplicação exclusiva e única da presente tabela, integram obrigatoriamente a receita contabilística do posto de que dependem.\n\n3 - As receitas geradas com a prática de atos consulares constituem receita própria do Fundo para as Relações Internacionais (FRI, I. P.), nos termos do Decreto-Lei n.º 10/2012, de 19 de janeiro, na sua redação atual, com exceção das expressamente atribuídas a entidades de outras áreas governativas, com base no estabelecido em legislação vigente ou nos protocolos que sejam celebrados para o efeito com o Ministério dos Negócios Estrangeiros."
+  },
+  "230070191": {
+   "fragment_id": "230064896",
+   "type": 8,
+   "heading": "Secção II — Atos de identificação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Atos de identificação civil"
+  },
+  "230070192": {
+   "fragment_id": "230064897",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Pelo pedido de emissão ou renovação do cartão de cidadão, alteração de morada e recuperação do código pessoal para desbloqueio (PUK) são devidas as taxas fixadas pela área governativa da justiça.\n\n2 - Nos postos e secções consulares, onde a receção de cartas contendo o código pessoal (PIN) e código pessoal para desbloqueio (PUK), bem como entrega do cartão de cidadão, requerem a utilização de mala diplomática, não há lugar à tramitação de pedidos que requeiram qualquer grau de urgência.\n\n3 - Os prazos máximos de entrega da carta de ativação que permite o levantamento do cartão de cidadão pelo requerente ou representante autorizado constam em diploma da responsabilidade da área governativa da justiça.\n\n4 - Por despacho dos membros de governo responsáveis pelas áreas governativas dos negócios estrangeiros e da justiça, pode ser fixada uma repartição diferente da receita apurada."
+  },
+  "230070193": {
+   "fragment_id": "230064898",
+   "type": 8,
+   "heading": "Secção III — Documentos de viagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Documentos de viagem"
+  },
+  "230070194": {
+   "fragment_id": "230064899",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Pelo pedido efetuado num posto ou secção consular para a concessão, produção, personalização e remessa de passaporte eletrónico é devida pelos titulares a taxa definida pelas áreas governativas dos negócios estrangeiros, finanças e administração interna.\n\n2 - Pela concessão e emissão de novo passaporte para titular de passaporte válido e de segundo passaporte, nos casos em que a lei o permita, pela emissão de passaporte para estrangeiros ou pela substituição de passaporte válido para estrangeiros são devidas as taxas definidas pelas áreas governativas dos negócios estrangeiros, finanças e administração interna.\n\n3 - Por despacho dos membros de governo responsáveis pelas áreas governativas dos negócios estrangeiros, finanças e administração interna, pode ser fixada uma repartição diferente da receita apurada."
+  },
+  "230070195": {
+   "fragment_id": "230064900",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Pelo título individual de viagem única ou título de viagem provisório da União Europeia (UE) - 30 euros.\n\n2 - Pela emissão de passaporte temporário, nos casos em que a lei o permita - 150 euros."
+  },
+  "230070196": {
+   "fragment_id": "230064901",
+   "type": 8,
+   "heading": "Secção IV — Atos de registo civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Atos de registo civil"
+  },
+  "230070197": {
+   "fragment_id": "230064902",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Os titulares dos postos consulares e encarregados das secções consulares, enquanto órgãos especiais de registo civil, praticam os atos desta natureza para que são competentes.\n\n2 - Por cada auto de declaração de parentalidade ou de perfilhação, por qualquer outro auto de redução a escrito de declarações verbais prestadas no posto consular, bem como pela prática de qualquer ato processual ou instrutório no âmbito de processo privativo de registo civil ou para o qual o posto consular não tenha competência para lavrar o respetivo assento - 50 euros.\n\n3 - Os emolumentos previstos no número anterior são devidos ao posto consular, sem prejuízo do pagamento que seja devido pelo interessado ao Instituto dos Registos e do Notariado, I. P., dos emolumentos previstos no Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, na redação atual, pelos meios definidos por essa entidade, quando o posto consular ou o encarregado da secção consular funcione como intermediário."
+  },
+  "230070198": {
+   "fragment_id": "230064903",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Pelas convenções antenupciais, sua alteração ou revogação - 150 euros.\n\n2 - Pelo registo da convenção ou alteração do regime de bens - 30 euros."
+  },
+  "230070199": {
+   "fragment_id": "230064904",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Pelo processo e registo de casamento - 120 euros.\n\n2 - O emolumento previsto no número anterior inclui, consoante os casos:\n\na) A organização de processo de casamento;\n\nb) A declaração de consentimento para casamento de menores;\n\nc) Os certificados previstos nos artigos 146.º e 163.º do Código de Registo Civil, na sua redação atual; e\n\nd) O assento de casamento ou assento de transcrição de casamento lavrado no estrangeiro perante autoridade estrangeira, respeitante a nacional português."
+  },
+  "230070200": {
+   "fragment_id": "230064905",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nPor cada certidão de registo - 20 euros."
+  },
+  "230070201": {
+   "fragment_id": "230064906",
+   "type": 8,
+   "heading": "Secção V — Atos de nacionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Atos de nacionalidade"
+  },
+  "230070202": {
+   "fragment_id": "230064907",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Por cada procedimento de inscrição de nascimento ocorrido no estrangeiro referente a maior - 220 euros.\n\n2 - Por cada procedimento de redução a escrito de declarações verbais prestadas no posto consular, bem como pela prática de qualquer ato processual ou instrutório, no âmbito de processo de atribuição, aquisição ou perda de nacionalidade para o qual o posto consular não tenha competência para lavrar o respetivo assento - 50 euros.\n\n3 - Os emolumentos previstos no número anterior são devidos ao posto consular, sem prejuízo do pagamento que seja devido pelo interessado ao Instituto dos Registos e do Notariado, I. P., dos emolumentos previstos no Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, na redação atual, pelos meios definidos por essa entidade quando o posto consular ou o encarregado da secção consular funcione como intermediário.\n\n4 - Os emolumentos previstos no n.º 2 são devidos na sua totalidade, mesmo em caso de indeferimento do pedido."
+  },
+  "230070203": {
+   "fragment_id": "230064908",
+   "type": 8,
+   "heading": "Secção VI — Atos de notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Atos de notariado"
+  },
+  "230070204": {
+   "fragment_id": "230064909",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Reconhecimento de cada assinatura ou de letra e assinatura - 20 euros.\n\n2 - Reconhecimento que contenha, a pedido do interessado, a menção de qualquer circunstância especial - 30 euros.\n\n3 - Cada termo de autenticação, independentemente do número de intervenientes - 40 euros.\n\n4 - Por cada pública-forma, conferência de fotocópia ou fotocópia e respetiva conferência, independentemente do número de laudas - 20 euros.\n\n5 - Pela certificação da conformidade de documentos eletrónicos com os documentos originais e respetiva digitalização - 20 euros.\n\n6 - Pela emissão de certidão - 25 euros.\n\n7 - Por cada certificado de exatidão da tradução - 25 euros.\n\n8 - Pela emissão e expedição de certificados de residência, de bagagem e outros - 75 euros."
+  },
+  "230070205": {
+   "fragment_id": "230064910",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Por cada escritura - 220 euros.\n\n2 - Testamentos:\n\na) Por cada testamento público, testamento internacional, instrumento de aprovação ou abertura de testamento cerrado - 300 euros;\n\nb) Pela revogação de testamento - 100 euros.\n\n3 - Por cada instrumento avulso, independentemente do número de intervenientes - 50 euros.\n\n4 - Por cada instrumento de ata de reunião de órgão social - 50 euros.\n\n5 - Pelo distrate, resolução ou revogação de atos notariais será devido um emolumento correspondente a 80 % do emolumento do respetivo ato, quando outro não estiver expressamente previsto."
+  },
+  "230070206": {
+   "fragment_id": "230064911",
+   "type": 8,
+   "heading": "Secção VII — Atos de navegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Atos de navegação"
+  },
+  "230070207": {
+   "fragment_id": "230064912",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nQualquer diligência ou ato de navegação deve ser preferencialmente realizado através dos instrumentos próprios criados pela área governativa do mar, designadamente através do Balcão Eletrónico do Mar (BMar), no quadro de protocolo a celebrar entre as áreas governativas dos negócios estrangeiros e do mar."
+  },
+  "230070208": {
+   "fragment_id": "230064913",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nSem prejuízo do estabelecido no artigo anterior, e na impossibilidade de recurso àquele instrumento eletrónico, os postos e secções consulares, quando instados a praticar algum ato abrangido pela presente secção, cobram as seguintes taxas:\n\n1 - Pela mudança de bandeira, incluindo o registo e a receção em depósito dos papéis da embarcação, além de outra taxa a pagar no caso de venda - 220 euros.\n\n2 - Pelo certificado de navegabilidade provisório - 70 euros.\n\n3 - Por cada certidão emitida - 25 euros.\n\n4 - Por qualquer outro ato - 40 euros."
+  },
+  "230070209": {
+   "fragment_id": "230064914",
+   "type": 8,
+   "heading": "Secção VIII — Vistos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Vistos"
+  },
+  "230070210": {
+   "fragment_id": "230064915",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - Pelos custos administrativos do tratamento de pedidos de vistos para efeitos de estada de duração não superior a 90 dias num período de 180 dias ou de trânsito através da zona internacional de trânsito de aeroportos nacionais, regulados pelo Código Comunitário de Vistos (Código de Vistos), estabelecido pelo Regulamento (CE) n.º 810/2009 do Parlamento Europeu e do Conselho, de 13 de julho de 2009, é cobrado o emolumento de 80 euros ou, se destinado a crianças a partir dos 6 anos e com menos de 12 anos, de 40 euros.\n\n2 - São abrangidos pelo disposto no número anterior os seguintes tipos de visto:\n\na) Visto uniforme, tal como definido no ponto 3 do artigo 2.º do Código de Vistos;\n\nb) Visto com validade territorial limitada, tal como definido no ponto 4 do artigo 2.º do Código de Vistos;\n\nc) Visto de escala aeroportuária, tal como definido no ponto 5 do artigo 2.º do Código de Vistos.\n\n3 - Sempre que uma decisão de execução seja adotada pelo Conselho nos termos da alínea b) do n.º 5 do artigo 25.º-A do Código de Vistos é cobrado o emolumento de 120 euros ou de 160 euros no tratamento de pedidos de vistos previstos nos números anteriores, desde que o requerente tenha idade superior a 12 anos.\n\n4 - Pelos custos administrativos do tratamento de pedidos de visto nacionais - 90 euros.\n\n5 - Pelos custos administrativos do tratamento de cada procedimento de utilização de garantia administrativa impugnatória de pedidos de visto, com exceção de pedidos decorrentes de autorizações para reagrupamento familiar - 75 euros.\n\n6 - Os valores referidos nos números anteriores poderão sofrer as alterações determinadas pela legislação, sendo o seu novo valor final ajustado de forma automática."
+  },
+  "230070211": {
+   "fragment_id": "230064916",
+   "type": 8,
+   "heading": "Secção IX — Diversos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Diversos"
+  },
+  "230070212": {
+   "fragment_id": "230064917",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nPelos seguintes atos, considerados de processo, independentemente da sua natureza:\n\n1 - Pela gestão de espólios - 100 euros.\n\n2 - Pelo depósito de documentos, processos ou registos a requerimento particular, incluindo o respetivo termo - 70 euros.\n\n3 - Pela guarda e depósito de dinheiro, bens ou quaisquer valores ou títulos alheios a espólios, incluindo o ato de levantamento - 50 euros.\n\n4 - Pela intervenção do trabalhador consular em diligência de qualquer natureza ou ato praticado fora do posto - 50 euros.\n\n5 - Por anúncios, éditos ou editais independentemente do número de laudas - 25 euros.\n\n6 - As informações referentes à residência de portugueses ou a outros elementos sobre identificação civil só podem ser concedidas às pessoas referidas na Lei n.º 33/99, de 18 de maio, na sua redação atual, no cumprimento do Regulamento (UE) 2016/679, de 27 de abril de 2016, e da Lei n.º 58/2019, de 8 de agosto.\n\n7 - Pela tradução de documentos feita no posto - por lauda, 30 euros.\n\n8 - Por cada fotocópia simples não certificada, por lauda - 10 euros.\n\n9 - O valor estabelecido no número anterior não pode exceder em caso algum 50 euros.\n\n10 - Pela realização do serviço externo de recolha de dados biométricos para emissão ou renovação do cartão de cidadão ou passaporte, assim como de qualquer outro ato consular a pedido fundamentado do interessado, é cobrada a taxa definida para o ato, acrescida da aplicada ao serviço prestado nas presenças consulares."
+  },
+  "230070213": {
+   "fragment_id": "230064918",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nPela licença de transporte de restos mortais - 50 euros."
+  },
+  "230070214": {
+   "fragment_id": "230064919",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nPor qualquer ato não especificado na tabela - 40 euros."
+  },
+  "230070215": {
+   "fragment_id": "230064920",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - Para além dos emolumentos previstos na tabela, são cobrados:\n\na) As despesas de correio ou expedição protocolada, sempre que necessárias para a execução final do ato consular, e que serão sempre de valor igual ao custo real do meio de expedição usado;\n\nb) O valor dos encargos decorrentes da realização de presenças consulares, que correspondem a 20 % de cada ato praticado;\n\nc) Os encargos com a utilização de mecanismos de pagamento eletrónico, quando permitidos pela legislação aplicável.\n\n2 - Excetuam-se do previsto no número anterior o valor dos impressos fornecidos pelos serviços competentes do Ministério dos Negócios Estrangeiros que não são cobrados."
+  },
+  "230070216": {
+   "fragment_id": "230064921",
+   "type": 8,
+   "heading": "Secção X — Atos da competência de outros órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção X — Atos da competência de outros órgãos"
+  },
+  "230070217": {
+   "fragment_id": "230064922",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs titulares dos postos e secções consulares só podem praticar atos consulares no quadro da sua competência própria, enquanto órgãos especiais de registo civil, notariado e atos de navegação, ou no quadro dos protocolos estabelecidos com outras áreas governativas."
+  },
+  "230070218": {
+   "fragment_id": "230064923",
+   "type": 8,
+   "heading": "Secção XI — Atos gratuitos e isentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção XI — Atos gratuitos e isentos"
+  },
+  "230070219": {
+   "fragment_id": "230064924",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nSão gratuitos:\n\n1 - Inscrição consular e certificado de registo consular.\n\n2 - A entrega de documentos de identificação civil e de viagem realizada nas instalações da chancelaria ou em sede de presenças consulares.\n\n3 - Emissão de passaporte temporário, nos casos em que a necessidade de deslocação para fora de país estrangeiro ou a impossibilidade de uso do passaporte comum se devam a catástrofe, guerra, alteração grave da ordem pública ou outro caso de força maior.\n\n4 - A emissão de passaporte diplomático ou especial, incluindo a remessa em modalidade equivalente ao serviço urgente do passaporte comum.\n\n5 - Os atos como tal determinados por despacho do órgão competente da área governativa dos negócios estrangeiros, por norma de direito interno ou por força de acordo internacional de que Portugal seja parte.\n\n6 - Os atos requeridos por indigentes ou indivíduos que se encontrem privados dos meios necessários à sua subsistência, desde que o comprovem junto do posto ou secção consular.\n\n7 - Os atos requeridos por deficientes das Forças Armadas Portuguesas.\n\n8 - As certidões, atestados, legalizações e informações solicitados para fins de interesse público por entidades oficiais que beneficiem de isenção de emolumentos legalmente prevista.\n\n9 - Os atos solicitados a favor de trabalhadores da Administração Pública, em missão oficial, em comissão de serviço ou em funções no posto consular, bem como a favor dos professores de Português no estrangeiro, na área consular em que exerçam funções.\n\n10 - A passagem de certidões ou fotocópias requeridas para fins de serviço militar e os certificados emitidos para efeitos de cobrança de pensões por acidente de trabalho, sobrevivência, reforma, aposentação ou para efeitos de subsídio de desemprego.\n\n11 - Os assentos, certidões ou quaisquer outros atos ou documentos que tenham de ser renovados, substituídos ou retificados em consequência de os anteriores se mostrarem afetados de vício, irregularidade ou deficiência imputáveis aos serviços.\n\n12 - O recenseamento eleitoral.\n\n13 - Registo civil:\n\na) Assento de nascimento, de declaração de maternidade ou de perfilhação;\n\nb) Assento de óbito ou depósito do certificado médico de morte fetal;\n\nc) Assento de casamento civil ou católico urgente;\n\nd) Assento de transcrição de nascimento lavrado no estrangeiro, perante autoridade estrangeira, respeitante a indivíduo a quem seja atribuída a nacionalidade portuguesa ou que a adquira;\n\ne) Assento de transcrição de declaração de maternidade, de perfilhação ou de óbito lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português;\n\nf) Reconstituição de ato ou de processo;\n\ng) O registo previsto no n.º 1 do artigo 1.º do Decreto-Lei n.º 249/77, de 14 de junho, na sua redação atual, bem como os documentos e processos a ele respeitantes;\n\nh) Certidões a que se referem os n.os 5 e 6 do artigo 215.º do Código do Registo Civil, na sua redação atual, bem como certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no referido Código e em legislação avulsa aplicável ao registo civil que não devam entrar em regra de custas;\n\ni) Certidões requeridas para fins de assistência ou beneficência, incluindo a obtenção de pensões do Estado ou das autarquias locais;\n\nj) Conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de março; e\n\nk) Atos, declarações, certificados ou outros em favor dos indivíduos que provem a sua insuficiência económica junto do posto ou secção consular para o efeito apresentando original de documento emitido por competente autoridade local.\n\n14 - Nacionalidade:\n\na) Declaração atributiva da nacionalidade portuguesa, para inscrição de nascimento ocorrido no estrangeiro, ou declaração para fins de atribuição da referida nacionalidade, bem como os documentos necessários para tais fins, desde que referentes a menor;\n\nb) Certidões, fotocópias e comunicações que decorram do cumprimento das obrigações previstas no Regulamento da Nacionalidade Portuguesa e em legislação avulsa aplicável à nacionalidade, e que não devem entrar em regra de custas;\n\nc) Atos, declarações, certificados ou outros em favor dos indivíduos que provem a sua insuficiência económica junto do posto ou secção consular.\n\n15 - Notariado:\n\na) O reconhecimento presencial de assinatura efetuado em declarações ou requerimentos para fins de atribuição, aquisição ou perda da nacionalidade portuguesa;\n\nb) Os certificados para efeitos de cobrança de pensões por acidente de trabalho, sobrevivência, reforma, aposentação ou para efeitos de subsídio de desemprego;\n\nc) Retificação resultante de erro imputável ao notário ou de inexatidão proveniente de deficiência de título emitido pelos serviços de registos e notariado; e\n\nd) Sanação e revalidação de atos notariais.\n\n16 - Os atos gratuitos previstos nos n.os 6 a 12 só se aplicam ao ato consular ou à parte dele, cujo emolumento reverte a favor do FRI, I. P."
+  },
+  "230070220": {
+   "fragment_id": "230064925",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nEstão isentos de taxas administrativas:\n\n1 - Vistos:\n\n1.1 - Os seguintes requerentes de visto:\n\na) Crianças até aos 6 anos de idade;\n\nb) Alunos dos ensinos básico e secundário, estudantes do ensino superior, inclusive de cursos de pós-graduação, e professores acompanhantes que realizem viagens para fins de estudo ou de formação;\n\nc) Investigadores nacionais de países terceiros, nos termos definidos no ponto 2 do artigo 3.º da Diretiva (UE) 2016/801 do Parlamento Europeu e do Conselho, de 11 de maio de 2016, que se desloquem para efeitos de investigação científica ou que participem num seminário científico ou conferência;\n\nd) Representantes de organizações sem fins lucrativos, até aos 25 anos de idade, que participem em seminários, conferências e eventos desportivos, culturais ou educativos organizados por organizações sem fins lucrativos.\n\ne) Cidadãos estrangeiros que beneficiem de bolsas de estudo atribuídas pelo Estado Português;\n\nf) Nacionais de países terceiros que sejam familiares de cidadãos da União Europeia ou do espaço económico europeu que exerçam o seu direito à livre circulação, entendendo-se por familiares neste contexto:\n\ni) O cônjuge de um cidadão da União Europeia;\n\nii) O parceiro com quem um cidadão da União Europeia vive em união de facto constituída nos termos da lei ou com quem o cidadão mantém uma relação permanente devidamente certificada pela autoridade competente do Estado-Membro onde reside;\n\niii) O descendente direto com menos de 21 anos de idade ou que esteja a cargo de um cidadão da União Europeia, assim como o do cônjuge ou do parceiro na aceção da subalínea anterior;\n\niv) O ascendente direto que esteja a cargo ou de um cidadão da União Europeia, assim como o seu cônjuge ou do parceiro na aceção da subalínea ii);\n\nv) O ascendente direto que tenha a cargo um cidadão menor da União Europeia;\n\ng) Nacionais portugueses que tenham também a nacionalidade do país de residência e que por imposições locais não possam viajar com o passaporte português;\n\nh) Os doentes beneficiários de acordos de cooperação com Portugal no domínio da saúde e respetivo acompanhante;\n\ni) Vistos concedidos a descendentes de titulares de autorização de residência, ao abrigo das disposições sobre reagrupamento familiar; e\n\nj) Vistos de estada temporária e vistos de residência para atividades de investigação altamente qualificada.\n\n1.2 - Podem ficar isentos do pagamento dos custos administrativos relativos ao tratamento de pedidos de vistos:\n\na) As crianças a partir dos 6 anos e com menos de 18 anos;\n\nb) Os titulares de passaportes diplomáticos, especiais ou documentos de viagem emitidos por organizações internacionais; e\n\nc) Os participantes, até aos 25 anos de idade, em seminários, conferências e eventos desportivos, culturais ou educativos organizados por organizações sem fins lucrativos.\n\n1.3 - Os emolumentos de vistos de curta duração podem beneficiar de outras isenções e reduções, no quadro de acordos celebrados pela Comissão Europeia.\n\n2 - O envio por telecópia ou por via eletrónica, para oficial público ou notário, de um ato consular.\n\n3 - Pedidos de paradeiro.\n\n4 - Qualquer diligência efetuada no âmbito de processos judiciais ou de procedimentos administrativos, a solicitação de autoridades judiciárias, de entidades do setor público, central, regional ou local.\n\n5 - As isenções previstas nos números anteriores devem ser declaradas no título de receita, com expressa menção do artigo ou disposição que as preveem."
+  },
+  "230070221": {
+   "fragment_id": "230064926",
+   "type": 1,
+   "heading": "Capítulo II — Atendimento digital e repartição de receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Atendimento digital e repartição de receitas"
+  },
+  "230070222": {
+   "fragment_id": "230064927",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1 - Pelos serviços de atendimento digital assistido prestados pelos postos e secções consulares, nos termos do Decreto-Lei n.º 74/2014, de 13 de maio, na sua redação atual, são cobrados os montantes fixados pelo protocolo de fornecimento de serviços de atendimento digital assistido ao cidadão nos postos ou secções consulares e seus anexos, incluindo as suas alterações decorrentes da atualização de serviços disponíveis ao cidadão.\n\n2 - Os serviços de atendimento digital assistido, para além dos que venham a ser integrados nos Espaços Cidadão, podem incluir os que sejam postos à disposição dos utentes dos serviços públicos em novas plataformas digitais de índole consular e no Centro de Atendimento Consular.\n\n3 - É dada publicidade pelos postos e secções consulares à lista de serviços de atendimento digital assistido disponíveis e aos montantes devidos pela sua realização."
+  },
+  "230070223": {
+   "fragment_id": "230064928",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - Os emolumentos devidos pelos pedidos de identificação civil a que se refere a secção ii são repartidos na proporção de 75 % para o IRN, I. P., e de 25 % para o FRI, I. P.\n\n2 - As importâncias cobradas nos termos do artigo 4.º da secção iii, uma vez deduzidas dos montantes devidos à Imprensa Nacional-Casa da Moeda, S. A. (INCM), são receita própria do Serviço de Estrangeiros e Fronteiras (SEF) e do FRI, I. P., como definido na Portaria n.º 1245/2006, de 25 de agosto, na redação atual.\n\n3 - Os montantes referidos no n.º 1 do artigo 23.º são objeto de repartição entre o FRI, I. P., e a Agência para a Modernização Administrativa, I. P. (AMA, I. P.), na proporção de 70 % e de 30 %, respetivamente.\n\n4 - As receitas públicas geradas por via de funcionalidades consulares postas à disposição dos utentes, no quadro de parcerias públicas ou privadas, podem ser objeto de repartição entre o Ministério dos Negócios Estrangeiros e outros organismos sob tutela pública ou contemplando serviços desta natureza.\n\n5 - As receitas geradas pela prática dos atos consulares previstos e descritos nas secções ii, iii, iv e v constituem receita própria do FRI, I. P., e dos organismos públicos dependentes das áreas governativas das finanças, justiça e administração interna, nos termos da legislação aplicável.\n\n6 - As receitas geradas pela prática dos restantes atos consulares previstos e descritos nas secções vi, vii, viii e ix constituem receita própria do FRI, I. P., da Secretaria-Geral do MNE, dos postos ou secções consulares.\n\n7 - Os atos consulares, incluindo aqueles cuja receita reverta a favor do MNE, podem ser desmaterializados e praticados por via eletrónica, com recurso a meios telemáticos à distância.\n\n8 - O MNE, no quadro dos atos consulares da sua competência exclusiva, e as áreas governativas titulares da competência para a definição das regras de realização de outros atos consulares podem acordar a celebração de protocolos facilitadores da cobrança e repartição de receitas, entre todos os organismos da Administração Pública envolvidos, com o objetivo de reduzir os custos de contexto subjacentes à prática administrativa e incentivar a utilização de serviços eletrónicos pelos utentes dos postos e secções consulares."
+  },
+  "230070224": {
+   "fragment_id": "230064929",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "230070225": {
+   "fragment_id": "230064930",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nNenhum ato para a realização do qual se torne necessário comprovar a identidade do requerente será praticado a favor de cidadão português ou pessoa coletiva, sem que exista a inscrição consular prevista nos n.os 4 e 6 do artigo 1.º"
+  },
+  "230070226": {
+   "fragment_id": "230064931",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nSão pagos antecipadamente os emolumentos dos atos solicitados pelo correio ou por via eletrónica, só havendo lugar à devolução de emolumentos nos casos previstos na lei."
+  },
+  "230070227": {
+   "fragment_id": "230064932",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1 - Ao interessado será passado recibo das importâncias pagas, de modelo aprovado nos termos do Decreto Regulamentar n.º 5/94, de 24 de fevereiro.\n\n2 - Quando for praticado um número plural de atos relacionados entre si, o recibo referido no número anterior é emitido pelo montante total dos emolumentos cobrados.\n\n3 - O recibo passado nos termos do número anterior é acompanhado de uma nota discriminativa de todos os atos praticados e respetivos emolumentos."
+  },
+  "230070228": {
+   "fragment_id": "230064933",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1 - O pagamento dos emolumentos consulares é efetuado em euros, em moeda local, quando convertível em euros, ou noutra moeda convertível, com base na taxa de câmbio aplicável a partir do dia 1 de cada mês.\n\n2 - O valor dos emolumentos a cobrar em moeda estrangeira, exceto quando se trate do pagamento de pedidos de visto Schengen, é calculado por aplicação das taxas de câmbio de referência publicadas pelo Banco de Portugal.\n\n3 - Quando uma divisa não for cotada pelo Banco de Portugal, a taxa de câmbio será calculada por meio de câmbio cruzado em função do euro ou do dólar norte-americano e com base nas cotações praticadas no último dia útil do mês anterior.\n\n4 - As quantias cobradas em moeda estrangeira resultantes da conversão ao abrigo do número anterior são arredondadas, por excesso, para a unidade divisionária imediatamente superior.\n\n5 - Em caso de cobrança de emolumentos relativos a pedido de visto Schengen, aplica-se a taxa de câmbio de referência para o euro publicada pelo Banco Central Europeu, nos termos previstos no n.º 7 do artigo 16.º do Regulamento (CE) n.º 810/2009, do Parlamento Europeu e do Conselho, de 13 de julho.\n\n6 - As quantias em moeda estrangeira resultantes da aplicação do número anterior podem ser arredondadas por excesso, devendo os postos e secções consulares, no âmbito da Cooperação Schengen Local, assegurar que cobram emolumentos similares.\n\n7 - Para efeitos do n.º 5, caso não exista uma taxa de câmbio publicada pelo Banco Central Europeu para a moeda local, é aplicada a taxa de câmbio prevista no n.º 2.\n\n8 - Os preços dos atos consulares indicados na lista constante do anexo ii são calculados com base nas taxas de câmbio do Banco de Portugal e do Banco Central Europeu, aplicadas mensalmente pelos serviços competentes do MNE, nos termos dos n.os 1, 3 e 5."
+  },
+  "230070229": {
+   "fragment_id": "230064934",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1 - Os valores dos emolumentos consagrados na presente tabela nas secções ii a vii e ix, cuja receita reverta exclusivamente a favor do FRI, I. P., Secretaria-Geral do MNE, postos ou secções consulares, incluindo os referidos no n.º 6 do artigo 24.º, são automaticamente atualizados, com arredondamento à unidade imediatamente seguinte, a partir de 1 de março de cada ano, com base na variação do índice médio de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação, publicado pelo Instituto Nacional de Estatística.\n\n2 - A atualização das taxas nos termos previstos no número anterior é publicitada por despacho do membro do governo responsável pela área dos negócios estrangeiros."
+  },
+  "230070230": {
+   "fragment_id": "230064935",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 1.º)\n\nI - Atos pagos\n\n| Número de ordem | Descrição | Valor devido ou parcial |\n| --- | --- | --- |\n|  |  |  |\n| 1 | Cartão de cidadão - pedido normal com entrega em território nacional - validade até 5 anos | 15,00 (euro) |\n| 2 | Cartão de cidadão - pedido normal com entrega em território nacional - validade até 10 anos | 18,00 (euro) |\n| 3 | Cartão de cidadão - pedido normal com entrega no estrangeiro - validade até 5 anos | 20,00 (euro) |\n| 4 | Cartão de cidadão - pedido normal com entrega no estrangeiro - validade até 10 anos | 23,00 (euro) |\n| 5 | Cartão de cidadão - pedido urgente com entrega em território nacional - validade até 5 anos | 30,00 (euro) |\n| 6 | Cartão de cidadão - pedido urgente com entrega em território nacional - validade até 10 anos | 33,00 (euro) |\n| 7 | Cartão de cidadão - pedido urgente com entrega no estrangeiro - validade até 5 anos | 45,00 (euro) |\n| 8 | Cartão de cidadão - pedido urgente com entrega no estrangeiro - validade até 10 anos | 48,00 (euro) |\n| 9 | Cartão de cidadão - primeiro pedido até à idade de 20 dias com entrega no território nacional | 7,50 (euro) |\n| 10 | Cartão de cidadão - primeiro pedido até à idade de 20 dias com entrega no estrangeiro | 10,00 (euro) |\n| 11 | Cartão de cidadão provisório... | 70,00 (euro) |\n| 12 | Cartão de cidadão - alteração de morada ... | 3,00 (euro) |\n| 13 | Cartão de cidadão - alteração do local de entrega do cartão de cidadão dentro do mesmo território nacional ou estrangeiro... | 6,00 (euro) |\n| 14 | Cartão de cidadão - alteração do local de entrega do cartão de cidadão para território estrangeiro... | 8,00 (euro) |\n| 15 | Cartão de cidadão - recuperação do PUK... | 5,00 (euro) |\n| 16 | Passaporte - pedido normal... | 75,00 (euro) |\n| 17 | Passaporte - pedido normal para passageiro frequente... | 115,00 (euro) |\n| 18 | Passaporte - pedido expresso... | 110,00 (euro) |\n| 19 | Passaporte - pedido expresso para passageiro frequente ... | 150,00 (euro) |\n| 20 | Passaporte - pedido urgente... | 120,00 (euro) |\n| 21 | Passaporte - pedido urgente para passageiro frequente... | 160,00 (euro) |\n| 22 | Passaporte - pedido urgente com entrega no Aeroporto de Lisboa... | 110,00 (euro) |\n| 23 | Passaporte - pedido urgente para passageiro frequente com entrega no Aeroporto de Lisboa | 150,00 (euro) |\n| 24 | Passaporte - envio para a morada no estrangeiro... | 105,00 (euro) |\n| 25 | Passaporte - concessão e emissão de novo passaporte para titular de passaporte válido, mantendo-se o que se visa substituir na posse do titular... | 40,00 (euro) |\n| 26 | Passaporte - emissão de segundo passaporte - pedido normal... | 85,00 (euro) |\n| 27 | Título individual de viagem única... | 30,00 (euro) |\n| 28 | Título de viagem provisório da União Europeia... | 30,00 (euro) |\n| 29 | Passaporte temporário... | 150,00 (euro) |\n| 30 | Cada auto de declaração de parentalidade ou de perfilhação, por qualquer outro auto de redução a escrito de declarações verbais prestadas no posto consular, bem como pela prática de qualquer ato processual ou instrutório no âmbito de processo privativo de registo civil ou para o qual o posto consular não tenha competência para lavrar o respetivo assento | 50,00 (euro) |\n| 31 | Pelas convenções antenupciais, sua alteração ou revogação... | 150,00 (euro) |\n| 32 | Registo da convenção ou alteração do regime de bens... | 30,00 (euro) |\n| 33 | Processo e registo de casamento... | 120,00 (euro) |\n| 34 | Certidão de registo... | 20,00 (euro) |\n| 35 | Procedimento de inscrição de nascimento ocorrido no estrangeiro referente a maior... | 220,00 (euro) |\n| 36 | Cada auto de redução a escrito de declarações verbais prestadas no posto consular, bem como pela prática de qualquer ato processual ou instrutório no âmbito de processo de atribuição, aquisição ou perda de nacionalidade para o qual o posto consular não tenha competência para lavrar o respetivo assento ... | 50,00 (euro) |\n| 37 | Reconhecimento de cada assinatura ou de letra e assinatura... | 20,00 (euro) |\n| 38 | Reconhecimento que contenha, a pedido do interessado, a menção de qualquer circunstância especial... | 30,00 (euro) |\n| 39 | Cada termo de autenticação, independentemente do número de intervenientes ... | 40,00 (euro) |\n| 40 | Cada pública-forma, conferência de fotocópia ou fotocópia e respetiva conferência, independentemente do número de laudas... | 20,00 (euro) |\n| 41 | Certificação da conformidade de documentos eletrónicos com os documentos originais e respetiva digitalização... | 20,00 (euro) |\n| 42 | Emissão de certidão notarial... | 25,00 (euro) |\n| 43 | Certificado de exatidão da tradução... | 25,00 (euro) |\n| 44 | Emissão e expedição de certificados de residência, de bagagem e outros... | 75,00 (euro) |\n| 45 | Escritura pública... | 220,00 (euro) |\n| 46 | Testamento público, testamento internacional, instrumento de aprovação ou abertura de testamento cerrado... | 300,00 (euro) |\n| 47 | Revogação de testamento... | 100,00 (euro) |\n| 48 | Instrumento avulso, independentemente do número de intervenientes... | 50,00 (euro) |\n| 49 | Instrumento de ata de reunião de órgão social... | 50,00 (euro) |\n| 50 | Distrate, resolução ou revogação de atos notariais... | 80 % |\n| 51 | Mudança de bandeira, incluindo o registo e a receção em depósito dos papéis da embarcação, além de outra taxa a pagar no caso de venda... | 220,00 (euro) |\n| 52 | Certificado de navegabilidade provisório... | 70,00 (euro) |\n| 53 | Emissão de certidão de ato de navegação... | 25,00 (euro) |\n| 54 | Ato de navegação não especificado... | 40,00 (euro) |\n| 55 | Vistos para efeitos de estada de duração não superior a 90 dias num período de 180 dias ou de trânsito através da zona internacional de trânsito de aeroportos nacionais, regulados pelo Código Comunitário de Vistos, estabelecido pelo Regulamento n.º 810/2009 do Parlamento Europeu e do Conselho, de 13 de julho de 2009... | 80,00 (euro) |\n| 56 | Vistos para efeitos de estada de duração não superior a 90 dias num período de 180 dias ou de trânsito através da zona internacional de trânsito de aeroportos nacionais, regulados pelo Código Comunitário de Vistos, estabelecido pelo Regulamento n.º 810/2009 do Parlamento Europeu e do Conselho, de 13 de julho de 2009, destinado a crianças entre os 6 e os 12 anos... | 40,00 (euro) |\n| 57 | Vistos - tratamento de pedidos quando haja decisão de execução - nos termos do artigo 25.º-A, n.º 5, alínea b). Não aplicável a crianças com idade inferior a 12 anos... | 120,00 (euro) ou 160,00 (euro) |\n|  |  |  |\n| 58 | Vistos nacionais... | 90,00 (euro) |\n| 59 | (Revogado.) | 0,00 (euro) |\n| 60 | Custos administrativos do tratamento de cada procedimento de utilização de garantia administrativa impugnatória de pedidos de visto, com exceção de pedidos de reagrupamento familiar... | 125,00 (euro) |\n| 61 | Gestão de espólios... | 100,00 (euro) |\n| 62 | Depósito de documentos, processos ou registos a requerimento particular, incluindo o respetivo termo... | 70,00 (euro) |\n| 63 | Guarda e depósito de dinheiro, bens ou quaisquer valores ou títulos alheios a espólios, incluindo o ato de levantamento... | 50,00 (euro) |\n| 64 | Intervenção do trabalhador consular em diligência de qualquer natureza ou ato praticado fora do posto... | 50,00 (euro) |\n| 65 | Anúncios, éditos ou editais independentemente do número de laudas... | 25,00 (euro) |\n| 66 | Tradução de documentos, por lauda... | 30,00 (euro) |\n| 67 | Fotocópia simples não certificada, por lauda... | 10,00 (euro) (valor total máximo: 50,00 (euro)) |\n| 68 | Serviço externo de recolha de biométricos para CC ou PEP ou qualquer outro ato consular a pedido do utente... | 20 % |\n| 69 | Licença de transporte de restos mortais... | 50,00 (euro) |\n| 70 | Ato diverso não especificado... | 40,00 (euro) |\n| 71 (*) | Despesas de correio ou expedição protocolada... | Variável por país. |\n| 72 (*) | Presenças consulares... | 20 % por cada ato. |\n| 73 (*) | Utilização de mecanismos de pagamento eletrónico... | Variável por país. |\n| 74 (*) | Serviços de atendimento digital assistido... | Variável. |\n\n(*) Valores finais variáveis.\nII - Atos isentos, gratuitos ou com redução\n\n| Número de ordem | Descrição | Natureza |\n| --- | --- | --- |\n|  |  |  |\n| 75 | Impressos fornecidos pelos serviços competentes do MNE ou outras entidades... | Gratuito. |\n| 76 | Envio por telecópia ou por via eletrónica, para oficial público ou notário, de um ato consular | Isento. |\n| 77 | Pedidos de paradeiro... | Isento. |\n| 78 | Qualquer diligência efetuada no âmbito de processos judiciais ou de procedimentos administrativos, a solicitação de autoridades judiciárias, de entidades do setor público, central, regional ou local... | Isento. |\n| 79 | Inscrição consular e certificado de registo consular... | Gratuito. |\n| 80 | Entrega de documentos de identificação civil e de viagem realizada nas instalações da chancelaria ou em sede de presenças consulares... | Gratuito. |\n| 81 | Atos como tal determinados por despacho do órgão competente da área governativa dos negócios estrangeiros, por norma de direito interno ou por força de acordo internacional de que Portugal seja parte... | Gratuito. |\n| 82 | Atos requeridos por indigentes ou indivíduos que se encontrem privados dos meios necessários à sua subsistência, desde que o comprovem junto do posto ou secção consular... | Redução FRI. |\n| 83 | Atos requeridos por deficientes das Forças Armadas Portuguesas ... | Redução FRI. |\n| 84 | Certidões, atestados, legalizações e informações solicitados para fins de interesse público por entidades oficiais que beneficiem de isenção de emolumentos legalmente prevista | Redução FRI. |\n| 85 | Atos solicitados a favor de trabalhadores da Administração Pública, em missão oficial, em comissão de serviço ou em funções no posto consular, bem como a favor dos professores de Português no estrangeiro, na área consular em que exerçam funções... | Redução FRI. |\n| 86 | Passagem de certidões ou fotocópias requeridas para fins de serviço militar e os certificados emitidos para efeitos de cobrança de pensões por acidente de trabalho, sobrevivência, reforma, aposentação ou para efeitos de subsídio de desemprego... | Redução FRI. |\n| 87 | Assentos, certidões ou quaisquer outros atos ou documentos que tenham de ser renovados, substituídos ou retificados em consequência de os anteriores se mostrarem afetados de vício, irregularidade ou deficiência imputáveis aos serviços... | Redução FRI. |\n| 88 | Recenseamento eleitoral ... | Redução FRI. |\n| 89 | Passaporte - emissão de passaporte temporário nos casos em que a necessidade de deslocação para fora de país estrangeiro ou a impossibilidade de uso do passaporte comum se devam a catástrofe, guerra, alteração grave da ordem pública ou outro caso de força maior... | Gratuito. |\n| 90 | Passaporte - emissão de passaporte especial, incluindo a remessa em modalidade equivalente ao serviço urgente do passaporte comum... | Gratuito. |\n| 91 | Passaporte - emissão de passaporte diplomático, incluindo a remessa em modalidade equivalente ao serviço urgente do passaporte comum... | Gratuito. |\n| 92 | Registo civil - assento de nascimento de declaração de maternidade ou de perfilhação | Gratuito. |\n| 93 | Registo civil - assento de óbito ou de depósito do certificado médico de morte fetal | Gratuito. |\n| 94 | Registo civil - assento de casamento civil ou católico urgente... | Gratuito. |\n| 95 | Registo civil - assento de transcrição de nascimento lavrado no estrangeiro perante autoridade estrangeira, respeitante a indivíduo a quem seja atribuída a nacionalidade portuguesa ou que a adquira... | Gratuito. |\n| 96 | Registo civil - assento de transcrição de declaração de maternidade, de perfilhação ou de óbito lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português... | Gratuito. |\n| 97 | Registo civil - reconstituição de ato ou de processo... | Gratuito. |\n| 98 | Registo civil - registo previsto no n.º 1 do artigo 1.º do Decreto-Lei n.º 249/77, de 14 de junho, na sua redação atual, bem como os documentos e processos a ele respeitantes... | Gratuito. |\n| 99 | Registo civil - certidões a que se refere o artigo 215.º n.os 5 e 6, do CRC, bem como certidões, fotocópias e comunicações que decorram do cumprimento de obrigações previstas no referido código e legislação avulsa aplicável que não devam entrar em regra de custas | Gratuito. |\n| 100 | Registo civil - certidões requeridas para fins de assistência ou beneficência, incluindo a obtenção de pensões do Estado ou das autarquias locais... | Gratuito. |\n| 101 | Registo civil - conferência de fotocópias, nos termos do Decreto-Lei n.º 30/2000, de 13 de março... | Gratuito. |\n| 102 | Registo civil - atos, declarações, certificados ou outros em favor dos indivíduos que provem a sua insuficiência económica junto do posto consular para o efeito apresentando original de documento emitido por competente autoridade local... | Gratuito. |\n| 103 | Nacionalidade - declaração atributiva da nacionalidade portuguesa, para inscrição de nascimento ocorrido no estrangeiro, ou declaração para fins de atribuição da referida nacionalidade, bem como documentos necessários para tais fins, desde que referentes a menor | Gratuito. |\n| 104 | Nacionalidade - certidões, fotocópias e comunicações que decorram do cumprimento das obrigações previstas no Regulamento da Nacionalidade Portuguesa e em legislação avulsa aplicável à nacionalidade, e que não devem entrar em regra de custas... | Gratuito. |\n| 105 | Nacionalidade - atos, declarações, certificados ou outros em favor dos indivíduos que provem a sua insuficiência económica junto do posto consular... | Gratuito. |\n| 106 | Notariado - reconhecimento presencial de assinatura efetuado em declarações ou requerimentos para fins de atribuição, aquisição ou perda da nacionalidade portuguesa... | Gratuito. |\n| 107 | Notariado - certificados para efeitos de cobrança de pensões por acidente de trabalho, sobrevivência, reforma, aposentação ou para efeitos de subsídio de desemprego... | Gratuito. |\n| 108 | Notariado - retificação resultante de erro imputável ao notário ou de inexatidão proveniente de deficiência de título emitido pelos serviços de registos e notariado... | Gratuito. |\n| 109 | Notariado - sanação e revalidação de atos notariais... | Gratuito. |\n| 110 | Vistos - isenção do pagamento de emolumentos a crianças com menos de 6 anos... | Isento. |\n| 111 | Vistos - isenção do pagamento de emolumentos a alunos dos ensinos básico e secundário, estudantes do ensino superior, inclusive de cursos de pós-graduação, e professores acompanhantes que realizem viagens para fins de estudo ou de formação... | Isento. |\n| 112 | Vistos - isenção do pagamento de emolumentos a investigadores nacionais de países terceiros, nos termos definidos no ponto 2 do artigo 3.º da Diretiva (UE) 2016/801 do Parlamento Europeu e do Conselho, de 11 de maio de 2016, que se desloquem para efeitos de investigação científica ou que participem num seminário científico ou conferência | Isento. |\n| 113 | Vistos - isenção do pagamento de emolumentos a representantes de organizações sem fins lucrativos, até aos 25 anos de idade, que participem em seminários, conferências e eventos desportivos, culturais ou educativos organizados por organizações sem fins lucrativos | Isento. |\n| 114 | Vistos - isenção do pagamento dos custos administrativos dos vistos concedidos a cidadãos estrangeiros que beneficiem de bolsas de estudo atribuídas pelo Estado Português | Isento. |\n| 115 | Vistos - isenção do pagamento dos custos administrativos aos nacionais de países terceiros que sejam familiares de cidadãos da União Europeia ou do espaço económico europeu que exerçam o seu direito à livre circulação, entendendo-se por familiares neste contexto: o cônjuge, o parceiro em união de facto, o descendente direto com menos de 21 anos de idade ou que esteja a cargo de um cidadão da União Europeia, o do cônjuge ou parceiro; o ascendente direto que esteja a cargo ou de um cidadão da União Europeia, ou do seu cônjuge ou parceiro; o ascendente direto que tenha a cargo um cidadão menor da União Europeia... | Isento. |\n| 116 | Vistos - isenção do pagamento dos custos administrativos aos nacionais portugueses que tenham também a nacionalidade do país de residência e que por imposições locais não possam viajar com o passaporte português... | Isento. |\n| 117 | Vistos - isenção do pagamento dos custos administrativos aos doentes beneficiários de acordos de cooperação com Portugal no domínio da saúde e respetivo acompanhante | Isento. |\n| 118 | Vistos - isenção do pagamento dos custos administrativos dos vistos concedidos a descendentes de titulares de autorização de residência, ao abrigo das disposições sobre reagrupamento familiar... | Isento. |\n| 119 | Vistos - isenção do pagamento dos custos administrativos dos vistos de estada temporária e vistos de residência para atividades de investigação altamente qualificada... | Isento. |\n| 120 | Vistos - isenção do pagamento dos custos administrativos crianças a partir dos 6 anos e com menos de 18 anos... | Isento (*). |\n| 121 | Vistos - isenção do pagamento dos custos administrativos pelos titulares de passaportes diplomáticos, de serviço, oficiais e especiais ou documentos de viagem emitidos por organizações internacionais... | Isento (*). |\n| 122 | Vistos - isenção do pagamento dos custos administrativos pelos participantes, até aos 25 anos de idade, em seminários, conferências e eventos desportivos, culturais ou educativos organizados por organizações sem fins lucrativos... | Isento (*). |\n| 123 | Vistos - isenção ou redução de emolumentos de vistos de curta duração, no quadro de acordos celebrados pela Comissão Europeia... | Isento (*). |\n\n(*) Quando aplicável.\nNota. - Atos gratuitos ou isentos são aqueles em que não cabe ao utente pagar qualquer valor pelo ato.\nAtos com redução FRI são os previstos no n.º 16 do artigo 21.º da tabela dos emolumentos consulares.\n117145849"
+  }
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177160282:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2022-179598720",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2022-177160282",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-01-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "179505004",
+    "179505005",
+    "179505006",
+    "179505008"
+   ]
+  }
+ ],
+ "fragments": {
+  "179505004": {
+   "fragment_id": "179598721",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 1/2022/A\n\nSumário: Plano Regional Anual para o ano de 2022.\n\nPlano Regional Anual para o ano de 2022\n\nA Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea p) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa e da alínea b) do artigo 34.º e do n.º 1 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "179505005": {
+   "fragment_id": "179598722",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Plano Regional Anual para o ano de 2022."
+  },
+  "179505006": {
+   "fragment_id": "179598723",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ publicado em anexo ao presente diploma, dele fazendo parte integrante, o documento contendo o Plano Regional Anual para o ano de 2022."
+  },
+  "179505008": {
+   "fragment_id": "179598725",
+   "type": 14,
+   "heading": "Anexo S — Investimento Público 2022",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo S — Investimento Público 2022\n\nDesagregação por Objetivo\n\n(ver documento original)\n\nInvestimento Público 2022\n\nDesagregação por Entidade Executora\n\n(ver documento original)\n\nInvestimento Público 2022\n\nDesagregação por Entidade Executora\n\n(ver documento original)\n\nInvestimento Público 2022\n\nDesagregação por Entidade Proponente\n\n(ver documento original)\n\nInvestimento Público 2022\n\nDesagregação por Entidade Proponente\n\n(ver documento original)\n\nInvestimento Público 2022\n\nDesagregação Espacial\n\n(ver documento original)\n\n114834668"
+  }
+ }
+}

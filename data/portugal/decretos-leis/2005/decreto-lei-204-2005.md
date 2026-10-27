@@ -1,0 +1,882 @@
+---
+schema_version: '1.0'
+id: pt:dre:481723:por
+title: Decreto-Lei n.º 204/2005
+short_title: null
+summary: Transpõe para a ordem jurídica nacional a Directiva n.º 2003/25/CE, do Parlamento Europeu e do Conselho, de 14 de
+  Abril, relativa a prescrições específicas de estabilidade para os navios ro-ro de passageiros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 204/2005
+official_date: null
+publication_date: '2005-11-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 227/2005, Série I-A de 2005-11-25
+  number: '227'
+  series: I
+  supplement: null
+  pages: 6729 - 6739
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/11/227a00/67296739.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-12-09'
+version_history:
+  file: decreto-lei-204-2005.versoes.json
+  count: 3
+  source_lastmod: '2025-01-08'
+  versions:
+  - date: '2005-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-09-26'
+    amending: pt:dre:541783:por
+    amending_title: Decreto-Lei n.º 188/2006
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Anexo I
+    - Altera Parte II
+  - date: '2024-12-09'
+    amending: pt:dre:898867716:por
+    amending_title: Decreto-Lei n.º 100/2024
+    changes:
+    - Adita Parte I
+    - Adita Parte II
+    - Adita Anexo III
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Parte I
+    - Revoga Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/204/2005/p/cons/20241204/pt/html
+  oj: null
+  dre: '481723'
+  dre_path: /dr/detalhe/decreto-lei/204-2005-481723
+  internal: pt:dre:481723:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2005-481723
+  metadata_url: https://data.dre.pt/eli/dec-lei/204/2005/p/cons/20241204/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-898867733
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-898867733
+  retrieved_at: '2026-10-22T13:21:37Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-01-08T00:00:00Z'
+integrity:
+  source_sha256: 428d68eeb5db5bd8a478ff16db1237847c972cb20d817a8d1bdf6bc56e7bb0b3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:21:37Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-204-2005.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Crime
+- Embarcação
+- Multa
+- Instituto Portuário e dos Transportes Marítimos
+- Definição de Competências
+- Especificação Técnica
+- Fiscalização
+- Certificado de Qualidade
+- Normas de Segurança
+- Segurança da Navegação
+- Segurança Marítima
+- Direcção Geral da Autoridade Marítima
+- Transporte de Passageiros
+relationships:
+- type: amended_by
+  target: pt:dre:541783:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Anexo I; Altera Parte II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2006-541783
+  date: '2006-09-21'
+- type: amended_by
+  target: pt:dre:898867716:por
+  label: Adita Parte I; Adita Parte II; Adita Anexo III; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo
+    5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Parte I; Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716
+  date: '2024-12-04'
+- type: cites
+  target: celex:31998L0018
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/18/oj
+- type: cites
+  target: celex:32002L0025
+  label: null
+  source: http://data.europa.eu/eli/dir/2002/25/oj
+- type: cites
+  target: celex:32003L0025
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/25/oj
+- type: cites
+  target: celex:32003L0075
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/75/oj
+- type: transposes
+  target: celex:32003L0025
+  label: null
+  source: null
+article_structure:
+  article_count: 13
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:21:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 204/2005
+
+Decreto-Lei n.º 204/2005
+
+de 25 de Novembro
+
+Com o objectivo de evitar, por todos os meios adequados, os acidentes com navios ro-ro de passageiros e a perda de vidas humanas que deles resulta, o Parlamento Europeu e o Conselho aprovaram a Directiva n.º 2003/25/CE, de 14 de Abril, relativa a prescrições específicas de estabilidade para os navios ro-ro de passageiros, a qual visa reforçar a segurança do transporte marítimo e evitar distorções da concorrência entre os operadores ao exigir a aplicação de regras comuns de segurança em matéria de estabilidade em avaria a todos os navios ro-ro de passageiros, qualquer que seja o seu pavilhão, que efectuem serviços regulares internacionais com partida ou destino nos portos dos Estados membros.
+
+A capacidade de sobrevivência dos navios ro-ro de passageiros após avaria por colisão, determinada pela regra de estabilidade em avaria aplicada, é um factor essencial para a segurança dos passageiros e tripulantes e particularmente relevante para as operações de busca e salvamento.
+
+As prescrições gerais de estabilidade em avaria para os navios ro-ro de passageiros foram estabelecidas a nível internacional pela Conferência para a Salvaguarda da Vida Humana no Mar 1990 (SOLAS 90) e incluídas na regra II-1/B/8 da Convenção SOLAS (regras SOLAS 90). Estas prescrições consideram o efeito do embarque de água no pavimento ro-ro em condições de mar em que a altura significativa da onda é da ordem de 1,5 m, sendo aplicáveis em toda a Comunidade à luz da aplicação directa da Convenção SOLAS, no que se refere às viagens internacionais, e da aplicação da Directiva n.º 98/18/CE, do Conselho, de 17 de Março, alterada pelas Directivas n.os 2002/25/CE, da Comissão, de 5 de Março, e 2003/75/CE, da Comissão, de 29 de Julho, relativa às regras e normas de segurança para os navios de passageiros, transpostas para a ordem jurídica interna, respectivamente, pelos Decretos-Leis n.os 293/2001, de 20 de Novembro, 180/2003, de 14 de Agosto, e 107/2004, de 8 de Maio, no que se refere às viagens domésticas.
+
+Entretanto, oito países do Norte da Europa, sete dos quais são Estados membros, acordaram em Estocolmo, em 28 de Fevereiro de 1996, introduzir uma regra de estabilidade em avaria mais exigente para os navios ro-ro de passageiros, a fim de ter em conta o efeito da acumulação de água no pavimento ro-ro e permitir que o navio sobreviva em condições de mar mais desfavoráveis que as consideradas pela regra SOLAS 90, considerando uma altura significativa da onda até 4 m.
+
+O referido acordo, conhecido por Acordo de Estocolmo, associa directamente a regra específica de estabilidade à zona marítima em que o navio opera e, mais concretamente, à altura significativa da onda registada na zona de operação. A altura significativa da onda na zona em que o navio opera determina a altura da água a introduzir no pavimento dos veículos na sequência de avaria acidental.
+
+Um estudo efectuado por peritos para a Comissão concluiu serem os valores da altura de onda nas águas do Sul da Europa idênticos aos registados no Norte. Embora as condições meteorológicas possam ser em geral mais favoráveis no Sul, a regra de estabilidade determinada no contexto do Acordo de Estocolmo baseia-se unicamente no parâmetro «altura significativa da onda» e na influência deste na acumulação de água no pavimento ro-ro.
+
+As prescrições específicas de estabilidade introduzidas pela Directiva n.º 2003/25/CE baseiam-se num método que, tal como consta dos anexos ao Acordo de Estocolmo, calcula a altura da água introduzida no pavimento ro-ro na sequência de avaria por colisão em função de dois parâmetros fundamentais, o bordo livre residual do navio e a altura significativa da onda na zona marítima em que o navio opera.
+
+Importa, portanto, transpor para a ordem jurídica interna a referida Directiva n.º 2003/25/CE, do Parlamento Europeu e do Conselho, de 14 de Abril, relativa aos requisitos específicos de estabilidade para os navios ro-ro de passageiros.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei transpõe para a ordem jurídica nacional a Directiva n.º 2003/25/CE, do Parlamento Europeu e do Conselho, de 14 de Abril, relativa a prescrições específicas de estabilidade para os navios ro-ro de passageiros.
+
+2 - O regime transposto tem como objectivo estabelecer um nível uniforme de requisitos e prescrições específicas de estabilidade para os navios ro-ro de passageiros que aumentem a capacidade de sobrevivência deste tipo de navios em caso de avaria por colisão e proporcionem um nível de segurança elevado aos passageiros e tripulantes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2006 - Diário da República n.º 183/2006, Série I de 2006-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2006-541783), em vigor a partir de 2006-09-26
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Navio ro-ro de passageiros» um navio que transporte mais de 12 passageiros com espaços para carga rolada ou espaços de categoria especial, tal como definidos na regra II-2/3 da Convenção SOLAS de 1974, alterada;
+
+b) ‘Navio ro-ro de passageiros existente’ um navio ro-ro de passageiros cuja quilha esteja assente ou que se encontre em fase de construção equivalente antes de 5 de dezembro de 2024; sendo que se considera como fase de construção equivalente o momento em que:
+
+i) Se inicia a construção identificável com um navio específico; e
+
+ii) Se começou a montagem do navio, compreendendo pelo menos 50 t ou 1 % da massa estimada de todos os elementos estruturais, consoante o que for menor;
+
+c) ‘Navio ro-ro de passageiros novo’ um navio ro-ro de passageiros que não seja um navio ro-ro de passageiros existente;
+
+d) «Passageiro» qualquer pessoa que não seja tripulante nem esteja empregada ou ocupada, sob qualquer forma, a bordo de um navio em serviços que a este digam respeito, exceptuando-se as crianças com idade inferior a 1 ano;
+
+e) ‘Convenção SOLAS’ a Convenção Internacional para a Salvaguarda da Vida Humana no Mar de 1974, com a redação conferida pelas Resoluções MSC.117(74) (‘SOLAS 90’), MSC.216(82) (‘SOLAS 2009’) e MSC.421(98) (‘SOLAS 2020’);
+
+f) ‘Serviço regular’ um conjunto de travessias efetuadas por um navio ro-ro de passageiros destinado a servir o tráfego entre dois ou mais portos, ou um conjunto de viagens de ou para o mesmo porto efetuadas sem escalas intermédias, de acordo com um horário publicitado ou com travessias com uma regularidade ou frequência sistemática;
+
+g) «Acordo de Estocolmo» o acordo celebrado em Estocolmo, em 28 de Fevereiro de 1996, ao abrigo da Resolução 14, «Acordos regionais sobre prescrições específicas de estabilidade para os navios ro-ro de passageiros», da Conferência SOLAS 95, adoptada em 29 de Novembro de 1995;
+
+h) «Autoridade competente» o Instituto Portuário e dos Transportes Marítimos (IPTM), a quem compete a coordenação global da aplicação do presente diploma;
+
+i) ‘Estado do porto’ um Estado-Membro de ou para cujos portos um navio ro-ro de passageiros efetua um serviço regular;
+
+j) «Viagem internacional» uma viagem por mar de um porto de um Estado membro para um porto situado fora desse Estado membro, ou vice-versa;
+
+l) ‘Prescrições específicas de estabilidade’ as prescrições de estabilidade a que se refere o artigo 6.º;
+
+m) «Altura significativa da onda (h(índice s))» o valor médio do terço superior das alturas da onda medidas num determinado intervalo de tempo;
+
+n) «Bordo livre residual» ou «(f(índice r))» a distância mínima, na vertical, entre o pavimento ro-ro danificado e a linha de flutuação final na zona da avaria, sem ter em conta o efeito da água do mar acumulada naquele pavimento;
+
+o) ‘Companhia’ o proprietário de um navio ro-ro de passageiros, o armador ou o afretador em casco nu, que tenham assumido, perante o proprietário, a responsabilidade pela exploração do mesmo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+###### Artigo 3.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se aos navios ro-ro de passageiros, qualquer que seja o seu pavilhão, que efectuem serviços regulares internacionais com partida ou destino num porto de um Estado membro.
+
+2 - A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) deve assegurar que os navios ro-ro de passageiros que arvoram pavilhão de um Estado terceiro satisfazem plenamente as prescrições do presente decreto-lei antes de conceder autorização para efetuar viagens em serviço regular a partir de ou com destino aos seus portos, nos termos do Decreto-Lei n.º 93/2020, de 3 de novembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2006 - Diário da República n.º 183/2006, Série I de 2006-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2006-541783), em vigor a partir de 2006-09-26
+
+###### Artigo 4.º — Alturas significativas de onda
+
+1 - Para determinar a altura da água acumulada no convés destinado aos veículos, no âmbito da aplicação das prescrições específicas de estabilidade constantes da parte i do anexo i do presente decreto-lei e do qual faz parte integrante, são utilizados os valores da altura significativa da onda (hs).
+
+2 - Os valores da altura significativa da onda são aqueles cuja probabilidade de serem excedidos é igual ou inferior a 10% no período de um ano.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+###### Artigo 5.º — Zonas marítimas
+
+1 - A lista das zonas marítimas atravessadas pelos navios ro-ro de passageiros que operem em serviço regular rumo aos portos nacionais ou destes provenientes, bem como os correspondentes valores da altura significativa de onda nessas zonas, é estabelecida por portaria dos membros do Governo responsáveis pelas áreas da defesa nacional, das infraestruturas e do mar, a qual deve ser publicitada no sítio da DGRM na Internet.
+
+2 - As zonas marítimas e os valores da altura significativa da onda nelas aplicáveis são definidos por acordo entre os Estados membros ou, sempre que aplicável ou possível, o Estado membro e o país terceiro em que se inicia e termina a rota.
+
+3 - No caso do navio cruzar mais de uma zona marítima, o navio ro-ro de passageiros deve satisfazer as prescrições específicas de estabilidade correspondentes ao mais alto valor de altura significativa da onda identificado naquelas zonas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2006 - Diário da República n.º 183/2006, Série I de 2006-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2006-541783), em vigor a partir de 2006-09-26
+
+###### Artigo 6.º — Prescrições específicas de estabilidade
+
+1 - Sem prejuízo da aplicação do Decreto-Lei n.º 93/2012, de 19 de abril, na sua atual redação, os navios ro-ro de passageiros novos, certificados para o transporte de mais de 1350 pessoas a bordo, devem satisfazer as prescrições específicas de estabilidade estabelecidas na parte B do capítulo ii-1 da SOLAS 2020.
+
+2 - Compete à companhia de navegação assegurar que os navios ro-ro de passageiros novos, certificados para o transporte de até 1350 pessoas a bordo, satisfazem:
+
+a) As prescrições específicas de estabilidade estabelecidas na parte i do anexo i do presente decreto-lei; ou
+
+b) As prescrições específicas de estabilidade estabelecidas na parte ii do anexo i do presente decreto-lei.
+
+3 - Relativamente a cada dos navios abrangidos pelo número anterior, compete à DGRM, no prazo de dois meses a contar da data de emissão do certificado referido no artigo 8.º, notificar a Comissão da opção da companhia e incluindo a informação constante do anexo iii do presente decreto-lei e do qual faz parte integrante.
+
+4 - Na aplicação das prescrições estabelecidas na parte i do anexo i do presente decreto-lei, a DGRM deve observar as orientações constantes do anexo ii do presente decreto-lei, na medida em que seja compatível com o arranjo do navio em causa.
+
+5 - Os navios ro-ro de passageiros existentes, certificados para o transporte de mais de 1350 pessoas a bordo, que venham a operar em serviço regular rumo a ou provenientes de um porto de um Estado-Membro após 5 de dezembro de 2024 e que não tenham sido certificados em conformidade com o presente decreto-lei, devem cumprir:
+
+a) As prescrições específicas de estabilidade estabelecidas na parte B do capítulo ii-1 da SOLAS 2020; ou
+
+b) As prescrições específicas de estabilidade estabelecidas na parte i do anexo i do presente decreto-lei, para além das estabelecidas na parte B do capítulo ii-1 da SOLAS 2009.
+
+6 - Os navios ro-ro de passageiros existentes, certificados para o transporte de até 1350 pessoas a bordo, que venham a operar em serviço regular rumo a ou provenientes de um porto de um Estado-Membro após 5 de dezembro de 2024 e que não tenham sido certificados em conformidade com o presente decreto-lei, devem cumprir:
+
+a) As prescrições específicas de estabilidade estabelecidas na parte i do anexo i do presente decreto-lei; ou
+
+b) As prescrições específicas de estabilidade estabelecidas na parte ii do anexo i do presente decreto-lei.
+
+7 - O cumprimento das condições estabelecidas nos n.os 5 e 6 são averbadas aos certificados do navio a que se referem os artigos 8.º e 9.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+###### Artigo 7.º — Introdução das prescrições específicas de estabilidade
+
+1 - Os navios ro-ro de passageiros existentes, com excepção dos abrangidos pelo n.º 2 do artigo 6.º, devem satisfazer, até 1 de Outubro de 2010, as prescrições específicas de estabilidade exigidas pelo presente decreto-lei.
+
+2 - Os navios ro-ro de passageiros existentes que em 17 de Maio de 2003 cumpram com os requisitos estabelecidos na regra II-1/B/8 da Convenção SOLAS, relativos à compartimentação estanque e à estabilidade em avaria, devem satisfazer, o mais tardar até 1 de Outubro de 2015, as prescrições específicas de estabilidade exigidos pelo presente decreto-lei.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+###### Artigo 8.º — Exploração sazonal e outra exploração de curta duração
+
+1 - Uma companhia de navegação que preste serviços regulares todo o ano e que no âmbito desses serviços pretenda explorar, por um período de menor duração, navios ro-ro de passageiros suplementares deve proceder à comunicação da sua pretensão à DGRM e à autoridade competente do outro Estado ou Estados do porto até um mês antes de iniciar a sua exploração.
+
+2 - Os casos imprevistos em que é necessária colocar em operação um navio ro-ro de passageiros de substituição para assegurar a continuidade do serviço são regulados pelo Decreto-Lei n.º 93/2020, de 3 de novembro, sendo dispensada a comunicação prevista no número anterior.
+
+3 - Uma companhia que pretenda efetuar serviços regulares sazonais durante um período de curta duração, não superior a seis meses por ano, deve comunicar esse facto à DGRM e à autoridade competente do outro Estado ou Estados do porto até três meses antes do início desses serviços.
+
+4 - A exploração sazonal de curta duração de navios ro-ro de passageiros abrangidos pela parte i do anexo i do presente decreto-lei, em condições em que a altura significativa da onda é menor do que a estabelecida para a mesma zona marítima para a exploração durante todo o ano, a DGRM deve ter em conta o valor da altura significativa da onda aplicável a esse período de exploração para determinação da altura da água no convés no âmbito da aplicação das prescrições específicas de estabilidade.
+
+5 - Nos casos em que exploração sazonal ou de curta duração envolve a realização de viagem de e para portos de outros Estados-Membros ou de Estados terceiros, o valor da altura significativa da onda aplicável ao período de exploração é acordado entre a DGRM e os outros Estados do porto.
+
+6 - Os navios ro-ro de passageiros a que se refere o número anterior devem dispor de um certificado de conformidade nos termos do disposto no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+###### Artigo 9.º — Certificados
+
+1 - Os navios ro-ro de passageiros, abrangidos pelo presente decreto-lei, apenas podem operar com os certificados que atestem que satisfazem as prescrições específicas de estabilidade estabelecidas no artigo 6.º
+
+2 - Os certificados referidos no número anterior devem estar disponíveis a bordo para consulta em qualquer momento.
+
+3 - Os certificados referidos nos números anteriores permanecem válidos enquanto o navio operar numa zona marítima cujo valor de altura significativa da onda seja igual ou inferior ao valor que consta no certificado.
+
+4 - Os certificados a que se refere o número anterior são emitidos pela DGRM e podem ser combinados com outros certificados afins, devendo indicar a altura significativa de onda até à qual o navio pode satisfazer as prescrições específicas de estabilidade, no caso dos navios ro-ro de passageiros que satisfaçam as prescrições específicas de estabilidade estabelecidas na parte i do anexo i do presente decreto-lei.
+
+5 - O processo de certificação e o modelo dos certificados são estabelecidos em portaria do membro do Governo responsável pelas áreas das infraestruturas e do mar.
+
+6 - As taxas a cobrar pelos serviços prestados são estabelecidas nos termos do diploma regulamentar que fixa a respetiva cobrança pela DGRM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+###### Artigo 10.º — Reconhecimento de certificados de navios ro-ro de passageiros de pavilhão estrangeiro
+
+1 - O IPTM e os órgãos locais da Direcção-Geral da Autoridade Marítima (DGAM) reconhecem os certificados emitidos por outro Estado membro, ao abrigo do presente decreto-lei.
+
+2 - O IPTM e os órgãos locais da DGAM aceitam os certificados emitidos por um país terceiro que atestem que um navio satisfaz as prescrições específicas de estabilidade exigidas pelo presente decreto-lei.
+
+###### Artigo 11.º — Fiscalização e competências sancionatórias
+
+1 - Compete à DGRM e aos órgãos locais da autoridade marítima assegurar a fiscalização do cumprimento do disposto no presente decreto-lei, bem como a instrução dos processos de contraordenação de que levantem auto de notícia.
+
+2 - A aplicação das coimas compete à entidade que efectuar a instrução dos processos de contra-ordenação a que se refere o número anterior.
+
+3 - O produto da aplicação das coimas reverte:
+
+a) 60 % para o Estado;
+
+b) 15 % para a DGRM;
+
+c) 15 % para a entidade que levanta o auto de notícia e que procede à instrução e decisão do processo;
+
+d) 10 % para o Fundo Azul.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+###### Artigo 12.º — Infracções
+
+1 - Constituem contra-ordenação punível com coima de (euro) 2200 a (euro) 3700, no caso de pessoas singulares, e de (euro) 10000 a (euro) 44000, no caso de pessoas colectivas:
+
+a) A navegação sem o certificado exigido pelo artigo 9.º;
+
+b) A navegação em zona marítima para a qual o navio ro-ro de passageiros não possui a certificação adequada, nos termos do artigo 9.º;
+
+c) O incumprimento da obrigação de comunicação ao IPTM das situações previstas nos n.os 1 a 3 do artigo 8.º
+
+2 - A negligência e a tentativa são puníveis.
+
+3 - O processo por infracção às disposições do presente diploma rege-se pelo regime geral das contra-ordenações e coimas aprovado pelo Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 6 de Outubro de 2005. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Fernando Teixeira dos Santos - Luís Filipe Marques Amado - Alberto Bernardes Costa - Mário Lino Soares Correia.
+
+Promulgado em 14 de Novembro de 2005.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 16 de Novembro de 2005.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — Prescrições específicas de estabilidade para os navios ro-ro de passageiros
+
+(a que se refere o artigo 6.º)
+
+1 - Além das prescrições da regra II-1/B/8 da Convenção SOLAS, relativas à compartimentação estanque e à estabilidade em avaria, todos os navios ro-ro de passageiros a que se refere o n.º 1 do artigo 3.º devem igualmente satisfazer as prescrições estabelecidas no presente anexo.
+
+1.1 - Ao considerar-se o efeito de um volume hipotético de água acumulada no primeiro pavimento acima da linha de água de projecto do espaço de carga ro-ro ou do espaço de categoria especial, conforme definidos na regra II-2/3 (SOLAS 74), presumido em avaria (de ora em diante referido por pavimento ro-ro em avaria), devem observar-se as disposições da regra II-1/8.2.3 (SOLAS 74). Para efeitos da aplicação das prescrições constantes do presente anexo não é necessário satisfazer as prescrições da regra II-1/B/8 (SOLAS 74). O volume de água do mar acumulada será calculado com base numa superfície de água com uma altura fixa:
+
+a) Acima do ponto mais baixo da linha de borda do compartimento em avaria do pavimento ro-ro; ou
+
+b) Acima da linha de água parada, em todos os ângulos de adornamento e caimento, quando a linha de borda do compartimento em avaria fica imersa, do seguinte modo:
+
+0,5 m, se o bordo livre residual (f(índice r)) for igual ou inferior a 0,3 m;
+
+0,0 m, se o bordo livre residual (f(índice r)) for igual ou superior a 2 m; ou
+
+Um valor intermédio a determinar por interpolação linear, se o bordo livre residual (f(índice r)) for igual ou superior a 0,3 m mas inferior a 2 m, em que o bordo livre residual (f(índice r)) é a distância mínima, na vertical, entre o pavimento ro-ro em avaria e a linha de água final na zona da avaria, no cenário de avaria considerado, sem ter em conta o efeito do volume de água acumulada no pavimento ro-ro em avaria.
+
+1.2 - Quando exista um sistema de esgoto de alto rendimento, o IPTM poderá autorizar a redução da altura da superfície de água.
+
+1.3 - Relativamente aos navios que operem em zonas restritas geograficamente definidas, o IPTM poderá reduzir o valor da altura da superfície de água prescrita de acordo com o disposto no ponto 1.1, substituindo-o pelo seguinte:
+
+1.3.1 - 0,0 m se a altura significativa da onda (h(índice s)) que define a zona considerada for igual ou inferior a 1,5 m;
+
+1.3.2 - O valor determinado de acordo com o disposto no ponto 1.1, se a altura significativa da onda (h(índice s)) que define a zona considerada for igual ou superior a 4 m;
+
+1.3.3 - Um valor intermédio a determinar por interpolação linear, se a altura significativa da onda (h(índice s)) que define a zona considerada for igual ou superior a 1,5 m mas inferior a 4 m, desde que sejam satisfeitas as seguintes condições.
+
+1.3.4 - O IPTM considere que a zona definida se caracteriza por uma altura significativa da onda (h(índice s)) cuja probabilidade de ser excedida é igual ou inferior a 10%;
+
+1.3.5 - A zona de operação e, se for caso disso, a época do ano para que foi estabelecido um determinado valor de altura significativa da onda (h(índice s)) sejam registadas nos certificados.
+
+1.4 - Em alternativa à aplicação das disposições dos pontos 1.1 ou 1.3, o IPTM pode aceitar prova, estabelecida por ensaios com modelo efectuados para um navio específico em conformidade com o método de ensaio constante do apêndice a este anexo, que demonstre que o navio, a navegar em mar unidireccional irregular, não soçobrará com as extensões de avaria previstas na regra II-1/B/8.4 (SOLAS 74) na pior localização considerada nos termos do ponto 1.1.
+
+1.5 - A referência à aceitação dos resultados dos ensaios com modelo como equivalência ao cumprimento do disposto nos pontos 1.1 ou 1.3 e o valor da altura significativa da onda (h(índice s)) utilizada nos ensaios com modelo devem ser registados nos certificados do navio.
+
+1.6 - A informação que deve ser fornecida aos comandantes em conformidade com as regras II-1/B/8.7.1 e II-1/B/8.7.2 (SOLAS 74), para efeitos do cumprimento das regras II-1/B/8.2.3 a II-1/B/8.2.3.4 (SOLAS 74), aplicar-se-á inalterada aos navios ro-ro de passageiros aprovados de acordo com as presentes prescrições.
+
+2 - Para a avaliação do efeito do volume de água acumulada no pavimento ro-ro em avaria a que se refere o ponto 1, aplicar-se-ão as seguintes disposições:
+
+2.1 - Uma antepara transversal ou longitudinal será considerada intacta se todas as suas partes estiverem compreendidas entre dois planos verticais, um a cada bordo do navio, situados a uma distância do forro exterior igual a um quinto da boca do navio, conforme definida na regra II-1/2 (SOLAS 74), e medida perpendicularmente ao plano da mediania do navio ao nível da linha de carga máxima de compartimentação.
+
+2.2 - Quando o casco do navio é estruturalmente alargado de forma parcial para efeitos do cumprimento das disposições do presente anexo, o resultante aumento do valor de um quinto da boca do navio será utilizado nos cálculos, mas não determinará a localização das aberturas em anteparas, sistemas de encanamentos, etc., aceitáveis anteriormente a tal alargamento.
+
+2.3 - As características de estanquidade das anteparas transversais ou longitudinais consideradas eficazes para conter a água do mar acumulada no compartimento considerado do pavimento ro-ro em avaria devem ser compatíveis com o sistema de esgoto e permitir-lhes suportar uma pressão hidrostática conforme com os resultados dos cálculos em avaria. Tais anteparas devem ter, no mínimo, 4 m de altura, a menos que a altura da água seja inferior a 0,5 m. Nesse caso, a altura das anteparas pode ser calculada pela seguinte fórmula:
+
+B(índice h) = 8 x h(índice w)
+
+em que:
+
+B(índice h) é a altura da antepara;
+
+h(índice w) é a altura da água.
+
+Em qualquer caso, a altura mínima das anteparas não deverá ser inferior a 2,2 m. No entanto, tratando-se de navios com pavimentos para veículos suspensos, a altura mínima destas anteparas não deve ser inferior à altura até à parte inferior do pavimento suspenso na sua posição mais baixa.
+
+2.4 - No caso de disposições especiais, por exemplo pavimentos suspensos a toda a largura e troncos laterais largos, podem aceitar-se outras alturas para as anteparas, com base em ensaios detalhados com modelo.
+
+2.5 - Não é necessário considerar o efeito do volume de água do mar acumulada em um qualquer compartimento do pavimento ro-ro em avaria, na condição de o compartimento considerado dispor, a cada bordo do pavimento, de portas de mar regularmente distribuídas ao longo do compartimento e que satisfaçam as seguintes disposições:
+
+2.5.1 - A (igual ou maior que) 0,3 l, em que A é a área total, em metros quadrados, das portas de mar de ambos os bordos do pavimento e l é o comprimento do compartimento, em metros;
+
+2.5.2 - O navio deve conservar um bordo livre residual de pelo menos 1 m nas piores condições de avaria, sem ter em conta o efeito do volume de água acumulada no pavimento ro-ro em avaria;
+
+2.5.3 - As portas de mar devem estar a uma altura não superior a 0,6 m acima do pavimento ro-ro em avaria e a sua aresta inferior não deve ficar a mais de 2 cm acima do referido pavimento;
+
+2.5.4 - As portas de mar devem estar equipadas com dispositivos de fecho ou tampas para evitar a entrada de água no pavimento ro-ro e ao mesmo tempo permitir o escoamento da água que possa ter-se acumulado no pavimento.
+
+2.6 - Quando se presuma em avaria uma antepara situada acima do pavimento ro-ro, ambos os compartimentos a ela adjacentes serão considerados alagados com uma altura de água idêntica à calculada de acordo com os pontos 1.1 ou 1.3.
+
+3 - Para a determinação da altura significativa da onda utilizar-se-ão as alturas da onda indicadas nos mapas ou na lista das zonas marítimas a estabelecer por portaria conjunta dos Ministros da Defesa Nacional e das Obras Públicas, Transportes e Comunicações, em conformidade com o disposto no artigo 5.º
+
+3.1 - Relativamente aos navios explorados apenas em épocas de curta duração, o IPTM determinará, por acordo prévio com o país onde está localizado o porto incluído na rota do navio, a altura significativa da onda a considerar.
+
+4 - Os ensaios com modelo serão conduzidos em conformidade com o disposto no apêndice a este anexo.
+
+APÊNDICE
+
+Método de ensaio com modelo
+
+1 - Objectivos - o presente método de ensaio com modelo, revisto, é uma revisão do método descrito no apêndice do anexo da Resolução n.º 14 da Conferência SOLAS de 1995. Desde a entrada em vigor do Acordo de Estocolmo foram realizados vários ensaios com modelos nos moldes do método anteriormente vigente. Durante esses ensaios, identificaram-se diversas possibilidades de aperfeiçoamento dos procedimentos. Este novo método de ensaio com modelo visa incluir os referidos aperfeiçoamentos e, juntamente com as orientações anexas, proporcionar um procedimento mais fiável para a avaliação da capacidade de sobrevivência de um navio ro-ro de passageiros após sofrer avaria num mar de leva. Nos ensaios previstos no ponto 1.4, das prescrições de estabilidade constantes do anexo I, o navio deve poder suportar, no pior cenário em avaria, as condições de mar definidas no ponto 4.
+
+2 - Definições:
+
+L(índice pp) - comprimento entre perpendiculares;
+
+H(índice s) - altura significativa da onda;
+
+B - boca na ossada;
+
+T(índice p) - período de pico;
+
+T(índice z) - período de intersecção zero;
+
+3 - Modelo do navio:
+
+3.1 - O modelo deve reproduzir o navio real, tanto na configuração exterior como no arranjo interno, e em particular os espaços em avaria que possam influir no processo de alagamento e de embarque de água. Devem utilizar-se o calado, o caimento, o adornamento e o KG de serviço limite do navio intacto correspondentes ao pior cenário de avaria. Os casos a considerar nos ensaios devem também representar os piores cenários de avaria, definidos em conformidade com a regra SOLAS/II-1/8.2.3.2 (SOLAS 90) relativamente à área total sob a curva GZ positiva, e o eixo do rombo deve ter a seguinte localização:
+
+3.1.1 - (mais ou menos) 35% L(índice pp) do meio navio;
+
+3.1.2 - Exige-se um ensaio adicional para a pior avaria dentro do limite de (mais ou menos) 10% L(índice pp) do meio navio se a avaria referida no ponto 1 se localizar fora do limite de (mais ou menos) 10% L(índice pp) do meio navio.
+
+3.2 - O modelo deve obedecer às seguintes disposições:
+
+3.2.1 - O comprimento entre perpendiculares (L(índice pp)) deve ser de, pelo menos, 3 m ou corresponder a uma escala de 1:40, conforme o maior destes valores, e a dimensão vertical deve ser de, pelo menos, três vezes a altura normal da superstrutura acima do pavimento das anteparas (do bordo livre);
+
+3.2.2 - A espessura do casco na zona dos espaços alagados não deve exceder 4 mm;
+
+3.2.3 - Na condição intacta e na condição em avaria, o modelo deve apresentar o deslocamento e as marcas de calado correctos (T(índice A), T(índice M), T(índice F), bombordo e estibordo), com uma tolerância máxima de + 2 mm em qualquer marca de calado. As marcas de calado à proa e à popa devem localizar-se tão próximo quanto possível da perpendicular a vante e da perpendicular a ré;
+
+3.2.4 - Todos os compartimentos e espaços ro-ro avariados devem ser reproduzidos com as permeabilidades correctas de superfície e de volume (valores e distribuições reais), assegurando que a massa de água embarcada e a distribuição da massa sejam correctamente representadas;
+
+3.2.5 - As características do movimento devem reproduzir as do navio real, com especial atenção à tolerância da altura metacêntrica (GM) no estado intacto e aos raios de giração nos movimentos de balanço transversal e longitudinal. Ambos os raios devem ser medidos fora de água e situar-se nos intervalos de 0,35 B a 0,4 B para o movimento de balanço transversal e de 0,2 L(índice ff) a 0,25 L(índice ff) para o movimento de balanço longitudinal;
+
+3.2.6 - Elementos essenciais de projecto como as anteparas estanques, os ventiladores, etc., acima ou abaixo do pavimento das anteparas, que possam ser causa de alagamento assimétrico, devem ser reproduzidos de modo a representarem, tanto quanto possível, a situação real. Os dispositivos de ventilação e de compensação transversal do alagamento devem ser construídos com uma secção transversal mínima de 500 mm2;
+
+3.2.7 - O rombo deve ter a seguinte configuração:
+
+1) Perfil trapezoidal, com lados inclinados de 15º em relação à vertical e largura na linha de água de projecto definida de acordo com a regra II-1/8.4.1 da Convenção SOLAS;
+
+2) Um triângulo isósceles, no plano horizontal, com altura igual a B/5 de acordo com a regra II-1/8.4.2 da Convenção SOLAS. Se houver troncos laterais dentro do limite B/5, a extensão de avaria na zona dos troncos laterais não deve ser inferior a 25 mm;
+
+3) Não obstante o disposto nos pontos 3.2.7.1 e 3.2.7.2, todos os compartimentos considerados em avaria para o cálculo dos piores cenários de avaria referidos no ponto 3.1 devem ser alagados nos ensaios com modelo.
+
+3.3 - O modelo na condição de equilíbrio após alagamento será adornado a um ângulo adicional correspondente ao induzido pelo momento inclinante M(índice h) = max (M(índice pass); M(índice launch)) - M(índice wind), mas em nenhum caso o adornamento final deve ser inferior a 1º para o bordo do rombo. M(índice pass), M(índice launch) e M(índice wind) são especificados na regra II-1/8.2.3.4 da Convenção SOLAS. Para os navios existentes, pode considerar-se que este ângulo é de 1º.
+
+4 - Procedimento de ensaio:
+
+4.1 - O modelo será ensaiado num mar de leva com cristas longas e irregulares, definido pelo espectro Jonswap, com uma altura significativa da onda (H(índice s)), um factor de intensificação de pico (gama) = 3,3 e um período de pico T(índice p) = (ver documento original) (T(índice z) = T(índice p)/1,285). H(índice s) é a altura significativa da onda na zona de operação, cuja probabilidade de ser excedida não é superior a 10% numa base anual, mas limitada a um máximo de 4 m.
+
+Além disso:
+
+4.1.1 - A largura do tanque de ensaio deve ser suficiente para evitar o contacto ou outras interacções do modelo com os lados do tanque, recomendando-se que não seja inferior a L(índice pp) + 2 m;
+
+4.1.2 - A profundidade do tanque deve ser suficiente para uma modelização adequada da ondulação, não devendo ser inferior a 1 m;
+
+4.1.3 - Para se obter uma ondulação representativa, devem ser efectuadas medições antes do ensaio, em três localizações distintas do espaço de deriva;
+
+4.1.4 - A sonda mais próxima do aparelho gerador de ondulação deve localizar-se na posição que o modelo ocupará quando se iniciar o ensaio;
+
+4.1.5 - Nas três localizações, a variação de H(índice s) e de T(índice p) deve situar-se no intervalo de (mais ou menos) 5%; e
+
+4.1.6 - Durante os ensaios, para efeitos de aprovação, deve admitir-se uma tolerância de + 2,5% para H(índice s), (mais ou menos) 2,5% para T(índice p) e (mais ou menos) 5% para T(índice z), em relação à sonda mais próxima do aparelho gerador de ondulação.
+
+4.2 - O modelo deve poder derivar livremente em condições de mar de través (aproamento de 90º) com o rombo a fazer face às ondas, sem estar ligado de forma permanente a um sistema de amarração. Para manter um aproamento de aproximadamente 90º com mar de través durante o ensaio do modelo, devem ser satisfeitos os seguintes requisitos:
+
+4.2.1 - Os cabos de controlo do aproamento, destinados a efectuar pequenos ajustamentos, devem estar posicionados no plano de mediania da roda de proa à popa, simetricamente e a um nível intermédio entre a posição de KG e a linha de água em avaria; e
+
+4.2.2 - A velocidade de reboque deve ser igual à velocidade real de deriva do modelo, com ajustamento da velocidade sempre que necessário.
+
+4.3 - Devem ser feitas pelo menos 10 provas. A duração de cada prova deve ser suficiente para se chegar a um estado estacionário, mas não inferior a trinta minutos em tempo real. Em cada prova, utilizar-se-á uma sequência de ondas diferente.
+
+5 - Critérios de sobrevivência - considerar-se-á que o modelo sobrevive se nas sucessivas provas de ensaio previstas no ponto 4.3 se obtiver um estado estacionário. Considerar-se-á que o modelo soçobrou se, por um período superior a três minutos em tempo real, ocorrerem ângulos de balanço superiores a 30º em relação ao eixo vertical ou um adornamento estável (médio) superior a 20º, mesmo que se tenha obtido um estado estacionário.
+
+6 - Documentação dos ensaios:
+
+6.1 - O programa dos ensaios com modelo deve ser previamente aprovado pelo IPTM.
+
+6.2 - Os ensaios devem ser documentados por meio de um relatório e de um vídeo ou outro registo de imagem, contendo toda a informação pertinente sobre o modelo e os resultados dos ensaios, a aprovar pelo IPTM. Esses dados incluirão, no mínimo, os espectros das ondas teóricos e medidos e as estatísticas (H(índice s), T(índice p), T(índice z)) da elevação das ondas nas três diferentes localizações seleccionadas no tanque para se obter uma ondulação representativa e, no que respeita aos ensaios com o modelo, a série cronológica das principais estatísticas da elevação das ondas medida junto ao aparelho gerador de ondulação e registos dos movimentos (balanço transversal, arfagem e balanço de popa proa) e da velocidade de deriva do modelo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2006 - Diário da República n.º 183/2006, Série I de 2006-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2006-541783), em vigor a partir de 2006-09-26
+
+## Parte I
+
+Para efeitos da aplicação da presente parte, as referências às regras da Convenção SOLAS devem entender-se como referências às regras aplicáveis nos termos da SOLAS 90.
+
+1 - Além das prescrições da Convenção SOLAS, regra II-1/B/8 relativas à compartimentação estanque e à estabilidade em condições de avaria, são cumpridas as prescrições da presente parte.
+
+1.1 - Ao considerar-se o efeito de um volume hipotético de água acumulada no primeiro pavimento acima da linha de água de projeto do espaço de carga ro-ro ou do espaço de categoria especial, conforme definidos na regra II-2/3 (SOLAS 74), presumido em avaria (de ora em diante referido por pavimento ro-ro em avaria), devem observar-se as disposições da regra II-1/8.2.3 (SOLAS 74). Para efeitos da aplicação das prescrições constantes do presente anexo não é necessário satisfazer as prescrições da regra II-1/B/8 (SOLAS 74). O volume de água do mar acumulada será calculado com base numa superfície de água com uma altura fixa:
+
+a) Acima do ponto mais baixo da linha de borda do compartimento em avaria do pavimento ro-ro; ou
+
+b) Acima da linha de água parada, em todos os ângulos de adornamento e caimento, quando a linha de borda do compartimento em avaria fica imersa, do seguinte modo:
+
+i) 0,5 m, se o bordo livre residual (fr) for igual ou inferior a 0,3 m;
+
+ii) 0,0 m, se o bordo livre residual (fr) for igual ou superior a 2 m; ou
+
+iii) Um valor intermédio a determinar por interpolação linear, se o bordo livre residual (fr) for igual ou superior a 0,3 m mas inferior a 2 m, em que o bordo livre residual (fr) é a distância mínima, na vertical, entre o pavimento ro-ro em avaria e a linha de água final na zona da avaria, no cenário de avaria considerado, sem ter em conta o efeito do volume de água acumulada no pavimento ro-ro em avaria.
+
+1.2 - Quando exista um sistema de esgoto de alto rendimento, a Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) pode autorizar a redução da altura da superfície de água.
+
+1.3 - Relativamente aos navios que operem em zonas restritas geograficamente definidas, a DGRM pode reduzir o valor da altura da superfície de água prescrita de acordo com o disposto no ponto 1.1, substituindo-o pelo seguinte:
+
+1.3.1 - 0,0 m se a altura significativa da onda (hs) que define a zona considerada for igual ou inferior a 1,5 m;
+
+1.3.2 - O valor determinado de acordo com o disposto no ponto 1.1, se a altura significativa da onda (hs) que define a zona considerada for igual ou superior a 4 m;
+
+1.3.3 - Um valor intermédio a determinar por interpolação linear, se a altura significativa da onda (hs) que define a zona considerada for igual ou superior a 1,5 m mas inferior a 4 m, desde que sejam satisfeitas as seguintes condições:
+
+a) A DGRM considere que a zona definida se caracteriza por uma altura significativa da onda (hs) cuja probabilidade de ser excedida é igual ou inferior a 10 %;
+
+b) A zona de operação e, se for caso disso, a época do ano para que foi estabelecido um determinado valor de altura significativa da onda (hs) sejam registadas nos certificados.
+
+1.4 - Em alternativa à aplicação das disposições dos pontos 1.1 ou 1.3, a DGRM pode aceitar prova, estabelecida por ensaios com modelo efetuados para um navio específico em conformidade com o método de ensaio constante do apêndice a este anexo, que demonstre que o navio, a navegar em mar unidirecional irregular, não soçobra com as extensões de avaria previstas na regra II-1/B/8.4 (SOLAS 74) na pior localização considerada nos termos do ponto 1.1.
+
+1.5 - A referência à aceitação dos resultados dos ensaios com modelo como equivalência ao cumprimento do disposto nos pontos 1.1 ou 1.3 e o valor da altura significativa da onda (hs) utilizada nos ensaios com modelo devem ser registados nos certificados do navio.
+
+1.6 - A informação que deve ser fornecida aos comandantes em conformidade com as regras II-1/B/8.7.1 e II-1/B/8.7.2 (SOLAS 74), para efeitos do cumprimento das regras II-1/B/8.2.3 a II-1/B/8.2.3.4 (SOLAS 74), aplicar-se inalterada aos navios ro-ro de passageiros aprovados de acordo com as presentes prescrições.
+
+2 - Para a avaliação do efeito do volume de água acumulada no pavimento ro-ro em avaria a que se refere o ponto 1, aplicam-se as seguintes disposições:
+
+2.1 - Uma antepara transversal ou longitudinal é considerada intacta se todas as suas partes estiverem compreendidas entre dois planos verticais, um a cada bordo do navio, situados a uma distância do forro exterior igual a um quinto da boca do navio, conforme definida na regra II-1/2 (SOLAS 74), e medida perpendicularmente ao plano da mediania do navio ao nível da linha de carga máxima de compartimentação.
+
+2.2 - Quando o casco do navio é estruturalmente alargado de forma parcial para efeitos do cumprimento das disposições do presente anexo, o resultante aumento do valor de um quinto da boca do navio será utilizado nos cálculos, mas não determina a localização das aberturas em anteparas, sistemas de encanamentos, etc., aceitáveis anteriormente a tal alargamento.
+
+2.3 - As características de estanquidade das anteparas transversais ou longitudinais consideradas eficazes para conter a água do mar acumulada no compartimento considerado do pavimento ro-ro em avaria devem ser compatíveis com o sistema de esgoto e permitir-lhes suportar uma pressão hidrostática conforme com os resultados dos cálculos em avaria. Tais anteparas devem ter, no mínimo, 4 m de altura, a menos que a altura da água seja inferior a 0,5 m. Nesse caso, a altura das anteparas pode ser calculada pela seguinte fórmula:
+
+Bh = 8 x hw
+
+em que:
+
+Bh é a altura da antepara;
+
+hw é a altura da água.
+
+Em qualquer caso, a altura mínima das anteparas não deverá ser inferior a 2,2 m. No entanto, tratando-se de navios com pavimentos para veículos suspensos, a altura mínima destas anteparas não deve ser inferior à altura até à parte inferior do pavimento suspenso na sua posição mais baixa.
+
+2.4 - No caso de disposições especiais, designadamente em caso de pavimentos suspensos a toda a largura e troncos laterais largos, podem ser aceites outras alturas para as anteparas, com base em ensaios detalhados com modelo.
+
+2.5 - Não é necessário considerar o efeito do volume de água do mar acumulada em um qualquer compartimento do pavimento ro-ro em avaria, na condição de o compartimento considerado dispor, a cada bordo do pavimento, de portas de mar regularmente distribuídas ao longo do compartimento e que satisfaçam as seguintes disposições:
+
+2.5.1 - A ≥ 0,3 l, em que A é a área total, em metros quadrados, das portas de mar de ambos os bordos do pavimento e l é o comprimento do compartimento, em metros;
+
+2.5.2 - O navio deve conservar um bordo livre residual de pelo menos 1 m nas piores condições de avaria, sem ter em conta o efeito do volume de água acumulada no pavimento ro-ro em avaria;
+
+2.5.3 - As portas de mar devem estar a uma altura não superior a 0,6 m acima do pavimento ro-ro em avaria e a sua aresta inferior não deve ficar a mais de 2 cm acima do referido pavimento;
+
+2.5.4 - As portas de mar devem estar equipadas com dispositivos de fecho ou tampas para evitar a entrada de água no pavimento ro-ro e ao mesmo tempo permitir o escoamento da água que possa ter-se acumulado no pavimento.
+
+2.6 - Quando se presuma em avaria uma antepara situada acima do pavimento ro-ro, ambos os compartimentos a ela adjacentes serão considerados alagados com uma altura de água idêntica à calculada de acordo com os pontos 1.1 ou 1.3.
+
+3 - Para a determinação da altura significativa da onda são utilizadas as alturas da onda indicadas nos mapas ou na lista das zonas marítimas a estabelecer por portaria dos membros do Governo responsáveis pelas áreas da defesa e das infraestruturas, em conformidade com o disposto no artigo 5.º do presente decreto-lei.
+
+3.1 - Para os navios a explorar apenas durante um período de duração mais curta, nos termos do artigo 8.º do presente decreto-lei, a DGRM determina, por acordo prévio com os países onde estão localizados os portos incluídos na rota do navio, a altura significativa da onda a considerar.
+
+4 - Os ensaios com modelo serão conduzidos em conformidade com o disposto no apêndice a este anexo.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+## Parte II
+
+Devem ser cumpridas as prescrições da parte B do capítulo ii-1 da SOLAS 2020, sem prejuízo de, em derrogação da regra II-1/B/6.2.3 da SOLAS 2020, o índice de subdivisão R exigido ser determinado nos seguintes termos:
+
+| Pessoas a bordo (N) | Índice de subdivisão (R) |
+| --- | --- |
+| N < 1 000 | R = 0,000 088 * N + 0,748 8 |
+| 1 000 ≤ N ≤ 1 350 | R = 0,036 9 * ln (N + 89,048) + 0,579 |
+
+sendo:
+
+N = Número total de pessoas a bordo.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+## Anexo II — Orientações para as administrações nacionais
+
+(a que se refere o n.º 3 do artigo 6.º)
+
+## Parte I — Aplicação
+
+Em conformidade com o disposto no n.º 4 do artigo 6.º do presente decreto-lei, a DGRM guia-se pelas presentes orientações na aplicação das prescrições específicas de estabilidade constantes da parte i do anexo i, na medida em que tal seja exequível e compatível com a conceção do navio em questão. A numeração dos pontos seguintes corresponde aos dos parágrafos da parte i do anexo i.
+
+Ponto 1. - Numa primeira fase, todos os navios ro-ro de passageiros a que se refere o n.º 1 do artigo 3.º do presente diploma deverão satisfazer a regra SOLAS 90 sobre estabilidade residual, aplicável aos navios de passageiros construídos em ou após 29 de Abril de 1990. É a aplicação desta prescrição que permite definir o bordo livre residual (f(índice r)) necessário para os cálculos previstos no ponto 1.1.
+
+Ponto 1.1:
+
+1 - O presente ponto refere-se ao volume hipotético de água acumulada no pavimento (ro-ro) das anteparas. Assume-se que a água penetrou no pavimento por um rombo. O disposto no presente ponto obriga a que o navio satisfaça, além de todos os requisitos da regra SOLAS 90, a parte dos critérios SOLAS 90 constante dos pontos 2.3 a 2.3.4 da regra II-1/B/8, com o volume de água definido no pavimento. Para o cálculo não é necessário ter em conta quaisquer outras prescrições da regra II-1/B/8. Por exemplo, não é necessário que o navio satisfaça as prescrições relativas aos ângulos de equilíbrio ou à não imersão da linha de sobre imersão.
+
+2 - A água acumulada é considerada uma carga líquida com uma superfície ao mesmo nível em todos os compartimentos alagados no convés dos veículos. A altura (h(índice w)) da água no convés depende do bordo livre residual (f(índice r)) após avaria e é medida na zona da avaria (v. figura 1). O bordo livre residual (f(índice r)) é a distância mínima, na vertical, entre o pavimento ro-ro em avaria e a linha de água final (após as medidas compensatórias, se tomadas) na zona da avaria, após consideração de todos os cenários de avaria possíveis na avaliação da conformidade com a regra SOLAS 90, conforme previsto no ponto 1 do anexo I. Para o cálculo de f(índice r) não deve entrar-se em linha de conta com o efeito do volume hipotético de água acumulada no pavimento ro-ro em avaria.
+
+3 - Se (f(índice r)) for igual ou superior a 2 m, assume-se que não se acumula água no pavimento ro-ro. Se (f(índice r)) for igual ou inferior a 0,3 m, assume-se que a altura h(índice w) é 0,5 m. Os valores intermédios da altura da água obtêm-se por interpolação linear (v. figura 2).
+
+Ponto 1.2. - Os meios de esgoto apenas podem ser considerados eficazes se a sua capacidade for suficiente para prevenir a acumulação de um grande volume de água no convés, isto é, muitos milhares de toneladas por hora, um volume que excede em muito a capacidade instalada à data de adopção das presentes regras. Tais sistemas de esgoto de alto rendimento poderão ser desenvolvidos e homologados futuramente (com base em directrizes que a Organização Marítima Internacional elaborará).
+
+Ponto 1.3:
+
+1 - O volume de água que se presume acumulada no convés pode ser reduzido, além de uma eventual redução de acordo com o ponto 1.1, no caso dos navios que operem em zonas restritas geograficamente delimitadas. Estas zonas são designadas em função da altura significativa da onda (h(índice s)) que define cada área, em conformidade com as disposições do artigo 5.º do presente diploma.
+
+2 - Se a altura significativa da onda (h(índice s)) na zona considerada for igual ou inferior a 1,5 m, assume-se que não se acumula água no pavimento ro-ro em avaria. Se a altura significativa da onda na zona considerada for igual ou superior a 4 m, a altura da água que se assume acumulada terá o valor calculado nos termos do ponto 1.1. Os valores intermédios serão determinados por interpolação linear (v. figura 3).
+
+3 - A altura h(índice w) mantém-se constante, pelo que o volume de água é variável visto depender do ângulo de adornamento e de a borda do pavimento ficar ou não imersa a um dado ângulo de adornamento (v. figura 4). Note-se que a permeabilidade dos espaços do convés dos veículos deve ser considerada 90% (v. MSC/Circ. 649), enquanto a permeabilidade de outros espaços alagados será a prescrita na Convenção SOLAS.
+
+4 - Se os cálculos destinados a demonstrar o cumprimento do presente diploma se referirem a uma altura significativa da onda inferior a 4 m, essa altura restritiva deverá ser registada no certificado de segurança para navio de passageiros do navio considerado.
+
+Pontos 1.4 e 1.5. - Em alternativa à aplicação das novas prescrições de estabilidade previstas nos pontos 1.1 ou 1.3, o IPTM poderá aceitar prova da conformidade mediante ensaios com modelo. As disposições relativas a estes ensaios constam do apêndice do anexo I. Na parte II do presente anexo figuram notas de orientação sobre os ensaios.
+
+Ponto 1.6. - As curvas de serviço limite (KG ou GM) obtidas segundo a regra SOLAS 90 podem não ser aplicáveis quando se assume um volume de água no convés conforme previsto neste diploma, pelo que poderá ser necessário determinar curvas limite que tenham em conta os efeitos deste volume de água. Para esse efeito, deverão ser efectuados cálculos suficientes em relação a uma gama adequada de calados e caimentos de serviço.
+
+Nota. - As curvas de serviço limite revistas KG/GM podem ser obtidas por iteração, sendo que o excesso mínimo de GM resultante dos cálculos de estabilidade com água no convés é adicionado ao valor de KG (ou deduzido ao GM) utilizado para determinar os bordos livres (f(índice r)) em avaria, com os quais são determinadas as quantidades de água no convés, processo este que será repetido até que o excesso de GM seja desprezável.
+
+Pressupõe-se que os operadores iniciarão esta iteração com os valores de KG máximo e GM mínimo que possam ser razoavelmente admissíveis nas condições de serviço e procurar ajustar a resultante disposição das anteparas do pavimento para minimizar o incremento de GM derivado dos cálculos da estabilidade em avaria com água no convés.
+
+Ponto 2.1. - Tal como prevêem as prescrições SOLAS de estabilidade em avaria, as anteparas para dentro da linha B/5 são consideradas intactas em caso de avaria no costado por colisão.
+
+Ponto 2.2 - Se forem instalados apêndices laterais estruturais de estabilidade para permitir o cumprimento da regra II-1/B/8, resultando num aumento da boca (B) do navio e, consequentemente, da distância B/5, tal modificação não deverá implicar a relocalização de qualquer elemento estrutural existente ou das aberturas existentes nas anteparas transversais estanques principais abaixo do pavimento das anteparas (v. figura 5).
+
+Ponto 2.3:
+
+1 - As anteparas/barreiras transversais ou longitudinais instaladas e tomadas em consideração para efeitos de limitar a deslocação da água acumulada no pavimento ro-ro em avaria não têm de ser totalmente estanques. É admissível alguma infiltração, sob reserva de os meios de esgoto serem susceptíveis de prevenir a acumulação de água do outro lado das anteparas/barreiras. Em tais casos, se os embornais ficarem inoperantes em resultado da diminuição da diferença de níveis da água, devem ser previstos outros meios de esgoto passivos.
+
+2 - A altura (B(índice h)) das anteparas/barreiras transversais ou longitudinais não deve ser inferior a (8 x h(índice w)) metros, sendo h(índice w) a altura da água acumulada calculada por aplicação dos parâmetros bordo livre residual e altura significativa da onda (v. pontos 1.1 e 1.3). No entanto, a altura das anteparas/barreiras não poderá, em caso algum, ser inferior ao maior dos seguintes valores:
+
+a) 2,2 m; ou
+
+b) A altura medida entre o pavimento das anteparas e o ponto mais baixo da estrutura inferior dos pavimentos de veículos intermédios ou suspensos na sua posição mais baixa. Note-se que quaisquer aberturas entre o topo da antepara e a parte inferior da chaparia devem ser «chapeadas» no plano transversal ou longitudinal, conforme adequado (v. figura 6).
+
+Podem aceitar-se anteparas/barreiras de altura inferior à especificada supra, na condição de serem executados ensaios com modelo em conformidade com o disposto na parte II do presente anexo, para confirmar que a configuração alternativa assegura uma regra de sobrevivência adequada. Ao fixar-se a altura das anteparas/barreiras deverá ter-se em atenção que a mesma deve igualmente ser suficiente para prevenir um alagamento progressivo dentro do intervalo de estabilidade exigido. Este intervalo não deve ser afectado pelos ensaios com modelo.
+
+Nota. - O intervalo pode ser reduzido para 10º, desde que a área correspondente sob a curva seja aumentada (v. MSC 64/22).
+
+Ponto 2.5.1. - A área «A» refere-se a aberturas permanentes; note-se que a opção portas de mar não é adequada em navios que necessitem da reserva de flutuabilidade de parte ou da totalidade da superstrutura para satisfazerem os critérios. O requisito é que as portas de mar estejam equipadas com tampas que previnam a entrada de água sem impedir o seu escoamento.
+
+Estas tampas não devem depender de meios activos, devem ser de funcionamento automático e não restringir, comprovadamente, o escoamento da água de forma significativa. Qualquer redução significativa da sua eficácia deve ser compensada por aberturas adicionais de forma a manter a área exigida.
+
+Ponto 2.5.2. - Para uma porta de mar ser considerada eficaz a distância mínima entre a sua aresta inferior e a linha de flutuação em avaria deve ser de pelo menos 1 m. No cálculo da distância mínima não deve ter-se em conta o efeito de qualquer volume de água no convés (v. figura 7).
+
+Ponto 2.5.3. - As portas de mar devem estar situadas na borda falsa ou na chaparia do casco tão abaixo quanto possível. As suas extremidades inferior e superior não devem estar, respectivamente, a mais de 2 cm e 0,6 m acima do pavimento das anteparas (v. figura 8).
+
+Nota. - Os espaços a que se aplica o ponto 2.5, isto é, os espaços dotados de portas de mar ou aberturas similares, não devem ser considerados intactos para efeitos da obtenção das curvas de estabilidade intacta e em avaria.
+
+Ponto 2.6:
+
+1 - A extensão de avaria prescrita deve aplicar-se a todo o comprimento do navio. Dependendo da regra de compartimentação, a avaria pode não afectar qualquer antepara ou afectar apenas uma antepara situada abaixo do pavimento das anteparas ou acima do referido pavimento, ou várias combinações.
+
+2 - Todas as anteparas/barreiras transversais e longitudinais que limitem o volume de água supostamente acumulado no pavimento devem estar instaladas e fixadas nos seus lugares quando o navio se encontra no mar.
+
+3 - Quando uma antepara/barreira transversal sofra avaria, a superfície da água acumulada no pavimento deve ter o mesmo nível de ambos os lados da antepara/barreira em avaria à altura h(índice w) (v. figura 9).
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09
+
+## Parte II — Ensaios com modelo
+
+O objectivo destas orientações é assegurar a uniformidade dos métodos utilizados na construção e verificação do modelo e na realização e análise dos ensaios.
+
+O teor dos pontos 1 e 2 do apêndice do anexo I não carece de clarificação.
+
+Ponto 3 — Modelo do navio:
+
+3.1 — O material de que é feito o modelo não é importante, desde que na condição intacta e em avaria o modelo seja suficientemente rígido para assegurar que as suas propriedades hidrostáticas são idênticas
+
+às do navio real e que a resposta do casco à flexão sob acção das ondas é desprezável. É também importante que os compartimentos em avaria sejam reproduzidos o mais fielmente possível, a fim de assegurar que o volume de água embarcada é o correcto. Atendendo a que a entrada de água (mesmo em pequenas quantidades) nas partes intactas do modelo irá afectar o seu comportamento, devem tomar-se medidas para a evitar. Em ensaios com modelo, envolvendo os piores cenários de avaria previstos na Convenção SOLAS perto das extremidades do navio, observou-se que não era possível um alagamento progressivo, devido à tendência da água embarcada no convés para se acumular junto ao rombo e se escoar para o exterior. Dado que esses modelos logravam sobreviver em condições de mar cavado, ao passo que soçobravam em condições de mar menos desfavoráveis com avarias SOLAS menos graves, localizadas longe das extremidades, adoptou-se o limite de ± 35% de modo a evitar esta situação. A investigação exaustiva realizada com o propósito de elaborar critérios adequados para os navios novos mostrou claramente que, para a capacidade de sobrevivência dos navios de passageiros, são importantes, não só os parâmetros altura metacêntrica e bordo livre, como a área abaixo da curva de estabilidade residual. Consequentemente, ao determinar o pior cenário de avaria previsto na Convenção SOLAS para efeitos do cumprimento das prescrições do ponto 3.1, deve considerar-se a avaria que produza a menor área abaixo da curva de estabilidade residual.
+
+3.2 — Elementos relativos ao modelo:
+
+3.2.1 — Reconhecendo que os efeitos de escala influenciam de modo significativo o comportamento do modelo durante os ensaios, é importante minimizar o mais possível tais efeitos. O modelo deve ter o maior tamanho possível, uma vez que em modelos grandes é mais fácil construir em detalhe os compartimentos em avaria e os efeitos de escala se reduzem. Exige-se, portanto, que o comprimento do modelo não seja inferior ao maior dos seguintes valores: 3 m ou o comprimento correspondente à escala de 1:40. Verificou-se, em ensaios dinâmicos, que a dimensão vertical do modelo pode influenciar os resultados. Exige-se, portanto, que a superstrutura do navio seja reproduzida no modelo com pelo menos três vezes a altura normal acima do pavimento das anteparas (do bordo livre), para que as ondas grandes da sequência não submirjam o modelo.
+
+3.2.2 — Na zona da avaria, o casco do modelo deve ter a menor espessura possível, a fim de assegurar
+
+que o volume de água embarcada e o seu centro de gravidade são adequadamente representados. A
+
+espessura do casco não deve exceder 4 mm. Reconhece-se, todavia, que poderá não ser possível construir com suficiente detalhe o casco e os elementos da compartimentação primária e secundária na zona da avaria e que, devido a estas limitações construtivas, poderá não ser possível calcular com precisão a permeabilidade assumida do espaço.
+
+3.2.3 — Importa não só verificar os calados do modelo na condição intacta como medir com precisão
+
+os calados do modelo na condição de avaria para os correlacionar com os resultantes do cálculo da estabilidade em avaria. Por motivos de ordem prática, aceita-se uma tolerância de + 2 mm em qualquer calado.
+
+3.2.4 — Após a medição dos calados em avaria, poderá ser necessário proceder a ajustamentos da permeabilidade do compartimento em avaria, introduzindo volumes intactos ou acrescentando peso. No entanto, importa também assegurar a correcta representação do centro de gravidade da água embarcada. Em tal caso, os ajustamentos deverão ser efectuados do lado da segurança. Caso o modelo deva ser equipado com barreiras no convés e estas tenham uma altura inferior à adiante
+
+prescrita para a antepara, deve ser instalado um circuito interno de televisão para vigiar qualquer eventual galgar da barreira ou acumulação de água na zona sem avaria do convés. Em tal caso, na documentação dos ensaios deve figurar uma gravação vídeo do evento. A altura das anteparas transversais ou longitudinais consideradas eficazes para conter a água do mar que se presume acumulada no compartimento considerado do pavimento ro-ro em avaria deverá ser de pelo menos 4 m, a menos que a altura da água seja inferior a 0,5 m. Nesse caso, a altura das anteparas poderá ser calculada pela seguinte fórmula:
+
+B(índice h) = 8 x h(índice w)
+
+em que:
+
+B(índice h) é a altura da antepara; e
+
+h(índice w) é a altura da água.
+
+Em qualquer caso, a altura mínima das anteparas não deverá ser inferior a 2,2 m. No entanto, tratando-se de navios com pavimentos para veículos suspensos, a altura mínima destas anteparas não deverá ser inferior à altura até à parte inferior do pavimento suspenso na sua posição mais baixa.
+
+3.2.5 - Para assegurar que as características do movimento do modelo reproduzem as do navio real, é importante que o modelo seja sujeito a adornamento e balanço transversal na sua condição intacta a fim de confirmar o valor da altura metacêntrica e a distribuição da massa nessa condição. A distribuição da massa deverá ser medida fora de água. O raio de giração transversal do navio real deverá situar-se entre 0,35 B e 0,4 B e o longitudinal entre 0,2 L e 0,25 L.
+
+Nota. - O adornamento e o balanço transversal do modelo na condição de avaria podem ser aceites para efeitos da verificação da curva de estabilidade residual, mas tais ensaios não poderão substituir os ensaios na condição intacta.
+
+3.2.6 - Assume-se que os ventiladores do compartimento em avaria do navio real não obstam ao alagamento e ao movimento da água embarcada. A redução à escala dos dispositivos de ventilação do navio real poderá todavia produzir no modelo efeitos de escala indesejáveis. A fim de evitar a ocorrência de tais efeitos, recomenda-se que os dispositivos de ventilação do modelo sejam construídos a uma escala superior à do próprio modelo, assegurando simultaneamente que o fluxo de água no convés dos veículos não seja afectado.
+
+3.2.7 - É aceite como apropriado considerar-se uma avaria cuja configuração seja representativa de uma secção transversal da zona da proa do navio que abalroa. O ângulo de 15º baseia-se num estudo da secção transversal a uma distância de B/5 da proa, para uma selecção representativa de navios de diferentes tipos e tamanhos.
+
+O perfil em triângulo isóscele do rombo de configuração prismática é o correspondente à linha de água carregada.
+
+Adicionalmente, quando existam troncos laterais de largura inferior a B/5, e para evitar eventuais efeitos de escala, a extensão de avaria na zona dos troncos não deve ser inferior a 25 mm.
+
+3.3 - No método original de ensaio com modelo descrito na Resolução n.º 14 da Conferência SOLAS de 1995, não foi considerado o efeito inclinante induzido pelo momento máximo resultante da concentração de passageiros, do lançamento de embarcações salva-vidas, do vento ou da giração, muito embora a Convenção SOLAS o considerasse. Os resultados de um estudo indicam, porém, que seria prudente ter esses efeitos em conta e aplicar um adornamento mínimo de 1º para o bordo da avaria, por motivos de ordem prática. De notar que o adornamento devido à giração foi considerado irrelevante.
+
+3.4 - Nos casos em que existe uma margem entre a altura metacêntrica (GM) e a altura metacêntrica em relação à curva limite GM (segundo a SOLAS 90), nas condições reais de carga, o IPTM poderá aceitar que essa margem seja aproveitada no ensaio com o modelo. Em tais casos, a curva limite GM deve ser ajustada. Este ajustamento pode ser efectuado do seguinte modo:
+
+(ver documento original)
+
+d = d(índice S) - 0,6 (d(índice S) - d(índice LS))
+
+em que d(índice S) é o calado de compartimentação e d(índice LS) é o calado do navio leve.
+
+A curva ajustada é uma linha recta entre a altura metacêntrica correspondente ao calado de compartimentação, utilizada para o ensaio com modelo, e a intersecção da curva original SOLAS 90 com o calado d.
+
+Ponto 4 - Procedimento de ensaio:
+
+4.1 - Espectro das ondas - deve utilizar-se o espectro Jonswap, uma vez que descreve ondas de alcance e duração limitados, o que corresponde à maioria das condições observadas no mundo. A este respeito, importa verificar o período de pico da sequência de ondas e também se o período de intersecção zero é o correcto.
+
+Exige-se que o espectro das ondas seja registado e documentado relativamente a cada prova de ensaio. Para efeitos desse registo, as medições deverão ser efectuadas na sonda mais próxima do aparelho gerador de ondulação.
+
+Exige-se também que o modelo seja monitorizado de modo que os seus movimentos (balanço transversal, arfagem e balanço de popa proa) e o seu comportamento (adornamento, sobre imersão e caimento) possam ser observados e registados durante todo o ensaio.
+
+Concluiu-se não ser prático estabelecer limites absolutos para as alturas significativas de onda, para os períodos de pico e para os períodos de intersecção zero dos espectros das ondas do modelo. Foi então adoptada uma margem aceitável.
+
+4.2 - Para evitar interferências do sistema de amarração com a dinâmica do navio, o dispositivo de reboque (ao qual está fixo o sistema de amarração) deverá acompanhar o modelo na sua velocidade real de deriva. Em mar com ondulação irregular, a velocidade de deriva não será constante; uma velocidade de reboque constante resultaria em oscilações de baixa frequência e grande amplitude, podendo afectar o comportamento do modelo.
+
+4.3 - É necessário um número suficiente de ensaios com diferentes sequências de ondas, para assegurar fiabilidade estatística, ou seja, o objectivo é determinar, com grau elevado de confiança, que um navio que não satisfaz os critérios de segurança soçobrará nas condições seleccionadas. Considera-se que um número mínimo de 10 provas confere um nível razoável de fiabilidade.
+
+Ponto 5 - Critérios de sobrevivência. - O teor deste ponto não carece de clarificação.
+
+Ponto 6 - Aprovação dos ensaios. - Devem integrar o relatório destinado ao IPTM os seguintes documentos:
+
+a) Os cálculos da estabilidade em avaria para o pior cenário de avaria SOLAS e a meio navio (se diferentes);
+
+b) O desenho do arranjo geral do modelo e os elementos de construção e instrumentação;
+
+c) As provas de estabilidade e as medições dos raios de giração;
+
+d) Os espectros das ondas, nominais e medidos (nas três diferentes localizações seleccionadas para garantir uma ondulação representativa e, em relação aos ensaios com modelo, na sonda mais próxima do aparelho gerador de ondulação);
+
+e) Um registo representativo dos movimentos, do comportamento e da deriva do modelo;
+
+f) As gravações vídeo pertinentes.
+
+Nota. - Todos os ensaios devem ser testemunhados pelo IPTM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 188/2006 - Diário da República n.º 183/2006, Série I de 2006-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2006-541783), em vigor a partir de 2006-09-26
+
+## Anexo III — Conteúdo da notificação
+
+(a que se refere o n.º 3 do artigo 6.º)
+
+Dados a notificar nos termos do n.º 3 do artigo 6.º do presente decreto-lei:
+
+I - Dados gerais:
+
+1 - Prescrições de estabilidade aplicáveis: partes i ou ii do anexo i do presente decreto-lei;
+
+2 - Número de identificação do navio (número IMO, indicativo de chamada rádio);
+
+3 - Informações principais;
+
+4 - Plano do convénio geral;
+
+5 - Número de pessoas a bordo;
+
+6 - GT;
+
+7 - O navio tem duas extremidades: Sim/Não;
+
+8 - O navio tem porões mais baixos: Sim/Não.
+
+II - Dados específicos - para os navios ro-ro de passageiros sujeitos às prescrições probabilísticas previstas na Convenção SOLAS:
+
+1 - dl, dp, ds;
+
+2 - R - índice exigido;
+
+3 - Plano de disposição (plano de estanquidade) para os subcompartimentos com todos os pontos de abertura internos e exteriores, incluindo os subcompartimentos conectados, e as especificações utilizadas na medição dos espaços, tais como o plano de organização geral e o plano relativo ao depósito de combustível; os limites de subdivisão, longitudinais, transversais e verticais, devem ser incluídos (1);
+
+4 - Índice de subdivisão A atingido com um quadro recapitulativo de todas as contribuições para todas as zonas danificadas (2), com uma coluna separada com o índice de subdivisão realizável (w*p*v);
+
+5 - Para os casos de zonas danificadas 1 e 2, a percentagem de casos de avaria que não foram investigados [ou seja, casos não incluídos no fator (w*p*v)], em que s = 0, s = 1 e 0 < s < 1;
+
+6 - Para os casos de zonas danificadas 1 e 2, a percentagem de casos de avaria envolvendo espaços ro-ro que não foram investigados [ou seja, casos não incluídos no fator (w*p*v)], em que s = 0, s = 1 e 0 < s < 1;
+
+7 - Para cada dano que contribua para o índice de subdivisão A atingido, identificação dos espaços alagados, valor de contribuição e fator «s» (3);
+
+8 - Especificidades dos danos não contributivos (s = 0 e p > 0) para os navios ro-ro de passageiros equipados com porões longos e inferiores, incluindo pormenores completos dos fatores calculados (4).
+
+III - Dados específicos - para os navios ro-ro de passageiros a se que aplica a parte ii do anexo i:
+
+1 - Método de conformidade:
+
+Testes de modelos;
+
+Cálculos;
+
+Indicar se os cálculos da água no convés foram evitados devido, por exemplo, ao facto de o bordo livre residual ser superior a 2,0 m em todos os casos de avaria: Sim/Não;
+
+2 - Altura significativa da onda nos termos do Decreto-Lei n.º 204/2005, de 25 de novembro, na sua redação atual.
+
+(1) Esta documentação deve ser apresentada à DGRM em conformidade com o ponto 2.2 do apêndice da Resolução MSC.429(98) da OMI.
+
+(2) Esta documentação deve ser apresentada à DGRM em conformidade com o ponto 2.3.1 do apêndice da Resolução MSC.429(98) da OMI.
+
+(3) Esta documentação deve ser apresentada às administrações à DGRM em conformidade com o ponto 2.3.1 do apêndice da Resolução MSC.429(98) da OMI.
+
+(4) Esta documentação deve ser apresentada à DGRM em conformidade com o ponto 2.3.1 do apêndice da Resolução MSC.429(98) da OMI.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 100/2024 - Diário da República n.º 235/2024, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2024-898867716), em vigor a partir de 2024-12-09

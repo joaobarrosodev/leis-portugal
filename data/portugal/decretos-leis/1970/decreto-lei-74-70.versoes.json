@@ -1,0 +1,252 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:228449:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1970-867159078",
+ "dre_path": "/dr/detalhe/decreto-lei/74-1970-228449",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1970-03-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "867157633",
+    "867157634",
+    "867157635",
+    "867157636",
+    "867157637"
+   ]
+  },
+  {
+   "date": "1976-11-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:409291:por",
+     "title": "Decreto-Lei n.º 793/76",
+     "published": "1976-11-05",
+     "dre_path": "/dr/detalhe/decreto-lei/793-1976-409291"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "867157633",
+    "867157645",
+    "867157635",
+    "867157636",
+    "867157637",
+    "867157638"
+   ]
+  },
+  {
+   "date": "1993-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:686384:por",
+     "title": "Decreto-Lei n.º 275-A/93",
+     "published": "1993-08-09",
+     "dre_path": "/dr/detalhe/decreto-lei/275-a-1993-686384"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "867157633",
+    "867157645",
+    "867157646",
+    "867157636",
+    "867157637",
+    "867157638"
+   ]
+  },
+  {
+   "date": "2000-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:643282:por",
+     "title": "Decreto-Lei n.º 503/99",
+     "published": "1999-11-20",
+     "dre_path": "/dr/detalhe/decreto-lei/503-1999-643282"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "867157633",
+    "867157647",
+    "867157646",
+    "867157636",
+    "867157648",
+    "867157638"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:529450:por",
+     "title": "Lei n.º 67-A/2007",
+     "published": "2007-12-31",
+     "dre_path": "/dr/detalhe/lei/67-a-2007-529450"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "867157633",
+    "867157647",
+    "867157646",
+    "867157636",
+    "867157649",
+    "867157638"
+   ]
+  },
+  {
+   "date": "2013-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:484160:por",
+     "title": "Lei n.º 80/2013",
+     "published": "2013-11-28",
+     "dre_path": "/dr/detalhe/lei/80-2013-484160"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "867157633",
+    "867157674",
+    "867157646",
+    "867157636",
+    "867157649",
+    "867157638"
+   ]
+  }
+ ],
+ "fragments": {
+  "867157633": {
+   "fragment_id": "867159079",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 74/70\n\nA cobertura dos riscos por prejuízos causados no património do Estado, provenientes de circunstâncias acidentais ou fortuitas, é assegurada directamente pelos réditos do Tesouro, ao qual cabe também a responsabilidade pelos danos derivados de quaisquer acidentes no trabalho, resultantes do exercício normal das funções dos servidores do Estado ou de quaisquer indivíduos que lhe prestem serviço.\n\nA adopção deste princípio tem originado a inscrição em orçamento de diversas dotações, para fazer face às correspondentes despesas, mas, porque se não tomaram disposições que permitissem a constituição das reservas apropriadas, já se tem verificado que os encargos reais a suportar, atingindo montantes consideráveis, obrigam à alteração do plano financeiro estudado para o respectivo ano económico, o que nem sempre se mostra de fácil execução.\n\nPara obviar a tais inconvenientes, tomam-se pelo presente diploma providências no sentido de se constituir em operações de tesouraria uma reserva pecuniária que a todo o tempo possa ser utilizada para ocorrer a essas despesas imprevistas.\n\nA solução agora adoptada tem uma base empírica.\n\nEspera-se, no entanto, que, através da centralização dos elementos a obter por força deste diploma, se consiga a acumulação de dados técnicos que permitam o oportuno aperfeiçoamento do sistema de determinação do montante das reservas adequadas.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "867157634": {
+   "fragment_id": "867159080",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. No orçamento do Ministério das Finanças, no capítulo consignado à Secretaria-Geral, é anualmente inscrita uma verba destinada ao pagamento das despesas:\n\na) Com a reconstituição de bens afectos ao património do Estado, perdidos ou destruídos por causas imprevistas ou acidentais, como incêndio, inundação ou outra semelhante;\n\nb) Com as derivadas de acidentes em serviço, nos termos da Lei n.º 1942, de 27 de Julho de 1936, do Decreto-Lei n.º 38523, de 23 de Novembro de 1951, e legislação complementar;\n\nc) Com as que o Estado seja compelido a pagar, por sentença dos tribunais com trânsito em julgado;\n\nd) Com indemnizações para compensação de danos causados a terceiros;\n\ne) Com tratamentos e outras despesas com sinistrados.\n\n2. O montante da verba a inscrever será determinado pelo Ministro das Finanças, atentos os encargos previstos no artigo anterior, e obedecerá às possibilidades do Tesouro verificadas em cada ano."
+  },
+  "867157635": {
+   "fragment_id": "867159081",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O saldo apresentado no fim de cada ano económico pela dotação a que se refere o artigo precedente será levantado pela Direcção-Geral da Fazenda Pública e depositado em operações de tesouraria.\n\n2. As reservas acumuladas na conta criada por este artigo poderão servir de contrapartida, mediante autorização do Ministro das Finanças, ao reforço da verba a que se alude no artigo 1.º do presente diploma."
+  },
+  "867157636": {
+   "fragment_id": "867159082",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os processos das correspondentes despesas continuarão a ser organizados nos serviços que derem lugar ao respectivo encargo até à fase de se ordenar o pagamento, altura em que transitarão para a Secretaria-Geral do Ministério das Finanças.\n\n2. Esta Secretaria-Geral expedirá as instruções que forem necessárias à boa execução do presente diploma, depois de aprovadas pelo Ministro das Finanças."
+  },
+  "867157637": {
+   "fragment_id": "867159083",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As disposições deste decreto-lei não se aplicam aos serviços com autonomia administrativa e financeira e àqueles que tenham receitas próprias.\n\n2. É revogado o artigo 28.º do Decreto-Lei n.º 38523, de 23 de Novembro de 1951, mantendo-se em vigor o seu § único, para aplicação aos serviços que menciona."
+  },
+  "867157645": {
+   "fragment_id": "867159080",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1976-11-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 793/76 - Diário da República n.º 259/1976, Série I de 1976-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1976-409291), em vigor a partir de 1976-11-06"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. No Orçamento do Ministério das Finanças, no capítulo «Despesas comuns», é anualmente inscrita uma Verba destinada ao pagamento das despesas:\n\na) Com a reconstituição de bens afectos ao património do Estado, perdidos ou destruídos por causas imprevistas ou acidentais, como incêndio, inundação ou outra semelhante;\n\nb) Com as derivadas de acidentes em serviço, nos termos da Lei n.º 1942, de 27 de Julho de 1936, do Decreto-Lei n.º 38523, de 23 de Novembro de 1951, e legislação complementar;\n\nc) Com as que o Estado seja compelido a pagar, por sentença dos tribunais com trânsito em julgado;\n\nd) Com indemnizações para compensação de danos causados a terceiros;\n\ne) Com tratamentos e outras despesas com sinistrados;\n\nf) Com indemnizações resultantes da responsabilidade em que o Estado Português possa vir a constituir-se, nos termos do direito internacional público.\n\n2. O montante da verba a inscrever será determinado pelo Ministro das Finanças, atentos os encargos previstos no artigo anterior, e obedecerá às possibilidades do Tesouro verificadas em cada ano.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 793/76 - Diário da República n.º 259/1976, Série I de 1976-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1976-409291), em vigor a partir de 1976-11-06"
+  },
+  "867157638": {
+   "fragment_id": "867159084",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 20 de Fevereiro de 1970.\n\nPublique-se.\n\nPresidência da República, 2 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "867157646": {
+   "fragment_id": "867159081",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1993-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 275-A/93 - Diário da República n.º 185/1993, 1º Suplemento, Série I-A de 1993-08-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-1993-686384), em vigor a partir de 1993-08-14"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. O saldo apresentado no fim de cada ano económico pela dotação a que se refere o artigo precedente será levantado pela Direcção-Geral da Fazenda Pública e depositado em operações de tesouraria.\n\n2. As reservas acumuladas na conta criada por este artigo poderão servir de contrapartida, mediante autorização do Ministro das Finanças, ao reforço da verba a que se alude no artigo 1.º do presente diploma.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 275-A/93 - Diário da República n.º 185/1993, 1º Suplemento, Série I-A de 1993-08-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-a-1993-686384), em vigor a partir de 1993-08-14"
+  },
+  "867157647": {
+   "fragment_id": "867159080",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2000-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 793/76 - Diário da República n.º 259/1976, Série I de 1976-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1976-409291), em vigor a partir de 1976-11-06"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. No Orçamento do Ministério das Finanças, no capítulo «Despesas comuns», é anualmente inscrita uma Verba destinada ao pagamento das despesas:\n\na) Com a reconstituição de bens afectos ao património do Estado, perdidos ou destruídos por causas imprevistas ou acidentais, como incêndio, inundação ou outra semelhante;\n\nb) [Revogada.]\n\nc) Com as que o Estado seja compelido a pagar, por sentença dos tribunais com trânsito em julgado;\n\nd) Com indemnizações para compensação de danos causados a terceiros;\n\ne) [Revogada.]\n\nf) Com indemnizações resultantes da responsabilidade em que o Estado Português possa vir a constituir-se, nos termos do direito internacional público.\n\n2. O montante da verba a inscrever será determinado pelo Ministro das Finanças, atentos os encargos previstos no artigo anterior, e obedecerá às possibilidades do Tesouro verificadas em cada ano.\n\n> Alterado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 793/76 - Diário da República n.º 259/1976, Série I de 1976-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1976-409291), em vigor a partir de 1976-11-06"
+  },
+  "867157648": {
+   "fragment_id": "867159083",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2000-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. As disposições deste decreto-lei não se aplicam aos serviços com autonomia administrativa e financeira e àqueles que tenham receitas próprias.\n\n2. (Revogado.)\n\n> Alterado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01"
+  },
+  "867157649": {
+   "fragment_id": "867159083",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 132.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - As disposições do presente decreto-lei não se aplicam aos serviços com autonomia administrativa e financeira, nem aos dotados de autonomia administrativa e receitas próprias não consignadas, independentemente do valor dessas receitas.\n\n2. (Revogado.)\n\n3 - As custas processuais, multas, actos avulsos e juros de mora inerentes a processos judiciais devidos por quaisquer entidades públicas são suportados directamente pelo serviço a que pertença o órgão que, de acordo com a respectiva esfera de competências, deu origem à causa, entendendo-se como tal aquele:\n\na) Que retira utilidade directa ou no qual se projecta o prejuízo derivado da procedência da acção; ou\n\nb) A que é imputável o acto jurídico impugnado ou sobre o qual recai o dever de praticar os actos jurídicos ou observar os comportamentos pretendidos.\n\n4 - Quando forem vários os serviços que deram origem à causa, compete à secretaria-geral do ministério ou, quando pertençam a diferentes ministérios, à secretaria-geral daquele que figure primeiramente na Lei Orgânica do Governo em vigor no momento da liquidação, proceder ao pagamento, sem prejuízo do direito de regresso, calculado em função da divisão do valor total das custas pelo número de serviços envolvidos.\n\n5 - O pagamento de custas, de multas processuais ou de juros de mora referentes a processos judiciais que tenham por objecto actos dos membros do Governo proferidos no âmbito de recursos administrativos compete aos serviços que praticaram a decisão recorrida.\n\n6 - Quando a entidade responsável nos termos dos números anteriores não possuir personalidade jurídica, as custas são suportadas pela pessoa colectiva que exerça tutela sobre aquela ou a quem incumba a gestão financeira da referida entidade.\n\n7 - Os encargos referidos no n.º 3 decorrentes de actos praticados pelo Conselho de Ministros são suportados pela Secretaria-Geral da Presidência do Conselho de Ministros, para a qual a Secretaria-Geral do Ministério das Finanças e da Administração Pública transfere as correspondentes verbas, quando for necessário, mediante autorização do membro do Governo responsável pela área das finanças.\n\n> Alterado pelo/a Artigo 132.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01"
+  },
+  "867157674": {
+   "fragment_id": "867159080",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2013-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 36.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01",
+    "Alterado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 793/76 - Diário da República n.º 259/1976, Série I de 1976-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1976-409291), em vigor a partir de 1976-11-06"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. No Orçamento do Ministério das Finanças, no capítulo «Despesas comuns», é anualmente inscrita uma Verba destinada ao pagamento das despesas:\n\na) Com a reconstituição de bens afectos ao património do Estado, perdidos ou destruídos por causas imprevistas ou acidentais, como incêndio, inundação ou outra semelhante;\n\nb) [Revogada.]\n\nc) Com as que o Estado seja compelido a pagar, por sentença dos tribunais com trânsito em julgado;\n\nd) Com indemnizações para compensação de danos causados a terceiros;\n\ne) [Revogada.]\n\nf) Com as compensações previstas na lei que estabelece o regime jurídico da requalificação de trabalhadores em funções públicas, no âmbito da administração central do Estado.\n\n2. O montante da verba a inscrever será determinado pelo Ministro das Finanças, atentos os encargos previstos no artigo anterior, e obedecerá às possibilidades do Tesouro verificadas em cada ano.\n\n> Alterado pelo/a Artigo 36.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01\n\n> Alterado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 503/99 - Diário da República n.º 271/1999, Série I-A de 1999-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1999-643282), em vigor a partir de 2000-05-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 793/76 - Diário da República n.º 259/1976, Série I de 1976-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1976-409291), em vigor a partir de 1976-11-06"
+  }
+ }
+}

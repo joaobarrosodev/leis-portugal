@@ -1,0 +1,325 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31977L0249:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01977L0249-20130701",
+ "dre_path": null,
+ "source_lastmod": "2013-07-01",
+ "versions": [
+  {
+   "date": "1977-03-26",
+   "future": false,
+   "celex": "31977L0249",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2eadee2d555c218a",
+    "25e86b1b020075d1",
+    "9527c79cdad1166d",
+    "25c9a92adf35fbde",
+    "4ac518cdcd07157c",
+    "58be2b501faac28e",
+    "e9b60016114ecae4",
+    "00e5124d4a27b80e",
+    "728576cc3dd41fc8",
+    "0d9900ce5fee4140"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01977L0249-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006L0100:por",
+     "title": "DIRECTIVA 2006/100/CE DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006L0100"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "►A2",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o"
+   ],
+   "fragments": [
+    "783ff9cc65954e9c",
+    "95d176df8dd21fcb",
+    "fa00315561daf2ce",
+    "1e67b56309f869e9",
+    "c3899afec1974726",
+    "e1db79a8d8e71cf2",
+    "426135f5799656c5",
+    "580c7ba093dd27da",
+    "08559a57ba22ebf3",
+    "4045616d41792800",
+    "3a022f1d7b058915"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "01977L0249-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0025:por",
+     "title": "DIRETIVA 2013/25/UE DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013L0025"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "832f7a46cc8cd71d",
+    "b939a453c0026ea3",
+    "fa00315561daf2ce",
+    "1e67b56309f869e9",
+    "c3899afec1974726",
+    "e1db79a8d8e71cf2",
+    "426135f5799656c5",
+    "580c7ba093dd27da",
+    "08559a57ba22ebf3",
+    "4045616d41792800",
+    "82b17a52441703f8"
+   ]
+  }
+ ],
+ "fragments": {
+  "2eadee2d555c218a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 77/249/CEE do Conselho, de 22 de Março de 1977, tendente a facilitar o exercício efectivo da livre prestação de serviços pelos advogados** *Jornal Oficial nº L 078 de 26/03/1977 p. 0017 - 0018 Edição especial finlandesa: Capítulo 6 Fascículo 1 p. 0196 Edição especial grega: Capítulo 06 Fascículo 1 p. 0249 Edição especial sueca: Capítulo 6 Fascículo 1 p. 0196 Edição especial espanhola: Capítulo 06 Fascículo 1 p. 0224 Edição especial portuguesa: Capítulo 06 Fascículo 1 p. 0224*\n\nDIRECTIVA DO CONSELHO de 22 de Março de 1977 tendente a facilitar o exercício efectivo da livre prestação de serviços pelos advogados\n\n(77/249/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 57o e 66o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, em aplicação do Tratado, toda e qualquer restrição em matéria de prestação de serviços em razão da nacionalidade ou da residência está proibida desde o termo do período de transição;\n\nConsiderando que a presente directiva apenas se refere às medidas destinadas a facilitar o exercício efectivo das actividades de advogado sob a forma de prestação de serviços; que serão necessárias medidas mais elaboradas para facilitar o exercício efectivo do direito de estabelecimento;\n\nConsiderando que o exercício efectivo das actividades de advogado sob a forma de prestação de serviços pressupõe que o Estado-membro de acolhimento reconheça a qualidade de advogado às pessoas que exerçam esta profissão nos diversos Estados-membros;\n\nConsiderando que, referindo-se a presente directiva apenas à prestação de serviços e não sendo acompanhada de disposições relativas ao reconhecimento mútuo dos diplomas, o beneficiário da directiva deve usar o título profissional adoptado no Estado-membro em que esteja estabelecido, a seguir denominado «Estado-membro de proveniência»,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "25e86b1b020075d1": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\n1. A presente directiva é aplicável, nos limites e condições previstos, às actividades de advogado exercidas sob a forma de prestação de serviços.\n\nNão obstante o disposto na presente directiva, os Estados-membros podem reservar para determinadas categorias de advogados a competência para a elaboração de documentos autênticos que confiram poderes para administrar os bens de pessoas falecidas ou digam respeito à constituição ou à transmissão de direitos reais sobre bens imóveis.\n\n2. Por «advogado» entende-se qualquer pessoa habilitada para exercer as suas actividades profissionais sob uma das denominações seguintes:\n\nBélgica: avocat/advocaat,\n\nDinamarca: advokat,\n\nRepública Federal da Alemanha: Rechtsanwalt,\n\nFrança: avocat,\n\nIrlanda:\n\nbarrister,\n\nsolicitor,\n\nItália: avvocato,\n\nLuxemburgo: avocat-avoué,\n\nHolanda: advocaat,\n\nReino Unido:\n\nadvocate,\n\nbarrister,\n\nsolicitor."
+  },
+  "9527c79cdad1166d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nPara o exercício das actividades referidas no no 1 do artigo 1o, cada Estado-membro reconhecerá a qualidade de advogado a qualquer das pessoas mencionadas no no 2 do citado artigo."
+  },
+  "25c9a92adf35fbde": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nQualquer das pessoas mencionadas no artigo 1o deve usar o título profissional próprio, expresso na ou numa das línguas do Estado-membro de proveniência, com indicação da organização profissional a que esteja sujeita ou da jurisdição junto da qual se encontre admitida nos termos da legislação desse Estado."
+  },
+  "4ac518cdcd07157c": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. As actividades relativas à representação e à defesa de um cliente em juízo ou perante autoridades públicas serão exercidas em cada Estado-membro de acolhimento nas condições previstas quanto aos advogados estabelecidos nesse Estado, com exclusão de qualquer requisito de residência ou de inscrição numa organização profissional no referido Estado.\n\n2. No exercício destas actividades, o advogado respeitará as regras profissionais do Estado-membro de acolhimento, sem prejuízo das obrigações a que esteja sujeito no Estado-membro de proveniência.\n\n3. Se essas actividades forem exercidas no Reino Unido, entendem-se por «regras profissionais do Estado-membro de acolhimento» as dos «solicitors», desde que tais actividades não estejam reservadas aos «barristers» ou aos «advocates». No caso contrário, serão aplicáveis as regras profissionais relativas aos últimos. Todavia, os «barristers» provenientes da Irlanda ficarão sempre sujeitos às regras profissionais dos «barristers» ou dos «advocates» do Reino Unido.\n\nSe essas actividades forem exercidas na Irlanda, entendem-se por «regras profissionais do Estado-membro de acolhimento» as dos «barristers», desde que se trate de regras profissionais que regulamentem a apresentação oral de uma causa em tribunal. Em todos os demais casos, serão aplicáveis as regras profissionais dos «solicitors». Todavia, os «barristers» e os «advocates» provenientes do Reino Unido ficarão sempre sujeitos às regras profissionais dos «barristers» da Irlanda.\n\n4. No que respeita ao exercício de actividades diferentes das referidas no no 1, o advogado continuará sujeito às condições e regras profissionais do Estado-membro de proveniência, sem prejuízo do respeito das regras, seja qual for a sua origem, que regulamentam a profissão no Estado-membro de acolhimento, nomeadamente, as relativas às incompatibilidades entre o exercício das actividades de advogado e o de outras actividades nesse Estado, do segredo profissional, às relações entre colegas, à proibição de assistência pelo mesmo advogado a partes com interesses opostos, e à publicidade. Tais regras só serão aplicáveis se puderem ser cumpridas por um advogado não estabelecido no Estado-membro de acolhimento e na medida em que o seu cumprimento se justifique objectivamente para assegurar, nesse Estado, o exercício correcto das actividades do advogado, a dignidade da profissão e o respeito das incompatibilidades."
+  },
+  "58be2b501faac28e": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nNo que respeita ao exercício das actividades relativas à representação e à defesa de um cliente em juízo, os Estados-membros podem exigir aos advogados mencionados no artigo 1o:\n\n- que, de acordo com as regras ou usos locais, sejam apresentados ao presidente da jurisdição e, se for caso disso, ao bastonário competente no Estado-membro de acolhimento;\n\n- que actuem de concerto, quer com um advogado que exerça perante a jurisdição competente e que será, se necessário, responsável perante essa jurisdição, quer com um «avoué» ou um «procuratore» que exerçam perante essa jurisdição."
+  },
+  "e9b60016114ecae4": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nOs Estados-membros podem excluir os advogados assalariados, vinculados por um contrato de trabalho a uma empresa pública ou privada, do exercício das actividades de representação e de defesa em juízo dessa empresa, na medida em que os advogados estabelecidos nesse Estado não estiverem autorizados a exercê-las."
+  },
+  "00e5124d4a27b80e": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. A autoridade competente do Estado-membro de acolhimento pode pedir ao prestador de serviços a prova da sua qualidade de advogado.\n\n2. Em caso de não cumprimento das obrigações em vigor no Estado-membro de acolhimento, previstas no artigo 4o, a autoridade competente deste último determinará as consequências respectivas, de acordo com as suas próprias regras de direito e de processo, e pode, para tanto, recolher as informações de carácter profissional úteis, respeitantes ao prestador dos serviços; informará a autoridade competente do Estado-membro de proveniência de qualquer decisão tomada. Estas comunicações não alteram a natureza confidencial das informações fornecidas."
+  },
+  "728576cc3dd41fc8": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Os Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva no prazo de dois anos a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "0d9900ce5fee4140": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nOs Estados-membros são destinatários da presente directiva.\n\nFeito em Bruxelas em 22 de Março de 1977.\n\nPelo Conselho\n\nO Presidente\n\nJudith HART\n\n(1) JO no C 103 de 5. 10. 1972, p. 19, JO no C 53 de 8. 3. 1976, p. 33.(2) JO no C 36 de 28. 3. 1970, p. 37, JO no C 50 de 4. 3. 1976, p. 17."
+  },
+  "783ff9cc65954e9c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Março de 1977\n\ntendente a facilitar o exercício efectivo da livre prestação de serviços pelos advogados\n\n(77/249/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 57.º e 66.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/dec7c8d6-0072-4c49-8416-a72c939bb6c9.0017.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/dec7c8d6-0072-4c49-8416-a72c939bb6c9.0017.03/DOC_1#E0002)),\n\nConsiderando que, em aplicação do Tratado, toda e qualquer restrição em matéria de prestação de serviços em razão da nacionalidade ou da residência está proibida desde o termo do período de transição;\n\nConsiderando que a presente directiva apenas se refere às medidas destinadas a facilitar o exercício efectivo das actividades de advogado sob a forma de prestação de serviços; que serão necessárias medidas mais elaboradas para facilitar o exercício efectivo do direito de estabelecimento;\n\nConsiderando que o exercício efectivo das actividades de advogado sob a forma de prestação de serviços pressupõe que o Estado-membro de acolhimento reconheça a qualidade de advogado às pessoas que exerçam esta profissão nos diversos Estados-membros;\n\nConsiderando que, referindo-se a presente directiva apenas à prestação de serviços e não sendo acompanhada de disposições relativas ao reconhecimento mútuo dos diplomas, o beneficiário da directiva deve usar o título profissional adoptado no Estado-membro em que esteja estabelecido, a seguir denominado «Estado-membro de proveniência»,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "95d176df8dd21fcb": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é aplicável, nos limites e condições previstos, às actividades de advogado exercidas sob a forma de prestação de serviços.\n\nNão obstante o disposto na presente directiva, os Estados-membros podem reservar para determinadas categorias de advogados a competência para a elaboração de documentos autênticos que confiram poderes para administrar os bens de pessoas falecidas ou digam respeito à constituição ou à transmissão de direitos reais sobre bens imóveis.\n\n2. Por «advogado» entende-se qualquer pessoa habilitada para exercer as suas actividades profissionais sob uma das denominações seguintes:\n\n| Bélgica: | avocat/advocaat, |\n| --- | --- |\n| Dinamarca: | advokat, |\n| República Federal da Alemanha: | Rechtsanwalt, |\n| França: | avocat, |\n| Irlanda: | barrister, solicitor, |\n| Itália: | avvocato, |\n| Luxemburgo: | avocat-avoué, |\n| Holanda: | advocaat, |\n| Reino Unido: | advocate, barrister, solicitor, |\n| [▼A1](http://publications.europa.eu/resource/celex/11979H) |  |\n| Grécia: | δικηγόρος, |\n| [▼A2](http://publications.europa.eu/resource/celex/11985I) |  |\n| Espanha: | abogado, |\n| Portugal: | advogado, |\n| [▼](http://publications.europa.eu/resource/celex/31995D0001) |  |\n| Áustria: | Rechtsanwalt, |\n| Finlândia: | asianajajaadvokat, |\n| Suécia: | advokat, |\n| [▼A4](http://publications.europa.eu/resource/celex/12003T) |  |\n| República Checa: | Advokát, |\n| Estónia: | Vandeadvokaat, |\n| Chipre: | Δικηγόρος, |\n| Letónia: | Zvērināts advokāts, |\n| Lituânia: | Advokatas, |\n| Hungria: | Ügyvéd, |\n| Malta: | Avukat/Prokuratur Legali, |\n| Polónia: | Adwokat/Radca prawny, |\n| Eslovénia: | Odvetnik/Odvetnica, |\n| Eslováquia | Advokát/Komerčný právnik, |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0100) |  |\n| Bulgária: | Aдвокат, |\n| Roménia: | Avocat. |\n| [▼B](http://publications.europa.eu/resource/celex/31977L0249) |  |"
+  },
+  "fa00315561daf2ce": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara o exercício das actividades referidas no n.º 1 do artigo 1.º, cada Estado-membro reconhecerá a qualidade de advogado a qualquer das pessoas mencionadas no n.º 2 do citado artigo."
+  },
+  "1e67b56309f869e9": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nQualquer das pessoas mencionadas no artigo 1.º deve usar o título profissional próprio, expresso na ou numa das línguas do Estado-membro de proveniência, com indicação da organização profissional a que esteja sujeita ou da jurisdição junto da qual se encontre admitida nos termos da legislação desse Estado."
+  },
+  "c3899afec1974726": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As actividades relativas à representação e à defesa de um cliente em juízo ou perante autoridades públicas serão exercidas em cada Estado-membro de acolhimento nas condições previstas quanto aos advogados estabelecidos nesse Estado, com exclusão de qualquer requisito de residência ou de inscrição numa organização profissional no referido Estado.\n\n2. No exercício destas actividades, o advogado respeitará as regras profissionais do Estado-membro de acolhimento, sem prejuízo das obrigações a que esteja sujeito no Estado-membro de proveniência.\n\n3. Se essas actividades forem exercidas no Reino Unido, entendem-se por «regras profissionais do Estado-membro de acolhimento» as dos «solicitors», desde que tais actividades não estejam reservadas aos «barristers» ou aos «advocates». No caso contrário, serão aplicáveis as regras profissionais relativas aos últimos. Todavia, os «barristers» provenientes da Irlanda ficarão sempre sujeitos às regras profissionais dos «barristers» ou dos «advocates» do Reino Unido.\n\nSe essas actividades forem exercidas na Irlanda, entendem-se por «regras profissionais do Estado-membro de acolhimento» as dos «barristers», desde que se trate de regras profissionais que regulamentem a apresentação oral de uma causa em tribunal. Em todos os demais casos, serão aplicáveis as regras profissionais dos «solicitors». Todavia, os «barristers» e os «advocates» provenientes do Reino Unido ficarão sempre sujeitos às regras profissionais dos «barristers» da Irlanda.\n\n4. No que respeita ao exercício de actividades diferentes das referidas no n.º 1, o advogado continuará sujeito às condições e regras profissionais do Estado-membro de proveniência, sem prejuízo do respeito das regras, seja qual for a sua origem, que regulamentam a profissão no Estado-membro de acolhimento, nomeadamente, as relativas às incompatibilidades entre o exercício das actividades de advogado e o de outras actividades nesse Estado, do segredo profissional, às relações entre colegas, à proibição de assistência pelo mesmo advogado a partes com interesses opostos, e à publicidade. Tais regras só serão aplicáveis se puderem ser cumpridas por um advogado não estabelecido no Estado-membro de acolhimento e na medida em que o seu cumprimento se justifique objectivamente para assegurar, nesse Estado, o exercício correcto das actividades do advogado, a dignidade da profissão e o respeito das incompatibilidades."
+  },
+  "e1db79a8d8e71cf2": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNo que respeita ao exercício das actividades relativas à representação e à defesa de um cliente em juízo, os Estados-membros podem exigir aos advogados mencionados no artigo 1.º:\n\n— que, de acordo com as regras ou usos locais, sejam apresentados ao presidente da jurisdição e, se for caso disso, ao bastonário competente no Estado-membro de acolhimento;\n\n— que actuem de concerto, quer com um advogado que exerça perante a jurisdição competente e que será, se necessário, responsável perante essa jurisdição, quer com um «avoué» ou um «procuratore» que exerçam perante essa jurisdição."
+  },
+  "426135f5799656c5": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros podem excluir os advogados assalariados, vinculados por um contrato de trabalho a uma empresa pública ou privada, do exercício das actividades de representação e de defesa em juízo dessa empresa, na medida em que os advogados estabelecidos nesse Estado não estiverem autorizados a exercê-las."
+  },
+  "580c7ba093dd27da": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A autoridade competente do Estado-membro de acolhimento pode pedir ao prestador de serviços a prova da sua qualidade de advogado.\n\n2. Em caso de não cumprimento das obrigações em vigor no Estado-membro de acolhimento, previstas no artigo 4.º, a autoridade competente deste último determinará as consequências respectivas, de acordo com as suas próprias regras de direito e de processo, e pode, para tanto, recolher as informações de carácter profissional úteis, respeitantes ao prestador dos serviços; informará a autoridade competente do Estado-membro de proveniência de qualquer decisão tomada. Estas comunicações não alteram a natureza confidencial das informações fornecidas."
+  },
+  "08559a57ba22ebf3": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Os Estados-membros tomarão as medidas necessárias para darem cumprimento à presente directiva no prazo de dois anos a contar da sua notificação. Desse facto informarão imediatamente a Comissão.\n\n2. Os Estados-membros comunicarão à Comissão o texto das principais disposições de direito nacional que adoptem no domínio regulado pela presente directiva."
+  },
+  "4045616d41792800": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs Estados-membros são destinatários da presente directiva.\n\n---"
+  },
+  "3a022f1d7b058915": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/dec7c8d6-0072-4c49-8416-a72c939bb6c9.0017.03/DOC_1#src.E0001)) JO n.º C 103 de 5. 10. 1972, p. 19.\n\n> JO n.º C 53 de 8. 3. 1976, p. 33.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/dec7c8d6-0072-4c49-8416-a72c939bb6c9.0017.03/DOC_1#src.E0002)) JO n.º C 36 de 28. 3. 1970, p. 37.\n\n> JO n.º C 50 de 4. 3. 1976, p. 17."
+  },
+  "832f7a46cc8cd71d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Março de 1977\n\ntendente a facilitar o exercício efectivo da livre prestação de serviços pelos advogados\n\n(77/249/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, os seus artigos 57.º e 66.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/8aec1914-fe82-4a3a-89cf-5df7bf6f2d82.0018.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/8aec1914-fe82-4a3a-89cf-5df7bf6f2d82.0018.02/DOC_1#E0002)),\n\nConsiderando que, em aplicação do Tratado, toda e qualquer restrição em matéria de prestação de serviços em razão da nacionalidade ou da residência está proibida desde o termo do período de transição;\n\nConsiderando que a presente directiva apenas se refere às medidas destinadas a facilitar o exercício efectivo das actividades de advogado sob a forma de prestação de serviços; que serão necessárias medidas mais elaboradas para facilitar o exercício efectivo do direito de estabelecimento;\n\nConsiderando que o exercício efectivo das actividades de advogado sob a forma de prestação de serviços pressupõe que o Estado-membro de acolhimento reconheça a qualidade de advogado às pessoas que exerçam esta profissão nos diversos Estados-membros;\n\nConsiderando que, referindo-se a presente directiva apenas à prestação de serviços e não sendo acompanhada de disposições relativas ao reconhecimento mútuo dos diplomas, o beneficiário da directiva deve usar o título profissional adoptado no Estado-membro em que esteja estabelecido, a seguir denominado «Estado-membro de proveniência»,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "b939a453c0026ea3": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é aplicável, nos limites e condições previstos, às actividades de advogado exercidas sob a forma de prestação de serviços.\n\nNão obstante o disposto na presente directiva, os Estados-membros podem reservar para determinadas categorias de advogados a competência para a elaboração de documentos autênticos que confiram poderes para administrar os bens de pessoas falecidas ou digam respeito à constituição ou à transmissão de direitos reais sobre bens imóveis.\n\n2. Por «advogado» entende-se qualquer pessoa habilitada para exercer as suas actividades profissionais sob uma das denominações seguintes:\n\n| Bélgica: | avocat/advocaat, |\n| --- | --- |\n| Dinamarca: | advokat, |\n| República Federal da Alemanha: | Rechtsanwalt, |\n| França: | avocat, |\n| Irlanda: | barrister, solicitor, |\n| Itália: | avvocato, |\n| Luxemburgo: | avocat-avoué, |\n| Holanda: | advocaat, |\n| Reino Unido: | advocate, barrister, solicitor, |\n| [▼A1](http://publications.europa.eu/resource/celex/11979H) |  |\n| Grécia: | δικηγόρος, |\n| [▼A2](http://publications.europa.eu/resource/celex/11985I) |  |\n| Espanha: | abogado, |\n| Portugal: | advogado, |\n| [▼](http://publications.europa.eu/resource/celex/31995D0001) |  |\n| Áustria: | Rechtsanwalt, |\n| Finlândia: | asianajajaadvokat, |\n| Suécia: | advokat, |\n| [▼A4](http://publications.europa.eu/resource/celex/12003T) |  |\n| República Checa: | Advokát, |\n| Estónia: | Vandeadvokaat, |\n| Chipre: | Δικηγόρος, |\n| Letónia: | Zvērināts advokāts, |\n| Lituânia: | Advokatas, |\n| Hungria: | Ügyvéd, |\n| Malta: | Avukat/Prokuratur Legali, |\n| Polónia: | Adwokat/Radca prawny, |\n| Eslovénia: | Odvetnik/Odvetnica, |\n| Eslováquia | Advokát/Komerčný právnik, |\n| [▼M1](http://publications.europa.eu/resource/celex/32006L0100) |  |\n| Bulgária: | Aдвокат, |\n| Roménia: | Avocat, |\n| [▼M2](http://publications.europa.eu/resource/celex/32013L0025) |  |\n| Croácia: | Odvjetnik/Odvjetnica. |\n| [▼B](http://publications.europa.eu/resource/celex/31977L0249) |  |"
+  },
+  "82b17a52441703f8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8aec1914-fe82-4a3a-89cf-5df7bf6f2d82.0018.02/DOC_1#src.E0001)) JO n.º C 103 de 5.10.1972, p. 19.\n\n> JO n.º C 53 de 8.3.1976, p. 33.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8aec1914-fe82-4a3a-89cf-5df7bf6f2d82.0018.02/DOC_1#src.E0002)) JO n.º C 36 de 28.3.1970, p. 37.\n\n> JO n.º C 50 de 4.3.1976, p. 17."
+  }
+ }
+}

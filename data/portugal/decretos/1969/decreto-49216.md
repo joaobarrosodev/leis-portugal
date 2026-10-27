@@ -1,0 +1,216 @@
+---
+schema_version: '1.0'
+id: pt:dre:214875:por
+title: Decreto n.º 49216
+short_title: null
+summary: Estabelece, a partir de 1 de Setembro de 1969, o regime especial de abono de família dos trabalhadores agrícolas
+  previsto na secção III do capítulo 2.º da Lei n.º 2144
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Corporações e Previdência Social
+proposing_entity: null
+official_number: '49216'
+official_date: null
+publication_date: '1969-08-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 203/1969, Série I de 1969-08-30
+  number: '203'
+  series: I
+  supplement: null
+  pages: 1168 - 1170
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/08/20300/11681170.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '214875'
+  dre_path: /dr/detalhe/decreto/49216-1969-214875
+  internal: pt:dre:214875:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/49216-1969-214875
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49216-1969-214875
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:08:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 899d8b80e7cb9855d62b3bea2c23ea2bcf6f8c93abd40b87ae1135ac45864bdb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Abono de Família
+- Trabalhador Rural
+relationships:
+- type: amended_by
+  target: pt:dre:324937:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:227267:por
+  label: "Alterados o nº 2 do art. 1º e os nºs. 1 e 2 do art. 4º pelo DEC.17/70.14.01.1970.MCPS, DG.IS [11] de 14.01.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/17-1970-227267
+  date: '1970-01-14'
+- type: cites
+  target: pt:dre:201053:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314902:por
+  label: "Revogadas no referente a financiamentos e comparticipações pelo Fundo de Desemprego as disposições do nº 2 do art.\
+    \ 7º deste diploma pelo DEC LEI.461/75.25.08.1975.MAS, DG.IS [195] de 25.08.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/461-1975-314902
+  date: '1975-08-25'
+- type: repealed_by
+  target: pt:dre:451834:por
+  label: "Revogado pelo DEC LEI.251/83.11.06.1983.MAS, DR.IS [133] de 11.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1983-451834
+  date: '1983-06-11'
+- type: repealed_by
+  target: pt:dre:324937:por
+  label: "Revogado pelo DEC LEI.81/85.28.03.1985.MFP, DR.IS [73] de 28.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1985-324937
+  date: '1985-03-28'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:08:58Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 49216
+
+1. Destina-se o presente diploma a regulamentar o regime especial de abono de família dos trabalhadores agrícolas previsto na secção III do capítulo 2.º da [Lei n.º 2144](https://diariodarepublica.pt/dr/detalhe/lei/2144-1969-201053), de 29 de Maio de 1969. A sua promulgação a breves meses da publicação da lei reflecte a urgência que o Governo reconhece ao problema e a importância que confere à sua resolução.
+
+Pretende-se e espera-se que o regime especial de abono de família constitua valioso elemento de normalização de um sector tão afectado por factores que resultam principalmente de uma rápida evolução económica e tecnológica.
+
+Com o novo regime e a revisão, prevista para breve, do esquema de benefícios de previdência das Casas do Povo atenuar-se-á a actual situação de desfavor dos trabalhadores rurais. Haverá, entretanto, que procurar alargar, por extensão da rede daqueles organismos, o âmbito das providências agora tomadas, que, em todo o caso, constituirão apenas solução transitória para o objectivo final a prosseguir, que é o da plena equiparação perante o nosso seguro social dos trabalhadores de todas as actividades.
+
+2. O regime especial de abono de família dos trabalhadores agrícolas estrutura-se em moldes que, com as adaptações inerentes aos condicionalismos próprios do sector, apresentam algumas analogias com as estruturas que permitiram a generalização do regime correspondente dos trabalhadores do comércio e indústria, através das antigas caixas regionais de abono de família.
+
+Na verdade, a sua gestão é também confiada às actuais caixas distritais, muito embora a necessidade imperiosa de uma presença efectiva junto dos interessados faça com que não possa prescindir-se do apoio das Casas do Povo, considerado de tal modo indispensável que o âmbito do regime especial de abono de família será, de momento, restringido às áreas abrangidas por estes organismos.
+
+Por sua vez, e dado o carácter limitado com que o trabalho agrícola é nesta fase inicial incluído no regime geral de previdência e abono de família, as Casas do Povo não podem deixar de manter a sua acção de previdência em moldes semelhantes aos actuais, ainda que substancialmente melhorados.
+
+3. Como, porém, é natural, não existe coincidência perfeita entre o regime especial agora instituído e o regime geral de abono de família. Pelo que respeita às contribuições, optou-se pela sua fixação em quantitativo uniforme por dia de trabalho, independentemente da categoria profissional ou do sexo do trabalhador, em atenção à conveniência de simplificar as formalidades a cumprir pelas entidades patronais e à própria uniformidade das prestações. O sistema estabelecido permite a adopção de folhas de trabalho de modelo simples, cujo preenchimento se considera acessível às explorações agrícolas, que, aliás, contam para esse efeito com a assistência periférica a cargo das Casas do Povo ou dos serviços administrativos que vierem a ser instalados pelas caixas.
+
+No que se refere ao montante do abono de família, a sua fixação em 100$00 mensais por descendente traduz a firme decisão de se avançar, na medida do possível, para a equiparação ao regime geral.
+
+Por sua vez, a atribuição do abono apenas por descendentes ou equiparados será parcialmente compensada pela melhoria adequada do regime dos subsídios de invalidez aos sócios efectivos das Casas do Povo incapacitados para o trabalho.
+
+4. As condições de concessão do abono de família do regime especial apresentam também algumas diferenças relativamente às do regime geral, no sentido de assegurar maior simplicidade administrativa e de respeitar os particularismos do trabalho agrícola, muitas vezes prestado de forma irregular.
+
+Assim, quando a frequência mensal do trabalho seja inferior a vinte dias, evita-se o sistema de redução proporcional do abono de família, substituindo-o pelo sistema de redução uniforme a metade, condicionado ao mínimo de oito dias de trabalho no mês. Por outro lado, possibilita-se a concessão do abono, igualmente reduzido a metade, mesmo quanto aos meses em que haja menos de oito dias de trabalho, desde que, nos três meses anteriores, tenha sido registado um número de dias de trabalho não inferior a quarenta.
+
+5. Não obstante as diferenças assinaladas, a instituição do regime especial de abono de família envolve, necessàriamente, um deficit vultoso cuja cobertura se impõe assegurar. De facto, com base nos elementos estatísticos disponíveis, presume-se que o regime especial agora instituído, circunscrito à área abrangida pelas Casas do Povo, venha a implicar um encargo anual da ordem dos 290 milhares de contos, enquanto o volume de contribuições patronais, a conseguir-se a sua efectiva cobrança nos termos regulamentares, se avalia em cerca de 210 milhares de contos. Conta-se assim com um descoberto inicial não inferior a 80 milhares de contos, a que acrescerá o encargo administrativo específico do novo regime, cujo cômputo só a experiência facultará. A ordem de grandeza do descoberto inicial assim apurado determinaria por si só a necessidade de meios de cobertura exteriores aos recursos financeiros próprios do sistema, mas a necessidade de tal intervenção aparece mais evidente se se considerar o dever de prosseguir na extensão do regime especial de abono de família às áreas actualmente não abrangidas por Casas do Povo.
+
+A comparticipação financeira em causa encontra-se, aliás, prevista no n.º 1 da base XXVII da [Lei n.º 2144](https://diariodarepublica.pt/dr/detalhe/lei/2144-1969-201053), onde se admitem como fontes de financiamento, além das contribuições das entidades patronais e das comparticipações do Fundo Nacional do Abono de Família, as dotações do Fundo de Desemprego e os subsídios do Estado e de outras entidades públicas ou particulares.
+
+Nessa conformidade, estabelece-se, desde já, que ao Fundo de Desemprego competirá, a par do Fundo Nacional do Abono de Família, a cobertura dos deficits apurados através da contabilização própria das respectivas receitas e despesas, determinadas no n.º 2 da referida base XXVII. Sem que, deste modo, se entre já num sistema de solidariedade nacional, como sem dúvida seria o resultante do reforço de financiamento através das receitas gerais do Estado, a designação expressa do Fundo de Desemprego como fonte financiadora do abono de família dos trabalhadores rurais constitui marco de indiscutível progresso social que se entende de assinalar com o devido relevo.
+
+Nestes termos:
+
+Considerando o disposto na base XXXIII da [Lei n.º 2144](https://diariodarepublica.pt/dr/detalhe/lei/2144-1969-201053), de 29 de Maio de 1969;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### ARTIGO 1.º — (Âmbito e início de vigência)
+
+1. A partir de 1 de Setembro de 1969, são abrangidos pelo regime especial de abono de família previsto na secção III do capítulo II da [Lei n.º 2144](https://diariodarepublica.pt/dr/detalhe/lei/2144-1969-201053), de 29 de Maio de 1969:
+
+a) Como beneficiários, os trabalhadores por conta de outrem na agricultura, silvicultura e pecuária que, sendo chefes de família ou maiores de 18 anos, prestem serviço nas áreas das Casas do Povo e não devam ser inscritos nessa qualidade como beneficiários do regime geral das caixas sindicais de previdência;
+
+b) Como contribuintes, as entidades patronais dos mesmos trabalhadores.
+
+2. Para efeitos do disposto na alínea a) do n.º 1, considera-se trabalhador por conta de outrem todo aquele que, sendo ou não sócio efectivo de uma Casa do Povo, preste serviço, com carácter permanente ou eventual, sob a autoridade e direcção de outra pessoa.
+
+###### ARTIGO 2.º — (Gestão)
+
+1. A gestão do regime especial de abono de família compete:
+
+a) Nos distritos de Lisboa e Porto, à caixa de previdência e abono de família designada por despacho ministerial;
+
+b) Nos demais distritos do continente e ilhas adjacentes, às respectivas caixas distritais de previdência e abono de família ou às caixas distritais de previdência onde ainda não estejam constituídas aquelas instituições.
+
+2. As caixas competentes poderão instalar, nas sedes das Casas do Povo da sua área ou noutras localidades do respectivo distrito, serviços administrativos, que constituirão delegações administrativas das mesmas caixas.
+
+3. As Casas do Povo actuarão, nos termos de acordos a estabelecer, como delegações das caixas competentes, para cumprimento do disposto no presente diploma.
+
+###### ARTIGO 3.º — (Tabela de abonos)
+
+No regime especial a que se refere o presente diploma o abono de família é concedido no montante de 100$00 por descendente ou equiparado, em relação a cada mês em que ao trabalhador sejam contados vinte ou mais dias de trabalho, reduzindo-se nos demais casos aquele montante a 50$00, desde que o número de dias de trabalho relativo ao mês a que respeita o abono não seja inferior a oito, ou a quarenta nos três meses anteriores.
+
+###### ARTIGO 4.º — (Contribuições patronais)
+
+1. As entidades patronais contribuintes concorrerão obrigatòriamente para a competente caixa com a contribuição de 3$50 por dia de trabalho declarado nas folhas a entregar nos termos do artigo 5.º
+
+2. As contribuições patronais relativas aos trabalhadores permanentes serão de 87$50 mensais.
+
+3. As contribuições serão pagas na sede da competente caixa ou sua delegação até ao dia 10 do mês seguinte àquele a que disserem respeito.
+
+###### ARTIGO 5.º — (Folhas de trabalho)
+
+As entidades patronais contribuintes são obrigadas a entregar, na sede da caixa competente ou na Casa do Povo que actue como sua delegação, conjuntamente com as contribuições, folhas de trabalho em impresso fornecido por aquela instituição, de que constem os nomes dos trabalhadores ao seu serviço abrangidos pelo regime especial de abono de família e os dias de trabalho prestados por estes no mês anterior.
+
+###### ARTIGO 6.º — (Fraccionamento dos períodos de trabalho)
+
+1. Para determinação do montante das contribuições patronais, a duração do trabalho efectivamente prestado apenas poderá fraccionar-se por períodos de meio dia.
+
+2. As contribuições patronais relativas aos meses de admissão e de despedimento dos trabalhadores permanentes serão pagas por inteiro quando a duração do serviço exceder quinze dias e reduzidas a metade nos demais casos.
+
+###### ARTIGO 7.º — (Cobertura financeira)
+
+1. Serão contabilizadas em separado as receitas e despesas do regime especial de abono de família considerado no presente diploma.
+
+2. A cobertura do deficit que se verificar em cada gerência será efectuada pela comparticipação, em partes iguais, do Fundo Nacional do Abono de Família e do Fundo de Desemprego.
+
+3. As comparticipações a que se refere o número anterior constarão das previsões orçamentais dos respectivos Fundos e poderão ser movimentadas no decurso da gerência a que respeitem quando as necessidades financeiras do sistema o justifiquem.
+
+4. A comparticipação do Fundo de Desemprego prevista neste artigo não terá lugar em relação aos resultados de gerência de 1969.
+
+###### ARTIGO 8.º — (Normas regulamentares)
+
+Por despacho do Ministro das Corporações e Previdência Social, serão aprovadas as normas necessárias para a execução do regime especial de abono de família, em conformidade com o disposto na [Lei n.º 2144](https://diariodarepublica.pt/dr/detalhe/lei/2144-1969-201053) e no presente diploma.
+
+Marcello Caetano - Rui Alves da Silva Sanches - José João Gonçalves de Proença.
+
+Promulgado em 23 de Agosto de 1969.
+
+Publique-se.
+
+Presidência da República, 30 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

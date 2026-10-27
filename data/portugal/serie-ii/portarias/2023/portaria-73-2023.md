@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:207600211:por
+title: Portaria n.º 73/2023
+short_title: null
+summary: Autoriza o Fundo Ambiental a realizar a despesa referente à análise e avaliação de candidaturas, conceção de material
+  de apoio aos candidatos e acompanhamento da execução dos projetos no âmbito do Plano de Recuperação e Resiliência na componente
+  C13, investimento «TCC13-i01 - Eficiência Energética em Edifícios Residenciais - Programa de Apoio a Edifícios Mais Sustentáveis»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Ambiente e Ação Climática - Gabinetes do Ministro do Ambiente e da Ação Climática e da Secretária de Estado do
+  Orçamento
+proposing_entity: null
+official_number: 73/2023
+official_date: null
+publication_date: '2023-02-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 35/2023, Série II de 2023-02-17
+  number: '35'
+  series: II
+  supplement: null
+  pages: 76 - 77
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/02/035000000/0007600077.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '207600211'
+  dre_path: /dr/detalhe/portaria/73-2023-207600211
+  internal: pt:dre:207600211:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/73-2023-207600211
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/73-2023-207600211
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: cfda41c8b46e59a0bc67a293da56c57960e0927b0b35de7db9914d2c35bc9888
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:51:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato de Cooperação
+- Despesas Públicas
+- Eficiência Energética
+- Faculdade de Ciências e Tecnologia
+- Fundo Ambiental
+- Plano de Recuperação e Resiliência
+- Universidade NOVA de Lisboa
+relationships:
+- type: cites
+  target: pt:dre:165564281:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175923959:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183159328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184687795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:75150234:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:51:11Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 73/2023
+
+O Fundo Ambiental (FA), criado pelo [Decreto-Lei n.º 42-A/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), de 12 de agosto, alterado pelo [Decreto-Lei n.º 114/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2021-175923959), de 15 de dezembro, tem por finalidade apoiar políticas ambientais para a prossecução dos objetivos do desenvolvimento sustentável, contribuindo para o cumprimento de compromissos nacionais e internacionais, financiando entidades, atividades ou projetos que cumpram os objetivos enunciados no artigo 3.º do referido diploma.
+
+O FA foi criado tendo por base a garantia de uma maior eficácia da política de ambiente, concentrando os recursos de outros fundos que foram extintos com a sua criação, de modo à obtenção de um instrumento com maior capacidade financeira e com maior adaptabilidade aos desafios colocados.
+
+O FA é a entidade globalmente responsável pela execução do Investimento Plano de Recuperação e Resiliência (PRR) na componente C13, Eficiência energética dos edifícios, enquanto Beneficiário Intermediário, nomeadamente no investimento «TC-C13-i01 - Eficiência Energética em Edifícios Residenciais - Programa de Apoio a Edifícios Mais Sustentáveis».
+
+A Faculdade de Ciências e Tecnologia da Universidade NOVA de Lisboa, é uma das unidades orgânicas da Universidade NOVA de Lisboa (FCT-NOVA) é uma Escola de Ciência e Engenharia orientada para o futuro e baseada em investigação internacional de vanguarda e que, enquanto Instituição Universitária do Sistema Nacional do Ensino Superior Público tem elevado prestígio internacional, sendo detentora de conhecimentos avançados com larga experiência na investigação, desenvolvimento e inovação, que os seus centros de investigação se pautam pela excelência, sendo reconhecidos nos mais diversos meios académicos e industriais.
+
+O FA e a FCT-NOVA outorgaram entre si contrato de cooperação, em 24 de agosto de 2021, visando, inicialmente, a avaliação de 15 mil candidaturas ao Programa de Apoio a Edifícios Mais Sustentáveis - 2.ª fase.
+
+Esta nova fase do Programa de Apoio a Edifícios Mais Sustentáveis, foi lançada no âmbito do PRR com uma dotação inicial de 30 milhões de euros, e cujo regulamento foi aprovado através do [Despacho n.º 6070-A/2021](https://diariodarepublica.pt/dr/detalhe/despacho/6070-a-2021-165564281), exarado pelo Ministro do Ambiente e da Ação Climática, publicado no Diário da República, 2.ª série, n.º 118, suplemento, de 21 de junho de 2021.
+
+Não obstante, na sequência da elevada e progressiva adesão ao Programa, vieram a verificar-se cinco reforços sucessivos de dotação e consequente prorrogação do prazo de análise das candidaturas, nos termos do qual a dotação global deste incentivo ascendeu a 135 milhões de euros.
+
+Neste contexto, o Contrato de Cooperação celebrado entre o FA e FCT-NOVA foi objeto de Adenda superiormente autorizada em 22 de dezembro de 2021, para assegurar a análise das 40 mil candidaturas entretanto submetidas e consequente realização dos pagamentos no montante de (euro) 329 764,23 (trezentos e vinte e nove mil, setecentos e sessenta e quatro e vinte e três cêntimos), valor ao qual acresce o Imposto de Valor Acrescentado (IVA) à taxa legal em vigor.
+
+Nestes termos, e tendo presente que o Contrato de Cooperação revisto dará lugar a encargos orçamentais em mais do que um ano económico, pelo que, nos termos do disposto no n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, alterada e republicada pela [Lei n.º 22/2015](https://diariodarepublica.pt/dr/detalhe/lei/22-2015-66773610), de 17 de março, conjugado com o disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, manda o Governo, pelo Ministro do Ambiente e da Ação Climática, ao abrigo das competências constantes do artigo 26.º do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, publicado no Diário da República, 1.ª série, n.º 89, e pela Secretária de Estado do Orçamento, no uso das competências delegadas no [Despacho n.º 7473/2022](https://diariodarepublica.pt/dr/detalhe/despacho/7473-2022-184687795), de 3 de junho, publicado no Diário da República, 2.ª série, n.º 114, de 14 de junho de 2022, o seguinte:
+
+1 - Autorizar o Fundo Ambiental (FA) a realizar a despesa referente à análise e avaliação de 98 573 candidaturas, bem como a conceção de material de apoio aos candidatos e acompanhamento da execução dos projetos, no âmbito do Plano de Recuperação e Resiliência, na componente C13, investimento «TCC13-i01 - Eficiência Energética em Edifícios Residenciais - Programa de Apoio a Edifícios Mais Sustentáveis».
+
+2 - Os encargos orçamentais decorrentes da execução do contrato referido no número anterior podem ascender até ao montante de (euro) 822 244,23 (oitocentos e vinte e dois mil, duzentos e quarenta e quatro euros e vinte e três cêntimos), valor ao qual acresce o IVA à taxa legal em vigor, são repartidos da seguinte forma:
+
+a) 2021: (euro) 329 764,23 (trezentos e vinte e nove mil, setecentos e sessenta e quatro euros e vinte e três cêntimos) - verba já executada;
+
+b) 2022: (euro) 443 699,51 (quatrocentos e quarenta e três mil, seiscentos e noventa e nove euros e cinquenta e um cêntimos);
+
+c) 2023: (euro) 48 780,49 (quarenta e oito mil, setecentos e oitenta euros e quarenta e nove cêntimos).
+
+3 - A importância fixada para o ano de 2023 pode ser acrescida do saldo que se apurar na execução orçamental do ano anterior.
+
+4 - O encargo financeiro resultante da execução da presente portaria será satisfeito por conta das verbas inscritas ou a inscrever no orçamento do Fundo Ambiental, no âmbito do Plano de Recuperação e Resiliência, na componente C13, investimento «TC-C13-i01 - Eficiência Energética em Edifícios Residenciais - Programa de Apoio a Edifícios Mais Sustentáveis».
+
+5 - A presente portaria produz efeitos no dia seguinte ao da sua publicação.
+
+7 de fevereiro de 2023. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha.
+
+316150617

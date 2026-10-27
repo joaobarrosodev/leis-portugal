@@ -1,0 +1,820 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:115941646:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-221414436",
+ "dre_path": "/dr/detalhe/portaria/226-a-2018-115941646",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-08-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221382824",
+    "221382825",
+    "221382826",
+    "221382827",
+    "221382828",
+    "221382829",
+    "221382830",
+    "221382831",
+    "221382832",
+    "221382833",
+    "221382834",
+    "221382835",
+    "221382836",
+    "221382837",
+    "221382838",
+    "221382839",
+    "221382840",
+    "221382841",
+    "221382842",
+    "221382843",
+    "221382844",
+    "221382845",
+    "221382846",
+    "221382847",
+    "221382848",
+    "221382849",
+    "221382850",
+    "221382851",
+    "221382852",
+    "221382853",
+    "221382854",
+    "221382855",
+    "221382856",
+    "221382857",
+    "221382858",
+    "221382859",
+    "221382860",
+    "221382861",
+    "221382862",
+    "221382863",
+    "221382864",
+    "221382865",
+    "221382866",
+    "221382867",
+    "221382868",
+    "221382869",
+    "221382870",
+    "221382871",
+    "221382872",
+    "221382873",
+    "221382874",
+    "221457975",
+    "221457977",
+    "221457978",
+    "221457979",
+    "221457980",
+    "221457981",
+    "221457982",
+    "221457983",
+    "221457984",
+    "221457985",
+    "221457986"
+   ]
+  },
+  {
+   "date": "2023-09-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221432123:por",
+     "title": "Portaria n.º 278/2023",
+     "published": "2023-09-08",
+     "dre_path": "/dr/detalhe/portaria/278-2023-221432123"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º"
+   ],
+   "fragments": [
+    "221382824",
+    "221382825",
+    "221382826",
+    "221382827",
+    "221382828",
+    "221382829",
+    "221382830",
+    "221382831",
+    "221382832",
+    "221382833",
+    "221382834",
+    "221382835",
+    "221382836",
+    "221382837",
+    "221382838",
+    "221457993",
+    "221382840",
+    "221382841",
+    "221382842",
+    "221457994",
+    "221382844",
+    "221382845",
+    "221382846",
+    "221382847",
+    "221382848",
+    "221382849",
+    "221382850",
+    "221382851",
+    "221382852",
+    "221382853",
+    "221382854",
+    "221382855",
+    "221457995",
+    "221382857",
+    "221457996",
+    "221382859",
+    "221382860",
+    "221382861",
+    "221382862",
+    "221457997",
+    "221457998",
+    "221382865",
+    "221382866",
+    "221382867",
+    "221382868",
+    "221382869",
+    "221382870",
+    "221382871",
+    "221382872",
+    "221382873",
+    "221382874",
+    "221457975",
+    "221457976",
+    "221457977",
+    "221457978",
+    "221457979",
+    "221457980",
+    "221457981",
+    "221457982",
+    "221457983",
+    "221457984",
+    "221457985",
+    "221457986"
+   ]
+  },
+  {
+   "date": "2025-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:909816063:por",
+     "title": "Portaria n.º 86/2025/1",
+     "published": "2025-03-06",
+     "dre_path": "/dr/detalhe/portaria/86-2025-909816063"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "221382824",
+    "221382825",
+    "221382826",
+    "221382827",
+    "221382828",
+    "221382829",
+    "221382830",
+    "221382831",
+    "221382832",
+    "221382833",
+    "221382834",
+    "221382835",
+    "221382836",
+    "221382837",
+    "909467250",
+    "221457993",
+    "221382840",
+    "221382841",
+    "221382842",
+    "221457994",
+    "221382844",
+    "221382845",
+    "221382846",
+    "221382847",
+    "221382848",
+    "221382849",
+    "221382850",
+    "221382851",
+    "221382852",
+    "221382853",
+    "221382854",
+    "221382855",
+    "221457995",
+    "221382857",
+    "221457996",
+    "221382859",
+    "221382860",
+    "221382861",
+    "221382862",
+    "221457997",
+    "221457998",
+    "221382865",
+    "221382866",
+    "221382867",
+    "221382868",
+    "221382869",
+    "221382870",
+    "221382871",
+    "221382872",
+    "221382873",
+    "221382874",
+    "221457975",
+    "221457976",
+    "221457977",
+    "221457978",
+    "221457979",
+    "221457980",
+    "221457981",
+    "221457982",
+    "221457983",
+    "221457984",
+    "221457985",
+    "221457986"
+   ]
+  }
+ ],
+ "fragments": {
+  "221382824": {
+   "fragment_id": "221414437",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 226-A/2018\n\nde 7 de agosto\n\nO Decreto-Lei n.º 55/2018, de 6 de julho, estabelece o currículo dos ensinos básico e secundário, os princípios orientadores da sua conceção, operacionalização e avaliação das aprendizagens, de modo a garantir que todos os alunos adquiram os conhecimentos e desenvolvam as capacidades e atitudes que contribuem para alcançar as competências previstas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.\n\nO aludido decreto-lei confere autonomia curricular às escolas, materializada, entre outros aspetos, na possibilidade de gestão flexível das matrizes curriculares-base das ofertas educativas e formativas, adequando-as às opções curriculares de cada escola.\n\nA presente portaria vem regulamentar a oferta de cursos científico-humanísticos, designadamente dos Cursos de Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades e de Artes Visuais, tomando como referência a matriz curricular-base constante do referido decreto-lei. Em concreto, e tendo em vista que os alunos alcancem o Perfil dos Alunos à Saída da Escolaridade Obrigatória, concretiza a execução dos princípios consagrados no decreto-lei, definindo as regras e procedimentos inerentes à conceção e operacionalização do currículo desta oferta formativa, bem como da avaliação e certificação das aprendizagens. Assim, na generalidade, no desenvolvimento da autonomia e flexibilidade curricular conferida às escolas, especificam-se os procedimentos de gestão da carga horária tendo em vista a organização das suas matrizes curriculares. Estabelecem-se, também, os princípios de atuação e as normas orientadoras relativos ao desenvolvimento dos domínios de autonomia curricular (DAC), à organização e ao funcionamento da Cidadania e Desenvolvimento no quadro da Estratégia Nacional da Educação para a Cidadania (ENEC), à integração das disciplinas de Português Língua Não Materna e de Língua Gestual Portuguesa. Definem-se as condições que possibilitam ao aluno a adoção de um percurso formativo próprio, através de permuta de disciplinas, eliminando-se o regime de precedências com vista a aumentar tais possibilidades. Assegurando a valorização da formação artística dos alunos, é introduzida a disciplina de Teatro no conjunto das opções dos diversos cursos científico-humanísticos, garantindo no Curso Científico-Humanístico de Artes Visuais a opção Oficina de Design. As normas relativas à avaliação, enquanto parte integrante do ensino e aprendizagem, são apenas desenvolvidas e harmonizadas aos princípios previstos no referido Decreto-Lei n.º 55/2018, de 6 de julho, como acontece com a consideração das classificações da disciplina de Educação Física para efeitos de apuramento da classificação final do ensino secundário, valorizando todas as disciplinas do currículo. Nessa matéria e perante a necessidade de tornar explícito o sentido da norma sobre conselhos de turma, para efeitos de avaliação, no contexto do ordenamento jurídico aplicável, que já constava na Portaria n.º 243/2012, de 10 de agosto, ora revogada, procede-se à clarificação das regras de funcionamento destes conselhos, evitando, deste modo, a emissão de direito circulatório.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 8.º e do n.º 6 do artigo 22.º do Decreto-Lei n.º 55/2018, de 6 de julho, manda o Governo, pelo Secretário de Estado da Educação, o seguinte:"
+  },
+  "221382825": {
+   "fragment_id": "221414438",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "221382826": {
+   "fragment_id": "221414439",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria procede à regulamentação dos cursos científico-humanísticos, a que se refere a alínea a) do n.º 4 do artigo 7.º do Decreto-Lei n.º 55/2018, de 6 de julho, designadamente dos cursos de Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades e de Artes Visuais, tomando como referência a matriz curricular-base constante do anexo VI do mesmo decreto-lei.\n\n2 - A presente portaria define ainda as regras e procedimentos da conceção e operacionalização do currículo dos cursos previstos no número anterior, bem como da avaliação e certificação das aprendizagens, tendo em vista o Perfil dos Alunos à Saída da Escolaridade Obrigatória."
+  },
+  "221382827": {
+   "fragment_id": "221414440",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente portaria aplica-se aos agrupamentos de escolas e às escolas não agrupadas da rede pública, bem como aos estabelecimentos de ensino particular e cooperativo, doravante designados por escolas, sem prejuízo do previsto no Estatuto do Ensino Particular e Cooperativo.\n\n2 - As referências constantes da presente portaria aos órgãos de direção, administração e gestão dos estabelecimentos do ensino público, bem como às estruturas de coordenação e supervisão pedagógica, aplicam-se aos órgãos e estruturas com competência equivalente em cada estabelecimento de ensino particular e cooperativo."
+  },
+  "221382828": {
+   "fragment_id": "221414441",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 55/2018, 6 de julho, entende-se por:\n\na) «Articulação curricular», a interligação, realizada a diferentes níveis e modos de interação, de saberes oriundos das componentes de formação e disciplinas, numa perspetiva de articulação horizontal e ou vertical, tendo por objetivo a construção progressiva de conhecimento global;\n\nb) «Autopropostos»,os candidatos à realização de provas de equivalência à frequência e ou exames finais nacionais, admitidos sem Classificação Interna Final (CIF), que pretendam obter aprovação ou melhoria de classificações;\n\nc) «Equipas educativas», o grupo de docentes que lecionam às mesmas turmas as diversas disciplinas, trabalhando em conjunto nas diferentes fases do processo de ensino e aprendizagem, bem como de avaliação, com vista à adoção de estratégias que permitam rentabilizar tempos, instrumentos e agilizar procedimentos;\n\nd) «Opções curriculares», as diferentes possibilidades de organização e gestão, à disposição da escola, a implementar de acordo com as prioridades por ela definidas, no contexto da sua comunidade educativa, decorrentes da apropriação do currículo e do exercício da sua autonomia, que permitem a consecução das áreas de competências do Perfil dos Alunos à Saída da Escolaridade Obrigatória;\n\ne) «Trabalho interdisciplinar», a interseção curricular, estabelecendo articulação entre aprendizagens de várias disciplinas, abordadas de forma integrada, privilegiando uma visão globalizante dos saberes."
+  },
+  "221382829": {
+   "fragment_id": "221414442",
+   "type": 11,
+   "heading": "Artigo 4.º — Processo individual do aluno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Processo individual do aluno\n\n1 - O percurso escolar do aluno deve ser documentado de forma sistemática no processo individual a que se refere o artigo 11.º do Estatuto do Aluno e Ética Escolar.\n\n2 - O processo individual é atualizado ao longo do ensino secundário, de modo a proporcionar uma visão global do percurso do aluno, facilitando o seu acompanhamento e permitindo uma intervenção adequada.\n\n3 - A atualização do processo previsto no número anterior é da responsabilidade do diretor de turma.\n\n4 - O processo individual do aluno acompanha-o sempre que este mude de escola, sendo a escola de origem a responsável pela sua disponibilização à escola de destino.\n\n5 - Do processo individual do aluno, que contém os seus dados de identificação, devem constar todos os elementos que assinalem o seu percurso e a sua evolução, designadamente:\n\na) Fichas de registo de avaliação, resultantes da avaliação interna e externa;\n\nb) Relatórios médicos e ou de avaliação psicológica, quando existam;\n\nc) Relatório técnico-pedagógico, programa educativo individual e identificação das áreas curriculares específicas, quando aplicável;\n\nd) Registo da participação em representação dos pares em órgãos da escola e em atividades ou projetos, designadamente culturais, artísticos, desportivos, científicos e no âmbito de Cidadania e Desenvolvimento, entre outros de relevante interesse social desenvolvidos no âmbito da escola;\n\ne) Outros que a escola considere adequados.\n\n6 - O disposto nos números anteriores está sujeito aos limites constitucionais e legais, designadamente ao previsto na legislação sobre proteção de dados pessoais, no que diz respeito ao acesso e tratamento desses dados e ao sigilo profissional."
+  },
+  "221382830": {
+   "fragment_id": "221414443",
+   "type": 1,
+   "heading": "Capítulo II — Currículo dos cursos científico-humanísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Currículo dos cursos científico-humanísticos"
+  },
+  "221382831": {
+   "fragment_id": "221414444",
+   "type": 8,
+   "heading": "Secção I — Conceção e operacionalização do currículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conceção e operacionalização do currículo"
+  },
+  "221382832": {
+   "fragment_id": "221414445",
+   "type": 11,
+   "heading": "Artigo 5.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Objetivos\n\nOs cursos científico-humanísticos visam proporcionar aos alunos uma formação geral e uma formação específica, alinhada com os seus interesses em termos de prosseguimento de estudos, procurando através dos conhecimentos, capacidades e atitudes trabalhados nas áreas de Ciências e Tecnologias, Ciências Socioeconómicas, Línguas e Humanidades e Artes Visuais, alcançar as áreas de competências constantes do Perfil dos Alunos à Saída da Escolaridade Obrigatória."
+  },
+  "221382833": {
+   "fragment_id": "221414446",
+   "type": 11,
+   "heading": "Artigo 6.º — Matrizes curriculares-base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Matrizes curriculares-base\n\n1 - Considerando a matriz curricular-base dos cursos científico-humanísticos constante no anexo VI ao Decreto-Lei n.º 55/2018, de 6 de julho, são definidas as matrizes curriculares-base dos seguintes cursos científico-humanísticos:\n\na) Curso Científico-Humanístico de Ciências e Tecnologias, constante do anexo I à presente portaria e da qual faz parte integrante;\n\nb) Curso Científico-Humanístico de Ciências Socioeconómicas, constante do anexo II à presente portaria e da qual faz parte integrante;\n\nc) Curso Científico-Humanístico de Línguas e Humanidades, constante do anexo III à presente portaria e da qual faz parte integrante;\n\nd) Curso Científico-Humanístico de Artes Visuais, constante do anexo IV à presente portaria e da qual faz parte integrante.\n\n2 - Os planos curriculares organizados nas matrizes curriculares-base referidas no número anterior integram as seguintes componentes de formação:\n\na) A componente de formação geral, que visa contribuir para a construção da identidade pessoal, social e cultural dos alunos;\n\nb) A componente de formação específica, que visa proporcionar uma formação científica consistente no domínio do respetivo curso.\n\n3 - As matrizes curriculares-base inscrevem a Educação Moral e Religiosa como componente de oferta obrigatória e de frequência facultativa, cujo tempo acresce ao total das matrizes."
+  },
+  "221382834": {
+   "fragment_id": "221414447",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão da carga horária inscrita nas matrizes curriculares-base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão da carga horária inscrita nas matrizes curriculares-base\n\n1 - No desenvolvimento da autonomia e flexibilidade curricular conferida às escolas, e considerando, entre outras, as prioridades e opções curriculares previstas no artigo 19.º do Decreto-Lei n.º 55/2018, de 6 de julho, as escolas organizam as suas matrizes curriculares na unidade de tempo que considerem mais adequada.\n\n2 - Com o objetivo de encontrar respostas pedagogicamente adequadas ao contexto da turma ou grupo de alunos, as escolas podem gerir em cada componente, geral e específica, num intervalo entre 0 % e 25 %, o resultado da soma das cargas horárias das disciplinas procedendo à redistribuição desse resultado entre as disciplinas da respetiva componente.\n\n3 - Com vista à promoção de melhores aprendizagens, a operacionalização da faculdade conferida no número anterior pode variar ao longo do ano letivo, adotando uma organização diversa da anual, salvaguardado o disposto no n.º 5 do artigo 12.º do citado decreto-lei.\n\n4 - O previsto nos n.os 2 e 3 não pode prejudicar a existência das disciplinas inscritas nas matrizes curriculares-base.\n\n5 - Sem prejuízo do disposto no número seguinte, as escolas devem garantir, por ano de escolaridade, o cumprimento do tempo total anual por componente de formação, sendo este igual ao produto resultante da multiplicação do total da carga horária semanal da componente de currículo e o número de semanas letivas do calendário escolar.\n\n6 - Sempre que da implementação do previsto no n.º 1 resultar fração de tempo inferior à unidade adotada, o tempo sobrante é utilizado nessa ou noutra componente de formação.\n\n7 - As decisões tomadas no âmbito da gestão da carga horária, bem como as previstas no artigo seguinte, devem ser divulgadas aos pais e encarregados de educação."
+  },
+  "221382835": {
+   "fragment_id": "221414448",
+   "type": 11,
+   "heading": "Artigo 8.º — Matriz curricular de escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Matriz curricular de escola\n\n1 - No âmbito do planeamento curricular ao nível da escola e da turma, e considerando as decisões previstas no artigo anterior em sede de matriz curricular, cabe também à escola decidir, em conformidade com o previsto no artigo 14.º do Decreto-Lei n.º 55/2018, de 6 de julho, sobre:\n\na) A implementação das opções curriculares adequadas ao seu projeto educativo, considerando, entre outras, as previstas no n.º 2 do artigo 19.º do referido decreto-lei;\n\nb) A implementação da componente de Cidadania e Desenvolvimento, nos termos do artigo 10.º da presente portaria;\n\nc) A oferta a nível de escola de disciplinas alinhadas com os objetivos do projeto educativo de escola, que enriquecem a oferta existente nas matrizes curriculares legalmente estabelecidas.\n\n2 - As propostas referidas na alínea c) do número anterior devem atender à necessidade à disponibilidade de recursos humanos e financeiros.\n\n3 - No caso de existir a oferta de escola como disciplina anual de 12.º ano, esta insere-se na componente de formação específica, no grupo das disciplinas de opção, às quais se aplicam as condições inscritas na alínea (e) das matrizes curriculares-base, constantes dos anexos I a IV.\n\n4 - Os documentos curriculares da disciplina de oferta de escola são aprovados pelo conselho pedagógico."
+  },
+  "221382836": {
+   "fragment_id": "221414449",
+   "type": 11,
+   "heading": "Artigo 9.º — Domínios de autonomia curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Domínios de autonomia curricular\n\n1 - Os domínios de autonomia curricular (DAC) constituem uma opção curricular de trabalho interdisciplinar e ou articulação curricular, cuja planificação deve identificar as disciplinas envolvidas e a forma de organização.\n\n2 - O trabalho em DAC tem por base as Aprendizagens Essenciais com vista ao desenvolvimento das áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.\n\n3 - Os DAC, numa interseção de aprendizagens de diferentes disciplinas, exploram percursos pedagógico-didáticos, em que se privilegia o trabalho prático e ou experimental e o desenvolvimento das capacidades de pesquisa, relação e análise, tendo por base, designadamente:\n\na) Os temas ou problemas abordados sob perspetivas disciplinares, numa abordagem interdisciplinar;\n\nb) Os conceitos, factos, relações, procedimentos, capacidades e competências, na sua transversalidade e especificidade disciplinar;\n\nc) Os géneros textuais associados à produção e transmissão de informação e de conhecimento, presentes em todas as disciplinas.\n\n4 - Na concretização de DAC não fica prejudicada a existência das disciplinas previstas nas matrizes curriculares."
+  },
+  "221382837": {
+   "fragment_id": "221414450",
+   "type": 11,
+   "heading": "Artigo 10.º — Cidadania e Desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cidadania e Desenvolvimento\n\n1 - No quadro da Estratégia Nacional de Educação para a Cidadania (ENEC), cabe à escola aprovar a sua estratégia de educação para a cidadania de acordo com o previsto no artigo 15.º do Decreto-Lei n.º 55/2018, de 6 de julho.\n\n2 - Na estratégia de educação para a cidadania definida pela escola os domínios a desenvolver, a que se refere a alínea a) do n.º 2 do referido artigo 15.º são os constantes no anexo V à presente portaria, e da qual faz parte integrante.\n\n3 - A componente de Cidadania e Desenvolvimento é uma área de trabalho transversal, onde se cruzam contributos das diferentes disciplinas com os temas da estratégia de educação para a cidadania da escola através do desenvolvimento e concretização de projetos pelos alunos.\n\n4 - Cabe ainda à escola decidir a forma de implementar Cidadania e Desenvolvimento, podendo optar, designadamente por:\n\na) Oferta como disciplina autónoma, em qualquer dos anos deste nível de ensino;\n\nb) Prática de coadjuvação no âmbito de uma disciplina;\n\nc) Funcionamento em justaposição com outra disciplina;\n\nd) Desenvolvimento de temas e projetos, no âmbito das diferentes disciplinas da matriz, sob a coordenação de um dos professores da turma ou grupo de alunos.\n\n5 - Independentemente das opções adotadas pela escola previstas no número anterior, a componente de Cidadania e Desenvolvimento não é objeto de avaliação sumativa, sendo a participação dos alunos nos projetos desenvolvidos objeto de registo anual no certificado do aluno."
+  },
+  "221382838": {
+   "fragment_id": "221414451",
+   "type": 11,
+   "heading": "Artigo 11.º — Português Língua Não Materna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Português Língua Não Materna\n\n1 - No ensino secundário, as matrizes curriculares podem integrar a disciplina de Português Língua Não Materna (PLNM) destinada a alunos que se encontram numa das seguintes situações:\n\na) A sua língua materna não seja o português;\n\nb) Não tenham tido o português como língua de escolarização e para os quais, de acordo com o seu percurso escolar e o seu perfil sociolinguístico, a escola considere ser a oferta curricular mais adequada.\n\n2 - Para o desenvolvimento da disciplina de PLNM são constituídos, com base no Quadro Europeu Comum de Referência para as Línguas, os seguintes níveis de proficiência linguística:\n\na) Iniciação (A1, A2);\n\nb) Intermédio (B1);\n\nc) Avançado (B2, C1).\n\n3 - Tendo em vista o posicionamento em nível de proficiência, cabe à escola proceder a uma avaliação do conhecimento da língua portuguesa, a ocorrer no momento em que o aluno ingressa no sistema educativo.\n\n4 - A avaliação é realizada de acordo com os descritores do Quadro Europeu Comum de Referência para as Línguas e com base em modelo de teste disponibilizado pela Direção-Geral da Educação.\n\n5 - Os alunos que sejam posicionados no nível de Iniciação (A1, A2) ou no nível Intermédio (B1) frequentam a disciplina de PLNM como equivalente à disciplina de Português nos termos seguintes:\n\na) Em grupos constituídos, no mínimo, por 10 alunos, podendo, caso tal se revele necessário, ser agrupados alunos dos níveis A1, A2 e B1;\n\nb) Na sua turma, nos tempos letivos da disciplina de Português, quando se mostre inviável a aplicação do previsto na alínea anterior.\n\n6 - Os alunos posicionados no nível Avançado (B2, C1) frequentam a disciplina de Português.\n\n7 - Os alunos de PLNM são organizados por grupos de nível de proficiência linguística e não por ano de escolaridade, devendo seguir as Aprendizagens Essenciais de PLNM do respetivo nível, com adequação do processo de ensino, aprendizagem e avaliação à sua faixa etária.\n\n8 - Aos alunos recém-chegados ao sistema educativo nacional posicionados no nível de proficiência linguística de Iniciação (A1, A2), com vista a promover a equidade e a igualdade de oportunidades, poderá a escola, em articulação com os pais ou encarregados de educação, disponibilizar respostas educativas que facilitem o acesso ao currículo, através de:\n\na) Mobilização de medidas de suporte à aprendizagem e à inclusão;\n\nb) Adaptações ao processo de avaliação:\n\ni) Interna;\n\nii) Externa.\n\n9 - Na concretização do previsto na alínea a) e na subalínea i) da alínea b) do número anterior deve ser garantida a integração dos alunos na turma."
+  },
+  "221382839": {
+   "fragment_id": "221414452",
+   "type": 11,
+   "heading": "Artigo 12.º — Língua materna de alunos de sistemas de ensino estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Língua materna de alunos de sistemas de ensino estrangeiros\n\nAos alunos recém-integrados no ensino secundário, provenientes de sistemas de ensino estrangeiros, cuja língua materna não é o Português, e que no seu percurso escolar apenas estudaram uma língua estrangeira, aplica-se o seguinte:\n\na) Reconhecimento da língua materna do aluno;\n\nb) Reforço da aprendizagem do Português, designadamente como PLNM;\n\nc) Dispensa da obrigatoriedade de iniciar uma segunda língua estrangeira, visando o reforço do previsto na alínea anterior;\n\nd) Continuidade da aprendizagem da língua estrangeira do sistema de ensino de origem do aluno (LE I), desde que esta seja oferecida no sistema educativo português;\n\ne) Possibilidade de o aluno iniciar, no 10.º ano de escolaridade, uma nova língua estrangeira (LE II), desde que esta não coincida com a sua língua materna.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, produz efeitos a partir do ano letivo de 2023-2024."
+  },
+  "221382840": {
+   "fragment_id": "221414453",
+   "type": 11,
+   "heading": "Artigo 13.º — Educação bilingue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Educação bilingue\n\n1 - As escolas de referência para a educação e ensino bilingue constituem uma resposta educativa especializada para garantir o acesso ao currículo nacional.\n\n2 - Para os efeitos previstos no número anterior, as matrizes curriculares-base dos cursos científico-humanísticos integram na componente de formação geral:\n\na) Língua Gestual Portuguesa (LGP), como primeira língua (L1);\n\nb) Língua Portuguesa Escrita como segunda língua (L2).\n\n3 - Nos termos dos n.os 1 e 2, a disciplina de LGP substitui a disciplina de Português.\n\n4 - Os alunos cuja primeira língua é a LGP frequentam ainda a disciplina de L2, com acréscimo de carga horária, tendo como referência a carga horária da matriz curricular-base dos cursos científico-humanísticos.\n\n5 - Os tempos a atribuir às disciplinas mencionadas no n.º 2 são os previstos para a correspondente disciplina na matriz curricular-base, podendo as escolas proceder ao seu reforço, de acordo com as necessidades identificadas.\n\n6 - Sem prejuízo do estabelecido no n.º 4, os alunos dão continuidade à língua estrangeira iniciada no ensino básico ou, em alternativa, por decisão da escola e em articulação com os encarregados de educação, podem iniciar uma segunda língua estrangeira no 10.º ano de escolaridade."
+  },
+  "221382841": {
+   "fragment_id": "221414454",
+   "type": 11,
+   "heading": "Artigo 14.º — Organização do percurso formativo do aluno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Organização do percurso formativo do aluno\n\n1 - Os alunos dos cursos científico-humanísticos realizam, obrigatoriamente, a componente de formação geral e a disciplina trienal da componente de formação específica do curso que frequentam.\n\n2 - Na componente de formação específica, os alunos escolhem, em função do percurso formativo pretendido e das concretas possibilidades de oferta de escola, duas disciplinas bienais e duas disciplinas anuais, obedecendo às regras seguintes:\n\na) O aluno inicia duas disciplinas bienais, no 10.º ano, a escolher de entre as disciplinas bienais da componente de formação específica do respetivo curso;\n\nb) O aluno escolhe duas disciplinas anuais no 12.º ano, sendo uma delas obrigatoriamente ligada à natureza do curso, de acordo com o grupo de opções constante na alínea (d) da matriz curricular-base do respetivo curso;\n\nc) Não existe regime de precedências de disciplinas.\n\n3 - Em conformidade com o disposto no artigo 16.º do Decreto-Lei n.º 55/2018, de 6 de julho, o aluno pode realizar um percurso formativo próprio, de acordo com as regras constantes no artigo 16.º da presente portaria."
+  },
+  "221382842": {
+   "fragment_id": "221414455",
+   "type": 11,
+   "heading": "Artigo 15.º — Substituição de disciplinas e complemento de currículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Substituição de disciplinas e complemento de currículo\n\n1 - Sem prejuízo do disposto no artigo anterior, o aluno pode:\n\na) No final do 10.º ano, substituir uma das disciplinas bienais da componente de formação específica por outra da mesma componente do seu curso, de acordo com as possibilidades da escola, sendo a nova disciplina contabilizada para efeitos de transição para o 11.º ano;\n\nb) No final do 11.º ano ou do 12.º ano, substituir qualquer disciplina bienal da componente de formação específica por outra bienal da mesma componente de formação do seu curso em que tenha obtido aprovação;\n\nc) No final do 12.º ano, quer tenha concluído este ano de escolaridade ou não, substituir qualquer disciplina anual da componente de formação específica por outra da mesma componente de formação do seu curso.\n\n2 - Na disciplina de Língua Estrangeira da componente de formação geral, o aluno pode, no final do ano que frequenta, substituir a língua estrangeira frequentada por outra língua estrangeira, sem prejuízo do previsto na alínea (c) do anexo VI do Decreto-Lei n.º 55/2018, de 6 de julho.\n\n3 - A disciplina de Português pode ser substituída pela disciplina de PLNM, desde que o aluno esteja inserido em nível de iniciação (A1, A2) ou no nível intermédio (B1).\n\n4 - Para além do disposto nos números anteriores o aluno pode, até ao 5.º dia útil do 2.º período, solicitar a substituição de uma disciplina do 10.º ou 11.º ano, no caso das bienais, e no 12.º, no caso de disciplinas anuais.\n\n5 - O percurso formativo do aluno pode ser diversificado e complementado, mediante a matrícula noutras disciplinas, realização de exame nacional ou prova de equivalência à frequência, conforme os casos, de acordo com a oferta da escola.\n\n6 - Nos casos previstos no número anterior, a classificação obtida nas disciplinas consideradas complemento do currículo:\n\na) É contabilizada, para o cálculo da média final de curso, por opção do aluno, desde que integrem o plano curricular do respetivo curso, sem prejuízo do disposto na alínea seguinte;\n\nb) No caso das disciplinas anuais, estas só são consideradas para efeito de cálculo da média final de curso até ao limite de duas disciplinas;\n\nc) Não é considerada para efeitos de transição de ano e de conclusão de curso, exceto quando o aluno utiliza estas disciplinas em substituição de outras do seu plano curricular.\n\n7 - Sempre que o aluno opte pela Língua Estrangeira I, como disciplina facultativa, a classificação nela obtida pode, por opção do aluno, contar para o cálculo da média final de curso, não contando para efeitos de transição e ou conclusão do curso."
+  },
+  "221382843": {
+   "fragment_id": "221414456",
+   "type": 11,
+   "heading": "Artigo 16.º — Percurso formativo próprio com permuta de disciplinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Percurso formativo próprio com permuta de disciplinas\n\n1 - Nos cursos científico-humanísticos, a adoção de um percurso formativo próprio realiza-se nas seguintes condições:\n\na) Permuta de uma das disciplinas bienais e ou de uma das disciplinas anuais da componente de formação específica por disciplina(s) correspondente(s) de um curso diferente do frequentado;\n\nb) Realização, obrigatória, de uma disciplina bienal e de uma disciplina anual da componente de formação específica da natureza do curso frequentado;\n\nc) Da permuta entre disciplinas, não pode resultar a frequência de disciplinas equivalentes, ou que abranjam parte dos mesmos conteúdos de outras disciplinas da mesma área do saber do plano curricular do seu curso, em conformidade com os anexos VI e VII à presente portaria da qual fazem parte integrante.\n\n2 - A permuta de disciplinas é realizada:\n\na) Na matrícula para a frequência do 10.º ano de escolaridade, na disciplina bienal, ou na sua renovação para frequência do 12.º ano de escolaridade, na disciplina anual;\n\nb) Até ao 5.º dia útil do 2.º período dos referidos anos de escolaridade.\n\n3 - A adoção de um percurso formativo próprio, através da permuta de disciplinas, é feita mediante requerimento do encarregado de educação ou do aluno, quando maior de idade, ao diretor da escola, devendo ser garantido o acesso a toda a informação relevante, designadamente as condições de conclusão e de prosseguimento de estudos.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, produz efeitos a partir do ano letivo de 2023-2024."
+  },
+  "221382844": {
+   "fragment_id": "221414457",
+   "type": 11,
+   "heading": "Artigo 17.º — Planeamento curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Planeamento curricular\n\n1 - No âmbito das atribuições que lhe estão legalmente atribuídas, compete aos órgãos de administração e gestão da escola a conceção e operacionalização do planeamento curricular, designadamente no que respeita à decisão sobre as prioridades e opções estruturantes de natureza curricular.\n\n2 - O conselho pedagógico, enquanto órgão de coordenação e supervisão pedagógica e orientação educativa, para além de propor a definição das opções curriculares estruturantes a consagrar no projeto educativo da escola, delibera sobre:\n\na) A adoção de outros instrumentos de planeamento curricular, definindo, sempre que existam, a sua natureza e finalidades;\n\nb) As formas de monitorização do planeamento curricular no âmbito dos instrumentos adotados pela escola.\n\n3 - Na concretização das opções curriculares estruturantes, do planeamento e organização das atividades a desenvolver ao nível da turma ou grupo de alunos, com vista à prossecução das áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória intervêm, designadamente:\n\na) O conselho de turma;\n\nb) As equipas educativas, caso existam;\n\nc) Outros professores ou técnicos que intervenham no processo de ensino e aprendizagem e representantes de serviços ou entidades cuja contribuição o conselho de turma considere conveniente;\n\nd) Os representantes dos pais e encarregados de educação da turma.\n\n4 - Os alunos são envolvidos no desenho de opções curriculares e na avaliação da sua eficácia, bem como no planeamento do ensino e na avaliação, tendo por referência processos de autorregulação da aprendizagem.\n\n5 - Assumem especial relevância no planeamento curricular os intervenientes diretamente envolvidos no processo de ensino, aprendizagem e avaliação, competindo-lhes, designadamente promover:\n\na) A adequação do currículo e das ações estratégicas de ensino às características específicas da turma ou grupo de alunos, tomando decisões relativas à consolidação, aprofundamento e enriquecimento das Aprendizagens Essenciais;\n\nb) O desenvolvimento de trabalho interdisciplinar e de articulação curricular, sustentado em práticas de planeamento conjunto de estratégias de ensino e de aprendizagem, incluindo os procedimentos, técnicas e instrumentos e de avaliação.\n\n6 - No desenvolvimento do previsto no n.º 3 devem ser privilegiadas dinâmicas de trabalho pedagógico de natureza interdisciplinar e de articulação disciplinar, concretizadas numa ação educativa que, nos termos previstos no n.º 3 do artigo 21.º do Decreto-Lei n.º 55/2018, de 6 de julho, vise, entre outras, garantir:\n\na) Uma atuação preventiva que permita antecipar e prevenir o insucesso e o abandono escolares;\n\nb) A implementação das medidas multinível, universais, seletivas e adicionais, que se revelem ajustadas à aprendizagem e inclusão dos alunos;\n\nc) A rentabilização eficiente dos recursos e oportunidades existentes na escola e na comunidade;\n\nd) A adequação, diversidade e complementaridade das estratégias de ensino e aprendizagem, bem como a produção de informação descritiva sobre os desempenhos dos alunos;\n\ne) A regularidade da monitorização, avaliando a intencionalidade e o impacto das estratégias e medidas adotadas."
+  },
+  "221382845": {
+   "fragment_id": "221414458",
+   "type": 8,
+   "heading": "Secção II — Avaliação das aprendizagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Avaliação das aprendizagens"
+  },
+  "221382846": {
+   "fragment_id": "221414459",
+   "type": 3,
+   "heading": "Subsecção I — Processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Processo de avaliação"
+  },
+  "221382847": {
+   "fragment_id": "221414460",
+   "type": 11,
+   "heading": "Artigo 18.º — Objeto da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Objeto da avaliação\n\n1 - A avaliação incide sobre as aprendizagens desenvolvidas pelos alunos, tendo por referência as Aprendizagens Essenciais, que constituem orientação curricular de base, com especial enfoque nas áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.\n\n2 - A avaliação assume caráter contínuo e sistemático, ao serviço das aprendizagens, e fornece ao professor, ao aluno, ao encarregado de educação e aos restantes intervenientes informação sobre o desenvolvimento do trabalho, a qualidade das aprendizagens realizadas e os percursos para a sua melhoria.\n\n3 - As informações obtidas em resultado da avaliação permitem ainda a revisão do processo de ensino e de aprendizagem.\n\n4 - A avaliação certifica aprendizagens realizadas, nomeadamente os saberes adquiridos, bem como as capacidades e atitudes desenvolvidas no âmbito das áreas de competência inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória."
+  },
+  "221382848": {
+   "fragment_id": "221414461",
+   "type": 11,
+   "heading": "Artigo 19.º — Intervenientes e competências no processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Intervenientes e competências no processo de avaliação\n\n1 - No processo de avaliação das aprendizagens são intervenientes, para além dos constantes no artigo 17.º, os serviços e organismos do Ministério da Educação.\n\n2 - Aos professores e outros profissionais intervenientes no processo de avaliação compete, designadamente através da modalidade de avaliação formativa, em harmonia com as orientações definidas pelos órgãos com competências no domínio pedagógico-didático:\n\na) Adotar medidas que visam contribuir para as aprendizagens de todos os alunos;\n\nb) Fornecer informação aos alunos e encarregados de educação sobre o desenvolvimento das aprendizagens;\n\nc) Reajustar as práticas educativas, orientando-as para a promoção do sucesso educativo.\n\n3 - O acompanhamento e a avaliação das aprendizagens são da responsabilidade do conselho de turma, sob proposta dos professores de cada disciplina, bem como dos órgãos de administração e gestão e dos órgãos de coordenação e supervisão pedagógica da escola.\n\n4 - Compete ao diretor, com base em dados regulares da avaliação das aprendizagens e noutros elementos apresentados pelo diretor de turma, bem como pela equipa multidisciplinar, prevista no Decreto-Lei n.º 54/2018, de 6 de julho, mobilizar e coordenar os recursos educativos existentes, com vista a desencadear respostas adequadas às necessidades dos alunos.\n\n5 - As respostas às necessidades dos alunos, enquanto medidas de promoção do sucesso educativo, devem ser pedagogicamente alinhadas com evidências do desempenho, assumindo, sempre que aplicável, um caráter transitório.\n\n6 - O diretor deve ainda garantir o acesso à informação e assegurar as condições de participação dos alunos e dos encarregados de educação, dos professores e de outros profissionais intervenientes no processo, nos termos definidos no regulamento interno.\n\n7 - Aos serviços ou organismos do Ministério da Educação compete, especificamente no âmbito da avaliação externa, providenciar atempadamente informação de qualidade decorrente do processo de avaliação, de forma a contribuir para a melhoria das aprendizagens e para a promoção do sucesso educativo."
+  },
+  "221382849": {
+   "fragment_id": "221414462",
+   "type": 11,
+   "heading": "Artigo 20.º — Critérios de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Critérios de avaliação\n\n1 - Até ao início do ano letivo, o conselho pedagógico da escola, enquanto órgão regulador do processo de avaliação das aprendizagens, define, no âmbito das prioridades e opções curriculares, e sob proposta dos departamentos curriculares, os critérios de avaliação tendo conta, designadamente:\n\na) O Perfil dos Alunos à Saída da Escolaridade Obrigatória;\n\nb) As Aprendizagens Essenciais;\n\nc) Os demais documentos curriculares, com vista à consolidação, aprofundamento e enriquecimento das Aprendizagens Essenciais.\n\n2 - Nos critérios de avaliação deve ser enunciado um perfil de aprendizagens específicas para cada ano de escolaridade, integrando descritores de desempenho, em consonância com as Aprendizagens Essenciais e as áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.\n\n3 - Os critérios de avaliação devem traduzir a importância relativa que cada um dos domínios e temas assume nas Aprendizagens Essenciais, designadamente no que respeita à valorização da competência da oralidade e à dimensão prática e ou experimental das aprendizagens a desenvolver.\n\n4 - Os critérios de avaliação constituem referenciais comuns na escola, sendo operacionalizados pelo conselho de turma.\n\n5 - O diretor deve garantir a divulgação dos critérios de avaliação junto dos diversos intervenientes."
+  },
+  "221382850": {
+   "fragment_id": "221414463",
+   "type": 11,
+   "heading": "Artigo 21.º — Registo, tratamento e análise da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Registo, tratamento e análise da informação\n\n1 - As informações relativas a cada aluno decorrentes das diferentes modalidades de avaliação devem ser objeto de registo, nos termos a definir pelos órgãos de administração e gestão e de coordenação e supervisão pedagógica da escola.\n\n2 - Cabe ao diretor definir os procedimentos adequados para assegurar a circulação, em tempo útil, da informação relativa aos resultados e desempenhos escolares, a fim de garantir as condições necessárias para que os encarregados de educação e os alunos possam participar na melhoria das aprendizagens.\n\n3 - A partir da informação individual sobre o desempenho dos alunos e da informação agregada, nomeadamente dos relatórios com resultados e outros dados relevantes ao nível da turma e da escola, os professores e os demais intervenientes no processo de ensino devem implementar rotinas de avaliação sobre as suas práticas pedagógicas, com vista à consolidação ou reajustamento de estratégias que conduzam à melhoria das aprendizagens.\n\n4 - A análise a que se refere o número anterior, para além dos indicadores de desempenho disponíveis, deve ter em conta outros indicadores considerados relevantes, designadamente as taxas de retenção e desistência, transição e conclusão, numa lógica de melhoria de prestação do serviço educativo.\n\n5 - No processo de análise da informação, devem valorizar-se abordagens de complementaridade entre os dados da avaliação interna e externa das aprendizagens que permitam uma leitura abrangente do percurso de aprendizagem do aluno, designadamente no contexto específico da escola.\n\n6 - Do resultado da análise devem decorrer processos de planificação das atividades curriculares e extracurriculares que, sustentados pelos dados disponíveis, visem melhorar a qualidade das aprendizagens, combater o abandono escolar e promover o sucesso educativo.\n\n7 - Os resultados do processo mencionado nos n.os 3, 4 e 5 são disponibilizados à comunidade escolar pelos meios considerados adequados."
+  },
+  "221382851": {
+   "fragment_id": "221414464",
+   "type": 3,
+   "heading": "Subsecção II — Avaliação interna e externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Avaliação interna e externa"
+  },
+  "221382852": {
+   "fragment_id": "221414465",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação interna\n\n1 - A avaliação interna das aprendizagens compreende, de acordo com a finalidade que preside à recolha de informação, as modalidades formativa e sumativa.\n\n2 - A avaliação interna das aprendizagens é da responsabilidade dos professores e dos órgãos de administração e gestão e de coordenação e supervisão pedagógica da escola.\n\n3 - Na avaliação interna são envolvidos os alunos, privilegiando-se um processo de autorregulação das suas aprendizagens."
+  },
+  "221382853": {
+   "fragment_id": "221414466",
+   "type": 11,
+   "heading": "Artigo 23.º — Avaliação formativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Avaliação formativa\n\n1 - A avaliação formativa, enquanto principal modalidade de avaliação, integra o processo de ensino e de aprendizagem fundamentando o seu desenvolvimento.\n\n2 - Os procedimentos a adotar no âmbito desta modalidade de avaliação devem privilegiar:\n\na) A regulação do ensino e das aprendizagens, através da recolha de informação que permita conhecer a forma como se ensina e como se aprende, fundamentando a adoção e o ajustamento de medidas e estratégias pedagógicas;\n\nb) O caráter contínuo e sistemático dos processos avaliativos e a sua adaptação aos contextos em que ocorrem;\n\nc) A diversidade das formas de recolha de informação, recorrendo a uma variedade de procedimentos, técnicas e instrumentos adequados às finalidades que lhes presidem, à diversidade das aprendizagens, aos destinatários e às circunstâncias em que ocorrem.\n\n3 - Na recolha de informação sobre as aprendizagens, com recurso à diversidade e adequação de procedimentos, técnicas e instrumentos de avaliação, devem ser prosseguidos objetivos de melhoria da qualidade da informação a recolher.\n\n4 - A melhoria da qualidade da informação recolhida exige a triangulação de estratégias, técnicas e instrumentos, beneficiando com a intervenção de mais do que um avaliador."
+  },
+  "221382854": {
+   "fragment_id": "221414467",
+   "type": 11,
+   "heading": "Artigo 24.º — Avaliação sumativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Avaliação sumativa\n\n1 - A avaliação sumativa consubstancia um juízo global sobre as aprendizagens desenvolvidas pelos alunos.\n\n2 - A avaliação sumativa traduz a necessidade de, no final de cada período letivo, informar alunos e encarregados de educação sobre o estado de desenvolvimento das aprendizagens.\n\n3 - Esta modalidade de avaliação traduz ainda a tomada de decisão sobre o percurso escolar do aluno.\n\n4 - A coordenação do processo de tomada de decisão relativa à avaliação sumativa, garantindo a sua natureza globalizante e o respeito pelos critérios de avaliação referidos no artigo 20.º, compete ao diretor de turma.\n\n5 - A avaliação sumativa de disciplinas com organização de funcionamento diversa da anual processa-se do seguinte modo:\n\na) Para a atribuição das classificações, o conselho de turma reúne no final do período de organização adotado;\n\nb) A classificação atribuída no final do período adotado fica registada em ata e está sujeita a aprovação do conselho de turma de avaliação no final do ano letivo.\n\n6 - Na organização de funcionamento de disciplinas diversa da anual não pode resultar uma diminuição do reporte aos alunos e encarregados de educação sobre a avaliação das aprendizagens, devendo ser garantida, pelo menos, uma vez durante o período adotado e, no final do mesmo, uma apreciação sobre a evolução das aprendizagens, incluindo as áreas a melhorar ou a consolidar, a inscrever na ficha de registo de avaliação.\n\n7 - A avaliação sumativa é complementada pela realização de exames finais nacionais, nos termos dos artigos 27.º e 28.º, podendo processar-se ainda através da realização de provas de equivalência à frequência, nos termos do artigo 26.º"
+  },
+  "221382855": {
+   "fragment_id": "221414468",
+   "type": 11,
+   "heading": "Artigo 25.º — Formalização da avaliação sumativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Formalização da avaliação sumativa\n\n1 - A avaliação sumativa formalizada no final de cada período tem, no final do 3.º período, as seguintes finalidades:\n\na) Apreciação global das aprendizagens desenvolvidas pelo aluno e do seu aproveitamento ao longo do ano;\n\nb) Atribuição, no respetivo ano de escolaridade, de classificação de frequência ou de classificação final nas disciplinas;\n\nc) Decisão, conforme os casos, sobre a progressão nas disciplinas ou transição de ano, bem como sobre a aprovação em disciplinas terminais dos 10.º, 11.º e 12.º anos de escolaridade não sujeitas a exame final nacional no plano de curricular do aluno.\n\n2 - A avaliação sumativa é da responsabilidade conjunta e exclusiva dos professores que compõem o conselho de turma, sob critérios aprovados pelo conselho pedagógico de acordo com o disposto no n.º 1 do artigo 20.º\n\n3 - A classificação a atribuir a cada aluno é proposta ao conselho de turma pelo professor de cada disciplina.\n\n4 - As disciplinas constantes dos planos curriculares são objeto de classificações na escala de 0 a 20 valores, e, sempre que se considere relevante, a classificação é acompanhada de uma apreciação descritiva sobre a evolução da aprendizagem do aluno, incluindo as áreas a melhorar ou a consolidar a inscrever na ficha de registo de avaliação.\n\n5 - Exceciona-se do disposto no número anterior Cidadania e Desenvolvimento que, em caso algum, é objeto de avaliação sumativa.\n\n6 - As aprendizagens desenvolvidas pelos alunos no quadro das opções curriculares, nomeadamente dos DAC a que se refere o artigo 9.º, são consideradas na avaliação das respetivas disciplinas."
+  },
+  "221382856": {
+   "fragment_id": "221414469",
+   "type": 11,
+   "heading": "Artigo 26.º — Provas de equivalência à frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Provas de equivalência à frequência\n\n1 - As provas de equivalência realizam-se a nível de escola, em duas fases, com vista a certificação de conclusão do ensino secundário.\n\n2 - Considerada a natureza das aprendizagens objeto de avaliação, e em função de parâmetros previamente definidos pelo conselho pedagógico, as provas podem ser constituídas pelas seguintes componentes:\n\na) Escrita (E), que implica um registo escrito ou um registo bidimensional ou tridimensional e a possível utilização de diferentes materiais;\n\nb) Oral (O), que implica, com eventual recurso a um guião, a produção e interação oral na presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno;\n\nc) Prática (P), que implica a realização de tarefas objeto de avaliação performativa, em situações de organização individual ou em grupo, a manipulação de materiais, instrumentos e equipamentos, com eventual produção escrita, que incide sobre o trabalho prático e ou experimental produzido, implicando a presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno.\n\n3 - As provas de equivalência à frequência têm como referencial base as Aprendizagens Essenciais correspondentes à totalidade dos anos que constituem o plano curricular da disciplina, devendo ainda contemplar a avaliação da capacidade de mobilização e integração dos saberes disciplinares, com especial enfoque nas áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade.\n\n4 - Podem realizar provas de equivalência à frequência os candidatos autopropostos que se encontrem, designadamente numa das seguintes situações:\n\na) Frequentem o ensino individual ou o ensino doméstico;\n\nb) Tenham estado matriculados no ano terminal da disciplina a que respeita a prova e anulado a matrícula até ao final da penúltima semana do 3.º período;\n\nc) Pretendam obter aprovação em disciplina cujo ano terminal frequentaram sem aprovação;\n\nd) Pretendam obter aprovação em disciplinas do mesmo curso ou de curso diferente do frequentado e nas quais nunca tenham estado matriculados, desde que estejam ou tenham estado matriculados no ano curricular em que essas disciplinas são terminais;\n\ne) Sejam maiores de 18 anos, fora da escolaridade obrigatória, detentores do 3.º ciclo do ensino básico ou outra habilitação equivalente, não se encontrem matriculados ou tenham anulado a matrícula em todas as disciplinas até ao final da penúltima semana do 3.º período;\n\nf) Pretendam melhorar a classificação final de disciplina, nas situações em que não reúnam condições para realizar a melhoria na qualidade de alunos internos;\n\ng) Tenham ficado excluídos por faltas no ano terminal da disciplina, pela aplicação do previsto na alínea b) do n.º 4 do artigo 21.º do Estatuto do Aluno e Ética Escolar, e pretendam realizar provas na 2.ª fase desse mesmo ano escolar.\n\n5 - Os candidatos a que se refere a alínea e) do número anterior podem ser admitidos à prestação de quaisquer provas de equivalência à frequência dos 11.º e 12.º anos de escolaridade.\n\n6 - Os alunos a frequentar o 11.º ou 12.º anos de escolaridade, matriculados em disciplinas plurianuais no 10.º ou 11.º nas quais não tenham progredido, desde que estejam ou tenham estado matriculados no ano terminal das mesmas, podem ser admitidos à prova de equivalência à frequência ou exame final nacional dessas disciplinas, sem prejuízo do disposto no número seguinte.\n\n7 - A eventual reprovação na prova ou exame final nacional não determina a anulação da classificação obtida na frequência do ano ou anos curriculares anteriores.\n\n8 - Os alunos excluídos por faltas em qualquer disciplina, só podem apresentar-se à respetiva prova de equivalência à frequência no mesmo ano letivo, na 2.ª fase.\n\n9 - Aos alunos do 11.º ano é autorizada a realização de quaisquer provas de equivalência à frequência de disciplinas terminais, nesse ano de escolaridade, não sujeitas a exame final nacional.\n\n10 - Aos alunos do 12.º ano, para efeitos de conclusão de curso, é facultada a apresentação a provas de equivalência à frequência em qualquer disciplina não sujeita a exame final nacional.\n\n11 - Os alunos aprovados em disciplinas terminais dos 11.º e 12.º anos de escolaridade, que pretendam melhorar a classificação, podem requerer a realização de provas de equivalência à frequência:\n\na) No ano de conclusão, na 2.ª fase;\n\nb) No ano escolar seguinte ao previsto na alínea anterior, na 1.ª e 2.ª fases.\n\n12 - Nos casos previstos no número anterior apenas é considerada a nova classificação caso seja superior à anteriormente obtida.\n\n13 - Para efeito de melhoria de classificação, são válidas somente as provas prestadas em disciplinas com o mesmo código de prova de equivalência à frequência do plano curricular em que o aluno obteve a primeira aprovação.\n\n14 - Não é permitida a realização de provas de equivalência à frequência para melhoria de classificação em disciplinas cuja aprovação foi obtida em sistemas de ensino estrangeiros.\n\n15 - Na disciplina bienal de Filosofia da componente de formação geral e nas disciplinas bienais da componente de formação específica, havendo oferta de exame final nacional, não há provas de equivalência à frequência, sendo estas substituídas pelos exames finais nacionais correspondentes.\n\n16 - A identificação das disciplinas em que existem provas de equivalência à frequência e as componentes que as constituem são as constantes do anexo VIII à presente portaria, da qual faz parte integrante.\n\n17 - As normas e os procedimentos a observar relativos à realização das provas de equivalência à frequência, incluindo a sua duração, são objeto do regulamento de provas e exames aprovado por despacho do membro do Governo responsável pela área da educação.\n\n18 - As provas de equivalência à frequência realizam-se no período de tempo fixado no calendário de provas e exames.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, produz efeitos a partir do ano letivo de 2023-2024."
+  },
+  "221382857": {
+   "fragment_id": "221414470",
+   "type": 11,
+   "heading": "Artigo 27.º — Avaliação externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Avaliação externa\n\n1 - A avaliação externa das aprendizagens, da responsabilidade dos serviços e organismos do Ministério da Educação, compreende exames finais nacionais, sendo os resultados dos mesmos considerados para a classificação final de disciplina.\n\n2 - Considerada a natureza das aprendizagens objeto de avaliação, os exames finais nacionais compreendem uma ou mais componentes das provas previstas no n.º 2 do artigo 26.º\n\n3 - A identificação das disciplinas em que existem exames finais nacionais é a constante no anexo IX à presente portaria, da qual faz parte integrante.\n\n4 - No âmbito da sua autonomia, compete aos órgãos de administração e gestão e de coordenação e supervisão pedagógica da escola definir os procedimentos que permitam assegurar a complementaridade entre a informação obtida através da avaliação externa e da avaliação interna das aprendizagens, em harmonia com as finalidades definidas no Decreto-Lei n.º 55/2018, de 6 de julho.\n\n5 - Os exames finais nacionais podem ser realizados em suporte eletrónico, nos termos a definir por despacho do membro do Governo responsável pela área da educação.\n\n6 - Os exames finais nacionais realizam-se nas datas previstas no despacho que determina o calendário de provas e exames."
+  },
+  "221382858": {
+   "fragment_id": "221414471",
+   "type": 11,
+   "heading": "Artigo 28.º — Exames finais nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Exames finais nacionais\n\n1 - Os exames finais nacionais, realizados nos termos previstos no n.º 4 do artigo 25.º do Decreto-Lei n.º 55/2018, de 6 de julho, têm como referencial de avaliação as Aprendizagens Essenciais da disciplina, com especial enfoque nas áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.\n\n2 - Os exames finais nacionais são realizados no ano terminal da respetiva disciplina nos termos seguintes:\n\na) Disciplina de Português da componente de formação geral;\n\nb) Disciplina trienal da componente de formação específica do curso;\n\nc) Duas disciplinas bienais, podendo optar por uma das seguintes situações:\n\ni) Nas duas disciplinas bienais da componente de formação específica do curso;\n\nii) Numa das disciplinas bienais da componente de formação específica do curso e na disciplina de Filosofia da componente de formação geral;\n\niii) Na disciplina bienal da componente de formação específica do curso e na disciplina bienal da componente de formação específica objeto de permuta.\n\n3 - No ato de inscrição para a realização dos exames finais nacionais o aluno opta e regista as duas disciplinas bienais para efeitos de conclusão do curso, considerando as situações previstas no número anterior.\n\n4 - As opções previstas na alínea c) do n.º 2 e no n.º 3 podem ser alteradas no próprio ano em que o aluno se inscreveu para a realização dos exames, mediante autorização do diretor da escola, e nos anos letivos seguintes, desde que o aluno ainda não tenha concluído nenhuma das disciplinas relativamente às quais pretende alterar a decisão de realização de exame final nacional.\n\n5 - Podem realizar exames finais nacionais os alunos autopropostos nos termos definidos no n.º 4 do artigo 26.º e os alunos internos nos termos definidos no número seguinte.\n\n6 - São internos em cada disciplina, para realização dos exames nacionais, os alunos que, na Classificação Interna Final (CIF) da disciplina a cujo exame se apresentam, tenham obtido simultaneamente uma classificação igual ou superior a 10 valores e classificação anual de frequência no ano terminal igual ou superior a 8 valores.\n\n7 - A CIF é calculada através da média aritmética simples, arredondada às unidades, das classificações anuais de frequência de cada um dos anos em que a disciplina foi ministrada.\n\n8 - A CIF só é válida para realização de exames nacionais no ano em que a mesma é obtida.\n\n9 - Os candidatos a que se refere a alínea e) do n.º 4 do artigo 26.º podem apresentar-se à realização de quaisquer exames finais nacionais dos 11.º e 12.º anos de escolaridade.\n\n10 - Os alunos excluídos por faltas em qualquer disciplina só podem apresentar-se ao respetivo exame final nacional no mesmo ano letivo, na 2.ª fase, na qualidade de autopropostos.\n\n11 - Aos alunos do 11.º ano é autorizada a realização de exames finais nacionais em qualquer disciplina sujeita a exame nacional e terminal neste ano de escolaridade.\n\n12 - Aos alunos do 12.º ano, para efeitos de conclusão de curso, é facultada a apresentação a exame final nacional em qualquer disciplina identificada no anexo IX.\n\n13 - Os alunos aprovados em disciplinas terminais do 11.º ou do 12.º ano de escolaridade sujeitas a exame nacional, que pretendam melhorar a sua classificação, podem requerer exame final nacional:\n\na) No ano letivo de conclusão, na 2.ª fase;\n\nb) No ano letivo seguinte ao previsto na alínea anterior, na 1.ª e 2.ª fases.\n\n14 - Nos casos previstos no número anterior apenas é considerada a nova classificação caso seja superior à anteriormente obtida.\n\n15 - Para efeito de melhoria de classificação, são válidos somente os exames prestados em disciplinas com o mesmo código de exame em que o aluno obteve a primeira aprovação.\n\n16 - Não é permitida a realização de exames de melhoria de classificação em disciplinas cuja aprovação foi obtida em sistemas de ensino estrangeiro.\n\n17 - As normas e os procedimentos a observar relativos à realização das provas de equivalência à frequência, incluindo a sua duração, são objeto do regulamento de provas e exames aprovado por despacho do membro do Governo responsável pela área da educação.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, aplica-se a partir do ano letivo de: a) 2023-2024, aos alunos que ingressaram no 10.º ano de escolaridade no ano letivo de 2022-2023 e que realizam exames finais nacionais no 11.º ano de escolaridade; b) 2024-2025, aos alunos que realizam exames finais nacionais no 12.º ano de escolaridade."
+  },
+  "221382859": {
+   "fragment_id": "221414472",
+   "type": 11,
+   "heading": "Artigo 29.º — Condições especiais de realização de provas e exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Condições especiais de realização de provas e exames\n\nAos alunos abrangidos por medidas universais, seletivas ou adicionais, aplicadas no âmbito do Decreto-Lei n.º 54/2018, de 6 de julho, que realizam provas de equivalência à frequência e exames finais nacionais são garantidas, se necessário, adaptações no processo de realização das mesmas."
+  },
+  "221382860": {
+   "fragment_id": "221414473",
+   "type": 3,
+   "heading": "Subsecção III — Transição, aprovação e progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Transição, aprovação e progressão"
+  },
+  "221382861": {
+   "fragment_id": "221414474",
+   "type": 11,
+   "heading": "Artigo 30.º — Condições de transição e aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Condições de transição e aprovação\n\n1 - A aprovação do aluno em cada disciplina depende da obtenção de uma Classificação Final de Disciplina (CFD) igual ou superior a 10 valores.\n\n2 - Para efeitos do disposto no número anterior, a classificação anual de frequência no ano terminal das disciplinas plurianuais não pode ser inferior a 8 valores.\n\n3 - A transição do aluno para o ano de escolaridade seguinte verifica-se sempre que a classificação anual de frequência ou final de disciplina não seja inferior a 10 valores a mais do que duas disciplinas, sem prejuízo do disposto nas alíneas seguintes:\n\na) Os alunos que transitam para o ano seguinte com classificações anuais de frequência inferiores a 10 valores, em uma ou duas disciplinas, progridem nesta(s) disciplina(s), desde que a(s) classificação(ões) obtida(s) não seja(m) inferior(es) a 8 valores;\n\nb) Os alunos não progridem nas disciplinas trienais em que tenham obtido consecutivamente nos 10.º e 11.º anos classificação anual de frequência inferior a 10 valores;\n\nc) São também consideradas, para os efeitos de transição de ano, as disciplinas a que o aluno tenha sido excluído por faltas ou anulado a matrícula;\n\nd) No caso de disciplina com mais do que uma classificação anual de frequência inferior a 10, a mesma conta, apenas uma vez, para efeitos de transição;\n\ne) A disciplina de Educação Moral e Religiosa, quando frequentada com assiduidade, não é considerada para efeitos de progressão de ano;\n\nf) Os alunos excluídos por faltas na disciplina de Educação Moral e Religiosa realizam, no final do 10.º, 11.º ou 12.º ano de escolaridade, consoante o ano em que se verificou a exclusão, uma prova especial de avaliação, elaborada a nível de escola;\n\ng) A aprovação na disciplina de Educação Moral e Religiosa, nas situações referidas na alínea anterior, verifica-se quando o aluno obtém uma classificação igual ou superior a 10 valores.\n\n4 - Nas situações em que o aluno tenha procedido a substituição ou a permuta de disciplinas no plano curricular, as novas disciplinas passam a integrar o plano curricular do aluno, sendo consideradas para efeitos de transição.\n\n5 - Aos alunos retidos, além da renovação da matrícula nas disciplinas em que não progrediram ou não obtiveram aprovação, é ainda facultada a matrícula, nesse ano, em disciplinas do mesmo ano de escolaridade em que tenham progredido ou sido aprovados, para efeitos de melhoria de classificação, a qual só será considerada quando for superior à já obtida."
+  },
+  "221382862": {
+   "fragment_id": "221457875",
+   "type": 11,
+   "heading": "Artigo 31.º — Situações especiais de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Situações especiais de classificação\n\n1 - Sempre que, em qualquer disciplina anual, o número de aulas ministradas durante todo o ano letivo não tenha atingido o número previsto para oito semanas completas, considera-se o aluno aprovado, sem atribuição de classificação nessa disciplina.\n\n2 - Para obtenção de classificação no caso referido no número anterior, o aluno pode repetir a frequência da disciplina, de acordo com as possibilidades da escola, ou requerer prova de equivalência à frequência.\n\n3 - Caso a situação prevista no número anterior ocorra em disciplinas plurianuais, não sujeitas a exame final nacional no plano curricular do aluno, considera-se o aluno aprovado ou em condições de progredir na disciplina, conforme se trate ou não de ano terminal da mesma, sem atribuição de classificação nesse ano curricular e sem prejuízo do disposto no número seguinte.\n\n4 - Para efeitos de atribuição de classificação final de disciplina, considera-se a classificação obtida ou a média aritmética simples, arredondada às unidades, das classificações obtidas no(s) ano(s) em que foi atribuída classificação, exceto se a classificação final for inferior a 10 valores, caso em que o aluno deverá realizar prova de equivalência à frequência.\n\n5 - Nos casos referidos no n.º 3, para obtenção de classificação anual de frequência, o aluno pode repetir a frequência da disciplina, de acordo com as possibilidades da escola, ou requerer prova de equivalência à frequência, nos casos em que a situação ocorra no ano terminal da mesma.\n\n6 - Sempre que, em qualquer disciplina sujeita a exame final nacional no plano curricular do aluno, o número de aulas lecionadas durante o ano letivo seja inferior a oito semanas completas, o aluno é admitido a exame ou progride sem classificação nesse ano curricular, consoante se trate ou não de ano terminal da mesma, sendo a classificação interna final da disciplina igual à classificação obtida em exame ou à média aritmética simples, arredondada às unidades, das classificações anuais de frequência obtidas no(s) ano(s) em que foi atribuída classificação.\n\n7 - Para obtenção de classificação anual de frequência nos casos referidos nos números anteriores, o aluno pode repetir a frequência da disciplina, de acordo com as possibilidades da escola, exceto quando se tratar do ano terminal da mesma.\n\n8 - Nas situações referidas nos n.os 2, 5 e 7, apenas será considerada a classificação obtida se o aluno beneficiar da mesma.\n\n9 - Se, por motivo da exclusiva responsabilidade da escola ou por falta de assiduidade motivada por doença prolongada, ou por impedimento legal devidamente comprovado do aluno, não existirem, em qualquer disciplina, elementos de avaliação respeitantes ao 3.º período letivo, a classificação anual de frequência é atribuída pelo conselho de turma, tomando por referência as classificações obtidas no 2.º período letivo.\n\n10 - Sempre que, por falta de assiduidade motivada por doença prolongada, ou por impedimento legal devidamente comprovado, o aluno frequentar as aulas durante um único período letivo, fica sujeito à realização de uma prova extraordinária de avaliação (PEA) em cada disciplina, exceto naquelas em que realizar, no ano curricular em causa, de acordo com o seu plano curricular, exame final nacional constante no anexo IX.\n\n11 - Aos alunos titulares de habilitações estrangeiras a quem, por ingresso tardio no sistema de ensino português, apenas tenha sido possível a atribuição de classificação num só período letivo, aplica-se o disposto no número anterior.\n\n12 - Para efeitos do n.º 10, a classificação anual de frequência a atribuir a cada disciplina é a seguinte:\n\nCAF = (CF + PEA) / 2\n\nem que:\n\nCAF = classificação anual de frequência;\n\nCF = classificação de frequência do período frequentado;\n\nPEA = classificação da prova extraordinária de avaliação.\n\n13 - A PEA deve abranger as Aprendizagens Essenciais do ano curricular em causa, sendo os procedimentos específicos a observar no seu desenvolvimento os constantes do anexo X.\n\n14 - Quando a disciplina é sujeita, no ano curricular em causa, a exame final nacional considera-se a classificação do período frequentado como classificação anual de frequência da disciplina.\n\n15 - Sempre que a obtenção de aprovação na disciplina implique a realização de exame final nacional, o aluno não é dispensado da respetiva prestação.\n\n16 - Se, por motivo da exclusiva responsabilidade da escola, apenas existirem em qualquer disciplina elementos de avaliação respeitantes a um dos três períodos letivos, os alunos podem optar entre:\n\na) Ser-lhes considerada como classificação anual de frequência a obtida nesse período;\n\nb) Não lhes ser atribuída classificação anual de frequência nessa disciplina.\n\n17 - Na situação prevista na alínea b) do número anterior observa-se o seguinte:\n\na) No caso de disciplinas anuais, considera-se o aluno aprovado sem atribuição de classificação;\n\nb) No caso de disciplinas plurianuais não sujeitas a exame nacional, considera-se o aluno aprovado ou em condições de progredir na disciplina, conforme se trate ou não do ano terminal da mesma, sem atribuição de classificação nesse ano curricular, sem prejuízo do disposto na alínea seguinte;\n\nc) Para efeitos de atribuição de classificação final de disciplina, considera-se a classificação obtida ou a média aritmética simples, arredondada às unidades, das classificações obtidas no(s) ano(s) em que foi atribuída classificação, exceto se a classificação final for inferior a 10 valores, caso em que o aluno deverá realizar prova de equivalência à frequência;\n\nd) No caso de disciplinas sujeitas a exame final nacional, o aluno é admitido a exame ou progride sem classificação nesse ano, consoante se trate ou não de ano terminal da mesma, sendo a classificação interna final da disciplina igual à classificação obtida em exame ou à média aritmética simples, arredondada às unidades, das classificações anuais de frequência obtidas no(s) ano(s) em que foi atribuída classificação.\n\n18 - Se a classificação interna final, calculada nos termos do n.º 12 e da alínea d) do n.º 17, for inferior a 10 valores, esta não é considerada para efeitos do cálculo da classificação final da disciplina."
+  },
+  "221382863": {
+   "fragment_id": "221457876",
+   "type": 11,
+   "heading": "Artigo 32.º — Classificação final de disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Classificação final de disciplina\n\n1 - A classificação final das disciplinas não sujeitas a exame final nacional no plano curricular do aluno é obtida da seguinte forma:\n\na) Nas disciplinas anuais, pela atribuição da classificação obtida na frequência;\n\nb) Nas disciplinas plurianuais, pela média aritmética simples das classificações anuais de frequência dos anos em que foram ministradas, com arredondamento às unidades.\n\n2 - A classificação final das disciplinas sujeitas a exame final nacional no plano curricular do aluno é o resultado da média ponderada, com arredondamento às unidades, da classificação obtida na avaliação interna final da disciplina e da classificação obtida em exame final nacional, de acordo com a seguinte fórmula:\n\nCFD = (7CIF + 3 CE) / 10\n\nem que:\n\nCFD = classificação final de disciplina;\n\nCIF = classificação interna final, obtida pela média aritmética simples, com arredondamento às unidades, das classificações anuais de frequência dos anos em que a disciplina foi ministrada;\n\nCE = classificação de exame final.\n\n3 - A classificação final em qualquer disciplina pode também obter-se pelo recurso à realização exclusiva, na qualidade de aluno autoproposto, de provas de equivalência à frequência ou de exames finais nacionais, sendo a classificação final, em caso de aprovação, a obtida na prova ou no exame.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, produz efeitos a partir do ano letivo de: a) 2023-2024, no que respeita ao 10.º ano de escolaridade; b) 2024-2025, no que respeita ao 11.º ano de escolaridade; c) 2025-2026, no que respeita ao 12.º ano de escolaridade."
+  },
+  "221382864": {
+   "fragment_id": "221457877",
+   "type": 11,
+   "heading": "Artigo 33.º — Classificação final de curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Classificação final de curso\n\n1 - A classificação final do curso é o resultado da média aritmética simples, com arredondamento às unidades, da classificação final obtida pelo aluno em todas as disciplinas do seu plano curricular.\n\n2 - A disciplina de Educação Moral e Religiosa não é considerada para efeitos de apuramento da classificação a que se refere o número anterior.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, produz efeitos a partir do ano letivo de: a) 2023-2024, no que respeita ao 10.º ano de escolaridade; b) 2024-2025, no que respeita ao 11.º ano de escolaridade; c) 2025-2026, no que respeita ao 12.º ano de escolaridade."
+  },
+  "221382865": {
+   "fragment_id": "221457878",
+   "type": 11,
+   "heading": "Artigo 34.º — Conselho de turma de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Conselho de turma de avaliação\n\n1 - O conselho de turma, para efeitos de avaliação dos alunos, é constituído pelos professores da turma.\n\n2 - Compete ao conselho de turma:\n\na) Apreciar a proposta de classificação apresentada por cada professor, tendo em conta as informações que a suportam e a situação global do aluno;\n\nb) Deliberar sobre a classificação final a atribuir em cada disciplina.\n\n3 - O funcionamento dos conselhos de turma obedece ao previsto no Código do Procedimento Administrativo.\n\n4 - Quando a reunião não se puder realizar, por falta de quórum ou por indisponibilidade de elementos de avaliação, deve ser convocada nova reunião, no prazo máximo de 48 horas, para a qual cada um dos docentes deve previamente disponibilizar, ao diretor da escola, os elementos de avaliação de cada aluno.\n\n5 - Nas situações previstas no número anterior, o diretor de turma, ou quem o substitua, apresenta ao conselho de turma os elementos de avaliação de cada aluno.\n\n6 - As deliberações das reuniões dos conselhos de turma de avaliação devem resultar do consenso dos professores que as integram.\n\n7 - No conselho de turma podem intervir, sem direito a voto, outros professores ou técnicos que participem no processo de ensino e aprendizagem, bem como outros elementos cuja participação o conselho pedagógico considere conveniente."
+  },
+  "221382866": {
+   "fragment_id": "221457879",
+   "type": 11,
+   "heading": "Artigo 35.º — Registo das classificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Registo das classificações\n\n1 - As classificações no final de cada período letivo são registadas em pauta, bem como nos restantes documentos previstos para esse efeito.\n\n2 - O aproveitamento final de cada disciplina é expresso pela classificação atribuída pelo conselho de turma na reunião de avaliação do 3.º período.\n\n3 - As deliberações do conselho de turma são ratificadas pelo diretor da escola.\n\n4 - O diretor da escola deve garantir a verificação das pautas e da restante documentação relativa às reuniões dos conselhos de turma, assegurando-se da conformidade do cumprimento das disposições em vigor, competindo-lhe desencadear os mecanismos necessários à correção de eventuais irregularidades.\n\n5 - As pautas, após a ratificação prevista no n.º 3, são afixadas em local apropriado no interior da escola, nelas devendo constar a data da respetiva afixação.\n\n6 - O diretor da escola, sempre que o considere justificado, pode determinar a repetição da reunião do conselho de turma, informando sobre os motivos que fundamentam tal determinação.\n\n7 - Se, após a repetição da reunião, subsistirem factos que, no entender do diretor da escola, impeçam a ratificação da deliberação do conselho de turma, deve a situação ser apreciada em reunião do conselho pedagógico."
+  },
+  "221382867": {
+   "fragment_id": "221457880",
+   "type": 11,
+   "heading": "Artigo 36.º — Revisão das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Revisão das decisões\n\n1 - As decisões relativas à avaliação das aprendizagens no 3.º período podem ser objeto de pedido de revisão dirigido, pelo encarregado de educação, ou pelo aluno quando maior de idade, ao diretor da escola.\n\n2 - Os pedidos de revisão são apresentados em requerimento devidamente fundamentado em razões de ordem técnica, pedagógica ou legal, no prazo de três dias úteis a contar do dia seguinte ao da data da afixação da pauta, acompanhado dos documentos considerados pertinentes.\n\n3 - Os requerimentos recebidos depois de expirado o prazo fixado no número anterior, bem como os que não apresentem qualquer fundamentação são liminarmente indeferidos.\n\n4 - O diretor convoca, nos cinco dias úteis após a aceitação do requerimento, uma reunião extraordinária do conselho de turma para apreciação do pedido.\n\n5 - O conselho de turma, reunido extraordinariamente, aprecia o pedido de revisão e delibera sobre o mesmo, elaborando um relatório pormenorizado que deve integrar a ata da reunião.\n\n6 - Nos casos em que o conselho de turma mantenha a sua deliberação, o processo é enviado pelo diretor ao conselho pedagógico para emissão de parecer prévio à decisão final.\n\n7 - Da decisão do diretor e respetiva fundamentação é dado conhecimento ao interessado, através de carta registada com aviso de receção, no prazo máximo de 30 dias úteis contados a partir da data da receção do pedido de revisão.\n\n8 - Da decisão que recaiu sobre o pedido de revisão pode ser interposto, no prazo de cinco dias úteis após a data da receção da resposta, recurso hierárquico para o Diretor-Geral dos Estabelecimentos Escolares, quando o mesmo for baseado em vício de forma.\n\n9 - Da decisão do recurso hierárquico não cabe qualquer outra forma de impugnação administrativa."
+  },
+  "221382868": {
+   "fragment_id": "221457881",
+   "type": 11,
+   "heading": "Artigo 37.º — Impugnação das classificações das provas e exames finais nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Impugnação das classificações das provas e exames finais nacionais\n\nAs classificações referentes às provas de equivalência à frequência e aos exames finais nacionais são passíveis de impugnação administrativa, nos termos do regulamento de provas e exames aprovado por despacho do membro do Governo responsável pela área da educação."
+  },
+  "221382869": {
+   "fragment_id": "221457882",
+   "type": 3,
+   "heading": "Subsecção IV — Conclusão e certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Conclusão e certificação"
+  },
+  "221382870": {
+   "fragment_id": "221457883",
+   "type": 11,
+   "heading": "Artigo 38.º — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Certificação\n\n1 - Concluem o nível secundário de educação os alunos que obtenham aprovação em todas as disciplinas do seu plano curricular.\n\n2 - A conclusão de um curso é certificada pelo diretor da escola através da emissão, em regra, em formato eletrónico de:\n\na) Um diploma que ateste a conclusão do ensino secundário e indique o curso concluído, a respetiva classificação final, bem como o nível de qualificação;\n\nb) Um certificado que ateste a classificação final de curso e o nível de qualificação, discrimine as disciplinas e as respetivas classificações finais, bem como as classificações de exame.\n\n3 - Os certificados a que se refere a alínea b) do número anterior devem ainda atestar a participação do aluno em representação dos pares em órgãos da escola e em atividades ou projetos, designadamente culturais, artísticos, desportivos, científicos e no âmbito do suporte básico de vida, de Cidadania e Desenvolvimento, entre outros de relevante interesse social desenvolvidos no âmbito da escola.\n\n4 - Para os alunos abrangidos por medidas adicionais, designadamente adaptações curriculares significativas, aplicadas no âmbito do Decreto-Lei n.º 54/2018, de 6 de julho, a certificação obedece ao estipulado no respetivo artigo 30.º\n\n5 - A requerimento dos interessados, podem ser emitidas pelo órgão de gestão e administração, em qualquer momento do percurso escolar do aluno, certidões das habilitações adquiridas, as quais devem discriminar as disciplinas concluídas e respetivas classificações.\n\n6 - Quando o aluno, após conclusão de qualquer curso do ensino secundário, frequentar outro curso ou outras disciplinas do mesmo ou de outros cursos, a seu pedido e em caso de aproveitamento, pode ser emitida certidão da qual conste a classificação obtida nas disciplinas ou, em caso de conclusão de outro curso, os respetivos diploma e certificado de conclusão.\n\n7 - Sempre que o aluno, após conclusão de qualquer curso do ensino secundário, concluir uma ou mais disciplinas, cuja frequência seja iniciada no ano seguinte ao da conclusão do curso, a classificação obtida nas disciplinas referidas pode contar, por opção do aluno, para efeitos de cálculo da média final de curso, desde que as disciplinas integrem o plano curricular do curso concluído e sejam concluídas no período correspondente ao ciclo de estudos das mesmas, sem prejuízo do estipulado na alínea b) do n.º 6 do artigo 15.º, devendo nestes casos ser emitidos novos diploma e certificado."
+  },
+  "221382871": {
+   "fragment_id": "221457884",
+   "type": 1,
+   "heading": "Capítulo III — Regime especial de matrículas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime especial de matrículas"
+  },
+  "221382872": {
+   "fragment_id": "221457885",
+   "type": 11,
+   "heading": "Artigo 39.º — Condições especiais e restrições de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Condições especiais e restrições de matrícula\n\n1 - Ao aluno que transita de ano com classificação anual de frequência igual a 9 ou 8 valores em uma ou duas disciplinas, é permitida a matrícula em todas as disciplinas do ano de escolaridade seguinte, incluindo aquela ou aquelas em que obteve essas classificações, sem prejuízo do previsto no número seguinte.\n\n2 - Não é autorizada a matrícula no 12.º ano em disciplinas trienais em que o aluno tenha obtido classificação inferior a 10 valores em dois anos curriculares consecutivos.\n\n3 - Aos alunos retidos, além da renovação da matrícula nas disciplinas em que não progrediram ou não obtiveram aprovação, é ainda facultada a matrícula, nesse ano, em disciplinas do mesmo ano de escolaridade em que tenham progredido ou sido aprovados, para efeitos de melhoria de classificação, a qual só será considerada quando for superior à já obtida.\n\n4 - Aos alunos que transitem de ano não progredindo ou não obtendo aprovação em uma ou duas disciplinas, é autorizada a renovação da matrícula no ano curricular em que se verifica a não progressão ou aprovação, de acordo com as disponibilidades da escola.\n\n5 - O aluno não pode matricular-se mais de três vezes para frequência do mesmo ano de escolaridade do curso em que está inserido, podendo, todavia, fazê-lo noutro curso de nível secundário de educação.\n\n6 - Os alunos que tenham completado 20 anos de idade até à data de início do ano escolar só podem matricular-se em ofertas de educação e formação destinadas a adultos.\n\n7 - Excetuam-se do número anterior os alunos que tenham transitado de ano e não tenham interrompido estudos no último ano escolar, ou ainda os alunos que se matriculem no ano imediatamente seguinte à frequência do 12.º ano, a uma ou duas disciplinas, com vista à conclusão do ensino secundário.\n\n8 - Aos alunos que não concluam o ensino secundário por não terem obtido aprovação em uma ou duas disciplinas do 11.º ano de escolaridade e ou por não terem completado o 12.º ano de escolaridade, é permitida, para além da renovação da matrícula nas disciplinas em que não obtiveram aprovação, a matrícula em disciplinas do 12.º ano de escolaridade para efeitos de melhoria de classificação, de acordo com as possibilidades da escola.\n\n9 - Após a conclusão de qualquer curso, o aluno pode frequentar outro curso, ou outras disciplinas do mesmo ou de outros cursos, desde que na escola exista vaga nas turmas constituídas e, no caso das disciplinas anuais da componente de formação específica, até ao limite de duas disciplinas.\n\n10 - A classificação obtida nas disciplinas referidas no número anterior pode contar, por opção do aluno, para efeitos de cálculo da classificação final de curso, desde que:\n\na) A frequência seja iniciada no ano letivo seguinte ao da conclusão do curso;\n\nb) As disciplinas integrem o plano curricular do curso concluído e sejam concluídas no período correspondente ao ciclo de estudo das mesmas."
+  },
+  "221382873": {
+   "fragment_id": "221457886",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "221382874": {
+   "fragment_id": "221457887",
+   "type": 11,
+   "heading": "Artigo 40.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Norma revogatória\n\nÉ revogada a Portaria n.º 243/2012, de 10 de agosto, na sua redação atual, de acordo com a calendarização de produção de efeitos fixada no artigo seguinte."
+  },
+  "221457975": {
+   "fragment_id": "221457888",
+   "type": 11,
+   "heading": "Artigo 41.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Produção de efeitos\n\n1 - A presente portaria produz efeitos a partir do ano letivo de:\n\na) 2018/2019, no que respeita ao 10.º ano de escolaridade;\n\nb) 2019/2020, no que respeita ao 11.º ano de escolaridade;\n\nc) 2020/2021, no que respeita ao 12.º ano de escolaridade.\n\n2 - Sem prejuízo do disposto no número anterior, às turmas das escolas abrangidas pelo Despacho n.º 5908/2017, de 5 de julho de 2017, são aplicáveis as disposições da presente portaria nos termos seguintes:\n\na) 2018/2019, no que respeita ao 11.º ano de escolaridade;\n\nb) 2019/2020, no que respeita ao 12.º ano de escolaridade;\n\n3 - Os alunos retidos no 10.º, 11.º e 12.º anos de escolaridade, no final dos anos letivos de 2017/2018, 2018/2019 e 2019/2020 são, respetivamente, integrados no mesmo ano de escolaridade, nos planos curriculares aprovados pelo Decreto-Lei n.º 55/2018, de 6 de julho, sem prejuízo da salvaguarda das classificações obtidas nas disciplinas do plano curricular em que se encontravam."
+  },
+  "221457977": {
+   "fragment_id": "221457890",
+   "type": 14,
+   "heading": "Anexo I — [a que se refere a alínea a) do n.º 1 do artigo 6.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [a que se refere a alínea a) do n.º 1 do artigo 6.º]\n\nCurso Científico-Humanístico de Ciências e Tecnologias\n\nTomando como referência a matriz curricular-base e as opções relativas à autonomia e flexibilidade curricular, as escolas organizam o trabalho de integração e articulação curricular com vista ao desenvolvimento das áreas de competência do Perfil dos Alunos à Saída da Escolaridade Obrigatória. As escolas organizam os tempos letivos na unidade que considerem mais adequada.\n\n(ver documento original)"
+  },
+  "221457978": {
+   "fragment_id": "221457891",
+   "type": 14,
+   "heading": "Anexo II — [a que se refere a alínea b) do n.º 1 do artigo 6.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — [a que se refere a alínea b) do n.º 1 do artigo 6.º]\n\nCurso Científico-Humanístico de Ciências Socioeconómicas\n\nTomando como referência a matriz curricular-base e as opções relativas à autonomia e flexibilidade curricular, as escolas organizam o trabalho de integração e articulação curricular com vista ao desenvolvimento das áreas de competência do Perfil dos Alunos à Saída da Escolaridade Obrigatória. As escolas organizam os tempos letivos na unidade que considerem mais adequada.\n\n(ver documento original)"
+  },
+  "221457979": {
+   "fragment_id": "221457892",
+   "type": 14,
+   "heading": "Anexo III — [a que se refere a alínea c) do n.º 1 do artigo 6.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — [a que se refere a alínea c) do n.º 1 do artigo 6.º]\n\nCurso Científico-Humanístico de Línguas e Humanidades\n\nTomando como referência a matriz curricular-base e as opções relativas à autonomia e flexibilidade curricular, as escolas organizam o trabalho de integração e articulação curricular com vista ao desenvolvimento das áreas de competência do Perfil dos Alunos à Saída da Escolaridade Obrigatória. As escolas organizam os tempos letivos na unidade que considerem mais adequada.\n\n(ver documento original)"
+  },
+  "221457980": {
+   "fragment_id": "221457893",
+   "type": 14,
+   "heading": "Anexo IV — [a que se refere a alínea d) do n.º 1 do artigo 6.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — [a que se refere a alínea d) do n.º 1 do artigo 6.º]\n\nCurso Científico-Humanístico de Artes Visuais\n\nTomando como referência a matriz curricular-base e as opções relativas à autonomia e flexibilidade curricular, as escolas organizam o trabalho de integração e articulação curricular com vista ao desenvolvimento das áreas de competência do Perfil dos Alunos à Saída da Escolaridade Obrigatória. As escolas organizam os tempos letivos na unidade que considerem mais adequada.\n\n(ver documento original)"
+  },
+  "221457981": {
+   "fragment_id": "221457894",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o n.º 2 do artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (a que se refere o n.º 2 do artigo 10.º)\n\nConstituem domínios da estratégia de educação para a cidadania:\n\na) Domínios obrigatórios a desenvolver:\n\ni) Direitos humanos (civis e políticos, económicos, sociais e culturais, e de solidariedade);\n\nii) Igualdade de género;\n\niii) Interculturalidade (diversidade cultural e religiosa);\n\niv) Desenvolvimento sustentável;\n\nv) Educação ambiental;\n\nvi) Saúde (promoção da saúde, saúde pública, alimentação e exercício físico);\n\nb) Domínios opcionais a desenvolver:\n\ni) Sexualidade (diversidade, direitos, saúde sexual e reprodutiva);\n\nii) Media;\n\niii) Instituições e participação democrática;\n\niv) Literacia financeira e educação para o consumo;\n\nv) Segurança rodoviária;\n\nvi) Risco;\n\nvii) Empreendedorismo (nas vertentes económica e social);\n\nviii) Mundo do trabalho;\n\nix) Segurança, defesa e paz;\n\nx) Bem-estar animal;\n\nxi) Voluntariado;\n\nxii) Outros a definir de acordo com as necessidades de educação para a cidadania diagnosticadas pela escola."
+  },
+  "221457982": {
+   "fragment_id": "221457895",
+   "type": 14,
+   "heading": "Anexo VI — [a que se refere a alínea c) do n.º 1 do artigo 16.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — [a que se refere a alínea c) do n.º 1 do artigo 16.º]\n\nLista de disciplinas bienais da componente de formação específica dos Cursos Científico-Humanísticos (CCH)\n\n(ver documento original)"
+  },
+  "221457983": {
+   "fragment_id": "221457896",
+   "type": 14,
+   "heading": "Anexo VII — [a que se refere a alínea c) do n.º 1 do artigo 16.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — [a que se refere a alínea c) do n.º 1 do artigo 16.º]\n\nLista de disciplinas anuais da componente de formação específica dos CCH\n\n(ver documento original)"
+  },
+  "221457984": {
+   "fragment_id": "221457897",
+   "type": 14,
+   "heading": "Anexo VIII — (a que se refere o n.º 16 do artigo 26.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — (a que se refere o n.º 16 do artigo 26.º)\n\nProvas de equivalência à frequência\n\n(ver documento original)"
+  },
+  "221457985": {
+   "fragment_id": "221457898",
+   "type": 14,
+   "heading": "Anexo IX — (a que se refere o n.º 3 do artigo 27.º, o n.º 12 do artigo 28.º e o n.º 10 do artigo 31.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IX — (a que se refere o n.º 3 do artigo 27.º, o n.º 12 do artigo 28.º e o n.º 10 do artigo 31.º)\n\nExames finais nacionais\n\n(ver documento original)"
+  },
+  "221457986": {
+   "fragment_id": "221457899",
+   "type": 14,
+   "heading": "Anexo X — (a que se refere o n.º 13 do artigo 31.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo X — (a que se refere o n.º 13 do artigo 31.º)\n\nProcedimentos específicos a observar na Prova extraordinária de avaliação\n\n1 - Cabe aos departamentos curriculares, de acordo com as orientações do conselho pedagógico da escola, estabelecer a modalidade que a prova extraordinária de avaliação (PEA) deve assumir, tendo em conta a natureza e especificidade de cada disciplina.\n\n2 - Compete ainda aos departamentos curriculares propor ao conselho pedagógico a matriz da prova, da qual constem os objetivos e os conteúdos, a estrutura e respetivas cotações e os critérios de classificação.\n\n3 - Para a elaboração da PEA é constituída uma equipa de dois professores, em que, pelo menos, um deles tenha lecionado a disciplina nesse ano letivo.\n\n4 - A duração da PEA é fixada entre 90 minutos a 180 minutos, a determinar pelo conselho pedagógico da escola, sob proposta do departamento curricular, consoante a natureza e especificidade da disciplina.\n\n5 - Compete ao diretor da escola fixar a data de realização da PEA num período a seguir ao final das atividades letivas e que garanta a possibilidade de realização de prova de equivalência.\n\n6 - Toda a informação relativa à realização da PEA deve ser afixada pelas escolas até ao dia 15 de maio.\n\n7 - Caso o aluno não compareça à prestação da PEA, não lhe poderá ser atribuída qualquer classificação, considerando-se que o aluno não obteve aproveitamento na disciplina.\n\n8 - Após a realização da PEA, é necessário proceder-se a uma reunião extraordinária do conselho de turma, para ratificação das classificações do aluno.\n\n111568059"
+  },
+  "221457993": {
+   "fragment_id": "221414452",
+   "type": 11,
+   "heading": "Artigo 12.º — Língua materna e ou de escolarização de alunos de sistemas de ensino estrangeiros",
+   "in_force_from": "2023-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+   ],
+   "markdown": "###### Artigo 12.º — Língua materna e ou de escolarização de alunos de sistemas de ensino estrangeiros\n\nAos alunos recém-integrados no ensino secundário, provenientes de sistemas de ensino estrangeiros, cuja língua materna e ou língua de escolarização não é o Português, e que no seu percurso escolar apenas estudaram uma língua estrangeira, aplica-se o seguinte:\n\na) Reconhecimento da língua materna do aluno;\n\nb) Reforço da aprendizagem do Português, designadamente como PLNM;\n\nc) Dispensa da obrigatoriedade de iniciar uma segunda língua estrangeira, visando o reforço do previsto na alínea anterior;\n\nd) Continuidade da aprendizagem da língua estrangeira do sistema de ensino de origem do aluno (LE I), desde que esta seja oferecida no sistema educativo português;\n\ne) Possibilidade de o aluno iniciar, no 10.º ano de escolaridade, uma nova língua estrangeira (LE II), desde que esta não coincida com a sua língua materna e ou língua de escolarização.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, produz efeitos a partir do ano letivo de 2023-2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+  },
+  "221457994": {
+   "fragment_id": "221414456",
+   "type": 11,
+   "heading": "Artigo 16.º — Percurso formativo próprio com permuta de disciplinas",
+   "in_force_from": "2023-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+   ],
+   "markdown": "###### Artigo 16.º — Percurso formativo próprio com permuta de disciplinas\n\n1 - Nos cursos científico-humanísticos, a adoção de um percurso formativo próprio realiza-se nas seguintes condições:\n\na) Permuta de uma das disciplinas bienais e ou de uma das disciplinas anuais da componente de formação específica por disciplina(s) correspondente(s) de um curso diferente do frequentado;\n\nb) Realização, obrigatória, de uma disciplina bienal e de uma disciplina anual da componente de formação específica da natureza do curso frequentado;\n\nc) Da permuta entre disciplinas, não pode resultar a frequência de disciplinas equivalentes, ou que abranjam parte dos mesmos conteúdos de outras disciplinas da mesma área do saber do plano curricular do seu curso, em conformidade com os anexos VI e VII à presente portaria da qual fazem parte integrante.\n\n2 - A permuta de disciplinas é realizada:\n\na) Na matrícula para a frequência do 10.º ano de escolaridade, na disciplina bienal, ou na sua renovação para frequência do 12.º ano de escolaridade, na disciplina anual;\n\nb) Até ao 5.º dia útil do 2.º período dos referidos anos de escolaridade.\n\n3 - A adoção de um percurso formativo próprio, através da permuta de disciplinas, é feita mediante requerimento do encarregado de educação ou do aluno, quando maior de idade, ao diretor da escola, devendo ser garantido o acesso a toda a informação relevante, designadamente as condições de conclusão e de prosseguimento de estudos.\n\n4 - Não é possível adotar um percurso formativo próprio através da mudança de curso ou através da realização de exames finais nacionais ou de provas de equivalência à frequência.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, produz efeitos a partir do ano letivo de 2023-2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+  },
+  "221457995": {
+   "fragment_id": "221414469",
+   "type": 11,
+   "heading": "Artigo 26.º — Provas de equivalência à frequência",
+   "in_force_from": "2023-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+   ],
+   "markdown": "###### Artigo 26.º — Provas de equivalência à frequência\n\n1 - As provas de equivalência realizam-se a nível de escola, em duas fases, com vista a certificação de conclusão do ensino secundário.\n\n2 - Considerada a natureza das aprendizagens objeto de avaliação, e em função de parâmetros previamente definidos pelo conselho pedagógico, as provas podem ser constituídas pelas seguintes componentes:\n\na) Escrita (E), que implica um registo escrito ou um registo bidimensional ou tridimensional e a possível utilização de diferentes materiais;\n\nb) Oral (O), que implica, com eventual recurso a um guião, a produção e interação oral na presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno;\n\nc) Prática (P), que implica a realização de tarefas objeto de avaliação performativa, em situações de organização individual ou em grupo, a manipulação de materiais, instrumentos e equipamentos, com eventual produção escrita, que incide sobre o trabalho prático e ou experimental produzido, implicando a presença de um júri e a utilização, por este, de um registo de observação do desempenho do aluno.\n\n3 - As provas de equivalência à frequência têm como referencial base as Aprendizagens Essenciais correspondentes à totalidade dos anos que constituem o plano curricular da disciplina, devendo ainda contemplar a avaliação da capacidade de mobilização e integração dos saberes disciplinares, com especial enfoque nas áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade.\n\n4 - Podem realizar provas de equivalência à frequência os candidatos autopropostos que se encontrem, designadamente numa das seguintes situações:\n\na) Frequentem o ensino individual ou o ensino doméstico;\n\nb) Tenham estado matriculados no ano terminal da disciplina a que respeita a prova e anulado a matrícula até ao final da penúltima semana do 3.º período;\n\nc) Pretendam obter aprovação em disciplina cujo ano terminal frequentaram sem aprovação;\n\nd) Pretendam obter aprovação em disciplinas do mesmo curso ou de curso diferente do frequentado e nas quais nunca tenham estado matriculados, desde que estejam ou tenham estado matriculados no ano curricular em que essas disciplinas são terminais;\n\ne) Sejam maiores de 18 anos, fora da escolaridade obrigatória, detentores do 3.º ciclo do ensino básico ou outra habilitação equivalente, não se encontrem matriculados ou tenham anulado a matrícula em todas as disciplinas até ao final da penúltima semana do 3.º período;\n\nf) Pretendam melhorar a classificação final de disciplina, nas situações em que não reúnam condições para realizar a melhoria na qualidade de alunos internos;\n\ng) Tenham ficado excluídos por faltas no ano terminal da disciplina, pela aplicação do previsto na alínea b) do n.º 4 do artigo 21.º do Estatuto do Aluno e Ética Escolar, e pretendam realizar provas na 2.ª fase desse mesmo ano escolar.\n\n5 - Os candidatos a que se refere a alínea e) do número anterior podem ser admitidos à prestação de quaisquer provas de equivalência à frequência dos 11.º e 12.º anos de escolaridade.\n\n6 - Os alunos a frequentar o 11.º ou 12.º anos de escolaridade, matriculados em disciplinas plurianuais no 10.º ou 11.º nas quais não tenham progredido, desde que estejam ou tenham estado matriculados no ano terminal das mesmas, podem ser admitidos à prova de equivalência à frequência ou exame final nacional dessas disciplinas, sem prejuízo do disposto no número seguinte.\n\n7 - A eventual reprovação na prova ou exame final nacional não determina a anulação da classificação obtida na frequência do ano ou anos curriculares anteriores.\n\n8 - Os alunos excluídos por faltas em qualquer disciplina, só podem apresentar-se à respetiva prova de equivalência à frequência no mesmo ano letivo, na 2.ª fase.\n\n9 - Aos alunos do 11.º ano é autorizada a realização de quaisquer provas de equivalência à frequência de disciplinas terminais, nesse ano de escolaridade, não sujeitas a exame final nacional.\n\n10 - Aos alunos do 12.º ano, para efeitos de conclusão de curso, é facultada a apresentação a provas de equivalência à frequência em qualquer disciplina não sujeita a exame final nacional.\n\n11 - Os alunos aprovados em disciplinas terminais dos 11.º e 12.º anos de escolaridade, que pretendam melhorar a classificação, podem requerer a realização de provas de equivalência à frequência:\n\na) No ano de conclusão, na 2.ª fase;\n\nb) No ano escolar seguinte ao previsto na alínea anterior, na 1.ª e 2.ª fases.\n\n12 - Nos casos previstos no número anterior apenas é considerada a nova classificação caso seja superior à anteriormente obtida.\n\n13 - Para efeito de melhoria de classificação, são válidas somente as provas prestadas em disciplinas com o mesmo código de prova de equivalência à frequência do plano curricular em que o aluno obteve a primeira aprovação.\n\n14 - Não é permitida a realização de provas de equivalência à frequência para melhoria de classificação em disciplinas cuja aprovação foi obtida em sistemas de ensino estrangeiros.\n\n15 - Nas disciplinas bienais de Filosofia e de Inglês da componente de formação geral e nas disciplinas bienais da componente de formação específica, havendo oferta de exame final nacional, não há provas de equivalência à frequência, sendo estas substituídas pelos exames finais nacionais correspondentes.\n\n16 - A identificação das disciplinas em que existem provas de equivalência à frequência e as componentes que as constituem são as constantes do anexo VIII à presente portaria, da qual faz parte integrante.\n\n17 - As normas e os procedimentos a observar relativos à realização das provas de equivalência à frequência, incluindo a sua duração, são objeto do regulamento de provas e exames aprovado por despacho do membro do Governo responsável pela área da educação.\n\n18 - As provas de equivalência à frequência realizam-se no período de tempo fixado no calendário de provas e exames.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, produz efeitos a partir do ano letivo de 2023-2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+  },
+  "221457996": {
+   "fragment_id": "221414471",
+   "type": 11,
+   "heading": "Artigo 28.º — Exames finais nacionais",
+   "in_force_from": "2023-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+   ],
+   "markdown": "###### Artigo 28.º — Exames finais nacionais\n\n1 - Os exames finais nacionais, realizados nos termos previstos no n.º 4 do artigo 25.º do Decreto-Lei n.º 55/2018, de 6 de julho, têm como referencial de avaliação as Aprendizagens Essenciais da disciplina, com especial enfoque nas áreas de competências inscritas no Perfil dos Alunos à Saída da Escolaridade Obrigatória.\n\n2 - Os exames finais nacionais são realizados no ano terminal da respetiva disciplina nos termos seguintes:\n\na) Na disciplina de Português da componente de formação geral;\n\nb) Em duas disciplinas da componente de formação específica, podendo optar por uma das seguintes situações:\n\ni) Nas duas disciplinas bienais da componente de formação específica do curso;\n\nii) Na disciplina trienal e numa das disciplinas bienais da componente de formação específica do curso;\n\niii) Numa das disciplinas, bienal ou trienal, da componente de formação específica do curso e na disciplina bienal da componente de formação específica objeto de permuta;\n\niv) Numa das disciplinas, bienal ou trienal, da componente de formação específica do curso e na disciplina de Filosofia, da componente de formação geral.\n\n3 - No ato de inscrição para a realização dos exames finais nacionais o aluno opta e regista as disciplinas para efeitos de conclusão do curso, considerando as situações previstas na alínea b) do número anterior.\n\n4 - A opção prevista no número anterior pode ser alterada no próprio ano em que o aluno se inscreveu para a realização dos exames, mediante autorização do diretor da escola, e nos anos letivos seguintes, desde que o aluno ainda não tenha concluído nenhuma das disciplinas relativamente às quais pretende alterar a decisão de realização de exame final nacional.\n\n5 - Podem realizar exames finais nacionais os alunos autopropostos nos termos definidos no n.º 4 do artigo 26.º e os alunos internos nos termos definidos no número seguinte.\n\n6 - São internos em cada disciplina, para realização dos exames nacionais, os alunos que, na Classificação Interna Final (CIF) da disciplina a cujo exame se apresentam, tenham obtido simultaneamente uma classificação igual ou superior a 10 valores e classificação anual de frequência no ano terminal igual ou superior a 8 valores.\n\n7 - A CIF é calculada através da média aritmética simples, arredondada às unidades, das classificações anuais de frequência de cada um dos anos em que a disciplina foi ministrada.\n\n8 - A CIF só é válida para realização de exames nacionais no ano em que a mesma é obtida.\n\n9 - Os candidatos a que se refere a alínea e) do n.º 4 do artigo 26.º podem apresentar-se à realização de quaisquer exames finais nacionais dos 11.º e 12.º anos de escolaridade.\n\n10 - Os alunos excluídos por faltas em qualquer disciplina só podem apresentar-se ao respetivo exame final nacional no mesmo ano letivo, na 2.ª fase, na qualidade de autopropostos.\n\n11 - Aos alunos do 11.º ano é autorizada a realização de exames finais nacionais em qualquer disciplina sujeita a exame nacional e terminal neste ano de escolaridade.\n\n12 - Aos alunos do 12.º ano, para efeitos de conclusão de curso, é facultada a apresentação a exame final nacional em qualquer disciplina identificada no anexo IX.\n\n13 - Os alunos aprovados em disciplinas terminais do 11.º ou do 12.º ano de escolaridade sujeitas a exame nacional, que pretendam melhorar a sua classificação, podem requerer exame final nacional:\n\na) No ano letivo de conclusão, na 2.ª fase;\n\nb) No ano letivo seguinte ao previsto na alínea anterior, na 1.ª e 2.ª fases.\n\n14 - Nos casos previstos no número anterior apenas é considerada a nova classificação caso seja superior à anteriormente obtida.\n\n15 - Para efeito de melhoria de classificação, são válidos somente os exames prestados em disciplinas com o mesmo código de exame em que o aluno obteve a primeira aprovação.\n\n16 - Não é permitida a realização de exames de melhoria de classificação em disciplinas cuja aprovação foi obtida em sistemas de ensino estrangeiro.\n\n17 - As normas e os procedimentos a observar relativos à realização das provas de equivalência à frequência, incluindo a sua duração, são objeto do regulamento de provas e exames aprovado por despacho do membro do Governo responsável pela área da educação.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, aplica-se a partir do ano letivo de: a) 2023-2024, aos alunos que ingressaram no 10.º ano de escolaridade no ano letivo de 2022-2023 e que realizam exames finais nacionais no 11.º ano de escolaridade; b) 2024-2025, aos alunos que realizam exames finais nacionais no 12.º ano de escolaridade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+  },
+  "221457997": {
+   "fragment_id": "221457876",
+   "type": 11,
+   "heading": "Artigo 32.º — Classificação final de disciplina",
+   "in_force_from": "2023-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+   ],
+   "markdown": "###### Artigo 32.º — Classificação final de disciplina\n\n1 - A classificação final das disciplinas não sujeitas a exame final nacional no plano curricular do aluno é obtida da seguinte forma:\n\na) Nas disciplinas anuais, pela atribuição da classificação obtida na frequência;\n\nb) Nas disciplinas plurianuais, pela média aritmética simples das classificações anuais de frequência dos anos em que foram ministradas, com arredondamento às unidades.\n\n2 - A classificação final das disciplinas sujeitas a exame final nacional no plano curricular do aluno é o resultado da média ponderada, com arredondamento às unidades, da classificação obtida na avaliação interna final da disciplina e da classificação obtida em exame final nacional, de acordo com a seguinte fórmula:\n\nCFD = (7,5 CIF + 2,5 CE)/10\n\nem que:\n\nCFD = classificação final de disciplina;\n\nCIF = classificação interna final, obtida pela média aritmética simples, com arredondamento às unidades, das classificações anuais de frequência dos anos em que a disciplina foi ministrada;\n\nCE = classificação de exame final.\n\n3 - A classificação final em qualquer disciplina pode também obter-se pelo recurso à realização exclusiva, na qualidade de aluno autoproposto, de provas de equivalência à frequência ou de exames finais nacionais, sendo a classificação final, em caso de aprovação, a obtida na prova ou no exame.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, produz efeitos a partir do ano letivo de: a) 2023-2024, no que respeita ao 10.º ano de escolaridade; b) 2024-2025, no que respeita ao 11.º ano de escolaridade; c) 2025-2026, no que respeita ao 12.º ano de escolaridade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+  },
+  "221457998": {
+   "fragment_id": "221457877",
+   "type": 11,
+   "heading": "Artigo 33.º — Classificação final de curso",
+   "in_force_from": "2023-09-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+   ],
+   "markdown": "###### Artigo 33.º — Classificação final de curso\n\n1 - A classificação final do curso é o resultado da média aritmética ponderada, com arredondamento às unidades, da classificação final obtida pelo aluno em todas as disciplinas do seu plano curricular, de acordo com a seguinte fórmula:\n\nCFC = (3 x (somatório) CFD trienais) + 2 x (somatório) CFD bienais) + 1 x (somatório) CFD anuais))/(3 x n.º disciplinas trienais + 2 x n.º disciplinas bienais + 1 x n.º disciplinas anuais)\n\nem que:\n\nCFC = classificação final de curso;\n\nCFD = classificação final de disciplina.\n\n2 - A disciplina de Educação Moral e Religiosa não é considerada para efeitos de apuramento da classificação a que se refere o número anterior.\n\n> Nota: [Artigo 3.º, Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123) A alteração ao presente artigo, produz efeitos a partir do ano letivo de: a) 2023-2024, no que respeita ao 10.º ano de escolaridade; b) 2024-2025, no que respeita ao 11.º ano de escolaridade; c) 2025-2026, no que respeita ao 12.º ano de escolaridade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 278/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/278-2023-221432123), em vigor a partir de 2023-09-09"
+  },
+  "221457976": {
+   "fragment_id": "221457889",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Educação, João Miguel Marques da Costa, em 6 de agosto de 2018."
+  },
+  "909467250": {
+   "fragment_id": "221414451",
+   "type": 11,
+   "heading": "Artigo 11.º — Português Língua Não Materna",
+   "in_force_from": "2025-03-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 86/2025/1 - Diário da República n.º 46/2025, Série I de 2025-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/86-2025-909816063), em vigor a partir de 2025-03-07"
+   ],
+   "markdown": "###### Artigo 11.º — Português Língua Não Materna\n\n1 - No ensino secundário, as matrizes curriculares podem integrar a disciplina de Português Língua Não Materna (PLNM) destinada a alunos que se encontram numa das seguintes situações:\n\na) A sua língua materna não seja o português;\n\nb) Não tenham tido o português como língua de escolarização e para os quais, de acordo com o seu percurso escolar e o seu perfil sociolinguístico, a escola considere ser a oferta curricular mais adequada.\n\n2 - Para o desenvolvimento da disciplina de PLNM são constituídos, com base no Quadro Europeu Comum de Referência para as Línguas, os seguintes níveis de proficiência linguística:\n\na) Iniciação (A1, A2);\n\nb) Intermédio (B1);\n\nc) Avançado (B2, C1).\n\n3 - Tendo em vista o posicionamento em nível de proficiência, cabe à escola proceder a uma avaliação do conhecimento da língua portuguesa, a ocorrer no momento em que o aluno ingressa no sistema educativo.\n\n4 - A avaliação é realizada de acordo com os descritores do Quadro Europeu Comum de Referência para as Línguas e com base em modelo de teste disponibilizado pela Direção-Geral da Educação.\n\n5 - Os alunos que sejam posicionados no nível de Iniciação (A1, A2) ou no nível Intermédio (B1) frequentam a disciplina de PLNM como equivalente à disciplina de Português nos termos seguintes:\n\na) Em grupos constituídos, no mínimo, por 10 alunos, podendo, caso tal se revele necessário, ser agrupados alunos dos níveis A1, A2 e B1;\n\nb) Na sua turma, nos tempos letivos da disciplina de Português, quando se mostre inviável a aplicação do previsto na alínea anterior.\n\n6 - Os alunos posicionados no nível Avançado (B2, C1) frequentam a disciplina de Português.\n\n7 - Os alunos de PLNM são organizados por grupos de nível de proficiência linguística e não por ano de escolaridade, devendo seguir as Aprendizagens Essenciais de PLNM do respetivo nível, com adequação do processo de ensino, aprendizagem e avaliação à sua faixa etária.\n\n8 - Aos alunos recém-chegados ao sistema educativo nacional posicionados no nível de proficiência linguística de Iniciação (A1, A2), com vista a promover a equidade e a igualdade de oportunidades, poderá a escola, em articulação com os pais ou encarregados de educação, disponibilizar respostas educativas que facilitem o acesso ao currículo, através de:\n\na) Mobilização de medidas de suporte à aprendizagem e à inclusão;\n\nb) Adaptações ao processo de avaliação:\n\ni) Interna;\n\nii) Externa.\n\n9 - Na concretização do previsto na alínea a) e na subalínea i) da alínea b) do número anterior deve ser garantida a integração dos alunos na turma.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 86/2025/1 - Diário da República n.º 46/2025, Série I de 2025-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/86-2025-909816063), em vigor a partir de 2025-03-07"
+  }
+ }
+}

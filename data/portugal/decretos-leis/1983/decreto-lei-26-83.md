@@ -1,0 +1,130 @@
+---
+schema_version: '1.0'
+id: pt:dre:307789:por
+title: Decreto-Lei n.º 26/83
+short_title: null
+summary: Altera a redacção dos artigos 3.º e 5.º do Decreto-Lei n.º 408/79, de 25 de Setembro, que institui o seguro obrigatório
+  de responsabilidade civil automóvel de modo a contemplar situações em que os veículos automóveis se encontrem sob regime
+  de locação financeira
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 26/83
+official_date: null
+publication_date: '1983-01-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 18/1983, Série I de 1983-01-22
+  number: '18'
+  series: I
+  supplement: null
+  pages: 139 - 139
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/01/01800/01390139.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '307789'
+  dre_path: /dr/detalhe/decreto-lei/26-1983-307789
+  internal: pt:dre:307789:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1983-307789
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1983-307789
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: adfe78514d15a57196186987f0d091436d7f6003af6272bff44311d9b53b1ff4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:51:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Locação Financeira
+- Responsabilidade Civil
+- Seguro
+- Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:365506:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:51:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 26/83
+
+de 22 de Janeiro
+
+O [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, que instituiu o seguro obrigatório de responsabilidade civil automóvel, não contempla o regime de locação financeira a que, eventualmente, se encontrem sujeitos os veículos automóveis.
+
+Importa, pois, adaptar as disposições do referido diploma de forma a serem abrangidos os veículos no regime de locação financeira.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo único. Os artigos 3.º, n.º 1, e 5.º do [Decreto-Lei n.º 408/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1979-365506), de 25 de Setembro, passam a ter a seguinte redacção:
+
+Art. 3.º - 1 - A obrigação de segurar impende sobre o proprietário do veículo, exceptuando-se os casos de usufruto, de venda com reserva de propriedade e de locação financeira, em que a obrigação recai, respectivamente, sobre o usufrutuário, o adquirente ou o locatário em regime de locação financeira.
+
+2 - ...
+
+Art. 5.º - 1 - O seguro garantirá a responsabilidade do proprietário do veículo, usufrutuário, adquirente com reserva de propriedade, locatário em regime de locação financeira e a dos seus legítimos detentores e condutores.
+
+2 - Nos casos de roubo, furto ou furto de uso e acidentes de viação dolosamente provocados, o seguro não garante a responsabilidade dos respectivos autores, cúmplices ou encobridores para com o proprietário, usufrutuário, adquirente com reserva de propriedade ou locatário em regime de locação financeira.
+
+Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1982. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
+
+Promulgado em 11 de Janeiro de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

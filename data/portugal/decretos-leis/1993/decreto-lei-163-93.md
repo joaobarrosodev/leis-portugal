@@ -1,0 +1,617 @@
+---
+schema_version: '1.0'
+id: pt:dre:274242:por
+title: Decreto-Lei n.º 163/93
+short_title: null
+summary: Estabelece o Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e do Porto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 163/93
+official_date: null
+publication_date: '1993-05-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/1993, Série I-A de 1993-05-07
+  number: '106'
+  series: I
+  supplement: null
+  pages: 2380 - 2383
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/05/106a00/23802383.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-06-05'
+version_history:
+  file: decreto-lei-163-93.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1993-05-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-05-14'
+    amending: pt:dre:513868:por
+    amending_title: Decreto-Lei n.º 93/95
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+  - date: '2001-01-09'
+    amending: pt:dre:235308:por
+    amending_title: Decreto-Lei n.º 1/2001
+    changes:
+    - Altera Artigo 16.º
+  - date: '2003-10-29'
+    amending: pt:dre:466834:por
+    amending_title: Decreto-Lei n.º 271/2003
+    changes:
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+  - date: '2004-07-04'
+    amending: pt:dre:281201:por
+    amending_title: Decreto-Lei n.º 135/2004
+    changes:
+    - Adita Artigo 29.º
+  - date: '2018-06-05'
+    amending: pt:dre:115440317:por
+    amending_title: Decreto-Lei n.º 37/2018
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/163/1993/p/cons/20180604/pt/html
+  oj: null
+  dre: '274242'
+  dre_path: /dr/detalhe/decreto-lei/163-1993-274242
+  internal: pt:dre:274242:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1993-274242
+  metadata_url: https://data.dre.pt/eli/dec-lei/163/1993/p/cons/20180604/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-34461375
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-34461375
+  retrieved_at: '2026-10-22T11:43:16Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 48045ef81438144df69241ff83d81ac0469af730c854994aad3c0f0338652133
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:43:16Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-163-93.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de Fogos
+- Pobreza
+- ÁREA Metropolitana
+- Crédito à Habitação
+- Realojamento
+- Lisboa
+- IPSS
+- Habitação Social
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Instituto Nacional de Habitação
+- Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e Porto
+- Arrendamento Urbano para Habitação
+- Autarquia Local
+- Porto
+relationships:
+- type: amended_by
+  target: pt:dre:513868:por
+  label: Altera Artigo 16.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1995-513868
+  date: '1995-05-09'
+- type: amended_by
+  target: pt:dre:243918:por
+  label: Altera Artigo 16.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/34-1996-243918
+  date: '1996-08-29'
+- type: amended_by
+  target: pt:dre:235308:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2001-235308
+  date: '2001-01-04'
+- type: amended_by
+  target: pt:dre:466834:por
+  label: Adita Artigo 22.º; Adita Artigo 23.º; Adita Artigo 24.º; Adita Artigo 25.º; Adita Artigo 26.º; Adita Artigo 27.º;
+    Adita Artigo 28.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera
+    Artigo 14.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834
+  date: '2003-10-28'
+- type: amended_by
+  target: pt:dre:281201:por
+  label: Adita Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2004-281201
+  date: '2004-06-03'
+- type: amended_by
+  target: pt:dre:115440317:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317
+  date: '2018-06-04'
+article_structure:
+  article_count: 29
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:43:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 163/93
+
+O problema da habitação, sendo, sem dúvida, um dos mais importantes, pelo reflexo na qualidade de vida das populações, encontra-se longe de estar resolvido, quer em termos qualitativos quer em termos quantitativos.
+
+A procura de soluções para este problema leva a considerar a necessidade da implementação urgente de medidas prioritárias, com incidência especial nas zonas em que tais carências mais se fazem sentir, ou seja, nas áreas de Lisboa e Porto.
+
+A erradicação das barracas, uma chaga ainda aberta no nosso tecido social, e consequente realojamento daqueles que nelas residem impõem a criação de condições que permitam a sua total extinção.
+
+Apesar do esforço desenvolvido ao nível do apoio à construção de habitação de custos controlados e dos diversos acordos de colaboração celebrados entre a administração central e as autarquias locais para erradicação de barracas, continuam a verificar-se muitas situações de mau alojamento e de sobrealojamento.
+
+O regime de cooperação entre a administração central e local no que respeita ao desenvolvimento de programas de habitação social para arrendamento que se destinem ao realojamento de populações residentes em barracas está definido pelo Decreto-Lei n.º 226/87, de 6 de Junho, em articulação com o Decreto-Lei n.º 110/85, de 17 de Abril.
+
+Segundo o presente diploma, podem ser estabelecidos acordos de colaboração entre a administração central e os municípios, ao abrigo dos quais aquela comparticipa a fundo perdido, através do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE), até 50% do custo de construção dos empreendimentos, sendo que os municípios podem ainda recorrer, em relação aos restantes custos, a financiamento bonificado a longo prazo, ao Instituto Nacional de Habitação (INH) ou, desde 1991, a qualquer instituição de crédito.
+
+Por estes factos, as iniciativas neste domínio implicam a assunção por parte do Estado, através do IGAPHE e do INH, de uma parte muitíssimo significativa dos encargos.
+
+A decisão agora tomada vem na sequência do Programa Nacional de Luta contra a Pobreza, lançado pelo Governo em 1991, através do qual estão em curso cerca de 100 projectos em todo o território nacional.
+
+Os resultados alcançados pela aplicação dos mecanismos citados são, na sua generalidade, satisfatórios. O problema habitacional assume, porém, entre nós proporções que impõem a adopção de novas medidas a ele direccionadas, tendo em vista a sua resolução. É nas áreas de Lisboa e Porto que se concentra o maior número de situações de degradação habitacional, pelo que devem estas ser eleitas como áreas prioritárias de intervenção em matéria habitacional.
+
+É neste contexto que surge o presente diploma, consubstanciando um aumento significativo do esforço financeiro do Estado para a área da habitação com vista à erradicação das barracas nas áreas de Lisboa e Porto. Tal esforço traduz uma determinação profunda para a extinção de situações sociais de degradação habitacional, pelo que se promove, para o efeito, um programa acelerado de realojamento. Tal programa compreende a disponibilização de recursos financeiros através do IGAPHE, e do INH para os custos de construção de habitações destinadas ao realojamento, assim como para a aquisição e infra-estruturação dos terrenos, e ainda a possibilidade de transferência gratuita do património edificado do IGAPHE para os municípios.
+
+A efectiva resolução do grave problema social de habitação exige que as autarquias locais envolvidas neste programa assumam claramente o objectivo da eliminação das barracas como uma das suas tarefas prioritárias, envolvendo o estabelecimento de um compromisso sério com a administração central e, sobretudo, com os cidadãos para a resolução deste problema.
+
+A consolidar este programa, o esforço de comparticipação e financiamento do IGAPHE e do INH torna-se, pelo presente diploma, extensivo ao financiamento para a aquisição de fogos, dentro dos limites máximos predefinidos, tornando, assim, o projecto mais flexível na sua execução e permitindo o contributo do mercado para a rápida erradicação das barracas.
+
+A concretização deste programa depende da adesão dos respectivos municípios, que terão de efectuar um levantamento exaustivo e rigoroso das barracas existentes no seu concelho, e será executada em função das carências efectivas apresentadas.
+
+Para os efeitos deste programa, será alterado o montante máximo de endividamento dos municípios envolvidos, por forma a possibilitar o natural esforço financeiro exigido.
+
+Refira-se também a possibilidade de instituições de natureza social, por acordo com as autarquias, aderirem em iguais condições ao programa, substituindo ou complementando as funções dos municípios.
+
+Complementarmente à resolução do problema habitacional, é oferecido aos municípios ou instituições particulares de solidariedade social um programa alargado de inserção social das comunidades envolvidas, visando a criação de condições a uma plena integração destas populações na comunidade e combatendo os problemas de criminalidade, prostituição e toxicodependência, entre outros, a que a exclusão social motivada pela falta de condições habitacionais condignas as deixou votadas.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+1 - Pelo presente diploma é criado o Programa Especial de Realojamento nas Áreas Metropolitanas de Lisboa e do Porto, adiante designado por Programa.
+
+2 - O Programa tem como objectivo a erradicação definitiva das barracas existentes nos municípios das áreas metropolitanas de Lisboa e Porto, mediante o realojamento em habitações condignas das famílias que nelas residem.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+###### Artigo 2.º
+
+Podem aderir ao Programa todos os municípios abrangidos pelas áreas metropolitanas de Lisboa e Porto que identifiquem a existência de barracas na respectiva área territorial.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+###### Artigo 3.º
+
+1 - A adesão dos municípios a este Programa faz-se mediante a assinatura de um acordo geral de adesão, a celebrar entre o Instituto de Gestão e Alienação do Património Habitacional do Estado, abreviadamente designado por IGAPHE, e o Instituto Nacional de Habitação, abreviadamente designado por INH, por um lado, e os municípios, por outro.
+
+2 - A minuta do acordo é aprovada por despacho do Ministro das Obras Públicas, Transportes e Comunicações.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+###### Artigo 4.º
+
+Os municípios para aderirem ao Programa tem de apresentar ao IGAPHE:
+
+a) Levantamento exaustivo e rigoroso dos núcleos de barracas existentes na área do respectivo município, com a respectiva caracterização, que deve incluir a sua localização, o número de construções existentes, os agregados familiares a realojar e a sua identificação, composição e respectivos rendimentos anuais brutos;
+
+b) Identificação dos proprietários dos terrenos onde estão implantados os núcleos de barracas referidos na alínea anterior;
+
+c) Programação cronológica dos empreendimentos a construir e ou plano de aquisição de fogos e sua afectação aos agregados familiares a realojar.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+###### Artigo 5.º
+
+Os municípios têm ainda de assumir, no acto de adesão, que se comprometem a:
+
+a) Proceder a uma fiscalização rigorosa de ocupação do solo na respectiva área, por forma a neutralizar de imediato a eventual tentativa de construção de qualquer nova barraca, garantindo a sua pronta demolição;
+
+b) Demolir integralmente as barracas em simultâneo com o realojamento, incluindo todas as que entretanto tenham deixado de ser utilizadas pelos agregados familiares que nelas se encontravam recenseados à data da celebração do acordo de adesão;
+
+c) Assegurar que os terrenos presentemente ocupados por núcleos de barracas a demolir que estejam na sua propriedade ou posse e se destinem à construção de habitação ficam prioritariamente afectos à execução do programa ou à promoção de habitação de custos controlados.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 34/96 - Diário da República n.º 200/1996, Série I-A de 1996-08-29](https://diariodarepublica.pt/dr/detalhe/lei/34-1996-243918), em vigor a partir de 1996-08-03
+
+###### Artigo 6.º
+
+1 - Podem ser objecto de financiamento ao abrigo do Programa:
+
+a) O preço de aquisição de habitações, bem como das partes acessórias destinadas a garagem ou lugar de estacionamento e a arrecadação ou arrumos que constituam parte integrante ou estejam afectas ao uso exclusivo da fracção autónoma habitacional;
+
+b) O preço de aquisição, pelos municípios, no todo ou em parte, de empreendimentos habitacionais de custos controlados, construídos ou em construção, incluindo os espaços destinados a equipamento social, de carácter cultural, recreativo e desportivo, quando a respectiva aquisição se justifique por razões sociais e ou urbanísticas;
+
+c) O custo de aquisição e de infra-estruturação dos terrenos, bem como o custo de construção de empreendimentos promovidos em regime de habitação de custos controlados, incluindo espaços destinados a equipamento social nos termos e condições previstos na segunda parte da alínea anterior;
+
+d) O custo das obras de recuperação de fogos ou de prédios devolutos de que os beneficiários sejam proprietários;
+
+e) O preço de aquisição de prédios ou fracções autónomas de prédios devolutos degradados e o custo da respectiva recuperação.
+
+2 - Cabe à administração central, através do INH, disponibilizar, sob a forma de comparticipação a fundo perdido, até 50% dos custos ou preços indicados no número anterior.
+
+3 - O INH, directamente ou através de uma instituição de crédito, nos termos dos artigos 2.º, 3.º e 4.º do Decreto-Lei n.º 150-A/91, de 22 de Abril, pode financiar, sob a forma de empréstimo bonificado, a parte não comparticipada dos referidos custos ou preços.
+
+4 - As condições dos empréstimos a que se refere o número anterior são as estabelecidas na portaria a que se refere o n.º 1 do artigo 5.º do Decreto-Lei n.º 110/85, de 17 de Abril.
+
+5 - Para além do disposto no n.º 6 do artigo 9.º, podem ser concedidos adiantamentos dos financiamentos até 30% dos custos das obras de recuperação e, nos casos de aquisição, até 30% dos preços de aquisição, neste caso para financiar o pagamento de quantias a título de sinal ou princípio de pagamento.
+
+6 - Para efeito do disposto no presente diploma, considera-se equipamento social as áreas construídas do empreendimento, integradas nos edifícios habitacionais ou constituindo edifício autónomo, destinadas a fins culturais, assistenciais, desportivos e recreativos e de utilização colectiva dos moradores.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 7.º
+
+1 - Os financiamentos referidos no n.º 1 do artigo anterior são concedidos em partes iguais de comparticipação e de empréstimo e estão sujeitos aos seguintes limites máximos:
+
+a) Nos casos das alíneas a) e b), 80% dos preços máximos fixados, para cada ano, para efeito de aquisição das habitações, de acordo com a sua tipologia, das respectivas partes acessórias e, se for o caso, do equipamento social, por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação;
+
+b) No caso da alínea c), 80% dos valores máximos dos custos fixados para a habitação de custos controlados;
+
+c) No caso das obras de recuperação de fogos ou de prédios devolutos, 60% do preço máximo aplicável ao fogo nos termos da portaria referida na alínea a) do presente número;
+
+d) No caso de aquisição de prédios ou fracções autónomas de prédios devolutos degradados e respectiva recuperação, o preço máximo aplicável aos fogos nos termos da portaria referida na alínea a) do presente número.
+
+2 - Para efeito do disposto nas alíneas c) e d) do número anterior, quando das obras de recuperação do fogo resulte tipologia diferente da inicial, é a tipologia final que deve ser considerada para efeito de fixação do preço máximo desse fogo.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 8.º
+
+1 - Têm acesso a financiamento para qualquer dos fins previstos no n.º 1 do artigo 6.º os municípios aderentes e respectivas empresas públicas municipais.
+
+2 - Têm ainda acesso a financiamento ao abrigo do Programa:
+
+a) As instituições particulares de solidariedade social e as pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais, para os fins previstos nas alíneas a), c), d) e e) do n.º 1 do artigo 6.º;
+
+b) As cooperativas de habitação e construção com experiência e capacidade na promoção de habitação de custos controlados verificadas casuisticamente pelo INH, para os fins previstos nas alíneas a), c), d) e e) do n.º 1 do artigo 6.º;
+
+c) Os agregados familiares registados no levantamento efectuado pelos municípios para efeito dos respectivos acordos gerais de adesão, para o fim previsto na alínea a) do n.º 1 do artigo 6.º, desde que o respectivo rendimento anual bruto corrigido lhes permita suportar o serviço da dívida do empréstimo relativo à parte do financiamento que não é comparticipada.
+
+3 - O financiamento a conceder às empresas públicas municipais e às entidades referidas nas alíneas a) e b) do número anterior é contratado com o INH com base em acordo celebrado com o município competente de que constem a identificação das áreas e dos agregados familiares a realojar, de entre os constantes do levantamento efectuado pelo município, bem como o compromisso deste de assegurar as demolições nos termos da alínea b) do artigo 5.º
+
+4 - No caso da alínea c) do n.º 2, designado por PER Famílias, os agregados familiares podem ainda beneficiar de uma comparticipação a fundo perdido, a conceder pelo município da respectiva área de recenseamento ou pelo proprietário do terreno de localização das barracas desocupadas por aqueles agregados, destinada a financiar a parte do preço de aquisição do fogo que não é objecto de financiamento nos termos dos artigos anteriores.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 9.º
+
+1 - A concretização dos objectivos definidos no acordo geral de adesão faz-se mediante a celebração, entre o IGAPHE, o INH ou outra instituição financiadora e o respectivo município, de contratos-programas de comparticipação e de financiamento plurianuais, que funcionarão sob a forma de crédito em conta corrente até à utilização dos montantes neles previstos.
+
+2 - Para a celebração dos contratos-programas, os municípios aderentes têm de apresentar ao IGAPHE os seguintes elementos:
+
+a) Previsão do número total de fogos a abranger e respectiva programação física e financeira plurianual;
+
+b) Documentos comprovativos da propriedade dos terrenos a afectar aos empreendimentos;
+
+c) Planos de atribuição dos fogos e origem dos agregados familiares a realojar;
+
+d) Planos de ocupação dos terrenos a libertar com a demolição dos núcleos de barracas;
+
+e) Quaisquer outros que se mostrem indispensáveis à regular formação do contrato.
+
+3 - Para efeitos do disposto na alínea b) do número anterior, a posse administrativa dos terrenos expropriados substitui o documento comprovativo da propriedade, desde que o município ofereça adequadas garantias dos empréstimos a contratar.
+
+4 - Para a aquisição de fogos, os municípios têm de apresentar os elementos necessários à sua identificação, condições e preços de aquisição, bem como os elementos a que se referem as alíneas c), d) e e) do n.º 2.
+
+5 - Sempre que no momento da celebração do contrato-programa o município justificadamente comprove a impossibilidade de apresentação de algum dos elementos referidos nas alíneas b) a d) do n.º 2, deve proceder à apresentação dos elementos em falta, nos termos previstos no artigo 10.º
+
+6 - As verbas respeitantes às comparticipações e aos empréstimos contratados serão libertadas mediante autos de medição ou de avaliação das obras realizadas, sem prejuízo de poderem ser concedidos adiantamentos até 30% do valor dos empreendimentos em curso, a amortizar durante a sua execução.
+
+7 - Todos os empreendimentos a construir ou fogos a adquirir pelo município na vigência de um contrato-programa são comparticipados e financiados ao abrigo do mesmo até à utilização total das verbas nele previstas.
+
+8 - Os investimentos plurianuais previstos num contrato-programa podem ser reajustados por acordo entre as partes, em função do ritmo das obras por ele abrangidas, sem necessidade de recurso a qualquer aditamento ao mesmo, desde que não se verifique alteração do montante total contratado.
+
+9 - As minutas dos contratos-programas estão sujeitas a visto prévio do Tribunal de Contas, a obter através do IGAPHE.
+
+10 - Antes do termo de cada contrato-programa, até à concretização integral do acordo geral de adesão, deverá promover-se a celebração de novo contrato-programa, por forma a garantir a cobertura financeira para o pagamento das obras em curso e a lançar pelo município nos anos subsequentes.
+
+11 - Os empréstimos concedidos aos municípios são garantidos ou pela consignação das receitas que lhes são atribuídas pelo fundo de equilíbrio financeiro ou, se a entidade financiadora assim o exigir, através da constituição de hipoteca sobre os terrenos e edifícios a construir ou outras garantias que se revelem necessárias para a boa segurança dos empréstimos.
+
+12 - Os municípios obrigam-se a inscrever nos seus orçamentos anuais as verbas necessárias ao cumprimento das obrigações assumidas nos termos dos contratos-programas celebrados.
+
+13 - Os municípios podem optar pela concretização dos objectivos definidos no acordo geral de adesão mediante a celebração de um contrato de comparticipação e de financiamento para cada projecto específico.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 34/96 - Diário da República n.º 200/1996, Série I-A de 1996-08-29](https://diariodarepublica.pt/dr/detalhe/lei/34-1996-243918), em vigor a partir de 1996-08-03
+
+###### Artigo 10.º
+
+Para a libertação das verbas constantes dos contratos-programas celebrados, os municípios terão de apresentar ao IGAPHE, em relação a cada empreendimento, os seguintes elementos:
+
+a) Deliberação camarária em que o município assuma o compromisso de que os terrenos se encontram ou estarão infra-estruturados à data da conclusão dos fogos;
+
+b) Projectos de execução do empreendimento;
+
+c) Programação física e cronograma financeiro do empreendimento, com indicação das respectivas fontes;
+
+d) Relatório de apreciação das propostas dos concorrentes aos empreendimentos;
+
+e) Quaisquer outros que se mostrem indispensáveis ao controlo de libertação das verbas.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 34/96 - Diário da República n.º 200/1996, Série I-A de 1996-08-29](https://diariodarepublica.pt/dr/detalhe/lei/34-1996-243918), em vigor a partir de 1996-08-03
+
+###### Artigo 11.º
+
+1 - Os municípios ficam obrigados a promover a construção ou a aquisição dos fogos nos termos do acordo geral de adesão e dos contratos celebrados e proceder à aplicação das verbas de acordo com o escalonamento plurianual previsto nos contratos, sob pena da perda ou redução dos recursos financeiros que haviam sido previstos, com a reafectação dos mesmos a favor dos demais municípios aderentes.
+
+2 - Os municípios ficam ainda obrigados a manter actualizado o registo dos agregados familiares a realojar e dos respectivos rendimentos.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+###### Artigo 12.º
+
+Salvo nos casos expressamente previstos nos acordos gerais de adesão celebrados, as comparticipações concedidas ao abrigo do presente diploma não são acumuláveis com apoios financeiros concedidos por outras entidades para o mesmo fim, ficando o beneficiário, em caso de incumprimento, obrigado a restituir ao INH a parte da comparticipação recebida correspondente ao valor do apoio financeiro da outra entidade.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 13.º
+
+Os prédios e as fracções autónomas de prédios habitacionais financiados ao abrigo do presente diploma destinam-se a atribuição para residência permanente em regime de renda apoiada ou em regime de propriedade resolúvel, nos termos regulados respectivamente nos Decretos-Leis n.os 166/93 e 167/93, ambos de 7 de Maio, salvo no caso do PER Famílias, em que os fogos se destinam a habitação própria e permanente dos respectivos adquirentes.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 14.º
+
+Nenhum dos membros dos agregados familiares realojados ou a realojar de acordo com o previsto no artigo anterior pode deter, a qualquer título, outra habitação no concelho do respectivo recenseamento para o PER ou em concelho limítrofe, nem ter inscrita para efeitos fiscais, de segurança social ou outros outra residência no território nacional, bem como não pode estar a usufruir de outros apoios financeiros públicos para fins habitacionais.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 15.º
+
+1 - A administração central pode recusar a celebração de quaisquer acordos de colaboração, contratos-programa plurissectoriais ou sectoriais, com perda de prioridade na atribuição de quaisquer fundos comunitários, aos municípios integrados nas áreas metropolitanas de Lisboa e Porto que tenham barracas na respectiva área e não adiram ao Programa a que se refere o presente diploma.
+
+2 - Aos municípios aderentes que não concretizem total ou parcialmente as obrigações assumidas no acordo geral de adesão aplica-se o disposto no número anterior.
+
+3 - Se o IGAPHE constatar que surgiram novas barracas em determinado município, pode suspender ou reduzir os apoios financeiros com o município, em função da gravidade da situação e enquanto o município não promover a demolição das barracas detectadas.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+###### Artigo 16.º
+
+1 - O incumprimento dos contratos celebrados com o INH ou a falta de prova, perante este, da realização do registo da inalienabilidade a que se refere a alínea b) do n.º 1 do artigo 22.º até 12 meses a contar da data de início do respectivo prazo, salvo quando se comprove que essa falta não é imputável ao beneficiário, determina o reembolso imediato das comparticipações e bonificações concedidas pelo INH, acrescidas de juros à taxa de mora ao Estado, desde a data da respectiva disponibilização, sem prejuízo de outras sanções contratual ou legalmente aplicáveis.
+
+2 - Nos casos previstos no número anterior, os créditos do INH gozam de privilégio creditório imobiliário sobre os prédios e fracções autónomas por ele financiados.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 1/2001 - Diário da República n.º 3/2001, Série I-A de 2001-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2001-235308), em vigor a partir de 2001-01-09
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 34/96 - Diário da República n.º 200/1996, Série I-A de 1996-08-29](https://diariodarepublica.pt/dr/detalhe/lei/34-1996-243918), em vigor a partir de 1996-08-03
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 93/95 - Diário da República n.º 107/1995, Série I-A de 1995-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1995-513868), em vigor a partir de 1995-05-14
+
+###### Artigo 17.º
+
+1 - As entidades referidas no n.º l e na alínea a) do n.º 2 do artigo 8.º podem celebrar com o Ministério da Segurança Social e do Trabalho acordos complementares no âmbito do Programa Nacional da Luta contra a Pobreza ou de programa com o mesmo objectivo, tendo em vista a inserção social dos agregados familiares a realojar.
+
+2 - Os encargos decorrentes da execução das acções estabelecidas em cada acordo complementar são comparticidados a fundo perdido pelo Ministério do Emprego e da Segurança Social até um máximo de 80%.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 93/95 - Diário da República n.º 107/1995, Série I-A de 1995-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1995-513868), em vigor a partir de 1995-05-14
+
+###### Artigo 18.º
+
+No caso de fogos atribuídos em regime de renda apoiada pelas entidades a que se referem as alíneas a) e b) do n.º 2 do artigo 8.º, os municípios podem, no âmbito dos acordos referidos no n.º 3 do mesmo artigo, acordar a concessão de comparticipações a fundo perdido destinadas a suportar, total ou parcialmente, o montante correspondente à diferença entre o valor da renda apoiada aplicável ao fogo e o valor do preço técnico correspondente a esse fogo.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 19.º
+
+1 - O Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) pode, sem exigir qualquer contrapartida, acordar com os municípios aderentes ao Programa a transmissão, para eles próprios ou para empresas municipais que não sejam participadas por entidades privadas com fins lucrativos, da propriedade de prédios ou suas fracções que constituem agrupamentos habitacionais ou bairros, incluindo os espaços exteriores de uso público, equipamentos e outras infra-estruturas, bem como os direitos e obrigações a estes relativos e aos fogos em regime de propriedade resolúvel, podendo os municípios ou as empresas municipais alienar esses fogos aos respectivos moradores, nos termos do Decreto-Lei n.º 141/88, de 22 de Abril, com as alterações introduzidas pelo Decreto-Lei n.º 288/93, de 20 de Agosto.
+
+2 - No caso de municípios que não pretendam adquirir o património nos termos do número anterior, o IGAPHE pode transmiti-lo nas mesmas condições para instituições particulares de solidariedade social, ou para pessoas colectivas de utilidade pública administrativa, desde que prossigam fins assistenciais e demonstrem capacidade para gerir aquele património.
+
+3 - A transmissão do património é realizada através de auto de cessão, assinado pelos representantes das partes, que deve conter a identificação dos imóveis transmitidos e a relação dos direitos e obrigações a eles inerentes e que constitui título bastante da transmissão para todos os efeitos legais, incluindo os de registo.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 20.º
+
+O disposto no artigo 20.º do Decreto-Lei n.º 384/87, de 24 de Dezembro, e no artigo 10.º do Decreto-Lei n.º 363/88, de 14 de Outubro, não releva para efeitos de adesão ao Programa estabelecido no presente diploma.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+###### Artigo 21.º
+
+Aos empréstimos celebrados pelos municípios no âmbito do presente Programa não é aplicável o disposto no n.º 6 do artigo 15.º da Lei n.º 1/87, de 6 de Janeiro.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 34/96 - Diário da República n.º 200/1996, Série I-A de 1996-08-29](https://diariodarepublica.pt/dr/detalhe/lei/34-1996-243918), em vigor a partir de 1996-08-03
+
+###### Artigo 22.º
+
+1 - Os prédios e as fracções autónomas de prédios financiados ao abrigo do presente diploma estão sujeitos às seguintes restrições:
+
+a) Inalienabilidade pelo prazo de 25 anos a contar da data da sua aquisição, no caso do PER Famílias;
+
+b) Inalienabilidade pelo prazo de 15 anos a contar da data de aquisição ou de conclusão das obras de construção ou de recuperação, no caso de atribuição em regime de renda apoiada e de equipamento social;
+
+c) Nos termos estabelecidos no Decreto-Lei n.º 167/93, de 7 de Maio, quando atribuídos em regime de propriedade resolúvel.
+
+2 - As inalienabilidades referidas nas alíneas a) e b) do número anterior e o respectivo prazo estão sujeitos a registo, a requerer pelos beneficiários dos financiamentos, salvo no que respeita ao PER Famílias, em que o registo é requerido pelo INH e, se for o caso, pelo município na parte relativa à respectiva comparticipação.
+
+3 - As inscrições relativas aos registos referidos no número anterior devem conter a indicação da norma do n.º 1 aplicável ao caso e o valor da comparticipação do INH e, se for o caso, da do município.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 23.º
+
+1 - A inalienabilidade prevista na alínea b) do n.º 1 do artigo anterior não prejudica a possibilidade de venda da habitação e partes acessórias da mesma ao respectivo arrendatário ou a um dos membros do seu agregado familiar, mantendo-se a inalienabilidade registada pelo prazo remanescente.
+
+2 - Cabe ao INH emitir as declarações necessárias para efeito de verificação notarial e registral da regularidade da transmissão a que se refere o número anterior.
+
+3 - A venda ao arrendatário pode ser feita em regime de propriedade resolúvel, caso em que a inalienabilidade se extingue, sendo a respectiva inscrição no registo objecto de cancelamento oficioso aquando do registo da compra e venda em regime de propriedade resolúvel.
+
+4 - A venda ao arrendatário em regime de propriedade resolúvel rege-se nos termos do Decreto-Lei n.º 167/93, de 7 de Maio, não lhe sendo aplicável o disposto nos artigos seguintes.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 24.º
+
+1 - No caso do n.º 1 do artigo anterior, o preço de venda da habitação e partes acessórias da mesma não pode exceder o valor que foi considerado para efeito de concessão do financiamento à respectiva construção ou aquisição, corrigido pela aplicação da taxa anual de inflação fixada pelo Instituto Nacional de Estatística a partir do ano seguinte ao da aquisição ou da conclusão da construção.
+
+2 - Quando o preço de venda da habitação e partes acessórias da mesma exceder o valor da dívida do empréstimo à respectiva construção ou aquisição, o proprietário deve devolver ao INH o montante correspondente a 50% da diferença entre aquele preço e o valor da referida dívida.
+
+3 - No caso dos municípios, o INH pode dispensar a devolução prevista no número anterior se aqueles demonstrarem a afectação das quantias ali referidas à realização de obras de reabilitação de prédios, fogos e fracções autónomas habitacionais de que sejam proprietários.
+
+4 - O pedido de autorização de venda deve ser apresentado pelos proprietários das habitações ao INH, através de requerimento onde conste o preço de venda, o valor da dívida do empréstimo e o valor e forma de pagamento das quantias a devolver ao INH ou a aplicar em obras de reabilitação pelos municípios, se for o caso.
+
+5 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, à venda e levantamento da inalienabilidade de prédios ou fracções autónomas de prédios destinados a equipamento social.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 25.º
+
+1 - A inalienabilidade prevista na alínea a) do n.º 1 do artigo 22.º do presente diploma pode ser levantada a requerimento do proprietário para venda da habitação e partes acessórias da mesma, mediante a devolução dos montantes concedidos pelo INH e, se for o caso, pelo município, a título de bonificação e de comparticipação à respectiva aquisição, acrescidos de 10%.
+
+2 - Pode igualmente ser levantada a requerimento do respectivo adquirente a inalienabilidade a que ficam sujeitas as habitações e partes acessórias das mesmas transmitidas aos arrendatários nos termos do n.º 1 do artigo 23.º e do artigo anterior, mediante a devolução dos montantes concedidos pelo INH a título de bonificação e de comparticipação à primeira aquisição ou à construção, acrescidos de 10% e, depois, deduzidos do valor pago ou aplicado de acordo com os n.os 2 e 3 do artigo anterior.
+
+3 - Cabe ao INH emitir as declarações relativas ao levantamento dos ónus referidos nos números anteriores e ao cancelamento dos correspondentes registos.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 26.º
+
+1 - Pode ser dispensado pelo INH o pagamento dos montantes devidos nos termos do artigo anterior para efeito do levantamento da inalienabilidade em casos excepcionais de inadequação do fogo ao agregado familiar, superveniente à respectiva aquisição, devidamente comprovados pelos proprietários e aceites pelo INH, e desde que se verifique a afectação da totalidade do produto da respectiva venda à aquisição de nova habitação própria e permanente.
+
+2 - Para efeito do disposto no número anterior, são considerados excepcionais os seguintes casos de inadequação do fogo ao agregado familiar:
+
+a) Do piso do fogo, determinada por incapacidade visual ou de locomoção motora de um dos membros do agregado familiar, de grau igual ou superior a 60%;
+
+b) Da tipologia do fogo, por alteração da composição do agregado familiar, decorrente de nascimento, adopção ou óbito.
+
+3 - Para efeito do disposto no n.º 1, podem ainda ser considerados como excepcionais outros casos de inadequação do fogo ao agregado familiar, mediante autorização do Ministro das Obras Públicas, Transportes e Habitação, sob proposta do INH.
+
+4 - Considera-se, porém, aplicável o disposto nos n.os 1 e 2 do artigo 25.º sempre que o INH verificar que a habitação a adquirir nos termos do número anterior não cumpre os requisitos de adequabilidade que determinam a venda da habitação anterior ou no caso de a escritura de compra e venda da nova habitação não ser realizada no prazo de seis meses a contar da data da alienação da habitação anterior, salvo em casos excepcionais, devidamente justificados, não imputáveis ao beneficiário e aceites pelo INH.
+
+5 - As habitações adquiridas nos termos do n.º 1 do presente artigo ficam sujeitas a uma inalienabilidade, sujeita a registo, por prazo igual ao que faltava cumprir da inalienabilidade da habitação anterior, sem prejuízo do disposto no artigo 25.º
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 27.º
+
+1 - No caso de fogos a alienar nos termos dos n.os 1 a 3 do artigo anterior, o município da respectiva área de localização tem direito de preferência na alienação, a exercer no prazo máximo de 30 dias a contar da data da recepção da correspondente comunicação.
+
+2 - Quando de fogos de promoção cooperativa adquiridos ao abrigo do Decreto-Lei n.º 79/96, o direito referido no número anterior prevalece sobre o direito de preferência do INH previsto no n.º 5 do artigo 28.º do Decreto-Lei n.º 502/99, de 19 de Novembro.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 28.º
+
+O desvio da comparticipação concedida à construção ou aquisição da habitação alienada, pela não aplicação do produto da venda da habitação anterior na compra de nova habitação ou pelo não pagamento ao INH dos montantes que lhe sejam devidos no caso de inadequabilidade da nova habitação, determina a impossibilidade de acesso, por parte do proprietário da habitação alienada, a quaisquer modalidades de apoio financeiro público enquanto não procederem à devolução dos montantes devidos, sem prejuízo de outras sanções legais aplicáveis ao caso.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 271/2003 - Diário da República n.º 250/2003, Série I-A de 2003-10-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-2003-466834), em vigor a partir de 2003-10-29
+
+###### Artigo 29.º
+
+São aplicáveis ao Programa regulado no presente diploma, com as adaptações que se revelem necessárias, as normas constantes da alínea f) do artigo 12.º, do artigo 14.º, do n.º 2 do artigo 15.º, da alínea e) do n.º 1 do artigo 16.º, do n.º 3 do artigo 20.º, do n.º 2 do artigo 21.º, do artigo 32.º, do n.º 2 e das alíneas a) e c) do n.º 3 do artigo 33.º e dos n.os 1 e 5 do artigo 34.º do Decreto-Lei n.º 135/2004, de 3 de Junho, que cria o PROHABITA.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05
+
+> Aditado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 135/2004 - Diário da República n.º 130/2004, Série I-A de 2004-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2004-281201), em vigor a partir de 2004-07-04
+
+Visto e aprovado em Conselho de Ministros de 18 de Março de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Joaquim Martins Ferreira do Amaral José Albino da Silva Peneda.
+
+Promulgado em 26 de Abril de 1993.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 27 de Abril de 1993.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 37/2018 - Diário da República n.º 106/2018, Série I de 2018-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2018-115440317), em vigor a partir de 2018-06-05

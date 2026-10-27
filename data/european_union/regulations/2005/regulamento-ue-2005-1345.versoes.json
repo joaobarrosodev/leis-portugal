@@ -1,0 +1,277 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005R1345:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R1345-20161106",
+ "dre_path": null,
+ "source_lastmod": "2016-11-06",
+ "versions": [
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "celex": "02005R1345-20080701",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "106aea9538ef0449",
+    "5fca297f3fdc778a",
+    "29f85ec0669bd10f",
+    "dcbec459ff232f84",
+    "fdb3620f29139eae",
+    "94e890731f6d93d8",
+    "10220b9774fa9034",
+    "d09d61eafb720ce1",
+    "03ad9d92e7f976bf",
+    "6bfec5bfa6523861",
+    "85fa6edc2b2a1726"
+   ]
+  },
+  {
+   "date": "2010-07-01",
+   "future": false,
+   "celex": "02005R1345-20100701",
+   "acts": [
+    {
+     "id": "eu:celex:32010R0557:por",
+     "title": "REGULAMENTO (UE) N. o 557/2010 DA COMISSÃO de 24 de Junho de 2010",
+     "published": null,
+     "celex": "32010R0557"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Notas",
+    "Suprime ANEXO",
+    "Suprime Aplicação do Regulamento (CE) n.º 1345/2005",
+    "Suprime COMISSÃO DAS COMUNIDADES EUROPEIAS — DG AGRI.C.2",
+    "Suprime SECTOR DO AZEITE"
+   ],
+   "fragments": [
+    "a5adf0954a21def8",
+    "1df786b34559041e",
+    "29f85ec0669bd10f",
+    "d9aea32e6ab9a7a1",
+    "fdb3620f29139eae",
+    "64d002b3368f854c",
+    "7297b2466936f6e0"
+   ]
+  },
+  {
+   "date": "2014-04-01",
+   "future": false,
+   "celex": "02005R1345-20140401",
+   "acts": [
+    {
+     "id": "eu:celex:32013R1333:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 1333/2013 DA COMISSÃO de 13 de dezembro de 2013",
+     "published": null,
+     "celex": "32013R1333"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "0a6b72f150ff9114",
+    "120868c8e2bd791a",
+    "29f85ec0669bd10f",
+    "bfae6630c30a680a",
+    "fdb3620f29139eae",
+    "64d002b3368f854c",
+    "886928005c919237"
+   ]
+  },
+  {
+   "date": "2016-11-06",
+   "future": false,
+   "celex": "02005R1345-20161106",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "2aa13f3a6ad16732"
+   ]
+  }
+ ],
+ "fragments": {
+  "106aea9538ef0449": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Agosto de 2005\n\nque estabelece as normas de execução do regime de certificados de importação no sector do azeite\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 865/2004 do Conselho, de 29 de Abril 2004, relativo à organização comum de mercado no sector do azeite e da azeitona de mesa e que altera o Regulamento (CEE) n.º 827/68 ([^1^](http://publications.europa.eu/resource/cellar/d30672ce-bf36-4ac6-982f-9c99f737ada2.0017.03/DOC_1#E0001)), nomeadamente o n.º 4 do artigo 10.º,\n\n(1) O artigo 10.º do Regulamento (CE) n.º 865/2004 estabelece disposições específicas no respeitante à emissão de certificados de importação no sector do azeite. É conveniente prever certas normas específicas de execução relativas à emissão desses certificados.\n\n(2) As disposições do presente regulamento completam as disposições do Regulamento (CE) n.º 1291/2000 da Comissão, de 9 de Junho de 2000, que estabelece normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas ([^2^](http://publications.europa.eu/resource/cellar/d30672ce-bf36-4ac6-982f-9c99f737ada2.0017.03/DOC_1#E0002)).\n\n(3) Num intuito de clareza e transparência, há que revogar, a partir de 1 de Novembro de 2005, o Regulamento (CE) n.º 1476/95 da Comissão, de 28 de Junho de 1995, que estabelece normas específicas de execução do regime de certificados de importação no sector do azeite ([^3^](http://publications.europa.eu/resource/cellar/d30672ce-bf36-4ac6-982f-9c99f737ada2.0017.03/DOC_1#E0003)).\n\n(4) O Regulamento (CE) n.º 2543/95 da Comissão, de 30 de Outubro de 1995, que estabelece normas específicas de execução do regime de certificados de exportação no sector do azeite ([^4^](http://publications.europa.eu/resource/cellar/d30672ce-bf36-4ac6-982f-9c99f737ada2.0017.03/DOC_1#E0004)), prevê um sistema obrigatório de emissão de certificados de exportação. Por força do n.º 3 do artigo 10.º do Regulamento (CE) n.º 865/2004, a emissão de certificados de exportação passa a ser uma medida facultativa e dependente da evolução do mercado. Em consequência, é conveniente revogar igualmente o Regulamento (CE) n.º 2543/95 a partir de 1 de Novembro de 2005.\n\n(5) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Azeite e da Azeitona de Mesa,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "5fca297f3fdc778a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento estabelece as normas específicas de execução do regime de certificados de importação previsto no artigo 10.º do Regulamento (CE) n.º 865/2004.\n\n2. As importações de produtos abrangidos pelos códigos NC 0709 90 39, 0711 20 90 e 2306 90 19 sujeitos à apresentação de um certificado de importação são estabelecidas no n.º 2, alínea a), do artigo 1.º do Regulamento (CE) n.º 376/2008 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/d30672ce-bf36-4ac6-982f-9c99f737ada2.0017.03/DOC_1#E0005)). O período de eficácia do certificado de importação e o montante da garantia a apresentar serão os fixados na parte I do anexo II do referido regulamento."
+  },
+  "29f85ec0669bd10f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Com vista a beneficiar do regime especial previsto nos regulamentos adoptados em execução dos acordos celebrados entre a Comunidade e determinados países terceiros, o pedido de certificado de importação e o certificado conterão, nas casas 7 e 8, a denominação do país terceiro em questão.\n\n2. O certificado de importação obriga a importar, do país terceiro indicado, o produto que corresponde às condições previstas nos regulamentos referidos no n.º 1 e relativamente ao qual o certificado tenha sido emitido."
+  },
+  "dcbec459ff232f84": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-Membros comunicam à Comissão as quantidades relativamente às quais tenham sido emitidos certificados de importação, especificando as quantidades e, nos casos a que se refere o n.º 1 do artigo 2.º, a proveniência das importações, nos prazos seguintes:\n\na) Até ao dia 5 de cada mês, no respeitante ao período compreendido entre o dia 16 e o final do mês anterior, e até ao dia 20 de cada mês, no respeitante ao período compreendido entre os dias 1 e 15 do mês em curso, para os produtos referidos na alínea a) do artigo 1.º do Regulamento (CE) n.º 865/2004;\n\nb) No decurso do primeiro mês seguinte ao final de cada campanha, para os produtos referidos nas alíneas b) e c) do artigo 1.º do Regulamento (CE) n.º 865/2004 e para os quais tenha sido emitido um certificado de importação.\n\nSe a importação das quantidades para as quais são pedidos certificados num Estado-Membro parecerem a este último constituir um perigo de ameaça de perturbação do mercado, o Estado-Membro informará imediatamente a Comissão desse facto, comunicando-lhe as quantidades, especificadas em conformidade com o n.º 1, e distinguindo, por um lado, aquelas para as quais foram pedidos certificados que ainda não foram emitidos ou aceites e, por outro, aquelas para as quais foram emitidos certificados durante a quinzena em curso.\n\n2. Todas as comunicações referidas no n.º 1, incluindo as comunicações relativas à inexistência de pedidos, devem ser efectuadas em conformidade com o modelo constante do anexo e enviadas à Comissão por via electrónica."
+  },
+  "fdb3620f29139eae": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSão revogados os Regulamentos (CE) n.º 1476/95 e (CE) n.º 2543/95."
+  },
+  "94e890731f6d93d8": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de Novembro de 2005.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "d09d61eafb720ce1": {
+   "fragment_id": "Aplicação do Regulamento (CE) n.º 1345/2005",
+   "type": "divisao",
+   "heading": "Aplicação do Regulamento (CE) n.º 1345/2005",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Aplicação do Regulamento (CE) n.º 1345/2005"
+  },
+  "03ad9d92e7f976bf": {
+   "fragment_id": "COMISSÃO DAS COMUNIDADES EUROPEIAS — DG AGRI.C.2",
+   "type": "divisao",
+   "heading": "COMISSÃO DAS COMUNIDADES EUROPEIAS — DG AGRI.C.2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COMISSÃO DAS COMUNIDADES EUROPEIAS — DG AGRI.C.2"
+  },
+  "6bfec5bfa6523861": {
+   "fragment_id": "SECTOR DO AZEITE",
+   "type": "divisao",
+   "heading": "SECTOR DO AZEITE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SECTOR DO AZEITE\n\nExpedidor:\n\nData:\n\nPeríodo:\n\nEstado-Membro:\n\nResponsável a contactar:\n\nTelefone:\n\nCorreio electrónico:\n\nDestinatário: DG AGRI.C.2 — agri-hort-prix-ho@cec.eu.int\n\nComunicações por quinzena:\n\n| Categoria | Quantidade | Código NC (8 dígitos) | Acondicionamento (a granel ou em pequenas embalagens, 4 dígitos) |\n| --- | --- | --- | --- |\n| Total |  |  |  |\n\n| Categoria | Quantidade | Código NC (8 dígitos) | Acondicionamento (a granel ou em pequenas embalagens, 4 dígitos) |\n| --- | --- | --- | --- |\n| Total |  |  |  |\n\n---"
+  },
+  "85fa6edc2b2a1726": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d30672ce-bf36-4ac6-982f-9c99f737ada2.0017.03/DOC_1#src.E0001)) JO L 206 de 9.6.2004, p. 37.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/d30672ce-bf36-4ac6-982f-9c99f737ada2.0017.03/DOC_1#src.E0002)) JO L 152 de 24.6.2000, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1741/2004 (JO L 311 de 8.10.2004, p. 17).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/d30672ce-bf36-4ac6-982f-9c99f737ada2.0017.03/DOC_1#src.E0003)) JO L 145 de 29.6.1995, p. 35. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1081/2001 (JO L 149 de 2.6.2001, p. 17).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/d30672ce-bf36-4ac6-982f-9c99f737ada2.0017.03/DOC_1#src.E0004)) JO L 260 de 31.10.1995, p. 33. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 406/2004 (JO L 67 de 5.3.2004, p. 10).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/d30672ce-bf36-4ac6-982f-9c99f737ada2.0017.03/DOC_1#src.E0005)) JO L 114 de 26.4.2008, p. 3."
+  },
+  "a5adf0954a21def8": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Agosto de 2005\n\nque estabelece as normas de execução do regime de certificados de importação no sector do azeite\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 865/2004 do Conselho, de 29 de Abril 2004, relativo à organização comum de mercado no sector do azeite e da azeitona de mesa e que altera o Regulamento (CEE) n.º 827/68 ([^1^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#E0001)), nomeadamente o n.º 4 do artigo 10.º,\n\n(1) O artigo 10.º do Regulamento (CE) n.º 865/2004 estabelece disposições específicas no respeitante à emissão de certificados de importação no sector do azeite. É conveniente prever certas normas específicas de execução relativas à emissão desses certificados.\n\n(2) As disposições do presente regulamento completam as disposições do Regulamento (CE) n.º 1291/2000 da Comissão, de 9 de Junho de 2000, que estabelece normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas ([^2^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#E0002)).\n\n(3) Num intuito de clareza e transparência, há que revogar, a partir de 1 de Novembro de 2005, o Regulamento (CE) n.º 1476/95 da Comissão, de 28 de Junho de 1995, que estabelece normas específicas de execução do regime de certificados de importação no sector do azeite ([^3^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#E0003)).\n\n(4) O Regulamento (CE) n.º 2543/95 da Comissão, de 30 de Outubro de 1995, que estabelece normas específicas de execução do regime de certificados de exportação no sector do azeite ([^4^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#E0004)), prevê um sistema obrigatório de emissão de certificados de exportação. Por força do n.º 3 do artigo 10.º do Regulamento (CE) n.º 865/2004, a emissão de certificados de exportação passa a ser uma medida facultativa e dependente da evolução do mercado. Em consequência, é conveniente revogar igualmente o Regulamento (CE) n.º 2543/95 a partir de 1 de Novembro de 2005.\n\n(5) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Azeite e da Azeitona de Mesa,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1df786b34559041e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento estabelece as normas específicas de execução do regime de certificados de importação previsto no artigo 10.º do Regulamento (CE) n.º 865/2004.\n\n2. As importações de produtos abrangidos pelos códigos NC 0709 90 39, 0711 20 90 e 2306 90 19 sujeitos à apresentação de um certificado de importação são estabelecidas no n.º 2, alínea a), do artigo 1.º do Regulamento (CE) n.º 376/2008 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#E0005)). O período de eficácia do certificado de importação e o montante da garantia a apresentar serão os fixados na parte I do anexo II do referido regulamento."
+  },
+  "d9aea32e6ab9a7a1": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-Membros comunicam à Comissão as quantidades relativamente às quais tenham sido emitidos certificados de importação, especificando as quantidades e, nos casos a que se refere o n.º 1 do artigo 2.º, a proveniência das importações, nos prazos seguintes:\n\na) Até ao dia 5 de cada mês, no respeitante ao período compreendido entre o dia 16 e o final do mês anterior, e até ao dia 20 de cada mês, no respeitante ao período compreendido entre os dias 1 e 15 do mês em curso, para os produtos referidos na alínea a) do artigo 1.º do Regulamento (CE) n.º 865/2004;\n\nb) No decurso do primeiro mês seguinte ao final de cada campanha, para os produtos referidos nas alíneas b) e c) do artigo 1.º do Regulamento (CE) n.º 865/2004 e para os quais tenha sido emitido um certificado de importação.\n\nSe a importação das quantidades para as quais são pedidos certificados num Estado-Membro parecerem a este último constituir um perigo de ameaça de perturbação do mercado, o Estado-Membro informará imediatamente a Comissão desse facto, comunicando-lhe as quantidades, especificadas em conformidade com o n.º 1, e distinguindo, por um lado, aquelas para as quais foram pedidos certificados que ainda não foram emitidos ou aceites e, por outro, aquelas para as quais foram emitidos certificados durante a quinzena em curso.\n\n2. As comunicações referidas no artigo 4.º, n.º 1, primeiro parágrafo, alínea a), incluindo as comunicações «nada», devem ser efectuadas pelos Estados-Membros por via electrónica, utilizando o formulário disponibilizado pela Comissão.\n\nAs comunicações referidas no artigo 4.º, n.º 1, primeiro parágrafo, alínea b), e no artigo 4.º, n.º 1, segundo parágrafo, incluindo as comunicações «nada», devem ser efectuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^6^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#E0006))."
+  },
+  "64d002b3368f854c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente regulamento entra em vigor no sétimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de Novembro de 2005.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "7297b2466936f6e0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#src.E0001)) JO L 206 de 9.6.2004, p. 37.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#src.E0002)) JO L 152 de 24.6.2000, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1741/2004 (JO L 311 de 8.10.2004, p. 17).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#src.E0003)) JO L 145 de 29.6.1995, p. 35. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1081/2001 (JO L 149 de 2.6.2001, p. 17).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#src.E0004)) JO L 260 de 31.10.1995, p. 33. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 406/2004 (JO L 67 de 5.3.2004, p. 10).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#src.E0005)) JO L 114 de 26.4.2008, p. 3.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ad931d60-b63b-44ca-b139-21cde4fb00e0.0018.03/DOC_1#src.E0006)) JO L 228 de 1.9.2009, p. 3."
+  },
+  "0a6b72f150ff9114": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Agosto de 2005\n\nque estabelece as normas de execução do regime de certificados de importação no sector do azeite\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 865/2004 do Conselho, de 29 de Abril 2004, relativo à organização comum de mercado no sector do azeite e da azeitona de mesa e que altera o Regulamento (CEE) n.º 827/68 ([^1^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#E0001)), nomeadamente o n.º 4 do artigo 10.º,\n\n(1) O artigo 10.º do Regulamento (CE) n.º 865/2004 estabelece disposições específicas no respeitante à emissão de certificados de importação no sector do azeite. É conveniente prever certas normas específicas de execução relativas à emissão desses certificados.\n\n(2) As disposições do presente regulamento completam as disposições do Regulamento (CE) n.º 1291/2000 da Comissão, de 9 de Junho de 2000, que estabelece normas comuns de execução do regime de certificados de importação, de exportação e de prefixação para os produtos agrícolas ([^2^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#E0002)).\n\n(3) Num intuito de clareza e transparência, há que revogar, a partir de 1 de Novembro de 2005, o Regulamento (CE) n.º 1476/95 da Comissão, de 28 de Junho de 1995, que estabelece normas específicas de execução do regime de certificados de importação no sector do azeite ([^3^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#E0003)).\n\n(4) O Regulamento (CE) n.º 2543/95 da Comissão, de 30 de Outubro de 1995, que estabelece normas específicas de execução do regime de certificados de exportação no sector do azeite ([^4^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#E0004)), prevê um sistema obrigatório de emissão de certificados de exportação. Por força do n.º 3 do artigo 10.º do Regulamento (CE) n.º 865/2004, a emissão de certificados de exportação passa a ser uma medida facultativa e dependente da evolução do mercado. Em consequência, é conveniente revogar igualmente o Regulamento (CE) n.º 2543/95 a partir de 1 de Novembro de 2005.\n\n(5) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão do Azeite e da Azeitona de Mesa,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "120868c8e2bd791a": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente regulamento estabelece as normas específicas de execução do regime de certificados de importação previsto no artigo 10.º do Regulamento (CE) n.º 865/2004.\n\n2. As importações de produtos abrangidos pelos códigos NC 0709 90 39, 0711 20 90 e 2306 90 19 sujeitos à apresentação de um certificado de importação são estabelecidas no n.º 2, alínea a), do artigo 1.º do Regulamento (CE) n.º 376/2008 da Comissão ([^5^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#E0005)). O período de eficácia do certificado de importação e o montante da garantia a apresentar serão os fixados na parte I do anexo II do referido regulamento."
+  },
+  "bfae6630c30a680a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os Estados-Membros comunicam à Comissão as quantidades relativamente às quais tenham sido emitidos certificados de importação, especificando as quantidades e, nos casos a que se refere o n.º 1 do artigo 2.º, a proveniência das importações, nos prazos seguintes:\n\na) Até ao dia 5 de cada mês, no respeitante ao período compreendido entre o dia 16 e o final do mês anterior, e até ao dia 20 de cada mês, no respeitante ao período compreendido entre os dias 1 e 15 do mês em curso, para os produtos referidos na alínea a) do artigo 1.º do Regulamento (CE) n.º 865/2004;\n\nb) No decurso do primeiro mês seguinte ao final de cada campanha, para os produtos referidos nas alíneas b) e c) do artigo 1.º do Regulamento (CE) n.º 865/2004 e para os quais tenha sido emitido um certificado de importação.\n\nSe a importação das quantidades para as quais são pedidos certificados num Estado-Membro parecerem a este último constituir um perigo de ameaça de perturbação do mercado, o Estado-Membro informará imediatamente a Comissão desse facto, comunicando-lhe as quantidades, especificadas em conformidade com o n.º 1, e distinguindo, por um lado, aquelas para as quais foram pedidos certificados que ainda não foram emitidos ou aceites e, por outro, aquelas para as quais foram emitidos certificados durante a quinzena em curso.\n\n2. As notificações referidas no n.º 1 devem ser efetuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^6^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#E0006))."
+  },
+  "886928005c919237": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#src.E0001)) JO L 206 de 9.6.2004, p. 37.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#src.E0002)) JO L 152 de 24.6.2000, p. 1. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1741/2004 (JO L 311 de 8.10.2004, p. 17).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#src.E0003)) JO L 145 de 29.6.1995, p. 35. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1081/2001 (JO L 149 de 2.6.2001, p. 17).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#src.E0004)) JO L 260 de 31.10.1995, p. 33. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 406/2004 (JO L 67 de 5.3.2004, p. 10).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#src.E0005)) JO L 114 de 26.4.2008, p. 3.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/664ab60c-220b-46aa-8031-0c32fc2fd7b3.0018.02/DOC_1#src.E0006)) JO L 228 de 1.9.2009, p. 3."
+  },
+  "2aa13f3a6ad16732": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2005R1345 — PT — 06.11.2016 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32005R1345) [REGULAMENTO (CE) N.º 1345/2005 DA COMISSÃO](http://publications.europa.eu/resource/celex/32005R1345) [de 16 de Agosto de 2005](http://publications.europa.eu/resource/celex/32005R1345) [que estabelece as normas de execução do regime de certificados de importação no sector do azeite](http://publications.europa.eu/resource/celex/32005R1345) (JO L 212, 17.8.2005, p.13)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) 2016/1237 da Comissão de 18 de maio de 2016](http://publications.europa.eu/resource/celex/32016R1237) — L 206 — 1 — 30.7.2016"
+  }
+ }
+}

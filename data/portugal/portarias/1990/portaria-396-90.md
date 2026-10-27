@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:574917:por
+title: Portaria n.º 396/90
+short_title: null
+summary: Alarga o quadro do Instituto Nacional de Investigação Agrária em mais um lugar de técnico superior principal da carreira
+  de engenheiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 396/90
+official_date: null
+publication_date: '1990-05-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 121/1990, Série I de 1990-05-26
+  number: '121'
+  series: I
+  supplement: null
+  pages: 2367 - 2367
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/05/12100/23672367.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '574917'
+  dre_path: /dr/detalhe/portaria/396-1990-574917
+  internal: pt:dre:574917:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/396-1990-574917
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/396-1990-574917
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:20:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e08c7b0285856563cf3b9ad44c641d127e17b06e39a0af4cb715e2f2dd55efc2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:20:01Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Lugares
+- Instituto Nacional de Investigação Agrária
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:220696:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:153129:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:333566:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357306:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:547594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620714:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:20:01Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 396/90
+
+de 26 de Maio
+
+Considerando que um técnico superior principal da carreira de engenheiro oriundo do quadro de efectivos interdepartamentais (QEI) satisfaz o preceituado no artigo 9.º do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro;
+
+Considerando a necessidade premente de não se interromper o projecto da responsabilidade daquele técnico, «Núcleo de Celulose e Papel - Projecto de Aptidão de Espécies Lenhosas para a Produção de Pasta de Papel», na Estação Nacional de Tecnologia dos Produtos Agrários:
+
+Ao abrigo da alínea b) do n.º 1 do artigo 9.º do [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro:
+
+Manda o Governo, pelos Ministros das Finanças e da Agricultura, Pescas e Alimentação, que seja alargado o quadro do Instituto Nacional de Investigação Agrária, aprovado pela [Portaria n.º 452-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/452-a-1986-468672), de 20 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 5-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-a-1988-153129), de 14 de Janeiro, pela [Portaria n.º 759/88](https://diariodarepublica.pt/dr/detalhe/portaria/759-1988-357306), de 25 de Novembro, pela [Portaria n.º 457/89](https://diariodarepublica.pt/dr/detalhe/portaria/457-1989-620714), de 21 de Junho, pela [Portaria n.º 813/89](https://diariodarepublica.pt/dr/detalhe/portaria/813-1989-547594), de 14 de Setembro, e pela [Portaria n.º 51/90](https://diariodarepublica.pt/dr/detalhe/portaria/51-1990-333566), de 22 de Janeiro, em mais um lugar de técnico superior principal da carreira de engenheiro, a extinguir quando vagar.
+
+Ministérios das Finanças e da Agricultura, Pescas e Alimentação.
+
+Assinada em 11 de Maio de 1990.
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Alimentação.

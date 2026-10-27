@@ -1,0 +1,425 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:399655:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-896267820",
+ "dre_path": "/dr/detalhe/decreto-lei/311-1984-399655",
+ "source_lastmod": "2024-11-11",
+ "versions": [
+  {
+   "date": "1984-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "896267737",
+    "896267738",
+    "896267739",
+    "896267740",
+    "896267741",
+    "896267742",
+    "896267743",
+    "896267744",
+    "896267745",
+    "896267746",
+    "896267747",
+    "896267748",
+    "896267749",
+    "896267750",
+    "896267751",
+    "896267752",
+    "896267753",
+    "896267754",
+    "896267755",
+    "896267756",
+    "896267757",
+    "896267758",
+    "896267759",
+    "896267760",
+    "896267761",
+    "896267762",
+    "896267763",
+    "896267764",
+    "896267765",
+    "896267766",
+    "896267767",
+    "896267768",
+    "896267769",
+    "896267770",
+    "896267771"
+   ]
+  },
+  {
+   "date": "1987-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:210811:por",
+     "title": "Decreto-Lei n.º 426/86",
+     "published": "1986-12-27",
+     "dre_path": "/dr/detalhe/decreto-lei/426-1986-210811"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "896267737",
+    "896267738",
+    "896267739",
+    "896267740",
+    "896267741",
+    "896267742",
+    "896267743",
+    "896267744",
+    "896267745",
+    "896267746",
+    "896267747",
+    "896267774",
+    "896267749",
+    "896267750",
+    "896267751",
+    "896267752",
+    "896268375",
+    "896267754",
+    "896267755",
+    "896267756",
+    "896267757",
+    "896267758",
+    "896267759",
+    "896267760",
+    "896267761",
+    "896267762",
+    "896267763",
+    "896267764",
+    "896267765",
+    "896267766",
+    "896267767",
+    "896267768",
+    "896267769",
+    "896267770",
+    "896267771",
+    "896267772",
+    "896267773"
+   ]
+  }
+ ],
+ "fragments": {
+  "896267737": {
+   "fragment_id": "896267821",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 311/84\n\nde 26 de Setembro\n\nA execução do Decreto-Lei n.º 94/82, de 25 de Março, tem-se revelado bastante difícil, devido à excessiva complexidade da matéria nele regulada, ao elevado número de candidatos e aos escassos recursos humanos disponíveis para as acções de acompanhamento e avaliação que o curso de complemento de formação por ele criado necessariamente implica. E nem a nova redacção dada a várias das suas disposições pelo Decreto-Lei n.º 34/83, de 24 de Janeiro, conseguiu resolver os graves problemas de exequibilidade detectados.\n\nAssim, e de acordo com a experiência recolhida pelas várias entidades ligadas ao curso acima mencionado, urge alterar a legislação em vigor, embora em aspectos pontuais, mas de significativo alcance prático, no sentido de tornar o processo mais adequado e simples relativamente aos objectivos prosseguidos e que foram oportuna e claramente expressos no preâmbulo do Decreto-Lei n.º 94/82. Houve, sobretudo, a preocupação de conciliar as acções formativas a levar a cabo com as realidades, tendo em conta as possibilidades dos vários intervenientes no processo, sem diminuir a qualidade daquelas acções e a preparação pedagógica e científica dos candidatos.\n\nOptou-se por reunir em novo decreto-lei toda a matéria relativa ao curso em questão, de preferência a publicar um diploma apenas com as alterações ao texto vigente, dada a manifesta conveniência em evitar a respectiva dispersão por 3 diplomas legais.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "896267738": {
+   "fragment_id": "896267822",
+   "type": 1,
+   "heading": "Capítulo I — Do direito à integração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Do direito à integração"
+  },
+  "896267739": {
+   "fragment_id": "896267823",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A todos os professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário portadores de habilitação própria conferida por curso não superior e que se encontrassem em exercício de funções docentes ou legalmente equiparadas, naquelas qualidades, à data da publicação do Decreto-Lei n.º 94/82, de 25 de Março, é garantido o acesso ao 1.º escalão de vencimentos constante do mapa a que se refere o artigo 8.º do Decreto-Lei n.º 513-M1/79, de 27 de Dezembro, nas condições definidas por este decreto-lei.\n\n2 - Consideram-se igualmente abrangidos pelo disposto no número anterior os candidatos que ingressaram na docência da disciplina de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário no ano escolar de 1982-1983, através das 1.ª e 2.ª fases do concurso previsto no Decreto-Lei n.º 581/80, de 31 de Dezembro, e ainda os candidatos colocados no ano escolar de 1982-1983 abrangidos pela alínea b) do n.º 1 do artigo 24.º do mencionado Decreto-Lei n.º 581/80.\n\n3 - São abrangidos pelo disposto neste artigo os professores de Trabalhos Manuais e os professores do 12.º grupo do ensino particular e cooperativo que se encontrem na situação definida no n.º 1 ou que tenham iniciado o exercício de funções docentes neste ensino no ano escolar de 1982-1983 até ao prazo limite da colocação dos docentes abrangidos pela alínea b) do n.º 1 do artigo 24.º do Decreto-Lei n.º 581/80, uns e outros portadores de habilitação própria, considerando-se, para o efeito de acesso, o que se encontrar estabelecido no instrumento de regulamentação colectiva de trabalho aplicável.\n\n4 - É permitida a frequência do curso regulado neste diploma aos professores de Trabalhos Manuais em exercício de funções em estabelecimentos de ensino particular e cooperativo sem paralelismo pedagógico, desde que habilitados com qualquer dos cursos que conferiam habilitação própria aos professores referidos no número anterior nas datas ali indicadas.\n\n5 - É ainda permitida a frequência do mesmo curso aos professores de Trabalhos Manuais e do 12.º grupo que exerçam funções noutros departamentos ministeriais e que estejam nas condições dos n.os 1 e 2 deste artigo, desde que os respectivos serviços suportem as despesas inerentes a tal frequência.\n\n6 - A execução do disposto no número anterior será objecto de regras a estabelecer em despacho dos Ministros das Finanças e do Plano, da Educação e da respectiva pasta.\n\n7 - O acesso referido neste artigo não prejudica o disposto no artigo 11.º do Decreto-Lei n.º 513-M1/79."
+  },
+  "896267740": {
+   "fragment_id": "896267824",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Sem prejuízo do disposto no artigo 15.º do presente diploma, o acesso ao 1.º escalão de vencimentos por parte dos professores referidos no artigo anterior depende da frequência com aproveitamento de um curso de complemento de formação.\n\n2 - A integração no 1.º escalão de vencimentos dos professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário que venham a satisfazer as condições referidas no número anterior só produz efeitos a partir da data em que preencherem as condições ali referidas.\n\n3 - A integração no 1.º escalão de vencimentos aludida no número anterior far-se-á unicamente em relação ao grupo ou subgrupo em que cada candidato tenha realizado o seu curso através:\n\na) Da graduação profissional de que disponham à data da mesma os docentes profissionalizados;\n\nb) Da graduação na docência de que disponham à data da mesma os docentes não profissionalizados."
+  },
+  "896267741": {
+   "fragment_id": "896267825",
+   "type": 1,
+   "heading": "Capítulo II — Da orgânica dos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da orgânica dos cursos"
+  },
+  "896267742": {
+   "fragment_id": "896267826",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs cursos de complemento de formação referidos no n.º 1 do artigo anterior serão organizados em modalidades correspondentes aos diversos subgrupos da docência de 12.º grupo e ainda da disciplina de Trabalhos Manuais."
+  },
+  "896267743": {
+   "fragment_id": "896267827",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Para efeitos do estabelecido no artigo anterior, cada um dos cursos integra uma componente de formação psicopedagógica e uma componente de formação científica geral.\n\n2 - A componente de formação psicopedagógica será idêntica para todos os cursos de formação e abrange o tratamento das disciplinas ou das áreas de conhecimento constantes do quadro anexo ao presente diploma.\n\n3 - A componente de formação científica diversificar-se-á para cada curso e, em cada caso, abrange o tratamento das disciplinas ou áreas de conhecimento constantes do quadro anexo a este decreto-lei."
+  },
+  "896267744": {
+   "fragment_id": "896267828",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Os professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário já profissionalizados à data da inscrição na respectiva fase do curso de complemento de formação poderão ser dispensados da componente de formação psicopedagógica desde que o requeiram ao Ministro da Educação no prazo estabelecido para as inscrições.\n\n2 - As inscrições referidas no número anterior serão abertas no início de cada uma das fases a que se refere o artigo 8.º mediante despacho ministerial, que fixará o respectivo prazo."
+  },
+  "896267745": {
+   "fragment_id": "896267829",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Os cursos são organizados no âmbito do Ministério da Educação, com a colaboração das universidades e outras escolas superiores, e, em cada caso, a sua estrutura compreende:\n\na) A produção e remessa de documentação escrita;\n\nb) A produção de lições síntese, sob a forma de emissão por rádio e ou televisão.\n\n2 - Os docentes orientadores de cada curso poderão organizar outras acções de formação que considerem convenientes, dentro dos parâmetros estabelecidos no regulamento previsto no artigo 11.º\n\n3 - Para efeitos do disposto na alínea b) do n.º 1 deste artigo, o Ministério da Educação firmará, através do Instituto de Tecnologia Educativa, os necessários contratos com as respectivas empresas públicas."
+  },
+  "896267746": {
+   "fragment_id": "896267830",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Os programas das disciplinas ou áreas de conhecimento previstas no artigo 4.º do presente diploma serão aprovados por portaria do Ministro da Educação.\n\n2 - É da competência do Ministro da Educação a definição da natureza e âmbito dos programas referidos no número anterior, os quais são elaborados pelas universidades e outras escolas superiores de acordo com protocolos celebrados ou a celebrar com as mesmas."
+  },
+  "896267747": {
+   "fragment_id": "896267831",
+   "type": 1,
+   "heading": "Capítulo III — Da realização dos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da realização dos cursos"
+  },
+  "896267748": {
+   "fragment_id": "896267832",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Os cursos criados pelo presente diploma realizar-se-ão em fases diferenciadas.\n\n2 - A 1.ª fase é destinada aos professares já profissionalizados à data da respectiva inscrição.\n\n3 - A 2.ª fase destina-se:\n\na) Aos professores que concluíram a profissionalização em exercício em Junho de 1983;\n\nb) Aos professores que concluam a profissionalização em exercício em Junho de 1984;\n\nc) Aos professores ainda não profissionalizados que se inscreverem e que não se encontrem a realizar a sua profissionalização em exercício.\n\n4 - Realizar-se-á uma 3.ª fase para:\n\na) Candidatos que terminarem a sua profissionalização posteriormente às datas referidas no número anterior e antes do início desta fase;\n\nb) Candidatos que, mediante requerimento individual fundamentado em justo impedimento de frequência das fases anteriores, sejam autorizados a frequentar o curso por despacho ministerial;\n\nc) Professores efectivos de Trabalhos Manuais e do 12.º grupo que regressem ao ensino, após situação de licença ilimitada ou sem vencimento, até ao início daquela fase.\n\n5 - Realizar-se-á ainda uma 4.ª fase para os candidatos que completam a profissionalização após o início desta fase e ainda para os que, mediante requerimento individual fundamentado em justo impedimento de frequência das fases anteriores, sejam autorizados a frequentar o curso por despacho ministerial.\n\n6 - A programação de cada curso e o respectivo calendário relativamente a cada fase serão definidos por despacho ministerial."
+  },
+  "896267749": {
+   "fragment_id": "896267833",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Os professores abrangidos pelo artigo 1.º deste diploma realizarão o curso a que se refere o artigo 2.º na disciplina de Trabalhos Manuais ou no subgrupo do 12.º grupo em que se encontravam a leccionar nas datas mencionadas no primeiro daqueles artigos.\n\n2 - Exceptuam-se do disposto no número anterior os seguintes casos:\n\na) Os professores do ensino preparatório que entretanto realizaram a profissionalização em exercício no 12.º grupo do ensino secundário, caso em que frequentarão o curso no subgrupo deste último em que a realizaram;\n\nb) Os professores do 12.º grupo do ensino secundário que entretanto realizaram a profissionalização em exercício na disciplina de Trabalhos Manuais do ensino preparatório, caso em que frequentarão o curso nesta última;\n\nc) Os professores do 12.º grupo do ensino secundário que entretanto realizaram a profissionalização em exercício em subgrupo diferente daquele que leccionavam nas datas mencionadas no n.º 1 deste artigo, caso em que frequentarão o curso respeitante ao subgrupo em que se profissionalizaram;\n\nd) Os professores que ao longo da sua carreira tenham leccionado maior número de anos na disciplina de Trabalhos Manuais ou noutro subgrupo do 12.º grupo, caso em que poderão optar por frequentar o curso na respectiva modalidade.\n\n3 - Exceptuam-se ainda do disposto no n.º 1 os docentes vinculados ao Ministério da Educação nas datas referidas no artigo 1.º deste diploma que, possuidores de habilitação própria para Trabalhos Manuais ou para o 12.º grupo e tendo concorrido à respectiva docência, se encontravam, porém, nestas datas deslocados de grupo por efeito exclusivo de concurso.\n\n4 - Os docentes mencionados no número anterior, desde que continuem vinculados ao Ministério da Educação, poderão frequentar o curso de complemento de formação na disciplina de Trabalhos Manuais ou no subgrupo do 12.º grupo a que tiverem concorrido, em primeira preferência, nos anos lectivos referidos nos n.os 1 e 2 do artigo 1.º do presente decreto-lei.\n\n5 - A admissão à frequência do curso de complemento de formação dos docentes a que se reportam os n.os 3 e 4 depende de despacho ministerial, proferido caso a caso, na sequência de processo organizado e fundamentado pela respectiva direcção-geral de ensino."
+  },
+  "896267750": {
+   "fragment_id": "896267834",
+   "type": 1,
+   "heading": "Capítulo IV — Do aproveitamento nos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Do aproveitamento nos cursos"
+  },
+  "896267751": {
+   "fragment_id": "896267835",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - O aproveitamento individual em cada curso será expresso em termos de aprovação ou não aprovação.\n\n2 - A avaliação do aproveitamento compreenderá, no final do curso, a realização de uma prova global presencial escrita, no âmbito dos conteúdos programáticos da componente de formação científica de cada subgrupo ou disciplina, podendo esta prova ser organizada com perguntas de opção e consulta bibliográfica.\n\n3 - Tal avaliação compreenderá também, sempre que possível, a apreciação de outras actividades de entre as referidas no artigo 6.º deste diploma realizadas no âmbito do curso e que sejam susceptíveis de avaliação.\n\n4 - Poderá realizar-se uma prova oral, sempre que o júri considere necessário, sendo o candidato convocado para essa prova com, pelo menos, 15 dias de antecedência."
+  },
+  "896267752": {
+   "fragment_id": "896267836",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO esquema de avaliação dos cursos referidos nos artigos anteriores será objecto de regulamento a publicar por despacho do Ministro da Educação."
+  },
+  "896267753": {
+   "fragment_id": "896267837",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - A avaliação a que se refere o n.º 2 do artigo 10.º compete a júris constituídos por despacho do Ministro da Educação, os quais ponderarão os diferentes factores nos termos do regulamento previsto no artigo anterior.\n\n2 - Cada um dos júris previstos será constituído por 3 professores, sendo, sempre que possível, 2 do ensino superior, 1 dos quais presidirá, e 1 do ensino preparatório ou secundário."
+  },
+  "896267754": {
+   "fragment_id": "896267838",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Em cada fase, os júris afixarão nos locais de estilo o resultado das suas deliberações, logo que estejam de posse dos resultados finais de todos os candidatos do mesmo grupo.\n\n2 - As deliberações dos júris serão exaradas em acta e transferidas para a ficha individual prevista no regulamento de avaliação a que se refere o artigo 11.º\n\n3 - Com as fichas individuais de cada candidato constituir-se-á um processo, que ficará à guarda da respectiva direcção-geral de ensino.\n\n4 - O registo das deliberações dos júris deverá ser publicado no Diário da República, nos termos da alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 365/70, de 5 de Agosto, cabendo a iniciativa dessa publicação à secretaria de Estado de que dependa a coordenação do curso de complemento de formação.\n\n5 - Para todos os efeitos, nomeadamente os relativos a vencimentos, a data da transição dos candidatos aprovados para o 1.º escalão de vencimentos definido no mapa anexo ao Decreto-Lei n.º 513-M1/79, de 27 de Dezembro, é a data da decisão do júri sobre a condição de aprovado ou não aprovado em relação ao último candidato avaliado de cada grupo e fase e deverá constar da publicação referida no número anterior.\n\n6 - Para os candidatos à 1.ª fase cujos resultados finais ainda não foram publicados, a data de transição reportar-se-á a 1 de Abril de 1984."
+  },
+  "896267755": {
+   "fragment_id": "896267839",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Os candidatos que não obtiverem aprovação poderão requerer à direcção-geral respectiva a prestação de nova prova presencial prevista no n.º 2 do artigo 10.º no prazo de 30 dias a partir da publicação referida no n.º 4 do artigo anterior.\n\n2 - A nova prova a que se refere o número anterior só poderá ser realizada duas vezes.\n\n3 - Relativamente aos candidatos da 1.ª fase que não obtiverem aprovação, ser-lhes-á facultado, apenas por mais uma vez, requerer a repetição do ensaio escrito sobre o mesmo ou outro dos temas das listas inicialmente divulgadas.\n\n4 - No caso de não aprovação em tal repetição, os candidatos apenas poderão requerer por mais uma vez repetição de prova, que, desta vez, será uma prova presencial do tipo da prevista no n.º 2 do artigo 10.º deste diploma."
+  },
+  "896267756": {
+   "fragment_id": "896267840",
+   "type": 1,
+   "heading": "Capítulo V — Da integração antecipada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Da integração antecipada"
+  },
+  "896267757": {
+   "fragment_id": "896267841",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAos professores inscritos nos cursos e já profissionalizados é facultada, nas condições estabelecidas nos artigos seguintes, a possibilidade de apresentarem em antecipação à prova global final e em substituição da frequência dos cursos um ensaio escrito, no qual será desenvolvido um tema no âmbito da disciplina específica, escolhido pelo candidato de uma lista de 7 temas propostos."
+  },
+  "896267758": {
+   "fragment_id": "896267842",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - A antecipação prevista no artigo anterior depende de os respectivos interessados atingirem a graduação profissional igual ou superior a 22 valores.\n\n2 - A aprovação na prova antecipada determina, desde a data da última decisão do júri para cada grupo e fase, o ingresso dos professores no 1.º escalão de vencimentos referido no mapa anexo ao Decreto-Lei n.º 513-M1/79, devendo tal decisão ser publicada nos termos do n.º 4 do artigo 13.º\n\n3 - Para efeitos do disposto no n.º 1, a graduação profissional será determinada nos termos do artigo 37.º do Decreto-Lei n.º 581/80, de 31 de Dezembro."
+  },
+  "896267759": {
+   "fragment_id": "896267843",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - Para efeitos do disposto nos artigos 15.º e 16.º deste diploma, os interessados requererão ao Ministro da Educação a antecipação de prova num prazo de 30 dias a contar do início da fase em que se inscreveram.\n\n2 - Os candidatos deverão fazer acompanhar o requerimento de curriculum vitae pormenorizado e documentado."
+  },
+  "896267760": {
+   "fragment_id": "896267844",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - O requerimento referido no artigo anterior, dirigido ao Ministro da Educação, acompanhado da documentação comprovativa, nomeadamente no que se refere à graduação profissional do requerente, será apresentado na respectiva direcção-geral de ensino, a fim de esta organizar o processo.\n\n2 - O processo referido no número anterior será apresentado, para efeitos de despacho, ao Ministro da Educação."
+  },
+  "896267761": {
+   "fragment_id": "896267845",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - Os professores que requeiram a antecipação prevista no artigo 15.º deste diploma serão informados da lista de temas para a escolha do ensaio, no prazo de 90 dias após o início oficial da fase respectiva, devendo a sua apresentação ocorrer até 60 dias após a divulgação da referida lista.\n\n2 - A apresentação do requerimento previsto no artigo 18.º não prejudica a inscrição nos cursos de complemento de formação, desde que, em tal caso, seja requerida a desistência da antecipação de prova no prazo de 90 dias após o início oficial da respectiva fase.\n\n3 - A antecipação referida no n.º 1 só pode ser autorizada três vezes."
+  },
+  "896267762": {
+   "fragment_id": "896267846",
+   "type": 1,
+   "heading": "Capítulo VI — Da integração automática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Da integração automática"
+  },
+  "896267763": {
+   "fragment_id": "896267847",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - Mantêm-se, independentemente de quaisquer formalidades, no 1.º escalão de vencimento constantes do mapa anexo ao Decreto-Lei n.º 513-M1/79 os professores do 12.º grupo de ensino secundário portadores de curso superior considerado como habilitação própria para o mesmo grupo.\n\n2 - Têm igualmente direito ao acesso imediato ao 1.º escalão de vencimentos referido no número anterior os professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário à data da publicação do Decreto-Lei n.º 94/82, bem como os que ingressaram na docência daquela disciplina e grupo no ano escolar de 1982-1983, através das 1.ª e 2.ª fases do concurso previsto no Decreto-Lei n.º 581/80, e ainda da colocação no referido ano escolar ao abrigo da alínea b) do n.º 1 do artigo 24.º do mencionado decreto-lei, uns e outros portadores de curso superior e titulares de habilitação própria para a docência, respectivamente, de Trabalhos Manuais e do 12.º grupo.\n\n3 - O acesso referido no número anterior será concedido por despacho do Ministro da Educação, mediante requerimento do interessado, e produz efeitos a partir da data desse requerimento."
+  },
+  "896267764": {
+   "fragment_id": "896267848",
+   "type": 1,
+   "heading": "Capítulo VII — Das habilitações próprias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Das habilitações próprias"
+  },
+  "896267765": {
+   "fragment_id": "896267849",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - A revisão, por despacho normativo conjunto dos Ministros das Finanças e do Plano e da Educação e do membro do Governo que tenha a seu cargo a função pública, das habilitações próprias para o ingresso na docência da disciplina de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário não poderá determinar a perda de habilitação própria relativamente aos docentes abrangidos pelos n.os 1, 2 e 3 do artigo 1.º deste diploma.\n\n2 - A revisão prevista no número anterior só poderá considerar habilitações conferidas por um curso superior."
+  },
+  "896267766": {
+   "fragment_id": "896267850",
+   "type": 1,
+   "heading": "Capítulo VIII — Das disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Das disposições gerais e transitórias"
+  },
+  "896267767": {
+   "fragment_id": "896267851",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nEnquanto não obtiverem as condições estabelecidas no presente diploma para efeitos de acesso ao 1.º escalão de vencimentos, os professores de Trabalhos Manuais do ensino preparatório e os professores do 12.º grupo do ensino secundário mantêm-se no escalão de vencimentos que lhes foi atribuído pelo Decreto-Lei n.º 513-M1/79."
+  },
+  "896267768": {
+   "fragment_id": "896267852",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1 - O acesso ao 1.º escalão de vencimentos por parte dos professores referidos no artigo anterior far-se-á na fase que já possuíam à data do referido acesso, tendo, porém, em consideração a limitação estabelecida pelo artigo 11.º do Decreto-Lei n.º 513-M1/79.\n\n2 - Para efeitos de acesso às fases do 1.º escalão de vencimentos é contado, nos termos da legislação em vigor, todo o tempo de serviço anteriormente prestado."
+  },
+  "896267769": {
+   "fragment_id": "896267853",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - Cada fase do curso de complemento de formação terá a duração equivalente à de um ano lectivo.\n\n2 - O respectivo início será fixado por despacho ministerial."
+  },
+  "896267770": {
+   "fragment_id": "896267854",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nPor despacho conjunto dos Ministros das Finanças e do Plano e da Educação serão estabelecidas as remunerações a atribuir:\n\na) Às entidades encarregadas de elaborar os conteúdos programáticos das disciplinas ou áreas de conhecimento;\n\nb) Às entidades encarregadas de elaborar os elementos de avaliação referidos nos n.os 2 e 3 do artigo 10.º deste diploma;\n\nc) Aos membros dos júris previstos no artigo 12.º do presente diploma."
+  },
+  "896267771": {
+   "fragment_id": "896267855",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs encargos orçamentais resultantes da aplicação do presente diploma serão suportados:\n\na) Pelas respectivas rubricas dos orçamentos dos estabelecimentos dos ensinos preparatório e secundário, no que se refere ao aumento de vencimento pelo acesso ao 1.º escalão;\n\nb) Pelo orçamento das respectivas direcções-gerais de ensino, no que refere às remunerações previstas no artigo anterior."
+  },
+  "896267774": {
+   "fragment_id": "896267832",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1987-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 426/86 - Diário da República n.º 297/1986, Série I de 1986-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1986-210811), em vigor a partir de 1987-01-01"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Os cursos criados pelo presente diploma realizar-se-ão em fases diferenciadas.\n\n2 - A 1.ª fase é destinada aos professares já profissionalizados à data da respectiva inscrição.\n\n3 - A 2.ª fase destina-se:\n\na) Aos professores que concluíram a profissionalização em exercício em Junho de 1983;\n\nb) Aos professores que concluam a profissionalização em exercício em Junho de 1984;\n\nc) Aos professores ainda não profissionalizados que se inscreverem e que não se encontrem a realizar a sua profissionalização em exercício.\n\n4 - Realizar-se-á uma 3.ª fase para:\n\na) Candidatos que terminarem a sua profissionalização posteriormente às datas referidas no número anterior e antes do início desta fase;\n\nb) Candidatos que, mediante requerimento individual fundamentado em justo impedimento de frequência das fases anteriores, sejam autorizados a frequentar o curso por despacho ministerial;\n\nc) Professores efectivos de Trabalhos Manuais e do 12.º grupo que regressem ao ensino, após situação de licença ilimitada ou sem vencimento, até ao início daquela fase.\n\n5 - (Revogado.)\n\n6 - A programação de cada curso e o respectivo calendário relativamente a cada fase serão definidos por despacho ministerial.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 426/86 - Diário da República n.º 297/1986, Série I de 1986-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1986-210811), em vigor a partir de 1987-01-01"
+  },
+  "896268375": {
+   "fragment_id": "896267837",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1987-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 426/86 - Diário da República n.º 297/1986, Série I de 1986-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1986-210811), em vigor a partir de 1987-01-01"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - A avaliação a que se refere o n.º 2 do artigo 10.º compete a júris constituídos por despacho do Ministro da Educação, os quais ponderarão os diferentes factores nos termos do regulamento previsto no artigo anterior.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 426/86 - Diário da República n.º 297/1986, Série I de 1986-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/426-1986-210811), em vigor a partir de 1987-01-01"
+  },
+  "896267772": {
+   "fragment_id": "896267856",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - José Augusto Seabra.\n\nPromulgado em 14 de Setembro de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 17 de Setembro de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "896267773": {
+   "fragment_id": "896267857",
+   "type": 14,
+   "heading": "Quadro anexo ao Decreto-Lei n.º 311/84, desta data — Organização do curso de complemento de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Quadro anexo ao Decreto-Lei n.º 311/84, desta data — Organização do curso de complemento de formação\n\n(ver documento original)"
+  }
+ }
+}

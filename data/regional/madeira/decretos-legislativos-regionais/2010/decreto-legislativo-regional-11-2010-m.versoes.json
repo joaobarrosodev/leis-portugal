@@ -1,0 +1,346 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:334882:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-157996124",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/11-2010-334882",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "158043492",
+    "158043493",
+    "158043494",
+    "158043495",
+    "158043496",
+    "158043497",
+    "158043498",
+    "158043499",
+    "158043500",
+    "158043501",
+    "158043502",
+    "158043503",
+    "158043504",
+    "158043505",
+    "158043506",
+    "158043507",
+    "158043508"
+   ]
+  },
+  {
+   "date": "2021-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:157996087:por",
+     "title": "Decreto Legislativo Regional n.º 3/2021/M",
+     "published": "2021-02-19",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2021-157996087"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "158043492",
+    "158043493",
+    "158043510",
+    "158043511",
+    "158043512",
+    "158043513",
+    "158043514",
+    "158043515",
+    "158043516",
+    "158043517",
+    "158043518",
+    "158043519",
+    "158043520",
+    "158043521",
+    "158043506",
+    "158043507",
+    "158043508",
+    "158043509"
+   ]
+  }
+ ],
+ "fragments": {
+  "158043492": {
+   "fragment_id": "157996125",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 11/2010/M\n\nAdapta à Região Autónoma da Madeira o Decreto-Lei n.º 220/2008, de 12 de Novembro, que estabelece o regime jurídico da segurança contra incêndios em edifícios\n\nConsiderando que o Decreto-Lei n.º 220/2008, de 12 de Novembro, que estabelece o regime jurídico da segurança contra incêndios em edifícios, adiante designado abreviadamente por SCIE, determina que o mesmo se aplica a todo o território nacional, sem prejuízo de diploma regional que proceda às necessárias adaptações nas Regiões Autónomas;\n\nConsiderando que as especificidades da Região Autónoma da Madeira, adiante designada abreviadamente por Região, em particular a sua orografia caracterizada pelo relevo acidentado, condicionam fortemente a utilização urbana;\n\nConsiderando ainda, que importa reportar às entidades públicas regionais competentes as atribuições e competências conferidas no decreto-lei supramencionado às diversas entidades nacionais, revela-se assim imperioso adaptar aquele diploma a fim de torná-lo exequível na Região:\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea z) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto pelas Leis n.os 130/99, de 21 de Agosto e 12/2000, de 21 de Junho, conjugados com o artigo 37.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, o seguinte:"
+  },
+  "158043493": {
+   "fragment_id": "157996126",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma adapta à Região Autónoma da Madeira o Decreto-Lei n.º 220/2008, de 12 de Novembro, que estabelece o regime jurídico da segurança contra incêndios em edifícios, adiante designado abreviadamente por SCIE."
+  },
+  "158043494": {
+   "fragment_id": "157996127",
+   "type": 11,
+   "heading": "Artigo 2.º — Adaptações orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Adaptações orgânicas\n\n1 - As referências feitas no Decreto-Lei n.º 220/2008, de 12 de Novembro, à Autoridade Nacional de Protecção Civil, com excepção das constantes nos seus artigos 16.º, 23.º e 35.º, entendem-se reportadas na Região ao Serviço Regional de Protecção Civil, IP-RAM, adiante designado abreviadamente por SRPC, IP-RAM.\n\n2 - As referências feitas à Autoridade de Segurança Alimentar e Económica, entendem-se reportadas na Região à Inspecção Regional das Actividades Económicas."
+  },
+  "158043495": {
+   "fragment_id": "157996128",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência\n\n1 - O SRPC, IP-RAM é a entidade competente para assegurar o cumprimento do regime jurídico da segurança contra incêndios em edifícios na Região.\n\n2 - Mediante acordo prévio e protocolo a celebrar para o efeito, o SRPC, IP-RAM pode, no que se refere a utilizações-tipo de edifícios e recintos da 1.ª e 2.ª categoria de risco, delegar competências nos serviços municipais de protecção civil que disponham de técnicos habilitados."
+  },
+  "158043496": {
+   "fragment_id": "157996129",
+   "type": 11,
+   "heading": "Artigo 4.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fiscalização\n\n1 - A competência a que se refere a alínea a) do n.º 1 do artigo 24.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, é exercida pelo SRPC, IP-RAM, através de:\n\na) Emissão de parecer sobre os projectos de especialidade de SCIE submetidos a consulta do SRPC, IP-RAM;\n\nb) Emissão de parecer sobre as medidas de autoprotecção, previstas no artigo 21.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;\n\nc) Realização de vistorias, nas condições previstas no artigo 18.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;\n\nd) Realização de inspecções, nas condições previstas no artigo 19.º do Decreto-Lei n.º 220/2008, de 12 de Novembro.\n\n2 - Os municípios, na sua área territorial, são competentes para assegurar e fiscalizar o cumprimento das condições de SCIE quanto a edifícios, suas fracções, ou recintos, das utilizações-tipo i, ii, iii, vi, vii, viii, ix, x, xi e xii da 1.ª categoria de risco.\n\n3 - A Inspecção Regional das Actividades Económicas é competente para fiscalizar o cumprimento das condições de SCIE, no que respeita à colocação no mercado dos equipamentos referidos no regulamento técnico mencionado no artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de Novembro.\n\n4 - Aos projectos de especialidade de SCIE, submetidos a consulta do SRPC, IP-RAM, é aplicável, com as necessárias adaptações, o disposto no artigo 13.º do Decreto-Lei n.º 555/99, de 16 de Dezembro.\n\n5 - Quando desfavorável, o parecer sobre os projectos de especialidade de SCIE é vinculativo e deve ser devidamente fundamentado."
+  },
+  "158043497": {
+   "fragment_id": "157996130",
+   "type": 11,
+   "heading": "Artigo 5.º — Edifícios existentes sujeitos a operações urbanísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Edifícios existentes sujeitos a operações urbanísticas\n\nAos edifícios ou partes de edifícios e recintos existentes, sujeitos a obras de reconstrução, obras de ampliação ou obras de alteração a que se referem as alíneas c) a e) do artigo 2.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, bem como aos casos de alteração de utilização dos mesmos, pode ser dispensada a aplicação de algumas das disposições do regulamento técnico referido no artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, se estas se revelarem, por razões de natureza económica, técnica ou arquitectónica, de concretização manifestamente desproporcionada, desde que, cumulativamente, se verifiquem as seguintes condições:\n\na) Emissão de declaração pelos autores e coordenador dos projectos, nos termos de responsabilidade, estabelecendo quais as disposições técnicas que não foram observadas na elaboração dos mesmos, fundamentando as razões da sua não observância;\n\nb) Previsão de meios de segurança compensatórios determinados para cada situação, a propor fundamentadamente pelos autores e coordenador dos projectos, para aprovação pela entidade fiscalizadora competente."
+  },
+  "158043498": {
+   "fragment_id": "157996131",
+   "type": 11,
+   "heading": "Artigo 6.º — Perigosidade atípica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Perigosidade atípica\n\n1 - Na Região, quando justificada e comprovadamente, as disposições do regulamento técnico, a que se refere o artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, sejam desadequadas face à topografia acidentada do terreno, à aplicação de tecnologias inovadoras no âmbito das disposições construtivas ou dos sistemas e equipamentos de segurança, às grandes dimensões em altimetria e planimetria ou às suas características de funcionamento e exploração, tais edifícios e recintos ou as suas fracções são classificados de perigosidade atípica, e ficam sujeitos a soluções de SCIE que, cumulativamente:\n\na) Sejam devidamente fundamentadas pelo autor do projecto, com base em análises de risco, associadas a práticas já experimentadas, métodos de ensaio ou modelos de cálculo;\n\nb) Sejam explicitamente referidas como não conformes nos termos de responsabilidade do coordenador e autores do projecto;\n\nc) Sejam aprovadas pela entidade fiscalizadora competente.\n\n2 - A responsabilidade pela elaboração dos projectos de SCIE e dos planos de segurança internos referentes a edifícios e recintos classificados de perigosidade atípica, tem de ser assumida exclusivamente por um arquitecto, reconhecido pela Ordem dos Arquitectos (OA), ou por um engenheiro, reconhecido pela Ordem dos Engenheiros (OE), ou por um engenheiro técnico, reconhecido pela Associação Nacional dos Engenheiros Técnicos (ANET), com certificação de especialização nos termos previstos no artigo 16.º do Decreto-Lei n.º 220/2008, de 12 de Novembro."
+  },
+  "158043499": {
+   "fragment_id": "157996132",
+   "type": 11,
+   "heading": "Artigo 7.º — Utilização dos edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Utilização dos edifícios\n\nQuando haja lugar a vistorias, nos termos do artigo 18.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, referentes às 2.ª, 3.ª e 4.ª categorias de risco, estas devem integrar um representante da entidade fiscalizadora competente."
+  },
+  "158043500": {
+   "fragment_id": "157996133",
+   "type": 11,
+   "heading": "Artigo 8.º — Medidas de autoprotecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas de autoprotecção\n\n1 - Para efeitos de apreciação das medidas de autoprotecção referidas no artigo 21.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, o respectivo processo deve ser enviado à entidade fiscalizadora competente, pelas entidades referidas no artigo 6.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, nos seguintes prazos:\n\na) Até 30 dias anteriores à entrada em utilização, no caso de obras de construção nova, de alteração, ampliação ou mudança de uso;\n\nb) No prazo máximo de um ano após a data de entrada em vigor do presente diploma, para o caso de edifícios e recintos existentes àquela data.\n\n2 - Na fase de concepção das medidas de autoprotecção podem ser solicitadas, à entidade fiscalizadora competente, consultas prévias sobre a adequação das propostas de solução para satisfação das exigências de segurança contra incêndio."
+  },
+  "158043501": {
+   "fragment_id": "157996134",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução e decisão dos processos sancionatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Instrução e decisão dos processos sancionatórios\n\nA instrução e decisão de processos por contra-ordenação, prevista no Decreto-Lei n.º 220/2008, de 12 de Novembro, compete à entidade fiscalizadora, no âmbito das respectivas competências legais."
+  },
+  "158043502": {
+   "fragment_id": "157996135",
+   "type": 11,
+   "heading": "Artigo 10.º — Destino do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Destino do produto das coimas\n\nO produto das coimas é repartido da seguinte forma:\n\na) 10 % para a entidade fiscalizadora;\n\nb) 30 % para o SRPC, IP-RAM;\n\nc) 60 % para a Região."
+  },
+  "158043503": {
+   "fragment_id": "157996136",
+   "type": 11,
+   "heading": "Artigo 11.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Taxas\n\n1 - O disposto no artigo 29.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, não é aplicável na Região.\n\n2 - Os serviços prestados pelo SRPC, IP-RAM, no âmbito do presente diploma, estão sujeitos a taxas cujo valor será fixado por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas das finanças e da protecção civil."
+  },
+  "158043504": {
+   "fragment_id": "157996137",
+   "type": 11,
+   "heading": "Artigo 12.º — Credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Credenciação\n\n1 - O regime de credenciação previsto no n.º 2 do artigo 5.º e no artigo 30.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, será objecto de regulamentação própria, pelo membro do Governo Regional com tutela na área da protecção civil.\n\n2 - Podem ser credenciadas pelo SRPC IP-RAM, pessoas colectivas legalmente constituídas que possuam no seu objecto social a prestação de serviços na área da protecção civil, participadas em comum pelas associações humanitárias de bombeiros e câmaras municipais detentoras de corpos de bombeiros, desde que disponham de técnicos devidamente habilitados e credenciados pelo SRPC IP-RAM, para a emissão de pareceres e realização de vistorias e inspecções das condições de segurança contra incêndios em edifícios."
+  },
+  "158043505": {
+   "fragment_id": "157996138",
+   "type": 11,
+   "heading": "Artigo 13.º — Comissão regional de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comissão regional de acompanhamento\n\nSem prejuízo do disposto no artigo 35.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas da protecção civil e das obras públicas, será criada uma comissão de acompanhamento do regime instituído no presente diploma, presidida pelo SRPC, IP-RAM, e constituída por um perito a designar por cada uma das seguintes entidades:\n\na) Laboratório Regional de Engenharia Civil;\n\nb) Associação de Municípios da Região Autónoma da Madeira;\n\nc) Delegação Regional da Ordem dos Arquitectos;\n\nd) Secção Regional da Ordem dos Engenheiros;\n\ne) Secção Regional da Madeira da Associação Nacional dos Engenheiros Técnicos."
+  },
+  "158043506": {
+   "fragment_id": "157996139",
+   "type": 11,
+   "heading": "Artigo 14.º — Legislação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Legislação complementar\n\nA regulamentação do Decreto-Lei n.º 220/2008, de 12 de Novembro é igualmente aplicável à Região, sem prejuízo desta proceder à respectiva adaptação ou à aprovação de regulamentação própria."
+  },
+  "158043507": {
+   "fragment_id": "157996140",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto Regulamentar Regional n.º 21/95/M, de 28 de Agosto;\n\nb) O Decreto Regulamentar Regional n.º 24/92/M, de 15 de Setembro;\n\nc) O Decreto Regulamentar Regional n.º 23/92/M, de 15 de Setembro;\n\nd) O Decreto Regulamentar Regional n.º 25/92/M, de 17 de Setembro."
+  },
+  "158043508": {
+   "fragment_id": "157996141",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "158043510": {
+   "fragment_id": "157996127",
+   "type": 11,
+   "heading": "Artigo 2.º — Adaptações orgânicas",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 2.º — Adaptações orgânicas\n\n1 - As referências feitas no Decreto-Lei n.º 220/2008, de 12 de novembro, alterado e republicado pelo Decreto-Lei n.º 224/2015, de 9 de outubro, alterado pelo Decreto-Lei n.º 95/2019, de 18 de julho, e alterado e republicado pela Lei n.º 123/2019, de 18 de outubro, à Autoridade Nacional de Emergência e Proteção Civil (ANEPC), com exceção das constantes nos artigos 15.º-A, 23.º e 33.º, entendem-se reportadas na Região ao Serviço Regional de Proteção Civil, IP-RAM, adiante designado abreviadamente por SRPC, IP-RAM.\n\n2 - As referências feitas à Autoridade de Segurança Alimentar e Económica entendem-se reportadas na Região à Autoridade Regional das Atividades Económicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043511": {
+   "fragment_id": "157996128",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 3.º — Competência\n\n1 - O SRPC, IP-RAM é a entidade competente para assegurar o cumprimento do regime jurídico da segurança contra incêndios em edifícios na Região, com exceção dos edifícios e recintos, que são classificados na 1.ª categoria de risco, cuja competência é dos municípios.\n\n2 - Ao SRPC, IP-RAM incumbe a credenciação de entidades para a emissão de pareceres e para a realização de vistorias e de inspeções das condições de SCIE, nos termos previstos no presente diploma e nas suas portarias complementares.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043512": {
+   "fragment_id": "157996129",
+   "type": 11,
+   "heading": "Artigo 4.º — Fiscalização",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 4.º — Fiscalização\n\n1 - São competentes para fiscalizar o cumprimento das condições de SCIE:\n\na) O SRPC, IP-RAM;\n\nb) Os municípios, na sua área territorial, quanto à 1.ª categoria de risco;\n\nc) A Autoridade Regional das Atividades Económicas, no que respeita à colocação no mercado dos equipamentos referidos no regulamento técnico referido no artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua atual redação;\n\nd) (Revogada.)\n\n2 - No exercício das ações de fiscalização pode ser solicitada a colaboração das autoridades administrativas e policiais para impor o cumprimento de normas e determinações que por razões de segurança devam ter execução imediata no âmbito de atos de gestão pública.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043513": {
+   "fragment_id": "157996130",
+   "type": 11,
+   "heading": "Artigo 5.º — Edifícios e recintos existentes",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 5.º — Edifícios e recintos existentes\n\n1 - Estão sujeitos ao disposto no presente diploma, nos termos do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação, adaptado à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 37/2006/M, de 18 de agosto, na sua atual redação, as operações urbanísticas referentes a edifícios, ou suas frações autónomas, e recintos, construídos ao abrigo do direito anterior, nos termos previstos nos números seguintes.\n\n2 - Pode ser dispensada a aplicação de algumas disposições do regulamento técnico referido no artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua atual redação, quando a sua aplicação seja manifestamente desproporcionada, ao abrigo dos princípios previstos no decreto-lei que estabelece o regime aplicável à reabilitação de edifícios ou frações autónomas, mediante decisão do SRPC, IP-RAM, ou dos órgãos executivos dos municípios, quanto às utilizações tipo da 1.ª categoria de risco.\n\n3 - Nos casos previstos no número anterior, o projetista determina as medidas de segurança contra incêndio a implementar no edifício, com fundamentação adequada na memória descritiva do projeto de SCIE, recorrendo a métodos de análise das condições de segurança contra incêndio ou métodos de análise de risco, reconhecidos pela ANEPC ou por método a publicar pelo LNEC.\n\n4 - Compete à ANEPC definir e publicar as características fundamentais a que devem obedecer os métodos que venham a ser reconhecidos no âmbito do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043514": {
+   "fragment_id": "157996131",
+   "type": 11,
+   "heading": "Artigo 6.º — Perigosidade atípica",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 6.º — Perigosidade atípica\n\n1 - Na Região, quando, justificada e comprovadamente, as disposições do regulamento técnico referido no artigo 15.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua atual redação, sejam desadequadas face ao relevo acidentado do terreno, às grandes dimensões em altimetria ou planimetria ou às suas características de funcionamento ou de exploração ou construtivas, tais edifícios e recintos ou as suas frações são classificados de perigosidade atípica e ficam sujeitos a soluções de SCIE que, cumulativamente:\n\na) Sejam devidamente fundamentadas pelo autor do projeto, com base em métodos de análise de risco que venham a ser reconhecidos pela ANEPC ou em métodos de ensaio ou em modelos de cálculo, ou com base em novas tecnologias ou em tecnologias não previstas na presente legislação, cujo desempenho ao nível da SCIE seja devidamente justificado, no âmbito das disposições construtivas ou dos sistemas e equipamentos de segurança;\n\nb) Sejam explicitamente referidas como não conformes no termo de responsabilidade do autor do projeto;\n\nc) Sejam aprovadas pelo SRPC, IP-RAM, ou pelos órgãos executivos dos municípios quanto a edifícios, suas frações, ou recintos, das utilizações tipo da 1.ª categoria de risco.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043515": {
+   "fragment_id": "157996132",
+   "type": 11,
+   "heading": "Artigo 7.º — Utilização dos edifícios",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 7.º — Utilização dos edifícios\n\n1 - O pedido de autorização de utilização de edifícios ou suas frações autónomas e recintos, referido no artigo 63.º do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua atual redação, adaptado à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 37/2006/M, de 18 de agosto, na sua atual redação, deve ser instruído com termo de responsabilidade subscrito pelo diretor de obra ou pelo diretor de fiscalização de obra, no qual deve declarar que se encontram cumpridas as condições de SCIE.\n\n2 - Quando haja lugar a vistorias, nos termos dos artigos 64.º e 65.º do regime jurídico da urbanização e edificação referido no número anterior ou em virtude de legislação especial em matéria de autorização de funcionamento, deve ser garantido o cumprimento das condições de SCIE e dos respetivos projetos ou fichas de segurança, sem prejuízo de outras situações previstas em legislação específica que preveja ou determine a realização de vistorias.\n\n3 - As vistorias referidas no número anterior, referentes às 2.ª, 3.ª e 4.ª categorias de risco, devem integrar um representante do SRPC, IP-RAM, ou de uma entidade por ele credenciada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043516": {
+   "fragment_id": "157996133",
+   "type": 11,
+   "heading": "Artigo 8.º — Medidas de autoprotecção",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 8.º — Medidas de autoprotecção\n\n1 - Para efeitos de apreciação das medidas de autoproteção referidas no artigo 21.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua atual redação, o respetivo processo deve ser entregue no SRPC, IP-RAM, ou nos municípios quanto à 1.ª categoria de risco, pelas entidades referidas no artigo 6.º do supracitado diploma, nos seguintes prazos:\n\na) Até 30 dias antes da entrada em funcionamento do edifício, no caso de obras de construção nova, de alteração, ampliação ou mudança de uso;\n\nb) No prazo máximo de um ano após a data de entrada em vigor do presente diploma, para o caso de edifícios e recintos existentes àquela data.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043517": {
+   "fragment_id": "157996134",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução e decisão dos processos sancionatórios",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 9.º — Instrução e decisão dos processos sancionatórios\n\nA instrução e decisão de processos por contraordenação prevista no Decreto-Lei n.º 220/2008, de 12 de novembro, na sua atual redação, compete ao SRPC, IP-RAM, com exceção dos que se referem a edifícios ou recintos classificados na 1.ª categoria de risco, cuja competência é do respetivo município.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043518": {
+   "fragment_id": "157996135",
+   "type": 11,
+   "heading": "Artigo 10.º — Destino do produto das coimas",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 10.º — Destino do produto das coimas\n\nO produto das coimas é repartido da seguinte forma:\n\na) 10 % para a entidade fiscalizadora;\n\nb) 30 % para o SRPC, IP-RAM quanto às 2.ª, 3.ª e 4.ª categorias de risco;\n\nc) 90 % para o respetivo município quanto à 1.ª categoria de risco;\n\nd) 60 % para a Região quanto às 2.ª, 3.ª e 4.ª categorias de risco.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043519": {
+   "fragment_id": "157996136",
+   "type": 11,
+   "heading": "Artigo 11.º — Taxas",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 11.º — Taxas\n\n1 - Os serviços prestados pelo SRPC, IP-RAM, no âmbito do presente diploma, estão sujeitos a taxas cujo valor é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da proteção civil.\n\n2 - Para efeitos do disposto no número anterior, consideram-se serviços prestados pelo SRPC, IP-RAM, nomeadamente:\n\na) A credenciação de entidades para a emissão de pareceres e a realização de vistorias e inspeções das condições de SCIE;\n\nb) A emissão de pareceres sobre as condições de SCIE;\n\nc) A realização de vistorias sobre as condições de SCIE;\n\nd) A realização de inspeções regulares sobre as condições de SCIE;\n\ne) A emissão de pareceres sobre medidas de autoproteção.\n\n3 - Os serviços prestados pelos municípios, no âmbito do presente diploma, estão sujeitos a taxas.\n\n4 - Para efeitos do disposto no número anterior, consideram-se serviços prestados pelos municípios, nomeadamente:\n\na) A emissão de pareceres sobre as condições de SCIE;\n\nb) A realização de vistorias sobre as condições de SCIE;\n\nc) A realização de inspeções regulares sobre as condições de SCIE;\n\nd) A emissão de pareceres sobre medidas de autoproteção.\n\n5 - As taxas correspondem ao custo efetivo dos serviços prestados.\n\n6 - A cobrança coerciva das taxas faz-se através de processo de execução fiscal, servindo de título executivo a certidão passada pela entidade que prestou os serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043520": {
+   "fragment_id": "157996137",
+   "type": 11,
+   "heading": "Artigo 12.º — Credenciação",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 12.º — Credenciação\n\n1 - O regime de credenciação de entidades para a emissão de pareceres, realização de vistorias e de inspeções das condições de SCIE pelo SRPC, IP-RAM, nos termos previstos no presente diploma, é definido por portaria do membro do Governo Regional responsável pela área da proteção civil.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043521": {
+   "fragment_id": "157996138",
+   "type": 11,
+   "heading": "Artigo 13.º — Comissão regional de acompanhamento",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 13.º — Comissão regional de acompanhamento\n\nSem prejuízo do disposto no artigo 35.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas da protecção civil e das obras públicas, será criada uma comissão de acompanhamento do regime instituído no presente diploma, presidida pelo SRPC, IP-RAM, e constituída por um perito a designar por cada uma das seguintes entidades:\n\na) Laboratório Regional de Engenharia Civil;\n\nb) Associação de Municípios da Região Autónoma da Madeira;\n\nc) Secção Regional da Madeira da Ordem dos Arquitetos;\n\nd) Secção Regional da Madeira da Ordem dos Engenheiros;\n\ne) Secção Regional da Madeira da Ordem dos Engenheiros Técnicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2021/M - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2021-157996087), em vigor a partir de 2021-02-20"
+  },
+  "158043509": {
+   "fragment_id": "157996142",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 1 de Junho de 2010.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 15 de Junho de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  }
+ }
+}

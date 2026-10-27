@@ -1,0 +1,222 @@
+---
+schema_version: '1.0'
+id: pt:dre:275868:por
+title: Decreto-Lei n.º 78/2000
+short_title: null
+summary: Procede à inclusão de duas substâncias activas no anexo I do Decreto-Lei n.º 94/98, de 15 de Abril, que adopta normas
+  técnicas de execução referentes à colocação dos produtos fitofarmacêuticos no mercado, transpondo as Directivas n.os 99/73/CE
+  e 99/80/CE, da Comissão, de 19 e de 28 de Julho, respectivamente
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 78/2000
+official_date: null
+publication_date: '2000-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 107/2000, Série I-A de 2000-05-09
+  number: '107'
+  series: I
+  supplement: null
+  pages: 2000 - 2001
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/05/107a00/20002001.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/78/2000/05/09/p/dre/pt/html
+  oj: null
+  dre: '275868'
+  dre_path: /dr/detalhe/decreto-lei/78-2000-275868
+  internal: pt:dre:275868:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2000-275868
+  metadata_url: https://data.dre.pt/eli/dec-lei/78/2000/05/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2000-275868
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:23:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9a2e9a5fa3a924d5b691d0c4785b27ab702785094b52f8eec3edf7cb3fd64bf1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:23:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Comércio
+- Confidencialidade
+- Controlo Sanitário
+- Embalagem
+- Fiscalização
+- Licenciamento
+- Produto Fitofarmacêutico
+- Produto Químico
+- Proteção do Ambiente
+relationships:
+- type: amended_by
+  target: pt:dre:279674:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:246540:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.61/2008.28.03.2008.MADRP,\
+    \ DR.IS [62] de 28.03.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/61-2008-246540
+  date: '2008-03-28'
+- type: amended_by
+  target: pt:dre:614299:por
+  label: "Alterado, e publicado em anexo, o anexo i do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC\
+    \ LEI.44/2010.03.05.2010.MADRP, DR.IS [85] de 03.05.2010\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-2010-614299
+  date: '2010-05-03'
+- type: amended_by
+  target: pt:dre:342790:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr, na redacção do presente diploma, pelo DEC LEI.106/2010.01.10.2010.MADRP,\
+    \ DR.IS [192] de 01.10.2010, de acordo com o respectivo anexo\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/106-2010-342790
+  date: '2010-10-01'
+- type: amended_by
+  target: pt:dre:279674:por
+  label: "Alterado o anexo I do Dec Lei 94/98, de 15-Abr,na redacção do presente diploma, pelo DEC LEI.24/2011.11.02.2011.MADRP,\
+    \ DR.IS [30] de 11.02.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/24-2011-279674
+  date: '2011-02-11'
+- type: cites
+  target: celex:31991L0414
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/414/oj
+- type: cites
+  target: celex:31999L0073
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/73/oj
+- type: cites
+  target: celex:31999L0080
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/80/oj
+- type: repealed_by
+  target: pt:dre:631840:por
+  label: "Revogado pelo DEC LEI.238/2001.2001.08.30.MADRP, DR.IS-A [201] de 2002/AGO/30\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/238-2001-631840
+  date: '2001-08-30'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:23:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 78/2000
+
+de 9 de Maio
+
+A colocação dos produtos fitofarmacêuticos no mercado foi objecto da disciplina introduzida pelo Decreto-Lei n.º 94/98, de 15 de Abril, emitido no quadro integrado da União Europeia, em transposição da Directiva n.º [91/414/CEE](https://data.europa.eu/eli/dir/1991/414/oj?locale=pt), do Conselho, de 15 de Julho.
+
+O referido decreto-lei contém um anexo I a preencher à medida que forem inscritas na lista positiva comunitária as substâncias activas avaliadas a nível comunitário para as quais seja possível concluir poder presumir-se que os produtos fitofarmacêuticos que as contêm satisfazem determinadas condições.
+
+Uma vez efectuada a avaliação a nível comunitário de duas substâncias activas, foram as mesmas incluídas na lista positiva comunitária. A inclusão foi feita através da emissão da Directiva n.º [99/73/CE](https://data.europa.eu/eli/dir/1999/73/oj?locale=pt), da Comissão, de 19 de Julho, rectificada no Jornal Oficial das Comunidades Europeias, de 21 de Agosto de 1999, bem como da Directiva n.º [99/80/CE](https://data.europa.eu/eli/dir/1999/80/oj?locale=pt), da Comissão, de 28 de Julho.
+
+Deste modo, torna-se necessário proceder à devida transposição para a ordem jurídica nacional das duas directivas referidas, integrando-se, para o efeito, as substâncias activas em causa no anexo I do Decreto-Lei n.º 94/98, de 15 de Abril, de acordo com o previsto no n.º 7 do artigo 6.º deste diploma.
+
+Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º
+
+A substância activa espiroxamina é incluída no anexo I do Decreto-Lei n.º 94/98, de 15 de Abril, com as características e nas condições definidas no anexo I do presente diploma, do qual faz parte integrante.
+
+###### Artigo 2.º
+
+A substância activa azimsulfurão é incluída no anexo I do Decreto-Lei n.º 94/98, de 15 de Abril, com as características e nas condições definidas no anexo II do presente diploma, do qual faz parte integrante.
+
+###### Artigo 3.º
+
+As autorizações de colocação no mercado em vigor relativas a produtos fitofarmacêuticos que contenham espiroxamina como substância activa serão revistas em conformidade com as disposições do Decreto-Lei n.º 94/98, de 15 de Abril, tendo em consideração as respectivas características e condições de inclusão no seu anexo I estabelecidas no presente diploma.
+
+###### Artigo 4.º
+
+1 - As autorizações de colocação no mercado em vigor relativas a produtos fitofarmacêuticos que contenham azimsulfurão como substância activa serão revistas em conformidade com as disposições do Decreto-Lei n.º 94/98, de 15 de Abril, tendo em consideração as respectivas características e condições de inclusão no seu anexo I estabelecidas no presente diploma.
+
+2 - O disposto no número anterior, no que se refere a avaliação e decisão em conformidade com os princípios uniformes enunciados em anexo ao Decreto-Lei n.º 94/98, de 15 de Abril, alterado pelo Decreto-Lei n.º 341/98, de 4 de Novembro, e com base num processo que satisfaça as exigências do anexo III do Decreto-Lei n.º 94/98, de 15 de Abril, apenas terá de se realizar até 1 de Abril de 2001.
+
+###### Artigo 5.º
+
+Salvo no que respeita às informações confidenciais, na acepção do artigo 14.º do Decreto-Lei n.º 94/98, de 15 de Abril, o acesso das partes interessadas aos relatórios de avaliação das substâncias activas espiroxamina e azimsulfurão referidos no presente decreto-lei é feito mediante requerimento dirigido ao director-geral de Protecção das Culturas.
+
+Visto e aprovado em Conselho de Ministros de 24 de Fevereiro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos - Maria Manuela de Brito Arcanjo Marques da Costa - Armando António Martins Vara.
+
+Promulgado em 14 de Abril de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 20 de Abril de 2000.
+
+O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.
+
+## ANEXO I — (a que se refere o artigo 1.º)
+
+1 - Identidade: IUPAC: 8-tert-butil-1,4-dioxaspiro [4.5] decan-2-ilmetil (etil) (propil) amina.
+
+2 - Condições especiais a satisfazer:
+
+a) A pureza mínima da substância activa é de 940 g/kg de produto técnico (diastereómeros A e B combinados);
+
+b) Só serão autorizadas as utilizações como fungicida;
+
+c) Deve ser dada especial atenção à segurança do operador e as condições de autorização devem incluir, se necessário, medidas de protecção adequadas;
+
+d) Deve ser dada especial atenção ao impacte nos organismos aquáticos e as condições de autorização devem incluir medidas apropriadas de redução do risco;
+
+e) Na aplicação dos princípios uniformes, enunciados em anexo ao Decreto-Lei n.º 94/98, de 15 de Abril, alterado pelo Decreto-Lei n.º 341/98, de 4 de Novembro, devem ser tidas em conta as conclusões do relatório de avaliação da espiroxamina, nomeadamente os seus apêndices I e II, finalizado no Comité Fitossanitário Permanente da Comissão Europeia em 12 de Maio de 1999, que se encontra disponível conforme indicado no artigo 5.º
+
+3 - A presente inclusão expira a 1 de Setembro de 2009.
+
+## ANEXO II — (a que se refere o artigo 2.º)
+
+1 - Identidade: IUPAC: 1-(4,6-dimetoxipirimidin-2-il)-3-[1-metil-4-(2-metil-2H-tetrazol-5-il)pirazol- 5-ilsulfonil]ureia.
+
+2 - Condições especiais a satisfazer:
+
+a) A pureza mínima da substância activa é de 980 g/kg do produto técnico;
+
+b) Só serão autorizadas as utilizações como herbicida;
+
+c) Não serão autorizadas aplicações por pulverização aérea;
+
+d) Deve ser dada especial atenção ao impacte nos organismos aquáticos e nas plantas terrestres não visadas e as condições de autorização devem incluir, se necessário, medidas de redução de riscos (por exemplo, no caso da orizicultura, períodos mínimos de retenção das águas antes da descarga);
+
+e) Na aplicação dos princípios uniformes, enunciados em anexo ao Decreto-Lei n.º 94/98, de 15 de Abril, alterado pelo Decreto-Lei n.º 341/98, de 4 de Novembro, devem ser tidas em conta as conclusões da versão final do relatório de avaliação do azimsulfurão, de 2 de Julho de 1999, nomeadamente os seus apêndices I e II, elaborado no quadro do Comité Fitossanitário Permanente da Comissão Europeia, que se encontra disponível conforme indicado no artigo 5.º
+
+3 - A presente inclusão expira a 1 de Outubro de 2009.

@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0033:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0033-20030620",
+ "dre_path": null,
+ "source_lastmod": "2003-06-20",
+ "versions": [
+  {
+   "date": "2003-06-20",
+   "future": false,
+   "celex": "02003L0033-20030620",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4a5a2825ab910810",
+    "3c90632e068f743e",
+    "edf216f4ac5ce335",
+    "0610aad7e80cae32",
+    "93a48acdc5e07156",
+    "b72f2b25f2fb1f32",
+    "7e7afae1b1400ab8",
+    "dca90d1f1b589cfb",
+    "cd32c0d94ac165e8",
+    "338feb1e813ade14",
+    "46aaca94284a96e5",
+    "cb237fbf8f211417",
+    "0a0d965ccf5f0c1a",
+    "b3de2965cfcf940f"
+   ]
+  }
+ ],
+ "fragments": {
+  "4a5a2825ab910810": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Maio de 2003\n\nrelativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros em matéria de publicidade e de patrocínio dos produtos do tabaco\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 2 do seu artigo 47.º e os seus artigos 55.º e 95.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#E0002)),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando nos termos do artigo 251.º do Tratado ([^3^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#E0003)),\n\n(1) Existem diferenças entre as disposições legislativas, regulamentares e administrativas dos Estados-Membros em matéria de publicidade aos produtos do tabaco e ao seu patrocínio. Em certos casos, esta publicidade e este patrocínio ultrapassam as fronteiras dos Estados-Membros ou dizem respeito a eventos organizados ao nível internacional, constituindo actividades às quais se aplica o artigo 49.º do Tratado. É provável que as diferenças nas legislações nacionais dêem origem a entraves cada vez maiores à livre circulação entre os Estados-Membros dos produtos ou serviços que servem de suporte a essa publicidade e a esse patrocínio. No caso da publicidade na imprensa, já foram detectados alguns entraves. No caso do patrocínio, as distorções das condições de concorrência são susceptíveis de aumentar, tendo já sido observadas aquando da organização de certos eventos desportivos e culturais importantes.\n\n(2) Torna-se necessário eliminar esses entraves e, para o efeito, aproximar, em casos específicos, as normas relativas à publicidade aos produtos do tabaco e ao seu patrocínio. Nomeadamente, é necessário definir em que medida a publicidade ao tabaco em certo tipo de publicações pode ser permitida.\n\n(3) O n.º 3 do artigo 95.º do Tratado exige que a Comissão, nas suas propostas para o estabelecimento e funcionamento do mercado interno em matéria de saúde, tome por base um elevado nível de protecção. Nas respectivas esferas de competência, o Parlamento Europeu e o Conselho também procuram alcançar este objectivo. A legislação dos Estados-Membros cuja aproximação se visa tem por objectivo proteger a saúde pública através da regulação da promoção do tabaco, um produto que provoca dependência e é responsável, anualmente, por mais de 500 000 mortes na Comunidade, por forma a evitar que, em resultado da promoção, os jovens comecem a fumar numa idade precoce e se tornem dependentes.\n\n(4) A circulação de publicações, tais como periódicos, jornais e revistas, no mercado interno corre um risco apreciável de entraves à livre circulação, dadas as disposições legislativas, regulamentares e administrativas dos Estados-Membros que proíbem ou regulam a publicidade ao tabaco nesses meios de comunicação. Para garantir a livre circulação desses meios de comunicação no mercado interno, é necessário limitar a publicidade ao tabaco às revistas e jornais que não se destinam ao grande público, como sejam as publicações destinadas exclusivamente aos profissionais do comércio do tabaco, e às publicações impressas e editadas em países terceiros que não se destinem principalmente ao mercado comunitário.\n\n(5) As disposições legislativas, regulamentares e administrativas dos Estados-Membros relacionadas com certos tipos de patrocínio, com efeitos transfronteiriços, a favor dos produtos do tabaco, suscitam um apreciável risco de distorção das condições de concorrência desta actividade no mercado interno. A fim de eliminar tais distorções, torna-se necessário proibir esse patrocínio apenas para as actividades e os eventos com efeitos transfronteiriços, o que, de outro modo, poderia ser um meio de contornar as restrições aplicáveis a formas de publicidade directa, sem regular o patrocínio ao nível puramente nacional.\n\n(6) A utilização dos serviços da sociedade da informação constitui um meio de publicitar os produtos do tabaco que está a crescer, à medida que aumenta o consumo público e o acesso do público a esses serviços. Esses serviços, tal como a radiodifusão, que também pode ser transmitida através de serviços da sociedade da informação, são especialmente atraentes e acessíveis aos jovens consumidores. A publicidade feita ao tabaco nestes meios de comunicação é, por definição, de natureza transfronteiriça, devendo ser regulada a nível da Comunidade.\n\n(7) A distribuição gratuita de produtos do tabaco está sujeita a restrições em diversos Estados-Membros, dado o seu elevado potencial para gerar dependência. Têm surgido casos de distribuição gratuita, no contexto do patrocínio de eventos com efeitos transfronteiriços, a qual deve, por isso, ser proibida.\n\n(8) As normas internacionalmente aplicáveis à publicidade aos produtos do tabaco e ao seu patrocínio são o tema de negociações com vista à elaboração de uma Convenção-Quadro da Organização Mundial da Saúde para a luta antitabaco. Tais negociações têm por objectivo criar normas internacionais vinculativas complementares das contidas na presente directiva.\n\n(9) A Comissão deverá elaborar um relatório sobre a execução da presente directiva. Deverão ser incluídas disposições nos programas comunitários relevantes, para acompanhar os efeitos da presente directiva na saúde pública.\n\n(10) Para assegurar o controlo da execução das medidas adoptadas nos termos da presente directiva, os Estados-Membros deverão tomar medidas adequadas e eficazes em conformidade com as respectivas legislações nacionais, como previsto na Comunicação da Comissão ao Parlamento Europeu e ao Conselho, relativa ao papel das sanções na aplicação da legislação comunitária no domínio do mercado interno, e na resolução do Conselho, de 29 de Junho de 1995, relativa à aplicação uniforme e eficaz do direito comunitário e às sanções aplicáveis a violações deste direito no domínio do mercado interno ([^4^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#E0004)). Esses meios deverão incluir disposições permitindo a intervenção de pessoas ou organizações com interesse legítimo na supressão de actividades que não estejam conformes com a presente directiva.\n\n(11) As sanções impostas no âmbito da presente directiva não prejudicam quaisquer outras sanções ou mecanismos legais estabelecidos na legislação nacional.\n\n(12) A presente directiva regulamenta a publicidade aos produtos de tabaco nos meios de comunicação que não a televisão, ou seja, na imprensa e noutros meios de comunicação impressos, na radiodifusão e nos serviços da sociedade da informação. Regulamenta igualmente o patrocínio, pelas empresas do sector do tabaco, de emissões radiofónicas e de eventos ou actividades que envolvam ou tenham lugar em vários Estados-Membros ou que, de alguma forma, tenham efeitos transfronteiriços, incluindo a distribuição gratuita ou a preço reduzido de produtos do tabaco. A presente directiva não se aplica a outras formas de publicidade, tais como a publicidade indirecta e o patrocínio de eventos ou actividades sem efeitos transfronteiriços. Sob reserva do disposto no Tratado, os Estados-Membros continuam a ser competentes para regulamentar estas matérias conforme considerem necessário por forma a assegurar a protecção da saúde humana.\n\n(13) A publicidade relativa a medicamentos para uso humano está coberta pela Directiva 2001/83/CE do Parlamento Europeu e do Conselho, de 6 de Novembro de 2001, que estabelece um código comunitário relativo aos medicamentos para uso humano ([^5^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#E0005)). A publicidade relativa a produtos destinados ao tratamento da dependência do tabaco não está abrangida pela presente directiva.\n\n(14) A presente directiva não prejudica a Directiva 89/552/CEE do Conselho, de 3 de Outubro de 1989, relativa à coordenação de certas disposições legislativas, regulamentares e administrativas dos Estados-Membros relativas ao exercício de actividades de radiodifusão televisiva ([^6^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#E0006)), que proíbe todas as formas de publicidade televisiva a cigarros e outros produtos do tabaco. A Directiva 89/552/CEE prevê que os programas televisivos não podem ser patrocinados por empresas que tenham por actividade principal o fabrico ou a venda de cigarros e outros produtos do tabaco, ou o fornecimento de serviços, cuja publicidade seja proibida por essa directiva. A televenda de produtos do tabaco também é proibida pela Directiva 89/552/CEE.\n\n(15) O carácter transnacional da publicidade é reconhecido pela Directiva 84/450/CEE do Conselho, de 10 de Setembro de 1984, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros em matéria de publicidade enganosa ([^7^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#E0007)). A Directiva 2001/37/CE do Parlamento Europeu e do Conselho, de 5 de Junho de 2001, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros no que respeita ao fabrico, à apresentação e à venda de produtos do tabaco ([^8^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#E0008)), contém disposições sobre o uso de descrições enganosas na rotulagem de produtos do tabaco, cujo efeito transfronteiriço também foi reconhecido.\n\n(16) A Directiva 98/43/CE do Parlamento Europeu e do Conselho, de 6 de Julho de 1998, relativa à aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros em matéria de publicidade e de patrocínio dos produtos do tabaco ([^9^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#E0009)), foi anulada pelo Tribunal de Justiça no acórdão que proferiu no processo C-376/98, *República Federal da Alemanha contra Parlamento Europeu e Conselho da União Europeia* ([^10^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#E0010)). As remissões para a Directiva 98/43/CE deverão, por conseguinte, entender-se como feitas para a presente directiva.\n\n(17) Em conformidade com o princípio da proporcionalidade, é necessário e apropriado, para atingir o objectivo fundamental do correcto funcionamento do mercado interno, estabelecer regras respeitantes à publicidade aos produtos do tabaco e ao seu patrocínio. A presente directiva não excede o necessário para alcançar os objectivos prosseguidos, nos termos do terceiro parágrafo do artigo 5.º do Tratado.\n\n(18) A presente directiva respeita os direitos fundamentais e observa os princípios reconhecidos, nomeadamente, na Carta dos Direitos Fundamentais da União Europeia. A presente directiva visa, nomeadamente, respeitar o direito fundamental de liberdade de expressão,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "3c90632e068f743e": {
+   "fragment_id": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito de aplicação\n\n1. A presente directiva tem por objectivo a aproximação das disposições legislativas, regulamentares e administrativas dos Estados-Membros em matéria de publicidade aos produtos do tabaco e da sua promoção:\n\na) Na imprensa e noutros meios de comunicação impressos;\n\nb) Na radiodifusão;\n\nc) Nos serviços da sociedade da informação; e\n\nd) Através do patrocínio relacionado com o tabaco, incluindo a distribuição gratuita de produtos do tabaco.\n\n2. A presente directiva visa assegurar a livre circulação dos meios de comunicação em causa e dos serviços conexos e eliminar os entraves ao funcionamento do mercado interno."
+  },
+  "edf216f4ac5ce335": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Produtos do tabaco», qualquer produto destinado a ser fumado, inalado, chupado ou mascado, desde que seja constituído, ainda que parcialmente, por tabaco;\n\nb) «Publicidade», qualquer forma de comunicação comercial que vise, ou tenha por efeito directo ou indirecto, a promoção de um produto do tabaco;\n\nc) «Patrocínio», qualquer forma de contributo público ou privado destinado a um evento, uma actividade ou um indivíduo, que vise, ou tenha por efeito directo ou indirecto, a promoção de um produto do tabaco;\n\nd) «Serviços da sociedade da informação», os serviços na acepção do n.º 2 do artigo 1.º da Directiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de Junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação ([^11^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#E0011))."
+  },
+  "0610aad7e80cae32": {
+   "fragment_id": "Artigo 3.º — Publicidade em meios de comunicação impressos e em serviços da sociedade da informação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Publicidade em meios de comunicação impressos e em serviços da sociedade da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Publicidade em meios de comunicação impressos e em serviços da sociedade da informação\n\n1. A publicidade na imprensa e noutros meios de comunicação impressos deve limitar-se às publicações destinadas exclusivamente aos profissionais do comércio do tabaco e às publicações impressas e editadas em países terceiros, desde que não se destinem principalmente ao mercado comunitário.\n\nÉ proibida qualquer outra publicidade na imprensa e noutros meios de comunicação impressos.\n\n2. A publicidade proibida na imprensa e noutros meios de comunicação impressos é igualmente proibida nos serviços da sociedade da informação."
+  },
+  "93a48acdc5e07156": {
+   "fragment_id": "Artigo 4.º — Publicidade e patrocínio na rádio",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Publicidade e patrocínio na rádio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Publicidade e patrocínio na rádio\n\n1. São proibidas todas as formas de publicidade na rádio a produtos do tabaco.\n\n2. As emissões radiofónicas não podem ser patrocinadas por empresas cuja actividade principal seja o fabrico ou a venda de produtos do tabaco."
+  },
+  "b72f2b25f2fb1f32": {
+   "fragment_id": "Artigo 5.º — Patrocínio de eventos",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Patrocínio de eventos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Patrocínio de eventos\n\n1. É proibido o patrocínio de eventos ou actividades que envolvam ou se realizem em vários Estados-Membros, ou que tenham quaisquer outros efeitos transfronteiriços.\n\n2. É proibida a distribuição gratuita de produtos do tabaco, no contexto do patrocínio dos eventos referidos no n.º 1, que vise, ou tenha por efeito directo ou indirecto, a promoção desses produtos."
+  },
+  "7e7afae1b1400ab8": {
+   "fragment_id": "Artigo 6.º — Relatório",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatório\n\nAté… de Junho de 2008, Comissão deve apresentar ao Parlamento Europeu, ao Conselho e ao Comité Económico e Social Europeu um relatório sobre a execução da presente directiva. O relatório deve ser acompanhado das eventuais propostas de alteração da presente directiva que a Comissão considere necessárias."
+  },
+  "dca90d1f1b589cfb": {
+   "fragment_id": "Artigo 7.º — Sanções e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Sanções e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Sanções e aplicação\n\nOs Estados-Membros estabelecem o regime de sanções aplicáveis em caso de infracção das disposições nacionais aprovadas em execução da presente directiva e tomam todas as medidas necessárias para assegurar a sua aplicação. As sanções impostas devem ser efectivas, proporcionadas e dissuasivas. Os Estados-Membros devem notificar as referidas disposições à Comissão até à data indicada no artigo 10.º, devendo notificá-la o mais rapidamente possível de qualquer alteração posterior que lhes diga respeito.\n\nO referido regime deve incluir disposições que garantam às pessoas ou organizações, que, nos termos da legislação nacional, justifiquem um interesse legítimo na supressão de publicidade, de patrocínio ou de outra actividade incompatível com a presente directiva, a possibilidade de intentar acções judiciais contra tal publicidade ou patrocínio, ou de os submeter à apreciação do organismo administrativo competente para decidir sobre as queixas ou para instaurar os processos judiciais adequados."
+  },
+  "cd32c0d94ac165e8": {
+   "fragment_id": "Artigo 8.º — Livre circulação de produtos e serviços",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Livre circulação de produtos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Livre circulação de produtos e serviços\n\nOs Estados-Membros não podem proibir ou restringir a livre circulação dos produtos ou serviços que estejam conformes com a presente directiva."
+  },
+  "338feb1e813ade14": {
+   "fragment_id": "Artigo 9.º — Remissões para a Directiva 98/43/CE",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Remissões para a Directiva 98/43/CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Remissões para a Directiva 98/43/CE\n\nAs remissões feitas para a Directiva 98/43/CE, anulada, devem entender-se como feitas para a presente directiva."
+  },
+  "46aaca94284a96e5": {
+   "fragment_id": "Artigo 10.º — Implementação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Implementação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Implementação\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 31 de Julho de 2005 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros."
+  },
+  "cb237fbf8f211417": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "0a0d965ccf5f0c1a": {
+   "fragment_id": "Artigo 12.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\n---"
+  },
+  "b3de2965cfcf940f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#src.E0001)) JO C 270 E de 25.9.2001, p. 97.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#src.E0002)) JO C 36 de 8.2.2002, p. 104.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 20 de Novembro de 2002 (ainda não publicado no Jornal Oficial) e decisão do Conselho de 27 de Março de 2003.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#src.E0004)) JO C 188 de 22.7.1995, p. 1.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#src.E0005)) JO L 311 de 28.11.2001, p. 67.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#src.E0006)) JO L 298 de 17.10.1989, p. 23. Directiva com a redacção que lhe foi dada pela Directiva 97/36/CE do Parlamento Europeu e do Conselho (JO L 202 de 30.7.1997, p. 60).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#src.E0007)) JO L 250 de 19.9.1984, p. 17. Directiva com a redacção que lhe foi dada pela Directiva 97/55/CE do Parlamento Europeu e do Conselho (JO L 290 de 23.10.1997, p. 18).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#src.E0008)) JO L 194 de 18.7.2001, p. 26.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#src.E0009)) JO L 213 de 30.7.1998, p. 9.\n\n> ([^10^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#src.E0010)) Col. 2000, p. I-8419.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/fbdfab05-c8c7-47ec-b3ca-5e501482a250.0011.03/DOC_1#src.E0011)) JO L 204 de 21.7.1998, p. 37. Directiva com a redacção que lhe foi dada pela Directiva 98/48/CE (JO L 217 de 5.8.1998, p. 18)."
+  }
+ }
+}

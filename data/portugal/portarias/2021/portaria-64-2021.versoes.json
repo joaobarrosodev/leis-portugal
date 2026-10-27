@@ -1,0 +1,498 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:159614841:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-230010678",
+ "dre_path": "/dr/detalhe/portaria/64-2021-159614841",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-03-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "230022775",
+    "230022776",
+    "230022777",
+    "230022778",
+    "230022779",
+    "230022780",
+    "230022782",
+    "230022783",
+    "230022784",
+    "230022785",
+    "230022786",
+    "230022787",
+    "230022788",
+    "230022789",
+    "230022790",
+    "230022791",
+    "230022792",
+    "230022793",
+    "230022794",
+    "230022795",
+    "230022796",
+    "230022797",
+    "230022798",
+    "230022799",
+    "230022800",
+    "230022801",
+    "230022802",
+    "230022803",
+    "230022804"
+   ]
+  },
+  {
+   "date": "2023-12-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:229915932:por",
+     "title": "Portaria n.º 428/2023",
+     "published": "2023-12-12",
+     "dre_path": "/dr/detalhe/portaria/428-2023-229915932"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "230022775",
+    "235156303",
+    "230022777",
+    "235156304",
+    "235156305",
+    "230022780",
+    "230022781",
+    "230022782",
+    "230022783",
+    "230022784",
+    "235156306",
+    "230022786",
+    "235156307",
+    "235156308",
+    "235156309",
+    "235156310",
+    "235156311",
+    "235156312",
+    "235156313",
+    "230022794",
+    "235156314",
+    "230022796",
+    "235156315",
+    "230022798",
+    "230022799",
+    "235156316",
+    "230022801",
+    "230022802",
+    "230022803",
+    "235156317"
+   ]
+  }
+ ],
+ "fragments": {
+  "230022775": {
+   "fragment_id": "230010679",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 64/2021\n\nde 17 de março\n\nSumário: Define, nos termos da alínea h) do n.º 1 do artigo 3.º e do artigo 8.º do Decreto-Lei n.º 55/2020, de 12 de agosto, o exercício de competências de coordenação administrativa e financeira do programa de contratos locais de desenvolvimento social pelas autarquias locais.\n\nO Programa de Contratos Locais de Desenvolvimento Social, adiante designados por Programa CLDS, criado e regulado pela Portaria n.º 396/2007, de 2 de abril, tem como finalidade originária promover a inclusão social dos cidadãos, de forma multissectorial e integrada, através de ações a executar em parceria, por forma a combater a pobreza persistente e a exclusão social em territórios deprimidos.\n\nA Portaria n.º 229/2018, de 14 de agosto, atualmente em vigor, criou a 4.ª geração do Programa de Contratos Locais de Desenvolvimento Social, adiante designado por Programa CLDS-4G, em que se visou promover o acesso ao Programa CLDS e, consequentemente ao financiamento, por parte de territórios que revelem maiores dificuldades de mobilização para a apresentação de projetos, reforçando a lógica de convite em detrimento de uma lógica de concurso nacional.\n\nO papel das câmaras municipais passou a ser valorizado, atendendo as suas especiais responsabilidades ao nível concelhio, nomeadamente em matérias de planeamento, bem como à sua particular capacidade para congregar os agentes e os recursos locais.\n\nCom a Lei n.º 50/2018, de 16 de agosto, que estabelece o quadro da transferência de competências para as autarquias e entidades intermunicipais, atribui-se aos municípios o exercício de competências de coordenação administrativa e financeira dos contratos locais de desenvolvimento social.\n\nOs municípios passam a ser as Entidades Coordenadoras Locais da parceria (ECLP), assumindo o papel de dinamização e de coordenação da execução do plano de ação, desenvolvendo a totalidade ou parte das ações, com o correspondente financiamento, em articulação com as restantes entidades da parceria, quando existam.\n\nOs CLDS, como instrumento de política social, contêm a inegável virtude de valorizar a proximidade e darem soluções concretas aos que delas carecem, continuando a constituir um importante instrumento de combate à exclusão social, pelo que com a presente portaria visa-se definir as condições e as regras de implementação, coordenação e execução do Programa de CLDS pelos municípios.\n\nForam ouvidas a Associação Nacional de Municípios Portugueses, a Confederação Nacional de Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e a Confederação Cooperativa Portuguesa, CCRL.\n\nAssim:\n\nAo abrigo do disposto na alínea h) do artigo 12.º da Lei n.º 50/2018, de 16 de agosto e da alínea h) do n.º 1 do artigo 3.º e no n.º 5 do artigo 8.º do Decreto-Lei n.º 55/2020, de 12 de agosto, manda o Governo, pelo Ministro de Estado e das Finanças, pela Ministra da Modernização do Estado e da Administração Pública e pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "230022776": {
+   "fragment_id": "230010680",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria define, nos termos da alínea h) do n.º 1 do artigo 3.º e do artigo 8.º do Decreto-Lei n.º 55/2020, de 12 de agosto, o exercício de competências de coordenação administrativa e financeira do programa de contratos locais de desenvolvimento social pelas autarquias locais.\n\n2 - A presente portaria aplica-se aos municípios de Portugal continental."
+  },
+  "230022777": {
+   "fragment_id": "230010681",
+   "type": 11,
+   "heading": "Artigo 2.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regulamento\n\nÉ aprovado o regulamento que estabelece as normas orientadoras do Programa de Contratos Locais de Desenvolvimento Social, em anexo ao presente diploma e que dele faz parte integrante."
+  },
+  "230022778": {
+   "fragment_id": "230010682",
+   "type": 11,
+   "heading": "Artigo 3.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Financiamento\n\nO programa CLDS é passível de financiamento da União Europeia, sendo-lhe aplicáveis as respetivas disposições comunitárias e nacionais, mas quando este não exista, a transferência do financiamento nacional para as autarquias locais opera-se de acordo com o previsto no artigo 80.º-B da Lei de Finanças Locais, aprovada pela Lei n.º 73/2013, de 3 de setembro, na sua redação atual."
+  },
+  "230022779": {
+   "fragment_id": "230010683",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma Transitória e Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma Transitória e Revogação\n\n1 - Aos CLDS-4G aprovados na presente data ou que venham a ser aprovados ao abrigo da Portaria n.º 229/2018, de 14 de agosto, é aplicável a mesma até à conclusão dos respetivos processos.\n\n2 - A Portaria n.º 229/2018, de 14 de agosto, fica revogada com a conclusão dos processos CLDS 4G."
+  },
+  "230022780": {
+   "fragment_id": "230010684",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte à sua publicação e produz efeitos nos termos do artigo 24.º do Decreto-Lei n.º 55/2020, de 12 de agosto."
+  },
+  "230022782": {
+   "fragment_id": "230010686",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO «PROGRAMA DE CONTRATOS LOCAIS DE DESENVOLVIMENTO SOCIAL»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO «PROGRAMA DE CONTRATOS LOCAIS DE DESENVOLVIMENTO SOCIAL»\n\n(a que se refere o artigo 2.º)"
+  },
+  "230022783": {
+   "fragment_id": "230010687",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "230022784": {
+   "fragment_id": "230010688",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento define as condições e as regras para a implementação e execução, do Programa de Contratos Locais de Desenvolvimento Social, adiante abreviadamente designados por CLDS."
+  },
+  "230022785": {
+   "fragment_id": "230010689",
+   "type": 11,
+   "heading": "Artigo 2.º — Territórios de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Territórios de intervenção\n\n1 - A identificação dos territórios de intervenção do CLDS inicia-se com a definição de uma lista de concelhos, tendo por base as suas características em termos de fragilidade social e em função dos valores de um conjunto de indicadores.\n\n2 - A lista de concelhos, os indicadores que estiveram na base da sua seleção e os critérios para definição do nível de financiamento, são objeto de despacho do membro do Governo responsável pelas áreas do trabalho, solidariedade e segurança social, sob proposta conjunta do Instituto da Segurança Social, I. P. (ISS, I. P.) e do Gabinete de Estratégia e Planeamento (GEP) do Ministério do Trabalho, Solidariedade e Segurança Social, após audição obrigatória da Associação Nacional de Municípios Portugueses.\n\n3 - As câmaras municipais dos concelhos constantes da lista são convidadas pelo ISS, I. P., a manifestar, após o conhecimento dos indicadores e critérios mencionados no número anterior, no prazo de 10 dias, o seu interesse no processo.\n\n4 - A lista de concelhos referida no número anterior é publicitada na página eletrónica do ISS, I. P., e de cada concelho abrangido.\n\n5 - Os territórios a abranger pelos CLDS assumem perfis definidos tendo por referência o conjunto de indicadores mencionados no n.º 1:\n\na) Territórios especialmente afetados por desemprego;\n\nb) Territórios com situações críticas de pobreza, particularmente a infantil;\n\nc) Territórios envelhecidos;\n\nd) Territórios com reconfigurações sociodemográficas acentuadas;\n\ne) Territórios fortemente atingidos por calamidades."
+  },
+  "230022786": {
+   "fragment_id": "230010690",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito territorial e temporal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito territorial e temporal\n\n1 - O CLDS pode abranger um território de dimensão concelhia ou infra concelhia, conforme a lista referida no n.º 2 do artigo anterior.\n\n2 - O CLDS tem uma duração definida por despacho do membro do Governo responsável pela área do trabalho, solidariedade e segurança social."
+  },
+  "230022787": {
+   "fragment_id": "230010691",
+   "type": 11,
+   "heading": "Artigo 4.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Candidatura\n\nÉ apresentada uma candidatura por cada um dos territórios constantes da lista referida no n.º 2 do artigo 2.º e pela duração referida no artigo anterior, sem prejuízo do que for definido no aviso de abertura de candidaturas, designadamente para situações de emergência ou calamidade."
+  },
+  "230022788": {
+   "fragment_id": "230010692",
+   "type": 11,
+   "heading": "Artigo 5.º — Eixos de intervenção e ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Eixos de intervenção e ações\n\n1 - As ações a desenvolver pelo CLDS integram os seguintes eixos de intervenção:\n\na) Eixo 1: Emprego, formação e qualificação;\n\nb) Eixo 2: Intervenção familiar e parental, preventiva da pobreza infantil;\n\nc) Eixo 3: Promoção do envelhecimento ativo e apoio à população idosa;\n\nd) Eixo 4: Auxílio e intervenção emergencial às populações inseridas em territórios afetados por calamidades e/ou capacitação e desenvolvimento comunitários.\n\n2 - Em função dos perfis de cada território, definidos nos termos do n.º 5 do artigo 2.º, devem ser desenvolvidas as ações obrigatórias previstas em cada um dos eixos correspondentes a determinado perfil.\n\n3 - Os eixos de intervenção concretizam-se em ações a desenvolver no território, as quais podem assumir os seguintes tipos:\n\na) Ações obrigatórias do eixo de intervenção no âmbito do CLDS financiadas pelo Programa CLDS;\n\nb) Ações facultativas no âmbito do CLDS financiadas pelo Programa CLDS;\n\nc) Ações obrigatórias do eixo de intervenção não financiadas pelo Programa CLDS;\n\nd) Outras ações não financiadas pelo Programa CLDS.\n\n4 - Qualquer das ações definidas como obrigatórias para um eixo de intervenção, pode ser desenvolvida a título facultativo no âmbito de um eixo de intervenção distinto desde que exista fundamento para o efeito.\n\n5 - Através de despacho conjunto dos membros de governo responsáveis pelas áreas das autarquias locais e da segurança social, podem ser definidos novos eixos de intervenção, para além daqueles a que se refere o n.º 1."
+  },
+  "230022789": {
+   "fragment_id": "230010693",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano de ação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Plano de ação\n\n1 - O plano de ação é um instrumento de planeamento da intervenção, a desenvolver pelo CLDS, ao longo da sua vigência.\n\n2 - O plano de ação é elaborado com base em instrumentos de planeamento adequados à natureza e dimensão territorial do CLDS, tais como os elaborados pelo CLAS, nomeadamente diagnóstico social, plano de desenvolvimento social e instrumentos de planeamento municipal, bem como no âmbito dos Contratos Locais de Segurança.\n\n3 - O plano de ação organiza-se em eixos e ações.\n\n4 - O plano de ação deve prever todas as ações a desenvolver pelo CLDS, incluindo as não financiadas."
+  },
+  "230022790": {
+   "fragment_id": "230010694",
+   "type": 11,
+   "heading": "Artigo 7.º — Ações do eixo 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ações do eixo 1\n\nConsideram-se obrigatórias no âmbito do eixo 1, as seguintes ações:\n\na) Favorecer os processos de integração profissional, social e pessoal, dos desempregados, designadamente:\n\ni) Capacitar e ajudar a desenvolver atitudes de procura ativa de emprego;\n\nii) Informar sobre o conteúdo e abrangência das medidas ativas de emprego e oportunidades de inserção em instituições do território;\n\niii) Apoiar o enquadramento de projetos de autoemprego e de empreendedorismo nos diferentes programas e instrumentos de apoio, promovendo o encaminhamento dos interessados para o apoio técnico;\n\niv) Informar e encaminhar para oportunidades de qualificação desenvolvidas pelas autoridades públicas e privadas.\n\nb) Sensibilizar os empresários, as instituições e as entidades empregadoras locais para uma participação ativa na concretização de medidas ativas de emprego e em processos de inserção profissional e social, designadamente no combate à segregação profissional entre homens e mulheres e de grupos vulneráveis e discriminados em razão da origem ético-racial e da nacionalidade;\n\nc) Contribuir para a sinalização, encaminhamento e orientação de alunos que abandonam ou concluem o sistema educativo, no sentido de desenvolver ações de redefinição de percursos de aprendizagem ou de favorecimento da integração profissional ao longo da vida;\n\nd) Desenvolver ações que estimulem as capacidades empreendedoras e de inovação social, de jovens estudantes, numa perspetiva de reforço da iniciativa, da inovação, da criatividade, do gosto pelo risco e que constituam uma primeira abordagem à atividade empresarial."
+  },
+  "230022791": {
+   "fragment_id": "230010695",
+   "type": 11,
+   "heading": "Artigo 8.º — Ações do eixo 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ações do eixo 2\n\nConsideram-se ações obrigatórias no âmbito do eixo 2, as seguintes ações:\n\na) Em ações dirigidas, prioritariamente, aos agregados familiares de baixos rendimentos com crianças, com o propósito de os apoiar:\n\ni) Em processos de qualificação familiar, designadamente os que propiciam informação sobre os seus direitos de cidadania, o desenvolvimento de competências dos respetivos elementos e de aconselhamento em situação de crise, considerando, quando for o caso, as necessidades de aprendizagem ou reforço do domínio da língua portuguesa;\n\nii) Na mediação dos conflitos familiares, em articulação com as equipas que intervêm com as famílias e/ou as suas crianças, promovendo a proteção e promoção dos direitos das crianças e jovens.\n\nb) Em ações de mobilização das crianças e jovens, em especial as que pertencem a agregados de baixos rendimentos, promovendo estilos de vida saudáveis e a integração na comunidade, nomeadamente através da participação deste em ações nos domínios: da saúde, do desporto, da cultura e da educação para uma cidadania plena."
+  },
+  "230022792": {
+   "fragment_id": "230010696",
+   "type": 11,
+   "heading": "Artigo 9.º — Ações do eixo 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Ações do eixo 3\n\nConsideram-se ações obrigatórias, no âmbito do eixo 3, as seguintes ações:\n\na) Ações socioculturais que promovam o envelhecimento ativo e a autonomia das pessoas idosas;\n\nb) Ações de combate à solidão e ao isolamento, em particular da população sénior, salvaguardando a sua integridade física e mental, reforçando uma intervenção qualificada promotora da sua integração social numa dinâmica de acompanhamento institucional e multidisciplinar;\n\nc) Desenvolvimento de projetos de voluntariado vocacionados para o trabalho com populações envelhecidas."
+  },
+  "230022793": {
+   "fragment_id": "230010697",
+   "type": 11,
+   "heading": "Artigo 10.º — Ações do eixo 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Ações do eixo 4\n\nSem prejuízo das ações de emergência a desenvolver em situações de calamidade, consideram-se ações obrigatórias do eixo 4, as seguintes ações:\n\na) Desenvolvimento de ações de promoção da auto-organização dos habitantes do território e à criação/revitalização de associações, designadamente de moradores, temáticas ou juvenis, através de estímulo aos grupos alvo, de acompanhamento de técnicos facilitadores das iniciativas, e da disponibilização de espaços para guarda de material de desgaste e de apoio;\n\nb) Desenvolvimento de instrumentos facilitadores do acesso das pessoas a serviços públicos de utilidade pública, a nível local, reduzindo o isolamento e a exclusão social."
+  },
+  "230022794": {
+   "fragment_id": "230010698",
+   "type": 1,
+   "heading": "Capítulo II — Entidades envolvidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Entidades envolvidas"
+  },
+  "230022795": {
+   "fragment_id": "230010699",
+   "type": 11,
+   "heading": "Artigo 11.º — Entidade coordenadora local da parceria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entidade coordenadora local da parceria\n\n1 - A câmara municipal constitui-se entidade coordenadora local da parceria (ECLP) em cada CLDS, sem prejuízo do disposto do número seguinte.\n\n2 - A câmara municipal pode selecionar uma ECLP, mediante parecer obrigatório do CLAS, de entre entidades de direito privado sem fins lucrativos que atuem na área do desenvolvimento social, designadamente instituições particulares de solidariedade social (IPSS) e equiparadas, associações de desenvolvimento local (ADL) e organizações não governamentais (ONG) sediadas, preferencialmente, nos territórios a intervencionar, desde que reúna os seguintes requisitos:\n\na) Encontrar-se regularmente constituída e devidamente registada;\n\nb) Ter a situação regularizada perante a segurança social e a administração fiscal;\n\nc) Ter a situação regularizada em matéria de reposições no âmbito dos financiamentos dos Fundos Europeus Estruturais e de Investimento (FEEI);\n\nd) Ter a situação regularizada perante o município;\n\ne) Possuir contabilidade organizada, elaborada por um técnico oficial de contas (TOC);\n\nf) Demonstrar capacidade de coordenação técnica, administrativa e financeira.\n\n3 - A ECLP é responsável pela coordenação administrativa e financeira do CLDS, assumindo a função de interlocutora da parceria com o ISS, I. P., e com as entidades gestoras dos fundos nacionais ou europeus que financiem os CLDS.\n\n4 - Compete à ECLP, designadamente:\n\na) Dinamizar e coordenar a execução do plano de ação, previsto no artigo 6.º, e correspondente orçamento;\n\nb) Desenvolver a totalidade ou parte das ações previstas no n.º 4 do artigo 6.º;\n\nc) Receber e gerir o financiamento e transferi-lo para as restantes entidades da parceria, quando existam;\n\nd) Enquadrar e proceder à afetação de um trabalhador do seu mapa de pessoal ou à contratação do coordenador técnico do CLDS e outros recursos humanos de apoio ao coordenador, de acordo com as condições específicas de implementação fixadas de acordo com as normas orientadoras para a execução do CLDS;\n\ne) Organizar e manter atualizados os processos contabilísticos e o dossier técnico do CLDS;\n\nf) Garantir, através do coordenador técnico, a recolha dos comprovativos do cumprimento dos requisitos impostos às entidades locais executoras das ações, previstos no n.º 2;\n\ng) Garantir a organização e a produção documental necessária à elaboração de relatórios de execução e final do CLDS;\n\nh) Garantir o cumprimento das disposições nacionais e comunitárias decorrentes do financiamento comunitário, quando aplicável."
+  },
+  "230022796": {
+   "fragment_id": "230010700",
+   "type": 11,
+   "heading": "Artigo 12.º — Entidade local executora das ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entidade local executora das ações\n\n1 - As ações previstas no plano de ação, a que se refere o artigo 6.º, são desenvolvidas nos termos do n.º 1 do artigo anterior pela ECLP, através dos seus próprios meios, e ou por entidades sedeadas no território de intervenção, designadas por entidade local de execução das ações (ELEA).\n\n2 - Quando não são desenvolvidas pela ECLP nos termos do número anterior, podem ser desenvolvidas por ELEA, estando a sua seleção sujeita a parecer obrigatório do CLAS.\n\n3 - As ELEA são selecionadas pela ECLP, mediante decisão fundamentada, de entre entidades de direito público, de direito privado sem fins lucrativos que atuem na área do desenvolvimento social, ou de direito privado com fins lucrativos, neste último caso apenas se integrarem o CLAS, desde que reúnam os requisitos referidos no n.º 2 do artigo anterior e sejam sediadas, preferencialmente, nos territórios a intervencionar.\n\n4 - As ELEA que integram cada CLDS não podem ser em número superior a três.\n\n5 - Compete às ELEA:\n\na) Executar diretamente a ação ou as ações constantes do plano de ação previsto no artigo 6.º;\n\nb) Constituir equipas de acordo com as condições específicas de implementação fixadas nas normas orientadoras para a execução do CLDS;\n\nc) Reportar à ECLP o desenvolvimento das ações;\n\nd) Organizar e manter atualizados os processos contabilísticos e o dossier técnico das ações que desenvolvem;\n\ne) Garantir a organização e a produção documental necessárias à interlocução com ECLP;\n\nf) Apresentar à ECLP, através do coordenador técnico do CLDS, a declaração de que possuem capacidade de coordenação técnica, administrativa e financeira para desenvolver as ações previstas no plano de ação que lhe são incumbidas."
+  },
+  "230022797": {
+   "fragment_id": "230010701",
+   "type": 11,
+   "heading": "Artigo 13.º — Coordenador técnico do CLDS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Coordenador técnico do CLDS\n\n1 - O coordenador técnico do CLDS deve ter formação superior ou experiência profissional relevante para o exercício destas funções, um perfil que alie competências de gestão e de trabalho em equipa, bem como experiência na coordenação e na dinamização de parcerias, reconhecida por parte dos atores locais.\n\n2 - A identificação do coordenador técnico do CLDS deve constar do plano de ação, acompanhada do curriculum vitae e da declaração da sua afetação a tempo completo e em regime de exclusividade.\n\n3 - Compete ao coordenador técnico:\n\na) Coordenar as diferentes ações do CLDS, assegurar as relações interinstitucionais, dentro e fora do território a intervencionar, bem como realizar os relatórios previstos no presente Regulamento e garantir a execução orçamental;\n\nb) Gerir os processos administrativos e financeiros de acompanhamento e de monitorização da execução das ações;\n\nc) Implementar a recolha e a difusão de toda a informação necessária à boa execução do CLDS;\n\nd) Apoiar o processo de dinamização de parcerias no âmbito do desenvolvimento do CLDS, por forma a criar as melhores condições para o cumprimento das metas fixadas no plano de ação;\n\ne) Proceder à articulação com o CLAS, com vista à apresentação periódica dos resultados das ações do CLDS, bem como dos relatórios previstos, solicitando, para o efeito, a inclusão dos assuntos a tratar nas agendas das respetivas reuniões plenárias;\n\nf) Promover a articulação das atividades do CLDS com as políticas nacionais e/ou europeias, na perspetiva da complementaridade das intervenções e da sustentabilidade do CLDS;\n\ng) Dinamizar processos de negociação com os interlocutores considerados necessários à concretização dos objetivos do CLDS.\n\n4 - O coordenador técnico, afeto ao CLDS, exerce as suas funções a tempo completo, não podendo acumular com outras funções, ainda que não remuneradas, que sejam conflituantes.\n\n5 - O coordenador técnico pode ser substituído a qualquer momento, devendo tal substituição cumprir os requisitos expressos nos números anteriores.\n\n6 - O não cumprimento do disposto nos números anteriores pode determinar a não elegibilidade da remuneração relativa ao coordenador técnico do CLDS."
+  },
+  "230022798": {
+   "fragment_id": "230010702",
+   "type": 1,
+   "heading": "Capítulo III — Normas procedimentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Normas procedimentais"
+  },
+  "230022799": {
+   "fragment_id": "230010703",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimento inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimento inicial\n\n1 - A ECLP deve selecionar nos termos previstos no presente regulamento, a(s) ELEA e aprovar a constituição de uma parceria para o desenvolvimento do CLDS.\n\n2 - A seleção da ECLP pela câmara municipal nos termos do n.º 2 do artigo 11.º, bem como da(s) ELEA são submetidas a parecer obrigatório prévio do CLAS.\n\n3 - A ECLP deve, com acordo da câmara municipal, designar um coordenador técnico para o respetivo CLDS, que cumpra os requisitos referidos no artigo anterior."
+  },
+  "230022800": {
+   "fragment_id": "230010704",
+   "type": 11,
+   "heading": "Artigo 15.º — Elaboração do plano de ação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Elaboração do plano de ação\n\n1 - O plano de ação é elaborado para o período previsto no despacho referido no n.º 2 do artigo 2.º sendo constituído por ações obrigatórias e facultativas a financiar e, quando existam, por ações facultativas não financiadas no âmbito do CLDS, organizadas por eixo de intervenção, e deve conter:\n\na) Os objetivos a atingir pelo CLDS;\n\nb) Os eixos de intervenção, as ações obrigatórias e as não obrigatórias, quando existentes, bem como a sua descrição;\n\nc) A caracterização dos destinatários a abranger por ação;\n\nd) Os limites do território de intervenção, quando infra concelhio, com indicação das freguesias que o integram;\n\ne) Os indicadores de execução e de resultados esperados;\n\nf) O orçamento desagregado, por rubricas orçamentais e por ano civil e correspondentes cronogramas físico e financeiro;\n\ng) As entidades locais executoras das ações;\n\nh) A identificação do coordenador técnico do CLDS, acompanhada do respetivo curriculum vitae e declaração da sua afetação por período normal de trabalho a tempo completo e em exclusividade.\n\n2 - Quando, no território de intervenção do CLDS, existam outros programas destinados a públicos-alvo específicos, o plano de ação deve indicar as formas de articulação com os projetos desenvolvidos no âmbito desses programas, caso existam, não podendo, contudo, as ações que venham a ser incluídas no CLDS, sobrepor-se às ações desenvolvidas nesses mesmos projetos.\n\n3 - O montante de financiamento previsto no plano de ação não pode exceder o limite máximo de financiamento previsto para o território de intervenção a que se destina, devendo ser consideradas, sempre que previsto, as receitas geradas pela atividade do CLDS.\n\n4 - O plano de ação deve, ainda, conter as ações não financiadas pelo Programa CLDS, entendidas pelo CLAS como importantes para a intervenção territorial a realizar, nomeadamente ações que mobilizem os recursos disponíveis na comunidade, promovendo o desenvolvimento integrado do CLDS em diversas áreas de intervenção, designadamente na integração, habitação, saúde, desporto, educação e reabilitação urbana.\n\n5 - O plano de ação é elaborado pela ECLP e, sempre que possível, com a colaboração do núcleo executivo do CLAS e do coordenador técnico do CLDS, devendo as ações ser definidas na sequência de processos de participação e auscultação dos munícipes.\n\n6 - O plano de ação é submetido a parecer do CLAS, sendo o parecer emitido no prazo de 15 dias após a submissão."
+  },
+  "230022801": {
+   "fragment_id": "230010705",
+   "type": 11,
+   "heading": "Artigo 16.º — Aprovação do plano de ação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Aprovação do plano de ação\n\nApós a emissão do parecer referido no n.º 6 do artigo anterior, o plano de ação é aprovado pela câmara municipal, tendo em consideração:\n\na) A verificação da pertinência da intervenção face aos objetivos do CLDS;\n\nb) A coerência do plano de ação com os instrumentos de planeamento municipais ou supramunicipais e com o diagnóstico social e o plano de desenvolvimento social;\n\nc) Os objetivos, as metas, as ações propostas e os recursos a afetar ao CLDS."
+  },
+  "230022802": {
+   "fragment_id": "230010706",
+   "type": 1,
+   "heading": "Capítulo IV — Implementação e Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Implementação e Acompanhamento"
+  },
+  "230022803": {
+   "fragment_id": "230010707",
+   "type": 11,
+   "heading": "Artigo 17.º — Implementação das ações e acompanhamento do Programa CLDS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Implementação das ações e acompanhamento do Programa CLDS\n\n1 - O acompanhamento da implementação das ações do CLDS cabe à ECPL que, para o efeito, deve:\n\na) Articular com o núcleo executivo do CLAS, ao qual compete o acompanhamento da implementação do plano de ação;\n\nb) Solicitar a convocação do plenário do CLAS para apresentação de resultados do CLDS;\n\nc) Elaborar e apresentar relatórios de monitorização ao CLAS, com uma periodicidade semestral;\n\nd) Enviar os relatórios de execução anual ao CLAS, para conhecimento.\n\n2 - O acompanhamento do CLDS é da competência do ISS, I. P., exercida pelos serviços distritais do ISS, I. P., em articulação com os serviços centrais.\n\n3 - Compete ao diretor do centro distrital territorialmente competente designar o interlocutor executivo distrital.\n\n4 - Compete ao ISS, I. P., providenciar os instrumentos e os meios que garantam a realização de adequados procedimentos de acompanhamento do CLDS, bem como elaborar, anualmente, o respetivo relatório.\n\n5 - O ISS, I. P., pode recorrer à contratação de entidades externas para acompanhamento e consultoria."
+  },
+  "230022804": {
+   "fragment_id": "230010708",
+   "type": 11,
+   "heading": "Artigo 18.º — Condições específicas de implementação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Condições específicas de implementação\n\n1 - As ELEA devem designar um técnico, que assume a responsabilidade pela respetiva execução, em articulação com o coordenador técnico do CLDS.\n\n2 - Para a implementação dos CLDS devem ser constituídas equipas nos termos a definir pelo membro do Governo responsável pela área do trabalho, solidariedade e segurança social que constem em aviso de abertura de candidaturas.\n\n3 - A seleção dos técnicos a afetar às ações deve ser efetuada pela ELEA e pelo coordenador técnico do CLDS.\n\n4 - As ELEA podem reafetar técnicos com quem têm contratos de trabalho, desde que cumpram os critérios estabelecidos no n.º 2 e fiquem afetos às ações a desenvolver a tempo completo.\n\n114065694"
+  },
+  "235156303": {
+   "fragment_id": "230010680",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria define, nos termos da alínea h) do n.º 1 do artigo 3.º e do artigo 8.º do Decreto-Lei n.º 55/2020, de 12 de agosto, na sua atual redação, o exercício de competências de coordenação administrativa e financeira do Programa de Contratos Locais de Desenvolvimento Social pelas autarquias locais.\n\n2 - A presente portaria aplica-se aos municípios de Portugal continental.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156304": {
+   "fragment_id": "230010682",
+   "type": 11,
+   "heading": "Artigo 3.º — Financiamento",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 3.º — Financiamento\n\nO programa CLDS é passível de financiamento da União Europeia, sendo -lhe aplicáveis as respetivas disposições comunitárias e nacionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156305": {
+   "fragment_id": "230010683",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma Transitória e Revogação",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 4.º — Norma Transitória e Revogação\n\n1 — As disposições previstas na Portaria n.º 229/2018, de 14 de agosto, são aplicáveis aos CLDS 4G aprovados ao abrigo das mesmas, até à conclusão dos respetivos processos.\n\n2 - A Portaria n.º 229/2018, de 14 de agosto, fica revogada com a conclusão dos processos CLDS 4G.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "230022781": {
+   "fragment_id": "230010685",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão. - A Ministra da Modernização do Estado e da Administração Pública, Alexandra Ludomila Ribeiro Fernandes Leitão. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\nEm 11 de março de 2021."
+  },
+  "235156306": {
+   "fragment_id": "230010689",
+   "type": 11,
+   "heading": "Artigo 2.º — Territórios de intervenção",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 2.º — Territórios de intervenção\n\n1 — A identificação dos territórios de intervenção do CLDS inicia -se com a definição de uma lista de concelhos, tendo por base as suas características em termos de vulnerabilidade social e em função dos valores de um conjunto de indicadores.\n\n2 - A lista de concelhos, os indicadores que estiveram na base da sua seleção e os critérios para definição do nível de financiamento, são objeto de despacho do membro do Governo responsável pelas áreas do trabalho, solidariedade e segurança social, sob proposta conjunta do Instituto da Segurança Social, I. P. (ISS, I. P.) e do Gabinete de Estratégia e Planeamento (GEP) do Ministério do Trabalho, Solidariedade e Segurança Social, após audição obrigatória da Associação Nacional de Municípios Portugueses.\n\n3 - As câmaras municipais dos concelhos constantes da lista são convidadas pelo ISS, I. P., a manifestar, após o conhecimento dos indicadores e critérios mencionados no número anterior, no prazo de 10 dias, o seu interesse no processo.\n\n4 - A lista de concelhos referida no número anterior é publicitada na página eletrónica do ISS, I. P., e de cada concelho abrangido.\n\n5 - Os territórios a abranger pelos CLDS assumem perfis definidos tendo por referência o conjunto de indicadores mencionados no n.º 1:\n\na) Territórios especialmente afetados por desemprego;\n\nb) Territórios com situações críticas de pobreza ou exclusão social, particularmente a infantil;\n\nc) Territórios envelhecidos;\n\nd) Territórios com reconfigurações sociodemográficas acentuadas;\n\ne) Territórios vulneráveis a contextos de emergência social e ou cenários de exceção.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156307": {
+   "fragment_id": "230010691",
+   "type": 11,
+   "heading": "Artigo 4.º — Candidatura",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 4.º — Candidatura\n\nÉ apresentada uma candidatura por cada um dos territórios constantes da lista referida no n.º 2 do artigo 2.º e pela duração referida no artigo anterior, sem prejuízo do que for definido no aviso de abertura de candidaturas.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156308": {
+   "fragment_id": "230010692",
+   "type": 11,
+   "heading": "Artigo 5.º — Eixos de intervenção e ações",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 5.º — Eixos de intervenção e ações\n\n1 - As ações a desenvolver pelo CLDS integram os seguintes eixos de intervenção:\n\na) Eixo 1: Emprego, formação e qualificação;\n\nb) Eixo 2: Combate à pobreza e à exclusão social das crianças e dos jovens, promotor de uma efetiva garantia para a infância;\n\nc) Eixo 3: Promoção da autonomia, envelhecimento ativo e longevidade;\n\nd) Eixo 4: Desenvolvimento social, capacitação comunitária e intervenção em contextos de emergência social e de cenários de exceção.\n\n2 — Em função dos perfis de cada território, definidos nos termos do n.º 5 do artigo 2.º devem ser desenvolvidas as ações previstas em cada um dos eixos correspondentes a determinado perfil.\n\n3 — Os eixos de intervenção no âmbito do CLDS concretizam -se em ações a desenvolver no território, ao longo do período de execução dos projetos.\n\n4 — Para os efeitos previstos no número anterior, devem ser desenvolvidas no mínimo 6 (seis) ações dos eixos de intervenção correspondentes ao perfil de cada território.\n\n5 — Podem ainda, ser desenvolvidas ações não financiadas pelo programa CLDS, desde que entendidas pelo CLAS como importantes para a intervenção territorial a realizar, nos termos previstos no n.º 4 do artigo 15.º\n\n6 — Através de despacho conjunto dos membros de governo responsáveis pelas áreas das finanças, autarquias locais e do trabalho, solidariedade e segurança social podem ser definidos novos eixos de intervenção, para além daqueles a que se refere o n.º 1.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156309": {
+   "fragment_id": "230010693",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano de ação",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 6.º — Plano de ação\n\n1 - O plano de ação é um instrumento de planeamento da intervenção, a desenvolver pelo CLDS, ao longo da sua vigência.\n\n2 - O plano de ação é realizado com base em instrumentos de planeamento elaborados no âmbito da Rede Social e adequados à natureza e dimensão territorial do CLDS, nomeadamente o diagnóstico social e o plano de desenvolvimento social, bem como no âmbito dos Contratos Locais de Segurança, Planos Municipais de Proteção Civil, Planos Municipais de Integração de Migrantes, Plano de Ação para o Envelhecimento Ativo e Saudável, Plano de Ação de Combate à Pobreza e Garantia para a Infância, sem prejuízo de outros instrumentos de planeamento municipal considerados relevantes para as ações a desenvolver.\n\n3 - O plano de ação organiza-se em eixos e ações.\n\n4 - O plano de ação deve prever todas as ações a desenvolver pelo CLDS, incluindo as não financiadas.\n\n5 - O plano de ação deve ter metas alinhadas com os instrumentos referidos no n.º 2.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156310": {
+   "fragment_id": "230010694",
+   "type": 11,
+   "heading": "Artigo 7.º — Ações do eixo 1",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 7.º — Ações do eixo 1\n\nConsideram -se inseridas no âmbito do eixo 1, as seguintes ações:\n\na) Favorecer os processos de integração profissional, social e pessoal, dos desempregados, em estreita cooperação com as unidades locais do Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.):\n\ni) Capacitar e ajudar a desenvolver atitudes de procura ativa de emprego;\n\nii) Informar sobre o conteúdo e abrangência das medidas ativas de emprego e oportunidades de inserção profissional em todo o território;\n\niii) Apoiar o enquadramento de projetos de autoemprego e de empreendedorismo nos diferentes programas e instrumentos de apoio, promovendo o encaminhamento dos interessados para o apoio técnico;\n\niv) Informar e encaminhar para oportunidades de qualificação desenvolvidas pelas autoridades públicas e privadas, nomeadamente medidas no âmbito da empregabilidade de jovens, de cuidadores informais, de pessoas com deficiência, de pessoas LGBTQIA+, migrantes e de pessoas em situação de vulnerabilidade.\n\nb) Sensibilizar os empresários, as instituições e as entidades empregadoras locais para uma participação ativa na concretização de medidas ativas de emprego e em processos de inserção profissional e social, designadamente na inserção socioprofissional e regresso ao mercado de trabalho do cuidador informal, de pessoas com deficiência, de pessoas LGBTQIA+ e migrantes, e no combate à segregação do género, de grupos vulneráveis e discriminados em razão da origem étnico -racial e da nacionalidade;\n\nc) Desenvolver ações de apoio à capacitação, empregabilidade e integração social de grupos de migrantes;\n\nd) Desenvolver ações que estimulem as capacidades empreendedoras e de inovação social de jovens e de outras pessoas em idade ativa, numa perspetiva de reforço da iniciativa, inovação e criatividade, que constituam uma abordagem à atividade empresarial.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156311": {
+   "fragment_id": "230010695",
+   "type": 11,
+   "heading": "Artigo 8.º — Ações do eixo 2",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 8.º — Ações do eixo 2\n\nConsideram -se inseridas no âmbito do eixo 2, as seguintes ações, prioritariamente dirigidas aos agregados familiares de baixos rendimentos e com crianças:\n\na) Acompanhamento individualizado através de um Gestor da Infância, que intervém no âmbito do núcleo local da Garantia para a Infância.\n\nb) Ações que promovam e propiciem a igualdade de acesso das crianças e jovens em situação de vulnerabilidade a serviços essenciais de qualidade respeitantes a cuidados de primeira infância, educação e atividades em contexto escolar, saúde, alimentação saudável e habitação condigna, designadamente as que concorram diretamente para os objetivos da Garantia Europeia para a Infância;\n\nc) Ações de mobilização das crianças, dos jovens e suas famílias, em especial das mais vulneráveis, para promoção de estilos de vida saudáveis e a integração na comunidade, nomeadamente através da sua participação em atividades culturais, recreativas, desportivas e de educação para uma igualdade e cidadania plenas;\n\nd) Ações que promovam um acompanhamento de proximidade de apoio à infância e juventude no âmbito do desenvolvimento de uma intervenção local, integrada e participada;\n\ne) Ações dirigidas à promoção da inclusão e ao combate à discriminação das crianças e jovens, em particular as que se encontram em situação de especial vulnerabilidade, em razão da sua origem e condição;\n\nf) Desenvolvimento de iniciativas que favoreçam o acesso das crianças e jovens à informação e conhecimento sobre os seus direitos e promovam o associativismo, a participação e a intervenção cívica das crianças, dos jovens e das suas famílias.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156312": {
+   "fragment_id": "230010696",
+   "type": 11,
+   "heading": "Artigo 9.º — Ações do eixo 3",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 9.º — Ações do eixo 3\n\nConsideram -se inseridas no âmbito do eixo 3, as seguintes ações, as quais visam promover a autonomia, envelhecimento ativo e longevidade:\n\na) Acompanhamento individualizado através do Gestor 60+, técnico e ponto focal no diagnóstico e intervenção junto dos cidadãos idosos, com formação superior nomeadamente na área das ciências sociais e comportamento ou serviço social.\n\nb) Implementação do ‘Fórum Envelhecimento’, enquanto órgão de reflexão, ação estratégica, conceção e implementação de iniciativas e de propostas, no âmbito do qual são criados:\n\ni) ‘Conselhos de Vizinhos’ e ‘Bairros Sustentáveis’, os quais se consubstanciam na dinamização de plataformas de participação e consulta aos cidadãos idosos em situação de risco de dependência ou com dependência ou em situação de incapacidade, e às pessoas com deficiência, com o objetivo de criar comunidades autossustentáveis por ativação das redes de vizinhança e da rede social institucional, de forma a combater o isolamento e iliteracia e promover a participação\n\nna avaliação e definição de políticas locais de desenvolvimento social;\n\nii) Espaços Inov, que promovem a inovação social e práticas inspiradoras, potenciando a partilha de ideias e a criação de soluções que respondam às necessidades e expectativas das pessoas idosas, em situação de dependência ou pessoas com deficiência;\n\niii) Promoção da cultura, da história e da tradição local, por via da valorização e divulgação\n\ndas artes e ofícios do território, património ambiental e outros, promovendo projetos de empreendedorismo sénior;\n\nc) Promoção de ações que permitam a participação ativa na sociedade e promoção das relações sociais, em articulação com as Universidade de Terceira Idade ou de natureza similar para o desenvolvimento de atividades educativas, culturais, de lazer, desportivas, entre outras;\n\nd) Potenciação do desenvolvimento de competências, educação para a cidadania e para a consciencialização para o envelhecimento ativo e saudável, incluindo o desenvolvimento de atividades intergeracionais nas escolas;\n\ne) Consciencialização e sensibilização sobre a temática da violência às pessoas idosas e pessoas com deficiência, nomeadamente de sensibilização dos próprios, da sociedade e das instituições;\n\nf) Promoção da autonomia de pessoas idosas, pessoas em situação de dependência e pessoas com deficiência, designadamente que combatam o isolamento e a solidão e assegurem a participação de todos na sociedade, como no acesso a serviços públicos, a respostas sociais, entre outros serviços e cuidados, com o envolvimento de diversas entidades e setores, salvaguardando uma dinâmica de acompanhamento multidisciplinar, interinstitucional e multinível;\n\ng) Desenvolvimento de atividades itinerantes, de aproximação aos territórios e locais mais isolados, as quais se podem revestir de caráter informativo, cultural, de animação, entre outros;\n\nh) Promoção de projetos de voluntariado intra e intergeracional vocacionados para o trabalho com populações envelhecidas.\n\ni) Atividades de âmbito local e ou regionais em complementaridade com as atividades definidas no Plano de Ação para o Envelhecimento Ativo ou Saudável.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156313": {
+   "fragment_id": "230010697",
+   "type": 11,
+   "heading": "Artigo 10.º — Ações do eixo 4",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 10.º — Ações do eixo 4\n\nConsideram -se inseridas no âmbito do eixo 4, as seguintes ações, preferencialmente dirigidas ao combate à pobreza de agregados familiares ou grupos com baixos rendimentos, em situação de pobreza ou vulnerabilidade, e ações enquadradas no âmbito dos cenários de exceção ou emergência:\n\na) Promoção da igualdade de acesso das pessoas que integrem agregados familiares em situação de vulnerabilidade a serviços essenciais de qualidade respeitantes a cuidados de saúde, alimentação, habitação condigna e apoio social integrado;\n\nb) Dinamização de ações que promovam a integração dos agregados familiares mais vulneráveis na comunidade, nomeadamente através da sua participação em atividades culturais, recreativas, desportivas e de educação para uma igualdade e cidadania plenas;\n\nc) Realização de um acompanhamento de proximidade às situações de vulnerabilidade identificadas junto dos grupos alvo definidos, através da dinamização de um modelo de intervenção social baseado na identificação de gestores de caso que desenvolvam uma intervenção individualizada, integrada e participada;\n\nd) Desenvolvimento de ações que promovam a inclusão e o combate à discriminação dos cidadãos em situação de vulnerabilidade, especialmente em razão da sua origem, condição ou situação de deficiência ou dependência;\n\ne) Realização de ações de divulgação e informação aos cidadãos mais vulneráveis, sobre os seus direitos e deveres, e promoção do seu associativismo, participação e intervenção cívica;\n\nf) Promoção de uma intervenção social em contextos de emergência, em articulação interinstitucional e multinível, junto de grupos de migrantes em situação de extrema vulnerabilidade ou outros que requeiram apoio e intervenções de carácter imediato;\n\ng) Colaboração na promoção da inclusão social das famílias em situação de extrema vulnerabilidade, nomeadamente promovendo a ativação dos seus direitos, em articulação com outras entidades da Rede Social e da sociedade civil;\n\nh) Desenvolvimento de ações integradas que promovam o enquadramento e acompanhamento de pessoas em situação de sem abrigo, com vista à sua inclusão social plena;\n\ni) Promoção de ações de informação e formação e outras iniciativas que visem uma melhor consciência coletiva dos contextos de emergência social.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156314": {
+   "fragment_id": "230010699",
+   "type": 11,
+   "heading": "Artigo 11.º — Entidade coordenadora local da parceria",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 11.º — Entidade coordenadora local da parceria\n\n1 - A câmara municipal constitui-se entidade coordenadora local da parceria (ECLP) em cada CLDS, sem prejuízo do disposto do número seguinte.\n\n2 - A câmara municipal pode selecionar uma ECLP, mediante parecer obrigatório do CLAS, de entre entidades de direito privado sem fins lucrativos que atuem na área do desenvolvimento social, designadamente instituições particulares de solidariedade social (IPSS) e equiparadas, associações de desenvolvimento local (ADL) e organizações não governamentais (ONG) sediadas, preferencialmente, nos territórios a intervencionar, desde que reúna os seguintes requisitos:\n\na) Encontrar-se regularmente constituída e devidamente registada;\n\nb) Ter a situação regularizada perante a segurança social e a administração fiscal;\n\nc) Ter a situação regularizada em matéria de reposições no âmbito dos financiamentos dos Fundos Europeus Estruturais e de Investimento (FEEI);\n\nd) Ter a situação regularizada perante o município;\n\ne) Possuir contabilidade organizada, elaborada por um técnico oficial de contas (TOC);\n\nf) Demonstrar capacidade de coordenação técnica, administrativa e financeira.\n\n3 - A ECLP é responsável pela coordenação administrativa e financeira do CLDS, assumindo a função de interlocutora da parceria com o ISS, I. P., e com as entidades gestoras dos fundos nacionais ou europeus que financiem os CLDS.\n\n4 - Compete à ECLP, designadamente:\n\na) Dinamizar e coordenar a execução do plano de ação, previsto no artigo 6.º, e correspondente orçamento;\n\nb) Desenvolver as ações previstas no n.º 4 do artigo 6.º;\n\nc) Receber e gerir o financiamento e transferi-lo para as restantes entidades da parceria, quando existam;\n\nd) Enquadrar e proceder à afetação de um trabalhador do seu mapa de pessoal ou à contratação do coordenador técnico do CLDS e outros recursos humanos de apoio ao coordenador, de acordo com as condições específicas de implementação fixadas de acordo com as normas orientadoras para a execução do CLDS;\n\ne) Organizar e manter atualizados os processos contabilísticos e o dossier técnico do CLDS;\n\nf) Garantir, através do coordenador técnico, a recolha dos comprovativos do cumprimento dos requisitos impostos às entidades locais executoras das ações, previstos no n.º 2;\n\ng) Garantir a organização e a produção documental necessária à elaboração de relatórios de execução e final do CLDS;\n\nh) Garantir o cumprimento das disposições nacionais e comunitárias decorrentes do financiamento comunitário, quando aplicável.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156315": {
+   "fragment_id": "230010701",
+   "type": 11,
+   "heading": "Artigo 13.º — Constituição de Equipas Técnicas do CLDS",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 13.º — Constituição de Equipas Técnicas do CLDS\n\n1 - As equipas dos CLDS, são constituídas por um coordenador e técnicos superiores para o desenvolvimento das ações.\n\n2 - O coordenador técnico do CLDS deve ter formação superior ou experiência profissional relevante para o exercício destas funções, um perfil que alie competências de gestão e de trabalho em equipa, bem como experiência na coordenação e na dinamização de parcerias.\n\n3 - A identificação do coordenador técnico do CLDS deve constar do plano de ação, acompanhada do curriculum vitae e da declaração da sua afetação a tempo completo e em regime de exclusividade.\n\n4 - Compete ao coordenador técnico:\n\na) Coordenar as diferentes ações do CLDS, assegurar as relações interinstitucionais, dentro e fora do território a intervencionar, bem como realizar os relatórios previstos no presente Regulamento e garantir a execução orçamental;\n\nb) Gerir os processos administrativos e financeiros de acompanhamento e de monitorização da execução das ações;\n\nc) Implementar a recolha e a difusão de toda a informação, bem como ativar os recursos necessários à boa execução do CLDS;\n\nd) Apoiar o processo de dinamização de parcerias no âmbito do desenvolvimento do CLDS, por forma a criar as melhores condições para o cumprimento das metas fixadas no plano de ação;\n\ne) Proceder à articulação com o CLAS, com vista à apresentação periódica dos resultados das ações do CLDS, bem como dos relatórios previstos, solicitando, para o efeito, a inclusão dos assuntos a tratar nas agendas das respetivas reuniões plenárias;\n\nf) Promover a articulação e a coerência das atividades do CLDS com as políticas nacionais e europeias, na perspetiva de uma intervenção local integrada e participada e da sustentabilidade do CLDS;\n\ng) Dinamizar processos de negociação com os interlocutores considerados necessários à concretização dos objetivos do CLDS.\n\n5 - O coordenador técnico, afeto ao CLDS, exerce as suas funções a tempo completo, não podendo acumular com outras funções, ainda que não remuneradas, que sejam conflituantes.\n\n6 - O coordenador técnico pode ser substituído a qualquer momento, devendo tal substituição cumprir os requisitos expressos nos números anteriores.\n\n7 - O não cumprimento do disposto nos números anteriores pode determinar a não elegibilidade da remuneração relativa ao coordenador técnico do CLDS.\n\n8 - Os técnicos dos CLDS, devem possuir formação superior e experiência no desenvolvimento de trabalho com as populações.\n\n9 - Compete aos técnicos dos CLDS, sob a supervisão e orientação do coordenador:\n\na) Executar as diferentes ações do CLDS, dentro e fora do território a intervencionar, que estejam no âmbito da sua área de formação e especialização;\n\nb) Recolher a informação necessária no âmbito dessas ações para os relatórios previstos no presente Regulamento;\n\nc) Articular diretamente com os destinatários, no atendimento e acompanhamento dos mesmos, com vista à sua integração nas diferentes ações;\n\nd) Colaborar na recolha da informação necessária à difusão das diferentes ações;\n\ne) Colaborar no processo de dinamização de parcerias, caso existam, no âmbito do desenvolvimento do CLDS;\n\nf) Identificar necessidades específicas em termos da implementação das ações do CLDS e\n\nreportá -las ao Coordenador;\n\n10 - Os técnicos afetos ao CLDS, podem exercer as suas funções a tempo parcial ou completo, desde que assegurado o tempo previsto de afetação total da equipa ao projeto desenvolvido no respetivo território.\n\n11 - Os técnicos podem ser substituídos, devendo tal substituição cumprir os requisitos expressos nos números anteriores.\n\n12 - Os técnicos dos CLDS devem prestar a sua atividade em regime de contrato de trabalho sem termo, de acordo com a Agenda do Trabalho Digno\n\n13 - O não cumprimento do disposto nos números anteriores pode determinar a não elegibilidade da remuneração relativa aos técnicos do CLDS.\n\n14 - Para complemento da intervenção prevista no n.º 8, podem ser contratados recursos externos, para desenvolvimento de ações de natureza específica e com caráter pontual, desde que essa contratação tenha um caráter complementar e não se sobreponha às ações desenvolvidas pelos técnicos.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156316": {
+   "fragment_id": "230010704",
+   "type": 11,
+   "heading": "Artigo 15.º — Elaboração do plano de ação",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 15.º — Elaboração do plano de ação\n\n1 - O plano de ação é elaborado para o período previsto no despacho referido no n.º 2 do artigo 2.º, sendo constituído pelas ações descritas no n.º 3 do artigo 5.º, organizadas por eixo de intervenção, e deve conter:\n\na) Os objetivos a atingir pelo CLDS;\n\nb) Os eixos de intervenção, as ações a desenvolver, bem como a sua descrição;\n\nc) A caracterização dos destinatários a abranger por ação;\n\nd) Os limites do território de intervenção, quando infra concelhio, com indicação das freguesias que o integram;\n\ne) Os indicadores, metas e os resultados esperados;\n\nf) O orçamento desagregado, por rubricas orçamentais e por ano civil e correspondentes cronogramas físico e financeiro;\n\ng) As entidades locais executoras das ações;\n\nh) A identificação do coordenador técnico do CLDS, acompanhada do respetivo curriculum vitae e declaração da sua afetação por período normal de trabalho a tempo completo e em exclusividade.\n\n2 - Caso existam no território de intervenção do CLDS, outros programas destinados a públicos -alvo específicos, o plano de ação deve indicar as ações específicas a desenvolver, bem como definir os termos da sua complementaridade e articulação com os projetos desenvolvidos no âmbito dos referidos programas, não podendo as ações que venham a ser incluídas no CLDS, sobrepor -se às desenvolvidas nesses projetos.\n\n3 - O montante de financiamento previsto no plano de ação não pode exceder o limite máximo de financiamento previsto para o território de intervenção a que se destina, devendo ser consideradas, sempre que previsto, as receitas geradas pela atividade do CLDS.\n\n4 - O plano de ação deve, ainda, conter as ações não financiadas pelo Programa CLDS, entendidas pelo CLAS como importantes para a intervenção territorial a realizar, nomeadamente ações que mobilizem os recursos disponíveis na comunidade, promovendo o desenvolvimento integrado do CLDS em diversas áreas de intervenção, designadamente na integração, habitação, saúde, desporto, educação e reabilitação urbana.\n\n5 - O plano de ação é elaborado pela ECLP e, sempre que possível, com a colaboração do núcleo executivo do CLAS e do coordenador técnico do CLDS, devendo as ações ser definidas na sequência de processos de participação e auscultação dos munícipes.\n\n6 - O plano de ação é submetido a parecer do CLAS, sendo o parecer emitido no prazo de 15 dias após a submissão.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  },
+  "235156317": {
+   "fragment_id": "230010708",
+   "type": 11,
+   "heading": "Artigo 18.º — Condições específicas de implementação",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 18.º — Condições específicas de implementação\n\n1 - As ELEA devem designar um técnico, que assume a responsabilidade pela respetiva execução, em articulação com o coordenador técnico do CLDS.\n\n2 - Para a implementação dos CLDS devem ser constituídas equipas nos termos a definir pelo membro do Governo responsável pela área do trabalho, solidariedade e segurança social que constem em aviso de abertura de candidaturas.\n\n3 - A seleção dos técnicos a afetar às ações deve ser efetuada pela ELEA e pelo coordenador técnico do CLDS.\n\n4 - As ELEA podem reafetar técnicos com quem têm contratos de trabalho sem termo, desde que cumpram os critérios estabelecidos no n.º 2 e fiquem afetos às ações a desenvolver a tempo completo.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 428/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/428-2023-229915932), em vigor a partir de 2023-12-13"
+  }
+ }
+}

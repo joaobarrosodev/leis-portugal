@@ -1,0 +1,1761 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:445729:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/1971-182066504",
+ "dre_path": "/dr/detalhe/decreto/137-1971-445729",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1971-04-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "182067616",
+    "182066610",
+    "182066611",
+    "182066612",
+    "182066613",
+    "182066614",
+    "182066615",
+    "182066616",
+    "182066617",
+    "182066618",
+    "182066619",
+    "182066620",
+    "182066621",
+    "182066622",
+    "182066623",
+    "182066624",
+    "182066625",
+    "182066626",
+    "182066627",
+    "182066628",
+    "182066629",
+    "182066630",
+    "182066631",
+    "182066632",
+    "182066633",
+    "182066634",
+    "182066635",
+    "182066636",
+    "182066637",
+    "182066638",
+    "182066639",
+    "182066640",
+    "182066641",
+    "182066642",
+    "182066643",
+    "182066644",
+    "182066645",
+    "182066646",
+    "182066647",
+    "182066648",
+    "182066649",
+    "182066650",
+    "182066651",
+    "182066652",
+    "182066653",
+    "182066654",
+    "182066655",
+    "182066656",
+    "182066657",
+    "182066658",
+    "182066659",
+    "182066660",
+    "182066661",
+    "182066662",
+    "182066663",
+    "182066664",
+    "182066665",
+    "182066666",
+    "182066667",
+    "182066668",
+    "182066669",
+    "182066670",
+    "182066671",
+    "182066672",
+    "182066673",
+    "182066674",
+    "182067575",
+    "182067576",
+    "182067577",
+    "182067578",
+    "182067579",
+    "182067580",
+    "182067581",
+    "182067582",
+    "182067583",
+    "182067584"
+   ]
+  },
+  {
+   "date": "1980-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:457579:por",
+     "title": "Decreto-Lei n.º 521/80",
+     "published": "1980-11-05",
+     "dre_path": "/dr/detalhe/decreto-lei/521-1980-457579"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 41.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 45.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 50.º"
+   ],
+   "fragments": [
+    "182066609",
+    "182066610",
+    "182066611",
+    "182066612",
+    "182066613",
+    "182066614",
+    "182066615",
+    "182066616",
+    "182066617",
+    "182066618",
+    "182066619",
+    "182066620",
+    "182066621",
+    "182066622",
+    "182066623",
+    "182066624",
+    "182066625",
+    "182066626",
+    "182066627",
+    "182066628",
+    "182066629",
+    "182066630",
+    "182066631",
+    "182066632",
+    "182066633",
+    "182066634",
+    "182066635",
+    "182066636",
+    "182066637",
+    "182066638",
+    "182066639",
+    "182066640",
+    "182066641",
+    "182066642",
+    "182066643",
+    "182066644",
+    "182066645",
+    "182066646",
+    "182066647",
+    "182066648",
+    "182066649",
+    "182066650",
+    "182066651",
+    "182066652",
+    "182066653",
+    "182066654",
+    "182066655",
+    "182066656",
+    "182066657",
+    "182066658",
+    "182066659",
+    "182066660",
+    "182066661",
+    "182066662",
+    "182066663",
+    "182066664",
+    "182067586",
+    "182066666",
+    "182066667",
+    "182067592",
+    "182066669",
+    "182066670",
+    "182067587",
+    "182067588",
+    "182067593",
+    "182067594",
+    "182067589",
+    "182067590",
+    "182067577",
+    "182067578",
+    "182067579",
+    "182067580",
+    "182067581",
+    "182067582",
+    "182067583",
+    "182067584",
+    "182067585"
+   ]
+  },
+  {
+   "date": "1985-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:181190:por",
+     "title": "Decreto-Lei n.º 349/85",
+     "published": "1985-08-26",
+     "dre_path": "/dr/detalhe/decreto-lei/349-1985-181190"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "182067616",
+    "182067617",
+    "182067618",
+    "182067619",
+    "182067620",
+    "182067621",
+    "182067622",
+    "182067623",
+    "182067624",
+    "182067625",
+    "182067626",
+    "182067627",
+    "182067628",
+    "182067629",
+    "182067630",
+    "182067631",
+    "182067632",
+    "182067633",
+    "182067634",
+    "182067635",
+    "182067636",
+    "182067637",
+    "182067638",
+    "182067639",
+    "182067640",
+    "182067641",
+    "182067642",
+    "182067643",
+    "182067644",
+    "182067645",
+    "182067646",
+    "182067647",
+    "182067648",
+    "182067649",
+    "182067650",
+    "182067651",
+    "182067652",
+    "182067653",
+    "182067654",
+    "182067655",
+    "182067656",
+    "182067657",
+    "182067658",
+    "182067659",
+    "182067660",
+    "182067661",
+    "182067662",
+    "182067663",
+    "182067664",
+    "182067665",
+    "182067666",
+    "182067667",
+    "182067668",
+    "182067669",
+    "182067670",
+    "182067671",
+    "182067672",
+    "182067673",
+    "182067674",
+    "182068375",
+    "182068376",
+    "182068377",
+    "182068378",
+    "182068379",
+    "182068380",
+    "182068381",
+    "182068382",
+    "182068383",
+    "182068384",
+    "182068385",
+    "182068386",
+    "182068387",
+    "182068388",
+    "182068389",
+    "182068390",
+    "182068391",
+    "182068392"
+   ]
+  }
+ ],
+ "fragments": {
+  "182067616": {
+   "fragment_id": "182066505",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1985-08-27",
+   "changed_by": [],
+   "markdown": "Decreto n.º 137/71\n\nde 9 de Abril\n\nEm conformidade com o disposto no n.º 2 do artigo 24.º do Decreto-Lei n.º 49078, de 25 de Junho de 1969;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo único. É aprovado e posto em execução o Regulamento do Instituto de Socorros a Náufragos, que faz parte integrante deste decreto, e são revogados os Decretos n.os 41496 e 46858, respectivamente de 31 de Dezembro de 1957 e 7 de Fevereiro de 1966.\n\nMarcello Caetano - Manuel Pereira Crespo.\n\nPromulgado em 19 de Março de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nREGULAMENTO DO INSTITUTO DE SOCORROS A NÁUFRAGOS"
+  },
+  "182066610": {
+   "fragment_id": "182066506",
+   "type": 1,
+   "heading": "Capítulo I — Organização geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Organização geral"
+  },
+  "182066611": {
+   "fragment_id": "182066507",
+   "type": 8,
+   "heading": "Secção I — Órgãos do Instituto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Órgãos do Instituto"
+  },
+  "182066612": {
+   "fragment_id": "182066508",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1. O Instituto de Socorros a Náufragos (I. S. N.) é um organismo do Ministério da Marinha, com autonomia e na imediata dependência do director-geral dos Serviços de Fomento Marítimo.\n\n2. A missão e actividade do Instituto exerce-se em todo o litoral, rios e praias do continente e ilhas adjacentes.\n\n3. A direcção de operações de salvação marítima compete à autoridade marítima local, excepto quando essas operações envolvam meios militares, caso em que compete ao comandante da região naval em que se verificar o sinistro."
+  },
+  "182066613": {
+   "fragment_id": "182066509",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1. A acção do I. S. N. é exercida por:\n\na) Director;\n\nb) Subdirector;\n\nc) Órgãos centrais;\n\nd) Órgãos externos.\n\n2. Os órgãos centrais são:\n\na) Secretaria;\n\nb) Serviço de socorros a embarcações;\n\nc) Serviço de assistência nas praias;\n\nd) Serviço de material;\n\ne) Serviço de abastecimento;\n\nf) Conselho administrativo.\n\n3. Os órgãos externos, através dos quais o Instituto exerce a sua acção, são:\n\na) Delegações;\n\nb) Estações salva-vidas;\n\nc) Postos salva-vidas."
+  },
+  "182066614": {
+   "fragment_id": "182066510",
+   "type": 8,
+   "heading": "Secção II — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Director"
+  },
+  "182066615": {
+   "fragment_id": "182066511",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1. Ao director compete, de uma maneira geral, dirigir e fiscalizar toda a actividade do I. S. N. e, em especial:\n\na) Propor superiormente a criação, a extinção ou a transferência de estações e postos salva-vidas;\n\nb) Providenciar o apetrechamento das instalações com material apropriado;\n\nc) Facilitar a missão de colectividades humanitárias que pelos seus estatutos tenham o dever de prestar socorros a náufragos;\n\nd) Promover as experiências de meios de salvação que julgue convenientes e auxiliar a sua construção ou manufactura;\n\ne) Determinar a realização de exercícios frequentes, por forma a dispor de pessoal adestrado;\n\nf) Promover o funcionamento dos cursos e instruções ministrados pelo Instituto;\n\ng) Dirigir a publicação do Boletim do Instituto de Socorros a Náufragos;\n\nh) Corresponder-se directamente com entidades ou organismos oficiais e particulares;\n\ni) Propor a admissão, promoção e demissão de pessoal do quadro do pessoal civil do Instituto;\n\nj) Admitir, transferir ou demitir o pessoal assalariado e adventício;\n\nl) Informar, louvar e punir o pessoal militar e civil do Instituto, nos termos da legislação em vigor;\n\nm) Conceder licenças, nos termos da legislação em vigor, ao pessoal civil dependente do Instituto.\n\n2. O director é um oficial general da classe de marinha do quadro da reserva, ou um capitão-de-mar-e-guerra da mesma classe dos quadros do activo ou da reserva."
+  },
+  "182066616": {
+   "fragment_id": "182066512",
+   "type": 8,
+   "heading": "Secção III — Subdirector",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Subdirector"
+  },
+  "182066617": {
+   "fragment_id": "182066513",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1. Ao subdirector compete:\n\na) Substituir o director nos seus impedimentos;\n\nb) Exercer, por delegação do director, as funções que por este lhe forem atribuídas;\n\nc) Orientar o serviço da secretaria;\n\nd) Dirigir os cursos e instruções que funcionem a cargo do I. S. N.\n\n2. O subdirector é um oficial superior da classe de marinha dos quadros do activo ou da reserva."
+  },
+  "182066618": {
+   "fragment_id": "182066514",
+   "type": 8,
+   "heading": "Secção IV — Órgãos centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Órgãos centrais"
+  },
+  "182066619": {
+   "fragment_id": "182066515",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1. À secretaria compete:\n\na) Executar o serviço de correspondência, expediente e arquivo, com excepção do que pertença à secretaria do conselho administrativo;\n\nb) Elaborar e manter actualizados os registos das actividades do I. S. N. e outros necessários ao seu bom funcionamento;\n\nc) Elaborar e instruir os processos de admissão, transferência, promoção, aposentação e demissão do pessoal civil;\n\nd) Publicar a ordem de serviço do I. S. N. com a periodicidade necessária e nos moldes da ordem de serviço das unidades da Armada;\n\ne) Elaborar e publicar o Boletim do Instituto de Socorros a Náufragos.\n\n2. A secretaria, subordinada directamente ao subdirector, é chefiada por um primeiro-oficial do quadro do pessoal civil do Instituto."
+  },
+  "182066620": {
+   "fragment_id": "182066516",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1. Ao serviço de socorros a embarcações (S. S. E.) compete, de uma forma geral, dirigir e fiscalizar toda a actividade respeitante a socorros a embarcações e, em especial:\n\na) Propor a criação, extinção ou transferência de estações e postos salva-vidas;\n\nb) Propor a adopção de novos meios de salvação marítima;\n\nc) Fiscalizar a eficiência e conservação das instalações e material das estações e postos salva-vidas, informando das deficiências existentes;\n\nd) Dirigir e fiscalizar o adestramento do pessoal;\n\ne) Colaborar no funcionamento dos cursos e instruções ministrados pelo I. S. N.;\n\nf) Propor a admissão do pessoal das estações e postos salva-vidas;\n\ng) Informar sobre a actividade dos barcos salva-vidas e outro material de socorros a embarcações;\n\nh) Informar as propostas relativas a subsídios, pensões e recompensas relacionados com os socorros a embarcações;\n\ni) Estudar as causas dos sinistros marítimos e propor medidas para lhes restringir o número.\n\n2. O chefe do S. S. E. é um oficial superior da classe de marinha, que pode desempenhar as funções em acumulação com outras que exerça nos organismos do Ministério da Marinha."
+  },
+  "182066621": {
+   "fragment_id": "182066517",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1. Ao serviço de assistência nas praias (S. A. P.) compete, de uma forma geral, dirigir e fiscalizar toda a actividade respeitante à assistência nas praias e, em especial:\n\na) Propor a adopção de novos meios de assistência;\n\nb) Fiscalizar a eficiência e conservação das instalações e material e o cumprimento das disposições relativas à assistência nas praias, informando das deficiências existentes;\n\nc) Dirigir e fiscalizar o adestramento do pessoal;\n\nd) Colaborar no funcionamento dos cursos e instruções ministrados pelo I. S. N.;\n\ne) Informar as propostas relativas a subsídios, pensões e recompensas que sejam do âmbito do serviço;\n\nf) Propor medidas tendentes a melhorar a eficiência do serviço e a restringir o número de sinistros;\n\ng) Promover anualmente a informação necessária à prevenção de acidentes nas praias.\n\n2. A assistência nas praias regula-se por disposições próprias, nomeadamente o Regulamento de Assistência aos Banhistas nas Praias, promulgado pelo Decreto n.º 42305, de 5 de Junho de 1959, e alterado pelo Decreto n.º 49007, de 13 de Maio de 1969.\n\n3. O chefe do serviço de assistência nas praias é um oficial superior da classe de marinha, que pode desempenhar as funções em acumulação com outras que exerça nos organismos do Ministério da Marinha."
+  },
+  "182066622": {
+   "fragment_id": "182066518",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n- 1. Ao serviço de material compete manter eficiente todo o material de salvação, zelar pela conservação das instalações e, em especial:\n\na) Informar das necessidades de material que respeite ao serviço;\n\nb) Elaborar instruções técnicas para utilização, condução e conservação do material;\n\nc) Fornecer elementos de ordem técnica para elaboração de programas e cadernos de encargos para aquisição, reparação ou transformação de material e para construção, reparação ou transformação de instalações;\n\nd) Propor o abate e venda de material inútil ou desnecessário;\n\ne) Dirigir o apetrechamento dos meios de salvação, de acordo com as tabelas aprovadas;\n\nf) Informar as propostas para fornecimento, reparação ou modificação de material;\n\ng) Elaborar os programas de reparações e beneficiações periódicas de material.\n\n2. O serviço de material é chefiado por um oficial superior da classe dos engenheiros maquinistas navais dos quadros do activo ou reserva.\n\n3. Na dependência do chefe do serviço de material funcionam as oficinas do I. S. N., que incluem secções de construção naval, de reparações, de mecânica e de pintura."
+  },
+  "182066623": {
+   "fragment_id": "182066519",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1. Ao serviço de abastecimento compete:\n\na) Submeter à apreciação do conselho administrativo os assuntos de serviço que careçam da sua resolução;\n\nb) Obter, movimentar, armazenar, conservar e distribuir o material;\n\nc) Estabelecer os níveis de material de acordo com as tabelas aprovadas e as directivas superiores, controlando os consumos e promovendo a reconstituição dos níveis;\n\nd) Propor as aquisições para provimento e para satisfação das necessidades dos serviços;\n\ne) Organizar os cadernos de encargos, autos e outra documentação relativos a arrematações e contratos;\n\nf) Elaborar normas para o plano administrativo e contabilístico das oficinas, com vista ao cálculo exacto das obras produzidas;\n\ng) Promover a contabilização do material da sede e das estações e postos salva-vidas.\n\n2. O serviço de abastecimento é chefiado por um oficial superior da classe de administração naval dos quadros do activo ou reserva.\n\n3. O serviço de abastecimento utiliza a secretaria do conselho administrativo."
+  },
+  "182066624": {
+   "fragment_id": "182066520",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n- 1. A administração dos bens e das dotações e outras receitas próprias do I. S. N. é exercida por um conselho administrativo constituído nos termos do Regulamento de Administração da Fazenda Naval.\n\n2. Constituem receitas próprias do Instituto as que se encontram indicadas no artigo 12.º do Decreto-Lei n.º 41279, de 20 de Setembro de 1957, com a redacção que lhe foi imposta pelo Decreto-Lei n.º 455/70, de 2 de Outubro.\n\n3. O conselho administrativo rege-se pelas disposições aplicáveis do Regulamento de Administração da Fazenda Naval e pelos preceitos gerais da contabilidade pública competindo-lhe autorizar despesas nos termos e até aos limites estabelecidos para os órgãos dirigentes dos serviços autónomos e, em especial:\n\na) Propor à aprovação do Ministro da Marinha e visto do Ministro das Finanças o orçamento privativo e os orçamentos suplementares das receitas próprias e das despesas necessárias à realização das actividades do Instituto;\n\nb) Prestar contas da sua gerência ao Tribunal de Contas;\n\nc) Apreciar os processos de concessão dos subsídios, pensões e prémios pecuniários referidos no artigo 1.º do Decreto-Lei n.º 41279, com a redacção que lhe foi imposta pelo Decreto-Lei n.º 455/70, e fixar os respectivos quantitativos.\n\n4. O conselho administrativo dispõe de secretaria própria."
+  },
+  "182066625": {
+   "fragment_id": "182066521",
+   "type": 8,
+   "heading": "Secção V — Órgãos externos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Órgãos externos"
+  },
+  "182066626": {
+   "fragment_id": "182066522",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n- 1. As delegações do I. S. N. funcionam nas capitanias dos portos, para as respectivas áreas de jurisdição, e são responsáveis pelo exercício das actividades do I. S. N. nessas áreas.\n\n2. Os delegados do Instituto são os capitães dos portos, tendo como adjuntos os delegados marítimos nas respectivas áreas.\n\n3. Os capitães dos portos, como delegados do I. S. N., estão directamente subordinados ao director do Instituto, com quem se correspondem.\n\n4. Aos delegados do I. S. N. compete:\n\na) Propor medidas para aperfeiçoamento do serviço de socorros a náufragos;\n\nb) Propor a admissão de pessoal;\n\nc) Elaborar a proposta de orçamento e remetê-la na data determinada;\n\nd) Propor recompensas para actos de salvação marítima ou de socorros a náufragos e por serviços importantes prestados ao Instituto;\n\ne) Propor a concessão de subsídios e pensões referidos no artigo 1.º do Decreto-Lei n.º 41279, com a redacção que lhe foi imposta pelo Decreto-Lei n.º 455/70;\n\nf) Promover tudo o que possa concorrer para aumento das receitas do Instituto;\n\ng) Comunicar a actividade dos barcos salva-vidas e outro material de socorros a embarcações;\n\nh) Promover o adestramento do pessoal;\n\ni) Zelar pela eficiência e conservação do material e instalações, comunicando as deficiências que existam;\n\nj) Ordenar a saída dos barcos salva-vidas, ou mantê-los de prevenção, se necessário, conforme as condições de mau tempo;\n\nl) Fiscalizar o serviço dos patrões dos barcos salva-vidas;\n\nm) Fazer cumprir o estabelecido no Regulamento de Assistência aos Banhistas nas Praias e normas regulamentares;\n\nn) Dirigir a manobra de estabelecimento de cabos de vaivém, quer em exercícios, quer em operações de socorro, quando o julguem conveniente ou oportuno;\n\no) Relatar em pormenor qualquer naufrágio ou sinistro marítimo ocorrido na área da sua jurisdição, indicando as causas prováveis, a actuação e as sugestões que julguem convenientes;\n\np) Relatar qualquer salvamento devidamente testemunhado;\n\nq) Remeter mensalmente os mapas das receitas e despesas;\n\nr) Elaborar e manter actualizados a escrituração e os registos da sua delegação."
+  },
+  "182066627": {
+   "fragment_id": "182066523",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs capitanias dos portos que possuam oficinas prestam, dentro dos seus recursos, assistência técnica e oficinal ao material do I. S. N."
+  },
+  "182066628": {
+   "fragment_id": "182066524",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n- 1. As estações salva-vidas são os órgãos externos que dispõem, pelo menos, dos seguintes meios de salvação:\n\na) Barcos salva-vidas;\n\nb) Viaturas porta-cabos;\n\nc) Sinais de mau tempo diurnos e nocturnos e outros de uso internacional para prevenir de perigos e evitar sinistros;\n\nd) Indicações para demandar varadouros e abrigos;\n\ne) Socorros sanitários.\n\n2. Os postos salva-vidas são os órgãos externos que apenas dispõem de meios para estabelecimento de cabos de vaivém, com as respectivas viaturas, e socorros sanitários.\n\n3. As estações e postos salva-vidas dependem directamente do delegado do I. S. N. na respectiva área.\n\n4. As estações e postos salva-vidas tomam o nome das localidades onde estão situados. Excepcionalmente poderão tomar o nome de um indivíduo que, por salvamentos, naqueles se tenha distinguido ou de um protector que ao I. S. N. tenha prestado valiosos serviços.\n\n5. As estações e postos salva-vidas terão na frontaria os seguintes dizeres, encimados pelo distintivo do Instituto:\n\nMINISTÉRIO DA MARINHA\n\nINSTITUTO DE SOCORROS A NÁUFRAGOS\n\nESTAÇÃO (ou POSTO) SALVA-VIDAS DE ...\n\n6. As estações e postos salva-vidas que tomem o nome de um indivíduo terão na frontaria uma lápide com o resumo da sua biografia."
+  },
+  "182066629": {
+   "fragment_id": "182066525",
+   "type": 1,
+   "heading": "Capítulo II — Material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Material"
+  },
+  "182066630": {
+   "fragment_id": "182066526",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n- 1. Os serviços de socorros a náufragos abrangem o seguinte material:\n\na) Barcos salva-vidas e outras embarcações cujo emprego na salvaguarda da vida humana se considere vantajoso;\n\nb) Viaturas porta-cabos;\n\nc) Outros meios de salvação individual ou colectiva;\n\nd) Sinais de mau tempo diurnos e nocturnos e outros de uso internacional para prevenir de perigos ou evitar sinistros;\n\ne) Indicações para demandar varadouros e abrigos;\n\nf) Material de socorros sanitários;\n\ng) Postos de praias de banhos.\n\n2. As embarcações do I. S. N. são pintadas com as cores oficiais do Instituto (branco e vermelho), tendo nas amuras o número e nome da embarcação.\n\n3. Algumas das embarcações previstas na alínea a) do n.º 1 e as viaturas porta-cabos, sempre que possível e conveniente, podem ser confiadas a corporações de bombeiros.\n\n4. As viaturas do Instituto são pintadas de branco, tendo nas portas o distintivo do Instituto, encimado pelos dizeres:\n\nMINISTÉRIO DA MARINHA\n\nINSTITUTO DE SOCORROS A NÁUFRAGOS\n\n5. Os sinais referidos na alínea d) e as indicações da alínea e) do n.º 1 ficam sob a vigilância das autoridades marítimas locais.\n\n6. O material de socorros sanitários será confiado ao médico da Casa dos Pescadores, ao da corporação de bombeiros, ao do partido municipal ou a qualquer outro que se preste a esse benemérito serviço.\n\n7. Os postos de praias de banhos são da responsabilidade dos concessionários, nos termos do disposto no Regulamento de Assistência aos Banhistas nas Praias."
+  },
+  "182066631": {
+   "fragment_id": "182066527",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs barcos salva-vidas devem sair para o mar, pelo menos, uma vez por mês e o material dos cabos de vaivém deve ser utilizado, pelo menos, uma vez em cada trimestre, para adestramento do pessoal."
+  },
+  "182066632": {
+   "fragment_id": "182066528",
+   "type": 1,
+   "heading": "Capítulo III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pessoal"
+  },
+  "182066633": {
+   "fragment_id": "182066529",
+   "type": 8,
+   "heading": "Secção I — Provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Provimento"
+  },
+  "182066634": {
+   "fragment_id": "182066530",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO director do I. S. N. é nomeado pelo Ministro da Marinha, mediante proposta do director-geral dos Serviços de Fomento Marítimo."
+  },
+  "182066635": {
+   "fragment_id": "182066531",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA lotação do pessoal militar do I. S. N. é estabelecida por portaria do Ministro da Marinha."
+  },
+  "182066636": {
+   "fragment_id": "182066532",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n- 1. As categorias, efectivos e outras disposições relativas ao pessoal do quadro do pessoal civil do I. S. N. são regulados pelo Decreto-Lei n.º 41279, com as alterações impostas pelo Decreto-Lei n.º 455/70.\n\n2. O conselho administrativo pode, nos termos do artigo 15.º do Decreto-Lei n.º 41279, assalariar pessoal operário e admitir pessoal adventício necessário ao serviço dos barcos salva-vidas e cabos de vaivém.\n\n3. A admissão, movimento e promoção de pessoal civil realiza-se, de acordo com o disposto no Decreto-Lei n.º 618/70, de 14 de Dezembro, mediante instruções aprovadas por despacho do Ministro da Marinha."
+  },
+  "182066637": {
+   "fragment_id": "182066533",
+   "type": 8,
+   "heading": "Secção II — Uniformes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Uniformes"
+  },
+  "182066638": {
+   "fragment_id": "182066534",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n- 1. Os uniformes e distintivos a usar pelo pessoal civil do I. S. N. serão fixados por portaria do Ministro da Marinha.\n\n2. A portaria referida no número anterior fixará também os uniformes a fornecer, dentro das possibilidades do Instituto, ao pessoal do quadro permanente dos barcos salva-vidas e os que devem existir em cada estação ou posto para serem utilizados pelo pessoal adventício apenas durante o serviço."
+  },
+  "182066639": {
+   "fragment_id": "182066535",
+   "type": 8,
+   "heading": "Secção III — Penalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Penalidades"
+  },
+  "182066640": {
+   "fragment_id": "182066536",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO pessoal civil do I. S. N. responde perante o Tribunal Militar de Marinha pelas infracções cometidas no exercício das suas funções."
+  },
+  "182066641": {
+   "fragment_id": "182066537",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n- 1. O pessoal civil administrativo e auxiliar do I. S. N. fica sob a alçada do Regulamento de Disciplina Militar, na parte aplicável a civis, sendo louvado e punido pelo director.\n\n2. O pessoal civil dos barcos salva-vidas fica sob a alçada do Regulamento de Disciplina Militar, na parte aplicável a civis, sendo louvado e punido pelos delegados do I. S. N. das respectivas áreas, de acordo com a competência que lhes for conferida."
+  },
+  "182066642": {
+   "fragment_id": "182066538",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n- 1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções, da competência do director do I. S. N.:\n\na) Multa de um a dez dias, correspondentes ao salário diário do infractor;\n\nb) Demissão.\n\n2. A pena de demissão aplica-se também ao pessoal que, no decurso de doze meses consecutivos, seja punido com mais de quinze dias de multa."
+  },
+  "182066643": {
+   "fragment_id": "182066539",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n- 1. O pessoal adventício está sujeito, no respeitante a faltas disciplinares, às seguintes sanções:\n\na) Admoestação;\n\nb) Repreensão;\n\nc) Demissão.\n\n2. As sanções das alíneas a) e b) do número anterior são da competência dos delegados do I. S. N. e do director.\n\n3. A demissão é da competência do director e será proposta pelo delegado do Instituto quando, pela sua conduta, não convenha manter ao serviço o infractor."
+  },
+  "182066644": {
+   "fragment_id": "182066540",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs indivíduos demitidos sujeitos a obrigações militares na Armada prestam serviço militar nos termos da legislação aplicável."
+  },
+  "182066645": {
+   "fragment_id": "182066541",
+   "type": 8,
+   "heading": "Secção IV — Informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Informações"
+  },
+  "182066646": {
+   "fragment_id": "182066542",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nO pessoal militar do I. S. N. é informado pelo director, nos termos da legislação em vigor."
+  },
+  "182066647": {
+   "fragment_id": "182066543",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nO pessoal civil administrativo e auxiliar do quadro é informado pelo director do I. S. N."
+  },
+  "182066648": {
+   "fragment_id": "182066544",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n- 1. O pessoal civil dos barcos salva-vidas pertencente ao quadro é informado pelo director do I. S. N., em face das informações prestadas pelos capitães dos portos e delegados marítimos.\n\n2. Na área da Capitania do Porto de Lisboa, excluindo as delegações marítimas, as informações serão prestadas pelo director do serviço de socorros a embarcações."
+  },
+  "182066649": {
+   "fragment_id": "182066545",
+   "type": 1,
+   "heading": "Capítulo IV — Inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Inspecções"
+  },
+  "182066650": {
+   "fragment_id": "182066546",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n- 1. As inspecções têm por finalidade principal avaliar do estado de adestramento do pessoal e do grau de eficiência e conservação do material e instalações, com vista a detectar anomalias, erros e deficiências, de modo a corrigi-los prontamente, para que o I. S. N. cumpra eficientemente a sua missão.\n\n2. As inspecções são realizadas pelas seguintes entidades:\n\na) Subdirector;\n\nb) Chefe do serviço de socorros a embarcações;\n\nc) Chefe do serviço de assistência nas praias;\n\nd) Chefe do serviço de material;\n\ne) Chefe do serviço de abastecimento;\n\nf) Capitães dos portos, como delegados do I. S. N.\n\n3. Compete ao director do Instituto determinar ou autorizar a realização de inspecções pelas entidades das alíneas a), b), c), d) e e) do n.º 2.\n\n4. O subdirector pode propor ao director a realização das inspecções referidas no número anterior.\n\n5. As entidades referidas no n.º 2, quando em serviço de inspecção, têm autoridade para determinar a execução de medidas tendentes a melhorar o serviço, desde que as mesmas sejam necessárias e urgentes, informando o delegado do I. S. N. da respectiva área e o director das ordens dadas e causas que as motivaram."
+  },
+  "182066651": {
+   "fragment_id": "182066547",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n- 1. Ao subdirector, no exercício das suas funções de inspecção, compete:\n\na) Verificar o adestramento do pessoal;\n\nb) Avaliar a eficiência e conservação do material e das instalações;\n\nc) Informar o director das deficiências encontradas.\n\n2. O subdirector, quando em inspecção, pode fazer-se acompanhar por uma ou mais das entidades referidas nas alíneas b), c), d), e) e f) do n.º 2 do artigo 28.º"
+  },
+  "182066652": {
+   "fragment_id": "182066548",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n- 1. Os chefes dos serviços de socorros a embarcações e de assistência nas praias, depois de autorizados ou quando determinado pelo director do I. S. N., realizarão inspecções frequentes com vista a:\n\na) Verificar o adestramento do pessoal;\n\nb) Avaliar a eficiência e conservação do material e das instalações que interessem ao seu serviço;\n\nc) Informar o director das deficiências encontradas.\n\n2. Os relatórios das inspecções mencionarão o estado do material, as medidas para remediar as deficiências e a qualidade e competência do pessoal."
+  },
+  "182066653": {
+   "fragment_id": "182066549",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n- 1. O chefe do serviço de material, depois de autorizado ou quando determinado pelo director, realizará frequentes inspecções ao material das estações e postos salva-vidas.\n\n2. Os relatórios das inspecções mencionarão o estado do material, as medidas para remediar as deficiências encontradas e a qualidade e competência do pessoal que conduz o material."
+  },
+  "182066654": {
+   "fragment_id": "182066550",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nO chefe do serviço de abastecimento, depois de autorizado ou quando determinado pelo director, realizará as inspecções necessárias para verificar as existências de material das estações e postos salva-vidas e de outras instalações do I. S. N. e a forma como são cumpridas as determinações regulamentares em matéria administrativa."
+  },
+  "182066655": {
+   "fragment_id": "182066551",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nAos capitães dos portos, como delegados do I. S. N., compete:\n\na) Inspeccionar frequentemente o material e instalações de socorros a náufragos das áreas da sua jurisdição, incluindo o das praias de banhos;\n\nb) Verificar o adestramento do pessoal;\n\nc) Acompanhar, sempre que necessário, qualquer das entidades referidas nas alíneas a), b), c), d) e e) do n.º 2 do artigo 28.º nas inspecções que realizem nas áreas da sua jurisdição."
+  },
+  "182066656": {
+   "fragment_id": "182066552",
+   "type": 1,
+   "heading": "Capítulo V — Recompensas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Recompensas"
+  },
+  "182066657": {
+   "fragment_id": "182066553",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n- 1. As recompensas a atribuir por actos de salvação marítima e de socorros a náufragos são as seguintes:\n\na) Medalha de coragem, abnegação e humanidade;\n\nb) Diplomas de louvor;\n\nc) Prémios pecuniários;\n\nd) Menções de apreço.\n\n2. A medalha e os diplomas de louvor são concedidos por portaria do Ministro da Marinha, mediante proposta do director do I. S. N., em face de relatórios das autoridades marítimas, militares ou administrativas que tiverem conhecimento dos factos.\n\n3. Os prémios pecuniários e as menções de apreço são concedidos pelo director do Instituto, em presença de relatórios das autoridades marítimas, militares ou administrativas que tiverem conhecimento dos factos.\n\n4. A medalha, os diplomas de louvor e as menções de apreço são fornecidos gratuitamente pelo Instituto."
+  },
+  "182066658": {
+   "fragment_id": "182066554",
+   "type": 11,
+   "heading": "Artigo 35.º — - 1. A medalha de coragem, abnegação e humanidade compreende três graus:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — - 1. A medalha de coragem, abnegação e humanidade compreende três graus:\n\nMedalha de ouro;\n\nMedalha de prata;\n\nMedalha de cobre.\n\n2. A medalha é do modelo anexo a este Regulamento e é usada pendente de fita de seda encarnada, orlada de verde-escuro, de 0,03 m de largura.\n\n3. A medalha de ouro será concedida ao indivíduo ou colectividade que prestar um relevantíssimo serviço à salvação marítima ou que, tendo sido agraciado por duas vezes com a medalha de prata, tenha adquirido direito a terceira medalha da mesma natureza.\n\n4. A medalha de prata será concedida ao indivíduo ou colectividade que prestar um relevante serviço na salvação de náufragos ou que, tendo sido agraciado por duas vezes com a medalha de cobre, tenha adquirido direito a terceira medalha da mesma natureza.\n\n5. A medalha de cobre será concedida ao indivíduo ou colectividade que prestar um importante serviço na salvação de náufragos.\n\n6. Os indivíduos agraciados com pelo menos três medalhas de ouro usarão, em substituição de uma delas, uma insígnia de ouro, idêntica à da medalha e com o dobro do tamanho, suspensa de fita pendente do pescoço. A fita é idêntica à da medalha, mas com o dobro da largura.\n\n7. O direito ao uso da medalha e da insígnia referida no número anterior é concedido através do respectivo diploma de concessão, do modelo anexo a este Regulamento, assinado pelo director do Instituto."
+  },
+  "182066659": {
+   "fragment_id": "182066555",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n- 1. Os diplomas de louvor são concedidos aos indivíduos ou colectividades que prestarem valiosa colaboração na salvação de náufragos.\n\n2. Os diplomas de louvor, do modelo anexo a este Regulamento, são assinados pelo director do I. S. N."
+  },
+  "182066660": {
+   "fragment_id": "182066556",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n- 1. Os prémios pecuniários são concedidos pelo director do I. S. N. a indivíduos de fracos recursos económicos que tenham colaborado com relevo na salvação de náufragos.\n\n2. Os prémios pecuniários são acompanhados de ofício de louvor."
+  },
+  "182066661": {
+   "fragment_id": "182066557",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nAs menções de apreço, do modelo anexo a este Regulamento, são concedidas pelo director do I. S. N. a indivíduos cuja colaboração na salvação marítima ou em socorro de náufragos, sem justificar qualquer das recompensas das alíneas a), b) e c) do n.º 1 do artigo 34.º, seja digna de referência elogiosa."
+  },
+  "182066662": {
+   "fragment_id": "182066558",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n- 1. A recompensa a atribuir por serviços prestados ao I. S. N., que não sejam abrangidos pelo n.º 1 do artigo 34.º, é a medalha de filantropia e caridade.\n\n2. A medalha é concedida por portaria do Ministro da Marinha, mediante proposta do director do Instituto.\n\n3. A medalha é fornecida pelo Instituto, a expensas dos agraciados, salvo casos excepcionais em que o director entenda que tal encargo deverá pertencer ao Instituto."
+  },
+  "182066663": {
+   "fragment_id": "182066559",
+   "type": 11,
+   "heading": "Artigo 40.º — - 1. A medalha de filantropia e caridade compreende três graus:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — - 1. A medalha de filantropia e caridade compreende três graus:\n\nMedalha de ouro;\n\nMedalha de prata;\n\nMedalha de cobre.\n\n2. A medalha é do modelo anexo a este Regulamento e é usada pendente de fita de seda verde de 0,03 m de largura, tendo ao centro e de alto a baixo uma faixa branca com a largura de 0,006 m.\n\n3. A medalha de ouro será concedida aos protectores honorários, aos subscritores com quarenta e cinco anos consecutivos de pagamento de quotas mensais e aos indivíduos que tenham prestado ao Instituto serviços considerados como relevantes.\n\n4. A medalha de prata será concedida aos protectores benfeitores, aos subscritores com trinta anos consecutivos de pagamento de quotas mensais e aos indivíduos que tenham prestado ao Instituto serviços considerados como muito importantes.\n\n5. A medalha de cobre será concedida aos protectores doadores, aos subscritores com quinze anos consecutivos de pagamento de quotas mensais e aos indivíduos que tenham prestado ao Instituto serviços considerados como importantes.\n\n6. O direito ao uso da medalha é concedido através do respectivo diploma de concessão, do modelo anexo a este Regulamento, assinado pelo director do Instituto."
+  },
+  "182066664": {
+   "fragment_id": "182066560",
+   "type": 1,
+   "heading": "Capítulo VI — Protectores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Protectores"
+  },
+  "182066665": {
+   "fragment_id": "182066561",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n- 1. Podem ser protectores do I. S. N. todos os indivíduos, nacionais ou estrangeiros, que acatem os princípios que o regem e se disponham a servi-lo, contribuindo com o seu patrocínio e esforço ou auxílio monetário para o desenvolvimento da acção humanitária do Instituto.\n\n2. As categorias dos protectores do I. S. N. são as seguintes:\n\na) Honorários, quando prestarem um relevante serviço ao Instituto, como tal classificado em portaria de louvor do Ministro da Marinha;\n\nb) Benfeitores, quando doarem quantia igual ou superior a 7500$00 por uma só vez, ou superior a 10000$00, parcelada durante seis meses;\n\nc) Doadores, quando doarem quantia igual ou superior a 2500$00 por uma só vez, ou superior a 5000$00, parcelada durante seis meses;\n\nd) Subscritores, quando, além da jóia de 100$00, pagarem quotas mensais de um mínimo de 5$00.\n\n3. As pessoas colectivas, quer de utilidade pública, quer de actividade privada, que satisfaçam os requisitos dos números anteriores, podem também ser inscritas como protectores e ingressar numa das categorias.\n\n4. Os protectores que doarem um barco salva-vidas, uma estação ou posto salva-vidas ou importâncias adequadas à sua construção têm o direito de propor ao Instituto o nome a dar ao barco, à estação ou ao posto.\n\n5. Os tripulantes dos barcos salva-vidas são obrigatòriamente inscritos como subscritores do Instituto."
+  },
+  "182066666": {
+   "fragment_id": "182066562",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nOs actuais protectores do I. S. N. transitam para as correspondentes categorias de protectores, com todos os deveres e direitos que a estes são impostos ou reconhecidos pelo presente Regulamento."
+  },
+  "182066667": {
+   "fragment_id": "182066563",
+   "type": 1,
+   "heading": "Capítulo VII — Subsídios e pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Subsídios e pensões"
+  },
+  "182066668": {
+   "fragment_id": "182066564",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n- 1. Os subsídios que o I. S. N., dentro das suas possibilidades orçamentais, poderá conceder são os seguintes:\n\na) Subsídios a náufragos por perdas sofridas, quando estas afectem os seus meios de subsistência;\n\nb) Subsídios a náufragos para vestuário, alojamento e repatriação;\n\nc) Subsídios, por invalidez temporária ou permanente, a indivíduos que sofram desastres no socorro de náufragos.\n\n2. Os subsídios são normalmente propostos pelas autoridades marítimas.\n\n3. Os subsídios, quando as circunstâncias o aconselhem, podem ser mandados abonar provisòriamente pelo director."
+  },
+  "182066669": {
+   "fragment_id": "182066565",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n- 1. As pensões que o I. S. N., dentro das suas possibilidades orçamentais, poderá conceder destinam-se a viúvas, pais, filhos e irmãos menores de 13 anos e filhas e irmãs menores de 15 anos das vítimas de naufrágios e de desastre no socorro de náufragos, quando as vítimas sejam o seu único amparo.\n\n2. As pensões, quando as circunstâncias o aconselhem, podem ser mandadas abonar provisòriamente pelo director.\n\n3. Os documentos que os interessados na concessão de pensões devem apresentar, além de um requerimento dirigido ao director do Instituto, são os seguintes:\n\na) Para viúva:\n\n1) Certidão de casamento;\n\n2) Certidão de óbito do marido ou assento de óbito;\n\n3) Atestado de bom comportamento moral e civil;\n\n4) Atestado da autoridade marítima ou civil provando que o falecido era o seu único amparo;\n\nb) Para pai ou mãe:\n\n1) Certidão de óbito do filho ou assento de óbito;\n\n2) Atestado da autoridade marítima ou civil provando que o falecido era o seu único amparo;\n\nc) Para filho ou filha:\n\n1) Certidão de óbito do pai ou assento de óbito;\n\n2) Certidão de idade do requerente;\n\n3) Atestado da autoridade marítima ou civil provando que o falecido era o seu único amparo;\n\nd) Para irmão ou irmã:\n\n1) Certidão de óbito do irmão ou assento de óbito;\n\n2) Certidão de idade do requerente;\n\n3) Atestado da autoridade marítima ou civil provando que o falecido era o seu único amparo.\n\n4. As pensões cessam:\n\na) Para as viúvas: quando faleçam, quando contraiam novas núpcias ou quando não apresentem, até 31 de Dezembro de cada ano, novo atestado provando que se encontram nas mesmas circunstâncias em que estavam quando a pensão foi concedida;\n\nb) Para os pais e mães: quando faleçam;\n\nc) Para os filhos, filhas, irmãos e irmãs: quando faleçam ou atinjam as idades estabelecidas no n.º 1.\n\n5. Os limites de idade referidos no n.º 1 não são de considerar quando os filhos, filhas, irmãos e irmãs se encontrem incapazes de angariar meios de subsistência pelo seu trabalho, devidamente comprovado por atestado médico visado pela autoridade marítima."
+  },
+  "182066670": {
+   "fragment_id": "182066566",
+   "type": 1,
+   "heading": "Capítulo VIII — Cursos e instruções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Cursos e instruções"
+  },
+  "182066671": {
+   "fragment_id": "182066567",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n- 1. Os cursos e instruções ministrados pelo I. S. N. são os seguintes:\n\na) Curso de nadadores-salvadores;\n\nb) Curso de monitores de nadadores-salvadores;\n\nc) Instrução do pessoal dos barcos salva-vidas;\n\nd) Instrução de actualização do pessoal dos barcos salva-vidas.\n\n2. Os cursos e instruções mencionados funcionarão nos locais mais convenientes.\n\n3. As despesas com os cursos e instruções referidos são da responsabilidade do Instituto.\n\n4. Os programas das provas de admissão aos cursos e instruções, quando as houver, são aprovados por despacho ministerial, e os planos dos cursos e instruções, por despacho do director-geral dos Serviços de Fomento Marítimo.\n\n5. Anualmente, mediante proposta do director do Instituto, o Ministro da Marinha fixará por despacho a natureza e número de cursos e instruções que se realizarão e a sua frequência."
+  },
+  "182066672": {
+   "fragment_id": "182066568",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n- 1. O curso de nadadores-salvadores destina-se a habilitar convenientemente indivíduos para a salvação de náufragos.\n\n2. Ao curso de nadadores-salvadores podem ser admitidos todos os indivíduos, de qualquer sexo e nacionalidade, que o requeiram e que:\n\na) Possuam robustez física, comprovada por exame médico feito numa capitania ou delegação marítima;\n\nb) Satisfaçam às provas de admissão ao curso."
+  },
+  "182066673": {
+   "fragment_id": "182066569",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n- 1. O curso de monitores de nadadores-salvadores destina-se a habilitar indivíduos para serem instrutores de cursos de nadadores-salvadores.\n\n2. Ao curso de monitores de nadadores-salvadores só podem ser admitidos indivíduos que possuam o curso de nadadores-salvadores e satisfaçam a uma inspecção médica realizada numa capitania ou delegação marítima.\n\n3. Aos indivíduos que, à data da publicação deste Regulamento, constem dos registos do I. S. N. como tendo sido instrutores de cursos de nadadores-salvadores poderão ser passados diplomas de monitores de nadadores-salvadores, desde que sejam aprovados num exame, cujo programa será aprovado por despacho ministerial."
+  },
+  "182066674": {
+   "fragment_id": "182066570",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n- 1. A instrução do pessoal dos barcos salva-vidas destina-se a preparar os indivíduos destinados a tripulantes dos barcos salva-vidas, tanto de manobra como motoristas.\n\n2. A instrução, de carácter essencialmente prático, tem por objectivo proporcionar ensinamentos sobre o material em uso, manobra de barcos, cuidados a ter com os náufragos, tratamento de feridos, respiração artificial e outras matérias consideradas de interesse."
+  },
+  "182067575": {
+   "fragment_id": "182066571",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nA instrução de actualização do pessoal dos barcos salva-vidas destina-se a actualizar os conhecimentos dos tripulantes dos barcos salva-vidas quando, pela evolução da técnica, tenha de ser utilizado material mais aperfeiçoado, por forma a dispor-se sempre de tripulações aptas ao desempenho das suas funções."
+  },
+  "182067576": {
+   "fragment_id": "182066572",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nOs indivíduos aprovados nos cursos e instruções referidos neste capítulo são obrigatòriamente inscritos como protectores subscritores do I. S. N., com todos os deveres e direitos consignados por este Regulamento, a partir da data do respectivo diploma de habilitação."
+  },
+  "182067577": {
+   "fragment_id": "182066573",
+   "type": 1,
+   "heading": "Capítulo IX — Bandeira, distintivo e emblema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Bandeira, distintivo e emblema"
+  },
+  "182067578": {
+   "fragment_id": "182066574",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\n- 1. A bandeira do I. S. N. é do modelo anexo a este Regulamento, com o número de panos apropriados ao seu uso, o que será fixado no regulamento interno do I. S. N.\n\n2. A bandeira nacional e a do I. S. N. são içadas nas instalações aos domingos, dias de feriado e quando determinado superiormente.\n\n3. Os barcos salva-vidas usarão a bandeira nacional à popa e a do Instituto à proa, sendo-lhes vedado arvorar quaisquer outras insígnias ou distintivos."
+  },
+  "182067579": {
+   "fragment_id": "182067675",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nO distinto do I. S. N. é de modelo idêntico ao da bandeira e é usado nas seguintes condições:\n\na) Nas viaturas, pintado nas portas da frente, nas condições do n.º 4 do artigo 14.º;\n\nb) Nas instalações do I. S. N., nas condições do n.º 5 do artigo 13.º"
+  },
+  "182067580": {
+   "fragment_id": "182067676",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nO emblema do I. S. N., de modelo idêntico ao da bandeira e distintivo, pode ser usado pelos protectores, na lapela do casaco."
+  },
+  "182067581": {
+   "fragment_id": "182067677",
+   "type": 1,
+   "heading": "Capítulo X — Disposições diversas e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Disposições diversas e transitórias"
+  },
+  "182067582": {
+   "fragment_id": "182067678",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nOs serviços prestados na salvação de náufragos serão considerados como uma condição de preferência na admissão nos quadros do pessoal civil do Ministério da Marinha."
+  },
+  "182067583": {
+   "fragment_id": "182067679",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\n- 1. O I. S. N. publicará, com fins de divulgação, um boletim, designado por Boletim do Instituto de Socorros a Náufragos.\n\n2. O Boletim terá a periodicidade e a distribuição que forem determinadas pelo director."
+  },
+  "182067584": {
+   "fragment_id": "182067680",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\nO regulamento interno do I. S. N. será posto em vigor por despacho ministerial."
+  },
+  "182066609": {
+   "fragment_id": "182066505",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 137/71\n\nde 9 de Abril\n\nEm conformidade com o disposto no n.º 2 do artigo 24.º do Decreto-Lei n.º 49078, de 25 de Junho de 1969;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo único. É aprovado e posto em execução o Regulamento do Instituto de Socorros a Náufragos, que faz parte integrante deste decreto, e são revogados os Decretos n.os 41496 e 46858, respectivamente de 31 de Dezembro de 1957 e 7 de Fevereiro de 1966.\n\nMarcello Caetano - Manuel Pereira Crespo.\n\nPromulgado em 19 de Março de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nREGULAMENTO DO INSTITUTO DE SOCORROS A NÁUFRAGOS"
+  },
+  "182067586": {
+   "fragment_id": "182066561",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": "1980-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 41.º\n\n1 - Podem ser protectores do I. S. N. todos os indivíduos, nacionais ou estrangeiros, que acatem os princípios que o regem e se disponham a servi-lo, contribuindo com o seu patrocínio e esforço ou auxílio monetário para o desenvolvimento da acção humanitária do Instituto.\n\n2 - As categorias dos protectores do I. S. N. são as seguintes:\n\na) Honorários, quando prestarem um relevante serviço ao Instituto, como tal classificado em portaria de louvor do Ministro da Marinha;\n\nb) Benfeitores, quando doarem quantia igual ou superior a 22500$00 por uma só vez, ou superior a 30000$00, parcelada durante seis meses;\n\nc) Doadores, quando doarem quantia igual ou superior a 7500$00 por uma só vez, ou superior a 15000$00, parcelada durante seis meses;\n\nd) Subscritores, quando, além da jóia de 100$00, pagarem quotas mensais não inferiores a 20$00.\n\n3 - As pessoas colectivas, quer de utilidade pública, quer de actividade privada, que satisfaçam os requisitos dos números anteriores, podem também ser inscritas como protectores e ingressar numa das categorias.\n\n4 - Os protectores que doarem um barco salva-vidas, uma estação ou posto salva-vidas ou importâncias adequadas à sua construção têm o direito de propor ao Instituto o nome a dar ao barco, à estação ou ao posto.\n\n5 - [Eliminado].\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182067592": {
+   "fragment_id": "182066564",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": "1980-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 43.º\n\n1. Os subsídios que o I. S. N., dentro das suas possibilidades orçamentais, poderá conceder são os seguintes:\n\na) Subsídios a náufragos por perdas sofridas, quando estas afectem os seus meios de subsistência;\n\nb) Subsídios a náufragos para vestuário, alojamento e repatriação;\n\nc) Subsídios, por invalidez temporária ou permanente, a indivíduos que sofram desastres no socorro de náufragos.\n\nd) Subsídios a indivíduos que, na prestação de socorros a náufragos, tenham perdido ou danificado objectos de uso pessoal.\n\n2. Os subsídios são normalmente propostos pelas autoridades marítimas.\n\n3. Os subsídios, quando as circunstâncias o aconselhem, podem ser mandados abonar provisòriamente pelo director.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182067587": {
+   "fragment_id": "182066567",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": "1980-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 45.º\n\n1 - Os cursos e instruções ministrados pelo ISN são os seguintes:\n\na) Curso de nadadores-salvadores;\n\nb) Instrução de actualização de nadadores-salvadores;\n\nc) Curso de monitores de nadadores-salvadores;\n\nd) Instrução de actualização de monitores de nadadores-salvadores;\n\ne) Instrução de pessoal dos barcos salva-vidas;\n\nf) Instrução de actualização de pessoal dos barcos salva-vidas.\n\n2 - Os cursos e instruções mencionados funcionarão nos locais mais convenientes.\n\n3 - As despesas com os cursos e instruções referidos são da responsabilidade do Instituto.\n\n4 - Os programas das provas de admissão aos cursos e instruções, quando as houver, são aprovados por despacho ministerial, e os planos dos cursos e instruções, por despacho do director-geral dos Serviços de Fomento Marítimo.\n\n5 - Anualmente, mediante proposta do director do Instituto, o Ministro da Marinha fixará por despacho a natureza e número de cursos e instruções que se realizarão e a sua frequência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182067588": {
+   "fragment_id": "182066568",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": "1980-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 46.º\n\n1 - O curso de nadadores-salvadores destina-se a habilitar convenientemente indivíduos para a salvação de náufragos.\n\n2 - Ao curso de nadadores-salvadores podem ser admitidos todos os indivíduos, independentemente de sexo ou nacionalidade, nas seguintes condições:\n\na) Quando o requeiram, satisfaçam as provas de admissão e possuam robustez física adequada, comprovada por exame médico efectuado numa capitania, delegação marítima ou delegação de saúde, quando fora da área de jurisdição daquelas repartições marítimas;\n\nb) Quando propostos por corporações de bombeiros ou outras associações ou sociedades humanitárias ou de utilidade pública, a fim de servirem graciosamente nas praias como elementos daquelas instituições, e possuam robustez física comprovada por exame médico.\n\n3 - A instrução de actualização de nadadores-salvadores destina-se a facultar novos conhecimentos relativamente aos adquiridos no curso referido no n.º 1 deste artigo.\n\n4 - À instrução referida no número anterior podem ser admitidos os indivíduos habilitados com o curso de nadadores-salvadores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182067593": {
+   "fragment_id": "182066569",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": "1980-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 47.º\n\n- 1. O curso de monitores de nadadores-salvadores destina-se a habilitar indivíduos para serem instrutores de cursos de nadadores-salvadores.\n\n2. Ao curso de monitores de nadadores-salvadores só podem ser admitidos indivíduos que possuam o curso de nadadores-salvadores e satisfaçam a uma inspecção médica realizada numa capitania ou delegação marítima.\n\n3. Aos indivíduos que, à data da publicação deste Regulamento, constem dos registos do I. S. N. como tendo sido instrutores de cursos de nadadores-salvadores poderão ser passados diplomas de monitores de nadadores-salvadores, desde que sejam aprovados num exame, cujo programa será aprovado por despacho ministerial.\n\n4 - A instrução de actualização de monitores de nadadores-salvadores destina-se a actualizar os conhecimentos dos monitores.\n\n5 - À instrução referida no número anterior podem ser admitidos os monitores que o requeiram ou que forem convidados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182067594": {
+   "fragment_id": "182066570",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": "1980-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 48.º\n\n- 1. A instrução do pessoal dos barcos salva-vidas destina-se a preparar os indivíduos destinados a tripulantes dos barcos salva-vidas, tanto de manobra como motoristas.\n\n2. A instrução, de carácter essencialmente prático, tem por objectivo proporcionar ensinamentos sobre o material em uso, manobra de barcos, cuidados a ter com os náufragos, tratamento de feridos, respiração artificial e outras matérias consideradas de interesse.\n\n3 - A instrução de actualização do pessoal dos barcos salva-vidas destina-se a facultar aos tripulantes dos barcos salva-vidas novos conhecimentos decorrentes da evolução técnica dos meios de salvamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182067589": {
+   "fragment_id": "182066571",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579)"
+   ],
+   "markdown": "###### Artigo 49.º\n\n1 - Aos indivíduos aprovados nos cursos e instruções a que se refere o n.º 1 do artigo 45.º serão passados diplomas de habilitação.\n\n2 - Aos indivíduos aprovados no curso de monitores de nadadores-salvadores serão atribuídos cartões de identificação, de modelo a aprovar por portaria do Chefe do Estado-Maior da Armada.\n\n3 - Aos indivíduos aprovados no curso de nadadores-salvadores, frequentados nos termos da alínea a) do n.º 2 do artigo 46.º, serão atribuídos cartões de identificação, de modelo a aprovar por portaria do Chefe do Estado-Maior da Armada, sem os quais não poderão ser contratados para o serviço de banhos e de salvamento das concessões balneares.\n\n4 - Perdem o direito ao uso do cartão de identificação referido no n.º 3 deste artigo os respectivos titulares punidos pelas autoridades marítimas por mau comportamento ou falta de idoneidade e os que se recusem a frequentar a instrução a que se refere a alínea b) do n.º 1 do artigo 45.º\n\n5 - Aos indivíduos aprovados no curso de nadadores-salvadores, frequentado ao abrigo da alínea b) do n.º 2 do artigo 46.º, serão atribuídos cartões de identificação de nadador-salvador voluntário, de modelo a aprovar por portaria do Chefe do Estado-Maior da Armada.\n\n6 - O cartão de identificação referido no número anterior não tem qualquer validade para efeitos de contratação para serviço de banhos e salvamento das concessões balneares.\n\n7 - Os bilhetes de identidade de que actualmente são titulares os membros da corporações de bombeiros serão substituídos pelo cartão de identificação a que se refere o n.º 5 deste artigo, mediante requerimento, dirigido ao director do ISN, com informação favorável do respectivo comandante da corporação de bombeiros.\n\n8 - Os monitores de nadadores-salvadores e os nadadores-salvadores voluntários gozam de todos os direitos concedidos por este Regulamento aos protectores subscritores do ISN.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579)"
+  },
+  "182067590": {
+   "fragment_id": "182066572",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": "1980-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 50.º\n\n1 - Os indivíduos habilitados com o curso de nadadores-salvadores, nos termos da alínea a) do n.º 2 do artigo 46.º, são obrigatoriamente inscritos como protectores subscritores do ISN, com todos os direitos e deveres consignados neste Regulamento.\n\n2 - Só poderão ser contratados para o serviço de banhos e salvamentos das concessões balneares os nadadores-salvadores que não tenham quotas em atraso por liquidar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182067585": {
+   "fragment_id": "182067681",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Marinha, Manuel Pereira Crespo.\n\nMODELOS ANEXOS\n\nMedalhas\n\n(ver documento original)\n\nDiplomas de concessão de medalhas e de louvores\n\n(ver documento original)\n\nDiploma de menção de apreço\n\n(ver documento original)\n\nBandeira, distintivo e emblema\n\n(ver documento original)\n\nO Ministro da Marinha, Manuel Pereira Crespo."
+  },
+  "182067617": {
+   "fragment_id": "182066506",
+   "type": 1,
+   "heading": "Capítulo I — Organização geral",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "### Capítulo I — Organização geral\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067618": {
+   "fragment_id": "182066507",
+   "type": 8,
+   "heading": "Secção I — Órgãos do Instituto",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "#### Secção I — Órgãos do Instituto\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067619": {
+   "fragment_id": "182066508",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 1.º\n\n- 1. O Instituto de Socorros a Náufragos (I. S. N.) é um organismo do Ministério da Marinha, com autonomia e na imediata dependência do director-geral dos Serviços de Fomento Marítimo.\n\n2. A missão e actividade do Instituto exerce-se em todo o litoral, rios e praias do continente e ilhas adjacentes.\n\n3. A direcção de operações de salvação marítima compete à autoridade marítima local, excepto quando essas operações envolvam meios militares, caso em que compete ao comandante da região naval em que se verificar o sinistro.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067620": {
+   "fragment_id": "182066509",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1. A acção do I. S. N. é exercida por:\n\na) Director;\n\nb) Subdirector;\n\nc) Órgãos centrais;\n\nd) Órgãos externos.\n\n2. Os órgãos centrais são:\n\na) Secretaria;\n\nb) Serviço de socorros a embarcações;\n\nc) Serviço de assistência nas praias;\n\nd) Serviço de material;\n\ne) Serviço de abastecimento;\n\nf) Conselho administrativo.\n\n3. Os órgãos externos, através dos quais o Instituto exerce a sua acção, são:\n\na) Delegações;\n\nb) Estações salva-vidas;\n\nc) Postos salva-vidas.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067621": {
+   "fragment_id": "182066510",
+   "type": 8,
+   "heading": "Secção II — Director",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "#### Secção II — Director\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067622": {
+   "fragment_id": "182066511",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 3.º\n\n- 1. Ao director compete, de uma maneira geral, dirigir e fiscalizar toda a actividade do I. S. N. e, em especial:\n\na) Propor superiormente a criação, a extinção ou a transferência de estações e postos salva-vidas;\n\nb) Providenciar o apetrechamento das instalações com material apropriado;\n\nc) Facilitar a missão de colectividades humanitárias que pelos seus estatutos tenham o dever de prestar socorros a náufragos;\n\nd) Promover as experiências de meios de salvação que julgue convenientes e auxiliar a sua construção ou manufactura;\n\ne) Determinar a realização de exercícios frequentes, por forma a dispor de pessoal adestrado;\n\nf) Promover o funcionamento dos cursos e instruções ministrados pelo Instituto;\n\ng) Dirigir a publicação do Boletim do Instituto de Socorros a Náufragos;\n\nh) Corresponder-se directamente com entidades ou organismos oficiais e particulares;\n\ni) Propor a admissão, promoção e demissão de pessoal do quadro do pessoal civil do Instituto;\n\nj) Admitir, transferir ou demitir o pessoal assalariado e adventício;\n\nl) Informar, louvar e punir o pessoal militar e civil do Instituto, nos termos da legislação em vigor;\n\nm) Conceder licenças, nos termos da legislação em vigor, ao pessoal civil dependente do Instituto.\n\n2. O director é um oficial general da classe de marinha do quadro da reserva, ou um capitão-de-mar-e-guerra da mesma classe dos quadros do activo ou da reserva.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067623": {
+   "fragment_id": "182066512",
+   "type": 8,
+   "heading": "Secção III — Subdirector",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "#### Secção III — Subdirector\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067624": {
+   "fragment_id": "182066513",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1. Ao subdirector compete:\n\na) Substituir o director nos seus impedimentos;\n\nb) Exercer, por delegação do director, as funções que por este lhe forem atribuídas;\n\nc) Orientar o serviço da secretaria;\n\nd) Dirigir os cursos e instruções que funcionem a cargo do I. S. N.\n\n2. O subdirector é um oficial superior da classe de marinha dos quadros do activo ou da reserva.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067625": {
+   "fragment_id": "182066514",
+   "type": 8,
+   "heading": "Secção IV — Órgãos centrais",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "#### Secção IV — Órgãos centrais\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067626": {
+   "fragment_id": "182066515",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 5.º\n\n- 1. À secretaria compete:\n\na) Executar o serviço de correspondência, expediente e arquivo, com excepção do que pertença à secretaria do conselho administrativo;\n\nb) Elaborar e manter actualizados os registos das actividades do I. S. N. e outros necessários ao seu bom funcionamento;\n\nc) Elaborar e instruir os processos de admissão, transferência, promoção, aposentação e demissão do pessoal civil;\n\nd) Publicar a ordem de serviço do I. S. N. com a periodicidade necessária e nos moldes da ordem de serviço das unidades da Armada;\n\ne) Elaborar e publicar o Boletim do Instituto de Socorros a Náufragos.\n\n2. A secretaria, subordinada directamente ao subdirector, é chefiada por um primeiro-oficial do quadro do pessoal civil do Instituto.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067627": {
+   "fragment_id": "182066516",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 6.º\n\n- 1. Ao serviço de socorros a embarcações (S. S. E.) compete, de uma forma geral, dirigir e fiscalizar toda a actividade respeitante a socorros a embarcações e, em especial:\n\na) Propor a criação, extinção ou transferência de estações e postos salva-vidas;\n\nb) Propor a adopção de novos meios de salvação marítima;\n\nc) Fiscalizar a eficiência e conservação das instalações e material das estações e postos salva-vidas, informando das deficiências existentes;\n\nd) Dirigir e fiscalizar o adestramento do pessoal;\n\ne) Colaborar no funcionamento dos cursos e instruções ministrados pelo I. S. N.;\n\nf) Propor a admissão do pessoal das estações e postos salva-vidas;\n\ng) Informar sobre a actividade dos barcos salva-vidas e outro material de socorros a embarcações;\n\nh) Informar as propostas relativas a subsídios, pensões e recompensas relacionados com os socorros a embarcações;\n\ni) Estudar as causas dos sinistros marítimos e propor medidas para lhes restringir o número.\n\n2. O chefe do S. S. E. é um oficial superior da classe de marinha, que pode desempenhar as funções em acumulação com outras que exerça nos organismos do Ministério da Marinha.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067628": {
+   "fragment_id": "182066517",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 7.º\n\n- 1. Ao serviço de assistência nas praias (S. A. P.) compete, de uma forma geral, dirigir e fiscalizar toda a actividade respeitante à assistência nas praias e, em especial:\n\na) Propor a adopção de novos meios de assistência;\n\nb) Fiscalizar a eficiência e conservação das instalações e material e o cumprimento das disposições relativas à assistência nas praias, informando das deficiências existentes;\n\nc) Dirigir e fiscalizar o adestramento do pessoal;\n\nd) Colaborar no funcionamento dos cursos e instruções ministrados pelo I. S. N.;\n\ne) Informar as propostas relativas a subsídios, pensões e recompensas que sejam do âmbito do serviço;\n\nf) Propor medidas tendentes a melhorar a eficiência do serviço e a restringir o número de sinistros;\n\ng) Promover anualmente a informação necessária à prevenção de acidentes nas praias.\n\n2. A assistência nas praias regula-se por disposições próprias, nomeadamente o Regulamento de Assistência aos Banhistas nas Praias, promulgado pelo Decreto n.º 42305, de 5 de Junho de 1959, e alterado pelo Decreto n.º 49007, de 13 de Maio de 1969.\n\n3. O chefe do serviço de assistência nas praias é um oficial superior da classe de marinha, que pode desempenhar as funções em acumulação com outras que exerça nos organismos do Ministério da Marinha.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067629": {
+   "fragment_id": "182066518",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 8.º\n\n- 1. Ao serviço de material compete manter eficiente todo o material de salvação, zelar pela conservação das instalações e, em especial:\n\na) Informar das necessidades de material que respeite ao serviço;\n\nb) Elaborar instruções técnicas para utilização, condução e conservação do material;\n\nc) Fornecer elementos de ordem técnica para elaboração de programas e cadernos de encargos para aquisição, reparação ou transformação de material e para construção, reparação ou transformação de instalações;\n\nd) Propor o abate e venda de material inútil ou desnecessário;\n\ne) Dirigir o apetrechamento dos meios de salvação, de acordo com as tabelas aprovadas;\n\nf) Informar as propostas para fornecimento, reparação ou modificação de material;\n\ng) Elaborar os programas de reparações e beneficiações periódicas de material.\n\n2. O serviço de material é chefiado por um oficial superior da classe dos engenheiros maquinistas navais dos quadros do activo ou reserva.\n\n3. Na dependência do chefe do serviço de material funcionam as oficinas do I. S. N., que incluem secções de construção naval, de reparações, de mecânica e de pintura.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067630": {
+   "fragment_id": "182066519",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 9.º\n\n- 1. Ao serviço de abastecimento compete:\n\na) Submeter à apreciação do conselho administrativo os assuntos de serviço que careçam da sua resolução;\n\nb) Obter, movimentar, armazenar, conservar e distribuir o material;\n\nc) Estabelecer os níveis de material de acordo com as tabelas aprovadas e as directivas superiores, controlando os consumos e promovendo a reconstituição dos níveis;\n\nd) Propor as aquisições para provimento e para satisfação das necessidades dos serviços;\n\ne) Organizar os cadernos de encargos, autos e outra documentação relativos a arrematações e contratos;\n\nf) Elaborar normas para o plano administrativo e contabilístico das oficinas, com vista ao cálculo exacto das obras produzidas;\n\ng) Promover a contabilização do material da sede e das estações e postos salva-vidas.\n\n2. O serviço de abastecimento é chefiado por um oficial superior da classe de administração naval dos quadros do activo ou reserva.\n\n3. O serviço de abastecimento utiliza a secretaria do conselho administrativo.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067631": {
+   "fragment_id": "182066520",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 10.º\n\n- 1. A administração dos bens e das dotações e outras receitas próprias do I. S. N. é exercida por um conselho administrativo constituído nos termos do Regulamento de Administração da Fazenda Naval.\n\n2. Constituem receitas próprias do Instituto as que se encontram indicadas no artigo 12.º do Decreto-Lei n.º 41279, de 20 de Setembro de 1957, com a redacção que lhe foi imposta pelo Decreto-Lei n.º 455/70, de 2 de Outubro.\n\n3. O conselho administrativo rege-se pelas disposições aplicáveis do Regulamento de Administração da Fazenda Naval e pelos preceitos gerais da contabilidade pública competindo-lhe autorizar despesas nos termos e até aos limites estabelecidos para os órgãos dirigentes dos serviços autónomos e, em especial:\n\na) Propor à aprovação do Ministro da Marinha e visto do Ministro das Finanças o orçamento privativo e os orçamentos suplementares das receitas próprias e das despesas necessárias à realização das actividades do Instituto;\n\nb) Prestar contas da sua gerência ao Tribunal de Contas;\n\nc) Apreciar os processos de concessão dos subsídios, pensões e prémios pecuniários referidos no artigo 1.º do Decreto-Lei n.º 41279, com a redacção que lhe foi imposta pelo Decreto-Lei n.º 455/70, e fixar os respectivos quantitativos.\n\n4. O conselho administrativo dispõe de secretaria própria.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067632": {
+   "fragment_id": "182066521",
+   "type": 8,
+   "heading": "Secção V — Órgãos externos",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "#### Secção V — Órgãos externos\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067633": {
+   "fragment_id": "182066522",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 11.º\n\n- 1. As delegações do I. S. N. funcionam nas capitanias dos portos, para as respectivas áreas de jurisdição, e são responsáveis pelo exercício das actividades do I. S. N. nessas áreas.\n\n2. Os delegados do Instituto são os capitães dos portos, tendo como adjuntos os delegados marítimos nas respectivas áreas.\n\n3. Os capitães dos portos, como delegados do I. S. N., estão directamente subordinados ao director do Instituto, com quem se correspondem.\n\n4. Aos delegados do I. S. N. compete:\n\na) Propor medidas para aperfeiçoamento do serviço de socorros a náufragos;\n\nb) Propor a admissão de pessoal;\n\nc) Elaborar a proposta de orçamento e remetê-la na data determinada;\n\nd) Propor recompensas para actos de salvação marítima ou de socorros a náufragos e por serviços importantes prestados ao Instituto;\n\ne) Propor a concessão de subsídios e pensões referidos no artigo 1.º do Decreto-Lei n.º 41279, com a redacção que lhe foi imposta pelo Decreto-Lei n.º 455/70;\n\nf) Promover tudo o que possa concorrer para aumento das receitas do Instituto;\n\ng) Comunicar a actividade dos barcos salva-vidas e outro material de socorros a embarcações;\n\nh) Promover o adestramento do pessoal;\n\ni) Zelar pela eficiência e conservação do material e instalações, comunicando as deficiências que existam;\n\nj) Ordenar a saída dos barcos salva-vidas, ou mantê-los de prevenção, se necessário, conforme as condições de mau tempo;\n\nl) Fiscalizar o serviço dos patrões dos barcos salva-vidas;\n\nm) Fazer cumprir o estabelecido no Regulamento de Assistência aos Banhistas nas Praias e normas regulamentares;\n\nn) Dirigir a manobra de estabelecimento de cabos de vaivém, quer em exercícios, quer em operações de socorro, quando o julguem conveniente ou oportuno;\n\no) Relatar em pormenor qualquer naufrágio ou sinistro marítimo ocorrido na área da sua jurisdição, indicando as causas prováveis, a actuação e as sugestões que julguem convenientes;\n\np) Relatar qualquer salvamento devidamente testemunhado;\n\nq) Remeter mensalmente os mapas das receitas e despesas;\n\nr) Elaborar e manter actualizados a escrituração e os registos da sua delegação.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067634": {
+   "fragment_id": "182066523",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 12.º\n\nAs capitanias dos portos que possuam oficinas prestam, dentro dos seus recursos, assistência técnica e oficinal ao material do I. S. N.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067635": {
+   "fragment_id": "182066524",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 13.º\n\n- 1. As estações salva-vidas são os órgãos externos que dispõem, pelo menos, dos seguintes meios de salvação:\n\na) Barcos salva-vidas;\n\nb) Viaturas porta-cabos;\n\nc) Sinais de mau tempo diurnos e nocturnos e outros de uso internacional para prevenir de perigos e evitar sinistros;\n\nd) Indicações para demandar varadouros e abrigos;\n\ne) Socorros sanitários.\n\n2. Os postos salva-vidas são os órgãos externos que apenas dispõem de meios para estabelecimento de cabos de vaivém, com as respectivas viaturas, e socorros sanitários.\n\n3. As estações e postos salva-vidas dependem directamente do delegado do I. S. N. na respectiva área.\n\n4. As estações e postos salva-vidas tomam o nome das localidades onde estão situados. Excepcionalmente poderão tomar o nome de um indivíduo que, por salvamentos, naqueles se tenha distinguido ou de um protector que ao I. S. N. tenha prestado valiosos serviços.\n\n5. As estações e postos salva-vidas terão na frontaria os seguintes dizeres, encimados pelo distintivo do Instituto:\n\nMINISTÉRIO DA MARINHA\n\nINSTITUTO DE SOCORROS A NÁUFRAGOS\n\nESTAÇÃO (ou POSTO) SALVA-VIDAS DE ...\n\n6. As estações e postos salva-vidas que tomem o nome de um indivíduo terão na frontaria uma lápide com o resumo da sua biografia.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067636": {
+   "fragment_id": "182066525",
+   "type": 1,
+   "heading": "Capítulo II — Material",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "### Capítulo II — Material\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067637": {
+   "fragment_id": "182066526",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 14.º\n\n- 1. Os serviços de socorros a náufragos abrangem o seguinte material:\n\na) Barcos salva-vidas e outras embarcações cujo emprego na salvaguarda da vida humana se considere vantajoso;\n\nb) Viaturas porta-cabos;\n\nc) Outros meios de salvação individual ou colectiva;\n\nd) Sinais de mau tempo diurnos e nocturnos e outros de uso internacional para prevenir de perigos ou evitar sinistros;\n\ne) Indicações para demandar varadouros e abrigos;\n\nf) Material de socorros sanitários;\n\ng) Postos de praias de banhos.\n\n2. As embarcações do I. S. N. são pintadas com as cores oficiais do Instituto (branco e vermelho), tendo nas amuras o número e nome da embarcação.\n\n3. Algumas das embarcações previstas na alínea a) do n.º 1 e as viaturas porta-cabos, sempre que possível e conveniente, podem ser confiadas a corporações de bombeiros.\n\n4. As viaturas do Instituto são pintadas de branco, tendo nas portas o distintivo do Instituto, encimado pelos dizeres:\n\nMINISTÉRIO DA MARINHA\n\nINSTITUTO DE SOCORROS A NÁUFRAGOS\n\n5. Os sinais referidos na alínea d) e as indicações da alínea e) do n.º 1 ficam sob a vigilância das autoridades marítimas locais.\n\n6. O material de socorros sanitários será confiado ao médico da Casa dos Pescadores, ao da corporação de bombeiros, ao do partido municipal ou a qualquer outro que se preste a esse benemérito serviço.\n\n7. Os postos de praias de banhos são da responsabilidade dos concessionários, nos termos do disposto no Regulamento de Assistência aos Banhistas nas Praias.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067638": {
+   "fragment_id": "182066527",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 15.º\n\nOs barcos salva-vidas devem sair para o mar, pelo menos, uma vez por mês e o material dos cabos de vaivém deve ser utilizado, pelo menos, uma vez em cada trimestre, para adestramento do pessoal.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067639": {
+   "fragment_id": "182066528",
+   "type": 1,
+   "heading": "Capítulo III — Pessoal",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "### Capítulo III — Pessoal\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067640": {
+   "fragment_id": "182066529",
+   "type": 8,
+   "heading": "Secção I — Provimento",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "#### Secção I — Provimento\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067641": {
+   "fragment_id": "182066530",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 16.º\n\nO director do I. S. N. é nomeado pelo Ministro da Marinha, mediante proposta do director-geral dos Serviços de Fomento Marítimo.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067642": {
+   "fragment_id": "182066531",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 17.º\n\nA lotação do pessoal militar do I. S. N. é estabelecida por portaria do Ministro da Marinha.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067643": {
+   "fragment_id": "182066532",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 18.º\n\n- 1. As categorias, efectivos e outras disposições relativas ao pessoal do quadro do pessoal civil do I. S. N. são regulados pelo Decreto-Lei n.º 41279, com as alterações impostas pelo Decreto-Lei n.º 455/70.\n\n2. O conselho administrativo pode, nos termos do artigo 15.º do Decreto-Lei n.º 41279, assalariar pessoal operário e admitir pessoal adventício necessário ao serviço dos barcos salva-vidas e cabos de vaivém.\n\n3. A admissão, movimento e promoção de pessoal civil realiza-se, de acordo com o disposto no Decreto-Lei n.º 618/70, de 14 de Dezembro, mediante instruções aprovadas por despacho do Ministro da Marinha.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067644": {
+   "fragment_id": "182066533",
+   "type": 8,
+   "heading": "Secção II — Uniformes",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "#### Secção II — Uniformes\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067645": {
+   "fragment_id": "182066534",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 19.º\n\n- 1. Os uniformes e distintivos a usar pelo pessoal civil do I. S. N. serão fixados por portaria do Ministro da Marinha.\n\n2. A portaria referida no número anterior fixará também os uniformes a fornecer, dentro das possibilidades do Instituto, ao pessoal do quadro permanente dos barcos salva-vidas e os que devem existir em cada estação ou posto para serem utilizados pelo pessoal adventício apenas durante o serviço.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067646": {
+   "fragment_id": "182066535",
+   "type": 8,
+   "heading": "Secção III — Penalidades",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "#### Secção III — Penalidades\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067647": {
+   "fragment_id": "182066536",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 20.º\n\nO pessoal civil do I. S. N. responde perante o Tribunal Militar de Marinha pelas infracções cometidas no exercício das suas funções.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067648": {
+   "fragment_id": "182066537",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 21.º\n\n- 1. O pessoal civil administrativo e auxiliar do I. S. N. fica sob a alçada do Regulamento de Disciplina Militar, na parte aplicável a civis, sendo louvado e punido pelo director.\n\n2. O pessoal civil dos barcos salva-vidas fica sob a alçada do Regulamento de Disciplina Militar, na parte aplicável a civis, sendo louvado e punido pelos delegados do I. S. N. das respectivas áreas, de acordo com a competência que lhes for conferida.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067649": {
+   "fragment_id": "182066538",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 22.º\n\n- 1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções, da competência do director do I. S. N.:\n\na) Multa de um a dez dias, correspondentes ao salário diário do infractor;\n\nb) Demissão.\n\n2. A pena de demissão aplica-se também ao pessoal que, no decurso de doze meses consecutivos, seja punido com mais de quinze dias de multa.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067650": {
+   "fragment_id": "182066539",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 23.º\n\n- 1. O pessoal adventício está sujeito, no respeitante a faltas disciplinares, às seguintes sanções:\n\na) Admoestação;\n\nb) Repreensão;\n\nc) Demissão.\n\n2. As sanções das alíneas a) e b) do número anterior são da competência dos delegados do I. S. N. e do director.\n\n3. A demissão é da competência do director e será proposta pelo delegado do Instituto quando, pela sua conduta, não convenha manter ao serviço o infractor.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067651": {
+   "fragment_id": "182066540",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 24.º\n\nOs indivíduos demitidos sujeitos a obrigações militares na Armada prestam serviço militar nos termos da legislação aplicável.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067652": {
+   "fragment_id": "182066541",
+   "type": 8,
+   "heading": "Secção IV — Informações",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "#### Secção IV — Informações\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067653": {
+   "fragment_id": "182066542",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 25.º\n\nO pessoal militar do I. S. N. é informado pelo director, nos termos da legislação em vigor.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067654": {
+   "fragment_id": "182066543",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 26.º\n\nO pessoal civil administrativo e auxiliar do quadro é informado pelo director do I. S. N.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067655": {
+   "fragment_id": "182066544",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 27.º\n\n- 1. O pessoal civil dos barcos salva-vidas pertencente ao quadro é informado pelo director do I. S. N., em face das informações prestadas pelos capitães dos portos e delegados marítimos.\n\n2. Na área da Capitania do Porto de Lisboa, excluindo as delegações marítimas, as informações serão prestadas pelo director do serviço de socorros a embarcações.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067656": {
+   "fragment_id": "182066545",
+   "type": 1,
+   "heading": "Capítulo IV — Inspecções",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "### Capítulo IV — Inspecções\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067657": {
+   "fragment_id": "182066546",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 28.º\n\n- 1. As inspecções têm por finalidade principal avaliar do estado de adestramento do pessoal e do grau de eficiência e conservação do material e instalações, com vista a detectar anomalias, erros e deficiências, de modo a corrigi-los prontamente, para que o I. S. N. cumpra eficientemente a sua missão.\n\n2. As inspecções são realizadas pelas seguintes entidades:\n\na) Subdirector;\n\nb) Chefe do serviço de socorros a embarcações;\n\nc) Chefe do serviço de assistência nas praias;\n\nd) Chefe do serviço de material;\n\ne) Chefe do serviço de abastecimento;\n\nf) Capitães dos portos, como delegados do I. S. N.\n\n3. Compete ao director do Instituto determinar ou autorizar a realização de inspecções pelas entidades das alíneas a), b), c), d) e e) do n.º 2.\n\n4. O subdirector pode propor ao director a realização das inspecções referidas no número anterior.\n\n5. As entidades referidas no n.º 2, quando em serviço de inspecção, têm autoridade para determinar a execução de medidas tendentes a melhorar o serviço, desde que as mesmas sejam necessárias e urgentes, informando o delegado do I. S. N. da respectiva área e o director das ordens dadas e causas que as motivaram.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067658": {
+   "fragment_id": "182066547",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 29.º\n\n- 1. Ao subdirector, no exercício das suas funções de inspecção, compete:\n\na) Verificar o adestramento do pessoal;\n\nb) Avaliar a eficiência e conservação do material e das instalações;\n\nc) Informar o director das deficiências encontradas.\n\n2. O subdirector, quando em inspecção, pode fazer-se acompanhar por uma ou mais das entidades referidas nas alíneas b), c), d), e) e f) do n.º 2 do artigo 28.º\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067659": {
+   "fragment_id": "182066548",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 30.º\n\n- 1. Os chefes dos serviços de socorros a embarcações e de assistência nas praias, depois de autorizados ou quando determinado pelo director do I. S. N., realizarão inspecções frequentes com vista a:\n\na) Verificar o adestramento do pessoal;\n\nb) Avaliar a eficiência e conservação do material e das instalações que interessem ao seu serviço;\n\nc) Informar o director das deficiências encontradas.\n\n2. Os relatórios das inspecções mencionarão o estado do material, as medidas para remediar as deficiências e a qualidade e competência do pessoal.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067660": {
+   "fragment_id": "182066549",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 31.º\n\n- 1. O chefe do serviço de material, depois de autorizado ou quando determinado pelo director, realizará frequentes inspecções ao material das estações e postos salva-vidas.\n\n2. Os relatórios das inspecções mencionarão o estado do material, as medidas para remediar as deficiências encontradas e a qualidade e competência do pessoal que conduz o material.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067661": {
+   "fragment_id": "182066550",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 32.º\n\nO chefe do serviço de abastecimento, depois de autorizado ou quando determinado pelo director, realizará as inspecções necessárias para verificar as existências de material das estações e postos salva-vidas e de outras instalações do I. S. N. e a forma como são cumpridas as determinações regulamentares em matéria administrativa.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067662": {
+   "fragment_id": "182066551",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 33.º\n\nAos capitães dos portos, como delegados do I. S. N., compete:\n\na) Inspeccionar frequentemente o material e instalações de socorros a náufragos das áreas da sua jurisdição, incluindo o das praias de banhos;\n\nb) Verificar o adestramento do pessoal;\n\nc) Acompanhar, sempre que necessário, qualquer das entidades referidas nas alíneas a), b), c), d) e e) do n.º 2 do artigo 28.º nas inspecções que realizem nas áreas da sua jurisdição.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067663": {
+   "fragment_id": "182066552",
+   "type": 1,
+   "heading": "Capítulo V — Recompensas",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "### Capítulo V — Recompensas\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067664": {
+   "fragment_id": "182066553",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 34.º\n\n- 1. As recompensas a atribuir por actos de salvação marítima e de socorros a náufragos são as seguintes:\n\na) Medalha de coragem, abnegação e humanidade;\n\nb) Diplomas de louvor;\n\nc) Prémios pecuniários;\n\nd) Menções de apreço.\n\n2. A medalha e os diplomas de louvor são concedidos por portaria do Ministro da Marinha, mediante proposta do director do I. S. N., em face de relatórios das autoridades marítimas, militares ou administrativas que tiverem conhecimento dos factos.\n\n3. Os prémios pecuniários e as menções de apreço são concedidos pelo director do Instituto, em presença de relatórios das autoridades marítimas, militares ou administrativas que tiverem conhecimento dos factos.\n\n4. A medalha, os diplomas de louvor e as menções de apreço são fornecidos gratuitamente pelo Instituto.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067665": {
+   "fragment_id": "182066554",
+   "type": 11,
+   "heading": "Artigo 35.º — - 1. A medalha de coragem, abnegação e humanidade compreende três graus:",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 35.º — - 1. A medalha de coragem, abnegação e humanidade compreende três graus:\n\nMedalha de ouro;\n\nMedalha de prata;\n\nMedalha de cobre.\n\n2. A medalha é do modelo anexo a este Regulamento e é usada pendente de fita de seda encarnada, orlada de verde-escuro, de 0,03 m de largura.\n\n3. A medalha de ouro será concedida ao indivíduo ou colectividade que prestar um relevantíssimo serviço à salvação marítima ou que, tendo sido agraciado por duas vezes com a medalha de prata, tenha adquirido direito a terceira medalha da mesma natureza.\n\n4. A medalha de prata será concedida ao indivíduo ou colectividade que prestar um relevante serviço na salvação de náufragos ou que, tendo sido agraciado por duas vezes com a medalha de cobre, tenha adquirido direito a terceira medalha da mesma natureza.\n\n5. A medalha de cobre será concedida ao indivíduo ou colectividade que prestar um importante serviço na salvação de náufragos.\n\n6. Os indivíduos agraciados com pelo menos três medalhas de ouro usarão, em substituição de uma delas, uma insígnia de ouro, idêntica à da medalha e com o dobro do tamanho, suspensa de fita pendente do pescoço. A fita é idêntica à da medalha, mas com o dobro da largura.\n\n7. O direito ao uso da medalha e da insígnia referida no número anterior é concedido através do respectivo diploma de concessão, do modelo anexo a este Regulamento, assinado pelo director do Instituto.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067666": {
+   "fragment_id": "182066555",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 36.º\n\n- 1. Os diplomas de louvor são concedidos aos indivíduos ou colectividades que prestarem valiosa colaboração na salvação de náufragos.\n\n2. Os diplomas de louvor, do modelo anexo a este Regulamento, são assinados pelo director do I. S. N.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067667": {
+   "fragment_id": "182066556",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 37.º\n\n- 1. Os prémios pecuniários são concedidos pelo director do I. S. N. a indivíduos de fracos recursos económicos que tenham colaborado com relevo na salvação de náufragos.\n\n2. Os prémios pecuniários são acompanhados de ofício de louvor.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067668": {
+   "fragment_id": "182066557",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 38.º\n\nAs menções de apreço, do modelo anexo a este Regulamento, são concedidas pelo director do I. S. N. a indivíduos cuja colaboração na salvação marítima ou em socorro de náufragos, sem justificar qualquer das recompensas das alíneas a), b) e c) do n.º 1 do artigo 34.º, seja digna de referência elogiosa.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067669": {
+   "fragment_id": "182066558",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 39.º\n\n- 1. A recompensa a atribuir por serviços prestados ao I. S. N., que não sejam abrangidos pelo n.º 1 do artigo 34.º, é a medalha de filantropia e caridade.\n\n2. A medalha é concedida por portaria do Ministro da Marinha, mediante proposta do director do Instituto.\n\n3. A medalha é fornecida pelo Instituto, a expensas dos agraciados, salvo casos excepcionais em que o director entenda que tal encargo deverá pertencer ao Instituto.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067670": {
+   "fragment_id": "182066559",
+   "type": 11,
+   "heading": "Artigo 40.º — - 1. A medalha de filantropia e caridade compreende três graus:",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 40.º — - 1. A medalha de filantropia e caridade compreende três graus:\n\nMedalha de ouro;\n\nMedalha de prata;\n\nMedalha de cobre.\n\n2. A medalha é do modelo anexo a este Regulamento e é usada pendente de fita de seda verde de 0,03 m de largura, tendo ao centro e de alto a baixo uma faixa branca com a largura de 0,006 m.\n\n3. A medalha de ouro será concedida aos protectores honorários, aos subscritores com quarenta e cinco anos consecutivos de pagamento de quotas mensais e aos indivíduos que tenham prestado ao Instituto serviços considerados como relevantes.\n\n4. A medalha de prata será concedida aos protectores benfeitores, aos subscritores com trinta anos consecutivos de pagamento de quotas mensais e aos indivíduos que tenham prestado ao Instituto serviços considerados como muito importantes.\n\n5. A medalha de cobre será concedida aos protectores doadores, aos subscritores com quinze anos consecutivos de pagamento de quotas mensais e aos indivíduos que tenham prestado ao Instituto serviços considerados como importantes.\n\n6. O direito ao uso da medalha é concedido através do respectivo diploma de concessão, do modelo anexo a este Regulamento, assinado pelo director do Instituto.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067671": {
+   "fragment_id": "182066560",
+   "type": 1,
+   "heading": "Capítulo VI — Protectores",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "### Capítulo VI — Protectores\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067672": {
+   "fragment_id": "182066561",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 41.º\n\n1 - Podem ser protectores do I. S. N. todos os indivíduos, nacionais ou estrangeiros, que acatem os princípios que o regem e se disponham a servi-lo, contribuindo com o seu patrocínio e esforço ou auxílio monetário para o desenvolvimento da acção humanitária do Instituto.\n\n2 - As categorias dos protectores do I. S. N. são as seguintes:\n\na) Honorários, quando prestarem um relevante serviço ao Instituto, como tal classificado em portaria de louvor do Ministro da Marinha;\n\nb) Benfeitores, quando doarem quantia igual ou superior a 22500$00 por uma só vez, ou superior a 30000$00, parcelada durante seis meses;\n\nc) Doadores, quando doarem quantia igual ou superior a 7500$00 por uma só vez, ou superior a 15000$00, parcelada durante seis meses;\n\nd) Subscritores, quando, além da jóia de 100$00, pagarem quotas mensais não inferiores a 20$00.\n\n3 - As pessoas colectivas, quer de utilidade pública, quer de actividade privada, que satisfaçam os requisitos dos números anteriores, podem também ser inscritas como protectores e ingressar numa das categorias.\n\n4 - Os protectores que doarem um barco salva-vidas, uma estação ou posto salva-vidas ou importâncias adequadas à sua construção têm o direito de propor ao Instituto o nome a dar ao barco, à estação ou ao posto.\n\n5 - [Eliminado].\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182067673": {
+   "fragment_id": "182066562",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 42.º\n\nOs actuais protectores do I. S. N. transitam para as correspondentes categorias de protectores, com todos os deveres e direitos que a estes são impostos ou reconhecidos pelo presente Regulamento.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182067674": {
+   "fragment_id": "182066563",
+   "type": 1,
+   "heading": "Capítulo VII — Subsídios e pensões",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "### Capítulo VII — Subsídios e pensões\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182068375": {
+   "fragment_id": "182066564",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 43.º\n\n1. Os subsídios que o I. S. N., dentro das suas possibilidades orçamentais, poderá conceder são os seguintes:\n\na) Subsídios a náufragos por perdas sofridas, quando estas afectem os seus meios de subsistência;\n\nb) Subsídios a náufragos para vestuário, alojamento e repatriação;\n\nc) Subsídios, por invalidez temporária ou permanente, a indivíduos que sofram desastres no socorro de náufragos.\n\nd) Subsídios a indivíduos que, na prestação de socorros a náufragos, tenham perdido ou danificado objectos de uso pessoal.\n\n2. Os subsídios são normalmente propostos pelas autoridades marítimas.\n\n3. Os subsídios, quando as circunstâncias o aconselhem, podem ser mandados abonar provisòriamente pelo director.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182068376": {
+   "fragment_id": "182066565",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 44.º\n\n- 1. As pensões que o I. S. N., dentro das suas possibilidades orçamentais, poderá conceder destinam-se a viúvas, pais, filhos e irmãos menores de 13 anos e filhas e irmãs menores de 15 anos das vítimas de naufrágios e de desastre no socorro de náufragos, quando as vítimas sejam o seu único amparo.\n\n2. As pensões, quando as circunstâncias o aconselhem, podem ser mandadas abonar provisòriamente pelo director.\n\n3. Os documentos que os interessados na concessão de pensões devem apresentar, além de um requerimento dirigido ao director do Instituto, são os seguintes:\n\na) Para viúva:\n\n1) Certidão de casamento;\n\n2) Certidão de óbito do marido ou assento de óbito;\n\n3) Atestado de bom comportamento moral e civil;\n\n4) Atestado da autoridade marítima ou civil provando que o falecido era o seu único amparo;\n\nb) Para pai ou mãe:\n\n1) Certidão de óbito do filho ou assento de óbito;\n\n2) Atestado da autoridade marítima ou civil provando que o falecido era o seu único amparo;\n\nc) Para filho ou filha:\n\n1) Certidão de óbito do pai ou assento de óbito;\n\n2) Certidão de idade do requerente;\n\n3) Atestado da autoridade marítima ou civil provando que o falecido era o seu único amparo;\n\nd) Para irmão ou irmã:\n\n1) Certidão de óbito do irmão ou assento de óbito;\n\n2) Certidão de idade do requerente;\n\n3) Atestado da autoridade marítima ou civil provando que o falecido era o seu único amparo.\n\n4. As pensões cessam:\n\na) Para as viúvas: quando faleçam, quando contraiam novas núpcias ou quando não apresentem, até 31 de Dezembro de cada ano, novo atestado provando que se encontram nas mesmas circunstâncias em que estavam quando a pensão foi concedida;\n\nb) Para os pais e mães: quando faleçam;\n\nc) Para os filhos, filhas, irmãos e irmãs: quando faleçam ou atinjam as idades estabelecidas no n.º 1.\n\n5. Os limites de idade referidos no n.º 1 não são de considerar quando os filhos, filhas, irmãos e irmãs se encontrem incapazes de angariar meios de subsistência pelo seu trabalho, devidamente comprovado por atestado médico visado pela autoridade marítima.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182068377": {
+   "fragment_id": "182066566",
+   "type": 1,
+   "heading": "Capítulo VIII — Cursos e instruções",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "### Capítulo VIII — Cursos e instruções\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182068378": {
+   "fragment_id": "182066567",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 45.º\n\n1 - Os cursos e instruções ministrados pelo ISN são os seguintes:\n\na) Curso de nadadores-salvadores;\n\nb) Instrução de actualização de nadadores-salvadores;\n\nc) Curso de monitores de nadadores-salvadores;\n\nd) Instrução de actualização de monitores de nadadores-salvadores;\n\ne) Instrução de pessoal dos barcos salva-vidas;\n\nf) Instrução de actualização de pessoal dos barcos salva-vidas.\n\n2 - Os cursos e instruções mencionados funcionarão nos locais mais convenientes.\n\n3 - As despesas com os cursos e instruções referidos são da responsabilidade do Instituto.\n\n4 - Os programas das provas de admissão aos cursos e instruções, quando as houver, são aprovados por despacho ministerial, e os planos dos cursos e instruções, por despacho do director-geral dos Serviços de Fomento Marítimo.\n\n5 - Anualmente, mediante proposta do director do Instituto, o Ministro da Marinha fixará por despacho a natureza e número de cursos e instruções que se realizarão e a sua frequência.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182068379": {
+   "fragment_id": "182066568",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 46.º\n\n1 - O curso de nadadores-salvadores destina-se a habilitar convenientemente indivíduos para a salvação de náufragos.\n\n2 - Ao curso de nadadores-salvadores podem ser admitidos todos os indivíduos, independentemente de sexo ou nacionalidade, nas seguintes condições:\n\na) Quando o requeiram, satisfaçam as provas de admissão e possuam robustez física adequada, comprovada por exame médico efectuado numa capitania, delegação marítima ou delegação de saúde, quando fora da área de jurisdição daquelas repartições marítimas;\n\nb) Quando propostos por corporações de bombeiros ou outras associações ou sociedades humanitárias ou de utilidade pública, a fim de servirem graciosamente nas praias como elementos daquelas instituições, e possuam robustez física comprovada por exame médico.\n\n3 - A instrução de actualização de nadadores-salvadores destina-se a facultar novos conhecimentos relativamente aos adquiridos no curso referido no n.º 1 deste artigo.\n\n4 - À instrução referida no número anterior podem ser admitidos os indivíduos habilitados com o curso de nadadores-salvadores.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182068380": {
+   "fragment_id": "182066569",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 47.º\n\n- 1. O curso de monitores de nadadores-salvadores destina-se a habilitar indivíduos para serem instrutores de cursos de nadadores-salvadores.\n\n2. Ao curso de monitores de nadadores-salvadores só podem ser admitidos indivíduos que possuam o curso de nadadores-salvadores e satisfaçam a uma inspecção médica realizada numa capitania ou delegação marítima.\n\n3. Aos indivíduos que, à data da publicação deste Regulamento, constem dos registos do I. S. N. como tendo sido instrutores de cursos de nadadores-salvadores poderão ser passados diplomas de monitores de nadadores-salvadores, desde que sejam aprovados num exame, cujo programa será aprovado por despacho ministerial.\n\n4 - A instrução de actualização de monitores de nadadores-salvadores destina-se a actualizar os conhecimentos dos monitores.\n\n5 - À instrução referida no número anterior podem ser admitidos os monitores que o requeiram ou que forem convidados.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182068381": {
+   "fragment_id": "182066570",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 48.º\n\n- 1. A instrução do pessoal dos barcos salva-vidas destina-se a preparar os indivíduos destinados a tripulantes dos barcos salva-vidas, tanto de manobra como motoristas.\n\n2. A instrução, de carácter essencialmente prático, tem por objectivo proporcionar ensinamentos sobre o material em uso, manobra de barcos, cuidados a ter com os náufragos, tratamento de feridos, respiração artificial e outras matérias consideradas de interesse.\n\n3 - A instrução de actualização do pessoal dos barcos salva-vidas destina-se a facultar aos tripulantes dos barcos salva-vidas novos conhecimentos decorrentes da evolução técnica dos meios de salvamento.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182068382": {
+   "fragment_id": "182066571",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579)"
+   ],
+   "markdown": "###### Artigo 49.º\n\n1 - Aos indivíduos aprovados nos cursos e instruções a que se refere o n.º 1 do artigo 45.º serão passados diplomas de habilitação.\n\n2 - Aos indivíduos aprovados no curso de monitores de nadadores-salvadores serão atribuídos cartões de identificação, de modelo a aprovar por portaria do Chefe do Estado-Maior da Armada.\n\n3 - Aos indivíduos aprovados no curso de nadadores-salvadores, frequentados nos termos da alínea a) do n.º 2 do artigo 46.º, serão atribuídos cartões de identificação, de modelo a aprovar por portaria do Chefe do Estado-Maior da Armada, sem os quais não poderão ser contratados para o serviço de banhos e de salvamento das concessões balneares.\n\n4 - Perdem o direito ao uso do cartão de identificação referido no n.º 3 deste artigo os respectivos titulares punidos pelas autoridades marítimas por mau comportamento ou falta de idoneidade e os que se recusem a frequentar a instrução a que se refere a alínea b) do n.º 1 do artigo 45.º\n\n5 - Aos indivíduos aprovados no curso de nadadores-salvadores, frequentado ao abrigo da alínea b) do n.º 2 do artigo 46.º, serão atribuídos cartões de identificação de nadador-salvador voluntário, de modelo a aprovar por portaria do Chefe do Estado-Maior da Armada.\n\n6 - O cartão de identificação referido no número anterior não tem qualquer validade para efeitos de contratação para serviço de banhos e salvamento das concessões balneares.\n\n7 - Os bilhetes de identidade de que actualmente são titulares os membros da corporações de bombeiros serão substituídos pelo cartão de identificação a que se refere o n.º 5 deste artigo, mediante requerimento, dirigido ao director do ISN, com informação favorável do respectivo comandante da corporação de bombeiros.\n\n8 - Os monitores de nadadores-salvadores e os nadadores-salvadores voluntários gozam de todos os direitos concedidos por este Regulamento aos protectores subscritores do ISN.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579)"
+  },
+  "182068383": {
+   "fragment_id": "182066572",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+   ],
+   "markdown": "###### Artigo 50.º\n\n1 - Os indivíduos habilitados com o curso de nadadores-salvadores, nos termos da alínea a) do n.º 2 do artigo 46.º, são obrigatoriamente inscritos como protectores subscritores do ISN, com todos os direitos e deveres consignados neste Regulamento.\n\n2 - Só poderão ser contratados para o serviço de banhos e salvamentos das concessões balneares os nadadores-salvadores que não tenham quotas em atraso por liquidar.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 521/80 - Diário da República n.º 256/1980, Série I de 1980-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1980-457579), em vigor a partir de 1980-12-01"
+  },
+  "182068384": {
+   "fragment_id": "182066573",
+   "type": 1,
+   "heading": "Capítulo IX — Bandeira, distintivo e emblema",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "### Capítulo IX — Bandeira, distintivo e emblema\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182068385": {
+   "fragment_id": "182066574",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 51.º\n\n- 1. A bandeira do I. S. N. é do modelo anexo a este Regulamento, com o número de panos apropriados ao seu uso, o que será fixado no regulamento interno do I. S. N.\n\n2. A bandeira nacional e a do I. S. N. são içadas nas instalações aos domingos, dias de feriado e quando determinado superiormente.\n\n3. Os barcos salva-vidas usarão a bandeira nacional à popa e a do Instituto à proa, sendo-lhes vedado arvorar quaisquer outras insígnias ou distintivos.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182068386": {
+   "fragment_id": "182067675",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 52.º\n\nO distinto do I. S. N. é de modelo idêntico ao da bandeira e é usado nas seguintes condições:\n\na) Nas viaturas, pintado nas portas da frente, nas condições do n.º 4 do artigo 14.º;\n\nb) Nas instalações do I. S. N., nas condições do n.º 5 do artigo 13.º\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182068387": {
+   "fragment_id": "182067676",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 53.º\n\nO emblema do I. S. N., de modelo idêntico ao da bandeira e distintivo, pode ser usado pelos protectores, na lapela do casaco.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182068388": {
+   "fragment_id": "182067677",
+   "type": 1,
+   "heading": "Capítulo X — Disposições diversas e transitórias",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "### Capítulo X — Disposições diversas e transitórias\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182068389": {
+   "fragment_id": "182067678",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 54.º\n\nOs serviços prestados na salvação de náufragos serão considerados como uma condição de preferência na admissão nos quadros do pessoal civil do Ministério da Marinha.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182068390": {
+   "fragment_id": "182067679",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 55.º\n\n- 1. O I. S. N. publicará, com fins de divulgação, um boletim, designado por Boletim do Instituto de Socorros a Náufragos.\n\n2. O Boletim terá a periodicidade e a distribuição que forem determinadas pelo director.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182068391": {
+   "fragment_id": "182067680",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "###### Artigo 56.º\n\nO regulamento interno do I. S. N. será posto em vigor por despacho ministerial.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  },
+  "182068392": {
+   "fragment_id": "182067681",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1985-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+   ],
+   "markdown": "O Ministro da Marinha, Manuel Pereira Crespo.\n\nMODELOS ANEXOS\n\nMedalhas\n\n(ver documento original)\n\nDiplomas de concessão de medalhas e de louvores\n\n(ver documento original)\n\nDiploma de menção de apreço\n\n(ver documento original)\n\nBandeira, distintivo e emblema\n\n(ver documento original)\n\nO Ministro da Marinha, Manuel Pereira Crespo.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 349/85 - Diário da República n.º 195/1985, Série I de 1985-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), em vigor a partir de 1985-08-27"
+  }
+ }
+}

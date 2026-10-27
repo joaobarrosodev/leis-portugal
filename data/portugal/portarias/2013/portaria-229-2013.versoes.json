@@ -1,0 +1,400 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:497824:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-216138208",
+ "dre_path": "/dr/detalhe/portaria/229-2013-497824",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-07-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919653250",
+    "216137964",
+    "216137965",
+    "216137966",
+    "216137967",
+    "216137968",
+    "216137969",
+    "216137970",
+    "216137971",
+    "216137972",
+    "216137973",
+    "216137974",
+    "216135975",
+    "216135976"
+   ]
+  },
+  {
+   "date": "2023-07-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216055960:por",
+     "title": "Decreto-Lei n.º 60/2023",
+     "published": "2023-07-24",
+     "dre_path": "/dr/detalhe/decreto-lei/60-2023-216055960"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "216137963",
+    "216135978",
+    "216137965",
+    "216137966",
+    "216137967",
+    "216135979",
+    "216135980",
+    "216137970",
+    "216137971",
+    "216137972",
+    "216137973",
+    "216137974",
+    "216135975",
+    "216135976",
+    "216135977"
+   ]
+  },
+  {
+   "date": "2025-05-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:919523555:por",
+     "title": "Portaria n.º 235/2025/1",
+     "published": "2025-05-27",
+     "dre_path": "/dr/detalhe/portaria/235-2025-919523555"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "919653250",
+    "919653251",
+    "919653252",
+    "919653253",
+    "919653254",
+    "919653255",
+    "919653256",
+    "919653257",
+    "919653258",
+    "919653259",
+    "919653260",
+    "919653261",
+    "919653262",
+    "919653263",
+    "919653264"
+   ]
+  }
+ ],
+ "fragments": {
+  "919653250": {
+   "fragment_id": "216138209",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-05-28",
+   "changed_by": [],
+   "markdown": "Portaria n.º 229/2013\n\nde 18 de julho\n\nO Decreto-Lei n.º 156/2012, de 18 de julho definiu a missão, as atribuições e o tipo de organização interna da Direção-Geral do Tesouro e Finanças. Importa agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear e estabelecer o número máximo de unidades flexíveis e matriciais do serviço e as competências das respetivas unidades orgânicas nucleares.\n\nAssim:\n\nAo abrigo do disposto nos n.os 4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pela Ministra de Estado e das Finanças, o seguinte:"
+  },
+  "216137964": {
+   "fragment_id": "216138210",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Direção-Geral do Tesouro e Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Direção-Geral do Tesouro e Finanças\n\n1. A Direção-Geral do Tesouro e Finanças (DGTF) estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Participações do Estado;\n\nb) Direção de Serviços de Apoios Financeiros;\n\nc) Direção de Serviços de Gestão Financeira e Orçamental;\n\nd) Direção de Serviços de Gestão Patrimonial;\n\ne) Direção de Serviços de Avaliações e Valorização do Património;\n\nf) Direção de Serviços de Regularizações Financeiras;\n\ng) Gabinete de Apoio e Coordenação do Setor Empresarial do Estado;\n\nh) Direção de Serviços Jurídicos e Coordenação.\n\n2. As unidades orgânicas referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau."
+  },
+  "216137965": {
+   "fragment_id": "216138211",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços de Participações do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direção de Serviços de Participações do Estado\n\nÀ Direção de Serviços de Participações do Estado, abreviadamente designada por DSPE, compete:\n\na) Preparar as instruções gerais destinadas às empresas do SEE no domínio do exercício da função acionista e tutelar do Estado;\n\nb) Efetuar a análise da situação económica e financeira, estratégias e projetos das empresas públicas, formular propostas de atuação e assegurar a intervenção do Estado enquanto acionista ou mediante o exercício de poderes de tutela;\n\nc) Preparar os processos referentes à definição das linhas estratégicas de atuação das empresas do SEE e à definição casuística das orientações e objetivos de gestão;\n\nd) Preparar os contratos de gestão com identificação e quantificação de metas de natureza económica, financeira e de atividade a atingir pelos gestores e indexação dos prémios de gestão aos níveis de atingimento de objetivos;\n\ne) Monitorizar o processo de validação do cumprimento pelas empresas dos objetivos quantitativos fixados e das regras e boas práticas de governação societária;\n\nf) Proceder ao acompanhamento da gestão das empresas do setor empresarial do Estado e aferir o cumprimento dos deveres especiais de informação que lhe incumbem, o respeito das determinações legais e regulamentares, bem como a implementação das decisões dos acionistas ou da tutela;\n\ng) Proceder à identificação e avaliação crítica de desvios na execução dos instrumentos previsionais de gestão das empresas públicas para reporte ao Governo;\n\nh) Acompanhar os programas de investimento e seu financiamento, incluindo o endividamento e o nível de esforço financeiro do Estado globalmente considerado;\n\ni) Monitorizar a aplicação do Estatuto do Gestor Público;\n\nj) Monitorizar as ações a empreender no âmbito de programas especiais dirigidos às empresas do SEE;\n\nk) Analisar e preparar os documentos necessários à tomada de decisão relativa às entidades em que o Ministro das Finanças intervenha como tutela financeira ou como acionista;\n\nl) Monitorizar a gestão do processo de atribuição de compensações financeiras a empresas que prestam serviços de interesse geral, acompanhar a execução financeira dos contratos relacionados com esta matéria e promover o pagamento dessas subvenções;\n\nm) Manter o inventário dos valores mobiliários do Estado e das participações de serviços e fundos autónomos no capital de sociedades e assegurar a gestão operacional da carteira do Estado;\n\nn) Recolher, tratar e divulgar informação relacionada com a função tutelar e acionista do Estado e com as relações contratuais no âmbito de atividades que envolvam obrigações de serviço de interesse geral."
+  },
+  "216137966": {
+   "fragment_id": "216138212",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Apoios Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Apoios Financeiros\n\nÀ Direção de Serviços de Apoios Financeiros, abreviadamente designada por DSAF, compete:\n\na) Preparar os processos relativos à autorização e concessão de garantias pessoais do Estado;\n\nb) Administrar, direta ou indiretamente, a dívida pública acessória, incluindo as responsabilidades do Estado em matéria de seguros de crédito à exportação e ao investimento português no estrangeiro, entre outros instrumentos similares;\n\nc) Avaliar o risco das operações de crédito à exportação e ao investimento e elaborar propostas de políticas de cobertura de risco, ouvindo para o efeito outras entidades, designadamente da área económica e dos negócios estrangeiros;\n\nd) Preparar os processos relativos à autorização e concessão de empréstimos ou de outras operações ativas do Estado;\n\ne) Administrar, direta ou indiretamente, os empréstimos e outras operações ativas do Estado e acompanhar os respetivos beneficiários;\n\nf) Acompanhar os financiamentos das empresas do setor público, bem como acompanhar a evolução dos mercados e serviços financeiros;\n\ng) Preparar os processos relacionados com os apoios bilaterais, a prestar no âmbito da cooperação financeira para o desenvolvimento, incluindo as operações de crédito de ajuda;\n\nh) Analisar e processar os pedidos de pagamento de bonificações de juros, acompanhando os financiamentos subjacentes;\n\ni) Analisar e processar subsídios e compensações, com exceção dos que resultem da execução financeira de contratos relacionados com a prestação ou gestão de atividades que envolvam obrigações de serviço público;\n\nj) Acompanhar as condições de cumprimento das obrigações subjacentes aos apoios do Estado, por parte dos beneficiários e dos intermediários financeiros envolvidos;\n\nk) Assegurar a representação técnica do Ministério das Finanças em organizações europeias e internacionais em matéria de garantias do Estado, incluindo o crédito à exportação;\n\nl) Assegurar a participação e a contribuição do Estado, respetivamente no capital e nos fundos de instituições financeiras internacionais."
+  },
+  "216137967": {
+   "fragment_id": "216138213",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Serviços de Gestão Financeira e Orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direção de Serviços de Gestão Financeira e Orçamental\n\nÀ Direção de Serviços de Gestão Financeira e Orçamental, abreviadamente designada por DSGFO, compete:\n\na) Controlar a emissão e a circulação de moeda metálica e gerir o orçamento de despesa relativo ao pagamento dos custos de amoedação;\n\nb) Assegurar a gestão financeira de patrimónios autónomos que esteja cometida à DGTF;\n\nc) Elaborar as propostas de orçamento da DGTF relativas às receitas a arrecadar ou a cobrar e às despesa excecionais a processar através do capítulo 60.º do Orçamento do Estado;\n\nd) Assegurar a coordenação orçamental das receitas arrecadadas ou cobradas e das despesas excecionais processadas pela DGTF;\n\ne) Coordenar a utilização dos sistemas de execução orçamental das receitas e das despesas excecionais, estabelecendo a articulação com a Direção-Geral do Orçamento e a Entidade de Serviços Partilhados da Administração Pública, IP;\n\nf) Assegurar a contabilização das receitas provenientes da gestão do património imobiliário do Estado, bem como de outras receitas de caráter extraordinário cuja contabilização lhe seja cometida;\n\ng) Promover a realização de projetos especiais de natureza financeira nas áreas de atribuição da DGTF;\n\nh) Elaborar a proposta de orçamento da DGTF relativa ao orçamento de funcionamento, bem como assegurar e controlar a sua execução;\n\ni) Processar as despesas de funcionamento e de investimento;\n\nj) Elaborar a conta de gerência;\n\nk) Colaborar com a Secretaria-Geral do Ministério das Finanças na gestão dos recursos financeiros e contribuir para a definição de políticas e técnicas de gestão racional dos mesmos, tendo em vista a sua valorização e adequação às necessidades da DGTF."
+  },
+  "216137968": {
+   "fragment_id": "216138214",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Gestão Patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Gestão Patrimonial\n\nÀ Direção de Serviços de Gestão Patrimonial, abreviadamente designada por DSGP, compete:\n\na) Assegurar os procedimentos necessários à aquisição onerosa e gratuita, para o Estado ou outras pessoas coletivas de direito público, exceto por via expropriatória, do direito de propriedade e de outros direitos reais de gozo sobre imóveis, nos termos definidos por lei;\n\nb) Assegurar os procedimentos necessários à celebração de contratos de arrendamento para instalação de serviços públicos do Estado ou de outras pessoas coletivas de direito público, bem como para a cessação dos respetivos contratos ou alteração do objeto contratual;\n\nc) Administrar o património imobiliário do Estado, designadamente através do processamento de atos relativos ao arrendamento e à cedência para fins de interesse público, ou de atos tendentes à regularização da sua situação registral;\n\nd) Assegurar a instrução e decisão dos processos de afetação a serviços públicos de imóveis arrendados a favor do Estado e de outras pessoas coletivas de direito público;\n\ne) Assegurar os procedimentos relativos à alienação do património imobiliário do Estado e das pessoas coletivas de direito público, nos termos definidos na lei;\n\nf) Assegurar os procedimentos necessários à conservação e valorização do património imobiliário do Estado, visando a sua rentabilização e ocupação funcional;\n\ng) Praticar os atos inerentes à aquisição, gestão e alienação de bens móveis do domínio privado do Estado, nos termos definidos na lei."
+  },
+  "216137969": {
+   "fragment_id": "216138215",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços de Avaliações e Valorização do Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção de Serviços de Avaliações e Valorização do Património\n\nÀ Direção de Serviços de Avaliações e Valorização do Património, abreviadamente designada por DSAVP, compete:\n\na) Elaborar estudos técnicos sobre modelos de negócio e de inserção urbanística e territorial dos imóveis no sentido da racionalização, rentabilização e valorização da ocupação, do uso e disposição do património imobiliário público;\n\nb) Promover e assegurar as avaliações dos imóveis e dos direitos imobiliários no âmbito do património imobiliário público;\n\nc) Elaborar pareceres sobre projetos e elaborar projetos de obras e de intervenção de conservação, beneficiação e reconversão de imóveis do Estado e de pessoas coletivas públicas;\n\nd) Efetuar vistorias aos imóveis do Estado ou em uso pelos serviços e organismos do Estado verificando a respetiva utilização ou condições de conservação e pronunciar-se sobre as intervenções de que careçam e fiscalizar a sua execução;\n\ne) Elaborar, atualizar e gerir o inventário, em suporte físico e digital dos bens imóveis e dos direitos imobiliários do Estado e dos institutos públicos;\n\nf) Recolher, tratar e processar a informação relativa aos imóveis para a constituição e gestão de uma base de dados de gestão do património imobiliário público."
+  },
+  "216137970": {
+   "fragment_id": "216138216",
+   "type": 11,
+   "heading": "Artigo 7.º — Direção de Serviços de Regularizações Financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direção de Serviços de Regularizações Financeiras\n\nÀ Direção de Serviços de Regularizações Financeiras, abreviadamente designada por DSRF, compete:\n\na) Acompanhar os processos de liquidação de entidades do setor público administrativo e empresarial em que o Estado intervenha como tutela financeira ou acionista e a atuação dos liquidatários;\n\nb) Analisar e preparar os processos de decisão da intervenção do Estado no contexto dos processos de liquidação de entidades do setor público administrativo e empresarial em que o Estado intervenha como tutela financeira ou acionista;\n\nc) Assumir passivos e responsabilidades de organismos públicos e de empresas públicas e participadas;\n\nd) Regularizar despesas resultantes de processos de liquidação;\n\ne) Acompanhar a transferência para o Estado, através da DGTF, de ativos e passivos e de outras responsabilidades de entidades extintas ou a extinguir;\n\nf) Regularizar responsabilidades de entidades extintas, bem como outras previstas na lei;\n\ng) Assegurar execução da garantia do Estado no âmbito de processos de expropriação, bem como o exercício do correspondente direito de regresso;\n\nh) Assegurar a recuperação dos créditos do Tesouro, incluindo os provenientes de entidades extintas e respetiva gestão;\n\ni) Assegurar o acompanhamento e o controlo do exercício dos mandatos de gestão dos créditos do Tesouro;\n\nj) Controlar e atualizar os sistemas de informação de recuperação dos créditos do Tesouro;\n\nk) Promover, negociar e executar acordos de reestruturação de créditos, nomeadamente sobre os países em desenvolvimento."
+  },
+  "216137971": {
+   "fragment_id": "216138217",
+   "type": 11,
+   "heading": "Artigo 8.º — Direção de Serviços Jurídicos e de Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direção de Serviços Jurídicos e de Coordenação\n\nÀ Direção de Serviços Jurídicos e de Coordenação, abreviadamente designada por DSJC, compete:\n\na) Realizar estudos, emitir pareceres e prestar informações de natureza jurídica sobre matérias da competência da DGTF;\n\nb) Elaborar o plano e relatório anuais de atividades, bem como outros documentos de natureza estratégica de âmbito geral;\n\nc) Coordenar a cooperação com organismos homólogos de outros países;\n\nd) Assegurar a coordenação interna das ações relativas à atuação dos órgãos de controlo financeiro;\n\ne) Colaborar com a Secretaria-Geral do Ministério das Finanças na gestão dos recursos humanos e patrimoniais e contribuir para a definição de políticas e técnicas de gestão racional dos mesmos, tendo em vista a sua valorização e adequação às necessidades da DGTF;\n\nf) Planear, coordenar e realizar ações de formação e aperfeiçoamento profissional do pessoal;\n\ng) Elaborar o balanço social da DGTF;\n\nh) Assegurar a administração do património da DGTF e manter atualizado o respetivo inventário;\n\ni) Assegurar os procedimentos de tratamento do expediente e restante documentação;\n\nj) Organizar e administrar o arquivo da DGTF;\n\nk) Assegurar a satisfação das necessidades da DGTF no âmbito das infraestruturas informáticas e dos sistemas de informação, em articulação com a entidade responsável no âmbito do Ministério das Finanças."
+  },
+  "216137972": {
+   "fragment_id": "216138218",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete de Apoio e Coordenação do Setor Empresarial do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gabinete de Apoio e Coordenação do Setor Empresarial do Estado\n\nAo Gabinete de Apoio e Coordenação do Setor Empresarial do Estado, abreviadamente designado por GACSE, compete:\n\na) A formulação de propostas de definição de referenciais para o cumprimento das orientações estratégicas previstas na lei e avaliação do respetivo cumprimento;\n\nb) O acompanhamento nos programas de investimento e respetivo financiamento, incluindo o endividamento e o nível de esforço financeiro do Estado globalmente considerado;\n\nc) O acompanhamento dos processos de concessões do Estado, visando a observância de critérios de rigor financeiro e o aperfeiçoamento dos modelos de análise e controlo das concessões;\n\nd) O acompanhamento da negociação e implementação dos contratos, contratos-programa, acordos ou protocolos, dos quais possa resultar esforço financeiro para o Estado;\n\ne) A análise e acompanhamento de projetos de reestruturação empresarial ou de criação de novas empresas;\n\nf) Assegurar a representação técnica do Ministério das Finanças em organizações europeias e internacionais em matérias relacionadas com o setor empresarial do Estado;\n\ng) Monitorizar os elementos a disponibilizar sobre o setor empresarial do Estado com relevância para as entidades internacionais;\n\nh) Coordenar e acompanhar as respostas ao Tribunal de Contas em todas as vertentes relacionadas com as áreas de atribuições cometidas à DGTF;\n\ni) Elaborar os relatórios respeitantes ao setor empresarial do Estado, coordenar e preparar com as restantes unidades orgânicas a informação a facultar relativa ao setor empresarial do Estado, bem como a sua análise crítica;\n\nj) Propor, em articulação com a Direção de Serviços de Participações do Estado, as linhas estratégicas de atuação das empresas do setor empresarial do Estado, nomeadamente em termos de entidades públicas reclassificadas, entidades públicas não reclassificadas e setoriais."
+  },
+  "216137973": {
+   "fragment_id": "216138219",
+   "type": 11,
+   "heading": "Artigo 10.º — Unidades orgânicas flexíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da DGTF é fixado em 12."
+  },
+  "216137974": {
+   "fragment_id": "216138220",
+   "type": 11,
+   "heading": "Artigo 11.º — Chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Chefes de equipas multidisciplinares\n\nÉ fixada em uma a dotação máxima de chefes de equipas multidisciplinares."
+  },
+  "216135975": {
+   "fragment_id": "216138221",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogada a Portaria n.º 347/2007, de 30 de março."
+  },
+  "216135976": {
+   "fragment_id": "216138222",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "216137963": {
+   "fragment_id": "216138209",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 229/2013\n\nde 18 de julho\n\nO Decreto-Lei n.º 156/2012, de 18 de julho definiu a missão, as atribuições e o tipo de organização interna da Direção-Geral do Tesouro e Finanças. Importa agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear e estabelecer o número máximo de unidades flexíveis e matriciais do serviço e as competências das respetivas unidades orgânicas nucleares.\n\nAssim:\n\nAo abrigo do disposto nos n.os 4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pela Ministra de Estado e das Finanças, o seguinte:"
+  },
+  "216135978": {
+   "fragment_id": "216138210",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Direção-Geral do Tesouro e Finanças",
+   "in_force_from": "2023-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Direção-Geral do Tesouro e Finanças\n\n1. A Direção-Geral do Tesouro e Finanças (DGTF) estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Participações do Estado;\n\nb) Direção de Serviços de Apoios Financeiros;\n\nc) Direção de Serviços de Gestão Financeira e Orçamental;\n\nd) Revogada;\n\ne) Revogada;\n\nf) Direção de Serviços de Regularizações Financeiras;\n\ng) Gabinete de Apoio e Coordenação do Setor Empresarial do Estado;\n\nh) Direção de Serviços Jurídicos e Coordenação.\n\n2. As unidades orgânicas referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+  },
+  "216135979": {
+   "fragment_id": "216138214",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Gestão Patrimonial",
+   "in_force_from": "2023-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+   ],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Gestão Patrimonial\n\nÀ Direção de Serviços de Gestão Patrimonial, abreviadamente designada por DSGP, compete:\n\na) Assegurar os procedimentos necessários à aquisição onerosa e gratuita, para o Estado ou outras pessoas coletivas de direito público, exceto por via expropriatória, do direito de propriedade e de outros direitos reais de gozo sobre imóveis, nos termos definidos por lei;\n\nb) Assegurar os procedimentos necessários à celebração de contratos de arrendamento para instalação de serviços públicos do Estado ou de outras pessoas coletivas de direito público, bem como para a cessação dos respetivos contratos ou alteração do objeto contratual;\n\nc) Administrar o património imobiliário do Estado, designadamente através do processamento de atos relativos ao arrendamento e à cedência para fins de interesse público, ou de atos tendentes à regularização da sua situação registral;\n\nd) Assegurar a instrução e decisão dos processos de afetação a serviços públicos de imóveis arrendados a favor do Estado e de outras pessoas coletivas de direito público;\n\ne) Assegurar os procedimentos relativos à alienação do património imobiliário do Estado e das pessoas coletivas de direito público, nos termos definidos na lei;\n\nf) Assegurar os procedimentos necessários à conservação e valorização do património imobiliário do Estado, visando a sua rentabilização e ocupação funcional;\n\ng) Praticar os atos inerentes à aquisição, gestão e alienação de bens móveis do domínio privado do Estado, nos termos definidos na lei.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+  },
+  "216135980": {
+   "fragment_id": "216138215",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços de Avaliações e Valorização do Património",
+   "in_force_from": "2023-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+   ],
+   "markdown": "###### Artigo 6.º — Direção de Serviços de Avaliações e Valorização do Património\n\nÀ Direção de Serviços de Avaliações e Valorização do Património, abreviadamente designada por DSAVP, compete:\n\na) Elaborar estudos técnicos sobre modelos de negócio e de inserção urbanística e territorial dos imóveis no sentido da racionalização, rentabilização e valorização da ocupação, do uso e disposição do património imobiliário público;\n\nb) Promover e assegurar as avaliações dos imóveis e dos direitos imobiliários no âmbito do património imobiliário público;\n\nc) Elaborar pareceres sobre projetos e elaborar projetos de obras e de intervenção de conservação, beneficiação e reconversão de imóveis do Estado e de pessoas coletivas públicas;\n\nd) Efetuar vistorias aos imóveis do Estado ou em uso pelos serviços e organismos do Estado verificando a respetiva utilização ou condições de conservação e pronunciar-se sobre as intervenções de que careçam e fiscalizar a sua execução;\n\ne) Elaborar, atualizar e gerir o inventário, em suporte físico e digital dos bens imóveis e dos direitos imobiliários do Estado e dos institutos públicos;\n\nf) Recolher, tratar e processar a informação relativa aos imóveis para a constituição e gestão de uma base de dados de gestão do património imobiliário público.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+  },
+  "216135977": {
+   "fragment_id": "216138223",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 5 de julho de 2013."
+  },
+  "919653251": {
+   "fragment_id": "216138210",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Direção-Geral do Tesouro e Finanças",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28",
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Direção-Geral do Tesouro e Finanças\n\n1. A Direção-Geral do Tesouro e Finanças (DGTF) estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Participações do Estado;\n\nb) Direção de Serviços de Apoios Financeiros;\n\nc) Direção de Serviços de Gestão Financeira e Orçamental;\n\nd) Revogada;\n\ne) Revogada;\n\nf) Direção de Serviços de Regularizações Financeiras;\n\ng) Gabinete de Apoio e Coordenação do Setor Empresarial do Estado;\n\nh) Direção de Serviços Jurídicos e Coordenação.\n\n2. As unidades orgânicas referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+  },
+  "919653252": {
+   "fragment_id": "216138211",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços de Participações do Estado",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+   ],
+   "markdown": "###### Artigo 2.º — Direção de Serviços de Participações do Estado\n\nÀ Direção de Serviços de Participações do Estado, abreviadamente designada por DSPE, compete:\n\na) Preparar as instruções gerais destinadas às empresas do SEE no domínio do exercício da função acionista e tutelar do Estado;\n\nb) Efetuar a análise da situação económica e financeira, estratégias e projetos das empresas públicas, formular propostas de atuação e assegurar a intervenção do Estado enquanto acionista ou mediante o exercício de poderes de tutela;\n\nc) Preparar os processos referentes à definição das linhas estratégicas de atuação das empresas do SEE e à definição casuística das orientações e objetivos de gestão;\n\nd) Preparar os contratos de gestão com identificação e quantificação de metas de natureza económica, financeira e de atividade a atingir pelos gestores e indexação dos prémios de gestão aos níveis de atingimento de objetivos;\n\ne) Monitorizar o processo de validação do cumprimento pelas empresas dos objetivos quantitativos fixados e das regras e boas práticas de governação societária;\n\nf) Proceder ao acompanhamento da gestão das empresas do setor empresarial do Estado e aferir o cumprimento dos deveres especiais de informação que lhe incumbem, o respeito das determinações legais e regulamentares, bem como a implementação das decisões dos acionistas ou da tutela;\n\ng) Proceder à identificação e avaliação crítica de desvios na execução dos instrumentos previsionais de gestão das empresas públicas para reporte ao Governo;\n\nh) Acompanhar os programas de investimento e seu financiamento, incluindo o endividamento e o nível de esforço financeiro do Estado globalmente considerado;\n\ni) Monitorizar a aplicação do Estatuto do Gestor Público;\n\nj) Monitorizar as ações a empreender no âmbito de programas especiais dirigidos às empresas do SEE;\n\nk) Analisar e preparar os documentos necessários à tomada de decisão relativa às entidades em que o Ministro das Finanças intervenha como tutela financeira ou como acionista;\n\nl) Monitorizar a gestão do processo de atribuição de compensações financeiras a empresas que prestam serviços de interesse geral, acompanhar a execução financeira dos contratos relacionados com esta matéria e promover o pagamento dessas subvenções;\n\nm) Manter o inventário dos valores mobiliários do Estado e das participações de serviços e fundos autónomos no capital de sociedades e assegurar a gestão operacional da carteira do Estado;\n\nn) Recolher, tratar e divulgar informação relacionada com a função tutelar e acionista do Estado e com as relações contratuais no âmbito de atividades que envolvam obrigações de serviço de interesse geral.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+  },
+  "919653253": {
+   "fragment_id": "216138212",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Apoios Financeiros",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+   ],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Apoios Financeiros\n\nÀ Direção de Serviços de Apoios Financeiros, abreviadamente designada por DSAF, compete:\n\na) Preparar os processos relativos à autorização e concessão de garantias pessoais do Estado;\n\nb) Administrar, direta ou indiretamente, a dívida pública acessória, incluindo as responsabilidades do Estado em matéria de seguros de crédito à exportação e ao investimento português no estrangeiro, entre outros instrumentos similares;\n\nc) Avaliar o risco das operações de crédito à exportação e ao investimento e elaborar propostas de políticas de cobertura de risco, ouvindo para o efeito outras entidades, designadamente da área económica e dos negócios estrangeiros;\n\nd) Preparar os processos relativos à autorização e concessão de empréstimos ou de outras operações ativas do Estado;\n\ne) Administrar, direta ou indiretamente, os empréstimos e outras operações ativas do Estado e acompanhar os respetivos beneficiários;\n\nf) Acompanhar os financiamentos das empresas do setor público, bem como acompanhar a evolução dos mercados e serviços financeiros;\n\ng) Preparar os processos relacionados com os apoios bilaterais, a prestar no âmbito da cooperação financeira para o desenvolvimento, incluindo as operações de crédito de ajuda;\n\nh) Analisar e processar os pedidos de pagamento de bonificações de juros, acompanhando os financiamentos subjacentes;\n\ni) Analisar e processar subsídios e compensações, com exceção dos que resultem da execução financeira de contratos relacionados com a prestação ou gestão de atividades que envolvam obrigações de serviço público;\n\nj) Acompanhar as condições de cumprimento das obrigações subjacentes aos apoios do Estado, por parte dos beneficiários e dos intermediários financeiros envolvidos;\n\nk) Assegurar a representação técnica do Ministério das Finanças em organizações europeias e internacionais em matéria de garantias do Estado, incluindo o crédito à exportação;\n\nl) Assegurar a participação e a contribuição do Estado, respetivamente no capital e nos fundos de instituições financeiras internacionais.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+  },
+  "919653254": {
+   "fragment_id": "216138213",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Serviços de Gestão Financeira e Orçamental",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+   ],
+   "markdown": "###### Artigo 4.º — Direção de Serviços de Gestão Financeira e Orçamental\n\nÀ Direção de Serviços de Gestão Financeira e Orçamental, abreviadamente designada por DSGFO, compete:\n\na) Controlar a emissão e a circulação de moeda metálica e gerir o orçamento de despesa relativo ao pagamento dos custos de amoedação;\n\nb) Assegurar a gestão financeira de patrimónios autónomos que esteja cometida à DGTF;\n\nc) Elaborar as propostas de orçamento da DGTF relativas às receitas a arrecadar ou a cobrar e às despesa excecionais a processar através do capítulo 60.º do Orçamento do Estado;\n\nd) Assegurar a coordenação orçamental das receitas arrecadadas ou cobradas e das despesas excecionais processadas pela DGTF;\n\ne) Coordenar a utilização dos sistemas de execução orçamental das receitas e das despesas excecionais, estabelecendo a articulação com a Direção-Geral do Orçamento e a Entidade de Serviços Partilhados da Administração Pública, IP;\n\nf) Assegurar a contabilização das receitas provenientes da gestão do património imobiliário do Estado, bem como de outras receitas de caráter extraordinário cuja contabilização lhe seja cometida;\n\ng) Promover a realização de projetos especiais de natureza financeira nas áreas de atribuição da DGTF;\n\nh) Elaborar a proposta de orçamento da DGTF relativa ao orçamento de funcionamento, bem como assegurar e controlar a sua execução;\n\ni) Processar as despesas de funcionamento e de investimento;\n\nj) Elaborar a conta de gerência;\n\nk) Colaborar com a Secretaria-Geral do Ministério das Finanças na gestão dos recursos financeiros e contribuir para a definição de políticas e técnicas de gestão racional dos mesmos, tendo em vista a sua valorização e adequação às necessidades da DGTF.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+  },
+  "919653255": {
+   "fragment_id": "216138214",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Gestão Patrimonial",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28",
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+   ],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Gestão Patrimonial\n\nÀ Direção de Serviços de Gestão Patrimonial, abreviadamente designada por DSGP, compete:\n\na) Assegurar os procedimentos necessários à aquisição onerosa e gratuita, para o Estado ou outras pessoas coletivas de direito público, exceto por via expropriatória, do direito de propriedade e de outros direitos reais de gozo sobre imóveis, nos termos definidos por lei;\n\nb) Assegurar os procedimentos necessários à celebração de contratos de arrendamento para instalação de serviços públicos do Estado ou de outras pessoas coletivas de direito público, bem como para a cessação dos respetivos contratos ou alteração do objeto contratual;\n\nc) Administrar o património imobiliário do Estado, designadamente através do processamento de atos relativos ao arrendamento e à cedência para fins de interesse público, ou de atos tendentes à regularização da sua situação registral;\n\nd) Assegurar a instrução e decisão dos processos de afetação a serviços públicos de imóveis arrendados a favor do Estado e de outras pessoas coletivas de direito público;\n\ne) Assegurar os procedimentos relativos à alienação do património imobiliário do Estado e das pessoas coletivas de direito público, nos termos definidos na lei;\n\nf) Assegurar os procedimentos necessários à conservação e valorização do património imobiliário do Estado, visando a sua rentabilização e ocupação funcional;\n\ng) Praticar os atos inerentes à aquisição, gestão e alienação de bens móveis do domínio privado do Estado, nos termos definidos na lei.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+  },
+  "919653256": {
+   "fragment_id": "216138215",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços de Avaliações e Valorização do Património",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28",
+    "Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+   ],
+   "markdown": "###### Artigo 6.º — Direção de Serviços de Avaliações e Valorização do Património\n\nÀ Direção de Serviços de Avaliações e Valorização do Património, abreviadamente designada por DSAVP, compete:\n\na) Elaborar estudos técnicos sobre modelos de negócio e de inserção urbanística e territorial dos imóveis no sentido da racionalização, rentabilização e valorização da ocupação, do uso e disposição do património imobiliário público;\n\nb) Promover e assegurar as avaliações dos imóveis e dos direitos imobiliários no âmbito do património imobiliário público;\n\nc) Elaborar pareceres sobre projetos e elaborar projetos de obras e de intervenção de conservação, beneficiação e reconversão de imóveis do Estado e de pessoas coletivas públicas;\n\nd) Efetuar vistorias aos imóveis do Estado ou em uso pelos serviços e organismos do Estado verificando a respetiva utilização ou condições de conservação e pronunciar-se sobre as intervenções de que careçam e fiscalizar a sua execução;\n\ne) Elaborar, atualizar e gerir o inventário, em suporte físico e digital dos bens imóveis e dos direitos imobiliários do Estado e dos institutos públicos;\n\nf) Recolher, tratar e processar a informação relativa aos imóveis para a constituição e gestão de uma base de dados de gestão do património imobiliário público.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 60/2023 - Diário da República n.º 142/2023, Série I de 2023-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2023-216055960), em vigor a partir de 2023-07-25"
+  },
+  "919653257": {
+   "fragment_id": "216138216",
+   "type": 11,
+   "heading": "Artigo 7.º — Direção de Serviços de Regularizações Financeiras",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+   ],
+   "markdown": "###### Artigo 7.º — Direção de Serviços de Regularizações Financeiras\n\nÀ Direção de Serviços de Regularizações Financeiras, abreviadamente designada por DSRF, compete:\n\na) Acompanhar os processos de liquidação de entidades do setor público administrativo e empresarial em que o Estado intervenha como tutela financeira ou acionista e a atuação dos liquidatários;\n\nb) Analisar e preparar os processos de decisão da intervenção do Estado no contexto dos processos de liquidação de entidades do setor público administrativo e empresarial em que o Estado intervenha como tutela financeira ou acionista;\n\nc) Assumir passivos e responsabilidades de organismos públicos e de empresas públicas e participadas;\n\nd) Regularizar despesas resultantes de processos de liquidação;\n\ne) Acompanhar a transferência para o Estado, através da DGTF, de ativos e passivos e de outras responsabilidades de entidades extintas ou a extinguir;\n\nf) Regularizar responsabilidades de entidades extintas, bem como outras previstas na lei;\n\ng) Assegurar execução da garantia do Estado no âmbito de processos de expropriação, bem como o exercício do correspondente direito de regresso;\n\nh) Assegurar a recuperação dos créditos do Tesouro, incluindo os provenientes de entidades extintas e respetiva gestão;\n\ni) Assegurar o acompanhamento e o controlo do exercício dos mandatos de gestão dos créditos do Tesouro;\n\nj) Controlar e atualizar os sistemas de informação de recuperação dos créditos do Tesouro;\n\nk) Promover, negociar e executar acordos de reestruturação de créditos, nomeadamente sobre os países em desenvolvimento.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+  },
+  "919653258": {
+   "fragment_id": "216138217",
+   "type": 11,
+   "heading": "Artigo 8.º — Direção de Serviços Jurídicos e de Coordenação",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+   ],
+   "markdown": "###### Artigo 8.º — Direção de Serviços Jurídicos e de Coordenação\n\nÀ Direção de Serviços Jurídicos e de Coordenação, abreviadamente designada por DSJC, compete:\n\na) Realizar estudos, emitir pareceres e prestar informações de natureza jurídica sobre matérias da competência da DGTF;\n\nb) Elaborar o plano e relatório anuais de atividades, bem como outros documentos de natureza estratégica de âmbito geral;\n\nc) Coordenar a cooperação com organismos homólogos de outros países;\n\nd) Assegurar a coordenação interna das ações relativas à atuação dos órgãos de controlo financeiro;\n\ne) Colaborar com a Secretaria-Geral do Ministério das Finanças na gestão dos recursos humanos e patrimoniais e contribuir para a definição de políticas e técnicas de gestão racional dos mesmos, tendo em vista a sua valorização e adequação às necessidades da DGTF;\n\nf) Planear, coordenar e realizar ações de formação e aperfeiçoamento profissional do pessoal;\n\ng) Elaborar o balanço social da DGTF;\n\nh) Assegurar a administração do património da DGTF e manter atualizado o respetivo inventário;\n\ni) Assegurar os procedimentos de tratamento do expediente e restante documentação;\n\nj) Organizar e administrar o arquivo da DGTF;\n\nk) Assegurar a satisfação das necessidades da DGTF no âmbito das infraestruturas informáticas e dos sistemas de informação, em articulação com a entidade responsável no âmbito do Ministério das Finanças.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+  },
+  "919653259": {
+   "fragment_id": "216138218",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete de Apoio e Coordenação do Setor Empresarial do Estado",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+   ],
+   "markdown": "###### Artigo 9.º — Gabinete de Apoio e Coordenação do Setor Empresarial do Estado\n\nAo Gabinete de Apoio e Coordenação do Setor Empresarial do Estado, abreviadamente designado por GACSE, compete:\n\na) A formulação de propostas de definição de referenciais para o cumprimento das orientações estratégicas previstas na lei e avaliação do respetivo cumprimento;\n\nb) O acompanhamento nos programas de investimento e respetivo financiamento, incluindo o endividamento e o nível de esforço financeiro do Estado globalmente considerado;\n\nc) O acompanhamento dos processos de concessões do Estado, visando a observância de critérios de rigor financeiro e o aperfeiçoamento dos modelos de análise e controlo das concessões;\n\nd) O acompanhamento da negociação e implementação dos contratos, contratos-programa, acordos ou protocolos, dos quais possa resultar esforço financeiro para o Estado;\n\ne) A análise e acompanhamento de projetos de reestruturação empresarial ou de criação de novas empresas;\n\nf) Assegurar a representação técnica do Ministério das Finanças em organizações europeias e internacionais em matérias relacionadas com o setor empresarial do Estado;\n\ng) Monitorizar os elementos a disponibilizar sobre o setor empresarial do Estado com relevância para as entidades internacionais;\n\nh) Coordenar e acompanhar as respostas ao Tribunal de Contas em todas as vertentes relacionadas com as áreas de atribuições cometidas à DGTF;\n\ni) Elaborar os relatórios respeitantes ao setor empresarial do Estado, coordenar e preparar com as restantes unidades orgânicas a informação a facultar relativa ao setor empresarial do Estado, bem como a sua análise crítica;\n\nj) Propor, em articulação com a Direção de Serviços de Participações do Estado, as linhas estratégicas de atuação das empresas do setor empresarial do Estado, nomeadamente em termos de entidades públicas reclassificadas, entidades públicas não reclassificadas e setoriais.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+  },
+  "919653260": {
+   "fragment_id": "216138219",
+   "type": 11,
+   "heading": "Artigo 10.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+   ],
+   "markdown": "###### Artigo 10.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da DGTF é fixado em 12.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+  },
+  "919653261": {
+   "fragment_id": "216138220",
+   "type": 11,
+   "heading": "Artigo 11.º — Chefes de equipas multidisciplinares",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+   ],
+   "markdown": "###### Artigo 11.º — Chefes de equipas multidisciplinares\n\nÉ fixada em uma a dotação máxima de chefes de equipas multidisciplinares.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+  },
+  "919653262": {
+   "fragment_id": "216138221",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+   ],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogada a Portaria n.º 347/2007, de 30 de março.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+  },
+  "919653263": {
+   "fragment_id": "216138222",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+   ],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+  },
+  "919653264": {
+   "fragment_id": "216138223",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-05-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+   ],
+   "markdown": "A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 5 de julho de 2013.\n\n> Revogado pelo/a Artigo 11.º do/a [Portaria n.º 235/2025/1 - Diário da República n.º 101/2025, Série I de 2025-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/235-2025-919523555), em vigor a partir de 2025-05-28"
+  }
+ }
+}

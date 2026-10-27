@@ -1,0 +1,196 @@
+---
+schema_version: '1.0'
+id: pt:dre:808129980:por
+title: Portaria n.º 849/2023
+short_title: null
+summary: Autorização à Guarda Nacional Republicana (GNR) para assumir os encargos financeiros relativos ao Protocolo de Cooperação
+  celebrado entre a Autoridade Nacional de Emergência e Proteção Civil, a GNR e a Câmara Municipal de Vila Real para a remodelação
+  e ampliação dos edifícios do Aeródromo Municipal de Vila Real
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Administração Interna e Finanças - Gabinetes das Secretárias de Estado da Proteção Civil e do Orçamento
+proposing_entity: null
+official_number: 849/2023
+official_date: null
+publication_date: '2023-12-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 244/2023, Série II de 2023-12-20
+  number: '244'
+  series: II
+  supplement: null
+  pages: 125 - 126
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/12/244000000/0012500126.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '808129980'
+  dre_path: /dr/detalhe/portaria/849-2023-808129980
+  internal: pt:dre:808129980:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/849-2023-808129980
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/849-2023-808129980
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f189e2e5afccf9f3db8714d50d4b0404d182a272573979db252b7a004d8795cf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:51:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeródromo
+- Aquisição de Bens e Serviços
+- Câmara Municipal
+- Centro Operacional de Emergência de Protecção Civil
+- Contrato
+- Despesas Públicas
+- Empreitada de Obras Públicas
+- GNR
+- Vila Real
+relationships:
+- type: cites
+  target: pt:dre:122747583:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:128326290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:137424218:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:183941536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:184687795:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:207177836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:278762:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:51:52Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 849/2023
+
+Portaria de extensão de encargos
+
+No âmbito da Operação POSEUR 02-1810-FC-000505, a Autoridade Nacional de Emergência e Proteção Civil (ANEPC), em 26 de abril de 2018, celebrou um protocolo de cooperação com a Guarda Nacional Republicana (GNR) e a Câmara Municipal de Vila Real para a «remodelação e ampliação dos edifícios do Aeródromo Municipal de Vila Real para instalação do Centro Distrital de Operações de Socorro e Reforço das Condições de Operacionalidade do Centro de Meios Aéreos da Autoridade Nacional de Emergência e Proteção Civil e do Grupo de Intervenção de Proteção e Socorro da Guarda Nacional Republicana».
+
+Posteriormente, e em virtude de o concurso público para a realização da citada empreitada ter ficado deserto, houve necessidade de se aumentar o preço base da empreitada, não tendo sido possível obter o necessário reforço do financiamento comunitário para o efeito.
+
+Assim, foi celebrada a 1.ª adenda ao referido Protocolo de Cooperação, visando a repartição proporcional, entre a ANEPC, a GNR e o Município, dos encargos financeiros correspondentes à comparticipação nacional que vierem a exceder o montante aprovado no âmbito do POSEUR, fixando, para as entidades do Ministério da Administração Interna, o limite máximo de (euro) 300 000 (trezentos mil euros), com IVA incluído à taxa de 6 %.
+
+Nos termos estabelecidos na 1.ª adenda ao Protocolo de Cooperação, e considerando as áreas e respetiva permilagem, a GNR assumiu o encargo orçamental no montante de (euro) 108 000 (cento e oito mil euros), com IVA incluído à taxa de 6 %, não podendo exceder as seguintes importâncias em cada ano económico:
+
+2021 - 54 000 euros;
+
+2022 - 54 000 euros.
+
+Não obstante, até à data não foi realizado qualquer pagamento.
+
+Entretanto, em sede da execução da empreitada, o Município de Vila Real apresentou, de forma fundamentada, um conjunto de erros e omissões e de trabalhos complementares, os quais, tendo merecido a concordância das três entidades, traduzem um encargo adicional global de (euro) 196 069,45 (cento e noventa e seis mil e sessenta e nove euros e quarenta e cinco cêntimos), a suportar por cada uma das entidades suprarreferidas igualmente em função da área do imóvel a afetar a cada uma, impendendo sobre a GNR um encargo adicional de (euro) 30 000,03 (trinta mil euros e três cêntimos), com IVA incluído à taxa de 6 %.
+
+Considerando que se verifica um aumento do valor total da despesa autorizada previamente por despacho da Secretária de Estado da Administração Interna, de 9 de novembro de 2020, exarado na Informação n.º 33/ST/2020, de 6 de novembro de 2020, nos termos da delegação de competência constante do [Despacho n.º 798/2020](https://diariodarepublica.pt/dr/detalhe/despacho/798-2020-128326290), publicado no Diário da República, 2.ª série, n.º 14, de 21 de janeiro de 2020, conjugado com o disposto na alínea b) do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), no n.º 2 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), no n.º 2 do artigo 46.º do [Decreto-Lei n.º 84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, e com o [Despacho n.º 6989/2020](https://diariodarepublica.pt/dr/detalhe/despacho/6989-2020-137424218), do Ministro de Estado e das Finanças, publicado no Diário da República, 2.ª série, n.º 131, de 8 de julho de 2020, e um alargamento temporal da despesa para o ano de 2023, torna-se necessário proceder à reprogramação e alteração dos montantes da repartição de encargos fixados pela 1.ª adenda ao referido Protocolo de Cooperação, em cumprimento do preconizado no artigo 45.º do [Decreto-Lei n.º 10/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2023-207177836), de 8 de fevereiro.
+
+Assim:
+
+Considerando que as despesas que deem lugar a encargos orçamentais em mais do que um ano económico ou em ano que não seja o da sua realização não podem ser efetivadas sem prévia autorização conferida por portaria conjunta da área governativa da tutela e das finanças, nos termos do disposto no artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, revogado pelo [Decreto-Lei n.º 40/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2011-278762), de 22 de março, e repristinado pela [Resolução da Assembleia da República n.º 86/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/86-2011-276851), de 11 de abril, e da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, republicada em anexo à [Lei n.º 22/2015](https://diariodarepublica.pt/dr/detalhe/lei/22-2015-66773610), de 17 de março, e no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, alterado e republicado pelo [Decreto-Lei n.º 99/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), de 2 de junho, manda o Governo, pela Secretária de Estado da Proteção Civil, no uso de competência delegada pelo Ministro da Administração Interna através do [Despacho n.º 6606/2022](https://diariodarepublica.pt/dr/detalhe/despacho/6606-2022-183941536), de 18 de maio, publicado no Diário da República, 2.ª série, n.º 101, de 25 de maio de 2022, e pela Secretária de Estado do Orçamento, no uso das competências delegadas nos termos da alínea c) do n.º 4 do [Despacho n.º 7473/2022](https://diariodarepublica.pt/dr/detalhe/despacho/7473-2022-184687795), de 3 de junho, publicado no Diário da República, 2.ª série, n.º 114, de 14 de junho de 2022, o seguinte:
+
+###### Artigo 1.º
+
+Fica a Guarda Nacional Republicana autorizada a assumir os encargos financeiros relativos ao Protocolo de Cooperação celebrado em 26 de abril de 2018, e consequentes adendas, celebrado entre a ANEPC, a GNR e a Câmara Municipal de Vila Real, para a «remodelação e ampliação dos edifícios do Aeródromo Municipal de Vila Real para instalação do Centro Distrital de Operações de Socorro e Reforço das Condições de Operacionalidade do Centro de Meios Aéreos da Autoridade Nacional de Emergência e Proteção Civil e do Grupo de Intervenção de Proteção e Socorro da Guarda Nacional Republicana», até ao montante máximo de (euro) 130 188,71 (centro e trinta mil, cento e oitenta e oito euros e setenta e um cêntimos), acrescido do IVA nos termos legais.
+
+###### Artigo 2.º
+
+Os encargos financeiros resultantes da execução da presente portaria não poderão exceder o montante fixado para cada um dos anos económicos, ao qual acresce o valor do IVA nos termos legais:
+
+a) 2021 - 0 euros;
+
+b) 2022 - 0 euros;
+
+c) 2023 - 130 188,71 euros.
+
+###### Artigo 3.º
+
+Os encargos financeiros decorrentes da execução da presente portaria serão satisfeitos por conta das verbas inscritas no orçamento da Guarda Nacional Republicana.
+
+###### Artigo 4.º
+
+A presente portaria produz efeitos a partir da data da sua publicação.
+
+22 de junho de 2023. - A Secretária de Estado da Proteção Civil, Patrícia Alexandra Costa Gaspar. - 6 de dezembro de 2023. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha.
+
+317166374

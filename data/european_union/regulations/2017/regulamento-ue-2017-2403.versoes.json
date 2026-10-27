@@ -1,0 +1,1171 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32017R2403:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R2403-20260110",
+ "dre_path": null,
+ "source_lastmod": "2026-01-10",
+ "versions": [
+  {
+   "date": "2017-12-28",
+   "future": false,
+   "celex": "32017R2403",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5ff4e44128445472",
+    "ffc348f463b781ad",
+    "e17a2adcfbbdd4cc",
+    "463171e01d7cf130",
+    "45cfc2642c7cf59b",
+    "a13714433041e64f",
+    "4c8bdeab3d91ec7d",
+    "5b33711b3972a23b",
+    "226c39ffd0a88dad",
+    "e66b8427f7f19165",
+    "f5e05c54abce02d3",
+    "47f0b7e81305f2a4",
+    "6777fc821d6b109d",
+    "d148b8b46304dc08",
+    "f0f8c960bfdbce9b",
+    "12fa2d39aa54e469",
+    "3869c2effa545d25",
+    "cb6b498c318f5647",
+    "5596e9fc63ec4cc2",
+    "3409d79ee988966b",
+    "74f3524d20ff4077",
+    "ba9cd343004383c5",
+    "4c5625962fb0b2b2",
+    "84eb307973e6197c",
+    "18e5b2282eff7afa",
+    "e36ece92d2dd1992",
+    "a0dc4b18b532a224",
+    "8aaea14acc7940d5",
+    "b426821733183e1b",
+    "78f74acb09492a80",
+    "b4a1fb1caa76f3e4",
+    "3b6af08aacce3e64",
+    "120b345a80e34747",
+    "1e7a0903d2eed348",
+    "134d57f5f72e7ca0",
+    "d4d43a0728949e57",
+    "7a9d32fd7f3790fc",
+    "859d0ef64306c8fe",
+    "cd3cf3164f27db6a",
+    "1ecfc79da3f1ac7f",
+    "993c31b14a1420e2",
+    "bb0f1d2b585ca8df",
+    "d0cf4f4ed28b7a07",
+    "d9918672c3272ddb",
+    "40ed6b62e188ac6f",
+    "9f2514648227c3d4",
+    "98aa8418fe84b535",
+    "e91616860c0ba00f",
+    "b76d202a844f758e",
+    "db6eb258cc6fd844",
+    "e24df601922bd8c8",
+    "7fd045ac4f655f13",
+    "af811936186d4996",
+    "676cfc2a31d3c10c",
+    "be1fcb47798fa7ca",
+    "9db704600627e53c",
+    "9918a0458276a1ab",
+    "b42baf209c523874",
+    "1fecab985ec52cfa",
+    "70cd78c6a88949b7",
+    "a47cfa52e63a9b3d",
+    "89f2530bf838b68f",
+    "e725d8b3925145cd",
+    "d10f3fad2a40a98e",
+    "fedf7d66f734fe61",
+    "662cf62f00c33127",
+    "4226d7eb298ac210",
+    "1e8955854a910e63",
+    "977af565ac85ffbf",
+    "569e4d4176c70a3a",
+    "dd07f014b78d49d5",
+    "cdf34f8accfb518e",
+    "4f8efffddfe96470",
+    "dc6b3b16b3b93d4e",
+    "3913ea2bf1820c84",
+    "f2b16c5125360430",
+    "fd1f6efdb97a73cb",
+    "dde9cf53e9ae6c9a",
+    "3baba7760f6f0bfb",
+    "fe82f02f31a82de9",
+    "170feb53cc87c377",
+    "c9b504bc749808d5"
+   ]
+  },
+  {
+   "date": "2026-01-10",
+   "future": false,
+   "celex": "02017R2403-20260110",
+   "acts": [
+    {
+     "id": "eu:celex:32019R0498:por",
+     "title": "REGULAMENTO (UE) 2019/498 DO PARLAMENTO EUROPEU E DO CONSELHO de 25 de março de 2019",
+     "published": null,
+     "celex": "32019R0498"
+    },
+    {
+     "id": "eu:celex:32023R2842:por",
+     "title": "REGULAMENTO (UE) 2023/2842 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023",
+     "published": null,
+     "celex": "32023R2842"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Definições",
+    "Altera Artigo 6.º — Operações de mudança de pavilhão",
+    "Altera Artigo 17.º — Condições relativas às autorizações de pesca pelos Estados-Membros de pavilhão",
+    "Altera Artigo 24.º — Condições relativas à emissão de autorizações de pesca pelos Estados-Membros de pavilhão",
+    "Altera Artigo 40.º — Requisitos técnicos",
+    "Altera Artigo 48.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Secção 4",
+    "Adita Operações de pesca realizadas por navios de pesca da União nas águas do Reino Unido",
+    "Adita Artigo 18.º-A — Âmbito de aplicação",
+    "Adita Artigo 18.º-B — Definição",
+    "Adita Artigo 18.º-C — Procedimento para a obtenção de autorizações de pesca do Reino Unido.",
+    "Adita Artigo 18.º-D — Acompanhamento",
+    "Adita TÍTULO III-A",
+    "Adita OPERAÇÕES DE PESCA REALIZADAS POR NAVIOS DE PESCA DO REINO UNIDO NAS ÁGUAS DA UNIÃO",
+    "Adita Artigo 38.º-A — Âmbito de aplicação",
+    "Adita Artigo 38.º-B — Operações de pesca realizadas por navios de pesca do Reino Unido",
+    "Adita Artigo 38.º-C — Princípios gerais",
+    "Adita Artigo 38.º-D — Procedimento de obtenção de autorizações de pesca",
+    "Adita Artigo 38.º-E — Gestão das autorizações de pesca",
+    "Adita Artigo 38.º-F — Encerramento das operações de pesca",
+    "Adita Artigo 38.º-G — Sobrepesca de quotas nas águas da União",
+    "Adita Artigo 38.º-H — Controlo e execução",
+    "Adita Artigo 38.º-I — Transferências e trocas de quotas",
+    "Adita ANEXO",
+    "Suprime CAPÍTULO VI",
+    "Suprime Operações de transbordo",
+    "Suprime Artigo 28.º — Operações de transbordo"
+   ],
+   "fragments": [
+    "815bc2fe1986ddb6",
+    "ffc348f463b781ad",
+    "e17a2adcfbbdd4cc",
+    "463171e01d7cf130",
+    "45cfc2642c7cf59b",
+    "c9077a0aae2923f8",
+    "4c8bdeab3d91ec7d",
+    "5b33711b3972a23b",
+    "226c39ffd0a88dad",
+    "e66b8427f7f19165",
+    "f5e05c54abce02d3",
+    "e27fca2be927cb4d",
+    "2fb0cfea098f7e1b",
+    "d148b8b46304dc08",
+    "f0f8c960bfdbce9b",
+    "12fa2d39aa54e469",
+    "3869c2effa545d25",
+    "cb6b498c318f5647",
+    "5596e9fc63ec4cc2",
+    "3409d79ee988966b",
+    "74f3524d20ff4077",
+    "85e8839b30ef9a17",
+    "4b1a4c6aebdf806e",
+    "84eb307973e6197c",
+    "18e5b2282eff7afa",
+    "e36ece92d2dd1992",
+    "a0dc4b18b532a224",
+    "8aaea14acc7940d5",
+    "b426821733183e1b",
+    "78f74acb09492a80",
+    "b4a1fb1caa76f3e4",
+    "df2ea758a9fe1900",
+    "120b345a80e34747",
+    "b5d7193d82983e30",
+    "b84545c9c7c56c67",
+    "dfefa3623ccd1725",
+    "42639a784c4ac0b0",
+    "e10c1aa6815d1131",
+    "98deb429abc7f22b",
+    "1e7a0903d2eed348",
+    "134d57f5f72e7ca0",
+    "d4d43a0728949e57",
+    "707ada1512f661ef",
+    "859d0ef64306c8fe",
+    "cd3cf3164f27db6a",
+    "1ecfc79da3f1ac7f",
+    "993c31b14a1420e2",
+    "bb0f1d2b585ca8df",
+    "760fd23d647b0d39",
+    "d9918672c3272ddb",
+    "40ed6b62e188ac6f",
+    "9f2514648227c3d4",
+    "98aa8418fe84b535",
+    "e91616860c0ba00f",
+    "7fd045ac4f655f13",
+    "af811936186d4996",
+    "676cfc2a31d3c10c",
+    "be1fcb47798fa7ca",
+    "9db704600627e53c",
+    "9918a0458276a1ab",
+    "b42baf209c523874",
+    "1fecab985ec52cfa",
+    "353b1cb29dc2b092",
+    "a47cfa52e63a9b3d",
+    "89f2530bf838b68f",
+    "e725d8b3925145cd",
+    "d10f3fad2a40a98e",
+    "fedf7d66f734fe61",
+    "980cf29bc5cfc336",
+    "711c11a466fe6aa6",
+    "631a0ae480d20676",
+    "274a0e46d29ff67b",
+    "68726afe8d9f7848",
+    "5074a1c899594306",
+    "e16433bbd13ab8e9",
+    "93fe5e041a203451",
+    "0e38b0879f350d44",
+    "c8f954c4a410e17a",
+    "e9b0832636240a3b",
+    "662cf62f00c33127",
+    "4226d7eb298ac210",
+    "c6112d6891823fb3",
+    "8e3986fc464b15ef",
+    "569e4d4176c70a3a",
+    "dd07f014b78d49d5",
+    "cdf34f8accfb518e",
+    "4f8efffddfe96470",
+    "dc6b3b16b3b93d4e",
+    "3913ea2bf1820c84",
+    "f2b16c5125360430",
+    "fd1f6efdb97a73cb",
+    "dde9cf53e9ae6c9a",
+    "3baba7760f6f0bfb",
+    "cc6b9386d4f6fd69",
+    "560ebb01273be3e7",
+    "554c463a3e0961f6",
+    "39df849a5b35a8e4"
+   ]
+  }
+ ],
+ "fragments": {
+  "5ff4e44128445472": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de dezembro de 2017,\n\nrelativo à gestão sustentável das frotas de pesca externas, e que revoga o Regulamento (CE) n.º 1006/2008 do Conselho\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 43.º, n.º 2,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2017347PT.01008101-E0001),\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2017347PT.01008101-E0002),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CE) n.º 1006/2008 do Conselho [([^3])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2017347PT.01008101-E0003) (RAP) estabeleceu o regime jurídico relativo às autorizações das atividades de pesca exercidas pelos navios de pesca da União fora das águas da União e ao acesso dos navios de países terceiros às águas da União.\n\n(2) A União é parte contratante na Convenção das Nações Unidas sobre o Direito do Mar, de 10 de dezembro de 1982 [([^4])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2017347PT.01008101-E0004) (CNUDM), e ratificou o Acordo relativo à aplicação das disposições da Convenção das Nações Unidas sobre o Direito do Mar, de 4 de agosto de 1995, respeitantes à conservação e à gestão das populações de peixes transzonais e das populações de peixes altamente migradores [([^5])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2017347PT.01008101-E0005). Essas disposições internacionais estabelecem o princípio de que todos os Estados têm o dever de adotar medidas adequadas para assegurar a gestão e a conservação sustentáveis dos recursos marinhos e de cooperar mutuamente para esse fim.\n\n(3) A União aceitou igualmente o Acordo para a promoção do cumprimento das medidas internacionais de conservação e de gestão pelos navios de pesca no alto mar, de 24 de novembro de 1993, da Organização das Nações Unidas para a Alimentação e a Agricultura [([^6])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr6-L_2017347PT.01008101-E0006). Esse Acordo estabelece que as partes contratantes devem abster-se de conceder autorização para utilizar navios para a pesca no alto mar se não estiverem reunidas certas condições, e aplicar sanções se determinadas obrigações de notificação não forem cumpridas.\n\n(4) A União apoiou o plano de ação internacional da FAO para prevenir, impedir e eliminar a pesca ilegal, não declarada e não regulamentada (IPOA-INN), adotado em 2001. O IPOA-INN e as orientações para aplicação voluntária da FAO sobre o desempenho dos Estados de pavilhão, aprovadas em 2014, sublinham a responsabilidade do Estado de pavilhão de assegurar a conservação a longo prazo e a exploração sustentável dos recursos marinhos vivos e dos ecossistemas marinhos. O IPOA-INN estabelece que os Estados de pavilhão devem emitir autorizações de pesca nas águas fora da sua soberania ou jurisdição aos navios que arvoram o seu pavilhão. Essas orientações para aplicação voluntária recomendam igualmente que os Estados de pavilhão e os Estados costeiros concedam autorizações sempre que as atividades de pesca sejam exercidas ao abrigo de acordos de pesca, ou mesmo sem que existam acordos deste tipo. O Estado de pavilhão e o Estado costeiro deverão certificar-se de que essas atividades não comprometerão a sustentabilidade das unidades populacionais de peixes nas águas do Estado costeiro.\n\n(5) Em 2014, todos os membros da FAO, incluindo a União e os seus parceiros nos países em desenvolvimento, adotaram por unanimidade as Diretrizes Voluntárias para Assegurar a Pesca Sustentável em Pequena Escala no Contexto da Segurança Alimentar e da Erradicação da Pobreza. O ponto 5.7 dessas diretrizes salienta que a pesca de pequena escala deverá ser devidamente tida em conta antes da celebração de acordos de acesso aos recursos com países terceiros e com outras partes. Essas diretrizes apelam à adoção de medidas para a conservação a longo prazo e para a utilização sustentável dos recursos haliêuticos, bem como para a garantia de uma base ecológica para a produção de alimentos, e sublinham a importância da adoção de normas ambientais para as atividades de pesca fora das águas da União que incluam uma abordagem ecossistémica da gestão das pescas e uma abordagem de precaução.\n\n(6) Se existirem provas de que as condições que serviram de base para a emissão da autorização de pesca deixaram de estar preenchidas, o Estado-Membro de pavilhão deverá tomar as medidas adequadas, nomeadamente alterar ou retirar a autorização e, se necessário, impor sanções efetivas, proporcionadas e dissuasivas. Na pesca sob a égide de uma organização regional de gestão das pescas (ORGP) ou ao abrigo de um acordo de parceria no domínio da pesca sustentável (APPS), se um navio de pesca da União não cumprir as condições para a obtenção de uma autorização de pesca e o Estado-Membro não tomar as medidas adequadas para corrigir a situação, mesmo que tal lhe tenha sido exigido pela Comissão, a Comissão deverá concluir que não foram tomadas as medidas adequadas. Por conseguinte, a Comissão deverá tomar medidas complementares para se certificar de que o navio em causa deixará de pescar enquanto as condições não estiverem preenchidas.\n\n(7) A União assumiu o compromisso, na Cimeira das Nações Unidas sobre o Desenvolvimento Sustentável, realizada em 25 de setembro de 2015, de aplicar a resolução que contém o documento final intitulado \"Transformar o nosso mundo: a Agenda 2030 para o Desenvolvimento Sustentável\", incluindo o Objetivo de Desenvolvimento Sustentável n.º 14, \"conservar e utilizar de forma sustentável os oceanos, os mares e os recursos marinhos para o desenvolvimento sustentável\", e o Objetivo de Desenvolvimento Sustentável n.º 12, \"assegurar padrões de produção e de consumo sustentáveis e as suas metas\".\n\n(8) O objetivo da política comum das pescas, estabelecido no Regulamento (UE) n.º 1380/2013 do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr7-L_2017347PT.01008101-E0007) (\"Regulamento de Base\"), consiste em assegurar que as atividades de pesca sejam sustentáveis do ponto de vista ambiental, económico e social, que sejam geridas de um modo coerente com os objetivos de alcançar benefícios económicos, sociais e de emprego, e de restabelecer e manter as unidades populacionais de peixes acima de níveis capazes de produzir o rendimento máximo sustentável, e que contribuam para a segurança do abastecimento de produtos alimentares. Ao aplicar esta política é igualmente necessário ter em conta os objetivos da cooperação para o desenvolvimento, de acordo com o artigo 208.º, n.º 1, segundo parágrafo, do Tratado sobre o Funcionamento da União Europeia (TFUE).\n\n(9) O Regulamento de Base também prevê que os APPS se limitem ao excedente das capturas, tal como referido no artigo 62.º, n.ºs 2 e 3, da CNUDM.\n\n(10) O Regulamento de Base salienta a necessidade de promover os objetivos da política comum das pescas a nível internacional, assegurando que as atividades de pesca da União exercidas fora das águas da União se baseiem nos mesmos princípios e nas mesmas normas que os princípios e as normas aplicáveis ao abrigo do direito da União, e promovendo simultaneamente a existência de condições equitativas para os operadores da União e para os operadores dos países terceiros.\n\n(11) O RAP tinha por objetivo estabelecer uma base comum para a autorização das atividades de pesca exercidas pelos navios de pesca da União fora das águas da União, a fim de apoiar a luta contra a pesca ilegal, não declarada e não regulamentada (INN) e de melhorar o controlo e a monitorização da frota da União em todo o mundo, bem como as condições de autorização das atividades de pesca dos navios de países terceiros nas águas da União.\n\n(12) O Regulamento (CE) n.º 1005/2008 do Conselho [([^8])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr8-L_2017347PT.01008101-E0008) (\"Regulamento INN\") foi adotado paralelamente ao RAP, e o Regulamento (CE) n.º 1224/2009 do Conselho [([^9])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr9-L_2017347PT.01008101-E0009) (\"Regulamento Controlo\") foi adotado um ano mais tarde. Estes regulamentos constituem os três pilares da aplicação das disposições de controlo e execução da política comum das pescas.\n\n(13) No entanto, o Regulamento INN, o RAP e o Regulamento Controlo não foram aplicados de forma coerente; em particular, verificaram-se incoerências entre o RAP e o Regulamento Controlo. A aplicação do RAP também revelou várias lacunas, pois não foram abordadas algumas questões ligadas ao controlo, como o fretamento, a mudança de pavilhão e a emissão de autorizações de pesca pela autoridade competente de um país terceiro a um navio de pesca da União fora do âmbito de um APPS (\"autorizações diretas\"). Além disso, o cumprimento de algumas obrigações de notificação revelou-se difícil, e aconteceu o mesmo com a divisão das funções administrativas entre os Estados-Membros e a Comissão.\n\n(14) O princípio fundamental do presente regulamento é o de que qualquer navio de pesca da União que pesque fora das águas da União deverá ser autorizado pelo respetivo Estado-Membro de pavilhão e monitorizado em conformidade, independentemente do local onde opere e do quadro em que o fizer. A emissão de uma autorização deverá depender do cumprimento de um conjunto básico de critérios comuns de elegibilidade. Os dados recolhidos pelos Estados-Membros e comunicados à Comissão deverão permitir que a Comissão intervenha na monitorização das operações de pesca de todos os navios de pesca da União, em qualquer zona fora das águas da União e em qualquer momento.\n\n(15) Nos últimos anos, registaram-se consideráveis melhorias na política de pescas externa da União no que respeita às condições dos APPS e à diligência com que estas disposições são aplicadas. Por conseguinte, salvaguardar os interesses da União em termos de direitos e condições de acesso no âmbito dos APPS deverá ser um objetivo prioritário da política de pescas externa da União; além disso, deverão aplicar-se condições semelhantes às atividades da União fora do âmbito dos APPS.\n\n(16) Os navios de apoio poderão ter um impacto substancial na forma como os navios de pesca operam e na quantidade de peixe que podem capturar. Por conseguinte, é necessário tê-los em conta nos procedimentos de autorização e de notificação previstos no presente regulamento.\n\n(17) As operações de mudança de pavilhão tornam-se problemáticas quando têm por objetivo contornar as regras da política comum das pescas ou as medidas de gestão e conservação existentes. Por conseguinte, a União deverá ter a possibilidade de definir, de detetar e de impedir tais operações. A rastreabilidade e um acompanhamento adequado do historial de cumprimento deverão ser assegurados durante a vida útil dos navios pertencentes aos operadores da União, independentemente do pavilhão ou dos pavilhões sob os quais operem. A obrigação de possuir um número único de navio concedido pela Organização Marítima Internacional (OMI), quando tal for exigido pelo direito da União, deverá também servir esse objetivo.\n\n(18) Nas águas dos países terceiros, os navios da União podem operar quer em conformidade com as disposições dos APPS celebrados entre a União e os países terceiros, quer através da obtenção de autorizações diretas dos países terceiros, se não estiver em vigor um APPS. Em ambos os casos, estas atividades deverão ser realizadas de forma transparente e sustentável. Os Estados-Membros de pavilhão poderão autorizar os navios que arvoram o seu pavilhão a pedir e a obter autorizações diretas concedidas por países terceiros que sejam Estados costeiros, em conformidade com uma série de critérios definidos e mediante acompanhamento. As operações de pesca deverão ser autorizadas após o Estado-Membro de pavilhão se ter certificado de que não irão prejudicar a sustentabilidade, e se a Comissão não tiver objeções devidamente justificadas. O operador só deverá ser autorizado a iniciar as suas operações de pesca após ter obtido autorização do Estado-Membro de pavilhão e do Estado costeiro.\n\n(19) Os navios de pesca da União não estão autorizados a pescar nas águas sob a jurisdição ou soberania de países terceiros com os quais a União tenha celebrado um acordo, mas não um protocolo em vigor. No caso de um acordo desse tipo, caso não exista um protocolo em vigor durante pelo menos três anos, a Comissão deverá examinar as razões para essa situação e tomar as medidas adequadas, que poderão incluir uma proposta de negociação de um novo protocolo.\n\n(20) Uma questão específica relacionada com os APPS é a reatribuição das possibilidades de pesca subutilizadas, o que acontece quando as possibilidades de pesca atribuídas aos Estados-Membros pelos regulamentos aplicáveis do Conselho não são plenamente utilizadas. Uma vez que os custos de acesso estabelecidos nos APPS são em grande parte financiados pelo orçamento geral da União, é importante dispor de um sistema de reatribuição e de subatribuição temporárias para preservar os interesses financeiros da União e assegurar que nenhuma possibilidade de pesca já paga seja desperdiçada. Por conseguinte, é necessário clarificar e melhorar esses sistemas de atribuição, que deverão ser um mecanismo de último recurso. A sua aplicação deverá ser temporária e não deverá afetar o prazo inicial de atribuição das possibilidades de pesca entre os Estados-Membros em conformidade com os princípios de estabilidade relativa aplicáveis. A reatribuição só deverá ocorrer quando os Estados-Membros interessados tiverem renunciado aos seus direitos de troca das possibilidades de pesca entre si, e deverá ser utilizada sobretudo no contexto dos APPS que dão acesso a pescarias mistas.\n\n(21) Caso um país terceiro não seja parte numa ORGP, a União pode envidar esforços para prever, em conjunto com o país terceiro com o qual considera celebrar um APPS, que uma parte dos recursos financeiros destinados ao apoio setorial seja utilizada para facilitar a adesão do país terceiro a essa ORGP.\n\n(22) As operações de pesca sob a égide das ORGP e no alto mar deverão ser igualmente autorizadas pelo Estado-Membro de pavilhão, e deverão cumprir as normas específicas da ORGP ou o direito da União que rege as operações de pesca no alto mar.\n\n(23) A fim de aplicar os compromissos internacionais da União nas ORGP e de acordo com os objetivos referidos no artigo 28.º do Regulamento de Base, a União deverá incentivar avaliações de desempenho periódicas efetuadas por organismos independentes e assumir um papel ativo na criação e no reforço de comités de aplicação em todas as ORGP nas quais é parte contratante. A União deverá assegurar, nomeadamente, que esses comités de aplicação efetuem a supervisão geral da execução da política externa das pescas e das medidas decididas no âmbito das ORGP.\n\n(24) A gestão eficaz dos convénios de fretamento é importante para assegurar a eficácia das medidas de conservação e de gestão e a exploração sustentável dos recursos marinhos vivos. Por conseguinte, é necessário estabelecer um regime jurídico que permita que a União melhore o controlo das atividades dos seus navios de pesca fretados por operadores de países terceiros ou da União com base nas disposições adotadas pela ORGP competente.\n\n(25) Os transbordos no mar escapam aos controlos adequados dos Estados de pavilhão ou dos Estados costeiros e, portanto, permitem que os operadores transportem capturas ilegais. Os transbordos efetuados por navios da União no alto mar e ao abrigo de autorizações diretas deverão ser objeto de notificação prévia quando forem realizados fora dos portos. Os Estados-Membros deverão informar anualmente a Comissão sobre todas as operações de transbordo efetuadas pelos seus navios.\n\n(26) Os procedimentos deverão ser transparentes e previsíveis para os operadores da União e dos países terceiros, bem como para as respetivas autoridades competentes.\n\n(27) Deverá ser assegurado o intercâmbio eletrónico de dados entre os Estados-Membros e a Comissão, tal como previsto pelo Regulamento Controlo. Os Estados-Membros deverão recolher todos os dados exigidos sobre as suas frotas e as suas operações de pesca, geri-los e disponibilizá-los à Comissão. Além disso, deverão cooperar entre si, com a Comissão e com os países terceiros, se for caso disso, a fim de coordenar essas atividades de recolha de dados.\n\n(28) A fim de melhorar a transparência e o acesso à informação sobre as autorizações de pesca da União, a Comissão deverá criar uma base de dados eletrónica de autorizações de pesca que inclua uma parte pública e uma parte de acesso restrito. As informações que figuram na base de dados das autorizações de pesca da União incluem dados pessoais. O tratamento de dados pessoais com base no presente regulamento deverá respeitar o Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho [([^10])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr10-L_2017347PT.01008101-E0010), a Diretiva 95/46/CE do Parlamento Europeu e do Conselho [([^11])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr11-L_2017347PT.01008101-E0011) e o direito nacional aplicável.\n\n(29) A fim de abordar adequadamente a questão do acesso dos navios de pesca que arvoram pavilhão de um país terceiro às águas da União, as regras pertinentes deverão ser coerentes com as regras aplicáveis aos navios de pesca da União, em conformidade com o Regulamento Controlo. Em especial, o artigo 33.º desse regulamento, respeitante à notificação das capturas e dos dados com elas relacionados, deverá aplicar-se também aos navios dos países terceiros que pescam nas águas da União.\n\n(30) Quando navegarem em águas da União, os navios de pesca dos países terceiros que não estejam autorizados ao abrigo do presente regulamento deverão assegurar que as suas artes de pesca estejam instaladas de forma a não poderem ser facilmente utilizadas para operações de pesca.\n\n(31) Os Estados-Membros deverão ser responsáveis pelo controlo das operações de pesca dos navios dos países terceiros nas águas da União e, em caso de infração, pela sua inscrição nos registos nacionais previstos no artigo 93.º do Regulamento Controlo.\n\n(32) Os navios de pesca de países terceiros que pesquem ao abrigo de acordos de troca ou de gestão conjunta deverão respeitar as quotas que lhes foram atribuídas pelos seus próprios Estados de pavilhão para a pesca nas águas da União. Quando os navios de países terceiros excederem as quotas que lhes foram atribuídas para unidades populacionais nas águas da União, a Comissão deverá proceder a deduções das quotas atribuídas a esses países terceiros nos anos subsequentes. Nesses casos, a dedução de quotas a que a Comissão proceder em caso de sobrepesca deve ser entendida como o contributo da Comissão no âmbito das consultas com os Estados costeiros.\n\n(33) A fim de simplificar os procedimentos de autorização, os Estados-Membros e a Comissão deverão utilizar um sistema comum de intercâmbio e de armazenamento de dados para fornecerem as informações e as atualizações necessárias, reduzindo simultaneamente os encargos administrativos.\n\n(34) A fim de ter em conta o progresso tecnológico e os possíveis novos requisitos da legislação internacional, o poder de adotar atos delegados nos termos do artigo 290.º do TFUE deverá ser delegado na Comissão no que diz respeito à adoção de alterações do anexo do presente regulamento que estabelece a lista das informações que um operador deve facultar para obter uma autorização de pesca, e no que diz respeito a complementar as condições de obtenção das autorizações de pesca estabelecidas no artigo 10.º na medida necessária para refletir no direito da União os resultados das consultas entre a União e os países terceiros com os quais a União tenha celebrado um acordo, ou dos convénios com os Estados costeiros com os quais a União partilha unidades populacionais. É particularmente importante que a Comissão proceda às consultas adequadas durante os trabalhos preparatórios, inclusive ao nível de peritos, e que essas consultas sejam conduzidas de acordo com os princípios estabelecidos no Acordo Interinstitucional de 13 de abril de 2016 sobre legislar melhor [([^12])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr12-L_2017347PT.01008101-E0012). Em particular, a fim de assegurar a igualdade de participação na preparação dos atos delegados, o Parlamento Europeu e o Conselho recebem todos os documentos ao mesmo tempo que os peritos dos Estados-Membros, e os respetivos peritos têm sistematicamente acesso às reuniões dos grupos de peritos da Comissão que tratam da preparação dos atos delegados.\n\n(35) A fim de assegurar condições uniformes para a execução do presente regulamento, deverão ser conferidas competências de execução à Comissão no que respeita ao registo, ao formato e à transmissão dos dados relativos às autorizações de pesca dos Estados-Membros à Comissão e à base de dados de autorizações de pesca da União, bem como para decidir da reatribuição temporária das possibilidades de pesca não utilizadas ao abrigo dos protocolos existentes dos APPS, como medida transitória, correspondente às disposições do artigo 10.º do RAP. Essas competências deverão ser exercidas nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho [([^13])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr13-L_2017347PT.01008101-E0013).\n\n(36) Para que a base de dados de autorizações de pesca da União fique operacional e para permitir que os Estados-Membros respeitem os requisitos técnicos da transmissão, a Comissão deverá prestar assistência técnica aos Estados-Membros em questão para permitir que estes transfiram dados eletronicamente. Os Estados-Membros podem ainda beneficiar de uma ajuda financeira do Fundo Europeu dos Assuntos Marítimos e das Pescas nos termos do artigo 76.º, n.º 2, alínea a), do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho [([^14])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr14-L_2017347PT.01008101-E0014).\n\n(37) Dado o número e a importância das alterações a efetuar, o RAP deverá ser revogado,\n\nADOTARAM O PRESENTE REGULAMENTO:"
+  },
+  "ffc348f463b781ad": {
+   "fragment_id": "TÍTULO I",
+   "type": "divisao",
+   "heading": "TÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "463171e01d7cf130": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece as regras para a emissão e a gestão das autorizações de pesca destinadas:\n\na) Aos navios de pesca da União que realizam operações de pesca nas águas sob soberania ou jurisdição de um país terceiro, sob a égide de uma ORGP na qual a União é parte contratante, dentro ou fora das águas da União ou no alto mar; e\n\nb) Aos navios de pesca de países terceiros que realizam operações de pesca nas águas da União."
+  },
+  "45cfc2642c7cf59b": {
+   "fragment_id": "Artigo 2.º — Relação com o direito internacional e com o direito da União",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Relação com o direito internacional e com o direito da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Relação com o direito internacional e com o direito da União\n\nO presente regulamento é aplicável sem prejuízo das disposições:\n\na) Dos APPS e de outros acordos de pesca semelhantes celebrados entre a União e os países terceiros;\n\nb) Adotadas pelas ORGP em que a União seja parte contratante;\n\nc) Do direito da União que aplique ou transponha as disposições referidas nas alíneas a) e b)."
+  },
+  "a13714433041e64f": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1. Para efeitos do presente regulamento, são aplicáveis as definições estabelecidas no artigo 4.º do Regulamento de Base e no artigo 2.º, pontos 1 a 4, 15, 16 e 22, do Regulamento INN, salvo disposição em contrário do presente regulamento.\n\n2. Para efeitos do presente regulamento, são igualmente aplicáveis as seguintes definições:\n\na) \"Navio de apoio\", um navio, com exceção das embarcações transportadas a bordo, não equipado com artes de pesca operacionais concebidas para capturar ou para atrair peixe que facilita, assiste ou prepara operações de pesca;\n\nb) \"Autorização de pesca\", relativamente a um navio de pesca da União, uma autorização: — na aceção do artigo 4.º, ponto 10, do Regulamento Controlo, — emitida por um país terceiro que confere a um navio de pesca da União o direito de realizar operações de pesca específicas em águas sob a soberania ou a jurisdição desse país terceiro durante um período especificado, numa determinada zona ou para uma determinada pescaria, sob determinadas condições, e, relativamente a um navio de pesca de um país terceiro, uma autorização que lhe confere o direito de realizar, nas águas da União, operações de pesca específicas durante um período especificado, numa determinada zona ou para uma determinada pescaria, sob determinadas condições;\n\n— na aceção do artigo 4.º, ponto 10, do Regulamento Controlo,\n\n— emitida por um país terceiro que confere a um navio de pesca da União o direito de realizar operações de pesca específicas em águas sob a soberania ou a jurisdição desse país terceiro durante um período especificado, numa determinada zona ou para uma determinada pescaria, sob determinadas condições,\n\nc) \"Autorização direta\", uma autorização de pesca emitida pela autoridade competente de um país terceiro a um navio de pesca da União fora do âmbito de um APPS ou de um acordo de troca de possibilidades de pesca e gestão conjunta de espécies de interesse comum;\n\nd) \"Águas de países terceiros\", as águas sob a soberania ou jurisdição de um país terceiro. Para efeitos do presente regulamento, as águas de um Estado-Membro que não sejam águas da União são consideradas águas de países terceiros;\n\ne) \"Programa de observadores\", um regime sob a égide de uma ORGP, de um APPS, de um país terceiro ou de um Estado-Membro que envia observadores a bordo dos navios de pesca, inclusive, se tal estiver especificamente previsto no regime de observação aplicável, para verificar se o navio cumpre as regras adotadas por essa ORGP ou por esse país terceiro, ou por esse APPS;\n\nf) \"Fretamento\", um acordo por meio do qual um navio de pesca que arvora pavilhão de um Estado-Membro é contratado por um período definido por um operador, noutro Estado-Membro ou num país terceiro, sem mudar de pavilhão;\n\ng) \"Atividades de pesca\", todas as operações relacionadas com a procura de peixe, a largada, o arrasto e a alagem de artes ativas, a calagem, o posicionamento, a remoção ou o reposicionamento de artes passivas e o transbordo de capturas das artes de pesca, das redes onde sejam mantidas ou das jaulas de transporte para jaulas de engorda ou de criação."
+  },
+  "4c8bdeab3d91ec7d": {
+   "fragment_id": "TÍTULO II",
+   "type": "divisao",
+   "heading": "TÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II"
+  },
+  "5b33711b3972a23b": {
+   "fragment_id": "OPERAÇÕES DE PESCA REALIZADAS POR NAVIOS DE PESCA DA UNIÃO FORA DAS ÁGUAS DA UNIÃO",
+   "type": "divisao",
+   "heading": "OPERAÇÕES DE PESCA REALIZADAS POR NAVIOS DE PESCA DA UNIÃO FORA DAS ÁGUAS DA UNIÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OPERAÇÕES DE PESCA REALIZADAS POR NAVIOS DE PESCA DA UNIÃO FORA DAS ÁGUAS DA UNIÃO"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e66b8427f7f19165": {
+   "fragment_id": "Disposições comuns",
+   "type": "divisao",
+   "heading": "Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições comuns"
+  },
+  "f5e05c54abce02d3": {
+   "fragment_id": "Artigo 4.º — Princípio geral",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípio geral\n\nSem prejuízo da obrigação de obter uma autorização junto da organização competente ou do país terceiro, um navio de pesca da União não pode realizar operações de pesca fora das águas da União, a não ser que tenha sido autorizado pelo seu Estado-Membro de pavilhão e que as operações de pesca sejam indicadas numa autorização de pesca válida emitida nos termos dos capítulos II a V, conforme adequado."
+  },
+  "47f0b7e81305f2a4": {
+   "fragment_id": "Artigo 5.º — Critérios de elegibilidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade\n\n1. O Estado-Membro de pavilhão só pode emitir uma autorização de pesca para a realização de operações de pesca fora das águas da União se:\n\na) Tiver recebido informações completas e exatas, em conformidade com os requisitos do anexo ou do APPS em questão, ou da ORGP em questão, sobre os navios de pesca e os navios de apoio associados, incluindo navios de apoio não pertencentes à União;\n\nb) O navio de pesca dispuser de uma licença de pesca válida nos termos do artigo 6.º do Regulamento Controlo;\n\nc) O navio de pesca e os navios de apoio associados aplicarem o sistema pertinente de identificação de navios da OMI, se tal for exigido ao abrigo do direito da União;\n\nd) O navio de pesca não constar de uma lista de navios INN adotada por uma ORGP e/ou pela União ao abrigo do Regulamento INN;\n\ne) Se for caso disso, o Estado-Membro de pavilhão dispuser de possibilidades de pesca ao abrigo do acordo de pesca em causa ou das disposições aplicáveis da ORGP; e\n\nf) Se for caso disso, o navio de pesca cumprir os requisitos estabelecidos no artigo 6.º.\n\n2. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 44.º, para alterar o anexo de modo a assegurar a monitorização adequada das atividades dos navios de pesca abrangidos pelo presente regulamento, em particular através de novos requisitos de dados decorrentes de acordos de pesca ou do desenvolvimento de tecnologias da informação."
+  },
+  "6777fc821d6b109d": {
+   "fragment_id": "Artigo 6.º — Operações de mudança de pavilhão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Operações de mudança de pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Operações de mudança de pavilhão\n\n1. O presente artigo é aplicável aos navios que, nos cinco anos anteriores à data do pedido de autorização de pesca:\n\na) Tenham saído do ficheiro da frota de pesca da União e mudado o pavilhão para um país terceiro; e\n\nb) Tenham posteriormente voltado a integrar o ficheiro da frota de pesca da União.\n\n2. O Estado-Membro de pavilhão só pode emitir uma autorização de pesca se tiver verificado que o navio a que se refere o n.º 1, durante o período em que operou sob pavilhão de um país terceiro:\n\na) Não participou na pesca INN;\n\nb) Não operou nas águas de um país terceiro identificado como país que permite a pesca não sustentável nos termos do artigo 4.º, n.º 1, alínea a), do Regulamento (UE) n.º 1026/2012 do Parlamento Europeu e do Conselho [([^15])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr15-L_2017347PT.01008101-E0015);\n\nc) Não operou nas águas de um país terceiro enumerado como não cooperante nos termos do artigo 33.º do Regulamento INN; e\n\nd) Não operou nas águas de um país terceiro identificado como não cooperante na luta contra a pesca INN nos termos do artigo 31.º do Regulamento INN após um período de seis semanas a contar da adoção da decisão da Comissão que identifica esse país terceiro como tal, com exceção da participação em operações realizadas no caso de o Conselho ter rejeitado uma proposta para designar esse país terceiro como não cooperante nos termos do artigo 33.º desse regulamento.\n\n3. Para esse efeito, o operador fornece as seguintes informações, relativas ao período em que o navio operou sob pavilhão de um país terceiro, exigidas pelo Estado-Membro de pavilhão:\n\na) Uma declaração das capturas e do esforço de pesca durante o período em causa, conforme exigido pelo país terceiro de pavilhão;\n\nb) Uma cópia das autorizações de pesca que permitam operações de pesca durante o período em causa;\n\nc) Uma declaração formal do país terceiro cujo pavilhão o navio tenha adotado, que enumere as sanções impostas ao navio ou ao operador durante o período em causa;\n\nd) O historial completo do pavilhão durante o período em que o navio deixou de constar do ficheiro da frota da União.\n\n4. O Estado-Membro de pavilhão não pode emitir uma autorização de pesca a um navio que tenha mudado de pavilhão para adotar o pavilhão de um país terceiro:\n\na) Enumerado como país não cooperante na luta contra a pesca INN nos termos do artigo 33.º do Regulamento INN;\n\nb) Identificado como país não cooperante na luta contra a pesca INN nos termos do artigo 31.º do Regulamento INN após um período de seis semanas a contar da adoção da decisão da Comissão que identifica esse país terceiro como tal, com exceção da participação em operações realizadas no caso de o Conselho ter rejeitado uma proposta para designar esse país terceiro como não cooperante nos termos do artigo 33.º desse regulamento; ou\n\nc) Identificado como país que permite a pesca não sustentável nos termos do artigo 4.º, n.º 1, alínea a), do Regulamento (UE) n.º 1026/2012.\n\n5. O n.º 4 não se aplica se o Estado-Membro de pavilhão se tiver certificado de que, assim que passaram a ser aplicáveis as circunstâncias descritas no n.º 2, alíneas b) a d), ou no n.º 4, alíneas a) a c), o operador:\n\na) Cessou as operações de pesca; e\n\nb) Iniciou imediatamente os procedimentos administrativos necessários para retirar o navio do ficheiro da frota de pesca do país terceiro."
+  },
+  "d148b8b46304dc08": {
+   "fragment_id": "Artigo 7.º — Gestão das autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Gestão das autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão das autorizações de pesca\n\n1. Quando apresentar um pedido de autorização de pesca, o operador fornece ao Estado-Membro de pavilhão dados completos e exatos.\n\n2. O operador informa imediatamente o Estado-Membro de pavilhão de qualquer alteração dos dados conexos.\n\n3. Os Estados-Membros de pavilhão verificam regularmente se as condições que serviram de base para a emissão de uma autorização de pesca continuam a ser cumpridas durante o prazo de validade dessa autorização.\n\n4. Se, na sequência do resultado final das atividades de inspeção a que se refere o n.º 3, existirem provas de que as condições que serviram de base para a emissão da autorização de pesca deixaram de estar preenchidas, o Estado-Membro de pavilhão toma as medidas necessárias, nomeadamente alterando ou retirando a autorização e, se necessário, impondo sanções. As sanções aplicadas pelo Estado-Membro de pavilhão por infrações são suficientemente severas para assegurar que as regras sejam efetivamente cumpridas, para prevenir as infrações e para privar os infratores dos benefícios das infrações. O Estado-Membro de pavilhão notifica imediatamente o operador e a Comissão das medidas tomadas. Se necessário, a Comissão notifica o secretariado da ORGP ou o país terceiro interessado em conformidade.\n\n5. Na sequência de um pedido fundamentado da Comissão, o Estado-Membro de pavilhão toma as medidas necessárias previstas no n.º 4, em caso de desrespeito das medidas de conservação e gestão dos recursos biológicos marinhos adotadas por uma ORGP na qual a União seja parte contratante, ou ao abrigo de APPS.\n\n6. Se a União for parte contratante numa ORGP e um navio de pesca da União não cumprir as condições previstas no artigo 21.º, alínea b), tal como estabelecidas no relatório final de inspeção reconhecido pela ORGP, e se o Estado-Membro de pavilhão não tomar as medidas necessárias previstas no n.º 4 do presente artigo, a Comissão pode adotar uma decisão que exija que o Estado-Membro de pavilhão em causa assegure que o navio de pesca da União em causa cumpra essas condições.\n\nSe, no prazo de 15 dias, o Estado-Membro de pavilhão em causa não tiver tomado as medidas necessárias para dar cumprimento à decisão da Comissão a que se refere o primeiro parágrafo, a Comissão envia os dados atualizados dos navios de pesca a que se refere o artigo 22.º ao secretariado da ORGP a fim de resolver a situação do navio em causa. A Comissão informa o Estado-Membro de pavilhão das medidas tomadas. O Estado-Membro de pavilhão notifica o operador das medidas da Comissão.\n\n7. Se a União tiver celebrado um APPS com um país terceiro e um navio de pesca da União não cumprir as condições previstas no artigo 10.º, alínea b), tal como estabelecidas no relatório final de inspeção reconhecido pelas autoridades competentes, e se o Estado-Membro de pavilhão não tomar as medidas necessárias previstas no n.º 4 do presente artigo, a Comissão pode adotar uma decisão que exija que o Estado-Membro de pavilhão em causa assegure que o navio de pesca da União em causa cumpra essas condições.\n\nSe, no prazo de 15 dias, o Estado-Membro de pavilhão em causa não tiver tomado as medidas necessárias para dar cumprimento à decisão da Comissão a que se refere o primeiro parágrafo, a Comissão envia os dados atualizados dos navios de pesca ao país terceiro a fim de resolver a situação do navio de pesca da União em causa. A Comissão informa o Estado-Membro de pavilhão das medidas tomadas. O Estado-Membro de pavilhão notifica o operador das medidas da Comissão."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "12fa2d39aa54e469": {
+   "fragment_id": "Operações de pesca realizadas por navios de pesca da União em águas de países terceiros",
+   "type": "divisao",
+   "heading": "Operações de pesca realizadas por navios de pesca da União em águas de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações de pesca realizadas por navios de pesca da União em águas de países terceiros"
+  },
+  "3869c2effa545d25": {
+   "fragment_id": "Secção 1",
+   "type": "divisao",
+   "heading": "Secção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 1"
+  },
+  "cb6b498c318f5647": {
+   "fragment_id": "Operações de pesca no âmbito de APPS",
+   "type": "divisao",
+   "heading": "Operações de pesca no âmbito de APPS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações de pesca no âmbito de APPS"
+  },
+  "5596e9fc63ec4cc2": {
+   "fragment_id": "Artigo 8.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Âmbito de aplicação\n\nA presente secção é aplicável às operações de pesca realizadas por navios de pesca da União em águas de um país terceiro no âmbito de um APPS."
+  },
+  "3409d79ee988966b": {
+   "fragment_id": "Artigo 9.º — Operações de pesca no âmbito de uma ORGP",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Operações de pesca no âmbito de uma ORGP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Operações de pesca no âmbito de uma ORGP\n\nUm navio de pesca da União só pode realizar operações de pesca nas águas de um país terceiro em relação às unidades populacionais geridas por uma ORGP se esse país terceiro for parte contratante nessa ORGP."
+  },
+  "74f3524d20ff4077": {
+   "fragment_id": "Artigo 10.º — Condições relativas às autorizações de pesca pelo Estado-Membro de pavilhão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Condições relativas às autorizações de pesca pelo Estado-Membro de pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Condições relativas às autorizações de pesca pelo Estado-Membro de pavilhão\n\nO Estado-Membro de pavilhão só pode emitir uma autorização de pesca para operações de pesca realizadas nas águas de um país terceiro no âmbito de um APPS se:\n\na) As condições de elegibilidade estabelecidas no artigo 5.º estiverem preenchidas;\n\nb) As condições estabelecidas no APPS em causa estiverem preenchidas;\n\nc) O operador tiver pago todas as taxas devidas nos termos dos acordos em causa e, se for caso disso, as sanções pecuniárias associadas determinadas por decisão judicial ou administrativa transitada em julgado e com efeito vinculativo; e\n\nd) O navio de pesca tiver uma autorização de pesca válida emitida pelo país terceiro cuja soberania ou jurisdição abrange as águas onde decorrem as operações de pesca."
+  },
+  "ba9cd343004383c5": {
+   "fragment_id": "Artigo 11.º — Procedimento de obtenção de autorizações de pesca de um país terceiro",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento de obtenção de autorizações de pesca de um país terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento de obtenção de autorizações de pesca de um país terceiro\n\n1. Para efeitos do artigo 10.º, alínea d), um Estado-Membro de pavilhão que tenha verificado que as condições estabelecidas no artigo 10.º, alíneas a) a c), se encontram preenchidas, transmite à Comissão o pedido de autorização correspondente do país terceiro.\n\n2. O pedido referido no n.º 1 deve conter as informações exigidas pelo APPS.\n\n3. O Estado-Membro de pavilhão transmite o pedido à Comissão pelo menos dez dias de calendário antes do termo do prazo para a transmissão dos pedidos fixado no APPS. A Comissão pode enviar ao Estado-Membro de pavilhão um pedido devidamente justificado de informações complementares necessárias para verificar o cumprimento das condições.\n\n4. Após ter recebido o pedido ou as informações complementares solicitadas nos termos do n.º 3 do presente artigo, a Comissão procede a uma análise preliminar para determinar se as condições estabelecidas no artigo 10.º, alíneas a) a c), estão preenchidas. Em seguida, a Comissão:\n\na) Envia o pedido ao país terceiro sem demora e, em todo o caso, antes do termo do prazo para a transmissão dos pedidos de autorização fixado no APPS, desde que o prazo fixado no n.º 3 do presente artigo tenha sido respeitado; ou\n\nb) Informa o Estado-Membro da recusa do pedido.\n\n5. Se um país terceiro informar a Comissão de que decidiu emitir, recusar, suspender ou retirar uma autorização de pesca emitida a um navio de pesca da União nos termos do acordo, a Comissão informa imediatamente desse facto o Estado-Membro de pavilhão, se possível por via eletrónica."
+  },
+  "4c5625962fb0b2b2": {
+   "fragment_id": "Artigo 12.º — Reatribuição temporária de possibilidades de pesca não utilizadas no âmbito de APPS",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Reatribuição temporária de possibilidades de pesca não utilizadas no âmbito de APPS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reatribuição temporária de possibilidades de pesca não utilizadas no âmbito de APPS\n\n1. Durante um ano específico ou em qualquer outro período de aplicação de um protocolo de um APPS, e tendo em conta os prazos de validade das autorizações de pesca e das campanhas de pesca, a Comissão pode identificar as possibilidades de pesca não utilizadas e informar do facto os Estados-Membros beneficiários das quotas correspondentes da atribuição.\n\n2. No prazo de 10 dias de calendário a contar da receção da informação da Comissão, os Estados-Membros a que se refere o n.º 1 podem:\n\na) Informar a Comissão de que utilizarão as suas possibilidades de pesca numa fase mais avançada do período de aplicação em causa, fornecendo um plano de pesca com informações pormenorizadas sobre o número de autorizações de pesca pedidas, sobre as capturas estimadas e sobre a zona e o período de pesca; ou\n\nb) Notificar a Comissão da utilização das suas possibilidades de pesca através de trocas de possibilidades de pesca, nos termos do artigo 16.º, n.º 8, do Regulamento de Base.\n\n3. Se um ou vários Estados-Membros não tiverem comunicado à Comissão alguma das informações a que se refere o n.º 2, ou tiverem comunicado que apenas utilizaram parcialmente as suas possibilidades de pesca, e se, em consequência, as possibilidades de pesca não forem totalmente utilizadas, a Comissão pode lançar um convite à manifestação de interesse para as possibilidades de pesca não utilizadas entre os outros Estados-Membros beneficiários de uma quota da atribuição. A Comissão informa, ao mesmo tempo, todos os Estados-Membros do lançamento do convite à manifestação de interesse.\n\n4. No prazo de 10 dias de calendário a contar da receção do convite à manifestação de interesse a que se refere o n.º 3, os Estados-Membros beneficiários de uma quota da atribuição podem comunicar à Comissão o seu interesse nas possibilidades de pesca não utilizadas disponíveis. Em apoio ao pedido, apresentam um plano de pesca com informações pormenorizadas sobre o número de autorizações de pesca pedidas, sobre as capturas estimadas e sobre a zona e o período de pesca.\n\n5. Se a Comissão o considerar necessário para a avaliação do pedido, pode solicitar aos Estados-Membros em causa informações complementares.\n\n6. Na falta de interesse pela quantidade total das possibilidades de pesca não utilizadas disponíveis por parte dos Estados-Membros beneficiários de uma quota da atribuição no termo do prazo de 10 dias a que se refere o n.º 4, a Comissão pode alargar o convite à manifestação de interesse a todos os Estados-Membros. Um Estado-Membro pode comunicar o seu interesse pelas possibilidades de pesca não utilizadas nas condições referidas nesse número.\n\n7. Com base nas informações prestadas pelos Estados-Membros nos termos dos n.ºs 4 ou 6 do presente artigo, as possibilidades de pesca não utilizadas são reatribuídas pelo Conselho nos termos do artigo 43.º, n.º 3, do TFUE, apenas temporariamente, pelo período adequado referido no n.º 1 do presente artigo.\n\nA Comissão comunica a todos Estados-Membros quais foram os Estados-Membros beneficiários da reatribuição, e as quantidades reatribuídas.\n\n8. A atribuição temporária de possibilidades de pesca baseia-se em critérios transparentes e objetivos, inclusive, se for caso disso, critérios de natureza ambiental, social e económica. Esses critérios podem incluir:\n\na) As possibilidades de pesca disponíveis para reatribuição;\n\nb) O número de Estados-Membros requerentes;\n\nc) A quota atribuída a cada Estado-Membro requerente na atribuição inicial das possibilidades de pesca;\n\nd) Os níveis históricos de capturas e de esforço de pesca de cada Estado-Membro requerente, se for caso disso;\n\ne) A viabilidade dos planos de pesca apresentados pelos Estados-Membros requerentes, tendo em conta o número, o tipo e as características dos navios e das artes de pesca utilizadas."
+  },
+  "84eb307973e6197c": {
+   "fragment_id": "Artigo 13.º — Subatribuição de uma quota anual dividida em vários limites de captura sucessivos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Subatribuição de uma quota anual dividida em vários limites de captura sucessivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Subatribuição de uma quota anual dividida em vários limites de captura sucessivos\n\n1. Se o protocolo de um APPS estabelecer limites de captura mensais ou trimestrais, ou outras subdivisões das possibilidades de pesca disponíveis para o ano em causa, e se as possibilidades de pesca atribuídas não forem utilizadas totalmente durante esse mesmo período mensal, trimestral ou outro período aplicável, as possibilidades de pesca disponíveis correspondentes são subatribuídas pelo Conselho nos termos do artigo 43.º, n.º 3, do TFUE entre os Estados-Membros em causa, pelo período adequado.\n\n2. A subatribuição das possibilidades de pesca disponíveis é efetuada utilizando critérios transparentes e objetivos. A subatribuição é coerente com as possibilidades de pesca anuais atribuídas aos Estados-Membros ao abrigo do regulamento aplicável do Conselho."
+  },
+  "18e5b2282eff7afa": {
+   "fragment_id": "Secção 2",
+   "type": "divisao",
+   "heading": "Secção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 2"
+  },
+  "e36ece92d2dd1992": {
+   "fragment_id": "Operações de pesca ao abrigo de acordos de troca ou de gestão conjunta",
+   "type": "divisao",
+   "heading": "Operações de pesca ao abrigo de acordos de troca ou de gestão conjunta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações de pesca ao abrigo de acordos de troca ou de gestão conjunta"
+  },
+  "a0dc4b18b532a224": {
+   "fragment_id": "Artigo 14.º — Disposições aplicáveis",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Disposições aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposições aplicáveis\n\n1. Os artigos 8.º a 11.º são aplicáveis, com as devidas adaptações, aos navios de pesca da União que pescam nas águas de países terceiros ao abrigo de um acordo de troca de possibilidades de pesca ou de gestão conjunta de unidades populacionais de interesse comum.\n\n2. Em derrogação do artigo 11.º, um Estado-Membro de pavilhão pode facultar à Comissão os dados de navios de pesca da União elegíveis para realizar operações de pesca em águas de um país terceiro no âmbito do acordo em causa. Se a Comissão considerar que as condições estabelecidas no artigo 10.º, alíneas a) a c), se encontram preenchidas, transmite sem demora os dados dos navios de pesca da União em causa ao país terceiro. Logo que o país terceiro informe a Comissão de que os dados desses navios de pesca da União foram aprovados, a Comissão informa desse facto o Estado-Membro de pavilhão. Considera-se que os navios de pesca da União cujos dados tenham sido facultados dispõem de uma autorização de pesca válida para efeitos do artigo 10.º, alínea d). Além disso, a Comissão informa sem demora por via eletrónica o Estado-Membro de pavilhão de todas as notificações emitidas pelo país terceiro de que um navio de pesca da União não é elegível para realizar operações de pesca nas suas águas."
+  },
+  "8aaea14acc7940d5": {
+   "fragment_id": "Artigo 15.º — Consultas com países terceiros no que respeita aos navios de pesca da União",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Consultas com países terceiros no que respeita aos navios de pesca da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Consultas com países terceiros no que respeita aos navios de pesca da União\n\nA Comissão fica habilitada a adotar atos delegados, nos termos do artigo 44.º, a fim de completar o artigo 10.º aplicando no direito da União os resultados das consultas entre a União e os países terceiros com os quais a União tenha celebrado um acordo, ou dos convénios com Estados costeiros com os quais a União partilha unidades populacionais, no que se refere às condições para as autorizações de pesca."
+  },
+  "b426821733183e1b": {
+   "fragment_id": "Secção 3",
+   "type": "divisao",
+   "heading": "Secção 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 3"
+  },
+  "78f74acb09492a80": {
+   "fragment_id": "Operações de pesca ao abrigo de autorizações diretas",
+   "type": "divisao",
+   "heading": "Operações de pesca ao abrigo de autorizações diretas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações de pesca ao abrigo de autorizações diretas"
+  },
+  "b4a1fb1caa76f3e4": {
+   "fragment_id": "Artigo 16.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Âmbito de aplicação\n\nA presente secção é aplicável às operações de pesca realizadas por navios de pesca da União em águas de um país terceiro não abrangidas pelos acordos a que se referem as secções 1 ou 2."
+  },
+  "3b6af08aacce3e64": {
+   "fragment_id": "Artigo 17.º — Condições relativas às autorizações de pesca pelos Estados-Membros de pavilhão",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Condições relativas às autorizações de pesca pelos Estados-Membros de pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Condições relativas às autorizações de pesca pelos Estados-Membros de pavilhão\n\n1. O Estado-Membro de pavilhão só pode emitir uma autorização de pesca para as operações de pesca realizadas em águas de um país terceiro não abrangidas pelos acordos a que se referem as secções 1 ou 2, se:\n\na) As condições de elegibilidade estabelecidas no artigo 5.º estiverem preenchidas;\n\nb) Não estiver em vigor nem a ser aplicado a título provisório um APPS ou um acordo de troca de possibilidades de pesca ou de gestão conjunta com o país terceiro em causa;\n\nc) O operador tiver fornecido cumulativamente as seguintes informações: — uma cópia ou uma remissão exata para a legislação aplicável das pescas, tal como disponibilizada ao operador pelo país terceiro cuja soberania ou jurisdição abrange as águas onde decorrem as atividades de pesca, — uma avaliação científica que demonstre a sustentabilidade das operações de pesca previstas, incluindo a coerência com o disposto no artigo 62.º da CNUDM, conforme aplicável, — o número de uma conta bancária pública e oficial para o pagamento de todas as taxas;\n\n— uma cópia ou uma remissão exata para a legislação aplicável das pescas, tal como disponibilizada ao operador pelo país terceiro cuja soberania ou jurisdição abrange as águas onde decorrem as atividades de pesca,\n\n— uma avaliação científica que demonstre a sustentabilidade das operações de pesca previstas, incluindo a coerência com o disposto no artigo 62.º da CNUDM, conforme aplicável,\n\n— o número de uma conta bancária pública e oficial para o pagamento de todas as taxas;\n\nd) No caso de operações de pesca dirigidas a espécies geridas por uma ORGP, o país terceiro for parte contratante dessa organização; e\n\ne) O operador tiver fornecido: — uma autorização de pesca válida para o navio de pesca em causa, emitida por um país terceiro cuja soberania ou jurisdição abranja as águas onde decorrem as operações de pesca, ou — uma confirmação escrita emitida pelo país terceiro cuja soberania ou jurisdição abranja as águas onde decorrem as operações de pesca, na sequência das discussões entre o operador e esse país terceiro, dos termos da autorização direta destinada a dar ao operador acesso aos seus recursos haliêuticos, incluindo a duração, as condições e as possibilidades de pesca, expressas em esforço ou em limites de captura.\n\n— uma autorização de pesca válida para o navio de pesca em causa, emitida por um país terceiro cuja soberania ou jurisdição abranja as águas onde decorrem as operações de pesca, ou\n\n— uma confirmação escrita emitida pelo país terceiro cuja soberania ou jurisdição abranja as águas onde decorrem as operações de pesca, na sequência das discussões entre o operador e esse país terceiro, dos termos da autorização direta destinada a dar ao operador acesso aos seus recursos haliêuticos, incluindo a duração, as condições e as possibilidades de pesca, expressas em esforço ou em limites de captura.\n\n2. Em todo o caso, as operações de pesca não podem ter início antes de o país terceiro emitir a autorização válida de pesca a que se refere n.º 1, alínea e). O Estado-Membro de pavilhão suspende a sua autorização se a autorização do país terceiro não tiver sido emitida até ao momento de dar início às operações de pesca previstas.\n\n3. A avaliação científica a que se refere o n.º 1, a alínea c), segundo travessão, é efetuada por uma ORGP ou por um órgão regional de pescas com competência científica, ou pelo país terceiro em causa, ou em cooperação com ele. A avaliação científica proveniente do país terceiro é examinada por um instituto ou por um órgão científico de um Estado-Membro ou da União."
+  },
+  "120b345a80e34747": {
+   "fragment_id": "Artigo 18.º — Procedimento de obtenção de autorizações de pesca do país terceiro",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Procedimento de obtenção de autorizações de pesca do país terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Procedimento de obtenção de autorizações de pesca do país terceiro\n\n1. Um Estado-Membro de pavilhão que tenha verificado que as condições previstas no artigo 17.º, n.º 1, alíneas a) a e), se encontram preenchidas transmite à Comissão as informações relevantes enumeradas no anexo, e informações sobre o cumprimento das condições previstas no artigo 17.º, n.º 1, alínea c).\n\n2. Se a Comissão considerar que as informações a que se refere o n.º 1 do presente artigo não são suficientes para avaliar o cumprimento das condições previstas no artigo 17.º, solicita informações adicionais ou uma justificação no prazo de 10 dias úteis a contar da receção dessas informações.\n\n3. Se, na sequência do pedido das informações adicionais ou da justificação a que se refere o n.º 2 do presente artigo, e após discussões com o Estado-Membro em causa, a Comissão considerar que as condições previstas no artigo 17.º não estão preenchidas, pode opor-se à concessão da autorização de pesca no prazo de 30 dias de calendário a contar da receção de todas as informações, ou da justificação, requeridas. Se a Comissão considerar que essas condições estão preenchidas, informa sem demora o Estado-Membro em causa da sua intenção de não formular objeções.\n\n4. O Estado-Membro de pavilhão pode emitir uma autorização de pesca após o prazo a que se refere o n.º 2 ter expirado. Caso a Comissão tenha solicitado informações adicionais nos termos desse número, o Estado-Membro de pavilhão pode emitir a autorização de pesca se a Comissão não tiver formulado objeções no prazo referido no n.º 3, ou antes desse prazo, desde que a Comissão tenha informado o Estado-Membro da sua intenção de não formular objeções.\n\n5. Em derrogação dos n.ºs 1 a 4, nos casos de renovação da autorização de pesca nas mesmas condições e no prazo de dois anos após a concessão da autorização de pesca inicial, o Estado-Membro de pavilhão pode emitir a autorização de pesca depois de as informações recebidas sobre as condições previstas no artigo 17.º, n.º 1, alíneas a), b), d) e e) terem sido verificadas, e informa sem demora a Comissão desse facto.\n\n6. Se um país terceiro informar a Comissão de que decidiu emitir, recusar, suspender ou retirar uma autorização direta emitida para um navio de pesca da União, a Comissão informa imediatamente desse facto o Estado-Membro de pavilhão.\n\n7. Se um país terceiro informar o Estado-Membro de pavilhão de que decidiu emitir, recusar, suspender ou retirar uma autorização direta emitida para um navio de pesca da União, o Estado-Membro de pavilhão informa imediatamente desse facto a Comissão.\n\n8. O operador fornece ao Estado-Membro de pavilhão uma cópia das condições finais acordadas entre si e o país terceiro, incluindo uma cópia da autorização direta."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "134d57f5f72e7ca0": {
+   "fragment_id": "Operações de pesca realizadas por navios de pesca da União sob a égide de ORGP",
+   "type": "divisao",
+   "heading": "Operações de pesca realizadas por navios de pesca da União sob a égide de ORGP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações de pesca realizadas por navios de pesca da União sob a égide de ORGP"
+  },
+  "d4d43a0728949e57": {
+   "fragment_id": "Artigo 19.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Âmbito de aplicação\n\nO presente capítulo é aplicável às operações de pesca realizadas por navios de pesca da União que pescam unidades populacionais de peixes sob a égide de uma ORGP, dentro ou fora das águas da União, desde que as suas operações estejam sujeitas a um regime de autorização criado por essa ORGP."
+  },
+  "7a9d32fd7f3790fc": {
+   "fragment_id": "Artigo 20.º — Autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Autorizações de pesca\n\n1. Um navio de pesca da União cujas operações de pesca estejam sujeitas a um regime de autorização adotado por uma ORGP não pode realizar operações de pesca sob a égide dessa ORGP, a não ser que:\n\na) A União seja parte contratante da ORGP;\n\nb) Disponha de uma autorização de pesca emitida pelo seu Estado-Membro de pavilhão;\n\nc) Esteja inscrito no registo adequado ou na lista de navios autorizados da ORGP; e\n\nd) Nos casos em que as operações de pesca sejam realizadas em águas de países terceiros, disponha de uma autorização de pesca emitida pelo país terceiro em causa nos termos do capítulo II.\n\n2. O n.º 1, alínea a), do presente artigo não se aplica aos navios de pesca da União que exerçam atividades de pesca exclusivamente em águas da União e que já tenham obtido uma autorização de pesca nos termos do artigo 7.º do Regulamento Controlo."
+  },
+  "859d0ef64306c8fe": {
+   "fragment_id": "Artigo 21.º — Condições relativas à emissão de autorizações de pesca pelos Estados-Membros de pavilhão",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Condições relativas à emissão de autorizações de pesca pelos Estados-Membros de pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Condições relativas à emissão de autorizações de pesca pelos Estados-Membros de pavilhão\n\nO Estado-Membro de pavilhão só pode emitir uma autorização de pesca se:\n\na) Os critérios de elegibilidade previstos no artigo 5.º estiverem cumpridos;\n\nb) As regras estabelecidas pela ORGP ou pelo direito da União que as transpõe forem respeitadas; e\n\nc) Nos casos em que as operações de pesca sejam realizadas em águas de países terceiros, os critérios previstos nos artigos 10.º ou 17.º estiverem cumpridos."
+  },
+  "cd3cf3164f27db6a": {
+   "fragment_id": "Artigo 22.º — Registo nas ORGP",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Registo nas ORGP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Registo nas ORGP\n\n1. Os Estados-Membros de pavilhão comunicam à Comissão as informações relativas aos navios que tenham autorizado para operações de pesca nos termos do artigo 20.º do presente regulamento ou, no caso do artigo 20.º, n.º 2, do presente regulamento, nos termos do artigo 7.º do Regulamento Controlo.\n\n2. As informações a que se refere o n.º 1 são compiladas nas condições estabelecidas pela ORGP e são acompanhadas pelas informações por ela exigidas.\n\n3. A Comissão pode solicitar ao Estado-Membro de pavilhão as informações complementares que considere necessárias no prazo de 10 dias a contar da receção das informações a que se refere o n.º 1. A Comissão fundamenta o seu pedido de informações.\n\n4. Quando a Comissão considerar que as condições previstas no artigo 21.º estão preenchidas, comunica as informações relativas aos navios autorizados à ORGP em causa no prazo de 15 dias a contar da receção das informações a que se refere o n.º 1 do presente artigo.\n\n5. Se o registo ou a lista da ORGP não forem acessíveis ao público, a Comissão divulga as informações relativas aos navios autorizados aos Estados-Membros que participam nas operações de pesca em causa."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "993c31b14a1420e2": {
+   "fragment_id": "Operações de pesca realizadas por navios de pesca da União no alto mar",
+   "type": "divisao",
+   "heading": "Operações de pesca realizadas por navios de pesca da União no alto mar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações de pesca realizadas por navios de pesca da União no alto mar"
+  },
+  "bb0f1d2b585ca8df": {
+   "fragment_id": "Artigo 23.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Âmbito de aplicação\n\nO presente capítulo é aplicável às operações de pesca realizadas no alto mar por navios de pesca da União de comprimento de fora a fora superior a 24 metros às quais não se aplique o capítulo III."
+  },
+  "d0cf4f4ed28b7a07": {
+   "fragment_id": "Artigo 24.º — Condições relativas à emissão de autorizações de pesca pelos Estados-Membros de pavilhão",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Condições relativas à emissão de autorizações de pesca pelos Estados-Membros de pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Condições relativas à emissão de autorizações de pesca pelos Estados-Membros de pavilhão\n\nO Estado-Membro de pavilhão só pode emitir uma autorização de pesca para a realização de operações de pesca no alto mar se:\n\na) Os critérios de elegibilidade previstos no artigo 5.º estiverem cumpridos;\n\nb) As operações de pesca previstas: — estiverem em conformidade com uma avaliação científica que demonstre a sua sustentabilidade, fornecida ou validada por um instituto científico do Estado-Membro de pavilhão, ou — fizerem parte de um programa de investigação, que inclua um sistema de recolha de dados, organizado por um organismo científico. O protocolo científico da investigação, que será sempre exigido, deve ser validado por um instituto científico do Estado-Membro de pavilhão.\n\n— estiverem em conformidade com uma avaliação científica que demonstre a sua sustentabilidade, fornecida ou validada por um instituto científico do Estado-Membro de pavilhão, ou\n\n— fizerem parte de um programa de investigação, que inclua um sistema de recolha de dados, organizado por um organismo científico. O protocolo científico da investigação, que será sempre exigido, deve ser validado por um instituto científico do Estado-Membro de pavilhão."
+  },
+  "d9918672c3272ddb": {
+   "fragment_id": "Artigo 25.º — Procedimento de obtenção das autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Procedimento de obtenção das autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Procedimento de obtenção das autorizações de pesca\n\n1. Um Estado-Membro de pavilhão que tenha verificado que as condições previstas no artigo 24.º estão preenchidas, transmite à Comissão as informações enumeradas no anexo e informações sobre o cumprimento das condições previstas no artigo 5.º.\n\n2. Se a Comissão considerar que as informações fornecidas nos termos do n.º 1 do presente artigo não são suficientes para avaliar o cumprimento das condições previstas no artigo 24.º, solicita informações adicionais ou uma justificação no prazo de 10 dias de calendário a contar da receção dessas informações.\n\n3. Se, na sequência da receção das informações adicionais ou da justificação a que se refere o n.º 2 do presente artigo, a Comissão considerar que as condições previstas no artigo 24.º não estão preenchidas, pode opor-se à concessão da autorização de pesca, no prazo de cinco dias de calendário a contar da receção de todas as informações adicionais, ou da justificação, requeridas. Se considerar que as condições estão preenchidas, a Comissão informa sem demora o Estado-Membro em causa da sua intenção de não formular objeções.\n\n4. O Estado-Membro de pavilhão pode emitir uma autorização de pesca após o prazo a que se refere o n.º 2 ter expirado. Caso a Comissão tenha solicitado informações adicionais nos termos desse número, o Estado-Membro de pavilhão pode emitir a autorização de pesca se a Comissão não tiver formulado objeções no prazo referido no n.º 3, ou antes desse prazo, desde que a Comissão tenha informado o Estado-Membro da sua intenção de não formular objeções."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "9f2514648227c3d4": {
+   "fragment_id": "Fretamento de navios de pesca da União",
+   "type": "divisao",
+   "heading": "Fretamento de navios de pesca da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Fretamento de navios de pesca da União"
+  },
+  "98aa8418fe84b535": {
+   "fragment_id": "Artigo 26.º — Princípios",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Princípios\n\n1. Um navio de pesca da União não pode realizar operações de pesca ao abrigo de convénios de fretamento em águas onde esteja em vigor ou a ser aplicado a título provisório um APPS.\n\n2. Um navio de pesca da União não pode realizar operações de pesca ao abrigo de mais de um convénio de fretamento ao mesmo tempo, nem envolver-se em atividades de subcontratação.\n\n3. Os navios de pesca da União só podem operar ao abrigo de convénios de fretamento em águas sob a égide de uma ORGP se o Estado ao qual o navio é fretado for parte contratante nessa ORGP.\n\n4. Um navio de pesca da União fretado não pode utilizar as possibilidades de pesca do seu Estado-Membro de pavilhão durante o período de aplicação do fretamento. As capturas de um navio de pesca da União fretado são imputadas às possibilidades de pesca do Estado de fretamento.\n\n5. O disposto no presente regulamento em nada diminui a responsabilidade do Estado-Membro de pavilhão no que respeita às suas obrigações ao abrigo do direito internacional, do Regulamento Controlo, do Regulamento INN ou de outras disposições da política comum das pescas, nomeadamente quanto a requisitos de prestação de informações.\n\n6. Antes do início do fretamento, o titular da licença de pesca de um navio de pesca da União informa o Estado-Membro de pavilhão do convénio de fretamento em causa. O Estado-Membro em causa informa do facto a Comissão, sem demora."
+  },
+  "e91616860c0ba00f": {
+   "fragment_id": "Artigo 27.º — Gestão das autorizações de pesca ao abrigo de um convénio de fretamento",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Gestão das autorizações de pesca ao abrigo de um convénio de fretamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Gestão das autorizações de pesca ao abrigo de um convénio de fretamento\n\nQuando emitir uma autorização de pesca para um navio nos termos dos artigos 17.º, 21.º ou 24.º, e quando as operações de pesca correspondentes forem realizadas ao abrigo de um convénio de fretamento, o Estado-Membro de pavilhão certifica-se de que:\n\na) A autoridade competente do Estado de fretamento confirmou oficialmente que o convénio é conforme com o seu direito nacional; e\n\nb) Os pormenores do convénio de fretamento estão especificados na autorização de pesca, incluindo a duração, as possibilidades de pesca e a zona de pesca."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "db6eb258cc6fd844": {
+   "fragment_id": "Operações de transbordo",
+   "type": "divisao",
+   "heading": "Operações de transbordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações de transbordo"
+  },
+  "e24df601922bd8c8": {
+   "fragment_id": "Artigo 28.º — Operações de transbordo",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Operações de transbordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Operações de transbordo\n\n1. As operações de transbordo realizadas por um navio de pesca da União no alto mar ou ao abrigo de autorizações diretas são efetuadas nos termos dos artigos 21.º e 22.º do Regulamento Controlo. O Estado-Membro de pavilhão comunica à Comissão até ao final de março de cada ano, para transbordos realizados no ano anterior, as informações fornecidas na declaração de transbordo, a data de transbordo, a posição geográfica e a zona em que o transbordo teve lugar.\n\n2. Os capitães dos navios de pesca da União que pescam ao abrigo de autorizações diretas ou no alto mar comunicam às autoridades competentes do seu Estado-Membro de pavilhão, antes do transbordo, os seguintes elementos:\n\na) O nome e o número de identificação externa do navio recetor;\n\nb) A hora e a posição geográfica previstas para o transbordo; e\n\nc) As quantidades estimadas das espécies a transbordar.\n\n3. O presente artigo não se aplica aos transbordos efetuados nos portos pelos navios de pesca da União."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "af811936186d4996": {
+   "fragment_id": "Obrigações de observação e notificação",
+   "type": "divisao",
+   "heading": "Obrigações de observação e notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Obrigações de observação e notificação"
+  },
+  "676cfc2a31d3c10c": {
+   "fragment_id": "Artigo 29.º — Dados do programa de observadores",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Dados do programa de observadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Dados do programa de observadores\n\nSe a recolha de dados for efetuada a bordo de um navio de pesca da União ao abrigo de um programa de observação, os relatórios correspondentes são enviados sem demora à autoridade competente do Estado-Membro de pavilhão, de acordo com as regras de transmissão especificadas no programa de observação."
+  },
+  "be1fcb47798fa7ca": {
+   "fragment_id": "Artigo 30.º — Transmissão de informações a países terceiros",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Transmissão de informações a países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Transmissão de informações a países terceiros\n\n1. Quando realizar operações de pesca ao abrigo do presente título, o capitão de um navio de pesca da União ou o seu representante faculta as declarações de capturas e as declarações de desembarque ao país terceiro e, além disso, envia ao seu Estado-Membro de pavilhão uma cópia eletrónica desses dados.\n\n2. O Estado-Membro de pavilhão avalia, através de controlos cruzados nos termos do artigo 109.º do Regulamento Controlo, a coerência dos dados a que se refere o n.º 1 do presente artigo com os dados que tiver recebido nos termos desse regulamento e, se for caso disso, das disposições aplicáveis do APPS.\n\n3. A não transmissão das declarações de capturas ou das declarações de desembarque ao país terceiro a que se refere o n.º 1 do presente artigo é considerada também uma infração grave para efeitos do artigo 90.º do Regulamento Controlo, em função da gravidade da infração em causa, a qual é determinada pela autoridade competente do Estado-Membro de pavilhão tendo em conta critérios como a natureza dos danos causados, o valor dos danos, a situação económica do infrator e o alcance e a frequência da infração."
+  },
+  "9db704600627e53c": {
+   "fragment_id": "TÍTULO III",
+   "type": "divisao",
+   "heading": "TÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III"
+  },
+  "9918a0458276a1ab": {
+   "fragment_id": "OPERAÇÕES DE PESCA REALIZADAS POR NAVIOS DE PESCA DE PAÍSES TERCEIROS NAS ÁGUAS DA UNIÃO",
+   "type": "divisao",
+   "heading": "OPERAÇÕES DE PESCA REALIZADAS POR NAVIOS DE PESCA DE PAÍSES TERCEIROS NAS ÁGUAS DA UNIÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OPERAÇÕES DE PESCA REALIZADAS POR NAVIOS DE PESCA DE PAÍSES TERCEIROS NAS ÁGUAS DA UNIÃO"
+  },
+  "b42baf209c523874": {
+   "fragment_id": "Artigo 31.º — Requisitos aplicáveis às operações de pesca no âmbito de uma ORGP",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Requisitos aplicáveis às operações de pesca no âmbito de uma ORGP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Requisitos aplicáveis às operações de pesca no âmbito de uma ORGP\n\nOs navios de pesca de países terceiros só podem realizar operações de pesca nas águas da União em relação às unidades populacionais geridas por uma ORGP se o país terceiro em causa for parte contratante dessa ORGP."
+  },
+  "1fecab985ec52cfa": {
+   "fragment_id": "Artigo 32.º — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Princípios gerais\n\n1. Os navios de pesca de países terceiros só podem realizar operações de pesca nas águas da União se dispuserem de uma autorização de pesca emitida pela Comissão. Essa autorização só é emitida se os critérios de elegibilidade previstos no artigo 5.º estiverem preenchidos.\n\n2. Os navios de países terceiros autorizados a pescar nas águas da União devem cumprir as regras que regem as operações de pesca dos navios da União na zona de pesca em que operam. Se as disposições estabelecidas no acordo de pesca relevante forem divergentes, devem ser claramente explicitadas nesse acordo, ou por meio de regras de aplicação desse acordo acordadas com o país terceiro.\n\n3. Se um navio de pesca de um país terceiro navegar em águas da União sem a autorização emitida nos termos do presente regulamento, as suas artes de pesca devem permanecer amarradas e arrumadas de acordo com as condições definidas no artigo 47.º do Regulamento Controlo de forma a não poderem ser facilmente utilizadas para operações de pesca."
+  },
+  "70cd78c6a88949b7": {
+   "fragment_id": "Artigo 33.º — Condições de obtenção de autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Condições de obtenção de autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Condições de obtenção de autorizações de pesca\n\n1. A Comissão só pode emitir uma autorização a um navio de pesca de um país terceiro para realizar operações de pesca nas águas da União se:\n\na) Existir um excedente das capturas admissíveis que cubra as possibilidades de pesca propostas, tal como previsto no artigo 62.º, n.ºs 2 e 3, da CNUDM;\n\nb) As condições constantes do acordo de pesca em causa forem respeitadas e o navio de pesca for elegível no âmbito do acordo de pesca com o país terceiro em causa e, se for caso disso, constar da lista de navios ao abrigo desse acordo;\n\nc) As informações sobre o navio de pesca e os navios de apoio associados exigidas pelo acordo forem completas e exatas, e o navio de pesca e os navios de apoio associados tiverem um número OMI, caso o direito da União o exija;\n\nd) O navio de pesca não constar de uma lista de navios INN, adotada por uma ORGP e/ou pela União ao abrigo do Regulamento INN;\n\ne) O país terceiro não estiver incluído numa lista como país não cooperante nos termos do Regulamento INN ou como país que permite a pesca não sustentável nos termos do Regulamento (UE) n.º 1026/2012.\n\n2. O n.º 1, alínea a), não se aplica aos navios de pesca de países terceiros que realizem operações de pesca ao abrigo de um acordo de troca de possibilidades de pesca ou de gestão conjunta de unidades populacionais de interesse comum."
+  },
+  "a47cfa52e63a9b3d": {
+   "fragment_id": "Artigo 34.º — Procedimento de obtenção de autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Procedimento de obtenção de autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Procedimento de obtenção de autorizações de pesca\n\n1. O país terceiro em causa comunica à Comissão os pedidos dos seus navios de pesca antes do termo do prazo fixado no acordo em causa, ou pela Comissão.\n\n2. A Comissão pode solicitar ao país terceiro as informações complementares necessárias para verificar se as condições previstas no artigo 33.º foram preenchidas.\n\n3. Se se verificar que as condições referidas no n.º 2 se encontram preenchidas, a Comissão emite uma autorização de pesca e informa sem demora do facto o país terceiro e os Estados-Membros interessados."
+  },
+  "89f2530bf838b68f": {
+   "fragment_id": "Artigo 35.º — Gestão das autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Gestão das autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Gestão das autorizações de pesca\n\n1. Se uma condição prevista no artigo 33.º deixar de ser cumprida, a Comissão toma as medidas adequadas, inclusive para alterar ou revogar a autorização, e informa do facto o país terceiro e os Estados-Membros interessados.\n\n2. A Comissão pode recusar, suspender ou retirar a autorização emitida a um navio de pesca de um país terceiro nos casos em que se verifique uma alteração fundamental das circunstâncias ou em caso de ameaça grave para a exploração, gestão e conservação sustentáveis dos recursos biológicos marinhos, ou se isso for fundamental para prevenir ou pôr termo à pesca INN, ou nos casos em que a União tenha decidido suspender ou interromper as relações com o país terceiro em causa.\n\nA Comissão informa imediatamente o país terceiro em causa caso recuse, suspenda ou retire a autorização nos termos do primeiro parágrafo."
+  },
+  "e725d8b3925145cd": {
+   "fragment_id": "Artigo 36.º — Encerramento das operações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Encerramento das operações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Encerramento das operações de pesca\n\n1. Caso as possibilidades de pesca atribuídas a um país terceiro sejam consideradas esgotadas, a Comissão informa imediatamente do facto esse país terceiro e as autoridades de inspeção competentes dos Estados-Membros. A fim de assegurar a continuação das operações de pesca em relação às possibilidades de pesca não esgotadas, que podem ter igualmente por alvo possibilidades de pesca esgotadas, o país terceiro apresenta à Comissão medidas técnicas destinadas a evitar um impacto negativo nas possibilidades de pesca esgotadas.\n\n2. A partir da data da notificação a que se refere o n.º 1, as autorizações de pesca emitidas para os navios que arvoram pavilhão desse país terceiro são consideradas suspensas para as operações de pesca em causa, e os navios deixam de estar autorizados a realizar essas operações.\n\n3. As autorizações de pesca são consideradas retiradas caso a sua suspensão nos termos do n.º 2 abranja todas as operações para as quais tenham sido concedidas.\n\n4. O país terceiro assegura que os navios de pesca em causa sejam imediatamente informados da aplicação do presente artigo e cessem todas as operações de pesca em causa. O país terceiro informa também sem demora a Comissão quando os navios de pesca que arvoram o seu pavilhão tiverem cessado as suas operações de pesca."
+  },
+  "d10f3fad2a40a98e": {
+   "fragment_id": "Artigo 37.º — Sobrepesca de quotas nas águas da União",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Sobrepesca de quotas nas águas da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Sobrepesca de quotas nas águas da União\n\n1. Quando a Comissão verificar que um país terceiro excedeu as quotas que lhe foram atribuídas para uma unidade populacional ou para um grupo de unidades populacionais, procede a deduções das quotas atribuídas a esse país em relação a essa unidade populacional ou a esse grupo de unidades populacionais nos anos subsequentes. A Comissão envida esforços para assegurar que a amplitude dessas deduções seja coerente com as deduções impostas aos Estados-Membros em circunstâncias semelhantes.\n\n2. Se não puder ser efetuada uma dedução nos termos do n.º 1 em relação à quota de uma unidade populacional ou de um grupo de unidades populacionais que tenham sido objeto de sobrepesca por o país terceiro não dispor de quotas suficientes para essa unidade populacional ou para esse grupo de unidades populacionais, a Comissão pode proceder, após consultar o país terceiro em causa, a deduções das quotas de outras unidades populacionais ou de outros grupos de unidades populacionais atribuídas nos anos subsequentes a esse país terceiro na mesma zona geográfica, ou com o mesmo valor comercial."
+  },
+  "fedf7d66f734fe61": {
+   "fragment_id": "Artigo 38.º — Controlo e execução",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Controlo e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Controlo e execução\n\n1. Os navios de países terceiros autorizados a pescar nas águas da União devem cumprir as regras de controlo que regem as operações de pesca dos navios da União na zona de pesca em que operam.\n\n2. Os navios de países terceiros autorizados a pescar nas águas da União apresentam à Comissão ou ao organismo por ela designado e, se for caso disso, ao Estado-Membro costeiro, os dados que os navios da União são obrigados a enviar ao Estado-Membro de pavilhão nos termos do Regulamento Controlo.\n\n3. A Comissão, ou o organismo por ela designado, transmite ao Estado-Membro costeiro os dados a que se refere o n.º 2.\n\n4. Os navios de países terceiros autorizados a pescar nas águas da União fornecem à Comissão ou ao organismo por ela designado, mediante pedido, os relatórios de observadores elaborados ao abrigo de programas de observação aplicáveis.\n\n5. O Estado-Membro costeiro regista todas as infrações cometidas pelos navios de pesca dos países terceiros, incluindo as respetivas sanções, no registo nacional previsto no artigo 93.º do Regulamento Controlo."
+  },
+  "662cf62f00c33127": {
+   "fragment_id": "TÍTULO IV",
+   "type": "divisao",
+   "heading": "TÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV"
+  },
+  "4226d7eb298ac210": {
+   "fragment_id": "DADOS E INFORMAÇÕES",
+   "type": "divisao",
+   "heading": "DADOS E INFORMAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DADOS E INFORMAÇÕES"
+  },
+  "1e8955854a910e63": {
+   "fragment_id": "Artigo 39.º — Base de dados da União das autorizações de pesca emitidas ao abrigo do presente regulamento",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Base de dados da União das autorizações de pesca emitidas ao abrigo do presente regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Base de dados da União das autorizações de pesca emitidas ao abrigo do presente regulamento\n\n1. A Comissão cria e mantém uma base de dados eletrónica das autorizações de pesca da União, da qual constam todas as autorizações de pesca concedidas nos termos dos títulos II e III, constituída por uma parte pública e por uma parte de acesso restrito. Essa base de dados:\n\na) Regista todas as informações apresentadas de acordo com o anexo e outras informações apresentadas à Comissão para efeitos da emissão de autorizações de pesca nos termos dos títulos II e III, incluindo o nome, a cidade e o país de residência do proprietário e, pelo menos, de cinco beneficiários efetivos principais, e indica o estado de cada autorização o mais rapidamente possível;\n\nb) É utilizada para o intercâmbio de dados e informações entre a Comissão e cada Estado-Membro; e\n\nc) É utilizada exclusivamente para efeitos da gestão sustentável das frotas de pesca e de controlo.\n\n2. A lista de todas as autorizações de pesca emitidas ao abrigo dos títulos II e III, constantes da base de dados, é acessível ao público e contém as seguintes informações:\n\na) O nome e o pavilhão do navio e os seus números FFP e OMI, se o direito da União o exigir;\n\nb) O tipo de autorização, incluindo as espécies-alvo ou os grupos de espécies-alvo; e\n\nc) O período e a zona autorizados para a operação de pesca (datas do início e do termo; zona de pesca).\n\n3. Os Estados-Membros utilizam a base de dados para apresentar pedidos de autorização de pesca à Comissão e para manter os seus dados atualizados, tal como previsto nos artigos 11.º, 18.º, 22.º e 26.º, e os países terceiros utilizam-na para apresentar os pedidos de autorização de pesca, tal como previsto no artigo 34.º."
+  },
+  "977af565ac85ffbf": {
+   "fragment_id": "Artigo 40.º — Requisitos técnicos",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Requisitos técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Requisitos técnicos\n\n1. O intercâmbio de informações referido nos títulos II e III e no presente título é efetuado em formato eletrónico.\n\n2. Sem prejuízo das disposições da Diretiva 2007/2/CE do Parlamento Europeu e do Conselho [([^16])](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntr16-L_2017347PT.01008101-E0016), a Comissão pode adotar atos de execução que estabelecem os requisitos técnicos operacionais para a gravação, a formatação e a transmissão das informações a que se referem os títulos II e III e o presente título. Os requisitos técnicos operacionais são aplicáveis no mínimo seis meses, e no máximo 18 meses, após a sua adoção. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 45.º, n.º 2."
+  },
+  "569e4d4176c70a3a": {
+   "fragment_id": "Artigo 41.º — Acesso aos dados",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Acesso aos dados\n\nSem prejuízo do artigo 110.º do Regulamento Controlo, os Estados-Membros ou a Comissão facultam o acesso à parte restrita da base de dados da União, no que diz respeito às autorizações de pesca das frotas de pesca exteriores a que se refere o artigo 39.º do presente regulamento, aos serviços administrativos competentes envolvidos na gestão das frotas de pesca."
+  },
+  "dd07f014b78d49d5": {
+   "fragment_id": "Artigo 42.º — Gestão dos dados, proteção dos dados pessoais e confidencialidade",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Gestão dos dados, proteção dos dados pessoais e confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Gestão dos dados, proteção dos dados pessoais e confidencialidade\n\nOs dados obtidos ao abrigo do presente regulamento são tratados nos termos dos artigos 112.º e 113.º do Regulamento Controlo, do Regulamento (CE) n.º 45/2001 e da Diretiva 95/46/CE, e das suas normas de execução nacionais."
+  },
+  "cdf34f8accfb518e": {
+   "fragment_id": "Artigo 43.º — Relações com os países terceiros e com as ORGP",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Relações com os países terceiros e com as ORGP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Relações com os países terceiros e com as ORGP\n\n1. Quando um Estado-Membro receber informações de um país terceiro ou de uma ORGP pertinentes para assegurar a aplicação efetiva do presente regulamento, comunica-as à Comissão ou ao organismo por ela designado e, se for caso disso, aos outros Estados-Membros em causa, se os acordos bilaterais com esse país terceiro ou as regras dessa ORGP lhe permitirem fazê-lo.\n\n2. A Comissão ou o organismo por ela designado podem comunicar, no âmbito dos acordos de pesca celebrados entre a União e os países terceiros, sob a égide das ORGP em que a União é parte contratante, informações pertinentes relativas à não conformidade com as regras do presente regulamento, ou infrações graves, a outras partes nesses acordos ou nessas ORGP, sob reserva do consentimento do Estado-Membro que forneceu as informações e nos termos do Regulamento (CE) n.º 45/2001."
+  },
+  "4f8efffddfe96470": {
+   "fragment_id": "TÍTULO V",
+   "type": "divisao",
+   "heading": "TÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V"
+  },
+  "dc6b3b16b3b93d4e": {
+   "fragment_id": "PROCEDIMENTOS, DELEGAÇÃO E MEDIDAS DE EXECUÇÃO",
+   "type": "divisao",
+   "heading": "PROCEDIMENTOS, DELEGAÇÃO E MEDIDAS DE EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCEDIMENTOS, DELEGAÇÃO E MEDIDAS DE EXECUÇÃO"
+  },
+  "3913ea2bf1820c84": {
+   "fragment_id": "Artigo 44.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 5.º, n.º 2, e no artigo 15.º é conferido à Comissão por um prazo de cinco anos a partir de 17 de janeiro de 2018. A Comissão elabora um relatório sobre a delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 5.º, n.º 2, e no artigo 15.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional de 13 de abril de 2016 sobre legislar melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 5.º, n.º 2, e do artigo 15.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "f2b16c5125360430": {
+   "fragment_id": "Artigo 45.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité das Pescas e da Aquicultura criado pelo artigo 47.º do Regulamento Base. Este comité deve ser entendido como um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\n3. Caso se remeta para o presente número, aplica-se o artigo 8.º do Regulamento (UE) n.º 182/2011, em conjugação com o artigo 5.º do mesmo regulamento."
+  },
+  "fd1f6efdb97a73cb": {
+   "fragment_id": "TÍTULO VI",
+   "type": "divisao",
+   "heading": "TÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "3baba7760f6f0bfb": {
+   "fragment_id": "Artigo 46.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Revogação\n\n1. O RAP é revogado.\n\n2. As remissões para as disposições do regulamento revogado devem entender-se como sendo feitas para o presente regulamento."
+  },
+  "fe82f02f31a82de9": {
+   "fragment_id": "Artigo 47.º — Disposições transitórias relativas à reatribuição temporária de possibilidades de pesca ao abrigo dos protocolos existentes",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Disposições transitórias relativas à reatribuição temporária de possibilidades de pesca ao abrigo dos protocolos existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Disposições transitórias relativas à reatribuição temporária de possibilidades de pesca ao abrigo dos protocolos existentes\n\n1. Em derrogação do artigo 12.º, para os protocolos dos APPS em vigor ou aplicados a título provisório em 17 de janeiro de 2018, o processo de reatribuição temporária de possibilidades de pesca estabelecido no presente artigo é aplicável até ao fim do prazo do protocolo em questão.\n\n2. No contexto de um APPS, se, com base nas solicitações para a transmissão dos pedidos de autorização a que se refere o artigo 11.º do presente regulamento, se verificar que as autorizações de pesca ou as possibilidades de pesca atribuídas à União no âmbito de um protocolo não são totalmente utilizadas, a Comissão informa desse facto os Estados-Membros em causa e pede-lhes que confirmem que não utilizam essas possibilidades na sua totalidade. A falta de resposta nos prazos, a fixar pelo Conselho aquando da celebração do APPS, é considerada uma confirmação de que os navios do Estado-Membro em causa não utilizam plenamente as suas possibilidades de pesca no período em causa.\n\n3. Após confirmação pelo Estado-Membro em causa, a Comissão avalia o conjunto das possibilidades de pesca não utilizadas e disponibiliza os resultados dessa avaliação aos Estados-Membros.\n\n4. Os Estados-Membros que pretendam utilizar as possibilidades de pesca não utilizadas referidas no n.º 3 apresentam à Comissão uma lista de todos os navios para os quais tencionam pedir autorizações de pesca, bem como a solicitação de transmissão dos pedidos de autorização para cada um dos navios, nos termos do artigo 11.º.\n\n5. A Comissão decide da reatribuição das possibilidades de pesca em estreita cooperação com os Estados-Membros em causa.\n\nSe um Estado-Membro em causa tiver objeções a essa reatribuição, a Comissão toma uma decisão sobre a reatribuição, por meio de atos de execução, tendo em conta os critérios estabelecidos no n.º 8 do presente artigo, e notifica os Estados-Membros em causa da sua decisão. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 45.º, n.º 2.\n\n6. A transmissão dos pedidos de autorização nos termos do presente artigo não afeta de forma alguma a repartição das possibilidades de pesca nem o seu intercâmbio entre Estados-Membros nos termos do artigo 16.º do Regulamento de Base.\n\n7. Nada impede a Comissão de aplicar o procedimento previsto nos n.ºs 2 a 5 enquanto os prazos a que se refere o n.º 2 continuarem a correr.\n\n8. Para a reatribuição das possibilidades de pesca nos termos do presente artigo, a Comissão tem em conta, nomeadamente:\n\na) A data de cada pedido recebido;\n\nb) As possibilidades de pesca disponíveis para reatribuição;\n\nc) O número de pedidos recebidos;\n\nd) O número de Estados-Membros requerentes; e\n\ne) Caso as possibilidades de pesca se baseiem total ou parcialmente no esforço de pesca ou nas capturas, o esforço de pesca previsto ou as capturas que se prevê venham a ser efetuadas por cada navio em causa."
+  },
+  "170feb53cc87c377": {
+   "fragment_id": "Artigo 48.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nFeito em Estrasburgo, em 12 de dezembro de 2017.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**A. TAJANI**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**M. MAASIKAS**\n\n---"
+  },
+  "c9b504bc749808d5": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2017347PT.01008101-E0001) [JO C 303 de 19.8.2016, p. 116](http://publications.europa.eu/resource/oj/JOC_2016_303_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2017347PT.01008101-E0002) Posição do Parlamento Europeu de 2 de fevereiro de 2017 (ainda não publicada no Jornal Oficial) e posição do Conselho em primeira leitura de 17 de outubro de 2017 ([JO C 390 de 17.11.2017, p. 1](http://publications.europa.eu/resource/oj/JOC_2017_390_R_TOC)). Posição do Parlamento Europeu de 26 de outubro de 2017 (ainda não publicada no Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2017347PT.01008101-E0003) Regulamento (CE) n.º 1006/2008 do Conselho, de 29 de setembro de 2008, relativo às autorizações para as atividades de pesca exercidas pelos navios de pesca comunitários fora das águas comunitárias e ao acesso de navios de países terceiros às águas comunitárias, que altera os Regulamentos (CEE) n.º 2847/93 e (CE) n.º 1627/94 e que revoga o Regulamento (CE) n.º 3317/94 ([JO L 286 de 29.10.2008, p. 33](http://publications.europa.eu/resource/oj/JOL_2008_286_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2017347PT.01008101-E0004) Decisão 98/392/CE do Conselho, de 23 de março de 1998, relativa à celebração pela Comunidade Europeia da Convenção das Nações Unidas sobre o Direito do Mar de 10 de dezembro de 1982 e do Acordo de 28 de julho de 1994, relativo à aplicação da parte XI da convenção ([JO L 179 de 23.6.1998, p. 1](http://publications.europa.eu/resource/oj/JOL_1998_179_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2017347PT.01008101-E0005) Decisão 98/414/CE do Conselho, de 8 de junho de 1998, sobre a ratificação pela Comunidade Europeia do Acordo relativo à aplicação das disposições da Convenção das Nações Unidas sobre o Direito do Mar, de 10 de dezembro de 1982, respeitantes à conservação e gestão das populações de peixes transzonais e das populações de peixes altamente migradores ([JO L 189 de 3.7.1998, p. 14](http://publications.europa.eu/resource/oj/JOL_1998_189_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc6-L_2017347PT.01008101-E0006) Decisão 96/428/CE do Conselho, de 25 de junho de 1996, relativa à aceitação pela Comunidade do Acordo para a promoção do cumprimento das medidas internacionais de conservação e de gestão pelos navios de pesca no alto mar ([JO L 177 de 16.7.1996, p. 24](http://publications.europa.eu/resource/oj/JOL_1996_177_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc7-L_2017347PT.01008101-E0007) Regulamento (UE) n.º 1380/2013 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, relativo à política comum das pescas, que altera os Regulamentos (CE) n.º 1954/2003 e (CE) n.º 1224/2009 do Conselho e revoga os Regulamentos (CE) n.º 2371/2002 e (CE) n.º 639/2004 do Conselho e a Decisão 2004/585/CE do Conselho ([JO L 354 de 28.12.2013, p. 22](http://publications.europa.eu/resource/oj/JOL_2013_354_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc8-L_2017347PT.01008101-E0008) Regulamento (CE) n.º 1005/2008 do Conselho, de 29 de setembro de 2008, que estabelece um regime comunitário para prevenir, impedir e eliminar a pesca ilegal, não declarada e não regulamentada, que altera os Regulamentos (CEE) n.º 2847/93, (CE) n.º 1936/2001 e (CE) n.º 601/2004, e que revoga os Regulamentos (CE) n.º 1093/94 e (CE) n.º 1447/1999 ([JO L 286 de 29.10.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_286_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc9-L_2017347PT.01008101-E0009) Regulamento (CE) n.º 1224/2009 do Conselho, de 20 de novembro de 2009, que institui um regime da União de controlo a fim de assegurar o cumprimento das regras da Política Comum das Pescas, altera os Regulamentos (CE) n.º 847/96, (CE) n.º 2371/2002, (CE) n.º 811/2004, (CE) n.º 768/2005, (CE) n.º 2115/2005, (CE) n.º 2166/2005, (CE) n.º 388/2006, (CE) n.º 509/2007, (CE) n.º 676/2007, (CE) n.º 1098/2007, (CE) n.º 1300/2008, (CE) n.º 1342/2008, e revoga os Regulamentos (CEE) n.º 2847/93, (CE) n.º 1627/94 e (CE) e n.º 1966/2006 ([JO L 343 de 22.12.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_343_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc10-L_2017347PT.01008101-E0010) Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2000, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados ([JO L 8 de 12.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc11-L_2017347PT.01008101-E0011) Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados ([JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc12-L_2017347PT.01008101-E0012) [JO L 123 de 12.5.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_123_R_TOC).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc13-L_2017347PT.01008101-E0013) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([JO L 55 de 28.2.2011, p. 13](http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC)).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc14-L_2017347PT.01008101-E0014) Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas e que revoga os Regulamentos (CE) n.º 2328/2003, (CE) n.º 861/2006, (CE) n.º 1198/2006 e (CE) n.º 791/2007 do Conselho e o Regulamento (UE) n.º 1255/2011 do Parlamento Europeu e do Conselho ([JO L 149 de 20.5.2014, p. 1](http://publications.europa.eu/resource/oj/JOL_2014_149_R_TOC)).\n\n> [(^15^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc15-L_2017347PT.01008101-E0015) Regulamento (UE) n.º 1026/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo a certas medidas para efeitos da conservação das unidades populacionais de peixes em relação aos países que permitem a pesca não sustentável ([JO L 316 de 14.11.2012, p. 34](http://publications.europa.eu/resource/oj/JOL_2012_316_R_TOC)).\n\n> [(^16^)](http://publications.europa.eu/resource/cellar/0044fb09-eb93-11e7-9749-01aa75ed71a1.0019.03/DOC_1#ntc16-L_2017347PT.01008101-E0016) Diretiva 2007/2/CE do Parlamento Europeu e do Conselho, de 14 de março de 2007, que estabelece uma infraestrutura de informação geográfica na Comunidade Europeia (Inspire) ([JO L 108 de 25.4.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_108_R_TOC))."
+  },
+  "815bc2fe1986ddb6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de dezembro de 2017,\n\nrelativo à gestão sustentável das frotas de pesca externas, e que revoga o Regulamento (CE) n.º 1006/2008 do Conselho"
+  },
+  "c9077a0aae2923f8": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1. Para efeitos do presente regulamento, são aplicáveis as definições estabelecidas no artigo 4.º do Regulamento de Base e no artigo 2.º, pontos 1 a 4, 15, 16 e 22, do Regulamento INN, salvo disposição em contrário do presente regulamento.\n\n2.\n\nPara efeitos do presente regulamento, são igualmente aplicáveis as seguintes definições:\n\na) \"Navio de apoio\", um navio, com exceção das embarcações transportadas a bordo, não equipado com artes de pesca operacionais concebidas para capturar ou para atrair peixe que facilita, assiste ou prepara operações de pesca;\n\nb) \"Autorização de pesca\", relativamente a um navio de pesca da União, uma autorização:\n\n— na aceção do artigo 4.º, ponto 10, do Regulamento Controlo,\n\n— emitida por um país terceiro que confere a um navio de pesca da União o direito de realizar operações de pesca específicas em águas sob a soberania ou a jurisdição desse país terceiro durante um período especificado, numa determinada zona ou para uma determinada pescaria, sob determinadas condições,\n\nc) \"Autorização direta\", uma autorização de pesca emitida pela autoridade competente de um país terceiro a um navio de pesca da União fora do âmbito de um APPS ou de um acordo de troca de possibilidades de pesca e gestão conjunta de espécies de interesse comum;\n\nd) \"Águas de países terceiros\", as águas sob a soberania ou jurisdição de um país terceiro. Para efeitos do presente regulamento, as águas de um Estado-Membro que não sejam águas da União são consideradas águas de países terceiros;\n\ne) \"Programa de observadores\", um regime sob a égide de uma ORGP, de um APPS, de um país terceiro ou de um Estado-Membro que envia observadores a bordo dos navios de pesca, inclusive, se tal estiver especificamente previsto no regime de observação aplicável, para verificar se o navio cumpre as regras adotadas por essa ORGP ou por esse país terceiro, ou por esse APPS;\n\nf) \"Fretamento\", um acordo por meio do qual um navio de pesca que arvora pavilhão de um Estado-Membro é contratado por um período definido por um operador, noutro Estado-Membro ou num país terceiro, sem mudar de pavilhão;\n\ng) \"Atividades de pesca\", todas as operações relacionadas com a procura de peixe, a largada, o arrasto e a alagem de artes ativas, a calagem, o posicionamento, a remoção ou o reposicionamento de artes passivas e o transbordo de capturas das artes de pesca, das redes onde sejam mantidas ou das jaulas de transporte para jaulas de engorda ou de criação."
+  },
+  "e27fca2be927cb4d": {
+   "fragment_id": "Artigo 5.º — Critérios de elegibilidade",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade\n\n1.\n\nO Estado-Membro de pavilhão só pode emitir uma autorização de pesca para a realização de operações de pesca fora das águas da União se:\n\na) Tiver recebido informações completas e exatas, em conformidade com os requisitos do anexo ou do APPS em questão, ou da ORGP em questão, sobre os navios de pesca e os navios de apoio associados, incluindo navios de apoio não pertencentes à União;\n\nb) O navio de pesca dispuser de uma licença de pesca válida nos termos do artigo 6.º do Regulamento Controlo;\n\nc) O navio de pesca e os navios de apoio associados aplicarem o sistema pertinente de identificação de navios da OMI, se tal for exigido ao abrigo do direito da União;\n\nd) O navio de pesca não constar de uma lista de navios INN adotada por uma ORGP e/ou pela União ao abrigo do Regulamento INN;\n\ne) Se for caso disso, o Estado-Membro de pavilhão dispuser de possibilidades de pesca ao abrigo do acordo de pesca em causa ou das disposições aplicáveis da ORGP; e\n\nf) Se for caso disso, o navio de pesca cumprir os requisitos estabelecidos no artigo 6.º.\n\n2. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 44.º, para alterar o anexo de modo a assegurar a monitorização adequada das atividades dos navios de pesca abrangidos pelo presente regulamento, em particular através de novos requisitos de dados decorrentes de acordos de pesca ou do desenvolvimento de tecnologias da informação."
+  },
+  "2fb0cfea098f7e1b": {
+   "fragment_id": "Artigo 6.º — Operações de mudança de pavilhão",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Operações de mudança de pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Operações de mudança de pavilhão\n\n1.\n\nO presente artigo é aplicável aos navios que, nos cinco anos anteriores à data do pedido de autorização de pesca:\n\na) Tenham saído do ficheiro da frota de pesca da União e mudado o pavilhão para um país terceiro; e\n\nb) Tenham posteriormente voltado a integrar o ficheiro da frota de pesca da União.\n\n2.\n\nO Estado-Membro de pavilhão só pode emitir uma autorização de pesca se tiver verificado que o navio a que se refere o n.º 1, durante o período em que operou sob pavilhão de um país terceiro:\n\na) Não participou na pesca INN;\n\nb) Não operou nas águas de um país terceiro identificado como país que permite a pesca não sustentável nos termos do artigo 4.º, n.º 1, alínea a), do Regulamento (UE) n.º 1026/2012 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/9e176f9e-f614-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#E0001));\n\nc) Não operou nas águas de um país terceiro enumerado como não cooperante nos termos do artigo 33.º do Regulamento INN; e\n\nd) Não operou nas águas de um país terceiro identificado como não cooperante na luta contra a pesca INN nos termos do artigo 31.º do Regulamento INN após um período de seis semanas a contar da adoção da decisão da Comissão que identifica esse país terceiro como tal, com exceção da participação em operações realizadas no caso de o Conselho ter rejeitado uma proposta para designar esse país terceiro como não cooperante nos termos do artigo 33.º desse regulamento.\n\n3.\n\nPara esse efeito, o operador fornece as seguintes informações, relativas ao período em que o navio operou sob pavilhão de um país terceiro, exigidas pelo Estado-Membro de pavilhão:\n\na) Uma declaração das capturas e do esforço de pesca durante o período em causa, conforme exigido pelo país terceiro de pavilhão;\n\nb) Uma cópia das autorizações de pesca que permitam operações de pesca durante o período em causa;\n\nc) Uma declaração formal do país terceiro cujo pavilhão o navio tenha adotado, que enumere as sanções impostas ao navio ou ao operador durante o período em causa;\n\nd) O historial completo do pavilhão durante o período em que o navio deixou de constar do ficheiro da frota da União.\n\n4.\n\nO Estado-Membro de pavilhão não pode emitir uma autorização de pesca a um navio que tenha mudado de pavilhão para adotar o pavilhão de um país terceiro:\n\na) Enumerado como país não cooperante na luta contra a pesca INN nos termos do artigo 33.º do Regulamento INN;\n\nb) Identificado como país não cooperante na luta contra a pesca INN nos termos do artigo 31.º do Regulamento INN após um período de seis semanas a contar da adoção da decisão da Comissão que identifica esse país terceiro como tal, com exceção da participação em operações realizadas no caso de o Conselho ter rejeitado uma proposta para designar esse país terceiro como não cooperante nos termos do artigo 33.º desse regulamento; ou\n\nc) Identificado como país que permite a pesca não sustentável nos termos do artigo 4.º, n.º 1, alínea a), do Regulamento (UE) n.º 1026/2012.\n\n5.\n\nO n.º 4 não se aplica se o Estado-Membro de pavilhão se tiver certificado de que, assim que passaram a ser aplicáveis as circunstâncias descritas no n.º 2, alíneas b) a d), ou no n.º 4, alíneas a) a c), o operador:\n\na) Cessou as operações de pesca; e\n\nb) Iniciou imediatamente os procedimentos administrativos necessários para retirar o navio do ficheiro da frota de pesca do país terceiro."
+  },
+  "85e8839b30ef9a17": {
+   "fragment_id": "Artigo 11.º — Procedimento de obtenção de autorizações de pesca de um país terceiro",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Procedimento de obtenção de autorizações de pesca de um país terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimento de obtenção de autorizações de pesca de um país terceiro\n\n1. Para efeitos do artigo 10.º, alínea d), um Estado-Membro de pavilhão que tenha verificado que as condições estabelecidas no artigo 10.º, alíneas a) a c), se encontram preenchidas, transmite à Comissão o pedido de autorização correspondente do país terceiro.\n\n2. O pedido referido no n.º 1 deve conter as informações exigidas pelo APPS.\n\n3. O Estado-Membro de pavilhão transmite o pedido à Comissão pelo menos dez dias de calendário antes do termo do prazo para a transmissão dos pedidos fixado no APPS. A Comissão pode enviar ao Estado-Membro de pavilhão um pedido devidamente justificado de informações complementares necessárias para verificar o cumprimento das condições.\n\n4.\n\nApós ter recebido o pedido ou as informações complementares solicitadas nos termos do n.º 3 do presente artigo, a Comissão procede a uma análise preliminar para determinar se as condições estabelecidas no artigo 10.º, alíneas a) a c), estão preenchidas. Em seguida, a Comissão:\n\na) Envia o pedido ao país terceiro sem demora e, em todo o caso, antes do termo do prazo para a transmissão dos pedidos de autorização fixado no APPS, desde que o prazo fixado no n.º 3 do presente artigo tenha sido respeitado; ou\n\nb) Informa o Estado-Membro da recusa do pedido.\n\n5. Se um país terceiro informar a Comissão de que decidiu emitir, recusar, suspender ou retirar uma autorização de pesca emitida a um navio de pesca da União nos termos do acordo, a Comissão informa imediatamente desse facto o Estado-Membro de pavilhão, se possível por via eletrónica."
+  },
+  "4b1a4c6aebdf806e": {
+   "fragment_id": "Artigo 12.º — Reatribuição temporária de possibilidades de pesca não utilizadas no âmbito de APPS",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Reatribuição temporária de possibilidades de pesca não utilizadas no âmbito de APPS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reatribuição temporária de possibilidades de pesca não utilizadas no âmbito de APPS\n\n1. Durante um ano específico ou em qualquer outro período de aplicação de um protocolo de um APPS, e tendo em conta os prazos de validade das autorizações de pesca e das campanhas de pesca, a Comissão pode identificar as possibilidades de pesca não utilizadas e informar do facto os Estados-Membros beneficiários das quotas correspondentes da atribuição.\n\n2.\n\nNo prazo de 10 dias de calendário a contar da receção da informação da Comissão, os Estados-Membros a que se refere o n.º 1 podem:\n\na) Informar a Comissão de que utilizarão as suas possibilidades de pesca numa fase mais avançada do período de aplicação em causa, fornecendo um plano de pesca com informações pormenorizadas sobre o número de autorizações de pesca pedidas, sobre as capturas estimadas e sobre a zona e o período de pesca; ou\n\nb) Notificar a Comissão da utilização das suas possibilidades de pesca através de trocas de possibilidades de pesca, nos termos do artigo 16.º, n.º 8, do Regulamento de Base.\n\n3. Se um ou vários Estados-Membros não tiverem comunicado à Comissão alguma das informações a que se refere o n.º 2, ou tiverem comunicado que apenas utilizaram parcialmente as suas possibilidades de pesca, e se, em consequência, as possibilidades de pesca não forem totalmente utilizadas, a Comissão pode lançar um convite à manifestação de interesse para as possibilidades de pesca não utilizadas entre os outros Estados-Membros beneficiários de uma quota da atribuição. A Comissão informa, ao mesmo tempo, todos os Estados-Membros do lançamento do convite à manifestação de interesse.\n\n4. No prazo de 10 dias de calendário a contar da receção do convite à manifestação de interesse a que se refere o n.º 3, os Estados-Membros beneficiários de uma quota da atribuição podem comunicar à Comissão o seu interesse nas possibilidades de pesca não utilizadas disponíveis. Em apoio ao pedido, apresentam um plano de pesca com informações pormenorizadas sobre o número de autorizações de pesca pedidas, sobre as capturas estimadas e sobre a zona e o período de pesca.\n\n5. Se a Comissão o considerar necessário para a avaliação do pedido, pode solicitar aos Estados-Membros em causa informações complementares.\n\n6. Na falta de interesse pela quantidade total das possibilidades de pesca não utilizadas disponíveis por parte dos Estados-Membros beneficiários de uma quota da atribuição no termo do prazo de 10 dias a que se refere o n.º 4, a Comissão pode alargar o convite à manifestação de interesse a todos os Estados-Membros. Um Estado-Membro pode comunicar o seu interesse pelas possibilidades de pesca não utilizadas nas condições referidas nesse número.\n\n7. Com base nas informações prestadas pelos Estados-Membros nos termos dos n.ºs 4 ou 6 do presente artigo, as possibilidades de pesca não utilizadas são reatribuídas pelo Conselho nos termos do artigo 43.º, n.º 3, do TFUE, apenas temporariamente, pelo período adequado referido no n.º 1 do presente artigo.\n\nA Comissão comunica a todos Estados-Membros quais foram os Estados-Membros beneficiários da reatribuição, e as quantidades reatribuídas.\n\n8.\n\nA atribuição temporária de possibilidades de pesca baseia-se em critérios transparentes e objetivos, inclusive, se for caso disso, critérios de natureza ambiental, social e económica. Esses critérios podem incluir:\n\na) As possibilidades de pesca disponíveis para reatribuição;\n\nb) O número de Estados-Membros requerentes;\n\nc) A quota atribuída a cada Estado-Membro requerente na atribuição inicial das possibilidades de pesca;\n\nd) Os níveis históricos de capturas e de esforço de pesca de cada Estado-Membro requerente, se for caso disso;\n\ne) A viabilidade dos planos de pesca apresentados pelos Estados-Membros requerentes, tendo em conta o número, o tipo e as características dos navios e das artes de pesca utilizadas."
+  },
+  "df2ea758a9fe1900": {
+   "fragment_id": "Artigo 17.º — Condições relativas às autorizações de pesca pelos Estados-Membros de pavilhão",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Condições relativas às autorizações de pesca pelos Estados-Membros de pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Condições relativas às autorizações de pesca pelos Estados-Membros de pavilhão\n\n1.\n\nO Estado-Membro de pavilhão só pode emitir uma autorização de pesca para as operações de pesca realizadas em águas de um país terceiro não abrangidas pelos acordos a que se referem as secções 1 ou 2, se:\n\na) As condições de elegibilidade estabelecidas no artigo 5.º estiverem preenchidas;\n\nb) Não estiver em vigor nem a ser aplicado a título provisório um APPS ou um acordo de troca de possibilidades de pesca ou de gestão conjunta com o país terceiro em causa;\n\nc) O operador tiver fornecido cumulativamente as seguintes informações:\n\n— uma cópia ou uma remissão exata para a legislação aplicável das pescas, tal como disponibilizada ao operador pelo país terceiro cuja soberania ou jurisdição abrange as águas onde decorrem as atividades de pesca,\n\n— uma avaliação científica que demonstre a sustentabilidade das operações de pesca previstas, incluindo a coerência com o disposto no artigo 62.º da CNUDM, conforme aplicável,\n\n— o número de uma conta bancária pública e oficial para o pagamento de todas as taxas;\n\nd) No caso de operações de pesca dirigidas a espécies geridas por uma ORGP, o país terceiro for parte contratante dessa organização; e\n\ne) O operador tiver fornecido:\n\n— uma autorização de pesca válida para o navio de pesca em causa, emitida por um país terceiro cuja soberania ou jurisdição abranja as águas onde decorrem as operações de pesca, ou\n\n— uma confirmação escrita emitida pelo país terceiro cuja soberania ou jurisdição abranja as águas onde decorrem as operações de pesca, na sequência das discussões entre o operador e esse país terceiro, dos termos da autorização direta destinada a dar ao operador acesso aos seus recursos haliêuticos, incluindo a duração, as condições e as possibilidades de pesca, expressas em esforço ou em limites de captura.\n\n2. Em todo o caso, as operações de pesca não podem ter início antes de o país terceiro emitir a autorização válida de pesca a que se refere n.º 1, alínea e). O Estado-Membro de pavilhão suspende a sua autorização se a autorização do país terceiro não tiver sido emitida até ao momento de dar início às operações de pesca previstas.\n\n3. A avaliação científica a que se refere o n.º 1, a alínea c), segundo travessão, é efetuada por uma ORGP ou por um órgão regional de pescas com competência científica, ou pelo país terceiro em causa, ou em cooperação com ele. A avaliação científica proveniente do país terceiro é examinada por um instituto ou por um órgão científico de um Estado-Membro ou da União."
+  },
+  "b5d7193d82983e30": {
+   "fragment_id": "Secção 4",
+   "type": "divisao",
+   "heading": "Secção 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 4"
+  },
+  "b84545c9c7c56c67": {
+   "fragment_id": "Operações de pesca realizadas por navios de pesca da União nas águas do Reino Unido",
+   "type": "divisao",
+   "heading": "Operações de pesca realizadas por navios de pesca da União nas águas do Reino Unido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Operações de pesca realizadas por navios de pesca da União nas águas do Reino Unido"
+  },
+  "dfefa3623ccd1725": {
+   "fragment_id": "Artigo 18.º-A — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 18.º-A — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-A — Âmbito de aplicação\n\nA presente secção é aplicável até 31 de dezembro de 2019, não obstante o disposto na secção 3, às operações de pesca realizadas por navios de pesca da União nas águas do Reino Unido."
+  },
+  "42639a784c4ac0b0": {
+   "fragment_id": "Artigo 18.º-B — Definição",
+   "type": "artigo",
+   "heading": "Artigo 18.º-B — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-B — Definição\n\nPara efeitos da presente secção, entende-se por «águas do Reino Unido» as águas sob a soberania ou jurisdição do Reino Unido nos termos do direito internacional."
+  },
+  "e10c1aa6815d1131": {
+   "fragment_id": "Artigo 18.º-C — Procedimento para a obtenção de autorizações de pesca do Reino Unido.",
+   "type": "artigo",
+   "heading": "Artigo 18.º-C — Procedimento para a obtenção de autorizações de pesca do Reino Unido.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-C — Procedimento para a obtenção de autorizações de pesca do Reino Unido.\n\n1. Um Estado-Membro de pavilhão que tenha verificado estarem cumpridas as condições estabelecidas no artigo 5.º envia à Comissão o pedido ou lista de pedidos de autorização correspondente a conceder pelo Reino Unido.\n\n2. Cada pedido ou lista de pedidos inclui as informações solicitadas pelo Reino Unido para a emissão da autorização, no formato exigido, como comunicado pelo Reino Unido à Comissão.\n\n3. A Comissão comunica aos Estados-Membros as informações e o formato referidos no n.º 2. A Comissão pode pedir ao Estado-Membro de pavilhão quaisquer informações complementares necessárias para verificar o cumprimento das condições referidas nos n.^os^ 1 e 2.\n\n4. Após a receção do pedido ou de quaisquer informações complementares solicitadas nos termos do n.º 3, a Comissão transmite sem demora o pedido ao Reino Unido.\n\n5. Logo que o Reino Unido informe a Comissão de que decidiu emitir ou recusar uma autorização para um navio de pesca da União, a Comissão informa imediatamente do facto o Estado-Membro de pavilhão.\n\n6. Um Estado-Membro de pavilhão só pode emitir uma autorização de pesca para a realização de operações de pesca nas águas do Reino Unido depois de ter sido informado de que o Reino Unido decidiu emitir uma autorização para o correspondente navio de pesca da União.\n\n7. As operações de pesca não podem iniciar-se antes de o Estado-Membro de pavilhão e o Reino Unido terem emitido uma autorização de pesca.\n\n8. Se o Reino Unido informar a Comissão de que decidiu suspender ou retirar uma autorização de pesca de um navio de pesca da União, a Comissão informa imediatamente desse facto o Estado-Membro de pavilhão. O Estado-Membro suspende ou retira consequentemente a sua autorização de pesca para as operações de pesca nas águas do Reino Unido.\n\n9. Se o Reino Unido informar diretamente o Estado-Membro de pavilhão de que decidiu emitir, recusar, suspender ou retirar uma autorização de pesca de um navio de pesca da União, o Estado-Membro de pavilhão informa imediatamente desse facto a Comissão. O Estado-Membro suspende ou retira consequentemente a sua autorização de pesca para as operações de pesca nas águas do Reino Unido."
+  },
+  "98deb429abc7f22b": {
+   "fragment_id": "Artigo 18.º-D — Acompanhamento",
+   "type": "artigo",
+   "heading": "Artigo 18.º-D — Acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-D — Acompanhamento\n\nA Comissão acompanha a emissão de autorizações de pesca pelo Reino Unido para a realização de operações de pesca por navios de pesca da União nas águas do Reino Unido."
+  },
+  "707ada1512f661ef": {
+   "fragment_id": "Artigo 20.º — Autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Autorizações de pesca\n\n1.\n\nUm navio de pesca da União cujas operações de pesca estejam sujeitas a um regime de autorização adotado por uma ORGP não pode realizar operações de pesca sob a égide dessa ORGP, a não ser que:\n\na) A União seja parte contratante da ORGP;\n\nb) Disponha de uma autorização de pesca emitida pelo seu Estado-Membro de pavilhão;\n\nc) Esteja inscrito no registo adequado ou na lista de navios autorizados da ORGP; e\n\nd) Nos casos em que as operações de pesca sejam realizadas em águas de países terceiros, disponha de uma autorização de pesca emitida pelo país terceiro em causa nos termos do capítulo II.\n\n2. O n.º 1, alínea a), do presente artigo não se aplica aos navios de pesca da União que exerçam atividades de pesca exclusivamente em águas da União e que já tenham obtido uma autorização de pesca nos termos do artigo 7.º do Regulamento Controlo."
+  },
+  "760fd23d647b0d39": {
+   "fragment_id": "Artigo 24.º — Condições relativas à emissão de autorizações de pesca pelos Estados-Membros de pavilhão",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Condições relativas à emissão de autorizações de pesca pelos Estados-Membros de pavilhão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Condições relativas à emissão de autorizações de pesca pelos Estados-Membros de pavilhão\n\nO Estado-Membro de pavilhão só pode emitir uma autorização de pesca para a realização de operações de pesca no alto mar se:\n\na) Os critérios de elegibilidade previstos no artigo 5.º estiverem cumpridos;\n\nb) As operações de pesca previstas:\n\n— estiverem em conformidade com uma avaliação científica que demonstre a sua sustentabilidade, fornecida ou validada por um instituto científico do Estado-Membro de pavilhão, ou\n\n— fizerem parte de um programa de investigação, que inclua um sistema de recolha de dados, organizado por um organismo científico. O protocolo científico da investigação, que será sempre exigido, deve ser validado por um instituto científico do Estado-Membro de pavilhão."
+  },
+  "353b1cb29dc2b092": {
+   "fragment_id": "Artigo 33.º — Condições de obtenção de autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Condições de obtenção de autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Condições de obtenção de autorizações de pesca\n\n1.\n\nA Comissão só pode emitir uma autorização a um navio de pesca de um país terceiro para realizar operações de pesca nas águas da União se:\n\na) Existir um excedente das capturas admissíveis que cubra as possibilidades de pesca propostas, tal como previsto no artigo 62.º, n.ºs 2 e 3, da CNUDM;\n\nb) As condições constantes do acordo de pesca em causa forem respeitadas e o navio de pesca for elegível no âmbito do acordo de pesca com o país terceiro em causa e, se for caso disso, constar da lista de navios ao abrigo desse acordo;\n\nc) As informações sobre o navio de pesca e os navios de apoio associados exigidas pelo acordo forem completas e exatas, e o navio de pesca e os navios de apoio associados tiverem um número OMI, caso o direito da União o exija;\n\nd) O navio de pesca não constar de uma lista de navios INN, adotada por uma ORGP e/ou pela União ao abrigo do Regulamento INN;\n\ne) O país terceiro não estiver incluído numa lista como país não cooperante nos termos do Regulamento INN ou como país que permite a pesca não sustentável nos termos do Regulamento (UE) n.º 1026/2012.\n\n2. O n.º 1, alínea a), não se aplica aos navios de pesca de países terceiros que realizem operações de pesca ao abrigo de um acordo de troca de possibilidades de pesca ou de gestão conjunta de unidades populacionais de interesse comum."
+  },
+  "980cf29bc5cfc336": {
+   "fragment_id": "TÍTULO III-A",
+   "type": "divisao",
+   "heading": "TÍTULO III-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III-A"
+  },
+  "711c11a466fe6aa6": {
+   "fragment_id": "OPERAÇÕES DE PESCA REALIZADAS POR NAVIOS DE PESCA DO REINO UNIDO NAS ÁGUAS DA UNIÃO",
+   "type": "divisao",
+   "heading": "OPERAÇÕES DE PESCA REALIZADAS POR NAVIOS DE PESCA DO REINO UNIDO NAS ÁGUAS DA UNIÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OPERAÇÕES DE PESCA REALIZADAS POR NAVIOS DE PESCA DO REINO UNIDO NAS ÁGUAS DA UNIÃO"
+  },
+  "631a0ae480d20676": {
+   "fragment_id": "Artigo 38.º-A — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 38.º-A — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-A — Âmbito de aplicação\n\nO presente título é aplicável até 31 de dezembro de 2019, não obstante o disposto no título III, às operações de pesca realizadas por navios de pesca do Reino Unido nas águas da União."
+  },
+  "274a0e46d29ff67b": {
+   "fragment_id": "Artigo 38.º-B — Operações de pesca realizadas por navios de pesca do Reino Unido",
+   "type": "artigo",
+   "heading": "Artigo 38.º-B — Operações de pesca realizadas por navios de pesca do Reino Unido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-B — Operações de pesca realizadas por navios de pesca do Reino Unido\n\nOs navios de pesca do Reino Unido podem realizar operações de pesca nas águas da União nas condições estabelecidas pelos Regulamentos (UE) 2019/124 ([^2^](http://publications.europa.eu/resource/cellar/9e176f9e-f614-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#E0002)) e (UE) 2018/2025 do Conselho ([^3^](http://publications.europa.eu/resource/cellar/9e176f9e-f614-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#E0003)), que estabelecem as possibilidades de pesca."
+  },
+  "68726afe8d9f7848": {
+   "fragment_id": "Artigo 38.º-C — Princípios gerais",
+   "type": "artigo",
+   "heading": "Artigo 38.º-C — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-C — Princípios gerais\n\n1. Os navios de pesca do Reino Unido só podem realizar operações de pesca nas águas da União se dispuserem de autorizações de pesca emitidas pela Comissão. Essa autorização só é emitida se estiverem cumpridos os critérios de elegibilidade estabelecidos no n.º 2.\n\n2.\n\nA Comissão pode emitir autorizações de pesca para navios de pesca do Reino Unido se:\n\na) Os navios de pesca possuírem licenças de pesca válidas emitidas pela autoridade do Reino Unido;\n\nb) Os navios de pesca constarem da lista de navios do Reino Unido constantes de um ficheiro da frota acessível à Comissão;\n\nc) Os navios de pesca e os navios de apoio associados aplicarem o sistema pertinente de identificação de navios da OMI, na medida em que seja exigido por força do direito da União;\n\nd) Os navios de pesca não constarem de uma lista de navios INN adotada por uma ORGP e/ou pela União nos termos do Regulamento INN;\n\ne) O Reino Unido não constar da lista dos países não cooperantes na aceção do Regulamento INN ou dos países que concedem possibilidades de pesca não sustentáveis na aceção do Regulamento (UE) n.º 1026/2012;\n\nf) O Reino Unido dispuser de possibilidades de pesca.\n\n3. Os navios de pesca do Reino Unido autorizados a pescar nas águas da União respeitam as regras que regem as operações de pesca dos navios de pesca da União na zona de pesca em que operem."
+  },
+  "5074a1c899594306": {
+   "fragment_id": "Artigo 38.º-D — Procedimento de obtenção de autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 38.º-D — Procedimento de obtenção de autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-D — Procedimento de obtenção de autorizações de pesca\n\n1. O Reino Unido transmite à Comissão o pedido ou a lista dos pedidos de autorização para os seus navios de pesca.\n\n2. A Comissão pode solicitar ao Reino Unido as informações complementares necessárias para verificar se estão preenchidas as condições estabelecidas no artigo 38.º-C, n.º 2.\n\n3. Se verificar que as condições estabelecidas no artigo 38.º-C, n.º 2, se encontram preenchidas, a Comissão pode emitir as autorizações de pesca e informa sem demora do facto o Reino Unido e os Estados-Membros em causa."
+  },
+  "e16433bbd13ab8e9": {
+   "fragment_id": "Artigo 38.º-E — Gestão das autorizações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 38.º-E — Gestão das autorizações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-E — Gestão das autorizações de pesca\n\n1. Se qualquer das condições estabelecidas no artigo 38.º-C, n.º 2, deixar de estar cumprida, a Comissão toma as medidas adequadas, inclusive altera ou retira as autorizações, e informa do facto o Reino Unido e os Estados-Membros em causa.\n\n2.\n\nA Comissão pode recusar-se a emitir autorizações, ou suspender ou retirar quaisquer autorizações concedidas a navios de pesca do Reino Unido em qualquer dos seguintes casos:\n\na) Alteração fundamental das circunstâncias;\n\nb) Ameaça grave para a exploração sustentável, a gestão e a conservação dos recursos biológicos marinhos;\n\nc) Necessidade imperiosa de impedir ou suprimir a pesca INN;\n\nd) Adequação da recusa, segundo entendimento da Comissão baseado nas conclusões resultantes das suas atividades de acompanhamento ao abrigo do artigo 18.º-D;\n\ne) Recusa, suspensão ou retirada indevida de autorizações de navios de pesca da União para as águas do Reino Unido.\n\n3. A Comissão informa imediatamente o Reino Unido caso recuse, suspenda ou retire uma autorização nos termos do n.º 2."
+  },
+  "93fe5e041a203451": {
+   "fragment_id": "Artigo 38.º-F — Encerramento das operações de pesca",
+   "type": "artigo",
+   "heading": "Artigo 38.º-F — Encerramento das operações de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-F — Encerramento das operações de pesca\n\n1. Caso as possibilidades de pesca atribuídas ao Reino Unido sejam consideradas esgotadas, a Comissão notifica imediatamente esse facto ao Reino Unido e às autoridades de inspeção competentes dos Estados-Membros. A fim de assegurar a continuação das operações de pesca correspondentes a possibilidades de pesca que não tenham sido esgotadas mas que possam afetar as possibilidades de pesca esgotadas, a Comissão solicita ao Reino Unido que lhe comunique medidas técnicas de prevenção de impactos negativos nas possibilidades de pesca esgotadas.\n\n2. A partir da data da notificação a que se refere o n.º 1, as autorizações de pesca emitidas para navios que arvoram pavilhão do Reino Unido são consideradas suspensas para as operações de pesca em causa, deixando os navios de estar autorizados a realizar essas operações.\n\n3. As autorizações de pesca são consideradas retiradas caso a sua suspensão nos termos do n.º 2 abranja todas as operações para as quais tenham sido concedidas."
+  },
+  "0e38b0879f350d44": {
+   "fragment_id": "Artigo 38.º-G — Sobrepesca de quotas nas águas da União",
+   "type": "artigo",
+   "heading": "Artigo 38.º-G — Sobrepesca de quotas nas águas da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-G — Sobrepesca de quotas nas águas da União\n\nQuando determinar que o Reino Unido ultrapassou as quotas que lhe foram atribuídas para uma unidade populacional ou grupo de unidades populacionais, a Comissão procede a deduções noutras quotas atribuídas ao Reino Unido. A Comissão envida esforços para assegurar que a amplitude dessas deduções seja coerente com as deduções impostas aos Estados-Membros em circunstâncias semelhantes."
+  },
+  "c8f954c4a410e17a": {
+   "fragment_id": "Artigo 38.º-H — Controlo e execução",
+   "type": "artigo",
+   "heading": "Artigo 38.º-H — Controlo e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-H — Controlo e execução\n\n1. Os navios de pesca do Reino Unido autorizados a pescar nas águas da União cumprem as regras de controlo que regem as operações de pesca dos navios de pesca da União na zona de pesca em que operem.\n\n2. Os navios de pesca do Reino Unido autorizados a pescar nas águas da União apresentam à Comissão ou ao organismo por esta designado e, se for caso disso, ao Estado-Membro costeiro, os dados que os navios de pesca da União devem enviar ao Estado-Membro de pavilhão nos termos do Regulamento Controlo.\n\n3. A Comissão, ou o organismo por esta designado, transmite ao Estado-Membro costeiro os dados recebidos nos termos do n.º 2.\n\n4. Os navios de pesca do Reino Unido autorizados a pescar nas águas da União apresentam à Comissão ou ao organismo por esta designado, mediante pedido, os relatórios de observadores elaborados no âmbito dos programas de observação aplicáveis.\n\n5. Os Estados-Membros costeiros registam quaisquer infrações cometidas pelos navios de pesca do Reino Unido, incluindo as respetivas sanções, no registo nacional previsto no artigo 93.º do Regulamento Controlo."
+  },
+  "e9b0832636240a3b": {
+   "fragment_id": "Artigo 38.º-I — Transferências e trocas de quotas",
+   "type": "artigo",
+   "heading": "Artigo 38.º-I — Transferências e trocas de quotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-I — Transferências e trocas de quotas\n\n1. Os Estados-Membros podem manter discussões informais com o Reino Unido e, se for caso disso, estabelecer a forma de transferência ou troca de quotas pretendida.\n\n2. Após notificação à Comissão pelo Estado-Membro em causa, a Comissão pode proceder à transferência ou troca de quotas correspondente.\n\n3. A Comissão informa os Estados-Membros da transferência ou da troca de quotas acordada.\n\n4. As possibilidades de pesca recebidas ou transferidas de ou para o Reino Unido no âmbito de uma transferência ou troca de quotas são consideradas quotas atribuídas ou deduzidas da atribuição do Estado-Membro em causa a partir do momento em que a transferência ou troca produza efeitos. Tal atribuição ou dedução não altera a chave de repartição em vigor para efeitos de atribuição de possibilidades de pesca aos Estados-Membros em conformidade com o princípio da estabilidade relativa das atividades de pesca."
+  },
+  "c6112d6891823fb3": {
+   "fragment_id": "Artigo 39.º — Base de dados da União das autorizações de pesca emitidas ao abrigo do presente regulamento",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Base de dados da União das autorizações de pesca emitidas ao abrigo do presente regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Base de dados da União das autorizações de pesca emitidas ao abrigo do presente regulamento\n\n1.\n\nA Comissão cria e mantém uma base de dados eletrónica das autorizações de pesca da União, da qual constam todas as autorizações de pesca concedidas nos termos dos títulos II e III, constituída por uma parte pública e por uma parte de acesso restrito. Essa base de dados:\n\na) Regista todas as informações apresentadas de acordo com o anexo e outras informações apresentadas à Comissão para efeitos da emissão de autorizações de pesca nos termos dos títulos II e III, incluindo o nome, a cidade e o país de residência do proprietário e, pelo menos, de cinco beneficiários efetivos principais, e indica o estado de cada autorização o mais rapidamente possível;\n\nb) É utilizada para o intercâmbio de dados e informações entre a Comissão e cada Estado-Membro; e\n\nc) É utilizada exclusivamente para efeitos da gestão sustentável das frotas de pesca e de controlo.\n\n2.\n\nA lista de todas as autorizações de pesca emitidas ao abrigo dos títulos II e III, constantes da base de dados, é acessível ao público e contém as seguintes informações:\n\na) O nome e o pavilhão do navio e os seus números FFP e OMI, se o direito da União o exigir;\n\nb) O tipo de autorização, incluindo as espécies-alvo ou os grupos de espécies-alvo; e\n\nc) O período e a zona autorizados para a operação de pesca (datas do início e do termo; zona de pesca).\n\n3. Os Estados-Membros utilizam a base de dados para apresentar pedidos de autorização de pesca à Comissão e para manter os seus dados atualizados, tal como previsto nos artigos 11.º, 18.º, 22.º e 26.º, e os países terceiros utilizam-na para apresentar os pedidos de autorização de pesca, tal como previsto no artigo 34.º."
+  },
+  "8e3986fc464b15ef": {
+   "fragment_id": "Artigo 40.º — Requisitos técnicos",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Requisitos técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Requisitos técnicos\n\n1. O intercâmbio de informações referido nos títulos II e III e no presente título é efetuado em formato eletrónico.\n\n2. Sem prejuízo das disposições da Diretiva 2007/2/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/9e176f9e-f614-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#E0004)), a Comissão pode adotar atos de execução que estabelecem os requisitos técnicos operacionais para a gravação, a formatação e a transmissão das informações a que se referem os títulos II e III e o presente título. Os requisitos técnicos operacionais são aplicáveis no mínimo seis meses, e no máximo 18 meses, após a sua adoção. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 45.º, n.º 2."
+  },
+  "cc6b9386d4f6fd69": {
+   "fragment_id": "Artigo 47.º — Disposições transitórias relativas à reatribuição temporária de possibilidades de pesca ao abrigo dos protocolos existentes",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Disposições transitórias relativas à reatribuição temporária de possibilidades de pesca ao abrigo dos protocolos existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Disposições transitórias relativas à reatribuição temporária de possibilidades de pesca ao abrigo dos protocolos existentes\n\n1. Em derrogação do artigo 12.º, para os protocolos dos APPS em vigor ou aplicados a título provisório em 17 de janeiro de 2018, o processo de reatribuição temporária de possibilidades de pesca estabelecido no presente artigo é aplicável até ao fim do prazo do protocolo em questão.\n\n2. No contexto de um APPS, se, com base nas solicitações para a transmissão dos pedidos de autorização a que se refere o artigo 11.º do presente regulamento, se verificar que as autorizações de pesca ou as possibilidades de pesca atribuídas à União no âmbito de um protocolo não são totalmente utilizadas, a Comissão informa desse facto os Estados-Membros em causa e pede-lhes que confirmem que não utilizam essas possibilidades na sua totalidade. A falta de resposta nos prazos, a fixar pelo Conselho aquando da celebração do APPS, é considerada uma confirmação de que os navios do Estado-Membro em causa não utilizam plenamente as suas possibilidades de pesca no período em causa.\n\n3. Após confirmação pelo Estado-Membro em causa, a Comissão avalia o conjunto das possibilidades de pesca não utilizadas e disponibiliza os resultados dessa avaliação aos Estados-Membros.\n\n4. Os Estados-Membros que pretendam utilizar as possibilidades de pesca não utilizadas referidas no n.º 3 apresentam à Comissão uma lista de todos os navios para os quais tencionam pedir autorizações de pesca, bem como a solicitação de transmissão dos pedidos de autorização para cada um dos navios, nos termos do artigo 11.º.\n\n5. A Comissão decide da reatribuição das possibilidades de pesca em estreita cooperação com os Estados-Membros em causa.\n\nSe um Estado-Membro em causa tiver objeções a essa reatribuição, a Comissão toma uma decisão sobre a reatribuição, por meio de atos de execução, tendo em conta os critérios estabelecidos no n.º 8 do presente artigo, e notifica os Estados-Membros em causa da sua decisão. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 45.º, n.º 2.\n\n6. A transmissão dos pedidos de autorização nos termos do presente artigo não afeta de forma alguma a repartição das possibilidades de pesca nem o seu intercâmbio entre Estados-Membros nos termos do artigo 16.º do Regulamento de Base.\n\n7. Nada impede a Comissão de aplicar o procedimento previsto nos n.ºs 2 a 5 enquanto os prazos a que se refere o n.º 2 continuarem a correr.\n\n8.\n\nPara a reatribuição das possibilidades de pesca nos termos do presente artigo, a Comissão tem em conta, nomeadamente:\n\na) A data de cada pedido recebido;\n\nb) As possibilidades de pesca disponíveis para reatribuição;\n\nc) O número de pedidos recebidos;\n\nd) O número de Estados-Membros requerentes; e\n\ne) Caso as possibilidades de pesca se baseiem total ou parcialmente no esforço de pesca ou nas capturas, o esforço de pesca previsto ou as capturas que se prevê venham a ser efetuadas por cada navio em causa."
+  },
+  "560ebb01273be3e7": {
+   "fragment_id": "Artigo 48.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "554c463a3e0961f6": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nI REQUERENTE\n\n1 Nome do operador económico\n\n2 Endereço eletrónico\n\n3 Endereço\n\n4 Fax\n\n5 Telefone\n\n6 Nome do proprietário\n\n7 Endereço eletrónico\n\n8 Endereço\n\n9 Fax\n\n10 Telefone\n\n11 Nome da associação ou do agente que representa o operador económico\n\n12 Endereço eletrónico\n\n13 Endereço\n\n14 Fax\n\n15 Telefone\n\n16 Nome do(s) capitão/ães\n\n17 Endereço eletrónico\n\n18 Endereço\n\n19 Fax\n\n20 Telefone\n\nII NAVIO DE PESCA\n\n21 Nome do navio\n\n22 Identificador do navio (número OMI, número FFP, etc.)\n\n23 Modo de conservação do peixe a bordo\n\n24 Tipo de navio, código FAO\n\n25 Tipo de arte, código FAO\n\nIII CATEGORIA DE PESCA PARA A QUAL É PEDIDA A AUTORIZAÇÃO\n\n26 Tipo de autorização (autorização direta; alto mar; apoio)\n\n27 Zona de pesca (zona(s) FAO, subzona(s), divisão/ões, subdivisão/ões, conforme adequado)\n\n28 Zona de operações (alto mar; país terceiro – especificar)\n\n29 Portos de desembarque\n\n30 Código(s) FAO da espécie-alvo (ou categoria de pesca APPS)\n\n31 Período abrangido pela autorização solicitada (datas de início e de termo)\n\n32 Lista dos navios de apoio (nome do navio; número OMI; número FFP)\n\nIV FRETAMENTO\n\n33 Navio que opera ao abrigo de um convénio de fretamento (S/N)\n\n34 Tipo de convénio de fretamento\n\n35 Período de fretamento (datas de início e de termo)\n\n36 Possibilidades de pesca (tm) atribuídas ao navio no âmbito do fretamento\n\n37 País terceiro que atribui as possibilidades de pesca ao navio no âmbito do fretamento\n\n---"
+  },
+  "39df849a5b35a8e4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9e176f9e-f614-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) n.º 1026/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo a certas medidas para efeitos da conservação das unidades populacionais de peixes em relação aos países que permitem a pesca não sustentável (JO L 316 de 14.11.2012, p. 34).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9e176f9e-f614-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (UE) 2019/124 do Conselho, de 30 de janeiro de 2019, que fixa para 2019, em relação a determinadas unidades populacionais de peixes e grupos de unidades populacionais de peixes, as possibilidades de pesca aplicáveis nas águas da União e as aplicáveis, para os navios de pesca da União, em certas águas não União (JO L 29 de 31.1.2019, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9e176f9e-f614-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (UE) 2018/2025 do Conselho, de 17 de dezembro de 2018, que fixa, para 2019 e 2020, as possibilidades de pesca para os navios de pesca da União relativas a determinadas unidades populacionais de peixes de profundidade (JO L 325 de 20.12.2018, p. 7).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/9e176f9e-f614-11f0-b9bc-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Diretiva 2007/2/CE do Parlamento Europeu e do Conselho, de 14 de março de 2007, que estabelece uma infraestrutura de informação geográfica na Comunidade Europeia (Inspire) (JO L 108 de 25.4.2007, p. 1)."
+  }
+ }
+}

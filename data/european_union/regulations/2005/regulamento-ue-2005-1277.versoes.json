@@ -1,0 +1,519 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32005R1277:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02005R1277-20150701",
+ "dre_path": null,
+ "source_lastmod": "2015-07-01",
+ "versions": [
+  {
+   "date": "2005-08-03",
+   "future": false,
+   "celex": "32005R1277",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f0b5dda85a6225a2",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "d4f0a9588706e2c2",
+    "c0ae719d09106248",
+    "f0f8c960bfdbce9b",
+    "9e7e6701ed42d36b",
+    "dd34729405b6936b",
+    "e2a1949a016fc87f",
+    "1e7a0903d2eed348",
+    "fde03be2a82a7173",
+    "5cb74600eb9c4caa",
+    "898e941a2a7e6d1c",
+    "1d48f6c7076532a0",
+    "1040ba6756d66d44",
+    "fb0f11a1f668c3fe",
+    "264bb0619da6a4b4",
+    "a34cd29ef3263616",
+    "6b375041cb505b74",
+    "bed6502983c475f4",
+    "00350c817d6224a6",
+    "cea41ae3adddb931",
+    "70f4c5c4045c2044",
+    "1ecfc79da3f1ac7f",
+    "1f5af4bb08199052",
+    "a269a154c6f95d6f",
+    "591f8aa49635c2c1",
+    "a7b95b0e66b064fe",
+    "40ed6b62e188ac6f",
+    "47b5d9f773c14450",
+    "1ea9b5aec7918b4f",
+    "fd2ba9a534ac99c0",
+    "b76d202a844f758e",
+    "4bd14d8e281efada",
+    "ab1de29381f114b9",
+    "0bc9b44d625dd04b",
+    "30474b2734474bcf",
+    "cee4448ebeb3c8cd",
+    "ba0dfccf0091350b",
+    "82391e0834e56919",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "2a88da2027930082",
+    "c4a2f44f829f8642",
+    "c892f3489fbf1a51",
+    "cbb013d726f2c32f",
+    "1e980b6c5545da04",
+    "673f528b62f9209e"
+   ]
+  },
+  {
+   "date": "2015-07-01",
+   "future": false,
+   "celex": "02005R1277-20150701",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime CAPÍTULO II",
+    "Suprime RESPONSÁVEL",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime CAPÍTULO III",
+    "Suprime CONCESSÃO DE LICENÇAS E REGISTO DOS OPERADORES",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime CAPÍTULO IV",
+    "Suprime FORNECIMENTO DE INFORMAÇÕES",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime CAPÍTULO V",
+    "Suprime NOTIFICAÇÃO PRÉVIA DE EXPORTAÇÃO",
+    "Suprime Artigo 20.º",
+    "Suprime Artigo 21.º",
+    "Suprime CAPÍTULO VI",
+    "Suprime AUTORIZAÇÃO DE EXPORTAÇÃO/IMPORTAÇÃO",
+    "Suprime Artigo 22.º",
+    "Suprime Artigo 23.º",
+    "Suprime Artigo 24.º",
+    "Suprime Artigo 25.º",
+    "Suprime Artigo 26.º",
+    "Suprime Artigo 27.º",
+    "Suprime CAPÍTULO VII",
+    "Suprime DISPOSIÇÕES FINAIS",
+    "Suprime Artigo 28.º",
+    "Suprime Artigo 29.º",
+    "Suprime Artigo 30.º",
+    "Suprime Artigo 31.º",
+    "Suprime Artigo 32.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "8cd19a0dc4759791"
+   ]
+  }
+ ],
+ "fragments": {
+  "f0b5dda85a6225a2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho de 2005\n\nque estabelece as normas de execução do Regulamento (CE) n.º 273/2004 do Parlamento Europeu e do Conselho relativo aos precursores de drogas e do Regulamento (CE) n.º 111/2005 do Conselho que estabelece regras de controlo do comércio de precursores de drogas entre a Comunidade e países terceiros\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 273/2004 do Parlamento Europeu e do Conselho, de 11 de Fevereiro de 2004, relativo aos precursores de drogas [([^1])](http://publications.europa.eu/resource/cellar/a1aa458e-416e-4902-ad36-8ed453bafbc6.0016.03/DOC_1#ntr1-L_2005202PT.01000701-E0001), nomeadamente as alíneas a) e f) do artigo 14.º,\n\nTendo em conta o Regulamento (CE) n.º 111/2005 do Conselho, de 22 de Dezembro de 2004, que estabelece regras de controlo do comércio de precursores de drogas entre a Comunidade e países terceiros [([^2])](http://publications.europa.eu/resource/cellar/a1aa458e-416e-4902-ad36-8ed453bafbc6.0016.03/DOC_1#ntr2-L_2005202PT.01000701-E0002), nomeadamente o n.º 1, terceiro parágrafo, do artigo 6.º, o n.º 2 do artigo 7.º, o n.º 2 do artigo 8.º, o n.º 2 do artigo 9.º, os n.^os^ 1 e 3 do artigo 11.º, o n.º 1, terceiro parágrafo, do artigo 12.º e os artigos 19.º e 28.º,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CEE) n.º 3677/90 do Conselho, de 13 de Dezembro de 1990, que estabelece as medidas a adoptar para evitar o desvio de determinadas substâncias para o fabrico ilegal de estupefacientes e de substâncias psicotrópicas [([^3])](http://publications.europa.eu/resource/cellar/a1aa458e-416e-4902-ad36-8ed453bafbc6.0016.03/DOC_1#ntr3-L_2005202PT.01000701-E0003), cujas normas de execução foram estabelecidas pelo Regulamento (CEE) n.º 3769/92 da Comissão, de 21 de Dezembro de 1992, relativo à execução do Regulamento (CEE) n.º 3677/90 do Conselho que estabelece as medidas a adoptar para evitar o desvio de determinadas substâncias para o fabrico de estupefacientes e de substâncias psicotrópicas [([^4])](http://publications.europa.eu/resource/cellar/a1aa458e-416e-4902-ad36-8ed453bafbc6.0016.03/DOC_1#ntr4-L_2005202PT.01000701-E0004), foi substituído pelo Regulamento (CE) n.º 111/2005. As normas de execução constantes do Regulamento (CEE) n.º 3769/92 devem ficar em conformidade com as novas regras estabelecidas pelo Regulamento (CE) n.º 111/2005. O Regulamento (CEE) n.º 3769/92 deve, por conseguinte, ser revogado.\n\n(2) O Regulamento (CE) n.º 273/2004 relativo aos precursores de drogas, que substitui a Directiva 92/109/CEE do Conselho [([^5])](http://publications.europa.eu/resource/cellar/a1aa458e-416e-4902-ad36-8ed453bafbc6.0016.03/DOC_1#ntr5-L_2005202PT.01000701-E0005), harmoniza as disposições relativas à colocação no mercado de certas substâncias utilizadas no fabrico ilegal de estupefacientes e de substâncias psicotrópicas na Comunidade. A fim de contribuir para o bom funcionamento do mercado interno, no que respeita ao comércio de precursores de drogas, as disposições relativas ao pedido, à concessão, à recusa de concessão, à suspensão ou à revogação de licenças devem ser harmonizadas a nível comunitário.\n\n(3) Atendendo a que importa evitar o levantamento não autorizado de substâncias da categoria 1, as instalações das empresas onde essas substâncias são armazenadas ou utilizadas devem ser protegidas contra o levantamento não autorizado.\n\n(4) Importa precisar os tipos de operadores que exercem a sua actividade no âmbito do comércio intracomunitário e que podem beneficiar de licenças e de registos especiais. Importa também definir os casos em que os operadores que exercem a sua actividade no âmbito do comércio entre a Comunidade e países terceiros podem ser isentos da obrigação de obtenção de uma licença e de registo.\n\n(5) As disposições que regem as condições aplicáveis às licenças e as obrigações de notificação dos operadores que exercem a sua actividade no âmbito do comércio intracomunitário e do comércio entre a Comunidade e países terceiros devem, na medida do possível, ser idênticas.\n\n(6) Devem ser estabelecidas disposições que permitam verificar a finalidade lícita de todas as remessas de precursores de drogas que entram no território aduaneiro da Comunidade, incluindo, designadamente, as remessas em trânsito e as remessas objecto de transbordo, e as colocadas em zonas sensíveis, como é o caso das zonas francas da Comunidade.\n\n(7) São necessários procedimentos específicos de autorização das importações para controlar as remessas individuais de importações de substâncias da categoria 1, a fim de evitar o seu desvio numa fase prematura, e abordar, em especial, o problema crescente dos estimulantes do grupo das anfetaminas.\n\n(8) As normas relativas à notificação prévia de exportação devem permitir adaptar a transferência de informações e o tipo de resposta necessário em função da sensibilidade da remessa de exportação. A fim de tirar pleno partido do sistema de notificação prévia de exportação e de autorização das exportações, os esforços envidados devem, em princípio, visar as remessas de alto risco. As normas relativas à utilização simplificada das notificações prévias de exportação e à concessão de autorizações de exportação através do procedimento simplificado deverão permitir uma simplificação das formalidades administrativas relativamente aos produtos químicos para usos legais correntes.\n\n(9) Com vista a um controlo eficaz do comércio, os Estados-Membros devem permitir que as autoridades competentes desempenhem eficazmente as funções que lhes incumbem e procedam entre si ao intercâmbio de informações.\n\n(10) A fim de melhorar a coordenação do controlo dos precursores de drogas, os Estados-Membros devem fornecer regularmente à Comissão informações sobre a prevenção do desvio de precursores de drogas.\n\n(11) O presente regulamento deve ser aplicável a partir da mesma data que os Regulamentos (CE) n.º 273/2004 e (CE) n.º 111/2005.\n\n(12) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité dos Precursores de Drogas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "d4f0a9588706e2c2": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as normas de execução dos Regulamentos (CE) n.º 273/2004 e (CE) n.º 111/2005 no que respeita ao responsável, à concessão de licenças e ao registo dos operadores, ao fornecimento de informações, às notificações prévias de exportação e às autorizações de exportação e de importação no sector dos precursores de drogas."
+  },
+  "c0ae719d09106248": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, além das definições constantes dos Regulamentos (CE) n.º 273/2004 e (CE) n.º 111/2005, por «instalações da empresa», entende-se o edifício ou edifícios e o terreno ocupado por um operador num determinado local."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "9e7e6701ed42d36b": {
+   "fragment_id": "RESPONSÁVEL",
+   "type": "divisao",
+   "heading": "RESPONSÁVEL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RESPONSÁVEL"
+  },
+  "dd34729405b6936b": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs operadores que exercem actividades de importação ou de exportação ou actividades intermédias a que se refere o artigo 2.º do Regulamento (CE) n.º 111/2005 envolvendo substâncias inventariadas das categorias 1 ou 2 nomeiam um responsável pelo comércio de substâncias inventariadas, notificam às autoridades competentes o nome e os dados relativos ao referido responsável e comunicam-lhes imediatamente quaisquer alterações posteriores dessas informações."
+  },
+  "e2a1949a016fc87f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO responsável referido no artigo 3.º assegura que as actividades de importação ou de exportação ou as actividades intermédias se realizam em conformidade com as disposições legais pertinentes e fica habilitado a representar o operador e a tomar as decisões necessárias para o desempenho dessas funções."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "fde03be2a82a7173": {
+   "fragment_id": "CONCESSÃO DE LICENÇAS E REGISTO DOS OPERADORES",
+   "type": "divisao",
+   "heading": "CONCESSÃO DE LICENÇAS E REGISTO DOS OPERADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONCESSÃO DE LICENÇAS E REGISTO DOS OPERADORES"
+  },
+  "5cb74600eb9c4caa": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A fim de obter uma licença em conformidade com o n.º 2 do artigo 3.º do Regulamento (CE) n.º 273/2004, o operador em causa apresenta um pedido por escrito.\n\nDesse pedido constam os seguintes elementos:\n\na) O nome e o endereço completos do requerente;\n\nb) O nome completo do responsável;\n\nc) Uma descrição do cargo e funções do responsável;\n\nd) Os endereços completos das instalações da empresa;\n\ne) A descrição de todos os locais de armazenagem, produção, fabrico e transformação de substâncias inventariadas;\n\nf) Informações que mostrem que foram tomadas medidas adequadas contra o levantamento não autorizado de substâncias inventariadas dos locais enumerados na alínea e);\n\ng) A denominação e o código NC das substâncias inventariadas conforme figuram no anexo I do Regulamento (CE) n.º 273/2004;\n\nh) No caso das misturas ou produtos naturais: i) a denominação da mistura ou produto natural, ii) a denominação e o código NC das substâncias inventariadas, conforme figuram no anexo I do Regulamento (CE) n.º 273/2004, contidas na mistura ou no produto natural, iii) a percentagem máxima dessas substâncias inventariadas contidas na mistura ou no produto natural;\n\ni) a denominação da mistura ou produto natural,\n\nii) a denominação e o código NC das substâncias inventariadas, conforme figuram no anexo I do Regulamento (CE) n.º 273/2004, contidas na mistura ou no produto natural,\n\niii) a percentagem máxima dessas substâncias inventariadas contidas na mistura ou no produto natural;\n\ni) Uma descrição do tipo de operações previstas referidas no artigo 3.º do Regulamento (CE) n.º 273/2004;\n\nj) Uma cópia autenticada do registo das empresas ou actividades, se for caso disso;\n\nk) Um certificado de registo criminal do requerente e do responsável ou um documento comprovativo de que oferecem as garantias necessárias para a realização adequada das operações, consoante o caso.\n\nO requerente faculta às autoridades competentes, mediante pedido, o acesso às informações e documentos adicionais pertinentes.\n\n2. O n.º 1 é aplicável no que respeita às licenças referidas no n.º 1 do artigo 6.º do Regulamento (CE) n.º 111/2005.\n\nPara efeitos da alínea e) do n.º 1, o pedido contém uma descrição de todos os locais de armazenagem, produção, fabrico e transformação e das formas habituais de manipulação e utilização das substâncias inventariadas.\n\nPara efeitos da alínea g) e da subalínea ii) da alínea h) do n.º 1, a denominação e o código NC das substâncias inventariadas são indicados conforme figuram no anexo do Regulamento (CE) n.º 111/2005.\n\nPara efeitos da alínea i) do n.º 1, é apresentada uma descrição do tipo de operações previstas referidas no n.º 1 do artigo 6.º do Regulamento (CE) n.º 111/2005."
+  },
+  "898e941a2a7e6d1c": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs operadores tomam as medidas adequadas para proteger as instalações das empresas contra o levantamento não autorizado de substâncias inventariadas enumeradas na categoria 1."
+  },
+  "1d48f6c7076532a0": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. As autoridades competentes tomam uma decisão sobre o pedido de licença referido no artigo 5.º no prazo de 60 dias úteis a contar da data da sua recepção.\n\nRelativamente à renovação de uma licença, a decisão é tomada no prazo de 30 dias úteis.\n\n2. As autoridades competentes podem suspender os prazos referidos no n.º 1 a fim de permitir que o requerente forneça informações em falta. Nesse caso, a suspensão tem início no dia em que as autoridades competentes informam o requerente de que faltam informações.\n\n3. A licença pode abranger as operações referidas nos Regulamentos (CE) n.º 273/2004 e (CE) n.º 111/2005.\n\n4. Para a concessão da licença, as autoridades competentes utilizam o modelo constante do anexo I.\n\n5. As autoridades competentes podem conceder uma licença sob uma das seguintes formas:\n\na) Uma licença que abranja todas as substâncias inventariadas e todas as operações por instalação;\n\nb) Uma licença que abranja todas as substâncias inventariadas e todas as operações por Estado-Membro."
+  },
+  "1040ba6756d66d44": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Sem prejuízo das medidas adoptadas em conformidade com o artigo 10.º do Regulamento (CE) n.º 273/2004, as autoridades competentes recusam a concessão da licença se as condições estabelecidas no n.º 1 do artigo 5.º do presente regulamento não estiverem satisfeitas ou se existirem motivos razoáveis para suspeitar que as substâncias inventariadas se destinam ao fabrico ilegal de estupefacientes ou de substâncias psicotrópicas.\n\n2. Sem prejuízo do n.º 2 do artigo 5.º, o n.º 1 do presente artigo é aplicável aos pedidos apresentados em conformidade com o Regulamento (CE) n.º 111/2005, sem prejuízo das medidas adoptadas em conformidade com o n.º 3 do artigo 26.º desse regulamento."
+  },
+  "fb0f11a1f668c3fe": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nNo caso do comércio entre a Comunidade e países terceiros referido no Regulamento (CE) n.º 111/2005, as autoridades competentes podem limitar o prazo de validade da licença a um período não superior a três anos ou exigir que os operadores comprovem, com periodicidade não superior a três anos, que as condições em que a licença foi concedida continuam a ser respeitadas.\n\nO prazo de validade das licenças emitidas antes da entrada em vigor do Regulamento (CE) n.º 111/2005 não é afectado."
+  },
+  "264bb0619da6a4b4": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. As licenças não são transferíveis.\n\n2. O titular da licença requer, em conformidade com o artigo 5.º, uma nova licença sempre que esteja prevista qualquer das seguintes acções:\n\na) O aditamento de uma substância inventariada;\n\nb) O início de uma nova operação;\n\nc) A alteração da localização das instalações da empresa nas quais as operações se realizam.\n\nNesses casos, a licença existente deixa de ser válida na primeira das seguintes datas:\n\ni) A data de termo do prazo de validade, quando o mesmo tenha sido fixado em conformidade com o artigo 9.º do presente regulamento ou com o n.º 5 do artigo 3.º do Regulamento (CE) n.º 273/2004;\n\nii) A data de início do prazo de validade da nova licença.\n\n3. Em caso de alteração das informações fornecidas em conformidade com o artigo 5.º, que não as referidas no n.º 2 do presente artigo, nomeadamente o nome do responsável, o titular da licença informa as autoridades competentes no prazo de 10 dias úteis a contar da data dessa alteração.\n\nSempre que, após a alteração, continuem reunidas as condições referidas no artigo 5.º, as autoridades competentes alteram a licença em conformidade.\n\n4. Os titulares das licenças devolvem às autoridades competentes as licenças que deixem de ser válidas.\n\n5. O n.º 2 é aplicável às licenças emitidas antes da data de aplicação do Regulamento (CE) n.º 273/2004 e do Regulamento (CE) n.º 111/2005."
+  },
+  "a34cd29ef3263616": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Sem prejuízo das medidas adoptadas em conformidade com o artigo 10.º do Regulamento (CE) n.º 273/2004, as autoridades competentes podem suspender ou revogar uma licença se:\n\na) As condições previstas no n.º 1 do artigo 5.º do presente regulamento deixarem de estar reunidas;\n\nb) Existirem motivos razoáveis para suspeitar que as substâncias inventariadas se destinam ao fabrico ilegal de estupefacientes ou de substâncias psicotrópicas;\n\nc) O titular da licença não tiver utilizado a licença por um período de três anos.\n\n2. Sem prejuízo do n.º 2 do artigo 5.º, o n.º 1 do presente artigo é aplicável às licenças concedidas em conformidade com o Regulamento (CE) n.º 111/2005 sem prejuízo das medidas adoptadas em conformidade com o n.º 3 do artigo 26.º desse regulamento."
+  },
+  "6b375041cb505b74": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os artigos 5.º a 11.º não são aplicáveis às licenças especiais referidas no n.º 2 do artigo 3.º do Regulamento (CE) n.º 273/2004.\n\n2. As autoridades públicas referidas nos n.^os^ 2 e 6 do artigo 3.º do Regulamento (CE) n.º 273/2004 incluem as autoridades aduaneiras, as autoridades policiais e os laboratórios oficiais das autoridades competentes."
+  },
+  "bed6502983c475f4": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs farmácias, as farmácias de medicamentos veterinários, as autoridades aduaneiras e policiais, os laboratórios oficiais das autoridades competentes e as forças armadas só ficam isentos da obrigação de obterem uma licença e do registo em conformidade com o Regulamento (CE) n.º 111/2005 nos casos em que utilizam os precursores de drogas no âmbito das suas funções oficiais.\n\nOs operadores referidos no primeiro parágrafo ficam também isentos:\n\na) De apresentar a documentação referida no artigo 3.º do Regulamento (CE) n.º 111/2005;\n\nb) Da obrigação de nomear um responsável prevista no artigo 3.º do presente regulamento."
+  },
+  "00350c817d6224a6": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os operadores que exercem actividades de exportação de substâncias inventariadas enumeradas na categoria 3 do anexo do Regulamento (CE) n.º 111/2005 ficam dispensados da obrigação de registo prevista no n.º 1 do artigo 7.º do referido regulamento se o total das quantidades por eles exportadas no decurso do ano civil precedente (1 de Janeiro a 31 de Dezembro) não exceder as quantidades especificadas no anexo II do presente regulamento.\n\nQuando essas quantidades forem excedidas durante o ano civil em curso, o operador fica imediatamente sujeito à obrigação de registo.\n\n2. Os operadores que exercem actividades de exportação de misturas contendo substâncias inventariadas enumeradas na categoria 3 do anexo do Regulamento (CE) n.º 111/2005 ficam dispensados da obrigação de registo prevista no n.º 1 do artigo 7.º do referido regulamento se a quantidade da substância inventariada contida nas misturas não exceder, no decurso do ano civil precedente, a quantidade especificada no anexo II do presente regulamento.\n\nQuando essas quantidades forem excedidas durante o ano civil em curso, o operador fica imediatamente sujeito à obrigação de registo."
+  },
+  "cea41ae3adddb931": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nPara efeitos do artigo 6.º do Regulamento (CE) n.º 273/2004, os clientes informam os seus fornecedores sempre que esse artigo lhes seja aplicável."
+  },
+  "70f4c5c4045c2044": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nSempre que, em conformidade com o n.º 1 do artigo 8.º do Regulamento (CE) n.º 111/2005, as autoridades competentes requeiram que seja comprovada a finalidade lícita da transacção, o operador apresenta uma declaração por escrito, em conformidade com o modelo constante do anexo III do presente regulamento, que constitua prova suficiente perante as autoridades competentes de que a remessa deixou o país de exportação em conformidade com as disposições nacionais em vigor adoptadas por força do artigo 12.º da Convenção das Nações Unidas contra o tráfico ilegal de estupefacientes e de substâncias psicotrópicas (a seguir designada por «a Convenção das Nações Unidas»).\n\nNo entanto, o operador também pode apresentar a autorização de importação referida no artigo 20.º do Regulamento (CE) n.º 111/2005 ou a declaração do cliente referida no artigo 4.º do Regulamento (CE) n.º 273/2004."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "1f5af4bb08199052": {
+   "fragment_id": "FORNECIMENTO DE INFORMAÇÕES",
+   "type": "divisao",
+   "heading": "FORNECIMENTO DE INFORMAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FORNECIMENTO DE INFORMAÇÕES"
+  },
+  "a269a154c6f95d6f": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nPara efeitos do n.º 2 do artigo 8.º do Regulamento (CE) n.º 273/2004, os operadores apresentam às autoridades competentes informações resumidas sobre as quantidades de substâncias inventariadas utilizadas ou fornecidas e, neste último caso, sobre as quantidades fornecidas a cada parte terceira.\n\nO disposto no primeiro parágrafo só é aplicável às substâncias inventariadas da categoria 3 mediante pedido das autoridades competentes."
+  },
+  "591f8aa49635c2c1": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Para efeitos do n.º 2 do artigo 9.º do Regulamento (CE) n.º 111/2005, os operadores titulares de uma licença ou registo informam as autoridades competentes de:\n\na) Todas as exportações de substâncias inventariadas sujeitas a uma autorização de exportação;\n\nb) Todas as importações de substâncias inventariadas da categoria 1 que exijam uma autorização de importação e de todos os casos de substâncias inventariadas da categoria 2 colocadas numa zona franca de controlo do tipo II, sujeitas a um regime suspensivo que não o de trânsito ou introduzidas em livre prática;\n\nc) Todas as actividades intermédias que envolvam substâncias inventariadas das categorias 1 e 2.\n\n2. As informações referidas na alínea a) do n.º 1 são organizadas por país de destino, por quantidade exportada e por número de referência das autorizações de exportação, consoante o caso.\n\n3. As informações referidas na alínea b) do n.º 1 são organizadas por país terceiro de exportação e por número de referência das autorizações de importação, consoante o caso.\n\n4. As informações referidas na alínea c) do n.º 1 são organizadas por país terceiro em questão no que respeita a essas actividades intermédias e por autorização de exportação ou de importação, consoante o caso. Mediante pedido das autoridades competentes, os operadores fornecerão informações suplementares."
+  },
+  "a7b95b0e66b064fe": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAs informações referidas nos artigos 17.º e 18.º são fornecidas uma vez por ano, antes de 15 de Fevereiro.\n\nO operador informa também as autoridades competentes nos casos em que não se tenham realizado quaisquer operações.\n\nEssas informações são tratadas como informações comerciais de carácter confidencial."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "47b5d9f773c14450": {
+   "fragment_id": "NOTIFICAÇÃO PRÉVIA DE EXPORTAÇÃO",
+   "type": "divisao",
+   "heading": "NOTIFICAÇÃO PRÉVIA DE EXPORTAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NOTIFICAÇÃO PRÉVIA DE EXPORTAÇÃO"
+  },
+  "1ea9b5aec7918b4f": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAs listas referidas no n.º 1 do artigo 11.º do Regulamento (CE) n.º 111/2005 incluem, pelo menos:\n\na) Os países com os quais a Comunidade concluiu um acordo específico sobre precursores de drogas;\n\nb) Os países terceiros que solicitaram receber uma notificação prévia de exportação em conformidade com o n.º 10 do artigo 12.º da Convenção das Nações Unidas.\n\nEssas listas constam do anexo IV."
+  },
+  "fd2ba9a534ac99c0": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. No caso das exportações que beneficiam do procedimento simplificado de autorização de exportação referido no artigo 19.º do Regulamento (CE) n.º 111/2005 e nos artigos 25.º, 26.º e 27.º do presente regulamento, as autoridades competentes podem enviar uma notificação prévia de exportação simplificada abrangendo várias operações de exportação efectuadas durante um determinado período de seis ou de doze meses.\n\n2. As autoridades competentes fornecem as informações especificadas no n.º 1 do artigo 13.º do Regulamento (CE) n.º 111/2005 e comunicam às autoridades competentes do país terceiro de destino que a notificação prévia de exportação abrange diversas operações de exportação efectuadas durante um determinado período de seis ou de doze meses.\n\n3. As autoridades competentes enviam uma notificação prévia de exportação ao país de destino, utilizando para o efeito o formulário para «notificação multilateral de substâncias químicas» constante do anexo V."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "4bd14d8e281efada": {
+   "fragment_id": "AUTORIZAÇÃO DE EXPORTAÇÃO/IMPORTAÇÃO",
+   "type": "divisao",
+   "heading": "AUTORIZAÇÃO DE EXPORTAÇÃO/IMPORTAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### AUTORIZAÇÃO DE EXPORTAÇÃO/IMPORTAÇÃO"
+  },
+  "ab1de29381f114b9": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs países de destino das exportações de substâncias inventariadas enumeradas na categoria 3 que requerem uma autorização de exportação constam do anexo IV."
+  },
+  "0bc9b44d625dd04b": {
+   "fragment_id": "Artigo 23.º",
+   "type": "artigo",
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. As autorizações de exportação e de importação são emitidas em conformidade com os formulários constantes dos anexos VI e VII, respectivamente. O figurino gráfico dos formulários é vinculativo.\n\nAs autorizações de exportação ou de importação podem também ser concedidas por via electrónica. Nesse caso, os Estados-Membros podem adaptar a casa respeitante ao número da autorização.\n\n2. A autorização de exportação é emitida em quatro exemplares, numerados de 1 a 4.\n\nO exemplar n.º 1 é conservado pelas autoridades emissoras.\n\nOs exemplares n.^os^ 2 e 3 acompanham as substâncias inventariadas e são apresentados à estância aduaneira em que é efectuada a declaração de exportação aduaneira e, subsequentemente, às autoridades competentes no ponto de saída do território aduaneiro da Comunidade, que devolvem o exemplar n.º 2 às autoridades emissoras. O exemplar n.º 3 acompanha as substâncias inventariadas e é entregue às autoridades competentes do país de importação.\n\nO exemplar n.º 4 é conservado pelo exportador.\n\n3. A autorização de importação é emitida em quatro exemplares, numerados de 1 a 4.\n\nO exemplar n.º 1 é conservado pelas autoridades emissoras.\n\nO exemplar n.º 2 é enviado pelas autoridades emissoras às autoridades competentes do país de exportação.\n\nO exemplar n.º 3 acompanha as substâncias inventariadas desde o ponto de entrada no território aduaneiro da Comunidade até às instalações da empresa do importador, que o envia às autoridades emissoras.\n\nO exemplar n.º 4 é conservado pelo importador.\n\n4. Não são concedidas autorizações de exportação ou de importação para mais de duas substâncias inventariadas."
+  },
+  "30474b2734474bcf": {
+   "fragment_id": "Artigo 24.º",
+   "type": "artigo",
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. Os formulários das autorizações são impressos em uma ou várias línguas oficiais da Comunidade.\n\n2. Os formulários têm um formato A4 e são revestidos de uma impressão de fundo guilhochado que torna visíveis as falsificações por meios mecânicos ou químicos.\n\n3. Os Estados-Membros podem reservar-se o direito de proceder à impressão dos formulários das autorizações ou podem confiar essa impressão a tipografias por si autorizadas. Neste caso, cada formulário deve incluir uma referência a essa autorização. Além disso, o formulário da autorização deve conter o nome e o endereço da tipografia ou um sinal que permita a sua identificação."
+  },
+  "cee4448ebeb3c8cd": {
+   "fragment_id": "Artigo 25.º",
+   "type": "artigo",
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nMediante pedido de um operador interessado, as autoridades competentes podem conceder uma autorização de exportação por procedimento simplificado, conforme previsto no artigo 19.º do Regulamento (CE) n.º 111/2005, nos casos de exportações frequentes de uma determinada substância inventariada enumerada na categoria 3 que envolvam o mesmo exportador estabelecido na Comunidade e o mesmo importador no mesmo país terceiro de destino e que abranjam um determinado período de seis ou de doze meses.\n\nEssa autorização de exportação por procedimento simplificado só pode ser concedida nos casos em que:\n\na) Aquando das exportações anteriores o operador tenha demonstrado capacidade para respeitar todas as obrigações que lhe incumbiam no âmbito dessas exportações e não tenha cometido qualquer infracção à legislação aplicável;\n\nb) As autoridades competentes possam assegurar-se da finalidade lícita dessas operações de exportação."
+  },
+  "ba0dfccf0091350b": {
+   "fragment_id": "Artigo 26.º",
+   "type": "artigo",
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. O pedido de autorização de exportação por procedimento simplificado referido no artigo 25.º devem conter, no mínimo, os seguintes elementos:\n\na) Os nomes e endereços do exportador, do importador no país terceiro e do destinatário final;\n\nb) A denominação da substância inventariada, conforme figura no anexo do Regulamento (CE) n.º 111/2005, ou, no caso das misturas ou dos produtos naturais, as respectivas denominações e códigos NC e a denominação de todas as substâncias inventariadas, conforme figuram no anexo do Regulamento (CE) n.º 111/2005, neles contidas;\n\nc) A quantidade máxima da substância inventariada destinada a exportação;\n\nd) O período específico previsto para as operações de exportação.\n\n2. As autoridades competentes tomam a decisão sobre o pedido de autorização de exportação por procedimento simplificado no prazo de 15 dias úteis a contar da data em que tenham recebido as informações requeridas."
+  },
+  "82391e0834e56919": {
+   "fragment_id": "Artigo 27.º",
+   "type": "artigo",
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. As autorizações de exportação concedidas por procedimento simplificado são emitidas em conformidade com o modelo constante do anexo VI, utilizando os exemplares n.^os^ 1, 2 e 4.\n\nO exemplar n.º 1 é conservado pelas autoridades emissoras.\n\nOs exemplares n.^os^ 2 e 4 são conservados pelo exportador.\n\nO exportador indica os pormenores de cada operação de exportação no verso do exemplar n.º 2, nomeadamente a quantidade da substância inventariada de cada operação de exportação e a quantidade restante. O exemplar n.º 2 é apresentado à estância aduaneira, na altura em que é efectuada a declaração aduaneira. Essa estância confirma os elementos do exemplar e devolve-o ao exportador.\n\n2. O operador indica o número da autorização e a menção «autorização de exportação concedida por procedimento simplificado» na declaração aduaneira relativa a cada operação de exportação.\n\nQuando a estância aduaneira de saída não se situar no ponto de saída do território aduaneiro da Comunidade, as informações referidas no primeiro parágrafo serão indicadas nos documentos que acompanham a remessa exportada.\n\n3. O exportador devolve o exemplar n.º 2 às autoridades emissoras, o mais tardar, 10 dias úteis após o termo do prazo de validade da autorização de exportação concedida por procedimento simplificado."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "2a88da2027930082": {
+   "fragment_id": "Artigo 28.º",
+   "type": "artigo",
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. Cada Estado-Membro adopta as medidas necessárias para permitir que as autoridades competentes cumpram as suas obrigações de controlo e de fiscalização, incluindo a realização de inspecções destinadas a examinar a adequação das instalações das empresas.\n\n2. Os Estados-Membros asseguram o intercâmbio de informações entre todas as autoridades em causa."
+  },
+  "c4a2f44f829f8642": {
+   "fragment_id": "Artigo 29.º",
+   "type": "artigo",
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. No mês seguinte a cada trimestre civil, cada Estado-Membro envia à Comissão uma lista com informações sobre os casos em que a autorização de saída das substâncias inventariadas tenha sido suspensa ou em que as substâncias inventariadas tenham sido retidas.\n\nEssas informações incluirão:\n\na) A denominação das substâncias inventariadas e, caso sejam conhecidos, a sua origem, proveniência e destino;\n\nb) A quantidade das substâncias inventariadas, o seu estatuto aduaneiro e os meios de transporte utilizados.\n\n2. No termo de cada ano civil, a Comissão comunica a todos os Estados-Membros as informações recebidas em conformidade com o n.º 1."
+  },
+  "c892f3489fbf1a51": {
+   "fragment_id": "Artigo 30.º",
+   "type": "artigo",
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nO Regulamento (CEE) n.º 3769/92 é revogado com efeitos a partir de 18 de Agosto de 2005.\n\nAs remissões para o regulamento revogado entendem-se como sendo feitas para o presente regulamento."
+  },
+  "cbb013d726f2c32f": {
+   "fragment_id": "Artigo 31.º",
+   "type": "artigo",
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nAté 31 de Dezembro de 2005, o mais tardar, as autoridades competentes revogarão as autorizações de exportação gerais individuais concedidas em conformidade com o n.º 3 do artigo 5.º e do n.º 3 do artigo 5.ºA do Regulamento (CEE) n.º 3677/90. No entanto, essa revogação não afectará as substâncias inventariadas que tenham sido declaradas para exportação antes de 1 de Janeiro de 2006."
+  },
+  "1e980b6c5545da04": {
+   "fragment_id": "Artigo 32.º",
+   "type": "artigo",
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nO presente regulamento entra em vigor na data da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 18 de Agosto de 2005.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 27 de Julho de 2005.\n\n***Pela Comissão***\n\n**Günter VERHEUGEN**\n\n***Vice-Presidente***\n\n---"
+  },
+  "673f528b62f9209e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/a1aa458e-416e-4902-ad36-8ed453bafbc6.0016.03/DOC_1#ntc1-L_2005202PT.01000701-E0001) [JO L 47 de 18.2.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_047_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/a1aa458e-416e-4902-ad36-8ed453bafbc6.0016.03/DOC_1#ntc2-L_2005202PT.01000701-E0002) [JO L 22 de 26.1.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_022_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/a1aa458e-416e-4902-ad36-8ed453bafbc6.0016.03/DOC_1#ntc3-L_2005202PT.01000701-E0003) [JO L 357 de 20.12.1990, p. 1](http://publications.europa.eu/resource/oj/JOL_1990_357_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/a1aa458e-416e-4902-ad36-8ed453bafbc6.0016.03/DOC_1#ntc4-L_2005202PT.01000701-E0004) [JO L 383 de 29.12.1992, p. 17](http://publications.europa.eu/resource/oj/JOL_1992_383_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1232/2002 ([JO L 180 de 10.7.2002, p. 5](http://publications.europa.eu/resource/oj/JOL_2002_180_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/a1aa458e-416e-4902-ad36-8ed453bafbc6.0016.03/DOC_1#ntc5-L_2005202PT.01000701-E0005) [JO L 370 de 19.12.1992, p. 76](http://publications.europa.eu/resource/oj/JOL_1992_370_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2003/101/CE ([JO L 286 de 4.11.2003, p. 14](http://publications.europa.eu/resource/oj/JOL_2003_286_R_TOC))."
+  },
+  "8cd19a0dc4759791": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2005R1277 — PT — 01.07.2015 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32005R1277) [REGULAMENTO (CE) N.º 1277/2005 DA COMISSÃO](http://publications.europa.eu/resource/celex/32005R1277) [de 27 de Julho de 2005](http://publications.europa.eu/resource/celex/32005R1277) [que estabelece as normas de execução do Regulamento (CE) n.º 273/2004 do Parlamento Europeu e do Conselho relativo aos precursores de drogas e do Regulamento (CE) n.º 111/2005 do Conselho que estabelece regras de controlo do comércio de precursores de drogas entre a Comunidade e países terceiros](http://publications.europa.eu/resource/celex/32005R1277) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32005R1277) (JO L 202, 3.8.2005, p.7)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) 2015/1011 da Comissão de 24 de abril de 2015](http://publications.europa.eu/resource/celex/32015R1011) — L 162 — 12 — 27.6.2015"
+  }
+ }
+}

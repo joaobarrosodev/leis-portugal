@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107648320:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2017-175018333",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/98-2017-107648320",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-07-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "178244328"
+   ]
+  },
+  {
+   "date": "2022-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178264013:por",
+     "title": "Resolução do Conselho de Ministros n.º 16/2022",
+     "published": "2022-01-27",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/16-2022-178264013"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "178244328",
+    "175122629"
+   ]
+  }
+ ],
+ "fragments": {
+  "178244328": {
+   "fragment_id": "175018334",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-02-01",
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 98/2017\n\nA Resolução do Conselho de Ministros n.º 89/2012, de 29 de outubro, autorizou a aquisição de serviços de remoção de resíduos perigosos depositados, em 2001 e 2002, nas escombreiras das antigas minas de carvão de São Pedro da Cova, em Gondomar, incluindo o seu encaminhamento para o destino final.\n\nNa sequência destes trabalhos de remoção, concluídos em 2015, e de posteriores estudos complementares diligenciados pela Comissão de Coordenação e Desenvolvimento Regional do Norte, com vista ao apuramento da área total a descontaminar e das soluções técnicas a implementar, concluiu-se pela necessidade de proceder a uma segunda intervenção, face à perigosidade dos depósitos de resíduos remanescentes no local para o ambiente e a saúde pública.\n\nNeste sentido, impõe-se proceder à aquisição de serviços para uma segunda intervenção com vista à remoção dos resíduos perigosos remanescentes nas escombreiras das antigas minas de São Pedro da Cova, incluindo o seu encaminhamento para o destino final adequado às características dos resíduos, através da adoção do procedimento contratual de concurso público internacional, com publicação de anúncio no Jornal Oficial da União Europeia, cuja conclusão ocorrerá em 2019.\n\nAssim:\n\nNos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, repristinados pela Resolução da Assembleia da República n.º 86/2011, de 11 de abril, do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Autorizar a realização da despesa com a aquisição de serviços de remoção de resíduos perigosos remanescentes depositados, em 2001 e 2002, nas escombreiras das antigas minas de carvão de São Pedro da Cova, em Gondomar, incluindo o seu encaminhamento para o destino final adequado às características dos resíduos, no montante de (euro) 16 300 000,00 nos quais já se inclui o IVA à taxa legal em vigor.\n\n2 - Determinar, nos termos da alínea b) do n.º 1 do artigo 20.º do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, o recurso ao procedimento de concurso público com publicação de anúncio no Jornal Oficial da União Europeia.\n\n3 - Determinar que os encargos resultantes da aquisição referida no n.º 1 não podem exceder, em cada ano económico, os seguintes montantes, nos quais já se inclui o IVA à taxa legal em vigor:\n\na) 2017 - [...];\n\nb) 2018 - [...];\n\nc) 2019 - [...];\n\nd) 2020 - (euro) 0,00;\n\ne) 2021 - (euro) 6 000 000;\n\nf) 2022 - (euro) 3 300 000,00.\n\n4 - Determinar que o montante fixado para cada ano económico pode ser acrescido do saldo apurado no ano anterior, ficando autorizadas a transição de saldos no orçamento de investimento da Comissão de Coordenação e Desenvolvimento Regional do Norte dos montantes já transferidos em 2017, 2018, 2019, 2020 e 2021 pelo Fundo Ambiental, criado pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto, na sua redação atual, e a respetiva aplicação em despesa, sem prejuízo do cumprimento da regra do equilíbrio.\n\n5 - Estabelecer que os encargos emergentes da presente resolução são suportados pelas adequadas verbas inscritas e a inscrever no orçamento de investimento da Comissão de Coordenação e Desenvolvimento Regional do Norte, mediante apoio atribuído pelo Fundo Ambiental, criado pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto.\n\n6 - Delegar, com faculdade de subdelegação, nos membros do Governo responsáveis pelas áreas do ambiente e da ação climática e da coesão territorial, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução."
+  },
+  "175122629": {
+   "fragment_id": "175018335",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 8 de junho de 2017. - O Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

@@ -1,0 +1,454 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:480286:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-885956169",
+ "dre_path": "/dr/detalhe/decreto-lei/210-2004-480286",
+ "source_lastmod": "2024-08-27",
+ "versions": [
+  {
+   "date": "2004-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885926525",
+    "885926526",
+    "885926527",
+    "885926528",
+    "885926529",
+    "885926530",
+    "885926531",
+    "885926532",
+    "885926533",
+    "885926534",
+    "885926535",
+    "885926536",
+    "885926537",
+    "885926538",
+    "885926539",
+    "885926540",
+    "885926541",
+    "885926542"
+   ]
+  },
+  {
+   "date": "2011-03-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:278879:por",
+     "title": "Decreto-Lei n.º 44/2011",
+     "published": "2011-03-24",
+     "dre_path": "/dr/detalhe/decreto-lei/44-2011-278879"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "885926525",
+    "885926526",
+    "885926544",
+    "885926545",
+    "885926529",
+    "885926546",
+    "885926547",
+    "885926532",
+    "885926548",
+    "885926534",
+    "885926535",
+    "885926549",
+    "885926550",
+    "885926551",
+    "885926552",
+    "885926540",
+    "885926541",
+    "885926542",
+    "885926543"
+   ]
+  },
+  {
+   "date": "2016-09-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75150220:por",
+     "title": "Decreto-Lei n.º 43/2016",
+     "published": "2016-08-16",
+     "dre_path": "/dr/detalhe/decreto-lei/43-2016-75150220"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "885926525",
+    "885926526",
+    "885927377",
+    "885926545",
+    "885926529",
+    "885927378",
+    "885926547",
+    "885926532",
+    "885927379",
+    "885926534",
+    "885926535",
+    "885926549",
+    "885926550",
+    "885926551",
+    "885926552",
+    "885926540",
+    "885926541",
+    "885926542",
+    "885926543"
+   ]
+  },
+  {
+   "date": "2025-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:928803702:por",
+     "title": "Decreto-Lei n.º 91/2025",
+     "published": "2025-08-13",
+     "dre_path": "/dr/detalhe/decreto-lei/91-2025-928803702"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "885926525",
+    "885926526",
+    "885927377",
+    "885926545",
+    "885926529",
+    "885927378",
+    "928935396",
+    "885926532",
+    "928935397",
+    "885926534",
+    "885926535",
+    "885926549",
+    "885926550",
+    "885926551",
+    "885926552",
+    "885926540",
+    "885926541",
+    "885926542",
+    "885926543"
+   ]
+  }
+ ],
+ "fragments": {
+  "885926525": {
+   "fragment_id": "885956170",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 210/2004\n\nde 20 de Agosto\n\nO Decreto-Lei n.º 84/85, de 28 de Março, veio disciplinar o regime de exploração dos concursos de apostas mútuas, clarificando que o direito de promover os mesmos é reservado ao Estado, única entidade à qual compete definir, em cada momento, a política de jogo que pretende ver implementada no respectivo território.\n\nEste diploma concedeu à Santa Casa da Misericórdia de Lisboa a respectiva organização e exploração, em regime de exclusivo para todo o território nacional.\n\nO EUROMILHÕES é um novo jogo de apostas mútuas sobre sorteios de números do tipo loto, à semelhança dos jogos criados ao abrigo do decreto-lei supracitado, que se reveste de algumas particularidades face aos jogos já existentes, podendo a respectiva exploração ser efectuada em conjunto com outros países europeus.\n\nAs receitas do EUROMILHÕES destinam-se a ser aplicadas no desenvolvimento de infra-estruturas, de projectos piloto e de novos serviços de apoio e promoção de pessoas idosas, numa sociedade fortemente marcada pelo envelhecimento da sua população, assumindo, assim, este jogo as mesmas características dos jogos sociais do Estado atribuídos à Santa Casa da Misericórdia de Lisboa.\n\nUm dos atractivos do presente jogo é o facto de os respectivos prémios se encontrarem isentos de tributação em sede de imposto sobre o rendimento das pessoas singulares, o que permite a atribuição de prémios mais elevados.\n\nConsagra-se um regime sancionatório de condutas violadoras do exclusivo da exploração concedido à Santa Casa da Misericórdia de Lisboa, mantendo-se a punição em sede de ilícito de mera ordenação social, tal como sucede nos outros concursos de apostas mútuas, procedendo-se, no entanto, a uma actualização dos valores das respectivas coimas.\n\nEstabelecem-se, igualmente, diversas sanções acessórias que, em conjunto com as coimas, visam dissuadir a prática de jogo ilícito semelhante ao criado pelo presente diploma.\n\nFoi ouvido o Conselho de Jogos da Santa Casa da Misericórdia de Lisboa.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "885926526": {
+   "fragment_id": "885956171",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criado o jogo social do Estado denominado «EUROMILHÕES».\n\n2 - O EUROMILHÕES é atribuído à Santa Casa da Misericórdia de Lisboa para ser organizado e explorado pelo seu Departamento de Jogos, em regime de exclusividade para todo o território nacional, nos termos do disposto no n.º 1 do artigo 2.º do Decreto-Lei n.º 84/85, de 28 de Março."
+  },
+  "885926527": {
+   "fragment_id": "885956172",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição e regime de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição e regime de exploração\n\n1 - Por EUROMILHÕES entende-se um jogo de apostas mútuas no qual os participantes prognosticam cumulativamente o resultado de dois sorteios de números para obter direito a prémios em dinheiro.\n\n2 - O jogo consiste na escolha de determinada quantidade de números constantes de duas grelhas existentes nos boletins de apostas ou suporte equivalente, previamente ao respectivo sorteio, que atribui prémios em dinheiro, de acordo com as normas constantes do respectivo regulamento, a aprovar por portaria dos Ministros da Saúde e da Segurança Social e do Trabalho.\n\n3 - A exploração do EUROMILHÕES pode ser efectuada em conjunto com outros países europeus.\n\n4 - Os sorteios de números de cada concurso têm periodicidade semanal, cabendo ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa a escolha do local, do dia e da hora em que os mesmos têm lugar.\n\n5 - Os actos dos sorteios realizam-se na presença de um auditor independente.\n\n6 - O júri dos concursos recebe e guarda em segurança uma cópia dos ficheiros contendo as apostas validamente registadas para cada concurso."
+  },
+  "885926528": {
+   "fragment_id": "885956173",
+   "type": 11,
+   "heading": "Artigo 3.º — Lei reguladora da exploração do jogo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Lei reguladora da exploração do jogo\n\nA exploração do EUROMILHÕES rege-se pelo presente diploma, pelo Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção dada pelo Decreto-Lei n.º 356/89, de 17 de Outubro, e pelos Decretos-Leis n.os 244/95, de 14 de Setembro, 84/85, de 28 de Março, 322/91, de 26 de Agosto, na redacção dada pelo Decreto-Lei n.º 469/99, de 6 de Novembro, e 282/2003, de 8 de Novembro, pela Portaria n.º 313/2004, de 23 de Março, e pela portaria a que se refere o n.º 2 do artigo 2.º"
+  },
+  "885926529": {
+   "fragment_id": "885956174",
+   "type": 11,
+   "heading": "Artigo 4.º — Sorteios adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sorteios adicionais\n\nEm simultâneo com o jogo EUROMILHÕES, poderá o Departamento de Jogos da Santa Casa da Misericórdia de Lisboa organizar sorteios de prémios adicionais, expressos em dinheiro ou em espécie."
+  },
+  "885926530": {
+   "fragment_id": "885927175",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de participação\n\n1 - A participação no EUROMILHÕES processa-se pela inscrição das apostas em bilhetes de modelo adoptado pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, através de apostas aleatórias ou da plataforma de acesso multicanal, aprovada pelo Decreto-Lei n.º 282/2003, de 8 de Novembro, e pelo pagamento do preço correspondente.\n\n2 - As apostas e o respectivo preço podem ser entregues directamente ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa ou a mediadores por este autorizados, nos termos do Regulamento dos Mediadores, aprovado pela Portaria n.º 313/2004, de 23 de Março.\n\n3 - Os mediadores são mandatários dos concorrentes.\n\n4 - As normas gerais de participação no EUROMILHÕES constarão de regulamento próprio, previsto no n.º 2 do artigo 2.º, nomeadamente quanto a:\n\na) Sistema de jogo;\n\nb) Modo de realização das apostas;\n\nc) Valor probatório dos bilhetes;\n\nd) Categorias de prémios, em número superior a um;\n\ne) Modo de divisão da importância destinada a prémios pelas respectivas categorias, bem como a sua distribuição por outras categorias de prémios e a possibilidade de adição dos prémios não atribuídos num concurso ao montante para prémios dos concursos posteriores;\n\nf) Envio e recepção dos ficheiros informáticos do jogo;\n\ng) Fiscalização da exploração do jogo;\n\nh) Preço da aposta;\n\ni) Normas a que obedece o escrutínio de prémios, sua atribuição e respectivos montantes;\n\nj) Divulgação dos resultados;\n\nl) Prazos de caducidade.\n\n5 - A participação no EUROMILHÕES implica a adesão às normas constantes do respectivo regulamento.\n\n6 - No verso dos bilhetes de participação no EUROMILHÕES deverá constar um extracto das suas normas essenciais, nos termos do n.º 4."
+  },
+  "885926531": {
+   "fragment_id": "885927176",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos de fiscalização\n\n1 - A recepção e guarda em segurança de cópia dos registos das apostas efectuadas, a comprovação do direito a prémio das apostas registadas através da leitura da cópia de segurança, bem como a deliberação sobre a atribuição de prémios, competem ao júri dos concursos, nos termos dos artigos 8.º, 9.º, 10.º e 11.º do anexo II do Decreto-Lei n.º 322/91, de 26 de Agosto, na redacção dada pelo Decreto-Lei n.º 469/99, de 6 de Novembro, e do regulamento previsto no n.º 2 do artigo 2.º\n\n2 - Os actos dos sorteios previstos no n.º 4 do artigo 2.º, bem como o escrutínio e a distribuição de prémios, são fiscalizados no local da sua realização por um auditor independente.\n\n3 - Os jogadores que se considerem prejudicados por qualquer deliberação do júri dos concursos relativa à não atribuição de prémios a que considerem ter direito podem dela reclamar para o júri de reclamações, nos termos dos artigos 16.º, 17.º, 18.º e 19.º do anexo II do Decreto-Lei n.º 322/91, de 26 de Agosto, na redacção dada pelo Decreto-Lei n.º 469/99, de 6 de Novembro, dentro dos prazos fixados no regulamento do jogo.\n\n4 - Das decisões do júri de reclamações cabe recurso para o tribunal administrativo de círculo."
+  },
+  "885926532": {
+   "fragment_id": "885927177",
+   "type": 11,
+   "heading": "Artigo 7.º — Pagamento de prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pagamento de prémios\n\n1 - Os prémios constantes de títulos apresentados a pagamento são pagos aos respectivos portadores.\n\n2 - No caso de os portadores dos títulos a que se refere o número anterior serem menores ou equiparados, os prémios a que tenham direito são pagos aos seus representantes legais."
+  },
+  "885926533": {
+   "fragment_id": "885927178",
+   "type": 11,
+   "heading": "Artigo 8.º — Receita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Receita\n\n1 - A receita do EUROMILHÕES é constituída pelo montante total das apostas registadas, nos termos do n.º 1 do artigo 14.º do Decreto-Lei n.º 84/85, de 28 de Março.\n\n2 - Da receita apurada nos termos do número anterior é destinada a prémios a importância correspondente a 50%.\n\n3 - Da receita a que se refere o n.º 1 serão deduzidas:\n\na) A importância correspondente a 0,5%, até perfazer um montante máximo de (euro) 50000000, para constituição de um fundo destinado ao pagamento de prémios por reclamações procedentes, em conformidade com as normas regulamentares aplicáveis;\n\nb) A importância correspondente a 1%, até perfazer um montante permanente de (euro) 20000000, para constituição de um fundo para renovação e manutenção de equipamento, material e programas.\n\n4 - Os encargos com o início da exploração do EUROMILHÕES são suportados pelos resultados da exploração da Lotaria Nacional."
+  },
+  "885926534": {
+   "fragment_id": "885927179",
+   "type": 11,
+   "heading": "Artigo 9.º — Resultados de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Resultados de exploração\n\nOs resultados líquidos da exploração serão repartidos, em partes iguais, pela Santa Casa da Misericórdia de Lisboa e pelo Instituto de Gestão Financeira da Segurança Social, para o desenvolvimento de um projecto de apoio às pessoas idosas e às pessoas com deficiência, a criar por despacho conjunto do Ministro da Saúde e do Ministro da Segurança Social e do Trabalho."
+  },
+  "885926535": {
+   "fragment_id": "885927180",
+   "type": 11,
+   "heading": "Artigo 10.º — Prémios caducados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prémios caducados\n\nO montante dos prémios caducados, nos termos do regulamento do jogo, reverte a favor da Santa Casa da Misericórdia de Lisboa."
+  },
+  "885926536": {
+   "fragment_id": "885927181",
+   "type": 11,
+   "heading": "Artigo 11.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contra-ordenações\n\n1 - Constituem contra-ordenações:\n\na) A promoção, organização ou exploração, independentemente dos meios utilizados, nomeadamente o electrónico, de concursos de apostas mútuas, lotarias ou outros sorteios idênticos ao que o presente diploma regula, com violação do regime de exclusivo estabelecido no artigo 1.º, bem como a emissão, distribuição ou venda dos respectivos bilhetes ou boletins e a publicitação da realização dos sorteios respectivos, quer estes ocorram ou não em território nacional;\n\nb) A realização, independentemente dos meios utilizados, nomeadamente o electrónico, de sorteios publicitários ou promocionais de instituições, bens ou serviços, de qualquer espécie, que habilitem a um prémio em dinheiro ou coisa com valor económico superior a (euro) 25, explorados sob a forma de rifas numeradas ou outros sorteios de números sobre os resultados dos sorteios do EUROMILHÕES, ou sob a forma de bilhetes, que atribuam imediatamente o direito a um prémio ou à possibilidade de ganhar um prémio com base nesse sorteio;\n\nc) A introdução, a venda e ou a distribuição, independentemente dos meios utilizados, nomeadamente o electrónico, no território nacional, dos suportes de participação no jogo EUROMILHÕES de outro Estado; a angariação de apostas para o referido jogo, ainda que em bilhetes diferentes dos permitidos nos Estados a que respeitem, bem como a publicidade ou qualquer outra forma de prestação de serviços relativa à exploração de jogos estrangeiros similares, incluindo a divulgação regular e periódica dos resultados dos sorteios respectivos;\n\nd) A participação, independentemente dos meios utilizados, nomeadamente o electrónico, em concursos de apostas mútuas ou sorteios idênticos, com violação do regime de exclusivo estabelecido no artigo 1.º, cuja exploração seja punível nos termos das alíneas a) e b);\n\ne) A participação, a partir do território nacional, em concursos de apostas mútuas do tipo EUROMILHÕES ou sorteios similares estrangeiros, cuja exploração seja punível nos termos da alínea c).\n\n2 - A tentativa e a negligência são puníveis."
+  },
+  "885926537": {
+   "fragment_id": "885927182",
+   "type": 11,
+   "heading": "Artigo 12.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Coimas\n\n1 - As contra-ordenações previstas nas alíneas a) e b) do n.º 1 do artigo anterior são puníveis com coima não inferior a (euro) 500 nem superior ao triplo do presumível valor global angariado com a organização do jogo, quando mais elevado que aquele limite, até ao máximo de (euro) 3740, para pessoas singulares, e coima mínima não inferior a (euro) 2000, nem superior ao triplo do presumível valor global angariado com a organização do jogo, quando mais elevado que aquele limite, num montante máximo de (euro) 44890, para pessoas colectivas.\n\n2 - A contra-ordenação prevista na alínea c) do n.º 1 do artigo anterior é punível com coima mínima de (euro) 1000 e máxima até ao triplo do presumível valor total das operações referidas, até ao limite máximo de (euro) 3740, para pessoas singulares, e coima não inferior a (euro) 2500 e máxima até ao triplo do presumível valor total das referidas operações, num montante máximo de (euro) 44890, para pessoas colectivas.\n\n3 - A contra-ordenação prevista nas alíneas d) e e) do n.º 1 do artigo anterior é punível com coima não inferior a (euro) 75 ou ao dobro do valor da aposta, quando mais elevado do que aquele valor, até ao limite máximo de (euro) 250.\n\n4 - Na determinação da medida da coima deve atender-se, nomeadamente, ao lucro que, directa ou indirectamente, o promotor do jogo esperava obter com o recurso ao mesmo, em termos de numerário arrecadado ou em termos de aumentos de vendas.\n\n5 - Os montantes mínimos e máximos são reduzidos para um terço em caso de negligência."
+  },
+  "885926538": {
+   "fragment_id": "885927183",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\n1 - Como sanções acessórias das contra-ordenações estabelecidas nas alíneas a) a e) do n.º 1 do artigo 11.º poderão ser determinadas, no todo ou em parte, a apreensão e perda de bens, incluindo meios de transporte, ou valores utilizados para a perpetração da infracção ou resultantes desta, incluindo os destinados a prémios ou que como tal hajam sido distribuídos, bem como o encerramento do estabelecimento onde tal actividade se realize e cujo funcionamento esteja sujeito a autorização ou licenciamento de autoridade administrativa e a interdição de exploração de qualquer actividade relativa aos jogos sociais do Estado durante um período máximo de dois anos, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção dada pelo Decreto-Lei n.º 356/89, de 17 de Outubro, e pelo Decreto-Lei n.º 244/95, de 14 de Setembro.\n\n2 - Quando entre os títulos de jogo apreendidos se encontre algum com direito a prémio, o mesmo deverá ser recebido, integrando o valor dos bens apreendidos."
+  },
+  "885926539": {
+   "fragment_id": "885927184",
+   "type": 11,
+   "heading": "Artigo 14.º — Processo e competência contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Processo e competência contra-ordenacional\n\n1 - Compete à direcção do Departamento de Jogos, no âmbito das suas atribuições, a apreciação e aplicação de coimas ou outras sanções acessórias dos processos de contra-ordenação que vierem a ser instaurados com vista à aplicação das penalidades previstas no presente decreto-lei.\n\n2 - A instrução dos processos segue o disposto no Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção dada pelo Decreto-Lei n.º 356/89, de 17 de Outubro e pelo Decreto-Lei n.º 244/95, de 14 de Setembro, e compete ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n3 - O produto das coimas e da venda dos bens e valores apreendidos integrará o resultado líquido da exploração do EUROMILHÕES, ainda que cobrado em juízo.\n\n4 - O pagamento da coima aplicada será efectuado ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa."
+  },
+  "885926540": {
+   "fragment_id": "885927185",
+   "type": 11,
+   "heading": "Artigo 15.º — Isenção da tributação incidente sobre os prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Isenção da tributação incidente sobre os prémios\n\nOs prémios do EUROMILHÕES encontram-se isentos do imposto sobre o rendimento das pessoas singulares, nos termos da redacção dada ao n.º 2 do artigo 9.º do respectivo Código, pela Lei n.º 107-B/2003, de 31 de Dezembro."
+  },
+  "885926541": {
+   "fragment_id": "885927186",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração ao Decreto-Lei n.º 64/95, de 7 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração ao Decreto-Lei n.º 64/95, de 7 de Abril\n\nÉ alterado o artigo 1.º do Decreto-Lei n.º 64/95, de 7 de Abril, que passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n1 - As despesas comuns resultantes da exploração, pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, dos jogos do Totobola, do Totoloto, do Totogolo, da Lotaria Nacional, do JOKER, da Lotaria Instantânea e do EUROMILHÕES são repartidas, respectivamente, na proporção das receitas anualmente arrecadadas em cada uma das modalidades de jogo.\n\n2 - ...»"
+  },
+  "885926542": {
+   "fragment_id": "885927187",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "885926544": {
+   "fragment_id": "885956172",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição e regime de exploração",
+   "in_force_from": "2011-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 2.º — Definição e regime de exploração\n\n1 - Por EUROMILHÕES entende-se um jogo de apostas mútuas no qual os participantes prognosticam cumulativamente o resultado de dois sorteios de números para obter direito a prémios em dinheiro.\n\n2 - O jogo consiste num concurso para a escolha de determinada quantidade de números constantes de duas grelhas existentes nos boletins de apostas ou suporte equivalente, previamente aos respectivos sorteios, que atribui prémios em dinheiro, de acordo com as normas constantes do respectivo regulamento, aprovado por portaria do membro do Governo responsável pela área da segurança social.\n\n3 - A exploração do EUROMILHÕES pode ser efectuada em conjunto com outros países europeus.\n\n4 - O EUROMILHÕES pode ter um ou dois concursos semanais, a definir pela portaria a que se refere o n.º 2, cabendo ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa determinar o local, o dia e a hora em que os respectivos sorteios têm lugar.\n\n5 - Os actos dos sorteios realizam-se na presença de um auditor independente.\n\n6 - O júri dos concursos recebe e guarda em segurança uma cópia dos ficheiros contendo as apostas validamente registadas para cada concurso.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "885926545": {
+   "fragment_id": "885956173",
+   "type": 11,
+   "heading": "Artigo 3.º — Lei reguladora da exploração do jogo",
+   "in_force_from": "2011-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 3.º — Lei reguladora da exploração do jogo\n\nA exploração do EUROMILHÕES rege-se pelo presente diploma, pelo Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro, e pelos Decretos-Leis n.os 84/85, de 28 de Março, 282/2003, de 8 de Novembro, e 235/2008, de 3 de Dezembro, pelo regulamento dos mediadores dos jogos sociais do Estado, aprovado pela Portaria n.º 313/2004, de 23 de Março, e pelo regulamento do jogo previsto no n.º 2 do artigo 2.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "885926546": {
+   "fragment_id": "885927175",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de participação",
+   "in_force_from": "2011-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 5.º — Condições de participação\n\n1 - A participação no EUROMILHÕES processa-se pela inscrição das apostas em bilhetes de modelo adoptado pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa ou pela escolha de números ou de apostas aleatórias, através da plataforma de acesso multicanal, aprovada pelo Decreto-Lei n.º 282/2003, de 8 de Novembro, e pelo pagamento do preço correspondente.\n\n2 - As apostas e o respectivo preço podem ser entregues directamente ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa ou aos mediadores por este autorizados, nos termos do regulamento dos mediadores dos jogos sociais do Estado, aprovado pela Portaria n.º 313/2004, de 23 de Março.\n\n3 - Os mediadores são mandatários dos concorrentes.\n\n4 - As normas gerais de participação no EUROMILHÕES constarão de regulamento próprio, previsto no n.º 2 do artigo 2.º, nomeadamente quanto a:\n\na) Sistema de jogo;\n\nb) Modo de realização das apostas;\n\nc) Valor probatório dos bilhetes;\n\nd) Categorias de prémios, em número superior a um;\n\ne) Modo de divisão da importância destinada a prémios pelas respectivas categorias, bem como a sua distribuição por outras categorias de prémios e a possibilidade de adição dos prémios não atribuídos num concurso ao montante para prémios dos concursos posteriores;\n\nf) Envio e recepção dos ficheiros informáticos do jogo;\n\ng) Fiscalização da exploração do jogo;\n\nh) Preço da aposta;\n\ni) Normas a que obedece o escrutínio de prémios, sua atribuição e respectivos montantes;\n\nj) Divulgação dos resultados;\n\nl) Prazos de caducidade.\n\n5 - A participação no EUROMILHÕES implica a adesão às normas constantes do respectivo regulamento.\n\n6 - No verso dos bilhetes de participação no EUROMILHÕES deverá constar um extracto das suas normas essenciais, nos termos do n.º 4.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "885926547": {
+   "fragment_id": "885927176",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos de fiscalização",
+   "in_force_from": "2011-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 6.º — Órgãos de fiscalização\n\n1 - A recepção e guarda em segurança de cópia dos registos das apostas efectuadas, a comprovação do direito a prémio das apostas registadas através da leitura da cópia de segurança, bem como a deliberação sobre a atribuição de prémios, competem ao júri dos concursos, nos termos dos artigos 30.º, 31.º e 32.º do Decreto-Lei n.º 235/2008, de 3 de Dezembro, e do regulamento previsto no n.º 2 do artigo 2.º\n\n2 - Os actos dos sorteios previstos no n.º 4 do artigo 2.º, bem como o escrutínio e a distribuição de prémios, são fiscalizados no local da sua realização por um auditor independente.\n\n3 - Os jogadores que se considerem prejudicados por qualquer deliberação do júri dos concursos relativa à não atribuição de prémios a que considerem ter direito podem dela reclamar para o júri de reclamações, nos termos dos artigos 35.º, 36.º e 37.º do Decreto-Lei n.º 235/2008, de 3 de Dezembro, dentro dos prazos fixados no regulamento do jogo.\n\n4 - Das decisões do júri de reclamações cabe recurso para o tribunal administrativo de círculo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "885926548": {
+   "fragment_id": "885927178",
+   "type": 11,
+   "heading": "Artigo 8.º — Receita",
+   "in_force_from": "2011-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 8.º — Receita\n\n1 - A receita do EUROMILHÕES é constituída pelo montante total das apostas registadas, nos termos do n.º 1 do artigo 14.º do Decreto-Lei n.º 84/85, de 28 de Março.\n\n2 - Da receita apurada nos termos do número anterior é destinada a prémios a importância correspondente a 50%.\n\n3 - Da receita a que se refere o n.º 1 serão deduzidas:\n\na) A importância correspondente a 1 %, até perfazer um montante máximo de (euro) 150 000 000, para constituição de um fundo destinado ao pagamento de prémios por reclamações procedentes, em conformidade com as normas regulamentares aplicáveis;\n\nb) A importância correspondente a 1%, até perfazer um montante permanente de (euro) 20000000, para constituição de um fundo para renovação e manutenção de equipamento, material e programas.\n\n4 - Os encargos com o início da exploração do EUROMILHÕES são suportados pelos resultados da exploração da Lotaria Nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "885926549": {
+   "fragment_id": "885927181",
+   "type": 11,
+   "heading": "Artigo 11.º — Contra-ordenações",
+   "in_force_from": "2011-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 11.º — Contra-ordenações\n\n1 - Constituem contra-ordenações:\n\na) A promoção, organização ou exploração, independentemente dos meios utilizados, nomeadamente o electrónico, de concursos de apostas mútuas, lotarias ou outros sorteios idênticos ao que o presente diploma regula, com violação do regime de exclusivo estabelecido no artigo 1.º, bem como a emissão, distribuição ou venda dos respectivos bilhetes ou boletins e a publicitação da realização dos sorteios respectivos, quer estes ocorram ou não em território nacional;\n\nb) A realização, independentemente dos meios utilizados, nomeadamente o electrónico, de sorteios publicitários ou promocionais de instituições, bens ou serviços, de qualquer espécie, que habilitem a um prémio em dinheiro ou coisa com valor económico superior a (euro) 25, explorados sob a forma de rifas numeradas ou outros sorteios de números sobre os resultados dos sorteios do EUROMILHÕES, ou sob a forma de bilhetes, que atribuam imediatamente o direito a um prémio ou à possibilidade de ganhar um prémio com base nesse sorteio;\n\nc) A introdução, a venda e ou a distribuição, independentemente dos meios utilizados, nomeadamente o electrónico, no território nacional, dos suportes de participação no jogo EUROMILHÕES de outro Estado;\n\nd) A angariação de apostas para o jogo EUROMILHÕES, ainda que em bilhetes diferentes dos permitidos nos Estados a que respeitem, bem como a publicidade ou qualquer outra forma de prestação de serviços relativa à exploração de jogos estrangeiros similares, incluindo a divulgação regular e periódica dos resultados dos sorteios respectivos;\n\ne) A participação, independentemente dos meios utilizados, nomeadamente o electrónico, em concursos de apostas mútuas ou sorteios idênticos, com violação do regime de exclusivo estabelecido no artigo 1.º, cuja exploração seja punível nos termos das alíneas a) e b);\n\nf) A participação, a partir do território nacional, em concursos de apostas mútuas do tipo EUROMILHÕES ou sorteios similares estrangeiros, cuja exploração seja punível nos termos das alíneas c) e d).\n\n2 - A tentativa e a negligência são puníveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "885926550": {
+   "fragment_id": "885927182",
+   "type": 11,
+   "heading": "Artigo 12.º — Coimas",
+   "in_force_from": "2011-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 12.º — Coimas\n\n1 - As contra-ordenações previstas nas alíneas a) e b) do n.º 1 do artigo anterior são puníveis com coima não inferior a (euro) 500 nem superior ao triplo do presumível valor global angariado com a organização do jogo, quando mais elevado que aquele limite, até ao máximo de (euro) 3740, para pessoas singulares, e coima mínima não inferior a (euro) 2000, nem superior ao triplo do presumível valor global angariado com a organização do jogo, quando mais elevado que aquele limite, num montante máximo de (euro) 44890, para pessoas colectivas.\n\n2 - As contra-ordenações previstas nas alíneas c) e d) do n.º 1 do artigo anterior são puníveis com coima mínima de (euro) 1000 e máxima até ao triplo do presumível valor total das operações referidas, até ao limite máximo de (euro) 3740, para pessoas singulares, e coima não inferior a (euro) 2500 e máxima até ao triplo do presumível valor total das referidas operações, num montante máximo de (euro) 44 890, para pessoas colectivas.\n\n3 - As contra-ordenações previstas nas alíneas e) e f) do n.º 1 do artigo anterior são puníveis com coima não inferior a (euro) 75 ou ao dobro do valor da aposta, quando mais elevado do que aquele valor, até ao limite máximo de (euro) 250.\n\n4 - Na determinação da medida da coima deve atender-se, nomeadamente, ao lucro que, directa ou indirectamente, o promotor do jogo esperava obter com o recurso ao mesmo, em termos de numerário arrecadado ou em termos de aumentos de vendas.\n\n5 - Os montantes mínimos e máximos são reduzidos para um terço em caso de negligência.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "885926551": {
+   "fragment_id": "885927183",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": "2011-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\n1 - Podem ser aplicadas as seguintes sanções acessórias às contra-ordenações estabelecidas nas alíneas a) a f) do n.º 1 do artigo 11.º:\n\na) A apreensão e perda de bens, incluindo meios de transporte, ou valores utilizados para a perpetração da infracção ou dela resultantes, incluindo os destinados a prémios ou que como tal hajam sido distribuídos;\n\nb) O encerramento do estabelecimento onde tal actividade se realize e cujo funcionamento esteja sujeito a autorização ou licenciamento de autoridade administrativa;\n\nc) A interdição de exploração de qualquer actividade relativa aos jogos sociais do Estado durante um período máximo de dois anos, nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro.\n\n2 - Quando entre os títulos de jogo apreendidos se encontre algum com direito a prémio, o mesmo deverá ser recebido, integrando o valor dos bens apreendidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "885926552": {
+   "fragment_id": "885927184",
+   "type": 11,
+   "heading": "Artigo 14.º — Processo e competência contra-ordenacional",
+   "in_force_from": "2011-03-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 14.º — Processo e competência contra-ordenacional\n\n1 - Compete ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa a apreciação e a aplicação de coimas e de sanções acessórias dos processos de contra-ordenação que sejam instaurados no âmbito do presente decreto-lei.\n\n2 - A instrução dos processos segue o disposto no Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro, e compete ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n3 - O produto das coimas e da venda dos bens e valores apreendidos integrará o resultado líquido da exploração do EUROMILHÕES, ainda que cobrado em juízo.\n\n4 - O pagamento da coima aplicada será efectuado ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "885926543": {
+   "fragment_id": "885927188",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Julho de 2004. - Maria Manuela Dias Ferreira Leite - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Luís Filipe Pereira - António José de Castro Bagão Félix.\n\nPromulgado em 2 de Agosto de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Agosto de 2004.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  },
+  "885927377": {
+   "fragment_id": "885956172",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição e regime de exploração",
+   "in_force_from": "2016-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43/2016 - Diário da República n.º 156/2016, Série I de 2016-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), em vigor a partir de 2016-09-24",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 2.º — Definição e regime de exploração\n\n1 - Por EUROMILHÕES entende-se um jogo de apostas mútuas no qual os participantes prognosticam cumulativamente o resultado de dois sorteios de números para obter direito a prémios em dinheiro.\n\n2 - O jogo consiste num concurso para a escolha de determinada quantidade de números constantes de duas grelhas existentes nos boletins de apostas ou suporte equivalente, previamente aos respectivos sorteios, que atribui prémios em dinheiro, de acordo com as normas constantes do respectivo regulamento, aprovado por portaria do membro do Governo responsável pela área da segurança social.\n\n3 - O EUROMILHÕES é um jogo nacional que pode ser explorado de forma coordenada com outros países europeus.\n\n4 - O EUROMILHÕES pode ter um ou dois concursos semanais, a definir pela portaria a que se refere o n.º 2, cabendo ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa determinar o local, o dia e a hora em que os respectivos sorteios têm lugar.\n\n5 - Os actos dos sorteios realizam-se na presença de um auditor independente.\n\n6 - O júri dos concursos recebe e guarda em segurança uma cópia dos ficheiros contendo as apostas validamente registadas para cada concurso.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43/2016 - Diário da República n.º 156/2016, Série I de 2016-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), em vigor a partir de 2016-09-24\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "885927378": {
+   "fragment_id": "885927175",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de participação",
+   "in_force_from": "2016-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43/2016 - Diário da República n.º 156/2016, Série I de 2016-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), em vigor a partir de 2016-09-24",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 5.º — Condições de participação\n\n1 - A participação no EUROMILHÕES processa-se pela inscrição das apostas em bilhetes de modelo adoptado pelo Departamento de Jogos da Santa Casa da Misericórdia de Lisboa ou pela escolha de números ou de apostas aleatórias, através da plataforma de acesso multicanal, aprovada pelo Decreto-Lei n.º 282/2003, de 8 de Novembro, e pelo pagamento do preço correspondente.\n\n2 - As apostas e o respectivo preço podem ser entregues directamente ao Departamento de Jogos da Santa Casa da Misericórdia de Lisboa ou aos mediadores por este autorizados, nos termos do regulamento dos mediadores dos jogos sociais do Estado, aprovado pela Portaria n.º 313/2004, de 23 de Março.\n\n3 - Os mediadores são mandatários dos concorrentes.\n\n4 - As normas gerais de participação no EUROMILHÕES constarão de regulamento próprio, previsto no n.º 2 do artigo 2.º, nomeadamente quanto a:\n\na) Sistema de jogo;\n\nb) Modo de realização das apostas;\n\nc) Valor probatório dos bilhetes;\n\nd) Categorias de prémios, em número superior a um;\n\ne) Modo de divisão da importância destinada a prémios pelas respectivas categorias, bem como a sua distribuição por outras categorias de prémios e a possibilidade de adição dos prémios não atribuídos num concurso ao montante para prémios dos concursos posteriores;\n\nf) Envio e recepção dos ficheiros informáticos do jogo;\n\ng) Fiscalização da exploração do jogo;\n\nh) Preço da aposta;\n\ni) Normas a que obedece o escrutínio de prémios, sua atribuição e respectivos montantes;\n\nj) Divulgação dos resultados;\n\nl) Prazos de caducidade.\n\n5 - A participação no EUROMILHÕES implica a adesão às normas constantes do respectivo regulamento.\n\n6 - No verso dos bilhetes de participação no EUROMILHÕES deverá constar um extracto das suas normas essenciais, nos termos do n.º 4.\n\n7 - A participação no EUROMILHÕES implica a participação no «Totosorteio» e o pagamento do respetivo preço, para além do pagamento das apostas realizadas no EUROMILHÕES.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43/2016 - Diário da República n.º 156/2016, Série I de 2016-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), em vigor a partir de 2016-09-24\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "885927379": {
+   "fragment_id": "885927178",
+   "type": 11,
+   "heading": "Artigo 8.º — Receita",
+   "in_force_from": "2016-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43/2016 - Diário da República n.º 156/2016, Série I de 2016-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), em vigor a partir de 2016-09-24",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 8.º — Receita\n\n1 - A receita do EUROMILHÕES é constituída pelo montante total das apostas registadas neste jogo, nos termos do n.º 1 do artigo 14.º do Decreto-Lei n.º 84/85, de 28 de março.\n\n2 - Da receita apurada nos termos do número anterior é destinada a prémios a importância correspondente a 50%.\n\n3 - Da receita a que se refere o n.º 1 serão deduzidas:\n\na) A importância correspondente a 1 %, até perfazer um montante máximo de (euro) 150 000 000, para constituição de um fundo destinado ao pagamento de prémios por reclamações procedentes, em conformidade com as normas regulamentares aplicáveis;\n\nb) A importância correspondente a 1%, até perfazer um montante permanente de (euro) 20000000, para constituição de um fundo para renovação e manutenção de equipamento, material e programas.\n\n4 - Os encargos com o início da exploração do EUROMILHÕES são suportados pelos resultados da exploração da Lotaria Nacional.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43/2016 - Diário da República n.º 156/2016, Série I de 2016-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), em vigor a partir de 2016-09-24\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "928935396": {
+   "fragment_id": "885927176",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos de fiscalização",
+   "in_force_from": "2025-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2025 - Diário da República n.º 155/2025, Série I de 2025-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2025-928803702), em vigor a partir de 2025-08-14",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 6.º — Órgãos de fiscalização\n\n1 - A recepção e guarda em segurança de cópia dos registos das apostas efectuadas, a comprovação do direito a prémio das apostas registadas através da leitura da cópia de segurança, bem como a deliberação sobre a atribuição de prémios, competem ao júri dos concursos, nos termos dos artigos 30.º, 31.º e 32.º do Decreto-Lei n.º 235/2008, de 3 de Dezembro, e do regulamento previsto no n.º 2 do artigo 2.º\n\n2 - Os atos dos sorteios previstos no n.º 4 do artigo 2.º são fiscalizados por um auditor independente.\n\n3 - Os jogadores que se considerem prejudicados por qualquer deliberação do júri dos concursos relativa à não atribuição de prémios a que considerem ter direito podem dela reclamar para o júri de reclamações, nos termos dos artigos 35.º, 36.º e 37.º do Decreto-Lei n.º 235/2008, de 3 de Dezembro, dentro dos prazos fixados no regulamento do jogo.\n\n4 - Das decisões do júri de reclamações cabe recurso para o tribunal administrativo de círculo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2025 - Diário da República n.º 155/2025, Série I de 2025-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2025-928803702), em vigor a partir de 2025-08-14\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  },
+  "928935397": {
+   "fragment_id": "885927178",
+   "type": 11,
+   "heading": "Artigo 8.º — Receita",
+   "in_force_from": "2025-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2025 - Diário da República n.º 155/2025, Série I de 2025-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2025-928803702), em vigor a partir de 2025-08-14",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43/2016 - Diário da República n.º 156/2016, Série I de 2016-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), em vigor a partir de 2016-09-24",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+   ],
+   "markdown": "###### Artigo 8.º — Receita\n\n1 - A receita do EUROMILHÕES é constituída pelo montante total das apostas registadas neste jogo, nos termos do n.º 1 do artigo 14.º do Decreto-Lei n.º 84/85, de 28 de março.\n\n2 - Da receita apurada nos termos do número anterior é destinada a prémios a importância correspondente a 50%.\n\n3 - Da receita a que se refere o n.º 1 serão deduzidas:\n\na) A importância correspondente a 1 %, até perfazer um montante máximo de € 75 000 000, para constituição de um fundo destinado ao pagamento de prémios por reclamações procedentes, em conformidade com as normas regulamentares aplicáveis;\n\nb) A importância correspondente a 1%, até perfazer um montante permanente de (euro) 20000000, para constituição de um fundo para renovação e manutenção de equipamento, material e programas.\n\n4 - Os encargos com o início da exploração do EUROMILHÕES são suportados pelos resultados da exploração da Lotaria Nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 91/2025 - Diário da República n.º 155/2025, Série I de 2025-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2025-928803702), em vigor a partir de 2025-08-14\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43/2016 - Diário da República n.º 156/2016, Série I de 2016-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2016-75150220), em vigor a partir de 2016-09-24\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-25"
+  }
+ }
+}

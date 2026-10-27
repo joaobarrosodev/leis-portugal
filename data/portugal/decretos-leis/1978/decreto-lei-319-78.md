@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:327314:por
+title: Decreto-Lei n.º 319/78
+short_title: null
+summary: Autoriza as indústrias de tabaco das Regiões Autónomas dos Açores e da Madeira a colocar no mercado continental,
+  em regime preferencial de preço, um contingente máximo anual de tabaco manufacturado em qualquer daquelas regiões
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento
+proposing_entity: null
+official_number: 319/78
+official_date: null
+publication_date: '1978-11-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 254/1978, Série I de 1978-11-04
+  number: '254'
+  series: I
+  supplement: null
+  pages: 2322 - 2323
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/11/25400/23222323.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '327314'
+  dre_path: /dr/detalhe/decreto-lei/319-1978-327314
+  internal: pt:dre:327314:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1978-327314
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1978-327314
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:14:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 96fa77b77cc42814179db1212622eede9e7110416062b1a858a4aa612a4e57d7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:14:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Tabaco
+relationships:
+- type: cites
+  target: pt:dre:391636:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:14:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 319/78
+
+de 4 de Novembro
+
+A harmonização do regime tributário do tabaco, a que se procedeu com a publicação do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, poderia criar algumas dificuldades às indústrias tabaqueiras das regiões autónomas, especialmente à dos Açores, pela impossibilidade real de poder manter-se, com alguma vantagem, a colocação dos seus produtos no mercado continental.
+
+Nestas condições, pretendendo evitar os inconvenientes de uma súbita quebra de vendas, ao mesmo tempo que se tem em vista contribuir para o desenvolvimento económico das regiões autónomas, é indispensável que se tomem medidas complementares de auxílio àquelas indústrias.
+
+Assim, mediante subsídio do Estado, concede-se às indústrias tabaqueiras regionais a possibilidade de colocar os seus produtos no continente, dentro de limites anuais fixados, com a vantagem adicional de se lhes assegurar preços de venda ligeiramente inferiores aos estabelecidos para o tabaco equivalente, embora de diferente qualidade, produzido pela indústria continental.
+
+Finalmente, o regime agora criado permitirá também compensar as câmaras municipais e outras pessoas colectivas de direito público das regiões autónomas, que no anterior regime tabaqueiro auferiam receitas provenientes de taxas sobre o tabaco.
+
+Aquando da elaboração do presente diploma foram ouvidos os órgãos de governo das regiões autónomas, nos termos do n.º 2 do artigo 231.º da Constituição.
+
+Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - As indústrias de tabaco das Regiões Autónomas dos Açores e da Madeira poderão colocar no mercado continental, em regime preferencial de preço, um contingente máximo anual de tabaco manufacturado em qualquer daquelas regiões.
+
+2 - O contingente relativo à Região Autónoma dos Açores, que não poderá exceder 20 milhões de maços de 20 ou 24 cigarros, será fixado anualmente por despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Tecnologia, tendo em conta a evolução da produção do tabaco em folha naquela Região e o comportamento do mercado continental.
+
+3 - O contingente relativo à Região Autónoma da Madeira será, em cada ano, igual a metade do quantitativo fixado de harmonia com o disposto no número anterior.
+
+Art. 2.º - 1 - O preço de venda ao público do tabaco a que se refere o artigo anterior será inferior em um escudo ao preço de venda ao público do tabaco equivalente manufacturado no continente.
+
+2 - Considera-se equivalente, para efeitos do número anterior, o tabaco que pertencer à mesma categoria e tipo fiscal.
+
+3 - As margens de comercialização no continente do tabaco a que se refere o artigo anterior não poderão ser superiores às estabelecidas no despacho conjunto previsto no artigo 36.º do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, para o tabaco fabricado no continente e destinado a consumo neste território.
+
+4 - As margens de comercialização referidas no número anterior não abrangem as despesas de transporte e seguro entre as regiões autónomas e o continente.
+
+Art. 3.º A execução do regime previsto nos artigos antecedentes é assegurada mediante a inscrição anual no Orçamento Geral do Estado de subsídios a transferir para as empresas regionais produtoras de tabaco, através dos orçamentos das regiões autónomas respectivas.
+
+Art. 4.º - 1 - Dos subsídios a que se refere o artigo anterior será transferida mensalmente a parte que corresponder à quantidade do tabaco, por categorias e tipos fiscais, colocada no continente no mês anterior.
+
+2 - Sem prejuízo do disposto no número antecedente, será transferido, logo no início de cada ano, um duodécimo de cada uma das verbas a que se refere o artigo 3.º
+
+3 - Logo que seja liquidada a verba correspondente ao movimento de Dezembro de cada ano, as regiões autónomas promoverão a imediata reposição nos cofres do Estado de fundos não utilizados.
+
+Art. 5.º A repartição por categorias e tipos fiscais do volume global do tabaco sujeito anualmente ao presente regime, bem como as consequentes verbas a inscrever na proposta do Orçamento Geral do Estado, serão determinadas pelo despacho a que se refere o n.º 2 do artigo 1.º, sob parecer de uma comissão composta por representantes das Secretarias de Estado do Orçamento e das Indústrias Extractivas e Transformadoras e de cada um dos governos regionais.
+
+Art. 6.º - 1 - A importância a entregar a cada empresa regional produtora do tabaco abrangido pelo presente regime será a necessária e suficiente para lhe assegurar que a colocação do referido tabaco no mercado continental lhe proporcionará a mesma receita bruta unitária que essa empresa usufruiria se colocasse o mesmo produto nos mercados regionais respectivos.
+
+2 - Por receita bruta unitária do tabaco fabricado e vendido nos mercados regionais entende-se, para cada categoria e tipo de tabaco, o valor resultante da dedução, ao preço de venda ao público, de cada maço de cigarros, do respectivo imposto de consumo e da correspondente margem de comercialização fixada, nos termos legais, para as ilhas de fabrico.
+
+Art. 7.º - 1 - Para compensação da perda de receitas provenientes de taxas sobre o tabaco auferidas no anterior regime tabaqueiro pelas entidades referidas no número seguinte, o Estado entregará mensalmente às Regiões Autónomas dos Açores ou da Madeira as importâncias de 12$80 por cada 50 maços de tabaco entrado no mercado continental ao abrigo do presente regime.
+
+2 - Os governos regionais providenciarão no sentido de ao valor referido no número anterior ser dado o seguinte destino:
+
+Câmaras municipais ... 6$00
+
+Juntas antónomas dos portos ... 1$30
+
+Instituto Nacional de Assistência aos Tuberculosos ... 1$50
+
+Comissões distritais de assistência ... 4$00
+
+3 - Para os fins previstos no presente artigo serão inscritas no Orçamento Geral do Estado as necessárias dotações, a propor pela comissão referida no artigo 5.º
+
+Art. 8.º As verbas a inscrever no Orçamento Geral do Estado para execução, no corrente ano, do presente decreto-lei terão a sua cobertura assegurada pela provisão descrita, no corrente ano, no orçamento do Ministério das Finanças e do Plano.
+
+Art. 9.º Este diploma é aplicável ao tabaco colocado no mercado continental ao abrigo do regime instituído pelo [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho.
+
+Art. 10.º O contrôle da execução do presente regime é da competência da Direcção-Geral das Alfândegas, em cujo orçamento serão inscritas as verbas previstas neste decreto-lei.
+
+Art. 11.º As dúvidas sobre a interpretação deste decreto-lei serão resolvidas por despacho conjunto do Ministro das Finanças e do Plano e do Ministro da República para a região autónoma respectiva.
+
+Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - Maria Manuela Matos Morgado Santiago Baptista - Fernando Augusto dos Santos Martins.
+
+Promulgado em 26 de Outubro de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

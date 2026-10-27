@@ -1,0 +1,1400 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:248247:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2008-34455675",
+ "dre_path": "/dr/detalhe/lei/4-2008-248247",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-02-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175120328",
+    "50875375",
+    "50875475",
+    "50875575",
+    "50875675",
+    "50875775",
+    "50875875",
+    "50875975",
+    "50876075",
+    "50876175",
+    "50876275",
+    "50876375",
+    "50876475",
+    "50876575",
+    "50876675",
+    "50876775",
+    "50876875",
+    "50876975",
+    "50877075",
+    "50877175",
+    "50877275",
+    "50877375",
+    "50877475",
+    "50877575"
+   ]
+  },
+  {
+   "date": "2009-09-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:489755:por",
+     "title": "Lei n.º 105/2009",
+     "published": "2009-09-14",
+     "dre_path": "/dr/detalhe/lei/105-2009-489755"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-A"
+   ],
+   "fragments": [
+    "50875275",
+    "50875375",
+    "50875475",
+    "50875575",
+    "50875675",
+    "50875775",
+    "50875875",
+    "50875975",
+    "50876075",
+    "50876175",
+    "50876275",
+    "56371616",
+    "56371617",
+    "56371618",
+    "56371619",
+    "56371620",
+    "56371621",
+    "56371622",
+    "56371623",
+    "56371624",
+    "56371625",
+    "56371626",
+    "56371627",
+    "56371628",
+    "56371629",
+    "56371630"
+   ]
+  },
+  {
+   "date": "2011-07-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670003:por",
+     "title": "Lei n.º 28/2011",
+     "published": "2011-06-16",
+     "dre_path": "/dr/detalhe/lei/28-2011-670003"
+    }
+   ],
+   "changes": [
+    "Adita Capítulo I",
+    "Adita Artigo 1.º-A",
+    "Adita Artigo 1.º-B",
+    "Adita Capítulo II",
+    "Adita Capítulo III",
+    "Adita Artigo 21.º-A",
+    "Adita Artigo 21.º-B",
+    "Adita Artigo 21.º-C",
+    "Adita Artigo 21.º-D",
+    "Adita Artigo 21.º-E",
+    "Adita Capítulo IV",
+    "Adita Artigo 21.º-F",
+    "Altera Artigo 1.º",
+    "Altera Artigo 1.º-A",
+    "Altera Artigo 1.º-B",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 21.º-A",
+    "Altera Artigo 21.º-B",
+    "Altera Artigo 21.º-C",
+    "Altera Artigo 21.º-D",
+    "Altera Artigo 21.º-E",
+    "Altera Artigo 21.º-F",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 10.º-A",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 23.º"
+   ],
+   "fragments": [
+    "50875275",
+    "56379601",
+    "56386389",
+    "56379638",
+    "56379639",
+    "56386391",
+    "56386392",
+    "56386394",
+    "56379646",
+    "56386378",
+    "56386379",
+    "56386396",
+    "56386399",
+    "56386400",
+    "56386381",
+    "56386384",
+    "56386401",
+    "56386402",
+    "56386403",
+    "56386404",
+    "56386405",
+    "56381186",
+    "56381187",
+    "56386385",
+    "56381189",
+    "56386406",
+    "56381191",
+    "56386407",
+    "56381203",
+    "56381204",
+    "56381205",
+    "56381207",
+    "56381208",
+    "56381209",
+    "56384174",
+    "56386375",
+    "56386387",
+    "56381213"
+   ]
+  },
+  {
+   "date": "2019-02-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:120272924:por",
+     "title": "Lei n.º 22/2019",
+     "published": "2019-02-26",
+     "dre_path": "/dr/detalhe/lei/22-2019-120272924"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º-A"
+   ],
+   "fragments": [
+    "50875275",
+    "56379601",
+    "56386389",
+    "56379638",
+    "56379639",
+    "56386391",
+    "56386392",
+    "56386394",
+    "56379646",
+    "56386378",
+    "56386379",
+    "56386396",
+    "56386399",
+    "56386400",
+    "56386381",
+    "56386384",
+    "56386401",
+    "56386402",
+    "56386403",
+    "56386404",
+    "56386405",
+    "56381186",
+    "56381187",
+    "56386385",
+    "56381189",
+    "56386406",
+    "56381191",
+    "56386407",
+    "120310500",
+    "56381204",
+    "56381205",
+    "56381207",
+    "56381208",
+    "56381209",
+    "56384174",
+    "56386375",
+    "56386387",
+    "56381213"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175043505:por",
+     "title": "Decreto-Lei n.º 105/2021",
+     "published": "2021-11-29",
+     "dre_path": "/dr/detalhe/decreto-lei/105-2021-175043505"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "175120328",
+    "175120329",
+    "175120330",
+    "175120331",
+    "175120332",
+    "175120333",
+    "175120334",
+    "175120335",
+    "175120336",
+    "175120337",
+    "175120338",
+    "175120339",
+    "175120340",
+    "175120341",
+    "175120342",
+    "175120343",
+    "175120344",
+    "175120345",
+    "175120346",
+    "175120347",
+    "175120348",
+    "175120349",
+    "175120350",
+    "175120351",
+    "175120352",
+    "175120353",
+    "175120354",
+    "175120355",
+    "175120356",
+    "175120357",
+    "175120358",
+    "175120359",
+    "175120360",
+    "175120361",
+    "175120362",
+    "175120363",
+    "175120364",
+    "175120365"
+   ]
+  }
+ ],
+ "fragments": {
+  "175120328": {
+   "fragment_id": "35075475",
+   "type": 15,
+   "heading": "Diploma — Aprova o regime dos contratos de trabalho dos profissionais de espectáculos",
+   "in_force_from": "2022-01-01",
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505) As disposições previstas no capítulo v do Estatuto produzem efeitos a partir do dia 1 de julho de 2022, com exceção do disposto nos artigos 45.º e 49.º do Estatuto, que produz efeitos a partir de 1 de outubro de 2022."
+  },
+  "50875375": {
+   "fragment_id": "36076975",
+   "type": 11,
+   "heading": "Artigo 1.º — Contrato de trabalho do artista de espectáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Contrato de trabalho do artista de espectáculos\n\n1 - A presente lei regula o contrato de trabalho especial entre uma pessoa que desenvolve uma actividade artística destinada a espectáculos públicos e a entidade produtora ou organizadora desses espectáculos.\n\n2 - Para efeitos da presente lei, são consideradas artísticas, nomeadamente, as actividades de actor, artista circense ou de variedades, bailarino, cantor, coreógrafo, encenador, realizador, cenógrafo, figurante, maestro, músico, toureiro, desde que exercidas com carácter regular.\n\n3 - Para efeitos da presente lei, são considerados espectáculos públicos os que se realizam perante o público e ainda os que se destinam a gravação de qualquer tipo para posterior difusão pública, nomeadamente em teatro, cinema, radiodifusão, televisão ou outro suporte áudio-visual, Internet, praças de touros, circos ou noutro local destinado a actuações ou exibições artísticas.\n\n4 - A presente lei não se aplica às actuações artísticas não destinadas ao público ou ocasionais.\n\n5 - O contrato de trabalho do pessoal técnico e auxiliar que colabora na produção do espectáculo público sujeita-se à presente lei apenas nas matérias previstas nos artigos 12.º a 17.º"
+  },
+  "50875475": {
+   "fragment_id": "36077075",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime aplicável\n\n1 - Em tudo o que não estiver previsto na presente lei aplica-se o disposto no Código do Trabalho e na respectiva regulamentação.\n\n2 - Em especial, são aplicáveis ao contrato de trabalho regulado na presente lei as normas sobre a participação de menores em espectáculos e outras actividades, estabelecidas na Lei n.º 35/2004, de 29 de Julho."
+  },
+  "50875575": {
+   "fragment_id": "36077175",
+   "type": 11,
+   "heading": "Artigo 3.º — Inscrição facultativa dos artistas de espectáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Inscrição facultativa dos artistas de espectáculos\n\n1 - Os artistas de espectáculos abrangidos pela presente lei podem inscrever-se em registo próprio organizado pelos serviços competentes do ministério responsável pela área da cultura, com vista a contribuir para a sua valorização profissional e técnica, nos termos a definir por portaria do Ministro da Cultura.\n\n2 - Presume-se que exercem com carácter regular a actividade de artista de espectáculos os trabalhadores inscritos nos termos do número anterior.\n\n3 - A inscrição confere um título profissional emitido pelos serviços competentes do ministério responsável pela área da cultura.\n\n4 - A inscrição é válida pelo período de cinco anos, podendo ser renovada, mediante solicitação do interessado.\n\n5 - A inscrição pode ser anulada pelos serviços competentes do ministério responsável pela área da cultura nos termos a definir na portaria referida no n.º 1."
+  },
+  "50875675": {
+   "fragment_id": "36077275",
+   "type": 11,
+   "heading": "Artigo 4.º — Trabalho de estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Trabalho de estrangeiros\n\nPara efeitos da lei que define as condições e procedimentos de entrada, permanência, saída e afastamento de cidadãos estrangeiros do território português, presume-se que os artistas de espectáculos realizam actividades altamente qualificadas."
+  },
+  "50875775": {
+   "fragment_id": "36077375",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidades de contrato de trabalho dos artistas de espectáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modalidades de contrato de trabalho dos artistas de espectáculos\n\nO contrato de trabalho dos artistas de espectáculos reveste as modalidades de contrato por tempo indeterminado ou de contrato a termo resolutivo, certo ou incerto."
+  },
+  "50875875": {
+   "fragment_id": "36077475",
+   "type": 11,
+   "heading": "Artigo 6.º — Presunção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Presunção\n\nPresume-se que existe um contrato de trabalho sempre que o artista de espectáculos esteja na dependência económica da entidade produtora ou organizadora dos espectáculos e realize a sua prestação sob a direcção e fiscalização desta, mediante retribuição."
+  },
+  "50875975": {
+   "fragment_id": "36077575",
+   "type": 11,
+   "heading": "Artigo 7.º — Contrato a termo para o desempenho de actividade artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contrato a termo para o desempenho de actividade artística\n\n1 - É admitida a celebração de contrato de trabalho a termo resolutivo, certo ou incerto, para o desempenho das actividades enunciadas no n.º 2 do artigo 1.º\n\n2 - O contrato de trabalho a termo resolutivo certo tem a duração que as partes estipularem e apenas pode ser sujeito a renovação se as partes assim o estipularem expressamente.\n\n3 - O contrato de trabalho a termo certo para o desempenho de actividade artística tem a duração máxima de oito anos, não lhe sendo aplicável o regime previsto no Código do Trabalho em matéria de contratos sucessivos, limite de renovações e agravamento da taxa contributiva global.\n\n4 - Independentemente da duração dos contratos previstos neste artigo, o gozo das férias tem lugar antes da cessação daqueles, salvo acordo das partes."
+  },
+  "50876075": {
+   "fragment_id": "36077675",
+   "type": 11,
+   "heading": "Artigo 8.º — Exercício intermitente da prestação de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exercício intermitente da prestação de trabalho\n\n1 - Quando os espectáculos públicos não apresentem carácter de continuidade, pode ser acordado o exercício intermitente da prestação de trabalho, nos termos dos números seguintes.\n\n2 - Aquando da celebração ou durante a vigência de um contrato de trabalho por tempo indeterminado, as partes podem acordar na sua sujeição, temporária ou definitiva, ao exercício intermitente da prestação de trabalho.\n\n3 - Para efeitos do disposto no número anterior, os tempos de trabalho efectivo correspondem à duração, promoção e preparação dos espectáculos públicos, aos tempos de deslocação quando se trate de espectáculos itinerantes e os tempos de não trabalho correspondem aos períodos de inactividade.\n\n4 - Durante os períodos de inactividade, o trabalhador mantém a disponibilidade para iniciar a sua prestação de trabalho desde que seja convocado pelo empregador com uma antecedência mínima de 30 dias ou nos termos previstos no contrato de trabalho ou no acordo referido no n.º 2.\n\n5 - Nos períodos de inactividade, mantêm-se os direitos, deveres e garantias das partes que não pressuponham a prestação efectiva de trabalho.\n\n6 - Durante os períodos de inactividade, o trabalhador tem direito:\n\na) A uma compensação retributiva de valor não inferior a 30 % ou 50 % da retribuição normal correspondente ao último período de trabalho efectivo consoante lhe seja ou não permitido exercer outras actividades;\n\nb) Aos complementos retributivos, designadamente subsídios de férias e de Natal, calculados com base no valor previsto para a retribuição correspondente ao último período de trabalho efectivo.\n\n7 - Durante os períodos de inactividade o empregador fica obrigado a:\n\na) Pagar pontualmente a compensação retributiva;\n\nb) Não admitir novos trabalhadores ou renovar contratos para actividades artísticas susceptíveis de poderem ser desempenhadas pelo trabalhador em situação de inactividade."
+  },
+  "50876175": {
+   "fragment_id": "36077775",
+   "type": 11,
+   "heading": "Artigo 9.º — Pluralidade de trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pluralidade de trabalhadores\n\n1 - O empregador pode celebrar um contrato de trabalho com pluralidade de trabalhadores para a prestação de uma actividade artística em grupo.\n\n2 - O contrato a que se refere o número anterior pode ser outorgado directamente pelos trabalhadores ou através de representante comum, designado por chefe do grupo, com a indicação individualizada de todos os trabalhadores.\n\n3 - A outorga de poderes de representação ao chefe do grupo, para os efeitos previstos no número anterior, carece de forma escrita.\n\n4 - O contrato de trabalho com pluralidade de trabalhadores pode ser celebrado por tempo indeterminado, a termo certo ou incerto ou em regime de intermitência.\n\n5 - Da celebração do contrato de trabalho em grupo decorrem tantos vínculos laborais quantos os trabalhadores que integram o grupo.\n\n6 - Quando o contrato de trabalho para a prestação de actividade artística em grupo é celebrado a termo, a verificação deste implica a extinção dos vínculos laborais de todos os membros do grupo.\n\n7 - A impossibilidade de prestação da actividade artística por um dos elementos contratados não implica a extinção do contrato de trabalho com os demais, salvo quando tal situação impossibilite a continuação da actividade.\n\n8 - Nas situações em que o contrato de trabalho seja outorgado através de representante comum, fica o empregador obrigado a entregar a cada um dos trabalhadores cópia do contrato."
+  },
+  "50876275": {
+   "fragment_id": "36077875",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma do contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma do contrato de trabalho\n\n1 - O contrato de trabalho do artista de espectáculos está sujeito a forma escrita.\n\n2 - Os requisitos de forma previstos no Código do Trabalho para o contrato de trabalho a termo são aplicáveis, com as necessárias adaptações, aos contratos a que se refere o artigo 7.º\n\n3 - O acordo para o exercício intermitente da prestação de trabalho, nos termos do n.º 2 do artigo 8.º, deve ser assinado por ambas as partes e conter menção expressa do regime de intermitência, da data da celebração do acordo e a do início da produção dos respectivos efeitos, do período temporal a que respeita, dos períodos mínimos de trabalho efectivo e respectiva retribuição, bem como a retribuição para os períodos de inactividade, ficando cada uma com um exemplar.\n\n4 - Os efeitos do acordo referido no número anterior podem cessar por decisão do trabalhador até ao 7.º dia seguinte à data da respectiva celebração, mediante comunicação escrita.\n\n5 - O contrato de trabalho com pluralidade de trabalhadores deve conter menção expressa da remuneração e regime de cada um dos trabalhadores."
+  },
+  "50876375": {
+   "fragment_id": "36077975",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos e deveres especiais do trabalhador artista de espectáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos e deveres especiais do trabalhador artista de espectáculos\n\n1 - O trabalhador está sujeito a um dever especial de diligência no que respeita à realização e organização do espectáculo público.\n\n2 - Quando a actividade artística é desenvolvida em grupo, o trabalhador tem um especial dever de colaboração com os restantes membros do grupo, tendo em vista a execução da actividade em comum.\n\n3 - O trabalhador tem direito à ocupação efectiva quanto à realização de ensaios e demais actividades preparatórias do espectáculo público, não podendo ser excluído destas actividades sem justificação.\n\n4 - O empregador deve respeitar a autonomia da direcção, supervisão e realização artísticas do espectáculo, abstendo-se de nelas interferir.\n\n5 - As partes podem estabelecer, por escrito, que o trabalhador realiza a sua actividade artística em exclusivo para o empregador, mediante a fixação de uma compensação adequada para a prestação do trabalho em regime de exclusividade."
+  },
+  "50876475": {
+   "fragment_id": "36078075",
+   "type": 11,
+   "heading": "Artigo 12.º — Tempo de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Tempo de trabalho\n\n1 - Considera-se tempo de trabalho o período de prestação efectiva da actividade artística perante o público ou equivalente, nos termos do n.º 3 do artigo 1.º, bem como todo o tempo em que o artista de espectáculos está adstrito à realização da sua prestação, em especial para efeitos de ensaios, pesquisa, estudo, actividades promocionais e de divulgação, ou outros trabalhos preparatórios do espectáculo.\n\n2 - Ainda integram o tempo de trabalho as interrupções e os intervalos previstos como tal no Código do Trabalho ou em instrumento de regulamentação colectiva."
+  },
+  "50876575": {
+   "fragment_id": "36078175",
+   "type": 11,
+   "heading": "Artigo 13.º — Período normal de trabalho e descanso semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Período normal de trabalho e descanso semanal\n\n1 - O contrato de trabalho do artista de espectáculos sujeita-se ao regime previsto no Código do Trabalho para o período normal de trabalho, a adaptabilidade do tempo de trabalho e o direito ao descanso diário e semanal, com a especificidade constante do número seguinte.\n\n2 - Os dias de descanso semanal obrigatório e complementar podem não coincidir com o domingo ou o sábado, respectivamente.\n\n3 - Por conveniência da organização do espectáculo, a compensação por trabalho prestado nos dias de descanso complementar do trabalhador deve efectuar-se no prazo máximo de seis meses."
+  },
+  "50876675": {
+   "fragment_id": "36078275",
+   "type": 11,
+   "heading": "Artigo 14.º — Horário de trabalho e intervalos de descanso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Horário de trabalho e intervalos de descanso\n\n1 - O contrato de trabalho do artista de espectáculos sujeita-se ao regime previsto no Código do Trabalho no que respeita ao horário de trabalho e aos intervalos de descanso semanal, com a especificidade constante do número seguinte.\n\n2 - Salvo convenção em contrário, na determinação do horário de trabalho o empregador pode estabelecer um ou mais intervalos de descanso ou um regime de trabalho descontínuo adequado à especificidade da actividade ou do espectáculo ou ainda um horário de trabalho de início variável, denominado horário à tabela."
+  },
+  "50876775": {
+   "fragment_id": "36078375",
+   "type": 11,
+   "heading": "Artigo 15.º — Trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Trabalho nocturno\n\nO trabalho nocturno dos trabalhadores de espectáculos é o prestado no intervalo entre as 0 e as 5 horas, sem prejuízo do estabelecimento de regime mais favorável por instrumento de regulamentação colectiva de trabalho."
+  },
+  "50876875": {
+   "fragment_id": "36078475",
+   "type": 11,
+   "heading": "Artigo 16.º — Trabalho em dia feriado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Trabalho em dia feriado\n\n1 - As actividades de espectáculos públicos, bem como as actividades inerentes à sua preparação ou realização, podem ser prestadas em dia feriado.\n\n2 - Salvo convenção em contrário, o trabalhador que realiza a prestação em dia feriado tem direito a um descanso compensatório de igual duração, a ser gozado nos termos do previsto no n.º 3 do artigo 13.º, ou ao acréscimo de 100 % da retribuição pelo trabalho prestado nesse dia, cabendo a escolha ao empregador."
+  },
+  "50876975": {
+   "fragment_id": "36078575",
+   "type": 11,
+   "heading": "Artigo 17.º — Local de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Local de trabalho\n\n1 - O trabalhador está adstrito à prestação da sua actividade no local onde se realizam os ensaios ou os espectáculos públicos ou equivalentes.\n\n2 - Sempre que o trabalhador tenha um acréscimo de despesas por deslocações inerentes à actividade laboral, o empregador fornece os meios para a sua realização ou procede ao respectivo pagamento ou reembolso."
+  },
+  "50877075": {
+   "fragment_id": "36078675",
+   "type": 11,
+   "heading": "Artigo 18.º — Direitos de propriedade intelectual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direitos de propriedade intelectual\n\nOs direitos de propriedade intelectual decorrentes da actividade artística dos trabalhadores de espectáculos públicos regem-se pelo Código do Direito de Autor e dos Direitos Conexos, sem prejuízo de poderem ser exercidos individualmente se for essa a vontade expressa dos respectivos titulares, comunicada a entidade de gestão colectiva de direitos dos artistas."
+  },
+  "50877175": {
+   "fragment_id": "36078775",
+   "type": 11,
+   "heading": "Artigo 19.º — Reclassificação do trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reclassificação do trabalhador\n\n1 - Se o trabalhador perder, superveniente e definitivamente, a aptidão para a realização da actividade artística para que foi contratado, por motivo decorrente das características da própria actividade, o empregador, mediante parecer fundamentado de uma comissão, deve atribuir-lhe, sem perda de retribuição, outras funções compatíveis com as suas qualificações profissionais, mesmo que não incluídas no objecto do contrato de trabalho, devendo-lhe assegurar a formação profissional adequada.\n\n2 - A comissão referida no número anterior é constituída por um representante do empregador, um representante do trabalhador e um representante indicado por acordo das partes.\n\n3 - No caso de o trabalhador não aceitar a reclassificação proposta pelo empregador ou de não existirem outras funções compatíveis com as suas qualificações profissionais, o contrato de trabalho caduca.\n\n4 - A caducidade a que se refere o número anterior confere o direito à compensação prevista no artigo 401.º do Código do Trabalho, salvo se o trabalhador recusar injustificadamente a reclassificação.\n\n5 - Quando existam regimes especiais de segurança social, a caducidade do contrato de trabalho nos termos dos números anteriores não prejudica a aplicação desses regimes, tendo os trabalhadores direito à reforma por velhice logo que estejam preenchidos os respectivos requisitos."
+  },
+  "50877275": {
+   "fragment_id": "36078875",
+   "type": 11,
+   "heading": "Artigo 20.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contra-ordenações\n\nConstitui contra-ordenação grave a violação do disposto no n.º 7 do artigo 8.º e nos artigos 15.º e 16.º da presente lei."
+  },
+  "50877375": {
+   "fragment_id": "36078975",
+   "type": 11,
+   "heading": "Artigo 21.º — Segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Segurança social\n\nO regime de segurança social aplicável aos trabalhadores artistas de espectáculos públicos é estabelecido por diploma próprio."
+  },
+  "50877475": {
+   "fragment_id": "36079075",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\n1 - São revogados os Decretos-Leis n.os 43 181 e 43 190, ambos de 23 de Setembro de 1960, e 38/87, de 26 de Janeiro.\n\n2 - São revogados os artigos 19.º a 21.º da Lei n.º 30/2006, de 11 de Julho."
+  },
+  "50877575": {
+   "fragment_id": "36079175",
+   "type": 11,
+   "heading": "Artigo 23.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Revisão\n\nO regime dos contratos de trabalho dos artistas de espectáculos aprovado pela presente lei deve ser revisto no prazo de quatro anos a contar da data da sua entrada em vigor."
+  },
+  "50875275": {
+   "fragment_id": "35075475",
+   "type": 15,
+   "heading": "Diploma — Aprova o regime dos contratos de trabalho dos profissionais de espectáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "56371616": {
+   "fragment_id": "56371694",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Casos especiais de contrato de trabalho de muito curta duração",
+   "in_force_from": "2009-09-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 36.º do/a [Lei n.º 105/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/105-2009-489755), em vigor a partir de 2009-09-15"
+   ],
+   "markdown": "###### Artigo 10.º-A — Casos especiais de contrato de trabalho de muito curta duração\n\n1 - O contrato de trabalho a termo resolutivo para a prestação de actividade artística de duração não superior a uma semana não está sujeito a forma escrita, devendo a entidade produtora ou organizadora dos espectáculos comunicar a sua celebração ao serviço competente da segurança social, mediante formulário electrónico, com os seguintes elementos:\n\na) Identificação, domicílio ou sede das partes;\n\nb) Actividade do trabalhador e correspondente retribuição;\n\nc) Local de trabalho;\n\nd) Data de início do trabalho.\n\n2 - No caso previsto no número anterior, a duração total de contratos de trabalho a termo com a mesma entidade produtora ou organizadora dos espectáculos não pode exceder 60 dias de trabalho no ano civil.\n\n3 - Em caso de violação do disposto em qualquer dos números anteriores, o contrato considera-se celebrado pelo prazo de seis meses, contando-se nesse prazo a duração de contratos anteriores celebrados ao abrigo dos mesmos preceitos.\n\n> Aditado pelo/a Artigo 36.º do/a [Lei n.º 105/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/105-2009-489755), em vigor a partir de 2009-09-15"
+  },
+  "56371617": {
+   "fragment_id": "36077975",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos e deveres especiais do trabalhador artista de espectáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos e deveres especiais do trabalhador artista de espectáculos\n\n1 - O trabalhador está sujeito a um dever especial de diligência no que respeita à realização e organização do espectáculo público.\n\n2 - Quando a actividade artística é desenvolvida em grupo, o trabalhador tem um especial dever de colaboração com os restantes membros do grupo, tendo em vista a execução da actividade em comum.\n\n3 - O trabalhador tem direito à ocupação efectiva quanto à realização de ensaios e demais actividades preparatórias do espectáculo público, não podendo ser excluído destas actividades sem justificação.\n\n4 - O empregador deve respeitar a autonomia da direcção, supervisão e realização artísticas do espectáculo, abstendo-se de nelas interferir.\n\n5 - As partes podem estabelecer, por escrito, que o trabalhador realiza a sua actividade artística em exclusivo para o empregador, mediante a fixação de uma compensação adequada para a prestação do trabalho em regime de exclusividade."
+  },
+  "56371618": {
+   "fragment_id": "36078075",
+   "type": 11,
+   "heading": "Artigo 12.º — Tempo de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Tempo de trabalho\n\n1 - Considera-se tempo de trabalho o período de prestação efectiva da actividade artística perante o público ou equivalente, nos termos do n.º 3 do artigo 1.º, bem como todo o tempo em que o artista de espectáculos está adstrito à realização da sua prestação, em especial para efeitos de ensaios, pesquisa, estudo, actividades promocionais e de divulgação, ou outros trabalhos preparatórios do espectáculo.\n\n2 - Ainda integram o tempo de trabalho as interrupções e os intervalos previstos como tal no Código do Trabalho ou em instrumento de regulamentação colectiva."
+  },
+  "56371619": {
+   "fragment_id": "36078175",
+   "type": 11,
+   "heading": "Artigo 13.º — Período normal de trabalho e descanso semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Período normal de trabalho e descanso semanal\n\n1 - O contrato de trabalho do artista de espectáculos sujeita-se ao regime previsto no Código do Trabalho para o período normal de trabalho, a adaptabilidade do tempo de trabalho e o direito ao descanso diário e semanal, com a especificidade constante do número seguinte.\n\n2 - Os dias de descanso semanal obrigatório e complementar podem não coincidir com o domingo ou o sábado, respectivamente.\n\n3 - Por conveniência da organização do espectáculo, a compensação por trabalho prestado nos dias de descanso complementar do trabalhador deve efectuar-se no prazo máximo de seis meses."
+  },
+  "56371620": {
+   "fragment_id": "36078275",
+   "type": 11,
+   "heading": "Artigo 14.º — Horário de trabalho e intervalos de descanso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Horário de trabalho e intervalos de descanso\n\n1 - O contrato de trabalho do artista de espectáculos sujeita-se ao regime previsto no Código do Trabalho no que respeita ao horário de trabalho e aos intervalos de descanso semanal, com a especificidade constante do número seguinte.\n\n2 - Salvo convenção em contrário, na determinação do horário de trabalho o empregador pode estabelecer um ou mais intervalos de descanso ou um regime de trabalho descontínuo adequado à especificidade da actividade ou do espectáculo ou ainda um horário de trabalho de início variável, denominado horário à tabela."
+  },
+  "56371621": {
+   "fragment_id": "36078375",
+   "type": 11,
+   "heading": "Artigo 15.º — Trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Trabalho nocturno\n\nO trabalho nocturno dos trabalhadores de espectáculos é o prestado no intervalo entre as 0 e as 5 horas, sem prejuízo do estabelecimento de regime mais favorável por instrumento de regulamentação colectiva de trabalho."
+  },
+  "56371622": {
+   "fragment_id": "36078475",
+   "type": 11,
+   "heading": "Artigo 16.º — Trabalho em dia feriado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Trabalho em dia feriado\n\n1 - As actividades de espectáculos públicos, bem como as actividades inerentes à sua preparação ou realização, podem ser prestadas em dia feriado.\n\n2 - Salvo convenção em contrário, o trabalhador que realiza a prestação em dia feriado tem direito a um descanso compensatório de igual duração, a ser gozado nos termos do previsto no n.º 3 do artigo 13.º, ou ao acréscimo de 100 % da retribuição pelo trabalho prestado nesse dia, cabendo a escolha ao empregador."
+  },
+  "56371623": {
+   "fragment_id": "36078575",
+   "type": 11,
+   "heading": "Artigo 17.º — Local de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Local de trabalho\n\n1 - O trabalhador está adstrito à prestação da sua actividade no local onde se realizam os ensaios ou os espectáculos públicos ou equivalentes.\n\n2 - Sempre que o trabalhador tenha um acréscimo de despesas por deslocações inerentes à actividade laboral, o empregador fornece os meios para a sua realização ou procede ao respectivo pagamento ou reembolso."
+  },
+  "56371624": {
+   "fragment_id": "36078675",
+   "type": 11,
+   "heading": "Artigo 18.º — Direitos de propriedade intelectual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direitos de propriedade intelectual\n\nOs direitos de propriedade intelectual decorrentes da actividade artística dos trabalhadores de espectáculos públicos regem-se pelo Código do Direito de Autor e dos Direitos Conexos, sem prejuízo de poderem ser exercidos individualmente se for essa a vontade expressa dos respectivos titulares, comunicada a entidade de gestão colectiva de direitos dos artistas."
+  },
+  "56371625": {
+   "fragment_id": "36078775",
+   "type": 11,
+   "heading": "Artigo 19.º — Reclassificação do trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reclassificação do trabalhador\n\n1 - Se o trabalhador perder, superveniente e definitivamente, a aptidão para a realização da actividade artística para que foi contratado, por motivo decorrente das características da própria actividade, o empregador, mediante parecer fundamentado de uma comissão, deve atribuir-lhe, sem perda de retribuição, outras funções compatíveis com as suas qualificações profissionais, mesmo que não incluídas no objecto do contrato de trabalho, devendo-lhe assegurar a formação profissional adequada.\n\n2 - A comissão referida no número anterior é constituída por um representante do empregador, um representante do trabalhador e um representante indicado por acordo das partes.\n\n3 - No caso de o trabalhador não aceitar a reclassificação proposta pelo empregador ou de não existirem outras funções compatíveis com as suas qualificações profissionais, o contrato de trabalho caduca.\n\n4 - A caducidade a que se refere o número anterior confere o direito à compensação prevista no artigo 401.º do Código do Trabalho, salvo se o trabalhador recusar injustificadamente a reclassificação.\n\n5 - Quando existam regimes especiais de segurança social, a caducidade do contrato de trabalho nos termos dos números anteriores não prejudica a aplicação desses regimes, tendo os trabalhadores direito à reforma por velhice logo que estejam preenchidos os respectivos requisitos."
+  },
+  "56371626": {
+   "fragment_id": "36078875",
+   "type": 11,
+   "heading": "Artigo 20.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contra-ordenações\n\nConstitui contra-ordenação grave a violação do disposto no n.º 7 do artigo 8.º e nos artigos 15.º e 16.º da presente lei."
+  },
+  "56371627": {
+   "fragment_id": "36078975",
+   "type": 11,
+   "heading": "Artigo 21.º — Segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Segurança social\n\nO regime de segurança social aplicável aos trabalhadores artistas de espectáculos públicos é estabelecido por diploma próprio."
+  },
+  "56371628": {
+   "fragment_id": "36079075",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\n1 - São revogados os Decretos-Leis n.os 43 181 e 43 190, ambos de 23 de Setembro de 1960, e 38/87, de 26 de Janeiro.\n\n2 - São revogados os artigos 19.º a 21.º da Lei n.º 30/2006, de 11 de Julho."
+  },
+  "56371629": {
+   "fragment_id": "36079175",
+   "type": 11,
+   "heading": "Artigo 23.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Revisão\n\nO regime dos contratos de trabalho dos artistas de espectáculos aprovado pela presente lei deve ser revisto no prazo de quatro anos a contar da data da sua entrada em vigor."
+  },
+  "56371630": {
+   "fragment_id": "36079275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 30 de Novembro de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 22 de Janeiro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 24 de Janeiro de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "56379601": {
+   "fragment_id": "56376320",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386389": {
+   "fragment_id": "36076975",
+   "type": 11,
+   "heading": "Artigo 1.º — Contrato de trabalho do artista de espectáculos",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 1.º — Contrato de trabalho do artista de espectáculos\n\nObjecto\n\nA presente lei aprova o regime dos contratos de trabalho e estabelece o regime de segurança social aplicável aos trabalhadores das artes do espectáculo e do audiovisual que desenvolvam uma actividade artística, técnico-artística ou de mediação destinada a espectáculos ou a eventos públicos.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56379638": {
+   "fragment_id": "56372458",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Definições",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 1.º-A — Definições\n\nPara os efeitos da presente lei entende-se por:\n\na) 'Espectáculo ou evento cultural público' as manifestações artísticas ligadas à criação, execução e interpretação que se realizem perante o público e ainda que se destinem a gravação e a transmissão para posterior difusão pública, nomeadamente em teatro, cinema, radiodifusão, televisão ou outro suporte audiovisual, Internet, praça de touros, circo ou noutro local destinado a actuações ou exibições artísticas;\n\nb) 'Audiovisual' todo o produto de comunicação expresso com a utilização de componentes visuais e ou sonoros que envolva uma ou várias áreas artísticas ligadas à criação, execução e interpretação e que seja destinado à fruição pelo público através do cinema, vídeo, televisão, rádio ou multimédia;\n\nc) 'Trabalhador das artes do espectáculo e do audiovisual' o trabalhador que exerça uma actividade artística, técnico-artística ou de mediação;\n\nd) 'Actividades de natureza artística' as actividades ligadas à criação, execução e interpretação de obras;\n\ne) 'Actividades de natureza técnico-artística' as actividades ligadas aos materiais, equipamentos e processos produtivos de suporte às artes do espectáculo ou do audiovisual;\n\nf) 'Actividades de mediação' as actividades relacionadas com a produção, a realização e divulgação de artes de espectáculo ou de audiovisual, incluindo a valorização e divulgação das obras e dos artistas.\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56379639": {
+   "fragment_id": "56372460",
+   "type": 11,
+   "heading": "Artigo 1.º-B — Âmbito de aplicação",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 1.º-B — Âmbito de aplicação\n\n1 - A presente lei é aplicável aos trabalhadores das artes do espectáculo e do audiovisual.\n\n2 - A presente lei não se aplica às actuações artísticas não destinadas ao público.\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386391": {
+   "fragment_id": "36077075",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime aplicável",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 2.º — Regime aplicável\n\n1 - Em tudo o que não estiver previsto na presente lei aplica-se o disposto no Código do Trabalho e na respectiva regulamentação, bem como o regime de segurança social aplicável aos trabalhadores por conta de outrem.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386392": {
+   "fragment_id": "36077175",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo dos profissionais do sector das actividades artísticas, culturais e de espectáculo",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 3.º — Registo dos profissionais do sector das actividades artísticas, culturais e de espectáculo\n\n1 - É criado o Registo Nacional de Profissionais do Sector das Actividades Artísticas, Culturais e de Espectáculo (RNPSAACE), com vista a contribuir para a sua valorização profissional e técnica.\n\n2 - Os profissionais das artes do espectáculo e audiovisual devem proceder à inscrição no RNPSAACE sendo a sua inscrição condição para o acesso às acções de valorização profissional e técnica, directa ou indirectamente promovidas pelo Estado, e para a emissão de certificados comprovativos do exercício da profissão.\n\n3 - O serviço competente do ministério responsável pela área da cultura organiza e mantém actualizado o RNPSAACE e publica no respectivo sítio da Internet a lista das actividades artísticas abrangidas pela presente lei, sujeita a homologação prévia do membro do Governo responsável pela área da cultura.\n\n4 - A inscrição no RNPSAACE depende do profissional do espectáculo e audiovisual possuir formação profissional de nível 3 ou formação académica específicas, ou, pelo menos, 180 dias de trabalho efectivo prestado nos três anos anteriores à data da inscrição.\n\n5 - O empregador, ou a entidade que contrata a prestação do serviço, emite declaração do número de dias de trabalho efectivo prestado pelo profissional do espectáculo e audiovisual, na ausência de outro documento comprovativo.\n\n6 - A inscrição no registo caduca ao fim de três anos, podendo ser renovada, mediante solicitação do interessado, se este possuir, desde a última inscrição:\n\na) O número de dias de trabalho efectivo referido no n.º 4, mediante prova prestada nos termos do n.º 5;\n\nb) Se fizer prova da frequência de acções de formação por período equivalente ao referido no n.º 4.\n\n7 - A inscrição pode ser cancelada ou suspensa a pedido do próprio, podendo ser recusada pelo serviço competente do ministério responsável pela área da cultura sempre que verificar o não cumprimento dos requisitos estabelecidos nos números anteriores.\n\n8 - O Governo define, por portaria e no prazo de 60 dias a contar da data de entrada em vigor da presente lei, os procedimentos necessários e o serviço responsável pela manutenção e actualização do registo.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386394": {
+   "fragment_id": "36077275",
+   "type": 11,
+   "heading": "Artigo 4.º — Trabalho de estrangeiros",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 4.º — Trabalho de estrangeiros\n\nPara efeitos da lei que define as condições e procedimentos de entrada, permanência, saída e afastamento de cidadãos estrangeiros do território português, presume-se que os profissionais das artes do espectáculo e do audiovisual realizam actividades altamente qualificadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56379646": {
+   "fragment_id": "56376321",
+   "type": 1,
+   "heading": "Capítulo II — Regime dos contratos de trabalho dos profissionais das artes do espetáculo e do audiovisual",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "### Capítulo II — Regime dos contratos de trabalho dos profissionais das artes do espetáculo e do audiovisual\n\n> Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386378": {
+   "fragment_id": "36077375",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidades de contrato de trabalho dos artistas de espectáculos",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 5.º — Modalidades de contrato de trabalho dos artistas de espectáculos\n\nO contrato de trabalho dos artistas de espectáculos reveste as modalidades de contrato por tempo indeterminado ou de contrato a termo resolutivo, certo ou incerto.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386379": {
+   "fragment_id": "36077475",
+   "type": 11,
+   "heading": "Artigo 6.º — Presunção",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 6.º — Presunção\n\nPresume-se que existe um contrato de trabalho sempre que o artista de espectáculos esteja na dependência económica da entidade produtora ou organizadora dos espectáculos e realize a sua prestação sob a direcção e fiscalização desta, mediante retribuição.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386396": {
+   "fragment_id": "36077575",
+   "type": 11,
+   "heading": "Artigo 7.º — Contrato a termo para desempenho de actividade artística, técnico-artística ou de mediação",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 7.º — Contrato a termo para desempenho de actividade artística, técnico-artística ou de mediação\n\n1 - É admitida a celebração de contrato de trabalho a termo resolutivo, certo ou incerto, para o desempenho das actividades enunciadas na presente lei.\n\n2 - O contrato de trabalho a termo resolutivo certo tem a duração que as partes estipularem e apenas pode ser sujeito a renovação se as partes assim o estipularem expressamente.\n\n3 - O contrato de trabalho a termo certo tem a duração máxima de seis anos, não lhe sendo aplicável o regime previsto no Código do Trabalho em matéria de contratos sucessivos e limite de renovações.\n\n4 - Independentemente da duração dos contratos previstos neste artigo, o gozo das férias tem lugar antes da cessação daqueles, salvo acordo das partes quanto ao gozo em período diferente.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386399": {
+   "fragment_id": "36077675",
+   "type": 11,
+   "heading": "Artigo 8.º — Contrato por tempo indeterminado com exercício intermitente da prestação de trabalho",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 8.º — Contrato por tempo indeterminado com exercício intermitente da prestação de trabalho\n\n1 - Quando os espectáculos públicos não apresentem carácter de continuidade, pode ser acordado o exercício intermitente da prestação de trabalho, nos termos dos números seguintes.\n\n2 - Aquando da celebração ou durante a vigência de um contrato de trabalho por tempo indeterminado as partes podem acordar na sua sujeição, temporária ou definitiva, ao exercício intermitente da prestação de trabalho, bem como o início e o termo de cada período de trabalho e a antecedência com que o empregador deve informar o trabalhador do início daquele.\n\n3 - Para efeitos do disposto no número anterior, os tempos de trabalho efectivo correspondem à duração, promoção e preparação dos espectáculos públicos, aos tempos de deslocação quando se trate de espectáculos itinerantes e os tempos de não trabalho correspondem aos períodos de inactividade.\n\n4 - Durante os períodos de inactividade, o trabalhador mantém a disponibilidade para iniciar a sua prestação de trabalho desde que seja convocado pelo empregador com a antecedência acordada entre as partes que não deve ser inferior a 20 dias.\n\n5 - Nos períodos de inactividade, mantêm-se os direitos, deveres e garantias das partes que não pressuponham a prestação efectiva de trabalho.\n\n6 - Durante os períodos de inactividade, o trabalhador tem direito:\n\na) A exercer outra actividade;\n\nb) A uma compensação retributiva, a fixar por acordo das partes, com um mínimo de 30 % da retribuição normal;\n\nc) Aos complementos retributivos, designadamente subsídios de férias e de Natal, calculados com base no valor previsto para a retribuição correspondente ao último período de trabalho efectivo.\n\n7 - Durante os períodos de inactividade o empregador fica obrigado a:\n\na) Pagar pontualmente a compensação retributiva;\n\nb) Não admitir novos trabalhadores ou renovar contratos para actividades artísticas susceptíveis de poderem ser desempenhadas pelo trabalhador em situação de inactividade.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386400": {
+   "fragment_id": "36077775",
+   "type": 11,
+   "heading": "Artigo 9.º — Pluralidade de trabalhadores",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 9.º — Pluralidade de trabalhadores\n\n1 - O empregador pode celebrar um contrato de trabalho com pluralidade de trabalhadores para a prestação de uma actividade artística em grupo.\n\n2 - O contrato a que se refere o número anterior pode ser outorgado directamente pelos trabalhadores ou através de representante comum, designado por chefe do grupo, com a indicação individualizada de todos os trabalhadores.\n\n3 - A outorga de poderes de representação ao chefe do grupo, para os efeitos previstos no número anterior, carece de forma escrita.\n\n4 - O contrato de trabalho com pluralidade de trabalhadores pode ser celebrado por tempo indeterminado, com ou sem regime de intermitência, e a termo resolutivo, certo ou incerto.\n\n5 - Da celebração do contrato de trabalho em grupo decorrem tantos vínculos laborais quantos os trabalhadores que integram o grupo.\n\n6 - Quando o contrato de trabalho para a prestação de actividade artística em grupo é celebrado a termo, a verificação deste implica a extinção dos vínculos laborais de todos os membros do grupo.\n\n7 - A impossibilidade de prestação da actividade artística por um dos elementos contratados não implica a extinção do contrato de trabalho com os demais, salvo quando tal situação impossibilite a continuação da actividade.\n\n8 - Nas situações em que o contrato de trabalho seja outorgado através de representante comum, fica o empregador obrigado a entregar a cada um dos trabalhadores cópia do contrato.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386381": {
+   "fragment_id": "36077875",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma do contrato de trabalho",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 10.º — Forma do contrato de trabalho\n\n1 - (Revogado).\n\n2 - Os requisitos de forma previstos no Código do Trabalho para o contrato de trabalho a termo são aplicáveis, com as necessárias adaptações, aos contratos a que se refere o artigo 7.º\n\n3 - O acordo para o exercício intermitente da prestação de trabalho, nos termos do n.º 2 do artigo 8.º, deve ser assinado por ambas as partes e conter menção expressa do regime de intermitência, da data da celebração do acordo e a do início da produção dos respectivos efeitos, do período temporal a que respeita, dos períodos mínimos de trabalho efectivo e respectiva retribuição, bem como a retribuição para os períodos de inactividade, ficando cada uma com um exemplar.\n\n4 - (Revogado).\n\n5 - O contrato de trabalho com pluralidade de trabalhadores deve conter menção expressa da remuneração e regime de cada um dos trabalhadores.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386384": {
+   "fragment_id": "56371694",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Casos especiais de contrato de trabalho de muito curta duração",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16",
+    "Aditado pelo/a Artigo 36.º do/a [Lei n.º 105/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/105-2009-489755), em vigor a partir de 2009-09-15"
+   ],
+   "markdown": "###### Artigo 10.º-A — Casos especiais de contrato de trabalho de muito curta duração\n\n1 - O contrato de trabalho a termo resolutivo para a prestação de actividade artística de duração não superior a uma semana não está sujeito a forma escrita, devendo a entidade produtora ou organizadora dos espectáculos comunicar a sua celebração ao serviço competente da segurança social, mediante formulário electrónico, com os seguintes elementos:\n\na) Identificação, domicílio ou sede das partes;\n\nb) Actividade do trabalhador e correspondente retribuição;\n\nc) Local de trabalho;\n\nd) Data de início do trabalho.\n\n2 - No caso previsto no número anterior, a duração total de contratos de trabalho a termo com a mesma entidade produtora ou organizadora dos espectáculos não pode exceder 60 dias de trabalho no ano civil.\n\n3 - Em caso de violação do disposto em qualquer dos números anteriores, o contrato considera-se celebrado pelo prazo de seis meses, contando-se nesse prazo a duração de contratos anteriores celebrados ao abrigo dos mesmos preceitos.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16\n\n> Aditado pelo/a Artigo 36.º do/a [Lei n.º 105/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/105-2009-489755), em vigor a partir de 2009-09-15"
+  },
+  "56386401": {
+   "fragment_id": "36077975",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos e deveres especiais dos trabalhadores das artes do espectáculo e do audiovisual",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 11.º — Direitos e deveres especiais dos trabalhadores das artes do espectáculo e do audiovisual\n\n1 -(Revogado).\n\n2 - Quando a actividade artística é desenvolvida em grupo, o trabalhador tem um especial dever de colaboração com os restantes membros do grupo, tendo em vista a execução da actividade em comum.\n\n3 - O trabalhador tem direito à ocupação efectiva quanto à realização de ensaios e demais actividades preparatórias do espectáculo público, não podendo ser excluído destas actividades sem justificação.\n\n4 - O empregador deve respeitar a autonomia da direcção, supervisão e realização artísticas do espectáculo, abstendo-se de nelas interferir.\n\n5 - As partes podem estabelecer, por escrito, que o trabalhador realiza a sua actividade artística em exclusivo para o empregador, mediante a fixação de uma compensação adequada para a prestação do trabalho em regime de exclusividade.\n\n6 - Quando não exista contrato de exclusividade, celebrado nos termos do número anterior, os trabalhadores das artes do espectáculo e do audiovisual podem celebrar contratos simultâneos com mais de uma entidade empregadora, desde que o cumprimento do objecto dos diferentes contratos não seja incompatível por razão de horário, localização geográfica, profissional ou outra.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386402": {
+   "fragment_id": "36078075",
+   "type": 11,
+   "heading": "Artigo 12.º — Tempo de trabalho",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 12.º — Tempo de trabalho\n\n1 - Considera-se tempo de trabalho o período de prestação efectiva da actividade artística perante o público ou equivalente, nos termos da alínea a) do artigo 1.º-A, bem como todo o tempo em que o trabalhador está adstrito à realização da sua prestação, em especial para efeitos de ensaios, pesquisa, estudo, actividades promocionais e de divulgação e ainda outros trabalhos de preparação ou finalização do espectáculo.\n\n2 - Ainda integram o tempo de trabalho as interrupções e os intervalos previstos como tal no Código do Trabalho ou em instrumento de regulamentação colectiva.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386403": {
+   "fragment_id": "36078175",
+   "type": 11,
+   "heading": "Artigo 13.º — Período normal de trabalho e descanso semanal",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 13.º — Período normal de trabalho e descanso semanal\n\n1 - O contrato de trabalho dos profissionais das artes do espectáculo e do audiovisual sujeita-se ao regime previsto no Código do Trabalho para o período normal de trabalho, a adaptabilidade do tempo de trabalho e o direito ao descanso diário e semanal, com a especificidade constante do número seguinte.\n\n2 - Os dias de descanso semanal obrigatório e complementar podem não coincidir com o domingo ou o sábado, respectivamente.\n\n3 - Por conveniência da organização do espectáculo, a compensação por trabalho prestado nos dias de descanso complementar do trabalhador deve efectuar-se no prazo máximo de seis meses.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386404": {
+   "fragment_id": "36078275",
+   "type": 11,
+   "heading": "Artigo 14.º — Horário de trabalho e intervalos de descanso",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 14.º — Horário de trabalho e intervalos de descanso\n\n1 - O contrato de trabalho dos profissionais das artes do espectáculo e do audiovisual sujeita-se ao regime previsto no Código do Trabalho no que respeita ao horário de trabalho e aos intervalos de descanso semanal, com a especificidade constante do número seguinte.\n\n2 - Salvo convenção em contrário, na determinação do horário de trabalho o empregador pode estabelecer um ou mais intervalos de descanso ou um regime de trabalho descontínuo adequado à especificidade da actividade ou do espectáculo ou ainda um horário de trabalho de início variável, denominado horário à tabela.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386405": {
+   "fragment_id": "36078375",
+   "type": 11,
+   "heading": "Artigo 15.º — Trabalho nocturno",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 15.º — Trabalho nocturno\n\nPara os efeitos da presente lei, considera-se trabalho nocturno qualquer período de trabalho prestado no intervalo das 0 às 5 horas, sem prejuízo da aplicação de regime legal ou convencional mais favorável.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56381186": {
+   "fragment_id": "36078475",
+   "type": 11,
+   "heading": "Artigo 16.º — Trabalho em dia feriado",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+   ],
+   "markdown": "###### Artigo 16.º — Trabalho em dia feriado\n\n1 - As actividades de espectáculos públicos, bem como as actividades inerentes à sua preparação ou realização, podem ser prestadas em dia feriado.\n\n2 - Salvo convenção em contrário, o trabalhador que realiza a prestação em dia feriado tem direito a um descanso compensatório de igual duração, a ser gozado nos termos do previsto no n.º 3 do artigo 13.º, ou ao acréscimo de 100 % da retribuição pelo trabalho prestado nesse dia, cabendo a escolha ao empregador.\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+  },
+  "56381187": {
+   "fragment_id": "36078575",
+   "type": 11,
+   "heading": "Artigo 17.º — Local de trabalho",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+   ],
+   "markdown": "###### Artigo 17.º — Local de trabalho\n\n1 - O trabalhador está adstrito à prestação da sua actividade no local onde se realizam os ensaios ou os espectáculos públicos ou equivalentes.\n\n2 - Sempre que o trabalhador tenha um acréscimo de despesas por deslocações inerentes à actividade laboral, o empregador fornece os meios para a sua realização ou procede ao respectivo pagamento ou reembolso.\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+  },
+  "56386385": {
+   "fragment_id": "36078675",
+   "type": 11,
+   "heading": "Artigo 18.º — Direitos de propriedade intelectual",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 18.º — Direitos de propriedade intelectual\n\nOs direitos de propriedade intelectual decorrentes da actividade artística dos trabalhadores de espectáculos públicos regem-se pelo Código do Direito de Autor e dos Direitos Conexos, sem prejuízo de poderem ser exercidos individualmente se for essa a vontade expressa dos respectivos titulares, comunicada a entidade de gestão colectiva de direitos dos artistas.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56381189": {
+   "fragment_id": "36078775",
+   "type": 11,
+   "heading": "Artigo 19.º — Reclassificação do trabalhador",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+   ],
+   "markdown": "###### Artigo 19.º — Reclassificação do trabalhador\n\n1 - Se o trabalhador perder, superveniente e definitivamente, a aptidão para a realização da actividade artística para que foi contratado, por motivo decorrente das características da própria actividade, o empregador, mediante parecer fundamentado de uma comissão, deve atribuir-lhe, sem perda de retribuição, outras funções compatíveis com as suas qualificações profissionais, mesmo que não incluídas no objecto do contrato de trabalho, devendo-lhe assegurar a formação profissional adequada.\n\n2 - A comissão referida no número anterior é constituída por um representante do empregador, um representante do trabalhador e um representante indicado por acordo das partes.\n\n3 - No caso de o trabalhador não aceitar a reclassificação proposta pelo empregador ou de não existirem outras funções compatíveis com as suas qualificações profissionais, o contrato de trabalho caduca.\n\n4 - A caducidade a que se refere o número anterior confere o direito à compensação prevista no artigo 401.º do Código do Trabalho, salvo se o trabalhador recusar injustificadamente a reclassificação.\n\n5 - Quando existam regimes especiais de segurança social, a caducidade do contrato de trabalho nos termos dos números anteriores não prejudica a aplicação desses regimes, tendo os trabalhadores direito à reforma por velhice logo que estejam preenchidos os respectivos requisitos.\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+  },
+  "56386406": {
+   "fragment_id": "36078875",
+   "type": 11,
+   "heading": "Artigo 20.º — Contra-ordenações e sanção acessória",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 20.º — Contra-ordenações e sanção acessória\n\n1 - Constitui contra-ordenação grave a violação do disposto no n.º 7 do artigo 8.º e nos artigos 15.º e 16.º\n\n2 - A violação do disposto no n.º 3 do artigo 7.º e no n.º 7 do artigo 8.º determina a inibição por parte do empregador de aceder, pelo período de três anos, aos subsídios ou apoios do Estado destinados às actividades artísticas, sem prejuízo de outras disposições legais.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56381191": {
+   "fragment_id": "56376322",
+   "type": 1,
+   "heading": "Capítulo III — Regime de segurança social aplicável aos profissionais das artes do espetáculo e do audiovisual",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "### Capítulo III — Regime de segurança social aplicável aos profissionais das artes do espetáculo e do audiovisual\n\n> Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386407": {
+   "fragment_id": "36078975",
+   "type": 11,
+   "heading": "Artigo 21.º — Protecção social",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º — Protecção social\n\n1 - Aos profissionais das artes do espectáculo e do audiovisual é aplicável o regime de segurança social dos trabalhadores por conta de outrem, com as especificidades constantes da presente lei.\n\n2 - Os profissionais das artes do espectáculo e do audiovisual têm direito à protecção nas eventualidades garantidas pelo regime de segurança social dos trabalhadores por conta de outrem e ao subsídio de reconversão profissional.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56381203": {
+   "fragment_id": "56372464",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Prazo de garantia das prestações de desemprego",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-A — Prazo de garantia das prestações de desemprego\n\n1 - O prazo de garantia para atribuição do subsídio de desemprego é de 450 dias de trabalho por conta de outrem, com o correspondente registo de remunerações, num período de 36 meses imediatamente anterior à data do desemprego.\n\n2 - O prazo de garantia para atribuição do subsídio social de desemprego é de 180 dias de trabalho por conta de outrem, com o correspondente registo de remunerações, num período de 18 meses imediatamente anterior à data do desemprego.\n\n3 - O disposto nos números anteriores não prejudica a aplicação de regimes mais favoráveis.\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56381204": {
+   "fragment_id": "56372465",
+   "type": 11,
+   "heading": "Artigo 21.º-B — Subsídio de reconversão profissional",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-B — Subsídio de reconversão profissional\n\n1 - Os profissionais das artes do espectáculo e do audiovisual abrangidos pela presente lei que, em função da especificidade das suas actividades, tenham cessado o exercício da sua actividade antes de poderem beneficiar de uma pensão de velhice têm direito à atribuição de um subsídio de reconversão profissional, desde que preencham os seguintes requisitos:\n\na) Terem exercido, comprovadamente, uma actividade artística como profissionais durante um período não inferior a 10 anos, com registo de remunerações nos últimos cinco anos;\n\nb) Terem cessado o exercício da actividade artística há mais de seis meses e menos de dois anos;\n\nc) Terem rendimentos inferiores à remuneração mínima mensal garantida.\n\n2 - O montante do subsídio de reconversão profissional é fixado caso a caso, não podendo exceder o valor de 12 indexantes de apoio social.\n\n3 - O subsídio de reconversão profissional pode ser atribuído por uma só vez ou em prestações mensais que não podem exceder os 24 meses.\n\n4 - Os encargos correspondentes ao pagamento do subsídio de reconversão profissional são suportados conjuntamente por verbas do Ministério da Cultura e por verbas do Instituto do Emprego e Formação Profissional, I. P.\n\n5 - Ao subsídio de reconversão profissional são aplicáveis os procedimentos constantes do despacho n.º 20 871/2009, de 17 de Setembro, publicado no Diário da República, 2.ª série.\n\n6 - O subsídio de reconversão profissional não é cumulável com o pagamento do montante único das prestações de desemprego.\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56381205": {
+   "fragment_id": "56372469",
+   "type": 11,
+   "heading": "Artigo 21.º-C — Retribuição",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-C — Retribuição\n\nSem prejuízo do disposto no Código do Trabalho em matéria de retribuição, não integram o conceito de retribuição dos trabalhadores das artes do espectáculo e do audiovisual as importâncias despendidas pelo empregador a favor do trabalhador na constituição de seguros de doença, de acidentes pessoais e de seguros de vida que garantam exclusivamente o risco de morte, invalidez ou reforma por velhice, no último caso desde que o benefício seja garantido após os 55 anos de idade, desde que não garantam o pagamento e este se não verifique, nomeadamente por resgate ou adiantamento de qualquer capital em vida durante os primeiros cinco anos.\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56381207": {
+   "fragment_id": "56372470",
+   "type": 11,
+   "heading": "Artigo 21.º-D — Contribuições adicionais para o regime complementar de contas individuais",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-D — Contribuições adicionais para o regime complementar de contas individuais\n\nOs profissionais das artes do espectáculo e do audiovisual abrangidos pela presente lei podem optar, no âmbito do regime de contribuições voluntárias do regime complementar de contas individuais de natureza pública estabelecido no Decreto-Lei n.º 26/2008, de 22 de Fevereiro, pela aplicação da taxa contributiva de 6 % independentemente da respectiva idade.\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56381208": {
+   "fragment_id": "56372471",
+   "type": 11,
+   "heading": "Artigo 21.º-E — Beneficiários do regime de segurança social dos trabalhadores independentes",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-E — Beneficiários do regime de segurança social dos trabalhadores independentes\n\nOs trabalhadores independentes beneficiam, para além das prestações previstas de acordo com o esquema de protecção social aplicável, do disposto nos artigos 21.º-B e 21.º-D.\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56381209": {
+   "fragment_id": "56376323",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais\n\n> Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56384174": {
+   "fragment_id": "56372472",
+   "type": 11,
+   "heading": "Artigo 21.º-F — Regulamentação",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-F — Regulamentação\n\n1 - Os procedimentos que venham a ser necessários à execução do disposto na presente lei são aprovados por portaria dos membros do Governo responsáveis pelas áreas do trabalho, da solidariedade social e da cultura.\n\n2 - Os modelos dos formulários de requerimento são aprovados por despacho do membro do Governo responsável pela área do trabalho e da solidariedade social, publicado no Diário da República.»\n\n2 - São aditados à Lei n.º 4/2008, de 7 de Fevereiro:\n\na) O capítulo i, com a epígrafe «Disposições gerais», que compreende os artigos 1.º a 4.º;\n\nb) O capítulo ii, com a epígrafe «Regime dos contratos de trabalho dos profissionais das artes do espectáculo e do audiovisual», que compreende os artigos 5.º a 20.º;\n\nc) O capítulo iii, com a epígrafe «Regime de segurança social aplicável aos profissionais das artes do espectáculo e do audiovisual», que compreende os artigos 21.º a 21.º-E;\n\nd) O capítulo iv, com a epígrafe «Disposições finais», que compreende os artigos 21.º-F e 22.º\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56386375": {
+   "fragment_id": "36079075",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+   ],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\n1 - São revogados os Decretos-Leis n.os 43 181 e 43 190, ambos de 23 de Setembro de 1960, e 38/87, de 26 de Janeiro.\n\n2 - São revogados os artigos 19.º a 21.º da Lei n.º 30/2006, de 11 de Julho.\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+  },
+  "56386387": {
+   "fragment_id": "36079175",
+   "type": 11,
+   "heading": "Artigo 23.º — Revisão",
+   "in_force_from": "2011-07-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 23.º — Revisão\n\nO regime dos contratos de trabalho dos artistas de espectáculos aprovado pela presente lei deve ser revisto no prazo de quatro anos a contar da data da sua entrada em vigor.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "56381213": {
+   "fragment_id": "36079275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 30 de Novembro de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 22 de Janeiro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 24 de Janeiro de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "120310500": {
+   "fragment_id": "56372464",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Prestações de desemprego",
+   "in_force_from": "2019-02-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Lei n.º 22/2019 - Diário da República n.º 40/2019, Série I de 2019-02-26](https://diariodarepublica.pt/dr/detalhe/lei/22-2019-120272924), em vigor a partir de 2019-02-27",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-A — Prestações de desemprego\n\n1 - É aplicável aos trabalhadores das artes do espetáculo e do audiovisual abrangidos pela presente lei o regime de proteção na eventualidade de desemprego previsto no Decreto-Lei n.º 220/2006, de 3 de novembro.\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 16.º do/a [Lei n.º 22/2019 - Diário da República n.º 40/2019, Série I de 2019-02-26](https://diariodarepublica.pt/dr/detalhe/lei/22-2019-120272924), em vigor a partir de 2019-02-27\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120329": {
+   "fragment_id": "56376320",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120330": {
+   "fragment_id": "36076975",
+   "type": 11,
+   "heading": "Artigo 1.º — Contrato de trabalho do artista de espectáculos",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 1.º — Contrato de trabalho do artista de espectáculos\n\nObjecto\n\nA presente lei aprova o regime dos contratos de trabalho e estabelece o regime de segurança social aplicável aos trabalhadores das artes do espectáculo e do audiovisual que desenvolvam uma actividade artística, técnico-artística ou de mediação destinada a espectáculos ou a eventos públicos.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120331": {
+   "fragment_id": "56372458",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Definições",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 1.º-A — Definições\n\nPara os efeitos da presente lei entende-se por:\n\na) 'Espectáculo ou evento cultural público' as manifestações artísticas ligadas à criação, execução e interpretação que se realizem perante o público e ainda que se destinem a gravação e a transmissão para posterior difusão pública, nomeadamente em teatro, cinema, radiodifusão, televisão ou outro suporte audiovisual, Internet, praça de touros, circo ou noutro local destinado a actuações ou exibições artísticas;\n\nb) 'Audiovisual' todo o produto de comunicação expresso com a utilização de componentes visuais e ou sonoros que envolva uma ou várias áreas artísticas ligadas à criação, execução e interpretação e que seja destinado à fruição pelo público através do cinema, vídeo, televisão, rádio ou multimédia;\n\nc) 'Trabalhador das artes do espectáculo e do audiovisual' o trabalhador que exerça uma actividade artística, técnico-artística ou de mediação;\n\nd) 'Actividades de natureza artística' as actividades ligadas à criação, execução e interpretação de obras;\n\ne) 'Actividades de natureza técnico-artística' as actividades ligadas aos materiais, equipamentos e processos produtivos de suporte às artes do espectáculo ou do audiovisual;\n\nf) 'Actividades de mediação' as actividades relacionadas com a produção, a realização e divulgação de artes de espectáculo ou de audiovisual, incluindo a valorização e divulgação das obras e dos artistas.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120332": {
+   "fragment_id": "56372460",
+   "type": 11,
+   "heading": "Artigo 1.º-B — Âmbito de aplicação",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 1.º-B — Âmbito de aplicação\n\n1 - A presente lei é aplicável aos trabalhadores das artes do espectáculo e do audiovisual.\n\n2 - A presente lei não se aplica às actuações artísticas não destinadas ao público.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120333": {
+   "fragment_id": "36077075",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime aplicável",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 2.º — Regime aplicável\n\n1 - Em tudo o que não estiver previsto na presente lei aplica-se o disposto no Código do Trabalho e na respectiva regulamentação, bem como o regime de segurança social aplicável aos trabalhadores por conta de outrem.\n\n2 - (Revogado).\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120334": {
+   "fragment_id": "36077175",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo dos profissionais do sector das actividades artísticas, culturais e de espectáculo",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 3.º — Registo dos profissionais do sector das actividades artísticas, culturais e de espectáculo\n\n1 - É criado o Registo Nacional de Profissionais do Sector das Actividades Artísticas, Culturais e de Espectáculo (RNPSAACE), com vista a contribuir para a sua valorização profissional e técnica.\n\n2 - Os profissionais das artes do espectáculo e audiovisual devem proceder à inscrição no RNPSAACE sendo a sua inscrição condição para o acesso às acções de valorização profissional e técnica, directa ou indirectamente promovidas pelo Estado, e para a emissão de certificados comprovativos do exercício da profissão.\n\n3 - O serviço competente do ministério responsável pela área da cultura organiza e mantém actualizado o RNPSAACE e publica no respectivo sítio da Internet a lista das actividades artísticas abrangidas pela presente lei, sujeita a homologação prévia do membro do Governo responsável pela área da cultura.\n\n4 - A inscrição no RNPSAACE depende do profissional do espectáculo e audiovisual possuir formação profissional de nível 3 ou formação académica específicas, ou, pelo menos, 180 dias de trabalho efectivo prestado nos três anos anteriores à data da inscrição.\n\n5 - O empregador, ou a entidade que contrata a prestação do serviço, emite declaração do número de dias de trabalho efectivo prestado pelo profissional do espectáculo e audiovisual, na ausência de outro documento comprovativo.\n\n6 - A inscrição no registo caduca ao fim de três anos, podendo ser renovada, mediante solicitação do interessado, se este possuir, desde a última inscrição:\n\na) O número de dias de trabalho efectivo referido no n.º 4, mediante prova prestada nos termos do n.º 5;\n\nb) Se fizer prova da frequência de acções de formação por período equivalente ao referido no n.º 4.\n\n7 - A inscrição pode ser cancelada ou suspensa a pedido do próprio, podendo ser recusada pelo serviço competente do ministério responsável pela área da cultura sempre que verificar o não cumprimento dos requisitos estabelecidos nos números anteriores.\n\n8 - O Governo define, por portaria e no prazo de 60 dias a contar da data de entrada em vigor da presente lei, os procedimentos necessários e o serviço responsável pela manutenção e actualização do registo.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120335": {
+   "fragment_id": "36077275",
+   "type": 11,
+   "heading": "Artigo 4.º — Trabalho de estrangeiros",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 4.º — Trabalho de estrangeiros\n\nPara efeitos da lei que define as condições e procedimentos de entrada, permanência, saída e afastamento de cidadãos estrangeiros do território português, presume-se que os profissionais das artes do espectáculo e do audiovisual realizam actividades altamente qualificadas.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120336": {
+   "fragment_id": "56376321",
+   "type": 1,
+   "heading": "Capítulo II — Regime dos contratos de trabalho dos profissionais das artes do espetáculo e do audiovisual",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "### Capítulo II — Regime dos contratos de trabalho dos profissionais das artes do espetáculo e do audiovisual\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120337": {
+   "fragment_id": "36077375",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidades de contrato de trabalho dos artistas de espectáculos",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 5.º — Modalidades de contrato de trabalho dos artistas de espectáculos\n\nO contrato de trabalho dos artistas de espectáculos reveste as modalidades de contrato por tempo indeterminado ou de contrato a termo resolutivo, certo ou incerto.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120338": {
+   "fragment_id": "36077475",
+   "type": 11,
+   "heading": "Artigo 6.º — Presunção",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 6.º — Presunção\n\nPresume-se que existe um contrato de trabalho sempre que o artista de espectáculos esteja na dependência económica da entidade produtora ou organizadora dos espectáculos e realize a sua prestação sob a direcção e fiscalização desta, mediante retribuição.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120339": {
+   "fragment_id": "36077575",
+   "type": 11,
+   "heading": "Artigo 7.º — Contrato a termo para desempenho de actividade artística, técnico-artística ou de mediação",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 7.º — Contrato a termo para desempenho de actividade artística, técnico-artística ou de mediação\n\n1 - É admitida a celebração de contrato de trabalho a termo resolutivo, certo ou incerto, para o desempenho das actividades enunciadas na presente lei.\n\n2 - O contrato de trabalho a termo resolutivo certo tem a duração que as partes estipularem e apenas pode ser sujeito a renovação se as partes assim o estipularem expressamente.\n\n3 - O contrato de trabalho a termo certo tem a duração máxima de seis anos, não lhe sendo aplicável o regime previsto no Código do Trabalho em matéria de contratos sucessivos e limite de renovações.\n\n4 - Independentemente da duração dos contratos previstos neste artigo, o gozo das férias tem lugar antes da cessação daqueles, salvo acordo das partes quanto ao gozo em período diferente.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120340": {
+   "fragment_id": "36077675",
+   "type": 11,
+   "heading": "Artigo 8.º — Contrato por tempo indeterminado com exercício intermitente da prestação de trabalho",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 8.º — Contrato por tempo indeterminado com exercício intermitente da prestação de trabalho\n\n1 - Quando os espectáculos públicos não apresentem carácter de continuidade, pode ser acordado o exercício intermitente da prestação de trabalho, nos termos dos números seguintes.\n\n2 - Aquando da celebração ou durante a vigência de um contrato de trabalho por tempo indeterminado as partes podem acordar na sua sujeição, temporária ou definitiva, ao exercício intermitente da prestação de trabalho, bem como o início e o termo de cada período de trabalho e a antecedência com que o empregador deve informar o trabalhador do início daquele.\n\n3 - Para efeitos do disposto no número anterior, os tempos de trabalho efectivo correspondem à duração, promoção e preparação dos espectáculos públicos, aos tempos de deslocação quando se trate de espectáculos itinerantes e os tempos de não trabalho correspondem aos períodos de inactividade.\n\n4 - Durante os períodos de inactividade, o trabalhador mantém a disponibilidade para iniciar a sua prestação de trabalho desde que seja convocado pelo empregador com a antecedência acordada entre as partes que não deve ser inferior a 20 dias.\n\n5 - Nos períodos de inactividade, mantêm-se os direitos, deveres e garantias das partes que não pressuponham a prestação efectiva de trabalho.\n\n6 - Durante os períodos de inactividade, o trabalhador tem direito:\n\na) A exercer outra actividade;\n\nb) A uma compensação retributiva, a fixar por acordo das partes, com um mínimo de 30 % da retribuição normal;\n\nc) Aos complementos retributivos, designadamente subsídios de férias e de Natal, calculados com base no valor previsto para a retribuição correspondente ao último período de trabalho efectivo.\n\n7 - Durante os períodos de inactividade o empregador fica obrigado a:\n\na) Pagar pontualmente a compensação retributiva;\n\nb) Não admitir novos trabalhadores ou renovar contratos para actividades artísticas susceptíveis de poderem ser desempenhadas pelo trabalhador em situação de inactividade.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120341": {
+   "fragment_id": "36077775",
+   "type": 11,
+   "heading": "Artigo 9.º — Pluralidade de trabalhadores",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 9.º — Pluralidade de trabalhadores\n\n1 - O empregador pode celebrar um contrato de trabalho com pluralidade de trabalhadores para a prestação de uma actividade artística em grupo.\n\n2 - O contrato a que se refere o número anterior pode ser outorgado directamente pelos trabalhadores ou através de representante comum, designado por chefe do grupo, com a indicação individualizada de todos os trabalhadores.\n\n3 - A outorga de poderes de representação ao chefe do grupo, para os efeitos previstos no número anterior, carece de forma escrita.\n\n4 - O contrato de trabalho com pluralidade de trabalhadores pode ser celebrado por tempo indeterminado, com ou sem regime de intermitência, e a termo resolutivo, certo ou incerto.\n\n5 - Da celebração do contrato de trabalho em grupo decorrem tantos vínculos laborais quantos os trabalhadores que integram o grupo.\n\n6 - Quando o contrato de trabalho para a prestação de actividade artística em grupo é celebrado a termo, a verificação deste implica a extinção dos vínculos laborais de todos os membros do grupo.\n\n7 - A impossibilidade de prestação da actividade artística por um dos elementos contratados não implica a extinção do contrato de trabalho com os demais, salvo quando tal situação impossibilite a continuação da actividade.\n\n8 - Nas situações em que o contrato de trabalho seja outorgado através de representante comum, fica o empregador obrigado a entregar a cada um dos trabalhadores cópia do contrato.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120342": {
+   "fragment_id": "36077875",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma do contrato de trabalho",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 10.º — Forma do contrato de trabalho\n\n1 - (Revogado).\n\n2 - Os requisitos de forma previstos no Código do Trabalho para o contrato de trabalho a termo são aplicáveis, com as necessárias adaptações, aos contratos a que se refere o artigo 7.º\n\n3 - O acordo para o exercício intermitente da prestação de trabalho, nos termos do n.º 2 do artigo 8.º, deve ser assinado por ambas as partes e conter menção expressa do regime de intermitência, da data da celebração do acordo e a do início da produção dos respectivos efeitos, do período temporal a que respeita, dos períodos mínimos de trabalho efectivo e respectiva retribuição, bem como a retribuição para os períodos de inactividade, ficando cada uma com um exemplar.\n\n4 - (Revogado).\n\n5 - O contrato de trabalho com pluralidade de trabalhadores deve conter menção expressa da remuneração e regime de cada um dos trabalhadores.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120343": {
+   "fragment_id": "56371694",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Casos especiais de contrato de trabalho de muito curta duração",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16",
+    "Aditado pelo/a Artigo 36.º do/a [Lei n.º 105/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/105-2009-489755), em vigor a partir de 2009-09-15"
+   ],
+   "markdown": "###### Artigo 10.º-A — Casos especiais de contrato de trabalho de muito curta duração\n\n1 - O contrato de trabalho a termo resolutivo para a prestação de actividade artística de duração não superior a uma semana não está sujeito a forma escrita, devendo a entidade produtora ou organizadora dos espectáculos comunicar a sua celebração ao serviço competente da segurança social, mediante formulário electrónico, com os seguintes elementos:\n\na) Identificação, domicílio ou sede das partes;\n\nb) Actividade do trabalhador e correspondente retribuição;\n\nc) Local de trabalho;\n\nd) Data de início do trabalho.\n\n2 - No caso previsto no número anterior, a duração total de contratos de trabalho a termo com a mesma entidade produtora ou organizadora dos espectáculos não pode exceder 60 dias de trabalho no ano civil.\n\n3 - Em caso de violação do disposto em qualquer dos números anteriores, o contrato considera-se celebrado pelo prazo de seis meses, contando-se nesse prazo a duração de contratos anteriores celebrados ao abrigo dos mesmos preceitos.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16\n\n> Aditado pelo/a Artigo 36.º do/a [Lei n.º 105/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/lei/105-2009-489755), em vigor a partir de 2009-09-15"
+  },
+  "175120344": {
+   "fragment_id": "36077975",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos e deveres especiais dos trabalhadores das artes do espectáculo e do audiovisual",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 11.º — Direitos e deveres especiais dos trabalhadores das artes do espectáculo e do audiovisual\n\n1 -(Revogado).\n\n2 - Quando a actividade artística é desenvolvida em grupo, o trabalhador tem um especial dever de colaboração com os restantes membros do grupo, tendo em vista a execução da actividade em comum.\n\n3 - O trabalhador tem direito à ocupação efectiva quanto à realização de ensaios e demais actividades preparatórias do espectáculo público, não podendo ser excluído destas actividades sem justificação.\n\n4 - O empregador deve respeitar a autonomia da direcção, supervisão e realização artísticas do espectáculo, abstendo-se de nelas interferir.\n\n5 - As partes podem estabelecer, por escrito, que o trabalhador realiza a sua actividade artística em exclusivo para o empregador, mediante a fixação de uma compensação adequada para a prestação do trabalho em regime de exclusividade.\n\n6 - Quando não exista contrato de exclusividade, celebrado nos termos do número anterior, os trabalhadores das artes do espectáculo e do audiovisual podem celebrar contratos simultâneos com mais de uma entidade empregadora, desde que o cumprimento do objecto dos diferentes contratos não seja incompatível por razão de horário, localização geográfica, profissional ou outra.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120345": {
+   "fragment_id": "36078075",
+   "type": 11,
+   "heading": "Artigo 12.º — Tempo de trabalho",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 12.º — Tempo de trabalho\n\n1 - Considera-se tempo de trabalho o período de prestação efectiva da actividade artística perante o público ou equivalente, nos termos da alínea a) do artigo 1.º-A, bem como todo o tempo em que o trabalhador está adstrito à realização da sua prestação, em especial para efeitos de ensaios, pesquisa, estudo, actividades promocionais e de divulgação e ainda outros trabalhos de preparação ou finalização do espectáculo.\n\n2 - Ainda integram o tempo de trabalho as interrupções e os intervalos previstos como tal no Código do Trabalho ou em instrumento de regulamentação colectiva.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120346": {
+   "fragment_id": "36078175",
+   "type": 11,
+   "heading": "Artigo 13.º — Período normal de trabalho e descanso semanal",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 13.º — Período normal de trabalho e descanso semanal\n\n1 - O contrato de trabalho dos profissionais das artes do espectáculo e do audiovisual sujeita-se ao regime previsto no Código do Trabalho para o período normal de trabalho, a adaptabilidade do tempo de trabalho e o direito ao descanso diário e semanal, com a especificidade constante do número seguinte.\n\n2 - Os dias de descanso semanal obrigatório e complementar podem não coincidir com o domingo ou o sábado, respectivamente.\n\n3 - Por conveniência da organização do espectáculo, a compensação por trabalho prestado nos dias de descanso complementar do trabalhador deve efectuar-se no prazo máximo de seis meses.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120347": {
+   "fragment_id": "36078275",
+   "type": 11,
+   "heading": "Artigo 14.º — Horário de trabalho e intervalos de descanso",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 14.º — Horário de trabalho e intervalos de descanso\n\n1 - O contrato de trabalho dos profissionais das artes do espectáculo e do audiovisual sujeita-se ao regime previsto no Código do Trabalho no que respeita ao horário de trabalho e aos intervalos de descanso semanal, com a especificidade constante do número seguinte.\n\n2 - Salvo convenção em contrário, na determinação do horário de trabalho o empregador pode estabelecer um ou mais intervalos de descanso ou um regime de trabalho descontínuo adequado à especificidade da actividade ou do espectáculo ou ainda um horário de trabalho de início variável, denominado horário à tabela.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120348": {
+   "fragment_id": "36078375",
+   "type": 11,
+   "heading": "Artigo 15.º — Trabalho nocturno",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 15.º — Trabalho nocturno\n\nPara os efeitos da presente lei, considera-se trabalho nocturno qualquer período de trabalho prestado no intervalo das 0 às 5 horas, sem prejuízo da aplicação de regime legal ou convencional mais favorável.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120349": {
+   "fragment_id": "36078475",
+   "type": 11,
+   "heading": "Artigo 16.º — Trabalho em dia feriado",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+   ],
+   "markdown": "###### Artigo 16.º — Trabalho em dia feriado\n\n1 - As actividades de espectáculos públicos, bem como as actividades inerentes à sua preparação ou realização, podem ser prestadas em dia feriado.\n\n2 - Salvo convenção em contrário, o trabalhador que realiza a prestação em dia feriado tem direito a um descanso compensatório de igual duração, a ser gozado nos termos do previsto no n.º 3 do artigo 13.º, ou ao acréscimo de 100 % da retribuição pelo trabalho prestado nesse dia, cabendo a escolha ao empregador.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+  },
+  "175120350": {
+   "fragment_id": "36078575",
+   "type": 11,
+   "heading": "Artigo 17.º — Local de trabalho",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+   ],
+   "markdown": "###### Artigo 17.º — Local de trabalho\n\n1 - O trabalhador está adstrito à prestação da sua actividade no local onde se realizam os ensaios ou os espectáculos públicos ou equivalentes.\n\n2 - Sempre que o trabalhador tenha um acréscimo de despesas por deslocações inerentes à actividade laboral, o empregador fornece os meios para a sua realização ou procede ao respectivo pagamento ou reembolso.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+  },
+  "175120351": {
+   "fragment_id": "36078675",
+   "type": 11,
+   "heading": "Artigo 18.º — Direitos de propriedade intelectual",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 18.º — Direitos de propriedade intelectual\n\nOs direitos de propriedade intelectual decorrentes da actividade artística dos trabalhadores de espectáculos públicos regem-se pelo Código do Direito de Autor e dos Direitos Conexos, sem prejuízo de poderem ser exercidos individualmente se for essa a vontade expressa dos respectivos titulares, comunicada a entidade de gestão colectiva de direitos dos artistas.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120352": {
+   "fragment_id": "36078775",
+   "type": 11,
+   "heading": "Artigo 19.º — Reclassificação do trabalhador",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+   ],
+   "markdown": "###### Artigo 19.º — Reclassificação do trabalhador\n\n1 - Se o trabalhador perder, superveniente e definitivamente, a aptidão para a realização da actividade artística para que foi contratado, por motivo decorrente das características da própria actividade, o empregador, mediante parecer fundamentado de uma comissão, deve atribuir-lhe, sem perda de retribuição, outras funções compatíveis com as suas qualificações profissionais, mesmo que não incluídas no objecto do contrato de trabalho, devendo-lhe assegurar a formação profissional adequada.\n\n2 - A comissão referida no número anterior é constituída por um representante do empregador, um representante do trabalhador e um representante indicado por acordo das partes.\n\n3 - No caso de o trabalhador não aceitar a reclassificação proposta pelo empregador ou de não existirem outras funções compatíveis com as suas qualificações profissionais, o contrato de trabalho caduca.\n\n4 - A caducidade a que se refere o número anterior confere o direito à compensação prevista no artigo 401.º do Código do Trabalho, salvo se o trabalhador recusar injustificadamente a reclassificação.\n\n5 - Quando existam regimes especiais de segurança social, a caducidade do contrato de trabalho nos termos dos números anteriores não prejudica a aplicação desses regimes, tendo os trabalhadores direito à reforma por velhice logo que estejam preenchidos os respectivos requisitos.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+  },
+  "175120353": {
+   "fragment_id": "36078875",
+   "type": 11,
+   "heading": "Artigo 20.º — Contra-ordenações e sanção acessória",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 20.º — Contra-ordenações e sanção acessória\n\n1 - Constitui contra-ordenação grave a violação do disposto no n.º 7 do artigo 8.º e nos artigos 15.º e 16.º\n\n2 - A violação do disposto no n.º 3 do artigo 7.º e no n.º 7 do artigo 8.º determina a inibição por parte do empregador de aceder, pelo período de três anos, aos subsídios ou apoios do Estado destinados às actividades artísticas, sem prejuízo de outras disposições legais.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120354": {
+   "fragment_id": "56376322",
+   "type": 1,
+   "heading": "Capítulo III — Regime de segurança social aplicável aos profissionais das artes do espetáculo e do audiovisual",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "### Capítulo III — Regime de segurança social aplicável aos profissionais das artes do espetáculo e do audiovisual\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120355": {
+   "fragment_id": "36078975",
+   "type": 11,
+   "heading": "Artigo 21.º — Protecção social",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º — Protecção social\n\n1 - Aos profissionais das artes do espectáculo e do audiovisual é aplicável o regime de segurança social dos trabalhadores por conta de outrem, com as especificidades constantes da presente lei.\n\n2 - Os profissionais das artes do espectáculo e do audiovisual têm direito à protecção nas eventualidades garantidas pelo regime de segurança social dos trabalhadores por conta de outrem e ao subsídio de reconversão profissional.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120356": {
+   "fragment_id": "56372464",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Prestações de desemprego",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 16.º do/a [Lei n.º 22/2019 - Diário da República n.º 40/2019, Série I de 2019-02-26](https://diariodarepublica.pt/dr/detalhe/lei/22-2019-120272924), em vigor a partir de 2019-02-27",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-A — Prestações de desemprego\n\n1 - É aplicável aos trabalhadores das artes do espetáculo e do audiovisual abrangidos pela presente lei o regime de proteção na eventualidade de desemprego previsto no Decreto-Lei n.º 220/2006, de 3 de novembro.\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 16.º do/a [Lei n.º 22/2019 - Diário da República n.º 40/2019, Série I de 2019-02-26](https://diariodarepublica.pt/dr/detalhe/lei/22-2019-120272924), em vigor a partir de 2019-02-27\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120357": {
+   "fragment_id": "56372465",
+   "type": 11,
+   "heading": "Artigo 21.º-B — Subsídio de reconversão profissional",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-B — Subsídio de reconversão profissional\n\n1 - Os profissionais das artes do espectáculo e do audiovisual abrangidos pela presente lei que, em função da especificidade das suas actividades, tenham cessado o exercício da sua actividade antes de poderem beneficiar de uma pensão de velhice têm direito à atribuição de um subsídio de reconversão profissional, desde que preencham os seguintes requisitos:\n\na) Terem exercido, comprovadamente, uma actividade artística como profissionais durante um período não inferior a 10 anos, com registo de remunerações nos últimos cinco anos;\n\nb) Terem cessado o exercício da actividade artística há mais de seis meses e menos de dois anos;\n\nc) Terem rendimentos inferiores à remuneração mínima mensal garantida.\n\n2 - O montante do subsídio de reconversão profissional é fixado caso a caso, não podendo exceder o valor de 12 indexantes de apoio social.\n\n3 - O subsídio de reconversão profissional pode ser atribuído por uma só vez ou em prestações mensais que não podem exceder os 24 meses.\n\n4 - Os encargos correspondentes ao pagamento do subsídio de reconversão profissional são suportados conjuntamente por verbas do Ministério da Cultura e por verbas do Instituto do Emprego e Formação Profissional, I. P.\n\n5 - Ao subsídio de reconversão profissional são aplicáveis os procedimentos constantes do despacho n.º 20 871/2009, de 17 de Setembro, publicado no Diário da República, 2.ª série.\n\n6 - O subsídio de reconversão profissional não é cumulável com o pagamento do montante único das prestações de desemprego.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120358": {
+   "fragment_id": "56372469",
+   "type": 11,
+   "heading": "Artigo 21.º-C — Retribuição",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-C — Retribuição\n\nSem prejuízo do disposto no Código do Trabalho em matéria de retribuição, não integram o conceito de retribuição dos trabalhadores das artes do espectáculo e do audiovisual as importâncias despendidas pelo empregador a favor do trabalhador na constituição de seguros de doença, de acidentes pessoais e de seguros de vida que garantam exclusivamente o risco de morte, invalidez ou reforma por velhice, no último caso desde que o benefício seja garantido após os 55 anos de idade, desde que não garantam o pagamento e este se não verifique, nomeadamente por resgate ou adiantamento de qualquer capital em vida durante os primeiros cinco anos.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120359": {
+   "fragment_id": "56372470",
+   "type": 11,
+   "heading": "Artigo 21.º-D — Contribuições adicionais para o regime complementar de contas individuais",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-D — Contribuições adicionais para o regime complementar de contas individuais\n\nOs profissionais das artes do espectáculo e do audiovisual abrangidos pela presente lei podem optar, no âmbito do regime de contribuições voluntárias do regime complementar de contas individuais de natureza pública estabelecido no Decreto-Lei n.º 26/2008, de 22 de Fevereiro, pela aplicação da taxa contributiva de 6 % independentemente da respectiva idade.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120360": {
+   "fragment_id": "56372471",
+   "type": 11,
+   "heading": "Artigo 21.º-E — Beneficiários do regime de segurança social dos trabalhadores independentes",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-E — Beneficiários do regime de segurança social dos trabalhadores independentes\n\nOs trabalhadores independentes beneficiam, para além das prestações previstas de acordo com o esquema de protecção social aplicável, do disposto nos artigos 21.º-B e 21.º-D.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120361": {
+   "fragment_id": "56376323",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Aditado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120362": {
+   "fragment_id": "56372472",
+   "type": 11,
+   "heading": "Artigo 21.º-F — Regulamentação",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 21.º-F — Regulamentação\n\n1 - Os procedimentos que venham a ser necessários à execução do disposto na presente lei são aprovados por portaria dos membros do Governo responsáveis pelas áreas do trabalho, da solidariedade social e da cultura.\n\n2 - Os modelos dos formulários de requerimento são aprovados por despacho do membro do Governo responsável pela área do trabalho e da solidariedade social, publicado no Diário da República.»\n\n2 - São aditados à Lei n.º 4/2008, de 7 de Fevereiro:\n\na) O capítulo i, com a epígrafe «Disposições gerais», que compreende os artigos 1.º a 4.º;\n\nb) O capítulo ii, com a epígrafe «Regime dos contratos de trabalho dos profissionais das artes do espectáculo e do audiovisual», que compreende os artigos 5.º a 20.º;\n\nc) O capítulo iii, com a epígrafe «Regime de segurança social aplicável aos profissionais das artes do espectáculo e do audiovisual», que compreende os artigos 21.º a 21.º-E;\n\nd) O capítulo iv, com a epígrafe «Disposições finais», que compreende os artigos 21.º-F e 22.º\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120363": {
+   "fragment_id": "36079075",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+   ],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\n1 - São revogados os Decretos-Leis n.os 43 181 e 43 190, ambos de 23 de Setembro de 1960, e 38/87, de 26 de Janeiro.\n\n2 - São revogados os artigos 19.º a 21.º da Lei n.º 30/2006, de 11 de Julho.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)"
+  },
+  "175120364": {
+   "fragment_id": "36079175",
+   "type": 11,
+   "heading": "Artigo 23.º — Revisão",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01",
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+   ],
+   "markdown": "###### Artigo 23.º — Revisão\n\nO regime dos contratos de trabalho dos artistas de espectáculos aprovado pela presente lei deve ser revisto no prazo de quatro anos a contar da data da sua entrada em vigor.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003), em vigor a partir de 2011-07-16"
+  },
+  "175120365": {
+   "fragment_id": "36079275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "Aprovada em 30 de Novembro de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 22 de Janeiro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 24 de Janeiro de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 105/2021 - Diário da República n.º 231/2021, Série I de 2021-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2021-175043505), em vigor a partir de 2022-01-01"
+  }
+ }
+}

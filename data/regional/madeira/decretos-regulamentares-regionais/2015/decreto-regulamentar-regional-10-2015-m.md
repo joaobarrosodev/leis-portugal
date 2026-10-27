@@ -1,0 +1,305 @@
+---
+schema_version: '1.0'
+id: pt:dre:70014799:por
+title: Decreto Regulamentar Regional n.º 10/2015/M
+short_title: null
+summary: Aprova a Orgânica da Direção Regional do Património e de Gestão dos Serviços Partilhados
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 10/2015/M
+official_date: null
+publication_date: '2015-08-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 158/2015, Série I de 2015-08-14
+  number: '158'
+  series: I
+  supplement: null
+  pages: 5969 - 5972
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/08/15800/0596905972.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/10/2015/08/14/m/dre/pt/html
+  oj: null
+  dre: '70014799'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/10-2015-70014799
+  internal: pt:dre:70014799:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2015-70014799
+  metadata_url: https://data.dre.pt/eli/decregulreg/10/2015/08/14/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2015-70014799
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:48:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 87c3eefc5794ffa75b2d0b7bd9fe3dfcfafa17cf57d49c5a9f98d2d85f4b39d5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:48:02Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- DIREÇÃO REGIONAL DO PATRIMÓNIO E DE GESTÃO DOS SERVIÇOS PARTILHADOS
+- Direcção Regional do Património
+- Diretor Regional
+- Madeira.região Autónoma
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:116470102:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:106630891:por
+  label: Alterados os arts. 1.º e 3.º e aditados os arts. 4.º-A e 6.º-A ao presente diploma, que é republicado, pelo(a) Decreto
+    Regulamentar Regional n.º 5/2017/M - Diário da República n.º 56/2017, Série I de 2017-03-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/5-2017-106630891
+  date: '2017-03-20'
+- type: cites
+  target: pt:dre:174815:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+- type: cites
+  target: pt:dre:179276:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/18/2012/08/01/m/dre
+- type: cites
+  target: pt:dre:191542:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/27/2012/10/30/m/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:588851:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+- type: cites
+  target: pt:dre:629387:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:67332420:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/3/2015/05/28/m/dre
+- type: repealed_by
+  target: pt:dre:116470102:por
+  label: Revogado, a partir de 25.09.2018, o presente diploma, pelo(a) Decreto Regulamentar Regional n.º 12/2018/M - Diário
+    da República n.º 184/2018, Série I de 2018-09-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/12-2018-116470102
+  date: '2018-09-24'
+article_structure:
+  article_count: 11
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:48:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 10/2015/M
+
+Orgânica da Direção Regional do Património e de Gestão dos Serviços Partilhados
+
+O [Decreto Regulamentar Regional n.º 3/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2015-67332420), de 28 de maio, que aprovou a Lei Orgânica da Secretaria Regional das Finanças e da Administração Publica, determinou que a orgânica da Direção Regional do Património e de Gestão dos Serviços Partilhados deveria ser aprovada no prazo de 45 dias a contar da entrada em vigor daquele diploma, de acordo com o n.º 1 do artigo 26.º do mencionado diploma legal.
+
+Seguindo a linha de reestruturação verificada na Secretaria Regional das Finanças e da Administração Publica, procurou adaptar-se a estrutura da Direção Regional do Património e de Gestão dos Serviços Partilhados aos novos desafios propostos.
+
+Assim, nos termos do artigo 26.º do [Decreto Regulamentar Regional n.º 3/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2015-67332420), de 28 de maio, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas [Leis n.os 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos [Decretos Legislativos Regionais n.os 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, e [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, que o republicou, o Governo Regional da Madeira decreta o seguinte:
+
+### CAPÍTULO I — Natureza, missão, atribuições e órgãos
+
+###### Artigo 1.º — Natureza
+
+A Direção Regional do Património e de Gestão dos Serviços Partilhados, abreviadamente designada por DRPaGeSP, é o serviço da administração direta da Região Autónoma da Madeira, integrado na Secretaria Regional das Finanças e da Administração Pública (SRF), a que se refere a alínea e) do n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 3/2015/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2015-67332420), de 28 de maio.
+
+###### Artigo 2.º — Missão
+
+A DRPaGeSP é um serviço executivo da Secretaria Regional das Finanças e da Administração Pública que tem por missão executar e controlar as ações necessárias para a aquisição, gestão e administração do património da Região Autónoma da Madeira que não tenha sido transmitido nem esteja concessionado à PATRIRAM - Titularidade e Gestão de Património Público Regional, S. A., assegurar o aprovisionamento de bens e serviços da administração direta do Governo Regional, superintender a política regional para a área das comunicações, bem como apoiar a definição de políticas estratégicas nas áreas das tecnologias de informação e comunicação e dos sistemas de informação da administração pública regional, por forma a garantir a economia, a eficiência e a eficácia do aparelho administrativo e a modernização da administração regional e promover as ações necessárias, assegurando o planeamento, a conceção, a execução e a avaliação das iniciativas de informatização tecnológica em todos os organismos da administração regional.
+
+###### Artigo 3.º — Atribuições
+
+Para a prossecução da sua missão, a DRPaGeSP tem as seguintes atribuições:
+
+a) Promover a execução da política e a prossecução dos objetivos definidos pelo Governo Regional para o setor do património;
+
+b) Assegurar a execução e o controlo das ações necessárias à gestão do património da Região, à exceção do artístico e cultural, e ao aprovisionamento dos serviços que funcionem na dependência direta do Governo Regional;
+
+c) Estudar e propor as medidas necessárias à gestão e valorização dos bens da Região Autónoma da Madeira;
+
+d) Promover a racionalização do aprovisionamento dos bens e serviços necessários ao funcionamento dos serviços da administração direta do Governo Regional;
+
+e) Organizar, gerir e racionalizar a frota de veículos pertencentes à Região Autónoma da Madeira;
+
+f) Gerir os bens perdidos a favor da Região Autónoma da Madeira;
+
+g) Cooperar e assegurar a ligação com outras entidades nas áreas das aquisições públicas e de gestão patrimonial;
+
+h) Promover as negociações necessárias à concretização das aquisições de imóveis;
+
+i) Promover os procedimentos necessários aos processos de expropriação por utilidade pública;
+
+j) Apoiar a definição das linhas estratégicas e das políticas gerais relacionadas com a modernização e a simplificação administrativa e a administração eletrónica dos serviços públicos;
+
+k) Definir políticas transversais e regras com carácter vinculativo, em matéria de TIC na administração regional bem como coordenar a sua execução e monitorizar o seu cumprimento;
+
+l) Prestar apoio e assessoria técnica no domínio das Tecnologias de Informação e Comunicação (TIC) aos organismos e serviços do Governo Regional, nomeadamente através de emissão de pareceres previstos na lei;
+
+m) Conceber, promover, implementar, explorar, acompanhar e avaliar os sistemas de informação da administração pública regional direta;
+
+n) Estudar, definir e acompanhar a arquitetura e funcionamento dos sistemas de informação relativos à gestão dos recursos humanos, financeiros e patrimoniais do Governo Regional;
+
+o) Proceder à aquisição de hardware e software e de sistemas de comunicações e respetiva gestão de contratos;
+
+p) Assegurar a gestão do parque informático e das redes de comunicações;
+
+q) Promover a realização de ações de formação e aperfeiçoamento profissional, seminários, colóquios, conferências e workshops em TIC;
+
+r) Promover ações de promoção tecnológica e a adoção de códigos e normas no domínio das tecnologias de informação assegurando a conexão e compatibilidade dos sistemas;
+
+s) Coordenar, desenvolver, gerir e avaliar programas, projetos e ações de natureza transversal na área das comunicações, promovendo a evolução da atual infraestrutura tecnológica bem como a racionalização de custo de comunicações na administração pública regional;
+
+t) Contribuir no âmbito da coordenação sectorial para a racionalização e alinhamento estratégico dos investimentos em TIC na administração pública regional através da implementação de um plano estratégico de racionalização e redução de custos com as Tecnologias de Informação e Comunicação na Administração Regional e a prestação de serviços partilhados;
+
+u) Acompanhar a evolução da política informática da administração pública central;
+
+v) Exercer todas as demais atribuições que lhe forem expressamente cometidas por diploma regional ou que decorram do normal exercício das suas funções.
+
+###### Artigo 4.º — Diretor Regional
+
+1 - A DRPaGeSP é dirigida pelo Diretor Regional do Património e de Gestão dos Serviços Partilhados, adiante designado abreviadamente por diretor regional, cargo de direção superior de 1.º grau.
+
+2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor regional, no âmbito da orientação e gestão da DRPaGeSP:
+
+a) Coordenar e orientar a ação dos diversos serviços da Direção Regional, segundo as diretrizes do secretário regional, nos domínios da gestão do património, comunicações e informática da administração pública;
+
+b) Apoiar o secretário regional na definição, execução e controlo de todas as medidas respeitantes ao património da Região e à Gestão dos Serviços Partilhados;
+
+c) Propor a aprovação e dar parecer sobre as normas relativas à uniformização e racionalização dos procedimentos de gestão dos bens patrimoniais da Região;
+
+d) Emitir pareceres que, nos termos da lei, sejam da competência da DRPaGeSP, nomeadamente nos domínios das tecnologias de informação e comunicação;
+
+e) Administrar os bens patrimoniais da Região Autónoma da Madeira, com exceção dos transmitidos ou concessionados à PATRIRAM;
+
+f) Propor e coordenar as negociações necessárias à aquisição e alienação de imóveis;
+
+g) Propor, sempre que se torne necessário, o arrendamento de imóveis destinados à instalação de serviços públicos;
+
+h) Transmitir instruções de caráter geral e obrigatório sobre matérias da sua competência a todos os serviços regionais, obtida a concordância do secretário regional;
+
+i) Promover as ações necessárias com vista à organização e atualização do cadastro e inventário dos bens da Região Autónoma da Madeira;
+
+j) Promover a execução da política de informática e das comunicações e a prossecução dos objetivos definidos para aquele sector;
+
+k) Propor normas e regulamentos necessários ao cumprimento das atribuições que estão cometidas à DRPaGeSP;
+
+l) Regulamentar e aprovar os cursos de formação em TIC ministrados pela DRPaGeSP;
+
+m) Propor o orçamento anual da DRPaGeSP e administrar as respetivas dotações;
+
+n) Propor superiormente a constituição de equipas de projeto;
+
+o) Executar tudo o mais que lhe for expressamente cometido por diploma legal ou que decorra do normal desempenho das suas funções.
+
+3 - O diretor regional é coadjuvado por um subdiretor regional, cargo de direção superior de 2.º grau.
+
+4 - É delegada no diretor regional, que a poderá subdelegar, a competência para, em representação da Região Autónoma da Madeira, requerer, assinar e praticar todos os atos necessários à regularização e registo das aquisições de imóveis e arrendamentos efetuados pelo Governo Regional, em nome da Região Autónoma da Madeira, designadamente, em conservatórias, serviços de finanças e câmaras municipais.
+
+5 - Para efeitos do disposto nos números anteriores, poderá ser solicitada a colaboração, informações e elementos, aos serviços da administração direta e indireta da Região Autónoma da Madeira e demais entidades tuteladas pela Região Autónoma da Madeira.
+
+6 - O diretor regional pode, nos termos da lei, delegar ou subdelegar competências, no subdiretor regional e em titulares de cargos de direção.
+
+7 - O diretor regional é substituído, nas suas ausências, faltas e impedimentos, pelo subdiretor regional e na falta deste por um titular de cargo de direção intermédia de 1.º grau a designar.
+
+### CAPÍTULO II — Estrutura e funcionamento geral
+
+###### Artigo 5.º — Organização interna
+
+A organização interna da DRPaGeSP obedece ao modelo organizacional hierarquizado, compreendendo unidades orgânicas nucleares e flexíveis e secções ou áreas de coordenação administrativa, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos [Decretos Legislativos Regionais n.os 24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, e [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro.
+
+###### Artigo 6.º — Dotação de cargos de direção
+
+A dotação de cargos de direção superior de 1.º e 2.º grau e de direção intermédia de 1.º grau consta do mapa anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 7.º — Receitas
+
+A DRPaGeSP dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento da Região Autónoma da Madeira.
+
+###### Artigo 8.º — Despesas
+
+Constituem despesas da DRPaGeSP as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+### CAPÍTULO III — Disposições finais e transitórias
+
+###### Artigo 9.º — Norma transitória
+
+Até à entrada em vigor dos diplomas que aprovam a organização interna referida no artigo 5.º, mantêm-se em vigor as Portarias n.os 135-A/2012, de 30 de outubro, e 122-A/2013, de 27 de dezembro, e os Despachos n.os 57/2012, de 29 de novembro, e 1-B/2014, de 2 de janeiro, bem como as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas naqueles previstas.
+
+###### Artigo 10.º — Norma revogatória
+
+São revogados:
+
+a) O [Decreto Regulamentar Regional n.º 18/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2012-179276), de 1 de agosto;
+
+b) O [Decreto Regulamentar Regional n.º 27/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2012-191542), de 30 de outubro.
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 9 de julho de 2015.
+
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
+
+Assinado em 17 de julho de 2015.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+## ANEXO I — Mapa de cargos dirigentes a que se refere o artigo 6.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2015/08/15800/0596905972.pdf)

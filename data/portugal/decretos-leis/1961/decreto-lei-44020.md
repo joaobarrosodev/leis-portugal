@@ -1,0 +1,183 @@
+---
+schema_version: '1.0'
+id: pt:dre:181429:por
+title: Decreto-Lei n.º 44020
+short_title: null
+summary: Manda formar na Direcção-Geral da Previdência e Habitações Económicas um quadro de pessoal destinado a coadjuvar
+  a execução dos serviços relativos a habitações económicas - Revoga os Decretos-Leis n.os 23747 e 29553 e o artigo 82.º do
+  Decreto n.º 37268
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Corporações e Previdência Social - Direcção-Geral da Previdência e Habitações Económicas
+proposing_entity: null
+official_number: '44020'
+official_date: null
+publication_date: '1961-11-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 260/1961, Série I de 1961-11-09
+  number: '260'
+  series: I
+  supplement: null
+  pages: 1381 - 1382
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/11/26000/13811382.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '181429'
+  dre_path: /dr/detalhe/decreto-lei/44020-1961-181429
+  internal: pt:dre:181429:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44020-1961-181429
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44020-1961-181429
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:38:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 58368afc2bccc8bcfe13050f004fd94a304beaa33d04898a7202a0d055b476b7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:38:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral da Previdência e Habitações Económicas
+- Ministério das Corporações e Previdência Social
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:676456:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:234690:por
+  label: "Aumentado o quadro do pessoal do Fundo das Casas Económicas, a que se refere o art. 1º do presente diploma, pelo\
+    \ DEC LEI.48352.25.04.1968.MCPS, DG.IS [99] de 25.04.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48352-1968-234690
+  date: '1968-04-25'
+- type: amended_by
+  target: pt:dre:676456:por
+  label: "Alterado o quadro do Serviço de Inquéritos Habitacionais pelo DEC LEI.320/72.18.08.1972.MCPS, DG.IS [192] de 18.08.1972\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/320-1972-676456
+  date: '1972-08-18'
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:323359:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354906:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370221:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:481124:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:675629:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:38:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44020
+
+O [Decreto-Lei n.º 37244](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37244-1948-370221), de 27 de Dezembro de 1948, que reformou os serviços do Instituto Nacional do Trabalho e Previdência, e o [Decreto n.º 37268](https://diariodarepublica.pt/dr/detalhe/decreto/37268-1948-354906), de 31 do mesmo mês e ano, que aprovou o respectivo regulamento, atribuíram à 2.ª Repartição da Direcção-Geral da Previdência e Habitações Económicas o estudo e expediente dos assuntos relativos a casas económicas, incluindo a contabilidade e tesouraria do Fundo das Casas Económicas.
+
+O segundo dos citados diplomas anteviu desde logo a necessidade de recrutamento, a título precário, de pessoal estranho ao quadro geral do Instituto para ocorrer aos acréscimos de serviço resultantes da distribuição das moradias de novos bairros, dispondo que os encargos correspondentes fossem suportados pelo Fundo das Casas Económicas.
+
+Com essa única providência se ficou até agora, visto que nem a criação do Ministério das Corporações e Previdência Social pelo [Decreto-Lei n.º 37909](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37909-1950-481124), de 1 de Agosto de 1950, nem a subsequente fixação de quadros pelo [Decreto-Lei n.º 38152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38152-1951-323359), de 17 de Janeiro de 1951, trouxeram qualquer acréscimo de pessoal aos quadros da Direcção-Geral da Previdência e Habitações Económicas.
+
+É, no entanto, evidente que o aumento de serviço provocado pelos novos bairros desde então construídos, aliado ao que há a esperar do progresso normal da construção a desenvolver em escala ainda não atingida, como consequência da aplicação dos capitais disponíveis da previdência, permitida e regulada pelos Decretos-Leis n.os 40246, de 6 de Julho de 1955, e 40552, de 12 de Março de 1956, à construção de casas económicas e da realização dos inquéritos previstos no artigo 3.º do [Decreto-Lei n.º 39978](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39978-1954-675629), de 20 de Dezembro de 1954, para recolha dos indispensáveis elementos orientadores da política habitacional, aconselha a definição das categorias e o reajustamento e reforço dos quadros.
+
+Esta situação ainda mais se agravou com a publicação, em 9 de Abril de 1958, da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), que promulga as bases da cooperação das instituições de previdência, das Casas do Povo e suas federações no fomento da habitação, dada a interferência directa que os serviços do Ministério têm na execução das disposições daquela lei.
+
+Esse é um dos objectivos do presente diploma. Outro é o de, pela inscrição dos respectivos encargos no Orçamento Geral do Estado, se tornar possível ao pessoal o direito à reforma.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Enquanto não for publicada a reorganização dos serviços do Ministério das Corporações e Previdência Social, é formado na Direcção-Geral da Previdência e Habitações Económicas o quadro de pessoal constante do mapa anexo a este decreto-lei, destinado a coadjuvar a execução dos serviços relativos a habitações económicas.
+
+Art. 2.º À medida que sejam construídos novos bairros de casas económicas, será o quadro do pessoal mencionado no artigo 1.º acrescido do número de fiscais considerados necessários à sua fiscalização, mediante decreto referendado pelos Ministros das Finanças e das Corporações e Previdência Social.
+
+Art. 3.º Os encargos resultantes da execução deste diploma serão inscritos no Orçamento Geral do Estado, reembolsando o Fundo das Casas Económicas, trimestralmente, o Tesouro da importância despendida, mediante guia de receita passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.
+
+Art. 4.º O recrutamento do pessoal para os serviços mencionados no artigo 1.º será feito da forma seguinte:
+
+a) Em comissão de serviço, por funcionários requisitados a quaisquer serviços do Estado, desde que tenha a anuência do titular da respectiva pasta;
+
+b) Por candidatos aprovados em concurso de provas públicas para correspondentes categorias dos quadros do Ministério, sem prejuízo do seu regresso ao quadro de origem quando vier a competir-lhes a vacatura;
+
+c) Na falta de candidatos a que se refere a alínea anterior abrir-se-á concurso nas mesmas condições em que o são para idênticos lugares dos quadros do Ministério;
+
+d) O lugar de médico será provido em indivíduo licenciado em Medicina, mediante contrato de prestação de serviço;
+
+e) O pessoal de fiscalização e o menor será recrutado entre indivíduos habilitados com instrução primária.
+
+§ 1.º Sem prejuízo do estabelecido no corpo do artigo, ao provimento dos cargos previstos neste diploma aplicar-se-ão as disposições adaptáveis do actual regulamento do Instituto Nacional do Trabalho e Previdência.
+
+§ 2.º Não obstante o disposto no corpo do artigo, o pessoal cuja remuneração está actualmente a ser satisfeita pelo orçamento do Fundo das Casas Económicas será colocado em correspondentes lugares do novo quadro através de relação a publicar no Diário do Governo, sem dependência de quaisquer outras formalidades, inclusive o visto do Tribunal de Contas.
+
+§ 3.º O preenchimento de qualquer cargo em comissão de serviço, enquanto se mantiver, confere ao comissionado todos os direitos no quadro a que for requisitado.
+
+§ 4.º O pessoal de secretaria poderá concorrer ao preenchimento das vagas abertas para a categoria imediatamente superior dos quadros do Ministério, nas condições estabelecidas para os funcionários dos mesmos quadros.
+
+Art. 5.º Ficam revogados os Decretos-Leis n.os 23747, de 9 de Abril de 1934, 29553, de 26 de Abril de 1939, e o artigo 82.º do [Decreto n.º 37268](https://diariodarepublica.pt/dr/detalhe/decreto/37268-1948-354906), de 31 de Dezembro de 1948.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 9 de Novembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Quadro do pessoal do Fundo das Casas Económicas, a que se refere o artigo 1.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/11/26000/13811382.pdf)
+
+Ministério das Corporações e Previdência Social, 9 de Novembro de 1961. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

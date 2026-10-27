@@ -1,0 +1,118 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:621333:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1996-178922904",
+ "dre_path": "/dr/detalhe/portaria/1-1996-621333",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1996-01-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "178862841"
+   ]
+  },
+  {
+   "date": "1996-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:445095:por",
+     "title": "Portaria n.º 180/96",
+     "published": "1996-05-29",
+     "dre_path": "/dr/detalhe/portaria/180-1996-445095"
+    }
+   ],
+   "changes": [
+    "Altera Diploma",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "178862836",
+    "178862837",
+    "178862840"
+   ]
+  },
+  {
+   "date": "2022-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178859290:por",
+     "title": "Portaria n.º 91/2022",
+     "published": "2022-02-09",
+     "dre_path": "/dr/detalhe/portaria/91-2022-178859290"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "178862841",
+    "178862842",
+    "178862843"
+   ]
+  }
+ ],
+ "fragments": {
+  "178862841": {
+   "fragment_id": "178922905",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-03-11",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1/96\n\nde 3 de Janeiro\n\nCom a publicação do Decreto-Lei n.º 93/94, de 7 de Abril, pretendeu-se estabelecer um novo quadro legal regulador do fabrico e comercialização das cervejas, aí se prevendo que por portaria fossem estabelecidas as normas técnicas relativas a definições, classificação, composição e características das cervejas, regras de acondicionamento e rotulagem, bem como os respectivos métodos de análise e amostragem.\n\nAssim:\n\nManda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, nos termos do disposto no artigo 1.º do Decreto-Lei n.º 93/94, de 7 de Abril, o seguinte:\n\n1.º O presente diploma define e estabelece as características e regras de fabrico, acondicionamento e rotulagem das cervejas.\n\n2.º Para efeitos do disposto nesta portaria, entende-se por cerveja a bebida obtida por fermentação alcoólica, mediante leveduras seleccionadas do género Sacharomyces, de um mosto preparado a partir de malte de cereais, principalmente cevada, e outras matérias-primas amiláceas ou açucaradas, ao qual foram adicionadas flores de lúpulo ou seus derivados e água potável.\n\n3.º São admitidos os seguintes tipos de cerveja:\n\na) «Cerveja sem álcool» - o produto correspondente à definição do n.º 2.º cujo teor alcoólico seja igual ou inferior a 0,5% vol.;\n\nb) «Cerveja com baixo teor alcoólico» - o produto correspondente à definição do n.º 2.º cujo teor alcoólico seja superior a 0,5% mas inferior ou igual a 1,2% vol.;\n\nc) «Cerveja» ou «cerveja corrente» - o produto correspondente à definição do n.º 2.º cujo teor alcoólico seja superior a 1,2% vol. e que apresente um extracto primitivo, expresso em graus Plato, não superior a 13º;\n\nd) «Cerveja especial» - o produto correspondente à definição do n.º 2.º cujo teor alcoólico seja superior a 1,2% vol. e que apresente um extracto primitivo, expresso em graus Plato, superior a 13 e igual ou inferior a 15º;\n\ne) «Cerveja extra» - o produto correspondente à definição do n.º 2.º cujo teor alcoólico seja superior a 1,2% vol. e que apresente um extracto primitivo, expresso em graus Plato, superior a 15º;\n\nf) «Cerveja de fermentação láctica» - o produto correspondente à definição do n.º 2.º que sofreu uma fermentação láctica no decurso do seu processo de produção;\n\ng) «Cerveja refermentada em garrafa» - o produto correspondente à definição do n.º 2.º que sofreu uma refermentação na garrafa, por adição de levedura apropriada e acondicionamento adequado.\n\n4.º As cervejas poderão ainda ser adicionadas de frutos, produtos hortícolas ou plantas aromáticas, ou dos respectivos sumos, concentrados ou extractos, até ao máximo de 10% em volume do produto final, bem como dos aromas legalmente autorizados.\n\n5.º Sem prejuízo do disposto nos n.os 3.º e 4.º, as cervejas terão de apresentar as seguintes características:\n\na) Cor, cheiro e sabor normais;\n\nb) Ausência de depósito perceptível e persistente após vinte e quatro horas de repouso a 20ºC, com excepção das cervejas mencionadas nas alíneas f) e g) do n.º 3.º;\n\nc) Teor de acidez total, após eliminação do dióxido de carbono, igual ou inferior a 3 g/l, expresso em ácido láctico;\n\nd) Valor do pH compreendido entre 3,5 e 5 (inclusive);\n\ne) Teor de acidez volátil, por destilação numa corrente de vapor, igual ou inferior a 36 mg por 100 ml de cerveja, expresso em ácido acético;\n\nf) Não conter contaminantes que ultrapassem os seguintes limites:\n\nZinco: 1 mg/l;\n\nFerro: 0,3 mg/l;\n\nCobre: 0,2 mg/l;\n\nChumbo: 0,2 mg/l;\n\nArsénio: 0,1 mg/l;\n\nCobalto: 0,05 mg/l.\n\n6.º No fabrico das cervejas, são autorizados os aditivos estabelecidos na lei para estes produtos, bem como os auxiliares tecnológicos referidos no anexo I da presente portaria, da qual faz parte integrante.\n\n7.º Para efeitos de verificação das características fixadas neste diploma, são utilizados os métodos de análise adoptados pela European Brewery Convention.\n\n8.º - 1 - As cervejas, quando comercializadas pré-embaladas, devem ser acondicionadas em recipientes hermeticamente vedados, de vidro ou de outro material inerte e impermeável em relação ao conteúdo, inócuo e que garanta a conservação das suas características organolépticas e do seu estado sanitário.\n\n2 - As cervejas não pré-embaladas devem ser comercializadas nas devidas condições higiénicas e em recipientes adequados que garantam a conservação das características do produto.\n\n9.º - 1 - A comercialização de cervejas pré-embaladas em recipientes com capacidades compreendidas entre 5 ml e 10 l só pode ser efectuada nas seguintes quantidades líquidas: 0,25 l; 0,33 l; 0,50 l; 0,75 l; 1,0 l; 2,0 l; 3,0 l; 4,0 l, e 5,0 l.\n\n2 - São ainda admitidas no mercado nacional embalagens com as quantidades líquidas de 0,20 l e 0,30 l.\n\n10.º Na rotulagem das cervejas, pré-embaladas ou não, são obrigatórias as seguintes indicações:\n\na) A denominação de venda, que deverá ser uma das constantes do n.º 3.º;\n\nb) Nos casos previstos no n.º 4.º, a denominação de venda poderá ser completada com a indicação do ou dos ingredientes adicionados, ou com a menção «aromatizada»;\n\nc) A lista de ingredientes, precedida da palavra «ingredientes» ou da menção «produzida a partir de ...»;\n\nd) A quantidade líquida;\n\ne) A data de durabilidade mínima;\n\nf) A indicação do lote, precedida da letra «L» ou «l», salvo no caso em que se distinga claramente das outras indicações de rotulagem;\n\ng) O teor alcoólico, em valor aproximado no máximo até às décimas, seguido da expressão «...% vol.» e podendo ser antecedido do termo «álcool» ou «álc.»;\n\nh) O nome, a firma ou a denominação social e a morada do produtor, embalador, importador, armazenista ou outro vendedor estabelecido na Comunidade.\n\n11.º Na rotulagem das cervejas não pré-embaladas, as menções a que se refere o número anterior poderão constar apenas dos respectivos documentos de acompanhamento.\n\n12.º É aplicável à rotulagem das cervejas o disposto na lei geral da rotulagem em tudo o que não estiver expressamente previsto neste diploma.\n\n13.º O disposto no presente diploma aplica-se sem prejuízo da livre circulação dos produtos que sejam legalmente produzidos e ou comercializados nos Estados contratantes do Acordo EEE.\n\n14.º Às infracções ao presente diploma é aplicável o disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro.\n\nMinistérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n> Nota: [Artigo 8.º, Portaria n.º 91/2022 - Diário da República n.º 28/2022, Série I de 2022-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/91-2022-178859290) É permitida, durante um período de 18 meses a contar da data de entrada em vigor da presente portaria (2022-03-11), a comercialização de cerveja que cumpra os requisitos previstos na Portaria n.º 1/96, de 3 de janeiro."
+  },
+  "178862836": {
+   "fragment_id": "178922905",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 180/96 - Diário da República n.º 125/1996, Série I-B de 1996-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/180-1996-445095), em vigor a partir de 1996-06-03"
+   ],
+   "markdown": "Portaria n.º 1/96\n\nde 3 de Janeiro\n\nCom a publicação do Decreto-Lei n.º 93/94, de 7 de Abril, pretendeu-se estabelecer um novo quadro legal regulador do fabrico e comercialização das cervejas, aí se prevendo que por portaria fossem estabelecidas as normas técnicas relativas a definições, classificação, composição e características das cervejas, regras de acondicionamento e rotulagem, bem como os respectivos métodos de análise e amostragem.\n\nAssim:\n\nManda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, nos termos do disposto no artigo 1.º do Decreto-Lei n.º 93/94, de 7 de Abril, o seguinte:\n\n1.º O presente diploma define e estabelece as características e regras de fabrico, acondicionamento e rotulagem das cervejas.\n\n2.º Para efeitos do disposto nesta portaria, entende-se por cerveja a bebida obtida por fermentação alcoólica, mediante leveduras seleccionadas do género Sacharomyces, de um mosto preparado a partir de malte de cereais, principalmente cevada, e outras matérias-primas amiláceas ou açucaradas, ao qual foram adicionadas flores de lúpulo ou seus derivados e água potável.\n\n3.º São admitidos os seguintes tipos de cerveja:\n\na) «Cerveja sem álcool» - o produto correspondente à definição do n.º 2.º cujo teor alcoólico seja igual ou inferior a 0,5% vol.;\n\nb) «Cerveja com baixo teor alcoólico» - o produto correspondente à definição do n.º 2.º cujo teor alcoólico seja superior a 0,5% mas inferior ou igual a 1,2% vol.;\n\nc) «Cerveja» ou «cerveja corrente» - o produto correspondente à definição do n.º 2.º cujo teor alcoólico seja superior a 1,2% vol. e que apresente um extracto primitivo, expresso em graus Plato, não superior a 13º;\n\nd) «Cerveja especial» - o produto correspondente à definição do n.º 2.º cujo teor alcoólico seja superior a 1,2% vol. e que apresente um extracto primitivo, expresso em graus Plato, superior a 13 e igual ou inferior a 15º;\n\ne) «Cerveja extra» - o produto correspondente à definição do n.º 2.º cujo teor alcoólico seja superior a 1,2% vol. e que apresente um extracto primitivo, expresso em graus Plato, superior a 15º;\n\nf) «Cerveja de fermentação láctica» - o produto correspondente à definição do n.º 2.º que sofreu uma fermentação láctica no decurso do seu processo de produção;\n\ng) «Cerveja refermentada em garrafa» - o produto correspondente à definição do n.º 2.º que sofreu uma refermentação na garrafa, por adição de levedura apropriada e acondicionamento adequado.\n\n4.º As cervejas poderão ainda ser adicionadas de frutos, produtos hortícolas ou plantas aromatizadas, ou dos respectivos sumos, concentrados ou extractos, até ao máximo de 10% em volume do produto final, bem como dos aromas legalmente autorizados.\n\n5.º Sem prejuízo do disposto nos n.os 3.º e 4.º, as cervejas terão de apresentar as seguintes características:\n\na) Cor, cheiro e sabor normais;\n\nb) Ausência de depósito perceptível e persistente após vinte e quatro horas de repouso a 20ºC, com excepção das cervejas mencionadas nas alíneas f) e g) do n.º 3.º;\n\nc) Teor de acidez total, após eliminação do dióxido de carbono, igual ou inferior a 3 g/l, expresso em ácido láctico;\n\nd) Valor do pH compreendido entre 3,5 e 5 (inclusive);\n\ne) Teor de acidez volátil, por destilação numa corrente de vapor, igual ou inferior a 36 mg por 100 ml de cerveja, expresso em ácido acético;\n\nf) Não conter contaminantes que ultrapassem os seguintes limites:\n\nZinco: 1 mg/l;\n\nFerro: 0,3 mg/l;\n\nCobre: 0,2 mg/l;\n\nChumbo: 0,2 mg/l;\n\nArsénio: 0,1 mg/l;\n\nCobalto: 0,05 mg/l.\n\n6.º No fabrico das cervejas, são autorizados os aditivos estabelecidos na lei para estes produtos, bem como os auxiliares tecnológicos referidos no anexo I da presente portaria, da qual faz parte integrante.\n\n7.º Para efeitos de verificação das características fixadas neste diploma, são utilizados os métodos de análise adoptados pela European Brewery Convention.\n\n8.º - 1 - As cervejas, quando comercializadas pré-embaladas, devem ser acondicionadas em recipientes hermeticamente vedados, de vidro ou de outro material inerte e impermeável em relação ao conteúdo, inócuo e que garanta a conservação das suas características organolépticas e do seu estado sanitário.\n\n2 - As cervejas não pré-embaladas devem ser comercializadas nas devidas condições higiénicas e em recipientes adequados que garantam a conservação das características do produto.\n\n9.º - 1 - A comercialização de cervejas pré-embaladas em recipientes com capacidades compreendidas entre 5 ml e 10 l só pode ser efectuada nas seguintes quantidades líquidas: 0,25 l; 0,33 l; 0,50 l; 0,75 l; 1,0 l; 2,0 l; 3,0 l; 4,0 l, e 5,0 l.\n\n2 - São ainda admitidas no mercado nacional embalagens com as quantidades líquidas de 0,20 l e 0,30 l.\n\n10.º Na rotulagem das cervejas, pré-embaladas ou não, são obrigatórias as seguintes indicações:\n\na) A denominação de venda, que deverá ser uma das constantes do n.º 3.º;\n\nb) Nos casos previstos no n.º 4.º, a denominação de venda poderá ser completada com a indicação do ou dos ingredientes adicionados, ou com a menção «aromatizada»;\n\nc) A lista de ingredientes, precedida da palavra «ingredientes» ou da menção «produzida a partir de ...»;\n\nd) A quantidade líquida;\n\ne) A data de durabilidade mínima;\n\nf) A indicação do lote, precedida da letra «L» ou «l», salvo no caso em que se distinga claramente das outras indicações de rotulagem;\n\ng) O teor alcoólico, em valor aproximado no máximo até às décimas, seguido da expressão «...% vol.» e podendo ser antecedido do termo «álcool» ou «álc.»;\n\nh) O nome, a firma ou a denominação social e a morada do produtor, embalador, importador, armazenista ou outro vendedor estabelecido na Comunidade.\n\n11.º Na rotulagem das cervejas não pré-embaladas, as menções a que se refere o número anterior poderão constar apenas dos respectivos documentos de acompanhamento.\n\n12.º É aplicável à rotulagem das cervejas o disposto na lei geral da rotulagem em tudo o que não estiver expressamente previsto neste diploma.\n\n13.º O disposto no presente diploma aplica-se sem prejuízo da livre circulação dos produtos que sejam legalmente produzidos e ou comercializados nos Estados contratantes do Acordo EEE.\n\n14.º Às infracções ao presente diploma é aplicável o disposto no Decreto-Lei n.º 28/84, de 20 de Janeiro.\n\nMinistérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n> Alterado pelo/a [Portaria n.º 180/96 - Diário da República n.º 125/1996, Série I-B de 1996-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/180-1996-445095), em vigor a partir de 1996-06-03"
+  },
+  "178862837": {
+   "fragment_id": "178922906",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 24 de Novembro de 1995.\n\nO Ministro da Economia, Daniel Bessa Fernandes Coelho. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva."
+  },
+  "178862840": {
+   "fragment_id": "178922907",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "1996-06-03",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 180/96 - Diário da República n.º 125/1996, Série I-B de 1996-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/180-1996-445095), em vigor a partir de 1996-06-03"
+   ],
+   "markdown": "## Anexo I\n\nAuxiliares tecnológicos\n\n(ver documento original)\n\n> Alterado pelo/a [Portaria n.º 180/96 - Diário da República n.º 125/1996, Série I-B de 1996-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/180-1996-445095), em vigor a partir de 1996-06-03"
+  },
+  "178862842": {
+   "fragment_id": "178922906",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-03-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 91/2022 - Diário da República n.º 28/2022, Série I de 2022-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/91-2022-178859290), em vigor a partir de 2022-03-11"
+   ],
+   "markdown": "Assinada em 24 de Novembro de 1995.\n\nO Ministro da Economia, Daniel Bessa Fernandes Coelho. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 91/2022 - Diário da República n.º 28/2022, Série I de 2022-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/91-2022-178859290), em vigor a partir de 2022-03-11"
+  },
+  "178862843": {
+   "fragment_id": "178922907",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2022-03-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 91/2022 - Diário da República n.º 28/2022, Série I de 2022-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/91-2022-178859290), em vigor a partir de 2022-03-11",
+    "Alterado pelo/a [Portaria n.º 180/96 - Diário da República n.º 125/1996, Série I-B de 1996-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/180-1996-445095), em vigor a partir de 1996-06-03"
+   ],
+   "markdown": "## Anexo I\n\nAuxiliares tecnológicos\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 91/2022 - Diário da República n.º 28/2022, Série I de 2022-02-09](https://diariodarepublica.pt/dr/detalhe/portaria/91-2022-178859290), em vigor a partir de 2022-03-11\n\n> Alterado pelo/a [Portaria n.º 180/96 - Diário da República n.º 125/1996, Série I-B de 1996-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/180-1996-445095), em vigor a partir de 1996-06-03"
+  }
+ }
+}

@@ -1,0 +1,83 @@
+name: Atualização diária
+
+# Recolhe do DRE e do EUR-Lex os diplomas e atos publicados no dia anterior,
+# liga Portugal–UE, valida o acervo e publica as alterações no main.
+on:
+  schedule:
+    # 06:15 UTC: o Diário da República e o Jornal Oficial do dia anterior já estão completos.
+    - cron: "15 6 * * *"
+  workflow_dispatch:
+    inputs:
+      from:
+        description: "Data inicial (AAAA-MM-DD); vazio = dia anterior"
+        required: false
+        default: ""
+      to:
+        description: "Data final (AAAA-MM-DD); vazio = igual à inicial"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizacao-diaria
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Obter o repositório (só o último commit)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar o leis-portugal
+        run: pip install -e .
+
+      - name: Recolher, ligar, validar e gerar relatórios
+        id: atualizacao
+        continue-on-error: true
+        env:
+          FROM_DATE: ${{ inputs.from }}
+          TO_DATE: ${{ inputs.to }}
+        run: scripts/atualizacao_diaria.sh "$FROM_DATE" "$TO_DATE"
+
+      - name: Publicar as alterações
+        if: steps.atualizacao.outputs.valid == 'true'
+        env:
+          FROM_DATE: ${{ steps.atualizacao.outputs.from }}
+          TO_DATE: ${{ steps.atualizacao.outputs.to }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data reports
+          if git diff --cached --quiet; then
+            echo "Sem alterações no acervo."
+            exit 0
+          fi
+          if [ "$FROM_DATE" = "$TO_DATE" ]; then period="$FROM_DATE"; else period="$FROM_DATE a $TO_DATE"; fi
+          count=$(git diff --cached --name-only | wc -l | tr -d ' ')
+          git commit -q -m "Atualização diária: DRE e EUR-Lex de $period" -m "$count ficheiros alterados pela recolha automática."
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "O main mudou entretanto; a reaplicar o commit sobre a versão remota."
+            git fetch --depth=50 origin main && git rebase origin/main || exit 1
+          done
+          exit 1
+
+      - name: Assinalar falhas da recolha
+        if: steps.atualizacao.outcome == 'failure'
+        run: |
+          echo "::error::Alguma recolha falhou ou a validação não passou; ver o passo 'Recolher, ligar, validar e gerar relatórios'."
+          exit 1

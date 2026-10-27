@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32003L0060:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0060-20030714",
+ "dre_path": null,
+ "source_lastmod": "2003-07-14",
+ "versions": [
+  {
+   "date": "2003-06-24",
+   "future": false,
+   "celex": "32003L0060",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7893aa6c79cecc25",
+    "46583d9a5135d749",
+    "46f2e7c1128c041c",
+    "7b90fbec85fd56d6",
+    "115647e634d827be",
+    "a1797e3549989925",
+    "ffb352ceed4ef9cd",
+    "1d7539f4a8979498",
+    "79980a54e8419ebb",
+    "17bd5a7b0a91ad4d",
+    "e1adc1d3542ad1cc",
+    "eddb18c95de65103"
+   ]
+  }
+ ],
+ "fragments": {
+  "7893aa6c79cecc25": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 2003/60/CE da Comissão, de 18 de Junho de 2003, que altera os anexos das Directivas 76/895/CEE, 86/362/CEE, 86/363/CEE e 90/642/CEE do Conselho no respeitante à fixação de teores máximos de resíduos de determinados pesticidas à superfície e no interior dos cereais, dos géneros alimentícios de origem animal e de determinados produtos de origem vegetal, incluindo frutas e produtos hortícolas (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 155 de 24/06/2003 p. 0015 - 0034*\n\nDirectiva 2003/60/CE da Comissão\n\nde 18 de Junho de 2003\n\nque altera os anexos das Directivas 76/895/CEE, 86/362/CEE, 86/363/CEE e 90/642/CEE do Conselho no respeitante à fixação de teores máximos de resíduos de determinados pesticidas à superfície e no interior dos cereais, dos géneros alimentícios de origem animal e de determinados produtos de origem vegetal, incluindo frutas e produtos hortícolas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 76/895/CEE do Conselho, de 23 de Novembro de 1976, relativa à fixação de teores máximos de resíduos de pesticidas nas e sobre as frutas e produtos hortícolas(1), com a última redacção que lhe foi dada pela Directiva 2002/79/CE da Comissão(2), e, nomeadamente, o seu artigo 5.o,\n\nTendo em conta a Directiva 86/362/CEE do Conselho, de 24 de Julho de 1986, relativa à fixação de teores máximos para os resíduos de pesticidas à superfície e no interior dos cereais(3), com a última redacção que lhe foi dada pela Directiva 2002/79/CE, e, nomeadamente, o seu artigo 10.o,\n\nTendo em conta a Directiva 86/363/CEE do Conselho, de 24 de Julho de 1986, relativa à fixação de teores máximos para os resíduos de pesticidas à superfície e no interior dos géneros alimentícios de origem animal(4), com a última redacção que lhe foi dada pela Directiva 2002/79/CE da Comissão, e, nomeadamente, o seu artigo 10.o,\n\nTendo em conta a Directiva 90/642/CEE do Conselho, de 27 de Novembro de 1990, relativa à fixação de teores máximos de resíduos de pesticidas nos e sobre determinados produtos de origem vegetal, incluindo frutas e produtos hortícolas(5), com a última redacção que lhe foi dada pela Directiva 2002/100/CE da Comissão(6), e, nomeadamente, o seu artigo 7.o,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado(7), com a última redacção que lhe foi dada pela Directiva 2003/39/CE da Comissão(8), e, nomeadamente, o n.o 1, alínea f), do seu artigo 4.o,\n\nConsiderando o seguinte:\n\n(1) As substâncias activas existentes amitrol, diquato, isoproturão e etofumesato foram incluídas no anexo I da Directiva 91/414/CEE pelas Directivas 2001/21/CE(9), 2002/18/CE(10) e 2002/37/CE(11) da Comissão, respectivamente.\n\n(2) As novas substâncias activas fenehexamida, acibenzolar-S-metilo, ciclanilida, piraflufena-etilo, iprovalicarbe, prossulfurão, sulfossulfurão, cinidão-etilo, cihalofope-butilo, famoxadona, florassulame, metalaxil-M, picolinafena e flumioxazina foram incluídas no anexo I da Directiva 91/414/CEE pelas Directivas 2001/28/CE(12), 2001/87/CE(13), 2001/48/CE(14), 2002/64/CE(15) e 2002/81/CE(16) da Comissão.\n\n(3) A inclusão das substâncias activas em causa no anexo I da Directiva 91/414/CEE baseou-se numa avaliação das informações apresentadas sobre as utilizações propostas. Alguns Estados-Membros apresentaram informações sobre as referidas utilizações, em conformidade com o n.o 1, alínea f), do artigo 4.o da Directiva 91/414/CEE. As informações disponíveis foram analisadas e são suficientes para que possam fixar-se determinados teores máximos de resíduos.\n\n(4) Quando não tenha sido fixado a nível comunitário um teor máximo de resíduos ou um teor máximo de resíduos provisório, os Estados-Membros devem fixar a nível nacional um teor máximo de resíduos provisório, de acordo com o n.o 1, alínea f), do artigo 4.o da Directiva 91/414/CEE, antes de poderem ser autorizados produtos fitofarmacêuticos que contenham as substâncias activas em causa.\n\n(5) Relativamente às substâncias activas clorfenapir, acetato de fentina e hidróxido de fentina, foi decidida a não inclusão das mesmas no anexo I da Directiva 91/414/CEE pelas Decisões 2001/697/CE(17), 2002/478/CE(18) e 2002/479/CE(19) da Comissão, respectivamente. As referidas decisões estabeleceram que a utilização de produtos fitofarmacêuticos que contenham estas substâncias activas deixa de poder ser autorizada na Comunidade. É, portanto, necessário inserir todos os resíduos de pesticidas resultantes da utilização desses produtos fitofarmacêuticos nos anexos das Directivas 86/362/CEE, 86/363/CEE e 90/642/CEE, para que a proibição da utilização dos mesmos possa ser convenientemente vigiada e controlada e de modo a proteger os consumidores.\n\n(6) Visto que, para permitir a satisfação de expectativas legítimas de utilização das existências de pesticidas, as decisões de não inclusão da Comissão previram um período de eliminação progressiva, os teores máximos de resíduos fixados para uma situação de não autorização das substâncias na Comunidade não devem ser aplicados até ao termo do período de eliminação progressiva das substâncias em causa.\n\n(7) Os teores máximos de resíduos comunitários e os teores recomendados pelo Codex Alimentarius são fixados e avaliados por processos similares. O Codex Alimentarius estabelece alguns teores máximos de resíduos para o diquato e a fentina (acetato e hidróxido). Esses teores máximos foram tidos em conta ao estabelecerem-se os teores máximos de resíduos fixados na presente directiva. Não foram tidos em conta os teores máximos de resíduos do Codex Alimentarius cuja revogação será recomendada proximamente. Os teores máximos de resíduos baseados nos teores máximos do Codex Alimentarius foram avaliados numa perspectiva de riscos para os consumidores, não tendo sido identificado qualquer risco à luz dos critérios toxicológicos decorrentes dos estudos a que a Comissão teve acesso.\n\n(8) No respeitante à inclusão ou exclusão das substâncias activas em causa no ou do anexo I da Directiva 91/414/CEE, as avaliações científicas e técnicas respectivas foram concluídas com a elaboração dos relatórios de avaliação da Comissão. Os relatórios de avaliação das substâncias mencionadas foram concluídos nas datas referidas nas directivas da Comissão indicadas nos considerandos 1 e 2 e nas decisões da Comissão indicadas no considerando 5. Esses relatórios fixaram doses diárias admissíveis (DDA) e, quando necessário, doses agudas de referência (DAR) para as substâncias em causa. A exposição ao longo da vida dos consumidores de produtos alimentares tratados com as substâncias activas em causa foi determinada e avaliada com base nos procedimentos comunitários. Foram igualmente tidos em conta as directrizes publicadas pela Organização Mundial de Saúde(20) e o parecer do Comité Científico das Plantas(21) sobre a metodologia utilizada. Concluiu-se que os teores máximos de resíduos propostos não implicarão a superação das doses diárias admissíveis ou das doses agudas de referência indicadas.\n\n(9) Para garantir uma protecção adequada dos consumidores da exposição a resíduos resultantes de utilizações não autorizadas de produtos fitofarmacêuticos, importa fixar como teores máximos de resíduos provisórios para as combinações produto/pesticida pertinentes os limites inferiores de determinação analítica.\n\n(10) O facto de serem fixados esses teores máximos de resíduos provisórios a nível comunitário não impede os Estados-Membros de fixarem teores máximos de resíduos provisórios, para as substâncias indicadas na presente directiva, em conformidade com o n.o 1, alínea f), do artigo 4.o da Directiva 91/414/CEE e o anexo VI da mesma. Considera-se que um período de quatro anos é suficiente para permitir as outras utilizações das substâncias activas em causa. Os teores máximos de resíduos provisórios deverão, então, tornar-se definitivos.\n\n(11) É, pois, necessário inserir todos os resíduos de pesticidas resultantes da utilização dos produtos fitofarmacêuticos em causa nos anexos das Directivas 86/362/CEE, 86/363/CEE e 90/642/CEE, para que a proibição da utilização dos mesmos possa ser convenientemente vigiada e controlada e de modo a proteger os consumidores. Os anexos das Directivas 86/362/CEE, 86/363/CEE e 90/642/CEE devem, portanto, ser alterados em conformidade.\n\n(12) De forma a estabelecer teores máximos de resíduos comunitários aplicáveis ao diquato é necessário transferir determinadas disposições da Directiva 76/895/CEE para as Directivas 86/362/CEE, 86/363/CEE e 90/642/CEE, suprimir a disposição em causa da Directiva 76/895/CEE e alterar algumas das disposições à luz do progresso científico e técnico, bem como alterar as utilizações e autorizações aos níveis nacional e comunitário.\n\n(13) A presente directiva está em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "46583d9a5135d749": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNo anexo II da Directiva 76/895/CEE são suprimidas as entradas relativas ao diquato."
+  },
+  "46f2e7c1128c041c": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão aditados à parte A do anexo II da Directiva 86/362/CEE os teores máximos de resíduos de pesticidas constantes do anexo I da presente directiva."
+  },
+  "7b90fbec85fd56d6": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSão aditados às partes A e B do anexo II da Directiva 86/363/CEE os teores máximos de resíduos de pesticidas constantes dos anexos II e III da presente directiva."
+  },
+  "115647e634d827be": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSão aditados ao anexo II da Directiva 90/642/CEE os teores máximos de resíduos de pesticidas constantes do anexo IV da presente directiva."
+  },
+  "a1797e3549989925": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros porão em vigor, o mais tardar em 30 de Junho de 2003, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva, excepto no respeitante às disposições aplicáveis ao hidróxido de fentina, ao acetato de fentina e ao clorfenapir, que deverão ser postas em vigor o mais tardar em 30 de Junho de 2004. Do facto informarão imediatamente a Comissão.\n\nOs Estados-Membros aplicarão essas disposições a partir de 1 de Julho de 2003, excepto no respeitante às disposições aplicáveis ao hidróxido de fentina, ao acetato de fentina e ao clorfenapir, que aplicarão a partir de 1 de Julho de 2004.\n\nQuando os Estados-Membros adoptarem tais disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão adoptadas pelos Estados-Membros."
+  },
+  "ffb352ceed4ef9cd": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial da União Europeia."
+  },
+  "1d7539f4a8979498": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 18 de Junho de 2003.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 340 de 9.12.1976, p. 26.\n\n(2) JO L 291 de 28.10.2002, p. 1.\n\n(3) JO L 221 de 7.8.1986, p. 37.\n\n(4) JO L 221 de 7.8.1986, p. 43.\n\n(5) JO L 350 de 14.12.1990, p. 71.\n\n(6) JO L 2 de 7.1.2003, p. 33.\n\n(7) JO L 230 de 19.8.1991, p. 1.\n\n(8) JO L 124 de 20.5.2003, p. 30.\n\n(9) JO L 69 de 10.3.2001, p. 17.\n\n(10) JO L 55 de 26.2.2002, p. 29.\n\n(11) JO L 117 de 4.5.2002, p. 10.\n\n(12) JO L 113 de 24.4.2001, p. 5.\n\n(13) JO L 276 de 19.10.2001, p. 17.\n\n(14) JO L 148 de 6.6.2002, p. 19.\n\n(15) JO L 189 de 18.7.2002, p. 27.\n\n(16) JO L 276 de 12.10.2002, p. 28.\n\n(17) JO L 249 de 19.9.2001, p. 19.\n\n(18) JO L 164 de 22.6.2002, p. 41.\n\n(19) JO L 164 de 22.6.2002, p. 43.\n\n(20) Guidelines for predicting dietary intake of pesticide residues - edição revista das directrizes para a estimativa da ingestão de resíduos de pesticidas preparadas pelo grupo GEMS/Programa alimentar em colaboração com o comité do Codex para os resíduos de pesticidas, publicada pela Organização Mundial de Saúde em 1997 (WHO/FSF/FOS/97.7).\n\n(21) Parecer do Comité Científico das Plantas sobre determinadas questões decorrentes da alteração dos anexos das Directivas 86/362/CEE, 86/363/CEE e 90/642/CEE (parecer do Comité Científico das Plantas expresso em 14 de Julho de 1998) (http://europa.eu.int/comm/ food/fs/sc/index_en.html)"
+  },
+  "79980a54e8419ebb": {
+   "fragment_id": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO I — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — >POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "17bd5a7b0a91ad4d": {
+   "fragment_id": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO II — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — >POSIÇÃO NUMA TABELA>"
+  },
+  "e1adc1d3542ad1cc": {
+   "fragment_id": "ANEXO III — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO III — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — >POSIÇÃO NUMA TABELA>"
+  },
+  "eddb18c95de65103": {
+   "fragment_id": "ANEXO IV — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO IV — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — >POSIÇÃO NUMA TABELA>"
+  }
+ }
+}

@@ -1,0 +1,289 @@
+---
+schema_version: '1.0'
+id: pt:dre:407940:por
+title: Decreto n.º 716/73
+short_title: null
+summary: Abre créditos especiais no montante de 182117173$80
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: 716/73
+official_date: null
+publication_date: '1973-12-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 302/1973, Série I de 1973-12-31
+  number: '302'
+  series: I
+  supplement: null
+  pages: 2533 - 2535
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/12/30200/25332535.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '407940'
+  dre_path: /dr/detalhe/decreto/716-1973-407940
+  internal: pt:dre:407940:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/716-1973-407940
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/716-1973-407940
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:31:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6f1fed29f72f707e905002a3dc11e479599e6677975aa75b7557dc362d8b2f1d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:31:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crédito Especial
+- Ministério da Marinha
+- Ministério das Corporações e Previdência Social
+- Ministério das Finanças
+- Ministério dos Negócios Estrangeiros
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:398130:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:31:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 716/73
+
+de 31 de Dezembro
+
+Com fundamento no artigo 2.º do [Decreto-Lei n.º 54/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1972-398130), de 15 de Fevereiro;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 182117173$80, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+
+Ministério das Finanças
+
+Capítulo 23.º «Direcção-Geral da Fazenda Pública»:
+
+Aquisição de títulos e operações de financiamento
+
+Artigo 314.º «Activos financeiros», n.º 3 «Empréstimos não titulados a longo prazo» ... 70776457$30
+
+Ministério da Marinha
+
+Capítulo 3.º «Superintendência dos Serviços do Pessoal»:
+
+Serviço do Pessoal
+
+Direcção
+
+Artigo 60.º «Bens não duradouros», n.º 1 «Consumos de secretaria», alínea 1 «Edição da Lista da Armada, Ordem da Armada e outras publicações» ... 600000$00
+
+Capítulo 4.º «Superintendência dos Serviços do Material»:
+
+Direcção do Serviço de Abastecimento
+
+Artigo 204.º «Bens duradouros», n.º 4 «Outros bens duradouros», alínea 1 «Material fixo para fornecimento às unidades e estações de marinha que não tenham dotações próprias» ... 2000000$00
+
+Artigo 205.º «Bens não duradouros»:
+
+N.º 2 «Combustíveis e lubrificantes», alínea 1 «Fornecimento às diversas unidades e estações de marinha» ... 45000000$00
+
+N.º 3 «Consumos de secretaria», alínea 1 «Fornecimento a todos os serviços do Ministério e unidades de marinha» ... 1000000$00
+
+N.º 4 «Outros bens não duradouros»:
+
+Alínea 1 «Material de consumo para fornecimento às diversas unidades e estações de marinha» ... 4000000$00
+
+Alínea 2 «Géneros alimentícios (contra reembolso)» ... 15000000$00
+
+Alínea 3 «Artigos de fardamento (contra reembolso)» ... 15000000$00
+
+Alínea 4 «Embalagens para a expedição de mantimentos, material e fardamento» ... 70000$00
+
+Alínea 5 «Material de armazenagem» ... 100000$00
+
+Artigo 206.º «Conservação e aproveitamento de bens»:
+
+N.º 2 «Grua-automóvel e veículos com motor» ... 150000$00
+
+N.º 3 «Outros bens»:
+
+Alínea 1 «Da Direcção» ... 50000$00
+
+Alínea 2 «Material da nomenclatura dos depósitos da Direcção, ou como tal considerado, distribuído aos navios ou em depósito» ... 1000000$00
+
+Artigo 207.º «Despesas gerais de funcionamento», n.º 1 «Comunicações» ... 700000$00
+
+... 84670000$00
+
+Ministério dos Negócios Estrangeiros
+
+Capítulo 30 «Serviços externos do Ministério»:
+
+Missões diplomáticas e consulados
+
+Artigo 65.º «Investimentos», n.º 2 «Habitações» ... 3300000$00
+
+Ministério das Obras Públicas
+
+Capítulo 15.º «Contas de ordem»:
+
+Artigo 272.º «Laboratório Nacional de Engenharia Civil» ... 3500000$00
+
+Ministério da Economia
+
+Capítulo 24.º «Contas de ordem»:
+
+Artigo 453.º «Fundo de Fomento de Exportação», n.º 1 «Serviços gerais» ... 8610000$00
+
+Ministério das corporações e Segurança Social
+
+Capítulo 4.º «Secretaria-Geral»:
+
+Artigo 44.º «Vencimentos e salários»:
+
+N.º 1 «Vencimentos»:
+
+Alínea 1 «Pessoal dos quadros aprovados por lei»:
+
+7. A reembolsar parcialmente pelo Fundo Nacional do Abono de Família:
+
+Direcção-Geral da Previdência
+
+(Durante sete meses e dezanove dias)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25332535.pdf)
+
+N.º 2 «Salários do pessoal dos quadros»:
+
+1. A reembolsar parcialmente pelo Fundo Nacional do Abono de Família:
+
+Direcção-Geral de Previdência
+
+(Durante sete meses e dezanove dias)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/12/30200/25332535.pdf)
+
+Artigo 46.º-A «Abono para falhas» ... (ver nota 10) 7633$00
+
+Capítulo 5.º «Magistratura do Trabalho»:
+
+Tribunais do trabalho
+
+Tribunais do trabalho (a reembolsar)
+
+Artigo 94.º «Deslocações» ... 4000$00
+
+Artigo 96.º «Remunerações por serviços auxiliares» ... 5220$00
+
+Artigo 97.º «Bens duradouros»:
+
+N.º 1 «Material de educação, cultura e recreio» ... 3376$00
+
+N.º 2 «Equipamento de secretaria» ... 16930$00
+
+Artigo 98.º «Bens não duradouros»:
+
+N.º 3 «Consumos de secretaria» ... 13200$00
+
+N.º 4 «Outros bens não duradouros» ... 650$00
+
+Artigo 99.º «Conservação e aproveitamento de bens» ... 20000$00
+
+Artigo 100.º «Despesas gerais de funcionamento»:
+
+N.º 1 «Encargos próprios das instalações» ... 3750$00
+
+N.º 3 «Comunicações» ... 6000$00
+
+Artigo 101.º «Investimentos», n.º 1 «Maquinaria e equipamento» ... 116335$50
+
+... 11260716$50
+
+... 182117173$80
+
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão das seguintes receitas:
+
+Orçamento das receitas do Estado
+
+Receita ordinária:
+
+Capítulo 5.º, grupo 1, artigo 87.º «Fundos autónomos» ... 11260716$50
+
+Capítulo 7.º, grupo 8, artigo 111.º «Serviços de abastecimento do Ministério da Marinha» ... 54670000$00
+
+Capítulo 7.º, grupo 10, artigo 120.º «Alimentação e alojamento: Serviços do Material da Armada» ... 15000000$00
+
+Capítulo 7.º, grupo 10, artigo 121.º «Fardamentos e artigos pessoais: Serviços do Material da Armada» ... 15000000$00
+
+Capítulo 14.º, artigo 165.º «Reposições não abatidas nos pagamentos» ... 3300000$00
+
+Capítulo 15.º, artigo 179.º «Laboratório Nacional de Engenharia Civil» ... 3500000$00
+
+Capítulo 15.º, artigo 186.º «Fundo de Fomento de Exportação: Serviços gerais» ... 8610000$00
+
+Receita extraordinária
+
+Capítulo 12.º, grupo 9, artigo 208.º «Crédito interno» ... 70776457$30
+
+... 182117173$80
+
+Art. 3.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério das Corporações e Segurança Social:
+
+Na separata 1
+
+À dotação do capítulo 4.º, artigo 46.º-A, é aposta a seguinte observação:
+
+(nota 10) ... Inclui:
+
+4580$00 de abono para falhas a um tesoureiro de 1.ª classe da Direcção-Geral da Previdência. durante sete meses e dezanove dias, a reembolsar parcialmente pelo Fundo Nacional do Abono de Família.
+
+3053$00 de abono para falhas a um adjunto de tesoureiro da Direcção-Geral da Previdência, durante sete meses e dezanove dias, a reembolsar parcialmente pelo Fundo Nacional do Abono de Família.
+
+Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Dias da Silva Pinto.
+
+Promulgado em 28 de Dezembro de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

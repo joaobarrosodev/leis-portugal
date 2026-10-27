@@ -1,0 +1,829 @@
+---
+schema_version: '1.0'
+id: eu:celex:32008L0090:por
+title: Directiva 2008/90/CE do Conselho, de 29 de Setembro de 2008
+short_title: null
+summary: Directiva 2008/90/CE do Conselho, de 29 de Setembro de 2008 , relativa à comercialização de material de propagação
+  de fruteiras e de fruteiras destinados à produção de frutos (Versão reformulada)
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2008/90
+official_date: null
+publication_date: '2008-10-08'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 267 de 8.10.2008
+  number: '267'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018.02/DOC_1
+entry_into_force_dates:
+- '2008-10-28'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2022-10-13'
+version_history:
+  file: diretiva-ue-2008-90.versoes.json
+  count: 5
+  source_lastmod: '2022-10-13'
+  versions:
+  - date: '2008-10-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-12-16'
+    amending: eu:celex:32010D0777:por
+    amending_title: DECISÃO DA COMISSÃO de 15 de Dezembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Identificação da variedade
+    - Altera Artigo 9.º — Rotulagem
+    - Altera Artigo 12.º
+    - Altera Artigo 24.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita Lista de géneros e espécies a que é aplicável a presente directiva
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita Directiva revogada e sucessivas alterações
+    - Adita (a que se refere o artigo 22.º)
+    - Adita PARTE B
+    - Adita Lista dos prazos de transposição para o direito interno e de aplicação
+    - Adita ANEXO III
+  - date: '2014-06-30'
+    amending: eu:celex:32014R0652:por
+    amending_title: REGULAMENTO (UE) N. o 652/2014 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de maio de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 19.º — Comité
+    - Altera Notas
+  - date: '2019-01-28'
+    amending: eu:celex:32019D0120:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2019/120 DA COMISSÃO de 24 de janeiro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º — Comité
+    - Altera Notas
+  - date: '2022-10-13'
+    amending: eu:celex:32022D1933:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2022/1933 DA COMISSÃO de 12 de outubro de 2022
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 19.º — Comité
+    - Altera Lista de géneros e espécies a que é aplicável a presente directiva
+    - Altera Notas
+identifiers:
+  celex: 32008L0090
+  eli: http://data.europa.eu/eli/dir/2008/90/oj
+  oj: oj:JOL_2008_267_R_0008_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32008L0090:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32008L0090
+  metadata_url: http://publications.europa.eu/resource/cellar/88c67828-631c-4053-9dc9-bb92a7fa8f9c.0018
+  content_url: http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008L0090-20221013
+  retrieved_at: '2026-10-22T15:13:13Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-10-30T07:18:37.127+01:00'
+integrity:
+  source_sha256: a4f3f14db0e44bfea0747b59f60ddeb0ba11d1160ba12fee77ccc087824986a1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:13:13Z'
+  notes: 5 versão(ões); histórico completo em diretiva-ue-2008-90.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- autorização de venda
+- fiscalização fitossanitária
+- fruticultura
+- plântula
+- reprodução vegetal
+- rotulagem
+relationships:
+- type: amended_by
+  target: celex:32010D0777
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1ffdd917-7dfb-45cd-bf50-1c821865aedf
+  date: '2010-12-17'
+- type: amended_by
+  target: celex:32014R0652
+  label: null
+  source: http://publications.europa.eu/resource/cellar/be23194e-0e93-11e4-a7d0-01aa75ed71a1
+  date: '2014-07-18'
+- type: amended_by
+  target: celex:32019D0120
+  label: null
+  source: http://publications.europa.eu/resource/cellar/aa0e968b-22d2-11e9-8d04-01aa75ed71a1
+  date: '2019-01-28'
+- type: amended_by
+  target: celex:32022D1933
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1f64d6d4-4abd-11ed-92ed-01aa75ed71a1
+  date: '2022-10-13'
+- type: based_on
+  target: celex:11957E043
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5013e763-b28e-492b-827e-9cb15cc00430
+  date: '1957-03-25'
+- type: cited_by
+  target: pt:dre:144010960:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:332697:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:334092:por
+  label: null
+  source: null
+- type: cites
+  target: celex:32001L0018
+  label: null
+  source: http://publications.europa.eu/resource/cellar/303dd4fa-07a8-4d20-86a8-0baaf0518d22
+- type: cites
+  target: celex:32003R1829
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9fdfc82a-7e73-4b53-b1d4-e2b77747d846
+- type: corrected_by
+  target: celex:32008L0090R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/883e78fc-6554-11e2-9294-01aa75ed71a1
+  date: '2013-01-23'
+- type: corrected_by
+  target: celex:32008L0090R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d7c7e07d-afa0-11ea-bb7a-01aa75ed71a1
+  date: '2020-06-16'
+- type: implicitly_repeals
+  target: celex:32003L0061
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4b5148ee-d0c5-4297-a190-a465e60bf78b
+  date: '2010-03-08'
+- type: implicitly_repeals
+  target: celex:32003L0111
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b8236ca7-6f3d-47d6-ac50-ccd9551b7674
+  date: '2010-03-08'
+- type: implicitly_repeals
+  target: celex:32010D0781
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a8aac03d-6c06-4aa8-a65a-83bc61d6cd8b
+  date: '2010-12-20'
+- type: repeals
+  target: celex:31992L0034
+  label: null
+  source: http://publications.europa.eu/resource/cellar/66399cf9-55d5-46e1-aae2-7e51533cc71d
+  date: '1992-06-10'
+- type: repeals
+  target: celex:32005D0054
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9fe1e42e-2895-4af8-928a-932872577015
+  date: '2005-01-28'
+- type: repeals
+  target: celex:32007D0776
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0830334f-82cd-4f73-9749-0e610119c432
+  date: '2007-12-03'
+- type: transposed_by
+  target: pt:dre:107703391:por
+  label: null
+  source: null
+article_structure:
+  article_count: 24
+  section_count: 27
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T15:13:13Z'
+  warnings: []
+  errors: []
+---
+
+# Directiva 2008/90/CE do Conselho, de 29 de Setembro de 2008
+
+de 29 de Setembro de 2008
+
+relativa à comercialização de material de propagação de fruteiras e de fruteiras destinados à produção de frutos
+
+(Versão reformulada)
+
+## CAPÍTULO 1
+
+### ÂMBITO DE APLICAÇÃO E DEFINIÇÕES
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1. A presente directiva é aplicável à comercialização, na Comunidade, de fruteiras e materiais de propagação de fruteiras destinados à produção de frutos.
+
+2. A presente directiva é aplicável aos géneros e espécies enumerados no anexo I, bem como aos seus híbridos. É igualmente aplicável aos porta-enxertos e a outras partes de plantas de géneros ou espécies não referidos no anexo I, ou aos seus híbridos, se neles tiver sido ou vier a ser enxertado material dos géneros ou espécies enumerados no anexo I, ou dos seus híbridos.
+
+3. A presente directiva é aplicável sem prejuízo das normas fitossanitárias previstas na Directiva 2000/29/CE.
+
+4. A presente directiva não se aplica aos materiais de propagação nem às fruteiras comprovadamente destinados à exportação para países terceiros, desde que estes sejam como tal identificados e mantidos suficientemente isolados.
+
+As medidas de execução do primeiro parágrafo, nomeadamente as respeitantes à identificação e ao isolamento, são aprovadas nos termos do n.º 2 do artigo 19.º
+
+###### Artigo 2.º — Definições
+
+Para efeitos da presente directiva, entende-se por:
+
+1. *Material de propagação*, as sementes, partes de plantas e qualquer material proveniente de plantas, incluindo os porta-enxertos, destinados à propagação e à produção de fruteiras.
+
+2. *Fruteiras*, as plantas destinadas, após a comercialização, à plantação ou à repicagem.
+
+3. *Variedade*, um conjunto vegetal pertencente ao mesmo táxon botânico, da ordem mais baixa conhecida, que pode ser:
+
+a) Definido pela expressão de características resultante de um determinado genótipo ou de uma determinada combinação de genótipos;
+
+b) Distinguido de qualquer outro conjunto vegetal pela expressão de pelo menos uma das referidas características; e
+
+c) Considerado como uma entidade tendo em conta a capacidade de ser reproduzido sem alteração.
+
+4. *Clone*, uma descendência vegetativa geneticamente uniforme de uma única planta.
+
+5. *Material pré-básico*, material de propagação:
+
+a) Produzido de acordo com métodos geralmente aceites para a conservação da identidade da variedade, incluindo as características pomológicas pertinentes, e para a prevenção de doenças;
+
+b) Destinado à produção de material básico ou de material certificado, com excepção de fruteiras;
+
+c) Que preencha os requisitos específicos para o material pré-básico estabelecidos nos termos do artigo 4.º; e
+
+d) Que uma inspecção oficial tenha considerado preencher os requisitos das alíneas a), b) e c).
+
+6. *Material básico*, material de propagação:
+
+a) Produzido directamente a partir de material pré-básico ou que dele provenha de modo vegetativo num número limitado de etapas, de acordo com métodos geralmente aceites para a conservação da identidade da variedade incluindo as características pomológicas pertinentes, e para a prevenção de doenças;
+
+b) Destinado à produção de material certificado;
+
+c) Que preencha os requisitos específicos para o material básico estabelecidos nos termos do artigo 4.º; e
+
+d) Que uma inspecção oficial tenha considerado preencher os requisitos das alíneas a), b) e c).
+
+7. *Material certificado*:
+
+a) Material de propagação:
+
+i) produzido directamente de modo vegetativo a partir de material básico ou de material pré-básico ou, caso se destine a ser utilizado para a produção de porta-enxertos, a partir de sementes certificadas provenientes de material básico ou certificado proveniente de porta-enxertos,
+
+ii) destinado à produção de fruteiras;
+
+iii) que preencha os requisitos específicos para o material certificado estabelecidos nos termos do artigo 4.º, e
+
+iv) que uma inspecção oficial tenha considerado preencher os requisitos das subalíneas i), ii) e iii);
+
+b) Fruteiras:
+
+i) produzidas directamente a partir de material de propagação certificado, básico ou pré-básico,
+
+ii) destinadas à produção de frutos;
+
+iii) que preencham os requisitos específicos para o material certificado estabelecidos nos termos do artigo 4.º, e
+
+iv) que uma inspecção oficial tenha considerado preencherem os requisitos das subalíneas i), ii) e iii).
+
+8. *Material CAC (Conformitas Agraria Communitatis)*, material de propagação e fruteiras:
+
+a) Que possuam identidade varietal e pureza adequada;
+
+b) Destinados:
+
+— à produção de material de propagação,
+
+— à produção de fruteiras, e/ou
+
+— à produção de frutos;
+
+c) Que preencham os requisitos específicos para o material CAC estabelecidos nos termos do artigo 4.º
+
+9. *Fornecedor*, qualquer pessoa singular ou colectiva que desempenhe, a título profissional, pelo menos uma das actividades seguintes relacionadas com material de propagação ou fruteiras: reprodução, produção, conservação e/ou tratamento, importação e comercialização.
+
+10. *Comercialização*, a venda, posse com vista à venda, oferta para venda e qualquer acto de disposição, fornecimento ou transferência de materiais de propagação ou de fruteiras a terceiros, a título oneroso ou gratuito, para fins de exploração comercial.
+
+11. *Organismo oficial responsável*:
+
+a) Uma autoridade, criada ou designada por cada Estado-Membro, sob controlo do governo central e responsável pelas questões de qualidade do material de propagação e das fruteiras;
+
+b) Qualquer autoridade pública criada:
+
+— quer a nível nacional,
+
+— quer a nível regional, sob controlo das autoridades nacionais, dentro dos limites fixados pela legislação nacional do respectivo Estado-Membro.
+
+12. *Inspecção oficial*, a inspecção efectuada pelo organismo oficial responsável ou sob a sua responsabilidade.
+
+13. *Lote*, o conjunto de unidades de uma única mercadoria, identificável pela sua homogeneidade de composição e origem.
+
+## CAPÍTULO 2
+
+### REQUISITOS APLICÁVEIS AO MATERIAL DE PROPAGAÇÃO E ÀS FRUTEIRAS
+
+###### Artigo 3.º — Requisitos gerais aplicáveis à colocação no mercado
+
+1.
+
+O material de propagação e as fruteiras só podem ser comercializados se:
+
+a) O material de propagação tiver sido oficialmente certificado como «material pré-básico», «material básico» ou «material certificado» ou se preencher as condições para ser qualificado como material CAC;
+
+b) As fruteiras tiverem sido oficialmente certificadas como «material certificado» ou preencherem as condições para serem qualificadas como material CAC.
+
+2. Os materiais de propagação e fruteiras constituídos por um organismo geneticamente modificado, na acepção dos pontos 1 e 2 do artigo 2.º da Directiva 2001/18/CE, só são colocados no mercado se o organismo geneticamente modificado tiver sido autorizado em conformidade com a referida directiva ou com o Regulamento (CE) n.º 1829/2003.
+
+3. Quando os produtos derivados de fruteiras ou materiais de propagação se destinarem a ser utilizados como géneros alimentícios ou em géneros alimentícios abrangidos pelo artigo 3.º ou como alimentos para animais ou em alimentos para animais abrangidos pelo artigo 15.º do Regulamento (CE) n.º 1829/2003, o material de propagação e a fruteira em causa só são colocados no mercado se o género alimentício ou o alimento para animais derivado desses materiais tiverem sido autorizados em conformidade com o referido regulamento.
+
+4.
+
+Não obstante o n.º 1, os Estados-Membros podem autorizar os fornecedores estabelecidos nos seus territórios a colocar no mercado as quantidades adequadas de materiais de propagação e fruteiras destinados a:
+
+a) Ensaios ou fins científicos;
+
+b) Trabalhos de selecção; ou
+
+c) Ajudar a preservar a diversidade genética.
+
+As condições em que os Estados-Membros podem conceder essa autorização podem ser aprovadas nos termos do n.º 2 do artigo 19.º
+
+###### Artigo 4.º — Requisitos específicos aplicáveis aos géneros e às espécies
+
+Nos termos do n.º 3 do artigo 19.º, são estabelecidos requisitos específicos para cada um dos géneros ou espécies referidos no anexo I, que indiquem:
+
+a) Os requisitos que os materiais CAC devem satisfazer, especialmente os que dizem respeito ao sistema de propagação aplicado, à pureza da cultura, à fitossanidade e, excepto no caso dos porta-enxertos cujo material não pertença a uma variedade, ao aspecto varietal;
+
+b) Os requisitos a que o material pré-básico, básico e certificado deve obedecer, relativos à qualidade (incluindo, no caso do material pré-básico e básico, os métodos para a conservação da identidade da variedade e, se for caso disso, do clone, incluindo as características pomológicas pertinentes), às condições fitossanitárias, aos métodos e processos de análise utilizados, ao(s) sistema(s) de propagação aplicado(s) e, excepto no caso dos porta-enxertos cujo material não pertença a uma variedade, ao aspecto varietal;
+
+c) Os requisitos a que devem obedecer os porta-enxertos e outras partes de plantas de géneros ou espécies que não os enumerados no anexo I, ou os seus híbridos, se o material de propagação do género ou da espécie enumerado no anexo I, ou dos seus híbridos, neles for enxertado.
+
+## CAPÍTULO 3
+
+### REQUISITOS APLICÁVEIS AOS FORNECEDORES
+
+###### Artigo 5.º — Registo
+
+1. Os Estados-Membros devem garantir que os fornecedores estejam oficialmente registados para as actividades que pratiquem nos termos da presente directiva.
+
+2. Os Estados-Membros podem decidir não aplicar o n.º 1 aos fornecedores que apenas comercializam os seus produtos a consumidores finais não profissionais.
+
+3. As medidas de execução dos n.^os^ 1 e 2 podem ser aprovadas nos termos do n.º 2 do artigo 19.º
+
+###### Artigo 6.º — Requisitos específicos
+
+1.
+
+Os Estados-Membros devem assegurar que os materiais pré-básicos, básicos e certificados, bem como o material CAC, sejam produzidos sob a responsabilidade de fornecedores que estejam implicados na produção ou na reprodução de materiais de propagação e de fruteiras. Para tal, esses fornecedores devem:
+
+— identificar e controlar os pontos críticos do seu processo de produção que influenciam a qualidade do material,
+
+— conservar informações sobre os controlos a que se refere o primeiro travessão para exame, a pedido do organismo oficial responsável,
+
+— recolher amostras, sempre que necessário, para análise num laboratório, e
+
+— garantir que, ao longo da produção, os lotes de material de propagação se mantenham identificáveis separadamente.
+
+2. Os Estados-Membros devem assegurar que, se, nas instalações de um fornecedor, surgir um organismo prejudicial enumerado nos anexos da Directiva 2000/29/CE ou em quaisquer requisitos específicos estabelecidos nos termos do artigo 4.º da presente directiva num nível superior ao permitido nesses requisitos, o fornecedor comunique esse facto ao organismo oficial responsável sem demora, não obstante as obrigações de comunicação previstas na Directiva 2000/29/CE, e aplique todas as medidas prescritas por aquele organismo.
+
+3. Os Estados-Membros devem assegurar que, quando os materiais de propagação ou as fruteiras forem comercializados, os fornecedores conservem os registos das suas vendas ou compras durante, pelo menos, três anos.
+
+O primeiro parágrafo não se aplica aos fornecedores dispensados de registo ao abrigo do n.º 2 do artigo 5.º
+
+4. As medidas de execução do n.º 1 podem ser aprovadas nos termos do n.º 2 do artigo 19.º
+
+## CAPÍTULO 4
+
+### IDENTIFICAÇÃO DA VARIEDADE E ROTULAGEM
+
+###### Artigo 7.º — Identificação da variedade
+
+1. Os materiais de propagação e as fruteiras devem ser comercializados com uma referência à variedade a que pertencem. No caso dos porta-enxertos, se o material não pertencer a uma variedade, deve referir-se a espécie ou o híbrido interespecífico em causa.
+
+2.
+
+As variedades a que se faça referência nos termos do n.º 1 devem ser:
+
+a) Legalmente protegidas por um direito de obtenção de acordo com as disposições relativas à protecção das novas variedades;
+
+b) Oficialmente registadas nos termos do n.º 4; ou
+
+c) Do conhecimento geral. Considera-se que uma variedade é do conhecimento geral se:
+
+i) tiver sido oficialmente registada noutro Estado-Membro,
+
+ii) for objecto de um pedido de registo oficial em qualquer Estado-Membro, ou de um pedido de direito de obtenção a que se refere a alínea a), ou
+
+iii) já tiver sido comercializada antes de 30 de Setembro de 2012 no território do Estado-Membro em causa ou de outro Estado-Membro, desde que tenha uma descrição oficialmente reconhecida.
+
+3. Tanto quanto possível, cada variedade deve ter a mesma designação em todos os Estados-Membros, em conformidade com medidas de execução que possam vir a ser aprovadas nos termos do n.º 2 do artigo 19.º ou, na sua ausência, em conformidade com directrizes internacionais aceites.
+
+4. As variedades podem ser oficialmente registadas se se considerar que preenchem determinadas condições aprovadas oficialmente e se estiverem oficialmente descritas. Podem igualmente ser oficialmente registadas se o respectivo material já tiver sido comercializado antes de 30 de Setembro de 2012 no território do Estado-Membro em causa, desde que tenham uma descrição oficialmente reconhecida.
+
+As variedades geneticamente modificadas só podem ser oficialmente registadas se o organismo geneticamente modificado de que são constituídas tiver sido autorizado em conformidade com a Directiva 2001/18/CE ou com o Regulamento (CE) n.º 1829/2003.
+
+Quando os produtos derivados de fruteiras ou materiais de propagação se destinarem a ser utilizados como géneros alimentícios ou em géneros alimentícios abrangidos pelo artigo 3.º ou como alimentos para animais ou em alimentos para animais abrangidos pelo artigo 15.º do Regulamento (CE) n.º 1829/2003, a variedade em causa só deve ser oficialmente registada se o género alimentício ou o alimento para animais derivado desses materiais tiverem sido autorizados em conformidade com o referido regulamento.
+
+5.
+
+As exigências de registo oficial a que se faz referência no n.º 4 devem ser estabelecidas nos termos do n.º 2 do artigo 19.º, tendo em conta o avanço dos conhecimentos científicos e técnicos, e devem abranger:
+
+a) As condições de registo oficial, que podem incluir, nomeadamente, a distinção, a estabilidade e uma homogeneidade suficiente;
+
+b) As características mínimas que devem ser objecto do exame das várias espécies;
+
+c) As exigências mínimas para realização dos exames;
+
+d) O prazo máximo de validade do registo oficial de uma variedade.
+
+6.
+
+Nos termos do n.º 2 do artigo 19.º:
+
+— pode estabelecer-se um sistema de notificação das variedades ou espécies ou híbridos interespecíficos aos organismos oficiais responsáveis dos Estados-Membros,
+
+— pode decidir-se que seja elaborada e publicada uma lista comum das variedades elegíveis para certificação.
+
+###### Artigo 8.º — Composição e identificação do lote
+
+1. No período de cultivo e durante as operações de colheita ou separação do material de origem, o material de propagação e as fruteiras devem ser mantidos em lotes separados.
+
+2. Caso o material de propagação ou as fruteiras de origens diferentes sejam colocados conjuntamente ou misturados durante o acondicionamento, a armazenagem, o transporte ou o fornecimento, o fornecedor deve conservar registos com os seguintes dados: composição do lote e origem de cada um dos componentes.
+
+###### Artigo 9.º — Rotulagem
+
+1.
+
+Os materiais de propagação e as fruteiras apenas devem ser comercializados em lotes suficientemente homogéneos, e se forem:
+
+a) Qualificados como materiais CAC e acompanhados de um documento redigido pelo fornecedor, em conformidade com os requisitos específicos estabelecidos nos termos do artigo 4.º. Caso este documento contenha uma declaração oficial, esta deve ficar claramente separada das outras partes do documento; ou
+
+b) Qualificados como material pré-básico, básico ou certificado e declarados como tal pelo organismo oficial responsável, em conformidade com os requisitos específicos estabelecidos nos termos do artigo 4.º
+
+2. No fornecimento a retalho de materiais de propagação e fruteiras a consumidores finais não profissionais, os requisitos relativos à rotulagem a que se refere o n.º 1 podem ser limitados a informações adequadas sobre o produto.
+
+3. No caso de materiais de propagação ou fruteiras de uma variedade que tenha sido modificada geneticamente, qualquer rótulo aposto no material de propagação e qualquer documento que o acompanhe por força das disposições da presente directiva, oficial ou não, devem indicar claramente que a variedade foi geneticamente modificada e identificar os organismos geneticamente modificados.
+
+## CAPÍTULO 5
+
+### ISENÇÕES
+
+###### Artigo 10.º — Circulação local
+
+1.
+
+Os Estados-Membros podem dispensar:
+
+a) Da aplicação do n.º 1 do artigo 9.º os pequenos produtores cuja produção total e venda de material de propagação e de fruteiras tenha como destino final, no mercado local, pessoas que não façam profissão da produção de vegetais («circulação local»);
+
+b) Dos controlos e inspecções oficiais previstos no artigo 13.º a circulação local de material de propagação e fruteiras produzidos pelos cultivadores isentos ao abrigo da alínea anterior.
+
+2. Nos termos do n.º 2 do artigo 19.º, podem ser aprovadas regras de execução relativas a outras exigências referentes às dispensas mencionadas no n.º 1 do presente artigo, em especial no que se refere às noções de «pequenos produtores» e «mercado local» e aos procedimentos que lhes dizem respeito.
+
+###### Artigo 11.º — Dificuldades temporárias de fornecimento
+
+Caso surjam dificuldades temporárias, causadas por catástrofes naturais ou circunstâncias imprevistas, no fornecimento de material de propagação ou de fruteiras que satisfaçam as exigências da presente directiva, podem ser aprovadas, nos termos do n.º 2 do artigo 19.º, disposições que condicionem a comercialização de material de propagação e fruteiras a exigências menos rigorosas.
+
+## CAPÍTULO 6
+
+### MATERIAL DE PROPAGAÇÃO E FRUTEIRAS PRODUZIDOS EM PAÍSES TERCEIROS
+
+###### Artigo 12.º
+
+1. Deve decidir-se, nos termos do n.º 2 do artigo 19.º, se o material de propagação e as fruteiras produzidos num país terceiro, e que ofereçam as mesmas garantias no que diz respeito às obrigações do fornecedor, identidade, características, estado fitossanitário, meio de cultura, embalagem, modalidades de inspecção, marcação e selagem, são equivalentes em todos estes aspectos ao material de propagação e às fruteiras produzidos na Comunidade em conformidade com as exigências e condições previstas na presente directiva.
+
+2. Enquanto se aguarda a decisão a que se refere o n.º 1, os Estados-Membros podem, até [**►M4**](http://publications.europa.eu/resource/celex/32022D1933) 31 de dezembro de 2025**◄**, sem prejuízo do disposto na Directiva 2000/29/CE, aplicar à importação de material de propagação e de fruteiras provenientes de países terceiros condições pelo menos equivalentes às estabelecidas, numa base temporária ou permanente, nos requisitos específicos aprovados nos termos do artigo 4.º. No caso de essas condições não estarem previstas nos referidos requisitos específicos, as condições de importação devem ser pelo menos equivalentes às condições aplicáveis à produção no Estado-Membro em causa.
+
+Enquanto se aguarda a decisão a que se refere o n.º 1 do presente artigo, a data mencionada no primeiro parágrafo do presente número pode ser prorrogada para os diferentes países terceiros, nos termos do n.º 2 do artigo 19.º
+
+O material de propagação e as fruteiras importados por um Estado-Membro na sequência de uma decisão tomada por esse Estado-Membro nos termos do primeiro parágrafo não são sujeitos noutros Estados-Membros a quaisquer restrições de comercialização relativamente aos aspectos referidos no n.º 1.
+
+## CAPÍTULO 7
+
+### MEDIDAS DE CONTROLO
+
+###### Artigo 13.º — Inspecções oficiais
+
+1. Os Estados-Membros devem assegurar que o material de propagação e as fruteiras sejam inspeccionados oficialmente aquando da produção e comercialização para verificação da observância das exigências e condições previstas na presente directiva. Para o efeito, o organismo oficial responsável deve ter livre acesso a todas as partes das instalações dos fornecedores, sempre que razoável.
+
+2. Os organismos oficiais responsáveis podem, nos termos da legislação nacional, delegar as funções que lhes são confiadas na presente directiva, para serem desempenhadas sob a sua autoridade e controlo, em pessoas colectivas, de direito público ou privado que, nos termos dos seus estatutos oficialmente aprovados, desempenhem exclusivamente funções públicas específicas, desde que nem essas pessoas colectivas nem os seus membros tenham qualquer interesse pessoal no resultado das medidas que tomem.
+
+Nos termos do n.º 2 do artigo 19.º, podem ser aprovadas outras pessoas colectivas criadas por conta de um organismo oficial responsável que actuem sob a autoridade e o controlo desse organismo, desde que essas pessoas colectivas não tenham qualquer interesse pessoal no resultado das medidas que tomem.
+
+Os Estados-Membros devem notificar a Comissão dos seus organismos oficiais responsáveis. A Comissão transmite essa informação aos outros Estados-Membros.
+
+3. As medidas de execução do n.º 1 são aprovadas nos termos do n.º 2 do artigo 19.º. Essas medidas devem ser proporcionadas relativamente à categoria de materiais em causa.
+
+###### Artigo 14.º — Vigilância comunitária
+
+1. Devem efectuar-se nos Estados-Membros ensaios ou, eventualmente, testes em amostras, a fim de verificar a conformidade do material de propagação e das fruteiras com as exigências e condições da presente directiva, incluindo as de carácter fitossanitário. A Comissão pode organizar inspecções aos ensaios, a efectuar por representantes dos Estados-Membros e da Comissão.
+
+2.
+
+Podem ser efectuados na Comunidade ensaios e testes comparativos comunitários para o controlo ulterior de amostras de material de propagação ou de fruteiras colocados no mercado ao abrigo das disposições, compulsivas ou facultativas e inclusivamente fitossanitárias, da presente directiva. Os ensaios e testes comparativos podem incluir o seguinte:
+
+— material de propagação ou fruteiras produzidos em países terceiros,
+
+— material de propagação ou fruteiras próprios para a agricultura biológica,
+
+— material de propagação ou fruteiras comercializados no âmbito de medidas destinadas a contribuir para a preservação da diversidade genética.
+
+3. Os ensaios e testes comparativos referidos no n.º 2 devem ser utilizados para harmonizar os métodos técnicos de análise de material de propagação e de fruteiras e verificar a observância das condições a que esse material deve obedecer.
+
+4. A Comissão, deliberando nos termos do n.º 2 do artigo 19.º, toma as disposições necessárias para a realização dos ensaios e testes comparativos. A Comissão deve informar o comité referido no n.º 2 do artigo 19.º sobre as disposições técnicas relativas à realização dos ensaios e testes e respectivos resultados. Sempre que surjam problemas fitossanitários, a Comissão deve notificar o facto ao Comité Fitossanitário Permanente.
+
+5. A Comunidade pode contribuir financeiramente para a realização dos ensaios e testes referidos nos n.^os^ 2 e 3.
+
+A contribuição financeira não deve exceder as dotações anuais estabelecidas pela autoridade orçamental.
+
+6. Os ensaios e testes que podem beneficiar de apoio financeiro da Comunidade, bem como as normas pormenorizadas para a concessão da contribuição financeira, são estabelecidos nos termos do n.º 2 do artigo 19.º
+
+7. Os ensaios e testes previstos nos n.^os^ 2 e 3 apenas podem ser efectuados por autoridades estatais ou por pessoas colectivas agindo sob a responsabilidade do Estado.
+
+###### Artigo 15.º — Verificações comunitárias nos Estados-Membros
+
+1. Os peritos da Comissão, em cooperação com os organismos oficiais responsáveis dos Estados-Membros, podem efectuar verificações *in loco*, na medida do necessário, para assegurar a aplicação uniforme da presente directiva, e nomeadamente para verificar se os fornecedores estão efectivamente a respeitar as suas exigências. O Estado-Membro em cujo território se efectue uma verificação deve prestar toda a assistência necessária aos peritos no desempenho das suas funções. A Comissão informa os Estados-Membros do resultado das investigações.
+
+2. As medidas de execução do n.º 1 são aprovadas nos termos do n.º 2 do artigo 19.º
+
+###### Artigo 16.º — Acompanhamento pelos Estados-Membros
+
+1. Os Estados-Membros devem assegurar que o material de propagação e as fruteiras produzidos no seu território e destinados à comercialização satisfaçam as exigências previstas na presente directiva.
+
+2. Se, por ocasião da inspecção oficial prevista no artigo 13.º ou dos ensaios referidos no artigo 14.º, se verificar que o material de propagação ou as fruteiras comercializados não respeitam as exigências da presente directiva, o organismo oficial responsável do Estado-Membro em causa deve tomar as medidas adequadas para garantir a sua conformidade com o disposto na presente directiva, ou, caso isso não seja possível, para impedir a comercialização desse material de propagação e dessas fruteiras na Comunidade.
+
+3. Se se verificar que o material de propagação ou as fruteiras comercializados por um determinado fornecedor não respeitam as exigências e condições previstas na presente directiva, o Estado-Membro em causa deve assegurar que sejam tomadas medidas adequadas contra esse fornecedor. Caso o fornecedor seja proibido de comercializar material de propagação e fruteiras, o Estado-Membro deve notificar desse facto a Comissão e os organismos nacionais competentes dos Estados-Membros.
+
+4. As medidas tomadas ao abrigo do n.º 3 são revogadas logo que se verifique, com suficiente rigor, que o material de propagação ou as fruteiras destinados a ser comercializados pelo referido fornecedor passaram a respeitar as exigências e condições previstas na presente directiva.
+
+## CAPÍTULO 8
+
+### DISPOSIÇÕES GERAIS E FINAIS
+
+###### Artigo 17.º — Livre circulação
+
+1. Os materiais de propagação e as fruteiras que satisfaçam as exigências e condições previstas na presente directiva não devem ser sujeitos a quaisquer restrições de comercialização relativamente ao fornecedor, estado fitossanitário, meio de cultura e modalidades de inspecção, para além das previstas na presente directiva.
+
+2. No que diz respeito aos materiais de propagação e fruteiras dos géneros e espécies referidos no anexo I, os Estados-Membros não devem impor condições mais rigorosas ou restrições à comercialização diferentes das previstas na presente directiva ou nos requisitos específicos estabelecidos nos termos do artigo 4.º ou em vigor em 28 de Abril de 1992, consoante o caso.
+
+###### Artigo 18.º — Alteração e adaptação dos anexos
+
+A Comissão pode, nos termos do n.º 3 do artigo 19.º, alterar o anexo I, a fim de o adaptar à evolução dos conhecimentos científicos e técnicos.
+
+###### Artigo 19.º — Comité
+
+1. A Comissão é assistida pelo Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal instituído pelo artigo 58.º, n.º 1, do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1#E0001)). Esse Comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1#E0002)).
+
+2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.
+
+O prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.
+
+3. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE.
+
+O prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.
+
+4. O Comité aprova o seu regulamento interno.
+
+###### Artigo 20.º — Transposição
+
+1. Os Estados-Membros devem aprovar e publicar, até 31 de Março de 2010, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento aos n.^os^ 2 e 3 do artigo 1.º, aos artigos 2.º, 3.º, 5.º e 6.º, aos n.^os^ 2, 3 e 4 do artigo 7.º, ao n.º 3 do artigo 9.º, ao n.º 2 do artigo 12.º, ao n.º 1 do artigo 13.º e aos artigos 16.º e 21.º. Os Estados-Membros devem comunicar imediatamente à Comissão o texto das referidas disposições, bem como um quadro de correspondência entre essas disposições e a presente directiva.
+
+Devem aplicar tais disposições a partir de 30 de Setembro de 2012.
+
+2. Quando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Tais disposições devem igualmente precisar que as referências feitas, nas disposições legislativas, regulamentares e administrativas em vigor, às directivas revogadas pela presente directiva se consideram como sendo feitas para a presente directiva. As modalidades daquela referência e desta precisão são aprovadas pelos Estados-Membros.
+
+3. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva.
+
+###### Artigo 21.º — Medidas transitórias
+
+Os Estados-Membros podem autorizar, até 31 de Dezembro de 2018, a comercialização nos respectivos territórios de material de propagação e fruteiras colhidos de materiais de origem existentes antes de 30 de Setembro de 2012 que tenham sido oficialmente certificados ou preencham as condições para serem qualificados como material CAC antes de 31 de Dezembro de 2018. Aquando da sua comercialização, esses materiais de propagação e fruteiras devem ser identificados mediante uma referência ao presente artigo no rótulo e/ou no documento. Depois de 31 de Dezembro de 2018, os materiais de propagação e as fruteiras podem ser comercializados se preencherem as exigências da presente directiva.
+
+###### Artigo 22.º — Revogação
+
+1. A Directiva 92/34/CEE, alterada pelos actos enumerados na parte A do anexo II, é revogada com efeitos a partir de 30 de Setembro de 2012, sem prejuízo das obrigações dos Estados-Membros no que diz respeito aos prazos de transposição para o direito interno e de aplicação das directivas constantes da parte B do anexo II.
+
+2. As referências à directiva revogada devem entender-se como sendo feitas para a presente directiva e ler-se nos termos do quadro de correspondência constante do anexo III.
+
+###### Artigo 23.º — Entrada em vigor
+
+A presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+###### Artigo 24.º
+
+Os Estados-Membros são os destinatários da presente directiva.
+
+## ANEXO I
+
+### Lista de géneros e espécies a que é aplicável a presente directiva
+
+## ANEXO II
+
+### PARTE A
+
+### Directiva revogada e sucessivas alterações
+
+### (a que se refere o artigo 22.º)
+
+Directiva 92/34/CEE do Conselho (JO L 157 de 10.6.1992, p. 10).
+
+Decisão 93/401/CEE da Comissão (JO L 177 de 21.7.1993, p. 28).
+
+Decisão 94/150/CE da Comissão (JO L 66 de 10.3.1994, p. 31).
+
+Decisão 95/26/CE da Comissão (JO L 36 de 16.2.1995, p. 36).
+
+Decisão 97/110/CE da Comissão (JO L 39 de 8.2.1997, p. 22).
+
+Decisão 1999/30/CE da Comissão (JO L 8 de 14.1.1999, p. 30).
+
+Decisão 2002/112/CE da Comissão (JO L 41 de 13.2.2002, p. 44).
+
+Regulamento (CE) n.º 806/2003 do Conselho (JO L 122 de 16.5.2003, p. 1). Apenas o ponto 7 do anexo II e o ponto 28 do anexo III
+
+Directiva 2003/61/CE do Conselho (JO L 165 de 3.7.2003, p. 23). Apenas o n.º 5 do artigo 1.º
+
+Directiva 2003/111/CE da Comissão (JO L 311 de 27.11.2003, p. 12).
+
+Decisão 2005/54/CE da Comissão (JO L 22 de 26.1.2005, p. 16).
+
+Decisão 2007/776/CE da Comissão (JO L 312 de 30.11.2007, p. 48)
+
+### PARTE B
+
+### Lista dos prazos de transposição para o direito interno e de aplicação
+
+### (a que se refere o artigo 22.º)
+
+| Directiva | Prazo de transposição | Data de aplicação |
+| --- | --- | --- |
+| 92/34/CEE | 31 de Dezembro de 1992 | 31 de Dezembro de 1992 [(^1^)](http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1#E0003) |
+| 2003/61/CE | 10 de Outubro de 2003 |  |
+| 2003/111/CE | 31 de Outubro de 2004 |  |
+| (^1^) No que diz respeito aos artigos 5.º a 11.º, 14.º, 15.º, 17.º, 19.º e 24.º, a data de aplicação para cada género ou espécie referida no anexo II será adoptada de acordo com o procedimento previsto no artigo 21.º, ao ser elaborada a ficha a que se refere o artigo 4.º (ver n.º 2 do artigo 26.º da Directiva 92/34/CEE). |  |  |
+
+## ANEXO III
+
+Directiva 92/34/CEE Presente directiva
+
+Artigo 1.º, n.º 1 Artigo 1.º, n.º 1
+
+Artigo 1.º, n.º 2 —
+
+Artigo 1.º, n.º 3 Artigo 18.º, alterado
+
+— Artigo 1.º, n.^os^ 2 e 3
+
+Artigo 2.º Artigo 1.º, n.º 4
+
+Artigo 3.º, alíneas a) e b) Artigo 2.º, pontos 1 e 2
+
+— Artigo 2.º, pontos 3 e 4
+
+Artigo 3.º, alíneas c) a f) Artigo 2.º, pontos 5 a 8, alterados
+
+Artigo 3.º, alíneas g) e h) —
+
+Artigo 3.º, alíneas i) e j) Artigo 2.º, pontos 9 e 10, alterados
+
+Artigo 3.º, alínea k), subalíneas i) e ii) Artigo 2.º, ponto 11
+
+Artigo 3.º, alínea k), em parte Artigo 13.º, n.º 2, alterado
+
+Artigo 3.º, alíneas l) e m) Artigo 2.º, pontos 12 e 13
+
+Artigo 3.º, alínea n) —
+
+Artigo 3.º, alínea o) Artigo 2.º, ponto 14
+
+Artigo 3.º, alínea p) —
+
+Artigo 4.º, n.º 1 Artigo 4.º, alterado
+
+Artigo 4.º, n.º 2 —
+
+Artigo 5.º —
+
+— Artigo 5.º
+
+Artigo 6.º —
+
+— Artigo 6.º
+
+Artigo 7.º Artigo 15.º
+
+Artigo 8.º, n.^os^ 1 e 2 Artigo 3.º, n.º 1, alíneas a), e b), alteradas
+
+— Artigo 3.º, n.º 2
+
+— Artigo 3.º, n.º 3
+
+Artigo 8.º, n.º 3 Artigo 3.º, n.º 4, alterado
+
+Artigo 9.º, n.º 1 Artigo 7.º, n.º 1
+
+— Artigo 7.º, n.º 2
+
+Artigo 9.º, n.º 2, alíneas i) e ii) Artigo 7.º, n.º 3, alíneas a) e b), alteradas
+
+Artigo 9.º, n.º 2, disposição final Artigo 7.º, n.º 4, alterado
+
+Artigo 9.º, n.º 3 Artigo 7.º, n.º 5
+
+Artigo 9.º, n.º 4 —
+
+Artigo 9.º, n.º 5 Artigo 7.º, n.º 6
+
+Artigo 9.º, n.º 6 Artigo 7.º, n.º 7
+
+Artigo 10.º, n.^os^ 1 e 2 Artigo 8.º, n.^os^ 1 e 2, alterados
+
+Artigo 10.º, n.º 3 —
+
+Artigo 11.º Artigo 9.º, alterado
+
+Artigo 12.º Artigo 10.º
+
+Artigo 13.º Artigo 11.º, alterado
+
+Artigo 14.º Artigo 17.º, n.º 1
+
+Artigo 15.º Artigo 17.º, n.º 2, alterado
+
+Artigo 16.º Artigo 12.º
+
+Artigo 17.º Artigo 13.º, n.º 1, alterado
+
+Artigo 18.º Artigo 13.º, n.º 3, alterado
+
+Artigo 19.º, n.º 1 Artigo 16.º, n.º 2
+
+Artigo 19.º, n.º 2 Artigo 16.º, n.º 3
+
+Artigo 19.º, n.º 3 Artigo 16.º, n.º 4
+
+Artigo 20.º Artigo 14.º
+
+Artigo 21.º, n.^os^ 1 e 2 Artigo 19.º, n.^os^ 1 e 2
+
+Artigo 21.º, n.º 3 Artigo 19.º, n.º 4
+
+Artigo 22.º, n.^os^ 1 e 2 Artigo 19.º, n.^os^ 1 e 3
+
+Artigo 23.º –
+
+Artigo 24.º, n.º 1 Artigo 16.º, n.º 1
+
+Artigo 24.º, n.º 2 —
+
+Artigo 25.º —
+
+Artigo 26.º Artigo 20.º
+
+— Artigo 21.º
+
+— Artigo 22.º
+
+— Artigo 23.º
+
+Artigo 27.º Artigo 24.º
+
+Anexo I —
+
+Anexo II Anexo I
+
+— Anexos II e III
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1).
+
+> ([^2^](http://publications.europa.eu/resource/cellar/b353c718-6504-11ed-9f85-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13).

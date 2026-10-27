@@ -1,0 +1,246 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R3649:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3649-20230213",
+ "dre_path": null,
+ "source_lastmod": "2023-02-13",
+ "versions": [
+  {
+   "date": "1992-12-18",
+   "future": false,
+   "celex": "31992R3649",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "de67b6b86a1220ee",
+    "c9910603628c1fab",
+    "dbd8cc14f1cad887",
+    "694c1f88256b09f1",
+    "6c9e974d9f822477",
+    "191c1c2980fde42b",
+    "13f536104e45cb32"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "celex": "01992R3649-20220101",
+   "acts": [
+    {
+     "id": "eu:celex:32021R2264:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2021/2264 DA COMISSÃO de 17 de dezembro de 2021",
+     "published": null,
+     "celex": "32021R2264"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita NOTAS EXPLICATIVAS",
+    "Adita (verso do exemplar 1)",
+    "Adita Circulação intracomunitária dos produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no Estado-membro deexpedição",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o"
+   ],
+   "fragments": [
+    "5c7a42be00d85725",
+    "9297bf34090581b5",
+    "bc937204d5f791d9",
+    "a07c5742d94c86e7",
+    "30909ae3d2fc5faf",
+    "95ab1269c2971004",
+    "1bce11afe6568090",
+    "d0e6a4e070e457bd",
+    "98fd53881e2d16db",
+    "04f8c0d3d7ed0aac",
+    "94b453fe297b9032"
+   ]
+  },
+  {
+   "date": "2023-02-13",
+   "future": false,
+   "celex": "01992R3649-20230213",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime NOTAS EXPLICATIVAS",
+    "Suprime (verso do exemplar 1)",
+    "Suprime Circulação intracomunitária dos produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no Estado-membro deexpedição",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "af203fef1fadec90"
+   ]
+  }
+ ],
+ "fragments": {
+  "de67b6b86a1220ee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 3649/92 da Comissão, de 17 de Dezembro de 1992, relativo a um documento de acompanhamento simplificado para a circulação intracomunitária dos produtos sujeitos a impostos especiais de consumo, já introduzidos no consumo no Estado-membro de expedição** *Jornal Oficial nº L 369 de 18/12/1992 p. 0017 - 0024 Edição especial finlandesa: Capítulo 9 Fascículo 2 p. 0111 Edição especial sueca: Capítulo 9 Fascículo 2 p. 0111*\n\nREGULAMENTO (CEE) No 3649/92 DA COMISSÃO de 17 de Dezembro de 1992 relativo a um documento de acompanhamento simplificado para a circulação intracomunitária dos produtos sujeitos a impostos especiais de consumo, já introduzidos no consumo no Estado-membro de expedição\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nTendo em conta a Directiva 92/12/CEE do Conselho, de 25 de Fevereiro de 1992, relativa ao regime geral, à detenção, à circulação e aos controlos dos produtos sujeitos a importações especiais de consumo (1), e, nomeadamente, o no 4 do seu artigo 7o,\n\nTendo em conta o parecer do Comité dos Impostos Especiais de Consumo,\n\nConsiderando que a livre circulação dos produtos sujeitos a impostos especiais de consumo que tenham já sido introduzidos no consumo num Estado-membro não deve ser limitada ao território desse Estado-membro; que, no caso de esses produtos se destinarem ou vierem a ser detidos para fins comerciais noutro Estado-membro, o imposto especial de consumo deverá ser cobrado de novo de acordo com as regras do Estado-membro de destino, dando origem ao reembolso do imposto especial de consumo pago no Estado-membro de expedição;\n\nConsiderando que, a fim de assegurar o controlo fiscal desses produtos durante o transporte, o no 4 do artigo 7o da Directiva 92/12/CEE prevê um documento simplificado de acompanhamento que mencione os principais elementos do documento de acompanhamento referido no no 1 do artigo 18o da referida directiva e que a forma e o conteúdo desse documento devem ser definidos;\n\nConsiderando que aos operadores envolvidos não deve ser exigida a execução de qualquer tarefa adicional no que diz respeito ao documento de acompanhamento, devendo-se para o efeito prever a utilização dos documentos comerciais já existentes, desde que preencham determinadas condições;\n\nConsiderando que é necessário prever um exemplar para o reembolso dos impostos especiais de consumo pagos no Estado-membro de expedição;\n\nConsiderando que os pormenores do procedimento, bem como o número de exemplares do documento de acompanhamento devem ser definidos;\n\nConsiderando que é necessário prever um documento de acompanhamento para a circulação do álcool inteiramente desnaturado,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c9910603628c1fab": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nNo caso de os produtos sujeitos a impostos especiais de consumo, que tenham já sido introduzidos no consumo num Estado-membro, se destinarem a ser entregues noutro Estado-membro para fins comerciais, tal como referido no artigo 7o da Directiva 92/12/CEE, a pessoa que pretende efectuar a entrega deve elaborar um documento de acompanhamento simplificado. Durante o transporte desses produtos de um Estado-membro para outro Estado-membro o documento deve acompanhar a remessa, bem como ser colocado à disposição das autoridades competentes dos Estados-membros para efeitos de controlo."
+  },
+  "dbd8cc14f1cad887": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. O modelo que consta do anexo pode ser utilizado como documento de acompanhamento simplificado, em conformidade com as notas explicativas do exemplar 1 do modelo.\n\n2. Os documentos comerciais, como, por exemplo, facturas, guias de remessa, documentos de transporte e outros, podem igualmente ser utilizados como documentos de acompanhamento, na condição de que contenham os mesmos elementos de informação que os estabelecidos no modelo anexo e que sejam identificados por um número correspondente ao código das casas do referido modelo anexo."
+  },
+  "694c1f88256b09f1": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\nNo caso dos documentos comerciais referidos no artigo 2o serem utilizados enquanto documentos de acompanhamento simplificado, deles deve constar, de forma evidente, a seguinte frase:\n\n« Documento de acompanhamento simplificado para fins de controlo fiscal »."
+  },
+  "6c9e974d9f822477": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nO documento de acompanhamento simplificado deve ser elaborado em três exemplares.\n\nExemplar 1: a conservar pelo fornecedor para efeitos de controlo fiscal.\n\nExemplar 2: acompanha as mercadorias durante o transporte, devendo ser conservado pelo destinatário.\n\nExemplar 3: acompanha as mercadorias, devendo ser devolvido ao fornecedor com uma certificação da recepção aposta pelo destinatário, indicando o tratamento fiscal subsequente das mercadorias no Estado-membro de destino, caso o fornecedor o solicite, nomeadamente, para efeitos de reembolso. Este exemplar deve ser apenso ao eventual pedido de reembolso referido no no 3 do artigo 22o da Directiva 92/12/CEE."
+  },
+  "191c1c2980fde42b": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nO documento de acompanhamento simplificado destina-se ainda a ser utilizado nos movimentos intracomunitários de álcool inteiramente desnaturado, previstos na alínea a) do no 1 do artigo 27o da Directiva 92/83/CEE (2)."
+  },
+  "13f536104e45cb32": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1993. O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 17 de Dezembro de 1992. Pela Comissão\n\nChristiane SCRIVENER\n\nMembro da Comissão NOTAS EXPLICATIVAS\n\n(verso do exemplar 1)\n\nCirculação intracomunitária dos produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no Estado-membro de expedição\n\n1. Generalidades\n\n1.1. O documento simplificado de acompanhamento é exigido para efeitos de impostos especiais de consumo, nos termos do disposto no artigo 7o da Directiva 92/12/CEE do Conselho.\n\n1.2. O documento deve ser preenchido de forma legível e indelével. As informações poderão ser pré-impressas. Não pode conter rasuras ou emendas.\n\n1.3. As especificações gerais relativas ao papel a utilizar e às dimensões das casas devem satisfazer o previsto no Jornal Oficial das Comunidades Europeias no C 164 de 1. 7. 1989, p. 3.\n\nO papel deverá ser de cor branca para todos os exemplares e ter as dimensões de 210 milímetros por 297 milímetros, com uma tolerância máxima de cinco milímetros para menos ou de oito milímetros para mais, no que respeita ao seu comprimento.\n\n1.4. Qualquer espaço não utilizado deverá ser riscado, de forma a que nada possa ser acrescentado.\n\n1.5. O documento administrativo acompanhamento é composto por três exemplares:\n\nExemplar 1: a conservar pelo fornecedor.\n\nExemplar 2: acompanha as mercadorias, devendo ser conservado pelo destinatário.\n\nExemplar 3: acompanha as mercadorias, devendo ser devolvido ao fornecedor com uma certificação de recepção aposta pela pessoa identificada na casa no 4, caso o fornecedor o solicite, nomeadamente, para efeitos de reembolso.\n\n2. Rubricas\n\nCasa no 1 Fornecedor: o nome completo, endereço e número de registo IVA (caso exista) da pessoa que cede as mercadorias num Estado-membro. Caso exista um número de registo para efeitos de impostos especiais de consumo este deverá igualmente ser indicado.\n\nCasa no 2 Número de referência da transacção: um número de referência a atribuir pela pessoa que fornece as mercadorias e que identifique a remessa relativamente aos seus registos contabilísticos. Regra geral, tratar-se-á do número e da data da factura.\n\nCasa no 3 Autoridade competente: nome e endereço da autoridade no Estado-membro de destino à qual o movimento foi previamente declarado.\n\nCasa no 4 Destinatário: o nome completo, endereço e número de registo IVA (caso exista) da pessoa que recebe as mercadorias. Caso exista um número de registo para efeitos de impostos especiais de consumo, este deverá igualmente ser indicado.\n\nCasa no 5 Transportador: indicar « fornecedor », « destinatário » ou o nome e o endereço da pessoa que tenha a responsabilidade do primeiro transporte, caso seja diferente das pessoas indicadas nas casas no 1 ou no 4; dever-se-á indicar igualmente o meio de transporte.\n\nCasa no 6 Número de referência e data da declaração: a declaração e/ou autorização que tem de ser emitida pela autoridade competente do Estado-membro de destino antes de se iniciar o transporte.\n\nCasa no 7 Local de entrega: local onde as mercadorias devem ser entregues, caso seja diferente do endereço indicado na casa no 4.\n\nCasa no 8 Descrição completa das mercadorias, marcas e números e tipo de embalagens: marcas e números de embalagens exteriores, por exemplo, contentores; número de embalagens interiores, por exemplo, caixas de cartão; descrição comercial das mercadorias.\n\nA descrição poderá continuar numa folha distinta anexada a cada exemplar. Poderá ser utilizada para o efeito uma lista de embalagens. Relativamente ao álcool etílico e bebidas alcoólicas, à excepção da cerveja, deverá ser apresentado o seu teor alcoólico (% por volume a 20 °C).\n\nNo que respeita à cerveja, deverão ser indicados os respectivos graus Plato ou a percentagem de álcool por volume a 20 °C ou ambos, consoante o que for determinado pelo Estado-membro de destino e de expedição.\n\nRelativamente aos óleos minerais, dever-se-á indicar a densidade a 15 °C.\n\nCasa no 9 Código da mercadoria: o código NC.\n\nCasa no 10 Quantidade: o número, peso ou volume, consoante o caso, para efeitos de impostos especiais de consumo no Estado-membro de destino; por exemplo:\n\n- para os cigarros, o número de artigos, expresso em milhares,\n\n- para os charutos e cigarrilhas, o peso líquido,\n\n- para o álcool e bebidas alcoólicas, os litros a 20 °C com duas casa decimais,\n\n- para os óleos minerais, com excepção do óleo pesado, os litros a 15 °C.\n\nCasa no 11 Peso bruto: o peso bruto da remessa.\n\nCasa no 12 Peso líquido: o peso das mercadorias sem embalagem.\n\nCasa no 13 Preço ou valor da factura: o montante total da factura incluindo o imposto especial de consumo. Caso o movimento não esteja associado a uma venda, dever-se-á indicar o valor comercial. Nesse caso, acrescentar a menção « não objecto de venda ».\n\nCasa no 14 Certificados: este espaço é reservado a eventuais certificados que são apenas necessários no exemplar no 2.\n\n1. No que se refere a certas categorias de vinhos, é necessário indicar, se for caso disso, a certificação relativa à origem e à qualidade dos produtos de acordo com a regulamentação comunitária na matéria.\n\n2. No que se refere a certas categorias de bebidas espirituosas, é necessário indicar, se for caso disso, a certificação relativa ao local de produção de acordo com a regulamentação comunitária na matéria.\n\n3. A cerveja fabricada por pequenas empresas independentes, tal como definido na directiva do Conselho relativa à estrutura do imposto especial de consumo do álcool e das bebidas alcoólicas e em relação ao qual se pretenda solicitar a aplicação de uma taxa reduzida de impostos especiais de consumo no Estado-membro de destino, deverá ser certificado nos seguintes termos:\n\n« Certifica-se que o produto descrito foi fabricado por uma pequena empresa independente, cuja produção do ano precedente foi de.......... hectolitros de cerveja. ».\n\n4. O álcool etílico fabricado por pequenas destilarias, tal como definido na directiva do Conselho relativa à estrutura do imposto especial de consumo do álcool e das bebidas alcoólicas e em relação ao qual se pretenda solicitar a aplicação de uma taxa reduzida de impostos especiais de consumo no Estado-membro de destino, deverá ser certificado nos seguintes termos:\n\n« Certifica-se que o produto descrito foi fabricado por uma pequena empresa, cuja produção do ano precedente foi de.......... hectolitros de álcool puro. ».\n\nCasa no 15 Empresa do signatário, etc.: o documento deverá ser preenchido pela pessoa responsável pelo movimento das mercadorias ou em seu nome. Poderá ser o fornecedor ou o destinatário. No caso de o fornecedor exigir que o exemplar no 3, com um certificado de recepção, lhe seja reenviado, esse facto deverá ser mencionado.\n\nCasa A Registos de controlos: as autoridades competentes deverão registar os controlos efectuados nos exemplares 2 e 3. Todos os comentários deverão ser assinados, datados e carimbados pelo funcionário responsável.\n\nCasa B Certificado de recepção: a fornecer pelo destinatário e a devolver ao fornecedor, caso este o solicite, nomeadamente, para efeitos de reembolso.\n\n(1) JO no L 76 de 23. 3. 1992, p. 1. (2) JO no L 316 de 31. 10. 1992, p. 21."
+  },
+  "5c7a42be00d85725": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Dezembro de 1992\n\nrelativo a um documento de acompanhamento simplificado para a circulação intracomunitária dos produtos sujeitos a impostos especiais de consumo, já introduzidos no consumo no Estado-membro de expedição"
+  },
+  "9297bf34090581b5": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNo caso de os produtos sujeitos a impostos especiais de consumo, que tenham já sido introduzidos no consumo num Estado-membro, se destinarem a ser entregues noutro Estado-membro para fins comerciais, tal como referido no artigo 7.º da Directiva 92/12/CEE, a pessoa que pretende efectuar a entrega deve elaborar um documento de acompanhamento simplificado. Durante o transporte desses produtos de um Estado-membro para outro Estado-membro o documento deve acompanhar a remessa, bem como ser colocado à disposição das autoridades competentes dos Estados-membros para efeitos de controlo."
+  },
+  "bc937204d5f791d9": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O modelo que consta do anexo pode ser utilizado como documento de acompanhamento simplificado, em conformidade com as notas explicativas do exemplar 1 do modelo.\n\n2. Os documentos comerciais, como, por exemplo, facturas, guias de remessa, documentos de transporte e outros, podem igualmente ser utilizados como documentos de acompanhamento, na condição de que contenham os mesmos elementos de informação que os estabelecidos no modelo anexo e que sejam identificados por um número correspondente ao código das casas do referido modelo anexo."
+  },
+  "a07c5742d94c86e7": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNo caso dos documentos comerciais referidos no artigo 2.º serem utilizados enquanto documentos de acompanhamento simplificado, deles deve constar, de forma evidente, a seguinte frase:\n\n«Documento de acompanhamento simplificado para fins de controlo fiscal»."
+  },
+  "30909ae3d2fc5faf": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO documento de acompanhamento simplificado deve ser elaborado em três exemplares.\n\nExemplar 1: a conservar pelo fornecedor para efeitos de controlo fiscal.\n\nExemplar 2: acompanha as mercadorias durante o transporte, devendo ser conservado pelo destinatário.\n\nExemplar 3: acompanha as mercadorias, devendo ser devolvido ao fornecedor com uma certificação da recepção aposta pelo destinatário, indicando o tratamento fiscal subsequente das mercadorias no Estado-membro de destino, caso o fornecedor o solicite, nomeadamente, para efeitos de reembolso. Este exemplar deve ser apenso ao eventual pedido de reembolso referido no n.º 3 do artigo 22.º da Directiva 92/12/CEE."
+  },
+  "95ab1269c2971004": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO documento de acompanhamento simplificado destina-se ainda a ser utilizado nos movimentos intracomunitários de álcool inteiramente desnaturado, previstos na alínea a) do n.º 1 do artigo 27.º da Directiva 92/83/CEE ([^1^](http://publications.europa.eu/resource/cellar/8bec8d91-891f-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "1bce11afe6568090": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente regulamento entra em vigor em 1 de Janeiro de 1993.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros."
+  },
+  "d0e6a4e070e457bd": {
+   "fragment_id": "NOTAS EXPLICATIVAS",
+   "type": "divisao",
+   "heading": "NOTAS EXPLICATIVAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### NOTAS EXPLICATIVAS"
+  },
+  "98fd53881e2d16db": {
+   "fragment_id": "(verso do exemplar 1)",
+   "type": "divisao",
+   "heading": "(verso do exemplar 1)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### (verso do exemplar 1)"
+  },
+  "04f8c0d3d7ed0aac": {
+   "fragment_id": "Circulação intracomunitária dos produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no Estado-membro deexpedição",
+   "type": "divisao",
+   "heading": "Circulação intracomunitária dos produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no Estado-membro deexpedição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Circulação intracomunitária dos produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no Estado-membro deexpedição\n\n1.1. O documento simplificado de acompanhamento é exigido para efeitos de impostos especiais de consumo, nos termos do disposto no artigo 7.º da Directiva 92/12/CEE do Conselho.\n\n1.2. O documento deve ser preenchido de forma leágível e indelével. As informações poderão ser pré-impressas. Não pode conter rasuras ou emendas.\n\n1.3. As especificações gerais relativas ao papel a utilizar e às dimensões das casas devem satisfazer o previsto no *Jornal Oficial das Comunidades Europeias* n.º C 164 de 1. 7. 1989, p. 3.\n\n1.4. Qualquer espaço não utilizado deverá ser riscado, de forma a que nada possa ser acrescentado.\n\n1.5. O documento administrativo acompanhamento é composto por três exemplares:\n\nExemplar 1: a conservar pelo fornecedor.\n\nExemplar 2: acompanha as mercadorias, devendo ser conservado pelo destinatário.\n\nExemplar 3: acompanha as mercadorias, devendo ser devolvido ao fornecedor com uma certificação de recepção aposta pela pessoa identificada na casa n.º 4, caso o fornecedor o solicite, nomeadamente, para efeitos de reembolso.\n\nCasa n.º 1 Fornecedor:: o nome completo, endereço e número de registo IVA (caso exista) da pessoa que cede as mercadorias num Estado-membro. Caso exista um número de registo para efeitos de impostos especiais de consumo este deverá igualmente ser indicado.\n\nCasa n.º 2 Número de referência da transacção:: um número de referência a atribuir pela pessoa que fornece as mercadorias e que identifique a remessa relativamente aos seus registos contabilísticos. Regra geral, tratar-se-á do número e da data da factura.\n\nCasa n.º 3 Autoridade competente:: nome e endereço da autoridade no Estado-membro de destino à qual o movimento foi previamente declarado.\n\nCasa n.º 4 Destinatário:: o nome completo, endereço e número de registo IVA (caso exista) da pessoa que recebe as mercadorias. Caso exista um número de registo para efeitos de impostos especiais de consumo, este deverá igualmente ser indicado.\n\nCasa n.º 5 Transportador:: indicar «fornecedor», «destinatário» ou o nome e o endereço da pessoa que tenha a responsabilidade do primeiro transporte, caso seja diferente das pessoas indicadas nas casas n.º 1 ou n.º 4; dever-se-á indicar igualmente o meio de transporte.\n\nCasa n.º 6 Número de referência e data da declaração:: a declaração e/ou autorização que tem de ser emitida pela autoridade competente do Estado-membro de destino antes de se iniciar o transporte.\n\nCasa n.º 7 Local de entrega:: local onde as mercadorias devem ser entregues, caso seja diferente do endereço indicado na casa n.º 4.\n\nCasa n.º 8 Descrição completa das mercadorias, marcas e números e tipo de embalagens:: marcas e números de embalagens exteriores, por exemplo, contentores; número de embalagens interiores, por exemplo, caixas de cartão; descrição comercial das mercadorias. A descrição poderá continuar numa folha distinta anexada a cada exemplar. Poderá ser utilizada para o efeito uma lista de embalagens. Relativamente ao álcool etílico e bebidas alcoólicas, à excepção da cerveja, deverá ser apresentado o seu teor alcoólico (% por volume a 20 °C). No que respeita à cerveja, deverão ser indicados os respectivos graus Plato ou a percentagem de álcool por volume a 20 °C ou ambos, consoante o que for determinado pelo Estado-membro de destino e de expedição. Relativamente aos óleos minerais, dever-se-á indicar a densidade a 15 °C.\n\nCasa n.º 9 Código da mercadoria:: o código NC.\n\nCasa n.º 10 Quantidade:: o número, peso ou volume, consoante o caso, para efeitos de impostos especiais de consumo no Estado--membro de destino; por exemplo: — para os cigarros, o número de artigos, expresso em milhares, — para os charutos e cigarrilhas, o peso líquido, — para o álcool e bebidas alcoólicas, os litros a 20 °C com duas casa decimais, — para os óleos minerais, com excepção do óleo pesado, os litros a 15 °C.\n\nCasa n.º 11 Peso bruto:: o peso bruto da remessa.\n\nCasa n.º 12 Peso líquido:: o peso das mercadorias sem embalagem.\n\nCasa n.º 13 Preço ou valor da factura:: o montante total da factura incluindo o imposto especial de consumo. Caso o movimento não esteja associado a uma venda, dever-se-á indicar o valor comercial. Nesse caso, acrescentar a menção «não objecto de venda».\n\nCasa n.º 14 Certificados (relativos a certos vinhos e bebidas espirituosas; pequenos produtores independentes de bebidas alcoólicas):: este espaço é reservado a eventuais certificados que são apenas necessários no exemplar n.º 2. 1. No que se refere a certas categorias de vinhos, é necessário indicar, se for caso disso, a certificação relativa à origem e à qualidade dos produtos de acordo com a regulamentação comunitária na matéria. 2. No que se refere a certas categorias de bebidas espirituosas, é necessário indicar, se for caso disso, a certificação relativa ao local de produção de acordo com a regulamentação comunitária na matéria. [**►M1**](http://publications.europa.eu/resource/celex/32021R2264) 3. No caso das bebidas alcoólicas produzidas por pequenos produtores independentes autocertificados, as informações devem ser acrescentadas em conformidade com o artigo 6.º do Regulamento de Execução (UE) 2021/2266 ([^2^](http://publications.europa.eu/resource/cellar/8bec8d91-891f-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0002)) quando se pretenda solicitar a aplicação de uma taxa reduzida de impostos especiais de consumo no Estado-Membro de destino. **◄** [**►M1**](http://publications.europa.eu/resource/celex/32021R2264) 4. O álcool etílico fabricado por pequenas destilarias, tal como definido na directiva do Conselho relativa à estrutura do imposto especial de consumo do álcool e das bebidas alcoó- licas e em relação ao qual se pretenda solicitar a aplicação de uma taxa reduzida de impostos especiais de consumo no Estado-membro de destino, deverá ser certificado nos seguintes termos: *«Certifica-se que o produto descrito foi fabricado por uma pequena empresa, cuja produção do ano precedente foi de hectolitros de álcool puro.».* **◄**\n\nCasa n.º 15 Empresa do signatário, etc.:: o documento deverá ser preenchido pela pessoa responsável pelo movimento das mercadorias ou em seu nome. Poderá ser o fornecedor ou o destinatário. No caso de o fornecedor exigir que o exemplar n.º 3, com um certificado de recepção, lhe seja reenviado, esse facto deverá ser mencionado.\n\nCasa A Registos de controlos:: as autoridades competentes deverão registar os controlos efectuados nos exemplares 2 e 3. Todos os comentários deverão ser assinados, datados e carimbados pelo funcionário responsável.\n\nCasa B Certificado de recepção:: a fornecer pelo destinatário e a devolver ao fornecedor, caso este o solicite, nomeadamente, para efeitos de reembolso.\n\n---"
+  },
+  "94b453fe297b9032": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/8bec8d91-891f-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO no L 316 de 31. 10. 1992, p. 21.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/8bec8d91-891f-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento de Execução (UE) 2021/2266 da Comissão, de 17 de dezembro de 2021, que estabelece regras de execução da Diretiva 92/83/CEE do Conselho no que respeita à certificação e autocertificação dos pequenos produtores independentes de bebidas alcoólicas para efeitos de impostos especiais de consumo (JO L 455)."
+  },
+  "af203fef1fadec90": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01992R3649 — PT — 13.02.2023 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31992R3649) [REGULAMENTO (CEE) N.º 3649/92 DA COMISSÃO](http://publications.europa.eu/resource/celex/31992R3649) [de 17 de Dezembro de 1992](http://publications.europa.eu/resource/celex/31992R3649) [relativo a um documento de acompanhamento simplificado para a circulação intracomunitária dos produtos sujeitos a impostos especiais de consumo, já introduzidos no consumo no Estado-membro de expedição](http://publications.europa.eu/resource/celex/31992R3649) (JO L 369, 18.12.1992, p.17)\n\n**Revogado por:**\n\n- [Regulamento Delegado (UE) 2022/1636 da Comissão de 5 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1636) — L 247 — 2 — 23.9.2022"
+  }
+ }
+}

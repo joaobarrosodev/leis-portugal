@@ -1,0 +1,329 @@
+---
+schema_version: '1.0'
+id: pt:dre:520456:por
+title: Decreto-Lei n.º 89/2007
+short_title: null
+summary: Aprova a orgânica da Secretaria-Geral do Ministério da Cultura
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 89/2007
+official_date: null
+publication_date: '2007-03-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 63/2007, Série I de 2007-03-29
+  number: '63'
+  series: I
+  supplement: null
+  pages: 1904 - 1907
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/19041907.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/89/2007/03/29/p/dre/pt/html
+  oj: null
+  dre: '520456'
+  dre_path: /dr/detalhe/decreto-lei/89-2007-520456
+  internal: pt:dre:520456:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2007-520456
+  metadata_url: https://data.dre.pt/eli/dec-lei/89/2007/03/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2007-520456
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:02:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e5a8962d7a75c195a4dd99eaf40a8b2f4d3bef128c7e826db3f18ad5985c359a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:02:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Ministério da Cultura
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Secretaria Geral
+relationships:
+- type: amended_by
+  target: pt:dre:542421:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:642010:por
+  label: "Extinta, nos termos dos arts. 45.º e 48.º, sendo objecto de fusão, a Secretaria-Geral do Ministério da Cultura,\
+    \ cuja orgânica foi aprovada pelo presente diploma, rectificado pela Decl-Rect 47-B/2007 de 25-Mai, e integradas as suas\
+    \ atribuições na Secretaria-Geral da PCM, com excepção das atribuições nos domínios do apoio jurídico-contencioso e da\
+    \ gestão administrativa e financeira do Fundo de Fomento Cultural, que são integradas no Gabinete de Estratégia, Planeamento\
+    \ e Avaliação Culturais, pelo DEC LEI.126-A/2011.29.12.2011.PCM, DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-a-2011-642010
+  date: '2011-12-29'
+- type: amended_by
+  target: pt:dre:544577:por
+  label: "Determinada a sucessão da SG nas atribuições da Secretaria-Geral do Ministério da Cultura, com exceção das atribuições\
+    \ nos domínios do apoio jurídico-contencioso e da gestão administrativa e financeira do Fundo de Fomento Cultural e revogado,\
+    \ a partir de 01.02.2012. o presente diploma, pelo DEC LEI.4/2012.16.01.2012.PCM, DR.IS [11] de 16.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/4-2012-544577
+  date: '2012-01-16'
+- type: amended_by
+  target: pt:dre:542421:por
+  label: "Determina a sucessão do Gabinete de Estratégia, Planeamento e Avaliação Culturais nas atribuições da Secretaria-Geral\
+    \ do Ministério da Cultura, pelo DEC LEI.47/2012.28.02.2012.PCM, DR.IS [42] de 28.02.2012, nos termos do art. 10º.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47-2012-542421
+  date: '2012-02-28'
+- type: cites
+  target: pt:dre:308516:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/210/1999/06/11/p/dre
+- type: cites
+  target: pt:dre:545647:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: corrected_by
+  target: pt:dre:149592:por
+  label: "Rectificado pela DECL-RECT.47-B/2007.25.05.2007.PCM, DR.IS [102]Supl de 28.05.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-rectificacao/47-b-2007-149592
+  date: '2007-05-25'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:02:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 89/2007
+
+de 29 de Março
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa, à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 215/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-2006-545647), de 27 de Outubro, que aprovou a lei orgânica do Ministério da Cultura, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+Com base neste novo modelo organizacional, pretende cumprir-se os objectivos ínsitos na estratégia de desenvolvimento da Administração Pública, visando uma maior transparência na dinâmica de acção e de complementaridade, sem sobreposição, entre os organismos do MC.
+
+O presente decreto-lei visa concretizar a reestruturação da Secretaria-Geral do Ministério da Cultura (SGMC), no âmbito do processo global de reforma da Administração Central, consagrando o essencial das recomendações do PRACE, em matéria de transversalidade de actuação das secretarias-gerais, designadamente no que respeita à assumpção de funções comuns nos domínios da gestão de recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação e da comunicação e relações públicas. A SGMC passa assim a assumir o conjunto de atribuições consagradas no artigo 31.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, ficando desta forma consagrada a sua actuação de cariz horizontal relativamente aos serviços e organismos que integram o Ministério da Cultura.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Secretaria-Geral, abreviadamente designada por SG, é um serviço integrado na administração directa do Estado, dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A SG tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no Ministério da Cultura e aos demais órgãos e serviços nele integrados, nos domínios da gestão de recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação e da comunicação e relações públicas, na organização e gestão do Arquivo Central do Ministério e na gestão de unidades de serviços partilhados no ministério.
+
+2 - A Secretaria-Geral prossegue as seguintes atribuições:
+
+a) Apoiar administrativa, técnica e juridicamente os gabinetes dos membros do Governo responsáveis pela área da Cultura, bem como os órgãos, serviços, comissões e grupos de trabalho que não disponham de meios apropriados, bem como assegurar os serviços de apoio jurídico-contencioso do MC, sem prejuízo das atribuições que, nesta matéria, são cometidas à IGAC e ao IGESPAR;
+
+b) Assegurar as actividades do Ministério no âmbito da comunicação e relações públicas;
+
+c) Assegurar a elaboração do orçamento de funcionamento e acompanhar a execução dos orçamentos de funcionamento e de investimento do MC;
+
+d) Gerir os contratos de prestação de serviços de suporte, não integrados em entidades públicas prestadoras de serviços partilhados;
+
+e) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MC na respectiva implementação, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de quadros de pessoal;
+
+f) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, modernização e a política de qualidade, no âmbito do MC, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;
+
+g) Assegurar o normal funcionamento do Ministério da Cultura nas áreas que não sejam da competência específica de outros serviços do Ministério;
+
+h) Assegurar as funções de unidade ministerial de compras;
+
+i) Promover boas práticas de gestão de documentos nos serviços e organismos do Ministério e proceder à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;
+
+j) Assegurar a gestão administrativa e financeira do Fundo de Fomento Cultural.
+
+3 - Como serviço do MC responsável pela gestão de recursos humanos, organização e qualidade, a SG prossegue as seguintes atribuições:
+
+a) Coordenar a gestão e efectuar o recrutamento centralizado dos recursos humanos do MC;
+
+b) Colaborar na aplicação das políticas de recrutamento e selecção, de carreiras, de remunerações, de avaliação do desempenho, em articulação com os serviços e organismos da Administração Pública com competências transversais nesta área;
+
+c) Uniformizar os instrumentos de planeamento e de gestão previsional no domínio da política de recursos humanos, bem como os respectivos procedimentos, em articulação com todos os serviços e organismos do MC;
+
+d) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afecto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais;
+
+e) Coordenar a formação, aperfeiçoamento profissional e requalificação dos recursos humanos afectos aos serviços e organismos do Ministério.
+
+4 - No domínio da gestão administrativa, financeira, patrimonial e orçamental a SG prossegue as seguintes atribuições:
+
+a) Assegurar os serviços gerais de natureza técnica nas áreas administrativa, patrimonial, financeira e orçamental, necessários ao normal funcionamento da SG, dos gabinetes dos membros do Governo, bem como dos serviços, organismos e demais entidades a quem a SG presta apoio e ainda de todos os serviços e organismos do MC que não disponham destas áreas funcionais;
+
+b) Planear, propor, executar e acompanhar o orçamento da SG, dos gabinetes dos membros do Governo responsáveis pela área da Cultura, e demais entidades do MC a quem a SG presta apoio;
+
+c) Planear, coordenar, executar e controlar todos os procedimentos relativos a aquisições, alienações, arrendamentos, projectos, obras, afectações e utilizações dos bens imóveis da titularidade do Ministério da Cultura ou a ele afectos, sem prejuízo das atribuições do IGESPAR, IP, do IMC, IP e das Direcções Regionais do MC;
+
+d) Assegurar a gestão, conservação, manutenção e segurança dos imóveis ou quaisquer instalações ocupadas ou a ocupar pelos serviços e organismos do MC;
+
+e) Organizar e manter actualizado o cadastro e inventário dos bens móveis e imóveis, que constituem o património afecto ao Ministério da Cultura, à Secretaria-Geral, aos gabinetes governamentais e a quaisquer outras entidades, serviços ou organismos aos quais presta apoio, bem como aos restantes serviços e organismos do MC, com exclusão, do património classificado.
+
+f) Assegurar o funcionamento do sistema de informação orçamental e a uniformização dos respectivos procedimentos, de forma a garantir a gestão flexível do orçamento do MC.
+
+5 - No domínio do apoio técnico-jurídico e do contencioso, a SG prossegue as seguintes atribuições:
+
+a) Assegurar o apoio jurídico e de contencioso aos Gabinetes, serviços e organismos do MC;
+
+b) Apoiar os órgãos, serviços e organismos do MC na elaboração dos regulamentos internos e demais instrumentos legais, bem como emitir pareceres jurídicos e realizar estudos de natureza jurídica que lhe sejam por estes solicitados;
+
+c) Instruir ou apoiar tecnicamente a instrução de processos disciplinares, sem prejuízo das competências próprias dos titulares dos cargos de direcção superior de 1.º grau dos serviços e organismos do Ministério da Cultura.
+
+6 - No domínio da documentação e arquivo e da informação e relações públicas, a SG prossegue as seguintes atribuições:
+
+a) Gerir o Arquivo Central do MC, promovendo designadamente a recolha, tratamento e disponibilização da informação;
+
+b) Gerir o Centro de Documentação do MC, procedendo à recolha, tratamento e divulgação da informação, documentação e legislação relacionada com a área da cultura, designadamente com as atribuições prosseguidas pelos serviços e organismos do MC;
+
+c) Promover a divulgação das actividades desenvolvidas pelo MC, mediante a publicação de edições ou o uso das novas tecnologias de informação e comunicação;
+
+d) Dinamizar a política de mecenato cultural e desenvolver a tramitação procedimental inerente à atribuição do respectivo estatuto;
+
+e) Pronunciar-se, em articulação com os diversos serviços e organismos do MC, sobre o interesse cultural de actividades e sobre a utilidade pública de entidades com intervenção no sector cultural.
+
+7 - No domínio dos sistemas de informação, a SG prossegue as seguintes atribuições:
+
+a) Promover a aplicação das políticas e estratégias das tecnologias de informação e comunicação (TIC), de acordo com as orientações superiormente definidas e garantir o planeamento, concepção, execução e avaliação das iniciativas de informatização e a respectiva actualização tecnológica dos serviços e organismos do MC, assegurando uma gestão eficaz dos recursos disponíveis;
+
+b) Elaborar o plano estratégico de sistemas de informação geral do MC, e coordenar a elaboração de planos estratégicos específicos;
+
+c) Assegurar a articulação com os organismos com competências interministeriais na área das TIC;
+
+d) Definir e controlar o cumprimento de normas e procedimentos relativos à selecção, aquisição e utilização de infra-estruturas tecnológicas e sistemas de informação no MC;
+
+e) Coordenar a realização de projectos no âmbito das TIC dos serviços e organismos do MC, em articulação com estes;
+
+f) Promover a unificação e a racionalização de métodos, processos e infra-estruturas tecnológicas nos diversos serviços e organismos do MC;
+
+g) Acompanhar em permanência o desenvolvimento dos sistemas de informação e infra-estruturas tecnológicas, de forma a garantir a sua adequação às necessidades dos serviços e organismos do MC e o cumprimento das políticas e das normas superiormente definidas;
+
+h) Assegurar a construção, a gestão e a operação de sistemas e infra-estruturas na área de actuação do MC, quer transversais quer específicas, em articulação com os demais serviços e organismos do Ministério.
+
+8 - A SG possui capacidade editorial própria, podendo proceder à venda das publicações e outros trabalhos por si editados ou quaisquer outros cujos direitos lhe pertençam ou, por qualquer outro modo, dispor do respectivo produto, assegurando os correspondentes direitos editoriais.
+
+###### Artigo 3.º — Órgãos
+
+A SG é dirigida por um secretário-geral, coadjuvado por dois secretários-gerais adjuntos.
+
+###### Artigo 4.º — Secretário-Geral
+
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas, compete ainda ao secretário-geral:
+
+a) Exercer as funções de representação oficial do MC em todos os actos para que for designado pelos membros do Governo;
+
+b) Exercer as funções de oficial púbico nos actos e contratos em que sejam outorgantes os membros do Governo;
+
+c) Proceder à afectação do pessoal da SG aos gabinetes ministeriais e aos demais serviços e organismos a quem presta apoio;
+
+d) Propor medidas e orientações em áreas de interesse comum aos serviços e organismos do MC;
+
+e) Lavrar em livro próprio e assinar autos de posse conferidas pelos membros do Governo.
+
+2 - Os secretários-gerais-adjuntos exercem as competências que neles sejam delegadas ou subdelegadas pelo secretário-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Tipo de organização interna
+
+A organização interna dos serviços obedece ao modelo de estrutura hierarquizado.
+
+###### Artigo 6.º — Receitas
+
+1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A SG dispõe ainda das seguintes receitas próprias:
+
+a) As quantias cobradas pela prestação de serviços, no âmbito das suas atribuições e competências;
+
+b) Os subsídios e comparticipações atribuídos por quaisquer entidades, públicas ou privadas, nacionais ou estrangeiras;
+
+c) O produto da venda de publicações e de outros trabalhos editados pela SG ou por outros serviços do Estado já extintos cujo espólio tenha sido afecto à SG;
+
+d) O produto da venda de bens e equipamentos dispensáveis, obsoletos ou descontinuados;
+
+e) O produto da cedência de espaços que estejam a seu cargo;
+
+f) O produto de apoios concedidos ao abrigo do Estatuto do Mecenato para projectos de manifesto interesse cultural;
+
+g) Qualquer outra receita que, por lei, contrato ou qualquer outro título, lhe sejam atribuídas.
+
+3 - As receitas referidas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas da SG durante a execução do orçamento do ano a que respeitam.
+
+4 - Os bens e serviços prestados pela SG são remunerados segundo critérios e tabelas a aprovar por despacho do membro do Governo responsável pela área da Cultura.
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da SG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 8.º — Quadro de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau, constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+
+###### Artigo 9.º — Critérios de selecção de pessoal
+
+É fixado como critério geral e abstracto de selecção do pessoal necessário à prossecução das atribuições fixadas no artigo 2.º, o desempenho de funções na Biblioteca Nacional, no Gabinete de Relações Culturais Internacionais, no Gabinete do Direito de Autor, no Instituto Português de Museus, no Instituto Português de Conservação e Restauro, no Centro Português de Fotografia, no Instituto do Cinema, Audiovisual e Multimédia, na Cinemateca Portuguesa Museu do Cinema, no Instituto Português do Livro e das Bibliotecas, no Instituto dos Arquivos Nacionais - Torre do Tombo e no Instituto das Artes, na carreira técnica superior, na área funcional de Direito, ou na carreira de consultor jurídico.
+
+###### Artigo 10.º — Sucessão
+
+A SG sucede nas atribuições de apoio técnico-jurídico e contencioso da Biblioteca Nacional, do Gabinete de Relações Culturais Internacionais, do Gabinete do Direito de Autor, do Instituto Português de Museus, do Instituto Português de Conservação e Restauro, do Centro Português de Fotografia, do Instituto do Cinema, Audiovisual e Multimédia, da Cinemateca Portuguesa - Museu do Cinema, do Instituto Português do Livro e das Bibliotecas, do Instituto dos Arquivos Nacionais - Torre do Tombo e do Instituto das Artes.
+
+###### Artigo 11.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 210/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1999-308516), de 11 de Junho.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Vieira de Carvalho.
+
+Promulgado em 22 de Março de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 23 de Março de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## ANEXO — (quadro a que se refere o artigo 8.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06300/19041907.pdf)

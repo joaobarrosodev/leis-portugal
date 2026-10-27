@@ -1,0 +1,212 @@
+---
+schema_version: '1.0'
+id: pt:dre:386590:por
+title: Decreto-Lei n.º 198/84
+short_title: null
+summary: Altera alguns artigos do Decreto-Lei n.º 47947, de 18 de Setembro de 1967 (regula o exercício da pesca por embarcações
+  estrangeiras nas zonas de alto mar adjacentes a cada uma das parcelas do território nacional - Revoga a Lei n.º 1514 e o
+  Decreto n.º 27560)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Defesa Nacional, da Justiça e do Mar
+proposing_entity: null
+official_number: 198/84
+official_date: null
+publication_date: '1984-06-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 137/1984, Série I de 1984-06-14
+  number: '137'
+  series: I
+  supplement: null
+  pages: 1865 - 1866
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/06/13700/18651866.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '386590'
+  dre_path: /dr/detalhe/decreto-lei/198-1984-386590
+  internal: pt:dre:386590:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1984-386590
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1984-386590
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:57:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b132d6582cef0e12350a040f2540e024f052cbe6d5946eedbb98370c15cf92fe
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:57:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embarcação Estrangeira
+- Mar Territorial
+- Pesca
+- Zona Económica Exclusiva
+relationships:
+- type: amended_by
+  target: pt:dre:382384:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:382384:por
+  label: "Dada nova redacção ao nº 3 do art. 4º, pelo DEC LEI.270/84.1984.08.06.MDN DR.IS [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1984-382384
+  date: '1984-08-06'
+- type: cites
+  target: pt:dre:252870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:460808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:660279:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:57:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 198/84
+
+de 14 de Junho
+
+A [Lei n.º 33/77](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), de 28 de Maio, fixou a largura do mar territorial português e estabeleceu os limites de uma zona económica exclusiva, na qual o Estado Português exerce competência exclusiva em matéria de conservação e gestão dos recursos vivos.
+
+Até à entrada em vigor dos diplomas que prevejam a responsabilidade civil e as sanções em que incorram as pessoas singulares e colectivas nacionais e estrangeiras que violarem o disposto na referida lei, continuarão a aplicar-se às infracções cometidas por embarcações estrangeiras na zona económica exclusiva as penalidades previstas no Decreto-Lei n.º 49947, de 18 de Setembro de 1967, para as águas jurisdicionais de pesca.
+
+Contudo, a aplicação do referido decreto-lei tem revelado actualmente insuficiências, apresentando também, em relação a legislação similar de outros países europeus, disposições substancialmente ultrapassadas, situação que urge colmatar.
+
+Assim:
+
+Considerando a necessidade de adequação do Decreto-Lei n.º 49947 ao regime das contra-ordenações marítimas, estabelecido pelo [Decreto-Lei n.º 19/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1984-660279), de 14 de Janeiro;
+
+Considerando a conveniência de o mesmo passar expressamente a consagrar penalidades para as embarcações estrangeiras que pescam sem dispor de qualquer licença;
+
+Considerando ainda a necessidade de actualização da tabela prevista para aplicação das multas:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 2.º, 3.º, 4.º, 5.º, 6.º, 8.º e 9.º do [Decreto-Lei n.º 47947](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47947-1967-391049), de 18 de Setembro de 1967, com as alterações introduzidas pelos Decretos-Leis n.os [377/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1980-460808), de 12 de Setembro, e [225/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1981-579739), de 17 de Julho, passam a ter a seguinte redacção:
+
+Art. 2.º - 1 - É proibido às embarcações estrangeiras pescar, estar em preparativos de pesca ou cometer actos prejudiciais ao exercício da pesca e à conservação de espécies nas águas jurisdicionais de pesca.
+
+2 - São considerados preparativos de pesca, para os efeitos deste decreto-lei, fundear, amarrar, estacionar ou pairar nos locais de pesca, quando não tenha sido motivado por caso de força maior, como avarias, mau tempo, fortes correntes ou outra causa independente da vontade do capitão, mestre, patrão ou arrais da embarcação.
+
+3 - São considerados actos prejudiciais ao exercício da pesca, para os efeitos deste decreto-lei, bater águas, empregar quaisquer outras processos de afugentar o peixe ou usar qualquer manobra ou meio com intenção manifesta de prejudicar o exercício da pesca.
+
+4 - São considerados actos prejudiciais à conservação de espécies, para os efeitos deste decreto-lei, manter a bordo, desembarcar, vender, expor ou oferecer para venda, inteiros ou não, espécimes protegidos.
+
+Art. 3.º - 1 - A proibição estabelecida no artigo 2.º não impede o Estado Português, nos termos de convenções e outros acordos internacionais ou com base em títulos históricos por si aceites, de conceder a embarcações estrangeiras o direito de pescar permanentemente ou em período de tempo negociado em todas ou em parte das águas jurisdicionais de pesca.
+
+2 - Compete ao Ministro do Mar determinar, por despacho, quais as embarcações estrangeiras que estão autorizadas a pescar nas águas jurisdicionais de pesca, fixando, segundo as circunstâncias, as áreas e os sistemas e artes de pesca utilizáveis, as espécies ou grupos de espécies de pesca capturáveis, os contingentes de pesca e os períodos de tempo em que aquelas embarcações podem exercer a sua actividade, competindo-lhe ainda alterar ou revogar a autorização concedida.
+
+3 - As embarcações estrangeiras autorizadas a pescar nas águas jurisdicionais de pesca devem respeitar a regulamentação aplicável às embarcações nacionais que exerçam a mesma pesca nas mesmas águas.
+
+Art. 4.º - 1 - Qualquer embarcação estrangeira que for encontrada dentro das águas jurisdicionais de pesca a pescar, ou em preparativos de pesca, numa área, uma espécie, ou com um sistema de pesca para que não esteja legalmente autorizada, ou a prejudicar o exercício da pesca ou a conservação de espécies, ou que não tenha dado cumprimento às outras condições estipuladas na licença de pesca será retida com todos os respectivos apetrechos, pertences, redes, artes, aparelhos e embarcações auxiliares e com o pescado nela existente, sendo a embarcação e tudo nela retido entregues pela autoridade que efectuar a retenção na capitania do primeiro porto em que entrar em seguida à retenção.
+
+2 - O proprietário, armador, capitão, mestre, patrão ou arrais da embarcação autorizada a pescar em águas jurisdicionais de pesca e retida nas condições previstas no número anterior incorre na perda a favor do Estado de todos os instrumentos de pesca utilizados e não autorizados e de todo o pescado existente a bordo, na anulação da licença de pesca outorgada e numa coima, a graduar conforme as circunstâncias e de acordo com a arqueação bruta da embarcação:
+
+a) Até 20 tAB, 300000$00 a 2000000$00;
+
+b) De 21 a 100 tAB, 1000000$00 a 4000000$00;
+
+c) De 101 a 500 tAB, 2000000$00 a 8000000$00;
+
+d) De 501 a 1000 tAB, 5600000$00 a 16000000$00;
+
+e) Acima de 1000 tAB, 11200000$00 até ao valor calculado da embarcação, seus instrumentos e apetrechos.
+
+3 - Se a embarcação retida nas condições previstas n.º 1 não estiver autorizada a pescar em águas jurisdicionais de pesca, o seu proprietário, armador, capitão, mestre, patrão ou arrais incorre na perda a favor do Estado de todos os instrumentos de pesca, de todo o pescado existente a bordo e de uma coima, a graduar conforme as circunstâncias, de 3500000$00 até ao valor calculado da embarcação, seus instrumentos e apetrechos.
+
+Art. 5.º - 1 - A embarcação estrangeira que haja sofrido qualquer sanção nos termos do artigo 4.º incorre no impedimento até 2 anos da obtenção de licença de pesca em Portugal.
+
+2 - Os limites máximo e mínimo das coimas previstos no artigo 4.º serão elevados para o dobro quando a contra-ordenação se verificar dentro do mar territorial.
+
+3 - Os limites máximo e mínimo das coimas previstos no artigo 4.º serão elevados para o triplo no caso de utilização na pesca de explosivos ou substâncias nocivas.
+
+Art. 6.º - 1 - O pessoal de equipagem da embarcação que desobedecer ou resistir à acção de fiscalização é responsável criminal e civilmente por tais actos, nos termos da lei geral, sendo retida a embarcação.
+
+2 - Neste caso, o proprietário, armador, capitão, mestre, patrão ou arrais da embarcação fica ainda sujeito ao pagamento das despesas que a fiscalização tiver feito por motivo dos actos de desobediência ou resistência.
+
+3 - A cobrança das despesas referidas no número anterior, que serão discriminadas pelo agente que efectuou a retenção, será feita conjuntamente com a das coimas.
+
+Art. 8.º - 1 - O capitão do porto onde foi entregue a embarcação poderá tomar imediatamente as seguintes medidas cautelares:
+
+a) Ordenar a apreensão da embarcação, com todos os respectivos apetrechos, pertences, redes, artes, aparelhos, embarcações auxiliares e com o pescado nela existente;
+
+b) Ordenar a venda em hasta pública do pescado existente na embarcação que julgue susceptível de se deteriorar, mandando depositar à sua ordem, num dos estabelecimentos referidos no artigo 21.º, o produto da venda;
+
+c) Avisar da ocorrência o agente consular do Estado cuja bandeira a embarcação arvora.
+
+2 - Às contra-ordenações previstas neste diploma e em tudo quanto nele se não encontre especialmente regulado são aplicáveis as disposições dos Decretos-Leis n.os [433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, e [19/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1984-660279), de 14 de Janeiro.
+
+Art. 9.º - 1 - A embarcação retida e todo o material retido com ela, à excepção do pescado, respondem pelo integral pagamento da coima ou coimas e despesas, custas e selos devidos.
+
+2 - Enquanto a embarcação se conservar retida é permitido ao seu proprietário beneficiá-la, bem como o material retido com ela, sob a vigilância da autoridade marítima, não sendo, todavia, esta jamais responsável pelos prejuízos que da falta de conveniente beneficiação possam resultar.
+
+Art. 2.º São revogados os artigos 10.º, 11.º, 12.º, 13.º, 15.º, 16.º, 17.º e 18.º do [Decreto-Lei n.º 47947](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47947-1967-391049), de 18 de Setembro de 1967, com as alterações introduzidas pelo [Decreto-Lei n.º 377/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1980-460808), de 12 de Setembro.
+
+Visto e aprovado em Conselho de Ministros de 10 de Maio de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Carlos Montez Melancia.
+
+Promulgado em 4 de Junho de 1984.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 6 de Junho de 1984.
+
+O Primeiro-Ministro, Mário Soares.

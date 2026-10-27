@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:469233:por
+title: Decreto n.º 45530
+short_title: null
+summary: Transfere para os anos de 1964 e 1965 o saldo apurado em 1963 correspondente aos trabalhos não realizados incluídos
+  na execução do estudo da aplicação de novas técnicas de organização dos serviços financeiros, contabilísticos e administrativos
+  da Administração-Geral do Porto de Lisboa, cujo contrato foi autorizado pelo Decreto n.º 43815
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Comunicações - Administração-Geral do Porto de Lisboa
+proposing_entity: null
+official_number: '45530'
+official_date: null
+publication_date: '1964-01-15'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 12/1964, Série I de 1964-01-15
+  number: '12'
+  series: I
+  supplement: null
+  pages: 44 - 44
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/01/01200/00440044.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '469233'
+  dre_path: /dr/detalhe/decreto/45530-1964-469233
+  internal: pt:dre:469233:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45530-1964-469233
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45530-1964-469233
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:39:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a8962d2d8163f2e33abecf4ddd618f5497403315ae8bf3c7f93df675d60ed4cc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:39:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:172721:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:39:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45530
+
+Considerando que, por demora na apreciação do projecto definitivo do estudo da aplicação de novas técnicas de organização nos serviços financeiros, contabilísticos e administrativos da Administração-Geral do Porto de Lisboa, adjudicado ao Gabinete de Estudos Técnicos de Organização - Orgatec, de Lisboa, não foi ainda possível passar à fase de execução do referido projecto definitivo, previsto no respectivo contrato, autorizado pelo [Decreto n.º 43815](https://diariodarepublica.pt/dr/detalhe/decreto/43815-1961-172721), de 22 de Julho de 1961;
+
+Considerando que, por tal facto, se torna necessário transferir para os anos de 1964 e de 1965 parte dos encargos que no mesmo diploma haviam sido previstos, correspondentes aos trabalhos por executar, na importância de 110000$00;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo único. O saldo de 110000$00 apurado em 1963 e correspondente aos trabalhos ainda não realizados pelo Gabinete de Estudos Técnicos de Organização - Orgatec e incluídos na execução do estudo cujo contrato foi autorizado pelo [Decreto n.º 43815](https://diariodarepublica.pt/dr/detalhe/decreto/43815-1961-172721), de 22 de Julho de 1961, reverte para os anos de 1964 e 1965. A Administração-Geral do Porto de Lisboa é autorizada a liquidar no ano de 1964 a quantia de 90000$00 e em 1965 a importância de 20000$00 ou o que se apurar como saldo.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 15 de Janeiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.

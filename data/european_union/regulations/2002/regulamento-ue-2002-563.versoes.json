@@ -1,0 +1,79 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32002R0563:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02002R0563-20070301",
+ "dre_path": null,
+ "source_lastmod": "2007-03-01",
+ "versions": [
+  {
+   "date": "2002-04-03",
+   "future": false,
+   "celex": "32002R0563",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "19c12b0a057b6528",
+    "c24a5c89475fcc53",
+    "897f0ce347f7dab6",
+    "939699554a685789"
+   ]
+  },
+  {
+   "date": "2007-03-01",
+   "future": false,
+   "celex": "02002R0563-20070301",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime ANEXO"
+   ],
+   "fragments": [
+    "4be64b66a3650151"
+   ]
+  }
+ ],
+ "fragments": {
+  "19c12b0a057b6528": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n.° 563/2002 da Comissão, de 2 de Abril de 2002, que altera o Regulamento (CE) n.° 466/2001 que fixa os teores máximos de certos contaminantes presentes nos géneros alimentícios** *Jornal Oficial nº L 086 de 03/04/2002 p. 0005 - 0006*\n\nRegulamento (CE) n.o 563/2002 da Comissão\n\nde 2 de Abril de 2002\n\nque altera o Regulamento (CE) n.o 466/2001 que fixa os teores máximos de certos contaminantes presentes nos géneros alimentícios\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CEE) n.o 315/93 do Conselho, de 8 de Fevereiro de 1993, que estabelece procedimentos comunitários para os contaminantes presentes nos géneros alimentícios(1) e, nomeadamente, o n.o 3 do seu artigo 2.o,\n\nConsiderando o seguinte:\n\n(1) O Regulamento (CEE) n.o 315/93 prevê que, a fim de proteger a saúde pública, devem ser fixados teores máximos para certos contaminantes presentes nos géneros alimentícios.\n\n(2) O Regulamento (CE) n.o 466/2001 da Comissão(2), com a última redacção que lhe foi dada pelo Regulamento (CE) n.o 472/2002(3), é aplicável a partir de 5 de Abril de 2002 e substitui o Regulamento (CE) n.o 194/97, de 31 de Janeiro de 1997, que fixa os teores máximos de certos contaminantes presentes nos géneros alimentícios(4), alterado nomeadamente, pelo Regulamento (CE) n.o 864/1999(5), estabelecendo teores máximos de nitratos em alface e espinafres.\n\n(3) Os Estados-Membros deverão comunicar à Comissão os resultados do controlo efectuado e informarão das medidas tomadas e dos progressos alcançados na aplicação de códigos de boas práticas agrícolas destinados a reduzir os teores de nitratos. Utilizando esta informação, a Comissão deverá proceder de três em três anos e, pela primeira vez, antes de 1 de Janeiro de 2002, a uma revisão dos teores máximos de nitratos em alface e espinafres, com o objectivo geral de reduzir os referidos teores.\n\n(4) Os dados do controlo anual dos Estados-Membros revelam reduções nos teores de nitratos em alface. São razoavelmente alcançados teores máximos mais baixos para determinadas categorias de alface através de boas práticas de produção. Em determinadas regiões verificam-se teores de nitratos frequentemente mais elevados do que os definidos no anexo do Regulamento (CE) n.o 466/2001, apesar de a tendência geral revelar que os teores de nitratos em alface estão a diminuir. Os teores de nitratos em espinafres não denotam uma clara tendência para a redução. Alguns Estados-Membros necessitam de manter o período de transição definido para autorizar a colocação no mercado interno de alface e/ou espinafres cultivados e destinados ao consumo no respectivo território. Para a alface este período de transição deverá ser limitado mas para os espinafres não está ainda prevista uma data para o fim do referido período.\n\n(5) O Regulamento (CE) n.o 466/2001 deve ser alterado em conformidade.\n\n(6) As medidas previstas no presente regulamento estão em conformidade com o parecer emitido pelo Comité Permanente da Cadeia Alimentar e da Saúde Animal,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "c24a5c89475fcc53": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Regulamento (CE) n.o 466/2001 é alterado da seguinte forma:\n\n1. O n.o 1 do artigo 3.o é substituído pelo seguinte: \"1. Os Estados-Membros podem, em casos justificados, autorizar, durante um período transitório, a colocação no mercado de alfaces e espinafres frescos, produzidos e destinados a serem consumidos no seu território, que contenham teores de nitratos mais elevados do que os teores máximos fixados nos pontos 1.1, 1.3 e 1.4 do anexo I, desde que sejam aplicados códigos de boas práticas para respeitar progressivamente os teores fixados no presente regulamento.\n\nO período de transição:\n\na) No que se refere às alfaces, terminará em 1 de Janeiro de 2005;\n\nb) No que se refere aos espinafres, será revisto o mais tardar até 1 de Janeiro de 2005.\n\nOs Estados-Membros informarão anualmente os outros Estados-Membros e a Comissão da aplicação dada ao primeiro parágrafo.\".\n\n2. O anexo I é substituído pelo texto constante no anexo do presente regulamento."
+  },
+  "897f0ce347f7dab6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 2 de Abril de 2002.\n\nPela Comissão\n\nDavid Byrne\n\nMembro da Comissão\n\n(1) JO L 37 de 13.2.1993, p. 1.\n\n(2) JO L 77 de 16.3.2001, p. 1.\n\n(3) JO L 75 de 16.3.2002, p. 18.\n\n(4) JO L 31 de 1.2.1997, p. 48.\n\n(5) JO L 108 de 27.4.1999, p. 16."
+  },
+  "939699554a685789": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nA secção 1 do anexo I do Regulamento (CE) n.o 466/2001, referente aos nitratos, passa a ter a seguinte redacção:\n\n>POSIÇÃO NUMA TABELA>\n\n(1) Os teores máximos fixados para os espinafres frescos não se aplicam aos espinafres frescos destinados a transformação e transportados a granel directamente da exploração agrícola para a unidade transformadora.\n\n(2) JO L 207 de 15.8.1979, p. 26.\n\n(3) Na ausência de rotulagem adequada indicadora do método de produção, aplica-se o teor fixado para a alface de campo.\n\n(4) Descritas no Regulamento (CE) n.o 1543/2001 da Comissão, de 27 de Julho de 2001, que estabelece a norma de comercialização aplicável às alfaces, às chicórias frisadas e às escarolas (JO L 203 de 28.7.2001, p. 9.)."
+  },
+  "4be64b66a3650151": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 2002R0563 — PT — 01.03.2007 — 001.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/32002R0563) [REGULAMENTO (CE) N.º 563/2002 DA COMISSÃO](http://publications.europa.eu/resource/celex/32002R0563) [de 2 de Abril de 2002](http://publications.europa.eu/resource/celex/32002R0563) [que altera o Regulamento (CE) n.º 466/2001 que fixa os teores máximos de certos contaminantes presentes nos géneros alimentícios](http://publications.europa.eu/resource/celex/32002R0563) (JO L 086, 3.4.2002, p.5)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1881/2006 da Comissão de 19 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006R1881) — L 364 — 5 — 20.12.2006"
+  }
+ }
+}

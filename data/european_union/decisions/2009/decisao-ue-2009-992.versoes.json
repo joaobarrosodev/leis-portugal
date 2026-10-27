@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009D0992:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0992-20240306",
+ "dre_path": null,
+ "source_lastmod": "2024-03-06",
+ "versions": [
+  {
+   "date": "2009-12-22",
+   "future": false,
+   "celex": "32009D0992",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e5e782893f80808f",
+    "aaf11f746e43b62f",
+    "6eb65347becbca6e",
+    "fdbb558229bba499"
+   ]
+  },
+  {
+   "date": "2024-03-06",
+   "future": false,
+   "celex": "02009D0992-20240306",
+   "acts": [
+    {
+     "id": "eu:celex:32024D0773:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2024/773 DA COMISSÃO de 4 de março de 2024",
+     "published": null,
+     "celex": "32024D0773"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Adita ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "c6e7c114d23be676",
+    "aaf11f746e43b62f",
+    "b9f7524ce6b1f522",
+    "fe29a95765c42ff5"
+   ]
+  }
+ ],
+ "fragments": {
+  "e5e782893f80808f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Dezembro de 2009\n\nsobre os requisitos mínimos relativos aos dados a incluir no registo electrónico nacional das empresas de transporte rodoviário\n\n[notificada com o número C(2009) 9959]\n\n(Texto relevante para efeitos do EEE)\n\n(2009/992/UE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1071/2009 do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009, que estabelece regras comuns no que se refere aos requisitos para o exercício da actividade de transportador rodoviário e que revoga a Directiva 96/26/CE do Conselho [([^1])](http://publications.europa.eu/resource/cellar/c48debf7-c3fd-4b36-8119-c8d9889b2b52.0018.02/DOC_1#ntr1-L_2009339PT.01003601-E0001), e, nomeadamente, o seu artigo 16.º,\n\nConsiderando o seguinte:\n\n(1) O artigo 16.º, n.º 1.º, do Regulamento (CE) n.º 1071/2009 exige que cada Estado-Membro conserve um registo electrónico nacional das empresas de transporte rodoviário autorizadas, por uma autoridade competente por ele designada, a exercer a actividade de transportador rodoviário. Os registos electrónicos nacionais devem conter, pelo menos, os elementos enumerados no artigo 16.º, n.º 2, do regulamento. Outros elementos, como a data e o local de nascimento das pessoas singulares, devem também ser incluídos de modo a garantir a identificação correcta dos indivíduos em causa.\n\n(2) O Regulamento (CE) n.º 1072/2009 do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009, que estabelece regras comuns para o acesso ao mercado do transporte internacional rodoviário de mercadorias [([^2])](http://publications.europa.eu/resource/cellar/c48debf7-c3fd-4b36-8119-c8d9889b2b52.0018.02/DOC_1#ntr2-L_2009339PT.01003601-E0002), e o Regulamento (CE) n.º 1073/2009 do Parlamento Europeu e do Conselho, de 21 de Outubro de 2009, que estabelece regras comuns para o acesso ao mercado internacional dos serviços de transporte em autocarro [([^3])](http://publications.europa.eu/resource/cellar/c48debf7-c3fd-4b36-8119-c8d9889b2b52.0018.02/DOC_1#ntr3-L_2009339PT.01003601-E0003), também exigem a inclusão de certos dados nestes registos electrónicos nacionais.\n\n(3) As disposições sobre protecção de dados pessoais, estabelecidas, nomeadamente, pela Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados [([^4])](http://publications.europa.eu/resource/cellar/c48debf7-c3fd-4b36-8119-c8d9889b2b52.0018.02/DOC_1#ntr4-L_2009339PT.01003601-E0004), aplicam-se ao tratamento de quaisquer dados pessoais nos termos do Regulamento (CE) n.º 1071/2009.\n\n(4) Para facilitar a interligação dos registos electrónicos nacionais, como previsto pelo artigo 16.º, n.º 5, do Regulamento (CE) n.º 1071/2009, a Comissão tem que adoptar, em conformidade com o artigo 16.º, n.º 1, do presente regulamento, uma decisão sobre os requisitos mínimos relativos aos dados a incluir no registo electrónico nacional,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "aaf11f746e43b62f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs requisitos mínimos relativos aos dados a incluir nos registos electrónicos nacionais criados pelos Estados-Membros em conformidade com o artigo 16.º, n.º 1, do Regulamento (CE) n.º 1071/2009 são os enunciados no anexo da presente decisão."
+  },
+  "6eb65347becbca6e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 17 de Dezembro de 2009.\n\n***Pela Comissão***\n\n**Antonio TAJANI**\n\n***Vice-Presidente***\n\n---"
+  },
+  "fdbb558229bba499": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/c48debf7-c3fd-4b36-8119-c8d9889b2b52.0018.02/DOC_1#ntc1-L_2009339PT.01003601-E0001) [JO L 300 de 14.11.2009, p. 51](http://publications.europa.eu/resource/oj/JOL_2009_300_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/c48debf7-c3fd-4b36-8119-c8d9889b2b52.0018.02/DOC_1#ntc2-L_2009339PT.01003601-E0002) [JO L 300 de 14.11.2009, p. 72](http://publications.europa.eu/resource/oj/JOL_2009_300_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/c48debf7-c3fd-4b36-8119-c8d9889b2b52.0018.02/DOC_1#ntc3-L_2009339PT.01003601-E0003) [JO L 300 de 14.11.2009, p. 88](http://publications.europa.eu/resource/oj/JOL_2009_300_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/c48debf7-c3fd-4b36-8119-c8d9889b2b52.0018.02/DOC_1#ntc4-L_2009339PT.01003601-E0004) [JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC)."
+  },
+  "c6e7c114d23be676": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Dezembro de 2009\n\nsobre os requisitos mínimos relativos aos dados a incluir no registo electrónico nacional das empresas de transporte rodoviário\n\n[notificada com o número C(2009) 9959]\n\n(Texto relevante para efeitos do EEE)\n\n(2009/992/UE)"
+  },
+  "b9f7524ce6b1f522": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros são os destinatários da presente decisão."
+  },
+  "fe29a95765c42ff5": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\n| Categoria de dados | Dado concreto | Descrição suplementar do campo de dados | Comprimento |\n| --- | --- | --- | --- |\n| Empresa de transporte | Nome | Campo de texto livre alfanumérico | 1 -100 |\n| Forma jurídica | Campo de texto livre alfanumérico | 1 -50 |  |\n| Número de pessoas empregadas | Campo de texto livre em caracteres numéricos | 1 -7 |  |\n| Notação de risco | Campo de texto livre em caracteres numéricos | 1 -5 |  |\n| Escala de notação de risco | Declaração de: — «Cinzento» — «Verde» — «Âmbar» — «Vermelho» |  |  |\n| Número total de veículos geridos | Campo de texto livre em caracteres numéricos | 1 -6 |  |\n| Endereço | Endereço | Campo de texto livre alfanumérico | 1 -150 |\n| Código postal | Campo de texto livre alfanumérico | 1 -10 |  |\n| Localidade | Campo de texto livre alfanumérico | 1 -50 |  |\n| Código do país | Código de país de duas letras segundo a norma ISO 3166-1 alfa 2 | 2 |  |\n| Autorização | Tipo | Declaração de: — «Licença comunitária para transporte de passageiros» — «Licença nacional para transporte de passageiros» ou: — «Licença comunitária para transporte de mercadorias» — «Licença comunitária para transporte de mercadorias, exclusivamente ≤3.5 t» — «Licença nacional para transporte de mercadorias» |  |\n| Número de série da licença comunitária [(^1^)](http://publications.europa.eu/resource/cellar/af40de41-eb7c-11ee-8e14-01aa75ed71a1.0019.02/DOC_1#E0001) | Campo de texto livre alfanumérico | 1 -20 |  |\n| Data de início da validade da licença comunitária | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Data de termo da validade da licença comunitária | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Número de veículos geridos ao abrigo da autorização | Campo de texto livre em caracteres numéricos | 1 -6 |  |\n| Número de matrícula do veículo | Campo de texto livre alfanumérico | 1 -15 |  |\n| Situação da autorização | Declaração de: — «Ativa» — «Suspensa» — «Retirada» — «Caducada» — «Perdida/roubada» — «Anulada» — «Devolvida» |  |  |\n| Data da retirada da licença comunitária | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Data da suspensão da licença comunitária | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Data de caducidade da suspensão da licença comunitária | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Motivo da suspensão ou da retirada da licença comunitária | Declaração de: — «Estabelecimento não efetivo nem estável» — «Situação financeira deficiente» — «Falta de competência profissional» — «Má reputação» — «Outro» |  |  |\n| Número de série da cópia autenticada da licença comunitária [(^2^)](http://publications.europa.eu/resource/cellar/af40de41-eb7c-11ee-8e14-01aa75ed71a1.0019.02/DOC_1#E0002) | Campo de texto livre alfanumérico | 1 -20 |  |\n| Data de início da validade da cópia autenticada | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Data de caducidade da cópia autenticada | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Data da retirada da cópia autenticada | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Data da suspensão da cópia autenticada | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Data de caducidade da suspensão da cópia autenticada | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Representante legal da empresa (se for caso disso) [(^3^)](http://publications.europa.eu/resource/cellar/af40de41-eb7c-11ee-8e14-01aa75ed71a1.0019.02/DOC_1#E0003) | Nome próprio | Campo de texto livre alfanumérico | 1 -100 |\n| Apelido(s) | Campo de texto livre alfanumérico | 1 -100 |  |\n| Data de nascimento | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Local de nascimento | Campo de texto livre alfanumérico | 1 -50 |  |\n| Gestor de transportes | Nome próprio | Campo de texto livre alfanumérico | 1 -100 |\n| Apelido(s) | Campo de texto livre alfanumérico | 1 -100 |  |\n| Data de nascimento | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Local de nascimento | Texto livre em caracteres alfabéticos | 1 -50 |  |\n| Número do certificado de capacidade profissional | Campo de texto livre alfanumérico | 1 -20 |  |\n| Data de emissão do certificado de capacidade profissional | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| País emitente do certificado de capacidade profissional | Código de país de duas letras segundo a norma ISO 3166-1 alfa 2 | 2 |  |\n| Validade do certificado de capacidade profissional. | Declaração de: — «Válido» — «Inválido» |  |  |\n| Infração grave | Categoria | Campo alfanumérico utilizando valores codificados |  |\n| Tipo | Campo alfanumérico utilizando valores codificados |  |  |\n| Data da infração | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Data do controlo em que foi detetada a infração | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Estado-Membro em que foi detetada a infração | Código de país de duas letras segundo a norma ISO 3166-1 alfa 2 | 2 |  |\n| Motivo pelo qual a perda da idoneidade é uma resposta desproporcionada [(^4^)](http://publications.europa.eu/resource/cellar/af40de41-eb7c-11ee-8e14-01aa75ed71a1.0019.02/DOC_1#E0004) | Campo de texto livre alfanumérico | 1 -500 |  |\n| Pessoa inapta | Nome próprio | Campo de texto livre alfanumérico | 1 -100 |\n| Apelido(s) | Campo de texto livre alfanumérico | 1 -100 |  |\n| Data de nascimento | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Local de nascimento | Texto livre em caracteres alfabéticos | 1 -50 |  |\n| Número do certificado de capacidade profissional | Campo de texto livre alfanumérico | 1 -20 |  |\n| Data de emissão do certificado de capacidade profissional | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| País emitente do certificado de capacidade profissional | Código de país de duas letras segundo a norma ISO 3166-1 alfa 2 | 2 |  |\n| Motivo da declaração da inaptidão | Declaração de: — «Infração das regras nacionais» ou — «Infração das regras comunitárias» |  |  |\n| Atual medida de reabilitação | Declaração de: — «Formação adequada de, pelo menos, três meses» ou — «Exame sobre as matérias listadas na parte I do anexo I do Regulamento (CE) n.º 1071/2009» |  |  |\n| Data de início da declaração de inaptidão | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| Data de termo da declaração de inaptidão | Dados numéricos segundo o formato ISO 8601 (AAAA-MM-DD) | 10 |  |\n| (^1^) Deve ser impresso, em qualquer documento destinado a ser conservado no interior do veículo, no mesmo formato que o inscrito no registo nacional. (^2^) Deve ser impresso, em qualquer documento destinado a ser conservado no interior do veículo, no mesmo formato que o inscrito no registo nacional. (^3^) Ver o artigo 16.º, n.º 2, alínea c), do Regulamento (CE) n.º 1071/2009. (^4^) Este campo não pode incluir outros dados pessoais que não os dados necessários sobre o gestor de transportes. |  |  |  |"
+  }
+ }
+}

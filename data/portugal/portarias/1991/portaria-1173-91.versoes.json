@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:316889:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1991-66837117",
+ "dre_path": "/dr/detalhe/portaria/1173-1991-316889",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-11-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66831217"
+   ]
+  }
+ ],
+ "fragments": {
+  "66831217": {
+   "fragment_id": "66837118",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1173/91\n\nde 18 de Novembro\n\nCom fundamento no disposto nos artigos 19.º da Lei n.º 30/86, de 27 de Agosto, e 81.º, n.º 1, do Decreto-Lei n.º 274-A/88, de 3 de Agosto;\n\nOuvido o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, que o n.º 1.º da Portaria n.º 251/91, de 26 de Março, passe a ter a seguinte redacção:\n\n1.º Ficam sujeitas ao regime cinegético especial as propriedades constantes da planta anexa, denominadas «Herdades do Outeiro e Vale Mouro», sitas na freguesia de Brotas, concelho de Mora, com uma área de 939,90 ha.\n\n> Nota: [Portaria n.º 1267/2010 - Diário da República n.º 241/2010, Série I de 2010-12-15](https://diariodarepublica.pt/dr/detalhe/portaria/1267-2010-306966) Renovada, por um período de doze anos, a zona de caça concessionada pela Portaria n.º 251/91, de 26 de março."
+  }
+ }
+}

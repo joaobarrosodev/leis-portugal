@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:185971760:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao/2022-186577837",
+ "dre_path": "/dr/detalhe/declaracao/11-2022-185971760",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-07-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "186759787"
+   ]
+  }
+ ],
+ "fragments": {
+  "186759787": {
+   "fragment_id": "186577838",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Declaração n.º 11/2022\n\nSumário: Designação dos membros do Conselho dos Julgados de Paz.\n\nDesignação dos membros do Conselho dos Julgados de Paz\n\nDeclara-se, para efeitos do disposto nos n.os 1 e 2 do artigo 65.º da Lei n.º 78/2001, de 13 de julho, alterada pela Lei n.º 54/2013, de 31 de julho, que foram designados os seguintes membros para o Conselho dos Julgados de Paz:\n\nVítor Manuel Gonçalves Gomes, designado pelo Presidente da Assembleia da República, que preside;\n\nAntónio Ramos Preto, em representação do Grupo Parlamentar do Partido Socialista;\n\nMónica Cláudia de Castro Quintela, em representação do Grupo Parlamentar do Partido Social Democrata;\n\nAntónio Manuel Moreira Tânger Corrêa, em representação do Grupo Parlamentar do Chega;\n\nAndré Filipe Gonçalves Pereira Abrantes Amaral, em representação do Grupo Parlamentar da Iniciativa Liberal;\n\nLuís Manuel Ventura Corceiro Mendes, em representação do Grupo Parlamentar do Partido Comunista Português;\n\nLuís Filipe Garcia de Castro e Salgado, em representação do Grupo Parlamentar do Bloco de Esquerda;\n\nJoão Tiago Silveira, em representação do Ministério da Justiça;\n\nPedro dos Santos Gonçalves Antunes, em representação do Conselho Superior da Magistratura;\n\nRicardo Manuel da Silva Fernandes, em representação da Associação Nacional de Municípios Portugueses;\n\nSofia de Campos Coelho, em representação dos juízes de paz."
+  }
+ }
+}

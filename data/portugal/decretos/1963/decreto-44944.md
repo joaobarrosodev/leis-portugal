@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:195407:por
+title: Decreto n.º 44944
+short_title: null
+summary: Fixa os quadros do pessoal do Secretariado Técnico da Presidência do Conselho, sua forma de provimento e remuneração
+  e insere disposições relativas à orgânica e funcionamento do mesmo serviço - Estabelece a forma de remuneração dos vogais
+  e dos membros dos grupos de trabalho da Comissão Interministerial de Planeamento e Integração Económica e, ainda, a forma
+  de cobertura dos encargos com o funcionamento da Comissão Consultiva de Política Económica - Extingue a Inspecção Superior
+  do Plano de Fomento e abate vários lugares aos quadros da Secretaria-Geral da Presidência do Conselho
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho - Secretaria-Geral
+proposing_entity: null
+official_number: '44944'
+official_date: null
+publication_date: '1963-03-29'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 75/1963, Série I de 1963-03-29
+  number: '75'
+  series: I
+  supplement: null
+  pages: 307 - 309
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/03/07500/03070309.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '195407'
+  dre_path: /dr/detalhe/decreto/44944-1963-195407
+  internal: pt:dre:195407:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44944-1963-195407
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44944-1963-195407
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:34:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ea7c1163b9e33e6ed1ea4a35cf7613d9d7bbbf6db292c4f08841212ace6bf785
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:34:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajudas de Custo
+- Comissão Consultiva de Política Económica
+- Comissão Interministerial de Planeamento e Integração Económica
+- Conselho de Ministros para os Assuntos Económicos
+- Despesas de Deslocação
+- Diretor Geral
+- Extinção de Serviços
+- Gratificação
+- Inspecção Superior do Plano de Fomento
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Remuneração
+- Secretariado Técnico da Presidência do Conselho
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:486875:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:694007:por
+  label: "Alterado o quadro de pessoal anexo ao presente diploma, e alterado o art. 8.º e o seu parágrago 2.º pelo DEC.45209.1963.08.23.PC\
+    \ DG.IS [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/45209-1963-694007
+  date: '1963-08-23'
+- type: cites
+  target: pt:dre:251639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682375:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:486875:por
+  label: "Revogado pelo DEC.46910.1966.03.19.PC DG.IS [66]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/46910-1966-486875
+  date: '1966-03-19'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:34:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44944
+
+O [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, que criou o Conselho de Ministros para os Assuntos Económicos, previu também, nos seus artigos 25.º e 40.º, a criação na Presidência do Conselho da Comissão Consultiva de Política Económica, do Secretariado Técnico da Presidência do Conselho e da Comissão Interministerial de Planeamento e Integração Económica, cujas atribuições e estrutura foram definidas, nas suas linhas gerais, no capítulo VIII, referente às disposições orgânicas daquele decreto-lei.
+
+Nos termos do artigo 52.º do mesmo diploma legal, os quadros do pessoal do Secretariado Técnico da Presidência do Conselho, sua forma de provimento e remuneração e outras disposições relativas à orgânica e funcionamento deste serviço, a forma de remuneração dos vogais e dos membros dos grupos de trabalho da Comissão Interministerial de Planeamento e Integração Económica e, ainda, a forma de cobertura dos encargos com o funcionamento da Comissão Consultiva de Política Económica deverão ser fixados em diploma regulamentar referendado pelo Presidente do Conselho e pelo Ministro das Finanças.
+
+Nestes termos, tendo em vista o disposto no citado artigo 52.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º O Secretariado Técnico da Presidência do Conselho disporá do pessoal dirigente, técnico e administrativo constante do quadro anexo a este decreto, o qual será distribuído pelos serviços por despacho do director-geral.
+
+Art. 2.º Os lugares de director-geral e de directores de serviços do Secretariado Técnico serão providos por nomeação, mediante livre escolha do Presidente do Conselho, em indivíduos de reconhecida competência, diplomados com um curso superior.
+
+§ único. O director-geral do Secretariado Técnico despachará com o Presidente do Conselho e deverá manter com os gabinetes dos Ministros membros do Conselho de Ministros para os Assuntos Económicos os contactos convenientes à pronta preparação e execução das deliberações do mesmo Conselho.
+
+Art. 3.º Os lugares de técnico de 3.ª classe serão providos, sob proposta fundamentada do director-geral do Secretariado Técnico, pelo Presidente do Conselho, entre diplomados com o curso superior adequado ao exercício das funções a que se destinam.
+
+§ 1.º Os lugares de técnicos de 1.ª e de 2.ª classes serão providos, também mediante proposta fundamentada do director-geral do Secretariado Técnico, por escolha do Presidente do Conselho, entre, respectivamente, os técnicos de 2.ª classe e os técnicos de 3.ª classe que tiverem revelado na sua carreira melhores aptidões, zelo e assiduidade.
+
+§ 2.º As primeiras nomeações serão de livre escolha do Presidente do Conselho, entre diplomados com o curso superior adequado.
+
+Art. 4.º Os lugares de técnico auxiliar serão providos em diplomados com os cursos dos institutos industriais e comerciais, com a classificação de Bom ou Superior, nas condições fixadas no artigo anterior.
+
+Art. 5.º A secretaria será dirigida por um chefe de secretaria, sendo este cargo provido, por livre nomeação do Presidente do Conselho, entre indivíduos diplomados com o curso superior adequado.
+
+Art. 6.º As nomeações para os cargos a que se referem os artigos 2.º, 3.º e seus parágrafos, 4.º e 5.º do presente diploma serão feitas provisòriamente ou em comissão de serviço, por períodos de três anos renováveis. Em qualquer caso, o provimento poderá ser convertido em definitivo ao fim de três anos de bom e efectivo serviço.
+
+§ único. No caso do provimento recair em indivíduos que já sejam funcionários públicos, os respectivos lugares poderão ser interinamente preenchidos pelo tempo que durar a comissão.
+
+Art. 7.º O pessoal administrativo do Secretariado Técnico da Presidência do Conselho considera-se integrado no quadro único a que se referem, quanto ao pessoal superior, o artigo 14.º do [Decreto-Lei n.º 42593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42593-1959-440476), de 19 de Outubro de 1959, e, quanto ao pessoal menor, o artigo 16.º do [Decreto-Lei n.º 39889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39889-1954-682375), de 5 de Novembro de 1954, ficando sujeito ao regime legal respectivo.
+
+Art. 8.º Para ocorrer a necessidades eventuais ou extraordinárias dos serviços poderá o director-geral do Secretariado Técnico propor ao Presidente do Conselho, para além do quadro do pessoal técnico a que se refere o artigo 1.º, a admissão de pessoal da mesma natureza requisitado aos Ministérios.
+
+§ 1.º O número de requisitados não poderá ser superior a seis.
+
+§ 2.º As requisições de funcionários aos Ministérios obedecerão ao regime do [Decreto-Lei n.º 39222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39222-1953-643880), de 26 de Maio de 1953, com a alteração introduzida pelo artigo 17.º do [Decreto-Lei n.º 42593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42593-1959-440476), de 19 de Outubro de 1959.
+
+§ 3.º Os requisitados perceberão mensalmente uma gratificação de montante a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças, a qual será paga de conta da verba por onde serão liquidados os seus vencimentos, na hipótese prevista no § 3.º do artigo 2.º do [Decreto-Lei n.º 39222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39222-1953-643880), de 26 de Maio de 1953.
+
+Art. 9.º Com vista à realização de estudos especializados considerados necessários para o bom desempenho das atribuições do Secretariado Técnico da Presidência do Conselho poderá o director-geral propor ao Presidente do Conselho o convite a personalidades de reconhecido mérito, nacionais ou estrangeiras, para levarem a cabo, individualmente ou em comissões, estudos, inquéritos ou trabalhos de carácter eventual.
+
+§ 1.º A duração, termos e remunerações dos contratos de prestação de serviços, bem como as dos estudos, inquéritos e trabalhos de carácter eventual previstos no corpo deste artigo serão fixados por despacho do Presidente do Conselho.
+
+§ 2.º As remunerações fixadas nos termos do parágrafo anterior serão pagas por força da verba global a inscrever para tal fim no orçamento do Secretariado Técnico da Presidência do Conselho.
+
+Art. 10.º Os vogais permanentes do plenário da Comissão Interministerial de Planeamento e Integração Económica perceberão mensalmente uma gratificação a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
+
+Os vogais eventuais, os suplentes dos vogais permanentes e os membros dos grupos de trabalho que não pertençam ao plenário da Comissão Interministerial terão direito, por cada reunião a que assistirem, ao abono de uma senha de presença de montante a fixar também por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
+
+§ 1.º A gratificação a abonar aos vogais permanentes do plenário da Comissão Interministerial de Planeamento e Integração Económica será acumulável com a remuneração dos respectivos cargos públicos, sem prejuízo, porém, do limite fixado no artigo 20.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+
+§ 2.º Os vogais do plenário da Comissão Interministerial e os membros dos grupos de trabalho que residam fora de Lisboa serão abonados, quando hajam de deslocar-se no exercício das suas funções, das despesas de transportes e ajudas de custo correspondentes à sua categoria.
+
+§ 3.º Para os efeitos do disposto no parágrafo antecedente, a ajuda de custo dos vogais do plenário da Comissão Interministerial que não sejam funcionários do Estado ou dos corpos administrativos será fixada nos termos do § único do artigo 11.º do [Decreto-Lei n.º 33834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33834-1944-551428), de 4 de Agosto de 1944.
+
+§ 4.º Os representantes das províncias ultramarinas, quando deslocados por força do § único do artigo 50.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, têm direito a despesas de transportes, ajudas de custo e de mais abonos estabelecidos pelo artigo 43.º do Estatuto do Funcionalismo Ultramarino, com a nova redacção estabelecida pelo artigo 9.º do Decreto-Lei n.º 42325, de 16 de Junho de 1959.
+
+§ 5.º As remunerações e abonos referidos no corpo do presente artigo e seus parágrafos serão pagos por força da dotação orçamental respectiva do Secretariado Técnico da Presidência do Conselho.
+
+Art. 11.º O secretariado e o expediente da Comissão Consultiva de Política Económica serão assegurados pelo Secretariado Técnico da Presidência do Conselho. Quando as sessões da Comissão Consultiva se realizarem numa província ultramarina, o Governo da província assegurará ao Secretariado Técnico o pessoal auxiliar e de secretaria considerado necessário.
+
+Art. 12.º Os vogais da Comissão Consultiva de Política Económica serão abonados, quando hajam de deslocar-se dos territórios onde residam, a fim de participar nas sessões da Comissão Consultiva, das despesas de transporte e ajudas de custo correspondentes à sua categoria.
+
+§ 1.º Aos vogais que não sejam funcionários públicos será aplicado o disposto no § 3.º do artigo 10.º do presente diploma.
+
+§ 2.º As despesas de transporte e ajudas de custo previstas no corpo deste artigo serão suportadas por dotação orçamental adequada do Secretariado Técnico da Presidência do Conselho.
+
+Art. 13.º Os órgãos e serviços de que trata o presente diploma entrarão em funcionamento em 1 de Abril de 1963, considerando-se, a partir de então, extinta a Inspecção Superior do Plano de Fomento e abatidos aos quadros da Secretaria-Geral da Presidência do Conselho os seguintes lugares:
+
+1 inspector superior.
+
+1 técnico de 1.ª
+
+3 técnicos de 2.ª
+
+4 técnicos de 3.ª
+
+2 segundos-oficiais.
+
+2 terceiros-oficiais.
+
+4 dactilógrafos.
+
+Art. 14.º Até à data referida no artigo anterior, será aprovada pelo Presidente do Conselho e publicada no Diário do Governo a relação do pessoal dirigente, técnico e administrativo da Secretaria-Geral da Presidência do Conselho que transita para os quadros do Secretariado Técnico, com indicação dos lugares e situações em que fica provido nesses quadros.
+
+§ 1.º O provimento do pessoal a que se refere este artigo efectuar-se-á sem dependência de outras formalidades que não sejam a anotação pelo Tribunal de Contas da relação dos funcionários que transitam para o Secretariado Técnico e o averbamento da nova situação de cada um nos respectivos diplomas de funções públicas.
+
+§ 2.º Aos funcionários transferidos será levado em conta, para todos os efeitos legais, o tempo de serviço prestado na Secretaria-Geral da Presidência do Conselho.
+
+§ 3.º O titular do cargo de inspector superior do Plano de Fomento considera-se investido nas funções de director-geral do Secretariado Técnico, desde a data referida no artigo 13.º do presente diploma, sendo-lhe levado em conta, para efeitos do disposto no artigo 6.º, o tempo de serviço prestado na actual categoria.
+
+Art. 15.º Os actuais técnicos contratados além do quadro pela Secretaria-Geral da Presidência do Conselho, nos termos do artigo 13.º do [Decreto-Lei n.º 41383](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41383-1957-251639), de 22 de Novembro de 1957, passarão a prestar serviço no Secretariado Técnico, a partir da data em que este entrar em funcionamento, continuando, porém, a ser remunerados por força da correspondente dotação do orçamento da referida Secretaria-Geral.
+
+§ único. A situação do pessoal a que se refere o corpo deste artigo não poderá subsistir além de 31 de Dezembro de 1963.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 29 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.
+
+Secretariado Técnico da Presidência do Conselho
+
+Quadro do pessoal anexo ao Decreto n.º 44944, de 29 de Março de 1963
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/03/07500/03070309.pdf)
+
+Presidência do Conselho, 29 de Março de 1963. - O Presidente do Conselho, António de Oliveira Salazar.

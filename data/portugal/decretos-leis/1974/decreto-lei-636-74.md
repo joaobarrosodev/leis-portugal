@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:466052:por
+title: Decreto-Lei n.º 636/74
+short_title: null
+summary: Concede aos funcionários do Arsenal do Alfeite um complemento de ordenado com carácter permanente e de atribuição
+  obrigatória para compensação do excesso do seu horário normal de trabalho e para equilíbrio das hierarquias
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho dos Chefes dos Estados-Maiores das Forças Armadas e Ministério das Finanças
+proposing_entity: null
+official_number: 636/74
+official_date: null
+publication_date: '1974-11-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 270/1974, Série I de 1974-11-20
+  number: '270'
+  series: I
+  supplement: null
+  pages: 1403 - 1404
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/11/27000/14031404.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '466052'
+  dre_path: /dr/detalhe/decreto-lei/636-1974-466052
+  internal: pt:dre:466052:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1974-466052
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/636-1974-466052
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:35:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fbdc95454843eb7de09ebb3c9ae49d2ae47fa386cb99521a928407a7f90ac6cd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:35:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arsenal do Alfeite
+- Remuneração
+- Remuneração Acessória
+relationships:
+- type: amended_by
+  target: pt:dre:670001:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:670001:por
+  label: "Determinada, nos termos do art. 1.º, a não vigência, do presente diploma, pelo DEC LEI.70/2011.16.06.2011.PCM, DR.IS\
+    \ [115] de 16.06.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-2011-670001
+  date: '2011-06-16'
+- type: cites
+  target: pt:dre:526266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685188:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:35:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 636/74
+
+de 20 de Novembro
+
+Além do pessoal fabril, outro pessoal do Arsenal do Alfeite, cujos ordenados estão fixados segundo a escala geral estabelecida para o funcionalismo público, tem, por imposição do seu regulamento, um horário normal de trabalho mais longo.
+
+Esta circunstância e o facto de ao pessoal operário se atribuírem salários que, acompanhando, na medida do possível, os praticados na região, têm originado disparidades e soluções cuja regularização se tem operado através de despachos ministeriais proferidos ao abrigo do [Decreto-Lei n.º 39099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39099-1953-526266), de 7 de Fevereiro de 1953.
+
+Há que reparar esta situação, concedendo, com carácter permanente e de atribuição obrigatória, aos servidores do Arsenal que nela se encontrem um complemento de ordenado que permita, não os desviando das letras correspondentes à sua categoria, uma remuneração que os compense do excesso do seu horário normal de trabalho e não subverta as hierarquias.
+
+Por seu turno, importa também regularizar a situação destes servidores no que respeita à aposentação, para não suceder, como já sucedeu, que os servidores, ao aposentarem-se, percebam pensões menores do que as que competem a outros de categorias hierárquicas inferiores.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo n.º 1 do artigo 1.º da Lei Constitucional n.º 4/74, de 1 de Julho, o Conselho dos Chefes dos Estados-Maiores das Forças Armadas decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. É concedido aos funcionários do Arsenal do Alfeite, nomeados e contratados, um complemento de ordenado com carácter permanente e de atribuição obrigatória para compensação do excesso do seu horário normal de trabalho e para equilíbrio das hierarquias.
+
+2. O complemento de ordenado a que se refere o número anterior é estabelecido por despacho conjunto do Conselho dos Chefes dos Estados-Maiores das Forças Armadas e do Ministro das Finanças.
+
+3. As actuais compensações, estabelecidas por despacho do Ministro da Marinha, nos termos do [Decreto-Lei n.º 39099](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39099-1953-526266), de 7 de Fevereiro de 1953, são mantidas e arredondadas para a centena de escudos imediatamente superior, constituindo o complemento de ordenado referido no n.º 1.
+
+4. Ao pessoal abrangido pelos números antecedentes inscrito na Caixa Geral de Aposentações será levado em conta para efeitos da pensão de aposentação nos termos do artigo 47.º, n.º 1, alínea a), do Estatuto da Aposentação, aprovado pelo [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, o complemento de ordenado permanente e obrigatório referido nos números anteriores.
+
+Art. 2.º Este decreto-lei entra imediatamente em vigor.
+
+Francisco da Costa Gomes - José da Silva Lopes.
+
+Promulgado em 8 de Novembro de 1974.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

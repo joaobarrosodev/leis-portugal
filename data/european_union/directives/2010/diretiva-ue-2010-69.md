@@ -1,0 +1,289 @@
+---
+schema_version: '1.0'
+id: eu:celex:32010L0069:por
+title: Directiva 2010/69/UE da Comissão, de 22 de Outubro de 2010
+short_title: null
+summary: Directiva 2010/69/UE da Comissão, de 22 de Outubro de 2010 , que altera os anexos da Directiva 95/2/CE do Parlamento
+  Europeu e do Conselho relativa aos aditivos alimentares com excepção dos corantes e dos edulcorantes Texto relevante para
+  efeitos do EEE
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2010/69
+official_date: null
+publication_date: '2010-10-23'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 279 de 23.10.2010
+  number: '279'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.01/DOC_1
+entry_into_force_dates:
+- '2010-11-12'
+- '2011-04-01'
+end_of_validity_date: '2010-01-20'
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+version_history:
+  file: diretiva-ue-2010-69.versoes.json
+  count: 1
+  source_lastmod: '2010-11-12'
+  versions:
+  - date: '2010-10-23'
+    amending: null
+    amending_title: null
+    changes: []
+identifiers:
+  celex: 32010L0069
+  eli: http://data.europa.eu/eli/dir/2010/69/oj
+  oj: oj:JOL_2010_279_R_0022_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32010L0069:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32010L0069
+  metadata_url: http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006
+  content_url: http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T15:47:00Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-09-04T04:44:19.347+02:00'
+integrity:
+  source_sha256: df8d286fb669406a726ff532d519d60921a3014c6c8e5e412bc5f81d469aacf0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:47:00Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2010-69.versoes.json.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- aditivo alimentar
+- aproximação das legislações
+- legislação alimentar
+- norma de comercialização
+- produto alimentar
+- proteção do consumidor
+- rotulagem
+- saúde pública
+relationships:
+- type: amends
+  target: celex:31995L0002
+  label: null
+  source: http://publications.europa.eu/resource/cellar/382cf3f9-631a-4f32-8317-defd0bcf7331
+  date: '1995-03-18'
+- type: based_on
+  target: celex:32002R1078
+  label: null
+  source: http://publications.europa.eu/resource/cellar/eae39efa-ff3e-4457-a8c6-f2817f12e477
+  date: '2002-06-26'
+- type: based_on
+  target: celex:32008R1333
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d5592f1d-052b-4267-91e8-97a4ffe1cfaa
+  date: '2008-12-16'
+- type: cited_by
+  target: pt:dre:286753:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31991R1601
+  label: null
+  source: http://publications.europa.eu/resource/cellar/81cbbcf5-edfc-41a1-9a15-d56b4f97b9f7
+- type: cites
+  target: celex:32002L0046
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3a775fb5-a3e3-4442-92c9-bf002088c961
+- type: corrected_by
+  target: celex:32010L0069R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3856cf76-8ea2-4248-8270-1f15e72c1232
+  date: '2012-04-19'
+- type: repealed_by
+  target: celex:32008R1333
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d5592f1d-052b-4267-91e8-97a4ffe1cfaa
+  date: '2008-12-16'
+- type: repeals
+  target: celex:32004D0374
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7adacb2f-4a56-4d2c-a515-7150ac066e57
+  date: '2004-04-26'
+article_structure:
+  article_count: 5
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T15:47:00Z'
+  warnings:
+  - '02010L0069-20101112: versão indisponível (Sem expressão na língua por para CELEX 02010L0069-20101112.)'
+  errors: []
+---
+
+# Directiva 2010/69/UE da Comissão, de 22 de Outubro de 2010
+
+de 22 de Outubro de 2010
+
+que altera os anexos da Directiva 95/2/CE do Parlamento Europeu e do Conselho relativa aos aditivos alimentares com excepção dos corantes e dos edulcorantes
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1333/2008 do Parlamento Europeu e do Conselho, de 16 de Dezembro de 2008, relativo aos aditivos alimentares [([^1])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr1-L_2010279PT.01002201-E0001), e, nomeadamente, o seu artigo 31.º,
+
+Tendo em conta o Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios [([^2])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr2-L_2010279PT.01002201-E0002), e, nomeadamente, o seu artigo 53.º,
+
+Após consulta do Comité Científico da Alimentação Humana e da Autoridade Europeia para a Segurança dos Alimentos,
+
+Considerando o seguinte:
+
+(1) A Directiva 95/2/CE do Parlamento Europeu e do Conselho, relativa aos aditivos alimentares com excepção dos corantes e dos edulcorantes [([^3])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr3-L_2010279PT.01002201-E0003), estabelece uma lista de aditivos alimentares que podem ser utilizados na União Europeia e as respectivas condições de utilização.
+
+(2) Registou-se uma evolução técnica no domínio dos aditivos alimentares desde a adopção da Directiva 95/2/CE. A referida directiva deve ser adaptada a fim de ter em conta esses desenvolvimentos.
+
+(3) Em conformidade com o artigo 31.º do Regulamento (CE) n.º 1333/2008, até estar concluído o estabelecimento das listas da União de aditivos alimentares, tal como previsto no artigo 30.º desse regulamento, procede-se, se necessário, à alteração dos anexos da Directiva 95/2/CE, através de medidas aprovadas pela Comissão.
+
+(4) Os estabilizadores ágar-ágar (E 406), carragenina (E 407), goma de alfarroba (E 410), goma de guar (E 412), goma xantana (E 415), pectinas (E 440), celulose (E 460), carboximetilcelulose (E 466), amido oxidado (E 1404), fosfato de amido monossubstituído (E 1410), fosfato de amido dissubstituído (E 1412), fosfato de amido dissubstituído fosfatado (E 1413), fosfato de amido dissubstituído acetilado (E 1414), amido acetilado (E 1420), adipato de amido dissubstituído acetilado (E 1422), hidroxipropilamido (E 1440), fosfato de amido dissubstituído hidroxipropilado (E 1442), sal de sódio de octenilsuccinato de amido (E 1450), amido oxidado acetilado (E 1451) e o emulsionante mono e diglicéridos de ácidos gordos (E 471) estão actualmente autorizados nos termos da Directiva 95/2/CE para uma série de utilizações. A estes aditivos alimentares o Comité Científico da Alimentação Humana (em seguida denominado CCAH) atribuiu uma dose diária admissível (DDA) «não especificada», o que significa que não apresentam qualquer risco para a saúde dos consumidores. Afigura-se agora necessário, por razões tecnológicas, alargar as suas utilizações aos produtos à base de natas, não aromatizados, fermentados com fermentos vivos, e aos produtos de substituição com um teor de gordura inferior a 20 % a fim de assegurar a estabilidade e a integridade da emulsão. Esta utilização beneficiaria o consumidor uma vez que proporciona uma alternativa através de produtos fermentados à base de natas com teor de gordura reduzido, com propriedades semelhantes relativamente ao produto normal. Por conseguinte, é adequado autorizar esta utilização adicional.
+
+(5) Em 1990, o CCAH avaliou os sais de sódio e de potássio de lactato (E 325 e E 326), o acetato de potássio (E 261), o acetato de sódio (E 262i) e o hidrogenoacetato de sódio (E 262ii) e chegou à conclusão de que estão todos naturalmente presentes nos alimentos como constituintes e as estimativas relativas à sua ingestão são susceptíveis de ser insignificantes em comparação com a ingestão proveniente de fontes naturais. Por conseguinte, foi-lhe atribuído uma DDA de grupo «não especificada». Por conseguinte, estes aditivos alimentares são geralmente permitidos para utilização em todos os géneros alimentícios, com excepção dos referidos no artigo 2.º, n.º 3, da Directiva 95/2/CE. Há uma proposta para alargar a utilização destes aditivos alimentares a preparações pré-embaladas de carne picada fresca para controlar o crescimento dos organismos patogénicos microbianos, por exemplo, *Listeria* e *E. coli* O157. Com base nesta justificação tecnológica, e tendo em conta que esta utilização não suscita problemas de segurança, é adequado permitir a utilização adicional destes aditivos alimentares em preparações pré-embaladas de carne picada fresca.
+
+(6) Os sorbatos (E 200, E 202 e E 203) e os benzoatos (E 210, E 211, E 212 e E 213) estão actualmente permitidos como aditivos alimentares ao abrigo da Directiva 95/2/CE. Propôs-se uma utilização adicional, como conservante, destes aditivos alimentares em sucedâneos de produtos da pesca à base de algas marinhas (produtos sucedâneos de caviar feitos com algas marinhas) como revestimento em vários alimentos a fim de impedir o desenvolvimento de bolores e leveduras e a formação de micotoxinas. Estes sais têm atribuída uma DDA de 0-25 mg/kg de peso corporal e 0-5 mg/kg de peso corporal, respectivamente. Com base no pior cenário possível em que foram utilizadas as concentrações máximas, as estimativas de ingestão são muito baixas em comparação com a DDA. A exposição do consumidor devido a esta utilização não suscita problemas de segurança. Por conseguinte, é adequado permitir a utilização adicional de sorbatos e de benzoatos em sucedâneos de produtos da pesca à base de algas marinhas, tendo em conta a justificação tecnológica e o facto de este novo produto representar um nicho de mercado.
+
+(7) Foi solicitada a utilização de sorbatos (E 200, E 202 e E 203) e benzoatos (E 210, E 211, E 212 e E 213) em cervejas em barril às quais foram acrescentados mais de 0,5 % de açúcares fermentáveis e/ou sumos ou concentrados de fruta e que são directamente servidas sob pressão. Estas cervejas em barril podem permanecer em contacto com a torneira por um período mais longo. Como a ligação do barril à torneira não pode ser feita em condições estéreis, é possível a contaminação microbiológica do barril. Isto é um problema para cervejas que ainda contêm açúcares fermentáveis, dado que estes podem conduzir ao crescimento de microrganismos perigosos. Por conseguinte, são necessários agentes antimicrobianos nas cervejas de pressão e às quais foram acrescentados açúcares e/ou sumos ou concentrados de fruta. Do ponto de vista da ingestão, o consumo a pressão dessas cervejas de fruta permanece insignificante e as estimativas de ingestão para os sorbatos e os benzoatos, com base no pior cenário possível, estão abaixo das suas DDA respectivas. Por conseguinte, é adequado permitir a utilização adicional de sorbatos e benzoatos em cerveja em barril que contém mais de 0,5 % de açúcares fermentáveis e/ou sumos ou concentrados de fruta acrescentados.
+
+(8) Para impedir o desenvolvimento de bolores nos citrinos, é autorizado o tratamento depois da colheita com pesticidas tais como o imazalil e o tiabendazol. Os sorbatos (E 200, E 202, E 203) poderiam ser utilizados para substituir esses pesticidas parcial ou completamente para o tratamento de citrinos. Os sorbatos podem ser aplicados na superfície dos citrinos frescos não descascados por meio de ceras autorizadas: cera de abelha, cera de candelilha, cera de carnaúba e goma laca (E 901, E 902, E 903 e E 904 respectivamente). A exposição do consumidor a estes aditivos devido a esta utilização não representa um problema de segurança. Por conseguinte, é adequado autorizar a sua utilização adicional.
+
+(9) Os consumidores podem escolher completar o seu consumo de alguns nutrientes com suplementos alimentares. Para esse efeito, a vitamina A e as combinações de vitaminas A e D podem ser acrescentadas a suplementos alimentares, tal como definidos na Directiva 2002/46/CE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr4-L_2010279PT.01002201-E0004) Para efeitos do seu manuseamento seguro, a vitamina A e a combinações das vitaminas A e D têm de ser formuladas em preparações que podem exigir uma humidade e uma temperatura elevadas na presença de amidos e açúcares. Tal tratamento pode favorecer o desenvolvimento de microrganismos. A fim de impedir o crescimento destes microrganismos, a adição de sorbatos (E 200, E 202 e E 203) e benzoatos (E 210, E 211, E 212 e E 213) deve ser autorizada na vitamina A e nas combinações das vitaminas A e D quando utilizadas em suplementos alimentares apresentados em forma seca.
+
+(10) O dióxido de enxofre e os sulfitos (E 220, E 221, E 222, E 223, E 224, E 226, E 227 e E 228) são aditivos alimentares autorizados ao abrigo da Directiva 95/2/CE que actuam essencialmente como agentes antimicrobianos e para controlar a deterioração química. Hoje em dia, o transporte de fruta fresca tornou-se muito importante, especialmente por via marítima. Este transporte pode demorar várias semanas. A utilização de dióxido de enxofre e de sulfitos protege os mirtilos frescos contra o desenvolvimento de fungos. A utilização adicional de dióxido de enxofre e de sulfitos deve ser autorizada a fim de ajudar a preservar os mirtilos frescos contra o crescimento de fungos, tendo em conta que este produto pode representar um nicho de mercado. Tomando igualmente em consideração as fortes motivações tecnológicas para incluir estas novas autorizações, a necessidade de facilitar o comércio a nível mundial e o seu impacto negligenciável em temos de ingestão de enxofre e de sulfitos, é por conseguinte adequado autorizar a utilização adicional de dióxido de enxofre em mirtilos no nível de concentração indicado no anexo da presente directiva.
+
+(11) Para a produção de paus de canela (apenas *Cinnamomum ceylanicum*), são utilizadas as lascas frescas da casca interna da caneleira. A casca é exposta a contaminação microbiana e a ataques de insectos, particularmente em condições climáticas tropicais e húmidas, no país produtor. A fumigação com dióxido de enxofre é um tratamento adequado face a essa contaminação microbiana e aos ataques dos insectos. Em 1994, o CCAH estabeleceu uma DDA de 0-0,7 mg/kg de peso corporal e considerou que a utilização de dióxido de enxofre e outros sulfitos devia ser restringida a fim de limitar a ocorrência de reacções asmáticas graves. Embora a utilização de dióxido de enxofre e de sulfitos deva ser restringida, esta utilização específica representa uma contribuição negligenciável em relação à ingestão de dióxido de enxofre e de sulfitos. Por conseguinte, é adequado autorizar a utilização adicional de dióxido de enxofre e de sulfitos (E 220, E 221, E 222, E 223, E 224, E 226, E 227 e E 228) apenas neste tipo específico de canela.
+
+(12) A Autoridade Europeia para a Segurança dos Alimentos (AESA) avaliou a informação sobre a segurança da utilização da nisina numa categoria alimentar adicional de ovos líquidos e sobre a segurança de nisina produzida através um processo de produção alterado. A AESA confirmou, no seu parecer de 26 de Janeiro de 2006 [([^5])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr5-L_2010279PT.01002201-E0005), a DDA previamente estabelecida de 0-0,13 mg/kg para a nisina produzida através de um novo processo de fabrico e de extracção com base na fermentação de um meio de açúcar como substituto para o meio tradicional à base de leite. No referido parecer, a AESA confirmou igualmente que não é de esperar que a utilização de nisina nos alimentos provoque o desenvolvimento da resistência aos antibióticos. De acordo com a AESA, não estão documentados casos de bactérias mutantes resistentes à nisina que apresentem resistência cruzada a antibióticos terapêuticos. A AESA estimou que este facto se deve provavelmente às diferenças entre os antibióticos terapêuticos e a nisina quanto ao modo de acção antimicrobiana. A AESA confirmou, além disso, no seu parecer emitido em 20 de Outubro de 2006 [([^6])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr6-L_2010279PT.01002201-E0006), que a utilização adicional de nisina em ovos líquidos pasteurizados nas condições de utilização previstas (limite máximo situado em 6,25 mg/l) não coloca um problema de segurança e que, de um ponto de vista tecnológico, é justificável para prolongar o período de conservação do produto e também para impedir o crescimento de espécies formadoras de esporos causadores de intoxicação alimentar, como o *Bacillus cereus*, que podem sobreviver ao tratamento de pasteurização. Por conseguinte, é adequado autorizar esta utilização adicional da nisina em ovos líquidos pasteurizados.
+
+(13) O dicarbonato de dimetilo (DMDC, E 242) é um aditivo alimentar permitido ao abrigo da Directiva 95/2/CE que actua como conservante em bebidas aromatizadas não alcoólicas, em vinho sem álcool e em concentrado de chá líquido. A autorização deste aditivo foi decidida com base num parecer positivo emitido pelo CCAH em 1990 e confirmado em 1996. O CCAH não pôde fixar uma DDA, dado que o DMDC se decompõe rapidamente em dióxido de carbono e metanol. Em 2001, solicitou-se ao CCAH que investigasse a segurança de utilização de DMDC em vinho. Nessa altura, o CCAH considerou que a formação de metanol e de outros produtos de reacção, como o metilcarbamato, resultante da utilização de DMDC para o tratamento de bebidas alcoólicas e de vinho era semelhante em bebidas não alcoólicas e que mesmo um consumo de vinho em grandes quantidades não representaria qualquer risco decorrente do metanol e do metilcarbamato. A utilização de DMDC foi solicitada a fim de impedir a deterioração em consequência da fermentação em garrafas, cheias, não esterilizadas e por abrir, de sidra, perada e vinhos de fruta, de vinho com teor reduzido de álcool, de bebidas à base de vinho e de todos os outros produtos abrangidos pelo Regulamento (CEE) n.º 1601/91 do Conselho [([^7])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr7-L_2010279PT.01002201-E0007). Estas utilizações adicionais não são consideradas como constituindo um problema de segurança para o consumidor. Além disso, a utilização de DMDC pode contribuir para a redução da exposição ao dióxido de enxofre. Por conseguinte, é adequado autorizar as utilizações adicionais de DMDC em sidra, perada e vinhos de fruta, vinho com teor reduzido de álcool, bebidas à base de vinho e outros produtos abrangidos pelo Regulamento (CEE) n.º 1601/91.
+
+(14) A AESA avaliou a informação sobre a segurança da utilização de extractos de rosmaninho quando utilizados como antioxidante em produtos alimentares. Os extractos de rosmaninho são derivados de *Rosmarinus officinalis* L. e contêm diversos compostos que exercem funções de antioxidantes (sobretudo ácidos fenólicos, flavonóides, diterpenóides e triterpenos). Embora os dados toxicológicos sobre os extractos de rosmaninho fossem insuficientes para que a AESA estabelecesse uma DDA numérica, a Autoridade considerou, no seu parecer de 7 de Março de 2008 [([^8])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr8-L_2010279PT.01002201-E0008), que a margem de segurança era suficientemente elevada para concluir que a exposição através do regime alimentar resultante das utilizações propostas e dos níveis de utilização não constituíam qualquer problema de segurança. Os extractos de rosmaninho podem, por conseguinte, ser autorizados quando houver uma justificação tecnológica para a sua utilização. As utilizações propostas de extractos de rosmaninho como antioxidante devem ser autorizadas e deve ser-lhes atribuído o número E 392.
+
+(15) O soro de leite é um subproduto do fabrico do queijo. Foram criadas algumas bebidas que contêm proteínas de soro de leite para fornecer uma dieta suficientemente rica em proteínas. Para manter as proteínas em suspensão durante o tratamento térmico dessas bebidas, os níveis de fosfatos devem ser mais elevados do que em bebidas aromatizadas não alcoólicas normais. Os fosfatos devem ser autorizados em bebidas para desportistas que contêm proteína de soro de leite.
+
+(16) A cera de abelha (E 901) está actualmente autorizada como agente de revestimento para utilização em pequenos produtos de padaria fina revestidos de chocolate. Esta autorização não abrange bolachas que contêm gelado que não sejam revestidas de chocolate. Para além do facto de a cera de abelha poder ser considerada como uma alternativa ao chocolate em bolachas pré-embaladas que contêm gelado, o revestimento das bolachas com cera de abelha impediria a migração de água para a bolacha, garantido a sua consistência estaladiça e o prolongamento do período de conservação do produto, pelo que se considera justificado do ponto de vista tecnológico. Por conseguinte, a cera de abelha deve ser autorizada como agente de revestimento para substituir inteira ou parcialmente a camada de chocolate nas bolachas pré-embaladas que contêm gelado.
+
+(17) A AESA avaliou a informação sobre a segurança da utilização da cera de abelha, tendo em conta a sua utilização adicional como agente de transporte de aromas em bebidas aromatizadas não alcoólicas. Embora os dados disponíveis sobre a cera de abelha sejam, em si, insuficientes para estabelecer uma DDA, a AESA chegou à conclusão de que, devido ao baixo perfil toxicológico da cera de abelha, as utilizações alimentares existentes e a nova utilização proposta da cera de abelha não suscitam qualquer problema de segurança. É, por conseguinte, adequado autorizar esta utilização adicional da cera de abelha como agente de transporte de aromas em bebidas aromatizadas não alcoólicas.
+
+(18) O citrato trietílico (E 1505) está actualmente autorizado na UE ao abrigo da Directiva 95/2/CE como agente de transporte de aromas e em clara de ovo desidratada. A sua DDA foi estabelecida em 1990 pelo CCAH em 0-20 mg/kg. Foi proposta uma extensão da utilização do citrato trietílico como agente de revestimento para comprimidos de suplementos alimentares. O citrato trietílico aumentaria a resistência da película de revestimento, protegendo o comprimido do ambiente externo e aumentaria igualmente o tempo de libertação do produto. De acordo com o pior cenário possível, esta fonte adicional de ingestão de citrato trietílico é negligenciável (0,25 % da DDA) em comparação com a DDA total. Por conseguinte, é adequado autorizar a utilização adicional do citrato trietílico a nível da UE como agente de revestimento de comprimidos de suplementos alimentares.
+
+(19) A AESA avaliou a informação sobre a segurança do poli(álcool vinílico) (PVA) como agente de revestimento por película para suplementos alimentares e emitiu o seu parecer em 5 de Dezembro de 2005 [([^9])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr9-L_2010279PT.01002201-E0009). A AESA considerou que a utilização de PVA no revestimento de suplementos alimentares apresentados sob a forma de cápsulas e comprimidos não causava problemas de segurança. A AESA considerou que a potencial exposição humana ao PVA nas condições de utilização previstas deverá ser baixa. Constatou-se que o PVA é absorvido de forma negligenciável após administração oral. O limite máximo de utilização foi fixado em 18 g/kg, com base no pior cenário possível, no qual a AESA baseou a sua avaliação dos riscos. Devido às boas qualidades de aderência e à resistência da película de poli(álcool vinílico), espera-se que este novo aditivo alimentar desempenhe um papel tecnológico como agente de revestimento por película para suplementos alimentares, em especial em aplicações onde são necessárias propriedades de barreira e de protecção contra a humidade. É, por conseguinte, adequado autorizar esta utilização a nível da UE. Deve atribuir-se a este novo aditivo alimentar o número E 1203.
+
+(20) A autoridade avaliou a informação sobre a segurança de seis tipos de polietilenoglicóis (PEG 400, PEG 3000, PEG 3350, PEG 4000, PEG 6000, PEG 8000) como agentes de revestimento por película para utilização em suplementos alimentares e emitiu o seu parecer em 28 de Novembro de 2006 [([^10])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr10-L_2010279PT.01002201-E0010). A AESA considerou que a utilização desses tipos de polietilenoglicol como agente de revestimento em formulações formadoras de película para suplementos alimentares sob a forma de comprimidos e cápsulas não causava problemas de segurança nas condições de utilização previstas. A AESA também tomou em consideração na sua avaliação dos riscos a fonte adicional de exposição a estes PEG provocada pela utilização de produtos farmacêuticos e considerou que apenas uma ingestão adicional limitada pode resultar da utilização já aprovada de PEG 6000 como agente de transporte de edulcorantes, assim como da utilização de PEG em materiais em contacto com os alimentos. É, por conseguinte, adequado autorizar esta nova utilização a nível da UE. Além disso, devido à ingestão limitada de PEG 6000 como agente de transporte de edulcorantes e do seu perfil toxicológico semelhante no que diz respeito aos outros tipos de PEG [foi atribuída uma dose diária tolerável (DDT) de grupo aos seis PEG], é igualmente adequado autorizar a utilização dos PEG avaliados pela AESA como alternativa ao PEG 6000 como agente de transporte de edulcorantes. Deve ser atribuído a todos estes PEG o número E 1521.
+
+(21) A AESA avaliou a informação sobre a segurança da goma de cássia como novo aditivo alimentar com acção de gelificante e espessante e emitiu o seu parecer em 26 de Setembro de 2006 [([^11])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr11-L_2010279PT.01002201-E0011). A AESA considerou que a utilização de goma de cássia tal como indicada nas condições especificadas não causava qualquer problema de segurança. Embora a AESA considerasse insuficientes os dados toxicológicos disponíveis sobre a goma de cássia para determinar uma DDA, não considerou que os dados existentes suscitassem motivos de preocupação. Em especial, a AESA destacou a baixa absorção específica da goma de cássia e o facto de a goma de cássia, se hidrolisada, ser degradada em compostos que entrariam nas vias metabólicas normais. Há uma justificação tecnológica para a utilização de goma de cássia devido aos seus efeitos gelificantes sinérgicos quando acrescentada a outras gomas alimentares vulgares. É, por conseguinte, adequado autorizar estas utilizações a nível da UE e atribuir à goma de cássia o número E 427.
+
+(22) A AESA avaliou a segurança do neotame como intensificador de sabor e emitiu o seu parecer em 27 de Setembro de 2007 [([^12])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr12-L_2010279PT.01002201-E0012). A AESA concluiu que o neotame não constitui qualquer problema de segurança no que diz respeito às utilizações propostas como intensificador de sabor e estabeleceu uma DDA de 0-2 mg/kg de peso corporal por dia. Por conseguinte, é necessário autorizar a utilização de neotame como intensificador de sabor.
+
+(23) A AESA avaliou a informação sobre a segurança de utilização de L-cisteína (E 920) em certos géneros alimentícios destinados a lactentes e a crianças de tenra idade. A AESA concluiu, no seu parecer de26 de Setembro de 2006 [([^13])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr13-L_2010279PT.01002201-E0013), que a sua utilização proposta em alimentos à base de cereais transformados e em alimentos (especificamente, biscoitos de bebé) para lactentes e crianças de tenra idade não constitui qualquer problema de segurança. Os biscoitos para lactentes e crianças de tenra idade devem, obrigatoriamente, ter uma composição adequada, incluindo teores de açúcar e de gordura controlados. No entanto, os biscoitos com um teor reduzido de gordura têm uma maior fragilidade, daí decorrendo um risco de asfixia e sufocamento quando o biscoito se parte na boca da criança. A função de L-cisteína é melhorar a consistência da massa para controlar a textura do produto final. É, por conseguinte, adequado autorizar a utilização de L-cisteína em biscoitos para lactentes e crianças de tenra idade a nível da UE.
+
+(24) A AESA avaliou a segurança da utilização de uma preparação enzimática à base de trombina com fibrinogénio derivada de bovinos e/ou suínos como aditivo alimentar para reconstituição de alimentos e concluiu, no seu parecer de 26 de Abril de 2005, que tal utilização da preparação enzimática quando produzida de acordo com o indicado no parecer não constitui qualquer problema de segurança [([^14])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr14-L_2010279PT.01002201-E0014). No entanto, o Parlamento Europeu, na sua Resolução de 19 de Maio de 2010, sobre o projecto de directiva da Comissão que altera os anexos da Directiva 95/2/CE do Parlamento Europeu e do Conselho relativa aos aditivos alimentares com excepção dos corantes e dos edulcorantes, considerou que a inclusão no anexo IV da Directiva 95/2/CE desta preparação enzimática como aditivo alimentar para reconstituição de alimentos não era compatível com a finalidade nem com o conteúdo do Regulamento (CE) n.º 1333/2008, pois não satisfaz os critérios gerais do artigo 6.º do Regulamento (CE) n.º 1333/2008, nomeadamente do artigo 6.º, n.º 1, alínea c).
+
+(25) A Decisão 2004/374/CE da Comissão [([^15])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr15-L_2010279PT.01002201-E0015) suspendeu a colocação no mercado e a importação de mini-embalagens de gelatina contendo aditivos alimentares gelificantes derivados de algas marinhas e de determinadas gomas (E 400, E 401, E 402, E 403, E 404, E 405, E 406, E 407, E 407a, E 410, E 412, E 413, E 414, E 415, E 417 e E 418) devido ao risco de asfixia colocado por estes produtos. A Directiva 95/2/CE foi alterada em conformidade pela Directiva 2006/52/CE do Parlamento Europeu e do Conselho [([^16])](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntr16-L_2010279PT.01002201-E0016). A Decisão 2004/374/CE da Comissão deve, por conseguinte, ser revogada dado que as suas disposições foram incluídas na Directiva 95/2/CE.
+
+(26) As medidas previstas na presente directiva estão em conformidade com o parecer do Comité Permanente da Cadeia Alimentar e da Saúde Animal e nem o Parlamento Europeu nem o Conselho se opuseram às mesmas,
+
+ADOPTOU A PRESENTE DIRECTIVA:
+
+###### Artigo 1.º
+
+Os anexos II a VI da Directiva 95/2/CE são alterados em conformidade com o anexo da presente directiva.
+
+###### Artigo 2.º
+
+1. Os Estados-Membros devem adoptar e publicar, até 31 de Março de 2011, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao artigo 1.º da presente directiva. Os Estados-Membros comunicam imediatamente à Comissão o texto das referidas disposições.
+
+Os Estados-Membros devem aplicar essas disposições a partir de 1 de Abril de 2011.
+
+As disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são adoptadas pelos Estados-Membros.
+
+2. Os Estados-Membros comunicam à Comissão o texto das principais disposições de direito interno que adoptarem no domínio abrangido pela presente directiva.
+
+###### Artigo 3.º
+
+É revogada a Decisão 2004/374/CE da Comissão.
+
+###### Artigo 4.º
+
+A presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+###### Artigo 5.º
+
+Os Estados-Membros são os destinatários da presente directiva.
+
+Feito em Bruxelas, em 22 de Outubro de 2010.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**José Manuel BARROSO**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc1-L_2010279PT.01002201-E0001) [JO L 354 de 31.12.2008, p. 16](http://publications.europa.eu/resource/oj/JOL_2008_354_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc2-L_2010279PT.01002201-E0002) [JO L 31 de 1.2.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_031_R_TOC).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc3-L_2010279PT.01002201-E0003) [JO L 61 de 18.3.1995, p. 1](http://publications.europa.eu/resource/oj/JOL_1995_061_R_TOC).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc4-L_2010279PT.01002201-E0004) [JO L 183 de 12.7.2002, p. 51](http://publications.europa.eu/resource/oj/JOL_2002_183_R_TOC).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc5-L_2010279PT.01002201-E0005) Parecer científico do Painel dos aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com os géneros alimentícios, a pedido da Comissão, relativo à utilização de nisina (E 234) como aditivo alimentar, *The EFSA Journal* (2006) 314, p. 1.
+
+> [(^6^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc6-L_2010279PT.01002201-E0006) Parecer científico do Painel dos aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com os géneros alimentícios sobre a segurança da utilização de nisina como aditivo alimentar numa categoria adicional de ovos líquidos e sobre a segurança da nisina como aditivo alimentar produzida utilizando um processo de produção modificado, *The EFSA Journal* (2006) 314b, p. 1.
+
+> [(^7^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc7-L_2010279PT.01002201-E0007) [JO L 149 de 14.6.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_149_R_TOC).
+
+> [(^8^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc8-L_2010279PT.01002201-E0008) Parecer científico do Painel dos aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com os géneros alimentícios, a pedido da Comissão, relativo à utilização de extractos de rosmaninho como aditivo alimentar, *The EFSA Journal* (2008) 721, p. 1.
+
+> [(^9^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc9-L_2010279PT.01002201-E0009) Parecer científico do Painel dos aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com os géneros alimentícios, a pedido da Comissão, sobre a utilização do poli(álcool vinílico) como agente de revestimento para suplementos alimentares, *The EFSA Journal* (2005) 294, p. 1.
+
+> [(^10^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc10-L_2010279PT.01002201-E0010) Parecer científico do Painel dos aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com os géneros alimentícios, a pedido da Comissão, sobre a utilização de polietilenoglicol (PEG) como agente de revestimento por película para utilização em suplementos alimentares, *The EFSA Journal* (2006) 414, p. 1.
+
+> [(^11^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc11-L_2010279PT.01002201-E0011) Parecer científico do Painel dos aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com os géneros alimentícios, a pedido da Comissão, sobre a utilização de goma de cássia como aditivo alimentar, *The EFSA Journal* (2006) 389, p. 1.
+
+> [(^12^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc12-L_2010279PT.01002201-E0012) Parecer científico do Painel dos aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com os géneros alimentícios, a pedido da Comissão, sobre o neotame como edulcorante e intensificador de sabor. *The EFSA Journal* (2007) 581, p. 1.
+
+> [(^13^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc13-L_2010279PT.01002201-E0013) Parecer científico do Painel dos aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com os géneros alimentícios, a pedido da Comissão, sobre a utilização de L-cisteína em alimentos destinados a lactentes e a crianças de tenra idade, *The EFSA Journal* (2006) 390, p. 1.
+
+> [(^14^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc14-L_2010279PT.01002201-E0014) Parecer científico do Painel dos aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com os géneros alimentícios, a pedido da Comissão, sobre a utilização de uma preparação enzimática à base de trombina com fibrinogénio derivada de bovinos e/ou suínos como aditivo alimentar para reconstituição de alimentos, *The EFSA Journal* (2005) 214, p. 1.
+
+> [(^15^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc15-L_2010279PT.01002201-E0015) [JO L 118 de 23.4.2004, p. 70](http://publications.europa.eu/resource/oj/JOL_2004_118_R_TOC).
+
+> [(^16^)](http://publications.europa.eu/resource/cellar/856f3f44-c877-43d2-b73f-32d280b5f9fb.0006.02/DOC_1#ntc16-L_2010279PT.01002201-E0016) [JO L 204 de 26.7.2006, p. 10](http://publications.europa.eu/resource/oj/JOL_2006_204_R_TOC).

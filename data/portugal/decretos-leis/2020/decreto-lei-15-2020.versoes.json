@@ -1,0 +1,281 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:131457480:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-131463599",
+ "dre_path": "/dr/detalhe/decreto-lei/15-2020-131457480",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "131546690",
+    "131546691",
+    "131546692",
+    "131546693",
+    "131546694",
+    "131546695",
+    "131546696",
+    "131546697",
+    "131546698",
+    "131546699",
+    "131546700",
+    "131546701",
+    "131546702",
+    "131546703",
+    "131546704",
+    "131546705"
+   ]
+  },
+  {
+   "date": "2021-03-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159304335:por",
+     "title": "Decreto-Lei n.º 18/2021",
+     "published": "2021-03-12",
+     "dre_path": "/dr/detalhe/decreto-lei/18-2021-159304335"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "131546690",
+    "159391253",
+    "159305145",
+    "159305146",
+    "159210588",
+    "131546695",
+    "159305147",
+    "159391250",
+    "131546698",
+    "159391251",
+    "131546700",
+    "131546701",
+    "131546702",
+    "131546703",
+    "131546704",
+    "131546705",
+    "131546706"
+   ]
+  }
+ ],
+ "fragments": {
+  "131546690": {
+   "fragment_id": "131463600",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 15/2020\n\nde 15 de abril\n\nSumário: Cria uma linha de crédito com juros bonificados dirigida aos operadores do setor da pesca.\n\nA atividade da pesca é regulada pela Política Comum das Pescas que tem como objetivos garantir que as atividades da pesca e da aquicultura sejam ambientalmente sustentáveis a longo prazo e geridas de uma forma consentânea com a obtenção de benefícios económicos, sociais e de emprego, contribuindo para o abastecimento de produtos alimentares.\n\nAtentas as dificuldades enfrentadas pelo setor, agravadas pela conjuntura atual que o País enfrenta - e que motivaram a declaração do estado de emergência, com fundamento na verificação de uma situação de calamidade pública, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, e renovado através do Decreto n.º 17-A/2020, de 2 de abril -, entende o Governo ser necessário adotar as medidas apropriadas e proporcionais neste setor específico.\n\nEssas medidas incluem a criação de uma linha de crédito, com juros bonificados, que permita superar as dificuldades de tesouraria decorrentes das adaptações dos operadores à sua atividade, nos termos do quadro temporário relativo a medidas de auxílio estatal em apoio da economia no atual contexto do surto de COVID-19, estabelecido na Comunicação da Comissão C (2020) 91, de 20 de março de 2020, alterada pela Comunicação da Comissão C (2020) 112, de 4 de abril de 2020.\n\nNeste contexto, pretende-se disponibilizar às empresas do setor, às organizações de produtores e à indústria de transformação, a custos reduzidos, os meios financeiros necessários à manutenção da atividade, que lhes permita a liquidação ou renegociação de dívidas, junto de fornecedores de fatores de produção, de instituições de crédito ou demais entidades habilitadas por lei à concessão de crédito.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "131546691": {
+   "fragment_id": "131463601",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente decreto-lei cria uma linha de crédito com juros bonificados dirigida aos operadores do setor da pesca.\n\n2 - A linha de crédito destina-se a disponibilizar meios financeiros para aquisição de fatores de produção, para fundo de maneio ou tesouraria, designadamente para a liquidação de impostos, pagamento de salários e renegociação de dívidas junto de fornecedores, de instituições de crédito ou demais entidades habilitadas por lei à concessão de crédito.\n\n3 - A medida referida no presente artigo é criada nos termos do quadro temporário relativo a medidas de auxílio estatal em apoio da economia no atual contexto do surto de COVID-19, estabelecido na Comunicação da Comissão C (2020) 91, de 20 de março de 2020, alterada pela Comunicação da Comissão C (2020) 112, de 4 de abril de 2020."
+  },
+  "131546692": {
+   "fragment_id": "131463602",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\nPodem candidatar-se à linha de crédito criada pelo presente decreto-lei as pessoas singulares ou coletivas que satisfaçam as seguintes condições:\n\na) Estejam legal e regulamentarmente habilitadas para o exercício das atividades da pesca, da aquicultura, da indústria de transformação e comercialização de produtos da pesca, ou sejam organizações de produtores reconhecidas;\n\nb) Estejam em atividade efetiva;\n\nc) Tenham a sua sede social em território nacional;\n\nd) Tenham a situação contributiva regularizada perante a administração tributária e a segurança social;\n\ne) Não sejam uma empresa em dificuldade, de acordo com a definição prevista no artigo 2.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, ou que, embora não se encontrassem em dificuldade a 31 de dezembro de 2019, enfrentaram dificuldades ou entraram em dificuldades em virtude do surto da COVID-19."
+  },
+  "131546693": {
+   "fragment_id": "131463603",
+   "type": 11,
+   "heading": "Artigo 3.º — Montante global de crédito e limite global do auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Montante global de crédito e limite global do auxílio\n\n1 - O montante global de crédito a conceder não pode exceder (euro) 20 000 000.\n\n2 - O auxílio a conceder no âmbito do presente decreto-lei é cumulável com quaisquer outros auxílios de minimis enquadrados no Regulamento (UE) n.º 717/2014, da Comissão, de 27 de junho de 2014, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis no setor das pescas e da aquicultura.\n\n3 - A atribuição dos montantes de crédito a conceder a cada beneficiário é feito por ordem de submissão das candidaturas até ser alcançado o montante global fixado no n.º 1."
+  },
+  "131546694": {
+   "fragment_id": "131463604",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante individual de crédito e do auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante individual de crédito e do auxílio\n\n1 - O montante total do auxílio a atribuir não pode exceder (euro) 120 000 brutos por beneficiário, conforme o disposto na alínea a) do n.º 23 do quadro temporário relativo a medidas de auxílio estatal em apoio da economia no atual contexto do surto de COVID-19, estabelecido na Comunicação da Comissão C (2020) 91, de 20 de março de 2020, alterada pela Comunicação da Comissão C (2020) 112, de 4 de abril de 2020.\n\n2 - O auxílio a conceder no âmbito do presente decreto-lei é cumulável com outros auxílios de minimis enquadrados no Regulamento (UE) n.º 717/2014, da Comissão, de 27 de junho de 2014, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis no setor das pescas e da aquicultura, e não pode exceder de forma acumulada por cada empresa o limite estabelecido no número anterior.\n\n3 - Caso se verifique que o montante individual de auxílio venha a ultrapassar o limite estipulado no n.º 1, o valor do mesmo por beneficiário é ajustado, reduzindo-se na proporção do excesso verificado e diminuindo-se, em conformidade, o montante individual de crédito a conceder."
+  },
+  "131546695": {
+   "fragment_id": "131463605",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma\n\nO crédito é concedido sob a forma de empréstimo reembolsável pelas instituições de crédito ou demais entidades habilitadas por lei à concessão de crédito que celebrem protocolo com o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no qual é estabelecida uma taxa de juro nominal máxima."
+  },
+  "131546696": {
+   "fragment_id": "131463606",
+   "type": 11,
+   "heading": "Artigo 6.º — Formalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formalização\n\nOs empréstimos são formalizados por contrato escrito, em termos a definir pelo IFAP, I. P., celebrado entre as instituições de crédito ou demais entidades habilitadas por lei à concessão de crédito e os beneficiários do presente decreto-lei, até 31 de dezembro de 2020."
+  },
+  "131546697": {
+   "fragment_id": "131463607",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições financeiras dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições financeiras dos empréstimos\n\n1 - Os empréstimos são concedidos pelo prazo máximo de seis anos a contar da data da celebração do contrato referido no artigo anterior e amortizáveis anualmente, em prestações de igual montante, vencendo-se a primeira amortização um ano após a data prevista para a primeira utilização de crédito.\n\n2 - A utilização dos empréstimos é realizada no prazo máximo de 12 meses após a data de celebração do contrato, podendo efetuar-se até três utilizações por contrato.\n\n3 - Os empréstimos vencem juros à taxa contratual, calculados, dia a dia, sobre o capital em dívida.\n\n4 - Os juros são postecipados e pagos anualmente.\n\n5 - Em cada período de contagem de juros, e ao longo da duração do empréstimo, são atribuídas as seguintes bonificações da taxa de juros, diferenciadas em função do volume de negócios da empresa:\n\na) Volume de negócios até (euro) 500 000: até 100 % de bonificação;\n\nb) Volume de negócios superior a (euro) 500 000: até 90 % de bonificação.\n\n6 - As percentagens fixadas no número anterior são aplicadas sobre a taxa de referência para o cálculo de bonificações, criada pelo Decreto-Lei n.º 359/89, de 18 de outubro, em vigor no início de cada período de contagem de juros, salvo se a taxa de juro praticada pela instituição de crédito ou demais entidades habilitadas por lei à concessão de crédito for menor, caso em que aquela taxa de referência passa a ser igual a esta.\n\n7 - O enquadramento da empresa nos escalões de vendas referidos no n.º 5 é determinado pela média do volume de negócios nos dois últimos exercícios económicos ou, caso a empresa tenha iniciado a sua atividade há menos de dois anos, o enquadramento é determinado pelo último exercício económico.\n\n8 - Do resultado da aplicação das disposições constantes dos números anteriores não poderá resultar uma taxa de juro a suportar pelo beneficiário inferior à taxa de base IBOR a 1 ano ou equivalente, publicada pela Comissão, aplicável a 1 de janeiro de 2020, acrescida de uma margem de risco de crédito, variável nos seguintes termos:\n\na) 25 pontos base no 1.º ano;\n\nb) 50 pontos base nos 2.º e 3.º anos;\n\nc) 100 pontos base nos 4.º, 5.º e 6.º anos."
+  },
+  "131546698": {
+   "fragment_id": "131463608",
+   "type": 11,
+   "heading": "Artigo 8.º — Pagamento das bonificações de juros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pagamento das bonificações de juros\n\n1 - A bonificação de juros é processada enquanto se verificarem as condições de acesso definidas no artigo 2.º, bem como o pontual cumprimento das obrigações contratualmente assumidas pelos beneficiários, na qualidade de mutuários.\n\n2 - As instituições de crédito ou demais entidades habilitadas por lei à concessão de crédito devem fornecer ao IFAP, I. P., todas as informações por este solicitadas, relativas aos empréstimos objeto de bonificação."
+  },
+  "131546699": {
+   "fragment_id": "131463609",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de informação dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dever de informação dos beneficiários\n\n1 - Para efeitos de enquadramento nos escalões do volume de negócios referidos no n.º 5 do artigo 7.º, os beneficiários devem apresentar cópia das declarações de rendimentos relativas ao imposto sobre o rendimento das pessoas singulares ou das declarações a que se refere a alínea c) do n.º 1 do artigo 117.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, na sua redação atual, consoante os casos, relativas aos dois últimos exercícios económicos.\n\n2 - Os beneficiários dos auxílios devem informar o IFAP, I. P., sobre o recebimento de quaisquer outros auxílios de minimis, concedidos ao abrigo do Regulamento (UE) n.º 717/2014, da Comissão, de 27 de junho de 2014, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis no setor das pescas e da aquicultura."
+  },
+  "131546700": {
+   "fragment_id": "131463610",
+   "type": 11,
+   "heading": "Artigo 10.º — Incumprimento pelo beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Incumprimento pelo beneficiário\n\n1 - O incumprimento de qualquer das obrigações do beneficiário, na qualidade de mutuário, é prontamente comunicado pela instituição de crédito mutuante ou demais entidades habilitadas por lei à concessão de crédito ao IFAP, I. P.\n\n2 - O incumprimento previsto no número anterior determina a imediata cessação do pagamento das bonificações, bem como a recuperação das que tiverem sido indevidamente processadas."
+  },
+  "131546701": {
+   "fragment_id": "131463611",
+   "type": 11,
+   "heading": "Artigo 11.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acompanhamento e controlo\n\n1 - No âmbito do presente decreto-lei, compete ao IFAP, I. P.:\n\na) Estabelecer as normas técnicas e financeiras destinadas a garantir o cumprimento do disposto no presente decreto-lei;\n\nb) Analisar as candidaturas, tendo em vista a verificação das condições de acesso e a aferição do montante do empréstimo a conceder;\n\nc) Efetuar o processamento e o pagamento das bonificações de juros;\n\nd) Acompanhar e fiscalizar as condições de acesso e permanência na linha de crédito.\n\n2 - No âmbito do presente decreto-lei, compete à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos e aos órgãos próprios das Regiões Autónomas colaborar com o IFAP, I. P., na análise das candidaturas, tendo em vista a verificação das condições de acesso e a aferição do montante do empréstimo a conceder."
+  },
+  "131546702": {
+   "fragment_id": "131463612",
+   "type": 11,
+   "heading": "Artigo 12.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Financiamento\n\nA cobertura orçamental dos encargos financeiros é assegurada por verbas nacionais do Orçamento de Investimento do Ministério do Mar da responsabilidade do IFAP, I. P."
+  },
+  "131546703": {
+   "fragment_id": "131463613",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma transitória\n\n1 - Sem prejuízo do disposto no artigo seguinte, os contratos de empréstimo que à data de entrada em vigor do presente decreto-lei se encontrem a produzir efeitos continuarão a vigorar até a data da amortização da última prestação do contrato.\n\n2 - Os contratos a que se refere o número anterior podem ser reescalonados por mais um ano da sua duração, mediante acordo entre o beneficiário, o IFAP, I. P., e a instituição de crédito ou demais entidades habilitadas por lei à concessão de crédito."
+  },
+  "131546704": {
+   "fragment_id": "131463614",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 116/2014, de 5 de agosto."
+  },
+  "131546705": {
+   "fragment_id": "131463615",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "159391253": {
+   "fragment_id": "131463601",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": "2021-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente decreto-lei cria uma linha de crédito com juros bonificados dirigida aos operadores do setor da pesca.\n\n2 - A linha de crédito destina-se a disponibilizar meios financeiros para aquisição de fatores de produção, para fundo de maneio ou tesouraria, designadamente para a liquidação de impostos, pagamento de salários e renegociação de dívidas junto de fornecedores, de instituições de crédito ou demais entidades habilitadas por lei à concessão de crédito.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+  },
+  "159305145": {
+   "fragment_id": "131463602",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de acesso",
+   "in_force_from": "2021-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+   ],
+   "markdown": "###### Artigo 2.º — Condições de acesso\n\nAs condições de acesso à linha de crédito são reguladas por portaria dos membros do Governo responsáveis pelas áreas das finanças e do mar.\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) (Revogada.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+  },
+  "159305146": {
+   "fragment_id": "131463603",
+   "type": 11,
+   "heading": "Artigo 3.º — Montante global de crédito e limite individual de auxílio",
+   "in_force_from": "2021-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+   ],
+   "markdown": "###### Artigo 3.º — Montante global de crédito e limite individual de auxílio\n\n1 - O montante global de crédito e o limite total do auxílio a conceder por beneficiário são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e do mar.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+  },
+  "159210588": {
+   "fragment_id": "131463604",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante individual de crédito e do auxílio",
+   "in_force_from": "2021-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+   ],
+   "markdown": "###### Artigo 4.º — Montante individual de crédito e do auxílio\n\n1 - O montante total do auxílio a atribuir não pode exceder (euro) 120 000 brutos por beneficiário, conforme o disposto na alínea a) do n.º 23 do quadro temporário relativo a medidas de auxílio estatal em apoio da economia no atual contexto do surto de COVID-19, estabelecido na Comunicação da Comissão C (2020) 91, de 20 de março de 2020, alterada pela Comunicação da Comissão C (2020) 112, de 4 de abril de 2020.\n\n2 - O auxílio a conceder no âmbito do presente decreto-lei é cumulável com outros auxílios de minimis enquadrados no Regulamento (UE) n.º 717/2014, da Comissão, de 27 de junho de 2014, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis no setor das pescas e da aquicultura, e não pode exceder de forma acumulada por cada empresa o limite estabelecido no número anterior.\n\n3 - Caso se verifique que o montante individual de auxílio venha a ultrapassar o limite estipulado no n.º 1, o valor do mesmo por beneficiário é ajustado, reduzindo-se na proporção do excesso verificado e diminuindo-se, em conformidade, o montante individual de crédito a conceder.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+  },
+  "159305147": {
+   "fragment_id": "131463606",
+   "type": 11,
+   "heading": "Artigo 6.º — Formalização e condições financeiras dos empréstimos",
+   "in_force_from": "2021-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+   ],
+   "markdown": "###### Artigo 6.º — Formalização e condições financeiras dos empréstimos\n\nAs condições para a formalização dos contratos de empréstimo e as suas condições financeiras são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e do mar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+  },
+  "159391250": {
+   "fragment_id": "131463607",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições financeiras dos empréstimos",
+   "in_force_from": "2021-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+   ],
+   "markdown": "###### Artigo 7.º — Condições financeiras dos empréstimos\n\n1 - Os empréstimos são concedidos pelo prazo máximo de seis anos a contar da data da celebração do contrato referido no artigo anterior e amortizáveis anualmente, em prestações de igual montante, vencendo-se a primeira amortização um ano após a data prevista para a primeira utilização de crédito.\n\n2 - A utilização dos empréstimos é realizada no prazo máximo de 12 meses após a data de celebração do contrato, podendo efetuar-se até três utilizações por contrato.\n\n3 - Os empréstimos vencem juros à taxa contratual, calculados, dia a dia, sobre o capital em dívida.\n\n4 - Os juros são postecipados e pagos anualmente.\n\n5 - Em cada período de contagem de juros, e ao longo da duração do empréstimo, são atribuídas as seguintes bonificações da taxa de juros, diferenciadas em função do volume de negócios da empresa:\n\na) Volume de negócios até (euro) 500 000: até 100 % de bonificação;\n\nb) Volume de negócios superior a (euro) 500 000: até 90 % de bonificação.\n\n6 - As percentagens fixadas no número anterior são aplicadas sobre a taxa de referência para o cálculo de bonificações, criada pelo Decreto-Lei n.º 359/89, de 18 de outubro, em vigor no início de cada período de contagem de juros, salvo se a taxa de juro praticada pela instituição de crédito ou demais entidades habilitadas por lei à concessão de crédito for menor, caso em que aquela taxa de referência passa a ser igual a esta.\n\n7 - O enquadramento da empresa nos escalões de vendas referidos no n.º 5 é determinado pela média do volume de negócios nos dois últimos exercícios económicos ou, caso a empresa tenha iniciado a sua atividade há menos de dois anos, o enquadramento é determinado pelo último exercício económico.\n\n8 - Do resultado da aplicação das disposições constantes dos números anteriores não poderá resultar uma taxa de juro a suportar pelo beneficiário inferior à taxa de base IBOR a 1 ano ou equivalente, publicada pela Comissão, aplicável a 1 de janeiro de 2020, acrescida de uma margem de risco de crédito, variável nos seguintes termos:\n\na) 25 pontos base no 1.º ano;\n\nb) 50 pontos base nos 2.º e 3.º anos;\n\nc) 100 pontos base nos 4.º, 5.º e 6.º anos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+  },
+  "159391251": {
+   "fragment_id": "131463609",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de informação dos beneficiários",
+   "in_force_from": "2021-03-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+   ],
+   "markdown": "###### Artigo 9.º — Dever de informação dos beneficiários\n\n1 - Para efeitos de enquadramento nos escalões do volume de negócios referidos no n.º 5 do artigo 7.º, os beneficiários devem apresentar cópia das declarações de rendimentos relativas ao imposto sobre o rendimento das pessoas singulares ou das declarações a que se refere a alínea c) do n.º 1 do artigo 117.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, na sua redação atual, consoante os casos, relativas aos dois últimos exercícios económicos.\n\n2 - Os beneficiários dos auxílios devem informar o IFAP, I. P., sobre o recebimento de quaisquer outros auxílios de minimis, concedidos ao abrigo do Regulamento (UE) n.º 717/2014, da Comissão, de 27 de junho de 2014, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis no setor das pescas e da aquicultura.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2021 - Diário da República n.º 50/2021, Série I de 2021-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2021-159304335), em vigor a partir de 2021-03-13"
+  },
+  "131546706": {
+   "fragment_id": "131463616",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de abril de 2020. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Ricardo da Piedade Abreu Serrão Santos.\n\nPromulgado em 11 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 13 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113178696"
+  }
+ }
+}

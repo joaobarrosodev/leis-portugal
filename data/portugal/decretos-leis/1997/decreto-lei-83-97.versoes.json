@@ -1,0 +1,295 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:468802:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-34505975",
+ "dre_path": "/dr/detalhe/decreto-lei/83-1997-468802",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-04-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108210634",
+    "51163875",
+    "51163975",
+    "51164075",
+    "51164175",
+    "51164275",
+    "51164375",
+    "51164475",
+    "51164575",
+    "51164675"
+   ]
+  },
+  {
+   "date": "1999-10-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:667355:por",
+     "title": "Decreto-Lei n.º 423/99",
+     "published": "1999-10-21",
+     "dre_path": "/dr/detalhe/decreto-lei/423-1999-667355"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51474875",
+    "51163875",
+    "51163975",
+    "51164075",
+    "51164175",
+    "51164275",
+    "51164375",
+    "51164475",
+    "51475675",
+    "51164675",
+    "51164975"
+   ]
+  },
+  {
+   "date": "2016-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70095702:por",
+     "title": "Decreto-Lei n.º 176/2015",
+     "published": "2015-08-25",
+     "dre_path": "/dr/detalhe/decreto-lei/176-2015-70095702"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "108210634",
+    "108210635",
+    "108210636",
+    "108210637",
+    "108210638",
+    "108210639",
+    "108210640",
+    "108210641",
+    "108210642",
+    "108210643",
+    "108210644"
+   ]
+  }
+ ],
+ "fragments": {
+  "108210634": {
+   "fragment_id": "35125775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2016-01-01",
+   "changed_by": [],
+   "markdown": "A cultura da vinha encontra-se, desde há décadas, condicionada à observação de disposições administrativas que visam no seu conjunto assegurar estabilidade ao viticultor através da promoção de uma adequada regularidade na produção de uva e, consequentemente, do vinho e dos produtos vínicos, bem como de uma constante melhoria da sua qualidade.\n\nAs regras administrativas de condicionamento da cultura da vinha devem, todavia, favorecer o desenvolvimento de uma política vitivinícola assente na valorização do potencial produtivo do nosso património vitícola por forma a reforçar as vantagens comparativas que o vinho português comporta relativamente aos nossos principais concorrentes.\n\nNesta perspectiva, importa reformular diversas disposições contidas nos Decretos-Leis n.os 513-D/79, de 24 de Dezembro, e 504-I/85, de 30 de Dezembro, acolhendo por inteiro as regras previstas nesta matéria na Organização Comum de Mercado Vitivinícola e criando os instrumentos que favoreçam uma adequada intervenção da Administração Pública na gestão do sistema, na emissão e actualização dos direitos, no controlo da aplicação das medidas de intervenção no mercado e na recolha e tratamento de informação estatística.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "51163875": {
+   "fragment_id": "36134875",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO disposto no presente decreto-lei destina-se a estabelecer as regras a observar pelos detentores de vinhas com mais de 1000 m2 de vinha estreme, ou área equivalente em produtividade pelas outras superfícies de vinha, no plantio e na cultura da vinha, qualquer que seja a categoria da sua utilização, bem como a fixar os procedimentos administrativos para a gestão e controlo do potencial vitícola, sem prejuízo do disposto sobre a matéria, na Organização Comum de Mercado Vitivinícola e, em particular, no título I do Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1987&id=387R0822\" title=\"Link para Regulamento da Comunidade Europeia\">822/87</a>, do Conselho, de 16 de Março."
+  },
+  "51163975": {
+   "fragment_id": "36134975",
+   "type": 11,
+   "heading": "Artigo 2.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regulamentação\n\nMediante portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, serão estabelecidas as regras a observar no plantio e na cultura da vinha, qualquer que seja a categoria da sua utilização, bem como os procedimentos administrativos para a gestão e controlo do potencial vitícola, sem prejuízo das competências dos respectivos órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira."
+  },
+  "51164075": {
+   "fragment_id": "36135075",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nCompete ao Ministério da Agricultura, do Desenvolvimento Rural e da Pescas, através do Instituto da Vinha e do Vinho (IVV), promover, coordenar e executar a aplicação do disposto no presente diploma e, em particular:\n\na) Atribuir os direitos de plantação e de replantação e efectuar a legalização das vinhas;\n\nb) Organizar e manter actual o Registo Central Vitícola, instituído pelo artigo 5.º;\n\nc) Garantir o cumprimento das normas disciplinadoras do plantio e da cultura da vinha;\n\nd) Propor o valor das taxas a que se refere o artigo 6.º"
+  },
+  "51164175": {
+   "fragment_id": "36135175",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime da vinha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime da vinha\n\nSão consideradas para efeito deste diploma as vinhas:\n\na) Cuja categoria de utilização seja a constante do respectivo direito de plantação, com uma superfície efectivamente existente não superior à autorizada e que satisfaçam as restantes disposições do presente diploma;\n\nb) Plantadas anteriormente à publicação do Decreto-Lei n.º 21086, de 13 de Abril de 1932;\n\nc) Plantadas após a publicação do Decreto-Lei n.º 21086, de 13 de Abril de 1932, desde que a plantação tenha sido efectuada nos termos legais então vigentes ou que tenham sido objecto de legalização;\n\nd) Plantadas ao abrigo da alínea b) do artigo 2.º do Decreto-Lei n.º 38525, de 23 de Novembro de 1951."
+  },
+  "51164275": {
+   "fragment_id": "36135275",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo Central Vitícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo Central Vitícola\n\n1 - É instituído o Registo Central Vitícola, o qual contém a identificação das parcelas de vinha e dos respectivos proprietários, a discriminação dos direitos de plantação atribuídos e os demais elementos de informação necessários à gestão do potencial vitícola e à adequada aplicação das medidas de gestão do mercado vitivinícola.\n\n2 - Os serviços competentes dos governos próprios das Regiões Autónomas dos Açores e da Madeira deverão enviar ao IVV os elementos necessários ao Registo Central Vitícola.\n\n3 - Mediante portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, serão definidos os elementos de informação que integram o Registo Central Vitícola, bem como os documentos a emitir com base nesse registo."
+  },
+  "51164375": {
+   "fragment_id": "36135375",
+   "type": 11,
+   "heading": "Artigo 6.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Taxas\n\n1 - Nos termos estabelecidos no artigo 2.º, são fixados os valores, o modo de cobrança e demais condições de aplicação de regime das taxas relativo às taxas que incidem sobre:\n\na) A concessão de direitos de novas plantações e de replantações;\n\nb) A realização de vistorias às vinhas;\n\nc) O processo de legalização das vinhas, nos termos do n.º 2 do artigo 7.º e do artigo 8.º\n\n2 - A cobrança coerciva das taxas referidas no número anterior é feita pelo processo das execuções fiscais, nos termos consagrados pelo Código de Processo Tributário.\n\n3 - Os processos referidos no número anterior, qualquer que seja a sua natureza, têm por base certidões emitidas pelo IVV ou pelas entidades certificadoras, com valor de título executivo, das quais devem constar os elementos referidos no artigo 249.º do Código de Processo Tributário."
+  },
+  "51164475": {
+   "fragment_id": "36135475",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime sancionatório\n\n1 - A vinha ilegal que, por não possuir direito de replantação ou de nova plantação ou por apresentar uma categoria de utilização diferente da autorizada, deve ser arrancada pelo seu proprietário no prazo de 12 meses a contar da data da notificação do IVV, no todo ou na parte que exceder o respectivo direito.\n\n2 - A decisão de arranque de uma vinha ilegal pode ser revogada se, no prazo a que se refere o número anterior, o proprietário obtiver um direito de replantação por transferência ou por arranque de compensação, observadas as disposições a fixar nos termos do artigo 2.º"
+  },
+  "51164575": {
+   "fragment_id": "36135575",
+   "type": 11,
+   "heading": "Artigo 8.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Disposições transitórias\n\n1 - Para efeitos de legalização das plantações efectuadas até 31 de Dezembro de 1990, a confirmar por vistoria, são consideradas as declarações já efectuadas ou a efectuar no prazo de seis meses após a publicação do presente diploma, no modelo de impresso aprovado pela Portaria n.º 125/86, de 2 de Abril.\n\n2 - As declarações emitidas nos termos do n.º 1 do artigo 1.º do Decreto-Lei n.º 504-I/85, de 31 de Dezembro, mantêm-se válidas até à emissão do documento a que se refere o n.º 3 do artigo 5.º\n\n3 - Às vinhas plantadas ao abrigo do disposto no Decreto-Lei n.º 41066, de 11 de Abril de 1957, passam a aplicar-se as disposições contidas no presente diploma.\n\n4 - As plantações de vinha efectuadas com base numa autorização de transferência de área de vinha continuam sujeitas à exigência de arranque das vinhas originárias.\n\n5 - Para os pedidos de replantação que se encontrem pendentes, bem como para os de renovação de licenças emitidas, mantêm-se os direitos entretanto constituídos."
+  },
+  "51164675": {
+   "fragment_id": "36135675",
+   "type": 11,
+   "heading": "Artigo 9.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revogações\n\nSão revogados o Decreto-Lei n.º 319/72, de 18 de Agosto, o Decreto-Lei n.º 513-D/79, de 24 de Dezembro, o Decreto-Lei n.º 87/81, de 28 de Abril, e o Decreto-Lei n.º 504-I/85, de 30 de Dezembro."
+  },
+  "51474875": {
+   "fragment_id": "35125775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1999-10-26",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 423/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1999-667355), em vigor a partir de 1999-10-26"
+   ],
+   "markdown": "A cultura da vinha encontra-se, desde há décadas, condicionada à observação de disposições administrativas que visam no seu conjunto assegurar estabilidade ao viticultor através da promoção de uma adequada regularidade na produção de uva e, consequentemente, do vinho e dos produtos vínicos, bem como de uma constante melhoria da sua qualidade.\n\nAs regras administrativas de condicionamento da cultura da vinha devem, todavia, favorecer o desenvolvimento de uma política vitivinícola assente na valorização do potencial produtivo do nosso património vitícola por forma a reforçar as vantagens comparativas que o vinho português comporta relativamente aos nossos principais concorrentes.\n\nNesta perspectiva, importa reformular diversas disposições contidas nos Decretos-Leis n.os 513-D/79, de 24 de Dezembro, e 504-I/85, de 30 de Dezembro, acolhendo por inteiro as regras previstas nesta matéria na Organização Comum de Mercado Vitivinícola e criando os instrumentos que favoreçam uma adequada intervenção da Administração Pública na gestão do sistema, na emissão e actualização dos direitos, no controlo da aplicação das medidas de intervenção no mercado e na recolha e tratamento de informação estatística.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a [Decreto-Lei n.º 423/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1999-667355), em vigor a partir de 1999-10-26"
+  },
+  "51475675": {
+   "fragment_id": "36135575",
+   "type": 11,
+   "heading": "Artigo 8.º — Disposições transitórias",
+   "in_force_from": "1999-10-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 423/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1999-667355), em vigor a partir de 1999-10-26"
+   ],
+   "markdown": "###### Artigo 8.º — Disposições transitórias\n\n1 - Para efeitos de legalização das plantações efectuadas até 31 de Dezembro de 1990, a confirmar por vistoria, são consideradas as declarações já efectuadas ou a efectuar no prazo de seis meses após a publicação do presente diploma, no modelo de impresso aprovado pela Portaria n.º 125/86, de 2 de Abril.\n\n2 - As declarações emitidas nos termos do n.º 1 do artigo 1.º do Decreto-Lei n.º 504-I/85, de 31 de Dezembro, mantêm-se válidas até à emissão do documento a que se refere o n.º 3 do artigo 5.º\n\n3 - Sem prejuízo do disposto no n.º 1, as declarações apresentadas podem ser igualmente confirmadas pelo Registo Central Vitícola, criado pelo artigo 5.º do presente diploma.\n\n4 - Às vinhas plantadas ao abrigo do disposto no Decreto-Lei n.º 41066, de 11 de Abril de 1957, passam a aplicar-se as disposições contidas no presente diploma.\n\n5 - As plantações de vinha efectuadas com base numa autorização de transferência de área de vinha continuam sujeitas à exigência de arranque das vinhas originárias.\n\n6 - Para os pedidos de replantação que se encontrem pendentes, bem como para os de renovação de licenças emitidas, mantêm-se os direitos entretanto constituídos.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 423/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1999-667355), em vigor a partir de 1999-10-26"
+  },
+  "51164975": {
+   "fragment_id": "36135775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Janeiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva.\n\nPromulgado em 24 de Março de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 31 de Março de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "108210635": {
+   "fragment_id": "36134875",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO disposto no presente decreto-lei destina-se a estabelecer as regras a observar pelos detentores de vinhas com mais de 1000 m2 de vinha estreme, ou área equivalente em produtividade pelas outras superfícies de vinha, no plantio e na cultura da vinha, qualquer que seja a categoria da sua utilização, bem como a fixar os procedimentos administrativos para a gestão e controlo do potencial vitícola, sem prejuízo do disposto sobre a matéria, na Organização Comum de Mercado Vitivinícola e, em particular, no título I do Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1987&id=387R0822\" title=\"Link para Regulamento da Comunidade Europeia\">822/87</a>, do Conselho, de 16 de Março.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+  },
+  "108210636": {
+   "fragment_id": "36134975",
+   "type": 11,
+   "heading": "Artigo 2.º — Regulamentação",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Regulamentação\n\nMediante portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, serão estabelecidas as regras a observar no plantio e na cultura da vinha, qualquer que seja a categoria da sua utilização, bem como os procedimentos administrativos para a gestão e controlo do potencial vitícola, sem prejuízo das competências dos respectivos órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+  },
+  "108210637": {
+   "fragment_id": "36135075",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nCompete ao Ministério da Agricultura, do Desenvolvimento Rural e da Pescas, através do Instituto da Vinha e do Vinho (IVV), promover, coordenar e executar a aplicação do disposto no presente diploma e, em particular:\n\na) Atribuir os direitos de plantação e de replantação e efectuar a legalização das vinhas;\n\nb) Organizar e manter actual o Registo Central Vitícola, instituído pelo artigo 5.º;\n\nc) Garantir o cumprimento das normas disciplinadoras do plantio e da cultura da vinha;\n\nd) Propor o valor das taxas a que se refere o artigo 6.º\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+  },
+  "108210638": {
+   "fragment_id": "36135175",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime da vinha",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Regime da vinha\n\nSão consideradas para efeito deste diploma as vinhas:\n\na) Cuja categoria de utilização seja a constante do respectivo direito de plantação, com uma superfície efectivamente existente não superior à autorizada e que satisfaçam as restantes disposições do presente diploma;\n\nb) Plantadas anteriormente à publicação do Decreto-Lei n.º 21086, de 13 de Abril de 1932;\n\nc) Plantadas após a publicação do Decreto-Lei n.º 21086, de 13 de Abril de 1932, desde que a plantação tenha sido efectuada nos termos legais então vigentes ou que tenham sido objecto de legalização;\n\nd) Plantadas ao abrigo da alínea b) do artigo 2.º do Decreto-Lei n.º 38525, de 23 de Novembro de 1951.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+  },
+  "108210639": {
+   "fragment_id": "36135275",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo Central Vitícola",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Registo Central Vitícola\n\n1 - É instituído o Registo Central Vitícola, o qual contém a identificação das parcelas de vinha e dos respectivos proprietários, a discriminação dos direitos de plantação atribuídos e os demais elementos de informação necessários à gestão do potencial vitícola e à adequada aplicação das medidas de gestão do mercado vitivinícola.\n\n2 - Os serviços competentes dos governos próprios das Regiões Autónomas dos Açores e da Madeira deverão enviar ao IVV os elementos necessários ao Registo Central Vitícola.\n\n3 - Mediante portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, serão definidos os elementos de informação que integram o Registo Central Vitícola, bem como os documentos a emitir com base nesse registo.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+  },
+  "108210640": {
+   "fragment_id": "36135375",
+   "type": 11,
+   "heading": "Artigo 6.º — Taxas",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Taxas\n\n1 - Nos termos estabelecidos no artigo 2.º, são fixados os valores, o modo de cobrança e demais condições de aplicação de regime das taxas relativo às taxas que incidem sobre:\n\na) A concessão de direitos de novas plantações e de replantações;\n\nb) A realização de vistorias às vinhas;\n\nc) O processo de legalização das vinhas, nos termos do n.º 2 do artigo 7.º e do artigo 8.º\n\n2 - A cobrança coerciva das taxas referidas no número anterior é feita pelo processo das execuções fiscais, nos termos consagrados pelo Código de Processo Tributário.\n\n3 - Os processos referidos no número anterior, qualquer que seja a sua natureza, têm por base certidões emitidas pelo IVV ou pelas entidades certificadoras, com valor de título executivo, das quais devem constar os elementos referidos no artigo 249.º do Código de Processo Tributário.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+  },
+  "108210641": {
+   "fragment_id": "36135475",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime sancionatório",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Regime sancionatório\n\n1 - A vinha ilegal que, por não possuir direito de replantação ou de nova plantação ou por apresentar uma categoria de utilização diferente da autorizada, deve ser arrancada pelo seu proprietário no prazo de 12 meses a contar da data da notificação do IVV, no todo ou na parte que exceder o respectivo direito.\n\n2 - A decisão de arranque de uma vinha ilegal pode ser revogada se, no prazo a que se refere o número anterior, o proprietário obtiver um direito de replantação por transferência ou por arranque de compensação, observadas as disposições a fixar nos termos do artigo 2.º\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+  },
+  "108210642": {
+   "fragment_id": "36135575",
+   "type": 11,
+   "heading": "Artigo 8.º — Disposições transitórias",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 423/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1999-667355), em vigor a partir de 1999-10-26"
+   ],
+   "markdown": "###### Artigo 8.º — Disposições transitórias\n\n1 - Para efeitos de legalização das plantações efectuadas até 31 de Dezembro de 1990, a confirmar por vistoria, são consideradas as declarações já efectuadas ou a efectuar no prazo de seis meses após a publicação do presente diploma, no modelo de impresso aprovado pela Portaria n.º 125/86, de 2 de Abril.\n\n2 - As declarações emitidas nos termos do n.º 1 do artigo 1.º do Decreto-Lei n.º 504-I/85, de 31 de Dezembro, mantêm-se válidas até à emissão do documento a que se refere o n.º 3 do artigo 5.º\n\n3 - Sem prejuízo do disposto no n.º 1, as declarações apresentadas podem ser igualmente confirmadas pelo Registo Central Vitícola, criado pelo artigo 5.º do presente diploma.\n\n4 - Às vinhas plantadas ao abrigo do disposto no Decreto-Lei n.º 41066, de 11 de Abril de 1957, passam a aplicar-se as disposições contidas no presente diploma.\n\n5 - As plantações de vinha efectuadas com base numa autorização de transferência de área de vinha continuam sujeitas à exigência de arranque das vinhas originárias.\n\n6 - Para os pedidos de replantação que se encontrem pendentes, bem como para os de renovação de licenças emitidas, mantêm-se os direitos entretanto constituídos.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 423/99 - Diário da República n.º 246/1999, Série I-A de 1999-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1999-667355), em vigor a partir de 1999-10-26"
+  },
+  "108210643": {
+   "fragment_id": "36135675",
+   "type": 11,
+   "heading": "Artigo 9.º — Revogações",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Revogações\n\nSão revogados o Decreto-Lei n.º 319/72, de 18 de Agosto, o Decreto-Lei n.º 513-D/79, de 24 de Dezembro, o Decreto-Lei n.º 87/81, de 28 de Abril, e o Decreto-Lei n.º 504-I/85, de 30 de Dezembro.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+  },
+  "108210644": {
+   "fragment_id": "36135775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Janeiro de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva.\n\nPromulgado em 24 de Março de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 31 de Março de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 176/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2015-70095702), em vigor a partir de 2016-01-01"
+  }
+ }
+}

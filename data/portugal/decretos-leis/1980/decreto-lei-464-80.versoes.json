@@ -1,0 +1,930 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:462049:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1980-34505275",
+ "dre_path": "/dr/detalhe/decreto-lei/464-1980-462049",
+ "source_lastmod": "2026-08-21",
+ "versions": [
+  {
+   "date": "1980-10-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "43637775",
+    "43637875",
+    "43637975",
+    "43638075",
+    "43638175",
+    "43638275",
+    "43638375",
+    "43638475",
+    "43638575",
+    "43638675",
+    "43638775",
+    "43638875",
+    "43638975",
+    "43639075",
+    "43639175",
+    "43639275",
+    "43639375",
+    "43639475",
+    "43639575",
+    "43639675",
+    "43639775",
+    "43639875",
+    "43639975",
+    "43640075",
+    "43640175",
+    "43640275",
+    "43640375"
+   ]
+  },
+  {
+   "date": "2002-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:276037:por",
+     "title": "Decreto-Lei n.º 18/2002",
+     "published": "2002-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/18-2002-276037"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "43637775",
+    "43637875",
+    "43637975",
+    "56879084",
+    "43638175",
+    "43638275",
+    "56879085",
+    "43638475",
+    "43638575",
+    "43638675",
+    "43638775",
+    "43638875",
+    "43638975",
+    "43639075",
+    "43639175",
+    "43639275",
+    "43639375",
+    "43639475",
+    "43639575",
+    "43639675",
+    "43639775",
+    "43639875",
+    "43639975",
+    "43640075",
+    "43640175",
+    "43640275",
+    "43640375",
+    "43640575"
+   ]
+  },
+  {
+   "date": "2010-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:609990:por",
+     "title": "Lei n.º 3-B/2010",
+     "published": "2010-04-28",
+     "dre_path": "/dr/detalhe/lei/3-b-2010-609990"
+    }
+   ],
+   "changes": [
+    "Adita Anexo I",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "43637775",
+    "43637875",
+    "43637975",
+    "56879091",
+    "43638175",
+    "43638275",
+    "56879093",
+    "43638475",
+    "43638575",
+    "43638675",
+    "43638775",
+    "43638875",
+    "43638975",
+    "43639075",
+    "43639175",
+    "43639275",
+    "43639375",
+    "43639475",
+    "43639575",
+    "43639675",
+    "43639775",
+    "43639875",
+    "43639975",
+    "43640075",
+    "43640175",
+    "43640275",
+    "43640375",
+    "43640575",
+    "56879090"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164427:por",
+     "title": "Decreto-Lei n.º 167-E/2013",
+     "published": "2013-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/167-e-2013-164427"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "43637775",
+    "43637875",
+    "43637975",
+    "56879091",
+    "43638175",
+    "56879096",
+    "56879093",
+    "43638475",
+    "43638575",
+    "43638675",
+    "43638775",
+    "43638875",
+    "43638975",
+    "43639075",
+    "43639175",
+    "43639275",
+    "43639375",
+    "43639475",
+    "43639575",
+    "43639675",
+    "43639775",
+    "43639875",
+    "43639975",
+    "43640075",
+    "43640175",
+    "43640275",
+    "43640375",
+    "43640575",
+    "56879090"
+   ]
+  },
+  {
+   "date": "2017-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108269605:por",
+     "title": "Decreto-Lei n.º 126-A/2017",
+     "published": "2017-10-06",
+     "dre_path": "/dr/detalhe/decreto-lei/126-a-2017-108269605"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "43637775",
+    "43637875",
+    "43637975",
+    "56879091",
+    "43638175",
+    "56879096",
+    "123927948",
+    "123927949",
+    "43638575",
+    "43638675",
+    "43638775",
+    "43638875",
+    "43638975",
+    "43639075",
+    "43639175",
+    "43639275",
+    "43639375",
+    "43639475",
+    "43639575",
+    "43639675",
+    "43639775",
+    "43639875",
+    "43639975",
+    "43640075",
+    "43640175",
+    "43640275",
+    "43640375",
+    "43640575",
+    "56879090"
+   ]
+  },
+  {
+   "date": "2019-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124500726:por",
+     "title": "Decreto-Lei n.º 136/2019",
+     "published": "2019-09-06",
+     "dre_path": "/dr/detalhe/decreto-lei/136-2019-124500726"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A"
+   ],
+   "fragments": [
+    "43637775",
+    "43637875",
+    "43637975",
+    "56879091",
+    "43638175",
+    "56879096",
+    "123927948",
+    "123927949",
+    "43638575",
+    "43638675",
+    "43638775",
+    "124530461",
+    "43638875",
+    "43638975",
+    "43639075",
+    "43639175",
+    "43639275",
+    "43639375",
+    "43639475",
+    "43639575",
+    "43639675",
+    "43639775",
+    "43639875",
+    "43639975",
+    "43640075",
+    "43640175",
+    "43640275",
+    "43640375",
+    "43640575",
+    "56879090"
+   ]
+  },
+  {
+   "date": "2026-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1156670556:por",
+     "title": "Decreto-Lei n.º 166/2026",
+     "published": "2026-08-13",
+     "dre_path": "/dr/detalhe/decreto-lei/166-2026-1156670556"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1158029775",
+    "1158029975",
+    "1158030075",
+    "1158030175",
+    "1158030275",
+    "1158030375",
+    "123927948",
+    "123927949",
+    "1158030675",
+    "1158030775",
+    "1158030875",
+    "1158030975",
+    "1158031075",
+    "1158031175",
+    "1158031275",
+    "1158031375",
+    "1158031475",
+    "1158031575",
+    "1158031675",
+    "1158031775",
+    "1158031875",
+    "1158031975",
+    "1158032075",
+    "1158032175",
+    "1158032275",
+    "1158032375",
+    "1158032475",
+    "1158032575",
+    "1158032675",
+    "1158032775"
+   ]
+  }
+ ],
+ "fragments": {
+  "43637775": {
+   "fragment_id": "35125075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. De entre os objectivos que o Governo se propõe alcançar no domínio da segurança social destaca-se a melhoria da protecção social à população mais carenciada através de um conjunto de medidas específicas, acompanhadas de acções tendentes a evitar, tanto quanto possível, a utilização indevida de prestações.\n\nAo mesmo tempo, através da correspondente definição de prioridades deve procurar-se a real igualização de oportunidades dos mais carecidos no acesso aos esquemas de protecção.\n\nA par daquelas medidas torna-se ainda necessário, no entanto, maior rigor na atribuição das prestações e efectivo contrôle da aplicação dos critérios exigidos para a sua concessão, como forma de evitar que a coerência e unidade lógica que deve presidir às intervenções ou às respostas da segurança social, no seu conjunto, seja na prática destruída ou subvertida pelo acesso às prestações de pessoas que a elas não têm direito e portanto se colocam em situação privilegiada.\n\n2. No âmbito de um processo global de revisão das normas que regem a concessão e contrôle das prestações de segurança social, inicia-se assim, com este diploma, uma fase da reformulação gradual dos comandos normativos da pensão social, dentro da limitação dos recursos disponíveis e tendo em conta o necessário sentido das realidades.\n\nA regionalização do sistema, que começa agora a dar os primeiros passos com a implantação dos centros regionais na totalidade dos distritos do continente, deve constituir o meio de detectar e eliminar alguns dos males de que enferma a segurança social, nomeadamente no que se refere à excessiva concentração de actos e poderes decisórios nos departamentos centrais.\n\nEssa concentração tem provocado tendencialmente uma certa desumanização das prestações e degradação da moralidade na sua atribuição, que devem ser evitadas.\n\nCom esses objectivos, estabelece-se que a organização dos processos tenha lugar nos centros regionais de segurança social, sendo da responsabilidade da Caixa Nacional de Pensões apenas o processamento e pagamento.\n\nA intervenção dos serviços regionais de acção social funcionando já em termos integrados vai permitir, através da elaboração de relatórios sobre as condições económicas e sociais dos interessados e dos agregados familiares em que se inserem, uma maior correspondência das prestações atribuídas a situações de real necessidade.\n\n3. Introduzem-se, ainda, algumas outras inovações tendentes a evitar o recebimento indevido da prestação, como seja a exigência de prova periódica de insuficiência de recursos e a obrigatoriedade da declaração da superveniência de rendimentos, uma vez que na legislação anterior apenas se previa a apresentação de atestado administrativo comprovativo da não existência daqueles, aquando da habilitação inicial.\n\nPor outro lado, actualizam-se os valores relativos à condição de recursos, os quais passam a ser função do salário mínimo nacional.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "43637875": {
+   "fragment_id": "35231675",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito e condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Âmbito e condições de atribuição"
+  },
+  "43637975": {
+   "fragment_id": "36344875",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito da pensão social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito da pensão social)\n\n1 - Têm direito à pensão social os cidadãos portugueses, residentes em território nacional, que preencham cumulativamente os seguintes requisitos:\n\na) Não se encontrarem abrangidos por qualquer regime contributivo de inscrição obrigatória ou pelos regimes transitórios de pensões de previdência rural;\n\nb) Não auferirem rendimentos de qualquer natureza ou, em caso positivo, não excederem estes o limite estabelecido no presente diploma, sem prejuízo do disposto no artigo 8.º\n\n2 - Consideram-se em situação equivalente à prevista na alínea a) do número anterior as pessoas que, estando embora abrangidas pelos regimes aí referidos:\n\na) Não satisfaçam os prazos de garantia definidos nos respectivos regulamentos;\n\nb) Sendo pensionistas de invalidez, velhice ou sobrevivência, tenham direito a pensão de montante inferior ao da pensão social."
+  },
+  "43638075": {
+   "fragment_id": "36344975",
+   "type": 11,
+   "heading": "Artigo 2.º — (Condição de recursos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Condição de recursos)\n\n1 - A pensão social será atribuída, sem prejuízo do disposto no artigo 8.º, às pessoas que se encontrem nas condições definidas pelos artigos anteriores, cujos rendimentos ilíquidos mensais não excedam 30% da remuneração mínima garantida à generalidade dos trabalhadores ou 50% dessa remuneração, tratando-se de casal.\n\n2 - A fórmula de definição da condição de recursos poderá ser alterada por portaria do Ministro dos Assuntos Sociais."
+  },
+  "43638175": {
+   "fragment_id": "36345075",
+   "type": 11,
+   "heading": "Artigo 3.º — (Natureza da pensão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Natureza da pensão)\n\n1 - A pensão social é atribuída mensalmente nas situações de velhice ou invalidez nos termos dos artigos seguintes.\n\n2 - No mês de Dezembro de cada ano os pensionistas têm direito a receber, para além da pensão mensal outra prestação de igual montante."
+  },
+  "43638275": {
+   "fragment_id": "36345175",
+   "type": 11,
+   "heading": "Artigo 4.º — (Pensão social de velhice)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Pensão social de velhice)\n\nA pensão social de velhice é atribuída às pessoas de idade igual ou superior a 65 anos."
+  },
+  "43638375": {
+   "fragment_id": "36345275",
+   "type": 11,
+   "heading": "Artigo 5.º — (Pensão social de invalidez)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Pensão social de invalidez)\n\nA pensão social de invalidez é atribuída às pessoas com idade superior a 18 anos que forem reconhecidas como inválidas para toda e qualquer profissão."
+  },
+  "43638475": {
+   "fragment_id": "36345375",
+   "type": 11,
+   "heading": "Artigo 6.º — (Presunção de incapacidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Presunção de incapacidade)\n\nSem prejuízo da verificação posterior da situação de invalidez, sempre que se entenda conveniente, os utentes de abono complementar a deficientes ou de subsídio mensal vitalício passam a ter direito a pensão social de invalidez desde que satisfaçam a respectiva condição de recursos e com respeito das normas de articulação entre aquelas prestações."
+  },
+  "43638575": {
+   "fragment_id": "36345475",
+   "type": 11,
+   "heading": "Artigo 7.º — (Definição do valor das pensões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Definição do valor das pensões)\n\nO valor mensal da pensão social será definido em portaria do Ministro dos Assuntos Sociais."
+  },
+  "43638675": {
+   "fragment_id": "36345575",
+   "type": 11,
+   "heading": "Artigo 8.º — (Pensão social de substituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Pensão social de substituição)\n\n1 - A pensão social substitui, nos casos previstos na alínea b) do n.º 2 do artigo 1.º, as pensões aí referidas enquanto estas forem de montante inferior àquela.\n\n2 - Os pensionistas poderão, no entanto, optar pelas pensões referidas na parte final do número anterior, nomeadamente quando pelas regras próprias de acumulação de prestações seriam prejudicados pela atribuição de pensão social.\n\n> Nota: [Decreto-Lei n.º 141/91 - Diário da República n.º 83/1991, Série I-A de 1991-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263) Considera-se derrogado o artigo 8.º, na parte respeitante aos pensionistas de sobrevivência."
+  },
+  "43638775": {
+   "fragment_id": "36345675",
+   "type": 11,
+   "heading": "Artigo 9.º — (Pensão reduzida)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Pensão reduzida)\n\n1 - Sempre que se verifique superveniência de rendimentos que ultrapasse o limite definido como condição de recursos, a pensão será reduzida do valor correspondente ao excesso, a partir do mês seguinte àquele em que a superveniência de rendimentos deva ser comunicada.\n\n2 - Não haverá lugar à atribuição de pensão nos casos em que da aplicação da regra do número anterior resultem valores inferiores ao montante mais baixo do abono de família."
+  },
+  "43638875": {
+   "fragment_id": "35231775",
+   "type": 1,
+   "heading": "Capítulo II — Disposições processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições processuais"
+  },
+  "43638975": {
+   "fragment_id": "36345775",
+   "type": 11,
+   "heading": "Artigo 10.º — (Organismos competentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Organismos competentes)\n\nCompete aos centros regionais de segurança social da área da residência dos interessados a organização dos processos de atribuição da pensão social e à Caixa Nacional de Pensões o respectivo processamento e pagamento."
+  },
+  "43639075": {
+   "fragment_id": "36345875",
+   "type": 11,
+   "heading": "Artigo 11.º — (Habilitação e meios de prova)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Habilitação e meios de prova)\n\nPara habilitação à pensão social os interessados deverão recorrer ao centro regional de segurança social do distrito da respectiva residência, apresentando os seguintes documentos:\n\na) Boletim de inscrição de modelo próprio;\n\nb) Certidão de assento de nascimento ou outro meio de prova legal que a substitua, devendo considerar-se prova bastante a apresentação do bilhete de identidade ou respectiva fotocópia autenticada;\n\nc) Declaração formal do interessado do montante dos rendimentos que aufere e da origem desses mesmos rendimentos."
+  },
+  "43639175": {
+   "fragment_id": "36345975",
+   "type": 11,
+   "heading": "Artigo 12.º — (Organização dos processos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Organização dos processos)\n\n1 - Os processos deverão compreender, além dos documentos iniciais de habilitação, os seguintes documentos:\n\na) Um relatório dos serviços de acção social do centro regional sobre as condições económicas e sociais do interessado ou do casal, de acordo com a parte final do n.º 1 do artigo 2.º;\n\nb) Quaisquer outros elementos que o centro regional considere adequados à correcta definição da situação dos interessados, designadamente averiguação oficiosa de rendimentos ou da situação tributária do requerente ou do casal.\n\n2 - Quando se trate de pensão social de invalidez e sem prejuízo do disposto no artigo 6.º, os processos deverão conter ainda o respectivo relatório da comissão de verificação de invalidez ou da junta médica efectuada a solicitação do centro regional.\n\n3 - O relatório a que se refere a alínea a) do n.º 1 pode ser dispensado sempre que os elementos constantes do processo sejam suficientes para a tomada de decisão."
+  },
+  "43639275": {
+   "fragment_id": "36346075",
+   "type": 11,
+   "heading": "Artigo 13.º — (Deferimento e pagamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Deferimento e pagamento)\n\n1 - Uma vez devidamente instruídos, serão os processos objecto de decisão do centro regional.\n\n2 - Em caso de deferimento serão enviados à Caixa Nacional de Pensões os elementos necessários ao processamento e pagamento de pensão.\n\n3 - Caso se verifique que o interessado se encontra abrangido por qualquer regime contributivo de inscrição obrigatória, será o facto comunicado ao centro regional, acompanhado da informação quanto ao processamento da pensão nas condições previstas no n.º 2 do artigo 1.º, se esta situação se verificar."
+  },
+  "43639375": {
+   "fragment_id": "36346175",
+   "type": 11,
+   "heading": "Artigo 14.º — (Actualização dos meios de prova)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Actualização dos meios de prova)\n\n1 - Os titulares da pensão social devem apresentar de três em três anos, nos prazos que forem estabelecidos, prova de manutenção da condição de recursos estabelecida no artigo 2.º\n\n2 - A falta da apresentação de prova nas condições do número anterior determina a suspensão da pensão."
+  },
+  "43639475": {
+   "fragment_id": "36346275",
+   "type": 11,
+   "heading": "Artigo 15.º — (Declaração de superveniência de rendimentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Declaração de superveniência de rendimentos)\n\nA superveniência de rendimentos que ultrapasse os limites referidos no artigo 2.º será obrigatoriamente comunicada ao centro regional no mês seguinte àquele em que se verificou."
+  },
+  "43639575": {
+   "fragment_id": "36346375",
+   "type": 11,
+   "heading": "Artigo 16.º — (Averiguação oficiosa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Averiguação oficiosa)\n\nOs centros regionais e a Caixa Nacional de Pensões podem a todo o tempo e quando o considerem justificado solicitar a renovação da prova da condição de recursos ou de qualquer outra das condições de atribuição da pensão social susceptível de se modificar com o decurso do tempo."
+  },
+  "43639675": {
+   "fragment_id": "35231875",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "43639775": {
+   "fragment_id": "36346475",
+   "type": 11,
+   "heading": "Artigo 17.º — (Regulamentação transitória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Regulamentação transitória)\n\nEm tudo o que não se encontre previsto neste diploma observam-se as disposições regulamentares aplicáveis às pensões de velhice e invalidez do regime geral de previdência."
+  },
+  "43639875": {
+   "fragment_id": "36346575",
+   "type": 11,
+   "heading": "Artigo 18.º — (Revisão das situações anteriores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Revisão das situações anteriores)\n\nAs situações em que se verifica, à data da entrada em vigor do presente diploma, atribuição da pensão social serão gradualmente sujeitas a revisão através de relatório dos serviços de acção social do centro regional nos termos previstos no artigo 12.º, n.º 1."
+  },
+  "43639975": {
+   "fragment_id": "36346675",
+   "type": 11,
+   "heading": "Artigo 19.º — (Aplicação da lei nova)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Aplicação da lei nova)\n\n1 - Aplicam-se aos processos pendentes à data da publicação e aos requerimentos apresentados até ao início de vigência do presente diploma as disposições que estabelecem condições mais favoráveis de acesso à pensão social de invalidez ou velhice.\n\n2 - A Caixa Nacional de Pensões pode solicitar aos centros regionais a realização de inquérito social ou de qualquer outro meio de prova que considere necessário à correcta definição do direito."
+  },
+  "43640075": {
+   "fragment_id": "36346775",
+   "type": 11,
+   "heading": "Artigo 20.º — (Competência transitória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Competência transitória)\n\n1 - Enquanto não se encontrar implantada a estrutura regional do distrito de Lisboa da segurança social, a respectiva caixa de previdência e abono de família dos serviços exerce na sua área de actuação a competência atribuída aos centros regionais.\n\n2 - No exercício da competência reconhecida no n.º 1 a caixa articula a sua acção com a da Santa Casa da Misericórdia de Lisboa e a do Instituto da Família e Acção Social, designadamente quanto à intervenção dos serviços de acção social."
+  },
+  "43640175": {
+   "fragment_id": "36346875",
+   "type": 11,
+   "heading": "Artigo 21.º — (Interpretação e integração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Interpretação e integração)\n\nPor despacho do Ministro dos Assuntos Sociais serão resolvidas as dúvidas e integrados os casos omissos que se suscitarem na aplicação do presente diploma."
+  },
+  "43640275": {
+   "fragment_id": "36346975",
+   "type": 11,
+   "heading": "Artigo 22.º — (Instruções de execução)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Instruções de execução)\n\nSem prejuízo de aplicação deste decreto-lei nos termos nele definidos, a Direcção-Geral da Segurança Social definirá, no decurso do prazo previsto no artigo seguinte, as instruções necessárias à sua regular execução."
+  },
+  "43640375": {
+   "fragment_id": "36347075",
+   "type": 11,
+   "heading": "Artigo 23.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Entrada em vigor)\n\nEste diploma entra em vigor no primeiro dia do segundo mês posterior ao da sua publicação, com ressalva das situações previstas no artigo 19.º"
+  },
+  "56879084": {
+   "fragment_id": "36344975",
+   "type": 11,
+   "heading": "Artigo 2.º — (Condição de recursos)",
+   "in_force_from": "2002-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+   ],
+   "markdown": "###### Artigo 2.º — (Condição de recursos)\n\n1 - A pensão social será atribuída, sem prejuízo do disposto no artigo 8.º, às pessoas que se encontrem nas condições definidas pelos artigos anteriores, cujos rendimentos ilíquidos mensais não excedam 30% da remuneração mínima garantida à generalidade dos trabalhadores ou 50% dessa remuneração, tratando-se de casal.\n\n2 - Para efeitos do disposto no número anterior, são considerados rendimentos os valores recebidos a título de bolsa ou subsídio por frequência de acções de formação profissional.\n\n3 - A fórmula de definição da condição de recursos poderá ser alterada por portaria do Ministro dos Assuntos Sociais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+  },
+  "56879085": {
+   "fragment_id": "36345275",
+   "type": 11,
+   "heading": "Artigo 5.º — (Pensão social de invalidez)",
+   "in_force_from": "2002-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+   ],
+   "markdown": "###### Artigo 5.º — (Pensão social de invalidez)\n\n1 - A pensão social de invalidez é atribuída às pessoas com idade superior a 18 anos que forem reconhecidas como inválidas para toda e qualquer profissão.\n\n2 - Nas situações em que a pessoa com deficiência venha a exercer actividade profissional, o pagamento da pensão social é suspenso durante o período de exercício daquela actividade, desde que os rendimentos auferidos excedam o limite estabelecido no n.º 1 do artigo 2.º\n\n3 - A cessação da actividade a que se refere o número anterior determina o direito ao reinício do pagamento da pensão social suspenso, a partir do dia imediato àquele em que ocorra aquela cessação, desde que a mesma seja comunicada pelo interessado ao serviço de segurança social processador da prestação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+  },
+  "43640575": {
+   "fragment_id": "35231975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 30 de Setembro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "56879091": {
+   "fragment_id": "36344975",
+   "type": 11,
+   "heading": "Artigo 2.º — (Condição de recursos)",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+   ],
+   "markdown": "###### Artigo 2.º — (Condição de recursos)\n\n1 - A pensão social é atribuída às pessoas que se encontrem nas condições definidas pelo artigo anterior, cujos rendimentos ilíquidos mensais não excedam 40 % do valor do indexante de apoios sociais (IAS) ou 60 % desse valor, tratando-se de casal.\n\n2 - Para efeitos do disposto no número anterior, são considerados rendimentos os valores recebidos a título de bolsa ou subsídio por frequência de acções de formação profissional.\n\n3 - A fórmula de definição da condição de recursos poderá ser alterada por portaria do Ministro dos Assuntos Sociais.\n\n4 - No caso de acumulação superveniente com rendimentos de trabalho prevista na presente lei aplica-se o previsto no anexo i.\n\n> Alterado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+  },
+  "56879093": {
+   "fragment_id": "36345275",
+   "type": 11,
+   "heading": "Artigo 5.º — (Pensão social de invalidez)",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+   ],
+   "markdown": "###### Artigo 5.º — (Pensão social de invalidez)\n\n1 - A pensão social de invalidez é atribuída às pessoas com idade superior a 18 anos que forem reconhecidas como inválidas para toda e qualquer profissão.\n\n2 - Nas situações em que a pessoa com deficiência venha a exercer actividade profissional, o pagamento da pensão social é suspenso durante o período de exercício daquela actividade, desde que os rendimentos auferidos excedam o limite estabelecido no n.º 1 do artigo 2.º\n\n3 - A cessação da actividade a que se refere o número anterior determina o direito ao reinício do pagamento da pensão social suspenso, a partir do dia imediato àquele em que ocorra aquela cessação, desde que a mesma seja comunicada pelo interessado ao serviço de segurança social processador da prestação.\n\n4 - Caso a pessoa com deficiência venha a ser beneficiária do subsídio de desemprego, cujo montante exceda o limite estabelecido no n.º 1 do artigo 2.º, quando este cesse é aplicado o número anterior.\n\n> Alterado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+  },
+  "56879090": {
+   "fragment_id": "56882575",
+   "type": 14,
+   "heading": "Anexo I — Limites da acumulação da pensão social de invalidez com rendimentos",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "## Anexo I — Limites da acumulação da pensão social de invalidez com rendimentos\n\n(a que se refere o artigo 2.º)\n\n(ver documento original)\n\n3 - As alterações introduzidas pelo presente artigo ao Decreto-Lei n.º 464/80, de 13 de Outubro, aplicam-se:\n\na) Às pensões requeridas após a sua entrada em vigor;\n\nb) Às relações jurídicas prestacionais, constituídas ao abrigo de legislação anterior e que se mantenham na vigência da lei.\n\n> Aditado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+  },
+  "56879096": {
+   "fragment_id": "36345175",
+   "type": 11,
+   "heading": "Artigo 4.º — (Pensão social de velhice)",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — (Pensão social de velhice)\n\nA pensão social de velhice é atribuída às pessoas de idade igual ou superior à idade normal de acesso à pensão de velhice do regime geral de segurança social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01"
+  },
+  "123927948": {
+   "fragment_id": "36345275",
+   "type": 11,
+   "heading": "Artigo 5.º — (Pensão social de invalidez)",
+   "in_force_from": "2017-10-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01",
+    "Alterado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+   ],
+   "markdown": "###### Artigo 5.º — (Pensão social de invalidez)\n\n1 - A pensão social de invalidez é atribuída às pessoas com idade superior a 18 anos que forem reconhecidas como inválidas para toda e qualquer profissão.\n\n2 - Nas situações em que a pessoa com deficiência venha a exercer actividade profissional, o pagamento da pensão social é suspenso durante o período de exercício daquela actividade, desde que os rendimentos auferidos excedam o limite estabelecido no n.º 1 do artigo 2.º\n\n3 - A cessação da actividade a que se refere o número anterior determina o direito ao reinício do pagamento da pensão social suspenso, a partir do dia imediato àquele em que ocorra aquela cessação, desde que a mesma seja comunicada pelo interessado ao serviço de segurança social processador da prestação.\n\n4 - Caso a pessoa com deficiência venha a ser beneficiária do subsídio de desemprego, cujo montante exceda o limite estabelecido no n.º 1 do artigo 2.º, quando este cesse é aplicado o número anterior.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01\n\n> Alterado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+  },
+  "123927949": {
+   "fragment_id": "36345375",
+   "type": 11,
+   "heading": "Artigo 6.º — (Presunção de incapacidade)",
+   "in_force_from": "2017-10-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — (Presunção de incapacidade)\n\nSem prejuízo da verificação posterior da situação de invalidez, sempre que se entenda conveniente, os utentes de abono complementar a deficientes ou de subsídio mensal vitalício passam a ter direito a pensão social de invalidez desde que satisfaçam a respectiva condição de recursos e com respeito das normas de articulação entre aquelas prestações.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 126-A/2017 - Diário da República n.º 193/2017, 1º Suplemento, Série I de 2017-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-a-2017-108269605), em vigor a partir de 2017-10-07, produz efeitos a partir de 2017-10-01"
+  },
+  "124530461": {
+   "fragment_id": "124530631",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Cessação da pensão social",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Cessação da pensão social\n\n1 - A pensão social de velhice cessa a partir da data de atribuição da prestação social para a inclusão.\n\n2 - O beneficiário pode apresentar novo requerimento para atribuição da pensão social de velhice, caso deixe de preencher os requisitos para atribuição da prestação social para inclusão.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+  },
+  "1158029775": {
+   "fragment_id": "35125075",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "1. De entre os objectivos que o Governo se propõe alcançar no domínio da segurança social destaca-se a melhoria da protecção social à população mais carenciada através de um conjunto de medidas específicas, acompanhadas de acções tendentes a evitar, tanto quanto possível, a utilização indevida de prestações.\n\nAo mesmo tempo, através da correspondente definição de prioridades deve procurar-se a real igualização de oportunidades dos mais carecidos no acesso aos esquemas de protecção.\n\nA par daquelas medidas torna-se ainda necessário, no entanto, maior rigor na atribuição das prestações e efectivo contrôle da aplicação dos critérios exigidos para a sua concessão, como forma de evitar que a coerência e unidade lógica que deve presidir às intervenções ou às respostas da segurança social, no seu conjunto, seja na prática destruída ou subvertida pelo acesso às prestações de pessoas que a elas não têm direito e portanto se colocam em situação privilegiada.\n\n2. No âmbito de um processo global de revisão das normas que regem a concessão e contrôle das prestações de segurança social, inicia-se assim, com este diploma, uma fase da reformulação gradual dos comandos normativos da pensão social, dentro da limitação dos recursos disponíveis e tendo em conta o necessário sentido das realidades.\n\nA regionalização do sistema, que começa agora a dar os primeiros passos com a implantação dos centros regionais na totalidade dos distritos do continente, deve constituir o meio de detectar e eliminar alguns dos males de que enferma a segurança social, nomeadamente no que se refere à excessiva concentração de actos e poderes decisórios nos departamentos centrais.\n\nEssa concentração tem provocado tendencialmente uma certa desumanização das prestações e degradação da moralidade na sua atribuição, que devem ser evitadas.\n\nCom esses objectivos, estabelece-se que a organização dos processos tenha lugar nos centros regionais de segurança social, sendo da responsabilidade da Caixa Nacional de Pensões apenas o processamento e pagamento.\n\nA intervenção dos serviços regionais de acção social funcionando já em termos integrados vai permitir, através da elaboração de relatórios sobre as condições económicas e sociais dos interessados e dos agregados familiares em que se inserem, uma maior correspondência das prestações atribuídas a situações de real necessidade.\n\n3. Introduzem-se, ainda, algumas outras inovações tendentes a evitar o recebimento indevido da prestação, como seja a exigência de prova periódica de insuficiência de recursos e a obrigatoriedade da declaração da superveniência de rendimentos, uma vez que na legislação anterior apenas se previa a apresentação de atestado administrativo comprovativo da não existência daqueles, aquando da habilitação inicial.\n\nPor outro lado, actualizam-se os valores relativos à condição de recursos, os quais passam a ser função do salário mínimo nacional.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158029975": {
+   "fragment_id": "35231675",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito e condições de atribuição",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "### Capítulo I — Âmbito e condições de atribuição\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158030075": {
+   "fragment_id": "36344875",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito da pensão social)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 1.º — (Âmbito da pensão social)\n\n1 - Têm direito à pensão social os cidadãos portugueses, residentes em território nacional, que preencham cumulativamente os seguintes requisitos:\n\na) Não se encontrarem abrangidos por qualquer regime contributivo de inscrição obrigatória ou pelos regimes transitórios de pensões de previdência rural;\n\nb) Não auferirem rendimentos de qualquer natureza ou, em caso positivo, não excederem estes o limite estabelecido no presente diploma, sem prejuízo do disposto no artigo 8.º\n\n2 - Consideram-se em situação equivalente à prevista na alínea a) do número anterior as pessoas que, estando embora abrangidas pelos regimes aí referidos:\n\na) Não satisfaçam os prazos de garantia definidos nos respectivos regulamentos;\n\nb) Sendo pensionistas de invalidez, velhice ou sobrevivência, tenham direito a pensão de montante inferior ao da pensão social.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158030175": {
+   "fragment_id": "36344975",
+   "type": 11,
+   "heading": "Artigo 2.º — (Condição de recursos)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.",
+    "Alterado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+   ],
+   "markdown": "###### Artigo 2.º — (Condição de recursos)\n\n1 - A pensão social é atribuída às pessoas que se encontrem nas condições definidas pelo artigo anterior, cujos rendimentos ilíquidos mensais não excedam 40 % do valor do indexante de apoios sociais (IAS) ou 60 % desse valor, tratando-se de casal.\n\n2 - Para efeitos do disposto no número anterior, são considerados rendimentos os valores recebidos a título de bolsa ou subsídio por frequência de acções de formação profissional.\n\n3 - A fórmula de definição da condição de recursos poderá ser alterada por portaria do Ministro dos Assuntos Sociais.\n\n4 - No caso de acumulação superveniente com rendimentos de trabalho prevista na presente lei aplica-se o previsto no anexo i.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.\n\n> Alterado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2002 - Diário da República n.º 24/2002, Série I-A de 2002-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2002-276037), em vigor a partir de 2002-02-03"
+  },
+  "1158030275": {
+   "fragment_id": "36345075",
+   "type": 11,
+   "heading": "Artigo 3.º — (Natureza da pensão)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 3.º — (Natureza da pensão)\n\n1 - A pensão social é atribuída mensalmente nas situações de velhice ou invalidez nos termos dos artigos seguintes.\n\n2 - No mês de Dezembro de cada ano os pensionistas têm direito a receber, para além da pensão mensal outra prestação de igual montante.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158030375": {
+   "fragment_id": "36345175",
+   "type": 11,
+   "heading": "Artigo 4.º — (Pensão social de velhice)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — (Pensão social de velhice)\n\nA pensão social de velhice é atribuída às pessoas de idade igual ou superior à idade normal de acesso à pensão de velhice do regime geral de segurança social.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-E/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-e-2013-164427), em vigor a partir de 2014-01-01"
+  },
+  "1158030675": {
+   "fragment_id": "36345475",
+   "type": 11,
+   "heading": "Artigo 7.º — (Definição do valor das pensões)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 7.º — (Definição do valor das pensões)\n\nO valor mensal da pensão social será definido em portaria do Ministro dos Assuntos Sociais.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158030775": {
+   "fragment_id": "36345575",
+   "type": 11,
+   "heading": "Artigo 8.º — (Pensão social de substituição)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 8.º — (Pensão social de substituição)\n\n1 - A pensão social substitui, nos casos previstos na alínea b) do n.º 2 do artigo 1.º, as pensões aí referidas enquanto estas forem de montante inferior àquela.\n\n2 - Os pensionistas poderão, no entanto, optar pelas pensões referidas na parte final do número anterior, nomeadamente quando pelas regras próprias de acumulação de prestações seriam prejudicados pela atribuição de pensão social.\n\n> Nota: [Decreto-Lei n.º 141/91 - Diário da República n.º 83/1991, Série I-A de 1991-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1991-616263) Considera-se derrogado o artigo 8.º, na parte respeitante aos pensionistas de sobrevivência.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158030875": {
+   "fragment_id": "36345675",
+   "type": 11,
+   "heading": "Artigo 9.º — (Pensão reduzida)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 9.º — (Pensão reduzida)\n\n1 - Sempre que se verifique superveniência de rendimentos que ultrapasse o limite definido como condição de recursos, a pensão será reduzida do valor correspondente ao excesso, a partir do mês seguinte àquele em que a superveniência de rendimentos deva ser comunicada.\n\n2 - Não haverá lugar à atribuição de pensão nos casos em que da aplicação da regra do número anterior resultem valores inferiores ao montante mais baixo do abono de família.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158030975": {
+   "fragment_id": "124530631",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Cessação da pensão social",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.",
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Cessação da pensão social\n\n1 - A pensão social de velhice cessa a partir da data de atribuição da prestação social para a inclusão.\n\n2 - O beneficiário pode apresentar novo requerimento para atribuição da pensão social de velhice, caso deixe de preencher os requisitos para atribuição da prestação social para inclusão.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 136/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2019-124500726), em vigor a partir de 2019-09-07, produz efeitos a partir de 2019-10-01"
+  },
+  "1158031075": {
+   "fragment_id": "35231775",
+   "type": 1,
+   "heading": "Capítulo II — Disposições processuais",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "### Capítulo II — Disposições processuais\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158031175": {
+   "fragment_id": "36345775",
+   "type": 11,
+   "heading": "Artigo 10.º — (Organismos competentes)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 10.º — (Organismos competentes)\n\nCompete aos centros regionais de segurança social da área da residência dos interessados a organização dos processos de atribuição da pensão social e à Caixa Nacional de Pensões o respectivo processamento e pagamento.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158031275": {
+   "fragment_id": "36345875",
+   "type": 11,
+   "heading": "Artigo 11.º — (Habilitação e meios de prova)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 11.º — (Habilitação e meios de prova)\n\nPara habilitação à pensão social os interessados deverão recorrer ao centro regional de segurança social do distrito da respectiva residência, apresentando os seguintes documentos:\n\na) Boletim de inscrição de modelo próprio;\n\nb) Certidão de assento de nascimento ou outro meio de prova legal que a substitua, devendo considerar-se prova bastante a apresentação do bilhete de identidade ou respectiva fotocópia autenticada;\n\nc) Declaração formal do interessado do montante dos rendimentos que aufere e da origem desses mesmos rendimentos.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158031375": {
+   "fragment_id": "36345975",
+   "type": 11,
+   "heading": "Artigo 12.º — (Organização dos processos)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 12.º — (Organização dos processos)\n\n1 - Os processos deverão compreender, além dos documentos iniciais de habilitação, os seguintes documentos:\n\na) Um relatório dos serviços de acção social do centro regional sobre as condições económicas e sociais do interessado ou do casal, de acordo com a parte final do n.º 1 do artigo 2.º;\n\nb) Quaisquer outros elementos que o centro regional considere adequados à correcta definição da situação dos interessados, designadamente averiguação oficiosa de rendimentos ou da situação tributária do requerente ou do casal.\n\n2 - Quando se trate de pensão social de invalidez e sem prejuízo do disposto no artigo 6.º, os processos deverão conter ainda o respectivo relatório da comissão de verificação de invalidez ou da junta médica efectuada a solicitação do centro regional.\n\n3 - O relatório a que se refere a alínea a) do n.º 1 pode ser dispensado sempre que os elementos constantes do processo sejam suficientes para a tomada de decisão.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158031475": {
+   "fragment_id": "36346075",
+   "type": 11,
+   "heading": "Artigo 13.º — (Deferimento e pagamento)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 13.º — (Deferimento e pagamento)\n\n1 - Uma vez devidamente instruídos, serão os processos objecto de decisão do centro regional.\n\n2 - Em caso de deferimento serão enviados à Caixa Nacional de Pensões os elementos necessários ao processamento e pagamento de pensão.\n\n3 - Caso se verifique que o interessado se encontra abrangido por qualquer regime contributivo de inscrição obrigatória, será o facto comunicado ao centro regional, acompanhado da informação quanto ao processamento da pensão nas condições previstas no n.º 2 do artigo 1.º, se esta situação se verificar.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158031575": {
+   "fragment_id": "36346175",
+   "type": 11,
+   "heading": "Artigo 14.º — (Actualização dos meios de prova)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 14.º — (Actualização dos meios de prova)\n\n1 - Os titulares da pensão social devem apresentar de três em três anos, nos prazos que forem estabelecidos, prova de manutenção da condição de recursos estabelecida no artigo 2.º\n\n2 - A falta da apresentação de prova nas condições do número anterior determina a suspensão da pensão.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158031675": {
+   "fragment_id": "36346275",
+   "type": 11,
+   "heading": "Artigo 15.º — (Declaração de superveniência de rendimentos)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 15.º — (Declaração de superveniência de rendimentos)\n\nA superveniência de rendimentos que ultrapasse os limites referidos no artigo 2.º será obrigatoriamente comunicada ao centro regional no mês seguinte àquele em que se verificou.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158031775": {
+   "fragment_id": "36346375",
+   "type": 11,
+   "heading": "Artigo 16.º — (Averiguação oficiosa)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 16.º — (Averiguação oficiosa)\n\nOs centros regionais e a Caixa Nacional de Pensões podem a todo o tempo e quando o considerem justificado solicitar a renovação da prova da condição de recursos ou de qualquer outra das condições de atribuição da pensão social susceptível de se modificar com o decurso do tempo.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158031875": {
+   "fragment_id": "35231875",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "### Capítulo III — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158031975": {
+   "fragment_id": "36346475",
+   "type": 11,
+   "heading": "Artigo 17.º — (Regulamentação transitória)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 17.º — (Regulamentação transitória)\n\nEm tudo o que não se encontre previsto neste diploma observam-se as disposições regulamentares aplicáveis às pensões de velhice e invalidez do regime geral de previdência.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158032075": {
+   "fragment_id": "36346575",
+   "type": 11,
+   "heading": "Artigo 18.º — (Revisão das situações anteriores)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 18.º — (Revisão das situações anteriores)\n\nAs situações em que se verifica, à data da entrada em vigor do presente diploma, atribuição da pensão social serão gradualmente sujeitas a revisão através de relatório dos serviços de acção social do centro regional nos termos previstos no artigo 12.º, n.º 1.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158032175": {
+   "fragment_id": "36346675",
+   "type": 11,
+   "heading": "Artigo 19.º — (Aplicação da lei nova)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 19.º — (Aplicação da lei nova)\n\n1 - Aplicam-se aos processos pendentes à data da publicação e aos requerimentos apresentados até ao início de vigência do presente diploma as disposições que estabelecem condições mais favoráveis de acesso à pensão social de invalidez ou velhice.\n\n2 - A Caixa Nacional de Pensões pode solicitar aos centros regionais a realização de inquérito social ou de qualquer outro meio de prova que considere necessário à correcta definição do direito.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158032275": {
+   "fragment_id": "36346775",
+   "type": 11,
+   "heading": "Artigo 20.º — (Competência transitória)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 20.º — (Competência transitória)\n\n1 - Enquanto não se encontrar implantada a estrutura regional do distrito de Lisboa da segurança social, a respectiva caixa de previdência e abono de família dos serviços exerce na sua área de actuação a competência atribuída aos centros regionais.\n\n2 - No exercício da competência reconhecida no n.º 1 a caixa articula a sua acção com a da Santa Casa da Misericórdia de Lisboa e a do Instituto da Família e Acção Social, designadamente quanto à intervenção dos serviços de acção social.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158032375": {
+   "fragment_id": "36346875",
+   "type": 11,
+   "heading": "Artigo 21.º — (Interpretação e integração)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 21.º — (Interpretação e integração)\n\nPor despacho do Ministro dos Assuntos Sociais serão resolvidas as dúvidas e integrados os casos omissos que se suscitarem na aplicação do presente diploma.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158032475": {
+   "fragment_id": "36346975",
+   "type": 11,
+   "heading": "Artigo 22.º — (Instruções de execução)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 22.º — (Instruções de execução)\n\nSem prejuízo de aplicação deste decreto-lei nos termos nele definidos, a Direcção-Geral da Segurança Social definirá, no decurso do prazo previsto no artigo seguinte, as instruções necessárias à sua regular execução.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158032575": {
+   "fragment_id": "36347075",
+   "type": 11,
+   "heading": "Artigo 23.º — (Entrada em vigor)",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "###### Artigo 23.º — (Entrada em vigor)\n\nEste diploma entra em vigor no primeiro dia do segundo mês posterior ao da sua publicação, com ressalva das situações previstas no artigo 19.º\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158032675": {
+   "fragment_id": "35231975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 30 de Setembro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31."
+  },
+  "1158032775": {
+   "fragment_id": "56882575",
+   "type": 14,
+   "heading": "Anexo I — Limites da acumulação da pensão social de invalidez com rendimentos",
+   "in_force_from": "2026-08-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.",
+    "Aditado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "## Anexo I — Limites da acumulação da pensão social de invalidez com rendimentos\n\n(a que se refere o artigo 2.º)\n\n(ver documento original)\n\n3 - As alterações introduzidas pelo presente artigo ao Decreto-Lei n.º 464/80, de 13 de Outubro, aplicam-se:\n\na) Às pensões requeridas após a sua entrada em vigor;\n\nb) Às relações jurídicas prestacionais, constituídas ao abrigo de legislação anterior e que se mantenham na vigência da lei.\n\n> Revogado pelo/a Artigo 62.º do/a [Decreto-Lei n.º 166/2026 - Diário da República n.º 156/2026, Série I de 2026-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2026-1156670556), em vigor a partir de 2026-08-14, com efeitos a partir de 2026-12-31.\n\n> Aditado pelo/a Artigo 57.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+  }
+ }
+}

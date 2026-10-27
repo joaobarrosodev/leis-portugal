@@ -1,0 +1,325 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:223628:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-895681375",
+ "dre_path": "/dr/detalhe/lei/7-1998-223628",
+ "source_lastmod": "2024-11-06",
+ "versions": [
+  {
+   "date": "1998-02-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "895613942",
+    "895613943",
+    "895613944",
+    "895613945",
+    "895613946",
+    "895613947",
+    "895613948",
+    "895613949",
+    "895613950",
+    "895613951",
+    "895613952",
+    "895613953",
+    "895613954",
+    "895613955",
+    "895613956",
+    "895613957",
+    "895613958",
+    "895613959",
+    "895613960",
+    "895613961",
+    "895613962",
+    "895613963",
+    "895613964",
+    "895613965",
+    "895613966"
+   ]
+  },
+  {
+   "date": "1999-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570520:por",
+     "title": "Lei n.º 87-B/98",
+     "published": "1998-12-31",
+     "dre_path": "/dr/detalhe/lei/87-b-1998-570520"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "895613942",
+    "895613943",
+    "895613944",
+    "895613945",
+    "895613946",
+    "895613947",
+    "895613948",
+    "895613949",
+    "895613950",
+    "895613970",
+    "895613952",
+    "895613953",
+    "895613954",
+    "895613955",
+    "895613956",
+    "895613957",
+    "895613969",
+    "895613959",
+    "895613960",
+    "895613961",
+    "895613962",
+    "895613963",
+    "895613964",
+    "895613965",
+    "895613966",
+    "895613968",
+    "895613967"
+   ]
+  }
+ ],
+ "fragments": {
+  "895613942": {
+   "fragment_id": "895681376",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 7/98\n\nde 3 de Fevereiro\n\nRegime geral de emissão e gestão da dívida pública\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alíneas c) e h), e 166.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "895613943": {
+   "fragment_id": "895681377",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Disposições gerais"
+  },
+  "895613944": {
+   "fragment_id": "895681378",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula o regime geral da emissão e gestão da dívida pública directa do Estado."
+  },
+  "895613945": {
+   "fragment_id": "895681379",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios\n\n1 - O recurso ao endividamento público directo deve conformar-se com as necessidades de financiamento geradas pela execução das tarefas prioritárias do Estado, tal como definidas na Constituição da República Portuguesa, salvaguardar, no médio prazo, o equilíbrio tendencial das contas públicas.\n\n2 - A gestão da dívida pública directa deverá orientar-se por princípios de rigor e eficiência, assegurando a disponibilização do financiamento requerido por cada exercício orçamental e prosseguindo os seguintes objectivos:\n\na) Minimização de custos directos e indirectos numa perspectiva de longo prazo;\n\nb) Garantia de uma distribuição equilibrada de custos pelos vários orçamentos anuais;\n\nc) Prevenção de excessiva concentração temporal de amortizações;\n\nd) Não exposição a riscos excessivos;\n\ne) Promoção de um equilibrado e eficiente funcionamento dos mercados financeiros."
+  },
+  "895613946": {
+   "fragment_id": "895681380",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) Dívida pública flutuante: dívida pública contraída para ser totalmente amortizada até ao termo do exercício orçamental em que foi gerada;\n\nb) Dívida pública fundada: dívida contraída para ser totalmente amortizada num exercício orçamental subsequente ao exercício no qual foi gerada;\n\nc) Dívida pública em moeda nacional: dívida pública denominada em moeda com curso legal em Portugal;\n\nd) Dívida pública em moeda estrangeira: dívida pública denominada em moeda sem curso legal em Portugal."
+  },
+  "895613947": {
+   "fragment_id": "895681381",
+   "type": 13,
+   "heading": "Título II — Emissão da dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Emissão da dívida pública"
+  },
+  "895613948": {
+   "fragment_id": "895681382",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições gerais sobre o financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições gerais sobre o financiamento\n\n1 - Por lei da Assembleia da República serão estabelecidas, para cada exercício orçamental, as condições gerais a que se deve subordinar o financiamento do Estado e a gestão da dívida pública, nomeadamente o montante máximo do acréscimo de endividamento líquido autorizado e o prazo máximo dos empréstimos a emitir.\n\n2 - Na lei prevista no número anterior poderão ser estabelecidos o montante máximo a que poderão ser sujeitas certas categorias de dívida pública, nomeadamente a dívida denominada em moeda estrangeira, a dívida a taxa fixa e a dívida a taxa variável."
+  },
+  "895613949": {
+   "fragment_id": "895681383",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições das operações\n\n1 - O Conselho de Ministros, mediante resolução, definirá, em obediência às condições gerais estabelecidas nos termos do artigo anterior, as condições complementares a que obedecerão a negociação, contratação e emissão de empréstimos pelo Instituto de Gestão do Crédito Público, em nome e representação do Estado, bem como a realização, pelo mesmo Instituto, de todas as operações financeiras de gestão da dívida pública directa.\n\n2 - Sem prejuízo do disposto no número anterior, poderá o Governo, através do Ministro das Finanças, com faculdade de delegação, estabelecer, a qualquer momento, orientações específicas a observar pelo Instituto de Gestão do Crédito Público na gestão da dívida pública directa e do financiamento do Estado."
+  },
+  "895613950": {
+   "fragment_id": "895681384",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições específicas\n\n1 - As condições específicas dos empréstimos e das operações financeiras de gestão da dívida pública directa serão estabelecidas pelo Instituto de Gestão do Crédito Público, em obediência às condições determinadas nos termos dos precedentes artigos 4.º e 5.º\n\n2 - Na fixação das condições específicas previstas no número anterior, o Instituto de Gestão do Crédito Público deverá ainda atender às condições correntes nos mercados financeiros, bem como à expectativa razoável da sua evolução."
+  },
+  "895613951": {
+   "fragment_id": "895681385",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigação geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigação geral\n\n1 - As condições de cada empréstimo em moeda nacional integrante da dívida pública fundada, salvo se representado por contrato, constarão de obrigação geral, elaborada pelo Instituto de Gestão do Crédito Público e assinada pelo Ministro das Finanças, com faculdade de delegação noutro membro do Governo.\n\n2 - As condições dos empréstimos em moeda estrangeira a emitir em cada exercício orçamental, integrantes da dívida pública fundada, poderão constar, salvo se representadas por contrato, de uma única obrigação geral, emitida pelo seu montante global, devendo a mesma ser elaborada e assinada conforme previsto no número anterior.\n\n3 - Com ressalva do previsto no n.º 4 deste artigo, da obrigação geral deverão constar necessariamente os seguintes elementos:\n\na) Finalidade do empréstimo;\n\nb) Designação do empréstimo;\n\nc) Moeda - nacional ou estrangeira - do empréstimo;\n\nd) Montante máximo do empréstimo;\n\ne) Tipo de taxa de juro;\n\nf) Periodicidade do pagamento de juros;\n\ng) Modalidades de colocação do empréstimo;\n\nh) Condições de amortização.\n\n4 - Nos casos em que o processo de negociação e emissão dos empréstimos não permita, sem risco de pôr em causa o seu sucesso, a determinação exacta das condições referidas nas alíneas e) a h) do número anterior, com a antecedência necessária ao prévio trâmite processual das obrigações gerais previstas neste artigo, poderão as mesmas ser indicadas através de fórmula genérica que contenha a informação relevante disponível.\n\n5 - A obrigação geral está sujeita a fiscalização prévia do Tribunal de Contas e a publicação no Diário da República.\n\n6 - O Governo, através do Ministro das Finanças, que terá a faculdade de delegar, comunicará ao Tribunal de Contas as condições financeiras específicas caracterizadoras dos empréstimos realizados não constantes da respectiva obrigação geral, no prazo de 15 dias úteis após a emissão dos mesmos."
+  },
+  "895613952": {
+   "fragment_id": "895681386",
+   "type": 11,
+   "heading": "Artigo 8.º — Emissão de dívida pública na pendência de aprovação ou de publicação do Orçamento do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Emissão de dívida pública na pendência de aprovação ou de publicação do Orçamento do Estado\n\n1 - Se o Orçamento do Estado não entrar em execução no início do ano económico a que se destina, por qualquer motivo, nomeadamente por não votação, não aprovação ou não publicação, poderá o Governo autorizar, por resolução, a emissão e contratação de dívida pública fundada até um valor equivalente à soma das amortizações que entretanto se vençam com 25% do montante máximo do acréscimo de endividamento líquido autorizado no exercício orçamental imediatamente anterior.\n\n2 - Os empréstimos públicos realizados ao abrigo do regime intercalar estabelecido no presente artigo deverão integrar, com efeitos ratificatórios, o Orçamento do Estado do exercício a que respeitam."
+  },
+  "895613953": {
+   "fragment_id": "895681387",
+   "type": 11,
+   "heading": "Artigo 9.º — Período complementar para emissão de dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Período complementar para emissão de dívida pública\n\nO endividamento público directo autorizado em cada exercício orçamental poderá ser efectivado no exercício subsequente, até à data que for indicada em cada ano no decreto-lei de execução orçamental."
+  },
+  "895613954": {
+   "fragment_id": "895681388",
+   "type": 11,
+   "heading": "Artigo 10.º — Certificação da legalidade da dívida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Certificação da legalidade da dívida\n\n1 - Caso lhe sejam solicitados pelos mutuantes, compete ao Procurador-Geral da República a emissão de pareceres ou opiniões legais para a certificação jurídica da legalidade da emissão de dívida pública.\n\n2 - O disposto no número anterior não impede os mutuantes de obterem a certificação jurídica da legalidade da emissão de dívida pública através do recurso a consultores privados."
+  },
+  "895613955": {
+   "fragment_id": "895681389",
+   "type": 11,
+   "heading": "Artigo 11.º — Formas da dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Formas da dívida pública\n\n1 - A dívida pública poderá assumir as seguintes formas:\n\na) Contrato;\n\nb) Obrigações do Tesouro;\n\nc) Bilhetes do Tesouro;\n\nd) Certificados de aforro;\n\ne) Certificados especiais de dívida pública;\n\nf) Promissórias;\n\ng) Outros valores representativos de dívida.\n\n2 - A dívida pública directa pode ser representada por títulos, nominativos ou ao portador, ou assumir forma meramente escritural.\n\n3 - Sem prejuízo do disposto na presente lei, mantém-se em vigor a legislação específica relativa a instrumentos de dívida pública indicados no n.º 1.\n\n4 - Até à respectiva extinção, serão ainda consideradas as seguintes formas de dívida pública directa:\n\na) Certificados de renda perpétua;\n\nb) Certificados de renda vitalícia.\n\n5 - Por resolução do Conselho de Ministros, mediante proposta do Ministro das Finanças, poderão ser estabelecidas outras formas de representação da dívida pública."
+  },
+  "895613956": {
+   "fragment_id": "895681390",
+   "type": 11,
+   "heading": "Artigo 12.º — Garantias da dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Garantias da dívida pública\n\nO pagamento de juros e ou a amortização de capital dos empréstimos integrantes da dívida pública directa serão assegurados pela totalidade das receitas não consignadas inscritas no Orçamento do Estado."
+  },
+  "895613957": {
+   "fragment_id": "895681391",
+   "type": 13,
+   "heading": "Título III — Gestão da dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Gestão da dívida pública"
+  },
+  "895613958": {
+   "fragment_id": "895681392",
+   "type": 11,
+   "heading": "Artigo 13.º — Medidas de gestão da dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Medidas de gestão da dívida pública\n\n1 - Visando uma eficiente gestão da dívida pública directa e a melhoria das condições finais dos financiamentos, poderá o Governo, através do Ministro das Finanças, ser autorizado pela Assembleia da República a realizar as seguintes operações de gestão da dívida pública:\n\na) Substituição entre a emissão das várias modalidades de empréstimo;\n\nb) Reforço das dotações para amortização de capital;\n\nc) Pagamento antecipado, total ou parcial, de empréstimos já contratados;\n\nd) Conversão de empréstimos existentes, nos termos e condições da emissão ou do contrato, ou por acordo com os respectivos titulares, quando as condições correntes dos mercados financeiros assim o aconselharem.\n\n2 - Em vista igualmente da consecução dos objectivos indicados no número anterior, poderá o Instituto de Gestão do Crédito Público realizar as operações financeiras para o efeito tidas por adequadas, nomeadamente operações envolvendo derivados financeiros, tais como operações de troca (swaps) do regime de taxa de juro, de divisa e de outras condições financeiras, bem como operações a prazo, futuros e opções, tendo por base as responsabilidades decorrentes da dívida pública.\n\n3 - As operações financeiras indicadas no número anterior estão isentas de visto do Tribunal de Contas, devendo o Instituto de Gestão do Crédito Público remeter àquele Tribunal toda a informação relativa às condições financeiras das operações realizadas, no prazo de 10 dias úteis após a sua concretização.\n\n4 - Ao Instituto de Gestão do Crédito Público caberá ainda promover a emissão de novos títulos representativos da dívida pública em substituição dos títulos destruídos, deteriorados ou extraviados, nos termos da lei processual aplicável."
+  },
+  "895613959": {
+   "fragment_id": "895681393",
+   "type": 11,
+   "heading": "Artigo 14.º — Prescrição da dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prescrição da dívida pública\n\n1 - Os créditos correspondentes a juros e a rendas perpétuas prescrevem no prazo de cinco anos contados da data do respectivo vencimento.\n\n2 - Os créditos correspondentes ao capital mutuado e a rendas vitalícias prescrevem, considerando-se abandonados a favor do Fundo de Regularização da Dívida Pública, no prazo de 10 anos contados da data do respectivo vencimento ou do primeiro vencimento de juros ou rendas posterior ao dos últimos juros cobrados ou rendas recebidas, consoante a data que primeiro ocorrer.\n\n3 - Aos prazos previstos nos números anteriores são aplicáveis as regras quanto à suspensão ou interrupção da prescrição previstas na lei civil."
+  },
+  "895613960": {
+   "fragment_id": "895681394",
+   "type": 11,
+   "heading": "Artigo 15.º — Informação à Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Informação à Assembleia da República\n\n1 - O Governo, através do Ministro das Finanças, informará trimestralmente a Assembleia da República sobre os financiamentos realizados e as condições específicas dos empréstimos celebrados nos termos previstos nesta lei.\n\n2 - Sem prejuízo do disposto no número anterior, a Assembleia da República poderá, a qualquer momento, convocar o presidente do Instituto de Gestão do Crédito Público para audiência destinada a prestar informação sobre os empréstimos contraídos e as operações financeiras de gestão da dívida pública directa efectuadas nos termos previstos na presente lei."
+  },
+  "895613961": {
+   "fragment_id": "895681395",
+   "type": 13,
+   "heading": "Título IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Disposições finais"
+  },
+  "895613962": {
+   "fragment_id": "895681396",
+   "type": 11,
+   "heading": "Artigo 16.º — Foro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Foro\n\nOs litígios emergentes das operações de dívida pública directa serão dirimidos pelos tribunais judiciais, devendo as competentes acções ser propostas no foro da comarca de Lisboa, salvo se contratualmente sujeitas a direito e foro estrangeiro."
+  },
+  "895613963": {
+   "fragment_id": "895681397",
+   "type": 11,
+   "heading": "Artigo 17.º — Renúncia e imunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Renúncia e imunidade\n\nNas operações de dívida pública directa que fiquem, por força dos respectivos contratos, sujeitas a direito e foros estrangeiros, poderá o Instituto de Gestão do Crédito Público, em nome da República Portuguesa, subscrever cláusulas de renúncia a imunidade baseada em soberania."
+  },
+  "895613964": {
+   "fragment_id": "895681398",
+   "type": 11,
+   "heading": "Artigo 18.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Âmbito de aplicação\n\nOs princípios da presente lei aplicam-se à dívida pública directa de todas as entidades do sector público administrativo, sem prejuízo das disposições especiais da Lei das Finanças Regionais e da Lei das Finanças Locais."
+  },
+  "895613965": {
+   "fragment_id": "895681399",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nA presente lei entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "895613966": {
+   "fragment_id": "895681400",
+   "type": 11,
+   "heading": "Artigo 20.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Legislação revogada\n\n1 - É revogada, a partir da data de entrada em vigor do presente diploma, a legislação relativa às matérias nele reguladas, designadamente a Lei n.º 1933, de 13 de Fevereiro de 1936, o Decreto n.º 42900, de 3 de Abril de 1960, os artigos 6.º, 13.º e 15.º a 22.º do Decreto n.º 43453, de 30 de Dezembro de 1960, o Decreto-Lei n.º 170/86, de 30 de Junho, e a Lei n.º 12/90, de 7 de Abril.\n\n2 - As remissões feitas para os preceitos revogados consideram-se efectuadas para as correspondentes normas da presente lei."
+  },
+  "895613970": {
+   "fragment_id": "895681385",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigação geral",
+   "in_force_from": "1999-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 81.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, 5º Suplemento, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Obrigação geral\n\n1 - As condições de cada empréstimo em moeda nacional integrante da dívida pública fundada, salvo se representado por contrato, constarão de obrigação geral, elaborada pelo Instituto de Gestão do Crédito Público e assinada pelo Ministro das Finanças, com faculdade de delegação noutro membro do Governo.\n\n2 - As condições dos empréstimos em moeda estrangeira a emitir em cada exercício orçamental, integrantes da dívida pública fundada, poderão constar, salvo se representadas por contrato, de uma única obrigação geral, emitida pelo seu montante global, devendo a mesma ser elaborada e assinada conforme previsto no número anterior.\n\n3 - Com ressalva do previsto no n.º 4 deste artigo, da obrigação geral deverão constar necessariamente os seguintes elementos:\n\na) Finalidade do empréstimo;\n\nb) Designação do empréstimo;\n\nc) Moeda - nacional ou estrangeira - do empréstimo;\n\nd) Montante máximo do empréstimo;\n\ne) Tipo de taxa de juro;\n\nf) Periodicidade do pagamento de juros;\n\ng) Modalidades de colocação do empréstimo;\n\nh) Condições de amortização.\n\n4 - Nos casos em que o processo de negociação e emissão dos empréstimos não permita, sem risco de pôr em causa o seu sucesso, a determinação exacta das condições referidas nas alíneas e) a h) do número anterior, com a antecedência necessária ao prévio trâmite processual das obrigações gerais previstas neste artigo, poderão as mesmas ser indicadas através de fórmula genérica que contenha a informação relevante disponível.\n\n5 - A obrigação geral está sujeita a fiscalização prévia do Tribunal de Contas e a publicação no Diário da República.\n\n6 - O Governo, através do Ministro das Finanças, que terá a faculdade de delegar, comunicará ao Tribunal de Contas as condições financeiras específicas caracterizadoras dos empréstimos realizados não constantes da respectiva obrigação geral, no prazo de 15 dias úteis após a emissão dos mesmos.\n\n> Revogado pelo/a Artigo 81.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, 5º Suplemento, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01"
+  },
+  "895613969": {
+   "fragment_id": "895681392",
+   "type": 11,
+   "heading": "Artigo 13.º — Medidas de gestão da dívida pública",
+   "in_force_from": "1999-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 81.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, 5º Suplemento, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Medidas de gestão da dívida pública\n\n1 - Visando uma eficiente gestão da dívida pública directa e a melhoria das condições finais dos financiamentos, poderá o Governo, através do Ministro das Finanças, ser autorizado pela Assembleia da República a realizar as seguintes operações de gestão da dívida pública:\n\na) Substituição entre a emissão das várias modalidades de empréstimo;\n\nb) Reforço das dotações para amortização de capital;\n\nc) Pagamento antecipado, total ou parcial, de empréstimos já contratados;\n\nd) Conversão de empréstimos existentes, nos termos e condições da emissão ou do contrato, ou por acordo com os respectivos titulares, quando as condições correntes dos mercados financeiros assim o aconselharem.\n\n2 - Em vista igualmente da consecução dos objectivos indicados no número anterior, poderá o Instituto de Gestão do Crédito Público realizar as operações financeiras para o efeito tidas por adequadas, nomeadamente operações envolvendo derivados financeiros, tais como operações de troca (swaps) do regime de taxa de juro, de divisa e de outras condições financeiras, bem como operações a prazo, futuros e opções, tendo por base as responsabilidades decorrentes da dívida pública.\n\n3 - (Revogado.)\n\n4 - Ao Instituto de Gestão do Crédito Público caberá ainda promover a emissão de novos títulos representativos da dívida pública em substituição dos títulos destruídos, deteriorados ou extraviados, nos termos da lei processual aplicável.\n\n> Alterado pelo/a Artigo 81.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, 5º Suplemento, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01"
+  },
+  "895613968": {
+   "fragment_id": "895681402",
+   "type": 11,
+   "heading": "Artigo 1.º — Revisão dos regimes legais das formas específicas da dívida pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Revisão dos regimes legais das formas específicas da dívida pública\n\nO Governo promoverá a revisão dos regimes legais das formas específicas da dívida pública a que se refere o artigo 11.º, n.º 3."
+  },
+  "895613967": {
+   "fragment_id": "895681401",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 27 de Novembro de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 9 de Janeiro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 19 de Janeiro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

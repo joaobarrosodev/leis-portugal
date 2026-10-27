@@ -1,0 +1,410 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70423678:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-105340342",
+ "dre_path": "/dr/detalhe/portaria/324-2015-70423678",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-10-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "105334349",
+    "105334350",
+    "105334351",
+    "105334352",
+    "105334353",
+    "105334354",
+    "105334355",
+    "105334356",
+    "105334358",
+    "105334359"
+   ]
+  },
+  {
+   "date": "2016-12-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105340330:por",
+     "title": "Portaria n.º 308/2016",
+     "published": "2016-12-09",
+     "dre_path": "/dr/detalhe/portaria/308-2016-105340330"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "105334349",
+    "105334365",
+    "105334366",
+    "105334367",
+    "105334353",
+    "105334368",
+    "105334355",
+    "105334356",
+    "105334357",
+    "105334358",
+    "105334359"
+   ]
+  },
+  {
+   "date": "2021-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:171183637:por",
+     "title": "Portaria n.º 190/2021",
+     "published": "2021-09-13",
+     "dre_path": "/dr/detalhe/portaria/190-2021-171183637"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "105334349",
+    "171281383",
+    "171281384",
+    "171281385",
+    "171281386",
+    "171281387",
+    "171281388",
+    "105334356",
+    "105334357",
+    "105334358",
+    "105334359"
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:915631929:por",
+     "title": "Portaria n.º 199-A/2025/1",
+     "published": "2025-04-21",
+     "dre_path": "/dr/detalhe/portaria/199-a-2025-915631929"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "105334349",
+    "915671940",
+    "915671941",
+    "915671942",
+    "915671943",
+    "915671944",
+    "915671945",
+    "105334356",
+    "105334357",
+    "915671946",
+    "915671947"
+   ]
+  }
+ ],
+ "fragments": {
+  "105334349": {
+   "fragment_id": "105340343",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 324/2015\n\nde 1 de outubro\n\nOs objetivos da Parceria Europeia para a Inovação para a Produtividade e Sustentabilidade Agrícolas, adiante designada PEI AGRI estão consignados no artigo 55.º do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.\n\nPara concretização desses objetivos o FEADER apoia a criação de Grupos Operacionais da PEI em conformidade com o artigo 56.º do mesmo regulamento que dispõe, no respetivo n.º 1, que estes Grupos são criados pelos intervenientes interessados, nomeadamente agricultores, investigadores, conselheiros e empresas dos sectores agrícola, agroalimentar e florestal que são pertinentes para alcançar os objetivos da PEI.\n\nO diagnóstico efetuado para preparação do PDR 2020 evidenciou que, apesar dos progressos realizados, existem em Portugal, nos sectores agrícola e florestal, dificuldades em transformar conhecimento em inovação que se traduza em crescimento sustentável e eficiente utilização e proteção dos recursos naturais e da biodiversidade.\n\nForam identificadas algumas das barreiras que estão a condicionar este processo, nomeadamente a falta de coincidência entre o conhecimento produzido e as necessidades dos produtores, a indisponibilidade de acesso dos produtores ao conhecimento produzido, a reduzida dimensão da maioria das unidades de produção do sector, o nível de habilitação da população ativa no sector.\n\nTendo em conta esta situação de partida, o apoio do PDR 2020 à inovação incide no apoio aos Grupos Operacionais que juntem PME ou pessoas singulares que exerçam atividade agrícola ou silvícola, transformação ou comercialização de produtos agrícolas ou de produtos florestais, suas associações, cooperativas ou outras formas associativas e entidades com atividade na investigação e desenvolvimento, para resolver problemas concretos ou aproveitar oportunidades que se coloquem ao sector produtivo.\n\nA ação dos grupos operacionais é orientada para atingir os objetivos e prioridades do Desenvolvimento Rural, nas áreas temáticas consideradas prioritárias pelo sector, tendo em vista a produtividade e sustentabilidade agrícolas, conforme consideradas na PEI AGRI.\n\nCom o objetivo de facilitar a constituição de grupos operacionais em torno de iniciativas que levem à criação de soluções para estes problemas ou oportunidades, promovendo o encontro entre os interessados e evitando o desfasamento ou a sobreposição de objetivos dos planos de ação a apresentar quando da candidatura, considera-se necessário criar uma Bolsa de Iniciativas, designada Bolsa de Iniciativas da PEI AGRI.\n\nTendo em conta as competências que o Gabinete de Planeamento, Políticas e Administração Geral, exerce na coordenação da política de desenvolvimento rural e sua articulação com outras políticas, que contribuem, nomeadamente para os objetivos da PEI, considera-se dever ficar a seu cargo a apreciação das iniciativas submetidas na Bolsa de Iniciativas.\n\nPor outro lado, tendo em conta o papel da Rede Rural Nacional (RRN) no trabalho em rede entre agentes do Desenvolvimento Rural e na articulação com a Rede Europeia da Parceria Europeia para a Inovação, considera-se dever ficar a cargo da unidade central da Estrutura Técnica de Animação da RRN a administração da Bolsa de Iniciativas.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo dos artigos 55.º e 56.º do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "105334350": {
+   "fragment_id": "105340344",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria cria a Bolsa de Iniciativas da Parceria Europeia de Inovação para a produtividade e sustentabilidade agrícolas, abreviadamente designada Bolsa de Iniciativas, nomeadamente para efeitos do apoio previsto na ação 1.1, «Grupos Operacionais», da medida 1, «Inovação», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020.\n\n2 - A presente portaria estabelece ainda regras gerais de funcionamento da Bolsa de Iniciativas."
+  },
+  "105334351": {
+   "fragment_id": "105340345",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nA Bolsa de Iniciativas destina-se a:\n\na) Promover o encontro entre interessados em desenvolver iniciativas de inovação no sector, bem como a aglomeração destas iniciativas em torno de objetivos semelhantes;\n\nb) Preparar a constituição de Grupos Operacionais para o apoio previsto na ação 1.1., «Grupos Operacionais», do PDR 2020."
+  },
+  "105334352": {
+   "fragment_id": "105340346",
+   "type": 11,
+   "heading": "Artigo 3.º — Administração da Bolsa de Iniciativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Administração da Bolsa de Iniciativas\n\n1 - A unidade central da Estrutura Técnica de Animação (ETA) da Rede Rural Nacional (RRN) é responsável por assegurar a gestão dos procedimentos relacionados com o funcionamento da plataforma eletrónica da Bolsa de Iniciativas e outros que se considerem necessários no âmbito da organização da informação e comunicação.\n\n2 - A unidade central da ETA da RRN assegura que o Gabinete de Planeamento, Políticas e Administração Geral (GPP) dispõe de toda a informação submetida pelos proponentes na plataforma eletrónica da Bolsa de Iniciativas, necessária à apreciação das iniciativas."
+  },
+  "105334353": {
+   "fragment_id": "105340347",
+   "type": 11,
+   "heading": "Artigo 4.º — Apresentação de iniciativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apresentação de iniciativas\n\n1 - A Bolsa de Iniciativas funciona, em contínuo, na plataforma eletrónica da RRN em www.rederural.pt.\n\n2 - A apresentação de iniciativas é efetuada através do preenchimento e submissão de formulário disponível na plataforma eletrónica da RRN, em www.rederural.pt, considerando-se a iniciativa apresentada na data em que este se encontre devidamente submetido.\n\n3 - A iniciativa deve incluir os seguintes elementos:\n\na) Designação da parceria para criação do Grupo Operacional;\n\nb) Identificação da iniciativa;\n\nc) Identificação da prioridade onde se insere a iniciativa e respetivos domínios temáticos previstos no anexo I à presente portaria da qual faz parte integrante;\n\nd) Identificação dos parceiros, membros da RRN, que se propõem integrar o Grupo Operacional, e o parceiro coordenador do mesmo.\n\n4 - A iniciativa deve ainda incluir, de forma sintética, elementos para a elaboração do respetivo plano de ação, nomeadamente os seguintes:\n\na) Identificação do problema ou oportunidade que a iniciativa se propõe abordar;\n\nb) Descrição relativa à situação de partida, no que diz respeito ao problema ou oportunidade objeto da iniciativa;\n\nc) Objetivos visados;\n\nd) Identificação das principais fases de desenvolvimento do plano de ação explicitando a respetiva duração e o contributo de cada parceiro;\n\ne) Descrição sintética do método de abordagem a utilizar para a resolução do problema ou aproveitamento da oportunidade;\n\nf) Identificação da tipologia de resultados a atingir;\n\ng) Identificação dos potenciais destinatários;\n\nh) Descrição dos processos de demonstração, divulgação e disseminação previstos.\n\n5 - A submissão da iniciativa implica a aceitação da sua publicitação na Bolsa de Iniciativas."
+  },
+  "105334354": {
+   "fragment_id": "105340348",
+   "type": 11,
+   "heading": "Artigo 5.º — Apreciação e registo das iniciativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apreciação e registo das iniciativas\n\n1 - As iniciativas apresentadas na Bolsa de Iniciativas são apreciadas pelo GPP, no prazo máximo de 10 dias úteis após a data da sua apresentação, de acordo com os seguintes critérios:\n\na) Enquadramento na prioridade e nos domínios temáticos previstos no anexo I à presente portaria da qual faz parte integrante;\n\nb) Clareza, enquadramento, e coerência dos elementos para a elaboração do plano de ação, de acordo com o previsto no anexo II à presente portaria da qual faz parte integrante;\n\nc) Existência de sobreposição com outras iniciativas, quanto aos objetivos visados no âmbito da prioridade e domínios temáticos propostos.\n\n2 - A apreciação fundamentada das iniciativas é comunicada aos proponentes pela unidade central da ETA da RRN, no prazo de 2 dias úteis após a apreciação, através da plataforma eletrónica da RRN, em www.rederural.pt.\n\n3 - A iniciativa é registada na Bolsa de Iniciativas quando se encontrem verificados os critérios previstos nas alíneas a) e b) do n.º 1, considerando-se como data de registo, a data da comunicação aos proponentes da verificação dos critérios, sem prejuízo de eventuais alterações à iniciativa.\n\n4 - O critério previsto na alínea c) do n.º 1 é analisado regularmente, devendo a ETA comunicar aos proponentes a existência de sobreposição de iniciativas, no prazo máximo de 10 dias úteis após a apresentação da iniciativa que gera a sobreposição, para eventual articulação entre iniciativas.\n\n5 - Podem ser apresentadas alterações às iniciativas após registo, sendo aplicável o disposto nos n.os 2 a 4 do artigo 4.º e nos n.os 1 a 3 do presente artigo, com as devidas adaptações.\n\n6 - O registo e publicitação de uma iniciativa na Bolsa de Iniciativas não conferem qualquer garantia de aprovação da candidatura à ação 1.1, «Grupos Operacionais», do PDR 2020."
+  },
+  "105334355": {
+   "fragment_id": "105340349",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicitação das iniciativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Publicitação das iniciativas\n\n1 - As iniciativas são publicitadas na Bolsa de Iniciativas a partir da data do respetivo registo.\n\n2 - A publicitação de uma iniciativa na plataforma eletrónica da RRN é realizada com base na seguinte informação:\n\na) Data de registo da iniciativa;\n\nb) Existência de sobreposição com outras iniciativas e respetiva identificação;\n\nc) Os elementos previstos no n.º 3 do artigo 4.º;\n\nd) Os elementos previstos nas alíneas a), c), f) e g) do n.º 4 do artigo 4.º;\n\ne) Alterações efetuadas à iniciativa.\n\n3 - A iniciativa permanece na Bolsa de Iniciativas pelo período de um ano, com exceção das situações em que o Grupo Operacional comunique à Unidade Central da ETA da RRN o interesse na sua continuação."
+  },
+  "105334356": {
+   "fragment_id": "105340350",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "105334358": {
+   "fragment_id": "105340352",
+   "type": 14,
+   "heading": "Anexo I — Prioridades e domínios temáticos para a inovação no âmbito da Política de Desenvolvimento Rural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Prioridades e domínios temáticos para a inovação no âmbito da Política de Desenvolvimento Rural\n\n[a que se referem a alínea c) do n.º 3 do artigo 4.º e a alínea a) do n.º 1 do artigo 5.º]\n\n1.ª Prioridade - Aumento da eficiência dos recursos na produção agrícola e florestal\n\nDomínios Temáticos:\n\n1.1 - Melhoria do teor de matéria orgânica e da estrutura do solo (aumento da capacidade de retenção da água, combate à erosão, promoção da capacidade de sumidouro de carbono e melhoria da fertilidade);\n\n1.2 - Melhoria da eficiência no uso da água e promoção da sua qualidade através de utilização racional de fatores de produção (adubos, pesticidas, efluentes);\n\n1.3 - Melhoria da eficiência no uso da energia e diversificação de fontes energéticas;\n\n1.4 - Tratamento e valorização de subprodutos e efluentes animais;\n\n1.5 - Melhoria da capacidade produtiva dos animais e das plantas;\n\n1.6 - Conservação e valorização dos recursos genéticos endógenos vegetais e animais (melhoramento, seleção, guarda da variabilidade, valorização e adaptação às alterações climáticas);\n\n1.7 - Proteção das plantas e animais contra pragas e doenças.\n\n2.ª Prioridade - Melhoria da gestão dos sistemas agrícolas e florestais\n\nDomínios Temáticos:\n\n2.1 - Adaptação das plantas e animais a condições climáticas adversas, incluindo a mitigação/ adaptação às alterações climáticas;\n\n2.2 - Gestão económica eficiente da produção agrícola e florestal em consonância com a manutenção da biodiversidade doméstica e selvagem e com a conservação do solo e da água;\n\n2.3 - Sustentabilidade dos sistemas de produção agrícolas e florestais de alto valor ambiental;\n\n2.4 - Prevenção e minimização do risco de incêndio.\n\n3.ª Prioridade - Melhoria da integração nos mercados\n\nDomínios Temáticos:\n\n3.1 - Inovação organizacional com vista ao aumento da eficiência de gestão e promoção de novas formas de articulação entre agentes;\n\n3.2 - Adaptação da produção a exigências/oportunidades dos mercados internos e de exportação (incluindo transparência de informação sobre oportunidades de mercado);\n\n3.3 - Adaptação da produção, tendo em vista a substituição de importações de produtos agrícolas para alimentação humana e animal;\n\n3.4 - Inserção das pequenas explorações nos mercados;\n\n3.5 - Melhoria da qualidade e segurança dos produtos agroalimentares;\n\n3.6 - Ajustamento da oferta a padrões de consumo saudável.\n\n4.ª Prioridade - Valorização dos territórios\n\nMelhoria da inserção dos bens e serviços agrícolas e florestais na valorização de territórios."
+  },
+  "105334359": {
+   "fragment_id": "105340353",
+   "type": 14,
+   "heading": "Anexo II — Critérios de apreciação das iniciativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Critérios de apreciação das iniciativas\n\n[a que se refere a alínea b) do n.º 1 do artigo 5.º]\n\n(ver documento original)"
+  },
+  "105334365": {
+   "fragment_id": "105340344",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2016-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria cria a Bolsa de Iniciativas da Parceria Europeia de Inovação (PEI) para a produtividade e sustentabilidade agrícolas, abreviadamente designada Bolsa de Iniciativas, nomeadamente para efeitos dos apoios previstos na ação 1.1, «Grupos Operacionais», da medida 1, «Inovação», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020, e na submedida 16.1, «Criação e funcionamento de grupos operacionais da PEI para a produtividade e a sustentabilidade agrícolas», da medida 16, «Cooperação», do Programa de Desenvolvimento Rural para a Região Autónoma dos Açores 2014-2020, abreviadamente designado por PRORURAL+ e do Programa de Desenvolvimento Rural para a Região Autónoma da Madeira 2014-2020, abreviadamente designado por PRODERAM 2020.\n\n2 - A presente portaria estabelece ainda regras gerais de funcionamento da Bolsa de Iniciativas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "105334366": {
+   "fragment_id": "105340345",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": "2016-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nA Bolsa de Iniciativas destina-se a:\n\na) Promover o encontro entre interessados em desenvolver iniciativas de inovação no sector, bem como a aglomeração destas iniciativas em torno de objetivos semelhantes;\n\nb) Preparar a constituição de Grupos Operacionais para os apoios previstos na ação 1.1., «Grupos Operacionais», do PDR 2020, e na submedida 16.1, «Criação e funcionamento de grupos operacionais da PEI para a produtividade e a sustentabilidade agrícolas», do PRORURAL+ e do PRODERAM 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "105334367": {
+   "fragment_id": "105340346",
+   "type": 11,
+   "heading": "Artigo 3.º — Administração da Bolsa de Iniciativas",
+   "in_force_from": "2016-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 3.º — Administração da Bolsa de Iniciativas\n\n1 - A unidade central da Estrutura Técnica de Animação (ETA) da Rede Rural Nacional (RRN) é responsável por assegurar a gestão dos procedimentos relacionados com o funcionamento da plataforma eletrónica da Bolsa de Iniciativas e outros que se considerem necessários no âmbito da organização da informação e comunicação.\n\n2 - A unidade central da ETA da RRN assegura que o Gabinete de Planeamento, Políticas e Administração Geral (GPP) e as Autoridades de Gestão do PRORURAL+ e do PRODERAM 2020, no âmbito das suas competências, dispõem de toda a informação submetida pelos proponentes na plataforma eletrónica da Bolsa de Iniciativas, necessária à apreciação das iniciativas.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "105334368": {
+   "fragment_id": "105340348",
+   "type": 11,
+   "heading": "Artigo 5.º — Apreciação e registo das iniciativas",
+   "in_force_from": "2016-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 5.º — Apreciação e registo das iniciativas\n\n1 - As iniciativas apresentadas na Bolsa de Iniciativas são apreciadas pelo GPP, no prazo máximo de 10 dias úteis após a data da sua apresentação, de acordo com os seguintes critérios:\n\na) Enquadramento na prioridade e nos domínios temáticos previstos no anexo I à presente portaria da qual faz parte integrante;\n\nb) Clareza, enquadramento, e coerência dos elementos para a elaboração do plano de ação, de acordo com o previsto no anexo II à presente portaria da qual faz parte integrante;\n\nc) Existência de sobreposição com outras iniciativas, quanto aos objetivos visados no âmbito da prioridade e domínios temáticos propostos.\n\n2 - A apreciação fundamentada das iniciativas é comunicada aos proponentes pela unidade central da ETA da RRN, no prazo de 2 dias úteis após a apreciação, através da plataforma eletrónica da RRN, em www.rederural.pt.\n\n3 - A iniciativa é registada na Bolsa de Iniciativas quando se encontrem verificados os critérios previstos nas alíneas a) e b) do n.º 1, considerando-se como data de registo, a data da comunicação aos proponentes da verificação dos critérios, sem prejuízo de eventuais alterações à iniciativa.\n\n4 - O critério previsto na alínea c) do n.º 1 é analisado regularmente, devendo a ETA comunicar aos proponentes a existência de sobreposição de iniciativas, no prazo máximo de 10 dias úteis após a apresentação da iniciativa que gera a sobreposição, para eventual articulação entre iniciativas.\n\n5 - Podem ser apresentadas alterações às iniciativas após registo, sendo aplicável o disposto nos n.os 2 a 4 do artigo 4.º e nos n.os 1 a 3 do presente artigo, com as devidas adaptações.\n\n6 - O registo e publicitação de uma iniciativa na Bolsa de Iniciativas não conferem qualquer garantia de aprovação da candidatura à ação 1.1, «Grupos Operacionais», do PDR 2020 ou à submedida 16.1, «Criação e funcionamento de grupos operacionais da PEI para a produtividade e a sustentabilidade agrícolas», do PRORURAL+ e do PRODERAM 2020\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "105334357": {
+   "fragment_id": "105340351",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 15 de setembro de 2015."
+  },
+  "171281383": {
+   "fragment_id": "105340344",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria cria a Bolsa de Iniciativas, enquanto plataforma destinada à apresentação e tramitação eletrónica de iniciativas para os seguintes efeitos:\n\na) Apoios previstos na ação 1.1, «Grupos Operacionais», da medida 1, «Inovação», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020;\n\nb) Apoios previstos na submedida 16.1, «Criação e funcionamento de grupos operacionais da Parceria Europeia de Inovação (PEI) para a produtividade e a sustentabilidade agrícolas», da medida 16, «Cooperação», do Programa de Desenvolvimento Rural para a Região Autónoma dos Açores 2014-2020, abreviadamente designado por PRORURAL+ e do Programa de Desenvolvimento Rural para a Região Autónoma da Madeira 2014-2020, abreviadamente designado por PRODERAM 2020;\n\nc) Apoios previstos no Plano de Recuperação e Resiliência, abreviadamente designado PRR, no âmbito da sua Componente 5 - Capitalização e Inovação Empresarial - Investimento RE-C05-i032.\n\n2 - A presente portaria estabelece ainda regras gerais de funcionamento da Bolsa de Iniciativas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "171281384": {
+   "fragment_id": "105340345",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": "2021-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nA Bolsa de Iniciativas destina-se a:\n\na) Promover o encontro entre interessados em desenvolver iniciativas de inovação no sector, bem como a aglomeração destas iniciativas em torno de objetivos semelhantes;\n\nb) Preparar a constituição de Grupos Operacionais para os apoios previstos na ação 1.1., «Grupos Operacionais», do PDR 2020, e na submedida 16.1, «Criação e funcionamento de grupos operacionais da PEI para a produtividade e a sustentabilidade agrícolas», do PRORURAL+ e do PRODERAM 2020.\n\nc) Promover a apresentação de propostas de projetos para o apoio previsto no PRR, Componente 5 - Investimento RE-C05-i032 - Agenda de investigação e inovação para a sustentabilidade da agricultura, alimentação e agroindústria (Terra Futura).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "171281385": {
+   "fragment_id": "105340346",
+   "type": 11,
+   "heading": "Artigo 3.º — Administração da Bolsa de Iniciativas",
+   "in_force_from": "2021-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 3.º — Administração da Bolsa de Iniciativas\n\n1 - A unidade central da Estrutura Técnica de Animação (ETA) da Rede Rural Nacional (RRN) é responsável por assegurar a gestão dos procedimentos relacionados com o funcionamento da plataforma eletrónica da Bolsa de Iniciativas e outros que se considerem necessários no âmbito da organização da informação e comunicação.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "171281386": {
+   "fragment_id": "105340347",
+   "type": 11,
+   "heading": "Artigo 4.º — Apresentação de iniciativas",
+   "in_force_from": "2021-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09"
+   ],
+   "markdown": "###### Artigo 4.º — Apresentação de iniciativas\n\n1 - A Bolsa de Iniciativas funciona na plataforma eletrónica da RRN em www.rederural.pt.\n\n2 - Todos os parceiros de uma iniciativa têm de ser membros da RRN (https://www.rederural.gov.pt/membros-da-rede).\n\n3 - A apresentação de iniciativas é efetuada através do preenchimento e submissão de formulário disponível na plataforma eletrónica da RRN, em www.rederural.pt, considerando-se a iniciativa apresentada na data em que este se encontre devidamente submetido.\n\n4 - A iniciativa deve incluir os seguintes elementos:\n\na) Designação da iniciativa;\n\nb) Identificação dos parceiros da iniciativa;\n\nc) Identificação do coordenador da iniciativa, e os seus contactos;\n\nd) Para a constituição de Grupo Operacional, identificar a prioridade onde se insere a iniciativa e respetivos domínios temáticos previstos no anexo i à presente portaria da qual faz parte integrante;\n\ne) Para a constituição de parceria para o PRR, identificar a iniciativa emblemática onde se insere e respetivas linhas de ação da Terra Futura, conforme a Resolução do Conselho de Ministros n.º 86/2020, que aprova a Agenda de Inovação para a Agricultura 2020-2030.\n\n5 - A iniciativa deve ainda incluir, de forma sintética:\n\na) Fundamentação da iniciativa, com a identificação do problema ou oportunidade que se propõe abordar;\n\nb) Descrição da iniciativa a desenvolver, com a indicação dos objetivos, método de abordagem e principais fases de desenvolvimento do plano de ação;\n\nc) Atividades a desenvolver e responsabilidades de cada parceiro.\n\n6 - A submissão da iniciativa implica a aceitação da sua publicitação na Bolsa de Iniciativas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09"
+  },
+  "171281387": {
+   "fragment_id": "105340348",
+   "type": 11,
+   "heading": "Artigo 5.º — Apreciação e registo das iniciativas",
+   "in_force_from": "2021-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 5.º — Apreciação e registo das iniciativas\n\n1 - As iniciativas apresentadas na Bolsa de Iniciativas são apreciadas:\n\na) Pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), em caso de enquadramento ao abrigo do PDR 2020 ou do PRR;\n\nb) Pelas Autoridades de Gestão do PRORURAL+ ou do PRODERAM 2020, consoante a sua competência territorial.\n\n2 - As iniciativas são objeto de apreciação no prazo máximo de 10 dias úteis após a data da sua apresentação, de acordo com os seguintes critérios:\n\na) Enquadramento na prioridade e nos domínios temáticos previstos no anexo i à presente portaria da qual faz parte integrante, no caso dos Grupos Operacionais;\n\nb) Enquadramento na iniciativa emblemática onde se insere e respetivas linhas de ação, da Terra Futura, no caso das iniciativas no âmbito do PRR;\n\nc) Clareza e coerência dos elementos descritos de acordo com o n.º 5 do artigo anterior;\n\nd) Existência de sobreposição com outras iniciativas.\n\n3 - A apreciação fundamentada das iniciativas é comunicada aos proponentes pela unidade central da ETA da RRN.\n\n4 - O critério previsto na alínea d) do n.º 2 é analisado regularmente, devendo a DGADR comunicar aos proponentes a existência de sobreposição de iniciativas, no prazo máximo de 10 dias úteis após a apresentação da iniciativa que gera a sobreposição, para articulação entre iniciativas.\n\n5 - A iniciativa é registada na Bolsa de Iniciativas quando se encontrem verificados os critérios previstos nas alíneas a) ou b) e c) do n.º 2, considerando-se como data de registo, a data da comunicação aos proponentes da verificação dos critérios.\n\n6 - O registo e publicitação de uma iniciativa na Bolsa de Iniciativas não conferem qualquer garantia de aprovação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "171281388": {
+   "fragment_id": "105340349",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicitação das iniciativas",
+   "in_force_from": "2021-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09"
+   ],
+   "markdown": "###### Artigo 6.º — Publicitação das iniciativas\n\n1 - As iniciativas são publicitadas na Bolsa de Iniciativas a partir da data do respetivo registo.\n\n2 - A publicitação de uma iniciativa na plataforma eletrónica da RRN é realizada com base na seguinte informação:\n\na) Data de registo da iniciativa;\n\nb) Os elementos previstos no n.º 4 do artigo 4.º;\n\nc) Os elementos previstos nas alíneas a) e b) do n.º 5 do artigo 4.º\n\n3 - A iniciativa permanece na Bolsa de Iniciativas pelo período de um ano, com exceção das situações em que o coordenador da iniciativa comunique à ETA da RRN o interesse na sua continuação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09"
+  },
+  "915671940": {
+   "fragment_id": "105340344",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria cria a Bolsa de Iniciativas, enquanto plataforma destinada à apresentação e tramitação eletrónica de iniciativas para os seguintes efeitos:\n\na) Apoios previstos na ação 1.1, «Grupos Operacionais», da medida 1, «Inovação», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020;\n\nb) Apoios previstos na submedida 16.1, «Criação e funcionamento de grupos operacionais da Parceria Europeia de Inovação (PEI) para a produtividade e a sustentabilidade agrícolas», da medida 16, «Cooperação», do Programa de Desenvolvimento Rural para a Região Autónoma dos Açores 2014-2020, abreviadamente designado por PRORURAL+ e do Programa de Desenvolvimento Rural para a Região Autónoma da Madeira 2014-2020, abreviadamente designado por PRODERAM 2020;\n\nc) Apoios previstos no Plano de Recuperação e Resiliência, abreviadamente designado PRR, no âmbito da sua Componente 5 - Capitalização e Inovação Empresarial - Investimento RE-C05-i032;\n\nd) Apoios previstos nas intervenções C.5.1 - Grupos operacionais para a inovação, do PEPAC no Continente, E.14.1 - Cooperação para a Inovação, do PEPAC na RA Açores, e F.9.1 - Grupos Operacionais, do PEPAC na RA Madeira.\n\n2 - A presente portaria estabelece ainda regras gerais de funcionamento da Bolsa de Iniciativas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "915671941": {
+   "fragment_id": "105340345",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": "2025-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nA Bolsa de Iniciativas destina-se a:\n\na) Promover o encontro entre interessados em desenvolver iniciativas de inovação no sector, bem como a aglomeração destas iniciativas em torno de objetivos semelhantes;\n\nb) Preparar a constituição de Grupos Operacionais para os apoios previstos na ação 1.1., «Grupos Operacionais», do PDR 2020, e na submedida 16.1, «Criação e funcionamento de grupos operacionais da PEI para a produtividade e a sustentabilidade agrícolas», do PRORURAL+ e do PRODERAM 2020.\n\nc) Promover a apresentação de propostas de projetos para o apoio previsto no PRR, Componente 5 - Investimento RE-C05-i032 - Agenda de investigação e inovação para a sustentabilidade da agricultura, alimentação e agroindústria (Terra Futura);\n\nd) Preparar a constituição de Grupos Operacionais para o apoio previsto nas intervenções C.5.1 - Grupos operacionais para a inovação, do PEPAC no Continente, E.14.1 - Cooperação para a Inovação, do PEPAC na RA Açores, e F.9.1 - Grupos Operacionais, do PEPAC na RA Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "915671942": {
+   "fragment_id": "105340346",
+   "type": 11,
+   "heading": "Artigo 3.º — Administração da Bolsa de Iniciativas",
+   "in_force_from": "2025-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 3.º — Administração da Bolsa de Iniciativas\n\n1 - A equipa de apoio técnico da Rede Nacional da PAC (RNPAC) é responsável por assegurar a gestão dos procedimentos relacionados com o funcionamento da plataforma eletrónica da Bolsa de Iniciativas e outros que se considerem necessários no âmbito da organização da informação e comunicação.\n\n2 - O envio de notificações é efetuado por via eletrónica para o endereço de email indicado na Bolsa de Iniciativas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "915671943": {
+   "fragment_id": "105340347",
+   "type": 11,
+   "heading": "Artigo 4.º — Apresentação de iniciativas",
+   "in_force_from": "2025-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09"
+   ],
+   "markdown": "###### Artigo 4.º — Apresentação de iniciativas\n\n1 - A Bolsa de Iniciativas funciona na plataforma eletrónica da RNPAC em https://www.rederural.gov.pt.\n\n2 - Todos os parceiros de uma iniciativa têm de ser membros da RNPAC:\n\n(https://www.rederural.gov.pt/membros-da-rede).\n\n3 - A apresentação de iniciativas é efetuada através do preenchimento e submissão de formulário disponível na plataforma eletrónica da RNPAC, em https://www.rederural.gov.pt, considerando-se a iniciativa apresentada na data em que este se encontre devidamente submetido.\n\n4 - A iniciativa deve incluir os seguintes elementos:\n\na) Designação da iniciativa;\n\nb) Identificação dos parceiros da iniciativa;\n\nc) Identificação do coordenador da iniciativa, e os seus contactos;\n\nd) Para a constituição de Grupo Operacional, identificar a prioridade onde se insere a iniciativa e respetivos domínios temáticos previstos no anexo i à presente portaria da qual faz parte integrante;\n\ne) Para a constituição de parceria para o PRR, identificar a iniciativa emblemática onde se insere e respetivas linhas de ação da Terra Futura, conforme a Resolução do Conselho de Ministros n.º 86/2020, que aprova a Agenda de Inovação para a Agricultura 2020-2030.\n\n5 - A iniciativa deve ainda incluir, de forma sintética:\n\na) Fundamentação da iniciativa, com a identificação do problema ou oportunidade que se propõe abordar;\n\nb) Descrição da iniciativa a desenvolver, com a indicação dos objetivos, método de abordagem e principais fases de desenvolvimento do plano de ação;\n\nc) Atividades a desenvolver e responsabilidades de cada parceiro.\n\n6 - A submissão da iniciativa implica a aceitação da sua publicitação na Bolsa de Iniciativas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09"
+  },
+  "915671944": {
+   "fragment_id": "105340348",
+   "type": 11,
+   "heading": "Artigo 5.º — Apreciação e registo das iniciativas",
+   "in_force_from": "2025-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+   ],
+   "markdown": "###### Artigo 5.º — Apreciação e registo das iniciativas\n\n1 - As iniciativas apresentadas na Bolsa de Iniciativas são apreciadas:\n\na) Pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), em caso de enquadramento ao abrigo do PDR 2020, do PRR e do PEPAC Continente;\n\nb) Pelas Autoridades de Gestão do PEPAC na RA Açores ou do PEPAC na RA Madeira, consoante a sua competência territorial.\n\n2 - As iniciativas são objeto de apreciação, no prazo máximo de 15 dias úteis após a data de encerramento da Bolsa de Iniciativas, de acordo com os seguintes critérios:\n\na) Enquadramento na prioridade e nos domínios temáticos previstos no anexo i à presente portaria da qual faz parte integrante, no caso dos Grupos Operacionais;\n\nb) Enquadramento na iniciativa emblemática onde se insere e respetivas linhas de ação, da Terra Futura, no caso das iniciativas no âmbito do PRR;\n\nc) Resposta às necessidades abordadas pela respetiva intervenção e contributo para o objetivo transversal da PAC;\n\nd) Clareza e coerência dos elementos descritos de acordo com o n.º 5 do artigo anterior e com o previsto no anexo II à presente portaria, da qual faz parte integrante;\n\ne) Existência de sobreposição com outras iniciativas do mesmo ou de outros domínios temáticos.\n\n3 - Quando se verifique a situação prevista na alínea e) do número anterior, os proponentes são notificados, para efeitos de reformulação ou articulação e apresentação de iniciativa única, no prazo máximo de 10 dias após a notificação.\n\n4 - A iniciativa apresentada ao abrigo do número anterior é submetida ao procedimento estabelecido no presente artigo, nomeadamente, à apreciação prevista no seu n.º 2.\n\n5 - A apreciação fundamentada das iniciativas é comunicada aos proponentes, pela equipa técnica da RNPAC, e registada na Bolsa de Iniciativas, sempre que:\n\na) Se encontrem reunidos os critérios previstos nas alíneas a) a d) do n.º 2;\n\nb) Não se verifique a sobreposição de outras iniciativas.\n\n6 - É considerada como data de registo a data da comunicação aos proponentes efetuada nos termos do número anterior.\n\n7 - O registo e publicitação de uma iniciativa na Bolsa de Iniciativas não conferem qualquer garantia de aprovação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 308/2016 - Diário da República n.º 235/2016, Série I de 2016-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/308-2016-105340330), em vigor a partir de 2016-12-10"
+  },
+  "915671945": {
+   "fragment_id": "105340349",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicitação das iniciativas",
+   "in_force_from": "2025-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09"
+   ],
+   "markdown": "###### Artigo 6.º — Publicitação das iniciativas\n\n1 - As iniciativas são publicitadas na Bolsa de Iniciativas a partir da data do respetivo registo.\n\n2 - A publicitação de uma iniciativa na plataforma eletrónica da RNPAC é realizada com base na seguinte informação:\n\na) Data de registo da iniciativa;\n\nb) Os elementos previstos no n.º 4 do artigo 4.º;\n\nc) Os elementos previstos nas alíneas a) e b) do n.º 5 do artigo 4.º\n\n3 - A iniciativa permanece na Bolsa de Iniciativas pelo período de um ano.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 190/2021 - Diário da República n.º 178/2021, Série I de 2021-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/190-2021-171183637), em vigor a partir de 2021-09-14, produz efeitos a partir de 2021-09-09"
+  },
+  "915671946": {
+   "fragment_id": "105340352",
+   "type": 14,
+   "heading": "Anexo I — Prioridades e domínios temáticos para a inovação no âmbito da Política de Desenvolvimento Rural e da Agricultura",
+   "in_force_from": "2025-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17"
+   ],
+   "markdown": "## Anexo I — Prioridades e domínios temáticos para a inovação no âmbito da Política de Desenvolvimento Rural e da Agricultura\n\n[a que se referem a alínea d) do n.º 4 do artigo 4.º e a alínea a) do n.º 2 do artigo 5.º]\n\n1.ª Prioridade - Aumento da eficiência dos recursos na produção agrícola e florestal\n\nDomínios Temáticos:\n\n1.1 - Melhoria do teor de matéria orgânica e da estrutura do solo (aumento da capacidade de retenção da água, combate à erosão, promoção da capacidade de sumidouro de carbono e melhoria da fertilidade);\n\n1.2 - Melhoria da eficiência no uso da água e promoção da sua qualidade através de utilização racional de fatores de produção (adubos, pesticidas, efluentes);\n\n1.3 - Melhoria da eficiência no uso da energia e diversificação de fontes energéticas;\n\n1.4 - Tratamento e valorização de subprodutos e efluentes animais;\n\n1.5 - Melhoria da capacidade produtiva dos animais e das plantas;\n\n1.6 - Conservação e valorização dos recursos genéticos endógenos vegetais e animais (melhoramento, seleção, guarda da variabilidade, valorização e adaptação às alterações climáticas);\n\n1.7 - Proteção das plantas e animais contra pragas e doenças.\n\n2.ª Prioridade - Melhoria da gestão dos sistemas agrícolas e florestais\n\nDomínios Temáticos:\n\n2.1 - Adaptação das plantas e animais a condições climáticas adversas, incluindo a mitigação/ adaptação às alterações climáticas;\n\n2.2 - Gestão económica eficiente da produção agrícola e florestal em consonância com a manutenção da biodiversidade doméstica e selvagem e com a conservação do solo e da água;\n\n2.3 - Sustentabilidade dos sistemas de produção agrícolas e florestais de alto valor ambiental;\n\n2.4 - Prevenção e minimização do risco de incêndio.\n\n3.ª Prioridade - Melhoria da integração nos mercados\n\nDomínios Temáticos:\n\n3.1 - Inovação organizacional com vista ao aumento da eficiência de gestão e promoção de novas formas de articulação entre agentes;\n\n3.2 - Adaptação da produção a exigências/oportunidades dos mercados internos e de exportação (incluindo transparência de informação sobre oportunidades de mercado);\n\n3.3 - Adaptação da produção, tendo em vista a substituição de importações de produtos agrícolas para alimentação humana e animal;\n\n3.4 - Inserção das pequenas explorações nos mercados;\n\n3.5 - Melhoria da qualidade e segurança dos produtos agroalimentares;\n\n3.6 - Ajustamento da oferta a padrões de consumo saudável.\n\n4.ª Prioridade - Valorização dos territórios\n\nMelhoria da inserção dos bens e serviços agrícolas e florestais na valorização de territórios.\n\n5.ª Prioridade: Outros domínios temáticos previstos nas iniciativas emblemáticas da Agenda de Inovação 2030\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17"
+  },
+  "915671947": {
+   "fragment_id": "105340353",
+   "type": 14,
+   "heading": "Anexo II — Critérios de apreciação das iniciativas",
+   "in_force_from": "2025-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17"
+   ],
+   "markdown": "## Anexo II — Critérios de apreciação das iniciativas\n\n[a que se refere a alínea d) do n.º 2 do artigo 5.º]\n\n| Critérios de Apreciação | Clareza | Enquadramento | Coerência |\n| --- | --- | --- | --- |\n| a) Identificação do problema ou oportunidade que a iniciativa se propõe abordar | √ | √ |  |\n| b) Descrição da situação de partida relativa ao problema ou oportunidade objeto da iniciativa (1) | √ |  |  |\n| c) Objetivos visados | √ | √ | √ |\n| d) Identificação das principais fases de desenvolvimento do plano de ação explicitando a respetiva duração e o contributo de cada parceiro | √ |  | √ |\n| e) Descrição do método de abordagem a utilizar para a resolução do problema ou aproveitamento da oportunidade | √ |  |  |\n| f) Identificação da tipologia de resultados a atingir (2) | √ | √ | √ |\n| g) Identificação dos potenciais destinatários | √ | √ |  |\n| h) Descrição dos processos de demonstração, divulgação, disseminação e capacitação previstos (3) | √ | √ | √ |\n\n(\n\n1\n\n) A situação de partida retrata o conhecimento existente face ao problema ou oportunidade que a iniciativa aborda, e à qual se propõe acrescentar conhecimento com potencial de inovação. Identificar projetos já anteriormente desenvolvidos que abordem o mesmo problema ou oportunidade.\n\n(\n\n2\n\n) O tipo de resultados a atingir deve ser orientado pela natureza concreta do problema ou oportunidade, ou seja, pela aplicação na prática produtiva, não se coadunando com uma tipologia de resultados estrita de processos de investigação.\n\n(\n\n3\n\n) A disseminação de resultados e a transferência de conhecimento junto dos potenciais destinatários da iniciativa, princípios basilares da Estratégia Europeia para a Inovação para a produtividade e sustentabilidade da Agricultura (PEI AGRI) e do Sistema de Conhecimento e Inovação para a Agricultura (AKIS) deve assentar em processos que potenciem a aplicação prática dos resultados da iniciativa e a capacitação dos agentes do setor.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 199-A/2025/1 - Diário da República n.º 77/2025, Suplemento, Série I de 2025-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/199-a-2025-915631929), em vigor a partir de 2025-04-22, produz efeitos a partir de 2025-04-17"
+  }
+ }
+}

@@ -1,0 +1,577 @@
+---
+schema_version: '1.0'
+id: pt:dre:506833:por
+title: Portaria n.º 32/76
+short_title: null
+summary: Expropria vários prédios rústicos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e Pescas
+proposing_entity: null
+official_number: 32/76
+official_date: null
+publication_date: '1976-01-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 21/1976, Série I de 1976-01-26
+  number: '21'
+  series: I
+  supplement: null
+  pages: 159 - 163
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02100/01590163.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '506833'
+  dre_path: /dr/detalhe/portaria/32-1976-506833
+  internal: pt:dre:506833:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-1976-506833
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/32-1976-506833
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:01:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 10a1ce550247aeceff350d11d568cf4a9683efaa0e583bd03090104eab16d436
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:01:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Exploração Agrícola
+- Expropriação
+- Prédio Rústico
+- Reforma Agrária
+relationships:
+- type: amended_by
+  target: pt:dre:579517:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:461603:por
+  label: "Desanexada uma parcela de terreno do prédio rústico denominado \"Goucha e Atela\" pela PORT.765/80.01.10.1980.MFP,\
+    \ DR.IS [227] de 01.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/765-1980-461603
+  date: '1980-10-01'
+- type: amended_by
+  target: pt:dre:390427:por
+  label: "Desanexada uma parcela de terreno, com a área de 30 400m2, no prédio rústico de Vale do Junco, expropriado ( e referido\
+    \ no n.º 40) do presente diploma pela PORT.28/81.13.01.1981.MFP, DR.IS [10] de 13.01.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/28-1981-390427
+  date: '1981-01-13'
+- type: amended_by
+  target: pt:dre:390199:por
+  label: "Desanexada a totalidade do prédio rústico Chã dos Cardos expropriado pelo presente diploma, pela PORT.99/81.22.01.1981.MFP,\
+    \ DR.IS [18] de 22.01.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-1981-390199
+  date: '1981-01-22'
+- type: amended_by
+  target: pt:dre:580315:por
+  label: "Desanexada uma parcela de terreno, com a área de 1752 m2, do prédio rústicos Casal de S. Sebastião, expropriado\
+    \ pela PORT.583/81.10.07.1981.MFP, DR.IS [156] de 10.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/583-1981-580315
+  date: '1981-07-10'
+- type: amended_by
+  target: pt:dre:579517:por
+  label: "Desanexado e transmitida a respectiva propriedade a favor da Câmara Municipal da Chamusca o prédio rústico denominado\
+    \ \"Casal do Leme\" pela PORT.628/81.22.07.1981.MFP, DR.IS [166] de 22.07.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/628-1981-579517
+  date: '1981-07-22'
+- type: cites
+  target: pt:dre:346075:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:426969:por
+  label: Rectificada pela DECL.DD8915.02.06.1976.PCM, DR.IS [129] de 02.06.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-426969
+  date: '1976-06-02'
+- type: corrected_by
+  target: pt:dre:377924:por
+  label: "Rectificada pela PORT.403/79.07.08.1979.MAP, DR.IS [181] de 07.08.1979\09"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/403-1979-377924
+  date: '1979-08-07'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:01:42Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 32/76
+
+de 26 de Janeiro
+
+Manda o Governo da República Portuguesa, pelo Ministério da Agricultura e Pescas, sob proposta do Instituto de Reorganização Agrária:
+
+I
+
+Nos termos dos artigos 1.º e 8.º do [Decreto-Lei n.º 406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075), de 29 de Julho, expropriar os prédios rústicos abaixo discriminados, propriedade de:
+
+Sociedade Agrícola da Goucha e Atela, Lda.:
+
+1. Quinta da Goucha e Atela:
+
+Matriz cadastral: 44-000; 6-M M M a 6-M M M-9, da freguesia e concelho de Alpiarça, com 594,4160 ha (207185 pontos).
+
+José da Câmara Pedroso:
+
+2. Curva do Monte:
+
+Matriz cadastral: artigo 13, secção F, da freguesia e concelho da Chamusca, com 0,1040 ha.
+
+3. Lagarteira:
+
+Matriz cadastral: artigo 60, secção F, freguesia e concelho da Chamusca, com 0,1400 ha.
+
+4. Casalinho:
+
+Matriz cadastral: artigo 82, secção F, freguesia e concelho da Chamusca, com 0,4400 ha.
+
+5. Casalinho:
+
+Matriz cadastral: artigo 111, secção F, freguesia e concelho da Chamusca, com 0,3240 há.
+
+6. Casalinho:
+
+Matriz cadastral: artigo 120, secção F, freguesia e concelho da Chamusca, com 0,8200 ha.
+
+7. Vinha do Cocho:
+
+Matriz cadastral: artigo 2, secção N, freguesia e concelho da Chamusca, com 3,2800 ha.
+
+8. Castelhana:
+
+Matriz cadastral: artigo 11, secção O, freguesia e concelho da Chamusca, com 6,2080 ha.
+
+9. Os Doze:
+
+Matriz cadastral: artigo 30, secção P, freguesia e concelho da Chamusca, com 4,20 ha.
+
+10. Castelhana:
+
+Matriz cadastral: artigo 39, secção P, freguesia e concelho da Chamusca, com 4,5080 ha.
+
+11. Areias de Fora:
+
+Matriz cadastral: artigo 2, secção R, freguesia e concelho da Chamusca, com 7,1680 ha.
+
+12. Bacelada:
+
+Matriz cadastral: artigo 32, secção S, freguesia e concelho da Chamusca, com 0,9320 ha.
+
+13. Alverca:
+
+Matriz cadastral: artigo 28, secção I, freguesia e concelho da Chamusca, com 7,3520 ha.
+
+14. Património:
+
+Matriz cadastral: artigo 1, secção V, freguesia e concelho da Chamusca, com 32,1280 ha.
+
+15. Paul da Trava - 1/2:
+
+Matriz cadastral: artigo 7, secção X, freguesia e concelho da Chamusca, com 3,8250 ha.
+
+16. Casal de Braga:
+
+Matriz cadastral: artigo 11, secção X, freguesia e concelho da Chamusca, com 302,6250 ha.
+
+17. Arraiolos de Baixo:
+
+Matriz cadastral: artigo 3, secção Y, freguesia e concelho da Chamusca, com 347,1750 ha.
+
+18. Salgueiral:
+
+Matriz cadastral: artigo 50, secção M, freguesia e concelho da Chamusca, com 7,4750 ha.
+
+19. Casal Novo, Casal Carranca:
+
+Matriz cadastral: artigo 2, secção P, freguesia de Ulme, concelho da Chamusca, com 364,70 ha.
+
+Maria Helena de Sousa Holstein Beck:
+
+20. Perna Molhada:
+
+Matriz cadastral: artigo 1, secção H-H1, da freguesia de Vale de Cavalos, concelho da Chamusca, com 882,7250 ha.
+
+21. Borra Zeiro:
+
+Matriz cadastral: artigo 7, secção FF, freguesia de Vale de Cavalos, concelho da Chamusca, com 55,1720 ha.
+
+22. Os Seis:
+
+Matriz cadastral: artigo 11, secção FF, da freguesia de Vale de Cavalos, concelho da Chamusca, com 3,5040 ha.
+
+23. Quatro da Samurra:
+
+Matriz cadastral: artigo 5, secção EE, freguesia de Vale de Cavalos, concelho da Chamusca, com 3,2680 ha.
+
+24. Os Doze:
+
+Matriz cadastral: artigo 6, secção GG, freguesia de Vale de Cavalos, concelho da Chamusca, com 2,7600 ha.
+
+25. Os Oito:
+
+Matriz cadastral: artigo 8, secção GG, freguesia de Vale de Cavalos, concelho da Chamusca, com 0,80 ha.
+
+26. Terno e Quatro do Cabide:
+
+Matriz cadastral: artigo 5, secção II, freguesia de Vale de Cavalos, concelho da Chamusca, com 19,3120 ha.
+
+Eduardo Monteiro do Amaral Neto:
+
+27. Quinta do Nicho:
+
+Matriz cadastral: artigo 10, secção A, freguesia e concelho da Chamusca, com 2,2160 ha.
+
+28. Quinta de Santo António:
+
+Matriz cadastral: artigo 11, secção A, freguesia e concelho da Chamusca, com 2,8400 ha.
+
+29. Rua de Anselmo Andrade:
+
+Matriz cadastral: artigo 35, secção D, freguesia e concelho da Chamusca, com 1,1520 ha.
+
+30. Quinta de Santo António:
+
+Matriz cadastral: artigo 53, secção D, freguesia e concelho da Chamusca, com 1,60 ha.
+
+31. Quinta de Santo António:
+
+Matriz cadastral: artigo 54, secção D, freguesia e concelho da Chamusca, com 1,7250 ha.
+
+32. Baceladas:
+
+Matriz cadastral: artigo 25, secção Q, freguesia e concelho da Chamusca, com 5,3440 ha.
+
+33. Coude:
+
+Matriz cadastral: artigo 26, secção Q, freguesia e concelho da Chamusca, com 10,4960 ha.
+
+34. Terno:
+
+Matriz cadastral: artigo 4, secção W, freguesia e concelho da Chamusca, com 7,2500 ha.
+
+35. Terno do Freixo:
+
+Matriz cadastral: artigo 12, secção W, freguesia e concelho da Chamusca, com 8,8750 ha.
+
+36. Quinta das Romeiras:
+
+Matriz cadastral: artigo 9, secção A, freguesia e concelho da Chamusca, com 4,0600 ha.
+
+37. Lezírias e Casal da Murta:
+
+Matriz cadastral: artigo 5, secção R, freguesia e concelho da Chamusca, com 24,2250 ha.
+
+38. Casal do Gavião de Cima:
+
+Matriz cadastral: artigo 1, secção E a E3, freguesia do Chouto, concelho da Chamusca, com 1589,4250 ha.
+
+39. Casal do Freixo, Quinta do Lezirão e Quinta Murta:
+
+Matriz cadastral: artigo 4, secção Q, freguesia e concelho da Chamusca, com 495,4690 ha.
+
+40. Casal do Junco:
+
+Matriz cadastral: artigo 1, secção I e I1, freguesia de Ulme, concelho da Chamusca, com 1061,9625 ha.
+
+Carlos Monteiro do Amaral Neto:
+
+41. Casais da Valeira, do Pai Poldro, do Vale do Inferno e das Bolsas:
+
+Matriz cadastral: artigo 1 secção A-A1-A2, freguesia de Ulme, concelho da Chamusca, com 1934,0250 ha.
+
+42. Casal de S. Sebastião:
+
+Matriz cadastral: artigo 1, secção B-B1-B2, freguesia e concelho da Chamusca, com 224,6800 ha.
+
+43. Cova das Pereiras:
+
+Matriz cadastral: artigo 21, secção D, freguesia e concelho da Chamusca, com 0,3800 ha.
+
+44. Canada:
+
+Matriz cadastral: artigo 38, secção II, freguesia de Pinheiro Grande, concelho da Chamusca, com 18,9520 ha.
+
+45. Chã dos Cardos:
+
+Matriz cadastral: artigo 96, secção NN, freguesia do Pinheiro Grande, concelho da Chamusca, com 0,5560 ha.
+
+46. Vale do Junco:
+
+Matriz cadastral: artigo 37, secção OO, freguesia de Pinheiro Grande, concelho da Chamusca, com 6,2720 ha.
+
+47. Foro do Junco:
+
+Matriz cadastral: artigo 43, secção OO, freguesia de Pinheiro Grande, concelho da Chamusca, com 0,20 ha.
+
+48. Escolástico:
+
+Matriz cadastral: artigo 11, secção PP, freguesia de Pinheiro Grande, concelho da Chamusca, com 0,0120 ha.
+
+49. Cerradinho:
+
+Matriz cadastral: artigo 13, secção PP, freguesia de Pinheiro Grande, concelho da Chamusca, com 1,3440 ha.
+
+50. Horta do Lobato:
+
+Matriz cadastral: artigo 16, secção PP, freguesia de Pinheiro Grande, concelho da Chamusca, com 1,1680 ha.
+
+51. Casal do Lemos:
+
+Matriz cadastral: artigo 44, secção C, freguesia e concelho da Chamusca, com 9,8800 ha.
+
+52. Foros de S. Sebastião:
+
+Matriz cadastral: artigo 13, secção B, freguesia e concelho da Chamusca, com 0,7520 ha.
+
+53. Bonfim:
+
+Matriz cadastral: artigo 41, secção C, freguesia e concelho da Chamusca, com 0,5280 ha.
+
+54. Pomar da Quinta:
+
+Matriz cadastral: artigo 73, secção PP, freguesia de Pinheiro Grande, concelho da Chamusca, com 3,2040 ha.
+
+55. Três Hastins:
+
+Matriz cadastral: artigo 18, secção KK, freguesia de Pinheiro Grande, concelho da Chamusca, com 2,0120 ha.
+
+56. Lagartuxas:
+
+Matriz cadastral: artigo 46, secção HH, freguesia de Pinheiro Grande, concelho da Chamusca, com 0,8920 ha.
+
+57. Aroeiras:
+
+Matriz cadastral: artigo 48, secção HH, freguesia de Pinheiro Grande, concelho da Chamusca, com 1,7080 ha.
+
+58. Catorze:
+
+Matriz cadastral: artigo 29, secção JJ, freguesia de Pinheiro Grande, concelho da Chamusca, com 8,8800 ha.
+
+59. Os Quinze:
+
+Matriz cadastral: artigo 31, secção KK, freguesia de Pinheiro Grande, concelho da Chamusca, com 9,60 ha.
+
+60. Os Cinco:
+
+Matriz cadastral: artigo 42, secção KK, freguesia de Pinheiro Grande, concelho da Chamusca, com 3,1040 ha.
+
+61. Os Seis do Morro:
+
+Matriz cadastral: artigo 52, secção KK, freguesia de Pinheiro Grande, concelho da Chamusca, com 3,6520 ha.
+
+62. Os Treze:
+
+Matriz cadastral: artigo 8, secção L, freguesia de Pinheiro Grande, concelho da Chamusca, com 7,7600 ha.
+
+63. Os Nove:
+
+Matriz cadastral: artigo 12, secção MM, freguesia de Pinheiro Grande, concelho da Chamusca, com 2,1840 ha.
+
+64. Os Lagares:
+
+Matriz cadastral: artigo 35, secção KK, freguesia de Pinheiro Grande, concelho da Chamusca, com 0,4648 ha.
+
+65. Casal Velho e Arrancada:
+
+Matriz cadastral: artigo 1, secção J-J1, freguesia de Pinheiro Grande, concelho da Chamusca, com 1088,6475 ha.
+
+66. Casal do Convento de Santo António:
+
+Matriz cadastral: artigo 6, secção T-T, freguesia de Pinheiro Grande, concelho da Chamusca, com 2,7040 ha.
+
+67. Convento de Santo António:
+
+Matriz cadastral: artigo 4, secção VV, freguesia de Pinheiro Grande, concelho da Chamusca, com 6,6320 ha.
+
+Jovita Flora dos Santos Alvarez:
+
+68. Herdade de Vale de Carlos:
+
+Matriz cadastral: artigo 1, secção D-D1, freguesia de Vale de Cavalos, concelho da Chamusca, com 913,9075 ha.
+
+69. Bica da Sota:
+
+Matriz cadastral: artigo 4, secção TT, freguesia de Vale de Cavalos, concelho da Chamusca, com 10,9096 ha.
+
+70. Vale Neto:
+
+Matriz cadastral: artigo 36, secção VV, freguesia de Vale de Cavalos, concelho da Chamusca, com 10,9096 ha.
+
+Isabel Maria Tavares Belard Fonseca L. da Costa:
+
+71. Vila de Rei de Cima:
+
+Matriz cadastral: artigo 1, secção F-F1-F2, freguesia de Vale de Cavalos, concelho da Chamusca, com 973,60 ha.
+
+72. S. Domingos:
+
+Matriz cadastral: artigo 8, secção EE, freguesia de Vale de Cavalos, concelho da Chamusca, com 39,8760 ha.
+
+Maria Rita Cunhal Gonçalves Ferreira:
+
+73. Herdade do Arneiro Negro:
+
+Matriz cadastral: artigo 1, secção Y-Y1, freguesia de Vale de Cavalos, concelho da Chamusca, com 1033,30 ha.
+
+74. Herdade de Sernedeiro e Ateus:
+
+Matriz cadastral: artigo 1, secção V, freguesia de Vale de Cavalos, concelho da Chamusca, com 586,5750 ha.
+
+75. Herdade da Machuqueira do Grou:
+
+Matriz cadastral: artigo 1, secção W-W1, freguesia de Vale de Cavalos, concelho da Chamusca, com 805,4700 ha.
+
+José da Rosa Sousa Falcão:
+
+76. Casal das Tojeiras:
+
+Matriz cadastral: artigo 1, secção F-F1, freguesia do Chouto, concelho da Chamusca, com 857,7075 ha.
+
+Alfredo Maria Praça Cunhal:
+
+77. Herdade das Cruzetinhas:
+
+Matriz cadastral: artigo 1, secção T a T5, freguesia de Vale de Cavalos, concelho da Chamusca, com 3148,80 ha.
+
+Maria José de Sousa Holstein Beck:
+
+78. Rodeio:
+
+Matriz cadastral: artigo 1, secção D-D1, freguesia de Pinheiro Grande, concelho da Chamusca, com 1446,2450 ha.
+
+79. Sesmarias e Ameixial:
+
+Matriz cadastral: artigo 1, secção B a B3, freguesia de Vale de Cavalos, concelho da Chamusca, com 1233,0760 ha.
+
+80. Rosmaninho:
+
+Matriz cadastral: artigo 1, secção LL, freguesia de Vale de Cavalos, concelho da Chamusca, com 5,5080 ha.
+
+81. Os Vinte:
+
+Matriz cadastral: artigo 2, secção MM, freguesia de Vale de Cavalos, concelho da Chamusca, com 3,8240 ha.
+
+82. Rosmaninho:
+
+Matriz cadastral: artigo 7, secção MM, freguesia de Vale de Cavalos, concelho da Chamusca, com 9,4080 ha.
+
+83. Casalão:
+
+Matriz cadastral: artigo 7, secção MM, freguesia de Vale de Cavalos, concelho da Chamusca, com 3,0480 ha.
+
+84. Lezíria:
+
+Matriz cadastral: artigo 1, secção NN, freguesia de Vale de Cavalos, concelho da Chamusca, com 65,9680 ha.
+
+85. Os Dez Velhos:
+
+Matriz cadastral: artigo 5, secção NN, freguesia de Vale de Cavalos, concelho da Chamusca, com 0,4680 ha.
+
+86. Omnia:
+
+Matriz cadastral: artigo 22, secção NN, freguesia de Vale de Cavalos, concelho da Chamusca, com 1,3280 ha.
+
+Carlos Ferrer Moncada:
+
+87. Galega Nova:
+
+Matriz cadastral: artigo 1, secção G-G1, freguesia de Pinheiro Grande, concelho da Chamusca, com 1002,3125 ha.
+
+Carlos Veiga:
+
+88. Casal do Famão:
+
+Matriz cadastral: artigo 1, secção L, freguesia de Ulme, concelho da Chamusca, com 386,2500 ha.
+
+89. Moinho das Águas Belas:
+
+Matriz cadastral: artigo 3, secção L, freguesia de Ulme, concelho da Chamusca, com 0,0968 ha.
+
+90. Casal de Arraiolos de Cima:
+
+Matriz cadastral: artigo 2, secção Z, freguesia e concelho da Chamusca, com 145,0250 ha.
+
+91. Mouchão:
+
+Matriz cadastral: artigo 1, secção AA-AA1, freguesia de Vale de Cavalos, concelho da Chamusca, com 132,2800 há.
+
+92. Mouchão dos Coelhos:
+
+Matriz cadastral: artigo 1, secção CC, freguesia de Vale de Cavalos, concelho da Chamusca, com 65,9120 ha.
+
+93. Ónia:
+
+Matriz cadastral: artigo 1, secção CC, freguesia de Vale de Cavalos, concelho da Chamusca, com 0,2520 ha.
+
+Jorge Rosa Rodrigues:
+
+94. Horta do Arneiro:
+
+Matriz cadastral: artigo 13, secção D, freguesia e concelho da Chamusca, com 0,6280 ha.
+
+95. Cabido:
+
+Matriz cadastral: artigo 1, secção HH, freguesia de Vale de Cavalos, concelho da Chamusca, com 16,1800 ha.
+
+96. Casal das Figueiras:
+
+Matriz cadastral: artigo 7, secção N, freguesia de Ulme, concelho da Chamusca, com 228,9500 ha.
+
+97. Casal do Carregal:
+
+Matriz cadastral: artigo 1, secção O, freguesia de Ulme, concelho da Chamusca, com 140,4250 ha.
+
+98. Casal do Anafe de Cima:
+
+Matriz cadastral: artigo 1, secção DD1, freguesia do Chouto, concelho da Chamusca, com 951,9725 ha.
+
+99. Lezirão:
+
+Matriz cadastral: artigo 3, secção X, freguesia e concelho da Chamusca, com 7,7250 ha.
+
+100:
+
+Matriz cadastral: artigo 18, secção D, freguesia e concelho da Chamusca, com 1,0600 ha.
+
+II
+
+De acordo com o n.º 1 do artigo 15.º do referido diploma, são declarados ineficazes todos os actos praticados desde 25 de Abril de 1974 que, por qualquer forma, tenham implicado diminuição da área do conjunto de prédios rústicos de cada proprietário.
+
+Ministério da Agricultura e Pescas, 14 de Janeiro de 1976. - O Ministro da Agricultura e Pescas, António Poppe Lopes Cardoso.

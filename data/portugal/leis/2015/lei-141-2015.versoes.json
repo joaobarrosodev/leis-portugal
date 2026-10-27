@@ -1,0 +1,1020 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70215245:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2015-70215261",
+ "dre_path": "/dr/detalhe/lei/141-2015-70215245",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-09-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70196160",
+    "70196161",
+    "70196162",
+    "70196163",
+    "70196164",
+    "70196165",
+    "70196166",
+    "70196167",
+    "70196168",
+    "70196169",
+    "70196170",
+    "70196171",
+    "70196172",
+    "70196173",
+    "70196174",
+    "70217275",
+    "70217276",
+    "70217277",
+    "70217278",
+    "70217279",
+    "70217280",
+    "70217281",
+    "70217282",
+    "70217283",
+    "70217284",
+    "70217285",
+    "70217286",
+    "70217287",
+    "70217288",
+    "70217289",
+    "70217290",
+    "70217291",
+    "70217292",
+    "70217293",
+    "70217294",
+    "70217295",
+    "70217296",
+    "70217297",
+    "70217298",
+    "70217299",
+    "70217300",
+    "70217301",
+    "70217302",
+    "70217303",
+    "70217304",
+    "70217305",
+    "70217306",
+    "70217307",
+    "70217308",
+    "70217309",
+    "70217310",
+    "70217311",
+    "70217312",
+    "70217313",
+    "70217314",
+    "70217315",
+    "70217316",
+    "70217317",
+    "70217318",
+    "70217319",
+    "70217320",
+    "70217321",
+    "70217322",
+    "70217323",
+    "70217324",
+    "70217325",
+    "70217326",
+    "70217327",
+    "70217328",
+    "70217329",
+    "70217330",
+    "70217331",
+    "70217332",
+    "70217333",
+    "70217334",
+    "70217335",
+    "70217336",
+    "70217337",
+    "70217338",
+    "70217339",
+    "70217340",
+    "70217341",
+    "70217342",
+    "70217343",
+    "70217344",
+    "70217345",
+    "70217346",
+    "70217347"
+   ]
+  },
+  {
+   "date": "2017-06-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107061862:por",
+     "title": "Lei n.º 24/2017",
+     "published": "2017-05-24",
+     "dre_path": "/dr/detalhe/lei/24-2017-107061862"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 24.º-A",
+    "Adita Artigo 44.º-A"
+   ],
+   "fragments": [
+    "70196160",
+    "70196161",
+    "70196162",
+    "70196163",
+    "70196164",
+    "70196165",
+    "70196166",
+    "70196167",
+    "70217348",
+    "70196168",
+    "70196169",
+    "70196170",
+    "70196171",
+    "70196172",
+    "70196173",
+    "70196174",
+    "70217275",
+    "70217276",
+    "70217277",
+    "70217278",
+    "70217279",
+    "70217280",
+    "70217281",
+    "70217282",
+    "70217283",
+    "70217284",
+    "70217285",
+    "70217286",
+    "70217287",
+    "70217288",
+    "70217289",
+    "70217290",
+    "70217291",
+    "70217292",
+    "70217293",
+    "70217294",
+    "107055634",
+    "107055635",
+    "107055636",
+    "107055637",
+    "107055638",
+    "107055639",
+    "107055640",
+    "107055641",
+    "107055642",
+    "107055643",
+    "70217304",
+    "70217305",
+    "70217306",
+    "70217307",
+    "70217308",
+    "70217309",
+    "70217310",
+    "70217311",
+    "70217312",
+    "70217313",
+    "70217314",
+    "70217315",
+    "70217316",
+    "107055644",
+    "70217317",
+    "70217318",
+    "70217319",
+    "70217320",
+    "70217321",
+    "70217322",
+    "70217323",
+    "70217324",
+    "70217325",
+    "70217326",
+    "70217327",
+    "70217328",
+    "70217329",
+    "70217330",
+    "70217331",
+    "70217332",
+    "70217333",
+    "70217334",
+    "70217335",
+    "70217336",
+    "70217337",
+    "70217338",
+    "70217339",
+    "70217340",
+    "70217341",
+    "70217342",
+    "70217343",
+    "70217344",
+    "70217345",
+    "70217346",
+    "70217347"
+   ]
+  }
+ ],
+ "fragments": {
+  "70196160": {
+   "fragment_id": "70215262",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 141/2015\n\nde 8 de setembro\n\nAprova o Regime Geral do Processo Tutelar Cível, e procede à primeira alteração à Lei n.º 103/2009, de 11 de setembro, que estabelece o regime jurídico do apadrinhamento civil\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70196161": {
+   "fragment_id": "70215263",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova o Regime Geral do Processo Tutelar Cível."
+  },
+  "70196162": {
+   "fragment_id": "70215264",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação do Regime Geral do Processo Tutelar Cível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação do Regime Geral do Processo Tutelar Cível\n\nÉ aprovado, em anexo à presente lei, que dela faz parte integrante, o Regime Geral do Processo Tutelar Cível."
+  },
+  "70196163": {
+   "fragment_id": "70215265",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração à Lei n.º 103/2009, de 11 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração à Lei n.º 103/2009, de 11 de setembro\n\nOs artigos 7.º, 10.º, 13.º, 19.º e 25.º da Lei n.º 103/2009, de 11 de setembro, que estabelece o regime jurídico do apadrinhamento civil, passam a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - As obrigações estabelecidas nos artigos referidos no número anterior são cumpridas perante o tribunal.\n\n5 - ...\n\nArtigo 10.º\n\n[...]\n\n1 - ...\n\n2 - Quando a iniciativa for da criança ou do jovem maior de 12 anos, o tribunal nomeia, a seu pedido, patrono que o represente.\n\n3 - ...\n\nArtigo 13.º\n\n[...]\n\n1 - ...\n\na) Por decisão do tribunal, nos casos em que:\n\ni) Esteja a correr um processo judicial de promoção e proteção ou um processo tutelar cível;\n\nii) Não sendo obtido o consentimento de uma das pessoas referidas no n.º 1 do artigo 14.º, possa o mesmo ser dispensado nos termos do n.º 4 do mesmo artigo;\n\niii) Tenha havido parecer desfavorável do conselho de família;\n\nb) ...\n\n2 - ...\n\n3 - ...\n\nArtigo 19.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - (Revogado.)\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\nArtigo 25.º\n\n[...]\n\n1 - ...\n\n2 - A decisão de revogação do apadrinhamento civil cabe ao tribunal.\n\n3 - (Revogado.)\n\n4 - Ao previsto no n.º 2 do presente artigo aplicam-se, com as devidas adaptações, os critérios de fixação de competência estabelecidos no artigo 18.º, cabendo a decisão à entidade que, no momento, se mostrar territorialmente competente.\n\n5 - ...\n\n6 - ...»"
+  },
+  "70196164": {
+   "fragment_id": "70215266",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposição transitória\n\nAté à entrada em vigor do Regime Jurídico do Processo de Adoção, aprovado pela Lei n.º 143/2015, de 8 de setembro, mantém-se em vigor o disposto na alínea c) do artigo 146.º, na alínea c) do artigo 147.º e na secção i do capítulo ii do título iii do Decreto-Lei n.º 314/78, de 27 de outubro (Revê a Organização Tutelar de Menores)."
+  },
+  "70196165": {
+   "fragment_id": "70215267",
+   "type": 11,
+   "heading": "Artigo 5.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aplicação no tempo\n\nO Regime Geral do Processo Tutelar Cível aplica-se aos processos em curso à data da sua entrada em vigor, sem prejuízo da validade dos atos praticados na vigência da lei anterior."
+  },
+  "70196166": {
+   "fragment_id": "70215268",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 314/78, de 27 de outubro (Revê a Organização Tutelar de Menores);\n\nb) O n.º 4 do artigo 19.º e o n.º 3 do artigo 25.º, ambos da Lei n.º 103/2009, de 11 de setembro, que estabelece o regime jurídico do apadrinhamento civil."
+  },
+  "70196167": {
+   "fragment_id": "70215269",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "70196168": {
+   "fragment_id": "70215270",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 2.º)\n\nRegime Geral do Processo Tutelar Cível"
+  },
+  "70196169": {
+   "fragment_id": "70215271",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "70196170": {
+   "fragment_id": "70215272",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO Regime Geral do Processo Tutelar Cível, doravante designado RGPTC, regula o processo aplicável às providências tutelares cíveis e respetivos incidentes."
+  },
+  "70196171": {
+   "fragment_id": "70215273",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO RGPTC não é aplicável ao processo de adoção e respetivos procedimentos preliminares, os quais são regulados em diploma próprio."
+  },
+  "70196172": {
+   "fragment_id": "70215274",
+   "type": 11,
+   "heading": "Artigo 3.º — Providências tutelares cíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Providências tutelares cíveis\n\nPara efeitos do RGPTC, constituem providências tutelares cíveis:\n\na) A instauração da tutela e da administração de bens;\n\nb) A nomeação de pessoa que celebre negócio em nome da criança e, bem assim, a nomeação de curador geral que represente, extrajudicialmente, a criança sujeita às responsabilidades parentais;\n\nc) A regulação do exercício das responsabilidades parentais e o conhecimento das questões a este respeitantes;\n\nd) A fixação dos alimentos devidos à criança e aos filhos maiores ou emancipados a que se refere o artigo 1880.º do Código Civil e a execução por alimentos;\n\ne) A entrega judicial de criança;\n\nf) A autorização do representante legal da criança à prática de certos atos, a confirmação dos que tenham sido praticados sem autorização e as providências acerca da aceitação de liberalidades;\n\ng) A determinação da caução que os pais devam prestar a favor dos seus filhos ainda crianças;\n\nh) A inibição, total ou parcial, e o estabelecimento de limitações ao exercício das responsabilidades parentais;\n\ni) A averiguação oficiosa da maternidade e da paternidade;\n\nj) A determinação, em caso de desacordo dos pais, do nome e apelidos da criança;\n\nk) A constituição da relação de apadrinhamento civil e a sua revogação;\n\nl) A regulação dos convívios da criança com os irmãos e ascendentes."
+  },
+  "70196173": {
+   "fragment_id": "70217175",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios orientadores\n\n1 - Os processos tutelares cíveis regulados no RGPTC regem-se pelos princípios orientadores de intervenção estabelecidos na lei de proteção de crianças e jovens em perigo e ainda pelos seguintes:\n\na) Simplificação instrutória e oralidade - a instrução do processo recorre preferencialmente a formas e a atos processuais simplificados, nomeadamente, no que concerne à audição da criança que deve decorrer de forma compreensível, ao depoimento dos pais, familiares ou outras pessoas de especial referência afetiva para a criança, e às declarações da assessoria técnica, prestados oralmente e documentados em auto;\n\nb) Consensualização - os conflitos familiares são preferencialmente dirimidos por via do consenso, com recurso a audição técnica especializada e ou à mediação, e, excecionalmente, relatados por escrito;\n\nc) Audição e participação da criança - a criança, com capacidade de compreensão dos assuntos em discussão, tendo em atenção a sua idade e maturidade, é sempre ouvida sobre as decisões que lhe digam respeito, preferencialmente com o apoio da assessoria técnica ao tribunal, sendo garantido, salvo recusa fundamentada do juiz, o acompanhamento por adulto da sua escolha sempre que nisso manifeste interesse.\n\n2 - Para efeitos do disposto na alínea c) do número anterior, o juiz afere, casuisticamente e por despacho, a capacidade de compreensão dos assuntos em discussão pela criança, podendo para o efeito recorrer ao apoio da assessoria técnica."
+  },
+  "70196174": {
+   "fragment_id": "70217176",
+   "type": 11,
+   "heading": "Artigo 5.º — Audição da criança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Audição da criança\n\n1 - A criança tem direito a ser ouvida, sendo a sua opinião tida em consideração pelas autoridades judiciárias na determinação do seu superior interesse.\n\n2 - Para efeitos do disposto no número anterior, o juiz promove a audição da criança, a qual pode ter lugar em diligência judicial especialmente agendada para o efeito.\n\n3 - A audição da criança é precedida da prestação de informação clara sobre o significado e alcance da mesma.\n\n4 - A audição da criança respeita a sua específica condição, garantindo-se, em qualquer caso, a existência de condições adequadas para o efeito, designadamente:\n\na) A não sujeição da criança a espaço ou ambiente intimidatório, hostil ou inadequado à sua idade, maturidade e características pessoais;\n\nb) A intervenção de operadores judiciários com formação adequada.\n\n5 - Tendo em vista o cumprimento do disposto no número anterior, privilegia-se a não utilização de traje profissional aquando da audição da criança.\n\n6 - Sempre que o interesse da criança o justificar, o tribunal, a requerimento ou oficiosamente, pode proceder à audição da criança, em qualquer fase do processo, a fim de que o seu depoimento possa ser considerado como meio probatório nos atos processuais posteriores, incluindo o julgamento.\n\n7 - A tomada de declarações obedece às seguintes regras:\n\na) A tomada de declarações é realizada em ambiente informal e reservado, com vista a garantir, nomeadamente, a espontaneidade e a sinceridade das respostas, devendo a criança ser assistida no decurso do ato processual por um técnico especialmente habilitado para o seu acompanhamento, previamente designado para o efeito;\n\nb) A inquirição é feita pelo juiz, podendo o Ministério Público e os advogados formular perguntas adicionais;\n\nc) As declarações da criança são gravadas mediante registo áudio ou audiovisual, só podendo ser utilizados outros meios técnicos idóneos a assegurar a reprodução integral daquelas quando aqueles meios não estiverem disponíveis e dando-se preferência, em qualquer caso, à gravação audiovisual sempre que a natureza do assunto a decidir ou o interesse da criança assim o exigirem;\n\nd) Quando em processo-crime a criança tenha prestado declarações para memória futura, podem estas ser consideradas como meio probatório no processo tutelar cível;\n\ne) Quando em processo de natureza cível a criança tenha prestado declarações perante o juiz ou Ministério Público, com observância do princípio do contraditório, podem estas ser consideradas como meio probatório no processo tutelar cível;\n\nf) A tomada de declarações nos termos das alíneas anteriores não prejudica a prestação de depoimento em audiência de julgamento, sempre que ela deva ser possível e não puser em causa a saúde física e psíquica e o desenvolvimento integral da criança;\n\ng) Em tudo o que não contrarie este preceito, aplica-se, com as necessárias adaptações, o regime processual civil previsto para a prova antecipada."
+  },
+  "70217275": {
+   "fragment_id": "70217177",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência principal das secções de famílias e menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência principal das secções de famílias e menores\n\nCompete às secções de família e menores da instância central do tribunal de comarca em matéria tutelar cível:\n\na) Instaurar a tutela e a administração de bens;\n\nb) Nomear pessoa que celebre negócios em nome da criança e, bem assim, nomear curador geral que represente, extrajudicialmente, a criança sujeita às responsabilidades parentais;\n\nc) Regular o exercício das responsabilidades parentais e conhecer das questões a este respeitantes;\n\nd) Fixar os alimentos devidos à criança e aos filhos maiores ou emancipados a que se refere o artigo 1880.º do Código Civil e preparar e julgar as execuções por alimentos;\n\ne) Ordenar a entrega judicial de criança;\n\nf) Autorizar o representante legal da criança a praticar certos atos, confirmar os que tenham sido praticados sem autorização e providenciar acerca da aceitação de liberalidades;\n\ng) Decidir acerca da caução que os pais devam prestar a favor dos seus filhos ainda crianças;\n\nh) Decretar a inibição, total ou parcial, e estabelecer limitações ao exercício das responsabilidades parentais;\n\ni) Proceder à averiguação oficiosa da maternidade e da paternidade;\n\nj) Decidir, em caso de desacordo dos pais, sobre o nome e apelidos da criança;\n\nk) Constituir a relação de apadrinhamento civil e decretar a sua revogação;\n\nl) Regular os convívios da criança com os irmãos e ascendentes."
+  },
+  "70217276": {
+   "fragment_id": "70217178",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência acessória das secções de família e menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência acessória das secções de família e menores\n\nCompete ainda às secções de família e menores:\n\na) Havendo tutela ou administração de bens, determinar a remuneração do tutor ou administrador, conhecer da escusa, exoneração ou remoção do tutor, administrador ou vogal do conselho de família, exigir e julgar as contas, autorizar a substituição da hipoteca legal e determinar o reforço e substituição da caução prestada, e nomear curador especial que represente a criança extrajudicialmente;\n\nb) Nomear curador especial que represente a criança em qualquer processo tutelar;\n\nc) Decidir acerca do reforço e substituição da caução prestada a favor dos filhos ainda crianças;\n\nd) Exigir e julgar as contas que os pais devam prestar;\n\ne) Conhecer de quaisquer outros incidentes dos processos referidos no artigo anterior."
+  },
+  "70217277": {
+   "fragment_id": "70217179",
+   "type": 11,
+   "heading": "Artigo 8.º — Secções da instância local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Secções da instância local\n\n1 - Fora das áreas abrangidas pela jurisdição das secções de família e menores, cabe às secções cíveis da instância local conhecer das causas que àquelas estão atribuídas.\n\n2 - Sem prejuízo do disposto no número anterior, em caso de não ocorrer desdobramento, cabe às secções de competência genérica da instância local conhecer das causas ali referidas, conforme o disposto na alínea a) do n.º 1 do artigo 130.º da Lei n.º 62/2013, de 26 de agosto.\n\n3 - Nos casos previstos nos números anteriores, o tribunal constitui-se em secção de família e menores."
+  },
+  "70217278": {
+   "fragment_id": "70217180",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência territorial\n\n1 - Para decretar as providências tutelares cíveis é competente o tribunal da residência da criança no momento em que o processo foi instaurado.\n\n2 - Sendo desconhecida a residência da criança, é competente o tribunal da residência dos titulares das responsabilidades parentais.\n\n3 - Se os titulares das responsabilidades parentais tiverem residências diferentes, é competente o tribunal da residência daquele que exercer as responsabilidades parentais.\n\n4 - No caso de exercício conjunto das responsabilidades parentais, é competente o tribunal da residência daquele com quem residir a criança ou, em situações de igualdade de circunstâncias, o tribunal em que a providência tiver sido requerida em primeiro lugar.\n\n5 - Se alguma das providências disser respeito a duas crianças, filhos dos mesmos progenitores e residentes em comarcas diferentes, é competente o tribunal em que a providência tiver sido requerida em primeiro lugar.\n\n6 - Se alguma das providências disser respeito a mais do que duas crianças, filhos dos mesmos progenitores e residentes em comarcas diferentes, é competente o tribunal da residência do maior número delas.\n\n7 - Se no momento da instauração do processo a criança residir no estrangeiro e o tribunal português for internacionalmente competente, é competente para apreciar e decidir a causa o tribunal da residência do requerente ou do requerido.\n\n8 - Quando o requerente e o requerido residam no estrangeiro e o tribunal português for internacionalmente competente, o conhecimento da causa pertence à secção da instância central de família e menores de Lisboa, na Comarca de Lisboa.\n\n9 - Sem prejuízo das regras de conexão e do previsto em lei especial, são irrelevantes as modificações de facto que ocorram após a instauração do processo."
+  },
+  "70217279": {
+   "fragment_id": "70217181",
+   "type": 11,
+   "heading": "Artigo 10.º — Exceção de incompetência territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Exceção de incompetência territorial\n\n1 - A incompetência territorial pode ser deduzida até decisão final, devendo o tribunal conhecer dela oficiosamente.\n\n2 - Para julgar a exceção, o tribunal pode ordenar as diligências que entender necessárias."
+  },
+  "70217280": {
+   "fragment_id": "70217182",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência por conexão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência por conexão\n\n1 - Se, relativamente à mesma criança, forem instaurados, separadamente, processo tutelar cível e processo de promoção e proteção, incluindo os processos perante a comissão de proteção de crianças e jovens, ou processo tutelar educativo, devem os mesmos correr por apenso, independentemente do respetivo estado, sendo competente para deles conhecer o juiz do processo instaurado em primeiro lugar.\n\n2 - O disposto no número anterior não se aplica às providências tutelares cíveis relativas à averiguação oficiosa da maternidade ou da paternidade, nem às que sejam da competência das conservatórias do registo civil, ou às que respeitem a mais que uma criança.\n\n3 - Estando pendente ação de divórcio ou de separação judicial, os processos de regulação do exercício das responsabilidades parentais, de prestação de alimentos e de inibição do exercício das responsabilidades parentais correm por apenso àquela ação.\n\n4 - Quando o processo tutelar cível respeitar a mais do que uma criança, pode ser instaurado um único processo e, tendo sido instaurados processos distintos, pode proceder-se à apensação de todos eles ao que foi instaurado em primeiro lugar, se as relações familiares assim o justificarem.\n\n5 - A incompetência territorial não impede a observância do disposto nos n.os 1, 3 e 4."
+  },
+  "70217281": {
+   "fragment_id": "70217183",
+   "type": 1,
+   "heading": "Capítulo II — Disposições processuais comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições processuais comuns"
+  },
+  "70217282": {
+   "fragment_id": "70217184",
+   "type": 11,
+   "heading": "Artigo 12.º — Natureza dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Natureza dos processos\n\nOs processos tutelares cíveis têm a natureza de jurisdição voluntária."
+  },
+  "70217283": {
+   "fragment_id": "70217185",
+   "type": 11,
+   "heading": "Artigo 13.º — Processos urgentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Processos urgentes\n\nCorrem durante as férias judiciais os processos tutelares cíveis cuja demora possa causar prejuízo aos interesses da criança."
+  },
+  "70217284": {
+   "fragment_id": "70217186",
+   "type": 11,
+   "heading": "Artigo 14.º — Prazo e seu excesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prazo e seu excesso\n\n1 - Na falta de disposição especial, é de 10 dias o prazo para a prática de qualquer ato processual.\n\n2 - Os despachos ou promoções de mero expediente, bem como os considerados urgentes, devem ser proferidos no prazo máximo de dois dias.\n\n3 - Decorridos três meses sobre o termo do prazo fixado para a prática de ato próprio do juiz sem que o mesmo tenha sido praticado, deve o juiz consignar a concreta razão da inobservância do prazo.\n\n4 - A secretaria envia, mensalmente, ao presidente do tribunal informação discriminada dos casos em que se mostrem decorridos três meses sobre o termo do prazo fixado para a prática de ato próprio do juiz, ainda que o ato tenha sido entretanto praticado, incumbindo ao presidente do tribunal, no prazo de 10 dias a contar da data de receção da informação, remeter o expediente à entidade com competência disciplinar."
+  },
+  "70217285": {
+   "fragment_id": "70217187",
+   "type": 11,
+   "heading": "Artigo 15.º — Notificações e convocatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Notificações e convocatórias\n\nAs notificações e as convocatórias para comparecer no tribunal ou noutros locais designados são realizadas, em regra, através do meio técnico mais expedito e adequado ao efeito pretendido, só se admitindo o recurso ao registo postal quando aquelas não puderem ser realizadas nos termos referidos."
+  },
+  "70217286": {
+   "fragment_id": "70217188",
+   "type": 11,
+   "heading": "Artigo 16.º — Processamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Processamento\n\nAs providências a que se refere o artigo 7.º, com exceção da prestação de contas, correm nos autos em que tenha sido decretada a providência principal, e os restantes incidentes dos processos tutelares cíveis correm por apenso."
+  },
+  "70217287": {
+   "fragment_id": "70217189",
+   "type": 11,
+   "heading": "Artigo 17.º — Iniciativa processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Iniciativa processual\n\n1 - Salvo disposição expressa e sem prejuízo do disposto nos artigos 52.º e 58.º, a iniciativa processual cabe ao Ministério Público, à criança com idade superior a 12 anos, aos ascendentes, aos irmãos e ao representante legal da criança.\n\n2 - Compete especialmente ao Ministério Público instruir e decidir os processos de averiguação oficiosa, representar as crianças em juízo, intentando ações em seu nome, requerendo ações de regulação e a defesa dos seus direitos e usando de quaisquer meios judiciais necessários à defesa dos seus direitos e superior interesse, sem prejuízo das demais funções que estão atribuídas por lei.\n\n3 - O Ministério Público está presente em todas as diligências e atos processuais presididos pelo juiz."
+  },
+  "70217288": {
+   "fragment_id": "70217190",
+   "type": 11,
+   "heading": "Artigo 18.º — Constituição de advogado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Constituição de advogado\n\n1 - Nos processos previstos no RGPTC é obrigatória a constituição de advogado na fase de recurso.\n\n2 - É obrigatória a nomeação de advogado à criança, quando os seus interesses e os dos seus pais, representante legal ou de quem tenha a guarda de facto, sejam conflituantes, e ainda quando a criança com maturidade adequada o solicitar ao tribunal."
+  },
+  "70217289": {
+   "fragment_id": "70217191",
+   "type": 11,
+   "heading": "Artigo 19.º — Juiz singular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Juiz singular\n\nAs causas referidas nos artigos 6.º e 7.º são sempre julgadas por juiz singular, com exceção da constituição do vínculo do apadrinhamento civil."
+  },
+  "70217290": {
+   "fragment_id": "70217192",
+   "type": 11,
+   "heading": "Artigo 20.º — Assessoria técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Assessoria técnica\n\n1 - As secções de família e menores são assessoradas por equipas técnicas multidisciplinares, funcionando, de preferência, junto daquelas.\n\n2 - Compete às equipas técnicas multidisciplinares apoiar a instrução dos processos tutelares cíveis e seus incidentes, apoiar as crianças que intervenham nos processos e acompanhar a execução das decisões, nos termos previstos no RGPTC.\n\n3 - Por razões de segurança, os técnicos das equipas multidisciplinares podem ser ouvidos sem a presença das partes, mas na presença dos advogados destas, garantindo-se, em qualquer caso, o contraditório.\n\n4 - Sem prejuízo de outra ordem que venha a ser definida pelo tribunal, os técnicos das equipas multidisciplinares são ouvidos em audiência, antes dos demais convocados, sendo dispensados logo que possível.\n\n5 - Sempre que possível e adequado, a assessoria técnica prestada ao tribunal relativamente a cada criança e respetiva família é assumida pelo mesmo técnico com a função de gestor de processo, inclusive no que respeita a processos de promoção e proteção."
+  },
+  "70217291": {
+   "fragment_id": "70217193",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrução\n\n1 - Tendo em vista a fundamentação da decisão, o juiz:\n\na) Toma depoimento às partes, aos familiares e outras pessoas cuja relevância para a causa reconheça, designadamente, pessoas de especial referência afetiva para a criança, ficando os depoimentos documentados em auto;\n\nb) Ordena, sempre que entenda conveniente, a audição técnica especializada e ou mediação das partes, nos termos previstos nos artigos 23.º e 24.º;\n\nc) Toma declarações aos técnicos das equipas multidisciplinares de assessoria técnica;\n\nd) Sem prejuízo da alínea anterior, solicita informações às equipas multidisciplinares de assessoria técnica ou, quando necessário e útil, a entidades externas, com as finalidades previstas no RGPTC, a realizar no prazo de 30 dias;\n\ne) Solicita a elaboração de relatório, por parte da equipa multidisciplinar de assessoria técnica, nos termos previstos no n.º 4, no prazo de 60 dias.\n\n2 - Para efeitos do disposto na alínea c) do número anterior, o tribunal notifica o técnico com a antecedência mínima de 10 dias, remetendo-lhe toda a informação relevante constante do processo.\n\n3 - As entidades públicas e privadas têm o dever de colaborar com o tribunal, prestando as informações de que disponham e que lhes forem solicitadas.\n\n4 - Para efeitos do disposto no n.º 2 do artigo anterior, as entidades públicas e privadas colaboram com as equipas multidisciplinares de assessoria técnica, disponibilizando a informação relevante que lhes seja solicitada.\n\n5 - Só há lugar a relatório nos processos e nos casos expressamente previstos no capítulo seguinte, quando a sua realização se revelar de todo indispensável depois de esgotadas as formas simplificadas de instrução, nomeadamente se forem insuficientes os depoimentos e as informações a que se referem as alíneas a), c) e d) do n.º 1.\n\n6 - O despacho que ordena o relatório deve circunscrever o seu objeto."
+  },
+  "70217292": {
+   "fragment_id": "70217194",
+   "type": 11,
+   "heading": "Artigo 22.º — Assessoria técnica externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Assessoria técnica externa\n\n1 - Em qualquer fase do processo e sempre que o entenda necessário, o juiz pode nomear ou requisitar assessores técnicos externos, a fim de assistirem a diligências, prestarem esclarecimentos, realizarem exames ou elaborarem pareceres.\n\n2 - Quando o juiz nomear ou requisitar assessores técnicos externos que prestem serviços em instituições públicas ou privadas, devem estas prestar toda a colaboração, prevalecendo o serviço do tribunal sobre qualquer outro, salvo no caso de escusa justificada.\n\n3 - Aos assessores técnicos externos aplicam-se as regras do Código do Processo Civil relativas às causas de impedimento, de suspeição e de dispensa legal do exercício da função de perito."
+  },
+  "70217293": {
+   "fragment_id": "70217195",
+   "type": 11,
+   "heading": "Artigo 23.º — Audição técnica especializada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Audição técnica especializada\n\n1 - O juiz pode, a todo o tempo e sempre que o considere necessário, determinar audição técnica especializada, com vista à obtenção de consensos entre as partes.\n\n2 - A audição técnica especializada em matéria de conflito parental consiste na audição das partes, tendo em vista a avaliação diagnóstica das competências parentais e a aferição da disponibilidade daquelas para um acordo, designadamente em matéria de regulação do exercício das responsabilidades parentais, que melhor salvaguarde o interesse da criança.\n\n3 - A audição técnica especializada inclui a prestação de informação centrada na gestão do conflito."
+  },
+  "70217294": {
+   "fragment_id": "70217196",
+   "type": 11,
+   "heading": "Artigo 24.º — Mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Mediação\n\n1 - Em qualquer estado da causa e sempre que o entenda conveniente, designadamente em processo de regulação do exercício das responsabilidades parentais, oficiosamente com o consentimento dos interessados ou a requerimento destes, pode o juiz determinar a intervenção de serviços públicos ou privados de mediação.\n\n2 - Para efeitos do disposto no número anterior, compete ao juiz informar os interessados sobre a existência e os objetivos dos serviços de mediação familiar.\n\n3 - O juiz homologa o acordo obtido por via de mediação se este satisfizer o interesse da criança."
+  },
+  "70217295": {
+   "fragment_id": "70217197",
+   "type": 11,
+   "heading": "Artigo 25.º — Contraditório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contraditório\n\n1 - As partes têm direito a conhecer as informações, as declarações da assessoria técnica e outros depoimentos, processados de forma oral e documentados em auto, relatórios, exames e pareceres constantes do processo, podendo pedir esclarecimentos, juntar outros elementos ou requerer a solicitação de informações que considerem necessárias.\n\n2 - O juiz indefere, por despacho irrecorrível, os requerimentos apresentados que se mostrem inúteis, de realização impossível ou com intuito manifestamente dilatório.\n\n3 - É garantido o contraditório relativamente às provas que forem obtidas pelos meios previstos no n.º 1."
+  },
+  "70217296": {
+   "fragment_id": "70217198",
+   "type": 11,
+   "heading": "Artigo 26.º — Dever de cooperação de agentes consulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Dever de cooperação de agentes consulares\n\nO tribunal e o Ministério Público podem dirigir-se, nos termos da lei processual e do regulamento consular, aos agentes consulares portugueses e requisitar a sua intervenção ou auxílio quanto a medidas e providências relativas a crianças sob sua jurisdição, bem como solicitar o auxílio e os bons ofícios dos agentes consulares estrangeiros em Portugal quanto a crianças de outros países residentes em território nacional."
+  },
+  "70217297": {
+   "fragment_id": "70217199",
+   "type": 11,
+   "heading": "Artigo 27.º — Conjugação de decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Conjugação de decisões\n\n1 - As decisões que apliquem medidas tutelares cíveis e de promoção e proteção, ainda que provisórias, devem conjugar-se e harmonizar-se entre si, tendo em conta o superior interesse da criança.\n\n2 - Para efeitos do disposto no número anterior, o juiz, por despacho fundamentado, procede, se necessário, à revisão da medida anteriormente decretada.\n\n3 - No caso de, em processo tutelar cível, se obterem indícios de uma situação de perigo para a criança, o Ministério Público requer, por apenso, o processo judicial de promoção e proteção e, se necessário, a aplicação de medida judicial de proteção da criança."
+  },
+  "70217298": {
+   "fragment_id": "70217200",
+   "type": 11,
+   "heading": "Artigo 28.º — Decisões provisórias e cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Decisões provisórias e cautelares\n\n1 - Em qualquer estado da causa e sempre que o entenda conveniente, a requerimento ou oficiosamente, o tribunal pode decidir provisoriamente questões que devam ser apreciadas a final, bem como ordenar as diligências que se tornem indispensáveis para assegurar a execução efetiva da decisão.\n\n2 - Podem também ser provisoriamente alteradas as decisões já tomadas a título definitivo.\n\n3 - Para efeitos do disposto no presente artigo, o tribunal procede às averiguações sumárias que tiver por convenientes.\n\n4 - O tribunal ouve as partes, exceto quando a audiência puser em risco sério o fim ou a eficácia da providência.\n\n5 - Quando as partes não tiverem sido ouvidas antes do decretamento da providência, é-lhes lícito, em alternativa, na sequência da notificação da decisão que a decretou:\n\na) Recorrer, nos termos gerais, quando entenda que, face aos elementos apurados, ela não devia ter sido deferida;\n\nb) Deduzir oposição, quando pretenda alegar factos ou produzir meios de prova não tidos em conta pelo tribunal e que possam afastar os fundamentos da providência ou determinem a sua redução."
+  },
+  "70217299": {
+   "fragment_id": "70217201",
+   "type": 11,
+   "heading": "Artigo 29.º — Audiência de discussão e julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Audiência de discussão e julgamento\n\n1 - Quando haja lugar a audiência de discussão e julgamento, esta efetua-se nos seguintes termos:\n\na) Estando presentes ou representadas as partes, o juiz procura conciliá-las, tomando declarações às que estiverem presentes;\n\nb) Se não conseguir a conciliação, passa-se à produção de prova, que se inicia com a tomada de declarações às partes que estiverem presentes;\n\nc) Finda a produção da prova, é dada a palavra ao Ministério Público e aos advogados constituídos, podendo cada um usar dela uma só vez e por tempo que não exceda 30 minutos.\n\n2 - Atendendo à complexidade da causa, o juiz pode determinar o alargamento do tempo para o uso da palavra, previsto na alínea c) do número anterior.\n\n3 - A audiência é sempre gravada, devendo apenas ser assinalados na ata o início e o termo de cada depoimento, declaração, informação, esclarecimento, requerimento e respetiva resposta, despacho, decisão e alegações orais.\n\n4 - A audiência só pode ser adiada uma vez por falta das partes, dos seus advogados ou testemunhas.\n\n5 - Se a audiência for adiada por impedimento do tribunal, deve ficar consignado nos autos o respetivo fundamento.\n\n6 - Quando o adiamento se dever à realização de outra diligência, deve ainda ser identificado o processo a que respeita."
+  },
+  "70217300": {
+   "fragment_id": "70217202",
+   "type": 11,
+   "heading": "Artigo 30.º — Princípio da plenitude da assistência do juiz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Princípio da plenitude da assistência do juiz\n\n1 - Se durante a audiência de discussão e julgamento falecer ou se impossibilitar permanentemente o juiz, repetem-se os atos já praticados.\n\n2 - Sendo temporária a impossibilidade, interrompe-se a audiência pelo tempo indispensável a não ser que as circunstâncias aconselhem a repetição dos atos já praticados, o que é decidido sem recurso, mas em despacho fundamentado, pelo juiz substituto.\n\n3 - O juiz substituto continua a intervir, não obstante o regresso ao serviço do juiz efetivo.\n\n4 - O juiz que for transferido, promovido ou aposentado conclui o julgamento, exceto se a aposentação tiver por fundamento a incapacidade física, moral ou profissional para o exercício do cargo ou se for preferível a repetição dos atos já praticados em julgamento.\n\n5 - Nos casos de transferência ou promoção, o juiz elabora também a sentença."
+  },
+  "70217301": {
+   "fragment_id": "70217203",
+   "type": 11,
+   "heading": "Artigo 31.º — Continuidade da audiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Continuidade da audiência\n\n1 - A audiência é contínua, só podendo ser interrompida por motivos de força maior ou absoluta necessidade ou nos casos previstos no n.º 2 do artigo anterior.\n\n2 - Se não for possível concluir a audiência num dia, esta é suspensa, e o juiz, mediante acordo das partes, marca a continuação para a data mais próxima; se a continuação não ocorrer dentro dos 30 dias imediatos, por impedimento do tribunal ou por impedimento dos mandatários em consequência de outro serviço judicial já marcado, deve o respetivo motivo ficar consignado em ata, identificando-se expressamente a diligência e o processo a que respeita.\n\n3 - Para efeitos do disposto no número anterior, não é considerado o período das férias judiciais, nem o período em que, por motivo estranho ao tribunal, os autos aguardem a realização de diligências de prova.\n\n4 - As pessoas que tenham sido ouvidas não podem ausentar-se sem autorização do juiz, que a não concede quando haja oposição de qualquer das partes."
+  },
+  "70217302": {
+   "fragment_id": "70217204",
+   "type": 11,
+   "heading": "Artigo 32.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Recursos\n\n1 - Salvo disposição expressa, cabe recurso das decisões que se pronunciem definitiva ou provisoriamente sobre a aplicação, alteração ou cessação de medidas tutelares cíveis.\n\n2 - Sem prejuízo do disposto no artigo 63.º, podem recorrer o Ministério Público e as partes, os pais, o representante legal e quem tiver a guarda de facto da criança.\n\n3 - Os recursos são processados e julgados como em matéria cível, sendo o prazo de alegações e de resposta de 15 dias.\n\n4 - Os recursos têm efeito meramente devolutivo, exceto se o tribunal lhes fixar outro efeito."
+  },
+  "70217303": {
+   "fragment_id": "70217205",
+   "type": 11,
+   "heading": "Artigo 33.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Direito subsidiário\n\n1 - Nos casos omissos são de observar, com as devidas adaptações, as regras de processo civil que não contrariem os fins da jurisdição de menores.\n\n2 - Salvo disposição expressa, são correspondentemente aplicáveis, com as devidas adaptações aos processos tutelares cíveis, as disposições dos artigos 88.º a 90.º da Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, alterada pelas Leis n.os 31/2003, de 22 de agosto, e 142/2015, de 8 de setembro."
+  },
+  "70217304": {
+   "fragment_id": "70217206",
+   "type": 1,
+   "heading": "Capítulo III — Processos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Processos especiais"
+  },
+  "70217305": {
+   "fragment_id": "70217207",
+   "type": 8,
+   "heading": "Secção I — Regulação do exercício das responsabilidades parentais e resolução de questões conexas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regulação do exercício das responsabilidades parentais e resolução de questões conexas"
+  },
+  "70217306": {
+   "fragment_id": "70217208",
+   "type": 11,
+   "heading": "Artigo 34.º — Homologação do acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Homologação do acordo\n\n1 - A homologação do acordo sobre o exercício das responsabilidades parentais, nos casos de divórcio, separação judicial de pessoas e bens, declaração de nulidade ou anulação do casamento a que se refere o artigo 1905.º do Código Civil, é pedida por qualquer dos pais, nos 10 dias subsequentes ao trânsito em julgado da sentença proferida na respetiva causa.\n\n2 - Antes de decidir, o juiz pode ordenar as diligências que considere necessárias.\n\n3 - Quando não tenha sido pedida homologação do acordo ou este não seja homologado, é notificado o Ministério Público, que, nos 10 dias imediatos, deve requerer a regulação.\n\n4 - Se o tribunal competente para a regulação não for aquele onde correu termos a ação que determinou a sua necessidade, é extraída certidão dos articulados, da decisão final e de outras peças do processo que sejam indicadas pelo juiz ou pelo Ministério Público, a remeter ao tribunal onde aquela ação deva ser proposta."
+  },
+  "70217307": {
+   "fragment_id": "70217209",
+   "type": 11,
+   "heading": "Artigo 35.º — Conferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Conferência\n\n1 - Autuado o requerimento ou a certidão, os pais são citados para conferência, a realizar nos 15 dias imediatos.\n\n2 - O juiz pode também determinar que estejam presentes os avós ou outros familiares e pessoas de especial referência afetiva para a criança.\n\n3 - A criança com idade superior a 12 anos ou com idade inferior, com capacidade para compreender os assuntos em discussão, tendo em atenção a sua idade e maturidade, é ouvida pelo tribunal, nos termos previstos na alínea c) do artigo 4.º e no artigo 5.º, salvo se a defesa do seu superior interesse o desaconselhar.\n\n4 - Os pais são obrigados a comparecer pessoalmente sob pena de multa, apenas podendo fazer-se representar por mandatário judicial ou por seus ascendentes ou irmãos, com poderes especiais para intervir no ato, no caso de estarem impossibilitados de comparecer ou de residirem fora do município da sede da instância central ou local onde a conferência se realize, sem prejuízo de serem ouvidos por teleconferência a partir do núcleo de secretaria da área da sua residência."
+  },
+  "70217308": {
+   "fragment_id": "70217210",
+   "type": 11,
+   "heading": "Artigo 36.º — Ausência dos pais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Ausência dos pais\n\nSe algum dos pais estiver ausente em parte incerta, a convocação para a conferência é realizada por meio de editais, nos termos do Código de Processo Civil."
+  },
+  "70217309": {
+   "fragment_id": "70217211",
+   "type": 11,
+   "heading": "Artigo 37.º — Acordo ou falta de comparência de algum dos pais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Acordo ou falta de comparência de algum dos pais\n\n1 - Estando ambos os pais presentes ou representados, o juiz procura obter acordo que corresponda aos interesses da criança sobre o exercício das responsabilidades parentais.\n\n2 - Se conseguir obter o acordo, o juiz faz constar do auto da conferência o que for acordado e dita a sentença de homologação.\n\n3 - Se faltarem um ou ambos os pais e não se fizerem representar, o juiz ouve as pessoas que estejam presentes, fazendo exarar em auto as suas declarações, e manda proceder às diligências de instrução necessárias, nos termos previstos no artigo 21.º e decide.\n\n4 - A conferência não pode ser adiada mais de uma vez por falta dos pais ou seus representantes.\n\n5 - A conferência já iniciada pode ser suspensa, estabelecendo-se, por período e condições determinados, um regime provisório, em consideração pelos interesses da criança."
+  },
+  "70217310": {
+   "fragment_id": "70217212",
+   "type": 11,
+   "heading": "Artigo 38.º — Falta de acordo na conferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Falta de acordo na conferência\n\nSe ambos os pais estiverem presentes ou representados na conferência, mas não chegarem a acordo que seja homologado, o juiz decide provisoriamente sobre o pedido em função dos elementos já obtidos, suspende a conferência e remete as partes para:\n\na) Mediação, nos termos e com os pressupostos previstos no artigo 24.º, por um período máximo de três meses; ou\n\nb) Audição técnica especializada, nos termos previstos no artigo 23.º, por um período máximo de dois meses."
+  },
+  "70217311": {
+   "fragment_id": "70217213",
+   "type": 11,
+   "heading": "Artigo 39.º — Termos posteriores à fase de audição técnica especializada e mediação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Termos posteriores à fase de audição técnica especializada e mediação\n\n1 - Finda a intervenção da audição técnica especializada, o tribunal é informado do resultado e notifica as partes para a continuação da conferência a realizar nos cinco dias imediatos, com vista à obtenção de acordo da regulação do exercício das responsabilidades parentais.\n\n2 - Quando houver lugar a processo de mediação nos termos previstos no artigo 24.º, o tribunal é informado em conformidade.\n\n3 - Finda a mediação ou decorrido o prazo a que se refere a alínea a) do artigo anterior, o juiz notifica as partes para a continuação da conferência, que se realiza nos cinco dias imediatos com vista à homologação do acordo estabelecido em sede de mediação.\n\n4 - Se os pais não chegarem a acordo, o juiz notifica as partes para, em 15 dias, apresentarem alegações ou arrolarem até 10 testemunhas e juntarem documentos.\n\n5 - Findo o prazo das alegações previsto no número anterior e sempre que o entenda necessário, o juiz ordena as diligências de instrução, de entre as previstas nas alíneas a), c), d) e e) do n.º 1 do artigo 21.º\n\n6 - De seguida, caso não haja alegações nem sejam indicadas provas, ouvido o Ministério Público, é proferida sentença.\n\n7 - Se forem apresentadas alegações ou apresentadas provas, tem lugar a audiência de discussão e julgamento no prazo máximo de 30 dias.\n\n8 - As testemunhas são apresentadas pelas partes no dia do julgamento.\n\n9 - Atendendo à natureza e extensão da prova, pode o juiz, por decisão irrecorrível, admitir a inquirição de testemunhas para além do previsto no n.º 4."
+  },
+  "70217312": {
+   "fragment_id": "70217214",
+   "type": 11,
+   "heading": "Artigo 40.º — Sentença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Sentença\n\n1 - Na sentença, o exercício das responsabilidades parentais é regulado de harmonia com os interesses da criança, devendo determinar-se que seja confiada a ambos ou a um dos progenitores, a outro familiar, a terceira pessoa ou a instituição de acolhimento, aí se fixando a residência daquela.\n\n2 - É estabelecido regime de visitas que regule a partilha de tempo com a criança, podendo o tribunal, no interesse desta e sempre que se justifique, determinar que tais contactos sejam supervisionados pela equipa multidisciplinar de assessoria técnica, nos termos que forem ordenados pelo tribunal.\n\n3 - Excecionalmente, ponderando o superior interesse da criança e considerando o interesse na manutenção do vínculo afetivo com o visitante, pode o tribunal, pelo período de tempo que se revele estritamente necessário, ordenar a suspensão do regime de visitas.\n\n4 - Quando for caso disso, a sentença pode determinar que a administração dos bens do filho seja exercida pelo progenitor a quem a criança não foi confiada.\n\n5 - Quando o filho for confiado a terceira pessoa ou a instituição de acolhimento, o tribunal decide a qual dos progenitores compete o exercício das responsabilidades parentais na parte não abrangida pelos poderes e deveres que àqueles devem ser atribuídos para o adequado desempenho das suas funções.\n\n6 - Nos casos em que julgue haver risco de incumprimento da decisão, o juiz pode determinar o acompanhamento da execução do regime estabelecido pelos serviços de assessoria técnica, por período de tempo a fixar.\n\n7 - Nos casos previstos no número anterior, os serviços de assessoria técnica informam o tribunal sobre a forma como decorre a execução da decisão, com a periodicidade por ele fixada, ou antes de decorrido tal prazo, oficiosamente, sempre que ocorra incumprimento reiterado ou gravoso do regime fixado.\n\n8 - Quando for caso disso, a sentença pode determinar que o exercício das responsabilidades parentais relativamente a questões de particular importância na vida do filho caiba em exclusivo a um dos progenitores.\n\n9 - Para efeitos do disposto no número anterior e salvo prova em contrário, presume-se contrário ao superior interesse da criança o exercício em comum das responsabilidades parentais quando seja decretada medida de coação ou aplicada pena acessória de proibição de contacto entre os progenitores.\n\n10 - Nos casos previstos no número anterior, o regime de visitas pode ser condicionado, contemplando a mediação de profissionais especializados ou, verificando-se os respetivos pressupostos, suspenso nos termos do n.º 3."
+  },
+  "70217313": {
+   "fragment_id": "70217215",
+   "type": 11,
+   "heading": "Artigo 41.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Incumprimento\n\n1 - Se, relativamente à situação da criança, um dos pais ou a terceira pessoa a quem aquela haja sido confiada não cumprir com o que tiver sido acordado ou decidido, pode o tribunal, oficiosamente, a requerimento do Ministério Público ou do outro progenitor, requerer, ao tribunal que no momento for territorialmente competente, as diligências necessárias para o cumprimento coercivo e a condenação do remisso em multa até vinte unidades de conta e, verificando-se os respetivos pressupostos, em indemnização a favor da criança, do progenitor requerente ou de ambos.\n\n2 - Se o acordo tiver sido homologado pelo tribunal ou este tiver proferido a decisão, o requerimento é autuado por apenso ao processo onde se realizou o acordo ou foi proferida decisão, para o que será requisitado ao respetivo tribunal, se, segundo as regras da competência, for outro o tribunal competente para conhecer do incumprimento.\n\n3 - Autuado o requerimento, ou apenso este ao processo, o juiz convoca os pais para uma conferência ou, excecionalmente, manda notificar o requerido para, no prazo de cinco dias, alegar o que tiver por conveniente.\n\n4 - Na conferência, os pais podem acordar na alteração do que se encontra fixado quanto ao exercício das responsabilidades parentais, tendo em conta o interesse da criança.\n\n5 - Não comparecendo na conferência nem havendo alegações do requerido, ou sendo estas manifestamente improcedentes, no incumprimento do regime de visitas e para efetivação deste, pode ser ordenada a entrega da criança acautelando-se os termos e local em que a mesma se deva efetuar, presidindo à diligência a assessoria técnica ao tribunal.\n\n6 - Para efeitos do disposto no número anterior e sem prejuízo do procedimento criminal que ao caso caiba, o requerido é notificado para proceder à entrega da criança pela forma determinada, sob pena de multa.\n\n7 - Não tendo sido convocada a conferência ou quando nesta os pais não chegarem a acordo, o juiz manda proceder nos termos do artigo 38.º e seguintes e, por fim, decide.\n\n8 - Se tiver havido condenação em multa e esta não for paga no prazo de 10 dias, há lugar à execução por apenso ao respetivo processo, nos termos legalmente previstos."
+  },
+  "70217314": {
+   "fragment_id": "70217216",
+   "type": 11,
+   "heading": "Artigo 42.º — Alteração de regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Alteração de regime\n\n1 - Quando o acordo ou a decisão final não sejam cumpridos por ambos os pais, ou por terceira pessoa a quem a criança haja sido confiada, ou quando circunstâncias supervenientes tornem necessário alterar o que estiver estabelecido, qualquer um daqueles ou o Ministério Público podem requerer ao tribunal, que no momento for territorialmente competente, nova regulação do exercício das responsabilidades parentais.\n\n2 - O requerente deve expor sucintamente os fundamentos do pedido e:\n\na) Se o regime tiver sido estabelecido por acordo extrajudicial, juntar ao requerimento:\n\ni) Certidão do acordo, e do parecer do Ministério Público e da decisão a que se referem, respetivamente, os n.os 4 e 3 do artigo 14.º do Decreto-Lei n.º 272/2001, de 13 de outubro, alterado pelo Decreto-Lei n.º 324/2007, de 28 de setembro, pela Lei n.º 61/2008, de 31 de outubro, e pelo Decreto-Lei n.º 122/2013, de 26 de agosto; ou\n\nii) Certidão do acordo e da sentença homologatória;\n\nb) Se o regime tiver sido fixado pelo tribunal, o requerimento é autuado por apenso ao processo onde se realizou o acordo ou foi proferida decisão final, para o que será requisitado ao respetivo tribunal, se, segundo as regras da competência, for outro o tribunal competente para conhecer da nova ação.\n\n3 - O requerido é citado para, no prazo de 10 dias, alegar o que tiver por conveniente.\n\n4 - Junta a alegação ou findo o prazo para a sua apresentação, o juiz, se considerar o pedido infundado, ou desnecessária a alteração, manda arquivar o processo, condenando em custas o requerente.\n\n5 - Caso contrário, o juiz ordena o prosseguimento dos autos, observando-se, na parte aplicável, o disposto nos artigos 35.º a 40.º\n\n6 - Antes de mandar arquivar os autos ou de ordenar o seu prosseguimento, pode o juiz determinar a realização das diligências que considere necessárias."
+  },
+  "70217315": {
+   "fragment_id": "70217217",
+   "type": 11,
+   "heading": "Artigo 43.º — Outros casos de regulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Outros casos de regulação\n\n1 - O disposto nos artigos anteriores é aplicável à regulação do exercício das responsabilidades parentais de filhos de cônjuges separados de facto, de filhos de progenitores não unidos pelo matrimónio e ainda de crianças apadrinhadas civilmente quando os padrinhos cessem a vida em comum.\n\n2 - Qualquer das pessoas a quem incumba o exercício das responsabilidades parentais pode requerer a homologação do acordo extrajudicial sobre aquele exercício.\n\n3 - A regulação prevista neste artigo, bem como as diligências executórias da decisão judicial ou do acordo homologado, podem ser requeridas por qualquer das pessoas a quem caiba o exercício das responsabilidades parentais ou pelo Ministério Público.\n\n4 - A necessidade da intervenção judicial pode ser comunicada ao Ministério Público por qualquer pessoa."
+  },
+  "70217316": {
+   "fragment_id": "70217218",
+   "type": 11,
+   "heading": "Artigo 44.º — Falta de acordo dos pais em questões de particular importância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Falta de acordo dos pais em questões de particular importância\n\n1 - Quando o exercício das responsabilidades parentais seja exercido em comum por ambos os pais, mas estes não estejam de acordo em alguma questão de particular importância, pode qualquer deles requerer ao tribunal a resolução do diferendo.\n\n2 - Autuado o requerimento, seguem-se os termos previstos nos artigos 35.º a 40.º\n\n3 - O tribunal decide uma vez realizadas as diligências que considere necessárias."
+  },
+  "70217317": {
+   "fragment_id": "70217219",
+   "type": 8,
+   "heading": "Secção II — Alimentos devidos a criança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Alimentos devidos a criança"
+  },
+  "70217318": {
+   "fragment_id": "70217220",
+   "type": 11,
+   "heading": "Artigo 45.º — Petição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Petição\n\n1 - Podem requerer a fixação dos alimentos devidos a criança, ou a alteração dos anteriormente fixados, o seu representante legal, o Ministério Público, a pessoa à guarda de quem aquela se encontre ou o diretor da instituição de acolhimento a quem tenha sido confiada.\n\n2 - A necessidade da fixação ou alteração de alimentos pode ser comunicada ao Ministério Público por qualquer pessoa.\n\n3 - O requerimento deve ser acompanhado de certidões comprovativas do grau de parentesco ou afinidade existentes entre a criança e o requerido, de certidão da decisão que anteriormente tenha fixado os alimentos e do rol de testemunhas.\n\n4 - As certidões podem ser requisitadas oficiosamente pelo tribunal às entidades competentes, que as passam gratuitamente, quando o requerente, por falta de recursos, as não possa apresentar."
+  },
+  "70217319": {
+   "fragment_id": "70217221",
+   "type": 11,
+   "heading": "Artigo 46.º — Conferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Conferência\n\n1 - O juiz designa o dia para uma conferência, que se realiza nos 15 dias imediatos.\n\n2 - O requerido é citado para a conferência, devendo a ela assistir o requerente e a pessoa que tiver a criança à sua guarda, se não for o autor, que, para o efeito, são notificados.\n\n3 - À conferência aplica-se, com as devidas adaptações, o disposto no artigo 35.º"
+  },
+  "70217320": {
+   "fragment_id": "70217222",
+   "type": 11,
+   "heading": "Artigo 47.º — Contestação e termos posteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Contestação e termos posteriores\n\n1 - Se a conferência não se puder realizar ou nela não se chegar a acordo, é imediatamente ordenada a notificação do requerido para contestar, devendo, na contestação, ser oferecidos os meios de prova.\n\n2 - Apresentada a contestação ou findo o prazo para a apresentação desta, o juiz manda proceder às diligências necessárias e à elaboração do relatório sobre os meios do requerido e as necessidades da criança.\n\n3 - Apresentada contestação, há lugar a audiência de discussão e julgamento.\n\n4 - Não tendo havido contestação, o juiz decide."
+  },
+  "70217321": {
+   "fragment_id": "70217223",
+   "type": 8,
+   "heading": "Secção III — Da efetivação da prestação de alimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da efetivação da prestação de alimentos"
+  },
+  "70217322": {
+   "fragment_id": "70217224",
+   "type": 11,
+   "heading": "Artigo 48.º — Meios de tornar efetiva a prestação de alimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Meios de tornar efetiva a prestação de alimentos\n\n1 - Quando a pessoa judicialmente obrigada a prestar alimentos não satisfizer as quantias em dívida nos 10 dias seguintes ao vencimento, observa-se o seguinte:\n\na) Se for trabalhador em funções públicas, são-lhe deduzidas as respetivas quantias no vencimento, sob requisição do tribunal dirigida à entidade empregadora pública;\n\nb) Se for empregado ou assalariado, são-lhe deduzidas no ordenado ou salário, sendo para o efeito notificada a respetiva entidade patronal, que fica na situação de fiel depositário;\n\nc) Se for pessoa que receba rendas, pensões, subsídios, comissões, percentagens, emolumentos, gratificações, comparticipações ou rendimentos semelhantes, a dedução é feita nessas prestações quando tiverem de ser pagas ou creditadas, fazendo-se para tal as requisições ou notificações necessárias e ficando os notificados na situação de fiéis depositários.\n\n2 - As quantias deduzidas abrangem também os alimentos que se forem vencendo e são diretamente entregues a quem deva recebê-las."
+  },
+  "70217323": {
+   "fragment_id": "70217225",
+   "type": 8,
+   "heading": "Secção IV — Entrega judicial de criança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Entrega judicial de criança"
+  },
+  "70217324": {
+   "fragment_id": "70217226",
+   "type": 11,
+   "heading": "Artigo 49.º — Articulados e termos posteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Articulados e termos posteriores\n\n1 - Se a criança abandonar a casa dos pais ou aquela que estes lhe destinaram ou dela for retirada, ou se encontrar subtraída à responsabilidade da pessoa ou da instituição a quem esteja legalmente confiada, deve a sua entrega ser requerida ao tribunal com jurisdição na área em que ela se encontre.\n\n2 - O tribunal emite mandados de comparência para audição imediata da criança na sua presença, podendo ainda ouvir a pessoa que a tiver acolhido, ou em poder de quem ela se encontre.\n\n3 - Após a realização das diligências previstas anteriormente, o juiz decide ou, se o processo tiver de prosseguir, ordena a citação do Ministério Público e da pessoa que tiver acolhido a criança, ou em poder de quem ela se encontre, para contestarem no prazo de 10 dias.\n\n4 - Os citados podem contradizer os factos que fundamentam o pedido, ou mostrar que existe decisão capaz de obstar à diligência, ou que foi requerida a entrega da criança como preliminar ou incidente da ação de inibição do exercício das responsabilidades parentais ou de remoção das funções tutelares.\n\n5 - Não havendo contestação, ou sendo esta manifestamente improcedente, é imediatamente ordenada a entrega e designado o local onde deve efetuar-se, só presidindo o juiz à diligência quando o julgue conveniente.\n\n6 - No caso previsto no número anterior, o requerido é notificado para proceder à entrega pela forma determinada, sob pena de desobediência.\n\n7 - Se houver contestação e necessidade de provas, o juiz só decide depois de produzidas as provas que admitir."
+  },
+  "70217325": {
+   "fragment_id": "70217227",
+   "type": 11,
+   "heading": "Artigo 50.º — Diligências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Diligências\n\n1 - Antes de decretar a entrega da criança, o juiz pode ordenar as diligências convenientes, nos termos do artigo 21.º\n\n2 - Se as diligências realizadas mostrarem a falta de idoneidade do requerente, este é notificado para, no prazo de 10 dias, alegar o que tiver por conveniente e oferecer provas.\n\n3 - Se não apresentar alegações e não oferecer provas, a criança é confiada a pessoa ou família idóneas, preferindo os familiares obrigados a alimentos, ou é acolhida numa instituição de acolhimento, conforme parecer mais conveniente.\n\n4 - No caso de o requerente apresentar alegações e oferecer provas, o juiz decide, depois de produzidas as provas que admitir, ordenando a entrega ou o acolhimento.\n\n5 - Quando o requerente da entrega for algum dos pais e estes vivam separados, a criança pode ser entregue àquele que o juiz considere mais idóneo, sem prejuízo de se definir o seu destino em ação de regulação do exercício das responsabilidades parentais."
+  },
+  "70217326": {
+   "fragment_id": "70217228",
+   "type": 11,
+   "heading": "Artigo 51.º — Termos posteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Termos posteriores\n\nSe a criança for entregue ou acolhida e não tiver sido requerida a regulação ou a inibição do exercício das responsabilidades parentais, o Ministério Público deve requerer a providência adequada."
+  },
+  "70217327": {
+   "fragment_id": "70217229",
+   "type": 8,
+   "heading": "Secção V — Inibição e limitações ao exercício das responsabilidades parentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Inibição e limitações ao exercício das responsabilidades parentais"
+  },
+  "70217328": {
+   "fragment_id": "70217230",
+   "type": 11,
+   "heading": "Artigo 52.º — Legitimidade e fundamentos da inibição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Legitimidade e fundamentos da inibição\n\nO Ministério Público, qualquer familiar da criança ou pessoa sob cuja guarda se encontre ainda que de facto, podem requerer a inibição, total ou parcial, do exercício das responsabilidades parentais quando qualquer dos pais infrinja culposamente os deveres para com os filhos, com grave prejuízo destes, ou quando, por inexperiência, enfermidade, ausência ou outras razões, se não mostre em condições de cumprir aqueles deveres."
+  },
+  "70217329": {
+   "fragment_id": "70217231",
+   "type": 11,
+   "heading": "Artigo 53.º — Prejudicialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Prejudicialidade\n\nO pedido de inibição do exercício das responsabilidades parentais fica prejudicado se, no processo de promoção e proteção pendente, estiver promovida a medida prevista na alínea g) do n.º 1 do artigo 35.º da Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, alterada pelas Leis n.os 31/2003, de 22 de agosto, e 142/2015, de 8 de setembro, e até decisão desta."
+  },
+  "70217330": {
+   "fragment_id": "70217232",
+   "type": 11,
+   "heading": "Artigo 54.º — Articulados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Articulados\n\n1 - Requerida a inibição, o requerido é citado para contestar.\n\n2 - Com a petição e a contestação, as partes devem arrolar testemunhas e requerer quaisquer outras diligências de prova."
+  },
+  "70217331": {
+   "fragment_id": "70217233",
+   "type": 11,
+   "heading": "Artigo 55.º — Diligências e audiência de discussão e julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Diligências e audiência de discussão e julgamento\n\n1 - Se o processo houver de prosseguir, efetuam-se as diligências que devam ter lugar antes da audiência de discussão e julgamento e que o juiz considere necessárias, nos termos do artigo 21.º\n\n2 - Realizadas as diligências previstas no número anterior, tem lugar a audiência de discussão e julgamento, no prazo máximo de 10 dias."
+  },
+  "70217332": {
+   "fragment_id": "70217234",
+   "type": 11,
+   "heading": "Artigo 56.º — Sentença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Sentença\n\n1 - Na sentença deve o tribunal, segundo o seu prudente arbítrio e tomando em consideração todas as circunstâncias, fixar os limites da inibição e os alimentos devidos à criança.\n\n2 - Julgada procedente a inibição, instaura-se a tutela ou outra providência tutelar cível adequada e a administração de bens, se for caso disso."
+  },
+  "70217333": {
+   "fragment_id": "70217235",
+   "type": 11,
+   "heading": "Artigo 57.º — Suspensão do exercício das responsabilidades parentais e do acolhimento da criança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Suspensão do exercício das responsabilidades parentais e do acolhimento da criança\n\n1 - Como preliminar ou como incidente da ação de inibição do exercício das responsabilidades parentais, pode ordenar-se a suspensão desse exercício e o acolhimento da criança, se o relatório sumário mostrar que o requerido ou os requeridos são manifestamente incapazes, física ou moralmente, de cuidar da criança.\n\n2 - O acolhimento tem lugar em casa de pessoa ou família idónea, preferindo os familiares obrigados a alimentos ou, não sendo possível, em instituição de acolhimento.\n\n3 - No caso previsto no número anterior, fixa-se logo, provisoriamente, a pensão que os pais devem pagar para sustento e educação da criança e é lavrado auto de acolhimento em que são especificadas as condições em que a criança é entregue.\n\n4 - A suspensão do exercício das responsabilidades parentais e o acolhimento da criança ficam sem efeito nos mesmos casos e termos que as providências cautelares, segundo o Código de Processo Civil."
+  },
+  "70217334": {
+   "fragment_id": "70217236",
+   "type": 11,
+   "heading": "Artigo 58.º — Outras medidas limitativas do exercício das responsabilidades parentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Outras medidas limitativas do exercício das responsabilidades parentais\n\n1 - O Ministério Público, qualquer familiar da criança ou pessoa a cuja guarda esteja confiada, ainda que de facto, podem requerer as providências previstas no n.º 2 do artigo 1920.º do Código Civil, ou outras que se mostrem necessárias, quando a má administração de qualquer dos pais ponha em perigo o património do filho e não seja caso de inibição do exercício das responsabilidades parentais.\n\n2 - Nos casos referidos no número anterior observa-se o disposto nos artigos 54.º a 56.º"
+  },
+  "70217335": {
+   "fragment_id": "70217237",
+   "type": 11,
+   "heading": "Artigo 59.º — Levantamento da inibição ou da medida limitativa do exercício das responsabilidades parentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Levantamento da inibição ou da medida limitativa do exercício das responsabilidades parentais\n\n1 - O requerimento para levantamento da inibição ou de medida limitativa do exercício das responsabilidades parentais é autuado por apenso.\n\n2 - Se tiver sido instituída tutela ou administração de bens ou se tiver sido constituído vínculo de apadrinhamento civil, é notificado, além do Ministério Público, o tutor, o administrador dos bens ou o padrinho civil, respetivamente, para contestar.\n\n3 - Feita a notificação, observam-se os termos prescritos para a inibição."
+  },
+  "70217336": {
+   "fragment_id": "70217238",
+   "type": 8,
+   "heading": "Secção VI — Averiguação oficiosa da maternidade ou da paternidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Averiguação oficiosa da maternidade ou da paternidade"
+  },
+  "70217337": {
+   "fragment_id": "70217239",
+   "type": 11,
+   "heading": "Artigo 60.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Instrução\n\n1 - A instrução dos processos de averiguação oficiosa para investigação de maternidade ou paternidade ou para sua impugnação incumbe ao Ministério Público, que pode usar de qualquer meio de prova legalmente admitido.\n\n2 - São obrigatoriamente reduzidos a escrito os depoimentos dos pais ou dos presumidos progenitores e as provas que concorram para o esclarecimento do tribunal."
+  },
+  "70217338": {
+   "fragment_id": "70217240",
+   "type": 11,
+   "heading": "Artigo 61.º — Carácter secreto do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Carácter secreto do processo\n\n1 - A instrução do processo é secreta e é conduzida por forma a evitar ofensa à reserva e à dignidade das pessoas.\n\n2 - No processo não há lugar a intervenção de mandatários judiciais, salvo na fase de recurso.\n\n3 - As pessoas podem ser assistidas por advogado nas diligências para que forem convocadas."
+  },
+  "70217339": {
+   "fragment_id": "70217241",
+   "type": 11,
+   "heading": "Artigo 62.º — Decisão final do Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Decisão final do Ministério Público\n\n1 - Finda a instrução, o Ministério Público emite decisão sobre a inviabilidade da ação de investigação de maternidade ou paternidade ou de impugnação desta, ou, concluindo pela viabilidade, propõe a ação de investigação ou de impugnação.\n\n2 - Nas situações em que não haja lugar à propositura da ação a que se refere o artigo anterior pelo decurso do prazo a que alude a alínea b) do artigo 1809.º do Código Civil, o Ministério Público inicia de imediato todas as diligências tidas por necessárias à instauração de ação de investigação, usando de todos os meios de prova já recolhidos no âmbito da instrução da averiguação oficiosa.\n\n3 - A decisão de inviabilidade proferida pelo Ministério Público é notificada aos interessados."
+  },
+  "70217340": {
+   "fragment_id": "70217242",
+   "type": 11,
+   "heading": "Artigo 63.º — Reapreciação hierárquica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Reapreciação hierárquica\n\nDa decisão de inviabilidade é admissível reapreciação hierárquica, a qual deve ser requerida no prazo de 10 dias junto do imediato superior hierárquico."
+  },
+  "70217341": {
+   "fragment_id": "70217243",
+   "type": 11,
+   "heading": "Artigo 64.º — Termo de perfilhação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Termo de perfilhação\n\nQuando o presumido progenitor confirme a maternidade ou a paternidade, é imediatamente lavrado termo da perfilhação, na presença do Ministério Público."
+  },
+  "70217342": {
+   "fragment_id": "70217244",
+   "type": 8,
+   "heading": "Secção VII — Processos regulados no Código de Processo Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Processos regulados no Código de Processo Civil"
+  },
+  "70217343": {
+   "fragment_id": "70217245",
+   "type": 11,
+   "heading": "Artigo 65.º — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Tramitação\n\nAs providências que tenham correspondência nos processos e incidentes regulados no Código de Processo Civil seguem os termos aí prescritos, com as adaptações resultantes do disposto no RGPTC."
+  },
+  "70217344": {
+   "fragment_id": "70217246",
+   "type": 8,
+   "heading": "Secção VIII — Apadrinhamento civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Apadrinhamento civil"
+  },
+  "70217345": {
+   "fragment_id": "70217247",
+   "type": 11,
+   "heading": "Artigo 66.º — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Tramitação\n\nÀ constituição e revogação da relação de apadrinhamento civil aplicam-se as normas processuais constantes do Regime Jurídico do Apadrinhamento Civil, aprovado pela Lei n.º 103/2009, de 11 de setembro, e o disposto no RGPTC, em tudo quanto não contrarie aquele regime especial."
+  },
+  "70217346": {
+   "fragment_id": "70217248",
+   "type": 8,
+   "heading": "Secção IX — Ação tutelar comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Ação tutelar comum"
+  },
+  "70217347": {
+   "fragment_id": "70217249",
+   "type": 11,
+   "heading": "Artigo 67.º — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Tramitação\n\nSempre que a qualquer providência cível não corresponda nenhuma das formas de processo previstas nas secções anteriores, o tribunal pode ordenar livremente as diligências que repute necessárias antes de proferir a decisão final."
+  },
+  "70217348": {
+   "fragment_id": "70217250",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 22 de julho de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 20 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 24 de agosto de 2015.\n\nPelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro."
+  },
+  "107055634": {
+   "fragment_id": "107072779",
+   "type": 11,
+   "heading": "Artigo 24.º-A — Inadmissibilidade do recurso à audição técnica especializada e à mediação",
+   "in_force_from": "2017-06-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Lei n.º 24/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/lei/24-2017-107061862), em vigor a partir de 2017-06-23"
+   ],
+   "markdown": "###### Artigo 24.º-A — Inadmissibilidade do recurso à audição técnica especializada e à mediação\n\nO recurso à audição técnica especializada e à mediação, previstas nos artigos anteriores, não é admitido entre as partes quando:\n\na) For decretada medida de coação ou aplicada pena acessória de proibição de contacto entre progenitores, ou\n\nb) Estiverem em grave risco os direitos e a segurança de vítimas de violência doméstica e de outras formas de violência em contexto familiar, como maus tratos ou abuso sexual de crianças.\n\n> Aditado pelo/a Artigo 5.º do/a [Lei n.º 24/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/lei/24-2017-107061862), em vigor a partir de 2017-06-23"
+  },
+  "107055635": {
+   "fragment_id": "70217197",
+   "type": 11,
+   "heading": "Artigo 25.º — Contraditório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contraditório\n\n1 - As partes têm direito a conhecer as informações, as declarações da assessoria técnica e outros depoimentos, processados de forma oral e documentados em auto, relatórios, exames e pareceres constantes do processo, podendo pedir esclarecimentos, juntar outros elementos ou requerer a solicitação de informações que considerem necessárias.\n\n2 - O juiz indefere, por despacho irrecorrível, os requerimentos apresentados que se mostrem inúteis, de realização impossível ou com intuito manifestamente dilatório.\n\n3 - É garantido o contraditório relativamente às provas que forem obtidas pelos meios previstos no n.º 1."
+  },
+  "107055636": {
+   "fragment_id": "70217198",
+   "type": 11,
+   "heading": "Artigo 26.º — Dever de cooperação de agentes consulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Dever de cooperação de agentes consulares\n\nO tribunal e o Ministério Público podem dirigir-se, nos termos da lei processual e do regulamento consular, aos agentes consulares portugueses e requisitar a sua intervenção ou auxílio quanto a medidas e providências relativas a crianças sob sua jurisdição, bem como solicitar o auxílio e os bons ofícios dos agentes consulares estrangeiros em Portugal quanto a crianças de outros países residentes em território nacional."
+  },
+  "107055637": {
+   "fragment_id": "70217199",
+   "type": 11,
+   "heading": "Artigo 27.º — Conjugação de decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Conjugação de decisões\n\n1 - As decisões que apliquem medidas tutelares cíveis e de promoção e proteção, ainda que provisórias, devem conjugar-se e harmonizar-se entre si, tendo em conta o superior interesse da criança.\n\n2 - Para efeitos do disposto no número anterior, o juiz, por despacho fundamentado, procede, se necessário, à revisão da medida anteriormente decretada.\n\n3 - No caso de, em processo tutelar cível, se obterem indícios de uma situação de perigo para a criança, o Ministério Público requer, por apenso, o processo judicial de promoção e proteção e, se necessário, a aplicação de medida judicial de proteção da criança."
+  },
+  "107055638": {
+   "fragment_id": "70217200",
+   "type": 11,
+   "heading": "Artigo 28.º — Decisões provisórias e cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Decisões provisórias e cautelares\n\n1 - Em qualquer estado da causa e sempre que o entenda conveniente, a requerimento ou oficiosamente, o tribunal pode decidir provisoriamente questões que devam ser apreciadas a final, bem como ordenar as diligências que se tornem indispensáveis para assegurar a execução efetiva da decisão.\n\n2 - Podem também ser provisoriamente alteradas as decisões já tomadas a título definitivo.\n\n3 - Para efeitos do disposto no presente artigo, o tribunal procede às averiguações sumárias que tiver por convenientes.\n\n4 - O tribunal ouve as partes, exceto quando a audiência puser em risco sério o fim ou a eficácia da providência.\n\n5 - Quando as partes não tiverem sido ouvidas antes do decretamento da providência, é-lhes lícito, em alternativa, na sequência da notificação da decisão que a decretou:\n\na) Recorrer, nos termos gerais, quando entenda que, face aos elementos apurados, ela não devia ter sido deferida;\n\nb) Deduzir oposição, quando pretenda alegar factos ou produzir meios de prova não tidos em conta pelo tribunal e que possam afastar os fundamentos da providência ou determinem a sua redução."
+  },
+  "107055639": {
+   "fragment_id": "70217201",
+   "type": 11,
+   "heading": "Artigo 29.º — Audiência de discussão e julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Audiência de discussão e julgamento\n\n1 - Quando haja lugar a audiência de discussão e julgamento, esta efetua-se nos seguintes termos:\n\na) Estando presentes ou representadas as partes, o juiz procura conciliá-las, tomando declarações às que estiverem presentes;\n\nb) Se não conseguir a conciliação, passa-se à produção de prova, que se inicia com a tomada de declarações às partes que estiverem presentes;\n\nc) Finda a produção da prova, é dada a palavra ao Ministério Público e aos advogados constituídos, podendo cada um usar dela uma só vez e por tempo que não exceda 30 minutos.\n\n2 - Atendendo à complexidade da causa, o juiz pode determinar o alargamento do tempo para o uso da palavra, previsto na alínea c) do número anterior.\n\n3 - A audiência é sempre gravada, devendo apenas ser assinalados na ata o início e o termo de cada depoimento, declaração, informação, esclarecimento, requerimento e respetiva resposta, despacho, decisão e alegações orais.\n\n4 - A audiência só pode ser adiada uma vez por falta das partes, dos seus advogados ou testemunhas.\n\n5 - Se a audiência for adiada por impedimento do tribunal, deve ficar consignado nos autos o respetivo fundamento.\n\n6 - Quando o adiamento se dever à realização de outra diligência, deve ainda ser identificado o processo a que respeita."
+  },
+  "107055640": {
+   "fragment_id": "70217202",
+   "type": 11,
+   "heading": "Artigo 30.º — Princípio da plenitude da assistência do juiz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Princípio da plenitude da assistência do juiz\n\n1 - Se durante a audiência de discussão e julgamento falecer ou se impossibilitar permanentemente o juiz, repetem-se os atos já praticados.\n\n2 - Sendo temporária a impossibilidade, interrompe-se a audiência pelo tempo indispensável a não ser que as circunstâncias aconselhem a repetição dos atos já praticados, o que é decidido sem recurso, mas em despacho fundamentado, pelo juiz substituto.\n\n3 - O juiz substituto continua a intervir, não obstante o regresso ao serviço do juiz efetivo.\n\n4 - O juiz que for transferido, promovido ou aposentado conclui o julgamento, exceto se a aposentação tiver por fundamento a incapacidade física, moral ou profissional para o exercício do cargo ou se for preferível a repetição dos atos já praticados em julgamento.\n\n5 - Nos casos de transferência ou promoção, o juiz elabora também a sentença."
+  },
+  "107055641": {
+   "fragment_id": "70217203",
+   "type": 11,
+   "heading": "Artigo 31.º — Continuidade da audiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Continuidade da audiência\n\n1 - A audiência é contínua, só podendo ser interrompida por motivos de força maior ou absoluta necessidade ou nos casos previstos no n.º 2 do artigo anterior.\n\n2 - Se não for possível concluir a audiência num dia, esta é suspensa, e o juiz, mediante acordo das partes, marca a continuação para a data mais próxima; se a continuação não ocorrer dentro dos 30 dias imediatos, por impedimento do tribunal ou por impedimento dos mandatários em consequência de outro serviço judicial já marcado, deve o respetivo motivo ficar consignado em ata, identificando-se expressamente a diligência e o processo a que respeita.\n\n3 - Para efeitos do disposto no número anterior, não é considerado o período das férias judiciais, nem o período em que, por motivo estranho ao tribunal, os autos aguardem a realização de diligências de prova.\n\n4 - As pessoas que tenham sido ouvidas não podem ausentar-se sem autorização do juiz, que a não concede quando haja oposição de qualquer das partes."
+  },
+  "107055642": {
+   "fragment_id": "70217204",
+   "type": 11,
+   "heading": "Artigo 32.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Recursos\n\n1 - Salvo disposição expressa, cabe recurso das decisões que se pronunciem definitiva ou provisoriamente sobre a aplicação, alteração ou cessação de medidas tutelares cíveis.\n\n2 - Sem prejuízo do disposto no artigo 63.º, podem recorrer o Ministério Público e as partes, os pais, o representante legal e quem tiver a guarda de facto da criança.\n\n3 - Os recursos são processados e julgados como em matéria cível, sendo o prazo de alegações e de resposta de 15 dias.\n\n4 - Os recursos têm efeito meramente devolutivo, exceto se o tribunal lhes fixar outro efeito."
+  },
+  "107055643": {
+   "fragment_id": "70217205",
+   "type": 11,
+   "heading": "Artigo 33.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Direito subsidiário\n\n1 - Nos casos omissos são de observar, com as devidas adaptações, as regras de processo civil que não contrariem os fins da jurisdição de menores.\n\n2 - Salvo disposição expressa, são correspondentemente aplicáveis, com as devidas adaptações aos processos tutelares cíveis, as disposições dos artigos 88.º a 90.º da Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, alterada pelas Leis n.os 31/2003, de 22 de agosto, e 142/2015, de 8 de setembro."
+  },
+  "107055644": {
+   "fragment_id": "107072780",
+   "type": 11,
+   "heading": "Artigo 44.º-A — Regulação urgente",
+   "in_force_from": "2017-06-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Lei n.º 24/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/lei/24-2017-107061862), em vigor a partir de 2017-06-23"
+   ],
+   "markdown": "###### Artigo 44.º-A — Regulação urgente\n\n1 - Quando seja decretada medida de coação ou aplicada pena acessória de proibição de contacto entre progenitores ou se estiver em grave risco os direitos e a segurança das vítimas de violência doméstica e de outras formas de violência em contexto familiar, como maus tratos ou abuso sexual de crianças, o Ministério Público requer, no prazo máximo de 48 horas após ter conhecimento da situação, a regulação ou alteração da regulação do exercício das responsabilidades parentais.\n\n2 - Autuado o requerimento, os progenitores são citados para conferência, a realizar nos 5 dias imediatos.\n\n3 - Sempre que os progenitores não cheguem a acordo ou qualquer deles faltar, é fixado regime provisório nos termos do artigo 38.º, seguindo-se-lhe os termos posteriores previstos nos artigos 39.º e seguintes da presente lei.\n\n> Aditado pelo/a Artigo 5.º do/a [Lei n.º 24/2017 - Diário da República n.º 100/2017, Série I de 2017-05-24](https://diariodarepublica.pt/dr/detalhe/lei/24-2017-107061862), em vigor a partir de 2017-06-23"
+  }
+ }
+}

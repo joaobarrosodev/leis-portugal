@@ -1,0 +1,186 @@
+---
+schema_version: '1.0'
+id: pt:dre:198709:por
+title: Decreto-Lei n.º 49189
+short_title: null
+summary: Dá nova redacção aos artigos 26.º, 27.º e 38.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Interior - Direcção-Geral de Administração Política e Civil
+proposing_entity: null
+official_number: '49189'
+official_date: null
+publication_date: '1969-08-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 190/1969, Série I de 1969-08-14
+  number: '190'
+  series: I
+  supplement: null
+  pages: 1025 - 1026
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/08/19000/10251026.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '198709'
+  dre_path: /dr/detalhe/decreto-lei/49189-1969-198709
+  internal: pt:dre:198709:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49189-1969-198709
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49189-1969-198709
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:10:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3e0349f51d12cae01c54342890048d6a8e1b82b9c7b61293d579b3828bf19dde
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:10:25Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Executiva
+- Definição de Competências
+- Estatuto dos Distritos Autónomos das Ilhas Adjacentes
+- Junta Geral
+- Presidente
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:10:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49189
+
+Tornando-se necessário coordenar os planos de administração das juntas gerais dos distritos autónomos das ilhas adjacentes com os planos nacionais de fomento, não só quanto às realizações que nele se integram como no que respeita à sua periodicidade;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Os artigos 26.º, 27.º e 38.º do Estatuto dos Distritos Autónomos das Ilhas Adjacentes passam a ter a seguinte redacção:
+
+Art. 26.º Para o desempenho das suas atribuições, compete privativamente às juntas gerais:
+
+1.º Fazer, interpretar e modificar os regulamentos necessários aos serviços distritais e revogar os dispensáveis;
+
+2.º Fazer, interpretar, modificar e revogar posturas sobre matérias das atribuições das câmaras municipais que convenha regular uniformemente para todo o distrito;
+
+3.º Adquirir bens imobiliários para o serviço do distrito e alienar os que forem dispensáveis;
+
+4.º Aceitar heranças, legados e doações feitos ao distrito ou a estabelecimentos distritais, contanto que a aceitação das heranças seja a benefício de inventário;
+
+5.º Aprovar as empreitadas de valor superior a 50000$00 e os contratos de fornecimento por tempo superior a um ano;
+
+6.º Discutir e votar o plano trienal da administração do distrito;
+
+7.º Lançar os impostos e respectivos adicionais na forma da lei;
+
+8.º Contrair empréstimos, estabelecer a sua dotação e estipular as condições de amortização;
+
+9.º Aprovar as bases do orçamento ordinário;
+
+10.º Decidir sobre os recursos graciosos que sejam interpostos das deliberações da comissão executiva ou das decisões do seu presidente, quando não constitutivas de direitos;
+
+11.º Subsidiar associações e estabelecimentos de assistência e instrução de interesse para o distrito;
+
+12.º Comparticipar com as câmaras municipais e juntas de freguesia em melhoramentos urbanos e rurais nos mesmos termos que o Estado e sem prejuízo das comparticipações deste;
+
+13.º Conceder subsídios para a sustentação de partidos veterinários, quando as respectivas despesas se não comportem nos orçamentos municipais;
+
+14.º Dar parecer sobre os projectos de regulamentos legislativos elaborados pelo governador do distrito no uso da sua faculdade regulamentária.
+
+§ único. As deliberações sobre empréstimos carecem, para se tornarem executórias, da aprovação do Ministro das Finanças.
+
+Art. 27.º O plano trienal da administração do distrito será aprovado, em sessão extraordinária da junta geral, até 30 de Junho do ano anterior ao do início do período a que respeite.
+
+§ 1.º O plano compor-se-á de três partes: a primeira discriminando as necessidades públicas do distrito, graduadas por ordem de urgência e de importância; a segunda destinada ao cálculo das possibilidades prováveis do distrito no triénio; a terceira com as normas gerais de orientação administrativa a seguir e o enunciado da obra a fazer, sem pormenor.
+
+§ 2.º A terceira parte do plano terá tantos capítulos quantos os serviços especiais do distrito e será instruída com os relatórios e propostas dos respectivos chefes.
+
+§ 3.º O plano trienal da junta geral será remetido, com os seus documentos e a cópia das actas das reuniões em que foi discutido, à Presidência do Conselho, e, depois de aprovado em Conselho de Ministros, com as modificações que forem tidas por convenientes, só poderá ser alterado pelo mesmo processo.
+
+§ 4.º Até à resolução do Conselho de Ministros, considera-se provisòriamente em vigor o plano aprovado pela junta geral.
+
+§ 5.º As juntas gerais, suas comissões executivas e serviços dependentes não podem, sob pena de responsabilidade pessoal e solidária dos procuradores, tomar iniciativas ou ordenar obras que contrariem o disposto no plano trienal ou nele não estejam previstas, salvo ocorrendo circunstâncias extraordinárias que exijam providências urgentes.
+
+Art. 38.º Compete ao presidente da comissão executiva:
+
+1.º Convocar as reuniões extraordinárias da comissão;
+
+2.º Dirigir os trabalhos nas reuniões, abri-las e encerrá-las, orientar as discussões, dar a palavra aos vogais e retirar-lha quando, depois de advertidos, se afastem da ordem do dia ou desrespeitem a função ou lugar, submeter os assuntos a votação, regular a ordem dos trabalhos e superintender na polícia da sala;
+
+3.º Elaborar o relatório anual da gerência da comissão, para ser presente à junta geral;
+
+4.º Elaborar o plano trienal da administração do distrito, para ser proposto à junta geral, e o plano anual da actividade da comissão executiva;
+
+5.º Preparar as bases do orçamento ordinário;
+
+6.º Propor transferências de verbas orçamentais e orçamentos suplementares;
+
+7.º Remeter à comissão distrital de contas os actos sujeitos ao visto;
+
+8.º Autorizar as despesas orçamentadas de harmonia com as deliberações da comissão e após o visto da comissão de contas, quando necessário;
+
+9.º Superintender nos serviços de secretaria e tesouraria, podendo advertir e repreender verbalmente os respectivos funcionários, e distribuir pelos vários serviços o pessoal de carteira conforme as necessidades que houver;
+
+10.º Inspeccionar os demais serviços dependentes da junta e transmitir-lhes as deliberações desta e da sua comissão executiva;
+
+11.º Propor as alterações necessárias na organização dos serviços distritais;
+
+12.º Representar a junta geral em juízo e fora dele, podendo constituir os advogados que forem necessários, assinar citações e intimações judiciais feitas à junta e contestar e impugnar as acções quando seja urgente e contanto que submeta o assunto a deliberação da comissão executiva na primeira reunião que se seguir;
+
+13.º Executar e fazer executar as deliberações da junta geral e da comissão executiva, expedindo os alvarás, licenças e diplomas necessários;
+
+14.º Publicar as resoluções, posturas, regulamentos, anúncios e avisos e vigiar pela sua execução;
+
+15.º Assinar a correspondência expedida pela comissão executiva com destino a quaisquer autoridades, corpos administrativos e repartições públicas;
+
+16.º Assinar os cheques, mandados e recibos para levantamento de fundos da junta, depois de assinados pelo tesoureiro e de visados pela contabilidade.
+
+§ único. O plano trienal da administração do distrito e os planos anuais devem ser elaborados em subordinação e coordenação, respectivamente, com o plano de fomento nacional e os seus programas anuais de execução.
+
+Art. 2.º Os planos de administração das juntas gerais elaborados para o período de 1969-1972 serão revistos de acordo com a revisão que vier a efectuar-se do III Plano de Fomento.
+
+Art. 3.º Excepcionalmente, os planos de administração das juntas gerais a elaborar no ano de 1972 respeitarão apenas ao ano seguinte.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.
+
+Promulgado em 6 de Agosto de 1969.
+
+Publique-se.
+
+Presidência da República, 14 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

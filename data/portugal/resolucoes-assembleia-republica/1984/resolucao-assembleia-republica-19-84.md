@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:386622:por
+title: Resolução da Assembleia da República n.º 19/84
+short_title: null
+summary: Constituição de uma comissão eventual para proceder a inquérito à Radiotelevisão Portuguesa, E. P., no que respeita
+  à observância dos princípios constitucionais e legais em relação ao Estatuto da Oposição, ao pluralismo de opinião, à independência
+  face ao Governo e ao apuramento de eventuais irregularidades incompatíveis com as regras mínimas de funcionamento de uma
+  equipa de gestão de uma empresa pública
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 19/84
+official_date: null
+publication_date: '1984-06-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 134/1984, Série I de 1984-06-09
+  number: '134'
+  series: I
+  supplement: null
+  pages: 1829 - 1830
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/06/13400/18291830.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '386622'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/19-1984-386622
+  internal: pt:dre:386622:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/19-1984-386622
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/19-1984-386622
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:51:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 41eb397ae2ac4b0c0580834820c52e3fe2dff3d33259bc1fa62cb5e192750757
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:51:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo IX
+- Inquérito Parlamentar
+- Oposição Política
+- RTP
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:51:05Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 19/84
+
+A Assembleia da República resolve, nos termos do artigo 181.º da Constituição, constituir uma comissão eventual encarregada de, no prazo de 30 dias, proceder a inquérito à Radiotelevisão Portuguesa, E. P., no que respeita à observância dos princípios constitucionais e legais em relação ao Estatuto da Oposição, ao pluralismo de opinião, à independência face ao Governo e ao apuramento de eventuais irregularidades incompatíveis com as regras mínimas de funcionamento de uma equipa de gestão de uma empresa pública.
+
+A comissão eventual terá a seguinte composição:
+
+PS - 5 deputados;
+
+PSD - 4 deputados;
+
+PCP - 3 deputados;
+
+CDS - 2 deputados;
+
+MDP/CDE - 1 deputado;
+
+ASDI - 1 deputado;
+
+UEDS - 1 deputado.
+
+Aprovada em 3 de Maio de 1984.
+
+O Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.

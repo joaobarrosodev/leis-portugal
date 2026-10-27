@@ -1,0 +1,232 @@
+---
+schema_version: '1.0'
+id: pt:dre:331438:por
+title: Decreto-Lei n.º 159/99
+short_title: null
+summary: Regulamenta o seguro de acidentes de trabalho para os trabalhadores independentes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 159/99
+official_date: null
+publication_date: '1999-05-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/1999, Série I-A de 1999-05-11
+  number: '109'
+  series: I
+  supplement: null
+  pages: 2441 - 2443
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/05/109a00/24412443.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-11-10'
+version_history:
+  file: decreto-lei-159-99.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1999-05-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-09-27'
+    amending: pt:dre:310612:por
+    amending_title: Decreto-Lei n.º 382-A/99
+    changes:
+    - Altera Artigo 12.º
+  - date: '2024-11-10'
+    amending: pt:dre:895836368:por
+    amending_title: Decreto-Lei n.º 87/2024
+    changes:
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/159/1999/p/cons/20241107/pt/html
+  oj: null
+  dre: '331438'
+  dre_path: /dr/detalhe/decreto-lei/159-1999-331438
+  internal: pt:dre:331438:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1999-331438
+  metadata_url: https://data.dre.pt/eli/dec-lei/159/1999/p/cons/20241107/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34476375
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34476375
+  retrieved_at: '2026-10-22T11:44:02Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 80a82645ac040dd9ca7c26aff52af7ee2f5e6c23deb0ae774763ebc5afa74e74
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:44:02Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-159-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acidente de Trabalho
+- Multa
+- Contra-ordenação
+- Instituto de Seguros de Portugal
+- Remuneração
+- Seguro de Acidentes de Trabalho
+- Trabalhador Independente
+relationships:
+- type: amended_by
+  target: pt:dre:310612:por
+  label: Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612
+  date: '1999-09-22'
+- type: amended_by
+  target: pt:dre:895836368:por
+  label: Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2024-895836368
+  date: '2024-11-07'
+- type: cites
+  target: pt:dre:332440:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/143/1999/04/30/p/dre
+- type: cites
+  target: pt:dre:648882:por
+  label: null
+  source: http://data.dre.pt/eli/lei/100/1997/09/13/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:44:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 159/99
+
+Decreto-Lei n.º 159/99
+
+de 11 de Maio
+
+O presente decreto-lei visa regulamentar o seguro obrigatório de acidentes de trabalho para os trabalhadores independentes, previsto no artigo 3.º da Lei n.º 100/97, de 13 de Setembro.
+
+Através do seguro de acidentes de trabalho pretende-se garantir aos trabalhadores independentes e respectivos familiares, em caso de acidente de trabalho, indemnizações e prestações em condições idênticas às dos trabalhadores por conta de outrem e seus familiares.
+
+O carácter de obrigatoriedade do seguro não abrange os trabalhadores independentes cuja produção se destine exclusivamente ao consumo ou utilização por si próprio e pela sua família.
+
+O presente diploma regula nomeadamente a situação de simultaneidade de regimes, estabelecendo que, nos casos em que o sinistrado em acidente de trabalho é simultaneamente trabalhador por conta de outrem e trabalhador independente, se presume, até prova em contrário, que o acidente ocorreu ao serviço da entidade empregadora.
+
+Foram ouvidos o Instituto de Seguros de Portugal, a Associação Portuguesa de Seguradores, a Associação Nacional dos Deficientes Sinistrados no Trabalho, a Confederação Geral dos Trabalhadores Portugueses, a União Geral de Trabalhadores, a Confederação da Indústria Portuguesa, a Confederação do Comércio e Serviços de Portugal e a Confederação de Agricultores de Portugal.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 100/97, de 13 de Setembro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Obrigatoriedade de seguro
+
+1 - Os trabalhadores independentes são obrigados a efectuar um seguro de acidentes de trabalho que garanta, com as devidas adaptações, as prestações definidas na Lei n.º 100/97, de 13 de Setembro, para os trabalhadores por conta de outrem e seus familiares.
+
+2 - São dispensados de efectuar este seguro os trabalhadores independentes cuja produção se destine exclusivamente ao consumo ou utilização por si próprio e pelo seu agregado familiar.
+
+###### Artigo 2.º — Regime
+
+O seguro de acidentes de trabalho dos trabalhadores independentes rege-se, com as devidas adaptações, pelas disposições da Lei n.º 100/97, de 13 de Setembro, e diplomas complementares, salvo no que adiante especificamente se refere.
+
+###### Artigo 3.º — Âmbito territorial
+
+1 - O seguro é válido para todo o território nacional e para o território de Estados membros da Comunidade Europeia onde o trabalhador exerça a sua actividade, desde que por período não superior a 15 dias.
+
+2 - O seguro pode ser válido no território de Estados membros na União Europeia por períodos superiores a 15 dias, ou no território de Estados não membros da Comunidade Europeia, desde que tal extensão de cobertura tenha sido contratada.
+
+###### Artigo 4.º — Meios de prova
+
+1 - A prova do seguro faz-se pela apresentação de documento, a emitir pela empresa de seguros, onde conste a identificação do trabalhador e o prazo de validade do seguro, que nunca será inferior a um ano.
+
+2 - A prova da situação de isenção a que se refere o n.º 2 do artigo 1.º faz-se através de documento emitido pela junta de freguesia da área da residência do trabalhador.
+
+###### Artigo 5.º — Condições de resolução
+
+O Instituto de Seguros de Portugal estabelecerá por norma regulamentar as disposições relativas à colocação dos riscos recusados pelas empresas de seguros.
+
+###### Artigo 6.º — Conceito de acidente
+
+Fora do local de trabalho ou do local onde é prestado o serviço só se considera acidente o que ocorrer no trajecto que o trabalhador tenha de utilizar:
+
+a) Nos termos da alínea a) do n.º 2 e do n.º 3 do artigo 6.º do Decreto-Lei n.º 143/99, de 30 de Abril.
+
+b) Entre o local de trabalho e o local de refeição;
+
+c) Entre quaisquer dos locais referidos na alínea a) e o local onde ao trabalhador deva ser prestada qualquer forma de assistência ou tratamento por virtude de anterior acidente e enquanto aí permanecer para esses fins.
+
+###### Artigo 7.º — Simultaneidade de regimes
+
+1 - Quando o sinistrado de acidente de trabalho for, simultaneamente, trabalhador independente e trabalhador por conta de outrem e havendo dúvida sobre o regime aplicável ao acidente, presumir-se-á, até prova em contrário, que o acidente ocorreu ao serviço da entidade empregadora.
+
+2 - Provando-se que o acidente de trabalho ocorreu quando o sinistrado exercia funções de trabalhador independente, a entidade presumida como responsável nos termos do número anterior adquire direito de regresso contra a empresa de seguros do trabalhador independente ou contra o próprio trabalhador.
+
+###### Artigo 8.º — Participação do acidente
+
+1 - Ocorrido um acidente, o sinistrado ou os beneficiários legais de pensão devem participá-lo à empresa de seguros, nos termos estabelecidos na apólice.
+
+2 - As empresas de seguros participarão ao tribunal competente, por escrito, no prazo de oito dias a contar da alta, os acidentes de que tenha resultado incapacidade permanente e, imediatamente, e por correio eletrónico ou outra via com o efeito de registo de mensagens, aqueles de que tenha resultado morte.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 87/2024 - Diário da República n.º 216/2024, Série I de 2024-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2024-895836368), em vigor a partir de 2024-11-10
+
+###### Artigo 9.º — Remuneração
+
+1 - A remuneração anual a considerar, para efeito do cálculo dos prémios e das prestações em dinheiro, corresponderá, no mínimo, a 14 vezes a remuneração mínima mensal mais elevada, ou a qualquer outro valor, à escolha do trabalhador.
+
+2 - Para qualquer valor superior à remuneração mínima indicada no número anterior, a empresa de seguros reserva-se o direito de exigir prova de rendimento.
+
+3 - Não tendo sido exigida prova no momento da subscrição ou alteração do contrato de seguro, será sempre considerado, para efeitos de indemnização, o valor garantido.
+
+###### Artigo 10.º — Actualização das pensões
+
+As pensões a que tiverem direito os trabalhadores independentes e seus familiares são actualizadas nos termos em que o forem as dos trabalhadores por conta de outrem, tomando-se por base a remuneração anual efectivamente segura.
+
+###### Artigo 11.º — Contra-ordenação
+
+1 - Constitui contra-ordenação, punível com coima de 10000$00 a 100000$00, o não cumprimento pelos trabalhadores independentes da obrigação contida no artigo 1.º, n.º 1, deste diploma, excepto quando dela estiverem isentos, nos termos do n.º 2 da mesma disposição.
+
+2 - O processamento da contra-ordenação prevista neste diploma, bem como a aplicação da correspondente coima, compete ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente diploma entra em vigor em 1 de Janeiro de 2000.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), em vigor a partir de 1999-09-27
+
+Visto e aprovado em Conselho de Ministros de 11 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Eduardo Luís Barreto Ferro Rodrigues.
+
+Promulgado em 15 de Abril de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 29 de Abril de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

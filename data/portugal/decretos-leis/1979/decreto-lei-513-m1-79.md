@@ -1,0 +1,216 @@
+---
+schema_version: '1.0'
+id: pt:dre:147400:por
+title: Decreto-Lei n.º 513-M1/79
+short_title: null
+summary: Reestrutura a carreira e estabelece novas categorias de vencimentos para o pessoal docente da educação pré-escolar
+  e dos ensinos primário, preparatório e secundário
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 513-M1/79
+official_date: null
+publication_date: '1979-12-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 297/1979, 4º Suplemento, Série I de 1979-12-27
+  number: '297'
+  series: I
+  supplement: null
+  pages: 3366-(125) a 3366-(127)
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29704/01250127.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '147400'
+  dre_path: /dr/detalhe/decreto-lei/513-m1-1979-147400
+  internal: pt:dre:147400:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:24:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2a7ba018fc5160baffa88547889d3f5b2c3e93125ff16a6807729162966a127f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:24:33Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Educação Pré-escolar
+- Ensino Oficial
+- Ensino Preparatório
+- Ensino Primário
+- Função Pública
+- Pessoal Docente
+- Reestruturação de Carreiras
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:297010:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:425171:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:506643:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:24:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 513-M1/79
+
+de 27 de Dezembro
+
+Considerando que a situação actual, no que respeita aos vencimentos da função pública, determina que se proceda à sua adaptação à carreira docente, tendo embora em consideração a especificidade que a mesma reflecte;
+
+Considerando que essa adaptação não deve dissociar-se da intenção de definir, com a possível celeridade, a estruturação dessa carreira em consonância com novos modelos de formação de professores, incluindo neles, nomeadamente, o que se refere aos actuais professores de Trabalhos Manuais e do 12.º grupo do ensino secundário, como forma segura da revalorização que se pretende;
+
+Considerando que, embora os estudos conducentes à consecussão destas finalidades se encontrem em fase de finalização, não se deve protelar por mais tempo aquela adaptação à carreira docente;
+
+Considerando finalmente que os docentes do ensino especial não devem ser incluídos no presente diploma, uma vez que se encontra em vias de regulamentação a Lei do Ensino Especial, sede própria para lhes dar o devido tratamento;
+
+Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - A carreira docente dos professores da educação pré-escolar e do ensino primário oficiais desenvolve-se em quatro fases.
+
+2 - O ingresso na 2.ª fase depende de provimento em lugar do quadro dos respectivos níveis de ensino.
+
+Art. 2.º - 1 - A carreira docente dos professores dos ensinos preparatório e secundário oficiais desenvolve-se em quatro fases.
+
+2 - O ingresso na 1.ª fase depende, em cada nível de ensino, da profissionalização exigida para provimento nos respectivos lugares do quadro de professores efectivos.
+
+3 - O ingresso na 2.ª fase depende de provimento em lugar do quadro de professores efectivos dos respectivos níveis de ensino.
+
+Art. 3.º - 1 - A carreira docente dos professores-adjuntos dos ensinos preparatório e secundário e a dos professores extraordinários do quadro do ensino secundário desenvolve-se em quatro fases.
+
+2 - O ingresso na 1.ª fase depende de os professores referidos no número anterior se encontrarem providos nas respectivas categorias.
+
+Art. 4.º - 1 - A carreira docente dos ex-regentes escolares habilitados com o curso especial previsto no [Decreto-Lei n.º 111/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1976-506643), de 7 de Maio, desenvolve-se em quatro fases.
+
+2 - O ingresso na 2.ª fase depende de o ex-regente se encontrar provido em lugar do quadro.
+
+Art. 5.º - 1 - O exercício de funções, a título provisório ou eventual, nos ensinos preparatório e secundário depende da posse de habilitações reconhecidas como próprias para a docência nos respectivos níveis de ensino.
+
+2 - Na falta de candidatos portadores de habilitações próprias, poderão ainda ser admitidos para o exercício de funções a título provisório ou eventual nos cício de funções, a título provisório ou eventual, nos ensinos preparatório e secundário candidatos porta-respectivos níveis de ensino.
+
+Art. 6.º - 1 - No prazo de cento e oitenta dias, contado a partir da entrada em vigor deste diploma, o Governo estabelecerá, por decreto regulamentar, as condições de ingresso e de acesso às diversas fases das carreiras docentes.
+
+2 - Essas condições dependerão, fundamentalmente, de:
+
+a) Valorização profissional;
+
+b) Tempo de serviço.
+
+Art. 7.º - 1 - Até à entrada em vigor do diploma referido no artigo anterior, a concessão das fases aos docentes referidos nos artigos 1.º, 2.º, 3.º e 4.º depende de, para além das demais condições previstas no [Decreto-Lei n.º 74/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1978-425171), de 18 de Abril, com as rectificações que lhe foram introduzidas pela [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), de 27 de Julho, das estabelecidas nas alíneas seguintes:
+
+a) Para a 2.ª fase - cinco anos de bom e efectivo serviço prestado no ensino oficial;
+
+b) Para a 3.ª fase - onze anos de bom e efectivo serviço prestado no ensino oficial;
+
+c) Para a 4.ª fase - dezoito anos de bom e efectivo serviço prestado no ensino oficial.
+
+2 - As implicações decorrentes da estruturação das carreiras docentes, na qual se integrará a 4.ª fase criada pelo presente diploma, nomeadamente no que respeita à componente lectiva do serviço docente, serão estabelecidas no diploma a que se refere o n.º 1 do artigo anterior.
+
+3 - A partir de 7 de Maio de 1976, inclusive, o tempo de serviço a contar para efeitos da concessão das fases referidas no n.º 1 é somente o prestado após a profissionalização.
+
+Art. 8.º - 1 - As categorias e escalões de vencimentos dos docentes referidos nos artigos 1.º 2.º, 3.º e 4.º para cada uma das fases referidas no presente diploma e as categorias de vencimentos dos professores referidos no artigo 5.º são as constantes no mapa anexo ao presente diploma.
+
+2 - Os vencimentos do restante pessoal docente não previsto no artigo anterior são os constantes do mesmo mapa.
+
+Art. 9.º O pessoal docente do ensino médio integra-se, de acordo com as respectivas habilitações, nos escalões de vencimentos constantes do mapa anexo a este decreto-lei.
+
+Art. 10.º Os vencimentos das auxiliares de educação são os correspondentes às letras M, L e J, consoante o seu tempo de serviço, não classificado de Deficiente seja, respectivamente, menos de cinco anos, de cinco a onze anos e mais de onze anos.
+
+Art. 11.º - 1 - Só terão acesso à 4.ª fase, no escalão 1 de vencimentos, os professores efectivos dos ensinos preparatório e secundário cuja habilitação própria seja uma licenciatura ou equivalente.
+
+2 - Só têm acesso à 4.ª fase, no escalão 2 de vencimentos, os professores adjuntos e extraordinários do quadro cuja habilitação própria seja uma licenciatura ou equivalente.
+
+Art. 12.º - 1 - Transitam à 2.ª fase os docentes que à data da entrada em vigor do presente diploma possuam o tempo de serviço referido na alínea a) do n.º 1 do artigo 7.º
+
+2 - Transitam à 3.ª fase os docentes que à data da entrada em vigor do presente diploma possuam o tempo de serviço referido na alínea b) do n.º 1 do artigo 7.º
+
+3 - Transitam à 4.ª fase os docentes que à data da entrada em vigor do presente diploma possuam o tempo de serviço referido na alínea c) do n.º 1 do artigo 7.º, ressalvando-se, porém, no que se refere aos escalões 1 e 2, a limitação mencionada no artigo anterior.
+
+Art. 13.º À concessão das fases referidas no presente diploma aplica-se o disposto no artigo 11.º do [Decreto-Lei n.º 74/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1978-425171).
+
+Art. 14.º - 1 - O presente diploma terá aplicação até à entrada em vigor do decreto-lei referido no artigo 6.º ou até à definição e aplicação de nova estrutura de formação de professores de educação pré-escolar e dos ensinos básico e secundário.
+
+2 - Até à entrada em vigor do primeiro dos diplomas a que se refere o número anterior, os professores que iniciarem o exercício de funções docentes integram-se nos escalões de vencimentos constantes no mapa anexo, de acordo com as habilitações de que forem portadores.
+
+Art. 15.º Em tudo o que não se encontrar previsto no presente diploma aplica-se o disposto no [Decreto-Lei n.º 74/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1978-425171), com as rectificações que lhe foram introduzidas pela [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010).
+
+Art. 16.º As dúvidas surgidas na execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação ou por despacho conjunto dos Ministros das Finanças e da Educação e do Secretário de Estado da Administração Pública, consoante a sua natureza.
+
+Art. 17.º O presente diploma entra em vigor no dia 1 de Janeiro de 1980.
+
+Visto e aprovado em Conselho de Ministros de 30 de Novembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Manuel da Costa Brás - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.
+
+Promulgado em 20 de Dezembro de 1979.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Mapa a que se referem os artigos 8.º e 9.º do Decreto-Lei n.º 513-M1/79, desta data
+
+Categorias de vencimento de pessoal docente da educação pré-escolar e dos ensinos primário, preparatório e secundário
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29704/01250127.pdf)
+
+O Ministro da Educação, Luís Eugénio Caldas Veiga da Cunha

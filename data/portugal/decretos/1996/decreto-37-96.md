@@ -1,0 +1,241 @@
+---
+schema_version: '1.0'
+id: pt:dre:186307:por
+title: Decreto n.º 37/96
+short_title: null
+summary: Aprova o Protocolo de Cooperação entre a República Portuguesa e a República de Moçambique Relativo à Instalação e
+  Funcionamento do Centro de Formação e de Investigação Jurídica e Judiciária, assinado em Maputo em 14 de Abril de 1995
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 37/96
+official_date: null
+publication_date: '1996-12-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 280/1996, Série I-A de 1996-12-04
+  number: '280'
+  series: I
+  supplement: null
+  pages: 4354 - 4356
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/12/280a00/43544356.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/37/1996/12/04/p/dre/pt/html
+  oj: null
+  dre: '186307'
+  dre_path: /dr/detalhe/decreto/37-1996-186307
+  internal: pt:dre:186307:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/37-1996-186307
+  metadata_url: https://data.dre.pt/eli/dec/37/1996/12/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/37-1996-186307
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:07:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 820aa7840727c62d3c343f9d9b16f47fcccf5b7888beb9f61f24cf19a28eaaa2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:07:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Formação e de Investigação Jurídica e Judiciária
+- Convenção
+- Cooperação Bilateral
+- Cooperação Judiciária
+- Cooperação Jurídica
+- Formação Profissional
+- Maputo
+- Moçambique
+- Portugal
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:07:31Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 37/96
+
+de 4 de Dezembro
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único
+
+É aprovado o Protocolo de Cooperação entre a República Portuguesa e a República de Moçambique Relativo à Instalação e Funcionamento do Centro de Formação e de Investigação Jurídica e Judiciária, assinado em Maputo em 14 de Abril de 1995, cuja versão autêntica em língua portuguesa segue em anexo.
+
+Visto e aprovado em Conselho de Ministros de 24 de Outubro de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - José Manuel de Matos Fernandes.
+
+Assinado em 15 de Novembro de 1996.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 20 de Novembro de 1996.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+PROTOCOLO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE MOÇAMBIQUE RELATIVO À INSTALAÇÃO E FUNCIONAMENTO DO CENTRO DE FORMAÇÃO E DE INVESTIGAÇÃO JURÍDICA E JUDICIÁRIA.
+
+A República Portuguesa e a República de Moçambique:
+
+Desejosas de aprofundar as relações bilaterais de cooperação nos domínios do direito e da justiça;
+
+Persuadidas de que a criação de um Centro de Formação e de Investigação Jurídica e Judiciária constituirá mais um espaço de cooperação, privilegiando áreas que importa desenvolver, designadamente a investigação, a formação jurídica e a qualificação profissional;
+
+Crentes de que a instalação de um Centro com as características do que agora se pretende implementar é um valioso contributo para o desenvolvimento das instituições democráticas e para o reforço do Estado de direito;
+
+decidem o seguinte:
+
+1.º
+
+O presente protocolo estabelece os princípios gerais que nortearão a cooperação bilateral com vista à instalação e funcionamento do Centro de Formação e de Investigação Jurídica e Judiciária na República de Moçambique, adiante designado Centro.
+
+2.º
+
+A instalação e o funcionamento do Centro serão objecto de uma estreita cooperação que decorre sob a responsabilidade conjunta das Partes, representadas pelos Ministérios da Justiça e dos Negócios Estrangeiros, pela parte portuguesa, e pelo Ministério da Justiça, pela parte moçambicana.
+
+3.º
+
+Todas as matérias relevantes da actividade do Centro, nomeadamente no que diz respeito à organização, funcionamento, planeamento e avaliação da formação e investigação desenvolvidas, serão objecto de consultas mútuas.
+
+4.º
+
+A instalação e o funcionamento do Centro, bem como todas as actividades com ele relacionadas, são objecto de planeamento anual, tendo em conta os meios financeiros, humanos e materiais que as Partes ou outrem lhe possam afectar.
+
+5.º
+
+Para a execução do presente Protocolo cabe à parte portuguesa, nomeadamente:
+
+a) Conceder bolsas de estudo a cidadãos moçambicanos para a frequência de estágios relacionados com matérias do âmbito de competência do Centro;
+
+b) Disponibilizar pessoal docente para a formação de técnicos moçambicanos em Portugal ou em Moçambique em matérias do âmbito de competência do Centro;
+
+c) Cooperar na organização de cursos, seminários, estágios e outras acções de formação a decorrer em Portugal ou em Moçambique;
+
+d) Prestar apoio científico e técnico em matéria de estudos e projectos de investigação de natureza jurídica ou judiciária;
+
+e) Apoiar o intercâmbio de legislação, documentação e informação de natureza científica e técnica, nomeadamente habilitando o Centro com espécies bibliográficas com interesse para a formação e investigação a desenvolver;
+
+f) Prestar apoio técnico em matérias relacionadas com a organização e funcionamento do Centro, nomeadamente quanto à introdução de sistemas de tratamento de informação.
+
+6.º
+
+Para a execução do presente Protocolo cabe à parte moçambicana, nomeadamente:
+
+a) Aprovar, no prazo de 90 dias a contar da data da entrada em vigor do presente Protocolo, os instrumentos legais e regulamentares internos relativos à organização e funcionamento do Centro;
+
+b) Seleccionar quadros moçambicanos para constituírem o quadro docente do Centro;
+
+c) Desenvolver o intercâmbio de documentação e informação científica e técnica.
+
+7.º
+
+O suporte financeiro das acções decorrentes do presente Protocolo constantes do planeamento anual estabelecido nos termos do n.º 4.º é assegurado, por verbas afectas por ambas as partes, nos termos dos números seguintes, bem como por financiamentos de outrem que seja possível afectar a este fim.
+
+8.º
+
+1 - Caberá à parte portuguesa, nomeadamente, a responsabilidade pelos encargos relativos a:
+
+a) Remuneração base dos técnicos portugueses que se desloquem a Moçambique no âmbito da actividade do Centro e quaisquer suplementos e prestações sociais a que tiverem direito no respectivo organismo ou serviço de origem;
+
+b) Pagamento das passagens de ida e regresso dos técnicos acima referidos;
+
+c) Pagamento das passagens de ida e regresso dos cônjuges e filhos menores dos referidos técnicos, desde que estes se desloquem a Moçambique em missão cuja duração seja superior a seis meses.
+
+2 - Para efeitos dos encargos previstos na alínea a) do número anterior, entende-se como remuneração base, para o pessoal das conservatórias e cartórios notariais, a componente fixa e a componente variável, que correspondem, respectivamente, ao vencimento base ou ordenado e à participação emolumentar.
+
+9.º
+
+Caberá à parte moçambicana, nomeadamente, a responsabilidade com os encargos no território de Moçambique relativos a:
+
+a) Remuneração dos técnicos referidos no número anterior em montante diário igual às diversas componentes que integram o regime remuneratório dos técnicos de idêntica categoria em Moçambique, abonados em tantos dias quantos os da duração da missão;
+
+b) Alojamento e transporte de serviço dos técnicos portugueses referidos no número anterior;
+
+c) Assistência médica e medicamentosa dos referidos cidadãos;
+
+d) Disponibilização das instalações, pessoal, equipamento, viaturas e material necessário ao funcionamento do Centro;
+
+e) Aquisição de uma biblioteca jurídica;
+
+f) Instalação de um sistema de tratamento automático de informação.
+
+10.º
+
+Em matéria de assunção de encargos relativos à concessão de bolsas prevista na alínea a) do n.º 5.º, é aplicável o regime previsto no n.º 3 do artigo 4.º do Protocolo Adicional ao Acordo de Cooperação Jurídica e Judiciária, assinado por ambas as partes em 26 de Junho de 1990.
+
+11.º
+
+A execução do presente Protocolo será objecto de acompanhamento por uma Comissão Coordenadora Permanente, formada paritariamente por representantes de ambas as partes nos termos do n.º 2.º
+
+12.º
+
+À Comissão Coordenadora compete:
+
+a) Emitir parecer sobre os planos anuais de actividades;
+
+b) Acompanhar a execução dos planos de actividades no âmbito da gestão global do Centro;
+
+c) Emitir parecer sobre os relatórios anuais de actividades;
+
+d) Apresentar propostas relativas à cooperação nas matérias que constituem objecto do presente Protocolo.
+
+13.º
+
+O processo de instalação e funcionamento do Centro inicia-se em 1995-1996.
+
+14.º
+
+O presente Protocolo entrará em vigor 30 dias após a última notificação de que foram cumpridas as respectivas formalidades exigidas para o efeito pelas ordens jurídicas de cada uma das partes e será válido por um período de cinco anos, podendo ser denunciado por qualquer das partes mediante comunicação escrita à outra com a antecedência mínima de um ano.
+
+15.º
+
+O presente Protocolo poderá ser prorrogado, por acordo entre as Partes, por iguais períodos, tendo em conta, nomeadamente, a avaliação da sua execução.
+
+Feito em Maputo em 14 de Abril de 1995, em dois exemplares em língua portuguesa, fazendo ambos igualmente fé.
+
+Pela República Portuguesa:
+
+O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio.
+
+Pela República de Moçambique:
+
+O Ministro da Justiça, José Ibraimo Abudo.

@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:473688:por
+title: Resolução n.º 216/80
+short_title: null
+summary: Estabelece as condições que devem servir de base à regularização dos créditos da Supa - Companhia Portuguesa de Supermercados,
+  S. A. R. L., à banca e concede o aval do Estado a diversas operações
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 216/80
+official_date: null
+publication_date: '1980-06-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 143/1980, Série I de 1980-06-24
+  number: '143'
+  series: I
+  supplement: null
+  pages: 1449 - 1449
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/06/14300/14491449.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '473688'
+  dre_path: /dr/detalhe/resolucao/216-1980-473688
+  internal: pt:dre:473688:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/216-1980-473688
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/216-1980-473688
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:29:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a6a26d1f15df5c7d0720ed8f2d107896e03be1eaf284913298cefe98debc33b9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:29:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- AVAL do Estado
+- Dação em Cumprimento
+- Empresa Privada
+- Instituição de Crédito
+- Intervenção do Estado
+- Saneamento Económico e Financeiro
+relationships:
+- type: corrected_by
+  target: pt:dre:471293:por
+  label: Rectificada pela DECL.DD6966.14.07.1980.PCM, DR.IS [160] de 14.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-471293
+  date: '1980-07-14'
+- type: corrected_by
+  target: pt:dre:472127:por
+  label: Rectificada pela DECL.DD6985.25.07.1980.PCM, DR.IS [170] de 25.07.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-472127
+  date: '1980-07-25'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:29:59Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 216/80
+
+1 - Pela Resolução do Conselho de Ministros n.º 228/77, de 15 de Setembro, foi determinado pôr termo à intervenção do Estado na Supa - Companhia Portuguesa de Supermercados, S. A. R. L., que se passa a designar abreviadamente por Supa, dela se destacando, pela sua importância, a medida de saneamento económico-financeiro de regularização de créditos bancários concedidos à Supa por contrapartida de fornecimentos às empresas Supermercados A. C. Santos, S. A. R. L., Fábrica de Rebuçados Anilusa, Lda., Nutripol, Sociedade Portuguesa de Supermercados, S. A. R. L., Supermercados Boa-Ajuda Modelar, Lda., e Ulmar Supermercados, que se passam a designar por ex-integradas, bem como a regularização dos restantes créditos e débitos controvertidos entre a Supa e as ex-integradas.
+
+2 - Pela Resolução do Conselho de Ministros n.º 367/79, de 31 de Dezembro, posteriormente confirmada pela Resolução do Conselho de Ministros n.º 43/80, de 11 de Fevereiro, foi concedido o aval do Estado às operações a realizar entre a banca, a Supa e as ex-integradas, no cumprimento do n.º 7) do n.º 3.º da Resolução do Conselho de Ministros n.º 228/77, de 15 de Setembro.
+
+3 - A deficiente qualificação jurídica das formas de transmissão e extinção de créditos e obrigações que conduziram a esta operação determinou a impossibilidade de dar execução material à referida concessão de aval do Estado.
+
+4 - No que respeita ao n.º 8) do n.º 3.º da Resolução do Conselho de Ministros n.º 228/77, de 15 de Setembro, não foi ainda possível dar-lhe cumprimento, em virtude da falta de precisão e rigor do seu conteúdo.
+
+5 - Considerando que é urgente pôr termo a esta situação, o Conselho de Ministros, reunido em 9 de Junho de 1980, resolveu:
+
+I - A regularização dos débitos da Supa à banca, previstos no n.º 7) do n.º 3.º da Resolução do Conselho de Ministros n.º 228/77, de 15 de Setembro, far-se-á do seguinte modo:
+
+a) Uma dação em cumprimento, que tem por objecto uma cessação de créditos - em que a Supa é devedora à banca de créditos contraídos para satisfação de fornecimentos às ex-integradas -, acompanhada da extinção das obrigações da Supa para com a banca na parte acordada;
+
+b) Ficando investida no direito da Supa contra as ex-integradas, por força do disposto na alínea anterior, a banca passa a dispor, directamente, de créditos sobre as ex-integradas, ficando estas na posição de devedoras em relação à banca, com consequente desoneração da Supa em relação à banca na parte acordada;
+
+c) Tendo em vista a satisfação do interesse dos seus novos credores, as ex-integradas subscreverão novas livranças, com vencimento em 30 de Junho próximo, eventualmente prorrogável;
+
+d) A Supa subscreverá novas livranças relativamente à parte da dívida para com a banca que, por não ter sido acordada, não foi liberada pela cessão de créditos.
+
+II - Conceder, no seguimento da Resolução do Conselho de Ministros n.º 367/79, de 31 de Dezembro, confirmada pela Resolução do Conselho de Ministros n.º 43/80, de 11 de Fevereiro, o aval do Estado às seguintes operações:
+
+a) No montante de 104576000$00, à subscrição de livranças a realizar pela Nutripol, Sociedade Portuguesa de Supermercados, S. A. R. L., nos termos da alínea c) do n.º I da presente resolução;
+
+b) No montante de 6516000$00, à subscrição de livranças a realizar por Supermercados Boa-Ajuda Modelar, Lda., nos termos da alínea c) do n.º I da presente resolução;
+
+c) No montante de 120785000$00, à subscrição de livranças a realizar pela Supa - Companhia Portuguesa de Supermercados, S. A. R. L., nos termos da alínea d) do n.º I da presente resolução.
+
+III - A regularização dos débitos e dos créditos controvertidos entre a Supa e as ex-integradas, previstos no n.º 8) do n.º 3.º da Resolução do Conselho de Ministros n.º 228/77, de 15 de Setembro, será pelos devedores com base e m empréstimos efectuados pelos devedores com base em empréstimos feitos a estes pelo Tesouro, em condições a definir, caso a caso, por despacho normativo do Ministro das Finanças e do Plano, publicado no Diário da República, 1.ª série, mas sempre sem prejuízo da declaração expressa dos mutuários no contrato de empréstimos de que a quantia mutuada se destina à regularização daqueles créditos ou débitos e de que o Estado, na sua qualidade de mutuante, fica sub-rogado nos direitos do credor contra os devedores, nos termos do artigo 591.º do Código Civil, e autorizado a promover a entrega directa da quantia mutuada ao credor.
+
+Presidência do Conselho de Ministros, 9 de Junho de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.

@@ -1,0 +1,871 @@
+---
+schema_version: '1.0'
+id: pt:dre:67120689:por
+title: Portaria n.º 119/2015
+short_title: null
+summary: Aprova a delimitação dos perímetros de proteção de várias captações de águas subterrâneas inseridas na massa de água
+  Sistema Aquífero de Sines - Zona Norte
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ambiente, Ordenamento do Território e Energia
+proposing_entity: null
+official_number: 119/2015
+official_date: null
+publication_date: '2015-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 84/2015, Série I de 2015-04-30
+  number: '84'
+  series: I
+  supplement: null
+  pages: 2195 - 2204
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/04/08400/0219502204.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-04-14'
+version_history:
+  file: portaria-119-2015.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-04-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-05-25'
+    amending: pt:dre:213435108:por
+    amending_title: Portaria n.º 137/2023
+    changes:
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+    - Altera QUADRO 1
+    - Altera QUADRO 2
+    - Altera Anexo VII
+  - date: '2026-04-14'
+    amending: pt:dre:1084345990:por
+    amending_title: Portaria n.º 158/2026/1
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/119/2015/p/cons/20260413/pt/html
+  oj: null
+  dre: '67120689'
+  dre_path: /dr/detalhe/portaria/119-2015-67120689
+  internal: pt:dre:67120689:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/119-2015-67120689
+  metadata_url: https://data.dre.pt/eli/port/119/2015/p/cons/20260413/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-213464997
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-213464997
+  retrieved_at: '2026-10-22T12:56:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 1d8f427f6c50c48eb94c910081fc26b6929266067f84693b1c1f08dc79f7e533
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:56:46Z'
+  notes: 3 versão(ões); histórico completo em portaria-119-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Água
+- Recursos Hídricos
+- Gestão dos Recursos
+- Proteção do Ambiente
+- Zona de Proteção
+- Águas Subterrâneas
+- Sines
+- Abastecimento de Água
+relationships:
+- type: amended_by
+  target: pt:dre:213435108:por
+  label: Altera Anexo I; Altera Anexo II; Altera Anexo III; Altera Anexo IV; Altera Anexo V; Altera QUADRO 1; Altera QUADRO
+    2; Altera Anexo VII
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/137-2023-213435108
+  date: '2023-05-24'
+- type: amended_by
+  target: pt:dre:1084345990:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990
+  date: '2026-04-13'
+- type: cites
+  target: celex:31991R2092
+  label: null
+  source: http://data.europa.eu/eli/reg/1991/2092/oj
+- type: cites
+  target: celex:32009R1107
+  label: null
+  source: http://data.europa.eu/eli/reg/2009/1107/oj
+- type: cites
+  target: pt:dre:226244:por
+  label: null
+  source: http://data.dre.pt/eli/port/229-b/2008/03/06/p/dre
+- type: cites
+  target: pt:dre:340237:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
+- type: cites
+  target: pt:dre:469068:por
+  label: null
+  source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: pt:dre:492213:por
+  label: null
+  source: http://data.dre.pt/eli/port/702/2009/07/06/p/dre
+- type: cites
+  target: pt:dre:503829:por
+  label: null
+  source: http://data.dre.pt/eli/lei/78/2013/11/21/p/dre
+- type: cites
+  target: pt:dre:559021:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:670030:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/83/2011/06/20/p/dre
+article_structure:
+  article_count: 8
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:56:46Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 119/2015
+
+Portaria n.º 119/2015
+
+de 30 de abril
+
+O Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.
+
+Os perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.
+
+Todas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de setembro, bem como no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e alterada pela Lei n.º 78/2013, de 21 de novembro, e na Portaria n.º 702/2009, de 6 de julho.
+
+Na sequência de uma proposta da Sociedade Águas de Santo André, S. A., a Agência Portuguesa do Ambiente, I. P., (APA, I. P.) elaborou, ao abrigo do disposto no n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, uma proposta de delimitação e respetivos condicionamentos dos perímetros de proteção para as 10 captações dos polos de captação de água subterrânea destinada ao abastecimento público de água no concelho de Santiago do Cacém.
+
+Estas captações inserem-se na massa de água Sistema Aquífero de Sines - Zona Norte, que foi classificada no âmbito do plano de gestão das bacias integradas na Região Hidrográfica do Sado e do Mira, com bom estado químico e bom estado quantitativo e objetivo ambiental de manutenção do bom estado em 2015.
+
+Compete, agora, ao Governo aprovar as referidas zonas de proteção.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na redação dada pelo artigo 88.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas nos termos da subalínea ii) da alínea a) e da subalínea iv) da alínea b) do n.º 1 do Despacho n.º 13322/2013, publicado no Diário da República, 2.ª série, n.º 202, de 18 de outubro, com a redação dada pela alínea c) do n.º 1 do Despacho n.º 1941-A/2014, publicado no Diário da República, 2.ª série, n.º 26, de 6 de fevereiro, e alterado pelo Despacho n.º 9478/2014, publicado no Diário da República, 2.ª série, n.º 139, de 22 de julho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - É aprovada a delimitação dos perímetros de proteção das seguintes captações inseridas na massa de água Sistema Aquífero de Sines - Zona Norte:
+
+a) Polo de captação - Santo André/Monte Chãos:
+
+i) AdSA02 - Judia - AdSA2 (505/68);
+
+ii) AdSA03 - Moinho Novo - AdSA3 (505/69);
+
+iii) AdSA04 - Várzea - AdSA4 (505/171);
+
+iv) AdSA05 - Judia - JKC8 (505/46);
+
+v) AdSA06 - Moinho Novo - AdSA6 (505/172);
+
+vi) AdSA10 - Galiza - JK3 (505/47);
+
+vii) AdSA11 - Monte Velho - JKC2A (505/37);
+
+b) Pólo de captação - Porto Peixe:
+
+i) AdSA07 - Carregueira - AdSA7 (505/173);
+
+ii) AdSA08 - Porto Peixe - AdSA8 (505/174);
+
+iii) AdSA09 - Porto Peixe - JK4 (505/175).
+
+2 - As coordenadas das captações previstas no número anterior constam do quadro do Anexo I à presente portaria, que dela faz parte integrante.
+
+3 - A zona de proteção alargada às captações de abastecimento público, inclui a zona de proteção e recarga do Sistema Aquífero.
+
+4 - Face às características hidrogeológicas da massa de água e à pressão antropogénica associada à atividade industrial da região envolvente, é considerado impacte significativo na massa de água a diminuição da qualidade da água e a alteração das condições de pressão do aquífero profundo, que lhe conferem as condições de artesianismo repuxante, que são essenciais para a manutenção do equilíbrio da interface água doce-água salgada, que garante as condições de proteção natural e que salvaguardam o avanço da cunha salina.
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+###### Artigo 2.º — Zona de proteção imediata
+
+1 - A zona de proteção imediata respeitante aos perímetros de proteção previstos na presente portaria corresponde à área da superfície do terreno envolvente à captação delimitada através de polígonos que resultam da união dos vértices cujas coordenadas constam dos quadros constantes do Anexo II da presente portaria, que dela faz parte integrante.
+
+2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração das captações, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio.
+
+3 - As zonas de proteção imediata devem ser equipadas com uma placa de identificação da captação e da respetiva zona de proteção.
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+###### Artigo 3.º — Zona de proteção intermédia
+
+1 - A zona de proteção intermédia respeitante aos perímetros de proteção previstos na presente portaria corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices cujas coordenadas constam dos quadros constantes do Anexo III da presente portaria, que dela faz parte integrante.
+
+2 - Na zona de proteção intermédia são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:
+
+a) Infraestruturas aeronáuticas;
+
+b) Oficinas e estações de serviço de automóveis;
+
+c) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;
+
+d) Postos de abastecimento e áreas de serviço de combustíveis;
+
+e) Canalizações de produtos tóxicos;
+
+f) Lixeiras, aterros sanitários e aterros de resíduos perigosos, não perigosos ou inertes;
+
+g) Fossas sépticas com órgão de infiltração no solo, ou descarga na linha de água;
+
+h) Rejeição e aplicação de efluentes pecuários e de lamas de depuração;
+
+i) Lagos e quaisquer obras ou escavações não impermeabilizados, destinados à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem;
+
+j) Captações de água no aquífero profundo para uso distinto de abastecimento público;
+
+k) Captação de água subterrânea sem título de utilização dos recursos hídricos, independentemente da potência de extração;
+
+l) Unidades industriais suscetíveis de produzir substâncias poluentes que, de forma direta ou indireta, possam vir a alterar a qualidade da água subterrânea;
+
+m) Cemitérios;
+
+n) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;
+
+o) Depósitos de sucata.
+
+3 - Na zona de proteção intermédia são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio, ficando sujeitas a parecer prévio vinculativo da APA, I. P., as seguintes atividades e instalações:
+
+a) Pastorícia, que pode ser desenvolvida desde que não cause impacte significativo nos recursos hídricos, sendo interdito:
+
+i) O pastoreio intensivo, devendo o encabeçamento ser igual ou inferior a 1,4 cabeças normais por hectare, considerando no cálculo a área de pastoreio da parcela;
+
+ii) A pernoita e o parqueamento de gado.
+
+b) Usos agrícolas e pecuários, que podem ser desenvolvidos desde que não causem impacte significativo nos recursos hídricos, e respeitem as seguintes condições:
+
+i) Registo da fertilização azotada e garantia de que não são aplicadas quantidades excessivas de nutrientes, devendo seguir-se os requisitos estabelecidos no Anexo II da Portaria n.º 229-B/2008, de 6 de março, em particular no que respeita à análise de terras, do material vegetal/foliar e da água de rega e relativamente à realização de fertilizações adequadas, tendo em conta os resultados obtidos nas análises;
+
+ii) Interdição de aplicação de fertilizantes azotados em solos agrícolas em que não se encontre instalada uma cultura ou não esteja prevista a sua instalação e a consequente utilização próxima dos nutrientes, bem como nos casos em que a cultura se encontra em período de repouso vegetativo;
+
+iii) Interdição de aplicação de fertilizantes azotados durante os meses de maior pluviosidade previsível, nomeadamente em novembro, dezembro e janeiro;
+
+iv) Armazenamento de poluentes associados à atividade agrícola, tais como produtos fitofarmacêuticos, fertilizantes e óleos usados, deve respeitar as exigências definidas na legislação específica, em códigos de boas práticas e orientações técnicas da responsabilidade das entidades competentes na matéria;
+
+v) Posse de licença no âmbito do Regime de Exercício das Atividades Pecuárias, quando aplicável.
+
+c) Aplicação de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis que fica condicionada ao seguinte:
+
+i) Utilização de produtos fitofarmacêuticos com uso autorizado em Portugal;
+
+ii) Utilização de produtos fitofarmacêuticos com substâncias ativas de baixo risco, de acordo com o disposto no Regulamento CE n.º 1107/2009;
+
+iii) A utilização de produtos fitofarmacêuticos não previstos na alínea anterior, permitidos pelo Regulamento (CEE) n.º 2092/91, ou constantes de lista de produtos fitofarmacêuticos aconselhados em proteção integrada elaborada pela entidade competente, ficam sujeitos a parecer da APA, I. P.;
+
+iv) A preparação e aplicação dos produtos fitofarmacêuticos deve cumprir as exigências definidas no anexo II da Portaria n.º 229-B/2008, de 6 de março, em particular a interdição da preparação das caldas a menos de 100 metros das captações de água para consumo humano e a aplicação a menos de 40 metros das captações de água para consumo humano;
+
+v) Aplicação dos produtos fitofarmacêuticos de acordo com as condições autorizadas para a sua utilização, designadamente no que respeita à cultura, finalidade, inimigo da cultura a combater, e dose ou concentração de aplicação;
+
+vi) Registo da utilização dos produtos fitofarmacêuticos, contemplando a seguinte informação: identificação do produto fitofarmacêutico; nome comercial do produto e substâncias ativas presentes; identificação do número de autorização de venda (APV e AV) ou de importação paralela (AIP) que consta no rótulo; identificação da cultura onde o produto foi aplicado; identificação da parcela onde o produto foi aplicado; identificação da finalidade (praga, doença, infestantes a combater); concentração e dose aplicada; e data de aplicação.
+
+d) Edificações, que podem ser desenvolvidas desde que não causem impacte significativo nos recursos hídricos, devendo ser assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de fossa do tipo estanque;
+
+e) Estradas e caminhos-de-ferro, que podem ser desenvolvidos, desde que não causem impacte significativo nos recursos hídricos, devendo ser asseguradas as medidas necessárias para evitar a contaminação dos solos e da água subterrânea;
+
+f) Vias de circulação, rodoviária ou ferroviária, existentes ou a construir, que deverão ser equipadas com placas de identificação e informação de atravessamento da respetiva zona de proteção às captações de abastecimento público, com a identificação das entidades a contactar em caso de acidente;
+
+g) Espaços destinados a práticas desportivas e parques de campismo, que podem ser desenvolvidos desde que não causem impacte significativo nos recursos hídricos e seja assegurada a ligação das infraestruturas de saneamento à rede municipal;
+
+h) Instalação de coletores de águas residuais e estações de tratamento de águas residuais, que podem ser desenvolvidos desde que não causem impacte significativo nos recursos hídricos, devendo respeitar critérios rigorosos de estanquicidade, e de verificação periódica do seu estado de conservação;
+
+i) Fossas sépticas deverão ser do tipo estanque, respeitando rigorosos critérios de estanquicidade;
+
+j) Fossas sépticas existentes de outro tipo, com órgão de infiltração no solo, ou descarga na linha de água, deverão tendencialmente ser substituídas por outras do tipo estanque, ou mediante ligação obrigatória à rede de saneamento pública, desde que disponível.
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+###### Artigo 4.º — Zona de proteção alargada
+
+1 - A zona de proteção alargada respeitante aos perímetros de proteção previstos no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices cujas coordenadas constam dos quadros constantes do Anexo IV à presente portaria, que dela faz parte integrante.
+
+2 - Na zona de proteção alargada são interditas, ao abrigo do disposto nos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio, as seguintes atividades e instalações:
+
+a) Depósitos de materiais radioativos e de resíduos perigosos;
+
+b) Canalizações de produtos tóxicos;
+
+c) Refinarias e indústrias químicas;
+
+d) Lixeiras, aterros sanitários e aterros de resíduos perigosos, não perigosos ou inertes;
+
+e) As pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;
+
+f) Fossas sépticas com órgão de infiltração no solo, ou descarga na linha de água;
+
+g) Rejeição e aplicação de efluentes pecuários e lamas de depuração;
+
+h) Cemitérios;
+
+i) Depósitos de sucata.
+
+3 - Na zona de proteção alargada referida no n.º 1 são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio, as atividades e instalações previstas nas alíneas b), c), h), i) e j) do n.º 3 do artigo anterior, e ainda as seguintes:
+
+a) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem deverão ser impermeabilizadas;
+
+b) As oficinas, estações de serviço de automóveis, postos de abastecimento, áreas de serviço de combustíveis, infraestruturas aeronáuticas e depósitos de combustíveis que ficam sujeitos a:
+
+i) Impermeabilização do solo sob as zonas afetas à manutenção, reparação e circulação de automóveis e aeronaves, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer caso, ser garantida a recolha e ou tratamento de efluentes;
+
+ii) Implementação de sistemas de controlo e deteção de fugas no caso de depósitos enterrados de combustível.
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+###### Artigo 5.º — Zona de proteção especial
+
+1 - Ao abrigo do n.º 7 do artigo 3.º do Decreto-Lei n.º 382/99, de 22 de setembro, é definida a zona de proteção especial que visa prevenir o avanço da cunha salina.
+
+2 - A zona de proteção especial respeitante aos perímetros de proteção mencionados no artigo 1.º corresponde à área da superfície do terreno delimitada através de polígonos que resultam da união dos vértices cujas coordenadas constam dos quadros constantes do Anexo V da presente portaria, que dela faz parte integrante.
+
+3 - Na zona de proteção especial, nos termos do n.º 7 do artigo 3.º do Decreto-Lei n.º 382/99, de 22 de setembro, são interditas novas captações de água no aquífero profundo para uso distinto de abastecimento público.
+
+4 - Na zona de proteção especial são condicionadas, nos termos do n.º 7 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a emissão de título de utilização dos recursos hídricos as captações de água subterrânea independentemente da potência de extração.
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+###### Artigo 6.º — Monitorização das zonas de proteção
+
+1 - A entidade responsável pelas captações realiza, na zona de proteção especial, a monitorização e controlo da cunha salina nas estações indicadas no quadro 1 constante do Anexo VI da presente portaria, da qual faz parte integrante, conforme previsto no n.º 5 do artigo 54.º da Lei n.º 58/2005, de 29 de dezembro.
+
+2 - A monitorização e controlo da cunha salina são realizados de acordo com o seguinte programa:
+
+a) Frequência mensal: Pressão (bar);
+
+b) Frequência anual (2.ª quinzena de outubro): Temperatura, condutividade, pH, cloreto, sódio, cálcio, magnésio, potássio, sulfato, bicarbonato e brometo.
+
+3 - O relatório anual de monitorização é enviado à APA, I. P., devendo incluir a seguinte informação:
+
+a) Cenário de referência (outubro/2014);
+
+b) Qualidade da água face aos valores indicativos de qualidade da água apresentadas no quadro 2 constante do Anexo VI da presente portaria;
+
+c) Valor de alerta igual a 75 % dos valores indicativos de qualidade da água;
+
+d) Posição da interface água doce e água salgada;
+
+4 - Os dados do Relatório previsto no número anterior devem ser disponibilizados em formato (.xls), correspondendo à série de dados, com indicação do método analítico, limite de quantificação, incerteza de medição, e limite de deteção, conformes ao disposto no Decreto-Lei n.º 83/2011, de 20 de junho.
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+###### Artigo 7.º — Representação das zonas de proteção
+
+A planta de localização das zonas de proteção, bem como as zonas de proteção intermédia e rede de monitorização e controlo da cunha salina e as zonas de proteção imediata encontram-se representadas nos mapas do Anexo VII da presente portaria, da qual faz parte integrante.
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+###### Artigo 8.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+O Secretário de Estado do Ambiente, Paulo Guilherme da Silva Lemos, em 16 de abril de 2015.
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+## Anexo I — (a que se refere o n.º 2 do artigo 1.º)
+
+Coordenadas das captações
+
+| Polo de captação | Captação | X (metros) | Y (metros) |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Santo André/Monte Chãos... | AdSA02 (505/68)... | - 56531,34 | - 177044,74 |
+|  | AdSA03 (505/69)... | - 56928,02 | - 176811,85 |
+|  | AdSA04 (505/171)... | - 56771,83 | - 176904,80 |
+|  | AdSA05 (505/46)... | - 56480,91 | - 177017,68 |
+|  | AdSA06 (505/172)... | - 57105,04 | - 176655,26 |
+|  | AdSA10 (505/47)... | - 56448,03 | - 176270,29 |
+|  | AdSA11 (505/37)... | - 57561,58 | - 176857,13 |
+| Porto Peixe... | AdSA07 (505/173)... | - 55883,83 | - 174623,52 |
+|  | AdSA08 (505/174)... | - 56688,61 | - 174500,22 |
+|  | AdSA09 (505/175)... | - 56771,14 | - 174722,26 |
+| Nota. - As coordenadas das captações e dos vértices encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central). |  |  |  |
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+> Alterado pelo/a ANEXO I do/a [Portaria n.º 137/2023 - Diário da República n.º 100/2023, Série I de 2023-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/137-2023-213435108), em vigor a partir de 2023-05-25
+
+## Anexo II — (a que se refere o n.º 1 do artigo 2.º)
+
+Zona de proteção imediata
+
+| Captação | Vértices | X (metros) | Y (metros) |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| AdSA02 Judia (505/68)... | 1... | - 56536,07 | - 177045,03 |
+|  | 2... | - 56527,14 | - 177040,86 |
+|  | 3... | - 56524,76 | - 177045,63 |
+|  | 4... | - 56533,89 | - 177049,80 |
+| AdSA03 Moinho Novo (505/69)... | 1... | - 56933,19 | - 176807,53 |
+|  | 2... | - 56903,22 | - 176823,13 |
+|  | 3... | - 56909,70 | - 176834,83 |
+|  | 4... | - 56939,03 | - 176818,69 |
+| AdSA04 Várzea (505/171)... | 1... | - 56774,92 | - 176900,48 |
+|  | 2... | - 56770,68 | - 176903,22 |
+|  | 3... | - 56771,87 | - 176906,59 |
+|  | 4... | - 56776,58 | - 176905,55 |
+| AdSA05 Judia (505/46)... | 1... | - 56494,62 | - 177011,33 |
+|  | 2... | - 56483,62 | - 177010,33 |
+|  | 3... | - 56474,62 | - 177014,33 |
+|  | 4... | - 56476,62 | - 177019,33 |
+|  | 5... | - 56483,62 | - 177021,33 |
+|  | 6... | - 56484,62 | - 177017,33 |
+|  | 7... | - 56493,62 | - 177020,33 |
+| AdSA06 Moinho Novo (505/172)... | 1... | - 57107,73 | - 176652,67 |
+|  | 2... | - 57102,73 | - 176649,67 |
+|  | 3... | - 57098,73 | - 176658,67 |
+|  | 4... | - 57103,73 | - 176661,67 |
+| AdSA07 Carregueira (505/173)... | 1... | - 55880,24 | - 174625,08 |
+|  | 2... | - 55885,65 | - 174627,44 |
+|  | 3... | - 55889,02 | - 174618,97 |
+|  | 4... | - 55884,08 | - 174616,81 |
+| AdSA08 Porto Peixe (505/174)... | 1... | - 56702,02 | - 174490,06 |
+|  | 2... | - 56686,55 | - 174499,72 |
+|  | 3... | - 56691,79 | - 174507,30 |
+|  | 4... | - 56706,97 | - 174497,81 |
+| AdSA09 Porto Peixe (505/175)... | 1... | - 56783,79 | - 174723,03 |
+|  | 2... | - 56776,32 | - 174709,97 |
+|  | 3... | - 56754,49 | - 174722,70 |
+|  | 4... | - 56761,93 | - 174736,22 |
+| AdSA10 Galiza (505/47)... | 1... | - 56449,80 | - 176265,59 |
+|  | 2... | - 56444,14 | - 176268,81 |
+|  | 3... | - 56447,80 | - 176275,59 |
+|  | 4... | - 56453,54 | - 176272,13 |
+| AdSA11 Monte Velho (505/37)... | 1... | - 57566,13 | - 176840,14 |
+|  | 2... | - 57558,98 | - 176841,72 |
+|  | 3... | - 57560,20 | - 176846,58 |
+|  | 4... | - 57553,95 | - 176848,47 |
+|  | 5... | - 57560,04 | - 176860,91 |
+|  | 6... | - 57571,57 | - 176857,34 |
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+> Alterado pelo/a ANEXO II do/a [Portaria n.º 137/2023 - Diário da República n.º 100/2023, Série I de 2023-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/137-2023-213435108), em vigor a partir de 2023-05-25
+
+## Anexo III — (a que se refere o n.º 1 do artigo 3.º)
+
+Zona de proteção intermédia
+
+Polo de captação - Santo André/Monte Chãos
+
+| Captações | Vértices | X (metros) | Y (metros) |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| AdSA02 Judia (505/68)... | 1... | - 57972,56 | - 176753,34 |
+| AdSA03 Moinho Novo (505/69)... | 2... | - 57642,57 | - 176506,36 |
+| AdSA04 Várzea (505/171)... | 3... | - 56638,59 | - 176238,38 |
+| AdSA05 Judia (505/46)... | 4... | - 56331,60 | - 176142,38 |
+| AdSA06 Moinho Novo (505/172)... | 5... | - 56179,61 | - 176182,38 |
+| AdSA10 Galiza (505/47)... | 6... | - 56027,61 | - 176357,38 |
+| AdSA11 Monte Velho (505/37)... | 7... | - 55561,61 | - 177209,34 |
+|  | 8... | - 55548,60 | - 177615,33 |
+|  | 9... | - 55868,59 | - 178173,31 |
+|  | 10... | - 55984,59 | - 178286,31 |
+|  | 11... | - 56109,59 | - 178315,31 |
+|  | 12... | - 56347,58 | - 178134,31 |
+|  | 13... | - 56720,57 | - 177899,31 |
+|  | 14... | - 57136,56 | - 177698,31 |
+|  | 15... | - 57351,56 | - 177566,33 |
+|  | 16... | - 57503,56 | - 177496,33 |
+|  | 17... | - 57704,55 | - 177443,33 |
+|  | 18... | - 57837,55 | - 177358,33 |
+|  | 19... | - 57965,55 | - 177216,33 |
+|  | 20... | - 58015,55 | - 177080,33 |
+
+Polo de captação - Porto Peixe
+
+| Captações | Vértices | X (metros) | Y (metros) |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| AdSA07 Carregueira (505/173)... | 1... | - 57024,61 | - 174974,42 |
+| AdSA08 Porto Peixe (505/174)... | 2... | - 57068,61 | - 174805,42 |
+| AdSA09 Porto Peixe (505/175)... | 3... | - 57033,61 | - 174709,42 |
+|  | 4... | - 56950,61 | - 174544,44 |
+|  | 5... | - 56815,62 | - 174330,44 |
+|  | 6... | - 56641,63 | - 174152,45 |
+|  | 7... | - 56485,63 | - 173982,45 |
+|  | 8... | - 56371,63 | - 173956,45 |
+|  | 9... | - 55636,64 | - 174252,45 |
+|  | 10... | - 55218,64 | - 174635,44 |
+|  | 11... | - 55157,64 | - 174927,42 |
+|  | 12... | - 55157,63 | - 175214,42 |
+|  | 13... | - 55366,63 | - 175675,41 |
+|  | 14... | - 55688,62 | - 175828,39 |
+|  | 15... | - 55984,61 | - 175832,39 |
+|  | 16... | - 56202,61 | - 175793,39 |
+|  | 17... | - 56563,61 | - 175540,41 |
+|  | 18... | - 56876,60 | - 175227,41 |
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+> Alterado pelo/a ANEXO III do/a [Portaria n.º 137/2023 - Diário da República n.º 100/2023, Série I de 2023-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/137-2023-213435108), em vigor a partir de 2023-05-25
+
+## Anexo IV — (a que se refere o n.º 1 do artigo 4.º)
+
+Zona de proteção alargada
+
+Polo de captação - Santo André/Monte Chãos e Polo de captação - Porto Peixe
+
+AdSA02 Judia (505/68), AdSA03 Moinho Novo (505/69), AdSA04 Várzea (505/171), AdSA05 Judia (505/46), AdSA06 Moinho Novo (505/172), AdSA10 Galiza (505/47), AdSA11 Monte Velho (505/37), AdSA07 Carregueira (505/173), AdSA08 Porto Peixe (505/174), AdSA09 Porto Peixe (505/175)
+
+| Vértices | X (metros) | Y (metros) |
+| --- | --- | --- |
+|  |  |  |
+| 1... | - 50649,70 | - 181600,21 |
+| 2... | - 50487,70 | - 181609,21 |
+| 3... | - 50374,70 | - 181606,21 |
+| 4... | - 50228,71 | - 181596,21 |
+| 5... | - 50131,71 | - 181593,21 |
+| 6... | - 49995,71 | - 181622,21 |
+| 7... | - 49908,71 | - 181619,21 |
+| 8... | - 49834,71 | - 181619,21 |
+| 9... | - 49759,71 | - 181632,21 |
+| 10... | - 49685,72 | - 181658,21 |
+| 11... | - 49646,72 | - 181710,21 |
+| 12... | - 49665,72 | - 181774,21 |
+| 13... | - 49720,72 | - 181816,21 |
+| 14... | - 49785,71 | - 181836,21 |
+| 15... | - 49791,71 | - 181855,21 |
+| 16... | - 49759,71 | - 181900,20 |
+| 17... | - 49698,72 | - 181936,20 |
+| 18... | - 49675,72 | - 181978,20 |
+| 19... | - 49646,72 | - 182020,20 |
+| 20... | - 49591,72 | - 182091,20 |
+| 21... | - 49559,72 | - 182185,19 |
+| 22... | - 49520,72 | - 182285,19 |
+| 23... | - 49471,72 | - 182334,19 |
+| 24... | - 49397,72 | - 182363,19 |
+| 25... | - 49387,72 | - 182408,19 |
+| 26... | - 49413,72 | - 182518,18 |
+| 27... | - 49471,72 | - 182602,18 |
+| 28... | - 49520,72 | - 182654,18 |
+| 29... | - 49478,72 | - 182706,18 |
+| 30... | - 49454,72 | - 182755,18 |
+| 31... | - 49448,72 | - 182849,17 |
+| 32... | - 49489,72 | - 182930,17 |
+| 33... | - 49551,72 | - 182979,17 |
+| 34... | - 49613,72 | - 183025,17 |
+| 35... | - 49667,72 | - 183085,17 |
+| 36... | - 49694,72 | - 183139,17 |
+| 37... | - 49689,72 | - 183209,16 |
+| 38... | - 49648,72 | - 183266,16 |
+| 39... | - 49567,72 | - 183320,16 |
+| 40... | - 49475,73 | - 183369,16 |
+| 41... | - 49410,73 | - 183428,16 |
+| 42... | - 49375,73 | - 183501,15 |
+| 43... | - 49370,73 | - 183499,15 |
+| 44... | - 49326,73 | - 183452,16 |
+| 45... | - 49261,73 | - 183415,16 |
+| 46... | - 49144,73 | - 183366,16 |
+| 47... | - 49040,73 | - 183334,16 |
+| 48... | - 48970,73 | - 183327,16 |
+| 49... | - 48845,74 | - 183331,16 |
+| 50... | - 48810,74 | - 183341,16 |
+| 51... | - 48800,74 | - 183410,16 |
+| 52... | - 48803,74 | - 183478,16 |
+| 53... | - 48814,74 | - 183534,15 |
+| 54... | - 48803,74 | - 183592,15 |
+| 55... | - 48789,74 | - 183680,15 |
+| 56... | - 48793,74 | - 183736,15 |
+| 57... | - 48803,74 | - 183798,15 |
+| 58... | - 48903,74 | - 183836,14 |
+| 59... | - 48968,74 | - 183898,14 |
+| 60... | - 49014,74 | - 183931,14 |
+| 61... | - 49144,73 | - 183966,14 |
+| 62... | - 49216,73 | - 183973,14 |
+| 63... | - 49302,73 | - 183987,14 |
+| 64... | - 49377,73 | - 184001,14 |
+| 65... | - 49370,73 | - 184012,14 |
+| 66... | - 49373,73 | - 184077,14 |
+| 67... | - 49404,73 | - 184125,14 |
+| 68... | - 49459,73 | - 184184,13 |
+| 69... | - 49442,73 | - 184222,13 |
+| 70... | - 49408,73 | - 184291,13 |
+| 71... | - 49339,73 | - 184366,13 |
+| 72... | - 49308,73 | - 184466,13 |
+| 73... | - 49329,73 | - 184583,12 |
+| 74... | - 49363,73 | - 184700,12 |
+| 75... | - 49363,73 | - 184775,12 |
+| 76... | - 49408,73 | - 184789,12 |
+| 77... | - 49511,73 | - 184797,12 |
+| 78... | - 49567,73 | - 184785,12 |
+| 79... | - 49627,73 | - 184752,12 |
+| 80... | - 49656,73 | - 184730,12 |
+| 81... | - 49667,73 | - 184692,12 |
+| 82... | - 49693,73 | - 184668,12 |
+| 83... | - 49748,73 | - 184653,12 |
+| 84... | - 49851,72 | - 184632,12 |
+| 85... | - 49926,72 | - 184599,12 |
+| 86... | - 49966,72 | - 184575,12 |
+| 87... | - 50001,72 | - 184535,12 |
+| 88... | - 50026,72 | - 184482,13 |
+| 89... | - 50066,72 | - 184458,13 |
+| 90... | - 50143,72 | - 184466,13 |
+| 91... | - 50177,72 | - 184424,13 |
+| 92... | - 50214,71 | - 184358,13 |
+| 93... | - 50223,71 | - 184393,13 |
+| 94... | - 50230,71 | - 184535,12 |
+| 95... | - 50256,72 | - 184681,12 |
+| 96... | - 50292,71 | - 184770,12 |
+| 97... | - 50341,71 | - 184872,11 |
+| 98... | - 50389,71 | - 184925,11 |
+| 99... | - 50412,71 | - 184964,11 |
+| 100... | - 50462,71 | - 185052,11 |
+| 101... | - 50520,71 | - 185122,11 |
+| 102... | - 50559,71 | - 185122,11 |
+| 103... | - 50580,71 | - 185073,11 |
+| 104... | - 50607,71 | - 185028,11 |
+| 105... | - 50650,71 | - 184949,11 |
+| 106... | - 50683,71 | - 184862,12 |
+| 107... | - 50682,71 | - 184776,12 |
+| 108... | - 50708,71 | - 184701,12 |
+| 109... | - 50740,71 | - 184701,12 |
+| 110... | - 50794,70 | - 184735,12 |
+| 111... | - 50893,70 | - 184824,12 |
+| 112... | - 50937,70 | - 184930,11 |
+| 113... | - 50928,70 | - 185010,11 |
+| 114... | - 50911,70 | - 185077,11 |
+| 115... | - 50959,70 | - 185090,11 |
+| 116... | - 51064,70 | - 185089,11 |
+| 117... | - 51091,70 | - 185095,11 |
+| 118... | - 51898,68 | - 185117,11 |
+| 119... | - 52398,67 | - 185142,11 |
+| 120... | - 58266,54 | - 183088,16 |
+| 121... | - 58976,53 | - 182439,17 |
+| 122... | - 59836,51 | - 181881,18 |
+| 123... | - 60395,51 | - 181503,19 |
+| 124... | - 61029,50 | - 181111,20 |
+| 125... | - 60984,50 | - 180960,20 |
+| 126... | - 60923,50 | - 180779,20 |
+| 127... | - 60817,50 | - 180432,21 |
+| 128... | - 60712,50 | - 179948,22 |
+| 129... | - 60485,50 | - 179360,24 |
+| 130... | - 59972,50 | - 178258,27 |
+| 131... | - 59685,51 | - 177307,30 |
+| 132... | - 59489,53 | - 176597,33 |
+| 133... | - 59293,54 | - 176009,35 |
+| 134... | - 59112,56 | - 175450,37 |
+| 135... | - 58976,57 | - 174997,39 |
+| 136... | - 58825,59 | - 174469,41 |
+| 137... | - 58659,60 | - 173880,44 |
+| 138... | - 58463,62 | - 173186,46 |
+| 139... | - 57944,66 | - 171684,53 |
+| 140... | - 56919,65 | - 172339,51 |
+| 141... | - 54540,66 | - 173439,48 |
+| 142... | - 53554,67 | - 173823,47 |
+| 143... | - 52750,68 | - 174189,46 |
+| 144... | - 52733,68 | - 174190,46 |
+| 145... | - 52187,69 | - 174411,45 |
+| 146... | - 51901,69 | - 174632,44 |
+| 147... | - 51810,69 | - 174918,43 |
+| 148... | - 51615,69 | - 175296,42 |
+| 149... | - 51316,69 | - 175530,42 |
+| 150... | - 50939,70 | - 175803,41 |
+| 151... | - 50731,70 | - 176297,39 |
+| 152... | - 50536,70 | - 176973,37 |
+| 153... | - 50406,70 | - 177181,36 |
+| 154... | - 50159,71 | - 177324,36 |
+| 155... | - 49951,71 | - 177623,35 |
+| 156... | - 49847,71 | - 178377,32 |
+| 157... | - 49795,71 | - 178793,31 |
+| 158... | - 49639,71 | - 179131,30 |
+| 159... | - 49587,71 | - 179404,29 |
+| 160... | - 49691,71 | - 179846,27 |
+| 161... | - 50185,70 | - 180054,26 |
+| 162... | - 50377,70 | - 180242,26 |
+| 163... | - 50376,70 | - 180272,26 |
+| 164... | - 50420,70 | - 180341,26 |
+| 165... | - 50432,70 | - 180404,25 |
+| 166... | - 50457,70 | - 180448,25 |
+| 167... | - 50464,70 | - 180489,25 |
+| 168... | - 50454,70 | - 180565,25 |
+| 169... | - 50448,70 | - 180665,24 |
+| 170... | - 50442,70 | - 180813,24 |
+| 171... | - 50432,70 | - 180892,24 |
+| 172... | - 50416,70 | - 180989,23 |
+| 173... | - 50416,70 | - 180990,23 |
+| 174... | - 50328,70 | - 181024,23 |
+| 175... | - 50303,70 | - 181128,23 |
+| 176... | - 50311,70 | - 181194,23 |
+| 177... | - 50220,71 | - 181272,22 |
+| 178... | - 50216,71 | - 181413,22 |
+| 179... | - 50307,70 | - 181450,22 |
+| 180... | - 50443,70 | - 181479,22 |
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+> Alterado pelo/a ANEXO IV do/a [Portaria n.º 137/2023 - Diário da República n.º 100/2023, Série I de 2023-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/137-2023-213435108), em vigor a partir de 2023-05-25
+
+## Anexo V — (a que se refere o n.º 2 do artigo 5.º)
+
+Zona de proteção especial
+
+Polo de captação - Santo André/Monte Chãos e Polo de captação - Porto Peixe
+
+AdSA02 Judia (505/68), AdSA03 Moinho Novo (505/69), AdSA04 Várzea (505/171), AdSA05 Judia (505/46), AdSA06 Moinho Novo (505/172), AdSA10 Galiza (505/47), AdSA11 Monte Velho (505/37), AdSA07 Carregueira (505/173), AdSA08 Porto Peixe (505/174), AdSA09 Porto Peixe (505/175)
+
+| Vértices | X (metros) | Y (metros) |
+| --- | --- | --- |
+|  |  |  |
+| 1... | - 57944,66 | - 171687,53 |
+| 2... | - 56931,65 | - 172329,51 |
+| 3... | - 54540,66 | - 173439,48 |
+| 4... | - 53554,67 | - 173823,47 |
+| 5... | - 52750,68 | - 174189,46 |
+| 6... | - 52878,67 | - 174846,43 |
+| 7... | - 53079,66 | - 175869,40 |
+| 8... | - 53170,66 | - 176216,39 |
+| 9... | - 53462,65 | - 177075,36 |
+| 10... | - 53718,64 | - 177769,34 |
+| 11... | - 53974,63 | - 178445,32 |
+| 12... | - 54906,61 | - 179998,26 |
+| 13... | - 55270,60 | - 181482,22 |
+| 14... | - 55523,59 | - 182713,18 |
+| 15... | - 55865,59 | - 183932,15 |
+| 16... | - 56807,57 | - 183590,15 |
+| 17... | - 57508,56 | - 183349,16 |
+| 18... | - 58244,54 | - 183107,16 |
+| 19... | - 58833,53 | - 182577,17 |
+| 20... | - 59681,51 | - 181970,18 |
+| 21... | - 60353,51 | - 181517,19 |
+| 22... | - 61024,50 | - 181110,20 |
+| 23... | - 60983,50 | - 180951,20 |
+| 24... | - 60918,50 | - 180763,20 |
+| 25... | - 60830,50 | - 180439,21 |
+| 26... | - 60695,50 | - 179862,23 |
+| 27... | - 60300,50 | - 178972,25 |
+| 28... | - 59976,50 | - 178266,27 |
+| 29... | - 59687,51 | - 177317,30 |
+| 30... | - 59493,53 | - 176581,33 |
+| 31... | - 59299,54 | - 176022,35 |
+| 32... | - 59128,56 | - 175456,37 |
+| 33... | - 58981,57 | - 175014,39 |
+| 34... | - 58833,58 | - 174496,41 |
+| 35... | - 58668,60 | - 173907,43 |
+| 36... | - 58450,62 | - 173171,46 |
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+> Alterado pelo/a ANEXO V do/a [Portaria n.º 137/2023 - Diário da República n.º 100/2023, Série I de 2023-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/137-2023-213435108), em vigor a partir de 2023-05-25
+
+## Anexo VI — (a que se referem os n.os 1 e 3 do artigo 6.º)
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+## QUADRO 1
+
+Coordenadas dos piezómetros de controlo da cunha salina
+
+| Piezómetro | X (metros) | Y (metros) |
+| --- | --- | --- |
+|  |  |  |
+| AdSApz01 (505/176) - Moinho Novo... | - 57323,58 | - 176325,37 |
+| AdSApz02 (505/177) - Porto Peixe... | - 57043,61 | - 174450,43 |
+| AdSApz03 (505/178) - Monte Velho... | - 58267,57 | - 175560,38 |
+| AdSApz04 (505/179) - Areal... | - 56978,57 | - 177192,34 |
+| AdSApz05 (505/180) - Lezíria... | - 56141,59 | - 177674,33 |
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+> Alterado pelo/a QUADRO I do/a [Portaria n.º 137/2023 - Diário da República n.º 100/2023, Série I de 2023-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/137-2023-213435108), em vigor a partir de 2023-05-25
+
+## QUADRO 2
+
+Qualidade da água
+
+| Piezómetro | X (metros) | Y (metros) |
+| --- | --- | --- |
+|  |  |  |
+| Temperatura... | ºC | - |
+| Condutividade... | (mi)S/cm | 2500 |
+| pH... | E. Sorensen | 5,5-9,0 |
+| Cloreto... | mg/l Cl | 250 |
+| Sódio... | mg/l Na | 200 |
+| Cálcio... | mg/l Ca | - |
+| Magnésio... | mg/l Mgl | - |
+| Potássio... | mg/l K | 12 |
+| Sulfato... | mg/l SO4 | 250 |
+| Bicarbonato... | mg/l CaCO3 | - |
+| Brometo... | mg/l Br | - |
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+> Alterado pelo/a QUADRO II do/a [Portaria n.º 137/2023 - Diário da República n.º 100/2023, Série I de 2023-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/137-2023-213435108), em vigor a partir de 2023-05-25
+
+## Anexo VII — (a que se refere o artigo 7.º)
+
+Planta de Localização das Zonas de Proteção
+
+Zonas de Proteção Alargada e Especial
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461879.png) |
+| --- |
+
+Zonas de Proteção Imediata
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461880.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461881.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461882.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461883.png) |
+| --- |
+
+Zonas de Proteção Intermédia
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461884.png) |
+| --- |
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/213435108/213461885.png) |
+| --- |
+
+> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 158/2026/1 - Diário da República n.º 71/2026, Série I de 2026-04-13](https://diariodarepublica.pt/dr/detalhe/portaria/158-2026-1084345990), em vigor a partir de 2026-04-14.
+
+> Alterado pelo/a ANEXO VII do/a [Portaria n.º 137/2023 - Diário da República n.º 100/2023, Série I de 2023-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/137-2023-213435108), em vigor a partir de 2023-05-25

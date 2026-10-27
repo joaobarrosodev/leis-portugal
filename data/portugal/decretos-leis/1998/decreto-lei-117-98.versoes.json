@@ -1,0 +1,579 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:516878:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-942957837",
+ "dre_path": "/dr/detalhe/decreto-lei/117-1998-516878",
+ "source_lastmod": "2025-10-29",
+ "versions": [
+  {
+   "date": "1998-05-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "992621482",
+    "942957914",
+    "942957915",
+    "942957916",
+    "942957917",
+    "942957918",
+    "942957919",
+    "942957920",
+    "942957921",
+    "942957922",
+    "942957923",
+    "942957924",
+    "942957925",
+    "942957926",
+    "942957927",
+    "942957928",
+    "942957929",
+    "942957930",
+    "942957931",
+    "942957932",
+    "942957933",
+    "942957934",
+    "942957935",
+    "942957936",
+    "942957937",
+    "942957938",
+    "942957939"
+   ]
+  },
+  {
+   "date": "2007-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:640665:por",
+     "title": "Decreto-Lei n.º 298/2007",
+     "published": "2007-08-22",
+     "dre_path": "/dr/detalhe/decreto-lei/298-2007-640665"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "992621482",
+    "992621483",
+    "992621484",
+    "992621485",
+    "992621486",
+    "992621487",
+    "992621488",
+    "992621489",
+    "992621490",
+    "992621491",
+    "992621492",
+    "992621493",
+    "992621494",
+    "992621495",
+    "992621496",
+    "992621497",
+    "992621498",
+    "992621499",
+    "992621500",
+    "992621501",
+    "992621502",
+    "992621503",
+    "992621504",
+    "992621505",
+    "992621506",
+    "992621507",
+    "992621508",
+    "992621509"
+   ]
+  }
+ ],
+ "fragments": {
+  "992621482": {
+   "fragment_id": "942957838",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2007-08-27",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 117/98\n\nde 5 de Maio\n\nA necessidade de melhorar o desempenho das instituições prestadoras de cuidados de saúde, hospitais e centros de saúde tem levado à procura de soluções inovadoras que permitam identificar ganhos em saúde, assim como aumentar a satisfação dos utilizadores e dos profissionais.\n\nNos centros de saúde têm vindo a ser desenvolvidas experiências organizativas inovadoras, numa perspectiva de uma melhor adequação à especificidade da sua missão. Estas experiências, em que a iniciativa dos próprios profissionais desempenha um papel primordial, procuram dar corpo a novas formas de organização dos cuidados de saúde primários.\n\nApós o primeiro ano do início destas experiências inovadoras procedeu-se a uma primeira avaliação dos resultados, identificando-se, de um modo geral, importantes ganhos no acesso aos cuidados de saúde e na qualidade dos serviços prestados.\n\nNo entanto, a resposta positiva dos profissionais ao desafio da melhoria dos cuidados de saúde, através de formas inovadoras na sua organização, levou a um agravamento da discriminação negativa já existente: os que melhor trabalham são penalizados, dado que uma maior e melhor oferta gera um aumento da procura, sem repercussões na retribuição ou distribuição dos recursos.\n\nSendo a melhoria contínua da qualidade dos cuidados de saúde um objectivo estratégico fundamental, torna-se imperativo consolidar e expandir as reformas da organização da prestação dos cuidados, através do desenvolvimento das condições necessárias que, tendo em conta a identificação e controlo dos diferentes procedimentos e resultados, garantam um adequado e justo reconhecimento dos diferentes níveis, qualitativos e quantitativos, do desempenho dos profissionais de saúde.\n\nNestes termos, o presente diploma vem estabelecer um regime remuneratório experimental, de aplicação limitada, para os médicos da carreira de clínica geral, adequado à natureza e especificidade das actividades por eles desenvolvidas.\n\nForam ouvidas organizações profissionais representativas do sector.\n\nAssim:\n\nNo desenvolvimento dos princípios contidos nas bases XXXI e XXXVI da Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "942957914": {
+   "fragment_id": "942957839",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "942957915": {
+   "fragment_id": "942957840",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime remuneratório experimental dos médicos da carreira de clínica geral que exerçam funções nos centros de saúde do Serviço Nacional de Saúde."
+  },
+  "942957916": {
+   "fragment_id": "942957841",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma aplica-se aos médicos da carreira de clínica geral com o grau de assistente ou de consultor de clínica geral que reúnam os requisitos estabelecidos no artigo seguinte.\n\n2 - O número de aderentes, a nível nacional e por cada região de saúde, ao regime experimental estabelecido pelo presente diploma é fixado anualmente por despacho conjunto dos Ministros das Finanças e da Saúde, ouvidas as administrações regionais de saúde."
+  },
+  "942957917": {
+   "fragment_id": "942957842",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições para a atribuição das remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições para a atribuição das remunerações\n\n1 - A atribuição das remunerações a que se refere o presente diploma depende da verificação cumulativa dos seguintes requisitos:\n\na) Integração num grupo de, pelo menos, três médicos que estabeleçam entre si um acordo de intersubstituição e complementaridade que garanta, nos dias úteis e, no mínimo, das 8 às 20 horas, o atendimento no próprio dia aos doentes, de qualquer das suas listas, que procurem ajuda médica;\n\nb) Existência de um plano de acção anual do grupo, aprovado pela direcção do centro de saúde, de acordo com as orientações da administração regional de saúde e os critérios definidos pela Direcção-Geral da Saúde;\n\nc) Existência de uma base de dados das listas de utentes dos médicos do grupo que contenha os elementos de identificação de cada utente, ano de inscrição na lista do médico de família e data da última consulta com o mesmo médico;\n\nd) Existência de um sistema de informação que permita avaliar a execução do plano de acção e monitorizar as actividades previstas no artigo 6.º\n\n2 - De acordo com as características sócio-demográficas da área servida pelo grupo de médicos e a dimensão das listas de utentes, o horário referido na alínea a) do número anterior pode ser alargado até às 24 horas, nos dias úteis, e abranger os sábados, domingos e feriados, entre as 8 e as 20 horas."
+  },
+  "942957918": {
+   "fragment_id": "942957843",
+   "type": 11,
+   "heading": "Artigo 4.º — Plano de acção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Plano de acção\n\nO plano de acção a que se refere a alínea b) do n.º 1 do artigo anterior deve explicitar, designadamente:\n\na) Os compromissos relativos à prestação de cuidados, de desenvolvimento profissional e de cooperação interdisciplinar dos profissionais;\n\nb) Os critérios e estratégias para a utilização preferencial das capacidades instaladas nos serviços do respectivo sistema local de saúde, bem como os respeitantes à garantia de qualidade e custo-efectividade dos cuidados de saúde a prestar, designadamente através da utilização de formulários por patologias e de meios complementares de diagnóstico e terapêutica segundo princípios de racionalidade técnico-científica."
+  },
+  "942957919": {
+   "fragment_id": "942957844",
+   "type": 1,
+   "heading": "Capítulo II — Actividades a desenvolver",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Actividades a desenvolver"
+  },
+  "942957920": {
+   "fragment_id": "942957845",
+   "type": 11,
+   "heading": "Artigo 5.º — Listas de utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Listas de utentes\n\n1 - A cada médico abrangido pelo regime previsto no presente diploma é confiada uma população, nominalmente designada em lista, que privilegie a estrutura familiar.\n\n2 - A lista de utentes referida no número anterior é elaborada tendo em conta as necessidades dos utentes e tem como limite mínimo 1852 unidades ponderadas, o que corresponde, em média, a 1583 utentes.\n\n3 - As unidades previstas no número anterior obtêm-se pela ponderação dos seguintes factores:\n\na) O número de crianças dos 0 aos 4 anos de idade será multiplicado pelo factor 1,5;\n\nb) O número de pessoas com 65 ou mais anos de idade será multiplicado pelo factor 2.\n\n4 - Ao aumento da dimensão da lista de utentes deve obrigatoriamente corresponder o aumento de actividades e respectiva tradução em horas de trabalho, nos termos que forem estabelecidos pela portaria prevista no artigo 13.º\n\n5 - A lista de utentes será actualizada em 30 de Junho e 31 de Dezembro de cada ano."
+  },
+  "942957921": {
+   "fragment_id": "942957846",
+   "type": 11,
+   "heading": "Artigo 6.º — Actividades específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Actividades específicas\n\n1 - A realização das actividades de vigilância em relação aos grupos vulneráveis correspondentes à gravidez e puerpério, criança no primeiro ano de vida e planeamento familiar na mulher em idade fértil faz-se de acordo com os critérios definidos pela Direcção-Geral da Saúde e traduz-se numa correcção à ponderação da lista nos seguintes termos:\n\na) Vigilância de uma gravidez, incluindo o puerpério: acréscimo de 20 unidades à dimensão ponderada da lista;\n\nb) Vigilância de uma criança no primeiro ano de vida: acréscimo de 7 unidades à dimensão ponderada da lista;\n\nc) Vigilância em planeamento familiar, por ano, de uma mulher em idade fértil: acréscimo de 3 unidades à dimensão ponderada da lista.\n\n2 - Os cuidados médicos domiciliários integram o perfil e as obrigações do médico de clínica geral e originam um compromisso assistencial, nos termos que forem estabelecidos pela portaria prevista no artigo 13.º"
+  },
+  "942957922": {
+   "fragment_id": "942957847",
+   "type": 11,
+   "heading": "Artigo 7.º — Responsabilidade dos médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Responsabilidade dos médicos\n\nOs médicos abrangidos por este diploma responsabilizam-se, solidariamente, pelo cumprimento das obrigações previstas nos artigos 3.º e 4.º, competindo-lhes assegurar o cumprimento dessas obrigações durante os períodos de férias dos demais elementos do grupo, bem como na sua ausência justificada por um período de duração não superior a duas semanas, nomeadamente no caso de comissão de serviço para formação."
+  },
+  "942957923": {
+   "fragment_id": "942957848",
+   "type": 1,
+   "heading": "Capítulo III — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Remunerações"
+  },
+  "942957924": {
+   "fragment_id": "942957849",
+   "type": 11,
+   "heading": "Artigo 8.º — Componentes da remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Componentes da remuneração\n\n1 - A remuneração dos médicos abrangidos por este diploma integra uma remuneração base e componentes variáveis.\n\n2 - A remuneração base integra:\n\na) A remuneração estabelecida para a respectiva categoria e escalão em dedicação exclusiva e horário de trinta e cinco horas semanais;\n\nb) A remuneração associada à dimensão e características da lista de utentes, tendo em conta o disposto no n.º 3 do artigo 5.º\n\n3 - As componentes variáveis correspondem:\n\na) À realização de cuidados domiciliários;\n\nb) Ao alargamento do período de cobertura assistencial pelo grupo, quando aplicável;\n\nc) Às unidades de ponderação da lista previstas no n.º 1 do artigo 6.º, segundo critérios ou objectivos de execução.\n\n4 - A componente variável referida na alínea a) do número anterior é abonada mensalmente a cada médico juntamente com a remuneração base.\n\n5 - As componentes variáveis referidas nas alíneas b) e c) do n.º 3 são abonadas mensalmente ao grupo de médicos e divididas por todos eles, de acordo com o número de horas suplementares semanais fixadas na portaria prevista no artigo 13.º do presente diploma."
+  },
+  "942957925": {
+   "fragment_id": "942957850",
+   "type": 11,
+   "heading": "Artigo 9.º — Índice de remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Índice de remuneração\n\nPara efeitos de determinação das remunerações previstas na alínea b) do n.º 2 e no n.º 3 do artigo 8.º, é fixado um índice de remuneração, cujo valor corresponde à remuneração estabelecida para o 1.º escalão da categoria de assistente graduado de clínica geral em dedicação exclusiva e horário de trinta e cinco horas semanais, nos termos do artigo 11.º do Decreto-Lei n.º 73/90, de 6 de Março."
+  },
+  "942957926": {
+   "fragment_id": "942957851",
+   "type": 11,
+   "heading": "Artigo 10.º — Remuneração associada à dimensão e características da lista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Remuneração associada à dimensão e características da lista\n\n1 - O alargamento da lista de utentes para além do mínimo fixado no artigo 5.º confere direito, por cada hora suplementar, a um abono mensal equivalente a um coeficiente do valor do índice de remuneração.\n\n2 - O valor das primeiras sete horas suplementares é corrigido com o factor 1,5."
+  },
+  "942957927": {
+   "fragment_id": "942957852",
+   "type": 11,
+   "heading": "Artigo 11.º — Remuneração associada à realização de cuidados domiciliários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Remuneração associada à realização de cuidados domiciliários\n\nA realização de cuidados domiciliários confere direito, por cada consulta e até ao limite máximo estabelecido pela portaria prevista no artigo 13.º, a um abono de valor equivalente a um coeficiente do valor do índice de remuneração."
+  },
+  "942957928": {
+   "fragment_id": "942957853",
+   "type": 11,
+   "heading": "Artigo 12.º — Remuneração associada ao alargamento do período de cobertura assistencial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Remuneração associada ao alargamento do período de cobertura assistencial\n\n1 - Cada hora de alargamento do período de cobertura assistencial desenvolvida pelo grupo confere direito a um abono mensal, a dividir em partes iguais pelos médicos do grupo, de valor correspondente a um coeficiente do índice de remuneração.\n\n2 - O coeficiente referido no número anterior varia consoante o alargamento do período de cobertura assistencial se verifique nos dias úteis e até às 13 horas de sábados ou depois das 13 horas de sábados, domingos e feriados."
+  },
+  "942957929": {
+   "fragment_id": "942957854",
+   "type": 11,
+   "heading": "Artigo 13.º — Determinação da remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Determinação da remuneração\n\n1 - Para efeitos de determinação da respectiva remuneração, as actividades a desenvolver pelos médicos abrangidos pelo presente diploma e os valores dos coeficientes referidos nos artigos l0.º a 12.º serão estabelecidos por portaria conjunta dos Ministros das Finanças e da Saúde e do membro do Governo responsável pela Administração Pública.\n\n2 - As implicações da aplicação dos valores dos coeficientes referidos no número anterior serão objecto de controlo específico."
+  },
+  "942957930": {
+   "fragment_id": "942957855",
+   "type": 1,
+   "heading": "Capítulo IV — Horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Horário de trabalho"
+  },
+  "942957931": {
+   "fragment_id": "942957856",
+   "type": 11,
+   "heading": "Artigo 14.º — Elaboração de horários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Elaboração de horários\n\nA elaboração dos horários de trabalho dos médicos faz-se nos termos da lei e de acordo com as orientações específicas das administrações regionais de saúde, tendo em conta o disposto na portaria referida no artigo anterior."
+  },
+  "942957932": {
+   "fragment_id": "942957857",
+   "type": 11,
+   "heading": "Artigo 15.º — Trabalho extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Trabalho extraordinário\n\nA prestação de trabalho extraordinário pelos médicos aderentes ao regime estabelecido pelo presente diploma só pode ser autorizada pelo conselho de administração da administração regional de saúde nos seguintes casos:\n\na) Substituição de elemento do grupo em situação de doença prolongada ou outro motivo justificado de ausência por um período de duração superior a duas semanas;\n\nb) Necessidade de prestação de serviço, com o seu prévio consentimento, fora do âmbito do compromisso do grupo, nomeadamente serviço de urgência."
+  },
+  "942957933": {
+   "fragment_id": "942957858",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "942957934": {
+   "fragment_id": "942957859",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação e comprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Avaliação e comprovação\n\nA avaliação e a comprovação do cumprimento dos critérios e objectivos fixados no presente diploma fazem-se de acordo com o disposto nas alíneas b) e d) do n.º 1 do artigo 3.º"
+  },
+  "942957935": {
+   "fragment_id": "942957860",
+   "type": 11,
+   "heading": "Artigo 17.º — Cessação do regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cessação do regime\n\nl - Aos médicos aderentes é assegurado o direito de retomar o estatuto que possuíam antes de aderirem ao regime estabelecido pelo presente diploma, com um pré-aviso mínimo de três meses.\n\n2 - As administrações regionais de saúde, mediante aviso prévio com a antecedência mínima de três meses, podem fazer cessar a aplicação do regime previsto no presente diploma aos médicos em relação aos quais se verifique o incumprimento das condições nele estabelecidas."
+  },
+  "942957936": {
+   "fragment_id": "942957861",
+   "type": 11,
+   "heading": "Artigo 18.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Receitas\n\nAs actividades decorrentes de formação pós-graduada e de investigação podem ser objecto de financiamento, nos termos de diploma próprio."
+  },
+  "942957937": {
+   "fragment_id": "942957862",
+   "type": 11,
+   "heading": "Artigo 19.º — Deslocações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Deslocações\n\nConsidera-se incluído na remuneração o pagamento das despesas com as deslocações feitas pelo médico para prestar cuidados domiciliários aos seus utentes ou aos utentes de outro elemento do grupo."
+  },
+  "942957938": {
+   "fragment_id": "942957863",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições de implantação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Condições de implantação\n\n1 - No caso de as candidaturas ultrapassarem os limites fixados no despacho previsto no n.º 2 do artigo 2.º, a selecção será feita pelas administrações regionais de saúde, de acordo com os critérios previamente fixados pela Direcção-Geral da Saúde, tendo em conta os objectivos previstos no presente diploma.\n\n2 - Sem prejuízo do disposto no n.º 2 do artigo 2.º, o regime estabelecido pelo presente diploma pode ser excepcionalmente aplicado por despacho do Ministro da Saúde quando, pelas características geodemográficas, não seja possível a constituição de um grupo de médicos nos termos da alínea a) do n.º 1 do artigo 3.º"
+  },
+  "942957939": {
+   "fragment_id": "942957864",
+   "type": 11,
+   "heading": "Artigo 21.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Vigência\n\nO regime previsto no presente diploma vigora por um período de dois anos após a sua entrada em vigor, podendo a vigência ser prorrogada por iguais períodos."
+  },
+  "992621483": {
+   "fragment_id": "942957839",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621484": {
+   "fragment_id": "942957840",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime remuneratório experimental dos médicos da carreira de clínica geral que exerçam funções nos centros de saúde do Serviço Nacional de Saúde.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621485": {
+   "fragment_id": "942957841",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma aplica-se aos médicos da carreira de clínica geral com o grau de assistente ou de consultor de clínica geral que reúnam os requisitos estabelecidos no artigo seguinte.\n\n2 - O número de aderentes, a nível nacional e por cada região de saúde, ao regime experimental estabelecido pelo presente diploma é fixado anualmente por despacho conjunto dos Ministros das Finanças e da Saúde, ouvidas as administrações regionais de saúde.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621486": {
+   "fragment_id": "942957842",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições para a atribuição das remunerações",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 3.º — Condições para a atribuição das remunerações\n\n1 - A atribuição das remunerações a que se refere o presente diploma depende da verificação cumulativa dos seguintes requisitos:\n\na) Integração num grupo de, pelo menos, três médicos que estabeleçam entre si um acordo de intersubstituição e complementaridade que garanta, nos dias úteis e, no mínimo, das 8 às 20 horas, o atendimento no próprio dia aos doentes, de qualquer das suas listas, que procurem ajuda médica;\n\nb) Existência de um plano de acção anual do grupo, aprovado pela direcção do centro de saúde, de acordo com as orientações da administração regional de saúde e os critérios definidos pela Direcção-Geral da Saúde;\n\nc) Existência de uma base de dados das listas de utentes dos médicos do grupo que contenha os elementos de identificação de cada utente, ano de inscrição na lista do médico de família e data da última consulta com o mesmo médico;\n\nd) Existência de um sistema de informação que permita avaliar a execução do plano de acção e monitorizar as actividades previstas no artigo 6.º\n\n2 - De acordo com as características sócio-demográficas da área servida pelo grupo de médicos e a dimensão das listas de utentes, o horário referido na alínea a) do número anterior pode ser alargado até às 24 horas, nos dias úteis, e abranger os sábados, domingos e feriados, entre as 8 e as 20 horas.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621487": {
+   "fragment_id": "942957843",
+   "type": 11,
+   "heading": "Artigo 4.º — Plano de acção",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 4.º — Plano de acção\n\nO plano de acção a que se refere a alínea b) do n.º 1 do artigo anterior deve explicitar, designadamente:\n\na) Os compromissos relativos à prestação de cuidados, de desenvolvimento profissional e de cooperação interdisciplinar dos profissionais;\n\nb) Os critérios e estratégias para a utilização preferencial das capacidades instaladas nos serviços do respectivo sistema local de saúde, bem como os respeitantes à garantia de qualidade e custo-efectividade dos cuidados de saúde a prestar, designadamente através da utilização de formulários por patologias e de meios complementares de diagnóstico e terapêutica segundo princípios de racionalidade técnico-científica.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621488": {
+   "fragment_id": "942957844",
+   "type": 1,
+   "heading": "Capítulo II — Actividades a desenvolver",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "### Capítulo II — Actividades a desenvolver\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621489": {
+   "fragment_id": "942957845",
+   "type": 11,
+   "heading": "Artigo 5.º — Listas de utentes",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 5.º — Listas de utentes\n\n1 - A cada médico abrangido pelo regime previsto no presente diploma é confiada uma população, nominalmente designada em lista, que privilegie a estrutura familiar.\n\n2 - A lista de utentes referida no número anterior é elaborada tendo em conta as necessidades dos utentes e tem como limite mínimo 1852 unidades ponderadas, o que corresponde, em média, a 1583 utentes.\n\n3 - As unidades previstas no número anterior obtêm-se pela ponderação dos seguintes factores:\n\na) O número de crianças dos 0 aos 4 anos de idade será multiplicado pelo factor 1,5;\n\nb) O número de pessoas com 65 ou mais anos de idade será multiplicado pelo factor 2.\n\n4 - Ao aumento da dimensão da lista de utentes deve obrigatoriamente corresponder o aumento de actividades e respectiva tradução em horas de trabalho, nos termos que forem estabelecidos pela portaria prevista no artigo 13.º\n\n5 - A lista de utentes será actualizada em 30 de Junho e 31 de Dezembro de cada ano.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621490": {
+   "fragment_id": "942957846",
+   "type": 11,
+   "heading": "Artigo 6.º — Actividades específicas",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 6.º — Actividades específicas\n\n1 - A realização das actividades de vigilância em relação aos grupos vulneráveis correspondentes à gravidez e puerpério, criança no primeiro ano de vida e planeamento familiar na mulher em idade fértil faz-se de acordo com os critérios definidos pela Direcção-Geral da Saúde e traduz-se numa correcção à ponderação da lista nos seguintes termos:\n\na) Vigilância de uma gravidez, incluindo o puerpério: acréscimo de 20 unidades à dimensão ponderada da lista;\n\nb) Vigilância de uma criança no primeiro ano de vida: acréscimo de 7 unidades à dimensão ponderada da lista;\n\nc) Vigilância em planeamento familiar, por ano, de uma mulher em idade fértil: acréscimo de 3 unidades à dimensão ponderada da lista.\n\n2 - Os cuidados médicos domiciliários integram o perfil e as obrigações do médico de clínica geral e originam um compromisso assistencial, nos termos que forem estabelecidos pela portaria prevista no artigo 13.º\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621491": {
+   "fragment_id": "942957847",
+   "type": 11,
+   "heading": "Artigo 7.º — Responsabilidade dos médicos",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 7.º — Responsabilidade dos médicos\n\nOs médicos abrangidos por este diploma responsabilizam-se, solidariamente, pelo cumprimento das obrigações previstas nos artigos 3.º e 4.º, competindo-lhes assegurar o cumprimento dessas obrigações durante os períodos de férias dos demais elementos do grupo, bem como na sua ausência justificada por um período de duração não superior a duas semanas, nomeadamente no caso de comissão de serviço para formação.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621492": {
+   "fragment_id": "942957848",
+   "type": 1,
+   "heading": "Capítulo III — Remunerações",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "### Capítulo III — Remunerações\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621493": {
+   "fragment_id": "942957849",
+   "type": 11,
+   "heading": "Artigo 8.º — Componentes da remuneração",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 8.º — Componentes da remuneração\n\n1 - A remuneração dos médicos abrangidos por este diploma integra uma remuneração base e componentes variáveis.\n\n2 - A remuneração base integra:\n\na) A remuneração estabelecida para a respectiva categoria e escalão em dedicação exclusiva e horário de trinta e cinco horas semanais;\n\nb) A remuneração associada à dimensão e características da lista de utentes, tendo em conta o disposto no n.º 3 do artigo 5.º\n\n3 - As componentes variáveis correspondem:\n\na) À realização de cuidados domiciliários;\n\nb) Ao alargamento do período de cobertura assistencial pelo grupo, quando aplicável;\n\nc) Às unidades de ponderação da lista previstas no n.º 1 do artigo 6.º, segundo critérios ou objectivos de execução.\n\n4 - A componente variável referida na alínea a) do número anterior é abonada mensalmente a cada médico juntamente com a remuneração base.\n\n5 - As componentes variáveis referidas nas alíneas b) e c) do n.º 3 são abonadas mensalmente ao grupo de médicos e divididas por todos eles, de acordo com o número de horas suplementares semanais fixadas na portaria prevista no artigo 13.º do presente diploma.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621494": {
+   "fragment_id": "942957850",
+   "type": 11,
+   "heading": "Artigo 9.º — Índice de remuneração",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 9.º — Índice de remuneração\n\nPara efeitos de determinação das remunerações previstas na alínea b) do n.º 2 e no n.º 3 do artigo 8.º, é fixado um índice de remuneração, cujo valor corresponde à remuneração estabelecida para o 1.º escalão da categoria de assistente graduado de clínica geral em dedicação exclusiva e horário de trinta e cinco horas semanais, nos termos do artigo 11.º do Decreto-Lei n.º 73/90, de 6 de Março.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621495": {
+   "fragment_id": "942957851",
+   "type": 11,
+   "heading": "Artigo 10.º — Remuneração associada à dimensão e características da lista",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 10.º — Remuneração associada à dimensão e características da lista\n\n1 - O alargamento da lista de utentes para além do mínimo fixado no artigo 5.º confere direito, por cada hora suplementar, a um abono mensal equivalente a um coeficiente do valor do índice de remuneração.\n\n2 - O valor das primeiras sete horas suplementares é corrigido com o factor 1,5.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621496": {
+   "fragment_id": "942957852",
+   "type": 11,
+   "heading": "Artigo 11.º — Remuneração associada à realização de cuidados domiciliários",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 11.º — Remuneração associada à realização de cuidados domiciliários\n\nA realização de cuidados domiciliários confere direito, por cada consulta e até ao limite máximo estabelecido pela portaria prevista no artigo 13.º, a um abono de valor equivalente a um coeficiente do valor do índice de remuneração.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621497": {
+   "fragment_id": "942957853",
+   "type": 11,
+   "heading": "Artigo 12.º — Remuneração associada ao alargamento do período de cobertura assistencial",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 12.º — Remuneração associada ao alargamento do período de cobertura assistencial\n\n1 - Cada hora de alargamento do período de cobertura assistencial desenvolvida pelo grupo confere direito a um abono mensal, a dividir em partes iguais pelos médicos do grupo, de valor correspondente a um coeficiente do índice de remuneração.\n\n2 - O coeficiente referido no número anterior varia consoante o alargamento do período de cobertura assistencial se verifique nos dias úteis e até às 13 horas de sábados ou depois das 13 horas de sábados, domingos e feriados.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621498": {
+   "fragment_id": "942957854",
+   "type": 11,
+   "heading": "Artigo 13.º — Determinação da remuneração",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 13.º — Determinação da remuneração\n\n1 - Para efeitos de determinação da respectiva remuneração, as actividades a desenvolver pelos médicos abrangidos pelo presente diploma e os valores dos coeficientes referidos nos artigos l0.º a 12.º serão estabelecidos por portaria conjunta dos Ministros das Finanças e da Saúde e do membro do Governo responsável pela Administração Pública.\n\n2 - As implicações da aplicação dos valores dos coeficientes referidos no número anterior serão objecto de controlo específico.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621499": {
+   "fragment_id": "942957855",
+   "type": 1,
+   "heading": "Capítulo IV — Horário de trabalho",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "### Capítulo IV — Horário de trabalho\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621500": {
+   "fragment_id": "942957856",
+   "type": 11,
+   "heading": "Artigo 14.º — Elaboração de horários",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 14.º — Elaboração de horários\n\nA elaboração dos horários de trabalho dos médicos faz-se nos termos da lei e de acordo com as orientações específicas das administrações regionais de saúde, tendo em conta o disposto na portaria referida no artigo anterior.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621501": {
+   "fragment_id": "942957857",
+   "type": 11,
+   "heading": "Artigo 15.º — Trabalho extraordinário",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 15.º — Trabalho extraordinário\n\nA prestação de trabalho extraordinário pelos médicos aderentes ao regime estabelecido pelo presente diploma só pode ser autorizada pelo conselho de administração da administração regional de saúde nos seguintes casos:\n\na) Substituição de elemento do grupo em situação de doença prolongada ou outro motivo justificado de ausência por um período de duração superior a duas semanas;\n\nb) Necessidade de prestação de serviço, com o seu prévio consentimento, fora do âmbito do compromisso do grupo, nomeadamente serviço de urgência.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621502": {
+   "fragment_id": "942957858",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "### Capítulo V — Disposições finais\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621503": {
+   "fragment_id": "942957859",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação e comprovação",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 16.º — Avaliação e comprovação\n\nA avaliação e a comprovação do cumprimento dos critérios e objectivos fixados no presente diploma fazem-se de acordo com o disposto nas alíneas b) e d) do n.º 1 do artigo 3.º\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621504": {
+   "fragment_id": "942957860",
+   "type": 11,
+   "heading": "Artigo 17.º — Cessação do regime",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 17.º — Cessação do regime\n\nl - Aos médicos aderentes é assegurado o direito de retomar o estatuto que possuíam antes de aderirem ao regime estabelecido pelo presente diploma, com um pré-aviso mínimo de três meses.\n\n2 - As administrações regionais de saúde, mediante aviso prévio com a antecedência mínima de três meses, podem fazer cessar a aplicação do regime previsto no presente diploma aos médicos em relação aos quais se verifique o incumprimento das condições nele estabelecidas.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621505": {
+   "fragment_id": "942957861",
+   "type": 11,
+   "heading": "Artigo 18.º — Receitas",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 18.º — Receitas\n\nAs actividades decorrentes de formação pós-graduada e de investigação podem ser objecto de financiamento, nos termos de diploma próprio.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621506": {
+   "fragment_id": "942957862",
+   "type": 11,
+   "heading": "Artigo 19.º — Deslocações",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 19.º — Deslocações\n\nConsidera-se incluído na remuneração o pagamento das despesas com as deslocações feitas pelo médico para prestar cuidados domiciliários aos seus utentes ou aos utentes de outro elemento do grupo.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621507": {
+   "fragment_id": "942957863",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições de implantação",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "###### Artigo 20.º — Condições de implantação\n\n1 - No caso de as candidaturas ultrapassarem os limites fixados no despacho previsto no n.º 2 do artigo 2.º, a selecção será feita pelas administrações regionais de saúde, de acordo com os critérios previamente fixados pela Direcção-Geral da Saúde, tendo em conta os objectivos previstos no presente diploma.\n\n2 - Sem prejuízo do disposto no n.º 2 do artigo 2.º, o regime estabelecido pelo presente diploma pode ser excepcionalmente aplicado por despacho do Ministro da Saúde quando, pelas características geodemográficas, não seja possível a constituição de um grupo de médicos nos termos da alínea a) do n.º 1 do artigo 3.º\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  },
+  "992621508": {
+   "fragment_id": "942957864",
+   "type": 11,
+   "heading": "Artigo 21.º — Vigência",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 23/2006 - Diário da República n.º 24/2006, Série I-A de 2006-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2006-552520), produz efeitos a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 210/2002 - Diário da República n.º 240/2002, Série I-A de 2002-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2002-432455), produz efeitos a partir de 2002-07-10"
+   ],
+   "markdown": "###### Artigo 21.º — Vigência\n\nO regime previsto no presente decreto-lei vigora por um período de dois anos após a sua entrada em vigor, podendo a vigência ser prorrogada por períodos mínimos de seis meses.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 23/2006 - Diário da República n.º 24/2006, Série I-A de 2006-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2006-552520), produz efeitos a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 210/2002 - Diário da República n.º 240/2002, Série I-A de 2002-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2002-432455), produz efeitos a partir de 2002-07-10"
+  },
+  "992621509": {
+   "fragment_id": "942957865",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2007-08-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Março de 1998. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina.\n\nPromulgado em 20 de Abril de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Abril de 1998.\n\nPelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.\n\n> Revogado pelo/a Artigo 45.º do/a [Decreto-Lei n.º 298/2007 - Diário da República n.º 161/2007, Série I de 2007-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-2007-640665), em vigor a partir de 2007-08-27"
+  }
+ }
+}

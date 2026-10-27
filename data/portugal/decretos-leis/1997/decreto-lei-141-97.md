@@ -1,0 +1,224 @@
+---
+schema_version: '1.0'
+id: pt:dre:361886:por
+title: Decreto-Lei n.º 141/97
+short_title: null
+summary: Altera o artigo 2.º do Decreto-Lei n.º 184/78, de 18 de Julho, e os artigos 1.º, 8.º e 9.º do Decreto-Lei n.º 268/95,
+  de 18 de Outubro (Lei Orgânica da Junta Autónoma de Estradas)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 141/97
+official_date: null
+publication_date: '1997-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 130/1997, Série I-A de 1997-06-06
+  number: '130'
+  series: I
+  supplement: null
+  pages: 2781 - 2782
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/06/130a00/27812782.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/141/1997/06/06/p/dre/pt/html
+  oj: null
+  dre: '361886'
+  dre_path: /dr/detalhe/decreto-lei/141-1997-361886
+  internal: pt:dre:361886:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886
+  metadata_url: https://data.dre.pt/eli/dec-lei/141/1997/06/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1997-361886
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:49:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d586a3e94ae238d7b8b2efc768a703656aac10db050960537b5b21b03dd15c3b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:49:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Serviços
+- Definição de Competências
+- Junta Autónoma das Estradas
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:151944:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178353:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297450:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668899:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/268/1995/10/18/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:49:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 141/97
+
+de 6 de Junho
+
+A construção e exploração do património nacional, sendo um factor de importância fundamental na modernização do País, não se esgota num único instrumento legislativo nem nas competências de uma entidade isolada. Com efeito, torna-se necessária uma visão integrada onde se destaquem o novo plano rodoviário nacional e um novo estatuto das estradas nacionais. Mas, para tanto, é necessário que as instituições que vão pôr em prática este novo quadro legislativo possam fazê-lo de acordo com modelos mais ágeis e operativos.
+
+Está neste caso a Junta Autónoma de Estradas (JAE), cujo quadro jurídico-funcional se vem revelando desadequado à multiplicidade de tarefas que estão a seu cargo e que vão das tarefas típicas de uma autoridade rodoviária nacional, passando pelos projectos, expropriações, lançamento de concursos, construção, exploração, conservação de estradas, gestão do tráfego, à tutela dos empreendimentos concessionados ou as áreas de serviço, atribuições que se procura agora redefinir de modo sistemático. A prática vem evidenciando a necessidade de permitir que a JAE possa seguir novos modelos de gestão.
+
+Entendeu-se desde já útil e necessário proceder a esta alteração à Lei Orgânica da JAE, permitindo que esta possa, no âmbito das suas atribuições e competências, articular-se com outras sociedades de capitais públicos. Com este novo instrumento, não faz sentido a manutenção de certas figuras criadas noutro contexto: estão neste caso os coordenadores de empreendimentos, que se justificaram numa situação de concentração de competências da JAE, mas cuja existência é dispensável com o aparecimento de novas entidades encarregadas de as prosseguir por outros meios.
+
+Assim:
+
+Nos tempos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+O artigo 2.º do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, com as alterações introduzidas pelo [Decreto-Lei n.º 183/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1985-151944), de 27 de Maio, passa a ter a seguinte redacção:
+
+«Artigo 2.º
+
+Atribuições da Junta Autónoma de Estradas
+
+1 - À Junta Autónoma de Estradas incumbe:
+
+a) Elaborar e actualizar o plano rodoviário nacional e programar e executar os trabalhos de construção, reconstrução e reparação das estradas nacionais;
+
+b) Desenvolver actividade de exploração da estrada e do domínio público rodoviário, designadamente de limpeza, conservação corrente, demarcação, sinalização, arborização, polícia, cadastro, segurança rodoviária passiva e sistemas de comunicações e gestão de tráfego;
+
+c) Proceder ao licenciamento de obras, instalação de redes de serviços públicos, arborização, instalação de publicidade, usos e acessos no domínio público rodoviário e respectivas zonas non aedificandi, compreendendo a aprovação, autorização, emissão de licenças e cobrança de taxas;
+
+d) Organizar concursos e fiscalizar a concessão da construção e exploração de estradas com portagens e outras, bem como de áreas de serviço e outras actividades de carácter económico associadas à utilização da estrada;
+
+e) [Anterior alínea c).]
+
+f) Informar sobre quaisquer medidas de carácter geral que interessem ao desenvolvimento e melhoria da rede rodoviária nacional.
+
+2 - Para o desenvolvimento das suas atribuições a Junta Autónoma de Estradas poderá ser titular de participações no capital social de sociedades de capitais públicos a criar para a área de projecto, gestão e fiscalização de obras, conduzindo as suas actividades em articulação instrumental com as mesmas, de acordo com o plano rodoviário nacional, ou no de sociedades cujo objecto social coincida com o que para si esteja determinado na lei.»
+
+###### Artigo 2.º
+
+Os artigos 1.º, 8.º e 9.º do [Decreto-Lei n.º 268/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1995-668899), de 18 de Outubro, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+[...]
+
+...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) As direcções de estradas no âmbito da Direcção de Serviços de Conservação;
+
+g) ...
+
+Artigo 8.º
+
+[...]
+
+1 - São criadas as direcções de exploração com a seguinte área de intervenção geográfica:
+
+a) Direcção de Exploração do Norte, com sede no Porto e abrangendo os distritos de Viana do Castelo, Braga, Bragança, Vila Real e Porto;
+
+b) Direcção de Exploração das Beiras, com sede em Viseu e abrangendo os distritos de Aveiro, Viseu, Guarda, Coimbra e Castelo Branco;
+
+c) Direcção de Exploração do Centro, com sede em Santarém e abrangendo os distritos de Leiria, Santarém, Portalegre e Évora;
+
+d) Direcção de Exploração de Lisboa, com sede em Lisboa e abrangendo os distritos de Lisboa e Setúbal;
+
+e) Direcção de Exploração do Sul, com sede em Faro e abrangendo os distritos de Beja e Faro.
+
+2 - As direcções de exploração prosseguem as atribuições referidas na última redacção das alíneas b) e c) do artigo 2.º do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, no que se refere aos itinerários principais e complementares constituídos, bem como às estradas nacionais que, provisoriamente, asseguram essa função.
+
+3 - ...
+
+Artigo 9.º
+
+[...]
+
+1 - As direcções de estradas têm âmbito distrital, sendo as seguintes: Direcção de Estradas do Distrito de Viana do Castelo, Braga, Bragança, Vila Real, Porto, Aveiro, Viseu, Guarda, Coimbra, Castelo Branco, Leiria, Santarém, Portalegre, Évora, Lisboa, Setúbal, Beja e Faro.
+
+2 - ...
+
+3 - As direcções de estradas prosseguem as atribuições referidas na última redacção das alíneas b) e c) do artigo 2.º, bem como as previstas no artigo 63.º do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, no que se refere às estradas nacionais e às estradas regionais, quando criadas.»
+
+###### Artigo 3.º
+
+As atribuições referidas na alínea d) do artigo 2.º do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, com a redacção que lhe é dada pelo presente diploma, são cometidas à Direcção de Empreendimentos Concessionados (DEC), criada pelo [Decreto-Lei n.º 394/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-1985-178353), de 9 de Outubro.
+
+###### Artigo 4.º
+
+1 - A Junta Autónoma de Estradas dispõe de um notário privativo, que é nomeado, mediante prévio acordo do Ministro da Justiça, de entre notários do quadro dos serviços externos da Direcção-Geral dos Registos e do Notariado.
+
+2 - O estatuto remuneratório do notário é o que resulta da aplicação das disposições pertinentes dos serviços dos registos e do notariado para um notário colocado em cartório de 1.ª classe, sendo-lhe assegurada a participação emolumentar calculada sobre uma receita mensal líquida de 10000000$00.
+
+###### Artigo 5.º
+
+Os coordenadores de empreendimento e respectivos adjuntos, nomeados ao abrigo do artigo 5.º do [Decreto-Lei n.º 268/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1995-668899), de 18 de Outubro, cessam funções no momento em que as atribuições que lhes estão cometidas deixem de incumbir à Junta Autónoma de Estradas.
+
+###### Artigo 6.º
+
+É revogada a alínea d) do n.º 1 e o n.º 2 do artigo 66.º do [Decreto-Lei n.º 184/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1978-297450), de 18 de Julho, na redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 183/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1985-151944), de 27 de Maio.
+
+Visto e aprovado em Conselho de Ministros de 13 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Jorge Paulo Sacadura Almeida Coelho.
+
+Promulgado em 4 de Abril de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 7 de Abril de 1997.
+
+O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.

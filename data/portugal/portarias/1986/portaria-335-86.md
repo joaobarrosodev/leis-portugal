@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:228258:por
+title: Portaria n.º 335/86
+short_title: null
+summary: Autoriza a Sociedade de Construções Amadeu Gaudêncio, S. A. R. L., com sede em Lisboa, a emitir, ao par, 200000 obrigações
+  do valor nominal de 1000$00
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 335/86
+official_date: null
+publication_date: '1986-07-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 151/1986, Série I de 1986-07-04
+  number: '151'
+  series: I
+  supplement: null
+  pages: 1591 - 1592
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/07/15100/15911592.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '228258'
+  dre_path: /dr/detalhe/portaria/335-1986-228258
+  internal: pt:dre:228258:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/335-1986-228258
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/335-1986-228258
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:46:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1040fe64b4e1158ffc3619deb51e8f24f66b635285f51c2ac4fdbb9f9e1fd4ad
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:46:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Obrigações
+relationships:
+- type: cites
+  target: pt:dre:292333:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326709:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:46:12Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 335/86
+
+de 4 de Julho
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 371/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1978-326709), de 30 de Novembro, observado o estabelecido no n.º 1 do artigo 8.º do mesmo diploma, o seguinte:
+
+1.º É autorizada a Sociedade de Construções Amadeu Gaudêncio, S. A. R. L., com sede em Lisboa, a emitir, ao par, 200000 obrigações do valor nominal de 1000$00, representadas por títulos ao portador de 5, 10, 20 e 50 obrigações ou certificados destinados a subscrição particular.
+
+2.º Para cada um dos cupões a taxa de juro nominal será a taxa de referência fixada em aviso do Banco de Portugal em vigor no primeiro dia de cada período de vencimento de juros, acrescida de um diferencial de 2,5 pontos percentuais.
+
+3.º Ao abrigo do artigo 27.º do [Decreto-Lei n.º 46492](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46492-1965-292333), de 18 de Agosto de 1965, é concedida aos juros das obrigações a isenção do imposto complementar.
+
+4.º Os juros das obrigações contar-se-ão, semestralmente, a partir da data de início da subscrição e vencer-se-ão nos dias 15 de Maio e 15 de Novembro de cada ano, sendo 15 de Novembro de 1986 a data do primeiro pagamento correspondente aos juros contados desde o dia do início da subscrição até àquela data.
+
+5.º A duração máxima das obrigações será de cinco anos e a amortização destas efectuar-se-á por sorteio, ao par, em cinco anuidades iguais de 40000 obrigações, em 15 de Maio de 1987, 15 de Maio de 1988, 15 de Maio de 1989, 15 de Maio de 1990 e 15 de Maio de 1991.
+
+6.º As condições de pagamento dos juros e das amortizações correspondentes às obrigações farão parte do respectivo plano de amortização, a publicar no Diário da República.
+
+7.º Os encargos deste empréstimo serão suportados pela Sociedade de Construções Amadeu Gaudêncio, S. A. R. L., por eles respondendo o total das suas receitas.
+
+8.º Esta autorização é concedida nas seguintes condições:
+
+a) A emissão só poderá realizar-se depois de terem dado entrada na Direcção-Geral do Tesouro o documento comprovativo de ter sido efectuado o competente registo na Conservatória do Registo Comercial e um exemplar do Diário da República em que tenha sido publicado o respectivo plano de amortização;
+
+b) Dos títulos definitivos deverá constar o número e data do Diário da República em que foi publicada a presente portaria, bem como o plano de amortização e o número e data do Diário da República em que este foi publicado.
+
+Ministério das Finanças.
+
+Assinada em 19 de Junho de 1986.
+
+O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:889313165:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-939004564",
+ "dre_path": "/dr/detalhe/decreto-lei/60-2024-889313165",
+ "source_lastmod": "2026-05-26",
+ "versions": [
+  {
+   "date": "2024-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "939079275",
+    "939079475",
+    "939079675",
+    "939079875",
+    "939080075",
+    "939080275",
+    "939080475",
+    "939080675",
+    "939080875",
+    "939081075"
+   ]
+  },
+  {
+   "date": "2026-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1126594009:por",
+     "title": "Decreto-Lei n.º 105/2026",
+     "published": "2026-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/105-2026-1126594009"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "939079275",
+    "939079475",
+    "939079675",
+    "939079875",
+    "939080075",
+    "1127135375",
+    "939080475",
+    "939080675",
+    "939080875",
+    "939081075"
+   ]
+  }
+ ],
+ "fragments": {
+  "939079275": {
+   "fragment_id": "939079175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A condição militar, nos termos do disposto no artigo 2.º das bases gerais do estatuto da condição militar, aprovadas pela Lei n.º 11/89, de 1 de junho, caracteriza-se pela sujeição aos riscos inerentes ao cumprimento das missões militares que deve ser acompanhado pela consagração de especiais compensações, designadamente no campo da cobertura de riscos.\n\nA assunção destes riscos específicos da profissão militar, não partilhando dos pressupostos que alicerçam o regime jurídico dos acidentes em serviço e das doenças profissionais no âmbito da Administração Pública, tornam clara a inadequação da aplicação, para os militares, somente do regime de compensação para danos resultantes de acidentes e doenças profissionais previstos no Decreto-Lei n.º 503/99, de 20 de novembro, na sua redação atual.\n\nAssim, mostra-se necessário reconhecer aos militares e militarizados das Forças Armadas, a par dos elementos da Polícia Marítima que já se encontram abrangidos pelo regime do Decreto-Lei n.º 113/2005, de 13 de julho, na sua redação atual, o direito a uma compensação especial por invalidez permanente ou morte, quando estas sejam diretamente decorrentes dos riscos próprios da atividade militar.\n\nForam ouvidas a Associação de Oficiais das Forças Armadas, a Associação Nacional de Sargentos, a Associação de Praças, a Associação de Inspetores e Chefes da Polícia Marítima, e a Associação Sócio-Profissional da Polícia Marítima.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "939079475": {
+   "fragment_id": "939079375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei estabelece o regime de compensação especial, por invalidez permanente ou morte, diretamente decorrentes dos riscos próprios da atividade militar, aplicável aos militares das Forças Armadas.\n\n2 - A compensação a que se refere o número anterior é ainda atribuída ao pessoal militarizado das Forças Armadas, por invalidez permanente ou morte, diretamente decorrentes dos riscos próprios do apoio à atividade militar, com exceção dos elementos da Polícia Marítima.\n\n3 - O presente decreto-lei não se aplica a situações de invalidez permanente ou morte decorrentes de operações em situações de guerra declarada."
+  },
+  "939079675": {
+   "fragment_id": "939079575",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários em caso de morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários em caso de morte\n\n1 - Em caso de morte, a compensação a que se refere o artigo anterior é concedida a quem tiver sido indicado pelo militar ou militarizado, nos termos do artigo 3.º\n\n2 - Não existindo a indicação referida no número anterior, a compensação é atribuída pela seguinte ordem de precedência:\n\na) Conjuntamente ao cônjuge sobrevivo, não separado judicialmente de pessoas e bens, ou à pessoa que vivia em união de facto com o falecido, nos termos referidos na Lei n.º 7/2011, de 11 de maio, e aos filhos ou outros descendentes;\n\nb) Aos pais ou outros ascendentes."
+  },
+  "939079875": {
+   "fragment_id": "939079775",
+   "type": 11,
+   "heading": "Artigo 3.º — Indicação do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Indicação do beneficiário\n\n1 - O militar ou militarizado pode declarar, por escrito, qual a pessoa ou pessoas a quem deve ser paga a compensação na situação referida no n.º 1 do artigo anterior e qual a percentagem desta a atribuir a cada um desses beneficiários.\n\n2 - A declaração a que se refere o número anterior tem natureza confidencial e pode ser revogada ou alterada a todo o tempo por iniciativa do declarante.\n\n3 - Os serviços do ramo das Forças Armadas do militar ou militarizado facultam, no momento do seu ingresso ou, posteriormente, sob requerimento do próprio, o formulário de declaração, conforme modelo aprovado pelo Chefe do Estado-Maior do respetivo ramo, contendo a identificação do declarante e os elementos referidos no n.º 1.\n\n4 - Depois de preenchida, a declaração é inserida em sobrescrito de cor opaca, o qual é fechado, lacrado, datado e assinado no verso de forma legível pelo recetor e pelo declarante, sendo a este entregue um recibo.\n\n5 - O sobrescrito contendo a indicação do beneficiário é arquivado pelos serviços do respetivo ramo e só é aberto em caso de morte do militar ou militarizado."
+  },
+  "939080075": {
+   "fragment_id": "939079975",
+   "type": 11,
+   "heading": "Artigo 4.º — Valor da compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Valor da compensação\n\n1 - O valor da compensação por morte é de 250 vezes o valor da retribuição mínima mensal garantida.\n\n2 - O valor da compensação por invalidez permanente corresponde, no mínimo, a 150 vezes o valor da retribuição mínima mensal garantida e tem como limite máximo 250 vezes aquele valor.\n\n3 - A determinação da compensação referida no número anterior é feita tendo como base o seu limite mínimo, adicionando, por cada ano de serviço que o militar ou militarizado ainda pudesse prestar até atingir o limite de idade para transitar para a situação de reserva, o produto do índice 2,8 pelo valor da retribuição mínima mensal garantida.\n\n4 - Se, em resultado dos mesmos factos, à invalidez suceder a morte do militar, os beneficiários referidos no artigo 2.º têm direito ao pagamento da diferença remanescente.\n\n5 - Para efeitos do presente artigo, releva o valor da retribuição mínima mensal garantida em vigor à data dos factos geradores do direito à compensação."
+  },
+  "939080275": {
+   "fragment_id": "939080175",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuição da compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuição da compensação\n\n1 - O apuramento dos factos constitutivos do direito à compensação é objeto de processo de averiguações por morte ou acidente em serviço, a instaurar no Estado-Maior-General das Forças Armadas ou no ramo a que o militar ou militarizado pertence, consoante a estrutura em que seja prestado serviço.\n\n2 - Quando o acidente ou o evento gerador da morte sejam qualificados como ocorridos em serviço por despacho do Chefe do Estado-Maior-General das Forças Armadas ou do Chefe do Estado-Maior do ramo respetivo, consoante a respetiva dependência hierárquica, e se considere existir nexo de causalidade entre o risco inerente ao exercício das funções e a morte ou a invalidez permanente do militar ou militarizado, o processo é remetido ao membro do Governo responsável pela área da defesa nacional, oficiosamente ou, em caso de falta dessa remessa, a requerimento dos interessados.\n\n3 - A competência para a atribuição da compensação a que se refere o artigo 1.º é exercida por despacho dos membros do Governo responsáveis pelas áreas das finanças e da defesa nacional."
+  },
+  "939080475": {
+   "fragment_id": "939080375",
+   "type": 11,
+   "heading": "Artigo 6.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Encargos\n\nO pagamento da compensação prevista no presente decreto-lei é processado por conta da Secretaria-Geral do Ministério das Finanças."
+  },
+  "939080675": {
+   "fragment_id": "939080575",
+   "type": 11,
+   "heading": "Artigo 7.º — Outros direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outros direitos\n\n1 - A compensação prevista no presente decreto-lei não pode ser acumulada com direitos resultantes da aplicação do Decreto-Lei n.º 324/85, de 6 de agosto, na sua redação atual.\n\n2 - A mesma compensação não pode ser atribuída quando os factos tenham ocorrido no âmbito de missões fora do território nacional, cuja compensação esteja regulada em diploma próprio.\n\n3 - Quando a morte ou invalidez tenha resultado de acidente imputável a terceiro e cuja responsabilidade civil esteja transferida ou garantida para entidade seguradora ou equiparável, fica o Estado sub-rogado nos direitos dos beneficiários desta indemnização, até ao valor do montante pago nos termos do presente decreto-lei.\n\n4 - A aplicação do regime previsto no presente decreto-lei não prejudica ou restringe outros direitos resultantes da aplicação de normas legais em vigor, em tudo o que nele não se encontre especialmente regulado."
+  },
+  "939080875": {
+   "fragment_id": "939080775",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação no tempo\n\n1 - O presente decreto-lei é aplicável aos factos ocorridos a partir de dois anos antes da data da sua entrada em vigor, quanto a militares das Forças Armadas, sem prejuízo dos atos e formalidades praticados que devam ser salvaguardados nos termos legais.\n\n2 - Para efeitos do número anterior, ao valor da compensação a receber ao abrigo do presente decreto-lei, é deduzido o montante que os militares das Forças Armadas ou seus familiares tenham recebido, a título de indemnização, nos termos do Decreto-Lei n.º 503/99, de 20 de novembro, relativamente aos mesmos factos que deram origem à compensação nos termos do presente decreto-lei."
+  },
+  "939081075": {
+   "fragment_id": "939080975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de setembro de 2024. - Luís Montenegro - Joaquim Miranda Sarmento - Nuno Melo.\n\nPromulgado em 25 de setembro de 2024.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de setembro de 2024.\n\nPelo Primeiro-Ministro, Joaquim Miranda Sarmento, Ministro de Estado e das Finanças."
+  },
+  "1127135375": {
+   "fragment_id": "939080175",
+   "type": 11,
+   "heading": "Artigo 5 — Atribuição da compensação",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 158.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "###### Artigo 5 — Atribuição da compensação\n\n1 - O apuramento dos factos constitutivos do direito à compensação é objeto de processo de averiguações por morte ou acidente em serviço, a instaurar no Estado-Maior-General das Forças Armadas ou no ramo a que o militar ou militarizado pertence, consoante a estrutura em que seja prestado serviço.\n\n2 - Quando o acidente ou o evento gerador da morte sejam qualificados como ocorridos em serviço por despacho do Chefe do Estado-Maior-General das Forças Armadas ou do Chefe do Estado-Maior do ramo respetivo, consoante a respetiva dependência hierárquica, e se considere existir nexo de causalidade entre o risco inerente ao exercício das funções e a morte ou a invalidez permanente do militar ou militarizado, o processo é remetido ao membro do Governo responsável pela área da defesa nacional, oficiosamente ou, em caso de falta dessa remessa, a requerimento dos interessados.\n\n3 - A competência para a atribuição da compensação a que se refere o artigo 1.º é exercida por despacho do membro do Governo responsável pela área da defesa nacional.\n\n> Alterado pelo/a Artigo 158.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27."
+  }
+ }
+}

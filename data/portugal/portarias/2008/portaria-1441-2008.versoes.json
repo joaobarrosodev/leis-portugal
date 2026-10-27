@@ -1,0 +1,272 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:440825:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-124530654",
+ "dre_path": "/dr/detalhe/portaria/1441-2008-440825",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-12-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124532983",
+    "124532984",
+    "124532985",
+    "124532986",
+    "124532987",
+    "124532988",
+    "124532989",
+    "124532990",
+    "124532991",
+    "124532992",
+    "124532993",
+    "124532994"
+   ]
+  },
+  {
+   "date": "2019-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124500729:por",
+     "title": "Portaria n.º 292/2019",
+     "published": "2019-09-06",
+     "dre_path": "/dr/detalhe/portaria/292-2019-124500729"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "124532983",
+    "124532984",
+    "124533005",
+    "124533006",
+    "124532987",
+    "124532996",
+    "124533010",
+    "124533011",
+    "124533007",
+    "124533008",
+    "124533009",
+    "124533012",
+    "124533003",
+    "124533004"
+   ]
+  }
+ ],
+ "fragments": {
+  "124532983": {
+   "fragment_id": "124530655",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1441/2008\n\nde 11 de Dezembro\n\nO Decreto-Lei n.º 226-A/2008, de 20 de Novembro, definiu o regime de autonomia, administração e gestão das escolas de hotelaria e turismo do Instituto do Turismo de Portugal, I. P., adiante designado por Turismo de Portugal, I. P., pelo que importa agora, no desenvolvimento daquele diploma, estabelecer a sua organização interna.\n\nAssim:\n\nAo abrigo do n.º 3 do artigo 12.º do Decreto-Lei n.º 226-A/2008, de 20 de Novembro, manda o Governo, pelos Secretários de Estado da Administração Pública e do Turismo, o seguinte:"
+  },
+  "124532984": {
+   "fragment_id": "124530656",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria tem por objecto a definição da estrutura e da organização interna das Escolas de Hotelaria e Turismo, enquanto serviços territorialmente desconcentrados do Turismo de Portugal, I. P., adiante designadas por Escolas."
+  },
+  "124532985": {
+   "fragment_id": "124530657",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estrutura orgânica\n\n1 - As Escolas de tipo i adoptam na sua estruturação interna um modelo hierarquizado, organizado de acordo com as seguintes áreas funcionais de actuação:\n\na) Área de formação;\n\nb) Área técnica.\n\n2 - A área de formação engloba a formação inicial, a formação contínua e a certificação profissional, no âmbito do acesso às profissões e nos termos da legislação em vigor, e a área técnica integra a produção hoteleira e, ainda, a formação nas áreas técnicas.\n\n3 - A organização interna de cada uma das áreas identificadas no número anterior é definida pelo director da escola.\n\n4 - Nas Escolas pode, ainda, existir um Centro Novas Oportunidades, a constituir nos termos da Portaria n.º 370/2008, de 21 de Maio.\n\n5 - O modelo organizacional das Escolas de tipo ii deve obedecer aos princípios definidos pela escola de tipo i que integra o respectivo agrupamento formativo de zona em que aquelas estão inseridas, podendo, igualmente, estruturar-se em áreas, em função da dimensão da Escola, subordinando-se ao modelo organizacional definido nos n.os 1 e 2, coordenadas pelo director da escola.\n\n6 - Em função da complexidade e dimensão de cada uma das áreas, considerando nomeadamente o pessoal que lhe está afecto, excluindo os formadores, podem ser designados trabalhadores para funções de coordenação, exercidas com isenção de horário de trabalho, mediante deliberação do conselho directivo do Turismo de Portugal, I. P., sob proposta do director da escola de tipo i."
+  },
+  "124532986": {
+   "fragment_id": "124530658",
+   "type": 11,
+   "heading": "Artigo 3.º — Área de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Área de formação\n\n1 - À área de formação compete, em geral:\n\na) Assegurar o desenvolvimento do projecto técnico-pedagógico aprovado;\n\nb) Elaborar os planos anuais de formação, bem como orientar, coordenar e avaliar a respectiva execução;\n\nc) Divulgar a oferta de serviços de formação, em articulação com a Direcção de Formação do Turismo de Portugal, I. P.;\n\nd) Desenvolver uma articulação com as empresas do sector existentes na região em que a escola se insere, identificando necessidades formativas específicas, de molde a adequar os planos de formação para lhes darem resposta;\n\ne) Promover acções de inserção das Escolas na região em que se inserem, bem como a integração profissional dos alunos, nomeadamente através da realização de estágios em unidades empresariais do sector;\n\nf) Assegurar a articulação entre a componente pedagógica e a de produção hoteleira, de modo a garantir as condições indispensáveis à realização da formação técnica;\n\ng) Elaborar a documentação de natureza técnica e pedagógica necessária à instrução de processos de candidatura, de controlo da execução e de resultados, relativos aos programas de financiamento nacionais ou comunitários.\n\n2 - Em matéria de formação inicial, compete, em especial, à área de formação:\n\na) Elaborar diagnósticos de necessidades de formação inicial;\n\nb) Executar o plano de formação inicial, assegurando o cumprimento dos planos de estudo dos cursos e a utilização dos instrumentos metodológicos e didácticos necessários;\n\nc) Assegurar a organização técnico-pedagógica da informação respeitante à formação inicial, de acordo com as normas em vigor;\n\nd) Prestar informação relativa às actividades desenvolvidas, no âmbito da formação inicial.\n\n3 - Em matéria de formação contínua, compete, em especial, à área de formação:\n\na) Elaborar diagnósticos de necessidades de formação contínua;\n\nb) Executar a formação contínua com base nos diagnósticos de necessidades de formação realizados;\n\nc) Dar cumprimento aos currículos e programas das acções de formação contínua, utilizando os instrumentos metodológicos e didácticos necessários;\n\nd) Promover e prestar consultoria técnico-pedagógica aos organismos públicos, às associações empresariais, sindicais e profissionais, às empresas e aos profissionais do sector, tendo em vista o desenvolvimento das suas próprias competências de intervenção na formação contínua dos profissionais activos afectos ao sector e na optimização de processos de organização e gestão dos serviços e dos recursos;\n\ne) Promover e realizar acções de formação inicial e contínua de formadores;\n\nf) Assegurar a organização técnico-pedagógica da informação respeitante à formação contínua, de acordo com as normas em vigor;\n\ng) Prestar informação relativa às actividades desenvolvidas, no âmbito da formação contínua e de consultoria técnico-pedagógica;\n\nh) Apoiar a acção de certificação profissional, no âmbito do acesso às profissões do sector, desenvolvida pela Direcção de Formação do Turismo de Portugal, I. P."
+  },
+  "124532987": {
+   "fragment_id": "124530659",
+   "type": 11,
+   "heading": "Artigo 4.º — Área técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Área técnica\n\nÀ área técnica compete a execução de actividades de apoio técnico, produção hoteleira, aprovisionamento e gestão dos hotéis e restaurantes de aplicação e, nomeadamente:\n\na) Garantir as condições necessárias para a realização da componente técnica da formação, designadamente nas áreas do turismo, da hotelaria e da restauração;\n\nb) Planear, organizar, executar, controlar e avaliar os serviços de produção e exploração hoteleira, dirigindo o hotel e restaurante de aplicação quando ele existir;\n\nc) Apoiar o desenvolvimento das competências de programação, organização, execução e avaliação da formação prática simulada e em contexto de trabalho;\n\nd) Proceder à gestão das instalações, equipamentos e outros bens necessários às actividades formativas e certificação e à prestação de serviços ao exterior nos domínios do turismo, da hotelaria e da restauração;\n\ne) Analisar as melhores práticas utilizadas nas empresas do sector e propor conteúdos e a adopção de metodologias conducentes à melhoria da qualidade do ensino e à inovação;\n\nf) Planear e gerir o aprovisionamento necessário à actividade formativa;\n\ng) Acompanhar e supervisionar a formação de cariz tecnológico, bem como dos recursos humanos e materiais a ela inerentes."
+  },
+  "124532988": {
+   "fragment_id": "124530660",
+   "type": 11,
+   "heading": "Artigo 5.º — Centro Novas Oportunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Centro Novas Oportunidades\n\nAos Centros Novas Oportunidades que venham a ser criados nas Escolas, cabe prosseguir as atribuições definidas na legislação que regula o funcionamento destas estruturas e, designadamente:\n\na) Desenvolver as etapas dos processos de reconhecimento, validação e certificação de competências;\n\nb) Elaborar e desenvolver o Plano Estratégico de Intervenção (PEI), assegurando o seu enquadramento no projecto técnico-pedagógico da Escola;\n\nc) Apreciar e propor o reconhecimento, a validação e a certificação de competências profissionais para o sector do turismo, hoteleiro e restauração;\n\nd) Criar e manter devidamente actualizados arquivos da documentação técnico-pedagógica;\n\ne) Prestar a informação sobre as actividades desenvolvidas no âmbito da certificação."
+  },
+  "124532989": {
+   "fragment_id": "124530661",
+   "type": 11,
+   "heading": "Artigo 6.º — Orientadores educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Orientadores educativos\n\n1 - Nas Escolas, funcionando junto de cada turma, existe um orientador educativo, ao qual compete:\n\na) Participar na programação, organização, acompanhamento, controlo e avaliação das actividades formativas, complementares à formação e extracurriculares;\n\nb) Assegurar a articulação entre os formadores da turma, promovendo reflexões sobre estratégias de ensino-aprendizagem, bem como a elaboração de propostas de apoio pedagógico;\n\nc) Acompanhar o desenvolvimento pessoal e escolar dos alunos;\n\nd) Promover a comunicação com os encarregados de educação e com as famílias dos alunos;\n\ne) Convocar e presidir às reuniões do conselho de turma;\n\nf) Analisar, em primeira instância, questões de ordem disciplinar e contribuir para a resolução das mesmas;\n\ng) Executar tarefas de âmbito administrativo que contribuam para o controlo e registo da assiduidade dos alunos.\n\n2 - O orientador educativo é designado pelo director da escola, de entre os formadores."
+  },
+  "124532990": {
+   "fragment_id": "124530662",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidade de apoio administrativo e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Unidade de apoio administrativo e financeiro\n\n1 - Nas Escolas de tipo i é criada uma unidade de gestão com competência nas áreas administrativa e financeira, à qual cabe, designadamente:\n\na) Prestar apoio técnico na gestão administrativa, financeira e orçamental;\n\nb) Assegurar o funcionamento da secretaria de alunos;\n\nc) Assegurar a recepção, registo, classificação, distribuição e expedição de toda a documentação;\n\nd) Acompanhar os processos de aquisição de bens e serviços, que devam ser tramitados pela escola;\n\ne) Proceder à classificação dos documentos de despesa e efectuar os registos contabilísticos da escola, respeitando as orientações técnicas e os princípios e regras financeiros e contabilísticos definidos pelos serviços centrais do Turismo de Portugal, I. P.;\n\nf) Fornecer os elementos para a elaboração da componente financeira dos dossiers da candidatura, de execução e de resultados, relativos aos fundos comunitários e de outras fontes extraordinárias de financiamento;\n\ng) Assegurar a facturação, cobrança e controlo das vendas de bens e serviços;\n\nh) Assegurar as funções de tesouraria relativas a arrecadação de receitas e pagamento de despesas através de fundo de maneio;\n\ni) Fornecer os elementos necessários para a elaboração do relatório de acompanhamento da execução financeira da escola e do respectivo agrupamento formativo de zona, produzindo uma análise da execução dos orçamentos e do grau de cumprimento de objectivos de racionalidade e de eficácia e eficiência de gestão previamente definidos, bem como uma avaliação e identificação prospectiva de potenciais desvios;\n\nj) Organizar e manter actualizados os processos individuais, garantindo a confidencialidade dos dados registados, em articulação com os serviços centrais do Turismo de Portugal, I. P., competentes em matéria de gestão de recursos humanos;\n\nl) Organizar, executar e manter actualizado o inventário e o arquivo, em articulação com os serviços centrais do Turismo de Portugal, I. P., competentes na matéria;\n\nm) Exercer as demais competências que se mostrem necessárias para assegurar o normal funcionamento da escola e cuja execução seja determinada pelo director.\n\n2 - Esta unidade é dirigida e coordenada pelo director da escola, sem prejuízo das competências que, por despacho do director, sejam delegadas nos técnicos que a ela estejam afectos.\n\n3 - Nas Escolas de tipo ii, as competências enunciadas no n.º 1 são exercidas de acordo com o âmbito da delegação ou subdelegação de competências que for feita no respectivo director pelo director da escola de tipo i, considerando as competências deste em matéria de coordenação centralizada da gestão de recursos, humanos, materiais e financeiros, das Escolas de tipo ii inseridas no respectivo agrupamento formativo de zona."
+  },
+  "124532991": {
+   "fragment_id": "124530663",
+   "type": 11,
+   "heading": "Artigo 8.º — Hotéis e restaurantes de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Hotéis e restaurantes de aplicação\n\n1 - Os hotéis e restaurantes de aplicação são serviços integrados na estrutura orgânica das Escolas, cabendo ao seu director coordenar a respectiva actividade e assegurar a sua gestão e destinam-se a proporcionar aos alunos a formação prática profissional.\n\n2 - Os hotéis e restaurantes de aplicação podem encontrar-se abertos ao público e realizar a venda de bens e serviços a clientes externos, desde que reúnam as condições técnicas e legais para esse efeito, mediante deliberação do conselho directivo do Turismo de Portugal, I. P., sob proposta do director da escola.\n\n3 - Compete ao conselho directivo do Turismo de Portugal, I. P., deliberar sobre a criação ou encerramento dos hotéis e restaurantes de aplicação."
+  },
+  "124532992": {
+   "fragment_id": "124530664",
+   "type": 11,
+   "heading": "Artigo 9.º — Regras de equiparação das Escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regras de equiparação das Escolas\n\nSão desde já qualificadas como Escolas de tipo i e Escolas de tipo ii, as seguintes:\n\na) Escolas de tipo i:\n\ni) Escola do Algarve;\n\nii) Escola de Portalegre;\n\niii) Escola de Lisboa;\n\niv) Escola de Estoril;\n\nv) Escola de Coimbra;\n\nvi) Escola do Porto;\n\nvii) Escola do Douro - Lamego;\n\nb) Escolas de tipo ii:\n\ni) Escola de Portimão e Escola de Vila Real de Santo António, integradas no agrupamento formativo da Escola do Algarve;\n\nii) Escola de Setúbal, integrada no agrupamento formativo da Escola de Lisboa;\n\niii) Escola de Santarém, integrada no agrupamento formativo da Escola do Estoril;\n\niv) Escola do Oeste e Escola do Fundão, integradas no agrupamento formativo da Escola de Coimbra;\n\nv) Escola de Santa Maria da Feira e Escola de Viana do Castelo, integradas no agrupamento formativo da Escola do Porto;\n\nvi) Escola de Mirandela, integrada no agrupamento formativo da Escola do Douro - Lamego."
+  },
+  "124532993": {
+   "fragment_id": "124530665",
+   "type": 11,
+   "heading": "Artigo 10.º — Aditamento à Portaria n.º 539/2007, de 30 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aditamento à Portaria n.º 539/2007, de 30 de Abril\n\nÉ alterado o artigo 2.º dos Estatutos aprovados pela Portaria n.º 539/2007, de 30 de Abril, que passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - A estrutura do Turismo de Portugal, I. P., compreende órgãos e serviços centrais e serviços territorialmente desconcentrados.\n\n2 - São serviços territorialmente desconcentrados do Turismo de Portugal, I. P., as Escolas de Hotelaria e Turismo.\n\n3 - O Turismo de Portugal, I. P., adopta na organização interna dos seus serviços centrais o modelo misto de estruturas hierarquizada e matricial.\n\n4 - Os serviços centrais do Turismo de Portugal, I. P., estruturam-se de acordo com as seguintes áreas de actuação:\n\na) Estudos e planeamento estratégico;\n\nb) Operacionais;\n\nc) Apoio e suporte.\n\n5 - (Anterior n.º 3.)\n\n6 - (Anterior n.º 4.)\n\n7 - (Anterior n.º 5.)»"
+  },
+  "124532994": {
+   "fragment_id": "124530666",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 20 de Novembro 2008."
+  },
+  "124533005": {
+   "fragment_id": "124530657",
+   "type": 11,
+   "heading": "Artigo 2.º — Estrutura orgânica",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 2.º — Estrutura orgânica\n\n1 - As escolas adotam na sua estruturação interna um modelo funcional flexível de estrutura matricial, ajustado aos objetivos do projeto técnico-pedagógico previsto no artigo 2.º do Decreto-Lei n.º 226-A/2008, de 20 de novembro, alterado pelo Decreto-Lei n.º 110/2019, de 14 de agosto, organizado de acordo com as seguintes áreas de atuação:\n\na) Área de formação;\n\nb) Área técnica.\n\nc) Área de inovação;\n\nd) Área administrativa e financeira.\n\n2 - As áreas funcionais são dirigidas e coordenadas pelo diretor da escola, sem prejuízo das competências que, por despacho do diretor, sejam delegadas nos trabalhadores que nelas exerçam funções.\n\n3 - A organização interna de cada uma das áreas identificadas no número anterior é definida pelo director da escola.\n\n4 - Nas Escolas podem ainda ser criados centros especializados em qualificação de adultos, com vista ao reconhecimento, validação e certificação de competências adquiridas ao longo da vida.\n\n5 - [Revogado.]\n\n6 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+  },
+  "124533006": {
+   "fragment_id": "124530658",
+   "type": 11,
+   "heading": "Artigo 3.º — Área de formação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 3.º — Área de formação\n\n1 - À área de formação compete, em geral:\n\na) Assegurar o desenvolvimento do projecto técnico-pedagógico aprovado;\n\nb) Elaborar os planos anuais de formação, bem como orientar, coordenar e avaliar a respectiva execução;\n\nc) Divulgar a oferta de serviços de formação, em articulação com a Direcção de Formação do Turismo de Portugal, I. P.;\n\nd) Desenvolver uma articulação com as empresas do sector existentes na região em que a escola se insere, identificando necessidades formativas específicas, de molde a adequar os planos de formação para lhes darem resposta;\n\ne) Promover acções de inserção das Escolas na região em que se inserem, bem como a integração profissional dos alunos, nomeadamente através da realização de estágios em unidades empresariais do sector;\n\nf) Assegurar a articulação entre a componente pedagógica e a de produção hoteleira, de modo a garantir as condições indispensáveis à realização da formação técnica;\n\ng) Elaborar a documentação de natureza técnica e pedagógica necessária à instrução de processos de candidatura, de controlo da execução e de resultados, relativos aos programas de financiamento nacionais ou comunitários.\n\n2 - Em matéria de formação inicial, compete, em especial, à área de formação:\n\na) Elaborar diagnósticos de necessidades de formação inicial;\n\nb) Executar o plano de formação inicial, assegurando o cumprimento dos planos de estudo dos cursos e a utilização dos instrumentos metodológicos e didácticos necessários;\n\nc) Assegurar a organização técnico-pedagógica da informação respeitante à formação inicial, de acordo com as normas em vigor;\n\nd) Prestar informação relativa às actividades desenvolvidas, no âmbito da formação inicial.\n\n3 - Em matéria de formação contínua, incluindo a formação à medida, consultoria e assistência técnica compete, em especial, à área de formação:\n\na) Elaborar diagnósticos de necessidades de formação contínua;\n\nb) Executar a formação contínua com base nos diagnósticos de necessidades de formação realizados;\n\nc) Dar cumprimento aos currículos e programas das acções de formação contínua, utilizando os instrumentos metodológicos e didácticos necessários;\n\nd) Promover e prestar consultoria técnico-pedagógica aos organismos públicos, às associações empresariais, sindicais e profissionais, às empresas e aos profissionais do sector, tendo em vista o desenvolvimento das suas próprias competências de intervenção na formação contínua dos profissionais activos afectos ao sector e na optimização de processos de organização e gestão dos serviços e dos recursos;\n\ne) Promover e realizar acções de formação inicial e contínua de formadores;\n\nf) Assegurar a organização técnico-pedagógica da informação respeitante à formação contínua, de acordo com as normas em vigor;\n\ng) Prestar informação relativa às actividades desenvolvidas, no âmbito da formação contínua e de consultoria técnico-pedagógica;\n\nh) Apoiar a acção de certificação profissional, no âmbito do acesso às profissões do sector, desenvolvida pela Direcção de Formação do Turismo de Portugal, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+  },
+  "124532996": {
+   "fragment_id": "124530668",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Área de inovação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 4.º-A — Área de inovação\n\n1 - À área de inovação compete a execução das atividades de apoio à capacitação das empresas, à criação de novos negócios e à inovação empresarial, bem como a gestão das unidades de aplicação de suporte aos serviços de inovação e dos laboratórios abertos de experimentação, nomeadamente:\n\na) Garantir as condições necessárias para a realização de projetos de inovação, empreendedorismo e transferência de conhecimento para as empresas;\n\nb) Planear, promover e dinamizar serviços de suporte à qualificação dos alunos e dos profissionais do setor nos domínios da responsabilidade social e ambiental;\n\nc) Disponibilizar infraestruturas, equipamentos e conhecimento para a experimentação e desenvolvimento de novos produtos;\n\nd) Dinamizar e promover projetos e iniciativas de intervenção social para integração de pessoas com necessidades especiais, de pessoas em risco de exclusão, nomeadamente migrantes e refugiados, e de promoção de igualdade de género, entre outros;\n\ne) Dinamizar e promover projetos e iniciativas de suporte à criação de novos negócios de base territorial;\n\nf) Analisar as melhores práticas internacionais nos domínios da educação e formação para a inovação e sustentabilidade no setor, criando condições para o desenvolvimento de projetos de transferência dessas boas práticas, nomeadamente através do desenvolvimento de parcerias com parceiros internacionais;\n\ng) Promover o estabelecimento de parcerias temáticas que promovam uma educação e formação transformacional, integral e transversal nos domínios da inovação e da sustentabilidade.\n\n2 - Todas as escolas passam a ter laboratórios de experimentação abertos à comunidade.\n\n3 - A reserva da utilização dos laboratórios é feita online através de plataforma disponibilizada para o efeito, da qual constam as regras de utilização dos espaços e equipamentos.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+  },
+  "124533010": {
+   "fragment_id": "124530660",
+   "type": 11,
+   "heading": "Artigo 5.º — Centro Novas Oportunidades",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 5.º — Centro Novas Oportunidades\n\nAos Centros Novas Oportunidades que venham a ser criados nas Escolas, cabe prosseguir as atribuições definidas na legislação que regula o funcionamento destas estruturas e, designadamente:\n\na) Desenvolver as etapas dos processos de reconhecimento, validação e certificação de competências;\n\nb) Elaborar e desenvolver o Plano Estratégico de Intervenção (PEI), assegurando o seu enquadramento no projecto técnico-pedagógico da Escola;\n\nc) Apreciar e propor o reconhecimento, a validação e a certificação de competências profissionais para o sector do turismo, hoteleiro e restauração;\n\nd) Criar e manter devidamente actualizados arquivos da documentação técnico-pedagógica;\n\ne) Prestar a informação sobre as actividades desenvolvidas no âmbito da certificação.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+  },
+  "124533011": {
+   "fragment_id": "124530661",
+   "type": 11,
+   "heading": "Artigo 6.º — Orientadores educativos",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 6.º — Orientadores educativos\n\n1 - Nas Escolas, funcionando junto de cada turma, existe um orientador educativo, ao qual compete:\n\na) Participar na programação, organização, acompanhamento, controlo e avaliação das actividades formativas, complementares à formação e extracurriculares;\n\nb) Assegurar a articulação entre os formadores da turma, promovendo reflexões sobre estratégias de ensino-aprendizagem, bem como a elaboração de propostas de apoio pedagógico;\n\nc) Acompanhar o desenvolvimento pessoal e escolar dos alunos;\n\nd) Promover a comunicação com os encarregados de educação e com as famílias dos alunos;\n\ne) Convocar e presidir às reuniões do conselho de turma;\n\nf) Analisar, em primeira instância, questões de ordem disciplinar e contribuir para a resolução das mesmas;\n\ng) Executar tarefas de âmbito administrativo que contribuam para o controlo e registo da assiduidade dos alunos.\n\n2 - O orientador educativo é designado pelo director da escola, de entre os formadores.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+  },
+  "124533007": {
+   "fragment_id": "124530662",
+   "type": 11,
+   "heading": "Artigo 7.º — Área administrativa e financeira",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 7.º — Área administrativa e financeira\n\n1 - À área administrativa e financeira compete:\n\na) Prestar apoio técnico na gestão administrativa, financeira e orçamental;\n\nb) Assegurar o funcionamento da secretaria de alunos;\n\nc) Assegurar a recepção, registo, classificação, distribuição e expedição de toda a documentação;\n\nd) Acompanhar os processos de aquisição de bens e serviços, que devam ser tramitados pela escola;\n\ne) Proceder à classificação dos documentos de despesa e efectuar os registos contabilísticos da escola, respeitando as orientações técnicas e os princípios e regras financeiros e contabilísticos definidos pelos serviços centrais do Turismo de Portugal, I. P.;\n\nf) Fornecer os elementos para a elaboração da componente financeira dos dossiers da candidatura, de execução e de resultados, relativos aos fundos comunitários e de outras fontes extraordinárias de financiamento;\n\ng) Assegurar a facturação, cobrança e controlo das vendas de bens e serviços;\n\nh) Assegurar as funções de tesouraria relativas a arrecadação de receitas e pagamento de despesas através de fundo de maneio;\n\ni) Fornecer os elementos necessários para a elaboração do relatório de acompanhamento da execução financeira da escola e do respectivo agrupamento formativo de zona, produzindo uma análise da execução dos orçamentos e do grau de cumprimento de objectivos de racionalidade e de eficácia e eficiência de gestão previamente definidos, bem como uma avaliação e identificação prospectiva de potenciais desvios;\n\nj) Organizar e manter actualizados os processos individuais, garantindo a confidencialidade dos dados registados, em articulação com os serviços centrais do Turismo de Portugal, I. P., competentes em matéria de gestão de recursos humanos;\n\nl) Organizar, executar e manter actualizado o inventário e o arquivo, em articulação com os serviços centrais do Turismo de Portugal, I. P., competentes na matéria;\n\nm) Exercer as demais competências que se mostrem necessárias para assegurar o normal funcionamento da escola e cuja execução seja determinada pelo director.\n\n2 - [Revogado.]\n\n3 - [Revogado.].\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+  },
+  "124533008": {
+   "fragment_id": "124530663",
+   "type": 11,
+   "heading": "Artigo 8.º — Hotéis, restaurantes e outras unidades de aplicação",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 8.º — Hotéis, restaurantes e outras unidades de aplicação\n\n1 - Os hotéis, restaurantes e outras unidades de aplicação são serviços integrados na estrutura orgânica das Escolas, cabendo ao seu diretor coordenar a respetiva atividade e assegurar a sua gestão, sem prejuízo das competências que, por despacho do diretor, sejam delegadas nos técnicos que a eles estejam afetos, e destinam-se a proporcionar aos alunos a formação prática profissional.\n\n2 - Os hotéis, restaurantes e outras unidades de aplicação podem encontrar-se abertos ao público, em horários diferentes dos genericamente aplicados à respetiva escola em que se inserem, e realizar a venda de bens e serviços a clientes externos, desde que reúnam as condições técnicas e legais para esse efeito, mediante deliberação do conselho diretivo do Turismo de Portugal, I. P., sob proposta do diretor da escola.\n\n3 - Compete ao conselho diretivo do Turismo de Portugal, I. P., deliberar sobre a criação ou encerramento dos hotéis e restaurantes e outras unidades de aplicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+  },
+  "124533009": {
+   "fragment_id": "124530664",
+   "type": 11,
+   "heading": "Artigo 9.º — Tipologia de Escolas",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 9.º — Tipologia de Escolas\n\nSão classificadas como Escolas de tipo I e Escolas de tipo II, as seguintes:\n\na) Escolas de tipo i:\n\ni) Escola do Algarve;\n\nii) Escola de Portalegre;\n\niii) Escola de Lisboa;\n\niv) Escola de Estoril;\n\nv) Escola de Coimbra;\n\nvi) Escola do Porto;\n\nvii) Escola do Douro - Lamego;\n\nviii) Escola de Setúbal.\n\nb) Escolas de tipo ii:\n\ni) Escola de Portimão;\n\nii) Escola de Vila Real de Santo António;\n\niii) Escola do Oeste;\n\niv) Escola de Viana do Castelo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+  },
+  "124533012": {
+   "fragment_id": "124530665",
+   "type": 11,
+   "heading": "Artigo 10.º — Aditamento à Portaria n.º 539/2007, de 30 de Abril",
+   "in_force_from": "2019-09-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+   ],
+   "markdown": "###### Artigo 10.º — Aditamento à Portaria n.º 539/2007, de 30 de Abril\n\nÉ alterado o artigo 2.º dos Estatutos aprovados pela Portaria n.º 539/2007, de 30 de Abril, que passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - A estrutura do Turismo de Portugal, I. P., compreende órgãos e serviços centrais e serviços territorialmente desconcentrados.\n\n2 - São serviços territorialmente desconcentrados do Turismo de Portugal, I. P., as Escolas de Hotelaria e Turismo.\n\n3 - O Turismo de Portugal, I. P., adopta na organização interna dos seus serviços centrais o modelo misto de estruturas hierarquizada e matricial.\n\n4 - Os serviços centrais do Turismo de Portugal, I. P., estruturam-se de acordo com as seguintes áreas de actuação:\n\na) Estudos e planeamento estratégico;\n\nb) Operacionais;\n\nc) Apoio e suporte.\n\n5 - (Anterior n.º 3.)\n\n6 - (Anterior n.º 4.)\n\n7 - (Anterior n.º 5.)»\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 292/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/292-2019-124500729), em vigor a partir de 2019-09-07"
+  },
+  "124533003": {
+   "fragment_id": "124530666",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 20 de Novembro 2008."
+  },
+  "124533004": {
+   "fragment_id": "124530667",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Administração Pública, Gonçalo André Castilho dos Santos. - O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade."
+  }
+ }
+}

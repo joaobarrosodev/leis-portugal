@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:531024:por
+title: Decreto n.º 307-B/76
+short_title: null
+summary: Exonera das funções de Governador de Timor o coronel Mário Lemos Pires
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Cooperação
+proposing_entity: null
+official_number: 307-B/76
+official_date: null
+publication_date: '1976-04-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/1976, 2º Suplemento, Série I de 1976-04-26
+  number: '98'
+  series: I
+  supplement: null
+  pages: 912-(3) a 912-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/04/09802/00030003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '531024'
+  dre_path: /dr/detalhe/decreto/307-b-1976-531024
+  internal: pt:dre:531024:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/307-b-1976-531024
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/307-b-1976-531024
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:41:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d1d0e216e47ee8e69012f64525ece247fc7c01e12164c5cdffb1639809a95c5e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:41:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:41:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 307-B/76
+
+de 26 de Abril
+
+Considerando a actual situação do processo de descolonização de Timor, verifica-se haver vantagem em centralizar, a nível do Governo, a orientação dos assuntos que lhe respeitam.
+
+Nestas circunstâncias, a resolução de muitos dos problemas referentes à administração do território de Timor, que está já a ser prosseguida em colaboração íntima com o Ministério da Cooperação, passará, a partir desta data, para a sua administração directa.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º É exonerado das funções de Governador de Timor o Coronel Mário Lemos Pires.
+
+Art. 2.º Todos os assuntos da competência do Governador de Timor passam para âmbito do Ministro da Cooperação.
+
+José Baptista Pinheiro de Azevedo - Vitor Manuel Trigueiros Crespo.
+
+Promulgado em 26 de Abril de 1976.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

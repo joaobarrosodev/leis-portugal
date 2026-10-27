@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:326530:por
+title: Despacho Normativo n.º 323/78
+short_title: null
+summary: Estabelece normas sobre os requerimentos para declaração de utilidade turística
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Comércio e Turismo - Secretaria de Estado do Comércio Interno - Gabinete do Secretário de Estado
+proposing_entity: null
+official_number: 323/78
+official_date: null
+publication_date: '1978-12-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 279/1978, Série I de 1978-12-05
+  number: '279'
+  series: I
+  supplement: null
+  pages: 2563 - 2564
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/12/27900/25632564.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '326530'
+  dre_path: /dr/detalhe/despacho-normativo/323-1978-326530
+  internal: pt:dre:326530:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/323-1978-326530
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/323-1978-326530
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:47:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 053aa25c0439e62fee1390486dbd38b5335dfd1a33570d7dfd64fb50a3a8a762
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:47:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Classificação de Empresas
+- Comissão
+- Direcção Geral do Turismo
+- Utilidade Turística
+relationships:
+- type: cites
+  target: pt:dre:675814:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:47:21Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 323/78
+
+A declaração de utilidade turística, figura cujas bases gerais foram introduzidas no nosso direito pela [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954, e que foi depois disso objecto de vária legislação avulsa, tem sido - e continuará a ser - um poderoso instrumento de incentivar a criação e desenvolvimento de infra-estruturas turísticas que integrem uma oferta de qualidade.
+
+Numa época em que, para Portugal, o sector do turismo assume redobradamente uma importância estratégica vital para o relançamento da nossa economia, verifica-se, porém, que a vigente legislação sobre utilidade turística - moldada à medida das necessidades, condicionamento e concepções do seu tempo - carece urgentemente de ser revista, perspectivando-a de acordo com as necessidades e solicitações actuais. Este processo de revisão encontra-se assim em curso, estando-se a imprimir aos respectivos trabalhos a necessária celeridade.
+
+Importa entretanto dispor das normas de carácter puramente regulamentar que disciplinem, em termos adequados, a tramitação dos respectivos processos administrativos.
+
+A experiência mostrou que algumas das normas constantes do despacho do Secretário de Estado do Comércio Externo e Turismo, de 25 de Junho de 1974, publicado no Diário do Governo, 1.ª série, n.º 168, de 20 de Julho de 1974, se encontram actualmente desadaptadas.
+
+Entendeu-se por isso necessário reformular essa regulamentação, tendo sobretudo em vista tornar mais simples a instrução dos processos, dispensando os requerentes, sempre que possível, da apresentação de estudos custosos e sofisticados, sem prejuízo da necessidade indeclinável da Administração de dispor dos elementos indispensáveis à correcta e fundamentada apreciação dos pedidos.
+
+Nestes termos, determina-se:
+
+I - Os requerimentos para declaração de utilidade turística a título prévio deverão ser instruídos com os seguintes elementos:
+
+a) Questionário devidamente preenchido, em impresso a fornecer pela Direcção-Geral do Turismo;
+
+b) Memória descritiva especificando a localização e característica do empreendimento, com vista a demonstrar a sua adequação aos requisitos legais de atribuição de utilidade turística enunciados no artigo 11.º, § único, da [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954, e em VII do presente despacho normativo;
+
+c) Fotomontagem do empreendimento, destinada a ilustrar a sua caracterização arquitectónica e a inserção no local;
+
+d) Pacto social da requerente, sendo uma sociedade comercial, ou os estatutos, tratando-se de uma associação ou fundação;
+
+e) Plano de financiamento do empreendimento, com indicação do capital próprio e do capital alheio, bem como das fontes e condições de obtenção deste último (prazo de amortização e taxa de juro);
+
+f) Balanço aprovado do último exercício, sendo a requerente uma sociedade comercial que tenha completado pelo menos um exercício.
+
+II - Os requerimentos relativos às prorrogações dos prazos concedidos no despacho de declaração de utilidade turística prévia, para conclusão das obras ou abertura dos empreendimentos, deverão ser instruídos com os seguintes elementos:
+
+a) Data do início da construção;
+
+b) Informação sobre o estado das obras ou, no caso de o requerimento se referir ao prazo de abertura e as obras já estarem terminadas, informação sobre a situação do empreendimento;
+
+c) Enunciado sumário, mas preciso, das razões justificativas da inobservância do prazo;
+
+d) Prazo que o requerente considera necessário para o termo das obras ou a abertura do empreedimento, com justificação sumária do prazo requerido.
+
+III - os requerimentos para declaração de utilidade turística, não tendo havido declaração prévia, deverão ser instruídos com os seguintes elementos:
+
+a) Questionário devidamente preenchido, em impresso a fornecer pela Direcção-Geral do Turismo;
+
+b) Memória descritiva especificando a localização e características do empreendimento, com vista a demonstrar a sua adequação aos requisitos legais de atribuição da utilidade turística enunciados no artigo 11.º, § único, da [Lei n.º 2073](https://diariodarepublica.pt/dr/detalhe/lei/2073-1954-675814), de 23 de Dezembro de 1954, e em VII do presente despacho normativo;
+
+c) Fotografias do exterior e do interior do estabelecimento, no formato 18 cm x 24 cm, que permitam apreciar a sua feição estética e nível de decoração e de conforto;
+
+d) Pacto social da requerente, sendo uma sociedade comercial, ou os estatutos, tratando-se de uma associação ou fundação;
+
+e) Indicação dos meios de financiamento utilizados e a utilizar no empreendimento, com menção do capital próprio e do capital alheio, bem como das fontes e condições de obtenção deste último (prazo de amortização e taxa de juro);
+
+f) Balanços aprovados dos três últimos exercícios, sendo a requerente uma sociedade comercial, ou os balanços dos exercícios, se a sociedade tiver menos de três anos de actividade.
+
+IV - Os requerimentos para confirmação da declaração prévia de utilidade turística deverão ser instruídos com os seguintes elementos:
+
+a) Data de abertura ao público do empreendimento;
+
+b) Classificação atribuída ao estabelecimento;
+
+c) Fotografias do exterior e do interior do estabelecimento, no formato 18 cm x 24 cm, que permitam apreciar a sua feição estética e nível de decoração e de conforto;
+
+d) Indicação dos meios de financiamento utilizados e a utilizar no empreendimento, com menção do capital próprio e do capital alheio, bem como das fontes e condições de obtenção deste último (prazo de amortização e taxa de juro), quando não tiverem já sido indicados;
+
+e) Balanços aprovados dos exercícios posteriores ao requerimento para a declaração prévia.
+
+V - Nos casos previstos em III e IV, a Direcção-Geral do Turismo instruirá os processos com os seguintes elementos:
+
+a) Informação relativa aos condicionamentos estabelecidos na utilidade turística prévia e que por sua natureza sejam desde logo verificáveis;
+
+b) Informação sobre a qualidade de serviço do estabelecimento.
+
+VI - Os requerimentos para transferência de direitos e deveres emergentes da declaração de utilidade turística devem ser subscritos pela entidade que pretende a transferência e instruídos com os documentos comprovativos da celebração do negócio jurídico que a fundamenta.
+
+VII - Os pedidos de declaração de utilidade turística serão apreciados tendo em conta fundamentalmente os seguintes parâmetros:
+
+a) A localização e tipo dos empreendimentos, em função do interesse turístico;
+
+b) O tipo de instalações e serviços;
+
+c) O nível, verificado ou presumível, de tais instalações e serviços;
+
+d) A função do empreendimento no âmbito das infra-estruturas turísticas da região;
+
+e) A sua contribuição para o desenvolvimento regional;
+
+f) A capacidade financeira da empresa promotora;
+
+g) A adequação do empreendimento à política de turismo definida pelos órgãos estaduais competentes.
+
+VIII - Além dos elementos referidos em I, II, III, IV e VI, a Direcção-Geral do Turismo poderá solicitar aos interessados todos os demais elementos que se mostrem necessários para a correcta apreciação do pedido e fundamentação da proposta.
+
+IX - No prazo de quinze dias a contar da entrada nos serviços dos requerimentos, a Direcção-Geral do Turismo solicitará aos interessados quaisquer elementos que se encontrem em falta ou que se mostrem necessários para a instrução dos processos.
+
+X - Na Direcção-Geral do Turismo funcionará uma comissão, constituída pelo director dos Serviços de Equipamento e Património, director dos Serviços de Empresas e Actividades Turísticas, director do Fundo do Turismo e um técnico jurista daquela Direcção-Geral, à qual competirá informar e propor para despacho os processos de utilidade turística.
+
+XI - A comissão deverá pronunciar-se sobre o requerido no prazo de noventa dias, contado nos termos seguintes:
+
+a) A partir da data da aprovação da localização ou do projecto, conforme for o caso, ou da entrada do requerimento nos serviços, se for posterior, tratando-se de declaração de utilidade turística a título prévio;
+
+b) A partir da data da entrada do requerimento nos serviços, tratando-se de declaração de utilidade turística sem que tenha havido declaração prévia, ou de confirmação da declaração prévia.
+
+XII - É revogado o despacho normativo do Secretário de Estado do Comércio Externo e Turismo de 25 de Junho de 1974, relativo às normas a observar no procedimento das declarações de utilidade turística, publicado no Diário do Governo, 1.ª série, n.º 168, de 20 de Julho de 1974.
+
+Ministério do Comércio e Turismo, 30 de Outubro de 1978. - O Secretário de Estado do Turismo, João Coentro Padrão.

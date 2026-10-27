@@ -1,0 +1,116 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:396525:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regional/1982-993782287",
+ "dre_path": "/dr/detalhe/decreto-regional/10-1982-396525",
+ "source_lastmod": "2026-01-06",
+ "versions": [
+  {
+   "date": "1982-08-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "993774208",
+    "993774209",
+    "993774210",
+    "993774211",
+    "993774212"
+   ]
+  },
+  {
+   "date": "2025-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993031451:por",
+     "title": "Decreto Legislativo Regional n.º 8/2025/M",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2025-993031451"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "993774208",
+    "993774214",
+    "993774215",
+    "993774211",
+    "993774212",
+    "993774213"
+   ]
+  }
+ ],
+ "fragments": {
+  "993774208": {
+   "fragment_id": "993782288",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regional n.º 10/82/M\n\nCores dos automóveis ligeiros de passageiros de aluguer na Região Autónoma da Madeira\n\nSendo a Madeira particularmente vocacionada para o turismo, verifica-se a necessidade específica de ter em particular atenção os aspectos estéticos do ambiente da Região, nomeadamente o citadino, dentro desta ordem de ideias que se decide alterar as cores padrão dos automóveis ligeiros de passageiros de aluguer, declarando as novas cores cativas destes, de modo a vedar a sua utilização por outros veículos.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, a Assembleia Regional da Madeira determina, para valer como lei, o seguinte:"
+  },
+  "993774209": {
+   "fragment_id": "993782289",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPassam a ser cores cativas dos automóveis ligeiros de passageiros de aluguer, na Região Autónoma da Madeira, o azul cerúleo, com uma risca amarela de cádmio, ou este amarelo de cádmio, com uma risca longitudinal daquele azul cerúleo."
+  },
+  "993774210": {
+   "fragment_id": "993782290",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA contravenção do disposto no número anterior será punida com a multa de 1000$00 a 5000$00, nos termos do n.º 14.º do artigo 20.º do Regulamento do Código da Estrada."
+  },
+  "993774211": {
+   "fragment_id": "993782291",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNos termos do artigo 3,0 do Decreto Regional n.º 4/81/M, de 15 de Abril, o Secretário Regional do Comércio e Transportes regulamentará os requisitos dos veículos automóveis ligeiros de passageiros de aluguer na Região."
+  },
+  "993774212": {
+   "fragment_id": "993782292",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "993774214": {
+   "fragment_id": "993782289",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 90.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Passam a ser cores cativas dos automóveis ligeiros de passageiros de aluguer, na Região Autónoma da Madeira, o azul cerúleo, com uma risca amarela de cádmio, ou este amarelo de cádmio, com uma risca longitudinal daquele azul cerúleo.\n\n2 - O disposto no número anterior não se aplica aos veículos isentos de distintivos e cor padrão Tipologia A.\n\n> Alterado pelo/a Artigo 90.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+  },
+  "993774215": {
+   "fragment_id": "993782290",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 90.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO incumprimento do disposto no n.º 1 do artigo anterior constitui contraordenação punível nos termos da alínea e) do n.º 1 do artigo 35.º do Decreto-Lei n.º 101/2023, de 31 de outubro, que aprova o regime jurídico do serviço público de transporte de passageiros em táxi.\n\n> Alterado pelo/a Artigo 90.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01"
+  },
+  "993774213": {
+   "fragment_id": "993782293",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária aos 4 de Março de 1982.\n\nO Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.\n\nAssinado em 2 de Agosto de 1982.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel."
+  }
+ }
+}

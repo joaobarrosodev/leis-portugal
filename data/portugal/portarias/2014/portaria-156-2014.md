@@ -1,0 +1,243 @@
+---
+schema_version: '1.0'
+id: pt:dre:56053277:por
+title: Portaria n.º 156/2014
+short_title: null
+summary: Fixa, para vigorar em 2014, o preço da habitação por metro quadrado de área útil, bem como as condições de alienação
+  e a fórmula de cálculo do preço de venda dos terrenos destinados a programas de habitação de custos controlados
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Ambiente, Ordenamento do Território e Energia e da Solidariedade, Emprego e Segurança Social
+proposing_entity: null
+official_number: 156/2014
+official_date: null
+publication_date: '2014-08-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 154/2014, Série I de 2014-08-12
+  number: '154'
+  series: I
+  supplement: null
+  pages: 4188 - 4190
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/08/15400/0418804190.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/156/2014/08/12/p/dre/pt/html
+  oj: null
+  dre: '56053277'
+  dre_path: /dr/detalhe/portaria/156-2014-56053277
+  internal: pt:dre:56053277:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-2014-56053277
+  metadata_url: https://data.dre.pt/eli/port/156/2014/08/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-2014-56053277
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:35:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ce4f13ad53ae97aa16a1c198d33dd4c6c8c85a309a4999b19ce1aa9885f0412f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:35:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Habitação
+- Instituto da Habitação e da Reabilitação Urbana
+- Instituto de Gestão Financeira da Segurança Social
+- Prazo
+- Preço
+- Preço de Venda
+- Regulamento Geral das Edificações Urbanas
+relationships:
+- type: cites
+  target: pt:dre:192036:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260881:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:285300:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324488:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:456492:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:517175:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:565867:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:574892:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622306:por
+  label: null
+  source: null
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:35:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 156/2014
+
+de 12 de agosto
+
+O [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de abril, alterado pelos Decretos-Leis n.os [172/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), de 30 de maio, [342/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1990-565867), de 30 de outubro, [288/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), de 29 de agosto, e [116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de julho, estabelece o regime de alienação dos fogos de habitação social e dos terrenos que são propriedade do Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.) que sucedeu ao extinto Instituto de Gestão e Alienação do Património Habitacional do Estado, e do Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.).
+
+Resulta da alínea c) do n.º 2 do artigo 5.º, do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de abril, que o preço da habitação, por metro quadrado de área útil e por zonas do País, para cálculo do valor atualizado do fogo, é anualmente fixado por portaria do Ministro do Ambiente, Ordenamento do Território e Energia, ouvido o Ministro da Solidariedade, Emprego e Segurança Social.
+
+Decorre, por outro lado, dos artigos 6.º e 7.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de abril, na sua atual redação, que o Governo, através de portaria dos Ministros do Ambiente, Ordenamento do Território e Energia e da Solidariedade, Emprego e Segurança Social, define as condições de alienação e a fórmula de cálculo do preço de venda dos terrenos destinados a programas de habitação de custos controlados, bem como a fórmula de cálculo do preço de aquisição às autarquias locais de terrenos destas nos quais se encontrem implantados empreendimentos construídos pelo IHRU, I. P., ou pelo IGFSS, I. P..
+
+A Portaria n.º 79/2013, de 19 de fevereiro, definiu para o ano de 2013 os parâmetros e as fórmulas de cálculo indispensáveis à aplicação do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de abril, na sua atual redação.
+
+Nesta medida, cumpre fixar os valores e as condições acima referidos para o ano de 2014.
+
+Assim:
+
+Atento o disposto nos artigos 16.º-A e 20.º do [Decreto-Lei n.º 86-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2011-622306), de 12 de julho, alterado pelos Decretos-Lei n.os [246/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2012-192036), de 13 de novembro, [29/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2013-258495), de 21 de fevereiro, [60/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2013-260881), de 9 de maio, e [119/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2013-499049), de 21 de agosto, e nos termos da alínea c) do n.º 2 do artigo 5.º e do artigo 6.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de abril, alterado pelos Decretos-Leis n.os [172/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1990-574892), de 30 de maio, [342/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1990-565867), de 30 de outubro, [288/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), de 20 de agosto, e [116/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2008-456492), de 4 de julho, manda o Governo, pelo Ministro do Ambiente, do Ordenamento do Território e Energia e pelo Ministro da Solidariedade, Emprego e Segurança Social, o seguinte:
+
+###### Artigo 1.º — Preço da habitação por metro quadrado de área útil
+
+No ano de 2014, os preços da habitação, por metro quadrado de área útil (Pc), a que se refere a alínea c) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de abril, são, consoante as zonas do País constantes do quadro anexo à presente portaria e que desta faz parte integrante, os seguintes:
+
+a) Na zona I - (euro)679,35;
+
+b) Na zona II - (euro)602,92;
+
+c) Na zona III - (euro)557,91.
+
+###### Artigo 2.º — Preço de venda dos terrenos destinados a programas de habitação de custos controlados
+
+O preço de venda dos terrenos destinados a programas de habitação de custos controlados, a que se refere o artigo 6.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de abril, na redação que lhe foi conferida pelo [Decreto-Lei n.º 288/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), de 20 de agosto, é calculado pela aplicação da fórmula seguinte:
+
+Pv = p x Cf x Au x Pc
+
+em que:
+
+p = variável entre 0,07 e 0,15, por forma diretamente proporcional à percentagem de infraestruturas executadas;
+
+Cf = fator relativo ao nível de conforto do fogo, conforme definido no artigo 2.º do [Decreto-Lei n.º 329-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-2000-517175), de 22 de dezembro, o qual é fixado livremente para as áreas não habitacionais não incluídas nos fogos;
+
+Au = área útil, determinada nos termos do Regulamento Geral das Edificações Urbanas (RGEU), quer para a parte habitacional, quer para a não habitacional, excluindo a área das garagens quando estas estejam incluídas nos fogos;
+
+Pc = (euro)791,76 por metro quadrado de área útil para vigorar em 2014.
+
+###### Artigo 3.º — Condições de alienação de terrenos destinados a programas de habitação de custos controlados
+
+1 - Os terrenos afetos a programas de habitação de custos controlados, a que se refere o artigo 6.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de abril, na redação que lhe foi conferida pelo [Decreto-Lei n.º 288/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), de 20 de agosto, podem ser alienados, em propriedade plena, às seguintes entidades:
+
+a) Entidades públicas, mediante ajuste direto;
+
+b) Cooperativas de habitação e construção, instituições particulares de solidariedade social ou empresas privadas, que se proponham construir fogos no âmbito de programas sociais de habitação, selecionadas através de procedimento concursal.
+
+2 - A alienação de terrenos às entidades referidas na alínea b) do número anterior pode efetuar-se mediante ajuste direto, quando se verifique uma das seguintes situações:
+
+a) Ter ficado deserto o concurso público lançado para o efeito;
+
+b) Ser urgente a obtenção de habitações sociais para o realojamento de populações a desalojar para viabilizar a execução de obras públicas a cargo da administração central;
+
+c) Haver necessidade de realojamento de residentes em barracas e situações similares;
+
+d) Verificar-se caso de força maior.
+
+3 - A alienação de terrenos a instituições particulares de solidariedade social pode, ainda, efetuar-se mediante ajuste direto, desde que respeite, cumulativamente, as seguintes condições:
+
+a) Serem construídos empreendimentos habitacionais e equipamentos sociais com área bruta igual ou superior a 10% da área bruta dos fogos;
+
+b) As instituições adquirentes obrigarem-se a gerir esses empreendimentos e equipamentos pelo período mínimo de 15 anos a contar da data da alienação;
+
+c) Ficar a entidade alienante, ou entidade por aquela indicada, com o direito de preferência na aquisição destes equipamentos, aplicando-se o preço de venda das habitações de custos controlados.
+
+###### Artigo 4.º — Preço de aquisição dos terrenos das autarquias locais
+
+Para efeitos do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de abril, o preço a pagar pelo Instituto da Habitação e da Reabilitação Urbana, I. P., ou pelo Instituto de Gestão Financeira da Segurança Social, I. P., é calculado pela aplicação da fórmula seguinte:
+
+Pv = p x Cf x Cc x Au x Pc (1 - 0,85 Vt)
+
+em que:
+
+p = 0,07, quando as despesas com infraestruturas não tenham sido suportadas pelas autarquias; 0,11, quando as despesas com infraestruturas tenham sido parcialmente suportadas pelas autarquias; e 0,15, quando as despesas com infraestruturas tenham sido exclusivamente suportadas pelas autarquias;
+
+Cf = fator relativo ao nível de conforto do fogo, conforme definido no artigo 2.º do [Decreto-Lei n.º 329-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-2000-517175), de 22 de dezembro o qual terá o valor 1,1 para as áreas não habitacionais não incluídas nos fogos;
+
+Cc = 0,68;
+
+Au = Área útil, determinada nos termos do RGEU, quer para a parte habitacional, quer para a não habitacional, excluindo a área das garagens quando estas estejam incluídas nos fogos;
+
+Pc = preço da habitação por metro quadrado de área útil, a determinar nos termos do n.º 1.º da presente portaria;
+
+Vt = determinável nos termos da alínea b) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de abril, na redação que lhe foi conferida pelo [Decreto-Lei n.º 288/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1993-324488), de 20 de agosto.
+
+###### Artigo 5.º — Disposição transitória
+
+Entre 1 de janeiro de 2014 e a data da entrada em vigor da presente portaria, continua a aplicar-se às matérias por esta reguladas, o disposto na Portaria n.º 79/2013, de 19 de fevereiro.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 30 de julho de 2014.
+
+O Ministro do Ambiente, Ordenamento do Território e Energia, Jorge Manuel Lopes Moreira da Silva. - O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares.
+
+QUADRO ANEXO
+
+(a que se refere o artigo 1.º)
+
+Zonas do País
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2014/08/15400/0418804190.pdf)

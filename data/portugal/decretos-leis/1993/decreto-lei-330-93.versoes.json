@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:653125:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-886137923",
+ "dre_path": "/dr/detalhe/decreto-lei/330-1993-653125",
+ "source_lastmod": "2024-08-28",
+ "versions": [
+  {
+   "date": "1993-09-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886138781",
+    "886138782",
+    "886138783",
+    "886138784",
+    "886138785",
+    "886138786",
+    "886138787",
+    "886138788",
+    "886138789",
+    "886138790",
+    "886138791"
+   ]
+  },
+  {
+   "date": "1999-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345124:por",
+     "title": "Lei n.º 113/99",
+     "published": "1999-08-03",
+     "dre_path": "/dr/detalhe/lei/113-1999-345124"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "886138781",
+    "886138782",
+    "886138783",
+    "886138784",
+    "886138785",
+    "886138786",
+    "886138787",
+    "886138788",
+    "886138789",
+    "886138790",
+    "886138793",
+    "886138792"
+   ]
+  }
+ ],
+ "fragments": {
+  "886138781": {
+   "fragment_id": "886137924",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 330/93\n\nde 25 de Setembro\n\nO Decreto-Lei n.º 441/91, de 14 de Novembro, estabelece o regime jurídico do enquadramento da segurança, higiene e saúde no trabalho, referindo-se expressamente, no n.º 2 do seu artigo 23.º, à regulamentação derivada da transposição para o direito interno das directivas comunitárias.\n\nNestes termos, o presente diploma visa transpor para o direito interno a Directiva n.º 90/269/CEE, do Conselho, de 29 de Maio, relativa às prescrições mínimas de segurança e de saúde respeitantes à movimentação manual de cargas que comportem riscos, nomeadamente na região dorso-lombar, para os trabalhadores e que constitui a quarta directiva especial, na acepção do n.º 1 do artigo 16.º da Directiva n.º 89/391/CEE, do Conselho, de 12 de Junho.\n\nPretende-se corresponder à necessidade de fixação de prescrições mínimas de segurança e de saúde na movimentação manual de cargas, garantindo assim a melhoria da prevenção e de protecção dos trabalhadores envolvidos nessas operações, no quadro da dimensão social do mercado interno.\n\nO presente diploma foi apreciado em sede do Conselho Nacional de Segurança, Higiene e Saúde no Trabalho, reflectindo os consensos ali alcançados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886138782": {
+   "fragment_id": "886137925",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º 90/269/CEE, do Conselho, de 29 de Maio, relativa às prescrições mínimas de segurança e de saúde na movimentação manual de cargas."
+  },
+  "886138783": {
+   "fragment_id": "886137926",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente diploma tem o âmbito de aplicação estabelecido no artigo 2.º do Decreto-Lei n.º 441/91, de 14 de Novembro."
+  },
+  "886138784": {
+   "fragment_id": "886137927",
+   "type": 11,
+   "heading": "Artigo 3.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definição\n\nPara efeitos do presente diploma, entende-se por movimentação manual de cargas qualquer operação de transporte e sustentação de uma carga, por um ou mais trabalhadores, que, devido às suas características ou condições ergonómicas desfavoráveis, comporte riscos para os mesmos, nomeadamente na região dorso-lombar."
+  },
+  "886138785": {
+   "fragment_id": "886137928",
+   "type": 11,
+   "heading": "Artigo 4.º — Medidas gerais de prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Medidas gerais de prevenção\n\n1 - O empregador deve adoptar medidas de organização do trabalho adequadas ou utilizar os meios apropriados, nomeadamente equipamentos mecânicos, de modo a evitar a movimentação manual de cargas pelos trabalhadores.\n\n2 - Sempre que não seja possível evitar a movimentação manual de cargas, o empregador deve adoptar as medidas apropriadas de organização do trabalho, utilizar ou fornecer aos trabalhadores os meios adequados, a fim de que essa movimentação seja o mais segura possível."
+  },
+  "886138786": {
+   "fragment_id": "886137929",
+   "type": 11,
+   "heading": "Artigo 5.º — Avaliação de referência de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação de referência de risco\n\n1 - O empregador deve proceder à avaliação dos elementos de referência do risco da movimentação manual das cargas e das condições de segurança e de saúde daquele tipo de trabalho, considerando, nomeadamente:\n\na) As características da carga:\n\nCarga demasiado pesada - superior a 30 kg em operações ocasionais e superior a 20 kg em operações frequentes;\n\nCarga muito volumosa ou difícil de agarrar;\n\nCarga em equilíbrio instável ou com conteúdo sujeito a deslocações;\n\nCarga colocada de tal modo que deve ser mantida ou manipulada à distância do tronco, ou com flexão ou torção do tronco;\n\nCarga susceptível, devido ao seu aspecto exterior e à sua consistência, de provocar lesões no trabalhador, nomeadamente em caso de choque;\n\nb) O esforço físico exigido:\n\nQuando seja excessivo para o trabalhador;\n\nQuando apenas possa ser realizado mediante um movimento de torção do tronco;\n\nQuando possa implicar um movimento brusco da carga;\n\nQuando seja efectuado com o corpo em posição instável.\n\n2 - O empregador deve tomar as medidas apropriadas para evitar ou reduzir os riscos, nomeadamente para a região dorso-lombar, nas seguintes situações:\n\nEspaço livre, nomeadamente vertical, insuficiente para o exercício da actividade em causa;\n\nPavimento irregular que implique riscos de tropeçar ou seja escorregadio;\n\nPavimento ou plano de trabalho com desníveis que impliquem movimentação manual de cargas em diversos níveis;\n\nLocal ou condições de trabalho que não permitam ao trabalhador movimentar manualmente as cargas a uma altura segura ou numa postura correcta;\n\nPavimento ou ponto de apoio instáveis;\n\nTemperatura, humidade ou circulação de ar inadequadas.\n\n3 - O empregador deve tomar, ainda, medidas apropriadas quando a actividade implique:\n\nEsforços físicos que solicitem, nomeadamente, a coluna vertebral e sejam frequentes ou prolongados;\n\nPeríodo insuficiente de descanso fisiológico ou de recuperação;\n\nGrandes distâncias de elevação, abaixamento ou transporte;\n\nCadência que não possa ser controlada pelo trabalhador."
+  },
+  "886138787": {
+   "fragment_id": "886137930",
+   "type": 11,
+   "heading": "Artigo 6.º — Reavaliação dos elementos de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Reavaliação dos elementos de risco\n\nQuando as avaliações dos elementos de referência previstas no artigo anterior revelarem risco para a segurança e saúde dos trabalhadores, o empregador deve adoptar os seguintes procedimentos:\n\na) Identificar as causas de risco e os factores individuais de risco, nomeadamente a inadaptidão física, e tomar rapidamente as medidas correctivas apropriadas;\n\nb) Proceder a nova avaliação, a fim de verificar a eficácia das medidas correctivas adoptadas."
+  },
+  "886138788": {
+   "fragment_id": "886137931",
+   "type": 11,
+   "heading": "Artigo 7.º — Consulta dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Consulta dos trabalhadores\n\nOs trabalhadores, assim como os seus representantes na empresa ou estabelecimento, devem ser consultados sobre a aplicação das medidas previstas no presente diploma."
+  },
+  "886138789": {
+   "fragment_id": "886137932",
+   "type": 11,
+   "heading": "Artigo 8.º — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Informação e formação dos trabalhadores\n\n1 - O empregador deve facultar aos trabalhadores expostos, assim como aos seus representantes na empresa ou no estabelecimento, informação sobre:\n\na) Os riscos potenciais para a saúde derivados da incorrecta movimentação manual de cargas;\n\nb) O peso máximo e outras características da carga;\n\nc) O centro de gravidade da carga e o lado mais pesado da mesma, quando o conteúdo de uma embalagem tiver uma distribuição não uniforme de peso.\n\n2 - O empregador deve providenciar no sentido de os trabalhadores receberem formação adequada e informações precisas sobre a movimentação correcta de cargas."
+  },
+  "886138790": {
+   "fragment_id": "886137933",
+   "type": 11,
+   "heading": "Artigo 9.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fiscalização\n\nA fiscalização do cumprimento das disposições do presente diploma, assim como a aplicação das correspondentes sanções, compete ao Instituto do Desenvolvimento e Inspecção das Condições de Trabalho, sem prejuízo da competência fiscalizadora específica atribuída a outras entidades, conforme o disposto no artigo 21.º do Decreto-Lei n.º 441/91, de 14 de Novembro."
+  },
+  "886138791": {
+   "fragment_id": "886137934",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima:\n\na) De 50000$00 a 200000$00, a violação dos deveres de informação e de formação previstos no artigo 8.º, bem como do dever de consulta previsto no artigo 7.º;\n\nb) De 80000$00 a 250000$00, a violação dos deveres previstos nos n.os 2 e 3 do artigo 5.º e no artigo 6.º\n\n2 - Metade do produto das coimas reverte para o Fundo de Garantia e Actualização de Pensões, destinando-se a outra metade à entidade que as aplica, em conformidade com o disposto no artigo 4.º do Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto."
+  },
+  "886138793": {
+   "fragment_id": "886137934",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 10.º — Contra-ordenações\n\nConstitui contra-ordenação grave a violação dos n.os 2 e 3 do artigo 5.º e dos artigos 6.º, 7.º e 8.º\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+  },
+  "886138792": {
+   "fragment_id": "886137935",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Filipe Alves Monteiro - José Martins Nunes - José Albino da Silva Peneda.\n\nPromulgado em 3 de Setembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 7 de Setembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

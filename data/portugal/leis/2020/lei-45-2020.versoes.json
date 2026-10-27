@@ -1,0 +1,148 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:140631236:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-140695730",
+ "dre_path": "/dr/detalhe/lei/45-2020-140631236",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215713407",
+    "140630125",
+    "140630126",
+    "140630127",
+    "140630128"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:145132198:por",
+     "title": "Declaração de Retificação n.º 39/2020",
+     "published": "2020-10-12",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/39-2020-145132198",
+     "date": "2020-08-21"
+    }
+   ]
+  },
+  {
+   "date": "2023-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215097639:por",
+     "title": "Lei n.º 31/2023",
+     "published": "2023-07-04",
+     "dre_path": "/dr/detalhe/lei/31-2023-215097639"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "215713407",
+    "215713408",
+    "215713409",
+    "215713410",
+    "215713411",
+    "215713412"
+   ]
+  }
+ ],
+ "fragments": {
+  "215713407": {
+   "fragment_id": "140695731",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-05",
+   "changed_by": [],
+   "markdown": "Lei n.º 45/2020\n\nde 20 de agosto\n\nSumário: Altera o regime excecional para as situações de mora no pagamento da renda nos contratos de arrendamento não habitacional, no âmbito da pandemia da doença COVID-19, procedendo à segunda alteração à Lei n.º 4-C/2020, de 6 de abril.\n\nAltera o regime excecional para as situações de mora no pagamento da renda nos contratos de arrendamento não habitacional, no âmbito da pandemia da doença COVID-19, procedendo à segunda alteração à Lei n.º 4-C/2020, de 6 de abril\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "140630125": {
+   "fragment_id": "140695732",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à segunda alteração à Lei n.º 4-C/2020, de 6 de abril, alterada pela Lei n.º 17/2020, de 29 de maio, que estabelece um regime excecional para as situações de mora no pagamento da renda devida nos termos de contratos de arrendamento urbano habitacional e não habitacional, no âmbito da pandemia da doença COVID-19."
+  },
+  "140630126": {
+   "fragment_id": "140695733",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 4-C/2020, de 6 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 4-C/2020, de 6 de abril\n\nOs artigos 8.º, 10.º e 14.º da Lei n.º 4-C/2020, de 6 de abril, passam a ter a seguinte redação:\n\n«Artigo 8.º\n\n[...]\n\n1 - O arrendatário que preencha o disposto no artigo anterior pode diferir o pagamento das rendas vencidas:\n\na) Nos meses em que vigore o estado de emergência e no primeiro mês subsequente;\n\nb) Nos meses em que, ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19, seja determinado o encerramento das suas instalações ou suspensão da respetiva atividade;\n\nc) Nos três meses subsequentes àquele em que ocorra o levantamento da imposição do encerramento das suas instalações ou da suspensão da respetiva atividade.\n\n2 - Nos casos previstos no número anterior:\n\na) O diferimento não pode, em qualquer caso, aplicar-se a rendas que se vençam após 31 de dezembro de 2020;\n\nb) O período de regularização da dívida tem início a 1 de janeiro de 2021 e prolonga-se até 31 de dezembro de 2022;\n\nc) O pagamento é efetuado em 24 prestações sucessivas, de valor correspondente ao resultante do rateio do montante total em dívida por 24, liquidadas juntamente com a renda do mês em causa ou até ao oitavo dia do calendário de cada mês, no caso de renda não mensal.\n\n3 - Para efeitos do disposto na alínea b) do número anterior, o montante total em dívida exclui as rendas vencidas e já pagas, as quais se consideram, para todos os efeitos, liquidadas.\n\n4 - Sem prejuízo do disposto no n.º 3, o arrendatário pode, a qualquer altura, proceder ao pagamento total ou parcial das prestações em dívida.\n\n5 - Os senhorios cujos arrendatários deixem de pagar as rendas nos termos dos n.os 1 a 3 podem solicitar a concessão de uma linha de crédito com custos reduzidos, a regulamentar, para suportar a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento mensal ou à faturação mensal do senhorio, de uma taxa de esforço máxima de 35 %, cuja demonstração é efetuada nos termos da portaria a aprovar pelo membro do governo responsável pela área da economia.\n\nArtigo 10.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - Sem prejuízo do disposto no número anterior, o presente capítulo não se aplica aos estabelecimentos inseridos em conjuntos comerciais que beneficiem do regime previsto no n.º 5 do artigo 168.º-A da Lei n.º 2/2020, de 31 de março, na redação que lhe foi dada pela Lei n.º 27-A/2020, de 24 de julho.\n\nArtigo 14.º\n\n[...]\n\n1 - [...]\n\n2 - O disposto no artigo 8.º-A é aplicável às rendas que se vençam a partir de 1 de julho de 2020 até ao dia 31 de dezembro de 2020, sendo de 20 dias o prazo indicado no n.º 1 do artigo 8.º-A para as rendas que se vençam durante o mês de julho de 2020.»"
+  },
+  "140630127": {
+   "fragment_id": "140695734",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento à Lei n.º 4-C/2020, de 6 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento à Lei n.º 4-C/2020, de 6 de abril\n\nSão aditados à Lei n.º 4-C/2020, de 6 de abril, os artigos 8.º-A, 12.º-A e 13.º-A com a seguinte redação:\n\n«Artigo 8.º-A\n\nDever de comunicação e proposta de acordo\n\n1 - O arrendatário que pretenda beneficiar do regime previsto no artigo anterior deve comunicar a sua intenção ao senhorio, por escrito e até cinco dias antes do vencimento da primeira renda em que pretenda beneficiar deste regime, mediante carta registada com aviso de receção, enviada para a respetiva morada constante do contrato de arrendamento ou da sua comunicação imediatamente anterior.\n\n2 - Em alternativa à comunicação prevista no número anterior, o arrendatário pode endereçar ao senhorio, mediante carta registada com aviso de receção, enviada para a respetiva morada constante do contrato de arrendamento ou da sua comunicação imediatamente anterior, uma proposta de acordo de pagamento das rendas vencidas e vincendas, diferente da solução prevista no artigo anterior.\n\n3 - As comunicações previstas nos n.os 1 e 2 devem conter, para além dos elementos ali indicados, sob pena de ineficácia:\n\na) O prazo de resposta de 10 dias, nos termos do n.º 4, considerando-se como falta de resposta o incumprimento deste prazo;\n\nb) O conteúdo que pode apresentar a resposta, nos termos dos n.os 4 e 6;\n\nc) As consequências da falta de resposta, nos termos do n.º 5.\n\n4 - A aceitação do acordo ou a respetiva recusa devem ser transmitidas pelo senhorio, por escrito, através de carta registada com aviso de receção para a morada do locado, no prazo de 10 dias após a receção da proposta do arrendatário.\n\n5 - Em caso de ausência de resposta do senhorio ou de resposta transmitida depois do prazo previsto no número anterior, presume-se que o senhorio manifesta o seu acordo à proposta do arrendatário.\n\n6 - O senhorio pode, no prazo previsto no n.º 3, formular uma contraproposta ao arrendatário, à qual este deve responder no prazo de 10 dias, determinando a rejeição da mesma pelo arrendatário ou a ausência de resposta deste dentro do prazo a aplicabilidade do regime previsto no artigo anterior.\n\n7 - O disposto no n.º 1 do artigo 10.º do Novo Regime do Arrendamento Urbano (NRAU) não se aplica às comunicações referidas nos n.os 1 e 2 deste artigo, aplicando-se, nesta situação, o regime previsto nos n.os 3 a 5 daquela disposição legal.\n\nArtigo 12.º-A\n\nGarantias bancárias\n\nNo decurso da situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19, o senhorio não pode executar garantias bancárias pelo incumprimento no pagamento de rendas não habitacionais.\n\nArtigo 13.º-A\n\nRegimes mais favoráveis\n\n1 - O disposto na presente lei não prejudica a existência de regimes mais favoráveis ao arrendatário, decorrentes da lei ou de acordo, celebrado ou a celebrar entre as partes, nomeadamente acordos de perdão de dívida ou acordos de diferimento no pagamento de rendas mais benéficos para o arrendatário.\n\n2 - Nos casos de arrendamento não habitacional, existindo acordo previamente celebrado que estabeleça condições menos favoráveis para o arrendatário, o mesmo fica sem efeito mediante comunicação a enviar pelo arrendatário, no prazo de 30 dias após a entrada em vigor da Lei n.º 45/2020, de 20 de agosto, para a morada do senhorio constante do contrato de arrendamento ou da sua comunicação imediatamente anterior, através da qual o arrendatário manifesta a intenção de aplicar o presente regime.\n\n3 - São nulas as cláusulas de renúncia a direitos atribuídos pela presente lei ou de recurso a meios judiciais e de aceitação de aumentos de renda ou do período do contrato dispostas nos contratos referidos no número anterior.\n\n4 - No caso previsto no n.º 2, as quantias que já tenham sido pagas a título de renda não são devolvidas ao arrendatário, relevando antes para efeitos de cálculo do montante total em dívida a que se refere a alínea b) do n.º 3 do artigo 8.º\n\n5 - O disposto no n.º 1 do artigo 10.º do NRAU não se aplica à comunicação referida no n.º 1 deste artigo, aplicando-se, nesta situação, o regime previsto nos n.os 3 a 5 daquela disposição legal.»"
+  },
+  "140630128": {
+   "fragment_id": "140695735",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "215713408": {
+   "fragment_id": "140695732",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à segunda alteração à Lei n.º 4-C/2020, de 6 de abril, alterada pela Lei n.º 17/2020, de 29 de maio, que estabelece um regime excecional para as situações de mora no pagamento da renda devida nos termos de contratos de arrendamento urbano habitacional e não habitacional, no âmbito da pandemia da doença COVID-19.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713409": {
+   "fragment_id": "140695733",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 4-C/2020, de 6 de abril",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21"
+   ],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 4-C/2020, de 6 de abril\n\nOs artigos 8.º, 10.º e 14.º da Lei n.º 4-C/2020, de 6 de abril, passam a ter a seguinte redação:\n\n«Artigo 8.º\n\n[...]\n\n1 - O arrendatário que preencha o disposto no artigo anterior pode diferir o pagamento das rendas vencidas:\n\na) Nos meses em que vigore o estado de emergência e no primeiro mês subsequente;\n\nb) Nos meses em que, ao abrigo de disposição legal ou medida administrativa aprovada no âmbito da pandemia da doença COVID-19, seja determinado o encerramento das suas instalações ou suspensão da respetiva atividade;\n\nc) Nos três meses subsequentes àquele em que ocorra o levantamento da imposição do encerramento das suas instalações ou da suspensão da respetiva atividade.\n\n2 - Nos casos previstos no número anterior:\n\na) O diferimento não pode, em qualquer caso, aplicar-se a rendas que se vençam após 31 de dezembro de 2020;\n\nb) O período de regularização da dívida tem início a 1 de janeiro de 2021 e prolonga-se até 31 de dezembro de 2022;\n\nc) O pagamento é efetuado em 24 prestações sucessivas, de valor correspondente ao resultante do rateio do montante total em dívida por 24, liquidadas juntamente com a renda do mês em causa ou até ao oitavo dia do calendário de cada mês, no caso de renda não mensal.\n\n3 - Para efeitos do disposto na alínea b) do número anterior, o montante total em dívida exclui as rendas vencidas e já pagas, as quais se consideram, para todos os efeitos, liquidadas.\n\n4 - Sem prejuízo do disposto no n.º 2, o arrendatário pode, a qualquer altura, proceder ao pagamento total ou parcial das prestações em dívida.\n\n5 - Os senhorios cujos arrendatários deixem de pagar as rendas nos termos dos n.os 1 e 2 podem solicitar a concessão de uma linha de crédito com custos reduzidos, a regulamentar, para suportar a diferença entre o valor da renda mensal devida e o valor resultante da aplicação ao rendimento mensal ou à faturação mensal do senhorio, de uma taxa de esforço máxima de 35 %, cuja demonstração é efetuada nos termos da portaria a aprovar pelo membro do Governo responsável pela área da economia.\n\nArtigo 10.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - Sem prejuízo do disposto no número anterior, o presente capítulo não se aplica aos estabelecimentos inseridos em conjuntos comerciais que beneficiem do regime previsto no n.º 5 do artigo 168.º-A da Lei n.º 2/2020, de 31 de março, na redação que lhe foi dada pela Lei n.º 27-A/2020, de 24 de julho.\n\nArtigo 14.º\n\n[...]\n\n1 - [...]\n\n2 - O disposto nos artigos 5.º e 11.º é aplicável às rendas que se vençam a partir do dia 1 de abril de 2020 até ao dia 1 de setembro de 2020.\n\n3 - O disposto no artigo 8.º-A é aplicável às rendas que se vençam a partir de 1 de julho de 2020 até ao dia 31 de dezembro de 2020, sendo de 20 dias o prazo indicado no n.º 1 do artigo 8.º-A para as rendas que se vençam durante o mês de julho de 2020.»\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21"
+  },
+  "215713410": {
+   "fragment_id": "140695734",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento à Lei n.º 4-C/2020, de 6 de abril",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21"
+   ],
+   "markdown": "###### Artigo 3.º — Aditamento à Lei n.º 4-C/2020, de 6 de abril\n\nSão aditados à Lei n.º 4-C/2020, de 6 de abril, os artigos 8.º-A, 12.º-A e 13.º-A com a seguinte redação:\n\n«Artigo 8.º-A\n\nDever de comunicação e proposta de acordo\n\n1 - O arrendatário que pretenda beneficiar do regime previsto no artigo anterior deve comunicar a sua intenção ao senhorio, por escrito e até cinco dias antes do vencimento da primeira renda em que pretenda beneficiar deste regime, mediante carta registada com aviso de receção, enviada para a respetiva morada constante do contrato de arrendamento ou da sua comunicação imediatamente anterior.\n\n2 - Em alternativa à comunicação prevista no número anterior, o arrendatário pode endereçar ao senhorio, mediante carta registada com aviso de receção, enviada para a respetiva morada constante do contrato de arrendamento ou da sua comunicação imediatamente anterior, uma proposta de acordo de pagamento das rendas vencidas e vincendas, diferente da solução prevista no artigo anterior.\n\n3 - As comunicações previstas nos n.os 1 e 2 devem conter, para além dos elementos ali indicados, sob pena de ineficácia:\n\na) O prazo de resposta de 10 dias, nos termos do n.º 4, considerando-se como falta de resposta o incumprimento deste prazo;\n\nb) O conteúdo que pode apresentar a resposta, nos termos dos n.os 4 e 6;\n\nc) As consequências da falta de resposta, nos termos do n.º 5.\n\n4 - A aceitação do acordo ou a respetiva recusa devem ser transmitidas pelo senhorio, por escrito, através de carta registada com aviso de receção para a morada do locado, no prazo de 10 dias após a receção da proposta do arrendatário.\n\n5 - Em caso de ausência de resposta do senhorio ou de resposta transmitida depois do prazo previsto no número anterior, presume-se que o senhorio manifesta o seu acordo à proposta do arrendatário.\n\n6 - O senhorio pode, no prazo previsto no n.º 3, formular uma contraproposta ao arrendatário, à qual este deve responder no prazo de 10 dias, determinando a rejeição da mesma pelo arrendatário ou a ausência de resposta deste dentro do prazo a aplicabilidade do regime previsto no artigo anterior.\n\n7 - O disposto no n.º 1 do artigo 10.º do Novo Regime do Arrendamento Urbano (NRAU) não se aplica às comunicações referidas nos n.os 1 e 2 deste artigo, aplicando-se, nesta situação, o regime previsto nos n.os 3 a 5 daquela disposição legal.\n\nArtigo 12.º-A\n\nGarantias bancárias\n\nNo decurso da situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19, o senhorio não pode executar garantias bancárias pelo incumprimento no pagamento de rendas não habitacionais.\n\nArtigo 13.º-A\n\nRegimes mais favoráveis\n\n1 - O disposto na presente lei não prejudica a existência de regimes mais favoráveis ao arrendatário, decorrentes da lei ou de acordo, celebrado ou a celebrar entre as partes, nomeadamente acordos de perdão de dívida ou acordos de diferimento no pagamento de rendas mais benéficos para o arrendatário.\n\n2 - Nos casos de arrendamento não habitacional, existindo acordo previamente celebrado que estabeleça condições menos favoráveis para o arrendatário, o mesmo fica sem efeito mediante comunicação a enviar pelo arrendatário, no prazo de 30 dias após a entrada em vigor da Lei n.º 45/2020, de 20 de agosto, para a morada do senhorio constante do contrato de arrendamento ou da sua comunicação imediatamente anterior, através da qual o arrendatário manifesta a intenção de aplicar o presente regime.\n\n3 - São nulas as cláusulas de renúncia a direitos atribuídos pela presente lei ou de recurso a meios judiciais e de aceitação de aumentos de renda ou do período do contrato dispostas nos contratos referidos no número anterior.\n\n4 - No caso previsto no n.º 2, as quantias que já tenham sido pagas a título de renda não são devolvidas ao arrendatário, relevando antes para efeitos de cálculo do montante total em dívida a que se refere a alínea b) do n.º 3 do artigo 8.º\n\n5 - O disposto no n.º 1 do artigo 10.º do NRAU não se aplica à comunicação referida no n.º 2 deste artigo, aplicando-se, nesta situação, o regime previsto nos n.os 3 a 5 daquela disposição legal.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Retificado pelo/a [Declaração de Retificação n.º 39/2020 - Diário da República n.º 198/2020, Série I de 2020-10-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/39-2020-145132198), em vigor a partir de 2020-08-21"
+  },
+  "215713411": {
+   "fragment_id": "140695735",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215713412": {
+   "fragment_id": "140695736",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "Aprovada em 23 de julho de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 10 de agosto de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 12 de agosto de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113492149\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  }
+ }
+}

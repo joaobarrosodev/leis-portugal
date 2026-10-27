@@ -1,0 +1,476 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0119:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0119-20200101",
+ "dre_path": null,
+ "source_lastmod": "2020-01-01",
+ "versions": [
+  {
+   "date": "2009-10-09",
+   "future": false,
+   "celex": "32009L0119",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c4481fccb97591d6",
+    "3703dd69221a5ab9",
+    "8bdefe9a0b6e709d",
+    "f3150aef6aaf725e",
+    "53e7da3a3b42b93d",
+    "d2b8744aa86f38ed",
+    "14b4548f76bd822d",
+    "09b07648a4a8cb4c",
+    "30cfe261d0f4ef6a",
+    "2926bbc8a1f6b6b6",
+    "9dde328eada9cff5",
+    "88053250df658910",
+    "11d6f2f2390055fb",
+    "32af5128fd3e0043",
+    "ef770eec0de4bf2c",
+    "2475768aabcc94db",
+    "e9bce13b4844fa57",
+    "5037b13e0fad31f5",
+    "1aa9b71230ffd93e",
+    "c8bdd25b07e259b9",
+    "6cc5a20b41b40119",
+    "669437ae28014485",
+    "d6b38239ee1e4cda",
+    "64166738bf78f665",
+    "5bf97c5c7c3026c9",
+    "7d905325f68048f3",
+    "0aa20b3f362c68d0",
+    "b98f5e6a07ef9a00",
+    "8759acfaa6d26111"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "celex": "02009L0119-20200101",
+   "acts": [
+    {
+     "id": "eu:celex:32018L1581:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2018/1581 DA COMISSÃO de 19 de outubro de 2018",
+     "published": null,
+     "celex": "32018L1581"
+    },
+    {
+     "id": "eu:celex:32018R1999:por",
+     "title": "REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018",
+     "published": null,
+     "celex": "32018R1999"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Reservas de segurança — Cálculo das obrigações de armazenagem",
+    "Altera Artigo 6.º — Registo das reservas de segurança — Relatório anual",
+    "Altera Artigo 9.º — Reservas específicas",
+    "Altera Artigo 27.º — Destinatários",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita MÉTODO DE CÁLCULO DO EQUIVALENTE DE PETRÓLEO BRUTO DAS IMPORTAÇÕES DE PRODUTOS PETROLÍFEROS",
+    "Adita ANEXO II",
+    "Adita MÉTODO DE CÁLCULO DO EQUIVALENTE DE PETRÓLEO BRUTO DO CONSUMO INTERNO",
+    "Adita ANEXO III",
+    "Adita MÉTODOS APLICÁVEIS AO CÁLCULO DO NÍVEL DE RESERVAS MANTIDO",
+    "Adita ANEXO IV",
+    "Adita Regras para a elaboração e comunicação à Comissão dos resumos estatísticos relativos ao nível das reservas a manter em aplicação do artigo 3.º"
+   ],
+   "fragments": [
+    "2707d32ae9e1713f",
+    "3703dd69221a5ab9",
+    "fa30fb91a1a33087",
+    "b8eb2fddda6febda",
+    "53e7da3a3b42b93d",
+    "d2b8744aa86f38ed",
+    "739fa0a5e50d5220",
+    "09b07648a4a8cb4c",
+    "30cfe261d0f4ef6a",
+    "695f1bb09e9ea2ef",
+    "9dde328eada9cff5",
+    "88053250df658910",
+    "11d6f2f2390055fb",
+    "32af5128fd3e0043",
+    "ef770eec0de4bf2c",
+    "2475768aabcc94db",
+    "e9bce13b4844fa57",
+    "5037b13e0fad31f5",
+    "1aa9b71230ffd93e",
+    "c8bdd25b07e259b9",
+    "6cc5a20b41b40119",
+    "669437ae28014485",
+    "d6b38239ee1e4cda",
+    "64166738bf78f665",
+    "5bf97c5c7c3026c9",
+    "7d905325f68048f3",
+    "0aa20b3f362c68d0",
+    "cecd13c0cda4b08a",
+    "d664376e2a8dcecd",
+    "51cbff296d2a7cfe",
+    "852174729551523b",
+    "5b823453833bd970",
+    "720af75c92791b10",
+    "fdc751f22a5e7adb",
+    "e03a0eb4d5b2eef3",
+    "fd95189ead72f07e",
+    "6b29b6ccb6d3ce4c"
+   ]
+  }
+ ],
+ "fragments": {
+  "c4481fccb97591d6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Setembro de 2009\n\nque obriga os Estados-Membros a manterem um nível mínimo de reservas de petróleo bruto e/ou de produtos petrolíferos\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 100.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntr1-L_2009265PT.01000901-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntr2-L_2009265PT.01000901-E0002),\n\nApós consulta à Autoridade Europeia para a Protecção de Dados [([^3])](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntr3-L_2009265PT.01000901-E0003),\n\nConsiderando o seguinte:\n\n(1) O aprovisionamento da Comunidade em petróleo bruto e produtos petrolíferos continua a ser importantíssimo, nomeadamente para o sector dos transportes e para a indústria química.\n\n(2) A concentração cada vez maior da produção, a diminuição das reservas petrolíferas, bem como o aumento do consumo mundial de produtos petrolíferos, contribuem para o aumento dos riscos de ocorrência de dificuldades no aprovisionamento.\n\n(3) No seu Plano de Acção (2007-2009), intitulado «Uma política energética para a Europa», o Conselho Europeu sublinhou a necessidade de reforçar a segurança do aprovisionamento, tanto no que respeita à União Europeia (UE) no seu conjunto como a cada Estado-Membro, analisando, designadamente, os mecanismos de armazenagem de petróleo da União, com especial destaque para a disponibilidade de petróleo em caso de crise.\n\n(4) Este objectivo pressupõe, nomeadamente, uma aproximação entre o sistema comunitário e o previsto pela Agência Internacional da Energia (adiante designada «AIE»).\n\n(5) Segundo as disposições da Directiva 2006/67/CE do Conselho, de 24 de Julho de 2006, que obriga os Estados-Membros a manterem um nível mínimo de reservas de petróleo bruto e/ou de produtos petrolíferos [([^4])](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntr4-L_2009265PT.01000901-E0004), as reservas são calculadas com base no consumo interno diário médio do ano civil anterior. Em contrapartida, as obrigações de armazenagem impostas em aplicação do Acordo relativo ao Programa Internacional de Energia de 18 de Novembro de 1974 (adiante designado «Acordo AIE») são calculadas com base nas importações líquidas de petróleo e de produtos petrolíferos. Por este motivo, e também devido a outras diferenças de metodologia, é necessário adaptar os métodos de cálculo das obrigações de armazenagem e das reservas de segurança comunitárias, a fim de os aproximar dos métodos utilizados no âmbito do Acordo AIE, tendo contudo presente que os métodos de cálculo da AIE poderão ter de ser avaliados à luz da evolução tecnológica das últimas décadas, e que os países não membros da AIE que são totalmente dependentes das importações poderão necessitar de um período mais longo para adaptarem as suas obrigações de armazenagem. Novas alterações aos métodos e processos de cálculo dos níveis de reservas podem ser necessárias e benéficas para aumentar a coerência com as práticas da AIE incluindo, por exemplo, alterações que levem a baixar, em certos Estados-Membros, a percentagem de redução de 10 % aplicada no cálculo das reservas, que permitam dar um tratamento diferente às reservas de nafta ou que permitam incluir no cálculo as reservas detidas em petroleiros nas águas territoriais de um Estado-Membro.\n\n(6) A produção interna de petróleo pode contribuir, por si própria, para a segurança do aprovisionamento e poderá assim justificar que os Estados-Membros produtores de petróleo detenham reservas inferiores às dos outros Estados-Membros. Nenhuma derrogação neste sentido deverá, contudo, gerar uma alteração substancial das obrigações de armazenagem em relação às que derivam da Directiva 2006/67/CE. Daí resulta que a obrigação de armazenagem de determinados Estados-Membros deva ser estabelecida com base no nível do consumo interno de petróleo e não com base nas importações.\n\n(7) As conclusões da Presidência do Conselho Europeu de Bruxelas de 8 e 9 de Março de 2007 indicam que é cada vez mais importante e urgente que a Comunidade estabeleça uma política energética integrada, associando medidas aplicadas a nível europeu e a nível dos Estados-Membros. Importa, pois, proceder a uma aproximação das normas estabelecidas pelos mecanismos de armazenagem implementados nos diferentes Estados-Membros.\n\n(8) A disponibilidade de reservas de petróleo e a salvaguarda do aprovisionamento energético constituem elementos essenciais da segurança pública dos Estados-Membros e da Comunidade. A existência de entidades centrais de armazenagem (ECA) na Comunidade permite avançar no sentido da consecução destes objectivos. Para que os Estados-Membros interessados possam utilizar da melhor forma o direito nacional para definir os estatutos do respectivo ECA, moderando simultaneamente a carga financeira que recai sobre os consumidores finais em resultado dessas actividades de armazenagem, basta proibir a utilização dessas reservas para fins comerciais, ao mesmo tempo que se permite as reservas de petróleo possam ser detidas em qualquer local da Comunidade e por qualquer ECA estabelecida para esse efeito.\n\n(9) Tendo em conta os objectivos da legislação comunitária em matéria de reservas de petróleo, acrescidos das eventuais preocupações de certos Estados-Membros em matéria de segurança e do desejo de aumentar o rigor e a transparência dos mecanismos de solidariedade entre os Estados-Membros, é necessário restringir o mais possível o campo de acção das ECA aos respectivos territórios nacionais.\n\n(10) As reservas de petróleo deverão poder ser detidas em qualquer local da Comunidade, desde que seja tida em devida conta a sua acessibilidade física. Por conseguinte, os operadores económicos sobre os quais recaiam as obrigações de armazenagem deverão poder libertar-se dessas obrigações mediante delegação noutros operadores económicos ou em qualquer das ECA. Além disso, na condição de aquelas obrigações poderem ser delegadas numa ECA livremente escolhida situada no território da Comunidade contra remuneração limitada ao custo dos serviços fornecidos, ficarão reduzidos os riscos de práticas discriminatórias a nível nacional. O direito de delegação conferido aos operadores económicos não deverá implicar para qualquer interveniente a obrigação de aceitar a delegação, salvo disposição em contrário da presente directiva. Os Estados-Membros que decidirem limitar os direitos de delegação conferidos aos operadores deverão assegurar que a estes seja garantido o direito de delegar uma percentagem mínima das suas obrigações; aqueles Estados-Membros deverão, assim, assegurar que as suas ECA aceitem a delegação da obrigação de armazenagem no que diz respeito à parte necessária para garantir aquela percentagem mínima.\n\n(11) Os Estados-Membros deverão assegurar uma disponibilidade absoluta de todas as reservas detidas por força da legislação comunitária. A fim de garantir essa disponibilidade, o direito de propriedade dessas reservas não deverá sofrer qualquer restrição ou limitação susceptível de dificultar a sua utilização em caso de ruptura no aprovisionamento em petróleo. Não deverão ser tidos em conta os produtos petrolíferos de empresas expostas a riscos substanciais de processos de execução que visem os seus activos. Quando é imposta aos operadores uma obrigação de armazenagem, o início de um processo de falência ou de concordata poderá ser considerado revelador de uma situação de risco desse tipo.\n\n(12) Para que os Estados-Membros possam reagir rapidamente a casos de especial urgência ou a crises locais, pode ser conveniente que lhes seja permitido utilizar parte das suas reservas em tais situações. Esses casos urgentes ou crises locais não incluem as situações causadas pela evolução do preço do petróleo bruto ou dos produtos petrolíferos, mas podem incluir perturbações no aprovisionamento em gás natural que exijam uma mudança de combustível, ou seja, a utilização de petróleo bruto ou de produtos petrolíferos como combustível para a produção de energia.\n\n(13) Devido aos requisitos ligados à definição de políticas de emergência, à aproximação das normas estabelecidas pelos mecanismos nacionais de armazenagem e à garantia de uma melhor visibilidade dos níveis das reservas, nomeadamente em caso de crise, os Estados-Membros e a Comunidade deverão dispor de meios de controlo reforçados sobre essas reservas. Constituem instrumentos úteis, compatíveis com este objectivo de maior aproximação, as reservas detidas ao abrigo de acordos bilaterais ou os direitos contratuais de aquisição de certos volumes de reservas («bilhetes») que cumpram todas as obrigações impostas pela presente directiva.\n\n(14) Serem os Estados-Membros ou as ECA estabelecidas pelas diferentes autoridades nacionais proprietários de uma parte importante dessas reservas deverá permitir aumentar os níveis de controlo e de transparência, pelo menos no que diz respeito a essa parte das reservas.\n\n(15) A fim de contribuir para o reforço da segurança do aprovisionamento na Comunidade, as chamadas «reservas específicas», que são reservas adquiridas pelos Estados-Membros ou pelas ECA constituídas na sequência de decisões tomadas pelos Estados-Membros, deverão corresponder às necessidades reais em caso de crise. É além disso necessário que estas reservas beneficiem de um estatuto jurídico próprio, que assegure a sua disponibilidade absoluta em caso de crise. Para esse efeito, os Estados-Membros interessados deverão tomar as medidas necessárias para proteger de forma incondicional as reservas em causa contra quaisquer medidas de execução coerciva.\n\n(16) Os volumes de que as ECA ou os Estados-Membros deverão ser proprietários deverão ser fixados, nesta fase, a um nível estabelecido de forma independente e a título voluntário por cada um dos Estados-Membros interessados.\n\n(17) Dado que importa aumentar os níveis de controlo e de transparência, as reservas de segurança que não constituam reservas específicas deverão ficar sujeitas a requisitos de acompanhamento reforçados e, em certos casos, deverá ser imposta aos Estados-Membros a obrigação de notificar as medidas que regem a disponibilidade de reservas de segurança bem como a evolução das disposições relativas à sua manutenção.\n\n(18) Podem ser autorizadas as flutuações do volume das reservas específicas que resultem de operações individuais de substituição de reservas, a fim de permitir a realização das operações necessárias para, designadamente, garantir a renovação das reservas ou o cumprimento de novas especificações dos produtos ou para lançar novos concursos de armazenagem.\n\n(19) Sempre que as reservas de segurança e as reservas específicas estejam misturadas com outras reservas detidas por operadores económicos, deverá dar-se destaque à transparência dos níveis das reservas de segurança.\n\n(20) A frequência da elaboração dos resumos estatísticos das reservas, bem como o prazo em que estes devem ser postos à disposição, conforme estabelecido na Directiva 2006/67/CE, parecem estar desfasados de diversos sistemas de armazenagem de petróleo estabelecidos noutras partes do mundo. Numa resolução sobre as repercussões macroeconómicas do aumento do preço da energia, o Parlamento Europeu manifestou o seu apoio à adopção de uma maior frequência na informação prestada.\n\n(21) A fim de evitar a multiplicação de informações sobre as diferentes categorias de produtos a fornecer pelos Estados-Membros, o Regulamento (CE) n.º 1099/2008 do Parlamento Europeu e do Conselho, de 22 de Outubro de 2008, relativo às estatísticas da energia [([^5])](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntr5-L_2009265PT.01000901-E0005), deverá servir de referência para as diferentes categorias de produtos petrolíferos previstos na presente directiva.\n\n(22) A fim de reforçar a segurança do aprovisionamento, de informar mais exaustivamente os mercados, de tranquilizar os consumidores sobre o estado das reservas de petróleo e de optimizar os meios de transmissão das informações, deverá prever-se a possibilidade de introdução ulterior de alterações e precisões nas modalidades de elaboração dos resumos estatísticos, bem como na comunicação dos mesmos.\n\n(23) Os mesmos objectivos impõem também que a elaboração e comunicação de resumos estatísticos seja alargada a reservas diferentes das reservas de segurança e das reservas específicas, e que esses resumos devam ser apresentados uma vez por mês.\n\n(24) Dado que pode haver erros ou discrepâncias nos resumos apresentados à Comissão, os funcionários da Comissão ou os agentes por ela autorizados deverão poder verificar o grau de preparação para emergências e o nível de armazenagem dos Estados Membros. Deverá ser confiada aos regimes nacionais dos Estados Membros a responsabilidade de garantir que essas verificações possam ser efectivamente conduzidas de acordo com os procedimentos nacionais.\n\n(25) Os dados recebidos ou recolhidos deverão ser objecto de um tratamento informático e estatístico complexo, implicando a utilização de ferramentas e procedimentos integrados. A Comissão deverá assim poder tomar todas as medidas adequadas para o efeito, e nomeadamente desenvolver novos sistemas informáticos.\n\n(26) A protecção das pessoas singulares no que diz respeito ao tratamento dos dados pessoais pelos Estados-Membros é regida pela Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados [([^6])](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntr6-L_2009265PT.01000901-E0006), e a protecção das pessoas singulares no que diz respeito ao tratamento dos dados pessoais pela Comissão é regida pelo Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2000, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados [([^7])](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntr7-L_2009265PT.01000901-E0007). Estes actos exigem, em particular, que o tratamento dos dados pessoais seja justificado por uma finalidade legítima e que os dados pessoais recolhidos de forma acidental sejam imediatamente apagados.\n\n(27) Os biocombustíveis, bem como determinados aditivos, são frequentemente misturados com os produtos petrolíferos. Sempre que sejam incorporados ou destinados a serem incorporados com esses produtos, deverão poder ser tidos em conta tanto no cálculo da obrigação de armazenagem como no cálculo das reservas detidas.\n\n(28) Convém permitir que os Estados-Membros interessados satisfaçam as obrigações que lhes possam incumbir por força de uma decisão de libertar reservas tomada em aplicação do Acordo AIE ou das suas medidas de execução. A execução correcta e atempada das decisões da AIE é essencial para dar uma resposta eficaz em caso de dificuldades no aprovisionamento. Para o garantir, os Estados-Membros deverão libertar uma parte das suas reservas de segurança, na medida do previsto na decisão da AIE em questão. A Comissão deverá manter uma estreita cooperação com a AIE e basear a acção à escala da Comunidade na metodologia da AIE. Em particular, a Comissão pode recomendar a libertação de reservas por todos os Estados-Membros, na medida do necessário para complementar e facilitar a aplicação da decisão da AIE convidando os seus membros a libertarem reservas. É conveniente que os Estados-Membros respondam de forma positiva a essas recomendações, para que, na resposta a uma interrupção de fornecimentos, se desenvolva uma forte solidariedade e coesão a nível comunitário entre os Estados-Membros que pertencem à AIE e os que não lhe pertencem.\n\n(29) As disposições da Directiva 73/238/CEE do Conselho, de 24 de Julho de 1973, relativa às medidas destinadas a atenuar os efeitos das dificuldades de aprovisionamento em petróleo bruto e produtos petrolíferos [([^8])](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntr8-L_2009265PT.01000901-E0008), visam nomeadamente compensar, ou pelo menos a atenuar, os efeitos prejudiciais de qualquer eventual dificuldade, mesmo momentânea, que tenha por efeito reduzir sensivelmente os fornecimentos de petróleo bruto ou de produtos petrolíferos, incluindo as perturbações graves que uma redução poderia causar na actividade económica da Comunidade. A presente directiva deverá prever medidas similares.\n\n(30) A Directiva 73/238/CEE visa, por outro lado, a criação de um órgão consultivo susceptível de facilitar a coordenação das medidas concretas tomadas ou propostas pelos Estados-Membros neste domínio. A presente directiva deverá prever a criação de um órgão desse tipo. Continua a ser necessário que cada Estado-Membro elabore um plano que possa ser aplicado em caso de dificuldades no aprovisionamento de petróleo bruto e de produtos petrolíferos. É, além disso, oportuno que cada Estado-Membro adopte disposições relativas às medidas organizativas a tomar em caso de crise.\n\n(31) Atendendo a que a presente directiva introduz uma série de novos mecanismos, a sua aplicação e o seu funcionamento deverão ficar sujeitos a revisão.\n\n(32) A presente directiva abrange ou substitui todos os aspectos tratados na Decisão 68/416/CEE do Conselho, de 20 de Dezembro de 1968, relativa à conclusão e à execução dos acordos intergovernamentais especiais respeitantes à obrigação dos Estados-Membros manterem um nível mínimo de petróleo bruto e/ou de produtos petrolíferos [([^9])](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntr9-L_2009265PT.01000901-E0009). Por conseguinte, a referida decisão já não tem razão de ser.\n\n(33) Atendendo a que o objectivo da presente directiva, a saber, a manutenção de um elevado nível de segurança do aprovisionamento em petróleo na Comunidade graças a mecanismos fiáveis e transparentes baseados na solidariedade entre os Estados-Membros, assegurando simultaneamente o cumprimento das regras do mercado interno e da concorrência, não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, devido à sua dimensão ou efeitos, ser melhor alcançado a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo.\n\n(34) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^10])](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntr10-L_2009265PT.01000901-E0010).\n\n(35) Nos termos do ponto 34 do Acordo Interinstitucional «Legislar melhor», os Estados-Membros são encorajados a elaborar, para si próprios e no interesse da Comunidade, os seus próprios quadros, que ilustrem, na medida do possível, a concordância entre a presente directiva e as medidas de transposição, e a publicá-los.\n\n(36) As Directivas 73/238/CEE e 2006/67/CE e a Decisão 68/416/CEE deverão, pois, ser revogadas,\n\nAPROVOU A PRESENTE DIRECTIVA:"
+  },
+  "3703dd69221a5ab9": {
+   "fragment_id": "Artigo 1.º — Objectivo",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nA presente directiva estabelece regras que visam assegurar um nível elevado de segurança do aprovisionamento em petróleo na Comunidade graças a mecanismos fiáveis e transparentes assentes na solidariedade entre os Estados-Membros, manter um nível mínimo de reservas de petróleo bruto e/ou de produtos petrolíferos, bem como criar os meios processuais necessários para obviar a uma eventual escassez grave."
+  },
+  "8bdefe9a0b6e709d": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) **«Ano de referência»**: o ano civil dos dados relativos ao consumo ou às importações líquidas que são tidos em conta nos cálculos efectuados para estabelecer, respectivamente, o nível das reservas que devem ser detidas e o nível das reservas efectivamente detidas num determinado momento;\n\nb) **«Aditivos»**: as substâncias, com excepção dos hidrocarbonetos, que são acrescentadas ou misturadas a um produto a fim de modificar as suas propriedades;\n\nc) **«Biocombustível»**: combustível líquido ou gasoso utilizado para o transporte e produzido a partir da biomassa, sendo a «biomassa» a fracção biodegradável dos produtos, resíduos e produtos residuais provenientes da agricultura (incluindo as substâncias vegetais e animais), da silvicultura e das suas indústrias afins, bem como a fracção biodegradável dos resíduos industriais e urbanos;\n\nd) **«Consumo interno»**: agregado correspondente à totalidade das quantidades, calculadas de acordo com o anexo II, fornecidas no país para utilizações energéticas e não energéticas; este agregado engloba os fornecimentos ao sector da transformação e os fornecimentos à indústria, aos transportes, aos agregados familiares e a outros sectores para consumo «final»; inclui ainda o consumo próprio do sector da energia (com excepção do combustível de refinação);\n\ne) **«Decisão internacional efectiva de libertação de reservas»**: qualquer decisão em vigor tomada pelo Conselho de Direcção da Agência Internacional da Energia no sentido de disponibilizar petróleo bruto ou produtos petrolíferos no mercado mediante a libertação das suas reservas e/ou medidas suplementares;\n\nf) **«Entidade central de armazenagem» (ECA)**: o organismo ou serviço ao qual podem ser conferidas competências para actuar com vista à aquisição, manutenção ou venda de reservas de petróleo, incluindo reservas de segurança e reservas específicas;\n\ng) **«Ruptura importante do aprovisionamento»**: redução importante e imprevista no aprovisionamento da Comunidade ou de um Estado-Membro em petróleo bruto ou em produtos petrolíferos que tenha ou não implicado uma decisão internacional efectiva de libertação de reservas;\n\nh) **«Bancas marítimas internacionais»**: o conceito na acepção do ponto 2.1 do anexo A do Regulamento (CE) n.º 1099/2008;\n\ni) **«Reservas de petróleo»**: reservas de produtos energéticos enumerados no primeiro parágrafo do ponto 3.1 do anexo C do Regulamento (CE) n.º 1099/2008;\n\nj) **«Reservas de segurança»**: as reservas de petróleo cuja manutenção é imposta a cada Estado-Membro pelo artigo 3.º;\n\nk) **«Reservas comerciais»**: as reservas de petróleo detidas pelos operadores económicos cuja manutenção não é imposta pela presente directiva;\n\nl) **«Reservas específicas»**: as reservas de petróleo que satisfazem as condições referidas no artigo 9.º;\n\nm) **«Acessibilidade física»**: as medidas tomadas para localizar e transportar as reservas de modo a assegurar a sua libertação ou a sua entrega efectiva aos utilizadores e mercados finais dentro de prazos e em condições que permitam atenuar os eventuais problemas de aprovisionamento.\n\nAs definições que figuram no presente artigo podem ser especificadas ou alteradas em conformidade com o procedimento de regulamentação referido no n.º 2 do artigo 23.º"
+  },
+  "f3150aef6aaf725e": {
+   "fragment_id": "Artigo 3.º — Reservas de segurança — Cálculo das obrigações de armazenagem",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Reservas de segurança — Cálculo das obrigações de armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reservas de segurança — Cálculo das obrigações de armazenagem\n\n1. Os Estados Membros tomam todas as disposições legislativas, regulamentares ou administrativas adequadas para assegurar, o mais tardar em 31 de Dezembro de 2012, a manutenção por sua conta, no território da Comunidade e de forma permanente, de um nível total de reservas de petróleo equivalente, no mínimo, à maior das quantidades representada quer por 90 dias de importações líquidas diárias médias quer por 61 dias de consumo interno diário médio.\n\n2. As importações líquidas diárias médias a ter em conta são calculadas com base no equivalente de petróleo bruto das importações no ano civil anterior, estabelecido segundo o método e os procedimentos enunciados no anexo I.\n\nO consumo interno diário médio a ter em conta é calculado com base no equivalente de petróleo bruto do consumo interno no ano civil anterior, estabelecido e calculado segundo o método e os procedimentos enunciados no anexo II.\n\n3. No entanto, não obstante o n.º 2, no período de 1 de Janeiro a 31 de Março de cada ano civil, as importações líquidas diárias médias e o consumo interno visados no referido número são determinados com base nas quantidades importadas e consumidas no penúltimo ano civil que precede o ano civil em questão.\n\n4. Os métodos e procedimentos de cálculo das obrigações de armazenagem referidos no presente artigo podem ser alterados em conformidade com o procedimento de regulamentação referido no n.º 2 do artigo 23.º"
+  },
+  "53e7da3a3b42b93d": {
+   "fragment_id": "Artigo 4.º — Cálculo do nível das reservas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Cálculo do nível das reservas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cálculo do nível das reservas\n\n1. O nível das reservas detidas é calculado em conformidade com os métodos enunciados no anexo III. No caso do cálculo do nível das reservas detidas de cada categoria ao abrigo do artigo 9.º, esses métodos apenas são aplicáveis aos produtos abrangidos pela categoria em causa.\n\n2. Para o cálculo do nível das reservas detidas num determinado momento, são tidos em conta os dados do ano de referência determinado em conformidade com as regras estabelecidas no artigo 3.º\n\n3. As reservas de petróleo podem ser incluídas simultaneamente no cálculo das reservas de segurança de um Estado Membro e no cálculo das reservas específicas, desde que essas reservas de petróleo satisfaçam todas as condições impostas pela presente directiva para ambos os tipos de reservas.\n\n4. Os métodos e procedimentos de cálculo do nível das reservas a que se referem os n.^os^ 1 e 2 podem ser alterados em conformidade com o procedimento de regulamentação referido no n.º 2 do artigo 23.º. Em especial, pode ser necessário e benéfico alterar esses métodos e procedimentos, incluindo a aplicação da redução prevista no anexo III, para assegurar a coerência com as práticas da AIE."
+  },
+  "d2b8744aa86f38ed": {
+   "fragment_id": "Artigo 5.º — Disponibilidade das reservas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Disponibilidade das reservas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disponibilidade das reservas\n\n1. Para efeitos do disposto na presente directiva, os Estados-Membros garantem a disponibilidade e a acessibilidade física permanentes das reservas de segurança e das reservas específicas. Os Estados-Membros estabelecem dispositivos de identificação, contabilidade e controlo das referidas reservas de forma a permitir a sua verificação em qualquer momento. Este requisito aplica-se igualmente a todas as reservas de segurança e reservas específicas misturadas com outras reservas detidas pelos operadores económicos.\n\nOs Estados-Membros tomam todas as medidas necessárias para evitar qualquer obstáculo e impedimento que prejudique a disponibilidade das reservas de segurança e das reservas específicas. Cada Estado-Membro pode estabelecer limites ou condições suplementares à possibilidade de as suas reservas de segurança e reservas específicas serem mantidas fora do seu território nacional.\n\n2. Sempre que haja motivos para aplicar os procedimentos de emergência previstos no artigo 20.º, os Estados-Membros proíbem e evitam tomar qualquer medida que impeça a transferência, utilização ou libertação de reservas de segurança ou de reservas específicas detidas no respectivo território por conta de outro Estado-Membro."
+  },
+  "14b4548f76bd822d": {
+   "fragment_id": "Artigo 6.º — Registo das reservas de segurança — Relatório anual",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Registo das reservas de segurança — Relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo das reservas de segurança — Relatório anual\n\n1. Cada Estado-Membro estabelece um registo pormenorizado e permanentemente actualizado de todas as reservas de segurança detidas por sua conta e que não constituam reservas específicas. Este registo contém, nomeadamente, informações que permitam localizar com precisão o depósito, a refinaria ou a instalação de armazenagem em que se encontram as reservas em questão, bem como as quantidades em causa, o proprietário e a natureza das reservas, de acordo com as categorias indicadas no primeiro parágrafo do ponto 3.1 do anexo C do Regulamento (CE) n.º 1099/2008.\n\n2. Até 25 de Fevereiro de cada ano, cada Estado-Membro deve enviar à Comissão um resumo do registo das reservas a que se refere o n.º 1 indicando pelo menos as quantidades e a natureza das reservas de segurança incluídas no registo no último dia do ano civil precedente.\n\n3. No prazo de 15 dias após o pedido da Comissão, os Estados-Membros devem também enviar-lhe uma cópia completa do registo; nesta cópia, os dados sensíveis relativos à localização das reservas podem ficar retidos. Estes pedidos podem ser feitos o mais tardar cinco anos após a data a que os dados solicitados dizem respeito, e não podem incidir sobre dados relativos a qualquer período anterior a 1 de Janeiro de 2013."
+  },
+  "09b07648a4a8cb4c": {
+   "fragment_id": "Artigo 7.º — Entidades centrais de armazenagem",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Entidades centrais de armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidades centrais de armazenagem\n\n1. Os Estados-Membros podem criar ECA.\n\nOs Estados-Membros não podem criar mais do que uma ECA ou organismo semelhante. Um Estado-Membro pode criar a sua ECA em qualquer local da Comunidade.\n\nSempre que um Estado-Membro crie uma ECA, esta deve assumir a forma de organismo ou serviço sem fins lucrativos que funciona no interesse geral, não devendo ser considerada um operador económico na acepção da presente directiva.\n\n2. O principal objectivo da ECA é adquirir, manter e vender reservas de petróleo para efeitos da presente directiva ou para dar cumprimento a acordos internacionais relativos à manutenção de reservas de petróleo. É o único organismo ou serviço a que pode ser conferida competência para adquirir ou vender reservas.\n\n3. As ECA ou os Estados-Membros podem delegar funções ligadas à gestão de reservas de segurança e, com excepção da venda e aquisição, de reservas específicas, por um determinado período, mas unicamente:\n\na) Noutro Estado-Membro em cujo território se encontrem as reservas ou na ECA criada por esse Estado-Membro. As funções assim delegadas não podem ser subdelegadas noutros Estados-Membros ou nas ECA por eles criadas. O Estado-Membro que criou a ECA, bem como cada Estado-Membro em cujo território as reservas serão detidas, tem o direito de sujeitar a delegação à sua autorização;\n\nb) Em operadores económicos. Essa delegação não pode ser objecto de subdelegação. Sempre que essa delegação, ou qualquer alteração ou prolongamento da mesma, diga respeito a funções ligadas à gestão de reservas de segurança e de reservas específicas detidas noutro Estado-Membro, terá de ser previamente autorizada tanto pelo Estado-Membro por conta do qual as reservas são mantidas e por todos os Estados-Membros em cujos territórios as reservas serão mantidas.\n\n4. O Estado-Membro que disponha de uma ECA deve exigir a esta, para efeitos dos n.^os^ 1 e 2 do artigo 8.º, que publique:\n\na) Permanentemente, informações completas, por categoria de produtos, sobre os volumes de reservas que possa comprometer-se a manter para os operadores económicos, ou, sempre que necessário, para as ECA interessadas;\n\nb) Pelo menos sete meses antes, as condições em que pretende prestar serviços ligados à manutenção das reservas aos operadores económicos. As condições em que esses serviços podem ser prestados, incluindo as condições relativas à calendarização, podem ser também determinadas pelas autoridades nacionais competentes ou por concurso público destinado a determinar a melhor oferta entre os operadores ou, eventualmente, as ECA interessadas.\n\nAs ECA devem aceitar estas delegações em condições objectivas, transparentes e não discriminatórias. Os pagamentos efectuados pelos operadores por serviços prestados da ECA não devem exceder a totalidade dos custos dos serviços prestados e não podem ser exigidos enquanto as reservas não estiverem constituídas. A ECA pode declarar que apenas aceita a delegação mediante prestação de uma garantia, ou outra forma de caução, pelo operador."
+  },
+  "30cfe261d0f4ef6a": {
+   "fragment_id": "Artigo 8.º — Operadores económicos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Operadores económicos\n\n1. Cada Estado-Membro vela por conferir a todos os operadores económicos aos quais imponha obrigações de armazenagem, para cumprimento das suas obrigações decorrentes do artigo 3.º, o direito de delegar essas obrigações pelo menos em parte, à escolha do operador económico, mas unicamente:\n\na) Na ECA do Estado-Membro por conta do qual as reservas são detidas;\n\nb) Numa ou mais ECA que tenham declarado anteriormente pretender deter essas reservas, desde que as delegações tenham sido previamente autorizadas tanto pelo Estado-Membro por conta do qual as reservas são detidas como por todos os Estados-Membros em cujos territórios as reservas serão detidas;\n\nc) Noutros operadores económicos que disponham de reservas excedentárias ou de capacidade de armazenagem fora do território do Estado-Membro por conta do qual as reservas são detidas na Comunidade, desde que a delegação tenha sido autorizada anteriormente tanto pelo Estado-Membro por conta do qual essas reservas são mantidas como por todos os Estados-Membros em cujos territórios as reservas serão mantidas; e/ou\n\nd) Noutros operadores económicos que disponham de reservas excedentárias ou de capacidade de armazenagem dentro do território do Estado-Membro por conta do qual as reservas são detidas, desde que a delegação tenha sido comunicada anteriormente ao Estado-Membro. Os Estados-Membros podem impor limites ou condições à delegação.\n\nAs obrigações delegadas nos termos das alíneas c) e d) não podem ser objecto de subdelegação. Qualquer alteração ou prolongamento das delegações a que se referem as alíneas b) e c) só produz efeitos com a autorização prévia de todos os Estados-Membros que autorizaram a delegação. Qualquer alteração ou prolongamento das delegações a que se refere a alínea d) é tratada como uma nova delegação.\n\n2. Cada Estado-Membro pode restringir os direitos de delegação conferidos aos operadores económicos a quem imponha ou tenha imposto obrigações de armazenagem.\n\nNo entanto, se essas restrições limitarem os direitos de delegação do operador económico a uma parte correspondente a menos de 10 % da obrigação de armazenagem que lhe é imposta, o Estado-Membro deve garantir a criação de uma ECA que deva aceitar a parte de delegação necessária para salvaguardar o direito do operador económico a delegar pelo menos 10 % da obrigação de armazenagem que lhe é imposta.\n\nA percentagem mínima referida no presente número é aumentada de 10 % para 30 % até 31 de Dezembro de 2017.\n\n3. Não obstante o disposto nos n.^os^ 1 e 2, um Estado-Membro pode obrigar um operador económico a delegar pelo menos uma parte da sua obrigação de armazenagem na ECA do Estado-Membro.\n\n4. Os Estados-Membros tomam as medidas necessárias para informar os operadores económicos das modalidades a utilizar no cálculo das obrigações de armazenagem que lhes são impostas, o mais tardar 200 dias antes do início do período a que se refere a obrigação em causa. Os operadores económicos exercerão o seu direito de delegar obrigações de armazenagem nas ECA o mais tardar 170 dias antes do início do período a que se refere a obrigação em causa.\n\nQuando são informados com uma antecedência inferior a 200 dias relativamente ao início do período a que se refere a obrigação de armazenagem, os operadores económicos podem exercer o seu direito de delegar essa obrigação em qualquer momento."
+  },
+  "2926bbc8a1f6b6b6": {
+   "fragment_id": "Artigo 9.º — Reservas específicas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Reservas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reservas específicas\n\n1. Cada Estado-Membro pode comprometer-se a manter um nível mínimo de reservas de petróleo, determinado em número de dias de consumo, nas condições estabelecidas no presente artigo.\n\nAs reservas específicas são da propriedade do Estado-Membro ou da ECA por ele criada e são mantidas no território da Comunidade.\n\n2. As reservas específicas só podem ser constituídas por uma ou mais das seguintes categorias de produtos, definidas no ponto 4 do anexo B do Regulamento (CE) n.º 1099/2008:\n\n— Etano;\n\n— GPL;\n\n— Gasolina para motores;\n\n— Gasolina de aviação;\n\n— Carborreactores do tipo gasolina (carborreactores do tipo nafta ou JP4);\n\n— Combustíveis do tipo querosene para motores de reacção;\n\n— Outro querosene;\n\n— Gasóleo/diesel (fuelóleo destilado);\n\n— Fuelóleo (de baixo e de alto teor de enxofre);\n\n— White spirit e SBP;\n\n— Lubrificantes;\n\n— Betume;\n\n— Ceras parafínicas;\n\n— Coque de petróleo.\n\n3. Cada Estado-Membro deve determinar, com base nas categorias referidas no número 2, os produtos petrolíferos que constituem as reservas específicas. Os Estados-Membros devem assegurar que, para o ano de referência determinado de acordo com as regras estabelecidas no artigo 3.º e no que diz respeito aos produtos incluídos nas categorias utilizadas, o equivalente de petróleo bruto das quantidades consumidas no Estado-Membro represente, pelo menos, 75 % do consumo interno calculado de acordo com o método enunciado no anexo II.\n\nPara cada uma das categorias escolhidas pelo Estado-Membro, as reservas específicas que este se compromete a manter devem corresponder a um número determinado de dias de consumo interno, medidas com base no seu equivalente de petróleo bruto, durante o ano de referência determinado de acordo com as regras estabelecidas no artigo 3.º\n\nOs equivalentes de petróleo bruto referidos nos primeiro e segundo parágrafos são calculados mediante a aplicação de um coeficiente multiplicador de 1,2 à soma do agregado dos «fornecimentos internos brutos observados», definido no ponto 3.2.1 do anexo C do Regulamento (CE) n.º 1099/2008, dos produtos incluídos nas categorias usadas ou em questão. As bancas marítimas internacionais não são incluídas no cálculo.\n\n4. Cada Estado-Membro que tiver decidido manter reservas específicas deve enviar à Comissão um aviso a publicar no *Jornal Oficial da União Europeia*, especificando o nível das reservas que se comprometeu a manter e a duração desse compromisso, que deve ser de pelo menos um ano. O nível mínimo notificado é uniformemente aplicado a todas as categorias de reservas específicas utilizadas pelo Estado-Membro.\n\nO Estado-Membro deve garantir que essas reservas sejam detidas durante todo o período notificado, sem prejuízo do direito do Estado-Membro de proceder a reduções temporárias devido exclusivamente a operações individuais de substituição de reservas.\n\nA lista de categorias utilizadas por um Estado-Membro deve permanecer em vigor pelo menos durante um ano e só pode ser alterada com efeitos a partir do primeiro dia de um mês civil.\n\n5. Cada Estado-Membro que não se tiver comprometido a deter, em todo um ano civil, pelo menos 30 dias de reservas específicas deve garantir que pelo menos um terço das suas obrigações de armazenagem seja detido sob a forma de produtos compostos nos termos dos n.^os^ 2 e 3.\n\nOs Estados-Membros nos quais sejam detidos menos de 30 dias de reservas específicas devem elaborar um relatório anual em que analisem as medidas tomadas pelas suas autoridades nacionais para garantir e verificar a disponibilidade e acessibilidade física das suas reservas de segurança, como se refere no artigo 5.º, e documentar no mesmo relatório as medidas tomadas para permitir aos Estados-Membros controlar a utilização dessas reservas em caso de rupturas no aprovisionamento em petróleo. O referido relatório é enviado à Comissão até ao final do primeiro mês do ano civil a que refere."
+  },
+  "9dde328eada9cff5": {
+   "fragment_id": "Artigo 10.º — Gestão das reservas específicas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Gestão das reservas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Gestão das reservas específicas\n\n1. Cada Estado-Membro estabelece um registo pormenorizado e permanentemente actualizado de todas as reservas específicas detidas no seu território. Esse registo contém, nomeadamente, todas as informações que permitam localizar com precisão as reservas em causa.\n\nNo prazo de 15 dias após o pedido da Comissão, os Estados-Membros devem também enviar-lhe cópia do registo. Nesta cópia, os dados sensíveis relativos à localização das reservas podem ficar retidos. Esses pedidos podem ser feitos o mais tardar cinco anos após a data a que se referem os dados pedidos.\n\n2. Nos casos em que as reservas específicas estejam misturadas com outras reservas de petróleo, os Estados-Membros ou as respectivas ECA tomam as disposições necessárias para impedir qualquer deslocação desses produtos misturados, até à proporção que constitui as reservas específicas, sem autorização escrita prévia do proprietário das reservas específicas e das autoridades, ou da ECA, do Estado-Membro em cujo território se encontram as reservas.\n\n3. Os Estados-Membros tomam as medidas necessárias para conferir imunidade incondicional contra medidas de execução coerciva aplicáveis a todas as reservas específicas mantidas ou transportadas no seu território, quer se trate das suas próprias reservas quer das reservas de outros Estados-Membros."
+  },
+  "88053250df658910": {
+   "fragment_id": "Artigo 11.º — Efeito das delegações",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Efeito das delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Efeito das delegações\n\nAs delegações referidas nos artigos 7.º e 8.º em nada modificam as obrigações que incumbem a cada Estado-Membro ao abrigo da presente directiva."
+  },
+  "11d6f2f2390055fb": {
+   "fragment_id": "Artigo 12.º — Resumos estatísticos das reservas referidas no artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Resumos estatísticos das reservas referidas no artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Resumos estatísticos das reservas referidas no artigo 3.º\n\n1. No que diz respeito ao nível das reservas a deter em aplicação do artigo 3.º, cada Estado-Membro elaborará e enviará à Comissão resumos estatísticos, em conformidade com as regras enunciadas no anexo IV.\n\n2. As regras de elaboração, o âmbito, o conteúdo e a periodicidade dos resumos referidos no n.º 1, bem como os prazos de comunicação, podem ser modificados em conformidade com o procedimento de regulamentação referido no n.º 2 do artigo 23.º. As regras de transmissão dos resumos estatísticos à Comissão podem igualmente ser alteradas em conformidade com o procedimento de regulamentação referido no n.º 2 do artigo 23.º\n\n3. Os Estados-Membros não podem incluir nos seus resumos estatísticos das reservas de segurança as quantidades de petróleo bruto ou de produtos petrolíferos que sejam objecto de penhora ou de medidas de execução coerciva. O mesmo se aplica a todas as reservas de empresas em situação de falência ou de concordata."
+  },
+  "32af5128fd3e0043": {
+   "fragment_id": "Artigo 13.º — Resumos estatísticos relativos às reservas específicas",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Resumos estatísticos relativos às reservas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Resumos estatísticos relativos às reservas específicas\n\n1. Cada Estado-Membro em causa elabora e envia à Comissão, relativamente a cada categoria de produtos, um resumo estatístico das suas reservas específicas existentes no último dia de cada mês civil, especificando as quantidades e o número de dias de consumo médio do ano civil de referência que essas reservas representam. Se algumas dessas reservas específicas forem detidas fora do território, o Estado-Membro indica de forma pormenorizada as reservas mantidas no território, ou por intermédio, dos diferentes Estados-Membros e ECA em causa. Indica além disso, de forma pormenorizada, se essas reservas lhe pertencem integralmente ou se a sua ECA é, na totalidade ou em parte, proprietária dessas reservas.\n\n2. Cada Estado-Membro em causa elabora e envia também à Comissão um resumo estatístico das reservas específicas situadas no seu território e pertencentes a outros Estados-Membros ou ECA, existentes no último dia de cada mês civil, por categoria de produtos identificada ao abrigo do n.º 4 do artigo 9.º. Além disso, nesse resumo estatístico, o Estado-Membro indica, em cada caso, o nome do Estado-Membro ou da ECA em causa, bem como as quantidades.\n\n3. A comunicação dos resumos estatísticos referidos nos n.^os^ 1 e 2 é efectuada durante o mês civil subsequente ao mês a que se referem.\n\n4. A pedido da Comissão, devem ser também enviadas imediatamente cópias dos resumos estatísticos. Esses pedidos podem ser feitos o mais tardar cinco anos após a data a que se referem os dados em causa.\n\n5. O âmbito, o conteúdo e a periodicidade dos resumos estatísticos, bem como os prazos de comunicação, podem ser modificados em conformidade com o procedimento de regulamentação referido no n.º 2 do artigo 23.º. As regras de transmissão dos resumos estatísticos à Comissão podem igualmente ser alteradas em conformidade com o procedimento de regulamentação referido no n.º 2 do artigo 23.º"
+  },
+  "ef770eec0de4bf2c": {
+   "fragment_id": "Artigo 14.º — Resumo estatístico das reservas comerciais",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Resumo estatístico das reservas comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Resumo estatístico das reservas comerciais\n\n1. Os Estados-Membros enviam à Comissão um resumo estatístico mensal dos níveis das reservas comerciais detidas no seu território nacional. Para esse efeito, velam por proteger os dados sensíveis e abstêm-se de fazer menção dos nomes dos proprietários das reservas em questão.\n\n2. A Comissão publica um resumo estatístico mensal das reservas comerciais na Comunidade com base nos resumos transmitidos pelos Estados-Membros, utilizando níveis agregados.\n\n3. As regras relativas à comunicação e publicação dos resumos estatísticos, bem como à sua frequência, podem ser modificadas em conformidade com o procedimento de regulamentação referido no n.º 2 do artigo 23.º"
+  },
+  "2475768aabcc94db": {
+   "fragment_id": "Artigo 15.º — Tratamento dos dados",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Tratamento dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Tratamento dos dados\n\nA Comissão assegura o desenvolvimento, alojamento em servidor, gestão e manutenção dos recursos informáticos necessários para a recepção, a armazenagem e todas as formas de tratamento dos dados contidos nos resumos estatísticos e de todas as informações comunicadas pelos Estados-Membros ou recolhidas pelos serviços da Comissão ao abrigo da presente directiva, bem como dos dados sobre as reservas de petróleo recolhidos ao abrigo do Regulamento (CE) n.º 1099/2008 e necessários para a elaboração dos resumos estatísticos impostos pela presente directiva."
+  },
+  "e9bce13b4844fa57": {
+   "fragment_id": "Artigo 16.º — Biocombustíveis e aditivos",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Biocombustíveis e aditivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Biocombustíveis e aditivos\n\n1. Os biocombustíveis e aditivos apenas são tidos em conta nos cálculos das obrigações de armazenagem em aplicação dos artigos 3.º e 9.º se tiverem sido misturados aos produtos petrolíferos em causa.\n\n2. Os biocombustíveis e aditivos são tidos em conta no cálculo dos níveis de reservas efectivamente detidos, se:\n\na) Tiverem sido misturados com os produtos petrolíferos em causa; ou\n\nb) Estiverem armazenados no território do Estado-Membro em causa, na condição de o Estado-Membro ter adoptado regras que garantam que se destinam a ser misturados com produtos petrolíferos detidos em conformidade com os requisitos de armazenagem estabelecidos na presente directiva e que se destinam a ser utilizados para transporte.\n\n3. As regras de tomada em consideração dos biocombustíveis e dos aditivos no cálculo das obrigações de armazenagem e dos níveis de reservas indicados nos n.^os^ 1 e 2 podem ser modificadas em conformidade com o processo de regulamentação referido no n.º 2 do artigo 23.º"
+  },
+  "5037b13e0fad31f5": {
+   "fragment_id": "Artigo 17.º — Grupo de Coordenação do Petróleo e dos Produtos Petrolíferos",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Grupo de Coordenação do Petróleo e dos Produtos Petrolíferos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Grupo de Coordenação do Petróleo e dos Produtos Petrolíferos\n\n1. É instituído o Grupo de Coordenação do Petróleo e dos Produtos Petrolíferos (adiante designado por «Grupo de Coordenação»). O Grupo de Coordenação é um grupo consultivo que contribui para analisar a situação na Comunidade, relativamente à segurança do aprovisionamento de petróleo e produtos petrolíferos, e facilitar a coordenação e aplicação de medidas neste domínio.\n\n2. O Grupo de Coordenação é composto por representantes dos Estados-Membros. É presidido pela Comissão. As instâncias representativas do sector em causa podem participar nos trabalhos do Grupo de Coordenação, a convite da Comissão."
+  },
+  "1aa9b71230ffd93e": {
+   "fragment_id": "Artigo 18.º — Avaliação do grau de preparação e armazenagem para emergências",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Avaliação do grau de preparação e armazenagem para emergências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Avaliação do grau de preparação e armazenagem para emergências\n\n1. A Comissão pode, em coordenação com os Estados-Membros, efectuar avaliações a fim de verificar o seu grau de preparação para emergências e, caso o considere necessário, a correspondente armazenagem de reservas. Ao preparar essas avaliações, a Comissão deve tomar em conta os esforços dispendidos por outras instituições e organizações internacionais e consultar o Grupo de Coordenação.\n\n2. O Grupo de Coordenação pode concordar com a participação nas avaliações de agentes autorizados e de representantes de outros Estados-Membros. Os funcionários nacionais designados pelos Estados-Membros em que são efectuadas as avaliações podem acompanhar as pessoas que efectuam as revisões. No prazo de uma semana a contar do anúncio de uma avaliação, nos termos do n.º 1, qualquer Estado-Membro em questão que não tiver facultado à Comissão os dados sensíveis quanto à localização das reservas, nos termos dos artigos 6.º e 9.º, deve colocar essa informação à disposição dos funcionários da Comissão ou dos agentes por ela autorizados.\n\n3. Os Estados-Membros devem assegurar que as suas autoridades e as autoridades responsáveis pela manutenção e gestão das reservas de segurança e das reservas específicas cheguem a acordo quanto às inspecções e prestem assistência às pessoas que a Comissão autoriza a realizar essas avaliações. Os Estados-Membros devem garantir, em especial, que essas pessoas tenham o direito de consultar todos os documentos e registos relativos às reservas e o direito de acesso a todos os locais em que são mantidas as reservas, bem como a todos os documentos pertinentes.\n\n4. O resultado das avaliações efectuadas nos termos do presente artigo deve ser comunicado ao Estado-Membro em que foi feita a revisão e pode ser enviado ao Grupo de Coordenação.\n\n5. Os Estados-Membros e a Comissão garantem que os funcionários, agentes e outras pessoas que trabalhem sob a supervisão da Comissão, bem como os membros do Grupo de Coordenação, tenham a obrigação de não divulgar as informações recolhidas ou trocadas ao abrigo do presente artigo e que, pela sua natureza, estejam abrangidas pelo segredo profissional, como seja a identidade dos proprietários das reservas.\n\n6. Os objectivos das avaliações referidas no n.º 1 não podem incluir o tratamento de dados pessoais. Os dados pessoais encontrados ou revelados durante as avaliações não podem ser recolhidos nem tidos em conta e, em caso de recolha acidental, devem ser imediatamente destruídos.\n\n7. Os Estados-Membros tomam as medidas necessárias para assegurar a conservação dos dados, registos, resumos e documentos relativos às reservas de segurança e às reservas específicas durante um período mínimo de cinco anos."
+  },
+  "c8bdd25b07e259b9": {
+   "fragment_id": "Artigo 19.º — Protecção das pessoas singulares no que diz respeito ao tratamento dos dados",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Protecção das pessoas singulares no que diz respeito ao tratamento dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Protecção das pessoas singulares no que diz respeito ao tratamento dos dados\n\nA presente directiva não prejudica e em nada afecta o nível de protecção das pessoas singulares no que diz respeito ao tratamento dos seus dados pessoais garantido pelas disposições do direito comunitário e do direito nacional e, em especial, em nada modifica as obrigações dos Estados-Membros no que diz respeito ao tratamento por estes efectuado dos dados pessoais, em conformidade com as obrigações que lhes são impostas pela Directiva 95/46/CE, nem as obrigações que incumbem às instituições e órgãos comunitários ao abrigo do Regulamento (CE) n.º 45/2001 no que diz respeito ao tratamento por estes últimos dos dados pessoais, quando do exercício das suas responsabilidades."
+  },
+  "6cc5a20b41b40119": {
+   "fragment_id": "Artigo 20.º — Procedimentos de emergência",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Procedimentos de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Procedimentos de emergência\n\n1. Os Estados-Membros estabelecem os procedimentos e tomarão as medidas necessárias para que as suas autoridades competentes possam libertar de forma rápida, efectiva e transparente a totalidade ou parte das suas reservas de segurança e das suas reservas específicas em caso de ruptura importante do aprovisionamento, e impor limitações gerais ou específicas de consumo, em função do défice de aprovisionamento previsto, nomeadamente pela atribuição prioritária de produtos petrolíferos a determinadas categorias de consumidores.\n\n2. Os Estados-Membros mantêm permanentemente planos de intervenção a aplicar em caso de ruptura importante do aprovisionamento e prevêem as medidas organizacionais a tomar para permitir a aplicação desses planos. Os Estados-Membros informam a Comissão, a pedido, sobre os seus planos de intervenção e correspondentes disposições de natureza organizativa.\n\n3. Caso seja tomada uma decisão internacional efectiva de libertação de reservas que afecte um ou mais Estados-Membros:\n\na) Cada Estado-Membro em causa pode utilizar as suas reservas de segurança e as suas reservas específicas a fim de satisfazer as obrigações internacionais que decorrem dessa decisão. Nesse caso, o Estado-Membro informa imediatamente a Comissão, para que possa convocar uma reunião do Grupo de Coordenação ou consultar os membros desse Grupo por via electrónica a fim de avaliar, nomeadamente, os efeitos dessa libertação de reservas;\n\nb) A Comissão pode recomendar aos Estados-Membros que libertem a totalidade ou parte das suas reservas de segurança e reservas específicas. O exercício deste direito apenas pode intervir na sequência de uma reunião do Grupo de Coordenação em cuja ordem de trabalhos figure este ponto.\n\n4. Na ausência de uma decisão internacional efectiva de libertação de reservas mas em caso de dificuldades no aprovisionamento em petróleo bruto ou em produtos petrolíferos na Comunidade ou num Estado-Membro, a Comissão informa a AIE, se for caso disso, estabelecendo com ela a necessária coordenação, e consultará o Grupo de Coordenação o mais rapidamente possível, a pedido de um Estado-Membro ou por iniciativa própria. Quando um Estado-Membro pedir uma consulta ao Grupo de Coordenação, esta deve ser organizada no máximo quatro dias após o pedido, a menos que o Estado-Membro concorde com um prazo mais longo. Com base nos resultados da análise da situação pelo Grupo de Coordenação, a Comissão determina se ocorreu uma ruptura importante do aprovisionamento.\n\nCaso se constate uma ruptura importante do aprovisionamento, a Comissão deve autorizar a libertação total ou parcial das quantidades de reservas de segurança e reservas específicas propostas para esse efeito pelos Estados-Membros em causa.\n\n5. Os Estados-Membros podem libertar reservas de segurança e reservas específicas, abaixo do nível mínimo obrigatório estabelecido pela presente directiva, nas quantidades que se afigurem imediatamente necessárias para dar uma resposta inicial em caso de especial urgência ou para fazer face a crises locais. Em caso de tal libertação, os Estados-Membros informam imediatamente a Comissão das quantidades libertadas. A Comissão transmite imediatamente essas informações aos membros do Grupo de Coordenação.\n\n6. Nos casos em que são aplicáveis os n.^os^ 3, 4 ou 5, os Estados-Membros podem deter temporariamente níveis de reservas inferiores aos estipulados na presente directiva. Nesses casos, a Comissão, com base nos resultados da consulta ao Grupo de Coordenação e, se for o caso, em coordenação com a AIE, e tendo nomeadamente em conta a situação nos mercados internacionais do petróleo e dos produtos petrolíferos, determina um prazo razoável dentro do qual os Estados-Membros devem reconstituir as suas reservas aos níveis mínimos obrigatórios.\n\n7. As decisões adoptadas pela Comissão ao abrigo do presente artigo em nada prejudicam outras eventuais obrigações internacionais dos Estados-Membros em causa."
+  },
+  "669437ae28014485": {
+   "fragment_id": "Artigo 21.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Sanções\n\nOs Estados-Membros devem determinar o regime de sanções aplicável às violações das disposições nacionais adoptadas em execução da presente directiva, e adoptar as medidas necessárias para assegurar a aplicação dessas disposições. Essas sanções devem ser efectivas, proporcionadas e dissuasivas. Os Estados-Membros notificam essas disposições à Comissão até 31 de Dezembro de 2012, bem como quaisquer alterações ulteriores, o mais rapidamente possível."
+  },
+  "d6b38239ee1e4cda": {
+   "fragment_id": "Artigo 22.º — Exame",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Exame\n\nAté 31 de Dezembro de 2015, a Comissão procede ao exame do funcionamento e aplicação da presente directiva."
+  },
+  "64166738bf78f665": {
+   "fragment_id": "Artigo 23.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Procedimento de comité\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE."
+  },
+  "5bf97c5c7c3026c9": {
+   "fragment_id": "Artigo 24.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Revogação\n\nA Directiva 73/238/CEE, a Directiva 2006/67/CE e a Decisão 68/416/CEE são revogadas com efeitos a partir de 31 de Dezembro de 2012.\n\nAs referências para as directivas e a decisão revogadas devem entender-se como sendo feitas para a presente directiva."
+  },
+  "7d905325f68048f3": {
+   "fragment_id": "Artigo 25.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 31 de Dezembro de 2012.\n\nEm derrogação ao disposto no primeiro parágrafo, os Estados-Membros que não pertençam à AIE à data de 31 de Dezembro de 2012, e que importem a totalidade dos produtos petrolíferos de consumo interno, devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento ao n.º 1 do artigo 3.º da presente directiva até 31 de Dezembro de 2014. Enquanto não puserem essas medidas em vigor, os Estados-Membros em questão devem deter reservas de petróleo equivalentes a 81 dias de importações líquidas diárias médias.\n\nQuando os Estados-Membros adoptarem disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "0aa20b3f362c68d0": {
+   "fragment_id": "Artigo 26.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "b98f5e6a07ef9a00": {
+   "fragment_id": "Artigo 27.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 14 de Setembro de 2009.\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**C. MALMSTRÖM**\n\n---"
+  },
+  "8759acfaa6d26111": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntc1-L_2009265PT.01000901-E0001) Parecer de 22 de Abril de 2009 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntc2-L_2009265PT.01000901-E0002) Parecer de 13 de Maio de 2009 (ainda não publicado no Jornal Oficial).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntc3-L_2009265PT.01000901-E0003) [JO C 128 de 6.6.2009, p. 42](http://publications.europa.eu/resource/oj/JOC_2009_128_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntc4-L_2009265PT.01000901-E0004) [JO L 217 de 8.8.2006, p. 8](http://publications.europa.eu/resource/oj/JOL_2006_217_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntc5-L_2009265PT.01000901-E0005) [JO L 304 de 14.11.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_304_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntc6-L_2009265PT.01000901-E0006) [JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntc7-L_2009265PT.01000901-E0007) [JO L 8 de 12.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntc8-L_2009265PT.01000901-E0008) [JO L 228 de 16.8.1973, p. 1](http://publications.europa.eu/resource/oj/JOL_1973_228_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntc9-L_2009265PT.01000901-E0009) [JO L 308 de 23.12.1968, p. 19](http://publications.europa.eu/resource/oj/JOL_1968_308_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/b4c7129d-b59e-4679-89ac-1781ef8ac502.0018.02/DOC_1#ntc10-L_2009265PT.01000901-E0010) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC)."
+  },
+  "2707d32ae9e1713f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Setembro de 2009\n\nque obriga os Estados-Membros a manterem um nível mínimo de reservas de petróleo bruto e/ou de produtos petrolíferos"
+  },
+  "fa30fb91a1a33087": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Ano de referência»: o ano civil dos dados relativos ao consumo ou às importações líquidas que são tidos em conta nos cálculos efectuados para estabelecer, respectivamente, o nível das reservas que devem ser detidas e o nível das reservas efectivamente detidas num determinado momento;\n\nb) «Aditivos»: as substâncias, com excepção dos hidrocarbonetos, que são acrescentadas ou misturadas a um produto a fim de modificar as suas propriedades;\n\nc) «Biocombustível»: combustível líquido ou gasoso utilizado para o transporte e produzido a partir da biomassa, sendo a «biomassa» a fracção biodegradável dos produtos, resíduos e produtos residuais provenientes da agricultura (incluindo as substâncias vegetais e animais), da silvicultura e das suas indústrias afins, bem como a fracção biodegradável dos resíduos industriais e urbanos;\n\nd) «Consumo interno»: agregado correspondente à totalidade das quantidades, calculadas de acordo com o anexo II, fornecidas no país para utilizações energéticas e não energéticas; este agregado engloba os fornecimentos ao sector da transformação e os fornecimentos à indústria, aos transportes, aos agregados familiares e a outros sectores para consumo «final»; inclui ainda o consumo próprio do sector da energia (com excepção do combustível de refinação);\n\ne) «Decisão internacional efectiva de libertação de reservas»: qualquer decisão em vigor tomada pelo Conselho de Direcção da Agência Internacional da Energia no sentido de disponibilizar petróleo bruto ou produtos petrolíferos no mercado mediante a libertação das suas reservas e/ou medidas suplementares;\n\nf) «Entidade central de armazenagem» (ECA): o organismo ou serviço ao qual podem ser conferidas competências para actuar com vista à aquisição, manutenção ou venda de reservas de petróleo, incluindo reservas de segurança e reservas específicas;\n\ng) «Ruptura importante do aprovisionamento»: redução importante e imprevista no aprovisionamento da Comunidade ou de um Estado-Membro em petróleo bruto ou em produtos petrolíferos que tenha ou não implicado uma decisão internacional efectiva de libertação de reservas;\n\nh) «Bancas marítimas internacionais»: o conceito na acepção do ponto 2.1 do anexo A do Regulamento (CE) n.º 1099/2008;\n\ni) «Reservas de petróleo»: reservas dos produtos energéticos enumerados no anexo A, secção 3.4, do Regulamento (CE) n.º 1099/2008;\n\nj) «Reservas de segurança»: as reservas de petróleo cuja manutenção é imposta a cada Estado-Membro pelo artigo 3.º;\n\nk) «Reservas comerciais»: as reservas de petróleo detidas pelos operadores económicos cuja manutenção não é imposta pela presente directiva;\n\nl) «Reservas específicas»: as reservas de petróleo que satisfazem as condições referidas no artigo 9.º;\n\nm) «Acessibilidade física»: as medidas tomadas para localizar e transportar as reservas de modo a assegurar a sua libertação ou a sua entrega efectiva aos utilizadores e mercados finais dentro de prazos e em condições que permitam atenuar os eventuais problemas de aprovisionamento.\n\nAs definições que figuram no presente artigo podem ser especificadas ou alteradas em conformidade com o procedimento de regulamentação referido no n.º 2 do artigo 23.º"
+  },
+  "b8eb2fddda6febda": {
+   "fragment_id": "Artigo 3.º — Reservas de segurança — Cálculo das obrigações de armazenagem",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Reservas de segurança — Cálculo das obrigações de armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reservas de segurança — Cálculo das obrigações de armazenagem\n\n1. Os Estados Membros tomam todas as disposições legislativas, regulamentares ou administrativas adequadas para assegurar, o mais tardar em 31 de Dezembro de 2012, a manutenção por sua conta, no território da Comunidade e de forma permanente, de um nível total de reservas de petróleo equivalente, no mínimo, à maior das quantidades representada quer por 90 dias de importações líquidas diárias médias quer por 61 dias de consumo interno diário médio.\n\n2. As importações líquidas diárias médias a ter em conta são calculadas com base no equivalente de petróleo bruto das importações no ano civil anterior, estabelecido segundo o método e os procedimentos enunciados no anexo I.\n\nO consumo interno diário médio a ter em conta é calculado com base no equivalente de petróleo bruto do consumo interno no ano civil anterior, estabelecido e calculado segundo o método e os procedimentos enunciados no anexo II.\n\n3. No entanto, não obstante o n.º 2, no período de 1 de janeiro a 30 de junho de cada ano civil, as importações líquidas diárias médias e o consumo interno visados no referido número são determinados com base nas quantidades importadas e consumidas no penúltimo ano civil que precede o ano civil em questão.\n\n4. Os métodos e procedimentos de cálculo das obrigações de armazenagem referidos no presente artigo podem ser alterados em conformidade com o procedimento de regulamentação referido no n.º 2 do artigo 23.º"
+  },
+  "739fa0a5e50d5220": {
+   "fragment_id": "Artigo 6.º — Registo das reservas de segurança — Relatório anual",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Registo das reservas de segurança — Relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo das reservas de segurança — Relatório anual\n\n1. Cada Estado-Membro estabelece um registo pormenorizado e permanentemente actualizado de todas as reservas de segurança detidas por sua conta e que não constituam reservas específicas. [**►M1**](http://publications.europa.eu/resource/celex/32018L1581) Este registo contém, nomeadamente, informações que permitam localizar com precisão o depósito, a refinaria ou a instalação de armazenagem em que se encontram as reservas em questão, bem como as quantidades em causa, o proprietário e a natureza das reservas, de acordo com as categorias indicadas no anexo A, secção 3.4, do Regulamento (CE) n.º 1099/2008.**◄**\n\n2. Até 15 de março de cada ano, cada Estado Membro deve enviar à Comissão um resumo do registo das reservas a que se refere o n.º 1, indicando, pelo menos, as quantidades e a natureza das reservas de segurança inscritas no registo no último dia do ano civil precedente.\n\n3. No prazo de 15 dias após o pedido da Comissão, os Estados-Membros devem também enviar-lhe uma cópia completa do registo; nesta cópia, os dados sensíveis relativos à localização das reservas podem ficar retidos. Estes pedidos podem ser feitos o mais tardar cinco anos após a data a que os dados solicitados dizem respeito, e não podem incidir sobre dados relativos a qualquer período anterior a 1 de Janeiro de 2013."
+  },
+  "695f1bb09e9ea2ef": {
+   "fragment_id": "Artigo 9.º — Reservas específicas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Reservas específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reservas específicas\n\n1. Cada Estado-Membro pode comprometer-se a manter um nível mínimo de reservas de petróleo, determinado em número de dias de consumo, nas condições estabelecidas no presente artigo.\n\nAs reservas específicas são da propriedade do Estado-Membro ou da ECA por ele criada e são mantidas no território da Comunidade.\n\n2. As reservas específicas só podem ser constituídas por uma ou mais das seguintes categorias de produtos, definidas no anexo A, secção 3.4, do Regulamento (CE) n.º 1099/2008:\n\n— Etano;\n\n— GPL;\n\n— Gasolina para motores;\n\n— Gasolina de aviação;\n\n— Carborreactores do tipo gasolina (carborreactores do tipo nafta ou JP4);\n\n— Combustíveis do tipo querosene para motores de reacção;\n\n— Outro querosene;\n\n— Gasóleo/diesel (fuelóleo destilado);\n\n— Fuelóleo (de baixo e de alto teor de enxofre);\n\n— White spirit e SBP;\n\n— Lubrificantes;\n\n— Betume;\n\n— Ceras parafínicas;\n\n— Coque de petróleo.\n\n3. Cada Estado-Membro deve determinar, com base nas categorias referidas no número 2, os produtos petrolíferos que constituem as reservas específicas. Os Estados-Membros devem assegurar que, para o ano de referência determinado de acordo com as regras estabelecidas no artigo 3.º e no que diz respeito aos produtos incluídos nas categorias utilizadas, o equivalente de petróleo bruto das quantidades consumidas no Estado-Membro represente, pelo menos, 75 % do consumo interno calculado de acordo com o método enunciado no anexo II.\n\nPara cada uma das categorias escolhidas pelo Estado-Membro, as reservas específicas que este se compromete a manter devem corresponder a um número determinado de dias de consumo interno, medidas com base no seu equivalente de petróleo bruto, durante o ano de referência determinado de acordo com as regras estabelecidas no artigo 3.º\n\nOs equivalentes de petróleo bruto referidos nos primeiro e segundo parágrafos são calculados mediante a aplicação de um coeficiente multiplicador de 1,2 à soma do agregado de «fornecimentos internos brutos observados», definidos no anexo C, ponto 3.2.2.11, do Regulamento (CE) n.º 1099/2008, dos produtos incluídos nas categorias usadas ou em questão. As bancas marítimas internacionais não são incluídas no cálculo.\n\n4. Cada Estado-Membro que tiver decidido manter reservas específicas deve enviar à Comissão um aviso a publicar no *Jornal Oficial da União Europeia*, especificando o nível das reservas que se comprometeu a manter e a duração desse compromisso, que deve ser de pelo menos um ano. O nível mínimo notificado é uniformemente aplicado a todas as categorias de reservas específicas utilizadas pelo Estado-Membro.\n\nO Estado-Membro deve garantir que essas reservas sejam detidas durante todo o período notificado, sem prejuízo do direito do Estado-Membro de proceder a reduções temporárias devido exclusivamente a operações individuais de substituição de reservas.\n\nA lista de categorias utilizadas por um Estado-Membro deve permanecer em vigor pelo menos durante um ano e só pode ser alterada com efeitos a partir do primeiro dia de um mês civil.\n\n5. Cada Estado-Membro que não se tiver comprometido a deter, em todo um ano civil, pelo menos 30 dias de reservas específicas deve garantir que pelo menos um terço das suas obrigações de armazenagem seja detido sob a forma de produtos compostos nos termos dos n.^os^ 2 e 3.\n\nOs Estados-Membros nos quais sejam detidos menos de 30 dias de reservas específicas devem elaborar um relatório anual em que analisem as medidas tomadas pelas suas autoridades nacionais para garantir e verificar a disponibilidade e acessibilidade física das suas reservas de segurança, como se refere no artigo 5.º, e documentar no mesmo relatório as medidas tomadas para permitir aos Estados-Membros controlar a utilização dessas reservas em caso de rupturas no aprovisionamento em petróleo. O referido relatório é enviado à Comissão até ao final do primeiro mês do ano civil a que refere."
+  },
+  "cecd13c0cda4b08a": {
+   "fragment_id": "Artigo 27.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Destinatários\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "51cbff296d2a7cfe": {
+   "fragment_id": "MÉTODO DE CÁLCULO DO EQUIVALENTE DE PETRÓLEO BRUTO DAS IMPORTAÇÕES DE PRODUTOS PETROLÍFEROS",
+   "type": "divisao",
+   "heading": "MÉTODO DE CÁLCULO DO EQUIVALENTE DE PETRÓLEO BRUTO DAS IMPORTAÇÕES DE PRODUTOS PETROLÍFEROS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODO DE CÁLCULO DO EQUIVALENTE DE PETRÓLEO BRUTO DAS IMPORTAÇÕES DE PRODUTOS PETROLÍFEROS\n\nOs Estados-Membros calculam o equivalente de petróleo bruto das importações de produtos petrolíferos a que se refere o artigo 3.º de acordo com o método abaixo descrito.\n\n1) O total de importações líquidas de petróleo bruto, de gás natural líquido (GNL), de matérias-primas para refinarias e de outros hidrocarbonetos, conforme definidos no anexo A, secção 3.4, do Regulamento (CE) n.º 1099/2008 ([^1^](http://publications.europa.eu/resource/cellar/4a4fee48-436d-11ea-b81b-01aa75ed71a1.0019.03/DOC_1#E0001)), é calculado e ajustado a fim de ter em conta eventuais alterações das reservas. Do resultado obtido é deduzido um dos seguintes valores, em representação do rendimento da nafta:\n\n— 4 %;\n\n— a taxa média de rendimento da nafta;\n\n— o consumo líquido efetivo de nafta.\n\n2) O total de importações líquidas de todos os outros produtos petrolíferos definidos no anexo A, secção 3.4, do Regulamento (CE) n.º 1099/2008, excluindo a nafta, é calculado e ajustado a fim de ter em conta as variações de reservas, e é multiplicado por um coeficiente de 1,065.\n\nA soma dos valores calculados conforme o disposto nos pontos 1 e 2 representa o equivalente de petróleo bruto.\n\nAs bancas marítimas internacionais não são incluídas no cálculo."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "5b823453833bd970": {
+   "fragment_id": "MÉTODO DE CÁLCULO DO EQUIVALENTE DE PETRÓLEO BRUTO DO CONSUMO INTERNO",
+   "type": "divisao",
+   "heading": "MÉTODO DE CÁLCULO DO EQUIVALENTE DE PETRÓLEO BRUTO DO CONSUMO INTERNO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODO DE CÁLCULO DO EQUIVALENTE DE PETRÓLEO BRUTO DO CONSUMO INTERNO\n\nPara efeitos do disposto no artigo 3.º, o equivalente de petróleo bruto do consumo interno é calculado de acordo com o seguinte método:\n\nO consumo interno é a soma do agregado de «fornecimentos internos brutos observados», definidos no anexo C, ponto 3.2.2.11, do Regulamento (CE) n.º 1099/2008, exclusivamente dos seguintes produtos: gasolina para motores, gasolina de aviação, carborreatores do tipo gasolina (carborreatores do tipo nafta ou JP4), combustíveis do tipo querosene para motores de reação, outro querosene, gasóleo/*diesel* (fuelóleo destilado), fuelóleo (de baixo e de alto teor em enxofre), conforme definidos no anexo A, secção 3.4, do Regulamento (CE) n.º 1099/2008.\n\nAs bancas marítimas internacionais não são incluídas no cálculo.\n\nO equivalente de petróleo bruto do consumo interno é calculado mediante a aplicação de um coeficiente multiplicador de 1,2."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "fdc751f22a5e7adb": {
+   "fragment_id": "MÉTODOS APLICÁVEIS AO CÁLCULO DO NÍVEL DE RESERVAS MANTIDO",
+   "type": "divisao",
+   "heading": "MÉTODOS APLICÁVEIS AO CÁLCULO DO NÍVEL DE RESERVAS MANTIDO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MÉTODOS APLICÁVEIS AO CÁLCULO DO NÍVEL DE RESERVAS MANTIDO\n\nSão aplicáveis os seguintes métodos ao cálculo do nível de reservas:\n\nOs Estados-Membros podem:\n\na) Incluir todas as outras reservas de produtos petrolíferos identificados no anexo A, secção 3.4, do Regulamento (CE) n.º 1099/2008 e calcular o equivalente de petróleo bruto mediante a aplicação de um coeficiente multiplicador de 1,065 às quantidades identificadas; ou\n\nb) Incluir as reservas exclusivamente dos seguintes produtos: gasolina para motores, gasolina de aviação, carborreactores do tipo gasolina (carborreactores do tipo nafta ou JP4), combustíveis do tipo querosene para motores de reacção, outro querosene, gasóleo/diesel (fuelóleo destilado), fuelóleo (de baixo e de alto teor de enxofre) e calcular o equivalente de petróleo bruto multiplicando as quantidades pelo factor de 1,2.\n\nO cálculo pode incluir as quantidades detidas:\n\n— nos tanques das refinarias,\n\n— nos terminais de carga,\n\n— nos tanques de alimentação dos oleodutos,\n\n— nas lanchas,\n\n— nos navios-tanque de cabotagem,\n\n— nos petroleiros ancorados nos portos,\n\n— em todas as bancas de embarcações de navegação interior,\n\n— no fundo dos reservatórios,\n\n— sob a forma de reservas de exploração,\n\n— por consumidores importantes em virtude das obrigações legais ou de outras directrizes dos poderes públicos.\n\nNo entanto, estas quantidades, com excepção das detidas nos tanques das refinarias, nos tanques de alimentação dos oleodutos ou nos terminais de carga, não podem ser incluídas no cálculo dos níveis das reservas específicas se estas últimas forem calculadas separadamente das reservas de segurança.\n\nNão podem nunca ser tidos em conta no cálculo das reservas:\n\na) O petróleo bruto ainda não produzido;\n\nb) As quantidades detidas:\n\n— nos oleodutos,\n\n— nos vagões-cisterna,\n\n— em todas as bancas de navios de mar alto,\n\n— em estações de serviço e lojas de venda a retalho,\n\n— por outros consumidores,\n\n— em petroleiros no mar,\n\n— sob a forma de reservas militares.\n\nNo cálculo das suas reservas, os Estados-Membros devem proceder a uma redução de 10 % das quantidades de reservas calculadas conforme indicado *supra*. Essa redução é aplicável ao conjunto das quantidades tidas em conta num determinado cálculo.\n\nContudo, a redução de 10 % não deve ser aplicada ao cálculo do nível das reservas específicas nem do nível das diferentes categorias de reservas específicas se essas reservas específicas ou categorias forem consideradas separadamente das reservas de segurança, nomeadamente para verificar se são respeitados os níveis mínimos previstos no artigo 9.º."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "fd95189ead72f07e": {
+   "fragment_id": "Regras para a elaboração e comunicação à Comissão dos resumos estatísticos relativos ao nível das reservas a manter em aplicação do artigo 3.º",
+   "type": "divisao",
+   "heading": "Regras para a elaboração e comunicação à Comissão dos resumos estatísticos relativos ao nível das reservas a manter em aplicação do artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Regras para a elaboração e comunicação à Comissão dos resumos estatísticos relativos ao nível das reservas a manter em aplicação do artigo 3.º\n\nCada Estado-Membro elaborará e comunicará mensalmente à Comissão um resumo estatístico definitivo do nível das reservas efectivamente mantidas no último dia de cada mês civil, calculado com base quer num número de dias de importações líquidas de petróleo quer num número de dias de consumo interno de petróleo, de acordo com o artigo 3.º. O resumo estatístico deve indicar com exactidão as razões pelas quais o cálculo se baseia num número de dias de importação ou, pelo contrário, num número de dias de consumo e deve especificar qual dos métodos referidos no anexo III foi utilizado.\n\nSe determinadas reservas incluídas no cálculo do nível das reservas detidas nos termos do artigo 3.º forem detidas fora do território nacional, cada resumo deve indicar de forma pormenorizada as reservas mantidas pelos diferentes Estados-Membros e ECA em causa no último dia do período a que se refere esse resumo. O Estado-Membro indicará além disso no resumo estatístico, em cada caso, se se trata de reservas mantidas a título de uma delegação pedida por um ou vários operadores económicos, ou se se trata de reservas mantidas a seu pedido ou ainda a pedido da sua ECA.\n\nRelativamente a quaisquer reservas detidas no território de um Estado-Membro por conta de outros Estados-Membros ou ECA, esse Estado-Membro elaborará e comunicará à Comissão um resumo que indique as reservas existentes no último dia de cada mês civil, por categoria de produtos. Nesse resumo estatístico, o Estado-Membro indicará também, nomeadamente, o Estado-Membro ou a ECA em causa, bem como as quantidades em cada caso.\n\nA comunicação à Comissão dos resumos estatísticos referidos no presente anexo será efectuada dentro de 55 dias a contar do final do mês a que se referem os resumos. Esses mesmos resumos deverão também ser comunicados dentro de dois meses após um pedido da Comissão. Esses pedidos podem ser feitos o mais tardar até cinco anos após a data a que se referem os dados.\n\n---"
+  },
+  "6b29b6ccb6d3ce4c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4a4fee48-436d-11ea-b81b-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Com a redação que lhe foi dada pelo Regulamento (UE) 2017/2010 da Comissão, de 9 de novembro de 2017."
+  }
+ }
+}

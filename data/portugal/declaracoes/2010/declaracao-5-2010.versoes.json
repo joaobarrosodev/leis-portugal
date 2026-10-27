@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:609318:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao/2010-907624783",
+ "dre_path": "/dr/detalhe/declaracao/5-2010-609318",
+ "source_lastmod": "2025-02-14",
+ "versions": [
+  {
+   "date": "2010-02-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907586563"
+   ]
+  }
+ ],
+ "fragments": {
+  "907586563": {
+   "fragment_id": "907624784",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Declaração n.º 5/2010\n\nSubstituição do representante da Associação Nacional de Municípios Portugueses no Conselho de Acompanhamento da Criação e Instalação dos Julgados de Paz\n\nPara os efeitos previstos na alínea e) do n.º 2 do artigo 65.º da Lei n.º 78/2001, de 13 de Julho, declara-se que o Presidente da Câmara Municipal da Figueira da Foz, João Albino Rainho Ataíde das Neves, substitui o engenheiro Artur Pontevianne Homem da Trindade como representante da Associação Nacional de Municípios Portugueses no Conselho de Acompanhamento da Criação e Instalação dos Julgados de Paz."
+  }
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107709527:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-107714256",
+ "dre_path": "/dr/detalhe/portaria/213-a-2017-107709527",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-07-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107717788",
+    "107717789",
+    "107717790",
+    "107717791",
+    "107717792",
+    "107717793"
+   ]
+  },
+  {
+   "date": "2019-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123092282:por",
+     "title": "Portaria n.º 218/2019",
+     "published": "2019-07-11",
+     "dre_path": "/dr/detalhe/portaria/218-2019-123092282"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "107717788",
+    "107717789",
+    "107717790",
+    "123011488",
+    "107717792",
+    "107717793",
+    "107717794"
+   ]
+  },
+  {
+   "date": "2021-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160510574:por",
+     "title": "Portaria n.º 73/2021",
+     "published": "2021-03-30",
+     "dre_path": "/dr/detalhe/portaria/73-2021-160510574"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "107717788",
+    "107717789",
+    "107717790",
+    "160508246",
+    "107717792",
+    "107717793",
+    "107717794"
+   ]
+  }
+ ],
+ "fragments": {
+  "107717788": {
+   "fragment_id": "107714257",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 213-A/2017\n\nde 19 de julho\n\nA Portaria n.º 107/2015, de 13 de abril, alterada pela Portaria n.º 249/2016, de 15 de setembro, estabeleceu o regime de aplicação da operação 3.2.2, «Pequenos investimentos na exploração agrícola», e da operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», ambas da medida n.º 3, «Valorização da produção agrícola», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020.\n\nA presente alteração à Portaria n.º 107/2015, de 13 de abril, visa elevar o custo total elegível dos projetos de investimento à operação 3.2.2, «Pequenos investimentos na exploração agrícola», apurado em sede de análise, para um valor inferior ou igual a 40 000 euros.\n\nAproveita-se também a presente alteração para adotar um critério de elegibilidade do beneficiário mais ajustado à realidade nacional, definindo-se o conceito de «catástrofe natural», em virtude de a sua ocorrência constituir uma derrogação ao mencionado critério de elegibilidade e à área geográfica de aplicação dos apoios previstos na Portaria n.º 107/2015, de 13 de abril.\n\nDefine-se o conceito de «membro de agrupamento ou de organização de produtores reconhecido», que constitui um critério de seleção conducente à hierarquização do universo das candidaturas apresentadas no âmbito dos concursos.\n\nDesta forma, com a presente alteração uniformizam-se conceitos e critérios de elegibilidade dos beneficiários ao nível dos pequemos investimentos do PDR 2020.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, com a redação dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, o seguinte:"
+  },
+  "107717789": {
+   "fragment_id": "107714258",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à segunda alteração à Portaria n.º 107/2015, de 13 de abril, que estabelece o regime de aplicação da operação 3.2.2, «Pequenos investimentos na exploração agrícola», e da operação 3.3.2, «Pequenos investimentos na transformação e comercialização de produtos agrícolas», ambas da medida n.º 3, «Valorização da produção agrícola», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "107717790": {
+   "fragment_id": "107714259",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Portaria n.º 107/2015, de 13 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Portaria n.º 107/2015, de 13 de abril\n\nOs artigos 4.º, 6.º, 7.º e 10.º da Portaria n.º 107/2015, de 13 de abril, alterada pela Portaria n.º 249/2016, de 15 de setembro, passam a ter a seguinte redação:\n\n«Artigo 4.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) 'Membro de agrupamento ou de organização de produtores reconhecido' a pessoa singular ou coletiva associada da entidade reconhecida como agrupamento ou organização de produtores ou, ainda, no caso do setor leiteiro, os associados de cooperativas associadas da entidade reconhecida;\n\nf) 'Catástrofe natural' um acontecimento natural, biótico ou abiótico, que perturba gravemente os sistemas de produção agrícola ou as estruturas florestais, provocando, a prazo, prejuízos económicos importantes para os setores agrícola ou florestal.\n\nArtigo 6.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) Terem um volume de negócios igual ou inferior a 50 000 euros no ano anterior ao da apresentação da candidatura;\n\ni) Não terem recebido pagamentos diretos ou terem recebido pagamentos de valor igual ou inferior a 5000 euros, no ano anterior ao da apresentação da candidatura.\n\n2 - Para efeitos do disposto na alínea i) do n.º 1, consideram-se 'pagamentos diretos' os previstos nas alíneas a) a e) do n.º 1 do artigo 1.º da Portaria n.º 57/2015, de 27 de fevereiro, na sua atual redação, nas alíneas a) e b) do n.º 1 do artigo 4.º do Despacho Normativo n.º 2/2015, de 20 de janeiro, na sua atual redação, e nas alíneas a) a c) do n.º 1 do artigo 3.º do Despacho Normativo n.º 14/2014, de 29 de outubro, na sua atual redação.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)\n\nArtigo 7.º\n\n[...]\n\n1 - Podem beneficiar dos apoios à operação 3.2.2, 'Pequenos investimentos na exploração agrícola', os projetos de investimento que se enquadrem nos objetivos previstos no artigo 2.º e tenham um custo total elegível, apurado em sede de análise, igual ou superior a 1000 euros e inferior ou igual a 40 000 euros.\n\n2 - ...\n\n3 - ...\n\na) (Revogada.)\n\nb) ...\n\nc) ...\n\nd) ...\n\n4 - ...\n\nArtigo 10.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n2 - ...\n\n3 - ...\n\n4 - Os critérios de seleção são avaliados com base em informação disponível à data de submissão da candidatura, podendo o aviso de abertura definir momento distinto.»"
+  },
+  "107717791": {
+   "fragment_id": "107714260",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\nO disposto no artigo 3.º e nas alíneas h) e i) do n.º 1 do artigo 6.º da Portaria n.º 107/2015, de 13 de abril, não é aplicável às candidaturas com investimentos em explorações agrícolas abrangidas por medidas extraordinárias adotadas no âmbito de catástrofes naturais."
+  },
+  "107717792": {
+   "fragment_id": "107714261",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a alínea a) do n.º 3 do artigo 7.º da Portaria n.º 107/2015, de 13 de abril."
+  },
+  "107717793": {
+   "fragment_id": "107714262",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "123011488": {
+   "fragment_id": "107714260",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": "2019-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 218/2019 - Diário da República n.º 131/2019, Série I de 2019-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/218-2019-123092282), em vigor a partir de 2019-07-12, produz efeitos a partir de 2018-01-25"
+   ],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\nO disposto no artigo 3.º e na alínea b) do n.º 2 do artigo 6.º da Portaria n.º 107/2015, de 13 de abril, não é aplicável às candidaturas com investimentos em explorações agrícolas abrangidas por medidas extraordinárias adotadas no âmbito de catástrofes naturais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 218/2019 - Diário da República n.º 131/2019, Série I de 2019-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/218-2019-123092282), em vigor a partir de 2019-07-12, produz efeitos a partir de 2018-01-25"
+  },
+  "107717794": {
+   "fragment_id": "107714263",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 18 de julho de 2017."
+  },
+  "160508246": {
+   "fragment_id": "107714260",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": "2021-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 218/2019 - Diário da República n.º 131/2019, Série I de 2019-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/218-2019-123092282), em vigor a partir de 2019-07-12, produz efeitos a partir de 2018-01-25"
+   ],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\nO disposto no artigo 3.º e na alínea b) do n.º 2 do artigo 6.º da Portaria n.º 107/2015, de 13 de abril, não é aplicável às candidaturas com investimentos em explorações agrícolas abrangidas por medidas extraordinárias adotadas no âmbito de catástrofes naturais.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 73/2021 - Diário da República n.º 62/2021, Série I de 2021-03-30](https://diariodarepublica.pt/dr/detalhe/portaria/73-2021-160510574), em vigor a partir de 2021-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 218/2019 - Diário da República n.º 131/2019, Série I de 2019-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/218-2019-123092282), em vigor a partir de 2019-07-12, produz efeitos a partir de 2018-01-25"
+  }
+ }
+}

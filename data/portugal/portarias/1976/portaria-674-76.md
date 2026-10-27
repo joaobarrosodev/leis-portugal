@@ -1,0 +1,346 @@
+---
+schema_version: '1.0'
+id: pt:dre:407108:por
+title: Portaria n.º 674/76
+short_title: null
+summary: Aprova o Regulamento dos Órgãos de Gestão das Escolas de Enfermagem Oficiais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Assuntos Sociais - Secretaria de Estado da Saúde
+proposing_entity: null
+official_number: 674/76
+official_date: null
+publication_date: '1976-11-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 266/1976, Série I de 1976-11-13
+  number: '266'
+  series: I
+  supplement: null
+  pages: 2586 - 2588
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/11/26600/25862588.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '407108'
+  dre_path: /dr/detalhe/portaria/674-1976-407108
+  internal: pt:dre:407108:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/674-1976-407108
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/674-1976-407108
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:10:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b59941a587c050f0fb087a2545ebcf7c6fca03de085191f5bd7ddf926dc7a599
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:10:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Gestão
+- Ensino Oficial
+- Escola de Enfermagem
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:479387:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:numero:portaria:384/82
+  label: ALTERADA A REDACÇÃO DO ART 4 DO REGULAMENTO PELA PORT 384/82 DE 16-ABR DR.IS [88] 88]
+  source: null
+  date: '1982-04-16'
+- type: cites
+  target: pt:dre:210055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668920:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479387:por
+  label: "Revogada com efeitos a partir da nomeação do director da escola a que se refere o DEC LEI.205/95.1995.08.08.MS,\
+    \ DR.IS-A [182]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/205-1995-479387
+  date: '1995-08-08'
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:10:21Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 674/76
+
+de 13 de Novembro
+
+As experiências de gestão democráticas vividas nas escolas de enfermagem nos dois últimos anos permitiram a recolha de importantes elementos para o seu funcionamento Há, no entanto, que estabelecer normas gerais aplicáveis a todas as escolas, em que, além da democraticidade interna, fiquem assegurados o seu funcionamento eficiente e a competência técnica essencial à sua importante função. Para o efeito, foram ouvidos os delegados das escolas de enfermagem e os sindicatos de enfermeiros e tomadas em conta as suas propostas.
+
+Nestes termos:
+
+Ao abrigo do disposto nos artigos 3.º e 2.º, § 2.º, respectivamente, do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, e [Decreto n.º 38885](https://diariodarepublica.pt/dr/detalhe/decreto/38885-1952-668920), da mesma data:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, aprovar o Regulamento dos Órgãos de Gestão das Escolas de Enfermagem Oficiais, anexo à presente portaria e que da mesma faz parte integrante.
+
+Secretaria de Estado da Saúde, 13 de Outubro de 1976. - O Secretário de Estado da Saúde, Adalberto Paulo da Fonseca Mendo.
+
+REGULAMENTO DOS ÓRGÃOS DE GESTÃO DAS ESCOLAS DE ENFERMAGEM OFICIAIS
+
+###### Artigo 1.º — Órgãos de gestão das escolas de enfermagem
+
+1. Nas escolas de enfermagem há os seguintes órgãos de gestão:
+
+a) A nível geral:
+
+Assembleia geral da escola;
+
+Assembleia de sector;
+
+Comissão de gestão;
+
+Conselho pedagógico científico.
+
+b) A nível de serviços:
+
+Órgãos de gestão de cursos;
+
+Órgãos de gestão dos serviços de apoio.
+
+2. Deverá haver em cada escola um órgão de representação dos trabalhadores.
+
+3. Poderá haver em cada escola de enfermagem uma comissão assessora com fins unicamente consultivos.
+
+###### Artigo 2.º — Assembleia geral de escola
+
+1. A assembleia geral de escola (AGE) é constituída pelos alunos regulares e pelo pessoal efectivo docente, técnico, administrativo e auxiliar.
+
+2. Para efeito do número anterior, considera-se pessoal efectivo o conjunto de todos os trabalhadores que exerçam na escola a sua actividade profissional em regime de tempo integral.
+
+3. A AGE deverá decidir quanto ao estatuto dos alunos de cursos ocasionais de actualização, aperfeiçoamento, promoção, reciclagem e outro e ao estatuto do pessoal não efectivo.
+
+4. À AGE compete:
+
+a) Pronunciar-se sobre os planos de actividade e relatórios apresentados pela comissão de gestão, tendo em vista o contrôle do rendimento e eficiência de todos os serviços;
+
+b) Emitir pareceres sobre as questões que lhe sejam apresentadas por qualquer dos órgãos da escola ou assembleias de sector;
+
+c) Aprovar regulamentos internos.
+
+5. Cada escola fará o regimento da sua AGE, do qual dará conhecimento à Secretaria de Estado da Saúde através do Instituto Nacional de Saúde, incluindo no mesmo as seguintes normas:
+
+a) A AGE só pode ser convocada pela respectiva mesa eleita ou por um número de membros não inferior a 15% da AGE, na forma e prazos prescritos por lei;
+
+b) Só serão reconhecidas como representativas as deliberações que tiverem a aprovação de mais de 20% do número total de elementos da assembleia;
+
+c) A mesa da assembleia ou a comissão de gestão podem exigir referendo secreto sobre qualquer deliberação que, mesmo tomada dentro do expresso em b), lhe pareça não corresponder à vontade da maioria ou deva pela sua importância ser reforçada por plebiscito;
+
+d) As decisões tomadas em AGE que devam ser comunicadas à Secretaria de Estado da Saúde deverão ser sempre acompanhadas pelas actas respectivas, donde constará o número de presenças no início da assembleia, o número de votantes e discriminação do voto e o número de elementos pertencentes à assembleia.
+
+###### Artigo 3.º — Assembleia de sector
+
+1. Poderá cada escola, de acordo com a sua dimensão, organizar-se em assembleias de sector.
+
+2. Poderá haver as seguintes assembleias de sector:
+
+Assembleia de alunos;
+
+Assembleia de pessoal docente;
+
+Assembleia de pessoal técnico, administrativo e auxiliar.
+
+3. Compete às assembleias de sector:
+
+a) Eleger e propor admissão dos seus representantes na comissão de gestão;
+
+b) Eleger os respectivos representantes para o conselho pedagógico científico;
+
+c) Estudar e dar parecer sobre todos os assuntos de interesse para os trabalhadores do respectivo sector;
+
+d) Propor medidas que considere oportunas para o aperfeiçoamento profissional;
+
+e) Fomentar a cooperação entre os diferentes sectores da escola;
+
+f) Apreciar aspectos do exercício das funções do sector respectivo que envolvam princípios deontológicos;
+
+g) Facultar à comissão de gestão toda a informação disponível para o cabal desempenho da sua função.
+
+4. As assembleias de sector deverão cumprir as regras de funcionamento estabelecidas para a AGE.
+
+###### Artigo 4.º — Comissão de gestão
+
+1. A comissão de gestão é constituída por alunos e membros do pessoal docente e do pessoal técnico, administrativo e auxiliar, eleitos em assembleia do sector respectivo.
+
+2. A eleição da comissão de gestão deve ser feita por sufrágio universal, directo e secreto, por um número superior a 50% do total dos eleitores; caso seja apresentada uma lista única, esta só se considerará eleita se tiver 50% mais um dos votos entrados.
+
+3. Os membros do corpo docente para a comissão de gestão deverão ser eleitos de entre os enfermeiros que possuam o curso de enfermagem complementar - secção de ensino.
+
+4. O número de membros da comissão de gestão não deverá ser superior a cinco.
+
+5. O número de alunos e docentes deve ser paritário e o do restante pessoal não deve ser superior ao conjunto dos dois.
+
+6. À comissão de gestão compete:
+
+a) Assegurar a gestão pedagógica, tendo em conta os pareceres e orientações emitidos pelo conselho pedagógico-científico;
+
+b) Assegurar a gestão do pessoal da escola, garantindo o aperfeiçoamento e actualização permanente de todos os trabalhadores;
+
+c) Assegurar a gestão económico-financeira da escola nomeadamente:
+
+Preparar os projectos de orçamento;
+
+Verificar a legalidade das despesas e autorizar o respectivo pagamento;
+
+Promover a cobrança das receitas;
+
+Prestar contas de gerência;
+
+Dar balanço periódico à tesouraria;
+
+d) Assegurar a gestão e conservação de todos os bens materiais da escola;
+
+e) Elaborar o plano anual de actividades da escola, ouvindo obrigatoriamente o conselho pedagógico-científico e, sempre que necessário, a comissão assessora;
+
+f) Responder perante o Governo pelo cumprimento da lei e normas regulamentares superiormente aprovadas;
+
+g) Dar cumprimento ao que for decidido em AGE em matéria da sua competência;
+
+h) Assegurar e desenvolver a prática democrática da escola e do ensino;
+
+i) Representar a escola ou fazê-la representar;
+
+j) Coordenar as actividades de todos os órgãos e serviços da escola;
+
+l) Apreciar periodicamente o rendimento e eficiência de todos os serviços da escola e propor medidas de correcção, se necessário;
+
+m) Manter toda a escola informada da gestão pedagógica, administrativa e económico-financeira;
+
+n) Elaborar e propor à AGE a aprovação de regulamentos internos;
+
+o) Decidir, de acordo com a orientação pela AGE e conselho pedagógico-científico, todas as questões de interesse para a escola;
+
+p) Submeter à aprovação superior todos os assuntos sobre os quais a escola não tem competência para decidir;
+
+q) Exercer o poder disciplinar que a lei e/ou os regulamentos disciplinares internos lhe conferem;
+
+r) Elaborar o relatório anual de actividades da escola e submetê-lo à AGE e enviá-lo posteriormente ao Instituto Nacional de Saúde.
+
+7. A comissão de gestão poderá constituir comissões ou grupos de trabalho para estudar assuntos relativos a sua competência.
+
+8. O mandato da comissão de gestão será de três anos e a sua constituição deverá ser homologada pelo Secretário de Estado da Saúde, com publicação no Diário da República, seguida de posse.
+
+9. No caso de demissão de membros da comissão de gestão, os novos membros deverão ser eleitos no prazo de sessenta dias se não houver suplentes.
+
+10. Para assegurar o expediente diário e executar as tarefas delegadas pela comissão de gestão os membros do corpo docente que dela fazem parte poderão ser desligados das actividade pedagógicas.
+
+11. Internamente, a comissão de gestão designará o membro que a representará junto da Secretaria de Estado da Saúde e serviços centrais.
+
+12. A comissão de gestão de escolas de enfermagem em regime de instalação será substituída por uma comissão instaladora, nos termos legais.
+
+###### Artigo 5.º — Conselho pedagógico-científico
+
+1. O conselho pedagógico-científico é constituído por docentes e discentes, em número paritário.
+
+2. O conselho pedagógico-científico designará de entre os seus membros o docente que terá voto de qualidade.
+
+3. A constituição do conselho pedagógico-científico deverá assegurar a representatividade de todos os cursos professados na escola.
+
+4. Compete ao conselho pedagógico-científico emitir orientações, dar pareceres e fazer propostas sobre os seguintes assuntos:
+
+a) Planos e relatórios anuais de actividades pedagógicas;
+
+b) Cursos a professar na escola e número de alunos a admitir;
+
+c) Planos e programas de cursos;
+
+d) Actividades circum-escolares;
+
+e) Condições de admissão de alunos;
+
+f) Orientação de alunos;
+
+g) Avaliação de alunos;
+
+h) Avaliação da eficiência do ensino;
+
+i) Admissão de pessoal docente;
+
+j) Actividades de investigação pedagógica;
+
+l) Outros assuntos submetidos pela AGE e comissão de gestão.
+
+###### Artigo 6.º — Comissão assessora
+
+1. Tendo em vista uma melhor participação dos serviços de saúde na vida da escola, por decisão da AGE poderá haver uma comissão assessora constituída por representantes dos sindicatos de enfermagem, representantes dos estabelecimentos de saúde locais, representantes dos antigos alunos, individualidades de mérito técnico e pedagógico e representantes da comunidade.
+
+2. À comissão assessora competirá dar apoio consultivo à comissão de gestão e ao conselho pedagógico-científico, informando estes órgãos sobre:
+
+a) Necessidades da comunidade no domínio da salde, especialmente no que se refere a recursos humanos;
+
+b) Necessidades de funcionamento de novos cursos na escola;
+
+c) Necessidades de organização de actividades de actualização ou aperfeiçoamento para enfermeiros que exerçam a profissão na área de implantação da escola.
+
+###### Artigo 7.º — Serviços de ensino
+
+Em cada curso de enfermagem deverá haver um órgão constituído por docentes e discentes, a quem compete gerir o curso, sem prejuízo da competência dos restantes Órgãos da escola.
+
+###### Artigo 8.º — Serviços de apoio
+
+Os restantes sectores da escola, serviços administrativos, serviços de residência, serviço de saúde, biblioteca e outros, deverão ser geridos, sem prejuízo da competência dos restantes órgãos da escola, por chefias colegiais, das quais farão parte os funcionários mais qualificados dos respectivos sectores, constituídas de acordo com a na própria dimensão, e assegurando a representatividade de todos os trabalhadores e utentes, que neles estão integrados.
+
+###### Artigo 9.º — Disposições gerais e transitórias
+
+1. Na composição de todos os Órgãos de gestão da escola deverá ser assegurada a competência técnica e pedagógica.
+
+2. Cada escola deverá elaborar as normas de funcionamento interno da comissão de gestão, conselho pedagógico-científico e comissão assessora.
+
+3. Para os órgãos a criar nos serviços de ensino e para as chefias colegiais dos serviços de apoio deverá cada escola elaborar normas de funcionamento, definir competências e estabelecer níveis de decisão.
+
+4. Cada escola deverá apresentar à Secretaria de Estado da Saúde, no prazo de trinta dias, as normas do seu funcionamento, de acordo com o regulamento.
+
+5. As disposições contidas neste regulamento manter-se-ão em vigor durante dois anos, findos os quais será feita a sua avaliação e introduzidas as alterações que se afigurem necessárias.
+
+6. Continua em vigor a [Portaria n.º 34/70](https://diariodarepublica.pt/dr/detalhe/portaria/34-1970-210055), de 14 de Janeiro. excepto na matéria que contraria as normas do presente Regulamento.
+
+Secretaria de Estado da Saúde, 13 de Outubro de 1976. - O Secretário de Estado da Saúde, Adalberto Paulo da Fonseca Mendo.

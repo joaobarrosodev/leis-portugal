@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:390381:por
+title: Decreto Regulamentar n.º 2/81
+short_title: null
+summary: Cria o Centro Nacional de Pensões (CNP)
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e dos Assuntos Sociais
+proposing_entity: null
+official_number: 2/81
+official_date: null
+publication_date: '1981-01-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 12/1981, Série I de 1981-01-15
+  number: '12'
+  series: I
+  supplement: null
+  pages: 107 - 109
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/01/01200/01070109.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390381'
+  dre_path: /dr/detalhe/decreto-regulamentar/2-1981-390381
+  internal: pt:dre:390381:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1981-390381
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1981-390381
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:03:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4b45a16df84341f30c396e7058ebd3a08b45111e8a23693fceb8c373fd8ee9fb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:03:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Caixa Nacional de Pensões
+- Centro Nacional de Pensões
+- Quadro de Pessoal
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:325765:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:451644:por
+  label: "Prorrogado, por um ano, o regime de instalação estabelecido pelo presente diploma, pela PORT.624/83.30.05.1983.MAS,\
+    \ DR.IS [124] de 30.05.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/624-1983-451644
+  date: '1983-05-30'
+- type: amended_by
+  target: pt:dre:193577:por
+  label: Prorrogado até 31.12.1986 o regime de instalação do Centro Nacional de Pensões pelo(a) Decreto-Lei n.º 44/86 - Diário
+    da República n.º 55/1986, Série I de 1986-03-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1986-193577
+  date: '1986-03-07'
+- type: amended_by
+  target: pt:dre:325765:por
+  label: "Extinto o Centro Nacional de Pens&#245;es e inserido no art. 28&#186; do Estatuto do ISSS com as respectivas compet&#234;ncias,\
+    \ pelo DEC LEI.316-A/2000.2000.12.07.MTS DR.IS-A [282]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/316-a-2000-325765
+  date: '2000-12-07'
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365765:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622319:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:03:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 2/81
+
+de 15 de Janeiro
+
+O [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Julho, procedeu à reestruturação orgânica da segurança social segundo princípios de integração, unificação e descentralização.
+
+Tem sido uma das tarefas principais do Governo a de, progressivamente, dar corpo aos novos serviços previstos naquele diploma por meio da publicação dos respectivos decretos regulamentares.
+
+Neste sentido, não deve deixar de citar-se os departamentos centrais de funções técnico-normativas dotados do necessário diploma orgânico - a Direcção-Geral da Segurança Social, a Direcção-Geral da Organização e Recursos Humanos, a Inspecção-Geral da Segurança Social -, os quais se vieram juntar aos que já estavam estruturados - o Instituto de Gestão Financeira e o Departamento de Planeamento da Segurança Social.
+
+No plano executivo, não menos importante foi a efectiva entrada em funções dos centros regionais de segurança social, agora prestes a completar-se com a criação do centro de Lisboa.
+
+Terminada, pois, a cobertura do País com uma adequada rede de serviços prestadores de benefícios imediatos, não podia o Governo deixar de se preocupar com a efectiva instalação de um serviço público especificamente vocacionado para a prestação de benefícios diferidos, a integrar no sistema orgânico da segurança social.
+
+É esse o objectivo do presente diploma.
+
+À semelhança do que aconteceu com os centros regionais de segurança social, também aqui se adoptou o regime de instalação.
+
+Assim, até ao termo do respectivo período serão tomadas as decisões definitivas que se mostrarem adequadas no que toca a alguns problemas, designadamente o do património imobiliário da Previdência, hoje em dia propriedade da Caixa Nacional de Pensões.
+
+Considera-se, deste modo, que estão lançadas as bases da implantação de um sistema que assegure aos utentes - que neste momento já ultrapassam 1 milhão e meio - uma digna e eficiente prestação de serviços na linha de uma segurança social progressivamente mais humanizada e mais capaz de contribuir para a vigência de critérios de verdadeira justiça social.
+
+Nestes termos:
+
+Para execução do disposto no [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Julho, e de acordo com o artigo 78.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º — (Criação do Centro Nacional de Pensões)
+
+1 - É criado o Centro Nacional de Pensões (CNP) a que se referem os artigos 4.º e 12.º do [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, adiante designado por Centro.
+
+2 - O Centro é um serviço público de âmbito nacional e goza de personalidade jurídica e autonomia administrativa e financeira.
+
+###### ARTIGO 2.º — (Integração da Caixa Nacional de Pensões)
+
+1 - É integrada no Centro, orgânica e funcionalmente, a Caixa Nacional de Pensões.
+
+2 - A integração da Caixa Nacional de Pensões compreende a transferência para o Centro das suas atribuições e recursos humanos e patrimoniais e abrange, independentemente de qualquer formalidade, a sucessão em todos os direitos e obrigações de que seja titular.
+
+###### ARTIGO 3.º — (Regime de instalação)
+
+1 - O Centro entra em regime de instalação, aplicando-se-lhe o disposto nos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+
+2 - O funcionamento do Centro terá início na data da posse da comissão instaladora.
+
+###### ARTIGO 4.º — (Financiamento)
+
+O financiamento do Centro será assegurado pelo orçamento global da segurança social.
+
+###### ARTIGO 5.º — (Comissão instaladora)
+
+1 - O Centro será dirigido por uma comissão instaladora constituída por um presidente e por dois a quatro vogais, nomeados por despacho do Ministro dos Assuntos Sociais.
+
+2 - A comissão instaladora exercerá as competências próprias do actual órgão dirigente da Caixa Nacional de Pensões, sem prejuízo das que lhe venham a ser fixadas por despacho do Ministro dos Assuntos Sociais.
+
+3 - O presidente será substituído nas suas faltas e impedimentos por um dos vogais, com a ordem de substituição estabelecida pela comissão instaladora e homologada pelo Ministro dos Assuntos Sociais.
+
+4 - Os membros da comissão instaladora serão remunerados nos termos do artigo 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, e do artigo 9.º do [Decreto-Lei n.º 204-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-a-1979-622319), de 3 de Julho.
+
+5 - A comissão instaladora reunirá sempre que se torne necessário, e obrigatoriamente, uma vez por semana, sendo as deliberações exaradas em actas.
+
+6 - As deliberações serão válidas quando votadas pela maioria dos membros presentes, tendo o presidente voto de qualidade.
+
+###### ARTIGO 6.º — (Pessoal)
+
+1 - É aplicável ao pessoal do Centro, com as necessárias adaptações, o disposto no artigo 4.º do [Decreto-Lei n.º 515/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1979-365765), de 28 de Dezembro.
+
+2 - A comissão de serviço prevista no n.º 2 do artigo 82.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, é igualmente aplicável à nomeação do pessoal pertencente aos quadros da Caixa Nacional de Pensões ou de outros serviços ou instituições de previdência para os lugares do mapa de pessoal do Centro.
+
+3 - O pessoal nomeado nos termos do número anterior ficará abrangido, enquanto durar tal situação, pelo regime jurídico da função pública, aplicando-se-lhe ainda o disposto no n.º 3 do artigo 82.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+
+###### ARTIGO 7.º — (Estrutura orgânica)
+
+No prazo de cento e oitenta dias a contar da data de entrada em funcionamento do Centro, a comissão instaladora apresentará o projecto de estrutura orgânica definitiva do mesmo, bem como o do respectivo quadro de pessoal.
+
+###### ARTIGO 8.º — (Resolução de dúvidas)
+
+As dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais ou deste membro do Governo e do que tiver a seu cargo a função pública, sempre que envolvam matéria da sua competência.
+
+Diogo Pinto de Freitas do Amaral - Aníbal António Cavaco Silva - João António Morais Leitão.
+
+Promulgado em 3 de Janeiro de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

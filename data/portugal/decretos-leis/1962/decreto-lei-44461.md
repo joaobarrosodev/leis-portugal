@@ -1,0 +1,164 @@
+---
+schema_version: '1.0'
+id: pt:dre:162603:por
+title: Decreto-Lei n.º 44461
+short_title: null
+summary: Aumenta o quadro do pessoal do Conselho de Inspecção de Jogos com um lugar de inspector e dá nova redacção ao artigo
+  6.º do Decreto-Lei n.º 36889, tornando extensivo ao pessoal dos corpos administrativos o campo de recrutamento dos serventuários
+  do referido Conselho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Interior - Conselho de Inspecção de Jogos
+proposing_entity: null
+official_number: '44461'
+official_date: null
+publication_date: '1962-07-16'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 161/1962, Série I de 1962-07-16
+  number: '161'
+  series: I
+  supplement: null
+  pages: 982 - 982
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/07/16100/09820982.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '162603'
+  dre_path: /dr/detalhe/decreto-lei/44461-1962-162603
+  internal: pt:dre:162603:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44461-1962-162603
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44461-1962-162603
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:41:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 86f58a0b2f307f3c314a759e9ffe8b2d1d420eb767600cbe6b451fdb8804f035
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:32Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Inspecção de Jogos
+- Definição de Competências
+- Formas de Provimento
+- Pessoal de Inspecção
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:146763:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:294476:por
+  label: "Alterado o quadro de pessoal do Conselho de Inspecção de Jogos aprovado pelo Dec Lei 36889, de 29-Mai-1948, na redacção\
+    \ do presente diploma, pelo DEC LEI.46360.29.05.1965.MI, DG.IS [120] de 29.05.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/46360-1965-294476
+  date: '1965-05-29'
+- type: cites
+  target: pt:dre:304752:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352076:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389191:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:146763:por
+  label: "Revogado, a partir de 01.12.1970, pelo DEC LEI.585/70.26.11.1970.MI, DG.IS [275] de 26.11.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/585-1970-146763
+  date: '1970-11-26'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:41:32Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44461
+
+O facto de todas as despesas com o serviço de inspecção de jogos constituírem encargo das empresas concessionárias em nada alterou o propósito de as restringir tanto quanto possível. E assim é que, não obstante o grande acréscimo de serviço provocado pelo novo regime instituído pelo [Decreto-Lei n.º 41562](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41562-1958-304752) e pelo [Decreto n.º 41563](https://diariodarepublica.pt/dr/detalhe/decreto/41563-1958-304753), de 18 de Março de 1958, bem como pelo [Decreto n.º 41812](https://diariodarepublica.pt/dr/detalhe/decreto/41812-1958-352076), de 9 de Agosto de 1958, o quadro do pessoal da secretaria do Conselho de Inspecção de Jogos e o quadro do serviço de inspecção se mantêm os mesmos que foram fixados pelo [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948 - o primeiro constituído por uma só unidade, com a classe de primeiro-oficial, e o segundo por um inspector e tantos subinspectores quantas as zonas de jogo.
+
+Reconhece-se, porém, que não é possível adiar por mais tempo o reajustamento daqueles quadros sem que a eficiência do serviço passe a ser gravemente prejudicada, deixando o Conselho de Inspecção de Jogos de dispor, a todo o tempo, dos elementos indispensáveis para cabal desempenho das suas funções.
+
+Julga-se que o problema ficará, de momento, satisfatòriamente resolvido criando-se um segundo lugar de inspector, que, além das funções específicas do cargo, chefie o serviço da secretaria e assegure a respectiva continuidade, nas faltas e impedimentos do primeiro-oficial, podendo ainda ser incumbido de cooperar com o vogal do Conselho de Inspecção de Jogos proposto pelo Ministro das Finanças, para desempenho das funções a que se refere o artigo 8.º do [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191).
+
+Aproveita-se o ensejo para dar nova redacção ao artigo 6.º do mesmo [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de modo a tornar extensivo ao pessoal dos quadros dos corpos administrativos o campo de recrutamento dos serventuários do Conselho de Inspecção de Jogos.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+
+Artigo 1.º É aumentado o quadro do pessoal do Conselho de Inspecção de Jogos com um lugar de inspector.
+
+Art. 2.º A um dos inspectores, a designar pelo Conselho de Inspecção de Jogos, incumbirá, além das funções referidas no artigo 9.º do [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948:
+
+1.º Chefiar, sob a superintendência do presidente, o serviço da secretaria do Conselho;
+
+2.º Prestar toda a colaboração ao presidente e vogais do Conselho, dando-lhes conhecimento imediato de tudo quanto possa influir no andamento dos serviços e sugerindo as providências convenientes para que se obtenha o rigoroso cumprimento, pelas empresas concessionárias, das obrigações contraídas;
+
+3.º Promover a liquidação de impostos, rendas e demais encargos das concessionárias, bem como das multas aplicadas pelo Conselho;
+
+4.º Promover a organização de ficheiros de legislação, ordens de serviço, e resoluções de interesse permanente;
+
+5.º Promover a organização do arquivo do Conselho de modo que se mantenham bem documentadas as actividades das empresas concessionárias;
+
+6.º Coligir os elementos que devam ser transmitidos à 3.ª Repartição da Direcção-Geral da Contabilidade Pública para elaboração do orçamento do Conselho e vigiar pela correcta escrituração dos elementos da contabilidade;
+
+7.º Cooperar com o vogal do Conselho proposto pelo Ministro das Finanças no exercício da competência que lhe está fixada no artigo 8.º do [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948.
+
+Art. 3.º Os serviços da secretaria do Conselho de Inspecção de Jogos regulam-se, na parte aplicável, pelas normas estabelecidas para os serviços da Secretaria-Geral e da Direcção-Geral de Administração Política e Civil, do Ministério do Interior.
+
+Art. 4.º O corpo do artigo 6.º do [Decreto-Lei n.º 36889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36889-1948-389191), de 29 de Maio de 1948, passa a ter a seguinte redacção.
+
+Art. 6.º Os cargos a que alude o artigo antecedente serão exercidos por funcionários dos quadros permanentes do Estado ou dos corpos administrativos, requisitados pelo Ministro do Interior, por períodos, prorrogáveis, não superiores a dois anos.
+
+Art. 5.º Os encargos a que der lugar este diploma serão satisfeitos, no ano corrente pelas disponibilidades das verbas dos artigos 24.º, 25.º, 26.º, 27.º e 31.º do capítulo 2.º do Ministério do Interior ao Conselho de Inspecção de Jogos.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 16 de Julho de 1962. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

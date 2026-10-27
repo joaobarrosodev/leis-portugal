@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:407511:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-941547440",
+ "dre_path": "/dr/detalhe/portaria/127-2000-407511",
+ "source_lastmod": "2025-10-21",
+ "versions": [
+  {
+   "date": "2000-03-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "941592084"
+   ]
+  }
+ ],
+ "fragments": {
+  "941592084": {
+   "fragment_id": "941547441",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 127/2000\n\nde 8 de Março\n\nPela Portaria n.º 381/94, de 16 de Junho, foi concessionada à Associação Cinegética do Concelho da Golegã, a zona de caça associativa de Entre Marcos (processo n.º 576-DGF), situada nas freguesias de Azinhaga, Pombalinho, Casével e São Vicente do Paul, municípios da Golegã e de Santarém, com uma área de 1376,1880 ha, e não 1359,1510 ha, como, por lapso, é referido na citada portaria, válida até 28 de Maio de 2000.\n\nEntretanto, a entidade concessionária veio requerer a sua renovação.\n\nCumpridos os preceitos legais, com fundamento no disposto no n.º 4 do artigo 83.º, em articulação com o disposto no n.º 1 do artigo 79.º, do Decreto-Lei n.º 136/96, de 14 de Agosto;\n\nOuvidos os Conselhos Cinegéticos Municipais e o Conselho Nacional da Caça e da Conservação da Fauna:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º Pela presente portaria é renovada, por um período de 12 anos, a concessão da zona de caça associativa de Entre Marcos (processo n.º 576-DGF), abrangendo vários prédios rústicos situados nas freguesias de Azinhaga, Pombalinho, Casével e São Vicente do Paul, municípios da Golegã e de Santarém, com uma área de 1376,1880 ha, conforme planta anexa à presente portaria, que dela faz parte integrante.\n\n2.º Mantêm-se integralmente os direitos e obrigações decorrentes da lei e constantes da Portaria n.º 381/94, de 16 de Junho.\n\n3.º A presente portaria produz efeitos a partir do dia 29 de Maio de 2000."
+  }
+ }
+}

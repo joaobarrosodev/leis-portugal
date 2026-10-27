@@ -1,0 +1,384 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31982D0043:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01982D0043-20080616",
+ "dre_path": null,
+ "source_lastmod": "2008-06-16",
+ "versions": [
+  {
+   "date": "1982-01-28",
+   "future": false,
+   "celex": "31982D0043",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5b63a29d14478443",
+    "25dbfd40e1e185e7",
+    "5a36033f799b6903",
+    "a676ab4ffcd4ff7e",
+    "f90c4605b84e10d1",
+    "e2aecbcf60da4f80",
+    "c8e324a6bed35a71",
+    "cefe7540a3e4f29c",
+    "f5c90428318e386e",
+    "7150e9167fa95e89",
+    "83ebd50539a23e9e",
+    "0b1157198821662c",
+    "d7454bcb21462948",
+    "23ebdc7c5ce13c1f"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01982D0043-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:31995D0420:por",
+     "title": "DECISÃO DA COMISSÃO de 19 de Julho de 1995",
+     "published": null,
+     "celex": "31995D0420"
+    },
+    {
+     "id": "eu:celex:32006R1792:por",
+     "title": "REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006",
+     "published": null,
+     "celex": "32006R1792"
+    },
+    {
+     "id": null,
+     "title": "A1",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Áustria, da Finlândia e da Suécia",
+     "published": null,
+     "celex": "11994N"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o"
+   ],
+   "fragments": [
+    "f8c94699ba2c9d4a",
+    "92fc37f97afa267e",
+    "928ad24e20d8a210",
+    "69babb8e6864b029",
+    "98e625ef89b89317",
+    "ebd23c9dd1a0f959",
+    "571fb949cb7d667d",
+    "fa4b486b8da7e4bd",
+    "19856ffcedd42a11",
+    "ed4812e2320c5ddd",
+    "f752bfc3a903819d",
+    "cd8d805e5e1a8dd3",
+    "c762e5ac0ca5edd2",
+    "1e17e9ecb50b5555",
+    "218bb2c22e2fc0a9"
+   ]
+  },
+  {
+   "date": "2008-06-16",
+   "future": false,
+   "celex": "01982D0043-20080616",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "79c4c0502d201bea"
+   ]
+  }
+ ],
+ "fragments": {
+  "5b63a29d14478443": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**82/43/CEE: Decisão da Comissão, de 9 de Dezembro de 1981, relativa à criação de um Comité Consultivo para a Igualdade de Oportunidade entre Mulheres e Homens** *Jornal Oficial nº L 020 de 28/01/1982 p. 0035 - 0037 Edição especial finlandesa: Capítulo 5 Fascículo 2 p. 0164 Edição especial espanhola: Capítulo 05 Fascículo 3 p. 0003 Edição especial sueca: Capítulo 5 Fascículo 2 p. 0164 Edição especial portuguesa: Capítulo 05 Fascículo 3 p. 0003*\n\nDECISÃO DA COMISSÃO de 9 de Dezembro de 1981 relativa à criação de um Comité Consultativo para a Igualdade de Oportunidade entre Mulheres e Homens\n\n(82/43/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nConsiderando que deve ser estimulade a aplicação prática do princípio da igualdade no tratamento entre mulheres e homens através de uma melhor colaboração e trocas de pontos de vista e de experiências entre os organismos que, nos Estados-membros, estão especialmente encarregados de promover a igualdade de oportunidades e a Comissão;\n\nConsiderando que a total aplicação, incluindo a aplicação prática, da Directiva 75/117/CEE do Conselho, de 10 de Fevereiro de 1975, relativa à aproximação das legislaçãoes dos Estados-membros respeitantes à aplicação do princípio de igualdade das remunerações entre trabalhadores masculinos e fimininos (1), da Directiva 76/207/CEE, de 9 de Fevereiro de 1976, relativa a aplicação do princípio da igualdade de tratamento entre homens e mulheres no que se refere ao emprego, à formação e promoção profissionais e às condições de trabalho (2), e da Directiva 79/7/CEE, de 19 de Dezembro de 1978, relativa à aplicação progressiva do princípio da igualdade de tratamento entre homens e mulheres em matéria de segurança social (3), será consideravelmente acelerada graças ao apoio de organismos nacionais que dispõem de uma rede de informações específicas;\n\nConsiderando a Directiva 72/161/CEE, de 17 de Abril de 1972, relativa à informação e qualificação profissional das pessoas que trabalham em agricultura (4);\n\nConsiderando igualmente que a preparação e a execução de acções da Comunidade relativas ao emprego das mulheres, à melhoria da situação das que trabalham em profissões independentes e na agricultura e à promoção da igualdade de oportunidades, requerem uma estreita colaboração com os organismos especializados dos Estados-membros;\n\nConsiderando que, por conseguinte, deve ser criado um sistema institucionalizado com vista a efectuar consultas regulares àqueles organismos;\n\nDECIDE:"
+  },
+  "25dbfd40e1e185e7": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nÉ criado junto da Comissão um Comité Consultativo para a Igualdade de Oportunidades entre Mulheres e Homens, a seguir designado por «o Comité»."
+  },
+  "5a36033f799b6903": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. O Comité tem por missão, por um lado, apoiar a Comissão na elaboração e na execução da sua política de promoção do emprego das mulheres e de promoção da igualdade de oportunidades e, pour outro, assegurar uma troca permanente de experiências e de acções desenvolvidas na Comunidade nos domínios em questão.\n\n2. Com vista a realizar os objectivos referidos no no 1, o Comité:\n\n- procederá a trocas de informações com a Comissão sobre as acções empreendidas aos níveis comunitário e nacional e, sendo caso disso, sobre os seguimento que lhes deve ser dado,\n\n- emitirá pareceres ou apresentará relatórios à Comissão, particularmente no âmbito da política da igualdade de oportunidades, quer à pedido desta quer por iniciativa própria, e estimulará entre os Estados-membros as trocas de experiências nos domínios que relevam da sua competência.\n\n3. As modalidades de difusão dos pareceres e relatórios do comité serão determinadas de acordo com a Comissão."
+  },
+  "a676ab4ffcd4ff7e": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. O Comité é constituido por vinte membros.\n\n2. É composto por dois (duas) representantes, por Estado-membro, dos comités ou organismos nacionais oficiais encarregados especificamente do trabalho das mulheres e/ou da igualdade de oportunidades entre mulheres e homens, representando os sectores interessados. Se num Estado-membro existirem vários comités ou organismos que se ocupem destas questões, a Comissão determinará qual o organismo que pelos seus objectivos, pela sua estrutura, representatividade e grau de independência, tem mais qualificação para ser representado no Comité. A participação dos países que não possuam tais comités será assegurada por representantes de organismos considerados pela Comissão como exercendo missões idênticas.\n\n3. Os membros do Comité são nomeados, a título pessoal, pela Comissão sob proposta dos organismos referidos no no 2, de entre os membros destes organismos ou do seu secretariado.\n\n4. Os representantes dos parceiros sociais a nível comunitário podem participar, como observadores, nas reuniões do Comité segundo regras a definir entre as suas organizações e a Comissão."
+  },
+  "f90c4605b84e10d1": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nPor cada um dos membros do Comité, e segundo o mesmo processo definido no artigo 3o, é nomeado um suplente. Sem prejuízo do artigo 7o, o suplente só assistirá às reuniões do Comité e participará nos seus trabalhos em caso de impedimento do membro efectivo de que é suplente."
+  },
+  "e2aecbcf60da4f80": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nO mandato dos membros do Comité tem uma duraça de três anos, sendo renovável.\n\nExpirado o período de três anos, os membros do comité permanecem em funções até a sua substituição ou à renovação do seu mandato.\n\nO mandato de um membro termina antes de expirar o período de três anos por demissão, por deixar de pertencer ao organismo que representa, ou por morte. Pode igualmente cessar o mandato de um membro logo que o organismo que apresentou a sua candidatura pedir sua substituição.\n\nSerá substituido para o período do mandato que resta cumprir segundo o processo previsto no artigo 4o.\n\nAs funções exercidas não são remuneráveis; os encargos de viagem e de permanência para as reuniões do Comité e dos grupos de trabalho criados nos termos do artigo 8o serão suportados pela Comissão em aplicação das regras administrativas em vigor."
+  },
+  "c8e324a6bed35a71": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nO Comité é presidido por um(a) presidente eleito(a) de entre os seus membros por um período de um ano. A eleição efectua-se por uma maioria de dois terços dos membros presentes, sendo, contudo, requerido um mínimo de dez votos favoráveis.\n\nSerão eleitos, por maioria e nas mesmas condições, dois (duas) Vice-Presidentes aos quais compete substituir o(a) presidente em caso de impedimento. Os(as) presidentes devem provir de Estados-membros diferentes.\n\nA organização dos trabalhos do Comité será efectuada pela Comissão em estrita ligação com o(a) presidente e o secretariado será assegurado pelo serviço da Comissão que se ocupa dos problemas respeitantes ao emprego e à igualdade das mulheres."
+  },
+  "cefe7540a3e4f29c": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO(a) presidente pode convidar a participar nos trabalhos do Comité, como perito, qualquer pessoa que possua especial competência sobre um assunto inscrito na ordem do dia.\n\nOs peritos participarão nos trabalhos apenas quanto ao assunto que motivou a sua presença."
+  },
+  "f5c90428318e386e": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. O Comité pode constituir grupos de trabalho.\n\n2. Com vista à elaboração dos seus pareceres o Comité pode encarregar um relator ou um perito do exterior de fazer relatórios, segundo moldes à definir."
+  },
+  "7150e9167fa95e89": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nAs medidas tomadas em aplicação dos artigos 7o e 8o que tenham uma implicação financeira para o orçamento das Comunidades Europeias serão previamente submetidas a acordo da Comissão, devendo ser executadas segundo as regras administrativas em vigor."
+  },
+  "83ebd50539a23e9e": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. O Comité reúne-se na sede da Comissão por convocação desta. No mínimo terá três reuniões por ano.\n\n2. Os representantes da Comissão participam, de direito, nas reuniões do Comité e dos grupos de trabalho."
+  },
+  "0b1157198821662c": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nEm caso de deliberações seguidas de votação, será necessário que nela esteja presente a maioria de dois terços dos membros.\n\nÉ contudo, requerido um mínimo de dez votos favoráveis. As posições da eventual minoria figurarão na acta que será anexada ao parecer."
+  },
+  "d7454bcb21462948": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nSem prejuízo do disposto no artigo 214o do Tratado, os membros do Comité não podem divulgar as informações de que tanham tido conhecimento através dos trabalhos do Comité ou dos grupos de trabalho, desde que a Comissão os informe que um parecer ou uma questão se refere a uma matéria de carácter confidencial.\n\nNeste caso só assistem às sessões os membros do Comité e os representantes da Comissão."
+  },
+  "23ebdc7c5ce13c1f": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nA presente decisão entra em vigor em 1 de Janeiro de 1982.\n\nFeito em Bruxelas, em 9 de Dezembro de 1981.\n\nPela Comissão\n\nO Presidente\n\nG. THORN\n\n(1) JO no L 45 de 19. 2. 1975, p. 19.(2) JO no L 39 de 14. 2. 1976, p. 40.(3) JO no L 6 de 10. 1. 1979, p. 24.(4) JO no L 96 de 23. 4. 1972, p. 15."
+  },
+  "f8c94699ba2c9d4a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Dezembro de 1981\n\nrelativa à criação de um Comité Consultativo para a Igualdade de Oportunidade entre Mulheres e Homens\n\n(82/43/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nConsiderando que deve ser estimulade a aplicação prática do princípio da igualdade no tratamento entre mulheres e homens através de uma melhor colaboração e trocas de pontos de vista e de experiências entre os organismos que, nos Estados-membros, estão especialmente encarregados de promover a igualdade de oportunidades e a Comissão;\n\nConsiderando que a total aplicação, incluindo a aplicação prática, da Directiva 75/117/CEE do Conselho, de 10 de Fevereiro de 1975, relativa à aproximação das legislaçãoes dos Estados-membros respeitantes à aplicação do princípio de igualdade das remunerações entre trabalhadores masculinos e fimininos ([^1^](http://publications.europa.eu/resource/cellar/2ffa0a87-74e3-45a3-973c-da197f0d4d21.0017.03/DOC_1#E0001)), da Directiva 76/207/CEE, de 9 de Fevereiro de 1976, relativa a aplicação do princípio da igualdade de tratamento entre homens e mulheres no que se refere ao emprego, à formação e promoção profissionais e às condições de trabalho ([^2^](http://publications.europa.eu/resource/cellar/2ffa0a87-74e3-45a3-973c-da197f0d4d21.0017.03/DOC_1#E0002)), e da Directiva 79/7/CEE, de 19 de Dezembro de 1978, relativa à aplicação progressiva do princípio da igualdade de tratamento entre homens e mulheres em matéria de segurança social ([^3^](http://publications.europa.eu/resource/cellar/2ffa0a87-74e3-45a3-973c-da197f0d4d21.0017.03/DOC_1#E0003)), será consideravelmente acelerada graças ao apoio de organismos nacionais que dispõem de uma rede de informações específicas;\n\nConsiderando a Directiva 72/161/CEE, de 17 de Abril de 1972, relativa à informação e qualificação profissional das pessoas que trabalham em agricultura ([^4^](http://publications.europa.eu/resource/cellar/2ffa0a87-74e3-45a3-973c-da197f0d4d21.0017.03/DOC_1#E0004));\n\nConsiderando igualmente que a preparação e a execução de acções da Comunidade relativas ao emprego das mulheres, à melhoria da situação das que trabalham em profissões independentes e na agricultura e à promoção da igualdade de oportunidades, requerem uma estreita colaboração com os organismos especializados dos Estados-membmros;\n\nConsiderando que, por conseguinte, deve ser criado um sistema institucionalizado com vista a efectuar consultas regulares àqueles organismos;\n\nDECIDE:"
+  },
+  "92fc37f97afa267e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado junto da Comissão um Comité Consultativo para a Igualdade de Oportunidades entre Mulheres e Homens, a seguir designado por «o Comité»."
+  },
+  "928ad24e20d8a210": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O Comité tem por missão apoiar a Comissão na elaboração e na execução das acções da Comunidade com vista a promover a igualdade de oportunidades entre mulheres e homens e incentivar a troca permanente de experiências, políticas e práticas pertinentes na matéria, entre os Estados-membros e os diversos intervenientes interessados.\n\n2. Com vista a realizar os objectivos do n.º 1, o Comité:\n\na) Apoiará a Comissão no desenvolvimento de instrumentos de acompanhamento, avaliação e difusão dos resultados das acções levadas a cabo na Comunidade para promover a igualdade de oportunidades;\n\nb) Contribuirá para a execução dos programas de acção comunitária na matéria, nomeadamente ao proceder ao exame dos seus resultados e ao propor melhoramentos às acções conduzidas;\n\nc) Contribuirá, mediante os seus pareceres, para a elaboração do relatório anual da Comissão sobre os progressos realizados em matéria de igualdade de oportunidades entre mulheres e homens;\n\nd) Incentivará a troca de informações sobre as acções empreendidas a todos os níveis para promover a igualdade de oportunidades e, sendo caso disso, formulará propostas sobre o eventual seguimento a dar a estas mesmas acções;\n\ne) Formulará pareceres ou transmitirá relatórios à Comissão, quer a pedido desta, quer por sua própria iniciativa, sobre todas as questões pertinentes relativamente à promoção da igualdade de oportunidades na Comunidade.\n\n3. As modalidades de difusão dos pareceres e relatórios do Comité serão determinadas de acordo com a Comissão. Estes poderão ser objecto de uma publicação, anexa ao relatório anual da Comissão sobre a igualdade de oportunidades entre mulheres e homens."
+  },
+  "69babb8e6864b029": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O Comité é constituído por [**►M2**](http://publications.europa.eu/resource/celex/32006R1792) 68**◄** membros, a saber:\n\na) Um(a) representante por Estado-membro dos ministérios ou serviços governamentais responsáveis pela promoção da igualdade de oportunidades entre mulheres e homens. Este(a) representante será designado(a) pelo Governo de cada Estado-membro;\n\nb) Um(a) representante por Estado-membro dos comités ou organismos nacionais oficiais especificamente responsáveis pela igualdade de oportunidades entre mulheres e homens, enquanto representantes dos sectores interessados. Se num Estado-membro existirem vários comités ou organismos que se ocupem destas questões, a Comissão determinará qual o organismo que pelos seus objectivos, pela sua estrutura, representatividade e grau de independência tem mais qualificação para ser representado no Comité. A participação dos países que não possuam comités desta natureza será assegurada por representantes de organismos considerados pela Comissão como exercendo missões idênticas. Este(a) representante será nomeado(a) pela Comissão sob proposta do Comité ou do organismo nacional pertinente;\n\n— [**►A3**](http://publications.europa.eu/resource/celex/12003T) Sete**◄** membros em representação das organizações patronais ao nível comunitário,\n\n— [**►A3**](http://publications.europa.eu/resource/celex/12003T) sete**◄** membros em representação das organizações sindicais ao nível comunitário.\n\nEstes representantes são nomeados(as) pela Comissão sob proposta dos parceiros sociais ao nível comunitário.\n\n2. Participarão, como observadores, nas reuniões do Comité dois (duas) representantes do Lobby Europeu das Mulheres.\n\n3. Podem ser admitidos como observadores os representantes de organizações internacionais, profissionais ou associativas que apresentem à Comissão um pedido devidamente motivado nesse sentido."
+  },
+  "98e625ef89b89317": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPor cada um dos membros do Comité, e segundo o mesmo processo definido no artigo 3.º, é nomeado um suplente. Sem prejuízo do artigo 7.º, o suplente só assistirá às reuniões do Comité e participará nos seus trabalhos em caso de impedimento do membro efectivo de que é suplente."
+  },
+  "ebd23c9dd1a0f959": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO mandato dos membros do Comité tem uma duração de três anos, sendo renovável.\n\nExpirado o período de três anos, os membros do Comité permanecem em funções até à sua substituição ou à renovação do seu mandato.\n\nO mandato de um membro termina antes de expirar o período de três anos por demissão, por deixar de pertencer ao organismo que representa, ou por morte. Pode igualmente cessar o mandato de um membro logo que o organismo que apresentou a sua candidatura pedir sua substituição.\n\nSerá substituido para o período do mandato que resta cumprir segundo o processo previsto no artigo 4.º.\n\nAs funções exercidas não são remuneráveis; os encargos de viagem e de permanência para as reuniões do Comité e dos grupos de trabalho criados nos termos do artigo 8.º serão suportados pela Comissão em aplicação das regras administrativas em vigor."
+  },
+  "571fb949cb7d667d": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO Comité é presidido por um(a) presidente eleito(a) de entre os membros. O seu mandato tem a duração de um ano. A eleição efectua-se por uma maioria de dois terços dos membros presentes, sendo contudo requerido um mínimo de votos favoráveis correspondente a metade do total dos votos expressos.\n\nSerão eleitos, pela mesma maioria e nas mesmas condições, dois(duas) vice-presidentes. Compete-lhes substituir o(a) presidente em caso de impedimento. Os(as) presidentes e vice-presidentes devem provir de Estados-membros diferentes. Eles(elas) constituem a mesa do Comité que se reunirá antes de cada reunião do Comité.\n\nA organização dos trabalhos do Comité será efectuada pela Comissão em estreita ligação com o(a) presidente. O projecto de ordem do dia das reuniões do Comité será fixado pela Comissão em acordo com o(a) presidente. O Secretariado será assegurado pela unidade da Comissão responsável pela igualdade de oportunidades entre mulheres e homens. A acta das reuniões do comité será preparada pelos serviços da Comissão e apresentada ao Comité para aprovação."
+  },
+  "fa4b486b8da7e4bd": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO(a) presidente pode convidar a participar nos trabalhos do Comité, como perito, qualquer pessoa que possua especial competência sobre um assunto inscrito na ordem do dia.\n\nOs peritos participarão nos trabalhos apenas quanto ao assunto que motivou a sua presença."
+  },
+  "19856ffcedd42a11": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. O Comité pode constituir grupos de trabalho.\n\n2. Com vista à elaboração dos seus pareceres o Comité pode encarregar um relator ou um perito do exterior de fazer relatórios, segundo moldes a definir.\n\n3. Podem participar, como observadores, nas actividades de outros comités consultivos da Comissão um ou mais membros do Comité que o informarão dos trabalhos em curso."
+  },
+  "ed4812e2320c5ddd": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs medidas tomadas em aplicação dos artigos 7.º e 8.º que tenham uma implicação financeira para o orçamento das Comunidades Europeias serão previamente submetidas a acordo da Comissão, devendo ser executadas segundo as regras administrativas em vigor."
+  },
+  "f752bfc3a903819d": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO Comité reúne-se na sede da Comissão por convocação desta. Terá, no mínimo, duas reuniões por ano."
+  },
+  "cd8d805e5e1a8dd3": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs deliberações do Comité incidem sobre os pedidos de parecer apresentados pela Comissão e sobre os pareceres que emite por sua própria iniciativa. As deliberações não são seguidas de votação.\n\nAo solicitar o parecer do Comité, a Comissão pode fixar o prazo no qual o parecer deve ser formulado.\n\nAs posições tomadas pelas categorias representadas figurarão numa acta transmitida à Comissão.\n\nSe o parecer solicitado for dado por unanimidade, o Comité estabelece conclusões comuns que são apensas ao relatório."
+  },
+  "c762e5ac0ca5edd2": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSem prejuízo do disposto no artigo 214.º do Tratado, os membros do Comité não podem divulgar as informações de que tenham tido conhecimento através dos trabalhos do Comité ou dos grupos de trabalho, desde que a Comissão os informe que um parecer ou uma questão se refere a uma matéria de carácter confidencial.\n\nNeste caso só assistem às sessões os membros do Comité e os representantes da Comissão."
+  },
+  "1e17e9ecb50b5555": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA presente decisão entra em vigor em 1 de Janeiro de 1982.\n\n---"
+  },
+  "218bb2c22e2fc0a9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2ffa0a87-74e3-45a3-973c-da197f0d4d21.0017.03/DOC_1#src.E0001)) JO n.º L 45 de 19. 2. 1975, p. 19.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/2ffa0a87-74e3-45a3-973c-da197f0d4d21.0017.03/DOC_1#src.E0002)) JO n.º L 39 de 14. 2. 1976, p. 40.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/2ffa0a87-74e3-45a3-973c-da197f0d4d21.0017.03/DOC_1#src.E0003)) JO n.º L 6 de 10. 1. 1979, p. 24.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/2ffa0a87-74e3-45a3-973c-da197f0d4d21.0017.03/DOC_1#src.E0004)) JO n.º L 96 de 23. 4. 1972, p. 15."
+  },
+  "79c4c0502d201bea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1982D0043 — PT — 16.06.2008 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31982D0043) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/31982D0043) [de 9 de Dezembro de 1981](http://publications.europa.eu/resource/celex/31982D0043) [relativa à criação de um Comité Consultativo para a Igualdade de Oportunidade entre Mulheres e Homens](http://publications.europa.eu/resource/celex/31982D0043) [(82/43/CEE)](http://publications.europa.eu/resource/celex/31982D0043) (JO L 020, 28.1.1982, p.35)\n\n**revogado por:**\n\n- [Decisão da Comissão de 16 de Junho de 2008](http://publications.europa.eu/resource/celex/32008D0590) — L 190 — 17 — 18.7.2008"
+  }
+ }
+}

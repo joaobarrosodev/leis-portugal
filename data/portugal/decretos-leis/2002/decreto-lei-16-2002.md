@@ -1,0 +1,609 @@
+---
+schema_version: '1.0'
+id: pt:dre:276032:por
+title: Decreto-Lei n.º 16/2002
+short_title: null
+summary: Estabelece o regime jurídico aplicável à Escola Náutica Infante D. Henrique
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios do Equipamento Social e da Educação
+proposing_entity: null
+official_number: 16/2002
+official_date: null
+publication_date: '2002-01-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/2002, Série I-A de 2002-01-29
+  number: '24'
+  series: I
+  supplement: null
+  pages: 703 - 708
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/01/024a00/07030708.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/16/2002/01/29/p/dre/pt/html
+  oj: null
+  dre: '276032'
+  dre_path: /dr/detalhe/decreto-lei/16-2002-276032
+  internal: pt:dre:276032:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2002-276032
+  metadata_url: https://data.dre.pt/eli/dec-lei/16/2002/01/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2002-276032
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:31:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b8144711b24f927db871f3fba033e3b63221ee0ee1dbb5c8d795f8442b0a75a1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:31:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Superior Politécnico
+- Escola Náutica Infante Dom Henrique
+- Orgânica
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:551625:por
+  label: "Determinada a transição para a Presidência do Conselho de Ministros (integrada no agora extinto Ministério das Obras\
+    \ Públicas, Transportes e Habitação), cujo regime jurídico foi aprovado pelo presente diploma, e cujos estatutos foram\
+    \ homologados pelo DN 29/2004, de 18-Jun, e determinado que a tutela sobre a Escola seja exercida pelo Ministro de Estado\
+    \ e da Defesa Nacional e dos Assuntos do Mar e, em matéria de ensino, em conjunto pelos Ministros de Estado e da Defesa\
+    \ Nacional e dos Assuntos do Mar e da Ciência, Inovação e Ensino Superior, pelo DEC LEI.215-A/2004.03.09.2004.PCM, DR.IS-A\
+    \ [208]Supl de 03.09.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-a-2004-551625
+  date: '2004-09-03'
+- type: amended_by
+  target: pt:dre:547070:por
+  label: "Determinada a transição para o Ministério das Obras Públicas, Transportes e Comunicações da Escola (integrada na\
+    \ Presidência do Conselho de Ministros), cujo regime jurídico foi aprovado no presente diploma, sendo a competência relativa\
+    \ à definição das orientações estratégicas, bem como o acompanhamento da sua execução, seja exercida pelo Ministro das\
+    \ Obras Públicas, Transportes e Comunicações em articulação com o Ministro da Ciência, Tecnologia e do Ensino Superior,\
+    \ pelo DEC LEI.79/2005.15.04.2005.PCM, DR.IS-A [74] de 15.04.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/79-2005-547070
+  date: '2005-04-15'
+- type: amended_by
+  target: pt:dre:70961383:por
+  label: Determinado que sejam exercidos pela Ministra da Agricultura e do Mar conjuntamente com o Ministro da Economia e
+    a Ministra da Educação e Ciência a definição de orientações estratégicas para a Escola Superior Náutica Infante D. Henrique
+    bem como o acompanhamento da sua execução pelo(a) Decreto-Lei n.º 249-A/2015 - Diário da República n.º 219/2015, 1º Suplemento,
+    Série I de 2015-11-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/249-a-2015-70961383
+  date: '2015-11-09'
+- type: amended_by
+  target: pt:dre:72909765:por
+  label: Determinado que a tutela sobre a Escola Superior Náutica Infante D. Henrique seja exercida pela Ministra do Mar em
+    coordenação com o Ministro da Ciência, Tecnologia e Ensino Superior pelo(a) Decreto-Lei n.º 251-A/2015 - Diário da República
+    n.º 246/2015, 1º Suplemento, Série I de 2015-12-17
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-a-2015-72909765
+  date: '2015-12-17'
+- type: amended_by
+  target: pt:dre:126869983:por
+  label: Determinado, com efeitos a 26.10.2019, que a tutela sobre a Escola Superior Náutica Infante D. Henrique, prevista
+    no presente diploma, seja exercida pelo Ministro do Mar, em coordenação com o Ministro da Ciência, Tecnologia e Ensino
+    Superior e com o Ministro das Infraestruturas e da Habitação pelo(a) Decreto-Lei n.º 169-B/2019 - Diário da República
+    n.º 232/2019, 1º Suplemento, Série I de 2019-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/169-b-2019-126869983
+  date: '2019-12-03'
+- type: amended_by
+  target: pt:dre:183159328:por
+  label: Determinado com efeitos a 30.03.2022 que a tutela sobre a Escola Superior Náutica Infante D. Henrique, prevista no
+    presente diploma seja exercida pelo Ministro da Economia e do Mar, em coordenação com a Ministra da Ciência, Tecnologia
+    e Ensino Superior e com o Ministro das Infraestruturas e da Habitação pelo(a) Decreto-Lei n.º 32/2022 - Diário da República
+    n.º 89/2022, Série I de 2022-05-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2022-183159328
+  date: '2022-05-09'
+- type: amended_by
+  target: pt:dre:206618939:por
+  label: Determinado que a tutela sobre a Escola Superior Náutica Infante D. Henrique seja exercida pelo Ministro da Economia
+    e do Mar, em coordenação com a Ministra da Ciência, Tecnologia e Ensino Superior e com o Ministro das Infraestruturas
+    pelo(a) Decreto-Lei n.º 7/2023 - Diário da República n.º 20/2023, Série I de 2023-01-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/7-2023-206618939
+  date: '2023-01-27'
+- type: amended_by
+  target: pt:dre:864224972:por
+  label: Determinado, com efeitos a 2 de abril de 2024, que seja exercida pelo Ministro da Economia, em coordenação com o
+    Ministro da Educação, Ciência e Inovação e com o Ministro das Infraestruturas e Habitação, a tutela sobre a Escola Superior
+    Náutica Infante D. Henrique pelo(a) Decreto-Lei n.º 32/2024 - Diário da República n.º 91/2024, Série I de 2024-05-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/32-2024-864224972
+  date: '2024-05-10'
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Determinado, com efeitos a 5 de junho de 2025, que seja exercida pelo Ministro da Agricultura e Mar, em coordenação
+    com o Ministro das Infraestruturas e Habitação e com o Ministro da Educação, Ciência e Inovação, a superintendência e
+    tutela sobre a Escola Superior Náutica Infante D. Henrique pelo(a) Decreto-Lei n.º 87-A/2025 - Diário da República n.º
+    142/2025, Suplemento, Série I de 2025-07-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-a-2025-926483751
+  date: '2025-07-25'
+- type: cites
+  target: celex:31985D0368
+  label: null
+  source: http://data.europa.eu/eli/dec/1985/368/oj
+article_structure:
+  article_count: 34
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:31:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 16/2002
+
+de 29 de Janeiro
+
+A Escola Náutica Infante D. Henrique é um estabelecimento de ensino superior politécnico que visa formar oficiais da marinha mercante e outros quadros superiores para o sector marítimo-portuário e áreas afins, dotando-os de profissionais altamente qualificados, bem como promover a investigação e o desenvolvimento tecnológico inerentes àquela área de actividade, e a difusão dos conhecimentos adquiridos na prossecução das suas competências.
+
+Dada a especificidade dos seus objectivos, a Escola desenvolve a sua actividade na esfera tutelar do Ministério do Equipamento Social, tutela essa que, no domínio do ensino, é exercida conjuntamente com o Ministério da Educação.
+
+Dispõe a Lei n.º 54/90, de 5 de Setembro (estatuto e autonomia dos estabelecimentos de ensino superior politécnico), alterada pelas Leis n.os 20/92, de 14 de Agosto, e 71/93, de 25 de Novembro, no n.º 3 do seu artigo 51.º, que os estabelecimentos públicos de ensino politécnico objecto de dupla tutela, sujeitos embora às regras gerais por ela fixadas, disporão de um regime jurídico próprio adequado à sua especificidade.
+
+E no caso da Escola Náutica Infante D. Henrique relevam, entre outros aspectos, os que se referem à observância das convenções e normas internacionais relativas às actividades marítimas e portuárias e à adequação do seu corpo docente e técnico-profissional ao ensino ministrado.
+
+Através do presente diploma dá-se cumprimento àquela disposição da lei, criando o quadro jurídico indispensável à passagem da Escola ao regime estatutário.
+
+Foram ouvidos o Conselho Coordenador dos Institutos Superiores Politécnicos, as associações sindicais representativas dos trabalhadores do sector e a Associação de Estudantes.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 54/90, de 5 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma aprova, nos termos do n.º 3 do artigo 51.º da Lei n.º 54/90, de 5 de Setembro (estatuto e autonomia dos estabelecimentos de ensino superior politécnico), alterada pelas Leis n.os 20/92, de 14 de Agosto, e 71/93, de 25 de Novembro, o regime jurídico específico aplicável à Escola Náutica Infante D. Henrique.
+
+###### Artigo 2.º — Natureza e autonomia
+
+1 - A Escola Náutica Infante D. Henrique, adiante designada por Escola, é uma escola superior politécnica não integrada.
+
+2 - A Escola goza de personalidade jurídica e é dotada, nos termos da lei, de autonomia científica, pedagógica, administrativa e financeira.
+
+3 - O exercício da autonomia pedagógica e científica é limitado pela observância das convenções e normas internacionais relativas às actividades marítimas e portuárias.
+
+###### Artigo 3.º — Atribuições
+
+São atribuições da Escola Náutica Infante D. Henrique:
+
+a) Formar oficiais da marinha mercante e outros quadros superiores para o sector marítimo-portuário e áreas afins;
+
+b) Ministrar o ensino no domínio das actividades marítimas, logísticas, portuárias e afins à marinha mercante, bem como das ciências do mar;
+
+c) Promover a investigação e o desenvolvimento tecnológico e difundir conhecimentos nas áreas do ensino ministrado, tendo em conta as necessidades do País e a política definida pelo Governo para o sector;
+
+d) Contribuir para a actualização de conhecimentos e especialização dos quadros superiores do sector marítimo-portuário e áreas afins.
+
+###### Artigo 4.º — Regime
+
+A Escola rege-se pela legislação aplicável aos estabelecimentos de ensino superior politécnico, designadamente pelo disposto na Lei n.º 54/90, de 5 de Setembro, e pelo presente diploma, bem como pelo regime constante dos seus Estatutos.
+
+###### Artigo 5.º — Tutela
+
+1 - O poder de tutela sobre a Escola é exercido pelo Ministro do Equipamento Social e, em matéria de ensino, em conjunto pelos Ministros do Equipamento Social e da Educação.
+
+2 - No âmbito do poder de tutela que lhe é conferido, compete ao Ministro do Equipamento Social:
+
+a) Aprovar as propostas de orçamento dependentes do Orçamento do Estado;
+
+b) Aprovar os projectos de orçamento plurianuais e de desenvolvimento a médio prazo, bem como o balanço e o relatório de actividades dos anos económicos findos;
+
+c) Autorizar a alienação de bens imóveis;
+
+d) Autorizar o arrendamento, a transferência ou a aplicação a fim diverso dos imóveis do Estado que estejam na posse ou no usufruto da Escola;
+
+e) Autorizar a aceitação de liberalidades sujeitas a modos ou condições que envolvam acções estranhas às atribuições e objectivos da Escola;
+
+f) Conhecer e decidir dos recursos para a entidade tutelar que estejam previstos na lei;
+
+g) Exercer a respectiva competência disciplinar, nos termos da lei;
+
+h) Aprovar, nos termos da legislação em vigor, a criação, modificação, suspensão e extinção dos cursos de formação não conferentes de grau conducentes à certificação nacional ou internacional;
+
+i) Aprovar os princípios gerais a que deve obedecer a fixação das propinas devidas pela inscrição em cursos não conferentes de grau;
+
+j) Definir o apoio a conceder aos estudantes da Escola em execução dos objectivos fixados pela lei para a acção social escolar;
+
+l) Exercer outras competências previstas na lei.
+
+3 - No âmbito do poder de tutela em matéria de ensino que lhes é conferido, compete aos Ministros do Equipamento Social e da Educação, em conjunto:
+
+a) Homologar os Estatutos da Escola e as suas alterações;
+
+b) Aprovar a criação, modificação, suspensão e extinção de cursos conferentes de grau, nos termos da legislação em vigor;
+
+c) Aprovar a criação, modificação, suspensão ou extinção de unidades científico-pedagógicas;
+
+d) Homologar a eleição do director ou presidente do conselho directivo;
+
+e) Fixar as vagas para os cursos conferentes de grau ministrados pela Escola, de harmonia com a legislação em vigor;
+
+f) Exercer outras competências previstas na lei.
+
+###### Artigo 6.º — Graus académicos
+
+A Escola confere os graus académicos previstos no n.º 3 do artigo 13.º da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), alterada pela Lei n.º 115/97, de 19 de Setembro.
+
+### CAPÍTULO II — Órgãos e serviços
+
+###### Artigo 7.º — Órgãos
+
+1 - A Escola dispõe dos seguintes órgãos:
+
+a) Assembleia de representantes;
+
+b) Conselho directivo ou director, conforme vier a ser estabelecido nos Estatutos;
+
+c) Conselho científico;
+
+d) Conselho pedagógico;
+
+e) Conselho consultivo;
+
+f) Conselho administrativo.
+
+2 - A Escola pode ainda dispor de outros órgãos que venham a ser fixados nos respectivos Estatutos, com a composição e competência neles definida.
+
+###### Artigo 8.º — Organização científico-pedagógica
+
+A organização científico-pedagógica da Escola faz-se de acordo com as áreas científicas e técnicas que servem de suporte à sua actividade de ensino, de investigação, de desenvolvimento tecnológico e de prestação de serviços.
+
+###### Artigo 9.º — Serviços
+
+1 - A Escola dispõe, nos termos dos seus Estatutos, dos serviços necessários à prossecução dos seus objectivos.
+
+2 - Sem prejuízo do disposto no número anterior, a Escola deve dispor de serviços que assegurem as funções correspondentes às seguintes áreas:
+
+a) Relações públicas e cooperação internacional;
+
+b) Documentação e material didáctico;
+
+c) Informática.
+
+###### Artigo 10.º — Assembleia de representantes
+
+1 - A assembleia de representantes é composta por cinco representantes dos docentes, cinco representantes dos discentes dos cursos conferentes de grau e cinco representantes do pessoal não docente, eleitos directamente pelos respectivos corpos.
+
+2 - São ainda membros da assembleia de representantes, por inerência:
+
+a) O director ou o presidente do conselho directivo;
+
+b) O presidente do conselho científico;
+
+c) O presidente do conselho pedagógico;
+
+d) O presidente da Associação de Estudantes.
+
+3 - O regime de funcionamento da assembleia de representantes bem como a duração do mandato dos seus membros e o respectivo processo eleitoral são fixados pelos Estatutos.
+
+###### Artigo 11.º — Competência da assembleia de representantes
+
+Compete à assembleia de representantes:
+
+a) Aprovar o plano anual de actividades da Escola e respectivo projecto de orçamento a apresentar pelo director ou conselho directivo;
+
+b) Apreciar e aprovar o relatório anual de execução;
+
+c) Pronunciar-se sobre assuntos relacionados com o funcionamento da Escola que lhe sejam presentes pelo director ou pelo conselho directivo;
+
+d) Decidir quanto à realização da revisão ordinária ou extraordinária dos Estatutos, nos termos do artigo 31.º;
+
+e) Emitir parecer sobre as propostas do conselho científico de criação, modificação, suspensão ou extinção dos cursos a ministrar ou ministrados pela Escola;
+
+f) Propor à tutela a criação, modificação, suspensão ou extinção de unidades científico-pedagógicas da Escola, na sequência de proposta do conselho científico;
+
+g) Exercer as demais competências que lhe venham a ser fixadas pelos Estatutos.
+
+###### Artigo 12.º — Director e subdirector
+
+1 - O director é eleito de entre professores em serviço na Escola ou de entre individualidades de reconhecido mérito e experiência profissional que aí exerçam funções correspondentes à categoria de professor.
+
+2 - O director é directamente eleito com a participação de todos os corpos, de acordo com o processo eleitoral fixado pelos Estatutos, tendo em conta a proporcionalidade prevista no n.º 4 do artigo 19.º da Lei n.º 54/90, de 5 de Setembro.
+
+3 - O director é coadjuvado por um subdirector, que o substitui nas suas faltas, ausências e impedimentos, podendo nele delegar parte das suas competências.
+
+4 - O subdirector é nomeado pelo director, em regime de comissão de serviço, de entre os professores da Escola, cessando funções com a tomada de posse do novo director.
+
+5 - As funções do director e do subdirector são exercidas em regime de dedicação exclusiva, podendo eles, por sua livre iniciativa, prestar serviço docente na Escola.
+
+###### Artigo 13.º — Conselho directivo
+
+1 - O conselho directivo é constituído:
+
+a) Pelo presidente e por dois vice-presidentes, eleitos pelo corpo docente de entre professores em serviço na Escola ou de entre individualidades de reconhecido mérito e experiência profissional que aí exerçam funções correspondentes à categoria de professor;
+
+b) Um representante dos estudantes, eleito pelos e de entre os estudantes dos cursos conferentes de grau;
+
+c) Um representante do pessoal não docente, eleito pelo e de entre o pessoal não docente.
+
+2 - O processo eleitoral é fixado pelos Estatutos.
+
+3 - As funções dos membros docentes do conselho directivo são exercidas em regime de dedicação exclusiva, podendo eles, por sua livre iniciativa, prestar serviço docente na Escola.
+
+###### Artigo 14.º — Competência do director
+
+1 - Ao director compete:
+
+a) Representar a Escola em juízo e fora dele;
+
+b) Zelar pela observância das normas legais e regulamentares aplicáveis;
+
+c) Velar pela execução das deliberações dos órgãos colegiais da Escola;
+
+d) Submeter aos ministros que exercem a tutela sobre a Escola todas as questões que careçam da sua decisão;
+
+e) Exercer todas as competências que, cabendo no âmbito das atribuições da Escola, não sejam, pela lei ou pelos Estatutos, cometidas a outros órgãos;
+
+f) Exercer as competências que nele forem delegadas pelos ministros que exercem a tutela sobre a Escola.
+
+2 - Sem prejuízo do disposto no número anterior, ao director compete dirigir, orientar e coordenar as actividades e serviços da Escola, de modo a imprimir-lhes unidade, continuidade e eficiência, cabendo-lhe, designadamente:
+
+a) Promover o desenvolvimento das actividades científicas e pedagógicas da Escola;
+
+b) Preparar o plano de desenvolvimento plurianual da Escola e submetê-lo à apreciação da assembleia de representantes, com base nos planos apresentados pelos órgãos competentes;
+
+c) Elaborar e submeter à assembleia de representantes o plano anual de actividades, o respectivo projecto de orçamento e, bem assim, o relatório anual de execução;
+
+d) Aprovar normas regulamentares com vista ao bom funcionamento da Escola e zelar pela sua observância;
+
+e) Assegurar a gestão de pessoal e a gestão administrativa e financeira.
+
+###### Artigo 15.º — Competência do conselho directivo e do seu presidente
+
+1 - Ao conselho directivo compete o fixado no n.º 2 do artigo anterior.
+
+2 - Ao presidente do conselho directivo compete o fixado no n.º 1 do artigo anterior.
+
+###### Artigo 16.º — Composição do conselho científico
+
+1 - O conselho científico tem a composição prevista nos n.os 1 a 3 do artigo 35.º da Lei n.º 54/90, de 5 de Setembro.
+
+2 - O presidente do conselho científico é eleito nos termos previstos no n.º 4 do artigo 35.º da Lei n.º 54/90, de 5 de Setembro.
+
+###### Artigo 17.º — Competência do conselho científico
+
+1 - Compete ao conselho científico:
+
+a) Exercer as competências que lhe são cometidas pelo Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, aprovado pelo Decreto-Lei n.º 185/81, de 1 de Julho;
+
+b) Propor a criação, modificação, suspensão ou extinção de cursos;
+
+c) Propor a criação, modificação, suspensão ou extinção de unidades científico-pedagógicas da Escola;
+
+d) Aprovar os regulamentos de frequência, avaliação, transição de ano e precedências, no quadro da legislação em vigor, ouvido o conselho pedagógico;
+
+e) Decidir sobre a equivalência de graus, diplomas, cursos e componentes de cursos, no quadro da legislação em vigor;
+
+f) Dar parecer sobre a aquisição de equipamento e material científico e bibliográfico;
+
+g) Exercer as demais competências que, nos termos da lei, lhe sejam atribuídas pelos Estatutos.
+
+2 - Compete ainda ao conselho científico, ouvido o conselho consultivo:
+
+a) Elaborar, para cada curso ministrado pela Escola, as propostas de planos de estudos e do número máximo de alunos a admitir anualmente;
+
+b) Definir as linhas orientadoras das políticas a prosseguir pela Escola nos domínios do ensino, da investigação, da extensão cultural e da prestação de serviços à comunidade.
+
+3 - Nas deliberações sobre docentes que impliquem a avaliação das suas capacidades, designadamente sobre contratação e concursos, só têm direito a voto os docentes do conselho científico de categoria igual ou superior àquela a que os candidatos se propõem ascender.
+
+###### Artigo 18.º — Composição do conselho pedagógico
+
+1 - O conselho pedagógico tem a composição prevista no n.º 1 do artigo 37.º da Lei n.º 54/90, de 5 de Setembro.
+
+2 - O presidente do conselho pedagógico é eleito nos termos previstos no n.º 2 do artigo 37.º da Lei n.º 54/90, de 5 de Setembro.
+
+###### Artigo 19.º — Competência do conselho pedagógico
+
+O conselho pedagógico exerce as competências previstas no n.º 3 do artigo 37.º da Lei n.º 54/90, de 5 de Setembro, para além das que, nos termos da lei, lhe sejam atribuídas pelos Estatutos.
+
+###### Artigo 20.º — Composição do conselho consultivo
+
+1 - Integram o conselho consultivo:
+
+a) O director ou o presidente do conselho directivo, que preside;
+
+b) O presidente do conselho científico;
+
+c) O presidente do conselho pedagógico;
+
+d) O presidente do conselho de administração do Instituto Marítimo-Portuário, ou seu representante;
+
+e) O director-geral das Pescas, ou seu representante;
+
+f) O director-geral do Ensino Superior, ou seu representante;
+
+g) Dois representantes dos armadores da marinha de comércio;
+
+h) Um representante de cada um dos sindicatos representativos dos oficiais da marinha mercante;
+
+i) Um representante de cada um dos sindicatos de professores representados na Escola;
+
+j) O presidente da Associação de Estudantes.
+
+2 - Podem ainda integrar o conselho consultivo outras entidades, nos termos previstos pelos Estatutos.
+
+###### Artigo 21.º — Competência do conselho consultivo
+
+Compete ao conselho consultivo:
+
+a) Acompanhar a actividade desenvolvida pela Escola, podendo formular as propostas, sugestões ou recomendações que entenda convenientes para a boa prossecução das atribuições da Escola;
+
+b) Fomentar o estabelecimento de laços de cooperação entre a Escola e as autarquias, as organizações profissionais, empresariais, culturais e outras relacionadas com a actividade da Escola;
+
+c) Emitir parecer sobre o número máximo de alunos a admitir anualmente nos cursos ministrados pela Escola;
+
+d) Emitir parecer sobre a criação de novos cursos e sobre a pertinência e validade dos cursos existentes;
+
+e) Dar parecer sobre a organização de planos de estudo, sempre que para tal for solicitado pelo director ou presidente do conselho directivo;
+
+f) Emitir parecer sobre a realização pela Escola de cursos de aperfeiçoamento, de actualização e de reciclagem;
+
+g) Pronunciar-se sobre quaisquer assuntos que lhe sejam presentes pelo director ou pelo presidente do conselho directivo;
+
+h) Exercer as demais competências que, nos termos da lei, lhe sejam atribuídas pelos Estatutos.
+
+###### Artigo 22.º — Composição do conselho administrativo
+
+1 - O conselho administrativo é o órgão de gestão administrativa e financeira da Escola.
+
+2 - Integram o conselho administrativo:
+
+a) O director ou o presidente do conselho directivo, que preside;
+
+b) O subdirector ou um dos vice-presidentes do conselho directivo designado pelo presidente;
+
+c) O secretário ou, no caso de o lugar não se encontrar provido, um funcionário designado pelo director ou pelo conselho directivo.
+
+###### Artigo 23.º — Competência do conselho administrativo
+
+O conselho administrativo exerce as competências previstas no artigo 25.º da Lei n.º 54/90, de 5 de Setembro, para além das que, nos termos da lei, lhe sejam atribuídas pelos Estatutos.
+
+### CAPÍTULO III — Disposições finais e transitórias
+
+###### Artigo 24.º — Acção social escolar
+
+A Escola assegura, através de um serviço próprio, nos termos dos seus Estatutos, os objectivos fixados para a acção social escolar pela Lei n.º 113/97, de 16 de Setembro (bases do financiamento do ensino superior público).
+
+###### Artigo 25.º — Seguros
+
+A Escola pode efectuar o seguro de acidentes pessoais dos seus alunos quando estes se encontrem embarcados em acções de formação.
+
+###### Artigo 26.º — Carreira docente
+
+O pessoal docente da Escola rege-se pelo Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico.
+
+###### Artigo 27.º — Disciplinas de natureza técnico-marítima
+
+1 - A admissão a concurso para a docência das disciplinas de natureza técnico-marítima está sujeita, para além das condições fixadas pelo Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico, à titularidade das seguintes cartas de oficial da marinha mercante na área de actividade profissional em que se integra a disciplina:
+
+a) Para assistente, a carta de oficial de 2.ª classe;
+
+b) Para professor-adjunto, a carta de oficial de 1.ª classe;
+
+c) Para professor-coordenador, a carta máxima de oficial.
+
+2 - A contratação de individualidades ao abrigo do disposto no artigo 8.º do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico está igualmente sujeita, para além das condições fixadas pelo mesmo, à titularidade das categorias profissionais referidas no número anterior correspondentes à categoria a que forem equiparadas.
+
+3 - O elenco de disciplinas de natureza técnico-marítima é fixado por despacho conjunto dos Ministros do Equipamento Social e da Educação, sob proposta do conselho científico da Escola.
+
+###### Artigo 28.º — Quadro de pessoal docente
+
+1 - O número de lugares, por categoria, do quadro de pessoal docente é aprovado por portaria conjunta dos Ministros das Finanças, do Equipamento Social, da Educação e da Reforma do Estado e da Administração Pública.
+
+2 - A estrutura orgânica do quadro é fixada por despacho conjunto dos Ministros do Equipamento Social e da Educação.
+
+3 - Na estrutura orgânica do quadro, as disciplinas de natureza técnico-marítima integram grupos próprios.
+
+4 - A afectação dos lugares do quadro à sua estrutura orgânica é feita por decisão do director ou do conselho directivo, sob proposta fundamentada do conselho científico.
+
+###### Artigo 29.º — Carreira técnico-profissional
+
+1 - É criada na Escola a carreira técnico-profissional cuja organização, dinâmica e regras de recrutamento e prossecução obedecem ao regime estabelecido no Decreto-Lei n.º 404-A/98, de 18 de Dezembro, alterado pela Lei n.º 44/99, de 11 de Junho, e pelos Decretos-Lei n.os 77/2001, de 5 de Março, e 141/2001, de 24 de Abril, e a cujos titulares compete prestar assistência aos professores nas aulas práticas, em especial na execução de trabalhos de arte de marinheiro, na manobra de condução de embarcações e jangadas salva-vidas e de embarcações de salvamento, na actividade de manutenção, conservação e preparação das mesmas, da sua palamenta e dos motores, dos equipamentos de sobrevivência no mar, de combate a incêndios, de cuidados de saúde e práticas oficinais, bem como manter técnica e pedagogicamente dispostos os equipamentos e as respectivas instalações.
+
+2 - O recrutamento de técnicos profissionais faz-se de entre indivíduos titulares de certificação de competência na categoria da classe de mestrança da marinha mercante, cujo curso confira certificado de qualificação profissional de nível III, definida pela Decisão n.º [85/368/CEE](http://data.europa.eu/eli/dec/1985/368/oj?locale=pt), do Conselho das Comunidades Europeias, de 16 de Julho, de acordo com as actividades que lhes venham a ser atribuídas.
+
+###### Artigo 30.º — Quadro de pessoal não docente
+
+O quadro de pessoal não docente é aprovado por portaria conjunta dos Ministros das Finanças, do Equipamento Social e da Reforma do Estado e da Administração Pública.
+
+###### Artigo 31.º — Estatutos
+
+1 - A Escola aprova e submete à homologação da tutela os seus Estatutos, os quais devem respeitar expressamente o estabelecido na Lei n.º 54/90, de 5 de Setembro, no presente diploma e na demais legislação aplicável.
+
+2 - A aprovação dos Estatutos e das suas revisões compete a uma assembleia estatutária constituída e convocada expressamente para o efeito e com a seguinte composição:
+
+a) Director ou presidente do conselho directivo;
+
+b) Cinco professores;
+
+c) Três assistentes;
+
+d) Três estudantes dos cursos conferentes de grau;
+
+e) Um funcionário não docente;
+
+f) O presidente da Associação de Estudantes.
+
+3 - Os Estatutos podem ser revistos:
+
+a) Quatro anos após a data da sua publicação inicial ou da publicação de uma revisão;
+
+b) Em qualquer momento, por deliberação aprovada por dois terços dos membros da assembleia de representantes.
+
+4 - Os membros referidos nas alíneas b), c), d) e e) do n.º 2 são eleitos pelos seus pares.
+
+5 - A aprovação dos Estatutos e das suas revisões carece de maioria absoluta de votos dos membros da assembleia prevista no n.º 2.
+
+###### Artigo 32.º — Período de transição
+
+1 - Nos três meses subsequentes à entrada em vigor do presente diploma, o director promove a constituição e entrada em funcionamento da assembleia a que se refere o artigo anterior.
+
+2 - Até à homologação e entrada em vigor dos Estatutos e tomada de posse dos órgãos constituídos nos termos destes, a Escola rege-se pelo disposto no Decreto Regulamentar n.º 71/85, de 31 de Outubro.
+
+###### Artigo 33.º — Norma revogatória
+
+1 - Com a entrada em vigor dos Estatutos e tomada de posse dos órgãos constituídos nos termos destes ficam revogados:
+
+a) O Decreto-Lei n.º 458-A/85, de 31 de Outubro;
+
+b) O Decreto Regulamentar n.º 71/85, de 31 de Outubro, com excepção do n.º 3 do artigo 42.º e do n.º 1 do artigo 43.º;
+
+c) O Decreto-Lei n.º 94/89, de 28 de Março, com excepção do artigo 6.º
+
+2 - Com a primeira alteração ao quadro de pessoal docente da Escola fica revogado o n.º 3 do artigo 42.º do Decreto Regulamentar n.º 71/85, de 31 de Outubro.
+
+###### Artigo 34.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros 5 de Dezembro de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Eduardo Luís Barreto Ferro Rodrigues - Júlio Domingos Pedrosa da Luz de Jesus - Alberto de Sousa Martins.
+
+Promulgado em 15 de Janeiro de 2002.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 17 de Janeiro de 2002.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## ANEXO — Carreira técnico-profissional
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2002/01/024a00/07030708.pdf)

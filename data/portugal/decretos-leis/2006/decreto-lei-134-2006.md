@@ -1,0 +1,851 @@
+---
+schema_version: '1.0'
+id: pt:dre:539218:por
+title: Decreto-Lei n.º 134/2006
+short_title: null
+summary: Cria o Sistema Integrado de Operações de Protecção e Socorro (SIOPS)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 134/2006
+official_date: null
+publication_date: '2006-07-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 142/2006, Série I de 2006-07-25
+  number: '142'
+  series: I
+  supplement: null
+  pages: 5231 - 5237
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14200/52315237.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-12-31'
+version_history:
+  file: decreto-lei-134-2006.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-12-01'
+    amending: pt:dre:146221:por
+    amending_title: Decreto-Lei n.º 114/2011
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 11.º
+    - Revoga Artigo 35.º
+  - date: '2013-06-01'
+    amending: pt:dre:513607:por
+    amending_title: Decreto-Lei n.º 72/2013
+    changes:
+    - Adita Artigo 9.º-A
+    - Adita Artigo 9.º-B
+    - Adita Artigo 9.º-C
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 28.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+  - date: '2022-12-31'
+    amending: pt:dre:205450974:por
+    amending_title: Decreto-Lei n.º 90-A/2022
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/134/2006/p/cons/20130531/pt/html
+  oj: null
+  dre: '539218'
+  dre_path: /dr/detalhe/decreto-lei/134-2006-539218
+  internal: pt:dre:539218:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2006-539218
+  metadata_url: https://data.dre.pt/eli/dec-lei/134/2006/p/cons/20130531/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-205648917
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-205648917
+  retrieved_at: '2026-10-22T12:54:34Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: febbc66b687758d65125d2944538f87f0baef907f6121ba769e554dcd8bf90c8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:54:34Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-134-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proteção Civil
+- Centro de Coordenação Operacional
+- Centro de Coordenação Operacional Distrital
+- Centro de Coordenação Operacional Nacional
+- Comissão Nacional de Protecção Civil
+- Criação de Serviços
+- Definição de Competências
+- Orgânica
+- Autoridade Nacional de Protecção Civil
+- Comando Nacional de Operações de Socorro
+- Siops
+- Transferência de Competências
+- Sistema de Gestão de Operações
+relationships:
+- type: amended_by
+  target: pt:dre:146221:por
+  label: Altera Artigo 4.º; Altera Artigo 11.º; Revoga Artigo 35.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:513607:por
+  label: Adita Artigo 9.º-A; Adita Artigo 9.º-B; Adita Artigo 9.º-C; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera
+    Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera
+    Artigo 19.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607
+  date: '2013-05-31'
+- type: amended_by
+  target: pt:dre:205450974:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974
+  date: '2022-12-30'
+- type: cites
+  target: pt:dre:227006:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/97/2005/06/16/p/dre
+- type: cites
+  target: pt:dre:231117:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/49/2003/03/25/p/dre
+- type: cites
+  target: pt:dre:251979:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/44/2002/03/02/p/dre
+- type: cites
+  target: pt:dre:512027:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/1994/01/22/p/dre
+- type: cites
+  target: pt:dre:552522:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/21/2006/02/02/p/dre
+- type: cites
+  target: pt:dre:575723:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/253/1995/09/30/p/dre
+article_structure:
+  article_count: 40
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:54:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 134/2006
+
+Decreto-Lei n.º 134/2006
+
+de 25 de Julho
+
+As acções de protecção civil integram, obrigatoriamente, agentes e serviços que advêm de organismos do Estado, das Regiões Autónomas, das autarquias locais e de organizações não governamentais, entre outras. Ao longo dos últimos 15 anos coube ao Serviço Nacional de Protecção Civil, primeiro, e ao Serviço Nacional de Bombeiros e Protecção Civil, depois, a direcção de grande parte das operações de protecção e socorro e o comando em teatro de operações.
+
+Num momento em que se está a construir um novo edifício legislativo importa definir o Sistema Integrado de Operações de Protecção e Socorro (SIOPS) como o conjunto de estruturas, normas e procedimentos de natureza permanente e conjuntural que asseguram que todos os agentes de protecção civil actuam, no plano operacional, articuladamente sob um comando único, sem prejuízo da respectiva dependência hierárquica e funcional.
+
+O SIOPS é desenvolvido com base em estruturas de coordenação, os centros de coordenação operacional, de âmbito nacional e distrital, onde se compatibilizam todas as instituições necessárias para fazer face a acidentes graves e catástrofes e estruturas de comando operacional que, no âmbito das competências atribuídas à Autoridade Nacional de Protecção Civil, agem perante a iminência ou ocorrência de acidentes graves ou catástrofes em ligação com outras forças que dispõem de comando próprio.
+
+O carácter peculiar deste Sistema resulta do facto de se tratar de um instrumento global e centralizado de coordenação e comando de operações de socorro cuja execução compete a entidades diversas e não organicamente integradas na Autoridade Nacional de Protecção Civil, mas que dependem, para efeitos operacionais, do SIOPS.
+
+Com a criação do SIOPS é estabelecido um sistema de gestão de operações, definindo a organização dos teatros de operações e dos postos de comando, clarificando competências e consolidando a doutrina operacional.
+
+Em diploma autónomo, e após audição da Associação Nacional de Municípios Portugueses, será definido o regime dos serviços municipais de protecção civil.
+
+O anteprojecto do presente decreto-lei foi submetido a discussão pública.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.
+
+Foram ouvidos, a título facultativo, o Instituto Nacional de Emergência Médica e a Liga dos Bombeiros Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Sistema Integrado de Operações de Protecção e Socorro
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 1.º — Sistema Integrado de Operações de Protecção e Socorro
+
+1 - O Sistema Integrado de Operações de Protecção e Socorro, adiante designado por SIOPS, é o conjunto de estruturas, normas e procedimentos que asseguram que todos os agentes de protecção civil actuam, no plano operacional, articuladamente sob um comando único, sem prejuízo da respectiva dependência hierárquica e funcional.
+
+2 - O SIOPS visa responder a situações de iminência ou de ocorrência de acidente grave ou catástrofe.
+
+3 - O princípio do comando único assenta nas duas dimensões do Sistema, a da coordenação institucional e a do comando operacional.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+### Capítulo II — Coordenação institucional
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 2.º — Estruturas de coordenação
+
+1 - A coordenação institucional é assegurada, a nível nacional e a nível de cada distrito, pelos centros de coordenação operacional, adiante designados por CCO, que integram representantes das entidades cuja intervenção se justifica em função de cada ocorrência em concreto.
+
+2 - Os CCO são responsáveis pela gestão da participação operacional de cada força ou serviço nas operações de socorro a desencadear.
+
+3 - São atribuições dos CCO, designadamente:
+
+a) Assegurar a coordenação dos recursos e do apoio logístico das operações de socorro, emergência e assistência realizadas por todas as organizações integrantes do SIOPS;
+
+b) Proceder à recolha de informação estratégica, relevante para as missões de protecção e socorro, detida pelas organizações integrantes dos CCO, bem como promover a sua gestão;
+
+c) Recolher e divulgar, por todos os agentes em razão da ocorrência e do estado de prontidão, informações de carácter estratégico essencial à componente de comando operacional táctico;
+
+d) Informar permanentemente a autoridade política respectiva de todos os factos relevantes que possam gerar problemas ou estrangulamentos no âmbito da resposta operacional;
+
+e) Garantir a gestão e acompanhar todas as ocorrências, assegurando uma resposta adequada no âmbito do SIOPS.
+
+4 - A Comissão Nacional de Protecção Civil aprova o regulamento de funcionamento do Centro de Coordenação Operacional Nacional e dos centros de coordenação operacional distrital, que prevê, designadamente, as formas de mobilização e de articulação entre as entidades integrantes dos CCO, as relações operacionais com o Comando Nacional de Operações de Socorro e os comandos distritais de operações de socorro, a existência de elementos de ligação permanente, bem como a recolha e articulação da informação necessária à componente operacional.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 3.º — Centro de Coordenação Operacional Nacional
+
+1 - O Centro de Coordenação Operacional Nacional, adiante designado por CCON, assegura que todas as entidades e instituições de âmbito nacional imprescindíveis às operações de protecção e socorro, emergência e assistência previsíveis ou decorrentes de acidente grave ou catástrofe se articulam entre si, garantindo os meios considerados adequados à gestão da ocorrência em cada caso concreto.
+
+2 - O CCON integra representantes da Autoridade Nacional de Proteção Civil, das Forças Armadas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, do Instituto Nacional de Emergência Médica, I.P., do Instituto Português do Mar e da Atmosfera, I.P., e do Instituto de Conservação da Natureza e das Florestas, I.P., e de outras entidades que cada ocorrência em concreto venha a justificar.
+
+3 - [Revogado].
+
+4 - O CCON é coordenado pelo presidente da Autoridade Nacional de Protecção Civil, podendo este fazer-se substituir pelo comandante operacional nacional da Autoridade Nacional de Protecção Civil.
+
+5 - São atribuições do CCON, designadamente:
+
+a) Integrar, monitorizar e avaliar toda a actividade operacional quando em situação de acidente grave ou catástrofe;
+
+b) Assegurar a ligação operacional e a articulação nacional com os agentes de protecção civil e outras estruturas operacionais no âmbito do planeamento, assistência, intervenção e apoio técnico ou científico nas áreas do socorro e emergência;
+
+c) Garantir que as entidades e instituições integrantes do CCON accionam, no âmbito da sua estrutura hierárquica, os meios necessários ao desenvolvimento das operações bem como os meios de reforço;
+
+d) Assegurar o fluxo permanente da informação estratégica com os serviços de protecção civil das Regiões Autónomas, nomeadamente na iminência ou em caso de acidente grave ou catástrofe;
+
+e) Difundir comunicados e avisos às populações e às entidades e instituições, incluindo os órgãos de comunicação social;
+
+f) Avaliar a situação e propor à Comissão Nacional de Protecção Civil que formule junto do Governo pedidos de auxílio a outros países e às organizações internacionais através dos órgãos competentes;
+
+g) Assegurar o desencadeamento das acções consequentes às declarações das situações de alerta, de contingência e de calamidade.
+
+6 - A Autoridade Nacional de Protecção Civil garante os recursos humanos, materiais e informacionais necessários ao funcionamento do CCON.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 4.º — Centros de coordenação operacional distrital
+
+1 - Os centros de coordenação operacional distrital, adiante designados por CCOD, asseguram que todas as entidades e instituições de âmbito distrital imprescindíveis às operações de protecção e socorro, emergência e assistência previsíveis ou decorrentes de acidente grave ou catástrofe se articulam entre si garantindo os meios considerados adequados à gestão da ocorrência em cada caso concreto.
+
+2 - Os CCOD integram, obrigatoriamente, representantes da Autoridade Nacional de Proteção Civil, das Forças Armadas, da Guarda Nacional Republicana, da Polícia de Segurança Pública, do Instituto Nacional de Emergência Médica, I.P., e do Instituto de Conservação da Natureza e das Florestas, I.P., e das demais entidades que cada ocorrência em concreto venha a justificar.
+
+3 - Os CCOD podem reunir periodicamente fora do decorrer de operações, sempre que julgado pertinente pelo representante da ANPC distrital, para efeitos de coordenações que visem futuras operações de proteção e socorro.
+
+4 - Os CCOD são coordenados pelos comandantes operacionais distritais da Autoridade Nacional de Protecção Civil.
+
+5 - Os CCOD garantem uma avaliação distrital e infradistrital em articulação com as entidades políticas e administrativas de âmbito municipal.
+
+6 - São atribuições dos CCOD, designadamente:
+
+a) Integrar, monitorizar e avaliar toda a actividade operacional quando em situação de acidente grave ou catástrofe;
+
+b) Assegurar a ligação operacional e a articulação distrital com os agentes de protecção civil e outras estruturas operacionais no âmbito do planeamento, assistência, intervenção e apoio técnico ou científico nas áreas do socorro e emergência;
+
+c) Garantir que as entidades e instituições integrantes do CCOD accionam, no âmbito da sua estrutura hierárquica e ao nível do escalão distrital, os meios necessários ao desenvolvimento das acções;
+
+d) Difundir comunicados e avisos às populações e às entidades e instituições, incluindo os órgãos de comunicação social;
+
+e) Avaliar a situação e propor ao presidente da Autoridade Nacional de Protecção Civil medidas no âmbito da solicitação de ajuda nacional.
+
+7 - Compete à Autoridade Nacional de Protecção Civil garantir os recursos humanos, materiais e informacionais necessários ao funcionamento do CCOD.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01
+
+### Capítulo III — Gestão de operações
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 5.º — Estruturas de direcção e comando
+
+1 - Todas as instituições representadas nos CCO dispõem de estruturas de intervenção próprias que funcionam sob a direcção ou comando previstos nas respectivas leis orgânicas.
+
+2 - A Autoridade Nacional de Protecção Civil dispõe de uma estrutura operacional própria, competindo-lhe, nos termos da lei, assegurar o comando operacional das operações de socorro e ainda o comando operacional integrado de todos os corpos de bombeiros de acordo com o previsto no regime jurídico dos bombeiros portugueses.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 6.º — Comando Nacional de Operações de Socorro
+
+1 - O Comando Nacional de Operações de Socorro, adiante designado por CNOS, é constituído pelo comandante operacional nacional, pelo 2.º comandante operacional nacional e por três adjuntos de operações nacionais.
+
+2 - O CNOS compreende a célula operacional de planeamento, operações, monotorização e avaliação do risco e informações, a célula operacional de logística e comunicações e a célula operacional de gestão de meios aéreos, dirigidas por chefes de células operacionais.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 7.º — Competências
+
+1 - Sem prejuízo de outras competências previstas na lei, são competências do CNOS no âmbito do SIOPS:
+
+a) Garantir o funcionamento, a operatividade e a articulação com todos os agentes de protecção civil integrantes do sistema de protecção e socorro;
+
+b) Coordenar operacionalmente os comandos de agrupamento distrital de operações de socorro;
+
+c) Assegurar o comando e controlo das situações que pela sua natureza, gravidade, extensão e meios envolvidos ou a envolver requeiram a sua intervenção;
+
+d) Promover a análise das ocorrências e determinar as acções e os meios adequados à sua gestão;
+
+e) Assegurar a coordenação e a direcção estratégica das operações de socorro;
+
+f) Acompanhar em permanência a situação operacional no domínio das entidades integrantes do SIOPS;
+
+g) Apoiar técnica e operacionalmente o Governo;
+
+h) Preparar directivas e normas operacionais e difundi-las aos escalões inferiores para planeamento ou execução;
+
+i) Propor os dispositivos nacionais, os planos de afectação de meios, as políticas de gestão de recursos humanos e as ordens de operações.
+
+2 - O 2.º comandante operacional nacional, os adjuntos de operações nacionais e os chefes de células operacionais dependem hierarquicamente do comandante operacional nacional e exercem as competências e funções que este determinar.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 8.º — Célula operacional de planeamento, operações, monitorização e avaliação do risco e informações
+
+Compete à célula operacional de planeamento, operações, monitorização e avaliação do risco e informações:
+
+a) Assegurar o funcionamento permanente do comando nacional, encaminhando os pedidos de apoio formulados e assegurando a ligação entre serviços, estruturas e principais agentes de protecção civil e socorro;
+
+b) Assegurar a monitorização permanente da situação nacional e a actualização de toda a informação relativa às ocorrências e ao empenhamento de meios e recursos, garantindo o registo cronológico da evolução das situações, nomeadamente a que decorrer de acidentes graves ou catástrofes;
+
+c) Assegurar a execução das decisões operacionais, nomeadamente sobre a gestão estratégica dos dispositivos de intervenção e a gestão da comunicação de emergência, de acordo com o risco e a informação disponível de apoio à decisão;
+
+d) Mobilizar e apoiar o funcionamento dos veículos de gestão estratégica e operações;
+
+e) Garantir em articulação com os serviços competentes a divulgação e difusão de oportunos comunicados, avisos às populações e entidades integrantes que provenham do CCON;
+
+f) [Revogada];
+
+g) Elaborar e manter actualizadas as directivas, normas, planos e ordens de operações;
+
+h) Elaborar estudos e propostas de âmbito operacional;
+
+i) Apoiar o comando operacional nacional na preparação de elementos necessários à tomada de decisões.
+
+j) Manter informação atualizada sobre acidentes graves e catástrofes, especialmente quando ocorridos em território nacional.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 9.º — Célula operacional de logística e de comunicações
+
+Compete à célula operacional de logística e de comunicações:
+
+a) Assegurar o levantamento dos meios e recursos e inventariar as carências, propondo as soluções adequadas para fazer face a acidentes graves ou catástrofes;
+
+b) Supervisionar e assegurar o acondicionamento, o controlo, a manutenção, o funcionamento e o transporte dos equipamentos de reserva estratégica existentes;
+
+c) Propor a criação de depósitos e centros de abastecimento;
+
+d) Estudar e planear o apoio logístico ao nível nacional a prestar às vítimas e forças de socorro em situações de emergência;
+
+e) [Revogada];
+
+f) Proceder à gestão do parque de veículos atribuídos;
+
+g) Articular com os serviços competentes as matérias relativas à rede de comunicações e rede informática sempre que estas envolvam os comandos de operações e os agentes de protecção civil.
+
+h) Organizar e assegurar o funcionamento das telecomunicações impostas pelas necessárias ligações entre os diferentes níveis de comando operacional e os agentes de proteção civil;
+
+i) Supervisionar e assegurar o controlo, a manutenção e o funcionamento da rede de comunicações dos corpos de bombeiros.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 9.º-A — Célula operacional de gestão de meios aéreos
+
+Compete à célula operacional de gestão de meios aéreos:
+
+a) Assegurar a ligação e o apoio aos meios aéreos de outros agentes de proteção civil, quando ao serviço da ANPC;
+
+b) Estudar e planear o apoio logístico ao nível nacional de apoio às operações aéreas e propor as soluções mais adequadas à gestão do dispositivo aéreo;
+
+c) Articular com os serviços competentes as matérias relativas à operacionalidade da rede de comunicações aéreas.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 9.º-B — Agrupamento distrital de operações de socorro
+
+1 - Os agrupamentos distritais de operações de socorro são dirigidos pelos comandantes operacionais de agrupamento distrital designados abreviadamente por CADIS, sendo substituídos nas sua faltas e impedimentos por um comandante operacional distrital do seu âmbito territorial a designar pelo comandante operacional nacional.
+
+2 - A estrutura de apoio ao CADIS é assegurada por um comando operacional distrital de operações de socorro da sua área de âmbito territorial, a designar pelo comandante operacional nacional.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 9.º-C — Competências
+
+Sem prejuízo de outras competências previstas na lei, são competências do CADIS no âmbito do SIOPS, e no seu espaço territorial:
+
+a) Garantir o funcionamento, a operacionalidade e a articulação com todos os agentes de proteção civil integrantes do sistema de proteção e socorro no âmbito dos distritos englobados no respetivo comando de agrupamento distrital;
+
+b) Coordenar operacionalmente os comandos distritais de operações de socorro;
+
+c) Assegurar o comando e controlo das situações que pela sua natureza, gravidade, extensão e meios envolvidos ou a envolver requeiram a sua intervenção;
+
+d) Assegurar a coordenação e a direção estratégica das operações de socorro interdistritais;
+
+e) Acompanhar em permanência a situação operacional no domínio das entidades integrantes do SIOPS;
+
+f) Assegurar a execução das diretivas e normas operacionais e difundi-las aos escalões inferiores para planeamento ou execução;
+
+g) Propor os dispositivos de agrupamento distrital, os planos de afetação de meios e as ordens de operações;
+
+h) Estabelecer um dispositivo de agrupamento distrital com vista à eficiência na resposta operacional e ao reforço imediato e articulado de Teatros de Operações;
+
+i) Garantir a elaboração de planos prévios de intervenção interdistritais;
+
+j) Exercer as demais competências que lhe forem atribuídas pelo comandante operacional nacional.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 10.º — Comando distrital de operações de socorro
+
+1 - O comando distrital de operações de socorro, adiante designado por CDOS, é constituído pelo comandante operacional distrital e pelo 2.º comandante operacional distrital.
+
+2 - [Revogado].
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 11.º — Competências
+
+1 - Sem prejuízo de outras competências previstas na lei, são competências do CDOS no âmbito do SIOPS:
+
+a) Garantir o funcionamento, a operatividade e a articulação com todos os agentes de protecção civil do sistema de protecção e socorro no âmbito do distrito;
+
+b) Assegurar o comando e controlo das situações que pela sua natureza, gravidade, extensão e meios envolvidos ou a envolver requeiram a sua intervenção;
+
+c) Mobilizar, atribuir e empregar o pessoal e os meios indispensáveis e disponíveis à execução das operações;
+
+d) Assegurar a gestão dos meios aéreos a nível distrital;
+
+e) Assegurar a coordenação, no respeito pela sua direcção e comando próprios, de todas as entidades e instituições empenhadas em operações de socorro;
+
+f) Apoiar técnica e operacionalmente as comissões distritais de protecção civil.
+
+g) Propor os dispositivos distritais, os planos de afetação de meios técnicos ou humanos e as ordens de operações.
+
+2 - O 2.º comandante operacional distrital depende hierarquicamente do comandante operacional distrital e exerce as competências e funções que este determinar.
+
+3 - O comandante operacional distrital depende hierarquicamente do comandante operacional de agrupamento distrital.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01
+
+### Capítulo IV — Sistema de gestão de operações
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+#### Secção I — Organização
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 12.º — Organização do sistema de gestão de operações
+
+1 - O sistema de gestão de operações é uma forma de organização operacional que se desenvolve de uma forma modular e evolutiva de acordo com a importância e o tipo de ocorrência.
+
+2 - Sempre que uma força de socorro de uma qualquer das organizações integrantes do SIOPS seja accionada para uma ocorrência, o chefe da primeira força a chegar ao local assume de imediato o comando da operação e garante a construção de um sistema evolutivo de comando e controlo da operação.
+
+3 - A decisão do desenvolvimento da organização é da responsabilidade do comandante das operações de socorro, designado por COS, que a deve tomar sempre que os meios disponíveis no ataque inicial e respetivos reforços se mostrem insuficientes.
+
+4 - O comando das operações deve ter em conta a adequação técnica e a capacidade operacional dos agentes presentes no teatro das operações e a sua competência legal.
+
+5 - Sem prejuízo do disposto na legislação em vigor, o desenvolvimento e a simbologia do sistema de gestão de operações é estabelecido por despacho do Presidente da ANPC, sob proposta do comandante operacional nacional.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 13.º — Configuração do sistema de gestão de operações
+
+1 - O sistema de gestão de operações configura-se nos níveis estratégico, táctico e de manobra.
+
+2 - No nível estratégico assegura-se a gestão da operação que inclui:
+
+a) A determinação da estratégia apropriada;
+
+b) [Revogada];
+
+c) [Revogada];
+
+d) A elaboração e actualização do plano estratégico de acção;
+
+e) [Revogada];
+
+f) A previsão e planeamento de resultados;
+
+g) A fixação de objetivos específicos para o nível tático.
+
+3 - No nível tático dirigem-se as atividades operacionais tendo em consideração os objetivos a alcançar de acordo com a estratégia definida pelo COS e definem-se as orientações para o nível de manobra.
+
+4 - No nível de manobra determinam-se e executam-se tarefas específicas, normalmente realizadas e desenvolvidas com meios humanos e com o apoio de meios técnicos de acordo com os objetivos definidos.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+#### Secção II — Posto de comando operacional
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 14.º — Definição
+
+O posto de comando operacional (PCO) é o órgão diretor das operações no local da ocorrência destinado a apoiar o COS na tomada das decisões e na articulação dos meios no teatro de operações.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 15.º — Missões
+
+O PCO tem por missões genéricas:
+
+a) A recolha e o tratamento operacional das informações;
+
+b) A preparação das acções a desenvolver;
+
+c) A formulação e a transmissão de ordens, directrizes e pedidos;
+
+d) O controlo da execução das ordens;
+
+e) A manutenção das capacidades operacionais dos meios empregues;
+
+f) A gestão dos meios de reserva.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 16.º — Constituição
+
+1 - O PCO é constituído pelas células de planeamento, operações e logística, cada uma com um responsável nomeado pelo COS, que assume a designação de Oficial de Planeamento, Oficial de Operações e Oficial de Logística.
+
+2 - As células são coordenadas diretamente pelo COS e podem possuir núcleos funcionais.
+
+3 - O COS é ainda diretamente assessorado por três oficiais, um como adjunto para a segurança, outro para as relações públicas e outro para a ligação com outras entidades.
+
+4 - Fazem ainda parte do posto de comando os representantes dos agentes de proteção civil com meios empenhados na operação ou que se considerem pertinentes para o desenrolar da operação.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 17.º — Sectorização de um teatro de operações
+
+1 - Um teatro de operações (TO) organiza-se em setores a que correspondem zonas geográficas ou funcionais conforme o tipo de ocorrência e as opções estratégicas consideradas.
+
+2 - Cada setor do TO tem um responsável que assume a definição de comandante de setor.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 18.º — Delimitação das zonas de intervenção
+
+1 - As zonas de intervenção caraterizam-se como áreas de configuração e amplitude variáveis e adaptadas às circunstâncias e condições do tipo de ocorrência, podendo compreender zonas de sinistro, zonas de apoio, zonas de concentração e reserva e zonas de receção de reforços.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 19.º — Zona de sinistro
+
+A zona de sinistro (ZS) é a superfície na qual se desenvolve a ocorrência, de acesso restrito, onde se encontram exclusivamente os meios necessários à intervenção direta e com missão atribuída, sob a responsabilidade do COS.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 20.º — Zona de apoio
+
+A zona de apoio (ZA) é uma zona adjacente à ZS, de acesso condicionado, onde se concentram os meios de apoio e logísticos estritamente necessários ao suporte dos meios em operação e onde estacionam meios de intervenção para resposta imediata.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 21.º — Zona de concentração e reserva
+
+A zona de concentração e reserva (ZCR) é uma zona do teatro de operações onde se localizam temporariamente meios e recursos disponíveis sem missão imediata e onde se mantém o sistema de apoio logístico às forças.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 22.º — Zona de recepção de reforços
+
+A zona de receção de reforços (ZRR) é uma zona de controlo e apoio logístico, sob a responsabilidade do comandante operacional distrital da área onde se desenvolve o sinistro, para onde se dirigem os meios de reforço atribuídos pelo CCON antes de atingirem a ZCR no teatro de operações.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+#### Secção III — Estado de alerta especial para o SIOPS
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 23.º — Âmbito
+
+O estado de alerta especial para as organizações integrantes do SIOPS visa intensificar as acções preparatórias para as tarefas de supressão ou minoração das ocorrências, colocando meios humanos e materiais de prevenção em relação ao período de tempo e à área geográfica em que se preveja especial incidência de condições de risco ou emergência.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 24.º — Alerta especial
+
+1 - O alerta especial consiste:
+
+a) Na maior mobilização de meios humanos e materiais para as missões a cumprir;
+
+b) Na adopção de esquemas preparatórios para intervenção ou actuação iminente;
+
+c) Na execução de missões de prevenção ou vigilância, devendo ser activados os recursos disponíveis;
+
+d) Na adopção coordenada de outras medidas julgadas oportunamente necessárias.
+
+2 - O alerta especial compreende os níveis azul, amarelo, laranja e vermelho, progressivos conforme a gravidade da situação e o grau de prontidão que esta exige.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 25.º — Activação
+
+1 - A aprovação da directiva operacional que determina as regras de activação do estado de alerta especial para as organizações integrantes do SIOPS é da competência da Comissão Nacional de Protecção Civil.
+
+2 - A determinação do estado de alerta especial é da competência exclusiva do CCON, a quem compete a informação aos CCOD, tendo em vista a determinação das áreas abrangidas, do nível adequado de accionamento de recursos em função do tipo de situação, da sua gravidade, do nível de prontidão exigido e do período de tempo em que se preveja especial incidência do fenómeno.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+### Capítulo V — Dispositivos de resposta
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+#### Secção I — Dispositivo de resposta operacional
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 26.º — Dispositivo de resposta operacional
+
+O dispositivo de resposta operacional é constituído por equipas de intervenção permanente destinadas à intervenção prioritária em missões de socorro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 27.º — Dispositivos especiais
+
+1 - Podem ser constituídos dispositivos especiais destinados a fazer face a uma ocorrência ou conjunto de ocorrências, previsíveis ou verificadas.
+
+2 - Compete ao CCON a determinação das regras necessárias à criação desses dispositivos especiais e garantir a sua devida preparação e formação.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 28.º — Dispositivo especial de incêndios florestais
+
+1 - O dispositivo especial de combate a incêndios florestais é um dispositivo sazonal que tem como objectivo aumentar a rapidez e a qualidade da interposição das forças de intervenção de todas as organizações integrantes do SIOPS.
+
+2 - O dispositivo especial de combate a incêndios florestais é planeado plurianualmente.
+
+3 - O dispositivo especial de combate a incêndios florestais tem como conceito estratégico:
+
+a) Garantir uma primeira intervenção imediata e segura em incêndios declarados, dominando-os à nascença;
+
+b) Limitar o desenvolvimento dos incêndios e reduzir os reacendimentos;
+
+c) Garantir permanentemente a unidade de comando, controlo e comunicações;
+
+d) Garantir permanentemente a segurança de todas as forças das organizações integrantes do SIOPS;
+
+e) Garantir a prioridade da intervenção terrestre e aérea para as zonas de maior risco florestal, nomeadamente áreas protegidas ou áreas de elevado valor económico;
+
+f) Garantir permanentemente a defesa de pessoas e seus bens.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 29.º — Meios aéreos
+
+1 - Os meios aéreos de natureza civil pertencentes às entidades representadas no CCON são objecto de gestão partilhada, devendo ser utilizados de acordo com as suas especificidades e características técnicas desde que garantida a sua permanente aptidão.
+
+2 - Os meios aéreos de natureza sazonal destinados ao combate a incêndios florestais devem ser geridos de acordo com as regras previstas em directiva operacional a aprovar pelo Ministro da Administração Interna.
+
+3 - O CCON deve garantir a existência de sistemas de comunicações terra/ar que permitam a comunicação entre todas as forças envolvidas no teatro de operações.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 30.º — Sistemas de apoio à decisão
+
+1 - O CCON garante que todas as entidades e instituições integrantes do sistema de protecção civil disponibilizam a informação necessária à gestão operacional.
+
+2 - A organização do sistema de apoio à decisão pertencente a cada uma das entidades representadas no CCON é previamente avaliada por este.
+
+3 - As entidades que partilham sistemas de apoio à decisão devem garantir a inviolabilidade dos mesmos.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+#### Secção II — Dispositivo de resposta internacional
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 31.º — Constituição do dispositivo
+
+1 - O dispositivo de resposta internacional é composto por uma força operacional de resposta rápida, subdividida nos grupos especiais de busca e salvamento e de protecção e socorro e assistência.
+
+2 - A estrutura e as regras de constituição dos grupos especiais são definidas pela Comissão Nacional de Protecção Civil.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+### Capítulo VI — Articulação e compromissos
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 32.º — Articulação com o serviço de busca e salvamento marítimo
+
+1 - Os serviços municipais de proteção civil, os corpos de bombeiros e outras entidades integrantes do sistema de proteção e socorro devem informar, de forma célere, o CDOS, e este o CADIS e o CNOS, de qualquer acidente grave ou catástrofe iminente ou ocorrido nas costas litorais de Portugal e demais áreas de responsabilidade da autoridade marítima de que tenham conhecimento.
+
+2 - O CCON coordena as ações de todas as entidades necessárias à intervenção e articula-se com o Centro de Coordenação de Busca e Salvamento Marítimo-MRCC de Lisboa, sem prejuízo do disposto no Decreto-Lei n.º 15/94, de 22 de janeiro, alterado pelo Decreto-Lei n.º 399/99, de 14 de outubro, e no Decreto-Lei n.º 44/2002, de 2 de março, alterado pelo Decreto-Lei n.º 235/2012, de 31 de outubro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+###### Artigo 33.º — Articulação com o serviço de busca e salvamento aéreo
+
+1 - Os serviços municipais de proteção civil, os corpos de bombeiros e outras entidades integrantes do sistema de proteção e socorro devem informar, de forma célere, o CDOS, e este o CADIS e o CNOS, de qualquer acidente grave ou catástrofe iminente ou ocorrido em Portugal com aeronaves de que tenham conhecimento.
+
+2 - O CCON coordena as acções de todas as entidades necessárias às acções de intervenção e articula-se com o Centro de Coordenação de Busca e Salvamento Aéreo - RCC de Lisboa, sem prejuízo do disposto no Decreto-Lei n.º 253/95, de 30 de Setembro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2013 - Diário da República n.º 105/2013, Série I de 2013-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2013-513607), em vigor a partir de 2013-06-01
+
+### Capítulo VII — Medidas de avaliação e controlo
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 34.º — Avaliação e controlo
+
+1 - Sem prejuízo de outras actividades de controlo, o CCON assegura, no respeito pela autonomia dos agentes de protecção civil, a avaliação das acções operacionais de resposta de socorro, emergência e assistência relativas às entidades integrantes do SIOPS.
+
+2 - Os serviços das entidades que integram o SIOPS estão obrigados a fornecer ao CCON, a seu pedido, todos os justificativos, informações, documentos, notas e outros elementos necessários ao exercício da sua missão.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+### Capítulo VIII — Disposições transitórias e finais
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 35.º — Autoridade Nacional de Protecção Civil
+
+Até à entrada em vigor do diploma que define a organização e funcionamento da Autoridade Nacional de Protecção Civil, as referências feitas a esta entidade no presente decreto-lei devem considerar-se feitas, com as necessárias adaptações, ao Serviço Nacional de Bombeiros e Protecção Civil, criado pelo Decreto-Lei n.º 49/2003, de 25 de Março, na redacção que lhe foi conferida pelos Decretos-Leis n.os 97/2005, de 16 de Junho, e 21/2006, de 2 de Fevereiro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Revogado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01
+
+###### Artigo 36.º — Nível municipal
+
+As disposições relativas ao comando único municipal, designadamente a sua articulação com os níveis nacional e distrital, são reguladas em diploma próprio.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+###### Artigo 37.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+Visto e aprovado em Conselho de Ministros de 4 de Maio de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Manuel Lobo Antunes - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Paulo Jorge Oliveira Ribeiro de Campos - Francisco Ventura Ramos.
+
+Promulgado em 13 de Julho de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 16 de Julho de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 90-A/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-a-2022-205450974), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01

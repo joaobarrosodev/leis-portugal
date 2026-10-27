@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:243731:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1997-107684396",
+ "dre_path": "/dr/detalhe/lei/88-a-1997-243731",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107675880",
+    "107675881",
+    "107675882",
+    "107675883",
+    "107675884",
+    "107675885"
+   ]
+  },
+  {
+   "date": "2012-04-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553038:por",
+     "title": "Lei n.º 17/2012",
+     "published": "2012-04-26",
+     "dre_path": "/dr/detalhe/lei/17-2012-553038"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "107675880",
+    "107675898",
+    "107675882",
+    "107675883",
+    "107675884",
+    "107675885",
+    "107675886"
+   ]
+  },
+  {
+   "date": "2013-06-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:496703:por",
+     "title": "Lei n.º 35/2013",
+     "published": "2013-06-11",
+     "dre_path": "/dr/detalhe/lei/35-2013-496703"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "107675880",
+    "107675899",
+    "107675882",
+    "107675883",
+    "107675884",
+    "107675885",
+    "107675886"
+   ]
+  }
+ ],
+ "fragments": {
+  "107675880": {
+   "fragment_id": "107684397",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 88-A/97\n\nde 25 de Julho\n\nRegula o acesso da iniciativa económica privada a determinadas actividades económicas\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "107675881": {
+   "fragment_id": "107684398",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É vedado a empresas privadas e a outras entidades da mesma natureza o acesso às seguintes actividades económicas, salvo quando concessionadas:\n\na) Captação, tratamento e distribuição de água para consumo público, recolha, tratamento e rejeição de águas residuais urbanas, em ambos os casos através de redes fixas, e recolha e tratamento de resíduos sólidos urbanos, no caso de sistemas multimunicipais e municipais;\n\nb) Comunicações por via postal que constituam o serviço público de correios;\n\nc) Transportes ferroviários explorados em regime de serviço público;\n\nd) Exploração de portos marítimos.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se, respectivamente, sistemas multimunicipais os que sirvam pelo menos dois municípios e exijam um investimento predominante a efectuar pelo Estado em função de razões de interesse nacional e sistemas municipais todos os outros, incluindo os geridos através de associações de municípios.\n\n3 - No caso de sistemas multimunicipais, as concessões relativas às actividades referidas na alínea a) do n.º 1 serão outorgadas pelo Estado e só podem ser atribuídas a empresas cujo capital social seja maioritariamente subscrito por entidades do sector público, nomeadamente autarquias locais.\n\n4 - O serviço público de correios a que se refere a alínea b) do n.º 1 será definido mediante decreto-lei.\n\n5 - A concessão de serviço público a que se refere a alínea c) do n.º 1 será outorgada pelo Estado ou por municípios ou associações de municípios, carecendo, nestes casos, de autorização do Estado quando as actividades objecto de concessão exijam um investimento predominante a realizar pelo Estado."
+  },
+  "107675882": {
+   "fragment_id": "107684399",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA exploração dos recursos do subsolo e dos outros recursos naturais que, nos termos constitucionais, são pertencentes ao Estado será sempre sujeita ao regime de concessão ou outro que não envolva a transmissão de propriedade dos recursos a explorar, mesmo quando a referida exploração seja realizada por empresas do sector público ou de economia mista."
+  },
+  "107675883": {
+   "fragment_id": "107684400",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA proibição do acesso da iniciativa privada às actividades referidas nos artigos anteriores impede a apropriação por entidades privadas dos bens de produção e meios afectos às actividades aí consideradas, bem como as respectivas exploração e gestão, fora dos casos expressamente previstos no presente diploma, sem prejuízo da continuação da actividade das empresas com participação de capitais privados existentes à data da entrada em vigor da presente lei e dentro do respectivo quadro actual de funcionamento."
+  },
+  "107675884": {
+   "fragment_id": "107684401",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O regime de acesso à indústria de armamento e do exercício da respectiva actividade será definido por decreto-lei, por forma a salvaguardar os interesses da defesa e da economia nacionais, a segurança e a tranquilidade dos cidadãos e os compromissos internacionais do Estado.\n\n2 - Do diploma relativo à actividade no sector da indústria de armamento constará, designadamente:\n\na) A obrigatoriedade de identificação dos accionistas iniciais, directos ou por interpostas pessoas, com especificação do capital social a subscrever por cada um deles;\n\nb) Um sistema de controlo das participações sociais relevantes;\n\nc) A subordinação da autorização para o exercício de actividade no sector da indústria de armamento, bem como para a sua manutenção, à exigência de uma estrutura que garanta a adequação e suficiência de meios financeiros, técnicos e humanos ao exercício dessa actividade;\n\nd) A exigência de apresentação de lista de materiais, equipamentos ou serviços que a empresa se propõe produzir, bem como dos mercados que pretende atingir;\n\ne) A exigência de submissão das empresas à credenciação de segurança nacional e a legislação especial sobre importação e exportação de material de guerra e seus componentes."
+  },
+  "107675885": {
+   "fragment_id": "107684402",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÉ revogada a Lei n.º 46/77, de 8 de Julho."
+  },
+  "107675898": {
+   "fragment_id": "107684398",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2012-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 61.º do/a [Lei n.º 17/2012 - Diário da República n.º 82/2012, Série I de 2012-04-26](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), em vigor a partir de 2012-04-27"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - É vedado a empresas privadas e a outras entidades da mesma natureza o acesso às seguintes actividades económicas, salvo quando concessionadas:\n\na) Captação, tratamento e distribuição de água para consumo público, recolha, tratamento e rejeição de águas residuais urbanas, em ambos os casos através de redes fixas, e recolha e tratamento de resíduos sólidos urbanos, no caso de sistemas multimunicipais e municipais;\n\nb) (Revogado);\n\nc) Transportes ferroviários explorados em regime de serviço público;\n\nd) Exploração de portos marítimos.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se, respectivamente, sistemas multimunicipais os que sirvam pelo menos dois municípios e exijam um investimento predominante a efectuar pelo Estado em função de razões de interesse nacional e sistemas municipais todos os outros, incluindo os geridos através de associações de municípios.\n\n3 - No caso de sistemas multimunicipais, as concessões relativas às actividades referidas na alínea a) do n.º 1 serão outorgadas pelo Estado e só podem ser atribuídas a empresas cujo capital social seja maioritariamente subscrito por entidades do sector público, nomeadamente autarquias locais.\n\n4 - (Revogado).\n\n5 - A concessão de serviço público a que se refere a alínea c) do n.º 1 será outorgada pelo Estado ou por municípios ou associações de municípios, carecendo, nestes casos, de autorização do Estado quando as actividades objecto de concessão exijam um investimento predominante a realizar pelo Estado.\n\n> Alterado pelo/a Artigo 61.º do/a [Lei n.º 17/2012 - Diário da República n.º 82/2012, Série I de 2012-04-26](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), em vigor a partir de 2012-04-27"
+  },
+  "107675886": {
+   "fragment_id": "107684403",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 3 de Julho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 18 de Julho de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 24 de Julho de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "107675899": {
+   "fragment_id": "107684398",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2013-06-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2013 - Diário da República n.º 111/2013, Série I de 2013-06-11](https://diariodarepublica.pt/dr/detalhe/lei/35-2013-496703), em vigor a partir de 2013-06-16",
+    "Alterado pelo/a Artigo 61.º do/a [Lei n.º 17/2012 - Diário da República n.º 82/2012, Série I de 2012-04-26](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), em vigor a partir de 2012-04-27"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - É vedado a empresas privadas e a outras entidades da mesma natureza o acesso às seguintes actividades económicas, salvo quando concessionadas:\n\na) Captação, tratamento e distribuição de água para consumo público, recolha, tratamento e rejeição de águas residuais urbanas, em ambos os casos através de redes fixas, e recolha e tratamento de resíduos sólidos urbanos, no caso de sistemas multimunicipais e municipais;\n\nb) (Revogado);\n\nc) Transportes ferroviários explorados em regime de serviço público;\n\nd) Exploração de portos marítimos.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se, respetivamente, sistemas multimunicipais os que sirvam pelo menos dois municípios e exijam a intervenção do Estado em função de razões de interesse nacional e sistemas municipais todos os outros, incluindo os geridos através de entidades intermunicipais ou associações de municípios para a realização de finalidades especiais.\n\n3 - No caso de sistemas multimunicipais, as concessões relativas às atividades de captação, tratamento e distribuição de água para consumo público, recolha, tratamento e rejeição de águas residuais urbanas referidas na alínea a) do n.º 1 são outorgadas pelo Estado e só podem ser atribuídas a empresas cujo capital social seja maioritariamente subscrito por entidades do setor público, nomeadamente autarquias locais.\n\n4 - (Revogado).\n\n5 - No caso de sistemas multimunicipais, as concessões relativas às atividades de recolha e tratamento de resíduos sólidos urbanos referidas na alínea a) do n.º 1 são outorgadas pelo Estado e podem ser atribuídas:\n\na) A empresas cujo capital social seja maioritariamente subscrito por entidades do setor público, nomeadamente autarquias locais; ou\n\nb) A empresas cujo capital social seja maioritária ou integralmente subscrito por entidades do setor privado.\n\n6 - Mediante autorização do concedente, as concessões relativas às atividades de captação, tratamento e distribuição de água para consumo público, recolha, tratamento e rejeição de águas residuais urbanas referidas na alínea a) do n.º 1 podem ser subconcessionadas, total ou parcialmente, a empresas cujo capital seja maioritária ou integralmente subscrito por entidades do setor privado.\n\n7 - A concessão de serviço público a que se refere a alínea c) do n.º 1 será outorgada pelo Estado ou por municípios ou associações de municípios, carecendo, nestes casos, de autorização do Estado quando as actividades objecto de concessão exijam um investimento predominante a realizar pelo Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2013 - Diário da República n.º 111/2013, Série I de 2013-06-11](https://diariodarepublica.pt/dr/detalhe/lei/35-2013-496703), em vigor a partir de 2013-06-16\n\n> Alterado pelo/a Artigo 61.º do/a [Lei n.º 17/2012 - Diário da República n.º 82/2012, Série I de 2012-04-26](https://diariodarepublica.pt/dr/detalhe/lei/17-2012-553038), em vigor a partir de 2012-04-27"
+  }
+ }
+}

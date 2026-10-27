@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:184956043:por
+title: Portaria n.º 549/2022
+short_title: null
+summary: Autoriza a Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., a proceder à repartição dos encargos
+  plurianuais relativos à aquisição de serviços bancários de apoio às caixas do tesouro no âmbito da Rede de Cobranças do
+  Estado
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças - Gabinetes da Secretária de Estado do Orçamento e do Secretário de Estado do Tesouro
+proposing_entity: null
+official_number: 549/2022
+official_date: null
+publication_date: '2022-06-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/2022, Série II de 2022-06-21
+  number: '118'
+  series: II
+  supplement: null
+  pages: 69 - 70
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/06/118000000/0006900070.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '184956043'
+  dre_path: /dr/detalhe/portaria/549-2022-184956043
+  internal: pt:dre:184956043:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/549-2022-184956043
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/549-2022-184956043
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:45:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 49ea8dc1f9e1f46ffa24addcb993b37aa46b9b0806e789edd4af57ce6e168e2a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:45:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência de Gestão da Tesouraria e da Dívida Pública
+- Aquisição de Bens e Serviços
+- Atividade Bancária
+- Cobrança de Dívidas
+- Despesas Públicas
+- Orçamento Geral do Estado
+relationships:
+- type: cites
+  target: pt:dre:105637672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:125058293:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:152639825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:168184696:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:176907548:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:66773610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67356343:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:45:05Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 549/2022
+
+A [Portaria n.º 659/2019](https://diariodarepublica.pt/dr/detalhe/portaria/659-2019-125058293), de 3 de outubro, autorizou a Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., a realizar a despesa inerente à aquisição de serviços bancários de apoio às caixas do tesouro no âmbito da Rede de Cobranças do Estado, pelo período de 36 (trinta e seis) meses, cuja execução contratual termina em 31 de outubro de 2022.
+
+Por esse motivo, mostra-se necessária a abertura de um novo procedimento de aquisição de serviços financeiros de forma a assegurar a contratação da prestação de serviços inerentes à Rede de Cobranças do Estado, com início em 1 de novembro de 2022.
+
+Prevê-se que a prestação de serviços resultantes do novo contrato seja executada pelo período de até 36 (trinta e seis) meses ou até ao limite da despesa autorizada.
+
+Nesta conformidade, a referida aquisição de serviços dará origem a encargos orçamentais plurianuais, implicando uma distribuição dos mesmos por 4 (quatro) anos económicos.
+
+Assim:
+
+Nos termos do disposto na alínea b) do n.º 5 do artigo 25.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, na sua versão atual, dada pela [Lei n.º 42/2016](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), de 28 de dezembro, em conjugação com o disposto no n.º 1 do artigo 69.º da [Lei n.º 75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, na redação atual dada pela [Lei n.º 48/2021](https://diariodarepublica.pt/dr/detalhe/lei/48-2021-168184696), de 23 de julho, e [Decreto-Lei n.º 126-C/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-c-2021-176907548), de 31 de dezembro, bem como do disposto na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, alterado e republicado pela [Lei n.º 22/2015](https://diariodarepublica.pt/dr/detalhe/lei/22-2015-66773610), de 17 de março, e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, e com o n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, alterado e republicado pelo [Decreto-Lei n.º 99/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2015-67356343), de 2 de junho, a realização desta despesa está sujeita a autorização prévia conferida por portaria conjunta dos membros do Governo responsáveis pela área das finanças e da tutela.
+
+Manda o Governo, pelos Secretários de Estado do Orçamento e do Tesouro, ao abrigo das competências delegadas pelo Ministro das Finanças, o seguinte:
+
+1 - Fica a Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. (IGCP, E. P. E.), autorizada a proceder à repartição dos encargos plurianuais relativos à contratação por 36 (trinta e seis) meses da prestação de serviços bancários de apoio às caixas do tesouro no âmbito da Rede de Cobranças do Estado, pelo montante máximo de (euro) 17 420 000,00, ao qual acresce IVA à taxa legal em vigor, de acordo com o seguinte escalonamento:
+
+2022 - (euro) 945 300,00, ao qual acresce IVA;
+
+2023 - (euro) 5 699 500,00, ao qual acresce IVA;
+
+2024 - (euro) 5 850 700,00, ao qual acresce IVA;
+
+2025 - (euro) 4 924 500,00, ao qual acresce IVA.
+
+2 - Os encargos financeiros resultantes da execução do contrato serão satisfeitos pelas verbas adequadas inscritas no orçamento do IGCP, E. P. E.
+
+3 - As importâncias fixadas no n.º 1, para cada ano económico, são acrescidas dos saldos que se apurarem na execução dos anos anteriores.
+
+4 - Delegar no conselho de administração do IGCP, E. P. E., a competência para a prática de todos os atos no âmbito do procedimento de contratação da prestação de serviços acima referido, nomeadamente a aprovação das peças do procedimento, a adjudicação da proposta, a aprovação da minuta do contrato e a representação da entidade adjudicante na respetiva outorga.
+
+5 - Determinar que a presente portaria produz efeitos a partir da data da sua assinatura.
+
+6 de junho de 2022. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha. - 18 de maio de 2022. - O Secretário de Estado do Tesouro, João Nuno Marques de Carvalho Mendes.
+
+315404891

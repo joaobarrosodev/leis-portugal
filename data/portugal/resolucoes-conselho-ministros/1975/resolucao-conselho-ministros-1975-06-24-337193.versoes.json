@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:337193:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/1975-908513741",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/1975-337193",
+ "source_lastmod": "2025-02-24",
+ "versions": [
+  {
+   "date": "1975-06-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "908438063"
+   ]
+  }
+ ],
+ "fragments": {
+  "908438063": {
+   "fragment_id": "908513742",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros\n\n1 - O Governo tomou conhecimento, através de estudo de rentabilidade levado a efeito por comissão de verificação nomeada pelo Ministério do Trabalho, que a situação da empresa Martins & Rebello, e suas associadas era desesperada, motivando sérias apreensões quanto ao regular abastecimento de produtos essenciais à sobrevivência das populações - leite e manteiga - e muito particularmente quanto ao espectro de desemprego de cerca de 3000 trabalhadores.\n\n2 - Dos relatórios apresentados concluiu-se:\n\n2.1 - A empresa tem viabilidade económica;\n\n2.2 - A gerência, directa ou indirectamente, levou à destruição de matéria-prima e produtos acabados (leite e queijo) que envolvem prejuízos de milhares de contos;\n\n2.3 - A gerência vem desviando fundos da actividade corrente da empresa em benefício de empresas de outro grupo;\n\n2.4 - Há cerca de três meses que não são entregues à caixa de Previdência as respectivas contribuições, lesando seriamente a protecção devida aos trabalhadores;\n\n2.5 - Há sérias ameaças de imediato, quanto ao pagamento dos salários aos trabalhadores.\n\n3 - Considerando ainda que no sector dos lacticínios importa salvaguardar o interesse nacional, através do contrôle da produção e sua distribuição e que a gerência de Martins & Rebello, a tem feito funcionar em termos atentatórios do desenvolvimento económico do País e em prejuízo das necessidades da colectividade;\n\nAo abrigo do disposto no artigo 3.º do Decreto-Lei n.º 660/74, de 25 de Novembro, o Conselho de Ministros, reunido em 12 de Junho de 1975, resolve:\n\n3.1 - Suspender imediatamente a gerência da empresa Martins & Rebello.\n\n3.2 - Nomear, para substituir aquela gerência, uma comissão administrativa com a seguinte constituição:\n\nAlexandre Antunes Pereira;\n\nAntónio Francisco Paulo de Araújo;\n\nJoão Maria Gaspar Gonçalves;\n\nJosé Élio Sucena;\n\nAugusto das Neves André;\n\nLuís Carreiras Pedro do Nascimento;\n\nAugusto da Silva Vasco Júnior.\n\n3.3 - Conferir à referida comissão administrativa, que actuará no âmbito do Ministério para o Planeamento e Coordenação Económica, através da Junta Nacional dos Produtos Pecuários, os poderes consignados no n.º 3 do artigo 4.º do citado Decreto-Lei n.º 660/74, competindo-lhe ainda, para além do exercício das funções normais de gestão e administração:\n\na) Propor à Junta Nacional dos Produtos Pecuários, quando se justifique, indicação de novos elencos directivos para as empresas dominadas financeiramente por Martins & Rebelo, Lda.;\n\nb) Apresentar proposta de solução global, de molde a assegurar o perfeito abastecimento público, sem redução de postos de trabalho, no prazo máximo de seis meses.\n\n3.4 - Assegurar, através da Junta Nacional dos Produtos Pecuários, ajuda financeira no montante de 18000 contos, a título de warrant."
+  }
+ }
+}

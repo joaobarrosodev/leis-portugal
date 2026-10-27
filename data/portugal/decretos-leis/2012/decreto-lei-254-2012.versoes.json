@@ -1,0 +1,1400 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:190615:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-73486081",
+ "dre_path": "/dr/detalhe/decreto-lei/254-2012-190615",
+ "source_lastmod": "2025-09-29",
+ "versions": [
+  {
+   "date": "2012-11-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "73535875",
+    "73535876",
+    "73535877",
+    "73535878",
+    "73535879",
+    "73535880",
+    "73535881",
+    "73535882",
+    "73535883",
+    "73535884",
+    "73535885",
+    "73535886",
+    "73535887",
+    "73535888",
+    "73535889",
+    "73535890",
+    "73535891",
+    "73535892",
+    "73535893",
+    "73535894",
+    "73535895",
+    "73535896",
+    "73535897",
+    "73535898",
+    "73535899",
+    "73535900",
+    "73535901",
+    "73535902",
+    "73535903",
+    "73535904",
+    "73535905",
+    "73535906",
+    "73535907",
+    "73535908",
+    "73535909",
+    "73535910",
+    "73535911",
+    "73535912",
+    "73535913",
+    "73535914",
+    "73535915",
+    "73535916",
+    "73535917",
+    "73535918",
+    "73535919",
+    "73535920",
+    "73535921",
+    "73535922",
+    "73535923",
+    "73535924",
+    "73535925",
+    "73535926",
+    "73535927",
+    "73535928",
+    "73535929",
+    "73535930",
+    "73535931",
+    "73535932",
+    "73535933",
+    "73535934",
+    "73535935",
+    "73535936",
+    "73535937",
+    "73535938",
+    "73535939",
+    "73535940",
+    "73535941",
+    "73535942",
+    "73535943",
+    "73535944",
+    "73535945",
+    "73535946",
+    "73535947",
+    "73535948",
+    "73535949",
+    "73535950",
+    "73535951",
+    "73535952",
+    "73535953",
+    "73535954",
+    "73535955",
+    "73535956",
+    "73535957",
+    "73535958",
+    "73535959",
+    "73535960",
+    "73535961",
+    "73535962",
+    "73535963",
+    "73535964",
+    "73535965",
+    "73535966",
+    "73535967",
+    "73535968",
+    "73535969",
+    "73535970",
+    "73535971",
+    "73535972",
+    "73535973",
+    "73535974",
+    "73536075",
+    "73536076",
+    "73536077"
+   ]
+  },
+  {
+   "date": "2013-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498683:por",
+     "title": "Decreto-Lei n.º 108/2013",
+     "published": "2013-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/108-2013-498683"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 79.º",
+    "Altera Artigo 82.º"
+   ],
+   "fragments": [
+    "73535875",
+    "73535876",
+    "73535877",
+    "937017097",
+    "937017098",
+    "73535880",
+    "73535881",
+    "937017099",
+    "73535883",
+    "73535884",
+    "73535885",
+    "73535886",
+    "73535887",
+    "73535888",
+    "73535889",
+    "73535890",
+    "73535891",
+    "73535892",
+    "73535893",
+    "73535894",
+    "73535895",
+    "73535896",
+    "73535897",
+    "73535898",
+    "73535899",
+    "73535900",
+    "73535901",
+    "73535902",
+    "73535903",
+    "927680367",
+    "73535904",
+    "927680368",
+    "73535905",
+    "73535906",
+    "73535907",
+    "73535908",
+    "73535909",
+    "73535910",
+    "73535911",
+    "73535912",
+    "73535913",
+    "73535914",
+    "73535915",
+    "73535916",
+    "73535917",
+    "73535918",
+    "73535919",
+    "73535920",
+    "73535921",
+    "73535922",
+    "73535923",
+    "73535924",
+    "73535925",
+    "73535926",
+    "73535927",
+    "73535928",
+    "73535929",
+    "73535930",
+    "73535931",
+    "73535932",
+    "73535933",
+    "73535934",
+    "73535935",
+    "73535936",
+    "73535937",
+    "73535938",
+    "73535939",
+    "73535940",
+    "73535941",
+    "73535942",
+    "73535943",
+    "73535944",
+    "73535945",
+    "73535946",
+    "73535947",
+    "73535948",
+    "73535949",
+    "73535950",
+    "73535951",
+    "73535952",
+    "73535953",
+    "73535954",
+    "73535955",
+    "73535956",
+    "73535957",
+    "73535958",
+    "73535959",
+    "73535960",
+    "73535961",
+    "73535962",
+    "73535963",
+    "73535964",
+    "73535965",
+    "73535966",
+    "73535967",
+    "73535968",
+    "73535969",
+    "73535970",
+    "73535971",
+    "937017100",
+    "73535973",
+    "73535974",
+    "937017101",
+    "73536076",
+    "73536077",
+    "872431074"
+   ]
+  },
+  {
+   "date": "2025-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:913048490:por",
+     "title": "Decreto-Lei n.º 57/2025",
+     "published": "2025-03-31",
+     "dre_path": "/dr/detalhe/decreto-lei/57-2025-913048490"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 7.º-B",
+    "Adita Artigo 7.º-C",
+    "Adita Artigo 7.º-D",
+    "Adita Artigo 7.º-E",
+    "Altera Artigo 7.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 55.º",
+    "Altera Artigo 71.º"
+   ],
+   "fragments": [
+    "73535875",
+    "73535876",
+    "73535877",
+    "937017097",
+    "937017098",
+    "73535880",
+    "73535881",
+    "937017099",
+    "73535883",
+    "936698044",
+    "936698049",
+    "936698052",
+    "936698055",
+    "936698058",
+    "936698061",
+    "936698062",
+    "936698063",
+    "73535887",
+    "73535888",
+    "73535889",
+    "73535890",
+    "73535891",
+    "73535892",
+    "73535893",
+    "73535894",
+    "73535895",
+    "73535896",
+    "73535897",
+    "73535898",
+    "73535899",
+    "73535900",
+    "73535901",
+    "73535902",
+    "73535903",
+    "927680367",
+    "73535904",
+    "927680368",
+    "73535905",
+    "73535906",
+    "73535907",
+    "73535908",
+    "936698045",
+    "73535910",
+    "73535911",
+    "73535912",
+    "73535913",
+    "73535914",
+    "73535915",
+    "73535916",
+    "73535917",
+    "73535918",
+    "73535919",
+    "73535920",
+    "73535921",
+    "73535922",
+    "73535923",
+    "73535924",
+    "73535925",
+    "73535926",
+    "73535927",
+    "73535928",
+    "73535929",
+    "73535930",
+    "73535931",
+    "73535932",
+    "73535933",
+    "936698046",
+    "73535935",
+    "73535936",
+    "73535937",
+    "73535938",
+    "73535939",
+    "73535940",
+    "936698047",
+    "73535942",
+    "73535943",
+    "73535944",
+    "73535945",
+    "73535946",
+    "73535947",
+    "73535948",
+    "73535949",
+    "73535950",
+    "73535951",
+    "73535952",
+    "73535953",
+    "73535954",
+    "73535955",
+    "73535956",
+    "73535957",
+    "73535958",
+    "73535959",
+    "73535960",
+    "936698048",
+    "73535962",
+    "73535963",
+    "73535964",
+    "73535965",
+    "73535966",
+    "73535967",
+    "73535968",
+    "73535969",
+    "73535970",
+    "73535971",
+    "937017100",
+    "73535973",
+    "73535974",
+    "937017101",
+    "73536076",
+    "73536077",
+    "872431074"
+   ]
+  }
+ ],
+ "fragments": {
+  "73535875": {
+   "fragment_id": "73486082",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 254/2012\n\nde 28 de novembro\n\nPelo Decreto-Lei n.º 404/98, de 18 de dezembro, a empresa pública Aeroportos e Navegação Aérea, ANA, E. P., foi transformada em sociedade anónima, com a denominação ANA - Aeroportos de Portugal, S. A. (ANA, S. A.), tendo-lhe sido expressamente atribuída a concessão de serviço público aeroportuário de apoio à aviação civil em Portugal, nomeadamente, dos aeroportos de Lisboa (Portela), do Porto (Francisco Sá Carneiro), de Faro, de Ponta Delgada (João Paulo II), de Santa Maria, da Horta e das Flores.\n\nIntegra também o objeto da concessão atribuída à ANA, S. A., a exploração do Terminal Civil de Beja, logo que se verifique a certificação, pelo Instituto Nacional de Aviação Civil, I. P. (INAC, I. P.), do terminal e das infraestruturas aeronáuticas da Base Aérea n.º 11, necessárias para o efeito.\n\nA regulação relativa à gestão do sector aeroportuário, aplicável aos aeroportos públicos nacionais que são geridos pela ANA, S. A., encontra-se, no entanto, normativamente dispersa por vários diplomas, situação que, atentas elementares razões de política legislativa, designadamente de segurança jurídica, importa minorar com a aprovação do presente decreto-lei.\n\nAcresce que é desejável, a todos os títulos, que tal unificação legislativa ocorra em período precedente à efetivação do propósito de privatização da ANA, S. A., plasmado no Programa do XIX Governo Constitucional.\n\nNesta linha, o presente decreto-lei preceitua, de modo sistemático, o quadro jurídico geral da concessão de serviço público aeroportuário atribuída à ANA, S. A., agregando, paralelamente, todas as taxas devidas nos aeroportos públicos nacionais geridos pela concessionária que, até à data, se encontravam em legislação avulsa.\n\nO presente decreto-lei vem, assim, regular o regime do licenciamento do uso privativo dos bens do domínio público aeroportuário e do exercício de atividades e serviços nos aeroportos e aeródromos públicos nacionais, bem como as respetivas taxas conexas a tais operações.\n\nAdicionalmente, o presente decreto-lei regula um conjunto de taxas cuja aplicação se estende a todos os aeroportos e aeródromos situados em território português, os quais abrangem quer os aeroportos e aeródromos públicos nacionais quer os aeroportos e aeródromos públicos regionais. Concretamente, é regulada a taxa de segurança devida pelos passageiros embarcados e estabelece-se as condições de aplicação do regime jurídico contido no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho, relativo aos direitos das pessoas com deficiência e das pessoas com mobilidade reduzida. De igual modo, o presente decreto-lei estabelece os princípios e regras comuns aplicáveis às taxas que se encontram sujeitas a regulação económica, mantendo-se, por esta via, a Diretiva n.º <a href=\"eurlex.asp?ano=2009&id=309L0012\" title=\"Link para Directiva da Comunidade Europeia\">2009/12/CE</a>, do Parlamento Europeu e do Conselho, de 11 de março, relativa às taxas aeroportuárias, transposta no ordenamento jurídico nacional.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "73535876": {
+   "fragment_id": "73486083",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "73535877": {
+   "fragment_id": "73486084",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece o quadro jurídico geral da concessão de serviço público aeroportuário de apoio à aviação civil em Portugal, atribuída à ANA - Aeroportos de Portugal, S. A. (ANA, S. A.)\n\n2 - O presente decreto-lei disciplina o regime jurídico do licenciamento do uso privativo dos bens de domínio público aeroportuário e do exercício de atividades e serviços nos aeroportos e aeródromos públicos nacionais, bem como das taxas conexas a estas operações.\n\n3 - O presente decreto-lei procede, também, à regulação da taxa de segurança devida por cada passageiro embarcado nos aeroportos e aeródromos, situados em território português, constantes de lista publicada por portaria do membro do Governo responsável pela área dos transportes.\n\n4 - O presente decreto-lei estabelece, ainda, as condições de aplicação do regime jurídico contido no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho, relativo aos direitos das pessoas com deficiência e das pessoas com mobilidade reduzida, no que respeita a voos com partida ou destino nos aeroportos e aeródromos situados em território português.\n\n5 - O presente decreto-lei define, por fim, as regras e os princípios comuns aplicáveis às taxas sujeitas a regulação económica, e fixa os indicadores de qualidade de serviço a observar nos aeroportos e aeródromos situados em território português."
+  },
+  "73535878": {
+   "fragment_id": "73486085",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do presente decreto-lei, entende-se por:\n\na) «Atividades comerciais» as atividades acessórias de natureza comercial que a ANA, S. A., desenvolva nos aeroportos abrangidos pela concessão, ou em outras áreas alocadas à concessão, tais como a construção, a gestão ou a exploração, direta ou indireta, de espaços comerciais, de escritórios, de serviços de publicidade, de parques de estacionamento automóvel, de aluguer de automóveis, de plataformas logísticas, de centros de conferências, de hotéis, de restaurantes, de cafetarias e similares e de exploração imobiliária;\n\nb) «Atividades e serviços aeroportuários» as atividades e serviços de apoio à aviação civil que a ANA, S. A., presta, a título principal, aos utentes e aos utilizadores das infraestruturas aeroportuárias;\n\nc) «Aeródromo» a área definida em terra ou na água, incluindo edifícios, instalações e equipamentos, destinada a ser usada no todo ou em parte para a chegada, partida e movimento de aeronaves, e que não seja um aeroporto;\n\nd) «Aeroporto» o aeródromo que dispõe de forma permanente de instalações, equipamentos e serviços adequados ao tráfego aéreo comercial internacional;\n\ne) «Agentes de assistência em escala» os prestadores de serviços de assistência em escala e os utilizadores de assistência em escala em regime de auto assistência;\n\nf) «Áreas de manutenção» as áreas de movimento onde se processam operações de manutenção de aeronaves;\n\ng) «Áreas de tráfego» as áreas de movimento onde se processam operações de assistência às aeronaves, como sejam o respetivo descarregamento e carregamento, embarque ou desembarque de passageiros e outras inerentes a estas;\n\nh) «Autoridade reguladora» o Instituto Nacional de Aviação Civil, I. P. (INAC, I. P.);\n\ni) «Bagagens» os objetos de uso ou consumo pessoal dos passageiros e tripulantes, ainda que não acompanhados;\n\nj) «Carga aérea» os bens transportados a bordo das aeronaves, com exceção do equipamento necessário à realização do voo, dos aprovisionamentos, do correio e das bagagens;\n\nk) «Concedente» o Estado Português;\n\nl) «Concessão» a concessão de serviço público aeroportuário atribuída à ANA, S. A., pelo Decreto-Lei n.º 404/98, de 18 de dezembro;\n\nm) «Concessionária» a ANA, S. A.;\n\nn) «Contrato de concessão» o contrato de concessão de serviço público aeroportuário a celebrar entre o Estado Português e a ANA, S. A.;\n\no) «Entidade gestora aeroportuária» entidade legalmente responsável pela administração e pela gestão e ou exploração das infraestruturas aeroportuárias, pela coordenação e controle das atividades dos vários operadores presentes no aeroporto ou em outro aeródromo ou na rede aeroportuária e, em concreto, para proceder aos licenciamentos previstos no presente decreto-lei;\n\np) «Escala técnica» a utilização de um aeroporto ou aeródromo por uma aeronave para fins que não sejam o embarque ou desembarque de passageiros, carga ou correio;\n\nq) «Infraestruturas aeroportuárias» o conjunto de terrenos, de construções, de instalações, de equipamentos e de edifícios ou de parte de edifícios utilizados para as atividades e serviços aeroportuários e, acessoriamente, para as atividades comerciais;\n\nr) «Parâmetros sectoriais de serviço público» os parâmetros de serviço público específicos e aplicáveis a cada um dos aeroportos constantes de anexo ao contrato de concessão;\n\ns) «Passageiro» qualquer pessoa transportada ou a transportar numa aeronave com o consentimento do transportador, estando excluídos os membros da tripulação;\n\nt) «Passageiros em transferência» os passageiros que chegam, ao aeroporto ou aeródromo, numa aeronave com um determinado número de voo, e partem, num lapso de tempo determinado não superior a 18 horas, ou, no caso dos aeroportos da Região Autónoma dos Açores, num lapso de tempo determinado não superior a 24 horas, nessa mesma aeronave ou noutra, mas com diferente número de voo, ou noutra aeronave com o mesmo número de voo, salvo se a mudança de aeronave for devida a problemas técnicos e cujo destino não seja o aeroporto de origem;\n\nu) «Passageiros em trânsito direto» os passageiros que, após uma breve escala num determinado aeroporto ou aeródromo, continuam a sua viagem na mesma aeronave com o mesmo número de voo daquele em que chegaram, ou ainda noutra aeronave com o mesmo número de voo, após mudança devida a problemas técnicos;\n\nv) «Prestador de serviços de assistência em escala» a entidade, licenciada para o efeito nos termos da lei, que preste a terceiros uma ou mais categorias de serviços ou modalidades de assistência em escala;\n\nw) «Representantes ou associações dos utilizadores» as associações, legalmente constituídas, de utilizadores cujos associados, no seu conjunto, demonstrem representar, pelo menos 25 % do tráfego anual movimentado ou assistido no aeroporto, sem prejuízo do disposto nos contratos de concessão ou em outros títulos de licenciamento; se as atividades e serviços prestados no âmbito da assistência em escala estiverem sujeitos a regulação económica, os agentes de assistência em escala podem constituir associações nos mesmos termos do que os utilizadores; neste caso, é igualmente uma associação de utilizadores, o comité de utilizadores do aeroporto, constituído nos termos do Decreto-Lei n.º 275/99, de 23 de julho, alterado pelos Decretos-Leis n.os 208/2004, de 19 de agosto, e 216/2009, de 4 de setembro;\n\nx) «Unidade de tráfego» a unidade de referência da atividade aeroportuária que indiferenciadamente pode significar um passageiro embarcado ou um passageiro desembarcado, excluindo-se os passageiros em trânsito direto, ou 100 kg de carga embarcada ou 100 kg de carga desembarcada;\n\ny) «Utentes» os passageiros e outras pessoas que utilizam as infraestruturas aeroportuárias;\n\nz) «Utilizadores» os operadores aéreos e os agentes de assistência em escala; as referências aos utilizadores no capítulo vi apenas abrangem os agentes de assistência em escala se as respetivas atividades e serviços prestados estiverem sujeitos a regulação económica."
+  },
+  "73535879": {
+   "fragment_id": "73486086",
+   "type": 11,
+   "heading": "Artigo 3.º — Redes aeroportuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Redes aeroportuárias\n\n1 - Os aeroportos ou aeródromos, situados em território português, abertos ao tráfego comercial podem ser geridos isoladamente ou podem fazer parte de uma rede aeroportuária gerida por uma entidade gestora aeroportuária, ou, em alternativa, por duas ou mais entidades gestoras aeroportuárias se estiverem numa relação de domínio total entre si.\n\n2 - O conjunto dos aeroportos cuja gestão, exploração e desenvolvimento se encontram cometidos à ANA, S. A., constitui uma rede aeroportuária para efeitos do disposto no presente decreto-lei e no contrato de concessão.\n\n3 - Os termos da utilização da Infraestrutura Aeroportuária da Base Aérea n.º 11, em Beja, por aeronaves civis, para apoio ao Terminal Civil de Beja, são os definidos nos protocolos celebrados e a celebrar, entre as entidades competentes."
+  },
+  "73535880": {
+   "fragment_id": "73486087",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios de constituição de uma rede aeroportuária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios de constituição de uma rede aeroportuária\n\n1 - A rede aeroportuária baseia-se em princípios de estabilidade e solidariedade na sua constituição, exploração e desenvolvimento.\n\n2 - As redes aeroportuárias são constituídas ou alteradas por ato do Governo, tendo em conta o disposto nos números seguintes.\n\n3 - Se estiverem em causa, por razões de interesse público, modificações na composição de uma rede aeroportuária, o INAC, I. P., deve estabelecer previamente as regras e os parâmetros dessa modificação a aplicar no quadro do presente decreto-lei, devendo ser definidos pelo Governo os procedimentos de avaliação necessários à viabilidade dessa modificação.\n\n4 - Para efeitos do disposto no número anterior, devem ser tidos em conta os resultados de uma análise custo-benefício a efetuar e, quanto aos aeroportos ou aeródromos na origem de uma modificação dessa rede, outros elementos relevantes, designadamente:\n\na) O seu custo de reposição amortizado;\n\nb) As insuficiências ou excessos de proveitos regulados transferidos de e para a rede aeroportuária;\n\nc) O valor intangível do negócio criado, designadamente atendendo à respetiva marca, portfólio de fornecedores e de clientes criados;\n\nd) O financiamento e as condições económicas de exploração dos aeroportos das Regiões Autónomas da Madeira e dos Açores, enquanto regiões ultraperiféricas da União Europeia, para as quais o transporte aéreo tem especial importância."
+  },
+  "73535881": {
+   "fragment_id": "73486088",
+   "type": 1,
+   "heading": "Capítulo II — Concessão de serviço público aeroportuário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Concessão de serviço público aeroportuário"
+  },
+  "73535882": {
+   "fragment_id": "73486089",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito da concessão\n\n1 - A ANA, S. A., detém, em regime de exclusivo, a concessão de serviço público aeroportuário de apoio à aviação civil nos aeroportos de Lisboa (Portela), do Porto (Francisco Sá Carneiro), de Faro, de Ponta Delgada (João Paulo II), de Santa Maria, da Horta e das Flores e do Terminal Civil de Beja até ao termo do prazo fixado no contrato de concessão.\n\n2 - A concessão atribuída à ANA, S. A., tem por objeto a prestação de atividades e serviços aeroportuários nos aeroportos indicados no número anterior, assim como a prestação das atividades de conceção, de projeto, de construção, de reforço, de reconstrução, de extensão, de desativação e de encerramento de aeroportos, nos termos do contrato de concessão.\n\n3 - O objeto da concessão compreende ainda as atividades comerciais que possam ser desenvolvidas nos aeroportos ou noutras áreas afetas à concessão.\n\n4 - Sem prejuízo do disposto no número seguinte, a concessionária não pode desenvolver quaisquer atividades, nem prestar quaisquer serviços, que não constituam atividades e serviços aeroportuários ou atividades comerciais, sem a prévia autorização do concedente.\n\n5 - A concessionária pode, acessoriamente, prestar serviços de consultoria técnica ou outros serviços conexos no âmbito do sector dos transportes ou das infraestruturas aeroportuárias."
+  },
+  "73535883": {
+   "fragment_id": "73486090",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviço público aeroportuário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviço público aeroportuário\n\n1 - A concessionária deve desempenhar as atividades e serviços concessionadas, de forma regular, contínua e eficiente, adotando para o efeito os parâmetros sectoriais de serviço público e os padrões de qualidade, de disponibilidade e de segurança exigíveis por lei, pelos regulamentos aplicáveis e pelo contrato de concessão, para cada aeroporto.\n\n2 - A concessionária obriga-se a dotar cada aeroporto dos parâmetros sectoriais de serviço público, constantes do contrato de concessão.\n\n3 - A concessionária observa o princípio da não discriminação no tratamento dos utentes e dos utilizadores dos aeroportos.\n\n4 - A concessionária pode recusar a utilização das infraestruturas aeroportuárias, nos seguintes casos:\n\na) Às pessoas ou entidades que não preencham as condições legais e regulamentares fixadas para esse efeito;\n\nb) Aos utilizadores e aos utentes adicionais em caso de incapacidade das infraestruturas aeroportuárias disponíveis para suportarem a prestação de serviços.\n\n5 - O exercício da atividade e serviço concessionados, de modo regular, continuado e eficiente, é considerado de relevante interesse público para quaisquer entidades públicas ou privadas, o que implica, designadamente, o exercício continuado das atividades e serviços aeroportuários.\n\n6 - O concedente pode impor à concessionária a realização de determinadas obrigações de serviço público adicionais ou a dotação de qualquer dos aeroportos concessionados com parâmetros sectoriais de serviço público diversos daqueles que estejam estabelecidos no contrato de concessão, sem prejuízo do direito à reposição do equilíbrio financeiro nos termos previstos no referido contrato."
+  },
+  "73535884": {
+   "fragment_id": "73486091",
+   "type": 11,
+   "heading": "Artigo 7.º — Poderes e prerrogativas de autoridade da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Poderes e prerrogativas de autoridade da concessionária\n\n1 - Sem prejuízo do que se encontre previsto na lei e do que resulte do contrato de concessão, a concessionária detém os poderes e as prerrogativas do concedente quanto:\n\na) Ao licenciamento da ocupação e do exercício de atividades e serviços em bens do domínio público aeroportuário incluídos no âmbito da concessão, bem como no que concerne à prática de todos os atos respeitantes à execução, à modificação e à extinção de licenças;\n\nb) À fixação das contrapartidas devidas pela ocupação e pelo exercício de atividades e serviços em bens do domínio público aeroportuário incluídos no âmbito da concessão;\n\nc) À cobrança coerciva das contrapartidas devidas, sendo os créditos correspondentes equiparados, para todos os efeitos legais, aos créditos do Estado e constituindo título executivo as respetivas faturas, certidões de dívidas ou documentos equivalentes;\n\nd) À expropriação por utilidade pública, na qualidade de entidade expropriante, de todos os bens imóveis e dos direitos a eles relativos que se mostrem necessários à prossecução do serviço público concessionado, sem prejuízo do exercício, nos termos do Código das Expropriações, das competências próprias do membro do Governo competente, ou das competências da Região Autónoma dos Açores, estatutariamente consagradas;\n\ne) Ao exercício, de acordo com a legislação aplicável, dos poderes decorrentes da constituição e da imposição nas áreas próximas aos aeroportos, de zonas de proteção e outras restrições de utilidade pública da ocupação e da utilização dos solos, nomeadamente de medidas preventivas;\n\nf) À implantação de traçados, ocupação de terrenos e constituição de servidões, designadamente de passagem e servidões aéreas, bem como ao aproveitamento de bens públicos que se revelem indispensáveis à realização de obras necessárias à concessão, de acordo com a legislação em vigor;\n\ng) À elaboração e aplicação de normas regulamentares no âmbito da atividade concessionada, designadamente em matéria de segurança, ambiente e acesso e utilização dos serviços englobados nas atividades e serviços aeroportuários;\n\nh) À execução coerciva das suas decisões de autoridade.\n\n2 - A expropriação de bens e direitos necessários ao exercício das atividades concessionadas prevista na alínea d) do número anterior é de utilidade pública e tem caráter urgente.\n\n3 - São, igualmente, de utilidade pública a constituição de todas as servidões e áreas de proteção e demais medidas de restrição da ocupação e uso dos solos, previstas nas alíneas e) e f) do n.º 1."
+  },
+  "73535885": {
+   "fragment_id": "73486092",
+   "type": 11,
+   "heading": "Artigo 8.º — Utilização e acesso às Salas VIP dos aeroportos públicos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Utilização e acesso às Salas VIP dos aeroportos públicos nacionais\n\n1 - Compete ao Protocolo do Estado propor ao membro do Governo responsável pela área dos negócios estrangeiros a definição, por despacho, das modalidades de utilização das Salas VIP dos aeroportos públicos nacionais por entidades nacionais e estrangeiras.\n\n2 - A concessionária é responsável pela manutenção e conservação das Salas VIP dos aeroportos públicos nacionais, de modo a assegurar o gozo pleno dos espaços para o fim a que os mesmos se destinam.\n\n3 - Não são devidas quaisquer taxas pela manutenção e conservação das Salas VIP dos aeroportos públicos nacionais, bem como pela utilização destes espaços, nos termos das regras do Protocolo do Estado."
+  },
+  "73535886": {
+   "fragment_id": "73486093",
+   "type": 11,
+   "heading": "Artigo 9.º — Regime da concessão de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime da concessão de serviço público\n\nO regime geral da concessão de serviço público atribuída à ANA, S. A., tal como regulado pelo presente decreto-lei, não prejudica a aplicação do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro."
+  },
+  "73535887": {
+   "fragment_id": "73486094",
+   "type": 1,
+   "heading": "Capítulo III — Do licenciamento e das taxas devidas pelo uso privativo dos bens do domínio público aeroportuário e pelo exercício de atividades e serviços nos aeroportos e aeródromos públicos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do licenciamento e das taxas devidas pelo uso privativo dos bens do domínio público aeroportuário e pelo exercício de atividades e serviços nos aeroportos e aeródromos públicos nacionais"
+  },
+  "73535888": {
+   "fragment_id": "73486095",
+   "type": 8,
+   "heading": "Secção I — Do licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do licenciamento"
+  },
+  "73535889": {
+   "fragment_id": "73486096",
+   "type": 11,
+   "heading": "Artigo 10.º — Âmbito objetivo do licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Âmbito objetivo do licenciamento\n\n1 - Sem prejuízo das normas aplicáveis à utilização do domínio público aeroportuário, a ocupação de terrenos, edificações ou outras instalações e o exercício de qualquer atividade e serviço na área dos aeroportos e aeródromos públicos nacionais carecem de licença das entidades gestoras aeroportuárias a quem estiver cometida a sua gestão e ou exploração.\n\n2 - O licenciamento das atividades de assistência em escala é objeto de legislação própria."
+  },
+  "73535890": {
+   "fragment_id": "73486097",
+   "type": 11,
+   "heading": "Artigo 11.º — Procedimentos de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimentos de seleção\n\n1 - As licenças são outorgadas mediante procedimentos de seleção concorrenciais, visando a escolha das propostas que se revelem mais adequadas, em cada caso, ao interesse público e à operacionalidade da exploração aeroportuária.\n\n2 - Para efeitos do disposto no número anterior, consideram-se procedimentos de seleção concorrenciais os seguintes:\n\na) Concurso público;\n\nb) Concurso limitado com prévia qualificação;\n\nc) Procedimento por negociação;\n\nd) Ajuste direto com consulta a mais de uma entidade.\n\n3 - Sem prejuízo do disposto nos números anteriores, são outorgadas por ajuste direto com dispensa de consulta as licenças referentes à ocupação e ou utilização de:\n\na) Terrenos, instalações e locais destinados ao exercício de atividades direta e imediatamente relacionadas com o apoio à partida e chegada de aeronaves, bem como ao embarque, desembarque e encaminhamento de passageiros, carga ou correio;\n\nb) Terrenos e instalações destinados ao exercício das atividades de assistência em escala, em particular as de abastecimento de combustíveis e lubrificantes, de aprovisionamento, reparação e manutenção de aeronaves e outras de idêntica natureza;\n\nc) Terrenos e instalações destinados a serviços públicos;\n\nd) Terrenos e instalações destinados a entidades que exerçam atividades de interesse público;\n\ne) Locais destinados a atividade publicitária e atividades similares.\n\n4 - As entidades gestoras aeroportuárias podem ainda, fundamentadamente, outorgar licenças por ajuste direto, com ou sem consulta a mais de uma entidade, quando:\n\na) Tendo havido um procedimento concursal prévio utilizado para o mesmo fim, este tenha ficado deserto, nenhuma candidatura tenha sido admitida ou todas as propostas apresentadas tenham sido consideradas inaceitáveis e desde que as condições iniciais de seleção e outorga não sejam substancialmente alteradas;\n\nb) A licença deva ser atribuída a uma determinada entidade por motivos de especificidade técnica, de proteção de direitos exclusivos ou de propriedade intelectual ou ainda quando, na medida do estritamente necessário e por razões de urgência imperiosa, resultante de acontecimentos imprevisíveis para a entidade gestora aeroportuária e que não lhe sejam imputáveis, não possam ser observados os prazos previstos para outros procedimentos de seleção;\n\nc) Os terrenos, instalações ou locais a licenciar se destinem a atividades que sejam complementares, extensões ou ampliações de outra ou outras atividades realizadas pelo mesmo titular e já objeto de licenciamento anterior ou se mostre inconveniente, por motivos de exploração comercial, de segurança ou de operacionalidade do aeroporto ou aeródromo, a existência em simultâneo de várias entidades licenciadas para o mesmo fim;\n\nd) Se trate de licenciamento de locais destinados à instalação de máquinas automáticas e equipamentos similares;\n\ne) Se trate de licenciamento de locais ou espaços de área igual ou inferior a 50 m2, independentemente do fim a que se destinem.\n\n5 - Os procedimentos de seleção referidos no presente artigo regem-se pelo estabelecido pela entidade gestora aeroportuária no procedimento de seleção aplicado, e supletivamente, em tudo o que não esteja especialmente regulado, pelo disposto no Código dos Contratos Públicos, com as devidas adaptações."
+  },
+  "73535891": {
+   "fragment_id": "73486098",
+   "type": 11,
+   "heading": "Artigo 12.º — Condições de admissão, regras procedimentais e critérios de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condições de admissão, regras procedimentais e critérios de seleção\n\n1 - Para efeitos do disposto no n.º 5 do artigo 11.º, compete à entidade gestora aeroportuária a fixação e a comunicação ou publicação atempada e adequada do procedimento de seleção adotado para o licenciamento de ocupação e de exercício de atividades na área dos aeroportos e aeródromos, e das respetivas condições de admissão e regras processuais e dos critérios de seleção aplicáveis.\n\n2 - Os fatores que intervêm na atribuição das licenças são fixados no programa do concurso, no anúncio, no convite ou em instrumento equivalente, consoante o procedimento adotado.\n\n3 - Nos casos em que o licenciamento se processe por procedimento concursal, as respetivas condições de admissão, regras processuais e critérios de seleção devem constar do aviso de lançamento do concurso, a publicar num jornal diário de circulação nacional."
+  },
+  "73535892": {
+   "fragment_id": "73486099",
+   "type": 11,
+   "heading": "Artigo 13.º — Conteúdo das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conteúdo das licenças\n\nOs títulos das licenças devem mencionar, nomeadamente:\n\na) A identidade do titular;\n\nb) Os terrenos, edificações e outras instalações que forem objeto do licenciamento;\n\nc) O fim ou atividade a que se destina a licença;\n\nd) O tipo e o montante das taxas a pagar pelo licenciamento;\n\ne) O prazo;\n\nf) Quaisquer outras condições particulares do licenciamento, designadamente as relativas a eventuais compensações resultantes da reversão para a entidade gestora aeroportuária de construções e equipamentos inseparáveis dos terrenos, edificações e instalações objeto do licenciamento."
+  },
+  "73535893": {
+   "fragment_id": "73486100",
+   "type": 11,
+   "heading": "Artigo 14.º — Prazo das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prazo das licenças\n\n1 - As licenças são outorgadas por prazo certo até ao limite de cinco anos, podendo ser sucessivamente prorrogadas por períodos inferiores ou superiores àquele limite, consoante os casos, desde que a prorrogação seja requerida pelos respetivos titulares com a antecedência mínima de 90 dias relativamente ao termo do período em vigor da mesma.\n\n2 - As licenças não podem ter um prazo global de vigência superior a 20 anos, salvo quando, durante esse período, envolvam a realização de investimentos significativos pelos seus titulares nos termos previstos no número seguinte, circunstância em que é aplicável o disposto no n.º 4.\n\n3 - As licenças que envolvam a realização de investimentos significativos pelos seus titulares na implantação de construções, instalações ou equipamentos necessários às atividades licenciadas ou no exercício de atividades de especial complexidade, cuja amortização exija um prazo superior a 5 anos, podem ser outorgadas por um prazo inicial até 40 anos.\n\n4 - As licenças referidas no número anterior podem ser sucessivamente prorrogadas, por um ou mais períodos, não podendo aquele prazo e respetivas prorrogações exceder, em qualquer caso, o período da concessão.\n\n5 - As prorrogações das licenças referidas no presente artigo dependem sempre de autorização expressa da entidade gestora aeroportuária."
+  },
+  "73535894": {
+   "fragment_id": "73486101",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime das atividades e serviços licenciados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime das atividades e serviços licenciados\n\n1 - As atividades e serviços licenciados devem ser exercidos de modo continuado e sem outras interrupções que não as resultantes da respetiva natureza e função, de caso fortuito ou de força maior.\n\n2 - Os titulares de licenças não podem prevalecer-se do conteúdo ou prazo de vigência destas, em prejuízo das leis e regulamentos em vigor ou das determinações dos órgãos de polícia, regulação e fiscalização das atividades exercidas nos aeroportos e aeródromos, no exercício das competências que lhes estão atribuídas por lei."
+  },
+  "73535895": {
+   "fragment_id": "73486102",
+   "type": 11,
+   "heading": "Artigo 16.º — Execução de obras ou trabalhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução de obras ou trabalhos\n\n1 - Os titulares de licenças podem construir, reconstruir, demolir, ampliar, alterar, modificar ou remodelar os terrenos, construções e instalações objeto das mesmas desde que previamente autorizados por escrito pelas entidades gestoras aeroportuárias, sem prejuízo de outros requisitos e do regime fixados por lei ou regulamento, bem como da intervenção de outras autoridades ou entidades no âmbito da legislação específica aplicável ao tipo e natureza da obra ou trabalho a realizar.\n\n2 - Para efeitos do disposto no número anterior, os titulares das licenças devem instruir o requerimento para autorização das obras ou trabalhos com peças escritas e desenhadas e demais elementos que sejam entretanto indicados pelas entidades gestoras aeroportuárias como necessários.\n\n3 - A autorização ou aprovação das obras ou trabalhos pode ser condicionada à introdução das alterações, devidamente fundamentadas, que sejam entendidas necessárias por razões de exploração ou segurança aeroportuárias.\n\n4 - Sem prejuízo dos eventuais poderes de fiscalização e vistoria legalmente atribuídos a outras entidades, compete às entidades gestoras aeroportuárias fiscalizar a conformidade da execução da obra ou trabalhos autorizados com o respetivo projeto final."
+  },
+  "73535896": {
+   "fragment_id": "73486103",
+   "type": 11,
+   "heading": "Artigo 17.º — Responsabilidade dos titulares das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Responsabilidade dos titulares das licenças\n\n1 - Os titulares das licenças são responsáveis pela manutenção, reparação, conservação e segurança dos terrenos, construções e instalações licenciados e dos demais bens que lhes forem confiados pelas entidades gestoras aeroportuárias, bem como por todos os danos e modificações causados nos mesmos que não possam imputar-se ao desgaste provocado pelo seu uso normal.\n\n2 - Os titulares das licenças respondem, independentemente de culpa, igualmente perante as entidades gestoras aeroportuárias pelos atos e omissões do seu pessoal, ocorridos no exercício das respetivas funções, que causem dano aos aeroportos e aeródromos às suas instalações, ao seu funcionamento ou a terceiros.\n\n3 - Os titulares das licenças devem dar conhecimento escrito imediato às entidades gestoras aeroportuárias de todos os factos ou atos de terceiros que constituam uma ameaça ou violação dos seus direitos."
+  },
+  "73535897": {
+   "fragment_id": "73486104",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização\n\n1 - Os locais e instalações licenciados e os demais bens confiados aos titulares das licenças, bem como o exercício da sua própria atividade, estão sujeitos à vistoria e fiscalização das entidades gestoras aeroportuárias, às quais não pode ser negado o acesso e a colaboração necessários para o efeito.\n\n2 - Os titulares das licenças, o respetivo pessoal, instalações e meios utilizados estão sujeitos, em especial, à fiscalização dos serviços alfandegários, policiais e de segurança com jurisdição na área dos aeroportos e aeródromos.\n\n3 - Os titulares das licenças e o respetivo pessoal estão ainda sujeitos, na área dos aeroportos e aeródromos, a todas as regras, controlos de identidade e demais procedimentos de segurança determinados pelas entidades legalmente competentes."
+  },
+  "73535898": {
+   "fragment_id": "73486105",
+   "type": 11,
+   "heading": "Artigo 19.º — Transmissão e oneração das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transmissão e oneração das licenças\n\n1 - Os direitos e deveres cometidos aos titulares das licenças, bem como as construções e edificações que estes tenham suportado ou custeado, podem ser objeto de transmissão, sob qualquer forma, desde que previamente autorizada por escrito pelas entidades gestoras aeroportuárias, após verificação da existência dos requisitos de capacidade e idoneidade do respetivo transmissário.\n\n2 - As entidades gestoras aeroportuárias podem revogar as licenças, detidas por pessoas singulares, objeto de transmissão por morte se a herança permanecer indivisa por mais de 120 dias ou se, no prazo de 30 dias a contar do conhecimento da pessoa do sucessor, este não demonstrar reunir os requisitos de capacidade e idoneidade que serviram de base à outorgada licença.\n\n3 - Os direitos e deveres emergentes das licenças, bem como as construções e edificações efetuadas pelos seus titulares, podem ser objeto de garantia real, arresto, penhora ou qualquer outra providência semelhante desde que previamente autorizada por escrito pelas entidades gestoras aeroportuárias, após verificação da existência dos requisitos de capacidade e idoneidade do respetivo beneficiário.\n\n4 - A autorização das entidades gestoras aeroportuárias para a transmissão ou oneração dos direitos, construções ou edificações referidos nos n.os 1 e 3 pode ser emitida logo no próprio título de licença, a favor de terceiros que sustentem ou garantam, mediante adequados recursos e instrumentos económico-financeiros ou bancários, a realização das construções, edificações ou da própria atividade a prosseguir pelo titular da licença.\n\n5 - A violação do disposto no presente artigo determina a nulidade do ato de transmissão, substituição ou constituição de hipoteca ou de qualquer outra garantia real ou de oneração de bens ou direitos, sem prejuízo das outras sanções que ao caso couberem."
+  },
+  "73535899": {
+   "fragment_id": "73486106",
+   "type": 11,
+   "heading": "Artigo 20.º — Revogação das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Revogação das licenças\n\n1 - As licenças podem ser revogadas em qualquer momento, no todo ou em parte, por incumprimento pelos seus titulares de qualquer das obrigações nelas previstas, bem como com fundamento no interesse público da exploração ou segurança aeroportuária.\n\n2 - Na revogação das licenças por incumprimento, as construções, instalações, bem como os bens confiados aos titulares das licenças, revertem gratuitamente para as entidades gestoras aeroportuárias, salvo disposição em sentido diverso expressa na lei, na licença ou em acordo escrito entre as partes.\n\n3 - Nos casos de revogação com fundamento no interesse público da exploração ou segurança aeroportuária, os titulares das licenças são indemnizados pelo montante das despesas que ainda não estejam amortizadas e que representem investimento em bens inseparáveis dos terrenos, construções ou instalações, licenciados e ocupados, salvo disposição em sentido diverso expressa na lei ou na licença.\n\n4 - A prorrogação do prazo das licenças faz cessar o dever de indemnização referido no número anterior relativamente a todos os investimentos realizados durante o período terminado, salvo disposição em sentido diverso expressa na lei, na licença ou em acordo escrito entre as partes."
+  },
+  "73535900": {
+   "fragment_id": "73486107",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração da área de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração da área de licenciamento\n\n1 - Sempre que o interesse público da exploração ou da segurança aeroportuária o exija, pode ser determinada a redução da área dos terrenos e instalações objeto de licenciamento ou a mudança da sua localização, caso em que os respetivos titulares podem, no prazo de 15 dias contados da comunicação da entidade gestora aeroportuária, renunciar aos seus direitos ou continuar a exercê-los mediante a nova taxa a que eventualmente haja lugar.\n\n2 - Em qualquer dos casos referidos no número anterior, os titulares das licenças têm direito a ser indemnizados nos termos do n.º 3 do artigo anterior."
+  },
+  "73535901": {
+   "fragment_id": "73486108",
+   "type": 11,
+   "heading": "Artigo 22.º — Suspensão das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Suspensão das licenças\n\n1 - Sem prejuízo do disposto no artigo 20.º, no caso de não cumprimento de qualquer das condições das licenças por parte dos seus titulares, as entidades gestoras aeroportuárias podem determinar a suspensão, no todo ou em parte, das mesmas.\n\n2 - As licenças podem ainda ser suspensas, no todo ou em parte, pelas entidades gestoras aeroportuárias, na sequência de requerimento devidamente fundamentado apresentado pelos titulares das licenças e desde que se entenda ser essa a medida mais conveniente ou adequada ao interesse económico, financeiro, comercial e operacional da exploração aeroportuária.\n\n3 - Da decisão de suspensão devem constar, entre outros elementos, os respetivos fundamentos, o prazo, bem como as eventuais garantias financeiras ou outras condições que se entenda adequado aplicar ao caso.\n\n4 - A licença cessa os seus efeitos, sem direito a qualquer indemnização do respetivo titular, uma vez verificada a impossibilidade técnica, financeira ou económica do titular em prosseguir com a atividade licenciada ou ainda no caso de desinteresse do titular no seu reinício, sendo neste caso aplicável o disposto no n.º 2 do artigo 20.º\n\n5 - A licença pode ainda cessar os seus efeitos se as entidades gestoras aeroportuárias o entenderem mais adequado aos interesses da exploração aeroportuária, sendo neste caso aplicável o disposto no n.º 3 do artigo 20.º"
+  },
+  "73535902": {
+   "fragment_id": "73486109",
+   "type": 11,
+   "heading": "Artigo 23.º — Reversão dos bens afetos às licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reversão dos bens afetos às licenças\n\n1 - Decorrido o prazo das licenças, as entidades gestoras aeroportuárias entram na titularidade imediata de todos os bens insuscetíveis de serem separados das instalações e terrenos ocupados, sem prejuízo da obrigação de os titulares das licenças caducadas mandarem repor estes no estado em que se encontravam quando os receberam, sem quaisquer custos para as entidades gestoras aeroportuárias.\n\n2 - Salvo menção expressa em contrário, feita nos termos da alínea f) do artigo 13.º, a reversão prevista no número anterior será gratuita."
+  },
+  "73535903": {
+   "fragment_id": "73486110",
+   "type": 8,
+   "heading": "Secção II — Das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das taxas"
+  },
+  "73535904": {
+   "fragment_id": "73486111",
+   "type": 3,
+   "heading": "Subsecção I — Classificação e tipologia das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Classificação e tipologia das taxas"
+  },
+  "73535905": {
+   "fragment_id": "73486112",
+   "type": 9,
+   "heading": "Divisão I — Taxas de tráfego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão I — Taxas de tráfego"
+  },
+  "73535906": {
+   "fragment_id": "73486113",
+   "type": 11,
+   "heading": "Artigo 26.º — Taxa de aterragem e descolagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Taxa de aterragem e descolagem\n\n1 - A taxa de aterragem e descolagem constitui a contrapartida da utilização das ajudas visuais à aterragem e descolagem, bem como da utilização das infraestruturas inerentes à circulação de aeronaves no solo após a aterragem e para efeitos de descolagem.\n\n2 - É devida a taxa de aterragem e descolagem por cada operação de aterragem e descolagem, que é calculada por unidade de tonelagem métrica da massa máxima à descolagem indicada no certificado de navegabilidade de cada aeronave, ou em documento para o efeito considerado equivalente, podendo, ainda, variar, sem prejuízo da fixação de valores mínimos por operação:\n\na) Em função do período de utilização ou do coeficiente de ocupação da aeronave, por forma a contribuir para a otimização do uso da infraestrutura;\n\nb) Por razões de proteção ambiental;\n\nc) Para os voos locais de experiência, de ensaio de material, de instrução, de treino ou de exame;\n\nd) Para os voos em situação de escala técnica;\n\ne) Para outros voos não comerciais.\n\n3 - Para efeitos do disposto no número anterior, a massa máxima à descolagem de cada aeronave deve ser arredondada, por excesso, para a tonelada, correspondendo 1 libra a 0,4536 kg.\n\n4 - Estão isentas de pagamento de taxa de aterragem e descolagem:\n\na) As operações efetuadas em serviço exclusivo de transporte de chefes de Estado ou de Governo, bem como de ministros, em deslocação oficial, sempre que, em qualquer destes casos, seja indicado no plano de voo o respetivo estatuto, bem como as operações que se encontrem ao abrigo de acordos de reciprocidade de tratamento, após confirmação pelos serviços do Ministério dos Negócios Estrangeiros ao abrigo das suas competências na matéria;\n\nb) As operações efetuadas por aeronaves militares ou outras, em missão oficial militar não remunerada ou ao abrigo de acordos especiais que vinculem o Estado Português, após confirmação pelos serviços do Ministério dos Negócios Estrangeiros ou do Ministério de Defesa Nacional, consoante o caso, ao abrigo das respetivas competências;\n\nc) As operações de busca e salvamento, de resgate, de emergência médica, de segurança interna, de proteção civil, e missões humanitárias, mediante apresentação de documento comprovativo da missão em causa, o qual pode, no entanto, ser apresentado, nas situações de emergência declarada, até 24 horas após a realização do voo;\n\nd) As aeronaves que efetuem aterragens por motivos de retorno forçado justificado por deficiências técnicas das mesmas, por razões meteorológicas ou por outras razões de força maior, devidamente comprovadas, quando não tenham utilizado outro aeroporto ou aeródromo.\n\n5 - As aeronaves que realizem voos locais de experiência, de ensaio de material, de instrução, de treino ou de exame beneficiam de uma redução de taxa de, pelo menos, 50 %.\n\n6 - Os voos referidos no número anterior que sejam realizados em aeroportos coordenados, em períodos de congestionamento de tráfego, declarados pela entidade gestora aeroportuária, após prévia aprovação do INAC, I. P., podem não beneficiar de qualquer redução.\n\n7 - As entidades gestoras aeroportuárias podem exigir prova das condições justificativas do direito às reduções e isenções referidas no presente artigo."
+  },
+  "73535907": {
+   "fragment_id": "73486114",
+   "type": 11,
+   "heading": "Artigo 27.º — Taxa de estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Taxa de estacionamento\n\n1 - É devida a taxa de estacionamento pelo estacionamento de cada aeronave, podendo ser definida por períodos de tempo, em função da massa referida no n.º 2 do artigo anterior, ou da área ocupada pela mesma, bem como de acordo com a área de localização do estacionamento, designadamente em Área de Tráfego, de Manutenção ou outras, e do tipo de equipamentos utilizados, tais como equipamentos de GPS e pontes telescópicas.\n\n2 - Podem não ser sujeitos a taxa de estacionamento os períodos de tempo imediatamente posteriores à aterragem e anteriores à descolagem, definidos pela entidade gestora aeroportuária.\n\n3 - As aeronaves estacionam nos locais designados pelas entidades gestoras aeroportuárias, ficando a sua remoção para esses locais a cargo dos seus proprietários, representantes ou respetivos utilizadores.\n\n4 - À taxa prevista no presente artigo acresce uma sobretaxa por cada período ou fração de 15 minutos, cuja contagem se inicia 10 minutos após a hora marcada para a remoção da aeronave pelo serviço de operações aeroportuárias, devendo a ordem de remoção ser dada com uma antecedência não inferior a 20 minutos.\n\n5 - A taxa de estacionamento não confere o direito à prestação de qualquer serviço adicional, nem constitui as entidades gestoras aeroportuárias em qualquer responsabilidade quanto à segurança das aeronaves estacionadas.\n\n6 - As operações mencionadas nas alíneas a), b) e c) do n.º 4 do artigo anterior ficam isentas do pagamento da taxa de estacionamento até ao máximo de 48 horas após a aterragem da aeronave desde que o aeroporto ou aeródromo não seja a sua base.\n\n7 - As entidades gestoras aeroportuárias podem exigir prova das condições justificativas do direito às reduções e isenções referidas no presente artigo."
+  },
+  "73535908": {
+   "fragment_id": "73486115",
+   "type": 11,
+   "heading": "Artigo 28.º — Taxa de abrigo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Taxa de abrigo\n\n1 - É devida a taxa de abrigo pelo estacionamento de cada aeronave em locais abrigados, em função da massa referida no n.º 2 do artigo 26.º, por períodos de tempo definidos pela entidade gestora aeroportuária.\n\n2 - A taxa de abrigo apenas confere direito à iluminação necessária às operações de entrada e saída no abrigo, devendo qualquer outra iluminação suplementar ser fornecida mediante preço a fixar pela entidade gestora aeroportuária.\n\n3 - A taxa prevista no presente artigo não confere o direito à prestação de qualquer serviço adicional, nem constitui as entidades gestoras aeroportuárias em qualquer responsabilidade quanto à segurança das aeronaves."
+  },
+  "73535909": {
+   "fragment_id": "73486116",
+   "type": 11,
+   "heading": "Artigo 29.º — Taxa de serviço a passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Taxa de serviço a passageiros\n\n1 - É devida a taxa de serviço a passageiros pelo serviço prestado a cada passageiro embarcado em voo comercial ou não comercial, podendo ser diferenciada em função dos critérios do destino do passageiro, do serviço prestado e do tipo de infraestrutura utilizada para o efeito, critérios esses aplicáveis de forma alternativa ou cumulativa.\n\n2 - A taxa de serviço a passageiros é cobrada nos voos comerciais ao transportador, que a pode repercutir nos passageiros, e nos voos não comerciais ao operador da aeronave.\n\n3 - Estão isentos do pagamento da taxa de serviço a passageiros:\n\na) As crianças com menos de 2 anos;\n\nb) Os passageiros em trânsito direto;\n\nc) Os passageiros em transferência nos aeroportos de Santa Maria, Ponta Delgada, Horta e Flores, que tenham como destino final uma das restantes ilhas do Arquipélago dos Açores;\n\nd) Os passageiros de aeronaves que, por motivo de ordem técnica, meteorológica ou contingência similar, sejam forçados a regressar ao aeroporto ou aeródromo;\n\ne) Os passageiros que embarquem nas aeronaves a que se referem as alíneas a), b) e c) do n.º 4 e o n.º 5 do artigo 26.º\n\n4 - As entidades gestoras aeroportuárias podem exigir prova das condições justificativas do direito às isenções referidas no número anterior.\n\n5 - Sem prejuízo do disposto no n.º 1, pode ser cobrada uma taxa diferente para os passageiros em transferência.\n\n6 - O transportador e o operador devem assegurar o correto preenchimento e entrega dos formulários de tráfego dos respetivos voos, podendo as entidades gestoras aeroportuárias solicitar documentação adicional que comprove o número efetivo de passageiros embarcados, com vista ao apuramento do montante da taxa."
+  },
+  "73535910": {
+   "fragment_id": "73486117",
+   "type": 11,
+   "heading": "Artigo 30.º — Taxa de abertura de aeroporto ou aeródromo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Taxa de abertura de aeroporto ou aeródromo\n\n1 - Sempre que, excecionalmente, seja requerida a abertura de um aeroporto ou aeródromo fora do período de funcionamento, ou a prorrogação do seu funcionamento para além do período estabelecido para uma operação de aterragem ou descolagem de qualquer aeronave, civil ou militar, é devida uma taxa a determinar por tipo de operação, período horário e tipo de aeronave.\n\n2 - A abertura do aeroporto ou aeródromo, referida no número anterior, deve ser requerida com uma antecedência não inferior a três horas.\n\n3 - A taxa prevista no presente artigo não confere direito a quaisquer serviços adicionais, mas apenas à abertura ou prorrogação do período de funcionamento do aeroporto ou aeródromo, para uma pontual operação de qualquer aeronave.\n\n4 - Finda a operação, o diretor do aeroporto ou aeródromo decide, consoante as circunstâncias, se o mantém aberto ou se cumpre o período de funcionamento estabelecido.\n\n5 - Estão isentas do pagamento da taxa de abertura de aeroporto ou aeródromo as operações de busca e salvamento, as missões de segurança interna ou proteção civil urgentes e inadiáveis e as missões humanitárias urgentes e inadiáveis, devidamente comprovadas.\n\n6 - As entidades gestoras aeroportuárias podem exigir prova das condições justificativas do direito às reduções e isenções referidas no presente artigo."
+  },
+  "73535911": {
+   "fragment_id": "73486118",
+   "type": 9,
+   "heading": "Divisão II — Taxas de terminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão II — Taxas de terminal"
+  },
+  "73535912": {
+   "fragment_id": "73486119",
+   "type": 11,
+   "heading": "Artigo 31.º — Taxa de terminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Taxa de terminal\n\n1 - É devida a taxa de terminal pela realização de operações de controlo de tráfego aéreo de aproximação e aeródromo, incluindo a utilização das ajudas rádio inerentes à aterragem ou descolagem, pela Navegação Aérea de Portugal - NAV Portugal, E. P. E. (NAV Portugal, E. P. E.)\n\n2 - Até à publicação de legislação específica, a determinação e fixação da taxa de terminal é efetuada por portaria do membro do Governo responsável pela área dos transportes, após parecer do INAC, I. P."
+  },
+  "73535913": {
+   "fragment_id": "73486120",
+   "type": 9,
+   "heading": "Divisão III — Taxas de assistência em escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão III — Taxas de assistência em escala"
+  },
+  "73535914": {
+   "fragment_id": "73486121",
+   "type": 11,
+   "heading": "Artigo 32.º — Taxas de assistência em escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Taxas de assistência em escala\n\n1 - São devidas taxas de assistência em escala pelo exercício de quaisquer das modalidades que integram os serviços referenciados na lista constante do anexo i do Decreto-Lei n.º 275/99, de 23 de julho, nos termos seguintes:\n\na) A taxa de assistência administrativa em terra e supervisão é devida pelos prestadores de serviços e definida por tipo de aeronave assistida;\n\nb) A taxa de assistência a passageiros é devida pelos prestadores de serviços e pelos utilizadores de um aeroporto ou aeródromo em regime de auto assistência, sendo definida por:\n\ni) Períodos de horas, fração de dias ou mês; ou\n\nii) Balcão físico ou eletrónico de admissão; ou\n\niii) Registo de passageiros (check-in) ou passageiro embarcado;\n\nc) A taxa de assistência a bagagem é devida pelos prestadores de serviços e pelos utilizadores de um aeroporto ou aeródromo em regime de auto assistência, sendo definida por unidade de bagagem processada ou por passageiro embarcado;\n\nd) A taxa de assistência a carga e correio é devida pelos prestadores de serviços e pelos utilizadores de um aeroporto ou aeródromo em regime de auto assistência, sendo definida por unidade de tráfego;\n\ne) A taxa de assistência de operações em pista é devida pelos prestadores de serviços e pelos utilizadores de um aeroporto ou aeródromo em regime de auto assistência, sendo definida por tipo de aeronave assistida ou unidade de tráfego;\n\nf) A taxa de assistência de limpeza e serviço do avião é devida pelos prestadores de serviços e pelos utilizadores de um aeroporto ou aeródromo em regime de auto assistência, sendo definida por tipo de aeronave assistida;\n\ng) A taxa de assistência a combustível e óleo é devida pelos prestadores de serviços e é definida por hectolitro de combustível e por litro de óleo fornecidos, sendo, neste caso, as suas frações arredondadas por excesso para a unidade superior;\n\nh) A taxa de assistência de manutenção em linha é devida pelos prestadores de serviços e pelos utilizadores de um aeroporto ou aeródromo em regime de auto assistência, sendo definida por tipo de aeronave assistida;\n\ni) A taxa de assistência de operações aéreas e gestão das tripulações é devida pelos prestadores de serviços e pelos utilizadores de um aeroporto ou aeródromo em regime de auto assistência e será definida por tipo de aeronave assistida;\n\nj) A taxa de assistência de transporte em terra é devida pelos prestadores de serviços e pelos utilizadores de um aeroporto ou aeródromo em regime de auto assistência, sendo definida por tipo de aeronave assistida;\n\nk) A taxa de assistência de restauração é devida pelos prestadores de serviços e pelos utilizadores de um aeroporto ou aeródromo em regime de auto assistência e será definida por tipo de aeronave assistida ou por passageiro embarcado.\n\n2 - Para a definição das taxas previstas nas alíneas b), c), e) e k) do número anterior, as entidades gestoras aeroportuárias apenas podem aplicar um dos critérios previstos, em cada aeroporto ou aeródromo."
+  },
+  "73535915": {
+   "fragment_id": "73486122",
+   "type": 11,
+   "heading": "Artigo 33.º — Infraestruturas centralizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Infraestruturas centralizadas\n\nPela utilização de quaisquer infraestruturas de aeroportos ou aeródromos declaradas centralizadas para o exercício de atividades de assistência em escala é cobrada uma taxa, que pode ser diferenciada por período de utilização, unidade de serviço ou unidade física processada."
+  },
+  "73535916": {
+   "fragment_id": "73486123",
+   "type": 11,
+   "heading": "Artigo 34.º — Liquidação das taxas de assistência em escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Liquidação das taxas de assistência em escala\n\n1 - Para a adequada liquidação e cobrança das taxas de assistência em escala, os prestadores de serviços ou os utilizadores de um aeroporto ou aeródromo em regime de auto assistência devem enviar às entidades gestoras aeroportuárias, relativamente ao conjunto de operações neles efetuadas no mês imediatamente anterior, cópias dos documentos comprovativos dos serviços efetuados, assinadas pelo assistido ou seu representante, contendo os elementos necessários à liquidação das taxas exigíveis.\n\n2 - Compete às entidades gestoras aeroportuárias fixar a periodicidade do envio dos documentos referidos no número antecedente, que não será, no entanto, inferior a sete dias no caso de faturação regular por serviço continuado.\n\n3 - A omissão e a inobservância destas obrigações, bem como a falsidade de quaisquer declarações ou documentos apresentados, constituem fundamento para a revogação da licença, nos termos da lei."
+  },
+  "73535917": {
+   "fragment_id": "73486124",
+   "type": 9,
+   "heading": "Divisão IV — Taxa de ocupação de espaços, áreas e subsolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão IV — Taxa de ocupação de espaços, áreas e subsolos"
+  },
+  "73535918": {
+   "fragment_id": "73486125",
+   "type": 11,
+   "heading": "Artigo 35.º — Taxa de ocupação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Taxa de ocupação\n\n1 - É devida a taxa de ocupação pela utilização privativa, para qualquer fim, de terrenos, incluindo o subsolo, espaços, locais, edifícios, gabinetes, hangares e outras áreas dos aeroportos ou aeródromos, a qual pode ser definida por unidade métrica, localização ou período horário, diário ou mensal de utilização, e diferenciada em função da zona, finalidade ou prazo da ocupação, ou sujeita a valores máximos por tipo de ocupação ou utilização.\n\n2 - Estão isentos de taxas de ocupação, em relação às áreas mínimas necessárias para o exercício das suas atribuições, o INAC, I. P., a NAV Portugal, E. P. E., e as entidades oficiais de informação turística.\n\n3 - Para efeitos do disposto na alínea a) do n.º 1 do artigo 24.º da Lei Orgânica do INAC, I. P., aprovada pelo Decreto-Lei n.º 145/2007, de 27 de abril, em matéria de informação pública aos passageiros, as entidades gestoras aeroportuárias estão obrigadas a disponibilizar à autoridade reguladora um local adequado, constituindo a recusa ou a obstrução ao cumprimento daquela norma, nos termos aqui previstos, motivo para aplicação do disposto no artigo 7.º do Decreto-Lei n.º 10/2004, de 9 de janeiro."
+  },
+  "73535919": {
+   "fragment_id": "73486126",
+   "type": 9,
+   "heading": "Divisão V — Outras taxas de natureza comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão V — Outras taxas de natureza comercial"
+  },
+  "73535920": {
+   "fragment_id": "73486127",
+   "type": 11,
+   "heading": "Artigo 36.º — Taxa de equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Taxa de equipamento\n\n1 - É devida a taxa de equipamento pela utilização de quaisquer equipamentos dos aeroportos ou aeródromos, em serviços distintos dos que constituem contrapartida da cobrança de taxas de tráfego ou de infraestrutura centralizada, sendo esta definida por unidade ou tempo de operação, podendo fixar-se um valor unitário ou períodos mínimos de utilização.\n\n2 - As operações previstas nas alíneas a), b) e c) do n.º 4 do artigo 26.º ficam isentas do pagamento da presente taxa relativamente à utilização dos equipamentos estritamente necessários à sua operação e como tal reconhecidos pela entidade gestora aeroportuária."
+  },
+  "73535921": {
+   "fragment_id": "73486128",
+   "type": 11,
+   "heading": "Artigo 37.º — Taxa de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Taxa de prestação de serviços\n\n1 - É devida a taxa de prestação de serviços pelos serviços não incluídos no artigo 29.º que sejam prestados pelas entidades gestoras aeroportuárias, sendo esta definida por período de tempo ou tipo de serviço, podendo fixar-se um valor unitário ou períodos mínimos.\n\n2 - As operações previstas nas alíneas a), b) e c) do n.º 4 do artigo 26.º ficam isentas do pagamento da presente taxa relativamente à utilização dos serviços estritamente necessários à sua operação e como tal reconhecidos pela entidade gestora aeroportuária.\n\n3 - Para efeitos do disposto no n.º 1, são considerados os seguintes serviços:\n\na) Os serviços realizados no cumprimento de obrigações estabelecidas na lei ou em regulamento;\n\nb) Os serviços prestados quando solicitados por quaisquer utilizadores ou utentes dos aeroportos ou aeródromos;\n\nc) Os serviços prestados em substituição dos titulares das licenças, sempre que estes incumpram as suas obrigações legais, designadamente em matéria de ambiente, e sempre que tais serviços se revelem necessários.\n\n4 - Nas situações referidas na alínea c) do número anterior, as operações de liquidação e cobrança da taxa são efetuadas sem prejuízo das penalidades adicionais ou suplementares a que haja lugar nos termos da respetiva licença."
+  },
+  "73535922": {
+   "fragment_id": "73486129",
+   "type": 11,
+   "heading": "Artigo 38.º — Taxa de consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Taxa de consumo\n\n1 - É devida a taxa de consumo pelo fornecimento, por parte das entidades gestoras aeroportuárias, de quaisquer produtos ou bens, tais como água, telefones ou energia, no cumprimento de obrigações legais ou regulamentares ou ainda quando solicitados por quaisquer entidades.\n\n2 - A taxa de consumo consiste num valor ou numa percentagem, que pode variar conforme os produtos ou bens, tendo em conta o respetivo custo suportado pelas entidades gestoras aeroportuárias e é cobrada em conjunto com o valor deste."
+  },
+  "73535923": {
+   "fragment_id": "73486130",
+   "type": 11,
+   "heading": "Artigo 39.º — Taxa de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Taxa de exploração\n\n1 - É devida a taxa de exploração pelo exercício de quaisquer atividades relativamente às quais não haja lugar à cobrança de taxas de tráfego ou de assistência em escala, podendo ser definida segundo um dos seguintes critérios:\n\na) Por aplicação de um valor percentual sobre o volume de negócios realizado;\n\nb) Por montante fixo definido pela entidade gestora aeroportuária, que pode ser diferenciado em função do tipo de atividade ou por unidade de tempo do exercício respetivo;\n\nc) Por aplicação conjugada dos critérios referidos nas alíneas anteriores.\n\n2 - Aplica-se à liquidação desta taxa o disposto no artigo 34.º, com as devidas adaptações."
+  },
+  "73535924": {
+   "fragment_id": "73486131",
+   "type": 11,
+   "heading": "Artigo 40.º — Taxa de estacionamento de viaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Taxa de estacionamento de viaturas\n\n1 - É devida a taxa de estacionamento de viaturas pelo estacionamento de viaturas nas áreas dos aeroportos e aeródromos definidas diferenciadamente por localização, tipo de parques, duração do estacionamento, dia da semana e tipo de viaturas.\n\n2 - Sempre que as circunstâncias o justifiquem, podem estabelecer-se regimes especiais de estacionamento nas áreas de estacionamento dos aeroportos ou aeródromos, sendo a taxa de estacionamento fixada através de regimes de avença ou similar, com preços máximos por viatura, dia, semana ou mês.\n\n3 - Nas situações em que se verifique o estacionamento de viatura nos parques de estacionamento por um período de tempo não inferior a 30 dias, as entidades gestoras aeroportuárias podem determinar a remoção da viatura para local alternativo a definir por estas.\n\n4 - As entidades gestoras aeroportuárias podem exercer o direito de retenção das viaturas estacionadas nos parques de estacionamento até integral pagamento das quantias em dívida."
+  },
+  "73535925": {
+   "fragment_id": "73486132",
+   "type": 11,
+   "heading": "Artigo 41.º — Taxa de publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Taxa de publicidade\n\n1 - É devida a taxa de publicidade pelo exercício ou exploração de atividades publicitárias na área de jurisdição dos aeroportos e aeródromos, podendo ser definida por aplicação de um volume percentual sobre o volume de negócios realizado.\n\n2 - A taxa de publicidade é também devida nos casos de um exercício pontual de ato ou de atividade publicitária nos aeroportos e aeródromos, podendo ser definida nestes casos mediante um valor unitário, que pode ser diferenciado em função do local, da área ocupada e ainda do prazo de exercício desse ato ou atividade publicitários."
+  },
+  "73535926": {
+   "fragment_id": "73486133",
+   "type": 3,
+   "heading": "Subsecção II — Regime geral de liquidação e cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Regime geral de liquidação e cobrança"
+  },
+  "73535927": {
+   "fragment_id": "73486134",
+   "type": 11,
+   "heading": "Artigo 42.º — Determinação do quantitativo das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Determinação do quantitativo das taxas\n\n1 - As taxas de tráfego praticadas nos aeroportos, aeródromos ou redes aeroportuárias referidos nos n.os 1 e 2 do artigo 65.º estão sujeitas a regulação económica, nos termos do capítulo vi.\n\n2 - Para além das taxas referidas no número anterior, outras taxas podem ser sujeitas a regulação económica, nos termos previstos no artigo 67.º\n\n3 - Sem prejuízo do disposto nos números anteriores, bem como do disposto na Lei n.º 53-E/2006, de 29 de dezembro, alterada pela Lei n.º 68-A/2008, de 30 de dezembro, e pelos Decretos-Leis n.os 159/2009, de 13 de julho, e 322/2009, de 14 de dezembro, quando aplicável, o quantitativo das taxas de tráfego, das taxas de assistência em escala, das taxas de ocupação e das outras taxas de natureza comercial é fixado pelas entidades gestoras aeroportuárias, com as limitações que resultarem do regime legal, dos contratos de concessão ou de outros títulos de licenciamento.\n\n4 - As entidades gestoras aeroportuárias são sempre ouvidas no que respeita ao estabelecimento de isenções e reduções de taxas que não resultem de acordos internacionais."
+  },
+  "73535928": {
+   "fragment_id": "73486135",
+   "type": 11,
+   "heading": "Artigo 43.º — Liquidação e cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Liquidação e cobrança\n\n1 - As taxas previstas no presente decreto-lei são liquidadas e cobradas pelas entidades gestoras aeroportuárias e, salvo disposição expressa em contrário, constituem receitas próprias dessas entidades.\n\n2 - Salvo os casos abrangidos pelos números seguintes, as taxas e outras importâncias em dívida às entidades gestoras aeroportuárias devem ser pagas no prazo estabelecido por estas, o qual não pode ser inferior a 20 dias a contar da data da emissão da respetiva fatura.\n\n3 - As taxas devidas pela ocupação de terrenos, edificações e instalações na área dos aeroportos e aeródromos vencem-se no 1.º dia do mês anterior àquele a que respeitam e são pagas até ao 8.º dia desse mês.\n\n4 - As taxas devidas pela utilização dos aeroportos ou aeródromos por aeronaves são cobradas antes da partida destas podendo, no entanto, fixar-se regimes especiais de cobrança quando razões ligadas à operacionalidade da exploração aeroportuária o justifiquem.\n\n5 - Em relação a utilizadores e utentes com atividade regular na área dos aeroportos ou aeródromos, podem as respetivas entidades gestoras aeroportuárias fixar regimes de cobrança periódica eventualmente condicionados à prestação de garantias patrimoniais idóneas.\n\n6 - Sem prejuízo do que estiver especialmente regulado, a liquidação e a cobrança das taxas previstas no presente decreto-lei regem-se pelas disposições legais e regulamentares aplicáveis à generalidade dos serviços públicos, nomeadamente pelo disposto na legislação tributária em vigor."
+  },
+  "73535929": {
+   "fragment_id": "73486136",
+   "type": 11,
+   "heading": "Artigo 44.º — Faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Faturação\n\nO valor das taxas previstas neste capítulo não pode ser faturado nem cobrado separadamente aos clientes das entidades sujeitas ao seu pagamento."
+  },
+  "73535930": {
+   "fragment_id": "73486137",
+   "type": 11,
+   "heading": "Artigo 45.º — Incumprimento do dever de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Incumprimento do dever de pagamento\n\n1 - A falta de pagamento das taxas e demais importâncias no respetivo prazo faz incorrer o devedor no pagamento de juros de mora, nos termos estabelecidos para a falta de pagamento de taxas devidas ao Estado, sem prejuízo da faculdade de a entidade gestora aeroportuária poder revogar a respetiva licença.\n\n2 - A falta de pagamento das taxas no prazo legal dá lugar à sua cobrança coerciva, acrescida dos respetivos juros de mora, em processo de execução fiscal.\n\n3 - A mobilização de reclamações, de recursos ou de quaisquer outros meios de reação sobre taxas liquidadas não suspendem o dever de pagamento."
+  },
+  "73535931": {
+   "fragment_id": "73486138",
+   "type": 11,
+   "heading": "Artigo 46.º — Privilégio creditório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Privilégio creditório\n\n1 - Pelas taxas e juros de mora em dívida ao abrigo do presente capítulo, o Estado Português e as entidades gestoras aeroportuárias gozam de privilégio creditório sobre os bens dos devedores que se encontrem na área dos aeroportos ou aeródromos, podendo os mesmos ser objeto de retenção até integral pagamento das quantias em dívida ou até decisão judicial.\n\n2 - No caso de bens perecíveis ou que representem comprovadamente risco para a saúde ou para a integridade física, a entidade gestora aeroportuária pode promover a respetiva destruição ou abate ou, se possível, a sua alienação, deduzindo, neste último caso, o valor obtido ao montante da dívida existente."
+  },
+  "73535932": {
+   "fragment_id": "73486139",
+   "type": 11,
+   "heading": "Artigo 47.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Dever de informação\n\n1 - Os titulares das licenças, o seu pessoal, bem como os comandantes das aeronaves ou os seus representantes devem prestar às entidades gestoras aeroportuárias todos os esclarecimentos necessários ao processamento e cobrança das taxas, sob a forma que lhes for indicada.\n\n2 - As aeronaves podem ser retidas enquanto não forem prestados os esclarecimentos exigidos nos termos do número anterior ou não forem cumpridas as disposições relativas ao pagamento das taxas.\n\n3 - A retenção das aeronaves utilizadas nas operações referidas nas alíneas a) e b) do n.º 4 do artigo 26.º carece de parecer prévio favorável dos serviços do Ministério dos Negócios Estrangeiros, o qual deve considerar, nomeadamente, o regime de reciprocidade aplicável."
+  },
+  "73535933": {
+   "fragment_id": "73486140",
+   "type": 1,
+   "heading": "Capítulo IV — Da taxa de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da taxa de segurança"
+  },
+  "73535934": {
+   "fragment_id": "73486141",
+   "type": 11,
+   "heading": "Artigo 48.º — Âmbito objetivo e isenções da taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Âmbito objetivo e isenções da taxa\n\n1 - A taxa de segurança constitui a contrapartida dos serviços afetos à segurança da aviação civil, para prevenção e repressão de atos ilícitos, prestados aos passageiros do transporte aéreo e é destinada à cobertura parcial dos encargos respeitantes aos meios humanos e materiais empregues.\n\n2 - A taxa de segurança é devida por cada passageiro embarcado em todos os aeroportos e nos aeródromos, situados em território português, constante de lista publicada por portaria do membro do Governo responsável pela área dos transportes.\n\n3 - A taxa de segurança é cobrada nos voos comerciais ao transportador, que a pode repercutir nos passageiros, e nos voos não comerciais ao operador da aeronave.\n\n4 - São isentos do pagamento da taxa de segurança:\n\na) As crianças com menos de 2 anos;\n\nb) Os passageiros em trânsito direto;\n\nc) Os passageiros em transferência nos aeroportos de Santa Maria, Ponta Delgada, Horta e Flores, que tenham como destino final uma das restantes ilhas do Arquipélago dos Açores;\n\nd) Os passageiros que, incluídos em missões oficiais, embarquem em aeronaves ao serviço privativo do Estado Português ou de Estado estrangeiro, em regime de reciprocidade.\n\n5 - As entidades gestoras aeroportuárias podem exigir prova das condições justificativas do direito às reduções e isenções referidas no presente artigo."
+  },
+  "73535935": {
+   "fragment_id": "73486142",
+   "type": 11,
+   "heading": "Artigo 49.º — Componentes da taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Componentes da taxa\n\nA taxa de segurança engloba duas componentes distintas:\n\na) A que constitui contrapartida dos encargos gerais do INAC, I. P., e das forças de segurança com os serviços referidos no n.º 1 do artigo 48.º, fixada por passageiro embarcado, podendo ser diferenciada em função do destino do passageiro;\n\nb) A que constitui contrapartida dos encargos das entidades gestoras aeroportuárias com os serviços referidos no n.º 1 do artigo 48.º, e ainda com a instalação, operação e manutenção dos sistemas de verificação a 100 % da bagagem de porão, fixada por passageiro embarcado, podendo ser diferenciada em função do destino do passageiro."
+  },
+  "73535936": {
+   "fragment_id": "73486143",
+   "type": 11,
+   "heading": "Artigo 50.º — Cobrança e receita da taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Cobrança e receita da taxa\n\n1 - A componente da taxa de segurança a que se refere a alínea a) do artigo anterior constitui receita do INAC, I. P.\n\n2 - As condições e o prazo de entrega das importâncias cobradas aos transportadores ou operadores de aeronaves nos termos da alínea a) do artigo anterior são definidos por portaria do membro do Governo responsável pela área da economia.\n\n3 - A componente da taxa de segurança a que se refere a alínea b) do artigo anterior constitui receita das entidades gestoras aeroportuárias."
+  },
+  "73535937": {
+   "fragment_id": "73486144",
+   "type": 11,
+   "heading": "Artigo 51.º — Comparticipação das entidades públicas e privadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Comparticipação das entidades públicas e privadas\n\n1 - As forças de segurança que suportam encargos com a segurança de aviação civil têm direito a uma comparticipação na receita do INAC, I. P., referida no n.º 1 do artigo anterior, destinada à cobertura desses encargos.\n\n2 - As condições de atribuição da comparticipação referida no número anterior são fixadas por portaria dos membros do Governo responsáveis pelas áreas da administração interna e da economia."
+  },
+  "73535938": {
+   "fragment_id": "73486145",
+   "type": 11,
+   "heading": "Artigo 52.º — Determinação do quantitativo da taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Determinação do quantitativo da taxa\n\n1 - O montante da taxa a que se refere a alínea a) do artigo 49.º é estabelecido por portaria dos membros do Governo responsáveis pelas áreas das finanças, da administração interna e da economia.\n\n2 - O montante da taxa a que se refere a alínea b) do artigo 49.º é estabelecido por portaria dos membros do Governo responsáveis pelas áreas das finanças, da administração interna e da economia, mediante proposta da entidade gestora aeroportuária devidamente instruída com o parecer dos utilizadores ou dos seus representantes ou associações de utilizadores, e tendo como referência os custos inerentes aos serviços de segurança prestados.\n\n3 - O período de faturação da taxa a que se refere a alínea b) do artigo 49.º deve ser idêntico ao período praticado para as taxas de serviço a passageiros.\n\n4 - Sem prejuízo do disposto no n.º 2, a taxa de segurança pode ser sujeita a regulação económica, nos termos previstos no artigo 67.º"
+  },
+  "73535939": {
+   "fragment_id": "73486146",
+   "type": 11,
+   "heading": "Artigo 53.º — Segregação de custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Segregação de custos\n\n1 - No exercício das funções relacionadas com a prestação dos serviços de segurança indicados no n.º 1 do artigo 48.º, as entidades gestoras aeroportuárias devem manter aquela atividade independente, através de uma separação adequada da sua atividade relativa à gestão aeroportuária.\n\n2 - Para efeitos do disposto no número anterior, as entidades gestoras aeroportuárias devem organizar a respetiva contabilidade, efetuando uma rigorosa separação contabilística entre as atividades ligadas à prestação dos serviços de segurança e as restantes atividades."
+  },
+  "73535940": {
+   "fragment_id": "73486147",
+   "type": 11,
+   "heading": "Artigo 54.º — Medidas de segurança especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Medidas de segurança especiais\n\nOs utilizadores dos aeroportos situados em território português que solicitem à Polícia de Segurança Pública medidas de segurança especiais suportarão os encargos inerentes, cujo montante será cobrado pela referida Polícia."
+  },
+  "73535941": {
+   "fragment_id": "73486148",
+   "type": 11,
+   "heading": "Artigo 55.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Contraordenações\n\n1 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, constitui contraordenação muito grave a violação das condições e a entrega fora dos prazos estabelecidos, nos termos do n.º 2 do artigo 50.º, de todo ou parte do produto das taxas cobradas pelos transportadores ou operadores de aeronaves nos termos do n.º 2 do artigo 48.º\n\n2 - A punição por contraordenação pode ser publicitada, nos termos previstos no artigo 13.º do Decreto-Lei n.º 10/2004, de 9 de janeiro."
+  },
+  "73535942": {
+   "fragment_id": "73486149",
+   "type": 11,
+   "heading": "Artigo 56.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Regime subsidiário\n\nEm tudo o que não se encontre previsto no presente capítulo é aplicável o regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro."
+  },
+  "73535943": {
+   "fragment_id": "73486150",
+   "type": 1,
+   "heading": "Capítulo V — Da assistência a pessoas com deficiência e com mobilidade reduzida e respetivas taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Da assistência a pessoas com deficiência e com mobilidade reduzida e respetivas taxas"
+  },
+  "73535944": {
+   "fragment_id": "73486151",
+   "type": 11,
+   "heading": "Artigo 57.º — Âmbito objetivo da assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Âmbito objetivo da assistência\n\nNo presente capítulo são estabelecidas as condições de aplicação do regime jurídico contido no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho, relativo aos direitos das pessoas com deficiência e das pessoas com mobilidade reduzida no transporte aéreo, nomeadamente quanto à designação do organismo responsável pelo seu cumprimento e fiscalização, bem como o regime sancionatório aplicável às situações de incumprimento."
+  },
+  "73535945": {
+   "fragment_id": "73486152",
+   "type": 11,
+   "heading": "Artigo 58.º — Organismo responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Organismo responsável\n\n1 - Em cumprimento do disposto no n.º 1 do artigo 14.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho, o INAC, I. P., é o organismo responsável por assegurar o cumprimento e execução do mencionado regulamento comunitário, no que respeita a voos com partida ou destino nos aeroportos e aeródromos situados em território português, sem prejuízo das competências atribuídas por lei a outras entidades, que devem comunicar ao INAC, I. P., o resultado da sua atividade.\n\n2 - Compete, ainda, ao INAC, I. P., fiscalizar o cumprimento do disposto no presente capítulo e no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho."
+  },
+  "73535946": {
+   "fragment_id": "73486153",
+   "type": 11,
+   "heading": "Artigo 59.º — Prestação de assistência nos aeroportos e aeródromos situados em território português",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Prestação de assistência nos aeroportos e aeródromos situados em território português\n\n1 - As entidades gestoras aeroportuárias são responsáveis pela assistência às pessoas com deficiência e com mobilidade reduzida, podendo para o efeito prestar, elas mesmas, tal assistência.\n\n2 - A prestação de serviços da assistência referida no número anterior pode ser realizada por terceiros, desde que estes cumpram os requisitos da prestação de serviços de assistência em escala a terceiros previstos no Decreto-Lei n.º 275/99, de 23 de julho.\n\n3 - Os requisitos previstos no número anterior são verificados no âmbito do procedimento pré-contratual para aquisição dos serviços de assistência referidos no n.º 1, o qual é efetuado de acordo com os princípios gerais e normas de contratação pública aplicáveis, devendo as respetivas peças do procedimento ser aprovados pelo INAC, I. P."
+  },
+  "73535947": {
+   "fragment_id": "73486154",
+   "type": 11,
+   "heading": "Artigo 60.º — Independência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Independência\n\n1 - No exercício das funções de prestador de assistência às pessoas com deficiência e com mobilidade reduzida, as entidades gestoras aeroportuárias devem manter aquela atividade independente, através de uma separação adequada, da sua atividade relativa à gestão aeroportuária.\n\n2 - Para efeitos do disposto no número anterior, as entidades gestoras aeroportuárias devem organizar a respetiva contabilidade, efetuando uma rigorosa separação contabilística entre as atividades ligadas à prestação de assistência às pessoas com deficiência e com mobilidade reduzida e as restantes atividades."
+  },
+  "73535948": {
+   "fragment_id": "73486155",
+   "type": 11,
+   "heading": "Artigo 61.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Taxas\n\n1 - Como contrapartida da prestação do serviço de assistência às pessoas com deficiência ou com mobilidade reduzida, é devida uma taxa a pagar pelas transportadoras aéreas utilizadoras do aeroporto ou aeródromo situado em território português.\n\n2 - A taxa prevista no presente artigo pode ser sujeita a regulação económica, nos termos previstos no artigo 67.º\n\n3 - O montante da taxa referida no n.º 1 é fixado, por passageiro embarcado, por deliberação do conselho diretivo do INAC, I. P., após proposta da entidade gestora aeroportuária, devidamente instruída com o parecer dos utilizadores ou dos seus representantes ou associações de utilizadores.\n\n4 - A taxa referida nos números anteriores deve ser fixada de acordo com a seguinte fórmula:\n\n(TCn PMR + Kn)/(P x n)\n\nem que:\n\na) TCn PMR = total de custos com a prestação do serviço aprovados para o ano n, compreendendo os custos operacionais e de capital inerentes à atividade;\n\nb) Kn = fator de correção, destinado a corrigir eventuais excessos ou défices que se verifiquem num determinado ano, calculado de acordo com a fórmula:\n\nKn = TCn -2 PMR - TR n -2\n\nem que:\n\ni) TCn -2 PMR = total de custos reais aprovados no ano n -2;\n\nii) TR n -2 = total de proveitos reais do ano n -2;\n\nc) P x n = número previsto de passageiros taxáveis para o ano n.\n\n5 - Para efeitos do disposto no n.º 3, deve a entidade gestora aeroportuária fornecer a previsão fundamentada dos custos inerentes à atividade de prestação de assistência a passageiros com deficiência ou com mobilidade reduzida ao INAC, I. P., aos utilizadores ou dos seus representantes ou associações de utilizadores.\n\n6 - Os custos a que se referem as alíneas a) e b) do n.º 4 são aprovados pelo INAC, I. P., tendo em conta os custos dos anos anteriores, a previsão apresentada e as regras definidas para as taxas aplicadas aos serviços regulados prestados pela entidade gestora aeroportuária.\n\n7 - A taxa referida nos números anteriores constitui receita das entidades gestoras aeroportuárias, devendo o respetivo período de faturação ser idêntico ao período praticado para as taxas de serviço a passageiros."
+  },
+  "73535949": {
+   "fragment_id": "73486156",
+   "type": 11,
+   "heading": "Artigo 62.º — Processamento das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Processamento das contraordenações\n\n1 - Compete ao INAC, I. P., instaurar e instruir os processos de contraordenação relativos às infrações previstas no presente capítulo, bem como proceder à aplicação das respetivas coimas e sanções acessórias a que haja lugar.\n\n2 - A punição por contraordenação pode ser publicitada, nos termos previstos no artigo 13.º do Decreto-Lei n.º 10/2004, de 9 de janeiro."
+  },
+  "73535950": {
+   "fragment_id": "73486157",
+   "type": 11,
+   "heading": "Artigo 63.º — Contraordenações no âmbito da assistência a pessoas com deficiência e com mobilidade reduzida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Contraordenações no âmbito da assistência a pessoas com deficiência e com mobilidade reduzida\n\n1 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, constituem contraordenações muito graves:\n\na) A recusa, por parte da transportadora aérea, de uma reserva para um voo com partida num aeroporto ou aeródromo situado no território português, com fundamento na deficiência ou na mobilidade reduzida, em violação do disposto na alínea a) do artigo 3.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho, desde que a recusa não se enquadre no n.º 1 do artigo 4.º desse mesmo regulamento;\n\nb) A recusa, por parte da transportadora aérea, de embarque de uma pessoa com deficiência ou com mobilidade reduzida num aeroporto ou aeródromo situado no território português, quando a pessoa em causa tenha um bilhete e uma reserva válidos, em violação do disposto na alínea b) do artigo 3.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho, desde que a recusa não se enquadre no n.º 1 do artigo 4.º desse mesmo regulamento;\n\nc) A prestação da assistência prevista no anexo i em violação das normas de qualidade previstas no n.º 1 do artigo 9.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nd) A falta de disponibilização ao público, por parte das transportadoras aéreas ou dos seus representantes ou agentes, das regras de segurança aplicáveis ao transporte de pessoas com deficiência e de pessoas com mobilidade reduzida, bem como de eventuais restrições ao seu transporte ou ao transporte do seu equipamento de mobilidade devido às dimensões da aeronave, nos termos e condições previstos no n.º 3 do artigo 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\ne) A falta de disponibilização, por parte dos operadores turísticos, das regras de segurança aplicáveis ao transporte de pessoas com deficiência e de pessoas com mobilidade reduzida, bem como de eventuais restrições ao seu transporte ou ao transporte do seu equipamento de mobilidade devido às dimensões da aeronave, relativamente aos voos que organizam, vendem ou oferecem para venda, integrados em viagens organizadas, férias organizadas ou circuitos organizados, em violação do disposto do n.º 3 do artigo 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nf) A falta de informação, devidamente fundamentada, por parte das transportadoras aéreas, dos seus agentes ou dos operadores turísticos, à pessoa com deficiência ou à pessoa com mobilidade reduzida, da aplicação das derrogações previstas nos n.os 1 ou 2 do artigo 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho, em violação do n.º 4 desse mesmo artigo;\n\ng) A não transmissão, por parte da transportadora aérea, do seu agente ou do operador turístico, da informação relativa à necessidade de assistência, em violação dos n.os 2 e 3 do artigo 6.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nh) A falta de informação, por parte da transportadora aérea, à entidade gestora aeroportuária do destino, do número de pessoas com deficiência e com mobilidade reduzida que requerem assistência, bem como da natureza dessa assistência, em violação do disposto no n.º 4 do artigo 6.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\ni) A entidade gestora aeroportuária não assegurar a prestação da assistência especificada no anexo i ao Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho, sempre que um passageiro com deficiência ou com mobilidade reduzida chegue a um aeroporto para efetuar uma viagem, em violação do disposto no n.º 1 do artigo 7.º do mencionado regulamento;\n\nj) A falta de autorização, por parte da transportadora aérea, do seu agente ou do operador turístico, de assistência, quando for solicitada, de um cão auxiliar reconhecido, em conformidade com as normas nacionais aplicáveis ao transporte de cães auxiliares na cabina de aeronaves, em violação do n.º 2 do artigo 7.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nk) A entidade gestora aeroportuária ou a empresa por ela contratada não assegurar a prestação da assistência especificada no anexo i ao Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho, sempre que uma pessoa com deficiência ou com mobilidade reduzida esteja em trânsito num aeroporto ou aeródromo ou for transferida por uma transportadora aérea ou por um operador turístico do voo para o qual tem uma reserva para outro voo, em violação do n.º 5 do artigo 7.º do mencionado regulamento;\n\nl) A entidade gestora aeroportuária não assegurar a prestação de assistência prevista no n.º 6 do artigo 7.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nm) A falta de separação contabilística, em violação do disposto no n.º 5 do artigo 8.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nn) A falta de divulgação, a divulgação não atempada ou a divulgação deturpada dos dados relativos à previsão dos custos, por parte da entidade gestora aeroportuária, em violação do disposto no n.º 5 do artigo 61.º do presente decreto-lei;\n\no) A falta de disponibilização do quadro anual das taxas recebidas e das despesas efetuadas nos termos e às entidades previstas no n.º 6 do artigo 8.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\np) A falta de estabelecimento de normas de qualidade, em violação do disposto no n.º 1 do artigo 9.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nq) A transportadora aérea e a entidade gestora aeroportuária não assegurarem que todo o seu pessoal, incluindo o pessoal empregado por subcontratantes, que preste assistência direta a pessoas com deficiência e a pessoas com mobilidade reduzida, disponha dos conhecimentos para satisfazer as necessidades das pessoas com as mais variadas deficiências ou tipos de mobilidade reduzida, em violação do disposto na alínea a) do artigo 11.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nr) A transportadora aérea e a entidade gestora aeroportuária não assegurarem nem proporcionarem formação específica a todo o pessoal que tenha contacto direto com pessoas com deficiência ou com mobilidade reduzida, em violação do disposto nas alíneas b) e c) do artigo 11.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\ns) O não cumprimento, por parte da entidade gestora aeroportuária, das modalidades de assistência previstas no anexo i do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nt) O não cumprimento das modalidades de assistência previstas no anexo ii ao Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho, por parte das transportadoras aéreas.\n\n2 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, constituem contraordenações graves:\n\na) A violação da forma e do prazo de cinco dias previstos no n.º 4 do artigo 4.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nb) A falta de designação de pontos de chegada e de partida, por parte da entidade gestora aeroportuária, nos quais as pessoas com deficiência ou com mobilidade reduzida possam anunciar a sua chegada ao aeroporto e requerer assistência, em violação do n.º 1 do artigo 5.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nc) A violação do prazo de antecedência mínima de 36 horas previsto no n.º 2 do artigo 6.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nd) A falta de prestação de informação ao INAC, I. P., sobre os critérios utilizados para o apuramento dos custos e para a separação contabilística a que se referem os n.os 4 e 5 do artigo 8.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho.\n\n3 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, constituem contraordenações leves:\n\na) A falta de identificação dos pontos de chegada e de partida, bem como das informações previstas no n.º 2 do artigo 5.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho;\n\nb) A falta de publicação das normas de qualidade, em violação do n.º 3 do artigo 9.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1107\" title=\"Link para Regulamento da Comunidade Europeia\">1107/2006</a>, do Parlamento Europeu e do Conselho, de 5 de julho."
+  },
+  "73535951": {
+   "fragment_id": "73486158",
+   "type": 11,
+   "heading": "Artigo 64.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Regime subsidiário\n\nEm tudo o que não se encontre previsto no presente capítulo é aplicável o regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro."
+  },
+  "73535952": {
+   "fragment_id": "73486159",
+   "type": 1,
+   "heading": "Capítulo VI — Regulação económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regulação económica"
+  },
+  "73535953": {
+   "fragment_id": "73486160",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "73535954": {
+   "fragment_id": "73486161",
+   "type": 11,
+   "heading": "Artigo 65.º — Âmbito subjetivo da regulação económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Âmbito subjetivo da regulação económica\n\n1 - Estão sujeitos a regulação económica os aeroportos e os aeródromos situados em território português abertos ao tráfego comercial, cujo tráfego anual seja superior a 5 milhões de passageiros.\n\n2 - Estão igualmente sujeitas a regulação económica as redes aeroportuárias constituídas cujo volume global de tráfego anual seja superior a 5 milhões de passageiros.\n\n3 - O INAC, I. P., em casos excecionais e mediante decisão fundamentada, pode decidir que um aeroporto ou um outro aeródromo, abertos ao tráfego comercial, bem como uma rede aeroportuária, ainda que tenham um volume anual de passageiros inferior a 5 milhões, sejam submetidos a regulação económica, quando fundamentadamente considere que tenha poder de mercado sobre os seus utilizadores.\n\n4 - As decisões tomadas pelo INAC, I. P., nos termos do número anterior devem ser comunicadas às entidades gestoras aeroportuárias em causa com uma antecedência mínima de seis meses, relativamente ao momento da entrada em vigor das taxas que venham a ser estabelecidas em resultado dessas decisões."
+  },
+  "73535955": {
+   "fragment_id": "73486162",
+   "type": 11,
+   "heading": "Artigo 66.º — Âmbito objetivo da regulação económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Âmbito objetivo da regulação económica\n\nA regulação económica prevista no presente decreto-lei consiste na:\n\na) Definição dos princípios e regras comuns aplicáveis à cobrança de taxas pagas pelos utilizadores do aeroporto ou aeródromo pela utilização das instalações disponibilizadas e pelos serviços prestados exclusivamente pela entidade gestora aeroportuária, relacionados com a aterragem, descolagem, iluminação e estacionamento das aeronaves e com o processamento de passageiros, carga e correio;\n\nb) Fixação dos indicadores de qualidade de serviço a observar nos aeroportos e aeródromos indicados no n.º 1 e no n.º 2 do artigo anterior."
+  },
+  "73535956": {
+   "fragment_id": "73486163",
+   "type": 11,
+   "heading": "Artigo 67.º — Atividades e serviços regulados e critérios de determinação das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Atividades e serviços regulados e critérios de determinação das taxas\n\nSem prejuízo do disposto no presente decreto-lei e dos poderes conferidos por lei à autoridade reguladora, as atividades e serviços concretamente sujeitos a regulação económica, o sistema e a estrutura tarifária aplicáveis, bem como os níveis e indicadores de qualidade de serviço, encontram-se previstos nos respetivos contratos de concessão ou outros títulos de licenciamento."
+  },
+  "73535957": {
+   "fragment_id": "73486164",
+   "type": 11,
+   "heading": "Artigo 68.º — Autoridade reguladora independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Autoridade reguladora independente\n\n1 - A autoridade reguladora independente com competência para o controlo da aplicação dos princípios, regras e critérios mencionados nos artigos 66.º e 67.º é o INAC, I. P.\n\n2 - O INAC, I. P., deve exercer as suas competências com imparcialidade e transparência.\n\n3 - O INAC, I. P., publica na sua página eletrónica na Internet um relatório anual sobre as atividades que desenvolveu no âmbito do presente capítulo."
+  },
+  "73535958": {
+   "fragment_id": "73486165",
+   "type": 8,
+   "heading": "Secção II — Princípios e regras comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Princípios e regras comuns"
+  },
+  "73535959": {
+   "fragment_id": "73486166",
+   "type": 11,
+   "heading": "Artigo 69.º — Não discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Não discriminação\n\n1 - As taxas não podem estabelecer discriminações entre os utilizadores dos aeroportos ou aeródromos.\n\n2 - Sem prejuízo do disposto no número anterior, é possível a modulação das taxas por motivos de interesse público e geral, nomeadamente de ordem ambiental, desde que os critérios utilizados na modulação sejam pertinentes, objetivos e transparentes."
+  },
+  "73535960": {
+   "fragment_id": "73486167",
+   "type": 11,
+   "heading": "Artigo 70.º — Diferenciação dos serviços e das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Diferenciação dos serviços e das taxas\n\n1 - A entidade gestora aeroportuária pode diversificar a qualidade e âmbito de determinados serviços, de terminais ou parte de terminais, com o objetivo de prestar serviços personalizados, bem como a disponibilização de parte ou de todo um terminal especializado.\n\n2 - Sem prejuízo do disposto no artigo 69.º, a entidade gestora aeroportuária mantém a faculdade de fixar taxas diferenciadas em função da qualidade e do âmbito desses serviços e dos respetivos custos ou de qualquer outra justificação objetiva e transparente.\n\n3 - A entidade gestora aeroportuária deve permitir o acesso aos utilizadores aos serviços personalizados ou ao terminal ou parte de um terminal especializado.\n\n4 - Se o número de utilizadores interessados for superior ao número de utilizadores possível, devido a limitações de capacidade, o acesso é determinado com base em critérios pertinentes, objetivos e transparentes e não discriminatórios, fixados pela entidade gestora aeroportuária e aprovados previamente pelo INAC, I. P."
+  },
+  "73535961": {
+   "fragment_id": "73486168",
+   "type": 11,
+   "heading": "Artigo 71.º — Consulta e recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Consulta e recurso\n\n1 - O funcionamento do sistema e da estrutura tarifária e, se necessário, da qualidade dos serviços prestados está sujeito a consultas anuais entre a entidade gestora aeroportuária e os utilizadores ou os representantes ou associações de utilizadores, salvo decisão tomada em contrário na última consulta.\n\n2 - Caso exista um acordo plurianual entre a entidade gestora aeroportuária e os utilizadores ou os representantes ou associações de utilizadores as consultas referidas no número anterior realizam-se nos termos do referido acordo.\n\n3 - As consultas previstas no n.º 1 devem ser apresentadas aos utilizadores ou aos representantes ou associações de utilizadores até 120 dias antes da respetiva entrada em vigor das alterações propostas, salvo em circunstâncias excecionais, devidamente justificadas perante os utilizadores ou os representantes ou associações de utilizadores.\n\n4 - Após a realização da consulta prevista no número anterior, a entidade gestora aeroportuária deve enviar uma informação ao INAC, I. P., e aos utilizadores ou aos representantes ou associações de utilizadores da qual constem os resultados da mesma e a decisão proposta.\n\n5 - A decisão da entidade gestora aeroportuária deve ser publicada na sua página eletrónica na Internet até 60 dias antes da respetiva entrada em vigor.\n\n6 - Caso a entidade gestora aeroportuária e os utilizadores ou os representantes ou associações de utilizadores não cheguem a acordo sobre as alterações propostas, a primeira deve fundamentar a sua decisão.\n\n7 - Caso os utilizadores ou os representantes ou associações de utilizadores não concordem com qualquer alteração concreta preconizada pela entidade gestora aeroportuária, podem apresentar reclamação fundamentada junto do INAC, I. P., no prazo de 15 dias contados a partir da data da respetiva receção nos termos no n.º 4.\n\n8 - O INAC, I. P., deve rejeitar liminarmente as reclamações que considere não devidamente fundamentadas ou documentadas.\n\n9 - A alteração concretamente preconizada pela entidade gestora aeroportuária e objeto de reclamação não produz efeitos até ser analisada pelo INAC, I. P.\n\n10 - O INAC, I. P., tem acesso às informações necessárias das partes interessadas, consultando-as para tomar a sua decisão.\n\n11 - No prazo de 30 dias após a questão ter sido submetida à sua apreciação, o INAC, I. P., deve tomar uma decisão provisória sobre a entrada em vigor da alteração do sistema ou da estrutura tarifária, a não ser que a decisão final possa ser tomada no mesmo prazo.\n\n12 - A decisão final do INAC, I. P., é tomada no prazo de 120 dias a contar da data em que a questão tenha sido submetida à sua apreciação, salvo em casos excecionais devidamente justificados, nos quais o indicado prazo pode ser prorrogado durante 60 dias.\n\n13 - A decisão final do INAC, I. P., deve ser tomada com base em critérios que sejam objetivos, transparentes e não discriminatórios, constituindo a ausência de decisão nos prazos fixados no número anterior indeferimento da reclamação.\n\n14 - Sem prejuízo de impugnação administrativa ou judicial, as decisões do INAC, I. P., são juridicamente vinculativas e produzem efeitos imediatos.\n\n15 - A perda de receita pelo adiamento da entrada em vigor da taxa sob reclamação, ou o excesso cobrado decorrente de decisão do INAC, I. P., tomada nos termos do n.º 11, deve ser tido em conta nos ajustamentos tarifários que venham a ocorrer posteriormente à decisão definitiva do INAC, I. P., ou à decisão judicial transitada em julgado."
+  },
+  "73535962": {
+   "fragment_id": "73486169",
+   "type": 11,
+   "heading": "Artigo 72.º — Informações dos utilizadores e da entidade gestora aeroportuária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Informações dos utilizadores e da entidade gestora aeroportuária\n\n1 - Antes da consulta prévia a que se refere o artigo anterior, a entidade gestora aeroportuária solicita aos utilizadores as seguintes informações:\n\na) Previsões de tráfego;\n\nb) Previsões quanto à composição e à utilização prevista da frota;\n\nc) Projetos de desenvolvimento no aeródromo ou aeroporto em causa;\n\nd) Necessidades no aeródromo ou no aeroporto em causa.\n\n2 - As informações previstas no número anterior devem ser disponibilizadas pelos utilizadores no prazo de 60 dias.\n\n3 - As informações prestadas nos termos do número anterior não podem ser divulgadas a terceiros pela entidade gestora aeroportuária sem o consentimento dos titulares das mesmas.\n\n4 - Excetua-se do disposto do número anterior a divulgação de tais informações pela entidade gestora aeroportuária ao INAC, I. P.\n\n5 - No âmbito da consulta prevista no n.º 1 do artigo anterior, a entidade gestora aeroportuária deve fornecer, por aeroporto, aeródromo ou rede aeroportuária, a cada utilizador, ou aos representantes ou associações de utilizadores, as seguintes informações:\n\na) A lista dos serviços prestados e das infraestruturas disponibilizadas em contrapartida da taxa cobrada;\n\nb) A metodologia utilizada para a fixação das taxas;\n\nc) A estrutura global dos custos ligados às instalações e serviços a que se referem as taxas;\n\nd) A receita das diferentes taxas e o custo total dos serviços cobertos por essas taxas;\n\ne) Qualquer financiamento de autoridades públicas às instalações e serviços a que se referem as taxas;\n\nf) As previsões relativas à situação do aeroporto ou aeródromo no que diz respeito às taxas, ao aumento do tráfego e aos investimentos propostos;\n\ng) A utilização efetiva das infraestruturas e dos equipamentos aeroportuários num determinado período;\n\nh) Os resultados previstos de todos os investimentos de vulto propostos, em termos dos seus efeitos na capacidade aeroportuária."
+  },
+  "73535963": {
+   "fragment_id": "73486170",
+   "type": 11,
+   "heading": "Artigo 73.º — Consulta prévia sobre novas infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Consulta prévia sobre novas infraestruturas\n\n1 - A entidade gestora aeroportuária consulta obrigatoriamente os utilizadores, ou os representantes ou associações dos utilizadores, antes da finalização de projetos para novas infraestruturas.\n\n2 - A consulta sobre as novas infraestruturas deve realizar-se em fase que permita as entidades referidas no número anterior contribuírem com eventuais sugestões.\n\n3 - Uma vez comunicada às entidades referidas no n.º 1 a existência de projetos sobre novas infraestruturas, nos termos do número anterior, estas dispõem de 20 dias para se pronunciar sobre os mesmos.\n\n4 - A consulta mencionada no presente artigo pode constar do acordo entre a entidade gestora aeroportuária e as entidades referidas no n.º 1."
+  },
+  "73535964": {
+   "fragment_id": "73486171",
+   "type": 11,
+   "heading": "Artigo 74.º — Acordo sobre os níveis de qualidade do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Acordo sobre os níveis de qualidade do serviço\n\n1 - A entidade gestora aeroportuária deve promover negociações com os utilizadores, ou com os representantes ou associações dos utilizadores, relativamente ao nível de serviço a prestar, com vista à possibilidade de celebração de acordos.\n\n2 - Nas negociações referidas no número anterior deve atender-se ao sistema e à estrutura tarifária aplicável, bem como ao nível de serviço a que os utilizadores têm direito como contrapartida das taxas.\n\n3 - O acordo a que se refere o número anterior baseia-se nos indicadores e nos níveis mínimos de qualidade estabelecidos nos termos dos contratos de concessão ou de outros títulos de licenciamento."
+  },
+  "73535965": {
+   "fragment_id": "73486172",
+   "type": 8,
+   "heading": "Secção III — Aeroportos, aeródromos e redes aeroportuárias não sujeitos a regulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Aeroportos, aeródromos e redes aeroportuárias não sujeitos a regulação"
+  },
+  "73535966": {
+   "fragment_id": "73486173",
+   "type": 11,
+   "heading": "Artigo 75.º — Taxas nos aeroportos, aeródromos e redes aeroportuárias não sujeitos a regulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Taxas nos aeroportos, aeródromos e redes aeroportuárias não sujeitos a regulação\n\n1 - Os aeroportos, aeródromos e redes aeroportuárias abertos ao tráfego comercial não sujeitos a regulação devem notificar o INAC, I. P., sobre o regime de taxas previstas no presente capítulo a praticar, eventuais isenções ou reduções dessas taxas, até 60 dias antes da sua entrada em vigor.\n\n2 - As taxas referidas no número anterior são estabelecidas pelas entidades competentes, mediante parecer prévio do INAC, I. P., a proferir até 30 dias antes da sua entrada em vigor."
+  },
+  "73535967": {
+   "fragment_id": "73486174",
+   "type": 11,
+   "heading": "Artigo 76.º — Dever de informação ao INAC, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Dever de informação ao INAC, I. P.\n\n1 - Os aeroportos, aeródromos e redes aeroportuárias não sujeitos a regulação económica devem remeter ao INAC, I. P., toda a informação de natureza financeira, operacional ou outra que este considere necessária para o desempenho das suas funções, no prazo máximo de 30 dias.\n\n2 - O pedido do INAC, I. P., para os efeitos do número anterior, suspende a contagem do prazo previsto no n.º 2 do artigo 75.º, pelo período que decorre até à data da entrega da informação solicitada."
+  },
+  "73535968": {
+   "fragment_id": "73535975",
+   "type": 8,
+   "heading": "Secção IV — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Fiscalização e regime sancionatório"
+  },
+  "73535969": {
+   "fragment_id": "73535976",
+   "type": 11,
+   "heading": "Artigo 77.º — Contraordenações no âmbito da regulação económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Contraordenações no âmbito da regulação económica\n\n1 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, constituem contraordenações muito graves:\n\na) A falta de envio aos utilizadores ou aos representantes ou associações de utilizadores dos elementos previstos no n.º 5 do artigo 72.º;\n\nb) A falta de envio ao INAC, I. P., por parte da entidade gestora aeroportuária de qualquer um dos elementos previstos no n.º 4 do artigo 71.º;\n\nc) O incumprimento, pelos utilizadores, do n.º 2 do artigo 72.º;\n\nd) O incumprimento, pela entidade gestora aeroportuária, do n.º 3 do artigo 72.º;\n\ne) Qualquer tipo de obstrução que impeça o INAC, I. P., de exercer os seus poderes de supervisão, fiscalização e auditoria no exercício das suas funções;\n\nf) O incumprimento, pela entidade gestora aeroportuária, dos n.os 3 e 4 do artigo 70.º;\n\ng) A falta de envio ao INAC, I. P., de toda a informação de natureza financeira, operacional ou outra, por parte dos aeroportos, aeródromos e redes aeroportuárias não sujeitos a regulação económica, em violação do disposto no artigo 76.º\n\n2 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, constituem contraordenações graves:\n\na) A recusa, por parte da entidade gestora aeroportuária, dos utilizadores ou dos representantes ou associações de utilizadores em encetar as diligências necessárias e prévias à celebração do acordo mencionado no n.º 1 do artigo 74.º;\n\nb) A falta dos procedimentos de consulta a promover pela entidade gestora aeroportuária para efeitos de fixação de taxas sujeitas a regulação e respetivas alterações, às transportadoras aéreas e aos agentes de assistência em escala, em violação do disposto no n.º 1 e no n.º 3 do artigo 71.º;\n\nc) A violação do prazo mínimo de 60 dias previsto no n.º 5 do artigo 71.º;\n\nd) O incumprimento, pela entidade gestora aeroportuária, do n.º 1 do artigo 73.º, bem como a recusa dos utilizadores em promoverem quaisquer negociações prévias com a entidade gestora aeroportuária, com vista à celebração do acordo previsto no n.º 4 do mesmo artigo;\n\ne) A falta de notificação ao INAC, I. P., por parte dos aeroportos, aeródromos e redes aeroportuárias abertos ao tráfego comercial não sujeitos a regulação sobre o regime de taxas, eventuais isenções ou reduções que se propõe praticar.\n\n3 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, constituem contraordenações leves:\n\na) O incumprimento do prazo de 60 dias previsto no n.º 1 do artigo 75.º;\n\nb) A fixação de taxas sem emissão de parecer prévio do INAC, I. P., em violação do disposto no n.º 2 do artigo 75.º"
+  },
+  "73535970": {
+   "fragment_id": "73535977",
+   "type": 11,
+   "heading": "Artigo 78.º — Processamento das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Processamento das contraordenações\n\nCompete ao INAC, I. P., nos termos do Decreto-Lei n.º 145/2007, de 27 de abril, instaurar e instruir os processos de contraordenação relativos às infrações previstas no presente capítulo, bem como proceder à aplicação das respetivas coimas."
+  },
+  "73535971": {
+   "fragment_id": "73535978",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "73535972": {
+   "fragment_id": "73535979",
+   "type": 11,
+   "heading": "Artigo 79.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Regiões Autónomas\n\n1 - O disposto no capítulo iii não se aplica aos aeroportos e aeródromos públicos regionais das Regiões Autónomas dos Açores e da Madeira.\n\n2 - A Região Autónoma dos Açores é sempre ouvida no que respeita à fixação de taxas nos aeroportos ou aeródromos públicos nacionais situados nesta Região Autónoma.\n\n3 - O disposto nos capítulos iv, v e vi aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma que possam ser introduzidas por diploma regional adequado."
+  },
+  "73535973": {
+   "fragment_id": "73535980",
+   "type": 11,
+   "heading": "Artigo 80.º — Jurisdição competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Jurisdição competente\n\nSão competentes para conhecer dos meios processuais contra todos os atos administrativos praticados pelas entidades competentes ao abrigo do presente decreto-lei os tribunais que integram a jurisdição administrativa e fiscal."
+  },
+  "73535974": {
+   "fragment_id": "73535981",
+   "type": 11,
+   "heading": "Artigo 81.º — Prazos e a sua contagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Prazos e a sua contagem\n\nOs prazos fixados no presente decreto-lei contam-se em dias seguidos ou em meses seguidos de calendário, conforme o caso."
+  },
+  "73536075": {
+   "fragment_id": "73535982",
+   "type": 11,
+   "heading": "Artigo 82.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Disposição transitória\n\n1 - Os quantitativos das taxas e a estrutura tarifária praticados, nos termos dos diplomas legais e regulamentares anteriores, mantêm-se em vigor até à sua alteração, que deverá respeitar os termos previstos no presente decreto-lei.\n\n2 - É aplicável ao Terminal Civil de Beja o regime previsto no presente decreto-lei para os aeroportos, logo que se verifique a certificação pelo INAC, I. P., do terminal e das infraestruturas aeronáuticas da Base Aérea n.º 11, necessárias para a exploração do mesmo."
+  },
+  "73536076": {
+   "fragment_id": "73535983",
+   "type": 11,
+   "heading": "Artigo 83.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 102/90, de 21 de março, alterado pelos Decretos-Leis n.os 280/99, de 26 de julho, 268/2007, de 26 de julho, e 216/2009, de 4 de setembro;\n\nb) O Decreto-Lei n.º 102/91, de 8 de março, alterado pelo Decretos-Leis n.os 11/2004, de 9 de janeiro, e 208/2004, de 19 de agosto;\n\nc) O Decreto-Lei n.º 241/2008, de 17 de dezembro;\n\nd) O Decreto-Lei n.º 217/2009, de 4 de setembro, alterado pelo Decreto-Lei n.º 86/2011, de 1 de julho;\n\ne) O Decreto-Lei n.º 33/2010, de 14 de abril;\n\nf) O Decreto-Lei n.º 86/2011, de 1 de julho;\n\ng) O Decreto Regulamentar n.º 24/2009, de 4 de setembro."
+  },
+  "73536077": {
+   "fragment_id": "73535984",
+   "type": 11,
+   "heading": "Artigo 84.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "937017097": {
+   "fragment_id": "73486085",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2013-498683), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do presente decreto-lei, entende-se por:\n\na) «Atividades comerciais» as atividades acessórias de natureza comercial que a ANA, S. A., desenvolva nos aeroportos abrangidos pela concessão, ou em outras áreas alocadas à concessão, tais como a construção, a gestão ou a exploração, direta ou indireta, de espaços comerciais, de escritórios, de serviços de publicidade, de parques de estacionamento automóvel, de aluguer de automóveis, de plataformas logísticas, de centros de conferências, de hotéis, de restaurantes, de cafetarias e similares e de exploração imobiliária;\n\nb) «Atividades e serviços aeroportuários» as atividades e serviços de apoio à aviação civil que a ANA, S. A., presta, a título principal, aos utentes e aos utilizadores das infraestruturas aeroportuárias;\n\nc) «Aeródromo» a área definida em terra ou na água, incluindo edifícios, instalações e equipamentos, destinada a ser usada no todo ou em parte para a chegada, partida e movimento de aeronaves, e que não seja um aeroporto;\n\nd) «Aeroporto» o aeródromo que dispõe de forma permanente de instalações, equipamentos e serviços adequados ao tráfego aéreo comercial internacional;\n\ne) «Aeroportos e aeródromos públicos nacionais» os aeroportos e aeródromos situados em Portugal Continental e os aeroportos situados nas Regiões Autónomas, cuja gestão, exploração e desenvolvimento se encontram cometidos à ANA, S.A., e à ANAM - Aeroportos e Navegação da Madeira, S.A (ANAM, S.A.);\n\nf) «Aeroportos e aeródromos públicos regionais» os aeroportos e aeródromos situados nas Regiões Autónomas não abrangidos pela alínea anterior;\n\ng) «Agentes de assistência em escala» os prestadores de serviços de assistência em escala e os utilizadores de assistência em escala em regime de auto assistência;\n\nh) «Áreas de manutenção» as áreas de movimento onde se processam operações de manutenção de aeronaves;\n\ni) «Áreas de tráfego» as áreas de movimento onde se processam operações de assistência às aeronaves, como sejam o respetivo descarregamento e carregamento, embarque ou desembarque de passageiros e outras inerentes a estas;\n\nj) «Autoridade reguladora» o Instituto Nacional de Aviação Civil, I. P. (INAC, I. P.);\n\nk) «Bagagens» os objetos de uso ou consumo pessoal dos passageiros e tripulantes, ainda que não acompanhados;\n\nl) «Carga aérea» os bens transportados a bordo das aeronaves, com exceção do equipamento necessário à realização do voo, dos aprovisionamentos, do correio e das bagagens;\n\nm) «Concedente» o Estado Português;\n\nn) «Concessão» a concessão de serviço público aeroportuário atribuída à ANA, S. A., pelo Decreto-Lei n.º 404/98, de 18 de dezembro;\n\no) «Concessionária» a ANA, S. A.;\n\np) «Contrato de concessão» o contrato de concessão de serviço público aeroportuário a celebrar entre o Estado Português e a ANA, S. A.;\n\nq) «Entidade gestora aeroportuária» entidade legalmente responsável pela administração e pela gestão e ou exploração das infraestruturas aeroportuárias, pela coordenação e controle das atividades dos vários operadores presentes no aeroporto ou em outro aeródromo ou na rede aeroportuária e, em concreto, para proceder aos licenciamentos previstos no presente decreto-lei;\n\nr) «Escala técnica» a utilização de um aeroporto ou aeródromo por uma aeronave para fins que não sejam o embarque ou desembarque de passageiros, carga ou correio;\n\ns) «Infraestruturas aeroportuárias» o conjunto de terrenos, de construções, de instalações, de equipamentos e de edifícios ou de parte de edifícios utilizados para as atividades e serviços aeroportuários e, acessoriamente, para as atividades comerciais;\n\nt) «Parâmetros sectoriais de serviço público» os parâmetros de serviço público específicos e aplicáveis a cada um dos aeroportos constantes de anexo ao contrato de concessão;\n\nu) «Passageiro» qualquer pessoa transportada ou a transportar numa aeronave com o consentimento do transportador, estando excluídos os membros da tripulação;\n\nv) «Passageiros em transferência» os passageiros que chegam, ao aeroporto ou aeródromo, numa aeronave com um determinado número de voo, e partem, num lapso de tempo determinado não superior a 18 horas, ou, no caso dos aeroportos da Região Autónoma dos Açores, num lapso de tempo determinado não superior a 24 horas, nessa mesma aeronave ou noutra, mas com diferente número de voo, ou noutra aeronave com o mesmo número de voo, salvo se a mudança de aeronave for devida a problemas técnicos e cujo destino não seja o aeroporto de origem;\n\nw) «Passageiros em trânsito direto» os passageiros que, após uma breve escala num determinado aeroporto ou aeródromo, continuam a sua viagem na mesma aeronave com o mesmo número de voo daquele em que chegaram, ou ainda noutra aeronave com o mesmo número de voo, após mudança devida a problemas técnicos;\n\nx) «Prestador de serviços de assistência em escala» a entidade, licenciada para o efeito nos termos da lei, que preste a terceiros uma ou mais categorias de serviços ou modalidades de assistência em escala;\n\ny) «Representantes ou associações dos utilizadores» as associações, legalmente constituídas, de utilizadores cujos associados, no seu conjunto, demonstrem representar, pelo menos 25 % do tráfego anual movimentado ou assistido no aeroporto, sem prejuízo do disposto nos contratos de concessão ou em outros títulos de licenciamento; se as atividades e serviços prestados no âmbito da assistência em escala estiverem sujeitos a regulação económica, os agentes de assistência em escala podem constituir associações nos mesmos termos do que os utilizadores; neste caso, é igualmente uma associação de utilizadores, o comité de utilizadores do aeroporto, constituído nos termos do Decreto-Lei n.º 275/99, de 23 de julho, alterado pelos Decretos-Leis n.os 208/2004, de 19 de agosto, e 216/2009, de 4 de setembro;\n\nz) «Unidade de tráfego» a unidade de referência da atividade aeroportuária que indiferenciadamente pode significar um passageiro embarcado ou um passageiro desembarcado, excluindo-se os passageiros em trânsito direto, ou 100 kg de carga embarcada ou 100 kg de carga desembarcada;\n\naa) «Utentes» os passageiros e outras pessoas que utilizam as infraestruturas aeroportuárias;\n\nbb) «Utilizadores» os operadores aéreos e os agentes de assistência em escala; as referências aos utilizadores no capítulo vi apenas abrangem os agentes de assistência em escala se as respetivas atividades e serviços prestados estiverem sujeitos a regulação económica.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2013-498683), em vigor a partir de 2013-08-05"
+  },
+  "937017098": {
+   "fragment_id": "73486086",
+   "type": 11,
+   "heading": "Artigo 3.º — Redes aeroportuárias",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2013-498683), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 3.º — Redes aeroportuárias\n\n1 - Os aeroportos ou aeródromos, situados em território português, abertos ao tráfego comercial podem ser geridos isoladamente ou podem fazer parte de uma rede aeroportuária gerida por uma entidade gestora aeroportuária, ou, em alternativa, por duas ou mais entidades gestoras aeroportuárias se estiverem numa relação de domínio total entre si.\n\n2 - Os aeroportos cuja gestão, exploração e desenvolvimento se encontram cometidos à ANA, S.A., e à ANAM, S.A., constituem uma única rede aeroportuária para efeitos do disposto no presente diploma legal e nos respetivos contratos de concessão.\n\n3 - Os termos da utilização da Infraestrutura Aeroportuária da Base Aérea n.º 11, em Beja, por aeronaves civis, para apoio ao Terminal Civil de Beja, são os definidos nos protocolos celebrados e a celebrar, entre as entidades competentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2013-498683), em vigor a partir de 2013-08-05"
+  },
+  "937017099": {
+   "fragment_id": "73486089",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito da concessão",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2013-498683), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 5.º — Âmbito da concessão\n\n1 - Sem prejuízo do disposto no n.º 6, a ANA, S.A., detém, em regime de exclusivo, a concessão de serviço público aeroportuário de apoio à aviação civil nos aeroportos de Lisboa (Portela), do Porto (Francisco Sá Carneiro), de Faro, de Ponta Delgada (João Paulo II), de Santa Maria, da Horta e das Flores e do Terminal Civil de Beja até ao termo do prazo fixado no contrato de concessão.\n\n2 - A concessão atribuída à ANA, S. A., tem por objeto a prestação de atividades e serviços aeroportuários nos aeroportos indicados no número anterior, assim como a prestação das atividades de conceção, de projeto, de construção, de reforço, de reconstrução, de extensão, de desativação e de encerramento de aeroportos, nos termos do contrato de concessão.\n\n3 - O objeto da concessão compreende ainda as atividades comerciais que possam ser desenvolvidas nos aeroportos ou noutras áreas afetas à concessão.\n\n4 - Sem prejuízo do disposto no número seguinte, a concessionária não pode desenvolver quaisquer atividades, nem prestar quaisquer serviços, que não constituam atividades e serviços aeroportuários ou atividades comerciais, sem a prévia autorização do concedente.\n\n5 - A concessionária pode, acessoriamente, prestar serviços de consultoria técnica ou outros serviços conexos no âmbito do sector dos transportes ou das infraestruturas aeroportuárias.\n\n6 - O objeto da concessão pode ser ampliado no sentido de incluir os aeroportos situados na Região Autónoma da Madeira, atualmente geridos pela ANAM, S.A., mediante alteração do contrato de concessão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2013-498683), em vigor a partir de 2013-08-05"
+  },
+  "927680367": {
+   "fragment_id": "927680224",
+   "type": 11,
+   "heading": "Artigo 24.º — Âmbito e isenções das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Âmbito e isenções das taxas\n\n1 - Pela ocupação dos terrenos, edificações ou outras instalações, bem como pelo exercício de qualquer atividade e serviço na área dos aeroportos e aeródromos públicos nacionais, e ainda pela utilização dos respetivos serviços e equipamentos, são devidas taxas.\n\n2 - Sem prejuízo do disposto no número seguinte, no conjunto dos aeroportos que constitui a rede aeroportuária nos termos do n.º 2 do artigo 3.º, não são exigíveis as taxas previstas no número anterior às Forças Armadas e forças e serviços de segurança e de fronteira, bem como à Autoridade Nacional de Proteção Civil e Corpos de Bombeiros em missões de segurança interna e proteção civil, quando no exercício de competências ou funções legais e em relação às áreas mínimas e meios de transporte oficiais ou de serviço necessários para o exercício das suas atribuições públicas, nem à Empresa de Meios Aéreos, S. A., aquando da disponibilização dos meios aéreos necessários à prossecução das missões públicas atribuídas ao Ministério da Administração Interna.\n\n3 - Pela ampliação das áreas mínimas necessárias e pela prestação de qualquer outro serviço não compreendido no número anterior, podem ser cobradas taxas às entidades aí indicadas."
+  },
+  "927680368": {
+   "fragment_id": "927680225",
+   "type": 11,
+   "heading": "Artigo 25.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Classificação\n\nAtendendo à natureza dos serviços e atividades desenvolvidos, as taxas a cobrar nos termos do n.º 1 do artigo anterior agrupam-se em taxas de tráfego, de terminal, de assistência em escala, de ocupação e outras taxas de natureza comercial."
+  },
+  "937017100": {
+   "fragment_id": "73535979",
+   "type": 11,
+   "heading": "Artigo 79.º — Regiões Autónomas",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2013-498683), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 79.º — Regiões Autónomas\n\n1 - O disposto no capítulo iii não se aplica aos aeroportos e aeródromos públicos regionais das Regiões Autónomas dos Açores e da Madeira.\n\n2 - As Regiões Autónomas dos Açores e da Madeira são sempre ouvidas no que respeita à fixação de taxas nos aeroportos públicos nacionais situados nas Regiões Autónomas.\n\n3 - O disposto nos capítulos iv, v e vi aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma que possam ser introduzidas por diploma regional adequado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2013-498683), em vigor a partir de 2013-08-05"
+  },
+  "937017101": {
+   "fragment_id": "73535982",
+   "type": 11,
+   "heading": "Artigo 82.º — Disposição transitória",
+   "in_force_from": "2013-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2013-498683), em vigor a partir de 2013-08-05"
+   ],
+   "markdown": "###### Artigo 82.º — Disposição transitória\n\n1 - Os quantitativos das taxas e a estrutura tarifária praticados, nos termos dos diplomas legais e regulamentares anteriores, inclusive nos termos dos Decretos Legislativos Regionais, mantêm-se em vigor até à sua alteração, que deve respeitar os termos previstos no presente decreto-lei.\n\n2 - É aplicável ao Terminal Civil de Beja o regime previsto no presente decreto-lei para os aeroportos, logo que se verifique a certificação pelo INAC, I. P., do terminal e das infraestruturas aeronáuticas da Base Aérea n.º 11, necessárias para a exploração do mesmo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 108/2013 - Diário da República n.º 146/2013, Série I de 2013-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2013-498683), em vigor a partir de 2013-08-05"
+  },
+  "872431074": {
+   "fragment_id": "872468665",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de outubro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva - Álvaro Santos Pereira.\n\nPromulgado em 26 de novembro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 27 de novembro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "936698044": {
+   "fragment_id": "73486091",
+   "type": 11,
+   "heading": "Artigo 7.º — Poderes e prerrogativas de autoridade da concessionária",
+   "in_force_from": "2025-04-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+   ],
+   "markdown": "###### Artigo 7.º — Poderes e prerrogativas de autoridade da concessionária\n\n1 - Sem prejuízo do que se encontre previsto na lei e do que resulte do contrato de concessão, a concessionária detém os poderes e as prerrogativas do concedente quanto:\n\na) Ao licenciamento da ocupação e do exercício de atividades e serviços em bens do domínio público aeroportuário incluídos no âmbito da concessão, bem como no que concerne à prática de todos os atos respeitantes à execução, à modificação e à extinção de licenças;\n\nb) À fixação das contrapartidas devidas pela ocupação e pelo exercício de atividades e serviços em bens do domínio público aeroportuário incluídos no âmbito da concessão;\n\nc) À cobrança coerciva das contrapartidas devidas, sendo os créditos correspondentes equiparados, para todos os efeitos legais, aos créditos do Estado e constituindo título executivo as respetivas faturas, certidões de dívidas ou documentos equivalentes;\n\nd) À expropriação por utilidade pública, na qualidade de entidade expropriante, de todos os bens imóveis e dos direitos a eles relativos que se mostrem necessários à prossecução do serviço público concessionado, sem prejuízo do exercício, nos termos do Código das Expropriações, das competências próprias do membro do Governo competente, ou das competências da Região Autónoma dos Açores, estatutariamente consagradas;\n\ne) Ao exercício, de acordo com a legislação aplicável, dos poderes decorrentes da constituição e da imposição nas áreas próximas aos aeroportos, de zonas de proteção e outras restrições de utilidade pública da ocupação e da utilização dos solos, nomeadamente de medidas preventivas;\n\nf) À implantação de traçados, ocupação de terrenos e constituição de servidões, designadamente de passagem e servidões aéreas, bem como ao aproveitamento de bens públicos que se revelem indispensáveis à realização de obras necessárias à concessão, de acordo com a legislação em vigor;\n\ng) À elaboração e aplicação de normas regulamentares no âmbito da atividade concessionada, designadamente em matéria de segurança, ambiente e acesso e utilização dos serviços englobados nas atividades e serviços aeroportuários;\n\nh) À execução coerciva das suas decisões de autoridade;\n\ni) À remoção de aeronaves estacionadas nos aeroportos concessionados, nos termos do artigo 7.º-D;\n\nj) À declaração de abandono e perda a favor do Estado de aeronaves estacionadas abusivamente nos aeroportos concessionados, nos termos do artigo 7.º-E.\n\n2 - A expropriação de bens e direitos necessários ao exercício das atividades concessionadas prevista na alínea d) do número anterior é de utilidade pública e tem caráter urgente.\n\n3 - São, igualmente, de utilidade pública a constituição de todas as servidões e áreas de proteção e demais medidas de restrição da ocupação e uso dos solos, previstas nas alíneas e) e f) do n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+  },
+  "936698049": {
+   "fragment_id": "937193283",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Aeronaves estacionadas abusivamente em infraestruturas aeroportuárias",
+   "in_force_from": "2025-04-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+   ],
+   "markdown": "###### Artigo 7.º-A — Aeronaves estacionadas abusivamente em infraestruturas aeroportuárias\n\n1 - Para efeitos do disposto nas alíneas i) e j) do n.º 1 do artigo 7.º, considera-se estacionada abusivamente:\n\na) A aeronave estacionada ininterruptamente durante mais de 90 dias, para além do período de estacionamento autorizado pela entidade gestora aeroportuária;\n\nb) A aeronave estacionada ininterruptamente, relativamente à qual seja devida uma taxa correspondente a 30 dias de utilização.\n\n2 - No caso de aeronaves com sinais exteriores evidentes de impossibilidade de ser retirada da infraestrutura aeroportuária com segurança pelos seus próprios meios, o prazo referido na alínea a) é reduzido para 60 dias.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+  },
+  "936698052": {
+   "fragment_id": "937193284",
+   "type": 11,
+   "heading": "Artigo 7.º-B — Notificação do proprietário",
+   "in_force_from": "2025-04-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+   ],
+   "markdown": "###### Artigo 7.º-B — Notificação do proprietário\n\n1 - Nas situações de aeronave estacionada abusivamente, a entidade gestora aeroportuária deve proceder à notificação, consoante os casos, do proprietário, da transportadora aérea e/ou do operador, para as respetivas moradas, para que retire a aeronave da infraestrutura aeroportuária no prazo máximo de 60 dias.\n\n2 - Se a entidade gestora aeroportuária não conseguir obter a morada, da transportadora aérea, do operador e/ou do proprietário da aeronave, é dispensada a notificação referida no número anterior, devendo ser publicado anúncio durante três dias consecutivos nos dois jornais nacionais de maior tiragem, ou, caso a transportadora aérea, o operador e/ou proprietário tenham residência ou estabelecimento permanente fora do território nacional, nos dois jornais de maior tiragem do país em que a transportadora aérea, o operador e/ou proprietário tenham residência ou estabelecimento permanente.\n\n3 - O prazo referido no n.º 1 conta-se a partir da receção da notificação ou do último dia da publicação de anúncio nos termos do n.º 2.\n\n4 - A notificação e o anúncio devem indicar o local onde a aeronave se encontra e referir a obrigação de a mesma ser retirada dentro do prazo, após pagamento das todas as taxas e despesas inerentes ao estacionamento e à remoção, nos termos do artigo 7.º -D, sob pena de aplicação da cominação legal prevista no artigo 7.º-E.\n\n5 - Quando tenha sido notificado o proprietário da aeronave e sobre a mesma incidir uma hipoteca, uma reserva de propriedade, penhora ou ato equivalente, deve aquele comunicá-lo à entidade gestora aeroportuária no prazo de 10 dias a contar da notificação, identificando os credores e/ou outros interessados, aplicando-se, o previsto no artigo seguinte.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+  },
+  "936698055": {
+   "fragment_id": "937193285",
+   "type": 11,
+   "heading": "Artigo 7.º-C — Hipoteca e penhora",
+   "in_force_from": "2025-04-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+   ],
+   "markdown": "###### Artigo 7.º-C — Hipoteca e penhora\n\n1 - Quando a aeronave seja objeto de hipoteca, a remoção deve igualmente ser notificada ao credor, para a morada constante do registo nos termos do n.º 1 do artigo 7.º-B.\n\n2 - Quando a aeronave tenha sido objeto de penhora ou ato equivalente, a entidade gestora aeroportuária deve informar o tribunal das circunstâncias que justificaram a sua remoção.\n\n3 - As notificações referidas no número anterior devem ser enquadradas no regime legal aplicável ao estacionamento abusivo, previsto no presente diploma, fazendo referência expressa às normas aplicáveis e respetivas cominações.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+  },
+  "936698058": {
+   "fragment_id": "937193286",
+   "type": 11,
+   "heading": "Artigo 7.º-D — Remoção de aeronaves estacionadas nas infraestruturas aeroportuárias",
+   "in_force_from": "2025-04-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+   ],
+   "markdown": "###### Artigo 7.º-D — Remoção de aeronaves estacionadas nas infraestruturas aeroportuárias\n\n1 - A entidade gestora aeroportuária pode promover a remoção imediata de aeronave estacionada na infraestrutura aeroportuária para local adequado, nos seguintes casos:\n\na) Por razões de emergência ou de socorro que justifiquem a remoção;\n\nb) Por evidente perigo ou grave perturbação da operação ou da segurança aeroportuárias;\n\nc) Por estacionamento abusivo quando, notificado o proprietário, a transportadora ou o operador, nos termos dos artigos 7.º-A e 7.º-B, e estes não procedam à sua remoção.\n\n2 - Para os efeitos do disposto na alínea b) do número anterior, entende-se que constituem evidente perigo ou grave perturbação da operação ou da segurança aeroportuárias, nomeadamente, os seguintes casos:\n\na) Estacionamento nos locais em que tal impeça o normal acesso a outras aeronaves ou pontes telescópicas;\n\nb) Estacionamento em zonas destinadas a movimentação e estacionamento de aeronaves;\n\nc) Razões ambientais e saúde pública, onde se inclui o risco de contaminação de solos e recursos hídricos, entre outros, influenciados pelo estado de conservação e tipologia dos materiais e conteúdos existentes na aeronave;\n\nd) Risco de colisão de aeronaves com aves, por aumento da atração de aves locais devido ao pouso, abrigo e nidificação proporcionados pela aeronave sem movimentação prolongada em áreas operacionais.\n\n3 - São da responsabilidade do proprietário, da transportadora aérea, ou do operador da aeronave, consoante os casos, todas as despesas decorrentes do estacionamento da aeronave e da remoção da mesma, nos termos dos números anteriores, sem prejuízo das sanções legais aplicáveis, e ressalvado o direito de regresso contra a transportadora aérea, ou o operador da aeronave, sempre que estes não sejam os proprietários da aeronave.\n\n4 - Sempre que tenha de proceder à remoção de aeronaves abusivamente estacionadas, a entidade gestora aeroportuária não é responsável por danos causados na aeronave removida e ocorridos na operação de remoção, salvo se os mesmos resultarem de dolo ou negligência da sua parte.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+  },
+  "936698061": {
+   "fragment_id": "937193287",
+   "type": 11,
+   "heading": "Artigo 7.º-E — Declaração de abandono",
+   "in_force_from": "2025-04-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+   ],
+   "markdown": "###### Artigo 7.º-E — Declaração de abandono\n\n1 - Uma vez cumpridas as disposições legais aplicáveis, se a aeronave abusivamente estacionada não for retirada dentro dos prazos previstos no artigo 7.º-B considera-se abandonada, para efeitos do disposto nos números seguintes.\n\n2 - Quando o seu proprietário manifeste expressamente que uma aeronave deve ser considerada abandonada, a mesma é também considerada como tendo sido abandonada, para efeitos do presente decreto-lei.\n\n3 - Nas situações previstas no n.º 1, a entidade gestora aeroportuária decide provisoriamente pela suscetibilidade de perda em favor do Estado, ficando a aeronave à disposição do Concedente, o qual pode, através de despacho do membro do Governo responsável pela área das infraestruturas, indicar uma entidade ou organismo públicos para a sua avaliação, e eventual venda, destruição ou desmantelamento.\n\n4 - O proprietário, a transportadora aérea ou o operador, são notificados para as respetivas moradas, consoante os casos, de que a aeronave foi considerada abandonada e posta à disposição do Concedente e de que poderão reclamar da decisão da entidade gestora aeroportuária, no prazo de 30 dias.\n\n5 - Se a entidade gestora aeroportuária decidir provisoriamente pela insuscetibilidade de perda em favor do Estado, ordena a restituição da posse da aeronave ao seu dono ou legítimo possuidor, comunicando a decisão ao Concedente.\n\n6 - Nos casos de perda definitiva da aeronave a favor do Estado, a entidade gestora aeroportuária envia ao Concedente, certidão da decisão de declarar a aeronave definitivamente perdida a favor do Estado.\n\n7 - O Concedente, ou a entidade ou organismo público referidos no n.º 3, procede à avaliação da aeronave para efeitos de determinação da sua venda, destruição ou desmantelamento, consoante os casos, tendo a entidade gestora aeroportuária o dever de colaboração com o Concedente, ou entidade ou organismo públicos por este indicado, para os referidos fins.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+  },
+  "936698062": {
+   "fragment_id": "73486092",
+   "type": 11,
+   "heading": "Artigo 8.º — Utilização e acesso às Salas VIP dos aeroportos públicos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Utilização e acesso às Salas VIP dos aeroportos públicos nacionais\n\n1 - Compete ao Protocolo do Estado propor ao membro do Governo responsável pela área dos negócios estrangeiros a definição, por despacho, das modalidades de utilização das Salas VIP dos aeroportos públicos nacionais por entidades nacionais e estrangeiras.\n\n2 - A concessionária é responsável pela manutenção e conservação das Salas VIP dos aeroportos públicos nacionais, de modo a assegurar o gozo pleno dos espaços para o fim a que os mesmos se destinam.\n\n3 - Não são devidas quaisquer taxas pela manutenção e conservação das Salas VIP dos aeroportos públicos nacionais, bem como pela utilização destes espaços, nos termos das regras do Protocolo do Estado."
+  },
+  "936698063": {
+   "fragment_id": "73486093",
+   "type": 11,
+   "heading": "Artigo 9.º — Regime da concessão de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime da concessão de serviço público\n\nO regime geral da concessão de serviço público atribuída à ANA, S. A., tal como regulado pelo presente decreto-lei, não prejudica a aplicação do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro."
+  },
+  "936698045": {
+   "fragment_id": "73486116",
+   "type": 11,
+   "heading": "Artigo 29.º — Taxa de serviço a passageiros",
+   "in_force_from": "2025-04-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+   ],
+   "markdown": "###### Artigo 29.º — Taxa de serviço a passageiros\n\n1 - É devida a taxa de serviço a passageiros pelo serviço prestado a cada passageiro embarcado em voo comercial ou não comercial, podendo ser diferenciada em função dos critérios do destino do passageiro, do serviço prestado e do tipo de infraestrutura utilizada para o efeito, critérios esses aplicáveis de forma alternativa ou cumulativa.\n\n2 - A taxa de serviço a passageiros é cobrada nos voos comerciais ao transportador, que a pode repercutir nos passageiros, e nos voos não comerciais ao operador da aeronave.\n\n3 - Estão isentos do pagamento da taxa de serviço a passageiros:\n\na) As crianças com menos de 2 anos;\n\nb) Os passageiros em trânsito direto;\n\nc) Os passageiros em transferência nos aeroportos ou aeródromos das Regiões Autónomas dos Açores e da Madeira sujeitos a taxa de serviço a passageiros, que tenham como destino final uma outra ilha da respetiva Região Autónoma;\n\nd) Os passageiros de aeronaves que, por motivo de ordem técnica, meteorológica ou contingência similar, sejam forçados a regressar ao aeroporto ou aeródromo;\n\ne) Os passageiros que embarquem nas aeronaves a que se referem as alíneas a), b) e c) do n.º 4 e o n.º 5 do artigo 26.º\n\n4 - As entidades gestoras aeroportuárias podem exigir prova das condições justificativas do direito às isenções referidas no número anterior.\n\n5 - Sem prejuízo do disposto no n.º 1, pode ser cobrada uma taxa diferente para os passageiros em transferência.\n\n6 - O transportador e o operador devem assegurar o correto preenchimento e entrega dos formulários de tráfego dos respetivos voos, podendo as entidades gestoras aeroportuárias solicitar documentação adicional que comprove o número efetivo de passageiros embarcados, com vista ao apuramento do montante da taxa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+  },
+  "936698046": {
+   "fragment_id": "73486141",
+   "type": 11,
+   "heading": "Artigo 48.º — Âmbito objetivo e isenções da taxa",
+   "in_force_from": "2025-04-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+   ],
+   "markdown": "###### Artigo 48.º — Âmbito objetivo e isenções da taxa\n\n1 - A taxa de segurança constitui a contrapartida dos serviços afetos à segurança da aviação civil, para prevenção e repressão de atos ilícitos, prestados aos passageiros do transporte aéreo e é destinada à cobertura parcial dos encargos respeitantes aos meios humanos e materiais empregues.\n\n2 - A taxa de segurança é devida por cada passageiro embarcado em todos os aeroportos e nos aeródromos, situados em território português, constante de lista publicada por portaria do membro do Governo responsável pela área dos transportes.\n\n3 - A taxa de segurança é cobrada nos voos comerciais ao transportador, que a pode repercutir nos passageiros, e nos voos não comerciais ao operador da aeronave.\n\n4 - São isentos do pagamento da taxa de segurança:\n\na) As crianças com menos de 2 anos;\n\nb) Os passageiros em trânsito direto;\n\nc) Os passageiros em transferência nos aeroportos ou aeródromos das Regiões Autónomas dos Açores e da Madeira sujeitos a taxa de segurança, que tenham como destino final uma outra ilha da respetiva Região Autónoma;\n\nd) Os passageiros que, incluídos em missões oficiais, embarquem em aeronaves ao serviço privativo do Estado Português ou de Estado estrangeiro, em regime de reciprocidade.\n\n5 - As entidades gestoras aeroportuárias podem exigir prova das condições justificativas do direito às reduções e isenções referidas no presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+  },
+  "936698047": {
+   "fragment_id": "73486148",
+   "type": 11,
+   "heading": "Artigo 55.º — Contraordenações",
+   "in_force_from": "2025-04-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+   ],
+   "markdown": "###### Artigo 55.º — Contraordenações\n\n1 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, constitui contraordenação aeronáutica civil muito grave o incumprimento, pelas transportadoras aéreas ou operadores de aeronaves, do dever de proceder à entrega de todo ou parte do produto da taxa de segurança a que se refere o n.º 1 do artigo 50.º, no prazo legalmente fixado para o efeito, desde que o montante em dívida seja igual ou superior a € 10 000,00.\n\n2 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, constituem contraordenações aeronáuticas civis graves:\n\na) O incumprimento, pelas transportadoras aéreas ou operadores de aeronaves, do dever de proceder à entrega de todo ou parte do produto da taxa de segurança a que se refere o n.º 1 do artigo 50.º, no prazo legalmente fixado para o efeito, desde que o montante em dívida seja superior a € 2500,00, e inferior a € 10 000,00;\n\nb) A devolução, pelas transportadoras aéreas ou operadores de aeronaves, do formulário de tráfego utilizado para efeitos de apuramento dos valores cobrados referentes à taxa de segurança, com um período de atraso igual ou superior a 24 horas de atraso em relação ao prazo legalmente fixado para a referida devolução;\n\nc) O envio à ANAC, pela entidade gestora aeroportuária, do formulário de tráfego preenchido pelas transportadoras aéreas ou operadores de aeronaves, para efeitos de faturação a estes últimos, com um período de atraso superior a quatro dias úteis em relação ao prazo legalmente fixado para o efeito;\n\nd) A devolução à entidade gestora aeroportuária, por parte das transportadoras aéreas ou operadores de aeronaves, dos formulários de tráfego sem a informação correta e completa, bem como sem a respetiva autenticação e assinatura dos seus representantes autorizados para o efeito.\n\n3 - Para efeitos de aplicação do regime das contraordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de janeiro, constituem contraordenações aeronáuticas civis leves:\n\na) O incumprimento, pelas transportadoras aéreas ou operadores de aeronaves, do dever de proceder à entrega de todo ou parte do produto da taxa de segurança a que se refere o n.º 1 do artigo 50.º, no prazo legalmente fixado para o efeito, desde que o montante em dívida não seja superior a € 2500,00;\n\nb) A devolução, pelas transportadoras aéreas ou operadores de aeronaves, do formulário de tráfego utilizado para efeitos de apuramento dos valores cobrados referentes à taxa de segurança, com um período de atraso inferior a 24 horas em relação ao prazo legalmente fixado para a referida devolução;\n\nc) O envio à ANAC, pela entidade gestora aeroportuária, do formulário de tráfego preenchido pelas transportadoras aéreas ou operadores de aeronaves, para efeitos de faturação a estes últimos, até quatro dias úteis após o prazo legalmente fixado para o efeito.\n\n4 - A punição por contraordenação pode ser publicitada, nos termos previstos no artigo 13.º do Decreto-Lei n.º 10/2004, de 9 de janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+  },
+  "936698048": {
+   "fragment_id": "73486168",
+   "type": 11,
+   "heading": "Artigo 71.º — Consulta e recurso",
+   "in_force_from": "2025-04-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+   ],
+   "markdown": "###### Artigo 71.º — Consulta e recurso\n\n1 - O funcionamento do sistema e da estrutura tarifária e, se necessário, da qualidade dos serviços prestados está sujeito a consultas anuais entre a entidade gestora aeroportuária e os utilizadores ou os representantes ou associações de utilizadores, salvo decisão tomada em contrário na última consulta.\n\n2 - Caso exista um acordo plurianual entre a entidade gestora aeroportuária e os utilizadores ou os representantes ou associações de utilizadores as consultas referidas no número anterior realizam-se nos termos do referido acordo.\n\n3 - As consultas previstas no n.º 1 devem ser apresentadas aos utilizadores ou aos representantes ou associações de utilizadores até 120 dias antes da respetiva entrada em vigor das alterações propostas, salvo em circunstâncias excecionais, devidamente justificadas perante os utilizadores ou os representantes ou associações de utilizadores.\n\n4 - Após a realização da consulta prevista no número anterior, a entidade gestora aeroportuária deve enviar uma informação ao INAC, I. P., e aos utilizadores ou aos representantes ou associações de utilizadores da qual constem os resultados da mesma e a decisão proposta.\n\n5 - A decisão da entidade gestora aeroportuária deve ser publicada na sua página eletrónica na Internet até 60 dias antes da respetiva entrada em vigor.\n\n6 - Caso a entidade gestora aeroportuária e os utilizadores ou os representantes ou associações de utilizadores não cheguem a acordo sobre as alterações propostas, a primeira deve fundamentar a sua decisão.\n\n7 - Caso os utilizadores ou os representantes ou associações de utilizadores não concordem com qualquer alteração concreta preconizada pela entidade gestora aeroportuária, podem apresentar reclamação fundamentada junto do INAC, I. P., no prazo de 15 dias contados a partir da data da respetiva receção nos termos no n.º 4.\n\n8 - O INAC, I. P., deve rejeitar liminarmente as reclamações que considere não devidamente fundamentadas ou documentadas.\n\n9 - A alteração concretamente preconizada pela entidade gestora aeroportuária e objeto de reclamação não produz efeitos até ser analisada pelo INAC, I. P.\n\n10 - O INAC, I. P., tem acesso às informações necessárias das partes interessadas, consultando-as para tomar a sua decisão.\n\n11 - No prazo de 30 dias após a questão ter sido submetida à sua apreciação, o INAC, I. P., deve tomar uma decisão provisória sobre a entrada em vigor da alteração do sistema ou da estrutura tarifária, a não ser que a decisão final possa ser tomada no mesmo prazo.\n\n12 - A decisão final do INAC, I. P., é tomada no prazo de 120 dias a contar da data em que a questão tenha sido submetida à sua apreciação, salvo em casos excecionais devidamente justificados, nos quais o indicado prazo pode ser prorrogado durante 60 dias.\n\n13 - A decisão final do INAC, I. P., deve ser tomada com base em critérios que sejam objetivos, transparentes e não discriminatórios, constituindo a ausência de decisão nos prazos fixados no número anterior indeferimento da reclamação.\n\n14 - Sem prejuízo de impugnação administrativa ou judicial, as decisões do INAC, I. P., são juridicamente vinculativas e produzem efeitos imediatos.\n\n15 - A perda de receita pelo adiamento da entrada em vigor da taxa sob reclamação, ou o excesso cobrado decorrente de decisão do INAC, I. P., tomada nos termos do n.º 11, deve ser tido em conta nos ajustamentos tarifários que venham a ocorrer posteriormente à decisão definitiva do INAC, I. P., ou à decisão judicial transitada em julgado.\n\n16 - Sem prejuízo do disposto no número anterior, a perda de receita decorrente da entrada em vigor da taxa de segurança em momento posterior à decisão final sobre as taxas reguladas por motivos não imputáveis à concessionária, ou o excesso cobrado, deve ser tido em conta nos ajustamentos tarifários que venham a ocorrer posteriormente à entrada em vigor da taxa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2025-913048490), em vigor a partir de 2025-04-30"
+  }
+ }
+}

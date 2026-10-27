@@ -1,0 +1,205 @@
+---
+schema_version: '1.0'
+id: pt:dre:254669:por
+title: Decreto Legislativo Regional n.º 1/2002/M
+short_title: null
+summary: Procede a adaptações do Decreto-Lei n.º 309/93, de 2 de Setembro, alterado pelos Decretos-Leis n.os 218/94, de 20
+  de Agosto, 151/95, de 24 de Junho, 113/97, de 10 de Maio, e 380/99, de 22 de Setembro, relativo à elaboração e aprovação
+  dos planos de ordenamento da orla costeira (POOC)
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 1/2002/M
+official_date: null
+publication_date: '2002-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2002, Série I-A de 2002-02-28
+  number: '50'
+  series: I
+  supplement: null
+  pages: 1664 - 1665
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/02/050a00/16641665.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/1/2002/02/28/m/dre/pt/html
+  oj: null
+  dre: '254669'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/1-2002-254669
+  internal: pt:dre:254669:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2002-254669
+  metadata_url: https://data.dre.pt/eli/declegreg/1/2002/02/28/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2002-254669
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:40:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 67ef325f1ee582726a360e5fc36c4d41a8148b88c7906d4bad90a6225020a026
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:40:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direcção Regional do Ambiente
+- Direcção Regional do Ambiente e do Ordenamento do Território
+- Madeira.região Autónoma
+- Ordenamento do Território
+- Orla Costeira
+- Plano de Ordenamento da Orla Costeira
+- Política de Solos
+- Protecção do Litoral
+relationships:
+- type: amended_by
+  target: pt:dre:159120:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:218348:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/218/1994/08/20/p/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314198:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/7/2001/05/11/m/dre
+- type: cites
+  target: pt:dre:384183:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/113/1997/05/10/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475371:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/151/1995/06/24/p/dre
+- type: cites
+  target: pt:dre:547976:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/20/1995/08/30/m/dre
+- type: cites
+  target: pt:dre:559019:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/1999/09/22/p/dre
+- type: cites
+  target: pt:dre:582847:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/43/2000/12/12/m/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:633152:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/309/1993/09/02/p/dre
+- type: cites
+  target: pt:dre:692199:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/8-a/2001/04/20/m/dre
+- type: repealed_by
+  target: pt:dre:159120:por
+  label: "Revogado pelo DLR.7/2002/M.2002.04.26.ALR-RAM, DR.IS-A [112] de 15/Mai/2002 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/7-2002-159120
+  date: '2002-04-26'
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:40:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 1/2002/M
+
+Procede a adaptações do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, alterado pelos Decretos-Leis n.os [218/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1994-218348), de 20 de Agosto, [151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho, [113/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1997-384183), de 10 de Maio, e [380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, relativo à elaboração e aprovação dos planos de ordenamento da orla costeira (POOC).
+
+O [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, que regula a elaboração e a aprovação dos planos de ordenamento da orla costeira, designados por POOC, na redacção conferida pelo [Decreto-Lei n.º 218/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1994-218348), de 20 de Agosto, e já no reconhecimento das características e especificidades próprias, dado o seu carácter insular, da orla costeira das Regiões Autónomas, atribuiu aos serviços competentes dos respectivos órgãos de governo próprio a competência para promover a elaboração de tais planos.
+
+Ciente do seu dever constitucional de promover políticas activas de ordenamento do espaço territorial e também da particular vulnerabilidade dos valores ambientais e paisagísticos em causa, o Governo Regional da Madeira deu início à elaboração de vários POOC, abrangendo, por troços, toda a costa das ilhas da Madeira e de Porto Santo. Porém, a necessidade de articulação das suas opções com as do Plano para o Ordenamento do Território na Região Autónoma da Madeira (POTRAM) e com as dos planos directores municipais para as respectivas zonas de influência - planos cuja elaboração fora entretanto iniciada - e, bem assim, a constatação, por acontecimentos então ocorridos, da imprescindibilidade de neles serem tidos em consideração factores até aí não valorados, designadamente mediante elaboração de cartas de risco, conduziram a que a conclusão dos POOC se não tenha ainda efectivado.
+
+Entretanto, a publicação do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, que veio estabelecer o regime jurídico dos instrumentos de gestão territorial, e a sua adaptação à Região, efectuada pelo [Decreto Legislativo Regional n.º 8-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-a-2001-692199), de 20 de Abril, vieram conferir um novo enquadramento jurídico ao procedimento de elaboração dos POOC, traduzindo-se em elementos impulsionadores da sua prossecução, em termos de poderem vir a desempenhar cabalmente as funções específicas para que foram previstos.
+
+Contudo, e apesar de quanto se acaba de referir, a morosidade inerente ao processo de planeamento não pode compadecer-se com a aplicação da norma contida no n.º 1 do artigo 17.º do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), relativa à atribuição de usos privativos que impliquem novas construções e instalações, norma que, ainda que destinada a perdurar apenas até à aprovação dos POOC, se vem revelando desajustada da realidade desta Região Autónoma obstaculizando o seu desenvolvimento económico e social.
+
+Na verdade, a presunção de dominialidade relativa a todas as parcelas de terreno inseridas na margem das águas do mar, a inadequação da dimensão física da margem, no que respeita às ilhas desta Região Autónoma, e o formalismo dos procedimentos administrativos inerentes ao reconhecimento de direitos de propriedade privada sobre prédios integrados na margem - mesmo que documentalmente titulados -, colocando dificuldades por vezes inultrapassáveis aos respectivos proprietários, levam a que a atribuição de usos privativos em tais faixas territoriais constitua o único instrumento célere e eficaz ao dispor da Administração, quando pretenda viabilizar projectos a que reconheça um incontestável interesse público. Como decorrência, aliás, da alteração introduzida pela recente revisão do Estatuto Político-Administrativo da Região Autónoma da Madeira, no que respeita à titularidade dos bens do domínio público e ainda da percepção da necessidade de redimensionar a margem das águas do mar, promover-se-á uma iniciativa legislativa visando o estreitamento, em certas situações, da largura da margem, o que também não deixará de vir a reflectir-se, necessariamente, sobre o próprio objecto dos POOC.
+
+Reconhecendo-se, no entanto, que aquela norma teve por objectivo acautelar situações de desajustamento em relação ao planeamento futuro, considera-se, não obstante, que, no momento presente, a existência do POTRAM e de vários planos municipais de ordenamento do território eficazes assegurarão cabalmente a protecção dos interesses em causa.
+
+Pretende-se, pois, com o presente diploma possibilitar a atribuição de usos privativos de parcelas dominiais da orla costeira, ainda que impliquem novas construções ou instalações fixas e indesmontáveis, sempre que os fins a que se destinem sejam compatíveis com as opções constantes do POTRAM e do plano municipal para a área.
+
+Porém, partilhando das preocupações subjacentes ao diploma de salvaguardar a adopção de adequadas opções de planeamento, entende-se apenas admitir a atribuição de usos privativos em locais já classificados como de produção de solo urbano por via do POTRAM ou de plano municipal de ordenamento do território plenamente eficaz e ainda sujeitar o projecto da instalação a levar a efeito a parecer das entidades que exerçam competências relativas a essa área do domínio público marítimo, fixando-se os critérios a considerar em tal pronúncia.
+
+Aproveita-se o ensejo para proceder à revogação do [Decreto Legislativo Regional n.º 20/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1995-547976), de 30 de Agosto, por estar hoje desactualizado, indicando-se, no entanto, as entidades competentes para declararem uma praia como «praia de uso suspenso», bem como para definir a faixa da zona terrestre de protecção, sendo que, no que concerne à definição das demais entidades com poderes de intervenção nas matérias a que o mesmo se reporta, as respectivas competências decorrem já do estatuído, conjugadamente no [Decreto Legislativo Regional n.º 8-A/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-a-2001-692199) e nos Decretos Regulamentares Regionais n.os [43/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-2000-582847), de 12 de Dezembro, e [7/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2001-314198), de 11 de Maio.
+
+Assim:
+
+A Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e na alínea g) do artigo 228.º da Constituição da República, na alínea c) do n.º 1 do artigo 37.º e nas alíneas i) e mm) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, o seguinte:
+
+###### Artigo 1.º — Usos privativos
+
+1 - Sem prejuízo do disposto no artigo 17.º do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os [218/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1994-218348), de 20 de Agosto, e [113/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1997-384183), de 10 de Maio, até à aprovação dos planos de ordenamento da orla costeira (POOC), podem ser atribuídos usos privativos que impliquem novas construções e instalações fixas e indesmontáveis na área por eles abrangida, desde que localizadas em espaço classificado como de produção de solo urbano no Plano para o Ordenamento do Território na Região Autónoma da Madeira (POTRAM) ou em plano municipal de ordenamento do território eficaz.
+
+2 - A atribuição de usos privativos a que se refere o número anterior é precedida de parecer das entidades com competências respeitantes à área em causa, nomeadamente da Direcção Regional de Ordenamento do Território e da Direcção Regional do Ambiente.
+
+3 - Nos respectivos pareceres, a Direcção Regional de Ordenamento do Território e a Direcção Regional do Ambiente procurarão acautelar a prossecução dos princípios a atender na elaboração dos POOC e salvaguardar a articulação e coerência da proposta com os objectivos e regras já consignados nos instrumentos de gestão territorial eficazes para o território em causa.
+
+###### Artigo 2.º — Competências
+
+1 - A competência a que se refere o n.º 2 do artigo 20.º do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, preceito aditado pelo [Decreto-Lei n.º 218/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1994-218348), de 20 de Agosto, é exercida, mediante portaria conjunta, pelos secretários regionais que detenham a tutela dos sectores do ambiente e do ordenamento do território e pelos secretários regionais competentes em razão da matéria.
+
+2 - A competência a que se refere o n.º 6 do artigo 20.º do [Decreto-Lei n.º 309/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-1993-633152), de 2 de Setembro, preceito aditado pelo [Decreto-Lei n.º 218/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1994-218348), de 20 de Agosto, é exercida, mediante portaria, pelo secretário regional que detenha a tutela do sector do ordenamento do território.
+
+###### Artigo 3.º — Revogação
+
+É revogado o [Decreto Legislativo Regional n.º 20/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1995-547976), de 30 de Agosto.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa Regional em 17 de Janeiro de 2002.
+
+O Presidente da Assembleia Legislativa Regional, em exercício, Miguel José Luís de Sousa.
+
+Assinado em 11 de Fevereiro de 2002.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

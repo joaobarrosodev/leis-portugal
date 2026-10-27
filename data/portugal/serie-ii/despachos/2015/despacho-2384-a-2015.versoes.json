@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66679744:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho/2015-107556786",
+ "dre_path": "/dr/detalhe/despacho/2384-a-2015-66679744",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-03-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107550564",
+    "107550565",
+    "107550566",
+    "107550567",
+    "107550568",
+    "107550569",
+    "107550570"
+   ]
+  },
+  {
+   "date": "2017-06-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107549823:por",
+     "title": "Portaria n.º 197/2017",
+     "published": "2017-06-23",
+     "dre_path": "/dr/detalhe/portaria/197-2017-107549823"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "107550564",
+    "107550565",
+    "107550571",
+    "107550572",
+    "107550573",
+    "107550574",
+    "107550570"
+   ]
+  }
+ ],
+ "fragments": {
+  "107550564": {
+   "fragment_id": "107556787",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho n.º 2384-A/2015\n\nCom a alteração ao artigo 9.º do Decreto-Lei n.º 139/2012, de 5 de julho, na redação do Decreto-Lei n.º 91/2013, de 10 de julho, através do Decreto-Lei n.º 176/2014, de 12 de dezembro, foi introduzido, com caráter obrigatório, o ensino do Inglês no 3.º e 4.º ano de escolaridade do 1.º ciclo do ensino básico.\n\nNos termos do artigo 10.º do Decreto-Lei n.º 176/2014, de 12 de dezembro, essa medida entra em vigor para o 3.º ano de escolaridade no ano letivo de 2015-2016 e para o 4.º ano de escolaridade no ano letivo de 2016-2017.\n\nO recrutamento de professores para o ensino do Inglês nos 3.º e 4.º anos de escolaridade do 1.º ciclo do ensino básico far-se-á para o grupo de recrutamento 120, criado pelo mesmo diploma legal.\n\nTendo em vista o início da aplicação daquela medida no ano letivo de 2015/2016, o Decreto-Lei n.º 176/2014, de 12 de dezembro, previu, entre outras medidas, a possibilidade de os titulares de qualificação profissional para a docência nos grupos de recrutamento 110, 220 e 330 que já detenham, ou venham a realizar, formação certificada no domínio do ensino de inglês no 1.º ciclo do ensino básico, poderem adquirir qualificação profissional para a docência no grupo 120 nos termos a fixar por portaria do membro do Governo responsável pelas áreas da educação e do ensino superior.\n\nNos termos do n.º 2 do artigo 6.º e n.º 3 do artigo 13.º da Portaria n.º 260-A/2014, de 15 de dezembro, o processo de certificação da qualificação profissional para a docência no grupo de recrutamento 120 e o modo de apuramento da duração da experiência de ensino de Inglês no 1.º ciclo do ensino básico adquirida no âmbito da Oferta Complementar ou das Atividades de Enriquecimento do Currículo são efetuados mediante despacho do Diretor-Geral da Administração Escolar.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 6.º e n.º 3 do artigo 13.º da Portaria n.º 260-A/2014, de 15 de dezembro, determino:\n\nI - Objeto"
+  },
+  "107550565": {
+   "fragment_id": "107556788",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O presente despacho regulamenta o processo de certificação da qualificação profissional para a docência no grupo de recrutamento 120 - Inglês do 1.º ciclo do ensino básico.\n\n2 - O presente despacho regulamenta ainda o modo de apuramento da duração da experiência de ensino de Inglês no 1.º ciclo do ensino básico adquirida no âmbito da Oferta Complementar ou das Atividades de Enriquecimento do Currículo, previstas no Decreto-Lei n.º 139/2012, de 5 de julho, na sua redação atual.\n\nII - Processo de Certificação da Qualificação Profissional"
+  },
+  "107550566": {
+   "fragment_id": "107556789",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A certificação da qualificação profissional para a docência no grupo de recrutamento 120 é da competência do Diretor-Geral da Administração Escolar.\n\n2 - A certificação da qualificação profissional referida no número anterior obedece ao procedimento previsto nos números seguintes.\n\n3 - O procedimento de certificação da qualificação profissional para a docência no grupo de recrutamento 120 implica a obrigatoriedade de utilização dos meios eletrónicos a disponibilizar no sítio da internet da Direção-Geral da Administração Escolar.\n\n4 - Para aceder aos meios eletrónicos referidos no número anterior, o requerente deve registar-se como utilizador na página eletrónica da Direção-Geral da Administração Escolar, se ainda o não tiver efetuado anteriormente.\n\n5 - O pedido de emissão do certificado efetua-se mediante requerimento de modelo aprovado por despacho do Diretor-Geral da Administração Escolar, a disponibilizar no sítio a que se referem os números anteriores.\n\n6 - O pedido de emissão de certificado deve ser apresentado no prazo fixado em aviso a publicitar pela Direção-Geral da Administração Escolar no seu sítio de internet.\n\n7 - O pedido deve ser instruído com os seguintes documentos:\n\na) Cópia de documento comprovativo da identificação civil;\n\nb) Certificado de habilitações da formação inicial que confere ao requerente a qualificação profissional para os grupos de recrutamento 110, 220, ou 330;\n\nc) Declaração de estágio ou de prática pedagógica supervisionada, quando aplicável;\n\nd) Declaração (s) comprovativa (s) de um ano de experiência de ensino de Inglês no 1.º ciclo do ensino básico adquirida no âmbito da Oferta Complementar ou das Atividades de Enriquecimento do Currículo.\n\n8 - Os requerentes com qualificação profissional para a docência no grupo de recrutamento 110 devem ainda apresentar documentos comprovativos de uma das seguintes qualificações:\n\na) Complemento de formação superior correspondente ao grupo de recrutamento 110, nos termos conjugados da subalínea i) da alínea b) do artigo 3.º e n.º 1 do artigo 7.º da Portaria n.º 260-A/2014, de 15 de dezembro;\n\nb) Diplomas CELTA e YL;\n\nc) Módulos READY, STEADY e GO do diploma CiPELT.\n\n9 - Os requerentes com qualificação profissional para a docência no grupo de recrutamento 220 devem ainda apresentar documentos comprovativos de uma das seguintes qualificações:\n\na) Complemento de formação superior correspondente ao grupo de recrutamento 220, nos termos conjugados da subalínea i) da alínea b) do artigo 4.º e n.º 2 do artigo 7.º da Portaria n.º 260-A/2014, de 15 de dezembro;\n\nb) Módulos STEADY e GO do diploma CiPELT.\n\n10 - Os requerentes com qualificação profissional para a docência no grupo de recrutamento 330 devem ainda apresentar documentos comprovativos de uma das seguintes qualificações:\n\na) Complemento de formação superior correspondente ao grupo de recrutamento 330, nos termos conjugados da subalínea i) da alínea b) do artigo 5.º e n.º 3 do artigo 7.º da Portaria n.º 260-A/2014, de 15 de dezembro;\n\nb) Módulos STEADY e GO do diploma CiPELT.\n\n11 - Compete aos serviços da Direção-Geral da Administração Escolar proceder à validação dos elementos introduzidos pelos requerentes, no prazo a fixar no aviso a que se refere o n.º 6.\n\n12 - Para os efeitos previstos no número anterior, a entidade de validação pode solicitar a apresentação de fotocópia certificada dos documentos a enviar por via postal, no prazo indicado no respetivo ofício de notificação.\n\n13 - No fim das diligências previstas no número anterior, se às mesmas houver lugar, o Diretor-Geral da Administração Escolar procede à emissão do certificado individual.\n\n14 - Os requerentes cujos elementos declarados não sejam validados pela entidade de validação são notificados do indeferimento do seu pedido de certificação por via postal com aviso de receção.\n\n15 - Do indeferimento previsto no número anterior cabe reclamação necessária para o Diretor-Geral da Administração Escolar a apresentar em suporte de papel no prazo de 5 dias úteis contados da data de notificação referida no número anterior.\n\nIII - Certificação da Experiência Profissional"
+  },
+  "107550567": {
+   "fragment_id": "107556790",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - É requisito cumulativo para a qualificação profissional para a docência no grupo de recrutamento 120 ter um ano de experiência de ensino de inglês no 1.º ciclo do ensino básico.\n\n2 - A experiência de ensino referida no número anterior deve ter sido adquirida no âmbito da Oferta Complementar ou das Atividades de Enriquecimento do Currículo, a que se referem o n.º 3 do artigo 12.º e o artigo 14.º do Decreto-Lei n.º 139/2012, de 5 de julho, na sua redação atual.\n\n3 - A experiência de ensino referida no número anterior pode ter sido adquirida no ensino particular e cooperativo, nos termos do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 139/2012, de 5 de julho, na sua redação atual."
+  },
+  "107550568": {
+   "fragment_id": "107556791",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Para efeitos do presente despacho, considera-se um ano de experiência de ensino de inglês no 1.º ciclo do ensino básico correspondente a um ano letivo.\n\n2 - O apuramento do tempo de experiência previsto no número anterior é independente do número de horas de trabalho contratadas."
+  },
+  "107550569": {
+   "fragment_id": "107556792",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - A emissão da declaração do tempo de experiência de ensino de Inglês no 1.º ciclo do ensino básico adquirido no âmbito da Oferta Complementar ou das Atividades de Enriquecimento do Currículo é da competência do diretor do estabelecimento de ensino onde o requerente prestou a sua atividade, mediante requerimento do interessado.\n\n2 - O tempo de experiência é titulado por documento comprovativo do vínculo contratual estabelecido no âmbito da Oferta Complementar ou das Atividades de Enriquecimento do Currículo, a apresentar pelo requerente no estabelecimento de ensino que procede à emissão da respetiva declaração de tempo de serviço.\n\n3 - Para efeitos de certificação da qualificação profissional para a docência no grupo de recrutamento 120, a contagem do tempo de experiência de ensino de inglês no 1.º ciclo do ensino básico, prestado no ensino particular e cooperativo, ao abrigo do n.º 3 do artigo 12.º e artigo 14.º, conjugados com o n.º 2 do artigo 1.º do Decreto-Lei n.º 139/2012, de 5 de julho, na sua redação atual, é da competência da Direção-Geral dos Estabelecimentos Escolares.\n\n4 - O apuramento final do tempo de experiência a que se refere o artigo anterior é da competência da Direção-Geral da Administração Escolar e processa-se no momento a que se refere o n.º 11 do artigo 2.º\n\n5 - Para efeitos do disposto no número anterior, da declaração do tempo de experiência de ensino de Inglês no 1.º ciclo do ensino básico deve constar a data de início e do termo dos contratos celebrados pelo requerente.\n\n6 - Para efeitos do disposto no n.º 1, o tempo de experiência é contado até à data em que o interessado apresenta o pedido nele referido."
+  },
+  "107550570": {
+   "fragment_id": "107556793",
+   "type": 11,
+   "heading": "Artigo 6.º — O presente despacho entra em vigor no dia seguinte ao da sua publicação.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — O presente despacho entra em vigor no dia seguinte ao da sua publicação.\n\n05 de março de 2015. - A Diretora-Geral da Administração Escolar, Maria Luísa Gaspar do Pranto Lopes de Oliveira.\n\n208486147"
+  },
+  "107550571": {
+   "fragment_id": "107556789",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2017-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - A certificação da qualificação profissional para a docência no grupo de recrutamento 120 é da competência do Diretor-Geral da Administração Escolar.\n\n2 - A certificação da qualificação profissional referida no número anterior obedece ao procedimento previsto nos números seguintes.\n\n3 - O procedimento de certificação da qualificação profissional para a docência no grupo de recrutamento 120 implica a obrigatoriedade de utilização dos meios eletrónicos a disponibilizar no sítio da internet da Direção-Geral da Administração Escolar.\n\n4 - Para aceder aos meios eletrónicos referidos no número anterior, o requerente deve registar-se como utilizador na página eletrónica da Direção-Geral da Administração Escolar, se ainda o não tiver efetuado anteriormente.\n\n5 - O pedido de emissão do certificado efetua-se mediante requerimento de modelo aprovado por despacho do Diretor-Geral da Administração Escolar, a disponibilizar no sítio a que se referem os números anteriores.\n\n6 - O pedido de emissão de certificado deve ser apresentado no prazo fixado em aviso a publicitar pela Direção-Geral da Administração Escolar no seu sítio de internet.\n\n7 - O pedido deve ser instruído com os seguintes documentos:\n\na) Cópia de documento comprovativo da identificação civil;\n\nb) Certificado de habilitações do mestrado em ensino de Inglês e de outra língua estrangeira no ensino básico previsto na referência 7 do anexo ao Decreto-Lei n.º 43/2007, de 22 de fevereiro, quando aplicável.\n\nc) Certificado de habilitações da formação inicial que confere ao requerente a qualificação profissional para os grupos de recrutamento 110, 220, ou 330;\n\nd) Declaração de estágio ou de prática pedagógica supervisionada, quando aplicável;\n\ne) Declaração (s) comprovativa (s) de um ano de experiência de ensino de Inglês no 1.º ciclo do ensino básico adquirida no âmbito da Oferta Complementar ou das Atividades de Enriquecimento do Currículo.\n\n8 - Os requerentes com qualificação profissional para a docência no grupo de recrutamento 110 devem ainda apresentar documentos comprovativos de uma das seguintes qualificações:\n\na) Complemento de formação superior correspondente ao grupo de recrutamento 110, nos termos conjugados da subalínea i) da alínea b) do artigo 3.º e n.º 1 do artigo 7.º da Portaria n.º 260-A/2014, de 15 de dezembro;\n\nb) Diplomas CELTA e YL;\n\nc) Módulos READY, STEADY e GO do diploma CiPELT.\n\n9 - Os requerentes com qualificação profissional para a docência no grupo de recrutamento 220 devem ainda apresentar documentos comprovativos de uma das seguintes qualificações:\n\na) Complemento de formação superior correspondente ao grupo de recrutamento 220, nos termos conjugados da subalínea i) da alínea b) do artigo 4.º e n.º 2 do artigo 7.º da Portaria n.º 260-A/2014, de 15 de dezembro;\n\nb) Módulos STEADY e GO do diploma CiPELT.\n\n10 - Os titulares do grau de mestre em ensino de Inglês e de outra língua estrangeira no ensino básico previsto na referência 7 do anexo ao Decreto-Lei n.º 43/2007, de 22 de fevereiro, devem ainda apresentar documentos comprovativos de uma das seguintes qualificações:\n\na) Complemento de formação superior, nos termos conjugados da subalínea i) da alínea b) do artigo 5.º e n.º 3 do artigo 7.º da Portaria n.º 260-A/2014, de 15 de dezembro;\n\nb) Módulos STEADY e GO do diploma CiPELT.\n\n11 - Os requerentes com qualificação profissional para a docência no grupo de recrutamento 330 devem ainda apresentar documentos comprovativos de uma das seguintes qualificações:\n\na) Complemento de formação superior correspondente ao grupo de recrutamento 330, nos termos conjugados da subalínea i) da alínea b) do artigo 5.º e n.º 3 do artigo 7.º da Portaria n.º 260-A/2014, de 15 de dezembro;\n\nb) Módulos STEADY e GO do diploma CiPELT.\n\n12 - Compete aos serviços da Direção-Geral da Administração Escolar proceder à validação dos elementos introduzidos pelos requerentes, no prazo a fixar no aviso a que se refere o n.º 6.\n\n13 - Para os efeitos previstos no número anterior, a entidade de validação pode solicitar a apresentação de fotocópia certificada dos documentos a enviar por via postal, no prazo indicado no respetivo ofício de notificação.\n\n14 - No fim das diligências previstas no número anterior, se às mesmas houver lugar, o Diretor-Geral da Administração Escolar procede à emissão do certificado individual.\n\n15 - Os requerentes cujos elementos declarados não sejam validados pela entidade de validação são notificados do indeferimento do seu pedido de certificação por via postal com aviso de receção.\n\n16 - Do indeferimento previsto no número anterior cabe reclamação necessária para o Diretor-Geral da Administração Escolar a apresentar em suporte de papel no prazo de 5 dias úteis contados da data de notificação referida no número anterior.\n\nIII - Certificação da Experiência Profissional\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+  },
+  "107550572": {
+   "fragment_id": "107556790",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2017-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - É requisito cumulativo para a qualificação profissional para a docência no grupo de recrutamento 120 ter experiência de ensino de inglês no 1.º ciclo do ensino básico.\n\n2 - A experiência de ensino referida no número anterior deve ter sido adquirida no âmbito da Oferta Complementar ou das Atividades de Enriquecimento do Currículo, a que se referem o n.º 3 do artigo 12.º e o artigo 14.º do Decreto-Lei n.º 139/2012, de 5 de julho, na sua redação atual.\n\n3 - A experiência de ensino referida no número anterior pode ter sido adquirida no ensino particular e cooperativo, nos termos do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 139/2012, de 5 de julho, na sua redação atual.\n\n4 - A experiência de ensino referida no n.º 2 pode ter sido adquirida em estabelecimentos de ensino da Região Autónoma dos Açores, ao abrigo do artigo 6.º do Decreto Legislativo Regional n.º 21/2010/A, de 24 de junho, ou no âmbito das Atividades de Enriquecimento do Currículo no grupo de recrutamento 120 - Língua Inglesa na Região Autónoma da Madeira, ao abrigo dos Mapas I e II, anexos à Portaria n.º 58/2013, publicada no Jornal Oficial da Região Autónoma da Madeira de 18 de julho, na redação da Portaria n.º 117/2015, de 14 de julho, publicada no Jornal Oficial da Região Autónoma da Madeira.\n\n5 - A experiência de ensino referida no n.º 2 pode ter sido adquirida para preenchimento de horas letivas para a lecionação do inglês curricular do 3.º ano de escolaridade, ao abrigo do despacho do Ministro da Educação, de 29 de março de 2016, autorizando, a título marcadamente excecional, o recurso a horas extraordinárias, nos termos do artigo 83.º do ECD.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+  },
+  "107550573": {
+   "fragment_id": "107556791",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2017-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Para efeitos do presente despacho, considera-se que preenchem o requisito de experiência de ensino de inglês no 1.º ciclo do ensino básico, os candidatos que tenham 180 dias de tempo de serviço no âmbito da Oferta Complementar, das Atividades de Enriquecimento do Currículo em ensino de Inglês ou no âmbito da lecionação do inglês curricular do 3.º ano de escolaridade, ao abrigo do despacho do Ministro da Educação, de 29 de março de 2016.\n\n2 - O apuramento do tempo de experiência previsto no número anterior é independente do número de horas de trabalho contratadas.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+  },
+  "107550574": {
+   "fragment_id": "107556792",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2017-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - A emissão da declaração do tempo de experiência de ensino de Inglês no 1.º ciclo do ensino básico adquirido no âmbito da Oferta Complementar ou das Atividades de Enriquecimento do Currículo é da competência do diretor do estabelecimento de ensino onde o requerente prestou a sua atividade, mediante requerimento do interessado.\n\n2 - O tempo de experiência é titulado por documento comprovativo do vínculo contratual estabelecido no âmbito da Oferta Complementar ou das Atividades de Enriquecimento do Currículo, a apresentar pelo requerente no estabelecimento de ensino que procede à emissão da respetiva declaração de tempo de serviço.\n\n3 - Para efeitos de certificação da qualificação profissional para a docência no grupo de recrutamento 120, a contagem do tempo de experiência de ensino de inglês no 1.º ciclo do ensino básico, prestado no ensino particular e cooperativo, ao abrigo do n.º 3 do artigo 12.º e artigo 14.º, conjugados com o n.º 2 do artigo 1.º do Decreto-Lei n.º 139/2012, de 5 de julho, na sua redação atual, é da competência da Direção-Geral dos Estabelecimentos Escolares.\n\n4 - Para efeitos de certificação da qualificação profissional para a docência no grupo de recrutamento 120, a contagem do tempo de experiência de ensino de inglês no 1.º ciclo do ensino básico, prestado em estabelecimentos de ensino particular e cooperativo das Regiões Autónomas dos Açores e da Madeira, é da competência da respetivas direções regionais.\n\n5 - O apuramento final do tempo de experiência a que se refere o artigo anterior é da competência da Direção-Geral da Administração Escolar e processa-se no momento a que se refere o n.º 11 do artigo 2.º\n\n6 - Para efeitos do disposto no número anterior, da declaração do tempo de experiência de ensino de Inglês no 1.º ciclo do ensino básico deve constar a data de início e do termo dos contratos celebrados pelo requerente.\n\n7 - Para efeitos do disposto no n.º 1, o tempo de experiência é contado até à data em que o interessado apresenta o pedido nele referido.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 197/2017 - Diário da República n.º 120/2017, Série I de 2017-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/197-2017-107549823), em vigor a partir de 2017-06-26"
+  }
+ }
+}

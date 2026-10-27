@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:508262:por
+title: Acórdão doutrinário
+short_title: null
+summary: Proferido no processo n.º 60449, em que era recorrente Zuid Afrikaansch Handelshuis e recorrido Joaquim Leite de
+  Faria
+jurisdiction: portugal
+territory: null
+document_type: acordao-doutrinario
+document_type_label: Acórdão Doutrinário
+issuing_authority:
+- Supremo Tribunal de Justiça
+proposing_entity: null
+official_number: null
+official_date: null
+publication_date: '1965-12-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 292/1965, Série I de 1965-12-27
+  number: '292'
+  series: I
+  supplement: null
+  pages: 1831 - 1832
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/12/29200/18311832.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '508262'
+  dre_path: /dr/detalhe/acordao-doutrinario/1965-508262
+  internal: pt:dre:508262:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/acordao-doutrinario/1965-508262
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/acordao-doutrinario/1965-508262
+  consolidated_url: null
+  retrieved_at: '2026-10-22T17:52:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c5e8f795556de99397cdffebd6d8fb1109963ea724b104f9a5891cb6c70fb5e0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T17:52:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:232562:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358895:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682438:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T17:52:14Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão doutrinário
+
+Processo n.º 60449. - Autos de recurso para tribunal pleno. Recorrente, Zuid Afrikaansch Handelshuis. Recorrido, Joaquim Leite de Faria.
+
+Acordam os juízes do Supremo Tribunal de Justiça em tribunal pleno:
+
+Zuid Afrikaansch Handelshuis oportunamente recorreu para este Tribunal, funcionando em tribunal pleno, nos termos do artigo 763.º do Código de Processo Civil, do Acórdão do Supremo Tribunal de Justiça de 22 de Maio de 1964, já publicado no Boletim do Ministério da Justiça n.º 137, p. 368, proferido na acção que correu no tribunal de uma comarca de Angola, funcionando como tribunal do trabalho, instaurada por Joaquim Leite de Faria, atinente a receber a remuneração correspondente a muitas horas suplementares de trabalho que havia prestado como empregado da recorrente.
+
+Alega que o acórdão recorrido decidiu não ser admissível recurso das decisões proferidas pelas relações em questões do contencioso do trabalho relativas ao ultramar, pelo que está em manifesta oposição com o Acórdão do Supremo Tribunal de Justiça de 20 de Julho de 1962, transitado em julgado, publicado no referido Boletim n.º 119, p. 371, que, em recurso de revista, conheceu do Acórdão da Relação de Luanda sobre matéria de jurisdição do trabalho.
+
+O Acórdão da secção de 11 de Dezembro de 1964, de fl. 23 e fl. 24, reconheceu a existência de oposição entre os dois acórdãos citados.
+
+Nos termos do artigo 767.º do Código de Processo Civil, as partes apresentaram alegações sobre o objecto do recurso e o Ministério Público emitiu o seu parecer sobre a solução a dar ao conflito de jurisprudência, pronunciando-se no sentido seguinte: «enquanto se não tornar extensivo ao ultramar o novo Código de Processo dos Tribunais do Trabalho de 1963, através de diploma suficientemente esclarecedor, deverá dar-se prevalência à orientação do acórdão recorrido e formular-se assento nos termos seguintes: à face do Código de Processo dos Tribunais do Trabalho de 1941 e da [Portaria n.º 10698](https://diariodarepublica.pt/dr/detalhe/portaria/10698-1944-550660), não é admissível recurso das decisões proferidas pelas relações em questões do contencioso do trabalho relativas ao ultramar».
+
+Cumpre decidir.
+
+Não há dúvida de que, relativamente à mesma questão fundamental de direito, o Supremo Tribunal de Justiça, nos dois acórdãos apontados, proferiu decisões opostas, no domínio da mesma legislação, pois que entre as suas publicações não foi introduzida qualquer modificação legislativa que tenha interferido, directa ou indirectamente, na resolução da questão controvertida.
+
+A questão controvertida, que carece de fixação de assento, confina-se na resposta a dar à pergunta que se formula:
+
+É ou não admissível recurso para o Supremo Tribunal de Justiça das decisões das relações proferidas em questões do contencioso do trabalho relativas ao ultramar?
+
+A questão põe-se no tocante ao artigo 44.º do Código de Processo do Trabalho de 1941, aprovado pela [Decreto-Lei n.º 31464](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31464-1941-358895), de 12 de Agosto de 1941, e à alínea VIII da [Portaria n.º 10698](https://diariodarepublica.pt/dr/detalhe/portaria/10698-1944-550660), de 6 de Julho de 1944, que, com alterações, o pôs em vigor no ultramar.
+
+Este Código de Processo do Trabalho, nos seus artigos 42.º a 44.º, expõe que os recursos das decisões dos tribunais do trabalho são interpostos para a secção do contencioso do trabalho e previdência social do Supremo Tribunal Administrativo, que o recurso de apelação tem efeito meramente devolutivo e que não é admissível recurso de revista.
+
+A [Portaria n.º 10698](https://diariodarepublica.pt/dr/detalhe/portaria/10698-1944-550660), nas suas alíneas II, VIII e IX, investiu os tribunais comuns do ultramar de competência de tribunais do trabalho, declarou que os recursos nessa, esfera de actividade são interpostos para o tribunal da relação do respectivo distrito judicial, fixou a alçada dos tribunais de 1.ª instância em matéria de trabalho, previdência social e actividade corporativa que não tenha carácter penal em 10000$00, mas foi omissa sobre a alçada da relação.
+
+Do confronto das disposições visadas nos dois diplomas legislativos infere-se que apenas se quis permitir um grau de jurisdição de recurso, a relação, pois que seria indispensável a fixação da alçada da relação para se conceber a permissão do recurso desta para o Supremo.
+
+A aceitar-se a tese do Acórdão em oposição deste Supremo Tribunal de Justiça de 22 de Julho de 1962, de que o artigo 44.º do Código de Processo do Trabalho de 1941 e a alínea VIII da [Portaria n.º 10698](https://diariodarepublica.pt/dr/detalhe/portaria/10698-1944-550660) só curaram dos recursos que podem ser interpostos na 1.ª instância, haveria dois graus de recurso, quando ao tempo na metrópole existia no contencioso do trabalho um só grau de recurso para a secção do contencioso do trabalho e previdência social do Supremo Tribunal Administrativo.
+
+Na metrópole, só após a publicação do [Decreto-Lei n.º 39874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39874-1954-682438), de 28 de Outubro de 1954, artigo 4.º, passou a haver recurso para o pleno dos acórdãos do contencioso do trabalho e previdência sempre que o valor da causa seja superior a 100000$00, recurso que se mantém quando a decisão fosse desfavorável ao recorrente em mais de 100000$00 (ex vi do § 2.º do artigo 25.º do [Decreto-Lei n.º 40768](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40768-1956-232562), de 8 de Setembro de 1956.
+
+O artigo 44.º do Código de Processo do Trabalho de 1941, ainda em vigor no ultramar, preceitua, como atrás ficou dito: «Não é admissível recurso de revista».
+
+Esta expressão «recurso de revista» não se refere, como é óbvio, ao recurso de revista do Supremo Tribunal de Justiça.
+
+Com ela o legislador quis não admitir do recurso que permitiu para a secção do contencioso do trabalho e previdência social do Supremo Tribunal Administrativo recurso para o pleno, em virtude de declarar no artigo 42.º do mesmo Código de Processo do Trabalho de 1941 que o recurso levado para aquela secção, no seu julgamento, observar-se-á a legislação aplicável aos recursos da competência da secção do contencioso administrativo.
+
+É sabido que a jurisprudência do Supremo Tribunal Administrativo chamava «recurso de revista» às decisões do Supremo Tribunal Administrativo da secção do contencioso administrativo.
+
+Daí procurou-se afastar as questões do contencioso do trabalho da possibilidade de recurso para o Supremo Tribunal Administrativo em pleno, com a expressão inserida no citado artigo 42.º: «Não é admissível recurso de revista».
+
+A [Portaria n.º 10698](https://diariodarepublica.pt/dr/detalhe/portaria/10698-1944-550660) tornou o Código de Processo do Trabalho de 1941 extensivo ao ultramar e transferiu o único recurso permitido por aquele código para o foro comum e também em recurso único expresso para a relação.
+
+Com este entendimento ficaram em pé de igualdade, quanto a recursos, o contencioso do trabalho da metrópole e o do ultramar.
+
+A doutrina do acórdão recorrido, pelo que fica exposto, prevalece, interpretou com maior justeza os preceitos legais em causa.
+
+Assim, negam provimento ao recurso, com custas a cargo do recorrente, e fixam o assento seguinte:
+
+No domínio do Código de Processo dos Tribunais do Trabalho de 1941 e da [Portaria n.º 10698](https://diariodarepublica.pt/dr/detalhe/portaria/10698-1944-550660), de 6 de Julho de 1944, não é admissível recurso das decisões proferidas pelas relações do ultramar no contencioso do trabalho.
+
+Lisboa, 26 de Novembro de 1965. - Torres Paulo - Ludovico da Costa - Lopes Cardoso - F. Toscano Pessoa - Joaquim de Melo - H. Dias Freire - Gonçalves Pereira - Alberto Toscano - Albuquerque Rocha - Simões de Carvalho - Fernando Bernardes de Miranda - António Laranja - António Acácio de Oliveira Carvalho.
+
+Está conforme.
+
+Supremo Tribunal de Justiça, 13 de Dezembro de 1965. - O Secretário, Joaquim Múrias de Freitas.

@@ -1,0 +1,161 @@
+---
+schema_version: '1.0'
+id: pt:dre:506062:por
+title: Decreto-Lei n.º 27/76
+short_title: null
+summary: Introduz alterações nos efectivos dos quadros do activo dos oficiais da Armada
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Armada
+proposing_entity: null
+official_number: 27/76
+official_date: null
+publication_date: '1976-01-16'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 13/1976, Série I de 1976-01-16
+  number: '13'
+  series: I
+  supplement: null
+  pages: 57 - 58
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/01/01300/00570058.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '506062'
+  dre_path: /dr/detalhe/decreto-lei/27-1976-506062
+  internal: pt:dre:506062:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1976-506062
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1976-506062
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:51:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 05f1d62222b69d4453ef4038ffe70c0870b8f8c0748ad8f55e843d71d5d8dbe8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:51:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Lugares
+- Extinção de Lugares
+- Marinha
+- Militar
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:626423:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:234698:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273609:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:307420:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411821:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684788:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:51:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 27/76
+
+de 16 de Janeiro
+
+O [Decreto-Lei n.º 500/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1975-307420), de 12 de Setembro, suspendeu as promoções para o preenchimento de vacaturas nos quadros do activo dos oficiais da Armada até que fossem estabelecidos novos efectivos para esses quadros, mais ajustados às necessidades previsíveis.
+
+Dos estudos efectuados concluiu-se, desde já, pela necessidade de redução desses efectivos nos postos de contra-almirante e de capitão-de-mar-e-guerra da classe de marinha e por um aumento correspondente nos de comodoro e capitão-de-fragata da mesma classe.
+
+Embora os efectivos dos quadros que resultam das alterações acima referidas não possam ter-se como definitivos e se admita que venham a sofrer futuras reduções, que nesta altura se torna muito difícil definir, reconhece-se que o regime de excepção estabelecido no [Decreto-Lei n.º 500/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1975-307420), a prolongar-se, acarretaria inconvenientes e prejuízos que importa evitar.
+
+Nestes termos:
+
+Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Os efectivos dos quadros do activo dos oficiais da Armada, fixados pelo [Decreto-Lei n.º 48349](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48349-1968-234698), de 24 de Abril de 1968, com as alterações que lhe foram introduzidas pela [Portaria n.º 23501](https://diariodarepublica.pt/dr/detalhe/portaria/23501-1968-273609), de 24 de Julho de 1968, e pelos Decretos-Leis n.os [65/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1973-684788), de 26 de Fevereiro, e [136/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1974-411821), de 4 de Abril, sofrem as seguintes alterações:
+
+a) Reduções:
+
+No posto de contra-almirante ... 2
+
+No posto de capitão-de-mar-e-guerra da classe de marinha ... 10
+
+b) Aumentos:
+
+No posto de comodoro da classe de marinha ... 2
+
+No posto de capitão-de-fragata da mesma classe ... 10
+
+Art. 2.º As alterações aos efectivos introduzidas pelo presente diploma consideram-se em vigor a partir de 1 de Janeiro de 1976, inclusive, cessando na mesma data o regime de excepção estabelecido no artigo 1.º do [Decreto-Lei n.º 500/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1975-307420), de 12 de Setembro.
+
+Art. 3.º As promoções para o preenchimento de vacaturas existentes à data da publicação do [Decreto-Lei n.º 500/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1975-307420) e que subsistam depois dos ajustamentos decorrentes dos efectivos agora fixados, quando for esse o caso, serão referidas às datas em que ocorreram essas vacaturas.
+
+Art. 4.º Com excepção das promoções a oficial general, serão referidas a 1 de Janeiro de 1976 as promoções para o preenchimento de vacaturas criadas nessa data por motivo da alteração de efectivos estabelecida no presente diploma e, bem assim, as que resultem de vacaturas ocorridas entre a data da entrada em vigor do [Decreto-Lei n.º 500/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1975-307420) e 31 de Dezembro de 1975.
+
+Art. 5.º - 1. Os efectivos dos quadros do activo dos oficiais da Armada, com as alterações constantes do presente diploma, são temporariamente aumentados, em cada posto, de um quantitativo igual ao dos oficiais desse posto que ficaram na situação de supranumerários, posteriormente à data de entrada em vigor do [Decreto-Lei n.º 500/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/500-1975-307420), e que, nos termos do artigo 3.º deste diploma, não ocuparam vacatura.
+
+2. Aos supranumerários referidos no número anterior aplica-se o disposto no § 2.º do artigo 77.º do Estatuto do Oficial da Armada.
+
+Visto e aprovado em Conselho da Revolução.
+
+Promulgado em 31 de Dezembro de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

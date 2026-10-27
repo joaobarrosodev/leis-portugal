@@ -1,0 +1,496 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:191552:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-876628020",
+ "dre_path": "/dr/detalhe/decreto-lei/396-1998-191552",
+ "source_lastmod": "2024-08-12",
+ "versions": [
+  {
+   "date": "1998-12-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "876632386",
+    "876600007",
+    "876600008",
+    "876600009",
+    "876600010",
+    "876600011",
+    "876600012",
+    "876600013",
+    "876600014",
+    "876600015",
+    "876600016",
+    "876600017",
+    "876600018",
+    "876600019",
+    "876600020",
+    "876600021",
+    "876600022",
+    "876600023"
+   ]
+  },
+  {
+   "date": "1999-09-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:570569:por",
+     "title": "Lei n.º 164/99",
+     "published": "1999-09-14",
+     "dre_path": "/dr/detalhe/lei/164-1999-570569"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "876600006",
+    "876600007",
+    "876632382",
+    "876600009",
+    "876632383",
+    "876600011",
+    "876600012",
+    "876600013",
+    "876600014",
+    "876600015",
+    "876600016",
+    "876632384",
+    "876632385",
+    "876600019",
+    "876600020",
+    "876600021",
+    "876600022",
+    "876600023",
+    "876600024"
+   ]
+  },
+  {
+   "date": "2009-08-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493978:por",
+     "title": "Lei n.º 49/2009",
+     "published": "2009-08-05",
+     "dre_path": "/dr/detalhe/lei/49-2009-493978"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "876632386",
+    "876632387",
+    "876632388",
+    "876632389",
+    "876632390",
+    "876632391",
+    "876632392",
+    "876632393",
+    "876632394",
+    "876632395",
+    "876632396",
+    "876632397",
+    "876632398",
+    "876632399",
+    "876632400",
+    "876632401",
+    "876632402",
+    "876632403",
+    "876632404"
+   ]
+  }
+ ],
+ "fragments": {
+  "876632386": {
+   "fragment_id": "876628021",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2009-08-06",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 396/98\n\nde 17 de Dezembro\n\nA Lei n.º 46/77, de 8 de Julho, estabelecia no artigo 5.º o princípio da interdição do acesso à indústria de armamento a empresas privadas.\n\nCom a revogação deste diploma, operada pela Lei n.º 88-A/97, de 25 de Julho, esta situação foi alterada, deixando de estar vedado o acesso à actividade de empresas privadas na indústria de armamento.\n\nContudo, a Lei n.º 88-A/97 também estabelece que o exercício da actividade está subordinado à salvaguarda dos interesses da economia e da defesa nacionais, à segurança e tranquilidade dos cidadãos e aos compromissos internacionais do Estado. Impondo-se, igualmente, que sejam assegurados factores de solidez, transparência e idoneidade.\n\nNesta conformidade, consagra-se no presente diploma o princípio da autorização prévia para o exercício da actividade mediante o preenchimento expresso de diversos requisitos, a supervisão da Direcção-Geral de Armamento e Equipamentos de Defesa do Ministério da Defesa Nacional sobre as empresas e a exigência de credenciação de segurança nacional.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "876600007": {
+   "fragment_id": "876628022",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma regula as condições de acesso e de exercício da actividade de indústria de armamento por empresas privadas.\n\n2 - Está igualmente sujeito ao presente diploma o exercício da actividade de indústria do armamento por empresas públicas ou de capitais exclusivamente públicos, criadas nos termos da legislação portuguesa."
+  },
+  "876600008": {
+   "fragment_id": "876628023",
+   "type": 11,
+   "heading": "Artigo 2.º — Salvaguarda de interesses nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Salvaguarda de interesses nacionais\n\nO exercício da actividade mencionada no artigo anterior está subordinado à salvaguarda dos interesses da defesa e da economia nacionais, à segurança e tranquilidade dos cidadãos e aos compromissos internacionais do Estado."
+  },
+  "876600009": {
+   "fragment_id": "876628024",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos do presente diploma, considera-se:\n\na) Indústria de armamento: o complexo de actividades que tenha por objecto a investigação, planeamento, ensaio, fabrico, montagem, reparação, transformação, manutenção e desmilitarização de bens militares, bem como o relativo às tecnologias associadas;\n\nb) Bens militares: os produtos, equipamentos e os respectivos componentes, especialmente concebidos, desenvolvidos e produzidos ou transformados para fins militares;\n\nc) Tecnologia militar: toda a informação, qualquer que seja o suporte material, necessária ao desenvolvimento, produção, ensaio, transformação e uso para fins militares.\n\n2 - Para efeitos do presente diploma, consideram-se ainda bens e tecnologias militares o material de guerra e o equipamento e tecnologia de mísseis susceptíveis de afectar os interesses estratégicos nacionais, conforme listagem aprovada nos termos da legislação em vigor."
+  },
+  "876600010": {
+   "fragment_id": "876628025",
+   "type": 11,
+   "heading": "Artigo 4.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Decisão\n\n1 - A constituição de empresas privadas ou a inclusão da actividade de indústria de armamento nos estatutos de empresas já constituídas depende de autorização a conceder, caso a caso, por despacho do Ministro da Defesa Nacional.\n\n2 - No caso das sociedades por acções, as acções representativas do capital social são obrigatoriamente nominativas ou ao portador registadas.\n\n3 - O despacho de autorização é publicado no Diário da República.\n\n4 - O Ministro da Defesa Nacional pode delegar no Secretário de Estado da Defesa Nacional, com faculdade de subdelegação, a competência a que se refere o n.º 1 do presente artigo.\n\n5 - A decisão de autorização para o acesso e exercício da actividade na indústria de armamento abrange a prática dos actos comerciais inerentes àquela actividade.\n\n6 - A celebração de escrituras públicas de constituição ou de alteração de estatutos de empresas que envolvam o exercício de indústria de armamento depende da autorização prevista no n.º 1 do presente artigo, sob pena de nulidade."
+  },
+  "876600011": {
+   "fragment_id": "876628026",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido de autorização\n\n1 - O pedido de autorização é apresentado à Direcção-Geral de Armamento e Equipamentos de Defesa do Ministério da Defesa Nacional, doravante designada abreviadamente DGAED, sob a forma de requerimento, acompanhado dos seguintes elementos:\n\na) Estatutos da empresa e projecto de alteração, no caso das empresas já constituídas;\n\nb) Projecto de estatutos, no caso das empresas a constituir;\n\nc) Certidão do registo comercial;\n\nd) Identificação de todos os sócios, administradores, directores ou gerentes e certificado de registo criminal;\n\ne) Informação, relativamente a todas as entidades referidas na alínea anterior, das participações sociais de que sejam titulares, directamente ou por intermédio das pessoas referidas no n.º 2 do artigo 447.º do Código das Sociedades Comerciais;\n\nf) Informações detalhadas relativas à estrutura do grupo, com indicação das situações previstas nos artigos 482.º e seguintes do Código das Sociedades Comerciais;\n\ng) Acta do órgão social competente, deliberando a participação na sociedade, quando os sócios revistam a natureza de pessoa colectiva;\n\nh) Estrutura orgânica da empresa, com especificação dos meios técnicos e financeiros, bem como dos meios directos e indirectos de pessoal e material a utilizar;\n\ni) Lista de bens militares e tecnologias associadas que a sociedade se propõe produzir e desenvolver;\n\nj) Principais mercados que a empresa se propõe atingir.\n\n2 - No caso das empresas em nome individual, o requerimento deve ser acompanhado de certificado do registo criminal, bem como dos elementos referidos nas alíneas h), i) e j) do número anterior.\n\n3 - Os requerentes devem ainda designar quem os represente perante as autoridades encarregadas de apreciar o processo de autorização."
+  },
+  "876600012": {
+   "fragment_id": "876628027",
+   "type": 11,
+   "heading": "Artigo 6.º — Deficiências do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deficiências do requerimento\n\nSempre que o requerimento não se encontre em conformidade com o disposto no artigo anterior, são notificados os requerentes, ou os seus representantes legais, para, no prazo de 30 dias, suprir as deficiências detectadas, sob pena de arquivamento do pedido."
+  },
+  "876600013": {
+   "fragment_id": "876628028",
+   "type": 11,
+   "heading": "Artigo 7.º — Diligências complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Diligências complementares\n\n1 - A DGAED envia para parecer da Direcção-Geral da Indústria do Ministério da Economia uma cópia do requerimento devidamente instruído.\n\n2 - A DGAED pode solicitar quaisquer esclarecimentos ou elementos adicionais relevantes para a análise e a decisão do processo."
+  },
+  "876600014": {
+   "fragment_id": "876628029",
+   "type": 11,
+   "heading": "Artigo 8.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Autorização\n\n1 - A autorização é concedida desde que se verifiquem, cumulativamente, os seguintes requisitos:\n\na) Adequação e suficiência dos meios humanos ao objectivo a atingir;\n\nb) Adequação e suficiência de meios técnicos e recursos financeiros ao exercício da actividade;\n\nc) Qualificação e idoneidade reconhecidas aos empresários, sócios e membros dos órgãos sociais;\n\nd) Transparência da estrutura do grupo que permita o exercício, sem entraves, da supervisão, sempre que a empresa fizer parte de um grupo empresarial;\n\ne) Credenciação de segurança, nos termos previstos no artigo 13.º do presente diploma.\n\n2 - A decisão final deve ser proferida no prazo de 60 dias, findo o qual o interessado tem a faculdade de presumir indeferida a sua pretensão."
+  },
+  "876600015": {
+   "fragment_id": "876628030",
+   "type": 11,
+   "heading": "Artigo 9.º — Caducidade e renúncia da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Caducidade e renúncia da autorização\n\n1 - A autorização caduca se a constituição da empresa não se realizar no prazo de 3 meses ou a empresa não iniciar a sua actividade no prazo de 12 meses contados a partir da data da publicação do despacho de autorização.\n\n2 - As empresas podem renunciar expressamente à autorização, sem prejuízo das relações contratuais e comerciais que hajam entretanto estabelecido."
+  },
+  "876600016": {
+   "fragment_id": "876628031",
+   "type": 11,
+   "heading": "Artigo 10.º — Comunicações obrigatórias das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comunicações obrigatórias das empresas\n\n1 - As empresas autorizadas nos termos do artigo 4.º do presente diploma devem comunicar à DGAED:\n\na) Anualmente, a identidade de todos os sócios, bem como o montante das respectivas participações, com base, nomeadamente, nos registos da assembleia geral anual;\n\nb) A composição dos seus órgãos de administração e de fiscalização, no prazo máximo de 15 dias após a sua designação, justificando a sua adequada qualificação e idoneidade;\n\nc) As alterações aos estatutos, aplicando-se, com as necessárias adaptações, o estabelecido para a autorização inicial.\n\n2 - As empresas referidas no n.º 1 do presente artigo devem ainda comunicar todas as alterações ocorridas nas situações previstas nas alíneas e) e f) do n.º 1 do artigo 5.º do presente diploma, quando relevantes à luz dos artigos 482.º e seguintes do Código das Sociedades Comerciais.\n\n3 - No caso das empresas em nome individual, deve ser comunicada qualquer alteração relativa à titularidade, bem como à exploração da empresa."
+  },
+  "876600017": {
+   "fragment_id": "876628032",
+   "type": 11,
+   "heading": "Artigo 11.º — Comunicações obrigatórias dos sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comunicações obrigatórias dos sócios\n\n1 - As transmissões de participações sociais que impliquem alterações da situação prevista nas alíneas e) e f) do n.º 1 do artigo 5.º do presente diploma devem ser comunicadas previamente à DGAED, sob pena de nulidade da operação.\n\n2 - O Ministro da Defesa Nacional pode, no prazo de três meses a contar da data da respectiva comunicação, opor-se à transmissão da participação, notificando expressamente a pessoa singular ou colectiva da impossibilidade de proceder à operação pretendida, sob pena de nulidade e sem prejuízo da suspensão do exercício dos direitos de voto correspondentes às participações a que a mesma operação se refere.\n\n3 - Para os efeitos do número anterior, o Ministro da Defesa Nacional pode exigir que lhe sejam fornecidas as informações que considere necessárias.\n\n4 - Devem igualmente ser comunicados à DGAED os acordos parassociais entre sócios de empresas de indústria de armamento relativos ao exercício do direito de voto, sob pena de ineficácia.\n\n5 - O Ministro da Defesa Nacional pode delegar as competências previstas neste artigo no Secretário de Estado da Defesa Nacional, com faculdade de subdelegação."
+  },
+  "876600018": {
+   "fragment_id": "876628033",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Revogação da autorização\n\n1 - A autorização pode ser revogada quando se verifique alguma das seguintes situações:\n\na) Ter sido obtida por meio de falsas declarações ou por outros meios ilícitos, independentemente das sanções penais que ao caso couberem;\n\nb) Deixar de se verificar alguma das condições de acesso ou de exercício da actividade exigidas no presente diploma;\n\nc) Não serem efectuadas as comunicações previstas nos artigos 10.º e 11.º do presente diploma;\n\nd) Irregularidades graves na administração, organização contabilística ou fiscalização interna da empresa;\n\ne) Incumprimento das recomendações previstas na alínea c) do n.º 2 do artigo 15.º do presente diploma.\n\n2 - A revogação da autorização compete ao Ministro da Defesa Nacional, que pode delegar esta competência no Secretário de Estado da Defesa Nacional, com faculdade de subdelegação.\n\n3 - O despacho de revogação é notificado à empresa e publicado no Diário da República."
+  },
+  "876600019": {
+   "fragment_id": "876628034",
+   "type": 11,
+   "heading": "Artigo 13.º — Credenciação de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Credenciação de segurança\n\n1 - As empresas que, nos termos do n.º 1 do artigo 5.º, se candidatam à concessão de autorização para o exercício da actividade na indústria de armamento são objecto de processo de credenciação de segurança nacional a submeter à autoridade nacional de segurança.\n\n2 - Para efeitos do número anterior e a requerimento do interessado, a habilitação para a credenciação é apresentada pela DGAED junto do Gabinete Nacional de Segurança da Presidência do Conselho de Ministros.\n\n3 - A decisão relativa à credenciação deve ser comunicada à DGAED até ao termo do prazo previsto no n.º 2 do artigo 8.º, sob pena de dever o pedido ter-se por indeferido."
+  },
+  "876600020": {
+   "fragment_id": "876628035",
+   "type": 11,
+   "heading": "Artigo 14.º — Legislação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Legislação complementar\n\nA importação, exportação e reexportação pelas empresas privadas, de produtos acabados e semiacabados, matérias-primas, bens militares e tecnologias associadas, no âmbito do n.º 5 do artigo 4.º do presente diploma, está sujeita à obtenção da documentação exigível nos termos do Decreto-Lei n.º 371/80, de 11 de Setembro."
+  },
+  "876600021": {
+   "fragment_id": "876628036",
+   "type": 11,
+   "heading": "Artigo 15.º — Supervisão do exercício da indústria de armamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Supervisão do exercício da indústria de armamento\n\n1 - O exercício da actividade das empresas autorizadas nos termos do presente diploma fica sujeito à supervisão da DGAED.\n\n2 - No exercício das funções de supervisão a DGAED dispõe de poderes para:\n\na) Obter informações pormenorizadas sobre a situação das empresas através, nomeadamente, da recolha de dados, da exigência de documentos relativos ao exercício da actividade ou de inspecções a efectuar nas instalações das empresas;\n\nb) Acompanhar e vigiar a observância das disposições legais e regulamentares aplicáveis às empresas pelos seus dirigentes, responsáveis ou pessoas que as controlam;\n\nc) Recomendar todas as medidas adequadas e necessárias para garantir o cumprimento das normas referidas na alínea anterior."
+  },
+  "876600022": {
+   "fragment_id": "876628037",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma transitória\n\n1 - As empresas privadas que actualmente exercem actividade no sector da indústria do armamento consideram-se autorizadas, sem prejuízo de lhes ser aplicável o preceituado no presente diploma.\n\n2 - As empresas referidas no número anterior estão, nomeadamente, obrigadas a prestar a informação a que se referem os artigos 5.º, 10.º e 11.º do presente diploma no prazo de 30 dias a contar da data da respectiva entrada em vigor, sob pena de revogação da autorização para o exercício da actividade de indústria de armamento."
+  },
+  "876600023": {
+   "fragment_id": "876628038",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nÉ revogada a alínea c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 214/86, de 2 de Agosto, no que se refere à matéria abrangida pelo presente diploma."
+  },
+  "876600006": {
+   "fragment_id": "876628021",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 396/98\n\nde 17 de Dezembro\n\nA Lei n.º 46/77, de 8 de Julho, estabelecia no artigo 5.º o princípio da interdição do acesso à indústria de armamento a empresas privadas.\n\nCom a revogação deste diploma, operada pela Lei n.º 88-A/97, de 25 de Julho, esta situação foi alterada, deixando de estar vedado o acesso à actividade de empresas privadas na indústria de armamento.\n\nContudo, a Lei n.º 88-A/97 também estabelece que o exercício da actividade está subordinado à salvaguarda dos interesses da economia e da defesa nacionais, à segurança e tranquilidade dos cidadãos e aos compromissos internacionais do Estado. Impondo-se, igualmente, que sejam assegurados factores de solidez, transparência e idoneidade.\n\nNesta conformidade, consagra-se no presente diploma o princípio da autorização prévia para o exercício da actividade mediante o preenchimento expresso de diversos requisitos, a supervisão da Direcção-Geral de Armamento e Equipamentos de Defesa do Ministério da Defesa Nacional sobre as empresas e a exigência de credenciação de segurança nacional.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "876632382": {
+   "fragment_id": "876628023",
+   "type": 11,
+   "heading": "Artigo 2.º — Salvaguarda de interesses nacionais",
+   "in_force_from": "1999-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+   ],
+   "markdown": "###### Artigo 2.º — Salvaguarda de interesses nacionais\n\nA actividade de indústria de armamento é exercida em estrita subordinação à salvaguarda dos interesses da defesa e da economia nacionais, à segurança e tranquilidade dos cidadãos e aos compromissos internacionais do Estado.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+  },
+  "876632383": {
+   "fragment_id": "876628025",
+   "type": 11,
+   "heading": "Artigo 4.º — Decisão",
+   "in_force_from": "1999-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+   ],
+   "markdown": "###### Artigo 4.º — Decisão\n\n1 - A constituição de empresas privadas ou a inclusão da actividade de indústria de armamento nos estatutos de empresas já constituídas depende de autorização a conceder, caso a caso, por despacho do Ministro da Defesa Nacional.\n\n2 - No caso das sociedades por acções, as acções representativas do capital social são obrigatoriamente nominativas ou ao portador registadas.\n\n3 - O despacho de autorização é publicado no Diário da República.\n\n4 - A competência a que se refere o n.º 1 só é delegável em membros do Governo.\n\n5 - A decisão de autorização para o acesso e exercício da actividade na indústria de armamento abrange a prática dos actos comerciais inerentes àquela actividade.\n\n6 - A celebração de escrituras públicas de constituição ou de alteração de estatutos de empresas que envolvam o exercício de indústria de armamento depende da autorização prevista no n.º 1 do presente artigo, sob pena de nulidade.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+  },
+  "876632384": {
+   "fragment_id": "876628032",
+   "type": 11,
+   "heading": "Artigo 11.º — Comunicações obrigatórias dos sócios",
+   "in_force_from": "1999-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+   ],
+   "markdown": "###### Artigo 11.º — Comunicações obrigatórias dos sócios\n\n1 - As transmissões de participações sociais que impliquem alterações da situação prevista nas alíneas e) e f) do n.º 1 do artigo 5.º do presente diploma devem ser comunicadas previamente à DGAED, sob pena de nulidade da operação.\n\n2 - O Ministro da Defesa Nacional pode, no prazo de três meses a contar da data da respectiva comunicação, opor-se à transmissão da participação, notificando expressamente a pessoa singular ou colectiva da impossibilidade de proceder à operação pretendida, sob pena de nulidade e sem prejuízo da suspensão do exercício dos direitos de voto correspondentes às participações a que a mesma operação se refere.\n\n3 - Para os efeitos do número anterior, o Ministro da Defesa Nacional pode exigir que lhe sejam fornecidas as informações que considere necessárias.\n\n4 - Devem igualmente ser comunicados à DGAED os acordos parassociais entre sócios de empresas de indústria de armamento relativos ao exercício do direito de voto, sob pena de ineficácia.\n\n5 - As competências previstas no presente artigo só podem ser delegadas em membros do Governo.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+  },
+  "876632385": {
+   "fragment_id": "876628033",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação da autorização",
+   "in_force_from": "1999-09-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+   ],
+   "markdown": "###### Artigo 12.º — Revogação da autorização\n\n1 - A autorização pode ser revogada quando se verifique alguma das seguintes situações:\n\na) Ter sido obtida por meio de falsas declarações ou por outros meios ilícitos, independentemente das sanções penais que ao caso couberem;\n\nb) Deixar de se verificar alguma das condições de acesso ou de exercício da actividade exigidas no presente diploma;\n\nc) Não serem efectuadas as comunicações previstas nos artigos 10.º e 11.º do presente diploma;\n\nd) Irregularidades graves na administração, organização contabilística ou fiscalização interna da empresa;\n\ne) Incumprimento das recomendações previstas na alínea c) do n.º 2 do artigo 15.º do presente diploma.\n\n2 - A revogação da autorização compete ao Ministro da Defesa Nacional.\n\n3 - A competência a que se refere o número anterior só é delegável em membros do Governo.\n\n4 - O despacho de revogação é notificado à empresa e publicado no Diário da República.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+  },
+  "876600024": {
+   "fragment_id": "876628039",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 17 de Novembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 3 de Dezembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "876632387": {
+   "fragment_id": "876628022",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma regula as condições de acesso e de exercício da actividade de indústria de armamento por empresas privadas.\n\n2 - Está igualmente sujeito ao presente diploma o exercício da actividade de indústria do armamento por empresas públicas ou de capitais exclusivamente públicos, criadas nos termos da legislação portuguesa.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632388": {
+   "fragment_id": "876628023",
+   "type": 11,
+   "heading": "Artigo 2.º — Salvaguarda de interesses nacionais",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06",
+    "Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+   ],
+   "markdown": "###### Artigo 2.º — Salvaguarda de interesses nacionais\n\nA actividade de indústria de armamento é exercida em estrita subordinação à salvaguarda dos interesses da defesa e da economia nacionais, à segurança e tranquilidade dos cidadãos e aos compromissos internacionais do Estado.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+  },
+  "876632389": {
+   "fragment_id": "876628024",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeitos do presente diploma, considera-se:\n\na) Indústria de armamento: o complexo de actividades que tenha por objecto a investigação, planeamento, ensaio, fabrico, montagem, reparação, transformação, manutenção e desmilitarização de bens militares, bem como o relativo às tecnologias associadas;\n\nb) Bens militares: os produtos, equipamentos e os respectivos componentes, especialmente concebidos, desenvolvidos e produzidos ou transformados para fins militares;\n\nc) Tecnologia militar: toda a informação, qualquer que seja o suporte material, necessária ao desenvolvimento, produção, ensaio, transformação e uso para fins militares.\n\n2 - Para efeitos do presente diploma, consideram-se ainda bens e tecnologias militares o material de guerra e o equipamento e tecnologia de mísseis susceptíveis de afectar os interesses estratégicos nacionais, conforme listagem aprovada nos termos da legislação em vigor.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632390": {
+   "fragment_id": "876628025",
+   "type": 11,
+   "heading": "Artigo 4.º — Decisão",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06",
+    "Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+   ],
+   "markdown": "###### Artigo 4.º — Decisão\n\n1 - A constituição de empresas privadas ou a inclusão da actividade de indústria de armamento nos estatutos de empresas já constituídas depende de autorização a conceder, caso a caso, por despacho do Ministro da Defesa Nacional.\n\n2 - No caso das sociedades por acções, as acções representativas do capital social são obrigatoriamente nominativas ou ao portador registadas.\n\n3 - O despacho de autorização é publicado no Diário da República.\n\n4 - A competência a que se refere o n.º 1 só é delegável em membros do Governo.\n\n5 - A decisão de autorização para o acesso e exercício da actividade na indústria de armamento abrange a prática dos actos comerciais inerentes àquela actividade.\n\n6 - A celebração de escrituras públicas de constituição ou de alteração de estatutos de empresas que envolvam o exercício de indústria de armamento depende da autorização prevista no n.º 1 do presente artigo, sob pena de nulidade.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+  },
+  "876632391": {
+   "fragment_id": "876628026",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido de autorização",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 5.º — Pedido de autorização\n\n1 - O pedido de autorização é apresentado à Direcção-Geral de Armamento e Equipamentos de Defesa do Ministério da Defesa Nacional, doravante designada abreviadamente DGAED, sob a forma de requerimento, acompanhado dos seguintes elementos:\n\na) Estatutos da empresa e projecto de alteração, no caso das empresas já constituídas;\n\nb) Projecto de estatutos, no caso das empresas a constituir;\n\nc) Certidão do registo comercial;\n\nd) Identificação de todos os sócios, administradores, directores ou gerentes e certificado de registo criminal;\n\ne) Informação, relativamente a todas as entidades referidas na alínea anterior, das participações sociais de que sejam titulares, directamente ou por intermédio das pessoas referidas no n.º 2 do artigo 447.º do Código das Sociedades Comerciais;\n\nf) Informações detalhadas relativas à estrutura do grupo, com indicação das situações previstas nos artigos 482.º e seguintes do Código das Sociedades Comerciais;\n\ng) Acta do órgão social competente, deliberando a participação na sociedade, quando os sócios revistam a natureza de pessoa colectiva;\n\nh) Estrutura orgânica da empresa, com especificação dos meios técnicos e financeiros, bem como dos meios directos e indirectos de pessoal e material a utilizar;\n\ni) Lista de bens militares e tecnologias associadas que a sociedade se propõe produzir e desenvolver;\n\nj) Principais mercados que a empresa se propõe atingir.\n\n2 - No caso das empresas em nome individual, o requerimento deve ser acompanhado de certificado do registo criminal, bem como dos elementos referidos nas alíneas h), i) e j) do número anterior.\n\n3 - Os requerentes devem ainda designar quem os represente perante as autoridades encarregadas de apreciar o processo de autorização.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632392": {
+   "fragment_id": "876628027",
+   "type": 11,
+   "heading": "Artigo 6.º — Deficiências do requerimento",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 6.º — Deficiências do requerimento\n\nSempre que o requerimento não se encontre em conformidade com o disposto no artigo anterior, são notificados os requerentes, ou os seus representantes legais, para, no prazo de 30 dias, suprir as deficiências detectadas, sob pena de arquivamento do pedido.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632393": {
+   "fragment_id": "876628028",
+   "type": 11,
+   "heading": "Artigo 7.º — Diligências complementares",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 7.º — Diligências complementares\n\n1 - A DGAED envia para parecer da Direcção-Geral da Indústria do Ministério da Economia uma cópia do requerimento devidamente instruído.\n\n2 - A DGAED pode solicitar quaisquer esclarecimentos ou elementos adicionais relevantes para a análise e a decisão do processo.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632394": {
+   "fragment_id": "876628029",
+   "type": 11,
+   "heading": "Artigo 8.º — Autorização",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 8.º — Autorização\n\n1 - A autorização é concedida desde que se verifiquem, cumulativamente, os seguintes requisitos:\n\na) Adequação e suficiência dos meios humanos ao objectivo a atingir;\n\nb) Adequação e suficiência de meios técnicos e recursos financeiros ao exercício da actividade;\n\nc) Qualificação e idoneidade reconhecidas aos empresários, sócios e membros dos órgãos sociais;\n\nd) Transparência da estrutura do grupo que permita o exercício, sem entraves, da supervisão, sempre que a empresa fizer parte de um grupo empresarial;\n\ne) Credenciação de segurança, nos termos previstos no artigo 13.º do presente diploma.\n\n2 - A decisão final deve ser proferida no prazo de 60 dias, findo o qual o interessado tem a faculdade de presumir indeferida a sua pretensão.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632395": {
+   "fragment_id": "876628030",
+   "type": 11,
+   "heading": "Artigo 9.º — Caducidade e renúncia da autorização",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 9.º — Caducidade e renúncia da autorização\n\n1 - A autorização caduca se a constituição da empresa não se realizar no prazo de 3 meses ou a empresa não iniciar a sua actividade no prazo de 12 meses contados a partir da data da publicação do despacho de autorização.\n\n2 - As empresas podem renunciar expressamente à autorização, sem prejuízo das relações contratuais e comerciais que hajam entretanto estabelecido.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632396": {
+   "fragment_id": "876628031",
+   "type": 11,
+   "heading": "Artigo 10.º — Comunicações obrigatórias das empresas",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 10.º — Comunicações obrigatórias das empresas\n\n1 - As empresas autorizadas nos termos do artigo 4.º do presente diploma devem comunicar à DGAED:\n\na) Anualmente, a identidade de todos os sócios, bem como o montante das respectivas participações, com base, nomeadamente, nos registos da assembleia geral anual;\n\nb) A composição dos seus órgãos de administração e de fiscalização, no prazo máximo de 15 dias após a sua designação, justificando a sua adequada qualificação e idoneidade;\n\nc) As alterações aos estatutos, aplicando-se, com as necessárias adaptações, o estabelecido para a autorização inicial.\n\n2 - As empresas referidas no n.º 1 do presente artigo devem ainda comunicar todas as alterações ocorridas nas situações previstas nas alíneas e) e f) do n.º 1 do artigo 5.º do presente diploma, quando relevantes à luz dos artigos 482.º e seguintes do Código das Sociedades Comerciais.\n\n3 - No caso das empresas em nome individual, deve ser comunicada qualquer alteração relativa à titularidade, bem como à exploração da empresa.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632397": {
+   "fragment_id": "876628032",
+   "type": 11,
+   "heading": "Artigo 11.º — Comunicações obrigatórias dos sócios",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06",
+    "Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+   ],
+   "markdown": "###### Artigo 11.º — Comunicações obrigatórias dos sócios\n\n1 - As transmissões de participações sociais que impliquem alterações da situação prevista nas alíneas e) e f) do n.º 1 do artigo 5.º do presente diploma devem ser comunicadas previamente à DGAED, sob pena de nulidade da operação.\n\n2 - O Ministro da Defesa Nacional pode, no prazo de três meses a contar da data da respectiva comunicação, opor-se à transmissão da participação, notificando expressamente a pessoa singular ou colectiva da impossibilidade de proceder à operação pretendida, sob pena de nulidade e sem prejuízo da suspensão do exercício dos direitos de voto correspondentes às participações a que a mesma operação se refere.\n\n3 - Para os efeitos do número anterior, o Ministro da Defesa Nacional pode exigir que lhe sejam fornecidas as informações que considere necessárias.\n\n4 - Devem igualmente ser comunicados à DGAED os acordos parassociais entre sócios de empresas de indústria de armamento relativos ao exercício do direito de voto, sob pena de ineficácia.\n\n5 - As competências previstas no presente artigo só podem ser delegadas em membros do Governo.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+  },
+  "876632398": {
+   "fragment_id": "876628033",
+   "type": 11,
+   "heading": "Artigo 12.º — Revogação da autorização",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06",
+    "Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+   ],
+   "markdown": "###### Artigo 12.º — Revogação da autorização\n\n1 - A autorização pode ser revogada quando se verifique alguma das seguintes situações:\n\na) Ter sido obtida por meio de falsas declarações ou por outros meios ilícitos, independentemente das sanções penais que ao caso couberem;\n\nb) Deixar de se verificar alguma das condições de acesso ou de exercício da actividade exigidas no presente diploma;\n\nc) Não serem efectuadas as comunicações previstas nos artigos 10.º e 11.º do presente diploma;\n\nd) Irregularidades graves na administração, organização contabilística ou fiscalização interna da empresa;\n\ne) Incumprimento das recomendações previstas na alínea c) do n.º 2 do artigo 15.º do presente diploma.\n\n2 - A revogação da autorização compete ao Ministro da Defesa Nacional.\n\n3 - A competência a que se refere o número anterior só é delegável em membros do Governo.\n\n4 - O despacho de revogação é notificado à empresa e publicado no Diário da República.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 164/99 - Diário da República n.º 215/1999, Série I-A de 1999-09-14](https://diariodarepublica.pt/dr/detalhe/lei/164-1999-570569), em vigor a partir de 1999-09-19"
+  },
+  "876632399": {
+   "fragment_id": "876628034",
+   "type": 11,
+   "heading": "Artigo 13.º — Credenciação de segurança",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 13.º — Credenciação de segurança\n\n1 - As empresas que, nos termos do n.º 1 do artigo 5.º, se candidatam à concessão de autorização para o exercício da actividade na indústria de armamento são objecto de processo de credenciação de segurança nacional a submeter à autoridade nacional de segurança.\n\n2 - Para efeitos do número anterior e a requerimento do interessado, a habilitação para a credenciação é apresentada pela DGAED junto do Gabinete Nacional de Segurança da Presidência do Conselho de Ministros.\n\n3 - A decisão relativa à credenciação deve ser comunicada à DGAED até ao termo do prazo previsto no n.º 2 do artigo 8.º, sob pena de dever o pedido ter-se por indeferido.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632400": {
+   "fragment_id": "876628035",
+   "type": 11,
+   "heading": "Artigo 14.º — Legislação complementar",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 14.º — Legislação complementar\n\nA importação, exportação e reexportação pelas empresas privadas, de produtos acabados e semiacabados, matérias-primas, bens militares e tecnologias associadas, no âmbito do n.º 5 do artigo 4.º do presente diploma, está sujeita à obtenção da documentação exigível nos termos do Decreto-Lei n.º 371/80, de 11 de Setembro.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632401": {
+   "fragment_id": "876628036",
+   "type": 11,
+   "heading": "Artigo 15.º — Supervisão do exercício da indústria de armamento",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 15.º — Supervisão do exercício da indústria de armamento\n\n1 - O exercício da actividade das empresas autorizadas nos termos do presente diploma fica sujeito à supervisão da DGAED.\n\n2 - No exercício das funções de supervisão a DGAED dispõe de poderes para:\n\na) Obter informações pormenorizadas sobre a situação das empresas através, nomeadamente, da recolha de dados, da exigência de documentos relativos ao exercício da actividade ou de inspecções a efectuar nas instalações das empresas;\n\nb) Acompanhar e vigiar a observância das disposições legais e regulamentares aplicáveis às empresas pelos seus dirigentes, responsáveis ou pessoas que as controlam;\n\nc) Recomendar todas as medidas adequadas e necessárias para garantir o cumprimento das normas referidas na alínea anterior.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632402": {
+   "fragment_id": "876628037",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma transitória",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 16.º — Norma transitória\n\n1 - As empresas privadas que actualmente exercem actividade no sector da indústria do armamento consideram-se autorizadas, sem prejuízo de lhes ser aplicável o preceituado no presente diploma.\n\n2 - As empresas referidas no número anterior estão, nomeadamente, obrigadas a prestar a informação a que se referem os artigos 5.º, 10.º e 11.º do presente diploma no prazo de 30 dias a contar da data da respectiva entrada em vigor, sob pena de revogação da autorização para o exercício da actividade de indústria de armamento.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632403": {
+   "fragment_id": "876628038",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nÉ revogada a alínea c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 214/86, de 2 de Agosto, no que se refere à matéria abrangida pelo presente diploma.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  },
+  "876632404": {
+   "fragment_id": "876628039",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2009-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Outubro de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 17 de Novembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 3 de Dezembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 43.º do/a [Lei n.º 49/2009 - Diário da República n.º 150/2009, Série I de 2009-08-05](https://diariodarepublica.pt/dr/detalhe/lei/49-2009-493978), em vigor a partir de 2009-08-06"
+  }
+ }
+}

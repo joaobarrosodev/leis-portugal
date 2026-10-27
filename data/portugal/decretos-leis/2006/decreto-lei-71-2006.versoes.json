@@ -1,0 +1,369 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:671386:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34573775",
+ "dre_path": "/dr/detalhe/decreto-lei/71-2006-671386",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-03-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "180110392",
+    "46816375",
+    "46816475",
+    "46816575",
+    "46816675",
+    "46816775"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243747:por",
+     "title": "Lei n.º 64-A/2008",
+     "published": "2008-12-31",
+     "dre_path": "/dr/detalhe/lei/64-a-2008-243747"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "46816275",
+    "57503404",
+    "46816475",
+    "46816575",
+    "46816675",
+    "46816775",
+    "46816875"
+   ]
+  },
+  {
+   "date": "2011-03-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144217:por",
+     "title": "Decreto-Lei n.º 29-A/2011",
+     "published": "2011-03-01",
+     "dre_path": "/dr/detalhe/decreto-lei/29-a-2011-144217"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "46816275",
+    "57503404",
+    "57552197",
+    "46816575",
+    "46816675",
+    "46816775",
+    "46816875"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "46816275",
+    "57503404",
+    "57552197",
+    "57552199",
+    "46816675",
+    "46816775",
+    "46816875"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164404:por",
+     "title": "Lei n.º 83-C/2013",
+     "published": "2013-12-31",
+     "dre_path": "/dr/detalhe/lei/83-c-2013-164404"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "46816275",
+    "57503404",
+    "57552197",
+    "57552200",
+    "46816675",
+    "46816775",
+    "46816875"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66022084:por",
+     "title": "Lei n.º 82-D/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-d-2014-66022084"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º"
+   ],
+   "fragments": [
+    "46816275",
+    "57503404",
+    "57552197",
+    "57552200",
+    "46816675",
+    "46816775",
+    "180110390",
+    "180110391"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75150234:por",
+     "title": "Decreto-Lei n.º 42-A/2016",
+     "published": "2016-08-12",
+     "dre_path": "/dr/detalhe/decreto-lei/42-a-2016-75150234"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "180110392",
+    "180110393",
+    "180110394",
+    "180110395",
+    "180110396",
+    "180110397",
+    "180110398",
+    "180110399"
+   ]
+  }
+ ],
+ "fragments": {
+  "180110392": {
+   "fragment_id": "35193575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-01-01",
+   "changed_by": [],
+   "markdown": "A criação de um instrumento operacional designado por Fundo Português de Carbono, destinado a financiar medidas que facilitem o cumprimento dos compromissos do Estado Português no âmbito do Protocolo de Quioto, foi prevista pela Resolução do Conselho de Ministros n.º 53/2005, de 3 de Março, que aprovou o Plano Nacional de Atribuição de Licenças de Emissão. Tendo-se previsto na lei do Orçamento do Estado para o ano de 2006 a transferência de uma verba, até ao limite de € 6 000 000, que permita dar início ao seu funcionamento, impõe-se agora proceder à constituição do Fundo e estabelecer o essencial do seu regime jurídico.\n\nA actividade do Fundo centra-se na obtenção de créditos de emissão por via dos mecanismos de flexibilidade previstos no Protocolo de Quioto. Atento o défice de cumprimento previsto no Programa Nacional para as Alterações Climáticas, adoptado pela Resolução do Conselho de Ministros n.º 119/2004, de 31 de Julho, a evolução recente do preço do carbono nos mercados internacionais de comércio de emissões e a complexidade e morosidade do recurso aos Mecanismos de Desenvolvimento Limpo e aos projectos de Implementação Conjunta, torna-se urgente a actuação pelo Governo nesta matéria.\n\nOs recursos financeiros a afectar ao Fundo são constituídos, inicialmente, pela dotação prevista na Lei do Orçamento do Estado para 2006.\n\nComo princípios relevantes para a actuação do Fundo Português de Carbono, devem destacar-se a maximização do seu retorno em termos de equivalentes de carbono, o alinhamento com as políticas sectoriais do Governo, a flexibilidade na selecção de medidas e investimentos a financiar e a transparência na gestão financeira, que permita o completo escrutínio público do seu funcionamento.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "46816375": {
+   "fragment_id": "35521375",
+   "type": 11,
+   "heading": "Artigo 1.º — Designação, âmbito e natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Designação, âmbito e natureza jurídica\n\n1 - É criado, no âmbito do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, o Fundo Português de Carbono, doravante designado por Fundo.\n\n2 - O Fundo tem a natureza de património autónomo sem personalidade jurídica."
+  },
+  "46816475": {
+   "fragment_id": "35521475",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos e actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos e actividade\n\n1 - O Fundo tem como objectivo contribuir para o cumprimento dos compromissos quantificados de limitação de emissões de gases com efeito de estufa a que o Estado Português se comprometeu ao ratificar o Protocolo de Quioto.\n\n2 - Na prossecução do objectivo enunciado no número anterior, o Fundo desenvolve a sua actividade, nomeadamente, através das seguintes linhas de acção:\n\na) Obtenção de créditos de emissão de gases com efeito de estufa, a preços competitivos, através do investimento directo em mecanismos de flexibilidade do Protocolo de Quioto (Comércio de Licenças de Emissão, projectos de Implementação Conjunta e projectos de Mecanismos de Desenvolvimento Limpo);\n\nb) Obtenção de créditos de emissão de gases com efeito de estufa, a preços competitivos, através do investimento em fundos geridos por terceiros ou outros instrumentos do mercado de carbono;\n\nc) Apoio a projectos, em Portugal, que conduzam a uma redução de emissões de gases com efeito de estufa, nomeadamente nas áreas da eficiência energética, energias renováveis, sumidouros de carbono, captação e sequestração geológica de CO(índice 2), e adopção de novas tecnologias, quando o retorno em termos de emissões evitadas assim o recomende;\n\nd) Promoção da participação de entidades públicas e privadas nos mecanismos de flexibilidade do Protocolo de Quioto."
+  },
+  "46816575": {
+   "fragment_id": "35521575",
+   "type": 11,
+   "heading": "Artigo 3.º — Fontes de financiamento e transição de saldos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fontes de financiamento e transição de saldos\n\n1 - O Fundo é financiado pelas seguintes receitas:\n\na) As dotações que para ele sejam canalizadas anualmente por meio da lei do Orçamento do Estado;\n\nb) O produto das taxas, contribuições ou impostos que lhe sejam afectos;\n\nc) Os rendimentos dos investimentos previstos no n.º 2 do artigo 2.º;\n\nd) A percentagem do valor das coimas que lhe venha a ser afecta por lei;\n\ne) Os rendimentos provenientes de aplicações financeiras;\n\nf) O produto de doações, heranças, legados ou contribuições mecenáticas;\n\ng) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património;\n\nh) Quaisquer outras receitas que lhe sejam atribuídas por lei ou negócio jurídico.\n\n2 - Os saldos que vierem a ser apurados no fim do ano económico transitam para o ano seguinte, nos termos do decreto de execução orçamental em vigor."
+  },
+  "46816675": {
+   "fragment_id": "35521675",
+   "type": 11,
+   "heading": "Artigo 4.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Despesas\n\nConstituem despesas do Fundo as que resultem de encargos decorrentes da aplicação do presente decreto-lei."
+  },
+  "46816775": {
+   "fragment_id": "35521775",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades gestoras e regulamento de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades gestoras e regulamento de gestão\n\n1 - A gestão do Fundo é atribuída:\n\na) Ao comité executivo da CAC, na vertente técnica;\n\nb) À Direcção-Geral do Tesouro, na vertente financeira.\n\n2 - O regulamento de gestão do Fundo determina as condições em que se realizarão as despesas referidas no artigo anterior, sendo aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, do ambiente e da economia."
+  },
+  "46816275": {
+   "fragment_id": "35193575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A criação de um instrumento operacional designado por Fundo Português de Carbono, destinado a financiar medidas que facilitem o cumprimento dos compromissos do Estado Português no âmbito do Protocolo de Quioto, foi prevista pela Resolução do Conselho de Ministros n.º 53/2005, de 3 de Março, que aprovou o Plano Nacional de Atribuição de Licenças de Emissão. Tendo-se previsto na lei do Orçamento do Estado para o ano de 2006 a transferência de uma verba, até ao limite de € 6 000 000, que permita dar início ao seu funcionamento, impõe-se agora proceder à constituição do Fundo e estabelecer o essencial do seu regime jurídico.\n\nA actividade do Fundo centra-se na obtenção de créditos de emissão por via dos mecanismos de flexibilidade previstos no Protocolo de Quioto. Atento o défice de cumprimento previsto no Programa Nacional para as Alterações Climáticas, adoptado pela Resolução do Conselho de Ministros n.º 119/2004, de 31 de Julho, a evolução recente do preço do carbono nos mercados internacionais de comércio de emissões e a complexidade e morosidade do recurso aos Mecanismos de Desenvolvimento Limpo e aos projectos de Implementação Conjunta, torna-se urgente a actuação pelo Governo nesta matéria.\n\nOs recursos financeiros a afectar ao Fundo são constituídos, inicialmente, pela dotação prevista na Lei do Orçamento do Estado para 2006.\n\nComo princípios relevantes para a actuação do Fundo Português de Carbono, devem destacar-se a maximização do seu retorno em termos de equivalentes de carbono, o alinhamento com as políticas sectoriais do Governo, a flexibilidade na selecção de medidas e investimentos a financiar e a transparência na gestão financeira, que permita o completo escrutínio público do seu funcionamento.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "57503404": {
+   "fragment_id": "35521375",
+   "type": 11,
+   "heading": "Artigo 1.º — Designação, âmbito e natureza jurídica",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 164.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Designação, âmbito e natureza jurídica\n\n1 - É criado, no âmbito do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, o Fundo Português de Carbono, doravante designado por Fundo.\n\n2 - O Fundo tem a natureza de património autónomo sem personalidade jurídica e com autonomia administrativa e financeira.\n\n> Alterado pelo/a Artigo 164.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "46816875": {
+   "fragment_id": "35521875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra.\n\nPromulgado em 1 de Março de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Março de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "57552197": {
+   "fragment_id": "35521475",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos e actividade",
+   "in_force_from": "2011-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 88.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02"
+   ],
+   "markdown": "###### Artigo 2.º — Objectivos e actividade\n\n1 - O Fundo tem como objectivo contribuir para o cumprimento dos compromissos quantificados de limitação de emissões de gases com efeito de estufa a que o Estado Português se comprometeu ao ratificar o Protocolo de Quioto, bem como de outros compromissos internacionais de Portugal na área das alterações climáticas.\n\n2 - Na prossecução do objectivo enunciado no número anterior, o Fundo desenvolve a sua actividade, nomeadamente, através das seguintes linhas de acção:\n\na) Obtenção de créditos de emissão de gases com efeito de estufa, a preços competitivos, através do investimento directo em mecanismos de flexibilidade do Protocolo de Quioto (Comércio de Licenças de Emissão, projectos de Implementação Conjunta e projectos de Mecanismos de Desenvolvimento Limpo);\n\nb) Obtenção de créditos de emissão de gases com efeito de estufa, a preços competitivos, através do investimento em fundos geridos por terceiros ou outros instrumentos do mercado de carbono;\n\nc) Apoio a projectos, em Portugal, que conduzam a uma redução de emissões de gases com efeito de estufa, nomeadamente nas áreas da eficiência energética, energias renováveis, sumidouros de carbono, captação e sequestração geológica de CO(índice 2), e adopção de novas tecnologias, quando o retorno em termos de emissões evitadas assim o recomende;\n\nd) Promoção da participação de entidades públicas e privadas nos mecanismos de flexibilidade do Protocolo de Quioto.\n\ne) Apoio a projectos de cooperação internacional na área das alterações climáticas;\n\nf) Apoio a projectos estruturantes de contabilização das emissões de gases com efeito de estufa e sequestro de carbono em Portugal.\n\n> Alterado pelo/a Artigo 88.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02"
+  },
+  "57552199": {
+   "fragment_id": "35521575",
+   "type": 11,
+   "heading": "Artigo 3.º — Fontes de financiamento e transição de saldos",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 178.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Fontes de financiamento e transição de saldos\n\n1 - O Fundo é financiado pelas seguintes receitas:\n\na) As dotações que para ele sejam canalizadas anualmente por meio da lei do Orçamento do Estado;\n\nb) O produto das taxas, contribuições ou impostos que lhe sejam afectos;\n\nc) Os rendimentos dos investimentos previstos no n.º 2 do artigo 2.º;\n\nd) A percentagem do valor das coimas que lhe venha a ser afecta por lei;\n\ne) Os rendimentos provenientes de aplicações financeiras;\n\nf) O produto de doações, heranças, legados ou contribuições mecenáticas;\n\ng) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património;\n\nh) Quaisquer outras receitas que lhe sejam atribuídas por lei ou negócio jurídico.\n\n2 - São ainda receitas do Fundo:\n\na) O montante das cobranças provenientes da harmonização fiscal entre o gasóleo de aquecimento e o gasóleo rodoviário;\n\nb) 80 % do montante das cobranças provenientes da taxa sobre lâmpadas de baixa eficiência, prevista no Decreto-Lei n.º 108/2007, de 12 de abril;\n\nc) 70 % do produto das compensações pelo não cumprimento da obrigação de incorporação de biocombustíveis, prevista no Decreto-Lei n.º 49/2009, de 26 de fevereiro;\n\nd) O montante das receitas de leilões para o setor da aviação, conforme previsto no Decreto-Lei n.º 93/2010, de 27 de julho;\n\ne) O montante das receitas nacionais de leilões relativos ao comércio europeu de licenças de emissão (CELE), no âmbito dos artigos 16.º-B e 16.º-C do Decreto-Lei n.º 233/2004, de 14 de dezembro;\n\nf) O montante de outras receitas que venham a ser afetas a seu favor.\n\n3 - Os saldos que vierem a ser apurados no fim do ano económico transitam para o ano seguinte, nos termos do decreto de execução orçamental em vigor.\n\n> Alterado pelo/a Artigo 178.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "57552200": {
+   "fragment_id": "35521575",
+   "type": 11,
+   "heading": "Artigo 3.º — Fontes de financiamento e transição de saldos",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 173.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 178.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Fontes de financiamento e transição de saldos\n\n1 - O Fundo é financiado pelas seguintes receitas:\n\na) As dotações que para ele sejam canalizadas anualmente por meio da lei do Orçamento do Estado;\n\nb) O produto das taxas, contribuições ou impostos que lhe sejam afectos;\n\nc) Os rendimentos dos investimentos previstos no n.º 2 do artigo 2.º;\n\nd) A percentagem do valor das coimas que lhe venha a ser afecta por lei;\n\ne) Os rendimentos provenientes de aplicações financeiras;\n\nf) O produto de doações, heranças, legados ou contribuições mecenáticas;\n\ng) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património;\n\nh) Quaisquer outras receitas que lhe sejam atribuídas por lei ou negócio jurídico.\n\n2 - São ainda receitas do Fundo:\n\na) O montante das cobranças provenientes da harmonização fiscal entre o gasóleo de aquecimento e o gasóleo rodoviário;\n\nb) 80 % do montante das cobranças provenientes da taxa sobre lâmpadas de baixa eficiência, prevista no Decreto-Lei n.º 108/2007, de 12 de abril;\n\nc) 70 % do produto das compensações pelo não cumprimento da obrigação de incorporação de biocombustíveis, prevista no Decreto-Lei n.º 49/2009, de 26 de fevereiro;\n\nd) O montante das receitas de leilões para o setor da aviação, conforme previsto no Decreto-Lei n.º 93/2010, de 27 de julho;\n\ne) O montante das receitas nacionais de leilões relativos ao comércio europeu de licenças de emissão (CELE), no âmbito do artigo 17.º do Decreto-Lei n.º 38/2013, de 15 de março;\n\nf) O montante de outras receitas que venham a ser afetas a seu favor.\n\n3 - Os saldos que vierem a ser apurados no fim do ano económico transitam para o ano seguinte, nos termos do decreto de execução orçamental em vigor.\n\n> Alterado pelo/a Artigo 173.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 178.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "180110390": {
+   "fragment_id": "180076217",
+   "type": 11,
+   "heading": "Artigo 6.º — Relatório anual",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 15.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Relatório anual\n\nO gestor do Fundo publica no sítio na Internet do organismo responsável pela sua gestão, na vertente técnica, até ao dia 31 de março de cada ano, um relatório de onde conste a descrição das receitas obtidas e respetiva aplicação, bem como a identificação e descrição das atividades promovidas e financiadas pelo Fundo no ano anterior e respetivos critérios de seleção.\n\n> Aditado pelo/a Artigo 15.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-01"
+  },
+  "180110391": {
+   "fragment_id": "35521875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra.\n\nPromulgado em 1 de Março de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Março de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "180110393": {
+   "fragment_id": "35521375",
+   "type": 11,
+   "heading": "Artigo 1.º — Designação, âmbito e natureza jurídica",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 164.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Designação, âmbito e natureza jurídica\n\n1 - É criado, no âmbito do Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, o Fundo Português de Carbono, doravante designado por Fundo.\n\n2 - O Fundo tem a natureza de património autónomo sem personalidade jurídica e com autonomia administrativa e financeira.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 164.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "180110394": {
+   "fragment_id": "35521475",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos e actividade",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 88.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02"
+   ],
+   "markdown": "###### Artigo 2.º — Objectivos e actividade\n\n1 - O Fundo tem como objectivo contribuir para o cumprimento dos compromissos quantificados de limitação de emissões de gases com efeito de estufa a que o Estado Português se comprometeu ao ratificar o Protocolo de Quioto, bem como de outros compromissos internacionais de Portugal na área das alterações climáticas.\n\n2 - Na prossecução do objectivo enunciado no número anterior, o Fundo desenvolve a sua actividade, nomeadamente, através das seguintes linhas de acção:\n\na) Obtenção de créditos de emissão de gases com efeito de estufa, a preços competitivos, através do investimento directo em mecanismos de flexibilidade do Protocolo de Quioto (Comércio de Licenças de Emissão, projectos de Implementação Conjunta e projectos de Mecanismos de Desenvolvimento Limpo);\n\nb) Obtenção de créditos de emissão de gases com efeito de estufa, a preços competitivos, através do investimento em fundos geridos por terceiros ou outros instrumentos do mercado de carbono;\n\nc) Apoio a projectos, em Portugal, que conduzam a uma redução de emissões de gases com efeito de estufa, nomeadamente nas áreas da eficiência energética, energias renováveis, sumidouros de carbono, captação e sequestração geológica de CO(índice 2), e adopção de novas tecnologias, quando o retorno em termos de emissões evitadas assim o recomende;\n\nd) Promoção da participação de entidades públicas e privadas nos mecanismos de flexibilidade do Protocolo de Quioto.\n\ne) Apoio a projectos de cooperação internacional na área das alterações climáticas;\n\nf) Apoio a projectos estruturantes de contabilização das emissões de gases com efeito de estufa e sequestro de carbono em Portugal.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 88.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02"
+  },
+  "180110395": {
+   "fragment_id": "35521575",
+   "type": 11,
+   "heading": "Artigo 3.º — Fontes de financiamento e transição de saldos",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 173.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 178.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Fontes de financiamento e transição de saldos\n\n1 - O Fundo é financiado pelas seguintes receitas:\n\na) As dotações que para ele sejam canalizadas anualmente por meio da lei do Orçamento do Estado;\n\nb) O produto das taxas, contribuições ou impostos que lhe sejam afectos;\n\nc) Os rendimentos dos investimentos previstos no n.º 2 do artigo 2.º;\n\nd) A percentagem do valor das coimas que lhe venha a ser afecta por lei;\n\ne) Os rendimentos provenientes de aplicações financeiras;\n\nf) O produto de doações, heranças, legados ou contribuições mecenáticas;\n\ng) O produto da alienação, oneração ou cedência temporária de bens ou direitos do seu património;\n\nh) Quaisquer outras receitas que lhe sejam atribuídas por lei ou negócio jurídico.\n\n2 - São ainda receitas do Fundo:\n\na) O montante das cobranças provenientes da harmonização fiscal entre o gasóleo de aquecimento e o gasóleo rodoviário;\n\nb) 80 % do montante das cobranças provenientes da taxa sobre lâmpadas de baixa eficiência, prevista no Decreto-Lei n.º 108/2007, de 12 de abril;\n\nc) 70 % do produto das compensações pelo não cumprimento da obrigação de incorporação de biocombustíveis, prevista no Decreto-Lei n.º 49/2009, de 26 de fevereiro;\n\nd) O montante das receitas de leilões para o setor da aviação, conforme previsto no Decreto-Lei n.º 93/2010, de 27 de julho;\n\ne) O montante das receitas nacionais de leilões relativos ao comércio europeu de licenças de emissão (CELE), no âmbito do artigo 17.º do Decreto-Lei n.º 38/2013, de 15 de março;\n\nf) O montante de outras receitas que venham a ser afetas a seu favor.\n\n3 - Os saldos que vierem a ser apurados no fim do ano económico transitam para o ano seguinte, nos termos do decreto de execução orçamental em vigor.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 173.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 178.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "180110396": {
+   "fragment_id": "35521675",
+   "type": 11,
+   "heading": "Artigo 4.º — Despesas",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Despesas\n\nConstituem despesas do Fundo as que resultem de encargos decorrentes da aplicação do presente decreto-lei.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01"
+  },
+  "180110397": {
+   "fragment_id": "35521775",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades gestoras e regulamento de gestão",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entidades gestoras e regulamento de gestão\n\n1 - A gestão do Fundo é atribuída:\n\na) Ao comité executivo da CAC, na vertente técnica;\n\nb) À Direcção-Geral do Tesouro, na vertente financeira.\n\n2 - O regulamento de gestão do Fundo determina as condições em que se realizarão as despesas referidas no artigo anterior, sendo aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, do ambiente e da economia.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01"
+  },
+  "180110398": {
+   "fragment_id": "180076217",
+   "type": 11,
+   "heading": "Artigo 6.º — Relatório anual",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01",
+    "Aditado pelo/a Artigo 15.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Relatório anual\n\nO gestor do Fundo publica no sítio na Internet do organismo responsável pela sua gestão, na vertente técnica, até ao dia 31 de março de cada ano, um relatório de onde conste a descrição das receitas obtidas e respetiva aplicação, bem como a identificação e descrição das atividades promovidas e financiadas pelo Fundo no ano anterior e respetivos critérios de seleção.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01\n\n> Aditado pelo/a Artigo 15.º do/a [Lei n.º 82-D/2014 - Diário da República n.º 252/2014, 2º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-d-2014-66022084), em vigor a partir de 2015-01-01"
+  },
+  "180110399": {
+   "fragment_id": "35521875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra.\n\nPromulgado em 1 de Março de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Março de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01"
+  }
+ }
+}

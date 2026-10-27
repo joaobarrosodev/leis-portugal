@@ -1,0 +1,654 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:72854782:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-75038740",
+ "dre_path": "/dr/detalhe/portaria/418-2015-72854782",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75040964",
+    "75040965",
+    "75040966",
+    "75040967",
+    "75040968",
+    "75040969",
+    "75040970",
+    "75040971",
+    "75040972",
+    "75040973",
+    "75040974",
+    "75044275",
+    "75044276",
+    "75044277",
+    "75044278",
+    "75044279",
+    "75044280",
+    "75044281",
+    "75044282",
+    "75044283",
+    "75044284",
+    "75044285",
+    "75044286",
+    "75044287",
+    "75044288",
+    "75044290",
+    "75044291"
+   ]
+  },
+  {
+   "date": "2016-05-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74334115:por",
+     "title": "Portaria n.º 124/2016",
+     "published": "2016-05-04",
+     "dre_path": "/dr/detalhe/portaria/124-2016-74334115"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "75040964",
+    "75040965",
+    "75040966",
+    "75040967",
+    "75040968",
+    "75040969",
+    "75040970",
+    "75040971",
+    "75040972",
+    "75040973",
+    "75040974",
+    "75044275",
+    "75044276",
+    "75044277",
+    "75044278",
+    "75044279",
+    "75044280",
+    "75044281",
+    "75044282",
+    "75044283",
+    "75044284",
+    "75044285",
+    "75044286",
+    "75044287",
+    "75044288",
+    "75044289",
+    "75044296",
+    "75044291"
+   ]
+  },
+  {
+   "date": "2018-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117343947:por",
+     "title": "Declaração de Retificação n.º 40/2018",
+     "published": "2018-12-12",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/40-2018-117343947"
+    },
+    {
+     "id": "pt:dre:117114264:por",
+     "title": "Portaria n.º 303/2018",
+     "published": "2018-11-26",
+     "dre_path": "/dr/detalhe/portaria/303-2018-117114264"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 18.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "75040964",
+    "75040965",
+    "75040966",
+    "75040967",
+    "75040968",
+    "75040969",
+    "75040970",
+    "75040971",
+    "75040972",
+    "75040973",
+    "117125381",
+    "75044275",
+    "75044276",
+    "75044277",
+    "75044278",
+    "75044279",
+    "75044280",
+    "117125382",
+    "75044282",
+    "75044283",
+    "75044284",
+    "117125383",
+    "75044286",
+    "75044287",
+    "75044288",
+    "75044289",
+    "75044296",
+    "75044291"
+   ]
+  },
+  {
+   "date": "2021-11-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174824637:por",
+     "title": "Portaria n.º 265/2021",
+     "published": "2021-11-24",
+     "dre_path": "/dr/detalhe/portaria/265-2021-174824637"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "75040964",
+    "75040965",
+    "75040966",
+    "75040967",
+    "75040968",
+    "75040969",
+    "75040970",
+    "75040971",
+    "75040972",
+    "75040973",
+    "117125381",
+    "174878680",
+    "75044276",
+    "921782581",
+    "921782587",
+    "921782588",
+    "921782585",
+    "921782586",
+    "921782584",
+    "174878528",
+    "174878529",
+    "174878530",
+    "174878531",
+    "174878532",
+    "75044287",
+    "75044288",
+    "75044289",
+    "174878689",
+    "75044291"
+   ]
+  },
+  {
+   "date": "2025-06-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:921693793:por",
+     "title": "Portaria n.º 261/2025/1",
+     "published": "2025-06-17",
+     "dre_path": "/dr/detalhe/portaria/261-2025-921693793"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "75040964",
+    "75040965",
+    "75040966",
+    "75040967",
+    "75040968",
+    "75040969",
+    "75040970",
+    "75040971",
+    "75040972",
+    "75040973",
+    "117125381",
+    "174878680",
+    "75044276",
+    "921782581",
+    "921782587",
+    "921782588",
+    "921826733",
+    "921826734",
+    "921826735",
+    "174878528",
+    "174878529",
+    "174878530",
+    "174878531",
+    "174878532",
+    "75044287",
+    "75044288",
+    "75044289",
+    "174878689",
+    "75044291"
+   ]
+  }
+ ],
+ "fragments": {
+  "75040964": {
+   "fragment_id": "75038741",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 418/2015\n\nde 10 de dezembro\n\nO Regulamento (CE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), estabelece como objetivos o incentivo da competitividade da agricultura; a gestão sustentável dos recursos naturais e ações do domínio do clima e o desenvolvimento territorial equilibrado das economias em comunidades rurais, nomeadamente, através da criação e manutenção do emprego.\n\nO Regulamento (CE) n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão, ao Fundo Europeu Agrícola de Desenvolvimento Rural e ao Fundo Europeu dos Assuntos Marítimos e das Pescas, define e caracteriza o Desenvolvimento Local de Base Comunitária (DLBC), as Estratégias de Desenvolvimento Local de Base Comunitária e os Grupos de Ação Local.\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabeleceu o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.\n\nO PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.\n\nA medida n.º 10 LEADER, do Programa de Desenvolvimento Rural do Continente, designado por PDR 2020, visa promover o desenvolvimento de atividades económicas criadoras de riqueza e de emprego, permitindo fixar a população e aproveitar recursos endógenos, transformando-os em fatores de competitividade.\n\nEstas funções têm vindo a assumir maior importância, correspondendo a novas procuras e necessidades da população urbana e outra, exterior ao território local.\n\nConjuga-se, assim, o reconhecimento das potencialidades dos territórios em todas as suas componentes: um património físico e cultural, um potencial endógeno de produção e um património ambiental, com base nos quais se pode estruturar uma base de desenvolvimento local.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado Adjunto e da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas pela Ministra da Agricultura e do Mar, através do Despacho n.º 13363/2015, publicado no Diário da República, 2.ª série, n.º 191, de 20 de novembro, o seguinte:\n\n> Nota: [Artigo 5.º, Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637) A presente portaria aplica-se aos anúncios de apresentação de candidaturas abertos após a data da sua entrada em vigor."
+  },
+  "75040965": {
+   "fragment_id": "75038742",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "75040966": {
+   "fragment_id": "75038743",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação da ação n.º 10.4, «Funcionamento e animação», integradas na «Medida n.º 10 - LEADER», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "75040967": {
+   "fragment_id": "75038744",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nO apoio previsto na presente portaria visa promover o desempenho das funções dos Grupos de Ação Local relativas à implementação, gestão, acompanhamento, animação e avaliação de uma estratégia de desenvolvimento local na vertente Desenvolvimento Local de Base Comunitária rural."
+  },
+  "75040968": {
+   "fragment_id": "75038745",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Grupos de Ação Local (GAL)», parceria formada por representantes locais dos setores público e privado de um determinado território de intervenção, representativa das atividades socioeconómicas e com uma estratégia de desenvolvimento própria, denominada estratégia de desenvolvimento local de base comunitária;\n\nb) «Desenvolvimento Local de Base Comunitária (DLBC)», abordagem de desenvolvimento que:\n\ni) Incide em zonas sub-regionais específicas;\n\nii) É dirigido por grupos de ação local compostos por representantes dos interesses socioeconómicos locais, públicos e privados, nos casos em que, aos níveis de decisão, as autoridades públicas tal como definidas de acordo com as regras nacionais, ou qualquer grupo de interesses individual não representem mais de 49 % dos direitos de voto;\n\niii) É impulsionado através de estratégias integradas e multissetoriais de desenvolvimento local;\n\niv) É planeado tendo em conta as necessidades e potencialidades locais, incluindo as características inovadoras no contexto local, a ligação em rede e, se for caso disso, as formas de cooperação;\n\nc) «Entidade gestora», o responsável administrativo e financeiro, selecionado pelos membros da parceria, capaz de administrar fundos públicos e garantir o seu funcionamento;\n\nd) «Equipa técnica local (ETL)», equipa de apoio na dependência hierárquica do órgão de gestão do GAL, gerida por um coordenador, devendo a sua composição ser multidisciplinar, com dominância de formação nas áreas relacionadas com as linhas prioritárias da estratégia de desenvolvimento de cada território, não podendo os membros da ETL pertencer, em simultâneo, ao órgão de gestão do GAL;\n\ne) «Estratégia de desenvolvimento local (EDL)», o modelo de desenvolvimento para um território de intervenção, sustentado na participação dos agentes locais, com vista a dar resposta às suas necessidades através da valorização dos recursos endógenos, assente num conjunto de prioridades e objetivos fixados a partir de um diagnóstico, privilegiando uma abordagem integrada, inovadora e com efeitos multiplicadores;\n\nf) «Território de intervenção» o conjunto de freguesias aprovado no âmbito do reconhecimento dos GAL."
+  },
+  "75040969": {
+   "fragment_id": "75038746",
+   "type": 1,
+   "heading": "Capítulo II — «Funcionamento e Animação»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — «Funcionamento e Animação»"
+  },
+  "75040970": {
+   "fragment_id": "75038747",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar dos apoios previstos na presente portaria os GAL reconhecidos na vertente DLBC Rural ou as respetivas Entidades Gestoras."
+  },
+  "75040971": {
+   "fragment_id": "75038748",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos na presente portaria, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Encontrar-se legalmente constituídos;\n\nb) Ter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social;\n\nc) Ter a situação regularizada em matéria de reposições no âmbito do financiamento do Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e do Fundo Europeu Agrícola de Garantia (FEAGA), ou ter constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\nd) Não ter sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\ne) Deter um sistema de contabilidade organizada ou simplificada, nos termos da legislação em vigor.\n\n2 - A condição prevista na alínea b) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento."
+  },
+  "75040972": {
+   "fragment_id": "75038749",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade das operações\n\nPodem beneficiar dos apoios previstos na presente portaria as operações que se enquadrem nos objetivos do artigo 2.º:\n\na) Funcionamento dos GAL, ou da respetiva entidade gestora;\n\nb) Formação e capacitação dos recursos;\n\nc) Promoção de organização de seminários, colóquios e conferências nas áreas de atuação;\n\nd) Monitorização e avaliação da estratégia;\n\ne) Animação da estratégia de desenvolvimento local de base comunitária."
+  },
+  "75040973": {
+   "fragment_id": "75038750",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis e não elegíveis\n\n1 - As despesas elegíveis são, designadamente, as constantes do anexo I à presente portaria, da qual faz parte integrante.\n\n2 - São elegíveis as despesas efetuadas após a data de reconhecimento dos GAL no âmbito do concurso «Desenvolvimento de Base Comunitária, Concurso para apresentação de Candidaturas», e desde que a operação não se encontre totalmente concluída à data de apresentação da candidatura à presente ação."
+  },
+  "75040974": {
+   "fragment_id": "75038751",
+   "type": 11,
+   "heading": "Artigo 8.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações dos beneficiários\n\nOs beneficiários dos apoios previstos na presente portaria devem cumprir, além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação conferida pelo Decreto-Lei n.º 215/2015, de 6 de outubro, as seguintes obrigações:\n\na) Executar as operações do plano de ação nos termos e prazos previstos nos planos de atividade anuais, de acordo com modelo divulgado pela Autoridade de Gestão do PDR 2020;\n\nb) Elaborar anualmente o relatório de atividades relativo à execução das estratégias, de acordo com modelo divulgado pela Autoridade de Gestão do PDR 2020;\n\nc) Elaborar os relatórios de Avaliação da Estratégia, de acordo com modelo divulgado pela Autoridade de Gestão do PDR 2020;\n\nd) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações;\n\ne) Comunicar à autoridade de gestão qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projeto;\n\nf) Publicitar os apoios que lhe forem atribuídos nos termos da legislação comunitária aplicável e das normas técnicas do PDR 2020;\n\ng) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nh) Manter um sistema de contabilidade organizada ou simplificada, nos termos da legislação em vigor;\n\ni) Garantir que todos os pagamentos e recebimentos relativos à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;\n\nj) Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nk) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluída, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior;\n\nl) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços ou entidades constituintes da parceria, ou conflitos relativos a segregação de funções na estrutura orgânica da ETL."
+  },
+  "75044275": {
+   "fragment_id": "75038752",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma, nível e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Forma, nível e limites do apoio\n\n1 - O apoio previsto na presente portaria assume a forma de subvenção não reembolsável.\n\n2 - O nível do apoio é de 100 % das despesas elegíveis.\n\n3 - O montante de apoio a alocar aos custos operacionais e de animação tem como limite máximo 25 % do total da despesa pública financiada pelo FEADER, incorrida no âmbito da estratégia de DLBC.\n\n4 - As despesas gerais decorrentes de encargos com instalações, nomeadamente despesas de funcionamento previstas no anexo I, classificadas como custos indiretos, assumem a modalidade de custos simplificados, sendo determinadas por aplicação de uma taxa fixa de 5 % das despesas com pessoal, de acordo com o previsto na subalínea ii) da alínea e) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro."
+  },
+  "75044276": {
+   "fragment_id": "75038753",
+   "type": 1,
+   "heading": "Capítulo III — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimento"
+  },
+  "75044277": {
+   "fragment_id": "75038754",
+   "type": 11,
+   "heading": "Artigo 10.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação das candidaturas\n\n1 - É estabelecido o período para apresentação de candidaturas de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt e publicitado em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura."
+  },
+  "75044278": {
+   "fragment_id": "75038755",
+   "type": 11,
+   "heading": "Artigo 11.º — Anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, enviados aos beneficiários pela autoridade de gestão por correio eletrónico e indicam, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A dotação orçamental a atribuir;\n\nc) A forma, o nível e os limites dos apoios a conceder, respeitando o disposto no artigo 9.º\n\n2 - Os anúncios dos períodos de apresentação das candidaturas são divulgados pela autoridade de gestão, no portal do Portugal 2020, em www.portugal2020.pt, no portal do PDR 2020, em www.pdr-2020.pt e publicitados em dois órgãos de comunicação social."
+  },
+  "75044279": {
+   "fragment_id": "75038756",
+   "type": 11,
+   "heading": "Artigo 12.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Análise e decisão das candidaturas\n\n1 - A autoridade de gestão analisa e emite parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do beneficiário e da operação, o apuramento do montante do custo total elegível.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.\n\n3 - O parecer referido no n.º 1 do presente artigo é emitido num prazo máximo de 45 dias úteis a contar da data limite para a apresentação das candidaturas.\n\n4 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código de Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n5 - As candidaturas são objeto de decisão pelo gestor no prazo de 60 dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.\n\n6 - Em resultado da aplicação do n.º 9 do artigo 66.º do Decreto-Lei n.º 137/2014, de 12 de setembro, e consequente distribuição da reserva de desempenho, a Autoridade de Gestão pode, tendo em vista a adequação à nova dotação da EDL, reforçar o valor aprovado no âmbito da decisão proferida, devendo esta alteração ser comunicada nos termos dos números anteriores."
+  },
+  "75044280": {
+   "fragment_id": "75038757",
+   "type": 11,
+   "heading": "Artigo 13.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "75044281": {
+   "fragment_id": "75038758",
+   "type": 11,
+   "heading": "Artigo 14.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Os pedidos de pagamento reportam-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamento relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Sem prejuízo do previsto na alínea anterior, o beneficiário pode constituir um Fundo Fixo de Caixa (FFC), no montante máximo de 500 euros, em condições a definir em Orientação Técnica Específica.\n\n5 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n6 - Podem ser apresentados até quatro pedidos de pagamentos anuais por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n7 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento.\n\n8 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n9 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt.\n\n10 - O disposto nos n.os 2 e 3 não é aplicável às despesas gerais de encargos com instalações, nomeadamente despesas de funcionamento classificadas como custos indiretos, as quais decorrem das despesas com pessoal apresentadas no pedido de pagamento."
+  },
+  "75044282": {
+   "fragment_id": "75038759",
+   "type": 11,
+   "heading": "Artigo 15.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.\n\n4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores, adota os procedimentos necessários ao respetivo pagamento.\n\n5 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro."
+  },
+  "75044283": {
+   "fragment_id": "75038760",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamentos\n\n1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.\n\n2 - Os pagamentos dos apoios são efetuados por transferência bancária para a conta referida na alínea i) do artigo 8.º"
+  },
+  "75044284": {
+   "fragment_id": "75038761",
+   "type": 11,
+   "heading": "Artigo 17.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Controlo\n\nAs operações objeto de apoio, incluindo a candidatura e os pedidos de pagamento, estão sujeitas a ações de controlo administrativo e in loco a partir da data da submissão autenticada do termo de aceitação, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável."
+  },
+  "75044285": {
+   "fragment_id": "75038762",
+   "type": 11,
+   "heading": "Artigo 18.º — Reduções, suspensões e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reduções, suspensões e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções, suspensões e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções, suspensões e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 10.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo II à presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "75044286": {
+   "fragment_id": "75038763",
+   "type": 11,
+   "heading": "Artigo 19.º — Funções delegadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Funções delegadas\n\n1 - São delegadas nos beneficiários previstos da presente portaria, mediante a celebração de protocolo, as competências previstas no artigo 34.º do Regulamento n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.\n\n2 - Podem, ainda, ser delegadas nos beneficiários da presente portaria, mediante a celebração de protocolo, as competências previstas no n.º 2 do artigo 43.º do Decreto-Lei n.º 137/2014, de 12 de setembro, nomeadamente, a receção e análise dos pedidos de pagamento apresentados pelos beneficiários do PDR 2020 e as inerentes às tarefas de recolha, arquivamento e carregamento da respetiva informação, e à divulgação, prestação de esclarecimentos e apoio técnico respetivo.\n\n3 - As entidades delegantes podem suspender ou cessar, total ou parcialmente, a delegação de competências, sempre que se verifique o incumprimento do protocolo estabelecido nos termos dos números anteriores ou o incumprimento das recomendações formuladas pelas entidades delegantes.\n\n4 - As despesas apresentadas pelos beneficiários tornam-se inelegíveis, nos termos a definir no protocolo, após a suspensão ou a cessação da delegação de competências referidas nos números anteriores."
+  },
+  "75044287": {
+   "fragment_id": "75038764",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "75044288": {
+   "fragment_id": "75038765",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "75044290": {
+   "fragment_id": "75038767",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis do apoio «Custos de funcionamento e animação»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Despesas elegíveis do apoio «Custos de funcionamento e animação»\n\n(a que se refere o n.º 1 do artigo 7.º e o n.º 4 do artigo 9.º)\n\nDespesas elegíveis:\n\nOs custos operacionais ligados à implementação, gestão, acompanhamento, animação e avaliação da estratégia de desenvolvimento local, desde que demonstrada a sua necessidade estrutural em face das despesas similares que foram já cofinanciadas no anterior período de programação.\n\nA) Custos diretos com pessoal\n\n1 - Remunerações e outras prestações de natureza salarial, encargos sociais e outras despesas associadas em condições a definir em Orientação Técnica Específica;\n\nB) Outros custos diretos\n\n2 - Despesas de formação de pessoal;\n\n3 - Deslocações e estadas, em conformidade com os valores previstos para as ajudas de custo na administração pública;\n\n4 - Encargos relacionados com a compra, aluguer e utilização de veículos, incluindo o aluguer operacional;\n\n5 - Encargos com rendas de instalações em condições a definir em Orientação Técnica Específica;\n\n6 - Encargos com trabalhos de adaptação de instalações;\n\n7 - Aquisição de mobiliário e equipamento de escritório, incluindo economato e consumíveis de impressão;\n\n8 - Equipamentos informáticos, infraestruturas tecnológicas e sistemas de informação, de comunicação e de monitorização;\n\n9 - Aquisição de bens e serviços, incluindo os recursos a apoios técnicos especializados, como o desenvolvimento aplicacional, nos domínios das comunicações, da Internet, multimédia, publicidade, divulgação e sensibilização;\n\nC) Custos indiretos\n\n10 - Encargos com instalações, tais como despesas de funcionamento como água, eletricidade, comunicações, serviços de limpeza, produtos de higiene e limpeza.\n\nDespesas não elegíveis\n\n(ver documento original)"
+  },
+  "75044291": {
+   "fragment_id": "75038768",
+   "type": 14,
+   "heading": "Anexo II — Reduções, suspensões e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Reduções, suspensões e exclusões\n\n(a que se refere o n.º 2 do artigo 18.º)\n\n1 - O incumprimento das obrigações dos beneficiários, previstas no artigo 18.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:\n\nReduções e exclusões\n\n(ver documento original)\n\n2 - O disposto no número anterior não prejudica, designadamente, a aplicação:\n\na) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nb) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nc) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nd) Do artigo 63.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014;\n\ne) De outras cominações, designadamente de natureza penal, que ao caso couberem.\n\n3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt."
+  },
+  "75044289": {
+   "fragment_id": "75038766",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e da Agricultura, José Diogo Santiago Albuquerque, em 23 de novembro de 2015."
+  },
+  "75044296": {
+   "fragment_id": "75038767",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis do apoio «Custos de funcionamento e animação»",
+   "in_force_from": "2016-05-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 124/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/124-2016-74334115), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "## Anexo I — Despesas elegíveis do apoio «Custos de funcionamento e animação»\n\n(a que se refere o n.º 1 do artigo 7.º e o n.º 4 do artigo 9.º)\n\nDespesas elegíveis:\n\nOs custos operacionais ligados à implementação, gestão, acompanhamento, animação e avaliação da estratégia de desenvolvimento local, desde que demonstrada a sua necessidade estrutural em face das despesas similares que foram já cofinanciadas no anterior período de programação.\n\nA) Custos diretos com pessoal\n\n1 - Remunerações e outras prestações de natureza salarial, encargos sociais e outras despesas associadas em condições a definir em Orientação Técnica Específica;\n\nB) Outros custos diretos\n\n2 - Despesas de formação de pessoal;\n\n3 - Deslocações e estadas, em conformidade com os valores previstos para as ajudas de custo na administração pública;\n\n4 - Encargos relacionados com a compra, aluguer e utilização de veículos, incluindo o aluguer operacional;\n\n5 - Encargos com rendas de instalações em condições a definir em Orientação Técnica Específica;\n\n6 - Encargos com trabalhos de adaptação de instalações;\n\n7 - Aquisição de mobiliário e equipamento de escritório, incluindo economato e consumíveis de impressão;\n\n8 - Equipamentos informáticos, infraestruturas tecnológicas e sistemas de informação, de comunicação e de monitorização;\n\n9 - Aquisição de bens e serviços, incluindo os recursos a apoios técnicos especializados, como o desenvolvimento aplicacional, nos domínios das comunicações, da Internet, multimédia, publicidade, divulgação e sensibilização;\n\n9-A - Encargos relacionados com a constituição de garantia relativa ao adiantamento previsto no n.º 5 do artigo 14.º\n\nC) Custos indiretos\n\n10 - Encargos com instalações, tais como despesas de funcionamento como água, eletricidade, comunicações, serviços de limpeza, produtos de higiene e limpeza.\n\nDespesas não elegíveis\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 124/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/124-2016-74334115), em vigor a partir de 2016-05-05"
+  },
+  "117125381": {
+   "fragment_id": "75038751",
+   "type": 11,
+   "heading": "Artigo 8.º — Obrigações dos beneficiários",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 8.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, são obrigados a:\n\na) Executar as operações do plano de ação nos termos e prazos previstos nos planos de atividade anuais, de acordo com modelo divulgado pela Autoridade de Gestão do PDR 2020;\n\nb) Elaborar anualmente o relatório de atividades relativo à execução das estratégias, de acordo com modelo divulgado pela Autoridade de Gestão do PDR 2020;\n\nc) Elaborar os relatórios de Avaliação da Estratégia, de acordo com modelo divulgado pela Autoridade de Gestão do PDR 2020;\n\nd) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações;\n\ne) Comunicar à autoridade de gestão qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projeto;\n\nf) Publicitar os apoios que lhe forem atribuídos nos termos da legislação comunitária aplicável e das normas técnicas do PDR 2020;\n\ng) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nh) Manter um sistema de contabilidade organizada ou simplificada, nos termos da legislação em vigor;\n\ni) Garantir que todos os pagamentos e recebimentos relativos à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;\n\nj) Dispor de um processo relativo à operação, preferencialmente em suporte digital, com toda a documentação relacionada com a mesma devidamente organizada, incluindo o suporte de um sistema de contabilidade para todas as transações referentes à operação;\n\nk) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR 2020, consoante a fase em que o encerramento da operação tenha sido incluída, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de auxílios de Estado, se estas fixarem prazo superior;\n\nl) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços ou entidades constituintes da parceria, ou conflitos relativos a segregação de funções na estrutura orgânica da ETL.\n\nm) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea m) do número anterior.\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117125382": {
+   "fragment_id": "75038758",
+   "type": 11,
+   "heading": "Artigo 14.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 14.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Os pedidos de pagamento reportam-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamento relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Sem prejuízo do previsto na alínea anterior, o beneficiário pode constituir um Fundo Fixo de Caixa (FFC), no montante máximo de 500 euros, em condições a definir em Orientação Técnica Específica.\n\n5 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n6 - Podem ser apresentados até cinco pedidos de pagamentos anuais por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n7 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento.\n\n8 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n9 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt.\n\n10 - O disposto nos n.os 2 e 3 não é aplicável às despesas gerais de encargos com instalações, nomeadamente despesas de funcionamento classificadas como custos indiretos, as quais decorrem das despesas com pessoal apresentadas no pedido de pagamento.\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117125383": {
+   "fragment_id": "75038762",
+   "type": 11,
+   "heading": "Artigo 18.º — Reduções, suspensões e exclusões",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 18.º — Reduções, suspensões e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções, suspensões e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções, suspensões e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 10.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo II à presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n5 - A não comprovação do início da execução física da operação no prazo previsto na alínea n) do n.º 1 do artigo 10.º ou no n.º 2 do artigo 10.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "174878680": {
+   "fragment_id": "75038752",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma, nível e limites do apoio",
+   "in_force_from": "2021-11-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25"
+   ],
+   "markdown": "###### Artigo 9.º — Forma, nível e limites do apoio\n\n1 - O apoio previsto na presente portaria assume a forma de subvenção não reembolsável.\n\n2 - O nível do apoio é de 100 % das despesas elegíveis.\n\n3 - O montante de apoio a alocar aos custos operacionais e de animação tem como limite máximo 25 % do total da despesa pública financiada pelo FEADER, incorrida no âmbito da estratégia de DLBC.\n\n4 - As despesas previstas nos n.os 2, 3, 4, 5, 6, 7, 8, 9, 9-A e 10 do anexo i - Despesas elegíveis do apoio «Custos de funcionamento e animação», assumem a modalidade de custos simplificados, sendo determinadas por aplicação de uma taxa fixa de 40 % dos custos diretos de pessoal, elegíveis, de acordo com o previsto no n.º 1 do artigo 68.º-B do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25"
+  },
+  "921782581": {
+   "fragment_id": "75038754",
+   "type": 11,
+   "heading": "Artigo 10.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação das candidaturas\n\n1 - É estabelecido o período para apresentação de candidaturas de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt e publicitado em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura."
+  },
+  "921782587": {
+   "fragment_id": "75038755",
+   "type": 11,
+   "heading": "Artigo 11.º — Anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, enviados aos beneficiários pela autoridade de gestão por correio eletrónico e indicam, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A dotação orçamental a atribuir;\n\nc) A forma, o nível e os limites dos apoios a conceder, respeitando o disposto no artigo 9.º\n\n2 - Os anúncios dos períodos de apresentação das candidaturas são divulgados pela autoridade de gestão, no portal do Portugal 2020, em www.portugal2020.pt, no portal do PDR 2020, em www.pdr-2020.pt e publicitados em dois órgãos de comunicação social."
+  },
+  "921782588": {
+   "fragment_id": "75038756",
+   "type": 11,
+   "heading": "Artigo 12.º — Análise e decisão das candidaturas",
+   "in_force_from": "2021-11-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25"
+   ],
+   "markdown": "###### Artigo 12.º — Análise e decisão das candidaturas\n\n1 - A autoridade de gestão analisa e emite parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do beneficiário e da operação, o apuramento do montante do custo total elegível.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.\n\n3 - O parecer referido no n.º 1 do presente artigo é emitido num prazo máximo de 45 dias úteis a contar da data limite para a apresentação das candidaturas.\n\n4 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código de Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n5 - As candidaturas são objeto de decisão pelo gestor no prazo de 60 dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.\n\n6 - Em resultado da aplicação do n.º 9 do artigo 66.º do Decreto-Lei n.º 137/2014, de 12 de setembro, e consequente distribuição da reserva de desempenho, a Autoridade de Gestão pode, tendo em vista a adequação à nova dotação da EDL, reforçar o valor aprovado no âmbito da decisão proferida, devendo esta alteração ser comunicada nos termos dos números anteriores.\n\n7 - Em resultado da distribuição da dotação do regime de transição a que se refere o Regulamento n.º (UE) 2020/2220, do Parlamento Europeu e do Conselho, de 23 de dezembro de 2020, a Autoridade de Gestão pode, tendo em vista a adequação à nova dotação da EDL, reforçar o valor aprovado no âmbito da decisão proferida, devendo esta alteração ser comunicada nos termos dos n.os 1 a 5 do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25"
+  },
+  "921782585": {
+   "fragment_id": "75038757",
+   "type": 11,
+   "heading": "Artigo 13.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "921782586": {
+   "fragment_id": "174876969",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Pedidos de alteração",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25"
+   ],
+   "markdown": "###### Artigo 13.º-A — Pedidos de alteração\n\n1 - Após a data da submissão autenticada do termo de aceitação, caso se verifique qualquer ocorrência excecional e impossível de prever aquando da apresentação da candidatura, que justifique a necessidade de proceder a alterações ao projeto aprovado, nomeadamente no que diz respeito à sua titularidade, localização, componentes de investimento e prazos de execução, os beneficiários podem apresentar pedido de alteração, nos termos previstos em Orientação Técnica Geral (OTG) divulgada no portal do PDR 2020, em www.pdr-2020.pt.\n\n2 - A alteração proposta não pode alterar substancialmente a natureza do projeto aprovado, os seus objetivos ou as condições de realização, de forma a comprometer os seus objetivos originais.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25"
+  },
+  "921782584": {
+   "fragment_id": "75038758",
+   "type": 11,
+   "heading": "Artigo 14.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2021-11-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25",
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 14.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Os pedidos de pagamento reportam-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamento relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Sem prejuízo do previsto na alínea anterior, o beneficiário pode constituir um Fundo Fixo de Caixa (FFC), no montante máximo de 500 euros, em condições a definir em Orientação Técnica Específica.\n\n5 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n6 - Podem ser apresentados até cinco pedidos de pagamentos anuais por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n7 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento.\n\n8 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n9 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt e no portal do PDR 2020, em www.pdr-2020.pt.\n\n10 - O disposto nos n.os 2 e 3 não é aplicável às despesas de funcionamento classificadas como outros custos diretos, as quais decorrem das despesas com pessoal, apresentadas no pedido de pagamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "174878528": {
+   "fragment_id": "75038759",
+   "type": 11,
+   "heading": "Artigo 15.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.\n\n4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores, adota os procedimentos necessários ao respetivo pagamento.\n\n5 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro."
+  },
+  "174878529": {
+   "fragment_id": "75038760",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamentos\n\n1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.\n\n2 - Os pagamentos dos apoios são efetuados por transferência bancária para a conta referida na alínea i) do artigo 8.º"
+  },
+  "174878530": {
+   "fragment_id": "75038761",
+   "type": 11,
+   "heading": "Artigo 17.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Controlo\n\nAs operações objeto de apoio, incluindo a candidatura e os pedidos de pagamento, estão sujeitas a ações de controlo administrativo e in loco a partir da data da submissão autenticada do termo de aceitação, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável."
+  },
+  "174878531": {
+   "fragment_id": "75038762",
+   "type": 11,
+   "heading": "Artigo 18.º — Reduções, suspensões e exclusões",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 40/2018 - Diário da República n.º 239/2018, Série I de 2018-12-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2018-117343947), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 18.º — Reduções, suspensões e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções, suspensões e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções, suspensões e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 10.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo II à presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n5 - A não comprovação do início da execução física da operação no prazo previsto na alínea m) do n.º 1 do artigo 10.º ou no n.º 2 do artigo 10.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.\n\n> Retificado pelo/a [Declaração de Retificação n.º 40/2018 - Diário da República n.º 239/2018, Série I de 2018-12-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2018-117343947), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "174878532": {
+   "fragment_id": "75038763",
+   "type": 11,
+   "heading": "Artigo 19.º — Funções delegadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Funções delegadas\n\n1 - São delegadas nos beneficiários previstos da presente portaria, mediante a celebração de protocolo, as competências previstas no artigo 34.º do Regulamento n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.\n\n2 - Podem, ainda, ser delegadas nos beneficiários da presente portaria, mediante a celebração de protocolo, as competências previstas no n.º 2 do artigo 43.º do Decreto-Lei n.º 137/2014, de 12 de setembro, nomeadamente, a receção e análise dos pedidos de pagamento apresentados pelos beneficiários do PDR 2020 e as inerentes às tarefas de recolha, arquivamento e carregamento da respetiva informação, e à divulgação, prestação de esclarecimentos e apoio técnico respetivo.\n\n3 - As entidades delegantes podem suspender ou cessar, total ou parcialmente, a delegação de competências, sempre que se verifique o incumprimento do protocolo estabelecido nos termos dos números anteriores ou o incumprimento das recomendações formuladas pelas entidades delegantes.\n\n4 - As despesas apresentadas pelos beneficiários tornam-se inelegíveis, nos termos a definir no protocolo, após a suspensão ou a cessação da delegação de competências referidas nos números anteriores."
+  },
+  "174878689": {
+   "fragment_id": "75038767",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis do apoio «Custos de funcionamento e animação»",
+   "in_force_from": "2021-11-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 124/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/124-2016-74334115), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "## Anexo I — Despesas elegíveis do apoio «Custos de funcionamento e animação»\n\n(a que se referem o n.º 1 do artigo 7.º e o n.º 4 do artigo 9.º)\n\nDespesas elegíveis:\n\nOs custos operacionais ligados à implementação, gestão, acompanhamento, animação e avaliação da estratégia de desenvolvimento local, desde que demonstrada a sua necessidade estrutural em face das despesas similares que foram já cofinanciadas no anterior período de programação.\n\nA) Custos diretos com pessoal:\n\n1 - Remunerações e outras prestações de natureza salarial, encargos sociais e outras despesas associadas em condições a definir em Orientação Técnica Específica;\n\nB) Outros custos diretos:\n\n2 - Despesas de formação de pessoal;\n\n3 - Deslocações e estadas, em conformidade com os valores previstos para as ajudas de custo na administração pública;\n\n4 - Encargos relacionados com a compra, aluguer e utilização de veículos, incluindo o aluguer operacional;\n\n5 - Encargos com rendas de instalações em condições a definir em Orientação Técnica Específica;\n\n6 - Encargos com trabalhos de adaptação de instalações;\n\n7 - Aquisição de mobiliário e equipamento de escritório, incluindo economato e consumíveis de impressão;\n\n8 - Equipamentos informáticos, infraestruturas tecnológicas e sistemas de informação, de comunicação e de monitorização;\n\n9 - Aquisição de bens e serviços, incluindo os recursos a apoios técnicos especializados, como o desenvolvimento aplicacional, nos domínios das comunicações, da Internet, multimédia, publicidade, divulgação e sensibilização;\n\n9-A - Encargos relacionados com a constituição de garantia relativa ao adiantamento previsto no n.º 5 do artigo 14.º\n\nC) Custos indiretos\n\n10 - Encargos com instalações, tais como despesas de funcionamento como água, eletricidade, comunicações, serviços de limpeza, produtos de higiene e limpeza.\n\nDespesas não elegíveis\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 124/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/124-2016-74334115), em vigor a partir de 2016-05-05"
+  },
+  "921826733": {
+   "fragment_id": "75038757",
+   "type": 11,
+   "heading": "Artigo 13.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "921826734": {
+   "fragment_id": "174876969",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Pedidos de alteração",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25"
+   ],
+   "markdown": "###### Artigo 13.º-A — Pedidos de alteração\n\n1 - Após a data da submissão autenticada do termo de aceitação, caso se verifique qualquer ocorrência excecional e impossível de prever aquando da apresentação da candidatura, que justifique a necessidade de proceder a alterações ao projeto aprovado, nomeadamente no que diz respeito à sua titularidade, localização, componentes de investimento e prazos de execução, os beneficiários podem apresentar pedido de alteração, nos termos previstos em Orientação Técnica Geral (OTG) divulgada no portal do PDR 2020, em www.pdr-2020.pt.\n\n2 - A alteração proposta não pode alterar substancialmente a natureza do projeto aprovado, os seus objetivos ou as condições de realização, de forma a comprometer os seus objetivos originais.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25"
+  },
+  "921826735": {
+   "fragment_id": "75038758",
+   "type": 11,
+   "heading": "Artigo 14.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Portaria n.º 261/2025/1 - Diário da República n.º 115/2025, Série I de 2025-06-17](https://diariodarepublica.pt/dr/detalhe/portaria/261-2025-921693793), em vigor a partir de 2025-06-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25",
+    "Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 14.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Os pedidos de pagamento reportam-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Apenas são aceites os pedidos de pagamento relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.\n\n4 - Sem prejuízo do previsto na alínea anterior, o beneficiário pode constituir um Fundo Fixo de Caixa (FFC), no montante máximo de 500 euros, em condições a definir em Orientação Técnica Específica.\n\n5 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 20 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n6 - Podem ser apresentados até cinco pedidos de pagamentos anuais por candidatura aprovada, não incluindo o pedido de pagamento a título de adiantamento.\n\n7 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena do seu indeferimento.\n\n8 - Em casos excecionais e devidamente justificados, o IFAP, I. P. pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n9 - No ano do encerramento do PDR 2020, o último pedido de pagamento deve ser submetido até três meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal do PDR 2020, em www.pdr-2020.pt.\n\n10 - O disposto nos n.os 2 e 3 não é aplicável às despesas de funcionamento classificadas como outros custos diretos, as quais decorrem das despesas com pessoal, apresentadas no pedido de pagamento.\n\n> Alterado pelo/a Artigo 11.º do/a [Portaria n.º 261/2025/1 - Diário da República n.º 115/2025, Série I de 2025-06-17](https://diariodarepublica.pt/dr/detalhe/portaria/261-2025-921693793), em vigor a partir de 2025-06-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 265/2021 - Diário da República n.º 228/2021, Série I de 2021-11-24](https://diariodarepublica.pt/dr/detalhe/portaria/265-2021-174824637), em vigor a partir de 2021-11-25\n\n> Alterado pelo/a Artigo 13.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  }
+ }
+}

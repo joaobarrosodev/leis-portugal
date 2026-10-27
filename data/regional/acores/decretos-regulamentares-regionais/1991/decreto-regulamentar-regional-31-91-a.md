@@ -1,0 +1,284 @@
+---
+schema_version: '1.0'
+id: pt:dre:294159:por
+title: Decreto Regulamentar Regional n.º 31/91/A
+short_title: null
+summary: Cria empregos produtivos na Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional
+proposing_entity: null
+official_number: 31/91/A
+official_date: null
+publication_date: '1991-10-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 226/1991, Série I-B de 1991-10-01
+  number: '226'
+  series: I
+  supplement: null
+  pages: 5092 - 5094
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/10/226b00/50925094.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/31/1991/10/01/a/dre/pt/html
+  oj: null
+  dre: '294159'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/31-1991-294159
+  internal: pt:dre:294159:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1991-294159
+  metadata_url: https://data.dre.pt/eli/decregulreg/31/1991/10/01/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1991-294159
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:27:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 444d5ebe9f3aecebb71ac74989d4319782ae38d87475cdbce5a2cde8e37ff0f7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Criação de Emprego
+- Direcção Regional do Emprego e Formação Profissional
+- Emprego
+- Secretaria Regional da Juventude e Recursos Humanos
+relationships:
+- type: amended_by
+  target: pt:dre:572097:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:numero:declaracao-retificacao:246/91
+  label: RECTIFICADO PELA DECLARAÇÃO RECTIFICAÇÃO NUMERO 246/91, PUBLICADA NO DIÁRIO DA REPÚBLICA, I SERIE-B, NUMERO 251,
+    5 SUPLEMENTO, DE 911031. 11031.
+  source: null
+- type: cites
+  target: pt:dre:396884:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:572097:por
+  label: "Revogado pelo DRR.29/2000/A.2000.08.22.SREAS-RAA, DR.IS-B de 13/Set/2000\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/29-2000-572097
+  date: '2000-08-22'
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:27:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 31/91/A
+
+A promoção económica e social das populações de uma região passa, fundamentalmente, pela mobilização dos seus recursos endógenos. Dentre estes destacam-se particularmente os naturais e os humanos. Nesta perspectiva tem sido preocupação constante do Governo da Região Autónoma dos Açores a adopção de medidas apropriadas a alcançar tal desiderato.
+
+Dentro de um quadro que possibilite uma acção positiva na diminuição do desemprego, que embora tenha na Região uma dimensão pouco significativa, um dos objectivos de maior realce de todas as políticas económicas e, especialmente, de todas as políticas de desenvolvimento é o da criação de empregos produtivos.
+
+Para além das medidas de âmbito micro-económico para debelar os problemas do desemprego, tem-se acentuado em vários países a tendência para a adopção de uma via complementar, com a assunção política dos dinamismos macro-económicos que visam a criação de empregos. Este tem sido o domínio das iniciativas locais de emprego, cujo programa, no âmbito da OCDE, foi aprovado em 1982 e tem constituído uma via própria cheia de potencialidades, criatividade e esperança de emprego para muitos habitantes de locais onde rareiam as oportunidade de trabalho.
+
+Data de 1982 a legislação regional aprovada pela Assembleia Legislativa Regional que cria o suporte jurídico às iniciativas locais e regionais de emprego, tendo vindo, desde então, a ser aplicada a regulamentação vigente no continente, pelo que se torna já pertinente, depois de uma fase de experiência, a elaboração de um quadro regulamentar próprio.
+
+Assim, nos termos dos artigos 14.º e 19.º do [Decreto Regional n.º 16/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/16-1982-396884), de 9 de Agosto, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Caracterização
+
+1 - Para efeitos de acesso aos apoios previstos neste diploma, entendem-se por iniciativas locais de criação de empregos (ILEs) as entidades de natureza privada, associativas, cooperativas, incluindo régies societárias ou singulares, já existentes ou em fase de criação, que sirvam de suporte jurídico a actividades que se caracterizem, cumulativamente por:
+
+a) Capacidade empresarial e viabilidade económica e social;
+
+b) Inserção em dinamismos comunitários ou associativos da população ou grupos sociais a que respeitam e a cujas necessidades procuram responder, tendo em conta o processo de desenvolvimento local;
+
+c) Objectivo de reduzir o desemprego, actual ou previsível, criando novos postos de trabalho.
+
+2 - A viabilidade económica a que se refere a alínea a) do número anterior poderá afirmar-se em termos de mercado ou contratuais.
+
+3 - A viabilidade económica em termos de mercado referida no número anterior deverá medir-se por:
+
+a) Realismo das metas de produção previsionais, pela natureza dos produtos e pela capacidade de produção em ano de cruzeiro;
+
+b) Capacidade de geração de resultados positivos sem necessidade de recorrer a apoios estatais para além dos que se justifiquem, nos termos deste diploma, na fase de arranque do projecto.
+
+4 - A viabilidade social a que se refere a alínea a) do n.º 1 implica, designadamente, a capacidade da ILE para assegurar o cumprimento das normas constantes dos instrumentos de regulamentação colectiva de trabalho aplicáveis.
+
+###### Artigo 2.º — Tipologia
+
+1 - Os apoios previstos neste diploma poderão incidir nos seguintes tipos de ILEs:
+
+a) ILE de base, que é uma unidade de produção de bens ou de serviços de qualquer espécie;
+
+b) ILE de apoio, que se destina à prestação de serviços a ILEs de base.
+
+2 - A ILE de apoio pode resultar ou não da associação de ILEs de base.
+
+3 - Poderão também considerar-se como ILEs em sentido mais alargado os processos locais de animação e desenvolvimento, desde que promovam a criação de postos de trabalho.
+
+4 - Para efeitos de acesso aos incentivos a conceder pela Secretaria Regional da Juventude e Recursos Humanos, compete à Direcção Regional do Emprego e Formação Profissional proceder ao reconhecimento das ILEs de acordo com o disposto nos números anteriores.
+
+###### Artigo 3.º — Formas de promoção
+
+1 - Cabe à Direcção Regional do Emprego e Formação Profissional fomentar o surgimento de ILEs através das seguintes acções:
+
+a) Difusão de informações às comunidades locais, autarquias, grupos especiais da população e às potenciais entidades promotoras de ILEs, tentanto sensibilizá-las para esta via de solução dos problemas de emprego e, ao mesmo tempo, suscitar ou reforçar o espírito de iniciativa;
+
+b) Prestação de apoios diversos às ILEs na sua fase de constituição;
+
+c) Estudo da inclusão das ILEs nas medidas de política de emprego, formação profissional e desenvolvimento.
+
+2 - Para efeitos de difusão de informações e sensibilização, serão privilegiados os contactos directos e a divulgação de documentação ILE, sem prejuízo do recurso a outros meios de comunicação.
+
+###### Artigo 4.º — Formas de apoio
+
+1 - Pela Secretaria Regional da Juventude e Recursos Humanos poderão ser concedidos às ILEs apoios específicos de natureza técnica, técnico-financeira ou financeira destinados, nomeadamente a:
+
+a) Elaboração e execução de projectos de investimento de ILEs e comercialização dos respectivos produtos ou serviços;
+
+b) Fomento da actividade de ILEs de apoio;
+
+c) Acções de estudo e promoção visando o desenvolvimento do emprego;
+
+d) Organização e gestão de ILEs e formação integrada na própria actividade.
+
+2 - O apoio técnico consiste na prestação de serviços próprios da Direcção Regional de Emprego e Formação Profissional.
+
+3 - O apoio técnico-financeiro consiste no financiamento da prestação de serviços por outras entidades.
+
+4 - O apoio financeiro consiste na concessão de subsídios não reembolsáveis ou de empréstimos sem juros.
+
+###### Artigo 5.º — Natureza e montantes
+
+1 - O montante do apoio financeiro destinado à elaboração e execução do projecto de investimento de ILEs de base será determinado em função das necessidades da iniciativa, em relação ao financiamento do projecto, devendo respeitar-se as seguintes condições:
+
+a) Não poderá ultrapassar-se, por emprego a criar, 36 vezes o quantitativo mais elevado do subsídio social de desemprego;
+
+b) Em relação a cada projecto, não poderão ser considerados, para efeitos de apoio, menos de 2 e mais de 20 empregos a criar;
+
+c) A parte do incentivo que reveste a forma de subsídio não reembolsável não poderá ultrapassar o equivalente a 12 vezes o quantitativo mensal mais elevado do subsídio social de desemprego por emprego a criar.
+
+Em cada projecto ILE deverão estar assegurados pela respectiva entidade promotora capitais próprios equivalentes a um montante mínimo de 25% do investimento total.
+
+3 - A ajuda financeira específica a conceder a ILEs de apoio e a agentes de desenvolvimento, por conta própria ou de outra entidade, destina-se ao pagamento de remunerações, reveste a forma de subsídio não reembolsável e obedece às seguintes condições:
+
+a) O valor das remunerações será aferido pelo dos vencimentos da função pública, tendo em conta as habilitações profissionais e académicas;
+
+b) O período de subsídio atribuído a cada pessoa remunerada só poderá ultrapassar dois anos se se verificarem cumulativamente os seguintes requisitos:
+
+Tenham sido alcançados os objectivos visados com a concessão dos apoios anteriores;
+
+Exista provada necessidade de se prosseguir ou alargar o trabalho já realizado;
+
+Não existam hipóteses alternativas de financiamento;
+
+c) O número de pessoas a contemplar simultaneamente em cada ILE de apoio ou outra entidade não poderá ser superior a cinco;
+
+d) Deverá ser apresentado um programa de trabalho tendo em conta os reflexos positivos na criação de novos empregos.
+
+4 - Para efeitos de criação de postos de trabalho que subsistam independentemente dos subsídios referidos no número anterior, as ILEs de apoio e os agentes de desenvolvimento por conta própria poderão beneficiar das ajudas previstas no n.º 1.
+
+###### Artigo 6.º — Reembolso
+
+1 - O prazo máximo normal de reembolso é de cinco anos, podendo o seu início ser diferido até dois anos.
+
+2 - Nos casos em que se prove a impossibilidade de efectuar o reembolso dentro do prazo referido no número anterior, o mesmo poderá ser prorrogado por despacho do Secretário Regional da Juventude e Recursos Humanos, desde que se verifiquem cumulativamente as seguintes condições:
+
+a) Incidência negativa do reembolso na manutenção do nível do emprego;
+
+b) Conhecimento da situação da empresa e respectivo acompanhamento pelos serviços da Secretaria Regional da Juventude e Recursos Humanos;
+
+c) Vinculação às normas que regem estes apoios e às demais consideradas necessárias para a normalização da vida da empresa.
+
+###### Artigo 7.º — Tramitação
+
+1 - Os apoios previstos nos n.os 3 e 4 do artigo 4.º são concedidos por despacho do Secretário Regional da Juventude e Recursos Humanos.
+
+2 - Os apoios previstos no n.º 2 do artigo 4.º são da competência do director regional do Emprego e Formação Profissional.
+
+3 - Os pedidos de apoio são apresentados na Divisão de Fomento do Emprego ou nos centros de emprego da Direcção Regional do Emprego e Formação Profissional.
+
+###### Artigo 8.º — Prioridades
+
+1 - Na apreciação dos pedidos de apoio a favor de ILEs de base ter-se-ão em conta as seguintes características:
+
+a) Percentagem mais elevada de candidatos ao primeiro emprego e desempregados de longa duração;
+
+b) Localização da iniciativa em zona geográfica mais atingida pelo desemprego ou mais desfavorecida em termos de desenvolvimento económico e social, nomeadamente com maior cariz de ruralidade;
+
+c) Natureza da actividade, com evidência para as unidades de produção de bens;
+
+d) Percentagem mais elevada de cooperantes ou sócios no total de indivíduos a empregar;
+
+e) Menor intensidade, em capital, do investimento previsto.
+
+2 - A situação de primeiro emprego e de desempregado de longa duração deverá ser confirmada pelo centro de emprego da área.
+
+###### Artigo 9.º — Parecer autárquico
+
+1 - A Direcção Regional do Emprego e Formação Profissional solicitará parecer às autarquias sobre o interesse da implementação das ILEs na respectiva localidade.
+
+2 - O parecer a que se refere o número anterior deverá ser emitido no prazo de um mês.
+
+###### Artigo 10.º — Incumprimento
+
+1 - Aplicam-se aos apoios financeiros previstos neste diploma as disposições sobre garantias especiais e cobranças coercivas constantes da legislação relativa aos apoios concedidos para criação de postos de trabalho.
+
+2 - O não cumprimento injustificado das obrigações assumidas implica a determinação do reembolso imediato das verbas envolvidas, sem prejuízo do eventual procedimento disciplinar, civil ou criminal.
+
+###### Artigo 11.º — Avaliação
+
+1 - Cada entidade beneficiária dos apoios previstos neste diploma deverá elaborar anualmente, durante os três primeiros anos, um relatório acerca das actividades desenvolvidas e respectivos resultados, efectuando o necessário confronto com a acção programada, os compromissos e os resultados inicialmente previstos, apresentando a justificação dos desvios apurados na execução técnica e financeira e no cumprimento dos prazos.
+
+2 - Sem prejuízo do disposto no número anterior, será elaborado por cada entidade beneficiária, no prazo de seis meses após a concessão do apoio, um relatório preliminar que proporcione uma primeira apreciação da realização das acções previstas e a introdução em tempo oportuno, de eventuais rectificações.
+
+3 - Os relatórios referidos nos números anteriores deverão identificar os postos de trabalho criados ao longo do ano, a movimentação das verbas, a situação dos respectivos reembolsos e as perspectivas para os anos subsequentes.
+
+###### Artigo 12.º — Financiamento
+
+O regime de apoios financeiros previsto neste diploma será financiado pelo Gabinete de Gestão Financeira do Emprego, em cujo orçamento inscreverá, em cada ano económico, as verbas necessárias para o efeito.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente diploma entra imediatamente em vigor.
+
+Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 30 de Julho de 1991.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 3 de Setembro de 1991.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.

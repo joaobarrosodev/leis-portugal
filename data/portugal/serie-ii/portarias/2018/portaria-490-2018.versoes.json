@@ -1,0 +1,1102 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:116536698:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-122728105",
+ "dre_path": "/dr/detalhe/portaria/490-2018-116536698",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-09-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "858574977",
+    "122738479",
+    "122738480",
+    "122738481",
+    "122738482",
+    "122738483",
+    "122738484",
+    "122738485",
+    "122738486",
+    "122738487",
+    "122738488",
+    "122738489",
+    "122738490",
+    "122738491",
+    "122738492",
+    "122738493",
+    "122738494",
+    "122738495",
+    "122738496",
+    "122738497",
+    "122738498",
+    "122738499",
+    "122738500",
+    "122738501",
+    "122738502",
+    "122738503",
+    "122738504",
+    "122738505",
+    "122738506",
+    "122738507",
+    "122738508",
+    "122738509",
+    "122738510",
+    "122738511",
+    "122738512",
+    "122738513"
+   ]
+  },
+  {
+   "date": "2019-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122728689:por",
+     "title": "Portaria n.º 198/2019",
+     "published": "2019-06-27",
+     "dre_path": "/dr/detalhe/portaria/198-2019-122728689"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "122738478",
+    "122738479",
+    "122738480",
+    "122738481",
+    "122738986",
+    "122738987",
+    "122738988",
+    "122738989",
+    "122738990",
+    "122738991",
+    "122738992",
+    "122738488",
+    "122738489",
+    "122738490",
+    "122738491",
+    "122738492",
+    "122738493",
+    "122738494",
+    "122738996",
+    "122738496",
+    "122738497",
+    "122738997",
+    "122738998",
+    "122738500",
+    "122738501",
+    "122738502",
+    "122738999",
+    "122738504",
+    "122738505",
+    "122738506",
+    "122738507",
+    "122738508",
+    "122738509",
+    "122738510",
+    "122738511",
+    "122738512",
+    "122738993"
+   ]
+  },
+  {
+   "date": "2023-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211393782:por",
+     "title": "Portaria n.º 159-A/2023 - 2.ª Série",
+     "published": "2023-04-03",
+     "dre_path": "/dr/detalhe/portaria/159-a-2023-211393782"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "122738478",
+    "122738479",
+    "122738480",
+    "122738481",
+    "122738986",
+    "215980251",
+    "122738988",
+    "122738989",
+    "122738990",
+    "122738991",
+    "122738992",
+    "122738488",
+    "122738489",
+    "215980252",
+    "122738491",
+    "122738492",
+    "122738493",
+    "215980253",
+    "122738996",
+    "215980254",
+    "122738497",
+    "215980255",
+    "122738998",
+    "122738500",
+    "215980256",
+    "122738502",
+    "215980257",
+    "122738504",
+    "122738505",
+    "122738506",
+    "216056680",
+    "122738508",
+    "122738509",
+    "122738510",
+    "122738511",
+    "122738512",
+    "215980258"
+   ]
+  },
+  {
+   "date": "2024-03-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:858196732:por",
+     "title": "Portaria n.º 124-A/2024/1",
+     "published": "2024-03-28",
+     "dre_path": "/dr/detalhe/portaria/124-a-2024-858196732"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "858574977",
+    "858574978",
+    "858574979",
+    "858574980",
+    "858574981",
+    "858574982",
+    "858574983",
+    "858574984",
+    "858574985",
+    "858574986",
+    "858574987",
+    "858574988",
+    "858574989",
+    "858574990",
+    "858574991",
+    "858574992",
+    "858574993",
+    "858574994",
+    "858574995",
+    "858574996",
+    "858574997",
+    "858574998",
+    "858574999",
+    "858575000",
+    "858575001",
+    "858575002",
+    "858575003",
+    "858575004",
+    "858575005",
+    "858575006",
+    "858575007",
+    "858575008",
+    "858575009",
+    "858575010",
+    "858575011",
+    "858575012",
+    "858575013"
+   ]
+  }
+ ],
+ "fragments": {
+  "858574977": {
+   "fragment_id": "122728106",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-03-29",
+   "changed_by": [],
+   "markdown": "Portaria n.º 490/2018\n\nO Decreto-Lei n.º 45/2018, de 19 de junho, autorizado nos termos do artigo 204.º da Lei n.º 114/2017, de 29 de dezembro (Lei do Orçamento do Estado para 2018), criou o Fundo de Apoio ao Turismo e ao Cinema e revogou, também conforme autorização prevista na Lei do Orçamento do Estado para 2018, nomeadamente no seu artigo 220.º, o artigo 59.º-F do Estatuto dos Benefícios Fiscais, bem como o Decreto-Lei n.º 22/2017, de 22 de fevereiro, e a alínea h) do n.º 2 do artigo 92.º do Código do IRC, com o objetivo de substituir este regime de tipo fiscal por um mecanismo mais favorável de incentivo à produção cinematográfica e audiovisual, através de um sistema de reembolso de despesas de produção (cash rebate).\n\nEm conformidade, o Fundo de Apoio ao Turismo e ao Cinema inclui uma vertente de incentivo à produção cinematográfica e audiovisual e à captação de filmagens internacionais para Portugal, que contribuam para promover internacionalmente a imagem do país, em harmonia com os objetivos de política cinematográfica e audiovisual enquanto atividade cultural, a qual, nos termos do n.º 2 do artigo 5.º do Decreto-Lei n.º 45/2018, de 19 de junho, é regulamentada por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, cultura e turismo.\n\nNestas circunstâncias, impõe-se regulamentar o programa de incentivo à produção cinematográfica e audiovisual e à captação de filmagens internacionais para Portugal no âmbito do Fundo.\n\nProcede-se, nesse sentido, pela presente portaria, à regulamentação do programa de Incentivo à produção cinematográfica e audiovisual no âmbito do Fundo de Apoio ao Turismo e ao Cinema, assegurando-se a respetiva compatibilidade com o Regulamento (UE) n.º 651/2014 da Comissão Europeia, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças e da Cultura e pela Secretária de Estado do Turismo, no uso da competência que lhe foi delegada através do Despacho n.º 7543/2017, de 18 de agosto, publicado no Diário da República, 2.ª série, n.º 164, de 25 de agosto de 2017, e ao abrigo do n.º 2 do artigo 5.º do Decreto-Lei n.º 45/2018, de 19 de junho, o seguinte:"
+  },
+  "122738479": {
+   "fragment_id": "122728107",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece as normas de aplicação do regime de incentivo à produção cinematográfica e audiovisual, a seguir designado por «Incentivo», no âmbito do Fundo de Apoio ao Turismo e ao Cinema, abreviadamente designado por Fundo, criado pelo Decreto-Lei n.º 45/2018, de 19 de junho.\n\n2 - É aprovado, em anexo à presente portaria e que dela faz parte integrante, o Regulamento do Incentivo à Produção Cinematográfica e Audiovisual."
+  },
+  "122738480": {
+   "fragment_id": "122728108",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\nCompete ao Instituto do Cinema e Audiovisual, I. P. (ICA, I. P.) e ao Turismo de Portugal, I. P., assegurar os procedimentos relativos à instrução dos processos, nos termos da presente portaria, bem como a promoção nacional e internacional do Incentivo."
+  },
+  "122738481": {
+   "fragment_id": "122728109",
+   "type": 11,
+   "heading": "Artigo 3.º — Marca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Marca\n\nPode ser utilizada uma marca para efeitos de promoção nacional e internacional do Incentivo."
+  },
+  "122738482": {
+   "fragment_id": "122728110",
+   "type": 11,
+   "heading": "Artigo 4.º — Prospeção e promoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prospeção e promoção\n\n1 - O Fundo pode financiar missões de prospeção de produtores estrangeiros que considerem a possibilidade de vir a filmar em Portugal.\n\n2 - O pedido de financiamento é apresentado mediante formulário próprio, disponibilizado no sítio do ICA, I. P., até vinte dias úteis antes da missão prevista.\n\n3 - São cobertas as despesas com viagens, alojamento e serviços no âmbito da prospeção de locais de filmagem e do apuramento da viabilidade da produção em Portugal.\n\n4 - Se o projeto vier a ser produzido e a recorrer ao Incentivo à produção, o apoio dado à prospeção vai ser incorporado nas contas finais do projeto, para efeitos de cálculo da intensidade do apoio público.\n\n5 - O Fundo financia ou cofinancia ações de promoção do Incentivo, dos recursos e empresas e da indústria cinematográfica nacional, nomeadamente através da participação em mercados e outros eventos.\n\n6 - As ações referidas no número anterior enquadram-se em planos anuais ou plurianuais de promoção e nos planos de atividades do Fundo, aprovados pelo órgão de gestão do Fundo, mediante parecer do Conselho Consultivo.\n\n7 - Nos casos em que uma ação promocional no âmbito de um mercado ou outro evento implique uma presença com expositor, sempre que possível, este é organizado na forma de stand aberto aos profissionais, empresas e projetos nacionais presentes no mercado ou evento em causa.\n\n8 - Salvo decisão justificada em contrário, as medidas de apoio à prospeção e de promoção, assim como outras despesas que, neste âmbito, e que, pela sua natureza e objetivos, venham a ser legalmente imputadas ao Fundo, têm como limite máximo 5 % do orçamento do Incentivo."
+  },
+  "122738483": {
+   "fragment_id": "122728111",
+   "type": 11,
+   "heading": "Artigo 5.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Confidencialidade\n\n1 - As entidades intervenientes não podem divulgar as informações recebidas que os candidatos tenham identificado como confidenciais no momento da apresentação da candidatura, exceto no que se refere aos documentos que devem ser publicamente acessíveis nos termos da Lei n.º 26/2016, de 22 de agosto, e demais disposições aplicáveis.\n\n2 - Sem prejuízo do número anterior, a confidencialidade abrange, entre outros, os documentos protegidos por direitos de autor ou direitos conexos, bem como os documentos que revelem segredo relativo à propriedade literária, artística, industrial ou científica, segredos técnicos ou comerciais, aspetos confidenciais dos projetos e quaisquer outras informações cujo conteúdo possa ser usado para distorcer a concorrência ou prejudicar os direitos do candidato no processo de avaliação ou posteriormente, nos termos da Lei n.º 26/2016, de 22 de agosto, e das restrições resultantes do Código do Direito de Autor e dos Direitos Conexos e do Código da Propriedade Industrial e demais legislação aplicável à proteção da propriedade intelectual."
+  },
+  "122738484": {
+   "fragment_id": "122728112",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação\n\nAté 31 de dezembro de 2022, a entidade gestora do Fundo promove a realização de uma avaliação do funcionamento e do impacto do Incentivo face aos seus objetivos, nomeadamente na perspetiva da renovação do Incentivo."
+  },
+  "122738485": {
+   "fragment_id": "122728113",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime transitório\n\nOs projetos cujos produtores tenham requerido o reconhecimento provisório para efeitos do incentivo fiscal à produção cinematográfica e audiovisual previsto no Decreto-Lei n.º 22/2017, de 22 de fevereiro, até à data da entrada em vigor da presente portaria, transitam automaticamente para o âmbito do presente Incentivo nos seguintes termos:\n\na) Os projetos cujo pedido de reconhecimento provisório tenha sido entregue mas ainda não deferido pelo ICA, I. P., são apreciados nos termos da presente portaria;\n\nb) Os projetos cujo pedido de reconhecimento provisório tenha sido deferido pelo ICA, I. P., consideram-se automaticamente admitidos ao benefício do Incentivo previsto na presente portaria, convertendo-se em apoio financeiro ao abrigo desta os montantes de dedução, crédito fiscal ou reembolso atribuídos a esses projetos, referentes a despesas elegíveis efetuadas a partir de 2018."
+  },
+  "122738486": {
+   "fragment_id": "122728114",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n24 de setembro de 2018. - O Ministro das Finanças, Mário José Gomes de Freitas Centeno. - O Ministro da Cultura, Luís Filipe Carrilho de Castro Mendes. - A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho."
+  },
+  "122738487": {
+   "fragment_id": "122728115",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 1.º)\n\nRegulamento do Incentivo à Produção Cinematográfica e Audiovisual através do Fundo de Apoio ao Turismo e ao Cinema"
+  },
+  "122738488": {
+   "fragment_id": "122728116",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Âmbito"
+  },
+  "122738489": {
+   "fragment_id": "122728117",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece as regras do programa de incentivo à produção cinematográfica e audiovisual com relevância promocional internacional e cultural e à captação de filmagens internacionais para Portugal, através do Fundo de Apoio ao Turismo e ao Cinema."
+  },
+  "122738490": {
+   "fragment_id": "122728118",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos da aplicação do presente Incentivo, entende-se por:\n\na) «Desenvolvimento», o processo de elaboração do projeto que antecede a entrada em produção, incluindo os trabalhos de escrita e pesquisa, a aquisição de direitos e/ou autorizações, a identificação de locais de filmagem e das equipas e recursos técnicos e artísticos, a preparação do orçamento de produção e do plano de financiamento, a procura de parceiros, coprodutores e financiadores, a preparação do calendário de produção, a elaboração de planos iniciais de marketing e exploração, o desenvolvimento gráfico, a participação em ações internacionais de formação destinadas a produtores e autores, desde que as ações em causa incluam comprovadamente trabalho prático com incidência em projetos dos participantes inseridos no plano de escrita e desenvolvimento, a participação em fóruns internacionais de coprodução e eventos comparáveis, a realização de ensaios ou testes e produção de maquetes ou pilotos, tratamentos com imagens em movimento, teasers, websites ou outros suportes de apresentação e promoção;\n\nb) «Iniciativa», a decisão do produtor de desenvolver e produzir o projeto, assegurando a capacidade legal de o fazer, através da obtenção dos direitos de autor ou autorizações dos detentores de direitos de autor necessários a tais fins;\n\nc) «Produção estrangeira», aquela que é realizada sem coprodução portuguesa, cabendo todo o financiamento da produção e todos os direitos de propriedade intelectual a pessoas jurídicas sem sede ou não residentes em Portugal;\n\nd) «Produtor executivo», a pessoa coletiva que efetua uma produção executiva, isto é, por conta de um produtor devidamente habilitado a produzir uma obra cinematográfica ou audiovisual de sua iniciativa, e, nos termos de contrato de prestação de serviços celebrado com este, é encarregada de reunir os meios artísticos e técnicos com vista à realização da obra e de assegurar a gestão de operações conducentes à realização da obra ou de partes desta, de acordo com um orçamento previamente acordado, sem participar na titularidade de direitos de propriedade intelectual da obra.\n\n2 - Os demais termos utilizados no presente regulamento que estejam definidos na Lei n.º 55/2012, de 6 de setembro, alterada pela Lei n.º 28/2014, de 19 de maio, ou no Decreto-Lei n.º 25/2018, de 24 de abril, e respetiva regulamentação são entendidos na aceção expressa nesses diplomas, se o presente regulamento não dispuser noutro sentido."
+  },
+  "122738491": {
+   "fragment_id": "122728119",
+   "type": 1,
+   "heading": "Capítulo II — Entidades beneficiárias e projetos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Entidades beneficiárias e projetos elegíveis"
+  },
+  "122738492": {
+   "fragment_id": "122728120",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\n1 - Podem requerer a admissão ao benefício do Incentivo as pessoas coletivas que estejam inscritas no Registo das Entidades Cinematográficas e Audiovisuais previsto na Lei n.º 55/2012, de 6 de setembro, e no Decreto-Lei n.º 25/2018, de 24 de abril, e que tenham por objeto social:\n\na) A atividade de produção de filmes destinados a ser projetados em salas de cinema ou a ser difundidos pela televisão ou explorados através de serviços de comunicação audiovisual a pedido ou outros serviços de comunicação audiovisual; ou\n\nb) A prestação de serviços técnicos no domínio da produção de cinema e audiovisual, incluindo o aluguer de equipamento de imagem, iluminação e maquinaria, bem como atividades técnicas de pós-produção, incluindo, nomeadamente, as atividades de montagem, corte, dobragem, legendagem, trucagem, animação gráfica, efeitos de computador, sonorização e imagens de síntese, bem como atividades de laboratórios para produção de filmes e dos laboratórios especiais para filmes de animação e atividades de pós-produção sonora.\n\n2 - O Instituto do Cinema e do Audiovisual (ICA, I. P.) assegura no Registo das Entidades Cinematográficas e Audiovisuais uma modalidade de registo de empresa europeia não residente e sem sucursal em Portugal, de modo a permitir o requerimento de admissão ao benefício do Incentivo a pessoas coletivas com sede noutro Estado membro da União Europeia ou num Estado do Espaço Económico Europeu.\n\n3 - Nos casos previstos no número anterior, antes da data do início da realização das despesas de produção elegíveis, a entidade requerente tem de estabelecer sociedade ou sucursal com personalidade tributária em Portugal, sendo admissíveis as pessoas coletivas de objeto específico e duração limitada à produção e gestão de uma ou mais obras («sociedades-veículo»).\n\n4 - Em caso de coprodução que envolva mais do que um produtor estabelecido em Portugal, cada um dos coprodutores entrega um pedido de admissão ao benefício do Incentivo relativo às despesas elegíveis que suporte."
+  },
+  "122738493": {
+   "fragment_id": "122728121",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos a satisfazer pelas entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos a satisfazer pelas entidades beneficiárias\n\nPodem beneficiar do Incentivo as empresas que preencham os seguintes requisitos:\n\na) Dispor de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;\n\nb) Não se encontrar em estado de insolvência, declarada por sentença judicial, em fase de liquidação, dissolução ou cessação de atividade, sujeita a qualquer meio preventivo de liquidação de património ou em qualquer situação análoga ou que tenha o respetivo processo pendente, exceto se estiver abrangido por um plano de insolvência, ao abrigo da legislação em vigor;\n\nc) Não estar sujeito a uma injunção de recuperação pendente, na sequência de decisão da Comissão Europeia que tenha declarado ilegal e incompatível com o mercado interno um auxílio de estado recebido;\n\nd) Ter a situação contributiva regularizada perante a administração fiscal e a segurança social;\n\ne) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo ICA, I. P., pelo Turismo de Portugal, I. P., ou por programas internacionais em que o Estado participe através do ICA, I. P.;\n\nf) No caso de coprodução envolvendo requerentes que sejam entidades sujeitas às obrigações de investimento previstas nos artigos 14.º a 17.º da Lei n.º 55/2012, de 6 de setembro, ou empresas produtoras não independentes por aquelas participadas ou com elas relacionadas nos termos previstos na subalínea ii) da alínea r) do artigo 2.º da referida Lei, estas não deterem uma participação maioritária na coprodução, nem na totalidade desta, nem, se se tratar de coprodução internacional, no âmbito da parte portuguesa.\n\ng) Não se encontrar em situação de incumprimento das obrigações previstas nos artigos 14.º a 17.º da Lei n.º 55/2012, de 6 de setembro, sempre que aplicáveis."
+  },
+  "122738494": {
+   "fragment_id": "122728122",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos relativos aos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos relativos aos projetos\n\n1 - São elegíveis projetos de obras produzidas total ou parcialmente em Portugal com relevância promocional internacional e relevância cultural, promovidos por produtores nacionais ou não nacionais, podendo ser realizados em coprodução reconhecida por tratados internacionais ou em coprodução de facto, ou mediante recurso a produtor executivo local ou estabelecimento de sociedade ou sucursal com personalidade tributária em Portugal, sendo admissíveis as pessoas coletivas de objeto específico e duração limitada à produção e gestão de uma ou mais obras («sociedades-veículo»).\n\n2 - Considera-se que há coprodução de facto quando a obra não pode beneficiar de reconhecimento oficial ao abrigo de tratados internacionais, mas há vínculo contratual entre coprodutores e o contrato de coprodução consagra como direitos das partes a copropriedade do negativo ou master da obra e estabelece as proporções das participações de cada parte e o regime de repartição dos direitos de exploração e receitas, bem como a lei aplicável.\n\n3 - A atribuição do benefício depende da realização, em território nacional, de despesas elegíveis, certificadas em sede de apuramento definitivo, em montante não inferior a (euro) 500 000,00 por obra, ou (euro) 250 000,00, no caso de documentários ou quando as atividades de produção em Portugal não incluam filmagens.\n\n4 - São unicamente admitidos projetos de obras que tenham distribuição internacional, nomeadamente, estreia comercial em sala e/ou edição em DVD/BluRay e/ou difusão em serviços de televisão e/ou comercialização noutros serviços de comunicação social audiovisual, nomeadamente serviços de Vídeo on Demand (VOD), num dos seguintes casos:\n\na) Pelo menos três territórios de distribuição, incluindo pelo menos um território em que o português não seja a língua oficial ou nacional;\n\nb) Um ou mais territórios de distribuição, totalizando uma população igual ou superior a 45 milhões de habitantes, incluindo pelo menos um território em que o português não seja língua oficial ou nacional.\n\n5 - À data da entrega do requerimento de admissão ao benefício do Incentivo, ou, se tal não for possível até à data do início de realização das despesas de produção em Portugal (excluindo despesas de desenvolvimento ou pré-produção), o requerente tem de comprovar dispor de financiamento confirmado que cubra 80 % da despesa elegível prevista.\n\n6 - A rodagem ou animação principal só pode ter lugar após a entrega do requerimento de admissão ao benefício do Incentivo."
+  },
+  "122738495": {
+   "fragment_id": "122728123",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipos de projetos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipos de projetos elegíveis\n\n1 - São elegíveis projetos de obras dos seguintes tipos e formatos:\n\na) Obras cinematográficas de longa-metragem, de ficção, documentário ou animação, destinadas a uma exploração inicial em salas de cinema comerciais;\n\nb) Obras audiovisuais de produção independente, nos termos da alínea j) do artigo 2.º da Lei n.º 55/2012, de 6 de setembro, destinadas a difusão televisiva, dos seguintes tipos:\n\ni) Telefilmes;\n\nii) Documentários televisivos unitários;\n\niii) Especiais de animação para televisão;\n\niv) Séries de televisão (ficção, documentário ou animação);\n\nc) Obras de ficção, animação ou documentário, unitárias ou na forma de série de episódios, destinadas a exploração através de serviços de comunicação audiovisual a pedido ou de outros serviços de comunicações eletrónicas.\n\n2 - O requisito de produção independente previsto na alínea b) do número anterior e o limite de número de episódios previsto na alínea t) do artigo 2.º do Decreto-Lei n.º 25/2018, de 24 de abril, não se aplicam no caso de obras de iniciativa estrangeira.\n\n3 - No caso das obras na forma de séries de episódios de ficção, o custo de produção por minuto é obrigatoriamente igual ou superior a (euro) 2000,00.\n\n4 - Não são elegíveis os projetos com as seguintes características:\n\na) Obras cinematográficas ou audiovisuais de conteúdo ou orientação essencialmente noticioso ou de propaganda política, religiosa ou outra, bem como filmes pornográficos ou obras que, em abuso da liberdade de expressão, veiculem mensagens de racismo, xenofobia, violência ou intolerância política e religiosa, ou outros valores e atitudes manifestamente contrários aos direitos e liberdades fundamentais, consagrados na Constituição da República Portuguesa e no direito internacional, ou de algum modo promovam intencionalmente tais valores ou atitudes;\n\nb) Quaisquer tipos de obras relativamente às quais não se verifiquem as condições de lacuna estrutural de mercado e de efeito de incentivo que autorizam o apoio público nos termos da legislação aplicável da União Europeia, em particular o Regulamento (UE) n.º 651/2014 da Comissão Europeia, de 16 de junho de 2014."
+  },
+  "122738496": {
+   "fragment_id": "122728124",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos relativos a conteúdo cultural e promoção de recursos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos relativos a conteúdo cultural e promoção de recursos nacionais\n\n1 - De forma a assegurar os objetivos do Incentivo e a natureza cultural das obras, em conformidade com o previsto no artigo 54.º do Regulamento (UE) n.º 651/2014 da Comissão Europeia, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia, os projetos são objeto de avaliação pelas suas características culturais e pelo seu contributo para a valorização da cinematografia, do audiovisual e dos recursos nacionais, mediante uma tabela de análise e classificação, anexa ao presente regulamento e do qual faz parte integrante.\n\n2 - Para ser elegível, o projeto deve atingir na tabela de análise e classificação um mínimo de 15 pontos, no total das secções A, B e C, desde que:\n\na) Obtenha pelo menos 10 pontos no subtotal das secções A1 e A2, dos quais pelo menos 5 pontos na secção A2;\n\nb) Obtenha pelo menos 3 pontos na secção A1, pelo menos 4 pontos na secção A2 e pelo menos 4 pontos no subtotal das secções B e C.\n\n3 - No caso de obras de iniciativa estrangeira produzidas mediante recurso a produtor executivo em Portugal ou mediante coprodução não passível de reconhecimento oficial, a elegibilidade atinge-se com um mínimo de 10 pontos na tabela, dos quais pelo menos 5 pontos no subtotal das secções A1 e A2.\n\n4 - No caso de projetos cujas atividades de produção em Portugal não incluam filmagens, a elegibilidade atinge-se com um mínimo de 8 pontos na tabela, dos quais pelo menos 4 pontos no subtotal das secções A1 e A2."
+  },
+  "122738497": {
+   "fragment_id": "122728125",
+   "type": 1,
+   "heading": "Capítulo III — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Apoio financeiro"
+  },
+  "122738498": {
+   "fragment_id": "122728126",
+   "type": 11,
+   "heading": "Artigo 8.º — Taxas, montantes e limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Taxas, montantes e limites dos apoios\n\n1 - A taxa geral aplicável às despesas elegíveis para apuramento do montante de incentivo é de 25 %.\n\n2 - Aplica-se a taxa de 30 % aos projetos de obras que, além da pontuação prevista no artigo anterior, obtenham:\n\na) No mínimo 20 pontos na tabela de análise e classificação em anexo, incluindo pelo menos 6 pontos na subsecção A2.5 ou pelo menos 10 pontos no subtotal das secções B e C;\n\nb) No caso de obras de iniciativa estrangeira produzidas mediante recurso a produtor executivo em Portugal ou mediante coprodução não passível de reconhecimento oficial, no mínimo 12 pontos na tabela de análise e classificação em anexo;\n\nc) No caso de projetos cujas atividades de produção em Portugal não incluam filmagens, no mínimo 10 pontos na tabela de análise e classificação em anexo.\n\n3 - Independentemente da taxa aplicada a cada projeto, nos termos dos números anteriores, às despesas elegíveis realizadas nos territórios de baixa densidade, de acordo com a área geográfica considerada para efeitos do Programa Nacional de Coesão Territorial, e às despesas elegíveis relativas a remunerações e encargos, designadamente ajudas de custo, contribuições para a segurança social e seguros, de elementos das equipas artística e técnica que sejam portadores de deficiência aplica-se a taxa de 30 %.\n\n4 - Os incentivos são atribuídos até ao limite das disponibilidades financeiras do Fundo em cada exercício, por ordem de entrada dos pedidos de admissão ao benefício do Incentivo.\n\n5 - O montante máximo de apoio por projeto é em regra de (euro) 4 000 000,00, podendo ser aprovados apoios de montante superior a este, mediante deliberação do órgão responsável pela gestão do Fundo, uma vez assegurado que o apoio em causa não põe em risco a capacidade do Fundo no exercício ou nos exercícios em que tal decisão tiver impacto, nem a capacidade específica de assegurar, nesse ou nesses exercícios, a atribuição de incentivo a diferentes tipos de produções.\n\n6 - Os montantes de incentivo a atribuir a projetos que incluam como beneficiários entidades que não sejam produtores independentes não podem totalizar, em cada ano civil, mais de 15 % da dotação total do Incentivo no mesmo ano.\n\n7 - Quando, em cada exercício orçamental, os montantes aprovados atingirem 50 % do orçamento do Incentivo, o órgão de gestão do Fundo pode suspender o procedimento automático previsto no n.º 4 até ao termo do exercício, e atribuir os 50 % restantes aos projetos que, sendo elegíveis nos termos do disposto no artigo 7.º e nos números anteriores do presente artigo, demonstrem um maior impacto na projeção internacional do destino Portugal.\n\n8 - A projeção internacional referida no número anterior é verificada, designadamente, através de:\n\na) Âmbito geográfico de difusão dos projetos, sendo valorizada a difusão em mercados estratégicos para o turismo;\n\nb) Exposição mediática do projeto em meios de comunicação social internacional;\n\nc) Contributo do projeto para a realização dos objetivos definidos na Estratégia para o Turismo 2027 (ET 2027).\n\n9 - O Fundo comunica e divulga publicamente, através do site do ICA, I. P., o momento a partir do qual o disposto no n.º 7 passa a ser aplicável."
+  },
+  "122738499": {
+   "fragment_id": "122728127",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis\n\n1 - Consideram-se elegíveis as despesas referentes a pessoal e à aquisição de bens e serviços em Portugal, nos seguintes termos:\n\na) No caso de remunerações de pessoal afeto à produção da obra, bem como de honorários atribuídos a prestadores de serviços, são elegíveis na medida em que sejam tributadas em Portugal;\n\nb) No caso de bens e serviços fornecidos por empresas:\n\ni) A empresa tem de ter sede, direção efetiva ou estabelecimento estável em Portugal e estar devidamente registada no Registo Comercial;\n\nii) A empresa ou estabelecimento estável que presta os serviços tem de ter, pelo menos, um empregado permanente em funções em Portugal no momento em que os serviços são prestados;\n\niii) A fatura detalhada relativa aos serviços prestados é emitida pela empresa com sede em Portugal ou pelo estabelecimento estável em Portugal;\n\niv) Todos os serviços faturados são prestados em Portugal ou o material utilizado para fornecer os serviços é adquirido em Portugal e o equipamento técnico necessário ao fornecimento dos serviços é utilizado em Portugal;\n\nv) No caso de equipamento móvel, nomeadamente, câmaras, iluminação, equipamento de som, tem de ser obtido, nomeadamente, comprado, adquirido em regime de locação financeira ou alugado em Portugal.\n\n2 - As despesas de desenvolvimento de um projeto realizadas no território nacional, nos termos do presente artigo, nos doze meses anteriores à apresentação do requerimento de admissão ao benefício do Incentivo, são elegíveis desde que devidamente incorporadas no orçamento e contas do projeto, em conformidade com o n.º 8 do artigo 54.º do Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho de 2014, e certificadas a esse título.\n\n3 - Incluem-se entre as despesas referidas no número anterior as relativas a transmissões de direitos de autor, desde que indispensáveis à produção da obra.\n\n4 - São elegíveis até ao limite de 35 % da despesa total em Portugal as despesas relativas às seguintes remunerações, observando-se um sublimite de 10 % por alínea:\n\na) Dos produtores e das empresas produtoras, incluindo produtores executivos;\n\nb) Dos realizadores;\n\nc) Dos argumentistas, autores de adaptações e autores de diálogos;\n\nd) De outros autores, tais como autores de obras preexistentes e compositores musicais;\n\ne) Dos atores principais.\n\n5 - A remuneração do produtor enquanto pessoa coletiva é atestada pela sua inscrição nas contas do projeto, ou, quando se trate de produção estrangeira mediante recurso a produtor executivo, através de recibo relativo ao pagamento da remuneração em causa pelo produtor estrangeiro.\n\n6 - Adicionalmente, são consideradas despesas elegíveis as despesas de produção relativas a atividades de produção realizadas em Portugal, mas contratadas com prestadores de serviços estabelecidos em outros Estados da União Europeia ou do Espaço Económico Europeu, até ao limite de 20 % da despesa elegível em Portugal.\n\n7 - O ICA, I. P. pode adotar especificações adicionais em matéria de despesas elegíveis, nos termos do seu regulamento relativo às despesas elegíveis e à prestação de contas."
+  },
+  "122738500": {
+   "fragment_id": "122728128",
+   "type": 11,
+   "heading": "Artigo 10.º — Base de cálculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Base de cálculo\n\nSem prejuízo do disposto no n.º 3 do artigo 5.º, o montante máximo de despesa elegível considerado para efeitos de cálculo do montante de incentivo é o correspondente a 80 % do custo de produção da obra, ou 100 % do mesmo quando se aplique o disposto no n.º 6 do artigo anterior."
+  },
+  "122738501": {
+   "fragment_id": "122728129",
+   "type": 11,
+   "heading": "Artigo 11.º — Acumulação e limites de apoio público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acumulação e limites de apoio público\n\n1 - A soma do Incentivo obtido para a produção de uma obra com outros auxílios estatais concedidos para a mesma produção não pode superar 50 % dos respetivos custos de produção ou 60 %, no caso de coproduções internacionais.\n\n2 - São admitidas derrogações aos limites previstos no número anterior, no caso de obras consideradas difíceis ou de baixo orçamento, nos termos dos n.os 3 e 5 do artigo 7.º do Decreto-Lei n.º 25/2018, de 24 de abril.\n\n3 - Quando um projeto realizado em coprodução internacional beneficie de apoios públicos à produção em diferentes Estados, a determinação dos limites aplicáveis é efetuada pelo ICA, I. P., em articulação com os organismos estrangeiros competentes."
+  },
+  "122738502": {
+   "fragment_id": "122728130",
+   "type": 1,
+   "heading": "Capítulo IV — Procedimento, execução e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Procedimento, execução e fiscalização"
+  },
+  "122738503": {
+   "fragment_id": "122728131",
+   "type": 11,
+   "heading": "Artigo 12.º — Requerimento de admissão ao benefício do Incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requerimento de admissão ao benefício do Incentivo\n\n1 - O requerimento é apresentado, por via eletrónica, previamente à realização das despesas de produção elegíveis, sem prejuízo do disposto nos n.os 2 e 3 do artigo 8.º, mediante submissão do formulário próprio disponível no sítio da Internet do ICA, I. P., acompanhado dos documentos referidos no n.º 4.\n\n2 - Em caso de impossibilidade técnica de utilização da via eletrónica imputável ao ICA, I. P., este indica os meios alternativos de apresentação do requerimento.\n\n3 - O formulário inclui a identificação do requerente e dos restantes coprodutores, se os houver, a identificação e caracterização técnica da obra, as datas e locais de produção, incluindo a pós-produção.\n\n4 - Os documentos que devem acompanhar o requerimento são os seguintes:\n\na) Documentos administrativos:\n\ni) Declaração sob compromisso de honra do requerente atestando não se encontrar em nenhuma das situações de exclusão previstas no artigo 4.º;\n\nii) Contratos de cedência de direitos de autor ou autorizações dos detentores de direitos de autor;\n\niii) Contrato com o realizador ou realizadores;\n\niv) Contrato ou contratos de coprodução, se for caso disso;\n\nv) Contrato entre o produtor estrangeiro e o produtor executivo local, se se tratar de uma produção estrangeira;\n\nvi) Orçamento e previsão de repartição da despesa por produtor, por território e por rubrica;\n\nvii) Identificação, incluindo a indicação da nacionalidade, do país de residência fiscal e, sempre que possível, do montante previsto de honorários ou pagamentos a receber, dos autores, produtores, atores e técnicos e de todos os profissionais e empresas a contratar em Portugal e cuja participação tenha impacto na pontuação do projeto nos termos do artigo 7.º;\n\nviii) Plano de financiamento do projeto;\n\nix) Contratos ou decisões que certifiquem os financiamentos obtidos e previstos;\n\nx) Plano de distribuição ou difusão e respetivos contratos celebrados, se existirem;\n\nb) Documentos relativos ao conteúdo do projeto:\n\ni) Guião;\n\nii) Tratamento, no caso de documentários;\n\niii) Notas de intenção ou explicações do realizador e/ou do produtor;\n\niv) Explicações adicionais, técnicas ou artísticas, relevantes para a avaliação do projeto, caso necessário.\n\n5 - No caso de produções estrangeiras, os beneficiários estão dispensados da apresentação dos documentos a que se referem as subalíneas ii) e iii) da alínea a) do número anterior.\n\n6 - Verificando-se a falta de documentos ou a necessidade de esclarecimentos adicionais, o ICA, I. P., notifica o requerente para resposta no prazo máximo de dez dias úteis."
+  },
+  "122738504": {
+   "fragment_id": "122728132",
+   "type": 11,
+   "heading": "Artigo 13.º — Comunicações e notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comunicações e notificações\n\n1 - Toda a comunicação entre o ICA, I. P., e os requerentes, designadamente em matéria de notificações, é efetuada para o endereço eletrónico indicado por estes e constante do Registo das Entidades Cinematográficas e Audiovisuais e de outras entidades do ICA, I. P.\n\n2 - As notificações e as comunicações, quando efetuadas através de correio eletrónico ou de outro meio de transmissão escrita e eletrónica de dados, consideram-se feitas na data da expedição."
+  },
+  "122738505": {
+   "fragment_id": "122728133",
+   "type": 11,
+   "heading": "Artigo 14.º — Decisão sobre o requerimento de admissão ao benefício do Incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Decisão sobre o requerimento de admissão ao benefício do Incentivo\n\n1 - O ICA, I. P., e o Turismo de Portugal, I. P., apreciam e decidem relativamente ao requerimento de admissão ao benefício do Incentivo num prazo de vinte dias úteis a contar da receção do requerimento, interrompendo-se este prazo sempre que sejam solicitados documentos ou esclarecimentos necessários.\n\n2 - Em caso de indeferimento, o requerente pode apresentar reclamação dirigida à entidade gestora do fundo num prazo de dez dias úteis.\n\n3 - A entidade gestora do fundo pode solicitar parecer ao ICA, I. P., e ao Turismo de Portugal, I. P., para decidirem sobre a reclamação num prazo de dez dias úteis, revestindo-se a decisão de caráter definitivo.\n\n4 - A decisão de admissão ao benefício do Incentivo refere as datas previsíveis de realização das despesas elegíveis, bem como o montante previsto das mesmas, a data prevista de conclusão da obra e uma estimativa do montante de Incentivo a conceder.\n\n5 - A decisão do ICA, I. P., e do Turismo de Portugal, I. P., é comunicada ao requerente até ao final do dia útil seguinte ao da respetiva deliberação.\n\n6 - Na comunicação prevista no número anterior, o ICA, I. P., e o Turismo de Portugal, I. P., podem incluir indicações ou advertências que considerem relevantes, relacionadas com fatores críticos da execução do projeto suscetíveis de condicionar o apuramento definitivo do Incentivo.\n\n7 - No prazo de trinta dias úteis após comunicação da decisão de admissão ao benefício, é celebrado o contrato de concessão do Incentivo entre o ICA, I. P., o Turismo de Portugal, I. P., e o beneficiário, o qual contém, nomeadamente, os direitos e obrigações de cada uma das partes."
+  },
+  "122738506": {
+   "fragment_id": "122728134",
+   "type": 11,
+   "heading": "Artigo 15.º — Revisão da decisão de admissão ao benefício do Incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revisão da decisão de admissão ao benefício do Incentivo\n\n1 - O requerente cujo projeto tenha obtido decisão favorável de admissão ao benefício do Incentivo nos termos do artigo anterior é obrigado a requerer ao ICA, I. P., a revisão da decisão inicial sempre que ocorram modificações significativas no projeto ou desvios significativos na execução deste relativamente ao que tenha sido inscrito no formulário de pedido inicial e comunicado nos documentos enviados e aceites, nos termos do artigo 12.º\n\n2 - Consideram-se modificações significativas do projeto ou desvios significativos na sua execução as alterações relativas a fatores críticos para a determinação da elegibilidade do projeto e da taxa de incentivo, nomeadamente:\n\na) Alterações da estrutura de coprodução ou do relacionamento contratual com o produtor executivo local;\n\nb) Alterações da identidade, da nacionalidade ou da residência ou domicílio fiscal e da natureza ou quantidade da participação no projeto de todos os autores, atores e técnicos ou qualquer pessoal contabilizado em sede de avaliação e classificação do projeto nos termos da tabela anexa ao presente regulamento;\n\nc) Alterações do guião ou de opções de produção ou vicissitudes desta, nomeadamente quanto a locais de filmagem e pós-produção e respetivas durações e datas, ou quaisquer outros fatores com impacto na avaliação e pontuação das características do projeto nos termos da tabela anexa ao presente regulamento;\n\nd) Variações orçamentais superiores a 10 % do orçamento da obra e quaisquer reduções da previsão de despesas elegíveis suscetíveis de pôr em risco a elegibilidade do projeto.\n\n3 - A revisão da decisão de admissão ao benefício do Incentivo obedece ao procedimento e prazos aplicáveis nos termos dos n.os 1 a 4 do artigo anterior e não tem custos para o requerente."
+  },
+  "122738507": {
+   "fragment_id": "122728135",
+   "type": 11,
+   "heading": "Artigo 16.º — Apuramento definitivo do Incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Apuramento definitivo do Incentivo\n\n1 - O pedido de apuramento definitivo do Incentivo é apresentado após, cumulativamente:\n\na) A conclusão da obra nos termos do n.º 4 e do relatório de auditoria e certificação de contas por um revisor oficial de contas nos termos do n.º 5;\n\nb) A demonstração da distribuição e/ou difusão e/ou comercialização através de serviços de comunicação social audiovisual em conformidade com o plano apresentado com o requerimento de admissão ao benefício, mediante apresentação de contratos relativos à exploração concreta em cada território, não bastando para este efeito, os contratos de mandato com agentes de vendas.\n\n2 - Em qualquer caso, o pedido de apuramento definitivo é obrigatoriamente apresentado num prazo não superior a 24 meses a contar da data da primeira despesa de produção elegível, ou 36 meses no caso de obras de animação, podendo estes prazos ser prorrogados até, respetivamente, 36 meses ou 48 meses, mediante pedido fundamento do requerente.\n\n3 - O desrespeito do disposto no número anterior é fundamento de incumprimento na aceção do artigo 21.º\n\n4 - Considera-se que a obra está concluída, para efeitos da alínea a) do n.º 1, quando são entregues ao ICA, I. P.:\n\na) No caso de obras nacionais ou em coprodução:\n\ni) Duas cópias da versão definitiva da obra, tal como disponibilizada para exibição em sala, no caso de obras cinematográficas, ou tal como disponibilizada para efeitos de difusão televisiva ou de comercialização através de outros serviços audiovisuais, legendados em português se necessário, desde que adequados para efeitos de preservação e de visionamento das obras, dos quais um é destinado à Cinemateca, I. P., respeitando as especificações técnicas estabelecidas em regulamento conjunto a aprovar pelo ICA, I. P., e pela Cinemateca, I. P.;\n\nii) Os materiais de acompanhamento destinados a atividades de divulgação e promoção, constantes do Despacho aprovado pelo membro do Governo responsável pela área da cultura, destinado à Cinemateca, I. P.;\n\niii) Filme-anúncio para utilização na promoção e divulgação da obra por parte do ICA, I. P.;\n\niv) Press kit, ou sinopse para fins promocionais, com um máximo de 500 caracteres;\n\nv) Contrato com o autor, no caso de existência de música original;\n\nvi) Declaração da produtora em como adquiriu os direitos necessários à exibição e divulgação do filme, nomeadamente relativos à utilização de músicas e de imagens;\n\nvii) Lista de músicas («music cue sheet»);\n\nviii) Registo da obra no ICA, I. P.;\n\nix) Cartaz do filme;\n\nx) Contratos de distribuição ou difusão em conformidade com o plano apresentado com o requerimento de admissão ao benefício, não bastando, para o efeito, os contratos de mandato com agentes de vendas;\n\nb) No caso de obras estrangeiras:\n\ni) Dois exemplares em BluRay ou, não existindo este, em DVD, em lugar dos suportes da obra referidos na subalínea i) da alínea a);\n\nii) Os elementos referidos nas subalíneas iii), iv) e ix) da alínea anterior;\n\n5 - O relatório de auditoria referido no n.º 1 inclui, para além da certificação de contas do projeto, a certificação do cumprimento pelo requerente de outros requisitos estabelecidos no presente regulamento e, em especial, da verificação das condições determinantes da pontuação do projeto nos termos do n.º 2 do artigo 7.º e do cálculo das percentagens de incentivo, nos termos do artigo 8.º\n\n6 - O ICA, I. P., e o Turismo de Portugal, I. P., apreciam o pedido de apuramento definitivo num prazo de 20 dias úteis a contar da receção do pedido, interrompendo-se este prazo sempre que sejam solicitados documentos ou esclarecimentos necessários.\n\n7 - Em caso de indeferimento, o requerente pode apresentar reclamação num prazo de dez dias úteis, dirigindo-a ao ICA, I. P.\n\n8 - O ICA, I. P., e o Turismo de Portugal, I. P., deliberam sobre a reclamação num prazo de dez dias úteis, sendo esta decisão definitiva.\n\n9 - O apuramento definitivo do Incentivo atesta a conformidade geral e a elegibilidade das despesas e inclui o apuramento final das taxas de incentivo aplicáveis e do montante do respetivo Incentivo.\n\n10 - As decisões do ICA, I. P., e do Turismo de Portugal, I. P., são comunicadas ao requerente até ao final do dia útil seguinte ao da respetiva deliberação."
+  },
+  "122738508": {
+   "fragment_id": "122728136",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pagamentos\n\n1 - O Incentivo é pago aos beneficiários em diferentes prestações, a partir da assinatura do contrato de concessão do Incentivo, nos termos e segundo calendário neste definidos, mediante pedido de pagamento dirigido pelo ICA, I. P., à entidade gestora do Fundo e com a seguinte cadência:\n\na) Primeira prestação no prazo de dez dias úteis contados da assinatura do contrato;\n\nb) Segunda ou segunda e terceira prestações, em função da duração da execução da obra, entre o decurso da rodagem ou animação e a pós-produção;\n\nc) Terceira ou quarta prestação com o apuramento definitivo do Incentivo.\n\n2 - O valor da última prestação previsto no contrato não pode ser inferior a 15 % do montante de incentivo estimado na decisão de admissão ao benefício do Incentivo.\n\n3 - O pagamento de cada prestação faz-se contra demonstração da execução das despesas cobertas pela prestação anterior, através de apresentação de certificação das mesmas por um técnico oficial de contas ou por um revisor oficial de contas.\n\n4 - Sempre que haja lugar à apresentação de contas certificadas intercalares, o ICA, I. P., dispõe de 15 dias úteis, a contar da data da respetiva entrega, para validar o pedido de prestação do beneficiário e transmitir o pedido de pagamento à entidade gestora do Fundo, que efetua o pagamento ao beneficiário num prazo de 20 dias úteis.\n\n5 - Quando, havendo diversos financiamentos públicos, estes totalizarem, na estrutura financeira final do projeto, um valor superior à intensidade máxima de auxílio de Estado aplicável, o ICA, I. P., e o Turismo de Portugal, I. P., procedem ao acerto necessário previamente ao pagamento da última prestação de apoio e/ou exige-se a devolução de montantes eventualmente recebidos em excesso, se esta prestação for o último pagamento ao beneficiário de apoio público relativo ao projeto."
+  },
+  "122738509": {
+   "fragment_id": "122728137",
+   "type": 11,
+   "heading": "Artigo 18.º — Obrigações do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Obrigações do beneficiário\n\nOs beneficiários estão obrigados a apresentar os documentos necessários, viabilizar auditorias e prestar todos os esclarecimentos referentes à execução do projeto que o ICA, I. P., o Turismo de Portugal, I. P., outra autoridade competente ou entidade externa por aqueles indicada, solicitar."
+  },
+  "122738510": {
+   "fragment_id": "122728138",
+   "type": 11,
+   "heading": "Artigo 19.º — Menção do Incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Menção do Incentivo\n\n1 - É obrigatória a menção do Incentivo no genérico dos filmes beneficiários e em materiais impressos e online de promoção dos mesmos.\n\n2 - A decisão de admissão ao benefício do Incentivo estipula os termos em que a obrigação estabelecida no número anterior é cumprida pelo beneficiário."
+  },
+  "122738511": {
+   "fragment_id": "122728139",
+   "type": 11,
+   "heading": "Artigo 20.º — Falsas declarações e responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Falsas declarações e responsabilidade\n\n1 - Os requerentes e beneficiários que tiverem prestado falsas declarações estão sujeitos a responsabilidade civil e criminal, sem prejuízo de outras que possam acrescer, nos termos da lei.\n\n2 - A prestação de falsas declarações por parte dos requerentes e beneficiários determina a impossibilidade de se candidatarem ao benefício do Incentivo pelo prazo de cinco anos.\n\n3 - Os membros dos órgãos de fiscalização e revisores oficiais de contas são responsáveis nos termos previstos na lei."
+  },
+  "122738512": {
+   "fragment_id": "122728140",
+   "type": 11,
+   "heading": "Artigo 21.º — Incumprimento e resolução dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Incumprimento e resolução dos contratos\n\nO incumprimento das obrigações assumidas pelo beneficiário constitui fundamento para a resolução unilateral do contrato por parte do ICA, I. P., e do Turismo de Portugal, I. P., constituindo-se o beneficiário na obrigação de devolução da totalidade do Incentivo recebido, acrescido de uma verba, a título de cláusula penal, equivalente a uma taxa de juro igual à EURIBOR a 6 meses, acrescida de 3 pontos percentuais, devida desde a data da libertação do Incentivo."
+  },
+  "122738513": {
+   "fragment_id": "122728141",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 7.º do regulamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 7.º do regulamento)\n\nGrelha de avaliação do valor cultural, cinematográfico/audiovisual e promocional dos projetos\n\n(ver documento original)\n\n311676989"
+  },
+  "122738478": {
+   "fragment_id": "122728106",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 490/2018\n\nO Decreto-Lei n.º 45/2018, de 19 de junho, autorizado nos termos do artigo 204.º da Lei n.º 114/2017, de 29 de dezembro (Lei do Orçamento do Estado para 2018), criou o Fundo de Apoio ao Turismo e ao Cinema e revogou, também conforme autorização prevista na Lei do Orçamento do Estado para 2018, nomeadamente no seu artigo 220.º, o artigo 59.º-F do Estatuto dos Benefícios Fiscais, bem como o Decreto-Lei n.º 22/2017, de 22 de fevereiro, e a alínea h) do n.º 2 do artigo 92.º do Código do IRC, com o objetivo de substituir este regime de tipo fiscal por um mecanismo mais favorável de incentivo à produção cinematográfica e audiovisual, através de um sistema de reembolso de despesas de produção (cash rebate).\n\nEm conformidade, o Fundo de Apoio ao Turismo e ao Cinema inclui uma vertente de incentivo à produção cinematográfica e audiovisual e à captação de filmagens internacionais para Portugal, que contribuam para promover internacionalmente a imagem do país, em harmonia com os objetivos de política cinematográfica e audiovisual enquanto atividade cultural, a qual, nos termos do n.º 2 do artigo 5.º do Decreto-Lei n.º 45/2018, de 19 de junho, é regulamentada por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, cultura e turismo.\n\nNestas circunstâncias, impõe-se regulamentar o programa de incentivo à produção cinematográfica e audiovisual e à captação de filmagens internacionais para Portugal no âmbito do Fundo.\n\nProcede-se, nesse sentido, pela presente portaria, à regulamentação do programa de Incentivo à produção cinematográfica e audiovisual no âmbito do Fundo de Apoio ao Turismo e ao Cinema, assegurando-se a respetiva compatibilidade com o Regulamento (UE) n.º 651/2014 da Comissão Europeia, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças e da Cultura e pela Secretária de Estado do Turismo, no uso da competência que lhe foi delegada através do Despacho n.º 7543/2017, de 18 de agosto, publicado no Diário da República, 2.ª série, n.º 164, de 25 de agosto de 2017, e ao abrigo do n.º 2 do artigo 5.º do Decreto-Lei n.º 45/2018, de 19 de junho, o seguinte:"
+  },
+  "122738986": {
+   "fragment_id": "122728110",
+   "type": 11,
+   "heading": "Artigo 4.º — Prospeção e promoção",
+   "in_force_from": "2019-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 4.º — Prospeção e promoção\n\n1 - O Fundo pode financiar missões de prospeção de produtores estrangeiros que considerem a possibilidade de vir a filmar em Portugal.\n\n2 - O pedido de financiamento é apresentado mediante formulário próprio, disponibilizado no sítio do ICA, I. P., até vinte dias úteis antes da missão prevista.\n\n3 - São cobertas as despesas com viagens, alojamento e serviços no âmbito da prospeção de locais de filmagem e do apuramento da viabilidade da produção em Portugal.\n\n4 - Se o projeto vier a ser produzido e a recorrer ao Incentivo à produção, o apoio dado à prospeção vai ser incorporado nas contas finais do projeto, para efeitos de cálculo da intensidade do apoio público.\n\n5 - [Revogado.]\n\n6 - [Revogado.]\n\n7 - [Revogado.]\n\n8 - O apoio às ações referidas nos números anteriores tem como limite máximo 2,5 % do orçamento do Incentivo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "122738987": {
+   "fragment_id": "122738910",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Portugal Film Commission",
+   "in_force_from": "2019-06-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 4.º-A — Portugal Film Commission\n\n1 - Para o desenvolvimento da missão da Portugal Film Commission, a aprovar por Resolução de Conselho de Ministros, é atribuída anualmente uma verba para funcionamento de 5,5 % do orçamento do Incentivo, a título de comissão de gestão.\n\n2 - O valor referido no número anterior é transferido anualmente para o ICA, I. P..\n\n3 - As verbas não executadas em cada ano transitam para o ano seguinte.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "122738988": {
+   "fragment_id": "122728111",
+   "type": 11,
+   "heading": "Artigo 5.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Confidencialidade\n\n1 - As entidades intervenientes não podem divulgar as informações recebidas que os candidatos tenham identificado como confidenciais no momento da apresentação da candidatura, exceto no que se refere aos documentos que devem ser publicamente acessíveis nos termos da Lei n.º 26/2016, de 22 de agosto, e demais disposições aplicáveis.\n\n2 - Sem prejuízo do número anterior, a confidencialidade abrange, entre outros, os documentos protegidos por direitos de autor ou direitos conexos, bem como os documentos que revelem segredo relativo à propriedade literária, artística, industrial ou científica, segredos técnicos ou comerciais, aspetos confidenciais dos projetos e quaisquer outras informações cujo conteúdo possa ser usado para distorcer a concorrência ou prejudicar os direitos do candidato no processo de avaliação ou posteriormente, nos termos da Lei n.º 26/2016, de 22 de agosto, e das restrições resultantes do Código do Direito de Autor e dos Direitos Conexos e do Código da Propriedade Industrial e demais legislação aplicável à proteção da propriedade intelectual."
+  },
+  "122738989": {
+   "fragment_id": "122728112",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação\n\nAté 31 de dezembro de 2022, a entidade gestora do Fundo promove a realização de uma avaliação do funcionamento e do impacto do Incentivo face aos seus objetivos, nomeadamente na perspetiva da renovação do Incentivo."
+  },
+  "122738990": {
+   "fragment_id": "122728113",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime transitório\n\nOs projetos cujos produtores tenham requerido o reconhecimento provisório para efeitos do incentivo fiscal à produção cinematográfica e audiovisual previsto no Decreto-Lei n.º 22/2017, de 22 de fevereiro, até à data da entrada em vigor da presente portaria, transitam automaticamente para o âmbito do presente Incentivo nos seguintes termos:\n\na) Os projetos cujo pedido de reconhecimento provisório tenha sido entregue mas ainda não deferido pelo ICA, I. P., são apreciados nos termos da presente portaria;\n\nb) Os projetos cujo pedido de reconhecimento provisório tenha sido deferido pelo ICA, I. P., consideram-se automaticamente admitidos ao benefício do Incentivo previsto na presente portaria, convertendo-se em apoio financeiro ao abrigo desta os montantes de dedução, crédito fiscal ou reembolso atribuídos a esses projetos, referentes a despesas elegíveis efetuadas a partir de 2018."
+  },
+  "122738991": {
+   "fragment_id": "122728114",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n24 de setembro de 2018. - O Ministro das Finanças, Mário José Gomes de Freitas Centeno. - O Ministro da Cultura, Luís Filipe Carrilho de Castro Mendes. - A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho."
+  },
+  "122738992": {
+   "fragment_id": "122728115",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 1.º)\n\nRegulamento do Incentivo à Produção Cinematográfica e Audiovisual através do Fundo de Apoio ao Turismo e ao Cinema"
+  },
+  "122738996": {
+   "fragment_id": "122728123",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipos de projetos elegíveis",
+   "in_force_from": "2019-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 6.º — Tipos de projetos elegíveis\n\n1 - São elegíveis projetos de obras dos seguintes tipos e formatos:\n\na) Obras cinematográficas de longa-metragem, de ficção, documentário ou animação, destinadas a uma exploração inicial em salas de cinema comerciais;\n\nb) Obras audiovisuais de produção independente, nos termos da alínea j) do artigo 2.º da Lei n.º 55/2012, de 6 de setembro, destinadas a difusão televisiva, dos seguintes tipos:\n\ni) Telefilmes;\n\nii) Documentários televisivos unitários;\n\niii) Especiais de animação para televisão;\n\niv) Séries de televisão (ficção, documentário ou animação);\n\nc) Obras de ficção, animação ou documentário, unitárias ou na forma de série de episódios, destinadas a exploração através de serviços de comunicação audiovisual a pedido ou de outros serviços de comunicações eletrónicas.\n\n2 - O requisito de produção independente previsto na alínea b) do número anterior e o limite de número de episódios previsto na alínea t) do artigo 2.º do Decreto-Lei n.º 25/2018, de 24 de abril, não se aplicam no caso de obras de iniciativa estrangeira.\n\n3 - No caso das obras na forma de séries de episódios de ficção, o custo de produção por minuto é obrigatoriamente igual ou superior a (euro) 2000,00.\n\n4 - Não são elegíveis os projetos com as seguintes características:\n\na) Obras cinematográficas ou audiovisuais de conteúdo ou orientação essencialmente noticioso ou de propaganda política, religiosa ou outra, bem como filmes pornográficos ou obras que, em abuso da liberdade de expressão, veiculem mensagens de racismo, xenofobia, violência ou intolerância política e religiosa, ou outros valores e atitudes manifestamente contrários aos direitos e liberdades fundamentais, consagrados na Constituição da República Portuguesa e no direito internacional, ou de algum modo promovam intencionalmente tais valores ou atitudes;\n\nb) Quaisquer tipos de obras relativamente às quais não se verifiquem as condições de lacuna estrutural de mercado e de efeito de incentivo que autorizam o apoio público nos termos da legislação aplicável da União Europeia, em particular o Regulamento (UE) n.º 651/2014 da Comissão Europeia, de 16 de junho de 2014.\n\n5 - Não são admissíveis as candidaturas de projetos de obras televisivas ou multimédia quando uma obra cinematográfica produzida pelo mesmo produtor, com título e/conteúdo-base idêntico, tenha sido admitida ao benefício do Incentivo, ou vice-versa.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "122738997": {
+   "fragment_id": "122728126",
+   "type": 11,
+   "heading": "Artigo 8.º — Taxas, montantes e limites de apoio",
+   "in_force_from": "2019-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 8.º — Taxas, montantes e limites de apoio\n\n1 - A taxa geral aplicável às despesas elegíveis para apuramento do montante de incentivo é de 25 %.\n\n2 - Aplica-se a taxa de 30 % aos projetos de obras que, além da pontuação prevista no artigo anterior, obtenham:\n\na) No mínimo 20 pontos na tabela de análise e classificação em anexo, incluindo pelo menos 6 pontos na subsecção A2.5 ou pelo menos 10 pontos no subtotal das secções B e C;\n\nb) No caso de obras de iniciativa estrangeira produzidas mediante recurso a produtor executivo em Portugal ou mediante coprodução não passível de reconhecimento oficial, no mínimo 12 pontos na tabela de análise e classificação em anexo;\n\nc) No caso de projetos cujas atividades de produção em Portugal não incluam filmagens, no mínimo 10 pontos na tabela de análise e classificação em anexo.\n\n3 - Independentemente da taxa aplicada a cada projeto, nos termos dos números anteriores, às despesas elegíveis realizadas nos territórios de baixa densidade, de acordo com a área geográfica considerada para efeitos do Programa Nacional de Coesão Territorial, e às despesas elegíveis relativas a remunerações e encargos, designadamente ajudas de custo, contribuições para a segurança social e seguros, de elementos das equipas artística e técnica que sejam portadores de deficiência aplica-se a taxa de 30 %.\n\n4 - Os incentivos são atribuídos até ao limite das disponibilidades financeiras do Fundo em cada exercício, por ordem de entrada dos pedidos de admissão ao benefício do Incentivo.\n\n5 - O montante máximo de apoio por projeto é em regra de (euro) 4 000 000,00, podendo ser aprovados apoios de montante superior a este, mediante deliberação do órgão responsável pela gestão do Fundo, uma vez assegurado que o apoio em causa não põe em risco a capacidade do Fundo no exercício ou nos exercícios em que tal decisão tiver impacto, nem a capacidade específica de assegurar, nesse ou nesses exercícios, a atribuição de incentivo a diferentes tipos de produções.\n\n6 - Os montantes de incentivo a atribuir a projetos que incluam como beneficiários entidades que não sejam produtores independentes não podem totalizar, em cada ano civil, mais de 15 % da dotação total do Incentivo no mesmo ano.\n\n7 - Quando, em cada exercício orçamental, os montantes aprovados atingirem 50 % do orçamento do Incentivo, o órgão de gestão do Fundo pode suspender o procedimento automático previsto no n.º 4 até ao termo do exercício, e atribuir os 50 % restantes aos projetos que, sendo elegíveis nos termos do disposto no artigo 7.º e nos números anteriores do presente artigo, demonstrem um maior impacto na projeção internacional do destino Portugal.\n\n8 - A projeção internacional referida no número anterior é verificada, designadamente, através de:\n\na) Âmbito geográfico de difusão dos projetos, sendo valorizada a difusão em mercados estratégicos para o turismo;\n\nb) Exposição mediática do projeto em meios de comunicação social internacional;\n\nc) Contributo do projeto para a realização dos objetivos definidos na Estratégia para o Turismo 2027 (ET 2027).\n\n9 - O Fundo comunica e divulga publicamente, através do site do ICA, I. P., o momento a partir do qual o disposto no n.º 7 passa a ser aplicável.\n\n10 - Os projetos aos quais seja aplicado o procedimento previsto nos n.os 7 e 8 do presente artigo e não sejam deferidos, só podem voltar a candidatar-se ao incentivo uma vez submetidos a modificações significativas, em especial no que se refere aos fatores que tenham determinado o seu indeferimento.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "122738998": {
+   "fragment_id": "122728127",
+   "type": 11,
+   "heading": "Artigo 9.º — Taxas, montantes e limites dos apoios",
+   "in_force_from": "2019-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 9.º — Taxas, montantes e limites dos apoios\n\n1 - Consideram-se elegíveis as despesas referentes a pessoal e à aquisição de bens e serviços em Portugal, nos seguintes termos:\n\na) No caso de remunerações de pessoal afeto à produção da obra, bem como de honorários atribuídos a prestadores de serviços, são elegíveis na medida em que sejam tributadas em Portugal;\n\nb) No caso de bens e serviços fornecidos por empresas:\n\ni) A empresa tem de ter sede, direção efetiva ou estabelecimento estável em Portugal e estar devidamente registada no Registo Comercial;\n\nii) A empresa ou estabelecimento estável que presta os serviços tem de ter, pelo menos, um empregado permanente em funções em Portugal no momento em que os serviços são prestados;\n\niii) A fatura detalhada relativa aos serviços prestados é emitida pela empresa com sede em Portugal ou pelo estabelecimento estável em Portugal;\n\niv) Todos os serviços faturados são prestados em Portugal ou o material utilizado para fornecer os serviços é adquirido em Portugal e o equipamento técnico necessário ao fornecimento dos serviços é utilizado em Portugal;\n\nv) No caso de equipamento móvel, nomeadamente, câmaras, iluminação, equipamento de som, tem de ser obtido, nomeadamente, comprado, adquirido em regime de locação financeira ou alugado em Portugal.\n\n2 - As despesas de desenvolvimento de um projeto realizadas no território nacional, nos termos do presente artigo, nos doze meses anteriores à apresentação do requerimento de admissão ao benefício do Incentivo, são elegíveis desde que devidamente incorporadas no orçamento e contas do projeto, em conformidade com o n.º 8 do artigo 54.º do Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho de 2014, e certificadas a esse título.\n\n3 - Incluem-se entre as despesas referidas no número anterior as relativas a transmissões de direitos de autor, desde que indispensáveis à produção da obra.\n\n4 - São elegíveis até ao limite de 35 % da despesa total em Portugal as despesas relativas às seguintes remunerações, observando-se um sublimite de 10 % por alínea:\n\na) Dos produtores e das empresas produtoras, incluindo produtores executivos;\n\nb) Dos realizadores;\n\nc) Dos argumentistas, autores de adaptações e autores de diálogos;\n\nd) De outros autores, tais como autores de obras preexistentes e compositores musicais;\n\ne) Dos atores principais.\n\n5 - No caso de projetos cujas atividades de produção em Portugal não incluam filmagens, o limite previsto no número anterior é de 20 % da despesa total em Portugal e o sublimite por alínea é de 5 %.\n\n6 - A remuneração do produtor enquanto pessoa coletiva é atestada pela sua inscrição nas contas do projeto, ou, quando se trate de produção estrangeira mediante recurso a produtor executivo, através de recibo relativo ao pagamento da remuneração em causa pelo produtor estrangeiro.\n\n7 - Adicionalmente, são consideradas despesas elegíveis as despesas de produção relativas a atividades de produção realizadas em Portugal, mas contratadas com prestadores de serviços estabelecidos em outros Estados da União Europeia ou do Espaço Económico Europeu, até ao limite de 20 % da despesa elegível em Portugal.\n\n8 - O ICA, I. P. pode adotar especificações adicionais em matéria de despesas elegíveis, nos termos do seu regulamento relativo às despesas elegíveis e à prestação de contas.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "122738999": {
+   "fragment_id": "122728131",
+   "type": 11,
+   "heading": "Artigo 12.º — Requerimento de admissão ao benefício do Incentivo",
+   "in_force_from": "2019-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 12.º — Requerimento de admissão ao benefício do Incentivo\n\n1 - O requerimento é apresentado, por via eletrónica, previamente à realização das despesas de produção elegíveis, sem prejuízo do disposto nos n.os 2 e 3 do artigo 8.º, mediante submissão do formulário próprio disponível no sítio da Internet do ICA, I. P., acompanhado dos documentos referidos no n.º 4.\n\n2 - Em caso de impossibilidade técnica de utilização da via eletrónica imputável ao ICA, I. P., este indica os meios alternativos de apresentação do requerimento.\n\n3 - O formulário inclui a identificação do requerente e dos restantes coprodutores, se os houver, a identificação e caracterização técnica da obra, as datas e locais de produção, incluindo a pós-produção.\n\n4 - Os documentos que devem acompanhar o requerimento são os seguintes:\n\na) Documentos administrativos:\n\ni) Declaração sob compromisso de honra do requerente atestando não se encontrar em nenhuma das situações de exclusão previstas no artigo 4.º;\n\nii) Contratos de cedência de direitos de autor ou autorizações dos detentores de direitos de autor;\n\niii) Contrato com o realizador ou realizadores;\n\niv) Contrato ou contratos de coprodução, se for caso disso;\n\nv) Contrato entre o produtor estrangeiro e o produtor executivo local, se se tratar de uma produção estrangeira;\n\nvi) Orçamento e previsão de repartição da despesa por produtor, por território e por rubrica;\n\nvii) Identificação, incluindo a indicação da nacionalidade, do país de residência fiscal e, sempre que possível, do montante previsto de honorários ou pagamentos a receber, dos autores, produtores, atores e técnicos e de todos os profissionais e empresas a contratar em Portugal e cuja participação tenha impacto na pontuação do projeto nos termos do artigo 7.º;\n\nviii) Plano de financiamento do projeto;\n\nix) Contratos ou decisões que certifiquem os financiamentos obtidos e previstos;\n\nx) Plano de distribuição ou difusão e respetivos contratos celebrados, se existirem;\n\nb) Documentos relativos ao conteúdo do projeto:\n\ni) Guião;\n\nii) Tratamento, no caso de documentários;\n\niii) Notas de intenção ou explicações do realizador e/ou do produtor;\n\niv) Explicações adicionais, técnicas ou artísticas, relevantes para a avaliação do projeto, caso necessário.\n\n5 - No caso de produções estrangeiras, os beneficiários estão dispensados da apresentação dos documentos a que se referem as subalíneas ii) e iii) da alínea a) do número anterior.\n\n6 - Verificando-se a falta de documentos ou a necessidade de esclarecimentos adicionais, o ICA, I. P., notifica o requerente para resposta no prazo máximo de dez dias úteis.\n\n7 - O prazo de antecipação do requerimento em relação ao início da realização das despesas de produção elegíveis deve ocorrer no prazo de 6 meses a contar da data da apresentação do requerimento a que se refere o n.º 1, prorrogável por decisão conjunta do T.P. e I.C.A., por motivos supervenientes e devidamente justificados.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "122738993": {
+   "fragment_id": "122728141",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 7.º do regulamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 7.º do regulamento)\n\nGrelha de avaliação do valor cultural, cinematográfico/audiovisual e promocional dos projetos\n\n(ver documento original)\n\n311676989"
+  },
+  "215980251": {
+   "fragment_id": "122738910",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Portugal Film Commission",
+   "in_force_from": "2023-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 4.º-A — Portugal Film Commission\n\n1 - Para o desenvolvimento da missão e atribuições do Instituto do Cinema e Audiovisual, I. P., que, nos termos da lei orgânica do referido Instituto, sejam prosseguidas pela Portugal Film Commission, é atribuída anualmente uma verba para o funcionamento de 5,5 % do orçamento do incentivo, a título de comissão de gestão.\n\n2 - O valor referido no número anterior é transferido anualmente para o ICA, I. P..\n\n3 - As verbas não executadas em cada ano transitam para o ano seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "215980252": {
+   "fragment_id": "122728118",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2023-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos da aplicação do presente Incentivo, entende-se por:\n\na) «Desenvolvimento», o processo de elaboração do projeto que antecede a entrada em produção, incluindo os trabalhos de escrita e pesquisa, a aquisição de direitos e/ou autorizações, a identificação de locais de filmagem e das equipas e recursos técnicos e artísticos, a preparação do orçamento de produção e do plano de financiamento, a procura de parceiros, coprodutores e financiadores, a preparação do calendário de produção, a elaboração de planos iniciais de marketing e exploração, o desenvolvimento gráfico, a participação em ações internacionais de formação destinadas a produtores e autores, desde que as ações em causa incluam comprovadamente trabalho prático com incidência em projetos dos participantes inseridos no plano de escrita e desenvolvimento, a participação em fóruns internacionais de coprodução e eventos comparáveis, a realização de ensaios ou testes e produção de maquetes ou pilotos, tratamentos com imagens em movimento, teasers, websites ou outros suportes de apresentação e promoção;\n\nb) «Iniciativa», a decisão do produtor de desenvolver e produzir o projeto, assegurando a capacidade legal de o fazer, através da obtenção dos direitos de autor ou autorizações dos detentores de direitos de autor necessários a tais fins;\n\nc) «Produção estrangeira», aquela que é realizada sem coprodução portuguesa, cabendo todo o financiamento da produção e todos os direitos de propriedade intelectual a pessoas jurídicas sem sede ou não residentes em Portugal;\n\nd) «Produtor executivo», a pessoa coletiva que efetua uma produção executiva, isto é, por conta de um produtor devidamente habilitado a produzir uma obra cinematográfica ou audiovisual de sua iniciativa, e, nos termos de contrato de prestação de serviços celebrado com este, é encarregada de reunir os meios artísticos e técnicos com vista à realização da obra e de assegurar a gestão de operações conducentes à realização da obra ou de partes desta, de acordo com um orçamento previamente acordado, sem participar na titularidade de direitos de propriedade intelectual da obra.\n\ne) 'Territórios de baixa densidade', aqueles que se encontram identificados no Programa Nacional para a Coesão Territorial, aprovado pela Resolução do Conselho de Ministros n.º 72/2016, de 24 de novembro.\n\n2 - Os demais termos utilizados no presente regulamento que estejam definidos na Lei n.º 55/2012, de 6 de setembro, alterada pela Lei n.º 28/2014, de 19 de maio, ou no Decreto-Lei n.º 25/2018, de 24 de abril, e respetiva regulamentação são entendidos na aceção expressa nesses diplomas, se o presente regulamento não dispuser noutro sentido.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  },
+  "215980253": {
+   "fragment_id": "122728122",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos relativos aos projetos",
+   "in_force_from": "2023-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos relativos aos projetos\n\n1 - São elegíveis projetos de obras produzidas total ou parcialmente em Portugal com relevância promocional internacional e relevância cultural, promovidos por produtores nacionais ou não nacionais, podendo ser realizados em coprodução reconhecida por tratados internacionais ou em coprodução de facto, ou mediante recurso a produtor executivo local ou estabelecimento de sociedade ou sucursal com personalidade tributária em Portugal, sendo admissíveis as pessoas coletivas de objeto específico e duração limitada à produção e gestão de uma ou mais obras («sociedades-veículo»).\n\n2 - Considera-se que há coprodução de facto quando a obra não pode beneficiar de reconhecimento oficial ao abrigo de tratados internacionais, mas há vínculo contratual entre coprodutores e o contrato de coprodução consagra como direitos das partes a copropriedade do negativo ou master da obra e estabelece as proporções das participações de cada parte e o regime de repartição dos direitos de exploração e receitas, bem como a lei aplicável.\n\n3 - A atribuição do benefício depende da realização, em território nacional, de despesas elegíveis, certificadas em sede de apuramento definitivo, em montante não inferior a (euro) 500 000,00 por obra, ou (euro) 250 000,00, no caso de documentários ou quando as atividades de produção em Portugal não incluam filmagens.\n\n4 - São unicamente admitidos projetos de obras que tenham distribuição internacional, nomeadamente, estreia comercial em sala e/ou edição em DVD/BluRay e/ou difusão em serviços de televisão e/ou comercialização noutros serviços de comunicação social audiovisual, nomeadamente serviços de Vídeo on Demand (VOD), num dos seguintes casos:\n\na) Pelo menos três territórios de distribuição, incluindo pelo menos um território em que o português não seja a língua oficial ou nacional;\n\nb) Um ou mais territórios de distribuição, totalizando uma população igual ou superior a 45 milhões de habitantes, incluindo pelo menos um território em que o português não seja língua oficial ou nacional.\n\n5 - À data da entrega do requerimento de admissão ao benefício do Incentivo, ou, se tal não for possível até à data do início de realização das despesas de produção em Portugal (excluindo despesas de desenvolvimento ou pré-produção), o requerente tem de comprovar dispor de financiamento confirmado que cubra 80 % da despesa elegível prevista.\n\n6 - A rodagem ou animação principal só pode ter lugar após a entrega do requerimento de admissão ao benefício do Incentivo ou após o registo prévio do pedido de auxílio, de acordo com formulário disponibilizado para esse efeito pelo Instituto do Cinema e Audiovisual, I. P.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  },
+  "215980254": {
+   "fragment_id": "122728124",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos relativos a conteúdo cultural e promoção de recursos nacionais",
+   "in_force_from": "2023-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "###### Artigo 7.º — Requisitos relativos a conteúdo cultural e promoção de recursos nacionais\n\n1 - De forma a assegurar os objetivos do Incentivo e a natureza cultural das obras, em conformidade com o previsto no artigo 54.º do Regulamento (UE) n.º 651/2014 da Comissão Europeia, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia, os projetos são objeto de avaliação pelas suas características culturais e pelo seu contributo para a valorização da cinematografia, do audiovisual e dos recursos nacionais, mediante uma tabela de análise e classificação, anexa ao presente regulamento e do qual faz parte integrante.\n\n2 - Para ser elegível, o projeto deve atingir na tabela de análise e classificação um mínimo de 15 pontos, no total das secções A, B e C, desde que:\n\na) Obtenha pelo menos 10 pontos no subtotal das secções A1 e A2, dos quais pelo menos 5 pontos na secção A2; ou\n\nb) Obtenha pelo menos 3 pontos na secção A1, pelo menos 4 pontos na secção A2 e pelo menos 6 pontos no subtotal das secções B e C; ou\n\nc) Obtenha pelo menos 10 pontos no subtotal das secções A1, A2 e C1, dos quais 5 pontos na secção 1.\n\n3 - No caso de obras de iniciativa estrangeira produzidas mediante recurso a produtor executivo em Portugal ou mediante coprodução não passível de reconhecimento oficial, a elegibilidade atinge-se com um mínimo de 10 pontos na tabela, dos quais pelo menos 5 pontos no subtotal das secções A1 e A2.\n\n4 - No caso de projetos cujas atividades de produção em Portugal não incluam filmagens, a elegibilidade atinge-se com um mínimo de 8 pontos na tabela, dos quais pelo menos 4 pontos no subtotal das secções A1 e A2.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  },
+  "215980255": {
+   "fragment_id": "122728126",
+   "type": 11,
+   "heading": "Artigo 8.º — Taxas, montantes e limites de apoio",
+   "in_force_from": "2023-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 8.º — Taxas, montantes e limites de apoio\n\n1 - A taxa geral aplicável às despesas elegíveis para apuramento do montante de incentivo é de 25 %.\n\n2 - Aplica-se a taxa de 30 % aos projetos de obras que, além da pontuação prevista no artigo anterior, obtenham:\n\na) No mínimo 20 pontos na tabela de análise e classificação em anexo, incluindo pelo menos 6 pontos na subsecção A2.5 ou pelo menos 10 pontos no subtotal das secções B e C;\n\nb) No caso de obras de iniciativa estrangeira produzidas mediante recurso a produtor executivo em Portugal ou mediante coprodução não passível de reconhecimento oficial, no mínimo 12 pontos na tabela de análise e classificação em anexo;\n\nc) No caso de projetos cujas atividades de produção em Portugal não incluam filmagens, no mínimo 10 pontos na tabela de análise e classificação em anexo.\n\n3 - Independentemente da taxa aplicada a cada projeto, nos termos dos números anteriores, às despesas elegíveis realizadas nos territórios de baixa densidade, e às despesas elegíveis relativas a remunerações e encargos, designadamente ajudas de custo, contribuições para a segurança social e seguros, de elementos da equipa artística e técnica que sejam portadores de deficiência aplica-se a taxa de 40 %.\n\n4 - Os incentivos são atribuídos, em cada fase de candidaturas, até ao limite do montante definido pelo despacho previsto nos n.os 3 e 4 do artigo 12.º, por ordem de entrada dos pedidos de admissão ao benefício do Incentivo.\n\n5 - O montante máximo de apoio por projeto é em regra de (euro) 4 000 000,00, podendo ser aprovados apoios de montante superior a este, mediante deliberação do órgão responsável pela gestão do Fundo, uma vez assegurado que o apoio em causa não põe em risco a capacidade do Fundo no exercício ou nos exercícios em que tal decisão tiver impacto, nem a capacidade específica de assegurar, nesse ou nesses exercícios, a atribuição de incentivo a diferentes tipos de produções.\n\n6 - Os montantes de incentivo a atribuir a projetos que incluam como beneficiários entidades que não sejam produtores independentes não podem totalizar, em cada ano civil, mais de 15 % da dotação total do Incentivo no mesmo ano.\n\n7 - Quando, em cada exercício orçamental, os montantes aprovados atingirem 50 % do orçamento do Incentivo, o órgão de gestão do Fundo pode suspender o procedimento automático previsto no n.º 4 até ao termo do exercício, e atribuir os 50 % restantes aos projetos que, sendo elegíveis nos termos do disposto no artigo 7.º e nos números anteriores do presente artigo, demonstrem um maior impacto na projeção internacional do destino Portugal.\n\n8 - A projeção internacional referida no número anterior é verificada, designadamente, através de:\n\na) Âmbito geográfico de difusão dos projetos, sendo valorizada a difusão em mercados estratégicos para o turismo;\n\nb) Exposição mediática do projeto em meios de comunicação social internacional;\n\nc) Contributo do projeto para a realização dos objetivos definidos na Estratégia para o Turismo 2027 (ET 2027).\n\n9 - O Fundo comunica e divulga publicamente, através do site do ICA, I. P., o momento a partir do qual o disposto no n.º 7 passa a ser aplicável.\n\n10 - Os projetos aos quais seja aplicado o procedimento previsto nos n.os 7 e 8 do presente artigo e não sejam deferidos, só podem voltar a candidatar-se ao incentivo uma vez submetidos a modificações significativas, em especial no que se refere aos fatores que tenham determinado o seu indeferimento.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "215980256": {
+   "fragment_id": "122728129",
+   "type": 11,
+   "heading": "Artigo 11.º — Acumulação e limites de apoio público",
+   "in_force_from": "2023-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "###### Artigo 11.º — Acumulação e limites de apoio público\n\n1 - Ao Incentivo e à sua acumulação com outros auxílios estatais concedidos para a mesma produção aplicam-se as normas estabelecidas no artigo 5.º do Decreto-Lei n.º 74/2021, de 25 de agosto.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  },
+  "215980257": {
+   "fragment_id": "122728131",
+   "type": 11,
+   "heading": "Artigo 12.º — Requerimento de admissão ao benefício do Incentivo",
+   "in_force_from": "2023-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 12.º — Requerimento de admissão ao benefício do Incentivo\n\n1 - Os requerimentos de admissão ao benefício do Incentivo são apresentados, por via eletrónica, no sítio da Internet do ICA, I. P., por fases de candidaturas, mediante submissão de formulário próprio, e acompanhados dos documentos referidos no n.º 7 do presente artigo.\n\n2 - Em caso de impossibilidade técnica de utilização da via eletrónica imputável ao ICA, I. P., este indica os meios alternativos de apresentação do requerimento.\n\n3 - Para efeitos do disposto no n.º 1 do presente artigo, as datas de abertura de candidaturas são aprovadas por despacho dos membros do Governo responsáveis pelas áreas das finanças, da cultura e do turismo, e publicadas pelo ICA, I. P., no seu sítio da Internet.\n\n4 - O despacho previsto no número anterior define ainda o respetivo montante atribuído a cada fase de candidaturas, tendo presente o orçamento global previsto para cada ano em face do disposto no n.º 4 do artigo 5.º do Decreto-Lei n.º 45/2018, de 19 de junho, na sua atual redação, acrescido de outros montantes que eventualmente sejam alocados.\n\n5 - A pontuação obtida pela aplicação do anexo ao presente Regulamento, pelas obras cujas filmagens decorram em, pelo menos 50 % do seu tempo em territórios de baixa densidade, é majorada em 20 %, arredondada por excesso à unidade.\n\n6 - O formulário inclui a identificação do requerente e dos restantes coprodutores, se os houver, a identificação e caracterização técnica da obra, as datas e locais de produção, incluindo a pós-produção.\n\n7 - Os documentos que devem acompanhar o requerimento são os seguintes:\n\na) Documentos administrativos:\n\ni) Declaração sob compromisso de honra do requerente atestando não se encontrar em nenhuma das situações de exclusão previstas no artigo 4.º;\n\nii) Contratos de cedência de direitos de autor ou autorizações dos detentores de direitos de autor;\n\niii) Contrato com o realizador ou realizadores;\n\niv) Contrato ou contratos de coprodução, se for caso disso;\n\nv) Contrato entre o produtor estrangeiro e o produtor executivo local, se se tratar de uma produção estrangeira;\n\nvi) Orçamento e previsão de repartição da despesa por produtor, por território e por rubrica;\n\nvii) Identificação, incluindo a indicação da nacionalidade, do país de residência fiscal e, sempre que possível, do montante previsto de honorários ou pagamentos a receber, dos autores, produtores, atores e técnicos e de todos os profissionais e empresas a contratar em Portugal e cuja participação tenha impacto na pontuação do projeto nos termos do artigo 7.º;\n\nviii) Plano de financiamento do projeto;\n\nix) Contratos ou decisões que certifiquem os financiamentos obtidos e previstos;\n\nx) Plano de distribuição ou difusão e respetivos contratos celebrados, se existirem;\n\nb) Documentos relativos ao conteúdo do projeto:\n\ni) Guião;\n\nii) Tratamento, no caso de documentários;\n\niii) Notas de intenção ou explicações do realizador e/ou do produtor;\n\niv) Explicações adicionais, técnicas ou artísticas, relevantes para a avaliação do projeto, caso necessário.\n\n8 - No caso de produções estrangeiras, os beneficiários estão dispensados da apresentação dos documentos a que se referem as subalíneas ii) e iii) da alínea a) do número anterior.\n\n9 - Verificando-se a falta de documentos ou a necessidade de esclarecimentos adicionais, o ICA, I. P., notifica o requerente para resposta no prazo máximo de dez dias úteis.\n\n10 - O prazo de antecipação do requerimento em relação ao início da realização das despesas de produção elegíveis deve ocorrer no prazo de 6 meses a contar da data da apresentação do requerimento a que se refere o n.º 1, prorrogável por decisão conjunta do T.P. e I.C.A., por motivos supervenientes e devidamente justificados.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "216056680": {
+   "fragment_id": "122728135",
+   "type": 11,
+   "heading": "Artigo 16.º — Apuramento definitivo do Incentivo",
+   "in_force_from": "2023-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "###### Artigo 16.º — Apuramento definitivo do Incentivo\n\n1 - O pedido de apuramento definitivo do Incentivo é apresentado após, cumulativamente:\n\na) A conclusão da obra nos termos do n.º 4 e do relatório de auditoria e certificação de contas por um revisor oficial de contas nos termos do n.º 5;\n\nb) A demonstração da distribuição e/ou difusão e/ou comercialização através de serviços de comunicação social audiovisual em conformidade com o plano apresentado com o requerimento de admissão ao benefício, mediante apresentação de contratos relativos à exploração concreta em cada território, não bastando para este efeito, os contratos de mandato com agentes de vendas.\n\n2 - Em qualquer caso, o pedido de apuramento definitivo é obrigatoriamente apresentado num prazo não superior a 24 meses a contar da data da primeira despesa de produção elegível, ou 36 meses no caso de obras de animação, podendo estes prazos ser prorrogados até, respetivamente, 36 meses ou 48 meses, mediante pedido fundamento do requerente.\n\n3 - O desrespeito do disposto no número anterior é fundamento de incumprimento na aceção do artigo 21.º\n\n4 - Considera-se que a obra está concluída, para efeitos da alínea a) do n.º 1, quando são entregues ao ICA, I. P.:\n\na) No caso de obras nacionais ou em coprodução:\n\ni) Suportes da versão definitiva da obra, adequados para efeitos de projeção, difusão, exibição museográfica e preservação das obras, incluindo os que são destinados à Cinemateca Portuguesa - Museu do Cinema, I. P., com as especificações técnicas e formulários estabelecidos no Regulamento n.º 630/2018, de 3 de outubro;\n\nii) Filme-anúncio para utilização na promoção e divulgação da obra por parte do ICA;\n\niii) Sinopse da obra e dos episódios, quando aplicável, para fins promocionais (máximo 500 caracteres);\n\niv) Guião, se aplicável;\n\nv) Lista de diálogos do filme, se aplicável;\n\nvi) Contrato com o autor, no caso de existência de música original;\n\nvii) Declaração da produtora em como adquiriu os direitos necessários à exibição e divulgação da obra, nomeadamente relativos à utilização de músicas e de imagens;\n\nviii) Lista de músicas - music cue sheet, se aplicável;\n\nix) Registo da obra cinematográfica ou audiovisual no ICA;\n\nx) Fotografias para efeito de divulgação e promoção da obra;\n\nxi) Cartaz do filme em ficheiro digital, se aplicável;\n\nxii) Dossier de imprensa, se aplicável.\n\n5 - O relatório de auditoria referido no n.º 1 inclui, para além da certificação de contas do projeto, a certificação do cumprimento pelo requerente de outros requisitos estabelecidos no presente regulamento e, em especial, da verificação das condições determinantes da pontuação do projeto nos termos do n.º 2 do artigo 7.º e do cálculo das percentagens de incentivo, nos termos do artigo 8.º\n\n6 - O ICA, I. P., e o Turismo de Portugal, I. P., apreciam o pedido de apuramento definitivo num prazo de 20 dias úteis a contar da receção do pedido, interrompendo-se este prazo sempre que sejam solicitados documentos ou esclarecimentos necessários.\n\n7 - Em caso de indeferimento, o requerente pode apresentar reclamação num prazo de dez dias úteis, dirigindo-a ao ICA, I. P.\n\n8 - O ICA, I. P., e o Turismo de Portugal, I. P., deliberam sobre a reclamação num prazo de dez dias úteis, sendo esta decisão definitiva.\n\n9 - O apuramento definitivo do Incentivo atesta a conformidade geral e a elegibilidade das despesas e inclui o apuramento final das taxas de incentivo aplicáveis e do montante do respetivo Incentivo.\n\n10 - As decisões do ICA, I. P., e do Turismo de Portugal, I. P., são comunicadas ao requerente até ao final do dia útil seguinte ao da respetiva deliberação.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  },
+  "215980258": {
+   "fragment_id": "122728141",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 7.º do regulamento)",
+   "in_force_from": "2023-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 7.º do regulamento)\n\nGrelha de avaliação do valor cultural, cinematográfico/audiovisual e promocional dos projetos\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  },
+  "858574978": {
+   "fragment_id": "122728107",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece as normas de aplicação do regime de incentivo à produção cinematográfica e audiovisual, a seguir designado por «Incentivo», no âmbito do Fundo de Apoio ao Turismo e ao Cinema, abreviadamente designado por Fundo, criado pelo Decreto-Lei n.º 45/2018, de 19 de junho.\n\n2 - É aprovado, em anexo à presente portaria e que dela faz parte integrante, o Regulamento do Incentivo à Produção Cinematográfica e Audiovisual.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574979": {
+   "fragment_id": "122728108",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 2.º — Competências\n\nCompete ao Instituto do Cinema e Audiovisual, I. P. (ICA, I. P.) e ao Turismo de Portugal, I. P., assegurar os procedimentos relativos à instrução dos processos, nos termos da presente portaria, bem como a promoção nacional e internacional do Incentivo.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574980": {
+   "fragment_id": "122728109",
+   "type": 11,
+   "heading": "Artigo 3.º — Marca",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 3.º — Marca\n\nPode ser utilizada uma marca para efeitos de promoção nacional e internacional do Incentivo.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574981": {
+   "fragment_id": "122728110",
+   "type": 11,
+   "heading": "Artigo 4.º — Prospeção e promoção",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 4.º — Prospeção e promoção\n\n1 - O Fundo pode financiar missões de prospeção de produtores estrangeiros que considerem a possibilidade de vir a filmar em Portugal.\n\n2 - O pedido de financiamento é apresentado mediante formulário próprio, disponibilizado no sítio do ICA, I. P., até vinte dias úteis antes da missão prevista.\n\n3 - São cobertas as despesas com viagens, alojamento e serviços no âmbito da prospeção de locais de filmagem e do apuramento da viabilidade da produção em Portugal.\n\n4 - Se o projeto vier a ser produzido e a recorrer ao Incentivo à produção, o apoio dado à prospeção vai ser incorporado nas contas finais do projeto, para efeitos de cálculo da intensidade do apoio público.\n\n5 - [Revogado.]\n\n6 - [Revogado.]\n\n7 - [Revogado.]\n\n8 - O apoio às ações referidas nos números anteriores tem como limite máximo 2,5 % do orçamento do Incentivo.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "858574982": {
+   "fragment_id": "122738910",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Portugal Film Commission",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 4.º-A — Portugal Film Commission\n\n1 - Para o desenvolvimento da missão e atribuições do Instituto do Cinema e Audiovisual, I. P., que, nos termos da lei orgânica do referido Instituto, sejam prosseguidas pela Portugal Film Commission, é atribuída anualmente uma verba para o funcionamento de 5,5 % do orçamento do incentivo, a título de comissão de gestão.\n\n2 - O valor referido no número anterior é transferido anualmente para o ICA, I. P..\n\n3 - As verbas não executadas em cada ano transitam para o ano seguinte.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "858574983": {
+   "fragment_id": "122728111",
+   "type": 11,
+   "heading": "Artigo 5.º — Confidencialidade",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 5.º — Confidencialidade\n\n1 - As entidades intervenientes não podem divulgar as informações recebidas que os candidatos tenham identificado como confidenciais no momento da apresentação da candidatura, exceto no que se refere aos documentos que devem ser publicamente acessíveis nos termos da Lei n.º 26/2016, de 22 de agosto, e demais disposições aplicáveis.\n\n2 - Sem prejuízo do número anterior, a confidencialidade abrange, entre outros, os documentos protegidos por direitos de autor ou direitos conexos, bem como os documentos que revelem segredo relativo à propriedade literária, artística, industrial ou científica, segredos técnicos ou comerciais, aspetos confidenciais dos projetos e quaisquer outras informações cujo conteúdo possa ser usado para distorcer a concorrência ou prejudicar os direitos do candidato no processo de avaliação ou posteriormente, nos termos da Lei n.º 26/2016, de 22 de agosto, e das restrições resultantes do Código do Direito de Autor e dos Direitos Conexos e do Código da Propriedade Industrial e demais legislação aplicável à proteção da propriedade intelectual.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574984": {
+   "fragment_id": "122728112",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 6.º — Avaliação\n\nAté 31 de dezembro de 2022, a entidade gestora do Fundo promove a realização de uma avaliação do funcionamento e do impacto do Incentivo face aos seus objetivos, nomeadamente na perspetiva da renovação do Incentivo.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574985": {
+   "fragment_id": "122728113",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime transitório",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 7.º — Regime transitório\n\nOs projetos cujos produtores tenham requerido o reconhecimento provisório para efeitos do incentivo fiscal à produção cinematográfica e audiovisual previsto no Decreto-Lei n.º 22/2017, de 22 de fevereiro, até à data da entrada em vigor da presente portaria, transitam automaticamente para o âmbito do presente Incentivo nos seguintes termos:\n\na) Os projetos cujo pedido de reconhecimento provisório tenha sido entregue mas ainda não deferido pelo ICA, I. P., são apreciados nos termos da presente portaria;\n\nb) Os projetos cujo pedido de reconhecimento provisório tenha sido deferido pelo ICA, I. P., consideram-se automaticamente admitidos ao benefício do Incentivo previsto na presente portaria, convertendo-se em apoio financeiro ao abrigo desta os montantes de dedução, crédito fiscal ou reembolso atribuídos a esses projetos, referentes a despesas elegíveis efetuadas a partir de 2018.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574986": {
+   "fragment_id": "122728114",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n24 de setembro de 2018. - O Ministro das Finanças, Mário José Gomes de Freitas Centeno. - O Ministro da Cultura, Luís Filipe Carrilho de Castro Mendes. - A Secretária de Estado do Turismo, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574987": {
+   "fragment_id": "122728115",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 1.º)",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 1.º)\n\nRegulamento do Incentivo à Produção Cinematográfica e Audiovisual através do Fundo de Apoio ao Turismo e ao Cinema\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574988": {
+   "fragment_id": "122728116",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "### Capítulo I — Âmbito\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574989": {
+   "fragment_id": "122728117",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece as regras do programa de incentivo à produção cinematográfica e audiovisual com relevância promocional internacional e cultural e à captação de filmagens internacionais para Portugal, através do Fundo de Apoio ao Turismo e ao Cinema.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574990": {
+   "fragment_id": "122728118",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos da aplicação do presente Incentivo, entende-se por:\n\na) «Desenvolvimento», o processo de elaboração do projeto que antecede a entrada em produção, incluindo os trabalhos de escrita e pesquisa, a aquisição de direitos e/ou autorizações, a identificação de locais de filmagem e das equipas e recursos técnicos e artísticos, a preparação do orçamento de produção e do plano de financiamento, a procura de parceiros, coprodutores e financiadores, a preparação do calendário de produção, a elaboração de planos iniciais de marketing e exploração, o desenvolvimento gráfico, a participação em ações internacionais de formação destinadas a produtores e autores, desde que as ações em causa incluam comprovadamente trabalho prático com incidência em projetos dos participantes inseridos no plano de escrita e desenvolvimento, a participação em fóruns internacionais de coprodução e eventos comparáveis, a realização de ensaios ou testes e produção de maquetes ou pilotos, tratamentos com imagens em movimento, teasers, websites ou outros suportes de apresentação e promoção;\n\nb) «Iniciativa», a decisão do produtor de desenvolver e produzir o projeto, assegurando a capacidade legal de o fazer, através da obtenção dos direitos de autor ou autorizações dos detentores de direitos de autor necessários a tais fins;\n\nc) «Produção estrangeira», aquela que é realizada sem coprodução portuguesa, cabendo todo o financiamento da produção e todos os direitos de propriedade intelectual a pessoas jurídicas sem sede ou não residentes em Portugal;\n\nd) «Produtor executivo», a pessoa coletiva que efetua uma produção executiva, isto é, por conta de um produtor devidamente habilitado a produzir uma obra cinematográfica ou audiovisual de sua iniciativa, e, nos termos de contrato de prestação de serviços celebrado com este, é encarregada de reunir os meios artísticos e técnicos com vista à realização da obra e de assegurar a gestão de operações conducentes à realização da obra ou de partes desta, de acordo com um orçamento previamente acordado, sem participar na titularidade de direitos de propriedade intelectual da obra.\n\ne) 'Territórios de baixa densidade', aqueles que se encontram identificados no Programa Nacional para a Coesão Territorial, aprovado pela Resolução do Conselho de Ministros n.º 72/2016, de 24 de novembro.\n\n2 - Os demais termos utilizados no presente regulamento que estejam definidos na Lei n.º 55/2012, de 6 de setembro, alterada pela Lei n.º 28/2014, de 19 de maio, ou no Decreto-Lei n.º 25/2018, de 24 de abril, e respetiva regulamentação são entendidos na aceção expressa nesses diplomas, se o presente regulamento não dispuser noutro sentido.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  },
+  "858574991": {
+   "fragment_id": "122728119",
+   "type": 1,
+   "heading": "Capítulo II — Entidades beneficiárias e projetos elegíveis",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "### Capítulo II — Entidades beneficiárias e projetos elegíveis\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574992": {
+   "fragment_id": "122728120",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades beneficiárias",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 3.º — Entidades beneficiárias\n\n1 - Podem requerer a admissão ao benefício do Incentivo as pessoas coletivas que estejam inscritas no Registo das Entidades Cinematográficas e Audiovisuais previsto na Lei n.º 55/2012, de 6 de setembro, e no Decreto-Lei n.º 25/2018, de 24 de abril, e que tenham por objeto social:\n\na) A atividade de produção de filmes destinados a ser projetados em salas de cinema ou a ser difundidos pela televisão ou explorados através de serviços de comunicação audiovisual a pedido ou outros serviços de comunicação audiovisual; ou\n\nb) A prestação de serviços técnicos no domínio da produção de cinema e audiovisual, incluindo o aluguer de equipamento de imagem, iluminação e maquinaria, bem como atividades técnicas de pós-produção, incluindo, nomeadamente, as atividades de montagem, corte, dobragem, legendagem, trucagem, animação gráfica, efeitos de computador, sonorização e imagens de síntese, bem como atividades de laboratórios para produção de filmes e dos laboratórios especiais para filmes de animação e atividades de pós-produção sonora.\n\n2 - O Instituto do Cinema e do Audiovisual (ICA, I. P.) assegura no Registo das Entidades Cinematográficas e Audiovisuais uma modalidade de registo de empresa europeia não residente e sem sucursal em Portugal, de modo a permitir o requerimento de admissão ao benefício do Incentivo a pessoas coletivas com sede noutro Estado membro da União Europeia ou num Estado do Espaço Económico Europeu.\n\n3 - Nos casos previstos no número anterior, antes da data do início da realização das despesas de produção elegíveis, a entidade requerente tem de estabelecer sociedade ou sucursal com personalidade tributária em Portugal, sendo admissíveis as pessoas coletivas de objeto específico e duração limitada à produção e gestão de uma ou mais obras («sociedades-veículo»).\n\n4 - Em caso de coprodução que envolva mais do que um produtor estabelecido em Portugal, cada um dos coprodutores entrega um pedido de admissão ao benefício do Incentivo relativo às despesas elegíveis que suporte.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574993": {
+   "fragment_id": "122728121",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos a satisfazer pelas entidades beneficiárias",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos a satisfazer pelas entidades beneficiárias\n\nPodem beneficiar do Incentivo as empresas que preencham os seguintes requisitos:\n\na) Dispor de contabilidade regularmente organizada, de acordo com a normalização contabilística e outras disposições legais em vigor para o respetivo setor de atividade;\n\nb) Não se encontrar em estado de insolvência, declarada por sentença judicial, em fase de liquidação, dissolução ou cessação de atividade, sujeita a qualquer meio preventivo de liquidação de património ou em qualquer situação análoga ou que tenha o respetivo processo pendente, exceto se estiver abrangido por um plano de insolvência, ao abrigo da legislação em vigor;\n\nc) Não estar sujeito a uma injunção de recuperação pendente, na sequência de decisão da Comissão Europeia que tenha declarado ilegal e incompatível com o mercado interno um auxílio de estado recebido;\n\nd) Ter a situação contributiva regularizada perante a administração fiscal e a segurança social;\n\ne) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo ICA, I. P., pelo Turismo de Portugal, I. P., ou por programas internacionais em que o Estado participe através do ICA, I. P.;\n\nf) No caso de coprodução envolvendo requerentes que sejam entidades sujeitas às obrigações de investimento previstas nos artigos 14.º a 17.º da Lei n.º 55/2012, de 6 de setembro, ou empresas produtoras não independentes por aquelas participadas ou com elas relacionadas nos termos previstos na subalínea ii) da alínea r) do artigo 2.º da referida Lei, estas não deterem uma participação maioritária na coprodução, nem na totalidade desta, nem, se se tratar de coprodução internacional, no âmbito da parte portuguesa.\n\ng) Não se encontrar em situação de incumprimento das obrigações previstas nos artigos 14.º a 17.º da Lei n.º 55/2012, de 6 de setembro, sempre que aplicáveis.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574994": {
+   "fragment_id": "122728122",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos relativos aos projetos",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos relativos aos projetos\n\n1 - São elegíveis projetos de obras produzidas total ou parcialmente em Portugal com relevância promocional internacional e relevância cultural, promovidos por produtores nacionais ou não nacionais, podendo ser realizados em coprodução reconhecida por tratados internacionais ou em coprodução de facto, ou mediante recurso a produtor executivo local ou estabelecimento de sociedade ou sucursal com personalidade tributária em Portugal, sendo admissíveis as pessoas coletivas de objeto específico e duração limitada à produção e gestão de uma ou mais obras («sociedades-veículo»).\n\n2 - Considera-se que há coprodução de facto quando a obra não pode beneficiar de reconhecimento oficial ao abrigo de tratados internacionais, mas há vínculo contratual entre coprodutores e o contrato de coprodução consagra como direitos das partes a copropriedade do negativo ou master da obra e estabelece as proporções das participações de cada parte e o regime de repartição dos direitos de exploração e receitas, bem como a lei aplicável.\n\n3 - A atribuição do benefício depende da realização, em território nacional, de despesas elegíveis, certificadas em sede de apuramento definitivo, em montante não inferior a (euro) 500 000,00 por obra, ou (euro) 250 000,00, no caso de documentários ou quando as atividades de produção em Portugal não incluam filmagens.\n\n4 - São unicamente admitidos projetos de obras que tenham distribuição internacional, nomeadamente, estreia comercial em sala e/ou edição em DVD/BluRay e/ou difusão em serviços de televisão e/ou comercialização noutros serviços de comunicação social audiovisual, nomeadamente serviços de Vídeo on Demand (VOD), num dos seguintes casos:\n\na) Pelo menos três territórios de distribuição, incluindo pelo menos um território em que o português não seja a língua oficial ou nacional;\n\nb) Um ou mais territórios de distribuição, totalizando uma população igual ou superior a 45 milhões de habitantes, incluindo pelo menos um território em que o português não seja língua oficial ou nacional.\n\n5 - À data da entrega do requerimento de admissão ao benefício do Incentivo, ou, se tal não for possível até à data do início de realização das despesas de produção em Portugal (excluindo despesas de desenvolvimento ou pré-produção), o requerente tem de comprovar dispor de financiamento confirmado que cubra 80 % da despesa elegível prevista.\n\n6 - A rodagem ou animação principal só pode ter lugar após a entrega do requerimento de admissão ao benefício do Incentivo ou após o registo prévio do pedido de auxílio, de acordo com formulário disponibilizado para esse efeito pelo Instituto do Cinema e Audiovisual, I. P.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  },
+  "858574995": {
+   "fragment_id": "122728123",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipos de projetos elegíveis",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 6.º — Tipos de projetos elegíveis\n\n1 - São elegíveis projetos de obras dos seguintes tipos e formatos:\n\na) Obras cinematográficas de longa-metragem, de ficção, documentário ou animação, destinadas a uma exploração inicial em salas de cinema comerciais;\n\nb) Obras audiovisuais de produção independente, nos termos da alínea j) do artigo 2.º da Lei n.º 55/2012, de 6 de setembro, destinadas a difusão televisiva, dos seguintes tipos:\n\ni) Telefilmes;\n\nii) Documentários televisivos unitários;\n\niii) Especiais de animação para televisão;\n\niv) Séries de televisão (ficção, documentário ou animação);\n\nc) Obras de ficção, animação ou documentário, unitárias ou na forma de série de episódios, destinadas a exploração através de serviços de comunicação audiovisual a pedido ou de outros serviços de comunicações eletrónicas.\n\n2 - O requisito de produção independente previsto na alínea b) do número anterior e o limite de número de episódios previsto na alínea t) do artigo 2.º do Decreto-Lei n.º 25/2018, de 24 de abril, não se aplicam no caso de obras de iniciativa estrangeira.\n\n3 - No caso das obras na forma de séries de episódios de ficção, o custo de produção por minuto é obrigatoriamente igual ou superior a (euro) 2000,00.\n\n4 - Não são elegíveis os projetos com as seguintes características:\n\na) Obras cinematográficas ou audiovisuais de conteúdo ou orientação essencialmente noticioso ou de propaganda política, religiosa ou outra, bem como filmes pornográficos ou obras que, em abuso da liberdade de expressão, veiculem mensagens de racismo, xenofobia, violência ou intolerância política e religiosa, ou outros valores e atitudes manifestamente contrários aos direitos e liberdades fundamentais, consagrados na Constituição da República Portuguesa e no direito internacional, ou de algum modo promovam intencionalmente tais valores ou atitudes;\n\nb) Quaisquer tipos de obras relativamente às quais não se verifiquem as condições de lacuna estrutural de mercado e de efeito de incentivo que autorizam o apoio público nos termos da legislação aplicável da União Europeia, em particular o Regulamento (UE) n.º 651/2014 da Comissão Europeia, de 16 de junho de 2014.\n\n5 - Não são admissíveis as candidaturas de projetos de obras televisivas ou multimédia quando uma obra cinematográfica produzida pelo mesmo produtor, com título e/conteúdo-base idêntico, tenha sido admitida ao benefício do Incentivo, ou vice-versa.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "858574996": {
+   "fragment_id": "122728124",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos relativos a conteúdo cultural e promoção de recursos nacionais",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "###### Artigo 7.º — Requisitos relativos a conteúdo cultural e promoção de recursos nacionais\n\n1 - De forma a assegurar os objetivos do Incentivo e a natureza cultural das obras, em conformidade com o previsto no artigo 54.º do Regulamento (UE) n.º 651/2014 da Comissão Europeia, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia, os projetos são objeto de avaliação pelas suas características culturais e pelo seu contributo para a valorização da cinematografia, do audiovisual e dos recursos nacionais, mediante uma tabela de análise e classificação, anexa ao presente regulamento e do qual faz parte integrante.\n\n2 - Para ser elegível, o projeto deve atingir na tabela de análise e classificação um mínimo de 15 pontos, no total das secções A, B e C, desde que:\n\na) Obtenha pelo menos 10 pontos no subtotal das secções A1 e A2, dos quais pelo menos 5 pontos na secção A2; ou\n\nb) Obtenha pelo menos 3 pontos na secção A1, pelo menos 4 pontos na secção A2 e pelo menos 6 pontos no subtotal das secções B e C; ou\n\nc) Obtenha pelo menos 10 pontos no subtotal das secções A1, A2 e C1, dos quais 5 pontos na secção 1.\n\n3 - No caso de obras de iniciativa estrangeira produzidas mediante recurso a produtor executivo em Portugal ou mediante coprodução não passível de reconhecimento oficial, a elegibilidade atinge-se com um mínimo de 10 pontos na tabela, dos quais pelo menos 5 pontos no subtotal das secções A1 e A2.\n\n4 - No caso de projetos cujas atividades de produção em Portugal não incluam filmagens, a elegibilidade atinge-se com um mínimo de 8 pontos na tabela, dos quais pelo menos 4 pontos no subtotal das secções A1 e A2.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  },
+  "858574997": {
+   "fragment_id": "122728125",
+   "type": 1,
+   "heading": "Capítulo III — Apoio financeiro",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "### Capítulo III — Apoio financeiro\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858574998": {
+   "fragment_id": "122728126",
+   "type": 11,
+   "heading": "Artigo 8.º — Taxas, montantes e limites de apoio",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 8.º — Taxas, montantes e limites de apoio\n\n1 - A taxa geral aplicável às despesas elegíveis para apuramento do montante de incentivo é de 25 %.\n\n2 - Aplica-se a taxa de 30 % aos projetos de obras que, além da pontuação prevista no artigo anterior, obtenham:\n\na) No mínimo 20 pontos na tabela de análise e classificação em anexo, incluindo pelo menos 6 pontos na subsecção A2.5 ou pelo menos 10 pontos no subtotal das secções B e C;\n\nb) No caso de obras de iniciativa estrangeira produzidas mediante recurso a produtor executivo em Portugal ou mediante coprodução não passível de reconhecimento oficial, no mínimo 12 pontos na tabela de análise e classificação em anexo;\n\nc) No caso de projetos cujas atividades de produção em Portugal não incluam filmagens, no mínimo 10 pontos na tabela de análise e classificação em anexo.\n\n3 - Independentemente da taxa aplicada a cada projeto, nos termos dos números anteriores, às despesas elegíveis realizadas nos territórios de baixa densidade, e às despesas elegíveis relativas a remunerações e encargos, designadamente ajudas de custo, contribuições para a segurança social e seguros, de elementos da equipa artística e técnica que sejam portadores de deficiência aplica-se a taxa de 40 %.\n\n4 - Os incentivos são atribuídos, em cada fase de candidaturas, até ao limite do montante definido pelo despacho previsto nos n.os 3 e 4 do artigo 12.º, por ordem de entrada dos pedidos de admissão ao benefício do Incentivo.\n\n5 - O montante máximo de apoio por projeto é em regra de (euro) 4 000 000,00, podendo ser aprovados apoios de montante superior a este, mediante deliberação do órgão responsável pela gestão do Fundo, uma vez assegurado que o apoio em causa não põe em risco a capacidade do Fundo no exercício ou nos exercícios em que tal decisão tiver impacto, nem a capacidade específica de assegurar, nesse ou nesses exercícios, a atribuição de incentivo a diferentes tipos de produções.\n\n6 - Os montantes de incentivo a atribuir a projetos que incluam como beneficiários entidades que não sejam produtores independentes não podem totalizar, em cada ano civil, mais de 15 % da dotação total do Incentivo no mesmo ano.\n\n7 - Quando, em cada exercício orçamental, os montantes aprovados atingirem 50 % do orçamento do Incentivo, o órgão de gestão do Fundo pode suspender o procedimento automático previsto no n.º 4 até ao termo do exercício, e atribuir os 50 % restantes aos projetos que, sendo elegíveis nos termos do disposto no artigo 7.º e nos números anteriores do presente artigo, demonstrem um maior impacto na projeção internacional do destino Portugal.\n\n8 - A projeção internacional referida no número anterior é verificada, designadamente, através de:\n\na) Âmbito geográfico de difusão dos projetos, sendo valorizada a difusão em mercados estratégicos para o turismo;\n\nb) Exposição mediática do projeto em meios de comunicação social internacional;\n\nc) Contributo do projeto para a realização dos objetivos definidos na Estratégia para o Turismo 2027 (ET 2027).\n\n9 - O Fundo comunica e divulga publicamente, através do site do ICA, I. P., o momento a partir do qual o disposto no n.º 7 passa a ser aplicável.\n\n10 - Os projetos aos quais seja aplicado o procedimento previsto nos n.os 7 e 8 do presente artigo e não sejam deferidos, só podem voltar a candidatar-se ao incentivo uma vez submetidos a modificações significativas, em especial no que se refere aos fatores que tenham determinado o seu indeferimento.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "858574999": {
+   "fragment_id": "122728127",
+   "type": 11,
+   "heading": "Artigo 9.º — Taxas, montantes e limites dos apoios",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 9.º — Taxas, montantes e limites dos apoios\n\n1 - Consideram-se elegíveis as despesas referentes a pessoal e à aquisição de bens e serviços em Portugal, nos seguintes termos:\n\na) No caso de remunerações de pessoal afeto à produção da obra, bem como de honorários atribuídos a prestadores de serviços, são elegíveis na medida em que sejam tributadas em Portugal;\n\nb) No caso de bens e serviços fornecidos por empresas:\n\ni) A empresa tem de ter sede, direção efetiva ou estabelecimento estável em Portugal e estar devidamente registada no Registo Comercial;\n\nii) A empresa ou estabelecimento estável que presta os serviços tem de ter, pelo menos, um empregado permanente em funções em Portugal no momento em que os serviços são prestados;\n\niii) A fatura detalhada relativa aos serviços prestados é emitida pela empresa com sede em Portugal ou pelo estabelecimento estável em Portugal;\n\niv) Todos os serviços faturados são prestados em Portugal ou o material utilizado para fornecer os serviços é adquirido em Portugal e o equipamento técnico necessário ao fornecimento dos serviços é utilizado em Portugal;\n\nv) No caso de equipamento móvel, nomeadamente, câmaras, iluminação, equipamento de som, tem de ser obtido, nomeadamente, comprado, adquirido em regime de locação financeira ou alugado em Portugal.\n\n2 - As despesas de desenvolvimento de um projeto realizadas no território nacional, nos termos do presente artigo, nos doze meses anteriores à apresentação do requerimento de admissão ao benefício do Incentivo, são elegíveis desde que devidamente incorporadas no orçamento e contas do projeto, em conformidade com o n.º 8 do artigo 54.º do Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho de 2014, e certificadas a esse título.\n\n3 - Incluem-se entre as despesas referidas no número anterior as relativas a transmissões de direitos de autor, desde que indispensáveis à produção da obra.\n\n4 - São elegíveis até ao limite de 35 % da despesa total em Portugal as despesas relativas às seguintes remunerações, observando-se um sublimite de 10 % por alínea:\n\na) Dos produtores e das empresas produtoras, incluindo produtores executivos;\n\nb) Dos realizadores;\n\nc) Dos argumentistas, autores de adaptações e autores de diálogos;\n\nd) De outros autores, tais como autores de obras preexistentes e compositores musicais;\n\ne) Dos atores principais.\n\n5 - No caso de projetos cujas atividades de produção em Portugal não incluam filmagens, o limite previsto no número anterior é de 20 % da despesa total em Portugal e o sublimite por alínea é de 5 %.\n\n6 - A remuneração do produtor enquanto pessoa coletiva é atestada pela sua inscrição nas contas do projeto, ou, quando se trate de produção estrangeira mediante recurso a produtor executivo, através de recibo relativo ao pagamento da remuneração em causa pelo produtor estrangeiro.\n\n7 - Adicionalmente, são consideradas despesas elegíveis as despesas de produção relativas a atividades de produção realizadas em Portugal, mas contratadas com prestadores de serviços estabelecidos em outros Estados da União Europeia ou do Espaço Económico Europeu, até ao limite de 20 % da despesa elegível em Portugal.\n\n8 - O ICA, I. P. pode adotar especificações adicionais em matéria de despesas elegíveis, nos termos do seu regulamento relativo às despesas elegíveis e à prestação de contas.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "858575000": {
+   "fragment_id": "122728128",
+   "type": 11,
+   "heading": "Artigo 10.º — Base de cálculo",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 10.º — Base de cálculo\n\nSem prejuízo do disposto no n.º 3 do artigo 5.º, o montante máximo de despesa elegível considerado para efeitos de cálculo do montante de incentivo é o correspondente a 80 % do custo de produção da obra, ou 100 % do mesmo quando se aplique o disposto no n.º 6 do artigo anterior.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858575001": {
+   "fragment_id": "122728129",
+   "type": 11,
+   "heading": "Artigo 11.º — Acumulação e limites de apoio público",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "###### Artigo 11.º — Acumulação e limites de apoio público\n\n1 - Ao Incentivo e à sua acumulação com outros auxílios estatais concedidos para a mesma produção aplicam-se as normas estabelecidas no artigo 5.º do Decreto-Lei n.º 74/2021, de 25 de agosto.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  },
+  "858575002": {
+   "fragment_id": "122728130",
+   "type": 1,
+   "heading": "Capítulo IV — Procedimento, execução e fiscalização",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "### Capítulo IV — Procedimento, execução e fiscalização\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858575003": {
+   "fragment_id": "122728131",
+   "type": 11,
+   "heading": "Artigo 12.º — Requerimento de admissão ao benefício do Incentivo",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+   ],
+   "markdown": "###### Artigo 12.º — Requerimento de admissão ao benefício do Incentivo\n\n1 - Os requerimentos de admissão ao benefício do Incentivo são apresentados, por via eletrónica, no sítio da Internet do ICA, I. P., por fases de candidaturas, mediante submissão de formulário próprio, e acompanhados dos documentos referidos no n.º 7 do presente artigo.\n\n2 - Em caso de impossibilidade técnica de utilização da via eletrónica imputável ao ICA, I. P., este indica os meios alternativos de apresentação do requerimento.\n\n3 - Para efeitos do disposto no n.º 1 do presente artigo, as datas de abertura de candidaturas são aprovadas por despacho dos membros do Governo responsáveis pelas áreas das finanças, da cultura e do turismo, e publicadas pelo ICA, I. P., no seu sítio da Internet.\n\n4 - O despacho previsto no número anterior define ainda o respetivo montante atribuído a cada fase de candidaturas, tendo presente o orçamento global previsto para cada ano em face do disposto no n.º 4 do artigo 5.º do Decreto-Lei n.º 45/2018, de 19 de junho, na sua atual redação, acrescido de outros montantes que eventualmente sejam alocados.\n\n5 - A pontuação obtida pela aplicação do anexo ao presente Regulamento, pelas obras cujas filmagens decorram em, pelo menos 50 % do seu tempo em territórios de baixa densidade, é majorada em 20 %, arredondada por excesso à unidade.\n\n6 - O formulário inclui a identificação do requerente e dos restantes coprodutores, se os houver, a identificação e caracterização técnica da obra, as datas e locais de produção, incluindo a pós-produção.\n\n7 - Os documentos que devem acompanhar o requerimento são os seguintes:\n\na) Documentos administrativos:\n\ni) Declaração sob compromisso de honra do requerente atestando não se encontrar em nenhuma das situações de exclusão previstas no artigo 4.º;\n\nii) Contratos de cedência de direitos de autor ou autorizações dos detentores de direitos de autor;\n\niii) Contrato com o realizador ou realizadores;\n\niv) Contrato ou contratos de coprodução, se for caso disso;\n\nv) Contrato entre o produtor estrangeiro e o produtor executivo local, se se tratar de uma produção estrangeira;\n\nvi) Orçamento e previsão de repartição da despesa por produtor, por território e por rubrica;\n\nvii) Identificação, incluindo a indicação da nacionalidade, do país de residência fiscal e, sempre que possível, do montante previsto de honorários ou pagamentos a receber, dos autores, produtores, atores e técnicos e de todos os profissionais e empresas a contratar em Portugal e cuja participação tenha impacto na pontuação do projeto nos termos do artigo 7.º;\n\nviii) Plano de financiamento do projeto;\n\nix) Contratos ou decisões que certifiquem os financiamentos obtidos e previstos;\n\nx) Plano de distribuição ou difusão e respetivos contratos celebrados, se existirem;\n\nb) Documentos relativos ao conteúdo do projeto:\n\ni) Guião;\n\nii) Tratamento, no caso de documentários;\n\niii) Notas de intenção ou explicações do realizador e/ou do produtor;\n\niv) Explicações adicionais, técnicas ou artísticas, relevantes para a avaliação do projeto, caso necessário.\n\n8 - No caso de produções estrangeiras, os beneficiários estão dispensados da apresentação dos documentos a que se referem as subalíneas ii) e iii) da alínea a) do número anterior.\n\n9 - Verificando-se a falta de documentos ou a necessidade de esclarecimentos adicionais, o ICA, I. P., notifica o requerente para resposta no prazo máximo de dez dias úteis.\n\n10 - O prazo de antecipação do requerimento em relação ao início da realização das despesas de produção elegíveis deve ocorrer no prazo de 6 meses a contar da data da apresentação do requerimento a que se refere o n.º 1, prorrogável por decisão conjunta do T.P. e I.C.A., por motivos supervenientes e devidamente justificados.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 198/2019 - Diário da República n.º 121/2019, Série I de 2019-06-27](https://diariodarepublica.pt/dr/detalhe/portaria/198-2019-122728689), em vigor a partir de 2019-06-28"
+  },
+  "858575004": {
+   "fragment_id": "122728132",
+   "type": 11,
+   "heading": "Artigo 13.º — Comunicações e notificações",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 13.º — Comunicações e notificações\n\n1 - Toda a comunicação entre o ICA, I. P., e os requerentes, designadamente em matéria de notificações, é efetuada para o endereço eletrónico indicado por estes e constante do Registo das Entidades Cinematográficas e Audiovisuais e de outras entidades do ICA, I. P.\n\n2 - As notificações e as comunicações, quando efetuadas através de correio eletrónico ou de outro meio de transmissão escrita e eletrónica de dados, consideram-se feitas na data da expedição.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858575005": {
+   "fragment_id": "122728133",
+   "type": 11,
+   "heading": "Artigo 14.º — Decisão sobre o requerimento de admissão ao benefício do Incentivo",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 14.º — Decisão sobre o requerimento de admissão ao benefício do Incentivo\n\n1 - O ICA, I. P., e o Turismo de Portugal, I. P., apreciam e decidem relativamente ao requerimento de admissão ao benefício do Incentivo num prazo de vinte dias úteis a contar da receção do requerimento, interrompendo-se este prazo sempre que sejam solicitados documentos ou esclarecimentos necessários.\n\n2 - Em caso de indeferimento, o requerente pode apresentar reclamação dirigida à entidade gestora do fundo num prazo de dez dias úteis.\n\n3 - A entidade gestora do fundo pode solicitar parecer ao ICA, I. P., e ao Turismo de Portugal, I. P., para decidirem sobre a reclamação num prazo de dez dias úteis, revestindo-se a decisão de caráter definitivo.\n\n4 - A decisão de admissão ao benefício do Incentivo refere as datas previsíveis de realização das despesas elegíveis, bem como o montante previsto das mesmas, a data prevista de conclusão da obra e uma estimativa do montante de Incentivo a conceder.\n\n5 - A decisão do ICA, I. P., e do Turismo de Portugal, I. P., é comunicada ao requerente até ao final do dia útil seguinte ao da respetiva deliberação.\n\n6 - Na comunicação prevista no número anterior, o ICA, I. P., e o Turismo de Portugal, I. P., podem incluir indicações ou advertências que considerem relevantes, relacionadas com fatores críticos da execução do projeto suscetíveis de condicionar o apuramento definitivo do Incentivo.\n\n7 - No prazo de trinta dias úteis após comunicação da decisão de admissão ao benefício, é celebrado o contrato de concessão do Incentivo entre o ICA, I. P., o Turismo de Portugal, I. P., e o beneficiário, o qual contém, nomeadamente, os direitos e obrigações de cada uma das partes.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858575006": {
+   "fragment_id": "122728134",
+   "type": 11,
+   "heading": "Artigo 15.º — Revisão da decisão de admissão ao benefício do Incentivo",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 15.º — Revisão da decisão de admissão ao benefício do Incentivo\n\n1 - O requerente cujo projeto tenha obtido decisão favorável de admissão ao benefício do Incentivo nos termos do artigo anterior é obrigado a requerer ao ICA, I. P., a revisão da decisão inicial sempre que ocorram modificações significativas no projeto ou desvios significativos na execução deste relativamente ao que tenha sido inscrito no formulário de pedido inicial e comunicado nos documentos enviados e aceites, nos termos do artigo 12.º\n\n2 - Consideram-se modificações significativas do projeto ou desvios significativos na sua execução as alterações relativas a fatores críticos para a determinação da elegibilidade do projeto e da taxa de incentivo, nomeadamente:\n\na) Alterações da estrutura de coprodução ou do relacionamento contratual com o produtor executivo local;\n\nb) Alterações da identidade, da nacionalidade ou da residência ou domicílio fiscal e da natureza ou quantidade da participação no projeto de todos os autores, atores e técnicos ou qualquer pessoal contabilizado em sede de avaliação e classificação do projeto nos termos da tabela anexa ao presente regulamento;\n\nc) Alterações do guião ou de opções de produção ou vicissitudes desta, nomeadamente quanto a locais de filmagem e pós-produção e respetivas durações e datas, ou quaisquer outros fatores com impacto na avaliação e pontuação das características do projeto nos termos da tabela anexa ao presente regulamento;\n\nd) Variações orçamentais superiores a 10 % do orçamento da obra e quaisquer reduções da previsão de despesas elegíveis suscetíveis de pôr em risco a elegibilidade do projeto.\n\n3 - A revisão da decisão de admissão ao benefício do Incentivo obedece ao procedimento e prazos aplicáveis nos termos dos n.os 1 a 4 do artigo anterior e não tem custos para o requerente.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858575007": {
+   "fragment_id": "122728135",
+   "type": 11,
+   "heading": "Artigo 16.º — Apuramento definitivo do Incentivo",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "###### Artigo 16.º — Apuramento definitivo do Incentivo\n\n1 - O pedido de apuramento definitivo do Incentivo é apresentado após, cumulativamente:\n\na) A conclusão da obra nos termos do n.º 4 e do relatório de auditoria e certificação de contas por um revisor oficial de contas nos termos do n.º 5;\n\nb) A demonstração da distribuição e/ou difusão e/ou comercialização através de serviços de comunicação social audiovisual em conformidade com o plano apresentado com o requerimento de admissão ao benefício, mediante apresentação de contratos relativos à exploração concreta em cada território, não bastando para este efeito, os contratos de mandato com agentes de vendas.\n\n2 - Em qualquer caso, o pedido de apuramento definitivo é obrigatoriamente apresentado num prazo não superior a 24 meses a contar da data da primeira despesa de produção elegível, ou 36 meses no caso de obras de animação, podendo estes prazos ser prorrogados até, respetivamente, 36 meses ou 48 meses, mediante pedido fundamento do requerente.\n\n3 - O desrespeito do disposto no número anterior é fundamento de incumprimento na aceção do artigo 21.º\n\n4 - Considera-se que a obra está concluída, para efeitos da alínea a) do n.º 1, quando são entregues ao ICA, I. P.:\n\na) No caso de obras nacionais ou em coprodução:\n\ni) Suportes da versão definitiva da obra, adequados para efeitos de projeção, difusão, exibição museográfica e preservação das obras, incluindo os que são destinados à Cinemateca Portuguesa - Museu do Cinema, I. P., com as especificações técnicas e formulários estabelecidos no Regulamento n.º 630/2018, de 3 de outubro;\n\nii) Filme-anúncio para utilização na promoção e divulgação da obra por parte do ICA;\n\niii) Sinopse da obra e dos episódios, quando aplicável, para fins promocionais (máximo 500 caracteres);\n\niv) Guião, se aplicável;\n\nv) Lista de diálogos do filme, se aplicável;\n\nvi) Contrato com o autor, no caso de existência de música original;\n\nvii) Declaração da produtora em como adquiriu os direitos necessários à exibição e divulgação da obra, nomeadamente relativos à utilização de músicas e de imagens;\n\nviii) Lista de músicas - music cue sheet, se aplicável;\n\nix) Registo da obra cinematográfica ou audiovisual no ICA;\n\nx) Fotografias para efeito de divulgação e promoção da obra;\n\nxi) Cartaz do filme em ficheiro digital, se aplicável;\n\nxii) Dossier de imprensa, se aplicável.\n\n5 - O relatório de auditoria referido no n.º 1 inclui, para além da certificação de contas do projeto, a certificação do cumprimento pelo requerente de outros requisitos estabelecidos no presente regulamento e, em especial, da verificação das condições determinantes da pontuação do projeto nos termos do n.º 2 do artigo 7.º e do cálculo das percentagens de incentivo, nos termos do artigo 8.º\n\n6 - O ICA, I. P., e o Turismo de Portugal, I. P., apreciam o pedido de apuramento definitivo num prazo de 20 dias úteis a contar da receção do pedido, interrompendo-se este prazo sempre que sejam solicitados documentos ou esclarecimentos necessários.\n\n7 - Em caso de indeferimento, o requerente pode apresentar reclamação num prazo de dez dias úteis, dirigindo-a ao ICA, I. P.\n\n8 - O ICA, I. P., e o Turismo de Portugal, I. P., deliberam sobre a reclamação num prazo de dez dias úteis, sendo esta decisão definitiva.\n\n9 - O apuramento definitivo do Incentivo atesta a conformidade geral e a elegibilidade das despesas e inclui o apuramento final das taxas de incentivo aplicáveis e do montante do respetivo Incentivo.\n\n10 - As decisões do ICA, I. P., e do Turismo de Portugal, I. P., são comunicadas ao requerente até ao final do dia útil seguinte ao da respetiva deliberação.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  },
+  "858575008": {
+   "fragment_id": "122728136",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamentos",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 17.º — Pagamentos\n\n1 - O Incentivo é pago aos beneficiários em diferentes prestações, a partir da assinatura do contrato de concessão do Incentivo, nos termos e segundo calendário neste definidos, mediante pedido de pagamento dirigido pelo ICA, I. P., à entidade gestora do Fundo e com a seguinte cadência:\n\na) Primeira prestação no prazo de dez dias úteis contados da assinatura do contrato;\n\nb) Segunda ou segunda e terceira prestações, em função da duração da execução da obra, entre o decurso da rodagem ou animação e a pós-produção;\n\nc) Terceira ou quarta prestação com o apuramento definitivo do Incentivo.\n\n2 - O valor da última prestação previsto no contrato não pode ser inferior a 15 % do montante de incentivo estimado na decisão de admissão ao benefício do Incentivo.\n\n3 - O pagamento de cada prestação faz-se contra demonstração da execução das despesas cobertas pela prestação anterior, através de apresentação de certificação das mesmas por um técnico oficial de contas ou por um revisor oficial de contas.\n\n4 - Sempre que haja lugar à apresentação de contas certificadas intercalares, o ICA, I. P., dispõe de 15 dias úteis, a contar da data da respetiva entrega, para validar o pedido de prestação do beneficiário e transmitir o pedido de pagamento à entidade gestora do Fundo, que efetua o pagamento ao beneficiário num prazo de 20 dias úteis.\n\n5 - Quando, havendo diversos financiamentos públicos, estes totalizarem, na estrutura financeira final do projeto, um valor superior à intensidade máxima de auxílio de Estado aplicável, o ICA, I. P., e o Turismo de Portugal, I. P., procedem ao acerto necessário previamente ao pagamento da última prestação de apoio e/ou exige-se a devolução de montantes eventualmente recebidos em excesso, se esta prestação for o último pagamento ao beneficiário de apoio público relativo ao projeto.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858575009": {
+   "fragment_id": "122728137",
+   "type": 11,
+   "heading": "Artigo 18.º — Obrigações do beneficiário",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 18.º — Obrigações do beneficiário\n\nOs beneficiários estão obrigados a apresentar os documentos necessários, viabilizar auditorias e prestar todos os esclarecimentos referentes à execução do projeto que o ICA, I. P., o Turismo de Portugal, I. P., outra autoridade competente ou entidade externa por aqueles indicada, solicitar.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858575010": {
+   "fragment_id": "122728138",
+   "type": 11,
+   "heading": "Artigo 19.º — Menção do Incentivo",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 19.º — Menção do Incentivo\n\n1 - É obrigatória a menção do Incentivo no genérico dos filmes beneficiários e em materiais impressos e online de promoção dos mesmos.\n\n2 - A decisão de admissão ao benefício do Incentivo estipula os termos em que a obrigação estabelecida no número anterior é cumprida pelo beneficiário.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858575011": {
+   "fragment_id": "122728139",
+   "type": 11,
+   "heading": "Artigo 20.º — Falsas declarações e responsabilidade",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 20.º — Falsas declarações e responsabilidade\n\n1 - Os requerentes e beneficiários que tiverem prestado falsas declarações estão sujeitos a responsabilidade civil e criminal, sem prejuízo de outras que possam acrescer, nos termos da lei.\n\n2 - A prestação de falsas declarações por parte dos requerentes e beneficiários determina a impossibilidade de se candidatarem ao benefício do Incentivo pelo prazo de cinco anos.\n\n3 - Os membros dos órgãos de fiscalização e revisores oficiais de contas são responsáveis nos termos previstos na lei.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858575012": {
+   "fragment_id": "122728140",
+   "type": 11,
+   "heading": "Artigo 21.º — Incumprimento e resolução dos contratos",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+   ],
+   "markdown": "###### Artigo 21.º — Incumprimento e resolução dos contratos\n\nO incumprimento das obrigações assumidas pelo beneficiário constitui fundamento para a resolução unilateral do contrato por parte do ICA, I. P., e do Turismo de Portugal, I. P., constituindo-se o beneficiário na obrigação de devolução da totalidade do Incentivo recebido, acrescido de uma verba, a título de cláusula penal, equivalente a uma taxa de juro igual à EURIBOR a 6 meses, acrescida de 3 pontos percentuais, devida desde a data da libertação do Incentivo.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29"
+  },
+  "858575013": {
+   "fragment_id": "122728141",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 7.º do regulamento)",
+   "in_force_from": "2024-03-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 7.º do regulamento)\n\nGrelha de avaliação do valor cultural, cinematográfico/audiovisual e promocional dos projetos\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 124-A/2024/1 - Diário da República n.º 63/2024, Suplemento, Série I de 2024-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/124-a-2024-858196732), em vigor a partir de 2024-03-29\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 159-A/2023 - Diário da República n.º 66/2023, 1º Suplemento, Série II de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/159-a-2023-211393782), em vigor a partir de 2023-04-04"
+  }
+ }
+}

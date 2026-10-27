@@ -1,0 +1,147 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:423928:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-115556399",
+ "dre_path": "/dr/detalhe/portaria/1451-2002-423928",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115556366"
+   ]
+  },
+  {
+   "date": "2018-06-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115552975:por",
+     "title": "Portaria n.º 176/2018",
+     "published": "2018-06-20",
+     "dre_path": "/dr/detalhe/portaria/176-2018-115552975"
+    }
+   ],
+   "changes": [
+    "Adita 7.º",
+    "Adita 8.º",
+    "Altera 1.º",
+    "Altera 3.º",
+    "Altera 4.º",
+    "Altera 5.º",
+    "Altera 6.º"
+   ],
+   "fragments": [
+    "115556366",
+    "115557395",
+    "115557376",
+    "115557396",
+    "115557397",
+    "115557398",
+    "115557399",
+    "115557391",
+    "115557393",
+    "115557394"
+   ]
+  }
+ ],
+ "fragments": {
+  "115556366": {
+   "fragment_id": "115556400",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1451/2002\n\nde 11 de Novembro\n\nA revisão do regime jurídico dos PPR/E, com a entrada em vigor do Decreto-Lei n.º 158/2002, de 2 de Julho, constitui um importante avanço no sentido da flexibilização do produto, visando conferir-lhe uma maior atractividade do ponto de vista dos aforradores e uma maior adaptação à realidade que vem sendo imposta pelo próprio processo evolutivo dos mercados financeiros e da respectiva gestão.\n\nEm face da constante mutação dos mercados, da sofisticação dos produtos financeiros e da própria gestão de activos, julgou-se adequado retirar as regras de composição da carteira do corpo do decreto-lei, apostando na sua fixação através de portaria, dado este mecanismo legislativo possibilitar uma adaptação mais célere aos condicionalismos que caracterizam essa mutação.\n\nA harmonização das regras de composição das carteiras dos PPR/E, independentemente da forma que estes possam assumir e o abandono da imposição de limites mínimos aplicáveis a algumas classes de activos, obrigando a que estivessem sempre presentes nas carteiras, constituíram dois aspectos nucleares em todo o processo. Por um lado, pretendeu-se evitar situações de concorrência desleal entre as diferentes formas que os PPR/E podem assumir e, por outro, flexibilizar a sua gestão, alargando simultaneamente as opções que são colocadas ao aforrador, designadamente quanto à possibilidade de escolha entre planos de poupança com diferentes perfis de risco.\n\nDas alterações mais significativas a este nível, cumpre destacar a eliminação do limite mínimo de aplicação em dívida pública e o aumento significativo da componente de acções permitida, a qual ultrapassará, em 2003, mais do dobro daquela que vigorava no regime anterior, o que não deixa de constituir um elemento de confiança no tipo de gestão que este produto impõe.\n\nForam igualmente estabelecidos limites de exposição a uma única entidade ou a entidades em relação de domínio ou de grupo, como forma de evitar que a aplicação dos diferentes regimes subsidiários originasse distorções entre as diferentes formas que caracterizam os PPR/E.\n\nNestes termos:\n\nManda o Governo, pela Ministra de Estado e das Finanças, ao abrigo do n.º 4 do artigo 3.º do Decreto-Lei n.º 158/2002, de 2 de Julho, o seguinte:"
+  },
+  "115557395": {
+   "fragment_id": "115556408",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### 1.º\n\nO património de um fundo de poupança poderá ser constituído pelas espécies de activos previstos no artigo 3.º do Decreto-Lei n.º 158/2002, de 2 de Julho, com observância das seguintes regras e limites:\n\na) (Revogada.)\n\nb) O investimento em valores mobiliários, com exceção das participações em instituições de investimento coletivo, que não se encontrem admitidos à negociação numa bolsa de valores ou em mercados regulamentados de Estados membros da União Europeia, ou noutros mercados de outros Estados membros da OCDE com funcionamento regular, reconhecidos e abertos ao público, não pode representar mais de 10 %;\n\nc) Um máximo de 20% pode ser representado por instrumentos representativos de dívida de curto prazo, depósitos bancários e outros instrumentos monetários;\n\nd) Um máximo de 5 % pode ser representado por participações em instituições de investimento coletivo em valores mobiliários que não respeitem os requisitos de legislação adotada por força da Diretiva 2009/65/CE, do Parlamento Europeu e do Conselho, de 13 de julho de 2009;\n\ne) Nos fundos de poupança sob a forma de fundo de investimento mobiliário, um máximo de 20% pode ser representado por aplicações em unidades de participação em fundos de investimento imobiliário;\n\nf) Nos fundos de poupança sob a forma de fundo de pensões ou de fundo autónomo de uma modalidade de seguro do ramo «Vida», um máximo de 20% pode ser representado por aplicações em terrenos e edifícios e em unidades de participação em fundos de investimento imobiliário;\n\ng) Nos fundos de poupança sob a forma de fundo de pensões ou de fundo autónomo de uma modalidade de seguro do ramo «Vida», um máximo de 20% pode ser constituído por créditos decorrentes de empréstimos hipotecários.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+  },
+  "115557376": {
+   "fragment_id": "115556409",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nSem prejuízo do disposto no número anterior, o património de um fundo de poupança deve observar os seguintes limites de dispersão:\n\na) No seu conjunto, os valores mobiliários e o papel comercial emitidos por uma mesma sociedade e os empréstimos concedidos a essa mesma sociedade não podem representar mais de 10%;\n\nb) O limite fixado na alínea anterior é de 15% relativamente ao conjunto das sociedades que se encontrem entre si ou com a entidade gestora em relação de domínio ou de grupo, incluindo neste limite os depósitos em instituições de crédito em relação idêntica."
+  },
+  "115557396": {
+   "fragment_id": "115556410",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### 3.º\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+  },
+  "115557397": {
+   "fragment_id": "115556411",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### 4.º\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+  },
+  "115557398": {
+   "fragment_id": "115556412",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### 5.º\n\nOs fundos de poupança sob a forma de fundo de investimento mobiliário podem adotar, no momento da autorização, uma política de investimentos cuja composição da carteira seja exclusivamente constituída por valores mobiliários e pelos ativos financeiros líquidos referidos na subsecção I da secção I do capítulo II do título III do Regime Geral dos Organismos de Investimento Coletivo, aprovado pela Lei n.º 16/2015, de 24 de fevereiro, que cumpram os limites previstos na subsecção II da referida secção.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+  },
+  "115557399": {
+   "fragment_id": "115556413",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### 6.º\n\nOs fundos de poupança sob a forma de fundo de investimento mobiliário cuja política de investimentos respeite os limites referidos no número anterior:\n\na) Devem incluir na respetiva denominação a expressão 'PPR/OICVM';\n\nb) São qualificados, para todos os efeitos legais, como organismos de investimento coletivo em valores mobiliários, nos termos do artigo 2.º, n.º 1, alínea aa), subalínea i), do Regime Geral dos Organismos de Investimento Coletivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+  },
+  "115557391": {
+   "fragment_id": "115556417",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### 7.º\n\nAs entidades gestoras podem recorrer a técnicas e instrumentos adequados à gestão dos fundos de poupança, mediante a utilização de instrumentos financeiros derivados, operações de reporte e empréstimo de valores, nas condições e limites definidos para os fundos de investimento mobiliário, fundos de pensões ou seguros do ramo «Vida», conforme os casos.\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+  },
+  "115557393": {
+   "fragment_id": "115556418",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### 8.º\n\nA Comissão do Mercado de Valores Mobiliários e o Instituto de Seguros de Portugal poderão emitir os regulamentos técnicos de execução da presente portaria.\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 176/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2018-115552975), em vigor a partir de 2018-06-21"
+  },
+  "115557394": {
+   "fragment_id": "115556401",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 30 de Julho de 2002."
+  }
+ }
+}

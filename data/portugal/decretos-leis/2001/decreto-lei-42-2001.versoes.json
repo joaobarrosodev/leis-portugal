@@ -1,0 +1,1673 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:319948:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-70073607",
+ "dre_path": "/dr/detalhe/decreto-lei/42-2001-319948",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-02-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "70073573",
+    "70073574",
+    "70073675",
+    "70073676",
+    "70073677",
+    "70073678",
+    "70073679",
+    "70073680",
+    "70073681",
+    "70073682",
+    "70073684",
+    "70073683",
+    "70073685",
+    "70073686",
+    "70073687",
+    "70073688",
+    "70073689",
+    "70073690"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243747:por",
+     "title": "Lei n.º 64-A/2008",
+     "published": "2008-12-31",
+     "dre_path": "/dr/detalhe/lei/64-a-2008-243747"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "70073573",
+    "70033962",
+    "70033963",
+    "70073676",
+    "70073677",
+    "70073678",
+    "70073679",
+    "70033964",
+    "70073681",
+    "70073682",
+    "70073683",
+    "70078190",
+    "70078181",
+    "70078182",
+    "70078183",
+    "70078184",
+    "70078185",
+    "70078186",
+    "70078187",
+    "70078188"
+   ]
+  },
+  {
+   "date": "2010-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:609990:por",
+     "title": "Lei n.º 3-B/2010",
+     "published": "2010-04-28",
+     "dre_path": "/dr/detalhe/lei/3-b-2010-609990"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "70073573",
+    "70033962",
+    "70033963",
+    "70073676",
+    "70073677",
+    "70073678",
+    "70073679",
+    "70033964",
+    "70073681",
+    "70073682",
+    "70073683",
+    "70078194",
+    "70078181",
+    "70078182",
+    "70078183",
+    "70078184",
+    "70078185",
+    "70078186",
+    "70078187",
+    "70078188"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243769:por",
+     "title": "Lei n.º 64-B/2011",
+     "published": "2011-12-30",
+     "dre_path": "/dr/detalhe/lei/64-b-2011-243769"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "70073573",
+    "70033962",
+    "70033963",
+    "70073676",
+    "70073677",
+    "70073678",
+    "70073679",
+    "70033964",
+    "70073681",
+    "70073682",
+    "70073683",
+    "70078199",
+    "70078181",
+    "70078182",
+    "70078183",
+    "70078184",
+    "70078185",
+    "70078186",
+    "70078187",
+    "70078188"
+   ]
+  },
+  {
+   "date": "2012-05-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:552023:por",
+     "title": "Lei n.º 20/2012",
+     "published": "2012-05-14",
+     "dre_path": "/dr/detalhe/lei/20-2012-552023"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "70073573",
+    "70033962",
+    "70033963",
+    "70073676",
+    "70073677",
+    "70078200",
+    "70078201",
+    "70078202",
+    "70078203",
+    "70078204",
+    "70078205",
+    "70078206",
+    "70078207",
+    "70078208",
+    "70078209",
+    "70078210",
+    "70078211",
+    "70078212",
+    "70078213",
+    "70078214",
+    "70078215"
+   ]
+  },
+  {
+   "date": "2012-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:190201:por",
+     "title": "Lei n.º 64/2012",
+     "published": "2012-12-20",
+     "dre_path": "/dr/detalhe/lei/64-2012-190201"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "70078216",
+    "70033962",
+    "70033963",
+    "70073676",
+    "70073677",
+    "70078200",
+    "70078201",
+    "70078202",
+    "70078203",
+    "70078204",
+    "70078205",
+    "70078206",
+    "70078207",
+    "70078208",
+    "70078209",
+    "70078210",
+    "70078211",
+    "70078212",
+    "70078213",
+    "70078214",
+    "70078215"
+   ]
+  },
+  {
+   "date": "2014-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25343726:por",
+     "title": "Decreto-Lei n.º 63/2014",
+     "published": "2014-04-28",
+     "dre_path": "/dr/detalhe/decreto-lei/63-2014-25343726"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º-A",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "70078250",
+    "70033962",
+    "134392659",
+    "134392658",
+    "134392660",
+    "134392661",
+    "134392662",
+    "134392663",
+    "134392664",
+    "134392665",
+    "134392666",
+    "134392667",
+    "134392668",
+    "134392669",
+    "134392670",
+    "134392671",
+    "134392672",
+    "134392673",
+    "134392674",
+    "134392775",
+    "134392776",
+    "134392777"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:268650:por",
+     "title": "Decreto-Lei n.º 112/2004",
+     "published": "2004-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/112-2004-268650",
+     "date": "2015-05-18"
+    }
+   ]
+  },
+  {
+   "date": "2015-07-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69736209:por",
+     "title": "Decreto-Lei n.º 128/2015",
+     "published": "2015-07-07",
+     "dre_path": "/dr/detalhe/decreto-lei/128-2015-69736209"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "70078250",
+    "70033962",
+    "134392659",
+    "134392658",
+    "134392660",
+    "134392661",
+    "134392662",
+    "134392663",
+    "134392664",
+    "134392665",
+    "134392666",
+    "134392667",
+    "134392668",
+    "70078263",
+    "134392670",
+    "134392671",
+    "134392672",
+    "134392673",
+    "134392674",
+    "134392775",
+    "134392776",
+    "134392777"
+   ]
+  },
+  {
+   "date": "2016-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74843539:por",
+     "title": "Decreto-Lei n.º 35-C/2016",
+     "published": "2016-06-30",
+     "dre_path": "/dr/detalhe/decreto-lei/35-c-2016-74843539"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "70078250",
+    "70033962",
+    "134392659",
+    "134392658",
+    "134392660",
+    "134392661",
+    "134392662",
+    "134392663",
+    "134392664",
+    "134392665",
+    "134392666",
+    "134392667",
+    "134392668",
+    "106968233",
+    "134392670",
+    "134392671",
+    "134392672",
+    "134392673",
+    "134392674",
+    "134392775",
+    "134392776",
+    "134392777"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:107791615:por",
+     "title": "Decreto-Lei n.º 93/2017",
+     "published": "2017-08-01",
+     "dre_path": "/dr/detalhe/decreto-lei/93-2017-107791615",
+     "date": "2017-07-01"
+    }
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-B"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "70078250",
+    "70033962",
+    "134392659",
+    "134392658",
+    "134392660",
+    "134392661",
+    "107797738",
+    "134392663",
+    "134392664",
+    "134392665",
+    "134392666",
+    "134392667",
+    "134392668",
+    "106968233",
+    "134392670",
+    "114459756",
+    "114459757",
+    "114459758",
+    "114459759",
+    "114459760",
+    "114459761",
+    "114459762",
+    "114459763"
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "70078250",
+    "70033962",
+    "134392658",
+    "134392659",
+    "134392660",
+    "134392661",
+    "107797738",
+    "134392663",
+    "134392664",
+    "134392665",
+    "134392666",
+    "134392667",
+    "134392668",
+    "106968233",
+    "134392670",
+    "114459756",
+    "131058402",
+    "131058403",
+    "131058404",
+    "131058405",
+    "131058406",
+    "131058407",
+    "131058408",
+    "131058409"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 18.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º-A"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "134392781",
+    "70033962",
+    "134392782",
+    "134392659",
+    "134392660",
+    "134392661",
+    "107797738",
+    "134392663",
+    "134392664",
+    "134392665",
+    "134392666",
+    "134392667",
+    "134392668",
+    "106968233",
+    "134392670",
+    "114459756",
+    "131058402",
+    "131058403",
+    "131058404",
+    "131058405",
+    "131058406",
+    "131058407",
+    "134392778",
+    "134392779",
+    "134392780"
+   ]
+  },
+  {
+   "date": "2023-08-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220956295:por",
+     "title": "Decreto-Lei n.º 74-B/2023",
+     "published": "2023-08-28",
+     "dre_path": "/dr/detalhe/decreto-lei/74-b-2023-220956295"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "134392781",
+    "70033962",
+    "134392782",
+    "134392659",
+    "221053276",
+    "134392661",
+    "107797738",
+    "134392663",
+    "134392664",
+    "134392665",
+    "134392666",
+    "134392667",
+    "134392668",
+    "106968233",
+    "134392670",
+    "114459756",
+    "131058402",
+    "131058403",
+    "131058404",
+    "131058405",
+    "131058406",
+    "131058407",
+    "134392778",
+    "134392779",
+    "134392780"
+   ]
+  },
+  {
+   "date": "2024-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:836117865:por",
+     "title": "Decreto-Lei n.º 3/2024",
+     "published": "2024-01-05",
+     "dre_path": "/dr/detalhe/decreto-lei/3-2024-836117865"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º-A"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "134392781",
+    "70033962",
+    "134392782",
+    "134392659",
+    "221053276",
+    "134392661",
+    "107797738",
+    "134392663",
+    "134392664",
+    "134392665",
+    "134392666",
+    "134392667",
+    "134392668",
+    "106968233",
+    "134392670",
+    "114459756",
+    "131058402",
+    "836267985",
+    "131058404",
+    "131058405",
+    "131058406",
+    "131058407",
+    "134392778",
+    "134392779",
+    "134392780"
+   ]
+  },
+  {
+   "date": "2026-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1051282279:por",
+     "title": "Decreto-Lei n.º 41/2026",
+     "published": "2026-02-16",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2026-1051282279"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º-A",
+    "Altera Artigo 6.º-A",
+    "Altera Artigo 7.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º-A",
+    "Altera Artigo 18.º-A"
+   ],
+   "fragments": [
+    "70073571",
+    "70073572",
+    "134392781",
+    "70033962",
+    "1051401239",
+    "134392659",
+    "221053276",
+    "134392661",
+    "1051401245",
+    "1051401241",
+    "134392664",
+    "134392665",
+    "134392666",
+    "134392667",
+    "1051401242",
+    "1051401246",
+    "134392670",
+    "1051401247",
+    "1051401248",
+    "1051401249",
+    "1051401250",
+    "1051401251",
+    "1051401252",
+    "1051401253",
+    "1051401254",
+    "1051401255",
+    "1051401256"
+   ]
+  }
+ ],
+ "fragments": {
+  "70073571": {
+   "fragment_id": "70073608",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 42/2001\n\nde 9 de Fevereiro\n\nNos termos do artigo 38.º da Lei n.º 3-B/2000, de 4 de Abril, ficou o Governo autorizado a legislar no sentido da criação, no âmbito do sistema de solidariedade e segurança social, de secções de processos competentes para a execução de dívidas à segurança social, competindo-lhe igualmente, e em simultâneo, adequar a organização e competência dos tribunais administrativos e fiscais àquela nova realidade.\n\nNo seguimento da aprovação de uma nova Lei de Bases da Solidariedade e Segurança Social, e no momento em que o processo de reforma institucional deste sistema se encontra já numa fase final de implementação, importa dar mais um passo decisivo no sentido do reforço da eficácia operacional do aparelho administrativo da segurança social através da concretização da autorização legislativa acima mencionada.\n\nMediante a criação de secções de execução autónomas, devidamente integradas no sistema, confere-se maior celeridade ao processo de cobrança coerciva na medida em que se agilizam os mecanismos e procedimentos tendentes à sua efectivação.\n\nOs objectivos a prosseguir pelas secções de processos não põem em causa a experiência entretanto adquirida e, nesta 1.ª fase, o quadro legislativo de fundo deverá manter-se o existente para o procedimento e o processo tributários.\n\nReafirma-se este princípio em várias disposições do presente diploma, que mais não pretendem que aplicar o disposto no Código de Procedimento e de Processo Tributário ao sistema de solidariedade e segurança social.\n\nDesse modo se dará continuidade ao trabalho já realizado, deixando para mais tarde e depois de algum tempo de prática a alteração do quadro legislativo em vigor.\n\nDa mesma forma se estabelece o regime jurídico especial que consagra a autonomia da execução das contribuições e das dívidas à segurança social, sem prejuízo quer da possível coligação da segurança social com a Fazenda Pública como exequentes, quer da apensação dos respectivos processos de execução. Fica já traçado o regime jurídico especial do processo de execução das dívidas à segurança social.\n\nÀs delegações do Instituto de Gestão Financeira da Segurança Social, enquanto órgãos próprios do sistema, é atribuída a competência para a instauração e instrução dos processos de execução de dívidas ao sistema de solidariedade e segurança social.\n\nEste novo processo de execução entronca com o processo judicial de execução fiscal já instituído. Daí que a autorização legislativa preveja também a adequação da organização e da competência dos tribunais administrativos e tributários para o caso de se entender que aquelas são alteradas.\n\nCom o presente diploma visam-se dois objectivos primaciais: por um lado, aproveitar a experiência e as sinergias que a prática com a administração fiscal sempre proporciona e, por outro, ganhar autonomia que facilite uma maior celeridade e eficiência na cobrança das dívidas à segurança social e, desse modo, combater a evasão e a fraude contributivas.\n\nAssim, no uso da autorização legislativa concedida pelas alíneas a) e b) do artigo 38.º da Lei n.º 3-B/2000, de 4 de Abril, nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "70073572": {
+   "fragment_id": "70073609",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma cria as secções de processo executivo do sistema de solidariedade e segurança social, define as regras especiais daquele processo e adequa a organização e a competência dos tribunais administrativos e tributários."
+  },
+  "70073573": {
+   "fragment_id": "70073610",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente diploma aplica-se ao processo de execução de dívidas à segurança social.\n\n2 - Para efeitos do presente diploma, consideram-se dívidas à segurança social todas as dívidas contraídas perante as instituições do sistema de solidariedade e segurança social pelas pessoas singulares e colectivas e outras entidades a estas legalmente equiparadas, designadamente as relativas a contribuições sociais, taxas, incluindo os adicionais, juros, reembolsos, reposições e restituições de prestações, subsídios e financiamentos de qualquer natureza, coimas e outras sanções pecuniárias relativas a contra-ordenações, custas e outros encargos legais."
+  },
+  "70073574": {
+   "fragment_id": "70073611",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência para a instauração e instrução do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência para a instauração e instrução do processo\n\n1 - É competente para a instauração e instrução do processo de execução de dívidas à segurança social a delegação do Instituto de Gestão Financeira da Segurança Social do distrito da sede ou da área de residência do devedor.\n\n2 - Para efeitos do número anterior, as instituições de solidariedade e segurança social remetem as certidões de dívida à delegação do Instituto de Gestão Financeira da Segurança Social competente."
+  },
+  "70073675": {
+   "fragment_id": "70073612",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos de execução\n\nConsideram-se, para efeitos do presente diploma, órgãos de execução as secções de processos das delegações do Instituto de Gestão Financeira da Segurança Social."
+  },
+  "70073676": {
+   "fragment_id": "70073613",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência dos tribunais administrativos e tributários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência dos tribunais administrativos e tributários\n\n1 - Compete ao tribunal tributário de 1.ª instância da área onde corre a execução decidir os incidentes, os embargos, a oposição, incluindo quando incida sobre os pressupostos da responsabilidade subsidiária, a graduação e a verificação de créditos e as reclamações dos actos materialmente administrativos praticados pelos órgãos de execução.\n\n2 - Das decisões dos tribunais de 1.ª instância cabe recurso nos termos da lei."
+  },
+  "70073677": {
+   "fragment_id": "70073614",
+   "type": 11,
+   "heading": "Artigo 6.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Legislação aplicável\n\nAo processo de execução das dívidas à segurança social aplica-se, em tudo o que não estiver regulado no presente diploma, a legislação específica da segurança social, a Lei Geral Tributária e o Código de Procedimento e de Processo Tributário."
+  },
+  "70073678": {
+   "fragment_id": "70073615",
+   "type": 11,
+   "heading": "Artigo 7.º — Títulos executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Títulos executivos\n\n1 - São títulos executivos as certidões de dívida emitidas, nos termos legais, pelas instituições de solidariedade e segurança social.\n\n2 - As certidões referidas no número anterior devem indicar o órgão de execução ou a instituição que as tiverem extraído, com a assinatura devidamente autenticada, data em que foram passadas, nome e domicílio do devedor, proveniência da dívida e indicação, por extenso, do seu montante, da data a partir da qual são devidos juros de mora e da importância sobre que incidem, com discriminação dos valores retidos na fonte, se for o caso.\n\n3 - Carece de força executiva, devendo ser devolvido à entidade que o tiver extraído ou remetido, o título a que falte algum dos requisitos obrigatórios.\n\n4 - Ao título executivo deve ser junto o extracto da conta corrente, quando for caso disso."
+  },
+  "70073679": {
+   "fragment_id": "70073616",
+   "type": 11,
+   "heading": "Artigo 8.º — Personalidade e capacidade judiciárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Personalidade e capacidade judiciárias\n\nTêm personalidade e capacidade judiciárias para o processo de execução de dívidas à segurança social as instituições do sistema de solidariedade e segurança social, as pessoas singulares e colectivas e outras entidades a estas legalmente equiparadas."
+  },
+  "70073680": {
+   "fragment_id": "70073617",
+   "type": 11,
+   "heading": "Artigo 9.º — Legitimidade para reclamação de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Legitimidade para reclamação de créditos\n\nA legitimidade para reclamar os créditos da segurança social em processo executivo a correr nos tribunais comuns pertence ao Instituto de Gestão Financeira da Segurança Social, através das respectivas delegações."
+  },
+  "70073681": {
+   "fragment_id": "70073618",
+   "type": 11,
+   "heading": "Artigo 10.º — Coligação de exequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coligação de exequentes\n\n1 - As instituições do sistema de solidariedade e segurança social podem coligar-se, em processo de execução, às instituições do sistema fiscal.\n\n2 - A coligação é decidida pelos membros do Governo competentes, com faculdade de delegação.\n\n3 - O processo de execução é instaurado e instruído pelo maior credor."
+  },
+  "70073682": {
+   "fragment_id": "70073619",
+   "type": 11,
+   "heading": "Artigo 11.º — Apensação de execuções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apensação de execuções\n\nÉ permitida a apensação de execuções nos termos do disposto no artigo anterior."
+  },
+  "70073684": {
+   "fragment_id": "70073621",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento em prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pagamento em prestações\n\n1 - A competência para autorização de pagamento em prestações das dívidas em processo de execução é do Instituto de Gestão Financeira da Segurança Social.\n\n2 - Quando o valor da dívida exequenda for inferior a 500 unidades de conta, essa competência é da delegação do Instituto de Gestão Financeira da Segurança Social."
+  },
+  "70073683": {
+   "fragment_id": "70073620",
+   "type": 11,
+   "heading": "Artigo 12.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Patrocínio judiciário\n\nNos tribunais comuns e nos tributários, as instituições do sistema de solidariedade e segurança social são representadas por mandatário judicial, nomeado pela delegação competente do Instituto de Gestão Financeira da Segurança Social."
+  },
+  "70073685": {
+   "fragment_id": "70073622",
+   "type": 11,
+   "heading": "Artigo 14.º — Caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caução\n\nCaso não se encontre já constituída caução com o pedido de pagamento em prestações, nos termos do artigo anterior, deve o executado prestá-la através de garantia idónea, a qual consiste em fiança ou garantia bancária, seguro-caução ou qualquer outra que assegure os créditos do exequente."
+  },
+  "70073686": {
+   "fragment_id": "70073623",
+   "type": 11,
+   "heading": "Artigo 15.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sigilo\n\nNo caso de transmissão de bens imóveis, devidamente comprovada, o interessado pode ser informado da existência de privilégio creditório da segurança social."
+  },
+  "70073687": {
+   "fragment_id": "70073624",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo das execuções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo das execuções\n\nO registo dos processos de execução é efectuado através de verbetes informáticos e de acordo com os procedimentos a definir pelo Instituto de Gestão Financeira da Segurança Social."
+  },
+  "70073688": {
+   "fragment_id": "70073625",
+   "type": 11,
+   "heading": "Artigo 17.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Processos pendentes\n\nOs processos de execução fiscal por dívidas que a segurança social tenha participado aos órgãos do Ministério das Finanças antes da entrada em vigor do presente diploma continuam a correr por esses órgãos."
+  },
+  "70073689": {
+   "fragment_id": "70073626",
+   "type": 11,
+   "heading": "Artigo 18.º — Normas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Normas de execução\n\n1 - A legislação complementar ao estatuído no presente diploma consta de decreto-lei.\n\n2 - A definição dos procedimentos que se revelem necessários à aplicação do presente diploma é aprovada por despacho do membro do Governo competente na matéria."
+  },
+  "70073690": {
+   "fragment_id": "70073627",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 180 dias depois do dia seguinte ao da sua publicação."
+  },
+  "70033962": {
+   "fragment_id": "70073611",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência para a instauração e instrução do processo",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 3.º — Competência para a instauração e instrução do processo\n\n1 - É competente para a instauração e instrução do processo de execução de dívidas à segurança social a delegação do Instituto de Gestão Financeira da Segurança Social do distrito da sede ou da área de residência do devedor.\n\n2 - Para efeitos do número anterior, as instituições de solidariedade e segurança social remetem as certidões de dívida à delegação do Instituto de Gestão Financeira da Segurança Social competente.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "70033963": {
+   "fragment_id": "70073612",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos de execução",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos de execução\n\nConsideram-se, para efeitos do presente diploma, órgãos de execução as secções de processos das delegações do Instituto de Gestão Financeira da Segurança Social.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "70033964": {
+   "fragment_id": "70073617",
+   "type": 11,
+   "heading": "Artigo 9.º — Legitimidade para reclamação de créditos",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 9.º — Legitimidade para reclamação de créditos\n\nA legitimidade para reclamar os créditos da segurança social em processo executivo a correr nos tribunais comuns pertence ao Instituto de Gestão Financeira da Segurança Social, através das respectivas delegações.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "70078190": {
+   "fragment_id": "70073621",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento em prestações",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 13.º — Pagamento em prestações\n\n1 - Os pedidos de pagamentos em prestações são dirigidos ao coordenador da secção de processo executivo do Instituto de Gestão Financeira da Segurança da Social, I. P., onde corra o processo.\n\n2 - O pagamento em prestações apresentado, por sujeitos singulares, no prazo da oposição, pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações exceder 36.\n\n3 - O número de prestações referido no número anterior pode ser alargado até 60 se a dívida exequenda exceder 50 unidades de conta no momento da autorização.\n\n4 - O número de prestações mensais previstas no n.º 2 pode ser alargado até 96 desde que cumulativamente se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 500 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea;\n\nc) Se demonstre notória dificuldade financeira e previsíveis consequências económicas.\n\n> Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "70078181": {
+   "fragment_id": "70064752",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Pagamentos por conta",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 13.º-A — Pagamentos por conta\n\nSem prejuízo do andamento do processo, podem os executados efectuar pagamentos de qualquer montante por conta do débito, solicitando para o efeito, junto das entidades competentes, o documento único de cobrança.\n\n> Aditado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "70078182": {
+   "fragment_id": "70073622",
+   "type": 11,
+   "heading": "Artigo 14.º — Caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caução\n\nCaso não se encontre já constituída caução com o pedido de pagamento em prestações, nos termos do artigo anterior, deve o executado prestá-la através de garantia idónea, a qual consiste em fiança ou garantia bancária, seguro-caução ou qualquer outra que assegure os créditos do exequente."
+  },
+  "70078183": {
+   "fragment_id": "70073623",
+   "type": 11,
+   "heading": "Artigo 15.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sigilo\n\nNo caso de transmissão de bens imóveis, devidamente comprovada, o interessado pode ser informado da existência de privilégio creditório da segurança social."
+  },
+  "70078184": {
+   "fragment_id": "70073624",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo das execuções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo das execuções\n\nO registo dos processos de execução é efectuado através de verbetes informáticos e de acordo com os procedimentos a definir pelo Instituto de Gestão Financeira da Segurança Social."
+  },
+  "70078185": {
+   "fragment_id": "70073625",
+   "type": 11,
+   "heading": "Artigo 17.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Processos pendentes\n\nOs processos de execução fiscal por dívidas que a segurança social tenha participado aos órgãos do Ministério das Finanças antes da entrada em vigor do presente diploma continuam a correr por esses órgãos."
+  },
+  "70078186": {
+   "fragment_id": "70073626",
+   "type": 11,
+   "heading": "Artigo 18.º — Normas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Normas de execução\n\n1 - A legislação complementar ao estatuído no presente diploma consta de decreto-lei.\n\n2 - A definição dos procedimentos que se revelem necessários à aplicação do presente diploma é aprovada por despacho do membro do Governo competente na matéria."
+  },
+  "70078187": {
+   "fragment_id": "70073627",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 180 dias depois do dia seguinte ao da sua publicação."
+  },
+  "70078188": {
+   "fragment_id": "70064695",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa.\n\nPromulgado em 26 de Janeiro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Fevereiro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "70078194": {
+   "fragment_id": "70073621",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento em prestações",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 13.º — Pagamento em prestações\n\n1 - Os pedidos de pagamentos em prestações são dirigidos ao coordenador da secção de processo executivo do Instituto de Gestão Financeira da Segurança da Social, I. P., onde corra o processo.\n\n2 - O pagamento em prestações pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações exceder 36.\n\n3 - O número de prestações referido no número anterior pode ser alargado até 60 se a dívida exequenda exceder 50 unidades de conta no momento da autorização.\n\n4 - O número de prestações mensais previstas no n.º 2 pode ser alargado até 120 desde que cumulativamente se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 500 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea;\n\nc) Se demonstre notória dificuldade financeira e previsíveis consequências económicas.\n\n> Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "70078199": {
+   "fragment_id": "70073621",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento em prestações",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 13.º — Pagamento em prestações\n\n1 - Os pedidos de pagamentos em prestações são dirigidos ao coordenador da secção de processo executivo do Instituto de Gestão Financeira da Segurança da Social, I. P., onde corra o processo.\n\n2 - O pagamento em prestações pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações exceder 36.\n\n3 - O número de prestações referido no número anterior pode ser alargado até 60 se a dívida exequenda exceder 50 unidades de conta no momento da autorização ou, independentemente do valor da dívida exequenda, no caso de pessoas singulares que não se encontrem em processo de reversão.\n\n4 - O número de prestações previstas no n.º 2 pode ser alargado até 120 desde que, cumulativamente, se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 500 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea;\n\nc) Se demonstre notória dificuldade financeira e previsíveis consequências económicas.\n\n5 - Para pessoas singulares que não se encontrem em processo de reversão o número de prestações previstas no n.º 2 pode ser alargado até 120 desde que, cumulativamente, se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 50 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea ou requeira a sua isenção e a mesma seja concedida.\n\n6 - Para efeitos do disposto nos números anteriores, a fixação do número de prestações a autorizar não está condicionada a um limite mínimo de pagamento.\n\n> Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "70078200": {
+   "fragment_id": "70064753",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Caixa postal eletrónica",
+   "in_force_from": "2012-05-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 17.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15"
+   ],
+   "markdown": "###### Artigo 6.º-A — Caixa postal eletrónica\n\n1 - Os executados em processos de execução fiscal por dívidas à segurança social são obrigados a possuir uma caixa postal eletrónica.\n\n2 - Para efeitos deste artigo são considerados executados sujeitos a esta obrigação acessória as entidades empregadoras e os trabalhadores independentes.\n\n3 - O regime da obrigação prevista no presente artigo é regulamentado em diploma próprio.\n\n> Aditado pelo/a Artigo 17.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15"
+  },
+  "70078201": {
+   "fragment_id": "70073615",
+   "type": 11,
+   "heading": "Artigo 7.º — Títulos executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Títulos executivos\n\n1 - São títulos executivos as certidões de dívida emitidas, nos termos legais, pelas instituições de solidariedade e segurança social.\n\n2 - As certidões referidas no número anterior devem indicar o órgão de execução ou a instituição que as tiverem extraído, com a assinatura devidamente autenticada, data em que foram passadas, nome e domicílio do devedor, proveniência da dívida e indicação, por extenso, do seu montante, da data a partir da qual são devidos juros de mora e da importância sobre que incidem, com discriminação dos valores retidos na fonte, se for o caso.\n\n3 - Carece de força executiva, devendo ser devolvido à entidade que o tiver extraído ou remetido, o título a que falte algum dos requisitos obrigatórios.\n\n4 - Ao título executivo deve ser junto o extracto da conta corrente, quando for caso disso."
+  },
+  "70078202": {
+   "fragment_id": "70073616",
+   "type": 11,
+   "heading": "Artigo 8.º — Personalidade e capacidade judiciárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Personalidade e capacidade judiciárias\n\nTêm personalidade e capacidade judiciárias para o processo de execução de dívidas à segurança social as instituições do sistema de solidariedade e segurança social, as pessoas singulares e colectivas e outras entidades a estas legalmente equiparadas."
+  },
+  "70078203": {
+   "fragment_id": "70073617",
+   "type": 11,
+   "heading": "Artigo 9.º — Legitimidade para reclamação de créditos",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 9.º — Legitimidade para reclamação de créditos\n\nA legitimidade para reclamar os créditos da segurança social em processo executivo a correr nos tribunais comuns pertence ao Instituto de Gestão Financeira da Segurança Social, através das respectivas delegações.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "70078204": {
+   "fragment_id": "70073618",
+   "type": 11,
+   "heading": "Artigo 10.º — Coligação de exequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coligação de exequentes\n\n1 - As instituições do sistema de solidariedade e segurança social podem coligar-se, em processo de execução, às instituições do sistema fiscal.\n\n2 - A coligação é decidida pelos membros do Governo competentes, com faculdade de delegação.\n\n3 - O processo de execução é instaurado e instruído pelo maior credor."
+  },
+  "70078205": {
+   "fragment_id": "70073619",
+   "type": 11,
+   "heading": "Artigo 11.º — Apensação de execuções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apensação de execuções\n\nÉ permitida a apensação de execuções nos termos do disposto no artigo anterior."
+  },
+  "70078206": {
+   "fragment_id": "70073620",
+   "type": 11,
+   "heading": "Artigo 12.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Patrocínio judiciário\n\nNos tribunais comuns e nos tributários, as instituições do sistema de solidariedade e segurança social são representadas por mandatário judicial, nomeado pela delegação competente do Instituto de Gestão Financeira da Segurança Social."
+  },
+  "70078207": {
+   "fragment_id": "70073621",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento em prestações",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 13.º — Pagamento em prestações\n\n1 - Os pedidos de pagamentos em prestações são dirigidos ao coordenador da secção de processo executivo do Instituto de Gestão Financeira da Segurança da Social, I. P., onde corra o processo.\n\n2 - O pagamento em prestações pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações exceder 36.\n\n3 - O número de prestações referido no número anterior pode ser alargado até 60 se a dívida exequenda exceder 50 unidades de conta no momento da autorização ou, independentemente do valor da dívida exequenda, no caso de pessoas singulares que não se encontrem em processo de reversão.\n\n4 - O número de prestações previstas no n.º 2 pode ser alargado até 120 desde que, cumulativamente, se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 500 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea;\n\nc) Se demonstre notória dificuldade financeira e previsíveis consequências económicas.\n\n5 - Para pessoas singulares que não se encontrem em processo de reversão o número de prestações previstas no n.º 2 pode ser alargado até 120 desde que, cumulativamente, se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 50 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea ou requeira a sua isenção e a mesma seja concedida.\n\n6 - Para efeitos do disposto nos números anteriores, a fixação do número de prestações a autorizar não está condicionada a um limite mínimo de pagamento.\n\n> Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "70078208": {
+   "fragment_id": "70064752",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Pagamentos por conta",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 13.º-A — Pagamentos por conta\n\nSem prejuízo do andamento do processo, podem os executados efectuar pagamentos de qualquer montante por conta do débito, solicitando para o efeito, junto das entidades competentes, o documento único de cobrança.\n\n> Aditado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "70078209": {
+   "fragment_id": "70073622",
+   "type": 11,
+   "heading": "Artigo 14.º — Caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caução\n\nCaso não se encontre já constituída caução com o pedido de pagamento em prestações, nos termos do artigo anterior, deve o executado prestá-la através de garantia idónea, a qual consiste em fiança ou garantia bancária, seguro-caução ou qualquer outra que assegure os créditos do exequente."
+  },
+  "70078210": {
+   "fragment_id": "70073623",
+   "type": 11,
+   "heading": "Artigo 15.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sigilo\n\nNo caso de transmissão de bens imóveis, devidamente comprovada, o interessado pode ser informado da existência de privilégio creditório da segurança social."
+  },
+  "70078211": {
+   "fragment_id": "70073624",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo das execuções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo das execuções\n\nO registo dos processos de execução é efectuado através de verbetes informáticos e de acordo com os procedimentos a definir pelo Instituto de Gestão Financeira da Segurança Social."
+  },
+  "70078212": {
+   "fragment_id": "70073625",
+   "type": 11,
+   "heading": "Artigo 17.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Processos pendentes\n\nOs processos de execução fiscal por dívidas que a segurança social tenha participado aos órgãos do Ministério das Finanças antes da entrada em vigor do presente diploma continuam a correr por esses órgãos."
+  },
+  "70078213": {
+   "fragment_id": "70073626",
+   "type": 11,
+   "heading": "Artigo 18.º — Normas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Normas de execução\n\n1 - A legislação complementar ao estatuído no presente diploma consta de decreto-lei.\n\n2 - A definição dos procedimentos que se revelem necessários à aplicação do presente diploma é aprovada por despacho do membro do Governo competente na matéria."
+  },
+  "70078214": {
+   "fragment_id": "70073627",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 180 dias depois do dia seguinte ao da sua publicação."
+  },
+  "70078215": {
+   "fragment_id": "70064695",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa.\n\nPromulgado em 26 de Janeiro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Fevereiro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "70078216": {
+   "fragment_id": "70073610",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2012-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente diploma aplica-se ao processo de execução de dívidas à segurança social.\n\n2 - Para efeitos do presente diploma, consideram-se dívidas à segurança social todos os montantes devidos às instituições do sistema de segurança social ou pagos indevidamente por estas a pessoas singulares, coletivas ou outras entidades a estas legalmente equiparadas, designadamente:\n\na) Contribuições, quotizações, taxas, incluindo as adicionais e juros;\n\nb) Prestações, subsídios e financiamentos de qualquer natureza, incluindo juros;\n\nc) Coimas e outras sanções pecuniárias, custas e outros encargos legais;\n\nd) Reposições de pagamentos indevidos efetuados por qualquer instituição do sistema de segurança social.\n\n3 - O processo de execução de dívidas à segurança social aplica-se ainda às situações de incumprimento relativas a dívidas, reembolsos, reposições e restituições de prestações de qualquer natureza pagas pelo Fundo de Garantia de Alimentos Devidos a Menores, pelo Fundo de Garantia Salarial e pelo Fundo de Socorro Social.\n\n> Alterado pelo/a Artigo 18.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21"
+  },
+  "70078250": {
+   "fragment_id": "70073610",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2014-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), em vigor a partir de 2014-04-29",
+    "Alterado pelo/a Artigo 18.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente diploma aplica-se ao processo de execução de dívidas à segurança social.\n\n2 - Para efeitos do presente diploma, consideram-se dívidas à segurança social todos os montantes devidos às instituições do sistema de segurança social ou pagos indevidamente por estas a pessoas singulares, coletivas ou outras entidades a estas legalmente equiparadas, designadamente:\n\na) Contribuições, quotizações, taxas, incluindo as adicionais e juros;\n\nb) Prestações, subsídios e financiamentos de qualquer natureza, incluindo juros;\n\nc) Coimas e outras sanções pecuniárias, custas e outros encargos legais;\n\nd) Reposições de pagamentos indevidos efetuados por qualquer instituição do sistema de segurança social.\n\n3 - O processo de execução de dívidas à segurança social aplica-se igualmente às situações de incumprimento relativas à obrigação de reposição de prestações de qualquer natureza pagas por fundos cujo funcionamento ou gestão, estratégica ou operacional, tenham sido legalmente entregues a instituições do sistema de segurança social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), em vigor a partir de 2014-04-29\n\n> Alterado pelo/a Artigo 18.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21"
+  },
+  "134392659": {
+   "fragment_id": "70073612",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos de execução",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos de execução\n\nConsideram-se, para efeitos do presente diploma, órgãos de execução as secções de processos das delegações do Instituto de Gestão Financeira da Segurança Social.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "134392658": {
+   "fragment_id": "134392691",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Competência para a instauração e instrução do processo",
+   "in_force_from": "2014-04-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), em vigor a partir de 2014-04-29"
+   ],
+   "markdown": "###### Artigo 3.º-A — Competência para a instauração e instrução do processo\n\nCompete ao Instituto de Gestão Financeira da Segurança Social, I.P. (IGFSS, I.P.), a instauração e instrução do processo de execução de dívidas à segurança social.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), em vigor a partir de 2014-04-29"
+  },
+  "134392660": {
+   "fragment_id": "70073613",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência dos tribunais administrativos e tributários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência dos tribunais administrativos e tributários\n\n1 - Compete ao tribunal tributário de 1.ª instância da área onde corre a execução decidir os incidentes, os embargos, a oposição, incluindo quando incida sobre os pressupostos da responsabilidade subsidiária, a graduação e a verificação de créditos e as reclamações dos actos materialmente administrativos praticados pelos órgãos de execução.\n\n2 - Das decisões dos tribunais de 1.ª instância cabe recurso nos termos da lei."
+  },
+  "134392661": {
+   "fragment_id": "70073614",
+   "type": 11,
+   "heading": "Artigo 6.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Legislação aplicável\n\nAo processo de execução das dívidas à segurança social aplica-se, em tudo o que não estiver regulado no presente diploma, a legislação específica da segurança social, a Lei Geral Tributária e o Código de Procedimento e de Processo Tributário."
+  },
+  "134392662": {
+   "fragment_id": "70064753",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Caixa postal eletrónica",
+   "in_force_from": "2014-04-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 17.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15"
+   ],
+   "markdown": "###### Artigo 6.º-A — Caixa postal eletrónica\n\n1 - Os executados em processos de execução fiscal por dívidas à segurança social são obrigados a possuir uma caixa postal eletrónica, em termos idênticos aos previstos no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro.\n\n2 - A obrigação acessória prevista no número anterior impende sobre:\n\na) As entidades empregadoras, com exceção das pessoas singulares sem atividade empresarial;\n\nb) As entidades contratantes;\n\nc) Os trabalhadores independentes que se encontrem sujeitos ao cumprimento da obrigação contributiva, quando a base de incidência fixada seja igual ou superior ao 3.º escalão.\n\n3 - O regime da obrigação prevista no presente artigo é regulamentado em diploma próprio.\n\n> Aditado pelo/a Artigo 17.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15"
+  },
+  "134392663": {
+   "fragment_id": "70073615",
+   "type": 11,
+   "heading": "Artigo 7.º — Títulos executivos",
+   "in_force_from": "2014-04-29",
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Títulos executivos\n\n1 - São títulos executivos as certidões de dívida emitidas, nos termos legais, pelas instituições de segurança social e pelos fundos geridos pelas mesmas.\n\n2 - As certidões referidas no número anterior devem indicar o órgão de execução ou a instituição que as tiverem extraído, com a assinatura devidamente autenticada, data em que foram passadas, nome e domicílio do devedor, proveniência da dívida e indicação, por extenso, do seu montante, da data a partir da qual são devidos juros de mora e da importância sobre que incidem, com discriminação dos valores retidos na fonte, se for o caso.\n\n3 - Carece de força executiva, devendo ser devolvido à entidade que o tiver extraído ou remetido, o título a que falte algum dos requisitos obrigatórios.\n\n4 - Ao título executivo deve ser junto o extracto da conta corrente, quando for caso disso."
+  },
+  "134392664": {
+   "fragment_id": "70073616",
+   "type": 11,
+   "heading": "Artigo 8.º — Personalidade e capacidade judiciárias",
+   "in_force_from": "2014-04-29",
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Personalidade e capacidade judiciárias\n\nTêm personalidade e capacidade judiciárias para o processo de execução de dívidas à segurança social, as instituições do sistema de segurança social, os fundos geridos pelas mesmas, as pessoas singulares e coletivas e outras entidades a estas legalmente equiparadas."
+  },
+  "134392665": {
+   "fragment_id": "70073617",
+   "type": 11,
+   "heading": "Artigo 9.º — Legitimidade para reclamação de créditos",
+   "in_force_from": "2015-05-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 9.º — Legitimidade para reclamação de créditos\n\nA legitimidade para reclamar os créditos da segurança social em processo executivo a correr nos tribunais comuns pertence ao Instituto de Gestão Financeira da Segurança Social, através das respectivas delegações.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "134392666": {
+   "fragment_id": "70073618",
+   "type": 11,
+   "heading": "Artigo 10.º — Coligação de exequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coligação de exequentes\n\n1 - As instituições do sistema de solidariedade e segurança social podem coligar-se, em processo de execução, às instituições do sistema fiscal.\n\n2 - A coligação é decidida pelos membros do Governo competentes, com faculdade de delegação.\n\n3 - O processo de execução é instaurado e instruído pelo maior credor."
+  },
+  "134392667": {
+   "fragment_id": "70073619",
+   "type": 11,
+   "heading": "Artigo 11.º — Apensação de execuções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apensação de execuções\n\nÉ permitida a apensação de execuções nos termos do disposto no artigo anterior."
+  },
+  "134392668": {
+   "fragment_id": "70073620",
+   "type": 11,
+   "heading": "Artigo 12.º — Patrocínio judiciário",
+   "in_force_from": "2014-04-29",
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Patrocínio judiciário\n\nNos tribunais comuns e nos tributários, as instituições do sistema de segurança social são representadas por mandatário judicial nomeado pelo IGFSS, I.P."
+  },
+  "134392669": {
+   "fragment_id": "70073621",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento em prestações",
+   "in_force_from": "2014-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 13.º — Pagamento em prestações\n\n1 - Os pedidos de pagamentos em prestações são dirigidos ao coordenador da secção de processo executivo do Instituto de Gestão Financeira da Segurança da Social, I. P., onde corra o processo.\n\n2 - O pagamento em prestações pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações exceder 36.\n\n3 - O número de prestações referido no número anterior pode ser alargado até 60, se a dívida exequenda exceder 50 unidades de conta no momento da autorização ou, independentemente do valor da dívida exequenda, no caso de pessoas singulares.\n\n4 - O número de prestações previstas no n.º 2 pode ser alargado até 120 desde que, cumulativamente, se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 500 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea ou requeira a sua isenção e a mesma seja concedida;\n\nc) Se demonstre notória dificuldade financeira e previsíveis consequências económicas.\n\n5 - Para as pessoas singulares, o número de prestações previstas no n.º 2 pode ser alargado até 150, desde que, cumulativamente, se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 50 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea ou requeira a sua isenção e a mesma seja concedida.\n\n6 - Para efeitos do disposto nos números anteriores, a fixação do número de prestações a autorizar não está condicionada a um limite mínimo de pagamento.\n\n> Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "134392670": {
+   "fragment_id": "70064752",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Pagamentos por conta",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 13.º-A — Pagamentos por conta\n\nSem prejuízo do andamento do processo, podem os executados efectuar pagamentos de qualquer montante por conta do débito, solicitando para o efeito, junto das entidades competentes, o documento único de cobrança.\n\n> Aditado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01"
+  },
+  "134392671": {
+   "fragment_id": "70073622",
+   "type": 11,
+   "heading": "Artigo 14.º — Caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caução\n\nCaso não se encontre já constituída caução com o pedido de pagamento em prestações, nos termos do artigo anterior, deve o executado prestá-la através de garantia idónea, a qual consiste em fiança ou garantia bancária, seguro-caução ou qualquer outra que assegure os créditos do exequente."
+  },
+  "134392672": {
+   "fragment_id": "70073623",
+   "type": 11,
+   "heading": "Artigo 15.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sigilo\n\nNo caso de transmissão de bens imóveis, devidamente comprovada, o interessado pode ser informado da existência de privilégio creditório da segurança social."
+  },
+  "134392673": {
+   "fragment_id": "70073624",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo das execuções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo das execuções\n\nO registo dos processos de execução é efectuado através de verbetes informáticos e de acordo com os procedimentos a definir pelo Instituto de Gestão Financeira da Segurança Social."
+  },
+  "134392674": {
+   "fragment_id": "70073625",
+   "type": 11,
+   "heading": "Artigo 17.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Processos pendentes\n\nOs processos de execução fiscal por dívidas que a segurança social tenha participado aos órgãos do Ministério das Finanças antes da entrada em vigor do presente diploma continuam a correr por esses órgãos."
+  },
+  "134392775": {
+   "fragment_id": "70073626",
+   "type": 11,
+   "heading": "Artigo 18.º — Normas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Normas de execução\n\n1 - A legislação complementar ao estatuído no presente diploma consta de decreto-lei.\n\n2 - A definição dos procedimentos que se revelem necessários à aplicação do presente diploma é aprovada por despacho do membro do Governo competente na matéria."
+  },
+  "134392776": {
+   "fragment_id": "70073627",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 180 dias depois do dia seguinte ao da sua publicação."
+  },
+  "134392777": {
+   "fragment_id": "70064695",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa.\n\nPromulgado em 26 de Janeiro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Fevereiro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "70078263": {
+   "fragment_id": "70073621",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento em prestações",
+   "in_force_from": "2015-07-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2015-69736209), em vigor a partir de 2015-07-08",
+    "Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 13.º — Pagamento em prestações\n\n1 - Os pedidos de pagamentos em prestações são dirigidos ao coordenador da secção de processo executivo do Instituto de Gestão Financeira da Segurança da Social, I. P., onde corra o processo.\n\n2 - O pagamento em prestações pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações exceder 36.\n\n3 - O número de prestações referido no número anterior pode ser alargado até 60, se a dívida exequenda exceder 50 unidades de conta no momento da autorização ou, independentemente do valor da dívida exequenda, no caso de pessoas singulares.\n\n4 - O número de prestações previstas no n.º 2 pode ser alargado até 150 desde que, cumulativamente, se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 500 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea ou requeira a sua isenção e a mesma seja concedida;\n\nc) Se demonstre notória dificuldade financeira e previsíveis consequências económicas.\n\n5 - Para as pessoas singulares, o número de prestações previstas no n.º 2 pode ser alargado até 150, desde que, cumulativamente, se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 50 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea ou requeira a sua isenção e a mesma seja concedida.\n\n6 - Para efeitos do disposto nos números anteriores, a fixação do número de prestações a autorizar não está condicionada a um limite mínimo de pagamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2015-69736209), em vigor a partir de 2015-07-08\n\n> Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "106968233": {
+   "fragment_id": "70073621",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento em prestações",
+   "in_force_from": "2016-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35-C/2016 - Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-c-2016-74843539), em vigor a partir de 2016-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2015-69736209), em vigor a partir de 2015-07-08",
+    "Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 13.º — Pagamento em prestações\n\n1 - Os pedidos de pagamentos em prestações são dirigidos ao coordenador da secção de processo executivo do Instituto de Gestão Financeira da Segurança da Social, I. P., onde corra o processo.\n\n2 - O pagamento em prestações pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações exceder 36.\n\n3 - O número de prestações referido no número anterior pode ser alargado até 60, se a dívida exequenda exceder 30 unidades de conta no momento da autorização ou, independentemente do valor da dívida exequenda, no caso de pessoas singulares.\n\n4 - O número de prestações previstas no n.º 2 pode ser alargado até 150 desde que, cumulativamente, se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 150 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea ou requeira a sua isenção e a mesma seja concedida;\n\nc) Se demonstre notória dificuldade financeira e previsíveis consequências económicas.\n\n5 - Para as pessoas singulares, o número de prestações previstas no n.º 2 pode ser alargado até 150, desde que, cumulativamente, se verifiquem as seguintes condições:\n\na) A dívida exequenda exceda 30 unidades de conta no momento da autorização;\n\nb) O executado preste garantia idónea ou requeira a sua isenção e a mesma seja concedida.\n\n6 - Para efeitos do disposto nos números anteriores, a fixação do número de prestações a autorizar não está condicionada a um limite mínimo de pagamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35-C/2016 - Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-c-2016-74843539), em vigor a partir de 2016-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2015-69736209), em vigor a partir de 2015-07-08\n\n> Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "107797738": {
+   "fragment_id": "70064753",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Notificações eletrónicas",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 93/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), em vigor a partir de 2017-07-01",
+    "Aditado pelo/a Artigo 17.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15"
+   ],
+   "markdown": "###### Artigo 6.º-A — Notificações eletrónicas\n\n1 - Os executados em processos de execução fiscal por dívidas à segurança social são obrigados a aderir ao sistema de notificações eletrónicas da Segurança Social, quando não adiram ao serviço público de notificações eletrónicas, associado à morada única digital.\n\n2 - A obrigação acessória prevista no número anterior impende sobre:\n\na) As entidades empregadoras, com exceção das pessoas singulares sem atividade empresarial;\n\nb) As entidades contratantes;\n\nc) Os trabalhadores independentes que se encontrem sujeitos ao cumprimento da obrigação contributiva.\n\n3 - O regime das notificações e citações efetuadas através da plataforma informática disponibilizada pelo sítio eletrónico da Segurança Social, previsto no presente artigo, é regulamentado em diploma próprio.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 93/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), em vigor a partir de 2017-07-01\n\n> Aditado pelo/a Artigo 17.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15"
+  },
+  "114459756": {
+   "fragment_id": "114466475",
+   "type": 11,
+   "heading": "Artigo 13.º-B — Dispensa de garantia",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 307.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 13.º-B — Dispensa de garantia\n\nÉ dispensada a prestação de garantia quando, à data do pedido, o valor em dívida no processo executivo no qual é formulado o pedido de pagamento em prestações for inferior a (euro) 5 000 para pessoas singulares, ou (euro) 10 000 para pessoas coletivas.\n\n> Aditado pelo/a Artigo 307.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "114459757": {
+   "fragment_id": "70073622",
+   "type": 11,
+   "heading": "Artigo 14.º — Caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caução\n\nCaso não se encontre já constituída caução com o pedido de pagamento em prestações, nos termos do artigo anterior, deve o executado prestá-la através de garantia idónea, a qual consiste em fiança ou garantia bancária, seguro-caução ou qualquer outra que assegure os créditos do exequente."
+  },
+  "114459758": {
+   "fragment_id": "70073623",
+   "type": 11,
+   "heading": "Artigo 15.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sigilo\n\nNo caso de transmissão de bens imóveis, devidamente comprovada, o interessado pode ser informado da existência de privilégio creditório da segurança social."
+  },
+  "114459759": {
+   "fragment_id": "70073624",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo das execuções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo das execuções\n\nO registo dos processos de execução é efectuado através de verbetes informáticos e de acordo com os procedimentos a definir pelo Instituto de Gestão Financeira da Segurança Social."
+  },
+  "114459760": {
+   "fragment_id": "70073625",
+   "type": 11,
+   "heading": "Artigo 17.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Processos pendentes\n\nOs processos de execução fiscal por dívidas que a segurança social tenha participado aos órgãos do Ministério das Finanças antes da entrada em vigor do presente diploma continuam a correr por esses órgãos."
+  },
+  "114459761": {
+   "fragment_id": "70073626",
+   "type": 11,
+   "heading": "Artigo 18.º — Normas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Normas de execução\n\n1 - A legislação complementar ao estatuído no presente diploma consta de decreto-lei.\n\n2 - A definição dos procedimentos que se revelem necessários à aplicação do presente diploma é aprovada por despacho do membro do Governo competente na matéria."
+  },
+  "114459762": {
+   "fragment_id": "70073627",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 180 dias depois do dia seguinte ao da sua publicação."
+  },
+  "114459763": {
+   "fragment_id": "70064695",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa.\n\nPromulgado em 26 de Janeiro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Fevereiro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "131058402": {
+   "fragment_id": "70073622",
+   "type": 11,
+   "heading": "Artigo 14.º — Garantias",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 167.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 14.º — Garantias\n\n1 - Caso não se encontre já constituída garantia com o pedido de pagamento em prestações, nos termos do artigo anterior, deve o executado prestá-la através de garantia bancária, hipoteca voluntária, penhor, caução, seguro-caução ou qualquer meio suscetível de assegurar os créditos do exequente.\n\n2 - A garantia é prestada pelo valor da dívida exequenda, juros de mora contados à data do pedido e custas na totalidade, acrescida de 25 % da soma daqueles valores, sem prejuízo do disposto no número seguinte.\n\n3 - O valor da garantia é o que consta da citação, nos casos em que seja apresentada nos 30 dias posteriores à mesma.\n\n> Alterado pelo/a Artigo 167.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "131058403": {
+   "fragment_id": "131068166",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Suspensão do processo de execução",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 195.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 14.º-A — Suspensão do processo de execução\n\nSem prejuízo das causas de suspensão previstas na lei aplicável, o processo de execução por dívidas à segurança social suspende-se nas situações em que a dívida esteja a ser regularizada através de compensação nos termos previstos no artigo 220.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n> Aditado pelo/a Artigo 195.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "131058404": {
+   "fragment_id": "70073623",
+   "type": 11,
+   "heading": "Artigo 15.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sigilo\n\nNo caso de transmissão de bens imóveis, devidamente comprovada, o interessado pode ser informado da existência de privilégio creditório da segurança social."
+  },
+  "131058405": {
+   "fragment_id": "70073624",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo das execuções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo das execuções\n\nO registo dos processos de execução é efectuado através de verbetes informáticos e de acordo com os procedimentos a definir pelo Instituto de Gestão Financeira da Segurança Social."
+  },
+  "131058406": {
+   "fragment_id": "70073625",
+   "type": 11,
+   "heading": "Artigo 17.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Processos pendentes\n\nOs processos de execução fiscal por dívidas que a segurança social tenha participado aos órgãos do Ministério das Finanças antes da entrada em vigor do presente diploma continuam a correr por esses órgãos."
+  },
+  "131058407": {
+   "fragment_id": "70073626",
+   "type": 11,
+   "heading": "Artigo 18.º — Normas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Normas de execução\n\n1 - A legislação complementar ao estatuído no presente diploma consta de decreto-lei.\n\n2 - A definição dos procedimentos que se revelem necessários à aplicação do presente diploma é aprovada por despacho do membro do Governo competente na matéria."
+  },
+  "131058408": {
+   "fragment_id": "70073627",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 180 dias depois do dia seguinte ao da sua publicação."
+  },
+  "131058409": {
+   "fragment_id": "70064695",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa.\n\nPromulgado em 26 de Janeiro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Fevereiro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "134392781": {
+   "fragment_id": "70073610",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 415.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), em vigor a partir de 2014-04-29",
+    "Alterado pelo/a Artigo 18.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente diploma aplica-se ao processo de execução de dívidas à segurança social.\n\n2 - Para efeitos do presente diploma, consideram-se dívidas à segurança social todos os montantes devidos às instituições do sistema de segurança social ou pagos indevidamente por estas a pessoas singulares, coletivas ou outras entidades a estas legalmente equiparadas, designadamente:\n\na) Contribuições, quotizações, taxas, incluindo as adicionais e juros;\n\nb) Prestações, subsídios e financiamentos de qualquer natureza, incluindo juros;\n\nc) Coimas e outras sanções pecuniárias, custas e outros encargos legais;\n\nd) Reposições de pagamentos indevidos efetuados por qualquer instituição do sistema de segurança social.\n\n3 - O processo de execução de dívidas à segurança social aplica-se igualmente às situações de incumprimento relativas à obrigação de reposição de prestações de qualquer natureza pagas por fundos cujo funcionamento ou gestão, estratégica ou operacional, tenham sido legalmente entregues a instituições do sistema de segurança social.\n\n4 - O processo de execução de dívidas à segurança social aplica-se igualmente a todos os montantes devidos à Caixa de Previdência dos Advogados e Solicitadores (CPAS), sendo que, para efeitos do presente diploma, a CPAS é equiparada a instituição da segurança social.\n\n> Alterado pelo/a Artigo 415.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 63/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), em vigor a partir de 2014-04-29\n\n> Alterado pelo/a Artigo 18.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21"
+  },
+  "134392782": {
+   "fragment_id": "134392691",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Competência para a instauração e instrução do processo",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 415.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), em vigor a partir de 2014-04-29"
+   ],
+   "markdown": "###### Artigo 3.º-A — Competência para a instauração e instrução do processo\n\n1 - Compete ao Instituto de Gestão Financeira da Segurança Social, I. P., a instauração e instrução do processo de execução de dívidas à segurança social através da secção de processo executivo do distrito da sede ou da área de residência.\n\n2 - As instituições da segurança social, e outras a estas legalmente equiparadas, remetem as certidões de dívida à secção de processo executivo do Instituto de Gestão Financeira da Segurança Social, I. P., competente, nos termos do número anterior.\n\n3 - A instauração e instrução do processo de execução por dívidas à segurança social pode ser praticada em secção de processo executivo diferente do distrito da sede ou da área de residência do devedor, nos termos de deliberação do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P., publicada no Diário da República.\n\n> Alterado pelo/a Artigo 415.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), em vigor a partir de 2014-04-29"
+  },
+  "134392778": {
+   "fragment_id": "134392692",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Execução de dívidas à Caixa de Previdência dos Advogados e Solicitadores",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 416.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 18.º-A — Execução de dívidas à Caixa de Previdência dos Advogados e Solicitadores\n\n1 - Para efeitos de participação da dívida relativa à CPAS são estabelecidos canais específicos de comunicação e interoperabilidade entre as instituições envolvidas.\n\n2 - Os termos e condições da comunicação e interoperabilidade, previstas no número anterior, são estabelecidos por protocolo a celebrar entre o IGFSS, I. P., e a CPAS.\n\n3 - O disposto no presente diploma é aplicável à execução da dívida já constituída e a constituir perante a CPAS.\n\n4 - A CPAS é responsável pelo ressarcimento ao IGFSS, I. P.:\n\na) Das custas processuais resultantes do processo de execução fiscal, em caso de anulação ou de não pagamento pelo devedor;\n\nb) Das custas judiciais a que o IGFSS, I. P., venha a ser condenado por decaimento em processos judiciais;\n\nc) Das indemnizações exigidas ao IGFSS, I. P., por garantias indevidamente prestadas.\n\n5 - A definição dos procedimentos que se revelem necessários à aplicação do presente artigo é aprovada por despacho do membro do Governo responsável pela área da segurança social.\n\n> Aditado pelo/a Artigo 416.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "134392779": {
+   "fragment_id": "70073627",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 180 dias depois do dia seguinte ao da sua publicação."
+  },
+  "134392780": {
+   "fragment_id": "70064695",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa.\n\nPromulgado em 26 de Janeiro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Fevereiro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "221053276": {
+   "fragment_id": "70073613",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência dos tribunais administrativos e tributários",
+   "in_force_from": "2023-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74-B/2023 - Diário da República n.º 166/2023, 1º Suplemento, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-b-2023-220956295), em vigor a partir de 2023-08-29"
+   ],
+   "markdown": "###### Artigo 5.º — Competência dos tribunais administrativos e tributários\n\n1 - Compete ao tribunal tributário de 1.ª instância da área do domicílio ou sede do devedor originário, depois de ouvido o Ministério Público, nos termos do Código de Procedimento e de Processo Tributário, decidir os incidentes, os embargos, a oposição, incluindo quando incida sobre os pressupostos da responsabilidade subsidiária, e a reclamação dos atos praticados pelos órgãos da execução fiscal.\n\n2 - Das decisões dos tribunais de 1.ª instância cabe recurso nos termos da lei.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74-B/2023 - Diário da República n.º 166/2023, 1º Suplemento, Série I de 2023-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-b-2023-220956295), em vigor a partir de 2023-08-29"
+  },
+  "836267985": {
+   "fragment_id": "131068166",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Suspensão do processo de execução",
+   "in_force_from": "2024-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01",
+    "Aditado pelo/a Artigo 195.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 14.º-A — Suspensão do processo de execução\n\n1 - Sem prejuízo das causas de suspensão previstas na lei aplicável, o processo de execução por dívidas à segurança social suspende-se nas situações em que a dívida esteja a ser regularizada através de compensação nos termos previstos no artigo 220.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n2 - Sem prejuízo da subsistência das garantias que tenham sido prestadas, o processo de execução por dívidas à segurança social suspende-se ainda nas situações em que, por força do plano prestacional, o rendimento disponível do executado, quando seja pessoa singular, seja inferior à retribuição mensal mínima garantida.\n\n3 - A suspensão do processo nos termos do número anterior determina a suspensão do prazo de prescrição.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01\n\n> Aditado pelo/a Artigo 195.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "1051401239": {
+   "fragment_id": "134392691",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Competência para a instauração e instrução do processo",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01",
+    "Alterado pelo/a Artigo 415.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), em vigor a partir de 2014-04-29"
+   ],
+   "markdown": "###### Artigo 3.º-A — Competência para a instauração e instrução do processo\n\n1 - Compete ao Instituto de Gestão Financeira da Segurança Social, I. P., a instauração e instrução do processo de execução de dívidas à segurança social através da secção de processo executivo do distrito da sede ou da área de residência.\n\n2 - As instituições da segurança social, bem como outras entidades legalmente equiparadas, submetem as certidões de dívidas às secções de processo executivo competente do Instituto de Gestão Financeira da Segurança Social, I. P., através do sistema de informação da segurança social, nos termos do número anterior.\n\n3 - A instauração e instrução do processo de execução por dívidas à segurança social pode ser praticada em secção de processo executivo diferente do distrito da sede ou da área de residência do devedor, nos termos de deliberação do conselho diretivo do Instituto de Gestão Financeira da Segurança Social, I. P., publicada no Diário da República.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01\n\n> Alterado pelo/a Artigo 415.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 63/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2014-25343726), em vigor a partir de 2014-04-29"
+  },
+  "1051401245": {
+   "fragment_id": "70064753",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Notificações eletrónicas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 93/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), em vigor a partir de 2017-07-01",
+    "Aditado pelo/a Artigo 17.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15"
+   ],
+   "markdown": "###### Artigo 6.º-A — Notificações eletrónicas\n\n1 - Os executados em processo de execução de dívidas à segurança social, bem como aqueles cujas dívidas se encontrem sujeitas a tal processo, são obrigados a aderir ao sistema de notificações eletrónicas da segurança social, quando não adiram ao serviço público de notificações eletrónicas, associado à morada única digital.\n\n2 - [Revogado.]\n\n3 - O regime das notificações e citações efetuadas através da plataforma informática disponibilizada pelo sítio eletrónico da Segurança Social, previsto no presente artigo, é regulamentado em diploma próprio.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 93/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), em vigor a partir de 2017-07-01\n\n> Aditado pelo/a Artigo 17.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15"
+  },
+  "1051401241": {
+   "fragment_id": "70073615",
+   "type": 11,
+   "heading": "Artigo 7.º — Títulos executivos",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Títulos executivos\n\n1 - São títulos executivos as certidões de dívida emitidas, nos termos legais, pelas instituições de segurança social, bem como pelas entidades cujas dívidas estejam sujeitas ao processo de execução de dívidas à segurança social.\n\n2 - [Revogado.]\n\n3 - [Revogado.]\n\n4 - [Revogado.]\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01"
+  },
+  "1051401242": {
+   "fragment_id": "70073621",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento em prestações",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35-C/2016 - Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-c-2016-74843539), em vigor a partir de 2016-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2015-69736209), em vigor a partir de 2015-07-08",
+    "Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29",
+    "Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+   ],
+   "markdown": "###### Artigo 13.º — Pagamento em prestações\n\n1 - Os pedidos de pagamentos em prestações são dirigidos ao coordenador da secção de processo executivo do Instituto de Gestão Financeira da Segurança da Social, I. P., onde corra o processo.\n\n2 - O pagamento em prestações pode ser autorizado desde que se verifique que o executado, pela sua situação económica, não pode solver a dívida de uma só vez, não devendo o número das prestações exceder 60, quando o executado for uma pessoa coletiva, e 80, quando for uma pessoa singular.\n\n3 - O valor de cada prestação não pode ser inferior a 1/4 do valor da unidade de conta, nos casos em que o executado for uma pessoa coletiva, e a 1/8 do valor da unidade de conta, nos casos em que o executado for uma pessoa singular.\n\n4 - No caso de pessoas coletivas, sempre que a dívida exequenda exceda 300 unidades de conta no momento da autorização, o valor de cada prestação não pode ser inferior a três unidades de conta.\n\n5 - Tratando-se de dívida proveniente de quotizações, o número de prestações mensais não pode exceder 24.\n\n6 - Não é permitida a apensação de processos de execução de dívidas à segurança social com plano prestacional autorizado.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35-C/2016 - Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-c-2016-74843539), em vigor a partir de 2016-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2015 - Diário da República n.º 130/2015, Série I de 2015-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2015-69736209), em vigor a partir de 2015-07-08\n\n> Alterado pelo/a Artigo 82.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 52.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29\n\n> Alterado pelo/a Artigo 65.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 112/2004 - Diário da República n.º 112/2004, Série I-A de 2004-05-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2004-268650), em vigor a partir de 2015-05-18"
+  },
+  "1051401246": {
+   "fragment_id": "70073620",
+   "type": 11,
+   "heading": "Artigo 12.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Patrocínio judiciário\n\nNos tribunais comuns e nos tributários, as instituições do sistema de segurança social são representadas por mandatário judicial nomeado pelo IGFSS, I.P."
+  },
+  "1051401247": {
+   "fragment_id": "114466475",
+   "type": 11,
+   "heading": "Artigo 13.º-B — Dispensa de garantia",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 307.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 13.º-B — Dispensa de garantia\n\nÉ dispensada a prestação de garantia quando, à data do pedido, o valor em dívida no processo executivo no qual é formulado o pedido de pagamento em prestações for inferior a (euro) 5 000 para pessoas singulares, ou (euro) 10 000 para pessoas coletivas.\n\n> Aditado pelo/a Artigo 307.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "1051401248": {
+   "fragment_id": "70073622",
+   "type": 11,
+   "heading": "Artigo 14.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 167.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 14.º — Garantias\n\n1 - Caso não se encontre já constituída garantia com o pedido de pagamento em prestações, nos termos do artigo anterior, deve o executado prestá-la através de garantia bancária, hipoteca voluntária, penhor, caução, seguro-caução ou qualquer meio suscetível de assegurar os créditos do exequente.\n\n2 - A garantia é prestada pelo valor da dívida exequenda, juros de mora contados à data do pedido e custas na totalidade, acrescida de 25 % da soma daqueles valores, sem prejuízo do disposto no número seguinte.\n\n3 - O valor da garantia é o que consta da citação, nos casos em que seja apresentada nos 30 dias posteriores à mesma.\n\n> Alterado pelo/a Artigo 167.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "1051401249": {
+   "fragment_id": "131068166",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Suspensão do processo de execução",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01",
+    "Aditado pelo/a Artigo 195.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 14.º-A — Suspensão do processo de execução\n\n1 - Sem prejuízo das causas de suspensão previstas na lei aplicável, o processo de execução por dívidas à segurança social suspende-se nas situações em que a dívida esteja a ser regularizada através de compensação nos termos previstos no artigo 220.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01\n\n> Aditado pelo/a Artigo 195.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "1051401250": {
+   "fragment_id": "70073623",
+   "type": 11,
+   "heading": "Artigo 15.º — Sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sigilo\n\nNo caso de transmissão de bens imóveis, devidamente comprovada, o interessado pode ser informado da existência de privilégio creditório da segurança social."
+  },
+  "1051401251": {
+   "fragment_id": "70073624",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo das execuções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo das execuções\n\nO registo dos processos de execução é efectuado através de verbetes informáticos e de acordo com os procedimentos a definir pelo Instituto de Gestão Financeira da Segurança Social."
+  },
+  "1051401252": {
+   "fragment_id": "70073625",
+   "type": 11,
+   "heading": "Artigo 17.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Processos pendentes\n\nOs processos de execução fiscal por dívidas que a segurança social tenha participado aos órgãos do Ministério das Finanças antes da entrada em vigor do presente diploma continuam a correr por esses órgãos."
+  },
+  "1051401253": {
+   "fragment_id": "70073626",
+   "type": 11,
+   "heading": "Artigo 18.º — Normas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Normas de execução\n\n1 - A legislação complementar ao estatuído no presente diploma consta de decreto-lei.\n\n2 - A definição dos procedimentos que se revelem necessários à aplicação do presente diploma é aprovada por despacho do membro do Governo competente na matéria."
+  },
+  "1051401254": {
+   "fragment_id": "134392692",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Execução de outras dívidas",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01",
+    "Aditado pelo/a Artigo 416.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 18.º-A — Execução de outras dívidas\n\n1 - Para efeitos de participação da dívida relativa a outras entidades, nos termos legalmente fixados, são estabelecidos canais específicos de comunicação e interoperabilidade entre as instituições envolvidas.\n\n2 - Os termos e condições da comunicação e interoperabilidade previstas no número anterior são estabelecidos por protocolo a celebrar entre o IGFSS, I. P., e a entidade credora.\n\n3 - O disposto no presente diploma é aplicável à execução da dívida já constituída e a constituir perante a entidade credora.\n\n4 - Sem prejuízo do que venha a ser fixado nos termos da alínea l) do n.º 2 do artigo 10.º do decreto-lei que aprova a orgânica do IGFSS, I. P., a entidade credora é responsável pelo ressarcimento ao IGFSS, I. P.:\n\na) Das custas processuais resultantes do processo de execução fiscal, em caso de anulação ou de não pagamento pelo devedor;\n\nb) Das custas judiciais a que o IGFSS, I. P., venha a ser condenado por decaimento em processos judiciais;\n\nc) Das indemnizações exigidas ao IGFSS, I. P., por garantias indevidamente prestadas.\n\n5 - A definição dos procedimentos que se revelem necessários à aplicação do presente artigo é aprovada por despacho do membro do Governo responsável pela área da segurança social.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 41/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2026-1051282279), em vigor a partir de 2026-03-01\n\n> Aditado pelo/a Artigo 416.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "1051401255": {
+   "fragment_id": "70073627",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 180 dias depois do dia seguinte ao da sua publicação."
+  },
+  "1051401256": {
+   "fragment_id": "70064695",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa.\n\nPromulgado em 26 de Janeiro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Fevereiro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

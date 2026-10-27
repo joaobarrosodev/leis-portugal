@@ -1,0 +1,233 @@
+---
+schema_version: '1.0'
+id: pt:dre:163242:por
+title: Decreto-Lei n.º 44506
+short_title: null
+summary: Regula a concessão dos subsídios e pensões, nos termos da base XV da Lei n.º 2005, ao pessoal dispensado em consequência
+  da reorganização industrial - Institui o Fundo de Desenvolvimento da Mão-de-Obra
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Corporações e Previdência Social - Gabinete do Ministro
+proposing_entity: null
+official_number: '44506'
+official_date: null
+publication_date: '1962-08-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 183/1962, Série I de 1962-08-10
+  number: '183'
+  series: I
+  supplement: null
+  pages: 1084 - 1086
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/08/18300/10841086.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '163242'
+  dre_path: /dr/detalhe/decreto-lei/44506-1962-163242
+  internal: pt:dre:163242:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242
+  consolidated_url: null
+  retrieved_at: '2026-10-22T21:41:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 51c2dd713fa516568cd93bf0895999351ad671fcfcf3bcaed320c0c2dfab3d5c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T21:41:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Caixa de Previdência
+- Definição de Competências
+- Fundo de Desemprego
+- Fundo de Desenvolvimento da Mão-de-obra
+- Fundo Nacional de Abono de Família
+- Instituições de Previdência Social
+- Instituto Nacional do Trabalho e Previdência
+- Ministro das Corporações e Previdência Social
+- Pensão de Reforma
+- Pensões
+- Previdência Social
+- Proteção Social
+- Regime Especial de Previdência
+- Subsídio Complementar
+- Subsídio de Desemprego
+relationships:
+- type: amended_by
+  target: pt:dre:324735:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:478074:por
+  label: "Dada nova redacção ao corpo do art. 15º pelo DEC LEI.47254.10.10.1966.MCPS, DG.IS [235] de 10.10.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47254-1966-478074
+  date: '1966-10-10'
+- type: amended_by
+  target: pt:dre:527591:por
+  label: "Alterados os arts. 11º, 12º e 14º pelo DEC LEI.48888.01.03.1969.MCPS, DG.IS [51] de 01.03.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48888-1969-527591
+  date: '1969-03-01'
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:653915:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T21:41:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 44506
+
+Os processos de reorganização industrial em que o País se encontra empenhado, fundamentais, como são, para o nosso desenvolvimento económico, que o mesmo é dizer para o aumento da riqueza nacional e do bem-estar dos Portugueses, acarretam, a curto prazo, como por toda a parte sucede, um certo desemprego, resultante do maior aperfeiçoamento dos métodos de fabrico.
+
+O Governo não pode deixar de ter em consideração esse facto, como, aliás, sucedeu já com a [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, destinada a estabelecer os princípios da reorganização industrial, cuja base XV dispõe o seguinte:
+
+O pessoal das fábricas que cessarem a laboração por efeito da reorganização industrial será dividido em três grupos:
+
+Os inválidos terão direito a pensões de reforma ou invalidez, pagas pelas respectivas caixas de previdência, e, na falta ou insuficiência dessas pensões, ser-lhes-á prestada assistência adequada; os indispensáveis ao trabalho serão admitidos nas empresas reorganizadas, e os demais serão colocados nas indústrias a que se refere a primeira parte desta lei, devendo ser-lhes atribuído um subsídio temporário de desemprego, obtido por contribuição das empresas.
+
+Em virtude, porém, dos numerosos processos de reorganização em curso, convém regulamentar esta matéria em termos mais amplos, completando nalguns aspectos o esquema genérico da lei.
+
+Por outro lado, como situações idênticas de despedimento colectivo, requerendo análogo tratamento, são possíveis e têm-se verificado fora dos casos expressamente previstos na [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), importa ter a possibilidade de a elas atender, e nesse sentido igualmente se providencia.
+
+Será às instituições de previdência e às próprias empresas que competirá, em larga medida, suportar os encargos decorrentes do auxílio a conceder aos desempregados, mas precisamente porque se trata de trabalhadores despedidos, também o Fundo de Desemprego é chamado a dar contribuição importante, como não poderia deixar de ser.
+
+Mas não interessa, apenas, acorrer, por meio de subsídios, às situações de desemprego tecnológico resultantes dos processos de reorganização determinados pelo interesse nacional. É necessário, outrossim, favorecer a mobilidade da mão-de-obra e a colocação noutras actividades dos desempregados, e para esse efeito se pensa na criação dos adequados meios de reclassificação profissional.
+
+Finalmente, não pode esquecer-se que o desemprego tecnológico se situa no âmbito mais vasto da organização do mercado da mão-de-obra. Só com elementos de informação e sistemas de previsão apropriados será possível prosseguir uma política de trabalho que, sem atrasos prejudiciais, se vá adaptando às mutações constantes da economia de hoje. Nem se pode providenciar, em tempo oportuno, sobre as situações resultantes de desemprego colectivo sem conhecer, com a devida antecipação, as intenções das empresas.
+
+Espera-se, por isso, que o presente diploma seja o início de uma série de medidas tendentes ao melhor conhecimento e mais perfeita estruturação da nossa mão-de-obra, por forma a dar maior satisfação não só aos interesses dos trabalhadores, como também às necessidades e conveniências das próprias empresas.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Os subsídios e pensões a conceder, nos termos da base XV da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, ao pessoal dispensado em consequência da reorganização industrial serão determinados nos termos do presente diploma, tidas em conta para cada caso as possibilidades financeiras existentes.
+
+Art. 2.º Ao pessoal válido que não tenha atingido a idade de reforma serão atribuídos subsídios temporários de desemprego com o montante e duração que forem fixados em despacho conjunto dos Ministros da Economia e das Corporações e Previdência Social, ouvidos os organismos corporativos interessados.
+
+§ 1.º Os subsídios a conceder, nos termos do presente artigo, ao pessoal que se encontre inscrito numa caixa de previdência serão acrescidos do abono de família e suas prestações acessórias.
+
+§ 2.º Durante o período de concessão dos subsídios, serão mantidos aos subsidiados e seus familiares os benefícios em espécie de seguro-doença a que teriam direito se durante esse tempo continuassem a contribuir para a respectiva caixa de previdência.
+
+§ 3.º A fim de evitar os prejuízos resultantes da interrupção das contribuições para a caixa de previdência em que os subsidiados se encontrem inscritos, o Fundo previsto no artigo 5.º terá a seu cargo a parte daquelas contribuições correspondente à entidade patronal, durante o período de concessão dos benefícios e na base do salário auferido à data do despedimento, cabendo à competente caixa de previdência, pela conta de «contribuições de doentes», satisfazer a parte daquelas contribuições correspondente aos beneficiários.
+
+§ 4.º A concessão dos subsídios poderá ser condicionada pela aceitação, por parte do pessoal despedido, das medidas consideradas necessárias à sua readaptação ou reclassificação profissional ou pela aceitação do seu ingresso noutras empresas industriais.
+
+Art. 3.º Ao pessoal inscrito nas caixas de previdência que complete, antes da data do despedimento ou durante o decurso do período de concessão dos subsídios previstos no artigo anterior, a idade de reforma ou seja declarado inválido será assegurado, além da pensão e abono de família a que tiver direito perante a respectiva caixa de previdência, um subsídio complementar que lhe permita atingir o montante global que for estabelecido no despacho relativo à reorganização.
+
+§ 1.º Se o mesmo pessoal não tiver direito a pensão por falta de cumprimento do período de garantia regulamentar, poderá ser prolongada a concessão dos subsídios previstos no artigo 2.º pelo tempo necessário para completar aquele período, sendo-lhe então assegurado, além da pensão, o subsídio complementar previsto no presente artigo e cessando nessa hipótese o direito ao reembolso de contribuições pagas nas modalidades de invalidez e velhice, estabelecido no [Decreto-Lei n.º 39365](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39365-1953-653915), de 21 de Setembro de 1953.
+
+§ 2.º Os reformados ou inválidos que voltem a exercer actividade remunerada ficam sujeitos, quanto a pensões, ao regime geral e apenas os subsídios complementares a que se refere o presente artigo poderão ser reduzidos ou extintos conforme as circunstâncias.
+
+Art. 4.º Ao pessoal nas condições referidas no corpo do artigo 3.º e que não esteja inscrito em qualquer caixa de previdência será estabelecida uma pensão do montante que for fixado no despacho relativo à reorganização e cuja concessão se manterá enquanto os pensionistas não voltarem a exercer actividade profissional.
+
+Art. 5.º Os encargos decorrentes da execução do presente diploma serão suportados pelo Fundo de Desenvolvimento da Mão-de-Obra, instituído por este diploma na Direcção-Geral do Trabalho e Corporações, de harmonia com o disposto nos artigos 9.º e 10.º, pelo Fundo Nacional de Abono de Família e pelas caixas de previdência.
+
+Art. 6.º Os encargos a satisfazer para cumprimento do disposto neste diploma serão repartidos pela seguinte forma:
+
+a) Ao Fundo Nacional de Abono de Família cabe a compensação, nos termos regulamentares, dos abonos de família e prestações acessórias a conceder aos subsidiados e pensionistas;
+
+b) Às caixas de previdência em que os trabalhadores despedidos se encontrarem inscritos, as prestações em espécie e a parcela de contribuições a que se referem o § 2.º e a segunda parte do § 3.º do artigo 2.º, bem como as pensões e subsídios complementares referidos no artigo 3.º;
+
+c) Ao Fundo de Desenvolvimento da Mão-de-Obra, os restantes subsídios, contribuições, pensões e encargos.
+
+Art. 7.º Em princípio, apenas serão aplicáveis os benefícios previstos no presente diploma aos trabalhadores que provem ter desempenhado, por forma regular, actividade profissional nas empresas interessadas durante pelo menos dois anos anteriormente à data do despedimento.
+
+Art. 8.º Todos os subsídios, pensões e abonos serão satisfeitos pelas caixas de previdência a que pertençam os trabalhadores beneficiários, as quais serão reembolsadas das importâncias a cargo dos fundos indicados, nos termos a fixar em despacho do Ministro das Corporações e Previdência Social.
+
+§ único. Na falta de inscrição em qualquer instituição de previdência, o Ministro das Corporações e Previdência Social designará a caixa a que competirá o serviço das prestações.
+
+Art. 9.º O Fundo de Desenvolvimento da Mão-de-Obra será constituído pelas contribuições das empresas abrangidas pela reorganização, por uma comparticipação do Fundo de Desemprego e por quaisquer outras importâncias que lhe sejam destinadas por entidades públicas ou privadas ou por lei lhe devam ser atribuídas.
+
+§ 1.º As contribuições das empresas serão estabelecidas pelos diplomas que determinarem ou regulamentarem a reorganização industrial ou nos termos que forem fixados em despacho conjunto dos Ministros da Economia e das Corporações e Previdência Social, ouPrevidência Social e do Comissariado do Desemprego.
+
+§ 2.º A comparticipação do Fundo de Desemprego será constituída por 15 por cento das respectivas receitas anuais, se percentagem superior, até 20 por cento, não for acordada entre os Ministros das Obras Públicas e das Corporações e Previdência Social.
+
+Art. 10.º A administração do Fundo de Desenvolvimento da Mão-de-Obra incumbe a um conselho administrativo formado por representantes de cada uma das direcções-gerais do Ministério das Corporações e Previdência Social e do Comissariado do Desemprego.
+
+§ único. As contas das despesas realizadas em cada ano serão sujeitas ao visto dos Ministros das Obras Públicas e das Corporações e Previdência Social, mediante o qual se consideram legitimadas.
+
+Art. 11.º Quando se verifiquem despedimentos colectivos em virtude de encerramento das empresas, transferência de local ou redução dos quadros de pessoal, e as circunstâncias o aconselhem, os Ministros da Economia e das Corporações e Previdência Social poderão, em despacho conjunto e fundamentado, mandar aplicar ao pessoal despedido os benefícios previstos neste diploma, ficando as empresas respectivas abrangidas pelas obrigações correspondentes.
+
+§ único. Neste caso, a pensão a que se refere o artigo 4.º será substituída por um subsídio temporário a fixar no despacho a que se refere o corpo deste artigo.
+
+Art. 12.º Para efeitos da aplicação do presente diploma e oportuno conhecimento das situações de desemprego colectivo, as empresas industriais abrangidas por uma reorganização ou que pretendam cessar definitivamente o exercício da sua actividade ou reduzir os quadros do pessoal deverão comunicá-lo ao Ministério das Corporações e Previdência Social com antecedência não inferior a 60 dias, esclarecendo as razões justificativas dessa decisão.
+
+§ 1.º Na comunicação indicar-se-á o nome de todos os trabalhadores da empresa ou das secções afectadas e dos trabalhadores a despedir, data do seu nascimento, categoria, ordenado ou salário e qualificações profissionais, bem como a data de admissão na empresa, pessoas a seu cargo e situação perante as instituições de previdência.
+
+§ 2.º Sempre que ao pessoal a despedir sejam de conceder os benefícios estabelecidos neste diploma, os critérios e condições de despedimento serão fixados em despacho conjunto dos Ministros da Economia e das Corporações e Previdência Social, ouvidas as empresas e os sindicatos interessados.
+
+§ 3.º A comunicação referida no corpo deste artigo é obrigatória para todas as empresas abrangidas por uma reorganização nos termos da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), e, nos restantes casos, para todas as empresas industriais que tenham mais de dez trabalhadores ao seu serviço.
+
+§ 4.º Entende-se que há redução de quadros quando o pessoal despedido não tenha de ser substituído ou o não seja efectivamente, no prazo de 90 dias.
+
+Art. 13.º A falta de cumprimento do disposto no artigo anterior será punida com multa de 100$00 a 500$00 por cada trabalhador despedido, sem prejuízo das indemnizações ou subsídios que forem estabelecidos para cada caso.
+
+§ 1.º Estes subsídios, que poderão atingir neste caso o montante dos ordenados ou salários que os trabalhadores despedidos percebiam, manter-se-ão pelo tempo julgado conveniente.
+
+§ 2.º O produto das multas previstas neste diploma e seus regulamentos reverte para o Fundo de Desenvolvimento da Mão-de-Obra, competindo o levantamento dos autos à Inspecção do Trabalho e o julgamento das infracções aos tribunais do trabalho.
+
+Art. 14.º O pessoal despedido, ainda não empregado ou reformado, terá preferência no preenchimento das vagas que vierem a verificar-se na empresa donde tiver saído ou naquela em que a mesma tenha sido transformada ou integrada. O mesmo princípio se aplica quando o pessoal já empregado tiver remuneração inferior à que percebia anteriormente.
+
+§ 1.º O Instituto Nacional do Trabalho e Previdência poderá autorizar o preenchimento das vagas de modo diverso, quando a aptidão profissional e física dos trabalhadores se não ajustar às necessidades das empresas.
+
+§ 2.º Se as empresas não derem cumprimento ao determinado no presente artigo, aplicar-se-á o disposto no artigo 13.º
+
+Art. 15.º Ao Ministro das Corporações e Previdência Social competirá promover, por despacho, a adopção das restantes medidas consideradas necessárias à completa execução do presente diploma.
+
+§ único. Para o mesmo efeito, o Ministro das Corporações e Previdência Social poderá determinar que as empresas comerciais e industriais e quaisquer outras enviem, nos prazos que forem designados, os elementos indispensáveis ao conhecimento do mercado da mão-de-obra nos seus diversos aspectos.
+
+Art. 16.º O presente diploma aplica-se às empresas em curso de reorganização à data da sua publicação ou que, na mesma altura, estejam a proceder a despedimentos colectivos de pessoal.
+
+Art. 17.º O pessoal do Fundo de Desenvolvimento da Mão-de-Obra será contratado pelo Ministro das Corporações e Previdência Social de acordo com as necessidades e as possibilidades financeiras do organismo, podendo os funcionários públicos ser chamados ao desempenho dessas funções em regime de comissão de serviço.
+
+Art. 18.º A comparticipação prevista no § 2.º do artigo 9.º é devida a partir de 1 de Janeiro de 1963, devendo ser estabelecida por acordo entre os Ministros das Obras Públicas e das Corporações e Previdência Social a contribuição a conceder pelo Fundo de Desemprego para o corrente ano.
+
+§ único. Para melhor satisfação das suas finalidades, poderá o Fundo de Desenvolvimento da Mão-de-Obra receber nos cinco primeiros anos, mediante despacho dos respectivos Ministros, adiantamentos reembolsáveis ou subsídios concedidos pelo Fundo Nacional de Abono de Família, pelo Fundo de Formação Social e Corporativa ou pelo Fundo de Desemprego.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 10 de Agosto de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

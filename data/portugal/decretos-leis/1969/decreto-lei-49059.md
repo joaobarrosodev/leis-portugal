@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:199985:por
+title: Decreto-Lei n.º 49059
+short_title: null
+summary: Insere disposições destinadas a possibilitar a execução do Acordo firmado entre os Governos do Canadá, da França,
+  da República Federal Alemã, da Itália, da Holanda, do Reino Unido, dos Estados Unidos da América e de Portugal para a instalação
+  de um polígono de acústica submarina na ilha de Santa Maria (Açores)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho - Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: '49059'
+official_date: null
+publication_date: '1969-06-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 140/1969, Série I de 1969-06-17
+  number: '140'
+  series: I
+  supplement: null
+  pages: 677 - 678
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/06/14000/06770678.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '199985'
+  dre_path: /dr/detalhe/decreto-lei/49059-1969-199985
+  internal: pt:dre:199985:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49059-1969-199985
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49059-1969-199985
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:09:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2677736cbc3c64d24df028ba414366e3ea981a6f175167fcf6c25878d51db235
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:09:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Alienação de BENS
+- Aquisição de Bens e Serviços
+- Comando Naval do Continente
+- Comando Naval dos Açores
+- Comissão Executiva do Polígono de Acústica Submarina dos Açores
+- ILHA de Santa Maria
+- Importação
+- Instalação de Serviços
+- Instituto Hidrográfico
+- Isenção Fiscal
+- Militar
+- Ministro da Marinha
+- Pessoal Civil
+- Prestação de Serviços
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:336682:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: repealed_by
+  target: pt:dre:336682:por
+  label: "Revogadas as disposições do presente diploma, no que se refere à competência do conselho administrativo do Instituto\
+    \ Hidrográfico, pelo DEC LEI.384/75.22.07.1975.CR, DG.IS [167] de 22.07.1975\075\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-1975-336682
+  date: '1975-07-22'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:09:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49059
+
+Tornando-se necessário dar execução ao Acordo firmado entre os Governos do Canadá, da França, da República Federal Alemã, da Itália, da Holanda, do Reino Unido, dos Estados Unidos da América e de Portugal, em que este concede àqueles países facilidades na ilha de Santa Maria (Açores) para a instalação e funcionamento de um polígono de acústica submarina;
+
+Verificando-se também a necessidade de definir o regime de isenções dos materiais que sejam importados com destino ao funcionamento e manutenção das instalações a estabelecer em território português nos termos do referido Acordo, e bem assim de fixar as condições em que será, prestado o apoio administrativo e de manutenção previsto no mesmo Acordo;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º Fica autorizado o Ministro da Marinha, de harmonia com as directivas do Ministro da Defesa Nacional, e por intermédio do Instituto Hidrográfico, do Comando Naval do Continente (Defesa Marítima do Porto de Lisboa) e do Comando Naval dos Açores (Defesa Marítima do Porto de Vila do Porto), a:
+
+a) Prestar apoio administrativo e de manutenção à execução do Acordo firmado entre os Governos do Canadá, da França, da República Federal Alemã, da Itália, da Holanda, do Reino Unido, dos Estados Unidos da América e de Portugal, incluindo a construção e apetrechamento das instalações mediante pagamento à fazer pelo Governo dos Estados Unidos da América;
+
+b) Garantir a guarda, segurança e protecção das instalações localizadas em Lisboa e na ilha de Santa Maria (Açores) previstas no referido Acordo;
+
+c) Colaborar na obtenção de dados oceanográficos e batimétricos necessários a instalação do Polígono de Acústica Submarina dos Açores, nos termos definidos no mesmo Acordo.
+
+Art. 2.º - 1. As despesas com as obras, apetrechamento e manutenção das instalações a realizar de harmonia com o citado Acordo serão suportadas pelas verbas nele previstas, cujo pagamento incumbe ao Governo dos Estados Unidos da América.
+
+2. A realização destas despesas é da competência do conselho administrativo do Instituto Hidrográfico.
+
+Art. 3.º O pagamento das despesas referidas no artigo anterior será feito mediante facturas preparadas pelo conselho administrativo do Instituto Hidrográfico, a submeter, nos termos do Acordo, ao Governo dos Estados Unidos da América, por intermédio do director executivo do Polígono de Acústica Submarina dos Açores.
+
+Art. 4.º As importâncias eventualmente recebidas dos países participantes do Acordo em resultado da realização de experiências para fins nacionais darão entrada imediata nos cofres do Estado, mediante guia de receita emitida pela competente repartição da Direcção-Geral da Contabilidade Pública.
+
+Art. 5.º A prestação do apoio administrativo previsto no citado Acordo e a realização das correspondentes despesas estão sujeitas a normas a estabelecer entre o conselho administrativo do Instituto Hidrográfico e a direcção executiva do Polígono de Acústica Submarina dos Açores, as quais sendo aprovadas pelo Ministro da Marinha, com o acordo prévio do Ministro da Defesa Nacional.
+
+Art. 6.º - 1. A guarda das instalações que forem estabelecidas em Lisboa e na ilha de Santa Maria (Açores) é feita por pessoal militar que fica na dependência do Comando Naval do Continente (Defesa Marítima do Porto de Lisboa) e do Comando Naval dos Açores (Defesa Marítima do Porto de Vila do Porto).
+
+2. A guarda tem por fim garantir a segurança e protecção das instalações em terra enquanto se mantiverem os compromissos resultantes do Acordo e rege-se, quando no exercício das suas funções, pela legislação militar em vigor.
+
+Art. 7.º O pessoal civil que preste serviço nas instalações previstas no Acordo manterá, se for oriundo do funcionalismo público, todos os seus direitos como se estivesse em serviço nos respectivos quadros, nomeadamente no que se refere à contagem de tempo de serviço, desconto para a Caixa Geral de Aposentações e organismos de previdência ou quaisquer outros de que por imposição legal sejam contribuintes.
+
+Art. 8.º O pessoal militar, quando em serviço nas instalações previstas no Acordo, mantém os direitos consignados na legislação especial que lhe diz respeito relativamente as situações em que prestar serviço nas mesmas instalações.
+
+Art. 9.º São isentos de imposto do selo, de imposto profissional, de imposto complementar e de contribuições para o Fundo de Desemprego os vencimentos e quaisquer outras remunerações auferidas pela prestado de serviços nas instalações a que se refere o Acordo.
+
+Art. 10.º - 1. São isentos de direitos, de imposto do selo e de quaisquer outras imposições do bilhete de despacho a importação de equipamentos, materiais e veículos automóveis enviados pelos governos participantes no Acordo para apetrechamento, manutenção e funcionamento das instalações ou para a condução de experiências, e bem assim a sue exportação, quando tenham de sair do País.
+
+2. Para efeitos do disposto neste artigo, o delegado do Governo Português junto da direcção executiva do Polígono enviará à Direcção-Geral das Alfândegas lista discriminativa, em triplicado, dos materiais e equipamentos a isentar relativamente a cada importação ou exportação.
+
+Art. 11.º - 1. Enquanto durarem as experiências referidas no Acordo, é permitida a importação temporária, isenta de todas as imposições do bilhete de despacho, incluindo o imposto do selo, dos objectos, compreendendo os veículos utilizados para fins pessoais, destinados ao pessoal estrangeiro que preste serviço no Polígono, que não possam ser importados em regime de bagagem, e bem assim a sua reexportação, quando tiverem de sair do País.
+
+2. Para efeitos do processamento da importação temporária ou da reexportação, deverá proceder-se como se acha estabelecido no n.º 2 do artigo anterior, relativamente à importação e exportação.
+
+Art. 12.º Os bens importados ao abrigo do presente diploma não poderão ser cedidos a qualquer título, a não ser por autorização especial das autoridades competentes, mediante o pagamento dos direitos e mais imposições devidos e o cumprimento das formalidades legalmente estabelecidas, salvo se forem considerados propriedade do Governo Português.
+
+Art. 13.º Pelos Ministros da Defesa Nacional e da Marinha serão expedidas as instruções complementares que se mostrem indispensáveis à execução deste diploma.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - Manuel Pereira Crespo.
+
+Promulgado em 2 de Junho de 1969.
+
+Publique-se.
+
+Presidência da República, 17 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

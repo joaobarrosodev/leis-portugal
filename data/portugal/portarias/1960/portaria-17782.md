@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:503206:por
+title: Portaria n.º 17782
+short_title: null
+summary: Manda aplicar nas províncias ultramarinas, observadas as alterações constantes da presente portaria, o Decreto-Lei
+  n.º 36173 (convenções colectivas de trabalho)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Ministro
+proposing_entity: null
+official_number: '17782'
+official_date: null
+publication_date: '1960-06-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 148/1960, Série I de 1960-06-28
+  number: '148'
+  series: I
+  supplement: null
+  pages: 1620 - 1620
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/06/14800/16201620.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '503206'
+  dre_path: /dr/detalhe/portaria/17782-1960-503206
+  internal: pt:dre:503206:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17782-1960-503206
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17782-1960-503206
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:45:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bce02e38810e1c0d93ea50fe842a6aed80ee1c496d6a2b5199c576ccf5c76271
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:45:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:414413:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:45:03Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17782
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXVIII da Lei Orgânica do Ultramar, aplicar nas províncias ultramarinas o [Decreto-Lei n.º 36173](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36173-1947-414413), de 6 de Março de 1947, com as alterações seguintes:
+
+1.º As referências ao Subsecretário de Estado das Corporações e Previdência Social consideram-se feitas ao governador da província;
+
+2.º As referências ao Instituto Nacional do Trabalho e Previdência consideram-se feitas aos serviços provinciais de administração civil;
+
+3.º A referência ao Conselho de Ministros considera-se feita ao Ministro do Ultramar;
+
+4.º As referências ao Boletim do Instituto Nacional do Trabalho e Previdência consideram-se feitas ao Boletim Oficial da província;
+
+5.º No artigo 23.º, a expressão «do Fundo Comum das Casas do Povo ou do Fundo Nacional do Abono de Família, conforme se trate ou não de trabalho rural», é substituída pela expressão: «dos fundos de assistência da província».
+
+6.º No artigo 27.º consideram-se suprimidas as palavras que se seguem à expressão «para efeito de revisão».
+
+Ministério do Ultramar, 28 de Junho de 1960. - O Ministro do Ultramar, Vasco Lopes Alves.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves.

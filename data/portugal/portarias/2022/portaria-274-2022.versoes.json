@@ -1,0 +1,415 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:203338119:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-203320620",
+ "dre_path": "/dr/detalhe/portaria/274-2022-203338119",
+ "source_lastmod": "2024-12-23",
+ "versions": [
+  {
+   "date": "2022-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "203313744",
+    "203313745",
+    "203313746",
+    "203313747",
+    "203313748",
+    "203313750",
+    "203313751",
+    "203313752",
+    "203313753",
+    "203313754",
+    "203313755",
+    "203313756",
+    "203313757",
+    "203313758",
+    "203313759",
+    "203313760",
+    "203313761",
+    "203313762",
+    "203313763",
+    "203313764",
+    "203313765",
+    "203313766",
+    "203313767",
+    "203313768",
+    "203313769",
+    "203313770",
+    "203313771",
+    "203313772",
+    "203313773",
+    "203313774"
+   ]
+  },
+  {
+   "date": "2024-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901014290:por",
+     "title": "Portaria n.º 351/2024/1",
+     "published": "2024-12-23",
+     "dre_path": "/dr/detalhe/portaria/351-2024-901014290"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "203313744",
+    "203313745",
+    "203313746",
+    "203313747",
+    "203313748",
+    "203313749",
+    "203313750",
+    "203313751",
+    "203313752",
+    "203313753",
+    "203313754",
+    "203313755",
+    "203313756",
+    "900969845",
+    "900969846",
+    "900969847",
+    "900969848",
+    "203313761",
+    "203313762",
+    "203313763",
+    "203313764",
+    "203313765",
+    "203313766",
+    "203313767",
+    "203313768",
+    "203313769",
+    "203313770",
+    "203313771",
+    "900969849",
+    "900969850",
+    "900969851"
+   ]
+  }
+ ],
+ "fragments": {
+  "203313744": {
+   "fragment_id": "203320621",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 274/2022\n\nde 11 de novembro\n\nSumário: Aprova o Regulamento de Uniformes do pessoal pertencente às carreiras especiais da Autoridade Tributária e Aduaneira.\n\nO Decreto-Lei n.º 132/2019, de 30 de agosto, que procede à revisão das carreiras especiais da Autoridade Tributária e Aduaneira, prevê, no seu artigo 11.º, que os trabalhadores da carreira especial de gestão e inspeção tributária e aduaneira e da carreira especial de inspeção e auditoria tributária e aduaneira, podem dispor de uniforme, cujo modelo, condições do uso e de atribuição, renovação e durabilidade, são definidos em portaria do membro do Governo responsável pela área das finanças.\n\nAtendendo a que o uniforme atualmente em uso na Autoridade Tributária e Aduaneira (AT) obedece ao previsto no Regulamento de Uniformes dos Funcionários da ex-Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, aprovado pela Portaria n.º 1270/97, de 26 de dezembro, torna-se imperioso proceder à sua substituição, tendo em atenção a missão e as várias áreas funcionais da AT.\n\nEntende-se, assim, necessário e oportuno, criar os modelos de uniforme e distintivos da AT, adequados à sua missão e atribuições especialmente no que concerne aos desafios que enfrenta de forma permanente no exercício das funções inerentes ao controlo da fronteira externa da União Europeia e do território nacional, com objetivos fiscais, económicos e de proteção da sociedade, de acordo com as políticas definidas pelo Governo e o Direito da União Europeia.\n\nCom efeito, a prática de determinados atos pelos trabalhadores da AT, tendo por objeto pessoas e bens, reclama a necessidade de uma inequívoca identificação e o pronto reconhecimento dos trabalhadores da AT que atuam nessa qualidade.\n\nPor outro lado, no âmbito de ações de cooperação com outras entidades, nacionais ou comunitárias, que se apresentam em regra devidamente uniformizadas e identificadas, designadamente nos Centros de Cooperação Policial Aduaneira, ou a sua coexistência em espaços comuns de intervenção, justificam igualmente a previsão do uso de uniforme pelos profissionais da AT, que assim torne possível o seu reconhecimento no conjunto das demais entidades representadas.\n\nAssim, nos termos do artigo 11.º do Decreto-Lei n.º 132/2019, de 30 de agosto, e do Despacho n.º 8273/2022, de 7 de julho, do Ministro das Finanças, manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, o seguinte:"
+  },
+  "203313745": {
+   "fragment_id": "203320622",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado o Regulamento de Uniformes do pessoal pertencente às carreiras especiais da Autoridade Tributária e Aduaneira (AT), anexo à presente portaria e que dela faz parte integrante."
+  },
+  "203313746": {
+   "fragment_id": "203320623",
+   "type": 11,
+   "heading": "Artigo 2.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Disposições gerais\n\n1 - Sem prejuízo das exceções previstas no Regulamento em anexo, a atribuição e renovação dos uniformes é encargo da AT.\n\n2 - Os modelos de uniforme, cores, distintivos, insígnias e sinais distintivos regulados no Regulamento, são exclusivos da AT, destinando-se a ser usados pelos trabalhadores das carreiras especiais da AT.\n\n3 - Tendo em conta que na revisão das carreiras especiais da AT promovida pelo Decreto-Lei n.º 132/2019, de 30 de agosto, foram mantidas algumas carreiras de regime especial como carreiras subsistentes, até que se proceda à sua extinção, os trabalhadores que as integram, estão igualmente obrigados ao uso permanente do uniforme ou de algumas das suas peças constitutivas, sempre que se encontrem no exercício dos serviços, atividades ou funções previstas no artigo 2.º do Regulamento anexo à presente portaria e que dela faz parte integrante."
+  },
+  "203313747": {
+   "fragment_id": "203320624",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\n1 - A presente portaria entra em vigor seis meses após a sua publicação.\n\n2 - Sem prejuízo do referido no número anterior, é fixado um período de transição de seis meses, a contar daquela data, findo o qual não será permitido o uso de artigos não previstos no Regulamento agora aprovado.\n\n3 - Mostrando-se necessário flexibilizar a gestão de algumas peças específicas dos uniformes, poderá aquele período, na medida e nas situações devidamente identificadas, ser alterado por despacho do diretor-geral da AT."
+  },
+  "203313748": {
+   "fragment_id": "203320625",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1270/97, de 26 de dezembro."
+  },
+  "203313750": {
+   "fragment_id": "203320627",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE UNIFORMES DA AUTORIDADE TRIBUTÁRIA E ADUANEIRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE UNIFORMES DA AUTORIDADE TRIBUTÁRIA E ADUANEIRA"
+  },
+  "203313751": {
+   "fragment_id": "203320628",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "203313752": {
+   "fragment_id": "203320629",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente Regulamento define os tipos e a composição do uniforme da Autoridade Tributária e Aduaneira (AT), os modelos e as regras a que devem obedecer as suas peças, distintivos, insígnias e equipamentos, relativamente à espécie, formas, cores, qualidade e dimensões.\n\n2 - Os modelos do uniforme, cores, distintivos, insígnias e sinais distintivos regulados no presente Regulamento são exclusivos da AT, destinando-se a ser usados, nos termos do presente Regulamento, pelos trabalhadores das carreiras especiais da Autoridade Tributária e Aduaneira."
+  },
+  "203313753": {
+   "fragment_id": "203320630",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições do uso do uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições do uso do uniforme\n\n1 - Os trabalhadores das carreiras especiais da AT estão obrigados ao uso permanente do uniforme ou de algumas das suas peças constitutivas, sempre que se encontrem no exercício dos seguintes serviços, atividades ou funções:\n\na) Controlo aduaneiro dos objetos transportados pelos viajantes e tripulantes na sua bagagem, sobre si ou no seu vestuário;\n\nb) Fiscalização a meios de transporte e visitas aduaneiras;\n\nc) Permanência em Centros de Cooperação Policial e Aduaneira (CCPA);\n\nd) Desempenho de atividades em espaços comuns de atuação com outras autoridades ou forças e serviços de segurança;\n\ne) Ações em colaboração com outras entidades nacionais ou internacionais;\n\nf) Controlos de bens em circulação;\n\ng) Fiscalização de locais ou equipamentos sob controlo aduaneiro;\n\nh) Verificação física de mercadorias.\n\n2 - Aos trabalhadores que exerçam as atividades, serviços ou funções definidos nas alíneas a) a e) do número anterior deverá ser distribuído um conjunto de peças do uniforme de atividade operacional previsto no n.º 1 do artigo 7.º do presente Regulamento, devendo atender-se à devida adequação, face às funções especificamente desempenhadas.\n\n3 - Relativamente aos trabalhadores que exerçam as atividades, serviços ou funções definidos nas alíneas f), g), e h) deverá ser distribuído um conjunto mais restrito de peças do uniforme de atividade operacional, constituído pelas peças previstas na alínea i) do n.º 1 do artigo 7.º e nas alíneas b), e), f), e h) do n.º 1 do artigo 8.º do presente Regulamento.\n\n4 - O desempenho de atividades, serviços ou funções de caráter ocasional e limitadas no tempo, tais como diligências de investigação criminal ou de ações coercivas de penhora, remoção ou entrega de bens, não obriga ao uso permanente de uniforme, podendo ser utilizada uma ou mais peças identificativas da condição de trabalhador da AT, previstas no número anterior, com exceção das atividades de investigação criminal, cujas peças estão previstas no n.º 2 do artigo 7.º, sempre que, por razões inerentes a essas atividades, o seu uso se justifique.\n\n5 - É da responsabilidade do dirigente de cada unidade orgânica, a gestão de quem e que outras peças do uniforme devem ser usadas.\n\n6 - Para o exercício de serviços, atividades ou funções operacionais ou de apoio, que pela sua natureza e especificidade assim o exijam, o diretor-geral da AT, por despacho, pode dispensar o uso de uniforme ou de qualquer peça que o integre.\n\n7 - Sempre que a natureza das funções o justifique, o diretor-geral da AT poderá, mediante despacho, determinar o uso de uniforme por outros trabalhadores da AT que desempenhem funções diversas das referidas nos números anteriores.\n\n8 - Com o uniforme não é permitido o uso de acessórios, enfeites ou quaisquer outras peças que não estejam previstas no presente Regulamento.\n\n9 - Quaisquer outras condições de uso do uniforme serão definidas por despacho do diretor-geral da AT, tendo em vista a preservação da imagem institucional."
+  },
+  "203313754": {
+   "fragment_id": "203320631",
+   "type": 11,
+   "heading": "Artigo 3.º — Interdição do uso de uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Interdição do uso de uniforme\n\nAos trabalhadores abrangidos pelo presente Regulamento não é permitido o uso de uniforme nele previsto ou de qualquer das suas peças constitutivas nas seguintes situações:\n\na) Participação em manifestações públicas ou reuniões que não constituam atos de serviço, salvo as que decorram nas instalações da AT autorizadas no quadro da legislação em vigor;\n\nb) Suspensão do exercício de funções, em consequência de procedimento disciplinar ou penal nos termos previstos na lei;\n\nc) Inatividade resultante da aplicação de pena disciplinar;\n\nd) Prisão preventiva ou cumprimento de pena de prisão;\n\ne) Declarado incapaz por junta médica, desligado do serviço ou aposentado;\n\nf) Durante o período de férias e de licença sem remuneração de qualquer natureza;\n\ng) Fora do local de prestação de serviço, para além do tempo indispensável ao trajeto de ou para aquele local, salvo quando superiormente autorizado;\n\nh) Quando em mobilidade ou cedência de interesse público."
+  },
+  "203313755": {
+   "fragment_id": "203320632",
+   "type": 1,
+   "heading": "Capítulo II — Modelos e artigos dos uniformes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Modelos e artigos dos uniformes"
+  },
+  "203313756": {
+   "fragment_id": "203320633",
+   "type": 11,
+   "heading": "Artigo 4.º — Modelos de uniformes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Modelos de uniformes\n\n1 - Os trabalhadores das carreiras especiais da AT dispõem de dois modelos de uniforme: o modelo de uniforme de cerimónia e o modelo de uniforme de atividade operacional.\n\n2 - O modelo de uniforme de cerimónia é utilizado em atos oficiais e públicos ou outros atos sociais cuja relevância assim o exija, sempre por despacho do diretor-geral da AT.\n\n3 - O modelo de uniforme de atividade operacional é utilizado sempre que os trabalhadores, chefias e dirigentes, se encontrem no exercício de serviços, atividades ou funções em que o uso de uniforme seja obrigatório, nos termos previstos no presente Regulamento.\n\n4 - As peças constitutivas do uniforme estão descritas com remissão para as figuras correspondentes no anexo I ao presente Regulamento, do qual é parte integrante."
+  },
+  "203313757": {
+   "fragment_id": "203320634",
+   "type": 11,
+   "heading": "Artigo 5.º — Uniforme de cerimónia masculino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Uniforme de cerimónia masculino\n\n1 - O uniforme masculino é constituído pelas seguintes peças:\n\na) Casaco confecionado em sarja de lã, mínimo de 140 g/m2, na cor azul-escura, corte de blazer (trespasse) com seis botões grandes metálicos dourados na parte da frente, e quatro pequenos em cada manga, com o emblema da AT gravado; abotoa com dois botões e com forro de cetim preto. Bolso de peito esquerdo. Nas mangas tem canhões a direito, sobrepostos. Tem túneis nos ombros para colocação de platinas (fig. 1);\n\nb) Calças do mesmo tecido e cor do casaco, mínimo de 140 g/m2; vincadas; uma prega à frente; cós com passadeiras; quatro bolsos interiores sendo dois Oxford na parte da frente e dois com botão na parte de trás; braguilha frontal com fecho de correr sob carcela (fig. 2);\n\nc) Camisa de manga comprida, de algodão branco, mínimo de 140 g/m2, lisa, colarinho convencional com pesponto, com punhos a abotoar com botões e aperta à frente com botões (fig. 3);\n\nd) Gravata confecionada em seda, fundo azul-marinho, de feitio corrente, com duas riscas azuis céu colocadas obliquamente na parte inferior, com a largura de 2 mm e 4 mm, distanciadas 2 mm, distintivo da AT em miniatura, ao centro na parte superior (fig. 4);\n\ne) Gabardine em tecido impermeável, da mesma cor do casaco; forro azul; nos ombros, platinas para colocar passadeiras (fig. 5);\n\nf) Cinto e precinta de algodão preto, com 0,03 m de largura, rematado nos dois extremos por caixas de latão dourado; fivela de latão dourado, que exibe, em relevo, o distintivo da AT (fig. 6);\n\ng) Boné do mesmo tecido e cor do casaco; pala forrada; francalete constituído por dois cordões de ouro de 0,004 m de diâmetro em requife de fieira dobrado e tecido; dois botões dourados planos com o escudo nacional gravado, distintivo da AT colocado à frente (fig. 7);\n\nh) Sapatos pretos de cabedal, solas de couro, com biqueira, sem enfeites, com ilhós e atacadores pretos (fig. 8).\n\n2 - Com o uniforme masculino só podem ser usadas peúgas de cor preta, lisas e sem enfeites."
+  },
+  "203313758": {
+   "fragment_id": "203320635",
+   "type": 11,
+   "heading": "Artigo 6.º — Uniforme de cerimónia feminino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Uniforme de cerimónia feminino\n\n1 - O uniforme feminino é constituído pelas seguintes peças:\n\na) Casaco confecionado em sarja de lã azul-escuro, mínimo de 140 g/m2, segue o modelo masculino, sendo mais cintado (fig. 9);\n\nb) Saia do mesmo tecido e cor do casaco, forrada, cós com passadeiras, corte direito, com abertura na traseira sobreposta, com fecho de correr e pinças de ajustamento; a altura será pelo joelho (fig. 10);\n\nc) Calças do mesmo tecido e cor do casaco, vincadas, cós com passadeiras, uma prega à frente, uma de cada lado, e duas pinças de ajuste atrás, dois bolsos Oxford à frente e um bolso interior e botão na parte de trás; braguilha frontal com fecho de correr sob carcela (fig. 11);\n\nd) Camisa de manga comprida, de algodão branco, mínimo de 140 g/m2, ligeiramente cintada, duas pinças na frente e duas nas costas, carcela com botões no centro da frente, punhos com dois botões; os botões são lisos, da mesma cor do tecido (fig. 12);\n\ne) Lenço quadrangular de 0,90 m/0,90 m, da cor azul, em seda, estampado, com distintivos da AT (fig. 13);\n\nf) Gravata em seda azul-escura, com as mesmas características do uniforme masculino;\n\ng) Gabardine em tecido impermeável, da mesma cor do casaco; forro azul; nos ombros, platinas para colocação de passadeiras (fig. 14);\n\nh) Cinto com as características do uniforme masculino;\n\ni) Chapéu em tecido de feltro, da mesma cor do casaco (fig. 15);\n\nj) Sapatos pretos de calfe, costuras nos calcanhares sem tiras de reforço, sem enfeites, solas de couro e saltos com altura média (fig. 16).\n\n2 - Durante o período pré-natal, as grávidas poderão utilizar as seguintes peças, quando necessário:\n\na) Túnica pré-natal, confecionada em algodão, mínimo de 140 g/m2, de cor branca, de manga comprida ou curta, colarinho e abertura apenas com três botões e um macho a partir dessa abertura (fig. 17);\n\nb) Calças idênticas às referidas na alínea c) do n.º 1, com as devidas adaptações;\n\nc) Vestido pré-natal, confecionado em tecido igual à saia de sarja de lã/poliéster, na cor azul-escuro, com decote e cavas debruadas e encaixe à frente donde nasce um macho e com platinas nos ombros para passadeiras (fig. 18).\n\n3 - Com o uniforme feminino só podem ser usados collants lisos, de cor bege, de feitio corrente e sem enfeites."
+  },
+  "203313759": {
+   "fragment_id": "203320636",
+   "type": 11,
+   "heading": "Artigo 7.º — Uniforme de atividade operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Uniforme de atividade operacional\n\n1 - Para serviços, atividades ou funções predominantemente operacionais, integram o uniforme masculino as seguintes peças:\n\na) Parka de tecido impermeável com características de segurança e proteção, de cor azul-escura, de talhe folgado, com fecho central até à gola, oculto com pala. Capuz oculto no interior da gola. Punhos interiores canelados. Dois bolsos interiores de vivo com fecho. Exterior 100 % poliéster com recobrimento de PVC mínimo de 250 g/m2; enchimento 100 % poliéster mínimo de 100 g/m2 e polar 100 % poliéster mínimo de 220 g/m2. No peito, do lado direito, aplicação em velcro para receber o distintivo e abaixo também em velcro, para colocação da placa de identificação, do lado esquerdo, colocado velcro para aplicação do emblema da AT, tendo na parte inferior a inscrição em letras maiúsculas «Alfândega ou Finanças», em branco prateado exibindo, nas costas, a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas «Alfândega ou Finanças» (fig. 19);\n\nb) Calças multibolsos de tecido de algodão azul-escuro, mínimo de 250 g/m2; reforço de tecido traseiro e joelhos; fecho central e botão, cós lateral elástico e cós traseiro subido, oito bolsos (fig. 20);\n\nc) Calções de tecido de algodão azul-escuro, com as demais características das calças referidas na alínea anterior (fig. 21);\n\nd) Polo de manga comprida, de malha de algodão piquet, mínimo de 200 g/m2, de cor azul-escura, fecho central com botões; gola e parte de baixo da manga em malha canelada, com uma risca verde e outra vermelha na gola e punhos, exibindo nas costas, a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas «Alfândega ou Finanças».\n\nNo peito, do lado direito, aplicação em velcro para receber o distintivo e abaixo também em velcro, para colocação da placa de identificação; do lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá. Nas mangas do lado esquerdo, aplicação em velcro para colocação, sobrepostos, dos emblemas das bandeiras da UE e PT (fig. 22);\n\ne) Polo de manga curta com as mesmas características do polo referido na alínea anterior, cujas mangas terminam acima dos cotovelos (fig. 23);\n\nf) Camisa de manga comprida, de algodão de cor azul-claro, mínimo de 160 g/m2, com costuras reforçadas; dois bolsos frontais com pala e botão; no peito, do lado direito, acima do bolso é aplicado velcro para colocação da placa de identificação. Nos ombros, platinas para colocação de passadeiras.\n\nDo lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá, tendo na parte inferior a inscrição em letras maiúsculas «Alfândega ou Finanças», em branco prateado;\n\nAplicação na manga esquerda de emblemas sobrepostos correspondentes às bandeiras oficiais da União Europeia e de Portugal, em têxtil bordado com as dimensões 4 cm x 3 cm e aplicação em velcro (fig. 24);\n\ng) Camisa de manga curta com as demais características da camisa de manga comprida (fig. 25);\n\nh) Camisola em malha azul-escura lisa, 100 % acrílico/galga 7, decote em bico; reforço nos ombros e cotovelos com tecido de gabardina da mesma cor; gola, cós e punhos canelados, apresentando uma risca verde e outra vermelha no decote e mangas.\n\nNo peito, do lado direito, é aplicado velcro para colocação da placa de identificação e nos ombros, platinas para colocação de passadeiras.\n\nDo lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá, tendo na parte inferior a inscrição em letras maiúsculas «Alfândega ou Finanças», em branco prateado (fig. 26);\n\ni) Blusão acolchoado impermeável em tecido de gabardina de algodão/terylene, de cor azul-escura, mínimo de 200 g/m2; forro poliéster mínimo 60g/m2; enchimento poliéster mínimo 140 g/m2; gola interna e cós de malha canelada da mesma cor; mangas lisas amovíveis, pregadas nos ombros com fecho de correr escondido sob cava ligeiramente sobreposta à manga, quatro bolsos de vivo com pala, sendo dois horizontais ao nível do peito e dois, ao nível da cintura; exibindo nas costas a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas «Alfândega ou Finanças», em branco prateado.\n\nNo peito, do lado direito, acima do bolso, aplicação em velcro para receber o distintivo e logo abaixo também em velcro, para colocação da placa de identificação; do lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá, tendo na parte inferior a inscrição «Alfândega ou Finanças», em branco prateado.\n\nNa manga esquerda, aplicação de emblemas sobrepostos correspondentes às bandeiras oficiais da União Europeia e de Portugal, em têxtil bordado com as dimensões 4 cm x 3 cm e aplicação em velcro (fig. 27);\n\nj) Barrete de tecido de algodão azul-escuro, com o distintivo da AT estampado a branco na parte da frente, pala redonda, entretelada e forrada em tecido da mesma cor e fivela de ajuste (fig. 28);\n\nk) Gorro térmico, de cor preta, em lã. A sigla «AT» bordada em fio prateado na parte frontal e a palavra «Alfândega/Finanças» bordada em fio prateado, na parte posterior (fig. 29);\n\nl) Botas de cabedal e nylon de cor preta, sem enfeites, com atacadores sem presilhas, com biqueiras e com rasto de borracha preta vulcanizada (fig. 30);\n\nm) Sapatos de cabedal e nylon, tipo ténis, de cor preta, com sola de borracha antiderrapante (fig. 31);\n\nn) Cinturão em velcro, com 0,06 m de largura, de cor azul-escura, com fivela de encaixe com segurança (fig. 32);\n\no) Gravata de segurança em poliéster, mínimo de 135 g/m2, de cor azul-marinho, com o mesmo padrão da gravata de cerimónia e com fecho em velcro (fig. 33).\n\n2 - Especificamente para uso nas atividades de investigação criminal, são criadas as seguintes peças:\n\na) Colete de identificação - Confecionado em tecido de polyester com tratamento teflon de cor azul-escura de abertura frontal com fecho de correr a todo o comprimento com acabamento em tira de tecido. No plano frontal com um bolso no canto superior esquerdo, reforçado nos seus limites, e dois bolsos retangulares com palas no plano inferior. Nas costas com dois bolsos retangulares com palas no plano inferior. Superiormente no peito do lado esquerdo com aplicação em velcro da mesma cor do tecido para aplicação de crachá. Nas costas em material refletor cinzento com a designação «Autoridade Tributária e Aduaneira» e «Investigação Criminal». Todo o colete tem nas cavas das mangas, na carcela junto ao fecho e no cós banda refletora cinzenta horizontal com 5 cm e 7 cm, respetivamente. Imediatamente por cima dos bolsos frontais e das costas tem igualmente banda refletora cinzenta com 5 cm. Lateralmente em baixo do lado direito o colete deverá ser ajustado através de tira em velcro ajustável horizontal com 18 cm (fig. 34);\n\nb) Blusão de duplo uso, em tecido de gabardina de algodão/terylene, mínimo de 200 g/m2, de cor azul-escura; decote, mangas lisas amovíveis, pregadas nos ombros com fecho de correr escondido sob cava ligeiramente sobreposta à manga. Um dos lados sem qualquer inscrição ou referência, o outro lado exibe nas costas a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas «Investigação Criminal», em branco prateado.\n\nNo peito, do lado direito, acima do bolso as bandeiras de Portugal e da União Europeia, do lado esquerdo emblema da AT (fig. 35).\n\n3 - Fazem ainda parte integrante do uniforme feminino, para serviços predominantemente operacionais, as peças previstas nos números anteriores, idênticas às do uniforme masculino com as devidas adaptações."
+  },
+  "203313760": {
+   "fragment_id": "203320637",
+   "type": 11,
+   "heading": "Artigo 8.º — Outras peças e equipamentos de proteção e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Outras peças e equipamentos de proteção e segurança\n\nSempre que o exercício das funções o exijam, poderão ainda ser fornecidos pelo serviço respetivo, para utilização dos seus trabalhadores, os seguintes artigos:\n\na) Fato-macaco antiestático, em sarja mínimo de 240 g/m2, multibolsos; fecho central com cursor duplo e oculto com pala central e fecho de velcro; cós elástico, punhos elásticos e costura de dupla segurança. No bolso do peito, do lado esquerdo, o distintivo da AT estampado, com as mesmas características do crachá, tendo na parte inferior a inscrição em letras maiúsculas «Alfândega ou Finanças», em branco prateado (fig. 36);\n\nb) Colete de alta visibilidade em poliéster, mínimo de 100 g/m2, de cor verde, decote em bico, com fecho central com velcro e faixas refletoras no torso, exibindo nas costas a inscrição «Autoridade Tributária e Aduaneira - Alfândega ou Finanças». No peito, do lado esquerdo, o distintivo da AT estampado, com as mesmas características do crachá, tendo na parte inferior a inscrição em letras maiúsculas «Alfândega ou Finanças», em branco prateado (fig. 37);\n\nc) Casaco «softshell» bicolor, verde e azul, de alta visibilidade, exterior poliéster mínimo de 300 g/m2, forro poliéster mínimo 130 g/m2. Fecho central estanque em cor de contraste; faixas refletoras no torso e mangas; vivo refletor na cava dianteira e traseira; cós ajustável com stopper; três bolsos de vivo com fecho estanque e dois bolsos interiores de remendo, exibindo nas costas a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas «Alfândega ou Finanças», em branco prateado.\n\nNo peito, do lado direito, aplicação em velcro para receber o distintivo e abaixo, também em velcro, para colocação da placa de identificação; do lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá.\n\nNa manga esquerda aplicação de emblemas sobrepostos correspondentes às bandeiras oficiais da União Europeia e de Portugal, em têxtil bordado com as dimensões 4 cm x 3 cm e aplicação em velcro (fig. 38);\n\nd) Calças, 100 % algodão, mínimo de 240 g/m2, bicolores, verde e azul, multibolsos de alta visibilidade. Fecho central e botão, faixas refletoras na parte inferior das pernas; contraste de cor nos foles, cordões e tecido entre as faixas refletoras (fig. 39);\n\ne) Parka bicolor, verde e azul, impermeável de alta visibilidade. Exterior poliéster com recobrimento de PU, mínimo de 200 g/m2, forro poliéster mínimo de 60 g/m2, enchimento poliéster mínimo de 160 g/m2. Fecho central, oculto com pala; faixas refletoras no torso e mangas, capuz oculto no interior da gola; punhos canelados; dois bolsos inferiores de remendo com pala e velcro, exibindo nas costas a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas «Alfândega ou Finanças», em branco prateado.\n\nNo peito, do lado direito, é aplicado velcro para colocação da placa de identificação. Do lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá, tendo na parte inferior a inscrição em letras maiúsculas «Alfândega ou Finanças» (fig. 40);\n\nf) Calças impermeáveis, bicolores, verde e azul, multibolsos de alta visibilidade, exterior poliéster com recobrimento de PU, mínimo de 200 g/m2. Fecho central e botão, faixas refletoras na parte inferior das pernas; contraste de cor nos foles, cordões e tecido entre as faixas refletoras (fig. 41);\n\ng) Botas de água de modelo tradicional, de borracha preta vulcanizada, forradas por dentro com malha de algodão, solas antiderrapantes; os canos não devem ultrapassar o nível dos joelhos (fig. 42);\n\nh) Botas de proteção com sola e biqueira de aço, de cor preta, forradas por dentro com malha de algodão, com solas antiderrapantes (fig. 43);\n\ni) Capacete de proteção, de cor branca, com o emblema da AT na parte frontal, em caso de utilização comum, devem ser fornecidas toucas descartáveis (fig. 44)."
+  },
+  "203313761": {
+   "fragment_id": "203320638",
+   "type": 1,
+   "heading": "Capítulo III — Artigos identificativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Artigos identificativos"
+  },
+  "203313762": {
+   "fragment_id": "203320639",
+   "type": 11,
+   "heading": "Artigo 9.º — Elementos de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Elementos de identificação\n\nOs trabalhadores da AT aos quais se aplica o presente Regulamento são ainda obrigados a usar os seguintes elementos de identificação:\n\na) Crachá-modelo já aprovado;\n\nb) Placa de identificação pessoal, com a dimensão de 8 cm x 2,5 cm, em polímero termo estampado, com alfinete, de fundo azul, com rebordo e letras gravadas de cor branca. Na placa em tecido aplicada sobre velcro, as características são as mesmas. Em ambos os tipos são gravados dois nomes da preferência dos próprios;\n\nc) Emblemas da bandeira da UE e Portugal, em têxtil bordado com as dimensões 5 cm x 3 cm e de aplicação em velcro;\n\nd) Distintivo da AT com as características do crachá, em têxtil bordado ou polímero termo estampado, cuja aplicação é feita através de velcro, tendo na parte inferior e de forma separada, a inscrição em letras maiúsculas «Alfândega ou Finanças», em branco prateado."
+  },
+  "203313763": {
+   "fragment_id": "203320640",
+   "type": 11,
+   "heading": "Artigo 10.º — Distintivos de cargo e categoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Distintivos de cargo e categoria\n\n1 - Os distintivos destinam-se a diferenciar os trabalhadores da AT, em função do cargo e carreira em que se integram, são usados nas mangas, nas passadeiras ou nas platinas dos uniformes, e compostos essencialmente por estrelas e galões.\n\n2 - As estrelas são a designação genérica dos distintivos dos cargos dirigentes.\n\nOs galões são a designação genérica dos distintivos dos cargos de chefia, gestão e inspeção tributária e aduaneira.\n\n3 - A sua especificação consta do anexo II ao presente Regulamento."
+  },
+  "203313764": {
+   "fragment_id": "203320641",
+   "type": 11,
+   "heading": "Artigo 11.º — Dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dirigentes\n\n1 - Direção superior de 1.º grau: composto por quatro estrelas de cinco pontas prateadas sobre fundo dourado.\n\n2 - Direção superior de 2.º grau: igual ao anterior, mas com três estrelas.\n\n3 - Direção intermédia de 1.º grau: igual ao anterior, mas com duas estrelas.\n\n4 - Direção intermédia de 2.º grau: igual ao anterior, mas com uma estrela."
+  },
+  "203313765": {
+   "fragment_id": "203320642",
+   "type": 11,
+   "heading": "Artigo 12.º — Chefias tributárias e aduaneiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Chefias tributárias e aduaneiras\n\n1 - Chefe de delegação aduaneira e chefe de serviço de finanças: constituído por quatro fitas de galão de fio de ouro sobre fundo em tecido preto e uma estrela de cinco pontas de prata dourada.\n\n2 - Chefe de serviço de finanças adjunto: igual ao anterior, mas com três fitas de galão."
+  },
+  "203313766": {
+   "fragment_id": "203320643",
+   "type": 11,
+   "heading": "Artigo 13.º — Inspetores e gestores tributários e aduaneiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Inspetores e gestores tributários e aduaneiros\n\n1 - Inspetor tributário e aduaneiro: constituído por duas fitas de galão de fio de ouro sobre fundo em tecido preto, e uma estrela de cinco pontas de prata dourada.\n\n2 - Gestor tributário e aduaneiro: igual ao anterior."
+  },
+  "203313767": {
+   "fragment_id": "203320644",
+   "type": 11,
+   "heading": "Artigo 14.º — Carreiras subsistentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Carreiras subsistentes\n\nÁrea tributária e área aduaneira: constituído por uma fita de galão de fio de ouro sobre fundo em tecido preto, e uma estrela de cinco pontas de prata dourada."
+  },
+  "203313768": {
+   "fragment_id": "203320645",
+   "type": 11,
+   "heading": "Artigo 15.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Colocação\n\n1 - Os distintivos referidos nos números anteriores usam-se da seguinte forma:\n\na) Quando colocados nos ombros, são fixados em platinas e passadeiras de fundo preto;\n\nb) Quando aplicados no peito, unicamente do lado direito, o distintivo tem a forma retangular e é colocado horizontalmente, com a mesma orientação da platina e passadeira do ombro direito, fixado ao vestuário através de velcro;\n\nc) Nas mangas do casaco.\n\n2 - As passadeiras e velcros são de tecido de feltro da cor preta, com 5 cm de largura e 9 cm de comprimento."
+  },
+  "203313769": {
+   "fragment_id": "203320646",
+   "type": 11,
+   "heading": "Artigo 16.º — Distintivo do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Distintivo do serviço\n\n1 - Os trabalhadores aos quais é aplicável o presente Regulamento são ainda obrigados a usar crachá ou o distintivo da AT.\n\n2 - O crachá é usado no casaco, devendo ser colocado no peito, no lado superior esquerdo.\n\n3 - Nas restantes peças, será aplicado o distintivo da AT, reprodução em polímero do crachá, no peito no lado superior esquerdo, através de velcro."
+  },
+  "203313770": {
+   "fragment_id": "203320647",
+   "type": 11,
+   "heading": "Artigo 17.º — Distribuição e duração do uniforme e equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Distribuição e duração do uniforme e equipamento\n\n1 - A dotação e duração das peças integrantes dos uniformes são as constantes do mapa que consta como anexo III ao presente Regulamento, sendo a sua distribuição da responsabilidade e a expensas da AT.\n\n2 - O modelo de uniforme de cerimónia é distribuído individualmente, por despacho do diretor-geral da AT, em função da missão ou atividade do trabalhador e considerando o interesse da instituição.\n\n3 - O modelo de uniforme de atividade operacional é distribuído individualmente ao trabalhador, sempre que se encontre no exercício de funções em que o uso de uniforme seja de caráter obrigatório, conforme disposto no artigo 2.º do presente Regulamento.\n\n4 - Nos serviços onde o uniforme não seja utilizado com caráter permanente, a duração das suas peças integrantes será prolongada por um período correspondente a mais 50 % dos prazos fixados no mapa referido no número anterior.\n\n5 - Em casos excecionais, devidamente justificados, os períodos de duração fixados no mapa a que se refere o n.º 1 do presente artigo poderão ser reduzidos até 50 %, mediante despacho do diretor-geral da AT.\n\n6 - Deverá ser possibilitada a cada trabalhador a quem foi distribuído uniforme, a aquisição a expensas próprias, e mediante requisição dirigida ao serviço responsável pela gestão dos uniformes, de maior quantidade de peças do que as que lhe cabe por dotação inicial.\n\n7 - A renovação, total ou parcial, do uniforme, no período de duração fixado no mapa que consta do anexo III, é da responsabilidade do trabalhador sempre que não se encontre em condições de apresentação e utilização, exceto se tal resultar de situação de caso fortuito ou de força maior ou acidente, ocorrido no exercício das funções ou por causa destas, sempre mediante confirmação do respetivo superior hierárquico.\n\n8 - Verificando-se alguma das situações previstas no número anterior, deve o trabalhador comunicá-la imediatamente ao respetivo superior hierárquico, que, uma vez confirmada, providenciará a requisição das peças a renovar."
+  },
+  "203313771": {
+   "fragment_id": "203320648",
+   "type": 11,
+   "heading": "Artigo 18.º — Situações omissas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Situações omissas\n\nAs situações omissas serão objeto de despacho do diretor-geral da AT."
+  },
+  "203313772": {
+   "fragment_id": "203320649",
+   "type": 14,
+   "heading": "Anexo I — Representação gráfica das peças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Representação gráfica das peças\n\n(ver documento original)"
+  },
+  "203313773": {
+   "fragment_id": "203320650",
+   "type": 14,
+   "heading": "Anexo II — Distintivos Hierárquicos da AT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Distintivos Hierárquicos da AT\n\n(ver documento original)"
+  },
+  "203313774": {
+   "fragment_id": "203320651",
+   "type": 14,
+   "heading": "Anexo III — Mapa de dotação e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Mapa de dotação e duração\n\n(ver documento original)\n\n115850797"
+  },
+  "203313749": {
+   "fragment_id": "203320626",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, António Manuel Veiga dos Santos Mendonça Mendes, em 4 de novembro de 2022."
+  },
+  "900969845": {
+   "fragment_id": "203320634",
+   "type": 11,
+   "heading": "Artigo 5.º — Uniforme de cerimónia masculino",
+   "in_force_from": "2024-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 351/2024/1 - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/351-2024-901014290), em vigor a partir de 2024-12-24"
+   ],
+   "markdown": "###### Artigo 5.º — Uniforme de cerimónia masculino\n\n1 - O uniforme masculino é constituído pelas seguintes peças:\n\na) Casaco confecionado em tecido de aproximadamente 178 g/m2, com a composição de 54 % poliéster, de 44 % lã e 2 % de elastano, na cor azul-escura, corte de blazer (trespasse) com seis botões grandes metálicos dourados na parte da frente, e quatro pequenos em cada manga, com o emblema da AT gravado; abotoa com dois botões e com forro de cetim preto. Bolso de peito esquerdo. Nas mangas tem canhões a direito, sobrepostos. Tem túneis nos ombros para colocação de platinas (fig. 1);\n\nb) Calças do mesmo tecido e cor do casaco; vincadas; uma prega à frente; cós com passadeiras; quatro bolsos interiores sendo dois Oxford na parte da frente e dois com botão na parte de trás; braguilha frontal com fecho de correr sob carcela (fig. 2);\n\nc) Camisa de manga comprida, de algodão branco, mínimo de 140 g/m2, lisa, colarinho convencional com pesponto, com punhos a abotoar com botões e aperta à frente com botões (fig. 3);\n\nd) Gravata confecionada em seda, fundo azul-marinho, de feitio corrente, com duas riscas azuis céu colocadas obliquamente na parte inferior, com a largura de 2 mm e 4 mm, distanciadas 2 mm, distintivo da AT em miniatura, ao centro na parte superior (fig. 4);\n\ne) Gabardine em tecido impermeável, da mesma cor do casaco; forro azul; nos ombros, platinas para colocar passadeiras (fig. 5);\n\nf) Cinto e precinta de algodão preto, com 0,03 m de largura, rematado nos dois extremos por caixas de latão dourado; fivela de latão dourado, que exibe, em relevo, o distintivo da AT (fig. 6);\n\ng) Boné do mesmo tecido e cor do casaco; pala forrada; francalete constituído por dois cordões de ouro de 0,004 m de diâmetro em requife de fieira dobrado e tecido; dois botões dourados planos com o escudo nacional gravado, distintivo da AT colocado à frente nas suas cores originais, azul sobre prateado (fig. 7);\n\nh) Sapatos pretos de cabedal, solas de couro, com biqueira, sem enfeites, com ilhós e atacadores pretos (fig. 8).\n\n2 - Com o uniforme masculino só podem ser usadas peúgas de cor preta, lisas e sem enfeites.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 351/2024/1 - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/351-2024-901014290), em vigor a partir de 2024-12-24"
+  },
+  "900969846": {
+   "fragment_id": "203320635",
+   "type": 11,
+   "heading": "Artigo 6.º — Uniforme de cerimónia feminino",
+   "in_force_from": "2024-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 351/2024/1 - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/351-2024-901014290), em vigor a partir de 2024-12-24"
+   ],
+   "markdown": "###### Artigo 6.º — Uniforme de cerimónia feminino\n\n1 - O uniforme feminino é constituído pelas seguintes peças:\n\na) Casaco confecionado em tecido igual ao referido na alínea a) do n.º 1 do artigo 5.º, segue o modelo masculino, sendo mais cintado (fig. 9);\n\nb) Saia do mesmo tecido e cor do casaco, forrada, cós com passadeiras, corte direito, com abertura na traseira sobreposta, com fecho de correr e pinças de ajustamento; a altura será pelo joelho (fig. 10);\n\nc) Calças do mesmo tecido e cor do casaco, vincadas, cós com passadeiras, uma prega à frente, uma de cada lado, e duas pinças de ajuste atrás, dois bolsos Oxford à frente e um bolso interior e botão na parte de trás; braguilha frontal com fecho de correr sob carcela (fig. 11);\n\nd) Camisa de manga comprida, de algodão branco, mínimo de 140 g/m2, ligeiramente cintada, duas pinças na frente e duas nas costas, carcela com botões no centro da frente, punhos com dois botões; os botões são lisos, da mesma cor do tecido (fig. 12);\n\ne) Lenço quadrangular de 0,90 m/0,90 m, da cor azul, em seda, estampado, com distintivos da AT (fig. 13);\n\nf) Gravata em seda azul-escura, com as mesmas características do uniforme masculino;\n\ng) Gabardine em tecido impermeável, da mesma cor do casaco; forro azul; nos ombros, platinas para colocação de passadeiras (fig. 14);\n\nh) Cinto com as características do uniforme masculino;\n\ni) Chapéu em tecido de feltro, da mesma cor do casaco (fig. 15);\n\nj) Sapatos pretos de calfe, costuras nos calcanhares sem tiras de reforço, sem enfeites, solas de couro e saltos com altura média (fig. 16).\n\n2 - Durante o período pré-natal, as grávidas poderão utilizar as seguintes peças, quando necessário:\n\na) Túnica pré-natal, confecionada em algodão, mínimo de 140 g/m2, de cor branca, de manga comprida ou curta, colarinho e abertura apenas com três botões e um macho a partir dessa abertura (fig. 17);\n\nb) Calças idênticas às referidas na alínea c) do n.º 1, com as devidas adaptações;\n\nc) Vestido pré-natal, confecionado em tecido igual ao referido na alínea a) do n.º 1 do artigo 5.º, na cor azul-escuro, com decote e cavas debruadas e encaixe à frente donde nasce um macho e com platinas nos ombros para passadeiras (fig. 18).\n\n3 - Com o uniforme feminino só podem ser usados collants lisos, de cor bege, de feitio corrente e sem enfeites.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 351/2024/1 - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/351-2024-901014290), em vigor a partir de 2024-12-24"
+  },
+  "900969847": {
+   "fragment_id": "203320636",
+   "type": 11,
+   "heading": "Artigo 7.º — Uniforme de atividade operacional",
+   "in_force_from": "2024-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 351/2024/1 - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/351-2024-901014290), em vigor a partir de 2024-12-24"
+   ],
+   "markdown": "###### Artigo 7.º — Uniforme de atividade operacional\n\n1 - Para serviços, atividades ou funções predominantemente operacionais, integram o uniforme masculino as seguintes peças:\n\na) Parka de tecido impermeável com características de segurança e proteção, de cor azul-escura, de talhe folgado, com fecho central até à gola, oculto com pala. Capuz oculto no interior da gola. Punhos interiores canelados. Dois bolsos interiores de vivo com fecho. Exterior 100 % poliéster com recobrimento de PVC mínimo de 250 g/m2; enchimento 100 % poliéster mínimo de 100 g/m2 e polar 100 % poliéster mínimo de 220 g/m2. No peito, do lado direito, aplicação em velcro para receber o distintivo e abaixo também em velcro, para colocação da placa de identificação, do lado esquerdo, colocado velcro para aplicação do emblema da AT, tendo na parte inferior a inscrição em letras maiúsculas ‘Alfândega ou Finanças’, em branco prateado exibindo, nas costas, a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas ‘Alfândega ou Finanças’. Nas mangas do lado esquerdo, aplicação em velcro para colocação, sobrepostos, dos emblemas das bandeiras da UE e PT (fig. 19);\n\nb) Calças multibolsos de tecido de algodão azul-escuro, mínimo de 250 g/m2; reforço de tecido traseiro e joelhos; fecho central e botão, cós lateral elástico e cós traseiro subido, oito bolsos (fig. 20);\n\nc) Calções de tecido de algodão azul-escuro, com as demais características das calças referidas na alínea anterior (fig. 21);\n\nd) Polo de manga comprida, de malha de algodão piquet, mínimo de 200 g/m2, de cor azul-escura, fecho central com botões; gola e parte de baixo da manga em malha canelada, com uma risca verde e outra vermelha na gola e punhos, exibindo nas costas, a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas «Alfândega ou Finanças».\n\nNo peito, do lado direito, aplicação em velcro para receber o distintivo e abaixo também em velcro, para colocação da placa de identificação; do lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá. Nas mangas do lado esquerdo, aplicação em velcro para colocação, sobrepostos, dos emblemas das bandeiras da UE e PT (fig. 22);\n\ne) Polo de manga curta com as mesmas características do polo referido na alínea anterior, cujas mangas terminam acima dos cotovelos (fig. 23);\n\nf) Camisa de manga comprida, de algodão de cor azul-claro, mínimo de 160 g/m2, com costuras reforçadas; dois bolsos frontais com pala e botão; no peito, do lado direito, acima do bolso é aplicado velcro para colocação da placa de identificação. Nos ombros, platinas para colocação de passadeiras.\n\nDo lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá, tendo na parte inferior a inscrição em letras maiúsculas «Alfândega ou Finanças», em branco prateado;\n\nAplicação na manga esquerda de emblemas sobrepostos correspondentes às bandeiras oficiais da União Europeia e de Portugal, em têxtil bordado com as dimensões 4 cm x 3 cm e aplicação em velcro (fig. 24);\n\ng) Camisa de manga curta com as demais características da camisa de manga comprida (fig. 25);\n\nh) Camisola em tecido com composição aproximada de 50 % acrílico e 50 % lã jogo 12, decote em bico; reforço nos ombros e cotovelos com tecido de gabardina da mesma cor; gola, cós e punhos canelados, apresentando uma risca verde e outra vermelha no decote e mangas.\n\nNo peito, do lado direito, é aplicado velcro para colocação da placa de identificação e nos ombros, platinas para colocação de passadeiras.\n\nDo lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá, tendo na parte inferior a inscrição em letras maiúsculas ‘Alfândega ou Finanças’, em branco prateado (fig. 26);\n\ni) Blusão acolchoado impermeável em tecido de aproximadamente 150 gr/m2, com a composição de 40 % poliéster e 60 % algodão; gola interna e cós de malha canelada da mesma cor; mangas lisas amovíveis, pregadas nos ombros com fecho de correr escondido sob cava ligeiramente sobreposta à manga, quatro bolsos de vivo com pala, sendo dois horizontais ao nível do peito e dois, ao nível da cintura e 2 sub-bolsos, por baixo dos bolsos ao nível da cintura; exibindo nas costas a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas ‘Alfândega ou Finanças’, em branco prateado.\n\nNo peito, do lado direito, acima do bolso, aplicação em velcro para receber o distintivo e logo abaixo também em velcro, para colocação da placa de identificação; do lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá, tendo na parte inferior a inscrição ‘Alfândega ou Finanças’, em branco prateado.\n\nNa manga esquerda, aplicação de emblemas sobrepostos correspondentes às bandeiras oficiais da União Europeia e de Portugal, em têxtil bordado com as dimensões 4 cm × 3 cm e aplicação em velcro (fig. 27);\n\nj) Barrete de tecido de algodão azul-escuro, com o distintivo da AT estampado a branco na parte da frente, pala redonda, entretelada e forrada em tecido da mesma cor e fivela de ajuste (fig. 28);\n\nk) Gorro térmico, de cor preta, em lã. A sigla «AT» bordada em fio prateado na parte frontal e a palavra «Alfândega/Finanças» bordada em fio prateado, na parte posterior (fig. 29);\n\nl) Botas de cabedal e nylon de cor preta, sem enfeites, com atacadores sem presilhas, com biqueiras e com rasto de borracha preta vulcanizada (fig. 30);\n\nm) Sapatos de cabedal e nylon, tipo ténis, de cor preta, com sola de borracha antiderrapante (fig. 31);\n\nn) Cinturão em velcro, com 0,06 m de largura, de cor azul-escura, com fivela de encaixe com segurança (fig. 32);\n\no) Gravata de segurança em poliéster, mínimo de 135 g/m2, de cor azul-marinho, com o mesmo padrão da gravata de cerimónia e com fecho em velcro (fig. 33).\n\n2 - Especificamente para uso nas atividades de investigação criminal, são criadas as seguintes peças:\n\na) Colete de identificação - Confecionado em tecido de polyester com tratamento teflon de cor azul-escura de abertura frontal com fecho de correr a todo o comprimento com acabamento em tira de tecido. No plano frontal com um bolso no canto superior esquerdo, reforçado nos seus limites, e dois bolsos retangulares com palas no plano inferior. Nas costas com dois bolsos retangulares com palas no plano inferior. Superiormente no peito do lado esquerdo com aplicação em velcro da mesma cor do tecido para aplicação de crachá. Nas costas em material refletor cinzento com a designação «Autoridade Tributária e Aduaneira» e «Investigação Criminal». Todo o colete tem nas cavas das mangas, na carcela junto ao fecho e no cós banda refletora cinzenta horizontal com 5 cm e 7 cm, respetivamente. Imediatamente por cima dos bolsos frontais e das costas tem igualmente banda refletora cinzenta com 5 cm. Lateralmente em baixo do lado direito o colete deverá ser ajustado através de tira em velcro ajustável horizontal com 18 cm (fig. 34);\n\nb) Blusão de duplo uso, em tecido de gabardina de algodão/terylene, mínimo de 200 g/m2, de cor azul-escura; decote, mangas lisas amovíveis, pregadas nos ombros com fecho de correr escondido sob cava ligeiramente sobreposta à manga. Um dos lados sem qualquer inscrição ou referência, o outro lado exibe nas costas a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas «Investigação Criminal», em branco prateado.\n\nNo peito, do lado direito, acima do bolso as bandeiras de Portugal e da União Europeia, do lado esquerdo emblema da AT (fig. 35).\n\n3 - Fazem ainda parte integrante do uniforme feminino, para serviços predominantemente operacionais, as peças previstas nos números anteriores, idênticas às do uniforme masculino com as devidas adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 351/2024/1 - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/351-2024-901014290), em vigor a partir de 2024-12-24"
+  },
+  "900969848": {
+   "fragment_id": "203320637",
+   "type": 11,
+   "heading": "Artigo 8.º — Outras peças e equipamentos de proteção e segurança",
+   "in_force_from": "2024-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 351/2024/1 - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/351-2024-901014290), em vigor a partir de 2024-12-24"
+   ],
+   "markdown": "###### Artigo 8.º — Outras peças e equipamentos de proteção e segurança\n\nSempre que o exercício das funções o exijam, poderão ainda ser fornecidos pelo serviço respetivo, para utilização dos seus trabalhadores, os seguintes artigos:\n\na) Fato-macaco antiestático, em sarja mínimo de 240 g/m2, multibolsos; fecho central com cursor duplo e oculto com pala central e fecho de velcro; cós elástico, punhos elásticos e costura de dupla segurança. No bolso do peito, do lado esquerdo, o distintivo da AT estampado, com as mesmas características do crachá, tendo na parte inferior a inscrição em letras maiúsculas «Alfândega ou Finanças», em branco prateado (fig. 36);\n\nb) Colete de alta visibilidade em poliéster (EN 20471), mínimo de 100 g/m2, de cor amarela, decote em bico, com fecho central com velcro e faixas refletoras no torso, exibindo nas costas a inscrição ‘Autoridade Tributária e Aduaneira - Alfândega ou Finanças’. No peito, do lado esquerdo, o distintivo da AT estampado, com as mesmas características do crachá, tendo na parte inferior a inscrição em letras maiúsculas ‘Alfândega ou Finanças’, em branco prateado (fig. 37);\n\nc) Casaco softshell bicolor, amarelo e azul, de alta visibilidade (EN 20471), exterior poliéster mínimo de 300 g/m2, forro poliéster mínimo 130 g/m2. Fecho central estanque em cor de contraste; faixas refletoras no torso e mangas; vivo refletor na cava dianteira e traseira; cós ajustável com stopper; três bolsos de vivo com fecho estanque e dois bolsos interiores de remendo, exibindo nas costas a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas ‘Alfândega ou Finanças’, em branco prateado.\n\nNo peito, do lado direito, aplicação em velcro para receber o distintivo e abaixo, também em velcro, para colocação da placa de identificação; do lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá.\n\nNa manga esquerda aplicação de emblemas sobrepostos correspondentes às bandeiras oficiais da União Europeia e de Portugal, em têxtil bordado com as dimensões 4 cm × 3 cm e aplicação em velcro (fig. 38);\n\nd) Calças, 100 % algodão, mínimo de 240 g/m2, bicolores, amarelo e azul, multibolsos de alta visibilidade (EN 20471). Fecho central e botão, faixas refletoras na parte inferior das pernas; contraste de cor nos foles, cordões e tecido entre as faixas refletoras (fig. 39);\n\ne) Parka bicolor, amarelo e azul, impermeável (EN 343) de alta visibilidade (EN 20471). Fecho central, oculto com pala; faixas refletoras no torso e mangas, capuz oculto no interior da gola; punhos canelados; dois bolsos inferiores de remendo com pala e velcro, exibindo nas costas a inscrição Autoridade Tributária e Aduaneira e em letras maiúsculas ‘Alfândega ou Finanças’, em branco prateado.\n\nNo peito, do lado direito, é aplicado velcro para colocação da placa de identificação. Do lado esquerdo, colocado velcro para aplicação do emblema da AT, com as características do crachá, tendo na parte inferior a inscrição em letras maiúsculas ‘Alfândega ou Finanças’ (fig. 40);\n\nf) Calças impermeáveis (EN 343), bicolores, amarelo e azul, multibolsos de alta visibilidade (EN 20471). Fecho central e botão, faixas refletoras na parte inferior das pernas; contraste de cor nos foles, cordões e tecido entre as faixas refletoras (fig. 41);\n\ng) Botas de água de modelo tradicional, de borracha preta vulcanizada, forradas por dentro com malha de algodão, solas antiderrapantes; os canos não devem ultrapassar o nível dos joelhos (fig. 42);\n\nh) Botas de proteção com sola e biqueira de aço, de cor preta, forradas por dentro com malha de algodão, com solas antiderrapantes (fig. 43);\n\ni) Capacete de proteção, de cor branca, com o emblema da AT na parte frontal, em caso de utilização comum, devem ser fornecidas toucas descartáveis (fig. 44).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 351/2024/1 - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/351-2024-901014290), em vigor a partir de 2024-12-24"
+  },
+  "900969849": {
+   "fragment_id": "203320649",
+   "type": 14,
+   "heading": "Anexo I — Representação gráfica das peças",
+   "in_force_from": "2024-12-24",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 351/2024/1 - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/351-2024-901014290), em vigor a partir de 2024-12-24"
+   ],
+   "markdown": "## Anexo I — Representação gráfica das peças\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014290/901016181.png)\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014290/901016182.png)\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014290/901016183.png)\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014290/901016184.png)\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014290/901016185.png)\n\n![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/901014290/901016186.png)\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 351/2024/1 - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/portaria/351-2024-901014290), em vigor a partir de 2024-12-24"
+  },
+  "900969850": {
+   "fragment_id": "203320650",
+   "type": 14,
+   "heading": "Anexo II — Distintivos Hierárquicos da AT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Distintivos Hierárquicos da AT\n\n<img src=\"https://files.diariodarepublica.pt/images/901014290/901016187.png\" alt=\"A imagem não se encontra disponível.\">"
+  },
+  "900969851": {
+   "fragment_id": "203320651",
+   "type": 14,
+   "heading": "Anexo III — Mapa de dotação e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Mapa de dotação e duração\n\n|  | Quantidade | Duração (anos) |\n| --- | --- | --- |\n| Peças do uniforme (artigos 5.º e 6.º) |  |  |\n| Casaco/homem e mulher | 1 | 4 |\n| Calças/homem e mulher | 2 | 2 |\n| Saia | 2 | 2 |\n| Camisa de manga comprida/homem e mulher | 2 | 2 |\n| Gabardine | 1 | 4 |\n| Gravata | 2 | 4 |\n| Boné | 1 | 5 |\n| Cinto | 1 | 4 |\n| Chapéu | 1 | 5 |\n| Lenço | 1 | 4 |\n| Sapatos | 1 | 4 |\n| Parka impermeável | 1 | 4 |\n| Calças multibolsos | 2 | 2 |\n| Calções | 1 | 3 |\n| Polo de mangas compridas | 2 | 2 |\n| Polo de mangas curtas | 2 | 2 |\n| Camisa de manga comprida/homem e mulher | 4 | 2 |\n| Camisa de manga curta/homem e mulher | 4 | 2 |\n| Camisola de malha/homem e mulher | 1 | 3 |\n| Blusão/colete acolchoado | 1 | 4 |\n| Barrete pala | 1 | 4 |\n| Botas cabedal e nylon | 2 | 4 |\n| Sapatos tipo ténis | 1 | 4 |\n| Cinturão | 1 | 4 |\n| Gorro térmico | 1 | 4 |\n| Gravata de segurança | 2 | 4 |\n| Blusão de duplo uso - investigação criminal | 1 | 4 |\n| Colete de identificação - investigação criminal | 1 | 4 |\n| Conjunto dos elementos de identificação e distintivos (artigos 9.º e 10.º a 14.º) | 3 | 4 |\n| Peças e equipamentos de proteção e segurança (artigo 8.º) Fato-macaco | 1 | 4 |\n| Parka bicolor impermeável | 1 | 4 |\n| Calças bicolores impermeáveis | 1 | 4 |\n| Casaco softshell bicolor | 1 | 4 |\n| Calças de algodão bicolores | 1 | 4 |\n| Colete de alta visibilidade | 1 | 3 |\n| Botas de água | 1 | 5 |\n| Botas com sola e biqueira de aço | 1 | 5 |\n| Capacete de proteção | 1 | 5 |"
+  }
+ }
+}

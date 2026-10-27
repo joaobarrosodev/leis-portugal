@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:1078476427:por
+title: Declaração de Retificação n.º 250/2026/2
+short_title: null
+summary: Retificação do Aviso n.º 5836/2026/2, de 16 de março, publicado no Diário da República, consolidação de mobilidades
+  na categoria e intercarreiras, celebração e cessação de contratos de trabalho com vários trabalhadores de junho de 2025
+  a janeiro de 2026.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Torres Vedras
+proposing_entity: null
+official_number: 250/2026/2
+official_date: null
+publication_date: '2026-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/2026, Série II de 2026-03-27
+  number: '61'
+  series: II
+  supplement: null
+  pages: 736 - 738
+  pdf_url: https://files.diariodarepublica.pt/2s/2026/03/061000000/0073600738.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1078476427'
+  dre_path: /dr/detalhe/declaracao-retificacao/250-2026-1078476427
+  internal: pt:dre:1078476427:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/250-2026-1078476427
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/250-2026-1078476427
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:03:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c23abf2968131bb793b6570d62e85b12516282b42da12d56f2c479818a68d338
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:03:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:1072578767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:03:23Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 250/2026/2
+
+Na sequência da publicação do [Aviso n.º 5836/2026/2](https://diariodarepublica.pt/dr/detalhe/aviso/5836-2026-1072578767) no Diário da República, n.º 52, de 16 de março de 2026, referente a consolidação de mobilidades na categoria, intercategorias e intercarreiras, celebração e cessação de contratos de trabalho com vários trabalhadores de junho de 2025 a janeiro de 2026, publica-se o seguinte aviso retificativo:
+
+Onde se lê:
+
+«Para cumprimento do disposto na alínea b) do n.º 1, do artigo 4.º, da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, e nos termos dos n.os3 a 5, do artigo 99.º e 99.º-A da referida Lei, [...] por despacho do signatário [...] com efeitos a 1 de novembro de 2025.»
+
+deve ler-se:
+
+«Para cumprimento do disposto na alínea b) do n.º 1 do artigo 4.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, e nos termos dos n.os3 a 5 do artigo 99.º e do artigo 99.º-A da referida lei, [...] por despacho do vereador cessante Nelson Aniceto [...] com efeitos a 1 de novembro de 2025 e por despacho do signatário: Sara Eloísa Teles Serzedelo do Nascimento Silva, na 2.ª posição remuneratória, no nível remuneratório 8, da categoria de fiscal da mesma carreira, com efeitos a 1 de janeiro de 2026.»
+
+Onde se lê:
+
+«Para cumprimento do disposto na alínea b), do n.º 1, do artigo 4.º e do artigo 99.º-A da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, torna-se público que foram consolidadas definitivamente as mobilidades, por despacho do signatário, dos/das seguintes trabalhadores/as:
+
+Intercategorias: Hélder Paulo Antunes Bernardes, na 1.ª posição remuneratória, do nível remuneratório 12, da categoria de encarregado geral operacional da carreira de assistente operacional, com efeitos 1 de outubro de 2025; Maria Teresa Santos Dias, na 1.ª posição remuneratória, do nível remuneratório 8, da categoria de encarregado operacional da carreira de assistente operacional, com efeitos 1 de dezembro de 2025 e Ivan Francisco Gonçalves D’Alevada, na 1.ª posição remuneratória, do nível remuneratório 8, da categoria de encarregado operacional da carreira de assistente operacional, com efeitos 1 de outubro de 2025
+
+Intercarreiras: Ana Teresa dos Santos Cruz Morais Reis, na 1.ª posição remuneratória, no nível remuneratório 7, da categoria de assistente técnico da mesma carreira, com efeitos a 1 de junho de 2025; Clarisse Duarte Oliveira Grileiro, Adriana Catarina Santos Franco e Silvia Susana Santos Antunes Caseirito, na 1.ª posição remuneratória, no nível remuneratório 7, da categoria de assistente técnico da mesma carreira, com efeitos a 1 de dezembro de 2025; Nélia de Fátima Rocha Ferreira, na 1.ª posição remuneratória, no nível remuneratório 16, da categoria de técnica superior da mesma carreira, com efeitos a 1 de dezembro de 2025 e Paula Isabel Santos Rodrigues, na 3.ª posição remuneratória, no nível remuneratório 9, da categoria de assistente técnico da mesma carreira, com efeitos a 1 de dezembro de 2025; Sara Eloísa Teles Serzedelo do Nascimento Silva, na 2.ª posição remuneratória, no nível remuneratório 8, da categoria de fiscal da mesma carreira, com efeitos a 1 de janeiro de 2026.»
+
+deve ler-se:
+
+«Para cumprimento do disposto na alínea b) do n.º 1 do artigo 4.º e do artigo 99.º-A da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, torna-se público que foram consolidadas definitivamente as mobilidades:
+
+Intercategorias, por despacho do signatário, Maria Teresa Santos Dias, na 1.ª posição remuneratória, do nível remuneratório 8, da categoria de encarregado operacional da carreira de assistente operacional, com efeitos a 1 de dezembro de 2025;
+
+Intercategorias, por despacho do vereador cessante Nelson Aniceto: Hélder Paulo Antunes Bernardes, na 1.ª posição remuneratória, do nível remuneratório 12, da categoria de encarregado geral operacional da carreira de assistente operacional, com efeitos 1 de outubro de 2025, e Ivan Francisco Gonçalves d’Alevada, na 1.ª posição remuneratória, do nível remuneratório 8, da categoria de encarregado operacional da carreira de assistente operacional, com efeitos a 1 de outubro de 2025.
+
+Intercarreiras, por despacho do signatário, Clarisse Duarte Oliveira Grileiro, Adriana Catarina Santos Franco e Sílvia Susana Santos Antunes Caseirito, na 1.ª posição remuneratória, no nível remuneratório 7, da categoria de assistente técnico da mesma carreira; Nélia de Fátima Rocha Ferreira, na 1.ª posição remuneratória, no nível remuneratório 16, da categoria de técnica superior da mesma carreira, e Paula Isabel Santos Rodrigues, na 3.ª posição remuneratória, no nível remuneratório 9, da categoria de assistente técnico da mesma carreira, com efeitos a 1 de dezembro de 2025.
+
+Intercarreiras, por despacho do vereador cessante Nelson Aniceto: Ana Teresa dos Santos Cruz Morais Reis, na 1.ª posição remuneratória, no nível remuneratório 7, da categoria de assistente técnico da mesma carreira, e Filipa Daniela Lopes Marcelino, na 1.ª posição remuneratória, no nível remuneratório 16, da categoria de técnica superior da mesma carreira, com efeitos a 1 de junho de 2025.»
+
+Onde se lê:
+
+Para cumprimento do disposto na alínea b) do n.º 1, do artigo 4.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, torna-se público que, foram celebrados contratos de trabalho em funções públicas por tempo indeterminado, com os/as seguintes trabalhadores/as: Telmo de Sousa Félix, na 1.ª posição remuneratória, no nível remuneratório 16, da categoria de técnico superior da mesma carreira, com efeitos a 30 de julho de 2025; Carmen Sofia Moreira Quaresma, no nível remuneratório 36, da categoria de técnico superior da mesma carreira, com efeitos a 25 de outubro de 2025; Madalena [...] Miranda, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 10 de setembro de 2025; [...], com efeitos a 5 de janeiro de 2026; Sara Lopes Pereira, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 1 de setembro de 2025.»
+
+deve ler-se:
+
+«Para cumprimento do disposto na alínea b) do n.º 1 do artigo 4.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, torna-se público que foram celebrados contratos de trabalho em funções públicas por tempo indeterminado com os/as seguintes trabalhadores/as: Madalena [...] Miranda e Elena Meteciuc, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 10 de setembro de 2025; [...], com efeitos a 5 de janeiro de 2026.»
+
+Onde se lê:
+
+«Em cumprimento da alínea d) do n.º 1, do artigo 4.º, da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, torna-se público que, cessaram as relações jurídicas de emprego público, dos/das seguintes trabalhadores/as, pelos seguintes motivos:
+
+Por aposentação, Amílcar [...], com efeitos a 1 de julho de 2025.
+
+Por cessação do contrato de trabalho em funções públicas por tempo indeterminado, Sónia Margarida Cunha Barreira, na 2.ª posição remuneratória, no nível remuneratório 21, da categoria de técnica superior da mesma carreira, com efeitos a 1 de junho de 2025; Madalena Vieira da Fonseca, na 1.ª posição remuneratória, no nível remuneratório 16, da categoria de técnica superior da mesma carreira, com efeitos a 1 de agosto de 2025; Raquel da Costa Nunes Lopes, no nível remuneratório 24, da categoria de técnica superior da mesma carreira, com efeitos a 1 de agosto de 2025; Eduardo Jorge Ferreira Rocha Pontes, na 1.ª posição remuneratória, no nível remuneratório 16, da categoria de técnico superior da mesma carreira, com efeitos a 20 de janeiro de 2026; Helena Cristina Antunes do Carmo, na 4.ª posição remuneratória, no nível remuneratório 10, da categoria de assistente técnica da mesma carreira, com efeitos a 11 de junho de 2025; Ana Cláudia Pereira Correia Martins, na 1.ª posição remuneratória, no nível remuneratório 7, da categoria de assistente técnica da mesma carreira, com efeitos a 1 de julho de 2025; Rute Pereira Monteiro Lopes de Oliveira, na 1.ª posição remuneratória, no nível remuneratório 7, da categoria de assistente técnica da mesma carreira, com efeitos a 30 de junho de 2025; Teresa Maria Abreu Antunes, na 4.ª posição remuneratória, no nível remuneratório 10, da categoria de assistente técnica da mesma carreira, com efeitos a 30 de setembro de 2025; Paulo Alexandre Silva Ramos, na 4.ª posição remuneratória, no nível remuneratório 4, da categoria de assistente operacional da mesma carreira, com efeitos a 1 de julho de 2025; Maria Clara Alves Miranda Figueiredo, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 15 de junho de 2025; Helena Isabel Quinas Simões dos Anjos, na 2.ª posição remuneratória, no nível remuneratório 6, da categoria de assistente operacional da mesma carreira, com efeitos a 1 de setembro de 2025; Ana Beatriz Santos Ferreira, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 1 de agosto de 2025; Inês Filipa Severino da Costa, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 1 de setembro de 2025; Beatriz Domingues Antunes, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 1 de dezembro de 2025; Diogo Miguel Raimundo Manso, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 3 de junho de 2025.»
+
+deve ler-se:
+
+«Em cumprimento da alínea d) do n.º 1 do artigo 4.º da [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua atual redação, torna-se público que cessaram as relações jurídicas de emprego público dos/das seguintes trabalhadores/as, pelos seguintes motivos:
+
+Por aposentação, Amílcar [...], com efeitos a 1 de julho de 2025 e Vasco Augusto Bernardes Forcada, na 4.ª posição remuneratória, do nível remuneratório 11, da categoria de encarregado operacional da carreira de assistente operacional, com efeitos a 1 de setembro de 2025.
+
+Por cessação do contrato de trabalho em funções públicas por tempo indeterminado, Eduardo Jorge Ferreira Rocha Pontes, na 1.ª posição remuneratória, no nível remuneratório 16, da categoria de técnico superior da mesma carreira, com efeitos a 20 de janeiro de 2026; Paulo Alexandre Silva Ramos, na 4.ª posição remuneratória, no nível remuneratório 4, da categoria de assistente operacional da mesma carreira, com efeitos a 1 de julho de 2025; Maria Clara Alves Miranda Figueiredo, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 15 de junho de 2025; Diogo Miguel Raimundo Manso, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 3 de junho de 2025, Elena Meteciuc, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 12 de setembro de 2025, e Joana Filipa Henriques Milheiro Cruchinho Gerardo, na 1.ª posição remuneratória, no nível remuneratório 5, da categoria de assistente operacional da mesma carreira, com efeitos a 28 de janeiro de 2026.»
+
+19 de março de 2026. - O Presidente da Câmara Municipal, Sérgio Paulo Matias Galvão.
+
+319978505

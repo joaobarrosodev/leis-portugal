@@ -1,0 +1,426 @@
+---
+schema_version: '1.0'
+id: pt:dre:200139611:por
+title: Portaria n.º 211/2022
+short_title: null
+summary: Aprova o Regulamento Geral do Controlo Metrológico Legal dos Métodos e dos Instrumentos de Medição
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Economia e Mar
+proposing_entity: null
+official_number: 211/2022
+official_date: null
+publication_date: '2022-08-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/2022, Série I de 2022-08-23
+  number: '162'
+  series: I
+  supplement: null
+  pages: 8 - 16
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/08/16200/0000800016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/211/2022/08/23/p/dre/pt/html
+  oj: null
+  dre: '200139611'
+  dre_path: /dr/detalhe/portaria/211-2022-200139611
+  internal: pt:dre:200139611:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/211-2022-200139611
+  metadata_url: https://data.dre.pt/eli/port/211/2022/08/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/211-2022-200139611
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:57:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 478f42a88654bdefa27713835feeb73f71e9618fc320e2fc4b7dd5b1ef345f1d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:57:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aparelho de Medição
+- Certificado de Conformidade
+- Controlo Metrológico
+- Definição de Competências
+- Especificação Técnica
+- Fiscalização
+- Informação
+- Informação do Consumidor
+- Instituto Português da Qualidade
+- Metrologia
+- Regulamentação de Atos Legislativos
+- Regulamento do Controlo Metrológico Legal dos Instrumentos de Medição
+- Regulamento Geral do Controlo Metrológico
+- Regulamento Geral do Controlo Metrológico Legal dos Métodos e dos Instrumentos de Medição
+- Simbolo de Identificação
+relationships:
+- type: amended_by
+  target: pt:dre:909113629:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: celex:32009L0023
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/23/oj
+- type: cites
+  target: celex:32009L0034
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/34/oj
+- type: cites
+  target: celex:32014L0031
+  label: null
+  source: http://data.europa.eu/eli/dir/2014/31/oj
+- type: cites
+  target: celex:32014L0032
+  label: null
+  source: http://data.europa.eu/eli/dir/2014/32/oj
+- type: cites
+  target: celex:32014R0165
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/165/oj
+- type: cites
+  target: celex:32015L0013
+  label: null
+  source: http://data.europa.eu/eli/dir/2015/13/oj
+- type: cites
+  target: pt:dre:106886614:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/43/2017/04/18/p/dre
+- type: cites
+  target: pt:dre:106938487:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/45/2017/04/27/p/dre
+- type: cites
+  target: pt:dre:181756966:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29/2022/04/07/p/dre
+- type: cites
+  target: pt:dre:184687800:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555638:por
+  label: null
+  source: null
+- type: transposes
+  target: celex:32014L0032
+  label: null
+  source: null
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:57:35Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 211/2022
+
+de 23 de agosto
+
+Com a publicação do [Decreto-Lei n.º 29/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2022-181756966), de 7 de abril, foi aprovado o novo regime geral do controlo metrológico legal dos métodos e dos instrumentos de medição.
+
+Nos termos do previsto no artigo 25.º do referido decreto-lei as disposições legais necessárias à regulamentação das condições gerais a observar no exercício do controlo metrológico legal são aprovadas por portaria do membro do governo responsável pela área da economia.
+
+Nestes termos, ao abrigo do disposto no artigo 25.º do [Decreto-Lei n.º 29/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2022-181756966), de 7 de abril, manda o Governo, pelo Secretário de Estado da Economia, no uso da competência delegada prevista na alínea d) do n.º 11.1 do [Despacho n.º 7476/2022](https://diariodarepublica.pt/dr/detalhe/despacho/7476-2022-184687800), de 3 de junho, publicado no Diário da República, 2.ª série, n.º 114, de 14 de junho de 2022, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É aprovado o Regulamento Geral do Controlo Metrológico Legal dos Métodos e dos Instrumentos de Medição, anexo à presente portaria e que dela faz parte integrante.
+
+###### Artigo 2.º — Norma revogatória
+
+É revogada a [Portaria n.º 962/90](https://diariodarepublica.pt/dr/detalhe/portaria/962-1990-555638), de 9 de outubro.
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 de setembro de 2022.
+
+O Secretário de Estado da Economia, João Jorge Arêde Correia Neves, em 19 de agosto de 2022.
+
+## ANEXO — Regulamento geral do controlo metrológico legal dos métodos e dos instrumentos de medição
+
+###### Artigo 1.º — Disposições gerais
+
+1 - O controlo metrológico legal aplica-se a todos os métodos e instrumentos de medição.
+
+2 - O controlo metrológico legal é válido em todo o território nacional durante o seu prazo de validade, sendo a sua realização comprovada através da emissão de um certificado de verificação.
+
+3 - No caso dos instrumentos de medição, acresce a marcação dos respetivos símbolos e de etiquetas informativas previstos no presente regulamento.
+
+4 - Os regulamentos específicos de cada categoria de instrumentos de medição estabelecem as condições particulares a observar na aprovação de modelo, primeira verificação, verificação periódica e verificação extraordinária respetivas.
+
+5 - O controlo metrológico legal é efetuado mediante requerimento do fabricante, mandatário, reparador ou utilizador junto da respetiva entidade competente, do qual conste:
+
+a) A identificação e localização do requerente;
+
+b) A identificação do instrumento e a utilização a que se destina;
+
+c) A designação social do requerente, quando aplicável;
+
+d) A indicação da operação metrológica.
+
+###### Artigo 2.º — Aprovação de modelo
+
+1 - A aprovação de modelo de instrumentos de medição é efetuada ao abrigo da regulamentação específica nacional.
+
+2 - Entende-se por modelo de um instrumento de medição o instrumento cujos elementos que caracterizam a qualidade metrológica estão convenientemente definidos e ao qual correspondem instrumentos fabricados idênticos nas suas dimensões, construção, materiais e tecnologia, podendo, no entanto, o mesmo modelo possuir diferentes intervalos de medição.
+
+3 - O requerimento de aprovação de modelo é acompanhado de memória descritiva, desenhos e fotografia que esclareçam a sua constituição, construção, montagem e funcionamento, regulação e ajuste, os locais previstos para a colocação dos símbolos de controlo metrológico legal e outros requisitos estabelecidos em regulamentos específicos.
+
+4 - Para a aprovação de modelo deve ser entregue um ou mais exemplares do modelo a que respeita, de acordo com requisitos estabelecidos em regulamentos específicos.
+
+5 - As alterações ao modelo estão sujeitas a aprovação complementar, devendo o respetivo requerimento ser acompanhado, além de um ou mais exemplares do modelo a que respeita, de memória descritiva e outra informação adicional esclarecedora das alterações introduzidas.
+
+6 - Compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.), proceder à aprovação de modelo, incluindo aprovação complementar e renovação, realizando ou superintendendo na realização dos estudos e ensaios necessários à verificação das características e qualidade metrológicas através dos meios disponíveis no Laboratório Nacional de Metrologia (LNM), ou em outros devidamente reconhecidos pelo IPQ, I. P., a nível nacional, europeu ou internacional.
+
+7 - O despacho de aprovação de modelo é da competência do presidente do conselho diretivo do IPQ, I. P., e é publicado no Diário da República, a suportar pelo interessado.
+
+8 - O despacho de aprovação deve indicar os fundamentos da aprovação do modelo, as condições a respeitar na sua utilização, a selagem e o respetivo prazo de validade.
+
+9 - À aprovação de modelo corresponde uma marcação em todos os instrumentos do mesmo modelo, de acordo com as seguintes regras:
+
+a) Símbolo de aprovação aposto em local próprio, acompanhado dos dois últimos dígitos do ano de aprovação e de um número característico a estabelecer pelo IPQ, I. P., para as aprovações nacionais, conforme o anexo i ao presente regulamento;
+
+b) Símbolos e respetivas indicações numéricas aplicáveis, dos instrumentos colocados em serviço ao abrigo da [Diretiva 2009/34/CE](http://data.europa.eu/eli/dir/2009/34/oj?locale=pt), do Parlamento Europeu e do Conselho, de 23 de abril;
+
+c) Símbolos e respetivas indicações numéricas aplicáveis, dos instrumentos colocados em serviço conforme definido na [Diretiva 2014/31/UE](http://data.europa.eu/eli/dir/2014/31/oj?locale=pt) do Parlamento Europeu e do Conselho, de 26 de fevereiro, que revoga a [Diretiva 2009/23/CE](http://data.europa.eu/eli/dir/2009/23/oj?locale=pt), de 23 de abril, transposta para o ordenamento jurídico nacional pelo [Decreto-Lei n.º 43/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2017-106886614), de 18 de abril, e conforme definido na [Diretiva 2014/32/UE](http://data.europa.eu/eli/dir/2014/32/oj?locale=pt), do Parlamento Europeu e do Conselho, de 26 de fevereiro, alterada pela Diretiva Delegada (UE) [2015/13](http://data.europa.eu/eli/dir/2015/13/oj?locale=pt), da Comissão, de 31 de outubro de 2014, transposta para o ordenamento jurídico nacional pelo [Decreto-Lei n.º 45/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2017-106938487), de 27 de abril.
+
+10 - A aposição do símbolo de aprovação de modelo é da responsabilidade do fabricante ou mandatário e deve ser visível, legível e indelével.
+
+###### Artigo 3.º — Primeira verificação
+
+1 - A primeira verificação dos instrumentos de medição é efetuada nos termos aplicáveis à respetiva categoria em instrumentos de modelo aprovado.
+
+2 - Aos instrumentos de medição colocados em serviço no âmbito das Diretivas CEE, CE e UE, a primeira verificação é efetuada apenas aos instrumentos que tenham sido sujeitos a reparação.
+
+3 - A primeira verificação é efetuada pelo IPQ, I. P., ou pelas entidades qualificadas para o efeito.
+
+4 - A primeira verificação pode efetuar-se em uma ou várias fases, salvo nas situações em que o instrumento constitua um todo à saída da fábrica, em que é efetuada numa única fase.
+
+5 - A primeira verificação dos instrumentos pode ser efetuada por amostragem nos casos previstos na regulamentação específica.
+
+6 - O símbolo da primeira verificação é composto pelos dois últimos dígitos do ano em que se executa a operação, com o último algarismo envolvido por uma semicircunferência conforme o desenho do anexo ii ao presente regulamento.
+
+7 - Os símbolos são colocados em todos os instrumentos abrangidos pela verificação, pelo IPQ, I. P., ou pelas entidades que realizam operações de controlo metrológico legal.
+
+###### Artigo 4.º — Verificação periódica
+
+1 - A verificação periódica é efetuada nos termos aplicáveis à respetiva categoria em instrumentos de modelo aprovado.
+
+2 - A verificação periódica é efetuada pelo IPQ, I. P., ou pelas entidades qualificadas para o efeito, e de acordo com a periodicidade estabelecida em regulamentação específica.
+
+3 - Os utilizadores devem requerer a verificação periódica nos seguintes casos:
+
+a) Início de atividade do utilizador;
+
+b) Aquisição de instrumentos novos ou usados;
+
+c) Instrumentos cuja verificação periódica não tenha sido executada até ao final do mês anterior, da validade da operação de controlo metrológico legal;
+
+d) Quando os regulamentos específicos de categoria de instrumento de medição assim o determinem.
+
+4 - Os instrumentos que se destinem a utilização em vários locais, pertencentes a diferentes regiões, devem ser submetidos a verificação periódica em apenas um dos locais de utilização.
+
+5 - À verificação periódica corresponde um símbolo constituído pelos dois últimos dígitos do ano envolvidos por duas semicircunferências, conforme o desenho do anexo iii ao presente regulamento.
+
+6 - Os símbolos são colocados em todos os instrumentos abrangidos pela verificação, pelo IPQ, I. P., ou pelas entidades que realizam operações de controlo metrológico legal.
+
+###### Artigo 5.º — Verificação extraordinária
+
+À verificação extraordinária corresponde um símbolo idêntico ao da verificação periódica, seguido da letra maiúscula «E», conforme o desenho do anexo iv ao presente regulamento.
+
+###### Artigo 6.º — Rejeição de instrumento de medição
+
+À rejeição do instrumento na primeira verificação, na verificação periódica e na verificação extraordinária corresponde a sobreposição da letra maiúscula «X», conforme desenho do anexo v ao presente regulamento.
+
+###### Artigo 7.º — Etiquetas informativas
+
+1 - As etiquetas informativas são emitidas pela Imprensa Nacional-Casa da Moeda, S. A., sendo autenticadas com o holograma do IPQ, I. P.
+
+2 - Os desenhos, as cores e as dimensões das etiquetas informativas a colocar nos diferentes instrumentos de medição, submetidos ao controlo metrológico legal, devem estar conforme o anexo vi ao presente regulamento.
+
+3 - As etiquetas informativas são colocadas em todos os instrumentos de medição abrangidos pelo controlo metrológico legal, pelo IPQ, I. P., ou pelas entidades que realizam operações de controlo metrológico legal.
+
+###### Artigo 8.º — Disposições finais
+
+1 - Todos os instrumentos devem possuir identificação que contenha, para além das características, as eventuais condições a respeitar na sua utilização.
+
+2 - Qualquer que seja a origem dos instrumentos, nacional ou importada, a sua identificação deve ser redigida em língua portuguesa.
+
+3 - Os fabricantes, mandatários e utilizadores devem conservar os instrumentos de medição em bom estado de funcionamento e manter a declaração de conformidade ou o certificado de verificação.
+
+## ANEXO I — [nos termos da alínea a) do n.º 9 do artigo 2.º]
+
+Símbolo de aprovação de modelo
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16200/0000800016.pdf)
+
+Legenda:
+
+a) Dimensões: em centímetros;
+
+b) As letras AA correspondem aos dois últimos dígitos do ano;
+
+c) As letras MMM correspondem ao código da mensuranda;
+
+d) As letras CC correspondem ao código da categoria do instrumento de medição;
+
+e) Os cardinais ## correspondem à numeração sequencial do ano.
+
+## ANEXO II — (nos termos do n.º 6 do artigo 3.º)
+
+Símbolo da primeira verificação
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16200/0000800016.pdf)
+
+Legenda:
+
+a) Dimensões: em centímetros;
+
+c) As letras AA correspondem aos dois últimos dígitos do ano.
+
+## ANEXO III — (nos termos do n.º 5 do artigo 4.º)
+
+Símbolo de verificação periódica
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16200/0000800016.pdf)
+
+Legenda:
+
+a) Dimensões: em centímetros;
+
+b) As letras AA correspondem aos dois últimos dígitos do ano.
+
+## ANEXO IV — (nos termos do artigo 5.º)
+
+Símbolo de verificação extraordinária
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16200/0000800016.pdf)
+
+Legenda:
+
+a) Dimensões: em centímetros.
+
+## ANEXO V — (nos termos do artigo 6.º)
+
+Rejeição de instrumento de medição
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16200/0000800016.pdf)
+
+Legenda:
+
+a) Dimensões: em centímetros.
+
+## Anexo VI — (nos termos do artigo 7.º)
+
+Etiquetas informativas
+
+1 - Etiquetas informativas de controlo metrológico legal de instrumentos de medição de verificação anual:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16200/0000800016.pdf)
+
+Características gráficas:
+
+a) Dimensões: 2,6 cm x 6,3 cm;
+
+b) Etiqueta autodestrutiva e void;
+
+c) Imagem holográfica de segurança, com símbolo do Instituto Português da Qualidade, I. P., e na zona inferior com o símbolo da «República Portuguesa»;
+
+d) A zona central inclui tecnologia QRCode, numeração sequencial e anual de cor preta, dentro da série com inclusão de check digit para validação da digitação;
+
+e) O número da etiqueta deve constar no respetivo certificado de verificação, com resultados de «Instrumento Aprovado» ou de «Instrumento Rejeitado»;
+
+f) Na etiqueta de «Instrumento Verificado», indicação do ano a que respeita a validade da operação de controlo metrológico;
+
+g) Cor associada ao ano para a etiqueta de «Instrumento Verificado» e vermelho para a etiqueta de «Instrumento Rejeitado».
+
+2 - Etiquetas informativas de controlo metrológico legal de taxímetros, sonómetros e manómetros:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16200/0000800016.pdf)
+
+Características gráficas:
+
+a) Dimensões: 3,0 cm x 1,5 cm;
+
+b) Etiquetas autodestrutivas e void;
+
+c) Imagem holográfica de segurança, com símbolo do Instituto Português da Qualidade, I. P., e na zona inferior com o símbolo da «República Portuguesa»;
+
+d) Inclusão de endereço para pesquisa através da numeração sequencial e anual de cor preta, dentro da série com inclusão de check digit para validação da digitação;
+
+e) O número da etiqueta deve constar no respetivo certificado de verificação, com resultados de «Instrumento Aprovado» ou de «Instrumento Rejeitado»;
+
+f) Na etiqueta de «Instrumento Verificado», indicação do ano a que respeita a validade da operação de controlo metrológico;
+
+g) Cor associada ao ano para a etiqueta de «Instrumento Verificado» e vermelho para a etiqueta de «Instrumento Rejeitado».
+
+3 - Etiquetas informativas de controlo metrológico legal de instrumentos de medição com periodicidade de verificação variável (cisternas transportadoras, reservatórios, contadores de água e radiações Ionizantes):
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16200/0000800016.pdf)
+
+Características gráficas:
+
+a) Dimensões: 6,0 cm x 2,6 cm;
+
+b) Etiquetas autodestrutivas e void;
+
+c) Imagem holográfica de segurança, com símbolo do Instituto Português da Qualidade, I. P., e na zona inferior com o símbolo da «República Portuguesa»;
+
+d) A zona central inclui tecnologia QRCode, numeração sequencial e anual de cor preta, dentro da série com inclusão de check digit para validação da digitação;
+
+e) O número da etiqueta deve constar no respetivo certificado de verificação, com resultados de «Instrumento Aprovado» ou de «Instrumento Rejeitado»;
+
+f) A cor vermelha está associada à etiqueta de «Instrumento Rejeitado».
+
+4 - Etiquetas informativas de controlo metrológico legal de tacógrafos:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2022/08/16200/0000800016.pdf)
+
+Características gráficas:
+
+a) Dimensões: 12,1 cm x 7,0 cm;
+
+b) Etiqueta transparente a colocar por cima da etiqueta obrigatória prevista no [Regulamento (UE) 165/2014](http://data.europa.eu/eli/reg/2014/165/oj?locale=pt);
+
+c) Imagem holográfica de segurança, com símbolo do Instituto Português da Qualidade, I. P.;
+
+d) A zona superior inclui tecnologia QRCode, numeração sequencial e anual de cor preta, dentro da série com inclusão de check digit para validação da digitação, antecedida da indicação de «Tacógrafo Aprovado»;
+
+e) O número da etiqueta deve constar no respetivo certificado de verificação.
+
+115627796

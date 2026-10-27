@@ -1,0 +1,316 @@
+---
+schema_version: '1.0'
+id: pt:dre:209870:por
+title: Decreto Regulamentar n.º 45-A/83
+short_title: null
+summary: Define a estrutura orgânica e o quadro do pessoal da Direcção-Geral da Família
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa - Secretaria de Estado da Família
+proposing_entity: null
+official_number: 45-A/83
+official_date: null
+publication_date: '1983-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 129/1983, 2º Suplemento, Série I de 1983-06-06
+  number: '129'
+  series: I
+  supplement: null
+  pages: 2060-(3) a 2060-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '209870'
+  dre_path: /dr/detalhe/decreto-regulamentar/45-a-1983-209870
+  internal: pt:dre:209870:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-a-1983-209870
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-a-1983-209870
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:07:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 80cf4d6a0eed3869c4af74fbc6f8d34f1c5bb280cce6d727979abc749dbb5b2b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:07:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral da Família
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:421818:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:654932:por
+  label: "Alterado o quadro de pessoal, pela PORT.246/84.1984.04.18.PCM DR.IS [92]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/246-1984-654932
+  date: '1984-04-18'
+- type: amended_by
+  target: pt:dre:386655:por
+  label: "Aditados os arts. 14º-A, 14º-B, 16º-A e 16º-B, pelo DR.44/84.1984.06.15.PCM, DR.IS [138]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/44-1984-386655
+  date: '1984-06-15'
+- type: amended_by
+  target: pt:dre:228653:por
+  label: "Alterado o quadro de pessoal constante dos mapas A e B anexos ao presente diploma, pela PORT.307/86.1986.06.23.PCM,\
+    \ DR.IS [141]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/307-1986-228653
+  date: '1986-06-23'
+- type: amended_by
+  target: pt:dre:421818:por
+  label: "Substituído o quadro de pessoal, com as alterações introduzidas pela Port 564/83, de 13-Mai, e 307/86, de 23-Jun,\
+    \ pelo anexo IX da PORT.461/87.1987.06.02.PCM, DR.IS [126]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/461-1987-421818
+  date: '1987-06-02'
+- type: cites
+  target: pt:dre:147400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:250416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:392861:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397334:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:634953:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:07:43Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 45-A/83
+
+de 6 de Junho
+
+O [Decreto-Lei n.º 304/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1982-397334), de 31 de Julho, que criou a Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família, veio reconhecer o papel primordial da família e traduzir na própria orgânica da Administração Pública esse reconhecimento, criando as condições favoráveis ao equacionamento dos interesses e aspirações das famílias portuguesas e à dinamização intensa da política familiar, bem como ao incremento da participação das famílias no processo de desenvolvimento que a política familiar desencadeia.
+
+Torna-se agora necessário proceder à implementação de tal estrutura orgânica, habilitando-a a prosseguir eficazmente os objectivos que se propõe, e, conforme o disposto no artigo 13.º do citado diploma, definir a estrutura interna da Direcção-Geral da Família, as competências dos respectivos serviços, o quadro e o regime do pessoal.
+
+No desenvolvimento do regime contido no [Decreto-Lei n.º 304/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1982-397334), de 31 de Julho, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Natureza e atribuições
+
+Artigo 1.º A Direcção-Geral da Família é o serviço operativo da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família incumbido de desenvolver as acções necessárias à implementação e execução da política familiar nos seguintes domínios:
+
+a) Estudos e publicações;
+
+b) Formação familiar;
+
+c) Acção e promoção familiar.
+
+Art. 2.º Compete à Direcção-Geral da Família:
+
+a) Estudar e pôr em execução programas integrados e projectos específicos conducentes à promoção da família e à melhoria do seu quadro de vida;
+
+b) Apoiar a implementação da política familiar a nível local;
+
+c) Promover a formação de técnicos especializados na área da família;
+
+d) Elaborar e promover estudos técnicos dos assuntos da família;
+
+e) Promover a recolha e a divulgação da informação no âmbito da política familiar e da promoção da família;
+
+f) Assegurar a gestão administrativa, orçamental e patrimonial dos órgãos e serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família.
+
+### CAPÍTULO II — Órgãos e serviços
+
+Art. 3.º O director-geral é o órgão que gere a Direcção-Geral da Família e será coadjuvado por um subdirector-geral, que o substituirá nas suas ausências ou impedimentos.
+
+Art. 4.º Para o exercício das suas funções, a Direcção-Geral da Família dispõe dos seguintes serviços:
+
+a) Direcção de Serviços de Estudos e Publicações;
+
+b) Direcção de Serviços de Formação Familiar;
+
+c) Direcção de Serviços de Acção e Promoção Familiar;
+
+d) Repartição Administrativa.
+
+Art. 5.º - 1 - À Direcção de Serviços de Estudos e Publicações cabe proceder aos estudos técnicos necessários à definição e execução da política familiar e à divulgação da informação na área da família.
+
+2 - Compete à Direcção de Serviços de Estudos e Publicações:
+
+a) Estudar novas formas de apoio à família conducentes à melhoria do seu quadro de vida;
+
+b) Assegurar a análise dos diplomas legais com incidência familiar;
+
+c) Proceder à análise e estudo dos factores de desagregação e marginalidade no âmbito da vida familiar, com vista à prevenção de tais situações;
+
+d) Estudar formas de superação de carência do meio familiar normal e propor soluções alternativas às actualmente existentes;
+
+e) Cooperar com outros organismos ou instituições relacionados com a investigação e estudo na área da família;
+
+f) Colher e organizar os elementos de estudo e de informação na área da família;
+
+g) Difundir a informação que contribua para o conhecimento da realidade familiar e dar resposta às solicitações do exterior neste domínio;
+
+h) Proceder à edição das publicações do sector;
+
+i) Apoiar a publicação de obras sobre a família.
+
+Art. 6.º - 1 - A Direcção de Serviços de Formação Familiar é o serviço incumbido de promover a preparação das famílias para o exercício das funções que lhes são próprias, bem como de proporcionar uma formação técnica especializada na área da família.
+
+2 - Compete à Direcção de Serviços de Formação Familiar:
+
+a) Desenvolver, apoiar e participar em programas de educação permanente quer no âmbito da vida familiar e comunitária quer em áreas específicas;
+
+b) Promover e apoiar a formação de técnicos especializados na área da família;
+
+c) Desenvolver e apoiar programas que contribuam para o conhecimento e solução dos problemas específicos que afectam as famílias.
+
+Art. 7.º - 1 - A Direcção de Serviços de Acção e Promoção Familiar tem por objectivo geral promover e apoiar a implementação da política familiar a nível local de uma forma ajustada às características das populações.
+
+2 - Compete à Direcção de Serviços de Acção e Promoção Familiar:
+
+a) Executar programas de desenvolvimento integral no âmbito da vida familiar e comunitária visando a melhoria do seu quadro de vida;
+
+b) Incentivar a criação de equipamento e serviços específicos de apoio à família;
+
+c) Fomentar a participação das famílias na vida das comunidades e na gestão dos recursos locais;
+
+d) Promover a actuação de voluntários em programas de promoção da família.
+
+Art. 8.º - 1 - A Repartição Administrativa assegura a gestão administrativa, orçamental e patrimonial e o apoio logístico aos órgãos e serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família.
+
+2 - À Repartição Administrativa incumbe:
+
+a) Assegurar o serviço de expediente e arquivo;
+
+b) Executar as actividades de administração do pessoal;
+
+c) Assegurar a elaboração e a gestão orçamental;
+
+d) Assegurar a aquisição de bens e serviços indispensáveis ao bom funcionamento dos serviços que apoia;
+
+e) Executar as actividades inerentes ao processamento da contabilidade;
+
+f) Zelar pela conservação das instalações afectas aos serviços;
+
+g) Superintender no pessoal operário e auxiliar.
+
+### CAPÍTULO III — Funcionamento dos serviços
+
+Art. 9.º O Ministro dos Assuntos Sociais exercerá por si ou mediante delegação a superintendência dos serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família, promovendo reuniões periódicas com os dirigentes dos serviços nele integrados para assegurar a eficiência do sistema e avaliar da prossecução dos seus objectivos.
+
+### CAPÍTULO IV — Do pessoal
+
+Art. 10.º O quadro do pessoal da Direcção-Geral da Família é o que consta dos mapas A e B anexos a este diploma.
+
+Art. 11.º O provimento dos lugares do pessoal dirigente, a que se refere o mapa A, far-se-á nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+
+Art. 12.º - 1 - O provimento do pessoal, a que se refere o mapa B anexo ao presente diploma, será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
+
+2 - Findo o prazo referido no número anterior, o funcionário:
+
+a) Será provido definitivamente se tiver revelado aptidão para o lugar;
+
+b) Será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou de comissão de serviço, se não tiver revelado aptidão para o lugar.
+
+3 - O tempo de serviço prestado em regime de comissão de serviço conta, para todos os efeitos legais:
+
+a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
+
+b) No lugar do quadro da Direcção-Geral da Família em que vier a ser provido definitivamente, finda a comissão.
+
+Art. 13.º Poderá ser contratado além do quadro o pessoal indispensável à realização de tarefas que não possam ser asseguradas pelo pessoal do quadro, nos termos da lei vigente.
+
+Art. 14.º Para o exercício transitório de funções que não possam ser asseguradas pelo pessoal do quadro poderá ser requisitado ou destacado pessoal, nos termos previstos nos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio.
+
+Art. 15.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
+
+Art. 16.º Aos lugares de educador de infância é aplicável o regime estabelecido pelo [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, e legislação complementar.
+
+Art. 17.º - 1 - Os lugares de técnico auxiliar de serviço social principal e de técnico auxiliar de serviço social de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de serviço social de 1.ª classe e técnicos auxiliares de serviço social de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+
+2 - Os lugares de técnico auxiliar de serviço social de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral dos liceus ou equivalente e formação técnico-profissional complementar de serviço social com a duração de 2 anos.
+
+### CAPÍTULO V — Disposições finais e transitórias
+
+Art. 18.º - 1 - O pessoal que se encontra destacado no Gabinete do Secretário de Estado da Família nos termos dos artigos 8.º e 9.º do [Decreto-Lei n.º 267/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1977-250416), de 2 de Julho, transitará para os lugares do quadro B anexo a este diploma, com observância do disposto na alínea b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, sem prejuízo das habilitações legais exigíveis, de acordo com as seguintes regras:
+
+a) Para categoria idêntica à que o funcionário já possui;
+
+b) Para categoria que integra a função que o funcionário ou agente desempenha, remunerada pela mesma letra de vencimento ou por letra imediatamente superior quando não haja coincidência de remunerações.
+
+2 - O tempo de serviço prestado na categoria que o funcionário já detém conta para efeitos de progressão na respectiva carreira quando se verifique a situação prevista na alínea b) do n.º 1.
+
+3 - As nomeações feitas nos termos do n.º 1 terão carácter definitivo desde que o funcionário tenha provimento definitivo no lugar de origem e exerça funções da mesma natureza.
+
+Art. 19.º As despesas com o pessoal serão, até ao final do ano corrente, satisfeitas pelas verbas existentes no orçamento privativo da Secretaria de Estado da Família.
+
+Art. 20.º As dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Ministro dos Assuntos Sociais e do Ministro das Finanças e do Plano ou da Reforma Administrativa, quando respeitantes a problemas de ordem financeira ou de organização de serviços e de pessoal, respectivamente.
+
+Francisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa - António José de Castro Bagão Félix - António Jorge de Figueiredo Lopes.
+
+Promulgado em 17 de Maio de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 25 de Maio de 1983.
+
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
+
+Anexo a que se refere o artigo 10.º
+
+MAPA A
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf)
+
+MAPA B
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf)

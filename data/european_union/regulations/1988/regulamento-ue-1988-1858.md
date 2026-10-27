@@ -1,0 +1,255 @@
+---
+schema_version: '1.0'
+id: eu:celex:31988R1858:por
+title: Regulamento (CEE) n.° 1858/88 da Comissão de 30 de Junho de 1988
+short_title: null
+summary: Regulamento (CEE) n.° 1858/88 da Comissão de 30 de Junho de 1988 que altera o Regulamento (CEE) n.° 1058/77 relativo
+  às características dos azeites e de certos produtos que contêm azeite e que altera a nomenclatura da pauta aduaneira comum
+  no que diz respeito ao azeite
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 1988/1858
+official_date: null
+publication_date: '1988-07-01'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 166 de 1.7.1988
+  number: '166'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/899c75d6-a4c4-4bef-a3e7-6dafe980dea2.0009.02/DOC_1
+entry_into_force_dates:
+- '1988-07-01'
+- '1988-11-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31988R1858
+  eli: http://data.europa.eu/eli/reg/1988/1858/oj
+  oj: oj:JOL_1988_166_R_0010_022
+  dre: null
+  dre_path: null
+  internal: eu:celex:31988R1858:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31988R1858
+  metadata_url: http://publications.europa.eu/resource/cellar/899c75d6-a4c4-4bef-a3e7-6dafe980dea2.0009
+  content_url: http://publications.europa.eu/resource/cellar/899c75d6-a4c4-4bef-a3e7-6dafe980dea2.0009.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T11:31:51Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-22T21:19:50.410+02:00'
+integrity:
+  source_sha256: f389b2669b1ff5e13ef6f23d6b4fae2461ac2afde9875c1d103f990b90911ae5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T11:31:51Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- azeite
+- nomenclatura pautal
+relationships:
+- type: amends
+  target: celex:31977R1058
+  label: null
+  source: http://publications.europa.eu/resource/cellar/082b5bbb-0b37-452d-bde7-00105b6ecaa3
+  date: '1977-05-24'
+- type: amends
+  target: celex:31987R2658
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c5a368fa-fd18-4efb-ae18-e4ac4e83055c
+  date: '1987-09-07'
+- type: based_on
+  target: celex:31966R0136
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f5ef0761-2d02-4ddd-b2ea-f154581e4cb4
+  date: '1966-09-30'
+- type: cites
+  target: celex:31985R3472
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9ed280f9-3b9c-48e9-add1-7ee4da03d94b
+- type: corrected_by
+  target: celex:31988R1858R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/bffb5262-fc5a-4bf7-9733-5a05511ebe5b
+  date: '1988-08-12'
+- type: corrected_by
+  target: celex:31988R1858R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fee05e7d-3837-448e-a3a0-1676e820a6a9
+  date: '1988-08-27'
+article_structure:
+  article_count: 3
+  section_count: 1
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T11:31:51Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CEE) n.° 1858/88 da Comissão de 30 de Junho de 1988
+
+**Regulamento (CEE) n.° 1858/88 da Comissão de 30 de Junho de 1988 que altera o Regulamento (CEE) n.° 1058/77 relativo às características dos azeites e de certos produtos que contêm azeite e que altera a nomenclatura da pauta aduaneira comum no que diz respeito ao azeite** *Jornal Oficial nº L 166 de 01/07/1988 p. 0010 - 0012*
+
+*****
+
+REGULAMENTO (CEE) Nº 1858/88 DA COMISSÃO
+
+de 30 de Junho de 1988
+
+que altera o Regulamento (CEE) nº 1058/77 relativo às características dos azeites e de certos produtos que contêm azeite e que altera a nomenclatura da Pauta Aduaneira Comum no que diz respeito ao azeite
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia,
+
+Tendo em conta o Regulamento (CEE) nº 136/66/CEE do Conselho de 22 de Setembro de 1966, que estabelece uma organização comum de mercado no sector das matérias gordas (1), com a última redacção que lhe foi dada pelo Regulamento (CEE) nº 1098/88 (2), e, nomeadamente o nº 4 do seu artigo 14º, o nº 3 do seu artigo 15º e o nº 3 do seu artigo 20º,
+
+Considerando que o Regulamento (CEE) nº 1058/77 da Comissão (3), com a última redacção que lhe foi dada pela Regulamento (CEE) nº 2550/83 (4), definiu as características físico-químicas e organolépticas dos produtos das diferentes subposições aduaneiras do sector do azeite; que se verificou que determinados azeites virgens podem conter tetracloroetileno, uma substância indesejável que não intervém no processo normal de fabrico do azeite; que essa substância pode ser tolerada no azeite virgem lampante, atendendo ao facto de esta categoria de azeite ser destinada à refinação e não à comercialização directa; que a presença desta substância a um nível não insignificativo deve conduzir à classificação sistemática dos azeites virgens em causa na subposição aduaneira do azeite virgem lampante, cuja refinação é necessária;
+
+Considerando que o método de análise do tetracloroetileno do azeite deve ser uniformizado no plano comunitário; que se verifica, todavia, que são aplicados diferentes métodos nos Estados-membros; que é conveniente autorizar a utilização desses métodos durante um período transitório;
+
+Considerando que o Regulamento (CEE) nº 2658/87 do Conselho (5) deve ser adaptado na sequência das alterações introduzidas ao Regulamento (CEE) nº 1058/77;
+
+Considerando que o estabelecimento de um teor máximo de tetracloroetileno para os azeites virgens não lampantes poderia criar aos produtores dificuldades de escoamento de determinados azeites na campanha em curso; que, é, pois, conveniente remeter a aplicação das disposições do presente regulamento, no que diz respeito à compra à intervenção, para o início do próxima campanha;
+
+Considerando que as medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão das Matérias Gordas,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1º
+
+O Regulamento (CEE) nº 1058/77 é alterado do seguinte modo:
+
+1. O título passa a ter a seguinte redacção:
+
+« Regulamento (CEE) nº 1058/77 da Comissão, de 18 de Maio de 1977, relativo às características dos azeites e de certos produtos que contêm azeite ».
+
+2. No artigo 2º é aditado o seguinte nº 3:
+
+« 3. O teor de tetracloroetileno do azeite e do bagaço de azeitona é determinado em conformidade com o método descrito no Anexo X. Todavia, até 31 de Outubro de 1989, os Estados-membros podem decidir que a determinação do teor de tetracloroetileno possa ser efectuada segundo outros métodos que forneçam resultados compatíveis com os do método comum. Os Estados-membros em causa comunicam esses outros métodos à Comissão antes de os utilizar. Caso o teor determinado segundo um método diferente do método comum seja diferente do determinado pelo método comum, é considerado o teor obtido por aplicação do método comum. »
+
+3. No sumário dos anexos é aditada a seguinte linha:
+
+« ANEXO X: Teor de tetracloretileno 26 ».
+
+4. No ponto 1 do Anexo I e no ponto B.I. do Anexo III é aditada a seguinte alínea g):
+
+« g) Um teor de tetracloroetileno, medido segundo o método descrito no Anexo X, inferior ou igual a 0,1 mg/kg. »
+
+5. No ponto 2 do Anexo I e no ponto B.II do Anexo III, é aditado o seguinte travessão:
+
+« - ou as características referidas nas alíneas a), b), c) d), e) e f) do ponto 1 e um teor de tetracloroetileno, medido segundo o método descrito no Anexo X, superior a 0,1 mg/kg; »
+
+6. É aditado o Anexo X em anexo.
+
+###### Artigo 2º — O Regulamento (CEE) nº 2658/87 é adaptado em conformidade com o disposto nos nºs 4 e 5 do artigo 1º
+
+###### Artigo 3º
+
+O presente regulamento entra em vigor em 1 de Julho de 1988.
+
+Todavia, no que diz respeito à compra à intervenção em aplicação do Regulamento (CEE) nº 3472/85 da Comissão (1), os nºs 4 e 5 do artigo 1º só se aplicam a partir de 1 de Novembro de 1988.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.
+
+Feito em Bruxelas, em 30 de Junho de 1988.
+
+Pela Comissão
+
+Frans ANDRIESSEN
+
+Vice-Presidente
+
+(1) JO nº 172 de 30. 9. 1966, p. 3025/66.
+
+(2) JO nº L 110 de 29. 4. 1988, p. 10.
+
+(3) JO nº L 128 de 24. 5. 1977, p. 6.
+
+(4) JO nº L 252 de 13. 9. 1983, p. 7.
+
+(5) JO nº L 256 de 7. 9. 1987, p. 1.
+
+(1) JO nº L 333 de 11. 12. 1985, p. 5.
+
+## ANEXO
+
+« ANEXO X
+
+DETERMINAÇÃO DO TEOR DE TETRACLOROETILENO NO AZEITE
+
+Fundamento
+
+Análise por cromatografia em fase gasosa segundo a técnica do espaço de cabeça (head space).
+
+Aparelhos e utensílios
+
+1. Aparelho de cromatografia em fase gasosa, equipado com um detector de captura de electrões (ECD).
+
+2. Aparelhagem para espaço de cabeça (head space).
+
+3. Coluna de cromatografia em fase gasosa de vidro, com 2 metros de comprimento e 2 mm de diâmetro, fase estacionária
+
+OV101 a 10 % ou equivalente, impregnando uma terra de diatomáceas calcinadas, lavada com ácidos e silanizada, com uma granulometria de 80-100 Mesh.
+
+4. Gás vector e gás auxiliar: azoto para cromatografia em gase gasosa, com detecção por captura de electrões.
+
+5. Frascos de vidro de 10 a 15 ml munidos de uma guarnição de teflon e de uma rolha de alumínio munida de um orifício para recolha por seringa.
+
+6. Pinças com fecho hermético.
+
+7. Seringa para gás de 0,5 - 2 ml.
+
+Reagentes
+
+Padrão: - tetracloroetileno com um grau de pureza adequado para utilização em cromatografia em fase gasosa,
+
+- pentano com um grau de pureza adequado para utilização em cromatografia em fase gasosa.
+
+Método de análise
+
+1. Pesar exactamente cerca de 3 g de azeite num frasco de vidro (a não reutilizar), fechar o frasco até que fique hermeticamente fechado. Introduzir o frasco num termostato a 70 °C durante uma hora. Recolher com precisão, utilizando a seringa, um volume de 0,2 a 0,5 ml do espaço de cabeça. Injectá-lo na coluna do aparelho de cromatografia em fase gasosa, regulado do seguinte modo:
+
+- temperatura do injector: 150 °C
+
+- temperatura da coluna: 70-80 °C
+
+- temperatura do detector: 200-250 °C
+
+Pode igualmente utilizar-se outras temperaturas, desde que os resultados sejam equivalentes.
+
+2. Soluções de referência. Preparar soluções padrão, utilizando azeite refinado sem vestígios de solventes, com concentrações de tetracloroetileno variáveis entre 0,05 e 1 mg/kg e em relação com o teor presumido da amostra.
+
+3. Avaliação quantitativa. Estabelecer a relação entre as superfícies ou as alturas dos picos da amostra e da solução padrão que tenha a concentração presumida mais próxima. Caso o desvio relativo seja superior a 10 %, é necessário voltar a proceder à análise por comparação com uma nova solução padrão, até que a sua concentração respeite o desvio relativo acima mencionado.
+
+4. Expressão dos resultados. Os resultados são expressos em mg/kg (ppm). O limite de detecção do método é de 0,01 mg/kg. »

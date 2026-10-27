@@ -1,0 +1,205 @@
+---
+schema_version: '1.0'
+id: pt:dre:334341:por
+title: Portaria n.º 479/2010
+short_title: null
+summary: Segunda alteração à Portaria n.º 1098/2008, de 30 de Setembro, que aprova as taxas relativas a actos e serviços prestados
+  no âmbito da propriedade industrial, e à tabela de taxas do Instituto Nacional da Propriedade Industrial
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Justiça
+proposing_entity: null
+official_number: 479/2010
+official_date: null
+publication_date: '2010-07-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 133/2010, Série I de 2010-07-12
+  number: '133'
+  series: I
+  supplement: null
+  pages: 2546 - 2549
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/479/2010/07/12/p/dre/pt/html
+  oj: null
+  dre: '334341'
+  dre_path: /dr/detalhe/portaria/479-2010-334341
+  internal: pt:dre:334341:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/479-2010-334341
+  metadata_url: https://data.dre.pt/eli/port/479/2010/07/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/479-2010-334341
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:47:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8c881abc786cbe0368180bbdca2456c1109e3b3fce73eb92d6bd2a0c024de968
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:47:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Denominação de Origem
+- Desenho e Modelo Industrial
+- Indicação Geográfica
+- Instituto Nacional da Propriedade Industrial
+- Marca
+- Patente
+- Propriedade Industrial
+- Recompensa
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:122852138:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:177795:por
+  label: "Alteradas as tabelas i e ii da Port 1098/2008, de 30-set, na redação do presente diploma, pela PORT.176/2012.31.05.2012.MF,\
+    \ DR.IS [106] de 31.05.2012, que republica as tabelas i a iv.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/176-2012-177795
+  date: '2012-05-31'
+- type: cites
+  target: pt:dre:452175:por
+  label: null
+  source: http://data.dre.pt/eli/port/1098/2008/09/30/p/dre
+- type: repealed_by
+  target: pt:dre:122852138:por
+  label: Revogada, a partir de 01.07.2019, a Port 1098/2008 de 30-set, alterada pelo presente diploma, pelo(a) Portaria n.º
+    201-A/2019 - Diário da República n.º 123/2019, 1º Suplemento, Série I de 2019-07-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/201-a-2019-122852138
+  date: '2019-07-01'
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:47:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 479/2010
+
+de 12 de Julho
+
+Pelas Portarias n.os [1098/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1098-2008-452175), de 30 de Setembro, e 1254/2009, de 14 de Outubro, foi instituída a nova política de taxas do Instituto Nacional da Propriedade Industrial (INPI), que veio tornar Portugal num dos países da União Europeia mais competitivos em matéria de atribuição de direitos de propriedade industrial, através de uma redução generalizada dos custos associados à protecção da inovação e dos direitos de propriedade industrial, com poupanças muito significativas para os cidadãos e para as empresas que desejem proteger as suas marcas e as suas patentes no território nacional.
+
+Decorridos cerca de dois anos da aprovação da tabela de taxas do INPI, o balanço é muito positivo e com impacte muito favorável junto dos utilizadores do sistema de propriedade industrial, tendo inclusivamente contribuído para o aumento significativo do número de pedidos de marcas e patentes em Portugal.
+
+As alterações promovidas dão continuidade às medidas de incentivo do uso das novas tecnologias, em particular da promoção de actos por via electrónica de que o INPI é exemplo de excelência na Administração Pública portuguesa.
+
+Este período de aplicação das novas taxas permitiu, no entanto, que se identificassem alguns aspectos que urge aperfeiçoar com vista a garantir um melhor funcionamento do sistema nacional de propriedade industrial. A presente portaria não visa, assim, introduzir alterações profundas na política de preços iniciada em 2008, mas apenas proceder a ajustamentos pontuais em algumas das taxas.
+
+Em primeiro lugar, são revistas de forma equilibrada as taxas de pedido nas diversas áreas de propriedade industrial, de modo a introduzir um preço justo que corresponda aos serviços de qualidade efectivamente prestados e aos investimentos que o INPI tem vindo a realizar em tecnologias de informação e no desenvolvimento de soluções informáticas que permitem hoje oferecer aos cidadãos e às empresas, de modo gratuito, maior informação e previsibilidade no acompanhamento dos seus processos, maior celeridade na obtenção de decisões e, ainda, maior simplicidade na prática de actos relacionados com o registo.
+
+O aumento da taxa de pedido reflecte-se, igualmente, na taxa de renovação dos registos de marca e logótipo, que agora passam a ser taxas com valores equiparados. A equiparação da taxa de pedido de registo e da taxa de renovação do registo encontra justificação no facto de ambas assegurarem ao titular do registo o mesmo período prolongado de protecção do seu direito. Crê-se, por este motivo, que a nova taxa de renovação reflecte o preço justo pelo monopólio que o Estado confere ao titular do registo durante um período alargado de 10 anos e, também, pelo serviço que, ao longo desses dez anos, o INPI presta na protecção do direito, impedindo, nomeadamente, a atribuição de marcas e logótipos que representem a sua reprodução ou imitação. Esta alteração do valor da taxa de renovação acompanha ainda a prática seguida pelos países da União Europeia em matéria de protecção de marcas e não se prevê que venha a ter um impacte negativo junto dos titulares de registos, sendo que o pagamento desta taxa apenas é exigível num momento em que é já possível extrair todos os benefícios que decorrem da exploração das marcas e logótipos no mercado.
+
+Por outro lado, com o propósito de assegurar maior coerência entre as várias taxas e facilitar a compreensão da tabela por parte dos utilizadores do sistema de propriedade industrial, a presente portaria vem ainda fixar o mesmo valor para a taxa de adição de classes nos registos de marcas, quer este acto seja praticado no momento da apresentação do pedido de registo, quer em momento posterior. Na sequência desta alteração, é efectuada idêntica alteração ao valor das taxas devidas pela alteração do sinal, de produtos ou reivindicação de cores, com vista a garantir uma harmonização entre todos os actos que incidam sobre alterações aos elementos essenciais do pedido de registo de marca e logótipo.
+
+A presente portaria aproveita, igualmente, para introduzir uma diminuição no valor da taxa devida pelos pedidos online de suspensão de estudo ou de prorrogação de prazos processuais, procurando com isso conferir aos interessados maior facilidade de resolução de litígios ainda na fase administrativa de oposição ao registo. Esta filosofia que visa promover a resolução de litígios ainda em fase de oposição, encontra-se também subjacente ao aumento da taxa prevista para o pedido de modificação das decisões do INPI.
+
+Opta-se também, como forma de simplificar a tabela de taxas e facilitar a sua leitura por parte dos utilizadores do sistema de propriedade industrial, por agregar alguns actos relativos à alteração do pedido ou do registo nas várias modalidades de propriedade industrial, de modo a dissipar algumas das dificuldades que têm vindo a ser sentidas pelos cidadãos e pelas empresas no enquadramento dos actos que desejam praticar perante um leque alargado de opções nesta matéria.
+
+Por último, a presente portaria vem ainda prever uma taxa para a preparação e transmissão de actos para a OMPI, IHMI e IEP sempre que efectuada online, na sequência da implementação por parte do INPI de mecanismos que permitem já um intercâmbio electrónico com estas organizações internacionais.
+
+Assim:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, ao abrigo do disposto no artigo 346.º do Código da Propriedade Industrial, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A presente portaria aprova a segunda alteração à [Portaria n.º 1098/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1098-2008-452175), de 30 de Setembro, e à tabela de taxas do Instituto Nacional da Propriedade Industrial.
+
+###### Artigo 2.º — Alteração à tabela de taxas
+
+1 - São alteradas as seguintes taxas constantes da tabela de taxas do Instituto Nacional de Propriedade Industrial, a qual é republicada em anexo à presente portaria, da qual faz parte integrante:
+
+a) As taxas de pedido de registo de marca, logótipo, recompensa, denominação de origem e indicação geográfica nacional, bem como as taxas de pedido de patente e de pedido de registo de desenho ou modelo são fixadas em (euro) 100, se o acto for praticado online, e em (euro) 200, se o acto for praticado em papel;
+
+b) As taxas de pedido de modelo de utilidade e de pedido de topografia dos produtos semicondutores são fixadas em (euro) 100, se o acto for praticado online, e em (euro) 200, se o acto for praticado em papel;
+
+c) As taxas de conversão de um pedido provisório de patente em pedido definitivo são fixadas em (euro) 70, se o acto for praticado online, e em (euro) 140, se o acto for praticado em papel;
+
+d) A taxa de adição de classes num pedido de registo de marca, na sequência de notificação e recusa provisória do INPI ou por iniciativa do requerente, é fixada em (euro) 30, se o acto for praticado online, e em (euro) 60, se o acto for praticado em papel;
+
+e) A taxa de alteração de sinal, produtos ou reivindicação de cores num pedido de registo de marca ou logótipo, na sequência de notificação e recusa provisória do INPI ou por iniciativa do requerente, é fixada em (euro) 30, se o acto for praticado online, e em (euro) 60, se o acto for praticado em papel;
+
+f) A taxa de renovação do registo de marca e de logótipo é fixada em (euro) 100, se o acto for praticado online, e em (euro) 200, se o acto for praticado em papel;
+
+g) A taxa do pedido, requerido online, de suspensão de estudo e de prorrogação de prazo é fixada em (euro) 25;
+
+h) A taxa do pedido de modificação de decisão do INPI é fixada em (euro) 150, se o acto for praticado online, e em (euro) 300, se o acto for praticado em papel.
+
+2 - É prevista uma taxa de (euro) 10 para a preparação e transmissão de actos para a OMPI, IHMI e IEP sempre que o acto seja praticado online.
+
+3 - É ainda alterada a nomenclatura dos actos previstos nas várias tabelas relativamente às alterações de pedido ou registo e às desistências e renúncias.
+
+###### Artigo 3.º — Norma revogatória
+
+É revogado o artigo 6.º da Portaria n.º 1254/2009, de 14 de Outubro, que altera a [Portaria n.º 1098/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1098-2008-452175) de 30 de Setembro.
+
+###### Artigo 4.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 30 de Junho.
+
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 2 de Julho de 2010. - Pelo Ministro da Justiça, José Manuel Santos de Magalhães, Secretário de Estado da Justiça e da Modernização Judiciária, em 5 de Julho de 2010.
+
+## ANEXO — (a que se refere o artigo 4.º)
+
+Taxas de propriedade industrial
+
+TABELA I
+
+Marcas, logótipos, recompensas, denominações de origem e indicações geográficas
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)
+
+TABELA II
+
+Patentes de invenção, certificados complementares de protecção, modelos de utilidade e topografias dos produtos semicondutores
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)
+
+TABELA III
+
+Desenhos ou modelos
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)
+
+TABELA IV
+
+Taxas comuns
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2010/07/13300/0254602549.pdf)

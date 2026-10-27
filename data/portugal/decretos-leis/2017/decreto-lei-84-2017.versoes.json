@@ -1,0 +1,612 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107725088:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-122826406",
+ "dre_path": "/dr/detalhe/decreto-lei/84-2017-107725088",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-07-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122826796",
+    "122826797",
+    "122826798",
+    "122826799",
+    "122826800",
+    "122826801",
+    "122826802",
+    "122826803",
+    "122826804"
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "122826796",
+    "122826797",
+    "122826798",
+    "122826799",
+    "122826800",
+    "122826801",
+    "122826806",
+    "122826803",
+    "122826804",
+    "122826805"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "122826796",
+    "131546730",
+    "131546731",
+    "131546732",
+    "122826800",
+    "122826801",
+    "131546733",
+    "122826803",
+    "122826804",
+    "122826805"
+   ]
+  },
+  {
+   "date": "2020-08-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140013523:por",
+     "title": "Decreto-Lei n.º 54/2020",
+     "published": "2020-08-11",
+     "dre_path": "/dr/detalhe/decreto-lei/54-2020-140013523"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "122826796",
+    "131546730",
+    "131546731",
+    "131546732",
+    "122826800",
+    "122826801",
+    "140052136",
+    "122826803",
+    "122826804",
+    "122826805"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639825:por",
+     "title": "Lei n.º 75-B/2020",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/lei/75-b-2020-152639825"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "122826796",
+    "153141022",
+    "153141023",
+    "131546732",
+    "122826800",
+    "122826801",
+    "153141024",
+    "122826803",
+    "122826804",
+    "122826805"
+   ]
+  },
+  {
+   "date": "2022-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185224662:por",
+     "title": "Lei n.º 12/2022",
+     "published": "2022-06-27",
+     "dre_path": "/dr/detalhe/lei/12-2022-185224662"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "122826796",
+    "153141022",
+    "185370352",
+    "131546732",
+    "122826800",
+    "122826801",
+    "153141024",
+    "122826803",
+    "122826804",
+    "122826805"
+   ]
+  },
+  {
+   "date": "2022-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205050312:por",
+     "title": "Decreto-Lei n.º 85/2022",
+     "published": "2022-12-21",
+     "dre_path": "/dr/detalhe/decreto-lei/85-2022-205050312"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "122826796",
+    "205104281",
+    "205104282",
+    "205104283",
+    "205104284",
+    "122826801",
+    "205104285",
+    "122826803",
+    "122826804",
+    "122826805"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205557192:por",
+     "title": "Lei n.º 24-D/2022",
+     "published": "2022-12-30",
+     "dre_path": "/dr/detalhe/lei/24-d-2022-205557192"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "122826796",
+    "205104281",
+    "206249309",
+    "205104283",
+    "205104284",
+    "122826801",
+    "205104285",
+    "122826803",
+    "122826804",
+    "122826805"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835864042:por",
+     "title": "Lei n.º 82/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/lei/82-2023-835864042"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "122826796",
+    "205104281",
+    "836117272",
+    "205104283",
+    "205104284",
+    "122826801",
+    "205104285",
+    "836117273",
+    "836117274",
+    "836222375",
+    "836222376"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901667918:por",
+     "title": "Lei n.º 45-A/2024",
+     "published": "2024-12-31",
+     "dre_path": "/dr/detalhe/lei/45-a-2024-901667918"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "122826796",
+    "205104281",
+    "902120263",
+    "205104283",
+    "205104284",
+    "122826801",
+    "205104285",
+    "836117273",
+    "836117274",
+    "836222375",
+    "836222376"
+   ]
+  }
+ ],
+ "fragments": {
+  "122826796": {
+   "fragment_id": "122826407",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 84/2017\n\nde 21 de julho\n\nO Programa do XXI Governo Constitucional estabelece como uma das suas prioridades fortalecer, simplificar e desmaterializar a Administração, com o propósito de a tornar mais eficiente e facilitadora da vida dos cidadãos e das empresas, através do lançamento do Programa SIMPLEX+.\n\nNeste contexto, concretizando uma medida do Programa SIMPLEX+ 2016, é essencial a simplificação dos procedimentos de restituição de imposto sobre o valor acrescentado (IVA) às associações de bombeiros, às Forças Armadas, forças e serviços de segurança, à Santa Casa da Misericódia de Lisboa e às instituições particulares de solidariedade social, o que exige uma revisão dos regimes previstos nos Decretos-Leis n.os 20/90, de 13 de janeiro, e 113/90, de 5 abril.\n\nAqueles diplomas, embora sucessivamente revistos ao longo das últimas décadas, têm por base procedimentos burocráticos de validação e submissão de faturas e outros documentos de suporte em papel.\n\nA implementação de um sistema eletrónico de restituição de imposto sobre o valor acrescentado (IVA), aplicável não só aos bombeiros e às instituições particulares de solidariedade social, mas também às Forças Armadas e forças e serviços de segurança, permitirá tornar mais célere o processamento daqueles pedidos e o consequente pagamento aos beneficiários, aproveitando a informação eletrónica de faturação já recebida pela Autoridade Tributária e Aduaneira, reduzindo ainda os custos administrativos do processo.\n\nSão apenas atualizados os limites legalmente definidos à restituição do IVA, designadamente quanto ao valor mínimo por fatura e aos tipos de aquisições de bens e serviços abrangidos em relação a cada categoria de beneficiário, à exceção dos bombeiros e das Forças Armadas e forças e serviços de segurança cuja possibilidade de restituição é ampliada.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122826797": {
+   "fragment_id": "122826408",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei regula o benefício concedido às Forças Armadas, às forças e serviços de segurança, aos bombeiros, à Santa Casa da Misericórdia de Lisboa e às instituições particulares de solidariedade social, através da restituição total ou parcial do montante equivalente ao imposto sobre o valor acrescentado (IVA) suportado em determinadas aquisições de bens e serviços."
+  },
+  "122826798": {
+   "fragment_id": "122826409",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidades beneficiárias\n\n1 - Beneficiam da restituição total ou parcial do montante equivalente ao IVA suportado as seguintes entidades:\n\na) As Forças Armadas, a Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros e Fronteiras, o Serviço de Informações de Segurança, o Serviço de Informações Estratégicas de Defesa, a Polícia Judiciária, a Direção-Geral de Reinserção e Serviços Prisionais e a Autoridade Nacional de Proteção Civil quanto ao material de guerra e outros bens móveis destinados exclusivamente à prossecução de fins de defesa, segurança ou socorro, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nb) As associações humanitárias de bombeiros e os municípios, relativamente a corpos de bombeiros, quanto aos bens móveis de equipamento diretamente destinados à prossecução dos respetivos fins, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nc) A Santa Casa da Misericórdia de Lisboa e as instituições particulares de solidariedade social, quanto a:\n\ni) Construção, manutenção e conservação dos imóveis utilizados, total ou principalmente, na prossecução dos fins estatutários;\n\nii) Elementos do ativo fixo tangível sujeitos a deperecimento utilizados única e exclusivamente na prossecução dos respetivos fins estatutários, com exceção de veículos e respetivas reparações;\n\niii) Aquisições de bens ou serviços de alimentação e bebidas no âmbito das atividades sociais desenvolvidas;\n\n2 - Beneficiam ainda da restituição total ou parcial do montante equivalente ao IVA suportado as entidades públicas com competência para aquisições de bens ou serviços destinados exclusivamente às entidades previstas no número anterior que integrem a estrutura orgânica dos respetivos Ministérios, nos termos e com os limites aplicáveis àquelas entidades."
+  },
+  "122826799": {
+   "fragment_id": "122826410",
+   "type": 11,
+   "heading": "Artigo 3.º — Limites ao benefício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Limites ao benefício\n\nApenas pode ser objeto de restituição, ao abrigo do presente regime, o montante equivalente ao IVA suportado nas aquisições internas, nas importações e nas aquisições intracomunitárias, cujo valor por fatura seja igual ou superior aos seguintes montantes:\n\na) Às entidades referidas nas alíneas a) e b) do n.º 1 do artigo anterior, (euro) 1 000 com exclusão do IVA;\n\nb) À Santa Casa da Misericórdia de Lisboa e às instituições particulares de solidariedade social:\n\ni) (euro) 1 000 com exclusão do IVA para os bens e serviços previstos na subalínea i) da alínea c) do n.º 1 do artigo anterior;\n\nii) (euro) 100 com exclusão do IVA para os bens e serviços previstos na subalínea ii) da alínea c) do n.º 1 do artigo anterior e cujo valor global durante o exercício não seja superior a (euro) 10 000 com exclusão do IVA;\n\niii) Sem qualquer limite para os bens e serviços previstos na subalínea iii) da alínea c) do n.º 1 do artigo anterior."
+  },
+  "122826800": {
+   "fragment_id": "122826411",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante a restituir",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Montante a restituir\n\nAo abrigo do presente regime o montante restituído é:\n\na) 50 % do valor equivalente ao IVA suportado nas aquisições internas, nas importações e nas aquisições intracomunitárias, nos casos previstos na alínea c) do n.º 1 do artigo 2.º;\n\nb) 100 % deste valor, nos restantes casos."
+  },
+  "122826801": {
+   "fragment_id": "122826412",
+   "type": 11,
+   "heading": "Artigo 5.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requerimento\n\n1 - O pedido de restituição é apresentado pelo beneficiário, por transmissão eletrónica de dados, a partir do segundo mês seguinte à emissão dos documentos de suporte, até ao termo do prazo de um ano da data de emissão daqueles.\n\n2 - O pedido de restituição deve reportar-se a períodos mensais, englobando a totalidade dos documentos de suporte.\n\n3 - Constituem documentos de suporte, para efeito dos números anteriores, as faturas emitidas nos termos previstos no Código do IVA e comunicadas pelo sujeito passivo à Autoridade Tributária e Aduaneira, as declarações aduaneiras de importação, bem como os documentos previstos no n.º 1 do artigo 27.º do Regime do IVA nas Transações Intracomunitárias.\n\n4 - Os documentos de suporte devem ser mantidos em arquivo pelo prazo de quatro anos, sem prejuízo dos prazos de conservação de documentos estabelecidos para efeitos fiscais.\n\n5 - O pedido de restituição pode ser corrigido por iniciativa do beneficiário no prazo previsto no n.º 1."
+  },
+  "122826802": {
+   "fragment_id": "122826413",
+   "type": 11,
+   "heading": "Artigo 6.º — Decisão do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Decisão do pedido\n\n1 - Os pedidos de restituição são analisados pela Autoridade Tributária e Aduaneira no prazo de 90 dias, após confirmação da respetiva elegibilidade, por transmissão eletrónica de dados, com faculdade de delegação, pelas seguintes entidades:\n\na) Quanto às Forças Armadas, pelos dirigentes máximos que integram a estrutura orgânica do Ministério da Defesa Nacional, pelo Chefe do Estado-Maior-General das Forças Armadas e pelos Chefes do Estado-Maior dos respetivos ramos, consoante os serviços que processam as referidas aquisições;\n\nb) Quanto às forças e serviços de segurança, bem como às demais entidades previstas na alínea a) do n.º 1 do artigo 2.º, pelo respetivo comandante ou dirigente máximo;\n\nc) Quanto às associações humanitárias de bombeiros e aos municípios, pelo dirigente máximo da Autoridade Nacional de Proteção Civil ou dos serviços regionais de proteção civil em relação às entidades aí sedeadas;\n\nd) Quanto à Santa Casa da Misericórdia de Lisboa e às instituições particulares de solidariedade social, pelo dirigente máximo da administração central direta do Estado que exerça os poderes de inspeção, auditoria e fiscalização ou outra entidade que exerça a tutela nos termos legais.\n\n2 - A Autoridade Tributária e Aduaneira pode proceder à correção do benefício apurado, por iniciativa própria ou com base em correção do pedido de restituição por iniciativa do beneficiário, determinando o montante a restituir ou a pagar, sendo o valor a pagar deduzido das restituições subsequentes no prazo de 90 dias e emitida liquidação adicional do remanescente.\n\n3 - A restituição fica suspensa enquanto a entidade requerente não tiver a sua situação tributária regularizada.\n\n4 - As restituições autorizadas e não suspensas são pagas exclusivamente por transferência bancária para o IBAN (número internacional de conta bancária) que conste da base de dados da Autoridade Tributária e Aduaneira."
+  },
+  "122826803": {
+   "fragment_id": "122826414",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 113/90, de 5 de abril, alterado pelo Decreto-Lei n.º 139/92, de 17 de julho, e pelas Leis n.os 30-C/2000, de 29 de dezembro, e 55-B/2004, de 30 de dezembro."
+  },
+  "122826804": {
+   "fragment_id": "122826415",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de julho de 2017."
+  },
+  "122826806": {
+   "fragment_id": "122826413",
+   "type": 11,
+   "heading": "Artigo 6.º — Decisão do pedido",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 6.º — Decisão do pedido\n\n1 - Os pedidos de restituição são analisados pela Autoridade Tributária e Aduaneira no prazo de 90 dias, após confirmação da respetiva elegibilidade, por transmissão eletrónica de dados, com faculdade de delegação, pelas seguintes entidades:\n\na) Quanto às Forças Armadas, pelos dirigentes máximos que integram a estrutura orgânica do Ministério da Defesa Nacional, pelo Chefe do Estado-Maior-General das Forças Armadas e pelos Chefes do Estado-Maior dos respetivos ramos, consoante os serviços que processam as referidas aquisições;\n\nb) Quanto às forças e serviços de segurança, bem como às demais entidades previstas na alínea a) do n.º 1 do artigo 2.º, pelo respetivo comandante ou dirigente máximo;\n\nc) Quanto às associações humanitárias de bombeiros e aos municípios, pelo dirigente máximo da Autoridade Nacional de Proteção Civil ou dos serviços regionais de proteção civil em relação às entidades aí sedeadas;\n\nd) Quanto à Santa Casa da Misericórdia de Lisboa e às instituições particulares de solidariedade social, pelo dirigente máximo da administração central direta do Estado que exerça os poderes de inspeção, auditoria e fiscalização ou outra entidade que exerça a tutela nos termos legais.\n\n2 - No que respeita às instituições particulares de solidariedade social, a confirmação da elegibilidade dos pedidos de restituição a que se refere a alínea d) do número anterior, é efetuada pelo Instituto da Segurança Social, I. P., mediante validação da natureza jurídica das mencionadas instituições.\n\n3 - A Autoridade Tributária e Aduaneira pode proceder à correção do benefício apurado, por iniciativa própria ou com base em correção do pedido de restituição por iniciativa do beneficiário, determinando o montante a restituir ou a pagar, sendo o valor a pagar deduzido das restituições subsequentes no prazo de 90 dias e emitida liquidação adicional do remanescente.\n\n4 - A restituição fica suspensa enquanto a entidade requerente não tiver a sua situação tributária regularizada.\n\n5 - As restituições autorizadas e não suspensas são pagas exclusivamente por transferência bancária para o IBAN (número internacional de conta bancária) que conste da base de dados da Autoridade Tributária e Aduaneira.\n\n> Alterado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122826805": {
+   "fragment_id": "122826416",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de junho de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - José António Fonseca Vieira da Silva.\n\nPromulgado em 10 de julho de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 18 de julho de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "131546730": {
+   "fragment_id": "122826408",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei regula o benefício concedido às Forças Armadas, às forças e serviços de segurança, aos bombeiros, à Santa Casa da Misericórdia de Lisboa, às instituições particulares de solidariedade social, às entidades sem fins lucrativos do sistema nacional de ciência e tecnologia e ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), através da restituição total ou parcial do montante equivalente ao imposto sobre o valor acrescentado (IVA) suportado em determinadas aquisições de bens e serviços.\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "131546731": {
+   "fragment_id": "122826409",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades beneficiárias",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades beneficiárias\n\n1 - Beneficiam da restituição total ou parcial do montante equivalente ao IVA suportado as seguintes entidades:\n\na) As Forças Armadas, a Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros e Fronteiras, o Serviço de Informações de Segurança, o Serviço de Informações Estratégicas de Defesa, a Polícia Judiciária, a Direção-Geral de Reinserção e Serviços Prisionais e a Autoridade Nacional de Proteção Civil quanto ao material de guerra e outros bens móveis destinados exclusivamente à prossecução de fins de defesa, segurança ou socorro, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nb) O ICNF, I. P., as associações humanitárias de bombeiros e os municípios, relativamente a corpos de bombeiros, quanto aos bens móveis de equipamento diretamente destinados à prossecução dos respetivos fins, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nc) A Santa Casa da Misericórdia de Lisboa e as instituições particulares de solidariedade social, quanto a:\n\ni) Construção, manutenção e conservação dos imóveis utilizados, total ou principalmente, na prossecução dos fins estatutários;\n\nii) Elementos do ativo fixo tangível sujeitos a deperecimento utilizados única e exclusivamente na prossecução dos respetivos fins estatutários, com exceção de veículos e respetivas reparações;\n\niii) Aquisições de bens ou serviços de alimentação e bebidas no âmbito das atividades sociais desenvolvidas;\n\nd) As entidades sem fins lucrativos do sistema nacional de ciência e tecnologia inscritas no Inquérito ao Potencial Científico e Tecnológico Nacional (IPTCN), quanto aos instrumentos, equipamentos e reagentes adquiridos no âmbito da sua atividade de investigação e desenvolvimento (I&D), desde que o IVA das despesas não se encontre excluído do direito à dedução nos termos do artigo 21.º do Código do IVA.\n\n2 - Beneficiam ainda da restituição total ou parcial do montante equivalente ao IVA suportado as entidades públicas com competência para aquisições de bens ou serviços destinados exclusivamente às entidades previstas no número anterior que integrem a estrutura orgânica dos respetivos Ministérios, nos termos e com os limites aplicáveis àquelas entidades.\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "131546732": {
+   "fragment_id": "122826410",
+   "type": 11,
+   "heading": "Artigo 3.º — Limites ao benefício",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 3.º — Limites ao benefício\n\nApenas pode ser objeto de restituição, ao abrigo do presente regime, o montante equivalente ao IVA suportado nas aquisições internas, nas importações e nas aquisições intracomunitárias, cujo valor por fatura seja igual ou superior aos seguintes montantes:\n\na) Às entidades referidas nas alíneas a) e b) do n.º 1 do artigo anterior, (euro) 1 000 com exclusão do IVA;\n\nb) À Santa Casa da Misericórdia de Lisboa e às instituições particulares de solidariedade social:\n\ni) (euro) 1 000 com exclusão do IVA para os bens e serviços previstos na subalínea i) da alínea c) do n.º 1 do artigo anterior;\n\nii) (euro) 100 com exclusão do IVA para os bens e serviços previstos na subalínea ii) da alínea c) do n.º 1 do artigo anterior e cujo valor global durante o exercício não seja superior a (euro) 10 000 com exclusão do IVA;\n\niii) Sem qualquer limite para os bens e serviços previstos na subalínea iii) da alínea c) do n.º 1 do artigo anterior.\n\nc) Às entidades e para os bens previstos na alínea d) do n.º 1 do artigo anterior, sem qualquer limite.\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "131546733": {
+   "fragment_id": "122826413",
+   "type": 11,
+   "heading": "Artigo 6.º — Decisão do pedido",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 6.º — Decisão do pedido\n\n1 - Os pedidos de restituição são analisados pela Autoridade Tributária e Aduaneira no prazo de 90 dias, após confirmação da respetiva elegibilidade, por transmissão eletrónica de dados, com faculdade de delegação, pelas seguintes entidades:\n\na) Quanto às Forças Armadas, pelos dirigentes máximos que integram a estrutura orgânica do Ministério da Defesa Nacional, pelo Chefe do Estado-Maior-General das Forças Armadas e pelos Chefes do Estado-Maior dos respetivos ramos, consoante os serviços que processam as referidas aquisições;\n\nb) Quanto às forças e serviços de segurança, bem como às demais entidades previstas na alínea a) do n.º 1 do artigo 2.º, pelo respetivo comandante ou dirigente máximo;\n\nc) Quanto às associações humanitárias de bombeiros e aos municípios, pelo dirigente máximo da Autoridade Nacional de Proteção Civil ou dos serviços regionais de proteção civil em relação às entidades aí sedeadas;\n\nd) Quanto à Santa Casa da Misericórdia de Lisboa e às instituições particulares de solidariedade social, pelo dirigente máximo da administração central direta do Estado que exerça os poderes de inspeção, auditoria e fiscalização ou outra entidade que exerça a tutela nos termos legais;\n\ne) Quanto ao ICNF, I. P., pelo presidente do conselho diretivo desta entidade;\n\nf) Quanto às entidades sem fins lucrativos do sistema nacional de ciência e tecnologia, pela Fundação para a Ciência e Tecnologia, que deve ser apoiada pela Agência Nacional de Inovação, S. A., relativamente a projetos de I&D da sua competência.\n\n2 - No que respeita às instituições particulares de solidariedade social, a confirmação da elegibilidade dos pedidos de restituição a que se refere a alínea d) do número anterior, é efetuada pelo Instituto da Segurança Social, I. P., mediante validação da natureza jurídica das mencionadas instituições.\n\n3 - A Autoridade Tributária e Aduaneira pode proceder à correção do benefício apurado, por iniciativa própria ou com base em correção do pedido de restituição por iniciativa do beneficiário, determinando o montante a restituir ou a pagar, sendo o valor a pagar deduzido das restituições subsequentes no prazo de 90 dias e emitida liquidação adicional do remanescente.\n\n4 - A restituição fica suspensa enquanto a entidade requerente não tiver a sua situação tributária regularizada.\n\n5 - As restituições autorizadas e não suspensas são pagas exclusivamente por transferência bancária para o IBAN (número internacional de conta bancária) que conste da base de dados da Autoridade Tributária e Aduaneira.\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "140052136": {
+   "fragment_id": "122826413",
+   "type": 11,
+   "heading": "Artigo 6.º — Decisão do pedido",
+   "in_force_from": "2020-08-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 54/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2020-140013523), em vigor a partir de 2020-08-12",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 6.º — Decisão do pedido\n\n1 - Os pedidos de restituição são analisados pela Autoridade Tributária e Aduaneira no prazo de 90 dias, após confirmação da respetiva elegibilidade, por transmissão eletrónica de dados, com faculdade de delegação, pelas seguintes entidades:\n\na) Quanto às Forças Armadas, pelos dirigentes máximos que integram a estrutura orgânica do Ministério da Defesa Nacional, pelo Chefe do Estado-Maior-General das Forças Armadas e pelos Chefes do Estado-Maior dos respetivos ramos, consoante os serviços que processam as referidas aquisições;\n\nb) Quanto às forças e serviços de segurança, bem como às demais entidades previstas na alínea a) do n.º 1 do artigo 2.º, pelo respetivo comandante ou dirigente máximo;\n\nc) Quanto às associações humanitárias de bombeiros e aos municípios, pelo dirigente máximo da Autoridade Nacional de Proteção Civil ou dos serviços regionais de proteção civil em relação às entidades aí sedeadas;\n\nd) Quanto à Santa Casa da Misericórdia de Lisboa e às instituições particulares de solidariedade social, pelo dirigente máximo da administração central direta do Estado que exerça os poderes de inspeção, auditoria e fiscalização ou outra entidade que exerça a tutela nos termos legais;\n\ne) Quanto ao ICNF, I. P., pelo presidente do conselho diretivo desta entidade;\n\nf) Quanto às entidades sem fins lucrativos do sistema nacional de ciência e tecnologia, pela Fundação para a Ciência e Tecnologia, que deve ser apoiada pela Agência Nacional de Inovação, S. A., relativamente a projetos de I&D da sua competência.\n\n2 - A Autoridade Tributária e Aduaneira disponibiliza por interoperabilidade de dados ao Instituto da Segurança Social, I. P., objeto de protocolo, para efeitos de confirmação da elegibilidade referida na alínea d) do número anterior, a informação relativa aos pedidos de restituição submetidos no Portal das Finanças pelas instituições particulares de solidariedade social, onde se incluem os elementos relativos às faturas identificadas no pedido, constantes do sistema e-fatura, bem como a informação cadastral respeitante aos seus emitentes.\n\n3 - A Autoridade Tributária e Aduaneira pode proceder à correção do benefício apurado, por iniciativa própria ou com base em correção do pedido de restituição por iniciativa do beneficiário, determinando o montante a restituir ou a pagar, sendo o valor a pagar deduzido das restituições subsequentes no prazo de 90 dias e emitida liquidação adicional do remanescente.\n\n4 - A restituição fica suspensa enquanto a entidade requerente não tiver a sua situação tributária regularizada.\n\n5 - As restituições autorizadas e não suspensas são pagas exclusivamente por transferência bancária para o IBAN (número internacional de conta bancária) que conste da base de dados da Autoridade Tributária e Aduaneira.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 54/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2020-140013523), em vigor a partir de 2020-08-12\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "153141022": {
+   "fragment_id": "122826408",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei regula o benefício concedido às Forças Armadas, às forças e serviços de segurança, aos bombeiros, à Santa Casa da Misericórdia de Lisboa, às instituições particulares de solidariedade social, às instituições de ensino superior e às entidades sem fins lucrativos do sistema nacional de ciência e tecnologia e ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), através da restituição total ou parcial do montante equivalente ao imposto sobre o valor acrescentado (IVA) suportado em determinadas aquisições de bens e serviços.\n\n> Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "153141023": {
+   "fragment_id": "122826409",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades beneficiárias",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades beneficiárias\n\n1 - Beneficiam da restituição total ou parcial do montante equivalente ao IVA suportado as seguintes entidades:\n\na) As Forças Armadas, a Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros e Fronteiras, o Serviço de Informações de Segurança, o Serviço de Informações Estratégicas de Defesa, a Polícia Judiciária, a Direção-Geral de Reinserção e Serviços Prisionais e a Autoridade Nacional de Proteção Civil quanto ao material de guerra e outros bens móveis destinados exclusivamente à prossecução de fins de defesa, segurança ou socorro, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nb) O ICNF, I. P., as associações humanitárias de bombeiros e os municípios, relativamente a corpos de bombeiros, quanto aos bens móveis de equipamento diretamente destinados à prossecução dos respetivos fins, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nc) A Santa Casa da Misericórdia de Lisboa e as instituições particulares de solidariedade social, quanto a:\n\ni) Construção, manutenção e conservação dos imóveis utilizados, total ou principalmente, na prossecução dos fins estatutários;\n\nii) Elementos do ativo fixo tangível sujeitos a deperecimento utilizados única e exclusivamente na prossecução dos respetivos fins estatutários, com exceção de veículos e respetivas reparações;\n\niii) Aquisições de bens ou serviços de alimentação e bebidas no âmbito das atividades sociais desenvolvidas;\n\nd) As instituições de ensino superior e entidades sem fins lucrativos do sistema nacional de ciência e tecnologia inscritas no Inquérito ao Potencial Científico e Tecnológico Nacional (IPTCN), quanto aos instrumentos, equipamentos e reagentes adquiridos no âmbito da sua atividade de investigação e desenvolvimento (I&D), desde que o IVA das despesas não se encontre excluído do direito à dedução nos termos do artigo 21.º do Código do IVA.\n\n2 - Beneficiam ainda da restituição total ou parcial do montante equivalente ao IVA suportado as entidades públicas com competência para aquisições de bens ou serviços destinados exclusivamente às entidades previstas no número anterior que integrem a estrutura orgânica dos respetivos Ministérios, nos termos e com os limites aplicáveis àquelas entidades.\n\n> Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "153141024": {
+   "fragment_id": "122826413",
+   "type": 11,
+   "heading": "Artigo 6.º — Decisão do pedido",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 54/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2020-140013523), em vigor a partir de 2020-08-12",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 6.º — Decisão do pedido\n\n1 - Os pedidos de restituição são analisados pela Autoridade Tributária e Aduaneira no prazo de 90 dias, após confirmação da respetiva elegibilidade, por transmissão eletrónica de dados, com faculdade de delegação, pelas seguintes entidades:\n\na) Quanto às Forças Armadas, pelos dirigentes máximos que integram a estrutura orgânica do Ministério da Defesa Nacional, pelo Chefe do Estado-Maior-General das Forças Armadas e pelos Chefes do Estado-Maior dos respetivos ramos, consoante os serviços que processam as referidas aquisições;\n\nb) Quanto às forças e serviços de segurança, bem como às demais entidades previstas na alínea a) do n.º 1 do artigo 2.º, pelo respetivo comandante ou dirigente máximo;\n\nc) Quanto às associações humanitárias de bombeiros e aos municípios, pelo dirigente máximo da Autoridade Nacional de Proteção Civil ou dos serviços regionais de proteção civil em relação às entidades aí sedeadas;\n\nd) Quanto à Santa Casa da Misericórdia de Lisboa e às instituições particulares de solidariedade social, pelo dirigente máximo da administração central direta do Estado que exerça os poderes de inspeção, auditoria e fiscalização ou outra entidade que exerça a tutela nos termos legais;\n\ne) Quanto ao ICNF, I. P., pelo presidente do conselho diretivo desta entidade;\n\nf) Quanto às instituições de ensino superior e às entidades sem fins lucrativos do sistema nacional de ciência e tecnologia, pela Fundação para a Ciência e Tecnologia, que deve ser apoiada pela Agência Nacional de Inovação, S. A. (ANI, S. A.), relativamente a projetos de investigação e desenvolvimento (I&D) da sua competência.\n\n2 - A Autoridade Tributária e Aduaneira disponibiliza por interoperabilidade de dados ao Instituto da Segurança Social, I. P., objeto de protocolo, para efeitos de confirmação da elegibilidade referida na alínea d) do número anterior, a informação relativa aos pedidos de restituição submetidos no Portal das Finanças pelas instituições particulares de solidariedade social, onde se incluem os elementos relativos às faturas identificadas no pedido, constantes do sistema e-fatura, bem como a informação cadastral respeitante aos seus emitentes.\n\n3 - A Autoridade Tributária e Aduaneira pode proceder à correção do benefício apurado, por iniciativa própria ou com base em correção do pedido de restituição por iniciativa do beneficiário, determinando o montante a restituir ou a pagar, sendo o valor a pagar deduzido das restituições subsequentes no prazo de 90 dias e emitida liquidação adicional do remanescente.\n\n4 - A restituição fica suspensa enquanto a entidade requerente não tiver a sua situação tributária regularizada.\n\n5 - As restituições autorizadas e não suspensas são pagas exclusivamente por transferência bancária para o IBAN (número internacional de conta bancária) que conste da base de dados da Autoridade Tributária e Aduaneira.\n\n> Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 54/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2020-140013523), em vigor a partir de 2020-08-12\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "185370352": {
+   "fragment_id": "122826409",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades beneficiárias",
+   "in_force_from": "2022-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 320.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28",
+    "Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades beneficiárias\n\n1 - Beneficiam da restituição total ou parcial do montante equivalente ao IVA suportado as seguintes entidades:\n\na) As Forças Armadas, a Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros e Fronteiras, o Serviço de Informações de Segurança, o Serviço de Informações Estratégicas de Defesa, a Polícia Judiciária, a Direção-Geral de Reinserção e Serviços Prisionais e a Autoridade Nacional de Proteção Civil quanto ao material de guerra e outros bens móveis destinados exclusivamente à prossecução de fins de defesa, segurança ou socorro, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nb) O ICNF, I. P., as associações humanitárias de bombeiros e os municípios, relativamente a corpos de bombeiros, quanto aos bens móveis de equipamento diretamente destinados à prossecução dos respetivos fins, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nc) A Santa Casa da Misericórdia de Lisboa e as instituições particulares de solidariedade social, quanto a:\n\ni) Construção, manutenção e conservação dos imóveis utilizados, total ou principalmente, na prossecução dos fins estatutários;\n\nii) Elementos do ativo fixo tangível sujeitos a deperecimento utilizados única e exclusivamente na prossecução dos respetivos fins estatutários, com exceção de veículos e respetivas reparações;\n\niii) Aquisições de bens ou serviços de alimentação e bebidas no âmbito das atividades sociais desenvolvidas;\n\nd) As instituições de ensino superior e entidades sem fins lucrativos do sistema nacional de ciência e tecnologia inscritas no inquérito ao potencial científico e tecnológico nacional (IPTCN), quanto aos instrumentos, equipamentos, reagentes, consumíveis e licenças adquiridos no âmbito da sua atividade de investigação e desenvolvimento (I&D), desde que o IVA das despesas não se encontre excluído do direito à dedução nos termos do artigo 21.º do Código do IVA.\n\n2 - Beneficiam ainda da restituição total ou parcial do montante equivalente ao IVA suportado as entidades públicas com competência para aquisições de bens ou serviços destinados exclusivamente às entidades previstas no número anterior que integrem a estrutura orgânica dos respetivos Ministérios, nos termos e com os limites aplicáveis àquelas entidades.\n\n> Alterado pelo/a Artigo 320.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28\n\n> Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "205104281": {
+   "fragment_id": "122826408",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22",
+    "Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei regula o benefício concedido às Forças Armadas, às forças e serviços de segurança, aos bombeiros, à Santa Casa da Misericórdia de Lisboa, às instituições particulares de solidariedade social, às instituições de ensino superior e às entidades sem fins lucrativos do sistema nacional de ciência e tecnologia, ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), e às entidades com a classificação portuguesa de atividades económicas principal '82300 - Organização de feiras, congressos e outros eventos similares', através da restituição total ou parcial do montante equivalente ao imposto sobre o valor acrescentado (IVA) suportado em determinadas aquisições de bens e serviços.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22\n\n> Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "205104282": {
+   "fragment_id": "122826409",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades beneficiárias",
+   "in_force_from": "2022-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22",
+    "Alterado pelo/a Artigo 320.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28",
+    "Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades beneficiárias\n\n1 - Beneficiam da restituição total ou parcial do montante equivalente ao IVA suportado as seguintes entidades:\n\na) As Forças Armadas, a Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros e Fronteiras, o Serviço de Informações de Segurança, o Serviço de Informações Estratégicas de Defesa, a Polícia Judiciária, a Direção-Geral de Reinserção e Serviços Prisionais e a Autoridade Nacional de Proteção Civil quanto ao material de guerra e outros bens móveis destinados exclusivamente à prossecução de fins de defesa, segurança ou socorro, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nb) O ICNF, I. P., as associações humanitárias de bombeiros e os municípios, relativamente a corpos de bombeiros, quanto aos bens móveis de equipamento diretamente destinados à prossecução dos respetivos fins, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nc) A Santa Casa da Misericórdia de Lisboa e as instituições particulares de solidariedade social, quanto a:\n\ni) Construção, manutenção e conservação dos imóveis utilizados, total ou principalmente, na prossecução dos fins estatutários;\n\nii) Elementos do ativo fixo tangível sujeitos a deperecimento utilizados única e exclusivamente na prossecução dos respetivos fins estatutários, com exceção de veículos e respetivas reparações;\n\niii) Aquisições de bens ou serviços de alimentação e bebidas no âmbito das atividades sociais desenvolvidas;\n\nd) As instituições de ensino superior e entidades sem fins lucrativos do sistema nacional de ciência e tecnologia inscritas no inquérito ao potencial científico e tecnológico nacional (IPTCN), quanto aos instrumentos, equipamentos, reagentes, consumíveis e licenças adquiridos no âmbito da sua atividade de investigação e desenvolvimento (I&D), desde que o IVA das despesas não se encontre excluído do direito à dedução nos termos do artigo 21.º do Código do IVA.\n\ne) As entidades com a classificação portuguesa de atividades económicas principal '82300 - Organização de feiras, congressos e outros eventos similares', quanto às seguintes despesas relativas à organização de congressos, feiras, exposições, seminários, conferências e similares, nos termos da alínea d) do n.º 2 do artigo 21.º do Código do IVA:\n\ni) Despesas de transportes e viagens de negócios e do seu pessoal, incluindo as portagens;\n\nii) Despesas respeitantes a alojamento, alimentação e bebidas;\n\niii) Despesas de receção, incluindo as relativas ao acolhimento de pessoas estranhas à empresa;\n\niv) Despesas relativas a imóveis ou parte de imóveis e seu equipamento, destinados principalmente a tais receções.\n\n2 - Beneficiam ainda da restituição total ou parcial do montante equivalente ao IVA suportado as entidades públicas com competência para aquisições de bens ou serviços destinados exclusivamente às entidades previstas no número anterior que integrem a estrutura orgânica dos respetivos Ministérios, nos termos e com os limites aplicáveis àquelas entidades.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22\n\n> Alterado pelo/a Artigo 320.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28\n\n> Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "205104283": {
+   "fragment_id": "122826410",
+   "type": 11,
+   "heading": "Artigo 3.º — Limites ao benefício",
+   "in_force_from": "2022-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 3.º — Limites ao benefício\n\nApenas pode ser objeto de restituição, ao abrigo do presente regime, o montante equivalente ao IVA suportado nas aquisições internas, nas importações e nas aquisições intracomunitárias, cujo valor por fatura seja igual ou superior aos seguintes montantes:\n\na) Às entidades referidas nas alíneas a) e b) do n.º 1 do artigo anterior, (euro) 1 000 com exclusão do IVA;\n\nb) À Santa Casa da Misericórdia de Lisboa e às instituições particulares de solidariedade social:\n\ni) (euro) 1 000 com exclusão do IVA para os bens e serviços previstos na subalínea i) da alínea c) do n.º 1 do artigo anterior;\n\nii) (euro) 100 com exclusão do IVA para os bens e serviços previstos na subalínea ii) da alínea c) do n.º 1 do artigo anterior e cujo valor global durante o exercício não seja superior a (euro) 10 000 com exclusão do IVA;\n\niii) Sem qualquer limite para os bens e serviços previstos na subalínea iii) da alínea c) do n.º 1 do artigo anterior.\n\nc) Às entidades e para os bens previstos nas alíneas d) e e) do n.º 1 do artigo anterior, sem qualquer limite.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "205104284": {
+   "fragment_id": "122826411",
+   "type": 11,
+   "heading": "Artigo 4.º — Montante a restituir",
+   "in_force_from": "2022-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22"
+   ],
+   "markdown": "###### Artigo 4.º — Montante a restituir\n\nAo abrigo do presente regime o montante restituído é:\n\na) 50 % do valor equivalente ao IVA suportado nas aquisições internas, nas importações e nas aquisições intracomunitárias, nos casos previstos na alínea c) do n.º 1 do artigo 2.º;\n\nb) 100 % deste valor, nos restantes casos.\n\nc) 50 % do IVA suportado, na medida em que este não seja dedutível nos termos da alínea d) do n.º 2 do artigo 21.º do Código do IVA, nos casos previstos na alínea e) do n.º 1 do artigo 2.º\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22"
+  },
+  "205104285": {
+   "fragment_id": "122826413",
+   "type": 11,
+   "heading": "Artigo 6.º — Decisão do pedido",
+   "in_force_from": "2022-12-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22",
+    "Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 54/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2020-140013523), em vigor a partir de 2020-08-12",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 6.º — Decisão do pedido\n\n1 - Os pedidos de restituição são analisados pela Autoridade Tributária e Aduaneira no prazo de 90 dias, após confirmação da respetiva elegibilidade, por transmissão eletrónica de dados, com faculdade de delegação, pelas seguintes entidades:\n\na) Quanto às Forças Armadas, pelos dirigentes máximos que integram a estrutura orgânica do Ministério da Defesa Nacional, pelo Chefe do Estado-Maior-General das Forças Armadas e pelos Chefes do Estado-Maior dos respetivos ramos, consoante os serviços que processam as referidas aquisições;\n\nb) Quanto às forças e serviços de segurança, bem como às demais entidades previstas na alínea a) do n.º 1 do artigo 2.º, pelo respetivo comandante ou dirigente máximo;\n\nc) Quanto às associações humanitárias de bombeiros e aos municípios, pelo dirigente máximo da Autoridade Nacional de Proteção Civil ou dos serviços regionais de proteção civil em relação às entidades aí sedeadas;\n\nd) Quanto à Santa Casa da Misericórdia de Lisboa e às instituições particulares de solidariedade social, pelo dirigente máximo da administração central direta do Estado que exerça os poderes de inspeção, auditoria e fiscalização ou outra entidade que exerça a tutela nos termos legais;\n\ne) Quanto ao ICNF, I. P., pelo presidente do conselho diretivo desta entidade;\n\nf) Quanto às instituições de ensino superior e às entidades sem fins lucrativos do sistema nacional de ciência e tecnologia, pela Fundação para a Ciência e Tecnologia, que deve ser apoiada pela Agência Nacional de Inovação, S. A. (ANI, S. A.), relativamente a projetos de investigação e desenvolvimento (I&D) da sua competência.\n\ng) Quanto às entidades com a classificação portuguesa de atividades económicas principal '82300 - Organização de feiras, congressos e outros eventos similares', pelo Turismo de Portugal, I. P.\n\n2 - A Autoridade Tributária e Aduaneira disponibiliza por interoperabilidade de dados ao Instituto da Segurança Social, I. P., objeto de protocolo, para efeitos de confirmação da elegibilidade referida na alínea d) do número anterior, a informação relativa aos pedidos de restituição submetidos no Portal das Finanças pelas instituições particulares de solidariedade social, onde se incluem os elementos relativos às faturas identificadas no pedido, constantes do sistema e-fatura, bem como a informação cadastral respeitante aos seus emitentes.\n\n3 - A Autoridade Tributária e Aduaneira pode proceder à correção do benefício apurado, por iniciativa própria ou com base em correção do pedido de restituição por iniciativa do beneficiário, determinando o montante a restituir ou a pagar, sendo o valor a pagar deduzido das restituições subsequentes no prazo de 90 dias e emitida liquidação adicional do remanescente.\n\n4 - A restituição fica suspensa enquanto a entidade requerente não tiver a sua situação tributária regularizada.\n\n5 - As restituições autorizadas e não suspensas são pagas exclusivamente por transferência bancária para o IBAN (número internacional de conta bancária) que conste da base de dados da Autoridade Tributária e Aduaneira.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22\n\n> Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 54/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2020-140013523), em vigor a partir de 2020-08-12\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "206249309": {
+   "fragment_id": "122826409",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades beneficiárias",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 267.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22",
+    "Alterado pelo/a Artigo 320.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28",
+    "Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades beneficiárias\n\n1 - Beneficiam da restituição total ou parcial do montante equivalente ao IVA suportado as seguintes entidades:\n\na) As Forças Armadas, a Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros e Fronteiras, o Serviço de Informações de Segurança, o Serviço de Informações Estratégicas de Defesa, a Polícia Judiciária, a Direção-Geral de Reinserção e Serviços Prisionais e a Autoridade Nacional de Proteção Civil quanto ao material de guerra e outros bens móveis destinados exclusivamente à prossecução de fins de defesa, segurança ou socorro, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nb) O ICNF, I. P., as associações humanitárias de bombeiros e os municípios, relativamente a corpos de bombeiros, quanto aos bens móveis de equipamento diretamente destinados à prossecução dos respetivos fins, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nc) A Santa Casa da Misericórdia de Lisboa e as instituições particulares de solidariedade social, quanto a:\n\ni) Construção, manutenção e conservação dos imóveis utilizados, total ou principalmente, na prossecução dos fins estatutários;\n\nii) Elementos do ativo fixo tangível sujeitos a deperecimento utilizados única e exclusivamente na prossecução dos respetivos fins estatutários, com exceção de veículos e respetivas reparações;\n\niii) Aquisições de bens ou serviços de alimentação e bebidas no âmbito das atividades sociais desenvolvidas;\n\nd) As instituições de ensino superior e entidades sem fins lucrativos do sistema nacional de ciência e tecnologia inscritas no Inquérito ao Potencial Científico e Tecnológico Nacional, relativamente a:\n\ni) Instrumentos, equipamentos, reagentes, consumíveis e licenças específicos adquiridos no âmbito da sua atividade de investigação e desenvolvimento (I&D), desde que o IVA das despesas não se encontre excluído do direito à dedução nos termos do artigo 21.º do Código do IVA; e\n\nii) Adaptação de edifícios e instalações quando imprescindível à realização do projeto, nomeadamente por questões ambientais e de segurança, na medida em que sejam considerados custos diretos elegíveis para financiamento por fundos nacionais através da Fundação para a Ciência e a Tecnologia, I. P.\n\ne) As entidades com a classificação portuguesa de atividades económicas principal '82300 - Organização de feiras, congressos e outros eventos similares', quanto às seguintes despesas relativas à organização de congressos, feiras, exposições, seminários, conferências e similares, nos termos da alínea d) do n.º 2 do artigo 21.º do Código do IVA:\n\ni) Despesas de transportes e viagens de negócios e do seu pessoal, incluindo as portagens;\n\nii) Despesas respeitantes a alojamento, alimentação e bebidas;\n\niii) Despesas de receção, incluindo as relativas ao acolhimento de pessoas estranhas à empresa;\n\niv) Despesas relativas a imóveis ou parte de imóveis e seu equipamento, destinados principalmente a tais receções.\n\n2 - Beneficiam ainda da restituição total ou parcial do montante equivalente ao IVA suportado as entidades públicas com competência para aquisições de bens ou serviços destinados exclusivamente às entidades previstas no número anterior que integrem a estrutura orgânica dos respetivos Ministérios, nos termos e com os limites aplicáveis àquelas entidades.\n\n> Alterado pelo/a Artigo 267.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22\n\n> Alterado pelo/a Artigo 320.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28\n\n> Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "836117272": {
+   "fragment_id": "122826409",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades beneficiárias",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 248.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 267.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22",
+    "Alterado pelo/a Artigo 320.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28",
+    "Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades beneficiárias\n\n1 - Beneficiam da restituição total ou parcial do montante equivalente ao IVA suportado as seguintes entidades:\n\na) As Forças Armadas, a Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros e Fronteiras, o Serviço de Informações de Segurança, o Serviço de Informações Estratégicas de Defesa, a Polícia Judiciária, a Direção-Geral de Reinserção e Serviços Prisionais e a Autoridade Nacional de Proteção Civil quanto ao material de guerra e outros bens móveis destinados exclusivamente à prossecução de fins de defesa, segurança ou socorro, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nb) O ICNF, I. P., as associações humanitárias de bombeiros e os municípios, relativamente a corpos de bombeiros, quanto aos bens móveis de equipamento diretamente destinados à prossecução dos respetivos fins, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nc) A Santa Casa da Misericórdia de Lisboa e as instituições particulares de solidariedade social, quanto a:\n\ni) Construção, manutenção e conservação dos imóveis utilizados, total ou principalmente, na prossecução dos fins estatutários;\n\nii) Elementos do ativo fixo tangível sujeitos a deperecimento utilizados única e exclusivamente na prossecução dos respetivos fins estatutários, com exceção de veículos e respetivas reparações;\n\niii) Aquisições de bens ou serviços de alimentação e bebidas no âmbito das atividades sociais desenvolvidas;\n\nd) As instituições de ensino superior e entidades sem fins lucrativos do sistema nacional de ciência e tecnologia inscritas no Inquérito ao Potencial Científico e Tecnológico Nacional, relativamente a:\n\ni) Instrumentos, equipamentos, reagentes, consumíveis e licenças específicos adquiridos no âmbito da sua atividade de investigação e desenvolvimento (I&D), desde que o IVA das despesas não se encontre excluído do direito à dedução nos termos do artigo 21.º do Código do IVA; e\n\nii) Adaptação de edifícios e instalações quando imprescindível à realização do projeto, nomeadamente por questões ambientais e de segurança, na medida em que sejam considerados custos diretos elegíveis para financiamento por fundos nacionais através da Fundação para a Ciência e a Tecnologia, I. P.\n\ne) As entidades com a classificação portuguesa de atividades económicas principal '82300 - Organização de feiras, congressos e outros eventos similares' e '79110 - Atividades das agências de viagem' quanto às seguintes despesas relativas à organização de congressos, feiras, exposições, seminários, conferências e similares, nos termos da alínea d) do n.º 2 do artigo 21.º do Código do IVA:\n\ni) Despesas de transportes e viagens de negócios e do seu pessoal, incluindo as portagens;\n\nii) Despesas respeitantes a alojamento, alimentação e bebidas;\n\niii) Despesas de receção, incluindo as relativas ao acolhimento de pessoas estranhas à empresa;\n\niv) Despesas relativas a imóveis ou parte de imóveis e seu equipamento, destinados principalmente a tais receções.\n\n2 - Beneficiam ainda da restituição total ou parcial do montante equivalente ao IVA suportado as entidades públicas com competência para aquisições de bens ou serviços destinados exclusivamente às entidades previstas no número anterior que integrem a estrutura orgânica dos respetivos Ministérios, nos termos e com os limites aplicáveis àquelas entidades.\n\n> Alterado pelo/a Artigo 248.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 267.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22\n\n> Alterado pelo/a Artigo 320.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28\n\n> Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "836117273": {
+   "fragment_id": "836211021",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Não duplicação de benefício",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 249.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Não duplicação de benefício\n\n1 - A restituição do montante equivalente ao IVA suportado, ao abrigo do presente regime ou de outros regimes de restituição, apenas é aplicável na medida em que o IVA suportado não seja dedutível e o respetivo montante equivalente não tenha sido restituído ao abrigo de outro regime.\n\n2 - Sem prejuízo do disposto no número anterior, havendo restituição do montante equivalente ao IVA, ao abrigo do presente regime ou de outros regimes de restituição, o sujeito passivo não pode deduzir, em sede de IVA, o montante correspondente à restituição recebida e não devolvida ao Estado.\n\n> Aditado pelo/a Artigo 249.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01"
+  },
+  "836117274": {
+   "fragment_id": "122826414",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 113/90, de 5 de abril, alterado pelo Decreto-Lei n.º 139/92, de 17 de julho, e pelas Leis n.os 30-C/2000, de 29 de dezembro, e 55-B/2004, de 30 de dezembro."
+  },
+  "836222375": {
+   "fragment_id": "122826415",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de julho de 2017."
+  },
+  "836222376": {
+   "fragment_id": "122826416",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de junho de 2017. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - Maria Constança Dias Urbano de Sousa - Francisca Eugénia da Silva Dias Van Dunem - José António Fonseca Vieira da Silva.\n\nPromulgado em 10 de julho de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 18 de julho de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "902120263": {
+   "fragment_id": "122826409",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades beneficiárias",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 326.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 248.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 267.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22",
+    "Alterado pelo/a Artigo 320.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28",
+    "Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades beneficiárias\n\n1 - Beneficiam da restituição total ou parcial do montante equivalente ao IVA suportado as seguintes entidades:\n\na) As Forças Armadas, a Guarda Nacional Republicana, a Polícia de Segurança Pública, o Serviço de Estrangeiros e Fronteiras, o Serviço de Informações de Segurança, o Serviço de Informações Estratégicas de Defesa, a Polícia Judiciária, a Direção-Geral de Reinserção e Serviços Prisionais, a Autoridade Nacional de Proteção Civil, o Serviço Regional de Proteção Civil, IP-RAM, e o Serviço Regional de Proteção Civil e Bombeiros dos Açores, quanto ao material de guerra e outros bens móveis destinados exclusivamente à prossecução de fins de defesa, segurança ou socorro, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nb) O ICNF, I. P., as associações humanitárias de bombeiros, os municípios, relativamente a corpos de bombeiros, e as entidades titulares de sapadores florestais integradas no Sistema de Gestão Integrada de Fogos Rurais, quando não possam exercer o direito à dedução do IVA, quanto aos bens móveis de equipamento diretamente destinados à prossecução dos respetivos fins, incluindo os serviços necessários à conservação, reparação e manutenção desse equipamento;\n\nc) A Santa Casa da Misericórdia de Lisboa e as instituições particulares de solidariedade social, quanto a:\n\ni) Construção, manutenção e conservação dos imóveis utilizados, total ou principalmente, na prossecução dos fins estatutários;\n\nii) Elementos do ativo fixo tangível sujeitos a deperecimento utilizados única e exclusivamente na prossecução dos respetivos fins estatutários, com exceção de veículos e respetivas reparações;\n\niii) Aquisições de bens ou serviços de alimentação e bebidas no âmbito das atividades sociais desenvolvidas;\n\nd) As instituições de ensino superior e entidades sem fins lucrativos do sistema nacional de ciência e tecnologia inscritas no Inquérito ao Potencial Científico e Tecnológico Nacional, relativamente a:\n\ni) Instrumentos, equipamentos, reagentes, consumíveis e licenças específicos adquiridos no âmbito da sua atividade de investigação e desenvolvimento (I&D), desde que o IVA das despesas não se encontre excluído do direito à dedução nos termos do artigo 21.º do Código do IVA; e\n\nii) Adaptação de edifícios e instalações quando imprescindível à realização do projeto, nomeadamente por questões ambientais e de segurança, na medida em que sejam considerados custos diretos elegíveis para financiamento por fundos nacionais através da Fundação para a Ciência e a Tecnologia, I. P.\n\ne) As entidades com a classificação portuguesa de atividades económicas principal '82300 - Organização de feiras, congressos e outros eventos similares' e '79110 - Atividades das agências de viagem' quanto às seguintes despesas relativas à organização de congressos, feiras, exposições, seminários, conferências e similares, nos termos da alínea d) do n.º 2 do artigo 21.º do Código do IVA:\n\ni) Despesas de transportes e viagens de negócios e do seu pessoal, incluindo as portagens;\n\nii) Despesas respeitantes a alojamento, alimentação e bebidas;\n\niii) Despesas de receção, incluindo as relativas ao acolhimento de pessoas estranhas à empresa;\n\niv) Despesas relativas a imóveis ou parte de imóveis e seu equipamento, destinados principalmente a tais receções.\n\n2 - Beneficiam ainda da restituição total ou parcial do montante equivalente ao IVA suportado as entidades públicas com competência para aquisições de bens ou serviços destinados exclusivamente às entidades previstas no número anterior que integrem a estrutura orgânica dos respetivos Ministérios, nos termos e com os limites aplicáveis àquelas entidades.\n\n> Alterado pelo/a Artigo 326.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 248.º do/a [Lei n.º 82/2023 - Diário da República n.º 250/2023, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/lei/82-2023-835864042), em vigor a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 267.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22\n\n> Alterado pelo/a Artigo 320.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28\n\n> Alterado pelo/a Artigo 381.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 340.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  }
+ }
+}

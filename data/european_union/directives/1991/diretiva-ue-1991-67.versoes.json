@@ -1,0 +1,439 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31991L0067:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991L0067-20080801",
+ "dre_path": null,
+ "source_lastmod": "2008-08-01",
+ "versions": [
+  {
+   "date": "1991-02-19",
+   "future": false,
+   "celex": "31991L0067",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7ef53e22b7c9aec4",
+    "4b0892785626870d",
+    "ec3f2fa253c285b2",
+    "771e7f2b10b60977",
+    "a1a4a5dd89fbe6bd",
+    "053f2f275e107a30",
+    "2726084af4adf22e",
+    "5c3a210d3f38021b",
+    "88ff50ceb46a2207",
+    "539675aff63c50ff",
+    "0323f35ce3febd3c",
+    "4e9c884a1ce3d67c",
+    "78adbf9a2dcae13e",
+    "0bb6967f69203214",
+    "f782663fdb6a1e88",
+    "5ce67afb6afa59c2",
+    "1c365e45074d847b",
+    "b4b0426bbcb1267e",
+    "94565ee36c3472ab",
+    "56740081b0f7fa22",
+    "9a73478080cf3e2e",
+    "32ecb971a8b52e25",
+    "ef5f547ea26805c4",
+    "10ee8a16866411a4",
+    "5f88c5e75a717fd1",
+    "816163908419cc0a",
+    "ff21b0bf7f6bd174",
+    "689d6a4125fe5f1d",
+    "591a961f4c440c55",
+    "aa6f2f88fe24f59e",
+    "fbd9d0384a32c221",
+    "83f6184b4c779434",
+    "88a95ef5e90cd370",
+    "3162eed5c2c16538",
+    "032d7c56d8a8b04e",
+    "9416e798d987e618",
+    "09402a3efdef6a75",
+    "177ac3a40074c1cf",
+    "4ebd2aaf3893b0a0",
+    "f7422be3f0f18b24"
+   ]
+  },
+  {
+   "date": "2008-08-01",
+   "future": false,
+   "celex": "01991L0067-20080801",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO 1 Disposições gerais",
+    "Suprime Artigo 1°.",
+    "Suprime Artigo 2°.",
+    "Suprime Artigo 3°.",
+    "Suprime Artigo 4°.",
+    "Suprime Artigo 5°.",
+    "Suprime Artigo 6°.",
+    "Suprime Artigo 7°.",
+    "Suprime Artigo 8°.",
+    "Suprime Artigo 9°.",
+    "Suprime Artigo 10°.",
+    "Suprime Artigo 11°.",
+    "Suprime Artigo 12°.",
+    "Suprime Artigo 13°.",
+    "Suprime Artigo 14°.",
+    "Suprime Artigo 15°.",
+    "Suprime Artigo 16°.",
+    "Suprime Artigo 17°.",
+    "Suprime CAPÍTULO 3 Regras aplicáveis às importações provenientes dos países terceiros",
+    "Suprime Artigo 18°.",
+    "Suprime Artigo 19°.",
+    "Suprime Artigo 20°.",
+    "Suprime Artigo 21°.",
+    "Suprime Artigo 22°.",
+    "Suprime Artigo 23°.",
+    "Suprime Artigo 24°.",
+    "Suprime CAPÍTULO 4 Disposições finais",
+    "Suprime Artigo 25°.",
+    "Suprime Artigo 26°.",
+    "Suprime Artigo 27°.",
+    "Suprime Artigo 28°.",
+    "Suprime Artigo 29°.",
+    "Suprime Artigo 30°.",
+    "Suprime ANEXO A — LISTAS DAS DOENÇAS E DAS ESPÉCIES SENSÍVEIS",
+    "Suprime ANEXO B — ZONAS APROVADAS",
+    "Suprime ANEXO C — EXPLORAÇÕES APROVADAS NUMA ZONA NÃO APROVADA",
+    "Suprime ANEXO D — RENOVAÇÃO DA ÁGUA",
+    "Suprime ANEXO E — Modelos de documento de transporte",
+    "Suprime CAPÍTULO 1 — DOCUMENTO DE TRANSPORTE PARA OS PEIXES VIVOS, OVOS E GÂMETAS PROVENIENTES DE UMA ZONA APROVADA"
+   ],
+   "fragments": [
+    "f724da4a4e9efeb5"
+   ]
+  }
+ ],
+ "fragments": {
+  "7ef53e22b7c9aec4": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 91/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura** *Jornal Oficial nº L 046 de 19/02/1991 p. 0001 - 0018 Edição especial finlandesa: Capítulo 3 Fascículo 36 p. 0137 Edição especial sueca: Capítulo 3 Fascículo 36 p. 0137*\n\nDIRECTIVA DO CONSELHO de 28 de Janeiro de 1991 relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura (91/67/CEE)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43°.,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\nConsiderando que os animais e os produtos da aquicultura fazem parte da lista constante do anexo II do Tratado;\n\nConsiderando que a cultura dos animais de aquicultura e a introdução no mercado dos animais e produtos da aquicultura constituem uma fonte de rendimento para as pessoas que trabalham no sector das pescas;\n\nConsiderando que, com vista a assegurar o desenvolvimento racional deste sector e aumentar a produtividade, é importante fixar, a nível comunitário, as regras de polícia sanitária que o regem;\n\nConsiderando que, nesse âmbito, é importante contribuir para a realização do mercado interno, evitando, ao mesmo tempo, a propagação das doenças contagiosas;\n\nConsiderando que a situação zoossanitária dos animais de aquicultura não é homogénea no território da Comunidade; que é conveniente fazer referência à noção de zonas para as partes de território em causa;\n\nConsiderando que é adequado definir os critérios e o procedimento para a concessão, manutenção, suspensão, restabelecimento e retirada de aprovação dessas zonas;\n\nConsiderando que convirá também fazer referência à noção de exploração que beneficia de um estatuto zoossanitário específico;\n\nConsiderando que é adequado definir os critérios e o procedimento para a concessão, manutenção, suspensão, restabelecimento e retirada de aprovação dessas explorações;\n\nConsiderando que é necessário fixar as exigências comunitárias aplicáveis à importação de animais e produtos da aquicultura em proveniência dos países terceiros; que essas exigências devem incluir as medidas de salvaguarda adequadas;\n\nConsiderando que deve ser estabelecido um sistema de inspecção comunitário para a verificação do respeito do disposto na presente directiva;\n\nConsiderando que convirá proceder a estudos científicos para, de futuro, poder completar as regras previstas na presente directiva;\n\nConsiderando que é necessário prever um procedimento que estabeleça uma cooperação estreita entre os Estados-membros e a Comissão no Comité Veterinário Permanente,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "4b0892785626870d": {
+   "fragment_id": "CAPÍTULO 1 Disposições gerais",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1 Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 1 Disposições gerais"
+  },
+  "ec3f2fa253c285b2": {
+   "fragment_id": "Artigo 1°.",
+   "type": "artigo",
+   "heading": "Artigo 1°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1°.\n\nA presente directiva define as condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura.\n\nA aplicação da presente directiva não prejudica as disposições comunitárias ou nacionais relativas à conservação das espécies."
+  },
+  "771e7f2b10b60977": {
+   "fragment_id": "Artigo 2°.",
+   "type": "artigo",
+   "heading": "Artigo 2°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2°.\n\nPara efeitos do disposto na presente directiva, entende-se por:\n\n1. Animas de aquicultura: os peixes, crustáceos, moluscos vivos provenientes de uma exploração, incluindo os de origem selvagem destinados a uma exploração;\n\n2. Produtos da aquicultura: os produtos derivados dos animais de aquicultura, quer se destinem à criação, tais como as ovas e as gâmetas, quer ao consumo humano;\n\n3. Peixas, crustáceos ou moluscos: todos os peixes, crustáceos ou moluscos independentemente do seu estádio de desenvolvimento;\n\n4. Exploração: estabelecimento ou, de um modo geral, qualquer instalação geograficamente delimitada em que os animais de aquicultura são criados ou detidos com vista à sua introdução no mercado;\n\n5. Exploração aprovada: exploração que satisfaça, conforme o caso, o disposto nos pontos I, II ou III do anexo C e aprovada como tal, em conformidade com o artigo 6°.;\n\n6. Zona aprovada: zona que satisfaça, conforme o caso, o disposto nos pontos I, II ou III do anexo B e aprovada como tal, em conformidade com o artigo 5°.;\n\n7. Laboratório aprovado: um laboratório situado no território de um Estado-membro e incumbido pela autoridade competente e sob a sua responsabilidade de efectuar os testes de diagnóstico fixados pela presente directiva;\n\n8. Serviço oficial: o serviço veterinário ou qualquer outro serviço de nível equivalente designado pela autoridade competente do Estado-membro ou do país terceiro, responsável pelos controlos previstos na presente directiva;\n\n9. Visita de controlo sanitário: visita efectuada pelo ou pelos serviços oficiais para o controlo sanitário de uma exploração ou de uma zona;\n\n10. Introdução no mercado: a detenção ou a exposição com vista à venda, a colocação à venda, a venda, a entrega, a transferência ou qualquer outra forma de introdução no mercado comunitário, com excepção da venda a retalho.\n\nCAPÍTULO 2 Introdução no mercado dos animais e produtos da aquicultura da Comunidade"
+  },
+  "a1a4a5dd89fbe6bd": {
+   "fragment_id": "Artigo 3°.",
+   "type": "artigo",
+   "heading": "Artigo 3°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3°.\n\n1. A introdução no mercado de animais de aquicultura está sujeita às seguintes exigências gerais:\n\na) Não devem apresentar qualquer sinal clínico de doença no dia de embarque;\n\nb) Não devem ser destinados à destruição ou ao abate no âmbito de um plano de erradicação de uma doença referida no anexo A;\n\nc) Não devem ser provenientes de uma exploração que seja objecto de uma proibição por motivos de natureza sanitária e não devem ter estado em contacto com animais dessas explorações.\n\n2. Para serem introduzidos no mercado, os produtos da aquicultura destinados à reprodução (ovos e gâmetas) devem ser provenientes de animais que satisfaçam as exigências enunciadas no n°.1.\n\n3. Para serem introduzidos no mercado, os produtos da aquicultura destinados ao consumo devem ser provenientes de animais que satisfaçam a exigência enunciada na alínea a) do n°.1."
+  },
+  "053f2f275e107a30": {
+   "fragment_id": "Artigo 4°.",
+   "type": "artigo",
+   "heading": "Artigo 4°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4°.\n\nOs animais de aquicultura devem ser transportados, o mais rapidamente possível, para o local de destino, em meios de transporte previamente limpos e, na medida do necessário, desinfectados com um desinfectante oficialmente autorizado no Estado-membro de expedição.\n\nCaso seja utilizada água para o transporte terrestre, os veículos devem estar concebidos de modo a que a água não possa escoar ou cair do veículo durante o transporte. O transporte deve efectuar-se de modo a assegurar uma protecção eficaz do estado sanitário dos animais de aquicultura, nomeadamente através de uma renovação da água. Essa renovação deve realizar-se em locais que satisfaçam as condições enunciadas no anexo D. Uma lista desses locais, assim como qualquer eventual modificação, deve ser comunicada por cada Estado-membro à Comissão. A Comissão comunicará essas informações aos demais Estados-membros."
+  },
+  "2726084af4adf22e": {
+   "fragment_id": "Artigo 5°.",
+   "type": "artigo",
+   "heading": "Artigo 5°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5°.\n\n1. A fim de obter, no que respeita a uma ou várias das doenças referidas na coluna 1, listas I e II, do anexo A, o estatuto de zona aprovada, os Estados-membros devem apresentar à Comissão:\n\n- todas as justificações adequadas relativas às condições enunciadas, consoante o caso, nos pontos I.B, II.B ou III.B do anexo B,\n\n- as disposições nacionais que garantem o respeito das regras que constam, consoante o caso, dos pontos I.C, II.C ou III.C do anexo C.\n\n2. A Comissão examinará as informações mencionadas no n°.1. A Comissão poderá, de acordo com o processo previsto no artigo 26°., proceder à aprovação ou ao restabelecimento de aprovação das zonas, à luz daquelas informações.\n\nCaso a aprovação de uma zona seja retirada pelo serviço oficial, em conformidade com os pontos I.D.5, II.D ou III.D.5 do anexo B, a Comissão revogará a decisão de aprovação.\n\n3. A Comissão estabelecerá a lista das zonas aprovadas e altera-la-á a fim de ter em conta tanto as novas aprovações como as retiradas. A Comissão comunicará essa lista e as alterações aos Estados-membros."
+  },
+  "5c3a210d3f38021b": {
+   "fragment_id": "Artigo 6°.",
+   "type": "artigo",
+   "heading": "Artigo 6°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6°.\n\n1. A fim de obter, no que respeita a uma ou várias das doenças referidas na coluna 1, listas I e II, do anexo A, o estatuto de exploração aprovada numa zona não aprovada, os Estados-membros devem apresentar à Comissão:\n\n- todas as justificações adequadas relativas às condições definidas, consoante o caso, nos pontos I.A, II.A ou III.A do anexo C,\n\n- as disposições nacionais que garantem o cumprimento das regras previstas nos pontos I.B, II.B ou III.B do anexo C, consoante o caso.\n\n2. Após recepção do dossier relativo ao pedido de aprovação ou de reaprovação de uma exploração em zona não aprovada, a Comissão dispõe de um prazo de um mês para analisar esse dossier. Esta análise será efectuada à luz das informações mencionadas no n°.1 e, se disso for caso, dos resultados dos contratos efectuados localmente, de acordo com as disposições do artigo 17°.\n\nSe tal análise conduzir a conclusões favoráveis, a Comissão transmiti-las-á aos Estados-membros. Estes dispõem de um prazo de duas semanas para apresentarem as suas observações.\n\nApós expiração deste prazo, e se nenhuma observação tiver sido apresentada ou se as observações dos Estados-membros não forem contrárias às conclusões da Comissão, esta procederá à aprovação ou à reaprovação da exploração.\n\nHavendo divergências importantes entre as conclusões da\n\nComissão e as observações dos Estados-membros ou, quando após análise do dossier, a Comissão entender que a aprovação ou reaprovação não deverá ser concedida, a Comissão dispõe de um prazo de dois meses para pedir e obter um parecer do Comité Veterinário Permanente. Neste caso, a aprovação ou reaprovação será concedida de acordo com o procedimento previsto no artigo 26°.\n\nCaso a aprovação de uma exploração seja retirada pelo serviço oficial, em conformidade com os pontos I.C, II.C\n\nou III.C do anexo C, a Comissão revogará a decisão de aprovação em causa.\n\n3. A Comissão estabelecerá a lista das explorações aprovadas e alterará essa lista a fim de ter em conta tanto as novas aprovações como as retiradas. A Comissão comunicará essa lista e as alterações aos Estados-membros."
+  },
+  "88ff50ceb46a2207": {
+   "fragment_id": "Artigo 7°.",
+   "type": "artigo",
+   "heading": "Artigo 7°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7°.\n\n1. A introdução no mercado dos peixes vivos das espécies sensíveis referidas na coluna 2, listas I e II, do anexo A, dos seus ovos ou gâmetas está sujeita às seguintes exigências complementares:\n\na) Se forem destinados a ser introduzidos numa zona aprovada, devem, nos termos do artigo 11°., ser acompanhados de um documento de transporte, conforme com o modelo previsto nos capítulos 1 ou 2 do anexo E, que certifique que provêm de uma zona aprovada ou de uma exploração aprovada. Na expectativa dos resultados da reanálise prevista no artigo 28°., serão estabelecidas, de acordo com o procedimento previsto no artigo 26°., garantias complementares a observar para a introdução, numa zona aprovada, de peixes provenientes de uma exploração aprovada situada numa zona não aprovada. Enquanto se aguarda esta decisão, permanecem aplicáveis as regulamentações nacionais, na observância das disposições gerais do Tratado;\n\nb) Se forem destinados a ser introduzidos numa exploração que, apesar de situada numa zona não aprovada, preencha as condições do ponto I do anexo C, devem ser acompanhados do documento de transporte em conformidade com o artigo 11°.e com o modelo previsto nos capítulos 1 ou 2 do anexo E, que certifique que provêm de uma zona aprovada ou de uma exploração com o mesmo estatuto sanitário que a exploração destinatária, respectivamente.\n\n2. A Comissão, em conformidade com o processo previsto no artigo 26°., poderá adaptar ou suprimir as garantias complementares previstas no n°.1 em função da situação zoossanitária verificada na Comunidade, nomeadamente na sequência das acções de erradicação realizadas em relação à doença referida na coluna 1, lista I, do anexo A."
+  },
+  "539675aff63c50ff": {
+   "fragment_id": "Artigo 8°.",
+   "type": "artigo",
+   "heading": "Artigo 8°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8°.\n\n1. A introdução no mercado de moluscos vivos referidos na coluna 2, listas I e II, do anexo A está sujeita às seguintes exigências complementares:\n\na) Se forem destinados a ser novamente colocados na água numa zona litoral aprovada, devem ser acompanhados de um documento de transporte em conformidade com o artigo 11°.e com o modelo previsto nos capítulos 3 ou 4 do anexo E, que certifique que provêm de uma zona litoral aprovada ou de uma exploração aprovada numa zona litoral não aprovada, respectivamente;\n\nb) Se forem destinados a ser novamente colocados na água numa exploração que, apesar de situada numa zona litoral não aprovada, preencha as condições do ponto III do anexo C, devem ser acompanhados de um documento\n\nde transporte em conformidade com o artigo 11°.e com o modelo previsto nos capítulos 3 ou 4 do anexo E, que certifique que provêm de uma zona litoral aprovada ou de uma exploração com o mesmo estatuto sanitário que a exploração destinatária, respectivamente.\n\n2. A Comissão, em conformidade com o processo do artigo 26°., poderá adaptar ou suprimir as garantias complementares previstas no n°.1 em função da situação zoossanitária verificada na Comunidade."
+  },
+  "0323f35ce3febd3c": {
+   "fragment_id": "Artigo 9°.",
+   "type": "artigo",
+   "heading": "Artigo 9°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9°.\n\nA colocação no mercado para consumo humano de animais ou de produtos da aquicultura, originários de uma zona não aprovada, numa zona aprovada está sujeita às seguintes exigências:\n\n1. Os peixes sensíveis às doenças constantes da coluna 1, listas I e II, do anexo A devem ser abatidos e eviscerados antes de serem expedidos.\n\nN° entanto, na expectativa do resultado da reanálise prevista no artigo 28°., a obrigação de evisceração não é exigida se os peixes provierem de uma exploração aprovada numa zona não aprovada. Podem ser aprovadas derrogações a este princípio nos termos do procedimento previsto no artigo 26°.\n\nEnquanto se aguarda esta decisão, permanecem aplicáveis as regulamentações nacionais, na observância das disposições gerais do Tratado;\n\n2. Os moluscos vivos sensíveis às doenças referidas na coluna 1, listas I e II, do anexo A devem ser entregues quer para consumo humano directo, quer à indústria conserveira, com proibição de serem novamente colocados na água, excepto:\n\n- se provierem de uma exploração aprovada numa zona litoral não aprovada, ou\n\n- se estiverem temporariamente imersos em bacias de entreposto ou centros de purificação especialmente adaptados e aprovados pela autoridade competente para esse fim e que disponham, nomeadamente, de um sistema de tratamento e desinfecção das águas residuais. As condições dessa aprovação serão fixadas pela Comissão, segundo o procedimento previsto no artigo 26°.\n\n3. Em conformidade com o procedimento previsto no artigo 26°., a Comissão estabelecerá, se necessário, as medidas adequadas para garantir o cumprimento uniforme do disposto no presente artigo."
+  },
+  "4e9c884a1ce3d67c": {
+   "fragment_id": "Artigo 10°.",
+   "type": "artigo",
+   "heading": "Artigo 10°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10°.\n\n1. Caso um Estado-membro estabeleça ou tenha estabelecido um programa que lhe permita iniciar, posteriormente, os procedimentos previstos no n°.1 do artigo 5°.e no n°.1 do artigo 6°., apresentará à Comissão o seu programa, especificando, nomeadamente:\n\n- a zona geográfica em causa ou a ou as explorações em causa,\n\n- as medidas a tomar pelos serviços oficiais para assegurar o bom desenvolvimento do programa,\n\n- os processos utilizados pelos laboratórios autorizados, o seu número e a sua situação,\n\n- a importância da ou das doenças referidas na coluna I, listas I e II, do anexo A,\n\n- as medidas de combate no caso de detecção de uma dessas doenças.\n\n2. Os programas comunicados pelos Estados-membros serão examinados pela Comissão. Os programas referidos no n°.1 podem ser aprovados de acordo com o processo previsto no artigo 26°.Uma vez adoptados os programas, a introdução de animais e de produtos da aquicultura nas zonas ou nas explorações a que os programas se referem estará sujeita às regras previstas nos artigos 7°.e 8°.\n\n3. Os programas apresentados pelos Estados-membros podem ser alterados ou completados de acordo com o processo previsto no artigo 26°.De acordo com o mesmo processo, poderá ser aprovada uma alteração ou um complemento a um programa anteriormente aprovado e às garantias definidas em conformidade com o n°. 2."
+  },
+  "78adbf9a2dcae13e": {
+   "fragment_id": "Artigo 11°.",
+   "type": "artigo",
+   "heading": "Artigo 11°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11°.\n\n1. Os documentos de transporte referidos nos artigos 7°.e 8°.devem ser emitidos pelo serviço oficial do local de origem na ou nas línguas oficiais do local de destino nas 48 horas que antecedem o carregamento. Os documentos devem consistir numa única folha e dizer respeito a um único destinatário. O seu período de validade é de 10 dias.\n\n2. Todas as remessas de animais e de produtos da aquicultura devem ser identificadas de modo exacto a fim de permitir localizar a exploração de origem e verificar, se for caso disso, a concordância da natureza dos animais ou produtos com as informações constantes do documento de transporte que os acompanha. Estas informações podem ser apostas directamente no contentor ou num rótulo nele fixado ou ainda nos documentos de transporte."
+  },
+  "0bb6967f69203214": {
+   "fragment_id": "Artigo 12°.",
+   "type": "artigo",
+   "heading": "Artigo 12°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12°.\n\n1. Caso um Estado-membro estabeleça ou tenha estabelecido um programa facultativo ou obrigatório de luta contra um das doenças referidas na coluna 1, lista III, do anexo A, este apresentará à Comissão o seu programa e, nomeadamente:\n\n- a situação da doença no Estado-membro,\n\n- a justificação do programa, tendo em conta a importância da doença e as vantagens custo/benefício,\n\n- a zona geográfica em que o programa vai ser aplicado,\n\n- os estatutos de exploração a estabelecer e as normas que as explorações devem atingir em cada categoria, bem como os processos de teste,\n\n- as regras que permitem introduzir animais de estatuto sanitário inferior,\n\n- a acção a empreender se, por qualquer razão, a exploração deixa de possuir o seu estatuto,\n\n- os procedimentos de controlo do programa.\n\n2. Os programas comunicados pelos Estados-membros serão examinados pela Comissão. Esses programas são aprovados de acordo com o processo previsto no artigo 26°.De acordo com o mesmo processo, podem ser especificadas as garantias complementares gerais ou limitadas que podem ser exigidas para a introdução de animais e de produtos da aquicultura nas zonas ou nas explorações oficialmente controladas.\n\n3. Os programas apresentados pelos Estados-membros podem ser alterados ou complementados de acordo com o processo previsto no artigo 26°.De acordo com o mesmo processo, poderá ser aprovada uma alteração ou um complemento a um programa anteriormente aprovado ou às garantias definidas em conformidade com o n°.2."
+  },
+  "f782663fdb6a1e88": {
+   "fragment_id": "Artigo 13°.",
+   "type": "artigo",
+   "heading": "Artigo 13°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13°.\n\n1. Um Estado-membro que considere estar total ou parcialmente indemne de uma das doenças referidas na coluna 1, lista III, do anexo A, apresentará à Comissão as justificações adequadas. Especificará em especial:\n\n- a natureza da doença e a narração da sua ocorrência no seu território,\n\n- os resultados dos testes de vigilância baseados numa investigação serológica, virológica, microbiológica ou patológica, consoante o caso, bem como o facto de a doença dever obrigatoriamente ser declarada junto das autoridades competentes,\n\n- a duração da vigilância efectuada,\n\n- as regras que permitem verificar que a zona em questão permanence indemne da doença.\n\n2. A Comissão examina as justificações comunicadas pelo Estado-membro. As garantias complementares gerais ou limitadas que podem ser exigidas para a introdução de animais e de produtos de aquicultura em determinadas explorações ou determinadas zonas podem ser especificadas de acordo com o processo do artigo 26°.\n\n3. O Estado-membro em causa comunica à Comissão qualquer alteração das justificações, relativas à doença, mencionadas no n°.1. À luz das informações comunicadas, podem ser alteradas ou suprimidas, de acordo com o\n\nprocesso previsto no artigo 27°., as garantias definidas em conformidade com o n°.2."
+  },
+  "5ce67afb6afa59c2": {
+   "fragment_id": "Artigo 14°.",
+   "type": "artigo",
+   "heading": "Artigo 14°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14°.\n\n1. Sem prejuízo das exigências relativas às doenças referidas na coluna 1 da lista III do anexo A estabelecidas em conformidade com o processo previsto nos artigos 12°.e 13°., a introdução no mercado de peixes, moluscos ou crustáceos de viveiro vivos que não pertençam às espécies sensíveis enumeradas na coluna 2, listas I e II, do anexo A, ou que pertençam a essas espécies e possam veicular uma ou várias doenças referidas nas listas I e II, sem, no entanto, serem sensíveis a essas mesmas doenças, bem como dos respectivos ovos e gâmetas, estará sujeita às seguintes garantias complementares:\n\na) Se forem destinados a ser introduzidos numa zona aprovada, deverão ser acompanhados do documento de transporte em conformidade com o artigo 11°.e com o modelo a estabelecer de acordo com o processo previsto no artigo 26°., que certifique que provêm de uma zona com o mesmo estatuto sanitário, de uma exploração aprovada numa zona não aprovada ou de uma exploração que pode estar situada numa zona não aprovada desde que não contenha peixes, moluscos ou crustáceos que pertençam às espécies constantes da coluna 2, listas I e II, do anexo A, e que não esteja em contacto com cursos de água ou águas litorais ou de estuário.\n\nN° entanto, enquanto se aguardam os resultados da reanálise prevista no artigo 28°., os Estados-membros podem, segundo o procedimento previsto no artigo 26°., pedir uma derrogação ao parágrafo anterior, tendo nomeadamente em vista proibir a introdução numa zona aprovada de peixes, moluscos ou crustáceos referidos no presente número, originários de numa zona aprovada numa zona não aprovada ou de uma exploração que possa estar situada numa zona não aprovada, desde que não contenha peixes, moluscos ou crustáceos pertencentes às espécies sensíveis a que se refere a coluna 2, listas I e II, do anexo A, e não esteja em contacto com cursos de água ou com águas litorais ou de estuário. Segundo o mesmo procedimento, serão estabelecidas as condições e as medidas apropriadas para garantir a observância uniforme desta disposição. Enquanto se aguardam estas decisões, permanecem aplicáveis as regulamentações nacionais, na observância das disposicões gerais do Tratado;\n\nb) Se forem destinados a ser introduzidos numa exploração que, ainda que situada numa zona não aprovada, preenche os requisitos do anexo C, deverão ser acompanhados do documento de transporte em conformidade com o artigo 11°.e com o modelo a estabelecer de acordo com o processo previsto no artigo 26°., que certifique que provêm de uma zona aprovada, de uma exploração com o mesmo estatuto sanitário ou de uma exploração que pode estar situada numa zona não aprovada desde que não contenha peixes, moluscos ou crustáceos que pertençam às espécies constantes da coluna 2, listas I e II, do anexo A e que não esteja em contacto com cursos de água ou águas litorais ou de estuário.\n\n2. Sem prejuízo das exigências relativas às doenças constantes da lista III do anexo A estabelecidas em conformidade com o processo previsto nos artigos 12°.e 13°., a introdução no mercado de peixes, moluscos e crustáceos selvagens, bem como dos respectivos ovos ou gâmetas, estará sujeita às seguintes exigências complementares:\n\na) Se forem destinados a ser introduzidos numa zona continental aprovada, deverão ser acompanhados do documento de transporte em conformidade com o artigo 11°.e com o modelo a estabelecer de acordo com o processo previsto no artigo 26°., que certifique que provêm de uma zona com o mesmo estatuto sanitário;\n\nb) Se forem destinados a ser introduzidos numa exploração que, ainda que situada numa zona não aprovada, preenche as condições do anexo C, deverão ser acompanhados do documento de transporte em conformidade com o artigo 11°.e com o modelo a estabelecer de acordo com o processo previsto no artigo 26°., que certifique que provêm de uma zona aprovada."
+  },
+  "1c365e45074d847b": {
+   "fragment_id": "Artigo 15°.",
+   "type": "artigo",
+   "heading": "Artigo 15°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15°.\n\nOs planos de colheita de amostras e os métodos de diagnóstico que devem ser utilizados para a detecção e a confirmação da presença das doenças referidas na coluna 1 do anexo A são fixados de acordo com o processo previsto no artigo 26°.Esses planos de colheita de amostras devem ter em conta a presença no meio aquático de peixes, crustáceos ou moluscos selvagens."
+  },
+  "b4b0426bbcb1267e": {
+   "fragment_id": "Artigo 16°.",
+   "type": "artigo",
+   "heading": "Artigo 16°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16°.\n\n1. São aplicáveis as regras previstas na Directiva n°. 89/662/CEE do Conselho, de 11 de Dezembro de 1989, relativa aos controlos veterinários aplicáveis ao comércio intracomunitário, na perspectiva da realização do mercado interno (1) e na Directiva n°.90/425/CEE do Conselho, de 26 de Junho de 1990, relativa aos controlos veterinários e zootécnicos aplicáveis ao comércio intracomunitário de certos animais vivos e produtos, na perspectiva da realização do mercado interno (2), no que respeita aos animais e produtos de aquicultura colocados no mercado, nomeadamente no que se refere à organização e ao seguimento a dar aos controlos a efectuar pelo Estado-membro de destino e às medidas de salvaguarda a executar.\n\n2. A Directiva n°.89/662/CEE é alterada do seguinte modo:\n\na) N° anexo A, aditar o seguinte travessão:\n\n«- Directiva 90/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia\n\nsanitária que regem a comercialização de animais e produtos de aquicultura (JO n°.L 46 de 19. 2. 1991, p. 1).»;\n\n«- produtos de aquicultura destinados ao consumo humano,».\n\n3. N° ponto I do anexo A da Directiva 90/425/CEE, aditar a seguinte referência:\n\n«Directiva 90/67/CEE do Conselho, de 28 de Janeiro de 1991, relativa às condições de polícia sanitária que regem a comercialização de animais e produtos de aquicultura.\n\n(JO n°.L 46 de 19. 2. 1991, p. 1)»."
+  },
+  "94565ee36c3472ab": {
+   "fragment_id": "Artigo 17°.",
+   "type": "artigo",
+   "heading": "Artigo 17°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17°.\n\n1. Peritos veterinários da Comissão podem, na medida necessária à aplicação uniforme da presente directiva, efectuar, em colaboração com as autoridades nacionais competentes, controlos in loco. O Estado-membro em cujo território seja realizado um controlo presta aos peritos toda a assistência necessária ao cumprimento da sua missão. A Comissão informará os Estados-membros do resultado dos controlos efectuados.\n\n2. As disposições gerais de aplicação do disposto no n°.1 são fixadas de acordo com o processo previsto no artigo 26°.\n\nDe acordo com o mesmo processo, são estabelecidas as regras a seguir aquando dos controlos previstos no presente artigo."
+  },
+  "56740081b0f7fa22": {
+   "fragment_id": "CAPÍTULO 3 Regras aplicáveis às importações provenientes dos países terceiros",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3 Regras aplicáveis às importações provenientes dos países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 3 Regras aplicáveis às importações provenientes dos países terceiros"
+  },
+  "9a73478080cf3e2e": {
+   "fragment_id": "Artigo 18°.",
+   "type": "artigo",
+   "heading": "Artigo 18°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18°.\n\nOs animais e os produtos de aquicultura importados na Comunidade devem satisfazer as condições fixadas nos artigos 19°., 20°.e 21°."
+  },
+  "32ecb971a8b52e25": {
+   "fragment_id": "Artigo 19°.",
+   "type": "artigo",
+   "heading": "Artigo 19°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19°.\n\n1. Os animais e os produtos de aquicultura devem ser provenientes de países terceiros ou de parte de países terceiros constantes de uma lista estabelecida pela Comissão de acordo com o processo previsto no artigo 26°.Essa lista pode ser alterada ou completada de acordo com o mesmo processo.\n\n2. Para decidir se um país terceiro ou parte de um país terceiro pode constar da lista referida no n°.1, ter-se-á, nomeadamente, em conta:\n\na) Por um lado, o estado sanitário dos animais de aquicultura no que respeita, em especial, às doenças exóticas dos animais de aquicultura e, por outro lado, à situação sanitária do ambiente desse país susceptível de comprometer a saúde dos animais da Comunidade;\n\nb) A regularidade e a rapidez das informações fornecidas pelo país terceiro no que respeita à presença no seu território de doenças infecciosas ou contagiosas dos animais de aquicultura, nomeadamente, as mencionadas na lista B do Instituto Internacional das Epizootias;\n\nc) As regulamentações desse país relativas à prevenção e à luta contra as doenças dos animais de aquicultura;\n\nd) A estrutura dos serviços oficiais desse país e os poderes de que aqueles dispõem;\n\ne) A organização e a execução da prevenção e da luta contra as doenças infecciosas ou contagiosas dos animais de aquicultura;\n\nf) As garantias que esse país pode dar quanto às regras previstas pela presente directiva.\n\n3. A lista referida no n°.1 e quaisquer alterações\n\nnela introduzidas serão publicadas no Jornal Oficial das Comunidades Europeias."
+  },
+  "ef5f547ea26805c4": {
+   "fragment_id": "Artigo 20°.",
+   "type": "artigo",
+   "heading": "Artigo 20°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20°.\n\n1. Relativamente a cada país terceiro, os animais e os produtos de aquicultura devem preencher as condições sanitárias adoptadas de acordo com o processo previsto no artigo 26°.\n\n2. Consoante a situação zoossanitária no país terceiro em causa, as condições referidas no n°.1 podem incluir, nomeadamente;\n\n- uma restrição de importação relativa a uma parte do país terceiro,\n\n- uma restrição para determinadas espécies, independentemente do seu estádio de desenvolvimento,\n\n- o estabelecimento de um tratamento a aplicar aos produtos, tal como a desinfecção dos ovos,\n\n- o estabelecimento da utilização a que são destinados esses animais ou produtos,\n\n- as medidas a aplicar na sequência da importação, tais como a quarentena ou a desinfecção dos ovos."
+  },
+  "10ee8a16866411a4": {
+   "fragment_id": "Artigo 21°.",
+   "type": "artigo",
+   "heading": "Artigo 21°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21°.\n\n1. Os animais e os produtos de aquicultura devem ser acompanhados de um certificado estabelecido pelo serviço oficial do país terceiro expedidor. O certificado deve:\n\na) Ser emitido no dia do carregamento da remessa com vista à expedição para o Estado-membro de destino;\n\nb) Acompanhar a remessa no seu exemplar original;\n\nc) Certificar que os animais de aquicultura e determinados produtos da pesca satisfazem as condições previstas pela presente directiva e as fixadas em sua aplicação para a importação em proveniência do país terceiro;\n\nd) Ter um prazo de validade de 10 dias;\n\ne) Consistir numa única folha;\n\nf) Ser previsto para um único destinatário.\n\n2. O certificado previsto no n°.1 deve estar em conformidade com o modelo estabelecido de acordo com o processo previsto no artigo 26°."
+  },
+  "5f88c5e75a717fd1": {
+   "fragment_id": "Artigo 22°.",
+   "type": "artigo",
+   "heading": "Artigo 22°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22°.\n\nPeritos dos Estados-membros e da Comissão efectuam controlos in loco para verificar se são efectivamente aplicadas as disposições da presente directiva e, nomeadamente, as dos artigos 19°.e 20°.\n\nOs peritos dos Estados-membros incumbidos desses controlos são designados pela Comissão sob proposta dos Estados-membros.\n\nOs controlos são efectuados por conta da Comunidade que toma a seu cargo as correspondentes despesas.\n\nA periodicidade e as modalidades desses controlos são determinadas de acordo com o processo previsto no artigo 26°."
+  },
+  "816163908419cc0a": {
+   "fragment_id": "Artigo 23°.",
+   "type": "artigo",
+   "heading": "Artigo 23°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23°.\n\n1. As regras e os princípios gerais aplicáveis durante as inspecções de animais e produtos de aquicultura importados, provenientes de países terceiros, são os estabelecidos pela Directiva 90/675/CEE do Conselho, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade (1).\n\n2. As regras e princípios gerais aplicáveis durante as inspecções dos animais de aquicultura importados, provenientes de países terceiros, são as fixadas no artigo 7°.da Directiva 90/425/CEE."
+  },
+  "ff21b0bf7f6bd174": {
+   "fragment_id": "Artigo 24°.",
+   "type": "artigo",
+   "heading": "Artigo 24°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24°.\n\nCaso uma doença infecciosa ou contagiosa dos animais de aquicultura, susceptível de comprometer o estado sanitário do efectivo animal de um dos Estados-membros, ocorra ou se propague num país terceiro ou se qualquer outra razão de polícia sanitária o justificar, aplicar-se-ão as regras, procedimentos e medidas previstos no artigo 17°.da Directiva 90/425/CEE."
+  },
+  "689d6a4125fe5f1d": {
+   "fragment_id": "CAPÍTULO 4 Disposições finais",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4 Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 4 Disposições finais"
+  },
+  "591a961f4c440c55": {
+   "fragment_id": "Artigo 25°.",
+   "type": "artigo",
+   "heading": "Artigo 25°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25°.\n\nOs anexos D e E podem ser alterados em conformidade com o processo previsto no artigo 26°.\n\n(;) JO n°.L 373 de 31. 12. 1990, p. 1.\n\nOs anexos A, B e C são alterados pelo Conselho, deliberando por maioria qualificada sob proposta da Comissão, de modo a adaptá-los, nomeadamente, ao progresso tecnológico."
+  },
+  "aa6f2f88fe24f59e": {
+   "fragment_id": "Artigo 26°.",
+   "type": "artigo",
+   "heading": "Artigo 26°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26°.\n\n1. A Comissão é assistida pelo Comité Veterinário Permanente instituído pela Decisão 68/361/CEE (1), a seguir denominado «o comité». Nos casos em que é feita referência ao processo definido no presente artigo, será feito apelo para o comité na pessoa do seu presidente, ou por sua iniciativa, ou a pedido do representante de um Estado-membro.\n\n2. a) O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre este projecto num prazo que o presidente pode fixar em função da urgência da questão em causa. O parecer é emitido por maioria, nos termos previstos no n°.2 do artigo 148°.do Tratado, para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\nA Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de três meses a contar da data em que o assunto for submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "fbd9d0384a32c221": {
+   "fragment_id": "Artigo 27°.",
+   "type": "artigo",
+   "heading": "Artigo 27°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27°.\n\n1. Nos casos em que é feita referência ao processo definido no presente artigo, será feito apelo para o comité na pessoa do seu presidente, ou por sua iniciativa, ou a pedido do representante de um Estado-membro.\n\n2. a) O representante da Comissão submete à apreciação do comité um projecto das medidas a tomar. O comité emite o seu parecer sobre este projecto num prazo de dois dias. O parecer é emitido por maioria, nos termos previstos no n°.2 do artigo 148°.do Tratado, para a adopção das decisões que o Conselho é convidado a tomar sob proposta da Comissão. Nas votações no seio do comité, os votos dos representantes dos Estados-membros estão sujeitos à ponderação definida no mesmo artigo. O presidente não participa na votação.\n\nA Comissão adopta as medidas projectadas desde que sejam conformes com o parecer do comité.\n\nb) Se as medidas projectadas não forem conformes com o parecer do comité, ou na ausência de parecer, a Comissão submeterá sem demora ao Conselho uma proposta relativa às medidas a tomar. O Conselho delibera por maioria qualificada.\n\nSe, no termo de um prazo de quinze dias a contar da data em que o assunto for submetido à apreciação do Conselho, este ainda não tiver deliberado, a Comissão adoptará as medidas propostas, excepto no caso de o Conselho se ter pronunciado por maioria simples contra as referidas medidas."
+  },
+  "83f6184b4c779434": {
+   "fragment_id": "Artigo 28°.",
+   "type": "artigo",
+   "heading": "Artigo 28°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28°.\n\nAntes de 1 de Julho de 1992, no que se refere à lista das doenças previstas no anexo A, e antes de 1 de Janeiro de 1997, no que se refere ao estatuto sanitário das explorações aprovadas numa zona não aprovada, o Conselho, com base num relatório da Comissão sobre a experiência adquirida elaborado após parecer do Comité Científico Veterinário e acompanhado de eventuais propostas sobre as quais se pronunciará por maioria qualificada, procederá à reanálise das disposições da presente directiva e nomeadamente das relativas à comercialização dos peixes vivos provenientes das explorações aprovadas nas zonas não aprovadas."
+  },
+  "88a95ef5e90cd370": {
+   "fragment_id": "Artigo 29°.",
+   "type": "artigo",
+   "heading": "Artigo 29°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29°.\n\n1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para darem cumprimento à presente directiva antes de 1 de Janeiro de 1993.\n\n2. Sempre que os Estados-membros adoptarem as disposições referidas no n°.1, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão definidas pelos Estados-membros."
+  },
+  "3162eed5c2c16538": {
+   "fragment_id": "Artigo 30°.",
+   "type": "artigo",
+   "heading": "Artigo 30°.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30°.\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 28 de Janeiro de 1991.\n\nPelo Conselho\n\nO Presidente\n\nJ.-C. JUNCKER\n\n(1) JO n°.C 84 de 2. 4. 1990, p. 42.\n\n(2) JO n°.C 19 de 28. 1. 1991.\n\n(3) JO n°.C 332 de 31. 12. 1990.\n\n(1) JO n°.L 395 de 30. 12. 1989, p. 13.\n\n(2) JO n°.L 224 de 18. 8. 1990, p. 29, alterada pela Directiva 90/539/CEE (JO n°.L 303 de 31. 10. 1990, p. 6).\n\nb) N° anexo B, suprimir o seguinte travessão:\n\n(1) JO n°.L 255 de 18. 10. 1968, p. 23."
+  },
+  "032d7c56d8a8b04e": {
+   "fragment_id": "ANEXO A — LISTAS DAS DOENÇAS E DAS ESPÉCIES SENSÍVEIS",
+   "type": "divisao",
+   "heading": "ANEXO A — LISTAS DAS DOENÇAS E DAS ESPÉCIES SENSÍVEIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A — LISTAS DAS DOENÇAS E DAS ESPÉCIES SENSÍVEIS\n\n>POSIÇÃO NUMA TABELA>"
+  },
+  "9416e798d987e618": {
+   "fragment_id": "ANEXO B — ZONAS APROVADAS",
+   "type": "divisao",
+   "heading": "ANEXO B — ZONAS APROVADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — ZONAS APROVADAS\n\nIII. Zonas continentais para os peixes (coluna 2 das listas I e II do anexo A)\n\nA. Definição das zonas continentais\n\nUma zona continental é constituída por:\n\n- uma parte do território que inclua uma bacia hidrográfica completa, desde as nascentes dos cursos de água até à zona de influência do mar, ou várias bacias hidrográficas em que os peixes são criados, detidos ou capturados, ou\n\n- uma parte de uma bacia hidrográfica, desde as nascentes dos cursos de água até uma barreira natural ou artificial, que impeça a migração dos peixes a jusante dessa barreira.\n\nA dimensão e a situação geográfica de uma zona continental devem ser de molde a reduzir ao mínimo as possibilidades de recontaminação (por peixes migratórios, por exemplo). Este requisito poderá exigir a eventual criação de uma zona-tampão onde seja realizado um programa de vigilância, sem que, no entanto, essa zona beneficie do estatuto de zona aprovada.\n\nB. Concessão de aprovação\n\nPara ser aprovada, uma zona continental deve satisfazer as seguintes condições:\n\n1. Todos os peixes devem estar isentos de manifestação clínica ou de qualquer outra manifestação da existência das doenças constantes da coluna 1, listas I e II, do anexo A, há pelo menos quatro anos;\n\n2. Todas as explorações da zona continental devem estar colocadas sob vigilância do serviço oficial. Devem ter sido efectuadas duas visitas de controlo sanitário por ano, durante quatro anos.\n\nO controlo sanitário deve ter sido efectuado nos períodos do ano em que a temperatura da água é favorável ao desenvolvimento das doenças em causa.\n\nEle deve, pelo menos, ter incluído:\n\n- uma inspecção dos peixes que apresentavam anomalias,\n\n- uma colheita de amostras, rapidamente enviada para o laboratório aprovado, com vista à procura dos agentes patogénicos em questão.\n\nN° entanto, as zonas que tenham um registo histórico de ausência das doenças referidas na coluna 1, listas I e II, do anexo A podem obter o estatuto de zona aprovada se:\n\na) A sua situação geográfica não permitir a fácil introdução de doenças;\n\nb) Estiverem dotadas de um sistema oficial de controlo de doenças, há pelo menos 10 anos, durante os quais:\n\n- tenha existido uma vigilância regular de todas as explorações,\n\n- tenha sido aplicado um regime de notificação de doenças,\n\n- não tenham sido comunicadas doenças,\n\n- não tenham sido introduzidos peixes de zonas infectadas;\n\n3. Caso não exista qualquer exploração numa zona continental a aprovar, o serviço oficial deve ter mandado proceder a um controlo sanitário do peixe, em conformidade com o ponto 2, duas vezes por ano durante quatro anos na parte a jusante da bacia hidrográfica;\n\n4. Os exames de laboratório praticados nos peixes colhidos aquando das visitas de controlo sanitário devem ter dado resultados negativos quanto aos agentes patogénicos em questão.\n\nC. Manutenção da aprovação\n\nA manutenção da aprovação está sujeita às seguintes garantias:\n\n1. Os peixes introduzidos na zona devem ser provenientes de uma outra zona aprovada ou de uma exploração;\n\n2. Todas as explorações devem ser objecto de uma visita de controlo sanitário, em conformidade com\n\no ponto B.2, duas vezes por ano. Todavia, as colheitas de amostras são efectuadas, cada ano, alternadamente em 50 % das explorações da zona continental;\n\n3. Os exames de laboratório praticados nos peixes colhidos aquando das visitas de controlo sanitário devem ter dado resultados negativos no que toca aos agentes das doenças previstas no anexo A, coluna 1 das listas I e II;\n\n4. Deve ser mantido, pelos produtores ou pelas pessoas responsáveis pela introdução dos peixes, um registo com todas as informações necessárias para permitir um acompanhamento permanente do estado sanitário dos peixes.\n\nD. Suspensão, restabelecimento e retirada da aprovação\n\n1. Qualquer mortalidade anormal ou qualquer outro sintoma que possa constituir uma suspeita das doenças dos peixes constantes do anexo A, coluna 1 das listas I e II, devem ser declarados o mais rapidamente possível ao serviço oficial. Este último suspende imediatamente a aprovação da zona.\n\n2. Deve ser enviada ao laboratório aprovado uma amostra de, pelo menos, 10 peixes doentes com vista à procura dos agentes patogénicos em causa. Os resultados dos exames devem ser comunicados imediatamnte ao serviço oficial.\n\n3. Em caso de resultados negativos no que respeita aos agentes patogénicos em causa mas positivos para uma outra etiologia, o serviço oficial restabelece a aprovação.\n\n4. Todavia, caso não possa ser feita uma diagnose, é efectuada uma nova visita de controlo sanitário na quinzena seguinte à primeira colheita de amostras e é colhido um número suficiente de peixes doentes que são, em seguida, enviados ao laboratório aprovado com vista à procura dos agentes patogénicos em causa.\n\nCaso os resultados sejam novamente negativos, ou caso já não haja animais doentes, o serviço oficial restabelece a aprovação.\n\n5. Em caso de resultados positivos, o serviço oficial retira a aprovação.\n\n6. O restabelecimento da aprovação da zona está sujeito às seguintes condições:\n\na) Aquando da declaração do foco:\n\n- todos os peixes existentes nas explorações infectadas devem ter sido abatidos e os peixes atingidos ou contaminados devem ter sido eliminados,\n\n- as instalações e o material devem ter sido desinfectados de acordo com um procedimento aprovado pelo serviço oficial;\n\nb) Após a eliminação do foco, devem estar novamente preenchidas as condições enunciadas previstas no ponto B.\n\n7. A autoridade central competente informa a Comissão e os outros Estados-membros da suspensão, do restabelecimento e da retirada da aprovação das zonas.\n\nIII. Zonas litorais para os peixes (coluna 2 das listas I e II do anexo A)\n\nA. Uma zona litoral é constituída por uma parte de costa, de água marinha ou de estuário claramente delimitada geograficamente e que representa um sistema hidrológico homogéneo.\n\nB. Concessão de aprovação\n\nPara ser aprovada para os peixes, uma zona litoral deve satisfazer as condições fixadas, para as zonas continentais, no ponto I.B.\n\nC. Manutenção da aprovação\n\nA manutenção da aprovação de uma zona litoral está sujeita às mesmas garantias que as previstas no ponto I.C.\n\nD. Suspensão, restabelecimento e retirada da aprovação\n\nAs regras são idênticas às previstas no ponto I.D.\n\nIII. Zonas litorais para os moluscos (coluna 2 das listas I e II do anexo A)\n\nA. Uma zona litoral deve corresponder à definição dada no ponto II.A.\n\nB. Concessão de aprovação\n\nPara ser aprovada, uma zona litoral deve satisfazer as seguintes condições:\n\n1. Todos os moluscos devem estar isentos de manifestação clínica ou de qualquer outra manifestação da existência de uma ou várias das doenças do anexo A, coluna 1 das listas I e II, há, pelo menos, dois anos;\n\n2. Todas as explorações da zona litoral devem estar colocadas sob a fiscalização do serviço oficial. Devem ter sido efectuadas visitas de controlo sanitário a um ritmo adaptado ao do desenvolvimento dos agentes patogénicos em causa.\n\nEsse controlo deve ter incluído, pelo menos, uma colheita de amostras que deve ter sido rapidamente enviada para um laboratório aprovado com vista à procura dos agentes patogénicos em causa;\n\n3. Caso não exista nenhuma exploração numa zona litoral, o serviço oficial deve ter mandado proceder a um controlo sanitário dos moluscos, em conformidade com o ponto 2, a um ritmo adaptado ao do desenvolvimento dos agentes patogénicos em causa. Todavia se, através de análises aprofundadas da\n\nfauna, se comprovar que não existem nessa zona moluscos pertencentes às espécies sensíveis, veiculadoras ou portadoras, o serviço oficial poderá proceder à aprovação da zona antes de qualquer introdução de moluscos;\n\n4. Os exames de laboratório praticados nos moluscos colhidos aquando das visitas de controlo sanitário devem ter dado resultados negativos quanto aos agentes patogénicos em causa.\n\nN° caso de uma zona com um registo histórico de ausência das doenças referidas no anexo A, coluna 1 das listas I e II, esta informação pode ser tida em conta para a concessão de aprovação.\n\nC. Manutenção da aprovação\n\nA manutenção da aprovação está sujeita às seguintes garantias:\n\n1. Os moluscos introduzidos na zona litoral devem ser provenientes de uma outra zona litoral aprovada ou de uma exploração aprovada numa zona litoral não aprovada;\n\n2. Todas as explorações devem ser objecto de uma visita de controlo em conformidade com o ponto B.2, a um ritmo adaptado ao do desenvolvimento dos agentes patogénicos em causa;\n\n3. Os exames de laboratório praticados aquando das visitas de controlo sanitário devem ter dado resultados negativos quanto aos agentes patogénicos em causa do anexo A, coluna 1 das listas I\n\ne II;\n\n4. Deve ser mantido, pelos produtores ou pelas pessoas responsáveis pela introdução dos moluscos, um registo com todas as informações necessárias para permitir um acompanhamento permanente do estado sanitário dos moluscos.\n\nD. Suspensão, restabelecimento e retirada da aprovação\n\n1. Qualquer mortalidade anormal ou qualquer outro sintoma que possa constituir uma suspeita das doenças dos moluscos constantes do anexo A, coluna 1 das listas I e II, devem ser declarados o mais rapidamente possível ao serviço oficial. Este último suspende imediatamente a aprovação da zona.\n\n2. Deve ser enviada ao laboratório aprovado uma amostra de moluscos doentes com vista à procura dos agentes patogénicos em causa.\n\nOs resultados dos exames devem ser comunicados imediatamente ao serviço oficial.\n\n3. Em caso de resultados negativos no que respeita aos agentes patogénicos em causa mas positivos para uma outra etiologia, é mantida a aprovação.\n\n4. Todavia, caso não possa ser feita uma diagnose, é efectuada uma nova visita de controlo sanitário, na quinzena seguinte à primeira colheita de amostras, e é colhido um número suficiente de moluscos doentes que são em seguida enviados ao laboratório aprovado com vista à procura dos agentes patogénicos em causa. Caso os resultados sejam novamente negativos ou caso já não existam moluscos doentes, o serviço oficial restabelece a aprovação.\n\n5. Em caso de resultados positivos, o serviço oficial retira a aprovação.\n\n6. O restabelecimento da aprovação da zona está sujeito às seguintes condições;\n\na) Aquando da declaração do foco:\n\n- os moluscos atingidos ou contaminados devem ter sido eliminados,\n\n- as instalações e o material devem ter sido desinfectados de acordo com um procedimento aprovado pelo serviço oficial;\n\nb) Após eliminação do foco, devem estar novamente satisfeitas as condições enunciadas no\n\nponto B.\n\n7. A autoridade central competente informa a Comissão e os outros Estados-membros da suspensão, do restabelecimento e da retirada da aprovação das zonas."
+  },
+  "09402a3efdef6a75": {
+   "fragment_id": "ANEXO C — EXPLORAÇÕES APROVADAS NUMA ZONA NÃO APROVADA",
+   "type": "divisao",
+   "heading": "ANEXO C — EXPLORAÇÕES APROVADAS NUMA ZONA NÃO APROVADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C — EXPLORAÇÕES APROVADAS NUMA ZONA NÃO APROVADA\n\nIII. Explorações continentais para os peixes (coluna 2 das listas I e II do anexo A)\n\nA. Concessão de aprovação\n\nPara ser aprovada, uma exploração deve satisfazer as seguintes condições:\n\n1. Deve ser alimentada por água de uma nascente ou de um furo;\n\n2. Deve existir a jusante da exploração um obstáculo natural ou artificial que impeça a subida dos peixes anádromos;\n\n3. Deve satisfazer as condições pertinentes previstas no ponto I.B do anexo B.\n\nB. Manutenção da aprovação\n\nA manutenção da aprovação está sujeita às garantias previstas no ponto I.C do anexo B. Todavia, as colheitas de peixes devem ser efectuadas todos os anos.\n\nC. Suspensão, restabelecimento e retirada da aprovação\n\nSão aplicáveis as regras previstas no ponto I.D do anexo B.\n\nIII. Explorações litorais para os peixes (coluna 2 das listas I e II do anexo A)\n\nA. Concessão de aprovação\n\nPara ser aprovada, uma exploração deve satisfazer as seguintes condições:\n\n1. Deve ser alimentada com água por um sistema que inclua uma instalação susceptível de destruir os agentes das doenças referidas anexo A, coluna 1 das listas I e II;\n\n2. Deve satisfazer, mutatis mutandis, as condições de obtenção do estatuto previstas no ponto II.B do anexo B.\n\nB. Manutenção da aprovação\n\nA manutenção da aprovação está sujeita, mutatis mutandis, às garantias de manutenção da aprovação previstas no ponto II.C do anexo B.\n\nC. Suspensão, restabelecimento e retirada da aprovação\n\nSão aplicáveis, mutatis mutandis, as regras previstas no ponto II.D do anexo B.\n\nIII. Explorações litorais para os moluscos (coluna 2 das listas I e II do anexo A)\n\nA. Concessão da aprovação\n\nPara ser aprovada, uma exploração deve satisfazer as seguintes condições:\n\n1. Deve ser alimentada com água por um sistema que inclua uma instalação susceptível de destruir os agentes das doenças referidas no anexo A, coluna 1 das listas I e II;\n\n2. Deve satisfazer, mutatis mutandis, as condições previstas no anexo B, ponto III.B, no.s1, 2 e 4.\n\nB. Manutenção da aprovação\n\nA manutenção da aprovação está sujeita, mutatis mutandis, às garantias constantes do anexo B,\n\nponto III.C, no.s1 a 4.\n\nC. Suspensão, restabelecimento e retirada da aprovação\n\nSão aplicáveis, mutatis mutandis, as regras previstas no ponto III.D do anexo B."
+  },
+  "177ac3a40074c1cf": {
+   "fragment_id": "ANEXO D — RENOVAÇÃO DA ÁGUA",
+   "type": "divisao",
+   "heading": "ANEXO D — RENOVAÇÃO DA ÁGUA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO D — RENOVAÇÃO DA ÁGUA\n\nA renovação de água durante o transporte de animais de aquicultura deve efectuar-se em instalações aprovadas pelos Estados-membros que satisfaçam as seguintes condições:\n\n1. A água aí disponível para a mudança deve ter qualidades sanitárias suficientes de modo a não alterar a situação sanitária das espécies transportadas no que respeita aos agentes das doenças do anexo A, coluna 1 das listas I e II;\n\n2. Estas instalações devem possuir dispositivos que permitam evitar qualquer contaminação do meio receptor:\n\n- quer porque permitem a desinfecção da água,\n\n- quer porque se assegura que o derrame dessa água não poderá em nenhum caso conduzir a um escoamento directo para águas livres."
+  },
+  "4ebd2aaf3893b0a0": {
+   "fragment_id": "ANEXO E — Modelos de documento de transporte",
+   "type": "divisao",
+   "heading": "ANEXO E — Modelos de documento de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO E — Modelos de documento de transporte"
+  },
+  "f7422be3f0f18b24": {
+   "fragment_id": "CAPÍTULO 1 — DOCUMENTO DE TRANSPORTE PARA OS PEIXES VIVOS, OVOS E GÂMETAS PROVENIENTES DE UMA ZONA APROVADA",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1 — DOCUMENTO DE TRANSPORTE PARA OS PEIXES VIVOS, OVOS E GÂMETAS PROVENIENTES DE UMA ZONA APROVADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 1 — DOCUMENTO DE TRANSPORTE PARA OS PEIXES VIVOS, OVOS E GÂMETAS PROVENIENTES DE UMA ZONA APROVADA\n\nIII. País de origem:.\n\nZona aprovada:.\n\nIII. Exploração de origem (nome e endereço):.\n\n.\n\nIII. Animais ou produtos:.>POSIÇÃO NUMA TABELA>\n\nIV.\n\nDestino\n\nPaís de destino:.\n\nDestinatário (nome e endereço):.\n\n.\n\nIV. Meio de transporte (natureza e identificação):.\n\n.\n\nVI. Certificado sanitário\n\nEu, abaixo assinado, certifico que os animais ou os produtos que são objecto da presente remessa são provenientes de uma zona aprovada e satisfazem as exigências da Directiva 91/67/CEE.\n\nFeito em....................................................., em.\n\nNome do serviço oficial\n\nCarimbo do serviço oficial\n\n.\n\n(nome em maiúsculas)\n\n.\n\n(título do signatário)\n\n.\n\n(assinatura)\n\nIII.\n\nCAPÍTULO 2 DOCUMENTO DE TRANSPORTE PARA OS PEIXES VIVOS, OVOS E GÂMETAS PROVENIENTES DE UMA EXPLORAÇÃO APROVADA\n\nIII. País de origem:.\n\nIII. Exploração de origem (nome e endereço):.\n\n.\n\nIII. Animais ou produtos:.>POSIÇÃO NUMA TABELA>\n\nIV.\n\nDestino\n\nPaís de destino:.\n\nDestinatário (nome e endereço):.\n\n.\n\nIV. Meio de transporte (natureza e identificação):.\n\n.\n\nVI. Certificado sanitário\n\nEu, abaixo assinado, certifico que os animais ou os produtos que são objecto da presente remessa são provenientes de uma zona aprovada e satisfazem as exigências da Directiva 91/67/CEE.\n\nFeito em....................................................., em.\n\nNome do serviço oficial\n\nCarimbo do serviço oficial\n\n.\n\n(nome em maiúsculas)\n\n.\n\n(título do signatário)\n\n.\n\n(assinatura)\n\nIII.\n\nCAPÍTULO 3 DOCUMENTO DE TRANSPORTE PARA OS MOLUSCOS PROVENIENTES DE UMA ZONA LITORAL APROVADA\n\nIII. País de origem:.\n\nZona aprovada:.\n\nIII.\n\nExploração de origem (nome e endereço):.\n\n.\n\nIII. Animais:.>POSIÇÃO NUMA TABELA>\n\nIV.\n\nDestino\n\nPaís de destino:.\n\nDestinatário (nome e endereço):.\n\n.\n\nIV. Meio de transporte (natureza e identificação):.\n\n.\n\nVI. Certificado sanitário\n\nEu, abaixo assinado, certifico que os animais ou os produtos que são objecto da presente remessa são provenientes de uma zona aprovada e satisfazem as exigências da Directiva 91/67/CEE.\n\nFeito em....................................................., em.\n\nNome do serviço oficial\n\nCarimbo do serviço oficial\n\n.\n\n(nome em maiúsculas)\n\n.\n\n(título do signatário)\n\n.\n\n(assinatura)\n\nIII.\n\nCAPÍTULO 4 DOCUMENTO DE TRANSPORTE PARA OS MOLUSCOS PROVENIENTES DE UMA EXPLORAÇÃO APROVADA\n\nIII. País de origem:.\n\nIII. Exploração de origem (nome e endereço):.\n\n.\n\nIII. Animais:.>POSIÇÃO NUMA TABELA>\n\nIV.\n\nDestino\n\nPaís de destino:.\n\nDestinatário (nome e endereço):.\n\n.\n\nIV. Meio de transporte (natureza e identificação):.\n\n.\n\nVI. Certificado sanitário\n\nEu, abaixo assinado, certifico que os animais ou os produtos que são objecto da presente remessa são provenientes de uma zona aprovada e satisfazem as exigências da Directiva 91/67/CEE.\n\nFeito em....................................................., em.\n\nNome do serviço oficial\n\nCarimbo do serviço oficial\n\n.\n\n(nome em maiúsculas)\n\n.\n\n(título do signatário)\n\n.\n\n(assinatura)\n\nIII."
+  },
+  "f724da4a4e9efeb5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1991L0067 — PT — 01.08.2008 — 007.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31991L0067) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31991L0067) [de 28 de Janeiro de 1991](http://publications.europa.eu/resource/celex/31991L0067) [relativa às condições de polícia sanitária que regem a introdução no mercado de animais e produtos da aquicultura](http://publications.europa.eu/resource/celex/31991L0067) [(91/67/CEE)](http://publications.europa.eu/resource/celex/31991L0067) (JO L 046, 19.2.1991, p.1)\n\n**revogado por:**\n\n- [Directiva 2006/88/CE do Conselho de 24 de Outubro de 2006](http://publications.europa.eu/resource/celex/32006L0088) — L 328 — 14 — 24.11.2006"
+  }
+ }
+}

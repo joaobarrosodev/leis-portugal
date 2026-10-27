@@ -1,0 +1,361 @@
+---
+schema_version: '1.0'
+id: pt:dre:108250528:por
+title: Decreto Regulamentar Regional n.º 11/2017/M
+short_title: null
+summary: Regulamenta o regime de celebração de convenções que tenham por objeto a prestação de cuidados de saúde aos utentes
+  do Serviço Regional de Saúde da Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 11/2017/M
+official_date: null
+publication_date: '2017-10-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 191/2017, Série I de 2017-10-03
+  number: '191'
+  series: I
+  supplement: null
+  pages: 5587 - 5589
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/10/19100/0558705589.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-05-07'
+version_history:
+  file: decreto-regulamentar-regional-11-2017-m.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2017-10-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-05-07'
+    amending: pt:dre:183079163:por
+    amending_title: Decreto Regulamentar Regional n.º 8/2022/M
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/11/2017/10/03/m/dre/pt/html
+  oj: null
+  dre: '108250528'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/11-2017-108250528
+  internal: pt:dre:108250528:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2017-108250528
+  metadata_url: https://data.dre.pt/eli/decregulreg/11/2017/10/03/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2017-183113164
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2017-183113164
+  retrieved_at: '2026-10-22T12:50:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 203822a02ecd67143edd6b8bdabf6c8425428565cffc3c8342b8d298cbc1f3b0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:50:27Z'
+  notes: 2 versão(ões); histórico completo em decreto-regulamentar-regional-11-2017-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Medicina Privada
+- Governo Regional
+- Contrato de Prestação de Serviços
+- Saúde
+- Definição de Competências
+- Publicitação
+- Licenciamento
+- Preço
+- Serviço Público
+- Prestação de Serviços
+- Madeira.região Autónoma
+- REDE de Prestação de Cuidados de Saúde
+- Serviço Regional de Saúde
+- Tabela de Cuidados de Saúde
+- SECRETARIA REGIONAL DAS FINANÇAS E DA ADMINISTRAÇÃO PÚBLICA
+- Instituto de Administração da Saúde e Assuntos Sociais
+relationships:
+- type: amended_by
+  target: pt:dre:183079163:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163
+  date: '2022-05-06'
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/214/2016/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/214/2016/08/04/p/dre
+- type: cites
+  target: pt:dre:107669157:por
+  label: null
+  source: http://data.dre.pt/eli/port/207/2017/07/11/p/dre
+- type: cites
+  target: pt:dre:224002:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/4/2003/04/07/m/dre
+- type: cites
+  target: pt:dre:303585:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:449933:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/23/2008/06/23/m/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:50:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 11/2017/M
+
+Decreto Regulamentar Regional n.º 11/2017/M
+
+Regulamenta o regime de celebração de convenções que tenham por objeto a prestação de cuidados de saúde aos utentes do Serviço Regional de Saúde da Região Autónoma da Madeira.
+
+O Estatuto do Sistema Regional de Saúde, aprovado pelo Decreto Legislativo Regional n.º 4/2003/M, de 7 de abril, alterado e republicado pelo Decreto Legislativo Regional n.º 23/2008/M, de 23 de junho, na redação atual, prevê a possibilidade de celebração de convenções com profissionais ou grupos de profissionais de saúde para assegurarem, no âmbito do Serviço Regional de Saúde, a prestação de cuidados de saúde.
+
+As relações estabelecidas no seio do Sistema Regional de Saúde, revestidas de uma forma de convenção, têm por fito único maior e melhor acesso, em tempo útil, a cuidados de saúde que respondam às necessidades expressas e reais dos cidadãos residentes na Região Autónoma da Madeira, com respeito pelos princípios da complementaridade, da liberdade de escolha, da transparência e da igualdade.
+
+Neste ensejo, e cientes dos atuais constrangimentos com que o Sistema Regional de Saúde se defronta, a melhoria, o acesso e a qualidade das prestações dos cuidados de saúde, ganham relevo e prioridade, conforme estão consubstanciados como um dos objetivos estratégicos do atual Programa do Governo, pelo que importa regulamentar o quadro legal que subjaz à celebração das convenções no Serviço Regional de Saúde, adequando-o à atual envolvente do sistema prestador de cuidados a nível regional. Neste sentido, cumpre estabelecer um regime de convenções que, entre outros aspetos, institua as condições de adesão, os direitos e deveres das entidades convencionadas e o respetivo acompanhamento e controlo, assim como permita o recurso à contratação pública no âmbito do Código dos Contratos Públicos para uma convenção específica.
+
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e do artigo 22.º do Estatuto do Sistema Regional de Saúde, aprovado pelo Decreto Legislativo Regional n.º 4/2003/M, de 7 de abril, alterado e republicado pelo Decreto Legislativo Regional n.º 23/2008/M, de 23 de junho, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma regulamenta o regime de celebração de convenções que tenham por objeto a prestação de cuidados ou a prestação de cuidados técnicos de saúde aos utentes do Serviço Regional de Saúde da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2022/M - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163), em vigor a partir de 2022-05-07
+
+###### Artigo 2.º — Princípios e objetivos
+
+1 - A contratação de convenções deve obedecer aos seguintes princípios:
+
+a) Equidade no acesso dos utentes aos cuidados ou cuidados técnicos de saúde;
+
+b) Complementaridade na garantia das prestações de cuidados ou cuidados técnicos de saúde entre os prestadores convencionados e serviços públicos;
+
+c) Liberdade de escolha dos prestadores pelos utentes, de acordo com as regras de organização estabelecidas;
+
+d) Garantia de adequados padrões de qualidade na prestação de cuidados ou cuidados técnicos de saúde.
+
+2 - A contratação de convenções deve prosseguir os seguintes objetivos:
+
+a) Prontidão, continuidade e qualidade na prestação de cuidados ou cuidados técnicos de saúde;
+
+b) Obtenção de ganhos de eficiência na distribuição e afetação de recursos do Sistema Regional de Saúde;
+
+c) Articulação eficaz e eficiente entre instituições de saúde públicas e privadas a operar na Região Autónoma da Madeira;
+
+d) Promoção da qualidade dos serviços prestados, através da exigência do licenciamento, quando aplicável e, complementarmente, através da indexação de padrões de qualidade ao financiamento.
+
+3 - O recurso à prestação de cuidados ou cuidados técnicos de saúde, ao abrigo de convenção, nos termos do presente diploma, não pode pôr em causa o racional aproveitamento da capacidade instalada no setor público nem prejudicar a garantia da acessibilidade àqueles cuidados por parte dos utentes do Serviço Regional de Saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2022/M - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163), em vigor a partir de 2022-05-07
+
+###### Artigo 3.º — Partes contratantes
+
+1 - Podem ser partes em convenções quaisquer pessoas singulares ou coletivas, com ou sem fins lucrativos, com idoneidade para a prestação de cuidados ou cuidados técnicos de saúde, sob a orientação e responsabilidade de profissionais de saúde devidamente habilitados, nos casos legalmente exigíveis.
+
+2 - Para efeitos do número anterior, as convenções são contratadas pelo Instituto de Administração da Saúde, IP-RAM (IASAÚDE, IP-RAM).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2022/M - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163), em vigor a partir de 2022-05-07
+
+###### Artigo 4.º — Procedimentos para a contratação de convenções
+
+1 - As convenções devem ser celebradas através de uma das seguintes modalidades de procedimento, a determinar pelo membro do Governo Regional responsável pela área da saúde, sob proposta do IASAÚDE, IP-RAM, atendendo às especificidades do mercado:
+
+a) Procedimento de adesão a um clausulado tipo previamente publicado;
+
+b) Procedimento de contratação pública para uma convenção específica.
+
+2 - O procedimento a que se refere a alínea a) do n.º 1 inicia-se com a adesão do interessado aos requisitos constantes do clausulado-tipo publicado para cada convenção, a aprovar por Portaria Conjunta dos membros do Governo Regional responsáveis pelas áreas da saúde e das finanças.
+
+3 - O procedimento a que se refere a alínea b) do n.º 1 obedece, com as devidas adaptações, às regras e procedimentos previstos no Código dos Contratos Públicos (CCP), sendo instruído pelo IASAÚDE, IP-RAM, mediante parecer prévio favorável do membro do Governo Regional responsável pela área das finanças.
+
+4 - O procedimento a que se refere o número anterior pode incluir uma fase de negociação para o estabelecimento de um preço único para todas as entidades selecionadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2022/M - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163), em vigor a partir de 2022-05-07
+
+###### Artigo 5.º — Requisitos para a celebração de convenções
+
+1 - São requisitos de idoneidade para a celebração de convenções:
+
+a) A responsabilidade técnica e habilitação dos profissionais para a realização dos exames ou da prestação dos cuidados técnicos convencionados;
+
+b) A titularidade de licenciamento e vistoria, sempre que exigido nos termos da lei;
+
+c) O registo no IASAÚDE, IP-RAM, quando legalmente exigível;
+
+d) Não estar abrangido pelos impedimentos previstos no artigo 55.º do CCP.
+
+2 - Os profissionais vinculados ao Serviço de Saúde da Região Autónoma da Madeira, EPERAM (SESARAM, EPERAM), ficam sujeitos ao regime de incompatibilidades, impedimentos e inibições, nos termos da lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2022/M - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163), em vigor a partir de 2022-05-07
+
+###### Artigo 6.º — Conteúdo das convenções
+
+1 - As convenções devem estabelecer, nomeadamente:
+
+a) A área de cuidados ou cuidados técnicos de saúde a contratar;
+
+b) Os direitos e obrigações dos contratantes;
+
+c) A identificação dos códigos de nomenclatura e respetivos valores;
+
+d) Os requisitos relativos à idoneidade técnica dos colaboradores, se aplicável;
+
+e) As normas relativas às incompatibilidades;
+
+f) A necessidade de licença de funcionamento, se exigível, ou de requerimento para a sua emissão;
+
+g) Os critérios de fornecimento do serviço, incluindo a possibilidade de realização de prestações acessórias;
+
+h) As regras de fiscalização, controlo e acompanhamento do contrato;
+
+i) Os níveis e o volume dos serviços.
+
+2 - No caso das convenções celebradas com recurso ao procedimento referido na alínea b) do n.º 1 do artigo 4.º, o programa de procedimento e caderno de encargos devem definir o conteúdo da convenção, de acordo com o n.º 1, bem como os aspetos que podem ser submetidos à concorrência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2022/M - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163), em vigor a partir de 2022-05-07
+
+###### Artigo 7.º — Preços
+
+1 - Os preços a pagar no âmbito das convenções para a prestação de cuidados de saúde têm por base os constantes do Regulamento das Tabelas de Preços das Instituições e Serviços Integrados no Serviço Nacional de Saúde.
+
+2 - Os preços a pagar no âmbito das convenções para a prestação de cuidados técnicos de saúde são os estabelecidos em portaria conjunta dos membros do Governo responsáveis pelas áreas da saúde e das finanças.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2022/M - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163), em vigor a partir de 2022-05-07
+
+###### Artigo 8.º — Deveres das entidades convencionadas
+
+Constituem deveres das entidades convencionadas:
+
+a) Prestar cuidados ou cuidados técnicos de saúde de qualidade e com segurança aos utentes do Serviço Regional de Saúde, em tempo útil, nas melhores condições de atendimento, não estabelecendo qualquer tipo de discriminação;
+
+b) Executar, exata e pontualmente, as prestações contratuais em cumprimento do convencionado, não podendo transmitir a terceiros as responsabilidades assumidas perante a entidade pública contratante, salvo nos casos legal ou contratualmente admissíveis;
+
+c) Prestar às entidades fiscalizadoras as informações e esclarecimentos necessários ao desempenho das suas funções, incluindo o acesso a todos os registos e documentação comprovativa da prestação de cuidados ou cuidados técnicos de saúde, nas vertentes física, financeira e níveis de serviço observados;
+
+d) Facultar informações estatísticas, relativamente à utilização dos serviços, para efeitos de auditoria e fiscalização e controlo de qualidade, no respeito pelas regras deontológicas e de segredo profissional;
+
+e) Respeitar os protocolos, requisitos e especificações técnicas para recolha, tratamento e transmissão de informação definidas contratualmente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2022/M - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163), em vigor a partir de 2022-05-07
+
+###### Artigo 9.º — Prazo das convenções
+
+1 - Na falta de disposição em contrário, as convenções são válidas por períodos de cinco anos, podendo ser automaticamente renovadas, salvo se, com a antecedência mínima de 180 dias em relação ao termo de cada período de vigência, qualquer das partes a denunciar.
+
+2 - O preço pode ser revisto anualmente, com observância do disposto no artigo 7.º
+
+###### Artigo 10.º — Convenções integradas
+
+Em situações devidamente fundamentadas com base no interesse público e/ou no desenvolvimento do conceito de gestão integrada da doença, podem ser celebradas convenções que abranjam um conjunto integrado e/ou alargado de serviços, mediante Portaria Conjunta dos membros do Governo Regional responsáveis pelas áreas da saúde e das finanças.
+
+###### Artigo 11.º — Encargos das convenções
+
+1 - O encargo com a realização dos cuidados ou cuidados técnicos de saúde realizados ao abrigo das convenções efetiva-se mediante credencial do serviço público de saúde utilizada para o efeito e escolha do utente do Serviço Regional de Saúde dentre os prestadores aderentes.
+
+2 - O pagamento dos encargos com as convenções é da responsabilidade da entidade que for designada para o efeito na convenção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2022/M - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163), em vigor a partir de 2022-05-07
+
+###### Artigo 12.º — Acompanhamento e controlo
+
+1 - O IASAÚDE, IP-RAM, deve, em articulação com o SESARAM, EPERAM, avaliar, de forma sistemática, a qualidade e acessibilidade dos cuidados e cuidados técnicos de saúde prestados pelas entidades convencionadas e zelar pelo integral cumprimento das convenções.
+
+2 - O IASAÚDE, IP-RAM, deve confirmar, de forma sistemática, a prestação de cuidados ou cuidados técnicos de saúde faturados e correspondentes efeitos financeiros.
+
+3 - Para efeitos dos números anteriores, o IASAÚDE, IP-RAM efetua as auditorias necessárias, sem prejuízo das competências legalmente atribuídas a outras entidades.
+
+4 - O IASAÚDE, IP-RAM deve apresentar ao membro do Governo Regional responsável pela área da saúde um relatório anual sobre os resultados do acompanhamento e controlo das convenções.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2022/M - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163), em vigor a partir de 2022-05-07
+
+###### Artigo 13.º — Publicitação
+
+1 - O IASAÚDE, IP-RAM deve divulgar e manter atualizada a informação relativa às entidades com convenção em vigor no respetivo sítio eletrónico.
+
+2 - A divulgação da informação referida no número anterior deverá também ser feita por afixação no SESARAM, EPERAM, bem como nas entidades aderentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2022/M - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-183079163), em vigor a partir de 2022-05-07
+
+###### Artigo 14.º — Incumprimento
+
+1 - Sem prejuízo das regras gerais em matéria de incumprimento contratual, constituem incumprimento grave das convenções os seguintes factos:
+
+a) A existência de práticas que discriminem utentes do Serviço Regional de Saúde;
+
+b) A violação do disposto no n.º 2 do artigo 5.º do presente diploma;
+
+c) O abandono da prestação de serviços ou a sua suspensão injustificada.
+
+2 - Os factos referidos no número anterior são fundamento de resolução da convenção, expressamente notificada com uma antecedência mínima de 15 dias.
+
+###### Artigo 15.º — Norma transitória
+
+O clausulado-tipo da convenção para a prestação de ecografias mamárias, mamografias e colonoscopias aos utentes do Serviço Regional de Saúde da Região Autónoma da Madeira, previsto na Portaria n.º 214/2016, de 30 de maio, da Secretaria Regional da Saúde, mantém-se em vigor.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 7 de setembro de 2017.
+
+O Presidente do Governo Regional, em exercício, Mário Sérgio Quaresma Marques.
+
+Assinado em 18 de setembro de 2017.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

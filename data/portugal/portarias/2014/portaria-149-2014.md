@@ -1,0 +1,213 @@
+---
+schema_version: '1.0'
+id: pt:dre:55021041:por
+title: Portaria n.º 149/2014
+short_title: null
+summary: Procede à regulamentação do Decreto-Lei n.º 21/2013, de 15 de fevereiro, relativo ao regime de utilização da transmissão
+  eletrónica de dados para o cumprimento de formalidades nas áreas aduaneiras, dos impostos especiais de consumo e do imposto
+  sobre os veículos e revoga a Portaria n.º 767/2007, de 9 de julho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 149/2014
+official_date: null
+publication_date: '2014-07-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 141/2014, Série I de 2014-07-24
+  number: '141'
+  series: I
+  supplement: null
+  pages: 3942 - 3943
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/07/14100/0394203943.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/149/2014/07/24/p/dre/pt/html
+  oj: null
+  dre: '55021041'
+  dre_path: /dr/detalhe/portaria/149-2014-55021041
+  internal: pt:dre:55021041:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/149-2014-55021041
+  metadata_url: https://data.dre.pt/eli/port/149/2014/07/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/149-2014-55021041
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:35:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 48fe0ad8bfa64880a2afb4553bbc675ded88d4426f726a2b016700529eee826c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:35:40Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade Tributária e Aduaneira
+- Certificação Electrónica
+- Comunicações Eletrónicas
+- Conservação de Documentos
+- Desalfândegamento
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Documento Aduaneiro
+- Documento de Transporte
+- Documento Eletrónico
+- Governo Electrónico
+- Imposto Especial sobre o Consumo
+- Imposto sobre Veículos
+- Informatização
+- Internet
+- Mercadoria
+- Ministério das Finanças
+- Modernização Administrativa
+- Página na Internet
+- Política Pautal
+- Regulamentação Aduaneira
+relationships:
+- type: cites
+  target: pt:dre:145590:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:191558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258677:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520209:por
+  label: null
+  source: null
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:35:40Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 149/2014
+
+de 24 de julho
+
+Com a entrada em vigor do [Decreto-Lei n.º 99/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2007-520209), de 2 de abril, regulamentado pela Portaria n.º 767/2007, de 9 de julho, procedeu-se à uniformização e simplificação das formalidades de adesão dos utilizadores aos sistemas informáticos declarativos geridos pela então Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC), bem como à regulação do funcionamento dos que se encontravam ou se perspetivava entrarem em exploração.
+
+A nova orgânica do Ministério das Finanças, aprovada pelo [Decreto-Lei n.º 117/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2011-145590), de 15 de dezembro, determinou, no seu artigo 27.º, a extinção da DGAIEC, da Direção-Geral dos Impostos (DGCI) e da Direção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA) e a sua fusão na Autoridade Tributária Aduaneira (AT).
+
+Por sua vez, a [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, que aprovou a Lei do Orçamento de Estado para 2012, aditou o artigo 60.º-A à Lei Geral Tributária (LGT), aprovada pelo [Decreto-Lei n.º 398/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/398-1998-191558), de 17 de dezembro, o qual determina que a administração tributária pode utilizar tecnologias da informação e da comunicação no procedimento tributário. O mesmo artigo 60.º-A prevê, ainda, que por portaria do Ministro das Finanças sejam identificadas as obrigações declarativas, de pagamento, e as petições, requerimentos e outras comunicações que são obrigatoriamente entregues por via eletrónica, bem como os atos e comunicações que a administração tributária pratica com utilização da mesma via.
+
+Por fim, o [Decreto-Lei n.º 21/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2013-258677), de 15 de fevereiro, revogou o [Decreto-Lei n.º 99/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2007-520209), de 2 de abril, e atualizou e reformulou o regime da utilização da transmissão eletrónica de dados para o cumprimento de formalidades declarativas nas áreas aduaneiras, dos impostos especiais de consumo e do imposto sobre os veículos, sujeitando, no entanto, a sua regulamentação a portaria do membro do Governo responsável pela área das Finanças.
+
+Deste modo, com a presente portaria procede-se, tendo em consideração os normativos atrás referidos, à regulamentação do cumprimento das formalidades de desalfandegamento das mercadorias, bem como das formalidades associadas aos impostos especiais de consumo e ao imposto sobre os veículos, através de transmissão eletrónica de dados, substituindo-se e aperfeiçoando-se o regime previsto no [Decreto-Lei n.º 99/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2007-520209), de 2 de abril, e na Portaria n.º 767/2007, de 9 de julho, e enquadrando-se o mesmo com o disposto no artigo 60.º-A da LGT.
+
+Assim, ao abrigo do n.º 1 do artigo 6.º do [Decreto-Lei n.º 21/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2013-258677), de 15 de fevereiro, e do n.º 3 do artigo 60.º-A da LGT, manda o Governo, pela Ministra de Estado e das Finanças, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à regulamentação do [Decreto-Lei n.º 21/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2013-258677), de 15 de fevereiro, relativo ao regime de utilização da transmissão eletrónica de dados para o cumprimento de formalidades nas áreas aduaneiras, dos impostos especiais de consumo e do imposto sobre os veículos.
+
+###### Artigo 2.º — Utilização dos sistemas informáticos declarativos
+
+1 - A utilização dos sistemas informáticos para o cumprimento das formalidades declarativas referidas no artigo anterior está dependente da credenciação dos utilizadores no respetivo sistema informático.
+
+2 - A credenciação nos vários sistemas informáticos declarativos efetua-se nos termos descritos no sítio de Internet www.e-financas.gov.pt/de/jsp-dgaiec/main.jsp e no respeito das condições gerais estabelecidas na lei, designadamente em sede de identificação, de habilitação para apresentação de declarações à alfândega e, se for caso disso, de poderes de representação.
+
+3 - Entende-se por credenciação o conjunto de atos, registos e validações que permite aos utilizadores o acesso aos diversos sistemas informáticos declarativos, habilitando-os ao cumprimento das formalidades declarativas por transmissão eletrónica de dados.
+
+###### Artigo 3.º — Especificações técnicas
+
+1 - As especificações técnicas dos procedimentos de cumprimento das formalidades declarativas por transmissão eletrónica de dados, incluindo o conteúdo e estrutura das mensagens a utilizar no diálogo entre o interessado e a AT e a possibilidade de utilização de sistemas intermediários, nomeadamente as Redes de Valor Acrescentado (VAN), o Portal da Câmara dos Despachantes Oficiais, a Janela Única Portuária e outros sistemas de informação propriedade de outras entidades, autorizados pela AT, constam no sítio da Internet indicado no n.º 2 do artigo 2.º.
+
+2 - Os utilizadores dos sistemas informáticos declarativos estão sujeitos ao cumprimento das especificações técnicas referidas no número anterior.
+
+###### Artigo 4.º — Validação e processamento
+
+1 - A receção dos elementos de informação nos sistemas informáticos declarativos geridos pela AT desencadeia o controlo de validação e o respetivo processamento automáticos, cujo resultado, na medida em que esteja tecnicamente previsto, é comunicado ao utilizador através de transmissão eletrónica de dados:
+
+a) Com indicação dos erros detetados;
+
+b) Com indicação do número e data de aceitação da formalidade declarativa, quando não tenham sido detetados erros;
+
+c) Com indicação do número provisório e data da formalidade declarativa, quando a aceitação esteja dependente de ato subsequente;
+
+d) Com outras indicações específicas, variáveis por tipo de formalidade declarativa.
+
+2 - No âmbito das mensagens de resposta abrangidas pelo número anterior, podem ser facultados ficheiros para impressão no domicílio do interessado, os quais têm o mesmo valor jurídico dos impressos administrativos que visam substituir.
+
+###### Artigo 5.º — Dispensa de entrega de documentos
+
+1 - O cumprimento das formalidades declarativas por transmissão eletrónica de dados dispensa a entrega dos respetivos documentos de suporte, sem prejuízo de os mesmos deverem ser obrigatoriamente identificados aquando do cumprimento da formalidade declarativa e de ficarem, desde logo, disponíveis e mantidos à disposição da AT, nomeadamente para efeitos de conferência da declaração.
+
+2 - Quando a AT determinar a apresentação dos documentos de suporte, apenas para efeitos de verificação dos elementos de informação prestados na formalidade declarativa, podem ser apresentadas cópias simples dos mesmos, sem prejuízo de poder ser exigida a apresentação do documento original ou documento autenticado.
+
+3 - Não estão abrangidos pela dispensa prevista no n.º 1:
+
+a) Os documentos de suporte que, nos termos da lei, têm de ser apresentados às autoridades aduaneiras para efeitos de serem objeto de averbamento ou de qualquer outra intervenção específica;
+
+b) Os documentos de suporte das declarações aduaneiras de veículos;
+
+c) Os documentos de suporte das declarações aduaneiras de importação até ao momento da entrada em vigor da obrigatoriedade prevista na alínea c) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 21/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2013-258677), de 15 de fevereiro.
+
+###### Artigo 6.º — Conservação de documentos
+
+1 - A conservação e a disponibilização dos documentos de suporte relativos a cada formalidade declarativa cabe à pessoa por conta de quem a mesma é efetuada, salvo os documentos cuja conservação e disponibilização caiba a outras pessoas por força das disposições em vigor e sem prejuízo de as autoridades aduaneiras poderem solicitar a respetiva apresentação à pessoa que efetuou a formalidade declarativa.
+
+2 - Os documentos de suporte devem ser conservados nos prazos fixados na lei.
+
+3 - Os prazos de conservação referidos no número anterior são ajustados em conformidade se, nos termos da lei, ocorrer um facto que determine a suspensão ou interrupção do prazo de caducidade ou de prescrição da prestação tributária.
+
+###### Artigo 7.º — Conservação e inacessibilidade dos dados
+
+1 - A AT garante, dentro das possibilidades tecnológicas disponíveis, a integridade dos dados recebidos por transmissão eletrónica, assim como a sua inacessibilidade a terceiros.
+
+2 - A AT reserva o direito de suspender a utilização da senha de acesso, até confirmação ou alteração do utilizador, em caso de suspeita de utilização abusiva, como medida cautelar de segurança.
+
+###### Artigo 8.º — Indisponibilidade temporária
+
+Sempre que por motivos de ordem tecnológica não for possível o cumprimento das formalidades declarativas através de transmissão eletrónica de dados, cabe à AT determinar os procedimentos a adotar.
+
+###### Artigo 9.º — Norma revogatória
+
+Com a entrada em vigor da presente portaria fica revogada a Portaria n.º 767/2007, de 9 de julho.
+
+###### Artigo 10.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia útil seguinte à data da sua publicação.
+
+A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 9 de julho de 2014.

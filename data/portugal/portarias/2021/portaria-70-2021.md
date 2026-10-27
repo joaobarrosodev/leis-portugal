@@ -1,0 +1,1021 @@
+---
+schema_version: '1.0'
+id: pt:dre:160316760:por
+title: Portaria n.º 70/2021
+short_title: null
+summary: Regulamenta as condições gerais do edificado, os termos e as condições técnicas de instalação e de organização, funcionamento
+  e instalação a que deve obedecer a resposta social do Centro de Atividades e Capacitação para a Inclusão (CACI)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 70/2021
+official_date: null
+publication_date: '2021-03-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2021, Série I de 2021-03-26
+  number: '60'
+  series: I
+  supplement: null
+  pages: 23 - 40
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/03/06000/0002300040.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-07-14'
+version_history:
+  file: portaria-70-2021.versoes.json
+  count: 2
+  source_lastmod: '2026-07-21'
+  versions:
+  - date: '2021-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-14'
+    amending: pt:dre:1146287137:por
+    amending_title: Portaria n.º 296/2026/1
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Anexo I
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/70/2021/p/cons/20260713/pt/html
+  oj: null
+  dre: '160316760'
+  dre_path: /dr/detalhe/portaria/70-2021-160316760
+  internal: pt:dre:160316760:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/70-2021-160316760
+  metadata_url: https://data.dre.pt/eli/port/70/2021/p/cons/20260713/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-160385988
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-160385988
+  retrieved_at: '2026-10-22T13:45:57Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-07-21T00:00:00Z'
+integrity:
+  source_sha256: 4b920d30f1347b6efa01bf0cf1740f7d44197fcc71efd7aed705b4bfb102f3f3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:45:57Z'
+  notes: 2 versão(ões); histórico completo em portaria-70-2021.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Deficiente
+- Comparticipação do Estado
+- Regulamentação de Atos Legislativos
+- Atividade Ocupacional
+- Ação Social
+- Centro de Actividades Ocupacionais
+- Proteção ao Deficiente
+- Desenvolvimento Pessoal e Social
+- Reabilitação
+- Regime Jurídico
+- Centro de Atividades e Capacitação para a Inclusão
+relationships:
+- type: amended_by
+  target: pt:dre:1146287137:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera
+    Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera
+    Artigo 21.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137
+  date: '2026-07-13'
+- type: cites
+  target: pt:dre:159993990:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/23/2021/03/23/p/dre
+- type: cites
+  target: pt:dre:480708:por
+  label: null
+  source: http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:518425:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/64/2007/03/14/p/dre
+- type: cites
+  target: pt:dre:572157:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/33/2014/03/04/p/dre
+- type: cites
+  target: pt:dre:660323:por
+  label: null
+  source: http://data.dre.pt/eli/port/432/2006/05/03/p/dre
+article_structure:
+  article_count: 36
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:45:57Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 70/2021
+
+Portaria n.º 70/2021
+
+de 26 de março
+
+Sumário: Regulamenta as condições gerais do edificado, os termos e as condições técnicas de instalação e de organização, funcionamento e instalação a que deve obedecer a resposta social do Centro de Atividades e Capacitação para a Inclusão (CACI).
+
+A Convenção sobre os Direitos das Pessoas com Deficiência da Organização das Nações Unidas, adotada em reunião de Assembleia Geral, em 13 de dezembro de 2006, e ratificada por Portugal em 30 de julho de 2009, reconhece o direito de todas as pessoas com deficiência a viverem na comunidade, em igualdade de oportunidades e obriga os Estados Partes a tomar medidas eficazes e adequadas para facilitar o pleno gozo do mesmo, por parte desses/as cidadãos/cidadãs.
+
+O ordenamento jurídico nacional inscreve-se neste paradigma conceptual desde a Lei n.º 38/2004, de 18 de agosto, que define as bases gerais do regime jurídico da prevenção, habilitação, reabilitação e participação da pessoa com deficiência, com diretrizes de atuação para os organismos da administração central do Estado.
+
+No âmbito do desenvolvimento das políticas de reabilitação e reforço da proteção e inclusão social na área da deficiência, e tendo como objetivo o incremento de níveis de qualidade e eficácia no desenvolvimento das respostas sociais dirigidas a este público-alvo, o Estado tem vindo a assumir como prioridade a valorização pessoal e a inclusão social e profissional destas pessoas, valores que concorrem para o exercício da sua plena cidadania.
+
+Através do Decreto-Lei n.º 18/89, de 11 de janeiro, foi instituído o regime das atividades ocupacionais, destinadas a pessoas com deficiência grave, cujas capacidades não lhes permitissem o exercício de uma atividade produtiva.
+
+Em 16 de julho de 1990, o Despacho n.º 52/SESS/90, aprovou o regulamento da implantação, criação e funcionamento dos serviços e equipamentos que desenvolvem atividades de apoio ocupacional. Através da Portaria n.º 432/2006, de 3 de maio, foi regulamentado o regime das atividades socialmente úteis e as condições de atribuição de compensações monetárias pelo exercício das citadas atividades.
+
+A inclusão plena dos cidadãos e cidadãs com deficiência, bem como o reconhecimento e promoção dos seus direitos fundamentais, constitui uma prioridade assumida pelo XXII Governo Constitucional.
+
+Deste modo, importa proceder à revisão, agilização e adequação do quadro normativo existente, concentrando legislação dispersa, e prevendo um novo quadro normativo que assenta numa perspetiva que encare a ocupação como um processo e instrumento de capacitação, formação e de desenvolvimento de competências da pessoa com deficiência e incapacidade com vista à sua autonomia, numa ótica de inclusão social.
+
+Visando tal propósito pretende-se criar o Centro de Atividades e Capacitação para a Inclusão (CACI), que sucede e substitui o Centro de Atividades Ocupacionais (CAO), enquanto resposta social de base comunitária, com uma regulamentação centrada em novos desafios, como a promoção da autonomia, da vida independente, da qualidade de vida, da valorização pessoal, profissional e da inclusão social, em concretização dos princípios e valores preconizados nos instrumentos legais nacionais e internacionais que enquadram os direitos das pessoas com deficiência.
+
+Pretende-se criar um modelo de atividades e serviços centrados em facilitar e mediar percursos de aprendizagem e de inclusão, que possibilitem um maior acesso à comunidade, aos seus recursos e atividades e perspetiva que as atividades ocupacionais não são um fim em si mesmo, mas antes, e tanto quanto possível, um meio de capacitação para a inclusão, uma resposta que capacita e maximiza as possibilidades e oportunidades de participação social e económica das pessoas com deficiência, e que incorpora na sua génese as necessidades das pessoas com deficiência, com graus de dependência e incapacidade diferenciados, que exigem respostas diferenciadas, mais exigentes do ponto de vista das qualificações e aprendizagens e mais capacitantes do ponto de vista dos processos de autonomização e inclusão.
+
+Pretende-se também proporcionar, sempre que possível, a transição para programas de inclusão socioprofissional ou para medidas de reabilitação profissional, com base na individualidade da pessoa com deficiência, como sujeito de direitos, titular de uma cidadania plena e que deve ser capacitada e estimulada a fazer as suas escolhas, em igualdade de oportunidades.
+
+De salientar ainda a inclusão da figura do plano individual de inclusão, enquanto instrumento de planeamento, monitorização e avaliação do percurso de vida da pessoa com deficiência, na assunção do direito a participar de forma ativa na definição do respetivo projeto de vida.
+
+Considerando que os objetivos associados à promoção da autonomia e da inclusão trazem novos desafios a este tipo de estruturas, designadamente ao nível da flexibilização e organização, importa atualizar o modelo de estruturação do apoio ocupacional, adequando-o aos objetivos da Convenção sobre os Direitos das Pessoas com Deficiência, e à salvaguarda da existência de respostas sequenciais à saída do sistema educativo, que garantam uma continuidade do apoio às pessoas com deficiência e respetivas famílias, promovendo a sua autonomia e cidadania, facilitando processos de tomada de decisão e promoção da inclusão.
+
+O Decreto-Lei n.º 64/2007, de 14 de março, na sua redação atual, define o regime de licenciamento e de fiscalização da prestação de serviços e dos estabelecimentos de apoio social e determina, nos termos do disposto no seu artigo 5.º, que as condições técnicas de instalação e funcionamento dos estabelecimentos são as regulamentadas em diplomas específicos e em instrumentos regulamentares aprovados pelo membro do Governo responsável pelas áreas do trabalho e da solidariedade social.
+
+Neste sentido, pelo Decreto-Lei n.º 23/2021, de 23 de março, procedeu-se à revogação do Decreto-Lei n.º 18/89, de 11 de janeiro, pelo que urge definir as condições gerais do edificado, os termos e as condições técnicas de instalação e funcionamento da resposta social Centro de Atividades e Capacitação para a Inclusão, enquanto equipamento destinado a desenvolver atividades ocupacionais para pessoas com deficiência, visando a promoção da sua qualidade de vida e possibilitando um maior acesso à comunidade, aos seus recursos e atividades, e que se constituam como um meio de capacitação para a inclusão, em função das respetivas necessidades, capacidades e nível de funcionalidade.
+
+Foram ouvidas a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e a CONFECOOP - Confederação Cooperativa Portuguesa.
+
+Assim, ao abrigo do artigo 5.º do Decreto-Lei n.º 64/2007, de 14 de março, com a redação que lhe foi dada pelo Decreto-Lei n.º 33/2014, de 4 de março, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria regulamenta as condições de instalação, organização, funcionamento e edificado a que deve obedecer a resposta social do Centro de Atividades e Capacitação para a Inclusão (CACI).
+
+2 - O CACI é um estabelecimento de apoio social destinado a desenvolver atividades e serviços dirigidos a pessoas com deficiência, independentemente da sua condição e do seu grau de autonomia, visando a promoção da qualidade de vida, da autonomia, da participação e da inclusão.
+
+3 - O CACI visa a promoção da qualidade de vida e dos direitos de todas as pessoas com deficiência, através de uma estreita ligação com a comunidade e com os seus recursos, desenvolvendo atividades como forma de capacitação para a inclusão.
+
+4 - O CACI sucede e substitui o Centro de Atividades Ocupacionais (CAO), enquanto resposta social, devendo entender-se como realizada ao CACI qualquer referência formal ao CAO em legislação dispersa ou documentação oficial.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 2.º — Âmbito
+
+1 - As disposições constantes da presente portaria aplicam-se a todos os CACI, sem prejuízo do disposto nos números seguintes.
+
+2 - O disposto nos artigos 29.º a 32.º não é aplicável aos CACI que, à data da entrada em vigor da presente portaria, disponham de título de funcionamento, tenham processo de autorização de funcionamento em curso ou disponham de acordo de cooperação celebrado com o Instituto da Segurança Social, I. P. (ISS, I. P.).
+
+3 - Aos CACI referidos no número anterior aplica-se o disposto no artigo 34.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 3.º — Princípios orientadores
+
+São princípios orientadores da atividade dos CACI:
+
+a) O princípio da singularidade, que preconiza o reconhecimento da individualidade da pessoa com deficiência, devendo a sua abordagem ser feita de forma diferenciada, tendo em consideração as suas circunstâncias pessoais e o seu contexto de vida;
+
+b) O princípio da não discriminação, que estatui que nenhuma pessoa pode ser discriminada, direta ou indiretamente, por ação ou omissão, com base na deficiência, ou deixar de beneficiar de medidas de ação positiva que garantam o exercício dos seus direitos e deveres de participação social;
+
+c) O princípio da autodeterminação, que preconiza o direito da pessoa com deficiência a decidir sobre a definição e a condução da sua própria vida;
+
+d) O princípio da autonomia, que determina que a pessoa com deficiência tem o direito de decisão pessoal na definição e condução autónoma da sua vida;
+
+e) O princípio da participação, que implica o direito das pessoas com deficiência a participarem de forma plena e efetiva na sociedade em condições de igualdade com as demais pessoas;
+
+f) O princípio da informação, que determina que a pessoa com deficiência tem direito a ter acesso a toda a informação que lhe diga direta ou indiretamente respeito e a ser informada e esclarecida sobre os seus direitos e deveres;
+
+g) O princípio da qualidade, segundo o qual a pessoa com deficiência tem o direito a aceder a respostas sociais, bens e serviços de qualidade, que respondam às suas necessidades pessoais e sociais.
+
+h) O princípio da cidadania, que implica que as pessoas com deficiência têm direito a usufruir das condições necessárias e suficientes para aceder a todos os bens, serviços e contextos de vida, em condições de equidade, bem como o direito e o dever de desempenhar um papel ativo no desenvolvimento da sociedade;
+
+i) O princípio da inclusão, que implica que a sociedade se organize para acolher todas as pessoas, independentemente das suas capacidades e da sua funcionalidade, de modo que as pessoas com deficiência possam viver integradas na comunidade e usufruir, em condições de igualdade, de todos os recursos disponíveis;
+
+j) O princípio da abrangência, segundo o qual o CACI deve assumir um papel relevante na rede de suporte social e familiar, com uma intervenção ampla e flexível, que permita responder simultaneamente a vários desafios e situações.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 4.º — Objetivos
+
+O CACI, tendo em conta o perfil, as aptidões, os interesses e as necessidades das pessoas com deficiência, prossegue os seguintes objetivos:
+
+a) Criar condições que visem a valorização pessoal e a inclusão social, baseando-se numa metodologia de planeamento centrada na pessoa;
+
+b) Promover estratégias de fortalecimento da autoestima e da autonomia pessoal e social, através do envolvimento e participação ativa das pessoas na definição das atividades a desenvolver;
+
+c) Desenvolver competências pessoais, sociais e relacionais, com vista a maximizar as oportunidades de participação social e económica;
+
+d) Contribuir para o bem-estar emocional e social, através da qualificação das atividades desenvolvidas, no que diz respeito ao número, variedade e natureza;
+
+e) Articular os processos de transição para programas de aprendizagem ao longo da vida, de formação profissional, de inclusão socioprofissional ou de reabilitação profissional;
+
+f) Desenvolver atividades e serviços centrados nos percursos de aprendizagem e de inclusão, que possibilitem um maior acesso à comunidade, aos seus recursos e atividades;
+
+g) Assegurar a participação plena das pessoas com deficiência, das famílias ou representantes legais na definição do projeto de vida, que se consubstancia na celebração do plano individual de inclusão (PII);
+
+h) Promover medidas e ações de capacitação e de aprendizagem ao longo da vida, potenciando sempre a autonomia e a inclusão;
+
+i) Dinamizar ações de inclusão na comunidade, que promovam a alteração das representações, dos valores e das atitudes da sociedade face às pessoas com deficiência;
+
+j) Promover e dinamizar a articulação e a cooperação com as diversas entidades da comunidade local, públicas, privadas e do setor solidário, reforçando a abertura da instituição à comunidade e incentivando a sua participação ativa;
+
+k) Apoiar as famílias e os cuidadores informais, mediante a disponibilização de acolhimento temporário em resposta de natureza não residencial, para descanso do cuidador informal.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 5.º — Destinatários
+
+O CACI destina-se a pessoas com deficiência, com idade igual ou superior a 18 anos, independentemente da sua condição e do seu grau de autonomia que não possam, temporária ou permanentemente, dar continuidade ao seu percurso escolar ou formativo, exercer uma atividade profissional ou que careçam de apoio estruturado à participação social, à transição para outros projetos de vida ou à inclusão socioprofissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 6.º — Capacidade
+
+1 - O CACI organiza-se em unidades funcionais, podendo existir até duas unidades.
+
+2 - A capacidade de cada unidade funcional é de 30 pessoas com deficiência, de forma permanente.
+
+3 - Entende-se por unidade funcional o conjunto de áreas fisicamente agrupadas e equipadas, destinadas à operacionalização das áreas de intervenção, serviços e desenvolvimento de atividades.
+
+4 - Sem prejuízo da capacidade definida no n.º 2, cada unidade funcional pode acompanhar, em atividades desenvolvidas em entidades ou serviços externos na comunidade, até 15 pessoas adicionais, desde que tal não implique a permanência simultânea no CACI de número superior à respetiva capacidade autorizada.
+
+5 - O CACI efetua a gestão das pessoas acompanhadas de forma dinâmica, assegurando que a capacidade permanente de cada unidade funcional não seja ultrapassada.
+
+6 - As unidades funcionais do CACI têm em consideração a adequação do tipo de atividades, serviços desenvolvidos, perfil e necessidades das pessoas com deficiência.
+
+7 - Em situações excecionais, devidamente fundamentadas e autorizadas pelo ISS, I. P., podem ser criadas até três vagas adicionais por unidade funcional, designadamente para apoio ao descanso do cuidador informal, desde que estejam asseguradas as condições de segurança, acompanhamento técnico, recursos humanos e adequação dos espaços.
+
+8 - Nos CACI já em funcionamento, o ISS, I. P., pode, na sequência da avaliação realizada no âmbito do Plano referido no artigo 34.º, dispensar os requisitos de organização das unidades funcionais previstas no n.º 3 e a observância dos limites de capacidade previstos nos n.os 1 e 2.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 7.º — Áreas de intervenção e serviços
+
+1 - O CACI prossegue os seus objetivos nas seguintes áreas de intervenção:
+
+a) Desenvolvimento de competências relacionais, pessoais e sociais;
+
+b) Promoção do bem-estar, da qualidade de vida, da ocupação e da interação em diferentes contextos;
+
+c) Promoção das condições para a inclusão social e profissional.
+
+2 - O CACI presta, designadamente, os seguintes serviços:
+
+a) Alimentação e cuidados pessoais;
+
+b) Apoio terapêutico;
+
+c) Promoção e desenvolvimento do bem-estar físico, emocional, psíquico e social;
+
+d) Transporte, sempre que as atividades a desenvolver o exigirem;
+
+e) Apoio na capacitação dos cuidadores informais.
+
+f) Apoio ao descanso do cuidador informal, mediante acolhimento temporário em resposta de natureza não residencial.
+
+3 - O CACI privilegia o trabalho em colaboração com entidades e serviços externos, designadamente da área da educação, saúde, segurança social, emprego e formação profissional, empresas, espaços culturais e de lazer, entre outros, promovendo iniciativas em rede, que potenciam os recursos existentes e desempenham um papel fundamental na consciencialização e na inclusão das pessoas com deficiência na comunidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 8.º — Tipologia de atividades
+
+1 - Tendo por referência as capacidades, funcionalidade, interesses e necessidades da pessoa com deficiência, as atividades devem ser planeadas e organizadas de forma individualizada, valorizando as suas escolhas, necessidades e interesses.
+
+2 - As atividades a desenvolver são as seguintes:
+
+a) Atividades ocupacionais de promoção do bem-estar e qualidade de vida;
+
+b) Atividades terapêuticas;
+
+c) Atividades de interação em diferentes contextos;
+
+d) Atividades de participação comunitária;
+
+e) Atividades de qualificação para a inclusão social e profissional.
+
+3 - As atividades previstas nas alíneas a), b) e c) do número anterior são desenvolvidas no CACI ou em parceria com entidades externas na comunidade.
+
+4 - As atividades previstas nas alíneas d) e e) do n.º 2 são desenvolvidas, preferencialmente, na comunidade.
+
+5 - As atividades previstas na alínea e) do n.º 2 podem ser desenvolvidas por pessoas com deficiência que tenham concluído o percurso escolar, e que podem, de forma transitória, ser acompanhadas no CACI até à sua integração num percurso formativo, de empregabilidade ou em soluções alternativas, de acordo com as suas expectativas e interesses.
+
+6 - As atividades referidas na alínea e) do n.º 2 não implicam a obrigatoriedade de certificação formal por parte da organização, podendo assumir outras formas de capacitação em articulação com outras entidades.
+
+7 - Cada pessoa com deficiência pode beneficiar de diferentes tipos de atividades, em função dos seus interesses, vontade, preferências, necessidades de apoio e objetivos definidos no plano individual de inclusão (PII).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 9.º — Atividades ocupacionais de promoção do bem-estar e qualidade de vida
+
+As atividades ocupacionais de promoção do bem-estar e qualidade de vida são desenvolvidas no CACI ou em outros espaços da entidade ou da comunidade, e visam garantir o conforto e bem-estar da pessoa com deficiência, mantendo-a ativa e motivada na realização das suas atividades de vida diária, tendo em vista o desenvolvimento das suas potencialidades, da autonomia e do seu equilíbrio físico, emocional e relacional, proporcionando-lhe, sempre que possível, a transição para programas de inclusão social e profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 10.º — Atividades terapêuticas
+
+As atividades terapêuticas visam o desenvolvimento de intervenções de reabilitação psicossocial, através do estímulo e preservação das capacidades cognitivas, sensoriais e motoras, com o objetivo de ensinar e capacitar as pessoas com deficiência para o desenvolvimento das suas aptidões físicas, intelectuais e emocionais, necessárias à sua vida autónoma.
+
+###### Artigo 11.º — Atividades de interação em diferentes contextos
+
+As atividades de interação em diferentes contextos têm por objetivo desenvolver as competências pessoais, sociais e relacionais das pessoas com deficiência, estimulando a sua capacitação cognitiva e a sua socialização, mediante a realização e o envolvimento em experiências diversificadas na entidade ou na comunidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 12.º — Atividades de participação comunitária
+
+As atividades de participação comunitária visam o treino de competências sociais e profissionais em contexto real de trabalho, devendo ser privilegiado o seu desenvolvimento em entidades externas ao CACI.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 13.º — Atividades de qualificação para a inclusão social e profissional
+
+1 - As atividades de qualificação para a inclusão social e profissional visam o desenvolvimento das competências pessoais, profissionais e de participação social da pessoa com deficiência, com vista à sua autonomia e vida independente.
+
+2 - As atividades de qualificação assentam numa lógica de desenvolvimento de competências, desenhadas de acordo com as necessidades, potencialidades, interesses e objetivos de cada pessoa.
+
+3 - Esta tipologia de atividade é dirigida a pessoas com elevado grau de funcionalidade, que precisam de orientação e apoio pontuais, visando a concretização das suas escolhas e opções de vida.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 14.º — Condições para o exercício das atividades em entidades externas
+
+1 - O CACI enquadra, orienta e acompanha tecnicamente o desenvolvimento das atividades nas entidades externas.
+
+2 - A frequência das atividades em entidades externas depende do consentimento livre, informado e atual da pessoa com deficiência.
+
+3 - As entidades externas podem ser de natureza pública ou privada, com ou sem fins lucrativos.
+
+4 - As atividades referidas no n.º 1 são desenvolvidas a tempo parcial, não devendo ultrapassar, em média, as 20 horas semanais.
+
+5 - O número de horas semanais é decidido mediante avaliação da equipa técnica e em função do potencial, características da pessoa, e de acordo com o PII.
+
+6 - As atividades realizadas no âmbito da atuação do CACI não consubstanciam qualquer relação de natureza laboral ou de prestação de serviço entre a entidade externa e a pessoa com deficiência.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 15.º — Protocolo de Parceria
+
+1 - O exercício das atividades de participação comunitária e das atividades de qualificação para a inclusão social e profissional é objeto de protocolo de parceria, a celebrar entre a entidade gestora do CACI e a entidade externa, do qual consta, designadamente:
+
+a) A identificação dos outorgantes;
+
+b) A identificação das pessoas com deficiência abrangidas;
+
+c) A identificação das atividades a desenvolver, locais e horários;
+
+d) Os direitos e deveres das partes;
+
+e) O apoio financeiro, ou outro, à entidade gestora do CACI, quando protocolado;
+
+f) A vigência do protocolo de parceria;
+
+g) A identificação do profissional de referência, responsável pelo acompanhamento da pessoa com deficiência.
+
+2 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 16.º — Obrigações da entidade gestora do CACI
+
+1 - A entidade gestora do CACI obriga-se, designadamente, a:
+
+a) Celebrar, executar e acompanhar o PII da pessoa com deficiência;
+
+b) Obter a prévia autorização, por escrito, da pessoa com deficiência, da sua família e/ou representante legal, para a realização da avaliação técnica das capacidades, funcionalidade e potencialidades;
+
+c) Assegurar o direito de participação e de autodeterminação da pessoa com deficiência, bem como da sua família e/ou representante legal, na definição do seu projeto de vida, que se consubstancia na celebração do PII;
+
+d) Designar um profissional de referência para cada pessoa;
+
+e) Encaminhar a pessoa para as atividades mais adequadas;
+
+f) Acompanhar, monitorizar e avaliar a execução e o desenvolvimento das atividades previstas no PII, designando para esse efeito um profissional de referência;
+
+g) Elaborar relatório sobre o acompanhamento e avaliação do impacto das atividades no desenvolvimento pessoal, social e profissional da pessoa com deficiência, o qual fundamenta a revisão e atualização do PII, que deve ocorrer preferencialmente uma vez por semestre;
+
+h) Definir os termos em que disponibiliza acolhimento temporário em resposta de natureza não residencial para descanso do cuidador informal, visando responder a necessidades pontuais das famílias;
+
+i) Desenvolver mecanismos de apoio à tomada de decisão e à garantia de consentimento livre e informado por parte das pessoas com deficiência;
+
+j) Promover a formação de profissionais relativamente aos procedimentos facilitadores do apoio à tomada de decisão e à garantia de consentimento livre e informado por parte das pessoas com deficiência;
+
+k) Celebrar seguros de acidentes pessoais;
+
+l) Assegurar o transporte para os locais onde são exercidas as atividades e respetivo regresso, bem como de outras deslocações imprescindíveis relacionadas com as atividades, sempre que a utilização da rede pública de transportes seja incompatível com a autonomia da pessoa com deficiência ou por indisponibilidade de oferta da rede de transportes;
+
+m) Assegurar mensalmente que a compensação monetária, calculada de acordo com o previsto no artigo 19.º, é entregue à pessoa com deficiência.
+
+2 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 17.º — Obrigações das entidades externas
+
+No âmbito das atividades previstas nas alíneas d) e e) do n.º 2 do artigo 8.º, as entidades externas obrigam-se, a:
+
+a) Zelar pelo acolhimento nas suas instalações das pessoas com deficiência, no horário estabelecido no protocolo celebrado com as entidades gestoras;
+
+b) Acompanhar e avaliar, com o profissional de referência da entidade gestora do CACI, o desenvolvimento e execução das atividades previstas no protocolo de parceria;
+
+c) Monitorizar e supervisionar as atividades desenvolvidas, designando para esse efeito um profissional responsável;
+
+d) Manter afixado, em local visível e de fácil acesso, o horário das atividades, bem como a indicação do responsável designado pela entidade;
+
+e) Integrar, sempre que possível, a pessoa com deficiência em ações de formação organizadas para os seus profissionais;
+
+f) Proporcionar o acesso da pessoa com deficiência aos serviços disponibilizados aos outros colaboradores, incluindo refeições, quando aplicável;
+
+g) Proceder ao pagamento do apoio financeiro, ou outro, previsto no artigo 19.º, ainda que não seja estabelecida uma relação laboral com a pessoa.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 18.º — Direitos e deveres da pessoa que frequenta o CACI
+
+1 - A pessoa com deficiência que frequenta o CACI tem direito, nomeadamente, a:
+
+a) Ser preservada a sua dignidade, privacidade, intimidade e individualidade;
+
+b) Ser informada e a participar em todas as decisões em que é parte interessada, sempre que tal se revele possível;
+
+c) Celebrar um PII, que consubstancie o projeto de vida no CACI, subscrito, sempre que possível pelo próprio, pela sua família e/ou representante legal;
+
+d) Ver respeitados os seus interesses individuais, as suas necessidades e expetativas pessoais, sociais e profissionais;
+
+e) Auferir uma compensação monetária, sempre que sejam desenvolvidas as atividades previstas nas alíneas d) e e) do n.º 2 do artigo 8.º, paga nos termos previstos no artigo 19.º;
+
+f) Dispor de seguro de acidentes pessoais;
+
+g) Aceder a transporte para os locais onde é exercida a atividade e respetivo regresso, bem como de outras deslocações imprescindíveis relacionadas com as atividades, sempre que a utilização da rede pública de transportes seja incompatível com a autonomia da pessoa com deficiência ou por indisponibilidade de oferta da rede de transportes;
+
+h) Beneficiar, sempre que possível, de ações de formação organizadas pelas entidades externas;
+
+i) Usufruir diariamente do almoço;
+
+j) Consultar o seu PII e solicitar a sua revisão.
+
+2 - Constituem deveres da pessoa com deficiência que frequenta o CACI, nomeadamente, os seguintes:
+
+a) Tratar com urbanidade e respeito os responsáveis e profissionais da instituição gestora do CACI e das entidades externas onde se encontrem integrados;
+
+b) Respeitar o sigilo profissional relativo às entidades externas onde se encontrem integrados;
+
+c) Zelar pela boa conservação dos equipamentos e outros bens que lhe estejam confiados;
+
+d) Ser assíduo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 19.º — Compensação monetária
+
+1 - Pelo exercício das atividades previstas nas alíneas d) e e) do n.º 2 do artigo 8.º, em entidades externas, a pessoa com deficiência aufere uma compensação monetária, calculada em função das horas de participação e da natureza e complexidade das tarefas efetuadas, não podendo exceder 50 % do indexante dos apoios sociais (IAS), nem ser inferior a 10 % do mesmo.
+
+2 - As compensações monetárias pagas devem constar de um registo, em documento próprio, que faz parte integrante do PII.
+
+3 - A compensação monetária atribuída é acumulável com qualquer prestação da segurança social concedida nos termos da lei, não é sujeita a quaisquer descontos e não releva para efeitos de cálculo da comparticipação familiar.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 20.º — Segurança social
+
+As pessoas com deficiência que desenvolvem as atividades previstas nas alíneas d) e e) do n.º 2 do artigo 8.º não são, pelo exercício dessas atividades, abrangidos pelos regimes do sistema previdencial de segurança social.
+
+###### Artigo 21.º — Direção técnica do CACI
+
+1 - A direção técnica do CACI é assegurada por um técnico superior, com formação em ciências sociais e humanas ou da saúde, preferencialmente com experiência profissional ou formação específica na área da deficiência.
+
+2 - O diretor técnico do CACI dirige a resposta social, programa as atividades, coordena e supervisiona os profissionais, dinamizando os contextos de intervenção com recurso a estratégias adequadas às características de cada unidade funcional.
+
+3 - O diretor técnico promove reuniões com os profissionais, com as pessoas com deficiência e com os seus familiares ou representantes legais, no âmbito do processo de elaboração e avaliação do PII, e sempre que se justifique.
+
+4 - Compete ainda ao diretor técnico promover a formação contínua da equipa do CACI assim como promover ações de formação para outros públicos, designadamente para cuidadores informais, entidades externas que colaborem com a instituição, entre outros.
+
+5 - Quando o CACI disponha apenas de uma unidade funcional, a direção técnica pode ser assegurada a tempo parcial, em função do número de pessoas com deficiência.
+
+6 - Quando o CACI disponha de uma ou mais unidades funcionais e funcione acoplado a outra resposta social da área da deficiência, a direção técnica pode ser assegurada pelo mesmo diretor técnico.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 22.º — Recursos humanos
+
+1 - O CACI dispõe de recursos humanos com formação específica adequada e definida em função das atividades e serviços a desenvolver, bem como do número de pessoas com deficiência abrangidas.
+
+2 - Cada unidade funcional do CACI dispõe, no mínimo, dos seguintes recursos humanos:
+
+a) Um técnico superior com formação em serviço social, ou ciências sociais e humanas, ou saúde;
+
+b) Um psicólogo, a tempo parcial, que pode ser imputado às duas unidades funcionais do CACI;
+
+c) Dois técnicos superiores com formação em reabilitação ou outra considerada adequada;
+
+d) Um trabalhador auxiliar de serviços gerais;
+
+e) Três monitores ou profissionais com perfil equivalente, correspondendo um profissional a cada dez pessoas;
+
+f) Três ajudantes de ação direta, correspondendo um profissional a cada dez pessoas;
+
+g) Um cozinheiro;
+
+h) Um ajudante de cozinha.
+
+3 - Quando mais de 20 % das pessoas que frequentam o CACI apresentem elevado grau de dependência, devidamente identificado em relatório clínico ou em relatório de equipa multidisciplinar elaborado para os efeitos previstos no n.º 1 do artigo 23.º, o número de monitores e de ajudantes de ação direta é reforçado para um rácio mínimo de um profissional por cada seis pessoas com deficiência.
+
+4 - Quando, para além das 30 pessoas que constituem a capacidade do CACI, são acompanhadas e desenvolvem atividades na comunidade, entre 5 e 15 pessoas, a equipa técnica é reforçada com mais um técnico superior de reabilitação ou equivalente.
+
+5 - Quando a confeção de refeições é objeto de contratualização externa, ou quando o CACI está acoplado a outra resposta social da área da deficiência que assegura o fornecimento das refeições, é dispensado o cumprimento das alíneas g) e h) do n.º 2.
+
+6 - Sem prejuízo dos recursos humanos previstos no n.º 2, o CACI pode efetuar a contratação externa de serviços e contar com a colaboração de voluntários, enquadrados nos termos da lei, os quais não podem substituir os profissionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 23 — Condições de admissão
+
+1 - A admissão da pessoa com deficiência no CACI está sujeita a apresentação de relatório clínico ou relatório de equipa multidisciplinar que certifique a deficiência e o grau de incapacidade.
+
+2 - [Revogado.]
+
+3 - Sempre que se conclua que a pessoa não reúne as condições para admissão no CACI, deve ser encaminhada para a estrutura ou atividade formativa ou profissional mais adequada à sua situação, vontade e expectativas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 24.º — Contrato de prestação de serviços
+
+1 - No ato de admissão ao CACI, é obrigatória a celebração, por escrito, de contrato de prestação de serviços com a pessoa com deficiência ou representante legal, de onde constem, designadamente:
+
+a) A identificação da pessoa com deficiência ou do seu ou da sua representante legal;
+
+b) Os direitos e obrigações das partes;
+
+c) Os serviços e atividades contratualizados;
+
+d) O valor da mensalidade ou da comparticipação familiar;
+
+e) As condições de suspensão, cessação e rescisão do contrato.
+
+2 - Do contrato é entregue um exemplar à pessoa com deficiência ou representante legal e o outro arquivado no processo individual.
+
+3 - Qualquer alteração ao contrato é efetuada por mútuo consentimento e assinada pelos outorgantes.
+
+###### Artigo 25.º — Processo individual
+
+1 - É obrigatória a elaboração de um processo individual da pessoa com deficiência, do qual constam, designadamente:
+
+a) A ficha de inscrição com identificação do médico assistente e da pessoa de referência ou representante legal e o respetivo contacto;
+
+b) A data de admissão;
+
+c) Relatório social, com elementos de caraterização individual, familiar e social;
+
+d) Relatório clínico e/ou de equipa multidisciplinar da situação de deficiência;
+
+e) O PII, definido nos termos previstos no artigo 26.º;
+
+f) O documento de registo das compensações monetárias, quando aplicável;
+
+g) O PIT, quando aplicável;
+
+h) O exemplar do contrato de prestação de serviços;
+
+i) O registo de períodos de ausência, bem como de ocorrência de situações anómalas;
+
+j) Cópia da apólice do seguro.
+
+2 - O processo individual deve estar atualizado, tem natureza confidencial e é de acesso restrito, nos termos da legislação em vigor.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 26.º — Plano individual de inclusão
+
+1 - É obrigatória a elaboração do PII, instrumento de planeamento, monitorização e avaliação do percurso de vida da pessoa com deficiência, que deve integrar os objetivos que se propõe atingir, as ações e atividades que se perspetivam como adequadas, bem como a inventariação dos meios necessários à sua efetiva concretização.
+
+2 - [Revogado.]
+
+3 - A elaboração, implementação e avaliação do PII deve obedecer aos seguintes princípios:
+
+a) A individualização e personalização, respeitando os objetivos, valores e os interesses das pessoas com deficiência;
+
+b) A participação ativa e a autodeterminação da pessoa com deficiência, dos seus familiares e/ou representante legal, em todas as fases do processo, enquanto principais agentes decisores;
+
+c) A valorização das aprendizagens ao longo da vida e nos seus diferentes domínios;
+
+d) A concretização de experiências e aprendizagens em contextos diversificados, que favoreçam a tomada de decisões de forma autónoma e promovam a sustentabilidade de projetos de vida independentes e inclusivos;
+
+e) Promover oportunidades de escolha e o desenvolvimento de comportamentos autodeterminados, apoiados nos direitos humanos das pessoas com deficiência e na sua inclusão plena na sociedade.
+
+4 - O desenvolvimento do PII deve ser acompanhado e avaliado de forma contínua pelo profissional de referência designado, analisando a necessidade de serem introduzidos ajustamentos, em articulação com todas as partes intervenientes.
+
+5 - O PII deve ser datado e assinado por todos os profissionais que participam na sua definição, pelos familiares ou representante legal e, sempre que possível, pela pessoa com deficiência.
+
+6 - O original do PII é integrado no processo individual, sendo fornecida, quando solicitada, uma cópia à pessoa com deficiência, aos seus familiares e/ou representante legal.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 27.º — Acesso à informação
+
+O CACI deve proceder à afixação, em local visível e de fácil acesso, dos seguintes documentos, que devem respeitar as normas da comunicação acessível:
+
+a) Cópia do título de funcionamento, quando aplicável;
+
+a) Cópia da licença de funcionamento, quando aplicável;
+
+b) Identificação da direção técnica;
+
+c) Horário de funcionamento;
+
+d) Identificação das atividades, incluindo as realizadas em entidades externas;
+
+e) Mapa semanal de ementas, incluindo dietas;
+
+f) Preçário;
+
+g) Critérios de determinação da comparticipação familiar, quando aplicável;
+
+h) Publicação dos apoios financeiros da segurança social, quando aplicável;
+
+i) Indicação da existência de livro de reclamações;
+
+j) Mapa de pessoal e respetivos horários;
+
+k) Regulamento interno;
+
+l) Minuta do contrato de prestação de serviços.
+
+m) Organograma.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 28.º — Regulamento interno
+
+1 - É obrigatória a existência de um regulamento interno do CACI, com as normas e os princípios específicos de funcionamento, designadamente:
+
+a) As condições, critérios e procedimentos de admissão;
+
+b) Os direitos e deveres da pessoa com deficiência e da entidade gestora;
+
+c) O horário de funcionamento;
+
+d) Os critérios para a determinação das comparticipações familiares, quando aplicável;
+
+e) A identificação dos cuidados e serviços a prestar.
+
+f) As condições de disponibilização de vagas em resposta de natureza não residencial para descanso do cuidador informal.
+
+2 - Um exemplar do regulamento interno é entregue à pessoa com deficiência ou representante legal, no ato de celebração do contrato de prestação de serviços.
+
+3 - Qualquer alteração ao regulamento interno deve ser comunicada à pessoa com deficiência e ao seu representante legal, assim como ao ISS, I. P., até 30 dias antes da sua entrada em vigor.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 29.º — Condições de implantação
+
+1 - O CACI deve estar inserido na comunidade, preferencialmente em local servido por transportes públicos e ter acesso fácil a pessoas e viaturas.
+
+2 - Na implantação do CACI deve ter-se em conta a proximidade a outros estabelecimentos de apoio social, de saúde e de âmbito recreativo e cultural.
+
+###### Artigo 30.º — Instalações
+
+1 - As instalações do CACI devem reunir condições de segurança, de privacidade, funcionalidade e conforto, nomeadamente em matéria de edificado, acessibilidades, salubridade, segurança e higiene, em conformidade com a legislação em vigor.
+
+2 - O CACI pode funcionar em edifício autónomo ou em parte de edifício destinado a outros fins.
+
+3 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 31.º — Acessos ao edifício
+
+1 - O edifício deve prever lugares de estacionamento de viaturas, em número adequado à capacidade do CACI, de acordo com os regulamentos municipais em vigor.
+
+2 - Na omissão de regulamentos municipais é obrigatório prever-se no mínimo um lugar de estacionamento que sirva ambulâncias e cargas e descargas e um outro destinado a estacionamento de veículos de pessoas com mobilidade condicionada com as dimensões adequadas.
+
+3 - No edifício onde está instalado o CACI é obrigatório prever-se:
+
+a) Acesso principal para as pessoas com deficiência, profissionais e visitantes;
+
+b) Acesso de serviço destinado às áreas de serviços e ao acesso de viaturas para cargas e descargas e recolha de lixo.
+
+4 - Quando o CACI funcione acoplado a outra resposta social, pode dispensar-se o estabelecido no n.º 2, desde que os lugares de estacionamento referidos já existam no âmbito das outras respostas sociais.
+
+5 - Devem ser garantidas, no edifício e área exterior afeta ao mesmo, as condições de acessibilidade para pessoas com mobilidade condicionada, de acordo com a legislação em vigor.
+
+###### Artigo 32.º — Áreas funcionais e edificado
+
+1 - O CACI é composto pelas seguintes áreas funcionais:
+
+a) Receção;
+
+b) Direção e serviços técnicos e administrativos;
+
+c) Instalações para pessoal;
+
+d) Atividades;
+
+e) Convívio;
+
+f) Refeições;
+
+g) Cozinha;
+
+h) Serviços de apoio.
+
+2 - Sempre que o CACI se encontre acoplado a lar residencial e/ou disponha de mais do que uma unidade funcional, a área referida na alínea d) do número anterior, destinada às atividades previstas no n.º 2 do artigo 8.º, é autónoma.
+
+3 - Sempre que o CACI esteja acoplado a outro equipamento social distinto do lar residencial, as áreas previstas nas alíneas d), e) e f) devem ser autónomas.
+
+4 - O acesso e ligação entre as áreas funcionais previstas no n.º 1 deve ficar garantido pelo interior do edifício ou, no caso de se localizarem em diferentes edifícios, através de passagem fechada.
+
+5 - As condições do edificado e os requisitos das áreas funcionais do CACI constam do anexo i à presente portaria, da qual faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 33.º — Acompanhamento, avaliação e fiscalização
+
+1 - O funcionamento do CACI está sujeito a acompanhamento, avaliação e fiscalização por parte dos serviços competentes do ISS, I. P., nos termos do Decreto-Lei n.º 64/2007, de 14 de março, na sua redação atual.
+
+2 - O acompanhamento e avaliação dos CACI por parte dos serviços competentes deve incluir instrumentos de análise com indicadores qualitativos e quantitativos, que permitam avaliar o impacto da resposta social na vida das pessoas.
+
+3 - O ISS, I. P., em parceria com o Instituto para os Direitos das Pessoas com Deficiência, I. P. (IDiPD, I. P.) e com as organizações representativas das pessoas com deficiência, promove ações de formação para os profissionais que acompanham a resposta social, visando garantir que a avaliação dos CACI se baseie em padrões de qualidade, mensuráveis e transparentes.
+
+4 - Sempre que se realizarem ações de acompanhamento, avaliação e fiscalização por parte dos serviços do ISS, I. P., a entidade gestora do CACI deve facultar o acesso às instalações e à documentação tida por necessária.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 34.º — Adequação
+
+O ISS, I. P., propõe para aprovação do membro do Governo responsável pela área da solidariedade e segurança social, no prazo de seis meses a contar da entrada em vigor da presente Portaria, um plano nacional de adequação dos CACI em funcionamento, com caracterização dos estabelecimentos existentes, identificação dos constrangimentos e definição das medidas necessárias à sua superação, em articulação com as entidades gestoras, devendo a respetiva implementação estar concluída no prazo máximo de 24 meses a contar da data da sua aprovação.
+
+> Nota: [Artigo 1.º, Portaria n.º 78/2024/1 - Diário da República n.º 45/2024, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/78-2024-854054397) prorroga o prazo previsto no artigo 1.º da Portaria n.º 92-A/2023, de 28 de março, que por sua vez prorroga o prazo estipulado no presente artigo.
+
+> Nota: [Artigo 1.º, Portaria n.º 92-A/2023 - Diário da República n.º 62/2023, 1º Suplemento, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/portaria/92-a-2023-211131306) prorroga o prazo previsto no presente artigo por um período máximo de 12 meses.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+###### Artigo 35.º — Norma revogatória
+
+São revogados:
+
+a) A Portaria n.º 432/2006, de 3 de maio;
+
+b) O Despacho n.º 52/SESS/90, de 16 de julho.
+
+###### Artigo 36.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia útil seguinte ao da sua publicação.
+
+A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 23 de março de 2021.
+
+## Anexo I — (a que se refere o n.º 5 do artigo 32.º)
+
+Condições gerais do edificado
+
+O edifício ou parte de edifício onde será desenvolvida a atividade do CACI deve obedecer aos seguintes requisitos:
+
+1 - O pé-direito livre mínimo é de 3,00 m, podendo em edifícios ou partes de edifícios existentes ser de 2,70 m, sem prejuízo do cumprimento das normas técnicas aplicáveis à edificação, à segurança, à salubridade, à ventilação, à acessibilidade e à saúde e segurança no trabalho.
+
+2 - Excecionalmente, em vestíbulos, corredores, instalações sanitárias, despensas e arrecadações será admissível que o pé-direito se reduza ao mínimo de 2,20 m.
+
+3 - Garantir o cumprimento integral, em condições de segurança, das normas técnicas para melhoria da acessibilidade das pessoas com mobilidade condicionada, quer se trate de edifícios de construção de raiz ou da remodelação de edifícios existentes, não sendo de admitir qualquer possibilidade de exceção.
+
+4 - A dimensão e a iluminação e ventilação natural dos compartimentos que integram o CACI obedecem, no mínimo, às exigências constantes nos artigos 69.º, 71.º, n.º 1, 73.º, 75.º e 77.º do REGEU, com as devidas adaptações, ou outras especificamente exigidas neste diploma.
+
+Áreas funcionais
+
+Ficha 1 - Área de receção
+
+1.1 - Destina-se à receção e atendimento.
+
+1.2 - O átrio da entrada deve ser amplo, com iluminação suficiente e adequada para espaço de transição com o exterior e deve permitir o fácil encaminhamento para os diversos espaços funcionais do CACI.
+
+1.3 - A área a considerar depende diretamente da dimensão do CACI: área mínima: 9,00 m2.
+
+1.4 - Em comunicação direta com esta área devem prever-se instalações sanitárias, equipadas com sanita e lavatório acessíveis a pessoas com mobilidade condicionada, separadas por género, para utilização pelos profissionais ou por pessoas externas ao CACI.
+
+Ficha 2 - Área de direção e serviços técnicos e administrativos
+
+2.1 - Destina-se ao atendimento e local de trabalho da direção do estabelecimento e dos profissionais técnicos e administrativos.
+
+2.2 - Deve localizar-se, preferencialmente, na proximidade da receção e incluir os seguintes espaços com as áreas úteis mínimas de:
+
+a) Gabinete da direção e gabinete dos técnicos: 10,00 m2;
+
+b) Área administrativa: 2 m2/posto de trabalho; área mínima: 9,00 m2;
+
+c) Sala de reuniões, quando a capacidade for igual ou superior a 30 utentes;
+
+d) Instalação sanitária equipada com sanita e lavatório. Esta instalação sanitária pode ser dispensada se houver outra na proximidade desta área funcional e que se destine à utilização por profissionais ou por pessoas externas ao CACI.
+
+2.3 - O gabinete da direção e os gabinetes técnicos deverão possuir iluminação e ventilação natural.
+
+2.4 - A área da direção, serviços técnicos e administrativos, bem como a sala de reuniões, podem ser dispensadas quando o CACI funcione acoplado a outras respostas sociais que possuam área funcional idêntica e essas funções sejam exercidas em conjunto.
+
+Ficha 3 - Área de instalações para pessoal
+
+3.1 - Destina-se aos recursos humanos e será localizada onde melhor se considerar, desde que se assegure o fácil acesso dos funcionários e não implique atravessamentos de circulações com outras áreas funcionais distintas.
+
+3.2 - Deve incluir os seguintes espaços com áreas mínimas de:
+
+a) Sala dos funcionários com uma área mínima útil 10,00 m2, devendo este compartimento possuir iluminação e ventilação natural;
+
+b) Instalações sanitárias, constituídas por base de duche, sanita e lavatório, com uma área mínima de 3,50 m2, sempre que não existam as instalações sanitárias previstas no número seguinte.
+
+3.3 - Junto da cozinha devem ser incluídas instalações para os recursos humanos sempre que o CACI tenha uma capacidade superior a 15 pessoas, e não recorra à confeção de alimentos no exterior, com os seguintes espaços e com a área mínima de:
+
+a) Vestiário: 6,00 m2;
+
+b) Os vestiários devem ser bem iluminados e ventilados, conforme previsto em legislação específica de segurança e saúde nos locais de trabalho, comunicar diretamente com a instalação sanitária, ter armários individuais passíveis de fechar à chave e assentos em número suficiente para os seus utilizadores;
+
+c) Instalações sanitárias, constituídas por base de duche, sanita e lavatório: 3,50 m2.
+
+3.4 - Pelo menos uma das instalações sanitárias destinadas aos profissionais deve possuir equipamentos sanitários acessíveis a pessoas com mobilidade condicionada podendo, em edifícios ou partes de edifícios existentes, considerar-se a instalação sanitária prevista no ponto 1.4, desde que a mesma possua zona de duche nivelada com o pavimento.
+
+3.5 - [Revogado.]
+
+Ficha 4 - Área de atividades
+
+4.1 - Destina-se ao desenvolvimento de atividades e deve, preferencialmente, localizar-se na proximidade da receção ou ter um acesso fácil com esta área.
+
+4.2 - No caso de atividades específicas, esta área deve estar apta ao uso de utensílios de trabalho bem como ter as condições ambientais, de iluminação e de conforto necessárias.
+
+4.3 - Os espaços devem ter em consideração as seguintes características:
+
+a) A sala de atividades deverá ter uma área mínima de 20,00 m2, assegurando uma área mínima de 2,00 m2/por utente;
+
+b) As salas de atividades devem garantir o desenvolvimento das atividades previstas no n.º 2 do artigo 8.º em compartimentos autónomos, com a área mínima referida na alínea anterior, e são sempre iluminadas e ventiladas por um ou mais vãos praticados nas paredes, em comunicação direta com o exterior, com área total não inferior a 20 % da área do pavimento, com exceção da sala destinada a fisioterapia ou a relaxamento sensorial que deve apresentar uma área mínima de 10 m2 e vãos praticados nas paredes, em comunicação direta com o exterior, com área total não inferior a 10 % da área do pavimento;
+
+c) As instalações sanitárias, separadas por género, em que o equipamento a instalar será em número adequado, considerando no mínimo uma cabine com sanita, um lavatório e uma base de duche por cada 10 utentes;
+
+d) Pelo menos uma das instalações sanitárias para cada género deve possuir equipamentos sanitários acessíveis a pessoas com mobilidade condicionada e integrar uma bancada de mudas ou espaço livre para a instalação de uma marquesa (2,00 m x 0,70 m).
+
+4.4 - Em casos excecionais, devidamente fundamentados, em que as pessoas que frequentam o CACI não se encontrem aptas para a utilização das sanitas e lavatórios tradicionais de forma autónoma, poderá optar-se, em substituição das instalações sanitárias referidas no número anterior, por outro tipo de solução devidamente adaptada, a aprovar mediante proposta justificada do projetista.
+
+Ficha 5 - Área de convívio
+
+5.1 - Destina-se a momentos de convívio.
+
+5.2 - Deve existir uma sala multiúso com uma área mínima de 2,00 m2/utente, para uma utilização, em simultâneo, no mínimo de 80 % dos utentes e uma área mínima de 20,00 m2.
+
+5.3 - A sala multiúso será sempre iluminada e ventilada por um ou mais vãos praticados nas paredes, em comunicação direta com o exterior e cuja área total não será inferior a 20 % da área do pavimento.
+
+5.4 - Instalações sanitárias, separadas por género, em que o equipamento a instalar será em número adequado, considerando uma cabine com sanita, um lavatório e uma base de duche por cada 10 utentes. Pelo menos uma das instalações sanitárias para cada género deve possuir equipamentos sanitários acessíveis a pessoas com mobilidade condicionada.
+
+5.5 - As instalações sanitárias podem ser dispensadas desde que haja proximidade entre a sala multiúso e as instalações sanitárias previstas para a área de atividades ou refeições.
+
+5.6 - Em casos excecionais, devidamente fundamentados, em que a população utente não se encontre apta para a utilização das sanitas e lavatórios tradicionais de forma autónoma, poderá optar-se, em substituição das instalações sanitárias referidas no n.º 5.4, por outro tipo de solução devidamente adaptada a essa população, a aprovar oportunamente e mediante proposta justificada do projetista.
+
+5.7 - As salas de convívio devem possuir, sempre que possível, o acesso direto ao exterior de forma acessível e segura, de modo a garantir a continuidade do espaço para o exterior do edifício.
+
+Ficha 6 - Área de refeições
+
+6.1 - Os espaços desta área devem incluir as seguintes características:
+
+a) A sala de refeições deverá ter uma área útil mínima de 20,00 m2, assegurando uma área útil mínima de 2,00 m2/pessoa, para uma utilização, em simultâneo, no mínimo de 80 % das pessoas e, quando a sala de refeições não possuir ligação direta com a cozinha, deve ser previsto um espaço para receção e manuseamento dos alimentos;
+
+b) A sala de refeições será sempre iluminada e ventilada por um ou mais vãos praticados nas paredes, em comunicação direta com o exterior e cuja área total não será inferior a 20 % da área do pavimento;
+
+c) Instalações sanitárias, separadas por género, em que o equipamento a instalar será em número adequado, considerando uma cabine com sanita e um lavatório por cada dez pessoas, e pelo menos uma das instalações sanitárias para cada género deve possuir equipamentos sanitários acessíveis a pessoas com mobilidade condicionada;
+
+d) As instalações sanitárias podem ser dispensadas desde que haja proximidade entre a sala de refeições e as instalações sanitárias previstas para a área de atividades ou convívio.
+
+6.2 - Em casos excecionais, devidamente fundamentados, em que a população utente não se encontre apta para a utilização das sanitas e lavatórios tradicionais de forma autónoma, poderá optar-se, em substituição das instalações sanitárias referidas na alínea c) do número anterior, por outro tipo de solução devidamente adaptada a essa população, a aprovar oportunamente e mediante proposta justificada do projetista.
+
+6.3 - As salas de refeições devem possuir, sempre que possível, o acesso direto ao exterior de forma acessível e segura, de modo a garantir a continuidade do espaço para o exterior do edifício.
+
+Ficha 7 - Área de cozinha
+
+7.1 - A cozinha deve ser dimensionada ao número de refeições a confecionar ou servir e ser objeto de projeto específico para a instalação dos equipamentos de trabalho fixos e móveis, bem como dos aparelhos e máquinas necessários, sempre que a capacidade seja superior a 15 utentes.
+
+7.2 - A área mínima da cozinha é de 10,00 m2, e deve dispor, na medida do possível, de iluminação e ventilação natural adequada, sem prejuízo das compensações necessárias previstas para os locais de trabalho.
+
+7.3 - Independentemente de ser apresentado o projeto específico da cozinha, os espaços a considerar são:
+
+a) Um espaço principal, organizado em três zonas: zona de higienização dos manipuladores de alimentos; zona de preparação de alimentos e zona de confeção de alimentos;
+
+b) Espaço complementar, integrado no espaço principal ou com comunicação direta com este, organizado em duas outras zonas: zona de lavagem de loiça e de utensílios de cozinha (também designado por copa suja) e zona de distribuição das refeições (também designada por copa limpa);
+
+c) Espaços anexos, compostos por despensa, compartimento de frio e compartimento do lixo.
+
+7.4 - Caso o CACI recorra à confeção de alimentos no exterior, a cozinha pode ser simplificada, devendo existir os espaços necessários para proceder, em condições de higiene e de bom funcionamento, à receção e armazenamento das refeições e ao seu aquecimento e respetiva distribuição, não se aplicando o previsto no n.º 3.3.
+
+7.5 - Quando a entidade promotora disponha de cozinha centralizada, devidamente licenciada para o número total de refeições a servir, deverá aplicar-se as condições exigidas no número anterior, não se aplicando o previsto no n.º 3.3.
+
+Ficha 8 - Área de serviços de apoio
+
+8.1 - Destina-se à arrumação e armazenamento de equipamento, mobiliário, materiais e produtos necessários ao funcionamento do CACI.
+
+8.2 - Esta área deve incluir os seguintes espaços:
+
+a) Arrecadações gerais;
+
+b) Arrecadações de géneros alimentícios;
+
+c) Arrecadações de equipamentos e produtos de higiene do ambiente.
+
+8.3 - Deve existir um espaço de armazenamento para a medicação e outro material de acesso restrito.
+
+8.4 - Quando o CACI proceda ao serviço de tratamento de roupa deve possuir uma lavandaria para o efeito.
+
+8.5 - A lavandaria deve localizar-se junto ao acesso de serviço e estar dimensionada ao número de utentes a servir e ser objeto de projeto específico para a instalação dos equipamentos de trabalho fixos e móveis, bem como dos aparelhos e máquinas necessários, sempre que a capacidade seja superior a 15 utentes.
+
+8.6 - A lavandaria deve possuir uma área mínima de 12,00 m2 e dispor, na medida do possível, de iluminação e ventilação natural adequada, sem prejuízo das compensações necessárias previstas para os locais de trabalho.
+
+8.7 - Os espaços a considerar devem ter em conta:
+
+a) Depósito para receção da roupa suja;
+
+b) Máquinas de lavar e secar roupa;
+
+c) Depósito, armários e prateleiras para guardar a roupa lavada;
+
+d) Bancada para passar a ferro.
+
+8.8 - Não é necessária a existência de espaço físico especialmente dedicado à área de lavandaria quando os serviços sejam assegurados através de contratação externa, devendo ficar assegurados os espaços necessários para proceder, em condições de higiene e de bom funcionamento, ao depósito para receção da roupa suja, armários e prateleiras para guardar a roupa lavada.
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 296/2026/1 - Diário da República n.º 133/2026, Série I de 2026-07-13](https://diariodarepublica.pt/dr/detalhe/portaria/296-2026-1146287137), em vigor a partir de 2026-07-14.
+
+## Anexo II — [a que se refere a alínea b) do n.º 3 do artigo 2.º]
+
+O CACI que realize obras de requalificação e que implique o aumento de capacidade de um valor inferior a 30 % deve obedecer aos requisitos previstos no anexo i para as condições gerais do edificado, com exceção das áreas funcionais afetas às atividades, de convívio e de refeições, para as quais pode optar por obedecer apenas às seguintes condições:
+
+Salas de atividades
+
+1 - As salas destinadas ao desenvolvimento das diversas atividades com os utentes devem localizar-se, preferencialmente, na mesma zona, permitir ligação com o exterior e apresentar, quando possível, uma área de 3 m2 por utente.
+
+2 - Se estiver prevista uma sala destinada a fisioterapia ou a relaxamento sensorial esta deve apresentar uma área mínima de 9 m2.
+
+3 - As salas de atividades deverão possuir iluminação e ventilação natural.
+
+Sala de refeições e de convívio
+
+1 - A sala de refeições deve permitir o acesso à sala de convívio, da qual deve poder isolar-se facilmente e apresentar uma área aproximada de 1,50 m2 por utente.
+
+2 - A sala de convívio deve possuir a área referida no número anterior.
+
+3 - As salas de refeições e de convívio deverão possuir iluminação e ventilação natural.
+
+Instalações sanitárias
+
+As instalações sanitárias devem ser adequadas às necessidades dos utentes e distribuídas por núcleos situados nas zonas de maior permanência dos mesmos, tendo em atenção o seguinte:
+
+a) O número mínimo de sanitas e de lavatórios deve ser de um para cada 10 utentes;
+
+b) O número de chuveiros deve ser de um para cada 10 utentes, dos quais dois serão instalados junto das salas de atividades e outros dois junto do ginásio, caso exista;
+
+c) Pelo menos uma das instalações sanitárias de apoio à sala de atividades e à sala de refeições e de convívio deve ser acessível e possuir equipamentos sanitários acessíveis a pessoas com mobilidade condicionada, com uma área mínima de 4,84 m2.
+
+114098807

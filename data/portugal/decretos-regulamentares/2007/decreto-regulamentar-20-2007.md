@@ -1,0 +1,269 @@
+---
+schema_version: '1.0'
+id: pt:dre:520457:por
+title: Decreto Regulamentar n.º 20/2007
+short_title: null
+summary: Aprova a orgânica da Secretaria-Geral do Ministério das Finanças e da Administração Pública
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 20/2007
+official_date: null
+publication_date: '2007-03-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 63/2007, Série I de 2007-03-29
+  number: '63'
+  series: I
+  supplement: null
+  pages: 1854 - 1855
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06300/18541855.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/20/2007/03/29/p/dre/pt/html
+  oj: null
+  dre: '520457'
+  dre_path: /dr/detalhe/decreto-regulamentar/20-2007-520457
+  internal: pt:dre:520457:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-2007-520457
+  metadata_url: https://data.dre.pt/eli/decregul/20/2007/03/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-2007-520457
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:30:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8f7220f42997560081fcd3859e047a416038b89e52c44668adb86af075dc5621
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:30:09Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Direcção Geral da Administração Pública
+- Ministério das Finanças e da Administração Pública
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Secretaria Geral
+- Transferência de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:552537:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:147254:por
+  label: null
+  source: http://data.dre.pt/eli/lei/1/1995/01/14/p/dre
+- type: cites
+  target: pt:dre:233928:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314459:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/89-f/1998/04/13/p/dre
+- type: cites
+  target: pt:dre:533395:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/13/1997/01/17/p/dre
+- type: cites
+  target: pt:dre:533396:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/14/1997/01/17/p/dre
+- type: cites
+  target: pt:dre:545575:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/201/2006/1
+- type: cites
+  target: pt:dre:545650:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/205/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:667353:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/416/1999/10/21/p/dre
+- type: cites
+  target: pt:dre:684843:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/493/1999/11/18/p/dre
+- type: repealed_by
+  target: pt:dre:552537:por
+  label: "Revogado, a partir de 01.05.2012., pelo DR.37/2012.10.04.2012.MF, DR.IS [71] de 10.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/37-2012-552537
+  date: '2012-04-10'
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:30:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 20/2007
+
+de 29 de Março
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos, com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 205/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2006-545650), de 27 de Outubro, que aprovou a Lei Orgânica do Ministério das Finanças e da Administração Pública, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+O presente decreto regulamentar visa concretizar a reestruturação da Secretaria-Geral do Ministério das Finanças e da Administração Pública (SGMFAP), no âmbito do processo global de reforma da Administração Pública, consagrando o essencial das recomendações do PRACE em matéria de transversalidade de actuação das secretarias-gerais, designadamente no que respeita à assumpção de funções comuns.
+
+Nesta ordem de ideias, a SGMFAP passa a assumir o conjunto de atribuições previstas no artigo 31.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, ficando desta forma consagrada a sua actuação de cariz horizontal relativamente aos serviços e organismos que integram o Ministério das Finanças e da Administração Pública.
+
+Todavia, esta evolução em matéria de atribuições determina um imprescindível reforço da componente técnica dos serviços, com reflexos quer ao nível da estrutura organizacional interna, sem que tal implique aumento do número de unidades orgânicas, quer no que concerne à composição qualitativa do quadro de pessoal, também neste caso sem que se verifique aumento do número de efectivos.
+
+Estas alterações, a aprovar nos termos legalmente previstos, irão permitir um funcionamento mais ágil e racional da SGMFAP, ao mesmo tempo que a posicionam numa perspectiva transversal, objectivo do Governo para este tipo de estruturas.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 24.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Secretaria-Geral do Ministério das Finanças e da Administração Pública (MFAP), abreviadamente designada por SG, é um serviço central da administração directa do Estado dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A SG tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MFAP e aos demais órgãos e serviços nele integrados, nos domínios da gestão de recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação e da comunicação e relações públicas.
+
+2 - A SG prossegue as seguintes atribuições:
+
+a) Apoiar administrativa, técnica e juridicamente os gabinetes dos membros do Governo integrados no MFAP, bem como os órgãos, serviços, comissões e grupos de trabalho que não disponham de meios apropriados, bem como assegurar os serviços de apoio jurídico-contencioso do MFAP;
+
+b) Gerir os contratos de prestação de serviços de suporte não integrados em entidades públicas prestadoras de serviços partilhados, bem como centralizar o expediente relativo às aquisições de bens e serviços para o MFAP, no quadro do funcionamento do sistema de compras públicas, assegurando as funções de unidade ministerial de compras;
+
+c) Gerir o edifício sede do MFAP, bem como outras instalações que lhe estejam afectas, e coordenar as acções referentes à organização e preservação do património e arquivo histórico, procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixaram de ser de uso corrente por parte dos organismos produtores;
+
+d) Assegurar as actividades do MFAP no âmbito da comunicação e relações públicas e gerir a documentação e informação técnica, assegurando o funcionamento da biblioteca, dos arquivos dos gabinetes dos membros do Governo integrados no MFAP e da SG;
+
+e) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MFAP na respectiva implementação;
+
+f) Processar, financiar e pagar as despesas resultantes de reconstituição de bens do Estado ou de indemnizações devidas a funcionários ou terceiros, nos termos definidos na lei;
+
+g) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de quadros de pessoal do MFAP;
+
+h) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afecto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais;
+
+i) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade, no âmbito do MFAP, e assegurar a articulação com os organismos com competências interministeriais nestas áreas.
+
+###### Artigo 3.º — Órgãos
+
+A SG é dirigida por um secretário-geral, coadjuvado por dois secretários-gerais-adjuntos.
+
+###### Artigo 4.º — Secretário-geral
+
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao secretário-geral:
+
+a) Exercer, de harmonia com a lei e as orientações do Ministro, a representação do MFAP;
+
+b) Coordenar a actividade dos serviços do Ministério nas matérias de gestão comum que estão confiadas à SG, promovendo a elaboração de instruções e acompanhando os procedimentos adequados ao bom funcionamento dos serviços;
+
+c) Exercer as funções de oficial público nos actos e contratos em que participem como outorgantes os membros do Governo.
+
+2 - Os secretários-gerais-adjuntos exercem as competências que lhe sejam delegadas ou subdelegadas pelo secretário-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Tipo de organização interna
+
+A organização interna da SG obedece ao modelo de estrutura hierarquizada.
+
+###### Artigo 6.º — Receitas
+
+1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A SG dispõe ainda das seguintes receitas próprias:
+
+a) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;
+
+b) O produto de venda de publicações e de trabalhos editados pela SG;
+
+c) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;
+
+d) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+
+3 - As receitas próprias referidas no número anterior são consignadas à realização de despesas da SG durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.
+
+4 - As quantias cobradas pela SG são fixadas e periodicamente actualizadas por despacho do secretário-geral, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da SG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 8.º — Quadro de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 9.º — Critérios de selecção de pessoal
+
+O critério de selecção do pessoal necessário à prossecução da atribuição transferida pelo n.º 1 do artigo 47.º da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro, é o do desempenho de funções na Direcção-Geral da Administração Pública relacionadas com a prática dos actos procedimentais legalmente previstos, relativos aos funcionários e agentes que à data de entrada em vigor daquele diploma se encontravam afectos aos quadros transitórios criados ao abrigo da [Lei n.º 1/95](https://diariodarepublica.pt/dr/detalhe/lei/1-1995-147254), de 14 de Janeiro, e dos Decretos-Leis n.os [13/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1997-533395), de 17 de Janeiro, [14/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1997-533396), de 17 de Janeiro, [89-F/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-f-1998-314459), de 13 de Abril, [416/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/416-1999-667353), de 21 de Outubro, e [493/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/493-1999-684843), de 18 de Novembro.
+
+###### Artigo 10.º — Sucessão
+
+Nos termos previstos no n.º 1 do artigo 47.º da [Lei n.º 53/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-2006-545575), de 7 de Dezembro, a SG sucede nas atribuições cometidas à Direcção-Geral da Administração Pública em matéria relacionada com a prática dos actos procedimentais legalmente previstos, relativos aos funcionários e agentes que à data de entrada em vigor daquele diploma se encontravam afectos aos quadros transitórios criados junto da mesma Direcção-Geral.
+
+###### Artigo 11.º — Efeitos revogatórios
+
+Nos termos do artigo 5.º do [Decreto-Lei n.º 201/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2006-545644), de 27 de Outubro, considera-se revogado, na data de entrada em vigor do presente decreto regulamentar, o [Decreto-Lei n.º 353/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-1998-233928), de 12 de Novembro.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 28 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
+
+Promulgado em 8 de Março de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 9 de Março de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## ANEXO — Mapa a que se refere o artigo 8.º
+
+Quadro de pessoal dirigente
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/03/06300/18541855.pdf)

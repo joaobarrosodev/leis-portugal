@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:451375:por
+title: Portaria n.º 584/83
+short_title: null
+summary: Fixa em 150$00 o limite do quantitativo dos subsídios de refeição, não sujeito a imposto nos termos do artigo 3.º,
+  alínea f), do Código do Imposto Profissional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Direcção-Geral das Contribuições e Impostos
+proposing_entity: null
+official_number: 584/83
+official_date: null
+publication_date: '1983-05-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/1983, Série I de 1983-05-19
+  number: '115'
+  series: I
+  supplement: null
+  pages: 1846 - 1846
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11500/18461846.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '451375'
+  dre_path: /dr/detalhe/portaria/584-1983-451375
+  internal: pt:dre:451375:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/584-1983-451375
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/584-1983-451375
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:43:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a391cf2667790a6dc635f42638d91325fe553cabb6e2f1b8782217db0163ced3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:43:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contribuições e Impostos
+- Imposto Profissional
+- Subsídio de Refeição
+relationships:
+- type: amended_by
+  target: pt:dre:444771:por
+  label: Última alteração registada na importação inicial
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:43:45Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 584/83
+
+de 19 de Maio
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano, o seguinte:
+
+1.º Fixar em 150$00 o limite do quantitativo dos subsídios de refeição, não sujeito a imposto nos termos do artigo 3.º, alínea f), do Código do Imposto Profissional.
+
+2.º O disposto no número anterior é aplicável aos subsídios de refeição pagos ou postos à disposição dos seus titulares a partir de 1 de Janeiro de 1983.
+
+Ministério das Finanças e do Plano.
+
+Assinada em 28 de Abril de 1983.
+
+Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento.

@@ -1,0 +1,434 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:223833:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-885208656",
+ "dre_path": "/dr/detalhe/portaria/385-2004-223833",
+ "source_lastmod": "2024-08-22",
+ "versions": [
+  {
+   "date": "2004-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885235218",
+    "885235219",
+    "885235220",
+    "885235221",
+    "885235222",
+    "885235223",
+    "885235224",
+    "885235225",
+    "885235226",
+    "885235227",
+    "885235228",
+    "885235229",
+    "885235230",
+    "885235231",
+    "885235232",
+    "885235233",
+    "885235234",
+    "885235235",
+    "885235236",
+    "885235237",
+    "885235238",
+    "885235239",
+    "885235240"
+   ]
+  },
+  {
+   "date": "2006-12-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:235919:por",
+     "title": "Portaria n.º 1416-A/2006",
+     "published": "2006-12-19",
+     "dre_path": "/dr/detalhe/portaria/1416-a-2006-235919"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "885235218",
+    "885235241",
+    "885235219",
+    "885235220",
+    "885235221",
+    "885235222",
+    "885235223",
+    "885235224",
+    "885235225",
+    "885235226",
+    "885235227",
+    "885235228",
+    "885235229",
+    "885235230",
+    "885235247",
+    "885235232",
+    "885235233",
+    "885235234",
+    "885235235",
+    "885235236",
+    "885235237",
+    "885235238",
+    "885235239",
+    "885235240"
+   ]
+  },
+  {
+   "date": "2008-07-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456494:por",
+     "title": "Portaria n.º 574/2008",
+     "published": "2008-07-04",
+     "dre_path": "/dr/detalhe/portaria/574-2008-456494"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "885235218",
+    "885359254",
+    "885235241",
+    "885235219",
+    "885235220",
+    "885235221",
+    "885235222",
+    "885235223",
+    "885235248",
+    "885235225",
+    "885235253",
+    "885235227",
+    "885235228",
+    "885235252",
+    "885235230",
+    "885235249",
+    "885235254",
+    "885235250",
+    "885235251",
+    "885235235",
+    "885235236",
+    "885235255",
+    "885235256",
+    "885235239",
+    "885235240"
+   ]
+  }
+ ],
+ "fragments": {
+  "885235218": {
+   "fragment_id": "885208657",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 385/2004\n\nde 16 de Abril\n\nAo elaborar a presente tabela houve a preocupação de obedecer a princípios fundamentais do notariado latino.\n\nTanto o consumidor como a segurança jurídica são grandemente favorecidos pelo contributo do jurista imparcial e independente que é o notário, com a condição de que ele seja acessível a todos, graças a uma tabela oficial de custos obrigatórios, como consequência do carácter público da sua função.\n\nSão ainda objectivos da presente tabela a solvabilidade do sistema e que os novos preço obtidos permaneçam proporcionalmente relacionados com o seu custo económico. Pretende-se ainda repor o princípio da proporcionalidade. Este princípio tem de aferir-se não só pelo serviço prestado mas também e sobretudo pela responsabilidade que acarreta. E por isso ele impõe que o mais valioso deverá pagar mais e o menos valioso deverá pagar menos.\n\nA tabela baseada no valor do acto garante que o serviço notarial qualificado está ao alcance de todos, mesmo quando se trate de actos de valor económico diminuto.\n\nAssim, o notário deverá auferir honorários baixos nos actos de valor económico reduzido, mesmo quando a sua outorga não é rentável sob o ponto de vista económico.\n\nSe se tivesse em conta a estrita cobertura dos custos notariais, a actividade do notário quase nunca poderia ser suportada pelos economicamente débeis. Estaria, de facto, a ser-lhes recusado o acesso à justiça.\n\nÉ esta mesma preocupação que justifica e impõe a existência de notários, necessariamente deficitários, em regiões do País economicamente mais desfavorecidas, mas que têm um papel socialmente imprescindível.\n\nPor outro lado, tratando-se de actos que envolvem bens economicamente valiosos, pode razoavelmente pedir-se aos interessados o pagamento de honorários que, por via da regra, estão relacionados com o interesse económico pertinente ao acto outorgado.\n\nCom efeito, não são apenas os direitos, taxas e impostos devidos ao Estado que são calculados com base no valor da operação. Os profissionais liberais recebem honorários em função do valor do serviço prestado.\n\nAcresce ainda o facto de ter sido criado um regime mais favorável relativo às compras e vendas, hipotecas e mútuos com hipoteca, constituições de sociedade de capital mínimo e testamentos.\n\nAtenta a vertente pública da função, é desejável para o consumidor notarial, quanto aos actos de maior relevância social, aliás no seguimento das legislações notariais europeias, que o custo do acto notarial seja o mesmo em todo o território nacional. Este princípio da uniformidade do custo do acto notarial não põe em causa a desejável concorrência entre os notários, a qual já está assegurada pela consagração dos princípios da livre escolha do notário e da territorialidade, previstos no artigo 7.º do Estatuto do Notariado e no n.º 3 do artigo 4.º do Código do Notariado e ainda pela existência de actos de custo livre, na sequência dos últimos relatórios da Comissão Europeia sobre a concorrência nos serviços das profissões liberais.\n\nExiste uma tensão potencial entre, por um lado, a necessidade de um determinado nível de regulamentação nesta profissão e, por outro, as regras de concorrência no Tratado.\n\nA definição de preços fixos e máximos protege os consumidores face a honorários excessivos.\n\nA profissão de notário na União Europeia consigna uma excepção em que a regulação dos preços está associada a outras medidas regulamentares como restrições quantitativas à entrada e proibições à publicidade que constituem restrições da concorrência. Porém, a reforma do notariado adoptou uma abordagem global favorável à concorrência, flexibilizando as restrições à entrada pela definição de um mapa notarial alargado, permitiu preços livres e em matéria de publicidade admitiu a informativa.\n\nA regra do numerus clausus claramente enuncia que na sede de cada município existe, pelo menos, um notário, cuja actividade está dependente da atribuição de licença. O interesse público de que cada concelho tenha um notário a par da segurança jurídica é um interesse claramente definido e legítimo. Por outro lado, a regulamentação restritiva justifica-se pelos aspectos externos, isto é, por força do impacte que estes serviços têm perante terceiros, bem com no adquirente do serviço e porque produz bens públicos importantes para a sociedade em geral.\n\nNão pode, pois, neste momento, o Estado prescindir desta regulamentação.\n\nA actual tabela assenta em conceitos jurídicos determináveis, conhecidos e consentâneos com a tradição notarial nacional e europeia, o que a torna um documento de aplicação fácil, erigindo como pedra basilar a justiça na tributação dos actos e a simplicidade da sua compreensão.\n\nAssim:\n\nManda o Governo, pela Ministra da Justiça, nos termos do n.º 1 do artigo 17.º do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro, o seguinte:\n\nÉ aprovada a tabela de honorários e encargos aplicável à actividade notarial exercida ao abrigo do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro, anexa à presente portaria e que dela faz parte integrante."
+  },
+  "885235219": {
+   "fragment_id": "885208658",
+   "type": 1,
+   "heading": "Capítulo I — Regras de interpretação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Regras de interpretação"
+  },
+  "885235220": {
+   "fragment_id": "885208659",
+   "type": 11,
+   "heading": "Artigo 1.º — Honorários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Honorários\n\nPelos actos praticados pelos notários são cobrados os honorários e encargos constantes da presente tabela, acrescidos do imposto sobre o valor acrescentado e do imposto do selo, nos termos legais."
+  },
+  "885235221": {
+   "fragment_id": "885208660",
+   "type": 11,
+   "heading": "Artigo 2.º — Incidência subjectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Incidência subjectiva\n\nEstão sujeitos a honorários o Estado as Regiões Autónomas, as autarquias locais, os fundos e serviços autónomos e as entidades que integrem o sector empresarial do Estado, das Regiões Autónomas e das autarquias locais, bem como as pessoas singulares ou colectivas de direito privado, independentemente da forma jurídica de que se revistam."
+  },
+  "885235222": {
+   "fragment_id": "885208661",
+   "type": 11,
+   "heading": "Artigo 3.º — Proporcionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Proporcionalidade\n\n1 - Os honorários constituem a retribuição dos actos praticados e são calculados com base no custo efectivo do serviço prestado, tendo em consideração a natureza dos actos e a sua complexidade.\n\n2 - Sempre que os montantes a fixar sejam livres, deve o notário proceder com moderação, tendo em vista, designadamente, o tempo gasto, a dificuldade do assunto, a importância do serviço prestado e o contexto sócio-económico."
+  },
+  "885235223": {
+   "fragment_id": "885208662",
+   "type": 11,
+   "heading": "Artigo 4.º — Normas de interpretação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Normas de interpretação\n\nAs disposições sobre honorários tabelados no presente diploma não admitem interpretação extensiva ou interpretação analógica e, em caso de dúvida sobre o devido, cobra-se sempre o menor."
+  },
+  "885235224": {
+   "fragment_id": "885208663",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipos de honorários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipos de honorários\n\nOs honorários devidos ao notário pelos actos outorgados são fixos e livres:\n\na) Fixos para os actos descritos na tabela;\n\nb) Livres para os restantes."
+  },
+  "885235225": {
+   "fragment_id": "885208664",
+   "type": 1,
+   "heading": "Capítulo II — Regras de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regras de aplicação"
+  },
+  "885235226": {
+   "fragment_id": "885208665",
+   "type": 11,
+   "heading": "Artigo 6.º — Valor dos actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Valor dos actos\n\n1 - O valor dos actos notariais é, em geral, o dos bens que constituam o seu objecto.\n\n2 - Em especial, o valor dos actos será:\n\na) Nas permutas, a soma do valor dos bens, presentes ou futuros, permutados, não sendo de considerar como tal qualquer prestação em dinheiro entregue como suplemento do valor dos referidos bens;\n\nb) Na dação em cumprimento, o das dívidas pagas ou o dos bens dados em cumprimento, se for superior àquele;\n\nc) Nos de garantia e nos de renúncia de garantia, o do capital garantido;\n\nd) Nas locações financeiras, o da retribuição por todo o tempo da duração do contrato;\n\ne) Nos de empréstimo, confissão de dívida ou abertura de crédito, o do respectivo capital."
+  },
+  "885235227": {
+   "fragment_id": "885208666",
+   "type": 11,
+   "heading": "Artigo 7.º — Pluralidade de actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pluralidade de actos\n\n1 - Quando uma escritura contiver mais de um acto, cobrar-se-ão por inteiro os honorários devidos por cada um deles.\n\n2 - Entende-se que há pluralidade de actos:\n\na) Sempre que assim resulte das normas substantivas e fiscais;\n\nb) Se a denominação correspondente a cada um dos negócios jurídicos cumulados for diferente;\n\nc) Se os respectivos sujeitos activos e passivos não forem os mesmos.\n\n3 - Não são considerados novos actos:\n\na) Os consentimentos e autorizações de terceiros necessários à plenitude dos efeitos jurídicos ou à perfeição do acto a que respeitem;\n\nb) As garantias entre os mesmos sujeitos.\n\n4 - Contar-se-ão como um só acto:\n\na) A outorga de poderes de representação ou o seu substabelecimento por marido e mulher, contanto que o representante seja o mesmo;\n\nb) As diversas garantias de terceiros a obrigações entre os mesmos sujeitos prestadas, no título em que estas são constituídas.\n\n5 - O disposto nos números anteriores é igualmente aplicável aos instrumentos avulsos que contenham mais de um acto."
+  },
+  "885235228": {
+   "fragment_id": "885208667",
+   "type": 11,
+   "heading": "Artigo 8.º — Valor dos bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Valor dos bens\n\n1 - Para efeitos do disposto no artigo 8.º, o valor dos bens é o valor declarado pelos interessados, ou o valor patrimonial tributário dos bens objecto do acto, se for superior.\n\n2 - Quanto a bens ou actos cujo valor seja fixado em moeda diferente do euro, o que lhe corresponder em euros ao câmbio do último dia útil fixado pelo Banco de Portugal."
+  },
+  "885235229": {
+   "fragment_id": "885208668",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamento\n\n1 - A obrigação de pagamento dos custos dos actos notariais recai sobre quem tiver requerido a prestação de serviços ao notário sendo solidariamente responsáveis todos os outros interessados no acto; no caso de a conta não ser satisfeita espontaneamente deve ser cobrada em execução, servindo de título o respectivo documento, assinado pelo notário.\n\n2 - São gratuitas as rectificações resultantes de erros imputáveis ao notário, bem como a sanação e a revalidação de actos notariais.\n\n3 - O notário não pode abster-se de cobrar os custos integrais resultantes da aplicação desta tabela.\n\n4 - O notário pode exigir, a título de preparo, o pagamento antecipado do custo provável dos actos, bem como as despesas que o notário deva fazer em nome do interessado, necessárias à outorga do acto."
+  },
+  "885235230": {
+   "fragment_id": "885208669",
+   "type": 1,
+   "heading": "Capítulo III — Tabela de honorários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Tabela de honorários"
+  },
+  "885235231": {
+   "fragment_id": "885208670",
+   "type": 11,
+   "heading": "Artigo 10.º — Honorários fixos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Honorários fixos\n\nOs actos que se enumeram têm os seguintes valores fixos:\n\n1 - Habilitação notarial - (euro) 122,69.\n\n2 - Constituição de sociedades de capital social mínimo - (euro) 58,24.\n\n3 - Procurações ou substabelecimentos:\n\na) Em que outorgue um mandante designando um mandatário - (euro) 31,09;\n\nb) Por cada mandante ou mandatário adicional - (euro) 10.\n\n4 - Testamentos:\n\na) Testamento público, testamento internacional, instrumento de aprovação, depósito e abertura de testamento cerrado, por cada um - (euro) 113,45;\n\nb) Revogação de testamento - (euro) 75,63.\n\n5 - Outros instrumentos avulsos - por quaisquer outros instrumentos avulsos, com excepção dos de protesto de títulos de crédito e acta de reunião de organismo social e assistência a ela - (euro) 31,09.\n\n6 - Protestos - por cada instrumento de protesto de títulos de crédito, pelo levantamento de cada título antes de protestado e pela informação, dada por escrito, referente a registo lavrado no livro de protestos de títulos de crédito, por cada título - (euro) 7,56.\n\n7 - Certidões e documentos análogos:\n\na) Por cada certidão, fotocópia, certificado, pública-forma, conferência, telecópia e extracto, até 4 páginas, inclusive - (euro) 16,81;\n\nb) A partir da 5.ª página, por cada página a mais - (euro) 2,10.\n\n8 - Reconhecimentos, termos de autenticação, tradução e notificações:\n\na) Pelo reconhecimento de cada assinatura e de letra e assinatura - (euro) 9,24;\n\nb) Pelo reconhecimento que contenha, a pedido dos interessados, menção de qualquer circunstância especial - (euro) 15,13;\n\nc) Por cada termo de autenticação com um só interveniente - (euro) 21,01;\n\nd) Por cada interveniente a mais - (euro) 5,04;\n\ne) Por cada termo de autenticação de procuração, cobrar-se-ão os honorários que seriam devidos por esta;\n\nf) Pelo certificado de exactidão da tradução de cada documento realizado por tradutor ajuramentado - (euro) 20,17;\n\ng) Notificação de titular inscrito - (euro) 37,82."
+  },
+  "885235232": {
+   "fragment_id": "885208671",
+   "type": 11,
+   "heading": "Artigo 11.º — Actos com proporcionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Actos com proporcionalidade\n\n1 - Aos actos com proporcionalidade a seguir identificados são aplicados os seguintes valores:\n\na) Compra e venda de imóveis, dação em cumprimento e permuta:\n\nPara os actos de valor até (euro) 25000 - (euro) 117,65;\n\nPara os actos de valor superior a (euro) 25000 e até (euro) 125000 - (euro) 132,35;\n\nPara os actos de valor superior a (euro) 125000 e até (euro) 200000 - (euro) 147,06;\n\nPara os actos com valor superior a (euro) 200000 - (euro) 195,59;\n\nb) Hipoteca ou fiança:\n\nPara os actos de valor até (euro) 25000 - (euro) 82,02;\n\nPara os actos de valor superior a (euro) 25000 e até (euro) 125000 - (euro) 92,27;\n\nPara os actos de valor superior a (euro) 125000 e até (euro) 200000 - (euro) 102,52;\n\nPara os actos com valor superior a (euro) 200000 - (euro) 136,35;\n\nc) Confissão de dívida, mútuo ou abertura de crédito:\n\nPara os actos de valor até (euro) 25000 - (euro) 95,46;\n\nPara os actos de valor superior a (euro) 25000 e até (euro) 125000 - (euro) 107,39;\n\nPara os actos de valor superior a (euro) 125000 e até (euro) 200000 - (euro) 119,33;\n\nPara os actos com valor superior a (euro) 200000 - (euro) 158,71;\n\nd) Doação, proposta de doação ou aceitação de doação:\n\nPara os actos de valor até (euro) 7500 - (euro) 117,65;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 132,35;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 147,06;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 195,59;\n\ne) Constituição de propriedade horizontal ou alteração do seu título constitutivo:\n\nPara os actos de valor até (euro) 7500 - (euro) 139,83;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 157,31;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 174,79;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 232,47;\n\nf) Constituição de servidão, do direito de superfície e do direito real de habitação periódica, bem como de alteração dos respectivos títulos constitutivos:\n\nPara os actos de valor até (euro) 7500 - (euro) 139,83;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 157,31;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 174,79;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 232,47;\n\ng) Locação financeira:\n\nPara os actos de valor até (euro) 7500 - (euro) 87,39;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 98,32;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 109,24;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 145,29;\n\nh) Reforço da hipoteca:\n\nPara os actos de valor até (euro) 7500 - (euro) 67,23;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 75,63;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 84,03;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 111,76;\n\ni) Quitação da dívida:\n\nPara os actos de valor até (euro) 7500 - (euro) 67,23;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 75,63;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 84,03;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 111,76;\n\nj) Partilha:\n\nPara os actos de valor até (euro) 7500 - (euro) 155,97;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 175,46;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 194,96;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 259,29;\n\nl) Conferência de bens doados:\n\nPara os actos de valor até (euro) 7500 - (euro) 104,20;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 117,23;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 130,25;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 173,24;\n\nm) Divisão:\n\nPara os actos de valor até (euro) 7500 - (euro) 104,20;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 117,23;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 130,25;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 173,24;\n\nn) Justificação de direitos:\n\nPara os actos de valor até (euro) 7500 - (euro) 104,20;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 117,23;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 130,25;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 173,24.\n\n2 - Aos honorários referidos no número anterior acresce (euro) 20,25 por cada um dos bens descritos, no máximo de (euro) 800."
+  },
+  "885235233": {
+   "fragment_id": "885208672",
+   "type": 11,
+   "heading": "Artigo 12.º — Outros honorários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Outros honorários\n\n1 - Por qualquer averbamento aposto em escritura ou instrumento público - (euro) 20,25.\n\n2 - Por cada registo lavrado no livro a que se refere a alínea f) do n.º 1 do artigo 7.º do Código do Notariado - (euro) 24,37.\n\n3 - Serão devidos honorários correspondentes a 80% do preço do respectivo acto:\n\na) Pelo distrate, resolução, revogação ou rectificação de actos por motivos imputáveis às partes;\n\nb) Pelos actos requisitados e elaborados que não sejam outorgados por motivos imputáveis às partes.\n\n4 - Aos honorários referidos do número anterior acresce (euro) 10 por cada um dos bens descritos."
+  },
+  "885235234": {
+   "fragment_id": "885208673",
+   "type": 11,
+   "heading": "Artigo 13.º — Assessoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Assessoria\n\n1 - São devidos honorários do montante de (euro) 20,25 pelo estudo e preparação das seguintes escrituras, salvo se se reproduzir minuta apresentada pelas partes:\n\na) Justificação e reconhecimento de direitos;\n\nb) Habilitação;\n\nc) Divisão;\n\nd) Permuta;\n\ne) Dação em cumprimento;\n\nf) Constituição de servidão, direito de superfície e do direito de habitação periódica;\n\ng) Constituição de propriedade horizontal ou sua alteração;\n\nh) Locação financeira;\n\ni) Constituição de sociedades de capital mínimo;\n\nj) Qualquer acto que envolva normas jurídicas estrangeiras.\n\n2 - Nas escrituras não mencionadas no número anterior em que figurem outras cláusulas para além das respeitantes aos elementos essenciais dos negócios titulados é devido o emolumento do n.º 1 reduzido a metade.\n\n3 - Cumulando-se na mesma escritura mais de um dos actos referidos nos números anteriores, o emolumento é devido por cada um deles."
+  },
+  "885235235": {
+   "fragment_id": "885208674",
+   "type": 11,
+   "heading": "Artigo 14.º — Outros actos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Outros actos e serviços\n\nSão de custo livre os demais actos ou serviços praticados pelos notários no âmbito da sua competência."
+  },
+  "885235236": {
+   "fragment_id": "885235275",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "885235237": {
+   "fragment_id": "885235276",
+   "type": 11,
+   "heading": "Artigo 15.º — Conservatória dos Registos Centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conservatória dos Registos Centrais\n\nPelo registo na Conservatória dos Registos Centrais de cada escritura, testamento público, testamento internacional, instrumento de aprovação, de depósito e abertura de testamento cerrado, o notário cobra às partes - (euro) 9."
+  },
+  "885235238": {
+   "fragment_id": "885235277",
+   "type": 11,
+   "heading": "Artigo 16.º — Ministério da Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Ministério da Justiça\n\n1 - Pelo acesso aos sistemas de comunicação, de tratamento e de armazenamento da informação do Ministério da Justiça, pela utilização do Arquivo Público e pelos Serviços de Auditoria e Inspecção, o notário por sua conta entrega ao Ministério da Justiça:\n\na) Por cada escritura - (euro) 10;\n\nb) Por cada um dos demais actos que pratica - (euro) 3.\n\n2 - A receita proveniente da cobrança a que se referem o número anterior e o artigo 15.º será depositada mensalmente até ao dia 10 do mês seguinte àquele a que a conta encerrada disser respeito, à ordem do Instituto de Gestão Financeira e Patrimonial, do Ministério da Justiça."
+  },
+  "885235239": {
+   "fragment_id": "885235278",
+   "type": 11,
+   "heading": "Artigo 17.º — Afixação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Afixação\n\nA tabela de preços dos actos será obrigatoriamente afixada no cartório notarial em local a que o púbico tenha acesso."
+  },
+  "885235240": {
+   "fragment_id": "885235279",
+   "type": 11,
+   "heading": "Artigo 18.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Âmbito de aplicação\n\nA presente tabela aplica-se aos notários privados que exerçam funções ao abrigo do Estatuto do Notariado, aprovado pelo Decreto-Lei n.º 26/2004, de 4 de Fevereiro."
+  },
+  "885235241": {
+   "fragment_id": "885235283",
+   "type": 14,
+   "heading": "Anexo — Tabela de honorários e encargos notariais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Tabela de honorários e encargos notariais"
+  },
+  "885235247": {
+   "fragment_id": "885208670",
+   "type": 11,
+   "heading": "Artigo 10.º — Honorários fixos",
+   "in_force_from": "2006-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Portaria n.º 1416-A/2006 - Diário da República n.º 242/2006, 2º Suplemento, Série I de 2006-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1416-a-2006-235919), em vigor a partir de 2006-12-20"
+   ],
+   "markdown": "###### Artigo 10.º — Honorários fixos\n\nOs actos que se enumeram têm os seguintes valores fixos:\n\n1 - Habilitação notarial - (euro) 122,69.\n\n2 - Constituição de sociedades de capital social mínimo - (euro) 58,24.\n\n3 - Procurações ou substabelecimentos:\n\na) Em que outorgue um mandante designando um mandatário - (euro) 31,09;\n\nb) Por cada mandante ou mandatário adicional - (euro) 10.\n\n4 - Testamentos:\n\na) Testamento público, testamento internacional, instrumento de aprovação, depósito e abertura de testamento cerrado, por cada um - (euro) 113,45;\n\nb) Revogação de testamento - (euro) 75,63.\n\n5 - Outros instrumentos avulsos - por quaisquer outros instrumentos avulsos, com excepção dos de protesto de títulos de crédito e acta de reunião de organismo social e assistência a ela - (euro) 31,09.\n\n6 - Protestos - por cada instrumento de protesto de títulos de crédito, pelo levantamento de cada título antes de protestado e pela informação, dada por escrito, referente a registo lavrado no livro de protestos de títulos de crédito, por cada título - (euro) 7,56.\n\n7 - Certidões e documentos análogos:\n\na) Por cada certidão, fotocópia, certificado, pública-forma, conferência, telecópia e extracto, até 4 páginas, inclusive - (euro) 16,81;\n\nb) A partir da 5.ª página, por cada página a mais - (euro) 2,10.\n\n8 - Reconhecimentos, termos de autenticação, tradução e notificações:\n\na) Pelo reconhecimento de cada assinatura e de letra e assinatura - (euro) 9,24;\n\nb) Pelo reconhecimento que contenha, a pedido dos interessados, menção de qualquer circunstância especial - (euro) 15,13;\n\nc) Por cada termo de autenticação com um só interveniente - (euro) 21,01;\n\nd) Por cada interveniente a mais - (euro) 5,04;\n\ne) Por cada termo de autenticação de procuração, cobrar-se-ão os honorários que seriam devidos por esta;\n\nf) Pelo certificado de exactidão da tradução de cada documento realizado por tradutor ajuramentado - (euro) 20,17;\n\ng) Notificação de titular inscrito - (euro) 37,82.\n\n8 - Notificações - por cada notificação de titular inscrito - (euro) 37,82.\n\n> Alterado pelo/a Artigo 20.º do/a [Portaria n.º 1416-A/2006 - Diário da República n.º 242/2006, 2º Suplemento, Série I de 2006-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1416-a-2006-235919), em vigor a partir de 2006-12-20"
+  },
+  "885359254": {
+   "fragment_id": "885359305",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 30 de Março de 2004."
+  },
+  "885235248": {
+   "fragment_id": "885208663",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipos de honorários",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+   ],
+   "markdown": "###### Artigo 5.º — Tipos de honorários\n\nOs honorários devidos ao notário pelos actos outorgados são máximos e livres:\n\na) Máximos para os actos descritos na tabela, sem prejuízo do disposto no n.º 3 do artigo 12.º;\n\nb) Livres para os restantes.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+  },
+  "885235253": {
+   "fragment_id": "885208665",
+   "type": 11,
+   "heading": "Artigo 6.º — Valor dos actos",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+   ],
+   "markdown": "###### Artigo 6.º — Valor dos actos\n\n1 - O valor dos actos notariais é, em geral, o dos bens que constituam o seu objecto.\n\n2 - Em especial, o valor dos actos será:\n\na) Nas permutas, a soma do valor dos bens, presentes ou futuros, permutados, não sendo de considerar como tal qualquer prestação em dinheiro entregue como suplemento do valor dos referidos bens;\n\nb) Na dação em cumprimento, o das dívidas pagas ou o dos bens dados em cumprimento, se for superior àquele;\n\nc) Nos de garantia e nos de renúncia de garantia, o do capital garantido;\n\nd) Nas locações financeiras, o da retribuição por todo o tempo da duração do contrato;\n\ne) Nos de empréstimo, confissão de dívida ou abertura de crédito, o do respectivo capital.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+  },
+  "885235252": {
+   "fragment_id": "885208668",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamento",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+   ],
+   "markdown": "###### Artigo 9.º — Pagamento\n\n1 - A obrigação de pagamento dos custos dos actos notariais recai sobre quem tiver requerido a prestação de serviços ao notário sendo solidariamente responsáveis todos os outros interessados no acto; no caso de a conta não ser satisfeita espontaneamente deve ser cobrada em execução, servindo de título o respectivo documento, assinado pelo notário.\n\n2 - São gratuitas as rectificações resultantes de erros imputáveis ao notário, bem como a sanação e a revalidação de actos notariais.\n\n3 - (Revogado.)\n\n4 - O notário pode exigir, a título de preparo, o pagamento antecipado do custo provável dos actos, bem como as despesas que o notário deva fazer em nome do interessado, necessárias à outorga do acto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+  },
+  "885235249": {
+   "fragment_id": "885208670",
+   "type": 11,
+   "heading": "Artigo 10.º — Honorários máximos",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21",
+    "Alterado pelo/a Artigo 20.º do/a [Portaria n.º 1416-A/2006 - Diário da República n.º 242/2006, 2º Suplemento, Série I de 2006-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1416-a-2006-235919), em vigor a partir de 2006-12-20"
+   ],
+   "markdown": "###### Artigo 10.º — Honorários máximos\n\nOs actos que se enumeram têm os seguintes valores máximos:\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - Procurações conferidas também no interesse de procurador ou de terceiro:\n\na) Em que outorgue um mandante designando um mandatário - (euro) 31,09;\n\nb) Por cada mandante ou mandatário adicional - (euro) 10.\n\n4 - Testamentos:\n\na) Testamento público, testamento internacional, instrumento de aprovação, depósito e abertura de testamento cerrado, por cada um - (euro) 113,45;\n\nb) Revogação de testamento - (euro) 75,63.\n\n5 - Outros instrumentos avulsos - por quaisquer outros instrumentos avulsos, com excepção dos de protesto de títulos de crédito e acta de reunião de organismo social e assistência a ela - (euro) 31,09.\n\n6 - Protestos - por cada instrumento de protesto de títulos de crédito, pelo levantamento de cada título antes de protestado e pela informação, dada por escrito, referente a registo lavrado no livro de protestos de títulos de crédito, por cada título - (euro) 7,56.\n\n7 - Certidões e documentos análogos:\n\na) Por cada certidão, fotocópia, certificado, pública-forma, conferência, telecópia e extracto, até 4 páginas, inclusive - (euro) 16,81;\n\nb) A partir da 5.ª página, por cada página a mais - (euro) 2,10.\n\n8 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21\n\n> Alterado pelo/a Artigo 20.º do/a [Portaria n.º 1416-A/2006 - Diário da República n.º 242/2006, 2º Suplemento, Série I de 2006-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/1416-a-2006-235919), em vigor a partir de 2006-12-20"
+  },
+  "885235254": {
+   "fragment_id": "885208671",
+   "type": 11,
+   "heading": "Artigo 11.º — Actos com proporcionalidade",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+   ],
+   "markdown": "###### Artigo 11.º — Actos com proporcionalidade\n\n1 - Aos actos com proporcionalidade a seguir identificados são aplicados os seguintes valores:\n\na) Compra e venda de imóveis, dação em cumprimento e permuta:\n\nPara os actos de valor até (euro) 25000 - (euro) 117,65;\n\nPara os actos de valor superior a (euro) 25000 e até (euro) 125000 - (euro) 132,35;\n\nPara os actos de valor superior a (euro) 125000 e até (euro) 200000 - (euro) 147,06;\n\nPara os actos com valor superior a (euro) 200000 - (euro) 195,59;\n\nb) Hipoteca ou fiança:\n\nPara os actos de valor até (euro) 25000 - (euro) 82,02;\n\nPara os actos de valor superior a (euro) 25000 e até (euro) 125000 - (euro) 92,27;\n\nPara os actos de valor superior a (euro) 125000 e até (euro) 200000 - (euro) 102,52;\n\nPara os actos com valor superior a (euro) 200000 - (euro) 136,35;\n\nc) Confissão de dívida, mútuo ou abertura de crédito:\n\nPara os actos de valor até (euro) 25000 - (euro) 95,46;\n\nPara os actos de valor superior a (euro) 25000 e até (euro) 125000 - (euro) 107,39;\n\nPara os actos de valor superior a (euro) 125000 e até (euro) 200000 - (euro) 119,33;\n\nPara os actos com valor superior a (euro) 200000 - (euro) 158,71;\n\nd) Doação, proposta de doação ou aceitação de doação:\n\nPara os actos de valor até (euro) 7500 - (euro) 117,65;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 132,35;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 147,06;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 195,59;\n\ne) Constituição de propriedade horizontal ou alteração do seu título constitutivo:\n\nPara os actos de valor até (euro) 7500 - (euro) 139,83;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 157,31;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 174,79;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 232,47;\n\nf) Constituição de servidão, do direito de superfície e do direito real de habitação periódica, bem como de alteração dos respectivos títulos constitutivos:\n\nPara os actos de valor até (euro) 7500 - (euro) 139,83;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 157,31;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 174,79;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 232,47;\n\ng) Locação financeira:\n\nPara os actos de valor até (euro) 7500 - (euro) 87,39;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 98,32;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 109,24;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 145,29;\n\nh) Reforço da hipoteca:\n\nPara os actos de valor até (euro) 7500 - (euro) 67,23;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 75,63;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 84,03;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 111,76;\n\ni) Quitação da dívida:\n\nPara os actos de valor até (euro) 7500 - (euro) 67,23;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 75,63;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 84,03;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 111,76;\n\nj) Partilha:\n\nPara os actos de valor até (euro) 7500 - (euro) 155,97;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 175,46;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 194,96;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 259,29;\n\nl) Conferência de bens doados:\n\nPara os actos de valor até (euro) 7500 - (euro) 104,20;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 117,23;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 130,25;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 173,24;\n\nm) Divisão:\n\nPara os actos de valor até (euro) 7500 - (euro) 104,20;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 117,23;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 130,25;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 173,24;\n\nn) Justificação de direitos:\n\nPara os actos de valor até (euro) 7500 - (euro) 104,20;\n\nPara os actos de valor superior a (euro) 7500 e até (euro) 37500 - (euro) 117,23;\n\nPara os actos de valor superior a (euro) 37500 e até (euro) 100000 - (euro) 130,25;\n\nPara os actos com valor superior a (euro) 100000 - (euro) 173,24.\n\n2 - Aos honorários referidos no número anterior acresce (euro) 20,25 por cada um dos bens descritos, no máximo de (euro) 800.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+  },
+  "885235250": {
+   "fragment_id": "885208672",
+   "type": 11,
+   "heading": "Artigo 12.º — Outros honorários",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+   ],
+   "markdown": "###### Artigo 12.º — Outros honorários\n\n1 - Por qualquer averbamento aposto em acto descrito na tabela, podem ser cobrados honorários até ao montante máximo de (euro) 20,25.\n\n2 - Por cada registo lavrado no livro a que se refere a alínea f) do n.º 1 do artigo 7.º do Código do Notariado podem ser cobrados honorários até ao montante máximo de (euro) 24, 37.\n\n3 - Podem ser cobrados honorários até ao montante correspondente a 80 % do valor máximo do respectivo acto descrito na tabela:\n\na) Pela revogação ou rectificação de actos por motivos imputáveis às partes;\n\nb) Pelos actos requisitados e elaborados que não sejam outorgados por motivos imputáveis às partes.\n\n4 - Aos honorários referidos no número anterior podem acrescer até (euro) 10 por cada um dos bens descritos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+  },
+  "885235251": {
+   "fragment_id": "885208673",
+   "type": 11,
+   "heading": "Artigo 13.º — Assessoria",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+   ],
+   "markdown": "###### Artigo 13.º — Assessoria\n\n1 - Pelo estudo e preparação dos actos descritos na tabela podem ser cobrados honorários até ao montante máximo de (euro) 10,25.\n\n2 - (Revogado.)\n\n3 - Cumulando-se na mesma escritura mais de um dos actos referidos nos números anteriores, o emolumento é devido por cada um deles.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+  },
+  "885235255": {
+   "fragment_id": "885235276",
+   "type": 11,
+   "heading": "Artigo 15.º — Conservatória dos Registos Centrais",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+   ],
+   "markdown": "###### Artigo 15.º — Conservatória dos Registos Centrais\n\nPelo registo na Conservatória dos Registos Centrais de cada escritura, testamento público, testamento internacional, instrumento de aprovação, de depósito e abertura de testamento cerrado, o notário cobra às partes - (euro) 9.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+  },
+  "885235256": {
+   "fragment_id": "885235277",
+   "type": 11,
+   "heading": "Artigo 16.º — Ministério da Justiça",
+   "in_force_from": "2008-07-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+   ],
+   "markdown": "###### Artigo 16.º — Ministério da Justiça\n\n1 - Pelo acesso aos sistemas de comunicação, de tratamento e de armazenamento da informação do Ministério da Justiça, pela utilização do Arquivo Público e pelos Serviços de Auditoria e Inspecção, o notário por sua conta entrega ao Ministério da Justiça:\n\na) Por cada escritura - (euro) 10;\n\nb) Por cada um dos demais actos que pratica - (euro) 3.\n\n2 - A receita proveniente da cobrança a que se referem o número anterior e o artigo 15.º será depositada mensalmente até ao dia 10 do mês seguinte àquele a que a conta encerrada disser respeito, à ordem do Instituto de Gestão Financeira e Patrimonial, do Ministério da Justiça.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 574/2008 - Diário da República n.º 128/2008, Série I de 2008-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/574-2008-456494), em vigor a partir de 2008-07-21"
+  }
+ }
+}

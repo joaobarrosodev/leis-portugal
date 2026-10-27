@@ -1,0 +1,185 @@
+---
+schema_version: '1.0'
+id: pt:dre:516506:por
+title: Decreto n.º 44273
+short_title: null
+summary: Autoriza as repartições da Direcção-Geral da Contabilidade Pública junto de vários Ministérios, a Administração dos
+  Portos do Douro e Leixões e o Instituto de Assistência Nacional aos Tuberculosos a mandarem satisfazer diversas quantias
+  em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '44273'
+official_date: null
+publication_date: '1962-04-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 79/1962, Série I de 1962-04-09
+  number: '79'
+  series: I
+  supplement: null
+  pages: 343 - 344
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/04/07900/03430344.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '516506'
+  dre_path: /dr/detalhe/decreto/44273-1962-516506
+  internal: pt:dre:516506:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44273-1962-516506
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44273-1962-516506
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:28:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2386fd47a02ffba8c54dc4be4d00c40f922ccff5dd4e8f2fdd6989b81dffa563
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:28:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:28:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44273
+
+Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, e mediante propostas aprovadas pelo Ministro das Finanças, nos termos do mesmo artigo;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
+
+Encargos gerais da Nação
+
+Encargos dos anos de 1956, 1960 e 1961 respeitantes a vencimentos, salários, gratificações, pensões de reserva, ajudas de custo e serviços clínicos e de hospitalização a liquidar pelos conselhos administrativos das bases aéreas n.os 3 e 6, Comando da 1.ª Região Aérea e Estado-Maior da Força Aérea ... 399874$50
+
+Diferença de vencimentos a abonar ao chefe de secretaria da Auditoria Administrativa do Porto respeitante aos anos de 1959 e 1960 ... 21600$00
+
+... 421474$50
+
+Ministério do Interior
+
+Despesas do ano de 1961 com o serviço extraordinário prestado pelo pessoal telégrafo-postal durante o prolongamento do horário das respectivas estações efectuado a requisição das autoridades administrativas ... 412$00
+
+Ministério da Justiça
+
+Encargo do ano de 1961 referente a subsídios de alimentação a abonar a diversos guardas da Cadeia Central de Lisboa, Colónia Penal Agrícola de Sintra e Colónia Penitenciária de Alcoentre ... 26246$20
+
+Encargo do ano de 1961 respeitante a despesas de conservação e aproveitamento das viaturas do Ministério ... 13587$00
+
+Encargo do ano de 1961 respeitante a transportes a liquidar pelos Institutos de Medicina Legal do Porto e de Coimbra, Tribunal de Execução das Penas de Lisboa, Colónia Penal do Bié e Direcção-Geral dos Registos e do Notariado ... 66814$90
+
+Despesas dos anos de 1960 e 1961 referentes a telefones e a luz, aquecimento, água, lavagem e limpeza a liquidar pelo Conselho Superior Judiciário, Procuradoria-Geral da República, Direcções-Gerais da Justiça, dos Registos e do Notariado e dos Serviços Prisionais, Subdirectoria de Lisboa da Polícia Judiciária, Prisão-Escola de Leiria, Prisão Sanatório da Guarda, Cadeia Penitenciária de Lisboa e Cadeia do Forte de Peniche ... 85312$90
+
+Encargo do ano de 1961 respeitante a despesas com força motriz do Instituto de Medicina Legal de Lisboa ... 19509$60
+
+Encargos do ano de 1961 respeitantes a despesas de conservação e aproveitamento de semoventes do serviço de remoção de presos ... 12408$10
+
+Despesas do ano de 1961 com o internamento de inimputáveis perigosos em estabelecimentos hospitalares e clínicas psiquiátricas ... 78462$60
+
+Encargo do ano de 1961 respeitante a ajudas de custo e a subsídio por interrupção de viagem a liquidar pelo Gabinete do Ministério, Colónia Penal do Bié e Direcção-Geral dos Serviços Prisionais ... 21510$00
+
+Encargo do ano de 1961, respeitante a alimentação, vestuário e calçado da Prisão-Sanatório da Guarda, Colónia Penal de Pinheiro da Cruz e Cadeia do Forte de Peniche ... 147718$90
+
+... 471570$20
+
+Ministério do Exército
+
+Encargo do ano de 1961, referente a diferenças de vencimentos a abonar a diversos oficiais, provenientes de promoções, regresso à metrópole e ingresso no quadro do Corpo do Estado-Maior do Exército ... 135020$00
+
+Ministério do Ultramar
+
+Encargo do ano de 1961, respeitante a despesas de conservação e aproveitamento de semoventes e de correios e telégrafos, a liquidar pela Secretaria-Geral ... 125870$20
+
+Ministério da Educação Nacional
+
+Encargo do ano de 1961, respeitante a transportes de inspectores e professores eventuais colocados em diversas escolas do continente e ilhas adjacentes, a liquidar pela Direcção-Geral do Ensino Técnico Profissional ... 10953$00
+
+Encargo do ano de 1961, referente a impressos, energia eléctrica, correios e telégrafos e despesas com a temporada de ópera, a liquidar pelo Teatro Nacional de S. Carlos ... 2255$80
+
+Encargo do ano de 1961, respeitante a gratificações pela acumulação do serviço de regências e pela regência de cursos práticos, a liquidar pela Faculdade de Letras da Universidade de Coimbra ... 20242$00
+
+Encargo do ano de 1961, respeitante a ajudas de custo e subsídios de viagem e de marcha, a liquidar pela Direcção do Distrito Escolar de Bragança ... 696$00
+
+Despesas do ano de 1961, referentes a remunerações por horas extraordinárias devidas a professores em exercício nas escolas industriais, comerciais e técnicas elementares ... 331904$00
+
+Encargos dos anos de 1958 e 1961, referentes a energia eléctrica e a impressos, a liquidar pelo Liceu Nacional de Faro e Direcção do Distrito Escolar de Portalegre ... 1688$20
+
+Encargo do ano de 1961, referente a despesas de conservação e aproveitamento das viaturas do Ministério e a telefones, a liquidar pela Secretaria-Geral ... 78407$90
+
+... 446146$90
+
+Ministério da Economia
+
+Encargo do ano de 1961, referente a despesas de conservação e aproveitamento de semoventes, telefones e correios e telégrafos, a liquidar pela Secretaria-Geral ... 34670$80
+
+Ministério das Comunicações
+
+Encargo do ano de 1961, da Direcção-Geral dos Transportes Terrestres, respeitante à aquisição de um mastro para bandeira e a despesas de telefones ... 3066$80
+
+Ministério das Corporações e Previdência Social
+
+Despesas do ano de 1960, com exames radiológicos e laboratoriais efectuados a vários sinistrados, a liquidar pelo Tribunal do Trabalho de Lisboa ... 3530$30
+
+Encargo do ano de 1961, respeitante a despesas com a aquisição de móveis e impressos, a liquidar pela 2.ª vara do Tribunal do Trabalho de Leiria e 1.ª vara do Tribunal do Trabalho de Setúbal ... 751$50
+
+... 4281$80
+
+Art. 2.º Ficam igualmente autorizados a satisfazer as quantias abaixo indicadas, em conta da verba consignada a despesas de anos económicos findos, inscrita nos seus actuais orçamentos privativos, os seguintes serviços:
+
+Administração dos Portos do Douro e Leixões
+
+Gratificações referentes ao ano de 1961 devidas ao pessoal marítimo ocupado no serviço de salvamento ... 490$00
+
+Instituto de Assistência Nacional aos Tuberculosos
+
+Encargo do ano de 1960, respeitante ao abono a uma catalogadora de seis dias de vencimento ... 261$00
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 9 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

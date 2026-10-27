@@ -1,0 +1,514 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31975R0337:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01975R0337-20041221",
+ "dre_path": null,
+ "source_lastmod": "2004-12-21",
+ "versions": [
+  {
+   "date": "1975-02-13",
+   "future": false,
+   "celex": "31975R0337",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "adc07c8286534974",
+    "0bb91ae9045de3ae",
+    "1a4689f551a5af42",
+    "19859732524dd543",
+    "afa8fccca6182e05",
+    "72b8e22071bd2405",
+    "eff5474a2249a7cf",
+    "a48299f10441cbcb",
+    "2da7d69e3e528089",
+    "cb85259deac33bbd",
+    "71bf27f0bee05251",
+    "ca8e7429c99c2c2f",
+    "30784bf397265959",
+    "e6e18f244a4e7149",
+    "e440f3b6ef0b846a",
+    "80b3db74078fd923",
+    "658155c4c5d81f1c",
+    "acb5b73b6f0dea7a",
+    "4f87f9b577f56450",
+    "8295ca3d3620b552"
+   ]
+  },
+  {
+   "date": "2004-12-21",
+   "future": false,
+   "celex": "01975R0337-20041221",
+   "acts": [
+    {
+     "id": "eu:celex:31993R1946:por",
+     "title": "REGULAMENTO (CEE) N o 1946/93 DO CONSELHO de 30 de Junho de 1993",
+     "published": null,
+     "celex": "31993R1946"
+    },
+    {
+     "id": "eu:celex:31994R1131:por",
+     "title": "REGULAMENTO (CE) N o 1131/94 DO CONSELHO de 16 de Maio de 1994",
+     "published": null,
+     "celex": "31994R1131"
+    },
+    {
+     "id": "eu:celex:31995R0251:por",
+     "title": "REGULAMENTO (CE) N. o 251/95 DO CONSELHO de 6 de Fevereiro de 1995",
+     "published": null,
+     "celex": "31995R0251"
+    },
+    {
+     "id": "eu:celex:31995R0354:por",
+     "title": "M4",
+     "published": null,
+     "celex": "31995R0354"
+    },
+    {
+     "id": "eu:celex:32003R1655:por",
+     "title": "REGULAMENTO (CE) N. o 1655/2003 DO CONSELHO de 18 de Junho de 2003",
+     "published": null,
+     "celex": "32003R1655"
+    },
+    {
+     "id": "eu:celex:32004R2051:por",
+     "title": "REGULAMENTO (CE) N. o 2051/2004 DO CONSELHO de 25 de Outubro de 2004",
+     "published": null,
+     "celex": "32004R2051"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "A2",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 12.ºA",
+    "Adita Artigo 12.ºB",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 14.ºA",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o",
+    "Suprime Artigo 14o",
+    "Suprime Artigo 15o",
+    "Suprime Artigo 16o",
+    "Suprime Artigo 17o",
+    "Suprime Artigo 18o",
+    "Suprime Artigo 19o"
+   ],
+   "fragments": [
+    "8e961adf3a246044",
+    "bb3c0b7eb9363d1e",
+    "71f23bae366df75e",
+    "da4dcfda5c958fce",
+    "b553dc3c28f4e84b",
+    "6c59302c2002d9f7",
+    "581c9d3cb06b666b",
+    "3305c76e1798aa30",
+    "eb64a56713c1b1c6",
+    "5186dff28e1df3ae",
+    "f0ae9bcea20b57b2",
+    "39c9f181c2c91721",
+    "7ab1e72d9cf9ef1b",
+    "3ba7a4daad5d59db",
+    "9906f89f45135851",
+    "b0bd94f45581458c",
+    "f09d967b56028d03",
+    "70c1b8448c8b2a46",
+    "58e1d8c9372300da",
+    "e56df6528c62cbc2",
+    "b3eb165d2d27c33a",
+    "3682e2986c428254",
+    "6bf7a7481f82761a"
+   ]
+  }
+ ],
+ "fragments": {
+  "adc07c8286534974": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CEE) nº 337/75 do Conselho, de 10 de Fevereiro de 1975, que cria um Centro Europeu para o Desenvolvimento da Formação Profissional** *Jornal Oficial nº L 039 de 13/02/1975 p. 0001 - 0004 Edição especial grega: Capítulo 05 Fascículo 2 p. 0038 Edição especial espanhola: Capítulo 05 Fascículo 2 p. 0048 Edição especial portuguesa: Capítulo 05 Fascículo 2 p. 0048 Edição especial finlandesa: Capítulo 16 Fascículo 1 p. 0006 Edição especial sueca: Capítulo 16 Fascículo 1 p. 0006*\n\nREGULAMENTO (CEE) No 337/75 DO CONSELHO de 10 de Fevereiro 1975 que cria um Centro Europeu para o Desenvolvimento da Formação Profissional\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235o,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nConsiderando que, com base no artigo 128o do Tratado, o Conselho, pela sua Decisão de 2 de Abril 1963 (3) estabeleceu os principios gerais para a execução de uma politica comum de formação profissional;\n\nConsiderando que nos termos do artigo 118o do Tratado compete à Comissão promover uma colaboração estreita entre os Estados-membros no dominio social, nomeadamente nas matérias relativas à formação e ao aperfeiçoamento profissionais;\n\nConsiderando que o Conselho, na sua Resolução de 21 de Janeiro 1974 relativa a um programa de acção social (4), fixou, entre os seus objectivos, a execução de uma politica comum de formação profissional com vista a atingir progressivamente os seus objectivos essenciais e, em particular, a aproximação dos niveis de formação, criando nomeadamente um Centro Europeu de Formação Profissional; que, por outro lado, o Conselho conferiu prioridade a este objectivo;\n\nConsiderando que a execução de uma politica comum de formação profissional coloca problemas cada vez mais complexos e que a sua solução requer uma larga adesão dos meios interessados e especialmente dos parceiros sociais;\n\nConsiderando que a criação de um Centro Europeu para o Desenvolvimento da Formação Profissional - organismo distinto dos serviços da Comissão, aos quais deve, todavia, prestar a maior cooperação - é necessária para conseguir uma execução eficaz desta política comum e que o Tratado não previu os poderes de acção especificos requeridos pela criação desse Centro;\n\nConsiderando que o Centro está instituído no âmbito das Comunidades Europeias e que age no respeito do direito comunitário; que é oportuno definir as condições em que se aplicam certas disposições de carácter geral,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "0bb91ae9045de3ae": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nÉ criado um Centro Europeu para o Desenvolvimento da Formação Profissional, a seguir designado por «o Centro».\n\nO Centro goza, em todos os Estados-membros, da mais ampla capacidade juridica reconhecida às pessoas coletivas.\n\nO Centro não prosegue objectivo lucrativos. Tem a sua sede em Berlim-Oeste."
+  },
+  "1a4689f551a5af42": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\n1. O Centro tem per missão prestar o seu contributo à Comissão a fim de favorecer, a nivel comunitário, a promoção e o desenvolvimento da formação profissional e da formação continua.\n\nCom este objectivo, no âmbito das orientações definidas pela Comunidade, contribui pela sua actividade científica e técnica para a execução de uma política comum de formação profissional.\n\nO Centro favorecer, em especial, a troca de informações e de experiências.\n\n2. O Centro tem como atribuições, nomeadamente:\n\n- compilar a documentação selectiva que se relacione especialmente com dados actuais, desenvolvimentos recentes e investigação nos dominios respectivos, assim como os problemas relativos às estruturas da formação profissional,\n\n- contribuir para o desenvolvimento e coordinação da investigação nos dominios citados,\n\n- assegurar a difusão de toda a documentação e informação úteis,\n\n- promover e apoiar as iniciativas que facilitem uma aproximação concertada dos problemas de formação profissional. Neste âmbito, a acção do Centro incidirá em especial sobre o problema da aproximação dos niveis de formação profissional a fim de, nomeadamente, obter o reconhecimento mútuo dos certificados e outro títulos que comprovem a conclusão da formação profissional,\n\n- constituir um ponto de encontro para as partes interessadas.\n\n3. Na sua actividade, o Centro tem em conta as ligações que existem entre a formação profissional e os outros dominios da formação."
+  },
+  "19859732524dd543": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. O Centro toma as medidas necessárias ao cumprimento da sua missão. Pode nomeadamente:\n\n- organizar cursos e seminários,\n\n- celebrar contratos de estudos e fazer executar ou, se necessário, executar projectos-piloto ou projectos específicos destinados à execução do programa de trabalho do Centro,\n\n- editar e difundir toda a documentação útil e, nomeadamente, um boletim comunitário sobre a formação profissional.\n\n2. No cumprimento da sua missão, o Centro estabelece os contactos apropriados nomeadamente com os organismos especializados, tanto públicos como privados, nacionais ou internacionais, com as administrações públicas e as instituições de formação assim como com as organizações de empragadores e de trabalhadores."
+  },
+  "afa8fccca6182e05": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\n1. O Centro é gerido por um conselho de administração composto de trinta membros dos quais:\n\na) Nove membros em representação dos Governos dos Estados-membros;\n\nb) Nove membros em representação das organizações de empregadores;\n\nc) Três membros em representação das organizações de trabalhadores;\n\nd) Três membros em representação da Comissão.\n\nOs membros referidos nas alineas a), b) e c) são nomeados pelo Conselho um por cada Estados-membros para cada uma das categorias citadas.\n\nOs membros em representação da Comissão são por esta nomeados.\n\n2. A duração do mandato dos membros do Conselho de administração é de três anos. Este mandato é renovável. No fim do seu mandato ou em caso de demissão, os membros mantêm-se funções até que se proceda à renovação de seu mandato ou à sua substituição.\n\n3. O Conselho de administração designa de entre os seus membros, pelo prazo de um ano, o seu presidente e três vice-presidentes.\n\n4. O presidente convoca o conselho de administração pelo menos duas vezes em cada ano ou a pedido de, pelo menos, um treço dos membros.\n\n5. As decisões do conselho de administração são tomadas pela maioria absoluta dos membros."
+  },
+  "72b8e22071bd2405": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nO Conselho de administração aprova o seu regulamento interno que entra em vigor após aprovação do Conselho, sob parecer da Comissão.\n\nO conselho de administração decide a criação de grupos de trabalho ad hoc em função das necessidades do programa anual de actividades. Informa regularmente a Comissão sobre as actividades do Centro."
+  },
+  "eff5474a2249a7cf": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\n1. O director do Centro é nomeado pela Comissão, com base numa lista de candidatos apresentados pelo conselho de administração.\n\n2. O mandato do director tem uma duração de cinco anos; é renovável."
+  },
+  "a48299f10441cbcb": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\n1. O director executa as decisões do conselho de administração e encarrega-se da gestão diária do Centro. Assegura a representação juridica do Centro.\n\n2. Prepara e organiza os trabalhos do conselho de administração e assegura o secretariado das reuniões.\n\n3. Assegura a coordenação das actividades dos grupos de trabalho.\n\n4. Tem autoridade sobre o pessoal que contrata e que demite.\n\n5. Informa o conselho de administração sobre a sua gestão."
+  },
+  "2da7d69e3e528089": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\n1. Com base num projecto apresentado pelo director, o conselho de administração aprova o programa de trabalho anual de acordo com a Comissão. O programa tem em conta as necessidades prioritárias indicadas pelas instituições da Comunidade.\n\n2. O Centro programa as suas actividades tendo em conta as realizadas por outro organismo que trabalham no dominio da formação profissional."
+  },
+  "cb85259deac33bbd": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nO conselho de administraça adopta, o mais tardar até 31 de Março, o relatório geral anual relativo às actividades e à situação financeira do Centro e transmite-o à Comissão."
+  },
+  "71bf27f0bee05251": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\nO conselho de administração estabelece para cada exercício orçamental, o qual coincide com o ano civil, um plano das receitas e das despesas que deve ser equilibrado."
+  },
+  "ca8e7429c99c2c2f": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\n1. O conselho de administração transmite à Comissão, o mais tardar até 31 de Março de cada ano, o plano previsional das receitas e das despesas. Este plano, que inclui um quadro dos efectivos, é transmitido pela Comissão ao Conselho juntamente com o ante-projecto de orçamento das Comunidades Europeias.\n\n2. Cada ano, uma subvenção destinada ao centro é inscrita no orçamento das Comunidades Europeias sob uma linha orçamental especifica.\n\nO processo em vigor para as transferências dos créditos entre capítulos aplica-se ao crédito relativo a esta subvenção.\n\nA autoridade orçamental fixa o quadro dos efectivos do centro.\n\n3. O conselho de administração aprova o plano das receitas e das despesas, antes do inicio do exercicio orçamental, ajustando-o à subvenção atribuida pela autoridade orçamental. O plano assim aprovado é transmitido pela Comissão à autoridade orçamental."
+  },
+  "30784bf397265959": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\n1. As disposições financeiras aplicáveis ao Centro são aprovadas nos termos do artigo 209o do Tratado.\n\n2. O conselho de administração envia à comissão de fiscalização, até 31 de Março de cada ano, as contas da totalizada das receitas e das despesas do centro do exercício findo. A comissão de fiscalização examina-os nos termos do segundo parágrafo do artigo 206o do Tratado.\n\n3. As contas e o relatório da comissão de fiscalização assim como as observações da Comissão são por esta submetidas ao Conselho e ao Parlamento Europeu o mais tardar até 31 de Outubro. O Conselho e o Parlamento Europeu dão quitação ao conselho de administração do Centro nos termos do quarto parágrafo do artigo 206o do Tratado.\n\n4. O controlo dos compromissos assumidos e do pagamento de todas as despesas e o controlo de verificação e da cobrança de todas as receitas do Centro são exercidos pelo auditor financeiro da Comissão."
+  },
+  "e6e18f244a4e7149": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nAs disposições relativas ao pessoal do Centro são adoptadas pelo Conselho, mediante proposta da Comissão."
+  },
+  "e440f3b6ef0b846a": {
+   "fragment_id": "Artigo 14o",
+   "type": "artigo",
+   "heading": "Artigo 14o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14o\n\nOs membros do conselho de administração, o director e os membros do pessoal assim como todas as pessoas que participam nas actividades do Centro são obrigados, mesmos após a cessação das suas funções, a não divulgar informações que, pela sua natureza, estejam protegidas pelo segredo profissional."
+  },
+  "80b3db74078fd923": {
+   "fragment_id": "Artigo 15o",
+   "type": "artigo",
+   "heading": "Artigo 15o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15o\n\nO regime linguístico das Comunidades Europeias é aplicável ao Centro."
+  },
+  "658155c4c5d81f1c": {
+   "fragment_id": "Artigo 16o",
+   "type": "artigo",
+   "heading": "Artigo 16o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16o\n\nO protocolo sobre os privilégios e imunidades das Comunidades Europeias é aplicável ao Centro."
+  },
+  "acb5b73b6f0dea7a": {
+   "fragment_id": "Artigo 17o",
+   "type": "artigo",
+   "heading": "Artigo 17o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17o\n\n1. A responsabilidade contractual do Centro rege-se pela lei aplicável ao contrato em causa.\n\nO Tribunal de Justíça das Comunidades Europeias é competente para decidir com fundamento em cláusula compromissória contida num contrato celebrado pelo Centro.\n\n2. Em matéria de responsabilidade não contratual, o Centro deve reparar, de acordo com os principios gerais comuns aos direitos dos Estados-membros, os danos causados pelo Centro ou pelos seus agentes no exercício das suas funções.\n\nO Tribunal de Justíça é competente para conhecer os litígios relativos à reparação destes danos.\n\n3. A responsabilidade pessoal dos agentes em relação ao Centro é regulada nas disposições relativas ao pessoal do Centro."
+  },
+  "4f87f9b577f56450": {
+   "fragment_id": "Artigo 18o",
+   "type": "artigo",
+   "heading": "Artigo 18o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18o\n\nQualquer acto do Centro, tácito ou explícito, pode ser submetido à Comissão por cada Estado-membro, por cada membro do conselho de administração ou por terceiro directamente e individualmente interessado, para fiscalização da respectiva legalidade.\n\nO recurso deve ser submetido à Comissão no prazo de quinze dias contados a partir da data em que o interessado teve conhecimento do acto contestado.\n\nA Comissão toma uma decisão no prazo de um mês. A ausência de decisão nesse prazo vale como decisão tácita de indeferimento."
+  },
+  "8295ca3d3620b552": {
+   "fragment_id": "Artigo 19o",
+   "type": "artigo",
+   "heading": "Artigo 19o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19o\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas em 10 de Fevereiro de 1975.\n\nPelo Conselho\n\nO Presidente\n\nG. FITZGERALD\n\n(1) JO no C 127 de 18. 10. 1974, p. 20.(2) JO no C 125 de 16. 10. 1974, p. 41.(3) JO no 63 de 20. 4. 1963, p. 1338/63.(4) JO no C 13 de 12. 2. 1974, p. 1."
+  },
+  "8e961adf3a246044": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Fevereiro 1975\n\nque cria um Centro Europeu para o Desenvolvimento da Formação Profissional\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 235º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#E0002)),\n\nConsiderando que, com base no artigo 128º do Tratado, o Conselho, pela sua Decisão de 2 de Abril 1963 ([^3^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#E0003)) estabeleceu os princípios (SIC! princípios) gerais para a execução de uma política comum de informação profissional;\n\nConsiderando que nos termos do artigo 188º do Tratado compete à Comissão promover uma colaboração estreita entre os Estados-embros no domínio social, nomeadamente nas matérias relativas à informação e ao aperfeiçoamento profissionais;\n\nConsiderando que o Conselho, na sua Resolução de 21 de Janeiro 1974 relativa a um programa de acção social ([^4^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#E0004)), fixou, entre os seus objectivos, a execução de uma política comum de formação profissional com vista a atingir progressivamente os seus objectivos essenciais e, em particular, a aproximação dos niveis (SIC! níveis) de formação, criando nomeadamente um Centro Europeu de Formação Profissional; que, por outro lado, o Conselho conferiu prioridade a este objectivo;\n\nConsiderando que a execução de uma política comum de formação profissional coloca problemas cada vez mais complexos e que a sua solução requer uma larga adesão dos meios interessados e especialmente dos parceiros sociais;\n\nConsiderando que a criação de um Centro Europeu para o Desenvolvimento da Formação Profissional — organismo distinto dos serviços da Comissão, aos quais deve, todavia, prestar a maior cooperação é necessária para conseguir uma execução eficaz desta política comum e que o Tratado não previu os poderes de acção específicos requeridos pela criação desse Centro;\n\nConsiderando que o Centro está instituido no âmbito das Comunidades Europeias e que age no respeito do direito comunitário; que é oportuno definir as condições em que se aplicam certas disposições de carácter geral,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "bb3c0b7eb9363d1e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado um Centro Europeu para o Desenvolvimento da Formação Profissional, a seguir designado por «o Centro».\n\nO Centro goza, em todos os Estados-membros, da mais ampla capacidade jurídica reconhecida às pessoas colectivas.\n\nO Centro não prossegue fins lucrativos. Tem a sua sede em Salónica."
+  },
+  "71f23bae366df75e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O Centro tem por missão prestar o seu contributo à Comissão a fim de favorecer, a nível comunitário, a promoção e o desenvolvimento da formação profissional e da formação continua.\n\nCom este objectivo, no âmbito das orientações definidas pela Comunidade, contribui pela sua actividade científica e técnica para a execução de uma política comum de formação profissional.\n\nO Centro favorece), em especial, a troca de informações e de experiências.\n\n2. O Centro tem como atribuições, nomeadamente:\n\n— compilar a documentação selectiva que se relacione especialmente com dados actuais, desenvolvimentos recentes e investigação nos domínios respectivos, as sim como os problemas relativos às estruturas da formação profissional,\n\n— contribuir para o desenvolvimento e coordinação da investigação nos domínios citados,\n\n— assegurar a difusão de toda a documentação e informação úteis,\n\n— promover e apoiar as iniciativas que facilitem uma aproximação concertada dos problemas de formação profissional. Neste âmbito, a acção do Centro incidirá em especial sobre o problema a aproximação dos niveis de formação profissional a fim de, certificados e outro títulos que comprovem a conclusão da formação profissional,\n\n— constituir um ponto de encontro para as partes interessadas.\n\n3. Na sua actividade, o Centro tem em conta as ligações que existem entre a formação profissional e os outros domínios da formação."
+  },
+  "da4dcfda5c958fce": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O Centro toma as medidas necessárias ao cumprimento da sua missão. Pode nomeadamente:\n\n— organizar cursos e seminários,\n\n— celebrar contrtos de estudos e fazer executar ou, necessário, executar projectos-piloto ou projectos específicos destinados à execução do programa de trabalho do Centro\n\n— editar e difundir toda a documentação útil e, nomeadamente, um boletim comunitário sobre a formação profissional.\n\n2. No cumprimento das suas funções, o Centro estabelece os contactos apropriados, nomeadamente com os organismos especializados, tanto públicos como privados, nacionais ou internacionais, com as administrações públicas e as instituições de formação, assim como com as organizações patronais e de trabalhadores. Nomeadamente, o Centro assegura uma cooperação adequada com a Fundação Europeia para a Formação, sem prejuízo dos seus próprios objectivos."
+  },
+  "b553dc3c28f4e84b": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O Centro é constituído por:\n\na) Um Conselho Directivo;\n\nb) Uma Mesa;\n\nc) Um director.\n\n2. O Conselho Directivo é composto por:\n\na) Um membro em representação do Governo de cada Estado-Membro;\n\nb) Um membro em representação das organizações patronais de cada Estado-Membro;\n\nc) Um membro em representação das organizações de trabalhadores de cada Estado-Membro;\n\nd) Três membros em representação da Comissão.\n\nOs membros referidos nas alíneas a), b) e c) do primeiro parágrafo são nomeados pelo Conselho com base em listas de candidatos apresentadas pelos Estados-Membros, pelas organizações patronais e pelas organizações de trabalhadores.\n\nOs membros que representam a Comissão são nomeados por esta.\n\nA lista dos membros do Conselho Directivo é publicada pelo Conselho no *Jornal Oficial da União Europeia* e na página internet do Centro.\n\n3. A duração do mandato dos membros é de três anos. Estes mandatos são renováveis. Findo o mandato ou em caso de demissão, os membros permanecem em funções até que se proceda à renovação do respectivo mandato ou à sua substituição.\n\n4. O Conselho Directivo elege o seu presidente e três vice-presidentes, de entre os membros dos três grupos referidos no n.º 5 e os representantes da Comissão, por um período de dois anos, renovável.\n\n5. No Conselho Directivo, serão constituídos grupos de representantes dos Governos, das organizações patronais e das organizações de trabalhadores. Cada grupo deve designar um coordenador. Os coordenadores dos grupos dos trabalhadores e dos empregadores devem ser representantes das respectivas organizações a nível europeu e participam nas reuniões do Conselho Directivo, sem direito de voto.\n\n6. O presidente convoca o Conselho Directivo uma vez por ano. Convoca, além disso, reuniões adicionais a pedido de pelo menos um terço dos membros do Conselho Directivo.\n\n7. As decisões do Conselho Directivo são tomadas por maioria absoluta dos seus membros.\n\n8. O Conselho Directivo deve instituir uma Mesa, composta pelo presidente e pelos três vice presidentes do Conselho Directivo, por um coordenador por cada um dos grupos referidos no n.º 5 e por mais um representante dos serviços da Comissão.\n\n9. Os Estados-Membros, as organizações referidas no n.º 2, o Conselho, a Comissão e o Conselho Directivo tomarão as disposições necessárias, de acordo com as suas respectivas competências, para assegurar uma representação equilibrada de homens e mulheres nas candidaturas e nomeações referidas no n.º 2, nas eleições referidas no n.º 4 e nas nomeações referidas no n.º 8.\n\n10. Sem prejuízo das atribuições do director, previstas nos artigos 7.º e 8.º, a Mesa, em conformidade com a delegação de competências que lhe é concedida pelo Conselho Directivo, supervisiona a implementação das decisões do Conselho Directivo e toma todas as medidas necessárias à gestão do Centro entre as reuniões do Conselho Directivo, excepto as referidas no n.º 1 do artigo 6.º, no n.º 1 do artigo 8.º e no n.º 1 do artigo 11.º\n\n11. O calendário anual de reuniões da Mesa é decidido pelo Conselho Directivo. O presidente convoca reuniões adicionais da Mesa a pedido dos membros desta.\n\n12. As decisões da Mesa são aprovadas por consenso. Se não for possível atingir uma decisão consensual, a Mesa deve remeter a questão ao Conselho Directivo, para que seja este a decidir."
+  },
+  "6c59302c2002d9f7": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** aprova o seu regulamento interno que entra em vigor após aprovação do Conselho, sob parecer da Comissão.\n\nO [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** decide a criação de grupos de trabalho *ad hoc* em função das necessidades do programa anual de actividades. Informa regularmente a Comissão sobre as actividades do Centro"
+  },
+  "581c9d3cb06b666b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O director do Centro é nomeado pela Comissão, com base numa lista de candidatos apresentados pelo [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄**.\n\n2. O mandato do director tem uma duração de cinco anos; é renovável."
+  },
+  "3305c76e1798aa30": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O director é responsável pela gestão do Centro e executa as decisões do Conselho Directivo e da Mesa. O director é o representante legal do Centro.\n\n2. O director prepara e organiza os trabalhos do Conselho Directivo e da Mesa e organiza o secretariado para as respectivas reuniões.\n\n3. Assegura a coordenação das actividades dos grupos de trabalho.\n\n4. Tem autoridade sobre o pessoal que contrata e que demite.\n\n5. Informa o [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** sobre a sua gestão."
+  },
+  "eb64a56713c1b1c6": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Com base num projecto apresentado pelo director, o Conselho Directivo adoptará as prioridades a médio prazo e o programa anual de trabalho de acordo com os serviços da Comissão. O programa deve ter em conta as necessidades prioritárias indicadas pelas instituições da Comunidade.\n\n2. O Centro programa as suas actividades tendo em conta as realizadas por outro organismo que trabalham no domínio da formação profissional."
+  },
+  "5186dff28e1df3ae": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Todas as receitas e despesas do Centro serão objecto de previsões para cada exercício orçamental, que coincide com o ano civil, e serão inscritas no orçamento do Centro, que inclui um quadro de pessoal.\n\n2. O orçamento do Centro deverá respeitar o equilíbrio entre receitas e despesas."
+  },
+  "f0ae9bcea20b57b2": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. O [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** elaborará anualmente, com base num projecto elaborado pelo director, um mapa previsional das receitas e despesas do Centro para o exercício seguinte. Este mapa previsional, que inclui um quadro de pessoal, será transmitido pelo [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** à Comissão, até 31 de Março.\n\n2. A Comissão transmitirá o mapa previsional ao Parlamento Europeu e ao Conselho (a seguir designados «autoridade orçamental»), juntamente com o anteprojecto de orçamento da União Europeia.\n\n3. Com base no mapa previsional, a Comissão procederá à inscrição, no anteprojecto de orçamento geral da União Europeia, das previsões que considere necessárias no que respeita ao quadro de pessoal e ao montante da subvenção a cargo do orçamento geral, que submeterá à apreciação da autoridade orçamental nos termos do disposto no artigo 272.º do Tratado.\n\n4. A autoridade orçamental autorizará as dotações a título da subvenção destinada ao Centro.\n\nA autoridade orçamental aprovará o quadro de pessoal do Centro.\n\n5. O orçamento do Centro será aprovado pelo [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄**, tornando-se definitivo após a aprovação definitiva do orçamento geral da União Europeia. O orçamento será adaptado em conformidade, se for caso disso.\n\n6. O [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** notificará, com a maior brevidade, a autoridade orçamental da sua intenção de realizar qualquer projecto susceptível de ter incidências financeiras significativas sobre o financiamento do orçamento, nomeadamente os projectos de natureza imobiliária, tais como o arrendamento ou a aquisição de imóveis. Do facto informará a Comissão.\n\nSempre que um ramo da autoridade orçamental tiver comunicado a sua intenção de emitir um parecer, transmiti-lo-á ao [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** no prazo de seis semanas a contar da notificação do projecto."
+  },
+  "39c9f181c2c91721": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Após consulta à Comissão, o [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** aprovará a regulamentação financeira aplicável ao Centro. Esta regulamentação só poderá divergir do disposto no Regulamento (CE, Euratom) n.º 2343/2002 da Comissão, de 19 de Novembro de 2002, que institui o Regulamento Financeiro-Quadro dos organismos referidos no artigo 185.º do Regulamento (CE, Euratom) n.º 1605/2002 do Conselho, que institui o Regulamento Financeiro aplicável ao orçamento geral das Comunidades Europeias ([^5^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#E0005)), se as exigências específicas do funcionamento do Centro o impuserem e desde que a Comissão dê previamente o seu acordo."
+  },
+  "7ab1e72d9cf9ef1b": {
+   "fragment_id": "Artigo 12.ºA",
+   "type": "artigo",
+   "heading": "Artigo 12.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.ºA\n\n1. O director executará o orçamento do Centro.\n\n2. Até ao dia 1 de Março seguinte ao exercício encerrado, o contabilista do Centro comunicará ao contabilista da Comissão as contas provisórias acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O contabilista da Comissão consolidará as contas provisórias das instituições e dos organismos descentralizados nos termos do disposto no artigo 128.º do regulamento financeiro geral.\n\n3. Até ao dia 31 de Março seguinte ao exercício encerrado, o contabilista da Comissão transmitirá ao Tribunal de Contas as contas provisórias do Centro, acompanhadas do relatório sobre a gestão orçamental e financeira do exercício. O relatório sobre a gestão orçamental e financeira do exercício será igualmente transmitido ao Parlamento Europeu e ao Conselho.\n\n4. Após recepção das observações formuladas pelo Tribunal de Contas relativamente às contas provisórias do Centro, nos termos do disposto no artigo 129.º do Regulamento Financeiro Geral, o director elaborará as contas definitivas do Centro, sob sua própria responsabilidade, e transmiti-las-á, para parecer, ao [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄**.\n\n5. O [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** emitirá um parecer sobre as contas definitivas do Centro.\n\n6. O director transmitirá ao Parlamento Europeu, ao Conselho, à Comissão e ao Tribunal de Contas as contas definitivas, acompanhadas do parecer do [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄**, até ao dia 1 de Julho seguinte ao exercício encerrado.\n\n7. As contas definitivas serão publicadas.\n\n8. O director dirigirá ao Tribunal de Contas uma resposta às observações deste último, até 30 de Setembro. Enviará igualmente esta resposta ao [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄**.\n\n9. O director submeterá à apreciação do Parlamento Europeu, a pedido deste último, tal como previsto no n.º 3 do artigo 146.º do Regulamento Financeiro Geral, qualquer informação necessária ao bom desenrolar do processo de quitação relativamente ao exercício em causa.\n\n10. Sob recomendação do Conselho, deliberando por maioria qualificada, o Parlamento Europeu dará ao director, antes de 30 de Abril do ano N + 2, quitação da execução do orçamento do exercício N."
+  },
+  "3ba7a4daad5d59db": {
+   "fragment_id": "Artigo 12.ºB",
+   "type": "artigo",
+   "heading": "Artigo 12.ºB",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.ºB\n\n1. O [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** aprovará o relatório anual de actividades e perspectivas do Centro e transmiti-lo-á, até 15 de Junho, ao Parlamento Europeu, ao Conselho, à Comissão, ao Comité Económico e Social Europeu e ao Tribunal de Contas.\n\n2. O Centro transmitirá anualmente à autoridade orçamental todas as informações pertinentes sobre os resultados dos processos de avaliação."
+  },
+  "9906f89f45135851": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSão aplicáveis aos membros do pessoal do Centro os regulamentos e regulamentações aplicáveis aos funcionários e outros agentes das Comunidades Europeias.\n\nO Centro exercerá relativamente aos membros do seu pessoal os poderes atribuídos à entidade competente para proceder a nomeações.\n\nO [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** do Centro adoptará, mediante acordo da Comissão, as regras de aplicação adequadas."
+  },
+  "b0bd94f45581458c": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs membros do [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄**, o director e os membros do pessoal assim como todas as pessoas que participam nas actividades do Centro são obrigados, mesmos após a cessação das suas funções, a não divulgar informações que, pela sua natureza, estejam protegidas pelo segredo profissional."
+  },
+  "f09d967b56028d03": {
+   "fragment_id": "Artigo 14.ºA",
+   "type": "artigo",
+   "heading": "Artigo 14.ºA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.ºA\n\n1. O Regulamento (CE) n.º 1049/2001 do Parlamento Europeu e do Conselho, de 30 de Maio de 2001, relativo ao acesso do público aos documentos do Parlamento Europeu, do Conselho e da Comissão ([^6^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#E0006)), é aplicável aos documentos detidos pelo Centro.\n\n2. O [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** aprovará as regras de execução do Regulamento (CE) n.º 1049/2001 no prazo de seis meses a contar da data de entrada em vigor do Regulamento (CE) n.º 1655/2003 do Conselho, de 18 de Junho de 2003, que altera o Regulamento (CEE) n.º 337/75 que cria um Centro Europeu para o Desenvolvimento da Formação Profissional e que revoga o Regulamento (CEE) n.º 1416/76 ([^7^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#E0007)).\n\n3. As decisões tomadas pelo Centro ao abrigo do artigo 8.º do Regulamento (CE) n.º 1049/2001 podem dar lugar à apresentação de queixa junto do Provedor de Justiça Europeu ou ser impugnadas no Tribunal de Justiça, nas condições previstas, respectivamente, nos artigos 195.º e 230.º do Tratado."
+  },
+  "70c1b8448c8b2a46": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO regime linguístico das Comunidades Europeias é aplicável ao Centro."
+  },
+  "58e1d8c9372300da": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\no protocolo sobre os privilégios e imunidades das Comunidades Europeias é aplicável ao Centro."
+  },
+  "e56df6528c62cbc2": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A responsabilidade contractual do Centro rege-se pela lei aplicável ao contrato em causa.\n\nO Tribunal de Justiça das Comunidades Europeias é competente para decidir com fundamento em cláusula compromissória contida num contrato celebrado pelo Centro.\n\n2. Em matéria de responsabilidade não contratual, o Centro deve reparar, de acordo com os principios gerais comuns aos direitos dos Estados-membros, os danos causados pelo Centro ou pelos seus agentes no exercício das suas funções.\n\nO Tribunal de Justiça é competente para conhecer os litígios relativos à reparação destes danos.\n\n3. A responsabilidade pessoal dos agentes em relação ao Centro é regulada nas disposições relativas ao pessoal do Centro."
+  },
+  "b3eb165d2d27c33a": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nQualquer acto do Centro, tácito ou explicito, pode ser submetido à Comissão por cada Estado-membro, por cada membro do [**►M6**](http://publications.europa.eu/resource/celex/32004R2051) Conselho Directivo**◄** ou por terceiro directamente e individualmente interessado, para fiscalização da respectiva legalidade.\n\nO recurso deve ser submetido à Comissão no prazo de quinze dias contados a partir da data em que o interessado teve conhecimento do acto contestado.\n\nA Comissão toma uma decisão no prazo de um mês. A ausência de decisão nesse prazo vale como decisão tácita de indeferimento."
+  },
+  "3682e2986c428254": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\n---"
+  },
+  "6bf7a7481f82761a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#src.E0001)) JO nº C 127 de 18. 10. 1974, p. 20.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#src.E0002)) JO nº C 125 de 16. 10. 1974, p. 41.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#src.E0003)) JO nº 63 de 20. 4. 1963, p. 1338.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#src.E0004)) JO nº C 13 de 12. 2. 1974, p. 1\n\n> ([^5^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#src.E0005)) JO L 357 de 31.12.2002, p. 72 (rectificação no JO L 2 de 7.1.2003, p. 39).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#src.E0006)) JO L 145 de 31.5.2001, p. 43.\n\n> ([^7^](http://publications.europa.eu/resource/cellar/32df05b5-97c0-4d73-87c9-da8824cd5046.0018.03/DOC_1#src.E0007)) JO L 245 de 29.9.2003, p. 41."
+  }
+ }
+}

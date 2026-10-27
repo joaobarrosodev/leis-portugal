@@ -1,0 +1,318 @@
+---
+schema_version: '1.0'
+id: pt:dre:325553:por
+title: Decreto-Lei n.º 99/85
+short_title: null
+summary: Cria o Secretariado Permanente para as Empresas Públicas e aprova o respectivo estatuto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 99/85
+official_date: null
+publication_date: '1985-04-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 81/1985, Série I de 1985-04-08
+  number: '81'
+  series: I
+  supplement: null
+  pages: 961 - 963
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/04/08100/09610963.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '325553'
+  dre_path: /dr/detalhe/decreto-lei/99-1985-325553
+  internal: pt:dre:325553:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1985-325553
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1985-325553
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:10:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 93d58b03c529ce9d3e051e8ccee03f766436db982bad62be420c74608585a678
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:10:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Ministros para os Assuntos Económicos
+- Empresa Pública
+- Orgânica
+- Secretariado Permanente para as Empresas Públicas
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:662475:por
+  label: "Extinto o Secretariado Permanente para as Empresas Públicas (SPEP), pelo DEC LEI.99/87.05.03.1987.MF, DR.IS [53]\
+    \ de 05.03.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/99-1987-662475
+  date: '1987-03-05'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:10:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 99/85
+
+de 8 de Abril
+
+O exame retrospectivo da intervenção do Governo nas empresas públicas mostra que se torna necessário alterar o quadro institucional em que vivem e actuam estas empresas, visando tornar mais eficaz a respectiva gestão, quer pela maior autonomia conferida aos gestores, quer pela sua maior responsabilização, nomeadamente através da negociação de objectivos e meios, quer, ainda, pelo aperfeiçoamento dos instrumentos previsionais necessários para assegurar o acompanhamento e a avaliação da gestão efectuada.
+
+Nesta linha de orientação, pretende-se agora possibilitar uma melhor coordenação das decisões governamentais sobre as empresas públicas, garantindo um apoio técnico eficaz, quer na recolha e tratamento de elementos de informação, quer na análise dos objectivos propostos e meios requeridos, quer finalmente no acompanhamento da execução das decisões tomadas.
+
+Ponderada a finalidade que se pretende atingir e as formas possíveis de a alcançar, resolveu o Governo optar desde já, no quadro de um processo mais amplo de aperfeiçoamento do enquadramento institucional das empresas públicas, pela criação de um órgão especializado ao qual se conferem atribuições e competência que lhe deverão permitir, em estreita ligação com o Conselho de Ministros para os Assuntos Económicos e com os ministérios sectoriais, desempenhar aquela indispensável função de apoio técnico.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º É criado o Secretariado Permanente para as Empresas Públicas, que se regerá pelo estatuto que fica anexo ao presente decreto-lei e que dele faz parte integrante.
+
+Art. 2.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - Amândio Anes de Azevedo - Álvaro Roque de Pinho Bissaia Barreto - José Veiga Simão - Joaquim Martins Ferreira do Amaral - António Antero Coimbra Martins - Carlos Alberto Melancia - José de Almeida Serra.
+
+Promulgado em 21 de Março de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 25 de Março de 1985.
+
+O Primeiro-Ministro, Mário Soares.
+
+Estatuto do Secretariado Permanente para as Empresas Públicas
+
+### CAPÍTULO I — Denominação, natureza e sede
+
+ARTIGO 1.º
+
+(Denominação e natureza)
+
+O Secretariado Permanente para as Empresas Públicas, abreviadamente designado, no presente Estatuto, por Secretariado, é um instituto público dotado de personalidade jurídica de direito público, com autonomia administrativa e financeira.
+
+ARTIGO 2.º
+
+(Dependência hierárquica)
+
+1 - O Secretariado depende do Conselho de Ministros para os Assuntos Económicos, ao qual compete, designadamente:
+
+a) Traçar directrizes e emitir instruções para a prossecução, por parte do Secretariado, das respectivas atribuições;
+
+b) Exigir todas as informações e documentos julgados úteis ao acompanhamento permanente da actividade do Secretariado;
+
+c) Proceder à inspecção sobre a actividade do Secretariado.
+
+2 - Ao Conselho de Ministros para os Assuntos Económicos compete também aprovar o plano anual de actividades, os planos plurianuais de actividades e financeiros e as respectivas revisões, bem como os orçamentos, relatórios anuais de actividades e contas do Secretariado.
+
+3 - As relações entre o Secretariado e o Conselho de Ministros para os Assuntos Económicos processam-se através do Ministro das Finanças e do Plano.
+
+ARTIGO 3.º
+
+(Sede e duração)
+
+O Secretariado terá a sua sede em Lisboa e existirá por tempo indeterminado.
+
+### CAPÍTULO II — Atribuições e competências
+
+ARTIGO 4.º
+
+(Atribuições)
+
+Constituem atribuições do Secretariado:
+
+1 - Preparar matérias a submeter ao Conselho de Ministros para os Assuntos Económicos, para efeitos de deliberações que respeitem às empresas públicas não financeiras, e acompanhar e coordenar a respectiva execução, para o que deverá, designadamente:
+
+a) Elaborar propostas de programas anuais e plurianuais de investimento e de financiamento globais e sectoriais;
+
+b) Analisar os investimentos propostos em ligação com os ministérios sectoriais;
+
+c) Dar parecer sobre os orçamentos de exploração e investimento;
+
+d) Elaborar e apresentar propostas de dotação de capital e de indemnizações compensatórias ou de subsídios;
+
+e) Elaborar relatório anual sobre a actividade do sector empresarial do Estado.
+
+2 - Recolher, tratar e facultar todas as informações respeitantes às empresas públicas não financeiras, para o que deverá, nomeadamente:
+
+a) Definir os sistemas de informação de gestão a adoptar, incluindo os indicadores de eficiência e de realização gerais especializados;
+
+b) Estabelecer e manter fluxos normais e periódicos de informação.
+
+3 - Colaborar, a nível técnico, em ligação com os ministérios sectoriais, com as empresas públicas, quer promovendo, por sua iniciativa, os estudos que considerar necessários quer dando apoio a estudos ou acções empreendidos pelas empresas, para o que deverá, designadamente:
+
+a) Elaborar análises e estudos sobre as empresas públicas, excluindo os de contabilidade e auditoria;
+
+b) Colaborar na preparação dos contratos-programas e contratos de gestão e acompanhar a respectiva execução;
+
+c) Dar apoio à elaboração de programas de reestruturação;
+
+d) Colaborar na definição das políticas de preços e salarial.
+
+ARTIGO 5.º
+
+(Competência)
+
+No exercício das suas atribuições compete, designadamente, ao Secretariado:
+
+a) Obter das empresas públicas todos os elementos de informação de que carece para o exercício das suas atribuições;
+
+b) Destacar técnicos para a análise, nos serviços das empresas públicas, dos elementos de informação prestados ou para recolher, nos mesmos serviços, os dados de que careça;
+
+c) Contratar o serviço de técnicos especializados para estudo e análise de quaisquer problemas relacionados com o exercício das suas atribuições;
+
+d) Estabelecer contactos directos com os ministérios sectoriais em que se integram as várias empresas públicas, nomeadamente para melhor esclarecimento e análise das orientações em vigor ou a definir e de projectos em estudo;
+
+e) Promover a realização de reuniões sectoriais para análise de problemas concretos ou de dificuldades sentidas.
+
+### CAPÍTULO III — Conselho directivo
+
+ARTIGO 6.º
+
+(Composição, nomeação e mandato)
+
+1 - O Secretariado tem um conselho directivo composto de 3 membros, nomeados pelo Conselho de Ministros, sob proposta do Primeiro-Ministro, ouvidos os Ministros das Finanças e do Plano, da Indústria e Energia e do Equipamento Social.
+
+2 - No acto da nomeação será designado o presidente.
+
+3 - O mandato dos membros do conselho directivo é de 3 anos, podendo ser renovado.
+
+4 - Em caso de substituição de qualquer membro do conselho directivo no decurso de um mandato, a respectiva nomeação é feita apenas para o período em falta.
+
+ARTIGO 7.º
+
+(Estatuto)
+
+O Conselho de Ministros fixará, por resolução, o estatuto dos membros do conselho directivo, nomeadamente no que respeita ao regime de remuneração e prestação de trabalho.
+
+ARTIGO 8.º
+
+(Competência)
+
+Compete ao conselho directivo:
+
+a) Elaborar o plano anual de actividades e o orçamento do Secretariado, bem como os planos plurianuais de actividades e financeiros e respectivas revisões, submetendo-os à aprovação do Conselho de Ministros para os Assuntos Económicos até 30 de Outubro de cada ano;
+
+b) Elaborar o relatório anual de actividades e as contas da gerência, submetendo-os à aprovação do Conselho de Ministros para os Assuntos Económicos até 15 de Maio do ano seguinte a que respeitam;
+
+c) Propor ao Conselho de Ministros para os Assuntos Económicos a requisição do pessoal permanente necessário e celebrar os contratos de prestação de serviço que se revelarem indispensáveis;
+
+d) Elaborar os regulamentos internos necessários à organização e ao funcionamento do Secretariado;
+
+e) Representar o Secretariado em juízo e fora dele, podendo desistir, transigir e confessar em quaisquer litígios e comprometer-se em arbitragens;
+
+f) Delegar poderes e constituir mandatários;
+
+g) Tornar todas as deliberações compreendidas na competência do Secretariado, prevista na lei ou no presente Estatuto, e praticar todos os demais actos necessários ao cumprimento integral e eficiente das atribuições do Secretariado.
+
+ARTIGO 9.º
+
+(Funcionamento)
+
+1 - O conselho directivo reunir-se-á ordinariamente uma vez por semana e extraordinariamente sempre que o seu presidente, por iniciativa própria ou a pedido da maioria dos membros, o convoque.
+
+2 - As deliberações serão tomadas por maioria dos membros do conselho, tendo o presidente voto de qualidade.
+
+3 - Será lavrada acta das reuniões, subscrita por todos os membros presentes.
+
+4 - Quando o impedimento de qualquer membro do conselho se prolongar em termos de prejudicar o seu normal funcionamento, declarar-se-á aberta vaga, a preencher nos termos do n.º 4 do artigo 6.º
+
+ARTIGO 10.º
+
+(Vinculação do Secretariado)
+
+Para obrigar o Secretariado é necessária e suficiente a assinatura de 2 membros do conselho directivo, salvo em actos de mero expediente, em que bastará a assinatura de um dos membros.
+
+### CAPÍTULO IV — Pessoal
+
+ARTIGO 11.º
+
+(Estatuto)
+
+1 - O pessoal permanente do Secretariado será, em princípio, requisitado às empresas públicas e aos diversos serviços do Estado.
+
+2 - O Secretariado poderá também celebrar contratos de prestação de serviço para a realização de determinadas tarefas.
+
+### CAPÍTULO V — Património, receitas e despesas
+
+ARTIGO 12.º
+
+(Património)
+
+1 - Constitui património do Secretariado a universalidade dos bens, direitos e obrigações estritamente necessários para o exercício das suas funções.
+
+2 - São vedadas ao Secretariado a aquisição e a detenção de quaisquer participações financeiras.
+
+ARTIGO 13.º
+
+(Receitas e despesas)
+
+1 - Constituem receitas do Secretariado:
+
+a) As dotações anuais das empresas públicas fixadas pelo Conselho de Ministros para os Assuntos Económicos, sob proposta do Ministro das Finanças e do Plano;
+
+b) As importâncias cobradas por serviços prestados.
+
+2 - Constituem despesas do Secretariado:
+
+a) Os encargos com o respectivo funcionamento;
+
+b) Os custos de aquisição e manutenção dos bens ou serviços que o mesmo tenha de utilizar.
+
+### CAPÍTULO VI — Gestão patrimonial e financeira
+
+ARTIGO 14.º
+
+(Regime aplicável)
+
+A gestão patrimonial e financeira do Secretariado, incluindo a organização e execução da sua contabilidade, regula-se pelas normas aplicáveis às empresas públicas.
+
+O Ministro das Finanças e do Plano, Ernâni Rodrigues Lopes.

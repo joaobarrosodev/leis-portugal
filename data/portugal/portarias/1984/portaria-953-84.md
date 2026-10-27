@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:396364:por
+title: Portaria n.º 953/84
+short_title: null
+summary: Altera o quadro de pessoal do Instituto de Assistência Psiquiátrica - sede e Delegação da Zona Sul -, na parte referente
+  ao pessoal técnico superior - carreira médica
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Saúde
+proposing_entity: null
+official_number: 953/84
+official_date: null
+publication_date: '1984-12-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 295/1984, Série I de 1984-12-22
+  number: '295'
+  series: I
+  supplement: null
+  pages: 3849 - 3849
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/12/29500/38493849.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '396364'
+  dre_path: /dr/detalhe/portaria/953-1984-396364
+  internal: pt:dre:396364:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/953-1984-396364
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/953-1984-396364
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:17:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: db7d8dd5f508a96e1f264a142ed20b7fc285afe5c7b639b75645c3f3d51b6772
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:17:12Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto de Assistência Psiquiátrica
+- Médico
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:310462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:397295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563630:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:17:12Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 953/84
+
+de 22 de Dezembro
+
+Em execução do disposto no artigo 42.º do [Decreto-Lei n.º 310/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1982-397295), de 3 de Agosto, e em conformidade com o n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Saúde e pelo Secretário de Estado da Administração Pública, que o quadro de pessoal do Instituto de Assistência Psiquiátrica - sede e Delegação da Zona Sul -, aprovado pela [Portaria n.º 869/81](https://diariodarepublica.pt/dr/detalhe/portaria/869-1981-563630), de 28 de Setembro, e rectificado pela [Portaria n.º 283/83](https://diariodarepublica.pt/dr/detalhe/portaria/283-1983-310462), de 17 de Março, seja alterado, na parte referente ao pessoal técnico superior - carreira médica, de acordo com o quadro anexo.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Saúde.
+
+Assinada em 23 de Novembro de 1984.
+
+Pelo Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro da Saúde, António Manuel Maldonado Gonelha. - O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes.
+
+Quadro de pessoal do Instituto de Assistência Psiquiátrica
+
+Sede e Delegação da Zona Sul
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/12/29500/38493849.pdf)

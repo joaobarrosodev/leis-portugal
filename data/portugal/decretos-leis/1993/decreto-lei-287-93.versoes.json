@@ -1,0 +1,622 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:324487:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-838999332",
+ "dre_path": "/dr/detalhe/decreto-lei/287-1993-324487",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1993-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "839321083",
+    "839319684",
+    "839319685",
+    "839319686",
+    "839319687",
+    "839319688",
+    "839319689",
+    "839319690",
+    "839319691",
+    "839319692",
+    "839319693",
+    "839319695",
+    "839319696",
+    "839319697",
+    "839319698",
+    "839319699",
+    "839319700",
+    "839319701",
+    "839319702",
+    "839319703",
+    "839319704",
+    "839319705",
+    "839319706",
+    "839319707",
+    "839319708",
+    "839319709",
+    "839319710",
+    "839319711",
+    "839319712",
+    "839319713",
+    "839319714",
+    "839319715",
+    "839319716",
+    "839319717",
+    "839319718",
+    "839319719",
+    "839319720",
+    "839319721",
+    "839319722",
+    "839319723",
+    "839319724",
+    "839319725",
+    "839319726",
+    "839319727",
+    "839319728",
+    "839319729",
+    "839319730"
+   ]
+  },
+  {
+   "date": "2005-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:613684:por",
+     "title": "Decreto-Lei n.º 56-A/2005",
+     "published": "2005-03-03",
+     "dre_path": "/dr/detalhe/decreto-lei/56-a-2005-613684"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "839321083",
+    "839319684",
+    "839319685",
+    "839319686",
+    "839319687",
+    "839319688",
+    "839319689",
+    "839319690",
+    "839319691",
+    "839321084",
+    "839319693",
+    "839319694",
+    "839319695",
+    "839319696",
+    "839319697",
+    "839319698",
+    "839319699",
+    "839319700",
+    "839319701",
+    "839319702",
+    "839319703",
+    "839319704",
+    "839319705",
+    "839319706",
+    "839319707",
+    "839319708",
+    "839319709",
+    "839319710",
+    "839319711",
+    "839319712",
+    "839319713",
+    "839319714",
+    "839319715",
+    "839319716",
+    "839319717",
+    "839319718",
+    "839319719",
+    "839319720",
+    "839319721",
+    "839319722",
+    "839319723",
+    "839319724",
+    "839319725",
+    "839319726",
+    "839319727",
+    "839319728",
+    "839319729",
+    "839319730"
+   ]
+  },
+  {
+   "date": "2007-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520188:por",
+     "title": "Decreto-Lei n.º 106/2007",
+     "published": "2007-04-03",
+     "dre_path": "/dr/detalhe/decreto-lei/106-2007-520188"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "839321083",
+    "839321085",
+    "839319685",
+    "839319686",
+    "839321086",
+    "839319688",
+    "839321087",
+    "839319690",
+    "839319691",
+    "839321084",
+    "839319693",
+    "839319694",
+    "839319695",
+    "839319696",
+    "839319697",
+    "839319698",
+    "839319699",
+    "839319700",
+    "839319701",
+    "839319702",
+    "839319703",
+    "839319704",
+    "839319705",
+    "839319706",
+    "839319707",
+    "839319708",
+    "839319709",
+    "839319710",
+    "839319711",
+    "839319712",
+    "839319713",
+    "839319714",
+    "839319715",
+    "839319716",
+    "839319717",
+    "839319718",
+    "839319719",
+    "839319720",
+    "839319721",
+    "839319722",
+    "839319723",
+    "839319724",
+    "839319725",
+    "839319726",
+    "839319727",
+    "839319728",
+    "839319729",
+    "839319730"
+   ]
+  }
+ ],
+ "fragments": {
+  "839321083": {
+   "fragment_id": "838999333",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 287/93\n\nde 20 de Agosto\n\nA Caixa Geral de Depósitos, criada pela Carta de Lei de 10 de Abril de 1876, nasceu com uma vocação exclusivamente centrada no âmbito do Estado, tendo como função principal a recolha e administração dos depósitos efectuados por imposição da lei ou dos tribunais; cresceu como um banco de poupança e investimentos ligado à política económica, continuando a recolher os depósitos públicos ou determinados pelo Estado, bem como a poupança privada, e chegou aos nossos dias com uma posição de grande destaque no conjunto das instituições de crédito portuguesas, já não dependendo dos depósitos públicos, actuando como um banco universal e sendo a matriz do maior grupo financeiro português.\n\nO enquadramento normativo da actividade da Caixa revela um conjunto de particularidades relativamente ao das empresas privadas no sector como por exemplo o recurso às execuções fiscais para cobrança dos seus créditos e a representação em juízo pelo Ministério Público. Por outro lado, a Caixa beneficiava de uma isenção geral de impostos e taxas, sendo equiparada pela lei ao Estado, para este efeito, situação que se extinguiu com a reforma fiscal entrada em vigor em 1989.\n\nNo plano da estrutura organizativa, a lei consagrava a separação de três entidades jurídicas distintas - a Caixa Geral de Depósitos, a Caixa Geral de Aposentações e o Montepio dos Servidores do Estado - e a respectiva autonomia patrimonial, orientação que não era, todavia, levada às últimas consequências, dada a identidade dos órgãos de administração e de fiscalização das três instituições.\n\nDiversas e significativas modificações verificadas no sistema financeiro português desde a data da publicação dos actuais diplomas orgânicos e a alteração dos condicionalismos interno e externo em que a instituição exerce a sua actividade recomendam agora a sua profunda revisão.\n\nAtendo-nos, unicamente, aos eventos mais marcantes dos últimos anos, impõe-se, em primeiro lugar, uma referência à adesão de Portugal às Comunidades Europeias, com a consequente aplicação das regras do direito comunitário.\n\nNo plano interno, o Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, veio equiparar a Caixa Geral de Depósitos aos bancos no que respeita às actividades que está autorizada a exercer.\n\nTodo o circunstancialismo referido aponta deste modo para a sujeição da Caixa a um regime de direito privado ou, mais rigorosamente, para a aplicação à instituição de regras idênticas às que regem as empresas privadas do sector.\n\nO mesmo objectivo de aproximação da Caixa às restantes empresas do sector levou à adopção da forma de sociedade anónima.\n\nAo contrário do que se estabeleceu noutros casos, considerou-se no caso da Caixa Geral de Depósitos, dada a natureza da actividade exercida, a posição e o papel que a empresa ocupa no mesmo sector, que deveria ser apenas o Estado, e não qualquer outra pessoa colectiva de direito público, o detentor do capital.\n\nNo que respeita ao pessoal, o novo regime consagra a aplicação à Caixa do regime jurídico do contrato individual de trabalho, sem prejuízo, à semelhança de solução adoptada em casos idênticos, da possibilidade concedida aos trabalhadores actualmente ao serviço da instituição de optarem pela manutenção do regime a que estavam sujeitos.\n\nNo que respeita à Caixa Geral de Aposentações e ao Montepio dos Servidores do Estado, completou-se a integral separação entre estas instituições e a Caixa.\n\nEm diploma autónomo, estas duas entidades, são fundidas numa única pessoa jurídica, a Caixa Geral de Aposentações, pessoa colectiva de direito público que passa a dispor de órgãos próprios distintos dos órgãos de administração e fiscalização da Caixa Geral de Depósitos.\n\nA Caixa Geral de Depósitos continuará, por outro lado, a prestar serviços à Caixa Geral de Aposentações como até aqui, prevendo-se que no futuro essa prestação passe a ser assegurada em termos contratuais.\n\nFoi ouvida a Comissão de Trabalhadores da Caixa Geral de Depósitos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Anexo, Decreto-Lei n.º 106/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2007-520188) O presente anexo não corresponde à versão atual dos Estatutos da Caixa Geral de Depósitos, uma vez que os mesmos são alterados nos termos do Código das Sociedades Comerciais, conforme resulta do art.º 36.º do Novo regime jurídico do setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro."
+  },
+  "839319684": {
+   "fragment_id": "838999334",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A Caixa Geral de Depósitos, Crédito e Previdência é transformada pelo presente diploma em sociedade anónima de capitais exclusivamente públicos, passando a denominar-se Caixa Geral de Depósitos, S. A., abreviadamente designada neste diploma por Caixa.\n\n2 - A Caixa rege-se pelo presente diploma, pelos seus estatutos, pelas normas gerais e especiais aplicáveis às instituições de crédito e pela legislação aplicável às sociedades anónimas."
+  },
+  "839319685": {
+   "fragment_id": "838999335",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A Caixa sucede à Caixa Geral de Depósitos, Crédito e Previdência e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que integram a sua esfera jurídica no momento da transformação.\n\n2 - A transformação estabelecida no artigo anterior produz os seus efeitos exclusivamente por força do presente diploma, sendo oponível a terceiros independentemente de registo.\n\n3 - Sem prejuízo do disposto no número anterior, a inscrição da Caixa no registo comercial, bem como os averbamentos da transformação operada pelo presente diploma, em quaisquer registos já existentes, serão realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração."
+  },
+  "839319686": {
+   "fragment_id": "838999336",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A Caixa tem por objecto o exercício da actividade bancária nos termos definidos nos seus estatutos e dentro dos limites estabelecidos na legislação aplicável.\n\n2 - No exercício da sua actividade, a Caixa deverá promover a formação e a captação da poupança e contribuir, designadamente através das suas operações de financiamento, para o desenvolvimento económico e social do País.\n\n3 - A Caixa assegurará a prestação ao Estado de quaisquer serviços bancários, sem prejuízo das regras da concorrência e do equilíbrio da sua gestão.\n\n4 - A Caixa exercerá ainda outras funções que lhe sejam especialmente cometidas por lei, podendo as modalidades e os termos do exercício dessa funções ser definidos por contrato a celebrar com o Estado."
+  },
+  "839319687": {
+   "fragment_id": "838999337",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A Caixa tem o capital social de 275000000 de contos, totalmente subscrito pelo Estado e realizado por conversão da reserva conta capital, existente no seu balanço.\n\n2 - As acções representativas do capital social da Caixa, incluindo as que vierem a ser emitidas em futuros aumentos de capital, só poderão pertencer ao Estado e serão detidas pela Direcção-Geral do Tesouro.\n\n3 - Os direitos do Estado como accionista serão exercidos por representante designado por despacho do Ministro das Finanças.\n\n4 - Sempre que a lei ou os estatutos exijam deliberação da assembleia geral ou seja conveniente reuni-la, bastará que o representante do Estado exare a deliberação no livro de actas da sociedade."
+  },
+  "839319688": {
+   "fragment_id": "838999338",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - São aprovados os estatutos da Caixa Geral de Depósitos, S. A., anexos ao presente diploma.\n\n2 - As alterações aos estatutos ficarão apenas sujeitas às formalidades aplicáveis às instituições de crédito constituídas sob a forma de sociedade anónima."
+  },
+  "839319689": {
+   "fragment_id": "838999339",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informações aos accionistas, o conselho de administração enviará ao Ministro das Finanças, pelo menos 30 dias antes da assembleia geral anual:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Quaisquer elementos adicionais que se mostrem necessários à compreensão integral da situação económica e financeira da empresa e perspectiva da sua evolução.\n\n2 - O conselho fiscal enviará trimestralmente ao Ministério das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias e os principais desvios relativamente às previsões eventualmente detectados."
+  },
+  "839319690": {
+   "fragment_id": "838999340",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Sem prejuízo do disposto nos números seguintes, os trabalhadores da Caixa ficam sujeitos ao Regime Jurídico do Contrato Individual de Trabalho.\n\n2 - Os trabalhadores que se encontrem ao serviço da Caixa na data da entrada em vigor do presente diploma continuam sujeitos ao regime que lhes era até aí aplicável, podendo contudo optar pelo regime previsto no número anterior, mediante declaração escrita feita nos termos e no prazo a fixar pela administração da Caixa.\n\n3 - Os trabalhadores da Caixa que sejam chamados a ocupar cargos nos órgãos desta empresa ou que sejam requisitados para exercer funções em empresas ou serviços públicos não podem, por esse facto, sofrer qualquer prejuízo, regressando aos seus lugares logo que terminem o mandato ou a requisição.\n\n4 - Os trabalhadores da Caixa que sejam chamados a ocupar cargos nos órgãos sociais de empresas associadas poderão continuar a desempenhar as funções que vinham exercendo, sem perda de quaisquer direitos."
+  },
+  "839319691": {
+   "fragment_id": "838999341",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - É por esta forma convocada a assembleia geral da Caixa, a qual reunirá na sede da sociedade no 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, para eleger os membros da mesa da assembleia geral e os titulares dos órgãos sociais e aprovar o respectivo estatuto remuneratório.\n\n2 - Os membros em exercício do conselho de administração e do conselho fiscal da Caixa Geral de Depósitos, Crédito e Previdência mantêm-se em funções até à eleição dos titulares dos órgãos sociais da Caixa, com as competências fixadas para estes órgãos pelos estatutos da sociedade."
+  },
+  "839319692": {
+   "fragment_id": "838999342",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - São revogados, salvo no que respeita à sua aplicação à Caixa Geral de Aposentações, e com as ressalvas constantes do presente artigo, os seguintes diplomas:\n\na) O Decreto-Lei n.º 48953, de 5 de Abril de 1969;\n\nb) O Decreto-Lei n.º 693/70, de 31 de Dezembro;\n\nc) O Decreto n.º 694/70, de 31 de Dezembro;\n\nd) O Decreto-Lei n.º 265/75, de 28 de Maio.\n\n2 - Exceptuam-se do disposto no número antecedente os seguintes preceitos, que se mantêm em vigor, com as necessárias adaptações:\n\na) Os artigos 39.º a 41.º, 43.º, 44.º, n.os 1 e 3, 45.º, 54.º, 56.º, 57.º, 65.º, n.os 1 e 2, e 70.º do Decreto-Lei n.º 48953, de 5 de Abril de 1969;\n\nb) Os artigos 13.º a 31.º e 35.º do regulamento aprovado pelo Decreto n.º 694/70, de 31 de Dezembro.\n\n3 - Mantêm-se também em vigor, mas unicamente para aplicação aos trabalhadores da Caixa que não tenham exercido a faculdade a que se refere o n.º 2 do artigo 7.º, e com as necessárias adaptações, os artigos 31.º, n.º 2, 32.º e 34.º, n.º 2, do Decreto-Lei n.º 48953, de 5 de Abril de 1969.\n\n4 - Os documentos que, titulando acto ou contrato realizado pela Caixa, prevejam a existência de uma obrigação de que a Caixa seja credora e estejam assinados pelo devedor revestem-se de força executiva, sem necessidade de outras formalidades.\n\n5 - As execuções pendentes à data da entrada em vigor do presente diploma continuam a reger-se, até final, pelas regras de competência e de processo vigentes nessa data.\n\n6 - Mantém-se igualmente em vigor o artigo 16.º do Decreto-Lei n.º 48953, de 5 de Abril de 1969, em relação às operações e aos contratos de depósito nele previstos que tenham sido realizados até à data de entrada em vigor do presente diploma, sem prejuízo do disposto na legislação que rege o Fundo de Garantia de Depósitos.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 877/2023 - Diário da República n.º 18/2024, Série I de 2024-01-25](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/877-2023-838972842) Declara a inconstitucionalidade, com força obrigatória geral, da norma contida no n.º 4 do presente artigo."
+  },
+  "839319693": {
+   "fragment_id": "838999343",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente diploma entra em vigor no dia 1 de Setembro de 1993."
+  },
+  "839319695": {
+   "fragment_id": "838999345",
+   "type": 14,
+   "heading": "Anexo — Estatutos da Caixa Geral de Depósitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatutos da Caixa Geral de Depósitos"
+  },
+  "839319696": {
+   "fragment_id": "838999346",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, denominação, duração, sede e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, denominação, duração, sede e objecto"
+  },
+  "839319697": {
+   "fragment_id": "838999347",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e denominação\n\nA sociedade tem a natureza de sociedade anónima de capitais exclusivamente públicos e a denominação de Caixa Geral de Depósitos, S. A."
+  },
+  "839319698": {
+   "fragment_id": "838999348",
+   "type": 11,
+   "heading": "Artigo 2.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Duração\n\nA sociedade é constituída por tempo indeterminado."
+  },
+  "839319699": {
+   "fragment_id": "838999349",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede, filiais, sucursais, agências, outras formas de representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede, filiais, sucursais, agências, outras formas de representação\n\n1 - A sociedade tem a sua sede em Lisboa, no Largo do Calhariz, 20.\n\n2 - Por simples deliberação do conselho de administração a sociedade poderá deslocar a sua sede dentro do concelho de Lisboa ou para concelho limítrofe.\n\n3 - Por simples deliberação do conselho de administração poderão ser criadas ou encerradas filiais, sucursais, agências, delegações ou outras formas locais de representação, no território nacional ou no estrangeiro, observadas as formalidades legais aplicáveis."
+  },
+  "839319700": {
+   "fragment_id": "838999350",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto\n\n1 - A sociedade tem por objecto o exercício da actividade bancária nos mais amplos termos permitidos por lei.\n\n2 - A sociedade exercerá também quaisquer outras atribuições que lhe sejam conferidas por legislação especial."
+  },
+  "839319701": {
+   "fragment_id": "838999351",
+   "type": 1,
+   "heading": "Capítulo II — Capital social, acções, obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital social, acções, obrigações"
+  },
+  "839319702": {
+   "fragment_id": "838999352",
+   "type": 11,
+   "heading": "Artigo 5.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capital social\n\n1 - O capital social é de 275000000 de contos e está integralmente subscrito e realizado pelo Estado.\n\n2 - A assembleia geral deliberará quanto aos aumentos do capital social e respectiva realização que se tornem necessários à equilibrada expansão das actividades da sociedade."
+  },
+  "839319703": {
+   "fragment_id": "838999353",
+   "type": 11,
+   "heading": "Artigo 6.º — Representação do capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Representação do capital social\n\n1 - O capital social é representado por 275000000 de acções com o valor nominal de 1000$00 cada uma.\n\n2 - As acções representativas do capital social só poderão pertencer ao Estado.\n\n3 - As acções poderão ser representadas por títulos nominativos ou revestir a forma escritural, devendo neste caso seguir o regime dos títulos nominativos."
+  },
+  "839319704": {
+   "fragment_id": "838999354",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações\n\nA sociedade pode emitir obrigações ou quaisquer outros títulos negociáveis."
+  },
+  "839319705": {
+   "fragment_id": "838999355",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos sociais"
+  },
+  "839319706": {
+   "fragment_id": "838999356",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "839319707": {
+   "fragment_id": "838999357",
+   "type": 11,
+   "heading": "Artigo 8.º — Enumeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Enumeração\n\nSão órgãos sociais:\n\na) A assembleia geral;\n\nb) O conselho de administração;\n\nc) O conselho fiscal."
+  },
+  "839319708": {
+   "fragment_id": "838999358",
+   "type": 11,
+   "heading": "Artigo 9.º — Duração dos mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Duração dos mandatos\n\n1 - Os membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal são eleitos por um período de quatro anos, podendo ser reeleitos por uma ou mais vezes.\n\n2 - Os membros da mesa da assembleia geral e dos órgãos sociais manter-se-ão em funções para além do termo dos respectivos mandatos, até à eleição dos novos titulares."
+  },
+  "839319709": {
+   "fragment_id": "838999359",
+   "type": 11,
+   "heading": "Artigo 10.º — Actas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Actas\n\n1 - Das reuniões dos órgãos sociais serão sempre lavradas actas, assinadas por todos os presentes, donde constarão as deliberações tomadas.\n\n2 - As actas das reuniões da assembleia geral devem ser redigidas e assinadas pelo presidente, pelo vice-presidente e pelo secretário."
+  },
+  "839319710": {
+   "fragment_id": "838999360",
+   "type": 8,
+   "heading": "Secção II — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assembleia geral"
+  },
+  "839319711": {
+   "fragment_id": "838999361",
+   "type": 11,
+   "heading": "Artigo 11.º — Constituição da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Constituição da assembleia geral\n\n1 - O Estado é representado na assembleia geral pela pessoa que for designada por despacho do Ministro das Finanças.\n\n2 - Nas assembleias gerais devem estar presentes os membros do conselho de administração e do conselho fiscal."
+  },
+  "839319712": {
+   "fragment_id": "838999362",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuam competência.\n\n2 - Compete, em especial, à assembleia geral:\n\na Deliberar sobre o relatório de gestão e as contas do exercício;\n\nb) Deliberar sobre a proposta de aplicação de resultados;\n\nc) Proceder anualmente à apreciação geral da administração e fiscalização da sociedade;\n\nd) Eleger os membros da mesa da assembleia geral, os membros do conselho de administração, com indicação do presidente e do vice-presidente, e os membros do conselho fiscal, também com indicação do respectivo presidente;\n\ne) Deliberar sobre alterações dos estatutos e aumentos de capital;\n\nf) Deliberar sobre as remunerações dos membros dos corpos sociais, podendo, para o efeito, designar uma comissão de vencimentos com poderes para fixar essas remunerações;\n\ng) Autorizar a aquisição e a alienação de imóveis e a realização de investimentos, uns e outros quando de valor superior a 20% do capital social;\n\nh) Tratar de qualquer assunto para que tenha sido convocada."
+  },
+  "839319713": {
+   "fragment_id": "838999363",
+   "type": 11,
+   "heading": "Artigo 13.º — Convocação das reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Convocação das reuniões\n\nA convocação da assembleia geral será feita pelo presidente da mesa, ou por quem o substitua, com pelo menos 30 dias de antecedência, por carta registada dirigida ao accionista Estado e com indicação expressa dos assuntos a tratar."
+  },
+  "839319714": {
+   "fragment_id": "838999364",
+   "type": 11,
+   "heading": "Artigo 14.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reuniões\n\n1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que seja requerida a sua convocação pelo conselho de administração, pelo conselho fiscal ou pelo Estado.\n\n2 - A assembleia geral reunir-se-á na sede social ou no local indicado na convocatória."
+  },
+  "839319715": {
+   "fragment_id": "838999365",
+   "type": 11,
+   "heading": "Artigo 15.º — Mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Mesa da assembleia geral\n\nA mesa da assembleia geral é constituída por um presidente, um vice-presidente e um secretário, podendo a escolha recair em pessoa que não seja accionista."
+  },
+  "839319716": {
+   "fragment_id": "838999366",
+   "type": 8,
+   "heading": "Secção III — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho de administração"
+  },
+  "839319717": {
+   "fragment_id": "838999367",
+   "type": 11,
+   "heading": "Artigo 16.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição\n\nO conselho de administração é composto por um presidente, que será também designado por administrador-geral, um ou dois vice-presidentes e cinco a sete vogais."
+  },
+  "839319718": {
+   "fragment_id": "838999368",
+   "type": 11,
+   "heading": "Artigo 17.º — Delegação de poderes de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Delegação de poderes de gestão\n\n1 - O conselho de administração pode encarregar algum ou alguns dos seus membros de se ocuparem de certas matérias da administração.\n\n2 - O conselho de administração pode também delegar em dois ou mais administradores, ou numa comissão executiva formada por um número ímpar de administradores, a gestão corrente da sociedade, definindo em acta os limites e condições da delegação."
+  },
+  "839319719": {
+   "fragment_id": "838999369",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência\n\nCompete, em especial, ao conselho de administração:\n\na) Gerir os negócios sociais e praticar todos os actos relativos ao objecto social;\n\nb) Estabelecer a organização interna da empresa e elaborar os regulamentos e as instruções que julgar conveniente;\n\nc) Contratar os trabalhadores da sociedade, estabelecendo as respectivas condições contratuais, e exercer em relação aos mesmos o correspondente poder directivo e disciplinar;\n\nd) Constituir mandatários com os poderes que julgar convenientes;\n\ne) Decidir sobre a participação no capital social de outras sociedades;\n\nf) Adquirir, onerar e alienar quaisquer bens e direitos, móveis ou imóveis, incluindo participações sociais, e realizar investimentos, quando o entenda conveniente para a sociedade, sem prejuízo do disposto na alínea g) do n.º 2 do artigo 12.º;\n\ng) Decidir sobre a emissão de obrigações;\n\nh) Executar e fazer cumprir as deliberações da assembleia geral;\n\ni) Representar a sociedade em juízo e fora dele, activa e passivamente, podendo confessar, desistir ou transigir em quaisquer pleitos e comprometer-se, mediante convenção de arbitragem, à decisão de árbitros;\n\nj) Exercer as demais competências que lhe sejam atribuídas por lei ou por estes estatutos e deliberar sobre quaisquer outros assuntos que não caibam na competência dos outros órgãos da sociedade."
+  },
+  "839319720": {
+   "fragment_id": "838999370",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência do presidente e do vice-presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competência do presidente e do vice-presidente\n\n1 - Compete, em especial, ao presidente do conselho de administração:\n\na) Representar o conselho de administração;\n\nb) Coordenar a actividade do conselho de administração e convocar e dirigir as respectivas reuniões;\n\nc) Assegurar a correcta execução das deliberações do conselho de administração.\n\n2 - O presidente do conselho de administração será substituído nas suas faltas e impedimentos pelo vice-presidente que para esse efeito tiver sido escolhido pelo conselho de administração."
+  },
+  "839319721": {
+   "fragment_id": "838999371",
+   "type": 11,
+   "heading": "Artigo 20.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reuniões e deliberações\n\n1 - O conselho de administração reunirá em sessão ordinária com a periodicidade que o próprio conselho fixar e em sessão extraordinária sempre que for convocada pelo seu presidente, por sua iniciativa ou a solicitação de dois administradores.\n\n2 - As reuniões terão lugar na sede social ou noutro local que for indicado na convocatória.\n\n3 - A convocatória pode ser feita por escrito ou por simples comunicação verbal, ainda que telefónica.\n\n4 - O conselho de administração não pode deliberar sem que esteja presente ou representada a maioria dos seus membros.\n\n5 - Qualquer administrador pode fazer-se representar numa reunião do conselho por outro administrador, mediante carta dirigida ao presidente, mas cada instrumento de representação não pode ser utilizado mais de uma vez.\n\n6 - As deliberações do conselho de administração serão tomadas por maioria, tendo o presidente, ou quem o substitua, voto de qualidade em caso de empate."
+  },
+  "839319722": {
+   "fragment_id": "838999372",
+   "type": 11,
+   "heading": "Artigo 21.º — Responsabilização da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Responsabilização da sociedade\n\n1 - A sociedade obriga-se:\n\na) Pela assinatura de dois membros do conselho de administração;\n\nb) Pela assinatura de mandatário constituído, no âmbito do respectivo mandato.\n\n2 - Em assuntos de mero expediente bastará a assinatura de um administrador.\n\n3 - O conselho de administração poderá deliberar, nos termos e dentro dos limites legais, que certos documentos da sociedade sejam assinados por processos mecânicos ou chancela."
+  },
+  "839319723": {
+   "fragment_id": "838999373",
+   "type": 11,
+   "heading": "Artigo 22.º — Reforma dos administradores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reforma dos administradores\n\nOs administradores terão direito a prestações complementares de reforma, nos termos e condições a fixar em regulamento aprovado pela assembleia geral."
+  },
+  "839319724": {
+   "fragment_id": "838999374",
+   "type": 8,
+   "heading": "Secção IV — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho fiscal"
+  },
+  "839319725": {
+   "fragment_id": "839320175",
+   "type": 11,
+   "heading": "Artigo 23.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Composição\n\n1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente, dois vogais efectivos e um suplente.\n\n2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas ou sociedades de revisores de contas."
+  },
+  "839319726": {
+   "fragment_id": "839320176",
+   "type": 11,
+   "heading": "Artigo 24.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Competência\n\nAlém das atribuições constantes da lei compete, em especial, ao conselho fiscal:\n\na) Assistir às reuniões do conselho de administração sempre que o entenda conveniente;\n\nb) Emitir parecer sobre qualquer matéria que lhe seja apresentada pelo conselho de administração;\n\nc) Colocar ao conselho de administração qualquer assunto que por ele deva ser ponderado."
+  },
+  "839319727": {
+   "fragment_id": "839320177",
+   "type": 11,
+   "heading": "Artigo 25.º — Reuniões e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Reuniões e deliberações\n\n1 - O conselho fiscal reúne ordinariamente uma vez por mês e extraordinariamente sempre que for convocado pelo seu presidente.\n\n2 - As deliberações do conselho fiscal são tomadas por maioria tendo o presidente voto de qualidade, em caso de empate."
+  },
+  "839319728": {
+   "fragment_id": "839320178",
+   "type": 1,
+   "heading": "Capítulo IV — Ano social, aplicação de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Ano social, aplicação de resultados"
+  },
+  "839319729": {
+   "fragment_id": "839320179",
+   "type": 11,
+   "heading": "Artigo 26.º — Ano social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Ano social\n\nO ano social coincide com o ano civil."
+  },
+  "839319730": {
+   "fragment_id": "839320180",
+   "type": 11,
+   "heading": "Artigo 27.º — Aplicação de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Aplicação de resultados\n\nOs lucros líquidos anuais, devidamente aprovados, terão a seguinte aplicação:\n\na) Um mínimo de 20% para constituição ou reintegração da reserva legal, sem limite;\n\nb) Uma percentagem a atribuir, como participação nos lucros, aos trabalhadores e aos membros do conselho de administração;\n\nc) O restante para os fins que a assembleia geral deliberar, devendo para o efeito o conselho de administração apresentar uma proposta."
+  },
+  "839321084": {
+   "fragment_id": "838999342",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2005-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56-A/2005 - Diário da República n.º 44/2005, 1º Suplemento, Série I-A de 2005-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-a-2005-613684), em vigor a partir de 2005-03-04"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - São revogados, salvo no que respeita à sua aplicação à Caixa Geral de Aposentações, e com as ressalvas constantes do presente artigo, os seguintes diplomas:\n\na) O Decreto-Lei n.º 48953, de 5 de Abril de 1969;\n\nb) O Decreto-Lei n.º 693/70, de 31 de Dezembro;\n\nc) O Decreto n.º 694/70, de 31 de Dezembro;\n\nd) O Decreto-Lei n.º 265/75, de 28 de Maio.\n\n2 - Exceptuam-se do disposto no número antecedente os seguintes preceitos, que se mantêm em vigor, com as necessárias adaptações:\n\na) Os artigos 39.º, 40.º, 43.º, 44.º, n.os 1 e 3, 45.º, 54.º, 56.º, 57.º, 65.º, n.os 1 e 2, e 70.º do Decreto-Lei n.º 48953, de 5 de Abril de 1969;\n\nb) Os artigos 13.º a 31.º e 35.º do regulamento aprovado pelo Decreto n.º 694/70, de 31 de Dezembro.\n\n3 - Mantêm-se também em vigor, mas unicamente para aplicação aos trabalhadores da Caixa que não tenham exercido a faculdade a que se refere o n.º 2 do artigo 7.º, e com as necessárias adaptações, os artigos 31.º, n.º 2, 32.º e 34.º, n.º 2, do Decreto-Lei n.º 48953, de 5 de Abril de 1969.\n\n4 - Os documentos que, titulando acto ou contrato realizado pela Caixa, prevejam a existência de uma obrigação de que a Caixa seja credora e estejam assinados pelo devedor revestem-se de força executiva, sem necessidade de outras formalidades.\n\n5 - As execuções pendentes à data da entrada em vigor do presente diploma continuam a reger-se, até final, pelas regras de competência e de processo vigentes nessa data.\n\n6 - Mantém-se igualmente em vigor o artigo 16.º do Decreto-Lei n.º 48953, de 5 de Abril de 1969, em relação às operações e aos contratos de depósito nele previstos que tenham sido realizados até à data de entrada em vigor do presente diploma, sem prejuízo do disposto na legislação que rege o Fundo de Garantia de Depósitos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 56-A/2005 - Diário da República n.º 44/2005, 1º Suplemento, Série I-A de 2005-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-a-2005-613684), em vigor a partir de 2005-03-04"
+  },
+  "839319694": {
+   "fragment_id": "838999344",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio.\n\nPromulgado em 3 de Agosto em 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 3 de Agosto de 1993.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "839321085": {
+   "fragment_id": "838999334",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2007-520188), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A Caixa Geral de Depósitos, Crédito e Previdência é transformada pelo presente diploma em sociedade anónima de capitais exclusivamente públicos, passando a denominar-se Caixa Geral de Depósitos, S. A., abreviadamente designada neste diploma por Caixa.\n\n2 - A Caixa rege-se pelo presente decreto-lei, pelos seus estatutos, pelas normas gerais e especiais aplicáveis às instituições de crédito, pela legislação aplicável às sociedades anónimas e pela demais legislação aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2007-520188), em vigor a partir de 2007-04-04"
+  },
+  "839321086": {
+   "fragment_id": "838999337",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2007-520188), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A Caixa tem o capital social de 275000000 de contos, totalmente subscrito pelo Estado e realizado por conversão da reserva conta capital, existente no seu balanço.\n\n2 - As acções representativas do capital social da Caixa, incluindo as que venham a ser emitidas em futuros aumentos de capital, só podem pertencer ao Estado e são detidas pela Direcção-Geral do Tesouro, nos termos previstos no artigo 10.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\n3 - Os direitos do Estado como accionista serão exercidos por representante designado por despacho do Ministro das Finanças.\n\n4 - Sempre que a lei ou os estatutos exijam deliberação da assembleia geral ou seja conveniente reuni-la, bastará que o representante do Estado exare a deliberação no livro de actas da sociedade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2007-520188), em vigor a partir de 2007-04-04"
+  },
+  "839321087": {
+   "fragment_id": "838999339",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2007-520188), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Sem prejuízo do disposto na lei comercial e no regime jurídico das empresas públicas quanto à prestação de informações aos accionistas, o conselho de administração envia ao Ministro das Finanças, pelo menos 30 dias antes da assembleia geral anual:\n\na) O relatório de gestão e as contas do exercício;\n\nb) Quaisquer elementos adicionais que se mostrem necessários à compreensão integral da situação económica e financeira da empresa e perspectiva da sua evolução.\n\n2 - O conselho fiscal enviará trimestralmente ao Ministério das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias e os principais desvios relativamente às previsões eventualmente detectados.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 106/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2007-520188), em vigor a partir de 2007-04-04"
+  }
+ }
+}

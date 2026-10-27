@@ -1,0 +1,217 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108068706:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-108200081",
+ "dre_path": "/dr/detalhe/decreto-lei/106-2017-108068706",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-08-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108168817",
+    "108168818",
+    "108168819",
+    "108168820",
+    "108168821",
+    "108168822",
+    "108168823",
+    "108168824",
+    "108168825",
+    "108168826",
+    "108168827",
+    "108168828",
+    "108168829",
+    "108168830"
+   ]
+  },
+  {
+   "date": "2017-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108193003:por",
+     "title": "Declaração de Retificação n.º 25/2017",
+     "published": "2017-09-22",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/25-2017-108193003"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º",
+    "Retifica Artigo 4.º",
+    "Retifica Artigo 10.º"
+   ],
+   "fragments": [
+    "108168817",
+    "108168818",
+    "108168819",
+    "108168834",
+    "108168835",
+    "108168822",
+    "108168823",
+    "108168824",
+    "108168825",
+    "108168826",
+    "108168836",
+    "108168828",
+    "108168829",
+    "108168830",
+    "108168831"
+   ]
+  }
+ ],
+ "fragments": {
+  "108168817": {
+   "fragment_id": "108200082",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 106/2017\n\nde 29 de agosto\n\nO regime jurídico da promoção da segurança e saúde no trabalho, constante da Lei n.º 102/2009, de 10 de setembro, alterada pelas Leis n.os 42/2012, de 28 de agosto, e 3/2014, de 28 de janeiro, pelo Decreto-Lei n.º 88/2015, de 28 de maio, e pelas Leis n.os 146/2015, de 9 de setembro, e 28/2016, de 23 de agosto, estabelece, nos n.os 5 e 6 do artigo 7.º, a publicação anual e a adequada divulgação de informação estatística sobre acidentes de trabalho, com a caracterização adequada a contribuir para estudos epidemiológicos, a conceção de programas e medidas de prevenção de riscos profissionais de âmbito nacional e setorial e o controlo periódico dos resultados.\n\nO regime jurídico da reparação de acidentes de trabalho, constante da Lei n.º 98/2009, de 4 de setembro, prevê, no artigo 87.º, que, em caso de acidente de trabalho, o empregador que tenha transferido a responsabilidade para um segurador deve participar a este a ocorrência, por meio informático, podendo porém, no caso de microempresa, participar em suporte de papel.\n\nAtualmente, a produção de informação estatística sobre acidentes de trabalho regulada pelo Decreto-Lei n.º 362/93, de 15 de outubro, tem custos administrativos muito elevados decorrentes da circunstância de o serviço da área governativa responsável pela área laboral competente para proceder ao apuramento estatístico receber informação do universo dos acidentes de trabalho em suporte de papel que dificulta o tratamento de dados informáticos. Para obviar a esta dificuldade, determina-se que os empregadores, ao participar acidentes de trabalho aos seguradores, devem utilizar um novo modelo uniforme aprovado para o efeito.\n\nAssim é revogado o Decreto-Lei n.º 362/93, de 15 de outubro, mas apenas na parte relativa ao regime de informação estatística sobre acidentes de trabalho cuja responsabilidade pela reparação tenha sido transferida para um segurador (setor privado incluindo o cooperativo e o social, e a trabalhadores independentes e setor público).\n\nForam ouvidos os órgãos próprios das Regiões Autónomas, os membros da Comissão Permanente de Concertação Social do Conselho Económico e Social e o Conselho Superior de Estatística.\n\nFoi promovida a audição da Autoridade de Supervisão de Seguros e Fundos de Pensões e da Associação Portuguesa de Seguradores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108168818": {
+   "fragment_id": "108200083",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei regula a recolha, publicação e divulgação da informação estatística oficial sobre acidentes de trabalho."
+  },
+  "108168819": {
+   "fragment_id": "108200084",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei é aplicável ao setor privado, incluindo o cooperativo e o social, bem como a trabalhadores independentes e às entidades públicas que tenham transferido a responsabilidade de reparação do acidente de trabalho para um segurador."
+  },
+  "108168820": {
+   "fragment_id": "108200085",
+   "type": 11,
+   "heading": "Artigo 3.º — Participação de acidente de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Participação de acidente de trabalho\n\n1 - No cumprimento do dever previsto no artigo 87.º da Lei n.º 98/2009, de 4 de setembro, o empregador ou o trabalhador independente sinistrado deve, na participação de acidente de trabalho ao segurador, utilizar o modelo aprovado para o efeito.\n\n2 - Os seguradores devem enviar ao serviço da área governativa responsável pela área laboral competente para proceder ao apuramento estatístico:\n\na) Em relação a participações recebidas em suporte eletrónico de dados por meio informático, informação referente a matérias discriminadas em portaria;\n\nb) Em relação a participações recebidas em suporte de papel, designadamente por parte de microempresas de trabalhadores independentes ou de serviço doméstico, a respetiva cópia digitalizada, bem como a informação em suporte eletrónico de dados por meio informático de alguns elementos destas participações discriminados em portaria."
+  },
+  "108168821": {
+   "fragment_id": "108200086",
+   "type": 11,
+   "heading": "Artigo 4.º — Informação adicional sobre acidentes de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informação adicional sobre acidentes de trabalho\n\nAs entidades referidas no artigo 2.º devem enviar ao serviço da área governativa responsável pela área laboral competente para proceder ao apuramento estatístico informação adicional para se proceder ao encerramento do processo de recolha de informação estatística relativa aos acidentes de trabalho."
+  },
+  "108168822": {
+   "fragment_id": "108200087",
+   "type": 11,
+   "heading": "Artigo 5.º — Recolha, tratamento e transmissão centralizada de informação relativa a acidentes de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recolha, tratamento e transmissão centralizada de informação relativa a acidentes de trabalho\n\nOs seguradores e as respetivas associações representativas podem, mediante acordo com o serviço da área governativa responsável pela área laboral competente para proceder ao apuramento estatístico, instituir sistemas centralizados de recolha, tratamento e transmissão de dados relativos aos acidentes de trabalho, para efeitos do n.º 2 do artigo 3.º e do artigo anterior."
+  },
+  "108168823": {
+   "fragment_id": "108200088",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção e divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção e divulgação\n\nO serviço da área governativa responsável pela área laboral competente para proceder ao apuramento estatístico assegura a produção e divulgação das estatísticas oficiais sobre acidentes de trabalho, no âmbito da delegação de competências do Instituto Nacional de Estatística, I. P."
+  },
+  "108168824": {
+   "fragment_id": "108200089",
+   "type": 11,
+   "heading": "Artigo 7.º — Dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dados pessoais\n\nO registo e o tratamento informático dos elementos estatísticos a que se refere o presente decreto-lei devem assegurar a proteção de dados pessoais, nos termos da legislação aplicável."
+  },
+  "108168825": {
+   "fragment_id": "108200090",
+   "type": 11,
+   "heading": "Artigo 8.º — Contraordenações laborais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contraordenações laborais\n\n1 - Constitui contraordenação leve a violação do disposto no n.º 1 do artigo 3.º\n\n2 - O regime geral das contraordenações laborais previsto nos artigos 548.º a 566.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, aplica-se à infração decorrente da violação do artigo previsto no número anterior.\n\n3 - O processamento das contraordenações laborais segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro, alterada pela Lei n.º 63/2013, de 27 de agosto."
+  },
+  "108168826": {
+   "fragment_id": "108200091",
+   "type": 11,
+   "heading": "Artigo 9.º — Contraordenações estatísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contraordenações estatísticas\n\n1 - Constitui contraordenação grave, punida com coima prevista no n.º 2 do artigo 27.º da Lei n.º 22/2008, de 13 de maio, a violação do disposto no n.º 2 do artigo 3.º e no artigo 4.º, e do prazo de envio de informações estabelecido em portaria, a que se refere o artigo seguinte.\n\n2 - A negligência é punível.\n\n3 - O regime previsto nos n.os 3 a 6 do artigo 27.º e nos artigos 28.º a 31.º da Lei n.º 22/2008, de 13 de maio, aplica-se às contraordenações previstas no n.º 1."
+  },
+  "108168827": {
+   "fragment_id": "108200092",
+   "type": 11,
+   "heading": "Artigo 10.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regulamentação\n\nO modelo de participação de acidentes de trabalho, o conteúdo das informações a que se refere o n.º 2 do artigo 3.º e da informação adicional a que se refere o n.º 1 do artigo 4.º, bem como o prazo e a forma de envio destas informações e do suporte digital de participações de acidentes de trabalho feitas em suporte de papel são aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças e laboral, ouvidas as associações representativas dos seguradores."
+  },
+  "108168828": {
+   "fragment_id": "108200093",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação às Regiões Autónomas\n\nNa aplicação do presente decreto-lei às Regiões Autónomas, são tidas em conta as competências legais e regulamentares atribuídas aos respetivos órgãos e serviços regionais."
+  },
+  "108168829": {
+   "fragment_id": "108200094",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 362/93, de 15 de outubro, na parte relativa ao regime de informação estatística sobre acidentes de trabalho no setor privado incluindo o cooperativo e o social, e a trabalhadores independentes."
+  },
+  "108168830": {
+   "fragment_id": "108200095",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 90 dias após a sua publicação."
+  },
+  "108168834": {
+   "fragment_id": "108200085",
+   "type": 11,
+   "heading": "Artigo 3.º — Participação de acidente de trabalho",
+   "in_force_from": "2017-11-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 25/2017 - Diário da República n.º 184/2017, Série I de 2017-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2017-108193003), em vigor a partir de 2017-11-27"
+   ],
+   "markdown": "###### Artigo 3.º — Participação de acidente de trabalho\n\n1 - No cumprimento do dever previsto no artigo 87.º da Lei n.º 98/2009, de 4 de setembro, o empregador ou o trabalhador independente sinistrado deve, na participação de acidente de trabalho ao segurador, utilizar o modelo aprovado para o efeito.\n\n2 - Os seguradores devem enviar ao serviço da área governativa responsável pela área laboral competente para proceder ao apuramento estatístico:\n\na) Em relação a participações recebidas em suporte eletrónico de dados por meio informático, informação referente a matérias discriminadas em portaria;\n\nb) Em relação a participações recebidas em suporte de papel, designadamente por parte de microempresas, de trabalhadores independentes ou de serviço doméstico, a respetiva cópia digitalizada, bem como a informação em suporte eletrónico de dados por meio informático de alguns elementos destas participações discriminados em portaria.\n\n> Retificado pelo/a [Declaração de Retificação n.º 25/2017 - Diário da República n.º 184/2017, Série I de 2017-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2017-108193003), em vigor a partir de 2017-11-27"
+  },
+  "108168835": {
+   "fragment_id": "108200086",
+   "type": 11,
+   "heading": "Artigo 4.º — Informação adicional sobre acidentes de trabalho",
+   "in_force_from": "2017-11-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 25/2017 - Diário da República n.º 184/2017, Série I de 2017-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2017-108193003), em vigor a partir de 2017-11-27"
+   ],
+   "markdown": "###### Artigo 4.º — Informação adicional sobre acidentes de trabalho\n\nAs entidades referidas no n.º 2 do artigo 3.º devem enviar ao serviço da área governativa responsável pela área laboral competente para proceder ao apuramento estatístico informação adicional para se proceder ao encerramento do processo de recolha de informação estatística relativa aos acidentes de trabalho.\n\n> Retificado pelo/a [Declaração de Retificação n.º 25/2017 - Diário da República n.º 184/2017, Série I de 2017-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2017-108193003), em vigor a partir de 2017-11-27"
+  },
+  "108168836": {
+   "fragment_id": "108200092",
+   "type": 11,
+   "heading": "Artigo 10.º — Regulamentação",
+   "in_force_from": "2017-11-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 25/2017 - Diário da República n.º 184/2017, Série I de 2017-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2017-108193003), em vigor a partir de 2017-11-27"
+   ],
+   "markdown": "###### Artigo 10.º — Regulamentação\n\nO modelo de participação de acidentes de trabalho, o conteúdo das informações a que se refere o n.º 2 do artigo 3.º e da informação adicional a que se refere o artigo 4.º, bem como o prazo e a forma de envio destas informações e do suporte digital de participações de acidentes de trabalho feitas em suporte de papel são aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças e laboral, ouvidas as associações representativas dos seguradores.\n\n> Retificado pelo/a [Declaração de Retificação n.º 25/2017 - Diário da República n.º 184/2017, Série I de 2017-09-22](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/25-2017-108193003), em vigor a partir de 2017-11-27"
+  },
+  "108168831": {
+   "fragment_id": "108200096",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de junho de 2017. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - José António Fonseca Vieira da Silva.\n\nPromulgado em 28 de junho de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 30 de junho de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

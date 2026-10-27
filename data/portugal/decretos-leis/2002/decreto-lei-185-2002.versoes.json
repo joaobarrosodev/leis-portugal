@@ -1,0 +1,1709 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:171692:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-57189275",
+ "dre_path": "/dr/detalhe/decreto-lei/185-2002-171692",
+ "source_lastmod": "2024-07-04",
+ "versions": [
+  {
+   "date": "2002-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870784958",
+    "57189376",
+    "57189377",
+    "57189378",
+    "57189379",
+    "57189380",
+    "57189381",
+    "57189382",
+    "57189383",
+    "57189384",
+    "57189385",
+    "57189386",
+    "57189387",
+    "57189388",
+    "57189389",
+    "57189390",
+    "57189391",
+    "57189392",
+    "57189393",
+    "57189394",
+    "57189395",
+    "57189396",
+    "57189397",
+    "57189398",
+    "57189399",
+    "57189400",
+    "57189401",
+    "57189402",
+    "57189403",
+    "57189404",
+    "57189405",
+    "57189406",
+    "57189407",
+    "57189408",
+    "57189409",
+    "57189410",
+    "57189411",
+    "57189412",
+    "57189413",
+    "57189414",
+    "57189415",
+    "57189416",
+    "57189417",
+    "57189418",
+    "57189419",
+    "57189420",
+    "57189421",
+    "57189422"
+   ]
+  },
+  {
+   "date": "2003-04-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:240646:por",
+     "title": "Decreto-Lei n.º 86/2003",
+     "published": "2003-04-26",
+     "dre_path": "/dr/detalhe/decreto-lei/86-2003-240646"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 18.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "57189375",
+    "57189376",
+    "870784922",
+    "57189378",
+    "57189379",
+    "870784925",
+    "57189381",
+    "57189382",
+    "57189383",
+    "57189384",
+    "57189385",
+    "57189386",
+    "57189387",
+    "57189388",
+    "57189389",
+    "870784923",
+    "57189391",
+    "57189392",
+    "57189393",
+    "57189394",
+    "57189395",
+    "57189396",
+    "870784924",
+    "57189398",
+    "57189399",
+    "57189400",
+    "57189401",
+    "57189402",
+    "57189403",
+    "57189404",
+    "57189405",
+    "57189406",
+    "57189407",
+    "57189408",
+    "57189409",
+    "57189410",
+    "57189411",
+    "57189412",
+    "57189413",
+    "57189414",
+    "57189415",
+    "57189416",
+    "57189417",
+    "57189418",
+    "57189419",
+    "57189420",
+    "57189421",
+    "57189422",
+    "57189423"
+   ]
+  },
+  {
+   "date": "2008-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:248178:por",
+     "title": "Decreto-Lei n.º 18/2008",
+     "published": "2008-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/18-2008-248178"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º"
+   ],
+   "fragments": [
+    "57189375",
+    "57189376",
+    "870784922",
+    "57189378",
+    "57189379",
+    "870784925",
+    "57189381",
+    "57189382",
+    "57189383",
+    "57189384",
+    "57189385",
+    "57189386",
+    "57189387",
+    "57189388",
+    "57189389",
+    "870784923",
+    "57189391",
+    "870784926",
+    "57189393",
+    "870784927",
+    "870784928",
+    "870784929",
+    "870784924",
+    "57189398",
+    "57189399",
+    "57189400",
+    "57189401",
+    "57189402",
+    "57189403",
+    "870784930",
+    "870784931",
+    "57189406",
+    "870784932",
+    "870784933",
+    "870784934",
+    "870784935",
+    "870784936",
+    "870784937",
+    "57189413",
+    "57189414",
+    "57189415",
+    "57189416",
+    "57189417",
+    "57189418",
+    "57189419",
+    "57189420",
+    "57189421",
+    "57189422",
+    "57189423"
+   ]
+  },
+  {
+   "date": "2009-08-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493009:por",
+     "title": "Decreto-Lei n.º 176/2009",
+     "published": "2009-08-04",
+     "dre_path": "/dr/detalhe/decreto-lei/176-2009-493009"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "57189375",
+    "57189376",
+    "870784922",
+    "57189378",
+    "57189379",
+    "870784925",
+    "57189381",
+    "870784938",
+    "57189383",
+    "57189384",
+    "57189385",
+    "57189386",
+    "870784939",
+    "57189388",
+    "57189389",
+    "870784923",
+    "57189391",
+    "870784926",
+    "57189393",
+    "870784927",
+    "870784928",
+    "870784929",
+    "870784924",
+    "57189398",
+    "57189399",
+    "57189400",
+    "57189401",
+    "57189402",
+    "57189403",
+    "870784930",
+    "870784931",
+    "57189406",
+    "870784932",
+    "870784933",
+    "870784934",
+    "870784935",
+    "870784936",
+    "870784937",
+    "57189413",
+    "57189414",
+    "57189415",
+    "57189416",
+    "57189417",
+    "57189418",
+    "57189419",
+    "57189420",
+    "57189421",
+    "57189422",
+    "57189423"
+   ]
+  },
+  {
+   "date": "2012-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177863:por",
+     "title": "Decreto-Lei n.º 111/2012",
+     "published": "2012-05-23",
+     "dre_path": "/dr/detalhe/decreto-lei/111-2012-177863"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º",
+    "Altera Artigo 35.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º"
+   ],
+   "fragments": [
+    "57189375",
+    "57189376",
+    "870784922",
+    "57189378",
+    "870784940",
+    "870784941",
+    "57189381",
+    "870784942",
+    "870784943",
+    "57189384",
+    "57189385",
+    "57189386",
+    "870784939",
+    "57189388",
+    "870784944",
+    "870784945",
+    "870784946",
+    "870784926",
+    "57189393",
+    "870784927",
+    "870784928",
+    "870784929",
+    "870784947",
+    "870784956",
+    "870784948",
+    "870784949",
+    "870784950",
+    "870784951",
+    "57189403",
+    "870784930",
+    "870784931",
+    "57189406",
+    "870784932",
+    "870784933",
+    "870784934",
+    "870784935",
+    "870784936",
+    "870784937",
+    "870784952",
+    "870784953",
+    "57189415",
+    "57189416",
+    "870784957",
+    "57189418",
+    "57189419",
+    "870784954",
+    "870784955",
+    "57189422",
+    "57189423"
+   ]
+  },
+  {
+   "date": "2019-11-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124417108:por",
+     "title": "Lei n.º 95/2019",
+     "published": "2019-09-04",
+     "dre_path": "/dr/detalhe/lei/95-2019-124417108"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "870784958",
+    "870784959",
+    "870784960",
+    "870784961",
+    "870784962",
+    "870784963",
+    "870784964",
+    "870784965",
+    "870784966",
+    "870784967",
+    "870784968",
+    "870784969",
+    "870784970",
+    "870784971",
+    "870784972",
+    "870784973",
+    "870784974",
+    "871044575",
+    "871044576",
+    "871044577",
+    "871044578",
+    "871044579",
+    "871044580",
+    "871044581",
+    "871044582",
+    "871044583",
+    "871044584",
+    "871044585",
+    "871044586",
+    "871044587",
+    "871044588",
+    "871044589",
+    "871044590",
+    "871044591",
+    "871044592",
+    "871044593",
+    "871044594",
+    "871044595",
+    "871044596",
+    "871044597",
+    "871044598",
+    "871044599",
+    "871044600",
+    "871044601",
+    "871044602",
+    "871044603",
+    "871044604",
+    "871044605",
+    "871044606"
+   ]
+  }
+ ],
+ "fragments": {
+  "870784958": {
+   "fragment_id": "57189276",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-11-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 185/2002\n\nde 20 de Agosto\n\nConstitui uma das prioridades do Governo o aprofundamento das experiências inovadoras de gestão de natureza empresarial e de mobilização do investimento não público no sistema de saúde, fazendo participar crescentemente os sectores privado e social nos diferentes modelos e formas contratuais, com vista a obter uma progressiva racionalização das funções financiamento e contratação e da função prestação de cuidados de saúde.\n\nPor outro lado, assume particular destaque para a reforma da saúde o estabelecimento, no âmbito do Serviço Nacional de Saúde, de parcerias público/privado através da concessão da gestão de unidades prestadoras de cuidados a entidades privadas ou de natureza social ou pelo investimento conjunto entre estas entidades e o Estado, segundo princípios de eficiência, responsabilização, contratualização e de demonstração de benefícios para o serviço público de saúde.\n\nAs parcerias em saúde, em regime de gestão e financiamento privados, visam, fundamentalmente, obter melhores serviços com partilha de riscos e benefícios mútuos entre as entidades públicas que têm a responsabilidade pelos serviços públicos e outras entidades que se lhe associam com carácter duradouro.\n\nNuma área da maior importância para o bem-estar dos cidadãos como é a saúde é necessário que o estabelecimento de parcerias seja feito articuladamente e com uma perspectiva sistemática. Na verdade, não é desejável que a prossecução do serviço público de saúde com recurso a parcerias com outras entidades, em regime de gestão e financiamento privados, seja feita sem que se estabeleçam os princípios gerais a que essas actividades devem estar sujeitas. O sistema de saúde constitui um todo articulado de meios que exige um acompanhamento permanente e uma actividade global de monitorização que permita que a política de parcerias com recurso a gestão e financiamento privados seja correctamente executada.\n\nJustifica-se, assim, genericamente, a publicação de um diploma enquadrador para o estabelecimento das parcerias em saúde, em regime de gestão e financiamento privados, nele sendo estabelecidos os princípios e os instrumentos enformadores.\n\nUm instrumento privilegiado de estabelecimento de parcerias em saúde com recurso a gestão e financiamento privados é o contrato de gestão, o qual se encontra previsto na Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de Agosto, mas limitadamente configurado no Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro. Na verdade, o contrato de gestão constitui um instrumento de natureza concessória que tem por referencial um estabelecimento de saúde prestador, podendo através dele o Estado associar privados na prossecução do serviço público de saúde com transferência e partilha de riscos e recurso a financiamento de outras entidades. O contrato de gestão reveste, assim, a natureza de verdadeiro contrato de concessão de serviço público, embora a sua designação pretenda clarificar que, no âmbito da saúde, o Estado mantém em maior grau a responsabilidade, designadamente porque é necessário que todos os cidadãos, sem excepção, tenham o acesso a cuidados de saúde através de um Serviço Nacional de Saúde que observe as características de generalidade e universalidade, ainda que com o concurso de outras entidades na sua gestão. O contrato de gestão constitui, por isso, a matriz dos instrumentos contratuais para o estabelecimento das parcerias, pelo que os restantes meios de as concretizar o têm por modelo.\n\nEmbora o enfoque seja dado pelas parcerias que envolvem a responsabilidade pela realização das prestações de saúde, importa não descurar outras soluções testadas internacionalmente que se limitam ao apoio indirecto do serviço público de saúde. Deste modo, o regime jurídico das parcerias equacionado por este diploma tem uma amplitude que permite acolher opções que envolvam simples participação de outras entidades no âmbito dos estabelecimentos de saúde com exclusão da responsabilidade pelas prestações de saúde e, portanto, sem transferência de risco quanto a estas. Na verdade, ainda que o estabelecimento destas parcerias já seja hoje possível e já existam na prática experiências limitadas julga-se conveniente submeter estas soluções a uma disciplina e princípios uniformes.\n\nPor outro lado, importa frisar que todos os tipos de prestações de saúde podem ser objecto de parcerias (primários, diferenciados e continuados), cabendo a cada um dos modelos em concreto estabelecer as formas adequadas de contratação para cada situação.\n\nA regulamentação de uma tão ampla plêiade de soluções de parcerias em saúde aconselha a que se prevejam os mecanismos que em cada momento sejam ajustados aos objectivos traçados. Por isso, estabeleceu-se um grau de densidade mínima do acto legislativo, remetendo para regulamentação posterior a definição de alguns aspectos de regime.\n\nAssumindo o contrato de gestão a natureza de uma técnica concessória, torna-se evidente que o seu regime jurídico esteja ajustado aos traços comuns das concessões de serviço público.\n\nO estabelecimento de parcerias com carácter sistemático impõe numa fase futura uma actividade reguladora que se reveste da maior importância numa área de tão grande sensibilidade como é a saúde, onde se pretende que sejam alcançadas melhores prestações de saúde com menores custos. Neste sentido habilita-se uma solução para definir os contornos desta actividade.\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "57189376": {
+   "fragment_id": "57189277",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "57189377": {
+   "fragment_id": "57189278",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma define os princípios e os instrumentos para o estabelecimento de parcerias em saúde, em regime de gestão e financiamento privados, entre o Ministério da Saúde ou instituições e serviços integrados no Serviço Nacional de Saúde e outras entidades."
+  },
+  "57189378": {
+   "fragment_id": "57189279",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - O estabelecimento de parcerias em saúde tem por objecto a associação duradoura de entidades dos sectores privado e social à realização directa de prestações de saúde, ao nível dos cuidados de saúde primários, diferenciados e continuados, ou o apoio directo ou indirecto à sua realização no âmbito do serviço público de saúde assegurado pelo Serviço Nacional de Saúde.\n\n2 - As parcerias em saúde envolvem uma ou mais das actividades de concepção, construção, financiamento, conservação e exploração dos estabelecimentos integrados ou a integrar no Serviço Nacional de Saúde, com transferência e partilha de riscos e recurso a financiamento de outras entidades."
+  },
+  "57189379": {
+   "fragment_id": "57189280",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios\n\nO desenvolvimento de parcerias em saúde em regime de gestão e financiamento privados deve respeitar os seguintes princípios:\n\na) Os objectivos devem ser claramente enunciados, definindo-se pelos seus resultados e não pelos meios necessários à obtenção destes;\n\nb) A duração deve ter em conta o período de vida útil dos activos subjacentes à prestação da actividade objecto da parceria;\n\nc) A distribuição de riscos deve ser feita atribuindo-os às partes mais competentes para a sua gestão;\n\nd) O procedimento de contratação deve, em regra, ter um carácter competitivo;\n\ne) A contratação deve ser precedida de uma avaliação prévia sobre a sua economia, eficiência e eficácia, bem como de uma análise da respectiva suportabilidade financeira."
+  },
+  "57189380": {
+   "fragment_id": "57189281",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos prévios à contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimentos prévios à contratação\n\nPodem ser iniciados procedimentos prévios à contratação tendentes ao estabelecimento de parcerias, desde que previamente autorizados por despacho conjunto dos Ministros das Finanças e da Saúde."
+  },
+  "57189381": {
+   "fragment_id": "57189282",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrumentos contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Instrumentos contratuais\n\n1 - Constituem instrumentos para o estabelecimento de parcerias em saúde com recurso a gestão e financiamento privados, entre outros, os seguintes:\n\na) Contrato de gestão;\n\nb) Contrato de prestação de serviços;\n\nc) Contrato de colaboração.\n\n2 - As parcerias podem resultar de contratos mistos ou de união de contratos, independentemente da classificação orçamental da despesa."
+  },
+  "57189382": {
+   "fragment_id": "57189283",
+   "type": 11,
+   "heading": "Artigo 6.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Mobilidade\n\n1 - Sem prejuízo da aplicação do regime da requisição e da licença sem vencimento previstas nos artigos 21.º e 22.º, bem como do regime do artigo 32.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, o pessoal com relação jurídica de emprego público que detenha a qualidade de agente ou funcionário pode ser contratado por outras entidades em regime de comissão de serviço para as actividades a exercer em regime de parceria no âmbito deste diploma, mantendo todos os direitos inerentes ao seu quadro, incluindo os benefícios de aposentação ou reforma e sobrevivência, relevando o período de comissão de serviço como serviço prestado nesse quadro.\n\n2 - A comissão de serviço é autorizada pelo Ministro da Saúde, com faculdade de delegação.\n\n3 - O pessoal a que se refere o n.º 1 pode ser opositor a concursos de acesso da respectiva carreira mesmo na vigência da comissão de serviço.\n\n4 - A retribuição relevante para o cálculo dos descontos para a Caixa Geral de Aposentações e da pensão do pessoal a que se refere o n.º 1 é a que corresponde à do seu lugar de origem."
+  },
+  "57189383": {
+   "fragment_id": "57189284",
+   "type": 11,
+   "heading": "Artigo 7.º — Activos patrimoniais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Activos patrimoniais\n\nO estabelecimento de parcerias, em qualquer das suas modalidades, pode envolver a alienação de património do Estado ou de outras entidades públicas, nos termos a estabelecer nos respectivos instrumentos contratuais."
+  },
+  "57189384": {
+   "fragment_id": "57189285",
+   "type": 1,
+   "heading": "Capítulo II — Contrato de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Contrato de gestão"
+  },
+  "57189385": {
+   "fragment_id": "57189286",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "57189386": {
+   "fragment_id": "57189287",
+   "type": 11,
+   "heading": "Artigo 8.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Objecto\n\n1 - O contrato de gestão tem por objecto principal assegurar as prestações de saúde promotoras, preventivas ou terapêuticas, correspondentes ao serviço público de saúde através de um estabelecimento de saúde, ou parte funcionalmente autónoma, integrado ou a integrar no Serviço Nacional de Saúde.\n\n2 - O contrato de gestão pode ainda ter por objecto a concepção, construção, financiamento, conservação e exploração do estabelecimento, ou de parte funcionalmente autónoma.\n\n3 - As partes no contrato de gestão são a entidade pública contratante e a entidade gestora.\n\n4 - A entidade pública contratante é o Estado ou qualquer outra pessoa colectiva pertencente ao Ministério da Saúde ou integrada no Serviço Nacional de Saúde."
+  },
+  "57189387": {
+   "fragment_id": "57189288",
+   "type": 11,
+   "heading": "Artigo 9.º — Integração no Serviço Nacional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Integração no Serviço Nacional de Saúde\n\n1 - A entidade gestora deve assegurar as prestações de saúde nos termos dos demais estabelecimentos que integram o Serviço Nacional de Saúde.\n\n2 - O estabelecimento afecto ao contrato de gestão deve garantir, nomeadamente, a continuidade dos cuidados de saúde e o acesso dos utentes do Serviço Nacional de Saúde de acordo com a articulação definida e as responsabilidades que lhe estão atribuídas.\n\n3 - O contrato de gestão fixa as obrigações da entidade gestora para efeitos dos números anteriores.\n\n4 - O contrato de gestão deve, ainda, regular as actividades acessórias que a entidade gestora pode prosseguir, bem como a possibilidade de utilizar o estabelecimento para a realização de prestações de saúde fora do âmbito do serviço público que assegura, desde que esta utilização se faça, comprovadamente, sem prejuízo das obrigações de serviço público."
+  },
+  "57189388": {
+   "fragment_id": "57189289",
+   "type": 11,
+   "heading": "Artigo 10.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entidade gestora\n\n1 - A entidade gestora deve oferecer garantias de idoneidade, qualificação técnica e capacidade financeira que satisfaçam os requisitos que forem fixados no programa do procedimento prévio à contratação.\n\n2 - A entidade gestora deve ser uma sociedade comercial com sede e administração principal localizadas em Portugal e cujo objecto exclusivo deve ser o exercício da actividade a conceder."
+  },
+  "57189389": {
+   "fragment_id": "57189290",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prazo\n\nO contrato de gestão não pode exceder o prazo de 30 anos, podendo ser prorrogado nos termos fixados nos documentos contratuais."
+  },
+  "57189390": {
+   "fragment_id": "57189291",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências dos Ministros das Finanças e da Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências dos Ministros das Finanças e da Saúde\n\n1 - Compete ao Ministro da Saúde, com faculdade de delegação, a qual pode, por sua vez, ser subdelegada, o seguinte:\n\na) Autorizar a abertura de procedimentos conducentes à outorga de contratos de gestão;\n\nb) Escolher o co-contratante e decidir sobre a conveniência de declarar sem efeito procedimentos iniciados, bem como da não adjudicação do contrato de gestão aos concorrentes;\n\nc) Aprovar e autorizar a celebração dos contratos de gestão;\n\nd) Declarar a utilidade pública das expropriações dos terrenos necessários à execução das actividades objecto do contrato de gestão e designar a entidade que, em nome do Estado, conduzirá a realização dos processos expropriativos dos bens ou direitos necessários à execução do contrato de gestão;\n\ne) Autorizar a prorrogação dos prazos dos contratos;\n\nf) Superintender no acompanhamento e fiscalização da execução dos contratos de gestão;\n\ng) Decidir sobre a aplicação de multas, o sequestro e a extinção do contrato de gestão.\n\n2 - Sem prejuízo das competências conferidas no número anterior ao Ministro da Saúde, cabe ao Ministro das Finanças:\n\na) Apreciar as implicações financeiras decorrentes dos contratos de gestão, antes da sua adjudicação;\n\nb) Efectuar o acompanhamento e controlo concomitante e a posteriori da execução financeira dos contratos de gestão."
+  },
+  "57189391": {
+   "fragment_id": "57189292",
+   "type": 11,
+   "heading": "Artigo 13.º — Procedimento prévio à contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Procedimento prévio à contratação\n\n1 - A celebração de contratos de gestão deve ser precedida de procedimento concursal específico.\n\n2 - O procedimento a que se refere o número anterior pode conter uma fase de negociação de acordo com o estabelecido no respectivo programa de procedimento tipo.\n\n3 - Excepcionalmente, nos casos em que a execução do contrato de gestão pressuponha exigências especiais, nomeadamente quando seja indispensável a associação de entidades com especiais qualificações técnicas, a escolha do co-contratante é decidida por despacho do Ministro da Saúde.\n\n4 - O procedimento prévio à contratação pode ser declarado sem efeito ou não haver adjudicação a qualquer dos concorrentes após a sua abertura, com fundamento em razões de interesse público ou por as propostas serem inaceitáveis."
+  },
+  "57189392": {
+   "fragment_id": "57189293",
+   "type": 11,
+   "heading": "Artigo 14.º — Programa do procedimento e caderno de encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Programa do procedimento e caderno de encargos\n\n1 - As condições gerais dos procedimentos prévios à contratação bem como o caderno de encargos tipo do contrato de gestão são aprovados por decreto regulamentar.\n\n2 - Para efeitos do número anterior devem ser reguladas, nomeadamente, as seguintes matérias:\n\na) As exigências especiais relativamente aos concorrentes e à entidade gestora;\n\nb) O critério de apreciação das propostas e respectivos factores;\n\nc) As normas relativas à tramitação do procedimento prévio à contratação, incluindo eventuais garantias a prestar pelos concorrentes;\n\nd) A duração do contrato de gestão;\n\ne) A responsabilidade pela concepção, projecto e construção do estabelecimento, quando for aplicável;\n\nf) A necessidade de estudos prévios a realizar pelos concorrentes;\n\ng) A responsabilidade pelos custos directos e indirectos resultantes da execução das obras;\n\nh) A responsabilidade pela qualidade do estabelecimento;\n\ni) As regras sobre garantia de qualidade das prestações realizadas pela entidade gestora;\n\nj) A possibilidade de alterações aos estabelecimentos já existentes, quando for o caso;\n\nl) As responsabilidades de serviço público de saúde que devem ser asseguradas pela entidade gestora;\n\nm) A articulação funcional do estabelecimento incluído no objecto do contrato de gestão com os restantes estabelecimentos integrados no Serviço Nacional de Saúde (SNS);\n\nn) As condições e mecanismos de alteração da prestação da entidade gestora e da remuneração, bem como da modificação objectiva e subjectiva do contrato;\n\no) Os mecanismos de acompanhamento e fiscalização da execução do contrato;\n\np) Os critérios para a fixação de indemnização da entidade gestora em caso de resgate ou rescisão unilateral não imputável à entidade gestora.\n\n3 - O programa do procedimento e o caderno de encargos específicos relativos a cada um dos contratos de gestão são aprovados por despacho do Ministro da Saúde."
+  },
+  "57189393": {
+   "fragment_id": "57189294",
+   "type": 8,
+   "heading": "Secção II — Direitos e deveres dos contratantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direitos e deveres dos contratantes"
+  },
+  "57189394": {
+   "fragment_id": "57189295",
+   "type": 11,
+   "heading": "Artigo 15.º — Poderes da entidade pública contratante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Poderes da entidade pública contratante\n\n1 - A entidade pública contratante deve regulamentar e fiscalizar o exercício do contrato de gestão, com vista a assegurar a regularidade, continuidade e qualidade das prestações de saúde, bem como a comodidade e segurança dos utentes.\n\n2 - Os poderes decorrentes do número anterior são exercidos nos termos estabelecidos no contrato de gestão, o qual deve, neste âmbito, prever, designadamente:\n\na) Os poderes de fiscalização da entidade pública contratante;\n\nb) Os actos de gestão da entidade gestora sujeitos a autorização, aprovação ou homologação da entidade pública contratante."
+  },
+  "57189395": {
+   "fragment_id": "57189296",
+   "type": 11,
+   "heading": "Artigo 16.º — Deveres da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Deveres da entidade gestora\n\n1 - As entidades gestoras são obrigadas a:\n\na) Afectar à execução da obra e à exploração do serviço os meios humanos, técnicos e financeiros necessários à boa execução do contrato;\n\nb) Efectuar os trabalhos necessários à boa conservação das instalações e equipamentos;\n\nc) Acompanhar a evolução técnica do processo de exploração adoptado;\n\nd) Manter os parâmetros de qualidade definidos no contrato de gestão;\n\ne) Prestar às entidades fiscalizadoras as informações e esclarecimentos necessários ao desempenho das suas funções e facultar-lhes os meios necessários ao exercício efectivo das suas competências;\n\nf) Prestar as informações necessárias ao acompanhamento da execução da parceria sempre que for solicitado pelas entidades competentes;\n\ng) Cumprir as regras e princípios comunitários sobre contratação pública relativas à realização de empreitadas de obras públicas;\n\nh) Cumprir os demais deveres impostos pelo contrato de gestão.\n\n2 - Sem prévia autorização da entidade pública contratante e sob pena de nulidade, a entidade gestora não pode realizar qualquer dos seguintes actos:\n\na) Alteração do objecto social;\n\nb) Redução do capital social;\n\nc) Transformação, fusão, cisão ou dissolução da sociedade;\n\nd) Alienação do capital social a terceiros;\n\ne) Cessão da posição contratual."
+  },
+  "57189396": {
+   "fragment_id": "57189297",
+   "type": 11,
+   "heading": "Artigo 17.º — Direitos especiais da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direitos especiais da entidade gestora\n\nOs contratos de gestão podem atribuir às entidades gestoras os direitos e faculdades que sejam indispensáveis à realização da obra ou à exploração do serviço, nomeadamente quanto à:\n\na) Utilização do domínio público a título gratuito;\n\nb) Constituição de servidões;\n\nc) Realização de expropriações por utilidade pública, nos termos do artigo 23.º;\n\nd) Celebração de contratos jurídico-públicos."
+  },
+  "57189397": {
+   "fragment_id": "57189298",
+   "type": 11,
+   "heading": "Artigo 18.º — Remuneração da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Remuneração da entidade gestora\n\n1 - A entidade gestora é remunerada mediante uma ou mais das seguintes modalidades a fixar no contrato de gestão:\n\na) Mediante um valor per capita fixado para a população abrangida pelo estabelecimento;\n\nb) De acordo com uma tabela de preços específica para as prestações de saúde realizadas;\n\nc) Através de um valor global para o conjunto de prestações de saúde;\n\nd) Outra modalidade de pagamento a fixar por despacho do Ministro da Saúde no caderno de encargos específico.\n\n2 - O pagamento à entidade gestora é feito mediante prestações periódicas unitárias.\n\n3 - O contrato de gestão pode prever formas de remuneração que incluam incentivos e penalidades.\n\n4 - Os mecanismos de revisão da remuneração e a eventual partilha de vantagens resultantes da renegociação de quaisquer contratos necessários à execução da parceria devem ser fixados igualmente no contrato de gestão."
+  },
+  "57189398": {
+   "fragment_id": "57189299",
+   "type": 11,
+   "heading": "Artigo 19.º — Outras formas de remuneração da entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Outras formas de remuneração da entidade gestora\n\n1 - O contrato de gestão define as receitas que são consideradas remuneração da entidade gestora, designadamente as resultantes de prestações a terceiros no âmbito de actividades acessórias ou de serviços não previstos para a generalidade dos utentes.\n\n2 - A entidade gestora pode cobrar as prestações de saúde realizadas directamente aos subsistemas de saúde ou outras entidades, públicas ou privadas, responsáveis, legal ou contratualmente, nos termos dos demais estabelecimentos do SNS.\n\n3 - A entidade gestora pode ser subsidiada por prosseguir, em particular, fins específicos de relevante interesse público, não incluídos no objecto do contrato."
+  },
+  "57189399": {
+   "fragment_id": "57189300",
+   "type": 11,
+   "heading": "Artigo 20.º — Amortizações e reintegrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Amortizações e reintegrações\n\nPodem ser adoptadas, para efeitos fiscais, taxas de amortização ou de reintegração diferentes das que se encontrem legalmente em vigor, nos termos a estabelecer no Decreto Regulamentar n.º 2/90, de 12 de Janeiro."
+  },
+  "57189400": {
+   "fragment_id": "57189301",
+   "type": 11,
+   "heading": "Artigo 21.º — Acompanhamento e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acompanhamento e fiscalização\n\nOs contratos de gestão no âmbito do Serviço Nacional de Saúde devem estabelecer as condições em que a entidade pública contratante acompanha e fiscaliza a actividade da entidade gestora, bem como a repartição da responsabilidade pelos respectivos encargos, sem prejuízo das competências atribuídas ao Ministro das Finanças."
+  },
+  "57189401": {
+   "fragment_id": "57189302",
+   "type": 11,
+   "heading": "Artigo 22.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Financiamento\n\n1 - A entidade gestora é responsável pela obtenção do financiamento necessário ao desenvolvimento de todas as actividades que integram o objecto do contrato, de forma a cumprir cabal e pontualmente todas as obrigações por si assumidas.\n\n2 - Com vista à obtenção dos fundos necessários ao desenvolvimento das actividades objecto do contrato de gestão, a entidade gestora contrairá os empréstimos, prestará as garantias e celebrará com os bancos financiadores os demais actos e contratos que constituem os contratos de financiamento.\n\n3 - Não são oponíveis à entidade pública contratante quaisquer excepções ou meios de defesa que resultem das relações contratuais estabelecidas pela entidade gestora nos termos do número anterior."
+  },
+  "57189402": {
+   "fragment_id": "57189303",
+   "type": 11,
+   "heading": "Artigo 23.º — Expropriações por utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Expropriações por utilidade pública\n\n1 - São de utilidade pública com carácter de urgência todas as expropriações necessárias à execução, directa ou indirecta, do contrato de gestão, competindo à entidade gestora a prática dos actos que individualizem os bens a expropriar, nos termos do Código das Expropriações, sendo da sua exclusiva responsabilidade os erros e omissões.\n\n2 - A condução e a realização dos processos expropriativos dos bens ou direitos necessários à execução do contrato de gestão competem à entidade que o Ministério da Saúde designar como entidade expropriante em nome do Estado.\n\n3 - O contrato de gestão deve determinar a responsabilidade pelos custos inerentes à condução dos processos expropriativos e, bem assim, o pagamento de indemnizações ou outras compensações devidas pelas expropriações ou da imposição de servidões ou outros ónus ou encargos delas derivados."
+  },
+  "57189403": {
+   "fragment_id": "57189304",
+   "type": 8,
+   "heading": "Secção III — Modificações do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Modificações do contrato"
+  },
+  "57189404": {
+   "fragment_id": "57189305",
+   "type": 11,
+   "heading": "Artigo 24.º — Modificações objectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Modificações objectivas\n\n1 - A modificação do contrato de gestão pode resultar de um facto imprevisto na execução do contrato, de acto unilateral da entidade pública contratante ou de solicitação da entidade gestora.\n\n2 - A modificação pode ser feita por acto unilateral da entidade pública contratante ou por acordo entre entidade pública contratante e entidade gestora.\n\n3 - Podem servir de fundamento à modificação do contrato a necessidade de ajustamento às prestações de serviço público que devem ser realizadas, desequilíbrios nas condições de exploração do serviço ou qualquer facto que exija o reequilíbrio económico-financeiro do contrato.\n\n4 - A modificação do contrato de gestão pode ser feita por recurso à mediação ou arbitragem."
+  },
+  "57189405": {
+   "fragment_id": "57189306",
+   "type": 11,
+   "heading": "Artigo 25.º — Modificações subjectivas e subcontratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Modificações subjectivas e subcontratação\n\n1 - A entidade gestora não pode ceder, alienar, ou por qualquer forma onerar, no todo ou em parte, a sua posição jurídica no contrato de gestão ou realizar qualquer negócio que vise atingir idêntico resultado sem prévio consentimento da entidade pública contratante.\n\n2 - A subcontratação pode ser admitida nos termos a estabelecer no contrato de gestão."
+  },
+  "57189406": {
+   "fragment_id": "57189307",
+   "type": 8,
+   "heading": "Secção IV — Não cumprimento e extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Não cumprimento e extinção"
+  },
+  "57189407": {
+   "fragment_id": "57189308",
+   "type": 11,
+   "heading": "Artigo 26.º — Multas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Multas\n\nOs contratos de gestão devem estabelecer as multas a pagar pela entidade gestora em caso de não cumprimento, as quais devem ser proporcionais ao valor do contrato e ao grau de lesão do interesse público."
+  },
+  "57189408": {
+   "fragment_id": "57189309",
+   "type": 11,
+   "heading": "Artigo 27.º — Sequestro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Sequestro\n\n1 - A entidade pública contratante tem a faculdade de sequestro do estabelecimento nos seguintes casos:\n\na) Quando ocorra ou esteja iminente a interrupção injustificada da realização das prestações de saúde;\n\nb) Quando se verifiquem perturbações ou deficiências graves na organização e funcionamento da entidade gestora ou no estado geral das instalações e do material afectos à execução do contrato.\n\n2 - Durante o sequestro, a exploração do estabelecimento é assegurada por representantes da entidade pública contratante, correndo por conta da entidade gestora as despesas necessárias para a manutenção e normalização da exploração.\n\n3 - O sequestro é mantido enquanto for julgado necessário, podendo a entidade pública contratante notificar no seu termo a entidade gestora para retomar a exploração da gestão, a qual é rescindida, nos termos do artigo seguinte, caso a entidade gestora não a aceite.\n\n4 - No caso de a entidade gestora não retomar a exploração do estabelecimento, o contrato de gestão deve ser rescindido."
+  },
+  "57189409": {
+   "fragment_id": "57189310",
+   "type": 11,
+   "heading": "Artigo 28.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Extinção\n\nO contrato de gestão extingue-se nos seguintes casos:\n\na) Decurso do prazo pelo qual foram atribuídas;\n\nb) Acordo entre a entidade pública contratante e a entidade gestora;\n\nc) Resgate;\n\nd) Rescisão por razões de interesse público;\n\ne) Rescisão por incumprimento contratual."
+  },
+  "57189410": {
+   "fragment_id": "57189311",
+   "type": 11,
+   "heading": "Artigo 29.º — Resgate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Resgate\n\n1 - Verifica-se o resgate sempre que a entidade pública contratante retome a exploração antes do termo do prazo contratual.\n\n2 - O resgate da gestão confere à entidade gestora o direito ao recebimento de uma indemnização.\n\n3 - O contrato de gestão deve estabelecer o prazo a partir do qual pode ser exercido o resgate e os critérios a observar para cálculo do valor da indemnização prevista no número anterior."
+  },
+  "57189411": {
+   "fragment_id": "57189312",
+   "type": 11,
+   "heading": "Artigo 30.º — Rescisão por razões de interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Rescisão por razões de interesse público\n\n1 - O contrato de gestão pode ser rescindido unilateralmente pela entidade pública contratante em qualquer momento, quando razões de interesse público o imponham, independentemente do incumprimento pela entidade gestora de quaisquer obrigações a que esteja vinculado.\n\n2 - A rescisão declarada ao abrigo do número anterior confere à entidade gestora o direito a uma indemnização calculada tendo em conta o tempo em falta para o termo da gestão e os investimentos por si efectuados."
+  },
+  "57189412": {
+   "fragment_id": "57189313",
+   "type": 11,
+   "heading": "Artigo 31.º — Rescisão por incumprimento contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Rescisão por incumprimento contratual\n\n1 - A entidade pública contratante pode, em caso de incumprimento de obrigações fundamentais a que a entidade gestora esteja obrigada, rescindir o contrato nos termos estabelecidos no contrato de gestão.\n\n2 - Constituem, em especial, motivo para a rescisão unilateral do contrato de gestão:\n\na) O abandono da exploração ou a sua suspensão injustificada;\n\nb) A transmissão total ou parcial da exploração, temporária ou definitiva, não autorizada;\n\nc) A falta de pagamento das retribuições devidas à entidade pública contratante e estabelecidas no respectivo contrato;\n\nd) O incumprimento das obrigações de serviço público nos termos contratualmente fixados."
+  },
+  "57189413": {
+   "fragment_id": "57189314",
+   "type": 11,
+   "heading": "Artigo 32.º — Reversão dos bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Reversão dos bens\n\n1 - Com a extinção do contrato de gestão, por qualquer das formas legalmente previstas, reverte para a entidade pública contratante a universalidade de bens e direitos que integram o estabelecimento.\n\n2 - A reversão efectua-se nos termos estabelecidos no respectivo contrato, o qual pode prever o pagamento de uma compensação à entidade gestora.\n\n3 - Os bens afectos à gestão devem ser entregues à entidade pública contratante livres de quaisquer ónus ou encargos, sendo nulos os actos jurídicos que estabeleçam ou imponham qualquer oneração ou encargo para além do período da gestão."
+  },
+  "57189414": {
+   "fragment_id": "57189315",
+   "type": 11,
+   "heading": "Artigo 33.º — Resolução de conflitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Resolução de conflitos\n\n1 - Os litígios surgidos entre as partes contratantes no âmbito dos contratos celebrados ao abrigo do presente diploma são resolvidos por recurso à arbitragem.\n\n2 - Os contratos devem estabelecer a composição e a competência das comissões, e regras básicas do seu funcionamento, dos tribunais arbitrais, bem como os processos de mediação e as regras básicas do seu funcionamento."
+  },
+  "57189415": {
+   "fragment_id": "57189316",
+   "type": 1,
+   "heading": "Capítulo III — Outros instrumentos contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Outros instrumentos contratuais"
+  },
+  "57189416": {
+   "fragment_id": "57189317",
+   "type": 11,
+   "heading": "Artigo 34.º — Remissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Remissão\n\nOs demais instrumentos contratuais previstos no artigo 5.º devem respeitar, com as necessárias adaptações, os princípios dos artigos 10.º a 12.º e 15.º a 33.º"
+  },
+  "57189417": {
+   "fragment_id": "57189318",
+   "type": 11,
+   "heading": "Artigo 35.º — Contrato de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Contrato de prestação de serviços\n\n1 - São contratos de prestação de serviços, no âmbito das parcerias em saúde, aqueles em que o co-contratante da Administração realiza uma actividade de apoio à realização de prestações de saúde no âmbito de um estabelecimento de saúde.\n\n2 - Os contratos de prestação de serviços podem ter por objecto uma ou mais das actividades referidas no n.º 2 do artigo 2.º\n\n3 - O procedimento prévio rege-se pelo disposto para a contratação pública em matéria de aquisição de bens e serviços ou de empreitadas de obras públicas consoante a componente de maior expressão financeira, sem prejuízo da possibilidade de aplicação do disposto no n.º 2 do artigo 13.º\n\n4 - O programa de concurso e o caderno de encargos tipo dos contratos de prestação de serviços são aprovados por decreto regulamentar."
+  },
+  "57189418": {
+   "fragment_id": "57189319",
+   "type": 11,
+   "heading": "Artigo 36.º — Contrato de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Contrato de colaboração\n\nPodem ser integrados no Serviço Nacional de Saúde mediante contrato de colaboração os estabelecimentos de saúde pertencentes a outras entidades, aplicando-se, com as necessárias adaptações, o disposto para o contrato de gestão."
+  },
+  "57189419": {
+   "fragment_id": "57189320",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "57189420": {
+   "fragment_id": "57189321",
+   "type": 11,
+   "heading": "Artigo 37.º — Actividade reguladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Actividade reguladora\n\nAs actividades desenvolvidas no âmbito das parcerias em saúde em regime de gestão e financiamento privados podem ser objecto de regulação económica, sendo o financiamento da entidade reguladora assegurado pelas entidades reguladas, nos termos a definir em diploma próprio."
+  },
+  "57189421": {
+   "fragment_id": "57189322",
+   "type": 11,
+   "heading": "Artigo 38.º — Aquisição de bens e contratação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Aquisição de bens e contratação de serviços\n\nA aquisição de bens e a contratação de serviços necessários à implementação das parcerias em saúde regem-se pelas normas do direito privado, sem prejuízo da aplicação das directivas comunitárias e do acordo sobre mercados públicos, celebrado no âmbito da Organização Mundial do Comércio."
+  },
+  "57189422": {
+   "fragment_id": "57189323",
+   "type": 11,
+   "heading": "Artigo 39.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Revogação\n\nÉ revogado o disposto nos artigos 28.º a 31.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, na parte referente ao contrato de gestão."
+  },
+  "57189375": {
+   "fragment_id": "57189276",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Constitui uma das prioridades do Governo o aprofundamento das experiências inovadoras de gestão de natureza empresarial e de mobilização do investimento não público no sistema de saúde, fazendo participar crescentemente os sectores privado e social nos diferentes modelos e formas contratuais, com vista a obter uma progressiva racionalização das funções financiamento e contratação e da função prestação de cuidados de saúde.\n\nPor outro lado, assume particular destaque para a reforma da saúde o estabelecimento, no âmbito do Serviço Nacional de Saúde, de parcerias público/privado através da concessão da gestão de unidades prestadoras de cuidados a entidades privadas ou de natureza social ou pelo investimento conjunto entre estas entidades e o Estado, segundo princípios de eficiência, responsabilização, contratualização e de demonstração de benefícios para o serviço público de saúde.\n\nAs parcerias em saúde, em regime de gestão e financiamento privados, visam, fundamentalmente, obter melhores serviços com partilha de riscos e benefícios mútuos entre as entidades públicas que têm a responsabilidade pelos serviços públicos e outras entidades que se lhe associam com carácter duradouro.\n\nNuma área da maior importância para o bem-estar dos cidadãos como é a saúde é necessário que o estabelecimento de parcerias seja feito articuladamente e com uma perspectiva sistemática. Na verdade, não é desejável que a prossecução do serviço público de saúde com recurso a parcerias com outras entidades, em regime de gestão e financiamento privados, seja feita sem que se estabeleçam os princípios gerais a que essas actividades devem estar sujeitas. O sistema de saúde constitui um todo articulado de meios que exige um acompanhamento permanente e uma actividade global de monitorização que permita que a política de parcerias com recurso a gestão e financiamento privados seja correctamente executada.\n\nJustifica-se, assim, genericamente, a publicação de um diploma enquadrador para o estabelecimento das parcerias em saúde, em regime de gestão e financiamento privados, nele sendo estabelecidos os princípios e os instrumentos enformadores.\n\nUm instrumento privilegiado de estabelecimento de parcerias em saúde com recurso a gestão e financiamento privados é o contrato de gestão, o qual se encontra previsto na Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de Agosto, mas limitadamente configurado no Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro. Na verdade, o contrato de gestão constitui um instrumento de natureza concessória que tem por referencial um estabelecimento de saúde prestador, podendo através dele o Estado associar privados na prossecução do serviço público de saúde com transferência e partilha de riscos e recurso a financiamento de outras entidades. O contrato de gestão reveste, assim, a natureza de verdadeiro contrato de concessão de serviço público, embora a sua designação pretenda clarificar que, no âmbito da saúde, o Estado mantém em maior grau a responsabilidade, designadamente porque é necessário que todos os cidadãos, sem excepção, tenham o acesso a cuidados de saúde através de um Serviço Nacional de Saúde que observe as características de generalidade e universalidade, ainda que com o concurso de outras entidades na sua gestão. O contrato de gestão constitui, por isso, a matriz dos instrumentos contratuais para o estabelecimento das parcerias, pelo que os restantes meios de as concretizar o têm por modelo.\n\nEmbora o enfoque seja dado pelas parcerias que envolvem a responsabilidade pela realização das prestações de saúde, importa não descurar outras soluções testadas internacionalmente que se limitam ao apoio indirecto do serviço público de saúde. Deste modo, o regime jurídico das parcerias equacionado por este diploma tem uma amplitude que permite acolher opções que envolvam simples participação de outras entidades no âmbito dos estabelecimentos de saúde com exclusão da responsabilidade pelas prestações de saúde e, portanto, sem transferência de risco quanto a estas. Na verdade, ainda que o estabelecimento destas parcerias já seja hoje possível e já existam na prática experiências limitadas julga-se conveniente submeter estas soluções a uma disciplina e princípios uniformes.\n\nPor outro lado, importa frisar que todos os tipos de prestações de saúde podem ser objecto de parcerias (primários, diferenciados e continuados), cabendo a cada um dos modelos em concreto estabelecer as formas adequadas de contratação para cada situação.\n\nA regulamentação de uma tão ampla plêiade de soluções de parcerias em saúde aconselha a que se prevejam os mecanismos que em cada momento sejam ajustados aos objectivos traçados. Por isso, estabeleceu-se um grau de densidade mínima do acto legislativo, remetendo para regulamentação posterior a definição de alguns aspectos de regime.\n\nAssumindo o contrato de gestão a natureza de uma técnica concessória, torna-se evidente que o seu regime jurídico esteja ajustado aos traços comuns das concessões de serviço público.\n\nO estabelecimento de parcerias com carácter sistemático impõe numa fase futura uma actividade reguladora que se reveste da maior importância numa área de tão grande sensibilidade como é a saúde, onde se pretende que sejam alcançadas melhores prestações de saúde com menores custos. Neste sentido habilita-se uma solução para definir os contornos desta actividade.\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "870784922": {
+   "fragment_id": "57189278",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2003-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma define os princípios e os instrumentos para o estabelecimento de parcerias em saúde, em regime de gestão e financiamento privados, entre o Ministério da Saúde ou instituições e serviços integrados no Serviço Nacional de Saúde e outras entidades, nos termos do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 86/2003, de 26 de Abril.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+  },
+  "870784925": {
+   "fragment_id": "57189281",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos prévios à contratação",
+   "in_force_from": "2003-04-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+   ],
+   "markdown": "###### Artigo 4.º — Procedimentos prévios à contratação\n\nPodem ser iniciados procedimentos prévios à contratação tendentes ao estabelecimento de parcerias, desde que previamente autorizados por despacho conjunto dos Ministros das Finanças e da Saúde.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+  },
+  "870784923": {
+   "fragment_id": "57189291",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do Ministro da Saúde",
+   "in_force_from": "2003-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+   ],
+   "markdown": "###### Artigo 12.º — Competências do Ministro da Saúde\n\n1 - Compete ao Ministro da Saúde, com faculdade de delegação, a qual pode, por sua vez, ser subdelegada, o seguinte:\n\na) Autorizar o lançamento da parceria;\n\nb) Escolher o co-contratante;\n\nc) Decidir sobre a conveniência de declarar sem efeito os procedimentos iniciados, bem como da não adjudicação do contrato de gestão aos concorrentes;\n\nd) Aprovar e autorizar a celebração dos contratos de gestão;\n\ne) Autorizar a introdução de modificações aos contratos de gestão;\n\nf) Declarar a utilidade pública das expropriações dos terrenos necessários à execução das actividades objecto do contrato de gestão e designar a entidade que, em nome do Estado, conduzirá a realização dos processos expropriativos dos bens ou direitos necessários à execução do contrato de gestão;\n\ng) Superintender no acompanhamento e fiscalização dos contratos de gestão, sem prejuízo das competências do Ministro das Finanças;\n\nh) Decidir sobre a aplicação de multas, o sequestro e a extinção do contrato de gestão.\n\n2 - O disposto nas alíneas a) a e) do número anterior, observa o regime previsto no Decreto-Lei n.º 86/2003, de 26 de Abril.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+  },
+  "870784924": {
+   "fragment_id": "57189298",
+   "type": 11,
+   "heading": "Artigo 18.º — Remuneração da entidade gestora",
+   "in_force_from": "2003-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+   ],
+   "markdown": "###### Artigo 18.º — Remuneração da entidade gestora\n\n1 - A entidade gestora é remunerada mediante uma ou mais das seguintes modalidades a fixar no contrato de gestão:\n\na) Mediante um valor per capita fixado para a população abrangida pelo estabelecimento;\n\nb) De acordo com uma tabela de preços específica para as prestações de saúde realizadas;\n\nc) Através de um valor global para o conjunto de prestações de saúde;\n\nd) Outra modalidade de pagamento a fixar no caderno de encargos específico.\n\n2 - O pagamento à entidade gestora é feito mediante prestações periódicas unitárias.\n\n3 - O contrato de gestão pode prever formas de remuneração que incluam incentivos e penalidades.\n\n4 - Os mecanismos de revisão da remuneração e a eventual partilha de vantagens resultantes da renegociação de quaisquer contratos necessários à execução da parceria devem ser fixados igualmente no contrato de gestão.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+  },
+  "57189423": {
+   "fragment_id": "57189324",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Julho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira.\n\nPromulgado em 29 de Julho de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Agosto de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "870784926": {
+   "fragment_id": "57189293",
+   "type": 11,
+   "heading": "Artigo 14.º — Programa do procedimento e caderno de encargos",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 14.º — Programa do procedimento e caderno de encargos\n\n1 - As condições gerais dos procedimentos prévios à contratação bem como o caderno de encargos tipo do contrato de gestão são aprovados por decreto regulamentar.\n\n2 - Para efeitos do número anterior devem ser reguladas, nomeadamente, as seguintes matérias:\n\na) As exigências especiais relativamente aos concorrentes e à entidade gestora;\n\nb) O critério de apreciação das propostas e respectivos factores;\n\nc) As normas relativas à tramitação do procedimento prévio à contratação, incluindo eventuais garantias a prestar pelos concorrentes;\n\nd) A duração do contrato de gestão;\n\ne) A responsabilidade pela concepção, projecto e construção do estabelecimento, quando for aplicável;\n\nf) A necessidade de estudos prévios a realizar pelos concorrentes;\n\ng) A responsabilidade pelos custos directos e indirectos resultantes da execução das obras;\n\nh) A responsabilidade pela qualidade do estabelecimento;\n\ni) As regras sobre garantia de qualidade das prestações realizadas pela entidade gestora;\n\nj) A possibilidade de alterações aos estabelecimentos já existentes, quando for o caso;\n\nl) As responsabilidades de serviço público de saúde que devem ser asseguradas pela entidade gestora;\n\nm) A articulação funcional do estabelecimento incluído no objecto do contrato de gestão com os restantes estabelecimentos integrados no Serviço Nacional de Saúde (SNS);\n\nn) As condições e mecanismos de alteração da prestação da entidade gestora e da remuneração, bem como da modificação objectiva e subjectiva do contrato;\n\no) Os mecanismos de acompanhamento e fiscalização da execução do contrato;\n\np) Os critérios para a fixação de indemnização da entidade gestora em caso de resgate ou rescisão unilateral não imputável à entidade gestora.\n\n3 - O programa do procedimento e o caderno de encargos específicos relativos a cada um dos contratos de gestão são aprovados por despacho do Ministro da Saúde.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784927": {
+   "fragment_id": "57189295",
+   "type": 11,
+   "heading": "Artigo 15.º — Poderes da entidade pública contratante",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 15.º — Poderes da entidade pública contratante\n\n1 - A entidade pública contratante deve regulamentar e fiscalizar o exercício do contrato de gestão, com vista a assegurar a regularidade, continuidade e qualidade das prestações de saúde, bem como a comodidade e segurança dos utentes.\n\n2 - Os poderes decorrentes do número anterior são exercidos nos termos estabelecidos no contrato de gestão, o qual deve, neste âmbito, prever, designadamente:\n\na) Os poderes de fiscalização da entidade pública contratante;\n\nb) Os actos de gestão da entidade gestora sujeitos a autorização, aprovação ou homologação da entidade pública contratante.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784928": {
+   "fragment_id": "57189296",
+   "type": 11,
+   "heading": "Artigo 16.º — Deveres da entidade gestora",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 16.º — Deveres da entidade gestora\n\n1 - As entidades gestoras são obrigadas a:\n\na) Afectar à execução da obra e à exploração do serviço os meios humanos, técnicos e financeiros necessários à boa execução do contrato;\n\nb) Efectuar os trabalhos necessários à boa conservação das instalações e equipamentos;\n\nc) Acompanhar a evolução técnica do processo de exploração adoptado;\n\nd) Manter os parâmetros de qualidade definidos no contrato de gestão;\n\ne) Prestar às entidades fiscalizadoras as informações e esclarecimentos necessários ao desempenho das suas funções e facultar-lhes os meios necessários ao exercício efectivo das suas competências;\n\nf) Prestar as informações necessárias ao acompanhamento da execução da parceria sempre que for solicitado pelas entidades competentes;\n\ng) Cumprir as regras e princípios comunitários sobre contratação pública relativas à realização de empreitadas de obras públicas;\n\nh) Cumprir os demais deveres impostos pelo contrato de gestão.\n\n2 - Sem prévia autorização da entidade pública contratante e sob pena de nulidade, a entidade gestora não pode realizar qualquer dos seguintes actos:\n\na) Alteração do objecto social;\n\nb) Redução do capital social;\n\nc) Transformação, fusão, cisão ou dissolução da sociedade;\n\nd) Alienação do capital social a terceiros;\n\ne) Cessão da posição contratual.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784929": {
+   "fragment_id": "57189297",
+   "type": 11,
+   "heading": "Artigo 17.º — Direitos especiais da entidade gestora",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 17.º — Direitos especiais da entidade gestora\n\nOs contratos de gestão podem atribuir às entidades gestoras os direitos e faculdades que sejam indispensáveis à realização da obra ou à exploração do serviço, nomeadamente quanto à:\n\na) Utilização do domínio público a título gratuito;\n\nb) Constituição de servidões;\n\nc) Realização de expropriações por utilidade pública, nos termos do artigo 23.º;\n\nd) Celebração de contratos jurídico-públicos.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784930": {
+   "fragment_id": "57189305",
+   "type": 11,
+   "heading": "Artigo 24.º — Modificações objectivas",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 24.º — Modificações objectivas\n\n1 - A modificação do contrato de gestão pode resultar de um facto imprevisto na execução do contrato, de acto unilateral da entidade pública contratante ou de solicitação da entidade gestora.\n\n2 - A modificação pode ser feita por acto unilateral da entidade pública contratante ou por acordo entre entidade pública contratante e entidade gestora.\n\n3 - Podem servir de fundamento à modificação do contrato a necessidade de ajustamento às prestações de serviço público que devem ser realizadas, desequilíbrios nas condições de exploração do serviço ou qualquer facto que exija o reequilíbrio económico-financeiro do contrato.\n\n4 - A modificação do contrato de gestão pode ser feita por recurso à mediação ou arbitragem.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784931": {
+   "fragment_id": "57189306",
+   "type": 11,
+   "heading": "Artigo 25.º — Modificações subjectivas e subcontratação",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 25.º — Modificações subjectivas e subcontratação\n\n1 - A entidade gestora não pode ceder, alienar, ou por qualquer forma onerar, no todo ou em parte, a sua posição jurídica no contrato de gestão ou realizar qualquer negócio que vise atingir idêntico resultado sem prévio consentimento da entidade pública contratante.\n\n2 - A subcontratação pode ser admitida nos termos a estabelecer no contrato de gestão.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784932": {
+   "fragment_id": "57189308",
+   "type": 11,
+   "heading": "Artigo 26.º — Multas",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 26.º — Multas\n\nOs contratos de gestão devem estabelecer as multas a pagar pela entidade gestora em caso de não cumprimento, as quais devem ser proporcionais ao valor do contrato e ao grau de lesão do interesse público.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784933": {
+   "fragment_id": "57189309",
+   "type": 11,
+   "heading": "Artigo 27.º — Sequestro",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 27.º — Sequestro\n\n1 - A entidade pública contratante tem a faculdade de sequestro do estabelecimento nos seguintes casos:\n\na) Quando ocorra ou esteja iminente a interrupção injustificada da realização das prestações de saúde;\n\nb) Quando se verifiquem perturbações ou deficiências graves na organização e funcionamento da entidade gestora ou no estado geral das instalações e do material afectos à execução do contrato.\n\n2 - Durante o sequestro, a exploração do estabelecimento é assegurada por representantes da entidade pública contratante, correndo por conta da entidade gestora as despesas necessárias para a manutenção e normalização da exploração.\n\n3 - O sequestro é mantido enquanto for julgado necessário, podendo a entidade pública contratante notificar no seu termo a entidade gestora para retomar a exploração da gestão, a qual é rescindida, nos termos do artigo seguinte, caso a entidade gestora não a aceite.\n\n4 - No caso de a entidade gestora não retomar a exploração do estabelecimento, o contrato de gestão deve ser rescindido.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784934": {
+   "fragment_id": "57189310",
+   "type": 11,
+   "heading": "Artigo 28.º — Extinção",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 28.º — Extinção\n\nO contrato de gestão extingue-se nos seguintes casos:\n\na) Decurso do prazo pelo qual foram atribuídas;\n\nb) Acordo entre a entidade pública contratante e a entidade gestora;\n\nc) Resgate;\n\nd) Rescisão por razões de interesse público;\n\ne) Rescisão por incumprimento contratual.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784935": {
+   "fragment_id": "57189311",
+   "type": 11,
+   "heading": "Artigo 29.º — Resgate",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 29.º — Resgate\n\n1 - Verifica-se o resgate sempre que a entidade pública contratante retome a exploração antes do termo do prazo contratual.\n\n2 - O resgate da gestão confere à entidade gestora o direito ao recebimento de uma indemnização.\n\n3 - O contrato de gestão deve estabelecer o prazo a partir do qual pode ser exercido o resgate e os critérios a observar para cálculo do valor da indemnização prevista no número anterior.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784936": {
+   "fragment_id": "57189312",
+   "type": 11,
+   "heading": "Artigo 30.º — Rescisão por razões de interesse público",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 30.º — Rescisão por razões de interesse público\n\n1 - O contrato de gestão pode ser rescindido unilateralmente pela entidade pública contratante em qualquer momento, quando razões de interesse público o imponham, independentemente do incumprimento pela entidade gestora de quaisquer obrigações a que esteja vinculado.\n\n2 - A rescisão declarada ao abrigo do número anterior confere à entidade gestora o direito a uma indemnização calculada tendo em conta o tempo em falta para o termo da gestão e os investimentos por si efectuados.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784937": {
+   "fragment_id": "57189313",
+   "type": 11,
+   "heading": "Artigo 31.º — Rescisão por incumprimento contratual",
+   "in_force_from": "2008-07-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 31.º — Rescisão por incumprimento contratual\n\n1 - A entidade pública contratante pode, em caso de incumprimento de obrigações fundamentais a que a entidade gestora esteja obrigada, rescindir o contrato nos termos estabelecidos no contrato de gestão.\n\n2 - Constituem, em especial, motivo para a rescisão unilateral do contrato de gestão:\n\na) O abandono da exploração ou a sua suspensão injustificada;\n\nb) A transmissão total ou parcial da exploração, temporária ou definitiva, não autorizada;\n\nc) A falta de pagamento das retribuições devidas à entidade pública contratante e estabelecidas no respectivo contrato;\n\nd) O incumprimento das obrigações de serviço público nos termos contratualmente fixados.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "870784938": {
+   "fragment_id": "57189283",
+   "type": 11,
+   "heading": "Artigo 6.º — Mobilidade",
+   "in_force_from": "2009-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09"
+   ],
+   "markdown": "###### Artigo 6.º — Mobilidade\n\n1 - Sem prejuízo da aplicação do regime do artigo 32.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, os trabalhadores com contrato de trabalho em funções públicas podem ser contratados por outras entidades em regime de cedência de interesse público, para as actividades a exercer em regime de parceria no âmbito do presente decreto-lei, nos termos da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - Os trabalhadores a que se refere o número anterior podem candidatar-se ao procedimento concursal de recrutamento para mudança de categoria na respectiva carreira.\n\n3 - A retribuição relevante para o cálculo dos descontos para a Caixa Geral de Aposentações e da pensão do pessoal a que se refere o n.º 1 é a que corresponde à do seu lugar de origem.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09"
+  },
+  "870784939": {
+   "fragment_id": "57189288",
+   "type": 11,
+   "heading": "Artigo 9.º — Integração no Serviço Nacional de Saúde",
+   "in_force_from": "2009-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09"
+   ],
+   "markdown": "###### Artigo 9.º — Integração no Serviço Nacional de Saúde\n\n1 - A entidade gestora deve assegurar as prestações de saúde nos termos dos demais estabelecimentos que integram o Serviço Nacional de Saúde.\n\n2 - O estabelecimento afecto ao contrato de gestão deve garantir, nomeadamente, a aplicação do regime disposto em diplomas que definam o regime legal de carreira de profissões da saúde, bem como a continuidade dos cuidados de saúde e o acesso dos utentes do Serviço Nacional de Saúde, de acordo com a articulação definida e as responsabilidades que lhe estão atribuídas.\n\n3 - O contrato de gestão fixa as obrigações da entidade gestora para efeitos dos números anteriores.\n\n4 - O contrato de gestão deve, ainda, regular as actividades acessórias que a entidade gestora pode prosseguir, bem como a possibilidade de utilizar o estabelecimento para a realização de prestações de saúde fora do âmbito do serviço público que assegura, desde que esta utilização se faça, comprovadamente, sem prejuízo das obrigações de serviço público.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09"
+  },
+  "870784940": {
+   "fragment_id": "57189280",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Princípios\n\nO desenvolvimento de parcerias em saúde em regime de gestão e financiamento privados deve respeitar os seguintes princípios:\n\na) Os objectivos devem ser claramente enunciados, definindo-se pelos seus resultados e não pelos meios necessários à obtenção destes;\n\nb) A duração deve ter em conta o período de vida útil dos activos subjacentes à prestação da actividade objecto da parceria;\n\nc) A distribuição de riscos deve ser feita atribuindo-os às partes mais competentes para a sua gestão;\n\nd) O procedimento de contratação deve, em regra, ter um carácter competitivo;\n\ne) A contratação deve ser precedida de uma avaliação prévia sobre a sua economia, eficiência e eficácia, bem como de uma análise da respectiva suportabilidade financeira.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784941": {
+   "fragment_id": "57189281",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos prévios à contratação",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01",
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+   ],
+   "markdown": "###### Artigo 4.º — Procedimentos prévios à contratação\n\nPodem ser iniciados procedimentos prévios à contratação tendentes ao estabelecimento de parcerias, desde que previamente autorizados por despacho conjunto dos Ministros das Finanças e da Saúde.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+  },
+  "870784942": {
+   "fragment_id": "57189283",
+   "type": 11,
+   "heading": "Artigo 6.º — Mobilidade",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09"
+   ],
+   "markdown": "###### Artigo 6.º — Mobilidade\n\n1 - Sem prejuízo da aplicação do regime do artigo 32.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, os trabalhadores com contrato de trabalho em funções públicas podem ser contratados por outras entidades em regime de cedência de interesse público, para as actividades a exercer em regime de parceria no âmbito do presente decreto-lei, nos termos da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - Os trabalhadores a que se refere o número anterior podem candidatar-se ao procedimento concursal de recrutamento para mudança de categoria na respectiva carreira.\n\n3 - A retribuição relevante para o cálculo dos descontos para a Caixa Geral de Aposentações e da pensão do pessoal a que se refere o n.º 1 é a que corresponde à do seu lugar de origem.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09"
+  },
+  "870784943": {
+   "fragment_id": "57189284",
+   "type": 11,
+   "heading": "Artigo 7.º — Activos patrimoniais",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Activos patrimoniais\n\nO estabelecimento de parcerias, em qualquer das suas modalidades, pode envolver a alienação de património do Estado ou de outras entidades públicas, nos termos a estabelecer nos respectivos instrumentos contratuais.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784944": {
+   "fragment_id": "57189290",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazo",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 11.º — Prazo\n\nO contrato de gestão não pode exceder o prazo de 30 anos, podendo ser prorrogado nos termos fixados nos documentos contratuais.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784945": {
+   "fragment_id": "57189291",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do Ministro da Saúde",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+   ],
+   "markdown": "###### Artigo 12.º — Competências do Ministro da Saúde\n\n1 - Compete ao Ministro da Saúde, com faculdade de delegação, a qual pode, por sua vez, ser subdelegada, o seguinte:\n\na) Autorizar o lançamento da parceria;\n\nb) Escolher o co-contratante;\n\nc) Decidir sobre a conveniência de declarar sem efeito os procedimentos iniciados, bem como da não adjudicação do contrato de gestão aos concorrentes;\n\nd) Aprovar e autorizar a celebração dos contratos de gestão;\n\ne) Autorizar a introdução de modificações aos contratos de gestão;\n\nf) Declarar a utilidade pública das expropriações dos terrenos necessários à execução das actividades objecto do contrato de gestão e designar a entidade que, em nome do Estado, conduzirá a realização dos processos expropriativos dos bens ou direitos necessários à execução do contrato de gestão;\n\ng) Superintender no acompanhamento e fiscalização dos contratos de gestão, sem prejuízo das competências do Ministro das Finanças;\n\nh) Decidir sobre a aplicação de multas, o sequestro e a extinção do contrato de gestão.\n\n2 - O disposto nas alíneas a) a e) do número anterior, observa o regime previsto no Decreto-Lei n.º 86/2003, de 26 de Abril.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+  },
+  "870784946": {
+   "fragment_id": "57189292",
+   "type": 11,
+   "heading": "Artigo 13.º — Procedimento prévio à contratação",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Procedimento prévio à contratação\n\n1 - A celebração de contratos de gestão deve ser precedida de procedimento concursal específico.\n\n2 - O procedimento a que se refere o número anterior pode conter uma fase de negociação de acordo com o estabelecido no respectivo programa de procedimento tipo.\n\n3 - Excepcionalmente, nos casos em que a execução do contrato de gestão pressuponha exigências especiais, nomeadamente quando seja indispensável a associação de entidades com especiais qualificações técnicas, a escolha do co-contratante é decidida por despacho do Ministro da Saúde.\n\n4 - O procedimento prévio à contratação pode ser declarado sem efeito ou não haver adjudicação a qualquer dos concorrentes após a sua abertura, com fundamento em razões de interesse público ou por as propostas serem inaceitáveis.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784947": {
+   "fragment_id": "57189298",
+   "type": 11,
+   "heading": "Artigo 18.º — Remuneração da entidade gestora",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+   ],
+   "markdown": "###### Artigo 18.º — Remuneração da entidade gestora\n\n1 - A entidade gestora é remunerada mediante uma ou mais das seguintes modalidades a fixar no contrato de gestão:\n\na) Mediante um valor per capita fixado para a população abrangida pelo estabelecimento;\n\nb) De acordo com uma tabela de preços específica para as prestações de saúde realizadas;\n\nc) Através de um valor global para o conjunto de prestações de saúde;\n\nd) Outra modalidade de pagamento a fixar no caderno de encargos específico.\n\n2 - O pagamento à entidade gestora é feito mediante prestações periódicas unitárias.\n\n3 - O contrato de gestão pode prever formas de remuneração que incluam incentivos e penalidades.\n\n4 - Os mecanismos de revisão da remuneração e a eventual partilha de vantagens resultantes da renegociação de quaisquer contratos necessários à execução da parceria devem ser fixados igualmente no contrato de gestão.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+  },
+  "870784956": {
+   "fragment_id": "57189299",
+   "type": 11,
+   "heading": "Artigo 19.º — Outras formas de remuneração da entidade gestora",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 19.º — Outras formas de remuneração da entidade gestora\n\n1 - O contrato de gestão define as receitas que são consideradas remuneração da entidade gestora, designadamente as resultantes de prestações a terceiros no âmbito de actividades acessórias ou de serviços não previstos para a generalidade dos utentes.\n\n2 - A entidade gestora pode cobrar as prestações de saúde realizadas directamente aos subsistemas de saúde ou outras entidades, públicas ou privadas, responsáveis, legal ou contratualmente, nos termos dos demais estabelecimentos do SNS.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784948": {
+   "fragment_id": "57189300",
+   "type": 11,
+   "heading": "Artigo 20.º — Amortizações e reintegrações",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 20.º — Amortizações e reintegrações\n\nPodem ser adoptadas, para efeitos fiscais, taxas de amortização ou de reintegração diferentes das que se encontrem legalmente em vigor, nos termos a estabelecer no Decreto Regulamentar n.º 2/90, de 12 de Janeiro.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784949": {
+   "fragment_id": "57189301",
+   "type": 11,
+   "heading": "Artigo 21.º — Acompanhamento e fiscalização",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 21.º — Acompanhamento e fiscalização\n\nOs contratos de gestão no âmbito do Serviço Nacional de Saúde devem estabelecer as condições em que a entidade pública contratante acompanha e fiscaliza a actividade da entidade gestora, bem como a repartição da responsabilidade pelos respectivos encargos, sem prejuízo das competências atribuídas ao Ministro das Finanças.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784950": {
+   "fragment_id": "57189302",
+   "type": 11,
+   "heading": "Artigo 22.º — Financiamento",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 22.º — Financiamento\n\n1 - A entidade gestora é responsável pela obtenção do financiamento necessário ao desenvolvimento de todas as actividades que integram o objecto do contrato, de forma a cumprir cabal e pontualmente todas as obrigações por si assumidas.\n\n2 - Com vista à obtenção dos fundos necessários ao desenvolvimento das actividades objecto do contrato de gestão, a entidade gestora contrairá os empréstimos, prestará as garantias e celebrará com os bancos financiadores os demais actos e contratos que constituem os contratos de financiamento.\n\n3 - Não são oponíveis à entidade pública contratante quaisquer excepções ou meios de defesa que resultem das relações contratuais estabelecidas pela entidade gestora nos termos do número anterior.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784951": {
+   "fragment_id": "57189303",
+   "type": 11,
+   "heading": "Artigo 23.º — Expropriações por utilidade pública",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 23.º — Expropriações por utilidade pública\n\n1 - São de utilidade pública com carácter de urgência todas as expropriações necessárias à execução, directa ou indirecta, do contrato de gestão, competindo à entidade gestora a prática dos actos que individualizem os bens a expropriar, nos termos do Código das Expropriações, sendo da sua exclusiva responsabilidade os erros e omissões.\n\n2 - A condução e a realização dos processos expropriativos dos bens ou direitos necessários à execução do contrato de gestão competem à entidade que o Ministério da Saúde designar como entidade expropriante em nome do Estado.\n\n3 - O contrato de gestão deve determinar a responsabilidade pelos custos inerentes à condução dos processos expropriativos e, bem assim, o pagamento de indemnizações ou outras compensações devidas pelas expropriações ou da imposição de servidões ou outros ónus ou encargos delas derivados.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784952": {
+   "fragment_id": "57189314",
+   "type": 11,
+   "heading": "Artigo 32.º — Reversão dos bens",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 32.º — Reversão dos bens\n\n1 - Com a extinção do contrato de gestão, por qualquer das formas legalmente previstas, reverte para a entidade pública contratante a universalidade de bens e direitos que integram o estabelecimento.\n\n2 - A reversão efectua-se nos termos estabelecidos no respectivo contrato, o qual pode prever o pagamento de uma compensação à entidade gestora.\n\n3 - Os bens afectos à gestão devem ser entregues à entidade pública contratante livres de quaisquer ónus ou encargos, sendo nulos os actos jurídicos que estabeleçam ou imponham qualquer oneração ou encargo para além do período da gestão.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784953": {
+   "fragment_id": "57189315",
+   "type": 11,
+   "heading": "Artigo 33.º — Resolução de conflitos",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 33.º — Resolução de conflitos\n\n1 - Os litígios surgidos entre as partes contratantes no âmbito dos contratos celebrados ao abrigo do presente diploma são resolvidos por recurso à arbitragem.\n\n2 - Os contratos devem estabelecer a composição e a competência das comissões, e regras básicas do seu funcionamento, dos tribunais arbitrais, bem como os processos de mediação e as regras básicas do seu funcionamento.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784957": {
+   "fragment_id": "57189318",
+   "type": 11,
+   "heading": "Artigo 35.º — Contrato de prestação de serviços",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 35.º — Contrato de prestação de serviços\n\n1 - São contratos de prestação de serviços, no âmbito das parcerias em saúde, aqueles em que o co-contratante da Administração realiza uma actividade de apoio à realização de prestações de saúde no âmbito de um estabelecimento de saúde.\n\n2 - Os contratos de prestação de serviços podem ter por objecto uma ou mais das actividades referidas no n.º 2 do artigo 2.º\n\n3 - O procedimento prévio rege-se pelo disposto para a contratação pública em matéria de aquisição de bens e serviços ou de empreitadas de obras públicas consoante a componente de maior expressão financeira, sem prejuízo da possibilidade de aplicação do disposto no n.º 2 do artigo 13.º\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784954": {
+   "fragment_id": "57189321",
+   "type": 11,
+   "heading": "Artigo 37.º — Actividade reguladora",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 37.º — Actividade reguladora\n\nAs actividades desenvolvidas no âmbito das parcerias em saúde em regime de gestão e financiamento privados podem ser objecto de regulação económica, sendo o financiamento da entidade reguladora assegurado pelas entidades reguladas, nos termos a definir em diploma próprio.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784955": {
+   "fragment_id": "57189322",
+   "type": 11,
+   "heading": "Artigo 38.º — Aquisição de bens e contratação de serviços",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 38.º — Aquisição de bens e contratação de serviços\n\nA aquisição de bens e a contratação de serviços necessários à implementação das parcerias em saúde regem-se pelas normas do direito privado, sem prejuízo da aplicação das directivas comunitárias e do acordo sobre mercados públicos, celebrado no âmbito da Organização Mundial do Comércio.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784959": {
+   "fragment_id": "57189277",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "### Capítulo I — Princípios gerais\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "870784960": {
+   "fragment_id": "57189278",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma define os princípios e os instrumentos para o estabelecimento de parcerias em saúde, em regime de gestão e financiamento privados, entre o Ministério da Saúde ou instituições e serviços integrados no Serviço Nacional de Saúde e outras entidades, nos termos do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 86/2003, de 26 de Abril.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+  },
+  "870784961": {
+   "fragment_id": "57189279",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - O estabelecimento de parcerias em saúde tem por objecto a associação duradoura de entidades dos sectores privado e social à realização directa de prestações de saúde, ao nível dos cuidados de saúde primários, diferenciados e continuados, ou o apoio directo ou indirecto à sua realização no âmbito do serviço público de saúde assegurado pelo Serviço Nacional de Saúde.\n\n2 - As parcerias em saúde envolvem uma ou mais das actividades de concepção, construção, financiamento, conservação e exploração dos estabelecimentos integrados ou a integrar no Serviço Nacional de Saúde, com transferência e partilha de riscos e recurso a financiamento de outras entidades.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "870784962": {
+   "fragment_id": "57189280",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Princípios\n\nO desenvolvimento de parcerias em saúde em regime de gestão e financiamento privados deve respeitar os seguintes princípios:\n\na) Os objectivos devem ser claramente enunciados, definindo-se pelos seus resultados e não pelos meios necessários à obtenção destes;\n\nb) A duração deve ter em conta o período de vida útil dos activos subjacentes à prestação da actividade objecto da parceria;\n\nc) A distribuição de riscos deve ser feita atribuindo-os às partes mais competentes para a sua gestão;\n\nd) O procedimento de contratação deve, em regra, ter um carácter competitivo;\n\ne) A contratação deve ser precedida de uma avaliação prévia sobre a sua economia, eficiência e eficácia, bem como de uma análise da respectiva suportabilidade financeira.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784963": {
+   "fragment_id": "57189281",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos prévios à contratação",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01",
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+   ],
+   "markdown": "###### Artigo 4.º — Procedimentos prévios à contratação\n\nPodem ser iniciados procedimentos prévios à contratação tendentes ao estabelecimento de parcerias, desde que previamente autorizados por despacho conjunto dos Ministros das Finanças e da Saúde.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+  },
+  "870784964": {
+   "fragment_id": "57189282",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrumentos contratuais",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Artigo 5.º — Instrumentos contratuais\n\n1 - Constituem instrumentos para o estabelecimento de parcerias em saúde com recurso a gestão e financiamento privados, entre outros, os seguintes:\n\na) Contrato de gestão;\n\nb) Contrato de prestação de serviços;\n\nc) Contrato de colaboração.\n\n2 - As parcerias podem resultar de contratos mistos ou de união de contratos, independentemente da classificação orçamental da despesa.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "870784965": {
+   "fragment_id": "57189283",
+   "type": 11,
+   "heading": "Artigo 6.º — Mobilidade",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09"
+   ],
+   "markdown": "###### Artigo 6.º — Mobilidade\n\n1 - Sem prejuízo da aplicação do regime do artigo 32.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, os trabalhadores com contrato de trabalho em funções públicas podem ser contratados por outras entidades em regime de cedência de interesse público, para as actividades a exercer em regime de parceria no âmbito do presente decreto-lei, nos termos da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - Os trabalhadores a que se refere o número anterior podem candidatar-se ao procedimento concursal de recrutamento para mudança de categoria na respectiva carreira.\n\n3 - A retribuição relevante para o cálculo dos descontos para a Caixa Geral de Aposentações e da pensão do pessoal a que se refere o n.º 1 é a que corresponde à do seu lugar de origem.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09"
+  },
+  "870784966": {
+   "fragment_id": "57189284",
+   "type": 11,
+   "heading": "Artigo 7.º — Activos patrimoniais",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Activos patrimoniais\n\nO estabelecimento de parcerias, em qualquer das suas modalidades, pode envolver a alienação de património do Estado ou de outras entidades públicas, nos termos a estabelecer nos respectivos instrumentos contratuais.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784967": {
+   "fragment_id": "57189285",
+   "type": 1,
+   "heading": "Capítulo II — Contrato de gestão",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "### Capítulo II — Contrato de gestão\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "870784968": {
+   "fragment_id": "57189286",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "870784969": {
+   "fragment_id": "57189287",
+   "type": 11,
+   "heading": "Artigo 8.º — Objecto",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Artigo 8.º — Objecto\n\n1 - O contrato de gestão tem por objecto principal assegurar as prestações de saúde promotoras, preventivas ou terapêuticas, correspondentes ao serviço público de saúde através de um estabelecimento de saúde, ou parte funcionalmente autónoma, integrado ou a integrar no Serviço Nacional de Saúde.\n\n2 - O contrato de gestão pode ainda ter por objecto a concepção, construção, financiamento, conservação e exploração do estabelecimento, ou de parte funcionalmente autónoma.\n\n3 - As partes no contrato de gestão são a entidade pública contratante e a entidade gestora.\n\n4 - A entidade pública contratante é o Estado ou qualquer outra pessoa colectiva pertencente ao Ministério da Saúde ou integrada no Serviço Nacional de Saúde.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "870784970": {
+   "fragment_id": "57189288",
+   "type": 11,
+   "heading": "Artigo 9.º — Integração no Serviço Nacional de Saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09"
+   ],
+   "markdown": "###### Artigo 9.º — Integração no Serviço Nacional de Saúde\n\n1 - A entidade gestora deve assegurar as prestações de saúde nos termos dos demais estabelecimentos que integram o Serviço Nacional de Saúde.\n\n2 - O estabelecimento afecto ao contrato de gestão deve garantir, nomeadamente, a aplicação do regime disposto em diplomas que definam o regime legal de carreira de profissões da saúde, bem como a continuidade dos cuidados de saúde e o acesso dos utentes do Serviço Nacional de Saúde, de acordo com a articulação definida e as responsabilidades que lhe estão atribuídas.\n\n3 - O contrato de gestão fixa as obrigações da entidade gestora para efeitos dos números anteriores.\n\n4 - O contrato de gestão deve, ainda, regular as actividades acessórias que a entidade gestora pode prosseguir, bem como a possibilidade de utilizar o estabelecimento para a realização de prestações de saúde fora do âmbito do serviço público que assegura, desde que esta utilização se faça, comprovadamente, sem prejuízo das obrigações de serviço público.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 176/2009 - Diário da República n.º 149/2009, Série I de 2009-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2009-493009), em vigor a partir de 2009-08-09"
+  },
+  "870784971": {
+   "fragment_id": "57189289",
+   "type": 11,
+   "heading": "Artigo 10.º — Entidade gestora",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Artigo 10.º — Entidade gestora\n\n1 - A entidade gestora deve oferecer garantias de idoneidade, qualificação técnica e capacidade financeira que satisfaçam os requisitos que forem fixados no programa do procedimento prévio à contratação.\n\n2 - A entidade gestora deve ser uma sociedade comercial com sede e administração principal localizadas em Portugal e cujo objecto exclusivo deve ser o exercício da actividade a conceder.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "870784972": {
+   "fragment_id": "57189290",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazo",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 11.º — Prazo\n\nO contrato de gestão não pode exceder o prazo de 30 anos, podendo ser prorrogado nos termos fixados nos documentos contratuais.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "870784973": {
+   "fragment_id": "57189291",
+   "type": 11,
+   "heading": "Artigo 12.º — Competências do Ministro da Saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+   ],
+   "markdown": "###### Artigo 12.º — Competências do Ministro da Saúde\n\n1 - Compete ao Ministro da Saúde, com faculdade de delegação, a qual pode, por sua vez, ser subdelegada, o seguinte:\n\na) Autorizar o lançamento da parceria;\n\nb) Escolher o co-contratante;\n\nc) Decidir sobre a conveniência de declarar sem efeito os procedimentos iniciados, bem como da não adjudicação do contrato de gestão aos concorrentes;\n\nd) Aprovar e autorizar a celebração dos contratos de gestão;\n\ne) Autorizar a introdução de modificações aos contratos de gestão;\n\nf) Declarar a utilidade pública das expropriações dos terrenos necessários à execução das actividades objecto do contrato de gestão e designar a entidade que, em nome do Estado, conduzirá a realização dos processos expropriativos dos bens ou direitos necessários à execução do contrato de gestão;\n\ng) Superintender no acompanhamento e fiscalização dos contratos de gestão, sem prejuízo das competências do Ministro das Finanças;\n\nh) Decidir sobre a aplicação de multas, o sequestro e a extinção do contrato de gestão.\n\n2 - O disposto nas alíneas a) a e) do número anterior, observa o regime previsto no Decreto-Lei n.º 86/2003, de 26 de Abril.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+  },
+  "870784974": {
+   "fragment_id": "57189292",
+   "type": 11,
+   "heading": "Artigo 13.º — Procedimento prévio à contratação",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Procedimento prévio à contratação\n\n1 - A celebração de contratos de gestão deve ser precedida de procedimento concursal específico.\n\n2 - O procedimento a que se refere o número anterior pode conter uma fase de negociação de acordo com o estabelecido no respectivo programa de procedimento tipo.\n\n3 - Excepcionalmente, nos casos em que a execução do contrato de gestão pressuponha exigências especiais, nomeadamente quando seja indispensável a associação de entidades com especiais qualificações técnicas, a escolha do co-contratante é decidida por despacho do Ministro da Saúde.\n\n4 - O procedimento prévio à contratação pode ser declarado sem efeito ou não haver adjudicação a qualquer dos concorrentes após a sua abertura, com fundamento em razões de interesse público ou por as propostas serem inaceitáveis.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "871044575": {
+   "fragment_id": "57189293",
+   "type": 11,
+   "heading": "Artigo 14.º — Programa do procedimento e caderno de encargos",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 14.º — Programa do procedimento e caderno de encargos\n\n1 - As condições gerais dos procedimentos prévios à contratação bem como o caderno de encargos tipo do contrato de gestão são aprovados por decreto regulamentar.\n\n2 - Para efeitos do número anterior devem ser reguladas, nomeadamente, as seguintes matérias:\n\na) As exigências especiais relativamente aos concorrentes e à entidade gestora;\n\nb) O critério de apreciação das propostas e respectivos factores;\n\nc) As normas relativas à tramitação do procedimento prévio à contratação, incluindo eventuais garantias a prestar pelos concorrentes;\n\nd) A duração do contrato de gestão;\n\ne) A responsabilidade pela concepção, projecto e construção do estabelecimento, quando for aplicável;\n\nf) A necessidade de estudos prévios a realizar pelos concorrentes;\n\ng) A responsabilidade pelos custos directos e indirectos resultantes da execução das obras;\n\nh) A responsabilidade pela qualidade do estabelecimento;\n\ni) As regras sobre garantia de qualidade das prestações realizadas pela entidade gestora;\n\nj) A possibilidade de alterações aos estabelecimentos já existentes, quando for o caso;\n\nl) As responsabilidades de serviço público de saúde que devem ser asseguradas pela entidade gestora;\n\nm) A articulação funcional do estabelecimento incluído no objecto do contrato de gestão com os restantes estabelecimentos integrados no Serviço Nacional de Saúde (SNS);\n\nn) As condições e mecanismos de alteração da prestação da entidade gestora e da remuneração, bem como da modificação objectiva e subjectiva do contrato;\n\no) Os mecanismos de acompanhamento e fiscalização da execução do contrato;\n\np) Os critérios para a fixação de indemnização da entidade gestora em caso de resgate ou rescisão unilateral não imputável à entidade gestora.\n\n3 - O programa do procedimento e o caderno de encargos específicos relativos a cada um dos contratos de gestão são aprovados por despacho do Ministro da Saúde.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044576": {
+   "fragment_id": "57189294",
+   "type": 8,
+   "heading": "Secção II — Direitos e deveres dos contratantes",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "#### Secção II — Direitos e deveres dos contratantes\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "871044577": {
+   "fragment_id": "57189295",
+   "type": 11,
+   "heading": "Artigo 15.º — Poderes da entidade pública contratante",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 15.º — Poderes da entidade pública contratante\n\n1 - A entidade pública contratante deve regulamentar e fiscalizar o exercício do contrato de gestão, com vista a assegurar a regularidade, continuidade e qualidade das prestações de saúde, bem como a comodidade e segurança dos utentes.\n\n2 - Os poderes decorrentes do número anterior são exercidos nos termos estabelecidos no contrato de gestão, o qual deve, neste âmbito, prever, designadamente:\n\na) Os poderes de fiscalização da entidade pública contratante;\n\nb) Os actos de gestão da entidade gestora sujeitos a autorização, aprovação ou homologação da entidade pública contratante.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044578": {
+   "fragment_id": "57189296",
+   "type": 11,
+   "heading": "Artigo 16.º — Deveres da entidade gestora",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 16.º — Deveres da entidade gestora\n\n1 - As entidades gestoras são obrigadas a:\n\na) Afectar à execução da obra e à exploração do serviço os meios humanos, técnicos e financeiros necessários à boa execução do contrato;\n\nb) Efectuar os trabalhos necessários à boa conservação das instalações e equipamentos;\n\nc) Acompanhar a evolução técnica do processo de exploração adoptado;\n\nd) Manter os parâmetros de qualidade definidos no contrato de gestão;\n\ne) Prestar às entidades fiscalizadoras as informações e esclarecimentos necessários ao desempenho das suas funções e facultar-lhes os meios necessários ao exercício efectivo das suas competências;\n\nf) Prestar as informações necessárias ao acompanhamento da execução da parceria sempre que for solicitado pelas entidades competentes;\n\ng) Cumprir as regras e princípios comunitários sobre contratação pública relativas à realização de empreitadas de obras públicas;\n\nh) Cumprir os demais deveres impostos pelo contrato de gestão.\n\n2 - Sem prévia autorização da entidade pública contratante e sob pena de nulidade, a entidade gestora não pode realizar qualquer dos seguintes actos:\n\na) Alteração do objecto social;\n\nb) Redução do capital social;\n\nc) Transformação, fusão, cisão ou dissolução da sociedade;\n\nd) Alienação do capital social a terceiros;\n\ne) Cessão da posição contratual.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044579": {
+   "fragment_id": "57189297",
+   "type": 11,
+   "heading": "Artigo 17.º — Direitos especiais da entidade gestora",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 17.º — Direitos especiais da entidade gestora\n\nOs contratos de gestão podem atribuir às entidades gestoras os direitos e faculdades que sejam indispensáveis à realização da obra ou à exploração do serviço, nomeadamente quanto à:\n\na) Utilização do domínio público a título gratuito;\n\nb) Constituição de servidões;\n\nc) Realização de expropriações por utilidade pública, nos termos do artigo 23.º;\n\nd) Celebração de contratos jurídico-públicos.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044580": {
+   "fragment_id": "57189298",
+   "type": 11,
+   "heading": "Artigo 18.º — Remuneração da entidade gestora",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+   ],
+   "markdown": "###### Artigo 18.º — Remuneração da entidade gestora\n\n1 - A entidade gestora é remunerada mediante uma ou mais das seguintes modalidades a fixar no contrato de gestão:\n\na) Mediante um valor per capita fixado para a população abrangida pelo estabelecimento;\n\nb) De acordo com uma tabela de preços específica para as prestações de saúde realizadas;\n\nc) Através de um valor global para o conjunto de prestações de saúde;\n\nd) Outra modalidade de pagamento a fixar no caderno de encargos específico.\n\n2 - O pagamento à entidade gestora é feito mediante prestações periódicas unitárias.\n\n3 - O contrato de gestão pode prever formas de remuneração que incluam incentivos e penalidades.\n\n4 - Os mecanismos de revisão da remuneração e a eventual partilha de vantagens resultantes da renegociação de quaisquer contratos necessários à execução da parceria devem ser fixados igualmente no contrato de gestão.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 86/2003 - Diário da República n.º 97/2003, Série I-A de 2003-04-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2003-240646), em vigor a partir de 2003-04-27"
+  },
+  "871044581": {
+   "fragment_id": "57189299",
+   "type": 11,
+   "heading": "Artigo 19.º — Outras formas de remuneração da entidade gestora",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 19.º — Outras formas de remuneração da entidade gestora\n\n1 - O contrato de gestão define as receitas que são consideradas remuneração da entidade gestora, designadamente as resultantes de prestações a terceiros no âmbito de actividades acessórias ou de serviços não previstos para a generalidade dos utentes.\n\n2 - A entidade gestora pode cobrar as prestações de saúde realizadas directamente aos subsistemas de saúde ou outras entidades, públicas ou privadas, responsáveis, legal ou contratualmente, nos termos dos demais estabelecimentos do SNS.\n\n3 - (Revogado).\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "871044582": {
+   "fragment_id": "57189300",
+   "type": 11,
+   "heading": "Artigo 20.º — Amortizações e reintegrações",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 20.º — Amortizações e reintegrações\n\nPodem ser adoptadas, para efeitos fiscais, taxas de amortização ou de reintegração diferentes das que se encontrem legalmente em vigor, nos termos a estabelecer no Decreto Regulamentar n.º 2/90, de 12 de Janeiro.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "871044583": {
+   "fragment_id": "57189301",
+   "type": 11,
+   "heading": "Artigo 21.º — Acompanhamento e fiscalização",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 21.º — Acompanhamento e fiscalização\n\nOs contratos de gestão no âmbito do Serviço Nacional de Saúde devem estabelecer as condições em que a entidade pública contratante acompanha e fiscaliza a actividade da entidade gestora, bem como a repartição da responsabilidade pelos respectivos encargos, sem prejuízo das competências atribuídas ao Ministro das Finanças.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "871044584": {
+   "fragment_id": "57189302",
+   "type": 11,
+   "heading": "Artigo 22.º — Financiamento",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 22.º — Financiamento\n\n1 - A entidade gestora é responsável pela obtenção do financiamento necessário ao desenvolvimento de todas as actividades que integram o objecto do contrato, de forma a cumprir cabal e pontualmente todas as obrigações por si assumidas.\n\n2 - Com vista à obtenção dos fundos necessários ao desenvolvimento das actividades objecto do contrato de gestão, a entidade gestora contrairá os empréstimos, prestará as garantias e celebrará com os bancos financiadores os demais actos e contratos que constituem os contratos de financiamento.\n\n3 - Não são oponíveis à entidade pública contratante quaisquer excepções ou meios de defesa que resultem das relações contratuais estabelecidas pela entidade gestora nos termos do número anterior.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "871044585": {
+   "fragment_id": "57189303",
+   "type": 11,
+   "heading": "Artigo 23.º — Expropriações por utilidade pública",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 23.º — Expropriações por utilidade pública\n\n1 - São de utilidade pública com carácter de urgência todas as expropriações necessárias à execução, directa ou indirecta, do contrato de gestão, competindo à entidade gestora a prática dos actos que individualizem os bens a expropriar, nos termos do Código das Expropriações, sendo da sua exclusiva responsabilidade os erros e omissões.\n\n2 - A condução e a realização dos processos expropriativos dos bens ou direitos necessários à execução do contrato de gestão competem à entidade que o Ministério da Saúde designar como entidade expropriante em nome do Estado.\n\n3 - O contrato de gestão deve determinar a responsabilidade pelos custos inerentes à condução dos processos expropriativos e, bem assim, o pagamento de indemnizações ou outras compensações devidas pelas expropriações ou da imposição de servidões ou outros ónus ou encargos delas derivados.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "871044586": {
+   "fragment_id": "57189304",
+   "type": 8,
+   "heading": "Secção III — Modificações do contrato",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "#### Secção III — Modificações do contrato\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "871044587": {
+   "fragment_id": "57189305",
+   "type": 11,
+   "heading": "Artigo 24.º — Modificações objectivas",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 24.º — Modificações objectivas\n\n1 - A modificação do contrato de gestão pode resultar de um facto imprevisto na execução do contrato, de acto unilateral da entidade pública contratante ou de solicitação da entidade gestora.\n\n2 - A modificação pode ser feita por acto unilateral da entidade pública contratante ou por acordo entre entidade pública contratante e entidade gestora.\n\n3 - Podem servir de fundamento à modificação do contrato a necessidade de ajustamento às prestações de serviço público que devem ser realizadas, desequilíbrios nas condições de exploração do serviço ou qualquer facto que exija o reequilíbrio económico-financeiro do contrato.\n\n4 - A modificação do contrato de gestão pode ser feita por recurso à mediação ou arbitragem.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044588": {
+   "fragment_id": "57189306",
+   "type": 11,
+   "heading": "Artigo 25.º — Modificações subjectivas e subcontratação",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 25.º — Modificações subjectivas e subcontratação\n\n1 - A entidade gestora não pode ceder, alienar, ou por qualquer forma onerar, no todo ou em parte, a sua posição jurídica no contrato de gestão ou realizar qualquer negócio que vise atingir idêntico resultado sem prévio consentimento da entidade pública contratante.\n\n2 - A subcontratação pode ser admitida nos termos a estabelecer no contrato de gestão.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044589": {
+   "fragment_id": "57189307",
+   "type": 8,
+   "heading": "Secção IV — Não cumprimento e extinção",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "#### Secção IV — Não cumprimento e extinção\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "871044590": {
+   "fragment_id": "57189308",
+   "type": 11,
+   "heading": "Artigo 26.º — Multas",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 26.º — Multas\n\nOs contratos de gestão devem estabelecer as multas a pagar pela entidade gestora em caso de não cumprimento, as quais devem ser proporcionais ao valor do contrato e ao grau de lesão do interesse público.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044591": {
+   "fragment_id": "57189309",
+   "type": 11,
+   "heading": "Artigo 27.º — Sequestro",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 27.º — Sequestro\n\n1 - A entidade pública contratante tem a faculdade de sequestro do estabelecimento nos seguintes casos:\n\na) Quando ocorra ou esteja iminente a interrupção injustificada da realização das prestações de saúde;\n\nb) Quando se verifiquem perturbações ou deficiências graves na organização e funcionamento da entidade gestora ou no estado geral das instalações e do material afectos à execução do contrato.\n\n2 - Durante o sequestro, a exploração do estabelecimento é assegurada por representantes da entidade pública contratante, correndo por conta da entidade gestora as despesas necessárias para a manutenção e normalização da exploração.\n\n3 - O sequestro é mantido enquanto for julgado necessário, podendo a entidade pública contratante notificar no seu termo a entidade gestora para retomar a exploração da gestão, a qual é rescindida, nos termos do artigo seguinte, caso a entidade gestora não a aceite.\n\n4 - No caso de a entidade gestora não retomar a exploração do estabelecimento, o contrato de gestão deve ser rescindido.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044592": {
+   "fragment_id": "57189310",
+   "type": 11,
+   "heading": "Artigo 28.º — Extinção",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 28.º — Extinção\n\nO contrato de gestão extingue-se nos seguintes casos:\n\na) Decurso do prazo pelo qual foram atribuídas;\n\nb) Acordo entre a entidade pública contratante e a entidade gestora;\n\nc) Resgate;\n\nd) Rescisão por razões de interesse público;\n\ne) Rescisão por incumprimento contratual.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044593": {
+   "fragment_id": "57189311",
+   "type": 11,
+   "heading": "Artigo 29.º — Resgate",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 29.º — Resgate\n\n1 - Verifica-se o resgate sempre que a entidade pública contratante retome a exploração antes do termo do prazo contratual.\n\n2 - O resgate da gestão confere à entidade gestora o direito ao recebimento de uma indemnização.\n\n3 - O contrato de gestão deve estabelecer o prazo a partir do qual pode ser exercido o resgate e os critérios a observar para cálculo do valor da indemnização prevista no número anterior.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044594": {
+   "fragment_id": "57189312",
+   "type": 11,
+   "heading": "Artigo 30.º — Rescisão por razões de interesse público",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 30.º — Rescisão por razões de interesse público\n\n1 - O contrato de gestão pode ser rescindido unilateralmente pela entidade pública contratante em qualquer momento, quando razões de interesse público o imponham, independentemente do incumprimento pela entidade gestora de quaisquer obrigações a que esteja vinculado.\n\n2 - A rescisão declarada ao abrigo do número anterior confere à entidade gestora o direito a uma indemnização calculada tendo em conta o tempo em falta para o termo da gestão e os investimentos por si efectuados.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044595": {
+   "fragment_id": "57189313",
+   "type": 11,
+   "heading": "Artigo 31.º — Rescisão por incumprimento contratual",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+   ],
+   "markdown": "###### Artigo 31.º — Rescisão por incumprimento contratual\n\n1 - A entidade pública contratante pode, em caso de incumprimento de obrigações fundamentais a que a entidade gestora esteja obrigada, rescindir o contrato nos termos estabelecidos no contrato de gestão.\n\n2 - Constituem, em especial, motivo para a rescisão unilateral do contrato de gestão:\n\na) O abandono da exploração ou a sua suspensão injustificada;\n\nb) A transmissão total ou parcial da exploração, temporária ou definitiva, não autorizada;\n\nc) A falta de pagamento das retribuições devidas à entidade pública contratante e estabelecidas no respectivo contrato;\n\nd) O incumprimento das obrigações de serviço público nos termos contratualmente fixados.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30"
+  },
+  "871044596": {
+   "fragment_id": "57189314",
+   "type": 11,
+   "heading": "Artigo 32.º — Reversão dos bens",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 32.º — Reversão dos bens\n\n1 - Com a extinção do contrato de gestão, por qualquer das formas legalmente previstas, reverte para a entidade pública contratante a universalidade de bens e direitos que integram o estabelecimento.\n\n2 - A reversão efectua-se nos termos estabelecidos no respectivo contrato, o qual pode prever o pagamento de uma compensação à entidade gestora.\n\n3 - Os bens afectos à gestão devem ser entregues à entidade pública contratante livres de quaisquer ónus ou encargos, sendo nulos os actos jurídicos que estabeleçam ou imponham qualquer oneração ou encargo para além do período da gestão.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "871044597": {
+   "fragment_id": "57189315",
+   "type": 11,
+   "heading": "Artigo 33.º — Resolução de conflitos",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 33.º — Resolução de conflitos\n\n1 - Os litígios surgidos entre as partes contratantes no âmbito dos contratos celebrados ao abrigo do presente diploma são resolvidos por recurso à arbitragem.\n\n2 - Os contratos devem estabelecer a composição e a competência das comissões, e regras básicas do seu funcionamento, dos tribunais arbitrais, bem como os processos de mediação e as regras básicas do seu funcionamento.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "871044598": {
+   "fragment_id": "57189316",
+   "type": 1,
+   "heading": "Capítulo III — Outros instrumentos contratuais",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "### Capítulo III — Outros instrumentos contratuais\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "871044599": {
+   "fragment_id": "57189317",
+   "type": 11,
+   "heading": "Artigo 34.º — Remissão",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Artigo 34.º — Remissão\n\nOs demais instrumentos contratuais previstos no artigo 5.º devem respeitar, com as necessárias adaptações, os princípios dos artigos 10.º a 12.º e 15.º a 33.º\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "871044600": {
+   "fragment_id": "57189318",
+   "type": 11,
+   "heading": "Artigo 35.º — Contrato de prestação de serviços",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 35.º — Contrato de prestação de serviços\n\n1 - São contratos de prestação de serviços, no âmbito das parcerias em saúde, aqueles em que o co-contratante da Administração realiza uma actividade de apoio à realização de prestações de saúde no âmbito de um estabelecimento de saúde.\n\n2 - Os contratos de prestação de serviços podem ter por objecto uma ou mais das actividades referidas no n.º 2 do artigo 2.º\n\n3 - O procedimento prévio rege-se pelo disposto para a contratação pública em matéria de aquisição de bens e serviços ou de empreitadas de obras públicas consoante a componente de maior expressão financeira, sem prejuízo da possibilidade de aplicação do disposto no n.º 2 do artigo 13.º\n\n4 - (Revogado).\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "871044601": {
+   "fragment_id": "57189319",
+   "type": 11,
+   "heading": "Artigo 36.º — Contrato de colaboração",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Artigo 36.º — Contrato de colaboração\n\nPodem ser integrados no Serviço Nacional de Saúde mediante contrato de colaboração os estabelecimentos de saúde pertencentes a outras entidades, aplicando-se, com as necessárias adaptações, o disposto para o contrato de gestão.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "871044602": {
+   "fragment_id": "57189320",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "871044603": {
+   "fragment_id": "57189321",
+   "type": 11,
+   "heading": "Artigo 37.º — Actividade reguladora",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 37.º — Actividade reguladora\n\nAs actividades desenvolvidas no âmbito das parcerias em saúde em regime de gestão e financiamento privados podem ser objecto de regulação económica, sendo o financiamento da entidade reguladora assegurado pelas entidades reguladas, nos termos a definir em diploma próprio.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "871044604": {
+   "fragment_id": "57189322",
+   "type": 11,
+   "heading": "Artigo 38.º — Aquisição de bens e contratação de serviços",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 38.º — Aquisição de bens e contratação de serviços\n\nA aquisição de bens e a contratação de serviços necessários à implementação das parcerias em saúde regem-se pelas normas do direito privado, sem prejuízo da aplicação das directivas comunitárias e do acordo sobre mercados públicos, celebrado no âmbito da Organização Mundial do Comércio.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 111/2012 - Diário da República n.º 100/2012, Série I de 2012-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2012-177863), em vigor a partir de 2012-07-01"
+  },
+  "871044605": {
+   "fragment_id": "57189323",
+   "type": 11,
+   "heading": "Artigo 39.º — Revogação",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Artigo 39.º — Revogação\n\nÉ revogado o disposto nos artigos 28.º a 31.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, na parte referente ao contrato de gestão.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "871044606": {
+   "fragment_id": "57189324",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Julho de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira.\n\nPromulgado em 29 de Julho de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Agosto de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  }
+ }
+}

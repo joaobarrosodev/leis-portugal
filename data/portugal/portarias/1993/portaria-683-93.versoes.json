@@ -1,0 +1,177 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:393819:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1993-945915948",
+ "dre_path": "/dr/detalhe/portaria/683-1993-393819",
+ "source_lastmod": "2025-11-13",
+ "versions": [
+  {
+   "date": "1993-07-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "945944302",
+    "945944303",
+    "945944304",
+    "945944305",
+    "945944306",
+    "945944307",
+    "945944308",
+    "945944309",
+    "945944310",
+    "945944311"
+   ]
+  },
+  {
+   "date": "1993-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:451201:por",
+     "title": "Declaração de Rectificação n.º 187/93",
+     "published": "1993-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/187-1993-451201"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º",
+    "Retifica Artigo 6.º",
+    "Retifica Artigo 9.º"
+   ],
+   "fragments": [
+    "945944302",
+    "945944303",
+    "945944315",
+    "945944305",
+    "945944306",
+    "945944307",
+    "945944316",
+    "945944309",
+    "945944310",
+    "945944317",
+    "945944312"
+   ]
+  }
+ ],
+ "fragments": {
+  "945944302": {
+   "fragment_id": "945915949",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 683/93\n\nde 21 de Julho\n\nEm cumprimento do disposto no artigo 30.º e nos termos do n.º 2 do artigo 4.º, ambos do Decreto-Lei n.º 219/92, de 15 de Outubro:\n\nManda o Governo, pelos Ministros do Planeamento e da Administração do Território e da Indústria e Energia, o seguinte:\n\nComposição e regulamento do conselho responsável pelas actividades de formação do Instituto Geológico e Mineiro"
+  },
+  "945944303": {
+   "fragment_id": "945915950",
+   "type": 11,
+   "heading": "Artigo 1.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Composição\n\n1 - O conselho responsável pelas actividades de formação (CRAF) do Instituto Geológico e Mineiro (IGM) é composto pelo conselho directivo e por todos os investigadores-coordenadores, principais e auxiliares do IGM.\n\n2 - Poderão ainda ser convidados a participar, sem direito a voto, pessoas ou entidades cujas presenças e colaboração sejam consideradas necessárias para uma mais correcta apreciação dos assuntos a tratar."
+  },
+  "945944304": {
+   "fragment_id": "945915951",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - Para além das competências previstas no n.º 5 do artigo 4.º do Decreto-Lei n.º 219/92, de 15 de Outubro, compete ainda ao CRAF:\n\na) Definir as áreas científicas adequadas para acesso às categorias de assistente de investigação e investigador auxiliar, nos termos dos artigos 6.º e 7.º do artigo 11.º e alínea c) do n.º 6 do artigo 17.º do Decreto-Lei n.º 219/92, bem como dos candidatos a investigador principal, nos termos da alínea c) do n.º 1 do artigo 10.º do mesmo diploma;\n\nb) Apreciar os currículos dos candidatos nos concursos de provas públicas para a categoria de investigador auxiliar, de acordo com a alínea b) do n.º 1 do artigo 10.º do Decreto-Lei n.º 219/92;\n\nc) Propor ao conselho directivo os investigadores ou professores a designar para apreciarem os relatórios dos investigadores candidatos a nomeação definitiva, nos termos dos n.os 2 e 4 do artigo 14.º do Decreto-Lei n.º 219/92;\n\nd) Aprovar os programas de formação dos assistentes de investigação e dos estagiários de investigação, com parecer favorável dos orientadores.\n\n2 - Compete igualmente ao CRAF elaborar proposta de condições complementares para efeitos de progressão na carreira de investigação, nos termos do n.º 2 do artigo 15.º do Decreto-Lei n.º 219/92."
+  },
+  "945944305": {
+   "fragment_id": "945915952",
+   "type": 11,
+   "heading": "Artigo 3.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Funcionamento\n\n1 - O CRAF funciona em plenário e em comissão coordenadora.\n\n2 - O presidente do conselho directivo preside ao plenário e à comissão coordenadora, podendo delegar tal competência num investigador-coordenador.\n\n3 - O plenário é constituído por todos os membros do CRAF e reunirá ordinariamente duas vezes por ano ou extraordinariamente por iniciativa do presidente, a solicitação da comissão coordenadora ou a requerimento devidamente justificado de, pelo menos, um terço dos seus membros.\n\n4 - A comissão coordenadora é constituída pelo presidente, pelos vice-presidentes do conselho directivo e pelos investigadores responsáveis por projectos de investigação científica e reunirá ordinariamente de dois em dois meses ou extraordinariamente por iniciativa do presidente ou a requerimento de, pelo menos, um terço dos seus membros.\n\n5 - As reuniões do plenário e da comissão coordenadora serão secretariadas por um secretário nomeado pelo presidente, que a elas assistirá, sem direito a voto."
+  },
+  "945944306": {
+   "fragment_id": "945915953",
+   "type": 11,
+   "heading": "Artigo 4.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reuniões\n\n1 - As reuniões do CRAF devem ser convocadas pelo presidente com a antecedência mínima de 15 dias.\n\n2 - Para que as reuniões do CRAF sejam deliberativas é necessária a presença da maioria dos seus membros.\n\n3 - Em todas as reuniões do CRAF as deliberações são tomadas por maioria de votos dos membros presentes, tendo o seu presidente voto de qualidade em caso de empate.\n\n4 - Só têm direito a voto nas deliberações respeitantes a investigadores de cada categoria os membros do CRAF que detenham categoria superior à daqueles, salvo no caso dos investigadores-coordenadores, em que votarão os de igual categoria ou equivalente.\n\n5 - Das reuniões do CRAF serão elaboradas actas, que, depois de aprovadas, serão assinadas pelo presidente e pelo secretário, devendo ser ainda homologadas pelo presidente quando este tenha delegado a presidência."
+  },
+  "945944307": {
+   "fragment_id": "945915954",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuições do plenário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições do plenário\n\n1 - Constituem atribuições do plenário as competências do CRAF a seguir indicadas:\n\na) Aprovar os planos anuais ou plurianuais de actividades de formação dos assistentes e estagiários de investigação do IGM, bem como o relatório de actividades respeitantes ao ano anterior;\n\nb) Definir as orientações gerais sobre a natureza da prova complementar de acesso à categoria de investigador auxiliar;\n\nc) Propor acordos ou convénios com universidades, com vista a permitir que as provas de acesso à categoria de investigador possam dar lugar à obtenção do grau de doutor, nos termos do n.º 7 do artigo 17.º do Decreto-Lei n.º 219/92.\n\n2 - O plenário pode delegar na comissão coordenadora algumas atribuições previstas no número anterior.\n\n3 - O plenário funciona ainda como instância de recurso das decisões da comissão coordenadora, nos termos da lei geral em vigor."
+  },
+  "945944308": {
+   "fragment_id": "945915955",
+   "type": 11,
+   "heading": "Artigo 6.º — Atribuições da comissão coordenadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atribuições da comissão coordenadora\n\nConstituem, entre outras, atribuições da comissão coordenadora as competências do CRAF a seguir indicadas:\n\na) Designar os orientadores dos assistentes e estagiários de investigação, ouvidos os responsáveis pelos projectos em que aqueles se integram;\n\nb) Propor ao director-geral a composição dos júris dos concursos abertos, nos termos do artigo 20.º do Decreto-Lei n.º 219/92;\n\nc) Deliberar sobre a prova a que se refere o n.º 5 do artigo 17.º do Decreto-Lei n.º 219/92, nos termos das orientações gerais definidas pelo plenário;\n\nd) Aprovar os programas de formação adequados dos assistentes de investigação, previstos na alínea b) do n.º 6 do artigo 17.º do Decreto-Lei n.º 219/92;\n\ne) Confirmar o cumprimento do programa de formação dos assistentes de investigação, para efeitos do n.º 6 do artigo 17.º do Decreto-Lei n.º 219/92;\n\nf) Aprovar as áreas científicas adequadas para acesso às categorias de assistentes de investigação e investigador auxiliar, nos termos dos artigos 6.º e 7.º do n.º 2 do artigo 11.º e da alínea c) do n.º 6 do artigo 17.º do Decreto-Lei n.º 219/92, bem como dos candidatos à categoria de investigador principal, nos termos da alínea c) do n.º 1 do artigo 10.º do mesmo diploma;\n\ng) Reconhecer o mérito científico dos currículos dos candidatos a investigador auxiliar, nos termos da alínea b) do n.º 1 do artigo 10.º do Decreto-Lei n.º 219/92;\n\nh) Emitir parecer sobre os relatórios de actividades levadas a cabo pelos investigadores em regime de dedicação exclusiva;\n\ni) Propor ao presidente os investigadores ou professores universitários a designar para apreciarem os relatórios dos investigadores candidatos a nomeação definitiva, nos termos dos n.os 2 e 4 do artigo 14.º do Decreto-Lei n.º 219/92;\n\nj) Promover a coordenação das actividades de formação do pessoal da CI e as dos técnicos superiores que desenvolvam trabalhos de investigação;\n\nl) Designar os orientadores de doutoramento e de mestrado relativos aos técnicos superiores, ou vidos os responsáveis dos sectores em que estes se integram;\n\nm) Aprovar os temas de doutoramento e de mestrado relativos aos técnicos superiores, ouvidos os responsáveis dos sectores em que estes se integram."
+  },
+  "945944309": {
+   "fragment_id": "945915956",
+   "type": 11,
+   "heading": "Artigo 7.º — Actividades de formação em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Actividades de formação em geral\n\n1 - As actividades de formação dos assistentes e estagiários de investigação terão como principal objectivo formar investigadores altamente qualificados, no âmbito de geologia e minas, em ordem à prossecução dos fins do IGM, naturalmente articulado com a política científica nacional.\n\n2 - As actividades de formação dos assistentes e estagiários de investigação integram-se nos programas de formação de cada sector e, neste, no das respectivas unidades funcionais, podendo haver programas que abranjam duas ou mais dessas unidades.\n\n3 - Os programas de formação referidos no número anterior subdividem-se em acções com prazos de execução variável.\n\n4 - Os programas de formação dos assistentes e estagiários de investigação, para cada ano, serão elaborados até 30 de Novembro do ano anterior àquele a que dizem respeito, devendo constar do plano anual das actividades do IGM.\n\n5 - O relatório das actividades de formação dos assistentes e estagiários de investigação desenvolvidas no ano anterior será elaborado até final do mês de Fevereiro, devendo constar do relatório anual das actividades do IGM."
+  },
+  "945944310": {
+   "fragment_id": "945915957",
+   "type": 11,
+   "heading": "Artigo 8.º — Programas de formação dos assistentes de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Programas de formação dos assistentes de investigação\n\n1 - Os programas de formação dos assistentes de investigação a aprovar pelo CRAF, ouvidos os responsáveis orientadores, integrarão obrigatoriamente as seguintes actividades:\n\na) Participação em projectos de investigação e desenvolvimento implementados nas unidades científicas do IGM, sob orientação de investigadores ou professores do ensino superior, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 219/92;\n\nb) Frequência de estágios, cursos, seminários e colóquios, no âmbito das respectivas áreas científicas, realizados no IGM ou ao abrigo de acordos celebrados entre o IGM e outros organismos de investigação ou instituições universitários;\n\nc) Realização de trabalho de investigação científica em determinada especialidade, sob a orientação do respectivo orientador, conducente à elaboração de uma dissertação original para apresentação e discussão nas provas de acesso à categoria de investigador auxiliar;\n\nd) Colaboração, no âmbito da respectiva área científica, na formação dos estagiários de investigação ao nível da aprendizagem da metodologia e técnicas auxiliares de investigação, bem como na formação de pessoal técnico, científico e docente do ensino superior, assim como em acções de formação realizadas localmente por investigadores do IGM;\n\ne) Colaboração e participação nos estágios no âmbito da respectiva área científica.\n\n2 - Os programas referidos no número anterior poderão ainda incluir frequência de cursos de pós-graduação e colaboração no ensino e na investigação universitários, bem como outras actividades devidamente aprovadas e autorizadas.\n\n3 - Compete ao presidente do CRAF, ouvidos os responsáveis pelas áreas e os orientadores, elaborar parecer circunstanciado acerca do cumprimento por parte dos assistentes de investigação dos respectivos programas de formação adequados, previamente aprovados nos termos deste regulamento, para efeitos do disposto na alínea b) do n.º 6 do artigo 17.º do Decreto-Lei n.º 219/92."
+  },
+  "945944311": {
+   "fragment_id": "945915958",
+   "type": 11,
+   "heading": "Artigo 9.º — Programa de formação dos estagiários de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Programa de formação dos estagiários de investigação\n\n1 - Os programas de formação dos estagiários de investigação a aprovar pelo CRAF, ouvidos os respectivos orientadores, integrarão obrigatoriamente as seguintes actividades:\n\na) Execução de tarefas de introdução e actividades de investigação científica e desenvolvimento integradas em projectos científicos, sob orientação de um investigador ou professor universitário, nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 219/92;\n\nb) Aprendizagem da metodologia de investigação científica e de desenvolvimento e das técnicas auxiliares de investigação;\n\nc) Frequência de estágios de formação e cursos de aperfeiçoamento, bem como participação em seminários e outras reuniões científicas, ao abrigo de acordos celebrados com outros organismos de investigação ou instituições universitárias;\n\nd) Colaboração e participação nos estágios internos no âmbito da respectiva área científica;\n\ne) Elaboração de um relatório circunstanciado das actividades realizadas no período de aprendizagem, sobre o qual se pronunciará o respectivo orientador, que será apresentado para discussão pública nas respectivas provas de acesso à categoria de assistente de investigação;\n\nf) Elaboração de um trabalho síntese sobre um tema à sua escolha relacionado com a actividade desenvolvida, que será discutido nas respectivas provas de acesso à categoria de assistente de investigação.\n\n2 - Os estagiários de investigação poderão ainda frequentar cursos de pós-graduação e colaboração no ensino e na investigação universitários, bem como prosseguir outras actividades devidamente autorizadas."
+  },
+  "945944315": {
+   "fragment_id": "945915951",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": "1993-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 187/93 - Diário da República n.º 230/1993, 3º Suplemento, Série I-B de 1993-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/187-1993-451201), em vigor a partir de 1993-09-30"
+   ],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - Para além das competências previstas no n.º 5 do artigo 4.º do Decreto-Lei n.º 219/92, de 15 de Outubro, compete ainda ao CRAF:\n\na) Definir as áreas científicas adequadas para acesso às categorias de assistente de investigação e investigador auxiliar, nos termos dos artigos 6.º e 7.º, n.º 2 do artigo 11.º e alínea c) do n.º 6 do artigo 17.º do Decreto-Lei n.º 219/92, bem como dos candidatos a investigador principal, nos termos da alínea c) do n.º 1 do artigo 10.º do mesmo diploma;\n\nb) Apreciar os currículos dos candidatos nos concursos de provas públicas para a categoria de investigador auxiliar, de acordo com a alínea b) do n.º 1 do artigo 10.º do Decreto-Lei n.º 219/92;\n\nc) Propor ao conselho directivo os investigadores ou professores a designar para apreciarem os relatórios dos investigadores candidatos a nomeação definitiva, nos termos dos n.os 2 e 4 do artigo 14.º do Decreto-Lei n.º 219/92;\n\nd) Aprovar os programas de formação dos assistentes de investigação e dos estagiários de investigação, com parecer favorável dos orientadores.\n\n2 - Compete igualmente ao CRAF elaborar proposta de condições complementares para efeitos de progressão na carreira de investigação, nos termos do n.º 2 do artigo 15.º do Decreto-Lei n.º 219/92.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 187/93 - Diário da República n.º 230/1993, 3º Suplemento, Série I-B de 1993-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/187-1993-451201), em vigor a partir de 1993-09-30"
+  },
+  "945944316": {
+   "fragment_id": "945915955",
+   "type": 11,
+   "heading": "Artigo 6.º — Atribuições da comissão coordenadora",
+   "in_force_from": "1993-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 187/93 - Diário da República n.º 230/1993, 3º Suplemento, Série I-B de 1993-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/187-1993-451201), em vigor a partir de 1993-09-30"
+   ],
+   "markdown": "###### Artigo 6.º — Atribuições da comissão coordenadora\n\nConstituem, entre outras, atribuições da comissão coordenadora as competências do CRAF a seguir indicadas:\n\na) Designar os orientadores dos assistentes e estagiários de investigação, ouvidos os responsáveis pelos projectos em que aqueles se integram;\n\nb) Propor ao presidente do conselho directivo a composição dos júris dos concursos abertos, nos termos do artigo 20.º do Decreto-Lei n.º 219/92;\n\nc) Deliberar sobre a prova a que se refere o n.º 5 do artigo 17.º do Decreto-Lei n.º 219/92, nos termos das orientações gerais definidas pelo plenário;\n\nd) Aprovar os programas de formação adequados dos assistentes de investigação, previstos na alínea b) do n.º 6 do artigo 17.º do Decreto-Lei n.º 219/92;\n\ne) Confirmar o cumprimento do programa de formação dos assistentes de investigação, para efeitos do n.º 6 do artigo 17.º do Decreto-Lei n.º 219/92;\n\nf) Aprovar as áreas científicas adequadas para acesso às categorias de assistentes de investigação e investigador auxiliar, nos termos dos artigos 6.º e 7.º do n.º 2 do artigo 11.º e da alínea c) do n.º 6 do artigo 17.º do Decreto-Lei n.º 219/92, bem como dos candidatos à categoria de investigador principal, nos termos da alínea c) do n.º 1 do artigo 10.º do mesmo diploma;\n\ng) Reconhecer o mérito científico dos currículos dos candidatos a investigador auxiliar, nos termos da alínea b) do n.º 1 do artigo 10.º do Decreto-Lei n.º 219/92;\n\nh) Emitir parecer sobre os relatórios de actividades levadas a cabo pelos investigadores em regime de dedicação exclusiva;\n\ni) Propor ao presidente os investigadores ou professores universitários a designar para apreciarem os relatórios dos investigadores candidatos a nomeação definitiva, nos termos dos n.os 2 e 4 do artigo 14.º do Decreto-Lei n.º 219/92;\n\nj) Promover a coordenação das actividades de formação do pessoal da CI e as dos técnicos superiores que desenvolvam trabalhos de investigação;\n\nl) Designar os orientadores de doutoramento e de mestrado relativos aos técnicos superiores, ou vidos os responsáveis dos sectores em que estes se integram;\n\nm) Aprovar os temas de doutoramento e de mestrado relativos aos técnicos superiores, ouvidos os responsáveis dos sectores em que estes se integram.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 187/93 - Diário da República n.º 230/1993, 3º Suplemento, Série I-B de 1993-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/187-1993-451201), em vigor a partir de 1993-09-30"
+  },
+  "945944317": {
+   "fragment_id": "945915958",
+   "type": 11,
+   "heading": "Artigo 9.º — Programa de formação dos estagiários de investigação",
+   "in_force_from": "1993-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 187/93 - Diário da República n.º 230/1993, 3º Suplemento, Série I-B de 1993-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/187-1993-451201), em vigor a partir de 1993-09-30"
+   ],
+   "markdown": "###### Artigo 9.º — Programa de formação dos estagiários de investigação\n\n1 - Os programas de formação dos estagiários de investigação a aprovar pelo CRAF, ouvidos os respectivos orientadores, integrarão obrigatoriamente as seguintes actividades:\n\na) Execução de tarefas de introdução e actividades de investigação científica e desenvolvimento integradas em projectos científicos, sob orientação de um investigador ou professor universitário, nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 219/92;\n\nb) Aprendizagem da metodologia de investigação científica e de desenvolvimento e das técnicas auxiliares de investigação;\n\nc) Frequência de estágios de formação e cursos de aperfeiçoamento, bem como participação em seminários e outras reuniões científicas, ao abrigo de acordos celebrados com outros organismos de investigação ou instituições universitárias;\n\nd) Colaboração e participação nos estágios internos no âmbito da respectiva área científica;\n\ne) Elaboração de um relatório circunstanciado das actividades realizadas no período de aprendizagem, sobre o qual se pronunciará o respectivo orientador, que será apresentado para discussão pública nas respectivas provas de acesso à categoria de assistente de investigação;\n\nf) Elaboração de um trabalho síntese sobre um tema à sua escolha relacionado com a actividade desenvolvida, que será discutido nas respectivas provas de acesso à categoria de assistente de investigação.\n\n2 - Os estagiários de investigação poderão ainda frequentar cursos de pós-graduação e colaborar no ensino e na investigação universitários, bem como prosseguir outras actividades devidamente autorizadas.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 187/93 - Diário da República n.º 230/1993, 3º Suplemento, Série I-B de 1993-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/187-1993-451201), em vigor a partir de 1993-09-30"
+  },
+  "945944312": {
+   "fragment_id": "945915959",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios do Planeamento e da Administração do Território e da Indústria e Energia.\n\nAssinada em 1 de Julho de 1993.\n\nO Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral."
+  }
+ }
+}

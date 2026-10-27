@@ -1,0 +1,238 @@
+---
+schema_version: '1.0'
+id: pt:dre:1055043920:por
+title: Portaria n.º 84/2026/1
+short_title: null
+summary: Procede à revisão intercalar da tabela remuneratória dos trabalhadores da Administração Pública portuguesa recrutados
+  para exercer funções nos serviços periféricos externos do Ministério dos Negócios Estrangeiros (SPE do MNE) na Argentina.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Negócios Estrangeiros e Finanças
+proposing_entity: null
+official_number: 84/2026/1
+official_date: null
+publication_date: '2026-02-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 36/2026, Série I de 2026-02-20
+  number: '36'
+  series: I
+  supplement: null
+  pages: 89 - 92
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/02/03600/0008900092.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/84/2026/02/20/p/dre/pt/html
+  oj: null
+  dre: '1055043920'
+  dre_path: /dr/detalhe/portaria/84-2026-1055043920
+  internal: pt:dre:1055043920:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/84-2026-1055043920
+  metadata_url: https://data.dre.pt/eli/port/84/2026/02/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/84-2026-1055043920
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:32:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8408d5d4910d789cca52dbb139b06e753adef3b7582fc1081b1b5bd9bdd9ff56
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:32:53Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Abono para Falhas
+- Argentina
+- Centro de Atendimento Consular
+- Ministério dos Negócios Estrangeiros
+- Regulamentação de Atos Legislativos
+- Serviços Periféricos
+- Tabela Salarial
+- Trabalhador
+relationships:
+- type: amends
+  target: pt:numero:portaria:397-A/2023
+  label: Atualiza, a partir de 21 de fevereiro de 2026, com efeitos a 1 de julho de 2025, os níveis remuneratórios e os valores
+    correspondentes ao abono para falhas previstos, respetivamente, nos anexos ii, iii e vi da Portaria n.º 397-A/2023, de
+    28 de novembro, Diário da República n.º 230/2023, 1º Suplemento, Série I
+  source: null
+  date: '2023-11-28'
+- type: cites
+  target: pt:dre:224081984:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/103-a/2023/11/09/p/dre
+- type: cites
+  target: pt:dre:224966776:por
+  label: null
+  source: http://data.dre.pt/eli/port/397-a/2023/11/28/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:259966:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/47/2013/04/05/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:32:53Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 84/2026/1
+
+de 20 de fevereiro
+
+Na sequência da alteração aos n.os1 e 2 do artigo 12.º e ao n.º 2 do artigo 14.º do [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, que aprova o regime jurídico-laboral dos Serviços Periféricos Externos do Ministério dos Negócios Estrangeiros, operada pelo [Decreto-Lei n.º 103-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-a-2023-224081984), de 9 de novembro, as novas tabelas remuneratórias dos trabalhadores da Administração Pública portuguesa recrutados para exercer funções nos Serviços Periféricos Externos do Ministério dos Negócios Estrangeiros (SPE do MNE) foram aprovadas através da [Portaria n.º 397-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/397-a-2023-224966776), de 28 de novembro, com efeitos a 1 de janeiro de 2023.
+
+Considerando que os aumentos remuneratórios operados pela suprarreferida portaria foram dotados de uma perspetiva plurianual, encontrando-se em vigor até final de 2026, conforme se prevê no artigo 7.º do [Decreto-Lei n.º 103-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-a-2023-224081984), de 9 de novembro;
+
+Considerando a acentuada perda de poder de compra dos trabalhadores dos SPE do MNE na Argentina, pelo efeito da inflação medida pelo Índice de Preços ao Consumidor (IPC) entre 2022 e 2024;
+
+Considerando a necessidade de assegurar a continuidade do bom funcionamento da Embaixada de Portugal na Argentina e a prestação de um serviço público essencial, o apoio e o serviço consular permanente junto dos cidadãos portugueses e lusodescendentes na Argentina;
+
+Verificando-se a necessidade premente de atualização dos montantes constantes da tabela remuneratória dos trabalhadores das carreiras gerais, do abono para falhas, bem como da tabela remuneratória dos trabalhadores da carreira de assistente de residência, recrutados para exercer funções nos SPE do MNE na Argentina, dando resposta às justas pretensões dos trabalhadores:
+
+Importa, assim, proceder à revisão intercalar da tabela salarial em vigor na Argentina, conforme previsto no n.º 4 do artigo 12.º do [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, na sua redação atual.
+
+Foram observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
+
+Foi ouvido o Sindicato dos Trabalhadores Consulares, das Missões Diplomáticas e dos Serviços Centrais do Ministério dos Negócios Estrangeiros.
+
+Assim, ao abrigo do disposto nos n.os2 e 4 do artigo 12.º do [Decreto-Lei n.º 47/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2013-259966), de 5 de abril, na sua redação atual, manda o Governo, pelo Ministro de Estado e dos Negócios Estrangeiros e pelo Ministro de Estado e das Finanças, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à revisão intercalar da tabela remuneratória dos trabalhadores da Administração Pública portuguesa recrutados para exercer funções nos serviços periféricos externos do Ministério dos Negócios Estrangeiros (SPE do MNE) na Argentina, atualizando em 35 % os valores dos níveis remuneratórios dos trabalhadores das carreiras gerais, bem como as remunerações dos trabalhadores da carreira de assistente de residência e o abono para falhas.
+
+###### Artigo 2.º — Tabela remuneratória
+
+Os níveis remuneratórios correspondentes às posições remuneratórias dos trabalhadores recrutados para exercer funções nos SPE do MNE na Argentina, constantes, respetivamente, dos anexos ii e iii da [Portaria n.º 397-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/397-a-2023-224966776), de 28 de novembro, são atualizados nos termos dos anexos i e ii da presente portaria, que dela fazem parte integrante.
+
+###### Artigo 3.º — Abono para falhas
+
+Os valores correspondentes ao abono para falhas dos trabalhadores recrutados para exercer funções nos SPE do MNE, na Argentina, constantes do anexo vi da [Portaria n.º 397-A/2023](https://diariodarepublica.pt/dr/detalhe/portaria/397-a-2023-224966776), de 28 de novembro, são atualizados nos termos do anexo iii da presente portaria.
+
+###### Artigo 4.º — Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de julho de 2025.
+
+O Ministro de Estado e dos Negócios Estrangeiros, Paulo Artur dos Santos de Castro de Campos Rangel, em 10 de fevereiro de 2026. - O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 13 de fevereiro de 2026.
+
+## ANEXO I — (anexo a que se refere o artigo 2.º)
+
+| Nível remuneratório | Valor atual do montante pecuniário |
+| --- | --- |
+| 1 | 1 010,99 € |
+| 2 | 1 106,22 € |
+| 3 | 1 201,45 € |
+| 4 | 1 296,68 € |
+| 5 | 1 391,90 € |
+| 6 | 1 487,13 € |
+| 7 | 1 582,36 € |
+| 8 | 1 677,59 € |
+| 9 | 1 772,82 € |
+| 10 | 1 868,05 € |
+| 11 | 1 963,28 € |
+| 12 | 2 058,51 € |
+| 13 | 2 153,74 € |
+| 14 | 2 248,97 € |
+| 15 | 2 344,19 € |
+| 16 | 2 439,42 € |
+| 17 | 2 534,65 € |
+| 18 | 2 629,88 € |
+| 19 | 2 725,11 € |
+| 20 | 2 820,34 € |
+| 21 | 2 915,57 € |
+| 22 | 3 010,80 € |
+| 23 | 3 106,03 € |
+| 24 | 3 201,26 € |
+| 25 | 3 296,48 € |
+| 26 | 3 391,71 € |
+| 27 | 3 486,94 € |
+| 28 | 3 582,17 € |
+| 29 | 3 677,40 € |
+| 30 | 3 772,63 € |
+| 31 | 3 867,86 € |
+| 32 | 3 963,09 € |
+| 33 | 4 058,32 € |
+| 34 | 4 153,55 € |
+| 35 | 4 248,77 € |
+| 36 | 4 344,00 € |
+| 37 | 4 439,23 € |
+| 38 | 4 534,46 € |
+| 39 | 4 629,69 € |
+| 40 | 4 724,92 € |
+| 41 | 4 820,15 € |
+| 42 | 4 915,38 € |
+| 43 | 5 010,61 € |
+| 44 | 5 105,84 € |
+| 45 | 5 201,06 € |
+| 46 | 5 296,29 € |
+| 47 | 5 391,52 € |
+| 48 | 5 486,75 € |
+| 49 | 5 581,98 € |
+| 50 | 5 677,21 € |
+| 51 | 5 772,44 € |
+| 52 | 5 867,67 € |
+| 53 | 5 962,90 € |
+| 54 | 6 058,13 € |
+| 55 | 6 153,35 € |
+| 56 | 6 248,58 € |
+| 57 | 6 343,81 € |
+
+## ANEXO II — (anexo a que se refere o artigo 2.º)
+
+| Nível remuneratório | Valor atual do montante pecuniário |
+| --- | --- |
+| 1 | 840,24 € |
+| 2 | 919,59 € |
+| 3 | 998,95 € |
+| 4 | 1 078,30 € |
+| 5 | 1 157,64 € |
+| 6 | 1 236,99 € |
+| 7 | 1 316,34 € |
+| 8 | 1 395,70 € |
+
+## ANEXO III — (anexo a que se refere o artigo 3.º)
+
+| Abono falhas | Valor atual do montante pecuniário |
+| --- | --- |
+|  | 153,39 € |
+
+119947698
+
+.Tbl1 { border-collapse:collapse; border-width:1px; margin-left:auto; margin-right:auto; } .Tbl2 { min-height:26px; } .Tbl4 { text-align:center; } .Tbl5 { min-height:18px; } .Tbl6 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:solid; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; } .Tbl8 { border-collapse:collapse; border-width:1px; }

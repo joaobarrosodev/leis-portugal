@@ -1,0 +1,149 @@
+---
+schema_version: '1.0'
+id: pt:dre:857110187:por
+title: Resolução do Conselho de Ministros n.º 44/2024
+short_title: null
+summary: Autoriza a Fundação para a Ciência e a Tecnologia, I. P., a realizar a despesa relativa ao funcionamento da Ciência
+  Viva - Agência Nacional para a Cultura Científica e Tecnológica.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 44/2024
+official_date: null
+publication_date: '2024-03-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2024, Série I de 2024-03-25
+  number: '60'
+  series: I
+  supplement: null
+  pages: 6 - 7
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06000/0000600007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/44/2024/03/25/p/dre/pt/html
+  oj: null
+  dre: '857110187'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/44-2024-857110187
+  internal: pt:dre:857110187:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/44-2024-857110187
+  metadata_url: https://data.dre.pt/eli/resolconsmin/44/2024/03/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/44-2024-857110187
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:32:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4d009a78a59485d9d4cd93052058975a52f6558f30bcb22ed3111e55441e8159
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:32:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência Nacional para a Cultura Científica e Tecnológica-ciência VIVA
+- Autorização de Despesas
+- Conselho de Ministros
+- Despesas Públicas
+- Fundação para a Ciência e a Tecnologia
+- Governo XXIII
+- Sociedade Científica
+relationships:
+- type: cites
+  target: pt:dre:122317422:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/63/2019/05/16/p/dre
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:32:56Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 44/2024
+
+A promoção da educação e da cultura científica constituem estratégias centrais do desenvolvimento sustentado da sociedade, designadamente em termos da exigência crescente de articulação de políticas e estratégias para a coesão e para a competitividade, sendo indispensável uma ação concertada de cidadania ativa e de cooperação entre um leque alargado de intervenientes políticos, económicos, culturais e sociais.
+
+Neste âmbito, Portugal tem adotado nos últimos 25 anos políticas articuladas no sentido de promover a democratização da cultura científica, sobretudo em termos do apoio a museus e centros interativos de ciência em todo o país, por meio da mobilização de apoios nacionais e locais, assim como a realização de ações sistemáticas para atrair novos públicos.
+
+A Ciência Viva - Agência Nacional para a Cultura Científica e Tecnológica (Ciência Viva) tem prosseguido estes objetivos, nomeadamente através da promoção do ensino experimental das ciências no ensino básico e secundário, da organização de campanhas de divulgação científica dirigidas ao público em geral, e da criação de uma rede nacional de centros ciência viva, os quais constituem espaços interativos de divulgação científica, que têm por missão: promover a cultura científica e tecnológica na sociedade, com especial ênfase na comunidade juvenil, incentivando a inovação e a experimentação; fomentar a cidadania científica e promover debates sobre a atualidade e desafios globais; apoiar as escolas do ensino básico e secundário na promoção do ensino experimental das ciências e promover a interação entre as escolas, as instituições de ensino superior, a comunidade científica e as empresas; promover a comunicação de ciência, tendo como princípio o contacto direto e pessoal entre a comunidade científica e o público; promover iniciativas de reflexão e debate público sobre a ciência e a tecnologia; promover a salvaguarda, valorização, divulgação, acesso e fruição do seu património arquivístico.
+
+Neste contexto, os Centros Ciência Viva têm assumido, desde 1997, um papel de grande relevo na divulgação científica e tecnológica, como plataformas de colaboração entre autarquias, escolas do ensino básico e secundário, instituições de ensino superior e centros de investigação científica, e também como instrumento de interação entre estas instituições de ensino e investigação e as empresas, de forma a promover uma cultura de inovação e competitividade, nomeadamente através da transferência de conhecimentos e tecnologia, potenciando o trabalho em rede e a criação de emprego, dando visibilidade aos desenvolvimentos tecnológicos mais recentes e também os mais sustentados e adaptados às respetivas regiões.
+
+Assim, considerando que a Ciência Viva é, nos termos do disposto no [Decreto-Lei n.º 63/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2019-122317422), de 16 de maio, que estabelece o regime jurídico das instituições que se dedicam à investigação científica e desenvolvimento (a Lei da Ciência), a associação de direito privado, com utilidade pública, responsável pela execução de políticas públicas de difusão do ensino experimental das ciências, de promoção da cultura científica e tecnológica e de apoio aos museus e centros de ciência;
+
+E que, por sua vez, a missão da Fundação para a Ciência e a Tecnologia, I. P., é promover continuadamente o avanço do conhecimento científico e tecnológico em Portugal, atingindo os mais elevados padrões internacionais de qualidade e competitividade em todos os domínios científicos e tecnológicos, estimulando a sua difusão e contribuição para a sociedade e o tecido produtivo;
+
+Face ao exposto, importa continuar a estimular a relação entre o conhecimento e a sociedade, valorizando o reconhecimento social da ciência, a promoção da cultura científica, a comunicação sistemática do conhecimento e dos resultados das atividades de investigação e desenvolvimento e a apropriação social do conhecimento, designadamente através da Ciência Viva, dotando-a dos meios necessários à prossecução da sua missão.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 6 de junho, na sua redação atual, do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, do n.º 2 do artigo 34.º do [Decreto-Lei n.º 63/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2019-122317422), de 16 de maio, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a Fundação para a Ciência e a Tecnologia, I. P. (FCT, I. P.), a assumir os encargos plurianuais e a realizar a despesa necessária para o funcionamento da Ciência Viva - Agência Nacional para a Cultura Científica e Tecnológica (Ciência Viva) até ao montante máximo de € 12 000 000, entre 2024 e 2027, mediante a celebração de um contrato nos termos do disposto no [Decreto-Lei n.º 63/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-2019-122317422), de 16 de maio, na sua redação atual.
+
+2 - Determinar que os encargos financeiros referidos no número anterior não podem exceder, em cada ano económico, os seguintes montantes:
+
+a) 2024 - € 3 000 000;
+
+b) 2025 - € 3 000 000;
+
+c) 2026 - € 3 000 000;
+
+d) 2027 - € 3 000 000.
+
+3 - Estabelecer que os montantes fixados no número anterior para cada ano económico podem ser acrescidos do saldo apurado no ano que lhe antecede.
+
+4 - Estabelecer que os encargos financeiros decorrentes da presente resolução são satisfeitos pelas verbas adequadas inscritas ou a inscrever no orçamento da FCT, I. P.
+
+5 - Determinar que a Ciência Viva apresenta anualmente à FCT, I. P., relatórios anuais de execução e planos de atividade.
+
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 14 de março de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+117503382

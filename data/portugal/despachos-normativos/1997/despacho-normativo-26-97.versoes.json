@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:351702:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1997-169775423",
+ "dre_path": "/dr/detalhe/despacho-normativo/26-1997-351702",
+ "source_lastmod": "2025-06-17",
+ "versions": [
+  {
+   "date": "1997-06-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921782589"
+   ]
+  },
+  {
+   "date": "1997-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:402104:por",
+     "title": "Declaração de Rectificação n.º 14-S/97",
+     "published": "1997-08-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/14-s-1997-402104"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "921782589",
+    "921782577"
+   ]
+  }
+ ],
+ "fragments": {
+  "921782589": {
+   "fragment_id": "169775424",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1997-08-30",
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 26/97\n\nO Despacho Normativo n.º 551/94, de 29 de Julho, alterado pelo Despacho Normativo n.º 48/95, de 4 de Setembro, regulamenta o Regime de Apoio à Utilização da Propriedade Industrial, que se insere no âmbito do Sistema de Incentivos a Estratégias de Empresas Industriais (SINDEPEDIP) do Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa (PEDIP II).\n\nTendo-se constatado a necessidade de dinamizar a progressiva internacionalização da indústria farmacêutica, através do apoio à obtenção de uma autorização de introdução no mercado (AIM) no quadro da regulamentação existente a nível internacional, é adequado promover tal dinamização no âmbito do Regime de Apoio atrás referido, havendo, assim, que a contemplar no respectivo diploma regulamentador.\n\nNestes termos, determino:\n\nOs artigos 1.º, 2.º, 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 11.º, 12.º e 13.º do Despacho Normativo n.º 551/94, de 29 de Julho, alterado pelo Despacho Normativo n.º 48/95, de 4 de Setembro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\nObjecto\n\n1 - ...\n\n2 - O presente Regime de Apoio tem por objectivo estimular a criatividade, a actividade inventiva e a inovação a nível empresarial, institucional e individual, apoiando a utilização da propriedade industrial como elemento fundamental para a concepção das invenções e para a sua protecção através da obtenção dos correspondentes direitos, bem como dinamizar a progressiva internacionalização da indústria farmacêutica, através do apoio à obtenção de uma autorização de introdução no mercado (AIM) no quadro da regulamentação existente a nível internacional.\n\nArtigo 2.º\n\nÂmbito\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) No âmbito do apoio ao registo de medicamentos:\n\nFormulação de pedidos de AIM no estrangeiro junto das respectivas autoridades nacionais;\n\nFormulação de pedidos de AIM via procedimento comunitário centralizado;\n\nFormulação de pedidos de AIM via procedimento comunitário descentralizado.\n\nArtigo 3.º\n\nBeneficiários\n\nSem prejuízo do disposto no n.º 3, são beneficiários do presente Regime de Apoio:\n\n1 - No âmbito das alíneas a) a f) do artigo 2.º:\n\na) As empresas industriais incluídas nas CAE 10 a 37 do Decreto-Lei n.º 182/93, de 14 de Maio, que desenvolvam tarefas de I&DT, bem como os inventores independentes, associados ou não a empresas industriais;\n\nb) As instituições que desenvolvam tarefas de I&DT no âmbito das CAE referidas na alínea anterior.\n\n2 - No âmbito da alínea h) do artigo 2.º, as empresas industriais incluídas na classe 2442 - Fabricação de preparações farmacêuticas do CAE constante do Decreto-Lei n.º 182/93, de 14 de Maio, que desenvolvam tarefas de I&DT em Portugal.\n\n3 - O disposto na alínea g) do artigo 2.º apenas é aplicável aos inventores independentes, associados ou não a empresas industriais.\n\nArtigo 5.º\n\nCondições de acesso do promotor\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\n2 - Os promotores de projectos no âmbito das alíneas a) a g) do artigo 2.º deverão ainda ter direito legal à patente, ao modelo de utilidade, ao modelo ou desenho industrial ou à marca e pretender a protecção do Sistema da Propriedade Industrial.\n\n3 - Os promotores de projectos no âmbito da alínea h) do artigo 2.º deverão ainda demonstrar que têm capacidade financeira para o desenvolvimento da sua actividade, cumprindo, nomeadamente, a condição de cobertura do activo líquido pelos capitais próprios superior a 25%.\n\n4 - As empresas cujo acto de constituição se tenha verificado nos 60 dias úteis anteriores à data da apresentação da candidatura apenas estão obrigadas ao cumprimento da condição prevista na alínea a) do n.º 1, devendo, contudo, comprovar que já requereram a sua inscrição na conservatória do registo comercial competente, sem prejuízo da oportuna comprovação do preenchimento das restantes condições.\n\nArtigo 6.º\n\nCondições de acesso do projecto\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n2 - Os projectos no âmbito das alíneas a) a g) do artigo 2.º deverão ainda obedecer aos requisitos legais de protecção.\n\n3 - Os projectos a que se refere a alínea h) do artigo 2.º deverão ainda inserir-se na estratégia de médio prazo do promotor, fundamentando as opções efectuadas em termos dos produtos/mercados seleccionados para efeitos de registo.\n\n4 - Exceptuam-se do disposto na alínea a) do n.º 1 os projectos que, tendo sido propostos a incentivos ao abrigo do Despacho Normativo n.º 354-B/93, de 9 de Novembro:\n\na) Não tenham recebido apoios por razões não imputáveis ao promotor;\n\nb) Apresentem declaração de desistência à candidatura apresentada ao abrigo daquele despacho normativo.\n\nArtigo 7.º\n\nCritérios de selecção\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - No que se refere à alínea h) do artigo 2.º, deverá ser considerada a forma como os projectos se fundamentam numa perspectiva de mercado.\n\nArtigo 8.º\n\nAplicações relevantes\n\n...\n\n1 - ...\n\na) ...\n\nb) ...\n\n2 - ...\n\na) ...\n\nb) ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\n4 - No que se refere à alínea h) do artigo 2.º:\n\na) Taxas relativas à fase de pedido;\n\nb) Assistência técnica externa na organização dos dossiers, incluindo, nomeadamente:\n\nHonorários de consultadoria;\n\nTraduções;\n\nc) Análises laboratoriais e ensaios realizados no exterior da empresa, a efectuar por exigência das autoridades competentes em matéria de AIM.\n\nArtigo 9.º\n\nIncentivo\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) 60% das aplicações relevantes referidas na alínea a) do n.º 4 do artigo 8.º, até ao limite de 2500 contos, quando se trate de pedidos no estrangeiro via nacional, de 20000 contos, quando se trate de pedidos via procedimento comunitário centralizado, e de 10000 contos, nos casos de pedidos via procedimento comunitário descentralizado;\n\ne) 60% das aplicações relevantes referidas na alínea b) do n.º 4 do artigo 8.º, até ao limite de 4500 contos;\n\nf) 60% das aplicações relevantes referidas na alínea c) do n.º 4 do artigo 8.º, até ao limite de 12000 contos.\n\n2 - As taxas de incentivo a que se referem as alíneas d), e) e f) do número anterior poderão ser majoradas em 5% sempre que as empresas provem possuir sistema de garantia de qualidade certificado pelo IPQ e ou recorram aos Serviços de Infra-Estruturas Tecnológicas apoiáveis no âmbito do SINFRAPEDIP para a realização das análises laboratoriais e ensaios.\n\n3 - O limite máximo de incentivo por promotor durante o período de vigência do Programa, no que se refere às alíneas d), e) e f) do n.º 1, é de 70000 contos.\n\n4 - O montante total do incentivo a conceder não poderá exceder dois terços do custo total do investimento.\n\nArtigo 11.º\n\nCompetência e prazos de apreciação\n\n1 - A análise dos processos de candidatura a que se referem as alíneas a) a g) do artigo 2.º compete ao INPI, devendo estar concluída no prazo de 60 dias úteis, contados a partir da data da sua apresentação.\n\n2 - A recepção dos processos de candidatura a que se refere a alínea h) do artigo 2.º é feita pelo INPI, que os enviará à DGI no prazo máximo de cinco dias úteis, contados a partir da data da sua apresentação.\n\n3 - A DGI, na sua qualidade de organismo do Ministério da Economia que desenvolve actividades correlacionadas com esta matéria, deverá analisar os processos de candidatura referidos no número anterior no prazo de 60 dias úteis, após o que os enviará ao INPI, a fim de este os propor para apreciação em sede de Comissão de Selecção.\n\nArtigo 12.º\n\nPareceres\n\n1 - Os projectos a que se refere a alínea g) do artigo 2.º deverão ser submetidos a parecer prévio do INETI.\n\n2 - Poderão ainda ser consultadas outras entidades do Ministério da Economia que desenvolvam actividades correlacionadas com estas matérias, podendo ainda, nos projectos a que se refere a alínea h) do artigo 2.º, ser consultado o Instituto Nacional da Farmácia e do Medicamento (INFARMED), na sua qualidade de autoridade nacional competente em matéria de autorização de introdução de medicamentos no mercado.\n\nArtigo 13.º\n\nCondicionantes\n\nO pagamento do incentivo nos casos a que se refere o n.º 4 do artigo 5.º fica condicionado, quando aplicável, à apresentação da declaração de início de actividade»."
+  },
+  "921782577": {
+   "fragment_id": "921693819",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Economia, 24 de Abril de 1997. - O Ministro da Economia, Augusto Carlos Serra Ventura Mateus."
+  }
+ }
+}

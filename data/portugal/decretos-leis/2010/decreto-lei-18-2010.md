@@ -1,0 +1,557 @@
+---
+schema_version: '1.0'
+id: pt:dre:611493:por
+title: Decreto-Lei n.º 18/2010
+short_title: null
+summary: Estabelece o regime do Programa de Estágios Profissionais na Administração Pública e revoga o Decreto-Lei n.º 326/99,
+  de 18 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 18/2010
+official_date: null
+publication_date: '2010-03-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 55/2010, Série I de 2010-03-19
+  number: '55'
+  series: I
+  supplement: null
+  pages: 889 - 893
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/03/05500/0088900893.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2014-10-01'
+version_history:
+  file: decreto-lei-18-2010.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-03-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-09-29'
+    amending: pt:dre:175536:por
+    amending_title: Decreto-Lei n.º 214/2012
+    changes:
+    - Adita Artigo 11.º-A
+    - Adita Artigo 11.º-B
+    - Adita Artigo 14.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+  - date: '2014-10-01'
+    amending: pt:dre:56479730:por
+    amending_title: Decreto-Lei n.º 134/2014
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/18/2010/p/cons/20140908/pt/html
+  oj: null
+  dre: '611493'
+  dre_path: /dr/detalhe/decreto-lei/18-2010-611493
+  internal: pt:dre:611493:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2010-611493
+  metadata_url: https://data.dre.pt/eli/dec-lei/18/2010/p/cons/20140908/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-34551275
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-34551275
+  retrieved_at: '2026-10-22T11:52:07Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e83e59b0dd7297027d3570439326aa95a7ff57db76f95bdd3398ee0ebba8683d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:52:07Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-18-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Programa Estágios Profissionais na Administração Pública
+- Financiamento
+- Contrato de Formação
+- Definição de Competências
+- Direcção Geral da Administração e do Emprego Público
+- Administração Pública
+- Jovem
+- Bolsa de Emprego Público
+- Publicitação
+- Lista
+- Criação de Emprego
+- Internet
+- Primeiro Emprego
+- Desemprego
+- Estágio de Formação
+- Política de Emprego
+- Propinas
+- Avaliação do Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:175536:por
+  label: Adita Artigo 11.º-A; Adita Artigo 11.º-B; Adita Artigo 14.º-A; Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo
+    8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo
+    17.º; Altera Artigo 18.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536
+  date: '2012-09-28'
+- type: amended_by
+  target: pt:dre:56479730:por
+  label: Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo; Altera
+    Artigo 16.º; Altera Artigo 17.º; Altera Artigo 20.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730
+  date: '2014-09-08'
+- type: cites
+  target: pt:dre:286079:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/94/2006/05/29/p/dre
+- type: cites
+  target: pt:dre:315563:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29/2001/02/03/p/dre
+- type: cites
+  target: pt:dre:434420:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/326/1999/08/18/p/dre
+- type: cites
+  target: pt:dre:453975:por
+  label: null
+  source: http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:468663:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: pt:dre:487950:por
+  label: null
+  source: http://data.dre.pt/eli/port/1256/2005/12/02/p/dre
+article_structure:
+  article_count: 26
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:52:07Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 18/2010
+
+O Programa do XVIII Governo Constitucional assume como prioridades fundamentais o relançamento da economia e a promoção do emprego, a modernização do País e o desenvolvimento de políticas sociais.
+
+Neste contexto, o Governo pretende criar um programa anual de estágios profissionais na Administração Pública com o qual visa proporcionar uma nova oportunidade para três tipos de situações: jovens à procura de primeiro emprego, jovens licenciados em situação de desemprego e jovens que, embora se encontrem empregados, exerçam uma ocupação profissional não correspondente à sua área de formação e nível de qualificação. Esta medida resulta, assim, de uma aposta na promoção da empregabilidade, valorizando as qualificações e competências dos jovens licenciados, mediante o contacto com as regras, boas práticas e sentido de serviço público.
+
+O programa de estágios enquadra-se, ainda, no âmbito das políticas de juventude, promovendo a emancipação dos jovens, apoiando a sua saída da casa de família, o desenvolvimento de experiências formativas e profissionais, assim como o empreendedorismo e emprego jovem.
+
+Para além da valorização profissional dos jovens estagiários, pretende-se ainda, com este programa, potenciar o desenvolvimento de actividades profissionais inovadoras, de novas formações e novas competências profissionais, contribuindo assim para os objectivos do Plano Tecnológico, para a modernização dos serviços da Administração Pública e para a melhoria da qualidade do serviço prestado aos cidadãos e empresas.
+
+Considerando estas linhas orientadoras, o programa agora criado permitirá que jovens licenciados que tenham até 35 anos realizem estágios profissionais remunerados em serviços e organismos da Administração Pública. Pretende-se promover a sua integração no mercado de trabalho, possibilitando-lhes o exercício de funções adequadas às suas qualificações. O estágio desenvolve-se em serviços ou organismos da Administração Pública, permitindo aos estagiários beneficiarem de uma experiência em contexto real de trabalho. Assim, o estagiário será integrado nas entidades que promovem os estágios, estando sujeito, com as necessárias adaptações, às regras aplicáveis aos respectivos serviços e organismos, conforme resulta do n.º 1 do artigo 3.º da Lei n.º 59/2008, de 11 de Setembro, e do artigo 3.º da Lei n.º 12-A/2008, de 27 de Fevereiro, designadamente quanto à duração e horário de trabalho, aos descansos diários e semanal e ao regime de faltas.
+
+Embora a conclusão do estágio não tenha como efeito a constituição de uma relação jurídica de emprego com a entidade em que aquele decorreu, o presente decreto-lei prevê uma série de benefícios para os estagiários que tenham sido avaliados com uma classificação de, pelo menos, 14 valores. Assim, em primeiro lugar, se for aberto concurso de recrutamento pela entidade onde realizaram o estágio nos dois anos seguintes à conclusão, os estagiários podem optar pela aplicação do método de selecção previsto no n.º 2 do artigo 53.º da Lei n.º 12-A/2008, de 27 de Fevereiro, concorrendo através de avaliação curricular e entrevista de avaliação, assim ficando dispensada a prova de conhecimentos. Em segundo lugar, em caso de igualdade de classificação em procedimento concursal de recrutamento, os estagiários têm preferência na lista de ordenação final. Em terceiro lugar, se o estagiário, na sequência do respectivo procedimento concursal, vier a constituir uma relação jurídica de emprego público, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, vê reduzido o período experimental de 240 para 180 dias. Finalmente, o programa prevê ainda que 1 % dos estagiários em cada Ministério com as melhores classificações finais de estágio fiquem isentos do pagamento de propinas, se concorrerem e forem seleccionados para frequentar o Curso de Estudos Avançados em Gestão Pública, promovido pelo Instituto Nacional da Administração, I. P., e que garante o acesso à função pública.
+
+No âmbito do programa estabelecido pelo presente decreto-lei foram também tidas em conta as particulares dificuldades de inserção profissional de pessoas com deficiência, estabelecendo-se uma quota mínima de acesso ao programa.
+
+O presente decreto-lei aprova, pois, um novo regime de realização de estágios na Administração Pública, criando o respectivo programa. Reconhecendo embora os resultados positivos dos estágios profissionais realizados ao longo da última década ao abrigo do regime jurídico decorrente do Decreto-Lei n.º 326/99, de 18 de Agosto, considera-se indispensável a revogação do anterior regime, pelas inovações introduzidas, e para a adequar as políticas de emprego a implementar ao novo quadro normativo resultante da reforma da Administração Pública, em especial o decorrente da Lei n.º 12-A/2008, de 27 de Fevereiro.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece o regime jurídico do Programa de Estágios Profissionais na Administração Pública, abreviadamente designado por Programa.
+
+2 - O Programa permite aos estagiários o desempenho de funções no contexto da Administração Pública, prioritariamente as correspondentes à carreira de técnico superior.
+
+3 - O desempenho de funções correspondentes a carreiras especiais no âmbito do Programa depende de despacho dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da respectiva tutela.
+
+###### Artigo 2.º — Âmbito
+
+1 - O regime estabelecido no presente decreto-lei aplica-se aos serviços e organismos da administração central direta e indireta do Estado, doravante designados por entidades promotoras.
+
+2 - Ficam excluídas do âmbito de aplicação do presente decreto-lei as entidades públicas empresariais e as entidades reguladoras independentes.
+
+3 - Os programas de estágios profissionais nas regiões autónomas e na administração local são regulados em diplomas próprios.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 134/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730), em vigor a partir de 2014-10-01
+
+###### Artigo 3.º — Objectivos
+
+São objectivos do Programa:
+
+a) Possibilitar aos jovens com qualificação superior a realização de um estágio profissional em contexto real de trabalho que crie condições para uma mais rápida e fácil integração no mercado de trabalho;
+
+b) Promover novas formações e novas competências profissionais que possam potenciar a modernização dos serviços públicos;
+
+c) Garantir o início de um processo de aquisição de experiência profissional em contacto e aprendizagem com as regras, boas práticas e sentido de serviço público;
+
+d) Fomentar o contacto dos jovens com outros trabalhadores e actividades, evitando o risco do seu isolamento, desmotivação e marginalização.
+
+###### Artigo 4.º — Destinatários
+
+1 - O Programa destina-se a jovens que preencham, cumulativamente, os seguintes requisitos:
+
+a) Sejam jovens à procura do primeiro emprego, desempregados à procura de novo emprego ou jovens à procura de emprego correspondente à sua área de formação e nível de qualificação;
+
+b) Tenham até 30 anos de idade, aferidos à data de início do estágio;
+
+c) Possuam uma qualificação de nível superior correspondendo, pelo menos, ao grau de licenciado.
+
+2 - Para efeitos do presente decreto-lei, considera-se que preenche os requisitos da alínea a) do número anterior quem se encontre numa das seguintes situações:
+
+a) Nunca tenha tido registos de remunerações em regimes de proteção social de inscrição obrigatória; ou
+
+b) Não tenha exercido uma ou mais atividades profissionais por um período de tempo, seguido ou interpolado, superior a 12 meses; ou
+
+c) Se encontre a prestar trabalho em profissão não qualificada integrada no grande grupo 9 da Classificação Portuguesa de Profissões; ou
+
+d) Não tenha exercido actividade profissional correspondente à sua área de formação e nível de qualificação, por período superior a 36 meses, seguido ou interpolado.
+
+3 - No caso de pessoas com deficiência e ou incapacidade o limite de idade estabelecido na alínea b) do n.º 1 é de 35 anos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 5.º — Programas específicos de estágio
+
+1 - Podem ser criados programas específicos de estágio cujos destinatários, pelas suas particulares qualificações profissionais e académicas, se enquadrem especificamente nas missões e atividades prosseguidas por determinados órgãos e serviços.
+
+2 - [Revogado].
+
+3 - Podem, ainda, ser criados programas específicos de estágio em função das condições especiais de determinados órgãos e serviços na prossecução das respetivas missões e atividades.
+
+4 - A criação, as condições e os requisitos dos programas específicos de estágio referidos nos n.os 1 e 3, bem como a respetiva regulamentação devem obedecer, com as necessárias adaptações, ao disposto no presente decreto-lei e constam de portaria a aprovar pelos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da respetiva tutela.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 134/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730), em vigor a partir de 2014-10-01
+
+### Capítulo II — Acesso ao Programa
+
+###### Artigo 6.º — Fixação do número de estagiários
+
+1 - O número máximo de estagiários a seleccionar anualmente é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, mediante proposta dos restantes membros do Governo.
+
+2 - A portaria prevista no número anterior fixa igualmente, mediante proposta dos respectivos membros do Governo, o número de estagiários por ministério, bem como a sua distribuição interna por cada entidade promotora, de acordo com as áreas de formação académica, no respeito pela determinação de cada ministro.
+
+3 - A portaria prevista no n.º 1 pode prever que a distribuição de um número não superior a 10 % do número máximo de estagiários fixado se efectue posteriormente, em função do acompanhamento previsto na alínea f) do n.º 1 do artigo 17.º
+
+4 - No caso da realização de programas específicos de estágio, o número máximo de estagiários a selecionar é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da respetiva tutela.
+
+5 - Para os efeitos do Decreto-Lei n.º 29/2001, de 3 de Fevereiro, é assegurada, em cada edição do Programa, uma quota de 5 % da totalidade dos estágios a ser preenchida por pessoas com deficiência, nos termos fixados pela portaria prevista no artigo 20.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 134/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730), em vigor a partir de 2014-10-01
+
+###### Artigo 7.º — Publicitação dos estágios
+
+1 - O lançamento dos estágios é publicitado na bolsa de emprego público (BEP) e em, pelo menos, dois órgãos de comunicação social de expansão nacional, sendo ainda comunicado, para efeitos de divulgação, ao Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.).
+
+2 - A publicitação inclui, obrigatoriamente, informação sobre as entidades promotoras em que os estágios decorrem, as áreas de formação exigidas, o prazo e a forma de apresentação da candidatura, o procedimento de selecção, a legislação aplicável e outros requisitos e elementos julgados relevantes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 8.º — Candidaturas
+
+1 - As candidaturas à frequência dos estágios profissionais são apresentadas em página da Internet criada para o efeito, divulgada na BEP no momento da publicitação a que se refere o n.º 1 do artigo anterior, mediante preenchimento de formulário online, que inclui todos os elementos curriculares considerados necessários para efeitos de selecção.
+
+2 - O candidato deve efetuar prova do cumprimento dos requisitos exigidos, nos termos a fixar pela portaria que regulamenta o Programa.
+
+3 - Cada candidato pode frequentar apenas uma edição do Programa.
+
+4 - Não podem participar no Programa e nos programas específicos de estágio os interessados que se encontrem a frequentar ou tenham frequentado programas de estágios profissionais financiados, total ou parcialmente, pelo Estado, nomeadamente estágios integrados em edições do Programa de Estágios Profissionais na Administração Pública Central (PEPAC), Programa de Estágios Profissionais na Administração Local (PEPAL) e os promovidos pelo IEFP, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 134/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730), em vigor a partir de 2014-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 9.º — Selecção dos candidatos
+
+1 - Os candidatos são agrupados pelas áreas de formação académica indicadas no formulário de candidatura.
+
+2 - Na seleção dos candidatos é aplicado o método da avaliação curricular, por áreas de formação académica, de acordo com os parâmetros estabelecidos pela Direção-Geral da Qualificação dos Trabalhadores em Funções Públicas (INA) e a ponderação definida por cada entidade promotora, sendo a fórmula publicitada na página da Internet prevista no n.º 1 do artigo anterior.
+
+3 - No âmbito dos programas específicos de estágio, e sempre que a especificidade do respetivo programa o exigir, podem ser complementarmente utilizados outros métodos de seleção, a definir na portaria referida no n.º 4 do artigo 5.º
+
+4 - A fórmula dos métodos de seleção é publicitada na página na Internet referida no n.º 1 do artigo anterior.
+
+5 - [Revogado].
+
+6 - Os candidatos selecionados nos termos do presente artigo são chamados por ordem decrescente de classificação, sem prejuízo do disposto no n.º 5 do artigo 6.º
+
+7 - As listas de graduação, com identificação dos candidatos selecionados, são publicadas na página da Internet referida no n.º 1 do artigo anterior, ficando aí disponíveis até ao final da respetiva edição do Programa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 134/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730), em vigor a partir de 2014-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 10.º — Prazo de selecção
+
+O recrutamento e a selecção devem estar concluídos no prazo máximo de três meses após a entrada em vigor da portaria prevista no n.º 1 do artigo 6.º
+
+### Capítulo III — Desenvolvimento do estágio
+
+###### Artigo 11.º — Contrato de estágio
+
+1 - A entidade promotora celebra com o estagiário um contrato de estágio, sujeito à forma escrita.
+
+2 - O estágio é realizado em regime de exclusividade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 11.º-A — Suspensão do contrato de estágio
+
+1 - A entidade promotora pode suspender o contrato de estágio:
+
+a) Por facto a ela relativo, nomeadamente reorganização dos serviços, nos termos legais aplicáveis, durante um período não superior a dois meses;
+
+b) Por facto relativo ao estagiário, nomeadamente doença, maternidade, paternidade ou adoção, durante um período não superior a seis meses.
+
+2 - Todos os períodos de suspensão do contrato integram o cômputo dos 12 meses de duração de cada edição do Programa.
+
+3 - No dia imediato à cessação do impedimento por facto relativo ao estagiário, este deve apresentar-se à entidade promotora para retomar a atividade.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 11.º-B — Cessação do contrato de estágio
+
+1 - O contrato de estágio cessa por caducidade, por acordo das partes e por resolução por alguma das partes, nos termos dos números seguintes.
+
+2 - A cessação do contrato de estágio por caducidade ocorre quando se verifique alguma das seguintes situações:
+
+a) Após o decurso do prazo correspondente ao seu período de duração;
+
+b) Por impossibilidade superveniente, absoluta e definitiva, de o estagiário poder frequentar o estágio ou de a entidade promotora lho poder proporcionar;
+
+c) No momento em que o estagiário atingir 5 dias seguidos de faltas injustificadas ou 10 dias interpolados, mediante comunicação escrita da entidade promotora dirigida ao estagiário;
+
+d) Incumprimento reiterado, por parte do estagiário, dos deveres previstos no contrato a que se refere o n.º 1 do artigo 11.º
+
+3 - Para efeitos do disposto na alínea c) do número anterior, não releva o período de suspensão do estágio nos termos previstos no artigo anterior.
+
+4 - O contrato de estágio cessa por acordo das partes se, no decurso do mesmo, essa for a sua vontade, expressa de forma clara e inequívoca em documento assinado por ambas, no qual se mencionam as datas de celebração do acordo e do início da sua produção de efeitos.
+
+5 - O contrato de estágio cessa por resolução quando uma das partes comunicar à outra, mediante carta registada, com indicação da respetiva fundamentação e com antecedência não inferior a 30 dias, a sua intenção de não pretender a manutenção do contrato de estágio.
+
+6 - A resolução não confere o direito a qualquer indemnização, salvo se não for cumprido o prazo de aviso prévio previsto no número anterior.
+
+7 - Caso o prazo de comunicação da resolução não tenha sido integralmente cumprido há lugar às seguintes indemnizações:
+
+a) Pagamento do montante correspondente aos dias em falta caso o incumprimento seja da entidade promotora;
+
+b) Reposição dos montantes pagos ou pagamento dos dias em falta, caso o incumprimento seja do estagiário.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 12.º — Estrutura do estágio
+
+1 - O estágio engloba uma componente de aplicação de conhecimentos no exercício das funções próprias da entidade promotora e correspondentes à carreira em causa e uma componente formativa, também a decorrer em contexto de trabalho.
+
+2 - Os objectivos e o plano do estágio são definidos pela entidade promotora.
+
+###### Artigo 13.º — Duração do estágio
+
+O estágio tem a duração de 12 meses, não prorrogáveis.
+
+###### Artigo 14.º — Bolsa de estágio e outros apoios
+
+1 - Aos estagiários é concedida, por cada um dos meses de duração do estágio, uma bolsa de estágio de montante fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.
+
+2 - (Revogado.)
+
+3 - Aos estagiários são ainda concedidos os seguintes apoios:
+
+a) Subsídio de refeição de valor correspondente ao praticado para a generalidade dos trabalhadores que exercem funções públicas;
+
+b) Seguro que cubra os riscos de eventualidades que possam ocorrer durante e por causa das actividades correspondentes ao estágio profissional, bem como nas deslocações entre a residência e o local de estágio.
+
+4 - A bolsa de estágio e o subsídio de refeição não são devidos:
+
+a) Quando o estágio seja suspenso, nos termos do artigo 11.º-A;
+
+b) Pelas faltas injustificadas;
+
+c) Pelas faltas justificadas por motivo de acidente, desde que a responsabilidade civil daí decorrente se encontre coberta pelo contrato de seguro previsto no número anterior.
+
+5 - A portaria a que se refere o n.º 4 do artigo 5.º pode prever a atribuição de outros apoios devidamente justificados pela especificidade do programa em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 134/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730), em vigor a partir de 2014-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 14.º-A — Efeitos do contrato de estágio
+
+A relação jurídica decorrente da celebração de um contrato de estágio ao abrigo do presente decreto-lei é equiparada, para efeitos de segurança social, a trabalho por conta de outrem, observando-se ainda o disposto no Código do Imposto sobre o Rendimentos das Pessoas Singulares
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 15.º — Acompanhamento do plano de estágio
+
+1 - Sem prejuízo de a respectiva entidade promotora providenciar o acompanhamento do plano de estágio, o estagiário é acompanhado por um orientador, designado de entre titulares de cargos dirigentes, de chefia ou de outros trabalhadores com relevante experiência e aptidão para o efeito, devendo essas funções de orientação ser consideradas no âmbito da fixação de objectivos para efeitos do sistema integrado de gestão e avaliação de desempenho na Administração Pública (SIADAP).
+
+2 - Compete ao orientador, designadamente:
+
+a) Propor ao dirigente máximo da entidade promotora, para sua aprovação, os objectivos, o plano do estágio e a avaliação final do estagiário, nos termos do disposto no artigo seguinte;
+
+b) Inserir o estagiário no ambiente de trabalho;
+
+c) Efectuar o acompanhamento técnico e pedagógico do estagiário, supervisionando o seu progresso face aos objectivos e plano definidos;
+
+d) Efectuar o controlo da pontualidade e da assiduidade dos estagiários, dando conhecimento do resultado desse controlo à entidade responsável pelo processamento e pagamento dos valores pecuniários devidos aos estagiários.
+
+3 - Para efeitos do disposto na alínea d) do número anterior é aplicável ao estagiário, com as devidas adaptações, o regime de faltas e de descanso diário e semanal dos trabalhadores vinculados por contrato de trabalho em funções públicas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 16.º — Avaliação e classificação final dos estagiários
+
+1 - No fim do estágio é efetuada uma avaliação do estagiário tendo em conta o cumprimento do plano de estágio e respetivos objetivos.
+
+2 - As regras e critérios de avaliação do estágio são estabelecidos pela entidade gestora do Programa.
+
+3 - A avaliação prevista no número anterior é sempre fundamentada e compete ao dirigente máximo da entidade promotora, mediante proposta do orientador de estágio, obedecendo a uma escala de 0 a 20 valores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 134/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730), em vigor a partir de 2014-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 17.º — Gestão e coordenação do Programa
+
+1 - Enquanto responsável pela gestão do Programa, compete ao INA, designadamente:
+
+a) Propor ao membro do Governo competente a realização das edições do Programa;
+
+b) Preparar os elementos necessários à fixação do número de estagiários e respectiva distribuição pelos diferentes ministérios;
+
+c) Definir os parâmetros da avaliação curricular a aplicar a todas as candidaturas;
+
+d) Estabelecer o modelo de contrato de estágio;
+
+e) Estabelecer as regras e os critérios de avaliação final dos estágios, bem como o respectivo modelo da ficha de avaliação;
+
+f) Efectuar, em articulação com as entidades promotoras, o acompanhamento da execução do Programa, tendo em conta nomeadamente o cumprimento dos objectivos e dos planos de estágio;
+
+g) Elaborar um relatório final de execução de cada edição do Programa, com base em informação recolhida junto de cada entidade promotora.
+
+2 - Para efeitos das competências previstas na alínea c) do número anterior, o INA pode solicitar a colaboração do IEFP, I. P.
+
+3 - O INA partilha a responsabilidade pela gestão e coordenação de cada programa específico, nos termos a regulamentar na portaria referida no n.º 4 do artigo 5.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 134/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730), em vigor a partir de 2014-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+### Capítulo IV — Termo do estágio
+
+###### Artigo 18.º — Termo do estágio
+
+1 - No termo do estágio é entregue ao estagiário um certificado comprovativo de frequência e avaliação final.
+
+2 - A conclusão do estágio com avaliação positiva, nos termos do artigo 16.º, não tem como efeito a constituição de uma relação jurídica de emprego público ou qualquer outro tipo de vinculação com o Estado.
+
+3 - Sem prejuízo do disposto no número seguinte, os estagiários que tenham obtido aproveitamento com avaliação não inferior a 14 valores podem, no âmbito dos procedimentos concursais a que se candidatem, publicitados pela entidade promotora onde realizaram o estágio ou por entidade do mesmo ministério e para ocupação de posto de trabalho da carreira de técnico superior cujas características funcionais se identifiquem com a atividade desenvolvida durante o estágio, optar pela aplicação dos métodos de seleção previstos no n.º 2 do artigo 53.º da Lei n.º 12-A/2008, de 27 de fevereiro, sendo essa opção manifestada por escrito aquando da apresentação da candidatura a tais procedimentos.
+
+4 - A candidatura ao abrigo do disposto número anterior pode ser efectuada no período de dois anos após o termo do estágio e não dispensa a verificação dos demais requisitos legais de admissão aos referidos procedimentos concursais.
+
+5 - Os estagiários que tenham obtido aproveitamento e se candidatem, nos termos legais, a procedimento concursal de recrutamento publicitado no período de dois anos após o termo do estágio têm preferência na lista de ordenação final dos candidatos em caso de igualdade de classificação, sem prejuízo da aplicação de outras que a lei já preveja.
+
+6 - Os estagiários que tenham obtido aproveitamento com avaliação não inferior a 14 valores e que venham, na sequência do respectivo procedimento concursal e no período de dois anos após o termo do estágio, a constituir uma relação jurídica de emprego público na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, no âmbito de carreiras gerais, beneficiam da redução, para 180 dias, do período experimental previsto na alínea c) do n.º 1 do artigo 76.º da Lei n.º 59/2008, de 11 de Setembro, que aprova o Regime do Contrato de Trabalho em Funções Públicas.
+
+7 - Ficam isentos do pagamento de propinas 1 % dos estagiários melhor classificados por cada área ministerial, com avaliação não inferior a 14 valores, que, no prazo previsto no n.º 4, concorram e sejam seleccionados para frequentar o Curso de Estudos Avançados em Gestão Pública (CEAGP), previsto no artigo 56.º da Lei n.º 12-A/2008, de 27 de Fevereiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+### Capítulo V — Financiamento
+
+###### Artigo 19.º — Regime de financiamento
+
+1 - Em cada edição do Programa, designadamente para efeitos do disposto no artigo 14.º, os custos relativos a cada estagiário são suportados pela entidade promotora ou, quando assim o determine o ministro responsável por essa entidade, por outro órgão ou serviço do mesmo ministério.
+
+2 - O disposto no número anterior pode ser complementado por dotação orçamental específica e não prejudica o financiamento do Programa através de fundos comunitários.
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 20.º — Regulamentação
+
+O presente decreto-lei é regulamentado através de portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública, da economia, da solidariedade, do emprego e da segurança social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 134/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730), em vigor a partir de 2014-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2012 - Diário da República n.º 189/2012, Série I de 2012-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2012-175536), em vigor a partir de 2012-09-29
+
+###### Artigo 21.º — Norma transitória
+
+1 - A entrada em vigor do presente decreto-lei não prejudica os procedimentos referentes aos estágios na Administração Pública promovidos ao abrigo do Decreto-Lei n.º 326/99, de 18 de Agosto, e da Portaria n.º 1256/2005, de 2 de Dezembro, que se encontrem em curso naquela data e aos quais é aplicável o respectivo regime legal até à sua conclusão.
+
+2 - O Decreto-Lei n.º 326/99, de 18 de agosto, continua a vigorar para efeitos do disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 94/2006, de 29 de maio, e do disposto no n.º 3 do artigo 2.º do presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 134/2014 - Diário da República n.º 172/2014, Série I de 2014-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2014-56479730), em vigor a partir de 2014-10-01
+
+###### Artigo 22.º — Norma revogatória
+
+São revogados o Decreto-Lei n.º 326/99, de 18 de Agosto, e a Portaria n.º 1256/2005, de 2 de Dezembro, sem prejuízo do disposto no artigo anterior.
+
+###### Artigo 23.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 30 de Dezembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - Maria Helena dos Santos André.
+
+Promulgado em 17 de Fevereiro de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 19 de Fevereiro de 2010.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

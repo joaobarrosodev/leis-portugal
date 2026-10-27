@@ -1,0 +1,385 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66970764:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-128792821",
+ "dre_path": "/dr/detalhe/portaria/108-2015-66970764",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-04-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "128864975",
+    "128864976",
+    "128864977",
+    "128864978",
+    "128864979",
+    "128864980",
+    "128864981",
+    "128864982",
+    "128864983",
+    "128864984",
+    "128864985",
+    "128864986",
+    "128864987",
+    "128864988",
+    "128864989",
+    "128864990",
+    "128864991",
+    "128864992",
+    "128864993"
+   ]
+  },
+  {
+   "date": "2020-02-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:128792816:por",
+     "title": "Portaria n.º 37/2020",
+     "published": "2020-02-04",
+     "dre_path": "/dr/detalhe/portaria/37-2020-128792816"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "128864975",
+    "128864976",
+    "128864977",
+    "128864978",
+    "128864979",
+    "128864980",
+    "128869002",
+    "128864982",
+    "128864983",
+    "128864984",
+    "128864985",
+    "128864986",
+    "128864987",
+    "128864988",
+    "128864989",
+    "128864990",
+    "128864991",
+    "128864992",
+    "128864993",
+    "128864994"
+   ]
+  },
+  {
+   "date": "2020-02-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129529698:por",
+     "title": "Portaria n.º 48/2020",
+     "published": "2020-02-24",
+     "dre_path": "/dr/detalhe/portaria/48-2020-129529698"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "128864975",
+    "128864976",
+    "128864977",
+    "128864978",
+    "128864979",
+    "129575080",
+    "128869002",
+    "128864982",
+    "128864983",
+    "128864984",
+    "128864985",
+    "128864986",
+    "128864987",
+    "128864988",
+    "128864989",
+    "128864990",
+    "128864991",
+    "128864992",
+    "128864993",
+    "128864994"
+   ]
+  },
+  {
+   "date": "2023-07-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215716636:por",
+     "title": "Portaria n.º 214/2023",
+     "published": "2023-07-17",
+     "dre_path": "/dr/detalhe/portaria/214-2023-215716636"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "128864975",
+    "128864976",
+    "128864977",
+    "215817297",
+    "215817298",
+    "215817299",
+    "215817300",
+    "128864982",
+    "215817301",
+    "128864984",
+    "128864985",
+    "128864986",
+    "128864987",
+    "128864988",
+    "128864989",
+    "128864990",
+    "128864991",
+    "128864992",
+    "128864993",
+    "128864994"
+   ]
+  }
+ ],
+ "fragments": {
+  "128864975": {
+   "fragment_id": "128792822",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 108/2015\n\nde 14 de abril\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, estabeleceu o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), e determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural: um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.\n\nA Medida «Assistência Técnica» do PDR 2020 tem por objetivo apoiar as atividades relacionadas com o desenvolvimento do PDR 2020, nomeadamente as referentes à gestão, acompanhamento, avaliação controlo e comunicação, tendo ainda o objetivo de apoiar o funcionamento da Rede Rural Nacional (RRN).\n\nA presente portaria estabelece as condições de acesso e as regras gerais de financiamento pelo FEADER à Medida «Assistência Técnica» do PDR 2020, prevista no artigo 59.º do Regulamento (UE) n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, que estabelece disposições comuns aos fundos europeus estruturais de investimento (FEEI), conjugado com o disposto no artigo 51.º do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, relativo ao apoio ao desenvolvimento rural pelo FEADER.\n\nEsta medida cobre todo o período de programação, integra as atividades elegíveis das entidades com responsabilidades nas diferentes funções necessárias à boa gestão e execução do programa e destina-se a financiar atividades de controlo, preparação, coordenação, gestão, acompanhamento, avaliação, divulgação das medidas, informação, promoção e reforço do trabalho em rede, redução de custos administrativos e reforço da capacidade administrativa e técnica das entidades responsáveis pela execução do Programa, por forma a garantir condições para uma eficaz e competente gestão e operacionalização do mesmo.\n\nPodem beneficiar do apoio previsto na presente portaria a autoridade de gestão do PDR 2020, o organismo pagador, a Comissão Nacional de Coordenação do FEADER no âmbito do seu funcionamento, o organismo de controlo, as entidades com responsabilidades delegadas que intervenham no processo de gestão do PDR 2020, a Estrutura Técnica de Animação da RRN, as Estruturas Locais de Apoio criadas no âmbito da Medida 7 «Agricultura e recursos naturais», bem como os serviços e organismos públicos responsáveis pela preparação do próximo programa do desenvolvimento rural.\n\nAs candidaturas a esta medida são analisadas pela autoridade de gestão e objeto de decisão pelo membro do governo responsável pela área da agricultura.\n\nO circuito de gestão e controlo de execução física e financeira da medida cumpre os princípios e regras de gestão instituídos no programa, privilegiando a desmaterialização dos procedimentos.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "128864976": {
+   "fragment_id": "128792823",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "128864977": {
+   "fragment_id": "128792824",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação da medida «Assistência Técnica» do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "128864978": {
+   "fragment_id": "128792825",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\n1 - A medida «Assistência Técnica» tem por objetivo apoiar o desenvolvimento do PDR 2020, nomeadamente, através das seguintes atividades e ações:\n\na) Atividades de preparação e coordenação;\n\nb) Ações de gestão, acompanhamento e avaliação;\n\nc) Ações de controlo e execução;\n\nd) Ações de informação, comunicação e divulgação;\n\ne) Ações para a redução de encargos administrativos para os beneficiários, incluindo sistemas de informação para o intercâmbio de dados;\n\nf) Ações para reforço da capacidade das entidades envolvidas na execução do PDR 2020;\n\ng) Ações desenvolvidas pela Comissão de Coordenação Nacional (CCN) do FEADER;\n\nh) Ações integradas nos planos de atividades da Estrutura Técnica de Animação da Rede Rural Nacional (RRN);\n\ni) Ações integradas nos planos de atividades das Estruturas Locais de Apoio criadas no âmbito da Medida 7 «Agricultura e recursos naturais».\n\n2 - São, ainda, suscetíveis de serem financiadas pela medida «Assistência Técnica» as atividades relativas à preparação do próximo período de programação, bem como ao encerramento do Programa de Desenvolvimento Rural do Continente para o período de 2007-2013 (PRODER) e do Programa da Rede Rural Nacional (PRRN)."
+  },
+  "128864979": {
+   "fragment_id": "128792826",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\n1 - Podem beneficiar do apoio previsto na presente portaria as seguintes entidades:\n\na) A Autoridade de gestão do PDR 2020 (AG);\n\nb) O Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), enquanto organismo pagador e de controlo;\n\nc) As entidades com responsabilidades delegadas que intervenham no processo de gestão do PDR 2020;\n\nd) O Gabinete de Planeamento, Políticas e Administração Geral (GPP), no âmbito do apoio ao funcionamento da CCN;\n\ne) A Estrutura Técnica de Animação (ETA) da Rede Rural Nacional (RRN);\n\nf) As Estruturas Locais de Apoio (ELA), ou estrutura equivalente, previstas no âmbito das ações da Medida 7 «Agricultura e Recursos Naturais»;\n\ng) As entidades, serviços ou organismos públicos responsáveis por assegurar a preparação da próxima programação relativa ao desenvolvimento rural, no âmbito das intervenções estruturais comunitárias e nacionais.\n\n2 - Os apoios previstos nas alíneas d) e e) devem ser articulados com os apoios previstos no âmbito do PRORURAL + e do PRODERAM 2020."
+  },
+  "128864980": {
+   "fragment_id": "128792827",
+   "type": 11,
+   "heading": "Artigo 4.º — Critério de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Critério de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios à medida «Assistência Técnica» as seguintes operações que se enquadrem nos objetivos previstos no artigo 2.º:\n\na) Criação e funcionamento de estruturas de apoio técnico e logístico;\n\nb) Informação, divulgação e publicitação do PDR 2020 e seus instrumentos;\n\nc) Verificação e acompanhamento da execução do PDR 2020 e dos projetos aprovados;\n\nd) Auditoria e ações de controlo;\n\ne) Desenvolvimento, atualização e manutenção de sistemas de informação, incluindo a aquisição de software e de equipamento informático;\n\nf) Estudos de avaliação, globais ou específicos, e outros estudos ou avaliações necessários à boa execução das medidas ou do programa;\n\ng) Ações de recolha e tratamento de informação, estudos, elaboração de relatórios e outras ações indispensáveis aos trabalhos de encerramento das intervenções do PRODER e do PRRN;\n\nh) Outras ações que se revelem indispensáveis para garantir níveis adequados de gestão, acompanhamento e controlo das operações previstas no PDR 2020;\n\ni) Ações constantes dos planos de atividades da ETA da RRN;\n\nj) Ações constantes dos planos de atividades das ELA ou das estruturas equivalentes;\n\nk) Outras ações que se revelem necessárias à preparação das atividades do próximo período de programação, incluindo a avaliação ex ante.\n\n2 - As operações que se enquadrem no número anterior devem ter enquadramento na dotação anual afeta à «Assistência Técnica»."
+  },
+  "128864981": {
+   "fragment_id": "128792828",
+   "type": 11,
+   "heading": "Artigo 5.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Despesas elegíveis\n\n1 - Sem prejuízo do estabelecido na regulamentação comunitária aplicável, são elegíveis ao financiamento pelo FEADER através da presente medida as seguintes despesas, desde que pagas entre 1 de janeiro de 2014 e 31 de dezembro de 2023:\n\na) Remunerações e outras prestações de natureza salarial, encargos sociais e outras despesas associadas;\n\nb) Ações necessárias às verificações no terreno das operações cofinanciadas, nomeadamente as deslocações e estadas;\n\nc) Deslocações e estadas relativas a participação de reuniões, nomeadamente das comissões de acompanhamento e unidades de gestão, e em seminários, colóquios e conferências abrangidas pelo PDR 2020, assim como os necessários à preparação de atividades do próximo período de programação;\n\nd) Encargo com instalações, nomeadamente despesas de funcionamento como, água, luz, comunicações, serviços de limpeza, produtos de higiene e limpeza, aquisição de mobiliário e equipamento de escritório, incluindo economato e consumíveis de impressão;\n\ne) Encargos relacionados com utilização de veículos e aluguer operacional;\n\nf) Encargos com rendas de instalações;\n\ng) Encargos com trabalhos de adaptação de instalações;\n\nh) Equipamentos informáticos, infraestruturas tecnológicas e sistemas de informação, de comunicação e de monitorização;\n\ni) Consultadoria técnica, estudos e trabalhos indispensáveis à boa execução do PDR 2020, bem como à preparação das atividades do próximo período de programação, incluindo avaliação ex ante;\n\nj) Formação e capacitação dos recursos;\n\nk) Organização de reuniões, nomeadamente das comissões de acompanhamento e unidades de gestão;\n\nl) Promoção e organização de seminários, colóquios e conferências nas áreas de atuação abrangidas pelo PDR 2020, bem como os necessários à preparação das atividades do próximo período de programação;\n\nm) Aquisição de bens e serviços, incluindo o desenvolvimento aplicacional, nos domínios das comunicações, da Internet, multimédia, publicidade, divulgação e sensibilização;\n\nn) Outras despesas com a aquisição de bens e serviços indispensáveis à boa execução das operações objeto do PDR 2020;\n\no) Outras despesas que se revelem necessárias à preparação das atividades do próximo período de programação, incluindo a avaliação ex ante relativa ao próximo Programa de Desenvolvimento Rural;\n\np) Despesas com atividades relativas ao encerramento do PRODER e PRRN.\n\n2 - A elegibilidade temporal é comprovada pelas datas constantes nas faturas ou outros documentos de valor probatório equivalente das despesas apresentadas.\n\n3 - As despesas são justificadas pelos custos elegíveis efetivamente incorridos e pagos, podendo ser imputadas através de custos simplificados, com base em critérios de imputação devidamente justificados e quantificáveis, desde que verificáveis ao longo da execução da operação."
+  },
+  "128864982": {
+   "fragment_id": "128792829",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos na presente portaria devem cumprir, além das obrigações enunciadas no Decreto-Lei n.º 159/2014, de 27 de outubro, as seguintes obrigações:\n\na) Executar as operações nos termos e prazos fixados no termo de aceitação;\n\nb) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações;\n\nc) Cumprir o calendário de execução física e financeira da operação, fixada na decisão de aprovação;\n\nd) Comunicar à autoridade de gestão qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projeto;\n\ne) Assegurar a boa prestação de contas e reporte final;\n\nf) Publicitar os apoios que lhe forem atribuídos nos termos da legislação comunitária aplicável e das normas técnicas do PDR 2020.\n\n2 - O incumprimento das obrigações previstas no número anterior determina a suspensão de todos os pagamentos de comparticipação comunitária ao beneficiário no âmbito do PDR 2020, até à regularização da situação."
+  },
+  "128864983": {
+   "fragment_id": "128792830",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma, nível e limite dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Forma, nível e limite dos apoios\n\nO apoio previsto na presente portaria assume a forma de subvenção não reembolsável até 100 % das despesas elegíveis, podendo assumir as modalidades previstas nas alíneas a), c) e e) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro."
+  },
+  "128864984": {
+   "fragment_id": "128792831",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento"
+  },
+  "128864985": {
+   "fragment_id": "128792832",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apresentação das candidaturas\n\n1 - As candidaturas são submetidas em períodos definidos, ao abrigo do disposto no artigo 16.º do Decreto-Lei n.º 159/2014, de 27 de outubro.\n\n2 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, ouvida a comissão de gestão, e são enviados aos beneficiários pela autoridade de gestão por correio eletrónico.\n\n3 - A apresentação das candidaturas efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt ou do PDR 2020, em www.pdr-2020.pt, e estão sujeitos a confirmação eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura."
+  },
+  "128864986": {
+   "fragment_id": "128792833",
+   "type": 11,
+   "heading": "Artigo 9.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Análise e decisão das candidaturas\n\n1 - A AG analisa a elegibilidade dos beneficiários e das operações, de acordo com as normas e legislação nacional e comunitária em vigor, e elabora proposta de decisão.\n\n2 - O gestor aprova a proposta apresentada e envia para decisão do membro do governo responsável pela área da agricultura.\n\n3 - A AG notifica o beneficiário e comunica a decisão ao IFAP, I. P."
+  },
+  "128864987": {
+   "fragment_id": "128792834",
+   "type": 11,
+   "heading": "Artigo 10.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "128864988": {
+   "fragment_id": "128792835",
+   "type": 11,
+   "heading": "Artigo 11.º — Alteração das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração das operações\n\n1 - Podem ser aprovadas alterações às operações, quando as mesmas não alterem os seus objetivos.\n\n2 - Os pedidos de alteração devem ser formalizados através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt ou do PDR 2020, em www.pdr-2020.pt, mediante a apresentação de nota justificativa com a síntese das alterações solicitadas e informação detalhada das rubricas a alterar.\n\n3 - As alterações previstas no n.º 1 são objeto de decisão do gestor e consideram-se aditadas ao termo de aceitação."
+  },
+  "128864989": {
+   "fragment_id": "128792836",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através da submissão de formulário disponível no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente, de acordo com os procedimentos aprovados pelo IFAP, I. P. e divulgados no respetivo portal, em www.ifap.pt.\n\n3 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor da despesa, no máximo de 20 % da despesa pública aprovada.\n\n4 - A regularização do adiantamento referido no número anterior deve ser efetuada até à apresentação do último pedido de pagamento.\n\n5 - O disposto no n.º 2 não é aplicável às operações ou componentes de operações com custos simplificados.\n\n6 - A concessão e o montante dos adiantamentos ficam limitados às disponibilidades orçamentais do PDR 2020."
+  },
+  "128864990": {
+   "fragment_id": "128792837",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I. P. analisa os pedidos de pagamento e solicita aos beneficiários, se necessário, elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n2 - Da análise referida no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento."
+  },
+  "128864991": {
+   "fragment_id": "128792838",
+   "type": 11,
+   "heading": "Artigo 14.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pagamentos\n\n1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.\n\n2 - Os pagamentos dos apoios são efetuados por transferência bancária."
+  },
+  "128864992": {
+   "fragment_id": "128792839",
+   "type": 11,
+   "heading": "Artigo 15.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Controlo\n\nA operação, incluindo a candidatura e os pedidos de pagamento, está sujeita a ações de controlo administrativo e in loco a partir da data da submissão autenticada do termo de aceitação, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável."
+  },
+  "128864993": {
+   "fragment_id": "128792840",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "128869002": {
+   "fragment_id": "128792828",
+   "type": 11,
+   "heading": "Artigo 5.º — Despesas elegíveis",
+   "in_force_from": "2020-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 37/2020 - Diário da República n.º 24/2020, Série I de 2020-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/37-2020-128792816), em vigor a partir de 2020-02-05"
+   ],
+   "markdown": "###### Artigo 5.º — Despesas elegíveis\n\n1 - Sem prejuízo do estabelecido na regulamentação comunitária aplicável, são elegíveis ao financiamento pelo FEADER através da presente medida as seguintes despesas, desde que pagas entre 1 de janeiro de 2014 e 31 de dezembro de 2023:\n\na) Remunerações e outras prestações de natureza salarial, encargos sociais e outras despesas associadas;\n\nb) Ações necessárias às verificações no terreno das operações cofinanciadas, nomeadamente as deslocações e estadas;\n\nc) Deslocações e estadas relativas a participação de reuniões, nomeadamente das comissões de acompanhamento e unidades de gestão, e em seminários, colóquios e conferências abrangidas pelo PDR 2020, assim como os necessários à preparação de atividades do próximo período de programação;\n\nd) Encargo com instalações, nomeadamente despesas de funcionamento como, água, luz, comunicações, serviços de limpeza, produtos de higiene e limpeza, aquisição de mobiliário e equipamento de escritório, incluindo economato e consumíveis de impressão;\n\ne) Encargos relacionados com utilização de veículos e aluguer operacional;\n\nf) Encargos com rendas de instalações;\n\ng) Encargos com trabalhos de adaptação de instalações;\n\nh) Equipamentos informáticos, infraestruturas tecnológicas e sistemas de informação, de comunicação e de monitorização;\n\ni) Consultadoria técnica, estudos e trabalhos indispensáveis à boa execução do PDR 2020, bem como à preparação das atividades do próximo período de programação, incluindo avaliação ex ante;\n\nj) Formação e capacitação dos recursos;\n\nk) Organização de reuniões, nomeadamente das comissões de acompanhamento e unidades de gestão;\n\nl) Promoção e organização de seminários, colóquios e conferências nas áreas de atuação abrangidas pelo PDR 2020, bem como os necessários à preparação das atividades do próximo período de programação;\n\nm) Aquisição de bens e serviços, incluindo o desenvolvimento aplicacional, nos domínios das comunicações, da Internet, multimédia, publicidade, divulgação e sensibilização;\n\nn) Outras despesas com a aquisição de bens e serviços indispensáveis à boa execução das operações objeto do PDR 2020;\n\no) Outras despesas que se revelem necessárias à preparação das atividades do próximo período de programação, incluindo a avaliação ex ante relativa ao próximo Programa de Desenvolvimento Rural;\n\np) Despesas com atividades relativas ao encerramento do PRODER e PRRN.\n\n2 - Sem prejuízo dos apoios específicos previstos no âmbito do PRORURAL+ e do PRODERAM 2020, são ainda elegíveis as despesas necessárias à preparação das atividades do próximo período de programação, designadamente a avaliação ex ante, que abranjam todo o território português, incluindo a Região Autónoma dos Açores e a Região Autónoma da Madeira.\n\n3 - A elegibilidade temporal é comprovada pelas datas constantes nas faturas ou outros documentos de valor probatório equivalente das despesas apresentadas.\n\n4 - As despesas são justificadas pelos custos elegíveis efetivamente incorridos e pagos, podendo ser imputadas através de custos simplificados, com base em critérios de imputação devidamente justificados e quantificáveis, desde que verificáveis ao longo da execução da operação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 37/2020 - Diário da República n.º 24/2020, Série I de 2020-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/37-2020-128792816), em vigor a partir de 2020-02-05"
+  },
+  "128864994": {
+   "fragment_id": "128792841",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 25 de março de 2015."
+  },
+  "129575080": {
+   "fragment_id": "128792827",
+   "type": 11,
+   "heading": "Artigo 4.º — Critério de elegibilidade das operações",
+   "in_force_from": "2020-02-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2020 - Diário da República n.º 38/2020, Série I de 2020-02-24](https://diariodarepublica.pt/dr/detalhe/portaria/48-2020-129529698), em vigor a partir de 2020-02-25"
+   ],
+   "markdown": "###### Artigo 4.º — Critério de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios à medida «Assistência Técnica» as seguintes operações que se enquadrem nos objetivos previstos no artigo 2.º:\n\na) Criação e funcionamento de estruturas de apoio técnico e logístico;\n\nb) Informação, divulgação e publicitação do PDR 2020 e seus instrumentos;\n\nc) Verificação e acompanhamento da execução do PDR 2020 e dos projetos aprovados;\n\nd) Auditoria e ações de controlo;\n\ne) Desenvolvimento, atualização e manutenção de sistemas de informação, incluindo a aquisição de software e de equipamento informático;\n\nf) Estudos de avaliação, globais ou específicos, e outros estudos ou avaliações necessários à boa execução das medidas ou do programa;\n\ng) Ações de recolha e tratamento de informação, estudos, elaboração de relatórios e outras ações indispensáveis aos trabalhos de encerramento das intervenções do PRODER e do PRRN;\n\nh) Outras ações que se revelem indispensáveis para garantir níveis adequados de gestão, acompanhamento e controlo das operações previstas no PDR 2020;\n\ni) Ações constantes dos planos de atividades da ETA da RRN;\n\nj) Ações constantes dos planos de atividades das ELA ou das estruturas equivalentes;\n\nk) Outras ações que se revelem necessárias à preparação das atividades do próximo período de programação, incluindo a avaliação ex ante.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2020 - Diário da República n.º 38/2020, Série I de 2020-02-24](https://diariodarepublica.pt/dr/detalhe/portaria/48-2020-129529698), em vigor a partir de 2020-02-25"
+  },
+  "215817297": {
+   "fragment_id": "128792825",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": "2023-07-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/214-2023-215716636), em vigor a partir de 2023-07-18"
+   ],
+   "markdown": "###### Artigo 2.º — Objetivos\n\n1 - A medida «Assistência Técnica» tem por objetivo apoiar o desenvolvimento do PDR 2020, nomeadamente, através das seguintes atividades e ações:\n\na) Atividades de preparação e coordenação;\n\nb) Ações de gestão, acompanhamento e avaliação;\n\nc) Ações de controlo e execução;\n\nd) Ações de informação, comunicação e divulgação;\n\ne) Ações para a redução de encargos administrativos para os beneficiários, incluindo sistemas de informação para o intercâmbio de dados;\n\nf) Ações para reforço da capacidade das entidades envolvidas na execução do PDR 2020;\n\ng) Ações desenvolvidas pela Comissão de Coordenação Nacional (CCN) do FEADER;\n\nh) Ações integradas nos planos de atividades da Estrutura Técnica de Animação da Rede Rural Nacional (RRN);\n\ni) Ações integradas nos planos de atividades das Estruturas Locais de Apoio criadas no âmbito da Medida 7 «Agricultura e recursos naturais».\n\n2 - São, ainda, suscetíveis de serem financiadas pela medida 'Assistência Técnica' as atividades relativas à preparação da execução do Plano Estratégico da Política Agrícola Comum (PEPAC).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/214-2023-215716636), em vigor a partir de 2023-07-18"
+  },
+  "215817298": {
+   "fragment_id": "128792826",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": "2023-07-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/214-2023-215716636), em vigor a partir de 2023-07-18"
+   ],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\n1 - Podem beneficiar do apoio previsto na presente portaria as seguintes entidades:\n\na) A Autoridade de gestão do PDR 2020 (AG);\n\nb) O Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), enquanto organismo pagador e de controlo;\n\nc) As entidades com responsabilidades delegadas que intervenham no processo de gestão do PDR 2020;\n\nd) O Gabinete de Planeamento, Políticas e Administração Geral (GPP), no âmbito do apoio ao funcionamento da CCN;\n\ne) A Estrutura Técnica de Animação (ETA) da Rede Rural Nacional (RRN);\n\nf) As Estruturas Locais de Apoio (ELA), ou estrutura equivalente, previstas no âmbito das ações da Medida 7 «Agricultura e Recursos Naturais»;\n\ng) As entidades, serviços ou organismos públicos responsáveis por assegurar a preparação da próxima programação relativa ao desenvolvimento rural, no âmbito das intervenções estruturais comunitárias e nacionais;\n\nh) As Estruturas Locais de Apoio (ELA) e os Gabinetes Locais de Acompanhamento (GLA) no âmbito das intervenções previstas no Domínio D.2, 'Programas de Ação de Áreas Sensíveis', do PEPAC.\n\n2 - Os apoios previstos nas alíneas d) e e) devem ser articulados com os apoios previstos no âmbito do PRORURAL + e do PRODERAM 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/214-2023-215716636), em vigor a partir de 2023-07-18"
+  },
+  "215817299": {
+   "fragment_id": "128792827",
+   "type": 11,
+   "heading": "Artigo 4.º — Critério de elegibilidade das operações",
+   "in_force_from": "2023-07-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/214-2023-215716636), em vigor a partir de 2023-07-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2020 - Diário da República n.º 38/2020, Série I de 2020-02-24](https://diariodarepublica.pt/dr/detalhe/portaria/48-2020-129529698), em vigor a partir de 2020-02-25"
+   ],
+   "markdown": "###### Artigo 4.º — Critério de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios à medida «Assistência Técnica» as seguintes operações que se enquadrem nos objetivos previstos no artigo 2.º:\n\na) Criação e funcionamento de estruturas de apoio técnico e logístico;\n\nb) Informação, divulgação e publicitação do PDR 2020 e seus instrumentos;\n\nc) Verificação e acompanhamento da execução do PDR 2020 e dos projetos aprovados;\n\nd) Auditoria e ações de controlo;\n\ne) Desenvolvimento, atualização e manutenção de sistemas de informação, incluindo a aquisição de software e de equipamento informático;\n\nf) Estudos de avaliação, globais ou específicos, e outros estudos ou avaliações necessários à boa execução das medidas ou do programa;\n\ng) Ações de recolha e tratamento de informação, estudos, elaboração de relatórios e outras ações indispensáveis aos trabalhos de encerramento das intervenções do PRODER e do PRRN;\n\nh) Outras ações que se revelem indispensáveis para garantir níveis adequados de gestão, acompanhamento e controlo das operações previstas no PDR 2020;\n\ni) Ações constantes dos planos de atividades da ETA da RRN;\n\nj) Ações constantes dos planos de atividades das ELA e dos GLA;\n\nk) Outras ações que se revelem necessárias à preparação das atividades do próximo período de programação, incluindo a avaliação ex ante.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/214-2023-215716636), em vigor a partir de 2023-07-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2020 - Diário da República n.º 38/2020, Série I de 2020-02-24](https://diariodarepublica.pt/dr/detalhe/portaria/48-2020-129529698), em vigor a partir de 2020-02-25"
+  },
+  "215817300": {
+   "fragment_id": "128792828",
+   "type": 11,
+   "heading": "Artigo 5.º — Despesas elegíveis",
+   "in_force_from": "2023-07-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/214-2023-215716636), em vigor a partir de 2023-07-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 37/2020 - Diário da República n.º 24/2020, Série I de 2020-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/37-2020-128792816), em vigor a partir de 2020-02-05"
+   ],
+   "markdown": "###### Artigo 5.º — Despesas elegíveis\n\n1 - Sem prejuízo do estabelecido na regulamentação europeia aplicável, são elegíveis ao financiamento pelo FEADER através da presente medida as seguintes despesas, desde que pagas entre 1 de janeiro de 2014 e 31 de dezembro de 2025:\n\na) Remunerações e outras prestações de natureza salarial, encargos sociais e outras despesas associadas;\n\nb) Ações necessárias às verificações no terreno das operações cofinanciadas, nomeadamente as deslocações e estadas;\n\nc) Deslocações e estadas relativas a participação de reuniões, nomeadamente das comissões de acompanhamento e unidades de gestão, e em seminários, colóquios e conferências abrangidas pelo PDR 2020, assim como os necessários à preparação de atividades do próximo período de programação;\n\nd) Encargo com instalações, nomeadamente despesas de funcionamento como, água, luz, comunicações, serviços de limpeza, produtos de higiene e limpeza, aquisição de mobiliário e equipamento de escritório, incluindo economato e consumíveis de impressão;\n\ne) Encargos relacionados com utilização de veículos e aluguer operacional;\n\nf) Encargos com rendas de instalações;\n\ng) Encargos com trabalhos de adaptação de instalações;\n\nh) Equipamentos informáticos, infraestruturas tecnológicas e sistemas de informação, de comunicação e de monitorização;\n\ni) Consultadoria técnica, estudos e trabalhos indispensáveis à boa execução do PDR 2020, bem como à preparação das atividades do próximo período de programação, incluindo avaliação ex ante;\n\nj) Formação e capacitação dos recursos;\n\nk) Organização de reuniões, nomeadamente das comissões de acompanhamento e unidades de gestão;\n\nl) Promoção e organização de seminários, colóquios e conferências nas áreas de atuação abrangidas pelo PDR 2020, bem como os necessários à preparação das atividades do próximo período de programação;\n\nm) Aquisição de bens e serviços, incluindo o desenvolvimento aplicacional, nos domínios das comunicações, da Internet, multimédia, publicidade, divulgação e sensibilização;\n\nn) Outras despesas com a aquisição de bens e serviços indispensáveis à boa execução das operações objeto do PDR 2020;\n\no) Outras despesas que se revelem necessárias à preparação das atividades do próximo período de programação, incluindo a avaliação ex ante relativa ao próximo Programa de Desenvolvimento Rural;\n\np) Despesas com atividades relativas ao encerramento do PRODER e PRRN.\n\n2 - Sem prejuízo dos apoios específicos previstos no âmbito do PRORURAL+ e do PRODERAM 2020, são ainda elegíveis as despesas necessárias à preparação das atividades do próximo período de programação, designadamente a avaliação ex ante, que abranjam todo o território português, incluindo a Região Autónoma dos Açores e a Região Autónoma da Madeira.\n\n3 - A elegibilidade temporal é comprovada pelas datas constantes nas faturas ou outros documentos de valor probatório equivalente das despesas apresentadas.\n\n4 - As despesas são justificadas pelos custos elegíveis efetivamente incorridos e pagos, podendo ser imputadas através de custos simplificados, com base em critérios de imputação devidamente justificados e quantificáveis, desde que verificáveis ao longo da execução da operação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/214-2023-215716636), em vigor a partir de 2023-07-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 37/2020 - Diário da República n.º 24/2020, Série I de 2020-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/37-2020-128792816), em vigor a partir de 2020-02-05"
+  },
+  "215817301": {
+   "fragment_id": "128792830",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma, nível e limite dos apoios",
+   "in_force_from": "2023-07-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 214/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/214-2023-215716636), em vigor a partir de 2023-07-18"
+   ],
+   "markdown": "###### Artigo 7.º — Forma, nível e limite dos apoios\n\n1 - O apoio previsto na presente portaria assume a forma de subvenção não reembolsável até 100 % das despesas elegíveis, podendo assumir as modalidades previstas nas alíneas a), c) e e) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro.\n\n2 - As despesas previstas nas alíneas b), c), d), e), f), g), h), i), j), k), l), m), n) e o) do n.º 1 do artigo 5.º podem assumir a modalidade de custos simplificados, sendo, neste caso, determinadas por aplicação de uma taxa fixa de 40 % dos custos diretos elegíveis com recursos humanos, de acordo com o previsto no n.º 1 do artigo 68.º-B do Regulamento (UE) n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, na sua redação atual.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 214/2023 - Diário da República n.º 137/2023, Série I de 2023-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/214-2023-215716636), em vigor a partir de 2023-07-18"
+  }
+ }
+}

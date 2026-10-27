@@ -1,0 +1,284 @@
+---
+schema_version: '1.0'
+id: pt:dre:506865:por
+title: Decreto-Lei n.º 84/76
+short_title: null
+summary: Dá nova redacção a diversos artigos do Decreto-Lei n.º 372-A/75, de 16 de Julho (lei dos despedimentos)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho
+proposing_entity: null
+official_number: 84/76
+official_date: null
+publication_date: '1976-01-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 23/1976, Série I de 1976-01-28
+  number: '23'
+  series: I
+  supplement: null
+  pages: 208 - 210
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02300/02080210.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '506865'
+  dre_path: /dr/detalhe/decreto-lei/84-1976-506865
+  internal: pt:dre:506865:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1976-506865
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-1976-506865
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:59:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 629445dbac1b3cbcde7dface7a8df57a709b946d10c780176d36f78e3d059831
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:59:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato Individual de Trabalho
+- Despedimento
+- Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:621302:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:558991:por
+  label: "Alterados os artigos 9.º, 10.º e 11.º do Decreto-Lei a 372-A/75, de 16 de Julho, na redacção dada no presente diploma,\
+    \ pelo DEC LEI.841-C/76.07.12.1976.MT, DR.IS [285]Supl de 07.12.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/841-c-1976-558991
+  date: '1976-12-07'
+- type: amended_by
+  target: pt:dre:250443:por
+  label: "Alterados os artigos 9.º, 10.º e 11.º do Decreto-Lei n.º 372-A/75, de 16 de Julho, na redacção dada no presente\
+    \ diploma, e no Decreto-Lei n.º 841-C/76, de 7 de Dezembro, pela LEI.48/77.11.07.1977.AR, DR.IS [158] de 11.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/48-1977-250443
+  date: '1977-07-11'
+- type: cites
+  target: pt:dre:151932:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236101:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:289837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631271:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:501187:por
+  label: Rectificado pela DECL.DD8687.31.03.1976.PCM, DG.IS [77] de 31.03.1976
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1976-501187
+  date: '1976-03-31'
+- type: repealed_by
+  target: pt:dre:621302:por
+  label: "Revogado pelo DEC LEI.64-A/89.27.02.1989.MESS, DR.IS [48]2ºSupl de 27.02.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-a-1989-621302
+  date: '1989-02-27'
+article_structure:
+  article_count: 0
+  section_count: 1
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:59:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 84/76
+
+de 28 de Janeiro
+
+Considerando a necessidade de rever em certos aspectos o regime legal dos despedimentos previstos pelo [Decreto-Lei n.º 372-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-a-1975-151932), designadamente a supressão da matéria respeitante ao despedimento por motivo atendível, compreendida no capítulo V do citado diploma, em virtude de a prática ter demonstrado que o referido tipo de despedimentos se revelou inadequado à defesa da estabilidade do emprego, motivando a contestação generalizada dos trabalhadores;
+
+Considerando, ainda, que se mostra vantajosa a integração da regulamentação respeitante aos despedimentos colectivos no presente diploma, aglutinando num só decreto-lei todas as formas legalmente permitidas de cessação dos contratos de trabalho;
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º O artigo 4.º, o n.º 2 do artigo 10.º, os n.os 3, 4 e 5 do artigo 11.º, os n.os 3 e 4 do artigo 12.º e o n.º 2 do artigo 25.º do [Decreto-Lei n.º 372-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-a-1975-151932), de 16 de Julho, passam a ter a seguinte redacção:
+
+Art. 4.º O contrato de trabalho pode cessar por:
+
+a) Mútuo acordo das partes;
+
+b) Caducidade;
+
+c) Despedimento promovido pela entidade patronal ou gestor público com justa causa;
+
+d) Despedimento colectivo;
+
+e) Rescisão do trabalhador.
+
+...
+
+Art. 10.º - 1. ...
+
+2. Poderão nomeadamente constituir justa causa os seguintes comportamentos do trabalhador:
+
+a) Inobservância repetida e injustificada das regras e directivas referentes ao modo de executar a prestação de trabalho, com a diligência devida;
+
+b) Violação de direitos e garantias de trabalhadores sob a sua direcção;
+
+c) Provocação repetida de conflitos com os camaradas de trabalho;
+
+d) Lesão culposa de interesses patrimoniais sérios da empresa;
+
+e) Falta reiterada e injustificada à prestação do trabalho;
+
+f) Inobservância culposa e repetida das normas de higiene e segurança no trabalho.
+
+Art. 11.º - 1. ...
+
+2. ...
+
+3. Quando o processo estiver completo, será presente, conforme os casos, à comissão de trabalhadores, à comissão intersindical, à comissão sindical ou ao delegado sindical, nas empresas em que houver e pela indicada ordem de preferência, ou ao sindicato respectivo, nas empresas em que não existir qualquer daquelas entidades, que se deverá pronunciar no prazo de oito dias.
+
+4. A entidade patronal, gestor público ou outra entidade que na empresa detenha a competência para as decisões disciplinares deve ponderar todas as circunstâncias do caso e referenciar obrigatoriamente na decisão as razões aduzidas num ou noutro sentido pela entidade mencionada no número anterior.
+
+5. A decisão do processo, quando for no sentido do despedimento, só pode ser proferida após o decurso de quinze dias sobre o termo do prazo fixado no n.º 3 e deve ser comunicada ao trabalhador por escrito, com indicação dos fundamentos considerados provados.
+
+6. ...
+
+Art. 12.º - 1. ...
+
+2. ...
+
+3. Em substituição da reintegração, o trabalhador pode optar pela indemnização de antiguidade prevista no artigo 20.º, contando-se para esse efeito todo o tempo decorrido até à data da sentença.
+
+4. O despedimento decidido com alegação de justa causa que venha a mostrar-se insubsistente, quando se prove o dolo da entidade patronal ou gestor público, dará lugar à aplicação de multa de 50000$00 a 200000$00 àquelas entidades, cujo produto reverterá para o Fundo de Desemprego.
+
+5. ...
+
+6. ...
+
+...
+
+Art. 25.º - 1. ...
+
+2. A cessação do contrato nos termos das alíneas b) a f) do n.º 1 confere ao trabalhador o direito à indemnização prevista no artigo 20.º
+
+Art. 2.º O capítulo V do [Decreto-Lei n.º 372-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-a-1975-151932), de 16 de Julho, é substituído pelas disposições seguintes:
+
+### CAPÍTULO V — Cessação de contratos de trabalho por despedimento colectivo
+
+Art. 13.º - 1. Para além dos casos de mútuo acordo, caducidade e justa causa, a cessação de contratos de trabalho só pode ser promovida pela entidade patronal ou gestor público através de despedimento colectivo válido, nos termos do presente capítulo.
+
+2. Considera-se despedimento colectivo, para efeitos do presente diploma, a cessação de contratos de trabalho, operada simultânea ou sucessivamente no período de três meses, que abranja, pelo menos, dois ou cinco trabalhadores, conforme se trata respectivamente de empresas com dois a cinquenta ou mais de cinquenta trabalhadores, sempre que aquela ocorrência se fundamente em encerramento definitivo da empresa, encerramento de uma ou várias secções ou redução do pessoal determinada por motivos estruturais, tecnológicos ou conjunturais.
+
+3. O disposto no número anterior não se aplica aos contratos de trabalho rural nem aos contratos de trabalho celebrados no âmbito de actividades classificadas como sazonais.
+
+4. Ficam abrangidos pelas disposições deste capítulo os despedimentos promovidos durante o período de experiência pela entidade patronal.
+
+Art. 14.º - 1. A entidade patronal ou o gestor público comunicará às entidades referidas no n.º 3 do artigo 11.º, a cada um dos trabalhadores abrangidos e à Secretaria de Estado do Emprego a intenção de proceder a um despedimento colectivo, com a antecedência mínima, sobre a data prevista, de sessenta ou noventa dias, conforme se trate, respectivamente, da empresa que habitualmente empregue até cinquenta trabalhadores ou mais de cinquenta trabalhadores.
+
+2. Nas empresas que empreguem habitualmente menos de cinquenta trabalhadores, o prazo de comunicação será de noventa dias quando o despedimento colectivo envolver dez ou mais trabalhadores.
+
+3. Juntamente com a comunicação a enviar nos termos do n.º 1 à entidade representativa dos trabalhadores e à Secretaria de Estado do Emprego, serão indicados os seguintes elementos em relação a cada trabalhador a despedir: nome, morada, estado civil, data do nascimento e de admissão na empresa, situação perante a Previdência, número de pessoas a cargo, qualificação profissional, habilitações, secção a que pertence, categoria e classe, retribuição actual.
+
+4. A comunicação do despedimento colectivo será ainda acompanhada por um documento escrito contendo as razões de ordem económica, financeira ou técnica, bem como todas as informações necessárias à apreciação dos motivos invocados, sem prejuízo do contacto directo entre as partes interessadas.
+
+Art. 15.º Dentro de trinta dias a contar da data de comunicação, deverá a entidade representativa dos trabalhadores remeter à Secretaria de Estado do Emprego o seu parecer sobre a validade do conteúdo da comunicação da entidade patronal ou gestor público, juntamente com a indicação das medidas adequadas a prevenir ou reduzir os despedimentos, à formação e classificação dos trabalhadores, à sua transferência de serviço, ao escalonamento no tempo dos trabalhadores a despedir, bem como quaisquer outras medidas tendentes a minimizar eventuais efeitos do despedimento colectivo.
+
+Art. 16.º - 1. A Secretaria de Estado do Emprego poderá solicitar às entidades públicas ou privadas os elementos julgados necessários para a análise da situação e consultar a escrita comercial da empresa.
+
+2. A empresa fornecerá os esclarecimentos, informações e documentos que lhe forem solicitados.
+
+Art. 17.º - 1. A Secretaria de Estado do Emprego averiguará as condições da empresa e proporá ao Ministro do Trabalho que determine as medidas consideradas indispensáveis, conforme os casos, para evitar ou reduzir os despedimentos, nomeadamente:
+
+a) A proibição da cessação dos contratos em causa, por falta ou insuficiência de fundamentos;
+
+b) A reclassificação dos trabalhadores e a sua redistribuição por outro ou outros estabelecimentos da entidade patronal.
+
+2. Se as circunstâncias o justificarem, a Secretaria de Estado do Emprego proporá directamente ao departamento governamental responsável pelo sector económico em que a empresa se integra a adopção das medidas e a aplicação do regime previsto no [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro.
+
+3. A Secretaria de Estado do Emprego poderá ainda determinar a dilação, por mais de trinta dias, do prazo no n.º 1 do artigo 14.º, comunicando-a à empresa até vinte dias antes do termo do mesmo prazo.
+
+Art. 18.º - 1. Sem prejuízo da necessidade de assegurar o funcionamento eficaz da empresa ou serviço, em caso de redução de pessoal, devem ter preferência na manutenção do emprego, ouvidas as entidades representativas dos trabalhadores, e dentro de cada categoria profissional, os trabalhadores:
+
+1.º Deficientes, entendendo-se como tais os indivíduos que estejam nas condições previstas no n.º 3 da base I da [Lei n.º 6/71](https://diariodarepublica.pt/dr/detalhe/lei/6-1971-631271), de 8 de Novembro;
+
+2.º Mais antigos;
+
+3.º Mais idosos;
+
+4.º Com mais encargos familiares;
+
+5.º Mais capazes, experientes ou qualificados.
+
+2. A ordem e importância relativa dos critérios referidos no n.º 1 poderão ser alteradas pelas convenções colectivas de trabalho.
+
+Art. 19.º - 1. Durante um ano, a contar da data do despedimento colectivo, os trabalhadores beneficiam de preferência de admissão na empresa.
+
+2. A preferência de admissão mantém-se nos casos de transmissão ou transformação da empresa ou do estabelecimento que efectuou os despedimentos.
+
+3. A entidade patronal ou gestor público deverá dar conhecimento aos preferentes da possibilidade de exercício do direito de admissão em carta registada com aviso de recepção.
+
+4. Os titulares do direito deverão exercê-lo dentro de quinze dias a contar da data de recebimento do referido aviso de recepção.
+
+Art. 20.º - 1. Cada trabalhador abrangido pelo despedimento colectivo tem direito a uma indemnização de acordo com a respectiva antiguidade e correspondente a um mês de retribuição por cada ano ou fracção, não podendo ser inferior a três meses.
+
+2. A referência a um mês será substituída por quatro semanas se o vencimento for pago à semana, quinzena ou dia.
+
+Art. 21.º O trabalhador tem, durante o prazo a que se refere o artigo 14.º, o direito de utilizar cinco horas do seu período semanal de trabalho para procurar outro emprego, sem prejuízo da remuneração.
+
+Art. 22.º - 1. São considerados nulos e de nenhum efeito os despedimentos efectuados sem observância do procedimento referido nos artigos 14.º e seguintes, bem como os que forem proferidos contra a proibição prevista na alínea a) do n.º 1 do artigo 17.º
+
+2. Os efeitos da nulidade são os definidos nos n.os 2 e 3 do artigo 12.º
+
+Art. 23.º - 1. A infracção às normas contidas no presente capítulo implica para a entidade patronal ou gestor público a multa de 10000$00 a 100000$00 por cada trabalhador despedido, graduando-se a sanção de forma directamente proporcional ao número de trabalhadores afectados e à situação financeira da empresa.
+
+2. Sem prejuízo do disposto no número anterior, se a entidade patronal ou gestor público obstar ao exercício do direito do preferente, ficará obrigado ao pagamento de uma compensação equivalente à retribuição de tantos meses quantos os anos de serviço do trabalhador na empresa, até ao limite de doze meses para os trabalhadores até aos 50 anos de idade e de dezoito ou vinte e quatro meses, respectivamente, para os que contam mais de 50 ou 55 anos de idade.
+
+3. O montante das multas reverterá para o Fundo de Desemprego.
+
+Art. 3.º Ficam revogados o [Decreto-Lei n.º 783/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/783-1974-236101), de 31 de Dezembro, bem como o artigo 2.º, os artigos 13.º a 23.º, o n.º 2 do artigo 28.º e os n.os 1 e 2 do artigo 29.º do [Decreto-Lei n.º 372-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-a-1975-151932), de 16 de Julho.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João Pedro Tomás Rosa.
+
+Promulgado em 19 de Janeiro de 1976.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

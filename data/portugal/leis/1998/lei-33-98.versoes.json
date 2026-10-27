@@ -1,0 +1,336 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:424491:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-70095705",
+ "dre_path": "/dr/detalhe/lei/33-1998-424491",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-07-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70073692",
+    "70073693",
+    "70073694",
+    "70073695",
+    "70073696",
+    "70073697",
+    "70073698",
+    "70073699",
+    "70073700",
+    "70073701"
+   ]
+  },
+  {
+   "date": "2015-08-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70095692:por",
+     "title": "Lei n.º 106/2015",
+     "published": "2015-08-25",
+     "dre_path": "/dr/detalhe/lei/106-2015-70095692"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "70073692",
+    "70073693",
+    "70073694",
+    "70073736",
+    "70073738",
+    "70073743",
+    "70073698",
+    "70073699",
+    "70073700",
+    "70073701",
+    "70073702"
+   ]
+  },
+  {
+   "date": "2019-03-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:120454166:por",
+     "title": "Decreto-Lei n.º 32/2019",
+     "published": "2019-03-04",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2019-120454166"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 3.º-B",
+    "Adita Artigo 5.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "70073692",
+    "70073693",
+    "120609153",
+    "120609154",
+    "120609131",
+    "120609139",
+    "120609155",
+    "120609156",
+    "120609147",
+    "120609157",
+    "120609158",
+    "120609150",
+    "120609159",
+    "120609152"
+   ]
+  }
+ ],
+ "fragments": {
+  "70073692": {
+   "fragment_id": "70095706",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 33/98\n\nde 18 de Julho\n\nConselhos municipais de segurança\n\nA Assembleia da República decreta, nos termos dos artigos 161.º, alínea c), e 166.º, n.º 3, e do artigo 112.º, n.º 5, da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "70073693": {
+   "fragment_id": "70095707",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação dos conselhos municipais de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação dos conselhos municipais de segurança\n\nSão criados, pela presente lei, os conselhos municipais de segurança."
+  },
+  "70073694": {
+   "fragment_id": "70095708",
+   "type": 11,
+   "heading": "Artigo 2.º — Funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Funções\n\nCada conselho municipal de segurança, adiante designado por conselho, é uma entidade de âmbito municipal com funções de natureza consultiva, de articulação, informação e cooperação, cujos objectivos, composição e funcionamento são regulados pela presente lei."
+  },
+  "70073695": {
+   "fragment_id": "70095709",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nConstituem objectivos dos conselhos:\n\na) Contribuir para o aprofundamento do conhecimento da situação de segurança na área do município, através da consulta entre todas as entidades que o constituem;\n\nb) Formular propostas de solução para os problemas de marginalidade e segurança dos cidadãos no respectivo município e participar em acções de prevenção;\n\nc) Promover a discussão sobre medidas de combate à criminalidade e à exclusão social do município;\n\nd) Aprovar pareceres e solicitações a remeter a todas as entidades que julgue oportunos e directamente relacionados com as questões de segurança e inserção social."
+  },
+  "70073696": {
+   "fragment_id": "70095710",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - Para a prossecução dos objectivos previstos no artigo 3.º, compete aos conselhos dar parecer sobre:\n\na) A evolução dos níveis de criminalidade na área do município;\n\nb) O dispositivo legal de segurança e a capacidade operacional das forças de segurança no município;\n\nc) Os índices de segurança e o ordenamento social no âmbito do município;\n\nd) Os resultados da actividade municipal de protecção civil e de combate aos incêndios;\n\ne) As condições materiais e os meios humanos empregues nas actividades sociais de apoio aos tempos livres, particularmente dos jovens em idade escolar;\n\nf) A situação sócio-económica municipal;\n\ng) O acompanhamento e apoio das acções dirigidas, em particular, à prevenção da toxicodependência e à análise da incidência social do tráfico de droga;\n\nh) O levantamento das situações sociais que, pela sua particular vulnerabilidade, se revelem de maior potencialidade criminógena e mais carecidas de apoio à inserção.\n\n2 - Os pareceres referidos no número anterior têm a periodicidade que for definida em regulamento de cada conselho, a aprovar nos termos do artigo 6.º\n\n3 - Os pareceres referidos no n.º 1 são apreciados pela assembleia municipal e pela câmara municipal, com conhecimento das autoridades de segurança com competência no território do município."
+  },
+  "70073697": {
+   "fragment_id": "70095711",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição\n\n1 - Integram cada conselho:\n\na) O presidente da câmara municipal;\n\nb) O vereador do pelouro, quando este não seja assegurado pelo próprio presidente da câmara;\n\nc) O presidente da assembleia municipal;\n\nd) Os presidentes das juntas de freguesia, em número a fixar pela assembleia municipal;\n\ne) Um representante do Ministério Público da comarca;\n\nf) Os comandantes das forças de segurança presentes no território do município, bem como dos serviços de protecção civil e dos bombeiros;\n\ng) Um representante do Projecto VIDA;\n\nh) Os responsáveis na área do município pelos organismos de assistência social, em número a definir no regulamento de cada conselho;\n\ni) Os responsáveis das associações económicas, patronais e sindicais, em número a definir no regulamento de cada conselho;\n\nj) Um conjunto de cidadãos de reconhecida idoneidade, designados pela assembleia municipal, em número a definir no regulamento de cada conselho, no máximo de 20.\n\n2 - O conselho é presidido pelo presidente da câmara municipal."
+  },
+  "70073698": {
+   "fragment_id": "70095712",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamento\n\n1 - A assembleia municipal elabora e aprova o regulamento provisório, que envia a título consultivo ao conselho.\n\n2 - O conselho, na sua primeira reunião, analisa o regulamento e emite parecer, a enviar à assembleia municipal.\n\n3 - Na sua primeira reunião, após a recepção do parecer, a assembleia municipal discute e aprova o regulamento definitivo."
+  },
+  "70073699": {
+   "fragment_id": "70095713",
+   "type": 11,
+   "heading": "Artigo 7.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reuniões\n\nO conselho reúne ordinariamente uma vez por trimestre, mediante convocação do presidente da câmara municipal."
+  },
+  "70073700": {
+   "fragment_id": "70095714",
+   "type": 11,
+   "heading": "Artigo 8.º — Instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instalação\n\n1 - Compete ao presidente da câmara municipal assegurar a instalação do conselho.\n\n2 - Compete à câmara municipal dar o apoio logístico necessário ao funcionamento do conselho."
+  },
+  "70073701": {
+   "fragment_id": "70095715",
+   "type": 11,
+   "heading": "Artigo 9.º — Posse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Posse\n\nOs membros de cada conselho tomam posse perante a assembleia municipal."
+  },
+  "70073736": {
+   "fragment_id": "70095709",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": "2015-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+   ],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nConstituem objectivos dos conselhos:\n\na) Contribuir para o aprofundamento do conhecimento da situação de segurança na área do município, através da consulta entre todas as entidades que o constituem;\n\nb) Formular propostas de solução para os problemas de marginalidade e segurança dos cidadãos no respectivo município e participar em acções de prevenção;\n\nc) Promover a discussão sobre medidas de combate à criminalidade e à exclusão social do município;\n\nd) Aprovar pareceres e solicitações a remeter a todas as entidades que julgue oportunos e directamente relacionados com as questões de segurança e inserção social.\n\ne) Proceder à avaliação dos dados relativos ao crime de violência doméstica e, tendo em conta os diversos instrumentos nacionais para o seu combate, nomeadamente os Planos Nacionais de Prevenção e Combate à Violência Doméstica e de Género - 2014-2017, apresentar propostas de ações que contribuam para a prevenção e diminuição deste crime;\n\nf) Avaliar os números da sinistralidade rodoviária e, tendo em conta a estratégia nacional de segurança rodoviária, formular propostas para a realização de ações que possam contribuir para a redução dos números de acidentes rodoviários no município.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+  },
+  "70073738": {
+   "fragment_id": "70095710",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": "2015-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+   ],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - Para a prossecução dos objectivos previstos no artigo 3.º, compete aos conselhos dar parecer sobre:\n\na) A evolução dos níveis de criminalidade na área do município;\n\nb) O dispositivo legal de segurança e a capacidade operacional das forças de segurança no município;\n\nc) Os índices de segurança e o ordenamento social no âmbito do município;\n\nd) Os resultados da actividade municipal de protecção civil e de combate aos incêndios;\n\ne) As condições materiais e os meios humanos empregues nas actividades sociais de apoio aos tempos livres, particularmente dos jovens em idade escolar;\n\nf) A situação sócio-económica municipal;\n\ng) O acompanhamento e apoio das acções dirigidas, em particular, à prevenção da toxicodependência e à análise da incidência social do tráfico de droga;\n\nh) O levantamento das situações sociais que, pela sua particular vulnerabilidade, se revelem de maior potencialidade criminógena e mais carecidas de apoio à inserção.\n\ni) Os dados relativos a violência doméstica;\n\nj) Os resultados da sinistralidade rodoviária municipal;\n\nk) As propostas de Plano Municipal de Segurança Rodoviária.\n\n2 - Os pareceres referidos no número anterior têm a periodicidade que for definida em regulamento de cada conselho, a aprovar nos termos do artigo 6.º\n\n3 - Os pareceres referidos no n.º 1 são apreciados pela assembleia municipal e pela câmara municipal, com conhecimento das autoridades de segurança com competência no território do município.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+  },
+  "70073743": {
+   "fragment_id": "70095711",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": "2015-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+   ],
+   "markdown": "###### Artigo 5.º — Composição\n\n1 - Integram cada conselho:\n\na) O presidente da câmara municipal;\n\nb) O vereador do pelouro, quando este não seja assegurado pelo próprio presidente da câmara;\n\nc) O presidente da assembleia municipal;\n\nd) Os presidentes das juntas de freguesia, em número a fixar pela assembleia municipal;\n\ne) Um representante do Ministério Público da comarca;\n\nf) Os comandantes das forças de segurança presentes no território do município, bem como dos serviços de protecção civil e dos bombeiros;\n\ng) Um representante do Projecto VIDA;\n\nh) Os responsáveis na área do município pelos organismos de assistência social, em número a definir no regulamento de cada conselho;\n\ni) Os responsáveis das associações económicas, patronais e sindicais, em número a definir no regulamento de cada conselho;\n\nj) Um conjunto de cidadãos de reconhecida idoneidade, designados pela assembleia municipal, em número a definir no regulamento de cada conselho, no máximo de 20.\n\nk) Entidades e organizações que intervenham no âmbito da violência doméstica;\n\nl) Os responsáveis, da área do município, por organizações no âmbito da segurança rodoviária.\n\n2 - O conselho é presidido pelo presidente da câmara municipal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+  },
+  "70073702": {
+   "fragment_id": "70095716",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 4 de Junho de 1998.\n\nO Presidente da Assembleia da República, em exercício, Manuel Alegre de Melo Duarte.\n\nPromulgada em 6 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 9 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "120609153": {
+   "fragment_id": "70095708",
+   "type": 11,
+   "heading": "Artigo 2.º — Funções",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 2.º — Funções\n\nO conselho municipal de segurança, adiante designado por conselho, é uma entidade de âmbito municipal com funções de natureza consultiva, de articulação, coordenação, informação e cooperação, cujos objetivos, composição e funcionamento são regulados pela presente lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+  },
+  "120609154": {
+   "fragment_id": "70095709",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+   ],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nConstituem objetivos do conselho:\n\na) Contribuir para o aprofundamento do conhecimento da situação de segurança na área do município, através da consulta entre todas as entidades que o constituem;\n\nb) Formular propostas de solução para os problemas de marginalidade e segurança dos cidadãos no respectivo município e participar em acções de prevenção;\n\nc) Promover a discussão sobre medidas de combate à criminalidade e à exclusão social do município;\n\nd) Aprovar pareceres e solicitações a remeter a todas as entidades que julgue oportunos e directamente relacionados com as questões de segurança e inserção social.\n\ne) Proceder à avaliação dos dados relativos ao crime de violência doméstica, tendo em conta os diversos instrumentos nacionais para o seu combate, designadamente os Planos Nacionais de Prevenção e Combate à Violência Doméstica e de Género, e apresentar propostas de ações que contribuam para a prevenção e diminuição deste crime;\n\nf) Avaliar os números da sinistralidade rodoviária e, tendo em conta a estratégia nacional de segurança rodoviária, formular propostas para a realização de ações que possam contribuir para a redução dos números de acidentes rodoviários no município.\n\ng) Promover a participação ativa dos cidadãos e das instituições locais na resolução dos problemas de segurança pública.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+  },
+  "120609131": {
+   "fragment_id": "120610496",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Modalidades de funcionamento do conselho municipal de segurança",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 3.º-A — Modalidades de funcionamento do conselho municipal de segurança\n\nO conselho municipal de segurança funciona em modalidade alargada e restrita, doravante designadas, respetivamente, de conselho e de conselho restrito.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+  },
+  "120609139": {
+   "fragment_id": "120610497",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Composição do conselho",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 3.º-B — Composição do conselho\n\n1 - Integram o conselho:\n\na) O presidente da câmara municipal ou o vereador com competência delegada;\n\nb) O vereador responsável pelo acompanhamento das questões de segurança, ou outro vereador indicado pelo presidente da câmara, caso seja este o responsável por esta área;\n\nc) O presidente da assembleia municipal;\n\nd) Os presidentes das juntas de freguesia;\n\ne) Um representante do Ministério Público da comarca;\n\nf) Os comandantes das forças de segurança com competência na área territorial do município;\n\ng) O comandante da polícia municipal, quando este serviço de polícia exista;\n\nh) Os responsáveis pelos serviços municipais de proteção civil e pelas corporações de bombeiros;\n\ni) Representantes das entidades com atividade no setor de apoio social, cultural e desportivo, em número a definir no regulamento de cada conselho;\n\nj) Um representante dos estabelecimentos de ensino público e um representante dos estabelecimentos de ensino particular e cooperativo que operem no território do município, a designar nos termos do regulamento do conselho;\n\nk) Um representante dos setores económicos com maior representatividade, a designar nos termos do regulamento do conselho;\n\nl) Um representante das estruturas integrantes da rede nacional de apoio às vítimas de violência doméstica situadas no território do município;\n\nm) Um representante, da área do município, das organizações no âmbito da segurança rodoviária.\n\n2 - O conselho pode ainda convidar a participar nas suas reuniões entidades e personalidades cuja intervenção considere relevante em função de alguma matéria específica e cuja representatividade não esteja assegurada nos termos do número anterior.\n\n3 - O conselho é presidido pelo presidente da câmara municipal, ou pelo vereador com competência delegada.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+  },
+  "120609155": {
+   "fragment_id": "70095710",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências do conselho",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+   ],
+   "markdown": "###### Artigo 4.º — Competências do conselho\n\n1 - Para a prossecução dos objetivos previstos no artigo 3.º, compete ao conselho emitir parecer sobre:\n\na) A evolução dos níveis de criminalidade na área do município;\n\nb) O dispositivo legal de segurança e a capacidade operacional das forças de segurança no município;\n\nc) Os índices de segurança e o ordenamento social no âmbito do município;\n\nd) Os resultados da actividade municipal de protecção civil e de combate aos incêndios;\n\ne) As condições materiais e os meios humanos empregados nas atividades sociais de apoio aos tempos livres, particularmente dos jovens em idade escolar;\n\nf) A situação sócio-económica municipal;\n\ng) O acompanhamento e apoio das ações dirigidas, em particular, à prevenção e controlo da delinquência juvenil, à prevenção da toxicodependência e à análise da incidência social do tráfico de droga;\n\nh) O levantamento das situações sociais que, pela sua particular vulnerabilidade, se revelem de maior potencialidade criminógena e mais carecidas de apoio à inserção.\n\ni) Os dados relativos a violência doméstica;\n\nj) Os resultados da sinistralidade rodoviária municipal;\n\nk) As propostas de Plano Municipal de Segurança Rodoviária.\n\nl) Os Programas de Policiamento de Proximidade;\n\nm) Os Contratos Locais de Segurança.\n\n2 - Os pareceres referidos no número anterior têm a periodicidade que for definida em regulamento de cada conselho, a aprovar nos termos do artigo 6.º\n\n3 - Os pareceres referidos no n.º 1 são apreciados pela assembleia municipal, sob proposta da câmara municipal, com conhecimento das forças de segurança com competência no município.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+  },
+  "120609156": {
+   "fragment_id": "70095711",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição do conselho restrito",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+   ],
+   "markdown": "###### Artigo 5.º — Composição do conselho restrito\n\n1 - Integram o conselho restrito:\n\na) O presidente da câmara municipal;\n\nb) O vereador responsável pelo acompanhamento das questões de segurança, ou outro vereador indicado pelo presidente da câmara, caso seja este o responsável por esta área;\n\nc) Os comandantes das forças de segurança com competência na área territorial do município;\n\nd) O comandante da polícia municipal, quando este serviço de polícia exista;\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) (Revogada.)\n\nk) (Revogada.)\n\nl) (Revogado.)\n\n2 - O conselho restrito pode convidar a participar nas suas reuniões entidades e personalidades cuja intervenção considere relevante em função da matéria.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/106-2015-70095692), em vigor a partir de 2015-08-26"
+  },
+  "120609147": {
+   "fragment_id": "120610498",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Competências do conselho restrito",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 5.º-A — Competências do conselho restrito\n\n1 - É da competência do conselho restrito analisar e avaliar as situações de potencial impacto na segurança ou no sentimento de segurança das populações, nomeadamente as suscitadas no âmbito do conselho.\n\n2 - Compete ao conselho restrito participar na definição, a nível estratégico, do modelo de policiamento de proximidade a implementar no município.\n\n3 - Compete ainda ao conselho restrito pronunciar-se sobre:\n\na) A rede de esquadras e postos territoriais das forças de segurança;\n\nb) A criação de programas específicos relacionados com a segurança de pessoas e bens, designadamente na área da prevenção da delinquência juvenil;\n\nc) Outras estratégias para a eliminação de fatores criminógenos.\n\n4 - O conselho restrito reúne sempre que convocado pelo presidente, e, no mínimo, com uma periodicidade bimestral.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+  },
+  "120609157": {
+   "fragment_id": "70095712",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamento",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 6.º — Regulamento\n\n1 - O conselho, na sua primeira reunião, elabora uma proposta de regulamento a submeter à apreciação da assembleia municipal, sob proposta da câmara municipal.\n\n2 - Caso a assembleia municipal introduza alterações à proposta de regulamento, elabora nova proposta que remete ao conselho, para emissão de parecer no prazo de 30 dias.\n\n3 - Na primeira sessão, após a receção do parecer do conselho, a assembleia municipal aprova o regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+  },
+  "120609158": {
+   "fragment_id": "70095713",
+   "type": 11,
+   "heading": "Artigo 7.º — Reuniões",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 7.º — Reuniões\n\n1 - O conselho reúne sempre que convocado pelo presidente e, no mínimo, com periodicidade trimestral.\n\n2 - Em todas as reuniões do conselho há um período aberto ao público para exposição, pelos munícipes, de questões relacionadas com as matérias de segurança no município.\n\n3 - Da reunião do conselho é elaborada ata, a qual é transmitida por via eletrónica aos membros do governo responsáveis pelas áreas da administração interna e da justiça.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+  },
+  "120609150": {
+   "fragment_id": "70095714",
+   "type": 11,
+   "heading": "Artigo 8.º — Instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instalação\n\n1 - Compete ao presidente da câmara municipal assegurar a instalação do conselho.\n\n2 - Compete à câmara municipal dar o apoio logístico necessário ao funcionamento do conselho."
+  },
+  "120609159": {
+   "fragment_id": "70095715",
+   "type": 11,
+   "heading": "Artigo 9.º — Posse",
+   "in_force_from": "2019-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 9.º — Posse\n\nOs membros de cada conselho tomam posse perante a câmara municipal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2019-120454166), em vigor a partir de 2019-03-05"
+  },
+  "120609152": {
+   "fragment_id": "70095716",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 4 de Junho de 1998.\n\nO Presidente da Assembleia da República, em exercício, Manuel Alegre de Melo Duarte.\n\nPromulgada em 6 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 9 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

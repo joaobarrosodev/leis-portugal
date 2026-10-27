@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:612414:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-877086584",
+ "dre_path": "/dr/detalhe/decreto-lei/48-1989-612414",
+ "source_lastmod": "2024-08-13",
+ "versions": [
+  {
+   "date": "1989-02-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "876632446",
+    "876632447",
+    "876632448",
+    "876632449",
+    "876632450",
+    "876632451",
+    "876632452"
+   ]
+  },
+  {
+   "date": "1992-10-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220730:por",
+     "title": "Decreto-Lei n.º 223/92",
+     "published": "1992-10-20",
+     "dre_path": "/dr/detalhe/decreto-lei/223-1992-220730"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "876632446",
+    "876632447",
+    "876632448",
+    "876632449",
+    "876632450",
+    "876632463",
+    "876632464",
+    "876632465",
+    "876632466"
+   ]
+  }
+ ],
+ "fragments": {
+  "876632446": {
+   "fragment_id": "877086585",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 48/89\n\nde 22 de Fevereiro\n\nA legislação aplicável à alienação do material de guerra e demais equipamentos militares desnecessários às Forças Armadas e, em especial, as normas dos Decretos-Leis n.os 38962, de 24 de Outubro de 1952, e 271/76, de 12 de Abril, carecem de revisão, atendendo quer à sua desactualização quer à publicação da Lei n.º 29/82, de 11 de Dezembro - Lei de Defesa Nacional e das Forças Armadas.\n\nPor forma a obter uma exploração mais económica e consentânea com as necessidades actuais, torna-se premente proceder à alienação de certo material, à renovação de outro e, ainda, à melhoria de determinadas infra-estruturas.\n\nTais alienações, constituindo actos de gestão, têm como objectivo recuperar para os cofres do Estado receita passível de aplicação na substituição do material alienado por outro tecnicamente mais actualizado e operacionalmente necessário, tendo em vista interesses de natureza estratégica, e visam libertar as Forças Armadas de encargos de armazenagem e manutenção de artigos obsoletos e inúteis.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "876632447": {
+   "fragment_id": "877086586",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nFica o Ministro da Defesa Nacional autorizado a proceder à alienação de todo o material de guerra, naval, terrestre ou aéreo, não necessário à mobilização das Forças Armadas nem cativo a obrigações internacionais assumidas pelo Estado e que seja considerado disponível."
+  },
+  "876632448": {
+   "fragment_id": "877086587",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCompete aos Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea determinar a disponibilidade do material de guerra a alienar, após parecer do Conselho de Chefes de Estado-Maior sobre a proposta do Chefe do Estado-Maior do ramo das Forças Armadas a que aquele esteja afecto."
+  },
+  "876632449": {
+   "fragment_id": "877086588",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA alienação referida no artigo 1.º processa-se por intermédio da Direcção-Geral de Armamento e deverá acautelar interesses de natureza estratégica ou outros que importe salvaguardar, designadamente:\n\na) O interesse que o material possa ter para os outros ramos das Forças Armadas, incluindo os estabelecimentos fabris deles dependentes, e para as forças de segurança;\n\nb) O interesse que o material possa ter para a INDEP - Indústrias Nacionais de Defesa, E. P., e para as restantes empresas do mesmo sector;\n\nc) Os interesses e o bom nome da indústria nacional de defesa quando se pretenda alienar armas e munições de fabrico nacional cujos modelos ainda sejam comercializáveis pelos respectivos produtores."
+  },
+  "876632450": {
+   "fragment_id": "877086589",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSem prejuízo do disposto na alínea a) do artigo anterior, o material de guerra do tipo armamento, munições e substâncias explosivas só pode ser alienado, para utilização em território nacional, nos seguintes casos:\n\na) Armamento de qualquer tipo - quando desmantelado e inutilizado para sucata, salvo se, nos termos da legislação aplicável, for destinado a museus ou à integração em colecções;\n\nb) Munições e explosivos - quando destinados a serviços ou entidades credenciados pelo Ministério da Defesa Nacional."
+  },
+  "876632451": {
+   "fragment_id": "877086590",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO produto da venda do material de guerra alienado pelos ramos das Forças Armadas dará entrada nos cofres do Estado e será consignado à inscrição ou reforço das verbas afectas aos ramos para aquisição de novos materiais mais adequados às necessidades ou beneficiações das infra-estruturas."
+  },
+  "876632452": {
+   "fragment_id": "877086591",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSão revogados os Decretos-Leis n.os 38962, de 24 de Outubro de 1952, e 271/76, de 12 de Abril."
+  },
+  "876632463": {
+   "fragment_id": "877086603",
+   "type": 11,
+   "heading": "Artigo 4.º-A",
+   "in_force_from": "1992-10-25",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 223/92 - Diário da República n.º 242/1992, Série I-A de 1992-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1992-220730), em vigor a partir de 1992-10-25"
+   ],
+   "markdown": "###### Artigo 4.º-A\n\n1 - Ficam os chefes dos estados-maiores dos ramos das Forças Armadas autorizados a proceder à alienação dos equipamentos militares desnecessários às Forças Armadas, de natureza diferente do material abrangido pelo artigo 1.º, ainda que sob a forma de sucata ou de outros produtos do aniquilamento de materiais julgados incapazes.\n\n2 - Compete aos chefes dos estados-maiores dos ramos das Forças Armadas determinar a disponibilidade para alienação dos equipamentos referidos no número anterior, sob proposta dos serviços competentes do ramo das Forças Armadas a que eles estejam afectos, processando-se a respectiva alienação por seu intermédio.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 223/92 - Diário da República n.º 242/1992, Série I-A de 1992-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1992-220730), em vigor a partir de 1992-10-25"
+  },
+  "876632464": {
+   "fragment_id": "877086590",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1992-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 223/92 - Diário da República n.º 242/1992, Série I-A de 1992-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1992-220730), em vigor a partir de 1992-10-25"
+   ],
+   "markdown": "###### Artigo 5.º\n\nO produto da venda do material de guerra e demais equipamentos militares alienados pelos ramos das Forças Armadas dará entrada nos cofres do Estado e será consignado à inscrição ou reforço das verbas afectas aos ramos para aquisição de materiais mais adequados às necessidades ou para beneficiação de infra-estruturas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 223/92 - Diário da República n.º 242/1992, Série I-A de 1992-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1992-220730), em vigor a partir de 1992-10-25"
+  },
+  "876632465": {
+   "fragment_id": "877086591",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSão revogados os Decretos-Leis n.os 38962, de 24 de Outubro de 1952, e 271/76, de 12 de Abril."
+  },
+  "876632466": {
+   "fragment_id": "877086592",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Janeiro de 1989. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 9 de Fevereiro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 9 de Fevereiro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

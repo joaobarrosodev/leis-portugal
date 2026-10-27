@@ -1,0 +1,2079 @@
+---
+schema_version: '1.0'
+id: pt:dre:247713:por
+title: Decreto Legislativo Regional n.º 6/2008/M
+short_title: null
+summary: Aprova o Estatuto da Carreira Docente da Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 6/2008/M
+official_date: null
+publication_date: '2008-02-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 39/2008, Série I de 2008-02-25
+  number: '39'
+  series: I
+  supplement: null
+  pages: 1226 - 1252
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/02/03900/0122601252.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-07-27'
+version_history:
+  file: decreto-legislativo-regional-6-2008-m.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2008-02-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-19'
+    amending: pt:dre:343611:por
+    amending_title: Decreto Legislativo Regional n.º 17/2010/M
+    changes:
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 51.º
+    - Altera Anexo I
+  - date: '2012-08-29'
+    amending: pt:dre:174791:por
+    amending_title: Decreto Legislativo Regional n.º 20/2012/M
+    changes:
+    - Altera Subcapítulo II
+  - date: '2018-04-18'
+    amending: pt:dre:115124397:por
+    amending_title: Decreto Legislativo Regional n.º 7/2018/M
+    changes:
+    - Altera Artigo 40.º
+  - date: '2023-07-27'
+    amending: pt:dre:216188327:por
+    amending_title: Decreto Legislativo Regional n.º 30/2023/M
+    changes:
+    - Altera Artigo 75.º
+    - Altera Artigo 88.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/6/2008/m/cons/20230726/pt/html
+  oj: null
+  dre: '247713'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/6-2008-247713
+  internal: pt:dre:247713:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2008-247713
+  metadata_url: https://data.dre.pt/eli/declegreg/6/2008/m/cons/20230726/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-115116626
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-115116626
+  retrieved_at: '2026-10-22T12:18:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a116fa89fa186ae1db893acf10030686581db26dd9eca2231fe7aa8e83622c8a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:18:27Z'
+  notes: 5 versão(ões); histórico completo em decreto-legislativo-regional-6-2008-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Tempo de Serviço
+- Estatuto da Carreira Docente
+- Sistema Retributivo
+- Carreira Profissional
+- Integração de Trabalhadores
+- Pessoal Docente
+- Qualificação Profissional
+- Madeira.região Autónoma
+- Horário de Trabalho
+relationships:
+- type: amended_by
+  target: pt:dre:249550:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2008-249550
+  date: '2008-04-24'
+- type: amended_by
+  target: pt:dre:343611:por
+  label: Altera Artigo 40.º; Altera Artigo 41.º; Altera Artigo 51.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2010-343611
+  date: '2010-08-18'
+- type: amended_by
+  target: pt:dre:174791:por
+  label: Altera Subcapítulo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791
+  date: '2012-08-29'
+- type: amended_by
+  target: pt:dre:115124397:por
+  label: Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2018-115124397
+  date: '2018-04-17'
+- type: amended_by
+  target: pt:dre:216188327:por
+  label: Altera Artigo 75.º; Altera Artigo 88.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2023-216188327
+  date: '2023-07-26'
+- type: cites
+  target: pt:dre:245336:por
+  label: null
+  source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: pt:dre:426691:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/312/1999/08/10/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:468639:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/15-a/2006/04/24/m/dre
+- type: cites
+  target: pt:dre:522378:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/11/1998/05/
+- type: cites
+  target: pt:dre:522638:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/2007/01/19/p/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: pt:dre:641102:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/21/2007/08/30/a/dre
+- type: cites
+  target: pt:dre:653145:por
+  label: null
+  source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+article_structure:
+  article_count: 123
+  section_count: 36
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:18:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 6/2008/M
+
+Decreto Legislativo Regional n.º 6/2008/M
+
+Estatuto da Carreira Docente da Região Autónoma da Madeira
+
+O Decreto-Lei n.º 15/2007, de 19 de Janeiro, veio alterar o Estatuto da Carreira Docente dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário e assume como âmbito de aplicação os docentes dos estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário na dependência do Governo da República. Por força deste âmbito, pelo Decreto Legislativo Regional n.º 21/2007/A, de 30 de Agosto, a Região Autónoma dos Açores aprovou o Estatuto do Pessoal Docente da Educação Pré-Escolar e dos Ensinos Básico e Secundário aplicável aos docentes que prestam serviço em estabelecimentos de educação ou ensino directamente dependentes da administração regional autónoma.
+
+Neste propósito, importa enquadrar a profissão docente na Região Autónoma da Madeira.
+
+No quadro das competências decorrentes do Estatuto Político-Admi-nistrativo, no da revisão da Constituição da República Portuguesa de 2004 e no desenvolvimento da lei de Bases do Sistema Educativo, o Estatuto da Carreira Docente da Região Autónoma da Madeira surge como um marco importante e uma questão central, por um lado, do desenvolvimento e aprofundamento da autonomia e, por outro, da valorização da função de professor.
+
+Este Estatuto é aplicado não só às escolas da rede pública dependentes da Secretaria Regional de Educação e Cultura, mas também às escolas privadas em tudo o que não colida com a legislação especial reguladora destas instituições e do seu corpo docente.
+
+Em sede de direitos e deveres, são garantidos os estabelecidos para os funcionários e agentes do Estado e ainda os específicos decorrentes da função docente, numa perspectiva de valorização da carreira e numa relação cada vez mais próxima com os alunos, as suas famílias e os demais membros da comunidade educativa.
+
+No âmbito da formação, contempla-se a formação inicial, contínua e especializada, enquadrando-se ainda a formação pedagógica dos licenciados dos ensinos básico e secundário bem como dos titulares de licenciaturas adequadas à docência de disciplinas de natureza profissional ou artística dos ensinos básico e secundário e os cursos de formação especializada para o exercício de outras funções educativas. No plano da formação contínua, privilegia-se a formação em contexto escolar, nas interrupções da actividade lectiva.
+
+Na prossecução da estabilidade profissional do pessoal docente aposta-se, num primeiro momento, nos quadros de escola e de instituição de educação especial e, num segundo momento, nos quadros de zona pedagógica. Para o exercício transitório de funções mantém-se o contrato administrativo de provimento.
+
+O pessoal docente corporiza uma carreira única a que correspondem funções diferenciadas pela sua natureza, âmbito, grau e responsabilidade, de acordo com o perfil do docente para a função, no quadro do projecto educativo de escola, tendo-se contemplado, em matéria de conteúdo funcional, as funções do docente de educação especial.
+
+Continua a prever-se um sistema aberto que permita a comunicabilidade dos docentes do restante espaço nacional.
+
+Na contagem de tempo de serviço, compete ao Secretário Regional de Educação e Cultura fixar as funções ou cargos que, na Região, revestem natureza técnico-pedagógica.
+
+A avaliação do desempenho enquadra-se numa perspectiva de rigor e de melhoria das práticas do docente no contexto escolar, contemplando-se os intervenientes no processo, os procedimentos da avaliação, incluindo a reclamação e o recurso, com vista à valorização do serviço público de educação.
+
+Contempla-se ainda o regime de mobilidade adequado às necessidades da Região.
+
+No âmbito das férias, faltas e licenças, realce para as juntas médicas por solicitação da Secretaria Regional de Educação e Cultura.
+
+Privilegiam-se matérias de interesse específico e áreas prioritárias na Região, na licença sabática e na equiparação a bolseiro.
+
+Em matéria de regime disciplinar, enquadram-se os procedimentos e as entidades de acordo com a realidade da Região.
+
+Pode dizer-se, em conclusão, que o Estatuto da Carreira Docente da Região Autónoma da Madeira se assume como um documento valorizador da diferenciação em função de uma responsabilização da função docente e sem descurar o contexto sócio-educativo em que as escolas se inserem, com vista a proporcionar uma melhoria do serviço público de educação e do processo ensino-aprendizagem nesta Região Autónoma, no pressuposto de que educar não é apenas escolarizar e certificar.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea c) do n.º 1 e do n.º 4 do artigo 227.º da Constituição da República Portuguesa, conjugados com o artigo 81.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, na redacção dada pela Lei n.º 130/99, de 21 de Agosto, e no desenvolvimento da Lei n.º 46/86, de 14 de Outubro - Lei de Bases do Sistema Educativo, alterada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+É aprovado o Estatuto da Carreira Docente da Região Autónoma da Madeira, constante do anexo i ao presente diploma, do qual faz parte integrante.
+
+### Capítulo II — Disposições transitórias
+
+###### Artigo 2.º — Profissionalização em serviço
+
+1 - A profissionalização em serviço dos docentes abrangidos pelo artigo 51.º do Decreto Legislativo Regional n.º 15-A/2006/M, de 24 de Abril, e dos que se encontrem a realizar a profissionalização à data da entrada em vigor deste diploma, decorre nos termos previstos no Decreto-Lei n.º 287/88, de 19 de Agosto.
+
+2 - A profissionalização em serviço prevista no número anterior deve estar concluída no prazo máximo de três anos escolares a contar do ano 2007-2008, inclusive.
+
+3 - A nomeação provisória dos docentes em situação de pré-carreira, nos termos do artigo 6.º do Decreto-Lei n.º 312/99, de 10 de Agosto, converte-se em nomeação definitiva no início do ano escolar subsequente à conclusão da profissionalização.
+
+4 - Os docentes que se encontrem em situação de suspensão prevista no artigo 15.º do Decreto-Lei n.º 287/88, de 19 de Agosto, ou os que não a puderem iniciar ou realizar nos termos do n.º 2 do artigo 51.º do Decreto Legislativo Regional n.º 15-A/2006/M, de 24 de Abril, são integrados no novo modelo de qualificação pedagógica nos termos e condições a prever em decreto regulamentar regional.
+
+###### Artigo 3.º — Transição da carreira docente
+
+1 - Os docentes que à data da entrada em vigor do Estatuto da Carreira Docente da Região Autónoma da Madeira se encontram posicionados nos 1.º e 2.º escalões mantêm-se na estrutura e escala indiciária aprovada pelo Decreto-Lei n.º 312/99, de 10 de Agosto, aplicando-se as regras de progressão previstas no mesmo diploma, até perfazerem, no seu cômputo global, oito anos de tempo de serviço docente, para efeitos de progressão na carreira, com avaliação do desempenho mínima de Bom, após o que transitam para o escalão 1 da nova carreira.
+
+2 - Os docentes que à data da entrada em vigor do Estatuto da Carreira Docente da Região Autónoma da Madeira se encontram posicionados no 3.º escalão mantêm-se na estrutura e escala indiciária aprovada pelo Decreto-Lei n.º 312/99, de 10 de Agosto, até perfazerem três anos de permanência no escalão, para efeitos de progressão, com avaliação do desempenho mínima de Bom, após o que transitam para o escalão 1 da nova carreira.
+
+3 - Os docentes que à data da entrada em vigor do Estatuto da Carreira Docente da Região Autónoma da Madeira se encontram posicionados nos 4.º, 5.º e 6.º escalões transitam para a nova estrutura da carreira e para escalão a que corresponda índice remuneratório igual ou imediatamente superior àquele em que se encontrem posicionados.
+
+4 - Os docentes bacharéis que ingressaram na carreira docente no 1.º escalão e os docentes licenciados que à data da entrada em vigor do Estatuto da Carreira Docente da Região Autónoma da Madeira se encontram posicionados no 7.º escalão transitam para a nova estrutura da carreira e para escalão a que corresponda índice remuneratório igual àquele em que se encontrem posicionados.
+
+5 - Aos docentes bacharéis que ingressaram na carreira docente no 3.º escalão e que à data da entrada em vigor do Estatuto da Carreira Docente da Região Autónoma da Madeira se encontram posicionados no 1.º nível remuneratório do 7.º escalão aplicam-se as seguintes regras de transição:
+
+a) Mantêm-se na estrutura e escala indiciária aprovada pelo Decreto-Lei n.º 312/99, de 10 de Agosto, transitando ao 2.º nível remuneratório do 7.º escalão após perfazerem quatro anos de permanência no 1.º nível, para efeitos de progressão na carreira, com avaliação do desempenho mínima de Bom;
+
+b) São integrados na nova estrutura de carreira no 5.º escalão após perfazerem dois anos de permanência no 2.º nível remuneratório do 7.º escalão, para efeitos de progressão na carreira, com avaliação do desempenho mínima de Bom.
+
+6 - Os docentes bacharéis que ingressaram na carreira docente no 3.º escalão e que à data da entrada em vigor do Estatuto da Carreira Docente da Região Autónoma da Madeira se encontram posicionados no 2.º nível remuneratório do 7.º escalão mantêm-se na estrutura e escala indiciária aprovada pelo Decreto-Lei n.º 312/99, de 10 de Agosto, aplicando-se-lhes as regras previstas na alínea b) do n.º 1 do artigo 15.º, com avaliação do desempenho mínima de Bom, até se integrarem na estrutura da nova carreira no 5.º escalão.
+
+7 - Os docentes bacharéis que ingressaram na carreira docente no 3.º escalão e que à data da entrada em vigor do Estatuto da Carreira Docente da Região Autónoma da Madeira se encontram posicionados no 3.º nível remuneratório do 7.º escalão transitam para a nova estrutura da carreira para escalão a que corresponda índice remuneratório igual àquele em que se encontrem posicionados.
+
+8 - Os docentes que à data da entrada em vigor do Estatuto da Carreira Docente da Região Autónoma da Madeira se encontram posicionados nos 8.º, 9.º e 10.º escalões da carreira docente, previstos no Decreto-Lei n.º 312/99, de 10 de Agosto, transitam para a nova estrutura de carreira para escalão a que corresponda índice remuneratório igual àquele em que se encontrem posicionados.
+
+9 - Os docentes do nível de qualificação 2 a que se refere o artigo 16.º do Decreto-Lei n.º 312/99, de 10 de Agosto, mantêm os índices e a progressão previstos no mesmo diploma.
+
+10 - Os docentes que se encontram a realizar a profissionalização em serviço à data da publicação do Estatuto da Carreira Docente da Região Autónoma da Madeira passam a estar abrangidos pelos índices constantes do anexo ii ao Estatuto da Carreira Docente da Região Autónoma da Madeira.
+
+11 - Os docentes profissionalizados a que se refere o artigo 14.º do Decreto-Lei n.º 312/99, de 10 de Agosto, mantêm os respectivos índices enquanto se mantiverem em situação de provimento provisório, transitando após o seu termo para a estrutura da nova carreira para o índice e escalão das regras de transição constantes do Estatuto da Carreira Docente da Região Autónoma da Madeira.
+
+12 - Da transição a que se referem os números anteriores não pode decorrer, em caso algum, diminuição do valor da remuneração base que o docente auferia à data da entrada em vigor do Estatuto da Carreira Docente da Região Autónoma da Madeira.
+
+13 - A transição para a nova estrutura da carreira e escalão efectua-se sem quaisquer formalidades, para além da elaboração, pelo estabelecimento escolar, de uma lista nominativa de transição a afixar em local apropriado que possibilite a sua consulta pelos interessados.
+
+14 - O tempo de serviço já prestado pelos docentes no escalão e índice da estrutura da carreira definida pelo Decreto-Lei n.º 312/99, de 10 Agosto, à data da transição, é contabilizado, no escalão e índice em que foram integrados nos termos dos números anteriores, para efeitos de progressão e transição para o 6.º escalão na estrutura da carreira definida pelo Estatuto da Carreira Docente da Região Autónoma da Madeira.
+
+###### Artigo 4.º — Regime especial de reposicionamento salarial
+
+Os docentes abrangidos pelo artigo anterior são reposicionados na nova estrutura salarial e no escalão correspondente ao que resultaria da aplicação sucessiva das regras de progressão constantes do Decreto-Lei n.º 312/99, de 10 de Agosto, e do regime de transição previsto no mesmo artigo, desde que preenchidos, cumulativamente, os seguintes requisitos:
+
+a) Apresentem o documento de reflexão crítica a que estavam obrigados nos termos do artigo 7.º do Decreto Regulamentar n.º 11/98, de 15 de Maio, no prazo de 60 dias a contar da data da entrada em vigor do Estatuto da Carreira Docente da Região Autónoma da Madeira;
+
+b) Venham a completar o módulo de tempo de serviço que seria necessário à progressão na estrutura prevista no Decreto-Lei n.º 312/99, de 10 de Agosto, no prazo de 124 dias a contar da data de retoma da contagem de tempo de serviço para aquele efeito, interrompida pelas Leis n.os 43/2005, de 29 de Agosto, e 53-C/2006, de 29 de Dezembro;
+
+c) Obtenham, relativamente ao documento mencionado na alínea a) e antes da data referida na alínea anterior, a menção qualitativa mínima de Satisfaz nos termos do Decreto Regulamentar n.º 11/98, de 15 de Maio.
+
+###### Artigo 5.º — Regime transitório de ingresso na carreira
+
+Durante o período de aplicação do artigo 3.º, os docentes que forem providos na carreira em regime de nomeação provisória ou definitiva são remunerados por índice igual ao dos docentes abrangidos pelo mesmo artigo com igual tempo de serviço docente e qualificação profissional, aplicando-se as regras de reposicionamento salarial aí previstas.
+
+###### Artigo 6.º — Regime transitório de avaliação do desempenho
+
+1 - A primeira progressão na estrutura da carreira fica condicionada à aplicação do novo regime de avaliação do desempenho constante do Estatuto da Carreira Docente da Região Autónoma da Madeira, sem prejuízo de serem consideradas as classificações atribuídas nos anos anteriores, desde que necessárias para completar os módulos de tempo de serviço respectivos.
+
+2 - Na situação em que seja necessário ter em conta a avaliação do desempenho efectuada nos termos do Decreto Regulamentar n.º 11/98, de 15 de Maio, devem ser consideradas as menções qualitativas obtidas nos termos deste diploma de acordo com as seguintes equivalências:
+
+a) À menção de Não satisfaz ou equivalente corresponde a menção qualitativa de Insuficiente;
+
+b) Às menções de Satisfaz e de Bom corresponde a menção qualitativa de Bom.
+
+3 - Para efeitos de transição ao 6.º escalão, o tempo de serviço efectivamente prestado e não avaliado até 31 de Agosto de 2007 considera-se classificado com a menção qualitativa de Bom.
+
+###### Artigo 7.º — Aquisição de graus académicos por docentes profissionalizados
+
+1 - A aquisição por docentes profissionalizados integrados na carreira do grau académico de licenciado, em domínio directamente relacionado com a docência, ou que vise a qualificação para o exercício de outras funções educativas, determina o reposicionamento no escalão correspondente àquele em que teriam sido posicionados caso tivessem sido integrados na nova estrutura de carreira com esse grau de acordo com o disposto nos artigos 55.º e 56.º do Estatuto da Carreira Docente, na redacção dada pelo Decreto-Lei n.º 1/98, de 2 de Janeiro.
+
+2 - O disposto no número anterior é apenas aplicável aos docentes que concluam aquela licenciatura até 31 de Agosto de 2008.
+
+3 - A aquisição, por docentes profissionalizados integrados na carreira, dos graus académicos de mestre ou doutor em domínio directamente relacionado com a área científica que leccionem ou em Ciências da Educação, determina o reposicionamento no escalão correspondente àquele em que teriam sido posicionados caso tivessem sido integrados na nova estrutura de carreira com esse grau de acordo com o disposto no artigo 54.º do Estatuto da Carreira Docente, na redacção dada pelo Decreto-Lei n.º 1/98, de 2 de Janeiro.
+
+4 - O disposto no número anterior é apenas aplicável aos docentes que obtenham o grau até 31 de Agosto de 2008.
+
+###### Artigo 8.º — Salvaguarda de redução da componente lectiva
+
+1 - Aos docentes que a 31 de Agosto de 2007 já beneficiavam da redução da componente lectiva estabelecida no artigo 79.º do Estatuto da Carreira Docente, na redacção dada pelo Decreto-Lei n.º 1/98, de 2 de Janeiro, aplicam-se as seguintes regras:
+
+a) Mantêm a redução em função da idade e tempo de serviço;
+
+b) Os docentes que já tiverem beneficiado da redução de oito horas da componente lectiva mantêm essa redução, não podendo beneficiar das reduções previstas no n.º 1 do artigo 75.º do Estatuto da Carreira Docente da Região Autónoma da Madeira;
+
+c) Os docentes que já tiverem beneficiado da redução de duas, quatro ou seis horas da componente lectiva mantêm essa redução, podendo beneficiar das reduções previstas no n.º 1 do artigo 75.º do Estatuto da Carreira Docente da Região Autónoma da Madeira até ao limite de oito horas, quando preencherem os requisitos ali previstos.
+
+2 - O disposto no n.º 3 do artigo 75.º do Estatuto da Carreira Docente da Região Autónoma da Madeira não se aplica aos docentes da educação pré-escolar e do 1.º ciclo do ensino básico que sejam abrangidos pelo regime transitório de aposentação previsto nos n.os 7 a 9 do artigo 5.º do Decreto-Lei n.º 229/2005, de 29 de Dezembro.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21/2008 - Diário da República n.º 81/2008, Série I de 2008-04-24](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2008-249550), em vigor a partir de 2008-02-26
+
+###### Artigo 9.º — Docentes em situação de mobilidade
+
+1 - Aos docentes que à data da entrada em vigor do Estatuto da Carreira Docente da Região Autónoma da Madeira se encontrem em regime de destacamento, requisição ou comissão de serviço para o exercício de funções não docentes de natureza técnico-pedagógica aplicam-se até 31 de Agosto de 2007 as regras de contagem de tempo de serviço nestas funções previstas no artigo 36.º do Estatuto da Carreira Docente, na redacção dada pelo Decreto-Lei n.º 1/98, de 2 de Janeiro.
+
+2 - À mobilidade autorizada a partir do ano escolar 2007-2008 aplicam-se as regras do Estatuto da Carreira Docente da Região Autónoma da Madeira.
+
+###### Artigo 10.º — Horário de trabalho
+
+1 - Ao horário de trabalho do pessoal docente aplicam-se, até 31 de Agosto de 2007, as regras previstas nos artigos 76.º a 85.º do Estatuto da Carreira Docente, na redacção dada pelo Decreto-Lei n.º 1/98, de 2 de Janeiro.
+
+2 - Aos horários de trabalho de pessoal docente, a partir do ano escolar 2007-2008, aplicam-se as regras do Estatuto da Carreira Docente da Região Autónoma da Madeira.
+
+###### Artigo 11.º — Regime legal transitório
+
+Mantêm-se em vigor, até à saída dos diplomas regulamentares previstos no Estatuto da Carreira Docente da Região Autónoma da Madeira, os seguintes diplomas:
+
+a) Decretos Legislativos Regionais n.os 10-A/2004/M, de 16 de Junho, e 15-A/2006/M, de 24 de Abril;
+
+b) Portarias n.os 151/2005, de 12 de Dezembro, e 102-A/2006, de 31 de Agosto;
+
+c) Despachos n.os 8/98 e 9/98, de 24 de Julho, 106/2005 e 107/2005, de 30 de Setembro.
+
+###### Artigo 12.º — Entrada em vigor
+
+O Estatuto da Carreira Docente da Região Autónoma da Madeira entra em vigor no 1.º dia útil seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 24 de Janeiro de 2008.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 15 de Fevereiro de 2008.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+## Anexo I — (a que se refere o artigo 1.º do presente decreto legislativo regional)
+
+Estatuto da Carreira Docente da Região Autónoma da Madeira
+
+### Capítulo I — Princípios gerais
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - O Estatuto da Carreira Docente da Região Autónoma da Madeira (RAM), adiante designado por Estatuto, aplica-se aos docentes, qualquer que seja o nível, ciclo de ensino, grupo de recrutamento ou área de formação, que exerçam funções nas diversas modalidades do sistema de educação e ensino não superior e no âmbito dos estabelecimentos públicos da educação e dos ensinos básico e secundário na dependência da Secretaria Regional da Educação e Recursos Humanos.
+
+2 - O presente Estatuto é ainda aplicável, com as necessárias adaptações, aos docentes em exercício de funções em estabelecimentos ou instituições de ensino dependentes ou sob tutela de outras secretarias regionais.
+
+3 - O disposto no Estatuto aplica-se ainda, com as necessárias adaptações, em tudo o que não colida com lei especial, com o Código do Trabalho e seus regulamentos ou com os instrumentos reguladores do trabalho aplicáveis, aos docentes em exercício de funções em estabelecimentos ou instituições do ensino particular e cooperativo, instituições particulares de solidariedade social e escolas profissionais privadas.
+
+4 - Para efeitos do presente Estatuto, entende-se por 'escola' os estabelecimentos de educação, de ensino e instituições de educação especial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 2.º — Pessoal docente
+
+1 - Para efeitos de aplicação do presente Estatuto, considera-se pessoal docente aquele que é portador de habilitação profissional para o desempenho de funções de educação ou de ensino, com carácter permanente, sequencial e sistemático ou a título temporário.
+
+2 - Considera-se ainda pessoal docente, nos termos do disposto no n.º 7 do artigo 34.º da Lei de Bases do Sistema Educativo, os docentes dos ensinos básico e secundário portadores das habilitações científicas requeridas para o acesso à profissionalização no ensino ou que, nos termos legais, tenham sido dispensados da profissionalização em serviço prevista no Estatuto.
+
+###### Artigo 3.º — Princípios fundamentais
+
+A actividade do pessoal docente desenvolve-se de acordo com os princípios fundamentais consagrados na Constituição da República Portuguesa e no quadro dos princípios gerais e específicos constantes dos artigos 2.º e 3.º da Lei de Bases do Sistema Educativo e dos que venham a ser definidos em diploma próprio aplicável ao sistema educativo regional.
+
+### Capítulo II — Direitos e deveres
+
+#### Secção I — Direitos
+
+###### Artigo 4.º — Direitos profissionais
+
+1 - São garantidos ao pessoal docente os direitos estabelecidos, em geral, para os trabalhadores que exercem funções públicas, bem como os direitos profissionais decorrentes do presente Estatuto.
+
+2 - São direitos profissionais específicos do pessoal docente:
+
+a) Direito de participação no processo educativo;
+
+b) Direito à formação e informação para o exercício da função educativa;
+
+c) Direito ao apoio técnico, material e documental;
+
+d) Direito à segurança na actividade profissional;
+
+e) Direito à consideração e ao reconhecimento da sua autoridade pelos alunos, suas famílias e demais membros da comunidade educativa;
+
+f) Direito à colaboração das famílias e da comunidade educativa no processo de educação dos alunos;
+
+g) Direito à negociação colectiva;
+
+h) Direito à dignificação da carreira e da profissão docente;
+
+i) Direito à estabilidade profissional;
+
+j) Direito à não discriminação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 5.º — Direito de participação no processo educativo
+
+1 - O direito de participação exerce-se no âmbito do sistema educativo regional, da escola e da relação com a comunidade.
+
+2 - O direito de participação, que pode ser exercido a título individual ou colectivo, nomeadamente, através das organizações profissionais e sindicais do pessoal docente, compreende:
+
+a) O direito a emitir opiniões e recomendações sobre as orientações e o funcionamento do estabelecimento de ensino e do sistema educativo;
+
+b) O direito a participar na definição das orientações pedagógicas ao nível do estabelecimento de ensino ou das suas estruturas de coordenação;
+
+c) O direito à autonomia técnica e científica e à liberdade de escolha dos métodos de ensino, das tecnologias e técnicas de educação e dos tipos de meios auxiliares de ensino mais adequados, no respeito pelos currículos nacional e regional, pelas componentes regionais do currículo, pelos programas e pelas orientações programáticas curriculares ou pedagógicas em vigor;
+
+d) O direito a propor inovações e a participar em experiências pedagógicas, bem como nos respectivos processos de avaliação;
+
+e) O direito de eleger e ser eleito para órgãos colegiais ou singulares dos estabelecimentos de educação ou de ensino, nos casos em que a legislação sobre a sua gestão e administração o preveja.
+
+3 - O direito de participação pode ainda ser exercido, através das organizações profissionais e sindicais do pessoal docente, em órgãos que, no âmbito regional, prevejam a representação do pessoal docente.
+
+4 - As direções das associações sindicais representativas dos docentes da RAM solicitam a dispensa de serviço docente dos seus membros à Secretaria Regional da Educação e Recursos Humanos, sem prejuízo da legislação nacional que lhes é aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21/2008 - Diário da República n.º 81/2008, Série I de 2008-04-24](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2008-249550), em vigor a partir de 2008-02-26
+
+###### Artigo 6.º — Direito à formação e informação para o exercício da função educativa
+
+1 - O direito à formação e informação para o exercício da função educativa é garantido:
+
+a) Pelo acesso a acções de formação contínua regulares, destinadas a actualizar e aprofundar os conhecimentos e as competências profissionais dos docentes;
+
+b) Pelo apoio à autoformação dos docentes, de acordo com os respectivos planos individuais de formação.
+
+2 - Para efeitos do disposto no número anterior, o direito à formação e informação para o exercício da função educativa pode também visar objetivos de reconversão profissional, bem como de mobilidade e progressão na carreira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 7.º — Direito ao apoio técnico, material e documental
+
+O direito ao apoio técnico, material e documental exerce-se sobre os recursos necessários à formação e informação do pessoal docente, bem como ao exercício da actividade educativa.
+
+###### Artigo 8.º — Direito à segurança na actividade profissional
+
+1 - O direito à segurança na actividade profissional compreende:
+
+a) A prevenção e redução dos riscos profissionais, individuais e colectivos, através da adopção de programas específicos dirigidos à melhoria do ambiente de trabalho e promoção das condições de higiene, saúde e segurança dos postos de trabalho;
+
+b) A prevenção e tratamento das doenças que venham a ser definidas por portaria conjunta dos Secretários Regionais dos Assuntos Sociais e da Educação e Recursos Humanos, como resultando necessária e diretamente do exercício continuado da função docente;
+
+c) Apoio e incentivo ao docente no tratamento, recuperação e reintegração socioprofissional num processo de responsabilização, resultante de situações de alcoolismo ou toxicodependências nos termos do n.º 6 do artigo 25.º do Estatuto.
+
+2 - O direito à segurança na actividade profissional compreende ainda a penalização da prática de ofensa corporal ou outra violência sobre o docente no exercício das suas funções ou por causa destas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 9.º — Direito à consideração e à colaboração da comunidade educativa
+
+1 - O direito à consideração exerce-se no plano da relação com os alunos, as suas famílias e os demais membros da comunidade educativa e exprime-se no reconhecimento da autoridade em que o docente está investido no exercício das suas funções.
+
+2 - O direito à colaboração das famílias e dos demais membros da comunidade educativa compreende o direito a receber o seu apoio e cooperação activa, no quadro da partilha entre todos da responsabilidade pelo desenvolvimento e pelos resultados da aprendizagem dos alunos.
+
+###### Artigo 10.º — Direito à negociação colectiva
+
+É reconhecido ao pessoal docente o direito à negociação colectiva nos termos legalmente previstos.
+
+###### Artigo 11.º — Direito à dignificação da carreira e da profissão docente
+
+O direito à dignificação da carreira e da profissão docente visa:
+
+a) O exercício de uma prática pedagógica de qualidade, enquadrada em horários que salvaguardem o trabalho individual e colaborativo necessários à preparação e avaliação das actividades educativas;
+
+b) Uma remuneração compatível com as qualificações profissionais, especialidade e importância social da função docente.
+
+###### Artigo 12.º — Direito à estabilidade profissional
+
+O direito à estabilidade profissional é salvaguardado pelo acesso aos quadros mediante concurso.
+
+###### Artigo 13.º — Direito à não discriminação
+
+O direito à não discriminação é salvaguardado pela preservação da protecção de dados pessoais e profissionais susceptíveis de promover qualquer forma de abuso e discriminação no trabalho.
+
+#### Secção II — Deveres
+
+###### Artigo 14.º — Deveres gerais
+
+1 - O pessoal docente está obrigado ao cumprimento dos deveres estabelecidos, em geral, para os trabalhadores que exercem funções públicas.
+
+2 - O pessoal docente, no exercício das funções que lhe estão atribuídas nos termos do presente Estatuto, está ainda obrigado ao cumprimento dos seguintes deveres profissionais:
+
+a) Orientar o exercício das suas funções pelos princípios do rigor, da isenção, da justiça e da equidade;
+
+b) Orientar o exercício das suas funções por critérios de qualidade, procurando o seu permanente aperfeiçoamento e tendo como objectivo a excelência;
+
+c) Colaborar com todos os intervenientes no processo educativo, favorecendo a criação de laços de cooperação e o desenvolvimento de relações de respeito e reconhecimento mútuo, em especial entre docentes, alunos, encarregados de educação e pessoal não docente;
+
+d) Actualizar e aperfeiçoar os seus conhecimentos, capacidades e competências, numa perspectiva de aprendizagem ao longo da vida, de desenvolvimento pessoal e profissional e de aperfeiçoamento do seu desempenho;
+
+e) Participar de forma empenhada nas várias modalidades de formação que frequente e usar as competências adquiridas na sua prática profissional;
+
+f) Zelar pela qualidade e pelo enriquecimento dos recursos didáctico-pedagógicos utilizados, numa perspectiva de abertura à inovação;
+
+g) Desenvolver a reflexão sobre a sua prática pedagógica, proceder à auto-avaliação e participar nas actividades de avaliação da escola;
+
+h) Conhecer, respeitar e cumprir as disposições normativas sobre educação, cooperando com a administração educativa na prossecução dos objectivos decorrentes da política educativa, no interesse dos alunos e da sociedade;
+
+i) Aceitar os cargos de natureza pedagógico-administrativa para que tenha sido eleito ou designado;
+
+j) Aceitar o exercício das funções de acompanhamento e apoio à realização do período probatório;
+
+l) (Revogada).
+
+m) Intervir no processo de avaliação nos termos do presente Estatuto;
+
+n) Promover a liberdade, a democracia e os direitos humanos através da educação;
+
+o) Pugnar pela dignidade profissional e pelo estrito cumprimento do conteúdo funcional da profissão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 15.º — Deveres para com os alunos
+
+Constituem deveres específicos dos docentes relativamente aos seus alunos:
+
+a) Respeitar a dignidade pessoal e as diferenças culturais dos alunos valorizando os diferentes saberes e culturas, prevenindo processos de exclusão e discriminação;
+
+b) Reconhecer e responder às necessidades educativas especiais dos alunos na perspectiva da escola inclusiva, respeitando os estilos e ritmos da aprendizagem em igualdade de oportunidades, de modo a prestar uma educação de qualidade para todos;
+
+c) Promover a formação e realização integral dos alunos, estimulando o desenvolvimento das suas capacidades e a sua autonomia e criatividade;
+
+d) Promover o desenvolvimento do rendimento escolar dos alunos e a qualidade das aprendizagens, de acordo com os respectivos programas curriculares e atendendo à diversidade dos seus conhecimentos e aptidões;
+
+e) Organizar e gerir o processo ensino-aprendizagem, adoptando estratégias de diferenciação pedagógica susceptíveis de responder às necessidades individuais dos alunos;
+
+f) Assegurar o cumprimento integral das actividades lectivas correspondentes às exigências dos currículos nacional e regional, das componentes regionais do currículo, dos programas e das orientações programáticas ou curriculares em vigor;
+
+g) Adequar os instrumentos de avaliação às exigências dos currículos nacional e regional e das componentes regionais do currículo, dos programas e das orientações programáticas ou curriculares e adoptar critérios de rigor, isenção e objectividade na sua correcção e classificação;
+
+h) Manter a disciplina e exercer a autoridade pedagógica com rigor, equidade e isenção;
+
+i) Cooperar na promoção do bem-estar dos alunos, protegendo-os de situações de violência física ou psicológica, se necessário solicitando a intervenção de pessoas e entidades alheias à instituição escolar;
+
+j) Colaborar na prevenção e detecção de situações de risco social, se necessário participando-as às entidades competentes;
+
+l) Respeitar a natureza confidencial da informação relativa aos alunos e respectivas famílias.
+
+###### Artigo 16.º — Deveres para com a escola e os outros docentes
+
+Constituem deveres específicos dos docentes para com a escola e outros docentes:
+
+a) Colaborar na organização da escola, cooperando com os órgãos de administração e gestão e as estruturas de gestão pedagógica e com o restante pessoal docente e não docente tendo em vista o seu bom funcionamento;
+
+b) Cumprir os regulamentos, desenvolver e executar os projectos educativos e planos de escola e observar as orientações dos órgãos de administração e gestão e das estruturas de gestão pedagógica da escola;
+
+c) Co-responsabilizar-se pela preservação e uso adequado das instalações e equipamentos e propor medidas de melhoramento e remodelação;
+
+d) Promover o bom relacionamento e a cooperação entre todos os docentes, dando especial atenção aos que se encontram em início de carreira ou em formação ou que denotem dificuldades no seu exercício profissional;
+
+e) Partilhar com os outros docentes a informação, os recursos didácticos e os métodos pedagógicos, no sentido de difundir as boas práticas e de aconselhar aqueles que se encontrem em início de carreira ou em formação ou que denotem dificuldades no seu exercício profissional;
+
+f) Reflectir, nas várias estruturas pedagógicas, sobre o trabalho realizado individual e colectivamente, tendo em vista melhorar as práticas e contribuir para o sucesso educativo dos alunos;
+
+g) Cooperar com os outros docentes na avaliação do seu desempenho;
+
+h) Defender e promover o bem-estar de todos os docentes, protegendo-os de quaisquer situações de violência física ou psicológica, se necessário solicitando a intervenção de pessoas e entidades alheias à instituição escolar.
+
+###### Artigo 17.º — Deveres para com os pais e encarregados de educação
+
+Constituem deveres específicos dos docentes para com os pais e encarregados de educação dos alunos:
+
+a) Respeitar a autoridade legal dos pais ou encarregados de educação e estabelecer com eles uma relação de diálogo e cooperação, no quadro da partilha da responsabilidade pela educação e formação integral dos alunos;
+
+b) Promover a participação activa dos pais ou encarregados de educação na educação escolar dos alunos, no sentido de garantir a sua efectiva colaboração no processo de aprendizagem;
+
+c) Incentivar a participação dos pais ou encarregados de educação na actividade da escola, no sentido de criar condições para a integração bem sucedida de todos os alunos;
+
+d) Facultar regularmente aos pais ou encarregados de educação a informação sobre o desenvolvimento das aprendizagens e o percurso escolar dos filhos, bem como sobre quaisquer outros elementos relevantes para a sua educação;
+
+e) Participar na promoção de acções específicas de formação ou informação para os pais ou encarregados de educação que fomentem o seu envolvimento na escola com vista à prestação de um apoio adequado aos alunos.
+
+### Capítulo III — Formação
+
+###### Artigo 18.º — Formação do pessoal docente
+
+1 - A formação do pessoal docente desenvolve-se de acordo com os princípios gerais constantes do artigo 33.º da Lei de Bases do Sistema Educativo e dos que venham a ser definidos em diploma próprio aplicável ao Sistema Educativo Regional.
+
+2 - A formação do pessoal docente é regulamentada em diploma próprio, sem prejuízo do disposto nos artigos seguintes.
+
+###### Artigo 19.º — Modalidades da formação
+
+A formação do pessoal docente compreende a formação inicial, a formação especializada e a formação contínua, previstas, respectivamente, nos artigos 34.º, 36.º e 38.º da Lei de Bases do Sistema Educativo.
+
+###### Artigo 20.º — Formação inicial
+
+1 - A formação inicial dos educadores de infância e dos professores dos ensinos básico e secundário é a que confere habilitação profissional para a docência no respectivo nível de educação ou de ensino.
+
+2 - A formação pedagógica dos licenciados titulares de habilitação científica para a docência nos ensinos básico e secundário, bem como titulares de cursos de licenciatura adequados à docência de disciplinas de natureza vocacional, profissional ou artística dos ensinos básico e secundário, constitui uma modalidade de formação inicial, nos termos previstos no artigo 34.º da Lei de Bases do Sistema Educativo.
+
+3 - A formação inicial visa dotar os candidatos à profissão das competências e conhecimentos científicos, técnicos e pedagógicos de base para o desempenho profissional da prática docente nas seguintes dimensões:
+
+a) Profissional e ética;
+
+b) Desenvolvimento do ensino e da aprendizagem;
+
+c) Participação na escola e relação com a comunidade educativa;
+
+d) Desenvolvimento profissional ao longo da vida.
+
+4 - A Secretaria Regional da Educação e Recursos Humanos coopera com os estabelecimentos de ensino superior que ministram a formação inicial, através da criação de condições para a realização de estágios pedagógicos nos estabelecimentos de educação e ensino dela dependentes. .
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 21.º — Formação especializada
+
+1 - A formação especializada visa a qualificação dos docentes para o desempenho de funções ou actividades educativas especializadas e é ministrada nas instituições de formação a que se refere o n.º 2 do artigo 36.º da Lei de Bases do Sistema Educativo.
+
+2 - Adquirem qualificação para a docência em educação e ensino especial os educadores de infância e os professores dos ensinos básico e secundário profissionalizados, com um mínimo de dois anos de serviço docente regular ou especial, que obtenham aproveitamento em cursos especialmente vocacionados para o efeito, realizados em estabelecimento de ensino superior que disponha de recursos próprios nesse domínio.
+
+###### Artigo 22.º — Formação contínua
+
+1 - A formação contínua destina-se a assegurar a actualização, o aperfeiçoamento, a reconversão e o apoio à actividade profissional do pessoal docente, visando ainda objectivos de desenvolvimento na carreira e de mobilidade nos termos do presente Estatuto.
+
+2 - A formação contínua deve ser planeada de forma a promover o desenvolvimento das competências profissionais do docente, privilegiando-se a formação em contexto escolar e nos períodos de interrupção da actividade lectiva.
+
+###### Artigo 23.º — Acções de formação contínua
+
+1 - A formação contínua pode resultar de iniciativa de instituições para tanto vocacionadas ou ser assegurada por organismos públicos ou entidades privadas, podendo ser ainda promovida ou apoiada pelos estabelecimentos de educação ou de ensino, individualmente ou em regime de cooperação, nos termos previstos na legislação aplicável.
+
+2 - Sem prejuízo das prioridades fixadas por cada estabelecimento de ensino ou pela Secretaria Regional da Educação e Recursos Humanos, cabe ao docente a escolha das ações mais adequadas às suas necessidades de formação.
+
+3 - As acções de formação contínua devem conter na sua planificação a avaliação individual do aproveitamento do formando e devem ser organizadas nos termos que venham a ser definidos em diploma próprio aplicável ao Sistema Educativo Regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+### Capítulo IV — Recrutamento e selecção
+
+###### Artigo 24.º — Princípios gerais
+
+1 - O concurso é o processo de recrutamento e selecção, normal e obrigatório, de pessoal docente para nomeação em lugar do quadro, afectação e contratação.
+
+2 - O regime do concurso para pessoal docente rege-se pelos princípios reguladores dos concursos na administração regional autónoma, nos termos e com as adaptações previstas no diploma a que se refere o artigo 27.º
+
+###### Artigo 25.º — Requisitos gerais e específicos
+
+1 - São requisitos gerais de admissão a concurso:
+
+a) Possuir habilitações profissionais legalmente exigidas para a docência no nível de ensino e grupo de recrutamento a que se candidatam;
+
+b) Ter cumprido os deveres militares ou de serviço cívico, quando obrigatório;
+
+c) Não estar inibido do exercício de funções públicas ou interdito para o exercício das funções a que se candidata;
+
+d) Possuir a robustez física, o perfil psíquico e as características de personalidade indispensáveis ao exercício da função e ter cumprido as leis de vacinação obrigatória.
+
+2 - Constitui requisito físico necessário ao exercício da função docente a ausência, comprovada por adequado atestado médico, de quaisquer lesões ou enfermidades que impossibilitem o exercício da docência ou sejam susceptíveis de ser agravadas pelo desempenho de funções docentes.
+
+3 - A existência de deficiência física não é impedimento ao exercício de funções docentes, se e enquanto for compatível com os requisitos exigíveis para o exercício de funções no grupo de recrutamento do candidato ou do docente, nos termos de adequado atestado médico.
+
+4 - Constitui requisito psíquico necessário ao exercício da função docente a ausência de características de personalidade ou de situações anómalas ou patológicas de natureza neuropsiquiátrica que ponham em risco a relação com os alunos, impeçam ou dificultem o exercício da docência ou sejam susceptíveis de ser agravadas pelo desempenho de funções docentes.
+
+5 - A verificação dos requisitos físicos e psíquicos necessários ao exercício da função docente e da existência de alcoolismo ou de toxicodependências é realizada nos termos da lei geral.
+
+6 - A existência de alcoolismo ou de toxicodependências, comprovadas nos termos do número anterior, constitui motivo impeditivo do exercício da função docente pelo período de dois anos.
+
+7 - Aos candidatos pode ser exigida a prova de domínio perfeito da língua portuguesa, a qual é obrigatória quando não tenham nacionalidade portuguesa, nos termos a regulamentar por portaria do Secretário Regional da Educação e Recursos Humanos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 26.º — Verificação dos requisitos físicos e psíquicos
+
+1 - A verificação de alteração dos requisitos físicos e psíquicos necessários ao exercício da função docente e da existência de alcoolismo ou de toxicodependências é realizada pela junta médica convocada pela Secretaria Regional da Educação e Recursos Humanos, mediante solicitação do órgão de administração e gestão da escola.
+
+2 - Para verificação das condições de saúde e de trabalho do pessoal docente realizar-se-ão acções periódicas de rastreio, nos termos da legislação sobre segurança, higiene e saúde no trabalho, aprovadas anualmente pelo órgão de administração e gestão da escola.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 27.º — Regulamentação
+
+A regulamentação dos concursos previstos no presente Estatuto será objecto de decreto legislativo regional, mediada a participação das organizações sindicais de pessoal docente abrangendo as áreas de língua estrangeira, educação artística e desportiva, bem como todas as outras actividades de enriquecimento do currículo na educação pré-escolar e no 1.º ciclo do ensino básico nos termos que venham a ser definidos em diploma próprio aplicável ao Sistema Educativo Regional.
+
+### Capítulo V — Quadros de pessoal docente
+
+###### Artigo 28.º — Estrutura
+
+1 - Os quadros de pessoal docente da rede pública estruturam-se em:
+
+a) Quadros de escola;
+
+b) (Revogada.)
+
+c) Quadros de zona pedagógica.
+
+2 - Os quadros de pessoal docente de escolas abrangidos pelo presente Estatuto fixam dotações para a carreira docente, discriminadas por nível ou ciclo de ensino e grupo de recrutamento, de modo a conferir maior flexibilidade à gestão dos recursos humanos da docência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 29.º — Quadros de escola
+
+1 - Os quadros de escola destinam-se a satisfazer as respetivas necessidades permanentes.
+
+2 - A dotação de lugares dos quadros de escola, discriminada por ciclo ou nível de ensino e grupo de recrutamento, é fixada por portaria conjunta dos Secretários Regionais do Plano e Finanças e da Educação e Recursos Humanos.
+
+3 - Para efeitos do processo de recrutamento e seleção do pessoal docente da Região, os quadros de agrupamento de escolas e de zona pedagógica a nível nacional são equiparados a quadros de zona pedagógica e os quadros de escola a quadros de escola desde que os docentes possuam habilitação profissional para os respetivos grupos de recrutamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 30.º — Quadros de zona pedagógica
+
+1 - Os quadros de zona pedagógica destinam-se a facultar a necessária flexibilidade à gestão dos recursos humanos no respetivo âmbito geográfico e a assegurar a satisfação de necessidades não permanentes das escolas, a substituição dos docentes dos quadros de escola, as atividades de educação extraescolar, o apoio a escolas que ministrem áreas curriculares específicas ou manifestem exigências educativas especiais, bem como garantir a promoção do sucesso educativo.
+
+2 - A substituição de docentes prevista no número anterior abrange os casos de:
+
+a) Ausência anual;
+
+b) Ausências temporárias de duração superior a 5 ou 10 dias lectivos, consoante se trate da educação pré-escolar e do 1.º ciclo do ensino básico ou dos 2.º e 3.º ciclos do ensino básico e do ensino secundário.
+
+3 - O âmbito geográfico dos quadros de zona pedagógica e a respetiva dotação de lugares, a definir por ciclo ou nível de ensino e grupo de recrutamento, mediada a participação das organizações sindicais do pessoal docente, são fixados por portaria conjunta dos Secretários Regionais do Plano e Finanças e da Educação e Recursos Humanos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21/2008 - Diário da República n.º 81/2008, Série I de 2008-04-24](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2008-249550), em vigor a partir de 2008-02-26
+
+###### Artigo 31.º — Ajustamento dos quadros
+
+A revisão dos quadros de pessoal docente, mediada a participação das organizações sindicais do pessoal docente, é feita por portaria conjunta dos Secretários Regionais do Plano e Finanças e da Educação e Recursos Humanos ou por portaria do Secretário Regional da Educação e Recursos Humanos, consoante dessa alteração resulte ou não aumento dos valores totais globais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+### Capítulo VI — Vinculação
+
+###### Artigo 32.º — Modalidades
+
+1 - A relação jurídica de emprego do pessoal docente reveste, em geral, a forma de contrato por tempo indeterminado.
+
+2 - Nas situações previstas no artigo 36.º a relação jurídica de emprego reveste a forma de contrato a termo resolutivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 33.º — Contrato por tempo indeterminado
+
+O contrato por tempo indeterminado é celebrado no ingresso na carreira docente, sem prejuízo do disposto no artigo seguinte.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 34.º — Período probatório
+
+1 - O período probatório destina-se a verificar a capacidade de adequação do docente ao perfil do desempenho profissional exigível, tem a duração mínima de um ano escolar e é cumprido no estabelecimento de educação ou de ensino onde aquele exerce a sua actividade docente.
+
+2 - O período probatório corresponde ao 1.º ano escolar no exercício efetivo de funções na carreira docente, sendo aplicável também ao professor com contrato a termo resolutivo, e neste caso desde que seja colocado a partir do dia 1 de setembro com horário completo, sem prejuízo do disposto nos n.os 8 a 10.
+
+3 - O período probatório do professor é acompanhado e apoiado, no plano didático, pedagógico e científico, por um docente nos termos do diploma a que se refere o n.º 7.
+
+4 - (Revogado.)
+
+5 - O docente em período probatório fica impossibilitado de prestar serviço extraordinário, salvo nas situações em que tal se manifeste necessário para completar o horário semanal do docente, em função da carga horária da disciplina que ministra, e ainda de acumular outras funções públicas ou privadas.
+
+6 - A componente não lectiva do docente em período probatório fica adstrita, enquanto necessário, à frequência de acções de formação, assistência a aulas de outros professores ou realização de trabalhos de grupo, que forem indicadas pelo professor de acompanhamento e apoio.
+
+7 - A avaliação do desempenho do docente em período probatório é objeto de regulamentação específica, nos termos previstos no n.º 4 do artigo 43.º do presente Estatuto.
+
+8 - O período probatório é suspenso sempre que o docente se encontre em situação de faltas ao serviço legalmente equiparadas a prestação de trabalho efectivo ou ainda por doença prolongada, por um período superior a seis semanas consecutivas ou interpoladas, sem prejuízo da manutenção dos direitos e regalias inerentes à continuidade do vínculo laboral.
+
+9 - Finda a situação que determinou a suspensão prevista no número anterior, o docente retoma ou inicia, consoante o caso, o exercício efectivo das suas funções, tendo de completar o período probatório em falta.
+
+10 - Para além dos motivos referidos no n.º 8, o período probatório do docente que faltar justificadamente por um período correspondente a 15 dias de actividade lectiva é repetido no ano escolar seguinte.
+
+11 - O docente que conclua o período probatório com avaliação do desempenho igual ou superior a Bom ingressa na carreira.
+
+12 - (Revogado.)
+
+13 - (Revogado.)
+
+14 - (Revogado.)
+
+15 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 35.º — Ingresso na carreira
+
+1 - O ingresso na carreira é efetuado, independentemente de quaisquer formalidades, no início do ano escolar subsequente à conclusão do período probatório com avaliação do desempenho igual ou superior a Bom e na situação referida no n.º 4.
+
+2 - O ingresso na carreira é promovido pelo órgão de administração e gestão da escola até 20 dias antes do termo do período probatório e produz efeitos, em qualquer caso, a partir de 1 de setembro.
+
+3 - Em caso de prorrogação do período probatório previsto nos n.os 8 a 10 do artigo anterior, o ingresso na carreira produz efeitos reportados ao início do ano escolar em que ocorra a sua conclusão.
+
+4 - O docente ingressa imediatamente na carreira quando tenha obtido lugar de quadro mediante concurso e tenha anteriormente exercido funções docentes em regime de contrato, no mesmo nível de ensino e grupo de docência nos termos do n.º 2 do artigo 34.º e concluído o período probatório com avaliação do desempenho igual ou superior a Bom.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 36.º — Contrato a termo resolutivo
+
+1 - O desempenho de funções docentes pode ser assegurado por contrato a termo resolutivo quando haja conveniência em confiar a técnicos especializados a regência de disciplinas tecnológicas, artísticas, vocacionais e de aplicação ou que constituam inovação pedagógica.
+
+2 - O exercício transitório de funções docentes pode ser assegurado por indivíduos que preencham os requisitos de admissão ao concurso de provimento, por contrato a termo resolutivo, tendo em vista a satisfação de necessidades do sistema educativo não colmatadas pelo pessoal docente dos quadros de zona pedagógica ou resultantes de ausências temporárias de docentes que não possam ser supridas nos termos do n.º 2 do artigo 30.º do presente Estatuto.
+
+3 - O regime de contrato previsto no n.º 1 é o constante na Lei n.º 59/2008, de 11 de setembro, para o contrato a termo resolutivo, com exceção do disposto sobre requisitos habilitacionais e qualificações profissionais, que são os que vierem a ser fixados aquando da publicitação da oferta de emprego.
+
+4 - Os princípios a que obedece a contratação de pessoal docente ao abrigo do número anterior são fixados por portaria conjunta dos Secretários Regionais do Plano e Finanças e da Educação e Recursos Humanos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+### Capítulo VII — Carreira docente
+
+### Subcapítulo I — Princípios gerais
+
+###### Artigo 37.º — Natureza e estrutura da carreira docente
+
+1 - O pessoal docente, definido nos termos do artigo 2.º do presente Estatuto, constitui, nos termos da lei geral, um corpo especial da Administração Pública dotado de uma carreira própria e integra-se numa carreira única.
+
+2 - A carreira docente desenvolve-se por escalões a que correspondem índices remuneratórios diferenciados, de acordo com o anexo i ao presente Estatuto, que dele faz parte integrante.
+
+3 - Para efeitos do disposto neste diploma, os docentes provenientes do continente e da Região Autónoma dos Açores são posicionados na carreira docente, salvaguardando-se o índice e escalão de que eram detentores à data do seu provimento na Região.
+
+###### Artigo 38.º — Conteúdo funcional
+
+1 - As funções do pessoal docente são exercidas com responsabilidade profissional e autonomia técnica e científica, sem prejuízo do número seguinte.
+
+2 - O docente desenvolve a sua actividade profissional de acordo com as orientações de política educativa e observando as exigências dos currículos nacional e regional, das componentes regionais do currículo, dos programas e das orientações programáticas ou curriculares em vigor, bem como do projecto educativo da escola.
+
+3 - São funções do pessoal docente:
+
+a) Leccionar as disciplinas, matérias e cursos para que se encontra habilitado, de acordo com as necessidades educativas dos alunos que lhe estejam confiados e no cumprimento do serviço docente que lhe seja atribuído;
+
+b) Planear, organizar e preparar as actividades lectivas dirigidas à turma ou grupo de alunos, nas áreas disciplinares ou matérias que lhe sejam distribuídas;
+
+c) Conceber, aplicar, corrigir e classificar os instrumentos de avaliação das aprendizagens e participar no serviço de exames e reuniões de avaliação;
+
+d) Elaborar recursos e materiais didáctico-pedagógicos e participar na respectiva avaliação;
+
+e) Promover, organizar e participar em todas as actividades complementares, curriculares e extracurriculares, incluídas no plano de escola ou projecto educativo da escola, dentro e fora do recinto escolar;
+
+f) Organizar, assegurar e acompanhar as actividades de enriquecimento curricular dos alunos;
+
+g) Assegurar as atividades de apoio educativo, executar os planos de acompanhamento e ou recuperação de alunos determinados pela administração educativa e cooperar na deteção e acompanhamento de dificuldades de aprendizagem;
+
+h) Acompanhar e orientar as aprendizagens dos alunos, em colaboração com os respectivos pais e encarregados de educação;
+
+i) Facultar orientação e aconselhamento em matéria educativa, social e profissional dos alunos, em colaboração com os serviços especializados de orientação educativa;
+
+j) Participar nas actividades de avaliação da escola;
+
+l) Orientar a prática pedagógica supervisionada a nível da escola;
+
+m) Participar em actividades de investigação, inovação e experimentação científica e pedagógica;
+
+n) Organizar e participar, como formando ou formador, em acções de formação contínua e especializada;
+
+o) Participar na construção, realização e avaliação do projecto educativo, do plano anual de escola e do projecto curricular de escola e de turma.
+
+4 - Além das previstas no número anterior, deverão ser atribuídas predominantemente aos docentes posicionados no 5.º escalão ou superior, detentores preferencialmente de formação especializada, as seguintes funções:
+
+a) O exercício de cargos de natureza pedagógico-administrativa, de acordo com o perfil do docente para a função, no quadro do projecto educativo e nos termos do regulamento interno da escola;
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+5 - Os docentes dos três últimos escalões da carreira, desde que detentores de formação especializada, podem candidatar-se, com possibilidade de renúncia a produzir efeitos no termo de cada ano escolar, a uma especialização funcional para o exercício exclusivo ou predominante das funções de supervisão pedagógica, gestão da formação, desenvolvimento curricular, avaliação do desempenho e administração escolar, em termos a definir por portaria do Secretário Regional da Educação e Recursos Humanos, sem prejuízo de os demais docentes da carreira poderem ser opositores a essa candidatura, ainda que em diferente posicionamento e o exercício dessas funções não ser em regime de exclusividade.
+
+6 - São funções do docente de educação especial, para além das previstas nos números anteriores, as de:
+
+a) Colaborar com os pais e outros técnicos especializados na intervenção e acompanhamento precoce de recém-nascidos e crianças com deficiência, em situação domiciliária e ou hospitalar;
+
+b) Colaborar com o docente do ensino regular na identificação de necessidades educativas especiais, limitações e desvantagens sociais, no quadro de desenvolvimento social e educativo dos alunos;
+
+c) Promover e apoiar a diferenciação pedagógica;
+
+d) Proceder à avaliação pedagógica especializada;
+
+e) Integrar a equipa transdisciplinar em estratégias de avaliação e intervenção;
+
+f) Apoiar os docentes do ensino regular na sala de aula em tarefas de diferenciação pedagógica para uma melhor gestão de turmas heterogéneas em processos de educação inclusiva;
+
+g) Colaborar com o docente de educação e ensino regular na transformação e adaptação do currículo regular decorrente das necessidades educativas especiais, desenvolvendo programas em áreas específicas de aprendizagem ou no âmbito de intervenções curriculares alternativas, para alunos com deficiências de baixa incidência;
+
+h) Desenvolver apoio individual e ou individualizado nos casos em que as problemáticas assim o exijam;
+
+i) Colaborar com o docente de educação e ensino regular na implementação das medidas previstas no Decreto Legislativo Regional n.º 33/2009/M, de 31 de dezembro, que estabelece o regime jurídico da educação especial, transição para a vida adulta e reabilitação das pessoas com deficiência ou incapacidade na RAM, relativas a alunos com necessidades educativas especiais;
+
+j) Intervir na educação parental colaborando no processo de desenvolvimento dos pais, na educação precoce, na educação escolar e na formação profissional dos seus filhos e nos respectivos projectos de integração educacional e social;
+
+l) Intervir no processo de cooperação dos estabelecimentos de educação e ensino com outros serviços locais;
+
+m) Participar como membro de pleno direito nos órgãos e demais estruturas de gestão da escola.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21/2008 - Diário da República n.º 81/2008, Série I de 2008-04-24](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2008-249550), em vigor a partir de 2008-02-26
+
+###### Artigo 39.º — Ingresso
+
+1 - O ingresso na carreira docente faz-se mediante concurso destinado ao provimento de lugar do quadro de entre os docentes que satisfaçam os requisitos de admissão a que se refere o artigo 25.º
+
+2 - Sem prejuízo do disposto no número seguinte, o ingresso na carreira docente faz-se no escalão 1 da carreira docente.
+
+3 - O ingresso na carreira dos docentes portadores de habilitação profissional adequada faz-se no escalão correspondente ao tempo de serviço prestado em funções docentes e classificado com a menção qualitativa mínima de Bom, independentemente do título jurídico da relação de trabalho subordinado, de acordo com os critérios gerais de progressão, em termos a definir por portaria do membro do Governo responsável pela área da educação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 40.º — Progressão
+
+1 - A progressão na carreira docente consiste na alteração do índice remuneratório através da mudança de escalão.
+
+2 - O reconhecimento do direito à progressão ao escalão seguinte depende da verificação cumulativa dos seguintes requisitos:
+
+a) Da permanência de um período mínimo de serviço docente efetivo no escalão imediatamente anterior;
+
+b) Da atribuição, na última avaliação do desempenho, de menção qualitativa não inferior a Bom;
+
+c) Da frequência com aproveitamento de formação contínua ou de cursos de formação especializada e ou pós-graduações e unidades curriculares de mestrados ou doutoramentos que não entram no cômputo das bonificações de tempo de serviço para efeitos de progressão na carreira, num total não inferior a:
+
+i) 25 horas, no 5.º escalão da carreira docente;
+
+ii) 50 horas, nos restantes escalões da carreira docente.
+
+3 - A progressão aos 3.º, 5.º e 7.º escalões depende, além dos requisitos previstos no número anterior, do seguinte:
+
+a) (Revogada);
+
+b) Obtenção de vaga, no caso da progressão aos 5.º e 7.º escalões.
+
+4 - A obtenção das menções de Excelente e Muito bom nos 4.º e 6.º escalões permite a progressão ao escalão seguinte, sem a observância do requisito relativo à existência de vagas.
+
+5 - (Revogado.)
+
+6 - Os módulos de tempo de serviço docente nos escalões têm a duração de quatro anos, com exceção do tempo de serviço no 5.º escalão, que tem a duração de dois anos. .
+
+7 - Para os efeitos previstos neste artigo, a obtenção de menção qualitativa inferior a Bom no período em avaliação determina o acréscimo de idêntico período com avaliação qualitativa mínima de Bom ou superior.
+
+8 - A progressão aos 5.º e 7.º escalões, nos termos referidos na alínea b) do n.º 3, processa-se anualmente e havendo lugar à adição de um fator de compensação por cada ano suplementar de permanência nos 4.º ou 6.º escalões aos docentes que não obtiverem vaga, em termos a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da educação.
+
+9 - A progressão ao escalão seguinte opera-se nos seguintes momentos:
+
+a) A progressão aos 2.º, 3.º, 4.º, 6.º, 8.º, 9.º e 10.º escalões opera-se na data em que o docente perfaz o tempo de serviço no escalão, desde que tenha cumprido os requisitos de avaliação do desempenho e realizado a formação contínua prevista na alínea c) do n.º 2, sendo devido o direito à remuneração correspondente ao novo escalão a partir do 1.º dia do mês subsequente a esse momento e reportado também a essa data;
+
+b) A progressão aos 5.º e 7.º escalões opera-se na data em que o docente obteve vaga para progressão, desde que tenha cumprido os requisitos de avaliação do desempenho e realizado a formação contínua prevista na alínea c) do n.º 2, sendo devido o direito à remuneração correspondente ao novo escalão a partir do 1.º dia do mês subsequente a esse momento e reportado também a essa data.
+
+10 - A listagem dos docentes que progredirem de escalão é afixada semestralmente nas escolas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2018/M - Diário da República n.º 75/2018, Série I de 2018-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2018-115124397), em vigor a partir de 2018-04-18, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2010/M - Diário da República n.º 160/2010, Série I de 2010-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2010-343611), em vigor a partir de 2010-08-19
+
+###### Artigo 41.º — Transição para o 6.º escalão
+
+1 - O procedimento de transição para o 6.º escalão da carreira docente faz-se mediante prova pública que incida sobre toda a actividade profissional desenvolvida pelo professor desde o início de funções docentes.
+
+2 - Podem ser opositores ao procedimento de transição para o 6.º escalão da carreira docente os professores licenciados ou bacharéis que detenham pelo menos 16 anos ou 21 anos de serviço com avaliação de desempenho igual ou superior a Bom durante o referido período.
+
+3 - O júri do procedimento será formado por dois docentes do quadro de nomeação definitiva da escola, posicionados no 6.º escalão ou superior, e no âmbito dos 2.º e 3.º ciclos do ensino básico e do ensino secundário do mesmo grupo de docência e um docente a designar pela Secretaria Regional de Educação e Cultura.
+
+4 - Os docentes que compõem o júri deverão ser designados pelo conselho pedagógico, conselho escolar ou departamento curricular, caso se trate respectivamente da educação em estabelecimentos de infância ou unidades de educação pré-escolar e escolas do 1.º ciclo do ensino básico ou escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário, de entre os professores posicionados no 6.º escalão ou superior, detentores preferencialmente de formação especializada na área de organização educacional e desenvolvimento curricular, supervisão pedagógica e formação de formadores e com uma última avaliação do desempenho igual ou superior a Bom.
+
+5 - Caso não haja docentes posicionados no 6.º escalão ou superior, a nomeação deverá incidir nos professores com maior antiguidade na carreira, a designar pelos órgãos mencionados no número anterior.
+
+6 - Os docentes aprovados no procedimento transitam para o 6.º escalão com efeitos ao 1.º dia do mês seguinte à verificação dos requisitos previstos no n.º 2.
+
+7 - As normas reguladoras do procedimento de transição para o 6.º escalão da carreira docente são definidas por decreto regulamentar regional.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2010/M - Diário da República n.º 160/2010, Série I de 2010-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2010-343611), em vigor a partir de 2010-08-19
+
+### Subcapítulo II — Condições de progressão e transição
+
+Condições de progressão na carreira e regime de avaliação do desempenho
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-29
+
+#### Secção I — Contagem de tempo de serviço
+
+###### Artigo 42.º — Exercício de funções não docentes
+
+1 - Na contagem do tempo de serviço docente efetivo para efeitos de progressão na carreira são considerados os períodos referentes a requisição, destacamento e comissão de serviço no exercício de funções não docentes que revistam natureza técnico-pedagógica, com avaliação do desempenho igual ou superior a Bom durante o referido período.
+
+2 - Para efeitos do disposto no número anterior, entende-se por funções de natureza técnico-pedagógica as que, pela sua especialização, especificidade ou especial relação com o sistema de educação e ensino, requerem, como condição para o respectivo exercício, as qualificações e exigências de formação próprias do pessoal docente.
+
+3 - Por portaria do Secretário Regional da Educação e Recursos Humanos, são fixadas as funções ou cargos a identificar como de natureza técnico-pedagógica.
+
+4 - O disposto nos números anteriores não prejudica a aplicação de legislação própria que salvaguarde o direito de progressão na carreira de origem pelo exercício de determinados cargos ou funções.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+#### Secção II — Avaliação do desempenho
+
+###### Artigo 43.º — Caracterização e objectivos
+
+1 - A avaliação do desempenho do pessoal docente desenvolve-se de acordo com os princípios consagrados no artigo 39.º da Lei de Bases do Sistema Educativo e no respeito pelos princípios e objectivos que enformam o sistema integrado de avaliação do desempenho da administração regional autónoma, incidindo sobre a actividade desenvolvida e tendo em conta as qualificações profissionais, pedagógicas e científicas do docente.
+
+2 - A avaliação do desempenho do pessoal docente visa melhorar a qualidade das aprendizagens dos alunos e proporcionar orientações para o desenvolvimento pessoal e profissional no quadro de um sistema de reconhecimento do mérito e da excelência.
+
+3 - Constituem ainda objectivos da avaliação do docente:
+
+a) Contribuir para a melhoria da prática pedagógica;
+
+b) Contribuir para a valorização e aperfeiçoamento individual;
+
+c) Identificar as necessidades de formação do pessoal docente;
+
+d) Detectar os factores que influenciam o rendimento profissional;
+
+e) Promover o mérito;
+
+f) Facultar indicadores de gestão;
+
+g) Promover o trabalho de cooperação;
+
+h) Promover a excelência e a qualidade dos serviços prestados à comunidade.
+
+i) Contribuir para a valorização do trabalho e da profissão docente;
+
+j) Promover a responsabilização do docente quanto ao exercício da sua atividade profissional.
+
+4 - A regulamentação do sistema de avaliação do desempenho estabelecido no presente Estatuto é definida em decreto regulamentar regional.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - (Revogado.)
+
+12 - (Revogado.)
+
+13 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21/2008 - Diário da República n.º 81/2008, Série I de 2008-04-24](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2008-249550), em vigor a partir de 2008-02-26
+
+###### Artigo 44.º — Relevância
+
+1 - A avaliação do desempenho é obrigatoriamente considerada para efeitos de:
+
+a) Progressão na carreira;
+
+b) Ingresso na carreira no termo do período probatório;
+
+c) Renovação do contrato a termo resolutivo.
+
+2 - O tempo de serviço dos docentes em regime de contrato a termo resolutivo que não satisfaça a verificação do requisito do período mínimo exigido para a avaliação de desempenho releva para todos os efeitos legais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 45.º — Âmbito e periodicidade
+
+1 - A avaliação incide sobre as seguintes dimensões do desempenho do pessoal docente:
+
+a) Científica e pedagógica;
+
+b) Participação nas atividades desenvolvidas na escola ou no serviço técnico da Direção Regional de Educação;
+
+c) Formação contínua e desenvolvimento profissional.
+
+2 - Os ciclos de avaliação dos docentes integrados na carreira coincidem com o período correspondente à duração dos escalões da carreira docente, devendo o processo de avaliação do desempenho ser concluído no final do ano escolar anterior ao do termo do ciclo avaliativo.
+
+3 - Os docentes integrados na carreira só são sujeitos a avaliação do desempenho desde que tenham prestado serviço docente efetivo durante, pelo menos, metade do período em avaliação a que se refere o número anterior.
+
+4 - A avaliação dos docentes em regime de contrato a termo resolutivo realiza-se no final do período de vigência do respetivo contrato e antes da eventual renovação da sua colocação desde que tenham prestado serviço docente efetivo durante, pelo menos, 180 dias.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 46.º — Intervenientes no processo de avaliação
+
+1 - Intervêm no processo de avaliação do desempenho:
+
+a) Os avaliados;
+
+b) Os avaliadores;
+
+c) O conselho de coordenação da avaliação do desempenho.
+
+2 - São avaliadores e avaliados:
+
+a) Os coordenadores dos departamentos curriculares dos 2.º e 3.º ciclos do ensino básico e do ensino secundário por dois titulares do órgão de administração e gestão, respectivamente nas áreas científico-pedagógica e administrativa;
+
+b) Os delegados de disciplina dos 2.º e 3.º ciclos do ensino básico e do ensino secundário pelo coordenador de departamento curricular respectivo e por um titular do órgão de administração e gestão;
+
+c) Os docentes dos estabelecimentos de educação e do 1.º ciclo do ensino básico pelo delegado escolar e pelo director da escola;
+
+d) Os restantes docentes dos 2.º e 3.º ciclos do ensino básico e do ensino secundário por um titular do órgão de administração e gestão e pelo respectivo delegado de disciplina ou professor do quadro de nomeação definitiva, preferencialmente com maior antiguidade na carreira, que por ele for designado, quando o número de docentes a avaliar o justifique;
+
+e) Os docentes de educação especial pelo director de serviços técnico de educação e apoio psicopedagógico e pelo director técnico e ou pelo representante dos docentes no conselho técnico, no caso das instituições de educação especial, ou pelo director do estabelecimento de educação/ensino onde o docente presta maior carga horária, quando apoia várias escolas;
+
+f) Os docentes da rede pública em regime de mobilidade nas escolas privadas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário são avaliados pelas estruturas desses estabelecimentos de ensino equiparadas às constantes das alíneas a), b) e d) e nos estabelecimentos de educação e do 1.º ciclo do ensino básico, pelo director pedagógico.
+
+3 - Aos titulares dos órgãos de administração e gestão dos estabelecimentos de educação e ensino é aplicado o disposto nos n.os 8, 10, 11, 12 e 13 do artigo 43.º
+
+4 - A avaliação global é atribuída em reunião conjunta dos avaliadores.
+
+5 - Compete ao presidente do conselho executivo ou ao director da escola:
+
+a) Garantir a permanente adequação do processo de avaliação às especificidades da escola;
+
+b) Coordenar e controlar o processo de avaliação de acordo com os princípios e regras definidos no presente Estatuto.
+
+6 - Em cada escola dos 2.º e 3.º ciclos do ensino básico e do ensino secundário funciona o conselho de coordenação da avaliação constituída por cinco membros docentes do conselho pedagógico, um dos quais o seu presidente, que coordena, e os restantes quatro professores posicionados no 6.º escalão ou superior da carreira docente.
+
+7 - Nos estabelecimentos de educação, escolas do 1.º ciclo do ensino básico e nas instituições de educação e ensino especial, o conselho de coordenação da avaliação do desempenho é o previsto respectivamente nos n.os 2 e 3 do artigo 3.º do Decreto Legislativo Regional n.º 31/2006/M, de 20 de Julho.
+
+8 - Compete ao conselho de coordenação da avaliação:
+
+a) Garantir o rigor do sistema de avaliação, designadamente através da emissão de directivas para a sua aplicação;
+
+b) Validar as avaliações de Excelente, Muito bom ou Insuficiente;
+
+c) Proceder à avaliação do desempenho nos casos de ausência de avaliador e propor as medidas de acompanhamento e correcção do desempenho insuficiente;
+
+d) Emitir parecer vinculativo sobre as reclamações do avaliado.
+
+9 - No quadro das suas competências, incumbe à Inspecção Regional de Educação o acompanhamento global do processo de avaliação do pessoal.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 47.º — Processo de avaliação
+
+1 - O processo de avaliação do desempenho compreende as seguintes fases:
+
+a) Preenchimento de uma ficha de avaliação pelos avaliadores referidos no n.º 2 do artigo 46.º;
+
+b) Preenchimento pelo avaliado de uma ficha de auto-avaliação sobre os objectivos alcançados na sua prática profissional, na qual identificará a formação contínua realizada;
+
+c) Conferência e validação dos dados constantes da proposta de classificação, quando esta apresente as menções de Excelente, Muito bom e Insuficiente, pelo conselho coordenador de avaliação;
+
+d) Entrevista dos avaliadores com o avaliado para conhecimento da proposta de avaliação, apreciação e discussão do processo pelas partes do processo, em particular da ficha de auto-avaliação;
+
+e) Reunião conjunta dos avaliadores para atribuição da classificação final.
+
+2 - O processo de avaliação implica a utilização de instrumentos de registo normalizados.
+
+3 - Os modelos de impressos das fichas de avaliação e de auto-avaliação são aprovados por despacho do Secretário Regional de Educação e Cultura.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 48.º — Itens de classificação
+
+1 - A avaliação efectuada pelos titulares dos órgãos de administração e gestão dos estabelecimentos de educação e dos ensinos básico e secundário e pelo coordenador do departamento curricular e delegado de disciplina nas escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário e pelo director técnico e ou representante dos docentes no conselho técnico nas instituições de educação especial pondera o envolvimento e a qualidade científico-pedagógica do docente, com base na apreciação dos seguintes parâmetros classificativos:
+
+a) Preparação e organização das actividades lectivas;
+
+b) Realização das actividades lectivas;
+
+c) Relação pedagógica com os alunos;
+
+d) Processo de avaliação das aprendizagens dos alunos.
+
+2 - Na avaliação efectuada pelo delegado escolar, em articulação com o director, no âmbito dos estabelecimentos de educação e das escolas do 1.º ciclo do ensino básico, pelos titulares do órgão de administração e gestão dos estabelecimentos dos 2.º e 3.º ciclos do ensino básico e do ensino secundário e pelo director de serviços técnicos nas instituições de educação especial, são ponderados, em função dos elementos disponíveis, os seguintes indicadores de classificação:
+
+a) Nível de assiduidade;
+
+b) Serviço distribuído;
+
+c) Participação dos docentes na escola e apreciação do seu trabalho colaborativo em projectos conjuntos de melhoria da actividade didáctica e dos resultados das aprendizagens;
+
+d) Acções de formação contínua concluídas com aproveitamento;
+
+e) Exercício de outros cargos ou funções de natureza pedagógica;
+
+f) Dinamização de projectos de investigação, desenvolvimento e inovação educativa e sua correspondente avaliação;
+
+g) Apreciação realizada pelos pais e encarregados de educação dos alunos, desde que obtida a concordância do docente e nos termos a definir no regulamento interno da escola.
+
+3 - A classificação dos parâmetros definidos para a avaliação do desempenho deve atender a múltiplas fontes de dados através da recolha, durante o ano escolar, de todos os elementos relevantes de natureza informativa, designadamente:
+
+a) Relatórios certificativos de aproveitamento em acções de formação;
+
+b) Auto-avaliação;
+
+c) Observação de aulas;
+
+d) Análise de instrumentos de gestão curricular;
+
+e) Materiais pedagógicos desenvolvidos e utilizados;
+
+f) Instrumentos de avaliação pedagógica;
+
+g) Planificação das aulas e instrumentos de avaliação utilizados com os alunos.
+
+4 - Para efeitos do disposto na alínea c) do número anterior, deve o órgão de administração e gestão calendarizar a observação, pelos avaliadores referidos no n.º 1, de, pelo menos, três aulas leccionadas pelo docente por ano escolar.
+
+5 - Para efeitos do disposto na alínea d) do n.º 2, são consideradas as acções de formação contínua que incidam sobre conteúdos de natureza científico-didáctica com estreita ligação à matéria curricular que lecciona, bem como as relacionadas com as necessidades da escola definidas no respectivo projecto educativo ou plano de escola.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 49.º — Sistema de classificação
+
+1 - A avaliação de cada uma das componentes de classificação e respectivos subgrupos é feita numa escala de avaliação de 1 a 10, devendo as classificações ser atribuídas em números inteiros.
+
+2 - O resultado final da avaliação do docente corresponde à classificação média das pontuações obtidas em cada uma das fichas de avaliação e é expresso através das seguintes menções qualitativas:
+
+Excelente - de 9 a 10 valores;
+
+Muito bom - de 8 a 8,9 valores;
+
+Bom - de 6,5 a 7,9 valores;
+
+Regular - de 5 a 6,4 valores;
+
+Insuficiente - de 1 a 4,9 valores.
+
+3 - A atribuição da menção de Excelente deve ainda especificar os contributos relevantes proporcionados pelo avaliado para o sucesso escolar dos alunos e para a qualidade das suas aprendizagens, tendo em vista a sua inclusão numa base de dados sobre boas práticas e posterior divulgação.
+
+4 - A atribuição da menção qualitativa igual ou superior a Bom fica dependente do cumprimento de, pelo menos, 95 % das actividades lectivas em cada um dos anos do período escolar a que se reporta a avaliação.
+
+5 - O período normal de avaliação a que se refere o n.º 3 do artigo 45.º é prolongado pelo número de anos escolares em que não se verifique a condição prevista no número anterior.
+
+6 - Para o cômputo do serviço lectivo a que se refere o n.º 4, é considerada a actividade lectiva registada no horário de trabalho do docente.
+
+7 - As ausências legalmente equiparadas a serviço efectivo, nos termos do artigo 93.º, relevam para o cumprimento das actividades lectivas a que se refere o n.º 4.
+
+8 - As menções atribuídas aos docentes em regime de mobilidade na administração regional autónoma e local, nos termos do Decreto Legislativo Regional n.º 11/2005/M, de 29 de Junho, e do Decreto Regulamentar n.º 6/2006, de 20 de Junho, são convertidas nas menções referidas no n.º 2 nos seguintes termos:
+
+Excelente - de 4,5 a 5 valores em Excelente de 9 a 10 valores;
+
+Muito bom - de 4 a 4,4 valores em Muito bom de 8 a 8,9 valores;
+
+Bom - de 3 a 3,9 valores em bom de 6,5 a 7,9 valores;
+
+Necessita de desenvolvimento - de 2 a 2,9 valores em Regular de 5 a 6,4 valores;
+
+Insuficiente - de 1 a 1,9 valores em Insuficiente de 1 a 4,9 valores.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 50.º — Reclamação e recurso
+
+1 - Atribuída a avaliação final nos termos do n.º 4 do artigo 46.º, esta é imediatamente dada a conhecer ao avaliado que dela pode apresentar reclamação escrita, no prazo de 10 dias úteis.
+
+2 - A decisão de reclamação é proferida no prazo máximo de 15 dias úteis, ouvido o conselho de coordenação da avaliação.
+
+3 - Da decisão final sobre a reclamação cabe recurso para o director regional de Administração Educativa e para o director regional de Educação Especial e Reabilitação, no caso da educação especial, a interpor no prazo de 10 dias úteis contado do seu conhecimento.
+
+4 - A decisão do recurso deve ser proferida no prazo de 10 dias úteis contado da data da sua interposição.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 51.º — Efeitos da avaliação
+
+1 - A atribuição da menção qualitativa de Excelente durante dois períodos consecutivos da avaliação do desempenho determina a redução de quatro anos no tempo de serviço docente exigido para efeitos de transição para o 6.º escalão da carreira.
+
+2 - A atribuição, independentemente da ordem das menções qualitativas, de Excelente e Muito bom, durante dois períodos consecutivos reduz em três anos o tempo mínimo de serviço docente exigido para efeitos de transição para o 6.º escalão da carreira.
+
+3 - A atribuição da menção qualitativa de Muito bom durante dois períodos consecutivos reduz em dois anos o tempo mínimo de serviço docente exigido para efeitos de transição para o 6.º escalão da carreira.
+
+4 - A atribuição, independentemente da ordem, de duas menções qualitativas de Excelente e Muito bom durante dois períodos consecutivos de avaliação de desempenho, confere a bonificação de um ano para efeitos de progressão na carreira.
+
+5 - A atribuição da menção qualitativa de Bom determina:
+
+a) Que seja considerado o período de tempo a que respeita para efeitos de progressão e de transição para o 6.º escalão da carreira;
+
+b) A conversão da nomeação provisória em nomeação definitiva no termo do período probatório.
+
+6 - A atribuição da menção qualitativa de Regular ou da menção qualitativa de Insuficiente implica a não contagem do período a que respeita para efeitos de progressão ao escalão seguinte e transição para o 6.º escalão da carreira e, quando aplicável, a perda da gratificação mensal de especialização nos dois anos subsequentes à avaliação do desempenho.
+
+7 - A atribuição da menção qualitativa de Insuficiente implica:
+
+a) A não renovação ou a celebração de novo contrato;
+
+b) A impossibilidade genérica de acumulação de funções nos termos previstos no artigo 100.º;
+
+c) A cessação da nomeação provisória do docente em período probatório, no termo do referido período;
+
+d) A impossibilidade de nova candidatura, a qualquer título, à docência, no mesmo ano ou no ano escolar imediatamente subsequente àquele em que realizou o período probatório.
+
+8 - A atribuição das menções qualitativas de Regular aos docentes do quadro de nomeação definitiva ou contratados ou Insuficiente aos docentes do quadro de nomeação definitiva deve ser acompanhada de uma proposta de formação contínua que permita ao docente superar os aspectos do seu desempenho profissional identificados como negativos no respectivo processo de avaliação.
+
+9 - A atribuição ao docente provido em lugar do quadro de duas classificações consecutivas ou de três interpoladas de Insuficiente determina a não distribuição de serviço lectivo no ano imediatamente subsequente e a sujeição do mesmo ao regime de reclassificação ou de reconversão profissional nos termos da lei.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2010/M - Diário da República n.º 160/2010, Série I de 2010-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2010-343611), em vigor a partir de 2010-08-19
+
+###### Artigo 52.º — Garantias do processo de avaliação
+
+1 - Sem prejuízo das regras de publicidade previstas no presente Estatuto, o processo de avaliação tem carácter confidencial, devendo os instrumentos de avaliação de cada docente ser arquivados no respectivo processo individual.
+
+2 - Todos os intervenientes no processo, à excepção do avaliado, ficam obrigados ao dever de sigilo sobre a matéria.
+
+3 - Anualmente, e após conclusão do processo de avaliação, serão divulgados na escola os resultados globais da avaliação do desempenho de informação não nominativa, contendo o número de menções globalmente atribuídas ao pessoal docente, bem como o número de docentes não sujeitos à avaliação do desempenho.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+#### Secção III — Aquisição de outras habilitações e capacitações
+
+###### Artigo 53.º — Aquisição de outras habilitações
+
+1 - A aquisição por docentes profissionalizados, integrados na carreira, do grau académico de mestre em domínio diretamente relacionado com a área científica que lecionem, em Ciências da Educação ou noutras áreas consideradas de interesse, confere direito à redução de um ano no tempo de serviço legalmente exigido para a progressão ao escalão seguinte desde que, em qualquer caso, na avaliação do desempenho docente lhes tenha sido sempre atribuída menção qualitativa igual ou superior a Bom.
+
+2 - A aquisição por docentes profissionalizados, integrados na carreira, do grau académico de doutor em domínio diretamente relacionado com a área científica que lecionem, em Ciências da Educação ou noutras áreas consideradas de interesse, confere direito à redução de dois anos no tempo de serviço legalmente exigido para a progressão ao escalão seguinte desde que, em qualquer caso, na avaliação do desempenho docente lhes tenha sido sempre atribuída menção qualitativa igual ou superior a Bom.
+
+3 - O disposto nos números anteriores é aplicável aos docentes que, nos termos legais, foram dispensados da profissionalização.
+
+4 - As características dos mestrados e doutoramentos a que se referem os n.os 1 e 2 são definidas por portaria do Secretário Regional da Educação e Recursos Humanos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 54.º — Qualificação para o exercício de outras funções educativas
+
+1 - A qualificação para o exercício de outras funções ou actividades educativas especializadas por docentes integrados na carreira com nomeação definitiva, nos termos do artigo 36.º da Lei de Bases do Sistema Educativo, adquire-se pela frequência, com aproveitamento, de cursos de formação especializada realizados em estabelecimentos de ensino superior para o efeito competentes, nas seguintes áreas:
+
+a) Educação Especial;
+
+b) Administração Escolar;
+
+c) Administração Educacional;
+
+d) Animação Sócio-Cultural;
+
+e) Educação de Adultos;
+
+f) Orientação Educativa;
+
+g) Supervisão Pedagógica e Formação de Formadores;
+
+h) Gestão e Animação de Formação;
+
+i) Comunicação Educacional e Gestão da Informação;
+
+j) Inspecção da Educação.
+
+2 - Constitui ainda qualificação para o exercício de outras funções educativas a aquisição, por docentes profissionalizados integrados na carreira, dos graus de mestre e de doutor nas áreas referidas no número anterior, determinando a bonificação prevista no artigo 53.º
+
+3 - Podem ainda ser definidas outras áreas de formação especializada, tomando em consideração as necessidades de desenvolvimento do sistema educativo, por despacho do Secretário Regional da Educação e Recursos Humanos.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - Os cursos a que se refere o n.º 1 do presente artigo serão definidos por despacho do Secretário Regional da Educação e Recursos Humanos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 55.º — Exercício de outras funções educativas
+
+1 - O docente que se encontre qualificado para o exercício de outras funções educativas, nos termos do artigo anterior, é obrigado ao desempenho efetivo dessas mesmas funções quando para tal tenha sido eleito, designado ou contratado, salvo nos casos em que, por despacho do Secretário Regional da Educação e Recursos Humanos, sejam reconhecidos motivos atendíveis e fundamentados que o incapacitem para aquele exercício.
+
+2 - A recusa pelo docente que se encontre qualificado para o exercício de outras funções educativas, nos termos do n.º 1 do artigo anterior, do desempenho efectivo dessas mesmas funções, quando para tal tenha sido eleito, designado, nomeado ou contratado, determina, na primeira avaliação do desempenho a ela subsequente, a atribuição da menção qualitativa de Insuficiente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+### Capítulo VIII — Remunerações e outras prestações pecuniárias
+
+###### Artigo 56.º — Índices remuneratórios
+
+1 - A carreira docente é remunerada de acordo com as escalas indiciárias constantes do anexo i ao presente Estatuto, que dele faz parte integrante.
+
+2 - O valor a que corresponde o índice 100 das escalas indiciárias e índices referidos nos números anteriores é fixado por portaria conjunta do Primeiro-Ministro e do membro do Governo responsável pela área das finanças.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 57.º — Cálculo da remuneração horária
+
+A remuneração horária normal é calculada através da fórmula (Rb x 12)/(52 x N), sendo Rb a remuneração mensal fixada para o respectivo escalão e N o número de horas correspondente a trinta e cinco horas semanais, nos termos do n.º 1 do artigo 72.º
+
+###### Artigo 58.º — Remuneração por trabalho extraordinário
+
+1 - As horas de serviço docente extraordinário são compensadas por um acréscimo da retribuição horária normal de acordo com as seguintes percentagens:
+
+a) 25 % para a primeira hora semanal de trabalho extraordinário diurno;
+
+b) 50 % para as horas subsequentes de trabalho extraordinário diurno.
+
+2 - A retribuição do trabalho extraordinário nocturno é calculada através da multiplicação do valor da hora extraordinária diurna de serviço docente pelo coeficiente 1,25.
+
+###### Artigo 59.º — Gratificação de especialização
+
+1 - Os docentes qualificados para a docência em educação e ensino especial em exercício efectivo destas funções, integrados nos quadros a que se refere o artigo 3.º do Decreto Legislativo Regional n.º 10-A/2004/M, de 16 de Junho, têm direito a uma gratificação mensal de especialização de 12 % e 13 % do índice 100 referido no artigo 56.º, consoante estejam posicionados, respectivamente, até ao 5.º escalão e do 6.º ao 8.º escalão da carreira, actualizável por referência ao valor da escala indiciária do pessoal docente.
+
+2 - A gratificação prevista no número anterior não será abonada entre o termo de um ano lectivo e o início do ano lectivo seguinte.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+### Capítulo IX — Mobilidade
+
+SUBCAPÍTULO I
+
+Princípios gerais
+
+###### Artigo 60.º — Formas de mobilidade
+
+1 - São instrumentos de mobilidade dos docentes:
+
+a) O concurso;
+
+b) A permuta;
+
+c) A requisição;
+
+d) O destacamento;
+
+e) A comissão de serviço.
+
+2 - Constitui ainda uma forma de mobilidade a transição entre níveis ou ciclos de ensino e entre grupos de recrutamento.
+
+3 - Por iniciativa da administração, pode ocorrer a transferência do docente para lugar vago do quadro de outro estabelecimento escolar, independentemente de concurso, com fundamento em interesse público decorrente do planeamento e organização da rede escolar, caso em que se aplica, com as devidas adaptações, o regime de transferência por ausência de serviço docente previsto no diploma que regula os concursos para seleção e recrutamento do pessoal docente.
+
+4 - As regras de mobilidade especial aplicáveis aos docentes dos quadros sem componente lectiva atribuída são definidas por diploma próprio.
+
+5 - O disposto no presente artigo é aplicável aos docentes com contrato por tempo indeterminado em lugar do quadro de escola ou de zona pedagógica.
+
+6 - Excepcionalmente pode ser autorizada a mobilidade de docentes não integrados na carreira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 61.º — Concurso
+
+O concurso visa o preenchimento das vagas existentes nos quadros de escola ou de zona pedagógica, podendo constituir ainda um instrumento de mudança dos docentes de um para outro quadro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 62.º — Permuta
+
+1 - A permuta consiste na troca de docentes pertencentes ao mesmo nível e grau de ensino e ao mesmo grupo de recrutamento.
+
+2 - O Secretário Regional da Educação e Recursos Humanos, por portaria, fixará as condições em que poderá ser autorizado o recurso à permuta.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 63.º — Requisição
+
+1 - A requisição de docentes visa assegurar o exercício transitório de funções nos serviços da administração regional autónoma ou local.
+
+2 - A requisição pode ainda visar:
+
+a) O exercício de funções docentes em estabelecimentos dos 2.º e 3.º ciclos do ensino básico e do ensino secundário da rede pública;
+
+b) O exercício de funções docentes em estabelecimentos de ensino superior;
+
+c) O exercício de funções docentes de educação ou de ensino privado;
+
+d) O exercício de funções docentes ou técnicas junto de federações desportivas que gozem do estatuto de utilidade pública desportiva;
+
+e) O exercício temporário de funções em empresas dos sectores público, privado ou cooperativo;
+
+f) O exercício de funções técnicas em comissões e grupos de trabalho;
+
+g) O exercício de funções docentes no ensino e ou divulgação da língua e cultura portuguesas em instituições de ensino superior;
+
+h) O exercício de funções em associações exclusivamente profissionais de pessoal docente.
+
+3 - À mobilidade dos docentes entre os quadros da Região Autónoma da Madeira, da administração central e da administração da Região Autónoma dos Açores é igualmente aplicável o regime de requisição.
+
+4 - A entidade requisitante deve explicitar no seu pedido a natureza das funções a exercer pelo docente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 64.º — Destacamento
+
+O destacamento de docentes é admitido para o exercício de funções docentes em escolas e funções não docentes que revistam natureza técnico-pedagógica, nos termos do artigo 42.º, para departamentos da Secretaria Regional da Educação e Recursos Humanos e outros serviços e associações, nos termos a regulamentar por portaria do Secretário Regional da Educação e Recursos Humanos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 65.º — Duração da requisição e do destacamento
+
+1 - Os docentes podem ser requisitados ou destacados por um ano escolar prorrogável.
+
+2 - A requisição ou o destacamento podem ser dados por findos, a qualquer momento, por conveniência de serviço ou a requerimento fundamentado do docente.
+
+3 - Finda a mobilidade, o docente:
+
+a) Regressa ao quadro de origem; ou
+
+b) É reconvertido ou reclassificado em diferente carreira e categoria, de acordo com as funções que vinha desempenhando, os requisitos habilitacionais detidos, as necessidades dos serviços e o nível remuneratório que detenha, sendo integrado no serviço onde se encontra requisitado ou destacado em lugar vago do respectivo quadro ou mediante a criação de lugar, a extinguir quando vagar, aplicando-se com as devidas adaptações o disposto na lei geral.
+
+###### Artigo 66.º — Comissão de serviço
+
+1 - A comissão de serviço destina-se ao exercício de funções dirigentes na Administração Pública ou ainda de outras funções para as quais a lei exija esta forma de provimento.
+
+2 - O disposto no n.º 3 do artigo 65.º é aplicável igualmente ao pessoal docente em comissão de serviço nos termos do número anterior.
+
+###### Artigo 67.º — Autorização da mobilidade
+
+1 - A autorização do destacamento, requisição, comissão de serviço e transferência de docentes é concedida por despacho do Secretário Regional da Educação e Recursos Humanos, após parecer do órgão de administração e gestão de escola a cujo quadro pertencem.
+
+2 - A autorização prevista no número anterior deverá referir obrigatoriamente que se encontra assegurada a substituição do docente.
+
+3 - Por portaria do Secretário Regional da Educação e Recursos Humanos referida no artigo 64.º é fixado o período durante o qual devem, em cada ano escolar, ser requeridos o destacamento e a requisição de pessoal docente.
+
+4 - O destacamento, a requisição, a comissão de serviço e a transferência só produzem efeitos no início de cada ano escolar.
+
+5 - O disposto nos n.os 1 a 4 não é aplicável, em caso de nomeação para cargo dirigente, ao exercício de funções em gabinetes dos membros do Governo, ou a outras funções na Administração Pública para as quais a lei exija a mesma forma de provimento, situação em que se aplica legislação própria.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 68.º — Transição entre níveis de ensino e grupos de recrutamento
+
+1 - Os docentes podem transitar, por concurso, entre os diversos níveis ou ciclos de ensino previstos neste Estatuto e entre os grupos de recrutamento estabelecidos em legislação própria.
+
+2 - A transição fica condicionada à existência das qualificações profissionais exigidas para o nível, ciclo de ensino ou grupo de recrutamento a que o docente concorre.
+
+3 - A mudança de nível, ciclo ou grupo de recrutamento não implica por si alterações na situação jurídico-funcional já detida, contando-se, para todos os efeitos, o tempo de serviço já prestado na carreira.
+
+SUBCAPÍTULO II
+
+Exercício de funções docentes por outros funcionários
+
+### Subcapítulo II — Exercício de funções docentes por outros funcionários
+
+###### Artigo 69.º — Exercício a tempo inteiro de funções docentes
+
+1 - O exercício a tempo inteiro em escolas públicas das funções docentes nos termos do n.º 2 do artigo 32.º do presente Estatuto pode ser assegurado por outros trabalhadores no exercício de funções públicas que preencham os requisitos legalmente exigidos para o efeito, quando não exista pessoal docente devidamente qualificado e mediante a supervisão didático-pedagógica por docente a designar pelo conselho pedagógico nos estabelecimentos de educação e escolas dos 2.º e 3.º ciclos do ensino básico e do ensino secundário e pelo conselho escolar nas escolas do 1.º ciclo do ensino básico.
+
+2 - As funções docentes referidas no número anterior são exercidas em regime de requisição ou outro instrumento de mobilidade geral.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 70.º — Acumulação de funções
+
+A acumulação de cargo ou lugar da Administração Pública com o exercício de funções docentes em estabelecimentos de educação ou de ensino públicos, ao abrigo do disposto no artigo 27.º da Lei n.º 12-A/2008, de 27 de fevereiro, só é permitida nas situações de contratação nos termos do n.º 2 do artigo 32.º do presente Estatuto quando não exista pessoal docente devidamente qualificado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+### Capítulo X — Condições de trabalho
+
+### Subcapítulo I — Princípios gerais
+
+###### Artigo 71.º — Regime geral
+
+O pessoal docente rege-se em matéria de duração de trabalho, férias, faltas e licenças pelas disposições constantes dos subcapítulos seguintes.
+
+### Subcapítulo II — Duração de trabalho
+
+###### Artigo 72.º — Duração semanal
+
+1 - O pessoal docente em exercício de funções é obrigado à prestação de trinta e cinco horas semanais de serviço.
+
+2 - O horário semanal dos docentes integra uma componente lectiva e uma componente não lectiva e desenvolve-se em cinco dias de trabalho.
+
+3 - No horário de trabalho do docente é obrigatoriamente registada a totalidade das horas correspondentes à duração da respectiva prestação semanal de trabalho, com excepção da componente não lectiva destinada a trabalho individual e da participação em reuniões de natureza pedagógica.
+
+4 - Em tudo o que não se mostre especialmente regulado no presente Estatuto, é aplicável a legislação geral da função pública em matéria de horário e duração do trabalho.
+
+###### Artigo 73.º — Componente lectiva
+
+1 - A componente lectiva do pessoal docente da educação pré-escolar e do 1.º ciclo do ensino básico é de vinte e cinco horas semanais.
+
+2 - A componente lectiva do pessoal docente dos restantes ciclos e níveis de ensino, incluindo a educação especial, é de vinte e duas horas semanais.
+
+###### Artigo 74.º — Organização da componente lectiva
+
+1 - Na organização da componente lectiva será tido em conta o máximo de turmas disciplinares a atribuir a cada docente, de molde a, considerados os correspondentes programas, assegurar-lhe o necessário equilíbrio global.
+
+2 - A componente lectiva do horário do docente corresponde ao número de horas leccionadas e abrange todo o trabalho com a turma ou grupo de alunos durante o período de leccionação da disciplina ou área curricular não disciplinar.
+
+3 - Não é permitida a distribuição ao docente de mais de seis tempos lectivos consecutivos, de acordo com os períodos referidos no n.º 2 do artigo 88.º
+
+4 - Nas situações de ausência de curta duração o docente encarregue de assegurar a substituição deve ser avisado, pelo menos, no dia anterior ao início da mesma.
+
+5 - Considera-se ausência de curta duração a que não for superior a 5 dias lectivos na educação pré-escolar e no 1.º ciclo do ensino básico ou a 10 dias lectivos nos 2.º e 3.º ciclos do ensino básico e do ensino secundário.
+
+6 - Para efeitos da substituição a que se refere o n.º 4, deve ter-se em conta o seguinte:
+
+a) Preferencialmente, mediante permuta da actividade lectiva programada entre os docentes da mesma turma ou entre docentes legalmente habilitados para a leccionação da disciplina, no âmbito do departamento curricular ou do conselho escolar;
+
+b) Mediante leccionação da aula correspondente por um docente do quadro com formação adequada de acordo com o planeamento diário elaborado pelo docente titular de turma ou disciplina;
+
+c) Através da organização de actividades de enriquecimento e complemento curricular que possibilitem a ocupação educativa dos alunos, quando não for possível assegurar as actividades curriculares nas condições previstas nas alíneas anteriores.
+
+###### Artigo 75.º — Redução da componente lectiva
+
+1 - A componente lectiva do trabalho semanal a que estão obrigados os docentes dos 2.º e 3.º ciclos do ensino básico, do ensino secundário e da educação especial é reduzida até ao limite de oito horas nos termos seguintes:
+
+a) De duas horas logo que os docentes atinjam 50 anos de idade e 15 anos de serviço docente;
+
+b) De mais duas horas logo que os docentes atinjam 55 anos de idade e 20 anos de serviço docente;
+
+c) De mais quatro horas logo que os docentes atinjam 60 anos de idade e 25 anos de serviço docente.
+
+2 - A componente letiva do trabalho semanal a que estão obrigados os educadores de infância e os docentes do 1.º ciclo do ensino básico é reduzida, até ao limite de sete horas, nos termos seguintes:
+
+a) De uma hora logo que os docentes atinjam 50 anos de idade e 15 anos de serviço docente;
+
+b) De mais duas horas logo que os docentes atinjam 55 anos de idade e 20 anos de serviço docente;
+
+c) De mais quatro horas logo que os docentes atinjam 60 anos de idade e 25 anos de serviço docente.
+
+3 - [Revogado.]
+
+4 - As reduções da componente letiva previstas nos números anteriores apenas produzem efeitos no início do ano escolar imediato ao da verificação dos requisitos exigidos.
+
+5 - [Revogado.]
+
+6 - A redução da componente lectiva do horário de trabalho a que o docente tenha direito, nos termos dos números anteriores, determina o acréscimo correspondente da componente não lectiva de trabalho individual, mantendo-se a obrigatoriedade de prestação pelo docente de trinta e cinco horas de serviço semanal.
+
+7 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 30/2023/M - Diário da República n.º 144/2023, Série I de 2023-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2023-216188327), em vigor a partir de 2023-07-27
+
+###### Artigo 76.º — Exercício de outras funções pedagógicas
+
+O desempenho de cargos de natureza pedagógica, designadamente de orientação educativa e de supervisão pedagógica, dá lugar a redução da componente lectiva.
+
+###### Artigo 77.º — Dispensa da componente lectiva
+
+O regime de concessão de dispensa do cumprimento da componente lectiva ao pessoal docente em funções em estabelecimentos públicos de educação e dos ensinos básico e secundário será objecto de decreto regulamentar regional.
+
+###### Artigo 78.º — Componente não lectiva
+
+1 - A componente não letiva do pessoal docente abrange a realização de trabalho a nível individual e a prestação de trabalho a nível da escola.
+
+2 - O trabalho a nível individual pode compreender, para além da preparação das aulas e da avaliação do processo ensino-aprendizagem, a elaboração de estudos e de trabalhos de investigação de natureza pedagógica ou científico-pedagógica.
+
+3 - O trabalho desenvolvido a nível da escola deve ser desenvolvido sob orientação das respetivas estruturas pedagógicas intermédias com o objetivo de contribuir para a realização do projeto educativo da escola, podendo compreender as seguintes atividades:
+
+a) A colaboração, acompanhamento e supervisão das actividades de complemento curricular que visem promover o enriquecimento cultural e a inserção dos educandos na comunidade;
+
+b) A informação e orientação educacional dos alunos em colaboração com as famílias e com as estruturas escolares locais;
+
+c) A participação em reuniões de natureza pedagógica legalmente convocadas;
+
+d) A participação devidamente autorizada em ações de formação contínua que incidam sobre conteúdos de natureza pedagógica e científico-didática com ligação à matéria curricular lecionada, bem como as relacionadas com as necessidades de funcionamento da escola definidas no respetivo projeto educativo ou plano de escola e ainda as conexas com matérias transversais à educação;
+
+e) A realização de estudos e de trabalhos de investigação que entre outros objectivos visem contribuir para a promoção do sucesso escolar e educativo;
+
+f) A assessoria técnico-pedagógica de órgãos de administração e gestão da escola;
+
+g) O acompanhamento e apoio aos docentes em período probatório;
+
+h) O desempenho de outros cargos de coordenação pedagógica;
+
+i) A orientação e acompanhamento dos alunos nos diferentes espaços escolares;
+
+j) O apoio individual a alunos com dificuldades de aprendizagem;
+
+l) A produção de materiais pedagógicos, no âmbito do conteúdo funcional e pedagógico do docente.
+
+4 - A distribuição de serviço docente a que se refere o número anterior é determinada pelo órgão de administração e gestão, ouvido o conselho pedagógico e as estruturas de gestão intermédias, por forma a:
+
+a) Assegurar que as necessidades de acompanhamento pedagógico e disciplinar dos alunos são satisfeitas;
+
+b) Permitir a realização de actividades educativas que se mostrem necessárias à plena ocupação dos alunos durante o período de permanência no estabelecimento escolar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 79.º — Serviço docente extraordinário
+
+1 - Considera-se serviço docente extraordinário aquele que, por determinação do órgão de administração e gestão do estabelecimento de educação ou de ensino, for prestado além do número de horas das componentes lectiva e não lectiva registadas no horário semanal de trabalho do docente.
+
+2 - O docente não pode recusar-se ao cumprimento do serviço extraordinário que lhe for distribuído resultante de situações ocorridas no decurso do ano lectivo, podendo, no entanto, solicitar dispensa da respectiva prestação por motivos atendíveis.
+
+3 - O serviço docente extraordinário não pode exceder cinco horas por semana, salvo casos excepcionais devidamente fundamentados e autorizados pelo director regional de Administração Educativa.
+
+4 - O cálculo do valor da hora lectiva extraordinária tem por base a duração da componente lectiva do docente, nos termos previstos no artigo 73.º do presente Estatuto.
+
+5 - Não deve ser distribuído serviço docente extraordinário aos docentes que se encontrem ao abrigo do estatuto de trabalhador-estudante e apoio a filhos deficientes, e ainda àqueles que beneficiem de redução da componente lectiva nos termos do artigo 75.º, salvo nas situações em que tal se manifeste necessário para completar o horário semanal do docente em função da carga horária da disciplina que ministra.
+
+###### Artigo 80.º — Serviço docente nocturno
+
+1 - Considera-se serviço docente nocturno o que estiver fixado na lei geral da função pública.
+
+2 - Para efeitos de cumprimento da componente lectiva, as horas de serviço docente nocturno são bonificadas com o factor 1,5, arredondado por defeito.
+
+###### Artigo 81.º — Tempo parcial
+
+Sem prejuízo do disposto no artigo 75.º do presente Estatuto, o pessoal docente da educação pré-escolar, dos 1.º, 2.º e 3.º ciclos do ensino básico e do ensino secundário pode exercer funções em regime de tempo parcial, nos termos previstos para os demais trabalhadores em exercício de funções públicas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+### Subcapítulo III — Férias, faltas e licenças
+
+###### Artigo 82.º — Regime geral
+
+1 - Ao pessoal docente aplica-se a legislação geral em vigor na função pública em matéria de férias, faltas e licenças, com as adaptações constantes das secções seguintes.
+
+2 - Para efeitos do disposto no número anterior, entende-se por:
+
+a) 'Serviço' a escola;
+
+b) 'Dirigente e dirigente máximo' o órgão de administração e gestão da escola e, no caso dos docentes da educação especial das instituições, o diretor regional de Educação.
+
+3 - As autorizações previstas na legislação geral sobre a matéria regulada no presente subcapítulo podem ser concedidas desde que salvaguardada a possibilidade de substituição dos docentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+#### Secção I — Férias
+
+###### Artigo 83.º — Direito a férias
+
+1 - O pessoal docente tem direito em cada ano ao período de férias estabelecido na lei geral.
+
+2 - O pessoal docente contratado em efectividade de serviço à data em que termina o ano lectivo e com menos de um ano de docência tem direito ao gozo de um período de férias igual ao produto do número inteiro correspondente a dois dias e meio por mês completo de serviço prestado até 31 de Agosto pelo coeficiente 0,833, arredondado para a unidade imediatamente superior.
+
+3 - Para efeitos do disposto no número anterior, considera-se como mês completo de serviço o período de duração superior a 15 dias.
+
+###### Artigo 84.º — Período de férias
+
+1 - As férias do pessoal docente em exercício de funções são gozadas entre o termo de um ano lectivo e o início do ano lectivo seguinte.
+
+2 - Excepcionalmente e quando o número de dias de gozo de férias seja superior ao período que medeia entre o termo de um ano lectivo e o ano lectivo seguinte, o pessoal docente pode usufruir do gozo de férias nos períodos de interrupção da actividade lectiva desde que seja assegurado o funcionamento do serviço.
+
+3 - As férias podem ser gozadas num único período ou em dois interpolados, um dos quais com a duração mínima de oito dias úteis consecutivos.
+
+4 - O período ou períodos de férias são marcados tendo em consideração os interesses dos docentes e a conveniência da escola, sem prejuízo de em todos os casos ser assegurado o funcionamento das escolas.
+
+5 - Não se verificando acordo, as férias serão marcadas pelo órgão de administração e gestão da escola, nos termos previstos no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 85.º — Acumulação de férias
+
+As férias respeitantes a determinado ano podem, por conveniência de serviço ou por interesse do docente, ser gozadas no ano civil imediato, em acumulação com as vencidas neste, até ao limite de 40 dias úteis, salvaguardados os interesses da escola e mediante acordo do respetivo órgão de administração e gestão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 86.º — Interrupção do gozo de férias
+
+Durante o gozo do período de férias o pessoal docente não deve ser convocado para a realização de quaisquer tarefas.
+
+#### Secção II — Interrupção da actividade lectiva
+
+###### Artigo 87.º — Interrupção da actividade
+
+1 - Durante os períodos de interrupção da atividade letiva, a distribuição do serviço docente para cumprimento das necessárias tarefas de natureza pedagógica ou organizacional, designadamente as de avaliação e planeamento, consta de um plano elaborado pelo órgão de administração e gestão do estabelecimento da escola.
+
+2 - Na elaboração do plano referido no número anterior deve ser tido em conta que os períodos de interrupção da actividade lectiva devem ainda ser utilizados pelos docentes para a frequência de acções de formação e para a componente não lectiva de trabalho individual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+#### Secção III — Faltas
+
+###### Artigo 88.º — Conceito de falta
+
+1 - Falta é a ausência do docente durante a totalidade ou parte do período diário de presença obrigatória no estabelecimento de educação ou de ensino, no desempenho de actividade das componentes lectiva e não lectiva, ou em local a que deva deslocar-se no exercício de tais funções.
+
+2 - As faltas dadas a tempos registados no horário individual do docente são referenciadas a:
+
+a) Períodos de uma hora, tratando-se de educadores de infância e de professores do 1.º ciclo do ensino básico;
+
+b) Períodos de quarenta e cinco minutos, tratando-se de docentes dos 2.º e 3.º ciclos do ensino básico e do ensino secundário.
+
+3 - É considerado um dia de falta a ausência a um número de horas igual ao quociente da divisão por cinco do número de horas de componente letiva semanal do docente, arredondado por excesso.
+
+4 - É ainda considerada falta a um dia:
+
+a) A ausência do docente a serviço de exames;
+
+b) A ausência do docente a reuniões que visem a avaliação sumativa de alunos.
+
+5 - A ausência a outras reuniões de natureza pedagógica convocadas nos termos da lei é considerada falta do docente a dois tempos lectivos.
+
+6 - As faltas por períodos inferiores a um dia são adicionadas no decurso do ano escolar para efeitos do disposto no n.º 3.
+
+7 - As faltas a serviço de exames, bem como a reuniões que visem a avaliação sumativa de alunos, apenas podem ser justificadas por casamento, por maternidade, por nascimento, por falecimento de familiar, por doença, por doença prolongada, por acidente em serviço, por isolamento profiláctico e para cumprimento de obrigações legais, reguladas na lei geral.
+
+8 - A falta ao serviço lectivo que dependa de autorização apenas pode ser permitida quando o docente tenha apresentado ao órgão de administração e gestão da escola o plano da aula a que pretende faltar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 30/2023/M - Diário da República n.º 144/2023, Série I de 2023-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2023-216188327), em vigor a partir de 2023-07-27
+
+###### Artigo 89.º — Regresso ao serviço no decurso do ano escolar
+
+1 - O docente que, tendo passado à situação de licença sem vencimento de longa duração na sequência de doença, regresse ao serviço no decurso do ano escolar permanecerá no quadro a que pertence em funções de apoio até ao início do ano escolar seguinte.
+
+2 - O regresso ao serviço nos termos do número anterior depende de parecer favorável da junta médica convocada pela Secretaria Regional da Educação e Recursos Humanos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 90.º — Junta médica
+
+1 - Sem prejuízo das competências reconhecidas por lei à junta médica da Caixa Geral de Aposentações, a referência à junta médica prevista na lei geral e no presente Estatuto considera-se feita à junta médica convocada pela Secretaria Regional da Educação e Recursos Humanos.
+
+2 - Há ainda lugar a intervenção da junta médica convocada pela Secretaria Regional da Educação e Recursos Humanos nas situações de licença por gravidez de risco clínico previstas no n.º 1 do artigo 37.º do Código do Trabalho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 91.º — Faltas ao abrigo do Estatuto de Trabalhador-Estudante
+
+1 - É trabalhador-estudante, para efeitos do presente Estatuto, o docente que frequente a instituição de ensino superior, tendo em vista a obtenção de grau académico ou de pós-graduação e desde que esta se destine ao seu desenvolvimento profissional na docência.
+
+2 - Na organização dos horários, o órgão competente deve, sempre que possível, definir um horário de trabalho que possibilite ao docente a frequência das aulas dos cursos referidos no n.º 1 do presente artigo e a inerente deslocação para os respectivos estabelecimentos de ensino.
+
+###### Artigo 92.º — Faltas por conta do período de férias
+
+1 - O docente pode faltar dois dias úteis por mês, por conta do período de férias, até ao limite de sete dias úteis por ano.
+
+2 - As faltas previstas no presente artigo, quando dadas por docentes em período probatório, apenas podem ser descontadas nas férias do próprio ano.
+
+3 - O docente que pretenda faltar ao abrigo do disposto no presente artigo deve solicitar, com a antecedência mínima de três dias úteis, autorização escrita ao órgão de administração e gestão da respetiva escola, ou, se tal não for comprovadamente possível, no próprio dia, por participação oral, que deve ser reduzida a escrito no dia em que o docente regresse ao serviço.
+
+4 - As faltas a tempos lectivos por conta do período de férias são computadas nos termos previstos do n.º 3 do artigo 88.º, até ao limite de quatro dias, a partir do qual são consideradas faltas a um dia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 93.º — Prestação efectiva de serviço
+
+1 - Para efeitos de aplicação do disposto no presente Estatuto, consideram-se faltas equiparadas a prestação efectiva de serviço, para além das consagradas em legislação própria, ainda as seguintes:
+
+a) Assistência a filhos menores;
+
+b) Doença;
+
+c) Doença prolongada;
+
+d) Prestação de provas de avaliação por trabalhador-estudante abrangido pelo n.º 1 do artigo 91.º;
+
+e) Licença sabática e equiparação a bolseiro;
+
+f) Dispensa para formação nos termos do artigo 98.º;
+
+g) Exercício do direito à greve;
+
+h) Prestação de provas de concurso;
+
+j) As ausências não superiores a quatro horas, uma vez por trimestre, para deslocação à escola tendo em vista inteirar-se da situação educativa do filho menor.
+
+2 - São ainda equiparadas a prestação efetiva de serviço a licença em situação de risco clínico durante a gravidez, licença por interrupção de gravidez, licença parental, em qualquer das modalidades, licença por adoção e parental complementar, em qualquer das modalidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+#### Secção IV — Licenças
+
+###### Artigo 94.º — Licença sem vencimento até 90 dias
+
+1 - O docente com contrato por tempo indeterminado com, pelo menos, três anos de serviço docente pode requerer em cada ano civil licença sem vencimento até 90 dias, a gozar seguidamente.
+
+2 - A licença sem vencimento é autorizada por períodos de 30, 60 ou 90 dias.
+
+3 - O gozo de licença sem vencimento até 90 dias impede que seja requerida nova licença da mesma natureza no prazo de três anos.
+
+4 - O docente a quem a licença tenha sido concedida só pode regressar ao serviço após o gozo integral daquela.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 95.º — Licença sem vencimento por um ano
+
+1 - O gozo de licença sem vencimento por um ano pelo pessoal docente é preferencialmente coincidente com o início e o termo do ano escolar.
+
+2 - O período de tempo de licença é contado para efeitos de aposentação, sobrevivência e fruição dos benefícios da ADSE se o docente mantiver os correspondentes descontos com base na remuneração auferida à data da sua concessão.
+
+###### Artigo 96.º — Licença sem vencimento de longa duração
+
+1 - O docente com contrato por tempo indeterminado com, pelo menos, cinco anos de serviço docente efetivo pode requerer licença sem vencimento de longa duração.
+
+2 - O início e o termo da licença sem vencimento de longa duração são preferencialmente coincidentes com as datas de início e de termo do ano escolar.
+
+3 - O docente em gozo de licença sem vencimento de longa duração pode requerer, nos termos do número anterior, o regresso ao quadro de origem, numa das vagas existentes no respectivo grupo de docência ou na primeira que venha a ocorrer no quadro a que pertence.
+
+4 - Para efeitos de regresso ao quadro de origem, o docente deve apresentar o respectivo requerimento até ao final do mês de Setembro do ano lectivo anterior àquele em que pretende regressar.
+
+5 - O disposto nos números anteriores não prejudica a possibilidade de o docente se apresentar a concurso para colocação num lugar dos quadros, quando não existir vaga no quadro de origem.
+
+6 - No caso de o docente não obter colocação por concurso em lugar do quadro, mantém-se na situação de licença sem vencimento de longa duração, com os direitos previstos nos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 97.º — Licença sabática
+
+1 - Ao docente com contrato por tempo indeterminado, com avaliação do desempenho igual ou superior a Bom e, pelo menos, oito anos de tempo de serviço ininterrupto no exercício de funções docentes pode ser concedida licença sabática, pelo período de um ano escolar até ao limite de duas, nas condições a fixar por portaria do Secretário Regional da Educação e Recursos Humanos.
+
+2 - A licença sabática corresponde à dispensa da actividade docente, destinando-se à formação contínua, à frequência de cursos especializados ou para a realização de investigação aplicada que sejam incompatíveis com a manutenção do desempenho de serviço docente, privilegiando-se matérias de interesse específico e áreas prioritárias para a Região.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+#### Secção V — Dispensas
+
+###### Artigo 98.º — Dispensas para formação
+
+1 - Ao pessoal docente podem ser concedidas dispensas de serviço docente para participação em atividades de formação destinadas à respetiva atualização, nas condições a regulamentar por portaria do Secretário Regional da Educação e Recursos Humanos, com as especialidades previstas nos números seguintes.
+
+2 - As dispensas para formação da iniciativa da Secretaria Regional da Educação e Recursos Humanos ou da escola a que o docente pertence e, quando creditada ou validada, dos centros de formação da RAM são concedidas preferencialmente na componente não letiva do horário do docente.
+
+3 - Sem prejuízo do disposto no número seguinte, a formação de iniciativa do docente é autorizada preferencialmente durante os períodos de interrupção da actividade lectiva.
+
+4 - Quando for comprovadamente inviável ou insuficiente a utilização das interrupções letivas, a formação a que se refere o número anterior pode ser realizada nos períodos destinados ao exercício da componente não letiva até ao limite de dez horas por ano escolar.
+
+5 - A dispensa a que se refere o presente artigo não pode exceder, por ano escolar, cinco dias úteis seguidos ou oito interpolados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+> Retificado pelo/a [Declaração de Rectificação n.º 21/2008 - Diário da República n.º 81/2008, Série I de 2008-04-24](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/21-2008-249550), em vigor a partir de 2008-02-26
+
+#### Secção VI — Equiparação a bolseiro
+
+###### Artigo 99.º — Equiparação a bolseiro
+
+1 - A concessão da equiparação a bolseiro ao pessoal docente com contrato por tempo indeterminado, com avaliação do desempenho igual ou superior a Bom e com pelo menos cinco anos de tempo de serviço ininterrupto no exercício de funções docentes rege-se pelo disposto nos Decretos-Leis n.os 272/88, de 3 de agosto, e 282/89, de 23 de agosto, com as especialidades constantes de portaria do Secretário Regional da Educação e Recursos Humanos, privilegiando-se matérias de interesse específico e áreas prioritárias para a Região.
+
+2 - O período máximo pelo qual for concedida a equiparação a bolseiro, incluindo a autorizada a tempo parcial, é deduzido em 50 % na redução de tempo de serviço prevista no artigo 53.º
+
+3 - A concessão de equiparação a bolseiro não pode anteceder ou suceder à licença sabática sem que decorra um período mínimo de dois anos escolares de intervalo.
+
+4 - O docente que tiver beneficiado do estatuto de equiparação a bolseiro é obrigado a prestar a sua actividade efectiva na Região pelo número de anos correspondente à totalidade do período de equiparação que lhe foi concedido, no ano imediatamente a seguir ao gozo de equiparação a bolseiro.
+
+5 - O não cumprimento do estabelecido no número anterior retira a possibilidade de concessão de nova equiparação e obriga à reposição de todos os vencimentos percebidos pelo docente durante o período em que beneficiou desta condição.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+#### Secção VII — Acumulação
+
+###### Artigo 100.º — Acumulações
+
+1 - Aos docentes integrados na carreira com a avaliação de desempenho mínima de Bom pode ser autorizada a acumulação do exercício de funções docentes em escolas com atividades de caráter ocasional que possam ser consideradas como complemento da atividade docente.
+
+2 - A acumulação do exercício de funções docentes em outras escolas só pode ser autorizada num quadro de excecionalidade atendendo aos quadros da Região e ao número de candidatos opositores ao concurso de professores.
+
+3 - Consideram-se impossibilitados de acumular outras funções os docentes que se encontrem em qualquer das seguintes situações:
+
+a) Em período probatório;
+
+b) (Revogada);
+
+c) Em situação de licença sabática ou de equiparação a bolseiro.
+
+4 - O regime de acumulação a que se referem os números anteriores é igualmente aplicável aos docentes em regime de contrato e horário completo.
+
+5 - Por portaria conjunta do Secretário Regional da Educação e Recursos Humanos e do membro do Governo responsável pela Administração Pública, são fixados os termos e as condições em que é permitida a acumulação referida nos números anteriores bem como a acumulação com funções não docentes.
+
+6 - Em tudo o que não se encontrar especialmente previsto no presente Estatuto é aplicável o regime geral de acumulações e incompatibilidades dos trabalhadores em exercício de funções públicas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+### Capítulo XI — Regime disciplinar
+
+###### Artigo 101.º — Princípio geral
+
+Ao pessoal docente é aplicável o Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas, aprovado pela Lei n.º 58/2008, de 9 de setembro, com as adaptações que a seguir se preveem.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 102.º — Responsabilidade disciplinar
+
+1 - Os docentes são disciplinarmente responsáveis perante o órgão de administração e gestão da escola onde prestam funções e os docentes da educação especial em exercício de funções nas instituições de educação especial são disciplinarmente responsáveis perante o respetivo diretor técnico.
+
+2 - Os membros do órgão de administração e gestão das escolas são disciplinarmente responsáveis perante o diretor regional dos Recursos Humanos e da Administração Educativa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 103.º — Infracção disciplinar
+
+Constitui infracção disciplinar a violação, ainda que meramente culposa, de algum dos deveres gerais ou específicos que incumbem ao pessoal docente.
+
+###### Artigo 104.º — Processo disciplinar
+
+1 - A instauração de processo disciplinar é da competência do órgão de administração e gestão da escola.
+
+2 - Sendo o arguido membro do órgão de administração e gestão da escola, a competência cabe ao diretor regional dos Recursos Humanos e da Administração Educativa.
+
+3 - Sendo diretor técnico de instituição de educação especial, a competência referida no número anterior cabe ao diretor regional de Educação.
+
+4 - A instauração de processo disciplinar em consequência de acções inspectivas da Inspecção Regional de Educação é da competência do respectivo director.
+
+5 - A nomeação do instrutor é da competência da entidade que mandar instaurar o processo disciplinar, nos termos do artigo 42.º do Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas.
+
+6 - Nas situações a que se refere o n.º 1 do artigo 102.º a instrução dos processos disciplinares faz-se nos seguintes termos:
+
+a) Quando se trate de pessoal docente dos estabelecimentos de educação e do 1.º ciclo do ensino básico e de docentes da educação especial a exercer funções nesses estabelecimentos, os processos disciplinares são instruídos pela Inspecção Regional de Educação;
+
+b) Quando se trate de pessoal docente dos estabelecimentos dos 2.º e 3.º ciclos do ensino básico e do ensino secundário e de docentes da educação especial a exercer funções nesses estabelecimentos de ensino e enquanto a escola não dispuser de assessoria jurídica, o director/presidente do conselho executivo pode solicitar à Inspecção Regional de Educação a instrução dos processos disciplinares durante os dois primeiros anos contados a partir da data de entrada em vigor do presente Estatuto;
+
+c) Quando se tratar de docentes de instituição de educação especial os processos disciplinares são instruídos pela Inspecção Regional de Educação.
+
+7 - No caso previsto no n.º 2 do artigo 102.º, a Direção Regional dos Recursos Humanos e da Administração Educativa deverá dar conhecimento à Inspeção Regional de Educação para efeitos de instrução do processo.
+
+8 - A suspensão preventiva é proposta pelo órgão de administração e gestão da escola ou pelo instrutor do processo e decidida pelo diretor regional dos Recursos Humanos e da Administração Educativa ou pelo Secretário Regional da Educação e Recursos Humanos, conforme o arguido seja docente ou membro do órgão de administração e gestão do estabelecimento da escola.
+
+9 - (Revogado.)
+
+10 - Nas situações de instituição de educação especial, a suspensão preventiva é proposta pelo diretor técnico e decidida pelo diretor regional de Educação ou pelo Secretário Regional da Educação e Recursos Humanos, conforme o arguido seja docente ou diretor de instituição.
+
+11 - O prazo previsto no n.º 1 do artigo 45.º do Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas pode ser prorrogado até ao final do ano letivo, sob proposta da entidade competente para instaurar o processo disciplinar ou do instrutor do processo e com os fundamentos previstos na lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 105.º — Aplicação das penas
+
+1 - A aplicação da pena de repreensão escrita é da competência do órgão de administração e gestão da escola.
+
+2 - A aplicação das penas de multa, suspensão e inatividade é da competência do diretor regional dos Recursos Humanos e da Administração Educativa e, no caso dos docentes de instituição de educação especial, do diretor regional de Educação.
+
+3 - A aplicação das penas expulsivas é da competência do Secretário Regional da Educação e Recursos Humanos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 106.º — Aplicação de penas aos contratados
+
+1 - A aplicação de pena disciplinar de suspensão a docentes não pertencentes aos quadros determina a não renovação do contrato, podendo implicar a imediata cessação do contrato se o período de afastamento da função docente for igual ou superior ao período durante o qual, no âmbito desse contrato, prestou funções.
+
+2 - A aplicação de penas disciplinares expulsivas a docentes não pertencentes aos quadros determina a incompatibilidade para o exercício de funções docentes nos estabelecimentos de educação ou de ensino.
+
+### Capítulo XII — Aposentação
+
+###### Artigo 107.º — Regime de aposentação
+
+São aplicáveis ao pessoal docente os Estatutos da Aposentação e das Pensões de Sobrevivência dos Funcionários e Agentes da Administração Pública.
+
+### Capítulo XIII — Disposições finais
+
+###### Artigo 108.º — Educadores de infância e professores do ensino primário
+
+1 - As disposições constantes do presente Estatuto, bem como os efeitos delas decorrentes, previstas para os docentes profissionalizados com bacharelato são igualmente aplicáveis a todos os educadores de infância e professores do ensino primário em exercício de funções.
+
+2 - Aos actuais educadores de infância e professores do ensino primário portadores de habilitação profissional e de habilitação académica que ao tempo em que foi obtida fosse considerada como suficiente para o acesso ao ensino superior é concedida equivalência ao bacharelato para efeitos de candidatura a prosseguimento de estudos.
+
+###### Artigo 109.º — Contagem do tempo de serviço
+
+1 - Sem prejuízo do disposto nos n.os 2 e 3, a contagem do tempo de serviço do pessoal docente, incluindo o prestado em regime de tempo parcial, considerado para efeitos de antiguidade, obedece às regras gerais aplicáveis aos demais trabalhadores em exercício de funções públicas.
+
+2 - A contagem do tempo de serviço para efeitos de progressão na carreira docente obedece ainda ao disposto nos artigos 40.º, 42.º, 53.º e 54.º, todos do presente Estatuto.
+
+3 - A contagem do tempo de serviço do pessoal docente é feita por ano escolar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 110.º — Docentes dos ensinos particular e cooperativo
+
+1 - O ingresso na carreira dos docentes oriundos do ensino particular e cooperativo efetua-se para o escalão da carreira que lhes competiria caso tivessem ingressado nas escolas da rede pública desde que verificados os requisitos de tempo de serviço nos termos do presente Estatuto, em termos a definir por portaria do Secretário Regional da Educação e Recursos Humanos.
+
+2 - O período probatório realizado no ensino particular e cooperativo é válido para efeitos de provimento definitivo na carreira docente quando realizado mediante validação do Secretário Regional da Educação e Recursos Humanos, nos termos e condições a definir por portaria do membro do Governo responsável pela área de educação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+###### Artigo 111.º — Direito subsidiário
+
+Em tudo o que não esteja especialmente regulado e não contrarie o disposto no presente Estatuto e respectiva legislação complementar, são aplicáveis, com as devidas adaptações, as disposições constantes da legislação geral da função pública.
+
+## Anexo I — (do Estatuto)
+
+Índices remuneratórios a que se referem os n.os 2 do artigo 37.º e 1 do artigo 56.º do Estatuto
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 20/2012/M - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2012-174791), em vigor a partir de 2012-08-30
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 17/2010/M - Diário da República n.º 160/2010, Série I de 2010-08-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2010-343611), em vigor a partir de 2010-08-19
+
+## Anexo II — (do presente decreto legislativo regional)
+
+Índices dos professores em profissionalização a que se refere o n.º 10 do artigo 3.º do presente decreto legislativo regional
+
+Com habilitação própria que confere licenciatura - 136.
+
+Com habilitação própria que confere bacharelato - 99.

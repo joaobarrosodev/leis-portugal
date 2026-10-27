@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:258536:por
+title: Decreto do Presidente da República n.º 43/2013
+short_title: null
+summary: Nomeia o Capitão-de-mar-e-guerra da classe de Marinha Jorge Manuel Novo Palma para o cargo de Comandante da Força
+  Naval da União Europeia (CTF465), no período de 06 de abril a 06 de agosto de 2013
+jurisdiction: portugal
+territory: null
+document_type: decreto-presidente-republica
+document_type_label: Decreto do Presidente da República
+issuing_authority:
+- Presidência da República
+proposing_entity: null
+official_number: 43/2013
+official_date: null
+publication_date: '2013-02-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 35/2013, Série I de 2013-02-19
+  number: '35'
+  series: I
+  supplement: null
+  pages: 1031 - 1031
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03500/0103101031.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decpresrep/43/2013/02/19/p/dre/pt/html
+  oj: null
+  dre: '258536'
+  dre_path: /dr/detalhe/decreto-presidente-republica/43-2013-258536
+  internal: pt:dre:258536:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/43-2013-258536
+  metadata_url: https://data.dre.pt/eli/decpresrep/43/2013/02/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/43-2013-258536
+  consolidated_url: null
+  retrieved_at: '2026-10-23T05:17:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3ba22267f71f55a663854bc9157d2d5110c60066f51628966fe1e770a4a2df7e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T05:17:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comandante
+- Força Naval
+- Nomeação
+- União Europeia
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T05:17:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Presidente da República n.º 43/2013
+
+de 19 de fevereiro
+
+O Presidente da República decreta, nos termos da alínea c) do nº 2 do artigo 24º da Lei Orgânica nº 1-A/2009, de 7 de Julho, o seguinte:
+
+É nomeado, sob proposta do Governo, formulada após iniciativa do Chefe do Estado-Maior-General das Forças Armadas e aprovada pelo Conselho Superior de Defesa Nacional, o Capitão-de-mar-e-guerra da classe de Marinha Jorge Manuel Novo Palma para o cargo de Comandante da Força Naval da União Europeia (CTF465), no período de 06 de abril a 06 de agosto de 2013.
+
+Assinado em 14 de fevereiro de 2013.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.

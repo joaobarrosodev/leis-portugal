@@ -1,0 +1,382 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:247449:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-175009736",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/4-2008-247449",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-02-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175012497",
+    "175012498",
+    "175012499",
+    "175012500",
+    "175012501",
+    "175012502",
+    "175012503",
+    "175012504"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:544588:por",
+     "title": "Decreto Legislativo Regional n.º 3/2012/A",
+     "published": "2012-01-13",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2012-544588",
+     "date": "2012-01-01"
+    }
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:260390:por",
+     "title": "Decreto Legislativo Regional n.º 2/2013/A",
+     "published": "2013-04-22",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2013-260390"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "175012497",
+    "175012511",
+    "175012512",
+    "175012500",
+    "175012501",
+    "175012502",
+    "175012503",
+    "175012504",
+    "175012505"
+   ]
+  },
+  {
+   "date": "2016-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73070297:por",
+     "title": "Decreto Legislativo Regional n.º 1/2016/A",
+     "published": "2016-01-08",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2016-73070297"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "175012497",
+    "175012511",
+    "175012522",
+    "175012500",
+    "175012501",
+    "175012502",
+    "175012503",
+    "175012504",
+    "175012505"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117612825:por",
+     "title": "Decreto Legislativo Regional n.º 1/2019/A",
+     "published": "2019-01-07",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2019-117612825"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "175012497",
+    "175012539",
+    "175012540",
+    "175012500",
+    "175012501",
+    "175012502",
+    "175012503",
+    "175012504",
+    "175012505"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:127816253:por",
+     "title": "Decreto Legislativo Regional n.º 1/2020/A",
+     "published": "2020-01-08",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2020-127816253"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "175012497",
+    "175012539",
+    "175012557",
+    "175012500",
+    "175012501",
+    "175012502",
+    "175012503",
+    "175012504",
+    "175012505"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174969200:por",
+     "title": "Decreto Legislativo Regional n.º 35/2021/A",
+     "published": "2021-11-26",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/35-2021-174969200"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "175012497",
+    "175012185",
+    "175012186",
+    "175012187",
+    "175012188",
+    "175012189",
+    "175012190",
+    "175012504",
+    "175012505"
+   ]
+  }
+ ],
+ "fragments": {
+  "175012497": {
+   "fragment_id": "175009737",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 4/2008/A\n\nCria o complemento para aquisição de medicamentos pelos idosos (COMPAMID)\n\nApesar do esforço desenvolvido para actualização do valor das pensões, alguns idosos continuam a usufruir de rendimentos consideravelmente baixos. Constata-se assim que os pensionistas constituem um grupo de elevado risco de pobreza, em consequência dos baixos rendimentos associado ao elevado e crónico consumo de medicação.\n\nCom base neste reconhecimento, é criado o regime de apoio aos pensionistas, com pensões de valor inferior ao rendimento mínimo em vigor na Região Autónoma dos Açores, destinado especificamente à compra de medicamentos, denominado complemento para aquisição de medicamentos pelos idosos (COMPAMID).\n\nEste regime de apoio corresponde a uma percentagem da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores e tem periodicidade anual, sendo por isso actualizado anualmente, de acordo com a actualização da retribuição mínima mensal.\n\nO complemento é pessoal e intransmissível e destina-se exclusivamente à aquisição de medicamentos, de preferência genéricos, prescritos no âmbito do Serviço Regional de Saúde.\n\nA gestão do complemento para aquisição de medicamentos pelos idosos compete ao departamento do Governo Regional com competência em matéria de segurança social.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "175012498": {
+   "fragment_id": "175009738",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto legislativo regional estabelece as condições de emissão e atribuição do complemento para aquisição de medicamentos pelos idosos, adiante designado por COMPAMID.\n\n2 - O COMPAMID destina-se exclusivamente ao pagamento, pelos utentes do Serviço Regional de Saúde, de medicamentos, sempre que possível genéricos, prescritos em receita médica no âmbito daquele Serviço.\n\n3 - Sem prejuízo do disposto no número anterior, o COMPAMID constitui um complemento de pensão."
+  },
+  "175012499": {
+   "fragment_id": "175009739",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\nBeneficiam do disposto no presente diploma os pensionistas residentes na Região Autónoma dos Açores, com idade igual ou superior a 65 anos, que aufiram rendimentos que não ultrapassem anualmente doze vezes o valor da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores."
+  },
+  "175012500": {
+   "fragment_id": "175009740",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência\n\n1 - A emissão e atribuição do COMPAMID compete ao departamento do Governo Regional com competência em matéria de segurança social, em termos a regulamentar.\n\n2 - O COMPAMID tem periodicidade anual e é atribuído com a pensão do mês de Maio.\n\n3 - O valor do COMPAMID é de 50 % da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, sendo anualmente actualizável em função da actualização da mesma."
+  },
+  "175012501": {
+   "fragment_id": "175009741",
+   "type": 11,
+   "heading": "Artigo 4.º — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Emissão\n\n1 - O COMPAMID é emitido em documento próprio, que deve identificar, nomeadamente, o beneficiário da segurança social e o ano a que respeita.\n\n2 - O COMPAMID deve prever a existência de um campo, com várias partições idênticas, que se destinam a ser preenchidas com os seguintes elementos informativos:\n\na) Indicação da data de cada utilização na aquisição de medicamentos;\n\nb) Indicação do montante de cada utilização;\n\nc) Saldo remanescente após cada utilização;\n\nd) Identificação da farmácia onde cada utilização é efectuada.\n\n3 - O preenchimento dos elementos referidos no número anterior é da responsabilidade da farmácia em que o COMPAMID é utilizado.\n\n4 - O modelo do documento referido no n.º 1 é aprovado por portaria do Secretário Regional competente em matéria de segurança social."
+  },
+  "175012502": {
+   "fragment_id": "175009742",
+   "type": 11,
+   "heading": "Artigo 5.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Encargos\n\nOs encargos decorrentes da aplicação deste diploma enquadram-se no disposto no artigo 24.º do decreto legislativo regional que aprova o Orçamento da Região Autónoma dos Açores para 2008."
+  },
+  "175012503": {
+   "fragment_id": "175009743",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\nO presente decreto legislativo regional deve ser regulamentado no prazo de 45 dias a contar da sua publicação."
+  },
+  "175012504": {
+   "fragment_id": "175009744",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto legislativo regional entra em vigor com o Orçamento da Região Autónoma dos Açores para o ano de 2008.\n\nAprovado, por unanimidade, pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 24 de Janeiro de 2008."
+  },
+  "175012511": {
+   "fragment_id": "175009738",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto legislativo regional estabelece as condições de emissão e atribuição do complemento para aquisição de medicamentos pelos idosos, adiante designado por COMPAMID.\n\n2 - O COMPAMID destina-se exclusivamente ao pagamento, pelos utentes do Serviço Regional de Saúde, de medicamentos genéricos, ou de medicamentos de marca quando, comprovadamente, não exista no mercado medicamentos genéricos, com igual dosagem e na mesma forma farmacêutica do medicamento de marca, prescritos em receita médica no âmbito daquele Serviço.\n\n3 - Sem prejuízo do disposto no número anterior, o COMPAMID constitui um complemento de pensão.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+  },
+  "175012512": {
+   "fragment_id": "175009739",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\n1 - Beneficiam do disposto no presente diploma os pensionistas residentes na Região Autónoma dos Açores, com idade igual ou superior a 65 anos de idade, que aufiram um rendimento per capita que não ultrapasse anualmente 12 vezes o valor da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, apurado de acordo com a última declaração de IRS disponível.\n\n2 - Para efeitos do disposto no número anterior, são contabilizados os rendimentos da pessoa que viva com o beneficiário em união de facto, ainda que não tenha optado pelo regime da tributação dos sujeitos passivos casados e não separados judicialmente de pessoas e bens.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+  },
+  "175012505": {
+   "fragment_id": "175009745",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 14 de Fevereiro de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  },
+  "175012522": {
+   "fragment_id": "175009739",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 2/2013/A - Diário da República n.º 78/2013, Série I de 2013-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\n1 - Beneficiam do disposto no presente diploma os pensionistas residentes na Região Autónoma dos Açores, com idade igual ou superior a 65 anos de idade, que aufiram um rendimento per capita que não ultrapasse anualmente 12 vezes o valor da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, apurado de acordo com a última declaração de IRS disponível.\n\n2 - Para efeitos do disposto no número anterior, são contabilizados os rendimentos da pessoa que viva com o beneficiário em união de facto, ainda que não tenha optado pelo regime da tributação dos sujeitos passivos casados e não separados judicialmente de pessoas e bens.\n\n3- Os pensionistas doentes, portadores de Alzheimer e Machado-Joseph beneficiam do disposto no n.º 1 do presente artigo, independentemente da sua idade.\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 2/2013/A - Diário da República n.º 78/2013, Série I de 2013-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+  },
+  "175012539": {
+   "fragment_id": "175009738",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto legislativo regional estabelece as condições de emissão e atribuição do complemento para aquisição de medicamentos, adiante designado por COMPAMID.\n\n2 - O COMPAMID destina-se exclusivamente ao pagamento, pelos utentes do Serviço Regional de Saúde, de medicamentos genéricos, ou de medicamentos de marca quando, comprovadamente, não exista no mercado medicamentos genéricos, com igual dosagem e na mesma forma farmacêutica do medicamento de marca, prescritos em receita médica no âmbito daquele Serviço.\n\n3 - Sem prejuízo do disposto no número anterior, o COMPAMID constitui um complemento de pensão.\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+  },
+  "175012540": {
+   "fragment_id": "175009739",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 2/2013/A - Diário da República n.º 78/2013, Série I de 2013-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\n1 - Beneficiam do disposto no presente diploma os pensionistas residentes na Região Autónoma da Açores, com idade igual ou superior a sessenta e cinco anos de idade e os titulares de pensões de invalidez independentemente da sua idade, que aufiram um rendimento per capita que não ultrapasse anualmente 12 vezes o valor da retribuição mínima mensal garantida em vigor na Região Autónoma da Açores, apurado de acordo com a última declaração de IRS disponível.\n\n2 - Para efeitos do disposto no número anterior, são contabilizados os rendimentos da pessoa que viva com o beneficiário em união de facto, ainda que não tenha optado pelo regime da tributação dos sujeitos passivos casados e não separados judicialmente de pessoas e bens.\n\n3- Os pensionistas doentes, portadores de Alzheimer e Machado-Joseph beneficiam do disposto no n.º 1 do presente artigo, independentemente da sua idade.\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 2/2013/A - Diário da República n.º 78/2013, Série I de 2013-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+  },
+  "175012557": {
+   "fragment_id": "175009739",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 62.º do/a [Decreto Legislativo Regional n.º 1/2019/A - Diário da República n.º 4/2019, Série I de 2019-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2019-117612825), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 2/2013/A - Diário da República n.º 78/2013, Série I de 2013-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\n1 - Beneficiam do disposto no presente diploma os pensionistas residentes na Região Autónoma dos Açores, com idade igual ou superior a sessenta e cinco anos ou que, independentemente da sua idade, sejam titulares de prestação social para a inclusão cujo grau de incapacidade atribuído por atestado médico multiusos seja igual ou superior a 80 % ou de pensões de invalidez, e que aufiram um rendimento per capita que não ultrapasse anualmente catorze vezes o valor da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, apurado de acordo com a última declaração de IRS disponível.\n\n2 - Para efeitos do disposto no número anterior, são contabilizados os rendimentos da pessoa que viva com o beneficiário em união de facto, ainda que não tenha optado pelo regime da tributação dos sujeitos passivos casados e não separados judicialmente de pessoas e bens.\n\n3- Os pensionistas doentes, portadores de Alzheimer e Machado-Joseph beneficiam do disposto no n.º 1 do presente artigo, independentemente da sua idade.\n\n> Alterado pelo/a Artigo 62.º do/a [Decreto Legislativo Regional n.º 1/2019/A - Diário da República n.º 4/2019, Série I de 2019-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2019-117612825), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 2/2013/A - Diário da República n.º 78/2013, Série I de 2013-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+  },
+  "175012185": {
+   "fragment_id": "175009738",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto legislativo regional estabelece as condições de emissão e atribuição do complemento para aquisição de medicamentos, adiante designado por COMPAMID.\n\n2 - O COMPAMID destina-se exclusivamente ao pagamento, aos utentes dos serviços de saúde, incluindo estes o Serviço Nacional de Saúde e ou os Serviços Regionais de Saúde, de medicamentos genéricos ou de medicamentos de marca quando, comprovadamente, não existam no mercado medicamentos genéricos, com igual dosagem e na mesma forma farmacêutica do medicamento de marca, prescritos em receita médica no âmbito daqueles serviços.\n\n3 - Sem prejuízo do disposto no número anterior, o COMPAMID constitui um complemento de pensão.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+  },
+  "175012186": {
+   "fragment_id": "175009739",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 64.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 62.º do/a [Decreto Legislativo Regional n.º 1/2019/A - Diário da República n.º 4/2019, Série I de 2019-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2019-117612825), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01",
+    "Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 2/2013/A - Diário da República n.º 78/2013, Série I de 2013-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\n1 - Beneficiam do disposto no presente diploma os pensionistas com residência permanente na Região Autónoma dos Açores, com idade igual ou superior a 65 anos ou que, independentemente da sua idade, sejam titulares de prestação social para a inclusão, cujo grau de incapacidade atribuído por atestado médico multiusos seja igual ou superior a 80 %, ou de pensões de invalidez, e que aufiram um rendimento per capita que não ultrapasse anualmente catorze vezes o valor da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, apurado de acordo com a última declaração de IRS disponível.\n\n2 - Para efeitos do disposto no número anterior, são contabilizados os rendimentos da pessoa que viva com o beneficiário em união de facto, ainda que não tenha optado pelo regime da tributação dos sujeitos passivos casados e não separados judicialmente de pessoas e bens.\n\n3 - Para efeitos do disposto no n.º 1, entende-se por residência permanente a residência na Região Autónoma dos Açores ou permanência no respetivo território por mais de 183 dias, naquela se situando a sua residência habitual e que aí esteja registado para efeitos fiscais.\n\n4 - Os beneficiários de pensões sociais que transitaram para a prestação social de inclusão, que não dispõe de atestado médico multiusos, também podem beneficiar do disposto no presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 62.º do/a [Decreto Legislativo Regional n.º 1/2019/A - Diário da República n.º 4/2019, Série I de 2019-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2019-117612825), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto Legislativo Regional n.º 2/2013/A - Diário da República n.º 78/2013, Série I de 2013-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-260390), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto Legislativo Regional n.º 3/2012/A - Diário da República n.º 10/2012, Série I de 2012-01-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2012-544588), em vigor a partir de 2012-01-01"
+  },
+  "175012187": {
+   "fragment_id": "175009740",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 64.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Competência\n\n1 - A emissão e atribuição do COMPAMID compete ao departamento do Governo Regional com competência em matéria de segurança social.\n\n2 - O COMPAMID tem periodicidade anual e é atribuído no mês de novembro, vigorando até outubro.\n\n3 - O valor mínimo do COMPAMID é de 50 % da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, sendo anualmente atualizável em função da atualização da mesma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-01"
+  },
+  "175012188": {
+   "fragment_id": "175009741",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 64.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Procedimentos\n\n1 - A atribuição do COMPAMID é confirmada através de comunicação a remeter aos beneficiários que reúnam as condições de atribuição, em cada ciclo anual, nos termos previstos no presente diploma, a efetuar através dos meios seguintes:\n\na) Correio eletrónico com recibo de entrega da notificação;\n\nb) Mensagem SMS;\n\nc) Ofício postal;\n\nd) Entrega pessoal.\n\n2 - Para usufruir do complemento o beneficiário do COMPAMID deve dirigir-se a farmácia da sua escolha e solicitar a medicação prescrita, no âmbito dos serviços de saúde.\n\n3 - No momento da aquisição de medicamentos, o beneficiário suporta, apenas, a parte que lhe cabe suportar, descontados os valores comparticipados pelos serviços de saúde e pela Segurança Social.\n\n4 - A comparticipação nas despesas com medicamentos aos beneficiários do COMPAMID é da responsabilidade do departamento do Governo Regional com competência em matéria de segurança social.\n\n5 - Para efeitos do disposto no número anterior, o departamento do Governo Regional com competência em matéria de segurança social regulamenta, por portaria, todos os procedimentos necessários, por forma a garantir que, quando o beneficiário da medida se dirija a uma farmácia, lhe seja aplicado, de imediato, o desconto relativo à comparticipação assegurada pelo COMPAMID, e que o respetivo registo seja efetuado e processado por forma a que a farmácia seja posteriormente reembolsada em conformidade.\n\n6 - Os beneficiários que reúnam as condições de atribuição depois da data de apuramento oficioso em cada ciclo anual, podem requerer o COMPAMID antes do novo ciclo de atribuição, mediante requerimento e apresentação de declaração de IRS à segurança social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 64.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), em vigor a partir de 2020-01-01"
+  },
+  "175012189": {
+   "fragment_id": "175009742",
+   "type": 11,
+   "heading": "Artigo 5.º — Encargos",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Encargos\n\nOs encargos decorrentes da aplicação do presente diploma enquadram-se no disposto no decreto legislativo regional que aprova o Orçamento da Região Autónoma dos Açores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01"
+  },
+  "175012190": {
+   "fragment_id": "175009743",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\nO presente decreto legislativo regional deve ser regulamentado no prazo de 45 dias a contar da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 35/2021/A - Diário da República n.º 230/2021, Série I de 2021-11-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/35-2021-174969200), em vigor a partir de 2022-01-01"
+  }
+ }
+}

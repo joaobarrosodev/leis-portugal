@@ -1,0 +1,341 @@
+---
+schema_version: '1.0'
+id: pt:dre:461593:por
+title: Decreto-Lei n.º 435/80
+short_title: null
+summary: Introduz alterações ao sistema de concessão de crédito e de incentivos financeiros à habitação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 435/80
+official_date: null
+publication_date: '1980-10-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 228/1980, Série I de 1980-10-02
+  number: '228'
+  series: I
+  supplement: null
+  pages: 3093 - 3096
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/10/22800/30933096.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '461593'
+  dre_path: /dr/detalhe/decreto-lei/435-1980-461593
+  internal: pt:dre:461593:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1980-461593
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/435-1980-461593
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:32:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 66cf19abf05bb0d3e48ff262b6ad7cbef6fbc8f2522042f16eb4f4f06ca9a125
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:32:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Benefícios Fiscais
+- Crédito à Habitação
+- Habitação
+relationships:
+- type: amended_by
+  target: pt:dre:583436:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:457610:por
+  label: "Alterado o art. 22º pelo DEC LEI.535/80.07.11.1980.MFP, DR.IS [258] de 07.11.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/535-1980-457610
+  date: '1980-11-07'
+- type: amended_by
+  target: pt:dre:394536:por
+  label: Mantido em vigor pelo(a) Decreto-Lei n.º 263/82 - Diário da República n.º 154/1982, Série I de 1982-07-07, que determinou
+    que o disposto no capítulo II, sobre o regime de benefícios financeiros adicionais, deixaria de vigorar em 31.12.1982,
+    sem prejuízo da sua aplicabilidade aos casos pendentes
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/263-1982-394536
+  date: '1982-07-07'
+- type: amended_by
+  target: pt:dre:441165:por
+  label: "Determinada a manutenção do regime estabelecido no presente diploma, pelo DEC LEI.373/83.06.10.1983.MFP, DR.IS [230]\
+    \ de 06.10.1983, nos termos do seu artigo único.\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-1983-441165
+  date: '1983-10-06'
+- type: cites
+  target: pt:dre:279595:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314074:por
+  label: "Revogado pelo DEC LEI.459/83.1983.12.30.MFP, DR.IS [300]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/459-1983-314074
+  date: '1983-12-30'
+article_structure:
+  article_count: 28
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:32:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 435/80
+
+de 2 de Outubro
+
+A Resolução do Conselho de Ministros de 24 de Fevereiro de 1976 e, na sua sequência, o [Decreto-Lei n.º 515/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1977-279595), de 14 de Dezembro, criaram um sistema de incentivos à aquisição ou construção de habitação própria caracterizado por: existência de uma bonificação, sob a forma de dedução, à taxa de juro contratual, de uma margem variável, suportada, em partes bem determinadas, pelo Estado, pelo Banco de Portugal e pelas instituições de crédito participantes; percentagens máximas do empréstimo em função do valor da habitação, variando entre 85% e 95%; prazos máximos que se estendiam de 21 a 25 anos.
+
+Fazia-se depender, quer o nível de bonificação, quer a percentagem máxima do empréstimo, bem como o prazo deste, do valor atribuído às seguintes variáveis em função de parâmetros fixados: rendimento per capita do agregado familiar e custo por metro quadrado de área habitável do fogo a adquirir ou construir.
+
+Introduziram-se ainda valores máximos para o empréstimo a conceder e para o fogo a adquirir.
+
+Os parâmetros de referência, bem como estes valores máximos, foram sucessivamente actualizados por portaria conjunta dos Ministros das Finanças (ou das Finanças e do Plano) e da Habitação e Obras Públicas.
+
+Verifica-se, decorrido que está um razoável período de experiência, que o sistema introduzido, se contribuiu para alguma reanimação do sector da construção civil e permitiu um apreciável crescimento do número de empréstimos e do volume de crédito concedido para habitação, não conseguiu resolver satisfatoriamente as dificuldades das famílias de mais baixos recursos, as quais, por efeito de uma inflação particularmente acentuada nos custos da habitação e da subida das taxas de juro, têm de sujeitar-se a um esforço financeiro praticamente incomportável em especial no primeiro ano de vida do empréstimo e nos anos imediatamente subsequentes.
+
+Tornou-se assim indispensável introduzir modificações tendentes à redução desse esforço financeiro inicial, e que são no essencial as seguintes: admissibilidade de prazos mais dilatados para os empréstimos, aplicação de uma taxa de crescimento no valor das prestações (método de prestações crescentes), de ano para ano, mais elevada nos primeiros anos, mais larga aplicação do limite máximo para o valor dos empréstimos em função do valor da habitação e, sobretudo, a garantia de que, qualquer que venha a ser a evolução da taxa de juro legal, as taxas de juro do empréstimo não sofrerão por essa causa qualquer agravamento.
+
+Assim, a importância e a extensão das modificações introduzidas justificam a revogação do [Decreto-Lei n.º 515/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1977-279595), de 14 de Dezembro, e a sua integral substituição.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
+
+Sistema de concessão de crédito e de incentivos financeiros à habitação
+
+### CAPÍTULO I — Do regime geral de concessão de crédito e de incentivos financeiros
+
+###### Artigo 1.º — (Âmbito do diploma)
+
+O presente decreto-lei regula a concessão de crédito e de incentivos financeiros à aquisição ou construção de fogos para habitação própria permanente.
+
+###### Artigo 2.º — (Instituições de crédito competentes)
+
+1 - A Caixa Geral de Depósitos, o Crédito Predial Português, o Montepio Geral - Caixa Económica de Lisboa e outras caixas económicas autorizadas poderão financiar a aquisição ou a construção de fogos para habitação própria permanente, no regime estabelecido no presente diploma.
+
+2 - Ao Ministro das Finanças e do Plano competirá autorizar outras instituições de crédito a efectuar as operações de financiamento previstas neste decreto-lei.
+
+###### Artigo 3.º — (Definições)
+
+Para efeitos deste diploma, considera-se:
+
+a) «Interessado», toda a pessoa que, não tendo habitação própria permanente, pretende construí-la ou adquiri-la nas condições estabelecidas neste decreto-lei;
+
+b) «Agregado familiar», conjunto constituído pelo casal, pelos ascendentes e descendentes de 1.º grau (incluindo enteados ou adoptados) desde que vivam em comunhão de mesa e de habitação;
+
+c) «Fogo», todo o imóvel que, obedecendo aos requisitos legais exigidos, se destina a habitação própria permanente, segundo o condicionalismo expresso neste decreto-lei;
+
+d) «Habitação própria permanente», aquela onde o mutuário e o seu agregado irão manter, estabilizado, o seu centro de vida familiar;
+
+e) «Área coberta», a superfície do fogo delimitada pelo perímetro exterior das paredes exteriores (caso de moradias unifamiliares ou de um só fogo por piso) ou pelo eixo das paredes separadoras (caso de mais de um fogo por piso).
+
+A área coberta inclui as marquises que constem do projecto aprovado, bem como a quota-parte da área dos acessos comuns ao nível do piso, estabelecida em função da relação entre as áreas do fogo e do piso, e exclui as áreas relativas a garagens ou parqueamento, arrecadações isoladas, varandas e terraços.
+
+###### Artigo 4.º — (Condições gerais de acesso aos incentivos)
+
+Dos incentivos previstos neste diploma podem beneficiar os mutuários que preencham as seguintes condições:
+
+a) Afectem o produto dos empréstimos à aquisição ou construção de fogo para habitação permanente do próprio e do seu agregado familiar;
+
+b) Não sejam titulares de qualquer outro empréstimo bonificado para a construção ou aquisição de habitação, salvo quando as instituições de crédito aceitem celebrar um contrato complementar de outro já existente;
+
+c) Não alienem, durante a vigência do empréstimo, o fogo adquirido ou construído;
+
+d) Não deixem, durante a vigência do empréstimo, de ter aí residência permanente ou não mantenham o fogo desocupado por prazo superior a um ano.
+
+###### Artigo 5.º — (Condições específicas de acesso aos incentivos)
+
+1 - Serão fixadas por portaria conjunta dos Ministros das Finanças e do Plano e da Habitação e Obras Públicas as condições específicas de acesso aos incentivos previstos no presente diploma.
+
+2 - Para efeito de enquadramento nos benefícios previstos no presente diploma, os fogos serão distribuídos pelas classes A, B, C e D, nas condições definidas na portaria a que alude o número anterior.
+
+3 - Terão o tratamento da classe A os fogos que venham a ser qualificados pelo MHOP como de «habitação social».
+
+4 - Da portaria referida no n.º 1 deste artigo constarão os critérios de atribuição de incentivos à aquisição ou construção de habitação própria permanente, nomeadamente os valores máximos dos empréstimos a conceder e dos fogos a construir ou a adquirir, bem como o valor do metro quadrado da respectiva área coberta.
+
+5 - Os limites referidos no número anterior poderão ser elevados por portaria do Ministro das Finanças e do Plano quando se refiram a fogos situados nas Regiões Autónomas dos Açores e da Madeira, mediante proposta dos respectivos Governos.
+
+###### Artigo 6.º — (Critérios de apreciação)
+
+1 - Os pedidos de empréstimo destinados à aquisição ou construção de fogos para habitação própria permanente serão apreciados pelas instituições de crédito mediante avaliação, salvo se se tratar de fogos construídos ao abrigo de programas habitacionais da Administração Central ou Local, casos em que aquelas instituições a poderão dispensar, aceitando o valor atribuído pelo organismo promotor.
+
+2 - Para efeitos de graduação dos incentivos previstos neste decreto-lei, os pedidos de empréstimo serão apreciados segundo os seguintes critérios gerais:
+
+a) Valor do fogo a adquirir ou a construir;
+
+b) Valor do metro quadrado da respectiva área coberta.
+
+3 - O Ministério da Habitação e Obras Públicas fixará por meio de regulamentação própria as características técnicas de construção a que deverão obedecer os fogos classificados como de «habitação social».
+
+4 - A aprovação dos empréstimos solicitados obedecerá, ainda, às indispensáveis regras de segurança da operação de crédito.
+
+###### Artigo 7.º — (Incentivos financeiros)
+
+1 - Os incentivos financeiros a conceder constantes do regime geral são os seguintes:
+
+a) Bonificação de juro a cargo do Banco de Portugal e das instituições de crédito, que será deduzida à taxa contratual e determinada em função da classificação atribuída ao fogo objecto do empréstimo;
+
+b) Prazos e percentagens dos empréstimos particularmente adequados, conforme limites constantes da portaria referida no artigo 5.º
+
+2 - A alteração da taxa referida no artigo 16.º durante o prazo do empréstimo implicará que as bonificações correspondentes às prestações ainda não vencidas sejam determinadas em conformidade com a nova taxa, por forma que a taxa de juro a cargo do mutuário se mantenha fixa, salvo na hipótese de, por efeito de redução nas taxas de juro, a taxa contratual vir a ser inferior à inicialmente paga pelo mutuário, caso em que prevalecerá a mais baixa.
+
+3 - De acordo com o disposto no número anterior, a descida das taxas durante o prazo do empréstimo implicará a redução da taxa de bonificação no mesmo número de pontos percentuais, até à sua eventual anulação.
+
+4 - À subida das taxas corresponderá um acréscimo equivalente nas bonificações, salvo o caso de tal subida ocorrer após a situação prevista na parte final do n.º 2, em que o montante da bonificação será o necessário para que a taxa de juro a cargo do mutuário não exceda a taxa inicialmente suportada por este.
+
+### CAPÍTULO II — Do regime de benefício financeiro adicional
+
+###### Artigo 8.º — (Condições especiais de acesso)
+
+1 - Quando o rendimento anual per capita do mutuário e do seu agregado familiar seja enquadrável nos escalões constantes da portaria a que se refere o n.º 1 do artigo 5.º, poderá o mesmo, para além do acesso ao regime geral, usufruir de um benefício financeiro adicional previsto neste capítulo.
+
+2 - A candidatura ao benefício financeiro adicional será feita pelo interessado, através de requerimento, e é cumulável com o direito aos incentivos financeiros a que se refere o artigo 7.º
+
+###### Artigo 9.º — (Benefício financeiro adicional)
+
+Os mutuários que preencham as condições previstas no artigo anterior poderão beneficiar de um «subsídio familiar para acesso a habitação própria», nos termos descritos no artigo seguinte, desde que o fogo a adquirir ou a construir preencha as condições necessárias para ser enquadrado na classe A.
+
+###### Artigo 10.º — (Obrigações dos beneficiários do subsídio familiar)
+
+1 - Os mutuários contemplados com o regime do benefício financeiro adicional deverão apresentar, na instituição de crédito onde tiverem proposto o empréstimo, documentos comprovativos respeitantes à composição e aos rendimentos efectivos do seu agregado familiar, acompanhando o requerimento a que alude o n.º 2 do artigo 8.º
+
+2 - Da portaria referida no artigo 5.º constarão, igualmente, os critérios básicos de atribuição do subsídio familiar.
+
+### CAPÍTULO III — Da formalização dos empréstimos
+
+#### SECÇÃO I — Da instrução e decisão dos pedidos
+
+###### Artigo 11.º — (Instrução e apresentação dos pedidos)
+
+Os interessados na concessão de incentivos financeiros à aquisição ou construção de fogos para habitação própria deverão instruir os respectivos pedidos com os elementos solicitados pela instituição de crédito autorizada a quem os mesmos forem apresentados.
+
+###### Artigo 12.º — (Apreciação e decisão dos pedidos de crédito)
+
+As instituições de crédito, uma vez concluída a instrução dos processos, procederão à apreciação e decisão sobre os mesmos, em conformidade com as regras e condições fixadas neste diploma.
+
+#### SECÇÃO II — Da contratação de empréstimos
+
+###### Artigo 13.º — (Do montante)
+
+Os montantes dos empréstimos serão fixados pelas instituições de crédito, em função da avaliação efectuada e tendo em conta os limites fixados na portaria a que se refere o artigo 5.º
+
+###### Artigo 14.º — (Do prazo)
+
+Os prazos dos empréstimos serão fixados pelas instituições de crédito, autorizadas de harmonia com os limites máximos estabelecidos na portaria a que se refere o artigo 5.º
+
+###### Artigo 15.º — (Do reembolso)
+
+1 - O reembolso dos empréstimos será efectuado mensalmente, salvo estipulação em contrário, sendo as respectivas prestações debitadas em conta aberta pelo mutuário na instituição credora, obrigando-se este a ter a sua conta devidamente aprovisionada para o efeito.
+
+2 - As prestações referidas no número anterior são crescentes, sendo os coeficientes de progressão a aplicar fixados na portaria referida no artigo 5.º do presente diploma.
+
+3 - Da aplicação dos coeficientes de progressão não deverá resultar que a última prestação exceda três vezes o valor da primeira.
+
+4 - Em qualquer caso, o mutuário poderá antecipar, total ou parcialmente, a amortização do empréstimo.
+
+###### Artigo 16.º — (Taxa de juro)
+
+A taxa de juro contratual será a máxima legal em cada momento em vigor para este tipo de operações e será suportada pelo mutuário, pelo Banco de Portugal e pelas instituições de crédito, nas percentagens e condições constantes da portaria a que se refere o n.º 1 do artigo 5.º e nos termos definidos no artigo 7.º do presente diploma.
+
+###### Artigo 17.º — (Capitalização de juros)
+
+As importâncias respeitantes às parcelas de juros contados e de exigibilidade diferida serão capitalizadas, incluindo-se nas prestações seguintes.
+
+###### Artigo 18.º — (Garantia)
+
+Os empréstimos serão garantidos por hipoteca, preferentemente constituída sobre o fogo a adquirir ou a construir.
+
+###### Artigo 19.º — (Mora)
+
+Em caso de mora e durante a mesma incidirá sobre a prestação ou prestações vencidas a taxa de juro contratual em vigor, acrescida da sobretaxa de 2%.
+
+#### SECÇÃO III — Da fiscalização
+
+###### Artigo 20.º — (Verificação das condições)
+
+1 - A verificação das condições previstas neste diploma, designadamente as do artigo 4.º, competirá às instituições de crédito.
+
+2 - O incumprimento, que não seja comprovadamente involuntário, das condições a que alude o número anterior poderá implicar a perda de todos os benefícios concedidos, a partir do momento em que for verificado.
+
+#### SECÇÃO IV — Do pagamento dos incentivos financeiros
+
+###### Artigo 21.º — (Reembolso às instituições financiadoras)
+
+As instituições financiadoras serão reembolsadas das bonificações a cargo do Banco de Portugal e do subsídio familiar, deduzidos às taxas de juro, após o vencimento das respectivas prestações e em condições a acordar entre aquelas, o Banco de Portugal e o Ministério das Finanças e do Plano ou as Regiões Autónomas.
+
+###### Artigo 22.º — (Pagamento do subsídio familiar)
+
+O pagamento do «subsídio familiar para acesso à habitação» será efectuado anualmente pela Direcção-Geral do Tesouro ou pelas Regiões Autónomas nos casos contemplados no n.º 4 do artigo 5.º, mediante o envio pelas instituições de crédito de listas com os empréstimos concedidos e os correspondentes subsídios.
+
+###### Artigo 23.º — (Dotações orçamentais)
+
+1 - Para a execução da medida de concessão do subsídio familiar, prevista no presente decreto-lei, a Direcção-Geral do Tesouro fica autorizada a fazer inscrever nos Orçamentos Gerais do Estado dos anos futuros as verbas necessárias para aquele fim.
+
+2 - Para efeito do n.º 1 deste artigo, o Banco de Portugal indicará à Direcção-Geral do Tesouro as verbas previstas para os anos futuros e emitirá as instruções técnicas adequadas para a recolha desses elementos.
+
+#### SECÇÃO V — Disposições finais e transitórias
+
+###### Artigo 24.º — (Poupança-habitação)
+
+1 - Os titulares de depósitos de poupança-habitação beneficiarão dos incentivos financeiros previstos neste diploma para os fogos das classes A, B e C, exceptuando-se o subsídio familiar para acesso à habitação quando, para construção ou aquisição de fogos classificados, respectivamente, nas classes B, C e D, utilizem o produto daqueles depósitos.
+
+2 - Para efeitos de aplicação do número anterior, o regime dos depósitos de poupança-habitação será, oportunamente, objecto de regulamentação em diploma próprio.
+
+###### Artigo 25.º — (Empréstimos à construção)
+
+Nos empréstimos destinados à construção, durante a fase da respectiva realização, que não pode em princípio ultrapassar o prazo de trinta meses, o mutuário só paga juros semestralmente sobre as quantias efectivamente colocadas à sua disposição, liquidados diariamente.
+
+###### Artigo 26.º — (Situações transitórias)
+
+O regime de financiamento definido no presente decreto-lei poderá, por solicitação dos interessados, ser aplicável aos pedidos de empréstimo cujos contratos não estejam celebrados na data da sua entrada em vigor.
+
+###### Artigo 27.º — (Dúvidas e omissões)
+
+As dúvidas que surgirem na execução deste decreto-lei e que não puderem ser esclarecidas pela lei geral ou pelas normas que regulam a actividade das instituições de crédito serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Habitação e Obras Públicas, ouvidos o Banco de Portugal e as instituições de crédito.
+
+###### Artigo 28.º — (Início de vigência)
+
+O presente decreto-lei entra em vigor noventa dias após a data da sua publicação, data a partir da qual se considerará revogado o [Decreto-Lei n.º 515/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1977-279595), de 14 de Dezembro.
+
+Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
+
+Promulgado em 24 de Setembro de 1980.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

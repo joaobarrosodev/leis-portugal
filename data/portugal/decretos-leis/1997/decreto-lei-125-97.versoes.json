@@ -1,0 +1,519 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400399:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-107987336",
+ "dre_path": "/dr/detalhe/decreto-lei/125-1997-400399",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-05-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107987775",
+    "107987776",
+    "107987777",
+    "107987778",
+    "107987779",
+    "107987780",
+    "107987781",
+    "107987782",
+    "107987783",
+    "107987784",
+    "107987785",
+    "107987786",
+    "107987787",
+    "107987788",
+    "107987789",
+    "107987790",
+    "107987791",
+    "107987792",
+    "107987793",
+    "107987794",
+    "107987795",
+    "107987796"
+   ]
+  },
+  {
+   "date": "2008-01-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:628828:por",
+     "title": "Decreto-Lei n.º 389/2007",
+     "published": "2007-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/389-2007-628828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "107987775",
+    "107987776",
+    "107987777",
+    "107987778",
+    "107987856",
+    "107987857",
+    "107987858",
+    "107987859",
+    "107987860",
+    "107987861",
+    "107987862",
+    "107987863",
+    "107987787",
+    "107987788",
+    "107987789",
+    "107987864",
+    "107987865",
+    "107987792",
+    "107987866",
+    "107987867",
+    "107987795",
+    "107987796",
+    "107987797"
+   ]
+  },
+  {
+   "date": "2015-03-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66528824:por",
+     "title": "Lei n.º 15/2015",
+     "published": "2015-02-16",
+     "dre_path": "/dr/detalhe/lei/15-2015-66528824"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "107987775",
+    "107987776",
+    "107987777",
+    "107987778",
+    "107987856",
+    "107987857",
+    "107987858",
+    "107987859",
+    "107987860",
+    "107987861",
+    "107991853",
+    "107987863",
+    "107987787",
+    "107987788",
+    "107987789",
+    "107987864",
+    "107987865",
+    "107991854",
+    "107987866",
+    "107987867",
+    "107987795",
+    "107987796",
+    "107987797"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107987278:por",
+     "title": "Decreto-Lei n.º 97/2017",
+     "published": "2017-08-10",
+     "dre_path": "/dr/detalhe/decreto-lei/97-2017-107987278"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "107987775",
+    "107987776",
+    "107987777",
+    "107987778",
+    "107987856",
+    "107987857",
+    "107987858",
+    "107987859",
+    "107987860",
+    "107987861",
+    "107991853",
+    "107987863",
+    "107991855",
+    "107991856",
+    "107987789",
+    "107987864",
+    "107987865",
+    "107991854",
+    "107987866",
+    "107987867",
+    "107987795",
+    "107987796",
+    "107987797"
+   ]
+  }
+ ],
+ "fragments": {
+  "107987775": {
+   "fragment_id": "107987337",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 125/97\n\nde 23 de Maio\n\nO Decreto-Lei n.º 512/80, de 28 de Outubro, estabeleceu um conjunto de disposições aplicáveis à execução, exploração e manutenção de redes, ramais de distribuição e instalação de gases combustíveis da 3.ª família, usualmente designados por gases de petróleo liquefeito (GPL).\n\nEntretanto, o Decreto-Lei n.º 232/90, de 16 de Julho, estabeleceu os princípios a que devem obedecer o projecto, a construção, a exploração e a manutenção do sistema do abastecimento de gás natural liquefeito (GNL), de gás natural (GN) e dos seus gases de substituição (GNS). No âmbito da regulamentação do citado diploma, foi publicado um vasto conjunto de disposições técnicas que contemplam quer o dimensionamento das instalações e redes quer a sua execução, exploração e manutenção.\n\nImportando uniformizar os critérios relacionados com as medidas técnicas a observar nesta matéria, o presente diploma procede à revisão do referido Decreto-Lei n.º 512/80, de 28 de Outubro, estendendo a aplicação das disposições regulamentares previstas no Decreto-Lei n.º 232/90, de 16 de Julho, às redes e ramais de distribuição e às instalações de gases combustíveis da 3.ª família não abrangidos por aquele diploma e definindo os requisitos aplicáveis ao projecto, execução e exploração das instalações de gás.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constitução, o Governo decreta o seguinte:"
+  },
+  "107987776": {
+   "fragment_id": "107987338",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente diploma tem como objecto a definição das regras aplicáveis ao projecto, à construção, à exploração técnica e à segurança das redes e ramais de distribuição de gases combustíveis da 3.ª família, usualmente designados por gases de petróleo liquefeitos (GPL).\n\n2 - As disposições deste decreto-lei são também aplicáveis, nos termos nele previstos, às instalações de gás no interior dos edifícios alimentados com os gases referidos no número anterior."
+  },
+  "107987777": {
+   "fragment_id": "107987339",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Entidade exploradora» - entidade que, sendo ou não proprietária das instalações de armazenagem e das redes e ramais de distribuição de gás, procede à exploração técnica das mesmas;\n\nb) «Entidade instaladora» - entidade que se dedica à instalação de redes e ramais e instalações de gás em edifícios;\n\nc) «Entrega de gás canalizado» - alimentação física de gás canalizado aos consumidores finais;\n\nd) «Exploração técnica de redes e ramais» - conjunto das acções técnicas destinadas à condução, à manutenção e à entrega de gás canalizado aos consumidores finais;\n\ne) «Instalação de gás em edifícios» - sistema instalado num edifício, constituído pelo conjunto de tubagens, acessórios, equipamentos e aparelhos de medida, que assegura a distribuição de gás desde o dispositivo de corte geral do edifício até ao dispositivo de corte de cada aparelho de gás, inclusive;\n\nf) «Partes comuns das instalações de gás em edifícios» - conjunto dos componentes da instalação de gás num edifício, desde a válvula de corte geral até à entrada de cada fogo, com excepção do contador de gás;\n\ng) «Posto de GPL» - conjunto de garrafas ou reservatórios, ligados a uma rede de distribuição ou a uma instalação de gás;\n\nh) «Proprietário» - entidade proprietária das instalações de armazenagem, das redes e ramais de distribuição de gás ou das instalações de gás em edifícios;\n\ni) «Ramal ou ramal de distribuição» - sistema constituído por tubagens, válvulas e acessórios, que abastece instalações de gás em edifícios;\n\nj) «Rede de distribuição» - sistema constituído por tubagens, válvulas e acessórios, através do qual se processa a alimentação dos ramais de distribuição."
+  },
+  "107987778": {
+   "fragment_id": "107987340",
+   "type": 11,
+   "heading": "Artigo 3.º — Dimensionamento das redes e ramais de distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dimensionamento das redes e ramais de distribuição\n\n1 - As redes e ramais de distribuição de gases combutíveis abrangidos pelo âmbito de aplicação do presente diploma, a construir em áreas concessionadas para o gás natural (GN) e para os seus gases de substituição (GNS), devem ser dimensionados de acordo com a legislação aplicável às redes e ramais de distribuição de gás natural.\n\n2 - Fora das áreas concessionadas para a distribuição de gás natural e dos seus gases de substituição, o dimensionamento das redes e ramais de distribuição de gases combustíveis deve ser feito tendo em conta as características do gás a distribuir."
+  },
+  "107987779": {
+   "fragment_id": "107987341",
+   "type": 11,
+   "heading": "Artigo 4.º — Autorização para execução e entrada em funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autorização para execução e entrada em funcionamento\n\nA execução e a entrada em funcionamento das redes e ramais de distribuição ligados a postos de GPL licenciados nos termos da legislação aplicável carecem de autorização a conceder pela delegação regional do Ministério da Economia territorialmente competente, adiante designada abreviadamente por DRME."
+  },
+  "107987780": {
+   "fragment_id": "107987342",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido de autorização de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido de autorização de execução\n\n1 - A autorização de execução referida no artigo anterior deve ser requerida pelo proprietário das redes e ramais de distribuição à DRME competente, devendo constar do requerimento:\n\na) O nome ou denominação social, o número fiscal de contribuinte e o domicílio ou sede do requerente;\n\nb) O local de implantação da rede ou ramal.\n\n2 - O requerimento a que se refere o número anterior deve ser acompanhado de um projecto, em duplicado, que deve incluir:\n\na) Memória descritiva, da qual deve constar a descrição da instalação, dos materiais e dos dispositivos de segurança e a indicação das principais normas e códigos técnicos utilizados no projecto e a cumprir na construção;\n\nb) Planta topográfica à escala conveniente, designadamente à escala de 1:10000, indicando a área onde se desenvolve a rede e ramais de distribuição;\n\nc) Planta da rede ou ramal de distribuição à escala conveniente, designadamente às escalas de 1:200, ou 1:100 ou 1:50, que definam completamente os traçados e os pormenores.\n\n3 - A autorização requerida será concedida com a devolução ao requerente do duplicado do projecto, devidamente visado."
+  },
+  "107987781": {
+   "fragment_id": "107987343",
+   "type": 11,
+   "heading": "Artigo 6.º — Execução das redes e ramais de distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Execução das redes e ramais de distribuição\n\n1 - A execução das redes e ramais de distribuição deve obedecer aos requisitos estabelecidos no Regulamento Técnico Relativo ao Projecto, Construção, Exploração e Manutenção de Redes de Distribuição de Gases Combustíveis, aprovado pela Portaria n.º 386/94, de 16 de Junho.\n\n2 - A execução das redes e ramais de distribuição deve ser feita por entidades instaladoras reconhecidas pela Direcção-Geral da Energia, nos termos previstos no respectivo estatuto.\n\n3 - Concluída a execução das redes e ramais de distribuição, deve a entidade instaladora emitir termo de responsabilidade, em triplicado, de acordo com o modelo a aprovar por despacho do director-geral da Energia.\n\n4 - O original do termo da responsabilidade referido no número anterior deve ser entregue à DRME competente e os duplicados ao proprietário, sendo um destinado à entidade exploradora."
+  },
+  "107987782": {
+   "fragment_id": "107987344",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedido de autorização de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pedido de autorização de exploração\n\n1 - Antes da entrada em funcionamento das redes ou ramais de distribuição, deve o proprietário requerer à DRME competente a autorização de exploração.\n\n2 - O pedido para a autorização de exploração deve ser acompanhado de:\n\na) Termo de responsabilidade a que se refere o n.º 3 do artigo anterior;\n\nb) Identificação da entidade exploradora;\n\nc) Declaração da entidade exploradora assumindo a responsabilidade pela exploração das redes e ramais de distribuição de gás."
+  },
+  "107987783": {
+   "fragment_id": "107987345",
+   "type": 11,
+   "heading": "Artigo 8.º — Transmissão da propriedade das instalações ou da sua exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Transmissão da propriedade das instalações ou da sua exploração\n\n1 - A transmissão da propriedade das armazenagens, redes e ramais de distribuição de gás deve ser comunicada à DRME competente, no prazo de 30 dias a contar da data de transmissão, para efeitos de averbamento da titularidade da propriedade.\n\n2 - A comunicação prevista no número anterior constitui obrigação da entidade transmissária.\n\n3 - A substituição da entidade exploradora das instalações deve ser comunicada à DRME competente pelo proprietário das instalações no prazo de cinco dias a contar da data de substituição.\n\n4 - A comunicação a que se refere o número anterior deve ser acompanhada de declaração da nova entidade explorada assumindo a responsabilidade pela exploração das instalações."
+  },
+  "107987784": {
+   "fragment_id": "107987346",
+   "type": 11,
+   "heading": "Artigo 9.º — Exploração técnica das redes e ramais de distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exploração técnica das redes e ramais de distribuição\n\n1 - A exploração técnica das redes e ramais de distribuição de gás é da responsabilidade da entidade exploradora.\n\n2 - A exploração técnica das redes e ramais de distribuição deve obedecer aos requisitos estabelecidos no regulamento referido no artigo 6.º do presente diploma.\n\n3 - Sempre que, decorrente de uma fiscalização, se verifiquem indícios de fugas de gás, a DRME competente poderá exigir à entidade exploradora a realização de ensaios para a sua detecção.\n\n4 - Sempre que se verifiquem situações que ponham em causa a segurança de pessoas e bens, a DRME competente poderá determinar a suspensão da autorização de exploração das instalações, bem como a selagem das mesmas."
+  },
+  "107987785": {
+   "fragment_id": "107987347",
+   "type": 11,
+   "heading": "Artigo 10.º — Assistência técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Assistência técnica\n\n1 - A entidade exploradora deve assegurar:\n\na) Um serviço de atendimento permanente para receber informações, do seu pessoal ou de terceiros, relativas a eventuais anomalias de funcionamento;\n\nb) Um serviço de manutenção permanente das redes e ramais de distribuição de gás, dotado de meios técnicos, materiais e humanos que a habilitem, em caso de acidente, a intervir com a necessária rapidez e eficácia, bem como a prestar assistência técnica aos consumidores;\n\nc) Um serviço permanente para correcção das anomalias de funcionamento das redes e ramais de distribuição de gás e das partes comuns das instalações de gás em edifícios.\n\n2 - As anomalias de funcionamento devem ser resolvidas no mais curto prazo de tempo possível, cabendo os encargos correspondentes às eventuais intervenções à entidade exploradora, excepto quando:\n\na) A anomalia ocorrer na instalação de gás do edifício;\n\nb) O pedido de assistência não tiver fundamento.\n\n3 - A DRME competente pode fixar um prazo à entidade exploradora para a resolução de qualquer anomalia de funcionamento ou pedido de assistência técnica."
+  },
+  "107987786": {
+   "fragment_id": "107987348",
+   "type": 11,
+   "heading": "Artigo 11.º — Inspecções periódicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inspecções periódicas\n\n1 - As redes e ramais de distribuição de gás ficam sujeitas a inspecções periódicas quinquenais, que devem incluir um ensaio de estanquidade.\n\n2 - As redes e ramais de distribuição existentes à data da publicação deste diploma devem ser obrigatoriamente ensaiados dentro do prazo de três anos de acordo com um plano previamente apresentado às DRME.\n\n3 - Dos relatórios que contiverem os ensaios referidos nos números anteriores deverão ser enviadas copias às DRME.\n\n4 - A promoção e a realização das inspecções periódicas referidas são da responsabilidade das entidades exploradoras.\n\n5 - A responsabilidade das inspecções referidas no número anterior poderá ser transferida para entidades que venham a ser reconhecidas para o efeito ao abrigo do diploma específico."
+  },
+  "107987787": {
+   "fragment_id": "107987349",
+   "type": 11,
+   "heading": "Artigo 12.º — Instalação de gás em edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instalação de gás em edifícios\n\n1 - Quando os edifícios situados fora das áreas concessionadas para a distribuição do gás natural e dos seus gases de substituição forem dotados de instalações de gás combustível, devem as mesmas obedecer aos requisitos estabelecidos no Regulamento Técnico Relativo ao Projecto, Construção, Exploração e Manutenção das Instalações de Gás Combustível Canalizado em Edifícios, aprovado pela Portaria n.º 364/94, de 11 de Junho, bem como às disposições constantes do Decreto-Lei n.º 262/89, de 17 de Agosto, com a redacção que lhe foi dada pelo Decreto-Lei n.º 178/92, de 14 de Agosto, com excepção:\n\na) Do dimensionamento das instalações que deve ser feito tendo em conta a pressão de alimentação das mesmas e as características do gás a utilizar;\n\nb) Da aplicação do disposto no artigo 11.º do Decreto-Lei n.º 262/89, de 17 de Agosto, com a redacção dada pelo Decreto-Lei n.º 178/92, de 14 de Agosto.\n\n2 - Executada a instalação de gás, e com toda esta à vista, deve a entidade instaladora realizar os ensaios e demais verificações de segurança exigíveis.\n\n3 - Feitas as verificações previstas no número anterior, a entidade instaladora emitirá um termo de responsabilidade, em triplicado, de acordo com o modelo a aprovar por despacho do director-geral da Energia.\n\n4 - A entidade instaladora deverá enviar o original do termo de responsabilidade referido no número anterior à entidade licenciadora da construção e os duplicados ao proprietário do edifício, sendo um destinado à entidade exploradora.\n\n5 - A manutenção das instalações de gás dos edifícios é da responsabilidade dos seus proprietários.\n\n6 - As partes comuns das instalações de gás dos edifícios ficam sujeitas às inspecções quinquenais, nos termos estabelecidos no artigo 13.º do Decreto-Lei n.º 262/89, de 17 de Agosto."
+  },
+  "107987788": {
+   "fragment_id": "107987350",
+   "type": 11,
+   "heading": "Artigo 13.º — Grupos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Grupos profissionais\n\nConsideram-se habilitados para projectar, executar e proceder à manutenção das redes e ramais de distribuição e instalações de gás os grupos profissionais previstos no anexo I do Decreto-Lei n.º 263/89, de 17 de Agosto."
+  },
+  "107987789": {
+   "fragment_id": "107987351",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima:\n\na) De 50000$00 a 2000000$00, a infracção ao disposto nos n.os 1 e 2 do artigo 8.º e no n.º 2 do artigo 10.º;\n\nb) De 100000$00 a 3500000$00, a infracção do disposto nos n.os 3 e 4 do artigo 6.º, nos n.os 3 e 4 do artigo 8.º, no artigo 11.º e nos n.os 3, 4 e 5 do artigo 12.º;\n\nc) De 250000$00 a 6000000$00, a infracção ao disposto no artigo 3.º, no artigo 4.º, nos n.os 1 e 2 do artigo 6.º, no n.º 2 do artigo 9.º, no n.º 1 do artigo 10.º e nos n.os 1 e 2 do artigo 12.º, bem como a inobservância pelas entidades exploradoras das obrigações e deveres estabelecidos no respectivo estatuto.\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - No caso de a contra-ordenação ter sido praticada por pessoa singular, o montante máximo da coima é de 750000$00.\n\n4 - Conjuntamente com a aplicação das coimas, e em função da gravidade da infracção e da culpa do agente, poderão ser aplicadas as sanções acessórias estabelecidas no n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 244/95, de 14 de Setembro."
+  },
+  "107987790": {
+   "fragment_id": "107987352",
+   "type": 11,
+   "heading": "Artigo 15.º — Tramitação e julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Tramitação e julgamento\n\n1 - Os processos de contra-ordenação são instruídos pela DRME competente, cabendo ao respectivo director regional a aplicação de coimas e sanções acessórias, sem prejuízo do disposto no número seguinte.\n\n2 - No caso das entidades exploradoras, compete ao director-geral da Energia a aplicação das coimas e sanções acessórias, incluindo-se nestas a revogação do reconhecimento da entidade exploradora.\n\n3 - Para efeitos do disposto no número anterior, a DRME enviará à Direcção-Geral da Energia o respectivo processo de contra-ordenação devidamente instruído."
+  },
+  "107987791": {
+   "fragment_id": "107987353",
+   "type": 11,
+   "heading": "Artigo 16.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Produto das coimas\n\nO produto da aplicação das coimas constitui receita:\n\na) Em 60%, do Estado;\n\nb) Em 30%, da DRME instrutora do respectivo processo;\n\nc) Em 10%, da Direcção-Geral da Energia."
+  },
+  "107987792": {
+   "fragment_id": "107987354",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regulamentação\n\n1 - Por portaria do Ministro da Economia será aprovado o estatuto das entidades exploradoras referidas no presente diploma.\n\n2 - Por despacho do director-geral da Energia, serão aprovados os modelos dos termos de responsabilidade previstos neste diploma e no estatuto a que se refere o número anterior."
+  },
+  "107987793": {
+   "fragment_id": "107987355",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização\n\nA fiscalização do cumprimento do disposto no presente diploma é da competência das DRME."
+  },
+  "107987794": {
+   "fragment_id": "107987356",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições transitórias\n\n1 - A exploração técnica das redes e ramais de distribuição de gás referidos no n.º 2 do artigo 21.º, após o decurso dos prazos aí referidos, carece de autorização a conceder pelas DRME.\n\n2 - O pedido para autorização da exploração técnica referida no número anterior deve ser apresentado pelo proprietário das instalações à DRME competente, acompanhado de:\n\na) Identificação da entidade exploradora;\n\nb) Declaração da entidade exploradora assumindo a responsabilidade pela exploração técnica das instalações."
+  },
+  "107987795": {
+   "fragment_id": "107987357",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 512/80, de 28 de Outubro."
+  },
+  "107987796": {
+   "fragment_id": "107987358",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\n1 - Sem prejuízo do disposto no número seguinte, o presente diploma entra em vigor 30 dias após a data da sua publicação.\n\n2 - As disposições referentes à exploração técnica das redes e ramais de distribuição constantes nos artigos 9.º e 10.º entram em vigor após o decurso dos seguintes prazos:\n\na) Um ano para as instalações executadas até à data da publicação deste diploma;\n\nb) Seis meses para as instalações cuja execução tenha sido iniciada antes da data da publicação do presente diploma e cuja conclusão venha a efectivar-se após aquela data."
+  },
+  "107987856": {
+   "fragment_id": "107987341",
+   "type": 11,
+   "heading": "Artigo 4.º — Autorização para execução e entrada em funcionamento",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 4.º — Autorização para execução e entrada em funcionamento\n\nA execução e a entrada em funcionamento das redes e ramais de distribuição ligados a postos GPL licenciados nos termos da legislação aplicável carecem de autorização a conceder pela entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987857": {
+   "fragment_id": "107987342",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido de autorização de execução",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 5.º — Pedido de autorização de execução\n\n1 - A autorização de execução referida no artigo anterior deve ser requerida pelo proprietário das redes e ramais de distribuição à entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL, devendo constar do requerimento:\n\na) O nome ou denominação social, o número fiscal de contribuinte e o domicílio ou sede do requerente;\n\nb) O local de implantação da rede ou ramal.\n\n2 - O requerimento a que se refere o número anterior deve ser acompanhado de um projecto, em duplicado, que deve incluir:\n\na) Memória descritiva, da qual deve constar a descrição da instalação, dos materiais e dos dispositivos de segurança e a indicação das principais normas e códigos técnicos utilizados no projecto e a cumprir na construção;\n\nb) Planta topográfica à escala conveniente, designadamente à escala de 1:10000, indicando a área onde se desenvolve a rede e ramais de distribuição;\n\nc) Planta da rede ou ramal de distribuição à escala conveniente, designadamente às escalas de 1:200, ou 1:100 ou 1:50, que definam completamente os traçados e os pormenores.\n\n3 - A autorização requerida será concedida com a devolução ao requerente do duplicado do projecto, devidamente visado.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987858": {
+   "fragment_id": "107987343",
+   "type": 11,
+   "heading": "Artigo 6.º — Execução das redes e ramais de distribuição",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 6.º — Execução das redes e ramais de distribuição\n\n1 - A execução das redes e ramais de distribuição deve obedecer aos requisitos estabelecidos no Regulamento Técnico Relativo ao Projecto, Construção, Exploração e Manutenção de Redes de Distribuição de Gases Combustíveis, aprovado pela Portaria n.º 386/94, de 16 de Junho.\n\n2 - A execução das redes e ramais de distribuição deve ser feita por entidades instaladoras reconhecidas pela Direcção-Geral da Energia, nos termos previstos no respectivo estatuto.\n\n3 - Concluída a execução das redes e ramais de distribuição, deve a entidade instaladora emitir termo de responsabilidade, em triplicado, de acordo com o modelo a aprovar por despacho do director-geral da Energia.\n\n4 - O original do termo da responsabilidade referido no número anterior deve ser entregue à entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL e os duplicados ao proprietário, sendo um destinado à entidade exploradora.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987859": {
+   "fragment_id": "107987344",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedido de autorização de exploração",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 7.º — Pedido de autorização de exploração\n\n1 - Antes da entrada em funcionamento das redes ou ramais de distribuição, deve o proprietário requerer à entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL a autorização de exploração.\n\n2 - O pedido para a autorização de exploração deve ser acompanhado de:\n\na) Termo de responsabilidade a que se refere o n.º 3 do artigo anterior;\n\nb) Identificação da entidade exploradora;\n\nc) Declaração da entidade exploradora assumindo a responsabilidade pela exploração das redes e ramais de distribuição de gás.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987860": {
+   "fragment_id": "107987345",
+   "type": 11,
+   "heading": "Artigo 8.º — Transmissão da propriedade das instalações ou da sua exploração",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 8.º — Transmissão da propriedade das instalações ou da sua exploração\n\n1 - A transmissão da propriedade das armazenagens, redes e ramais de distribuição de gás deve ser comunicada à entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL, no prazo de 30 dias a contar da data de transmissão, para efeitos de averbamento da titularidade da propriedade.\n\n2 - A comunicação prevista no número anterior constitui obrigação da entidade transmissária.\n\n3 - A substituição da entidade exploradora das instalações deve ser comunicada à entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL pelo proprietário das instalações no prazo de cinco dias a contar da data de substituição.\n\n4 - A comunicação a que se refere o número anterior deve ser acompanhada de declaração da nova entidade explorada assumindo a responsabilidade pela exploração das instalações.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987861": {
+   "fragment_id": "107987346",
+   "type": 11,
+   "heading": "Artigo 9.º — Exploração técnica das redes e ramais de distribuição",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 9.º — Exploração técnica das redes e ramais de distribuição\n\n1 - A exploração técnica das redes e ramais de distribuição de gás é da responsabilidade da entidade exploradora.\n\n2 - A exploração técnica das redes e ramais de distribuição deve obedecer aos requisitos estabelecidos no regulamento referido no artigo 6.º do presente diploma.\n\n3 - Sempre que, decorrente de uma fiscalização, se verifiquem indícios de fugas de gás, a DRME competente poderá exigir à entidade exploradora a realização de ensaios para a sua detecção.\n\n4 - Sempre que se verifiquem situações que ponham em causa a segurança de pessoas e bens, a entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL pode determinar a suspensão da autorização de exploração das instalações, bem como a selagem das mesmas.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987862": {
+   "fragment_id": "107987347",
+   "type": 11,
+   "heading": "Artigo 10.º — Assistência técnica",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 10.º — Assistência técnica\n\n1 - A entidade exploradora deve assegurar:\n\na) Um serviço de atendimento permanente para receber informações, do seu pessoal ou de terceiros, relativas a eventuais anomalias de funcionamento;\n\nb) Um serviço de manutenção permanente das redes e ramais de distribuição de gás, dotado de meios técnicos, materiais e humanos que a habilitem, em caso de acidente, a intervir com a necessária rapidez e eficácia, bem como a prestar assistência técnica aos consumidores;\n\nc) Um serviço permanente para correcção das anomalias de funcionamento das redes e ramais de distribuição de gás e das partes comuns das instalações de gás em edifícios.\n\n2 - As anomalias de funcionamento devem ser resolvidas no mais curto prazo de tempo possível, cabendo os encargos correspondentes às eventuais intervenções à entidade exploradora, excepto quando:\n\na) A anomalia ocorrer na instalação de gás do edifício;\n\nb) O pedido de assistência não tiver fundamento.\n\n3 - A entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL pode fixar um prazo à entidade exploradora para a resolução de qualquer anomalia de funcionamento ou pedido de assistência técnica.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987863": {
+   "fragment_id": "107987348",
+   "type": 11,
+   "heading": "Artigo 11.º — Inspecções periódicas",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 11.º — Inspecções periódicas\n\n1 - As redes e ramais de distribuição de gás ficam sujeitas a inspecções periódicas quinquenais, que devem incluir um ensaio de estanquidade.\n\n2 - As redes e ramais de distribuição existentes à data da publicação deste diploma devem ser obrigatoriamente ensaiados dentro do prazo de três anos de acordo com um plano previamente apresentado às DRME.\n\n3 - Dos relatórios que contiverem os ensaios referidos nos números anteriores deverão ser enviadas copias à entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL.\n\n4 - A promoção e a realização das inspecções periódicas referidas são da responsabilidade das entidades exploradoras.\n\n5 - A responsabilidade das inspecções referidas no número anterior poderá ser transferida para entidades que venham a ser reconhecidas para o efeito ao abrigo do diploma específico.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987864": {
+   "fragment_id": "107987352",
+   "type": 11,
+   "heading": "Artigo 15.º — Tramitação e julgamento",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 15.º — Tramitação e julgamento\n\n1 - Os processos de contra-ordenação são instruídos pela entidade licenciadora competente, cabendo ao presidente da câmara municipal ou ao director regional da economia competente a aplicação das coimas e sanções acessórias, sem prejuízo do disposto no número seguinte.\n\n2 - No caso das entidades exploradoras, compete ao director-geral da Energia a aplicação das coimas e sanções acessórias, incluindo-se nestas a revogação do reconhecimento da entidade exploradora.\n\n3 - Para efeitos do disposto no número anterior, a entidade licenciadora envia à Direcção-Geral de Energia e Geologia o respectivo processo de contra-ordenação devidamente instruído.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987865": {
+   "fragment_id": "107987353",
+   "type": 11,
+   "heading": "Artigo 16.º — Produto das coimas",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 16.º — Produto das coimas\n\nO produto da aplicação das coimas constitui receita:\n\na) Em 60%, do Estado;\n\nb) Em 40 % da entidade instrutora do respectivo processo;\n\nc) (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987866": {
+   "fragment_id": "107987355",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 18.º — Fiscalização\n\n1 - A fiscalização do cumprimento do disposto no presente diploma é da competência da entidade licenciadora competente.\n\n2 - A fiscalização mencionada no número anterior é exercida no âmbito do licenciamento e no âmbito da regulamentação técnica das instalações e não prejudica as competências atribuídas por lei a outras entidades.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987867": {
+   "fragment_id": "107987356",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições transitórias",
+   "in_force_from": "2008-01-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 19.º — Disposições transitórias\n\n1 - A exploração técnica das redes e ramais de distribuição de gás referidos no n.º 2 do artigo 21.º, após o decurso dos prazos aí referidos, carece de autorização a conceder pelas DRME.\n\n2 - A exploração técnica das redes e ramais de distribuição de gás referidos no n.º 2 do artigo 21.º, após o decurso dos prazos aí referidos, carece de autorização a conceder pela entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107987797": {
+   "fragment_id": "107987359",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de Março de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 22 de Abril de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Maio de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "107991853": {
+   "fragment_id": "107987347",
+   "type": 11,
+   "heading": "Artigo 10.º — Assistência técnica",
+   "in_force_from": "2015-03-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 63.º do/a [Lei n.º 15/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/15-2015-66528824), em vigor a partir de 2015-03-18",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+   ],
+   "markdown": "###### Artigo 10.º — Assistência técnica\n\n1 - A entidade exploradora deve assegurar:\n\na) Um serviço de atendimento permanente para receber informações, do seu pessoal ou de terceiros, relativas a eventuais anomalias de funcionamento;\n\nb) Um serviço de manutenção permanente das redes e ramais de distribuição de gás, dotado de meios técnicos, materiais e humanos que a habilitem, em caso de acidente, a intervir com a necessária rapidez e eficácia, bem como a prestar assistência técnica aos consumidores;\n\nc) Um serviço permanente para correcção das anomalias de funcionamento das redes e ramais de distribuição de gás e das partes comuns das instalações de gás em edifícios.\n\n2 - As anomalias de funcionamento devem ser resolvidas no mais curto prazo de tempo possível, cabendo os encargos correspondentes às eventuais intervenções à entidade exploradora, excepto quando:\n\na) A anomalia ocorrer na instalação de gás do edifício;\n\nb) O pedido de assistência não tiver fundamento.\n\n3 - A entidade competente para o licenciamento da correspondente instalação de armazenamento de GPL pode fixar um prazo à entidade exploradora para a resolução de qualquer anomalia de funcionamento ou pedido de assistência técnica.\n\n> Revogado pelo/a Artigo 63.º do/a [Lei n.º 15/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/15-2015-66528824), em vigor a partir de 2015-03-18\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14"
+  },
+  "107991854": {
+   "fragment_id": "107987354",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentação",
+   "in_force_from": "2015-03-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 63.º do/a [Lei n.º 15/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/15-2015-66528824), em vigor a partir de 2015-03-18"
+   ],
+   "markdown": "###### Artigo 17.º — Regulamentação\n\n1 - Por portaria do Ministro da Economia será aprovado o estatuto das entidades exploradoras referidas no presente diploma.\n\n2 - Por despacho do director-geral da Energia, serão aprovados os modelos dos termos de responsabilidade previstos neste diploma e no estatuto a que se refere o número anterior.\n\n> Revogado pelo/a Artigo 63.º do/a [Lei n.º 15/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/15-2015-66528824), em vigor a partir de 2015-03-18"
+  },
+  "107991855": {
+   "fragment_id": "107987349",
+   "type": 11,
+   "heading": "Artigo 12.º — Instalação de gás em edifícios",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 97/2017 - Diário da República n.º 154/2017, Série I de 2017-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2017-107987278), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Instalação de gás em edifícios\n\n1 - Quando os edifícios situados fora das áreas concessionadas para a distribuição do gás natural e dos seus gases de substituição forem dotados de instalações de gás combustível, devem as mesmas obedecer aos requisitos estabelecidos no Regulamento Técnico Relativo ao Projecto, Construção, Exploração e Manutenção das Instalações de Gás Combustível Canalizado em Edifícios, aprovado pela Portaria n.º 364/94, de 11 de Junho, bem como às disposições constantes do Decreto-Lei n.º 262/89, de 17 de Agosto, com a redacção que lhe foi dada pelo Decreto-Lei n.º 178/92, de 14 de Agosto, com excepção:\n\na) Do dimensionamento das instalações que deve ser feito tendo em conta a pressão de alimentação das mesmas e as características do gás a utilizar;\n\nb) Da aplicação do disposto no artigo 11.º do Decreto-Lei n.º 262/89, de 17 de Agosto, com a redacção dada pelo Decreto-Lei n.º 178/92, de 14 de Agosto.\n\n2 - Executada a instalação de gás, e com toda esta à vista, deve a entidade instaladora realizar os ensaios e demais verificações de segurança exigíveis.\n\n3 - Feitas as verificações previstas no número anterior, a entidade instaladora emitirá um termo de responsabilidade, em triplicado, de acordo com o modelo a aprovar por despacho do director-geral da Energia.\n\n4 - A entidade instaladora deverá enviar o original do termo de responsabilidade referido no número anterior à entidade licenciadora da construção e os duplicados ao proprietário do edifício, sendo um destinado à entidade exploradora.\n\n5 - A manutenção das instalações de gás dos edifícios é da responsabilidade dos seus proprietários.\n\n6 - As partes comuns das instalações de gás dos edifícios ficam sujeitas às inspecções quinquenais, nos termos estabelecidos no artigo 13.º do Decreto-Lei n.º 262/89, de 17 de Agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 97/2017 - Diário da República n.º 154/2017, Série I de 2017-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2017-107987278), em vigor a partir de 2018-01-01"
+  },
+  "107991856": {
+   "fragment_id": "107987350",
+   "type": 11,
+   "heading": "Artigo 13.º — Grupos profissionais",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 97/2017 - Diário da República n.º 154/2017, Série I de 2017-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2017-107987278), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Grupos profissionais\n\nConsideram-se habilitados para projectar, executar e proceder à manutenção das redes e ramais de distribuição e instalações de gás os grupos profissionais previstos no anexo I do Decreto-Lei n.º 263/89, de 17 de Agosto.\n\n> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 97/2017 - Diário da República n.º 154/2017, Série I de 2017-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2017-107987278), em vigor a partir de 2018-01-01"
+  }
+ }
+}

@@ -1,0 +1,149 @@
+---
+schema_version: '1.0'
+id: pt:dre:369867:por
+title: Despacho Normativo n.º 287/79
+short_title: null
+summary: Concede benefícios fiscais a desalojados e cooperantes na importação de veículos automóveis
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 287/79
+official_date: null
+publication_date: '1979-09-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/1979, Série I de 1979-09-15
+  number: '214'
+  series: I
+  supplement: null
+  pages: 2368 - 2368
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/09/21400/23682368.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '369867'
+  dre_path: /dr/detalhe/despacho-normativo/287-1979-369867
+  internal: pt:dre:369867:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/287-1979-369867
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/287-1979-369867
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:54:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 139599ecc41391f8af13d9e2108c33e172978c7a1bbcef53c67c56ee327b349f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:54:34Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Benefícios Fiscais
+- Desalojado
+- Importação de Veículos
+relationships:
+- type: amended_by
+  target: pt:dre:462209:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:176343:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:295104:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:411132:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:447329:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:462209:por
+  label: "Revogado pelo DEC LEI.455/80.09.10.1980.MFP, DR.IS [234] de 09.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/455-1980-462209
+  date: '1980-10-09'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:54:34Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 287/79
+
+Sendo certo que muitos dos veículos matriculados nas ex-colónias portuguesas até 31 de Dezembro de 1975 não chegaram ao País dentro do prazo estabelecido no [Despacho Normativo n.º 84/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/84-1978-447329), publicado no Diário da República, 2.ª série, n.º 71, de 27 de Março de 1978, e que durante esse período não foi iniciado o seu processo de desalfandegamento, como era exigido pelo mesmo despacho;
+
+Considerando que para tal contribuiu decisivamente o facto de muitos dos proprietários desses veículos haverem continuado radicados nos novos países ou até terem-se fixado transitoriamente noutros territórios vizinhos, locais onde, para além de comunicações deficientes com Portugal, não foi feita qualquer publicidade acerca do citado despacho, o que, portanto, torna crível o desconhecimento do seu conteúdo;
+
+Considerando, ainda, que muitos cidadãos nacionais continuaram a exercer a sua actividade profissional nesses novos países de expressão portuguesa, havendo neles adquirido veículos matriculados após o limite temporal até agora estabelecido, de 31 de Dezembro de 1975:
+
+Determina-se, ao abrigo do n.º 10.º do artigo 4.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, o seguinte:
+
+1 - Será de conceder a isenção de direitos aduaneiros, do imposto sobre a venda de veículos, criado pelo [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, e alterado pela [Lei n.º 30/78](https://diariodarepublica.pt/dr/detalhe/lei/30-1978-295104), de 14 de Junho, e da sobretaxa de importação, estabelecida pelo [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), de 31 de Maio, aos automóveis matriculados em qualquer das ex-colónias portuguesas até 31 de Dezembro de 1975 e que sejam propriedade de desalojados nacionais que, até ao ano da independência desses territórios, tivessem ali residência fixa devidamente comprovada.
+
+2 - Aos veículos que tenham sido matriculados nos mesmos territórios, a partir de 1 de Janeiro de 1976, será aplicável o regime estabelecido no [Decreto-Lei n.º 172/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1977-251855), de 30 de Abril.
+
+3 - Para os efeitos da aplicação do regime referido no número anterior, considerar-se-ão como sujeitos à percentagem de 50%, estabelecida no artigo 1.º daquele decreto-lei, os veículos matriculados em 1976 e pertencentes aos beneficiandos há menos de um ano à data do desalfandegamento.
+
+A mesma percentagem de redução será aplicável ao imposto sobre a venda de veículos e à sobretaxa de importação, referidos no anterior n.º 1.
+
+4 - Para efeitos da execução do que se contém nos números anteriores, deverá aquele que submete o veículo a despacho produzir prova, conforme os casos, através de documentação oficial bastante:
+
+a) Da sua qualidade de desalojado;
+
+b) Da sua residência, até ao ano da independência, na respectiva ex-colónia;
+
+c) Da titularidade de direito de propriedade sabre o veículo;
+
+d) De que o veículo esteve matriculado em qualquer das ex-colónias portuguesas.
+
+5 - Fica revogado o despacho desta Secretaria de Estado de 8 de Agosto de 1978.
+
+Secretaria de Estado do Orçamento, 21 de Agosto de 1979. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira.

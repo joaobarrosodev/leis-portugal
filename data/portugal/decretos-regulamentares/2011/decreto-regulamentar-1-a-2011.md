@@ -1,0 +1,1432 @@
+---
+schema_version: '1.0'
+id: pt:dre:406905:por
+title: Decreto Regulamentar n.º 1-A/2011
+short_title: null
+summary: Procede à regulamentação do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado
+  pela Lei n.º 110/2009, de 16 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 1-A/2011
+official_date: null
+publication_date: '2011-01-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 1/2011, 1º Suplemento, Série I de 2011-01-03
+  number: '1'
+  series: I
+  supplement: 1º Suplemento
+  pages: 8-(4) a 8-(16)
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/01/00101/0000400016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-01-01'
+version_history:
+  file: decreto-regulamentar-1-a-2011.versoes.json
+  count: 10
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2011-01-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Altera Artigo 80.º
+    - Altera Artigo 86.º
+    - Revoga Artigo 34.º
+  - date: '2012-09-26'
+    amending: pt:dre:175522:por
+    amending_title: Decreto Regulamentar n.º 50/2012
+    changes:
+    - Adita Artigo 54.º-A
+    - Adita Artigo 62.º-A
+    - Adita Artigo 62.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 58.º
+    - Altera Artigo 62.º
+  - date: '2013-10-16'
+    amending: pt:dre:494803:por
+    amending_title: Decreto Regulamentar n.º 6/2013
+    changes:
+    - Adita Artigo 54.º-B
+    - Altera Artigo 54.º-A
+  - date: '2017-03-27'
+    amending: pt:dre:106642829:por
+    amending_title: Decreto Regulamentar n.º 2/2017
+    changes:
+    - Altera Artigo 62.º
+  - date: '2018-05-16'
+    amending: pt:dre:115312061:por
+    amending_title: Decreto-Lei n.º 33/2018
+    changes:
+    - Adita Artigo 42.º-A
+    - Adita Artigo 44.º-A
+  - date: '2018-07-03'
+    amending: pt:dre:115620692:por
+    amending_title: Decreto Regulamentar n.º 6/2018
+    changes:
+    - Adita Artigo 54.º-C
+    - Adita Artigo 57.º-A
+    - Adita Artigo 57.º-B
+    - Adita Artigo 57.º-C
+    - Adita Artigo 57.º-D
+    - Adita Artigo 81.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 26.º
+    - Altera Artigo 43.º
+    - Altera Artigo 54.º-A
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 62.º-A
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 69.º
+    - Altera Artigo 73.º
+    - Altera Artigo 76.º
+    - Altera Artigo 80.º
+    - Revoga Artigo 62.º-B
+    - Revoga Artigo 65.º
+  - date: '2019-06-29'
+    amending: pt:dre:122747583:por
+    amending_title: Decreto-Lei n.º 84/2019
+    changes:
+    - Altera Artigo 16.º
+  - date: '2021-04-20'
+    amending: pt:dre:161587770:por
+    amending_title: Decreto Regulamentar n.º 2/2021
+    changes:
+    - Altera Artigo 17.º
+  - date: '2026-01-01'
+    amending: pt:dre:967317022:por
+    amending_title: Decreto Regulamentar n.º 7/2025
+    changes:
+    - Adita Artigo 13.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Subsecção I
+    - Altera Artigo 16.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 70.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/1-a/2011/p/cons/20251209/pt/html
+  oj: null
+  dre: '406905'
+  dre_path: /dr/detalhe/decreto-regulamentar/1-a-2011-406905
+  internal: pt:dre:406905:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-a-2011-406905
+  metadata_url: https://data.dre.pt/eli/decregul/1-a/2011/p/cons/20251209/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2011-56720826
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2011-56720826
+  retrieved_at: '2026-10-22T11:55:13Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 78ab5908ce49a2272b14a0e651a1136cecf03262b1e46197bd15e6aef57268fc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:55:13Z'
+  notes: 10 versão(ões); histórico completo em decreto-regulamentar-1-a-2011.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contribuições da Segurança Social
+- Ensino Português no Estrangeiro
+- Entidade Patronal
+- Pesca
+- Documento Eletrónico
+- Trabalhador Rural
+- Pagamento de Contribuições
+- Pensionista
+- Proteção na Velhice
+- Internet
+- Protecção na Doença
+- Quotização
+- Proteção Social
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
+- Segurança Social
+- Seguro Social Voluntário
+- Trabalhador do Serviço Doméstico
+- Sistema Previdencial
+- TAXA Contributiva
+- Trabalhador
+- Trabalhador Independente
+- Trabalhador Intelectual
+- Trabalhador por Conta de Outrem
+- Trabalho ao Domicilio
+relationships:
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Altera Artigo 80.º; Altera Artigo 86.º; Revoga Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:175522:por
+  label: Adita Artigo 54.º-A; Adita Artigo 62.º-A; Adita Artigo 62.º-B; Altera Artigo 2.º; Altera Artigo 58.º; Altera Artigo
+    62.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-2012-175522
+  date: '2012-09-25'
+- type: amended_by
+  target: pt:dre:494803:por
+  label: Adita Artigo 54.º-B; Altera Artigo 54.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2013-494803
+  date: '2013-10-15'
+- type: amended_by
+  target: pt:dre:106642829:por
+  label: Altera Artigo 62.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2017-106642829
+  date: '2017-03-22'
+- type: amended_by
+  target: pt:dre:107791615:por
+  label: Altera Artigo 62.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615
+  date: '2017-08-01'
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Adita Artigo 42.º-A; Adita Artigo 44.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
+- type: amended_by
+  target: pt:dre:115620692:por
+  label: Adita Artigo 54.º-C; Adita Artigo 57.º-A; Adita Artigo 57.º-B; Adita Artigo 57.º-C; Adita Artigo 57.º-D; Adita Artigo
+    81.º-A; Altera Artigo 2.º; Altera Artigo 8.º; Altera Artigo 12.º; Altera Artigo 16.º; Altera Artigo 26.º; Altera Artigo
+    43.º; Altera Artigo 54.º-A; Altera Artigo 56.º; Altera Artigo 57.º; Altera Artigo 58.º; Altera Artigo 59.º; Altera Artigo
+    60.º; Altera Artigo 61.º; Altera Artigo 62.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692
+  date: '2018-07-02'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:161587770:por
+  label: Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2021-161587770
+  date: '2021-04-19'
+- type: amended_by
+  target: pt:dre:967317022:por
+  label: Adita Artigo 13.º-A; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Subsecção I; Altera Artigo 16.º;
+    Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º;
+    Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo 28.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo 70.º;
+    Revoga Artigo 9.º; Revoga Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022
+  date: '2025-12-09'
+- type: cites
+  target: pt:dre:344942:por
+  label: null
+  source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: pt:dre:479646:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/165-c/2009/07/28/p/dre
+- type: cites
+  target: pt:dre:482143:por
+  label: null
+  source: http://data.dre.pt/eli/lei/119/2009/12/30/p/dre
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:522781:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: pt:dre:538465:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/165/2006/08/11/p/dre
+article_structure:
+  article_count: 105
+  section_count: 19
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:55:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 1-A/2011
+
+Decreto Regulamentar n.º 1-A/2011
+
+de 3 de Janeiro
+
+O Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de Setembro, vem definir um novo equilíbrio entre direitos, deveres e responsabilidades, enquadrado num novo paradigma de justiça intergeracional, social e contributiva que assenta em quatro objectivos: dar resposta ao eminente envelhecimento demográfico, tornar o sistema de segurança social mais favorável ao emprego, combater a exclusão social e a pobreza e conciliar melhor e mais protecção social com uma política de rigor e eficiência.
+
+Em primeiro lugar, o Código veio possibilitar a compilação, sistematização e clarificação da legislação de segurança social, a harmonização dos princípios que determinam os direitos e as obrigações dos contribuintes e dos beneficiários do sistema previdencial de segurança social, bem como uma forte simplificação e modernização administrativas. Na verdade, só uma legislação clara permite aos cidadãos e empresas conhecerem, de forma fácil, os seus direitos e as suas obrigações, podendo facilmente exercer aqueles e cumprir estas.
+
+Em segundo lugar, foram adoptadas medidas inovadoras pelo Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, que resultaram do acordo celebrado com os parceiros sociais no âmbito das relações laborais, e que visam dar um importante contributo no combate à precariedade e à segmentação no mercado de trabalho.
+
+Em terceiro lugar, introduziu-se pela primeira vez a obrigação de partilha dos encargos entre trabalhadores e empresas com a protecção social dos trabalhadores independentes cuja actividade seja de prestação de serviços.
+
+Em quarto lugar, assegurou-se aos trabalhadores que as prestações substitutivas do rendimento do trabalho são calculadas a partir daquele que é efectivamente o rendimento do seu trabalho, garantindo-se-lhes mais protecção social, procedendo-se, conforme acordado com os parceiros sociais, ao alargamento faseado da base de incidência contributiva a novas componentes de remuneração, respeitando-se os limites definidos no Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS).
+
+Em quinto lugar, consagrou-se pela primeira vez a igualdade de tratamento, para efeitos de segurança social, do trabalho dependente e do trabalho independente, quando este seja prestado pelo mesmo trabalhador à mesma empresa ou para empresas do mesmo agrupamento empresarial. Esta consagração é mais um passo decisivo na promoção e garantia de níveis de protecção adequados aos trabalhadores, na medida em que permite aproximar a base de incidência contributiva às remunerações efectivamente auferidas, desincentivando o recurso a esquemas retributivos que resultam na desprotecção dos trabalhadores.
+
+Em sexto lugar, no que respeita à fixação da taxa contributiva deu-se cumprimento ao disposto nas bases da segurança social, aprovadas pela Lei n.º 4/2007, de 16 de Janeiro, fixando-se a taxa contributiva global em função do custo da protecção das eventualidades protegidas.
+
+No caso dos trabalhadores independentes, procedeu-se à integração da eventualidade doença no âmbito material de todos os trabalhadores, à adequação da taxa ao custo técnico das eventualidades protegidas, passando a mesma de 32 % para 29,6 % no Código e, relativamente ao montante da base de incidência contributiva mínima, à sua redução de 1,5 para um indexante de apoios sociais (IAS).
+
+Em sétimo lugar, na promoção do envelhecimento activo é mantida a possibilidade dos pensionistas em actividade continuarem a contribuir para um regime com especificidades, designadamente quanto ao âmbito material de protecção e à taxa aplicável.
+
+No âmbito do regime contra-ordenacional salienta-se a actualização do montante das coimas, para que estas desempenhem verdadeiramente um dos objectivos fundamentais das penas, que é o de dissuadir o potencial infractor de cometer a infracção.
+
+O presente decreto regulamentar vem, na sequência da entrada em vigor do Código, que adoptou estas medidas, definir as regras de execução que permitam a sua aplicação no âmbito dos regimes de segurança social. Assim, define-se um conjunto de disposições regulamentares que abrem caminho a uma maior simplificação do processo de relacionamento dos cidadãos com o sistema de segurança social.
+
+Consagrando-se, designadamente o privilégio da comunicação electrónica com as instituições de segurança social e no acesso à informação fornecida directamente pelos serviços públicos envolvidos.
+
+Foram ouvidas as confederações sindicais e patronais com assento no Conselho Permanente de Concertação Social e os órgãos de governo próprio das Regiões Autónomas.
+
+Foi promovida a audição da Comissão Nacional de Protecção de Dados.
+
+Assim:
+
+Nos termos da alínea c) do artigo 199.º da Constituição e do artigo 4.º da Lei n.º 110/2009, de 16 de Setembro, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto regulamentar procede à regulamentação do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, adiante designado Código, aprovado pela Lei n.º 110/2009, de 16 de Setembro, alterada pela Lei n.º 119/2009, de 30 de Dezembro, e pela Lei n.º 55-A/2010, de 31 de Dezembro, que aprova o Orçamento de Estado para 2011.
+
+###### Artigo 2.º — Administração electrónica
+
+1 - Com exceção dos casos expressamente previstos no Código e no presente regulamento, as entidades empregadoras, as entidades contratantes, os trabalhadores e as instituições de segurança social devem utilizar a Internet para as comunicações, apresentação de requerimentos e cumprimento das respetivas obrigações declarativas.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - É aplicável às notificações eletrónicas da segurança social, com as necessárias adaptações, o disposto nos n.os 2, 3, 4 e 6 do artigo 5.º do Decreto-Lei n.º 93/2017, de 1 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 93/2017 - Diário da República n.º 147/2017, Série I de 2017-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 50/2012 - Diário da República n.º 186/2012, Série I de 2012-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-2012-175522), em vigor a partir de 2012-09-26
+
+###### Artigo 3.º — Requerimentos e declarações
+
+1 - Sem prejuízo do disposto no Código e no presente decreto regulamentar, os requerimentos, as comunicações e as declarações são apresentados em modelos próprios, sendo os elementos necessários e respectivos meios de prova aprovados por portaria do membro do Governo responsável pela área da segurança social.
+
+2 - Os modelos de formulários de requerimentos, comunicações e declarações necessários à aplicação do Código e respectiva regulamentação são aprovados por despacho do membro do Governo responsável pela área da segurança social.
+
+3 - A identificação dos elementos e os respectivos meios de prova necessários à inscrição e ao enquadramento dos trabalhadores por conta de outrem, das entidades empregadoras, dos trabalhadores independentes e dos beneficiários do seguro social voluntário constam de portaria do membro do Governo responsável pela área da segurança social.
+
+4 - São igualmente fixados por portaria os procedimentos relacionados com a regularização do cumprimento de obrigação contributiva.
+
+###### Artigo 4.º — Elementos em falta
+
+As entidades empregadoras e os trabalhadores devem prestar os esclarecimentos solicitados pelas instituições de segurança social competentes no prazo de 10 dias quando seja verificada a falta de elementos ou se suscitem dúvidas quanto aos elementos obtidos por interconexão de dados ou por outra via oficiosa.
+
+### Capítulo II — Regime geral dos trabalhadores por conta de outrem
+
+#### Secção I — Relação jurídica de vinculação
+
+###### Artigo 5.º — Comunicação da admissão de trabalhadores
+
+1 - Para efeitos da comunicação da admissão de trabalhador prevista no artigo 29.º do Código, o trabalhador deve fornecer à entidade empregadora os elementos necessários à sua inscrição e enquadramento no regime.
+
+2 - A declaração deve ainda conter os elementos de identificação da entidade empregadora.
+
+3 - Na admissão de trabalhador estrangeiro a entidade empregadora, para além dos elementos referidos no n.º 1, exige os documentos considerados necessários de acordo com a legislação que regula a entrada, permanência, saída e afastamento de estrangeiros do território nacional.
+
+4 - Caso o trabalhador não se encontre identificado no sistema de segurança social, é-lhe oficiosamente atribuído o número de identificação da segurança social (NISS) com base nos elementos referidos no n.º 1 constantes dos documentos de identificação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 6.º — Prova de admissão de trabalhadores
+
+1 - A entidade empregadora é obrigada a entregar ao trabalhador admitido o comprovativo da comunicação do vínculo ao regime geral de segurança social dos trabalhadores por conta de outrem.
+
+2 - (Revogado.)
+
+3 - Exceto no caso de trabalhadores estrangeiros, a obrigação referida no n.º 1 pode ser considerada cumprida quando o trabalhador tenha acesso à área reservada da Segurança Social Direta, através da qual é feita a comunicação da admissão e do vínculo do trabalhador.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 7.º — Enquadramento supletivo
+
+1 - Em caso de incumprimento, pela entidade empregadora e pelo trabalhador, do disposto, respectivamente, nos artigos 29.º e 33.º do Código, o enquadramento pode ser promovido pela instituição competente, por sua iniciativa ou a solicitação de qualquer familiar interessado na concessão de prestações, nos termos dos números seguintes.
+
+2 - A promoção do enquadramento por familiar do trabalhador só é admissível em caso de impedimento do trabalhador.
+
+3 - A comunicação por familiar do trabalhador é acompanhada de documento comprovativo do impedimento do trabalhador e de cópia do contrato de trabalho, de recibo de vencimento ou de qualquer outro documento idóneo que comprove a relação laboral.
+
+4 - O suprimento oficioso do enquadramento pela instituição de segurança social deve resultar do recurso a dados de que disponha no seu sistema de informação, nos sistemas de informação fiscal ou da justiça ou decorrente de acção de fiscalização.
+
+5 - O disposto no presente artigo não se aplica nos casos em que a obrigação contributiva se encontre extinta por prescrição.
+
+###### Artigo 8.º — Comunicação da cessação, suspensão e alteração da modalidade do contrato de trabalho
+
+1 - As declarações da entidade empregadora relativas à cessação e suspensão do contrato de trabalho, bem como à alteração da modalidade de contrato de trabalho e a alteração do valor das remunerações permanentes, previstas nos n.os 1 e 2 do artigo 32.º do Código, são efetuadas até ao dia 10 do mês seguinte ao da sua ocorrência, no serviço da Segurança Social Direta ou através da Plataforma de Serviços de Interoperabilidade.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 9.º — Declaração do trabalhador
+
+1 - A declaração do trabalhador a que se refere o artigo 33.º do Código é apresentada entre a data de celebração do contrato e o final do 2.º dia de prestação de trabalho, podendo ser apresentada em conjunto com a declaração da entidade empregadora.
+
+2 - Para efeitos do disposto no n.º 2 do mesmo artigo, os períodos de actividade relevam a partir do dia seguinte ao da apresentação da declaração pelo trabalhador, quando esta seja apresentada fora do prazo previsto no número anterior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 10.º — Efectivação de inscrição das entidades empregadoras
+
+1 - Para efeitos do disposto no artigo 34.º do Código, consideram-se oficiosamente inscritas na segurança social as entidades empregadoras cuja inscrição no registo comercial ou, tratando-se de entidade não sujeita a registo comercial obrigatório, no ficheiro central de pessoas colectivas, seja comunicada pelos serviços de registo.
+
+2 - É ainda efectuada oficiosamente, com base em acções de inspecção ou de fiscalização, a inscrição de entidades irregularmente constituídas que tenham trabalhadores ao seu serviço.
+
+###### Artigo 11.º — Inscrição da entidade empregadora
+
+A inscrição da entidade empregadora no sistema previdencial é efectuada com base no respectivo NISS.
+
+###### Artigo 12.º — Competência para proceder à inscrição e enquadramento
+
+1 - A entidade de segurança social competente para proceder à inscrição das entidades empregadora é, salvo competência especial das caixas sindicais de previdência:
+
+a) O Instituto da Segurança Social, I. P., se o local de trabalho for no território continental;
+
+b) O Instituto de Segurança Social da Madeira, I. P.-RAM, se o local de trabalho for na Região Autónoma da Madeira;
+
+c) O Instituto da Segurança Social dos Açores, I. P.-RA, se o local de trabalho for na Região Autónoma dos Açores.
+
+2 - Para efeitos de aplicação do artigo 282.º do Código, compete ao Instituto da Segurança Social, I. P., proceder à inscrição e enquadramento dos trabalhadores não residentes em Portugal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+#### Secção II — Relação jurídica contributiva
+
+##### Subsecção I — Declaração à segurança social
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 13.º — Suporte da declaração de remunerações
+
+Para efeitos do disposto no artigo 41.º do Código, a declaração de remunerações obedece a modelo próprio e é preenchida de acordo com os requisitos técnicos e procedimentos constantes no sítio da Internet da segurança social, aprovados por despacho do membro do Governo responsável pela área da segurança social.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 13.º-A — Declaração à segurança social
+
+1 - A declaração inclui a identificação dos trabalhadores ao serviço da entidade empregadora, os dias de trabalho e os valores da remuneração devida no mês de referência, discriminados de acordo com os requisitos técnicos aprovados por despacho do membro do Governo responsável pela área da segurança social, publicitado no Portal da Segurança Social.
+
+2 - Sem prejuízo de previsão legal específica em contrário, a alteração da taxa contributiva aplicável à entidade empregadora ou ao trabalhador produz efeitos a partir do mês seguinte ao da verificação do facto determinante daquela alteração.
+
+3 - As declarações das entidades empregadoras necessárias à determinação da taxa contributiva aplicável aos trabalhadores e ao apuramento das remunerações e das contribuições devidas são efetuadas através da Plataforma de Serviços de Interoperabilidade.
+
+4 - Em caso de indisponibilidade técnica ou operacional da Plataforma de Serviços de Interoperabilidade, pode ser determinada a necessidade de as entidades empregadoras procederem a comunicações ou declarações no serviço da Segurança Social Direta, quando motivos da sua natureza específica e requisitos de natureza técnica assim o obriguem.
+
+5 - As entidades empregadoras com menos de 10 trabalhadores podem efetuar as comunicações e declarações previstas no n.º 1 no serviço da Segurança Social Direta.
+
+6 - A transição para a Plataforma de Serviços de Interoperabilidade é definitiva.
+
+7 - O disposto nos n.os 3 a 5 é aplicável à generalidade das comunicações e declarações das entidades empregadoras relativas à admissão de trabalhadores e à determinação da obrigação contributiva.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 14.º — Identificação dos trabalhadores
+
+A declaração de remunerações inclui a identificação dos trabalhadores ao serviço da entidade contribuinte a quem seja devida remuneração no mês de referência, de acordo com os procedimentos previstos no artigo anterior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 15.º — Remunerações a declarar
+
+O valor das remunerações a declarar é discriminado de acordo com os requisitos definidos no despacho previsto no artigo 13.º
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 16.º — Declaração de tempos de trabalho
+
+1 - Os tempos de trabalho são declarados em dias.
+
+2 - O número máximo considerado em cada mês é de 30 dias de trabalho.
+
+3 - Nas situações de início, interrupção, suspensão ou cessação de contrato de trabalho a tempo completo é declarado o número efectivo de dias de trabalho prestado a que correspondeu remuneração.
+
+4 - No caso de prestação de trabalho ao abrigo de contrato de muito curta duração, são declarados os dias de trabalho para efeitos da verificação da conformidade com o previsto no Código do Trabalho.
+
+5 - Nos casos em que seja previsto no Código a declaração de remuneração horária para efeitos de determinação da base de incidência contributiva e do montante de contribuições e quotizações devidas, por cada conjunto de cinco horas de trabalho é declarado um dia e, quando o número de horas de trabalho exceda múltiplos de cinco, é declarado mais um dia, com o limite máximo de 30 dias em cada mês.
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 193.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 17.º — Declaração de remunerações dos trabalhadores da pesca local
+
+1 - A declaração de remunerações relativa aos trabalhadores da pesca local e costeira, cujas remunerações são calculadas com base no valor do produto bruto do pescado vendido em lota, é preenchida e entregue, pelos proprietários das embarcações, nas entidades que asseguram os serviços de vendagem em lota, sendo declarados três dias de trabalho por cada dia de venda em lota, com o limite de 30 dias por mês.
+
+2 - As entidades de segurança social competentes e as entidades que asseguram os serviços de vendagem em lota celebram, no prazo máximo de três meses, protocolo que garanta o apoio necessário aos proprietários das embarcações no preenchimento das declarações de remunerações.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 2/2021 - Diário da República n.º 75/2021, Série I de 2021-04-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2021-161587770), em vigor a partir de 2021-04-20
+
+###### Artigo 18.º — Declaração de remunerações do serviço doméstico
+
+A declaração de remunerações relativa aos trabalhadores do serviço doméstico é efectuada com o pagamento das contribuições e quotizações devidas.
+
+###### Artigo 19.º — Tempo de trabalho no domicílio
+
+Quando se tratar de contrato de trabalho no domicílio, nos termos da legislação laboral, o número de dias a declarar em cada mês é o seguinte:
+
+a) 30 dias, quando a remuneração declarada for igual ou superior ao valor da remuneração mínima mensal garantida;
+
+b) O número de dias correspondentes ao valor da remuneração dividido pelo valor diário da remuneração mínima mensal garantida, nos restantes casos.
+
+###### Artigo 20.º — Valores de remuneração e tempos de trabalho
+
+1 - O sistema de segurança social apura os valores da remuneração e os dias de trabalho de cada trabalhador declarados pela entidade empregadora e os decorrentes da respetiva atualização, nos termos do disposto nos artigos 29.º, 32.º e 40.º do Código.
+
+2 - Sempre que a remuneração devida ao trabalhador num determinado mês corresponda a outros valores, a entidade empregadora deve declarar obrigatoriamente esses valores.
+
+3 - As actualizações e os acertos de remunerações, bem como os montantes das comissões, gratificações, prémios e bónus que se reportem a mais do que um mês são declarados no mês em que forem pagos e reportam-se aos meses de referência a que respeitam.
+
+4 - Os honorários previstos no artigo 130.º do Código são declarados de forma autónoma pela entidade beneficiária dos serviços, sendo a declaração efetuada através do serviço da Segurança Social Direta.
+
+5 - Quando, no decurso do mesmo mês, se verifiquem, sucessivamente, períodos de prestação de trabalho e de inatividade, o cálculo da remuneração a utilizar pelo sistema para o apuramento de remunerações é feito de acordo com a seguinte fórmula:
+
+Valor Remuneração = (Remuneração Base/30 dias) x dias a considerar
+
+6 - A fórmula prevista no número anterior é ainda utilizada nas seguintes situações:
+
+a) Quando a base de incidência contributiva corresponde a remuneração convencional;
+
+b) No apuramento mensal pelo sistema das remunerações dos trabalhadores, quando não tenha havido atividade profissional na totalidade do mês;
+
+c) Quando a entidade empregadora não proceda à verificação e confirmação do apuramento de remunerações efetuado pelo sistema, sem prejuízo da atuação dos serviços ou de possíveis ações de fiscalização destinados ao apuramento oficioso da remuneração efetivamente considerada pela entidade empregadora nos meses em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 21.º — Validade da declaração à segurança social
+
+1 - A declaração é considerada validamente entregue em cada mês na data em que é confirmada ou na data-limite para aceitação pela entidade empregadora.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 22.º — Verificação dos elementos da declaração
+
+1 - As instituições de segurança social, por recurso ao sistema de informação da segurança social, procedem à verificação dos elementos constantes da declaração de remunerações e do cálculo do montante da totalidade das contribuições que lhes correspondam, tendo em vista a respectiva validação e aceitação.
+
+2 - Não são considerados os valores declarados que não obedeçam aos requisitos e procedimentos previstos no artigo 13.º, sendo esse facto notificado à entidade empregadora.
+
+3 - Para efeitos do disposto no número anterior, é considerada notificação a mensagem disponibilizada através do sistema de informação da segurança social à entidade empregadora sobre a não consideração de valores declarados.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 23.º — Validade e eficácia da declaração à segurança social
+
+1 - À validade, eficácia e valor probatório da declaração por transmissão eletrónica de dados ou através da utilização da Plataforma de Serviços de Interoperabilidade é aplicável o regime jurídico dos documentos eletrónicos.
+
+2 - À transmissão pelos meios referidos no número anterior não se aplica a possibilidade de deduzir impugnação ao abrigo do disposto na parte final do artigo 368.º do Código Civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 24.º — Confirmação dos elementos das declarações à segurança social
+
+1 - As instituições de segurança social podem exigir a confirmação dos elementos constantes das declarações que lhes suscitem dúvidas, solicitando, para o efeito, provas adicionais.
+
+2 - O disposto no número anterior aplica-se, em especial, nos casos em que, por referência a qualquer trabalhador, se verifiquem variações não justificadas no montante das remunerações declaradas.
+
+3 - A confirmação das remunerações pode efectuar-se, designadamente, através da apresentação de declarações fiscais ou da concessão de autorização à instituição de segurança social competente para consulta das bases de dados fiscais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 25.º — Certificação da declaração à segurança social
+
+1 - A confirmação das declarações à segurança social pelas entidades empregadoras, bem como, quando ocorra, a aceitação das declarações preenchidas pelo sistema com base em declarações prévias, são certificadas através da disponibilização do comprovativo respetivo.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 26.º — Correcção dos elementos declarados
+
+1 - Os elementos declarados à segurança social relativos a um determinado mês podem ser supridos ou corrigidos pela entidade empregadora nos dois meses seguintes ao mês da declaração a que os mesmos respeitam.
+
+2 - A entidade empregadora pode ainda proceder à anulação, suprimento ou correção dos elementos declarados até quatro meses após a data em que foram ou deveriam ter sido declarados, sendo consideradas, para todos os efeitos, como efetuadas fora de prazo.
+
+3 - As declarações referidas no número anterior efetuadas após o prazo nele referido só podem ter lugar mediante requerimento e apresentação de prova que fundamente o pedido, sendo reconhecida a alteração na carreira dos beneficiários após decisão favorável pelos serviços competentes, e as declarações consideradas, para todos os efeitos, como efetuadas fora de prazo.
+
+4 - A declaração relativa a períodos anteriores à data do início de atividade comunicada na admissão do trabalhador, quando não se encontre prescrita a obrigação contributiva correspondente, só pode ser aceite após decisão favorável relativa à retroação da admissão do trabalhador, requerida ao serviço de segurança social competente mediante apresentação de prova inequívoca da prévia existência da relação de trabalho.
+
+5 - Para efeitos dos n.os 2 e 3, no caso de decisão favorável é aplicável o disposto no artigo 30.º, designadamente no que respeita aos dados disponibilizados pela Segurança Social para pagamento das contribuições e quotizações devidas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 27.º — Suprimento oficioso da declaração à segurança social
+
+O suprimento oficioso da declaração, previsto no artigo 40.º-A do Código, ocorre, designadamente, quando:
+
+a) A entidade empregadora não confirme os valores apurados pelo Sistema de Informação da Segurança Social e não proceda ao pagamento das contribuições e quotizações devidas;
+
+b) A entidade empregadora omita trabalhador ou valores na declaração de remunerações;
+
+c) Tenha sido rejeitada a declaração e considerada como não aceite nos termos do n.º 2 do artigo 22.º;
+
+d) O trabalhador o solicite ou, encontrando-se este impedido, tal solicitação seja efectuada por familiar que prove ter interesse no cumprimento daquela obrigação, mediante apresentação de prova documental.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 28.º — Notificação do suprimento oficioso
+
+Nas situações previstas no artigo anterior, a instituição de segurança social notifica a entidade empregadora da falta detetada, convidando-a a suprir ou a justificar a mesma, no prazo de 10 dias, findo o qual é desencadeado o procedimento para suprimento oficioso da falta ou dos vícios da declaração.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 29.º — Procedimento para suprimento da declaração à segurança social
+
+1 - O cumprimento das obrigações referidas no artigo 40.º do Código é aferido mensalmente e o seu incumprimento determina a intervenção dos serviços ou o desencadear de uma ação de fiscalização ou de inspeção para apuramento oficioso dos elementos em falta e respetivo registo.
+
+2 - O suprimento oficioso é efetuado tendo em consideração a remuneração base e outras remunerações que constem do sistema, nos termos previstos no n.º 7 do artigo 40.º do Código, sem prejuízo de eventuais ações de fiscalização ou de inspeção.
+
+3 - Na falta de elementos relativos à remuneração base dos trabalhadores, o valor das remunerações a considerar corresponde ao valor da retribuição mínima mensal garantida reportada a 30 dias de trabalho, nas situações em que a base de incidência contributiva corresponda a remunerações efetivas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+###### Artigo 30.º — Comunicação do registo da declaração oficiosa
+
+1 - Findo o prazo para a justificação ou suprimento da falta, os elementos apurados são registados oficiosamente, sendo remetido à entidade empregadora o respetivo comprovativo, conjuntamente com a indicação da forma de obtenção dos dados disponibilizados pela segurança social que devem ser obrigatoriamente utilizados para o pagamento voluntário das contribuições e quotizações devidas.
+
+2 - A falta de cumprimento da obrigação contributiva determina a sua cobrança coerciva.
+
+3 - O disposto no presente artigo é igualmente aplicável nas situações previstas no n.º 9 do artigo 40.º do Código.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+##### Subsecção II — Base de incidência
+
+###### Artigo 31.º — Equivalência pecuniária das remunerações em espécie
+
+A equivalência pecuniária das remunerações em espécie para efeitos de determinação da sua incidência contributiva faz-se nos termos previstos no Código do Imposto Sobre o Rendimento das Pessoas Singulares (CIRS).
+
+###### Artigo 32.º — Aplicação geral de instrumento de regulamentação colectiva
+
+Para efeitos do disposto no n.º 4 do artigo 46.º do Código, considera-se que um instrumento de regulamentação colectiva de trabalho é aplicado de forma geral sempre que a entidade empregadora obedeça a um mesmo critério de aplicação relativamente a todos os trabalhadores por ele abrangidos.
+
+###### Artigo 33.º — Efeitos específicos das prestações remuneratórias na remuneração de referência
+
+Os valores sujeitos a incidência contributiva nos termos do disposto na alínea v) do n.º 2 do artigo 46.º do Código relevam para efeitos de registo de remunerações do trabalhador nos seguintes termos:
+
+a) No último mês de vigência do contrato de trabalho que cessou;
+
+b) No 1.º mês de vigência do contrato de trabalho que inicia, sempre que o trabalhador celebre novo contrato de trabalho com a mesma entidade empregadora que determine a tributação de toda a importância recebida para efeitos de imposto sobre o rendimento das pessoas singulares.
+
+###### Artigo 34.º — Base de incidência dos trabalhadores da pesca local e costeira
+
+1 - Para efeitos de aplicação do disposto no n.º 1 do artigo 98.º do Código, ao valor bruto do pescado vendido em lota é retirado o montante correspondente às partes do proprietário da embarcação.
+
+2 - A cobrança das contribuições referidas no n.º 1 do artigo 98.º do Código é efectuada no acto da venda do pescado pelos serviços de vendagem em lota competentes.
+
+> Revogado pelo/a Artigo 83.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+##### Subsecção III — Mandatários
+
+###### Artigo 35.º — Mandatários das entidades contribuintes
+
+1 - Para efeitos de aplicação do Código, as entidades contribuintes podem conferir mandato sob a forma prevista na lei.
+
+2 - A nomeação do mandatário é comunicada à instituição de segurança social competente pela entidade contribuinte através do sítio da Internet da segurança social antes de ser iniciado o exercício do mandato, sob pena de serem considerados como não efectuados os actos entretanto praticados pelo mandatário.
+
+3 - A comunicação referida no número anterior é feita mediante a apresentação de documento próprio, se os actos a praticar não puderem ser efectuados por via electrónica.
+
+4 - A revogação do mandato só produz efeitos perante as instituições de segurança social após a sua devida notificação.
+
+5 - As normas procedimentais aplicam-se, com as devidas adaptações, aos mandatários das entidades contribuintes.
+
+##### Subsecção IV — Isenção ou redução de taxa contributiva
+
+###### Artigo 36.º — Dívida à segurança social
+
+1 - Para efeitos do disposto no artigo 59.º do Código, sempre que a entidade beneficiária de isenção ou redução de taxa contributiva contraia dívida à segurança social ou à administração fiscal, o benefício cessa a partir do mês seguinte àquele em que é contraída a dívida.
+
+2 - A isenção ou redução da taxa contributiva pode ser retomada a partir do mês seguinte àquele em que tiver lugar a regularização da situação contributiva perante a segurança social e a administração fiscal.
+
+#### Secção III — Trabalhadores integrados em categorias ou situações específicas e situações equiparadas a trabalho por conta de outrem
+
+###### Artigo 37.º — Enquadramento dos membros dos órgãos estatutários
+
+1 - A instituição de segurança social competente, após receber a comunicação oficiosa de início de actividade de membro de órgão estatutário, procede à inscrição do trabalhador, quando este não se encontre inscrito, ou à actualização dos respectivos dados.
+
+2 - A instituição de segurança social competente notifica a entidade empregadora para, no prazo de 10 dias, fornecer os elementos necessários ao enquadramento ou à exclusão do trabalhador.
+
+3 - Em caso de incumprimento do disposto no número anterior, a instituição de segurança social procede ao enquadramento oficioso do trabalhador e fixa a base de incidência contributiva pelo valor correspondente ao limite mínimo definido no n.º 1 do artigo 66.º do Código.
+
+###### Artigo 38.º — Elementos de prova para a exclusão do regime aplicável aos membros dos órgãos estatutários
+
+1 - Para efeitos do disposto nas alíneas a) e b) do artigo 63.º e do n.º 1 do artigo 64.º do Código, a entidade empregadora deve apresentar à instituição de segurança social competente cópia do pacto social ou da acta da assembleia geral em que constem os elementos necessários à comprovação da exclusão.
+
+2 - Para efeitos do disposto do n.º 1 do artigo 64.º do Código, tratando-se de enquadramento em regime obrigatório de protecção social ou de situação de pensionista de que a instituição de segurança social não possa ter conhecimento directo, a certificação é efectuada mediante documento comprovativo emitido pela entidade competente.
+
+###### Artigo 39.º — Cessação da actividade dos membros dos órgãos estatutários
+
+1 - A instituição de segurança social competente procede ao registo da cessação de actividade dos membros dos órgãos estatutários com base nos elementos que recebe oficiosamente nos termos da legislação em vigor ou mediante prova inequívoca da cessação da actividade apresentada pelo interessado.
+
+2 - Para efeitos do disposto no n.º 2 do artigo 70.º do Código, o membro de órgão estatutário apresenta requerimento em formulário de modelo próprio.
+
+###### Artigo 40.º — Base de incidência facultativa dos praticantes desportivos profissionais
+
+Para efeitos de exercício do direito de opção previsto no artigo 78.º do Código as entidades empregadoras dos praticantes desportivos profissionais devem, conjuntamente com os elementos referidos no n.º 1 do artigo 5.º, remeter à instituição de segurança social competente cópia do acordo para o efeito celebrado.
+
+###### Artigo 41.º — Comunicação de admissão de trabalhadores nos contratos de trabalho de muito curta duração
+
+A comunicação de admissão de trabalhador em regime de contrato de trabalho de muito curta duração é efectuada no sítio da Internet da segurança social através de formulário próprio, contendo os seguintes elementos:
+
+a) Identificação, domicílio ou sede das partes;
+
+b) Actividade do trabalhador e correspondente retribuição;
+
+c) Data de início dos efeitos do contrato de trabalho;
+
+d) Local de trabalho;
+
+e) Duração do contrato de trabalho.
+
+###### Artigo 42.º — Conversão do contrato de trabalho de muito curta duração em contrato de trabalho a termo
+
+Sempre que o contrato de trabalho de muito curta duração se converta em contrato a termo de acordo com a legislação laboral, aplica-se a taxa contributiva correspondente com efeitos ao mês da conversão.
+
+###### Artigo 42.º-A — Jovens contratados no período de férias escolares
+
+1 - O enquadramento de jovens ao abrigo do artigo 83.º-A do Código não pode exceder o período de férias escolares estabelecido para o respetivo nível de ensino.
+
+2 - A comunicação de admissão de jovens no período de férias escolares é efetuada no sítio da internet da segurança social através de formulário próprio, contendo os seguintes elementos:
+
+a) Identificação, domicílio ou sede das partes;
+
+b) Identificação do estabelecimento de ensino;
+
+c) Ano de escolaridade e nível de ensino que o trabalhador frequenta;
+
+d) Data de início dos efeitos do contrato de trabalho;
+
+e) Local de trabalho;
+
+f) Duração do contrato de trabalho e data da respetiva cessação.
+
+3 - O enquadramento de jovens ao abrigo do artigo 83.º-A do Código cessa no último dia do período de férias escolares.
+
+4 - Os serviços de segurança social procedem à verificação do cumprimento do disposto no n.º 1 para efeitos de aplicação do disposto no número anterior.
+
+5 - As instituições de segurança social podem exigir a confirmação dos elementos constantes da comunicação prevista no n.º 1 que lhes suscitem dúvidas, solicitando, para o efeito, provas adicionais.
+
+> Aditado pelo/a Artigo 173.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16
+
+###### Artigo 43.º — Prova da situação de trabalhador em situação de pré-reforma
+
+1 - A entidade empregadora deve remeter o acordo de pré-reforma à instituição de segurança social competente no prazo de cinco dias após a sua entrada em vigor.
+
+2 - Recebido o acordo referido no número anterior, a instituição de segurança social competente procede às devidas alterações de enquadramento.
+
+3 - Nos casos em que o acordo de pré-reforma seja apresentado em data posterior à referida no n.º 1, a alteração do enquadramento produz efeitos a partir do mês seguinte ao da sua apresentação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 44.º — Prova da situação de pensionista
+
+Para efeitos do disposto no artigo 89.º do Código, a instituição de segurança social procede ao enquadramento com efeitos no mês seguinte ao da verificação da situação, nos seguintes termos:
+
+a) Tratando-se de pensionistas de invalidez ou velhice do sistema previdencial, de forma oficiosa;
+
+b) Tratando-se de pensionistas de invalidez e velhice de regime de protecção social de que a entidade de segurança social competente não tenha conhecimento directo, mediante recepção de cópia do documento emitido pela entidade que atribuiu a respectiva pensão ou do cartão de pensionista, do qual conste a natureza da pensão, remetido pela entidade empregadora.
+
+###### Artigo 44.º-A — Pensionistas em funções públicas
+
+A proteção na eventualidade de doença prevista no n.º 3 do artigo 90.º do Código não é aplicável nas situações em que o pensionista mantenha o recebimento da pensão.
+
+> Aditado pelo/a Artigo 173.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16
+
+###### Artigo 45.º — Prova de contrato intermitente
+
+1 - A entidade empregadora deve remeter cópia do contrato de trabalho intermitente ou em exercício intermitente da prestação de trabalho com os requisitos exigidos pela legislação laboral à instituição de segurança social competente.
+
+2 - O documento referido no número anterior é entregue no prazo de cinco dias a partir da comunicação da admissão do trabalhador ou da conversão do respectivo contrato de trabalho, ou juntamente com aquela.
+
+###### Artigo 46.º — Trabalhadores em regime de contrato intermitente
+
+Para efeitos do disposto no artigo 94.º do Código, o registo de remunerações por equivalência tem a duração máxima de 6 meses em cada período de 12 meses de vigência do contrato, quando verificadas as condições previstas no Código do Trabalho.
+
+###### Artigo 47.º — Condições de acesso aos incentivos à permanência no mercado de trabalho
+
+1 - Para efeitos de aplicação do disposto nos artigos 105.º a 107.º do Código, a instituição de segurança social procede à alteração de enquadramento, produzindo efeitos a partir do mês seguinte ao da verificação das seguintes situações:
+
+a) Sempre que tenha conhecimento directo de pelo menos 40 anos de carreira contributiva do trabalhador, verificadas as demais condições legais, de forma oficiosa;
+
+b) Sempre que não tenha conhecimento directo de toda ou parte da carreira contributiva do trabalhador, mediante requerimento apresentado pela entidade empregadora acompanhado de documentos que provem a existência dos períodos em falta.
+
+2 - Para efeitos do disposto na alínea b) do número anterior o trabalhador deve informar a entidade empregadora de que reúne as condições previstas no número anterior, bem como entregar-lhe os documentos comprovativos.
+
+###### Artigo 48.º — Condições de acesso aos incentivos à contratação de trabalhadores com deficiência
+
+Para efeitos de aplicação do disposto nos artigos 108.º e 109.º do Código, a entidade empregadora deve apresentar requerimento através de formulário próprio, acompanhado de atestado médico de incapacidade multiusos emitido pelos serviços de saúde ou pelos serviços do Instituto do Emprego e Formação Profissional que ateste a situação de deficiência e respectivo grau.
+
+###### Artigo 49.º — Base de incidência facultativa dos trabalhadores de serviço doméstico
+
+1 - Para efeitos de exercício do direito de opção previsto no n.º 2 do artigo 120.º do Código a entidade empregadora de trabalhador de serviço doméstico deve remeter à instituição de segurança social competente cópia do acordo para o efeito celebrado e do atestado de capacidade para o exercício da actividade previsto no n.º 5 do mesmo artigo.
+
+2 - A remuneração efectivamente auferida pelo trabalhador do serviço doméstico é considerada base de incidência contributiva a partir do mês seguinte ao da apresentação dos documentos a que se refere o número anterior.
+
+3 - A actualização da remuneração do trabalhador é comunicada pela entidade empregadora à instituição de segurança social competente no prazo de cinco dias.
+
+###### Artigo 50.º — Regime facultativo dos membros das igrejas, associações e confissões religiosas
+
+1 - Para efeitos de opção pelo âmbito material de protecção previsto no n.º 2 do artigo 125.º do Código, a entidade contribuinte deve remeter à instituição de segurança social competente o acordo escrito celebrado para esse efeito.
+
+2 - A opção pelo âmbito material previsto no n.º 2 do artigo 125.º do Código produz efeitos a partir do mês seguinte ao da apresentação do documento a que se refere o número anterior.
+
+###### Artigo 51.º — Base de incidência facultativa dos membros das igrejas, associações e confissões religiosas
+
+1 - A opção por base de incidência contributiva superior ao valor de uma vez o indexante dos apoios sociais pelos beneficiários referidos no artigo 122.º do Código é requerida à instituição de segurança social competente através de formulário próprio.
+
+2 - O requerimento previsto no número anterior é acompanhado do acordo escrito celebrado com a entidade contribuinte, no qual consta obrigatoriamente o escalão a fixar como base de incidência contributiva.
+
+3 - O deferimento produz efeitos a partir do mês seguinte ao da apresentação do requerimento a que se refere o n.º 1.
+
+###### Artigo 52.º — Cessação da obrigação de contribuir dos membros das igrejas, associações e confissões religiosas
+
+1 - Para efeitos do disposto no artigo 128.º do Código, sempre que a instituição de segurança social competente tenha conhecimento directo de que o trabalhador tem pelo menos 40 anos de carreira contributiva, verificadas as demais condições legais, a sua não inclusão na declaração de remunerações é considerada como requerimento de cessação da obrigação de contribuir.
+
+2 - Para efeitos do disposto no artigo 128.º do Código, sempre que a instituição de segurança social competente não tenha conhecimento directo de toda ou parte da carreira contributiva do trabalhador, a entidade empregadora deve apresentar requerimento acompanhado de documentos que provem a existência dos períodos em falta.
+
+3 - Sem prejuízo do disposto no número seguinte, na situação prevista no número anterior a obrigação contributiva suspende-se a partir do mês seguinte ao da apresentação do requerimento.
+
+4 - Sendo o requerimento indeferido há lugar à correcção oficiosa das declarações de remuneração apresentadas, dando origem à correspondente obrigação de pagamento de contribuições e quotizações.
+
+5 - Sendo o requerimento deferido a obrigação contributiva cessa no mês seguinte ao da apresentação do requerimento.
+
+### Capítulo III — Regime dos trabalhadores independentes
+
+###### Artigo 53.º — Identificação e inscrição
+
+1 - A inscrição dos trabalhadores independentes é efectuada com base no respectivo NISS.
+
+2 - A atribuição de NISS, quando necessário, é efectuada oficiosamente com base na identificação civil e fiscal.
+
+###### Artigo 54.º — Enquadramento
+
+Independentemente do número de actividades autónomas prosseguidas simultaneamente pelo trabalhador é efectuado um único enquadramento no regime dos trabalhadores independentes.
+
+###### Artigo 54.º-A — Atualização de dados dos trabalhadores independentes
+
+1 - A declaração dos elementos complementares necessários ao enquadramento, bem como à fixação da base de incidência contributiva dos trabalhadores independentes que não possam ser obtidos através da troca de informação com a administração tributária, é efetuada:
+
+a) Trimestralmente, nos períodos declarativos previstos no n.º 3 do artigo 151.º-A do Código;
+
+b) Anualmente, no prazo legal para a entrega da declaração fiscal, através do anexo SS ao modelo 3 da declaração de imposto sobre o rendimento das pessoas singulares, o qual é remetido aos serviços da segurança social pela entidade tributária competente, sem prejuízo do disposto no número seguinte.
+
+2 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 134.º do Código, os empresários em nome individual e os titulares de estabelecimento individual de responsabilidade limitada que exerçam exclusivamente atividade industrial ou comercial, devem declarar no sítio da Internet da segurança social, no mês em que se verifique, o início ou a cessação dessa forma de exercício de atividade.»
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2013 - Diário da República n.º 199/2013, Série I de 2013-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2013-494803), em vigor a partir de 2013-10-16
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 50/2012 - Diário da República n.º 186/2012, Série I de 2012-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-2012-175522), em vigor a partir de 2012-09-26
+
+###### Artigo 54.º-B — Produção de efeitos da aplicação da taxa contributiva
+
+A aplicação da taxa contributiva prevista no n.º 4 do artigo 168.º do Código, por força do disposto no n.º 2 do artigo anterior, produz efeitos a partir do mês em que é feita a declaração e deixa de ser aplicável a partir do mês seguinte ao da declaração de mudança da forma do exercício de atividade.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 6/2013 - Diário da República n.º 199/2013, Série I de 2013-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2013-494803), em vigor a partir de 2013-10-16
+
+###### Artigo 54.º-C — Exclusão do regime
+
+1 - Para efeitos de aplicação do artigo 139.º do Código, sempre que os elementos que determinam a exclusão do regime dos trabalhadores independentes não sejam do conhecimento da instituição de segurança social, os trabalhadores independentes devem requerer a sua exclusão.
+
+2 - O trabalhador independente é responsável pela comunicação das situações determinantes da cessação de exclusão até ao final do mês em que as mesmas ocorrerem, sem prejuízo da sua verificação oficiosa pelos serviços da segurança social competentes, designadamente por troca de informação com as entidades que disponibilizam os rendimentos determinantes da verificação da exclusão.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 55.º — Opção das cooperativas pelo regime dos trabalhadores independentes
+
+1 - As cooperativas de produção e serviços que, nos termos do disposto no artigo 135.º do Código, optem pelo enquadramento dos seus membros trabalhadores no regime dos trabalhadores independentes devem comunicar esta opção à instituição de segurança social competente através de formulário de modelo próprio.
+
+2 - O enquadramento dos trabalhadores referidos no número anterior produz efeitos a partir do mês seguinte ao da comunicação da opção.
+
+###### Artigo 56.º — Comunicação do início de actividade dos cônjuges dos trabalhadores independentes
+
+1 - O início de atividade dos cônjuges dos trabalhadores independentes e dos unidos de facto identificados na alínea c) do n.º 1, no n.º 2 do artigo 133.º e na alínea a) do n.º 1 do artigo 134.º do Código é por estes obrigatoriamente comunicado no mês de início de atividade.
+
+2 - A comunicação referida no número anterior é efectuada através de formulário próprio à instituição de segurança social competente para proceder à inscrição.
+
+3 - A prova da união de facto é efetuada nos termos da Lei n.º 7/2001, de 11 de maio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 57.º — Cessação de enquadramento dos cônjuges dos trabalhadores independentes
+
+1 - O enquadramento dos cônjuges dos trabalhadores independentes cessa quando se verifique qualquer das seguintes situações:
+
+a) Cessar a actividade do trabalhador independente;
+
+b) Cessar a sua actividade;
+
+c) Quando se verifique o início de actividade independente própria.
+
+2 - O enquadramento cessa ainda pela:
+
+a) Dissolução do casamento;
+
+b) Declaração de nulidade do casamento;
+
+c) Anulação do casamento;
+
+d) Separação judicial de pessoas e bens.
+
+e) Dissolução da união de facto.
+
+3 - A comunicação dos factos determinantes da cessação de enquadramento previstos na alínea c) do n.º 1 e no n.º 2 é obrigatoriamente efectuada pelo cônjuge até ao final do mês em que os factos se verifiquem.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 57.º-A — Produção de efeitos facultativa
+
+O requerimento previsto no artigo 146.º do Código é efetuado nos momentos previstos para a declaração trimestral de rendimentos dos trabalhadores independentes.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 57.º-B — Obrigação declarativa
+
+1 - As declarações previstas nos n.os 1 e 5 do artigo 151.º-A do Código são efetuadas eletronicamente no sítio da Internet da segurança social e consideram-se entregues na data em que são submetidas com sucesso no sistema de informação da segurança social.
+
+2 - Os dados da declaração prevista no n.º 1 do artigo 151.º-A do Código podem ser substituídos durante o próprio mês da declaração, sendo considerada a última declaração efetuada.
+
+3 - Sem prejuízo do disposto no número anterior, os elementos constantes da declaração trimestral podem ser substituídos até ao 15.º dia posterior ao termo do prazo previsto no n.º 3 do artigo 151.º-A do Código.
+
+4 - Apenas estão sujeitos ao cumprimento do disposto no n.º 5 do artigo 151.º-A os trabalhadores independentes que tenham estado obrigados a proceder à entrega de pelo menos uma declaração trimestral relativa a rendimentos obtidos no ano civil anterior.
+
+5 - Quando o prazo para entrega das declarações termine ao sábado, domingo ou dia feriado, transfere-se o seu termo para o 1.º dia útil seguinte.
+
+6 - As instituições de segurança social podem exigir a confirmação dos elementos constantes da declaração que lhes suscitem dúvidas, solicitando, para o efeito, provas adicionais das declarações prestadas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 57.º-C — Opção pelo regime de apuramento trimestral
+
+Exercida a opção nos termos do n.º 3 do artigo 164.º do Código, o trabalhador deve efetuar a primeira declaração trimestral em janeiro, relativa aos rendimentos obtidos no último trimestre do ano civil anterior, para efeitos de determinação do rendimento relevante a considerar no primeiro trimestre.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 57.º-D — Contabilidade organizada
+
+1 - Nas situações de início ou reinício de atividade, a determinação do rendimento relevante nos termos do n.º 3 do artigo 162.º do Código é aplicável apenas após o conhecimento, pelos serviços competentes da segurança social, da correspondente declaração de imposto sobre o rendimento das pessoas singulares, comunicada pela entidade tributária competente.
+
+2 - Até ao momento do conhecimento previsto no número anterior, o rendimento relevante é apurado nos termos do n.º 1 do artigo 162.º do Código.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 58.º — Declaração anual da atividade
+
+1 - A declaração prevista no artigo 152.º do Código deve conter, para efeitos da alínea c) do n.º 1 do mesmo artigo, relativamente a cada entidade a quem foram prestados serviços:
+
+a) O NISS;
+
+b) O NIF;
+
+c) O valor total dos serviços prestados no ano civil anterior.
+
+2 - São igualmente declarados os montantes dos rendimentos que devam ser considerados ou excluídos para efeitos de apuramento do rendimento relevante que não possam ser obtidos oficiosamente.
+
+3 - A declaração é feita por preenchimento do anexo SS ao modelo 3 da declaração de imposto sobre o rendimento das pessoas singulares, efetuada no prazo legal para a entrega da declaração fiscal, o qual é remetido aos serviços da segurança social pela entidade tributária competente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 50/2012 - Diário da República n.º 186/2012, Série I de 2012-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-2012-175522), em vigor a partir de 2012-09-26
+
+###### Artigo 59.º — Isenção da obrigação de contribuir por acumulação com trabalho por conta de outrem
+
+1 - Quando o rendimento relevante de trabalho independente ultrapasse o limite previsto na alínea a) do n.º 1 do artigo 157.º do Código, o trabalhador deve declarar a totalidade dos rendimentos obtidos na declaração trimestral imediatamente posterior à data em que deixaram de se verificar as condições para a isenção.
+
+2 - Para efeitos do disposto na subalínea iii) da alínea a) do n.º 1 do artigo 157.º do Código, considera-se reunida a condição para a isenção quando o valor médio da remuneração mensal no trimestre que antecede a verificação das condições for igual ou superior ao valor do IAS, sendo a informação obtida da seguinte forma:
+
+a) Nos casos de enquadramento no regime geral, oficiosamente por recurso às remunerações registadas no sistema;
+
+b) Nos casos de enquadramento noutro sistema de proteção social, mediante comprovativo da remuneração mensal que deve acompanhar o requerimento referido no n.º 2 do mesmo artigo.
+
+3 - Na impossibilidade de obtenção dos elementos para determinação da remuneração do trabalhador nos termos do número anterior, a instituição de segurança social notifica-o para, no prazo de 10 dias, prorrogáveis mediante pedido fundamentado do trabalhador, apresentar os documentos necessários à referida prova, sob pena de, não o fazendo, não lhe ser reconhecido o direito à isenção.
+
+4 - O apuramento do rendimento relevante pelo remanescente de rendimentos, nas situações previstas no n.º 1, obedece ao disposto no artigo 162.º do Código.
+
+5 - Não releva para efeitos de base de incidência contributiva o valor de rendimento relevante que determine uma contribuição de valor inferior ao que for fixado em despacho do membro do Governo responsável pela área da segurança social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 60.º — Produção de efeitos da isenção da obrigação de contribuir
+
+1 - O reconhecimento oficioso da isenção da obrigação de contribuir produz efeitos no mês seguinte ao da ocorrência dos factos que a determinem.
+
+2 - Nas situações que dependam de requerimento, a isenção produz efeitos no mês seguinte ao da sua apresentação.
+
+3 - Quando se trate de pensionistas a isenção contributiva tem lugar a partir da data da atribuição da pensão.
+
+4 - É aplicável às situações previstas no número anterior, com as necessárias adaptações, o disposto no artigo 156.º do Código.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 61.º — Cessação voluntária da isenção da obrigação de contribuir
+
+1 - O trabalhador independente pode fazer cessar a isenção do pagamento de contribuições mediante comunicação à instituição de segurança social competente.
+
+2 - A opção de cessação prevista no número anterior pode ser exercida na forma e nos momentos temporais previstos para a declaração trimestral de rendimentos e produz efeitos no mês do requerimento.
+
+3 - O disposto no n.º 1 não é aplicável nos casos previstos na alínea d) do n.º 1 do artigo 157.º do Código.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 62.º — Elementos necessários para a determinação do rendimento relevante
+
+1 - Para efeitos do apuramento do rendimento relevante nos termos do artigo 162.º do Código, são considerados ou excluídos os rendimentos identificados nos termos dos números seguintes, sem prejuízo do disposto na parte final do n.º 5 do mesmo artigo.
+
+2 - A matéria coletável imputada pelas sociedades de profissionais aos seus membros ou sócios identificados na alínea b) do n.º 1 do artigo 133.º do Código, bem como os recebimentos e adiantamentos por conta, constituem valor de prestação de serviços.
+
+3 - Não são considerados no apuramento do rendimento relevante dos trabalhadores independentes os seguintes rendimentos:
+
+a) Obtidos com a produção de eletricidade para autoconsumo ou através de unidades de pequena produção a partir de energias renováveis;
+
+b) Obtidos em resultado da celebração de contratos de arrendamento e de arrendamento urbano para alojamento local em moradia ou apartamento;
+
+c) Subvenções ou subsídios ao investimento;
+
+d) Provenientes de mais-valias;
+
+e) Rendimentos provenientes de propriedade intelectual ou industrial.
+
+4 - O trabalhador independente pode optar pela consideração dos rendimentos excluídos nos termos das alíneas c), d) e e) do número anterior.
+
+5 - Quando sejam relevados, os rendimentos previstos no número anterior são considerados como rendimentos da atividade que lhes deu origem.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 2/2017 - Diário da República n.º 58/2017, Série I de 2017-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2017-106642829), em vigor a partir de 2017-03-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 50/2012 - Diário da República n.º 186/2012, Série I de 2012-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-2012-175522), em vigor a partir de 2012-09-26
+
+###### Artigo 62.º-A — Revisão anual da base de incidência
+
+1 - O valor da diferença decorrente da revisão anual da base de incidência contributiva efetuada nos termos do artigo 164.º-A do Código determina o apuramento de obrigação contributiva no mês de janeiro do ano seguinte àquele a que os rendimentos dizem respeito e é considerado proporcionalmente na carreira contributiva do trabalhador relativamente à totalidade do ano a que respeitam.
+
+2 - Para efeitos de aplicação do número anterior, apenas releva para efeitos de base de incidência contributiva o montante que exceda o valor mínimo a fixar anualmente por despacho do membro do Governo responsável pela área da segurança social.
+
+3 - O trabalhador independente é notificado do valor de rendimento relevante resultante da revisão anual, designadamente para efeitos de audiência dos interessados, nos termos do Código do Procedimento Administrativo.
+
+4 - O exercício de resposta à audiência de interessados prevista no número anterior é efetuado preferencialmente através do sítio da Internet da segurança social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 50/2012 - Diário da República n.º 186/2012, Série I de 2012-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-2012-175522), em vigor a partir de 2012-09-26
+
+###### Artigo 62.º-B — Verificação das condições determinantes da reavaliação
+
+1 - A reavaliação efetuada nos termos previstos no n.º 6 do artigo 163.º do Código é dada sem efeito, caso se venha a verificar, com base nos rendimentos declarados para efeitos fiscais relativos ao ano em causa, que não houve redução de rendimentos ou que a mesma não determinou uma redução superior a um escalão da base de incidência contributiva.
+
+2 - Verificada a situação prevista no número anterior, o trabalhador é obrigado a proceder ao pagamento das contribuições em dívida, relativas ao período de reavaliação que foi considerada sem efeito, apuradas com base no escalão que havia sido fixado nos termos do n.º 5 do artigo 163.º do Código.
+
+3 - O disposto nos números anteriores não é aplicável nas situações em que a base de incidência contributiva só possa ser reduzida um escalão por força das regras previstas nos n.os 1 e 4 do artigo 163.º do Código.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 50/2012 - Diário da República n.º 186/2012, Série I de 2012-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-2012-175522), em vigor a partir de 2012-09-26
+
+###### Artigo 63.º — Comunicação da obrigação contributiva
+
+1 - Para efeitos do cumprimento da obrigação contributiva, são mensalmente disponibilizados no sítio da Internet da segurança social os elementos necessários ao pagamento das contribuições devidas.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 64.º — Elementos da obrigação contributiva dos cônjuges
+
+1 - A opção prevista no n.º 2 do artigo 166.º do Código é exercida trimestralmente, nos momentos declarativos previstos no n.º 3 do artigo 151.º-A do Código, e anualmente nas situações de enquadramento no regime de contabilidade organizada.
+
+2 - Não se verificando a opção prevista no número anterior, mantém-se a base de incidência contributiva prevista no n.º 1 do artigo 166.º do Código.
+
+3 - Nos casos em que ao trabalhador independente seja reconhecido o direito à isenção do cumprimento da obrigação contributiva, mantém-se para o respetivo cônjuge ou unido de facto a consideração do último rendimento relevante apurado para o trabalhador independente.
+
+4 - Nas situações de inexistência de rendimento relevante apurado para o trabalhador independente nos últimos 12 meses, é considerado como rendimento relevante do cônjuge ou unido de facto o valor de 1,5 IAS.
+
+5 - O disposto nos n.os 3 e 4 não prejudica o direito de opção previsto no n.º 2 do artigo 166.º do Código, com os limites mínimos previstos no artigo 163.º do Código.
+
+6 - A taxa contributiva aplicável aos cônjuges dos trabalhadores independentes corresponde à do trabalhador independente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 65.º — Taxa contributiva mais favorável
+
+1 - A taxa contributiva aplicável aos cônjuges dos trabalhadores independentes corresponde à do trabalhador independente.
+
+2 - Para efeitos de aplicação da taxa contributiva prevista no n.º 3 do artigo 168.º do Código os trabalhadores independentes declaram, sob compromisso de honra, que exercem a actividade aí prevista em exclusivo, sem prejuízo da confirmação da situação pelas instituições de segurança social competentes com base na troca de informação com a administração fiscal.
+
+3 - A cessação das condições previstas no n.º 3 do artigo 168.º do Código é comunicada à instituição de segurança social competente no prazo de 10 dias e produz efeitos no mês seguinte ao da sua ocorrência.
+
+4 - A alteração da taxa contributiva produz efeitos no mês seguinte ao da sua ocorrência.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+### Capítulo IV — Regime de seguro social voluntário
+
+###### Artigo 66.º — Requerimento de adesão ao seguro social voluntário
+
+1 - Para efeitos de adesão ao seguro social voluntário o interessado apresenta requerimento em formulário de modelo próprio junto da instituição de segurança social competente ou no sítio da Internet da segurança social.
+
+2 - No caso de voluntários sociais o requerimento previsto no número anterior é efectuado em conjunto com a entidade que beneficia da actividade, sendo por esta apresentado.
+
+3 - O requerimento deve conter os elementos necessários à inscrição e enquadramento.
+
+4 - Os cidadãos nacionais residentes em território estrangeiro podem escolher, no momento do requerimento, a instituição de segurança social pela qual pretendem ficar abrangidos.
+
+5 - Caso o requerente não se encontre identificado no sistema de segurança social, é-lhe oficiosamente atribuído um NISS com base nos elementos referidos no n.º 3, constantes dos documentos de identificação.
+
+###### Artigo 67.º — Prazo para apreciação do requerimento
+
+1 - No prazo de 30 dias a contar da apresentação do requerimento devidamente instruído, a instituição de segurança social deve proceder à sua apreciação.
+
+2 - A decisão que recair sobre o requerimento é comunicado ao interessado e, quando este for voluntário social, também à instituição que beneficia da actividade.
+
+###### Artigo 68.º — Acumulação de actividade com registo de equivalência à entrada de contribuições
+
+1 - Quando, no decurso do mesmo mês, se verificar, sucessivamente, o exercício de actividade e situação determinante do registo de remunerações por equivalência à entrada de contribuições, a obrigação de contribuir reporta-se ao número de dias em que não haja lugar ao registo de remunerações por equivalência.
+
+2 - Para efeitos do número anterior, o valor diário das contribuições é igual a 1/30 do valor mensal da base de incidência contributiva do beneficiário.
+
+### Capítulo V — Registo de remunerações e registo de remunerações por equivalência à entrada de contribuições
+
+#### Secção I — Registo de remunerações
+
+###### Artigo 69.º — Registo das remunerações
+
+1 - As instituições de segurança social procedem, por referência a cada mês, ao registo na carreira contributiva de cada beneficiário do valor das remunerações, reais ou convencionais, e respectivos tempos de trabalho declarados.
+
+2 - As instituições de segurança social procedem anualmente ao registo na carreira contributiva de cada trabalhador independente do valor apurado nos termos do artigo 283.º do Código.
+
+3 - O registo de remunerações e dos tempos de trabalho dos trabalhadores independentes é correspondente ao montante das contribuições pagas.
+
+4 - O registo de remunerações dos trabalhadores independentes correspondente a correções ou comunicações de rendimentos efetuadas em data posterior ao período a que respeitam é efetuado por referência ao ano e mês a que se reportam.
+
+5 - O registo de remunerações resultante da revisão anual é efetuado por referência ao ano a que respeitam.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 70.º — Registo de tempos de trabalho
+
+1 - O registo de remunerações a que se reporta o n.º 1 do artigo anterior referente a atividade mensal é feito com referência a 30 dias por cada entidade empregadora, salvo nos casos em que haja lugar ao registo de remunerações por equivalência à entrada de contribuições.
+
+2 - Nas situações de base de incidência convencional referente à actividade mensal é efectuado o registo de 30 dias, salvo nos casos em que haja lugar ao registo de remunerações por equivalência à entrada de contribuições.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - Nas situações em que subsistam vários vínculos relativamente ao mesmo trabalhador, o registo de dias tem o limite máximo de 30 dias em cada mês.
+
+6 - O disposto no n.º 1 é igualmente aplicável aos trabalhadores da pesca artesanal com vendagem do pescado em lota, e nos casos de contrato de serviço doméstico com prestação diária ou horária de trabalho.
+
+7 - O registo de tempos de trabalho dos trabalhadores com contrato de trabalho de muito curta duração é efetuado nos termos do n.º 1, sem prejuízo do procedimento de verificação do número de dias máximo de trabalho anual prestado à mesma entidade empregadora para efeitos da sua conversão em contrato a termo.
+
+8 - Nas situações em que seja legalmente permitida a contratação à hora é registado um dia de trabalho por cada conjunto de cinco horas e, quando o número de horas de trabalho exceda múltiplos de cinco, é registado mais um dia, com o limite máximo de 30 dias em cada mês.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 7/2025 - Diário da República n.º 236/2025, Série I de 2025-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2025-967317022), em vigor a partir de 2026-01-01
+
+#### Secção II — Registo de remunerações por equivalência à entrada de contribuições
+
+###### Artigo 71.º — Registo de remunerações por equivalência
+
+Para efeitos do disposto no artigo 17.º do Código, nas situações em que a lei reconhece o direito à equivalência à entrada de contribuições, as instituições de segurança social registam, em nome dos beneficiários, os valores equivalentes à remuneração, determinados de acordo com o disposto no presente capítulo.
+
+###### Artigo 72.º — Situações relevantes para a equivalência
+
+1 - Sem prejuízo do estabelecido em legislação própria, designadamente nos diplomas que regulam os regimes jurídicos de protecção nas eventualidades, consideram-se equivalentes à entrada de contribuições, durante os períodos em que se verifiquem, as seguintes situações:
+
+a) Incapacidade temporária para o trabalho que dê direito à atribuição de subsídio de doença ou à concessão provisória do mesmo subsídio;
+
+b) Incapacidade temporária ou indisponibilidade para o trabalho que dê direito à atribuição dos subsídios previstos no regime jurídico de protecção na parentalidade;
+
+c) Incapacidade temporária para o trabalho que dê direito à atribuição do subsídio de gravidez a artistas, intérpretes e executantes;
+
+d) Incapacidade temporária absoluta para o trabalho por doença profissional ou por acidente de trabalho que dê direito à atribuição de indemnização;
+
+e) Incapacidade temporária parcial para o trabalho por doença profissional ou acidente de trabalho que dê direito à atribuição de indemnização;
+
+f) Desemprego que dê direito à atribuição dos respectivos subsídios, salvo se o seu montante for pago de uma só vez;
+
+g) Cumprimento de serviço militar efectivo decorrente de convocação ou de mobilização e, ainda, de serviço cívico, desde que tenha existido prévio registo de remunerações;
+
+h) Cumprimento de serviço de jurado;
+
+i) Redução de actividade ou suspensão do contrato de trabalho em situação de crise empresarial nos termos do disposto no Código do Trabalho.
+
+2 - Para efeitos do disposto na alínea a) do número anterior são igualmente relevantes os períodos de espera estabelecidos na lei, salvo nas situações respeitantes a trabalhadores independentes.
+
+3 - Há lugar ao registo de remunerações por equivalência à entrada de contribuições sempre que os trabalhadores independentes se encontrem em situação de incapacidade temporária absoluta, com direito a indemnização por acidente de trabalho ou doença profissional.
+
+###### Artigo 73.º — Valores equivalentes a remuneração
+
+Sem prejuízo do disposto em regime jurídico próprio, os valores equivalentes a remunerações, nas situações referidas no n.º 1 do artigo anterior, são determinados nos termos seguintes:
+
+a) A remuneração de referência considerada para o cálculo das prestações referidas nas alíneas a), b) e c);
+
+b) A remuneração de referência considerada para o cálculo da indemnização nas situações a que se refere a alínea d);
+
+c) O valor da diferença entre a remuneração efectiva do trabalhador declarada pela entidade contribuinte e o valor que seria considerado para registo caso a incapacidade fosse absoluta nas situações a que se refere a alínea e);
+
+d) A remuneração de referência considerada para o cálculo dos subsídios a que se refere a alínea f), com exceção das situações expressamente previstas no regime jurídico das prestações de desemprego e de cessação de atividade;
+
+e) A remuneração média dos últimos três meses com registo de remunerações, no caso da alínea g);
+
+f) A última remuneração registada nos casos da alínea h);
+
+g) O valor correspondente à diferença entre a remuneração normal do trabalhador e a efectivamente paga, a qual engloba a compensação retributiva e a retribuição por trabalho prestado quando a este houver lugar, nas situações previstas na alínea i).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+###### Artigo 74.º — Situação similar a período com registo de remunerações
+
+Para preenchimento do prazo de garantia, índice de profissionalidade ou para cálculo das prestações pode ainda ser atribuída em legislação própria relevância a períodos em que não houve efectivo exercício de actividade pelo trabalhador e que não consubstanciem o instituto da equivalência à entrada de contribuições.
+
+### Capítulo VI — Locais e meios de pagamento
+
+###### Artigo 75.º — Local de pagamento
+
+O pagamento, pelos contribuintes, dos valores devidos a título de contribuições, quotizações ou juros de mora, bem como de valores constantes de documentos previamente emitidos para esse efeito, é efectuado, designadamente:
+
+a) Nas instituições de crédito ou outros prestadores de serviços financeiros que, para o efeito, celebrem acordo com o Instituto de Gestão Financeira da Segurança Social, I. P.;
+
+b) Nas tesourarias das instituições de segurança social de acordo com as condições fixadas, periodicamente, por despacho do membro do Governo responsável pela área da segurança social;
+
+c) Por remessa de meio de pagamento pelo correio, sob registo postal, à ordem do Instituto de Gestão Financeira da Segurança Social, I. P., nos termos a fixar no despacho referido na alínea anterior.
+
+###### Artigo 76.º — Meios de pagamento
+
+1 - O pagamento nas instituições de crédito é efectuado por transferência, numerário, cheque do próprio banco ou através de débito em conta no respectivo banco.
+
+2 - O pagamento nas tesourarias das instituições de segurança social é efectuado em numerário, em cheque sobre instituições de crédito a operar em território nacional ou por outras formas de pagamento disponibilizadas.
+
+3 - São definidos por despacho do membro do Governo responsável pela área da segurança social os limites máximos de pagamento em numerário de valores devidos à Segurança Social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+### Capítulo VII — Regularização da dívida à segurança social e situação contributiva
+
+#### Secção I — Regularização da dívida à segurança social
+
+###### Artigo 77.º — Compensação oficiosa de créditos
+
+1 - Para efeitos do disposto no n.º 2 do artigo 197.º do Código a instituição de segurança social competente deve proceder à compensação oficiosa de créditos sempre que detecte a sua existência.
+
+2 - Da compensação efectuada nos termos do número anterior é dado conhecimento ao contribuinte.
+
+###### Artigo 78.º — Entidades de capitais exclusiva ou maioritariamente públicos
+
+No caso de entidades de capitais exclusiva ou maioritariamente públicos, para efeitos do disposto no artigo 198.º do Código, não são consideradas as importâncias respeitantes ao pagamento de indemnizações no âmbito de contratos de seguro, reembolso de despesas de saúde ou resgate ou vencimento de produtos financeiros.
+
+###### Artigo 79.º — Imputação dos montantes pagos
+
+Salvo pedido em contrário da entidade devedora, quando o pagamento for insuficiente para extinguir todas as dívidas, o respectivo montante é imputado à dívida mais antiga e respectivos juros, pela seguinte ordem:
+
+a) Dívida de quotizações;
+
+b) Dívida de contribuições;
+
+c) Juros de mora;
+
+d) Outros valores devidos nos termos do artigo 185.º do Código.
+
+###### Artigo 80.º — Regularização da dívida à segurança social no âmbito da execução cível
+
+1 - Para efeitos do disposto nos artigos 188.º e 189.º do Código, quando, por força da renovação da execução extinta, prevista no artigo 850.º do Código de Processo Civil, as instituições de segurança social passem a assumir a posição de exequente, o Instituto de Gestão Financeira da Segurança Social, I. P., pode autorizar a regularização da dívida através de acordo prestacional, para efeitos do disposto nos artigos 806.º e seguintes do Código de Processo Civil.
+
+2 - O acordo prestacional previsto no número anterior é autorizado nos mesmos termos em que são autorizados os acordos prestacionais no âmbito das execuções fiscais que correm termos pelas secções de processo executivo do sistema de solidariedade e segurança social.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 83.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 81.º — Pagamento em prestações
+
+1 - O diferimento do pagamento da dívida à segurança social, incluindo os créditos por juros de mora vencidos e vincendos, assume a forma de pagamento em prestações mensais, iguais e sucessivas, com o limite máximo de 150.
+
+2 - O número de prestações autorizado para o pagamento depende:
+
+a) Da capacidade financeira do contribuinte;
+
+b) Do risco financeiro envolvido;
+
+c) Das circunstâncias determinantes da origem das dívidas;
+
+d) Do grau de liquidez da garantia.
+
+3 - A taxa de juros vincendos a aplicar no âmbito de pagamentos prestacionais autorizados pode ser reduzida em função da idoneidade da garantia.
+
+4 - Excepcionalmente, quando tal se mostre indispensável à recuperação económica do contribuinte, pode ser autorizada a progressividade do valor das prestações.
+
+5 - O pagamento de cada prestação é efectuado até ao final do mês a que diz respeito.
+
+###### Artigo 81.º-A — Juros de mora
+
+Para efeitos do disposto nos artigos 187.º e 211.º do Código, o cálculo de juros de mora tem lugar desde a data em que deveria ter sido cumprida a obrigação contributiva até à data do pagamento da dívida, e interrompe-se ou suspende-se nos mesmos termos.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 6/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2018-115620692), em vigor a partir de 2018-07-03, produz efeitos a partir de 2018-07-01
+
+#### Secção II — Situação contributiva
+
+###### Artigo 82.º — Certificação da situação contributiva
+
+1 - A situação contributiva é certificada com base nos elementos existentes nos serviços, não dependendo de apresentação de meios de prova pelo requerente, salvo o disposto no número seguinte.
+
+2 - Quando estiver em causa a emissão de declaração de situação contributiva não regularizada o requerente pode provar a sua regularização mediante apresentação de prova documental, designadamente por documentos comprovativos do pagamento da dívida exigível à data de emissão da declaração.
+
+3 - A declaração não constitui instrumento de quitação e não prejudica ulteriores apuramentos.
+
+###### Artigo 83.º — Entidades requerentes
+
+1 - A declaração de situação contributiva pode ser requerida:
+
+a) Pelo contribuinte ou seu representante legal;
+
+b) Por iniciativa de qualquer credor ou do Ministério Público, nos termos do artigo 20.º do Código da Insolvência e da Recuperação de Empresas.
+
+2 - A declaração a emitir para os efeitos da alínea b) do número anterior, quando requerida por credor, contém apenas a referência à existência ou não de dívida.
+
+3 - A declaração é emitida no prazo máximo de 10 dias, a contar da data do respectivo requerimento ou notificação judicial.
+
+###### Artigo 84.º — Prazo de validade da declaração
+
+O prazo de validade da declaração é de quatro meses.
+
+###### Artigo 85.º — Local de apresentação
+
+Sem prejuízo do disposto no artigo anterior, o pedido das declarações nele referidas pode ser apresentado através do sítio da Internet da segurança social ou em qualquer serviço do sistema de segurança social, através de formulário próprio.
+
+### Capítulo VIII — Disposições transitórias e finais
+
+###### Artigo 86.º — Proprietários de embarcações de pesca local e costeira
+
+1 - A alteração do enquadramento dos proprietários de embarcações que integrem o rol de tripulação, dos apanhadores de espécies marinhas e dos pescadores apeados para o regime geral dos trabalhadores por conta de outrem produz efeitos a partir de 1 de Janeiro de 2012.
+
+2 - Os trabalhadores referidos no número anterior mantêm o direito à protecção nas eventualidades de doença e parentalidade, nos termos aplicáveis aos trabalhadores enquadrados no regime geral dos trabalhadores por conta de outrem.
+
+> Alterado pelo/a Artigo 83.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+###### Artigo 87.º — Pedidos de pagamento retroactivo de contribuições
+
+Os requerimentos de pagamento retroactivo de contribuições são apreciados de acordo com a lei em vigor no momento da sua apresentação.
+
+###### Artigo 88.º — Competência
+
+A competência atribuída ao Instituto de Gestão Financeira da Segurança Social, I. P., ou ao Instituto da Segurança Social, I. P., é feita sem prejuízo das competências próprias das instituições e serviços de segurança social das Regiões Autónomas, bem como das que resultam do âmbito pessoal das caixas de previdência social.
+
+###### Artigo 89.º — Número de identificação fiscal dos trabalhadores independentes
+
+1 - Para aplicação das disposições do Código e do presente regulamento, as instituições de segurança social solicitam aos trabalhadores independentes o respectivo NIF, ficando estes obrigados a fornecer a informação solicitada no prazo de 15 dias.
+
+2 - Sempre que o trabalhador independente não apresente declaração de rendimentos ao sistema fiscal ou, na impossibilidade de apuramento desse rendimento por parte das instituições de segurança social, aquele tem a obrigação de prestar a estas informação que lhes permita o conhecimento dos seus rendimentos.
+
+3 - Até à disponibilização da informação a que se referem os números anteriores, é mantida a base de incidência contributiva sobre a qual o trabalhador independente se encontra a contribuir na data da entrada em vigor do Código.
+
+4 - Decorridos três anos sem que seja prestada a informação referida nos n.os 1 e 2 a instituição de segurança social competente faz cessar oficiosamente, a partir dessa data, o respectivo enquadramento.
+
+5 - Sem prejuízo do disposto no número anterior, a regularização da situação prevista nos n.os 1 e 2 determina a correcção que se mostre adequada, com efeitos à data em que foi fixada a base de incidência contributiva prevista no n.º 4 do artigo 163.º do Código.
+
+###### Artigo 90.º — Ensino português no estrangeiro
+
+Para efeitos do disposto no n.º 4 do artigo 36.º-A do Decreto-Lei n.º 165/2006, de 11 de Agosto, alterado pelo Decreto-Lei n.º 165-C/2009, de 28 de Julho, a taxa contributiva aplicável, resultante do disposto nos artigos 51.º e 110.º do Código, é de 5 % a cargo do Instituto Camões, I. P.
+
+###### Artigo 91.º — Aplicação no tempo
+
+O presente decreto regulamentar produz efeitos a 1 de Janeiro de 2011.
+
+###### Artigo 92.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no dia seguinte à sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Emanuel Augusto dos Santos - António Manuel Soares Serrano - Valter Victorino Lemos.
+
+Promulgado em 29 de Dezembro de 2010.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 30 de Dezembro de 2010.
+
+Pelo Primeiro-Ministro, Manuel Pedro Cunha da Silva Pereira, Ministro da Presidência.

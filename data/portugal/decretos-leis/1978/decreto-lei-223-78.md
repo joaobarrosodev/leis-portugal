@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:296851:por
+title: Decreto-Lei n.º 223/78
+short_title: null
+summary: Determina que seja abolida a dissertação do curso de conservador de museu
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Cultura - Secretaria de Estado da Cultura
+proposing_entity: null
+official_number: 223/78
+official_date: null
+publication_date: '1978-08-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 177/1978, Série I de 1978-08-03
+  number: '177'
+  series: I
+  supplement: null
+  pages: 1594 - 1594
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/08/17700/15941594.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '296851'
+  dre_path: /dr/detalhe/decreto-lei/223-1978-296851
+  internal: pt:dre:296851:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1978-296851
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1978-296851
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:12:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 90ee2aada854835960185a3338bea7a9a2a46cb815c2146fe3462dbc413a44e4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:12:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conservador de Museu
+- Curso de Conservador de Museu
+- Formação Profissional
+- Museu
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:12:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 223/78
+
+de 3 de Agosto
+
+Considerando a índole eminentemente prática que deve revestir a formação dos técnicos de museologia;
+
+Considerando que foi abolida a dissertação de licenciatura nas Faculdades de Letras, e tendo em conta que, de acordo com o Decreto-Lei n.º 48758, de 18 de Dezembro de 1965, o curso de conservador de museu se pauta pelo regime vigente nestas Faculdades:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo único. Independentemente da futura regulamentação respeitante à formação de técnicos de museus, é abolida a dissertação do curso de conservador de museu, considerando-se habilitados com este curso os diplomados que tenham obtido aprovação no conjunto das disciplinas que o integram.
+
+Mário Firmino Miguel - Mário Augusto Sottomayor Leal Cardia.
+
+Promulgado em 21 de Julho de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

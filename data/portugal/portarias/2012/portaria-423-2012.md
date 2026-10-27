@@ -1,0 +1,391 @@
+---
+schema_version: '1.0'
+id: pt:dre:190387:por
+title: Portaria n.º 423/2012
+short_title: null
+summary: Aprovado os estatutos do Instituto Nacional de Estatística, I.P.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças
+proposing_entity: null
+official_number: 423/2012
+official_date: null
+publication_date: '2012-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 251/2012, Série I de 2012-12-28
+  number: '251'
+  series: I
+  supplement: null
+  pages: 7274 - 7277
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/12/25100/0727407277.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-02-26'
+version_history:
+  file: portaria-423-2012.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-10'
+    amending: pt:dre:25676876:por
+    amending_title: Portaria n.º 120/2014
+    changes:
+    - Altera Artigo 11.º
+  - date: '2019-02-26'
+    amending: pt:dre:120108011:por
+    amending_title: Portaria n.º 68/2019
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/423/2012/p/cons/20190225/pt/html
+  oj: null
+  dre: '190387'
+  dre_path: /dr/detalhe/portaria/423-2012-190387
+  internal: pt:dre:190387:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/423-2012-190387
+  metadata_url: https://data.dre.pt/eli/port/423/2012/p/cons/20190225/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-120266892
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-120266892
+  retrieved_at: '2026-10-22T12:24:50Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d64c46740674ce46a42b8b652e0c4811ec31fa9dd96a1afdd125504f0a63edb8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:24:50Z'
+  notes: 3 versão(ões); histórico completo em portaria-423-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto Nacional de Estatística
+- Pessoal Dirigente
+- Definição de Competências
+- Estatuto
+relationships:
+- type: amended_by
+  target: pt:dre:25676876:por
+  label: Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/120-2014-25676876
+  date: '2014-06-09'
+- type: amended_by
+  target: pt:dre:120108011:por
+  label: Altera Artigo 1.º; Altera Artigo 6.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/68-2019-120108011
+  date: '2019-02-25'
+- type: cites
+  target: pt:dre:603478:por
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+article_structure:
+  article_count: 15
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:24:50Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 423/2012
+
+Portaria n.º 423/2012
+
+de 28 de dezembro
+
+O Decreto-lei n.º 136/2012, de 2 de Julho, definiu a missão e atribuições do Instituto Nacional de Estatística, IP. Importa agora, no desenvolvimento daquele diploma, determinar a sua organização interna.
+
+Assim:
+
+Ao abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de janeiro, manda o Governo, pelo Ministro de Estado e das Finanças e pelo Ministro-Adjunto e dos Assuntos Parlamentares, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+São aprovados, em anexo à presente portaria e da qual fazem parte integrante, os estatutos do Instituto Nacional de Estatística, I.P., abreviadamente designado por INE, I.P.,.
+
+###### Artigo 2.º — Norma transitória
+
+As equipas de projeto constituídas mantêm-se apenas até à execução dos respetivos mandatos, nos seguintes termos:
+
+a) Equipa de Projeto Cooperação Estatística até 31 de Março de 2013;
+
+b) Equipa de Projeto Estatísticas Sociais até 31 de Março de 2013;
+
+c) Equipa de Projeto Censos 2011 até 30 de Junho de 2013.
+
+###### Artigo 3.º — Norma revogatória
+
+É revogada a Portaria nº 662-H/2007, de 31 de Maio, alterada pela Portaria nº 839-B/2009, de 31 de Julho.
+
+###### Artigo 4.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 18 de dezembro de 2012.
+
+O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar. - O Ministro Adjunto e dos Assuntos Parlamentares, Miguel Fernando Cassola de Miranda Relvas.
+
+## Anexo — ESTATUTOS DO INSTITUTO NACIONAL DE ESTATÍSTICA, I.P.
+
+###### Artigo 1.º — Estrutura
+
+1- O INE, I.P. é constituído por unidades orgânicas de 1.º, 2.º e 3.º níveis, designadas por departamentos, serviços e núcleos, respetivamente.
+
+2- São unidades orgânicas de 1.º nível:
+
+a) O Departamento de Administração Financeira e Patrimonial;
+
+b) O Departamento de Recursos Humanos;
+
+c) O Departamento de Metodologia e Sistemas de informação;
+
+d) Departamento de Recolha e Gestão de Dados;
+
+e) O Departamento de Estatísticas Demográficas e Sociais;
+
+f) O Departamento de Estatísticas Económicas;
+
+g) O Departamento de Contas Nacionais.
+
+3 - Os serviços podem estar integrados em departamentos ou dependerem diretamente do conselho diretivo, não podendo o seu número ser superior a vinte e nove.
+
+4 - Os núcleos podem estar integrados em departamentos ou serviços ou dependerem diretamente do conselho diretivo, não podendo o seu número ser superior a catorze.
+
+5 - Por deliberação do conselho diretivo, a publicar em Diário da República, podem ser criados, modificados ou extintos serviços ou núcleos até ao limite fixado nos n.os 3 e 4 do presente artigo.
+
+6 - O INE, IP compreende ainda, ao nível desconcentrado, delegações no Porto, Coimbra, Évora e Faro, unidades orgânicas de 2º nível, funcionalmente dependentes do conselho diretivo.
+
+7 - Junto do conselho diretivo funciona ainda o Secretariado do Conselho Superior de Estatística.
+
+8 - O INE, I. P., dispõe de um encarregado de proteção de dados, designado pelo conselho diretivo, que coordena a matéria relativa aos dados pessoais e ao qual é aplicável o disposto no n.º 3 do artigo 11.º considerando a natureza e complexidade das respetivas funções.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 68/2019 - Diário da República n.º 39/2019, Série I de 2019-02-25](https://diariodarepublica.pt/dr/detalhe/portaria/68-2019-120108011), em vigor a partir de 2019-02-26
+
+###### Artigo 2.º — Cargos dirigentes intermédios
+
+1 - Os departamentos são dirigidos por diretores, que podem ser coadjuvados por diretores adjuntos, com exceção dos departamentos referidos nas alíneas a) e b) do nº 2 do artigo anterior, que são dirigidos por diretores adjuntos.
+
+2 - O número total de diretores adjuntos não pode ser superior a cinco.
+
+3 - Os serviços e núcleos são dirigidos, respetivamente, por diretores de serviço e diretores de núcleo.
+
+4 - Os serviços territorialmente desconcentrados são dirigidos por diretores de serviço, com a designação de delegados.
+
+###### Artigo 3.º — Competências
+
+Sem prejuízo das competências previstas na lei e das que lhes sejam delegadas ou subdelegadas são comuns a todos os titulares de cargos dirigentes as seguintes competências:
+
+a) Garantir o cumprimento dos princípios fundamentais do Sistema Estatístico Nacional;
+
+b) Participar na elaboração dos planos e relatórios de atividade do Instituto;
+
+c) Participar na elaboração do orçamento do Instituto e assegurar a sua boa execução;
+
+d) Participar na elaboração do programa de formação do Instituto e assegurar a sua boa execução;
+
+e) Propor, no âmbito da sua esfera de intervenção, os instrumentos normativos, as regras e os procedimentos que devam ser observados;
+
+f) Definir normas que garantam a adequada gestão funcional das unidades orgânicas;
+
+g) Gerir adequadamente os recursos humanos e materiais que lhes estão afetos.
+
+###### Artigo 4.º — Departamento de Administração Financeira e Patrimonial
+
+Ao Departamento de Administração Financeira e Patrimonial, abreviadamente designado por DAFP, compete:
+
+a) Coordenar todas as atividades de natureza contabilística e financeira, garantindo o cumprimento das obrigações legais e fiscais;
+
+b) Preparar o orçamento anual e controlar a sua execução;
+
+c) Assegurar a gestão patrimonial e de tesouraria;
+
+d) Coordenar os processos de aquisição de bens e serviços;
+
+e) Assegurar a gestão de aprovisionamentos, de conservação, manutenção e segurança de instalações;
+
+f) Assegurar a gestão dos serviços gerais e de natureza administrativa.
+
+###### Artigo 5.º — Departamento de Recursos Humanos
+
+Ao Departamento de Recursos Humanos, abreviadamente designado por DRH, compete:
+
+a) Gerir o desenvolvimento das competências individuais e de grupo necessárias à concretização dos objetivos do INE, IP, através da definição de políticas de recursos humanos e de formação profissional;
+
+b) Coordenar o sistema de avaliação e gestão do desempenho;
+
+c) Gerir o processamento de salários e a carteira de benefícios sociais;
+
+d) Assegurar os procedimentos necessários à seleção e contratação de pessoal;
+
+e) Assegurar o funcionamento adequado do serviço de medicina, saúde, higiene e segurança no trabalho.
+
+###### Artigo 6.º — Departamento de Metodologia e de Sistemas de Informação
+
+Ao Departamento de Metodologia e de Sistemas de Informação, abreviadamente designado por DMSI, compete:
+
+a) Investigar, estudar e propor métodos estatísticos, no domínio económico e social, para a produção e disponibilização de estatísticas oficiais e para a integração de novas fontes de dados;
+
+b) Gerir e manter atualizado o sistema de metainformação estatística, nomeadamente, através da harmonização com as classificações e conceitos, de acordo com as definições europeias e internacionais;
+
+c) Certificar tecnicamente as operações estatísticas oficiais;
+
+d) Realizar o registo prévio dos suportes de recolha a utilizar na produção das estatísticas oficiais;
+
+e) Assegurar a gestão, manutenção e coordenação das infraestruturas de unidades estatísticas e de dados geográficos;
+
+f) Aplicar a legislação europeia relativa ao estabelecimento de uma infraestrutura de informação geográfica na União Europeia, concretizando as disposições de execução relativas à harmonização dos conjuntos de dados geográficos e disponibilização de serviços;
+
+g) Assegurar a gestão, manutenção e coordenação das infraestruturas de dados, para a integração de diferentes fontes e criar conjuntos de dados para novos produtos, estatísticos ou outros, e para análise e investigação;
+
+h) Definir as arquiteturas dos sistemas de informação e desenvolver aplicações e serviços, promovendo a interoperabilidade interna e externa;
+
+i) Desenvolver e participar em projetos de inovação, explorando as possibilidades criadas por novas tecnologias, novas metodologias e novas fontes de dados;
+
+j) Assegurar a gestão e manutenção da infraestrutura tecnológica, nas vertentes de hardware, de software de base, administração de bases de dados, equipamentos terminais e comunicações;
+
+k) Definir e implementar a estratégia de segurança da informação, garantindo a proteção da infraestrutura tecnológica e da informação, em particular a confidencialidade, disponibilidade e a integridade;
+
+l) Elaborar e concretizar os planos anuais de projetos e investimentos em Tecnologias de Informação e Comunicação, preparando e executando os respetivos processos de aquisição;
+
+m) Definir e implementar a estratégia TIC alinhada com os objetivos estratégicos, tecnológicos e/ou operacionais do instituto e da administração pública.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 68/2019 - Diário da República n.º 39/2019, Série I de 2019-02-25](https://diariodarepublica.pt/dr/detalhe/portaria/68-2019-120108011), em vigor a partir de 2019-02-26
+
+###### Artigo 7.º — Departamento de Recolha e Gestão de Dados
+
+Ao Departamento de Recolha e Gestão de Dados, abreviadamente designado por DRGD, compete:
+
+a) Gerir a recolha de dados e análise de microdados das operações estatísticas, designadamente no que respeita aos dados que resultam de inquéritos amostrais, recenseamentos, integração de dados administrativos e de outras fontes;
+
+b) Participar nas fases de processamento e análise do processo de produção estatística;
+
+c) Participar na análise de coerência dos dados provenientes da recolha por inquérito e da receção de dados administrativos ou de outro âmbito, assegurando o diálogo técnico entre as unidades intervenientes;
+
+d) Assegurar a especificação dos requisitos funcionais dos sistemas de apoio à recolha e gestão de dados;
+
+e) Gerir a comunicação com os respondentes e prestadores de informação;
+
+f) Assegurar a harmonização de procedimentos, bem como a modernização e inovação dos processos e infraestruturas de suporte à recolha e gestão de dados;
+
+g) Participar na conceção e modernização das fases de processamento e análise de dados do processo de produção estatística;
+
+h) Zelar pela contenção da carga estatística gerada pelos inquéritos.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 68/2019 - Diário da República n.º 39/2019, Série I de 2019-02-25](https://diariodarepublica.pt/dr/detalhe/portaria/68-2019-120108011), em vigor a partir de 2019-02-26
+
+###### Artigo 8.º — Departamento de Estatísticas Demográficas e Sociais
+
+Ao Departamento de Estatísticas Demográficas e Sociais, abreviadamente designado por DEDS, compete:
+
+a) Coordenar e promover o desenvolvimento das estatísticas nas áreas das condições de vida das famílias, da saúde, funcionalidades e incapacidades, da proteção social e da educação e formação;
+
+b) Coordenar e promover o desenvolvimento das estatísticas vitais e das estatísticas nas áreas das migrações e de síntese demográfica;
+
+c) Coordenar e promover o desenvolvimento das estatísticas nas áreas do mercado de trabalho, condições e relações de trabalho, salários e outros custos do trabalho;
+
+d) Coordenar e promover o desenvolvimento das estatísticas de caracterização das prestações sociais e seu financiamento no quadro do Sistema Europeu de Estatísticas Integradas da Proteção Social (SEEPROS);
+
+e) Coordenar e promover o desenvolvimento das estatísticas associadas à utilização das tecnologias da informação e da comunicação na sociedade portuguesa;
+
+f) Coordenar e promover o desenvolvimento das estatísticas que visam caracterizar o sistema científico-tecnológico e a inovação;
+
+g) Coordenar e promover o desenvolvimento das estatísticas ligadas à caracterização da oferta, procura e financiamento das atividades da cultura, desporto e lazer;
+
+h) Coordenar e promover o desenvolvimento de outras estatísticas não económicas;
+
+i) Cooperar no desenvolvimento das fontes de informação e indicadores necessários ao quadro central do Sistema de Contas Nacionais, colaborando na conceção e elaboração das contas satélite relacionadas com estas áreas estatísticas.
+
+###### Artigo 9.º — Departamento de Estatísticas Económicas
+
+Ao Departamento de Estatísticas Económicas, abreviadamente designado por DEE, compete:
+
+a) Coordenar a realização dos recenseamentos gerais da agricultura e de outras operações estatísticas de carácter estrutural sobre explorações agrícolas e agroflorestais;
+
+b) Coordenar e promover o desenvolvimento das operações estatísticas do ambiente;
+
+c) Coordenar e desenvolver as operações estatísticas nas áreas da agricultura, silvicultura, pescas, desenvolvimento rural, indicadores agroambientais e segurança e qualidade alimentar;
+
+d) Coordenar e desenvolver as operações estatísticas do comércio internacional de mercadorias, intracomunitário e extracomunitário;
+
+e) Coordenar e promover o desenvolvimento das operações estatísticas nas áreas da indústria, construção, comércio interno, transportes, comunicações turismo e financeira;
+
+f) Coordenar e desenvolver as operações estatísticas de carácter estrutural e trimestral, transversais aos diferentes sectores de atividade na área das empresas não financeiras;
+
+g) Desenvolver o sistema de contas integradas das empresas;
+
+h) Coordenar as operações estatísticas na área da demografia e ciclo de vida das empresas;
+
+i) Coordenar e promover o desenvolvimento de outras estatísticas económicas;
+
+j) Cooperar no desenvolvimento das fontes de informação e indicadores necessários ao quadro central do Sistema de Contas Nacionais, colaborando na conceção e elaboração das contas satélite relacionadas com estas áreas estatísticas.
+
+###### Artigo 10.º — Departamento de Contas Nacionais
+
+Ao Departamento de Contas Nacionais, abreviadamente designado por DCN, compete:
+
+a) Produzir as contas nacionais trimestrais e anuais de acordo com o Sistema Europeu de Contas;
+
+b) Elaborar as contas não financeiras trimestrais das administrações públicas e produzir a informação necessária no âmbito dos trabalhos inerentes ao regulamento dos défices excessivos;
+
+c) Preparar e transmitir a informação relativa ao rendimento nacional bruto (RNB), no âmbito do quarto recurso próprio comunitário;
+
+d) Preparar os dados a fornecer aos serviços do IVA para o cálculo do terceiro recurso próprio comunitário;
+
+e) Produzir com periodicidade quinquenal os quadros input-output para a economia nacional;
+
+f) Elaborar as contas regionais;
+
+g) Elaborar as contas satélite consideradas relevantes;
+
+h) Elaborar as contas económicas da agricultura, silvicultura e pesca e respetivos indicadores de rendimento;
+
+i) Elaborar periodicamente uma matriz de contabilidade social (MCS), em articulação com o quadro central resultante das contas nacionais;
+
+j) Coordenar e promover o desenvolvimento de outras estatísticas macroeconómicas;
+
+l) Colaborar na elaboração e gestão das nomenclaturas específicas das contas nacionais e no processo de atualização de outras nomenclaturas relacionadas;
+
+m) Assegurar a produção de estatísticas das receitas fiscais.
+
+###### Artigo 11.º — Equipas de projeto
+
+1 - O conselho diretivo pode criar, em cada momento, duas equipas de projeto em função de objetivos específicos, de natureza multidisciplinar e caráter transversal às diversas áreas de atuação.
+
+2 - A deliberação do conselho diretivo que cria a equipa de projeto designa o respetivo coordenador e define a sua composição e modo de funcionamento, bem como os meios materiais e financeiros afetos à sua atividade.
+
+3 - Ao coordenador de equipa de projeto é atribuído um estatuto remuneratório equiparado a diretor de departamento ou diretor de serviços, em função da natureza e complexidade das funções.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 120/2014 - Diário da República n.º 110/2014, Série I de 2014-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/120-2014-25676876), em vigor a partir de 2014-06-10

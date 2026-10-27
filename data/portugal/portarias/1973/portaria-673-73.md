@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:567444:por
+title: Portaria n.º 673/73
+short_title: null
+summary: Actualiza as pensões de invalidez, de velhice e de sobrevivência do regime geral da Previdência
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Corporações e Previdência Social
+proposing_entity: null
+official_number: 673/73
+official_date: null
+publication_date: '1973-10-08'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 235/1973, 1º Suplemento, Série I de 1973-10-08
+  number: '235'
+  series: I
+  supplement: null
+  pages: 1762-(9) a 1762-(10)
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/10/23501/00090010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '567444'
+  dre_path: /dr/detalhe/portaria/673-1973-567444
+  internal: pt:dre:567444:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/673-1973-567444
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/673-1973-567444
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:12:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 25bccf5f30a25e1b04fa6929b37dbf164d01ed9cf53b1d5dcac0de483346d3e5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:12:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:493264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673820:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:12:21Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 673/73
+
+de 8 de Outubro
+
+Verificando-se mais uma vez as condições previstas no n.º 1 do artigo 186.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, considera-se oportuno proceder à oitava actualização das pensões de invalidez, de velhice e de sobrevivência do regime geral da Previdência, nos termos estabelecidos naquele artigo.
+
+No que respeita às pensões de invalidez e velhice, além do habitual ajustamento das pensões regulamentares à variação do custo de vida, através do aumento de 11% do seu quantitativo, estabelecem-se aumentos degressivos em relação ao quantitativo regulamentar, de modo a só ficarem inferiores a 1600$00 pensões de beneficiários cujo salário médio mensal não alcançou aquele valor, fixando-se em 800$00 a melhoria mínima, que é presentemente de 750$00, para as pensões regulamentares não superiores a 800$00 mensais. É também aumentada a melhoria uniforme de que beneficiam as pensões regulamentares superiores a 850$00, passando essa melhoria de 500$00 para 750$00.
+
+Fixa-se, pela primeira vez, um quantitativo mínimo para o valor base a tomar para determinação da pensão de sobrevivência, no montante de 800$00.
+
+Da aplicação conjunta das medidas tomadas resultará uma elevação da ordem dos 14% no valor da pensão média de invalidez ou velhice, de 1973 para 1974, ficando essa pensão média a representar quase o triplo da pensão média de 1966.
+
+Nestes termos, ao abrigo da base XXXIII da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, e dos artigos 186.º e 201.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Corporações e Previdência Social, o seguinte:
+
+I - 1. O quantitativo mensal das pensões regulamentares de invalidez, de velhice e de sobrevivência que estejam a ser concedidas em 31 de Dezembro de 1973 pela Caixa Nacional de Pensões e pelas caixas de reforma ou previdência com entidades patronais contribuintes será multiplicado pelo factor de actualização 1,11.
+
+2. Exceptuam-se do disposto no número anterior as pensões iniciadas em 1973, as quais se consideram actualizadas.
+
+II - 1. Nas caixas referidas no n.º 1 da norma anterior as pensões regulamentares de invalidez ou velhice serão melhoradas nas condições indicadas nos números seguintes.
+
+2. As pensões regulamentares de quantitativo mensal não superior a 800$00 serão melhoradas para 1600$00, salvo se o salário médio actualizado for inferior a essa importância, caso em que a pensão total será igual a esse salário médio.
+
+3. Para as pensões a que se refere o número precedente a melhoria mensal não será, porém, em caso algum, inferior a 800$00.
+
+4. As pensões regulamentares compreendidas entre 800$00 e 850$00 são melhoradas para 1600$00.
+
+5. Será de 750$00 o quantitativo da melhoria mensal para as pensões regulamentares iguais ou superiores a 850$00.
+
+6. Quando as pensões a que se refere o número anterior, acrescidas da melhoria, excederem o salário médio actualizado, a pensão total será igual a esse salário médio, salvo se este for inferior a 1600$00, caso em que a pensão total se fixará neste quantitativo.
+
+7. Para os efeitos da presente norma, considerar-se-á como salário médio actualizado:
+
+a) Relativamente às pensões iniciadas até 31 de Dezembro de 1972, o valor resultante da multiplicação pelo factor 1,11 do salário médio a que se refere o n.º 2 da norma III da [Portaria n.º 436/72](https://diariodarepublica.pt/dr/detalhe/portaria/436-1972-676212), de 5 de Agosto;
+
+b) Em relação às pensões iniciadas depois de 31 de Dezembro de 1972, o salário médio dos dez anos civis a que correspondem remunerações mais elevadas ou o salário médio definido no n.º 4 do artigo 80.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, conforme o beneficiário tenha ou não completado dez anos de inscrição.
+
+8. Os n.os 1 a 7 da presente norma não se aplicam, no todo ou em parte, às caixas para as quais foi autorizado um regime mais favorável de melhoria de pensões.
+
+III - Quando a pensão de sobrevivência actualizada nos termos da norma I for inferior à que corresponderia à pensão de invalidez ou velhice de 800$00 mensais, será substituída pelo valor correspondente a esta pensão.
+
+IV - As pensões reduzidas, quer por força do disposto nos artigos 27.º e 189.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, quer por aplicação de convenções internacionais, englobarão também uma melhoria, que se obtém reduzindo a melhoria correspondente à pensão regulamentar total na mesma proporção em que o for esta; não se observará, portanto, quanto à pensão reduzida total o disposto no n.º 3 da norma II ou na norma III, consoante o caso.
+
+V - 1. Em todos os casos em que se torne necessário considerar a actualização de salários, designadamente para os efeitos previstos nas normas XI, n.º 3, e XX, b), da [Portaria n.º 21799](https://diariodarepublica.pt/dr/detalhe/portaria/21799-1966-493264), de 17 de Janeiro de 1966, na norma VII, n.º 2, da [Portaria n.º 444/71](https://diariodarepublica.pt/dr/detalhe/portaria/444-1971-635256), de 19 de Agosto, e no n.º 7 do artigo 100.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, com a redacção que lhe foi dada pelo [Decreto n.º 178/73](https://diariodarepublica.pt/dr/detalhe/decreto/178-1973-673820), de 17 de Abril, utilizar-se-á a seguinte tabela, que substituirá a tabela inserta no n.º 1 da norma I da [Portaria n.º 436/72](https://diariodarepublica.pt/dr/detalhe/portaria/436-1972-676212), de 5 de Agosto:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23501/00090010.pdf)
+
+2. Para os pensionistas da Caixa de Previdência do Pessoal da Companhia Carris de Ferro de Lisboa, com pensões iniciadas antes de 1949, tomar-se-á como ano de início, para os efeitos do número anterior, o ano de 1949.
+
+VI - Compete à Caixa Nacional de Pensões a revisão das pensões em curso nas instituições mencionadas no n.º 1 da norma I, a efectuar em consequência da presente portaria.
+
+VII - O n.º 2 da norma XIX da [Portaria n.º 21799](https://diariodarepublica.pt/dr/detalhe/portaria/21799-1966-493264), de 17 de Janeiro de 1966, passa a ter a seguinte redacção:
+
+XIX - 1. ...
+
+2. É aplicável à pensão de reforma o disposto nos n.os 2 e 3 da norma X.
+
+VIII - Passa a ser de 1900$00 o salário base mensal mínimo para efeitos de contribuição voluntária do pagamento de contribuições a que se referem o n.º 1 da norma VII da [Portaria n.º 444/71](https://diariodarepublica.pt/dr/detalhe/portaria/444-1971-635256), de 19 de Agosto, e o n.º 5 da [Portaria n.º 522/71](https://diariodarepublica.pt/dr/detalhe/portaria/522-1971-632742), de 29 de Setembro.
+
+IX - Excluem-se do disposto na presente portaria os grupos de beneficiários a que não é aplicável o regime de pensões previsto para a Caixa Nacional de Pensões no [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, designadamente os da Caixa de Previdência e Abono de Família dos Ferroviários sujeitos aos regulamentos anteriores a 1 de Julho de 1955 e os da Caixa de Previdência e Abono de Família do Pessoal do Serviço de Transportes Colectivos do Porto admitidos anteriormente a 15 de Junho de 1953.
+
+X - As disposições da presente portaria produzem efeito a partir de 1 de Janeiro de 1974, excepto as normas IV e VII, que entram imediatamente em vigor.
+
+Ministério das Corporações e Previdência Social, 4 de Outubro de 1973. - O Ministro das Corporações e Previdência Social, Baltasar Leite Rebelo de Sousa.

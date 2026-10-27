@@ -1,0 +1,177 @@
+---
+schema_version: '1.0'
+id: pt:dre:470632:por
+title: Portaria n.º 20473
+short_title: null
+summary: Estabelece novo regime para a concessão de bolsas de estudo a estudantes ultramarinos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral do Ensino
+proposing_entity: null
+official_number: '20473'
+official_date: null
+publication_date: '1964-03-25'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 72/1964, Série I de 1964-03-25
+  number: '72'
+  series: I
+  supplement: null
+  pages: 439 - 440
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/03/07200/04390440.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '470632'
+  dre_path: /dr/detalhe/portaria/20473-1964-470632
+  internal: pt:dre:470632:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/20473-1964-470632
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20473-1964-470632
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:42:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f4f981422b7efbf8a042be7cc7fbfeeb1d2ecb80bbb439385f9792c2d03d72f6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:42:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:512850:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686388:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:42:41Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 20473
+
+Tornando-se necessário adaptar o regime de concessão de bolsas de estudo a estudantes ultramarinos às disposições do [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388), de 11 de Setembro de 1963:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar:
+
+1.º O Ministério do Ultramar institui bolsas de estudo de 15000$00, de 10000$00 e de 5000$00 anuais, a conceder nos termos da presente portaria e de acordo com o artigo 30.º e suas alíneas do [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388), de 11 de Setembro de 1963.
+
+2.º É mantido o número de bolsas actualmente concedidas pela Agência-Geral do Ultramar, podendo o mesmo ser alterado por despacho do Ministro do Ultramar, de acordo com as verbas orçamentais para o efeito atribuídas àquela Agência-Geral.
+
+3.º Na atribuição das bolsas terão preferência os naturais das províncias ultramarinas onde não existam Estudos Gerais Universitários.
+
+4.º A distribuição obedecerá a um plano traçado pela comissão a que se refere o artigo 6.º do [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388), de 11 de Setembro de 1963. Para o efeito, esta será informada até 15 de Abril de cada ano, pela Agência-Geral, das disponibilidades orçamentais e do número de vagas de bolsas previsíveis. Traçado o plano, e depois de submetido à homologação do Ministro do Ultramar, será dado a conhecer à Agência-Geral do Ultramar para efeitos de publicação, até 15 de Maio de cada ano, no Diário do Governo e nos Boletins Oficiais das províncias ultramarinas.
+
+5.º As bolsas destinam-se à frequência de quaisquer dos cursos previstos nas alíneas a), b), c) e d) do artigo 10.º do [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388), com excepção dos cursos professados nos Estudos Gerais Universitários e dos cursos médios das províncias ultramarinas.
+
+6.º As bolsas de 10000$00 e de 5000$00 serão atribuídas nas seguintes condições:
+
+a) Aos candidatos que por si ou suas famílias, sendo menores, se responsabilizem, mediante documento escrito, autenticado, a cobrir o encargo mensal de 500$00 ou 1000$00, conforme pretenderem uma bolsa de 10000$00 ou 5000$00 anuais;
+
+b) Que por si ou suas famílias comprovem rendimentos que satisfaçam tais encargos no decurso do ano lectivo para que requereram a bolsa, tendo-se em consideração os vencimentos, salários, ordenados, outras quaisquer formas de retribuição e ou rendimentos que se compreendem na seguinte tabela:
+
+Candidato ou agregado familiar sem filhos a estudar em nível superior ao primário, além do requerente:
+
+Bolsas de 10000$00: menos de 3500$00;
+
+Bolsas de 5000$00: mais de 3500$00 e menos de 4500$00.
+
+Idem com outro filho a estudar em nível igual ou superior ao secundário, que não seja bolseiro:
+
+Bolsas de 10000$00: mais de 3500$00 a 4500$00;
+
+Bolsas de 5000$00: mais de 4500$00 e menos de 5000$00.
+
+Idem com dois filhos a estudar em nível igual ou superior ao secundário, que não sejam bolseiros:
+
+Bolsas de 10000$00: mais de 4500$00 a 5000$00;
+
+Bolsas de 5000$00: mais de 5000$00 e menos de 5500$00.
+
+Por cada filho a mais e nas mesmas condições:
+
+Bolsas de 10000$00: mais de 500$00 para cada filho a adicionar aos 5000$00;
+
+Bolsas de 5000$00: mais de 500$00 para cada filho a adicionar aos 5500$00.
+
+c) Que se comprometam a depositar, à ordem da Procuradoria dos Estudantes Ultramarinos de Lisboa, nos Bancos de Angola ou Nacional Ultramarino, até ao dia 7 de cada mês, de Outubro a Julho, as quantias, respectivamente, de 500$00 ou 1000$00, consoante a bolsa.
+
+7.º As bolsas serão atribuídas por uma comissão presidida pelo director-geral do Ensino do Ultramar, e dela farão parte um representante da Agência-Geral do Ultramar, os comissários-adjuntos para o ultramar da Organização Nacional Mocidade Portuguesa, masculina e feminina, e dois funcionários da Direcção-Geral do Ensino do Ministério do Ultramar, de categoria não inferior a inspector.
+
+8.º Servirá de secretário o chefe de secção da 1.ª Repartição da Direcção-Geral do Ensino.
+
+9.º O montante a distribuir aos bolseiros será de 5000$00 anuais, a pagar em dez prestações, durante o ano lectivo, que se considerará iniciado em 1 de Outubro e findo em 31 de Julho.
+
+a) Correrá por conta da Agência-Geral do Ultramar o encargo da manutenção dos bolseiros cujas bolsas forem de 15000$00, nos lares ultramarinos ou da Organização Nacional Mocidade Portuguesa, masculina e feminina, durante o ano lectivo.
+
+b) Os bolseiros que tenham obtido bolsas de 10000$00 pagarão metade da sua manutenção nos lares, ficando a cargo da Agência-Geral a outra metade, no mesmo período.
+
+c) Os bolseiros com bolsas de 5000$00 pagarão a sua manutenção nos lares.
+
+10.º Quando as circunstâncias o justificarem, o Ministro do Ultramar poderá, por simples despacho, determinar que sejam pagas as bolsas na sua totalidade, em dez prestações, conforme se prevê no número anterior, ficando, porém, neste caso, a cargo do bolseiro a sua manutenção.
+
+11.º A Agência-Geral do Ultramar, durante o mês de Junho, abrirá concurso para a concessão de bolsas de estudo, mediante avisos publicados no Diário do Governo e nos Boletins Oficiais das províncias ultramarinas, nos quais se indicarão o número de vagas existentes em cada modalidade, os cursos a que se destinam e o prazo para a entrega dos documentos, que decorrerá, obrigatòriamente, de 1 de Julho a 15 de Agosto.
+
+12.º Os concorrentes dirigirão os pedidos, em impresso de modelo oficialmente aprovado, com a assinatura devidamente reconhecida, ao Ministro do Ultramar, os quais deverão dar entrada na Agência-Geral do Ultramar até ao termo do prazo fixado no número anterior. Os pedidos serão acompanhados de certidão ou diploma das habilitações legais necessárias para a frequência dos respectivos cursos e quaisquer outros documentos que o candidato entenda que poderão melhor informar o seu pedido.
+
+13.º A Agência-Geral do Ultramar, no que respeita a condições de admissão ao concurso, preferências, deveres, obrigações e regalias dos bolseiros e outras, reger-se-á pelas disposições do [Decreto n.º 45240](https://diariodarepublica.pt/dr/detalhe/decreto/45240-1963-686388), de 11 de Setembro de 1963.
+
+14.º As despesas resultantes da concessão de bolsas de estudo, incluindo as que respeitam à manutenção dos estudantes nos lares, a que se refere o n.º 9.º, constituirão encargo do orçamento privativo da Agência-Geral do Ultramar.
+
+Para efeitos do disposto neste número, serão inscritas no orçamento privativo do referido organismo as seguintes rubricas:
+
+Na receita:
+
+Reembolsos e reposições: importância a receber do fundo a que se refere o artigo 7.º do [Decreto-Lei n.º 43374](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43374-1960-512850), de 5 de Dezembro de 1960 ... 240000$00
+
+Na despesa:
+
+a) Encargos com bolsas de estudo de que trata o n.º 9.º da Portaria n.º 20473, de 25 de Março de 1964 ... (ver nota a) -$00-
+
+b) Encargos com bolsas de estudo de que trata a Portaria n.º 20473, de 25 de Março de 1964 ... 240000$00
+
+(nota a) Verba que constar do orçamento da Agência-Geral do Ultramar.
+
+Ministério do Ultramar, 25 de Março de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.

@@ -1,0 +1,301 @@
+---
+schema_version: '1.0'
+id: pt:dre:668107:por
+title: Portaria n.º 1276/95
+short_title: null
+summary: Aprova o Regulamento do Licenciamento e Classificação das Explorações de Suínos em Regime Extensivo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura e do Ambiente e Recursos Naturais
+proposing_entity: null
+official_number: 1276/95
+official_date: null
+publication_date: '1995-10-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 248/1995, Série I-B de 1995-10-26
+  number: '248'
+  series: I
+  supplement: null
+  pages: 6649 - 6651
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/10/248b00/66496651.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1276/1995/10/26/p/dre/pt/html
+  oj: null
+  dre: '668107'
+  dre_path: /dr/detalhe/portaria/1276-1995-668107
+  internal: pt:dre:668107:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1276-1995-668107
+  metadata_url: https://data.dre.pt/eli/port/1276/1995/10/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1276-1995-668107
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:50:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bad8308e5f4cd47543f1de66f87d273ea72a8de5d8ce65d6051725f52b24fddf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:50:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Abate de Animais
+- Controlo Sanitário
+- Definição de Competências
+- Gado Suíno
+- Instituto de Protecção da Produção Agro-Alimentar
+- Licenciamento
+- Pecuária
+- Produção Animal
+- Regulamento
+- Suinicultura
+relationships:
+- type: amended_by
+  target: pt:dre:439393:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:377322:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:389673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625994:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/255/1994/10/20/p/dre
+- type: repealed_by
+  target: pt:dre:162669:por
+  label: "Revogada pelo Dec Lei 163/97.1997.06.27.MADRP, DR.IS-A [146], a partir da entrada em vigor das portarias previstas\
+    \ no referido diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1997-162669
+  date: '1997-06-27'
+- type: repealed_by
+  target: pt:dre:428996:por
+  label: "Revogada pelo DEC LEI.339/99.1999.08.25.MADRP DR.IS-A [198]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/339-1999-428996
+  date: '1999-08-25'
+- type: repealed_by
+  target: pt:dre:439393:por
+  label: "Revogada, a partir de 08.02.2009, pelo DEC LEI.214/2008.10.11.2008.MADRP, DR.IS [218] de 10.11.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/214-2008-439393
+  date: '2008-11-10'
+article_structure:
+  article_count: 8
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:50:06Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1276/95
+
+de 26 de Outubro
+
+Considerando o [Decreto-Lei n.º 255/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1994-625994), de 20 de Outubro, que estabelece o regime jurídico do exercício da actividade suinícola em regime extensivo;
+
+Considerando a necessidade de estabelecer as normas técnicas de execução do referido diploma:
+
+Ao abrigo do artigo 5.º do [Decreto-Lei n.º 255/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1994-625994), de 20 de Outubro:
+
+Manda o Governo, pelos Ministros da Agricultura e do Ambiente e Recursos Naturais, que seja aprovado o Regulamento do Licenciamento e Classificação das Explorações de Suínos em Regime Extensivo, em anexo ao presente diploma e do qual faz parte integrante.
+
+Ministérios da Agricultura e do Ambiente e Recursos Naturais.
+
+Assinada em 12 de Outubro de 1995.
+
+O Ministro da Agricultura, António Duarte Silva. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
+
+Regulamento do Licenciamento e Classificação das Explorações de Suínos em Regime Extensivo
+
+#### SECÇÃO I — Disposição inicial
+
+###### Artigo 1.º — Objecto
+
+1 - O presente Regulamento estabelece as condições do licenciamento e classificação das explorações de suínos em regime extensivo, encontrando-se neste regime todas as explorações que utilizam o pastoreio em qualquer das fases do seu processo produtivo.
+
+2 - As explorações de suínos em regime extensivo podem ter por finalidade:
+
+a) A produção de reprodutores;
+
+b) A produção de porcos para abate.
+
+###### Artigo 2.º — Produção de reprodutores
+
+A produção de reprodutores pode fazer-se com base em:
+
+a) Núcleos de selecção;
+
+b) Unidades de multiplicação.
+
+#### SECÇÃO II — Produção de reprodutores
+
+###### Artigo 3.º — Núcleos de selecção
+
+1 - As instalações de apoio dos núcleos de selecção devem obedecer às seguintes condições:
+
+a) Ficar implantadas em local ambiental e sanitariamente defensável, afastadas dos caminhos mais frequentados, de matadouros e outros locais susceptíveis de aumentar o risco sanitário dos núcleos de selecção, tal como referido no n.º 1.1.1 da [Portaria n.º 158/81](https://diariodarepublica.pt/dr/detalhe/portaria/158-1981-389673), de 30 de Janeiro;
+
+b) Ter um afastamento mínimo relativamente a outras instalações para suínos que não façam parte integrante dos núcleos não inferior a 200 m da periferia dos alojamentos que os compõem, salvo em casos específicos autorizados após exame directo efectuado pela direcção regional de agricultura;
+
+2 - Os alojamentos que façam parte dos núcleos de selecção devem ser rodeados por uma vedação.
+
+3 - A vedação referida no número anterior deve obedecer aos seguintes requisitos:
+
+a) Ter, no mínimo, 1,5 m de altura;
+
+b) Situar-se entre 5 m e 50 m de distância da periferia dos alojamentos e ter uma única entrada.
+
+4 - As distâncias referidas na alínea b) dos n.os 1 e 3 podem ser alteradas quando as condições topográficas do local ou outras circunstâncias o aconselharem ou permitirem e desde que, após exame directo pela direcção regional de agricultura e pela direcção regional do ambiente e recursos naturais, se considerem satisfeitas as exigências de defesa sanitária e ambiental que elas pretendem assegurar.
+
+5 - As instalações de apoio, localizadas na propriedade ou numa das propriedades onde se situam as pastagens que justificam a adopção do regime extensivo, devem dispor de:
+
+a) Capacidade de alojamento suficiente para permitir a manutenção, em regime de estabulação permanente, de todos os suínos da exploração quando, por razões de ordem sanitária ou outras, assim se tornar necessário;
+
+b) Local reservado à mudança de vestuário e calçado do pessoal tratador, bem como à sua lavagem e desinfecção, a ser utilizado quando, por razões sanitárias ou outras, os animais tiverem de permanecer encerrados nas instalações sanitárias de apoio existentes para o efeito;
+
+c) Abastecimento de água potável que permita o abeberamento dos animais.
+
+6 - Os núcleos de selecção devem dispor dos seguintes anexos:
+
+a) Depósito ou local destinado à armazenagem de alimentos e outros produtos ou materiais necessários ao funcionamento das explorações;
+
+b) Local adequado para quarentena;
+
+c) Parque e cais, fixos ou amovíveis, para inspecção e carga dos animais.
+
+7 - As áreas de pastoreio das explorações devem obedecer aos seguintes requisitos:
+
+a) Ter uma área de pastoreio vedada com capacidade forrageira adequada aos efectivos instalados e anexa às instalações de apoio;
+
+b) Ter o menor número possível de pontos de acesso, nos quais devem ser apostas tabuletas de proibição de entrada de pessoas e viaturas estranhas à exploração.
+
+8 - O equipamento mínimo dos núcleos de selecção deve abranger:
+
+a) Balanças para pesagem de leitões e animais adultos;
+
+b) Pulverizador de pressão móvel para lavagens e desinfecções;
+
+c) Aparelho adequado à medição, em vida, da espessura do toucinho.
+
+9 - A composição dos efectivos deve ser a seguinte:
+
+a) Os efectivos base que compõem os núcleos de selecção são constituídos por um número mínimo de 60 reprodutores por raça explorada e um número adequado de varrascos da mesma raça e por um número máximo determinado em função dos recursos alimentares disponíveis ou previsíveis, de acordo com o plano de exploração a submeter à aprovação da direcção regional de agricultura e da protecção do ambiente e dos recursos naturais da área de pastoreio das explorações, de acordo com o parecer da direcção regional do ambiente e recursos naturais da área da instalação;
+
+b) Só podem ser considerados como efectivos base dos núcleos de selecção os animais da espécie suína, devidamente identificados e inscritos no Livro Genealógico Português de Suínos, devendo cada exploração submeter à aprovação do Instituto de Estruturas Agrárias e Desenvolvimento Rural o respectivo plano de produção e selecção.
+
+10 - O funcionamento dos núcleos de selecção em regime extensivo deve obedecer às seguintes regras:
+
+a) Manter identificados todos os animais presentes na exploração;
+
+b) Cumprir todas as disposições regulamentares aplicáveis do Registo das Explorações Suinícolas, do Regulamento de Identificação e Registo Animal e do Livro Genealógico Português de Suínos;
+
+c) Ter assegurada a assistência de um médico veterinário responsável sanitariamente perante a direcção regional de agricultura;
+
+d) Não permitir a entrada de suínos na exploração sem prévio conhecimento da direcção regional de agricultura;
+
+e) Manter em quarentena, no local destinado a esse fim, durante o período de tempo exigido pela direcção regional de agricultura, os animais autorizados a entrar na exploração;
+
+f) Proceder às desinfecções ou outras operações de defesa sanitária e ambiental que sejam determinadas pela direcção regional de agricultura e pela direcção regional do ambiente e recursos naturais;
+
+g) Proceder ao encerramento, nas instalações referidas no n.º 1 deste artigo, de todos os animais presentes na exploração, sempre que a direcção regional de agricultura assim o determine ou por iniciativa do médico veterinário responsável, que deve, de imediato, comunicar esse facto àquela autoridade sanitária veterinária, bem como à direcção regional do ambiente e recursos naturais da área da instalação.
+
+11 - A classificação e titulação dos núcleos de selecção é atribuída nos seguintes termos:
+
+a) A classificação e o título de núcleo de selecção em regime extensivo são concedidos pelo Instituto de Protecção da Produção Agro-Alimentar (IPPAA), após o parecer favorável da direcção regional de agricultura, às explorações que o solicitem e satisfaçam as condições atrás enunciadas;
+
+b) As regras gerais que condicionam a aprovação e classificação, bem como as que determinam a suspensão ou cancelamento da actividade neste escalão de produção, são as aplicáveis aos núcleos de selecção em regime intensivo.
+
+12 - As explorações já implantadas que não satisfaçam algum dos requisitos previstos nos n.os 1 a 7 podem ser aprovadas e classificadas como núcleo de selecção se, após exame directo, se concluir que com as adaptações julgadas necessárias podem ser assegurados os mínimos de defesa sanitária e de funcionamento compatíveis com o sistema de exploração e os requisitos que a legislação ambiental determine.
+
+###### Artigo 4.º — Unidades de multiplicação
+
+1 - As instalações de apoio das unidades de multiplicação, as áreas destinadas ao pastoreio e seu funcionamento devem obedecer, respectivamente, ao estabelecido nos n.os 1 a 7 e 10 do artigo 3.º
+
+2 - O equipamento mínimo exigível para as unidades de multiplicação é o constante das alíneas a) e b) do n.º 8 do artigo 3.º
+
+3 - Os efectivos base que compõem as unidades de multiplicação são constituídos por um número mínimo de 40 reprodutores por raça e um número adequado de varrascos devidamente identificados e inscritos no Livro Genealógico Português de Suínos, podendo ser provenientes de núcleos de selecção, unidades de multiplicação ou nascidos na própria exploração, e um número máximo determinado em função dos recursos alimentares disponíveis ou previsíveis, de acordo com o plano de exploração a submeter à aprovação da direcção regional de agricultura e da protecção do ambiente e dos recursos naturais da área de pastoreio das explorações, de acordo com o parecer da direcção regional do ambiente e recursos naturais da área da instalação.
+
+4 - A classificação e titulação das unidades de multiplicação é atribuída nos seguintes termos:
+
+a) A classificação e o título de unidade de multiplicação em regime extensivo são concedidos pelo IPPAA, após parecer favorável da direcção regional de agricultura, às explorações que o solicitem e satisfaçam as condições atrás enunciadas;
+
+b) O título de unidade de multiplicação em regime extensivo é completado pela designação da raça pura e ou híbrida a que se refira;
+
+c) As regras gerais que condicionam a aprovação e classificação, bem como as que determinam a suspensão ou cancelamento da actividade neste escalão de produção, são as aplicáveis às unidades de multiplicação em regime intensivo.
+
+5 - As explorações já implantadas que não satisfaçam alguns dos requisitos previstos nos n.os 1 a 7 do artigo 3.º podem ser aprovadas e classificadas como unidades de multiplicação nos termos do previsto no n.º 12 do mesmo artigo.
+
+#### SECÇÃO III — Produção de porcos para abate
+
+###### Artigo 5.º — Produção de porcos para abate
+
+A produção de porcos para abate pode fazer-se com base em:
+
+a) Unidades de produção;
+
+b) Unidades de recria e acabamento.
+
+###### Artigo 6.º — Unidades de produção
+
+1 - As instalações de apoio das unidades de produção e as áreas destinadas ao pastoreio devem obedecer ao estabelecido nos n.os 1 a 7 do artigo 3.º
+
+2 - O equipamento mínimo exigível para as unidades de produção é o constante da alínea b) do n.º 8 do artigo 3.º
+
+3 - Os efectivos base que compõem as unidades de produção são constituídos por um número mínimo de 20 reprodutores e um número adequado de varrascos devidamente identificados, descendentes de animais inscritos no Livro Genealógico Português de Suínos, e determinado em função dos recursos alimentares disponíveis ou previsíveis, de acordo com o plano de exploração a submeter à aprovação da direcção regional de agricultura e da protecção do ambiente e dos recursos naturais da área de pastoreio das explorações, de acordo com o parecer da direcção regional do ambiente e recursos naturais da área da instalação.
+
+4 - O funcionamento das unidades de produção, quer se limitem à produção de leitões quer produzam porcos acabados, deve processar-se conforme o estabelecido no n.º 10 do artigo 3.º, com excepção do registo no Livro Genealógico Português de Suínos;
+
+5 - A classificação e o título de unidade de produção em regime extensivo são concedidos pelo IPPAA às explorações que o solicitem e satisfaçam as condições previstas no n.º 4 do artigo 4.º e as aplicáveis às unidades de produção em regime intensivo.
+
+6 - As explorações já implantadas que não satisfaçam alguns dos requisitos previstos nos n.os 1 a 7 do artigo 3.º podem ser aprovadas e classificadas como unidades de multiplicação nos termos do previsto no n.º 12 do mesmo artigo.
+
+###### Artigo 7.º — Unidades de recria e acabamento
+
+1 - As instalações das unidades de recria e acabamento devem obedecer ao estabelecido no n.º 1 do artigo 3.º
+
+2 - Os efectivos em exploração nas unidades de recria e acabamento são constituídos por um mínimo de 200 animais da espécie suína, devendo o seu dimensionamento ser proposto pelo proprietário da exploração em função dos recursos alimentares disponíveis ou previsíveis, de acordo com o plano de exploração a submeter à aprovação da direcção regional de agricultura.
+
+3 - O equipamento mínimo para as unidades de recria e acabamento em regime extensivo deve constar de pulverizador de pressão móvel para lavagem e desinfecções;
+
+4 - A classificação e o título de unidade de recria e acabamento em regime extensivo é concedido pelo IPPAA às explorações que o solicitem e satisfaçam as condições previstas no n.º 4 do artigo 4.º, com excepção da alínea b), e as aplicáveis às unidades de recria e acabamento em regime intensivo.
+
+5 - As explorações já implantadas que não satisfaçam alguns dos requisitos enunciados no n.º 1 do artigo 3.º podem ser aprovadas e classificadas como unidades de recria e acabamento nos termos do previsto no n.º 12 do mesmo artigo.
+
+###### Artigo 8.º — Tramitação processual
+
+A tramitação processual relativa à apreciação de projectos de implantação de explorações suinícolas em regime extensivo deve obedecer, com as necessárias adaptações, ao constante das Portarias n.os [158/81](https://diariodarepublica.pt/dr/detalhe/portaria/158-1981-389673), de 30 de Janeiro, e [1081/82](https://diariodarepublica.pt/dr/detalhe/portaria/1081-1982-377322), de 17 de Novembro, devendo ainda a direcção regional do ambiente e recursos naturais competente participar na vistoria que precede o licenciamento destes estabelecimentos.

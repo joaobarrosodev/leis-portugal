@@ -1,0 +1,992 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:234917:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-886385436",
+ "dre_path": "/dr/detalhe/decreto-lei/191-1992-234917",
+ "source_lastmod": "2024-08-30",
+ "versions": [
+  {
+   "date": "1992-09-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886386283",
+    "886386284",
+    "886386285",
+    "886386286",
+    "886386287",
+    "886386288",
+    "886386289",
+    "886386290",
+    "886386291",
+    "886386292",
+    "886386293",
+    "886386294",
+    "886386295",
+    "886386296",
+    "886386297",
+    "886386298",
+    "886386299",
+    "886386300",
+    "886386301",
+    "886386302",
+    "886386303",
+    "886386304",
+    "886386305",
+    "886386306",
+    "886386307",
+    "886386308",
+    "886386309",
+    "886386310",
+    "886386311",
+    "886386312",
+    "886386313"
+   ]
+  },
+  {
+   "date": "1999-04-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:534600:por",
+     "title": "Decreto-Lei n.º 127/99",
+     "published": "1999-04-21",
+     "dre_path": "/dr/detalhe/decreto-lei/127-1999-534600"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 26.º-A",
+    "Adita Artigo 26.º-B",
+    "Adita Artigo 26.º-C",
+    "Adita Artigo 26.º-D",
+    "Adita Artigo 26.º-E",
+    "Adita Artigo 26.º-F",
+    "Adita Artigo 26.º-G",
+    "Adita Artigo 26.º-H",
+    "Adita Artigo 26.º-I",
+    "Adita Artigo 26.º-J",
+    "Adita Artigo 26.º-L",
+    "Adita Artigo 28.º-A",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "886386283",
+    "886386284",
+    "886386285",
+    "886386286",
+    "886386287",
+    "886386288",
+    "886386289",
+    "886386290",
+    "886386291",
+    "886386292",
+    "886386293",
+    "886386294",
+    "886386295",
+    "886386296",
+    "886386297",
+    "886386298",
+    "886386299",
+    "886386300",
+    "886386301",
+    "886386302",
+    "886386303",
+    "886386304",
+    "886386305",
+    "886386306",
+    "886386307",
+    "886386308",
+    "886386309",
+    "886386341",
+    "886386347",
+    "886386353",
+    "886386359",
+    "886386365",
+    "886386371",
+    "886510877",
+    "886510883",
+    "886510889",
+    "886510895",
+    "886510901",
+    "886510902",
+    "886510903",
+    "886510907",
+    "886510908",
+    "886510909",
+    "886510910"
+   ]
+  },
+  {
+   "date": "1999-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:532452:por",
+     "title": "Lei n.º 138/99",
+     "published": "1999-08-28",
+     "dre_path": "/dr/detalhe/lei/138-1999-532452"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "886386283",
+    "886386284",
+    "886386285",
+    "886386286",
+    "886510911",
+    "886386288",
+    "886386289",
+    "886386290",
+    "886386291",
+    "886386292",
+    "886386293",
+    "886386294",
+    "886510912",
+    "886510913",
+    "886510914",
+    "886510915",
+    "886510916",
+    "886510917",
+    "886510918",
+    "886510919",
+    "886510920",
+    "886510921",
+    "886510922",
+    "886510923",
+    "886510924",
+    "886510925",
+    "886510926",
+    "886510927",
+    "886510928",
+    "886510929",
+    "886510930",
+    "886510931",
+    "886510932",
+    "886510933",
+    "886510934",
+    "886510935",
+    "886510936",
+    "886510937",
+    "886510938",
+    "886510939",
+    "886510940",
+    "886510941",
+    "886510942",
+    "886510943",
+    "886510944"
+   ]
+  },
+  {
+   "date": "2007-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:521250:por",
+     "title": "Decreto-Lei n.º 168/2007",
+     "published": "2007-05-03",
+     "dre_path": "/dr/detalhe/decreto-lei/168-2007-521250"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º"
+   ],
+   "fragments": [
+    "886386283",
+    "886386284",
+    "886386285",
+    "886386286",
+    "886510911",
+    "886386288",
+    "886386289",
+    "886386290",
+    "886386291",
+    "886386292",
+    "886386293",
+    "886386294",
+    "886510912",
+    "886510913",
+    "886510914",
+    "886510915",
+    "886510916",
+    "886510917",
+    "886510918",
+    "886510919",
+    "886510920",
+    "886510921",
+    "886510922",
+    "886510923",
+    "886510924",
+    "886510945",
+    "886510946",
+    "886510947",
+    "886510928",
+    "886510929",
+    "886510930",
+    "886510931",
+    "886510932",
+    "886510933",
+    "886510934",
+    "886510935",
+    "886510936",
+    "886510937",
+    "886510938",
+    "886510939",
+    "886510940",
+    "886510941",
+    "886510942",
+    "886510943",
+    "886510944"
+   ]
+  }
+ ],
+ "fragments": {
+  "886386283": {
+   "fragment_id": "886385437",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 191/92\n\nde 8 de Setembro\n\nO reconhecimento da objecção de consciência é um corolário da inviolabilidade dessa mesma consciência e encontra-se indissoluvelmente ligado ao valor fundamental da liberdade moral exigido pela própria dignidade da pessoa humana.\n\nA Lei n.º 7/92, de 12 de Maio, veio estabelecer uma nova forma de acesso ao exercício do direito à objecção de consciência perante o serviço militar, determinando o respectivo processo de aquisição e a obrigatoriedade da prestação de um serviço cívico.\n\nConsiderando que se torna necessário regulamentar tal diploma, em observância dos limites nele fixados, entende o Governo determinar a sua execução de uma forma paralela à do serviço militar obrigatório, mas sem que haja qualquer ponto de contacto entre a instituição militar e a estrutura orgânica do serviço cívico, a qual terá uma natureza exclusivamente civil.\n\nDe acordo com a filosofia que enforma o novo estatuto do objector de consciência e tendo ainda em conta a própria legislação comunitária, o serviço cívico deve contemplar actividades humanitárias, culturais e de solidariedade social dignificantes de quem as exerce e verdadeiramente úteis à colectividade.\n\nNeste sentido, a actividade dos objectores de consciência será exercida em entidades públicas ou privadas, privilegiando as denominadas pessoas colectivas de utilidade pública e de utilidade pública administrativa, bem como as instituições particulares de solidariedade social.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 7/92, de 12 de Maio, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886386284": {
+   "fragment_id": "886385438",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objecto\n\n1 - Os cidadãos a quem for atribuído o estatuto de objector de consciência nos termos da Lei n.º 7/92, de 12 Maio, prestarão serviço cívico adequado a essa situação, nos termos previstos neste diploma e demais legislação aplicável.\n\n2 - O serviço cívico tem âmbito nacional."
+  },
+  "886386285": {
+   "fragment_id": "886385439",
+   "type": 11,
+   "heading": "Artigo 2.º — Áreas de prestação do serviço cívico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Áreas de prestação do serviço cívico\n\n1 - O serviço cívico será efectuado, preferencialmente, nas seguintes áreas:\n\na) Assistência em hospitais e outros estabelecimentos de saúde;\n\nb) Rastreio de doenças e acções de defesa da saúde pública;\n\nc) Acções de profilaxia contra a droga, o tabagismo e o alcoolismo;\n\nd) Assistência a deficientes, crianças e idosos;\n\ne) Prevenção e combate a incêndios e socorros a náufragos;\n\nf) Assistência a populações sinistradas por cheias, terremotos, epidemias e outras calamidades públicas;\n\ng) Primeiros socorros, em caso de acidentes de viação;\n\nh) Manutenção, vigilância, repovoamento e conservação de parques, reservas naturais e outras áreas classificadas;\n\ni) Manutenção e construção de estradas ou de caminhos com interesse local;\n\nj) Protecção do meio ambiente e do património natural e cultural;\n\nl) Colaboração em acções de estatística civil;\n\nm) Colaboração em acções de alfabetização e promoção cultural;\n\nn) Exercício de actividade em instituições de carácter social, cultural ou religioso com fins não lucrativos;\n\no) Assistência em estabelecimentos prisionais e em acções de reinserção social.\n\n2 - A prestação do serviço cívico em território estrangeiro será regulamentada através de diploma legal, no qual serão definidos o regime de prestação de trabalho e o respectivo estatuto remuneratório.\n\n3 - A prestação do serviço a que se refere o número anterior dependerá de consentimento expresso por parte do objector de consciência."
+  },
+  "886386286": {
+   "fragment_id": "886385440",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidades de prestação do serviço cívico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidades de prestação do serviço cívico\n\n1 - O serviço cívico dos objectores de consciência será prestado em entidades públicas ou privadas.\n\n2 - Tratando-se de entidades privadas, deverão preencher os seguintes requisitos:\n\na) Prosseguir fins não lucrativos de interesse geral, seja este de âmbito nacional ou local;\n\nb) Ter capacidade de organizar o período de formação previsto no artigo 6.º do presente diploma;\n\nc) Possuir, pelo menos, três anos de existência.\n\n3 - No âmbito das entidades privadas, terão prioridade na colocação de objectores de consciência as pessoas colectivas de utilidade pública e de utilidade pública administrativa e as instituições particulares de solidariedade social."
+  },
+  "886386287": {
+   "fragment_id": "886385441",
+   "type": 11,
+   "heading": "Artigo 4.º — Situações do serviço cívico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Situações do serviço cívico\n\n1 - As obrigações decorrentes do serviço cívico iniciam-se com a aquisição do estatuto de objector de consciência e prolongam-se até 31 de Dezembro do ano em que o objector completar 35 anos de idade.\n\n2 - O serviço cívico compreende as seguintes situações:\n\na) Reserva de recrutamento;\n\nb) Serviço cívico efectivo normal;\n\nc) Reserva de disponibilidade imediata;\n\nd) Reserva geral.\n\n3 - A reserva de recrutamento é constituída pelos cidadãos que obtiverem o estatuto de objector de consciência, até à sua colocação efectiva.\n\n4 - O serviço cívico efectivo normal compreende a prestação do serviço cívico desde a colocação até à passagem à reserva de disponibilidade imediata.\n\n5 - A reserva de disponibilidade imediata inicia-se com o fim da prestação do serviço cívico efectivo normal e termina quando se completarem seis anos sobre a passagem a esta situação, podendo os objectores de consciência, durante este período, ser convocados para a prestação do serviço cívico extraordinário, nos termos do artigo seguinte.\n\n6 - A reserva geral é constituída pelos objectores que transitarem da reserva de disponibilidade imediata e termina em 31 de Dezembro do ano em que completarem 35 anos de idade."
+  },
+  "886386288": {
+   "fragment_id": "886385442",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviço cívico extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviço cívico extraordinário\n\n1 - Por despacho do Primeiro-Ministro pode ser determinada a convocação extraordinária, de âmbito nacional ou regional, dos objectores nas situações de reserva de disponibilidade imediata e reserva geral, quer para efeitos de reciclagem quer ainda para a prestação de serviço cívico efectivo normal em estado de sítio, estado de emergência ou de guerra, nos termos legalmente previstos.\n\n2 - A reciclagem a que se refere o número anterior abrange um período ou períodos, na totalidade não superiores a dois meses, enquanto durarem as obrigações do serviço cívico."
+  },
+  "886386289": {
+   "fragment_id": "886385443",
+   "type": 11,
+   "heading": "Artigo 6.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Duração\n\nO serviço cívico a prestar pelos objectores de consciência compreende um período de formação, com a duração de três meses, e um período de serviço efectivo normal, com duração igual à vigente para o Exército, nos termos do artigo 27.º da Lei n.º 30/87, de 7 de Junho, com a redacção que lhe foi dada pela Lei n.º 22/91, de 19 de Junho."
+  },
+  "886386290": {
+   "fragment_id": "886385444",
+   "type": 11,
+   "heading": "Artigo 7.º — Processo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Processo individual\n\n1 - Após a recepção da acta atributiva do estatuto de objector de consciência, deverá o Gabinete do Serviço Cívico dos Objectores de Consciência, adiante designado por GSCOC, enviar ao objector, no prazo de 15 dias, carta registada e devidamente acompanhada de informação escrita sobre os seus direitos e deveres, assim como dos objectivos do serviço cívico.\n\n2 - A carta referida no número anterior será também acompanhada do boletim de inscrição de objector de consciência, que deverá ser preenchido e devolvido ao GSCOC no prazo de 30 dias.\n\n3 - O GSCOC procederá à organização de um processo individual para cada objector de consciência, ao qual será atribuído um número próprio de identificação."
+  },
+  "886386291": {
+   "fragment_id": "886385445",
+   "type": 11,
+   "heading": "Artigo 8.º — Exame médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Exame médico\n\n1 - Os objectores de consciência que sofram de deficiência ou doença permanentes que lhes causem limitação física impeditiva de exercerem todas ou algumas das actividades do serviço cívico podem requerer ao director do GSCOC a sua apresentação a exame médico.\n\n2 - O requerimento será apresentado no prazo de 15 dias a partir da data de recepção do boletim de inscrição pelo objector de consciência.\n\n3 - O exame será efectuado por uma junta médica do centro de saúde da área de residência do requerente, constituída pelo director do respectivo centro, que preside, e por dois médicos da carreira de clínica geral, e dele será elaborado relatório, subscrito pelos membros da junta, do qual deverá constar:\n\na) A descrição da doença ou deficiência permanente do requerente;\n\nb) As limitações que delas decorrem para o exercício de todas ou algumas das actividades do serviço cívico.\n\n4 - Quando do relatório médico não resulte a inaptidão total do requerente, será o mesmo classificado como Apto para o serviço cívico, mas a limitação parcial de que eventualmente sofra será tida em conta para efeitos de colocação."
+  },
+  "886386292": {
+   "fragment_id": "886385446",
+   "type": 11,
+   "heading": "Artigo 9.º — Regimes de adiamento, interrupção, dispensa e amparo de família",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regimes de adiamento, interrupção, dispensa e amparo de família\n\n1 - Os objectores de consciência gozam dos regimes de adiamento, interrupção, dispensa e amparo de família em condições equivalentes às dos cidadãos sujeitos a obrigações militares.\n\n2 - Os objectores de consciência que pretendam beneficiar dos regimes de adiamento, dispensa e amparo de família devem manifestar essa pretensão no acto de devolução ao GSCOC do boletim de inscrição de objector de consciência.\n\n3 - Podem requerer a interrupção do cumprimento do serviço cívico efectivo normal, depois de terminado o período de formação previsto no n.º 2 do artigo 12.º, os objectores que forem investidos em funções cujo estatuto legal o determine, enquanto se mantiverem no desempenho efectivo dos respectivos cargos.\n\n4 - O respectivo requerimento é dirigido ao director do GSCOC, devendo ser instruído com prova documental dos factos alegados."
+  },
+  "886386293": {
+   "fragment_id": "886385447",
+   "type": 11,
+   "heading": "Artigo 10.º — Preferência pelo ano de colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Preferência pelo ano de colocação\n\n1 - O objector de consciência pode manifestar no boletim de inscrição a sua preferência pela colocação em ano diferente do que lhe seria normalmente atribuído, dentro do limite dos 18 aos 22 anos de idade.\n\n2 - A preferência manifestada no número anterior será tida em conta sempre que dela não resultem prejuízos para as necessidades anuais de colocação por parte do GSCOC."
+  },
+  "886386294": {
+   "fragment_id": "886385448",
+   "type": 11,
+   "heading": "Artigo 11.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Colocação\n\n1 - A colocação do objector deverá ser efectuada nos seis meses seguintes à devolução ao GSCOC do boletim de inscrição.\n\n2 - O objector de consciência será avisado da sua colocação na instituição onde deverá prestar a sua actividade, mediante notificação feita com, pelo menos, 30 dias de antecedência.\n\n3 - O objector tem direito a reclamar da colocação que lhe for atribuída, com fundamento em ilegalidade, no prazo de 15 dias a contar da data da notificação referida no número anterior.\n\n4 - A reclamação a que se refere o número anterior não tem efeito suspensivo e deverá ser objecto de decisão no prazo de 30 dias.\n\n5 - A colocação do objector será precedida da celebração de um protocolo entre o GSCOC e a entidade interessada, no qual serão estipuladas as responsabilidades de cada uma das partes."
+  },
+  "886386295": {
+   "fragment_id": "886385449",
+   "type": 11,
+   "heading": "Artigo 12.º — Selecção e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Selecção e formação\n\n1 - Os objectores de consciência serão agrupados de acordo com as suas habilitações literárias, técnicas, profissionais ou outras de reconhecido interesse para o serviço cívico e tendo ainda em conta as preferências manifestadas.\n\n2 - Antes do serviço cívico efectivo normal os objectores frequentarão, na instituição onde forem colocados, um período de formação com a duração de três meses, que abrange uma fase de formação geral e uma fase de formação específica.\n\n3 - Na fase de formação geral será fornecida informação sobre a natureza e objectivos do serviço cívico direitos e obrigações do cidadão objector e normas de funcionamento da instituição onde o serviço cívico estiver a ser prestado.\n\n4 - A fase de formação específica, orientada por um responsável da instituição e sujeita a supervisão do GSCOC, tem por finalidade desenvolver a capacidade profissional do objector, com vista a uma melhor integração nas tarefas do serviço cívico.\n\n5 - No termo do período de formação deverá ser enviado ao GSCOC, no prazo de 15 dias, um relatório de avaliação funcional da actividade do objector."
+  },
+  "886386296": {
+   "fragment_id": "886385450",
+   "type": 11,
+   "heading": "Artigo 13.º — Mudança de colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mudança de colocação\n\n1 - O GSCOC pode proceder à transferência do objector de consciência para outro organismo ou à sua mudança para um serviço de outro tipo quando:\n\na) Houver alteração das suas qualificações técnicas e profissionais;\n\nb) O organismo em que se encontra deixar de ser considerado adequado ao serviço cívico;\n\nc) O organismo deixar de ter necessidade do objector em cumprimento do serviço cívico ou este se revelar incapaz para realizar as tarefas do próprio serviço;\n\nd) For considerada procedente a reclamação a que se refere o n.º 3 do artigo 11.º\n\n2 - A iniciativa do processo referido no número anterior caberá ao GSCOC, ao objector de consciência ou ao organismo onde é prestado o serviço cívico e será comunicada às entidades interessadas."
+  },
+  "886386297": {
+   "fragment_id": "886385451",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime de prestação do serviço cívico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime de prestação do serviço cívico\n\n1 - Com excepção do regime remuneratório e dos direitos em matéria de segurança social e de protecção na doença, os objectores ficam sujeitos, durante a prestação do serviço cívico, à regulamentação interna dos serviços a que forem afectados, sem prejuízo da competência disciplinar legalmente estabelecida.\n\n2 - Os serviços referidos no número anterior deverão comunicar ao GSCOC o início e a cessação de funções pelos objectores no prazo de cinco dias a contar da sua ocorrência e enviar mensalmente informações sobre a respectiva assiduidade.\n\n3 - O objector de consciência que durante a prestação do serviço cívico pretenda deslocar-se ao estrangeiro deverá solicitar previamente autorização ao GSCOC."
+  },
+  "886386298": {
+   "fragment_id": "886385452",
+   "type": 11,
+   "heading": "Artigo 15.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acompanhamento e avaliação\n\n1 - O acompanhamento da prestação do serviço cívico e feito por técnicos do GSCOC através de visitas periódicas às instituições e ainda pela verificação do cumprimento das cláusulas do protocolo.\n\n2 - A avaliação do serviço cívico será objecto de um relatório final a elaborar pela instituição no termo da respectiva prestação."
+  },
+  "886386299": {
+   "fragment_id": "886385453",
+   "type": 11,
+   "heading": "Artigo 16.º — Estatuto remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Estatuto remuneratório\n\n1 - Os objectores de consciência, durante o período de formação que antecede o serviço cívico efectivo normal, auferem uma compensação financeira correspondente à dos militares em serviço efectivo normal.\n\n2 - Os objectores de consciência em cumprimento do serviço cívico efectivo normal serão escalonados por níveis remuneratórios para efeitos da determinação da respectiva compensação financeira, os quais serão fixados por portaria conjunta do Ministro da Defesa Nacional e do membro do Governo responsável pela área da juventude.\n\n3 - O acesso de cada objector aos níveis remuneratórios previstos no número anterior depende da conclusão, com aproveitamento, do período de formação e do grau das suas habilitações literárias, técnicas, profissionais ou outras de reconhecido interesse para o serviço cívico, nos termos da portaria a que se refere o n.º 2.\n\n4 - Os objectores de consciência quando na prestação do serviço cívico efectivo normal e durante o período de formação que o antecede têm direito a alimentação por conta do Estado nas mesmas condições definidas pelos artigos 1.º e 4.º do Decreto-Lei n.º 329-G/75, de 30 de Junho, para os militares das Forças Armadas.\n\n5 - Quando não for possível o fornecimento de alimentação em espécie, o seu abono poderá ter lugar a dinheiro, em quantitativo a fixar, anualmente, pelo Ministro da Defesa Nacional, nos termos do artigo 5.º do Decreto-Lei n.º 329-G/75, acima referido, conjugado com o disposto na alínea e) do n.º 2 do artigo 44.º da Lei n.º 29/82, de 11 de Dezembro.\n\n6 - Os objectores de consciência que, quando na prestação do serviço cívico efectivo normal, tiverem de se deslocar para localidade diferente daquela onde se encontrem a prestar serviço, por determinação da instituição onde exercem a actividade, têm direito ao abono de ajudas de custo e transporte, ou requisição de transporte, a suportar por essa instituição, nas mesmas condições fixadas para os militares das Forças Armadas.\n\n7 - Os encargos com as compensações financeiras e demais abonos referidos nos números anteriores são suportados por conta das dotações para o efeito inscritas no orçamento do GSCOC."
+  },
+  "886386300": {
+   "fragment_id": "886385454",
+   "type": 11,
+   "heading": "Artigo 17.º — Direitos em matéria de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direitos em matéria de segurança social\n\nDurante a prestação do serviço cívico, a situação dos objectores de consciência é equiparada, para efeitos de segurança social, à dos cidadãos em serviço efectivo normal."
+  },
+  "886386301": {
+   "fragment_id": "886385455",
+   "type": 11,
+   "heading": "Artigo 18.º — Regalias sociais do objector de consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regalias sociais do objector de consciência\n\nDurante o cumprimento do serviço cívico os objectores de consciência, para além dos direitos consignados neste diploma, usufruem das seguintes regalias:\n\na) Cartão de identificação de objector de consciência;\n\nb) Assistência médica e medicamentosa gratuitas, extensiva aos familiares a seu exclusivo cargo;\n\nc) Alimentação e alojamento por conta do Estado em caso de deslocação para tratamento hospitalar;\n\nd) Descontos nos transportes em condições equivalentes às dos cidadãos em prestação do serviço efectivo normal;\n\ne) Aplicação de todos os direitos e garantias previstos na lei para os indivíduos a prestar serviço efectivo normal que sejam compatíveis com a natureza do serviço cívico."
+  },
+  "886386302": {
+   "fragment_id": "886385456",
+   "type": 11,
+   "heading": "Artigo 19.º — Deveres do objector de consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Deveres do objector de consciência\n\nEnquanto sujeito às obrigações do serviço cívico definidas neste diploma, o objector fica vinculado aos seguintes deveres, a cumprir perante o GSCOC:\n\na) Informar da sua mudança de residência;\n\nb) Preencher o boletim de inscrição que lhe seja enviado e proceder à sua devolução;\n\nc) Apresentar-se no local para que for convocado nos dias e horas indicados;\n\nd) Caso tenha requerido adiamento de prestação do serviço cívico, apresentar até 15 de Novembro de cada ano prova documental da subsistência dos pressupostos justificativos do adiamento."
+  },
+  "886386303": {
+   "fragment_id": "886385457",
+   "type": 11,
+   "heading": "Artigo 20.º — Competência e delegação de poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competência e delegação de poderes\n\n1 - O Primeiro-Ministro é a entidade competente para:\n\na) Determinar a convocação extraordinária dos objectores de consciência;\n\nb) Reconhecer aos objectores de consciência a qualidade de amparo de família e determinar os trâmites do processo para a respectiva concessão;\n\nc) Conceder aos objectores de consciência adiamento, interrupção e dispensa da prestação do serviço cívico;\n\nd) Decidir dos processos disciplinares instruídos ao abrigo do disposto nos artigos 31.º e 32.º da Lei n.º 7/92, de 12 de Maio;\n\ne) Superintender, em geral, na organização e execução do serviço cívico.\n\n2 - As competências previstas no número anterior podem ser delegadas no membro do Governo responsável pela área da juventude, com possibilidade de subdelegação."
+  },
+  "886386304": {
+   "fragment_id": "886385458",
+   "type": 11,
+   "heading": "Artigo 21.º — Comissão Nacional de Objecção de Consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comissão Nacional de Objecção de Consciência\n\n1 - A Comissão Nacional de Objecção de Consciência, adiante designada por CNOC, com competência e composição estabelecidas nos artigos 19.º e 28.º da Lei n.º 7/92, de 12 de Maio, funciona em Lisboa, junto do GSCOC.\n\n2 - Os membros da CNOC desempenham as suas funções em regime de acumulação, pelo período de três anos, renováveis por período de igual duração.\n\n3 - A CNOC reunirá ordinariamente duas vezes por mês e extraordinariamente sempre que for convocada pelo seu presidente.\n\n4 - A CNOC elabora o seu regimento."
+  },
+  "886386305": {
+   "fragment_id": "886385459",
+   "type": 11,
+   "heading": "Artigo 22.º — Remunerações dos membros da CNOC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Remunerações dos membros da CNOC\n\n1 - Os membros da CNOC, com excepção do director do GSCOC, têm direito a um suplemento de participação em reuniões.\n\n2 - O suplemento referido no número anterior é fixado por despacho conjunto do Primeiro-Ministro, com faculdade de delegação, e do Ministro das Finanças."
+  },
+  "886386306": {
+   "fragment_id": "886385460",
+   "type": 11,
+   "heading": "Artigo 23.º — Apoio e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Apoio e financiamento\n\n1 - O apoio técnico-administrativo, documental e logístico à CNOC será assegurado pelo GSCOC.\n\n2 - Os encargos com o funcionamento da CNOC serão suportados pelas dotações para o efeito inscritas no orçamento do GSCOC."
+  },
+  "886386307": {
+   "fragment_id": "886385461",
+   "type": 11,
+   "heading": "Artigo 24.º — Gabinete do Serviço Cívico dos Objectores de Consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Gabinete do Serviço Cívico dos Objectores de Consciência\n\n1 - O GSCOC é um organismo integrado na Presidência do Conselho de Ministros a quem compete assegurar o planeamento, organização e coordenação, a nível nacional, do serviço cívico a que se refere o presente diploma.\n\n2 - O GSCOC é dirigido por um director, equiparado, para todos os efeitos legais, a director-geral, a quem compete representar o Gabinete na CNOC.\n\n3 - O estatuto de pessoal do GSCOC é o estabelecido nas leis gerais aplicáveis à Administração Pública.\n\n4 - As normas relativas à organização e competência dos serviços, bem como o quadro de pessoal e a forma de preenchimento dos respectivos lugares, serão definidas mediante decreto regulamentar."
+  },
+  "886386308": {
+   "fragment_id": "886385462",
+   "type": 11,
+   "heading": "Artigo 25.º — Serviços desconcentrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Serviços desconcentrados\n\n1 - O GSCOC dispõe ainda de serviços desconcentrados, que prosseguirão a nível regional as atribuições que lhe estão cometidas.\n\n2 - A orgânica e o pessoal de cada serviço desconcentrado serão definidos em diploma próprio."
+  },
+  "886386309": {
+   "fragment_id": "886385463",
+   "type": 11,
+   "heading": "Artigo 26.º — Atribuições do GSCOC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Atribuições do GSCOC\n\n1 - São atribuições do GSCOC:\n\na) Assegurar, a nível nacional, a organização e o funcionamento do serviço cívico dos objectores de consciência perante o serviço militar;\n\nb) Informar acerca do estatuto de objector de consciência e dos direitos e deveres dele decorrentes;\n\nc) Fornecer apoio técnico-administrativo, documental e logístico à CNOC;\n\nd) Elaborar o registo nacional dos objectores de consciência, através de inscrição dos cidadãos que tenham obtido o respectivo estatuto;\n\ne) Elaborar e manter actualizado um ficheiro dos organismos disponíveis para receber prestadores do serviço cívico.\n\nf) Seleccionar e classificar os objectores com vista à sua posterior colocação;\n\ng) Celebrar com as entidades interessadas protocolos respeitantes à prestação do serviço cívico;\n\nh) Promover a colocação, formação e acompanhamento dos objectores de consciência em cumprimento do serviço cívico;\n\ni) Assegurar os procedimentos adequados na falta de remessa por parte do objector do boletim de inscrição ou em caso de recusa ou abandono da prestação do serviço cívico;\n\nj) Fornecer toda a informação necessária e proceder à instrução dos processos de amparo, adiamento, interrupção e dispensa do serviço cívico;\n\nl) Emitir o cartão de identificação e a caderneta civil de objector de consciência.\n\n2 - As normas de funcionamento do GSCOC constarão de regulamento interno, a homologar pelo membro do Governo responsável pelo Gabinete."
+  },
+  "886386310": {
+   "fragment_id": "886385464",
+   "type": 11,
+   "heading": "Artigo 27.º — Colaboração de outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Colaboração de outras entidades\n\nO GSCOC, no exercício das suas atribuições, receberá todas as informações e toda a colaboração necessária das autoridades civis e militares.\n\nDisposições finais"
+  },
+  "886386311": {
+   "fragment_id": "886385465",
+   "type": 11,
+   "heading": "Artigo 28.º — Salvaguarda de regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Salvaguarda de regulamentos\n\nMantêm-se em vigor os modelos de boletim de inscrição, cartão de identificação e caderneta civil de objector de consciência, aprovados, respectivamente, pelas Portarias n.os 465/89, de 24 de Junho, 140/88, de 4 de Março, e 1036/89, de 29 de Novembro."
+  },
+  "886386312": {
+   "fragment_id": "886385466",
+   "type": 11,
+   "heading": "Artigo 29.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Revogação\n\nSão revogados os Decretos-Leis n.os 91/87, de 27 de Fevereiro, e 451/88, de 13 de Dezembro."
+  },
+  "886386313": {
+   "fragment_id": "886385467",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "886386341": {
+   "fragment_id": "886474098",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Âmbito e finalidade do registo de objectores de consciência",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-A — Âmbito e finalidade do registo de objectores de consciência\n\n1 - O registo de objectores de consciência é organizado em ficheiro central informatizado.\n\n2 - O registo de objectores de consciência tem por finalidade organizar e manter actualizada a informação sobre a identificação dos indivíduos titulares do estatuto de objector de consciência e possibilitar o conhecimento dessa informação, nos termos e para os efeitos previstos na lei.\n\n3 - A informação sobre identificação dos indivíduos objectores de consciência deve processar-se no estrito respeito pelos princípios da legalidade, autenticidade, veracidade e segurança dos elementos identificativos.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886386347": {
+   "fragment_id": "886474099",
+   "type": 11,
+   "heading": "Artigo 26.º-B — Entidade responsável pelo tratamento da base de dados",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-B — Entidade responsável pelo tratamento da base de dados\n\n1 - O director do Gabinete do Serviço Cívico dos Objectores de Consciência (GSCOC) é o responsável pelo tratamento da base de dados de objectores de consciência, nos termos do artigo 3.º, alínea d), da Lei n.º 67/98, de 26 de Outubro.\n\n2 - Cabe ao director do GSCOC assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de inexactidões, o completamento de omissões, a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou da comunicação da informação.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886386353": {
+   "fragment_id": "886474100",
+   "type": 11,
+   "heading": "Artigo 26.º-C — Constituição e actualização da base de dados",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-C — Constituição e actualização da base de dados\n\n1 - A base de dados sobre objectores de consciência é constituída pelos seguintes dados pessoais:\n\na) Nome;\n\nb) Naturalidade;\n\nc) Data de nascimento;\n\nd) Filiação;\n\ne) Número do bilhete de identidade;\n\nf) Nacionalidade;\n\ng) Falecimento do titular da informação.\n\n2 - Além dos dados pessoais referidos no número anterior, é ainda objecto de recolha e tratamento automatizado a indicação:\n\na) Da entidade decisória;\n\nb) Do número do processo;\n\nc) Da data de decisão;\n\nd) Do conteúdo da decisão;\n\ne) Da data da criação do registo.\n\n3 - Os dados referidos nos números anteriores são recolhidos e actualizados a partir do processo individual do objector de consciência, com excepção da data da criação do registo, que é fixada automaticamente pelo sistema informático.\n\n4 - Os dados pessoais de identificação são validados através de consulta em linha ao ficheiro central de identificação civil da Direcção de Serviços de Identificação Civil, da Direcção-Geral dos Registos e do Notariado.\n\n5 - As condições de acesso em linha ao ficheiro central referido no número anterior são definidas em protocolo celebrado entre o GSCOC e a Direcção-Geral dos Registos e do Notariado.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886386359": {
+   "fragment_id": "886474101",
+   "type": 11,
+   "heading": "Artigo 26.º-D — Acesso à informação pelo titular",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-D — Acesso à informação pelo titular\n\nO titular dos dados ou quem, exibindo autorização escrita, prove efectuar o acesso em seu nome ou no seu interesse tem o direito de aceder à informação que lhe diga respeito, podendo exigir a sua rectificação e actualização ou a supressão dos dados indevidamente registados.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886386365": {
+   "fragment_id": "886474102",
+   "type": 11,
+   "heading": "Artigo 26.º-E — Acesso à informação por outras entidades",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-E — Acesso à informação por outras entidades\n\n1 - Podem aceder à informação contida na base de dados de objectores de consciência:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal e de instrução de processos criminais e de execução das penas, no âmbito dos processos relacionados com os objectores de consciência;\n\nb) As entidades que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou instrução no âmbito dos processos relacionados com os objectores de consciência e no limite dessas competências;\n\nc) As entidades com competência para a prossecução de fins de investigação científica ou estatística.\n\n2 - O acesso das entidades referidas na alínea c) do número anterior depende de autorização do ministro da tutela, devendo o respectivo despacho fixar as condições e os termos do acesso, não podendo em caso algum abranger elementos que permitam identificar qualquer registo individual.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886386371": {
+   "fragment_id": "886474103",
+   "type": 11,
+   "heading": "Artigo 26.º-F — Formas de acesso",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-F — Formas de acesso\n\n1 - O conhecimento da informação sobre objectores de consciência pode ser obtido pelas seguintes formas:\n\na) Informação certificada;\n\nb) Reprodução autenticada do registo informático;\n\nc) Acesso directo ao ficheiro central informatizado.\n\n2 - Os pedidos de acesso previstos no número anterior devem ser dirigidos ao director do GSCOC e devem conter:\n\na) A identificação completa do titular dos dados ou de terceiro com legitimidade para aceder ao registo;\n\nb) A identificação da entidade requerente;\n\nc) O fim a que se destina a informação.\n\n3 - São indeferidos os pedidos que não satisfaçam os requisitos previstos neste artigo e os que não se mostrem conformes às finalidades previstas na lei.\n\n4 - As entidades referidas no artigo anterior não podem utilizar os dados para fins diferentes dos invocados no momento em que acederam à informação.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510877": {
+   "fragment_id": "886474104",
+   "type": 11,
+   "heading": "Artigo 26.º-G — Informação certificada de objector de consciência",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-G — Informação certificada de objector de consciência\n\nA informação certificada é passada mediante fotocópia autenticada da acta de concessão do estatuto de objector de consciência, constituindo documento bastante para provar a qualidade de objector de consciência.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510883": {
+   "fragment_id": "886474105",
+   "type": 11,
+   "heading": "Artigo 26.º-H — Reprodução autenticada do registo informático",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-H — Reprodução autenticada do registo informático\n\nA reprodução autenticada do registo informático destina-se unicamente a facultar ao titular dos dados o conhecimento do conteúdo integral do registo a seu respeito.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510889": {
+   "fragment_id": "886474106",
+   "type": 11,
+   "heading": "Artigo 26.º-I — Acesso directo ao ficheiro central informatizado",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-I — Acesso directo ao ficheiro central informatizado\n\n1 - Podem aceder directamente ao ficheiro central informatizado as entidades previstas no artigo 26.º-E, n.º 1, alíneas a) e b).\n\n2 - As condições do acesso directo das entidades referidas no número anterior são definidas por despacho do director do GSCOC.\n\n3 - O GSCOC implementará um sistema de registo de todas as consultas solicitadas ao abrigo do n.º 1.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510895": {
+   "fragment_id": "886474107",
+   "type": 11,
+   "heading": "Artigo 26.º-J — Medidas de segurança",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-J — Medidas de segurança\n\nO GSCOC e as entidades mencionadas no artigo 26.º-E, n.º 1, alíneas a) e b), devem adoptar as medidas de segurança referidas no artigo 15.º, n.º 1, da Lei n.º 67/98, de 26 de Outubro.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510901": {
+   "fragment_id": "886474108",
+   "type": 11,
+   "heading": "Artigo 26.º-L — Conservação dos dados",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-L — Conservação dos dados\n\n1 - Os dados constantes da base de dados de objectores de consciência são conservados até ao falecimento do respectivo titular.\n\n2 - Sem prejuízo do disposto no número anterior, as situações de cessação da situação de objecção de consciência determinam o cancelamento automático do registo.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510902": {
+   "fragment_id": "886385464",
+   "type": 11,
+   "heading": "Artigo 27.º — Colaboração de outras entidades",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 27.º — Colaboração de outras entidades\n\n1 - O GSCOC, no exercício das suas atribuições, receberá todas as informações e toda a colaboração necessária das autoridades civis e militares.\n\nDisposições finais\n\n2 - Os serviços de identificação criminal facultam ao GSCOC a informação sobre a situação criminal dos indivíduos objectores de consciência, nos termos e para os efeitos previstos no artigo 14.º, n.º 1, alínea a), da Lei n.º 7/92, de 12 de Maio.\n\n3 - O GSCOC assegura o cumprimento do disposto no artigo 13.º, n.º 1, da Lei n.º 7/92, de 12 de Maio, mediante consulta aos registos das entidades com competência para a concessão de licenças de uso e porte de arma, das entidades cuja actividade envolva a detenção e uso de armas pelos seus funcionários ou que se dediquem ao fabrico, reparação ou comércio de armas e munições de qualquer natureza ou que se dediquem à investigação científica relacionada com essas actividades.\n\n4 - As entidades referidas no número anterior enviam anualmente ao GSCOC a listagem dos titulares de licenças de uso e porte de arma e dos funcionários que detenham e usem armas no exercício das suas funções ou que se dediquem ao fabrico, reparação ou comércio de armas e munições de qualquer natureza ou se dediquem à investigação científica relacionada com essas actividades.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510903": {
+   "fragment_id": "886385465",
+   "type": 11,
+   "heading": "Artigo 28.º — Salvaguarda de regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Salvaguarda de regulamentos\n\nMantêm-se em vigor os modelos de boletim de inscrição, cartão de identificação e caderneta civil de objector de consciência, aprovados, respectivamente, pelas Portarias n.os 465/89, de 24 de Junho, 140/88, de 4 de Março, e 1036/89, de 29 de Novembro."
+  },
+  "886510907": {
+   "fragment_id": "886474109",
+   "type": 11,
+   "heading": "Artigo 28.º-A — Regulamentação específica",
+   "in_force_from": "1999-04-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 28.º-A — Regulamentação específica\n\nOs direitos e os deveres cívicos dos objectores de consciência, designadamente no âmbito da prestação de cuidados de saúde, é objecto de diploma legal específico.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510908": {
+   "fragment_id": "886385466",
+   "type": 11,
+   "heading": "Artigo 29.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Revogação\n\nSão revogados os Decretos-Leis n.os 91/87, de 27 de Fevereiro, e 451/88, de 13 de Dezembro."
+  },
+  "886510909": {
+   "fragment_id": "886385467",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "886510910": {
+   "fragment_id": "886385468",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Julho de 1992. - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Luís Manuel Gonçalves Marques Mendes.\n\nPromulgado em 25 de Agosto de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 25 de Agosto de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "886510911": {
+   "fragment_id": "886385441",
+   "type": 11,
+   "heading": "Artigo 4.º — Situações do serviço cívico",
+   "in_force_from": "1999-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 138/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/138-1999-532452), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 4.º — Situações do serviço cívico\n\n1 - As obrigações decorrentes do serviço cívico iniciam-se com a aquisição do estatuto de objector de consciência e prolongam-se até 31 de Dezembro do ano em que o objector completar 35 anos de idade.\n\n2 - O serviço cívico compreende as seguintes situações:\n\na) Reserva de recrutamento;\n\nb) Serviço cívico efectivo normal;\n\nc) Reserva de disponibilidade imediata;\n\nd) Reserva geral.\n\n3 - A reserva de recrutamento é constituída pelos cidadãos que obtiveram o estatuto de objector de consciência e que aguardem, por período não superior a um ano, a sua colocação efectiva.\n\n4 - O serviço cívico efectivo normal compreende a prestação do serviço cívico desde a colocação até à passagem à reserva de disponibilidade imediata.\n\n5 - A reserva de disponibilidade imediata inicia-se com o fim da prestação do serviço cívico efectivo normal e termina quando se completarem seis anos sobre a passagem a esta situação, podendo os objectores de consciência, durante este período, ser convocados para a prestação do serviço cívico extraordinário, nos termos do artigo seguinte.\n\n6 - A reserva geral é constituída pelos objectores que transitarem da reserva de disponibilidade imediata e termina em 31 de Dezembro do ano em que completarem 35 anos de idade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 138/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/138-1999-532452), em vigor a partir de 1999-09-02"
+  },
+  "886510912": {
+   "fragment_id": "886474110",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Efeitos da não colocação",
+   "in_force_from": "1999-09-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 138/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/138-1999-532452), em vigor a partir de 1999-09-02"
+   ],
+   "markdown": "###### Artigo 11.º-A — Efeitos da não colocação\n\nUma vez decorrido o prazo de duração da reserva de recrutamento, o objector de consciência que não tiver obtido colocação para cumprir o serviço cívico, por causas que não lhe sejam imputáveis, transita para a situação de reserva geral do serviço cívico.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 138/99 - Diário da República n.º 201/1999, Série I-A de 1999-08-28](https://diariodarepublica.pt/dr/detalhe/lei/138-1999-532452), em vigor a partir de 1999-09-02"
+  },
+  "886510913": {
+   "fragment_id": "886385449",
+   "type": 11,
+   "heading": "Artigo 12.º — Selecção e formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Selecção e formação\n\n1 - Os objectores de consciência serão agrupados de acordo com as suas habilitações literárias, técnicas, profissionais ou outras de reconhecido interesse para o serviço cívico e tendo ainda em conta as preferências manifestadas.\n\n2 - Antes do serviço cívico efectivo normal os objectores frequentarão, na instituição onde forem colocados, um período de formação com a duração de três meses, que abrange uma fase de formação geral e uma fase de formação específica.\n\n3 - Na fase de formação geral será fornecida informação sobre a natureza e objectivos do serviço cívico direitos e obrigações do cidadão objector e normas de funcionamento da instituição onde o serviço cívico estiver a ser prestado.\n\n4 - A fase de formação específica, orientada por um responsável da instituição e sujeita a supervisão do GSCOC, tem por finalidade desenvolver a capacidade profissional do objector, com vista a uma melhor integração nas tarefas do serviço cívico.\n\n5 - No termo do período de formação deverá ser enviado ao GSCOC, no prazo de 15 dias, um relatório de avaliação funcional da actividade do objector."
+  },
+  "886510914": {
+   "fragment_id": "886385450",
+   "type": 11,
+   "heading": "Artigo 13.º — Mudança de colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Mudança de colocação\n\n1 - O GSCOC pode proceder à transferência do objector de consciência para outro organismo ou à sua mudança para um serviço de outro tipo quando:\n\na) Houver alteração das suas qualificações técnicas e profissionais;\n\nb) O organismo em que se encontra deixar de ser considerado adequado ao serviço cívico;\n\nc) O organismo deixar de ter necessidade do objector em cumprimento do serviço cívico ou este se revelar incapaz para realizar as tarefas do próprio serviço;\n\nd) For considerada procedente a reclamação a que se refere o n.º 3 do artigo 11.º\n\n2 - A iniciativa do processo referido no número anterior caberá ao GSCOC, ao objector de consciência ou ao organismo onde é prestado o serviço cívico e será comunicada às entidades interessadas."
+  },
+  "886510915": {
+   "fragment_id": "886385451",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime de prestação do serviço cívico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime de prestação do serviço cívico\n\n1 - Com excepção do regime remuneratório e dos direitos em matéria de segurança social e de protecção na doença, os objectores ficam sujeitos, durante a prestação do serviço cívico, à regulamentação interna dos serviços a que forem afectados, sem prejuízo da competência disciplinar legalmente estabelecida.\n\n2 - Os serviços referidos no número anterior deverão comunicar ao GSCOC o início e a cessação de funções pelos objectores no prazo de cinco dias a contar da sua ocorrência e enviar mensalmente informações sobre a respectiva assiduidade.\n\n3 - O objector de consciência que durante a prestação do serviço cívico pretenda deslocar-se ao estrangeiro deverá solicitar previamente autorização ao GSCOC."
+  },
+  "886510916": {
+   "fragment_id": "886385452",
+   "type": 11,
+   "heading": "Artigo 15.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acompanhamento e avaliação\n\n1 - O acompanhamento da prestação do serviço cívico e feito por técnicos do GSCOC através de visitas periódicas às instituições e ainda pela verificação do cumprimento das cláusulas do protocolo.\n\n2 - A avaliação do serviço cívico será objecto de um relatório final a elaborar pela instituição no termo da respectiva prestação."
+  },
+  "886510917": {
+   "fragment_id": "886385453",
+   "type": 11,
+   "heading": "Artigo 16.º — Estatuto remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Estatuto remuneratório\n\n1 - Os objectores de consciência, durante o período de formação que antecede o serviço cívico efectivo normal, auferem uma compensação financeira correspondente à dos militares em serviço efectivo normal.\n\n2 - Os objectores de consciência em cumprimento do serviço cívico efectivo normal serão escalonados por níveis remuneratórios para efeitos da determinação da respectiva compensação financeira, os quais serão fixados por portaria conjunta do Ministro da Defesa Nacional e do membro do Governo responsável pela área da juventude.\n\n3 - O acesso de cada objector aos níveis remuneratórios previstos no número anterior depende da conclusão, com aproveitamento, do período de formação e do grau das suas habilitações literárias, técnicas, profissionais ou outras de reconhecido interesse para o serviço cívico, nos termos da portaria a que se refere o n.º 2.\n\n4 - Os objectores de consciência quando na prestação do serviço cívico efectivo normal e durante o período de formação que o antecede têm direito a alimentação por conta do Estado nas mesmas condições definidas pelos artigos 1.º e 4.º do Decreto-Lei n.º 329-G/75, de 30 de Junho, para os militares das Forças Armadas.\n\n5 - Quando não for possível o fornecimento de alimentação em espécie, o seu abono poderá ter lugar a dinheiro, em quantitativo a fixar, anualmente, pelo Ministro da Defesa Nacional, nos termos do artigo 5.º do Decreto-Lei n.º 329-G/75, acima referido, conjugado com o disposto na alínea e) do n.º 2 do artigo 44.º da Lei n.º 29/82, de 11 de Dezembro.\n\n6 - Os objectores de consciência que, quando na prestação do serviço cívico efectivo normal, tiverem de se deslocar para localidade diferente daquela onde se encontrem a prestar serviço, por determinação da instituição onde exercem a actividade, têm direito ao abono de ajudas de custo e transporte, ou requisição de transporte, a suportar por essa instituição, nas mesmas condições fixadas para os militares das Forças Armadas.\n\n7 - Os encargos com as compensações financeiras e demais abonos referidos nos números anteriores são suportados por conta das dotações para o efeito inscritas no orçamento do GSCOC."
+  },
+  "886510918": {
+   "fragment_id": "886385454",
+   "type": 11,
+   "heading": "Artigo 17.º — Direitos em matéria de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direitos em matéria de segurança social\n\nDurante a prestação do serviço cívico, a situação dos objectores de consciência é equiparada, para efeitos de segurança social, à dos cidadãos em serviço efectivo normal."
+  },
+  "886510919": {
+   "fragment_id": "886385455",
+   "type": 11,
+   "heading": "Artigo 18.º — Regalias sociais do objector de consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regalias sociais do objector de consciência\n\nDurante o cumprimento do serviço cívico os objectores de consciência, para além dos direitos consignados neste diploma, usufruem das seguintes regalias:\n\na) Cartão de identificação de objector de consciência;\n\nb) Assistência médica e medicamentosa gratuitas, extensiva aos familiares a seu exclusivo cargo;\n\nc) Alimentação e alojamento por conta do Estado em caso de deslocação para tratamento hospitalar;\n\nd) Descontos nos transportes em condições equivalentes às dos cidadãos em prestação do serviço efectivo normal;\n\ne) Aplicação de todos os direitos e garantias previstos na lei para os indivíduos a prestar serviço efectivo normal que sejam compatíveis com a natureza do serviço cívico."
+  },
+  "886510920": {
+   "fragment_id": "886385456",
+   "type": 11,
+   "heading": "Artigo 19.º — Deveres do objector de consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Deveres do objector de consciência\n\nEnquanto sujeito às obrigações do serviço cívico definidas neste diploma, o objector fica vinculado aos seguintes deveres, a cumprir perante o GSCOC:\n\na) Informar da sua mudança de residência;\n\nb) Preencher o boletim de inscrição que lhe seja enviado e proceder à sua devolução;\n\nc) Apresentar-se no local para que for convocado nos dias e horas indicados;\n\nd) Caso tenha requerido adiamento de prestação do serviço cívico, apresentar até 15 de Novembro de cada ano prova documental da subsistência dos pressupostos justificativos do adiamento."
+  },
+  "886510921": {
+   "fragment_id": "886385457",
+   "type": 11,
+   "heading": "Artigo 20.º — Competência e delegação de poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competência e delegação de poderes\n\n1 - O Primeiro-Ministro é a entidade competente para:\n\na) Determinar a convocação extraordinária dos objectores de consciência;\n\nb) Reconhecer aos objectores de consciência a qualidade de amparo de família e determinar os trâmites do processo para a respectiva concessão;\n\nc) Conceder aos objectores de consciência adiamento, interrupção e dispensa da prestação do serviço cívico;\n\nd) Decidir dos processos disciplinares instruídos ao abrigo do disposto nos artigos 31.º e 32.º da Lei n.º 7/92, de 12 de Maio;\n\ne) Superintender, em geral, na organização e execução do serviço cívico.\n\n2 - As competências previstas no número anterior podem ser delegadas no membro do Governo responsável pela área da juventude, com possibilidade de subdelegação."
+  },
+  "886510922": {
+   "fragment_id": "886385458",
+   "type": 11,
+   "heading": "Artigo 21.º — Comissão Nacional de Objecção de Consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comissão Nacional de Objecção de Consciência\n\n1 - A Comissão Nacional de Objecção de Consciência, adiante designada por CNOC, com competência e composição estabelecidas nos artigos 19.º e 28.º da Lei n.º 7/92, de 12 de Maio, funciona em Lisboa, junto do GSCOC.\n\n2 - Os membros da CNOC desempenham as suas funções em regime de acumulação, pelo período de três anos, renováveis por período de igual duração.\n\n3 - A CNOC reunirá ordinariamente duas vezes por mês e extraordinariamente sempre que for convocada pelo seu presidente.\n\n4 - A CNOC elabora o seu regimento."
+  },
+  "886510923": {
+   "fragment_id": "886385459",
+   "type": 11,
+   "heading": "Artigo 22.º — Remunerações dos membros da CNOC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Remunerações dos membros da CNOC\n\n1 - Os membros da CNOC, com excepção do director do GSCOC, têm direito a um suplemento de participação em reuniões.\n\n2 - O suplemento referido no número anterior é fixado por despacho conjunto do Primeiro-Ministro, com faculdade de delegação, e do Ministro das Finanças."
+  },
+  "886510924": {
+   "fragment_id": "886385460",
+   "type": 11,
+   "heading": "Artigo 23.º — Apoio e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Apoio e financiamento\n\n1 - O apoio técnico-administrativo, documental e logístico à CNOC será assegurado pelo GSCOC.\n\n2 - Os encargos com o funcionamento da CNOC serão suportados pelas dotações para o efeito inscritas no orçamento do GSCOC."
+  },
+  "886510925": {
+   "fragment_id": "886385461",
+   "type": 11,
+   "heading": "Artigo 24.º — Gabinete do Serviço Cívico dos Objectores de Consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Gabinete do Serviço Cívico dos Objectores de Consciência\n\n1 - O GSCOC é um organismo integrado na Presidência do Conselho de Ministros a quem compete assegurar o planeamento, organização e coordenação, a nível nacional, do serviço cívico a que se refere o presente diploma.\n\n2 - O GSCOC é dirigido por um director, equiparado, para todos os efeitos legais, a director-geral, a quem compete representar o Gabinete na CNOC.\n\n3 - O estatuto de pessoal do GSCOC é o estabelecido nas leis gerais aplicáveis à Administração Pública.\n\n4 - As normas relativas à organização e competência dos serviços, bem como o quadro de pessoal e a forma de preenchimento dos respectivos lugares, serão definidas mediante decreto regulamentar."
+  },
+  "886510926": {
+   "fragment_id": "886385462",
+   "type": 11,
+   "heading": "Artigo 25.º — Serviços desconcentrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Serviços desconcentrados\n\n1 - O GSCOC dispõe ainda de serviços desconcentrados, que prosseguirão a nível regional as atribuições que lhe estão cometidas.\n\n2 - A orgânica e o pessoal de cada serviço desconcentrado serão definidos em diploma próprio."
+  },
+  "886510927": {
+   "fragment_id": "886385463",
+   "type": 11,
+   "heading": "Artigo 26.º — Atribuições do GSCOC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Atribuições do GSCOC\n\n1 - São atribuições do GSCOC:\n\na) Assegurar, a nível nacional, a organização e o funcionamento do serviço cívico dos objectores de consciência perante o serviço militar;\n\nb) Informar acerca do estatuto de objector de consciência e dos direitos e deveres dele decorrentes;\n\nc) Fornecer apoio técnico-administrativo, documental e logístico à CNOC;\n\nd) Elaborar o registo nacional dos objectores de consciência, através de inscrição dos cidadãos que tenham obtido o respectivo estatuto;\n\ne) Elaborar e manter actualizado um ficheiro dos organismos disponíveis para receber prestadores do serviço cívico.\n\nf) Seleccionar e classificar os objectores com vista à sua posterior colocação;\n\ng) Celebrar com as entidades interessadas protocolos respeitantes à prestação do serviço cívico;\n\nh) Promover a colocação, formação e acompanhamento dos objectores de consciência em cumprimento do serviço cívico;\n\ni) Assegurar os procedimentos adequados na falta de remessa por parte do objector do boletim de inscrição ou em caso de recusa ou abandono da prestação do serviço cívico;\n\nj) Fornecer toda a informação necessária e proceder à instrução dos processos de amparo, adiamento, interrupção e dispensa do serviço cívico;\n\nl) Emitir o cartão de identificação e a caderneta civil de objector de consciência.\n\n2 - As normas de funcionamento do GSCOC constarão de regulamento interno, a homologar pelo membro do Governo responsável pelo Gabinete."
+  },
+  "886510928": {
+   "fragment_id": "886474098",
+   "type": 11,
+   "heading": "Artigo 26.º-A — Âmbito e finalidade do registo de objectores de consciência",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-A — Âmbito e finalidade do registo de objectores de consciência\n\n1 - O registo de objectores de consciência é organizado em ficheiro central informatizado.\n\n2 - O registo de objectores de consciência tem por finalidade organizar e manter actualizada a informação sobre a identificação dos indivíduos titulares do estatuto de objector de consciência e possibilitar o conhecimento dessa informação, nos termos e para os efeitos previstos na lei.\n\n3 - A informação sobre identificação dos indivíduos objectores de consciência deve processar-se no estrito respeito pelos princípios da legalidade, autenticidade, veracidade e segurança dos elementos identificativos.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510929": {
+   "fragment_id": "886474099",
+   "type": 11,
+   "heading": "Artigo 26.º-B — Entidade responsável pelo tratamento da base de dados",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-B — Entidade responsável pelo tratamento da base de dados\n\n1 - O director do Gabinete do Serviço Cívico dos Objectores de Consciência (GSCOC) é o responsável pelo tratamento da base de dados de objectores de consciência, nos termos do artigo 3.º, alínea d), da Lei n.º 67/98, de 26 de Outubro.\n\n2 - Cabe ao director do GSCOC assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de inexactidões, o completamento de omissões, a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou da comunicação da informação.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510930": {
+   "fragment_id": "886474100",
+   "type": 11,
+   "heading": "Artigo 26.º-C — Constituição e actualização da base de dados",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-C — Constituição e actualização da base de dados\n\n1 - A base de dados sobre objectores de consciência é constituída pelos seguintes dados pessoais:\n\na) Nome;\n\nb) Naturalidade;\n\nc) Data de nascimento;\n\nd) Filiação;\n\ne) Número do bilhete de identidade;\n\nf) Nacionalidade;\n\ng) Falecimento do titular da informação.\n\n2 - Além dos dados pessoais referidos no número anterior, é ainda objecto de recolha e tratamento automatizado a indicação:\n\na) Da entidade decisória;\n\nb) Do número do processo;\n\nc) Da data de decisão;\n\nd) Do conteúdo da decisão;\n\ne) Da data da criação do registo.\n\n3 - Os dados referidos nos números anteriores são recolhidos e actualizados a partir do processo individual do objector de consciência, com excepção da data da criação do registo, que é fixada automaticamente pelo sistema informático.\n\n4 - Os dados pessoais de identificação são validados através de consulta em linha ao ficheiro central de identificação civil da Direcção de Serviços de Identificação Civil, da Direcção-Geral dos Registos e do Notariado.\n\n5 - As condições de acesso em linha ao ficheiro central referido no número anterior são definidas em protocolo celebrado entre o GSCOC e a Direcção-Geral dos Registos e do Notariado.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510931": {
+   "fragment_id": "886474101",
+   "type": 11,
+   "heading": "Artigo 26.º-D — Acesso à informação pelo titular",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-D — Acesso à informação pelo titular\n\nO titular dos dados ou quem, exibindo autorização escrita, prove efectuar o acesso em seu nome ou no seu interesse tem o direito de aceder à informação que lhe diga respeito, podendo exigir a sua rectificação e actualização ou a supressão dos dados indevidamente registados.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510932": {
+   "fragment_id": "886474102",
+   "type": 11,
+   "heading": "Artigo 26.º-E — Acesso à informação por outras entidades",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-E — Acesso à informação por outras entidades\n\n1 - Podem aceder à informação contida na base de dados de objectores de consciência:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal e de instrução de processos criminais e de execução das penas, no âmbito dos processos relacionados com os objectores de consciência;\n\nb) As entidades que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou instrução no âmbito dos processos relacionados com os objectores de consciência e no limite dessas competências;\n\nc) As entidades com competência para a prossecução de fins de investigação científica ou estatística.\n\n2 - O acesso das entidades referidas na alínea c) do número anterior depende de autorização do ministro da tutela, devendo o respectivo despacho fixar as condições e os termos do acesso, não podendo em caso algum abranger elementos que permitam identificar qualquer registo individual.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510933": {
+   "fragment_id": "886474103",
+   "type": 11,
+   "heading": "Artigo 26.º-F — Formas de acesso",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-F — Formas de acesso\n\n1 - O conhecimento da informação sobre objectores de consciência pode ser obtido pelas seguintes formas:\n\na) Informação certificada;\n\nb) Reprodução autenticada do registo informático;\n\nc) Acesso directo ao ficheiro central informatizado.\n\n2 - Os pedidos de acesso previstos no número anterior devem ser dirigidos ao director do GSCOC e devem conter:\n\na) A identificação completa do titular dos dados ou de terceiro com legitimidade para aceder ao registo;\n\nb) A identificação da entidade requerente;\n\nc) O fim a que se destina a informação.\n\n3 - São indeferidos os pedidos que não satisfaçam os requisitos previstos neste artigo e os que não se mostrem conformes às finalidades previstas na lei.\n\n4 - As entidades referidas no artigo anterior não podem utilizar os dados para fins diferentes dos invocados no momento em que acederam à informação.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510934": {
+   "fragment_id": "886474104",
+   "type": 11,
+   "heading": "Artigo 26.º-G — Informação certificada de objector de consciência",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-G — Informação certificada de objector de consciência\n\nA informação certificada é passada mediante fotocópia autenticada da acta de concessão do estatuto de objector de consciência, constituindo documento bastante para provar a qualidade de objector de consciência.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510935": {
+   "fragment_id": "886474105",
+   "type": 11,
+   "heading": "Artigo 26.º-H — Reprodução autenticada do registo informático",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-H — Reprodução autenticada do registo informático\n\nA reprodução autenticada do registo informático destina-se unicamente a facultar ao titular dos dados o conhecimento do conteúdo integral do registo a seu respeito.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510936": {
+   "fragment_id": "886474106",
+   "type": 11,
+   "heading": "Artigo 26.º-I — Acesso directo ao ficheiro central informatizado",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-I — Acesso directo ao ficheiro central informatizado\n\n1 - Podem aceder directamente ao ficheiro central informatizado as entidades previstas no artigo 26.º-E, n.º 1, alíneas a) e b).\n\n2 - As condições do acesso directo das entidades referidas no número anterior são definidas por despacho do director do GSCOC.\n\n3 - O GSCOC implementará um sistema de registo de todas as consultas solicitadas ao abrigo do n.º 1.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510937": {
+   "fragment_id": "886474107",
+   "type": 11,
+   "heading": "Artigo 26.º-J — Medidas de segurança",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-J — Medidas de segurança\n\nO GSCOC e as entidades mencionadas no artigo 26.º-E, n.º 1, alíneas a) e b), devem adoptar as medidas de segurança referidas no artigo 15.º, n.º 1, da Lei n.º 67/98, de 26 de Outubro.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510938": {
+   "fragment_id": "886474108",
+   "type": 11,
+   "heading": "Artigo 26.º-L — Conservação dos dados",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 26.º-L — Conservação dos dados\n\n1 - Os dados constantes da base de dados de objectores de consciência são conservados até ao falecimento do respectivo titular.\n\n2 - Sem prejuízo do disposto no número anterior, as situações de cessação da situação de objecção de consciência determinam o cancelamento automático do registo.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510939": {
+   "fragment_id": "886385464",
+   "type": 11,
+   "heading": "Artigo 27.º — Colaboração de outras entidades",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 27.º — Colaboração de outras entidades\n\n1 - O GSCOC, no exercício das suas atribuições, receberá todas as informações e toda a colaboração necessária das autoridades civis e militares.\n\nDisposições finais\n\n2 - Os serviços de identificação criminal facultam ao GSCOC a informação sobre a situação criminal dos indivíduos objectores de consciência, nos termos e para os efeitos previstos no artigo 14.º, n.º 1, alínea a), da Lei n.º 7/92, de 12 de Maio.\n\n3 - O GSCOC assegura o cumprimento do disposto no artigo 13.º, n.º 1, da Lei n.º 7/92, de 12 de Maio, mediante consulta aos registos das entidades com competência para a concessão de licenças de uso e porte de arma, das entidades cuja actividade envolva a detenção e uso de armas pelos seus funcionários ou que se dediquem ao fabrico, reparação ou comércio de armas e munições de qualquer natureza ou que se dediquem à investigação científica relacionada com essas actividades.\n\n4 - As entidades referidas no número anterior enviam anualmente ao GSCOC a listagem dos titulares de licenças de uso e porte de arma e dos funcionários que detenham e usem armas no exercício das suas funções ou que se dediquem ao fabrico, reparação ou comércio de armas e munições de qualquer natureza ou se dediquem à investigação científica relacionada com essas actividades.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510940": {
+   "fragment_id": "886385465",
+   "type": 11,
+   "heading": "Artigo 28.º — Salvaguarda de regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Salvaguarda de regulamentos\n\nMantêm-se em vigor os modelos de boletim de inscrição, cartão de identificação e caderneta civil de objector de consciência, aprovados, respectivamente, pelas Portarias n.os 465/89, de 24 de Junho, 140/88, de 4 de Março, e 1036/89, de 29 de Novembro."
+  },
+  "886510941": {
+   "fragment_id": "886474109",
+   "type": 11,
+   "heading": "Artigo 28.º-A — Regulamentação específica",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+   ],
+   "markdown": "###### Artigo 28.º-A — Regulamentação específica\n\nOs direitos e os deveres cívicos dos objectores de consciência, designadamente no âmbito da prestação de cuidados de saúde, é objecto de diploma legal específico.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 127/99 - Diário da República n.º 93/1999, Série I-A de 1999-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1999-534600), em vigor a partir de 1999-04-26"
+  },
+  "886510942": {
+   "fragment_id": "886385466",
+   "type": 11,
+   "heading": "Artigo 29.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Revogação\n\nSão revogados os Decretos-Leis n.os 91/87, de 27 de Fevereiro, e 451/88, de 13 de Dezembro."
+  },
+  "886510943": {
+   "fragment_id": "886385467",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "886510944": {
+   "fragment_id": "886385468",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Julho de 1992. - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Luís Manuel Gonçalves Marques Mendes.\n\nPromulgado em 25 de Agosto de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 25 de Agosto de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "886510945": {
+   "fragment_id": "886385461",
+   "type": 11,
+   "heading": "Artigo 24.º — Gabinete do Serviço Cívico dos Objectores de Consciência",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 168/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2007-521250), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 24.º — Gabinete do Serviço Cívico dos Objectores de Consciência\n\n1 - O GSCOC é um organismo integrado na Presidência do Conselho de Ministros a quem compete assegurar o planeamento, organização e coordenação, a nível nacional, do serviço cívico a que se refere o presente diploma.\n\n2 - O GSCOC é dirigido por um director, equiparado, para todos os efeitos legais, a director-geral, a quem compete representar o Gabinete na CNOC.\n\n3 - O estatuto de pessoal do GSCOC é o estabelecido nas leis gerais aplicáveis à Administração Pública.\n\n4 - As normas relativas à organização e competência dos serviços, bem como o quadro de pessoal e a forma de preenchimento dos respectivos lugares, serão definidas mediante decreto regulamentar.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 168/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2007-521250), em vigor a partir de 2007-06-01"
+  },
+  "886510946": {
+   "fragment_id": "886385462",
+   "type": 11,
+   "heading": "Artigo 25.º — Serviços desconcentrados",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 168/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2007-521250), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 25.º — Serviços desconcentrados\n\n1 - O GSCOC dispõe ainda de serviços desconcentrados, que prosseguirão a nível regional as atribuições que lhe estão cometidas.\n\n2 - A orgânica e o pessoal de cada serviço desconcentrado serão definidos em diploma próprio.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 168/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2007-521250), em vigor a partir de 2007-06-01"
+  },
+  "886510947": {
+   "fragment_id": "886385463",
+   "type": 11,
+   "heading": "Artigo 26.º — Atribuições do GSCOC",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 168/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2007-521250), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 26.º — Atribuições do GSCOC\n\n1 - São atribuições do GSCOC:\n\na) Assegurar, a nível nacional, a organização e o funcionamento do serviço cívico dos objectores de consciência perante o serviço militar;\n\nb) Informar acerca do estatuto de objector de consciência e dos direitos e deveres dele decorrentes;\n\nc) Fornecer apoio técnico-administrativo, documental e logístico à CNOC;\n\nd) Elaborar o registo nacional dos objectores de consciência, através de inscrição dos cidadãos que tenham obtido o respectivo estatuto;\n\ne) Elaborar e manter actualizado um ficheiro dos organismos disponíveis para receber prestadores do serviço cívico.\n\nf) Seleccionar e classificar os objectores com vista à sua posterior colocação;\n\ng) Celebrar com as entidades interessadas protocolos respeitantes à prestação do serviço cívico;\n\nh) Promover a colocação, formação e acompanhamento dos objectores de consciência em cumprimento do serviço cívico;\n\ni) Assegurar os procedimentos adequados na falta de remessa por parte do objector do boletim de inscrição ou em caso de recusa ou abandono da prestação do serviço cívico;\n\nj) Fornecer toda a informação necessária e proceder à instrução dos processos de amparo, adiamento, interrupção e dispensa do serviço cívico;\n\nl) Emitir o cartão de identificação e a caderneta civil de objector de consciência.\n\n2 - As normas de funcionamento do GSCOC constarão de regulamento interno, a homologar pelo membro do Governo responsável pelo Gabinete.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 168/2007 - Diário da República n.º 85/2007, Série I de 2007-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/168-2007-521250), em vigor a partir de 2007-06-01"
+  }
+ }
+}

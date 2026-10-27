@@ -1,0 +1,231 @@
+---
+schema_version: '1.0'
+id: pt:dre:371471:por
+title: Despacho Normativo n.º 46/88
+short_title: null
+summary: Estabelece normas relativas à atribuição de participações financeiras pela Direcção-Geral de Transportes Terrestres
+  e pela Direcção-Geral de Viação
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 46/88
+official_date: null
+publication_date: '1988-06-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 142/1988, Série I de 1988-06-22
+  number: '142'
+  series: I
+  supplement: null
+  pages: 2565 - 2567
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/06/14200/25652567.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '371471'
+  dre_path: /dr/detalhe/despacho-normativo/46-1988-371471
+  internal: pt:dre:371471:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1988-371471
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/46-1988-371471
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:40:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8b3f183c10fcfe42112f0ddc88b08b9d310bf43c0d0285c6b8d5a7dc41aa02a4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:40:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autarquia Local
+- Contrato Programa
+- Direcção Geral de Viação
+- Direcção Geral dos Transportes Terrestres
+- Financiamento
+- Infraestrutura dos Transportes
+relationships:
+- type: cites
+  target: pt:dre:194248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:227472:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:499480:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:599750:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661094:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:numero:despacho-normativo:23-A/96
+  label: REVOGADO PELO DN 23-A/96 DE 20-JUN DR.IS-B [141]SUPL DE 20/JUN/1996 UN/1996
+  source: null
+  date: '1996-06-20'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:40:10Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 46/88
+
+A colaboração dos departamentos da administração central com as autarquias locais tem revestido, desde há vários decénios, importância e significado muito assinaláveis no domínio dos empreendimentos relativos a instalações de coordenação de transportes terrestres e a certas infra-estruturas viárias dos mesmos transportes.
+
+Inicialmente traduzida no apoio financeiro do extinto Fundo Especial de Transportes Terrestres (FETT), bem como em diversas acções de apoio técnico levadas a efeito através dos organismos adequados, aquela colaboração acha-se, por parte da administração central, atribuída à Direcção-Geral de Transportes Terrestres (DGTT) e à Direcção-Geral de Viação (DGV), mormente desde a extinção do FETT pelo [Decreto-Lei n.º 21/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-1986-194248), de 14 de Fevereiro, com a transferência para aquelas Direcções-Gerais das suas atribuições e competências, posteriormente repartidas entre elas pelo [Despacho Normativo n.º 34/86](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/34-1986-227472), de 7 de Abril (Diário da República, 1.ª série, n.º 106, de 9 de Maio de 1986).
+
+Assume foros do mais relevante interesse colectivo - quer na perspectiva global do sistema de transportes, que cabe à administração central, quer na óptica dos interesses locais, que incumbe às autarquias prosseguir - a continuidade de tais acções de colaboração, visando resolver múltiplos problemas de coordenação técnica e de insuficiência de infra-estruturas, que não raro condicionam gravosamente a eficácia do sistema de transportes e a qualidade de vida das populações. Por isso se considera imprescindível que se mantenha e viabilize adequadamente o prosseguimento dessas acções de colaboração no futuro.
+
+Este escopo terá de se compaginar com o quadro legal vigente no tocante à repartição de competências e à cooperação, em matéria de investimentos, entre os diversos níveis da Administração Pública, designadamente com o [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, a [Lei n.º 1/87](https://diariodarepublica.pt/dr/detalhe/lei/1-1987-599750), de 6 de Janeiro, e o [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de Dezembro.
+
+As normas estabelecidas no presente despacho substituem as constantes de todos os despachos ministeriais anteriores relativos a obras objecto de financiamento por intermédio da DGTT e da DGV e servirão de base para a celebração e execução dos contratos-programa e acordos de colaboração previstos no último daqueles diplomas.
+
+Tendo presente o disposto nos artigos 16.º e 17.º do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de Dezembro, e com vista a disciplinar os critérios e prioridades a ter em conta na celebração e execução dos contratos ou acordos previstos no âmbito das infra-estruturas de transportes terrestres ou intermodais, determino:
+
+1 - Podem ser objecto de participação financeira os seguintes empreendimentos:
+
+a) Construção de instalações de coordenação de transportes terrestres e destes com quaisquer outros meios de transportes não terrestres, tanto de passageiros como de mercadorias;
+
+b) Construção de passagens superiores ou inferiores para peões e para supressão de passagens de nível rodo-ferroviárias;
+
+c) Automatização de passagem de nível;
+
+d) Construção de abrigos para passageiros de transportes públicos localizados fora das áreas urbanas;
+
+e) Construção e grande reparação de vias de acesso às estações de caminho de ferro até 10 km das mesmas;
+
+f) Construção e grande reparação de acessos rodoviários e ferroviários às instalações de coordenação referidas na alínea a);
+
+g) Construção e grande reparação de estradas municipais sobre as quais se estabeleçam serviços rodoviários de substituição do serviço público ferroviário encerrado à exploração;
+
+h) Investimentos pontuais na rede ferroviária com vista a incrementar a respectiva segurança e que não estejam previstos nos planos de investimento anuais e plurianuais da CP;
+
+i) Construção e implantação de sinalização indicativa das entradas e saídas e atravessamento das áreas urbanas;
+
+j) Aquisição e instalação de sinalização luminosa automática nos cruzamentos de vias urbanas, a partir do limite das possibilidades de outros sistemas;
+
+k) Reparação dos pavimentos dos arruamentos urbanos excepcionalmente desgastados pela circulação intensiva:
+
+k.1) Dos transportes colectivos de passageiros ao longo dos percursos respectivos;
+
+k.2) Dos transportes pesados de mercadorias no acesso a zonas de parqueamento;
+
+l) Construção de variantes ao atravessamento rodoviário dos centros urbanos, incluindo as respectivas obras de arte, quando tais variantes se incluam em vias consideradas municipais;
+
+m) Construção e grande reparação dos acessos entre as variantes de estradas nacionais e as áreas urbanas;
+
+n) Construção de parques de estacionamento para veículos automóveis, ligeiros ou pesados, situados em locais:
+
+n.1) Que sirvam de interface entre transportes públicos e privados;
+
+n.2) Que sirvam de interface entre diferentes meios de transporte;
+
+n.3) Que permitam a fluidez do tráfego dentro das localidades.
+
+2.1 - Para efeitos do disposto na alínea f) do n.º 1, os acessos directos às instalações de coordenação de transportes só serão considerados até uma extensão máxima de 50 m, a contar da entrada ou saída da instalação.
+
+2.2 - As passagens desniveladas, para efeito de participação financeira, serão constituídas pela obra de arte e os acessos directos que a integram, compreendidos entre os limites exteriores das curvas de concordância dos trainéis, podendo ser igualmente incluída, para o mesmo efeito, uma extensão máxima de 20 m para cada um dos lados dos referidos limites, destinada ao estabelecimento das transições nas larguras da via.
+
+2.3 - Os acessos às variantes de estradas nacionais só poderão ser objecto de participação financeira na extensão máxima de 200 m, contada a partir da variante donde derivam.
+
+3 - Os órgãos da administração local serão, para todos os efeitos, os donos das obras.
+
+4.1 - Para cada um dos tipos de empreendimentos previstos no n.º 1, o valor da participação financeira será o que resultar da aplicação ao custo da obra fixado no contrato de adjudicação da correspondente percentagem prevista no quadro anexo a este despacho, sem prejuízo do disposto nos n.os 4.2 e 4.3 e do disposto nos n.os 3, 4 e 5 do artigo 6.º e 2 do artigo 20.º, ambos do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480).
+
+4.2 - No custo da obra, para efeitos deste despacho, não estão incluídos os trabalhos a mais, erros ou omissões, o custo dos terrenos, o dos estudos e projectos, o de realojamentos, o de fiscalização das obras e todos os demais encargos, que serão suportados pelo dono da obra, salvo outras indicações expressas em contratos-programa, acordos de colaboração, protocolos ou despachos específicos para cada caso.
+
+4.3 - No custo da obra não serão consideradas, em nenhum caso, componentes do empreendimento não subsumíveis a nenhuma das alíneas do n.º 1.
+
+5.1 - O processamento da participação financeira da administração central efectuar-se-á através da Direcção-Geral de Transportes Terrestres, no que se refere aos empreendimentos referidos nas alíneas a) a h) do n.º 1, e, no tocante às restantes alíneas daquele número, através da Direcção-Geral de Viação, mediante prévia aprovação superior.
+
+5.2 - Os contratos ou acordos que prevejam participação financeira não serão celebrados sem que:
+
+a) O estudo prévio seja aprovado pela direcção-geral competente para o efeito, que, uma vez efectuada a aprovação, incluirá a obra em plano para posterior definição de prioridade na atribuição da participação;
+
+b) O projecto seja aprovado pela direcção-geral competente;
+
+c) A empreitada seja adjudicada por concurso com base em projecto aprovado;
+
+d) O contrato de adjudicação seja previamente visado pela direcção-geral competente, para o que deverá ser acompanhado pelo processo com que o candidato se ofereceu a concurso.
+
+6.1 - A entrega ao dono da obra da participação financeira da administração central pode fazer-se de uma só vez, no termo da obra, ou parcelarmente, mediante a apresentação dos autos de medição dos trabalhos referentes às várias fases do empreendimento, quer se trate de obra executada por empreitada, quer por administração directa.
+
+6.2 - Só excepcional e fundamentadamente poderá ser prevista a atribuição de adiantamentos por conta da participação financeira da administração central.
+
+6.3 - As participações financeiras poderão ser canceladas quando a execução das obras se afaste consideravelmente, sem motivo justificado, do calendário previsto para o programa de trabalho.
+
+7 - Dos instrumentos a outorgar devem constar:
+
+a) O objecto do acordo;
+
+b) O período de vigência do acordo, com a referência do respectivo início e termo;
+
+c) Os direitos e obrigações das partes contraentes;
+
+d) A quantificação da responsabilidade de financiamento de cada uma das partes, bem como as fontes e instrumentos financeiros utilizáveis;
+
+e) Os meios de acompanhamento e controle de execução do empreendimento;
+
+f) As condições de revisão do acordo, designadamente por alteração de circunstâncias;
+
+g) Cláusulas penais para situações de incumprimento.
+
+8 - A selecção dos empreendimentos a financiar far-se-á considerando, por ordem de importância:
+
+a) As dotações orçamentais disponíveis para cada um dos tipos de obras definidos no n.º 1;
+
+b) As obras que estão em curso com dotações já atribuídas em anos anteriores, atentas as prioridades estabelecidas para as mesmas;
+
+c) O grau de urgência atribuível a cada um dos empreendimentos em função de situações verificadas nas diferentes localidades.
+
+9 - As participações financeiras anteriormente fixadas para cada uma das obras em curso à data deste despacho serão abonadas em função das situações mensais apuradas, sendo, porém, aplicado o disposto no n.º 4.2 àquelas que tenham excedido os prazos de execução estabelecidos.
+
+Ministério das Obras Públicas, Transportes e Comunicações, 30 de Maio de 1988. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
+
+## ANEXO I — Quadro referido no n.º 4.1
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1988/06/14200/25652567.pdf)

@@ -1,0 +1,374 @@
+---
+schema_version: '1.0'
+id: pt:dre:397334:por
+title: Decreto-Lei n.º 304/82
+short_title: null
+summary: Cria a Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa
+proposing_entity: null
+official_number: 304/82
+official_date: null
+publication_date: '1982-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 175/1982, Série I de 1982-07-31
+  number: '175'
+  series: I
+  supplement: null
+  pages: 2274 - 2277
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/07/17500/22742277.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '397334'
+  dre_path: /dr/detalhe/decreto-lei/304-1982-397334
+  internal: pt:dre:397334:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1982-397334
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1982-397334
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:44:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0108e015966c97cb1acafa9244278e5abb8d93ed47c128de8e95fab52b97cb75
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:45Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Interministerial da Família
+- Conselho Consultivo dos Assuntos da Família
+- Definição de Competências
+- Direcção Geral da Família
+- Família
+- Ministério dos Assuntos Sociais
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:241671:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:357103:por
+  label: "Alterados os arts. 6º, 7º, 8º e 10º, pelo DEC LEI.442/88.1988.11.30.MESS, DR.IS [277]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/442-1988-357103
+  date: '1988-11-30'
+- type: amended_by
+  target: pt:dre:219554:por
+  label: "Colocada na dependência do Alto-Comissário para as Questões da Promoção da Igualdade e da Família, a Comissão Interministerial\
+    \ da Família e o Conselho Consultivo dos Assuntos da Família, pelo DEC LEI.3-B/96.1996.01.26.PCM, DR.IS-A [22]Supl\022]Supl\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/3-b-1996-219554
+  date: '1996-01-26'
+- type: cites
+  target: pt:dre:473143:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:241671:por
+  label: "Revogado pelo DEC LEI.163/96.1996.09.05.PCM, DR.IS-A [206]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/163-1996-241671
+  date: '1996-09-05'
+article_structure:
+  article_count: 16
+  section_count: 3
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:44:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 304/82
+
+de 31 de Julho
+
+A criação, em Janeiro de 1980, da Secretaria de Estado da Família foi um passo decisivo no desenvolvimento de uma política familiar global e integrada. A esse passo outros se seguiram, traduzindo o reconhecimento efectivo pelo Estado da função social da família e da sua importância na vida das comunidades.
+
+O Governo prossegue e reforça, por este diploma, que cria e institucionaliza a Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família, o caminho iniciado em 1980.
+
+Este é o objecto do presente diploma, onde se prevêem:
+
+Órgãos destinados a assegurar e desenvolver a coordenação intersectorial das políticas com incidência familiar (Comissão Interministerial da Família) e a cooperação das instituições privadas de apoio à família (Conselho Consultivo dos Assuntos da Família); e
+
+Serviços orientados uns para a rede de acção concreta, incluindo as tarefas de estudo, formação, documentação e apoio administrativo (Direcção-Geral da Família), vocacionados outros para a criatividade e o lançamento de projectos (Gabinete de Estudos e Projectos dos Assuntos da Família).
+
+O desenvolvimento da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família assenta em 3 princípios fundamentais:
+
+O da integração, sublinhando a política familiar como um todo, a ser definida e desenvolvida em moldes uniformes e coordenados nos vários domínios em que se projecta;
+
+O da participação, acentuando a função social que cabe ao associativismo familiar e o diálogo que com este o Estado deve sempre manter; e
+
+O da subsidiariedade, marcando claramente como limite de intervenção do Estado o espaço próprio da família, das suas associações e da sua autonomia e frisando que, se é dever do Estado cooperar, apoiar e estimular o desenvolvimento pleno das funções específicas daquelas, seria abuso inaceitável e totalitário que o Estado procurasse sobrepor-se ou, ainda mais, substituir-se naquilo que lhes é próprio e deve ser próprio.
+
+Por isso, a família deve ser cada vez mais um ponto de referência dominante da actuação do Estado e do Governo nos diversos domínios da sua intervenção, que naquela se projectam, e, em especial, nas áreas da política social - se se pretender, como é empenho do Governo, servir cada vez mais concreta e correctamente a sociedade e a pessoa humana no seu espaço real e livre.
+
+Lançados os primeiros passos, feita a experiência de 2 anos, com resultados e expectativas que apontam para o prosseguimento das linhas de actuação inicialmente definidas, tem vindo essa experiência a ser enriquecida com um diálogo permanente e fecundo, com inúmeras instituições de cariz diverso que desenvolvem por todo o País acções de apoio à família de valor inestimável, bem como com diversas organizações comunitárias, particularmente com o associativismo familiar, crescente na nossa sociedade, reconhecendo assim o Governo as organizações representativas das famílias como parceiro social privilegiado.
+
+Trata-se, agora, de estruturar devidamente o sector da família, habilitando-o com os instrumentos orgânicos indispensáveis adequados ao desenvolvimento das suas tarefas e dotando-o de uma maior capacidade reguladora e interveniente no domínio da política familiar.
+
+Por este diploma, o Governo reconhece o papel primordial da família, tal como o afirma a Declaração Universal dos Direitos do Homem, traduzindo na própria orgânica da Administração Pública esse reconhecimento e procurando criar condições favoráveis ao equacionamento dos interesses e aspirações das famílias portuguesas, à dinamização intensa da política familiar em toda a complexidade do seu âmbito e ao desenvolvimento e participação dos próprios destinatários no processo de desenvolvimento que a política familiar desencadeia.
+
+Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Natureza e objectivos da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família
+
+###### Artigo 1.º — (Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família)
+
+O presente diploma cria a Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família e estabelece as relações entre os órgãos e serviços do sector e destes com os demais departamentos do Estado.
+
+###### Artigo 2.º — (Atribuições)
+
+São atribuições da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família:
+
+a) Definir e promover a execução de uma política familiar global e integrada em ordem à protecção e valorização da instituição familiar e à melhoria do seu quadro de vida;
+
+b) Desenvolver acções de compatibilização dos planos e programas relativos à política familiar;
+
+c) Promover e assegurar a cooperação e a audiência das famílias e das suas organizações sociais representativas, a nível central, regional e local;
+
+d) Participar na definição e execução da política social;
+
+e) Realizar os estudos adequados ao desenvolvimento da legislação e regulamentação tendentes à promoção familiar;
+
+f) Desenvolver acções de formação específica no âmbito da política de família e da sua implementação;
+
+g) Ocupar-se dos assuntos relativos à cooperação internacional no domínio da política familiar, sem prejuízo da competência própria dos ministérios com intervenção no domínio das relações internacionais.
+
+### CAPÍTULO II — Estrutura orgânica
+
+###### Artigo 3.º — (Superintendência)
+
+Os órgãos e serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família funcionam sob a superintendência e direcção do Ministro dos Assuntos Sociais, podendo delegar esta competência no Secretário de Estado da Família.
+
+###### Artigo 4.º — (Órgãos e serviços)
+
+A Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família compreende os seguintes órgãos e serviços:
+
+a) Comissão Interministerial da Família;
+
+b) Conselho Consultivo dos Assuntos da Família;
+
+c) Gabinete de Estudos e Projectos dos Assuntos da Família;
+
+d) Direcção-Geral da Família.
+
+###### Artigo 5.º — (Competência da Comissão Interministerial da Família)
+
+Compete à Comissão Interministerial da Família:
+
+a) Contribuir para a definição de uma política global e integrada para a família dentro do processo global de desenvolvimento e velar pela sua execução a nível sectorial;
+
+b) Acompanhar a evolução dos problemas económicos, culturais e sociais da instituição familiar e propor medidas adequadas à sua valorização e à melhoria do seu quadro de vida;
+
+c) Pronunciar-se sobre as políticas sectoriais com incidência na área da família e sobre as questões suscitadas pela sua aplicação;
+
+d) Pronunciar-se sobre as políticas que permitam a compatibilização e integração dos planos e programas dos diversos órgãos, serviços instituições do Estado com implicação no âmbito da família;
+
+e) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos pelo Governo, para efeitos de parecer, no domínio da política familiar e das suas implicações;
+
+f) Emitir parecer sobre os projectos de diplomas, legislativos e regulamentares, elaborados pelos órgãos e serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família.
+
+###### Artigo 6.º — (Composição da Comissão Interministerial da Família)
+
+1 - A Comissão Interministerial da Família terá a seguinte composição:
+
+a) O Ministro dos Assuntos Sociais, que presidirá;
+
+b) O Secretário de Estado da Família;
+
+c) O director-geral da Família;
+
+d) O director do Gabinete de Estudos e Projectos dos Assuntos da Família;
+
+e) Representantes dos departamentos da Presidência do Conselho de Ministros responsáveis pela condição feminina e reabilitação de deficientes e dos departamentos responsáveis pelas seguintes áreas:
+
+Administração interna;
+
+Administração regional e local;
+
+Agricultura e pescas;
+
+Comunicação social;
+
+Cultura;
+
+Defesa nacional;
+
+Desportos;
+
+Economia;
+
+Finanças e plano;
+
+Educação;
+
+Emigração;
+
+Habitação e urbanismo;
+
+Integração europeia;
+
+Justiça;
+
+Juventude;
+
+Negócios estrangeiros;
+
+Trabalho e emprego;
+
+Transportes;
+
+Qualidade de vida;
+
+Reforma administrativa;
+
+Saúde;
+
+Segurança social;
+
+Turismo;
+
+f) 6 individualidades de reconhecida competência nomeadas anualmente pelo Ministro dos Assuntos Sociais, sob proposta do Secretário de Estado da Família.
+
+2 - Os membros da Comissão referidos na alínea e) do número anterior são designados anualmente por despacho conjunto do Ministro dos Assunto Sociais e do ministro responsável pela área respectiva, incumbindo-lhes, em especial, efectivar, a nível sectorial, o exercício das atribuições conferidas pelo artigo 5.º à Comissão.
+
+###### Artigo 7.º — (Funcionamento da Comissão)
+
+1 - A Comissão reúne em sessões plenárias ou restritas, conforme a natureza e o âmbito dos assuntos a tratar.
+
+2 - O plenário reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o julgue necessário ou lhe seja solicitado por um terço dos seus membros.
+
+3 - Haverá sessões restritas quando convocadas pelo presidente ou nos termos deliberados pelo plenário da Comissão para cada assunto específico.
+
+###### Artigo 8.º — (Composição do Conselho Consultivo dos Assuntos da Família)
+
+O Conselho Consultivo dos Assuntos da Família terá a seguinte composição:
+
+a) O Ministro dos Assuntos Sociais, que presidirá;
+
+b) O Secretário de Estado da Família;
+
+c) Representantes da Confederação Nacional das Associações de Família (CNAF);
+
+d) Representantes das associações sectoriais de família;
+
+e) O presidente da União das Misericórdias Portuguesas;
+
+f) O provedor da Santa Casa da Misericórdia de Lisboa;
+
+g) O presidente da Caritas - União de Caridade Portuguesa;
+
+h) O provedor da Casa Pia de Lisboa.
+
+###### Artigo 9.º — (Competência do Conselho Consultivo dos Assuntos da Família)
+
+Compete ao Conselho Consultivo dos Assuntos da Família:
+
+a) Pronunciar-se sobre a elaboração e execução de projectos específicos em ordem à valorização da família e à melhoria das suas condições de vida;
+
+b) Propor novas formas de apoio à família a concretizar no âmbito da acção das instituições representadas no Conselho.
+
+###### Artigo 10.º — (Funcionamento do Conselho Consultivo dos Assuntos da Família)
+
+O Conselho Consultivo dos Assuntos da Família reúne ordinariamente de 2 em 2 meses e extraordinariamente sempre que convocado pelo seu presidente ou a requerimento de um terço dos seus membros.
+
+###### Artigo 11.º — (Gabinete de Estudos e Projectos dos Assuntos da Família)
+
+1 - Compete ao Gabinete de Estudos e Projectos dos Assuntos da Família:
+
+a) Estudar e propor perspectivas e metas de desenvolvimento no sector da família;
+
+b) Assegurar o planeamento integrado das acções conducentes à valorização da família e protecção do seu quadro de vida e acompanhar o desenvolvimento das referidas acções.
+
+2 - No exercício das competências referidas no número anterior o Gabinete de Estudos e Projectos dos Assuntos da Família actua, designadamente, nas seguintes áreas:
+
+a) Famílias das zonas rurais;
+
+b) Famílias das zonas urbanas;
+
+c) Famílias em situações especiais.
+
+3 - O Gabinete de Estudos e Projectos dos Assuntos da Família é dirigido por um director de serviços.
+
+###### Artigo 12.º — (Competência da Direcção-Geral da Família)
+
+Compete à Direcção-Geral da Família:
+
+a) Estudar e pôr em execução programas integrados e projectos específicos conducentes à promoção da família e à melhoria do seu quadro de vida;
+
+b) Apoiar a implementação da política familiar a nível local;
+
+c) Promover a formação de técnicos especializados na área da família;
+
+d) Elaborar e promover estudos técnicos dos assuntos da família;
+
+e) Promover a recolha e a divulgação da informação no âmbito da política familiar e da promoção da família;
+
+f) Assegurar a gestão administrativa, orçamental e patrimonial dos órgãos e serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família.
+
+###### Artigo 13.º — (Estrutura da Direcção-Geral da Família)
+
+Para o exercício das suas competências a estrutura interna e o quadro de pessoal da Direcção-Geral da Família serão definidos em decreto regulamentar próprio, incluindo as competências dos respectivos serviços, compreendendo, designadamente, as seguintes unidades:
+
+Direcção de Serviços de Estudos e Publicações;
+
+Direcção de Serviços de Formação Familiar;
+
+Direcção de Serviços de Acção e Promoção Familiar;
+
+Repartição Administrativa.
+
+### CAPÍTULO III — Disposições finais
+
+###### Artigo 14.º — (Pessoal dirigente)
+
+São criados os lugares de director-geral da Família e de director de serviços do Gabinete de Estudos e Projectos dos Assuntos da Família.
+
+###### Artigo 15.º — (Interpretação)
+
+As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano, do Ministro dos Assuntos Sociais ou do Ministro da Reforma Administrativa, na área das respectivas competências.
+
+###### Artigo 16.º — (Revogação)
+
+É revogada a [Resolução n.º 202/80](https://diariodarepublica.pt/dr/detalhe/resolucao/202-1980-473143), de 22 de Maio.
+
+Visto e aprovado em Conselho de Ministros de 29 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 14 de Julho de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

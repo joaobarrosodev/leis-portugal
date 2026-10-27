@@ -1,0 +1,912 @@
+---
+schema_version: '1.0'
+id: pt:dre:614348:por
+title: Decreto-Lei n.º 281/2000
+short_title: null
+summary: Fixa os limites ao teor de enxofre de certos tipos de combustíveis líquidos derivados do petróleo, transpondo para
+  o direito interno a Directiva do Conselho n.º 1999/32/CE, de 26 de Abril
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 281/2000
+official_date: null
+publication_date: '2000-11-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 260/2000, Série I-A de 2000-11-10
+  number: '260'
+  series: I
+  supplement: null
+  pages: 6310 - 6313
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/11/260a00/63106313.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-12-04'
+version_history:
+  file: decreto-lei-281-2000.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2000-11-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-04-15'
+    amending: pt:dre:249816:por
+    amending_title: Decreto-Lei n.º 69/2008
+    changes:
+    - Adita Anexo I
+    - Adita Artigo 4.º-A
+    - Adita Artigo 4.º-B
+    - Adita Artigo 4.º-C
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+  - date: '2011-01-01'
+    amending: pt:dre:306625:por
+    amending_title: Decreto-Lei n.º 142/2010
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º-B
+    - Altera Artigo 6.º
+  - date: '2014-11-08'
+    amending: pt:dre:58815311:por
+    amending_title: Decreto-Lei n.º 170-B/2014
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 4.º-D
+    - Adita Artigo 4.º-E
+    - Adita Artigo 4.º-F
+    - Adita Anexo III
+    - Adita Anexo II
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 4.º-B
+    - Altera Artigo 4.º-C
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+  - date: '2021-12-04'
+    amending: pt:dre:175336200:por
+    amending_title: Decreto-Lei n.º 106/2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 4.º-C
+    - Altera Artigo 4.º-D
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/281/2000/p/cons/20211203/pt/html
+  oj: null
+  dre: '614348'
+  dre_path: /dr/detalhe/decreto-lei/281-2000-614348
+  internal: pt:dre:614348:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-2000-614348
+  metadata_url: https://data.dre.pt/eli/dec-lei/281/2000/p/cons/20211203/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-175366885
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-175366885
+  retrieved_at: '2026-10-22T12:47:12Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ce6033467fc9105145b6e1dab7cbc4f5a4914fa9b63d547203c24aa485caaf1f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:47:12Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-281-2000.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Região Autónoma
+- Multa
+- Contra-ordenação
+- Definição de Competências
+- Direcção Geral de Energia
+- Direcção Geral do Ambiente
+- Produto Petrolífero
+- Enxofre
+- Combustível
+- Fiscalização
+- Fuelóleo
+- Gasóleo
+- Inspecção Geral das Actividades Económicas
+relationships:
+- type: amended_by
+  target: pt:dre:249816:por
+  label: Adita Anexo I; Adita Artigo 4.º-A; Adita Artigo 4.º-B; Adita Artigo 4.º-C; Altera Artigo 1.º; Altera Artigo 2.º;
+    Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera
+    Artigo 10.º; Altera Artigo 11.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816
+  date: '2008-04-14'
+- type: amended_by
+  target: pt:dre:306625:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º-B; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625
+  date: '2010-12-31'
+- type: amended_by
+  target: pt:dre:58815311:por
+  label: Adita Artigo 3.º-A; Adita Artigo 4.º-D; Adita Artigo 4.º-E; Adita Artigo 4.º-F; Adita Anexo III; Adita Anexo II;
+    Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 4.º-A; Altera Artigo 4.º-B;
+    Altera Artigo 4.º-C; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera
+    Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311
+  date: '2014-11-07'
+- type: amended_by
+  target: pt:dre:175336200:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º-A; Altera Artigo 4.º-C; Altera Artigo 4.º-D; Altera Artigo
+    6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200
+  date: '2021-12-03'
+- type: cites
+  target: celex:31988L0609
+  label: null
+  source: http://data.europa.eu/eli/dir/1988/609/oj
+- type: cites
+  target: celex:31993L0012
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/12/oj
+- type: cites
+  target: celex:31994L0025
+  label: null
+  source: null
+- type: cites
+  target: celex:31997L0068
+  label: null
+  source: null
+- type: cites
+  target: celex:31999L0032
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/32/oj
+- type: cites
+  target: celex:32002R2099
+  label: null
+  source: null
+- type: cites
+  target: celex:32005L0033
+  label: null
+  source: null
+- type: transposes
+  target: celex:31999L0032
+  label: null
+  source: null
+article_structure:
+  article_count: 22
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:47:12Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 281/2000
+
+Decreto-Lei n.º 281/2000
+
+de 10 de Novembro
+
+O objectivo de redução das emissões de dióxido de enxofre para a atmosfera insere-se nas orientações políticas gerais do Governo em matéria de ambiente, sendo conhecidos os impactes negativos deste poluente sobre os ecossistemas e a saúde humana.
+
+Neste sentido, já o Decreto-Lei n.º 352/90, de 9 de Novembro, e a Portaria n.º 286/93, de 12 de Março, que enquadram a política nacional de protecção e melhoria da qualidade do ar, apontavam para o objectivo fundamental da redução e controlo das emissões poluentes para a atmosfera, com particular atenção para as emissões de dióxido de enxofre.
+
+No cômputo das principais fontes de emissão de dióxido de enxofre, os processos de combustão associados à utilização de combustíveis líquidos derivados do petróleo assumem um peso muito significativo, pelo que a regulamentação dos teores máximos permitidos de enxofre destes combustíveis é uma medida eficaz no sentido da prossecução dos objectivos enunciados.
+
+Desta forma, por via da publicação do Decreto-Lei n.º 104/2000, de 3 de Junho, foram já estabelecidas novas disposições relativas à qualidade das gasolinas e dos combustíveis para motores diesel.
+
+O presente decreto-lei, prosseguindo os mesmos propósitos, vem agora contribuir para a gradual redução das emissões de dióxido de enxofre resultantes da combustão de gasóleos não rodoviários e navais e de fuelóleo pesado, procedendo simultaneamente à transposição da Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0032" title="Link para Directiva da Comunidade Europeia">1999/32/CE</a>, de 26 de Abril, que por sua vez altera a Directiva n.º <a href="eurlex.asp?ano=1993&id=393L0012" title="Link para Directiva da Comunidade Europeia">93/12/CEE</a>, de 23 de Março.
+
+Foram ouvidos os órgãos de governo próprios das Regiões Autónomas dos Açores e da Madeira.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente diploma estabelece limites ao teor de enxofre de determinados tipos de combustíveis líquidos derivados do petróleo, com vista a reduzir as emissões de dióxido de enxofre resultantes da combustão desses combustíveis e a minorar os efeitos nocivos destas emissões no homem e no ambiente, como condição para poderem ser utilizados no território nacional, mar territorial, zona económica exclusiva e zonas de controlo da poluição.
+
+2 - O presente diploma transpõe para o direito interno a Diretiva n.º 1999/32/CE, do Conselho, de 26 de abril de 1999, alterada pelas Diretivas n.os 2005/33/CE, de 6 de julho de 2005, e 2012/33/UE, de 21 de novembro de 2012, no que respeita ao teor de enxofre dos combustíveis navais, as quais ficam transpostas neste diploma.
+
+3 - O presente diploma aplica-se aos combustíveis líquidos derivados do petróleo, definidos nas alíneas b), c), d), e) e f) do n.º 1 do artigo 2.º
+
+4 - Os limites ao teor de enxofre dos combustíveis líquidos derivados do petróleo fixados no presente diploma não se aplicam:
+
+a) Aos combustíveis destinados a fins de investigação e ensaio;
+
+b) Aos combustíveis destinados a processamento antes da combustão final;
+
+c) Aos combustíveis destinados a ser processados pela indústria refinadora.
+
+d) (Revogada.)
+
+e) Aos combustíveis utilizados por navios de guerra e outros navios em serviço militar; no entanto, deve ser assegurado, pelas entidades competentes na matéria, a adopção de medidas apropriadas, que não prejudiquem as operações ou as capacidades operacionais desses navios, que tais navios actuem, na medida do razoável e do praticável, de uma forma coerente com o disposto no presente decreto-lei;
+
+f) Aos combustíveis cuja utilização num navio seja necessária para o fim específico de garantir a segurança de um navio ou para salvar vidas no mar;
+
+g) Aos combustíveis cuja utilização num navio seja necessária em virtude de danos causados a este ou ao seu equipamento, desde que após a ocorrência dos mesmos tenham sido tomadas todas as medidas razoáveis para prevenir ou minimizar emissões em excesso e para remediar sem demora esses danos, excepto se o armador ou o comandante tiverem agido com intenção de causar danos ou de forma irresponsável;
+
+h) Aos combustíveis utilizados a bordo de navios que empreguem tecnologias aprovadas de redução de emissões, em conformidade com o artigo 4.º-C.
+
+i) Sem prejuízo do artigo 3.º-A, aos combustíveis utilizados a bordo de navios que utilizem métodos de redução de emissões nos termos dos artigos 4.º-C e 4.º-E.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200), em vigor a partir de 2021-12-04, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente diploma, entende-se por:
+
+a) (Revogada.)
+
+b) Fuelóleo pesado:
+
+i) Um combustível líquido derivado do petróleo, com exclusão dos combustíveis navais, abrangido pelos códigos NC 27101951 a 27101968, 27102031, 27102035, 27102039;
+
+ii) Um combustível líquido derivado do petróleo, com exceção do gasóleo, tal como definido nas alíneas c) e d), que, dado o seu intervalo de destilação, fique abrangido na categoria de óleo pesado destinado a ser utilizado como combustível e do qual menos de 65 % em volume, incluindo perdas, destile a 250ºC pelo método ASTM D86; ou
+
+iii) Se as condições de destilação, previstas na subalínea anterior, não puderem ser determinadas pelo método ASTM D86, o produto petrolífero é igualmente classificado como fuelóleo pesado;
+
+c) Gasóleo:
+
+i) Um combustível líquido derivado do petróleo, com exclusão dos combustíveis navais, abrangido pelos códigos NC 27101925, 27101929, 27101947, 27101948, 27102017 ou 27102019; ou
+
+ii) Um combustível líquido derivado do petróleo, com exclusão dos combustíveis navais, do qual menos de 65 % em volume, incluindo perdas, destile a 250ºC e pelo menos 85 % em volume, incluindo perdas, destile a 350ºC pelo método ASTM D86;
+
+d) Combustível naval, qualquer combustível líquido derivado do petróleo destinado à utilização ou utilizado a bordo de um navio, incluindo os combustíveis definidos na norma ISO 8217, e qualquer combustível líquido derivado do petróleo utilizado a bordo de embarcações de navegação interior ou de recreio, definidas na Directiva n.º 97/68/CE, do Parlamento Europeu e do Conselho, de 16 de Dezembro, e na Directiva n.º 94/25/CE, do Parlamento Europeu e do Conselho, de 16 de Junho;
+
+e) Óleo diesel naval, qualquer combustível naval correspondente à definição da categoria DMB no quadro I da norma ISO 8217, com exceção da referência ao teor de enxofre;
+
+f) Gasóleo naval, qualquer combustível naval correspondente à definição das categorias DMX, DMA e DMZ no quadro I da norma ISO 8217, com exceção da referência ao teor de enxofre;
+
+g) Óleo diesel naval, qualquer combustível naval cuja viscosidade ou densidade se situem nos intervalos definidos para as categorias DMB e DMC na tabela i da norma ISO 8217;
+
+h) MARPOL, a Convenção Internacional para a Prevenção da Poluição por Navios de 1973, alterada pelo protocolo de 1978;
+
+i) Anexo vi da MARPOL, o anexo intitulado «Regras para a prevenção da poluição atmosférica pelos navios», que o protocolo de 1997 adita à MARPOL;
+
+j) Zonas de controlo das emissões de SOx, as zonas marítimas designadas como tais pela Organização Marítima Internacional (OMI) nos termos do anexo vi da MARPOL;
+
+l) Navio de passageiros, um navio que transporte mais de 12 passageiros, entendendo-se por passageiro qualquer pessoa excepto:
+
+i) O comandante e os membros da tripulação ou outras pessoas empregadas ou ocupadas, sob qualquer forma, a bordo de um navio em serviços que a este digam respeito; e
+
+ii) Crianças com menos de um ano de idade;
+
+m) Serviço regular, uma série de travessias efectuadas por um navio de passageiros de forma a servir o tráfego entre os mesmos, dois ou mais portos, ou uma série de viagens de ou para o mesmo porto, efectuadas sem escalas intermédias:
+
+i) Segundo um horário publicado; ou
+
+ii) Com uma regularidade ou frequência claramente equiparáveis a um horário;
+
+n) Navio de guerra, qualquer navio pertencente às forças armadas, que ostente os sinais exteriores próprios de navios de guerra, sob o comando de um oficial devidamente designado cujo nome figure na correspondente lista de oficiais ou seu equivalente e cuja tripulação esteja submetida às regras da disciplina militar;
+
+o) Navio num porto, um navio atracado ou fundeado, que está em segurança amarrado ou ancorado num porto comunitário em operações de carga ou descarga e em estada (hotelling), inclusivamente quando não está a efetuar operações de carga;
+
+p) (Revogada.)
+
+q) Colocação no mercado, o fornecimento ou disponibilização a terceiros, a título oneroso ou gratuito, em qualquer ponto sob a jurisdição nacional, de combustíveis navais para efeitos de combustão a bordo, excluindo-se o fornecimento ou disponibilização de combustíveis navais para efeitos de exportação em tanques de carga de navios;
+
+r) (Revogada.)
+
+s) Método de redução de emissões, qualquer acessório, equipamento, dispositivo ou aparelho destinado a ser instalado num navio, ou outros processos, combustíveis alternativos ou métodos de observância da regulamentação, utilizados como alternativa ao combustível naval com baixo teor de enxofre que cumpra os requisitos do presente diploma, que sejam verificáveis, quantificáveis e fiscalizáveis;
+
+t) Métodos ASTM - os métodos definidos pela American Society for Testing and Materials na edição de 1976 das definições e especificações normalizadas dos produtos petrolíferos e lubrificantes.
+
+2 - Não se considera incluída na definição constante da alínea b) do número anterior o gasóleo, tal como definido nas alíneas c) e f) do mesmo número.
+
+3 - Ficam excluídos da definição constante da alínea c) do n.º 1:
+
+a) O combustível para motores diesel, tal como definido na alínea g) do artigo 2.º do Decreto-Lei n.º 89/2008, de 30 de maio, alterado pelo Decreto-Lei n.º 142/2010, de 31 de dezembro;
+
+b) Os combustíveis usados em máquinas móveis não rodoviárias e em tractores agrícolas.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200), em vigor a partir de 2021-12-04, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+### Capítulo II — Limites máximos de teor de enxofre
+
+###### Artigo 3.º — Teor de enxofre máximo do fuelóleo pesado
+
+1 - Não podem ser utilizados em território nacional, fuelóleos pesados cujo teor de enxofre exceda 1 %, em massa.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Sem prejuízo da adequada monitorização das emissões pelas autoridades competentes, o n.º 1 não se aplica aos fuelóleos pesados utilizados:
+
+a) Em instalações de combustão abrangidas pelo Decreto-Lei n.º 127/2013, de 30 de agosto, com mais de 50 MWt, nos termos do capítulo III do referido diploma e que respeitem os limites de emissão de dióxido de enxofre previstos para tais instalações no anexo V do mesmo ou, se esses limites de emissão não forem aplicáveis de acordo com o diploma, cuja média mensal de emissões de dióxido de enxofre não exceda 1700 mg/Nm3, considerando um teor volúmico de 3 % de oxigénio nos gases de combustão, base seca;
+
+b) Em instalações de combustão não abrangidas pela alínea anterior cuja média mensal de emissões de dióxido de enxofre não exceda 1700 mg/Nm3, considerando um teor volúmico de 3 % de oxigénio nos gases de combustão, base seca;
+
+c) Para combustão em refinarias, na condição de a média mensal global das emissões de dióxido de enxofre de todas as instalações de combustão da refinaria, independentemente do tipo de combustível ou combinação de combustíveis utilizado e excluídas as instalações abrangidas pela alínea a), as turbinas a gás e os motores a gás, não exceder 1700 mg/Nm3, considerando um teor volúmico de 3 % de oxigénio nos gases de combustão, base seca.
+
+5 - Todas as utilizações previstas no número anterior dependem da concessão de uma licença à instalação de combustão respetiva para a utilização de fuelóleos com um determinado teor de enxofre, a emitir pela Direção-Geral de Energia e Geologia (DGEG), com o parecer prévio favorável da Agência Portuguesa do Ambiente, I.P. (APA, I.P.) que determinará, igualmente, os limites de emissão para a atmosfera de SO(índice 2) que a unidade em causa deve cumprir.
+
+6 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 3.º-A — Teor máximo de enxofre do combustível naval
+
+Não podem ser utilizados em território nacional combustíveis navais cujo teor de enxofre exceda 3,50 %, em massa, com exceção dos combustíveis fornecidos a navios que utilizem os métodos de redução de emissões sujeitos ao artigo 4.º-C em sistemas fechados.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+###### Artigo 4.º — Teor máximo de enxofre do gasóleo
+
+1 - Não podem ser utilizados em território nacional gasóleos cujo teor de enxofre exceda 0,10 %, em massa.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 4.º-A — Teor de enxofre máximo nos combustíveis navais utilizados em mares territoriais, zonas económicas exclusivas e zonas de controlo da poluição, incluindo zonas de controlo das emissões de SO(índice x) e pelos navios de passageiros que efetuam serviços regulares com partida ou destino em portos da União Europeia.
+
+1 - No mar territorial português, zona económica exclusiva e zonas de controlo da poluição não podem ser utilizados combustíveis navais cujo teor de enxofre exceda, em massa:
+
+a) 3,50 %, a partir da data de entrada em vigor do presente diploma;
+
+b) 0,50 %, a partir de 1 de janeiro de 2020.
+
+2 - A alínea a) do número anterior não se aplica aos navios de passageiros que efetuem serviços regulares com partida ou destino em portos da União Europeia, os quais, até 1 de janeiro de 2020, no mar territorial português, zona económica exclusiva e zonas de controlo da poluição que se situem fora de zonas de controlo das emissões de SO(índice x), não podem utilizar combustíveis navais cujo teor de enxofre exceda 1,50 % em massa.
+
+3 - No mar territorial português, zona económica exclusiva e zonas de controlo da poluição, incluídos em zonas de controlo das emissões de SO(índice x), não podem ser utilizados combustíveis navais cujo teor de enxofre exceda, em massa, 0,10 %.
+
+4 - As disposições do número anterior aplicam-se a zonas marítimas, incluindo portos, que a OMI venha a designar como zona de controlo das emissões de SO(índice x) ao abrigo da alínea b) do n.º 3 da regra 14 do anexo VI da MARPOL, no prazo de 12 meses após a data de entrada em vigor dessa designação.
+
+5 - O disposto nos números anteriores é aplicável aos navios que arvorem todos os pavilhões, incluindo os navios cuja viagem se inicie fora da União Europeia, sem prejuízo do artigo seguinte.
+
+6 - A Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) é responsável pela aplicação dos números anteriores a navios que arvorem o pavilhão português e a navios de todos os pavilhões que se encontrem nos portos portugueses.
+
+7 - A DGRM articula-se com a Autoridade Marítima Nacional, podendo ainda celebrar protocolos com outras entidades, com vista à fiscalização aos navios.
+
+8 - Podem ainda ser aplicadas medidas adicionais a respeito de outros navios, em conformidade com o direito marítimo internacional.
+
+6 - Os navios de passageiros que efectuem serviços regulares com partida ou destino em portos comunitários não podem utilizar combustíveis navais cujo teor de enxofre exceda 1,5 % em massa, no mar territorial português, zona económica exclusiva e zonas de controlo da poluição.
+
+7 - O IPTM, I. P., é responsável pela aplicação do número anterior, pelo menos relativamente aos navios que arvorem o pavilhão português e aos navios de todos os pavilhões que se encontrem nos portos nacionais.
+
+8 - É exigido o correcto preenchimento do diário de navegação, diário do serviço de máquinas ou de outro diário do navio, que deve incluir as operações de substituição de combustível, como condição para a entrada dos navios em portos nacionais.
+
+9 - É exigido o correto preenchimento do diário de navegação, diário do serviço de máquinas ou de outro diário do navio, que deve incluir as operações de substituição de combustível.
+
+10- Nos termos da regra 18 do anexo vi da Convenção MARPOL, são atribuídas as seguintes obrigações:
+
+a) Os comercializadores de combustível naval devem efetuar junto da DGEG o registo da sua atividade, nos termos do disposto no Decreto-Lei n.º 31/2006, de 15 de fevereiro, na sua redação atual, entidade que assegura a respetiva publicitação no seu sítio na Internet;
+
+b) As administrações portuárias e a Docapesca-Portos e Lotas, S.A. (Docapesca), nos portos sob a sua gestão, devem assegurar que a guia de entrega do combustível discrimine o teor de enxofre do combustível fornecido e seja acompanhada de uma amostra selada assinada pelo representante do comercializador e pelo comandante ou pelo oficial responsável pela operação de abastecimento de combustível no final das operações de abastecimento;
+
+c) A guia de entrega de combustível referida na alínea anterior deve conter, pelo menos, a informação especificada no anexo I ao presente diploma e do qual faz parte integrante;
+
+d) A amostra de combustível naval referida na alínea b) deve ser conservada no navio até que o combustível tenha sido em grande parte consumido, mas em qualquer caso por um período nunca inferior a 12 meses contados a partir do momento da entrega;
+
+e) Os comercializadores, incluindo os navios que realizam bancas, devem obrigatoriamente conservar uma cópia da guia de entrega de combustível durante, pelo menos, três anos para inspeção e verificação;
+
+f) A guia de entrega de combustível deve ser conservada a bordo dos navios em local facilmente acessível para inspecção, em tempo razoável e deve ser conservada por um período de três anos após a entrega a bordo do combustível naval;
+
+g) A DGRM pode inspecionar as guias de entrega de combustível a bordo de qualquer navio, enquanto o navio se encontra em porto ou fundeadouro nacional;
+
+h) Na sua ação de inspeção, a DGRM pode obter uma cópia de cada guia de entrega, exigir ao comandante ou ao responsável pelo navio que certifique que cada cópia é uma cópia conforme a guia de entrega de combustível em questão, podendo ainda verificar o conteúdo de cada guia consultando o porto no qual a guia foi emitida;
+
+i) A inspeção às guias de entrega de combustível e a obtenção de cópias certificadas pela DGRM, nos termos da alínea anterior, deve ser efetuada de forma expedita, tanto quanto possível, sem originar atrasos indevidos ao navio devendo em caso de irregularidade ocorrida em combustível obtido em território nacional ser dado conhecimento à ENMC, E.P.E.;
+
+j) A Entidade Nacional para o Setor Energético, E. P. E., (ENSE, E. P. E.), adota as medidas adequadas contra os comercializadores nacionais de combustível naval que comprovadamente forneçam combustível não conforme ao indicado na guia de entrega de combustível, procedendo, entre outras medidas, à recolha de amostras e análises, durante o transporte do combustível naval até ao destino, em articulação, nas áreas portuárias, com a DGRM;
+
+k) A ENSE, E. P. E., adota as medidas necessárias para assegurar a regularização das situações em que, nos termos do disposto na alínea anterior, seja detetada a existência de combustível naval não conforme, garantindo, designadamente, a sua substituição por combustível cujo teor de enxofre não exceda, em massa, os limites previstos no presente diploma.
+
+11 - Com exceção dos navios que tenham instalado um sistema de redução de emissões aprovado e certificado e dos navios tanques que o transportem como carga, o navio que se dirigir a um porto nacional e utilizar ou transportar combustível que não cumpra os limites previstos no presente diploma, comunica/submete previamente à DGRM e à administração portuária do próximo porto de escala, preferencialmente através da Janela Única Logística, criada pelo Decreto-Lei n.º 158/2019, de 22 de outubro, nos termos do Apêndice I, da Resolução 320 (74), do Comité para a Proteção do Meio Marinho, da Organização Marítima Internacional, o seguinte:
+
+a) As ações empreendidas com vista a tentar assegurar o cumprimento do disposto no presente diploma;
+
+b) A documentação comprovativa de que tentou adquirir combustível naval que respeite o disposto no presente diploma de acordo com o seu plano de viagem e, caso o combustível não tenha sido disponibilizado onde estava planeado, de que tentou localizar fontes alternativas e de que, apesar de fazer todos os esforços para o obter, esse combustível naval não estava disponível para compra.
+
+12 - Sem prejuízo das disposições relativas ao controlo pelo Estado do porto, nas situações de não cumprimento referidas no número anterior, não pode ser exigido ao navio o desvio da rota planeada ou o atraso indevido da viagem para assegurar o cumprimento dessas disposições.
+
+13 - Se um navio prestar as informações previstas na alínea b) do n.º 11, a DGRM deve ter em conta todas as circunstâncias relevantes e as provas apresentadas, a fim de determinar as medidas adequadas a tomar, incluindo a não adoção de medidas de controlo.
+
+14 - A DGRM notifica a Comissão Europeia quando um navio apresentar provas da não disponibilidade de combustível naval que respeite o disposto no presente diploma, e igualmente a ENMC, E.P.E., quando se trate de um abastecimento realizado em território nacional, para aplicação do disposto na alínea j) do n.º 10.
+
+15 - Os comercializadores de combustíveis navais devem procurar assegurar a disponibilidade de combustíveis navais que cumpram o presente diploma e dela dar informação à DGEG, que transmite à Comissão Europeia informação sobre a disponibilidade desses combustíveis navais nos portos e terminais portugueses.
+
+16 - Em caso de não disponibilidade de combustíveis navais que cumpram o presente diploma em território nacional, o navio notifica o seu Estado do pavilhão e a autoridade competente do porto de destino relevante.
+
+17 - Não pode ser colocado no mercado nacional óleo diesel naval cujo teor de enxofre exceda 1,5 % em massa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200), em vigor a partir de 2021-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 4.º-B — Teor de enxofre máximo nos combustíveis navais utilizados pelos navios em portos nacionais
+
+1 - Os navios em portos nacionais não podem utilizar combustíveis navais cujo teor de enxofre seja superior a 0,10 % em massa, dando à tripulação tempo suficiente para terminar uma eventual operação de substituição do combustível o mais depressa possível depois de atracados ou fundeados e o mais tarde possível antes da partida.
+
+2 - Quando se procede a uma operação de substituição de combustível, o tempo passado nesta operação tem de ficar registado no diário de navegação, ou no diário do serviço de máquinas ou de outro diário do navio, podendo este ser fiscalizado em qualquer altura pelo IPTM, I. P.
+
+3 - O disposto no n.º 1 não é aplicável:
+
+a) Caso se preveja, em conformidade com horários publicados, que os navios estejam no porto por menos de duas horas;
+
+b) (Revogada.)
+
+c) Aos navios que desliguem todas as máquinas e sejam alimentados a partir das redes de electricidade em terra quando se encontram atracados em portos.
+
+4 - Não pode ser colocado no mercado nacional gasóleo naval cujo teor de enxofre seja superior a 0,10 % em massa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 4.º-C — Métodos de redução de emissões
+
+1 - É permitida a utilização de métodos de redução de emissões nos portos nacionais, na zona económica exclusiva e na zona de controlo da poluição, independentemente de estarem situadas dentro ou fora de zonas de controlo das emissões de SO(índice x), pelos navios que arvorem todos os pavilhões, como alternativa à utilização de combustíveis navais que respeitem os requisitos dos artigos 4.º-A e 4.º-B, sem prejuízo, no caso dos portos nacionais, da observância dos regulamentos emanados pelas administrações portuárias, bem como do disposto nos n.os 2, 3 e 5 do presente artigo.
+
+2 - Os navios nos quais sejam utilizados os métodos de redução de emissões referidos no número anterior devem reduzir em permanência as suas emissões de dióxido de enxofre em grau pelo menos equivalente ao que conseguiriam obter se utilizassem combustíveis navais que respeitem os requisitos dos artigos 4.º-A e 4.º-B.
+
+3 - Os valores de emissão equivalentes são determinados de acordo com o anexo II ao presente diploma e do qual faz parte integrante.
+
+4 - Como alternativa aos métodos de redução de emissões, os navios atracados em portos nacionais, devem poder recorrer à utilização de sistemas de alimentação elétrica localizados em terra.
+
+5 - Os métodos de redução de emissões referidos no n.º 1 devem cumprir os critérios especificados nos instrumentos referidos no anexo III ao presente diploma e do qual faz parte integrante.
+
+6 - Os procedimentos a aplicar para a utilização de métodos de redução referidos no n.º 1 são publicitados pela DGRM no seu sítio na Internet.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200), em vigor a partir de 2021-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 4.º-D — Aprovação de métodos de redução de emissões destinados a ser utilizados a bordo de navios que arvorem pavilhão de um Estado Membro
+
+1 - Os métodos de redução de emissões referidos no presente diploma são aprovados nos termos do Decreto-Lei n.º 63/2017, de 9 de junho, na sua redação atual.
+
+2 - Os métodos de redução de emissões não abrangidos pelo número anterior são aprovados nos termos do n.º 2 do artigo 3.º do Regulamento (CE) n.º 2099/2002, do Parlamento Europeu e do Conselho, de 5 de novembro de 2002, que estabelece um Comité para a Segurança Marítima e a Prevenção da Poluição por Navios (COSS), tendo em conta:
+
+a) As orientações elaboradas pela OMI;
+
+b) Os resultados dos ensaios efetuados ao abrigo do artigo seguinte;
+
+c) Os efeitos no ambiente, incluindo as reduções de emissões alcançáveis, e o impacto nos ecossistemas em portos fechados, portos de abrigo e estuários; e
+
+d) A viabilidade da sua monitorização e verificação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200), em vigor a partir de 2021-12-04
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+###### Artigo 4.º-E — Ensaios de novos métodos de redução de emissões
+
+1 - Podem ser aprovadas pela DGRM, mediante parecer favorável da APA, I.P., e de um organismo reconhecido ao abrigo do Decreto-Lei n.º 13/2012, de 20 de janeiro, ensaios de métodos de redução de emissões, em colaboração com outros Estados membros, se for caso disso, em navios que arvorem o respetivo pavilhão ou em zonas marítimas sob a sua jurisdição.
+
+2 - Durante os ensaios referidos no número anterior, não é obrigatória a utilização de combustíveis navais que cumpram os requisitos dos artigos 4.º-A e 4.º-B, desde que se encontrem preenchidas cumulativamente as seguintes condições:
+
+a) A DGRM e a Comissão Europeia sejam informadas por escrito, pelo menos seis meses antes do início dos ensaios;
+
+b) A duração das autorizações para os ensaios não exceda 18 meses;
+
+c) Os navios participantes tenham instalado equipamento à prova de manipulação não autorizada para a monitorização, em contínuo, dos gases emitidos pelas chaminés e utilizem-no durante todo o período dos ensaios;
+
+d) Os navios participantes tenham alcançado reduções de emissões pelo menos equivalentes às que seriam obtidas através da aplicação dos limites para o teor de enxofre dos combustíveis, especificados no presente diploma;
+
+e) Tenham funcionado durante todo o período dos ensaios sistemas adequados de gestão dos resíduos gerados pelos métodos de redução de emissões;
+
+f) Seja avaliado o impacto no meio marinho, designadamente nos ecossistemas em portos fechados, portos de abrigo e estuários, durante todo o período dos ensaios; e
+
+g) Sejam fornecidos pela DGRM à Comissão Europeia os resultados completos e tornados públicos, no prazo de seis meses a contar do termo dos ensaios.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+###### Artigo 4.º-F — Medidas financeiras
+
+Podem ser adotadas medidas financeiras em benefício dos operadores afetados pelo presente diploma, se essas medidas financeiras forem conformes com as normas aplicáveis aos auxílios estatais e se destinarem a ser utilizadas nesta área.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+### Capítulo III — Disposições especiais
+
+###### Artigo 5.º — Situações de crise de abastecimento
+
+1 - Os limites máximos de teor de enxofre estabelecidos nos artigos 3.º, 3.º-A, 4.º, 4.º-A e 4.º-B podem não ter aplicação em situações de crise de abastecimento de combustíveis ocasionadas pela ocorrência de alterações imprevistas no abastecimento de petróleo bruto, produtos petrolíferos ou outros hidrocarbonetos.
+
+2 - No caso previsto no número anterior, por portaria do membro do Governo responsável pela área da energia é fixado o limite máximo de teor de enxofre, para os fuelóleos pesados e gasóleos, bem como o período de duração dessa alteração ao limite máximo de teor de enxofre, o qual nunca pode exceder seis meses.
+
+3 - A aplicação do disposto no número anterior carece da aprovação da Comissão Europeia para a alteração do limite máximo de teor de enxofre para o combustível em causa, devendo o respetivo pedido ser instruído com o parecer favorável do membro do Governo responsável pela área do ambiente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+###### Artigo 6.º — Amostragens e análises
+
+1 - A verificação de que o teor de enxofre dos combustíveis utilizados satisfaz o disposto nos artigos 3.º, 3.º-A, 4.º, 4.º-A e 4.º-B a efetuar por amostragem, a qual deve ser realizada sem demora injustificada, deve iniciar-se na data de entrada em vigor do limite pertinente para o teor de enxofre máximo do combustível em causa e ser realizada periodicamente com a frequência e quantidades necessárias, de modo a que as amostras sejam representativas do combustível analisado, e, no caso do combustível naval, do combustível que os navios estejam a utilizar nas zonas marítimas e portos nacionais.
+
+2 - A promoção da verificação referida no número anterior é da competência da ENMC, E.P.E., para os combustíveis constantes dos artigos 3.º e 4.º.
+
+3 - Quando estiverem em causa combustíveis navais, a promoção da verificação prevista no n.º 1 é da competência das administrações portuárias, incluindo as das Regiões Autónomas, bem como da Docapesca, no caso dos portos que se encontram sob gestão direta deste organismo.4 - O teor de enxofre dos combustíveis navais deve cumprir o disposto nos artigos 3.º-A, 4.º-A e 4.º-B.
+
+5 - O IPTM, I. P., verifica, aleatoriamente, a bordo dos navios, o cumprimento do disposto no número anterior, quando da realização de inspecções para efeitos de certificação, nas acções de inspecções no âmbito do controlo pelo Estado do porto ou através de inspecções aleatórias dedicadas.
+
+6 - Para efeitos da verificação do teor de enxofre dos combustíveis navais pelas entidades referidas nos n.os 3 e 5, é utilizada a vistoria do diário de navegação, do diário do serviço de máquinas ou de outro diário do navio e das guias de entrega de combustível e, se apropriado, cada um dos seguintes processos de amostragem e análise:
+
+a) Amostragem do combustível naval para queima a bordo, quando do seu fornecimento aos navios, de acordo com as orientações para a colheita de amostras de fuelóleo a fim de determinar o cumprimento do anexo VI revisto da Convenção MARPOL, aprovada em 17 de julho de 2009 nos termos da Resolução 182 (59) do Comité para a Proteção do Meio Marinho da OMI, e análise do seu teor de enxofre; ou
+
+b) Amostragem e análise do teor de enxofre do combustível naval para queima a bordo contido nos reservatórios, caso seja técnica e economicamente exequível, e nas amostras de bancas seladas a bordo dos navios, para determinação do seu teor de enxofre.
+
+7 - O método de referência adotado para determinação do teor de enxofre é o método ISO 8754 ou EN ISO 14596.
+
+8 - A fim de determinar se o combustível naval entregue aos navios e neles utilizado cumpre os limites de teor de enxofre exigidos pelos artigos 3.º-A, 4.º, 4.º-A e 4.º-B, deve utilizar-se o procedimento de verificação estabelecido no apêndice VI do anexo VI da Convenção MARPOL.
+
+9 - A interpretação estatística dos resultados da verificação do teor de enxofre é feita de acordo com a norma ISO 4259.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200), em vigor a partir de 2021-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2010 - Diário da República n.º 253/2010, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2010-306625), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+## Anexo III
+
+Nome e número IMO do navio receptor: ...
+
+Porto: ...
+
+Data de início da entrega: ...
+
+Nome(s) do produto: ...
+
+Quantidade em toneladas métricas: ...
+
+Densidade a 15ºC, kg/m3: ...
+
+Teor de enxofre ( % m/m): ...
+
+Para os devidos efeitos se declara e certifica que o combustível naval fornecido está em conformidade com o seguinte:
+
+a) Anexo vi da Convenção MARPOL:
+
+A regra 14 (1) ... [ ]
+
+A regra 14 (4)(a) ... [ ]
+
+A regra 18 (1) ... [ ]
+
+b) Requisitos da Directiva n.º 2005/33/CE ... [ ]
+
+Tipo de combustível naval: ...
+
+(Identificação do fornecedor do combustível naval):
+
+Nome completo: ...
+
+Endereço: ...
+
+Assinatura e carimbo: ...
+
+Número de telefone: ...
+
+Local de emissão: ...
+
+Data: ...
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+### Capítulo IV — Coordenação, fiscalização e contra-ordenações
+
+###### Artigo 7.º — Coordenação
+
+1 - As entidades com competência para verificar e fiscalizar o cumprimento do presente diploma, nomeadamente, a ENSE, E. P. E., a DGRM, as administrações portuárias, incluindo as das Regiões Autónomas, e a Docapesca, devem, até ao final de março de cada ano civil, enviar à DGEG os dados informativos recolhidos nas ações de verificação do cumprimento dos limites máximos de teor de enxofre referentes ao ano anterior, designadamente o número de infrações detetadas.
+
+2 - Cabe à DGEG, nomeadamente:
+
+a) Recolher informação sobre o cumprimento do presente diploma, com excepção do disposto no artigo 4.º-C;
+
+b) Elaborar relatórios sobre o cumprimento dos limites máximos de teor de enxofre estabelecidos no presente diploma, devendo esses relatórios basear-se nos resultados das amostragens, das análises e vistorias efetuadas, de acordo com o artigo anterior, durante o ano civil anterior;
+
+c) Enviar à Comissão Europeia, até 30 de Junho de cada ano, os relatórios mencionados na alínea anterior;
+
+d) Dar conhecimento à Direcção-Geral do Ambiente (DGA) dos relatórios mencionados na alínea b).
+
+3 - (Revogado.)
+
+4 - Os relatórios referidos no n.º 2 devem incluir o registo do número total de amostras analisadas por tipo de combustível e indicar a quantidade correspondente de combustível utilizada e o teor de enxofre médio calculado, bem como o número de vistorias efectuadas a bordo dos navios e registar o teor de enxofre médio dos combustíveis navais não abrangidos pelo presente diploma e utilizados no respectivo território.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200), em vigor a partir de 2021-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 8.º — Informação
+
+1 - Para efeitos do artigo anterior, a DGEG pode exigir dos agentes económicos que introduzem no consumo ou comercializem os fuelóleos pesados ou os gasóleos, incluindo gasóleos navais, informações sobre os programas e métodos de controlo utilizados para determinação das características dos produtos e cumprimento dos teores máximos de enxofre aplicáveis.
+
+2 - A forma de apresentação da informação, a sua extensão e periodicidade são definidas por despacho do director-geral da Energia.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 9.º — Fiscalização
+
+1 - Sem prejuízo das competências próprias de outras entidades, a fiscalização do cumprimento do disposto no presente diploma no território nacional, incluindo nas áreas de jurisdição das administrações portuárias, cabe à ENSE, E. P. E., exceto nos casos de utilização ou de transporte de combustível naval a bordo de navios, quando destinado à sua utilização no próprio navio, em que a competência de fiscalização é da DGRM.
+
+2 - Sempre que uma entidade competente para verificar o cumprimento do presente diploma, ao abrigo de competências próprias, tome conhecimento de factos que indiciem a prática de uma contraordenação prevista no mesmo, deve comunicá-lo à ENSE, E. P. E., ou, nos casos de utilização ou de transporte de combustível naval a bordo de navios, quando destinado à sua utilização no próprio navio, à DGRM, para efeitos da instauração e instrução do correspondente processo de contraordenação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200), em vigor a partir de 2021-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 10.º — Contra-ordenações
+
+1 - Constitui contra-ordenação, punível com coima:
+
+a) De (euro) 5000 a (euro) 44 850:
+
+i) A colocação no mercado de fuelóleos, gasóleos e combustíveis navais cujo teor de enxofre exceda, em massa, os limites previstos no presente diploma ou na portaria a que se refere o n.º 2 do artigo 5.º;
+
+ii) A utilização, em território nacional, de fuelóleos pesados e de gasóleos, cujo teor de enxofre exceda, em massa, os limites previstos nos artigos 3.º e 4.º;
+
+iii) A utilização ou o transporte de combustíveis navais, quando destinados à sua utilização no próprio navio, cujo teor de enxofre exceda, em massa, os limites previstos nos artigos 3.º-A, 4.º-A e 4.º-B;
+
+iv) A falta da comunicação prevista no n.º 11 do artigo 4.º-A;
+
+b) [Revogada];
+
+c) De (euro) 2500 a (euro) 40 000, a falta de licença prevista no n.º 5 do artigo 3.º, a falta da aprovação prevista no n.º 1 do artigo 4.º-E e o não cumprimento dos critérios mencionados no n.º 5 do artigo 4.º-C, bem como das condições enunciadas no n.º 2 do artigo 4.º-E;
+
+d) De (euro) 1250 a (euro) 30 000:
+
+i) A omissão, insuficiência ou incorreção no preenchimento dos documentos previstos no n.º 9 e na alínea c) do n.º 10 do artigo 4.º-A e no n.º 2 do artigo 4.º-B;
+
+ii) A inexistência ou deficiente conservação da guia de entrega e das amostras de combustíveis previstas nas alíneas d) a f) do n.º 10 do artigo 4.º-A;
+
+iii) A recusa da prestação de informações solicitadas ao abrigo do artigo 8.º
+
+2 - No caso de pessoas singulares, o montante mínimo da coima a aplicar é de (euro) 1000 e o máximo é de (euro) 3740,98.
+
+3 - A negligência e a tentativa são puníveis.
+
+4 - Às contraordenações previstas no presente diploma aplica-se o regime geral do ilícito de mera ordenação social, constante do Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual, podendo, consoante a gravidade da infração e a culpa do agente, ser aplicadas as sanções acessórias previstas no n.º 1 do artigo 21.º, bem como as medidas de apreensão previstas no artigo 48.º-A do mesmo decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200), em vigor a partir de 2021-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 11.º — Instrução do processo e aplicação das coimas e das sanções acessórias
+
+1 - A instrução dos processos de contraordenação compete à ENSE, E. P. E., ou à DGRM, no caso de utilização ou de transporte de combustível naval a bordo de navios, quando destinado à sua utilização no próprio navio, cabendo ao presidente do conselho de administração da ENSE, E. P. E., e ao diretor-geral da DGRM, respetivamente, a aplicação das coimas e sanções acessórias.
+
+2 - O produto resultante da aplicação das coimas tem a seguinte distribuição:
+
+a) 60% para o Estado;
+
+b) 10 % para a entidade que levanta o auto de notícia;
+
+c) 10 % para a entidade instrutora;
+
+d) 10 % para a entidade que aplica a coima;
+
+e) 10 % para a DGEG.»
+
+3 - Quando resulte de ilícitos praticados no território nacional abrangido por uma região autónoma ou zonas marítimas adjacentes, a afetação do produto das coimas cobradas no âmbito do presente diploma faz-se da seguinte forma:
+
+a) 30 % para o Estado;
+
+b) 10 % para a entidade que levanta o auto de notícia;
+
+c) 10 % para a entidade instrutora;
+
+d) 10 % para a entidade que aplica a coima;
+
+e) 10 % para a DGEG;
+
+f) 30 % para as regiões autónomas, constituindo receita própria.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200), em vigor a partir de 2021-12-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 12.º — Regiões Autónomas
+
+1 - O presente diploma aplica-se às Regiões Autónomas, sem prejuízo da sua adequação à especificidade regional.
+
+2 - Os organismos das respetivas administrações regionais devem remeter à DGEG a informação necessária à elaboração do relatório a que se refere o n.º 1 do artigo 7.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2021-175336200), em vigor a partir de 2021-12-04
+
+### Capítulo V — Disposições finais e transitórias
+
+###### Artigo 13.º — Disposições transitórias
+
+1 - As existências de gasóleos, incluindo o gasóleo naval, que à data da publicação deste diploma se encontrem armazenadas em depósitos licenciados sem que o teor de enxofre corresponda ao previsto no artigo 4.º poderão ser escoadas por um período máximo de três meses.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+###### Artigo 14.º — Revogações
+
+Ficam revogadas as disposições relativas ao teor de enxofre da Portaria n.º 406/96, de 22 de Agosto, a partir da data de produção de efeitos do disposto no n.º 1 do artigo 3.º
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação, sem prejuízo do disposto na alínea a) do n.º 1 do artigo 4.º, que produz efeitos desde 1 de Julho de 2000.
+
+## Anexo i — Informação a incluir na guia de entrega de combustível referida no artigo 4.º-A
+
+Nome e número IMO do navio receptor: ...
+
+Porto: ...
+
+Data de início da entrega: ...
+
+Nome(s) do produto: ...
+
+Quantidade em toneladas métricas: ...
+
+Densidade a 15ºC, kg/m3: ...
+
+Teor de enxofre ( % m/m): ...
+
+Para os devidos efeitos se declara e certifica que o combustível naval fornecido está em conformidade com o seguinte:
+
+a) Anexo vi da Convenção MARPOL:
+
+A regra 14 (1) ... [ ]
+
+A regra 14 (4)(a) ... [ ]
+
+A regra 18 (1) ... [ ]
+
+b) Requisitos da Directiva n.º 2005/33/CE ... [ ]
+
+Tipo de combustível naval: ...
+
+(Identificação do fornecedor do combustível naval):
+
+Nome completo: ...
+
+Endereço: ...
+
+Assinatura e carimbo: ...
+
+Número de telefone: ...
+
+Local de emissão: ...
+
+Data: ...
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 69/2008 - Diário da República n.º 73/2008, Série I de 2008-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2008-249816), em vigor a partir de 2008-04-15
+
+## Anexo II
+
+Nome e número IMO do navio receptor: ...
+
+Porto: ...
+
+Data de início da entrega: ...
+
+Nome(s) do produto: ...
+
+Quantidade em toneladas métricas: ...
+
+Densidade a 15ºC, kg/m3: ...
+
+Teor de enxofre ( % m/m): ...
+
+Para os devidos efeitos se declara e certifica que o combustível naval fornecido está em conformidade com o seguinte:
+
+a) Anexo vi da Convenção MARPOL:
+
+A regra 14 (1) ... [ ]
+
+A regra 14 (4)(a) ... [ ]
+
+A regra 18 (1) ... [ ]
+
+b) Requisitos da Directiva n.º 2005/33/CE ... [ ]
+
+Tipo de combustível naval: ...
+
+(Identificação do fornecedor do combustível naval):
+
+Nome completo: ...
+
+Endereço: ...
+
+Assinatura e carimbo: ...
+
+Número de telefone: ...
+
+Local de emissão: ...
+
+Data: ...
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 170-B/2014 - Diário da República n.º 216/2014, 1º Suplemento, Série I de 2014-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-b-2014-58815311), em vigor a partir de 2014-11-08
+
+Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa.
+
+Promulgado em 13 de Outubro de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 26 de Outubro de 2000.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

@@ -1,0 +1,1235 @@
+---
+schema_version: '1.0'
+id: pt:dre:394557:por
+title: Decreto-Lei n.º 269/82
+short_title: null
+summary: Define e classifica obras de fomento hidroagrícola
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Comércio e Pescas
+proposing_entity: null
+official_number: 269/82
+official_date: null
+publication_date: '1982-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/1982, Série I de 1982-07-10
+  number: '157'
+  series: I
+  supplement: null
+  pages: 2057 - 2070
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15700/20572070.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-04-07'
+version_history:
+  file: decreto-lei-269-82.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1982-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-05-02'
+    amending: pt:dre:217475:por
+    amending_title: Decreto-Lei n.º 69/92
+    changes:
+    - Adita Artigo 76.º-A
+  - date: '2002-04-07'
+    amending: pt:dre:303136:por
+    amending_title: Decreto-Lei n.º 86/2002
+    changes:
+    - Adita Subsecção III
+    - Adita Artigo 69.º-A
+    - Adita Capítulo IX
+    - Adita Artigo 94.º
+    - Adita Artigo 95.º
+    - Adita Artigo 96.º
+    - Adita Artigo 97.º
+    - Adita Artigo 99.º
+    - Adita Artigo 100.º
+    - Adita Artigo 101.º
+    - Adita Capítulo X
+    - Adita Artigo 102.º
+    - Adita Capítulo XI
+    - Adita Artigo 103.º
+    - Adita Artigo 104.º
+    - Adita Artigo 105.º
+    - Adita Artigo 106.º
+    - Adita Artigo 107.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 45.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+  - date: '2022-04-07'
+    amending: pt:dre:303136:por
+    amending_title: Decreto-Lei n.º 86/2002
+    changes:
+    - Altera Artigo 19.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/269/1982/p/cons/20050926/pt/html
+  oj: null
+  dre: '394557'
+  dre_path: /dr/detalhe/decreto-lei/269-1982-394557
+  internal: pt:dre:394557:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557
+  metadata_url: https://data.dre.pt/eli/dec-lei/269/1982/p/cons/20050926/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-34488475
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-34488475
+  retrieved_at: '2026-10-22T11:45:11Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f465ac4c5d51008e5af250aa914dd3a830fee16744e75efafff90210a6076f1c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:45:11Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-269-82.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agricultura
+- Apoio Técnico
+- Aproveitamento Hidroagrícola
+- Classificação de Obras
+- Definição de Competências
+- Direcção Geral de Hidráulica e Engenharia Agrícola
+- Direcção Geral dos Recursos e Aproveitamentos Hidráulicos
+- Expropriação
+- Financiamento
+- Política Agrícola
+- Recursos Hídricos
+relationships:
+- type: amended_by
+  target: pt:dre:217475:por
+  label: Adita Artigo 76.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1992-217475
+  date: '1992-04-27'
+- type: amended_by
+  target: pt:dre:303136:por
+  label: Adita Subsecção III; Adita Artigo 69.º-A; Adita Capítulo IX; Adita Artigo 94.º; Adita Artigo 95.º; Adita Artigo 96.º;
+    Adita Artigo 97.º; Adita Artigo 99.º; Adita Artigo 100.º; Adita Artigo 101.º; Adita Capítulo X; Adita Artigo 102.º; Adita
+    Capítulo XI; Adita Artigo 103.º; Adita Artigo 104.º; Adita Artigo 105.º; Adita Artigo 106.º; Adita Artigo 107.º; Altera
+    Artigo 3.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136
+  date: '2002-04-06'
+article_structure:
+  article_count: 109
+  section_count: 36
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:45:11Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 269/82
+
+A importância crescente das obras de fomento hidroagrícola no desenvolvimento económico-social do País tem motivado o sector agrário para uma renovação progressiva das bases fundamentais daquelas obras e das suas estruturas. Constitui exemplo bem elucidativo a execução das obras de rega, de drenagem, de enxugo e de defesa dos terrenos utilizados na agricultura.
+
+Deve-se, porém, à Lei n.º 1949, de 15 de Fevereiro de 1937, o impulso verificado no domínio da hidráulica agrícola de que resultaram as grandes obras já executadas e em execução.
+
+Entretanto, as mais recentes disposições, designadamente as relativas às bases gerais da Reforma Agrária e às leis orgânicas do ex-Ministério da Agricultura e Pescas (actual Ministério da Agricultura, Comércio e Pescas) e da Direcção-Geral de Hidráulica e Engenharia Agrícola, impõem a necessidade de revisão da legislação sobre política de fomento hidroagrícola, profunda e imperiosa em si, e de decidir quanto à transferência de competências, relativas à execução da referida política, do Ministério da Habitação, Obras Públicas e Transportes para o Ministério da Agricultura, Comércio e Pescas.
+
+A revisão em causa envolve necessariamente aspectos fundamentais, como sejam a caracterização e classificação das obras, os projectos, a sua forma de execução, a participação activa de todos os beneficiários, novas organizações para a gestão dos perímetros de rega e o respectivo regime financeiro.
+
+Este diploma contempla também todos os princípios basilares da anterior legislação sobre fomento hidroagrícola que, ao longo do tempo, se mostraram mais eficazes na transformação das estruturas agrárias com vista ao racional aproveitamento das áreas beneficiadas pelos aproveitamentos hidroagrícolas.
+
+Reconhecida, porém, a importância dos pequenos regadios no racional aproveitamento dos recursos hídricos nacionais, pretende-se agora imprimir nova orientação quanto ao apoio a conceder pelo Estado a essas obras de fomento hidroagrícola, com o fim de promover a sua expansão e desenvolvimento.
+
+Esta orientação justifica-se, no aspecto económico, pela maior capacidade de resposta dos agricultores face aos investimentos e, no plano social, pela possibilidade de contemplar regiões do País extremamente carenciadas onde as grandes obras de fomento hidroagrícola não têm justificação.
+
+Para além do apoio técnico e financeiro a conceder às chamadas obras de interesse local com impacte colectivo e as de interesse particular quando se revelem de elevado impacte social, criam-se e regulamentam-se instituições verdadeiramente autónomas e participadas destinadas à gestão das primeiras.
+
+Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### Capítulo I — Definição e classificação das obras
+
+#### Secção I — Definição das obras
+
+###### Artigo 1.º — (Obras de fomento hidroagrícola)
+
+1 - São consideradas de fomento hidroagrícola as obras de aproveitamento de águas do domínio público para rega, enateiramento ou colmatagem, drenagem, enxugo e defesa dos terrenos para fins agrícolas, adaptação ao regadio das terras beneficiadas, melhoria de regadios existentes e a conveniente estruturação agrária.
+
+2 - Consideram-se obras de adaptação ao regadio o nivelamento das terras, a construção das redes terciárias de rega ou de enxurgo e, bem assim, quaisquer outros trabalhos complementares, nomeadamente infra-estruturas viárias e de distribuição de energia, que se tornem necessários para a exploração e valorização das terras beneficiadas.
+
+3 - As águas particulares ou por qualquer título sujeitas ao seu regime podem também, mediante indemnização prévia, ser aproveitadas para obras de fomento hidroagrícola ou, quando adstritas a regadios existentes, ser redistribuídas sem prejuízo dos direitos existentes, os quais serão salvaguardados nos termos dos artigos 40.º, 41.º e 42.º
+
+###### Artigo 2.º — (Aproveitamento hidráulico com componente agrícola)
+
+Nos aproveitamentos de fins múltiplos o presente regime apenas será aplicável às obras de fomento hidroagrícola neles integradas.
+
+###### Artigo 3.º — Aproveitamentos hidroeléctricos das obras
+
+A exploração dos aproveitamentos hidroeléctricos das obras subordina-se, sempre, às necessidades hidroagrícolas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 4.º — (Obras subsidiárias)
+
+Poderão ser consideradas obras subsidiárias das de fomento hidroagrícola e abrangidas total ou parcialmente nestas:
+
+a) As de regularização dos leitos e margens dos rios e outros cursos de água, dos lagos e das lagoas, quando se destinem a assegurar, completar ou melhorar a exploração das obras a que se refere o artigo 1.º;
+
+b) As de conservação do solo e da água para garantia dos caudais, defesa contra o assoreamento e protecção contra a erosão;
+
+c) As de defesa contra a acção do vento.
+
+###### Artigo 5.º — (Fases das obras)
+
+1 - Na execução e utilização das obras hidroagrícolas distinguem-se as fases seguintes:
+
+1.ª Concepção;
+
+2.ª Construção;
+
+3.ª Exploração.
+
+2 - A 3.ª fase a que se refere o número anterior subdivide-se em 2 períodos, sendo o primeiro de adaptação e o segundo de plena produção.
+
+#### Secção II — Classificação das obras
+
+###### Artigo 6.º — Grupos de obras
+
+As obras de que trata a secção precedente classificam-se nos quatro grupos seguintes:
+
+Grupo I - obras de interesse nacional visando uma profunda transformação das condições de exploração agrária de uma vasta região;
+
+Grupo II - obras de interesse regional com elevado interesse para o desenvolvimento agrícola da região;
+
+Grupo III - obras de interesse local com elevado impacte colectivo;
+
+Grupo IV - outras obras colectivas de interesse local.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 7.º — (Competência para a classificação das obras)
+
+1 - A classificação das obras nos grupos I e II é da competência do Conselho de Ministros, sob proposta do Ministro da Agricultura, Comércio e Pescas, tendo em conta o disposto no artigo 10.º
+
+2 - A classificação das obras nos grupos III e IV é da competência do Ministro da Agricultura, Comércio e Pescas, sob proposta da Direcção-Geral de Hidráulica e Engenharia Agrícola.
+
+### Capítulo II — Acção do Estado
+
+###### Artigo 8.º — (Atribuição por parte do Estado)
+
+Compete ao Estado, relativamente às obras de fomento hidroagrícola:
+
+a) Elaborar estudos e projectos e realizar as obras consideradas pelo Governo de grande interesse económico e social;
+
+b) Apoiar e promover a realização de outras obras pelas entidades interessadas, podendo, designadamente, prestar assistência técnica e financeira às associações de agricultores legalmente constituídas;
+
+c) Orientar, fiscalizar e, nos casos previstos no presente decreto-lei, efectuar a exploração e conservação das obras de modo que se tire delas a maior utilidade económica e social;
+
+d) Promover e melhoram a reestruturação da propriedade rústica e estimular a constituição de associações de agricultores, no sentido de aumentar o interesse económico e a utilidade social dos terrenos beneficiados ou a beneficiar;
+
+e) Assegurar a coordenação das obras com as actividades nos demais sectores de desenvolvimento económico e social com elas relacionadas, tendo em vista a valorização integral das regiões interessadas;
+
+f) Assistência técnica e financeira às explorações agrícolas interessadas.
+
+### Capítulo III — Concepção e construção das obras
+
+#### Secção I — Participação dos interessados
+
+###### Artigo 9.º — Iniciativa das obras
+
+1 - As obras dos grupos I e II são de iniciativa estatal.
+
+2 - As obras dos grupos III e IV são de iniciativa das autarquias e ou dos agricultores interessados em conjunto com os proprietários ou possuidores, podendo as do grupo III ser também de iniciativa estatal quando as mesmas se revistam de elevado interesse económico-social.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+#### Secção II — Concepção das obras
+
+##### Subsecção I — Das obras dos grupos I e II
+
+###### Artigo 10.º — Identificação dos projectos e realização dos estudos prévios das obras dos grupos I e II
+
+1 - A identificação dos projectos hidroagrícolas dos grupos I e II compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+2 - O início dos estudos prévios respeitantes a obras dos grupos I e II será determinado por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que estabelecerá o prazo para a sua apresentação pelo IHERA.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 11.º — Competência
+
+Compete ao IHERA a elaboração dos estudos prévios e dos projectos de execução e a construção das obras, incluindo estruturas hidráulicas primárias, centrais hidroeléctricas, regularização fluvial, rede de rega a jusante dos circuitos hidráulicos primários, redes de enxugo e drenagem, estações elevatórias respectivas, adaptação ao regadio, defesa e conservação do solo, rede viária agrícola e electrificação rural.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 12.º — Conteúdo dos estudos prévios
+
+1 - Os estudos prévios visam a definição do interesse hidroagrícola das obras, a avaliação da viabilidade económica, social e ambiental e a fixação das condições técnicas e financeiras de exequibilidade.
+
+2 - Os estudos prévios incluirão obrigatoriamente:
+
+a) Delimitação da zona a beneficiar, numa escala não inferior a 1:25000;
+
+b) Cartas temáticas relevantes para a caracterização de aptidão dos solos para o regadio;
+
+c) Definição do projecto agrícola e caracterização das unidades de exploração a estabelecer na zona a beneficiar;
+
+d) Indicação de todas as acções e estudos complementares necessários à execução e posterior utilização do empreendimento, nomeadamente reestruturação agrária e infra-estruturas de apoio;
+
+e) Preços mínimos e máximos aplicáveis às terras do sequeiro a beneficiar conforme a sua aptidão agrícola e preços mínimos e máximos aplicáveis ao regadio já existente à data do despacho a que se refere o artigo 10.º;
+
+f) Características técnicas, económicas e sociais do empreendimento;
+
+g) Avaliação do volume de água disponível para os diversos fins;
+
+h) Especificação dos investimentos públicos e privados necessários;
+
+i) Situação agrícola actual e sua potencialidade sem obra;
+
+j) Dados meteorológicos (30 anos), quando existentes;
+
+l) Estudo do regime dos cursos de água;
+
+m) Viabilidade económica e social do empreendimento, designadamente no que respeita à estimativa de custos e previsão dos encargos de conservação e exploração a suportar pelos beneficiários e ao levantamento das expectativas dos agricultores em relação à obra e inerentes acções de reestruturação agrária;
+
+n) Identificação dos principais impactes e condicionantes ambientais, devendo apresentar, se possível, soluções técnicas e de localização alternativas.
+
+3 - Após a sua conclusão pelo IHERA, os estudos prévios são objecto de parecer do INAG no âmbito do regime jurídico da utilização do domínio público hídrico.
+
+4 - Para os projectos sujeitos ao regime de avaliação de impacte ambiental, de acordo com o previsto no Decreto-Lei n.º 69/2000, de 3 de Maio, os estudos prévios deverão ser obrigatoriamente acompanhados de um estudo de impacte ambiental.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 13.º — Intervenção obrigatória do Conselho de Ministros
+
+Tendo em consideração os estudos prévios e após a audiência dos interessados nos termos do Código do Procedimento Administrativo, o Conselho de Ministros decidirá, sob proposta do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, a elaboração dos projectos de execução, classificando a obra, fixando a área de intervenção, que compreenderá todas as áreas susceptíveis de virem a ser áreas beneficiadas, o regime de construção, conservação e exploração, declarando a utilidade pública urgente dos empreendimentos e fixando a percentagem do respectivo custo a financiar a fundo perdido pelo Estado e o número de anos e a taxa de juros a considerar no reembolso do remanescente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 14.º — (Acordo com os agriculturas e seu objecto)
+
+O acordo com os agricultores abrangidos envolverá:
+
+a) A construção da obra;
+
+b) A aceitação das acções de reestruturação agrária previstas no estudo de viabilidade;
+
+c) A obrigação de amortizar o custo da obra nos termos deste decreto-lei sujeito ao disposto nos artigos 60.º e 61.º;
+
+d) A sua participação em associação de beneficiários, que terá por atribuição, além de outras que lhe forem conferidas no presente decreto-lei, no regulamento ou nos estatutos, a exploração e conservação das obras ou parte delas, ou suportar o respectivo encargo sempre que a exploração e conservação sejam da competência dos serviços públicos.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 15.º — (Forma e efeito do acordo com os agricultores)
+
+1 - O acordo de que trata o artigo anterior será promovido e celebrado em reunião convocada pela direcção regional de agricultura em cuja área de jurisdição se situe a maior parte dos terrenos a beneficiar.
+
+2 - O acordo só será relevante e vinculativo se em todos os pontos a que se reporta o artigo anterior convierem, por escrito, a maioria dos proprietários e a maioria das empresas agrícolas, representando, em ambos os casos, pelo menos 50% da área a beneficiar.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 16.º — (Participação ao Ministério da Agricultura, Comércio e Pescas)
+
+O resultado da reunião será comunicado ao Ministro da Agricultura, Comércio e Pescas, que, após decisão favorável do Conselho de Ministros, referida no artigo 13.º, determinará à direcção regional de agricultura que promova, conjuntamente com a Direcção-Geral de Hidráulica e Engenharia Agrícola, a criação da respectiva associação de beneficiários.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 17.º — Projectos de execução e relatório de conformidade ambiental
+
+1 - Os projectos de execução desenvolverão as premissas fixadas nos estudos prévios, estabelecendo as especificações técnicas a que as obras, as instalações e os equipamentos têm de subordinar-se, e conterão as peças escritas, os desenhos e as cartas com o detalhe necessário para a delimitação do perímetro hidroagrícola, os orçamentos, os programas de execução e os projectos dos regulamentos provisórios das obras e os respectivos planos de conservação e de exploração, bem como carta cadastral com implantação das infra-estruturas e identificação dos prédios e áreas a expropriar.
+
+2 - Para os projectos sujeitos ao regime de avaliação de impacte ambiental, será elaborado o respectivo relatório de conformidade ambiental do projecto de execução com a declaração de impacte ambiental, de acordo com o previsto no Decreto-Lei n.º 69/2000, de 3 de Maio.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 18.º — (Cadastro da propriedade)
+
+1 - Quando se trate de zonas ainda não submetidas ao regime de cadastro, o Instituto Geográfico e Cadastral executará os trabalhos topográficos necessários às plantas cadastrais, segundo os princípios adoptados no cadastro geométrico da propriedade rústica, podendo ser-lhe também dado o encargo da execução de outros trabalhos topográficos necessários à elaboração dos projectos e que, conduzidos simultaneamente com os dos levantamentos, sejam realizados mais economicamente.
+
+2 - Para efeitos do disposto no número anterior será dado conhecimento ao Instituto, com a possível antecedência, do perímetro das zonas a beneficiar e das datas em que os levantamentos deverão estar concluídos.
+
+3 - Se o Instituto Geográfico e Cadastral não tiver possibilidade de executar os trabalhos dentro do tempo conveniente, estes poderão ser efectuados pelas Direcções-Gerais de Hidráulica e Engenharia Agrícola e dos Recursos e Aproveitamentos Hidráulicos, segundo as normas do cadastro geométrico compatíveis com os estudos das obras, cabendo-lhes e aos seus funcionários, para esse efeito, competência e direitos iguais aos concedidos por lei ao Instituto Geográfico e Cadastral e respectivos funcionários para a realização dos trabalhos preparatórios de execução do cadastro.
+
+###### Artigo 19.º — Menções obrigatórias do projecto de regulamento provisório
+
+Do projecto de regulamento provisório constarão, além das disposições especiais que para cada caso devem ser fixadas:
+
+a) Descrição das obras ou blocos constituintes a que o mesmo regulamento é de aplicar;
+
+b) Custo total das obras, efectivo ou estimado, se aquele ainda não puder ser definitivamente fixado;
+
+c) Origens da água e plano da sua utilização, no caso de obras de rega ou mistas de defesa, enxugo e rega;
+
+d) Duração prevista para o primeiro período a que se refere o n.º 2 do artigo 5.º em relação ao conjunto das obras ou aos seus blocos constituintes;
+
+e) Valores dos padrões de rendimento ou de intensidade de exploração exigível para os diversos tipos de exploração cultural após a entrada da obra, ou dos seus blocos constituintes, em funcionamento, previstos para as duas fases referidas no n.º 2 do artigo 5.º;
+
+f) Prazo e juro fixados para a amortização da obra a que se refere o artigo 13.º;
+
+g) Progressão do valor da taxa de beneficiação, quando admitido;
+
+h) Critérios de repartição pelos utentes dos encargos anuais relativos à taxa de beneficiação;
+
+i) Direitos e obrigações dos utentes de água para fins não agrícolas;
+
+j) Especificação dos critérios nos quais se baseie a determinação da taxa de conservação e fixação do seu montante provisório.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2022-04-07
+
+###### Artigo 20.º — Aprovação dos projectos de execução
+
+1 - Os projectos de execução são aprovados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+2 - Com a aprovação do projecto de execução, é fixado o perímetro hidroagrícola, entrando o regulamento provisório da obra de aproveitamento hidroagrícola em vigor com a sua publicação no Diário da República, 2.ª série.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+##### Subsecção II — Das obras dos grupos III e IV
+
+###### Artigo 21.º — Apoio técnico e financeiro
+
+1 - Qualquer grupo ou associação de agricultores, por si ou através das autarquias locais, pode solicitar o apoio técnico e ou financeiro do Estado para a execução das obras dos grupos III e IV, em requerimento dirigido ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo do disposto no n.º 2 do artigo 9.º
+
+2 - O requerimento será apresentado na direcção regional de agricultura da zona onde se situe a maior parte das terras a beneficiar, acompanhado de documento justificativo em que se delimite a área a beneficiar, se exponham as razões que o fundamentam e se assuma a expressa responsabilidade dos requerentes pela exploração e conservação, bem como pela percentagem do custo das obras que não venha a ser financiada a fundo perdido.
+
+3 - O apoio técnico e financeiro solicitado ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas será objecto de contrato-programa nos termos da legislação em vigor.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 22.º — (Indeferimento inicial de requerimentos)
+
+O requerimento não terá seguimento sempre que não venha acompanhado dos elementos a que se refere o n.º 2 do artigo anterior ou, quando apresentados, dos mesmos resulte a manifesta inviabilidade económica das obras pretendidas e, bem assim, se os requerentes não se tiverem responsabilizado nos termos do mesmo preceito.
+
+###### Artigo 23.º — Esclarecimentos complementares
+
+1 - Quando os elementos constantes do documento justificativo não permitam tirar conclusões quanto ao interesse da obra pretendida, o director regional de agricultura a que se refere o n.º 2 do artigo 21.º determinará que se proceda, no âmbito do contrato-programa previsto no artigo 21.º, n.º 3, aos necessários estudos prévios.
+
+2 - Sempre que a natureza dos estudos prévios a que se refere o n.º 1 o implique, serão os mesmos efectuados pelo IHERA ou com a colaboração deste a solicitação do director regional de agricultura.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 24.º — (Remessa dos processos para aprovação)
+
+Permitindo os documentos prever o interesse das obras ou terminados os estudos a que se refere o artigo anterior, serão os processos remetidos para aprovação à Direcção-Geral de Hidráulica e Engenharia Agrícola, acompanhados de proposta quanto à classificação das obras nos grupos III e IV e quanto à entidade a quem deve competir a elaboração dos respectivos projectos de execução, quando os mesmos não tenham acompanhado o requerimento.
+
+###### Artigo 25.º — Acções complementares
+
+Quando, por motivos de ordem técnica, se verifique que a obra pretendida deverá beneficiar zona que exceda a representada pelos requerentes, o requerimento só terá seguimento desde que a alteração proposta mereça o acordo destes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 26.º — Entidade competente para aprovação dos projectos e seus encargos
+
+1 - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta fundamentada da DRA, decidirá da execução das obras e da sua classificação, determinando, quando necessário, qual a entidade a quem competirá a elaboração dos respectivos projectos de execução, e fixará a percentagem do custo das obras a financiar a fundo perdido pelo Estado.
+
+2 - Da proposta a submeter ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pela DRA constará o parecer do IHERA sobre a matéria da sua competência e do INAG.
+
+3 - Aos estudos prévios e projectos de execução das obras dos grupos III e IV é aplicável, com as necessárias adaptações, o disposto nos artigos 12.º e seguintes para as obras dos grupos I e II.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 27.º — (Projecto de execução)
+
+A aprovação dos projectos de execução é da competência do Ministro da Agricultura, Comércio e Pescas.
+
+#### Secção III — Construção das obras
+
+##### Subsecção I — Das obras dos grupos I e II
+
+###### Artigo 28.º — Competência para a construção das obras
+
+Compete ao IHERA promover a construção das obras dos grupos I e II, de acordo com o estabelecido no artigo 11.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+##### Subsecção II — Das obras do grupo III
+
+###### Artigo 29.º — (Responsabilidade de execução das obras)
+
+1 - A construção das obras do grupo III é da responsabilidade do serviço que houver elaborado o respectivo projecto de execução ou daquele que o Ministro da Agricultura, Comércio e Pescas determinar no despacho que aprovar o projecto de execução, ainda quando o mesmo haja sido entregue pelos requerentes.
+
+2 - Quando a construção das obras seja da responsabilidade de uma direcção regional de agricultura, esta será apoiada pela Direcção-Geral de Hidráulica e Engenharia Agrícola.
+
+##### Subsecção III — Das obras do grupo IV
+
+###### Artigo 30.º — (Competências para a construção das obras)
+
+1 - A construção das obras do grupo IV compete, em princípio, ao serviço que houver elaborado o respectivo projecto de execução ou àquele que o Ministro da Agricultura, Comércio e Pescas determinar, quando o projecto de execução haja sido entregue pelos requerentes.
+
+2 - Quando a simplicidade das obras o permita, pode o Ministro da Agricultura, Comércio e Pescas autorizar que as mesmas, ou parte delas, sejam directamente executadas pelos requerentes, a pedido destes e sob fiscalização e apoio técnico do serviço competente.
+
+#### Secção IV — Disposições gerais
+
+###### Artigo 31.º — (Direito e obrigação de rega nas obras dos grupos I e II)
+
+As obras dos grupos I e II e as subsidiárias destas pertencem ao domínio público, mas o direito e obrigação de regar atribuídos a cada prédio ficarão nele incorporados e serão dele inseparáveis para efeitos de transmissão.
+
+###### Artigo 32.º — (Expropriações por utilidade pública)
+
+Para a realização das obras dos grupos I e II e subsidiárias destas, nomeadamente para efeitos de reestruturação agrária, podem ser expropriados por utilidade pública, nos termos da legislação aplicável, os prédios rústicos e urbanos, as águas particulares, os direitos que lhes sejam inerentes, num e noutro caso, e os direitos adquiridos sobre águas públicas.
+
+###### Artigo 33.º — Declaração de utilidade pública
+
+O regime estabelecido nos artigos anteriores é extensivo às obras dos grupos III e IV quando, caso a caso, seja declarada a utilidade pública do empreendimento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 34.º — Competência para expropriações
+
+As expropriações de que tratam o artigo 32.º competirão ao IHERA, e as do artigo 33.º àquele Instituto ou à DRA respectiva, consoante for determinado pelo MADRP nos termos do n.º 1 do artigo 26.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 35.º — Obrigações dos proprietários ou possuidores de terras nas áreas das obras
+
+1 - Os proprietários ou possuidores legítimos de terrenos em que tenha de proceder-se a estudos ou trabalhos preparatórios, levados a cabo por entidades públicas, das obras de fomento agrícola e subsidiárias destas ou de terrenos que lhes derem acesso ficam obrigados a consentir na ocupação destes terrenos, na passagem através deles e no desvio de águas e de vias de comunicação enquanto durarem os referidos estudos ou trabalhos.
+
+2 - Excepto no caso de simples passagem através dos terrenos, a obrigação a que o n.º 1 se refere só se efectiva 15 dias após notificação pelos serviços, na qual se informe da necessidade de ocupação dos terrenos e desvio de águas ou de vias de comunicação e se convidem os interessados a dar o seu parecer, dentro daquele prazo, sobre a melhor forma de realizar os trabalhos com o menor prejuízo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 36.º — (Outras obrigações de proprietários ou possuidores de terras)
+
+O disposto no artigo anterior aplica-se igualmente aos proprietários e possuidores legítimos de terrenos necessários aos trabalhos de execução das obras, quando esses terrenos não devam ser expropriados ou enquanto se não tiver efectuado a sua expropriação.
+
+###### Artigo 37.º — (Indemnizações)
+
+1 - Os proprietários e possuidores a que se referem os 2 artigos anteriores têm direito a ser indemnizados pelos prejuízos efectivamente causados pelos estudos e trabalhos.
+
+2 - Tais indemnizações serão fixadas, dentro do prazo de 6 meses, por acordo entre os interessados e a entidade que efectuou os mesmos estudos e trabalhos ou, na falta de acordo, por uma comissão arbitral composta de 3 peritos, sendo um nomeado pelo proprietário ou possuidor, outro pelo serviço público interessado e o terceiro escolhido por aqueles ou designado pelo juiz de direito da comarca a requerimento de qualquer das partes.
+
+3 - As decisões das comissões arbitrais serão tomadas por maioria ou, não sendo possível obter uma decisão arbitral por unanimidade ou maioria, valerá como tal a média aritmética dos laudos que mais se aproximarem.
+
+4 - Da decisão haverá recurso para os tribunais, nos termos da legislação geral sobre expropriação por utilidade pública.
+
+###### Artigo 38.º — (Imputação das indemnizações)
+
+A importância de todas as indemnizações a que as acções previstas nesta secção derem lugar será incluída no custo das obras.
+
+###### Artigo 39.º — (Impossibilidade de embargo das obras)
+
+Os trabalhos e obras de fomento hidroagrícola dos grupos I e II e, bem assim, os do grupo III, quando haja sido declarada a sua utilidade pública, não podem em caso algum ser embargados nem a sua execução ser interrompida por sentença ou despacho judicial ou administrativo.
+
+###### Artigo 40.º — (Águas particulares - sua incorporação)
+
+As águas particulares ou sobre as quais tenham sido adquiridos direitos fundados em justo título e adstritas a regadios existentes, quando aproveitadas para as obras de fomento hidroagrícola e uma vez concluídas estas, ficarão incorporadas, para todos os efeitos legais, no novo aproveitamento, com as suas obras de captação e derivação, sendo reconhecido, porém, aos respectivos proprietários e consortes o direito à sua antiga utilização, nos termos dos artigos seguintes.
+
+###### Artigo 41.º — (Critério da atribuição de água aos regadios já existentes)
+
+O caudal de água considerado em efectivo aproveitamento em cada uma das levadas, valas, canais, aquedutos ou aproveitamentos particulares será determinado pelo serviço competente, para a elaboração do projecto de execução, segundo os critérios adoptados para a fixação do caudal dos novos aproveitamentos e repartido por cada um dos utentes na proporção de tempo de rega que na data actual lhe pertencer.
+
+###### Artigo 42.º — Isenção de taxa de beneficiação e redução da taxa de exploração
+
+1 - Fixado pelo modo indicado no artigo anterior o direito de cada proprietário ou consorte, é reconhecida a cada um dos utentes a faculdade de regar com isenção do pagamento da taxa de beneficiação e de redução da taxa de exploração da obra uma área de terreno que será determinada em função do respectivo caudal e da dotação de rega que for fixada para a área de regadio em que estiver situado o prédio.
+
+2 - Se em consequência da repartição referida no artigo anterior couber ao utente água que exceda as necessidades de regadio dos seus terrenos, determinadas de harmonia com o critério estabelecido no projecto da obra, ou se aquele não tiver terrenos em condições de serem irrigados, poderá ser expropriado o excesso de água ou toda a água, conforme a situação verificada.
+
+3 - Para os efeitos do n.º 1, a taxa de exploração será reduzida em função do valor médio do respectivo caudal.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 43.º — Cadastro das áreas isentas de taxa de beneficiação
+
+Quando a área do terreno a regar com isenção do pagamento da taxa de beneficiação não abranger a totalidade de um prédio e ficar uma parte sujeita ao pagamento desse encargo, serão as duas parcelas discriminadas no respectivo cadastro das propriedades.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 44.º — (Utilização e conservação de obras particulares)
+
+Não será devida indemnização pela utilização para a condução das águas de rega ou de enxugo, dos canais, levadas e valas de consortes ou particulares disponíveis, mas a sua conservação ficará, neste caso, a cargo da entidade à qual couber a exploração e conservação das obras.
+
+###### Artigo 45.º — Redução dos encargos de conservação e de exploração
+
+A todos ou alguns dos antigos consortes ou proprietários de águas incorporadas em novos aproveitamentos poderão ser fixadas taxas de conservação e de exploração inferiores às dos novos regantes, em atenção às condições mais favoráveis em que anteriormente aproveitavam as suas águas..
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 46.º — (Redistribuição de águas afectas a regadios existentes)
+
+As águas afectas a regadios existentes que sejam afins de obras de fomento hidroagrícola a fio de água ou que com elas interfiram podem ser redistribuídas em conformidade com os horários estabelecidos nestas obras, mas sem prejuízo dos direitos adquiridos, que serão salvaguardados nos termos dos artigos 41.º e 42.º, salvo em épocas de escassez, em que a redistribuição poderá ser feita nos termos em que os interessados acordem ou, na falta de acordo, pela forma que for estabelecida pelo Governo.
+
+### Capítulo IV — Exploração e conservação das obras
+
+### A) Entidades a quem compete a exploração e conservação das obras
+
+###### Artigo 47.º — Exploração e conservação das obras no aspecto global
+
+1 - A conservação e exploração das obras de aproveitamento hidroagrícola são da responsabilidade das entidades a quem tiver sido atribuída a respectiva concessão, nos termos do presente diploma, sem prejuízo das atribuições conferidas por lei ao IHERA e às DRA nas obras dos grupos I e II e às DRA nas obras do grupo III.
+
+2 - A exploração e conservação das obras do grupo IV é da exclusiva responsabilidade dos beneficiários respectivos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 48.º — Exploração e conservação das obras a cargo do IHERA
+
+Serão efectuadas pelo IHERA a exploração e conservação das obras na parte em que os respectivos regulamentos lhe atribuam essa competência.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+### B) Exploração pelos beneficiários
+
+#### Secção I — Das obras dos grupos I e II
+
+###### Artigo 49.º — Participação das associações de beneficiários
+
+Determinada a elaboração do projecto de execução de uma obra dos grupos I, II e III, a DRA em cuja área de jurisdição se situe a maior parte dos terrenos a beneficiar, em conjunto com o IHERA, apoiará a constituição de uma associação de beneficiários e promoverá a sua audição nas componentes do projecto que lhe digam directamente respeito.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 50.º — (Representante do Estado)
+
+Junto de cada associação de beneficiários actuará um representante do Estado sempre e enquanto não for integralmente efectuado o reembolso a que se refere o artigo 13.º
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 51.º — (Nomeação e atribuições do representante do Estado)
+
+O representante do Estado será um engenheiro agrónomo, nomeado pelo Ministro da Agricultura, Comércio e Pescas, sob proposta do director regional de agricultura respectivo, ouvido o director-geral de Hidráulica e Engenharia Agrícola, e terá como principais atribuições a vigilância dos interesses do Estado e do interesse público, cabendo-lhe o direito e a obrigação de suspender as deliberações dos órgãos das associações de beneficiários que sejam contrárias à lei, aos estatutos e aos interesses que representa.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+#### Secção II — Das obras do grupo III
+
+###### Artigo 52.º — Criação das juntas de agricultores ou cooperativas de rega
+
+1 - Aprovado o projecto de execução de uma obra do grupo IV entregue pelos requerentes nos termos do artigo 21.º, a DRA respectiva promoverá, no prazo de 60 dias, uma reunião para a qual serão convocados todos os empresários agrícolas e os proprietários dos prédios situados na zona beneficiada, quer tenham sido ou não requerentes da obra.
+
+2 - A reunião de que trata o número anterior será presidida pelo director regional de agricultura, ou um seu representante, e destina-se à eleição de uma junta de agricultores que, em representação de todos os beneficiários, assegure a exploração e conservação da obra, se não deliberarem constituir-se em associação de forma cooperativa - cooperativa de rega - ou integrar-se numa associação de beneficiários já existente.
+
+3 - A reunião só pode funcionar validamente desde que estejam presentes ou representados dois terços dos requerentes da obra, mas as deliberações tomadas a todos vinculam.
+
+4 - Não podendo a reunião funcionar, far-se-á nova convocatória; voltando a verificar-se falta de participação, do facto será dado conhecimento ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que resolverá sobre a conclusão dos projectos de execução.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 53.º — (Juntas de agricultores ou cooperativas de rega)
+
+A reunião de que trata o artigo anterior será presidida pelo director regional de agricultura, ou um seu representante, e destina-se à eleição de uma junta de agricultores que, em representação de todos os beneficiários, assegure a exploração e conservação da obra, se não deliberarem constituir-se em associação de forma cooperativa-cooperativa de rega ou integrar-se numa associação de beneficiários já existente.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+#### Secção III — Das obras do grupo IV
+
+###### Artigo 54.º — (Exploração e conservação)
+
+A exploração e conservação das obras do grupo IV é da exclusiva responsabilidade dos beneficiários respectivos.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+### C) Atribuições da Direcção-Geral de Hidráulica e Engenharia Agrícola
+
+###### Artigo 55.º — Atribuições do IHERA
+
+Sem prejuízo das competências estabelecidas no presente diploma e das que lhe forem reservadas pelo contrato de concessão, o IHERA tem as seguintes atribuições em matéria de conservação e exploração das obras de aproveitamento hidroagrícola:
+
+a) Elaborar os projectos de regulamentos definitivos das obras dos grupos I, II e III e submetê-los à aprovação do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;
+
+b) Receber das entidades a quem tenha sido atribuída, nos termos do presente diploma, a responsabilidade pela sua construção as partes das obras dos grupos I, II e III e promover a outorga do respectivo contrato de concessão, nas condições previstas nos regulamentos respectivos;
+
+c) Submeter à aprovação do Governo, a partir da entrada no segundo período a que se refere o n.º 2 do artigo 5.º, a taxa de beneficiação para as diferentes obras de aproveitamento hidroagrícola, tendo em conta o estipulado no regime financeiro deste diploma;
+
+d) Propor ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas a revisão das taxas de beneficiação sempre que se verifiquem importantes alterações nas bases em que assentou a respectiva fixação;
+
+e) Propor ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas a taxa de conservação e dar parecer sobre a taxa de exploração;
+
+f) Explorar e conservar as obras concluídas e liquidar e cobrar taxas de exploração e de conservação, enquanto não for outorgado o respectivo contrato de concessão, em conjunto ou por blocos;
+
+g) Promover a declaração de entrada das obras dos grupos I, II e III ou blocos delas no primeiro e segundo períodos a que se refere o n.º 2 do artigo 5.º;
+
+h) Gerir o contrato de concessão, zelando pelo cumprimento de todas as obrigações dos concessionários e praticando todos os actos nele previstos;
+
+i) Promover a inclusão e exclusão de áreas nas zonas beneficiadas pelas obras de aproveitamento hidroagrícola, quando assim for aconselhável;
+
+j) Dar parecer sobre os projectos das novas utilizações de águas públicas nas bacias hidrográficas a montante das obras de aproveitamento hidroagrícola realizados pelo Estado que tenham implicações directas na gestão destes aproveitamentos;
+
+l) Conceder subsídios às associações de beneficiários e a outros órgãos de gestão de perímetros de rega em situações absolutamente anormais resultantes da persistência de situações climáticas extremas que ponham em causa as condições de conservação e exploração das obras.
+
+m) Promover a exploração de centrais hidroeléctricas inseridas nas obras de aproveitamento hidroagrícola, por forma que se retire dessas centrais o rendimento mais consentâneo com o interesse do aproveitamento;
+
+n) Propor para as diferentes obras de aproveitamento hidroagrícola que o aconselhem a elaboração de planos de desenvolvimento económico que dependam da acção conjugada dos vários sectores da Administração Pública;
+
+o) Promover a elaboração de estudos e projectos, bem como a execução e fiscalização das obras que visem a melhoria dos aproveitamentos hidroagrícolas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+### D) Atribuições das direcções regionais de agricultura
+
+###### Artigo 56.º — Atribuições das DRA
+
+As DRA têm as seguintes atribuições em matéria de exploração e conservação das obras de aproveitamento hidroagrícola:
+
+a) Receber do IHERA as obras ou partes das obras do grupo IV cuja execução tenha cabido àquele Instituto e entregá-las às entidades que devam explorá-las e conservá-las;
+
+b) Entregar as obras, ou parte delas, do grupo IV cuja execução lhes tenha cabido às entidades que devam explorá-las e conservá-las;
+
+c) Superintender na conservação e exploração das obras do grupo IV, formulando as recomendações convenientes, respondendo às consultas recebidas e assegurando a necessária assistência técnica;
+
+d) Assistir tecnicamente os beneficiários das obras do grupo IV, sempre que para isso solicitadas;
+
+e) Propor ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas a suspensão das atribuições das juntas de agricultores ou da actividade das cooperativas de rega quando se verifiquem deficiências ou falta de diligência na sua actuação que ponham em risco a exploração e conservação das obras e dar parecer sobre os requerimentos de suspensão apresentados pelos beneficiários;
+
+f) Exercer, até eleição de novas juntas, as atribuições das juntas suspensas;
+
+g) Aprovar os orçamentos e as contas anuais apresentados pelas juntas de agricultores;
+
+h) Conceder, procedendo o despacho ministerial de autorização e mediante proposta devidamente fundamentada, subsídios, quando para tal habilitadas, às juntas de agricultores, às cooperativas de rega e aos beneficiários das obras do grupo IV, destinados a financiar as despesas fortuitas ou extraordinárias com a exploração e conservação das obras;
+
+i) Realizar todos os actos da competência do IHERA em relação às obras do grupo III que por este lhes venham a ser consignados mediante protocolo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+### Capítulo V — Financiamento e regime financeiro
+
+#### Secção I — Financiamento
+
+###### Artigo 57.º — (Financiamento das obras dos grupos I e II)
+
+1) O custo das obras dos grupos I e II será Integralmente financiado pelo Estado.
+
+2) O Estado participará, a fundo perdido, no custo de cada obra dos grupos I e II na percentagem fixada pelo Conselho de Ministros, nos termos do artigo 13.º
+
+3) O valor não participado do custo da obra será reembolsado pelos beneficiários respectivos, nas condições de prazo e juro igualmente fixados nos termos do artigo 13.º, mediante o pagamento da taxa a que se referem os artigos 61.º e seguintes.
+
+###### Artigo 58.º — (Participação do Estado no financiamento das obras do grupo III)
+
+O custo das obras do grupo III será directamente financiado pelo Estado, a fundo perdido, na percentagem fixada pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, nos termos do artigo 26.º
+
+###### Artigo 59.º — Financiamento pelo Estado das obras do grupo IV
+
+As obras do grupo IV serão financiadas directamente pelo Estado quando seja reconhecido o seu interesse social, caso em que se aplicará o disposto no artigo anterior para as obras do grupo III.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 60.º — (Eventual participação do Estado nas obras dos grupos III e IV)
+
+Os beneficiários das obras dos grupos III e IV poderão recorrer ao crédito, nas condições fixadas neste diploma e legislação complementar.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+#### Secção II — Regime financeiro
+
+##### Subsecção I — Taxa de beneficiação
+
+###### Artigo 61.º — Taxa de beneficiação das obras
+
+1 - O Estado cobrará dos beneficiários de cada obra hidroagrícola dos grupos I, II e III uma taxa anual, denominada «taxa de beneficiação», destinada ao reembolso da percentagem do seu custo não participado a fundo perdido.
+
+2 - Para os efeitos do número anterior, são considerados beneficiários os proprietários ou possuidores legítimos de prédios rústicos situados na zona beneficiada, os utilizadores industriais directos da respectiva obra e as autarquias locais consumidoras de água pela mesma fornecida.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 62.º — (Condições de cobrança da taxa de beneficiação)
+
+A taxa de beneficiação será cobrada, para toda a obra ou para as parcelas concluídas, a partir da entrada no 2.º período a que se refere o n.º 2 do artigo 5.º, podendo ser progressiva no período inicial da exploração, e será devida até ao integral reembolso ao Estado fixado nos termos do artigo 13.º
+
+###### Artigo 63.º — Repartição de encargos relativos à taxa de beneficiação
+
+1 - Na repartição dos encargos anuais relativos à taxa de beneficiação pelos beneficiários, deverá atender-se nomeadamente à área beneficiada, dotações e consumos de água, ao interesse económico e social das culturas, à valorização dos prédios e das produções e às condições efectivas de rega e enxugo verificadas, bem como à taxa de beneficiação fixada para os utilizadores industriais directos e autarquias locais nos termos do número seguinte.
+
+2 - A taxa de beneficiação para os utilizadores industriais directos e autarquias locais, consumidores de água pela mesma fornecida, é calculada na proporção do volume consumido e da garantia de fornecimento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 64.º — Entidade responsável pela liquidação da taxa de beneficiação
+
+A liquidação da taxa de beneficiação será feita pela entidade responsável pela conservação e exploração da obra.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 65.º — Afixação dos mapas da taxa de beneficiação
+
+1 - Para efeitos de reclamação, a liquidação da taxa deverá ser precedida da afixação dos respectivos mapas até à data que for determinada no regulamento.
+
+2 - As reclamações serão dirigidas à entidade responsável pela conservação e exploração da obra no prazo de 15 dias a contar da afixação dos mapas, devendo ser todas resolvidas nos 90 dias seguintes.
+
+3 - Das deliberações que desatendam as reclamações haverá recurso, nos termos gerais de direito.
+
+4 - As reclamações e recursos sobre liquidação da taxa de beneficiação não terão efeito suspensivo; sendo obtido provimento, far-se-á, no primeiro pagamento posterior à decisão final que vier a ser tomada a dedução correspondente ao que tiver sido cobrado em excesso.
+
+5 - Os mapas de liquidação da taxa de beneficiação serão, logo que concluído o prazo de reclamação, remetidos às secções de finanças dos concelhos respectivos para efeitos de cobrança.
+
+6 - Na falta de pagamento voluntário da taxa de beneficiação no prazo de 30 dias, contado do termo do prazo para reclamação, será a cobrança efectuada coercivamente pelos tribunais das execuções fiscais.
+
+7 - O encargo do pagamento da taxa de beneficiação constitui ónus sujeito a registo, nos termos e para os efeitos previstos no Código do Registo Predial.
+
+8 - Quando se trate de áreas nacionalizadas, o Instituto de Gestão e Estruturação Fundiária providenciará no sentido de o Estado ser reembolsado da importância correspondente à taxa de beneficiação.
+
+9 - Constitui receita da Direcção-Geral de Hidráulica e Engenharia Agrícola uma percentagem da taxa de beneficiação fixada pelo Governo e destinada a satisfazer os encargos resultantes do disposto na alínea l) do artigo 55.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+##### Subsecção II — Taxa de exploração e conservação
+
+###### Artigo 66.º — Taxa de conservação
+
+1 - Pelos prédios e parcelas beneficiados pelas obras de aproveitamento hidroagrícolas, é devida pelos proprietários ou usufrutuários uma taxa de conservação anual por hectare beneficiado.
+
+2 - A taxa de conservação destina-se exclusivamente a cobrir os custos de conservação das infra-estruturas e será fixada nos regulamentos provisório e ou definitivo, previstos no n.º 2 do artigo 20.º e na alínea a) do artigo 55.º do presente diploma, ficando sujeita a revisão anual por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2022-04-07
+
+###### Artigo 67.º — Taxa de exploração
+
+1 - Pela utilização da obra, é devida pelos regantes beneficiários e utentes precários uma taxa de exploração em função do volume de água utilizado.
+
+2 - A taxa de exploração destina-se exclusivamente a cobrir os custos de gestão e exploração da obra, incluindo os custos de utilização da água previstos no Decreto-Lei n.º 47/94, de 22 de Fevereiro, e é proposta anualmente pela entidade responsável pela exploração da obra de aproveitamento hidroagrícola e aprovada pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, após parecer do IHERA.
+
+3 - A taxa de exploração para utentes precários agrícolas é agravada.
+
+4 - Os proprietários ou usufrutuários são solidariamente responsáveis pelo pagamento da taxa de exploração.
+
+5 - Nos aproveitamentos de fins múltiplos, a taxa de exploração compreenderá ainda os custos estabelecidos para o fornecimento de água a partir das redes posicionadas a montante da obra, incluindo os que resultarem do regime previsto no Decreto-lei n.º 47/94, de 22 de Fevereiro.
+
+6 - Até à outorga do contrato de concessão, é fixada uma taxa provisória pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do IHERA.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2022-04-07
+
+###### Artigo 68.º — Liquidação e cobrança das taxas de conservação e de exploração
+
+A liquidação e a cobrança das taxas de conservação e de exploração serão realizadas pela entidade responsável pela exploração da obra de aproveitamento hidroagrícola e cobradas a partir da disponibilização da água para rega.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2022-04-07
+
+###### Artigo 69.º — Afixação dos mapas da taxa de exploração e conservação
+
+1 - Para os efeitos de reclamação, a liquidação das taxas de conservação e de exploração deverá ser precedida da afixação dos respectivos mapas até à data que for determinada no regulamento de cada obra.
+
+2 - As reclamações serão dirigidas à direcção da entidade responsável pela conservação e exploração da obra no prazo de 15 dias a contar da afixação dos mapas.
+
+3 - Das deliberações que desatendam as reclamações haverá recurso, nos termos gerais de direito.
+
+4 - As reclamações e recursos sobre a liquidação das taxas de conservação e de exploração não terão efeito suspensivo; sendo obtido provimento, far-se-á, no primeiro pagamento posterior à decisão final que vier a ser tomada, a dedução correspondente ao que tiver sido cobrado em excesso.
+
+5 - Na falta de pagamento voluntário das taxas de conservação e de exploração no prazo de 30 dias contado do termo do prazo para reclamações, serão cobrados coercivamente pelos tribunais das execuções fiscais, revertendo ainda a favor da respectiva entidade responsável pela conservação e exploração, 50% dos juros de mora devidos.
+
+6 - O encargo do pagamento das taxas de conservação e de exploração constitui ónus sujeito a registo, nos termos e para os efeitos previstos no Código do Registo Predial.
+
+7 - Quando se trate de áreas nacionalizadas, o IHERA providenciará no sentido de reembolsar a entidade responsável pela conservação e gestão da importância correspondente às taxas em dívida.
+
+8 - Constitui receita do IHERA uma percentagem das taxas de conservação e de exploração fixada pelo Governo e destinada a satisfazer os encargos resultantes da alínea l) do artigo 55.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+##### Subsecção III — Taxa de exploração e conservação para actividades não agrícolas
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 69.º-A — Taxa de conservação e exploração para actividades não agrícolas
+
+1 - A utilização da obra hidroagrícola para fins não agrícolas não pode, excepto quando se trate de abastecimento público, prejudicar a satisfação de todas as necessidades das áreas beneficiadas, sendo devida uma taxa de conservação e exploração nos termos a fixar pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, por proposta do IHERA.
+
+2 - É aplicável à taxa de conservação e exploração para actividades não agrícolas o regime estabelecido na subsecção anterior, sendo a mesma devida a partir do início da actividade.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+### Capítulo VI — Regime das zonas beneficiadas
+
+### A) Cadastro das obras
+
+###### Artigo 70.º — (Cadastro obrigatório das áreas beneficiadas)
+
+1 - A organização ou revisão do cadastro das terras abrangidas pelas obras de fomento hidroagrícola a cargo do Instituto Geográfico e Cadastral deverá estar concluída até ao fim da 2.ª fase a que se refere o artigo 5.º, com base nos elementos que para o efeito lhe serão oportunamente fornecidos pelas Direcções-Gerais de Hidráulica e Engenharia Agrícola e dos Recursos e Aproveitamentos Hidráulicos.
+
+2 - Nos casos em que houver necessidade de proceder ao levantamento de plantas parcelares e à colheita de elementos cadastrais aplicar-se-á o disposto no artigo 18.º
+
+###### Artigo 71.º — (Elementos cadastrais - sua reclamação)
+
+1 - Os elementos cadastrais serão postos em reclamação pelas entidades responsáveis pela exploração e conservação das obras de fomento hidroagrícola ou por quem as substitua, as quais terão competência equivalente à conferida às juntas cadastrais concelhias, nos termos e para os efeitos estabelecidos no Decreto-Lei n.º 36505, de 11 de Setembro de 1947, que aprovou a organização dos serviços de avaliação do cadastro geométrico da propriedade rústica.
+
+2 - Além dos elementos cadastrais, constitui fundamento de reclamação a inclusão do prédio no perímetro ou a sua exclusão dele.
+
+###### Artigo 72.º — (Apreciação das reclamações)
+
+Para efeitos de apreciação e julgamento das reclamações e recursos respeitantes ao cadastro das obras hidroagrícolas, farão parte do conselho de cadastro, que funciona junto do Instituto Geográfico e Cadastral, representantes das Direcções-Gerais de Hidráulica e Engenharia Agrícola e dos Recursos e Aproveitamentos Hidráulicos e da entidade a quem compete a exploração e conservação da respectiva obra.
+
+###### Artigo 73.º — Remessa das decisões sobre as reclamações às entidades competentes
+
+Resolvidas as reclamações e recursos, o Instituto Português de Cartografia e Cadastro (IPCC) enviará à Direcção-Geral dos Impostos e ao IHERA os elementos cadastrais a transmitir por este último às entidades responsáveis pela conservação e exploração, nomeadamente para os efeitos da elaboração dos mapas de liquidação das taxas de beneficiação, de conservação e de exploração, de acordo com os regulamentos respectivos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 74.º — (Inscrição de prédios na secção de finanças)
+
+1 - A secção de finanças procederá à inscrição dos prédios ou à correcção das inscrições efectuadas, de harmonia com os elementos recebidos.
+
+2 - No caso de os prédios serem beneficiados apenas em parte, far-se-á a inscrição do todo sob o mesmo número, com especificação das duas partes.
+
+3 - Da matriz predial deverá constar o número atribuído no cadastro a cada prédio ou parcela beneficiada.
+
+###### Artigo 75.º — Efeitos da inscrição dos prédios para fins fiscais
+
+1 - Efectuadas as inscrições dos prédios na matriz ou as necessárias correcções, nos termos dos artigos anteriores, as secções de finanças comunicarão às entidades responsáveis pela conservação e exploração os números de inscrição e o rendimento colectável dos prédios para serem transcritos no registo cadastral.
+
+2 - Recebida a comunicação, as entidades referidas no n.º 1 requererão à conservatória do registo predial competente a descrição dos prédios abrangidos no cadastro e a inscrição, a favor do Estado, do ónus a que se referem o n.º 7 do artigo 65.º e o n.º 6 do artigo 69.º
+
+3 - Os requerimentos serão instruídos com certidão de teor da inscrição matricial dos respectivos prédios e com certidão extraída do cadastro previsto no artigo 65.º
+
+4 - Se os prédios já estiverem descritos, deverá a descrição ser actualizada, oficiosamente, de harmonia com as operações resultantes do cadastro, desde que se mostrem confirmadas pela certidão da respectiva inscrição matricial.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 76.º — Nota de registo
+
+1 - Efectuado o registo, os conservadores enviarão às entidades responsáveis pela conservação e exploração a correspondente nota.
+
+2 - A nota do registo substituirá a passagem do certificado.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 76.º-A
+
+1 - A exclusão de prédios ou parcelas de prédios das áreas beneficiadas por obras de fomento hidroagrícola e consequente desafectação da Reserva Agrícola Nacional só pode ser efectuada por despacho do Ministro da Agricultura, na sequência de proposta da Direcção-Geral de Hidráulica e Engenharia Agrícola (DGHEA) instruída com parecer da respectiva Comissão Regional da Reserva Agrícola.
+
+2 - O despacho de exclusão previsto no número anterior fixará o montante compensatório, cujo efectivo pagamento pelo interessado constitui condição da sua eficácia.
+
+3 - Para a fixação do montante compensatório, que constitui receita própria da DGHEA, ter-se-á em atenção o custo, por hectare beneficiado, das obras de fomento hidroagrícola e das obras subsidiárias, devidamente actualizado em função do índice de preços no consumidor estabelecido pelo Instituto Nacional de Estatística.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 69/92 - Diário da República n.º 97/1992, Série I-A de 1992-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1992-217475), em vigor a partir de 1992-05-02
+
+### B) Obrigação da rega e economia de exploração
+
+###### Artigo 77.º — Aquisição de terras pelo Estado
+
+1 - Até ao início da 3.ª fase a que se refere o artigo 5.º, os prédios situados na zona a beneficiar pelas obras de fomento hidroagrícola poderão ser adquiridos pelo Estado pelo valor de antes das obras, mediante requerimento dos respectivos proprietários.
+
+2 - Após a tomada de decisão de construção das obras, o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas tornará públicos os preços máximos a aplicar às terras do sequeiro a beneficiar e ao regadio já existente à data do despacho a que se refere o artigo 10.º, para os efeitos da aquisição dos terrenos referidos no n.º 1, tendo em conta, nomeadamente, os estudos prévios.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 78.º — (Faculdade de expropriação de terras beneficiadas)
+
+1 - Após a entrada da obra, ou dos seus blocos constituintes, no período designado de plena produção, o Governo fica com a faculdade de expropriar por utilidade pública os prédios beneficiados que não utilizem água de rega fornecida pelos canais em funcionamento ou que, embora regando, não atinjam os valores dos padrões de rendimento ou de intensidade de exploração mínima exigível no regadio, comprometendo assim, através de uma inadequada ou deficiente utilização da terra e da água, a rendibilidade económica e social do empreendimento.
+
+2 - Os valores mínimos dos padrões de rendimento ou de intensidade de exploração exigível em regadio para cada obra serão fixados nos regulamentos respectivos.
+
+3 - No cálculo das indemnizações devidas pelas expropriações referidas no presente artigo aplicar-se-ão disposto na legislação geral que regula as expropriações por utilidade pública, nunca podendo, porém, a importância da indemnização exceder o valor actualizado que resultaria para a respectiva aquisição, nos termos do n.º 2 do artigo 77.º, acrescido dos valores das benfeitorias entretanto efectuadas.
+
+4 - O valor actualizado a que se refere o número anterior será determinado, para cada caso, pelo Instituto de Gestão e Estruturação Fundiária.
+
+5 - Quando se verifiquem as condições indicadas no n.º 1 deste artigo, relativamente a áreas nacionalizadas, o Instituto de Gestão e Estruturação Fundiária fará cessar o contrato de exploração e uso da terra vigente, de acordo com a legislação aplicável, e promoverá conjuntamente com a direcção regional de agricultura da área respectiva a sua entrega para a exploração a outros agricultores que dêem garantias de adequada capacidade empresarial.
+
+###### Artigo 79.º — (Suspensão temporária do pagamento da taxa de beneficiação)
+
+Quando se verifiquem circunstâncias excepcionais que afectem gravemente a exploração das terras beneficiadas por obras de fomento hidroagrícola, o Governo poderá suspender, durante esse período, o pagamento da taxa de beneficiação ou diminuir o seu montante, não sendo de aplicar por todo esse tempo o disposto no artigo anterior.
+
+###### Artigo 80.º — (Adaptação ao regadio)
+
+A adaptação ao regadio e a exploração das terras beneficiadas pelas obras de fomento hidroagrícola serão orientadas e assistidas tecnicamente pela direcção regional de agricultura com a colaboração, sempre que necessária, dos restantes organismos do Ministérios da Agricultura, Comércio e Pescas, nomeadamente da Direcção-Geral de Hidráulica e Engenharia Agrícola e dos demais serviços do Estado, de modo a extrair a maior rendibilidade do investimento efectuado.
+
+###### Artigo 81.º — Apoio técnico aos agricultores
+
+Durante a execução e utilização das obras de aproveitamento hidroagrícola, a DRA respectiva promoverá a divulgação, junto dos agricultores e trabalhadores rurais abrangidos, dos tipos e técnicas culturais de manejo da água e dos solos mais convenientes em conformidade com os resultados obtidos em explorações piloto, nos centros tecnológicos e em campos experimentais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+### Capítulo VII — Crédito aos agricultores
+
+###### Artigo 82.º — (Crédito bonificado)
+
+1 - As associações de beneficiários, juntas de agricultores e cooperativas de rega constituídas nos termos desta legislação e dela complementar poderão recorrer ao crédito bonificado para e financiamento da parte do custo das obras não participado directamente pelo Estado, sem prejuízo do disposto no artigo 59.º deste diploma.
+
+2 - As condições de concessão de crédito, em particular as garantias exigíveis, prazos de amortização e taxas de juro, serão determinadas pelo Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, tomando-se em consideração no cálculo das anuidades de reembolso as potencialidades e disponibilidades financeiras das explorações abrangidas.
+
+3 - Podem ser criadas condições especiais de crédito para cada obra, cuja decisão será tomada nos termos do artigo 26.º, cabendo os encargos resultantes aos organismos a quem forem cometidos por despacho ministerial.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 83.º — (Crédito para obras complementares)
+
+1 - A fim de assegurar a resolução de problemas de fundo que afectem a economia das obras, realizar trabalhos complementares ou de reabilitação destinados a aumentar a utilidade das mesmas, de acordo com projectos previamente aprovados, precedendo da deliberação tomada em assembleia geral por maioria representativa do mínimo de dois terços da área beneficiada, as entidades a quem compete a exploração e conservação das obras poderão contrair empréstimos à banca, Caixa Geral de Depósitos e federações regionais de crédito agrícola mútuo, para além dos subsídios concedidos, conformo respectivas atribuições, pela Direcção-Geral de Hidráulica e Engenharia Agrícola ou direcções regionais de agricultura, sendo-lhes concedida a bonificação prevista pelo Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas.
+
+2 - Para contrair os empréstimos referidos no n.º 1, nomeadamente os destinados a cobrir despesas extraordinárias, é necessária autorização do organismo oficial a quem compete, nos termos do presente diploma, a fiscalização administrativa das entidades responsáveis pela exploração e conservação das obras.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 84.º — (Amortização de empréstimos)
+
+As verbas necessárias para a amortização dos empréstimos referidos nos artigos 80.º e 81.º serão, segundo plano de amortização estabelecido, incluídas nos orçamentos ordinários dos respectivos órgãos de gestão (associações de beneficiários, juntas de agricultores ou cooperativas de rega) a fim de anualmente serem repartidas pelos beneficiários e associados.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 85.º — (Linhas específicas de crédito)
+
+1 - Declarada a entrada das obras ou seus blocos constituintes no período de adaptação ao regadio, o Governo porá à disposição dos agricultores respectivos linhas específicas de crédito destinadas a investimentos ao nível da exploração agrícola, requeridos pela transformação cultural do sequeiro em regadio, efectuados de harmonia com o projecto e regulamento de cada obra.
+
+2 - Concluída a 2.ª fase a que se refere o artigo 5.º, será fixado o montante total e as condições específicas a que obedecerá o crédito referido no n.º 1, por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Agricultura, Comércio e Pescas.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 86.º — (Acções de crédito não especificadas)
+
+As acções de crédito não especificadas neste diploma, nomeadamente empréstimos ao investimento e de campanha destinados a pessoas singulares ou colectivas, são definidas pela competente legislação sobre política geral de crédito agrícola.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+### Capítulo VIII — Disposições gerais e transitórias
+
+###### Artigo 87.º — (Obras abrangidas pelo presente diploma)
+
+As obras concluídas na vigência do Decreto-Lei n.º 42665, de 20 de Novembro de 1959, bem como as obras em curso iniciadas ao abrigo do disposto no mesmo decreto-lei, ficam sujeitas, na parte aplicável, aos preceitos deste diploma.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 88.º — (Adaptação de associações existentes)
+
+1 - As associações de proprietários que foram criadas ao abrigo do regulamento para execução do Decreto n.º 8 de 1 de Dezembro de 1892, sobre serviços hidráulicos e que tenham fins agrícolas serão adaptadas ao regime jurídico estabelecido neste diploma, mediante estudo a elaborar conjuntamente pela Direcção-Geral de Hidráulica e Engenharia Agrícola e a Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos.
+
+2 - Os estudos a que se refere o n.º 1 do presente artigo devem estar concluídos no prazo de 2 anos após a publicação deste diploma.
+
+3 - Após a conclusão dos estudos referidos nos números anteriores, a Direcção-Geral de Hidráulica e Engenharia Agrícola elaborará, no período de 1 ano, os regulamentos e estatutos dos órgãos que, nos termos do n.º 1, substituam as associações de proprietários.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 89.º — (Prazo para a determinação da taxa de beneficiação)
+
+1 - No prazo de 2 anos a partir da data do presente diploma, a Direcção-Geral de Hidráulica e Engenharia Agrícola definirá, para cada uma das obras de fomento hidroagrícola concluídas na vigência de anteriores legislações, para ser promulgada pelo Governo, a taxa de beneficiação destinada ao reembolso ainda não efectuado ao Estado do custo das respectivas obras.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 90.º — (Legislação complementar)
+
+1 - A disciplina das associações de beneficiários e juntas de agricultores será objecto de regulamentação complementar a estabelecer por decreto regulamentar.
+
+2 - No que respeita às cooperativas de rega observarão elas, além do que se contém no Código Cooperativo e seus complementos, a legislação complementar prevista no número anterior do presente artigo.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 91.º — (Legislação anterior)
+
+É revogada a Lei n.º 1949, de 15 de Fevereiro de 1937, e toda a legislação complementar que não seja compatível com o presente diploma.
+
+###### Artigo 92.º — (Regime transitório)
+
+As associações de regantes e beneficiários já constituídas ou em organização à data de entrada em vigor do presente diploma continuarão, até que seja promulgada a sua regulamentação, a reger-se segundo os respectivos estatutos e o Decreto n.º 47153, de 8 de Agosto de 1966, na parte não expressamente alterada por este decreto-lei.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 93.º — (Resolução de dúvidas)
+
+As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas, consoante os casos, por despacho do Ministro da Agricultura, Comércio e Pescas ou por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Agricultura, Comércio e Pescas.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+### Capítulo IX — Integridade dos perímetros hidroagrícolas
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 94.º — Inscrição e registo
+
+Com a aprovação do projecto de execução das obras dos grupos I, II e III, o IHERA, as DRA ou as entidades responsáveis pela conservação e exploração da obra promoverão a inscrição na matriz e no registo predial da sujeição do prédio ou das parcelas do prédio ao regime do presente diploma.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 95.º — Protecção das áreas beneficiadas
+
+1 - São proibidas todas e quaisquer construções, actividades ou utilizações não agrícolas de prédios ou parcelas de prédios das áreas beneficiadas, excepto as que, nos termos dos regulamentos provisório e definitivo da obra, forem admitidas como complementares da actividade agrícola.
+
+2 - Sem prejuízo do estabelecido nos artigos seguintes, são nulos todos os actos administrativos que licenciem ou autorizem obras ou actividades em violação do disposto no número anterior.
+
+3 - O Estado e demais pessoas colectivas públicas são responsáveis pelos prejuízos que advenham para os particulares de boa-fé da nulidade dos actos administrativos prescrita no número anterior.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 96.º — Cessação das acções violadoras
+
+Independentemente do processamento das contra-ordenações e da aplicação das coimas, o IHERA ou as DRA, conforme os casos, devem ordenar a cessação imediata das acções desenvolvidas em violação do disposto no presente diploma.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 97.º — Ordem de embargo e reposição da situação anterior à infracção
+
+1 - O IHERA ou as DRA, conforme os casos, devem, após a audição dos interessados, mas independentemente de aplicação das coimas, determinar, aos responsáveis pelas acções violadoras do regime estabelecido no presente diploma, que se abstenham dessas acções e procedam à reposição da situação anterior à infracção, fixando o prazo e os termos que devem ser observados.
+
+2 - À ordem de embargo e reposição da situação anterior é integralmente aplicável o regime estabelecido no Decreto-Lei n.º 92/95, de 9 de Maio.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 98.º — Contra-ordenações
+
+1 - Constitui contra-ordenação a prática pelos proprietários, usufrutuários, beneficiários ou utilizadores a título precários dos seguintes actos:
+
+a) Execução de obras, infra-estruturas, plantações, trabalhos ou actividades de natureza diversa não previstos nos regulamentos provisório ou definitivo da obra ou, estando previstos, sem autorização da entidade responsável pela gestão da obra;
+
+b) Não acatamento da ordem de embargo e reposição da situação anterior à infracção;
+
+c) Alteração ou destruição total ou parcial de infra-estruturas, de qualquer natureza, afectas à obra ou de materiais e equipamentos afectos à sua conservação, manutenção, construção ou limpeza;
+
+d) Sementeiras, plantações ou corte de árvores, ramos e arbustos em terrenos dominiais em violação do plano de uso de solos estabelecidos sem a autorização do IHERA;
+
+e) Não cumprimento das normas estabelecidas nos regulamentos provisório e definitivo da obra;
+
+f) Não cumprimento da obrigação de rega de culturas;
+
+g) Não cumprimento dos valores dos padrões de rendimento ou de intensidade de exploração mínima exigível no regadio para os diversos tipos de exploração cultural após a entrada da obra em funcionamento;
+
+h) Impedimento do exercício da fiscalização;
+
+i) Falta de pagamento das taxas devidas;
+
+j) Não cumprimento das obrigações legais relativas a transacção de terrenos, parcelas, construções, infra-estruturas e equipamentos.
+
+2 - A tentativa e a negligência são puníveis.
+
+3 - Compete ao presidente do IHERA determinar a instauração de processos de contra-ordenação, designar o instrutor e aplicar as respectivas coimas.
+
+4 - O produto das coimas é repartido e constitui receita própria das seguintes entidades:
+
+60% do Estado;
+
+20% do IHERA;
+
+20% da entidade responsável pela exploração.
+
+5 - Em tudo o que não se encontra expressamente previsto e regulado neste diploma, designadamente quanto ao montante e à determinação da medida das coimas, é aplicável o regime geral das contra-ordenações contido no Decreto-Lei n.º 433/82, de 27 de Outubro, com as alterações introduzidas pelo Decreto-Lei n.º 244/95, de 14 de Setembro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136)
+
+###### Artigo 99.º — Sanções acessórias
+
+As contra-ordenações previstas no n.º 1 do artigo anterior podem ainda determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:
+
+a) A interdição do exercício da actividade responsável pela ocorrência dos factos por um período máximo de dois anos;
+
+b) A privação do direito a subsídio outorgado por entidades ou serviços públicos por um período máximo de dois anos;
+
+c) A apreensão de objectos utilizados na prática da infracção.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 100.º — Expropriação
+
+A faculdade prevista no artigo 78.º só pode ser exercida, no que respeita ao conteúdo das alíneas f) e g) do n.º 1 do artigo 98.º, após a aplicação de três contra-ordenações.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 101.º — Exclusão de prédios
+
+1 - A exclusão de prédios ou parcelas de prédios das áreas beneficiadas por obras de aproveitamento hidroagrícola e consequente desafectação da Reserva Agrícola Nacional só pode ser efectuada por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, na sequência de proposta do IHERA, instruída com parecer da respectiva Comissão Regional de Reserva Agrícola.
+
+2 - Sem prejuízo do disposto no número seguinte, a exclusão prevista no número anterior só é admissível desde que, além do cumprimento dos requisitos estabelecidos para a desafectação da RAN, não seja posta em causa a viabilidade técnica e económica ou o interesse público, nacional ou regional, conforme os casos, que determinou a realização da obra hidroagrícola.
+
+3 - O despacho de exclusão previsto no n.º 1 fixará o montante compensatório, cujo efectivo pagamento pelo interessado constitui condição da sua eficácia.
+
+4 - Para a fixação do montante compensatório, que constitui receita própria do IHERA, ter-se-á em atenção o custo, por hectare beneficiado, das obras de aproveitamento hidroagrícola e das obras subsidiárias, devidamente actualizado em função do índice de preços no consumidor estabelecido pelo Instituto Nacional de Estatística.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+### Capítulo X — Concessão
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 102.º — Concessão
+
+1 - A conservação e exploração das obras de aproveitamento hidroagrícola poderá ser atribuída, no todo ou em parte, através de concessão, a pessoas colectivas públicas ou privadas com capacidade técnica e financeira adequada, sendo dada preferência às entidades do tipo associativo ou cooperativo que representem a maioria dos proprietários e dos regantes beneficiados com a obra e às autarquias locais.
+
+2 - A decisão de proceder à concessão cabe ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e poderá ser tomada em qualquer fase.
+
+3 - O contrato de concessão fixa os direitos e obrigações do concedente e do concessionário, dele fazendo parte integrante os regulamentos provisório e ou definitivo da obra e suas alterações.
+
+4 - O contrato de concessão prevê expressamente a alteração pelo concedente dos regulamentos provisório e ou definitivo da obra, a aplicação pelo concedente de penalidades em caso de violação das obrigações, as condições de suspensão do contrato e a assunção directa da gestão da obra pelo concedente, bem como da rescisão unilateral do contrato pelo concedente no caso de violação grave nele tipificada das obrigações do concessionário.
+
+5 - A minuta base do contrato de concessão e dos regulamentos provisório e definitivo anexos e as minutas finais dos contratos a celebrar com cada entidade são aprovadas por portaria e despacho, respectivamente, do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+### Capítulo XI — Disposições finais e transitórias
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 103.º — Reclassificação das obras do grupo III
+
+1 - As obras do grupo III são reclassificadas como obras do grupo IV.
+
+2 - Até 30 de Junho de 2006, o Ministro da Agricultura, do Desenvolvimento Rural e das Pescas decide, por proposta do Instituto de Desenvolvimento Rural e Hidráulica (IDRHa), quais as obras que, pela complexidade da sua conservação, exploração e gestão, devem ser concessionadas nos termos do presente diploma e classificadas no grupo III.
+
+3 - No prazo de seis meses a contar do termo da data prevista no número anterior, o IDRHa e o Instituto da Água (INAG) submetem ao Ministério da Agricultura, do Desenvolvimento Rural e das Pescas e ao Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional uma proposta conjunta sobre as infra-estruturas a integrar nos perímetros de rega a cargo do IDRHa.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 169/2005 - Diário da República n.º 185/2005, Série I-A de 2005-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2005-147612), produz efeitos a partir de 2005-04-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 104.º — Regime de concessão
+
+1 - A conservação e exploração de obras de aproveitamento hidroagrícola entregues pelo IHERA e pelas DRA às associações de beneficiários à data da entrada em vigor do presente diploma ou que não o tendo sido, deva caber a estas deverá ser regulamentada através de contrato de concessão.
+
+2 - A celebração de contratos de concessão prevista no número anterior deve ocorrer no prazo máximo de cinco anos.
+
+3 - Findo o prazo estabelecido no número anterior, o IHERA assume automaticamente a conservação e exploração das obras de aproveitamento hidroagrícola que não foram objecto de contrato de concessão.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 169/2005 - Diário da República n.º 185/2005, Série I-A de 2005-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2005-147612), produz efeitos a partir de 2005-04-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 105.º — Obras incluídas no aproveitamento de fins múltiplos do Alqueva
+
+1 - Para os efeitos da aplicação do disposto no artigo 2.º, a componente hidroagrícola do empreendimento de fins múltiplos do Alqueva refere-se exclusivamente aos perímetros de rega definidos, ou a definir, naquele empreendimento, bem como às infra-estruturas que os integram, nomeadamente as de distribuição de água para rega, posicionados a jusante do sistema primário daquele empreendimento.
+
+2 - No empreendimento de fins múltiplos do Alqueva é aplicável a alínea d) do n.º 1 e o n.º 2 do artigo 2.º do Decreto-Lei n.º 32/95, na redacção dada pelo Decreto-Lei n.º 335/2001, de 24 de Dezembro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 106.º — Obras abrangidas pelo presente diploma
+
+O presente diploma é exclusivamente aplicável às obras de aproveitamento hidroagrícola, tal como definidas nos artigos 1.º a 4.º do presente diploma, iniciadas ou concluídas na vigência do Decreto-Lei n.º 42665, de 20 de Novembro de 1959, sem prejuízo do estabelecido em diplomas especiais e nos Decretos-Leis n.os 45/94, 46/94 e 47/94, todos de 22 de Fevereiro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+###### Artigo 107.º — Legislação complementar
+
+1 - Mantém-se em vigor a legislação aplicável às associações de beneficiários e juntas de agricultores até à sua revisão por decreto regulamentar.
+
+2 - As cooperativas de rega ficam sujeitas às disposições regulamentares que venham a ser publicadas nos termos do número anterior, bem como ao estabelecido no Código Cooperativo e demais legislação complementar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 169/2005 - Diário da República n.º 185/2005, Série I-A de 2005-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2005-147612), produz efeitos a partir de 2005-04-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 86/2002 - Diário da República n.º 81/2002, Série I-A de 2002-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-2002-303136), em vigor a partir de 2002-04-07
+
+Visto e aprovado em Conselho de Ministros de 29 de Abril de 1982. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 22 de Junho de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

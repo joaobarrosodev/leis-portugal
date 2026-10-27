@@ -1,0 +1,168 @@
+---
+schema_version: '1.0'
+id: pt:dre:396534:por
+title: Decreto-Lei n.º 341/82
+short_title: null
+summary: Estabelece normas sobre o Hospital de Sant'Ana, na Parede
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Assuntos Sociais
+proposing_entity: null
+official_number: 341/82
+official_date: null
+publication_date: '1982-08-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 196/1982, Série I de 1982-08-25
+  number: '196'
+  series: I
+  supplement: null
+  pages: 2498 - 2499
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/08/19600/24982499.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '396534'
+  dre_path: /dr/detalhe/decreto-lei/341-1982-396534
+  internal: pt:dre:396534:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1982-396534
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1982-396534
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:45:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5f1cdc062bcf19a9daa797f6eb9bf3b71cf78d10c4e24f5ec86e4288afad556e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Hospital Ortopédico de Santana
+- Integração de Trabalhadores
+- Médico
+- Parede
+- Pessoal de Saúde
+- Quadro de Pessoal
+- Regime de Instalação
+- Santa Casa da Misericórdia
+relationships:
+- type: amended_by
+  target: pt:dre:326307:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:400184:por
+  label: "Prorrogado o prazo do Regime de instalação e balancete em vigor no Hospital Central Ortopédico de Sant'Ana decretado\
+    \ pelo presente diploma, pela PORT.811/84.17.10.1984.MTSS, DR.IS [241] de 17.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/811-1984-400184
+  date: '1984-10-17'
+- type: amended_by
+  target: pt:dre:326307:por
+  label: "Prorrogado o prazo pela PORT.142/85.12.03.1985.MTSS, DR.IS [59] de 12.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/142-1985-326307
+  date: '1985-03-12'
+- type: cites
+  target: pt:dre:280742:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579298:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632738:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:45:15Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 341/82
+
+de 25 de Agosto
+
+Pelo [Decreto-Lei n.º 480/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1977-280742), de 15 de Novembro, o Hospital de Sant'Ana, na Parede, estabelecimento pertencente à Santa Casa da Misericórdia de Lisboa, passou a depender da Direcção-Geral dos Hospitais e a reger-se, em todos os aspectos do seu funcionamento, pela legislação vigente para os estabelecimentos hospitalares oficiais.
+
+O referido estabelecimento hospitalar foi, há largos anos, legado à Santa Casa da Misericórdia de Lisboa por uma benemérita, que, no seu testamento, não só confiava a respectiva administração a uma comissão de que fazia parte o provedor desta Misericórdia, como expressava o desejo de os respectivos serviços serem assegurados por religiosas católicas, deixando, assim, inequivocamente expressos o espírito e os princípios que deveriam presidir à actividade hospitalar da deixa em questão. Parece evidente que a administração do referido estabelecimento pela Misericórdia de Lisboa não só facilitará a concretização dos objectivos que presidiram a um tal legado, dadas as especiais características culturais e morais daquela instituição, como, inclusive, se apresenta como essencial a um integral cumprimento da vontade da benemérita, a respeitar sempre que possível.
+
+Daí que a transferência do referido estabelecimento para a dependência da Direcção-Geral dos Hospitais, operada pelo citado [Decreto-Lei n.º 480/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/480-1977-280742), se mostre perfeitamente desajustada e imponha a adopção de medidas tendentes à recolocação da situação que as circunstâncias e condicionalismos inerentes tornam aconselháveis.
+
+Aproveita-se também a oportunidade por pôr termo ao inexplicável e inaceitável desfasamento que existe, no que respeita à respectiva carreira, entre o pessoal médico do quadro da Misericórdia de Lisboa e o dos estabelecimentos hospitalares oficiais.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - O Hospital de Sant'Ana, na Parede, passa a depender directamente da Santa Casa da Misericórdia de Lisboa, a quem fica entregue a respectiva administração, e a reger-se, em todos os aspectos do seu funcionamento e na parte respectiva, pela legislação vigente para esta instituição.
+
+2 - A administração do mesmo estabelecimento poderá, no entanto, ser confiada a outras entidades, de harmonia com a legislação própria da Misericórdia de Lisboa.
+
+Art. 2.º - 1 - O referido estabelecimento hospitalar mantém a categoria de hospital central, ficará afecto à especialidade de ortopedia e funcionará em regime de instalação, nos termos dos artigos 79.º a 85.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro.
+
+2 - Por despacho do Ministro dos Assuntos Sociais, sob proposta da Mesa, a sua actividade poderá, no entanto, ser tornada extensiva a especialidades de outra natureza.
+
+3 - A especialidade de traumatologia, actualmente ali em funcionamento, será objecto de transferência progressiva para outros estabelecimentos hospitalares da zona, nos termos a fixar por despacho do Ministro dos Assuntos Sociais.
+
+Art. 3.º - 1 - O pessoal que actualmente presta serviço no Hospital de Sant'Ana será integrado, findo o regime de instalação, com a actual categoria, no quadro de pessoal da Santa Casa da Misericórdia de Lisboa, mediante lista nominativa e independente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a publicação no Diário da República, sem prejuízo do n.º 3 deste artigo.
+
+2 - A integração a que se refere o número anterior será levada a efeito com total respeito pelos direitos adquiridos.
+
+3 - O pessoal que se mostre desnecessário ao normal funcionamento do estabelecimento será transferido para outros estabelecimentos do âmbito da Direcção-Geral dos Hospitais, sempre sem perda de quaisquer direitos adquiridos, por despacho do Ministro dos Assuntos Sociais, sob proposta da Mesa da Santa Casa da Misericórdia de Lisboa.
+
+Art. 4.º - 1 - Os acordos, sejam de que natureza forem, actualmente existentes entre o Hospital de Sant'Ana e outras entidades manter-se-ão em vigor, a menos que sejam denunciados pela Santa Casa da Misericórdia de Lisboa no prazo de 60 dias após a data da publicação do presente diploma.
+
+2 - A aplicação do número anterior será feita sem prejuízo dos reajustamentos a que obrigue o respeito pelos princípios da equidade e da justiça.
+
+Art. 5.º - 1 - O pessoal do grupo «1.7 - De acção médica» do quadro de pessoal não dirigente da Santa Casa da Misericórdia de Lisboa, aprovado pela [Portaria n.º 494/81](https://diariodarepublica.pt/dr/detalhe/portaria/494-1981-579298), de 17 de Junho, é equiparado, para todos os efeitos legais, ao pessoal de idêntica categoria dos estabelecimentos hospitalares oficiais.
+
+2 - O pessoal que venha a ingressar em qualquer dos lugares previstos no grupo a que se refere o número anterior prestará serviço em regime de tempo completo ou parcial, a fixar, pontualmente, pela Mesa da Santa Casa da Misericórdia de Lisboa.
+
+3 - Ao pessoal que já se encontra colocado em lugares do referido grupo poderá a Mesa da Misericórdia conceder a faculdade de optar pela passagem a regime de tempo completo.
+
+Art. 6.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro dos Assuntos Sociais.
+
+Visto e aprovado em Conselho de Ministros de 8 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 3 de Agosto de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

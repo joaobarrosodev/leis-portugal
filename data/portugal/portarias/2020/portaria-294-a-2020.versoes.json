@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:151658532:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-165723262",
+ "dre_path": "/dr/detalhe/portaria/294-a-2020-151658532",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-12-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165564444",
+    "165564445",
+    "165564446",
+    "165564447",
+    "165564448"
+   ]
+  }
+ ],
+ "fragments": {
+  "165564444": {
+   "fragment_id": "165723263",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 294-A/2020\n\nSumário: Estabelece uma suspensão temporária e limitada da aplicação das normas previstas nos n.os 3 a 6 do artigo 7.º da Portaria n.º 128/2009, de 30 de janeiro.\n\nA Organização Mundial de Saúde declarou, no dia 11 de março de 2020, a situação de pandemia causada pela doença COVID-19. Além da grave emergência de saúde pública a que foi necessário dar resposta no plano sanitário, a pandemia trouxe inúmeros desafios nos planos económico e social, que têm motivado a adoção de um vasto leque de medidas excecionais, nomeadamente, no âmbito das políticas ativas de emprego.\n\nNo âmbito deste processo, reveste-se de particular valor encontrar soluções que, em complementaridade aos instrumentos de proteção social, procuram melhorar os níveis de empregabilidade e estimular a reinserção no mercado de trabalho dos trabalhadores que se encontram em situação de desemprego.\n\nA Portaria n.º 128/2009, de 30 de janeiro, na sua redação atual, regulamenta as medidas «Contrato Emprego-Inserção» (CEI) e «Contrato Emprego-Inserção+» (CEI+), através das quais os desempregados têm usufruído da possibilidade de melhorarem as suas competências socioprofissionais, através do desenvolvimento de atividades socialmente úteis, designadamente no contexto das atividades desenvolvidas pelos equipamentos sociais e de saúde.\n\nNo contexto de excecionalidade atual, foram já colocadas em marcha várias iniciativas para apoiar as entidades do setor social e solidário e, em particular, pela pressão a que estão sujeitos, os equipamentos sociais e de saúde, desempenhando as atividades de trabalho socialmente útil um papel fundamental nesta frente. São exemplos deste esforço a criação de uma medida de apoio ao reforço de emergência de equipamentos sociais e de saúde, de natureza temporária e excecional, e a introdução de um regime extraordinário de majoração das bolsas mensais dos CEI e CEI+ em projetos realizados nestas instituições, ambas pela Portaria n.º 82-C/2020, de 31 de março, na sua redação atual.\n\nPor outro lado, impõe-se um reforço da ação preventiva de modo a minimizar a possibilidade de transmissão da doença em contexto escolar e a fortalecer a capacidade de adaptação dos equipamentos escolares perante os desafios suscitados pela doença COVID-19, assegurando que o desenvolvimento das atividades educativas e formativas decorre em condições de segurança para toda a comunidade educativa.\n\nAgora, no seguimento de iniciativas já em desenvolvimento, considera-se oportuno proporcionar um maior leque de oportunidades aos desempregados no sentido de favorecer a sua reintegração no mercado de trabalho, através do desenvolvimento de projetos no âmbito das referidas medidas, bem como da medida «Contrato Emprego-Inserção para pessoas com deficiência e incapacidade» e, ao mesmo tempo, assegurar a permanência destes recursos nas entidades promotoras, promovendo assim respostas de continuidade no desempenho de trabalho socialmente útil e que promovam a prevenção e controlo da COVID-19.\n\nAssim, ao abrigo do disposto nos artigos 12.º e 14.º do Decreto-Lei n.º 13/2015, de 26 de janeiro, e do disposto na alínea c) do artigo 199.º da Constituição da República Portuguesa, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:\n\n> Nota: [Artigo 5.º, Portaria n.º 128/2021 - Diário da República n.º 121/2021, Série I de 2021-06-24](https://diariodarepublica.pt/dr/detalhe/portaria/128-2021-165723204) A produção de efeitos da presente Portaria , é prorrogada até ao dia 31 de dezembro de 2021."
+  },
+  "165564445": {
+   "fragment_id": "165723264",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece uma suspensão temporária e limitada da aplicação das normas previstas nos n.os 3 a 6 do artigo 7.º da Portaria n.º 128/2009, de 30 de janeiro, na sua redação atual."
+  },
+  "165564446": {
+   "fragment_id": "165723265",
+   "type": 11,
+   "heading": "Artigo 2.º — Suspensão de restrições e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Suspensão de restrições e impedimentos\n\n1 - As restrições e impedimentos previstos nos n.os 3 a 6 do artigo 7.º da Portaria n.º 128/2009, de 30 de janeiro, na sua redação atual, não se aplicam às integrações de candidatos no âmbito de projetos em execução e de novas candidaturas nas medidas «Contrato Emprego-Inserção», «Contrato Emprego-Inserção+» e «Contrato Emprego-Inserção para pessoas com deficiência e incapacidade».\n\n2 - O disposto no número anterior aplica-se:\n\na) Aos projetos que desenvolvam atividade na área social e da saúde, nomeadamente serviços de saúde, hospitais, estruturas residenciais ou serviços de apoio domiciliário para pessoas idosas e pessoas com deficiência ou incapacidade;\n\nb) Aos projetos que desenvolvam atividade na área da educação, nomeadamente relacionada com a aplicação e desenvolvimento das regras e atividades inerentes ao cumprimento das condições de segurança e prevenção na comunidade escolar, entre as quais as regras de higienização e de distanciamento tendentes à minimização de risco de transmissão da doença COVID-19."
+  },
+  "165564447": {
+   "fragment_id": "165723266",
+   "type": 11,
+   "heading": "Artigo 3.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produção de efeitos\n\nA presente portaria produz efeitos desde o dia 9 de dezembro de 2020 e até ao dia 30 de junho de 2021."
+  },
+  "165564448": {
+   "fragment_id": "165723267",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

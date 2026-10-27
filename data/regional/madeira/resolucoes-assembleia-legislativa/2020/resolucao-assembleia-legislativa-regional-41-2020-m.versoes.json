@@ -1,0 +1,543 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:146435545:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-legislativa-regiao-autonoma-madeira/2020-901017263",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/41-2020-146435545",
+ "source_lastmod": "2024-12-23",
+ "versions": [
+  {
+   "date": "2020-10-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "900839617",
+    "900839618",
+    "900839619",
+    "900839620",
+    "900839621",
+    "900839622",
+    "900839623",
+    "900839624",
+    "900839625",
+    "900839626",
+    "900839627",
+    "900839628",
+    "900839629",
+    "900839630",
+    "900839631",
+    "900839632",
+    "900839633",
+    "900839634",
+    "900839635",
+    "900839636",
+    "900839637",
+    "900839638",
+    "900839639",
+    "900839640",
+    "900839641",
+    "900839642",
+    "900839643",
+    "900839644",
+    "900839645",
+    "900839646",
+    "900839647",
+    "900839648",
+    "900839649",
+    "900839650",
+    "900839651",
+    "900839652",
+    "900839653",
+    "900839654",
+    "900839655",
+    "900839656"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901014297:por",
+     "title": "Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M",
+     "published": "2024-12-23",
+     "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "900839617",
+    "900839663",
+    "900839618",
+    "900839619",
+    "900839620",
+    "900839621",
+    "900839622",
+    "900839623",
+    "900839624",
+    "900839625",
+    "900839626",
+    "900839627",
+    "900839628",
+    "900839664",
+    "900839630",
+    "900839665",
+    "900839632",
+    "900839633",
+    "900839634",
+    "900839666",
+    "900839636",
+    "900839667",
+    "900839638",
+    "900839639",
+    "900839668",
+    "900839641",
+    "900839642",
+    "900839669",
+    "900839644",
+    "900839670",
+    "900839646",
+    "900839647",
+    "900839671",
+    "900839649",
+    "900839650",
+    "900839651",
+    "900839652",
+    "900839653",
+    "900839654",
+    "900839672",
+    "900839656"
+   ]
+  }
+ ],
+ "fragments": {
+  "900839617": {
+   "fragment_id": "901017264",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 41/2020/M\n\nSumário: Aprova o Regulamento de Gestão do Desempenho na Assembleia Legislativa da Região Autónoma da Madeira.\n\nRegulamento de Gestão do Desempenho na Assembleia Legislativa da Região Autónoma da Madeira\n\nO atual regulamento interno relativo ao sistema de avaliação do desempenho na Assembleia Legislativa da Região Autónoma da Madeira, aprovado pelo Despacho n.º 53/X-II/2013/P, data de 2 de dezembro de 2013.\n\nDecorridos mais de três ciclos avaliativos, desde então, foram já alterados regimes legais subsidiariamente aplicáveis aos trabalhadores e dirigentes da Assembleia Legislativa da Madeira, nomeadamente, o regime geral vigente para a Administração Pública, adaptado à administração regional autónoma da Madeira e o regime aplicável aos trabalhadores e dirigentes do Parlamento nacional.\n\nA revisão da atual regulamentação, toma por base a estrutura orgânica e competências dos órgãos da Assembleia Legislativa da Região Autónoma da Madeira, de forma ajustada ao Decreto Legislativo Regional n.º 24/89/M, de 7 de setembro, republicado pelo Decreto Legislativo Regional n.º 13/2017/M, de 23 de maio e alterado pelo Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro, face à natureza do primeiro órgão de governo próprio da Região.\n\nAssim, a Assembleia Legislativa da Região Autónoma da Madeira, nos termos do n.º 3 do artigo 41.º do Estatuto Político-Administrativo da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, da parte final do n.º 2 do artigo 2.º da Lei n.º 66-B/2007, de 28 de dezembro, na sua atual redação, adaptada à administração regional autónoma da Madeira pelo Decreto Legislativo Regional n.º 27/2009/M, de 21 de agosto, republicado pelo Decreto Legislativo Regional n.º 12/2015/M, de 21 de dezembro, considerando a pronúncia e proposta do Conselho de Administração, nos termos da alínea h) do artigo 19.º e do n.º 2 do artigo 29.º, em conjugação com o n.º 2 do artigo 39.º, do Decreto Legislativo Regional n.º 24/89/M, de 7 de setembro, com a última alteração introduzida pelo Decreto Legislativo Regional n.º 1-A/2020/M, de 31 de janeiro, resolve o seguinte:\n\n1 - A aprovação, de acordo com o parecer e proposta do Conselho de Administração, do Regulamento de Gestão do Desempenho na Assembleia Legislativa da Região Autónoma da Madeira (GEDALM) e dos modelos de fichas a utilizar na autoavaliação e nas avaliações ordinária e extraordinária, constantes, respetivamente, dos anexos i e ii ao presente diploma e que do mesmo fazem parte integrante.\n\n2 - A presente resolução revoga o regulamento interno relativo ao sistema de avaliação do desempenho na Assembleia Legislativa da Região Autónoma da Madeira, aprovado pelo Despacho n.º 53/X-II/2013/P, de 2 de dezembro de 2013.\n\nAprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de outubro de 2020.\n\nO Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues."
+  },
+  "900839618": {
+   "fragment_id": "901017265",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "900839619": {
+   "fragment_id": "901017266",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e Âmbito de aplicação\n\n1 - O presente Regulamento regula a gestão do desempenho na Assembleia Legislativa da Região Autónoma da Madeira, doravante designada por «GEDALM», de acordo com a sua natureza e estrutura.\n\n2 - A GEDALM aplica-se a todos os trabalhadores em funções na Assembleia Legislativa da Região Autónoma da Madeira, independentemente da modalidade de vinculação, bem como, aos respetivos dirigentes, nos termos das disposições que se lhes refiram."
+  },
+  "900839620": {
+   "fragment_id": "901017267",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios\n\nA GEDALM assenta nos seguintes princípios:\n\na) Especificidade das condições de prestação de trabalho próprias da natureza e das particularidades de funcionamento da Assembleia Legislativa da Região Autónoma da Madeira;\n\nb) Orientação para resultados, qualidade nos serviços públicos e promoção da excelência;\n\nc) Motivação, valorização do mérito e reconhecimento do desempenho;\n\nd) Gestão integrada de pessoas, alinhando a ação dos dirigentes e trabalhadores com os objetivos a prosseguir;\n\ne) Transparência e imparcialidade, facilitando a compreensão de metodologias e o desenvolvimento e valorização de competências e capacidades."
+  },
+  "900839621": {
+   "fragment_id": "901017268",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nSão objetivos da GEDALM:\n\na) Contribuir para a melhoria da gestão global da Assembleia Legislativa da Região Autónoma da Madeira no exercício das respetivas atribuições e competências;\n\nb) Promover a excelência do desempenho dos trabalhadores e dirigentes da Assembleia Legislativa da Região Autónoma da Madeira;\n\nc) Alinhar os objetivos dos trabalhadores e dirigentes com os da respetiva área de atividade;\n\nd) Apoiar os avaliadores na gestão de pessoas, acompanhando a evolução do desempenho;\n\ne) Identificar oportunidades de melhoria profissional e estabelecer os respetivos meios de desenvolvimento do desempenho;\n\nf) Promover a autoavaliação e o autodesenvolvimento de competências profissionais."
+  },
+  "900839622": {
+   "fragment_id": "901017269",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgão responsável pela estruturação geral da GEDALM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgão responsável pela estruturação geral da GEDALM\n\n1 - É da responsabilidade do Departamento de Assessoria Técnica verificar a estruturação geral da GEDALM, por forma a assegurar:\n\na) O alinhamento dos objetivos dos dirigentes com os dos respetivos trabalhadores, designadamente, através do correspondente desdobramento em cascata daqueles;\n\nb) A correspondência entre os objetivos dos dirigentes a avaliar com os das suas unidades orgânicas;\n\nc) Que os objetivos a prosseguir pelos trabalhadores são, em regra, desdobrados em cascata dos objetivos das correspondentes unidades orgânicas em que os mesmos se inserem, de harmonia com o conteúdo funcional do posto de trabalho e dos meios disponíveis e necessários ao seu cumprimento;\n\nd) Que às mesmas funções correspondem, em regra, objetivos, indicadores de medida e metas idênticos;\n\ne) Que dirigentes e trabalhadores participam no processo de fixação de objetivos da respetiva unidade orgânica, garantindo-lhes a auscultação e apresentação de propostas;\n\nf) Que os parâmetros de avaliação, no seu conjunto, refletem e promovem a cultura organizacional e a especificidade da missão da Assembleia Legislativa da Região Autónoma da Madeira, enquanto primeiro órgão de governo próprio da Região;\n\ng) A elaboração de relatório anual da aplicação da GEDALM.\n\n2 - Compete também ao Departamento de Assessoria Técnica o apoio técnico às decisões do secretário-geral da Assembleia Legislativa da Região Autónoma da Madeira e às deliberações do Conselho Coordenador da Avaliação, preparando, para o efeito, a necessária informação e os documentos de reporte, sempre que tal seja solicitado."
+  },
+  "900839623": {
+   "fragment_id": "901017270",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgão responsável pelos procedimentos de avaliação dos trabalhadores e dos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgão responsável pelos procedimentos de avaliação dos trabalhadores e dos dirigentes\n\nCompete à Direção de Serviços garantir, através de supervisão, os procedimentos necessários a fazer cumprir os procedimentos de avaliação dos trabalhadores e dos dirigentes, nomeadamente:\n\na) Acompanhar a aplicação da GEDALM, confirmando o cumprimento dos procedimentos de avaliação, designadamente, a observância das fases do processo, dos prazos definidos que lhe respeitam, bem como, do desdobramento em cascata de objetivos das unidades orgânicas, de dirigentes e de trabalhadores, de harmonia com o planeamento do processo de avaliação previamente estabelecido;\n\nb) O correto preenchimento das fichas de avaliação e de autoavaliação, a monitorização e a reformulação de objetivos;\n\nc) A correta identificação do quadro avaliativo em que se encontra enquadrado cada processo individual de avaliação, no que à periodicidade e requisitos diz respeito, relativamente a trabalhadores e dirigentes;\n\nd) Organizar e administrar o arquivo dos processos de avaliação individuais;\n\ne) Apoiar tecnicamente as decisões do secretário-geral e as deliberações do Conselho Coordenador da Avaliação, preparando, para o efeito, a necessária informação;\n\nf) Prestar os esclarecimentos legais, processuais e técnicos a todos os avaliadores e avaliados da Assembleia Legislativa da Região Autónoma da Madeira."
+  },
+  "900839624": {
+   "fragment_id": "901017271",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos e deveres gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direitos e deveres gerais\n\nConstituem deveres do avaliador e direitos do avaliado:\n\na) A negociação com vista à contratualização, dos parâmetros de avaliação e indicadores de medida, de acordo com os objetivos e resultados fixados para a respetiva unidade orgânica ou em execução das respetivas competências, de harmonia com as orientações e regras fixadas pelo Conselho Coordenador da Avaliação e de forma a garantir o cumprimento dos princípios da GEDALM e a diferenciação do mérito;\n\nb) A revisão dos objetivos negociados, bem como o seu reajustamento ou a sua renegociação nas situações que o requeiram;\n\nc) A monitorização e reporte do desempenho ao longo do ciclo avaliativo, com vista à sua melhoria contínua;\n\nd) A concretização dos procedimentos de avaliação e de autoavaliação, bem como o cumprimento de todos os trâmites do processo avaliativo, nomeadamente, a formalização dos atos com a indicação de data e assinatura nos documentos e locais próprios, bem como, o cumprimento do calendário do ciclo avaliativo;\n\ne) A recolha e o registo documentado dos factos que prejudiquem ou beneficiem o desempenho esperado e das evidências que suportam a avaliação;\n\nf) A prestação de informações sobre os resultados do desempenho face aos parâmetros de avaliação contratualizados e sobre a prática dos atos previstos no processo avaliativo em vigor, com especial destaque para quaisquer factos não imputáveis aos intervenientes no processo, dos quais resulte benefício ou prejuízo, para a correta medição do desempenho."
+  },
+  "900839625": {
+   "fragment_id": "901017272",
+   "type": 11,
+   "heading": "Artigo 7.º — Deveres especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Deveres especiais\n\n1 - Constituem deveres especiais dos avaliadores:\n\na) Informar por escrito a Direção de Serviços, para efeitos de reporte por esta, ao secretário-geral, dos factos que ponham em causa o normal e regular funcionamento da GEDALM;\n\nb) Fundamentar adequadamente a proposta de atribuição da menção de Desempenho inadequado, de Muito bom, bem como a de reconhecimento de mérito, através da proposta da atribuição da menção de Desempenho excelente e submeter a parecer do Conselho Coordenador da Avaliação;\n\nc) Fundamentar a manutenção de propostas de avaliação, sendo o caso, na sequência da reunião de harmonização, para efeitos de pronúncia do Conselho Coordenador da Avaliação sobre a manutenção ou não da menção qualitativa e ou quantitativa proposta.\n\n2 - Constitui dever especial dos avaliados a entrega da autoavaliação, de acordo com o previsto na GEDALM."
+  },
+  "900839626": {
+   "fragment_id": "901017273",
+   "type": 1,
+   "heading": "Capítulo II — Da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da avaliação"
+  },
+  "900839627": {
+   "fragment_id": "901017274",
+   "type": 8,
+   "heading": "Secção I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições comuns"
+  },
+  "900839628": {
+   "fragment_id": "901092775",
+   "type": 11,
+   "heading": "Artigo 8.º — Modalidades de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Modalidades de avaliação\n\nA GEDALM compreende as modalidades de avaliação seguintes:\n\na) Avaliação ordinária;\n\nb) Avaliação extraordinária."
+  },
+  "900839629": {
+   "fragment_id": "901092776",
+   "type": 11,
+   "heading": "Artigo 9.º — Periodicidade e prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Periodicidade e prazos\n\n1 - A avaliação ordinária reporta-se ao biénio anterior, devendo ocorrer no ano seguinte ao do período sob avaliação, nos termos seguintes:\n\na) Na primeira quinzena de janeiro, entrega pelos avaliados aos respetivos avaliadores, dos formulários de autoavaliação devidamente preenchidos e realização da avaliação;\n\nb) Na segunda quinzena de janeiro, realização das reuniões do Conselho Coordenador da Avaliação para análise e harmonização das propostas de avaliação, transmitindo as orientações que se mostrem necessárias aos avaliadores, iniciando o processo que conduz às validações de Desempenho inadequado, de Desempenho muito bom e de reconhecimento de Desempenho excelente;\n\nc) Durante o mês de fevereiro, reuniões entre os avaliadores e os avaliados para análise do período objeto de avaliação e contratualização dos parâmetros de avaliação para o novo ciclo de avaliação;\n\nd) Até à primeira quinzena de março, envio pelos avaliadores ao secretário-geral, das respetivas propostas de avaliação exaradas nos modelos de formulário aplicáveis;\n\ne) Até ao dia 15 de abril, reunião do Conselho Coordenador da Avaliação para os efeitos previstos na alínea b), do n.º 3, do artigo 15.º;\n\nf) Até ao dia 30 de abril, homologação das avaliações pelo secretário-geral, devendo os interessados tomar conhecimento da mesma no prazo de 10 dias úteis.\n\n2 - A avaliação extraordinária aplica-se nas situações em que o trabalhador não reúna as condições previstas no artigo 11.º e não possua uma última avaliação que nessa situação possa relevar ou que, possuindo-a, pretenda a sua substituição.\n\n3 - A avaliação extraordinária compreende a ponderação curricular, sendo-lhe aplicada a periodicidade e, com as devidas adaptações, os prazos previstos no n.º 1.\n\n4 - A avaliação extraordinária é feita pelo Conselho Coordenador da Avaliação, mediante proposta de avaliador especificamente nomeado pelo secretário-geral."
+  },
+  "900839630": {
+   "fragment_id": "901092777",
+   "type": 11,
+   "heading": "Artigo 10.º — Formulários e critérios da ponderação curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Formulários e critérios da ponderação curricular\n\n1 - Na avaliação ordinária e na extraordinária são utilizados os modelos de formulário constantes do anexo ii ao presente Regulamento e que do mesmo faz parte integrante.\n\n2 - A ponderação curricular e a respetiva valoração são determinadas segundo os critérios previamente fixados pelo Conselho Coordenador da Avaliação, constantes em ata que é tornada pública, de acordo com o disposto no Despacho Normativo n.º 4-A/2010, de 8 de fevereiro."
+  },
+  "900839631": {
+   "fragment_id": "901092778",
+   "type": 11,
+   "heading": "Artigo 11.º — Requisitos da avaliação ordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Requisitos da avaliação ordinária\n\nSão objeto de avaliação ordinária todos os trabalhadores da Assembleia Legislativa da Região Autónoma da Madeira que, no biénio anterior, tenham relação jurídica de emprego público com, pelo menos, um ano e o correspondente serviço efetivo, independentemente do serviço onde o tenham prestado."
+  },
+  "900839632": {
+   "fragment_id": "901092779",
+   "type": 11,
+   "heading": "Artigo 12.º — Intervenientes na GEDALM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Intervenientes na GEDALM\n\nIntervêm na GEDALM:\n\na) Os avaliadores;\n\nb) Os avaliados;\n\nc) O Conselho Coordenador da Avaliação;\n\nd) A Comissão Paritária;\n\ne) O secretário-geral."
+  },
+  "900839633": {
+   "fragment_id": "901092780",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliadores\n\n1 - A avaliação ordinária é da competência do superior hierárquico imediato ou do trabalhador que possua responsabilidade de coordenação sobre o avaliado.\n\n2 - Se no decorrer do período sob avaliação se sucederem vários avaliadores, terá competência para avaliar o que tiver o maior período de contacto funcional com o avaliado e, em caso de igualdade, é competente para avaliar o último avaliador, que deve recolher dos demais os contributos adequados a uma efetiva e justa avaliação.\n\n3 - A ausência ou impedimento de avaliador direto não constitui fundamento para a falta de avaliação, cabendo a mesma ao superior hierárquico de nível seguinte."
+  },
+  "900839634": {
+   "fragment_id": "901092781",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Avaliados\n\nSão objeto de avaliação os trabalhadores da Assembleia Legislativa da Região Autónoma da Madeira, independentemente da modalidade da relação jurídica de emprego e os respetivos dirigentes, nos termos das disposições que se lhes refiram."
+  },
+  "900839635": {
+   "fragment_id": "901092782",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselho Coordenador de Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conselho Coordenador de Avaliação\n\n1 - O Conselho Coordenador da Avaliação é composto pelo secretário-geral, que preside, e pelos diretores de serviços, incluindo aquele responsável pela área de recursos humanos.\n\n2 - Sem prejuízo do disposto no número anterior, sempre que esteja em causa a avaliação de dirigentes, o Conselho Coordenador da Avaliação integra o secretário-geral, o adjunto deste e um membro do conselho de administração, designado por despacho do secretário-geral.\n\n3 - O Conselho Coordenador da Avaliação tem as competências seguintes:\n\na) Garantir a seletividade da GEDALM através da fixação anual de critérios prévios à avaliação e propor as medidas de melhoria que considere relevantes para uma correta e justa avaliação do desempenho dos avaliados;\n\nb) Emitir parecer relativamente às avaliações iguais ou superiores a Desempenho muito bom e quanto às avaliações de Desempenho inadequado;\n\nc) Proceder à avaliação extraordinária, mediante ponderação curricular, na sequência de proposta do avaliador designado, nos termos do n.º 4 do artigo 9.º;\n\nd) Dar parecer sobre as reclamações da avaliação dos dirigentes.\n\n4 - O Conselho Coordenador da Avaliação aprova o respetivo regulamento de funcionamento."
+  },
+  "900839636": {
+   "fragment_id": "901092783",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão Paritária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comissão Paritária\n\n1 - À Comissão Paritária compete dar parecer sobre reclamações apresentadas pelos trabalhadores avaliados, sempre que tal seja requerido pelo trabalhador aquando da apresentação da reclamação, em requerimento próprio e fundamentado, que a deve acompanhar.\n\n2 - A Comissão Paritária é composta por quatro vogais, sendo dois representantes da administração, designados pelo secretário-geral, um dos quais membro do Conselho Coordenador da Avaliação e dois representantes dos trabalhadores e por estes eleitos.\n\n3 - Os vogais representantes da Administração são designados em número de quatro, pelo período de quatro anos, sendo dois efetivos, um dos quais orienta os trabalhos da comissão, e dois suplentes.\n\n4 - Os vogais representantes dos trabalhadores são eleitos pelo período de quatro anos, em número de seis, sendo dois efetivos e quatro suplentes, em processo a decorrer em dezembro, nos termos de despacho do secretário-geral, publicitado no sítio da Internet da Assembleia Legislativa da Região Autónoma da Madeira.\n\n5 - A designação dos vogais representantes da Administração deverá efetuar-se até dez dias úteis após o sufrágio de onde resulta a identificação dos vogais representantes dos trabalhadores.\n\n6 - Os vogais efetivos são substituídos pelos vogais suplentes quando tenham de interromper o respetivo mandato ou sempre que a comissão seja chamada a pronunciar-se sobre processos em que aqueles tenham participado como avaliados ou avaliadores."
+  },
+  "900839637": {
+   "fragment_id": "901092784",
+   "type": 11,
+   "heading": "Artigo 17.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Secretário-geral\n\n1 - Compete ao secretário-geral da Assembleia Legislativa da Região Autónoma da Madeira:\n\na) Garantir a permanente adequação da GEDALM às especificidades da Assembleia Legislativa;\n\nb) Coordenar o processo de avaliação, de acordo com os princípios e regras aplicáveis;\n\nc) Avaliar os dirigentes ou os trabalhadores de quem seja superior hierárquico imediato;\n\nd) Proceder à designação de avaliador para efeitos de avaliação extraordinária, nos termos do n.º 4 do artigo 9.º;\n\ne) Homologar as avaliações;\n\nf) Decidir das reclamações dos avaliados após parecer do Conselho Coordenador da Avaliação, no caso dos dirigentes, e da Comissão Paritária, no caso dos trabalhadores, se a intervenção da mesma tiver sido requerida pelo trabalhador reclamante.\n\n2 - Quando o secretário-geral não homologar as avaliações atribuídas deverá ele próprio, mediante despacho fundamentado, estabelecer nova avaliação."
+  },
+  "900839638": {
+   "fragment_id": "901092785",
+   "type": 8,
+   "heading": "Secção II — Avaliações ordinária e extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Avaliações ordinária e extraordinária"
+  },
+  "900839639": {
+   "fragment_id": "901092786",
+   "type": 11,
+   "heading": "Artigo 18.º — Avaliação ordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Avaliação ordinária\n\n1 - A avaliação ordinária deve incluir:\n\na) A autoavaliação, obrigatória, que se concretiza através do preenchimento, pelo avaliado, de ficha própria, de modelo aprovado em anexo ao presente regulamento interno, possuindo natureza preparatória da atribuição da avaliação sem constituir componente vinculativa desta, devendo ser analisada pelo avaliador, se possível conjuntamente com o avaliado;\n\nb) A avaliação da concretização dos objetivos fixados e das competências demonstradas, constante do preenchimento de ficha de modelo aprovado em anexo ao presente regulamento interno;\n\nc) A análise e harmonização das propostas de avaliação;\n\nd) A realização de reunião de entrevista, entre o avaliador e o avaliado, tendo por objetivo a análise do período em avaliação e a definição dos objetivos e metas a prosseguir no novo ciclo de avaliação, de acordo com os objetivos da respetiva unidade orgânica;\n\ne) O parecer do Conselho Coordenador da Avaliação no caso das propostas de avaliação iguais ou superiores a Desempenho muito bom ou na situação da proposta de atribuição da menção de Desempenho inadequado;\n\nf) A homologação da avaliação pelo secretário-geral;\n\ng) A faculdade de impugnação administrativa da homologação, mediante reclamação e recurso.\n\n2 - Na decisão sobre reclamação ou recurso administrativos é considerado, designadamente, o parecer prévio do Conselho Coordenador da Avaliação ou da Comissão Paritária, neste caso, quando a sua intervenção tenha sido requerida, consoante se trate de reclamação de dirigentes ou de trabalhadores, respetivamente.\n\n3 - O avaliado toma conhecimento da proposta de avaliação após a realização da entrevista a que se refere a alínea d) do n.º 1."
+  },
+  "900839640": {
+   "fragment_id": "901092787",
+   "type": 11,
+   "heading": "Artigo 19.º — Parâmetros de avaliação ordinária dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Parâmetros de avaliação ordinária dos trabalhadores\n\n1 - A avaliação ordinária dos trabalhadores assenta nos parâmetros de objetivos e competências, contratualizados entre avaliador e avaliado, prevalecendo a opção do primeiro em caso de discordância.\n\n2 - A contratualização dos objetivos, num total mínimo de quatro, pode refletir, de entre esses, um a dois objetivos comuns a todos os trabalhadores da mesma unidade orgânica.\n\n3 - Os objetivos comuns consideram-se de responsabilidade partilhada.\n\n4 - Os objetivos não comuns devem refletir a especificidade das funções do trabalhador, caso exista, de molde a permitir diferenciar o seu desempenho de forma adequada às singularidades funcionais efetivamente verificadas.\n\n5 - Na fixação dos objetivos podem ser determinados aqueles que são considerados como principais relativamente aos restantes.\n\n6 - Das competências contratualizadas, no mínimo de sete, devem constar, obrigatoriamente, três previamente determinadas para a carreira a que corresponde o trabalhador, sendo as outras negociadas de harmonia com a situação funcional do avaliado.\n\n7 - As competências previamente determinadas a que alude o número anterior são fixadas por deliberação do Conselho Coordenador da Avaliação, de harmonia com as necessidades orgânicas e funcionais verificadas.\n\n8 - As competências são selecionadas de entre as constantes do anexo vi, conjugado com o artigo 2.º, da Portaria n.º 359/2013, de 13 de dezembro."
+  },
+  "900839641": {
+   "fragment_id": "901092788",
+   "type": 11,
+   "heading": "Artigo 20.º — Avaliação do parâmetro «Objetivos»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Avaliação do parâmetro «Objetivos»\n\n1 - Tendo presente a medição do grau de cumprimento de cada objetivo, de acordo com os indicadores estabelecidos, a avaliação é expressa em três níveis:\n\na) «Objetivo superado», a que corresponde uma pontuação de 5;\n\nb) «Objetivo atingido», a que corresponde uma pontuação de 3;\n\nc) «Objetivo não atingido», a que corresponde uma pontuação de 1.\n\n2 - A pontuação final a atribuir ao parâmetro «Objetivos» é o resultado da média aritmética das pontuações atribuídas em todos os objetivos.\n\n3 - Sempre que, por circunstâncias estranhas à vontade do avaliador e do avaliado, se mostre desadequada a manutenção de determinados objetivos devem os mesmos ser renegociados e reformulados e, na impossibilidade da sua reformulação, a avaliação deve decorrer relativamente a outros objetivos que não tenham sido prejudicados por aqueles condicionantes, sendo a respetiva ponderação distribuída pelos restantes.\n\n4 - A avaliação dos resultados obtidos em objetivos de responsabilidade partilhada é, em regra, idêntica para todos os trabalhadores envolvidos, podendo ser diferenciada, de acordo com o contributo de cada trabalhador, por opção fundamentada do avaliador."
+  },
+  "900839642": {
+   "fragment_id": "901092789",
+   "type": 11,
+   "heading": "Artigo 21.º — Avaliação do parâmetro «Competências»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Avaliação do parâmetro «Competências»\n\n1 - A avaliação de cada competência é expressa em três níveis:\n\na) «Competência demonstrada a um nível elevado», a que corresponde a pontuação de 5;\n\nb) «Competência demonstrada», a que corresponde a pontuação de 3;\n\nc) «Competência não demonstrada», a que corresponde a pontuação de 1.\n\n2 - A pontuação final a atribuir ao parâmetro «Competências» é o resultado da média aritmética das pontuações atribuídas em todas as competências."
+  },
+  "900839643": {
+   "fragment_id": "901092790",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação final e menções avaliativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação final e menções avaliativas\n\n1 - A avaliação final é o resultado da média ponderada das pontuações obtidas nos dois parâmetros de avaliação.\n\n2 - Para o parâmetro «Objetivos» é atribuída uma ponderação de 60 % e para o parâmetro «Competências» uma ponderação de 40 %.\n\n3 - A avaliação final é expressa em menções qualitativas, em função do nível de execução de objetivos e de demonstração das competências, bem como das pontuações obtidas nos parâmetros de avaliação, nos seguintes termos:\n\na) Desempenho muito bom, correspondendo à superação, no mínimo, de 70 % dos objetivos e da demonstração a um nível elevado de, pelo menos, 70 % das competências, de acordo com os definidos para o ciclo avaliativo, traduzindo-se numa avaliação quantitativa nunca inferior a 4 até ao máximo de 5, devendo o avaliador fundamentar a sua proposta de avaliação, concretizando a relevância e especial contributo do desempenho do trabalhador para os resultados da respetiva unidade orgânica, requisitos cuja verificação é sujeita à validação do Conselho Coordenador da Avaliação;\n\nb) Desempenho adequado, correspondendo a uma avaliação na qual não se reúnam os requisitos relativos ao número mínimo de superação de objetivos e ao nível de demonstração de competências determinados na alínea anterior, cuja avaliação final seja, quantitativamente, igual ou superior a 2;\n\nc) Desempenho inadequado, correspondendo a uma avaliação final de 1 a 1,999.\n\n4 - Da atribuição, aos avaliados, da menção qualitativa de Desempenho muito bom, pode resultar o reconhecimento de mérito excecional, mediante proposta do avaliador e parecer favorável do Conselho Coordenador da Avaliação, significando Desempenho excelente, o qual depende da verificação da superação de todos os objetivos, e da demonstração a nível elevado de 90 % das competências, não tendo nenhuma não demonstrada, acrescido da fundamentação do especial contributo, com autonomia, do desempenho do trabalhador para os resultados da respetiva unidade orgânica e da exemplaridade do seu desempenho e competências para o serviço e para os demais colaboradores.\n\n5 - O reconhecimento de mérito excecional, como referido no número anterior, dá origem a um agraciamento, nomeadamente, através de publicação no Diário da Assembleia.\n\n6 - Para além do referido no número anterior, as menções de avaliação da GEDALM têm os efeitos previstos para as avaliações do desempenho dos trabalhadores da administração regional autónoma da Madeira."
+  },
+  "900839644": {
+   "fragment_id": "901092791",
+   "type": 11,
+   "heading": "Artigo 23.º — Monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Monitorização\n\nO desempenho dos trabalhadores deve ser objeto de monitorização, através dos meios adequados, de forma a possibilitar, designadamente, a reformulação de objetivos, de acordo com circunstâncias condicionantes supervenientes que o justifiquem."
+  },
+  "900839645": {
+   "fragment_id": "901092792",
+   "type": 11,
+   "heading": "Artigo 24.º — Avaliação extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Avaliação extraordinária\n\n1 - Mediante requerimento do trabalhador apresentado no início do ano de atribuição da avaliação respeitante ao biénio anterior, dirigido ao secretário-geral, há lugar à avaliação extraordinária:\n\na) Quando não se encontrem preenchidas as condições previstas no artigo 11.º, inexistindo uma última avaliação que possa relevar ou existindo, o trabalhador pretenda a sua substituição;\n\nb) Nas situações em que o trabalhador se encontre a exercer outro cargo ou função, nomeadamente, dirigente, em condições que não permitam ser avaliado, e não disponha de última avaliação que possa relevar ou, possuindo-a, pretenda a sua substituição.\n\n2 - A avaliação extraordinária é realizada pelo Conselho Coordenador da Avaliação mediante proposta de avaliador designado, nos termos do n.º 4 do artigo 9.º\n\n3 - A avaliação extraordinária efetua-se com base em ponderação curricular.\n\n4 - A avaliação curricular a realizar assenta na ponderação, designadamente, dos seguintes elementos:\n\na) As habilitações académicas e profissionais;\n\nb) A experiência profissional e a valorização curricular;\n\nc) O exercício de cargos dirigentes ou outros cargos ou funções de reconhecido interesse público ou relevante interesse social.\n\n5 - O resultado global da avaliação extraordinária expressa-se nas menções quantitativas e qualitativas definidas no artigo 22.º, aplicado com as devidas adaptações e de acordo com o seguinte:\n\na) A atribuição da menção qualitativa de Desempenho muito bom depende da obtenção de uma menção quantitativa igual ou superior a 4,400 até ao máximo de 5, devendo o avaliador designado fundamentar de forma sintética e concretizada, a especial relevância dos elementos constantes do currículo do avaliado que justificam aquela menção, submetendo-a à validação do Conselho Coordenador da Avaliação;\n\nb) A atribuição, aos avaliados, em sede de ponderação curricular, da menção qualitativa de Desempenho muito bom, quando correspondente à menção quantitativa de 5, pode resultar no reconhecimento de mérito excecional, mediante proposta do avaliador, fundamentada de forma sintética e concretizada, na excecional relevância dos elementos curriculares do avaliado, evidenciada, designadamente, pelas respetivas experiência profissional e valorização ou pelo especial contributo no exercício de cargos ou funções de reconhecido interesse público ou interesse social, submetendo-a à apreciação do Conselho Coordenador da Avaliação, significando Desempenho excelente no caso de este emitir parecer favorável."
+  },
+  "900839646": {
+   "fragment_id": "901092793",
+   "type": 11,
+   "heading": "Artigo 25.º — Critérios de desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Critérios de desempate\n\nO desempate entre classificações finais iguais de avaliação de desempenho, quando necessário, efetua-se pela seguinte ordem sequencial:\n\na) Releva a avaliação no parâmetro «Objetivos» obtida no período em avaliação;\n\nb) Releva a vertente quantitativa obtida na última avaliação de desempenho;\n\nc) Releva a média aritmética das avaliações obtidas pelo avaliado na carreira em que se encontra;\n\nd) Releva o tempo de serviço no exercício de funções públicas."
+  },
+  "900839647": {
+   "fragment_id": "901092794",
+   "type": 8,
+   "heading": "Secção III — Dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Dirigentes"
+  },
+  "900839648": {
+   "fragment_id": "901092795",
+   "type": 11,
+   "heading": "Artigo 26.º — Avaliação dos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Avaliação dos dirigentes\n\n1 - A avaliação dos dirigentes intermédios efetua-se por ciclo avaliativo, devendo ter lugar até 90 dias antes do termo da respetiva comissão de serviço.\n\n2 - Na avaliação dos dirigentes intermédios são contratualizados, no mínimo três e no máximo cinco objetivos, os quais correspondem aos da unidade orgânica que dirige e relativamente a competências, no mínimo, três devem ser comuns a todos os dirigentes das unidades orgânicas e quatro não comuns, num total de sete competências.\n\n3 - As quatro competências não comuns a que se refere o número anterior, devem refletir as especificidades inerentes ao cargo de direção concretamente exercido, de molde a permitir diferenciar os desempenhos de forma adequada às singularidades funcionais efetivamente verificadas.\n\n4 - As competências previamente determinadas previstas no n.º 3 são fixadas por deliberação do respetivo Conselho Coordenador da Avaliação, de harmonia com as necessidades orgânicas e funcionais verificadas.\n\n5 - A avaliação dos dirigentes a que se refere o presente Regulamento obedece, nas matérias não especialmente previstas no mesmo, ao estabelecido para os dirigentes da administração regional autónoma."
+  },
+  "900839649": {
+   "fragment_id": "901092796",
+   "type": 1,
+   "heading": "Capítulo III — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Garantias"
+  },
+  "900839650": {
+   "fragment_id": "901092797",
+   "type": 11,
+   "heading": "Artigo 27.º — Reclamação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Reclamação\n\n1 - Da homologação das avaliações cabe reclamação escrita para o secretário-geral a interpor no prazo de 15 dias úteis contados da data do respetivo conhecimento.\n\n2 - No caso de reclamação a interpor da homologação de avaliações ordinárias ou extraordinárias de trabalhadores, a decisão pode ser precedida de parecer da Comissão Paritária, caso tal tenha sido requerido pelo trabalhador, nos termos previstos no n.º 1 do artigo 16.º do presente Regulamento.\n\n3 - No caso de reclamação a interpor da homologação da avaliação de dirigentes, a decisão é precedida de parecer do respetivo Conselho Coordenador da Avaliação.\n\n4 - O secretário-geral pode requerer ao avaliador e ao avaliado os elementos que julgue convenientes, bem como, os elementos solicitados pela Comissão Paritária ou pelo Conselho Coordenador da Avaliação.\n\n5 - A decisão sobre a reclamação é proferida no prazo máximo de 15 dias úteis contados da sua receção, obtido o parecer prévio da Comissão Paritária ou do Conselho da Avaliação, nas respetivas situações em que os mesmos devam ter lugar."
+  },
+  "900839651": {
+   "fragment_id": "901092798",
+   "type": 11,
+   "heading": "Artigo 28.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Recurso\n\nDa decisão sobre a reclamação a que se refere o artigo anterior, cabe recurso hierárquico para o Presidente da Assembleia Legislativa da Região Autónoma da Madeira, nos termos gerais."
+  },
+  "900839652": {
+   "fragment_id": "901092799",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regime subsidiário\n\nA título subsidiário, aplica-se a legislação vigente para a Administração Pública, com as respetivas adaptações à administração regional autónoma, e para os trabalhadores da Assembleia da República, com as necessárias adaptações, nos termos do que determina o n.º 2 do artigo 39.º do Decreto Legislativo Regional n.º 24/89/M, de 7 de setembro, na sua redação atual, que estabelece a Estrutura Orgânica da Assembleia Legislativa da Região Autónoma da Madeira."
+  },
+  "900839653": {
+   "fragment_id": "901092800",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "900839654": {
+   "fragment_id": "901092801",
+   "type": 11,
+   "heading": "Artigo 30.º — Produção de efeitos em avaliações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Produção de efeitos em avaliações\n\n1 - O presente Regulamento aplica-se à avaliação do biénio de 2019-2020, em diante.\n\n2 - Relativamente a dirigentes o presente Regulamento aplica-se às comissões de serviço que sejam objeto de avaliação após a sua entrada em vigor."
+  },
+  "900839655": {
+   "fragment_id": "901092802",
+   "type": 11,
+   "heading": "Artigo 31.º — Revisão do Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Revisão do Regulamento\n\n1 - O presente Regulamento é objeto de revisão uma vez cumprida a avaliação do primeiro biénio subsequente ao da sua entrada em vigor.\n\n2 - O disposto no número anterior não prejudica a revisão da GEDALM na eventualidade de circunstância superveniente que o justifique."
+  },
+  "900839656": {
+   "fragment_id": "901092803",
+   "type": 14,
+   "heading": "Anexo II — Modelos de fichas a utilizar na autoavaliação e na avaliação ordinária e extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Modelos de fichas a utilizar na autoavaliação e na avaliação ordinária e extraordinária\n\n(ver documento original)\n\n113669831"
+  },
+  "900839663": {
+   "fragment_id": "901092811",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nREGULAMENTO DE GESTÃO DO DESEMPENHO NA ASSEMBLEIA LEGISLATIVA DA REGIÃO AUTÓNOMA DA MADEIRA (GEDALM)"
+  },
+  "900839664": {
+   "fragment_id": "901092776",
+   "type": 11,
+   "heading": "Artigo 9.º — Periodicidade e prazos",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Periodicidade e prazos\n\n1 - A avaliação ordinária tem periodicidade anual e respeita ao desempenho no ano civil anterior, nos termos seguintes:\n\na) Na primeira quinzena de janeiro, entrega pelos avaliados aos respetivos avaliadores, dos formulários de autoavaliação devidamente preenchidos e realização da avaliação;\n\nb) Na segunda quinzena de janeiro, realização das reuniões do Conselho Coordenador da Avaliação para análise e harmonização das propostas de avaliação, transmitindo as orientações que se mostrem necessárias aos avaliadores, iniciando o processo que conduz às validações de Desempenho inadequado, de Desempenho muito bom e de reconhecimento de Desempenho excelente;\n\nc) Durante o mês de fevereiro, reuniões entre os avaliadores e os avaliados para análise do período objeto de avaliação e contratualização dos parâmetros de avaliação para o novo ciclo de avaliação;\n\nd) Até à primeira quinzena de março, envio pelos avaliadores ao secretário-geral, das respetivas propostas de avaliação exaradas nos modelos de formulário aplicáveis;\n\ne) Até ao dia 15 de abril, reunião do Conselho Coordenador da Avaliação para os efeitos previstos na alínea b), do n.º 3, do artigo 15.º;\n\nf) Até ao dia 30 de abril, homologação das avaliações pelo secretário-geral, devendo os interessados tomar conhecimento da mesma no prazo de 10 dias úteis.\n\n2 - A avaliação extraordinária aplica-se nas situações em que o trabalhador não reúna as condições previstas no artigo 11.º e não possua uma última avaliação que nessa situação possa relevar ou que, possuindo-a, pretenda a sua substituição.\n\n3 - A avaliação extraordinária compreende a ponderação curricular, que se traduz na avaliação do currículo do trabalhador referente aos últimos três anos.\n\n4 - A ponderação curricular é solicitada pelo trabalhador até ao dia 31 de dezembro do ano civil que antecede a avaliação, mediante requerimento apresentado ao secretário-geral, acompanhado da documentação que o trabalhador considere relevante.\n\n5 - A avaliação é realizada pelo imediato superior hierárquico ou, na sua falta ou impedimento, por avaliador designado pelo secretário-geral.\n\n6 - A fim de garantir o cumprimento dos prazos previstos no presente regulamento, os serviços informam os trabalhadores abrangidos pelo n.º 2, na primeira quinzena de dezembro do ano que antecede a avaliação, de que devem requerer a avaliação por ponderação curricular.\n\n> Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+  },
+  "900839665": {
+   "fragment_id": "901092778",
+   "type": 11,
+   "heading": "Artigo 11.º — Requisitos da avaliação ordinária",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Requisitos da avaliação ordinária\n\nSão objeto de avaliação ordinária todos os trabalhadores da Assembleia Legislativa da Região Autónoma da Madeira que, no ano anterior, tenham relação jurídica de emprego público com, pelo menos, seis meses e o correspondente serviço efetivo, independentemente do serviço onde este tenha sido prestado.\n\n> Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+  },
+  "900839666": {
+   "fragment_id": "901092782",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselho Coordenador de Avaliação",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Conselho Coordenador de Avaliação\n\n1 - O Conselho Coordenador da Avaliação é composto pelo secretário-geral, que preside, e pelos diretores de serviços, incluindo aquele responsável pela área de recursos humanos.\n\n2 - Sem prejuízo do disposto no número anterior, sempre que esteja em causa a avaliação de dirigentes, o Conselho Coordenador da Avaliação integra o secretário-geral, o adjunto deste e um membro do conselho de administração, designado por despacho do secretário-geral.\n\n3 - O Conselho Coordenador da Avaliação tem as competências seguintes:\n\na) Garantir a seletividade da GEDALM através da fixação anual de critérios prévios à avaliação e propor as medidas de melhoria que considere relevantes para uma correta e justa avaliação do desempenho dos avaliados;\n\nb) Emitir parecer relativamente às avaliações iguais ou superiores a Desempenho muito bom e quanto às avaliações de Desempenho inadequado;\n\nc) (Revogada.)\n\nd) Dar parecer sobre as reclamações da avaliação dos dirigentes.\n\n4 - O Conselho Coordenador da Avaliação aprova o respetivo regulamento de funcionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+  },
+  "900839667": {
+   "fragment_id": "901092784",
+   "type": 11,
+   "heading": "Artigo 17.º — Secretário-geral",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Secretário-geral\n\n1 - Compete ao secretário-geral da Assembleia Legislativa da Região Autónoma da Madeira:\n\na) Garantir a permanente adequação da GEDALM às especificidades da Assembleia Legislativa;\n\nb) Coordenar o processo de avaliação, de acordo com os princípios e regras aplicáveis;\n\nc) Avaliar os dirigentes ou os trabalhadores de quem seja superior hierárquico imediato;\n\nd) Proceder à designação de avaliador para efeitos de avaliação extraordinária, nos termos do n.º 5 do artigo 9.º;\n\ne) Homologar as avaliações;\n\nf) Decidir das reclamações dos avaliados após parecer do Conselho Coordenador da Avaliação, no caso dos dirigentes, e da Comissão Paritária, no caso dos trabalhadores, se a intervenção da mesma tiver sido requerida pelo trabalhador reclamante.\n\n2 - Quando o secretário-geral não homologar as avaliações atribuídas deverá ele próprio, mediante despacho fundamentado, estabelecer nova avaliação.\n\n> Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+  },
+  "900839668": {
+   "fragment_id": "901092787",
+   "type": 11,
+   "heading": "Artigo 19.º — Parâmetros de avaliação ordinária dos trabalhadores",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Parâmetros de avaliação ordinária dos trabalhadores\n\n1 - A avaliação ordinária dos trabalhadores assenta nos parâmetros de objetivos e competências, contratualizados entre avaliador e avaliado, prevalecendo a opção do primeiro em caso de discordância.\n\n2 - A contratualização dos objetivos, num total mínimo de quatro, pode refletir, de entre esses, um a dois objetivos comuns a todos os trabalhadores da mesma unidade orgânica.\n\n3 - Os objetivos comuns consideram-se de responsabilidade partilhada.\n\n4 - Os objetivos não comuns devem refletir a especificidade das funções do trabalhador, caso exista, de molde a permitir diferenciar o seu desempenho de forma adequada às singularidades funcionais efetivamente verificadas.\n\n5 - Na fixação dos objetivos podem ser determinados aqueles que são considerados como principais relativamente aos restantes.\n\n6 - Das competências contratualizadas, no mínimo de sete, devem constar, obrigatoriamente, três previamente determinadas para a carreira a que corresponde o trabalhador, sendo as outras negociadas de harmonia com a situação funcional do avaliado.\n\n7 - As competências previamente determinadas a que aludem os números anteriores são fixadas pelo dirigente máximo do serviço, ouvido o Conselho Coordenador da Avaliação, por área de atividade e/ou grau de complexidade funcional.\n\n8 - As competências são selecionadas de entre as constantes do anexo vi, conjugado com o artigo 2.º, da Portaria n.º 359/2013, de 13 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+  },
+  "900839669": {
+   "fragment_id": "901092790",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação final e menções avaliativas",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Avaliação final e menções avaliativas\n\n1 - A avaliação final é o resultado da média ponderada das pontuações obtidas nos dois parâmetros de avaliação.\n\n2 - Para o parâmetro «Objetivos» é atribuída uma ponderação de 60 % e para o parâmetro «Competências» uma ponderação de 40 %.\n\n3 - A avaliação final é expressa em menções qualitativas, em função do nível de execução de objetivos e de demonstração das competências, bem como das pontuações obtidas nos parâmetros de avaliação, nos seguintes termos:\n\na) Desempenho muito bom, correspondendo à superação, no mínimo, de 70 % dos objetivos e da demonstração a um nível elevado de, pelo menos, 70 % das competências, de acordo com os definidos para o ciclo avaliativo, traduzindo-se numa avaliação quantitativa nunca inferior a 4 até ao máximo de 5, devendo o avaliador fundamentar a sua proposta de avaliação, concretizando a relevância e especial contributo do desempenho do trabalhador para os resultados da respetiva unidade orgânica, requisitos cuja verificação é sujeita à validação do Conselho Coordenador da Avaliação;\n\nb) «Desempenho bom», correspondendo a uma avaliação na qual não se reúnam os requisitos relativos ao número mínimo de superação de objetivos e ao nível de demonstração de competências determinados na alínea anterior, traduzindo-se numa avaliação final de 3,500 a 3,999;\n\nc) «Desempenho regular», correspondendo a uma avaliação final de 2 a 3,499;\n\nd) Desempenho inadequado, correspondendo a uma avaliação final de 1 a 1,999.\n\n4 - Da atribuição, aos avaliados, da menção qualitativa de Desempenho muito bom, pode resultar o reconhecimento de mérito excecional, mediante proposta do avaliador e parecer favorável do Conselho Coordenador da Avaliação, significando Desempenho excelente, o qual depende da verificação da superação de todos os objetivos, e da demonstração a nível elevado de 90 % das competências, não tendo nenhuma não demonstrada, acrescido da fundamentação do especial contributo, com autonomia, do desempenho do trabalhador para os resultados da respetiva unidade orgânica e da exemplaridade do seu desempenho e competências para o serviço e para os demais colaboradores.\n\n5 - O reconhecimento de mérito excecional, como referido no número anterior, dá origem a um agraciamento, nomeadamente, através de publicação no Diário da Assembleia.\n\n6 - Para além do referido no número anterior, as menções de avaliação da GEDALM têm os efeitos previstos para as avaliações do desempenho dos trabalhadores da administração regional autónoma da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+  },
+  "900839670": {
+   "fragment_id": "901092792",
+   "type": 11,
+   "heading": "Artigo 24.º — Avaliação extraordinária",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Avaliação extraordinária\n\n1 - Mediante requerimento do trabalhador apresentado até ao dia 31 de dezembro do ano civil que antecede a avaliação, dirigido ao secretário-geral, há lugar à avaliação extraordinária:\n\na) Quando não se encontrem preenchidas as condições previstas no artigo 11.º, inexistindo uma última avaliação que possa relevar ou existindo, o trabalhador pretenda a sua substituição;\n\nb) Nas situações em que o trabalhador se encontre a exercer outro cargo ou função, nomeadamente, dirigente, em condições que não permitam ser avaliado, e não disponha de última avaliação que possa relevar ou, possuindo-a, pretenda a sua substituição.\n\n2 - A avaliação extraordinária é realizada nos termos do n.º 5 do artigo 9.º\n\n3 - A avaliação extraordinária efetua-se com base em ponderação curricular.\n\n4 - A avaliação curricular a realizar assenta na ponderação, designadamente, dos seguintes elementos:\n\na) As habilitações académicas e profissionais;\n\nb) A experiência profissional e a valorização curricular;\n\nc) O exercício de cargos dirigentes ou outros cargos ou funções de reconhecido interesse público ou relevante interesse social.\n\n5 - O resultado global da avaliação extraordinária expressa-se nas menções quantitativas e qualitativas definidas no artigo 22.º, aplicado com as devidas adaptações e de acordo com o seguinte:\n\na) A atribuição da menção qualitativa de Desempenho muito bom depende da obtenção de uma menção quantitativa igual ou superior a 4,400 até ao máximo de 5, devendo o avaliador designado fundamentar de forma sintética e concretizada, a especial relevância dos elementos constantes do currículo do avaliado que justificam aquela menção, submetendo-a à validação do Conselho Coordenador da Avaliação;\n\nb) A atribuição, aos avaliados, em sede de ponderação curricular, da menção qualitativa de Desempenho muito bom, quando correspondente à menção quantitativa de 5, pode resultar no reconhecimento de mérito excecional, mediante proposta do avaliador, fundamentada de forma sintética e concretizada, na excecional relevância dos elementos curriculares do avaliado, evidenciada, designadamente, pelas respetivas experiência profissional e valorização ou pelo especial contributo no exercício de cargos ou funções de reconhecido interesse público ou interesse social, submetendo-a à apreciação do Conselho Coordenador da Avaliação, significando Desempenho excelente no caso de este emitir parecer favorável.\n\n> Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+  },
+  "900839671": {
+   "fragment_id": "901092795",
+   "type": 11,
+   "heading": "Artigo 26.º — Avaliação dos dirigentes",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Avaliação dos dirigentes\n\n1 - No início de cada ciclo anual de avaliação ou no início do exercício destas funções, os dirigentes intermédios contratualizam com o avaliador os parâmetros de avaliação, bem como os indicadores do desempenho aplicáveis à avaliação dos objetivos.\n\n2 - Na avaliação dos dirigentes intermédios são contratualizados, no mínimo três e no máximo cinco objetivos, os quais correspondem aos da unidade orgânica que dirige e relativamente a competências, no mínimo, três devem ser comuns a todos os dirigentes das unidades orgânicas e quatro não comuns, num total de sete competências.\n\n3 - As quatro competências não comuns a que se refere o número anterior, devem refletir as especificidades inerentes ao cargo de direção concretamente exercido, de molde a permitir diferenciar os desempenhos de forma adequada às singularidades funcionais efetivamente verificadas.\n\n4 - As competências previamente determinadas previstas no n.º 3 são fixadas por despacho do secretário-geral, ouvido o Conselho Coordenador da Avaliação, de harmonia com as necessidades orgânicas e funcionais verificadas.\n\n5 - Para o parâmetro «Objetivos» é atribuída uma ponderação de 75 % e para o parâmetro «Competências» uma ponderação de 25 %.\n\n6 - São aplicáveis aos dirigentes as menções avaliativas previstas nos n.os 3 e 4 do artigo 22.º\n\n7 - A avaliação do desempenho dos dirigentes intermédios tem os efeitos previstos no respetivo estatuto, em matéria de renovação, não renovação ou cessação da comissão de serviço.\n\n> Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+  },
+  "900839672": {
+   "fragment_id": "901092802",
+   "type": 11,
+   "heading": "Artigo 31.º — Revisão do Regulamento",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Revisão do Regulamento\n\nO presente regulamento é objeto de revisão por resolução ou regulamento da Assembleia Legislativa, ao abrigo do disposto no n.º 1 do artigo 39.º do Decreto Legislativo Regional n.º 24/89/M, de 7 de setembro, na sua atual redação.\n\n> Alterado pelo/a Artigo 2.º do/a [Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 35/2024/M - Diário da República n.º 248/2024, Série I de 2024-12-23](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/35-2024-901014297), em vigor a partir de 2025-01-01"
+  }
+ }
+}

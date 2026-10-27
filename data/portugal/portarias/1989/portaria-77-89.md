@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:610441:por
+title: Portaria n.º 77/89
+short_title: null
+summary: Aprova a zona de protecção do Hospital Concelhio de Vila do Conde
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 77/89
+official_date: null
+publication_date: '1989-02-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/1989, Série I de 1989-02-02
+  number: '28'
+  series: I
+  supplement: null
+  pages: 430 - 431
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/02/02800/04300431.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '610441'
+  dre_path: /dr/detalhe/portaria/77-1989-610441
+  internal: pt:dre:610441:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/77-1989-610441
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/77-1989-610441
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:01:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b78623bbec742f88c9692614b24928c309161816ef8a56a78e4d9f91677b281b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:01:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Hospital Concelhio
+- VILA do Conde
+- Zona de Proteção
+relationships:
+- type: amended_by
+  target: pt:dre:611112:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:225986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468233:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:611112:por
+  label: "Revogada pela PORT.354/89.18.05.1989.MPLAT, DR.IS [114] de 18.05.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/354-1989-611112
+  date: '1989-05-18'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:01:08Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 77/89
+
+de 2 de Fevereiro
+
+Em virtude de se ter verificado a necessidade de, nos termos do artigo 1.º do [Decreto-Lei n.º 34993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34993-1945-468233), de 11 de Outubro de 1945, criar uma zona de protecção do Hospital Concelhio de Vila do Conde, a fim de preservar este Hospital de actividades potencialmente lesivas da tranquilidade que se exige para o salutar funcionamento de uma unidade hospitalar, a Direcção-Geral do Ordenamento do Território providenciou junto da autarquia local que promovesse a divulgação pública da constituição desta servidão administrativa, de acordo com o disposto no artigo 3.º do [Decreto-Lei n.º 181/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1970-225986), de 28 de Abril, tendo a Câmara Municipal de Vila do Conde dado cumprimento ao previsto no mencionado diploma.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordenamento do Território, o seguinte:
+
+1.º É aprovada a zona de protecção do Hospital Concelhio de Vila do Conde, de acordo com a planta anexa e conforme proposta da Direcção-Geral do Ordenamento do Território.
+
+2.º Na zona de protecção referida no número anterior, e sem prejuízo do disposto no artigo 2.º do [Decreto-Lei n.º 34993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34993-1945-468233), de 11 de Outubro, só poderão ser licenciadas construções ou reconstrução de edifícios ou outras instalações que, pela sua natureza, situação e volumetria, não sejam susceptíveis de vir a causar prejuízo ao Hospital Concelhio de Vila do Conde e à paisagem envolvente ou de vir a perturbar o seu funcionamento com a produção de ruídos, poeiras ou fumos.
+
+3.º Competirá à Comissão de Coordenação da Região do Norte fiscalizar a aplicação do disposto na presente portaria.
+
+4.º Esta portaria entra imediatamente em vigor.
+
+Ministério do Planeamento e da Administração do Território.
+
+Assinada em 10 de Janeiro de 1989.
+
+O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/02/02800/04300431.pdf)

@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:685647:por
+title: Portaria n.º 20046
+short_title: null
+summary: Determina que o centeio destinado à incorporação nas farinhas espoadas de trigo seja vendido pela Federação Nacional
+  dos Produtores de Trigo à Federação Nacional dos Industriais de Moagem (e esta às moagens) nas condições estabelecidas para
+  o trigo rijo comum de igual peso de hectolitro e que a diferença entre o preço de compra e da venda pelos referidos organismos
+  constitua receita do Fundo Especial de Compensação das Farinhas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado do Comércio
+proposing_entity: null
+official_number: '20046'
+official_date: null
+publication_date: '1963-09-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 208/1963, Série I de 1963-09-04
+  number: '208'
+  series: I
+  supplement: null
+  pages: 1425 - 1426
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/09/20800/14251426.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '685647'
+  dre_path: /dr/detalhe/portaria/20046-1963-685647
+  internal: pt:dre:685647:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/20046-1963-685647
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20046-1963-685647
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:33:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7265e8f204acf9a7486a45e01d16840ccdbaa07a2bc9df13e25616b868dd8537
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:33:29Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Farinha
+- Federação Nacional dos Produtores de Trigo
+- Indústria da Moagem
+- Receita
+- Trigo
+- Venda
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:33:29Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 20046
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio, que o centeio destinado à incorporação nas farinhas espoadas de trigo seja vendido pela Federação Nacional dos Produtores de Trigo à Federação Nacional dos Industriais de Moagem (e por esta às moagens) nas condições estabelecidas para o trigo rijo comum de igual peso de hectolitro e que a diferença entre o preço de compra à Federação Nacional dos Produtores de Trigo e o de venda pela Federação Nacional dos Industriais de Moagem às moagens constitua receita do Fundo Especial de Compensação das Farinhas.
+
+Secretaria de Estado do Comércio, 4 de Setembro de 1963. - O Secretário de Estado do Comércio, Armando Ramos de Paula Coelho.

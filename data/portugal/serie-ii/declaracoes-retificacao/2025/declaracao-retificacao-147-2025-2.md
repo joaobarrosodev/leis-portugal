@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:906727775:por
+title: Declaração de Retificação n.º 147/2025/2
+short_title: null
+summary: Retifica o Aviso n.º 3505/2025/2, publicado no Diário da República, 2.ª série, n.º 25, de 5 de fevereiro de 2025.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Viana do Alentejo
+proposing_entity: null
+official_number: 147/2025/2
+official_date: null
+publication_date: '2025-02-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/2025, Série II de 2025-02-10
+  number: '28'
+  series: II
+  supplement: null
+  pages: 339 - 339
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/02/028000000/0033900339.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '906727775'
+  dre_path: /dr/detalhe/declaracao-retificacao/147-2025-906727775
+  internal: pt:dre:906727775:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/147-2025-906727775
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/147-2025-906727775
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:57:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8dde4b9b74076012ce2335bb759e798f0256f161c6ab617ff3dcdafc8970683b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:57:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:57:31Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 147/2025/2
+
+Notificação do ato de homologação da lista unitária de ordenação final dos candidatos aprovados no procedimento concursal comum para ocupação de um posto de trabalho em funções públicas por tempo indeterminado, para preenchimento de um posto de trabalho de assistente operacional (auxiliar de serviços gerais para a área da educação) da carreira e categoria de assistente operacional
+
+Luís Miguel Fialho Duarte, Presidente da Câmara Municipal de Viana do Alentejo, no uso de competência própria em matéria de pessoal, torna público que o Aviso (texto integral) n.º 3505/2025/2, relativo ao ato de homologação da lista unitária do procedimento suprarreferenciado, publicado na 2.ª série do Diário da República, n.º 25, de 5 de fevereiro de 2025, saiu com uma inexatidão que, mediante esta declaração, assim se retifica:
+
+Onde se lê:
+
+«[...] que por meu despacho datado de 7 de novembro de 2024, foi homologada a lista unitária de ordenação final do referido procedimento concursal, aberto pela Oferta da Bolsa de Emprego Público com o digo n.º OE202407/0059, de 17 de julho de 2024.»
+
+deve ler-se:
+
+«[...] que por meu despacho datado de 29 de janeiro de 2025, foi homologada a lista unitária de ordenação final do referido procedimento concursal, aberto pela Oferta da Bolsa de Emprego Público com o digo n.º OE202407/0059, de 17 de julho de 2024.»
+
+5 de fevereiro de 2025. - O Presidente da Câmara, Luís Miguel Fialho Duarte.
+
+318657544

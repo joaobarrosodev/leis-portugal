@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994D0278:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994D0278-20040501",
+ "dre_path": null,
+ "source_lastmod": "2004-05-01",
+ "versions": [
+  {
+   "date": "1994-05-11",
+   "future": false,
+   "celex": "31994D0278",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6f67d0484b0a2e5b",
+    "8b6a84f590e97067",
+    "2ea30bb47bf4a96c",
+    "0402605c388e876d",
+    "52f61dc55130d729",
+    "b9bc95578198a4eb",
+    "487daae5fe023ac2",
+    "a043b7e9d8743807",
+    "d129174e2441a5ec",
+    "f0e3f34d46c7ad4a",
+    "1330476398d1c1ea",
+    "919069d48a91f4c9",
+    "6b7eba33cbabc8aa",
+    "1a74cc71c671cd55",
+    "9a4ca57b9e9793e7",
+    "cf000eafc64f4ad9",
+    "d1b42a7425f2b912"
+   ]
+  },
+  {
+   "date": "2004-05-01",
+   "future": false,
+   "celex": "01994D0278-20040501",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime ANEXO",
+    "Suprime PARTE III",
+    "Suprime PARTE IV",
+    "Suprime PARTE V",
+    "Suprime PARTE VI",
+    "Suprime PARTE VII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de cerdas de suíno não tratadas",
+    "Suprime PARTE VIII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de ovos e de ovoprodutos destinados ao consumo humano",
+    "Suprime PARTE IX — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de chorume para tratamento do solo",
+    "Suprime PARTE X",
+    "Suprime PARTE XI — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de caracóis destinados ao consumo humano",
+    "Suprime PARTE XII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de coxas de ra destinadas à alimentação humana",
+    "Suprime PARTE XIII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de gelatinas destinadas ao consumo humano"
+   ],
+   "fragments": [
+    "6c0c2d63bf3fa3ac"
+   ]
+  }
+ ],
+ "fragments": {
+  "6f67d0484b0a2e5b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**94/278/CE: Decisão da Comissão, de 18 de Março de 1994, que estabelece uma lista de países terceiros dos quais os Estados-membros autorizam a importação de determinados produtos abrangidos pela Directiva 92/118/CEE do Conselho (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 120 de 11/05/1994 p. 0044 - 0049 Edição especial finlandesa: Capítulo 3 Fascículo 57 p. 0086 Edição especial sueca: Capítulo 3 Fascículo 57 p. 0086*\n\nDECISÃO DA COMISSÃO de 18 de Março de 1994 que estabelece uma lista de países terceiros dos quais os Estados-membros autorizam a importação de determinados produtos abrangidos pela Directiva 92/118/CEE do Conselho (Texto relevante para efeitos do EEE) (94/278/CE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/118/CEE do Conselho, de 17 de Dezembro de 1992, que define as condições sanitárias e de polícia sanitária que regem o comércio e as importações na Comunidade de produtos não sujeitos, no que respeita às referidas condições, às regulamentações comunitárias específicas referidas no capítulo I do anexo A da Directiva 89/662/CEE e, no que respeita aos agentes patogénicos, na Directiva 90/425/CEE (1), e, nomeadamente, o seu artigo 10º,\n\nConsiderando que determinados produtos abrangidos pela Directiva 92/118/CEE devem ser provenientes de países terceiros que preencham as condições estabelecidas nessa directiva; que estão nesse caso as gelatinas não destinadas ao consumo humano, as tripas de animais, os ossos e determinados produtos à base de ossos, os chifres e determinados produtos à base de chifres, e as unhas e cascos e determinados produtos à base de cascos, destinados ao consumo humano ou animal, o soro de equídeos, a banha e gorduras fundidas, a carne de caça de criação de pêlo e de penas e ainda os produtos à base de carne de aves de capoeira e de caça selvagem;\n\nConsiderando que outros produtos abrangidos pela Directiva 92/118/CEE devem ser provenientes de um país terceiro, ou de uma parte do território de um país terceiro, constante de listas a estabelecer;\n\nConsiderando que, a fim de elaborar essas listas, é necessário efectuar uma avaliação do risco real de propagação de doenças transmissíveis graves ou de doenças transmissíveis ao homem; que essa avaliação foi já efectuada e que, por conseguinte, é agora possível elaborar as diversas listas de países terceiros necessários para a importação dos produtos em questão, podendo as referidas listas basear-se, em especial, na Decisão 79/542/CEE do Conselho (2), com a última redacção que lhe foi dada pela Decisão 94/59/CE da Comissão (3);\n\nConsiderando que determinados produtos não representam qualquer risco para a saúde pública ou animal; que, por conseguinte, pode ser autorizada a sua importação em proveniência de quaisquer países terceiros;\n\nConsiderando que, para permitir a adaptação ao novo regime decorrente da adopção das referidas listas, é necessário prever um prazo para a sua aplicação;\n\nConsiderando que as medidas previstas na presente decisão estão em conformidade com o parecer do Comité veterinário permanente,\n\nADOPTOU A PRESENTE DECISÃO:"
+  },
+  "8b6a84f590e97067": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\nOs Estados-membros autorizarão a importação, em proveniência de quaisquer países terceiros, de:\n\n- ossos e produtos à base de ossos (com exclusão da farinha de ossos), chifres e produtos à base de chifres (com exclusão da farinha de chifres), unhas e cascos e produtos à base de cascos (com exclusão da farinha de cascos) destinados a fins diferentes do consumo humano ou animal,\n\n- la, pêle de ruminantes, penas e partes de penas não tratadas,\n\n- produtos apícolas e mel,\n\n- troféu de caça de acordo com o capítulo XIII do anexo I da Directiva 92/118/CEE."
+  },
+  "2ea30bb47bf4a96c": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nSem prejuízo do disposto nos anexos I e II da Directiva 92/118/CEE e no artigo 1º, os Estados-membros autorizarão a importação de determinados produtos abrangidos pela Directiva 92/118/CEE em proveniência dos países terceiros indicados nas listas respectivas constantes do anexo."
+  },
+  "0402605c388e876d": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nA presente decisão é aplicável a partir de 1 de Julho de 1994."
+  },
+  "52f61dc55130d729": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\nOs Estados-membros são os destinatários da presente decisão.\n\nFeito em Bruxelas, em 18 de Março de 1994.\n\nPela Comissão\n\nRené STEICHEN\n\nMembro da Comissão\n\n(1) JO nº L 62 de 15. 3. 1993, p. 49.\n\n(2) JO nº L 146 de 14. 9. 1979, p. 15.\n\n(3) JO nº L 27 de 1. 2. 1994, p. 53."
+  },
+  "b9bc95578198a4eb": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nAs listas que se seguem são estabelecidas sem prejuízo do respeito das condições de sanidade animal e de saúde pública adequadas, aplicáveis às importações.\n\nPARTE I Lista de países terceiros dos quais os Estados-membros autorizam as importações de leite líquido, de leite em pó e de produtos em pó à base de leite, não destinados ao consumo humano Países terceiros indicados nas listas constantes das partes II e III do anexo da Decisão 94/70/CEE da Comissão (1).\n\nPARTE II A. Lista de países terceiros dos quais os Estados-membros autorizam a importação de proteínas animais transformadas (com excepção da farinha de peixe e outros animais marinhos excepto os mamíferos) não destinadas à alimentação humana Todos os países terceiros enumerados na parte I do anexo da Decisão 79/542/CEE.\n\nB. Lista de países terceiros dos quais os Estados-membros autorizam a importação de farinha de peixe e de outros animais marinhos excepto os mamíferos (AR) Argentina\n\n(BR) Brasil\n\n(CA) Canadá\n\n(CL) Chile\n\n(CN) República Popular da China\n\n(CI) Costa do Marfim\n\n(EC) Equador\n\n(EE) Estónia\n\n(FO) Ilhas Feroé\n\n(FI) Finlândia\n\n(GL) Gronelândia\n\n(IS) Islândia\n\n(LI) Lituânia (LV) Letónia\n\n(MA) Marrocos\n\n(NO) Noruega\n\n(PE) Peru\n\n(PL) Polónia\n\n(PR) Porto Rico\n\n(RU) Rússia\n\n(SN) Senegal\n\n(SE) Suécia\n\n(UA) Ucrânia\n\n(US) Estados Unidos da América\n\n(UY) Uruguai"
+  },
+  "487daae5fe023ac2": {
+   "fragment_id": "PARTE III",
+   "type": "divisao",
+   "heading": "PARTE III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE III\n\nLista de países terceiros dos quais os Estados-membros autorizam a importação de produtos derivados de sangue (não provenientes de equídeos) e de matérias-primas destinadas à indústria farmacêutica\n\nA. Produtos derivados de sangue e matérias-primas provenientes de ungulados\n\nOs países terceiros abrangidos pelas Decisões 92/183/CEE (2) e 92/187/CEE (3) da Comissão.\n\nB. Produtos derivados de sangue e matérias-primas provenientes de outras espécies\n\nOs países terceiros enumerados na parte 1 do anexo da Decisão 79/542/CEE do Conselho."
+  },
+  "a043b7e9d8743807": {
+   "fragment_id": "PARTE IV",
+   "type": "divisao",
+   "heading": "PARTE IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE IV\n\nLista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de produtos derivados de sangue (não provenientes de equídeos) e de matérias-primas destinadas ao fabrico de produtos técnicos\n\nA. Produtos derivados de sangue e matérias-primas provenientes de ungulados\n\nOs países terceiros ou partes de países terceiros enumerados na lista em anexo à Decisão 79/542/CEE, em proveniência dos quais é autorizada a importação de todas as categorias de carne fresca das espécies em questão, independentemente de quaisquer restrições devidas à ausência de aprovação de um plano relativo aos resíduos.\n\nB. Produtos derivados de sangue e matérias-primas provenientes de outras espécies\n\nOs países terceiros enumerados na parte I do anexo da Decisão 79/542/CEE."
+  },
+  "d129174e2441a5ec": {
+   "fragment_id": "PARTE V",
+   "type": "divisao",
+   "heading": "PARTE V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE V\n\nLista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de matérias primas destinadas à fabricação de alimentos para animais\n\nA. Matérias-primas provenientes de animais da espécie bovina, ovina, caprina, suína e equina e das correspondentes espécies selvagens\n\nOs países terceiros enumerados na parte I do anexo da Decisão 79/542/CEE para as carnes frescas das correspondentes espécies.\n\nB. Matérias-primas provenientes de aves de capoeira\n\nOs países terceiros a partir dos quais os Estados-membros autorizam a importação de carne fresca de aves de capoeira que constam na Decisão 94/85/CE da Comissão (1) mas, com exclusão dos países terceiros que podem exportar as carnes frescas de aves de capoeira para a Comunidade devido à utilização das derrogações aos nºs 3 e 4 do artigo 4º da Decisão 93/342/CEE da Comissão (2).\n\nC. Matérias-primas de outras espécies\n\nOs países terceiros enumerados na parte I do anexo da Decisão 79/542/CEE."
+  },
+  "f0e3f34d46c7ad4a": {
+   "fragment_id": "PARTE VI",
+   "type": "divisao",
+   "heading": "PARTE VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE VI\n\nA. Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de carne de coelho e de produtos à base de carne de coelho Os países terceiros enumerados na parte I do anexo da Decisão 79/542/CEE.\n\nB. Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de produtos à base de carne de caça de criação de pêlo Os países terceiros em proveniência dos quais os Estados-membros autorizam a importação de carnes frescas das correspondentes espécies.\n\nC. Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de produtos à base de carne de caça de criação de penas Os países terceiros a partir dos quais os Estados-membros autorizam a importação de carne fresca de aves de capoeira que constam na Decisão 94/85/CE mas, com exclusão dos países terceiros que podem exportar as carnes frescas de aves de capoeira para a Comunidade devido à utilização das derrogações aos nºs 3 e 4 do artigo 4º da Decisão 93/342/CEE."
+  },
+  "1330476398d1c1ea": {
+   "fragment_id": "PARTE VII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de cerdas de suíno não tratadas",
+   "type": "divisao",
+   "heading": "PARTE VII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de cerdas de suíno não tratadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE VII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de cerdas de suíno não tratadas\n\nOs países terceiros enumerados na parte I do anexo da Decisão 79/542/CEE."
+  },
+  "919069d48a91f4c9": {
+   "fragment_id": "PARTE VIII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de ovos e de ovoprodutos destinados ao consumo humano",
+   "type": "divisao",
+   "heading": "PARTE VIII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de ovos e de ovoprodutos destinados ao consumo humano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE VIII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de ovos e de ovoprodutos destinados ao consumo humano\n\nOs países terceiros a partir dos quais os Estados-membros autorizam a importação de carne fresca de aves de capoeira que constam na Decisão 94/85/CE mas, com exclusão dos países terceiros que podem exportar as carnes frescas de aves de capoeira para a Comunidade devido à utilização das derrogações aos nºs 3 e 4 do artigo 4º da Decisão 93/342/CEE."
+  },
+  "6b7eba33cbabc8aa": {
+   "fragment_id": "PARTE IX — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de chorume para tratamento do solo",
+   "type": "divisao",
+   "heading": "PARTE IX — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de chorume para tratamento do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE IX — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de chorume para tratamento do solo\n\nA. Produtos transformados à base de chorume\n\nOs países terceiros enumerados na parte I do anexo da Decisão 79/542/CEE.\n\nB. Chorume não transformado proveniente de equídeos\n\nOs países terceiros enumerados na parte I do anexo da Decisão 79/542/CEE para os equídeos vivos.\n\nC. Chorume não transformado proveniente de aves de capoeira\n\nOs países terceiros a partir dos quais os Estados-membros autorizam a importação de carne fresca de aves de capoeira que constam na Decisão 94/85/CE mas, com exclusão dos países terceiros que podem exportar as carnes frescas de aves de capoeira para a Comunidade devido à utilização das derrogações aos nºs 3 e 4 do artigo 4º da Decisão 93/342/CEE."
+  },
+  "1a74cc71c671cd55": {
+   "fragment_id": "PARTE X",
+   "type": "divisao",
+   "heading": "PARTE X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE X\n\nLista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de alimentos para animais contendo matérias de baixo risco na acepção da Directiva 90/667/CEE do Conselho (1)\n\nOs países terceiros enumerados na parte I do anexo da Decisão 79/542/CEE e os países terceiros a partir dos quais os Estados-membros autorizam a importação de carne fresca de aves de capoeira que constam na Decisão 94/85/CE mas, com exclusão dos países terceiros que podem exportar as carnes frescas de aves de capoeira para a Comunidade devido à utilização das derrogações aos nºs 3 e 4 do artigo 4º da Decisão 93/342/CEE."
+  },
+  "9a4ca57b9e9793e7": {
+   "fragment_id": "PARTE XI — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de caracóis destinados ao consumo humano",
+   "type": "divisao",
+   "heading": "PARTE XI — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de caracóis destinados ao consumo humano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE XI — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de caracóis destinados ao consumo humano\n\n(AL) Albânia\n\n(BG) Bulgária\n\n(BX) Bósnia-Herzegovina\n\n(CH) Suíça\n\n(CN) República Popular da China\n\n(CZ) República Checa\n\n(DZ) Argélia\n\n(HR) Croácia\n\n(HU) Hungria\n\n(ID) Indonésia\n\n(LI) Lituânia\n\n(MA) Marrocos (MD) Moldávia\n\n(MK) Antiga República Jugoslava de Macedónia\n\n(PL) Polónia\n\n(RO) Roménia\n\n(RU) Rússia\n\n(SI) Eslovénia\n\n(SK) República Eslovaca\n\n(SY) Síria\n\n(TN) Tunísia\n\n(TR) Turquia\n\n(UA) Ucrânia\n\n(VN) Vietname"
+  },
+  "cf000eafc64f4ad9": {
+   "fragment_id": "PARTE XII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de coxas de ra destinadas à alimentação humana",
+   "type": "divisao",
+   "heading": "PARTE XII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de coxas de ra destinadas à alimentação humana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE XII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de coxas de ra destinadas à alimentação humana\n\n(AL) Albânia\n\n(BD) Bangladesh\n\n(BG) Bulgária\n\n(BX) Bósnia-Herzegovina\n\n(CN) República Popular da China\n\n(HR) Croácia\n\n(HU) Hungria\n\n(ID) Indonésia\n\n(IN) Índia (MK) Antiga República Jugoslava de Macedónia\n\n(MY) Malásia\n\n(PH) Filipinas\n\n(RO) Roménia\n\n(SI) Eslovénia\n\n(TH) Tailândia\n\n(TR) Turquia\n\n(VN) Vietname"
+  },
+  "d1b42a7425f2b912": {
+   "fragment_id": "PARTE XIII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de gelatinas destinadas ao consumo humano",
+   "type": "divisao",
+   "heading": "PARTE XIII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de gelatinas destinadas ao consumo humano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE XIII — Lista de países terceiros em proveniência dos quais os Estados-membros autorizam a importação de gelatinas destinadas ao consumo humano\n\nTodos os países terceiros indicados na lista constante da parte I do anexo da Decisão 79/542/CEE.\n\n(1) JO nº L 36 de 8. 3. 1994, p. 5.\n\n(2) JO nº L 84 de 31. 3. 1992, p. 23.\n\n(3) JO nº L 87 de 2. 4. 1992, p. 20.\n\n(4) JO nº L 44 de 17. 2. 1994, p. 31.\n\n(5) JO nº L 137 de 8. 6. 1993, p. 24.\n\n(6) JO nº L 363 de 27. 12. 1990, p. 51."
+  },
+  "6c0c2d63bf3fa3ac": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994D0278 — PT — 01.05.2004 — 010.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31994D0278) [DECISÃO DA COMISSÃO](http://publications.europa.eu/resource/celex/31994D0278) [de 18 de Março de 1994](http://publications.europa.eu/resource/celex/31994D0278) [que estabelece uma lista de países terceiros dos quais os Estados-membros autorizam a importação de determinados produtos abrangidos pela Directiva 92/118/CEE do Conselho](http://publications.europa.eu/resource/celex/31994D0278) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/31994D0278) [(94/278/CE)](http://publications.europa.eu/resource/celex/31994D0278) (JO L 120, 11.5.1994, p.44)\n\n**revogado por:**\n\n- [Decisão da Comissão de 17 de Novembro de 2003](http://publications.europa.eu/resource/celex/32003D0812) — L 305 — 17 — 22.11.2003"
+  }
+ }
+}

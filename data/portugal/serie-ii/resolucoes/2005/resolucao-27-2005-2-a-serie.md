@@ -1,0 +1,190 @@
+---
+schema_version: '1.0'
+id: pt:dre:948240:por
+title: Resolução n.º 27/2005 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 27/2005 (2.ª série)
+official_date: null
+publication_date: '2005-06-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 107/2005, Série II de 2005-06-03
+  number: '107'
+  series: II
+  supplement: null
+  pages: 8376 - 8377
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/06/107000000/0837608377.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '948240'
+  dre_path: /dr/detalhe/resolucao/27-2005-948240
+  internal: pt:dre:948240:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/27-2005-948240
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/27-2005-948240
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:12:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 80d7205881c1fc431888991aa29887634fe7cac44595428bd45df5c9626603c6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:12:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Coordenador
+- Coordenador Geral
+- Exoneração
+- Gestor
+- Intervenção Operacional da Educação
+- Jovem
+- Nomeação
+- QCA III
+relationships:
+- type: amended_by
+  target: pt:dre:3341754:por
+  label: "Exonerados os nomeados, pelo DC.475/2006.17.05.2006.PCM, DR.IIS [114] de 14.06.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/despacho-conjunto/475-2006-3341754
+  date: '2006-05-17'
+- type: cites
+  target: celex:31999R1260
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164205:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:249799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274021:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339845:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:12:49Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 27/2005 (2.ª série)
+
+Resolução n.º 27/2005 (2.ª série). - O [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril, alterado pela [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845), de 10 de Agosto, e pelo [Decreto-Lei n.º 122/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2001-164205), de 17 de Abril, define a estrutura orgânica responsável pela gestão, acompanhamento, avaliação e controlo da execução do 3.º Quadro Comunitário de Apoio (QCA III) e das intervenções estruturais comunitárias relativas a Portugal, nos termos do Regulamento (CE) n.º 1260/99, do Conselho, de 21 de Junho.
+
+De acordo com o estabelecido no artigo 25.º do referido diploma, a gestão técnica, administrativa e financeira de cada uma das intervenções operacionais sectoriais incluídas no QCA III incumbe a um gestor, que pode ser apoiado por coordenadores de componentes de intervenções operacionais.
+
+A [Resolução do Conselho de Ministros n.º 27/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-2000-274021), de 16 de Maio, define, nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril, as estruturas de gestão do QCA III e, no que diz respeito à Intervenção Operacional da Educação, o n.º 1.º do anexo I à referida resolução determina que a estrutura de apoio técnico que funciona junto dos gestores tem um nível central e níveis regional e subsectorial, neste último, integrando dois coordenadores subsectoriais.
+
+Através da resolução do Conselho de Ministros n.º 66/2003, de 18 de Setembro, procedeu-se à alteração da configuração da estrutura organizacional da Intervenção Operacional até então existente, instituindo-se, designadamente, no âmbito da coordenação da estrutura de apoio técnico, o cargo de coordenador-geral da estrutura para o qual foi nomeada a mestre Ana Cristina Carvalho Paulo e o de coordenador das componentes de gestão e programação financeira da estrutura de apoio técnico, no qual foi investido o licenciado Jorge Miguel Sousa Reis de Paula.
+
+Importa agora, em vista da obtenção de ganhos de eficiência e eficácia na implementação das novas directrizes e orientações de política definidas para a Intervenção Operacional da Educação, proceder a uma recomposição da estrutura organizacional, o que passa, designadamente, por reequilibrar o peso relativo das áreas de coordenação da referida estrutura, reagrupando as duas dimensões de intervenção, a da formação inicial de jovens e a da formação de adultos.
+
+Para tanto e considerando ainda que a mestre Ana Cristina Carvalho Paulo foi chamada para exercer funções de direcção superior no âmbito da orgânica do Ministério da Educação, torna-se necessário proceder à nomeação de dois novos coordenadores de componentes sectoriais.
+
+Assim:
+
+Nos termos da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Exonerar, a seu pedido, a mestre Ana Cristina Carvalho Paulo do cargo de gestora dos quatro eixos prioritários da Intervenção Operacional da Educação e de coordenadora-geral da estrutura de apoio técnico da mesma Intervenção Operacional, para os quais havia sido nomeada nos termos da resolução do Conselho de Ministros n.º 66/2003 (2.ª série), de 18 de Setembro.
+
+2 - Exonerar, a seu pedido, com efeitos a partir de 9 de Maio de 2005, o licenciado Jorge Miguel Sousa Reis de Paula do cargo de coordenador das componentes de gestão e programação financeira da estrutura de apoio técnico da Intervenção Operacional da Educação, cargo para o qual havia sido nomeado nos termos da resolução do Conselho de Ministros n.º 66/2003 (2.ª série), de 18 de Setembro.
+
+3 - Nomear para o cargo de coordenador da componente sectorial "Formação inicial de jovens" da Intervenção Operacional da Educação do QCA III, nos termos do disposto no artigo 33.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril, a licenciada Maria Manuela Félix Florêncio Bessone Mauritti, cujo currículo se publica em anexo à presente resolução e desta faz parte integrante, sendo equiparada, para efeitos remuneratórios e de abono para despesas de representação, a cargo de direcção superior de 2.º grau.
+
+4 - Determinar que a nomeação de coordenador da componente "Formação inicial de jovens" da Intervenção Operacional da Educação do QCA III, referida no número anterior, produz efeitos a partir do dia 9 de Maio de 2005.
+
+5 - Nomear para o cargo de coordenador da componente "Formação de adultos" da Intervenção Operacional da Educação do QCA III, nos termos do disposto no artigo 33.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril, o licenciado António João Elias Lomba, cujo currículo se publica em anexo à presente resolução e desta faz parte integrante, sendo equiparado, para efeitos remuneratórios e de abono para despesas de representação, a cargo de direcção superior de 2.º grau.
+
+6 - Determinar que a nomeação de coordenador da componente "Formação de adultos" da Intervenção Operacional da Educação do QCA III, referida no número anterior, produz efeitos a partir do dia 9 de Maio de 2005.
+
+12 de Maio de 2005. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+Curriculum vitae
+
+Dados pessoais:
+
+Nome - Maria Manuela Félix Florêncio Bessone Mauritti;
+
+Data de nascimento - 8 de Setembro de 1971;
+
+Naturalidade - Lisboa;
+
+Estado civil - casada;
+
+Bilhete de identidade n.º 9554804.
+
+Formação académica - licenciatura em Direito, pela Universidade Autónoma de Lisboa - Luís de Camões, 1989-1994.
+
+Experiência profissional:
+
+1999-2005 - consultora jurídica da Intervenção Operacional da Educação (PRODEP III);
+
+2002-2005 - consultora jurídica, com contrato de avença, do Programa Operacional Sociedade da Informação (POSI), do 3.º Quadro Comunitário de Apoio;
+
+2000-2002 - consultora jurídica, com contrato de avença, da Agência Nacional para os Programas Sócrates e Leonard da Vinci;
+
+1997-2005 - advogada com maior incidência em direito fiscal, direito administrativo, direito comercial e direito do trabalho;
+
+1994-1997 - colaboradora da APDA - Associação Portuguesa do Direito do Ambiente;
+
+1994-1997 - colaboradora da Cooperativa Doc Juris.
+
+Curriculum vitae
+
+(síntese de nota biográfica)
+
+António João Elias Lomba, nascido em 14 de Fevereiro de 1961, é licenciado em Direito pela Universidade de Lisboa.
+
+Ingressou no ex-Departamento para os Assuntos do Fundo Social Europeu em 1989, onde desempenhou funções na área jurídico-contenciosa, decorrentes da concessão de financiamentos no âmbito do Fundo Social Europeu, até 1997.
+
+De Maio de 1997 a Abril de 2000 exerceu funções na Direcção-Geral do Emprego e Assuntos Sociais da Comissão Europeia, em Bruxelas, na qualidade de perito nacional destacado.
+
+Entre Maio de 2000 e Março de 2001 desempenhou funções de assessor no Gabinete do Secretário de Estado da Segurança Social e de Março de 2001 a Abril de 2002 foi assessor no Gabinete do Ministro do Trabalho e Solidariedade.
+
+Desde Maio de 2002 vem desempenhando funções no Instituto de Gestão do Fundo Social Europeu (IGFSE), na área de auditoria e controlo dos projectos apoiados pelo FSE, detendo, actualmente, a categoria de inspector superior.

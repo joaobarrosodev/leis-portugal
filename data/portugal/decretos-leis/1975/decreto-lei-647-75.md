@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:310262:por
+title: Decreto-Lei n.º 647/75
+short_title: null
+summary: Altera a composição dos quadros orgânicos do pessoal das Casas de Reclusão das Regiões Militares de Lisboa, do Norte
+  e do Centro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 647/75
+official_date: null
+publication_date: '1975-11-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 266/1975, Série I de 1975-11-17
+  number: '266'
+  series: I
+  supplement: null
+  pages: 1825 - 1827
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/11/26600/18251827.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '310262'
+  dre_path: /dr/detalhe/decreto-lei/647-1975-310262
+  internal: pt:dre:310262:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/647-1975-310262
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/647-1975-310262
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:46:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8d4e74f4ea4b9b7706a40d7126c0690af20aef397ff432b8e5914ae3d0bc89a5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:46:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estabelecimento Prisional
+- Forças Armadas
+- Lisboa
+- Quadro de Pessoal
+- Região Militar
+relationships:
+- type: cites
+  target: pt:dre:317346:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:46:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 647/75
+
+de 17 de Novembro
+
+Considerando que os quadros orgânicos das casas de reclusão datam de 1896, e estão, como tal, desactualizados, mesmo tendo em atenção as alterações introduzidas pelos Decretos n.º 17377, de 27 de Setembro de 1929, n.º 18045, de 6 de Março de 1930, n.º 22302, de 10 de Março de 1933, e n.º 23385, de 21 de Dezembro de 1933;
+
+Atendendo a que a Casa de Reclusão da Região Militar de Lisboa administra um número de reclusos muito mais elevado que o das casas de reclusão das outras regiões militares;
+
+Tornando-se necessário dotar as Casas de Reclusão das Regiões Militares de Lisboa, Norte e Centro com quadros orgânicos adequados;
+
+Usando dos poderes conferidos pelo artigo 6.º da [Lei n.º 5/75](https://diariodarepublica.pt/dr/detalhe/lei/5-1975-317346), de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º O quadro orgânico do pessoal da Casa de Reclusão da Região Militar de Lisboa é o constante do anexo n.º 1 ao presente diploma.
+
+Art. 2.º O quadro orgânico do pessoal da Casa de Reclusão da Região Militar do Norte é o constante do anexo n.º 2 ao presente diploma.
+
+Art. 3.º O quadro orgânico do pessoal da Casa de Reclusão da Região Militar do Centro é o constante do anexo n.º 3 ao presente diploma.
+
+Visto e aprovado em Conselho da Revolução.
+
+Promulgado em 4 de Novembro de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.
+
+## ANEXO 1 — Quadro orgânico do pessoal da Casa de Reclusão da Região Militar de Lisboa
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/26600/18251827.pdf)
+
+## ANEXO 2 — Quadro orgânico do pessoal da Casa de Reclusão da Região Militar do Norte
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/26600/18251827.pdf)
+
+## ANEXO 3 — Quadro orgânico do pessoal da Casa de Reclusão da Região Militar do Centro
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/11/26600/18251827.pdf)
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

@@ -1,0 +1,220 @@
+---
+schema_version: '1.0'
+id: pt:dre:335714:por
+title: Portaria n.º 372/75
+short_title: null
+summary: Estabelece a composição da Comissão de Lotações a que se refere o artigo 1.º do Decreto-Lei n.º 60/73, de 24 de Fevereiro,
+  e define as suas atribuições - Revoga a Portaria n.º 182/73, de 13 de Março
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Secretaria de Estado da Marinha Mercante
+proposing_entity: null
+official_number: 372/75
+official_date: null
+publication_date: '1975-06-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 137/1975, Série I de 1975-06-17
+  number: '137'
+  series: I
+  supplement: null
+  pages: 826 - 829
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/06/13700/08260829.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '335714'
+  dre_path: /dr/detalhe/portaria/372-1975-335714
+  internal: pt:dre:335714:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/372-1975-335714
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/372-1975-335714
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:45:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 79f56377f29e02201436cc202494db0978dd13cfa9ca4274054eb60fc55dd42e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:45:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão de Lotações
+- Embarcação de Recreio
+- Lotação
+- Marinha Mercante
+relationships:
+- type: amended_by
+  target: pt:dre:171371:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:473904:por
+  label: "Alterado o n.º 1 do n.º 1.º pela PORT.248/80.14.05.1980.MTC, DR.IS [111] de 14.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/248-1980-473904
+  date: '1980-05-14'
+- type: cites
+  target: pt:dre:471517:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:622815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684230:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:684673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:171371:por
+  label: "Revogada pelo DEC LEI.457/85.30.10.1985.MM, DR.IS [250] de 30.10.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/457-1985-171371
+  date: '1985-10-30'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:45:05Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 372/75
+
+de 17 de Junho
+
+O [Decreto-Lei n.º 587/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/587-1974-471517), de 6 de Novembro, extinguiu os organismos que pelo [Decreto-Lei n.º 256/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1974-622815), de 15 de Junho, haviam sido desafectados do Ministério da Marinha e integrados na Secretaria de Estado da Marinha Mercante (SEMM), entre os quais se incluía a Comissão de Lotações, com a estrutura criada pela [Portaria n.º 182/73](https://diariodarepublica.pt/dr/detalhe/portaria/182-1973-684230), de 13 de Março.
+
+Constituiu-se desse modo uma lacuna que é indispensável e urgente preencher em ordem ao estabelecimento das lotações dos navios, nomeadamente com vista a tornar definitivas lotações que existem ainda com carácter provisório.
+
+Aproveita-se assim o ensejo de estruturar em novos moldes e de harmonia com os princípios democráticos vigentes a constituição e funcionamento da Comissão, de modo que a mesma possa corresponder ao espírito da política de dinamização que se pretende imprimir à marinha mercante.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha Mercante, ao abrigo do artigo 12.º do diploma orgânico da SEMM anexo ao [Decreto-Lei n.º 587/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/587-1974-471517), de 6 de Novembro, o seguinte:
+
+1.º - 1. A Comissão de Lotações a que se refere o artigo 1.º do [Decreto-Lei n.º 60/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1973-684673), de 24 de Fevereiro, será presidida por um capitão da marinha mercante em serviço na Direcção-Geral do Pessoal do Mar (DGPM), a designar pelo director-geral, e terá os seguintes vogais:
+
+a) Um maquinista-chefe da marinha mercante em serviço na SEMM;
+
+b) Um médico em serviço na SEMM;
+
+c) Um radiotelegrafista de 1.ª classe da marinha mercante em serviço na SEMM;
+
+d) Um trabalhador inscrito marítimo, oriundo da marinha de pesca, em serviço na Secretaria de Estado das Pescas (SEP);
+
+e) Três representantes da Associação dos Armadores da Marinha de Comércio;
+
+f) Três representantes da União dos Sindicatos do Mar;
+
+g) Quatro representantes das associações dos armadores da pesca;
+
+h) Um representante do Sindicato dos Pescadores.
+
+2. A Comissão será secretariada por um funcionário da DGPM.
+
+2.º - 1. São atribuições da Comissão estudar e propor a lotação que deve ser atribuída a cada embarcação, quer quanto à parte de segurança, quer quanto à parte operacional, tendo em consideração, nomeadamente, as condições técnicas da embarcação, o tipo de exploração a que se destina e as respectivas condições de habitabilidade.
+
+2. Em qualquer caso, a lotação deve ser fixada de modo que cada tripulante preste, por sistema, apenas o número de horas correspondente ao período normal de trabalho estipulado na regulamentação aplicável.
+
+3.º Para efeitos do artigo anterior, entende-se por parte de segurança da lotação a tripulação suficiente em número e em qualidade com vista a acautelar quaisquer riscos de navegação e por parte operacional o número de tripulantes que, acrescido àquela, possibilita a exploração normal do navio, constituindo, no conjunto, a lotação.
+
+4.º As classes de embarcações sujeitas à fixação de lotações nos termos desta portaria são:
+
+a) De comércio: longo curso, cabotagem e costeira internacional e nacional;
+
+b) De pesca: longínqua e do alto;
+
+c) De recreio, rebocadores e auxiliares: do alto.
+
+5.º A fixação da lotação de uma embarcação é da competência do director-geral do Pessoal do Mar, que, para o efeito, deverá considerar a proposta da Comissão.
+
+6.º - 1. A fixação da lotação de uma embarcação é requerida ao director-geral do Pessoal do Mar.
+
+2. Consideram-se interessados para requerer a fixação da lotação as associações sindicais e os armadores.
+
+7.º - 1. A Comissão de Lotações reunirá por convocatória do presidente, de sua iniciativa, a pedido de qualquer dos vogais ou por determinação do director-geral do Pessoal do Mar.
+
+2. Os vogais a que se refere a alínea e) do n.º 1 do n.º 1.º só serão convocados e intervirão quando se trate das embarcações citadas nas alíneas a) e c) do n.º 4.º
+
+3. Os vogais a que se referem as alíneas d), g) e h) do n.º 1 do n.º 1.º só serão convocados e intervirão quando se trate das embarcações mencionadas na alínea b) do n.º 4.º
+
+4. As sessões poderão funcionar em plenário quando a natureza dos assuntos a tratar for eventualmente comum aos dois tipos de embarcações ou quando for considerado de interesse.
+
+8.º - 1. A proposta da Comissão incidirá separadamente sobre a parte de segurança e sobre a parte operacional da lotação, devendo sobre a última pronunciar-se apenas os representantes dos armadores e dos trabalhadores do mar.
+
+2. Para elaboração da proposta a Comissão deverá proceder a vistoria, salvo quando a entender desnecessária.
+
+9.º - 1. Nos casos de aquisição, construção ou modificação de embarcações, a lotação será fixada simultaneamente à aprovação dos respectivos planos.
+
+2. Para efeitos do n.º 1, os pedidos de fixação da lotação deverão ser acompanhados da especificação técnica e do plano geral do navio.
+
+10.º A lotação constará de um certificado de lotações para a tripulação - de um dos modelos anexos a este diploma, conforme a classificação da embarcação -, o qual mencionará a categoria mínima para o desempenho da respectiva função a bordo.
+
+11.º - 1. No prazo de trinta dias, a contar da notificação do despacho do director-geral do Pessoal do Mar que fixar a lotação, caberá recurso para o Secretário de Estado da Marinha Mercante.
+
+2. Podem recorrer os sindicatos e os armadores interessados.
+
+12.º - 1. Qualquer lotação poderá ser revista:
+
+a) Em prazo não inferior a três meses ou superior a seis, para as embarcações de cabotagem, costeiras e do alto, e não inferior a seis meses ou superior a nove meses, para as embarcações de longo curso e de pesca longínqua, prazos a contar da data em que foi fixada a primeira lotação;
+
+b) Sempre que o certificado de navegabilidade seja renovado.
+
+2. A lotação será obrigatoriamente revista logo que se alterem os elementos que serviram de base à sua fixação.
+
+13.º - 1. As lotações em vigor à data da presente portaria consideram-se válidas enquanto não forem revistas.
+
+2. Os interessados deverão requerer a sua revisão no prazo máximo de um ano.
+
+3. Volvido o prazo mencionado no número anterior, as lotações continuam a manter-se válidas por um prazo de dois anos, contados a partir da data da publicação desta portaria.
+
+4. O disposto nos n.os 2 e 3 deste número entende-se sem prejuízo do fixado no n.º 2 do n.º 12.º
+
+14.º A vistoria a que se refere o n.º 2 do n.º 8.º dá direito à cobrança das taxas fixadas na respectiva tabela por serviços prestados pelos organismos da Direcção-Geral do Pessoal do Mar.
+
+15.º Se o entender necessário, a Comissão elaborará um regulamento interno, que o director-geral do Pessoal do Mar submeterá ao Secretário de Estado da Marinha Mercante para homologação.
+
+16.º Fica revogada a [Portaria n.º 182/73](https://diariodarepublica.pt/dr/detalhe/portaria/182-1973-684230), de 13 de Março.
+
+Secretaria de Estado da Marinha Mercante, 22 de Maio de 1975. - O Secretário de Estado da Marinha Mercante, José Cravino Filipe Pereira.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1975/06/13700/08260829.pdf)
+
+O Secretário de Estado da Marinha Mercante, José Cravino Filipe Pereira.

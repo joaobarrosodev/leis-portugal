@@ -1,0 +1,633 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517404:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1995-1034987217",
+ "dre_path": "/dr/detalhe/portaria/592-1995-517404",
+ "source_lastmod": "2026-05-25",
+ "versions": [
+  {
+   "date": "1995-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:578169:por",
+     "title": "Declaração de Rectificação n.º 109/95",
+     "published": "1995-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/109-1995-578169"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 30.º"
+   ],
+   "fragments": [
+    "1035931575",
+    "1035931775",
+    "1035931975",
+    "1035932175",
+    "1035932375",
+    "1035932575",
+    "1035932775",
+    "1035932975",
+    "1035933175",
+    "1035933375",
+    "1035933575",
+    "1035933775",
+    "1035933975",
+    "1035934175",
+    "1035934375",
+    "1035934575",
+    "1035934775",
+    "1035934975",
+    "1035935175",
+    "1035935375",
+    "1035935575",
+    "1035935775",
+    "1035935975",
+    "1035936175",
+    "1035936375",
+    "1035936575",
+    "1035936775",
+    "1035936975",
+    "1035937175",
+    "1035937375",
+    "1035937575",
+    "1035937775",
+    "1035937975",
+    "1035938175",
+    "1035938375",
+    "1035938575",
+    "1035938775",
+    "1035938975",
+    "1035939175",
+    "1035939375",
+    "1035939575",
+    "1121024675",
+    "1035939975",
+    "1035940175",
+    "1035940375",
+    "1035940575",
+    "1035940775",
+    "1035940975",
+    "1035941175",
+    "1035941375",
+    "1035941575",
+    "1035941775",
+    "1035941975",
+    "1035942175",
+    "1035942375",
+    "1035942575",
+    "1035942775",
+    "1035942975",
+    "1035943175",
+    "1035943375",
+    "1035943575",
+    "1035943775",
+    "1035943975",
+    "1035944175",
+    "1035944375",
+    "1035944575",
+    "1035944775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1035931575": {
+   "fragment_id": "1035931475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Hospital de Egas Moniz, inicialmente designado por Hospital Colonial, e, posteriormente, por Hospital do Ultramar, para fazer face aos renovados desafios que hoje se lhe colocam como estabelecimento hospitalar altamente diferenciado e protagonista de relações institucionais em matéria de ensino e investigação, carece de um instrumento de gestão actualizado, que permita enquadrar e dinamizar novos modelos organizacionais de acordo com princípios e soluções que visem a utilização controlada dos recursos, a racionalização dos consumos, a imperatividade na utilização dos instrumentos mais eficientes e a prossecução de objectivos de eficácia e de qualidade.\n\nAssim:\n\nNos termos do disposto no artigo 35.º do Decreto Regulamentar n.º 3/88, de 22 de Janeiro:\n\nManda o Governo, pelo Ministro da Saúde, que seja aprovado o Regulamento Interno do Hospital de Egas Moniz, anexo à presente portaria, de que faz parte integrante.\n\nMinistério da Saúde."
+  },
+  "1035931775": {
+   "fragment_id": "1035931675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 18 de Maio de 1995.\n\nO Ministro da Saúde, Adalberto Paulo da Fonseca Mendo.\n\nRegulamento Interno do Hospital de Egas Moniz"
+  },
+  "1035931975": {
+   "fragment_id": "1035931875",
+   "type": 1,
+   "heading": "Capítulo I — O Hospital: definição, objectivos e funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — O Hospital: definição, objectivos e funções"
+  },
+  "1035932175": {
+   "fragment_id": "1035932075",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição, objectivos e funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição, objectivos e funções\n\n1 - O Hospital de Egas Moniz é um estabelecimento hospitalar com valências de alto nível de diferenciação, que exerce actividade de interesse público nas áreas de cuidados de saúde, ensino e investigação.\n\n2 - A sua gestão e direcção técnica regem-se pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro, pelas disposições em vigor do Estatuto Hospitalar, demais legislação aplicável e ainda pelo disposto no presente Regulamento."
+  },
+  "1035932375": {
+   "fragment_id": "1035932275",
+   "type": 1,
+   "heading": "Capítulo II — Enumeração, natureza e competência dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Enumeração, natureza e competência dos órgãos"
+  },
+  "1035932575": {
+   "fragment_id": "1035932475",
+   "type": 8,
+   "heading": "Secção I — Da enumeração, natureza e competência genérica dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Da enumeração, natureza e competência genérica dos órgãos"
+  },
+  "1035932775": {
+   "fragment_id": "1035932675",
+   "type": 11,
+   "heading": "Artigo 2.º — Enumeração e natureza dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Enumeração e natureza dos órgãos\n\nO Hospital de Egas Moniz compreende os seguintes órgãos:\n\n1) De administração:\n\na) Conselho de administração;\n\nb) Presidente do conselho de administração ou director;\n\nc) Administrador-delegado;\n\n2) De direcção técnica:\n\na) Director clínico;\n\nb) Enfermeiro-director de serviço de enfermagem;\n\n3) De apoio técnico:\n\na) Conselho técnico;\n\nb) Comissão médica;\n\nc) Comissão de enfermagem;\n\nd) Comissão de farmácia e terapêutica;\n\ne) Comissão de administração hospitalar;\n\nf) Direcção do internato médico;\n\ng) Comissão dos técnicos de diagnóstico e terapêutica;\n\nh) Comissão de controlo da infecção hospitalar;\n\ni) Comissão de ética para a saúde;\n\nj) Comissão mista permanente;\n\nl) Comissão técnica de utilização e qualidade hospitalar;\n\nm) Comissão de coordenação oncológica;\n\nn) Comissão do processo clínico;\n\no) Comissão de informática;\n\n4) De participação e consulta:\n\nConselho geral;\n\n5) De fiscalização:\n\nAuditor."
+  },
+  "1035932975": {
+   "fragment_id": "1035932875",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência genérica dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência genérica dos órgãos\n\nA competência genérica dos órgãos do Hospital de Egas Moniz rege-se pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro."
+  },
+  "1035933175": {
+   "fragment_id": "1035933075",
+   "type": 8,
+   "heading": "Secção II — Dos órgãos de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos órgãos de administração"
+  },
+  "1035933375": {
+   "fragment_id": "1035933275",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição, funcionamento, competência, responsabilidade e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição, funcionamento, competência, responsabilidade e mandato\n\nA composição, o funcionamento, a competência, a responsabilidade e o mandato dos órgãos de administração regem-se pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro."
+  },
+  "1035933575": {
+   "fragment_id": "1035933475",
+   "type": 8,
+   "heading": "Secção III — Dos órgãos de direcção técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Dos órgãos de direcção técnica"
+  },
+  "1035933775": {
+   "fragment_id": "1035933675",
+   "type": 11,
+   "heading": "Artigo 5.º — Director clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Director clínico\n\n1 - A forma de nomeação, o regime de trabalho, a competência, a responsabilidade e o mandato do director clínico regem-se pelo disposto no Decreto Regulamentar n.º 3/88, de 22 de Janeiro.\n\n2 - O director clínico poderá ser coadjuvado por um máximo de cinco adjuntos, por si escolhidos, nomeados pelo conselho de administração."
+  },
+  "1035933975": {
+   "fragment_id": "1035933875",
+   "type": 11,
+   "heading": "Artigo 6 — Enfermeiro-director de serviço de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6 — Enfermeiro-director de serviço de enfermagem\n\n1 - A forma de nomeação, a competência, a responsabilidade e o mandato do enfermeiro-director de serviço de enfermagem regem-se pelo disposto no Decreto Regulamentar n.º 3/88, de 22 de Janeiro.\n\n2 - O enfermeiro-director de serviço de enfermagem poderá ser coadjuvado por um máximo de cinco adjuntos, por si escolhidos, nomeados pelo conselho de administração."
+  },
+  "1035934175": {
+   "fragment_id": "1035934075",
+   "type": 11,
+   "heading": "Artigo 7.º — Reuniões conjuntas dos órgãos de direcção técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reuniões conjuntas dos órgãos de direcção técnica\n\n1 - Os órgãos de direcção técnica devem promover reuniões de trabalho conjuntas, para que sejam asseguradas e desenvolvidas as indispensáveis harmonia e eficiência das respectivas áreas funcionais.\n\n2 - As reuniões serão convocadas pelo director clínico, por sua iniciativa ou a pedido do enfermeiro-director de serviço de enfermagem.\n\n3 - As deliberações tomadas nas reuniões conjuntas deverão sempre conformar-se com as competências estabelecidas na lei para cada um dos órgãos de direcção técnica previstos no Decreto Regulamentar n.º 3/88, de 22 de Janeiro, e no presente Regulamento."
+  },
+  "1035934375": {
+   "fragment_id": "1035934275",
+   "type": 8,
+   "heading": "Secção IV — Dos órgãos de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Dos órgãos de apoio técnico"
+  },
+  "1035934575": {
+   "fragment_id": "1035934475",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho técnico\n\n1 - A composição e competência do conselho técnico (CT) regem-se pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro.\n\n2 - No âmbito do CT poderão formar-se comissões especializadas, designadamente a comissão de planeamento de altas e de continuidade de cuidados (CPAC).\n\n3 - A CPAC é composta pelo director clínico, pelo enfermeiro-director de serviço de enfermagem, pelo administrador hospitalar membro do CT e pelo responsável do serviço social.\n\n4 - A CPAC avaliará mensalmente os resultados do programa de planeamento de altas e de continuidade de cuidados, apresentando ao CT relatórios semestrais e anuais, com vista ao diagnóstico e melhoria da situação existente."
+  },
+  "1035934775": {
+   "fragment_id": "1035934675",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comissão médica\n\n1 - A composição e competência da comissão médica (CM) regem-se pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro.\n\n2 - No âmbito da CM podem ser constituídas comissões especializadas, sob proposta dos directores de departamento e de serviço, a designar pelo director clínico, competindo a coordenação dos trabalhos a este ou a um dos seus adjuntos, por ele designado."
+  },
+  "1035934975": {
+   "fragment_id": "1035934875",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissão de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comissão de enfermagem\n\nA composição e competência da comissão de enfermagem (CE) regem-se pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro."
+  },
+  "1035935175": {
+   "fragment_id": "1035935075",
+   "type": 11,
+   "heading": "Artigo 11.º — Comissão de farmácia e terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comissão de farmácia e terapêutica\n\n1 - A comissão de farmácia e terapêutica (CFT) é constituída por seis membros, dos quais três são médicos e três farmacêuticos.\n\n2 - A CFT é presidida pelo director clínico do Hospital ou por um dos seus adjuntos, por ele designado; os restantes médicos são designados pela CM e os farmacêuticos pelo pessoal técnico superior dos serviços farmacêuticos do quadro do Hospital.\n\n3 - A CFT reúne em sessão ordinária de 15 em 15 dias e, extraordinariamente, sempre que seja convocada pelo presidente."
+  },
+  "1035935375": {
+   "fragment_id": "1035935275",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência da comissão de farmácia e terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência da comissão de farmácia e terapêutica\n\n1 - As competências da CFT são as constantes do Decreto Regulamentar n.º 3/88, de 22 de Janeiro.\n\n2 - Compete ainda à CFT:\n\na) Propor à direcção médica critérios a seguir no campo da política de utilização de antibióticos, bem como a restrição ou a introdução de novos antibióticos, fundamentando as razões das propostas;\n\nb) Dar parecer ao Instituto Nacional da Farmácia e do Medicamento sobre a necessidade de importação de certos medicamentos para uso no Hospital;\n\nc) Exercer uma acção de farmacovigilância, fomentando o despiste de interacções, incompatibilidades e reacções adversas aos medicamentos e registando e divulgando o seu conhecimento;\n\nd) Propor ao conselho de administração a designação de médicos consultores para cada uma das especialidades médicas e cirúrgicas existentes no Hospital, aos quais compete dar parecer sobre os assuntos relacionados com as suas especialidades."
+  },
+  "1035935575": {
+   "fragment_id": "1035935475",
+   "type": 11,
+   "heading": "Artigo 13.º — Comissão de administração hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comissão de administração hospitalar\n\n1 - A comissão de administração hospitalar (CAH) é composta por todos os administradores hospitalares a exercer funções no Hospital, podendo um deles ser nomeado coordenador pelo conselho de administração.\n\n2 - A CAH reúne semanalmente com pelo menos 50% dos seus membros ou, extraordinariamente, desde que seja convocada a pedido de um deles."
+  },
+  "1035935775": {
+   "fragment_id": "1035935675",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência da comissão de administração hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência da comissão de administração hospitalar\n\nCompete especialmente à CAH:\n\na) Estudar e propor modelos de desenvolvimento organizacional adequados à realidade do Hospital;\n\nb) Analisar os assuntos agendados para as reuniões do conselho técnico;\n\nc) Apreciar e apresentar relatórios relativos a temas propostos pelo conselho de administração."
+  },
+  "1035935975": {
+   "fragment_id": "1035935875",
+   "type": 11,
+   "heading": "Artigo 15.º — Direcção do internato médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção do internato médico\n\nA forma de nomeação, a composição e a competência da direcção do internato médico (DIM) regem-se pelo disposto no Regulamento do Internato Complementar, aprovado pela Portaria n.º 416-B/91, de 17 de Maio."
+  },
+  "1035936175": {
+   "fragment_id": "1035936075",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão dos técnicos de diagnóstico e terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comissão dos técnicos de diagnóstico e terapêutica\n\n1 - A comissão dos técnicos de diagnóstico e terapêutica (CTDT) é composta por todos os técnicos de diagnóstico e terapêutica directores e ou coordenadores, que de entre si elegem o que preside à comissão.\n\n2 - Constituem competências específicas da CTDT:\n\na) Colaborar activamente com o conselho de administração na coordenação das actividades docentes entre as Escolas Superiores de Tecnologia da Saúde de Lisboa e de Coimbra, a Escola Superior de Saúde do Alcoitão e o Hospital de Egas Moniz;\n\nb) Indicar um técnico de diagnóstico e terapêutica para ter assento na comissão de ética para a saúde;\n\nc) Colaborar na execução de planos de actualização profissional do pessoal técnico de diagnóstico e terapêutica;\n\nd) Dar parecer e colaborar na execução da regulamentação interna daquele pessoal;\n\ne) Dar parecer sobre assuntos submetidos à sua apreciação pelos órgãos de administração e direcção técnica do Hospital."
+  },
+  "1035936375": {
+   "fragment_id": "1035936275",
+   "type": 11,
+   "heading": "Artigo 17.º — Comissão de controlo da infecção hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Comissão de controlo da infecção hospitalar\n\n1 - A comissão de controlo da infecção hospitalar (CCIH) tem a seguinte composição:\n\na) Coordenador, designado pelo conselho de administração;\n\nb) Equipa técnica, integrada por um internista, um farmacêutico, um microbiologista, um administrador hospitalar e dois enfermeiros, designados pelo conselho de administração.\n\n2 - Eventualmente, podem fazer parte da comissão membros consultivos, designados pelo conselho de administração, sob proposta da equipa técnica, e membros dinamizadores, representando departamentos, serviços e especialidades.\n\n3 - A equipa técnica funciona em plenário e reúne quinzenalmente."
+  },
+  "1035936575": {
+   "fragment_id": "1035936475",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência da comissão de controlo da infecção hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência da comissão de controlo da infecção hospitalar\n\nCompete à CCIH:\n\na) Colaborar na apreciação e verificação do estado das instalações, equipamentos e circuitos de pessoas e bens de consumo;\n\nb) Definir orientações gerais e propor normas a seguir na prevenção da infecção;\n\nc) Pronunciar-se, sempre que solicitada, sobre a aquisição de material ou equipamentos de esterilização e sobre o controlo de empacotamento, validade e armazenamento do material esterilizado;\n\nd) Pronunciar-se, sempre que solicitada, sobre a eliminação ou introdução de material de consumo com reflexos em técnicas ou terapêuticas concernentes à higiene hospitalar;\n\ne) Propor uma política de anti-sépticos e de desinfectantes e proceder ao controlo de qualidade dos respectivos produtos;\n\nf) Colaborar na elaboração dos cadernos de encargos para as empresas de limpeza, na parte que implique a sua acção em limpeza e higiene do Hospital;\n\ng) Denunciar, em relatórios ou pareceres, situações de risco de infecção iminente ou a curto prazo, fazendo a avaliação técnica dos factos;\n\nh) Propor acções de educação em serviço, através do Centro de Formação do Hospital de Egas Moniz, no sentido de informar, esclarecer e dinamizar para os objectivos da CCIH;\n\ni) Divulgar, por meio de um manual de recomendações da CCIH, quer os objectivos, quer as funções da comissão."
+  },
+  "1035936775": {
+   "fragment_id": "1035936675",
+   "type": 11,
+   "heading": "Artigo 19.º — Comissão de ética para a saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comissão de ética para a saúde\n\nA composição, constituição, mandato, direcção e competência da comissão de ética para a saúde (CES) são as que decorrem do Decreto-Lei n.º 97/95, de 10 de Maio."
+  },
+  "1035936975": {
+   "fragment_id": "1035936875",
+   "type": 11,
+   "heading": "Artigo 20.º — Comissão mista permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comissão mista permanente\n\n1 - A coordenação das actividades docentes entre a Faculdade de Ciências Médicas da Universidade Nova de Lisboa e o Hospital de Egas Moniz é assegurada por uma comissão mista permanente (CMP), nos termos do Decreto-Lei n.º 94/91, de 26 de Fevereiro, e das Portarias n.os 219/91 e 972/93, respectivamente de 16 de Março e de 9 de Outubro.\n\n2 - Integram a CMP:\n\na) O director do Hospital;\n\nb) O presidente do conselho directivo da Faculdade de Ciências Médicas da Universidade Nova de Lisboa;\n\nc) O director clínico ou um seu adjunto, no caso de o director clínico ser também o director do Hospital;\n\nd) O presidente do conselho científico da Faculdade de Ciências Médicas da Universidade Nova de Lisboa.\n\n3 - Os membros da CMP escolherão de entre si o respectivo presidente, que possui voto de qualidade."
+  },
+  "1035937175": {
+   "fragment_id": "1035937075",
+   "type": 11,
+   "heading": "Artigo 21.º — Competência da comissão mista permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competência da comissão mista permanente\n\nCompete à CMP, designadamente:\n\na) Deliberar sobre todas as matérias referentes ao regime de articulação institucional;\n\nb) Definir a correspondência entre novas áreas ou disciplinas com os serviços hospitalares já existentes e, bem assim, entre os novos serviços hospitalares e as áreas ou disciplinas hoje existentes;\n\nc) Submeter ao conselho científico do estabelecimento de ensino propostas de alteração curricular que se repercutam significativamente na actividade das instituições hospitalares ou centros de saúde;\n\nd) Sugerir a atribuição de verbas de investimento para actividades assistenciais, de educação e de investigação científica e apreciar os respectivos planos;\n\ne) Pronunciar-se sobre quaisquer matérias do interesse quer da Faculdade de Ciências Médicas da Universidade Nova de Lisboa quer do Hospital de Egas Moniz."
+  },
+  "1035937375": {
+   "fragment_id": "1035937275",
+   "type": 11,
+   "heading": "Artigo 22.º — Comissão técnica de utilização e qualidade hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comissão técnica de utilização e qualidade hospitalar\n\n1 - Integram a comissão técnica de utilização e qualidade hospitalar (CTUQH):\n\na) O director clínico ou seu adjunto, em quem tenha delegado, que preside;\n\nb) O enfermeiro-director de serviço de enfermagem;\n\nc) Os directores de departamento;\n\nd) Os administradores hospitalares dos centros de responsabilidade.\n\n2 - A CTUQH funciona em plenário, uma vez por trimestre, ou em grupos de trabalho, sempre que o plenário assim o entenda, para a elaboração de relatórios a apresentar à CTUQH.\n\n3 - Os grupos de trabalho poderão agregar a si quem entenderem necessário, para o estudo de problemas sobre os quais tenham de se pronunciar."
+  },
+  "1035937575": {
+   "fragment_id": "1035937475",
+   "type": 11,
+   "heading": "Artigo 23.º — Competência da comissão técnica de utilização e qualidade hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competência da comissão técnica de utilização e qualidade hospitalar\n\nCompete à CTUQH:\n\na) Estudar, propor e acompanhar permanentemente as medidas que julgue necessárias para avaliar o funcionamento dos serviços de acção médica, em ordem a promover a rentabilização dos meios utilizados na prestação de cuidados, de acordo com os factores de qualidade adoptados;\n\nb) Estudar e, depois de ouvidos os directores dos departamentos interessados, propor a regulamentação necessária para o estabelecimento de padrões de qualidade a todos os níveis de actuação do Hospital;\n\nc) Controlar a evolução dos indicadores do movimento assistencial;\n\nd) Avaliar o funcionamento das consultas externas do Hospital e promover a sua ligação harmónica com os serviços de acção médica e com os serviços complementares de diagnóstico e terapêutica;\n\ne) Dar parecer sobre todos os assuntos que se relacionem com o âmbito da sua competência técnica ou sobre quaisquer outros relativamente aos quais os órgãos de gestão requeiram a sua consulta."
+  },
+  "1035937775": {
+   "fragment_id": "1035937675",
+   "type": 11,
+   "heading": "Artigo 24.º — Comissão de coordenação oncológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comissão de coordenação oncológica\n\nA composição, o funcionamento e a competência da comissão de coordenação oncológica (CCO) regem-se pelo disposto na Portaria n.º 420/90, de 8 de Junho."
+  },
+  "1035937975": {
+   "fragment_id": "1035937875",
+   "type": 11,
+   "heading": "Artigo 25.º — Comissão do processo clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comissão do processo clínico\n\n1 - A comissão do processo clínico (CPC) é composta por seis elementos, nomeados pelo conselho de administração, que constituem um núcleo permanente; quando necessário, poderá agregar temporariamente pessoas cujo perfil se demonstre de grande utilidade.\n\n2 - Compete à CPC:\n\na) Estudar e propor um modelo de processo clínico para vigorar em todo o Hospital;\n\nb) Exercer periódica e aleatoriamente acções de auditoria à forma como os processos são preenchidos e enviar os correspondentes relatórios ao director do serviço respectivo, ao director do departamento e ao conselho de administração;\n\nc) Verificar a adaptabilidade do modelo em vigor à realidade do Hospital;\n\nd) Dar parecer sobre quaisquer alterações, quer substantivas, quer relativas à forma do processo clínico."
+  },
+  "1035938175": {
+   "fragment_id": "1035938075",
+   "type": 11,
+   "heading": "Artigo 26.º — Comissão de informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Comissão de informática\n\n1 - A comissão de informática (CI) é composta por seis elementos, sendo um deles o administrador-delegado, que preside, e os restantes cinco nomeados pelo conselho de administração.\n\n2 - Compete à CI:\n\na) Preparar os planos de investimento no domínio da telemática e dar parecer sobre pedidos individuais de aquisição de equipamento ou de aplicações informáticas;\n\nb) Propor soluções de normalização interna e de adopção de normas nacionais e internacionais de informática médica, no domínio da telemática em particular;\n\nc) Coordenar o estudo e elaboração de propostas no domínio dos sistemas de informação, do tratamento automático e das comunicações;\n\nd) Propor medidas julgadas pertinentes para o desenvolvimento formativo da informática médica no Hospital;\n\ne) Avaliar o funcionamento dos sistemas informáticos existentes.\n\n3 - As competências da CI devem ser exercidas no quadro de um estreito diálogo com o Instituto de Gestão Informática e Financeira da Saúde (IGIFS), dadas as atribuições daquele Instituto, designadamente as expressas na alínea b) do artigo 2.º do Decreto-Lei n.º 308/93, de 2 de Setembro."
+  },
+  "1035938375": {
+   "fragment_id": "1035938275",
+   "type": 8,
+   "heading": "Secção V — Dos órgãos de participação e consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Dos órgãos de participação e consulta"
+  },
+  "1035938575": {
+   "fragment_id": "1035938475",
+   "type": 11,
+   "heading": "Artigo 27.º — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Conselho geral\n\nA composição, o funcionamento e a competência do conselho geral regem-se pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro."
+  },
+  "1035938775": {
+   "fragment_id": "1035938675",
+   "type": 8,
+   "heading": "Secção VI — Dos órgãos de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Dos órgãos de fiscalização"
+  },
+  "1035938975": {
+   "fragment_id": "1035938875",
+   "type": 11,
+   "heading": "Artigo 28.º — Auditor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Auditor\n\nA forma de nomeação, remuneração e apoio ao auditor regem-se pelo disposto no Decreto-Lei n.º 19/88, de 21 de Janeiro, e no Decreto Regulamentar n.º 3/88, de 22 de Janeiro, com a redacção dada pelo Decreto Regulamentar n.º 7/89, de 4 de Março."
+  },
+  "1035939175": {
+   "fragment_id": "1035939075",
+   "type": 1,
+   "heading": "Capítulo III — Dos serviços assistenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos serviços assistenciais"
+  },
+  "1035939375": {
+   "fragment_id": "1035939275",
+   "type": 8,
+   "heading": "Secção I — Da estrutura dos serviços assistenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Da estrutura dos serviços assistenciais"
+  },
+  "1035939575": {
+   "fragment_id": "1035939475",
+   "type": 11,
+   "heading": "Artigo 29.º — Departamentos, serviços e unidades funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Departamentos, serviços e unidades funcionais\n\n1 - Os serviços assistenciais estruturam-se em departamentos, serviços e unidades funcionais.\n\n2 - O departamento engloba, em regra, serviços ou unidades funcionais, bem como outras estruturas que, pela natureza das respectivas atribuições, revelem afinidade nas valências que lhe estão afectas e permitam uma gestão mais operacional.\n\n3 - A unidade funcional representa um conjunto bem definido de actividades desenvolvidas no âmbito do departamento ou serviço, em complemento das atribuições específicas destes e visando proporcionar uma melhoria da prestação dos cuidados de saúde."
+  },
+  "1121024675": {
+   "fragment_id": "1035939675",
+   "type": 11,
+   "heading": "Artigo 30.º — Estrutura funcional",
+   "in_force_from": "1995-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 109/95 - Diário da República n.º 175/1995, 3º Suplemento, Série I-B de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1995-578169), em vigor a partir de 1995-07-31."
+   ],
+   "markdown": "###### Artigo 30.º — Estrutura funcional\n\n1 - As valências existentes no Hospital de Egas Moniz integram os departamentos, serviços e unidades funcionais seguintes:\n\na) Departamento de Cabeça e Pescoço, integrando:\n\nServiço de Estomatologia;\n\nServiço de Neurocirurgia;\n\nServiço de Neurologia;\n\nServiço de Oftalmologia;\n\nServiço de Otorrinolaringologia;\n\nb) Departamento de cirurgia, integrando:\n\nServiço de cirurgia;\n\nServiço de cirurgia plástica e reconstrutiva;\n\nServiço de ginecologia;\n\nServiço de ortopedia;\n\nServiço de urologia;\n\nc) Departamento de imagiologia, integrando:\n\nServiço de neurorradiologia;\n\nServiço de radiologia;\n\nd) Departamento de medicina, integrando:\n\nServiço de cardiologia;\n\nServiço de endocrinologia;\n\nServiço de gastrenterologia;\n\nServiço de infecciologia e medicina tropical;\n\nServiço de medicina física e de reabilitação;\n\nServiço de medicina interna I;\n\nServiço de medicina interna II;\n\nServiço de pneumologia;\n\nUnidade de cuidados intensivos médicos (UCIM);\n\ne) Departamento de medicina laboratorial, integrando:\n\nServiço de anatomia patológica;\n\nServiço de genética médica;\n\nServiço de imuno-hemoterapia;\n\nServiço de patologia clínica;\n\nf) Departamento de anestesiologia e reanimação, integrando:\n\nServiço de anestesia;\n\nBloco operatório central;\n\nUnidade de cuidados intensivos cirúrgicos (UCIC);\n\nUnidade de recobro.\n\n2 - Os blocos operatórios periféricos ficam integrados nos respectivos serviços.\n\n3 - As unidades de dermatologia, psiquiatria, reumatologia, hematologia e oncologia constituem unidades funcionais integradas num dos serviços de medicina, mediante despacho do conselho de administração.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 109/95 - Diário da República n.º 175/1995, 3º Suplemento, Série I-B de 1995-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/109-1995-578169), em vigor a partir de 1995-07-31."
+  },
+  "1035939975": {
+   "fragment_id": "1035939875",
+   "type": 8,
+   "heading": "Secção II — Dos directores de departamento e de serviço, dos chefes de serviço, assistentes graduados e assistentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos directores de departamento e de serviço, dos chefes de serviço, assistentes graduados e assistentes"
+  },
+  "1035940175": {
+   "fragment_id": "1035940075",
+   "type": 11,
+   "heading": "Artigo 31.º — Director de departamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Director de departamento\n\n1 - A forma de nomeação e as competências do director de departamento constam dos Decretos-Leis n.os 73/90 e 396/93, respectivamente de 6 de Março e de 24 de Novembro.\n\n2 - Compete ao director de departamento:\n\na) Dirigir o respectivo departamento, coordenado a acção dos serviços e ou unidades funcionais que o compõem;\n\nb) Fazer cumprir as disposições legais e regulamentares aplicáveis;\n\nc) Promover a dinamização da integração funcional dos serviços e áreas do departamento, tendo em conta o aproveitamento integral dos equipamentos disponíveis;\n\nd) Estabelecer as ligações entre o departamento e a direcção médica do Hospital, privilegiando a articulação interdepartamental, em ordem à obtenção de um funcionamento harmónico do Hospital.\n\n3 - Compete, em especial, ao director de departamento:\n\na) Preparar os planos de acção anuais do departamento, a submeter à aprovação do conselho de administração, controlar e avaliar a sua execução e promover a correcção dos desvios registados, em colaboração com o administrador hospitalar coordenador do respectivo centro de responsabilidade;\n\nb) Propor a admissão de pessoal com perfil adequado e bem definido, de acordo com o permitido nos programas de acção anuais;\n\nc) Aprovar os horários de trabalho e os planos de férias, dentro dos limites estabelecidos pelo conselho de administração;\n\nd) Elaborar relatórios trimestrais e anuais de actividades do departamento e submetê-los à aprovação do conselho de administração;\n\ne) Exercer as competências que o conselho de administração lhe delegar;\n\nf) Propor ao conselho de administração a instauração de procedimentos disciplinares.\n\n4 - O director de departamento poderá delegar competências nos respectivos directores e chefes de serviço, reservando para si o controlo da actividade do mesmo."
+  },
+  "1035940375": {
+   "fragment_id": "1035940275",
+   "type": 11,
+   "heading": "Artigo 32.º — Director de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Director de serviços\n\n1 - A forma de nomeação e as competências do director de serviço hospitalar constam dos Decretos-Leis n.os 73/90 e 396/93, respectivamente de 6 de Março e de 24 de Novembro.\n\n2 - Ao director de serviço compete, com salvaguarda das competências atribuídas neste Regulamento ao director de departamento, dirigir toda a actividade do respectivo serviço de acção médica, sendo responsável pela correcção e prontidão dos cuidados de saúde a prestar aos doentes, bem como pela utilização e eficiente aproveitamento dos recursos postos à sua disposição.\n\n3 - Compete, em especial, ao director de serviço:\n\na) Elaborar o programa de acção anual do seu serviço, em colaboração com o director do departamento, se nele estiver integrado, e assegurar o seu cumprimento;\n\nb) Promover a existência das melhores condições de humanização e de hotelaria do seu serviço;\n\nc) Assegurar a prática de um adequado sistema informativo e de relacionamento com os doentes e seus familiares;\n\nd) Assegurar a produtividade e experiência dos cuidados de saúde prestados e proceder à sua avaliação sistemática;\n\ne) Rever as decisões de admissão e alta;\n\nf) Garantir a organização e constante actualização dos processos clínicos e a aplicação dos programas de controlo de qualidade e produtividade;\n\ng) Controlar os consumos do serviço;\n\nh) Zelar pela actualização das técnicas utilizadas, promovendo o aperfeiçoamento contínuo do pessoal do respectivo serviço;\n\ni) Desenvolver a interdisciplinaridade profissional no serviço, fomentando e exigindo do pessoal o sentido da responsabilidade;\n\nj) Manter a disciplina do serviço e assegurar o cumprimento integral por todo o pessoal do regime de trabalho que o liga ao Hospital.\n\n4 - O director de serviço poderá delegar competências nos respectivos chefes de serviço, reservando sempre para si o controlo das actividades do mesmo."
+  },
+  "1035940575": {
+   "fragment_id": "1035940475",
+   "type": 11,
+   "heading": "Artigo 33.º — Chefe de serviço, assistente graduado e assistente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Chefe de serviço, assistente graduado e assistente\n\nAlém das funções atribuídas por lei ao chefe de serviço, assistente graduado e assistente, poderá o director de departamento ou de serviço delegar neles a coordenação de uma unidade funcional."
+  },
+  "1035940775": {
+   "fragment_id": "1035940675",
+   "type": 8,
+   "heading": "Secção III — Do enfermeiro-supervisor e do enfermeiro-chefe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do enfermeiro-supervisor e do enfermeiro-chefe"
+  },
+  "1035940975": {
+   "fragment_id": "1035940875",
+   "type": 11,
+   "heading": "Artigo 34 — Enfermeiro-supervisor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34 — Enfermeiro-supervisor\n\nA competência do enfermeiro-supervisor rege-se pelo disposto no Decreto-Lei n.º 437/91, de 8 de Novembro."
+  },
+  "1035941175": {
+   "fragment_id": "1035941075",
+   "type": 11,
+   "heading": "Artigo 35 — Enfermeiro-chefe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35 — Enfermeiro-chefe\n\nA competência do enfermeiro-chefe rege-se pelo disposto no Decreto Regulamentar n.º 3/88, de 22 de Janeiro, e no Decreto-Lei n.º 437/91, de 8 de Novembro."
+  },
+  "1035941375": {
+   "fragment_id": "1035941275",
+   "type": 8,
+   "heading": "Secção IV — Dos serviços assistenciais de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Dos serviços assistenciais de apoio"
+  },
+  "1035941575": {
+   "fragment_id": "1035941475",
+   "type": 11,
+   "heading": "Artigo 36.º — Serviços farmacêuticos, serviço social e serviço de saúde ocupacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Serviços farmacêuticos, serviço social e serviço de saúde ocupacional\n\n1 - Além dos serviços assistenciais mencionados no artigo 30.º do presente Regulamento, o Hospital dispõe ainda dos seguintes serviços assistenciais de apoio:\n\na) Serviços farmacêuticos;\n\nb) Serviço social;\n\nc) Serviço de saúde ocupacional.\n\n2 - A estrutura, o funcionamento e a área funcional de cada um destes serviços, bem como a sua relação com os demais, serão objecto de regulamentação específica, a emitir pelo conselho de administração."
+  },
+  "1035941775": {
+   "fragment_id": "1035941675",
+   "type": 8,
+   "heading": "Secção V — Dos serviços de apoio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Dos serviços de apoio geral"
+  },
+  "1035941975": {
+   "fragment_id": "1035941875",
+   "type": 11,
+   "heading": "Artigo 37.º — Serviços de apoio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Serviços de apoio geral\n\n1 - O Hospital dispõe dos seguintes serviços e sectores de apoio geral:\n\na) Serviço de gestão de recursos humanos (SGRH);\n\nb) Serviços financeiros (SF);\n\nc) Serviço de gestão de doentes (SGD);\n\nd) Serviço de gestão da documentação clínica (SGDC);\n\ne) Serviço de relações públicas, comunicação e informação (SRPCI);\n\nf) Gabinete jurídico (GJ);\n\ng) Serviço de gestão de materiais (SGM);\n\nh) Serviço de esterilização (SE);\n\ni) Serviços hoteleiros (SH);\n\nj) Serviço de instalações e equipamento (SIE);\n\nl) Centro de tratamento de imagem (CTI);\n\nm) Arquivo geral (AG);\n\nn) Gabinete do utente (GU).\n\n2 - A estrutura, o funcionamento e a área funcional de cada um destes serviços, bem como as suas relações com os demais, serão objecto de regulamentação específica, a emitir pelo conselho de administração."
+  },
+  "1035942175": {
+   "fragment_id": "1035942075",
+   "type": 8,
+   "heading": "Secção VI — Dos serviços culturais e de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Dos serviços culturais e de formação"
+  },
+  "1035942375": {
+   "fragment_id": "1035942275",
+   "type": 11,
+   "heading": "Artigo 38.º — Serviços culturais e de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Serviços culturais e de formação\n\n1 - O Hospital dispõe dos seguintes serviços culturais e de formação:\n\na) Centro de formação (CEF);\n\nb) Biblioteca;\n\nc) Arquivo histórico e museu.\n\n2 - A estrutura, o funcionamento e a área funcional de cada um destes serviços, bem como as suas relações com os demais, serão objecto de regulamentação específica, a emitir pelo conselho de administração."
+  },
+  "1035942575": {
+   "fragment_id": "1035942475",
+   "type": 8,
+   "heading": "Secção VII — Dos serviços de investigação clínica e ou científica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Dos serviços de investigação clínica e ou científica"
+  },
+  "1035942775": {
+   "fragment_id": "1035942675",
+   "type": 11,
+   "heading": "Artigo 39.º — Unidade de microcirurgia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Unidade de microcirurgia\n\n1 - O Hospital dispõe de uma unidade de microcirurgia (UM) experimental, que é um laboratório com autonomia técnica, científica e pedagógica;\n\n2 - A UM tem como objectivos:\n\na) Promover a realização da investigação científica;\n\nb) Promover o ensino da microcirurgia através de monitores, da realização de cursos teórico-práticos e de estágios devidamente programados.\n\n3 - A estrutura da UM, a forma de funcionamento, a sua área funcional e o seu enquadramento orgânico serão objecto de regulamentação específica, a emitir pelo conselho de administração."
+  },
+  "1035942975": {
+   "fragment_id": "1035942875",
+   "type": 11,
+   "heading": "Artigo 40.º — Núcleo de estudos e investigação do VIH",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Núcleo de estudos e investigação do VIH\n\n1 - O Hospital dispõe de um núcleo de investigação do VIH (NIVIH), laboratório com autonomia técnica e científica.\n\n2 - O NIVIH tem como objectivos:\n\na) Promover a realização da investigação científica no que respeita ao VIH;\n\nb) Dinamizar a realização de reuniões de índole científica no que concerne à sua área específica de investigação;\n\nc) Cooperar com outras estruturas científicas com objectivos idênticos ou afins.\n\n3 - A estrutura do NIVIH, a sua forma de funcionamento e o seu enquadramento orgânico serão objecto de regulamentação específica, a emitir pelo conselho de administração."
+  },
+  "1035943175": {
+   "fragment_id": "1035943075",
+   "type": 11,
+   "heading": "Artigo 41.º — Núcleo de estudos e investigação em administração hospitalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Núcleo de estudos e investigação em administração hospitalar\n\n1 - O Hospital dispõe de um núcleo de estudos e investigação em administração hospitalar (NEIAH), com autonomia técnica, científica e pedagógica.\n\n2 - O NEIAH tem como objectivos:\n\na) Promover a investigação e a inovação científica em administração hospitalar;\n\nb) Estimular a realização de reuniões de índole científica;\n\nc) Concretizar a realização de estudos em administração hospitalar;\n\nd) Cooperar com entidades com objectivos idênticos ou afins.\n\n3 - A estrutura do NEIAH, a sua forma de funcionamento e o seu enquadramento orgânico serão objecto de regulamentação específica, a emitir pelo conselho de administração."
+  },
+  "1035943375": {
+   "fragment_id": "1035943275",
+   "type": 11,
+   "heading": "Artigo 42.º — Núcleo de estudos e investigação em enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Núcleo de estudos e investigação em enfermagem\n\n1 - O Hospital dispõe de um núcleo de estudos e investigação em enfermagem (NEIE), com autonomia técnica, científica e pedagógica.\n\n2 - O NEIE tem como objectivos:\n\na) Promover a realização da investigação científica e de estudos em enfermagem;\n\nb) Dinamizar reuniões de índole científica;\n\nc) Cooperar com entidades com objectivos idênticos ou afins.\n\n3 - A estrutura do NEIE, a sua forma de funcionamento e o seu enquadramento orgânico serão objecto de regulamentação específica, a emitir pelo conselho de administração."
+  },
+  "1035943575": {
+   "fragment_id": "1035943475",
+   "type": 1,
+   "heading": "Capítulo IV — Dos níveis intermédios de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Dos níveis intermédios de administração"
+  },
+  "1035943775": {
+   "fragment_id": "1035943675",
+   "type": 11,
+   "heading": "Artigo 43.º — Centros de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Centros de responsabilidade\n\n1 - Os centros de responsabilidade (CR) regem-se pelo disposto no Decreto Regulamentar n.º 3/88, de 22 de Janeiro, e serão objecto de regulamentação específica, à medida que forem criados.\n\n2 - A coordenação das actividades dos CR é da competência do conselho de administração, que a poderá delegar no administrador-delegado.\n\n3 - Os CR deverão dispor de dotação privativa, sem prejuízo da unidade orçamental do Hospital.\n\n4 - Nos termos do n.º 2 do artigo 32.º do Decreto-Lei n.º 73/90, de 6 de Março, e sempre que os departamentos e serviços que integrem o CR o possibilitem, será permitido, nas instalações do Hospital, o exercício da clínica privada pelos médicos que integram os CR, sem prejuízo do cumprimento do horário normal de serviço, em condições a estabelecer na regulamentação específica do respectivo CR.\n\n5 - O exercício da actividade referida no número anteior depende de autorização prévia, caso a caso, do conselho de administração, sob proposta do director clínico, ouvido o director do CR.\n\n6 - As receitas do exercício da actividade da clínica privada facturadas pelos serviços financeiros do Hospital constituirão, em percentagem a fixar na regulamentação referida no n.º 4, receitas privativas do CR.\n\n7 - A regulamentação específica mencionada no presente artigo constará de documento a submeter à aprovação ministerial pelo conselho de administração e nela serão definidas as relações entre os CR e os departamentos e serviços do Hospital, bem como as condições de funcionamento da clínica privada, nos termos previstos no n.º 4."
+  },
+  "1035943975": {
+   "fragment_id": "1035943875",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "1035944175": {
+   "fragment_id": "1035944075",
+   "type": 11,
+   "heading": "Artigo 44.º — Relacionamento com a comunidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Relacionamento com a comunidade\n\nO Hospital de Egas Moniz privilegiará formas actuantes de convivência com a comunidade que integra, designadamente com unidades de saúde, instituições e serviços da área da segurança social, autarquias locais, instituições académicas, escolas de formação profissional e outras entidades nacionais e internacionais de interesse público."
+  },
+  "1035944375": {
+   "fragment_id": "1035944275",
+   "type": 11,
+   "heading": "Artigo 45.º — Liga dos Amigos do Hospital de Egas Moniz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Liga dos Amigos do Hospital de Egas Moniz\n\nA Liga dos Amigos do Hospital de Egas Moniz é a entidade particularmente vocacionada para a sua divulgação e abertura ao exterior."
+  },
+  "1035944575": {
+   "fragment_id": "1035944475",
+   "type": 11,
+   "heading": "Artigo 46.º — Voluntariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Voluntariado\n\nO voluntariado exerce as suas tarefas em colaboração com o serviço social, visando amenizar as esperas inevitáveis e contribuir para a humanização dos cuidados."
+  },
+  "1035944775": {
+   "fragment_id": "1035944675",
+   "type": 11,
+   "heading": "Artigo 47.º — Remissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Remissões\n\nAs remissões para os diplomas legais e regulamentares referidos no presente Regulamento considerar-se-ão efectuadas para todos aqueles que venham a regular, no todo ou em parte, as matérias neles contidas."
+  }
+ }
+}

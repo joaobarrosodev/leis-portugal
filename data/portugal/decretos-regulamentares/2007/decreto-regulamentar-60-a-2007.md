@@ -1,0 +1,228 @@
+---
+schema_version: '1.0'
+id: pt:dre:321693:por
+title: Decreto Regulamentar n.º 60-A/2007
+short_title: null
+summary: Aprova a orgânica da Secretaria-Geral do Ministério das Obras Públicas, Transportes e Comunicações
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 60-A/2007
+official_date: null
+publication_date: '2007-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2007, 1º Suplemento, Série I de 2007-04-30
+  number: '83'
+  series: I
+  supplement: null
+  pages: 2924-(9) a 2924-(10)
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08301/00090010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/60-a/2007/04/30/p/dre/pt/html
+  oj: null
+  dre: '321693'
+  dre_path: /dr/detalhe/decreto-regulamentar/60-a-2007-321693
+  internal: pt:dre:321693:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-a-2007-321693
+  metadata_url: https://data.dre.pt/eli/decregul/60-a/2007/04/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-a-2007-321693
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:31:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 71737bc474efb648b3ebb3c49aaee49c08a70e87d9d67bd637aaa07475882977
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:31:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Gestão Financeira
+- Ministério das Obras Públicas Transportes e Comunicações
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Secretaria Geral
+relationships:
+- type: amended_by
+  target: pt:dre:178822:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:642012:por
+  label: "Extinta, sendo objecto de fusão, a Secretaria-Geral do Ministério das Obras Públicas, Transportes e Comunicações\
+    \ e integradas as suas atribuições na Secretaria-Geral do Ministério da Economia e do Emprego, pelo DEC LEI.126-C/2011.29.12.2011.MEE,\
+    \ DR.IS [249-Supl] de 29.12.2011\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/126-c-2011-642012
+  date: '2011-12-29'
+- type: cites
+  target: pt:dre:545644:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/201/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:545646:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/210/2006/10/27/p/dre
+- type: cites
+  target: pt:dre:603475:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:653149:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/246/1997/09/19/p/dre
+- type: repealed_by
+  target: pt:dre:178822:por
+  label: "Revogado, a partir de 01.07.2012, e determinado que a Secretaria-Geral do Ministério da Economia e do Emprego, suceda\
+    \ nas atribuições da Secretaria-Geral do Ministério das Obras Públicas, Transportes e Comunicações, pelo DEC LEI.124/2012.20.06.2012.MEE,\
+    \ DR.IS [118] de 20.06.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-2012-178822
+  date: '2012-06-20'
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:31:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 60-A/2007
+
+de 30 de Abril
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa, à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 210/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-2006-545646), de 27 de Outubro, que aprovou a Lei Orgânica do Ministério das Obras Públicas, Transportes e Comunicações, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura, aprovando a orgânica da Secretaria-Geral, definida como serviço de suporte à gestão de recursos por aquele diploma.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 24.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Secretaria-Geral do Ministério das Obras Públicas, Transportes e Comunicações (MOPTC), abreviadamente designada por SG, é um serviço central da administração directa do Estado, dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A SG tem por missão assegurar as funções de apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MOPTC e aos demais órgãos e serviços nele integrados, nos domínios da gestão de recursos internos, de apoio técnico-jurídico e contencioso, da documentação e informação, da comunicação e relações públicas e das tecnologias de informação e comunicação, assegurando ainda as funções relativas à preparação e acompanhamento da execução do orçamento de funcionamento do MOPTC.
+
+2 - A SG prossegue as seguintes atribuições:
+
+a) Prestar aos gabinetes dos membros do Governo integrados no MOPTC e aos respectivos serviços e organismos por aqueles indicados o apoio técnico e administrativo que lhe for solicitado e que não se inclua nas atribuições próprias dos demais serviços;
+
+b) Promover a aplicação das medidas de políticas na área de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MOPTC na respectiva implementação;
+
+c) Prestar serviços de contabilidade e tesouraria aos serviços e organismos do MOPTC, assegurando a uniformidade de critérios e políticas contabilísticas;
+
+d) Assegurar a aquisição centralizada de bens e serviços para os serviços de administração directa e indirecta do MOPTC, assumindo, designadamente, as funções de unidade ministerial de compras;
+
+e) Assegurar a gestão integrada do património imobiliário e do arquivo histórico do MOPTC, procedendo à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores, assegurando respectivamente a optimização dos custos globais de ocupação e funcionamento e a sua preservação;
+
+f) Efectuar a gestão integrada do cadastro e inventário dos bens do Estado que lhe estejam afectos;
+
+g) Assegurar as actividades de relações públicas de apoio aos membros do Governo do MOPTC e promover as iniciativas no âmbito de uma política de comunicação superiormente decidida;
+
+h) Implementar as políticas relacionadas com as tecnologias de informação e comunicações do MOPTC, garantindo a coordenação, execução e avaliação das iniciativas de informatização e actualização tecnológica dos respectivos serviços e organismos, assegurando uma gestão eficaz dos recursos disponíveis;
+
+i) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade, no âmbito do MOPTC, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;
+
+j) Coordenar a preparação do orçamento de funcionamento do MOPTC e acompanhar a sua execução;
+
+l) Emitir pareceres e informações jurídicas, colaborar na preparação e apreciação de projectos de diplomas e de outros actos normativos, acompanhar tecnicamente procedimentos administrativos, assegurar o apoio jurídico-contencioso e instruir processos de inquérito, disciplinares ou outros de natureza similar;
+
+m) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afecto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais.
+
+###### Artigo 3.º — Órgãos
+
+A SG é dirigida por um secretário-geral, coadjuvado por dois secretários-gerais-adjuntos.
+
+###### Artigo 4.º — Secretário-geral
+
+1 - O secretário-geral exerce as competências que lhe sejam conferidas por lei ou nele que nele sejam delegadas ou subdelegadas.
+
+2 - Os secretários-gerais-adjuntos exercem as competências que lhe sejam delegadas ou subdelegadas pelo secretário-geral, devendo este identificar a quem compete substitui-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Tipo de organização interna
+
+A organização interna da SG obedece ao modelo de estrutura hierarquizada.
+
+###### Artigo 6.º — Receitas
+
+1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A SG dispõe ainda das seguintes receitas próprias:
+
+a) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;
+
+b) O produto de venda de publicações e de trabalhos editados pela SG;
+
+c) As que resultam da organização de acções de formação;
+
+d) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou por outro título.
+
+3 - As receitas referidas no número anterior são consignadas à realização de despesas da SG durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados das receitas referidas nas alíneas b) a d) do mesmo número transitar para o ano seguinte.
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da SG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 8.º — Quadro de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 9.º — Efeitos revogatórios
+
+Nos temos do artigo 5.º do [Decreto-Lei n.º 201/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2006-545644), de 27 de Outubro, considera-se revogado na data de entrada em vigor do presente decreto regulamentar o [Decreto-Lei n.º 246/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1997-653149), de 19 de Setembro.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Mário Lino Soares Correia.
+
+Promulgado em 3 de Abril de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 5 de Abril de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## ANEXO — (mapa a que se refere o artigo 8.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/04/08301/00090010.pdf)

@@ -1,0 +1,227 @@
+---
+schema_version: '1.0'
+id: pt:dre:636191:por
+title: Decreto-Lei n.º 253/2007
+short_title: null
+summary: Regula o pagamento da taxa de comercialização dos medicamentos veterinários, farmacológicos e imunológicos e revoga
+  parcialmente o Decreto-Lei n.º 282/95, de 26 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 253/2007
+official_date: null
+publication_date: '2007-07-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 130/2007, Série I de 2007-07-09
+  number: '130'
+  series: I
+  supplement: null
+  pages: 4370 - 4371
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13000/43704371.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/253/2007/07/09/p/dre/pt/html
+  oj: null
+  dre: '636191'
+  dre_path: /dr/detalhe/decreto-lei/253-2007-636191
+  internal: pt:dre:636191:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-2007-636191
+  metadata_url: https://data.dre.pt/eli/dec-lei/253/2007/07/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-2007-636191
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:58:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: af931794f5504ad1e75fc57016ee3c09662205a9b990c1b33aa1e3de91967567
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:58:44Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Comércio
+- Contra-ordenação
+- Direção Geral de Veterinária
+- Indústria Farmacêutica
+- Infarmed
+- Inspeção Geral de Finanças
+- Medicamento
+- Medicamento Veterinário
+- Produto em Madeira
+- Sanção
+- Saúde Animal
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Alterado o art. 1.º do Dec Lei 282/95, de 26-out, na redação do presente diploma, pelo(a) Lei n.º 82-B/2014 - Diário
+    da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/82-b-2014-66016527
+  date: '2014-12-31'
+- type: cites
+  target: pt:dre:197511:por
+  label: null
+  source: http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
+- type: cites
+  target: pt:dre:233945:por
+  label: null
+  source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+- type: cites
+  target: pt:dre:668119:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/282/1995/10/26/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:58:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 253/2007
+
+de 9 de Julho
+
+O [Decreto-Lei n.º 282/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1995-668119), de 26 de Outubro, aprovou, ao abrigo da autorização legislativa concedida pela [Lei n.º 39-B/94](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), de 27 de Dezembro, uma taxa de comercialização de medicamentos de uso humano e veterinário.
+
+A actual regulamentação comunitária dos medicamentos veterinários prevê, designadamente, um maior reforço dos sistemas de farmacovigilância e melhoria dos meios materiais e humanos necessários para assegurar o sistema global de garantia de qualidade do medicamento e a garantia da segurança dos medicamentos veterinários, no âmbito do qual os serviços são prestados.
+
+A taxa de comercialização destina-se a custear os referidos serviços.
+
+O Instituto Nacional da Farmácia e do Medicamento (INFARMED) é o responsável pelos medicamentos de uso humano, cabendo tal competência à Direcção-Geral de Veterinária (DGV) no que respeita aos medicamentos veterinários farmacológicos e medicamentos veterinários imunológicos.
+
+Deste modo, impõe-se harmonizar o quadro legislativo nacional da taxa de comercialização de medicamentos de uso humano e de medicamentos veterinários com as actuais disposições comunitárias e nacionais, designadamente em matéria de medicamentos veterinários imunológicos que são objecto de legislação específica e distinta da dos medicamentos veterinários farmacológicos, e bem assim do Sistema Nacional de Farmacovigilância e Toxicologia Veterinária da responsabilidade da DGV.
+
+Nesta medida, é revogado parcialmente o [Decreto-Lei n.º 282/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1995-668119), de 26 de Outubro, que se mantém apenas no que se refere aos medicamentos de uso humano, sendo os demais regulados pelo presente decreto-lei.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 153.º da [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), de 29 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Taxa de comercialização dos medicamentos
+
+1 - Os titulares de autorização de introdução no mercado de cada medicamento veterinário farmacológico ou imunológico, sujeitos e não sujeitos a receita médico-veterinária, ou a entidade que fique responsável, por indicação do primeiro, pela sua comercialização, ficam obrigados ao pagamento de uma taxa de comercialização, adiante designada por taxa.
+
+2 - A taxa referida no número anterior destina-se ao suporte financeiro do sistema de garantia de qualidade dos medicamentos veterinários farmacológicos e imunológicos, do Sistema Nacional de Farmacovigilância e Toxicologia Veterinária para os medicamentos veterinários farmacológicos e imunológicos e do Plano Nacional de Controlo de Utilização de Medicamentos Destinados a Animais de Exploração, bem como da realização de estudos de avaliação do impacte epidemiológico daqueles medicamentos e de acções de formação e informação aos profissionais de saúde animal, aos agentes económicos do sector agro-pecuário e aos consumidores de alimentos de origem animal, a assegurar pela Direcção-Geral de Veterinária, abreviadamente designada por DGV.
+
+3 - A taxa a que se refere o n.º 1 é de 0,4% do volume de vendas de cada medicamento veterinário farmacológico ou imunológico, calculada sobre o preço de venda.
+
+###### Artigo 2.º — Cobrança
+
+1 - A taxa prevista no artigo anterior constitui receita própria da DGV, a quem cabe a cobrança.
+
+2 - A cobrança da taxa é feita mensalmente, com base nas declarações de vendas mensais fornecidas pelos sujeitos obrigados ao seu pagamento, de acordo com o impresso próprio aprovado pela DGV.
+
+3 - A DGV pode determinar, em articulação com a Inspecção-Geral das Finanças, inspecções com o objectivo de verificar a correcção dos elementos fornecidos para a determinação da taxa.
+
+###### Artigo 3.º — Actividades da DGV
+
+No âmbito das contrapartidas a prestar, a DGV deve enviar aos obrigados ao pagamento da taxa as conclusões dos estudos e das informações recolhidas sobre cada um dos medicamentos veterinários farmacológicos e imunológicos que comercializam.
+
+###### Artigo 4.º — Contra-ordenações
+
+1 - A não apresentação da declaração de venda mensal nos termos do n.º 2 do artigo 2.º constitui contra-ordenação punível com coima de (euro) 250 a (euro) 3740 ou (euro) 44890, consoante o agente seja pessoa singular ou colectiva.
+
+2 - A negligência e a tentativa são puníveis, sendo os limites referidos no número anterior reduzidos para metade.
+
+###### Artigo 5.º — Sanções acessórias
+
+1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:
+
+a) Perda de objectos pertencentes ao agente;
+
+b) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Privação do direito de participar em feiras ou mercados;
+
+e) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;
+
+f) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+g) Suspensão de autorizações, licenças e alvarás.
+
+2 - As sanções referidas nas alíneas b) a g) do número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória definitiva.
+
+###### Artigo 6.º — Tramitação das contra-ordenações
+
+1 - A instrução do processo de contra-ordenação compete aos serviços veterinários regionais da DGV.
+
+2 - A aplicação das coimas e das sanções acessórias previstas no presente decreto-lei compete ao director-geral de Veterinária.
+
+###### Artigo 7.º — Afectação do produto das coimas
+
+A afectação do produto das coimas cobradas em aplicação do número anterior faz-se da seguinte forma:
+
+a) 40% constitui receita própria da DGV;
+
+b) Os restantes 60% revertem para os cofres do Estado.
+
+###### Artigo 8.º — Regiões Autónomas
+
+1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações que sejam introduzidas através de diploma regional adequado.
+
+2 - A execução administrativa do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira cabe aos serviços competentes das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV, na qualidade de autoridade sanitária veterinária nacional.
+
+3 - O produto das coimas cobradas nas Regiões Autónomas dos Açores e da Madeira constituem receita própria destas.
+
+###### Artigo 9.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 282/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1995-668119), de 26 de Outubro, em tudo o que se refere aos medicamentos de uso veterinário.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 17 de Maio de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva - Francisco Ventura Ramos.
+
+Promulgado em 18 de Junho de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 21 de Junho de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

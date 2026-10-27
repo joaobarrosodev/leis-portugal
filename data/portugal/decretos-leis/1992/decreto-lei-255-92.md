@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: pt:dre:584251:por
+title: Decreto-Lei n.º 255/92
+short_title: null
+summary: Aprova a alienação de 90% do capital social da Siderurgia Nacional, S. A.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 255/92
+official_date: null
+publication_date: '1992-11-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 269/1992, Série I-A de 1992-11-20
+  number: '269'
+  series: I
+  supplement: null
+  pages: 5352 - 5353
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/11/269a00/53525353.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/255/1992/11/20/p/dre/pt/html
+  oj: null
+  dre: '584251'
+  dre_path: /dr/detalhe/decreto-lei/255-1992-584251
+  internal: pt:dre:584251:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1992-584251
+  metadata_url: https://data.dre.pt/eli/dec-lei/255/1992/11/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1992-584251
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:19:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 35f20d816596516d5a778c5296ec9833a607718a728307c16f5a6a5deb860b7b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:19:06Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de Acções
+- Capital Social
+- Privatização
+- Siderurgia Nacional
+relationships:
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476154:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/113/1991/03/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:19:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 255/92
+
+de 20 de Novembro
+
+O [Decreto-Lei n.º 113/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1991-476154), de 20 de Março, transformou a empresa pública Siderurgia Nacional, E. P., em sociedade anónima de capitais maioritariamente públicos, autorizando o Governo a proceder à alienação do capital social.
+
+O presente diploma, tendo em atenção a [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, visa autorizar o Governo a iniciar a reprivatização do capital da sociedade Siderurgia Nacional, S. A., operação que se realizará no respeito pelas características da sociedade em causa e em obediência à estratégia definida.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º - 1 - É aprovada a alienação de 21150000 acções, correspondentes a 90% do capital social da Siderurgia Nacional, S. A.
+
+2 - O processo de reprivatização previsto no número anterior e regulado pelo presente decreto-lei e pela resolução do Conselho de Ministros a que se refere o artigo 9.º
+
+3 - O capital social é de 23500000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade, sendo representado por 23500000 acções do valor nominal de 1000$00 cada uma.
+
+4 - As acções representativas do capital da sociedade poderão ser escriturais e serão obrigatoriamente nominativas ou ao portador em regime de registo.
+
+Art. 2.º - 1 - Serão reservadas para aquisição por trabalhadores, pequenos subscritores e emigrantes 2350000 acções, correspondentes a 10% do capital social.
+
+2 - É aprovada a alienação em bloco de um lote indivisível de 18800000 acções, correspondentes a 80% do capital social, por concurso público aberto a entidades nacionais ou estrangeiras, que poderão apresentar-se a concurso individualmente ou em grupo, devendo as ordens de compra ser dadas para a totalidade do bloco.
+
+3 - As entidades que adquiram o lote de acções a que se refere o número anterior obrigar-se-ão a adquirir as acções sobrantes da operação indicada no n.º 1 ao preço unitário por que tenham sido adquiridas as acções do bloco.
+
+4 - Para os efeitos do n.º 1 deste artigo, entendem-se como trabalhadores as pessoas que se encontrem nas condições previstas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+
+Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades mínimas e máximas individuais, a fixar por resolução do Conselho de Ministros.
+
+2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar por resolução do Conselho de Ministros, procedendo-se a rateio em função da procura não satisfeita, se for caso disso.
+
+3 - Nenhuma entidade poderá adquirir ao abrigo dos números anteriores mais de 5% do capital da sociedade, sob pena de nulidade.
+
+4 - A aquisição do lote indivisível far-se-á nos termos e condições de um caderno de encargos a aprovar por resolução de Conselho de Ministros.
+
+Art. 4.º - 1 - A resolução do Conselho de Ministros definirá preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes.
+
+2 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de indisponibilidade das acções, em condições a fixar por resolução do Conselho de Ministros.
+
+Art. 5.º - 1 - As acções adquiridas ao abrigo dos n.os 1 e 2 do artigo 3.º não podem ser oneradas nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.
+
+2 - As acções adquiridas por trabalhadores ao abrigo do n.º 1 do artigo 3.º não conferem aos respectivos titulares o direito de votar na assembleia geral por interposta pessoa durante o período de indisponibilidade previsto no n.º 1.
+
+3 - São nulos os acordos pelos quais os trabalhadores que tenham adquirido acções ao abrigo do n.º 1 do artigo 3.º se obriguem a votar em determinado sentido nas assembleias gerais a realizar durante o período de indisponibilidade previsto no n.º 1.
+
+4 - As acções adquiridas por pequenos subscritores e emigrantes ao abrigo do n.º 2 do artigo 3.º não conferem aos respectivos titulares o direito de voto na assembleia geral da sociedade durante o período de indisponibilidade previsto no n.º 1.
+
+5 - São nulos os contratos-promessa, os contratos de opção ou outros pelos quais seja convencionada a alienação futura das acções, quando celebrados antes de iniciado ou terminado o período referido no n.º 1.
+
+Art. 6.º - 1 - Exceptuadas as transmissões entre accionistas que componham um agrupamento vencedor, as acções adquiridas nos termos do n.º 4 do artigo 3.º, representativas de 51% do capital social, são indisponíveis durante cinco anos, contados a partir da data da respectiva aquisição.
+
+2 - As acções que venham a ser atribuídas por efeito da titularidade das que tenham sido adquiridas nos termos do n.º 4 do artigo 3.º serão também indisponíveis até ao termo do prazo de indisponibilidade destas últimas, de acordo com a proporção fixada no número anterior.
+
+3 - São nulos os contratos-promessa, os contratos de opção ou outros pelos quais seja convencionada uma futura alienação das acções abrangidas pelos números anteriores, quando celebrados antes de iniciado ou terminado o período de cinco anos, exceptuando-se os contratos entre accionistas que compõem o agrupamento vencedor.
+
+4 - O direito de voto inerente às acções a que se reportam os n.os 1 e 2 não poderá ser exercido por mandatário durante o período de duração da indisponibilidade aí estabelecida.
+
+5 - São nulos os acordos pelos quais os titulares das acções a que se referem os n.os 1 e 2 se obriguem para com titulares de outras categorias de acções a votar em determinado sentido nas assembleias da sociedade realizadas durante o período de indisponibilidade a que as primeiras estão sujeitas.
+
+Art. 7.º - 1 - Enquanto o Estado for accionista, e independentemente do número de acções de que seja titular, o seu representante na assembleia geral terá direito a designar pelo menos um dos membros do conselho de administração.
+
+2 - As deliberações da assembleia geral que tenham por objecto a fusão, a cisão, a transformação, a dissolução e a alteração dos estatutos, incluindo o aumento e a redução do capital, só serão válidas quando votadas favoravelmente pelo representante do Estado.
+
+3 - O administrador nomeado nos termos do n.º 1 tem a competência, os direitos e os deveres definidos na lei para os administradores por parte do Estado.
+
+Art. 8.º Compete ao conselho de administração da sociedade propor ao Ministro das Finanças o valor da empresa, com base em avaliação especialmente efectuada por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+
+Art. 9.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para execução deste diploma.
+
+Art. 10.º Para realização das operações de reprivatização previstas e reguladas no presente diploma, são delegados no Ministro das Finanças, com a faculdade de subdelegar, os poderes bastantes para contratar, por ajuste directo, a montagem, colocação e garantia de colocação das acções, bem como para determinar as demais condições que se afigurem convenientes.
+
+Art. 11.º Nos 30 dias seguintes à alienação prevista no n.º 2 do artigo 2.º, será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+
+Art. 12.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 15 de Outubro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
+
+Promulgado em 6 de Novembro de 1992.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 10 de Novembro de 1992.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

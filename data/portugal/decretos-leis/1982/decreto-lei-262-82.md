@@ -1,0 +1,338 @@
+---
+schema_version: '1.0'
+id: pt:dre:394548:por
+title: Decreto-Lei n.º 262/82
+short_title: null
+summary: Cria secções administrativas em vários órgãos e serviços do Ministério do Trabalho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano, do Trabalho e da Reforma Administrativa
+proposing_entity: null
+official_number: 262/82
+official_date: null
+publication_date: '1982-07-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 154/1982, Série I de 1982-07-07
+  number: '154'
+  series: I
+  supplement: null
+  pages: 2012 - 2014
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15400/20122014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '394548'
+  dre_path: /dr/detalhe/decreto-lei/262-1982-394548
+  internal: pt:dre:394548:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1982-394548
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1982-394548
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:44:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 3a158b16cc50d9970e0678fd85936c77495329a9e28cf71cf54a6b7cf0ac33ab
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:44:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Serviços
+- Ministério do Trabalho
+- Serviços Administrativos
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:181179:por
+  label: "Extinta a secção administrativa criada no Serviço de Estatística no n.º 1 do artigo 1.º, pelo DEC LEI.352/85.27.08.1985.MTSS,\
+    \ DR.IS [196] de 27.08.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/352-1985-181179
+  date: '1985-08-27'
+- type: cites
+  target: pt:dre:176301:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:365767:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432673:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462024:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621349:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:394089:por
+  label: Rectificado pela decl de 23-jul de 1982 DR.IS [168]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-394089
+  date: '1982-07-23'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 9
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:44:05Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 262/82
+
+de 7 de Julho
+
+A Lei Orgânica do Ministério do Trabalho ([Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março), aliás na linha do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, criou neste Ministério um quadro único de pessoal administrativo e auxiliar, tendo afectado as dotações respectivas à Secretaria-Geral.
+
+Nem todo o pessoal integrante desse quadro único se destina a prestar serviço naquele departamento e, por esse facto, a própria Lei Orgânica estipulou no n.º 2 do seu artigo 11.º, de forma genérica, embora, a existência de secções administrativas em cada direcção de serviços ou serviço de natureza equivalente ou superior, bem como em cada serviço descentralizado do Ministério e em cada divisão ou repartição que o justifique.
+
+Embora desde logo fosse sentida a necessidade de regulamentar estas secções administrativas, certo é que, decorridos mais de 3 anos após a publicação da Lei Orgânica, não foi possível formalizar essa regulamentação.
+
+Acontece, porém, que o [Decreto-Lei n.º 465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro, veio introduzir normas que não se compadecem com a indefinição e ausência de regulamentação atrás referidas. Tal é o caso da obrigatoriedade consagrada no n.º 5 do seu artigo 3.º de que o número de lugares de chefe constantes dos quadros de pessoal deve corresponder às respectivas unidades orgânicas, extinguindo-se os lugares excedentes à medida que vagarem.
+
+Há ainda que adaptar a base de recrutamento dos chefes de secção ao preceituado no artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e, bem assim, à revalorização daquela categoria operada através do [Decreto-Lei n.º 465/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1980-462024), de 14 de Outubro.
+
+Finalmente, verifica-se a necessidade de alterar a dotação global de chefes de secção constante do quadro anexo ao [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março, o que se fará sem aumento de encargos, por dedução de alguns lugares que menos afectam a normal eficiência dos serviços.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - É criada uma secção administrativa em cada um dos órgãos ou serviços seguintes:
+
+Direcção-Geral de Higiene e Segurança do Trabalho;
+
+Direcção-Geral das Relações Colectivas do Trabalho;
+
+Direcção-Geral do Trabalho;
+
+Inspecção do Trabalho;
+
+Departamento de Estudos e Planeamento;
+
+Serviço de Estatística;
+
+Serviço de Informação Científica e Técnica;
+
+Serviço de Organização e Gestão de Pessoal;
+
+Serviço de Comunicação Social e Relações Públicas;
+
+Direcção de Serviços de Formação e Divulgação;
+
+Direcção de Serviços Técnicos;
+
+Direcção de Serviços de Trabalho;
+
+Direcção de Serviços de Rendimento do Trabalho;
+
+Serviço de Fiscalização das Condições de Trabalho;
+
+Direcção dos Serviços Regionais do Norte da Direcção-Geral de Higiene e Segurança do Trabalho;
+
+Delegação da Direcção-Geral das Relações Colectivas do Trabalho no Porto;
+
+Delegação da Direcção-Geral das Relações Colectivas do Trabalho em Coimbra;
+
+Delegação da Direcção-Geral das Relações Colectivas do Trabalho em Lisboa;
+
+Delegação da Inspecção do Trabalho no Porto;
+
+Delegação da Inspecção do Trabalho em Coimbra;
+
+Delegação da Inspecção do Trabalho em Lisboa.
+
+2 - É criada uma secção administrativa comum às delegações da Direcção-Geral das Relações Colectivas do Trabalho e da Inspecção do Trabalho em cada uma das seguintes sedes: Braga, Bragança, Vila Real, Viana do Castelo, Aveiro, Viseu, Guarda, Covilhã, Leiria, Santarém, Almada, Setúbal, Portalegre, Évora, Beja e Faro.
+
+3 - As secções administrativas referidas nos n.os 1 e 2 supra ficam na dependência hierárquica do responsável pelo órgão ou serviço a que estão afectas, ficando a sua actividade sujeita, quanto às funções especificadas no artigo 3.º, às directivas técnicas genéricas da Secretaria-Geral.
+
+4 - Nos órgãos ou serviços onde existir mais de uma secção administrativa poderão os seus responsáveis designar aquela que coordena a nível interno, devendo sempre indicar à Secretaria-Geral a que assegura as ligações com este organismo.
+
+Art. 2.º São ainda criadas nas respectivas repartições dos órgãos ou serviços a seguir designados as seguintes secções:
+
+Na Secretaria-Geral:
+
+Repartição de Administração de Pessoal:
+
+#### Secção de movimento de pessoal;
+
+Secção de prestações complementares;
+
+#### Secção de cadastro;
+
+Secção de arquivo;
+
+Repartição de Administração Patrimonial:
+
+#### Secção de aquisições;
+
+Secção de gestão e património;
+
+Repartição de Administração Financeira:
+
+#### Secção de despesas correntes;
+
+Secção de abonos;
+
+#### Secção de conta;
+
+Repartição de Assuntos Gerais:
+
+#### Secção de assuntos gerais;
+
+Secção de expediente e arquivo.
+
+No Serviço de Fiscalização das Condições de Trabalho da Inspecção do Trabalho:
+
+Repartição de Duração de Trabalho:
+
+#### Secção de horários de trabalho;
+
+Secção de isenções e trabalho extraordinário;
+
+Repartição de Quadros de Pessoal:
+
+#### Secção de quadros de pessoal;
+
+Secção de carteiras profissionais;
+
+Repartição de Contratos Especiais de Trabalho:
+
+Secção de trabalho de estrangeiros;
+
+Secção de profissionais de espectáculos.
+
+No Serviço de Informação Científica e Técnica:
+
+Repartição de Edições:
+
+Secção de planificação editorial;
+
+Secção de oficinas gráficas e reprografia;
+
+#### Secção de expediente e venda.
+
+Art. 3.º São atribuições das secções administrativas referidas nos n.os 1 e 2 do artigo 1.º, nomeadamente, as seguintes:
+
+a) Administração de pessoal:
+
+1) Promover, dentro dos prazos fixados, e proceder ao seu envio à Secretaria-Geral dos documentos necessários à administração de pessoal;
+
+2) Controlar e verificar todo o expediente relativo ao provimento, transferência e exoneração de funcionários;
+
+3) Organizar e manter actualizado um ficheiro de pessoal, bem como transmitir à Secretaria-Geral todos os elementos que interessam à actualização do cadastro central de pessoal do Ministério;
+
+4) Enviar à Secretaria-Geral todos os documentos ligados à situação dos funcionários;
+
+5) Enviar à Secretaria-Geral todos os documentos para a instrução de processos de prestações sociais, nomeadamente ADSE, abonos e subsídios;
+
+6) Articular com os serviços sociais do Ministério na elaboração de processos de prestações sociais complementares;
+
+b) Administração financeira:
+
+1) Organizar e manter actualizados os índices financeiros respeitantes ao serviço;
+
+2) Elaborar projecto de orçamento para o serviço;
+
+c) Administração e gestão patrimonial:
+
+1) Assegurar o apetrechamento do serviço, promovendo junto da Secretaria-Geral as aquisições necessárias em material e equipamento;
+
+2) Assegurar e controlar a existência de um stock de materiais de consumo corrente proporcionado às exigências do serviço;
+
+3) Elaborar estatísticas de consumo de materiais visando o estabelecimento de provisões;
+
+4) Elaborar e manter actualizado um ficheiro cadastral do património do serviço, bem como transmitir à Secretaria-Geral qualquer alteração verificada;
+
+d) Assuntos gerais:
+
+1) Proceder à recepção, classificação e registo da correspondência;
+
+2) Organizar um sistema de arquivo para o serviço e manter actualizados os respectivos meios de controle;
+
+3) Zelar pela segurança, bem como pela conservação e higiene das instalações;
+
+4) Promover junto dos serviços competentes da Secretaria-Geral as diligências necessárias para a manutenção de bens de equipamento;
+
+5) Assegurar a eficiência das redes de comunicação internas e externas;
+
+6) Assegurar a gestão, em colaboração com a Secretaria-Geral, das viaturas do serviço;
+
+7) Promover a divulgação junto dos funcionários das normas internas e demais directivas superiores de carácter geral;
+
+8) Superintender no serviço de dactilografia do serviço, organizando o respectivo trabalho;
+
+9) Superintender no pessoal auxiliar, assegurando a organização do respectivo serviço.
+
+Art. 4.º São atribuições das secções referidas no n.º 1 do artigo 2.º, no todo ou em parte, as constantes dos artigos 13.º, 14.º, 15.º e 16.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março.
+
+Art. 5.º São atribuições das secções referidas no n.º 2 do artigo 2.º, no todo ou em parte, as constantes do n.º 1 do artigo 47.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março.
+
+Art. 6.º São atribuições das secções referidas no n.º 3 do artigo 2.º, no todo ou em parte, as constantes do artigo 39.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março.
+
+Art. 7.º Os lugares de chefe de secção serão providos pelo Ministro do Trabalho, sob proposta dos responsáveis hierárquicos dos respectivos órgãos ou serviços, de entre:
+
+a) Indivíduos habilitados com curso superior e experiência profissional adequados ao exercício das correspondentes funções;
+
+b) Adjuntos técnicos principais ou de 1.ª classe, primeiros-oficiais e técnicos auxiliares principais.
+
+Art. 8.º O quadro do pessoal da Secretaria-Geral do Ministério do Trabalho constante dos mapas anexos à [Portaria n.º 710/79](https://diariodarepublica.pt/dr/detalhe/portaria/710-1979-365767), de 29 de Dezembro, passa a ter a composição decorrente da alteração indicada no mapa anexo ao presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 3 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 22 de Junho de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Mapa a que se refere o artigo 9.º do [Decreto-Lei n.º 47/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1978-621349), de 21 de Março
+
+Secretaria-Geral
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1982/07/15400/20122014.pdf)

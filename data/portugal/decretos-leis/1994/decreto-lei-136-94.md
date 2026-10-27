@@ -1,0 +1,305 @@
+---
+schema_version: '1.0'
+id: pt:dre:263240:por
+title: Decreto-Lei n.º 136/94
+short_title: null
+summary: Transpõe para a ordem jurídica interna a Directiva n.º 92/42/CEE, do Conselho, de 21 de Maio, que estabelece as exigências
+  de rendimento das novas caldeiras de água quente (alimentadas com combustíveis líquidos ou gasosos)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 136/94
+official_date: null
+publication_date: '1994-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/1994, Série I-A de 1994-05-20
+  number: '117'
+  series: I
+  supplement: null
+  pages: 2703 - 2705
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/05/117a00/27032705.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2010-03-30'
+version_history:
+  file: decreto-lei-136-94.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1994-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-08-13'
+    amending: pt:dre:518657:por
+    amending_title: Decreto-Lei n.º 139/95
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+  - date: '2010-03-30'
+    amending: pt:dre:611330:por
+    amending_title: Decreto-Lei n.º 23/2010
+    changes:
+    - Altera Artigo 2.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/136/1994/p/cons/20100325/pt/html
+  oj: null
+  dre: '263240'
+  dre_path: /dr/detalhe/decreto-lei/136-1994-263240
+  internal: pt:dre:263240:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1994-263240
+  metadata_url: https://data.dre.pt/eli/dec-lei/136/1994/p/cons/20100325/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-155941036
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-155941036
+  retrieved_at: '2026-10-22T12:37:43Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 89f45f6119d2ad3ff7308c3386b43bac11cd67d41ba0a5fc670bfef913dc97e1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:37:43Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-136-94.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Multa
+- Contra-ordenação
+- Política Industrial
+- Equipamento Térmico
+relationships:
+- type: amended_by
+  target: pt:dre:518657:por
+  label: Altera Artigo 1.º; Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1995-518657
+  date: '1995-06-14'
+- type: amended_by
+  target: pt:dre:611330:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2010-611330
+  date: '2010-03-25'
+- type: cites
+  target: celex:31992L0042
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/42/oj
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:37:43Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 136/94
+
+Decreto-Lei n.º 136/94
+
+de 20 de Maio
+
+No âmbito da promoção da eficácia energética, o Conselho das Comunidades Europeias adoptou a Directiva n.º <a href="eurlex.asp?ano=1992&id=392L0042" title="Link para Directiva da Comunidade Europeia">92/42/CEE</a>, de 21 de Maio, que procura harmonizar os níveis de rendimento aplicáveis às novas caldeiras de água quente alimentadas com combustíveis líquidos ou gasosos.
+
+O dispositivo daquela directiva insere-se numa filosofia de utilização racional de energia, conciliável com uma adequada política do ambiente, nomeadamente no que se refere à estabilização das emissões de CO(índice 2) a nível comunitário.
+
+O presente diploma transpõe para a ordem jurídica interna a referida directiva, fixando os níveis de rendimento úteis que os diferentes tipos de caldeiras de água quente devem respeitar, bem como os meios para comprovar a sua conformidade.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma transpõe para a ordem jurídica interna as Directivas n.os 92/42/CEE, do Conselho, de 21 de Maio, e 93/68/CEE, do Conselho, de 22 de Julho, relativas às exigências de rendimento das novas caldeiras de água quente alimentadas com combustíveis líquidos ou gasosos.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 139/95 - Diário da República n.º 136/1995, Série I-A de 1995-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1995-518657), em vigor a partir de 1995-08-13
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente diploma aplica-se às novas caldeiras de água quente alimentadas com combustíveis líquidos ou gasosos de potência nominal igual ou superior a 4 kW e até 400 kW, adiante abreviadamente designadas por caldeiras.
+
+2 - Excluem-se do âmbito de aplicação deste diploma:
+
+a) As caldeiras de água quente alimentadas com mais de um combustível, dos quais um é combustível sólido;
+
+b) Os equipamentos de preparação instantânea de água quente para fins sanitários;
+
+c) As caldeiras concebidas para serem alimentadas com combustíveis cujas propriedades divirjam significativamente das características dos combustíveis líquidos e gasosos correntemente comercializados, nomeadamente gases residuais industriais e biogás;
+
+d) Os fogões e os aparelhos concebidos para aquecer principalmente o local onde estão instalados e que fornecem igualmente, mas a título acessório, água quente para aquecimento central e para fins sanitários;
+
+e) Os aparelhos de potência útil inferior a 6 kW concebidos unicamente para alimentação de um sistema de acumulação de água quente sanitária de circulação por gravidade;
+
+f) As caldeiras produzidas à unidade.
+
+> Alterado pelo/a Artigo 39.º do/a [Decreto-Lei n.º 23/2010 - Diário da República n.º 59/2010, Série I de 2010-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2010-611330), em vigor a partir de 2010-03-30
+
+###### Artigo 3.º — Definições
+
+Para efeitos de aplicação do presente diploma, entende-se por:
+
+a) «Caldeira» - o conjunto corpo da caldeira-queimador destinado a transmitir à água o calor libertado pela combustão;
+
+b) «Aparelho» - o corpo da caldeira destinado a ser equipado com um queimador, bem como o queimador destinado a equipar um corpo de caldeira;
+
+c) «Potência nominal útil expressa em kilowatts» - a potência calorífica máxima fixada e garantida pelo construtor como podendo ser fornecida em funcionamento contínuo, respeitando os rendimentos úteis anunciados por aquele;
+
+d) «Rendimento útil» - a relação entre o débito calorífico transmitido à água da caldeira e o produto do poder calorífico inferior do combustível a pressão constante pelo consumo expresso em quantidade de combustível por unidade de tempo, expresso em percentagem;
+
+e) «Carga parcial» - a relação entre a potência útil de uma caldeira em funcionamento intermitente ou a uma potência inferior à potência útil nominal e essa mesma potência nominal, expressa em percentagem;
+
+f) «Temperatura média da água na caldeira» - a média das temperaturas da água à entrada e à saída da caldeira;
+
+g) «Caldeira padrão» - uma caldeira concebida de forma que a sua temperatura média de funcionamento possa ser limitada;
+
+h) «Caldeira de baixa temperatura» - uma caldeira que pode funcionar em contínuo com uma temperatura de água de retorno de 35ºC a 40ºC e susceptível de criar condensação em certas circunstâncias, aqui se incluindo as caldeiras de condensação que utilizam combustíveis líquidos;
+
+i) «Caldeira de gás de condensação» - uma caldeira concebida para poder condensar permanentemente uma parte importante dos vapores de água contidos nos gases de combustão;
+
+j) «Caldeira de dupla função» - uma caldeira destinada a aquecimento ambiente e fornecimento de água quente para fins sanitários.
+
+###### Artigo 4.º — Regulamentação técnica
+
+As normas técnicas relativas aos requisitos essenciais que as caldeiras devem satisfazer quanto aos níveis de rendimento útil, aos métodos de verificação válidos para a produção e para as medições, às especificações respeitantes à comprovação da conformidade, à marca CE de conformidade, às marcações específicas complementares e aos critérios para o reconhecimento das entidades nos termos do artigo 10.º são objecto de portaria do Ministro da Indústria e Energia.
+
+###### Artigo 5.º — Colocação no mercado e em serviço
+
+Só podem ser colocados no mercado e postos em serviço os aparelhos e as caldeiras conformes às disposições do presente diploma e respectiva regulamentação munidos da marcação CE prevista no artigo 8.º, indicativa da respectiva conformidade às disposições do presente diploma, incluindo os procedimentos de comprovação da conformidade a que se refere o artigo 7.º
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 139/95 - Diário da República n.º 136/1995, Série I-A de 1995-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1995-518657), em vigor a partir de 1995-08-13
+
+###### Artigo 6.º — Presunção de conformidade
+
+Presume-se a conformidade com as exigências essenciais de rendimento das caldeiras as que, cumulativamente:
+
+a) Respeitem as normas e regras técnicas nacionais cuja homologação tenha sido publicada no Diário da República e que resultem da adopção das normas harmonizadas cujas referências tenham sido publicadas no Jornal Oficial das Comunidades Europeias;
+
+b) Ostentem a marca CE;
+
+c) Sejam acompanhadas da declaração de conformidade.
+
+###### Artigo 7.º — Comprovação de conformidade
+
+1 - Os meios utilizados para comprovação da conformidade das caldeiras fabricadas em série são os seguintes:
+
+a) O exame de rendimento de uma caldeira tipo;
+
+b) A declaração CE de conformidade com o tipo aprovado.
+
+2 - Os processos de avaliação da conformidade dos rendimentos das caldeiras alimentadas com combustíveis gasosos são os utilizados para a avaliação de conformidade com as exigências em matéria de segurança previstas no Decreto-Lei n.º 130/92, de 6 de Julho.
+
+3 - Os aparelhos comercializados separadamente devem, antes da sua colocação no mercado, ser munidos da marca CE e acompanhados da declaração CE de conformidade, indicando os parâmetros que permitirão obter, após a montagem, as taxas de rendimento útil estabelecidas nas especificações técnicas aplicáveis.
+
+###### Artigo 8.º — Marcação CE
+
+1 - A marca CE de conformidade com as exigências do presente diploma e com as demais disposições relativas à atribuição da marca CE, bem como as marcações específicas suplementares, devem ser apostas nas caldeiras e nos aparelhos de modo visível, facilmente legível e indelével.
+
+2 - É proibido apor nestes produtos quaisquer marcas susceptíveis de induzir em erro quanto ao significado ou grafismo da marcação CE, podendo, no entanto, ser aposta qualquer outra marca, desde que não reduza ou exclua a visibilidade e a legibilidade da marcação CE.
+
+3 - Caso estes produtos sejam objecto de outros diplomas que prevejam a aposição da marcação CE, esta presumirá que as caldeiras são conformes com as disposições desses outros diplomas.
+
+4 - No caso de um ou mais dos diplomas a que se refere o número anterior deixarem ao fabricante, durante um período transitório, a escolha do regime a aplicar, a marcação CE indica apenas a conformidade com as disposições dos diplomas aplicados pelo fabricante, devendo neste caso as referências dos mesmos ser inscritas nos documentos, manuais ou instruções que as acompanham.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 139/95 - Diário da República n.º 136/1995, Série I-A de 1995-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1995-518657), em vigor a partir de 1995-08-13
+
+###### Artigo 9.º — Organismos qualificados
+
+1-Os organismos de certificação, os organismos de inspecção e os laboratórios de ensaio envolvidos nos sistemas de comprovação da conformidade devem estar qualificados para o efeito no âmbito do Sistema Nacional de Gestão da Qualidade (SNGQ), a que se refere o Decreto-Lei n.º 234/93, de 2 de Julho.
+
+2 - A Direcção-Geral da Energia deve manter a Comissão e os outros Estados membros permanentemente informados dos organismos mencionados no número anterior, bem como das tarefas para as quais esses organismos tiverem sido designados e ainda dos números de identificação previamente atribuídos pela Comissão.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 139/95 - Diário da República n.º 136/1995, Série I-A de 1995-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1995-518657), em vigor a partir de 1995-08-13
+
+###### Artigo 10.º — Fiscalização
+
+Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente diploma e respectiva regulamentação cabe às delegações regionais da indústria e energia, adiante abreviadamente designadas por DRIE.
+
+###### Artigo 11.º — Contra-ordenação
+
+1 - Constitui contra-ordenação punível com coima:
+
+a) De 100000$00 a 1000000$00, a violação do disposto no artigo 8.º;
+
+b) De 250000$00 a 1500000$00, a violação do disposto no artigo 5.º;
+
+c) De 350000$00 a 2000000$00, a violação das normas técnicas relativas aos níveis de rendimento útil.
+
+2 - A negligência e a tentativa são puníveis.
+
+3 - No caso de a infracção ser praticada por pessoa singular, o montante mínimo é de 5000$00 e o máximo de 500000$00.
+
+4 - Cumulativamente com a coima pode ser aplicada como sanção acessória a apreensão dos produtos abrangidos pelo âmbito de aplicação do presente diploma.
+
+5 - Incorrem na aplicação das sanções previstas neste artigo os fabricantes, importadores, armazenistas, bem como qualquer agente económico que proceda à venda dos produtos abrangidos pela aplicação do presente diploma.
+
+6 - A infracção ao artigo 8.º, quando respeite a aposição indevida da marcação CE, implica a obrigação, por parte do fabricante ou do seu mandatário, de repor o produto em conformidade com as disposições relativas à marcação CE e de fazer cessar a infracção, sob pena de ser limitada ou proibida a colocação do produto no mercado ou assegurada a sua retirada do mesmo, no caso de a não conformidade persistir.
+
+7 - Compete ao Ministro da Indústria e Energia a adopção, por despacho, das medidas referidas no número anterior, devendo informar imediatamente a Comissão e os outros Estados membros.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 139/95 - Diário da República n.º 136/1995, Série I-A de 1995-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1995-518657), em vigor a partir de 1995-08-13
+
+###### Artigo 12.º — Processamento e aplicação das coimas
+
+1 - A aplicação das coimas e sanções acessórias previstas no presente diploma é da competência do director da DRIE respectiva.
+
+2 - O produto das coimas reverte:
+
+a) Em 60% para o Estado;
+
+b) Em 20% para o serviço que procedeu à instrução do processo;
+
+c) Em 10% para o Instituto Português da Qualidade;
+
+d) Em 10% para a Direcção-Geral de Energia.
+
+###### Artigo 13.º — Acompanhamento da aplicação global do diploma
+
+À Direcção-Geral de Energia compete acompanhar a aplicação global do presente diploma, devendo propor as medidas necessárias à prossecução dos seus objectivos e as que se destinem a assegurar a ligação com a Comissão da Comunidade Europeia.
+
+###### Artigo 14.º — Norma transitória
+
+É permitida a colocação no mercado e em serviço dos aparelhos que satisfaçam a regulamentação em vigor à data da publicação do presente diploma até 31 de Dezembro de 1997.
+
+Visto e aprovado em Conselho de Ministros de 17 de Março de 1994. - Aníbal António Cavaco Silva - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.
+
+Promulgado em 4 de Maio de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 5 de Maio de 1994.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

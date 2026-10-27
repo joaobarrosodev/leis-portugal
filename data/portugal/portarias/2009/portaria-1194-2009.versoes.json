@@ -1,0 +1,577 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:491231:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-907624809",
+ "dre_path": "/dr/detalhe/portaria/1194-2009-491231",
+ "source_lastmod": "2025-02-14",
+ "versions": [
+  {
+   "date": "2009-10-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907631981",
+    "907631982",
+    "907631983",
+    "907631985",
+    "907631986",
+    "907631987",
+    "907631988",
+    "907631989",
+    "907631990",
+    "907631991",
+    "907631992",
+    "907631993",
+    "907631994",
+    "907631995",
+    "907631996",
+    "907631997",
+    "907631998",
+    "907631999",
+    "907632000",
+    "907632001",
+    "907632002",
+    "907632003",
+    "907632004",
+    "907632005",
+    "907632006",
+    "907632007",
+    "907632008",
+    "907632009",
+    "907632010",
+    "907632011",
+    "907632012",
+    "907632013",
+    "907632014",
+    "907632015",
+    "907632016",
+    "907632017",
+    "907632018",
+    "907632019",
+    "907632020",
+    "907632021",
+    "907632022",
+    "907632023",
+    "907632024",
+    "907632025",
+    "907632026",
+    "907632027",
+    "907632028",
+    "907632029",
+    "907632030",
+    "907632031",
+    "907632032",
+    "907632033",
+    "907632034",
+    "907632035",
+    "907632036",
+    "907632037",
+    "907632038",
+    "907632039",
+    "907632040",
+    "907632041",
+    "907632042",
+    "907632043"
+   ]
+  }
+ ],
+ "fragments": {
+  "907631981": {
+   "fragment_id": "907624810",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1194/2009\n\nde 8 de Outubro\n\nA Lei n.º 63/2007, de 6 de Novembro, que aprovou a orgânica da Guarda Nacional Republicana, estabelece, no seu artigo 8.º, que a Guarda Nacional Republicana tem direito a brasão de armas, bandeira heráldica, hino, marcha e selo branco, e que as suas unidades têm direito a brasão de armas, selo branco e bandeiras heráldicas, sendo esses símbolos regulamentados através de portaria do ministro da tutela.\n\nAssim:\n\nNos termos da alínea b) do n.º 6 do artigo 53.º da Lei n.º 63/2007, de 6 de Novembro, manda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "907631982": {
+   "fragment_id": "907624811",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Regulamento de Heráldica e Simbologia da Guarda Nacional Republicana, em anexo à presente portaria e que dela faz parte integrante."
+  },
+  "907631983": {
+   "fragment_id": "907624812",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente portaria entra em vigor no dia seguinte à data da sua publicação."
+  },
+  "907631985": {
+   "fragment_id": "907624814",
+   "type": 14,
+   "heading": "Anexo REGULAMENTO DE HERÁLDICA E SIMBOLOGIA DA GUARDA NACIONAL REPUBLICANA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo REGULAMENTO DE HERÁLDICA E SIMBOLOGIA DA GUARDA NACIONAL REPUBLICANA"
+  },
+  "907631986": {
+   "fragment_id": "907624815",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "907631987": {
+   "fragment_id": "907624816",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA heráldica da Guarda Nacional Republicana, adiante designada por Guarda, como ramo individualizado da heráldica geral, regula-se pelas regras de heráldica contidas no presente Regulamento."
+  },
+  "907631988": {
+   "fragment_id": "907624817",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNos casos omissos, quando não seja possível o recurso à analogia com disposições deste normativo, são observados os princípios gerais da heráldica."
+  },
+  "907631989": {
+   "fragment_id": "907624818",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs símbolos heráldicos da Guarda são as armas, os escudos de armas, os emblemas, as bandeiras, as insígnias, os distintivos e os selos brancos."
+  },
+  "907631990": {
+   "fragment_id": "907624819",
+   "type": 1,
+   "heading": "Capítulo II — Direito ao uso de símbolos heráldicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direito ao uso de símbolos heráldicos"
+  },
+  "907631991": {
+   "fragment_id": "907624820",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Têm direito ao uso de armas e estandarte a Guarda, o comando-geral, a inspecção da guarda, o comando operacional, o comando da administração de recursos internos, o comando de doutrina e formação, a escola da Guarda e as unidades.\n\n2 - Têm direito ao uso de armas e estandarte as unidades e subunidades da Guarda destacadas para missões fora do território nacional."
+  },
+  "907631992": {
+   "fragment_id": "907624821",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nTêm direito ao uso de bandeira de arvorar e de selo branco a Guarda, os comandos e unidades constantes no artigo anterior a que forem atribuídas armas privativas."
+  },
+  "907631993": {
+   "fragment_id": "907624822",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nTêm direito ao uso de guião os batalhões ou escalão equivalente."
+  },
+  "907631994": {
+   "fragment_id": "907624823",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nTêm direito ao uso de flâmula as companhias ou escalão equivalente, bem como as embarcações, desde que de comando de oficial subalterno ou capitão."
+  },
+  "907631995": {
+   "fragment_id": "907624824",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nTem direito ao uso de galhardete o comandante-geral e os oficiais generais, em funções de comando ou direcção, a quem forem atribuídas armas privativas."
+  },
+  "907631996": {
+   "fragment_id": "907624825",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Têm direito ao uso de armas de peito todos os militares, de acordo com o comando ou unidade, a quem forem atribuídas armas privativas e onde estão colocados.\n\n2 - Nas armas de peito apenas o escudo é esmaltado."
+  },
+  "907631997": {
+   "fragment_id": "907624826",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Têm direito ao uso do Estandarte Nacional a Guarda, o comando-geral, a inspecção da guarda, o comando operacional, o comando da administração de recursos internos, o comando de doutrina e formação, a escola da Guarda e as unidades.\n\n2 - Têm direito ao uso do Estandarte Nacional as unidades e subunidades da Guarda destacadas para missões fora do território nacional."
+  },
+  "907631998": {
+   "fragment_id": "907624827",
+   "type": 1,
+   "heading": "Capítulo III — As armas da Guarda e seus padrões heráldicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — As armas da Guarda e seus padrões heráldicos"
+  },
+  "907631999": {
+   "fragment_id": "907624828",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - As armas são formadas pelo escudo, acompanhado ou não dos seus elementos externos.\n\n2 - As armas representativas da Guarda têm o seguinte ordenamento: escudo de verde, uma espada antiga de ouro sustida por dois dragões afrontados do mesmo, animados, lampassados e armados de vermelho; elmo militar, de prata, colocado a três quartos para a dextra, tauxiado de ouro e forrado de verde; correias de verde, afiveladas de ouro; paquife e virol, de verde e de ouro; timbre, um dragão do escudo empunhando na garra dextra uma espada antiga de ouro; circundando o escudo, o colar da Ordem Militar da Torre e Espada; divisa, num listel de branco, ondulado, sotoposto ao escudo em letras maiúsculas de negro, de estilo elzevir: «PELA GREI»."
+  },
+  "907632000": {
+   "fragment_id": "907624829",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO brasão é o ordenamento simbólico contido no campo do escudo e nele planificado de harmonia com as dimensões deste."
+  },
+  "907632001": {
+   "fragment_id": "907624830",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - O escudo da Guarda é o escudo ogival na sua forma clássica.\n\n2 - O escudo ogival constrói-se a partir do quadrado. As duas curvas da ponta traçam-se com centros nos dois pontos que dividem em três partes iguais a mediana horizontal do quadrado e têm um raio igual a dois terços desta (fig. 1).\n\n3 - A correia é de verde, fivelada de ouro."
+  },
+  "907632002": {
+   "fragment_id": "907624831",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Os elementos externos ao escudo são o elmo, virol, paquife, timbre, correias, divisa, grito de guerra e as insígnias das ordens honoríficas e demais condecorações (fig. 2).\n\n2 - O ordenamento e a estilização dos elementos externos fazem-se conforme o previsto para os brasões."
+  },
+  "907632003": {
+   "fragment_id": "907624832",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - O elmo tem a forma clássica trecentista, é de prata, forrado de verde, tauxiado de ouro, voltado a três quartos para a dextra (fig. 2.a).\n\n2 - O elmo é colocado sobre e a meio do bordo superior do escudo e a sua altura é igual à largura deste."
+  },
+  "907632004": {
+   "fragment_id": "907624833",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - O virol é iluminado de metais e cores tirados do brasão respectivo.\n\n2 - É constituído por um rolo torcido dos esmaltes principais do escudo, assentando directamente sobre o bordo superior do elmo (fig. 2.b)."
+  },
+  "907632005": {
+   "fragment_id": "907624834",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - O paquife é iluminado dos metais e cores principais do escudo.\n\n2 - Nasce do virol, formado por um conjunto de peças de estofo que ornam lateralmente o escudo e é de modelo normalizado.\n\n3 - O paquife, quando completo (fig. 2.c), envolve o escudo e é encurtado sempre que nas armas sejam representados colar ou cruz das ordens."
+  },
+  "907632006": {
+   "fragment_id": "907624835",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - O timbre obedece sempre à estilização heráldica e é organizado em função do ordenamento definido para o campo do escudo.\n\n2 - O timbre é colocado assente na parte superior do virol e pode representar uma figura animada ou inanimada.\n\n3 - O timbre constitui um complemento do escudo, sendo o seu prolongamento simbólico externo e tem altura igual à altura do elmo (fig. 2.d)."
+  },
+  "907632007": {
+   "fragment_id": "907624836",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA divisa, palavra ou palavras, síntese de um princípio moral ou material, onde se expressa a intenção de o assumir como norma permanente de conduta, inscreve-se num listel sotoposto ao escudo (fig. 2.f)."
+  },
+  "907632008": {
+   "fragment_id": "907624837",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - O grito de guerra, palavra ou palavras, incitamento carismático para uma conjugação de esforços numa fase crucial de uma tarefa a cumprir, inscreve-se num listel sobreposto ao timbre.\n\n2 - A utilização do grito de guerra é facultativa."
+  },
+  "907632009": {
+   "fragment_id": "907624838",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - A divisa e o grito de guerra inscrevem-se dentro de um listel ondulado e as letras maiúsculas têm sempre a parte superior voltada para o bordo superior do listel.\n\n2 - O estilo das letras é sempre elzevir."
+  },
+  "907632010": {
+   "fragment_id": "907624839",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nNão é permitido o emprego de letras, monogramas ou legendas nos brasões e bandeiras heráldicas da Guarda."
+  },
+  "907632011": {
+   "fragment_id": "907624840",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1 - Sempre que nas armas devam figurar insígnias das ordens honorificas e condecorações (fig. 2.g) a sua posição é a seguinte:\n\na) Colares: circundando o escudo a partir dos seus cantos;\n\nb) Cruzes das ordens: por detrás do escudo, com as suas extremidades aparentes com cerca de um quarto de largura deste;\n\nc) Medalhas: pendentes da ponta do escudo.\n\n2 - Nas armas não é representada mais de uma insígnia."
+  },
+  "907632012": {
+   "fragment_id": "907624841",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - Do padrão derivam todas as outras formas de representar o mesmo ordenamento simbológico.\n\n2 - O ordenamento dos padrões de todas as representações heráldicas da Guarda deverá ser sempre proporcionado, estilizado e iluminado segundo as regras prescritas no artigo 43.º"
+  },
+  "907632013": {
+   "fragment_id": "907624842",
+   "type": 1,
+   "heading": "Capítulo IV — Emblemas da Guarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Emblemas da Guarda"
+  },
+  "907632014": {
+   "fragment_id": "907624843",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1 - O emblema da Guarda é representado pelo seu escudo ou pelo monograma.\n\n2 - O escudo da Guarda pode tomar a forma de escudo circular ou fazer-se uso apenas dos seus elementos.\n\n3 - O emblema pode ser circundado por uma coroa de louro à dextra e de oliveira à sinistra."
+  },
+  "907632015": {
+   "fragment_id": "907624844",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nA título excepcional podem ainda ser representados emblemas relativos a áreas de actividade da Guarda, que evidenciem um contacto contínuo com o exterior e grande visibilidade institucional, desde que não possuam armas próprias."
+  },
+  "907632016": {
+   "fragment_id": "907624845",
+   "type": 1,
+   "heading": "Capítulo V — Bandeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Bandeiras"
+  },
+  "907632017": {
+   "fragment_id": "907624846",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nAs bandeiras heráldicas das unidades e subunidades da Guarda são sempre do tipo drapejante, com as figuras em aplicação nas duas faces, podendo ser:\n\na) Bandeira de arvorar;\n\nb) Estandarte;\n\nc) Guião;\n\nd) Flâmula;\n\ne) Galhardete."
+  },
+  "907632018": {
+   "fragment_id": "907624847",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nAs bandeiras são tratadas como o campo do escudo, sendo o seu flanco dextra o do lado da haste ou da tralha."
+  },
+  "907632019": {
+   "fragment_id": "907624848",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1 - A bandeira de arvorar destina-se a ser hasteada em mastro para identificação da Guarda, dos seus comandos e unidades a quem foram atribuídas armas privativas.\n\n2 - É quadrada, de filete, correspondendo à quadratura do escudo.\n\n3 - O lado do quadrado é variável, adequado e proporcional à altura do mastro em que é hasteada. Como referência pode ter as dimensões aproximadas de entre um quinto e um sétimo da altura do mastro.\n\n4 - Deve ser igualmente proporcional às dimensões das demais bandeiras arvoradas.\n\n5 - O seu emprego é facultativo."
+  },
+  "907632020": {
+   "fragment_id": "907624849",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1 - O estandarte é a bandeira heráldica de desfile e constitui o símbolo da Guarda, dos seus comandos e unidades a quem foram atribuídas armas privativas.\n\n2 - É de seda, tem 75 cm x 75 cm e bainha contínua para enfiar em haste e a sua fixação é assegurada por dois cordões finos de seda da cor do campo (fig. 3.a).\n\n3 - Corresponde à quadratura do respectivo escudo.\n\n4 - O estandarte da Guarda tem a dimensão de 100 cm x 100 cm (fig. 3.b)."
+  },
+  "907632021": {
+   "fragment_id": "907624850",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1 - O guião é a bandeira heráldica de desfile e constitui o símbolo da subunidade tipo batalhão ou escalão equivalente, desde que de comando de oficial superior.\n\n2 - É de seda, tem 75 cm x 75 cm e bainha contínua para enfiar em haste e a sua fixação é assegurada por dois cordões finos de seda da cor do campo.\n\n3 - Corresponde à quadratura do escudo das armas do comando ou unidade de que depende, com uma bordadura acantonada por diferença (fig. 4).\n\n4 - A bordadura é do metal principal das armas do comando ou unidade de que dependem, acantonada de uma cor ou pele que identifica a ordenação das subunidades dentro da unidade superior."
+  },
+  "907632022": {
+   "fragment_id": "907624851",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1 - A flâmula é a bandeira heráldica de desfile que constitui o símbolo da subunidade tipo companhia ou escalão equivalente, bem como das embarcações, desde que de comando de oficial subalterno ou capitão.\n\n2 - É de seda, tem 75 cm x 25 cm, com bainha contínua para enfiar em haste, e a sua fixação é assegurada por dois cordões finos de seda da cor do campo (fig. 5).\n\n3 - O quadrado reproduz o estandarte do comando ou unidade de que depende e as cores das pontas identificam a sua ordenação entre as diversas subunidades desse comando ou unidade.\n\n4 - As flâmulas das embarcações têm a forma de um triângulo isósceles e contêm, na primeira pala, sem bordadura, a simbologia do escudo da Unidade de Controlo Costeiro."
+  },
+  "907632023": {
+   "fragment_id": "907624852",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nAs regras relativas à escolha das cores ou peles de diferenciação, que identificam a ordenação das subunidades dentro do comando ou unidade superior, privilegiam os seguintes critérios:\n\na) Quando a subunidade se encontrar localizada num comando superior, mantém a cor de diferenciação deste último;\n\nb) A continuidade da tradição das cores usadas pela unidade/subunidade ou pela sua antecessora."
+  },
+  "907632024": {
+   "fragment_id": "907624853",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1 - A haste é de madeira de castanho envernizado, com lança e conto de ferro, com 3,5 cm de diâmetro e 2,4 m de comprimento total, com 31,3 cm e 15 cm de comprimento de ferro da lança e do conto, respectivamente (fig. 6).\n\n2 - A suspensão é de cabedal envernizado de branco com ponta, fivela, passador e copo de metal dourado e terá 5,5 cm de largura."
+  },
+  "907632025": {
+   "fragment_id": "907624854",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1 - O galhardete é a bandeira destinada a identificar o comandante-geral e os oficiais generais e pode ser de arvorar ou para viatura.\n\n2 - Quando de arvorar tem 40 cm x 40 cm, com bainha contínua e espia (fig. 7.a).\n\n3 - As situações de grande desproporcionalidade das dimensões do galhardete de arvorar podem ser minimizadas aplicando o estabelecido nos n.os 3 e 4 do artigo 30.º\n\n4 - Quando para viatura tem 22,5 cm x 22,5 cm, com bainha contínua para enfiar em haste e dois cordões de algodão verde para fixação (fig. 7.b).\n\n5 - O galhardete do comandante-geral corresponde à quadratura do escudo da Guarda, em seda, com as estrelas correspondentes, postas em chefe, de branco, aplicadas nas duas faces com ponto condonnet.\n\n6 - Os restantes galhardetes, de seda, em campo de branco com os elementos das armas privativas correspondentes. Chefe de verde com o número de estrelas correspondente ao posto de oficial general. As estrelas, de branco, são aplicadas nas duas faces com ponto condonnet.\n\n7 - Podem ainda ser utilizados os tradicionais galhardetes identificativos dos oficiais generais, fundo de vermelho, com o número de estrelas a branco correspondente ao posto."
+  },
+  "907632026": {
+   "fragment_id": "907624855",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nAs bandeiras heráldicas acompanham os respectivos comandantes em formaturas, paradas e desfiles."
+  },
+  "907632027": {
+   "fragment_id": "907624856",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1 - A Bandeira Nacional, como símbolo representativo do País, é essencialmente uma bandeira de arvorar. Arvora-se no solo do território, nos edifícios e nas embarcações.\n\n2 - A Bandeira Nacional não pode ser usada como decoração."
+  },
+  "907632028": {
+   "fragment_id": "907624857",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1 - A Bandeira Nacional com a forma de Estandarte Nacional atribuída à Guarda, aos seus comandos e unidades, baseia-se no estabelecido no artigo 3.º do Decreto n.º 150, de 30 de Junho de 1911, e regula-se pela legislação em vigor.\n\n2 - O Estandarte Nacional atribuído à Guarda, aos seus comandos e unidades, é executado em tecido de seda, bipartida verticalmente, em duas partes iguais de verde-escuro e escarlate, ficando o verde do lado da tralha; ao centro, e sobreposto à linha de união das duas cores, tem o escudo das armas nacionais; assente numa esfera armilar a ouro, ladeado por dois ramos de loureiro, também a ouro, cujas hastes se cruzam na parte inferior da esfera e exteriormente a ela, ligado por um listel em laço de prata, onde como legenda imortal se inscreve, a negro e em letras maiúsculas de estilo elzevir, o verso camoniano «Esta é a ditosa Pátria minha amada».\n\n3 - O Estandarte Nacional da Guarda tem, inferiormente ao listel em laço de prata, um outro listel de branco com a inscrição «Guarda Nacional Republicana», a negro e em letras maiúsculas de estilo elzevir.\n\n4 - Os Estandartes Nacionais dos comandos e das unidades da Guarda têm, inferiormente ao listel em laço de prata, um listel de branco com a inscrição do nome da unidade, a negro e em letras maiúsculas de estilo elzevir; superiormente aos ramos de loureiro existe outro listel, igualmente de branco, com a inscrição «Guarda Nacional Republicana», a negro e em letras maiúsculas de estilo elzevir."
+  },
+  "907632029": {
+   "fragment_id": "907624858",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nA Bandeira Nacional com a forma de Estandarte Nacional será usada de acordo com o estabelecido no Regulamento de Continências e Honras Militares."
+  },
+  "907632030": {
+   "fragment_id": "907624859",
+   "type": 1,
+   "heading": "Capítulo VI — Insígnias e distintivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Insígnias e distintivos"
+  },
+  "907632031": {
+   "fragment_id": "907624860",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nA simbologia da Guarda inclui ainda a concessão de insígnias e distintivos privativos, para uso individual, cuja atribuição e utilização se regem por diploma próprio."
+  },
+  "907632032": {
+   "fragment_id": "907624861",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1 - Regra geral as insígnias assentam num círculo com 3 cm de diâmetro e os distintivos na espada antiga das armas da Guarda, posta em pala, onde são apostos os novos elementos identificativos, com a altura de 5 cm.\n\n2 - Não é permitido o emprego de letras, monogramas ou legendas no ordenamento dos distintivos da Guarda."
+  },
+  "907632033": {
+   "fragment_id": "907624862",
+   "type": 1,
+   "heading": "Capítulo VII — Do ordenamento dos padrões heráldicos da Guarda e suas leis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Do ordenamento dos padrões heráldicos da Guarda e suas leis"
+  },
+  "907632034": {
+   "fragment_id": "907624863",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nO ordenamento heráldico obedece sempre às seguintes leis fundamentais:\n\na) Lei da iluminura: não pode juntar-se metal com metal nem cor com cor; pode, todavia, juntar-se pele com pele, pele com metal e pele com cor;\n\nb) Lei das proporções: a base do campo do escudo é o quadrado. As peças, os móveis e as figuras, consoante o seu número, relacionam-se com a superfície do campo do escudo numa proporção de um quarto, ou de um sexto, da largura deste. As peças podem reduzir-se a metade da sua largura e, então, recebem designações diferentes;\n\nc) Lei da estilização: dentro do campo do escudo as figuras nunca podem apresentar-se na sua forma naturalista. Têm de beneficiar sempre de uma estilização, que ajude a encher e a decorar o campo;\n\nd) Lei da diferenciação: a cor de diferenciação é a cor do campo do seu escudo de armas;\n\ne) Lei da simplicidade: no ordenamento de qualquer brasão, insígnia, distintivo ou emblema heráldico deve dominar sempre a simplicidade. Assim, um brasonamento é melhor conseguido quando consegue transmitir a mensagem com o menor número de elementos."
+  },
+  "907632035": {
+   "fragment_id": "907624864",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nOs metais e as cores, ou seja, os esmaltes, da heráldica da Guarda são os da heráldica geral, com as intensidades metálicas e cromáticas próprias, de acordo com a seguinte ordem: ouro (amarelo); prata (branco); vermelho; azul; verde; negro e púrpura."
+  },
+  "907632036": {
+   "fragment_id": "907624865",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nA cor de identificação da Guarda é o verde do campo do seu escudo de armas."
+  },
+  "907632037": {
+   "fragment_id": "907624866",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1 - As peles da heráldica da Guarda são as da heráldica geral: arminhos; contra-arminhos; veiros e contraveiros.\n\n2 - Os arminhos na heráldica da Guarda são usados, apenas, pelo Esquadrão Presidencial.\n\n3 - Para a diferenciação das bandeiras heráldicas da Guarda utilizam-se os metais e as cores pela sequência referida no artigo 44.º Esgotadas essas cores segue-se preferencialmente a seguinte ordem de peles: veiros, contraveiros, veiros em pala, veiros ondulados, veirado de verde e ouro e veirado de vermelho e ouro."
+  },
+  "907632038": {
+   "fragment_id": "907624867",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nA representação gráfica dos metais, cores e peles da heráldica da Guarda é a da heráldica geral."
+  },
+  "907632039": {
+   "fragment_id": "907624868",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nAs peças, os móveis e as figuras heráldicas podem combinar-se no ordenamento do brasão, mas sempre segundo as regras do artigo 43.º"
+  },
+  "907632040": {
+   "fragment_id": "907624869",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nOs elementos exteriores dos escudos de armas permitem maior fantasia artística, mas devem respeitar as proporções estabelecidas e ser ordenados e estilizados nos termos do artigo 43.º"
+  },
+  "907632041": {
+   "fragment_id": "907624870",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nOs selos brancos dos comandos e unidades, seguindo o ordenamento do selo branco da Guarda, regulam-se pela legislação em vigor."
+  },
+  "907632042": {
+   "fragment_id": "907624871",
+   "type": 1,
+   "heading": "Capítulo VIII — Da atribuição das armas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Da atribuição das armas"
+  },
+  "907632043": {
+   "fragment_id": "907624872",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n1 - A atribuição de armas é da competência do comandante-geral da Guarda, devendo ser aprovada sob a forma de despacho, a publicar na Ordem à Guarda.\n\n2 - O processo de atribuição de armas é precedido de uma proposta do comando ou unidade proponente e instruído pela Secretaria-Geral da Guarda que reúne, através da Divisão da História e Cultura da Guarda, todos os elementos susceptíveis de interessar à formulação do seu parecer, devendo este conter um estudo técnico e esboço do projecto das armas, bem como a respectiva descrição heráldica.\n\n3 - O estudo e a concepção dos símbolos das armas é da responsabilidade da Divisão da História e Cultura da Guarda.\n\n4 - As propostas individuais que sejam apresentadas, com vista à formalização dos símbolos heráldicos decorrentes das armas atribuídas, carecem de prévia aprovação do comandante-geral, seguindo a tramitação referida nos números anteriores.\n\n5 - Os procedimentos e competências referidos neste artigo aplicam-se igualmente às bandeiras heráldicas, às insígnias, aos distintivos e emblemas da Guarda."
+  }
+ }
+}

@@ -1,0 +1,280 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:540469:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei-organica/2006-34530775",
+ "dre_path": "/dr/detalhe/lei-organica/3-2006-540469",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52047275",
+    "52047375",
+    "52047475",
+    "52047575",
+    "52047675",
+    "52047775",
+    "52047875",
+    "52047975",
+    "52048075"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:541260:por",
+     "title": "Declaração de Rectificação n.º 71/2006",
+     "published": "2006-10-04",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/71-2006-541260",
+     "date": "2006-08-26"
+    }
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106955047:por",
+     "title": "Lei Orgânica n.º 1/2017",
+     "published": "2017-05-02",
+     "dre_path": "/dr/detalhe/lei-organica/1-2017-106955047"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "52047275",
+    "52047375",
+    "114824242",
+    "52047575",
+    "52047675",
+    "52047775",
+    "52047875",
+    "69806318",
+    "69806319",
+    "52048175"
+   ]
+  },
+  {
+   "date": "2019-07-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:121712770:por",
+     "title": "Lei Orgânica n.º 1/2019",
+     "published": "2019-03-29",
+     "dre_path": "/dr/detalhe/lei-organica/1-2019-121712770"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "52047275",
+    "121712815",
+    "121712816",
+    "52047575",
+    "121712817",
+    "121712819",
+    "121712820",
+    "121712821",
+    "121712818",
+    "52048175"
+   ]
+  }
+ ],
+ "fragments": {
+  "52047275": {
+   "fragment_id": "35150575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei Orgânica n.º 3/2006\n\nde 21 de Agosto\n\nLei da paridade: estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as autarquias locais são compostas de modo a assegurar a representação mínima de 33% de cada um dos sexos.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei orgânica seguinte:"
+  },
+  "52047375": {
+   "fragment_id": "36200675",
+   "type": 11,
+   "heading": "Artigo 1.º — Listas de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Listas de candidaturas\n\nAs listas de candidaturas apresentadas para a Assembleia da República, para o Parlamento Europeu e para as autarquias locais são compostas de modo a promover a paridade entre homens e mulheres."
+  },
+  "52047475": {
+   "fragment_id": "36200775",
+   "type": 11,
+   "heading": "Artigo 2.º — Paridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Paridade\n\n1 - Entende-se por paridade, para efeitos de aplicação da presente lei, a representação mínima de 33,3% de cada um dos sexos nas listas.\n\n2 - Para cumprimento do disposto no número anterior, as listas plurinominais apresentadas não podem conter mais de dois candidatos do mesmo sexo colocados, consecutivamente, na ordenação da lista.\n\n3 - Nas eleições em que haja círculos uninominais, a lei eleitoral respectiva estabelece mecanismos que assegurem a representação mínima de cada um dos sexos prevista no n.º 1.\n\n4 - Excepciona-se do disposto no n.º 1 a composição das listas para os órgãos das freguesias com 750 ou menos eleitores e para os órgãos dos municípios com 7500 ou menos eleitores."
+  },
+  "52047575": {
+   "fragment_id": "36200875",
+   "type": 11,
+   "heading": "Artigo 3.º — Notificação do mandatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Notificação do mandatário\n\nNo caso de uma lista não observar o disposto na presente lei, o mandatário é notificado, nos termos fixados na lei eleitoral aplicável, para proceder à sua correcção no prazo estabelecido na mesma lei."
+  },
+  "52047675": {
+   "fragment_id": "36200975",
+   "type": 11,
+   "heading": "Artigo 4.º — Efeitos da não correcção das listas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Efeitos da não correcção das listas\n\nA não correcção das listas de candidatura nos prazos previstos na respectiva lei eleitoral determina:\n\na) A afixação pública das listas com a indicação da sua desconformidade à presente lei;\n\nb) A sua divulgação através do sítio na Internet da Comissão Nacional de Eleições com a indicação referida na alínea anterior;\n\nc) A redução do montante de subvenções públicas para as campanhas eleitorais nos termos da presente lei."
+  },
+  "52047775": {
+   "fragment_id": "36201075",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres de divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres de divulgação\n\nAs listas que, não respeitando a paridade tal como definida nesta lei, não sejam objecto da correcção prevista no artigo 3.º são afixadas à porta do edifício do tribunal respectivo com a indicação de que contêm irregularidades nos termos da lei da paridade e comunicadas, no prazo de quarenta e oito horas, à Comissão Nacional de Eleições."
+  },
+  "52047875": {
+   "fragment_id": "36201175",
+   "type": 11,
+   "heading": "Artigo 6.º — Divulgação na Internet pela Comissão Nacional de Eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Divulgação na Internet pela Comissão Nacional de Eleições\n\n1 - A Comissão Nacional de Eleições assegura, no prazo de quarenta e oito horas após a recepção da comunicação prevista no artigo anterior, a divulgação através do seu sítio na Internet das listas de candidatura que não respeitem a paridade tal como definida nesta lei.\n\n2 - As listas de candidatura divulgadas nos termos do número anterior são agrupadas sob a identificação dos respectivos proponentes."
+  },
+  "52047975": {
+   "fragment_id": "36201275",
+   "type": 11,
+   "heading": "Artigo 7.º — Redução da subvenção para as campanhas eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Redução da subvenção para as campanhas eleitorais\n\n1 - Se violarem o disposto no n.º 1 do artigo 2.º, os partidos, coligações ou grupos de eleitores, conforme o caso, sofrem uma redução na participação nos 80% ou 75% da subvenção pública para as campanhas eleitorais previstas, respectivamente, nos n.os 1 e 3 do artigo 18.º da Lei n.º 19/2003, de 20 de Junho, nos seguintes termos:\n\na) Se um dos sexos estiver representado na lista de candidatura em percentagem inferior a 20%, é reduzida a participação naquela subvenção pública em 50%;\n\nb) Se um dos sexos estiver representado na lista de candidatura em percentagem igual ou superior a 20% e inferior a 33,3%, é reduzida a participação naquela subvenção pública em 25%.\n\n2 - O disposto no número anterior não se aplica a listas com um número de candidatos inferior a três.\n\n3 - Se violarem o disposto no n.º 2 do artigo 2.º, os partidos, coligações ou grupos de eleitores, conforme o caso, sofrem uma redução de 50% na participação nos 80% ou 75% de subvenção pública para as campanhas eleitorais a que teriam direito nos termos dos n.os 1 e 3 do artigo 18.º da Lei n.º 19/2003, de 20 de Junho.\n\n4 - Nas eleições para a Assembleia da República, os resultados eleitorais obtidos pelo partido no círculo eleitoral onde houve incumprimento dos n.os 1 e 2 do artigo 2.º são abatidos aos resultados eleitorais nacionais, em percentagem equivalente à da redução da subvenção pública para campanhas eleitorais calculada de acordo com o disposto nos números anteriores.\n\n5 - Nas eleições para os órgãos do município e da freguesia, havendo diferentes tipos e graus de incumprimento das listas apresentadas por um partido, coligação ou grupo de eleitores para os diversos órgãos, é tomada como referência a lista que pela aplicação dos critérios dos números anterior implica uma redução maior da subvenção pública para as campanhas eleitorais."
+  },
+  "52048075": {
+   "fragment_id": "36201375",
+   "type": 11,
+   "heading": "Artigo 8.º — Reapreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reapreciação\n\nDecorridos cincos anos sobre a entrada em vigor da presente lei, a Assembleia da República avalia o seu impacte na promoção da paridade entre homens e mulheres e procede à sua revisão de acordo com essa avaliação."
+  },
+  "114824242": {
+   "fragment_id": "36200775",
+   "type": 11,
+   "heading": "Artigo 2.º — Paridade",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2017-106955047), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Paridade\n\n1 - Entende-se por paridade, para efeitos de aplicação da presente lei, a representação mínima de 33,3% de cada um dos sexos nas listas.\n\n2 - Para cumprimento do disposto no número anterior, as listas plurinominais apresentadas não podem conter mais de dois candidatos do mesmo sexo colocados, consecutivamente, na ordenação da lista.\n\n3 - Nas eleições em que haja círculos uninominais, a lei eleitoral respectiva estabelece mecanismos que assegurem a representação mínima de cada um dos sexos prevista no n.º 1.\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2017-106955047), em vigor a partir de 2018-01-01"
+  },
+  "69806318": {
+   "fragment_id": "36201275",
+   "type": 11,
+   "heading": "Artigo 7.º — Redução da subvenção para as campanhas eleitorais",
+   "in_force_from": "2006-08-26",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 71/2006 - Diário da República n.º 192/2006, Série I de 2006-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2006-541260), em vigor a partir de 2006-08-26"
+   ],
+   "markdown": "###### Artigo 7.º — Redução da subvenção para as campanhas eleitorais\n\n1 - Se violarem o disposto no n.º 1 do artigo 2.º, os partidos, coligações ou grupos de eleitores, conforme o caso, sofrem uma redução na participação nos 80% ou 75% da subvenção pública para as campanhas eleitorais previstos, respectivamente, nos n.os 1 e 3 do artigo 18.º da Lei n.º 19/2003, de 20 de Junho, nos seguintes termos:\n\na) Se um dos sexos estiver representado na lista de candidatura em percentagem inferior a 20%, é reduzida a participação naquela subvenção pública em 50%;\n\nb) Se um dos sexos estiver representado na lista de candidatura em percentagem igual ou superior a 20% e inferior a 33,3%, é reduzida a participação naquela subvenção pública em 25%.\n\n2 - O disposto no número anterior não se aplica a listas com um número de candidatos inferior a três.\n\n3 - Se violarem o disposto no n.º 2 do artigo 2.º, os partidos, coligações ou grupos de eleitores, conforme o caso, sofrem uma redução de 50% na participação nos 80% ou 75% de subvenção pública para as campanhas eleitorais a que teriam direito nos termos dos n.os 1 e 3 do artigo 18.º da Lei n.º 19/2003, de 20 de Junho.\n\n4 - Nas eleições para a Assembleia da República, os resultados eleitorais obtidos pelo partido no círculo eleitoral onde houve incumprimento dos n.os 1 e 2 do artigo 2.º são abatidos aos resultados eleitorais nacionais, em percentagem equivalente à da redução da subvenção pública para campanhas eleitorais calculada de acordo com o disposto nos números anteriores.\n\n5 - Nas eleições para os órgãos do município e da freguesia, havendo diferentes tipos e graus de incumprimento das listas apresentadas por um partido, coligação ou grupo de eleitores para os diversos órgãos, é tomada como referência a lista que pela aplicação dos critérios dos números anteriores implica uma redução maior da subvenção pública para as campanhas eleitorais.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 71/2006 - Diário da República n.º 192/2006, Série I de 2006-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2006-541260), em vigor a partir de 2006-08-26"
+  },
+  "69806319": {
+   "fragment_id": "36201375",
+   "type": 11,
+   "heading": "Artigo 8.º — Reapreciação",
+   "in_force_from": "2006-08-26",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 71/2006 - Diário da República n.º 192/2006, Série I de 2006-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2006-541260), em vigor a partir de 2006-08-26"
+   ],
+   "markdown": "###### Artigo 8.º — Reapreciação\n\nDecorridos cinco anos sobre a entrada em vigor da presente lei, a Assembleia da República avalia o seu impacto na promoção da paridade entre homens e mulheres e procede à sua revisão de acordo com essa avaliação.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 71/2006 - Diário da República n.º 192/2006, Série I de 2006-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2006-541260), em vigor a partir de 2006-08-26"
+  },
+  "52048175": {
+   "fragment_id": "36201475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 6 de Julho de 2006.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 5 de Agosto de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendada em 8 de Agosto de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "121712815": {
+   "fragment_id": "36200675",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2019-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - As listas de candidaturas apresentadas para a Assembleia da República, para o Parlamento Europeu e para os órgãos eletivos das autarquias locais, bem como a lista de candidatos a vogal das juntas de freguesia, são compostas de modo a assegurar a paridade entre homens e mulheres.\n\n2 - As listas de candidatos às mesas dos órgãos deliberativos das autarquias locais são compostas de modo a respeitar a paridade entre homens e mulheres.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27"
+  },
+  "121712816": {
+   "fragment_id": "36200775",
+   "type": 11,
+   "heading": "Artigo 2.º — Paridade",
+   "in_force_from": "2019-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27",
+    "Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2017-106955047), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Paridade\n\n1 - Entende-se por paridade, para efeitos de aplicação da presente lei, a representação mínima de 40 % de cada um dos sexos, arredondada, sempre que necessário, para a unidade mais próxima.\n\n2 - Para cumprimento do disposto no número anterior, não podem ser colocados mais de dois candidatos do mesmo sexo, consecutivamente, na ordenação da lista.\n\n3 - (Revogado.)\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27\n\n> Alterado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 1/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2017-106955047), em vigor a partir de 2018-01-01"
+  },
+  "121712817": {
+   "fragment_id": "36200975",
+   "type": 11,
+   "heading": "Artigo 4.º — Efeitos do incumprimento",
+   "in_force_from": "2019-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27"
+   ],
+   "markdown": "###### Artigo 4.º — Efeitos do incumprimento\n\n1 - A não correção da lista de candidatura no prazo previsto na respetiva lei eleitoral determina a rejeição de toda a lista.\n\n2 - No caso da eleição dos vogais das juntas de freguesia, é nula a deliberação da eleição de listas de candidatos que não cumpram os requisitos do artigo 2.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27"
+  },
+  "121712819": {
+   "fragment_id": "36201075",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres de divulgação",
+   "in_force_from": "2019-07-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27"
+   ],
+   "markdown": "###### Artigo 5.º — Deveres de divulgação\n\nAs listas que, não respeitando a paridade tal como definida nesta lei, não sejam objecto da correcção prevista no artigo 3.º são afixadas à porta do edifício do tribunal respectivo com a indicação de que contêm irregularidades nos termos da lei da paridade e comunicadas, no prazo de quarenta e oito horas, à Comissão Nacional de Eleições.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27"
+  },
+  "121712820": {
+   "fragment_id": "36201175",
+   "type": 11,
+   "heading": "Artigo 6.º — Divulgação na Internet pela Comissão Nacional de Eleições",
+   "in_force_from": "2019-07-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27"
+   ],
+   "markdown": "###### Artigo 6.º — Divulgação na Internet pela Comissão Nacional de Eleições\n\n1 - A Comissão Nacional de Eleições assegura, no prazo de quarenta e oito horas após a recepção da comunicação prevista no artigo anterior, a divulgação através do seu sítio na Internet das listas de candidatura que não respeitem a paridade tal como definida nesta lei.\n\n2 - As listas de candidatura divulgadas nos termos do número anterior são agrupadas sob a identificação dos respectivos proponentes.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27"
+  },
+  "121712821": {
+   "fragment_id": "36201275",
+   "type": 11,
+   "heading": "Artigo 7.º — Redução da subvenção para as campanhas eleitorais",
+   "in_force_from": "2019-07-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 71/2006 - Diário da República n.º 192/2006, Série I de 2006-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2006-541260), em vigor a partir de 2006-08-26"
+   ],
+   "markdown": "###### Artigo 7.º — Redução da subvenção para as campanhas eleitorais\n\n1 - Se violarem o disposto no n.º 1 do artigo 2.º, os partidos, coligações ou grupos de eleitores, conforme o caso, sofrem uma redução na participação nos 80% ou 75% da subvenção pública para as campanhas eleitorais previstos, respectivamente, nos n.os 1 e 3 do artigo 18.º da Lei n.º 19/2003, de 20 de Junho, nos seguintes termos:\n\na) Se um dos sexos estiver representado na lista de candidatura em percentagem inferior a 20%, é reduzida a participação naquela subvenção pública em 50%;\n\nb) Se um dos sexos estiver representado na lista de candidatura em percentagem igual ou superior a 20% e inferior a 33,3%, é reduzida a participação naquela subvenção pública em 25%.\n\n2 - O disposto no número anterior não se aplica a listas com um número de candidatos inferior a três.\n\n3 - Se violarem o disposto no n.º 2 do artigo 2.º, os partidos, coligações ou grupos de eleitores, conforme o caso, sofrem uma redução de 50% na participação nos 80% ou 75% de subvenção pública para as campanhas eleitorais a que teriam direito nos termos dos n.os 1 e 3 do artigo 18.º da Lei n.º 19/2003, de 20 de Junho.\n\n4 - Nas eleições para a Assembleia da República, os resultados eleitorais obtidos pelo partido no círculo eleitoral onde houve incumprimento dos n.os 1 e 2 do artigo 2.º são abatidos aos resultados eleitorais nacionais, em percentagem equivalente à da redução da subvenção pública para campanhas eleitorais calculada de acordo com o disposto nos números anteriores.\n\n5 - Nas eleições para os órgãos do município e da freguesia, havendo diferentes tipos e graus de incumprimento das listas apresentadas por um partido, coligação ou grupo de eleitores para os diversos órgãos, é tomada como referência a lista que pela aplicação dos critérios dos números anteriores implica uma redução maior da subvenção pública para as campanhas eleitorais.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 71/2006 - Diário da República n.º 192/2006, Série I de 2006-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2006-541260), em vigor a partir de 2006-08-26"
+  },
+  "121712818": {
+   "fragment_id": "36201375",
+   "type": 11,
+   "heading": "Artigo 8.º — Avaliação periódica",
+   "in_force_from": "2019-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 71/2006 - Diário da República n.º 192/2006, Série I de 2006-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2006-541260), em vigor a partir de 2006-08-26"
+   ],
+   "markdown": "###### Artigo 8.º — Avaliação periódica\n\nA cada quatro anos, o Governo, através da Comissão para a Cidadania e a Igualdade de Género, elabora e apresenta à Assembleia da República um relatório sobre o impacto da presente lei na promoção da paridade entre homens e mulheres na composição dos órgãos representativos abrangidos na presente lei, incluindo eventuais sugestões para o seu aperfeiçoamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2019 - Diário da República n.º 63/2019, Série I de 2019-03-29](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2019-121712770), em vigor a partir de 2019-07-27\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 71/2006 - Diário da República n.º 192/2006, Série I de 2006-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2006-541260), em vigor a partir de 2006-08-26"
+  }
+ }
+}

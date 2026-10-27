@@ -1,0 +1,628 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114223842:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-118872799",
+ "dre_path": "/dr/detalhe/portaria/359-a-2017-114223842",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-11-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1082894375",
+    "118872897",
+    "118872898",
+    "118872899",
+    "118872900",
+    "118872901",
+    "118872902",
+    "118872903",
+    "118872904",
+    "118872905",
+    "118872906",
+    "118872907",
+    "118872908",
+    "118872910",
+    "118872911",
+    "118872912",
+    "118872913",
+    "118872914",
+    "118872915",
+    "118872916",
+    "118872917",
+    "118872918",
+    "118872919",
+    "118872920",
+    "118872921",
+    "118872922"
+   ]
+  },
+  {
+   "date": "2019-02-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:118748851:por",
+     "title": "Portaria n.º 41/2019",
+     "published": "2019-01-30",
+     "dre_path": "/dr/detalhe/portaria/41-2019-118748851"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "118872896",
+    "118872897",
+    "118872898",
+    "118872899",
+    "118872900",
+    "118872901",
+    "118872902",
+    "118872929",
+    "118872904",
+    "118872905",
+    "118872906",
+    "118872907",
+    "118872908",
+    "118872909",
+    "118872910",
+    "118872911",
+    "118872912",
+    "118872913",
+    "118872914",
+    "118872915",
+    "118872916",
+    "118872917",
+    "118872918",
+    "118872919",
+    "118872920",
+    "118872921",
+    "118872922"
+   ]
+  },
+  {
+   "date": "2026-04-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1082345416:por",
+     "title": "Decreto-Lei n.º 82/2026",
+     "published": "2026-04-07",
+     "dre_path": "/dr/detalhe/decreto-lei/82-2026-1082345416"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1082894375",
+    "1082894575",
+    "1082894675",
+    "1082894775",
+    "1082894875",
+    "1082894975",
+    "1082895075",
+    "1082895175",
+    "1082895275",
+    "1082895375",
+    "1082895475",
+    "1082895575",
+    "1082895675",
+    "1082895775",
+    "1082895875",
+    "1082895975",
+    "1082896075",
+    "1082896175",
+    "1082896275",
+    "1082896375",
+    "1082896475",
+    "1082896575",
+    "1082896675",
+    "1082896775",
+    "1082896875",
+    "1082896975",
+    "1082897075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1082894375": {
+   "fragment_id": "118872800",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-04-08",
+   "changed_by": [],
+   "markdown": "Portaria n.º 359-A/2017\n\nde 20 de novembro\n\nA Lei n.º 52/2015, de 9 de junho, alterada pela Lei n.º 7-A/2016, de 30 de março, e pelo Decreto-Lei n.º 86-D/2016, de 30 de dezembro, aprovou o Regime Jurídico do Serviço Público de Transporte de Passageiros (RJSPTP), revogando a Lei n.º 1/2009, de 5 de janeiro, e o Regulamento de Transportes em Automóveis (Decreto n.º 37272, de 31 de dezembro de 1948).\n\nO artigo 12.º do RJSPTP, anexo à Lei n.º 52/2015, de 9 de junho, alterada pela Lei n.º 7-A/2016, de 30 de março, e pelo Decreto-Lei n.º 86-D/2016, de 30 de dezembro, prevê a criação de um Fundo para o Serviço Público de Transportes, por forma a auxiliar o financiamento das autoridades de transportes. O modelo de financiamento das diversas componentes do Sistema de transporte público de passageiros desempenha um papel determinante na eficiência e eficácia desse mesmo Sistema. Enquanto parte integrante do modelo de financiamento, a forma de administração e gestão de dinheiros públicos destinados ao transporte público de passageiros contribui de forma decisiva para o desempenho do Sistema.\n\nComponentes essenciais do Sistema são, no novo modelo de descentralização de competências, concretizado pela Lei n.º 52/2015, de 9 de junho, e pelo RJSPTP, as autoridades de transporte competentes, que continuam a necessitar de meios financeiros para a respetiva capacitação técnica e organizativa.\n\nA organização e o planeamento de redes e serviços eficientes de transporte público de passageiros, no modelo concorrencial e de contratualização previsto pela legislação europeia, designadamente no Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, alterado pelo Regulamento (UE) 2016/2338, do Parlamento Europeu e do Conselho, de 14 de dezembro de 2016, requer a constituição de autoridades de transportes dotadas de meios técnicos e funcionais adequados às suas novas tarefas.\n\nSendo o processo de descentralização um processo crescente de aplicação de competências, existem no panorama nacional várias tipologias de autoridades de transportes competentes, que podem ser de nível metropolitano, municipal e intermunicipal, as quais apresentam níveis de maturidade e desenvolvimento muito diferenciados, pelo que é necessário assegurar, nesse quadro, a sua capacitação técnica e pleno funcionamento de forma a garantir a eficácia do novo modelo descentralizado de autoridade de transporte, bem como a eficiência nas opções de planeamento e contratualização desenvolvidas.\n\nPor sua vez, a Lei n.º 42/2016, de 28 de dezembro, que aprova o Orçamento do Estado para 2017, prevê um mecanismo transitório de financiamento para efeitos de capacitação organizativa e técnica, estudos de planeamento ou desenvolvimento de sistemas de transportes flexíveis ou a pedido.\n\nNeste sentido, a presente portaria promove a criação e a regulamentação do Fundo para o Serviço Público de Transportes previsto no artigo 12.º do RJSPTP. A criação deste Fundo visa auxiliar o financiamento das autoridades de transporte, encontrando-se sujeito à tutela conjunta dos membros do Governo responsáveis pelas áreas das finanças, dos transportes urbanos, suburbanos e rodoviários de passageiros.\n\nDefine-se, deste modo, a natureza jurídica e as finalidades do Fundo para o Serviço Público de Transportes, prevendo-se ainda o seu modo de funcionamento, de financiamento, as suas despesas, o seu modelo de supervisão e gestão, bem como de controlo e fiscalização.\n\nForam ouvidas a Autoridade da Mobilidade e dos Transportes e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nAo abrigo do disposto no artigo 12.º do Regime Jurídico do Serviço Público de Transporte de Passageiros (RJSPTP), aprovado em anexo à Lei n.º 52/2015, de 9 de junho, alterada pela Lei n.º 7-A/2016, de 30 de março, pelo Decreto-Lei n.º 86-D/2016, de 30 de dezembro, manda o Governo, pelo Secretário de Estado do Tesouro, no uso da competência delegada pelo Despacho n.º 3492/2017, de 24 de março, publicado no Diário da República, 2.ª série, n.º 81, de 26 de abril de 2017, pelo Secretário de Estado das Autarquias Locais, no uso da competência delegada pelo Despacho n.º 9973-A/2017, de 17 de novembro, publicado no Diário da República, n.º 222, 1.º suplemento, 2.ª série, de 17 de novembro de 2017, pelo Secretário de Estado das Infraestruturas, no uso da competência delegada pelo Despacho n.º 2311/2016, de 1 de fevereiro, publicado no Diário da República, 2.ª série, n.º 32, de 16 de fevereiro de 2016, e pelo Secretário de Estado Adjunto e do Ambiente, no uso da competência delegada pelo Despacho n.º 7590/2017, de 18 de agosto, publicado no Diário da República, 2.ª série, n.º 165, de 28 de agosto, o seguinte:"
+  },
+  "118872897": {
+   "fragment_id": "118872801",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à criação e regulamentação do Fundo para o Serviço Público de Transportes, doravante designado por Fundo, que se destina a auxiliar o financiamento das autoridades de transportes."
+  },
+  "118872898": {
+   "fragment_id": "118872802",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime\n\nO Fundo tem natureza de património autónomo, sem personalidade jurídica, com autonomia administrativa e financeira, e rege-se pelo disposto no presente regime jurídico e demais legislação aplicável e, subsidiariamente, pela Lei-quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004 de 15 de janeiro."
+  },
+  "118872899": {
+   "fragment_id": "118872803",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Finalidade\n\nO Fundo tem como finalidades:\n\na) Contribuir para o financiamento e o funcionamento das autoridades de transporte;\n\nb) Apoiar a capacitação organizativa e técnica das autoridades de transportes competentes, a nível metropolitano, intermunicipal e municipal;\n\nc) Apoiar a investigação e desenvolvimento e a promoção de sistemas de transportes inteligentes;\n\nd) Apoiar estudos de planeamento e implementação de sistemas de transportes flexíveis;\n\ne) Promover, participar e apoiar ações coordenadas destinadas a melhorar a qualidade, a segurança e o ambiente no âmbito dos transportes públicos;\n\nf) Promover, participar e apoiar a melhoria da imagem do transporte público."
+  },
+  "118872900": {
+   "fragment_id": "118872804",
+   "type": 11,
+   "heading": "Artigo 4.º — Receitas do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Receitas do Fundo\n\n1 - Constituem receitas do Fundo:\n\na) As dotações previstas no Orçamento do Estado em cada ano;\n\nb) Os apoios atribuídos pelo Fundo Ambiental em cada ano;\n\nc) O produto de doações, heranças, legados, ou contribuições mecenáticas;\n\nd) Os valores resultantes da distribuição das coimas cobradas no âmbito das contraordenações do uso de transportes coletivos de passageiros, tal como previsto no Decreto-Lei n.º 117/2017, de 12 de setembro;\n\ne) Quaisquer outras receitas que lhe sejam atribuídas.\n\n2 - Os saldos que venham a ser apurados no fim de cada ano económico transitam para o orçamento do ano seguinte.\n\n3 - A dotação inicial do Fundo será constituída:\n\na) Pelo saldo das verbas previstas no n.º 1 do artigo 132.º da Lei n.º 42/2016, de 28 de dezembro, que aprova o Orçamento do Estado para 2017, inscritas no orçamento da Autoridade da Mobilidade e dos Transportes;\n\nb) Pelo saldo das transferências para as Áreas Metropolitanas de Lisboa e do Porto, com vista ao desempenho das novas competências atribuídas pelo RJSPTP, previstas em sede de Orçamento do Estado para 2017, nas verbas 72 e 73 do Mapa de alterações e transferências orçamentais, anexo ao artigo 8.º da referida Lei; e\n\nc) Pelo montante de 3 000 000 (euro) com origem no Fundo Ambiental, para o desenvolvimento de ações e projetos que se enquadrem nos objetivos do Fundo Ambiental.\n\n4 - A determinação e transferência dos saldos a que se refere a alínea b) do número anterior é efetuada nos termos previstos no n.º 4 do artigo 132.º da Lei n.º 42/2016, de 28 de dezembro.\n\n5 - De modo a permitir a elaboração dos documentos previsionais referidos no artigo 7.º, o membro do Governo responsável pela área das finanças propõe, até ao mês de julho de cada ano civil, o montante a transferir das receitas gerais do Estado para o Fundo, por via da Lei do Orçamento de Estado do ano seguinte.\n\n6 - Caso não tenha sido apresentado qualquer montante nos termos do número anterior, o gestor do Fundo, deve considerar como valor a transferir das receitas gerais do Estado, o montante transferido no ano anterior."
+  },
+  "118872901": {
+   "fragment_id": "118872805",
+   "type": 11,
+   "heading": "Artigo 5.º — Despesas do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Despesas do Fundo\n\nConstituem despesas do Fundo as que resultem de encargos decorrentes da prossecução da sua atividade, nomeadamente os encargos com:\n\na) Duas linhas distintas destinadas ao financiamento:\n\ni) Regular das autoridades de transporte;\n\nii) De ações de curto e médio prazo que contribuam para a concretização das finalidades do Fundo, podendo ser direcionada para grupos específicos de beneficiários elegíveis incluindo todas as autoridades de transportes;\n\nb) Uma comissão anual de gestão de 1,0 % do valor das suas receitas para o Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), que não poderá afetar o montante disponível para o financiamento regular previsto na alínea anterior."
+  },
+  "118872902": {
+   "fragment_id": "118872806",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio técnico, administrativo e logístico e respetivos encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio técnico, administrativo e logístico e respetivos encargos\n\nO apoio técnico, administrativo e logístico e os respetivos encargos associados são prestados e suportados pelo IMT, I. P."
+  },
+  "118872903": {
+   "fragment_id": "118872807",
+   "type": 11,
+   "heading": "Artigo 7.º — Contabilidade, documentos previsionais e de prestação de contas e transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contabilidade, documentos previsionais e de prestação de contas e transparência\n\n1 - A contabilidade do Fundo respeita o Plano de Contas em vigor para as entidades desta natureza, podendo dispor de outros instrumentos necessários à boa gestão e ao controlo de dinheiros e outros ativos públicos, nomeadamente, de modo a que exista uma identificação clara dos projetos que venha a financiar.\n\n2 - Os documentos previsionais do Fundo, preparados nos termos do disposto no número anterior, devem ser elaborados, pelo conselho diretivo do IMT, I. P., até 30 de setembro do ano civil anterior ao que respeita e remetidos, para aprovação aos membros do Governo de harmonia com o disposto no n.º 3 do artigo 8.º do presente diploma.\n\n3 - A modificação dos documentos previsionais pode ocorrer, cumpridos os requisitos legais, em qualquer momento por iniciativa do gestor do Fundo ou por solicitação do membro do Governo responsável.\n\n4 - Os documentos de prestação de contas do Fundo, preparados nos termos do disposto no n.º 1, incluindo uma descrição financeira dos apoios atribuídos e a apreciação da atividade desenvolvida por comparação com a prevista, devem ser elaborados pelo conselho diretivo do IMT, I. P., até 15 de abril do ano seguinte a que respeitam e remetidos para aprovação aos membros do Governo, de harmonia com o disposto no n.º 3 do artigo 8.º do presente diploma.\n\n5 - A contabilidade do Fundo e do IMT, I. P., devem ser organizadas de modo a permitir uma clara identificação de quaisquer fluxos financeiros entre elas e da respetiva natureza."
+  },
+  "118872904": {
+   "fragment_id": "118872808",
+   "type": 11,
+   "heading": "Artigo 8.º — Supervisão e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Supervisão e gestão\n\n1 - A supervisão do Fundo é exercida pelo membro do Governo responsável pela área dos transportes urbanos, suburbanos e rodoviários de passageiros, competindo-lhe nomeadamente aprovar o financiamento de projetos no âmbito das finalidades prosseguidas pelo Fundo, mediante prévia cabimentação orçamental, nos termos do regulamento referido no artigo 10.º\n\n2 - As orientações estratégicas de aplicação do Fundo são aprovadas por despacho conjunto dos membros do Governo responsáveis pelas áreas das autarquias locais, dos transportes urbanos, suburbanos e rodoviários de passageiros.\n\n3 - Os documentos previsionais e de prestação de contas são aprovados por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e dos transportes urbanos, suburbanos e rodoviários de passageiros.\n\n4 - A gestão do Fundo cabe ao IMT, I. P., devendo conformar-se com os princípios, regras e instrumentos de gestão e controlo previstos no regulamento a que se refere o artigo 10.º, no respeito pelas regras do regime orçamental e financeiro dos serviços e fundos autónomos."
+  },
+  "118872905": {
+   "fragment_id": "118872809",
+   "type": 11,
+   "heading": "Artigo 9.º — Controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Controlo e fiscalização\n\n1 - O Fundo dispõe de um fiscal único, o qual é responsável pelo controlo da legalidade, da regularidade e da sua gestão financeira.\n\n2 - O Fiscal Único é nomeado por despacho do membro do Governo responsável pela área das finanças, o qual fixa os termos do exercício da função.\n\n3 - Compete ao fiscal único:\n\na) Emitir parecer sobre os instrumentos previsionais, bem como sobre os documentos de prestação de contas;\n\nb) Acompanhar com regularidade a gestão do Fundo, através dos balancetes e mapas demonstrativos da execução orçamental;\n\nc) Manter informados o conselho diretivo do IMT e o membro do Governo responsável pela área das finanças sobre o resultado de verificações ou de exames a que proceda;\n\nd) Pronunciar-se sobre qualquer outra matéria no domínio da gestão económica e financeira, sempre que tal lhe seja solicitado pelo conselho diretivo do IMT.\n\n4 - Sem prejuízo das competências do fiscal único e das competências atribuídas por lei a outros organismos, a fiscalização do Fundo é assegurada pela Inspeção-Geral de Finanças.\n\n5 - Para efeito do disposto no número anterior, o conselho diretivo do IMT deve remeter à Inspeção-Geral de Finanças, após a sua aprovação, os documentos previsionais de gestão e de prestação de contas, acompanhados da certificação legal das contas."
+  },
+  "118872906": {
+   "fragment_id": "118872810",
+   "type": 11,
+   "heading": "Artigo 10.º — Regulamento de gestão do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regulamento de gestão do Fundo\n\n1 - O regulamento de gestão do Fundo é publicado em anexo à presente portaria, da qual faz parte integrante.\n\n2 - O regulamento de gestão previsto no número anterior estabelece, nomeadamente, o seguinte:\n\na) As finalidades do financiamento previsto na alínea a) do artigo 3.º;\n\nb) As entidades beneficiárias do Fundo;\n\nc) As regras e os procedimentos relativos ao financiamento e à afetação dos recursos financeiros;\n\nd) O mecanismo de partilha de informação entre o Fundo e a Direção-Geral das Autarquias Locais sobre os fluxos financeiros com as autoridades de transportes a nível metropolitano, intermunicipal e municipal;\n\ne) As competências do gestor do fundo."
+  },
+  "118872907": {
+   "fragment_id": "118872811",
+   "type": 11,
+   "heading": "Artigo 11.º — Extinção do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Extinção do Fundo\n\nEm caso de extinção do Fundo, o destino dos meios financeiros a ele afetos, apurados após a respetiva liquidação, será determinado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e dos transportes urbanos, suburbanos e rodoviários de passageiros."
+  },
+  "118872908": {
+   "fragment_id": "118872812",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "118872910": {
+   "fragment_id": "118872814",
+   "type": 14,
+   "heading": "Anexo — Regulamento do Fundo para o Serviço Público de Transportes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento do Fundo para o Serviço Público de Transportes"
+  },
+  "118872911": {
+   "fragment_id": "118872815",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente Regulamento estabelece as regras do Fundo para o Serviço Público de Transportes, doravante designado por Fundo, bem como o regime de atribuição dos respetivos apoios financeiros."
+  },
+  "118872912": {
+   "fragment_id": "118872816",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos dos apoios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos dos apoios financeiros\n\nOs apoios financeiros previstos no presente regulamento têm como finalidade contribuir para a descarbonização do sistema de transportes por via do fomento de um transporte público de passageiros de qualidade, assente numa política ativa de capacitação das autoridades de transporte cujo financiamento é objetivo do presente Fundo."
+  },
+  "118872913": {
+   "fragment_id": "118872817",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios gerais\n\n1 - O Fundo rege-se pelo princípio da igualdade, da transparência e da não discriminação nas suas relações com os beneficiários e demais princípios gerais subjacentes à atividade administrativa.\n\n2 - Os apoios financeiros atribuídos pelo Fundo devem ser imprescindíveis e suficientes para a prossecução do interesse público.\n\n3 - A gestão financeira do Fundo deve ser orientada pelos princípios e instrumentos de gestão aplicáveis aos fundos e serviços autónomos, devendo a sua gestão ser orientada para privilegiar o financiamento de entidades, projetos e atividades com potencial de alavancagem de fundos complementares e maior retorno na concretização das políticas públicas na área do ambiente, da mobilidade, do desenvolvimento regional e da coesão territorial."
+  },
+  "118872914": {
+   "fragment_id": "118872818",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão do Fundo\n\n1 - A gestão do Fundo cabe ao Instituto da Mobilidade e dos Transportes, I. P., doravante designado por IMT, I. P., através do seu conselho diretivo, no prosseguimento das orientações estratégicas aprovadas pelo membro do Governo responsável pela área dos transportes urbanos, suburbanos e rodoviários de passageiros, nos termos do artigo 8.º da presente portaria.\n\n2 - No exercício das competências de gestão, cabe ao conselho diretivo do IMT, I. P.:\n\na) Aprovar o financiamento de projetos no âmbito das finalidades prosseguidas pelo Fundo, mediante prévia cabimentação orçamental, nos termos referidos no presente regulamento;\n\nb) Elaborar até 31 de julho do ano civil anterior a que respeita, o plano plurianual de atividades do Fundo para os dois anos seguintes, o qual deve ser remetido aos membros do Governo para aprovação, nos termos do n.º 3 do artigo 8.º da portaria que cria o fundo, após processo de consulta prévia, pelo prazo de dez dias úteis, às autoridades de transporte beneficiárias;\n\nc) Aprovar relatórios semestrais de gestão do Fundo e remetê-los, no prazo de 15 dias após o período a que respeita, ao membro do Governo responsável pela área dos transportes urbanos, suburbanos e rodoviários de passageiros;\n\nd) Aprovar os formulários de candidaturas e de pedidos de pagamento.\n\n3 - Cabe ainda ao conselho diretivo do IMT, I. P.:\n\na) A articulação com as prioridades do Governo nas diferentes políticas setoriais, nomeadamente com políticas ambientais, de mobilidade, ordenamento do território e desenvolvimento regional, em concertação com as respetivas tutelas;\n\nb) Estabelecer relações institucionais em nome do Fundo com as entidades relevantes à prossecução dos seus objetivos, nomeadamente as autoridades de transporte, operadores de transporte e entidades reguladoras;\n\nc) Decidir em todas as matérias que envolvam encargos e assunção de responsabilidades do Fundo, sem prejuízo do disposto no artigo 11.º do presente regulamento.\n\n4 - O conselho diretivo do IMT, I. P., pode delegar poderes de gestão do Fundo em dirigentes de unidades orgânicas daquele Instituto sem que essa delegação implique aumento de despesa."
+  },
+  "118872915": {
+   "fragment_id": "118872819",
+   "type": 11,
+   "heading": "Artigo 5.º — Finalidades do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Finalidades do Fundo\n\nO Fundo tem por finalidade, nos termos da lei nacional e comunitária:\n\na) Contribuir para o financiamento e o funcionamento das autoridades de transportes por via do financiamento do seu quadro de pessoal permanente, rubricas de investimento e custos operacionais;\n\nb) Contribuir para o financiamento e funcionamento das autoridades de transportes a nível metropolitano, intermunicipal e municipal por via do financiamento de projetos e ações na área da mobilidade urbana com impacto relevante no sistema de transporte público;\n\nc) Apoiar a capacitação organizativa e técnica das autoridades de transportes competentes, a nível metropolitano, intermunicipal e municipal por via do financiamento ou cofinanciamento de ações internas ou externas de formação e de desenvolvimento de instrumentos de técnicos de suporte à atividade da autoridade de transportes;\n\nd) Dotar as autoridades de transporte competentes, a nível metropolitano, intermunicipal e municipal por via do financiamento ou cofinanciamento de ações, de instrumentos de gestão e de suporte à atividade das redes de operadores internos, desde que não diretamente relacionados com a produção de transporte;\n\ne) Apoiar a investigação e desenvolvimento e a promoção de sistemas de transportes inteligentes, incluindo sistemas de bilhética, bem como de suporte à mobilidade, designadamente as referidas no Decreto-Lei n.º 60/2016, de 8 de setembro, para suporte a sistemas de transporte flexível;\n\nf) Promover, participar e apoiar ações coordenadas destinadas a melhorar a qualidade, a segurança e o ambiente no âmbito dos transportes públicos;\n\ng) Promover, participar e apoiar a melhoria da imagem do transporte público e contribuir para a descarbonização do sistema de transportes;\n\nh) Apoiar projetos de modernização do sector do transporte público, atendendo ao cumprimento das regras e princípios relativos a auxílios de Estado e de contratualização de obrigações de serviço público;\n\ni) Apoiar outras rubricas que venham a ser identificadas por despacho do membro do governo responsável pelos transportes urbanos, suburbanos e rodoviários de passageiros."
+  },
+  "118872916": {
+   "fragment_id": "118872820",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades beneficiárias do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidades beneficiárias do Fundo\n\n1 - São beneficiárias do Fundo:\n\na) Todas as autoridades de transportes incluindo o Estado, as Áreas Metropolitanas de Lisboa e do Porto, as Comunidades Intermunicipais e os Municípios, bem como qualquer forma de associação entre estas entidades das quais resulte o exercício partilhado da função de autoridade de transportes;\n\nb) Os operadores de transporte público de passageiros, qualquer que seja a sua natureza;\n\nc) Outras pessoas coletivas, qualquer que seja a sua natureza, na medida em que sejam promotoras ou participantes de qualquer das atividades financiadas pelo Fundo.\n\n2 - Apenas as entidades mencionadas na alínea a) do número anterior podem ser objeto de transferências diretas do Fundo para efeitos de financiamento previsto na alínea a) do artigo 5.º do regulamento, sem que seja necessária avaliação específica do objeto financiado, nos termos definidos no artigo 7.º do presente regulamento."
+  },
+  "118872917": {
+   "fragment_id": "118872821",
+   "type": 11,
+   "heading": "Artigo 7.º — Financiamento regular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Financiamento regular\n\n1 - Com vista a potenciar modelos que promovam maior articulação das redes interurbanas e regionais, maior eficiência de redes e melhor gestão de recursos públicos, o Fundo irá incentivar a organização das autoridades de transportes em entidades de nível intermunicipal.\n\n2 - Os valores anuais disponíveis para o financiamento regular a que se refere o número anterior são definidos no plano plurianual de atividades do Fundo, referido na alínea b) do n.º 2 do artigo 4.º do regulamento.\n\n3 - Em 2017, e tal como previsto no artigo 132.º da Lei n.º 42/2016, de 28 de dezembro:\n\na) O valor a transferir para as áreas Metropolitanas de Lisboa e do Porto é o previsto no regime transitório de financiamento previsto no artigo 4.º da Lei n.º 52/2015, de 9 de junho, alterada pela Lei n.º 7-A/2016, de 30 de março, e pelo Decreto-Lei n.º 86-D/2016, de 30 de dezembro, e de acordo com o mapa anexo referido no artigo 8.º da Lei n.º 42/2016, de 28 de dezembro;\n\nb) O valor a transferir para os municípios não incluídos nas áreas metropolitanas de Lisboa e do Porto é de 2 000 000 euros, a atribuir nos termos do presente artigo.\n\n4 - O valor atribuível a cada município não incluído nas áreas metropolitanas de Lisboa e do Porto é calculado nos termos do número seguinte, estando a elegibilidade do município condicionada à declaração junto do IMT, I. P., da expressa assunção das funções de autoridade de transportes previstas para os municípios nos termos do RJSPTP, sem prejuízo da sua delegação.\n\n5 - O valor do financiamento regular atribuível aos municípios referidos no número anterior é determinado através da soma de duas componentes:\n\na) 40 % do valor anual disponível é repartido em partes iguais por cada município;\n\nb) 60 % do valor anual disponível é repartido de forma ponderada, com base na chave de distribuição utilizada nas transferências para os municípios por via do Fundo de Equilíbrio Financeiro, tal como publicado na Lei do Orçamento de Estado para o ano em apreço.\n\n6 - Em 2017, o valor referido no número anterior é publicitado pelo IMT, I. P., 20 dias após a publicação do presente regulamento, sendo nos anos seguintes publicitado no prazo de 20 dias após a publicação da Lei do Orçamento do Estado.\n\n7 - Verificando-se uma delegação de competências de autoridade de transportes dos municípios não abrangidos pelas áreas metropolitanas de Lisboa e do Porto na respetiva comunidade intermunicipal (CIM), o financiamento poderá ser requerido e atribuído diretamente a estas entidades, sendo nestes casos o valor atribuível a cada município com competências delegadas somado e majorado em 50 %.\n\n8 - A transferência da verba solicitada pelas comunidades intermunicipais prevista no número anterior está condicionada à existência, verificação e publicitação dos contratos interadministrativos de delegação de competências celebrados com todos ou parte dos municípios nas respetivas comunidades intermunicipais, bem como de uma declaração expressa dos municípios a autorizarem a transferência da verba prevista no Fundo para a CIM.\n\n9 - Compete ao IMT, I. P., a verificação da existência e publicitação dos contratos interadministrativos mencionados no número anterior.\n\n10 - A verificação das condições referidas no n.º 9 é efetuada no prazo de 40 dias após a entrada em vigor da presente portaria, e no dia 28 de fevereiro de cada ano.\n\n11 - Independentemente da extensão das competências delegadas, caso os municípios declarem a autorização prevista no n.º 9, o valor atribuível a cada município é majorado e integralmente transferido para a CIM."
+  },
+  "118872918": {
+   "fragment_id": "118872822",
+   "type": 11,
+   "heading": "Artigo 8.º — Financiamento de ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Financiamento de ações\n\n1 - O IMT, I. P., enquanto gestor do Fundo, é responsável pela realização dos procedimentos necessários à concessão do financiamento de ações previstas no Plano de Atividades do Fundo.\n\n2 - O procedimento deverá ser publicitado por aviso, a publicar no sítio online do IMT, I. P., ou noutro criado para o efeito.\n\n3 - De todos os avisos que não sejam dirigidos a entidades específicas deve ser dado conhecimento à Associação Nacional dos Municípios Portugueses, à Autoridade da Mobilidade e dos Transportes e associações empresariais do setor legalmente constituídas, sem prejuízo da transmissão de informação considerada relevante nos termos da alínea b) do n.º 3 do artigo 4.º\n\n4 - Os procedimentos deverão privilegiar processos de candidaturas abertos, concorrenciais, avaliadas pelo mérito, salvo em situações de manifesto interesse público devidamente fundamentado.\n\n5 - O Fundo pode atribuir financiamento reembolsável ou não reembolsável.\n\n6 - O Plano de Atividades do Fundo deverá prever e alocar uma verba não inferior a 300.000 euros ou 10 % do valor disponível para o financiamento de ações em cada ano, promovidas por municípios com operadores internos, ou com serviço público de transporte de passageiros municipais.\n\n7 - O financiamento referido no número anterior é necessariamente atribuído por procedimentos de candidatura abertos e avaliados pelo seu mérito.\n\n8 - O financiamento de ações só poderá ocorrer em municípios onde por via direta ou de forma delegada, os mesmos assumam expressamente a totalidade das competências de autoridade de transporte que lhe são atribuídas pelo RJSPTP."
+  },
+  "118872919": {
+   "fragment_id": "118872823",
+   "type": 11,
+   "heading": "Artigo 9.º — Relatório de atividades e contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Relatório de atividades e contas\n\n1 - O relatório de atividades e contas é o instrumento que reporta a atividade realizada pelo Fundo no ano a que respeita e deve permitir a avaliação da eficácia e eficiência da atividade desenvolvida.\n\n2 - O relatório de atividades e contas deve conter, nomeadamente, uma descrição financeira dos apoios atribuídos, bem como a apreciação da atividade do Fundo por comparação com a prevista no plano anual de atividades do ano a que respeita.\n\n3 - O relatório de atividades e contas do Fundo deverá ser aprovado pelos membros do Governo responsáveis pelas finanças, autarquias locais e pelos transportes urbanos, suburbanos e rodoviários de passageiros.\n\n4 - Os relatórios de atividades e contas dos últimos 5 anos deverão ser publicitados no sítio online referido no n.º 2 do artigo 8.º"
+  },
+  "118872920": {
+   "fragment_id": "118872824",
+   "type": 11,
+   "heading": "Artigo 10.º — Utilização de fundos com origem no Fundo Ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Utilização de fundos com origem no Fundo Ambiental\n\nA utilização de fundos com origem no Fundo Ambiental apenas se aplica a ações e projetos que se enquadrem nos objetivos desse Fundo."
+  },
+  "118872921": {
+   "fragment_id": "118872825",
+   "type": 11,
+   "heading": "Artigo 11.º — Aprovação e formalização dos atos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aprovação e formalização dos atos de gestão\n\n1 - Com exceção dos atos de gestão relacionados com a aplicação do financiamento regular, todos os atos de gestão do Fundo que envolvam valores superiores a 75 000 (euro) são autorizados pelo membro do Governo com a tutela dos transportes urbanos, suburbanos e rodoviários de passageiros.\n\n2 - Compete ao conselho diretivo do IMT, I. P., praticar todos os atos e operações necessários ou convenientes à boa administração do Fundo e prossecução dos seus objetivos, no âmbito dos poderes conferidos pelo regulamento, de acordo com critérios de elevada diligência e competência profissional.\n\n3 - Cabe em especial ao conselho diretivo do IMT, I. P., a avaliação e seleção dos projetos, a emissão de ordens de pagamento, o acompanhamento e fiscalização da execução dos projetos, zelando pela sua correta aplicação.\n\n4 - Os atos de gestão do Fundo e a movimentação da conta de depósito do Fundo efetuam-se mediante a assinatura conjunta de dois membros do conselho diretivo do IMT, I. P."
+  },
+  "118872922": {
+   "fragment_id": "118872826",
+   "type": 11,
+   "heading": "Artigo 12.º — Mecanismo de partilha de informação entre o Fundo e a Direção-Geral das Autarquias Locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Mecanismo de partilha de informação entre o Fundo e a Direção-Geral das Autarquias Locais\n\n1 - O Fundo e a Direção-Geral das Autarquias Locais procederão à partilha de informação sobre as autoridades de transportes a nível metropolitano, intermunicipal e municipal nos seguintes termos:\n\na) Assim que os valores se encontrem aprovados, a DGAL procede ao envio em formato editável dos dados relativos ao valor previsto para as transferências para os municípios por via do Fundo de Equilíbrio Financeiro necessários para o cálculo previsto no artigo 7.º;\n\nb) O Fundo procede aos cálculos dos montantes do financiamento regular nos termos do n.º 5 do artigo 7.º, remetendo-os à DGAL para efeitos de confirmação;\n\nc) O Fundo disponibiliza à DGAL semestralmente, em suporte digital, os montantes relativos ao financiamento regular e por ações das autoridades de transportes metropolitanas, intermunicipais e municipais, desagregados por entidade beneficiária, bem como os relatórios de atividades e contas.\n\n2 - Para efeitos de monitorização e coordenação do cumprimento do presente artigo devem os responsáveis do Fundo e da DGAL realizar reuniões periódicas de avaliação dos mecanismos de partilha de informação previstos, para que possam tempestivamente ser reportadas às tutelas eventuais necessidades de alterações ao procedimento."
+  },
+  "118872896": {
+   "fragment_id": "118872800",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 359-A/2017\n\nde 20 de novembro\n\nA Lei n.º 52/2015, de 9 de junho, alterada pela Lei n.º 7-A/2016, de 30 de março, e pelo Decreto-Lei n.º 86-D/2016, de 30 de dezembro, aprovou o Regime Jurídico do Serviço Público de Transporte de Passageiros (RJSPTP), revogando a Lei n.º 1/2009, de 5 de janeiro, e o Regulamento de Transportes em Automóveis (Decreto n.º 37272, de 31 de dezembro de 1948).\n\nO artigo 12.º do RJSPTP, anexo à Lei n.º 52/2015, de 9 de junho, alterada pela Lei n.º 7-A/2016, de 30 de março, e pelo Decreto-Lei n.º 86-D/2016, de 30 de dezembro, prevê a criação de um Fundo para o Serviço Público de Transportes, por forma a auxiliar o financiamento das autoridades de transportes. O modelo de financiamento das diversas componentes do Sistema de transporte público de passageiros desempenha um papel determinante na eficiência e eficácia desse mesmo Sistema. Enquanto parte integrante do modelo de financiamento, a forma de administração e gestão de dinheiros públicos destinados ao transporte público de passageiros contribui de forma decisiva para o desempenho do Sistema.\n\nComponentes essenciais do Sistema são, no novo modelo de descentralização de competências, concretizado pela Lei n.º 52/2015, de 9 de junho, e pelo RJSPTP, as autoridades de transporte competentes, que continuam a necessitar de meios financeiros para a respetiva capacitação técnica e organizativa.\n\nA organização e o planeamento de redes e serviços eficientes de transporte público de passageiros, no modelo concorrencial e de contratualização previsto pela legislação europeia, designadamente no Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, alterado pelo Regulamento (UE) 2016/2338, do Parlamento Europeu e do Conselho, de 14 de dezembro de 2016, requer a constituição de autoridades de transportes dotadas de meios técnicos e funcionais adequados às suas novas tarefas.\n\nSendo o processo de descentralização um processo crescente de aplicação de competências, existem no panorama nacional várias tipologias de autoridades de transportes competentes, que podem ser de nível metropolitano, municipal e intermunicipal, as quais apresentam níveis de maturidade e desenvolvimento muito diferenciados, pelo que é necessário assegurar, nesse quadro, a sua capacitação técnica e pleno funcionamento de forma a garantir a eficácia do novo modelo descentralizado de autoridade de transporte, bem como a eficiência nas opções de planeamento e contratualização desenvolvidas.\n\nPor sua vez, a Lei n.º 42/2016, de 28 de dezembro, que aprova o Orçamento do Estado para 2017, prevê um mecanismo transitório de financiamento para efeitos de capacitação organizativa e técnica, estudos de planeamento ou desenvolvimento de sistemas de transportes flexíveis ou a pedido.\n\nNeste sentido, a presente portaria promove a criação e a regulamentação do Fundo para o Serviço Público de Transportes previsto no artigo 12.º do RJSPTP. A criação deste Fundo visa auxiliar o financiamento das autoridades de transporte, encontrando-se sujeito à tutela conjunta dos membros do Governo responsáveis pelas áreas das finanças, dos transportes urbanos, suburbanos e rodoviários de passageiros.\n\nDefine-se, deste modo, a natureza jurídica e as finalidades do Fundo para o Serviço Público de Transportes, prevendo-se ainda o seu modo de funcionamento, de financiamento, as suas despesas, o seu modelo de supervisão e gestão, bem como de controlo e fiscalização.\n\nForam ouvidas a Autoridade da Mobilidade e dos Transportes e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nAo abrigo do disposto no artigo 12.º do Regime Jurídico do Serviço Público de Transporte de Passageiros (RJSPTP), aprovado em anexo à Lei n.º 52/2015, de 9 de junho, alterada pela Lei n.º 7-A/2016, de 30 de março, pelo Decreto-Lei n.º 86-D/2016, de 30 de dezembro, manda o Governo, pelo Secretário de Estado do Tesouro, no uso da competência delegada pelo Despacho n.º 3492/2017, de 24 de março, publicado no Diário da República, 2.ª série, n.º 81, de 26 de abril de 2017, pelo Secretário de Estado das Autarquias Locais, no uso da competência delegada pelo Despacho n.º 9973-A/2017, de 17 de novembro, publicado no Diário da República, n.º 222, 1.º suplemento, 2.ª série, de 17 de novembro de 2017, pelo Secretário de Estado das Infraestruturas, no uso da competência delegada pelo Despacho n.º 2311/2016, de 1 de fevereiro, publicado no Diário da República, 2.ª série, n.º 32, de 16 de fevereiro de 2016, e pelo Secretário de Estado Adjunto e do Ambiente, no uso da competência delegada pelo Despacho n.º 7590/2017, de 18 de agosto, publicado no Diário da República, 2.ª série, n.º 165, de 28 de agosto, o seguinte:"
+  },
+  "118872929": {
+   "fragment_id": "118872807",
+   "type": 11,
+   "heading": "Artigo 7.º — Contabilidade, documentos previsionais e de prestação de contas e transparência",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/41-2019-118748851), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Contabilidade, documentos previsionais e de prestação de contas e transparência\n\n1 - (Revogado.)\n\n2 - Os valores anuais indicativos para o financiamento regular das autoridades de transportes são definidos no plano plurianual de atividades do Fundo, referido na alínea b) do n.º 2 do artigo 4.º do regulamento, devendo conter, separadamente, as verbas a atribuir à área metropolitana de Lisboa, à área metropolitana do Porto e às autoridades de transportes não integradas nas áreas metropolitanas, sem prejuízo do estabelecido na Lei do Orçamento de Estado de cada ano.\n\n3 - O valor a atribuir aos municípios não incluídos nas áreas metropolitanas de Lisboa e do Porto e às comunidades intermunicipais, é calculado nos termos do disposto nos números seguintes.\n\n4 - O valor do financiamento regular a atribuir aos municípios e às comunidades intermunicipais a que se refere o número anterior é calculado do seguinte modo:\n\na) Montante a atribuir aos municípios não integrados em áreas metropolitanas: dois terços do valor disponível para financiamento regular das autoridades de transporte não integradas nas áreas metropolitanas;\n\nb) Montante a atribuir às comunidades intermunicipais: um terço do valor disponível para financiamento regular das autoridades de transporte não integradas nas áreas metropolitanas.\n\n5 - O valor do financiamento regular a atribuir a cada um dos municípios e comunidades intermunicipais referidas no número anterior é determinado da seguinte forma:\n\na) Municípios:\n\ni) 40 % do valor anual disponível é repartido em partes iguais por cada município;\n\nii) 60 % do valor anual disponível é repartido de forma ponderada, com base na chave de distribuição utilizada nas transferências para os municípios por via do Fundo de Equilíbrio Financeiro, tal como publicado na Lei do Orçamento de Estado para cada ano.\n\nb) Comunidades intermunicipais:\n\ni) 40 % do valor anual disponível é repartido em partes iguais por cada comunidade intermunicipal;\n\nii) 60 % do valor anual disponível é repartido de forma ponderada, com base na chave de distribuição utilizada nas transferências para os municípios por via do Fundo de Equilíbrio Financeiro, tal como publicado na Lei do Orçamento de Estado para cada ano, por somatório do peso de cada município que integre a respetiva comunidade intermunicipal.\n\n6 - O valor referido no número anterior é publicitado pelo IMT, I. P., 20 dias após a publicação da Lei do Orçamento do Estado.\n\n7 - Verificando-se uma delegação de competências de autoridade de transportes dos municípios não abrangidos pelas áreas metropolitanas de Lisboa e do Porto na respetiva comunidade intermunicipal (CIM), o financiamento poderá ser requerido e atribuído diretamente a estas entidades.\n\n8 - Para efeitos de contabilização e transferência do valor a transferir nos termos do número anterior, deverá cada CIM tomar a iniciativa de, até 28 de fevereiro de cada ano, comunicar ao IMT, I. P., o valor contabilizado correspondente aos municípios que nela delegaram competências.\n\n9 - (Revogado.)\n\n10 - (Revogado.)\n\n11 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/41-2019-118748851), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118872909": {
+   "fragment_id": "118872813",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Tesouro, Álvaro António da Costa Novo, em 17 de novembro de 2017. - O Secretário de Estado das Autarquias Locais, Carlos Manuel Soares Miguel, em 20 de novembro de 2017. - O Secretário de Estado das Infraestruturas, Guilherme Waldemar Goulão dos Reis d'Oliveira Martins, em 17 de novembro de 2017. - O Secretário de Estado Adjunto e do Ambiente, José Fernando Gomes Mendes, em 20 de novembro de 2017."
+  },
+  "1082894575": {
+   "fragment_id": "118872801",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à criação e regulamentação do Fundo para o Serviço Público de Transportes, doravante designado por Fundo, que se destina a auxiliar o financiamento das autoridades de transportes.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082894675": {
+   "fragment_id": "118872802",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 2.º — Regime\n\nO Fundo tem natureza de património autónomo, sem personalidade jurídica, com autonomia administrativa e financeira, e rege-se pelo disposto no presente regime jurídico e demais legislação aplicável e, subsidiariamente, pela Lei-quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004 de 15 de janeiro.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082894775": {
+   "fragment_id": "118872803",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidade",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 3.º — Finalidade\n\nO Fundo tem como finalidades:\n\na) Contribuir para o financiamento e o funcionamento das autoridades de transporte;\n\nb) Apoiar a capacitação organizativa e técnica das autoridades de transportes competentes, a nível metropolitano, intermunicipal e municipal;\n\nc) Apoiar a investigação e desenvolvimento e a promoção de sistemas de transportes inteligentes;\n\nd) Apoiar estudos de planeamento e implementação de sistemas de transportes flexíveis;\n\ne) Promover, participar e apoiar ações coordenadas destinadas a melhorar a qualidade, a segurança e o ambiente no âmbito dos transportes públicos;\n\nf) Promover, participar e apoiar a melhoria da imagem do transporte público.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082894875": {
+   "fragment_id": "118872804",
+   "type": 11,
+   "heading": "Artigo 4.º — Receitas do Fundo",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 4.º — Receitas do Fundo\n\n1 - Constituem receitas do Fundo:\n\na) As dotações previstas no Orçamento do Estado em cada ano;\n\nb) Os apoios atribuídos pelo Fundo Ambiental em cada ano;\n\nc) O produto de doações, heranças, legados, ou contribuições mecenáticas;\n\nd) Os valores resultantes da distribuição das coimas cobradas no âmbito das contraordenações do uso de transportes coletivos de passageiros, tal como previsto no Decreto-Lei n.º 117/2017, de 12 de setembro;\n\ne) Quaisquer outras receitas que lhe sejam atribuídas.\n\n2 - Os saldos que venham a ser apurados no fim de cada ano económico transitam para o orçamento do ano seguinte.\n\n3 - A dotação inicial do Fundo será constituída:\n\na) Pelo saldo das verbas previstas no n.º 1 do artigo 132.º da Lei n.º 42/2016, de 28 de dezembro, que aprova o Orçamento do Estado para 2017, inscritas no orçamento da Autoridade da Mobilidade e dos Transportes;\n\nb) Pelo saldo das transferências para as Áreas Metropolitanas de Lisboa e do Porto, com vista ao desempenho das novas competências atribuídas pelo RJSPTP, previstas em sede de Orçamento do Estado para 2017, nas verbas 72 e 73 do Mapa de alterações e transferências orçamentais, anexo ao artigo 8.º da referida Lei; e\n\nc) Pelo montante de 3 000 000 (euro) com origem no Fundo Ambiental, para o desenvolvimento de ações e projetos que se enquadrem nos objetivos do Fundo Ambiental.\n\n4 - A determinação e transferência dos saldos a que se refere a alínea b) do número anterior é efetuada nos termos previstos no n.º 4 do artigo 132.º da Lei n.º 42/2016, de 28 de dezembro.\n\n5 - De modo a permitir a elaboração dos documentos previsionais referidos no artigo 7.º, o membro do Governo responsável pela área das finanças propõe, até ao mês de julho de cada ano civil, o montante a transferir das receitas gerais do Estado para o Fundo, por via da Lei do Orçamento de Estado do ano seguinte.\n\n6 - Caso não tenha sido apresentado qualquer montante nos termos do número anterior, o gestor do Fundo, deve considerar como valor a transferir das receitas gerais do Estado, o montante transferido no ano anterior.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082894975": {
+   "fragment_id": "118872805",
+   "type": 11,
+   "heading": "Artigo 5.º — Despesas do Fundo",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 5.º — Despesas do Fundo\n\nConstituem despesas do Fundo as que resultem de encargos decorrentes da prossecução da sua atividade, nomeadamente os encargos com:\n\na) Duas linhas distintas destinadas ao financiamento:\n\ni) Regular das autoridades de transporte;\n\nii) De ações de curto e médio prazo que contribuam para a concretização das finalidades do Fundo, podendo ser direcionada para grupos específicos de beneficiários elegíveis incluindo todas as autoridades de transportes;\n\nb) Uma comissão anual de gestão de 1,0 % do valor das suas receitas para o Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), que não poderá afetar o montante disponível para o financiamento regular previsto na alínea anterior.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082895075": {
+   "fragment_id": "118872806",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio técnico, administrativo e logístico e respetivos encargos",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 6.º — Apoio técnico, administrativo e logístico e respetivos encargos\n\nO apoio técnico, administrativo e logístico e os respetivos encargos associados são prestados e suportados pelo IMT, I. P.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082895175": {
+   "fragment_id": "118872807",
+   "type": 11,
+   "heading": "Artigo 7.º — Contabilidade, documentos previsionais e de prestação de contas e transparência",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/41-2019-118748851), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Contabilidade, documentos previsionais e de prestação de contas e transparência\n\n1 - (Revogado.)\n\n2 - Os valores anuais indicativos para o financiamento regular das autoridades de transportes são definidos no plano plurianual de atividades do Fundo, referido na alínea b) do n.º 2 do artigo 4.º do regulamento, devendo conter, separadamente, as verbas a atribuir à área metropolitana de Lisboa, à área metropolitana do Porto e às autoridades de transportes não integradas nas áreas metropolitanas, sem prejuízo do estabelecido na Lei do Orçamento de Estado de cada ano.\n\n3 - O valor a atribuir aos municípios não incluídos nas áreas metropolitanas de Lisboa e do Porto e às comunidades intermunicipais, é calculado nos termos do disposto nos números seguintes.\n\n4 - O valor do financiamento regular a atribuir aos municípios e às comunidades intermunicipais a que se refere o número anterior é calculado do seguinte modo:\n\na) Montante a atribuir aos municípios não integrados em áreas metropolitanas: dois terços do valor disponível para financiamento regular das autoridades de transporte não integradas nas áreas metropolitanas;\n\nb) Montante a atribuir às comunidades intermunicipais: um terço do valor disponível para financiamento regular das autoridades de transporte não integradas nas áreas metropolitanas.\n\n5 - O valor do financiamento regular a atribuir a cada um dos municípios e comunidades intermunicipais referidas no número anterior é determinado da seguinte forma:\n\na) Municípios:\n\ni) 40 % do valor anual disponível é repartido em partes iguais por cada município;\n\nii) 60 % do valor anual disponível é repartido de forma ponderada, com base na chave de distribuição utilizada nas transferências para os municípios por via do Fundo de Equilíbrio Financeiro, tal como publicado na Lei do Orçamento de Estado para cada ano.\n\nb) Comunidades intermunicipais:\n\ni) 40 % do valor anual disponível é repartido em partes iguais por cada comunidade intermunicipal;\n\nii) 60 % do valor anual disponível é repartido de forma ponderada, com base na chave de distribuição utilizada nas transferências para os municípios por via do Fundo de Equilíbrio Financeiro, tal como publicado na Lei do Orçamento de Estado para cada ano, por somatório do peso de cada município que integre a respetiva comunidade intermunicipal.\n\n6 - O valor referido no número anterior é publicitado pelo IMT, I. P., 20 dias após a publicação da Lei do Orçamento do Estado.\n\n7 - Verificando-se uma delegação de competências de autoridade de transportes dos municípios não abrangidos pelas áreas metropolitanas de Lisboa e do Porto na respetiva comunidade intermunicipal (CIM), o financiamento poderá ser requerido e atribuído diretamente a estas entidades.\n\n8 - Para efeitos de contabilização e transferência do valor a transferir nos termos do número anterior, deverá cada CIM tomar a iniciativa de, até 28 de fevereiro de cada ano, comunicar ao IMT, I. P., o valor contabilizado correspondente aos municípios que nela delegaram competências.\n\n9 - (Revogado.)\n\n10 - (Revogado.)\n\n11 - (Revogado.)\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 41/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/41-2019-118748851), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "1082895275": {
+   "fragment_id": "118872808",
+   "type": 11,
+   "heading": "Artigo 8.º — Supervisão e gestão",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 8.º — Supervisão e gestão\n\n1 - A supervisão do Fundo é exercida pelo membro do Governo responsável pela área dos transportes urbanos, suburbanos e rodoviários de passageiros, competindo-lhe nomeadamente aprovar o financiamento de projetos no âmbito das finalidades prosseguidas pelo Fundo, mediante prévia cabimentação orçamental, nos termos do regulamento referido no artigo 10.º\n\n2 - As orientações estratégicas de aplicação do Fundo são aprovadas por despacho conjunto dos membros do Governo responsáveis pelas áreas das autarquias locais, dos transportes urbanos, suburbanos e rodoviários de passageiros.\n\n3 - Os documentos previsionais e de prestação de contas são aprovados por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e dos transportes urbanos, suburbanos e rodoviários de passageiros.\n\n4 - A gestão do Fundo cabe ao IMT, I. P., devendo conformar-se com os princípios, regras e instrumentos de gestão e controlo previstos no regulamento a que se refere o artigo 10.º, no respeito pelas regras do regime orçamental e financeiro dos serviços e fundos autónomos.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082895375": {
+   "fragment_id": "118872809",
+   "type": 11,
+   "heading": "Artigo 9.º — Controlo e fiscalização",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 9.º — Controlo e fiscalização\n\n1 - O Fundo dispõe de um fiscal único, o qual é responsável pelo controlo da legalidade, da regularidade e da sua gestão financeira.\n\n2 - O Fiscal Único é nomeado por despacho do membro do Governo responsável pela área das finanças, o qual fixa os termos do exercício da função.\n\n3 - Compete ao fiscal único:\n\na) Emitir parecer sobre os instrumentos previsionais, bem como sobre os documentos de prestação de contas;\n\nb) Acompanhar com regularidade a gestão do Fundo, através dos balancetes e mapas demonstrativos da execução orçamental;\n\nc) Manter informados o conselho diretivo do IMT e o membro do Governo responsável pela área das finanças sobre o resultado de verificações ou de exames a que proceda;\n\nd) Pronunciar-se sobre qualquer outra matéria no domínio da gestão económica e financeira, sempre que tal lhe seja solicitado pelo conselho diretivo do IMT.\n\n4 - Sem prejuízo das competências do fiscal único e das competências atribuídas por lei a outros organismos, a fiscalização do Fundo é assegurada pela Inspeção-Geral de Finanças.\n\n5 - Para efeito do disposto no número anterior, o conselho diretivo do IMT deve remeter à Inspeção-Geral de Finanças, após a sua aprovação, os documentos previsionais de gestão e de prestação de contas, acompanhados da certificação legal das contas.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082895475": {
+   "fragment_id": "118872810",
+   "type": 11,
+   "heading": "Artigo 10.º — Regulamento de gestão do Fundo",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 10.º — Regulamento de gestão do Fundo\n\n1 - O regulamento de gestão do Fundo é publicado em anexo à presente portaria, da qual faz parte integrante.\n\n2 - O regulamento de gestão previsto no número anterior estabelece, nomeadamente, o seguinte:\n\na) As finalidades do financiamento previsto na alínea a) do artigo 3.º;\n\nb) As entidades beneficiárias do Fundo;\n\nc) As regras e os procedimentos relativos ao financiamento e à afetação dos recursos financeiros;\n\nd) O mecanismo de partilha de informação entre o Fundo e a Direção-Geral das Autarquias Locais sobre os fluxos financeiros com as autoridades de transportes a nível metropolitano, intermunicipal e municipal;\n\ne) As competências do gestor do fundo.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082895575": {
+   "fragment_id": "118872811",
+   "type": 11,
+   "heading": "Artigo 11.º — Extinção do Fundo",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 11.º — Extinção do Fundo\n\nEm caso de extinção do Fundo, o destino dos meios financeiros a ele afetos, apurados após a respetiva liquidação, será determinado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e dos transportes urbanos, suburbanos e rodoviários de passageiros.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082895675": {
+   "fragment_id": "118872812",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 12.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082895775": {
+   "fragment_id": "118872813",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "O Secretário de Estado do Tesouro, Álvaro António da Costa Novo, em 17 de novembro de 2017. - O Secretário de Estado das Autarquias Locais, Carlos Manuel Soares Miguel, em 20 de novembro de 2017. - O Secretário de Estado das Infraestruturas, Guilherme Waldemar Goulão dos Reis d'Oliveira Martins, em 17 de novembro de 2017. - O Secretário de Estado Adjunto e do Ambiente, José Fernando Gomes Mendes, em 20 de novembro de 2017.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082895875": {
+   "fragment_id": "118872814",
+   "type": 14,
+   "heading": "Anexo — Regulamento do Fundo para o Serviço Público de Transportes",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "## Anexo — Regulamento do Fundo para o Serviço Público de Transportes\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082895975": {
+   "fragment_id": "118872815",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente Regulamento estabelece as regras do Fundo para o Serviço Público de Transportes, doravante designado por Fundo, bem como o regime de atribuição dos respetivos apoios financeiros.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082896075": {
+   "fragment_id": "118872816",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos dos apoios financeiros",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 2.º — Objetivos dos apoios financeiros\n\nOs apoios financeiros previstos no presente regulamento têm como finalidade contribuir para a descarbonização do sistema de transportes por via do fomento de um transporte público de passageiros de qualidade, assente numa política ativa de capacitação das autoridades de transporte cujo financiamento é objetivo do presente Fundo.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082896175": {
+   "fragment_id": "118872817",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios gerais",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 3.º — Princípios gerais\n\n1 - O Fundo rege-se pelo princípio da igualdade, da transparência e da não discriminação nas suas relações com os beneficiários e demais princípios gerais subjacentes à atividade administrativa.\n\n2 - Os apoios financeiros atribuídos pelo Fundo devem ser imprescindíveis e suficientes para a prossecução do interesse público.\n\n3 - A gestão financeira do Fundo deve ser orientada pelos princípios e instrumentos de gestão aplicáveis aos fundos e serviços autónomos, devendo a sua gestão ser orientada para privilegiar o financiamento de entidades, projetos e atividades com potencial de alavancagem de fundos complementares e maior retorno na concretização das políticas públicas na área do ambiente, da mobilidade, do desenvolvimento regional e da coesão territorial.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082896275": {
+   "fragment_id": "118872818",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão do Fundo",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 4.º — Gestão do Fundo\n\n1 - A gestão do Fundo cabe ao Instituto da Mobilidade e dos Transportes, I. P., doravante designado por IMT, I. P., através do seu conselho diretivo, no prosseguimento das orientações estratégicas aprovadas pelo membro do Governo responsável pela área dos transportes urbanos, suburbanos e rodoviários de passageiros, nos termos do artigo 8.º da presente portaria.\n\n2 - No exercício das competências de gestão, cabe ao conselho diretivo do IMT, I. P.:\n\na) Aprovar o financiamento de projetos no âmbito das finalidades prosseguidas pelo Fundo, mediante prévia cabimentação orçamental, nos termos referidos no presente regulamento;\n\nb) Elaborar até 31 de julho do ano civil anterior a que respeita, o plano plurianual de atividades do Fundo para os dois anos seguintes, o qual deve ser remetido aos membros do Governo para aprovação, nos termos do n.º 3 do artigo 8.º da portaria que cria o fundo, após processo de consulta prévia, pelo prazo de dez dias úteis, às autoridades de transporte beneficiárias;\n\nc) Aprovar relatórios semestrais de gestão do Fundo e remetê-los, no prazo de 15 dias após o período a que respeita, ao membro do Governo responsável pela área dos transportes urbanos, suburbanos e rodoviários de passageiros;\n\nd) Aprovar os formulários de candidaturas e de pedidos de pagamento.\n\n3 - Cabe ainda ao conselho diretivo do IMT, I. P.:\n\na) A articulação com as prioridades do Governo nas diferentes políticas setoriais, nomeadamente com políticas ambientais, de mobilidade, ordenamento do território e desenvolvimento regional, em concertação com as respetivas tutelas;\n\nb) Estabelecer relações institucionais em nome do Fundo com as entidades relevantes à prossecução dos seus objetivos, nomeadamente as autoridades de transporte, operadores de transporte e entidades reguladoras;\n\nc) Decidir em todas as matérias que envolvam encargos e assunção de responsabilidades do Fundo, sem prejuízo do disposto no artigo 11.º do presente regulamento.\n\n4 - O conselho diretivo do IMT, I. P., pode delegar poderes de gestão do Fundo em dirigentes de unidades orgânicas daquele Instituto sem que essa delegação implique aumento de despesa.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082896375": {
+   "fragment_id": "118872819",
+   "type": 11,
+   "heading": "Artigo 5.º — Finalidades do Fundo",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 5.º — Finalidades do Fundo\n\nO Fundo tem por finalidade, nos termos da lei nacional e comunitária:\n\na) Contribuir para o financiamento e o funcionamento das autoridades de transportes por via do financiamento do seu quadro de pessoal permanente, rubricas de investimento e custos operacionais;\n\nb) Contribuir para o financiamento e funcionamento das autoridades de transportes a nível metropolitano, intermunicipal e municipal por via do financiamento de projetos e ações na área da mobilidade urbana com impacto relevante no sistema de transporte público;\n\nc) Apoiar a capacitação organizativa e técnica das autoridades de transportes competentes, a nível metropolitano, intermunicipal e municipal por via do financiamento ou cofinanciamento de ações internas ou externas de formação e de desenvolvimento de instrumentos de técnicos de suporte à atividade da autoridade de transportes;\n\nd) Dotar as autoridades de transporte competentes, a nível metropolitano, intermunicipal e municipal por via do financiamento ou cofinanciamento de ações, de instrumentos de gestão e de suporte à atividade das redes de operadores internos, desde que não diretamente relacionados com a produção de transporte;\n\ne) Apoiar a investigação e desenvolvimento e a promoção de sistemas de transportes inteligentes, incluindo sistemas de bilhética, bem como de suporte à mobilidade, designadamente as referidas no Decreto-Lei n.º 60/2016, de 8 de setembro, para suporte a sistemas de transporte flexível;\n\nf) Promover, participar e apoiar ações coordenadas destinadas a melhorar a qualidade, a segurança e o ambiente no âmbito dos transportes públicos;\n\ng) Promover, participar e apoiar a melhoria da imagem do transporte público e contribuir para a descarbonização do sistema de transportes;\n\nh) Apoiar projetos de modernização do sector do transporte público, atendendo ao cumprimento das regras e princípios relativos a auxílios de Estado e de contratualização de obrigações de serviço público;\n\ni) Apoiar outras rubricas que venham a ser identificadas por despacho do membro do governo responsável pelos transportes urbanos, suburbanos e rodoviários de passageiros.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082896475": {
+   "fragment_id": "118872820",
+   "type": 11,
+   "heading": "Artigo 6.º — Entidades beneficiárias do Fundo",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 6.º — Entidades beneficiárias do Fundo\n\n1 - São beneficiárias do Fundo:\n\na) Todas as autoridades de transportes incluindo o Estado, as Áreas Metropolitanas de Lisboa e do Porto, as Comunidades Intermunicipais e os Municípios, bem como qualquer forma de associação entre estas entidades das quais resulte o exercício partilhado da função de autoridade de transportes;\n\nb) Os operadores de transporte público de passageiros, qualquer que seja a sua natureza;\n\nc) Outras pessoas coletivas, qualquer que seja a sua natureza, na medida em que sejam promotoras ou participantes de qualquer das atividades financiadas pelo Fundo.\n\n2 - Apenas as entidades mencionadas na alínea a) do número anterior podem ser objeto de transferências diretas do Fundo para efeitos de financiamento previsto na alínea a) do artigo 5.º do regulamento, sem que seja necessária avaliação específica do objeto financiado, nos termos definidos no artigo 7.º do presente regulamento.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082896575": {
+   "fragment_id": "118872821",
+   "type": 11,
+   "heading": "Artigo 7.º — Financiamento regular",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 7.º — Financiamento regular\n\n1 - Com vista a potenciar modelos que promovam maior articulação das redes interurbanas e regionais, maior eficiência de redes e melhor gestão de recursos públicos, o Fundo irá incentivar a organização das autoridades de transportes em entidades de nível intermunicipal.\n\n2 - Os valores anuais disponíveis para o financiamento regular a que se refere o número anterior são definidos no plano plurianual de atividades do Fundo, referido na alínea b) do n.º 2 do artigo 4.º do regulamento.\n\n3 - Em 2017, e tal como previsto no artigo 132.º da Lei n.º 42/2016, de 28 de dezembro:\n\na) O valor a transferir para as áreas Metropolitanas de Lisboa e do Porto é o previsto no regime transitório de financiamento previsto no artigo 4.º da Lei n.º 52/2015, de 9 de junho, alterada pela Lei n.º 7-A/2016, de 30 de março, e pelo Decreto-Lei n.º 86-D/2016, de 30 de dezembro, e de acordo com o mapa anexo referido no artigo 8.º da Lei n.º 42/2016, de 28 de dezembro;\n\nb) O valor a transferir para os municípios não incluídos nas áreas metropolitanas de Lisboa e do Porto é de 2 000 000 euros, a atribuir nos termos do presente artigo.\n\n4 - O valor atribuível a cada município não incluído nas áreas metropolitanas de Lisboa e do Porto é calculado nos termos do número seguinte, estando a elegibilidade do município condicionada à declaração junto do IMT, I. P., da expressa assunção das funções de autoridade de transportes previstas para os municípios nos termos do RJSPTP, sem prejuízo da sua delegação.\n\n5 - O valor do financiamento regular atribuível aos municípios referidos no número anterior é determinado através da soma de duas componentes:\n\na) 40 % do valor anual disponível é repartido em partes iguais por cada município;\n\nb) 60 % do valor anual disponível é repartido de forma ponderada, com base na chave de distribuição utilizada nas transferências para os municípios por via do Fundo de Equilíbrio Financeiro, tal como publicado na Lei do Orçamento de Estado para o ano em apreço.\n\n6 - Em 2017, o valor referido no número anterior é publicitado pelo IMT, I. P., 20 dias após a publicação do presente regulamento, sendo nos anos seguintes publicitado no prazo de 20 dias após a publicação da Lei do Orçamento do Estado.\n\n7 - Verificando-se uma delegação de competências de autoridade de transportes dos municípios não abrangidos pelas áreas metropolitanas de Lisboa e do Porto na respetiva comunidade intermunicipal (CIM), o financiamento poderá ser requerido e atribuído diretamente a estas entidades, sendo nestes casos o valor atribuível a cada município com competências delegadas somado e majorado em 50 %.\n\n8 - A transferência da verba solicitada pelas comunidades intermunicipais prevista no número anterior está condicionada à existência, verificação e publicitação dos contratos interadministrativos de delegação de competências celebrados com todos ou parte dos municípios nas respetivas comunidades intermunicipais, bem como de uma declaração expressa dos municípios a autorizarem a transferência da verba prevista no Fundo para a CIM.\n\n9 - Compete ao IMT, I. P., a verificação da existência e publicitação dos contratos interadministrativos mencionados no número anterior.\n\n10 - A verificação das condições referidas no n.º 9 é efetuada no prazo de 40 dias após a entrada em vigor da presente portaria, e no dia 28 de fevereiro de cada ano.\n\n11 - Independentemente da extensão das competências delegadas, caso os municípios declarem a autorização prevista no n.º 9, o valor atribuível a cada município é majorado e integralmente transferido para a CIM.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082896675": {
+   "fragment_id": "118872822",
+   "type": 11,
+   "heading": "Artigo 8.º — Financiamento de ações",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 8.º — Financiamento de ações\n\n1 - O IMT, I. P., enquanto gestor do Fundo, é responsável pela realização dos procedimentos necessários à concessão do financiamento de ações previstas no Plano de Atividades do Fundo.\n\n2 - O procedimento deverá ser publicitado por aviso, a publicar no sítio online do IMT, I. P., ou noutro criado para o efeito.\n\n3 - De todos os avisos que não sejam dirigidos a entidades específicas deve ser dado conhecimento à Associação Nacional dos Municípios Portugueses, à Autoridade da Mobilidade e dos Transportes e associações empresariais do setor legalmente constituídas, sem prejuízo da transmissão de informação considerada relevante nos termos da alínea b) do n.º 3 do artigo 4.º\n\n4 - Os procedimentos deverão privilegiar processos de candidaturas abertos, concorrenciais, avaliadas pelo mérito, salvo em situações de manifesto interesse público devidamente fundamentado.\n\n5 - O Fundo pode atribuir financiamento reembolsável ou não reembolsável.\n\n6 - O Plano de Atividades do Fundo deverá prever e alocar uma verba não inferior a 300.000 euros ou 10 % do valor disponível para o financiamento de ações em cada ano, promovidas por municípios com operadores internos, ou com serviço público de transporte de passageiros municipais.\n\n7 - O financiamento referido no número anterior é necessariamente atribuído por procedimentos de candidatura abertos e avaliados pelo seu mérito.\n\n8 - O financiamento de ações só poderá ocorrer em municípios onde por via direta ou de forma delegada, os mesmos assumam expressamente a totalidade das competências de autoridade de transporte que lhe são atribuídas pelo RJSPTP.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082896775": {
+   "fragment_id": "118872823",
+   "type": 11,
+   "heading": "Artigo 9.º — Relatório de atividades e contas",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 9.º — Relatório de atividades e contas\n\n1 - O relatório de atividades e contas é o instrumento que reporta a atividade realizada pelo Fundo no ano a que respeita e deve permitir a avaliação da eficácia e eficiência da atividade desenvolvida.\n\n2 - O relatório de atividades e contas deve conter, nomeadamente, uma descrição financeira dos apoios atribuídos, bem como a apreciação da atividade do Fundo por comparação com a prevista no plano anual de atividades do ano a que respeita.\n\n3 - O relatório de atividades e contas do Fundo deverá ser aprovado pelos membros do Governo responsáveis pelas finanças, autarquias locais e pelos transportes urbanos, suburbanos e rodoviários de passageiros.\n\n4 - Os relatórios de atividades e contas dos últimos 5 anos deverão ser publicitados no sítio online referido no n.º 2 do artigo 8.º\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082896875": {
+   "fragment_id": "118872824",
+   "type": 11,
+   "heading": "Artigo 10.º — Utilização de fundos com origem no Fundo Ambiental",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 10.º — Utilização de fundos com origem no Fundo Ambiental\n\nA utilização de fundos com origem no Fundo Ambiental apenas se aplica a ações e projetos que se enquadrem nos objetivos desse Fundo.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082896975": {
+   "fragment_id": "118872825",
+   "type": 11,
+   "heading": "Artigo 11.º — Aprovação e formalização dos atos de gestão",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 11.º — Aprovação e formalização dos atos de gestão\n\n1 - Com exceção dos atos de gestão relacionados com a aplicação do financiamento regular, todos os atos de gestão do Fundo que envolvam valores superiores a 75 000 (euro) são autorizados pelo membro do Governo com a tutela dos transportes urbanos, suburbanos e rodoviários de passageiros.\n\n2 - Compete ao conselho diretivo do IMT, I. P., praticar todos os atos e operações necessários ou convenientes à boa administração do Fundo e prossecução dos seus objetivos, no âmbito dos poderes conferidos pelo regulamento, de acordo com critérios de elevada diligência e competência profissional.\n\n3 - Cabe em especial ao conselho diretivo do IMT, I. P., a avaliação e seleção dos projetos, a emissão de ordens de pagamento, o acompanhamento e fiscalização da execução dos projetos, zelando pela sua correta aplicação.\n\n4 - Os atos de gestão do Fundo e a movimentação da conta de depósito do Fundo efetuam-se mediante a assinatura conjunta de dois membros do conselho diretivo do IMT, I. P.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  },
+  "1082897075": {
+   "fragment_id": "118872826",
+   "type": 11,
+   "heading": "Artigo 12.º — Mecanismo de partilha de informação entre o Fundo e a Direção-Geral das Autarquias Locais",
+   "in_force_from": "2026-04-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+   ],
+   "markdown": "###### Artigo 12.º — Mecanismo de partilha de informação entre o Fundo e a Direção-Geral das Autarquias Locais\n\n1 - O Fundo e a Direção-Geral das Autarquias Locais procederão à partilha de informação sobre as autoridades de transportes a nível metropolitano, intermunicipal e municipal nos seguintes termos:\n\na) Assim que os valores se encontrem aprovados, a DGAL procede ao envio em formato editável dos dados relativos ao valor previsto para as transferências para os municípios por via do Fundo de Equilíbrio Financeiro necessários para o cálculo previsto no artigo 7.º;\n\nb) O Fundo procede aos cálculos dos montantes do financiamento regular nos termos do n.º 5 do artigo 7.º, remetendo-os à DGAL para efeitos de confirmação;\n\nc) O Fundo disponibiliza à DGAL semestralmente, em suporte digital, os montantes relativos ao financiamento regular e por ações das autoridades de transportes metropolitanas, intermunicipais e municipais, desagregados por entidade beneficiária, bem como os relatórios de atividades e contas.\n\n2 - Para efeitos de monitorização e coordenação do cumprimento do presente artigo devem os responsáveis do Fundo e da DGAL realizar reuniões periódicas de avaliação dos mecanismos de partilha de informação previstos, para que possam tempestivamente ser reportadas às tutelas eventuais necessidades de alterações ao procedimento.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 82/2026 - Diário da República n.º 67/2026, Série I de 2026-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2026-1082345416), em vigor a partir de 2026-04-08."
+  }
+ }
+}

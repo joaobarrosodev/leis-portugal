@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:570755:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-184957207",
+ "dre_path": "/dr/detalhe/decreto-lei/19-2014-570755",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-02-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "184962989",
+    "184962990",
+    "184962991",
+    "184962992",
+    "184962993",
+    "184962994",
+    "184962995",
+    "184962996",
+    "184962997",
+    "184962999"
+   ]
+  },
+  {
+   "date": "2014-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345143:por",
+     "title": "Decreto-Lei n.º 87-A/2014",
+     "published": "2014-05-30",
+     "dre_path": "/dr/detalhe/decreto-lei/87-a-2014-25345143"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "184962989",
+    "184962990",
+    "184962991",
+    "184962992",
+    "184962993",
+    "184962994",
+    "184963000",
+    "184962996",
+    "184962997",
+    "184962998",
+    "184962999"
+   ]
+  }
+ ],
+ "fragments": {
+  "184962989": {
+   "fragment_id": "184957208",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 19/2014\n\nde 5 de fevereiro\n\nA política do medicamento recente tem desempenhado um importante papel na promoção do acesso dos cidadãos a medicamentos, promovendo simultaneamente o alcance de relevantes poupanças públicas e privadas. Neste contexto, a garantia de sustentabilidade do Serviço Nacional de Saúde (SNS) implica a adoção de aperfeiçoamentos legislativos indispensáveis, nomeadamente para assegurar uma utilização de medicamentos sustentada pela racionalidade e pela evidência científica, promovendo em simultâneo condições mais favoráveis à continuidade do financiamento e acesso à inovação terapêutica.\n\nNestes termos, importa reajustar as medidas relativas à comparticipação de medicamentos, introduzindo um dinamismo de procedimentos que permita, em cada momento, aferir a mais-valia dos medicamentos que justifiquem a sua comparticipação pelo Estado português. Assim, implementam-se alterações que determinam uma maior exigência nas demonstrações de eficácia, de efetividade e de valor terapêutico dos medicamentos comparticipados, promovendo maior escrutínio e racionalidade no incentivo público à sua utilização.\n\nAdicionalmente, promove-se um limite à dedução administrativa de preço de medicamentos genéricos para efeitos da sua comparticipação, através de um preço mínimo, sem prejuízo de reduções adicionais estabelecidas concorrencialmente, promovendo-se assim maior equidade concorrencial entre produtores de medicamentos.\n\nO presente diploma clarifica também procedimentos inerentes à revisão internacional de preços de medicamentos, complementando e clarificando o âmbito do respetivo quadro sancionatório.\n\nPor fim, fruto da experiência de implementação da introdução de margens regressivas na comercialização de medicamentos, promove-se também a revisão das respetivas componentes fixas e variáveis, visando privilegiar a sustentabilidade do acesso a medicamentos e a prevenir distorções na disponibilização dos medicamentos mais baratos. Assente no pressuposto de neutralidade em relação aos encargos do SNS, a nova remuneração permitirá uma maior valorização da componente fixa em detrimento da componente variável, bem como se prevê a possibilidade de serem implementados incentivos que promovam o aumento da utilização de medicamentos genéricos e, de entre estes, dos mais baratos.\n\nAssim:\n\nNo desenvolvimento da Lei n.º 48/90, de 24 de agosto, que aprovou a Lei de Bases da Saúde e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "184962990": {
+   "fragment_id": "184957209",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma procede à quarta alteração ao Decreto-Lei n.º 48-A/2010, de 13 de maio, alterado pelo Decreto-Lei n.º 106-A/2010, de 1 de outubro, pela Lei n.º 62/2011, de 12 de dezembro, e pelo Decreto-Lei n.º 103/2013, de 26 de julho, que aprova o regime geral das comparticipações do Estado no preço dos medicamentos.\n\n2 - O presente diploma procede ainda à terceira alteração ao Decreto-Lei n.º 112/2011, de 29 de novembro, alterado pelos Decretos-Leis n.os 152/2012, de 12 de julho, e 34/2013, de 27 de fevereiro, que aprova o regime da formação do preço dos medicamentos sujeitos a receita médica e dos medicamentos não sujeitos a receita médica comparticipados."
+  },
+  "184962991": {
+   "fragment_id": "184957210",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 48-A/2010, de 13 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 48-A/2010, de 13 de maio\n\nOs artigos 5.º, 9.º, 16.º, 17.º e 21.º do regime geral das comparticipações do Estado no preço dos medicamentos, aprovado em anexo ao Decreto-Lei n.º 48-A/2010, de 13 de maio, alterado pelo Decreto-Lei n.º 106-A/2010, de 1 de outubro, pela Lei n.º 62/2011, de 12 de dezembro, e pelo Decreto-Lei n.º 103/2013, de 26 de julho, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Sempre que seja excluído um grupo ou subgrupo farmacoterapêutico comparticipável, de entre os previstos na portaria prevista no n.º 2, ou sempre que ocorra alteração ao escalão que lhe corresponda, tal implica, respetivamente, a automática exclusão da comparticipação, ou a alteração do escalão, dos medicamentos comparticipados pertencentes a esse grupo ou subgrupo farmacoterapêutico, com efeitos a partir do primeiro dia do mês imediato ao da publicação da portaria que introduza aquelas modificações.\n\nArtigo 9.º\n\n[...]\n\n1 - [...].\n\n2 - Para efeito do disposto no número anterior, o titular da autorização de introdução no mercado do medicamento deve demonstrar a eficácia e ou efetividade relativa e o maior ou igual valor terapêutico comparativo, apresentando ao INFARMED, I.P., os elementos probatórios que constam do anexo ao presente regime, do qual faz parte integrante.\n\n3 - [Anterior n.º 2].\n\nArtigo 16.º\n\n[...]\n\n1 - [Anterior corpo do artigo].\n\n2 - A comparticipação de um medicamento é obrigatoriamente reavaliada, quando o mesmo seja autorizado para uma indicação terapêutica diversa da vigente à data da comparticipação.\n\n3 - Da reavaliação prevista nos números anteriores pode resultar a exclusão do medicamento da comparticipação nos termos do disposto no artigo seguinte.\n\n4 - É aplicável o disposto nos n.os 4 e seguintes do artigo seguinte.\n\nArtigo 17.º\n\n[...]\n\n1 - Sem prejuízo da exclusão automática por efeito do disposto no n.º 4 do artigo 5.º, a decisão sobre a exclusão de medicamentos da comparticipação deve fundamentar-se numa das seguintes razões:\n\na) Eficácia ou efetividade não demonstrada;\n\nb) Menor valor terapêutico, relativamente aos medicamentos comparticipados utilizados com a mesma finalidade terapêutica;\n\nc) [...];\n\nd) [...];\n\ne) [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Cabe ao titular da autorização de introdução no mercado o ónus de, sempre que solicitado, provar o facto de o medicamento continuar a reunir os requisitos de comparticipação nos termos do presente regime.\n\n5 - Para efeito do disposto no n.º 1, o titular da autorização de introdução no mercado do medicamento deve, sempre que solicitado, demonstrar a eficácia ou efetividade relativa e o maior ou igual valor terapêutico comparativo, apresentando ao INFARMED, I.P., os elementos probatórios que constam do anexo ao presente regime, do qual faz parte integrante.\n\n6 - O incumprimento do disposto nos n.os 4 e 5 implica a exclusão do medicamento da comparticipação em todas as dosagens e apresentações.\n\nArtigo 21.º\n\n[...]\n\n1 - [...].\n\n2 - Da aplicação do disposto no número anterior não pode resultar a fixação de um PVP inferior a 20% do PVP do medicamento de referência considerado para os efeitos do disposto nos n.os 1 e 2 do artigo 8.º do Decreto-Lei n.º 112/2011, de 29 de novembro, alterado pelos Decretos-Leis n.os 152/2012, de 12 de julho, 34/2013, de 27 de fevereiro, e Decreto-Lei n.º 19/2014, de 5 de fevereiro.\n\n3 - [Anterior n.º 2].\n\n4 - [Anterior n.º 3].»"
+  },
+  "184962992": {
+   "fragment_id": "184957211",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 48-A/2010, de 13 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 48-A/2010, de 13 de maio\n\nÉ aditado ao regime geral das comparticipações do Estado no preço dos medicamentos, aprovado em anexo ao Decreto-Lei n.º 48-A/2010, de 13 de maio, alterado pelo Decreto-Lei n.º 106-A/2010, de 1 de outubro, pela Lei n.º 62/2011, de 12 de dezembro, e pelo Decreto-Lei n.º 103/2013, de 26 de julho, um anexo com a redação constante do anexo ao presente diploma e que dele faz parte integrante."
+  },
+  "184962993": {
+   "fragment_id": "184957212",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Decreto-Lei n.º 112/2011, de 29 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Decreto-Lei n.º 112/2011, de 29 de novembro\n\nOs artigos 7.º, 9.º e 11.º do Decreto-Lei n.º 112/2011, de 29 de novembro, alterado pelos Decretos-Leis n.os 152/2012, de 12 de julho, e 34/2013, de 27 de fevereiro, passam a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - [Anterior corpo do artigo].\n\n2 - O processo de revisão anual, incluindo os termos e prazos em que é exercido o dever de comunicação ao INFARMED, I.P., pelo titular da AIM, ou seu representante, dos novos preços a praticar são definidos por portaria do membro do Governo responsável pela área da saúde.\n\n3 - Caso o INFARMED, I.P., detete, na comunicação efetuada pelo titular da AIM ou seu representante, uma incorreta ou inadequada atualização dos preços resultantes da aplicação do disposto das regras de revisão anual, comunica-lhes os novos preços corrigidos, que devem ser aplicados no prazo máximo de cinco dias úteis.\n\n4 - No caso previsto no número anterior o titular da AIM, ou seu representante, fica obrigado a transferir para a entidade responsável pelo orçamento do Serviço Nacional de Saúde (SNS) o valor equivalente ao diferencial entre o preço comunicado por aquelas entidades e o preço corrigido pelo INFARMED, I.P., relativamente a todas as embalagens do medicamento que tenham sido comercializadas no âmbito do SNS com preço incorreta ou inadequadamente atualizado.\n\nArtigo 9.º\n\n[...]\n\n1 - [Anterior corpo do artigo].\n\n2 - O processo de revisão anual, incluindo os termos e prazos em que é exercido o dever de comunicação ao INFARMED, I.P., pelo titular da AIM, ou seu representante, dos novos preços a praticar, são definidos por portaria do membro do Governo responsável pela área da saúde.\n\n3 - Caso o INFARMED, I.P., detete, na comunicação efetuada pelo titular da AIM ou pelo seu representante, uma incorreta ou inadequada atualização dos preços resultantes da aplicação do disposto das regras de revisão anual, comunica-lhes os novos preços corrigidos, que devem ser aplicados no prazo máximo de cinco dias úteis.\n\n4 - No caso previsto no número anterior o titular da AIM, ou seu representante, fica obrigado a transferir para a entidade responsável pelo orçamento do SNS o valor equivalente ao diferencial entre o preço comunicado por aquelas entidades e o preço corrigido pelo INFARMED, I.P., relativamente a todas as embalagens do medicamento que tenham sido comercializadas no âmbito do SNS com preço incorreta ou inadequadamente atualizado.\n\nArtigo 11.º\n\n[...]\n\n1 - [Anterior corpo de artigo]:\n\na) PVA igual ou inferior a (euro) 5:\n\nGrossistas - 2,24 %, calculada sobre o PVA, acrescido de (euro) 0,25;\n\nFarmácias - 5,58 %, calculada sobre o PVA, acrescido de (euro) 0,63;\n\nb) PVA de (euro) 5,01 a (euro) 7:\n\nGrossistas - 2,17 %, calculada sobre o PVA, acrescido de (euro) 0,52;\n\nFarmácias - 5,51 %, calculada sobre o PVA, acrescido de (euro) 1,31;\n\nc) PVA de (euro) 7,01 a (euro) 10:\n\nGrossistas - 2,12 %, calculada sobre o PVA, acrescido de (euro) 0,71;\n\nFarmácias - 5,36 %, calculada sobre o PVA, acrescido de (euro) 1,79;\n\nd) PVA de (euro) 10,01 a (euro) 20:\n\nGrossistas - 2,00 %, calculada sobre o PVA, acrescido de (euro) 1,12;\n\nFarmácias - 5,05 %, calculada sobre o PVA, acrescido de (euro) 2,80;\n\ne) PVA de (euro) 20,01 a (euro) 50:\n\nGrossistas - 1,84 %, calculada sobre o PVA, acrescido de (euro) 2,20;\n\nFarmácias - 4,49 %, calculada sobre o PVA, acrescido de (euro) 5,32;\n\nf) PVA superior a (euro) 50:\n\nGrossistas - 1,18 %, calculada sobre o PVA, acrescido de (euro) 3,68;\n\nFarmácias - 2,66 %, calculada sobre o PVA, acrescido de (euro) 8,28.\n\n2 - A dispensa de medicamentos genéricos, e de entre estes dos mais baratos, pode ser objeto de remuneração adicional às farmácias participantes em programas de saúde pública nos termos e nas condições a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.»"
+  },
+  "184962994": {
+   "fragment_id": "184957213",
+   "type": 11,
+   "heading": "Artigo 5.º — Aditamento ao Decreto-Lei n.º 112/2011, de 29 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aditamento ao Decreto-Lei n.º 112/2011, de 29 de novembro\n\nÉ aditado ao Decreto-Lei n.º 112/2011, de 29 de novembro, alterado pelos Decretos-Leis n.os 152/2012, de 12 de julho, e 34/2013, de 27 de fevereiro, o artigo 16.º-A, com a seguinte redação:\n\n«Artigo 16.º-A\n\nNorma sancionatória especial\n\n1 - Sem prejuízo da responsabilidade criminal e civil a cuja aplicação houver lugar, designadamente nos termos do artigo anterior, constituem contraordenações puníveis com coima de (euro) 2 500 a (euro) 3 740,98 ou de (euro) 5000 a (euro) 44 891,81, consoante o agente seja pessoa singular ou pessoa coletiva:\n\na) A omissão do dever de comunicação ao INFARMED, I.P., das listagens de preços a praticar no âmbito do processo de revisão anual, nos termos e prazos previstos para esse processo, previstos na Portaria a que se refere o n.º 2 do artigo 7.º e o n.º 2 do artigo 9.º do presente diploma;\n\nb) A comunicação ao INFARMED, I.P., de uma incorreta ou inadequada atualização dos preços resultantes da aplicação das regras de revisão anual de preços previstos na Portaria a que se refere o n.º 2 do artigo 7.º e o n.º 2 do artigo 9.º do presente diploma;\n\nc) A prática de preços superiores aos comunicados pelo INFARMED, I.P., nos termos do n.º 3 dos artigos 7.º e 9.º, decorrido o prazo previsto no mesmo preceito.\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n3 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.\n\n4 - Às contraordenações previstas no presente artigo é subsidiariamente aplicável o regime geral das contraordenações, previsto no Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro.\n\n5 - A instrução dos processos de contraordenação compete ao INFARMED, I.P., a aplicação das coimas previstas no presente artigo compete ao presidente do órgão máximo do INFARMED, I.P.\n\n6 - O produto das coimas aplicadas ao abrigo do disposto no presente artigo reverte:\n\na) 60%, para o Estado;\n\nb) 40%, para o INFARMED, I.P.»"
+  },
+  "184962995": {
+   "fragment_id": "184957214",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposição final e transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposição final e transitória\n\n1 - Os novos preços de venda ao público decorrentes do disposto no n.º 1 do artigo 11.º do Decreto-Lei n.º 112/2011, de 29 de novembro, com a redação dada pelo presente diploma, devem obedecer aos valores calculados pelo INFARMED-Autoridade Nacional do Medicamento e Produtos de Saúde, I.P., e por este comunicados aos titulares das autorizações, ou registos, de introdução no mercado, até 15 dias após a entrada em vigor do presente diploma.\n\n2 - A partir da data de entrada em vigor dos novos preços decorrentes do disposto no n.º 1 do artigo 11.º do Decreto-Lei n.º 112/2011, de 29 de novembro, com a redação dada pelo presente diploma, os titulares das autorizações, ou registos, de introdução no mercado, não podem colocar, nos distribuidores por grosso, nem nas farmácias, medicamentos que apresentem preços diferentes dos resultantes das alterações introduzidas pelo disposto no presente diploma.\n\n3 - Os medicamentos abrangidos pelo presente diploma que se encontrem nos distribuidores grossistas e nas farmácias marcados com o preço antigo, no dia anterior ao da entrada em vigor dos novos preços, podem ser escoados com aquele preço:\n\na) Pelo prazo de 30 dias, contados a partir dessa data, no caso dos distribuidores grossistas;\n\nb) Pelo prazo de 60 dias, contados a partir da mesma data, no caso das farmácias.\n\n4 - É permitida a remarcação de preços pela indústria nas instalações das farmácias ou dos distribuidores grossistas"
+  },
+  "184962996": {
+   "fragment_id": "184957215",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nÉ revogado o n.º 6 do artigo 8.º do Decreto-Lei n.º 112/2011, de 29 de novembro, alterado pelos Decretos-Leis n.os 152/2012, de 12 de julho, e 34/2013, de 27 de fevereiro."
+  },
+  "184962997": {
+   "fragment_id": "184957216",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor e produção de efeitos\n\n1 - Sem prejuízo do disposto no número seguinte o presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n2 - Os novos preços de venda ao público decorrentes do disposto no n.º 1 do artigo 11.º do Decreto-Lei n.º 112/2011, de 29 de novembro, na sua nova redação, produzem efeitos no 1.º dia do mês seguinte ao da entrada em vigor do presente diploma."
+  },
+  "184962999": {
+   "fragment_id": "184957218",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 3.º)\n\n«Anexo\n\n(a que se refere o n.º 2 do artigo 9.º e o n.º 5 do artigo 17.º)\n\nCritérios de avaliação e reavaliação\n\nA avaliação e reavaliação da comparticipação assenta em critérios de natureza técnico-científica que permitam a demonstração de igual ou superior eficácia e, ou, efetividade relativa e respetiva vantagem económica.\n\nAssim:\n\n1 - A avaliação e reavaliação são feitas de forma comparativa, com base em todos ou alguns dos seguintes factores:\n\na) Consideração de todas as alternativas terapêuticas disponíveis;\n\nb) Eficácia e, ou, efetividade relativa, direta e, ou, indireta, face às alternativas terapêuticas disponíveis;\n\nc) Relação efetividade-custo face às alternativas terapêuticas disponíveis;\n\nd) Conveniência posológica;\n\ne) Segurança do medicamento.\n\n2 - Os resultados obtidos através da evidência científica apresentada são avaliados à luz da sua tradução clínica, de modo a analisar possíveis benefícios (designadamente nova indicação terapêutica em área carenciada, menor número de administrações diárias ou outro motivo relevante) em relação à prática clínica atual.\n\n3 - O medicamento é sumariamente avaliado quanto ao seu impacte na história natural da doença, na qualidade de vida dos doentes e nos encargos do terceiro pagador (entidade responsável pelo encargo da aquisição do medicamento).\n\n4 - A prova do valor terapêutico acrescentado depende da qualidade da prova científica apresentada pelo titular da autorização de introdução no mercado ou publicada, pelo que a classificação da qualidade dos estudos disponibilizados quanto à sua metodologia, conteúdo e resultados é graduada, de forma decrescente, nos seguintes termos:\n\na) Revisões sistemáticas e meta-análises de ensaios clínicos, controlados e aleatorizados, bem delineados e executados;\n\nb) Ensaios clínicos aleatorizados e controlados, bem delineados e executados;\n\nc) Estudos quase experimentais, bem delineados e executados, e ensaios clínicos não aleatorizados (sempre que as circunstâncias impedirem a realização de ensaios clínicos controlados), estudos observacionais prospetivos e retrospetivos (cortes e casos e controlos);\n\nd) Opinião de peritos.\n\n5 - A apreciação do preço considerado adequado tem por base os seguintes factores:\n\na) Comparação com as alternativas existentes, tendo por base unidades de medida internacionalmente aceites, como a dose diária definida (DDD) ou, na sua ausência, a posologia média diária (PMD);\n\nb) Resultados de estudos de avaliação económica de medicamentos.»"
+  },
+  "184963000": {
+   "fragment_id": "184957214",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposição final e transitória",
+   "in_force_from": "2014-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 87-A/2014 - Diário da República n.º 104/2014, 2º Suplemento, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2014-25345143), em vigor a partir de 2014-05-31, produz efeitos a partir de 2014-03-31"
+   ],
+   "markdown": "###### Artigo 6.º — Disposição final e transitória\n\n1 - Os novos preços de venda ao público decorrentes do disposto no n.º 1 do artigo 11.º do Decreto-Lei n.º 112/2011, de 29 de novembro, com a redação dada pelo presente diploma, devem obedecer aos valores calculados pelo INFARMED-Autoridade Nacional do Medicamento e Produtos de Saúde, I.P., e por este comunicados aos titulares das autorizações, ou registos, de introdução no mercado, até 15 dias após a entrada em vigor do presente diploma.\n\n2 - A partir da data de entrada em vigor dos novos preços decorrentes do disposto no n.º 1 do artigo 11.º do Decreto-Lei n.º 112/2011, de 29 de novembro, com a redação dada pelo presente diploma, os titulares das autorizações, ou registos, de introdução no mercado, não podem colocar, nos distribuidores por grosso, nem nas farmácias, medicamentos que apresentem preços diferentes dos resultantes das alterações introduzidas pelo disposto no presente diploma.\n\n3 - Os medicamentos abrangidos pelo presente diploma que se encontrem nos distribuidores grossistas e nas farmácias marcados com o preço antigo, no dia anterior ao da entrada em vigor dos novos preços, podem ser escoados com aquele preço:\n\na) Pelo prazo de 90 dias, contados a partir dessa data, no caso dos distribuidores grossistas;\n\nb) Pelo prazo de 120 dias, a partir dessa data, no caso das farmácias.\n\n4 - É permitida a remarcação de preços pela indústria nas instalações das farmácias ou dos distribuidores grossistas\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 87-A/2014 - Diário da República n.º 104/2014, 2º Suplemento, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2014-25345143), em vigor a partir de 2014-05-31, produz efeitos a partir de 2014-03-31"
+  },
+  "184962998": {
+   "fragment_id": "184957217",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de dezembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paulo José de Ribeiro Moita de Macedo.\n\nPromulgado em 30 de janeiro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 31 de janeiro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

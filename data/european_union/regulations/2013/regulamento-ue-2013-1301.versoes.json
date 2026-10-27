@@ -1,0 +1,434 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013R1301:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R1301-20200424",
+ "dre_path": null,
+ "source_lastmod": "2020-04-24",
+ "versions": [
+  {
+   "date": "2018-08-02",
+   "future": false,
+   "celex": "02013R1301-20180802",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "be96b056b933c9db",
+    "226c39ffd0a88dad",
+    "e66b8427f7f19165",
+    "5d51920738bc3a6a",
+    "082a89a051d4adef",
+    "1c7de66f9588723b",
+    "23c9efdc778ee560",
+    "4e11d296ec904a91",
+    "c553c2222e3808b9",
+    "f0f8c960bfdbce9b",
+    "d91adc015c8a0fdd",
+    "d83eac831401b7fc",
+    "92ecc6ef12a61c62",
+    "6d2c222b45983a24",
+    "ce849af0d9dabbe6",
+    "05dd4dca93154a5f",
+    "66b976876e514c47",
+    "1e7a0903d2eed348",
+    "bbdde795c58f027f",
+    "0386f15534ee53a8",
+    "6ccef82eb9313aab",
+    "317e5ad09dedf260",
+    "5620a61f1fbc8657",
+    "badef01ce0f7ccf3",
+    "5d878ac45e9ecf5a",
+    "df4cdfae1e85a779",
+    "ee1649ec5280c41a",
+    "8f6cb5af01ca1767"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "celex": "02013R1301-20200401",
+   "acts": [
+    {
+     "id": "eu:celex:32020R0460:por",
+     "title": "REGULAMENTO (UE) 2020/460 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de março de 2020",
+     "published": null,
+     "celex": "32020R0460"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Âmbito do apoio do FEDER",
+    "Altera Artigo 5.º — Prioridades de investimento",
+    "Altera Artigo 9.º — Rede de desenvolvimento urbano",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "be96b056b933c9db",
+    "226c39ffd0a88dad",
+    "e66b8427f7f19165",
+    "5d51920738bc3a6a",
+    "082a89a051d4adef",
+    "dffaff53333b37b3",
+    "23c9efdc778ee560",
+    "62a0dc7153368d53",
+    "c553c2222e3808b9",
+    "f0f8c960bfdbce9b",
+    "d91adc015c8a0fdd",
+    "d83eac831401b7fc",
+    "92ecc6ef12a61c62",
+    "1b919c0ca7f15fdd",
+    "ce849af0d9dabbe6",
+    "05dd4dca93154a5f",
+    "66b976876e514c47",
+    "1e7a0903d2eed348",
+    "bbdde795c58f027f",
+    "0386f15534ee53a8",
+    "6ccef82eb9313aab",
+    "317e5ad09dedf260",
+    "5620a61f1fbc8657",
+    "badef01ce0f7ccf3",
+    "5d878ac45e9ecf5a",
+    "df4cdfae1e85a779",
+    "ee1649ec5280c41a",
+    "458c5711551ab119"
+   ]
+  },
+  {
+   "date": "2020-04-24",
+   "future": false,
+   "celex": "02013R1301-20200424",
+   "acts": [
+    {
+     "id": "eu:celex:32020R0558:por",
+     "title": "REGULAMENTO (UE) 2020/558 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de abril de 2020",
+     "published": null,
+     "celex": "32020R0558"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Âmbito do apoio do FEDER",
+    "Altera Artigo 5.º — Prioridades de investimento",
+    "Altera Artigo 9.º — Rede de desenvolvimento urbano",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "be96b056b933c9db",
+    "226c39ffd0a88dad",
+    "e66b8427f7f19165",
+    "5d51920738bc3a6a",
+    "082a89a051d4adef",
+    "11081d18f679501f",
+    "23c9efdc778ee560",
+    "d3923d5932cdb59e",
+    "c553c2222e3808b9",
+    "f0f8c960bfdbce9b",
+    "d91adc015c8a0fdd",
+    "d83eac831401b7fc",
+    "92ecc6ef12a61c62",
+    "1735daab5fc7fb69",
+    "ce849af0d9dabbe6",
+    "05dd4dca93154a5f",
+    "66b976876e514c47",
+    "1e7a0903d2eed348",
+    "bbdde795c58f027f",
+    "0386f15534ee53a8",
+    "6ccef82eb9313aab",
+    "317e5ad09dedf260",
+    "5620a61f1fbc8657",
+    "badef01ce0f7ccf3",
+    "5d878ac45e9ecf5a",
+    "df4cdfae1e85a779",
+    "ee1649ec5280c41a",
+    "b36de37d63a05ed7"
+   ]
+  }
+ ],
+ "fragments": {
+  "be96b056b933c9db": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de dezembro de 2013\n\nrelativo ao Fundo Europeu de Desenvolvimento Regional e que estabelece disposições específicas relativas ao objetivo de investimento no crescimento e no emprego, e que revoga o Regulamento (CE) n.º 1080/2006"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e66b8427f7f19165": {
+   "fragment_id": "Disposições comuns",
+   "type": "divisao",
+   "heading": "Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições comuns"
+  },
+  "5d51920738bc3a6a": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece a missão do Fundo Europeu de Desenvolvimento Regional (FEDER), o âmbito do seu apoio relativamente ao objetivo de investimento no crescimento e no emprego e ao objetivo da cooperação territorial europeia, bem como as disposições específicas relativas ao apoio do FEDER para o objetivo de investimento no crescimento e no emprego."
+  },
+  "082a89a051d4adef": {
+   "fragment_id": "Artigo 2.º — Missão do FEDER",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Missão do FEDER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão do FEDER\n\nO FEDER contribui para o financiamento do apoio que tem por objetivo reforçar a coesão económica, social e territorial, através da correção dos principais desequilíbrios regionais na União, através do desenvolvimento sustentável e do ajustamento estrutural das economias regionais, incluindo a reconversão das regiões industriais em declínio e das regiões menos desenvolvidas."
+  },
+  "1c7de66f9588723b": {
+   "fragment_id": "Artigo 3.º — Âmbito do apoio do FEDER",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito do apoio do FEDER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito do apoio do FEDER\n\n1. O FEDER apoia as seguintes atividades, a fim de contribuir para as prioridades de investimento previstas no artigo 5.º:\n\na) Investimento produtivo que contribua para criar e manter empregos sustentáveis, através de ajudas diretas ao investimento, nas PME;\n\nb) Investimento produtivo, independentemente da dimensão da empresa em causa, que contribua para as prioridades de investimento estabelecidas no artigo 5.º, pontos 1 e 4, e, caso esse investimento envolva cooperação entre grandes empresas e PME, no artigo 5.º, ponto 2;\n\nc) Investimentos nas infraestruturas necessárias para prestar serviços básicos aos cidadãos, nos domínios da energia, do ambiente, dos transportes e das TIC;\n\nd) Investimentos em infraestruturas sociais, de saúde, de investigação, de inovação, empresariais e educativas;\n\ne) Investimentos no desenvolvimento do potencial endógeno, através do investimento fixo em equipamentos e infraestruturas, incluindo infraestruturas culturais e de turismo sustentável, prestação de serviços a empresas, apoio aos organismos de investigação e inovação e investimento em tecnologias e investigação aplicada em empresas;\n\nf) A criação de redes, a cooperação e o intercâmbio de experiências entre as autoridades competentes regionais, locais, urbanas e outras autoridades públicas, parceiros económicos e sociais e organismos representativos da sociedade civil relevantes referidos no artigo 5.º, n.º 1, do Regulamento (UE) n.º 1303/2013, estudos, ações preparatórias e reforço das capacidades.\n\nO investimento em infraestruturas culturais e de turismo sustentável a que se refere o primeiro parágrafo, alínea e), do presente número deve ser considerado de pequena escala e elegível para apoio, se a contribuição do FEDER para o funcionamento não for superior a 10 000 000 EUR. Esse limite máximo aumenta para 20 000 000 EUR caso a infraestrutura seja considerada património cultural na aceção do artigo 1.º da Convenção da UNESCO, de 1972, para a Proteção do Património Mundial, Cultural e Natural.\n\n2. No âmbito do objetivo da cooperação territorial europeia, o FEDER pode igualmente apoiar a partilha de instalações e recursos humanos, e todos os tipos de infraestruturas transfronteiriças em todas as regiões.\n\n3. O FEDER não apoia:\n\na) A desativação e a construção de centrais nucleares;\n\nb) Investimentos destinados a reduzir as emissões de gases com efeito de estufa provenientes de atividades abrangidas pelo anexo I da Diretiva 2003/87/CE;\n\nc) A produção, transformação e comercialização de tabaco e de produtos do tabaco;\n\nd) As empresas em dificuldade, na aceção das regras da União sobre os auxílios estatais;\n\ne) Investimentos em infraestruturas aeroportuárias, a não ser que estejam relacionadas com a proteção ambiental ou que sejam acompanhadas por investimentos necessários para atenuar ou reduzir o seu impacto ambiental negativo."
+  },
+  "23c9efdc778ee560": {
+   "fragment_id": "Artigo 4.º — Concentração temática",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Concentração temática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Concentração temática\n\n1. Os objetivos temáticos previstos no artigo 9.º, primeiro parágrafo, do Regulamento (UE) n.º 1303/2013 e as correspondentes prioridades de investimento estabelecidas no artigo 5.º do presente regulamento, para as quais o FEDER pode contribuir no âmbito do objetivo de investimento no crescimento e no emprego, concentram-se do seguinte modo:\n\na) Nas regiões mais desenvolvidas:\n\ni) pelo menos 80 % do total dos recursos do FEDER a nível nacional são atribuídos a dois ou mais dos objetivos temáticos estabelecidos no artigo 9.º, primeiro parágrafo, pontos 1, 2, 3 e 4, do Regulamento (UE) n.º 1303/2013; e\n\nii) pelo menos 20 % do total dos recursos do FEDER a nível nacional são atribuídos ao objetivo temático estabelecido no artigo 9.º, primeiro parágrafo, ponto 4, do Regulamento (UE) n.º 1303/2013.\n\nb) Nas regiões em transição:\n\ni) pelo menos 60 % do total dos recursos do FEDER a nível nacional são atribuídos a dois ou mais dos objetivos temáticos estabelecidos no artigo 9.º, primeiro parágrafo, pontos 1, 2, 3 e 4, do Regulamento (UE) n.º 1303/2013; e\n\nii) pelo menos 15 % do total dos recursos do FEDER a nível nacional são atribuídos ao objetivo temático estabelecido no artigo 9.º, primeiro parágrafo, ponto 4, do Regulamento (UE) n.º 1303/2013;\n\nc) Nas regiões menos desenvolvidas:\n\ni) Pelo menos 50 % do total dos recursos do FEDER a nível nacional são atribuídos a dois ou mais dos objetivos temáticos estabelecidos no artigo 9.º, primeiro parágrafo, pontos 1, 2, 3 e 4, do Regulamento (UE) n.º 1303/2013; e\n\nii) pelo menos 12 % do total dos recursos do FEDER a nível nacional são atribuídos ao objetivo temático estabelecido no artigo 9.º, primeiro parágrafo, ponto 4, do Regulamento (UE) n.º 1303/2013.\n\nPara efeitos do presente artigo, as regiões cujo PIB *per capita* utilizado como critério de elegibilidade no período de programação de 2007-2013 tenha sido inferior a 75 % da média do PIB da UE-25 no período de referência e as regiões designadas com o estatuto de saída progressiva no período de programação de 2007-2013 mas que são elegíveis para a categoria de regiões mais desenvolvidas referida no artigo 90.º, n.º 2, primeiro parágrafo, alínea c), do Regulamento (UE) n.º 1303/2013, no período de programação de 2014-2020, são consideradas regiões em transição.\n\nPara efeitos do presente artigo, todas as regiões do nível NUTS 2 constituídas exclusivamente por Estados-Membros insulares ou por ilhas que fazem parte do território de Estados-Membros que recebam apoio do Fundo de Coesão, e todas as regiões ultraperiféricas, são consideradas como regiões menos desenvolvidas.\n\n2. Em derrogação do n.º 1 do presente artigo, a percentagem mínima dos recursos do FEDER atribuída a uma categoria de regiões pode ser inferior à estabelecida nesse número se tal redução for compensada por um aumento noutras categorias de regiões. O total a nível nacional dos montantes para todas as categorias de regiões, respetivamente para objetivos temáticos previstos no artigo 9.º, primeiro parágrafo, pontos 1, 2, 3 e 4, do Regulamento (UE) n.º 1300/2013, e no artigo 9.º, primeiro parágrafo, ponto 4, do Regulamento (UE) n.º 1303/2013, não pode, por conseguinte, ser inferior ao total a nível nacional resultante da aplicação das percentagens mínimas dos recursos do FEDER estabelecidas no n.º 1 do presente artigo.\n\n3. Em derrogação do n.º 1 do presente artigo, os recursos do Fundo de Coesão atribuídos ao apoio às prioridades de investimento estabelecidas no artigo 3.º, alínea a), do Regulamento (UE) n.º 1300/2013 podem contar para efeitos de cumprimento da percentagem mínima estabelecida no n.º 1, primeiro parágrafo, alínea a), subalínea ii), alínea b), subalínea ii), e alínea c), subalínea ii), do presente artigo. Nesse caso, a percentagem referida no n.º 1, primeiro parágrafo, alínea c), subalínea ii), do presente artigo, é aumentada para 15 %. Sempre que aplicável, tais recursos são atribuídos proporcionalmente às diversas categorias de regiões com base nas respetivas partes na população total do Estado-Membro em causa."
+  },
+  "4e11d296ec904a91": {
+   "fragment_id": "Artigo 5.º — Prioridades de investimento",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Prioridades de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prioridades de investimento\n\nO FEDER apoia as seguintes prioridades de investimento no âmbito dos objetivos temáticos previstos no artigo 9.º, primeiro parágrafo, do Regulamento (UE) n.º 1303/2013, de acordo com as necessidades e potencialidades de crescimento referidas no artigo 15.º, n.º 1, alínea a), subalínea i), do referido regulamento e estabelecidas no acordo de parceria:\n\n1) Reforço da investigação, do desenvolvimento tecnológico e da inovação mediante:\n\na) O reforço da infraestrutura de investigação e inovação (I&I) e da capacidade de desenvolvimento da excelência na I&I, e a promoção de centros de competência, nomeadamente os de interesse europeu;\n\nb) A promoção do investimento das empresas na I&D, o desenvolvimento de ligações e sinergias entre empresas, centros de investigação e desenvolvimento e o setor do ensino superior, em especial a promoção do investimento no desenvolvimento de produtos e serviços, na transferência de tecnologia, na inovação social, na ecoinovação, em aplicações de interesse público, no estímulo da procura, em redes, *clusters* e na inovação aberta através de especialização inteligente, e o apoio à investigação tecnológica e aplicada, linhas-piloto, ações de validação precoce dos produtos, capacidades avançadas de produção e primeira produção, em especial no que toca às tecnologias facilitadoras essenciais, e à difusão de tecnologias de interesse geral;\n\n2) Melhoria do acesso às TIC, bem como a sua utilização e a sua qualidade mediante:\n\na) A implantação alargada da banda larga e a implantação das redes de alta velocidade, e o apoio à adoção das tecnologias emergentes e das redes para a economia digital;\n\nb) O desenvolvimento de produtos e serviços TIC, comércio eletrónico e fomento da procura de competências TIC;\n\nc) O reforço das aplicações TIC na administração pública em linha, aprendizagem em linha, infoinclusão, cultura em linha e saúde em linha.\n\n3) Reforço da competitividade das PME mediante:\n\na) A promoção do espírito empresarial, nomeadamente facilitando a exploração económica de ideias novas e incentivando a criação de novas empresas, designadamente através de viveiros de empresas;\n\nb) O desenvolvimento e a aplicação de novos modelos empresariais para as PME, especialmente no que respeita à internacionalização;\n\nc) A concessão de apoio à criação e ao alargamento de capacidades avançadas de desenvolvimento de produtos e serviços;\n\nd) A concessão de apoio às capacidades das PME de crescerem em mercados regionais, nacionais e internacionais e de empreenderem processos de inovação;\n\n4) Apoio à transição para uma economia de baixo teor de carbono, em todos os setores, mediante:\n\na) A promoção da produção e distribuição de energia proveniente de fontes renováveis;\n\nb) A promoção da eficiência energética e da utilização das energias renováveis nas empresas;\n\nc) A concessão de apoio à eficiência energética, à gestão inteligente da energia e à utilização das energias renováveis nas infraestruturas públicas, nomeadamente nos edifícios públicos, e no setor da habitação;\n\nd) O desenvolvimento e a implantação de sistemas de distribuição inteligente que operem a níveis de baixa e média tensão;\n\ne) A promoção de estratégias de baixo teor de carbono para todos os tipos de territórios, nomeadamente as zonas urbanas, incluindo a promoção da mobilidade urbana multimodal sustentável e medidas de adaptação relevantes para a atenuação;\n\nf) A promoção da investigação, inovação e adoção de tecnologias de baixo teor de carbono;\n\ng) A promoção da cogeração de calor e eletricidade de elevada eficiência baseada na procura de calor útil;\n\n5) Promoção da adaptação às alterações climáticas e prevenção e gestão dos riscos mediante:\n\na) A concessão de apoio ao investimento para a adaptação às alterações climáticas, incluindo abordagens baseadas nos ecossistemas;\n\nb) A promoção de investimentos para fazer face a riscos específicos, assegurar a capacidade de resistência às catástrofes e desenvolver sistemas de gestão de catástrofes;\n\n6) Preservação e proteção do ambiente e promoção da utilização eficiente dos recursos mediante:\n\na) Investimentos no setor dos resíduos para satisfazer os requisitos do acervo ambiental da União e atender às necessidades de investimento identificadas pelos Estados-Membros que vão além desses requisitos;\n\nb) Investimentos no setor da água, para satisfazer os requisitos do acervo ambiental da União e atender às necessidades de investimento identificadas pelos Estados-Membros que vão além desses requisitos;\n\nc) A conservação, proteção, promoção e o desenvolvimento do património natural e cultural;\n\nd) A proteção e reabilitação da biodiversidade e dos solos e promoção de sistemas de serviços ecológicos, nomeadamente através da rede Natura 2000 e de infraestruturas verdes;\n\ne) A adoção de medidas destinadas a melhorar o ambiente urbano, a revitalizar as cidades, recuperar e descontaminar zonas industriais abandonadas, incluindo zonas de reconversão,), a reduzir a poluição do ar e a promover medidas de redução de ruído;\n\nf) A promoção de tecnologias inovadoras para melhorar a proteção ambiental e a utilização eficiente dos recursos nos setores dos resíduos, da água e no que respeita aos solos, e para reduzir a poluição atmosférica;\n\ng) A concessão de apoio à transição industrial para uma economia eficiente em termos de recursos, promovendo o crescimento ecológico, a ecoinovação e a gestão dos indicadores de desempenho ambiental nos setores público e privado;\n\n7) Promoção de transportes sustentáveis e eliminação dos estrangulamentos nas principais infraestruturas das rede, mediante:\n\na) A concessão de apoio a um Espaço Único Europeu de Transporte multimodais, mediante o investimento na RTE-T;\n\nb) A melhoria da mobilidade regional através da ligação dos nós secundários e terciários às infraestruturas de RTE-T, incluindo os nós multimodais;\n\nc) O desenvolvimento e a melhoria de sistemas de transporte ecológicos (nomeadamente de baixo ruído) e baixo teor de carbono, incluindo as vias navegáveis interiores e o transporte marítimo, os portos, as ligações multimodais e as infraestruturas aeroportuárias, a fim de promover a mobilidade regional e local sustentável;\n\nd) O desenvolvimento e a reabilitação de sistemas ferroviários abrangentes, de elevada qualidade e interoperáveis e a promoção de medidas de redução do ruído;\n\ne) A melhoria da eficiência energética e da segurança do abastecimento através do desenvolvimento de sistemas inteligentes de distribuição, armazenamento e transporte de energia e da integração da geração distribuída a partir de fontes renováveis;\n\n8) Promoção da sustentabilidade e da qualidade do emprego e apoio à mobilidade dos trabalhadores mediante:\n\na) A concessão de apoio ao desenvolvimento dos viveiros de empresas e o apoio à atividade por conta própria, às microempresas e à criação de empresas;\n\nb) A concessão de apoio ao crescimento propício ao emprego através do desenvolvimento do potencial endógeno como parte integrante de uma estratégia territorial para zonas específicas, incluindo a conversão de regiões industriais em declínio e desenvolvimento de determinados recursos naturais e culturais e da sua acessibilidade;\n\nc) A concessão de apoio às iniciativas locais de desenvolvimento e ajuda às estruturas que prestam serviços de proximidade para criar emprego, sempre que essas medidas não se enquadrem no âmbito de aplicação do Regulamento (UE) n.º 1304/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/4e4071b2-b58a-4a98-8a49-279d7d40e056.0016.02/DOC_1#E0001));\n\nd) Investimento na infraestrutura dos serviços de emprego;\n\n9) Promoção da inclusão social e combate à pobreza e à discriminação mediante:\n\na) Investimentos na saúde e nas infraestruturas sociais que contribuam para o desenvolvimento nacional, regional e local, a redução das desigualdades de saúde, a promoção da inclusão social através da melhoria do acesso aos serviços sociais, culturais e recreativos, e da transição dos serviços institucionais para os serviços de base comunitária;\n\nb) A concessão de apoio à regeneração física, económica e social das comunidades desfavorecidas em zonas urbanas e rurais;\n\nc) A concessão de apoio a empresas sociais;\n\nd) Investimentos no contexto de estratégias de desenvolvimento local de base comunitária;\n\ne) O apoio ao acolhimento e à integração socioeconómica de migrantes e refugiados;\n\n10) Investimentos na educação, na formação e na formação profissional para a aquisição de competências e a aprendizagem ao longo da vida através do desenvolvimento das infraestruturas educativas e formativas;\n\n11) Reforço da capacidade institucional das autoridades públicas e das partes interessadas e da eficiência da administração pública, através de ações para reforçar a capacidade institucional e a eficiência das administrações públicas e dos serviços públicos implicados na execução do FEDER, e apoio a ações no âmbito do FSE destinadas a reforçar a capacidade institucional e a eficiência da administração pública."
+  },
+  "c553c2222e3808b9": {
+   "fragment_id": "Artigo 6.º — Indicadores para o objetivo de investimento no crescimento e no emprego",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Indicadores para o objetivo de investimento no crescimento e no emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Indicadores para o objetivo de investimento no crescimento e no emprego\n\n1. Os indicadores s de realização comuns, estabelecidos no anexo I do presente regulamento, os indicadores de resultado específicos dos programas e, se for caso disso, os indicadores de realização específicos dos programas, são utilizados nos termos do artigo 27.º, n.º 4, e do artigo 96.º, n.º 2, alínea b), subalíneas ii) e iv), e alínea c), subalíneas ii) e iv), do Regulamento (UE) n.º 1303/2013.\n\n2. Os indicadores de realização comuns e específicos dos programas são formulados *ab initio*. São fixadas metas quantificadas e cumulativas para esses indicadores para 2023.\n\n3. Os indicadores de resultado específicos dos programas, relacionados com as prioridades de investimento, baseiam-se nos últimos dados disponíveis e são fixadas metas para 2023. As metas podem ser expressas em termos quantitativos ou qualitativos.\n\n4. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 14.º para alterar a lista de indicadores de realização comuns constante do anexo I, a fim de realizar ajustamentos, se tal for necessário para assegurar uma avaliação eficaz dos progressos realizados na execução do programa."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "d91adc015c8a0fdd": {
+   "fragment_id": "Disposições específicas relativas ao tratamento das particularidades territoriais",
+   "type": "divisao",
+   "heading": "Disposições específicas relativas ao tratamento das particularidades territoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições específicas relativas ao tratamento das particularidades territoriais"
+  },
+  "d83eac831401b7fc": {
+   "fragment_id": "Artigo 7.º — Desenvolvimento urbano sustentável",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Desenvolvimento urbano sustentável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Desenvolvimento urbano sustentável\n\n1. O FEDER apoia o desenvolvimento urbano sustentável no âmbito dos programas operacionais, através de ações integradas em estratégias para enfrentar os desafios económicos, ambientais, climáticos, demográficos e sociais que afetam as zonas urbanas, tendo simultaneamente em conta a necessidade de promover ligações entre os meios urbano e rural.\n\n2. O desenvolvimento urbano sustentável deve realizar-se através dos investimentos territoriais integrados referido no artigo 36.º do Regulamento (UE) n.º 1303/2013 ou por meio de um programa operacional específico, ou um eixo prioritário específico nos termos do artigo 96.º, n.º 1, primeiro parágrafo, alínea c) do Regulamento (UE) n.º 1303/2013.\n\n3. O Acordo de Parceria de cada Estado Membro deve estabelecer, em função da sua situação territorial específica, os princípios que presidem à seleção das zonas urbanas onde devem ser realizadas ações de desenvolvimento urbano sustentável e estabelecer uma dotação indicativa para estas ações a nível nacional.\n\n4. Pelo menos 5 % dos recursos do FEDER atribuídos a nível nacional ao objetivo de investimento no crescimento e no emprego devem ser atribuídos a ações integradas de desenvolvimento urbano sustentável em relação às quais as cidades, os organismos sub-regionais ou locais responsáveis pela execução de estratégias urbanas sustentáveis (\"autoridades urbanas\") devem ser responsáveis pelas funções relativas, pelo menos, à seleção das operações nos termos do artigo 123.º, n.º 6, do Regulamento (UE) n.º 1303/2013, ou, quando adequado, nos termos do artigo 123.º, n.º 7, desse regulamento. O montante indicativo a ser afetado para efeitos do n.º 2 do presente artigo é fixado no programa operacional ou programas operacionais em causa.\n\n5. A autoridade de gestão determina, em consulta com a autoridade urbana, o âmbito das funções a desempenhar pela autoridade urbana relativas à gestão das ações integradas de desenvolvimento urbano sustentável. A autoridade de gestão deve registar formalmente a sua decisão por escrito. A autoridade de gestão pode reservar-se o direito de, antes da aprovação, proceder a uma verificação final da elegibilidade das operações."
+  },
+  "92ecc6ef12a61c62": {
+   "fragment_id": "Artigo 8.º — Ações inovadoras no domínio do desenvolvimento urbano sustentável",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Ações inovadoras no domínio do desenvolvimento urbano sustentável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ações inovadoras no domínio do desenvolvimento urbano sustentável\n\n1. Por iniciativa da Comissão, o FEDER pode apoiar ações inovadoras no domínio do desenvolvimento urbano sustentável, nos termos do artigo 92.º, n.º 8, do Regulamento (UE) n.º 1303/2013. Tais ações incluem estudos e projetos-piloto para identificar ou testar novas soluções para fazer face aos desafios de desenvolvimento urbano sustentável relevantes ao nível da União. A Comissão incentiva o envolvimento dos parceiros relevantes referidos no artigo 5.º, n.º 1, do Regulamento (UE) n.º 1303/2013, na preparação e execução de ações inovadoras.\n\n2. Em derrogação do artigo 4.º do presente regulamento, as ações inovadoras podem apoiar todas as atividades necessárias para alcançar os objetivos temáticos estabelecidos no artigo 9.º, primeiro parágrafo, do Regulamento (UE) n.º 1303/2013 e as correspondentes prioridades de investimento estabelecidas no artigo 5.º do presente regulamento.\n\n3. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 14.º que estabelece regras pormenorizadas relativas aos princípios de seleção e gestão das ações inovadoras a serem apoiadas pelo FEDER nos termos do presente regulamento."
+  },
+  "6d2c222b45983a24": {
+   "fragment_id": "Artigo 9.º — Rede de desenvolvimento urbano",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Rede de desenvolvimento urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rede de desenvolvimento urbano\n\n1. A Comissão deve estabelecer, nos termos do artigo 58.º do Regulamento (UE) n.º 1303/2013, uma rede de desenvolvimento urbano para promover o reforço das capacidades, a criação de redes e o intercâmbio de experiências ao nível da União entre as autoridades urbanas responsáveis pela execução de estratégias de desenvolvimento urbano sustentável, nos termos do artigo 7.º, n.^os^ 4 e 5, do presente regulamento e as autoridades responsáveis pelas ações inovadoras no domínio do desenvolvimento urbano sustentável, nos termos do artigo 8.º do presente regulamento.\n\n2. As atividades da rede de desenvolvimento urbano devem ser complementares das atividades empreendidas ao abrigo da cooperação inter-regional nos termos do artigo 2.º do Regulamento (UE) n.º 1299/2013 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/4e4071b2-b58a-4a98-8a49-279d7d40e056.0016.02/DOC_1#E0002))."
+  },
+  "ce849af0d9dabbe6": {
+   "fragment_id": "Artigo 10.º — Zonas com desvantagens naturais ou demográficas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Zonas com desvantagens naturais ou demográficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Zonas com desvantagens naturais ou demográficas\n\nNos programas operacionais cofinanciados pelo FEDER que abrangem zonas com desvantagens naturais ou demográficas graves e permanentes, a que se refere o artigo 121.º, ponto 4), do Regulamento (CE) n.º 1303/2013 deve ser concedida uma atenção especial ao tratamento das dificuldades específicas das referidas zonas."
+  },
+  "05dd4dca93154a5f": {
+   "fragment_id": "Artigo 11.º — Regiões mais setentrionais com densidade populacional muito baixa",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Regiões mais setentrionais com densidade populacional muito baixa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regiões mais setentrionais com densidade populacional muito baixa\n\nO artigo 4.º não se aplica à dotação específica adicional para as regiões mais setentrionais com densidade populacional muito baixa. Essa dotação é atribuída aos objetivos temáticos estabelecidos no artigo 9.º, primeiro parágrafo, pontos 1, 2, 3, 4 e 7, do Regulamento (UE) n.º 1303/2013."
+  },
+  "66b976876e514c47": {
+   "fragment_id": "Artigo12.º — Regiões ultraperiféricas",
+   "type": "divisao",
+   "heading": "Artigo12.º — Regiões ultraperiféricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo12.º — Regiões ultraperiféricas\n\n1. O artigo 4.º não se aplica à dotação específica adicional para as regiões ultraperiféricas. Essa dotação é utilizada para compensar os custos adicionais relacionados com as características e os condicionalismos especiais referidos no artigo 349.º do TFUE, suportados pelas regiões ultraperiféricas para apoiar:\n\na) Os objetivos temáticos previstos no artigo 9.º, primeiro parágrafo, do Regulamento (UE) n.º 1303/2013;\n\nb) Os serviços de transporte de mercadorias e o auxílio ao arranque de serviços de transporte;\n\nc) As operações relacionadas com as limitações da capacidade de armazenamento, o sobredimensionamento e a manutenção dos instrumentos de produção e a carência de capital humano no mercado de trabalho local.\n\n2. Além disso, a dotação específica adicional referida no n.º 1 pode igualmente ser utilizada para contribuir para o financiamento das ajudas ao funcionamento e das despesas relacionadas com obrigações e contratos de serviço público nas regiões ultraperiféricas.\n\n3. O montante a que é aplicável a taxa de cofinanciamento é só proporcional aos custos adicionais, a que se refere o n.º 1, suportados pelo beneficiário, no caso das ajudas ao funcionamento e das despesas relacionadas com obrigações e contratos de serviço público, mas pode abranger a totalidade dos custos elegíveis no caso das despesas de investimento.\n\n4. A dotação específica adicional referida no n.º 1 do presente artigo não é utilizada para apoiar:\n\na) Operações que envolvam produtos enumerados no anexo I do TFUE;\n\nb) Auxílios ao transporte de pessoas autorizados nos termos do artigo 107.º, n.º 2, alínea a), do TFUE;\n\nc) Isenções fiscais e isenção de encargos sociais.\n\n5. Em derrogação do artigo 3.º, n.º 1, alíneas a) e b), o FEDER pode apoiar investimentos produtivos nas empresas das regiões ultraperiféricas, independentemente da dimensão dessas empresas.\n\n6. O artigo 4.º não se aplica à parte do FEDER na dotação afetada a Maiote na qualidade de região ultraperiférica na aceção do artigo 349.º do TFUE, e pelo menos 50 % dessa parte do FEDER deve ser atribuída aos objetivos temáticos estabelecidos no artigo 9.º, primeiro parágrafo, pontos 1, 2, 3, 4 e 6, do Regulamento (UE) n.º 1303/2013."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "0386f15534ee53a8": {
+   "fragment_id": "Artigo 13.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições transitórias\n\n1. O presente regulamento não afeta a continuação nem a alteração, incluindo a anulação total ou parcial, de intervenções aprovadas pela Comissão com base no Regulamento (CE) n.º 1080/2006 ou em qualquer outra legislação aplicável a essas intervenções em 31 de dezembro de 2013. O referido regulamento ou outra legislação aplicável, continuam pois a aplicar-se após 31 de dezembro de 2013 a essas intervenções ou às operações em causa até à respetiva conclusão. Para efeitos do presente número, a intervenção cobre programas operacionais e grandes projetos.\n\n2. Os pedidos de intervenção apresentados ou aprovados ao abrigo do Regulamento (CE) n.º 1080/2006 permanecem válidos."
+  },
+  "6ccef82eb9313aab": {
+   "fragment_id": "Artigo 14.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 6.º, n.º 4, e no artigo 8.º, n.º 3, é conferido à Comissão entre 21 de Dezembro de 2013 e 31 de dezembro de 2020.\n\n3. A delegação de poderes referida no artigo 6.º, n.º 4, e no artigo 8.º, n.º 3, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 6.º, n.º 4, e do artigo 8.º, n.º 3, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desses atos ao Parlamento Europeu e ao Conselho ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses, por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "317e5ad09dedf260": {
+   "fragment_id": "Artigo 15.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação\n\nSem prejuízo do artigo 13.º do presente regulamento, o Regulamento (CE) n.º 1080/2006 é revogado com efeitos a partir de 1 de janeiro de 2014.\n\nAs referências ao regulamento revogado devem entender-se como sendo feitas ao presente regulamento e devem ler-se de acordo com a tabela de correspondência constante do Anexo II."
+  },
+  "5620a61f1fbc8657": {
+   "fragment_id": "Artigo 16.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Revisão\n\nO Parlamento Europeu e o Conselho procede à revisão do presente regulamento até 31 de dezembro de 2020, nos termos do artigo 177.º do TFUE."
+  },
+  "badef01ce0f7ccf3": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO Artigo 12.º, n.º 6, é aplicável a partir de 1 de janeiro de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "5d878ac45e9ecf5a": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n|  | UNIDADE | NOME |\n| --- | --- | --- |\n| Investimento produtivo |  |  |\n|  | Empresas | Número de empresas que beneficiam de apoio |\n|  | Empresas | Número de empresas que beneficiam de subvenções |\n|  | Empresas | Número de empresas que beneficiam de apoio financeiro, com exceção de subvenções |\n|  | Empresas | Número de empresas que recebem apoio não financeiro |\n|  | Empresas | Número de novas empresas apoiadas |\n|  | EUR | Investimento privado paralelo ao apoio público às empresas (subvenções) |\n|  | EUR | Investimento privado em paralelo ao apoio público às empresas (não subvenções) |\n|  | Equivalentes tempo inteiro | Aumento do emprego em empresas apoiadas |\n| Turismo sustentável | Visitantes/ano | Aumento do número esperado de visitantes a sítios de património cultural e natural e a atrações beneficiários de apoio |\n| Infraestrutura TIC | Agregados | Agregados familiares adicionais com acesso à banda larga de 30 Mbps, no mínimo |\n| Transportes |  |  |\n| Caminhos-de-ferro | Quilómetros | Quilometragem total das novas linhas férreas da qual: RTE-T |\n| Quilómetros | Quilometragem total das linhas férreas reconstruídas ou modernizadas da qual: RTE-T |  |\n| Estradas | Quilómetros | Quilometragem total das novas vias rodoviárias da qual: RTE-T |\n| Quilómetros | Quilometragem total das vias rodoviárias reconstruídas ou modernizadas da qual: RTE-T |  |\n| Transportes urbanos | Quilómetros | Quilometragem total das linhas de elétrico e de metropolitano novas ou melhoradas |\n| Vias navegáveis interiores | Quilómetros | Quilometragem total das vias navegáveis interiores novas ou melhoradas |\n| Ambiente |  |  |\n| Resíduos sólidos | Toneladas/ano | Capacidade adicional de reciclagem de resíduos |\n| Abastecimento de água | Pessoas | População adicional servida pelas melhorias de abastecimento de água |\n| Tratamento das águas residuais | Equivalente de população | População adicional servida pelas melhorias do sistema de tratamento de águas residuais |\n| Prevenção e gestão de riscos | Pessoas | População que beneficia de medidas de proteção contra inundações |\n| Pessoas | População que beneficia de proteção contra incêndios florestais |  |\n| Reabilitação dos solos | Hectares | Superfície total dos solos reabilitados |\n| Natureza e biodiversidade | Hectares | Superfície dos habitats apoiados para atingirem um melhor estado de conservação |\n| Investigação e Inovação |  |  |\n|  | Equivalentes tempo inteiro | Número de novos investigadores em entidades apoiadas |\n|  | Equivalentes tempo inteiro | Número de investigadores a trabalhar em infraestruturas de investigação melhoradas |\n|  | Empresas | Número de empresas em cooperação com instituições de investigação |\n|  | EUR | Investimento privado paralelo ao apoio público prestado a projetos de inovação ou I&D |\n|  | Empresas | Número de empresas apoiadas para introduzirem produtos novos no mercado |\n|  | Empresas | Número de empresas apoiadas para introduzirem produtos novos na empresa |\n| Energia e alterações climáticas |  |  |\n| Energias renováveis | MW | Capacidade suplementar de produção de energia renovável |\n| Eficiência energética | Agregados | Número de agregados familiares com consumo de energia melhorado |\n|  | kWh/ano | Redução anual do consumo de energia primária nos edifícios públicos |\n|  | Utilizadores | Número adicional de utilizadores de energia ligados a redes inteligentes |\n| Redução das emissões de gases com efeito de estufa | Toneladas de equivalente CO2 | Diminuição anual estimada das emissões de gases com efeito de estufa |\n| [▼M1](http://publications.europa.eu/resource/celex/32018R1046) |  |  |\n| Infraestruturas sociais |  |  |\n| Acolhimento de crianças e educação | Pessoas | Capacidade das infraestruturas de acolhimento de crianças ou de educação apoiadas |\n| Saúde | Pessoas | População abrangida por serviços de saúde melhorados |\n| Habitação | Unidades de habitação | Habitações reabilitadas |\n|  | Unidades de habitação | Habitações reabilitadas, incluindo as destinadas aos migrantes e refugiados (excluindo centros de acolhimento) |\n| Migrantes e refugiados | Pessoas | Capacidade das infraestruturas de apoio a migrantes e refugiados (exceto alojamento) |\n| Indicadores específicos de desenvolvimento urbano |  |  |\n|  | Pessoas | População que habita em áreas com estratégias integradas de desenvolvimento urbano |\n|  | Metros quadrados | Espaços abertos criados ou reabilitados em áreas urbanas |\n|  | Metros quadrados | Edifícios públicos ou comerciais construídos ou renovados em áreas urbanas |\n| [▼B](http://publications.europa.eu/resource/celex/32013R1301) |  |  |"
+  },
+  "df4cdfae1e85a779": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nRegulamento (CE) n.º 1080/2006 Presente regulamento\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 2.º\n\nArtigo 3.º Artigo 3.º\n\n— Artigo 4.º\n\nArtigo 4.º Artigo 5.º\n\nArtigo 5.º Artigo 5.º\n\nArtigo 6.º —\n\nArtigo 7.º —\n\n— Artigo 6.º\n\nArtigo 8.º Artigo 7.º\n\n— Artigo 8.º\n\n— Artigo 9.º\n\nArtigo 9.º —\n\nArtigo 10.º Artigo 10.º\n\n— Artigo 11.º\n\nArtigo 11.º Artigo 12.º\n\nArtigo 12.º —\n\nArtigo 13.º —\n\nArtigo 14.º —\n\nArtigo 15.º —\n\nArtigo 16.º —\n\nArtigo 17.º —\n\nArtigo 18.º —\n\nArtigo 19.º —\n\nArtigo 20.º —\n\nArtigo 21.º —\n\nArtigo 22.º Artigo 13.º\n\n— Artigo 14.º\n\nArtigo 23.º Artigo 15.º\n\nArtigo 24.º Artigo 16.º\n\nArtigo 25.º Artigo 17.º"
+  },
+  "ee1649ec5280c41a": {
+   "fragment_id": "Declaração conjunta do Parlamento Europeu e do Conselho sobre a aplicação do artigo 6.º do Regulamento relativo ao FEDER, do artigo 15.º do Regulamento relativo à Cooperação Territorial Europeia e do artigo 4.º do Regulamento relativo ao Fundo de Coesão",
+   "type": "divisao",
+   "heading": "Declaração conjunta do Parlamento Europeu e do Conselho sobre a aplicação do artigo 6.º do Regulamento relativo ao FEDER, do artigo 15.º do Regulamento relativo à Cooperação Territorial Europeia e do artigo 4.º do Regulamento relativo ao Fundo de Coesão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Declaração conjunta do Parlamento Europeu e do Conselho sobre a aplicação do artigo 6.º do Regulamento relativo ao FEDER, do artigo 15.º do Regulamento relativo à Cooperação Territorial Europeia e do artigo 4.º do Regulamento relativo ao Fundo de Coesão\n\nO Parlamento Europeu e o Conselho tomam nota da garantia dada pela Comissão aos órgãos legislativos da UE de que os indicadores comuns de realizações para o Regulamento relativo ao FEDER, o Regulamento relativo à Cooperação Territorial Europeia e o Regulamento relativo ao Fundo de Coesão, a incluir num anexo de cada um dos regulamentos, são o resultado de um longo processo de preparação em que participaram peritos avaliadores da Comissão e dos Estados-Membros e deverão, em princípio, manter-se estáveis.\n\n---"
+  },
+  "8f6cb5af01ca1767": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4e4071b2-b58a-4a98-8a49-279d7d40e056.0016.02/DOC_1#src.E0001)) Regulamento (UE) n.º 1304/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo ao Fundo Social Europeu e que revoga o Regulamento (CE) n.º 1081/1999 do Conselho (Ver página 470 do presente Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4e4071b2-b58a-4a98-8a49-279d7d40e056.0016.02/DOC_1#src.E0002)) Regulamento (UE) n.º 1299/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece disposições específicas para o apoio do Fundo Europeu de Desenvolvimento Regional ao objetivo de cooperação territorial europeia (Ver página 259 do presente Jornal Oficial)."
+  },
+  "dffaff53333b37b3": {
+   "fragment_id": "Artigo 3.º — Âmbito do apoio do FEDER",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito do apoio do FEDER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito do apoio do FEDER\n\n1. O FEDER apoia as seguintes atividades, a fim de contribuir para as prioridades de investimento previstas no artigo 5.º:\n\na) Investimento produtivo que contribua para criar e manter empregos sustentáveis, através de ajudas diretas ao investimento, nas PME;\n\nb) Investimento produtivo, independentemente da dimensão da empresa em causa, que contribua para as prioridades de investimento estabelecidas no artigo 5.º, pontos 1 e 4, e, caso esse investimento envolva cooperação entre grandes empresas e PME, no artigo 5.º, ponto 2;\n\nc) Investimentos nas infraestruturas necessárias para prestar serviços básicos aos cidadãos, nos domínios da energia, do ambiente, dos transportes e das TIC;\n\nd) Investimentos em infraestruturas sociais, de saúde, de investigação, de inovação, empresariais e educativas;\n\ne) Investimentos no desenvolvimento do potencial endógeno, através do investimento fixo em equipamentos e infraestruturas, incluindo infraestruturas culturais e de turismo sustentável, prestação de serviços a empresas, apoio aos organismos de investigação e inovação e investimento em tecnologias e investigação aplicada em empresas;\n\nf) A criação de redes, a cooperação e o intercâmbio de experiências entre as autoridades competentes regionais, locais, urbanas e outras autoridades públicas, parceiros económicos e sociais e organismos representativos da sociedade civil relevantes referidos no artigo 5.º, n.º 1, do Regulamento (UE) n.º 1303/2013, estudos, ações preparatórias e reforço das capacidades.\n\nO investimento em infraestruturas culturais e de turismo sustentável a que se refere o primeiro parágrafo, alínea e), do presente número deve ser considerado de pequena escala e elegível para apoio, se a contribuição do FEDER para o funcionamento não for superior a 10 000 000 EUR. Esse limite máximo aumenta para 20 000 000 EUR caso a infraestrutura seja considerada património cultural na aceção do artigo 1.º da Convenção da UNESCO, de 1972, para a Proteção do Património Mundial, Cultural e Natural.\n\nAlém disso, o FEDER pode apoiar o financiamento de fundo de maneio das PME, se necessário como medida temporária para dar uma resposta eficaz a uma crise de saúde pública.\n\n2. No âmbito do objetivo da cooperação territorial europeia, o FEDER pode igualmente apoiar a partilha de instalações e recursos humanos, e todos os tipos de infraestruturas transfronteiriças em todas as regiões.\n\n3. O FEDER não apoia:\n\na) A desativação e a construção de centrais nucleares;\n\nb) Investimentos destinados a reduzir as emissões de gases com efeito de estufa provenientes de atividades abrangidas pelo anexo I da Diretiva 2003/87/CE;\n\nc) A produção, transformação e comercialização de tabaco e de produtos do tabaco;\n\nd) As empresas em dificuldade, na aceção das regras da União sobre os auxílios estatais;\n\ne) Investimentos em infraestruturas aeroportuárias, a não ser que estejam relacionadas com a proteção ambiental ou que sejam acompanhadas por investimentos necessários para atenuar ou reduzir o seu impacto ambiental negativo."
+  },
+  "62a0dc7153368d53": {
+   "fragment_id": "Artigo 5.º — Prioridades de investimento",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Prioridades de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prioridades de investimento\n\nO FEDER apoia as seguintes prioridades de investimento no âmbito dos objetivos temáticos previstos no artigo 9.º, primeiro parágrafo, do Regulamento (UE) n.º 1303/2013, de acordo com as necessidades e potencialidades de crescimento referidas no artigo 15.º, n.º 1, alínea a), subalínea i), do referido regulamento e estabelecidas no acordo de parceria:\n\n1) Reforço da investigação, do desenvolvimento tecnológico e da inovação mediante:\n\na) O reforço da infraestrutura de investigação e inovação (I&I) e da capacidade de desenvolvimento da excelência na I&I, e a promoção de centros de competência, nomeadamente os de interesse europeu;\n\nb) A promoção do investimento das empresas na I&I, o desenvolvimento de ligações e sinergias entre empresas, centros de investigação e desenvolvimento e o setor do ensino superior, em especial a promoção do investimento no desenvolvimento de produtos e serviços, na transferência de tecnologia, na inovação social, na ecoinovação, em aplicações de interesse público, no estímulo da procura, em redes, *clusters* e na inovação aberta através de especialização inteligente, e o apoio à investigação tecnológica e aplicada, linhas-piloto, ações de validação precoce dos produtos, capacidades avançadas de produção e primeira produção, em especial no que toca às tecnologias facilitadoras essenciais e à difusão de tecnologias de interesse geral, bem como o fomento do investimento necessário para reforçar as capacidades de resposta a situações de crise nos serviços de saúde;\n\n2) Melhoria do acesso às TIC, bem como a sua utilização e a sua qualidade mediante:\n\na) A implantação alargada da banda larga e a implantação das redes de alta velocidade, e o apoio à adoção das tecnologias emergentes e das redes para a economia digital;\n\nb) O desenvolvimento de produtos e serviços TIC, comércio eletrónico e fomento da procura de competências TIC;\n\nc) O reforço das aplicações TIC na administração pública em linha, aprendizagem em linha, infoinclusão, cultura em linha e saúde em linha.\n\n3) Reforço da competitividade das PME mediante:\n\na) A promoção do espírito empresarial, nomeadamente facilitando a exploração económica de ideias novas e incentivando a criação de novas empresas, designadamente através de viveiros de empresas;\n\nb) O desenvolvimento e a aplicação de novos modelos empresariais para as PME, especialmente no que respeita à internacionalização;\n\nc) A concessão de apoio à criação e ao alargamento de capacidades avançadas de desenvolvimento de produtos e serviços;\n\nd) A concessão de apoio às capacidades das PME de crescerem em mercados regionais, nacionais e internacionais e de empreenderem processos de inovação;\n\n4) Apoio à transição para uma economia de baixo teor de carbono, em todos os setores, mediante:\n\na) A promoção da produção e distribuição de energia proveniente de fontes renováveis;\n\nb) A promoção da eficiência energética e da utilização das energias renováveis nas empresas;\n\nc) A concessão de apoio à eficiência energética, à gestão inteligente da energia e à utilização das energias renováveis nas infraestruturas públicas, nomeadamente nos edifícios públicos, e no setor da habitação;\n\nd) O desenvolvimento e a implantação de sistemas de distribuição inteligente que operem a níveis de baixa e média tensão;\n\ne) A promoção de estratégias de baixo teor de carbono para todos os tipos de territórios, nomeadamente as zonas urbanas, incluindo a promoção da mobilidade urbana multimodal sustentável e medidas de adaptação relevantes para a atenuação;\n\nf) A promoção da investigação, inovação e adoção de tecnologias de baixo teor de carbono;\n\ng) A promoção da cogeração de calor e eletricidade de elevada eficiência baseada na procura de calor útil;\n\n5) Promoção da adaptação às alterações climáticas e prevenção e gestão dos riscos mediante:\n\na) A concessão de apoio ao investimento para a adaptação às alterações climáticas, incluindo abordagens baseadas nos ecossistemas;\n\nb) A promoção de investimentos para fazer face a riscos específicos, assegurar a capacidade de resistência às catástrofes e desenvolver sistemas de gestão de catástrofes;\n\n6) Preservação e proteção do ambiente e promoção da utilização eficiente dos recursos mediante:\n\na) Investimentos no setor dos resíduos para satisfazer os requisitos do acervo ambiental da União e atender às necessidades de investimento identificadas pelos Estados-Membros que vão além desses requisitos;\n\nb) Investimentos no setor da água, para satisfazer os requisitos do acervo ambiental da União e atender às necessidades de investimento identificadas pelos Estados-Membros que vão além desses requisitos;\n\nc) A conservação, proteção, promoção e o desenvolvimento do património natural e cultural;\n\nd) A proteção e reabilitação da biodiversidade e dos solos e promoção de sistemas de serviços ecológicos, nomeadamente através da rede Natura 2000 e de infraestruturas verdes;\n\ne) A adoção de medidas destinadas a melhorar o ambiente urbano, a revitalizar as cidades, recuperar e descontaminar zonas industriais abandonadas, incluindo zonas de reconversão,), a reduzir a poluição do ar e a promover medidas de redução de ruído;\n\nf) A promoção de tecnologias inovadoras para melhorar a proteção ambiental e a utilização eficiente dos recursos nos setores dos resíduos, da água e no que respeita aos solos, e para reduzir a poluição atmosférica;\n\ng) A concessão de apoio à transição industrial para uma economia eficiente em termos de recursos, promovendo o crescimento ecológico, a ecoinovação e a gestão dos indicadores de desempenho ambiental nos setores público e privado;\n\n7) Promoção de transportes sustentáveis e eliminação dos estrangulamentos nas principais infraestruturas das rede, mediante:\n\na) A concessão de apoio a um Espaço Único Europeu de Transporte multimodais, mediante o investimento na RTE-T;\n\nb) A melhoria da mobilidade regional através da ligação dos nós secundários e terciários às infraestruturas de RTE-T, incluindo os nós multimodais;\n\nc) O desenvolvimento e a melhoria de sistemas de transporte ecológicos (nomeadamente de baixo ruído) e baixo teor de carbono, incluindo as vias navegáveis interiores e o transporte marítimo, os portos, as ligações multimodais e as infraestruturas aeroportuárias, a fim de promover a mobilidade regional e local sustentável;\n\nd) O desenvolvimento e a reabilitação de sistemas ferroviários abrangentes, de elevada qualidade e interoperáveis e a promoção de medidas de redução do ruído;\n\ne) A melhoria da eficiência energética e da segurança do abastecimento através do desenvolvimento de sistemas inteligentes de distribuição, armazenamento e transporte de energia e da integração da geração distribuída a partir de fontes renováveis;\n\n8) Promoção da sustentabilidade e da qualidade do emprego e apoio à mobilidade dos trabalhadores mediante:\n\na) A concessão de apoio ao desenvolvimento dos viveiros de empresas e o apoio à atividade por conta própria, às microempresas e à criação de empresas;\n\nb) A concessão de apoio ao crescimento propício ao emprego através do desenvolvimento do potencial endógeno como parte integrante de uma estratégia territorial para zonas específicas, incluindo a conversão de regiões industriais em declínio e desenvolvimento de determinados recursos naturais e culturais e da sua acessibilidade;\n\nc) A concessão de apoio às iniciativas locais de desenvolvimento e ajuda às estruturas que prestam serviços de proximidade para criar emprego, sempre que essas medidas não se enquadrem no âmbito de aplicação do Regulamento (UE) n.º 1304/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/cb5d17fa-7e3a-11ea-aea8-01aa75ed71a1.0020.03/DOC_1#E0001));\n\nd) Investimento na infraestrutura dos serviços de emprego;\n\n9) Promoção da inclusão social e combate à pobreza e à discriminação mediante:\n\na) Investimentos na saúde e nas infraestruturas sociais que contribuam para o desenvolvimento nacional, regional e local, a redução das desigualdades de saúde, a promoção da inclusão social através da melhoria do acesso aos serviços sociais, culturais e recreativos, e da transição dos serviços institucionais para os serviços de base comunitária;\n\nb) A concessão de apoio à regeneração física, económica e social das comunidades desfavorecidas em zonas urbanas e rurais;\n\nc) A concessão de apoio a empresas sociais;\n\nd) Investimentos no contexto de estratégias de desenvolvimento local de base comunitária;\n\ne) O apoio ao acolhimento e à integração socioeconómica de migrantes e refugiados;\n\n10) Investimentos na educação, na formação e na formação profissional para a aquisição de competências e a aprendizagem ao longo da vida através do desenvolvimento das infraestruturas educativas e formativas;\n\n11) Reforço da capacidade institucional das autoridades públicas e das partes interessadas e da eficiência da administração pública, através de ações para reforçar a capacidade institucional e a eficiência das administrações públicas e dos serviços públicos implicados na execução do FEDER, e apoio a ações no âmbito do FSE destinadas a reforçar a capacidade institucional e a eficiência da administração pública."
+  },
+  "1b919c0ca7f15fdd": {
+   "fragment_id": "Artigo 9.º — Rede de desenvolvimento urbano",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Rede de desenvolvimento urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rede de desenvolvimento urbano\n\n1. A Comissão deve estabelecer, nos termos do artigo 58.º do Regulamento (UE) n.º 1303/2013, uma rede de desenvolvimento urbano para promover o reforço das capacidades, a criação de redes e o intercâmbio de experiências ao nível da União entre as autoridades urbanas responsáveis pela execução de estratégias de desenvolvimento urbano sustentável, nos termos do artigo 7.º, n.^os^ 4 e 5, do presente regulamento e as autoridades responsáveis pelas ações inovadoras no domínio do desenvolvimento urbano sustentável, nos termos do artigo 8.º do presente regulamento.\n\n2. As atividades da rede de desenvolvimento urbano devem ser complementares das atividades empreendidas ao abrigo da cooperação inter-regional nos termos do artigo 2.º do Regulamento (UE) n.º 1299/2013 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/cb5d17fa-7e3a-11ea-aea8-01aa75ed71a1.0020.03/DOC_1#E0002))."
+  },
+  "458c5711551ab119": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cb5d17fa-7e3a-11ea-aea8-01aa75ed71a1.0020.03/DOC_1#src.E0001)) Regulamento (UE) n.º 1304/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo ao Fundo Social Europeu e que revoga o Regulamento (CE) n.º 1081/1999 do Conselho (Ver página 470 do presente Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cb5d17fa-7e3a-11ea-aea8-01aa75ed71a1.0020.03/DOC_1#src.E0002)) Regulamento (UE) n.º 1299/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece disposições específicas para o apoio do Fundo Europeu de Desenvolvimento Regional ao objetivo de cooperação territorial europeia (Ver página 259 do presente Jornal Oficial)."
+  },
+  "11081d18f679501f": {
+   "fragment_id": "Artigo 3.º — Âmbito do apoio do FEDER",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Âmbito do apoio do FEDER",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito do apoio do FEDER\n\n1. O FEDER apoia as seguintes atividades, a fim de contribuir para as prioridades de investimento previstas no artigo 5.º:\n\na) Investimento produtivo que contribua para criar e manter empregos sustentáveis, através de ajudas diretas ao investimento, nas PME;\n\nb) Investimento produtivo, independentemente da dimensão da empresa em causa, que contribua para as prioridades de investimento estabelecidas no artigo 5.º, pontos 1 e 4, e, caso esse investimento envolva cooperação entre grandes empresas e PME, no artigo 5.º, ponto 2;\n\nc) Investimentos nas infraestruturas necessárias para prestar serviços básicos aos cidadãos, nos domínios da energia, do ambiente, dos transportes e das TIC;\n\nd) Investimentos em infraestruturas sociais, de saúde, de investigação, de inovação, empresariais e educativas;\n\ne) Investimentos no desenvolvimento do potencial endógeno, através do investimento fixo em equipamentos e infraestruturas, incluindo infraestruturas culturais e de turismo sustentável, prestação de serviços a empresas, apoio aos organismos de investigação e inovação e investimento em tecnologias e investigação aplicada em empresas;\n\nf) A criação de redes, a cooperação e o intercâmbio de experiências entre as autoridades competentes regionais, locais, urbanas e outras autoridades públicas, parceiros económicos e sociais e organismos representativos da sociedade civil relevantes referidos no artigo 5.º, n.º 1, do Regulamento (UE) n.º 1303/2013, estudos, ações preparatórias e reforço das capacidades.\n\nO investimento em infraestruturas culturais e de turismo sustentável a que se refere o primeiro parágrafo, alínea e), do presente número deve ser considerado de pequena escala e elegível para apoio, se a contribuição do FEDER para o funcionamento não for superior a 10 000 000 EUR. Esse limite máximo aumenta para 20 000 000 EUR caso a infraestrutura seja considerada património cultural na aceção do artigo 1.º da Convenção da UNESCO, de 1972, para a Proteção do Património Mundial, Cultural e Natural.\n\nAlém disso, o FEDER pode apoiar o financiamento de fundo de maneio das PME, se necessário como medida temporária para dar uma resposta eficaz a uma crise de saúde pública.\n\n2. No âmbito do objetivo da cooperação territorial europeia, o FEDER pode igualmente apoiar a partilha de instalações e recursos humanos, e todos os tipos de infraestruturas transfronteiriças em todas as regiões.\n\n3. O FEDER não apoia:\n\na) A desativação e a construção de centrais nucleares;\n\nb) Investimentos destinados a reduzir as emissões de gases com efeito de estufa provenientes de atividades abrangidas pelo anexo I da Diretiva 2003/87/CE;\n\nc) A produção, transformação e comercialização de tabaco e de produtos do tabaco;\n\nd) As empresas em dificuldade, na aceção das regras da União sobre os auxílios estatais; as empresas que recebem apoio conforme com o Quadro Temporário relativo às medidas de auxílio estatal ([^1^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0001)) ou os Regulamentos (UE) n.º 1407/2013 ([^2^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0002)), (UE) n.º 1408/2013 ([^3^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0003)) e (UE) n.º 717/2014 ([^4^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0004)) não são consideradas empresas em dificuldade para efeitos da presente alínea;\n\ne) Investimentos em infraestruturas aeroportuárias, a não ser que estejam relacionadas com a proteção ambiental ou que sejam acompanhadas por investimentos necessários para atenuar ou reduzir o seu impacto ambiental negativo."
+  },
+  "d3923d5932cdb59e": {
+   "fragment_id": "Artigo 5.º — Prioridades de investimento",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Prioridades de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prioridades de investimento\n\nO FEDER apoia as seguintes prioridades de investimento no âmbito dos objetivos temáticos previstos no artigo 9.º, primeiro parágrafo, do Regulamento (UE) n.º 1303/2013, de acordo com as necessidades e potencialidades de crescimento referidas no artigo 15.º, n.º 1, alínea a), subalínea i), do referido regulamento e estabelecidas no acordo de parceria:\n\n1) Reforço da investigação, do desenvolvimento tecnológico e da inovação mediante:\n\na) O reforço da infraestrutura de investigação e inovação (I&I) e da capacidade de desenvolvimento da excelência na I&I, e a promoção de centros de competência, nomeadamente os de interesse europeu;\n\nb) A promoção do investimento das empresas na I&I, o desenvolvimento de ligações e sinergias entre empresas, centros de investigação e desenvolvimento e o setor do ensino superior, em especial a promoção do investimento no desenvolvimento de produtos e serviços, na transferência de tecnologia, na inovação social, na ecoinovação, em aplicações de interesse público, no estímulo da procura, em redes, *clusters* e na inovação aberta através de especialização inteligente, e o apoio à investigação tecnológica e aplicada, linhas-piloto, ações de validação precoce dos produtos, capacidades avançadas de produção e primeira produção, em especial no que toca às tecnologias facilitadoras essenciais e à difusão de tecnologias de interesse geral, bem como o fomento do investimento necessário para reforçar as capacidades de resposta a situações de crise nos serviços de saúde;\n\n2) Melhoria do acesso às TIC, bem como a sua utilização e a sua qualidade mediante:\n\na) A implantação alargada da banda larga e a implantação das redes de alta velocidade, e o apoio à adoção das tecnologias emergentes e das redes para a economia digital;\n\nb) O desenvolvimento de produtos e serviços TIC, comércio eletrónico e fomento da procura de competências TIC;\n\nc) O reforço das aplicações TIC na administração pública em linha, aprendizagem em linha, infoinclusão, cultura em linha e saúde em linha.\n\n3) Reforço da competitividade das PME mediante:\n\na) A promoção do espírito empresarial, nomeadamente facilitando a exploração económica de ideias novas e incentivando a criação de novas empresas, designadamente através de viveiros de empresas;\n\nb) O desenvolvimento e a aplicação de novos modelos empresariais para as PME, especialmente no que respeita à internacionalização;\n\nc) A concessão de apoio à criação e ao alargamento de capacidades avançadas de desenvolvimento de produtos e serviços;\n\nd) A concessão de apoio às capacidades das PME de crescerem em mercados regionais, nacionais e internacionais e de empreenderem processos de inovação;\n\n4) Apoio à transição para uma economia de baixo teor de carbono, em todos os setores, mediante:\n\na) A promoção da produção e distribuição de energia proveniente de fontes renováveis;\n\nb) A promoção da eficiência energética e da utilização das energias renováveis nas empresas;\n\nc) A concessão de apoio à eficiência energética, à gestão inteligente da energia e à utilização das energias renováveis nas infraestruturas públicas, nomeadamente nos edifícios públicos, e no setor da habitação;\n\nd) O desenvolvimento e a implantação de sistemas de distribuição inteligente que operem a níveis de baixa e média tensão;\n\ne) A promoção de estratégias de baixo teor de carbono para todos os tipos de territórios, nomeadamente as zonas urbanas, incluindo a promoção da mobilidade urbana multimodal sustentável e medidas de adaptação relevantes para a atenuação;\n\nf) A promoção da investigação, inovação e adoção de tecnologias de baixo teor de carbono;\n\ng) A promoção da cogeração de calor e eletricidade de elevada eficiência baseada na procura de calor útil;\n\n5) Promoção da adaptação às alterações climáticas e prevenção e gestão dos riscos mediante:\n\na) A concessão de apoio ao investimento para a adaptação às alterações climáticas, incluindo abordagens baseadas nos ecossistemas;\n\nb) A promoção de investimentos para fazer face a riscos específicos, assegurar a capacidade de resistência às catástrofes e desenvolver sistemas de gestão de catástrofes;\n\n6) Preservação e proteção do ambiente e promoção da utilização eficiente dos recursos mediante:\n\na) Investimentos no setor dos resíduos para satisfazer os requisitos do acervo ambiental da União e atender às necessidades de investimento identificadas pelos Estados-Membros que vão além desses requisitos;\n\nb) Investimentos no setor da água, para satisfazer os requisitos do acervo ambiental da União e atender às necessidades de investimento identificadas pelos Estados-Membros que vão além desses requisitos;\n\nc) A conservação, proteção, promoção e o desenvolvimento do património natural e cultural;\n\nd) A proteção e reabilitação da biodiversidade e dos solos e promoção de sistemas de serviços ecológicos, nomeadamente através da rede Natura 2000 e de infraestruturas verdes;\n\ne) A adoção de medidas destinadas a melhorar o ambiente urbano, a revitalizar as cidades, recuperar e descontaminar zonas industriais abandonadas, incluindo zonas de reconversão,), a reduzir a poluição do ar e a promover medidas de redução de ruído;\n\nf) A promoção de tecnologias inovadoras para melhorar a proteção ambiental e a utilização eficiente dos recursos nos setores dos resíduos, da água e no que respeita aos solos, e para reduzir a poluição atmosférica;\n\ng) A concessão de apoio à transição industrial para uma economia eficiente em termos de recursos, promovendo o crescimento ecológico, a ecoinovação e a gestão dos indicadores de desempenho ambiental nos setores público e privado;\n\n7) Promoção de transportes sustentáveis e eliminação dos estrangulamentos nas principais infraestruturas das rede, mediante:\n\na) A concessão de apoio a um Espaço Único Europeu de Transporte multimodais, mediante o investimento na RTE-T;\n\nb) A melhoria da mobilidade regional através da ligação dos nós secundários e terciários às infraestruturas de RTE-T, incluindo os nós multimodais;\n\nc) O desenvolvimento e a melhoria de sistemas de transporte ecológicos (nomeadamente de baixo ruído) e baixo teor de carbono, incluindo as vias navegáveis interiores e o transporte marítimo, os portos, as ligações multimodais e as infraestruturas aeroportuárias, a fim de promover a mobilidade regional e local sustentável;\n\nd) O desenvolvimento e a reabilitação de sistemas ferroviários abrangentes, de elevada qualidade e interoperáveis e a promoção de medidas de redução do ruído;\n\ne) A melhoria da eficiência energética e da segurança do abastecimento através do desenvolvimento de sistemas inteligentes de distribuição, armazenamento e transporte de energia e da integração da geração distribuída a partir de fontes renováveis;\n\n8) Promoção da sustentabilidade e da qualidade do emprego e apoio à mobilidade dos trabalhadores mediante:\n\na) A concessão de apoio ao desenvolvimento dos viveiros de empresas e o apoio à atividade por conta própria, às microempresas e à criação de empresas;\n\nb) A concessão de apoio ao crescimento propício ao emprego através do desenvolvimento do potencial endógeno como parte integrante de uma estratégia territorial para zonas específicas, incluindo a conversão de regiões industriais em declínio e desenvolvimento de determinados recursos naturais e culturais e da sua acessibilidade;\n\nc) A concessão de apoio às iniciativas locais de desenvolvimento e ajuda às estruturas que prestam serviços de proximidade para criar emprego, sempre que essas medidas não se enquadrem no âmbito de aplicação do Regulamento (UE) n.º 1304/2013 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0005));\n\nd) Investimento na infraestrutura dos serviços de emprego;\n\n9) Promoção da inclusão social e combate à pobreza e à discriminação mediante:\n\na) Investimentos na saúde e nas infraestruturas sociais que contribuam para o desenvolvimento nacional, regional e local, a redução das desigualdades de saúde, a promoção da inclusão social através da melhoria do acesso aos serviços sociais, culturais e recreativos, e da transição dos serviços institucionais para os serviços de base comunitária;\n\nb) A concessão de apoio à regeneração física, económica e social das comunidades desfavorecidas em zonas urbanas e rurais;\n\nc) A concessão de apoio a empresas sociais;\n\nd) Investimentos no contexto de estratégias de desenvolvimento local de base comunitária;\n\ne) O apoio ao acolhimento e à integração socioeconómica de migrantes e refugiados;\n\n10) Investimentos na educação, na formação e na formação profissional para a aquisição de competências e a aprendizagem ao longo da vida através do desenvolvimento das infraestruturas educativas e formativas;\n\n11) Reforço da capacidade institucional das autoridades públicas e das partes interessadas e da eficiência da administração pública, através de ações para reforçar a capacidade institucional e a eficiência das administrações públicas e dos serviços públicos implicados na execução do FEDER, e apoio a ações no âmbito do FSE destinadas a reforçar a capacidade institucional e a eficiência da administração pública."
+  },
+  "1735daab5fc7fb69": {
+   "fragment_id": "Artigo 9.º — Rede de desenvolvimento urbano",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Rede de desenvolvimento urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Rede de desenvolvimento urbano\n\n1. A Comissão deve estabelecer, nos termos do artigo 58.º do Regulamento (UE) n.º 1303/2013, uma rede de desenvolvimento urbano para promover o reforço das capacidades, a criação de redes e o intercâmbio de experiências ao nível da União entre as autoridades urbanas responsáveis pela execução de estratégias de desenvolvimento urbano sustentável, nos termos do artigo 7.º, n.^os^ 4 e 5, do presente regulamento e as autoridades responsáveis pelas ações inovadoras no domínio do desenvolvimento urbano sustentável, nos termos do artigo 8.º do presente regulamento.\n\n2. As atividades da rede de desenvolvimento urbano devem ser complementares das atividades empreendidas ao abrigo da cooperação inter-regional nos termos do artigo 2.º do Regulamento (UE) n.º 1299/2013 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#E0006))."
+  },
+  "b36de37d63a05ed7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#src.E0001)) JO C 91 I de 20.3.2020, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#src.E0002)) Regulamento (UE) n.º 1407/2013 da Comissão, de 18 de dezembro de 2013, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios *de minimis* (JO L 352 de 24.12.2013, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#src.E0003)) Regulamento (UE) n.º 1408/2013 da Comissão, de 18 de dezembro de 2013, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios *de minimis* no setor agrícola (JO L 352 de 24.12.2013, p. 9).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#src.E0004)) Regulamento (UE) n.º 717/2014 da Comissão, de 27 de junho de 2014, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios *de minimis* no setor das pescas e da aquicultura (JO L 190 de 28.6.2014, p. 45).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#src.E0005)) Regulamento (UE) n.º 1304/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, relativo ao Fundo Social Europeu e que revoga o Regulamento (CE) n.º 1081/1999 do Conselho (Ver página 470 do presente Jornal Oficial).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/b5725744-90ae-11ea-aac4-01aa75ed71a1.0020.03/DOC_1#src.E0006)) Regulamento (UE) n.º 1299/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece disposições específicas para o apoio do Fundo Europeu de Desenvolvimento Regional ao objetivo de cooperação territorial europeia (Ver página 259 do presente Jornal Oficial)."
+  }
+ }
+}

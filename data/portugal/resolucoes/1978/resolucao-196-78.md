@@ -1,0 +1,234 @@
+---
+schema_version: '1.0'
+id: pt:dre:325739:por
+title: Resolução n.º 196/78
+short_title: null
+summary: Determina a cessação da intervenção do Estado nas empresas Algarvesol - Empreendimentos Turísticos, S. A. R. L.,
+  e Quarteirasol - Sociedade Turística, S. A. R. L.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 196/78
+official_date: null
+publication_date: '1978-11-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 266/1978, Série I de 1978-11-18
+  number: '266'
+  series: I
+  supplement: null
+  pages: 2424 - 2426
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/11/26600/24242426.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '325739'
+  dre_path: /dr/detalhe/resolucao/196-1978-325739
+  internal: pt:dre:325739:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/196-1978-325739
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/196-1978-325739
+  consolidated_url: null
+  retrieved_at: '2026-10-23T10:13:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bbf110bcf4a0500b182cddbca2b91883f2158111bdbeb732da0d438e75276331
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T10:13:08Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa Privada
+- Infraestrutura Turística
+- Intervenção do Estado
+relationships:
+- type: amended_by
+  target: pt:dre:402742:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:382004:por
+  label: "Prorrogado o prazo previsto no n.º 5 e o regime estabelecido no n.º 8 do presente diploma, pela RES.122/79.24.04.1979.PCM,\
+    \ DR.IS [95] de 24.04.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/122-1979-382004
+  date: '1979-04-24'
+- type: amended_by
+  target: pt:dre:366579:por
+  label: "Prorrogado o prazo fixado no nº 8, pela RES.347/79.1979.11.16.PCM, DR.IS de 11/DEZ/1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/347-1979-366579
+  date: '1979-11-16'
+- type: amended_by
+  target: pt:dre:475311:por
+  label: "Prorrogado o prazo fixado no n.º 8 pela RES.162/80.09.05.1980.PCM, DR.IS [107] de 09.05.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/162-1980-475311
+  date: '1980-05-09'
+- type: amended_by
+  target: pt:dre:470663:por
+  label: "Prorrogado até à data limite de 15.11.1980, com efeitos a partir de 01.07.1980, o prazo previsto no n.º 8 do presente\
+    \ diploma, pela RES.284/80.12.08.1980.PCM, DR.IS [185] de 12.08.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/284-1980-470663
+  date: '1980-08-12'
+- type: amended_by
+  target: pt:dre:389389:por
+  label: "Prorrogado o prazo previsto no n.º 8 pela RES.62/81.31.03.1981.PCM, DR.IS [75] de 31.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/62-1981-389389
+  date: '1981-03-31'
+- type: amended_by
+  target: pt:dre:402742:por
+  label: "Prorrogado o prazo previsto no n.º 8 do presente diploma, com a redacção constante das Resoluções 347/79, de 16\
+    \ de Novembro e 62/81 de 31 de Março, pela RES.206/81.20.08.1981.PCM, DR.IS [200-Supl] de 01.09.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao/206-1981-402742
+  date: '1981-08-20'
+- type: cites
+  target: pt:dre:139729:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:391058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:426914:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T10:13:08Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 196/78
+
+A intervenção do Estado nas sociedades Algarvesol - Empreendimentos Turísticos, S. A. R. L., e Quarteirasol - Sociedade Turística, S. A. R. L., foi determinada por resolução do Conselho de Ministros de 28 de Agosto de 1975, publicada no Diário do Governo, 1.ª série, n.º 212, de 13 de Setembro do mesmo ano.
+
+Estas sociedades, que apresentam potencialidades no campo turístico e paraturístico dignas de realce, têm, contudo, vindo a degradar-se progressivamente devido a factores desfavoráveis, que, em relação às mesmas, tanto se podem caracterizar de índole endógena como exógena.
+
+Assim sendo, e considerando que:
+
+Para os efeitos consignados no [Decreto-Lei n.º 907/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/907-1976-391058), de 31 de Dezembro, foi nomeada, por despacho conjunto dos Ministérios do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo, de 15 de Março de 1977, publicado no Diário da República, 2.ª série, de 29 do mesmo mês, uma comissão interministerial, cuja constituição foi sucessivamente alterada de harmonia com os despachos conjuntos dos mesmos Ministérios, publicados no Diário da República, 2.ª série, de 10 de Maio e 21 de Julho de 1977;
+
+A supracitada comissão interministerial elaborou, nos termos daquele diploma, relatório sobre as referidas sociedades, visando a cessação da intervenção do Estado nas mesmas, no qual foram levadas em linha de conta, na medida do possível, as propostas apresentadas nos frequentes diálogos havidos com as partes interessadas, designadamente com os corpos gerentes suspensos, os trabalhadores e os investidores;
+
+São favoráveis as perspectivas de desenvolvimento do turismo nacional, com reflexos na expansão das actividades imobiliária-turística e construção civil;
+
+Se torna imperioso relançar a actividade das empresas para benefício da economia nacional e para a defesa dos interesses envolvidos, especialmente os do Estado, da banca, dos investidores e dos trabalhadores;
+
+É necessário acabar os investimentos em curso, de modo a reequilibrar as estruturas de funcionamento e melhorar a oferta hoteleira;
+
+É indispensável relançar a actividade imobiliária-turística, principal determinante da recuperação económica das sociedades, estabelecendo planos de médio ou longo prazo;
+
+É necessário melhorar os esquemas de organização, estabelecendo sistemas de contrôle de gestão e de fiscalização com vista à redução de custos de exploração, à obtenção de melhor imagem e à contribuição para a concretização de uma adequada e eficaz gestão;
+
+É necessário dar nova estrutura ao órgão de gestão das sociedades, dotando-o com gestores profissionais de idoneidade reconhecida, de modo a satisfazer determinados requisitos, nomeadamente elevado grau de especialização, distribuição por pelouros bem definidos e garantia da concretização dos planos preconizados;
+
+É urgente, para satisfação dos objectivos mencionados, que a gestão das empresas deixe de ser transitória e incompleta para adquirir características de continuidade e plenitude compatível com a dinâmica da economia das empresas, permitindo, desse modo, motivar os trabalhadores, melhorar o aproveitamento dos recursos humanos existentes, suprimindo custos complementares que a sua subutilização provoca, e admitir os quadros indispensáveis;
+
+É imperioso o apoio financeiro intercalar para conclusão da construção dos investimentos em curso e para relançamento da actividade de construção civil e imobiliária-turística como base de recuperação económica e financeira das empresas até à definição de um plano de fomento das suas actividades com vista à sua viabilização;
+
+Se torna, ainda, necessário manter o sistema de moratória que se tem praticado em relação às responsabilidades decorrentes do passivo existente, até à determinação das condições de viabilização das sociedades;
+
+Os titulares das sociedades se declararam dispostos a retomar a sua gestão, desde que lhes sejam proporcionados os apoios adequados legalmente admitidos, designadamente na celebração de um contrato de viabilização, nos termos do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e demais legislação subsequente, e na concessão do crédito financeiro transitório que, devidamente fundamentado, se justificar até à concretização do aludido contrato.
+
+O Conselho de Ministros, reunido em 2 de Novembro de 1978, resolveu:
+
+1 - Determinar a cessação da intervenção do Estado, com efeitos a partir da publicação da presente resolução, nas sociedades:
+
+Algarvesol - Empreendimentos Turísticos, S. A. R. L.;
+
+Quarteirasol - Sociedade Turística, S. A. R. L.
+
+2 - Fazer cessar, na mesma data, em consequência do disposto em 1, as funções das comissões administrativas em exercício na Algarvesol e na Quarteirasol, nomeadas respectivamente por despacho do Ministro do Comércio Externo e Turismo de 12 de Janeiro de 1976, publicado no Diário do Governo, 2.ª série, n.º 24, de 19 do mesmo mês, e pela Resolução do Conselho de Ministros n.º 60/78, de 10 de Abril, publicada no Diário da República, 1.ª série, n.º 99, de 29 do mesmo mês, as quais ficam, ipso facto, dissolvidas.
+
+3 - Levantar a suspensão dos corpos sociais das sociedades indicadas em 1, devendo:
+
+O conselho de administração da Algarvesol ser imediatamente reestruturado nas condições prescritas em 6.2, sendo os representantes dos accionistas titulares das acções da série A designados pelo Ministério da Tutela para exercício de funções até à realização da assembleia referida no n.º 6, a fim de assegurar que o corpo de gestão seja dotado com gestores profissionais de idoneidade reconhecida, de modo a assegurar elevado grau de especialização e garantia de concretização dos objectivos preconizados;
+
+O conselho fiscal de ambas as sociedades ser também imediatamente reestruturado, sendo as suas funções exercidas, até à realização da assembleia referida no n.º 6, pelas entidades previstas em 6.5.
+
+4 - Instituir imediatamente uma auditoria financeira externa, a levar a cabo por entidade estranha às referidas sociedades, a designar pelo Ministério da Tutela, a qual ficará a assegurar os conselhos fiscais, perante quem responderá e a quem apresentará os resultados da sua actividade, até à oportunidade em que, por alteração dos respectivos estatutos, as sociedades cumpram a obrigação prevista em 6.7.
+
+5 - Fixar o prazo até 28 de Fevereiro de 1979 para os corpos sociais das sociedades referidas em 1 apresentarem à instituição bancária competente todos os elementos necessários à celebração de um contrato de viabilização, nos termos do disposto no [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, e demais legislação aplicável.
+
+6 - Obrigar ambas as sociedades indicadas em 1 a proceder, no prazo de sessenta dias, a contar da data da publicação desta resolução, à alteração dos respectivos estatutos, neles incluindo, obrigatoriamente, as seguintes modificações:
+
+6.1 - Divisão das acções da Algarvesol nas séries A e B, correspondendo à série A as acções com os números 20951 a 25950, tituladas por 250 títulos de 20 acções, e os n.os 38751 a 48750, tituladas por 200 títulos de 50 acções, e à série B as acções restantes.
+
+6.2 - O conselho de administração da Algarvesol, a eleger trienalmente, será composto obrigatoriamente por dois representantes dos accionistas titulares das acções da série A e um representante dos accionistas titulares das acções da série B, que será o presidente, mas não terá voto de qualidade em caso de empate.
+
+6.3 - Os representantes dos accionistas da Algarvesol titulares das acções da série A a eleger para o conselho de administração deverão ter obrigatoriamente o consenso dos três membros do conselho fiscal designados em 6.5.
+
+6.4 - As futuras alterações dos estatutos e aumentos de capital social da Algarvesol, até ao cumprimento das obrigações directamente decorrentes do contrato de viabilização, só poderão ser deliberadas com o acordo de mais de 85% dos votos dos accionistas presentes ou devidamente representados e com parecer favorável do conselho fiscal.
+
+6.5 - A reestruturação do conselho fiscal, em termos de um dos seus membros efectivos até 1980 vir a ser designado pelo Ministério da Tutela, em representação do Estado, outro dos seus membros efectivos, até ao cumprimento das obrigações directamente decorrentes do contrato de viabilização, vir a ser designado pelo Ministro das Finanças, em representação da banca credora, e um terceiro membro efectivo vir a ser designado pelos «investidores».
+
+6.6 - Para os efeitos do número anterior são consideradas «investidores» as entidades:
+
+a) Titulares de contratos que lhes dêm direito à ocupação temporária de qualquer parcela de um empreendimento turístico-urbanístico, ainda que tal direito de ocupação possa ser substituído pela percepção de um juro ou outro tipo de prestação pecuniária; ou
+
+b) Titulares de contratos de promessa de compra e venda ainda não executados, haja ou não concomitante afectação da coisa objecto da promessa à exploração por alguma das sociedades; ou
+
+c) Titulares da propriedade de qualquer parcela de um empreendimento turístico-urbanístico cuja utilização esteja afecta à exploração da actividade de qualquer das sociedades.
+
+6.7 - Instituir uma auditoria financeira externa, a levar a cabo por entidade independente, estranha às sociedades, a contratar pelo conselho fiscal, mediante parecer favorável do Ministro da Tutela, a qual ficará a assessorar o mesmo conselho fiscal, perante quem responderá e a quem apresentará os resultados da sua actividade.
+
+6.8 - Autorização para as sociedades emitirem obrigações, para subscrição pública, tendo em vista as operações de saneamento financeiro que se mostrem necessárias, independentemente dos limites do artigo 196.º do Código Comercial.
+
+7 - Estabelecer que, para efeito do disposto nesta resolução, seja convocada uma assembleia geral extraordinária em cada uma das sociedades referidas em 1, com a finalidade primordial de aprovar as alterações estatutárias referidas no número anterior, eleger novos corpos sociais, se for caso disso, e autorizar as sociedades a proceder a todas as operações de fusão, cisão, transformação e aumento de capital, as quais deverão estar efectivadas aquando da celebração do contrato de viabilização.
+
+8 - Estabelecer que, até à celebração do contrato de viabilização ou até 30 de Abril de 1979, se entretanto tal contrato não for celebrado, não seja exigido das sociedades referidas em 1 o pagamento das dívidas e respectivos acréscimos legais que se encontrem vencidos à data da desintervenção ao Estado, autarquias locais, previdência social e banca nacionalizada, salvo se aquelas sociedades puderem dispor, sem prejuízo do seu regular funcionamento, de fundos suficientes para efectuar a sua liquidação. Em qualquer caso, o não pagamento será sempre justificado por escrito junto da entidade credora, com apresentação do calendário de liquidação que a empresa possa cumprir, sendo as dívidas vencidas perante a banca nacionalizada sempre tituladas.
+
+9 - Determinar que os corpos sociais da Algarvesol e da Quarteirasol deverão, até 31 de Janeiro de 1979, negociar com os investidores um esquema de regularização da situação destes perante as mesmas sociedades, cujos termos e consequências deverão reflectir-se integralmente no contrato de viabilização.
+
+10 - Estabelecer que o sistema bancário conceda o apoio financeiro transitório, cuja necessidade seja justificada, às sociedades identificadas em 1, até à decisão sobre a sua viabilização, nas seguintes condições:
+
+a) Concessão de apoio financeiro transitório à exploração hoteleira com uma prestação imediata de 600 contos e financiamento posterior até ao montante de mais 10000 contos, acrescido dos respectivos encargos financeiros, de modo a garantir o pleno funcionamento das empresas em causa, não sendo permitida a cobertura de dívidas anteriores através do apoio financeiro transitório;
+
+b) Concessão de financiamento para acabamento dos investimentos em curso com interesse para a época alta de 1979 e liquidação de vencimentos em atraso do pessoal da construção civil, com uma prestação imediata de 3500 contos e entregas posteriores até ao montante global de 26000 contos, a justificar por orçamentos mensais de tesouraria para investimentos, acrescidos dos respectivos encargos financeiros.
+
+11 - As operações de financiamento que se integram no apoio financeiro transitório referido no número anterior serão garantidas por hipotecas sobre os bens das empresas, sobre as obras que venham a ser realizadas ou por quaisquer outras garantias reais ou pessoais aceites pelas entidades financiadoras.
+
+12 - Manter, nos termos do n.º 3 do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), o regime dos artigos 12.º, 13.º e 14.º do mesmo diploma relativamente a todas as sociedades indicadas em 1, até à efectiva outorga dos contratos de viabilização referidos em 5.
+
+13 - Proibir o despedimento de quaisquer trabalhadores das referidas sociedades com fundamento em factos ocorridos até à cessação da intervenção do Estado, devendo ser assegurados os postos de trabalho, sem prejuízo das medidas previstas na legislação em vigor.
+
+14 - Determinar que, enquanto se mantiver a existência de avales ou quaisquer garantias por parte do Estado a favor das empresas referidas em 1, a venda ou alienação, a qualquer título, dos bens imóveis propriedade das mesmas, bem como a sua oneração, depende da autorização do Ministério da Tutela, que avaliará a inserção desses actos na gestão corrente da empresa, pedindo, sempre que considere necessário, o parecer do órgão fiscalizador.
+
+15 - Para efeitos da aplicação das medidas referidas na alínea e) do n.º 1 do artigo 24.º do [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, a instituição de crédito maior credora, expressa e justificadamente, deverá declarar perante os Ministérios das Finanças e do Plano e do Comércio e Turismo a impossibilidade de celebração dos contratos de viabilização, que deverão considerar tanto os aspectos de saneamento económico-financeiro das empresas como o desenvolvimento integrado das suas actividades futuras.
+
+Presidência do Conselho de Ministros, 2 de Novembro de 1978. - O Primeiro-Ministro, Alfredo Jorge Nobre da Costa.

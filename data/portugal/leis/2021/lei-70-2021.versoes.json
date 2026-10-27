@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:173846787:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-185715794",
+ "dre_path": "/dr/detalhe/lei/70-2021-173846787",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "185764575",
+    "185764576",
+    "185764577",
+    "185764578",
+    "185764579"
+   ]
+  },
+  {
+   "date": "2022-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185224662:por",
+     "title": "Lei n.º 12/2022",
+     "published": "2022-06-27",
+     "dre_path": "/dr/detalhe/lei/12-2022-185224662"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "185764575",
+    "185764576",
+    "185764577",
+    "185764581",
+    "185764579",
+    "185764580"
+   ]
+  }
+ ],
+ "fragments": {
+  "185764575": {
+   "fragment_id": "185715795",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 70/2021\n\nde 4 de novembro\n\nSumário: Isenção de imposto do selo sobre as operações de reestruturação ou refinanciamento do crédito em moratória.\n\nIsenção de imposto do selo sobre as operações de reestruturação ou refinanciamento do crédito em moratória\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "185764576": {
+   "fragment_id": "185715796",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece uma isenção de imposto do selo sobre as operações de reestruturação ou refinanciamento dos créditos em moratória, nos casos em que a titularidade do encargo do imposto seja de entidade beneficiária da moratória legal prevista no Decreto-Lei n.º 10-J/2020, de 26 de março."
+  },
+  "185764577": {
+   "fragment_id": "185715797",
+   "type": 11,
+   "heading": "Artigo 2.º — Isenção de imposto do selo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Isenção de imposto do selo\n\nSão isentos de imposto do selo os factos previstos, quando aplicável, nas verbas 10 e 17.1 da tabela geral anexa ao Código do Imposto do Selo, aprovado em anexo à Lei n.º 150/99, de 11 de setembro, no âmbito de operações de reestruturação ou refinanciamento do crédito em moratória, com exceção de empréstimo adicional para cobrir necessidades de liquidez, nos casos em que a titularidade do encargo do imposto seja de entidade beneficiária da moratória legal prevista no Decreto-Lei n.º 10-J/2020, de 26 de março."
+  },
+  "185764578": {
+   "fragment_id": "185715798",
+   "type": 11,
+   "heading": "Artigo 3.º — Factos tributários relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Factos tributários relevantes\n\nA isenção prevista no artigo anterior aplica-se aos factos tributários ocorridos após 14 de setembro de 2021."
+  },
+  "185764579": {
+   "fragment_id": "185715799",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "185764581": {
+   "fragment_id": "185715798",
+   "type": 11,
+   "heading": "Artigo 3.º — Factos tributários relevantes",
+   "in_force_from": "2022-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 293.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28"
+   ],
+   "markdown": "###### Artigo 3.º — Factos tributários relevantes\n\nA isenção prevista no artigo anterior aplica-se aos factos tributários ocorridos após 14 de setembro de 2021 e verificados até:\n\na) 31 de dezembro de 2022; ou\n\nb) 31 de março de 2023, no caso de operações cujo capital seja exclusivamente pago no final do contrato.\n\n> Alterado pelo/a Artigo 293.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28"
+  },
+  "185764580": {
+   "fragment_id": "185715800",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 22 de outubro de 2021.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 26 de outubro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 29 de outubro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114699503"
+  }
+ }
+}

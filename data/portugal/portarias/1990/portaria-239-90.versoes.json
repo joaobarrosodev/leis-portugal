@@ -1,0 +1,57 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:332971:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1990-1053502293",
+ "dre_path": "/dr/detalhe/portaria/239-1990-332971",
+ "source_lastmod": "2026-07-27",
+ "versions": [
+  {
+   "date": "1990-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:182459:por",
+     "title": "Declaração",
+     "published": "1990-04-30",
+     "dre_path": "/dr/detalhe/declaracao/1990-182459"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "1152104375",
+    "1054881075",
+    "1054881275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1152104375": {
+   "fragment_id": "1054880775",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "1990-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182459), em vigor a partir de 1990-04-30."
+   ],
+   "markdown": "O Decreto-Lei n.º 141/88, de 22 de Abril, prevê na alínea c) do n.º 2 do artigo 5.º que o Governo fixe, através de portaria do Ministério das Obras Públicas, Transportes e Comunicações e ouvido o Ministério do Emprego e da Segurança Social, o preço de habitação por metro quadrado e por zonas indispensável ao cálculo do valor actualizado do fogo.\n\nIgualmente se prevê nos artigos 6.º e 7.º daquele diploma que o Governo, através de portaria do Ministério das Obras Públicas, Transportes e Comunicações, fixe a forma de cálculo do preço de venda dos terrenos destinados a programas de habitação social, bem como de aquisição de terrenos às autarquias locais em que se encontram implantados empreendimentos do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) e do Instituto de Gestão Financeira da Segurança Social (IGFSS).\n\nA Portaria n.º 582/88, de 23 de Agosto, definiu para o ano de 1988 os parâmetros e as formas de cálculo indispensáveis à aplicação do Decreto-Lei n.º 141/88, de 22 de Abril.\n\nAs disposições previstas na referida portaria foram mantidas em vigor no ano de 1989, face ao curto espaço de tempo da sua vigência, pela Portaria n.º 284/89, de 15 de Abril.\n\nHá que proceder, portanto, à actualização de alguns dos parâmetros definidos na referida portaria para o ano de 1990.\n\nAssim:\n\nManda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:\n\n1.º É fixado, para vigorar em 1990, o Pc a que se refere a alínea c) do n.º 2 do artigo 5.º do Decreto-Lei n.º 141/88, de 22 de Abril, consoante as zonas do País constantes do quadro anexo, em:\n\nZona I: 46800$00 por metro quadrado de área útil;\n\nZona II: 40800$00 por metro quadrado de área útil;\n\nZona III: 37000$00 por metro quadrado de área útil.\n\n2.º O preço da venda dos terrenos para programas de habitação social a que se refere o artigo 6.º do Decreto-Lei n.º 141/88, de 22 de Abril, é calculado pela aplicação da fórmula seguinte:\n\nPv = p x Cf x Au x Pc\n\nem que:\n\np = variará entre 0,07 e 0,15, por forma directamente proporcional à percentagem de infra-estruturas executadas;\n\nCf = factor relativo ao nível de conforto do fogo, conforme definido no artigo 5.º do Decreto-Lei n.º 13/86, de 23 de Janeiro. Tratando-se de áreas não habitacionais não incluídas nos fogos, este factor terá o valor 1,1;\n\nAu = área útil, determinada nos termos do Regulamento Geral das Edificações Urbanas (RGEU), quer para a parte habitacional, quer para a não habitacional, excluindo a área das garagens quando estas estejam incluídas nos fogos;\n\nPc = 50600$00 por metro quadrado de área útil para vigorar em 1990.\n\n3.º Para efeitos do disposto no n.º 1 do artigo 7.º do Decreto-Lei n.º 141/88, de 22 de Abril, o preço a pagar pelo IGAPHE ou pelo IGFSS é calculado pela aplicação da fórmula seguinte:\n\nPv = p x Cf x Cc x Au x Pç (1 - 0,85 Vt)\n\nem que:\n\np = 0,07 quando as despesas com infra-estruturas não tenham sido suportadas pelas autarquias;\n\n0,11, quando as despesas com infra-estruturas tenham sido parcialmente suportadas pelas autarquias;\n\n0,15, quando as despesas com infra-estruturas tenham sido exclusivamente suportadas pelas autarquias;\n\nCf = factor relativo ao nível de conforto do fogo, conforme definido no artigo 5.º do Decreto-Lei n.º 13/86, de 23 de Janeiro. Tratando-se de áreas não habitacionais não incluídas nos fogos, este factor terá o valor 1,1;\n\nCc = 0,68;\n\nAu = área útil, determinada nos termos do Regulamento Geral das Edificações Urbanas (RGEU), quer para a parte habitacional, quer para a não habitacional, excluindo a área das garagens quando estas estejam incluídas nos fogos;\n\nPc = preço da habitação por metro quadro de área útil: a determinar nos termos do n.º 1.º da presente portaria;\n\nVt = determinável nos termos da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 141/88, de 22 de Abril.\n\nMinistério das Obras Públicas, Transportes e Comunicações.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 99/1990, 2º Suplemento, Série I de 1990-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-182459), em vigor a partir de 1990-04-30."
+  },
+  "1054881075": {
+   "fragment_id": "1054880975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 21 de Março de 1990.\n\nPelo Ministro das Obras Públicas, Transportes e Comunicações, Rui José Teixeira Vicente, Secretário de Estado da Habitação e dos Transportes Interiores.\n\nQUADRO ANEXO À PORTARIA N.º 239/90\n\nZonas do País a que se refere o n.º 1.º da Portaria n.º 239/90"
+  },
+  "1054881275": {
+   "fragment_id": "1054881175",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)"
+  }
+ }
+}

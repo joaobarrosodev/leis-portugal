@@ -1,0 +1,383 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:132437525:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-138217653",
+ "dre_path": "/dr/detalhe/decreto-lei/18-a-2020-132437525",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202132115",
+    "138339536",
+    "138339537",
+    "138339538",
+    "138339539",
+    "138339540",
+    "138339541",
+    "138339542",
+    "138339543",
+    "138339544"
+   ]
+  },
+  {
+   "date": "2020-07-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138217278:por",
+     "title": "Decreto-Lei n.º 39-A/2020",
+     "published": "2020-07-16",
+     "dre_path": "/dr/detalhe/decreto-lei/39-a-2020-138217278"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "138339535",
+    "138339536",
+    "138339537",
+    "138339538",
+    "138339539",
+    "138339540",
+    "138339541",
+    "138339542",
+    "138339554",
+    "138339544",
+    "138339545"
+   ]
+  },
+  {
+   "date": "2021-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172153527:por",
+     "title": "Decreto-Lei n.º 78-A/2021",
+     "published": "2021-09-29",
+     "dre_path": "/dr/detalhe/decreto-lei/78-a-2021-172153527"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 8.º-B"
+   ],
+   "fragments": [
+    "138339535",
+    "138339536",
+    "138339537",
+    "138339538",
+    "138339539",
+    "138339540",
+    "138339541",
+    "138339542",
+    "138339554",
+    "172153855",
+    "172153858",
+    "172153859",
+    "172153860"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202132115",
+    "202132116",
+    "202132117",
+    "202132118",
+    "202132119",
+    "202132120",
+    "202132121",
+    "202132122",
+    "202132123",
+    "202132124",
+    "202132125",
+    "202132126",
+    "202132127"
+   ]
+  }
+ ],
+ "fragments": {
+  "202132115": {
+   "fragment_id": "138217654",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 18-A/2020\n\nde 23 de abril\n\nSumário: Estabelece as medidas excecionais e temporárias na área do desporto, no âmbito da pandemia da doença COVID-19.\n\nA Organização Mundial de Saúde qualificou, no passado dia 11 de março de 2020, a emergência de saúde pública ocasionada pelo vírus SARS-COV-2, responsável pela doença COVID-19, como uma pandemia internacional, com impacto nas mais diversas dimensões da vida em sociedade.\n\nAtravés do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, foi declarado o estado de emergência, com fundamento na verificação de uma situação de calamidade pública, abrangendo todo o território nacional, o qual foi renovado pelo Decreto do Presidente da República n.º 17-A/2020, de 2 de abril, e subsequentemente pelo Decreto do Presidente da República n.º 20-A/2020, de 17 de abril.\n\nNeste contexto, em 30 de março de 2020, o Comité Olímpico Internacional e o Comité Paralímpico Internacional, em conjunto com o Governo e Comité Organizador Local, anunciaram o adiamento da realização dos Jogos Olímpicos 2020 e dos Jogos Paralímpicos 2020 para o ano de 2021, o que comporta um conjunto de repercussões relativamente ao normal funcionamento e organização das federações desportivas, ligas profissionais e associações territoriais de clubes.\n\nDeste modo o Governo aprova medidas excecionais e temporárias no âmbito do desporto, prorrogando o estatuto de utilidade pública desportiva de que as federações desportivas são atualmente titulares até 31 de dezembro de 2021, bem como adota regras específicas para a sua renovação, em linha com as decisões adotadas pelo Comité Olímpico Internacional e pelo Comité Paralímpico Internacional.\n\nNesse sentido são ainda previstas disposições excecionais relativas à produção de efeitos de alterações aos regulamentos das federações desportivas, à duração do mandato dos titulares dos respetivos órgãos e das ligas profissionais ou associações territoriais de clubes nelas filiadas, bem como à aplicação do regime duodecimal previsto no regime jurídico dos contratos-programa de desenvolvimento desportivo.\n\nAdicionalmente, atendendo às limitações impostas pela doença COVID-19 ao desenvolvimento da atividade desportiva e formativa, o Governo procede à equiparação da formação contínua à distância a formação presencial, para efeitos de obtenção de unidades de crédito com vista à manutenção do título profissional de diretor técnico e de técnico de exercício físico, bem como do título profissional de treinador de desporto.\n\nPor fim, é ainda prorrogada a inscrição dos praticantes desportivos, treinadores e árbitros no registo dos agentes desportivos de alto rendimento, enquanto se verificar a inexistência de competições, suspendendo-se a renovação dos exames médico-desportivos, tendo em vista assegurar uma resposta eficaz aos constrangimentos gerados pela atual situação de exceção.\n\nFoi ouvido o Conselho Nacional do Desporto.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "138339536": {
+   "fragment_id": "138217655",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece medidas excecionais e temporárias na área do desporto de resposta à pandemia da doença COVID-19, quanto:\n\na) À prorrogação do estatuto de utilidade pública desportiva das federações desportivas, bem como a ulterior renovação ao abrigo do disposto no artigo 24.º do Decreto-Lei n.º 248-B/2008, de 31 de dezembro, na sua redação atual, que estabelece o regime jurídico das federações desportivas e as condições de atribuição do estatuto de utilidade pública desportiva (RJFD);\n\nb) Às alterações a regulamentos de federações desportivas, para efeitos do disposto no n.º 4 do artigo 34.º do RJFD;\n\nc) À duração do mandato dos titulares dos órgãos das federações desportivas, bem como das ligas profissionais ou associações territoriais de clubes nelas filiadas, adaptando o disposto no artigo 50.º do RJFD;\n\nd) À aplicação durante o ano de 2020 do regime duodecimal dos contratos-programa de desenvolvimento desportivo, previsto no artigo 22.º do Decreto-Lei n.º 273/2009, de 1 de outubro, na sua redação atual;\n\ne) À equiparação da formação contínua à distância a formação presencial, para efeitos de determinação do número de horas necessárias à obtenção de unidades de crédito de formação contínua;\n\nf) À renovação da inscrição no registo dos agentes desportivos de alto rendimento, prevista no n.º 3 do artigo 4.º do Decreto-Lei n.º 272/2009, de 1 de outubro;\n\ng) À renovação dos exames médico-desportivos, prevista no n.º 3 do Despacho n.º 11318/2009, publicado no Diário da República, 2.ª série, n.º 89, de 8 de maio de 2009."
+  },
+  "138339537": {
+   "fragment_id": "138217656",
+   "type": 11,
+   "heading": "Artigo 2.º — Estatuto de utilidade pública desportiva das federações desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estatuto de utilidade pública desportiva das federações desportivas\n\nO estatuto de utilidade pública desportiva de que as federações desportivas sejam titulares na data de entrada em vigor do presente decreto-lei, renovável nos termos do disposto no artigo 24.º do RJFD, é prorrogado até 31 de dezembro de 2021, podendo as federações desportivas requerer, até à mesma data, a respetiva renovação até ao termo do ciclo olímpico subsequente."
+  },
+  "138339538": {
+   "fragment_id": "138217657",
+   "type": 11,
+   "heading": "Artigo 3.º — Alterações a regulamentos de federações desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alterações a regulamentos de federações desportivas\n\nA aprovação de alterações a qualquer regulamento de federações desportivas que visem dar resposta a constrangimentos causados pela emergência de saúde pública ocasionada pela doença COVID-19 podem, excecionalmente, produzir efeitos durante as épocas desportivas em curso, considerando-se decorrentes de imposição legal, para efeitos do disposto no n.º 4 do artigo 34.º do RJFD."
+  },
+  "138339539": {
+   "fragment_id": "138217658",
+   "type": 11,
+   "heading": "Artigo 4.º — Duração do mandato dos titulares dos órgãos das federações desportivas, ligas profissionais ou associações territoriais de clubes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Duração do mandato dos titulares dos órgãos das federações desportivas, ligas profissionais ou associações territoriais de clubes\n\n1 - As eleições dos titulares dos órgãos das federações desportivas, bem como das ligas profissionais ou associações territoriais de clubes nelas filiadas, que devessem ter lugar no ano de 2020 podem realizar-se no ano de 2021, mediante deliberação da respetiva assembleia geral, expressamente convocada para o efeito, aplicando-se o disposto no artigo 39.º do RJFD, com as necessárias adaptações.\n\n2 - A deliberação prevista no número anterior prorroga os mandatos em curso para efeitos do disposto no artigo 50.º do RJFD.\n\n3 - Os mandatos dos titulares dos órgãos das federações desportivas decorrentes de eleições realizadas nos termos previstos nos números anteriores, a partir da data de entrada em vigor do presente decreto-lei concluem-se no termo do próximo ciclo olímpico."
+  },
+  "138339540": {
+   "fragment_id": "138217659",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime duodecimal dos contratos-programa de desenvolvimento desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime duodecimal dos contratos-programa de desenvolvimento desportivo\n\nDurante o ano de 2020, não vigoram as limitações de aplicação do regime duodecimal estabelecidas nos n.os 1 e 2 do artigo 22.º do Decreto-Lei n.º 273/2009, de 1 de outubro, na sua redação atual, até à produção dos efeitos dos contratos-programa relativos ao mesmo ano."
+  },
+  "138339541": {
+   "fragment_id": "138217660",
+   "type": 11,
+   "heading": "Artigo 6.º — Equiparação de unidades de crédito de formação contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Equiparação de unidades de crédito de formação contínua\n\nAs ações de formação à distância realizadas desde o dia 13 de março de 2020 são equiparadas a ações de formação presencial para efeitos de determinação do número de horas necessárias à obtenção de unidades de crédito de formação contínua, com vista à revalidação do título profissional de treinador de desporto, bem como do título profissional de diretor técnico e de técnico de exercício físico, a que se reportam, respetivamente, as Portarias n.os 326/2013, de 1 de novembro, e 36/2014, de 14 de fevereiro, correspondendo uma unidade de crédito a cinco horas de formação."
+  },
+  "138339542": {
+   "fragment_id": "138217661",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição no registo dos agentes desportivos de alto rendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inscrição no registo dos agentes desportivos de alto rendimento\n\nEnquanto se verificar a inexistência de competições internacionais, é suspensa a obrigação de renovação das inscrições dos praticantes desportivos, treinadores e árbitros no registo dos agentes desportivos de alto rendimento, prevista no n.º 3 do artigo 4.º do Decreto-Lei n.º 272/2009, de 1 de outubro."
+  },
+  "138339543": {
+   "fragment_id": "138217662",
+   "type": 11,
+   "heading": "Artigo 8.º — Renovação dos exames médico-desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Renovação dos exames médico-desportivos\n\nÉ suspensa a obrigação de renovação dos exames médico-desportivos prevista no n.º 3 do Despacho n.º 11318/2009, publicado no Diário da República, 2.ª série, n.º 89, de 8 de maio de 2009."
+  },
+  "138339544": {
+   "fragment_id": "138217663",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "138339535": {
+   "fragment_id": "138217654",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 18-A/2020\n\nde 23 de abril\n\nSumário: Estabelece as medidas excecionais e temporárias na área do desporto, no âmbito da pandemia da doença COVID-19.\n\nA Organização Mundial de Saúde qualificou, no passado dia 11 de março de 2020, a emergência de saúde pública ocasionada pelo vírus SARS-COV-2, responsável pela doença COVID-19, como uma pandemia internacional, com impacto nas mais diversas dimensões da vida em sociedade.\n\nAtravés do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, foi declarado o estado de emergência, com fundamento na verificação de uma situação de calamidade pública, abrangendo todo o território nacional, o qual foi renovado pelo Decreto do Presidente da República n.º 17-A/2020, de 2 de abril, e subsequentemente pelo Decreto do Presidente da República n.º 20-A/2020, de 17 de abril.\n\nNeste contexto, em 30 de março de 2020, o Comité Olímpico Internacional e o Comité Paralímpico Internacional, em conjunto com o Governo e Comité Organizador Local, anunciaram o adiamento da realização dos Jogos Olímpicos 2020 e dos Jogos Paralímpicos 2020 para o ano de 2021, o que comporta um conjunto de repercussões relativamente ao normal funcionamento e organização das federações desportivas, ligas profissionais e associações territoriais de clubes.\n\nDeste modo o Governo aprova medidas excecionais e temporárias no âmbito do desporto, prorrogando o estatuto de utilidade pública desportiva de que as federações desportivas são atualmente titulares até 31 de dezembro de 2021, bem como adota regras específicas para a sua renovação, em linha com as decisões adotadas pelo Comité Olímpico Internacional e pelo Comité Paralímpico Internacional.\n\nNesse sentido são ainda previstas disposições excecionais relativas à produção de efeitos de alterações aos regulamentos das federações desportivas, à duração do mandato dos titulares dos respetivos órgãos e das ligas profissionais ou associações territoriais de clubes nelas filiadas, bem como à aplicação do regime duodecimal previsto no regime jurídico dos contratos-programa de desenvolvimento desportivo.\n\nAdicionalmente, atendendo às limitações impostas pela doença COVID-19 ao desenvolvimento da atividade desportiva e formativa, o Governo procede à equiparação da formação contínua à distância a formação presencial, para efeitos de obtenção de unidades de crédito com vista à manutenção do título profissional de diretor técnico e de técnico de exercício físico, bem como do título profissional de treinador de desporto.\n\nPor fim, é ainda prorrogada a inscrição dos praticantes desportivos, treinadores e árbitros no registo dos agentes desportivos de alto rendimento, enquanto se verificar a inexistência de competições, suspendendo-se a renovação dos exames médico-desportivos, tendo em vista assegurar uma resposta eficaz aos constrangimentos gerados pela atual situação de exceção.\n\nFoi ouvido o Conselho Nacional do Desporto.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "138339554": {
+   "fragment_id": "138217662",
+   "type": 11,
+   "heading": "Artigo 8.º — Renovação dos exames médico-desportivos",
+   "in_force_from": "2020-07-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17"
+   ],
+   "markdown": "###### Artigo 8.º — Renovação dos exames médico-desportivos\n\nÉ suspensa a obrigação de renovação dos exames médico-desportivos prevista no n.º 3 do Despacho n.º 11318/2009, publicado no Diário da República, 2.ª série, n.º 89, de 8 de maio de 2009.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17"
+  },
+  "138339545": {
+   "fragment_id": "138217664",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de abril de 2020. - António Luís Santos da Costa - Tiago Brandão Rodrigues.\n\nPromulgado em 23 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 23 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113204169"
+  },
+  "172153855": {
+   "fragment_id": "172153570",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Apoios a clubes desportivos",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 8.º-A — Apoios a clubes desportivos\n\n1 - Aos apoios a clubes desportivos atribuídos no âmbito da medida REATIVAR DESPORTO do Fundo de Apoio para a Recuperação da Atividade Física e Desportiva, previstos na alínea a) do n.º 8 da Resolução do Conselho de Ministros n.º 33-A/2021, de 24 de março, aplicam-se, com as necessárias adaptações, as regras relativas aos contratos-programa de desenvolvimento desportivo, previstas na Lei n.º 5/2007, de 16 de janeiro, na sua redação atual, e no Decreto-Lei n.º 273/2009, de 1 de outubro, na sua redação atual, com exceção da exigência de apresentação de programas de desenvolvimento desportivo e do disposto no número seguinte.\n\n2 - Aos apoios previstos no número anterior não é aplicável o disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 273/2009, de 1 de outubro, na sua redação atual.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172153858": {
+   "fragment_id": "172153571",
+   "type": 11,
+   "heading": "Artigo 8.º-B — Garantia de crédito",
+   "in_force_from": "2021-09-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 8.º-B — Garantia de crédito\n\nPara efeitos de garantia da linha de crédito constituída no âmbito do «PROGRAMA FEDERAÇÕES +DESPORTIVAS», prevista no n.º 10 da Resolução do Conselho de Ministros n.º 33-A/2021, de 24 de março, aos apoios financeiros concedidos pelo Instituto Português do Desporto e Juventude, I. P., não é aplicável o disposto no n.º 2 do artigo 47.º da Lei n.º 5/2007, de 16 de janeiro, na sua redação atual, e no n.º 1 do artigo 6.º do Decreto-Lei n.º 273/2009, de 1 de outubro, na sua redação atual.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "172153859": {
+   "fragment_id": "138217663",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "172153860": {
+   "fragment_id": "138217664",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de abril de 2020. - António Luís Santos da Costa - Tiago Brandão Rodrigues.\n\nPromulgado em 23 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 23 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113204169"
+  },
+  "202132116": {
+   "fragment_id": "138217655",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece medidas excecionais e temporárias na área do desporto de resposta à pandemia da doença COVID-19, quanto:\n\na) À prorrogação do estatuto de utilidade pública desportiva das federações desportivas, bem como a ulterior renovação ao abrigo do disposto no artigo 24.º do Decreto-Lei n.º 248-B/2008, de 31 de dezembro, na sua redação atual, que estabelece o regime jurídico das federações desportivas e as condições de atribuição do estatuto de utilidade pública desportiva (RJFD);\n\nb) Às alterações a regulamentos de federações desportivas, para efeitos do disposto no n.º 4 do artigo 34.º do RJFD;\n\nc) À duração do mandato dos titulares dos órgãos das federações desportivas, bem como das ligas profissionais ou associações territoriais de clubes nelas filiadas, adaptando o disposto no artigo 50.º do RJFD;\n\nd) À aplicação durante o ano de 2020 do regime duodecimal dos contratos-programa de desenvolvimento desportivo, previsto no artigo 22.º do Decreto-Lei n.º 273/2009, de 1 de outubro, na sua redação atual;\n\ne) À equiparação da formação contínua à distância a formação presencial, para efeitos de determinação do número de horas necessárias à obtenção de unidades de crédito de formação contínua;\n\nf) À renovação da inscrição no registo dos agentes desportivos de alto rendimento, prevista no n.º 3 do artigo 4.º do Decreto-Lei n.º 272/2009, de 1 de outubro;\n\ng) À renovação dos exames médico-desportivos, prevista no n.º 3 do Despacho n.º 11318/2009, publicado no Diário da República, 2.ª série, n.º 89, de 8 de maio de 2009.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132117": {
+   "fragment_id": "138217656",
+   "type": 11,
+   "heading": "Artigo 2.º — Estatuto de utilidade pública desportiva das federações desportivas",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Estatuto de utilidade pública desportiva das federações desportivas\n\nO estatuto de utilidade pública desportiva de que as federações desportivas sejam titulares na data de entrada em vigor do presente decreto-lei, renovável nos termos do disposto no artigo 24.º do RJFD, é prorrogado até 31 de dezembro de 2021, podendo as federações desportivas requerer, até à mesma data, a respetiva renovação até ao termo do ciclo olímpico subsequente.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132118": {
+   "fragment_id": "138217657",
+   "type": 11,
+   "heading": "Artigo 3.º — Alterações a regulamentos de federações desportivas",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Alterações a regulamentos de federações desportivas\n\nA aprovação de alterações a qualquer regulamento de federações desportivas que visem dar resposta a constrangimentos causados pela emergência de saúde pública ocasionada pela doença COVID-19 podem, excecionalmente, produzir efeitos durante as épocas desportivas em curso, considerando-se decorrentes de imposição legal, para efeitos do disposto no n.º 4 do artigo 34.º do RJFD.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132119": {
+   "fragment_id": "138217658",
+   "type": 11,
+   "heading": "Artigo 4.º — Duração do mandato dos titulares dos órgãos das federações desportivas, ligas profissionais ou associações territoriais de clubes",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Duração do mandato dos titulares dos órgãos das federações desportivas, ligas profissionais ou associações territoriais de clubes\n\n1 - As eleições dos titulares dos órgãos das federações desportivas, bem como das ligas profissionais ou associações territoriais de clubes nelas filiadas, que devessem ter lugar no ano de 2020 podem realizar-se no ano de 2021, mediante deliberação da respetiva assembleia geral, expressamente convocada para o efeito, aplicando-se o disposto no artigo 39.º do RJFD, com as necessárias adaptações.\n\n2 - A deliberação prevista no número anterior prorroga os mandatos em curso para efeitos do disposto no artigo 50.º do RJFD.\n\n3 - Os mandatos dos titulares dos órgãos das federações desportivas decorrentes de eleições realizadas nos termos previstos nos números anteriores, a partir da data de entrada em vigor do presente decreto-lei concluem-se no termo do próximo ciclo olímpico.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132120": {
+   "fragment_id": "138217659",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime duodecimal dos contratos-programa de desenvolvimento desportivo",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Regime duodecimal dos contratos-programa de desenvolvimento desportivo\n\nDurante o ano de 2020, não vigoram as limitações de aplicação do regime duodecimal estabelecidas nos n.os 1 e 2 do artigo 22.º do Decreto-Lei n.º 273/2009, de 1 de outubro, na sua redação atual, até à produção dos efeitos dos contratos-programa relativos ao mesmo ano.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132121": {
+   "fragment_id": "138217660",
+   "type": 11,
+   "heading": "Artigo 6.º — Equiparação de unidades de crédito de formação contínua",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Equiparação de unidades de crédito de formação contínua\n\nAs ações de formação à distância realizadas desde o dia 13 de março de 2020 são equiparadas a ações de formação presencial para efeitos de determinação do número de horas necessárias à obtenção de unidades de crédito de formação contínua, com vista à revalidação do título profissional de treinador de desporto, bem como do título profissional de diretor técnico e de técnico de exercício físico, a que se reportam, respetivamente, as Portarias n.os 326/2013, de 1 de novembro, e 36/2014, de 14 de fevereiro, correspondendo uma unidade de crédito a cinco horas de formação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132122": {
+   "fragment_id": "138217661",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição no registo dos agentes desportivos de alto rendimento",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Inscrição no registo dos agentes desportivos de alto rendimento\n\nEnquanto se verificar a inexistência de competições internacionais, é suspensa a obrigação de renovação das inscrições dos praticantes desportivos, treinadores e árbitros no registo dos agentes desportivos de alto rendimento, prevista no n.º 3 do artigo 4.º do Decreto-Lei n.º 272/2009, de 1 de outubro.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132123": {
+   "fragment_id": "138217662",
+   "type": 11,
+   "heading": "Artigo 8.º — Renovação dos exames médico-desportivos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17"
+   ],
+   "markdown": "###### Artigo 8.º — Renovação dos exames médico-desportivos\n\nÉ suspensa a obrigação de renovação dos exames médico-desportivos prevista no n.º 3 do Despacho n.º 11318/2009, publicado no Diário da República, 2.ª série, n.º 89, de 8 de maio de 2009.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17"
+  },
+  "202132124": {
+   "fragment_id": "172153570",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Apoios a clubes desportivos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 8.º-A — Apoios a clubes desportivos\n\n1 - Aos apoios a clubes desportivos atribuídos no âmbito da medida REATIVAR DESPORTO do Fundo de Apoio para a Recuperação da Atividade Física e Desportiva, previstos na alínea a) do n.º 8 da Resolução do Conselho de Ministros n.º 33-A/2021, de 24 de março, aplicam-se, com as necessárias adaptações, as regras relativas aos contratos-programa de desenvolvimento desportivo, previstas na Lei n.º 5/2007, de 16 de janeiro, na sua redação atual, e no Decreto-Lei n.º 273/2009, de 1 de outubro, na sua redação atual, com exceção da exigência de apresentação de programas de desenvolvimento desportivo e do disposto no número seguinte.\n\n2 - Aos apoios previstos no número anterior não é aplicável o disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 273/2009, de 1 de outubro, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "202132125": {
+   "fragment_id": "172153571",
+   "type": 11,
+   "heading": "Artigo 8.º-B — Garantia de crédito",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+   ],
+   "markdown": "###### Artigo 8.º-B — Garantia de crédito\n\nPara efeitos de garantia da linha de crédito constituída no âmbito do «PROGRAMA FEDERAÇÕES +DESPORTIVAS», prevista no n.º 10 da Resolução do Conselho de Ministros n.º 33-A/2021, de 24 de março, aos apoios financeiros concedidos pelo Instituto Português do Desporto e Juventude, I. P., não é aplicável o disposto no n.º 2 do artigo 47.º da Lei n.º 5/2007, de 16 de janeiro, na sua redação atual, e no n.º 1 do artigo 6.º do Decreto-Lei n.º 273/2009, de 1 de outubro, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30"
+  },
+  "202132126": {
+   "fragment_id": "138217663",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132127": {
+   "fragment_id": "138217664",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de abril de 2020. - António Luís Santos da Costa - Tiago Brandão Rodrigues.\n\nPromulgado em 23 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 23 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113204169\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

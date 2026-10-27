@@ -1,0 +1,1045 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:386871:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34487075",
+ "dre_path": "/dr/detalhe/decreto-lei/3-2008-386871",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-01-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247245:por",
+     "title": "Declaração de Rectificação n.º 10/2008",
+     "published": "2008-03-07",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-2008-247245"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 32.º"
+   ],
+   "fragments": [
+    "115654882",
+    "46578375",
+    "46578475",
+    "46578575",
+    "46578675",
+    "46578775",
+    "46578875",
+    "46578975",
+    "46579075",
+    "46579175",
+    "46579275",
+    "46579375",
+    "46579475",
+    "46579575",
+    "46579675",
+    "46579775",
+    "46579875",
+    "46579975",
+    "46580075",
+    "46580175",
+    "46580275",
+    "46580375",
+    "46580475",
+    "46580575",
+    "46580675",
+    "46580775",
+    "46580875",
+    "46580975",
+    "46581075",
+    "46581175",
+    "46581275",
+    "46581375",
+    "46581475",
+    "46581575",
+    "46581675",
+    "46581775",
+    "46581875",
+    "46581975",
+    "46582075"
+   ],
+   "acts_without_text_change": []
+  },
+  {
+   "date": "2008-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:249230:por",
+     "title": "Lei n.º 21/2008",
+     "published": "2008-05-12",
+     "dre_path": "/dr/detalhe/lei/21-2008-249230"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 31.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 23.º",
+    "Altera Capítulo VI",
+    "Altera Artigo 28.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 32.º"
+   ],
+   "fragments": [
+    "46578275",
+    "46578375",
+    "72836765",
+    "46578575",
+    "46578675",
+    "72836766",
+    "72836762",
+    "46578875",
+    "46578975",
+    "72836767",
+    "46579175",
+    "46579275",
+    "46579375",
+    "46579475",
+    "46579575",
+    "46579675",
+    "46579775",
+    "46579875",
+    "46579975",
+    "46580075",
+    "46580175",
+    "46580275",
+    "46580375",
+    "46580475",
+    "46580575",
+    "46580675",
+    "46580775",
+    "46580875",
+    "46580975",
+    "72836768",
+    "46581175",
+    "46581275",
+    "46581375",
+    "46581475",
+    "72836772",
+    "72836769",
+    "46581775",
+    "72836770",
+    "46581975",
+    "72836763",
+    "72836771",
+    "46582175"
+   ]
+  },
+  {
+   "date": "2018-07-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115652961:por",
+     "title": "Decreto-Lei n.º 54/2018",
+     "published": "2018-07-06",
+     "dre_path": "/dr/detalhe/decreto-lei/54-2018-115652961"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "115654882",
+    "115654883",
+    "115654884",
+    "115654885",
+    "115654886",
+    "115654887",
+    "115654888",
+    "115654889",
+    "115654890",
+    "115654891",
+    "115654892",
+    "115654893",
+    "115654894",
+    "115654895",
+    "115654896",
+    "115654897",
+    "115654898",
+    "115654899",
+    "115654900",
+    "115654901",
+    "115654902",
+    "115654903",
+    "115654904",
+    "115654905",
+    "115654906",
+    "115654907",
+    "115654908",
+    "115654909",
+    "115654910",
+    "115654911",
+    "115654912",
+    "115654913",
+    "115654914",
+    "115654915",
+    "115654916",
+    "115654917",
+    "115654918",
+    "115654919",
+    "115654920",
+    "115654921",
+    "115654922",
+    "115654923"
+   ]
+  }
+ ],
+ "fragments": {
+  "115654882": {
+   "fragment_id": "35106875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-07-11",
+   "changed_by": [],
+   "markdown": "Constitui desígnio do XVII Governo Constitucional promover a igualdade de oportunidades, valorizar a educação e promover a melhoria da qualidade do ensino. Um aspecto determinante dessa qualidade é a promoção de uma escola democrática e inclusiva, orientada para o sucesso educativo de todas as crianças e jovens. Nessa medida importa planear um sistema de educação flexível, pautado por uma política global integrada, que permita responder à diversidade de características e necessidades de todos os alunos que implicam a inclusão das crianças e jovens com necessidades educativas especiais no quadro de uma política de qualidade orientada para o sucesso educativo de todos os alunos.\n\nNos últimos anos, principalmente após a Declaração de Salamanca (1994), tem vindo a afirmar-se a noção de escola inclusiva, capaz de acolher e reter, no seu seio, grupos de crianças e jovens tradicionalmente excluídos. Esta noção, dada a sua dimensão eminentemente social, tem merecido o apoio generalizado de profissionais, da comunidade científica e de pais.\n\nA educação inclusiva visa a equidade educativa, sendo que por esta se entende a garantia de igualdade, quer no acesso quer nos resultados.\n\nNo quadro da equidade educativa, o sistema e as práticas educativas devem assegurar a gestão da diversidade da qual decorrem diferentes tipos de estratégias que permitam responder às necessidades educativas dos alunos. Deste modo, a escola inclusiva pressupõe individualização e personalização das estratégias educativas, enquanto método de prossecução do objectivo de promover competências universais que permitam a autonomia e o acesso à condução plena da cidadania por parte de todos.\n\nTodos os alunos têm necessidades educativas, trabalhadas no quadro da gestão da diversidade acima referida. Existem casos, porém, em que as necessidades se revestem de contornos muito específicos, exigindo a activação de apoios especializados.\n\nOs apoios especializados visam responder às necessidades educativas especiais dos alunos com limitações significativas ao nível da actividade e da participação, num ou vários domínios de vida, decorrentes de alterações funcionais e estruturais, de carácter permanente, resultando em dificuldades continuadas ao nível da comunicação, da aprendizagem, da mobilidade, da autonomia, do relacionamento interpessoal e da participação social e dando lugar à mobilização de serviços especializados para promover o potencial de funcionamento biopsicosocial.\n\nOs apoios especializados podem implicar a adaptação de estratégias, recursos, conteúdos, processos, procedimentos e instrumentos, bem como a utilização de tecnologias de apoio. Portanto, não se trata só de medidas para os alunos, mas também de medidas de mudança no contexto escolar.\n\nEntre os alunos com deficiências e incapacidades alguns necessitam de acções positivas que exigem diferentes graus de intensidade e de especialização. À medida que aumenta a necessidade de uma maior especialização do apoio personalizado, decresce o número de crianças e jovens que dele necessitam, do que decorre que apenas uma reduzida percentagem necessita de apoios personalizados altamente especializados.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 46/86, de 14 de Outubro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 41.º, Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961) O presente decreto-lei produz efeitos a partir do ano escolar 2018-2019"
+  },
+  "46578375": {
+   "fragment_id": "35501375",
+   "type": 1,
+   "heading": "Capítulo I — Objectivos, enquadramento e princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objectivos, enquadramento e princípios orientadores"
+  },
+  "46578475": {
+   "fragment_id": "36827175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei define os apoios especializados a prestar na educação pré-escolar e nos ensinos básico e secundário dos sectores público, particular e cooperativo, visando a criação de condições para a adequação do processo educativo às necessidades educativas especiais dos alunos com limitações significativas ao nível da actividade e da participação num ou vários domínios de vida, decorrentes de alterações funcionais e estruturais, de carácter permanente, resultando em dificuldades continuadas ao nível da comunicação, da aprendizagem, da mobilidade, da autonomia, do relacionamento interpessoal e da participação social.\n\n2 - A educação especial tem por objectivos a inclusão educativa e social, o acesso e o sucesso educativo, a autonomia, a estabilidade emocional, bem como a promoção da igualdade de oportunidades, a preparação para o prosseguimento de estudos ou para uma adequada preparação para a vida profissional e para uma transição da escola para o emprego das crianças e dos jovens com necessidades educativas especiais nas condições acima descritas."
+  },
+  "46578575": {
+   "fragment_id": "36827275",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios orientadores\n\n1 - A educação especial prossegue, em permanência, os princípios da justiça e da solidariedade social, da não discriminação e do combate à exclusão social, da igualdade de oportunidades no acesso e sucesso educativo, da participação dos pais e da confidencialidade da informação.\n\n2 - Nos termos do disposto no número anterior, as escolas ou os agrupamentos de escolas, os estabelecimentos de ensino particular com paralelismo pedagógico, as escolas profissionais, directa ou indirectamente financiados pelo Ministério da Educação (ME), não podem rejeitar a matrícula ou a inscrição de qualquer criança ou jovem com base na incapacidade ou nas necessidades educativas especiais que manifestem.\n\n3 - As crianças e jovens com necessidades educativas especiais de carácter permanente gozam de prioridade na matrícula, tendo o direito, nos termos do presente decreto-lei, a frequentar o jardim-de-infância ou a escola nos mesmos termos das restantes crianças.\n\n4 - As crianças e os jovens com necessidades educativas especiais de carácter permanente têm direito ao reconhecimento da sua singularidade e à oferta de respostas educativas adequadas.\n\n5 - Toda a informação resultante da intervenção técnica e educativa está sujeita aos limites constitucionais e legais, em especial os relativos à reserva da intimidade da vida privada e familiar e ao tratamento automatizado, conexão, transmissão, utilização e protecção de dados pessoais, sendo garantida a sua confidencialidade.\n\n6 - Estão vinculados ao dever do sigilo os membros da comunidade educativa que tenham acesso à informação referida no número anterior."
+  },
+  "46578675": {
+   "fragment_id": "36827375",
+   "type": 11,
+   "heading": "Artigo 3.º — Participação dos pais e encarregados de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Participação dos pais e encarregados de educação\n\n1 - Os pais ou encarregados de educação têm o direito e o dever de participar activamente, exercendo o poder paternal nos termos da lei, em tudo o que se relacione com a educação especial a prestar ao seu filho, acedendo, para tal, a toda a informação constante do processo educativo.\n\n2 - Quando, comprovadamente, os pais ou encarregados de educação não exerçam o seu direito de participação, cabe à escola desencadear as respostas educativas adequadas em função das necessidades educativas especiais diagnosticadas.\n\n3 - Quando os pais ou encarregados de educação não concordem com as medidas educativas propostas pela escola, podem recorrer, mediante documento escrito, no qual fundamentam a sua posição, aos serviços competentes do ME."
+  },
+  "46578775": {
+   "fragment_id": "36827475",
+   "type": 11,
+   "heading": "Artigo 4.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Organização\n\n1 - As escolas devem incluir nos seus projectos educativos as adequações relativas ao processo de ensino e de aprendizagem, de carácter organizativo e de funcionamento, necessárias para responder adequadamente às necessidades educativas especiais de carácter permanente das crianças e jovens, com vista a assegurar a sua maior participação nas actividades de cada grupo ou turma e da comunidade escolar em geral.\n\n2 - Para garantir as adequações de carácter organizativo e de funcionamento referidas no número anterior, são criadas por despacho ministerial:\n\na) Escolas de referência para a educação bilingue de alunos surdos;\n\nb) Escolas de referência para a educação de alunos cegos e com baixa visão.\n\n3 - Para apoiar a adequação do processo de ensino e de aprendizagem podem as escolas ou agrupamentos de escolas desenvolver respostas específicas diferenciadas para alunos com perturbações do espectro do autismo e com multideficiência, designadamente através da criação de:\n\na) Unidades de ensino estruturado para a educação de alunos com perturbações do espectro do autismo;\n\nb) Unidades de apoio especializado para a educação de alunos com multideficiência e surdocegueira congénita.\n\n4 - As respostas referidas nas alíneas a) e b) do número anterior são propostas por deliberação do conselho executivo, ouvido o conselho pedagógico, quando numa escola ou grupos de escolas limítrofes, o número de alunos o justificar e quando a natureza das respostas, dos equipamentos específicos e das especializações profissionais, justifiquem a sua concentração.\n\n5 - As unidades referidas no n.º 3 são criadas por despacho do director regional de educação competente."
+  },
+  "46578875": {
+   "fragment_id": "35501475",
+   "type": 1,
+   "heading": "Capítulo II — Procedimentos de referenciação e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimentos de referenciação e avaliação"
+  },
+  "46578975": {
+   "fragment_id": "36827575",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo de referenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Processo de referenciação\n\n1 - A educação especial pressupõe a referenciação das crianças e jovens que eventualmente dela necessitem, a qual deve ocorrer o mais precocemente possível, detectando os factores de risco associados às limitações ou incapacidades.\n\n2 - A referenciação efectua-se por iniciativa dos pais ou encarregados de educação, dos serviços de intervenção precoce, dos docentes ou de outros técnicos ou serviços que intervêm com a criança ou jovem ou que tenham conhecimento da eventual existência de necessidades educativas especiais.\n\n3 - A referenciação é feita aos órgãos de administração e gestão das escolas ou agrupamentos de escolas da área da residência, mediante o preenchimento de um documento onde se explicitam as razões que levaram a referenciar a situação e se anexa toda a documentação considerada relevante para o processo de avaliação."
+  },
+  "46579075": {
+   "fragment_id": "36827675",
+   "type": 11,
+   "heading": "Artigo 6.º — Processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Processo de avaliação\n\n1 - Referenciada a criança ou jovem, nos termos do artigo anterior, compete ao conselho executivo desencadear os procedimentos seguintes:\n\na) Solicitar ao departamento de educação especial e ao serviço de psicologia um relatório técnico-pedagógico conjunto, com os contributos dos restantes intervenientes no processo, onde sejam identificadas, nos casos em que tal se justifique, as razões que determinam as necessidades educativas especiais do aluno e a sua tipologia, designadamente as condições de saúde, doença ou incapacidade;\n\nb) Solicitar ao departamento de educação especial a determinação dos apoios especializados, das adequações do processo de ensino e de aprendizagem de que o aluno deva beneficiar e das tecnologias de apoio;\n\nc) Assegurar a participação activa dos pais ou encarregados de educação, assim como a sua anuência;\n\nd) Homologar o relatório técnico-pedagógico e determinar as suas implicações;\n\ne) Nos casos em que se considere não se estar perante uma situação de necessidades educativas que justifiquem a intervenção dos serviços da educação especial, solicitar ao departamento de educação especial e aos serviços de psicologia o encaminhamento dos alunos para os apoios disponibilizados pela escola que melhor se adeqúem à sua situação específica.\n\n2 - Para a elaboração do relatório a que se refere a alínea a) do número anterior pode o conselho executivo, quando tal se justifique, recorrer aos centros de saúde, a centros de recursos especializados, às escolas ou unidades referidas nos n.os 2 e 3 do artigo 4.º\n\n3 - Do relatório técnico-pedagógico constam os resultados decorrentes da avaliação, obtidos por referência à Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde, servindo de base à elaboração do programa educativo individual.\n\n4 - O relatório técnico-pedagógico a que se referem os números anteriores é parte integrante do processo individual do aluno.\n\n5 - A avaliação deve ficar concluída 60 dias após a referenciação com a aprovação do programa educativo individual pelo presidente do conselho executivo.\n\n6 - Quando o presidente do conselho executivo decida pela não aprovação, deve exarar despacho justificativo da decisão, devendo reenviá-lo à entidade que o tenha elaborado com o fim de obter uma melhor justificação ou enquadramento."
+  },
+  "46579175": {
+   "fragment_id": "36827775",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviço docente nos processos de referenciação e de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviço docente nos processos de referenciação e de avaliação\n\n1 - O serviço docente no âmbito dos processos de referenciação e de avaliação assume carácter prioritário, devendo concluir-se no mais curto período de tempo, dando preferência à sua execução sobre toda a actividade docente e não docente, à excepção da lectiva.\n\n2 - O serviço de referenciação e de avaliação é de aceitação obrigatória e quando realizado por um docente é sempre integrado na componente não lectiva do seu horário de trabalho."
+  },
+  "46579275": {
+   "fragment_id": "35501575",
+   "type": 1,
+   "heading": "Capítulo III — Programa educativo individual e plano individual de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Programa educativo individual e plano individual de transição"
+  },
+  "46579375": {
+   "fragment_id": "36827875",
+   "type": 11,
+   "heading": "Artigo 8.º — Programa educativo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Programa educativo individual\n\n1 - O programa educativo individual é o documento que fixa e fundamenta as respostas educativas e respectivas formas de avaliação.\n\n2 - O programa educativo individual documenta as necessidades educativas especiais da criança ou jovem, baseadas na observação e avaliação de sala de aula e nas informações complementares disponibilizadas pelos participantes no processo.\n\n3 - O programa educativo individual integra o processo individual do aluno."
+  },
+  "46579475": {
+   "fragment_id": "36827975",
+   "type": 11,
+   "heading": "Artigo 9.º — Modelo do programa educativo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Modelo do programa educativo individual\n\n1 - O modelo do programa educativo individual é aprovado por deliberação do conselho pedagógico e inclui os dados do processo individual do aluno, nomeadamente identificação, história escolar e pessoal relevante, conclusões do relatório de avaliação e as adequações no processo de ensino e de aprendizagem a realizar, com indicação das metas, das estratégias, recursos humanos e materiais e formas de avaliação.\n\n2 - O modelo do programa educativo individual integra os indicadores de funcionalidade, bem como os factores ambientais que funcionam como facilitadores ou como barreiras à actividade e participação do aluno na vida escolar, obtidos por referência à Classificação Internacional da Funcionalidade, Incapacidade e Saúde, em termos que permitam identificar o perfil concreto de funcionalidade.\n\n3 - Do modelo de programa educativo individual devem constar, de entre outros, obrigatoriamente:\n\na) A identificação do aluno;\n\nb) O resumo da história escolar e outros antecedentes relevantes;\n\nc) A caracterização dos indicadores de funcionalidade e do nível de aquisições e dificuldades do aluno;\n\nd) Os factores ambientais que funcionam como facilitadores ou como barreiras à participação e à aprendizagem;\n\ne) Definição das medidas educativas a implementar;\n\nf) Discriminação dos conteúdos, dos objectivos gerais e específicos a atingir e das estratégias e recursos humanos e materiais a utilizar;\n\ng) Nível de participação do aluno nas actividades educativas da escola;\n\nh) Distribuição horária das diferentes actividades previstas;\n\ni) Identificação dos técnicos responsáveis;\n\nj) Definição do processo de avaliação da implementação do programa educativo individual;\n\nl) A data e assinatura dos participantes na sua elaboração e dos responsáveis pelas respostas educativas a aplicar."
+  },
+  "46579575": {
+   "fragment_id": "36828075",
+   "type": 11,
+   "heading": "Artigo 10.º — Elaboração do programa educativo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Elaboração do programa educativo individual\n\n1 - Na educação pré-escolar e no 1.º ciclo do ensino básico, o programa educativo individual é elaborado, conjunta e obrigatoriamente, pelo docente do grupo ou turma, pelo docente de educação especial, pelos encarregados de educação e sempre que se considere necessário, pelos serviços referidos na alínea a) do n.º 1 e no n.º 2 do artigo 6.º, sendo submetido à aprovação do conselho pedagógico e homologado pelo conselho executivo.\n\n2 - Nos 2.º e 3.º ciclos do ensino básico e no ensino secundário e em todas as modalidades não sujeitas a monodocência, o programa educativo individual é elaborado pelo director de turma, pelo docente de educação especial, pelos encarregados de educação e sempre que se considere necessário pelos serviços referidos na alínea a) do n.º 1 e no n.º 2 do artigo 6.º, sendo submetido à aprovação do conselho pedagógico e homologado pelo conselho executivo.\n\n3 - No caso dos alunos surdos com ensino bilingue deve também participar na elaboração do programa educativo individual um docente surdo de LGP."
+  },
+  "46579675": {
+   "fragment_id": "36828175",
+   "type": 11,
+   "heading": "Artigo 11.º — Coordenação do programa educativo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Coordenação do programa educativo individual\n\n1 - O coordenador do programa educativo individual é o educador de infância, o professor do 1.º ciclo ou o director de turma, a quem esteja atribuído o grupo ou a turma que o aluno integra.\n\n2 - A aplicação do programa educativo individual carece de autorização expressa do encarregado de educação, excepto nas situações previstas no n.º 2 do artigo 3.º"
+  },
+  "46579775": {
+   "fragment_id": "36828275",
+   "type": 11,
+   "heading": "Artigo 12.º — Prazos de aplicação do programa educativo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prazos de aplicação do programa educativo individual\n\n1 - A elaboração do programa educativo individual deve decorrer no prazo máximo de 60 dias após a referenciação dos alunos com necessidades educativas especiais de carácter permanente.\n\n2 - O programa educativo individual constituiu o único documento válido para efeitos de distribuição de serviço docente e não docente e constituição de turmas, não sendo permitida a aplicação de qualquer adequação no processo de ensino e de aprendizagem sem a sua existência."
+  },
+  "46579875": {
+   "fragment_id": "36828375",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento do programa educativo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acompanhamento do programa educativo individual\n\n1 - O programa educativo individual deve ser revisto a qualquer momento e, obrigatoriamente, no final de cada nível de educação e ensino e no fim de cada ciclo do ensino básico.\n\n2 - A avaliação da implementação das medidas educativas deve assumir carácter de continuidade, sendo obrigatória pelo menos em cada um dos momentos de avaliação sumativa interna da escola.\n\n3 - Dos resultados obtidos por cada aluno com a aplicação das medidas estabelecidas no programa educativo individual, deve ser elaborado um relatório circunstanciado no final do ano lectivo.\n\n4 - O relatório referido no número anterior é elaborado, conjuntamente pelo educador de infância, professor do 1.º ciclo ou director de turma, pelo docente de educação especial, pelo psicólogo e pelos docentes e técnicos que acompanham o desenvolvimento do processo educativo do aluno e aprovado pelo conselho pedagógico e pelo encarregado de educação.\n\n5 - O relatório explicita a existência da necessidade de o aluno continuar a beneficiar de adequações no processo de ensino e de aprendizagem, propõe as alterações necessárias ao programa educativo individual e constitui parte integrante do processo individual do aluno.\n\n6 - O relatório referido nos números anteriores, ao qual é anexo o programa educativo individual, é obrigatoriamente comunicado ao estabelecimento que receba o aluno, para prosseguimento de estudos ou em resultado de processo de transferência."
+  },
+  "46579975": {
+   "fragment_id": "36828475",
+   "type": 11,
+   "heading": "Artigo 14.º — Plano individual de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Plano individual de transição\n\n1 - Sempre que o aluno apresente necessidades educativas especiais de carácter permanente que o impeçam de adquirir as aprendizagens e competências definidas no currículo deve a escola complementar o programa educativo individual com um plano individual de transição destinado a promover a transição para a vida pós-escolar e, sempre que possível, para o exercício de uma actividade profissional com adequada inserção social, familiar ou numa instituição de carácter ocupacional.\n\n2 - A concretização do número anterior, designadamente a implementação do plano individual de transição, inicia-se três anos antes da idade limite de escolaridade obrigatória, sem prejuízo do disposto no artigo anterior.\n\n3 - No sentido de preparar a transição do jovem para a vida pós-escolar, o plano individual de transição deve promover a capacitação e a aquisição de competências sociais necessárias à inserção familiar e comunitária.\n\n4 - O plano individual de transição deve ser datado e assinado por todos os profissionais que participam na sua elaboração, bem como pelos pais ou encarregados de educação e, sempre que possível, pelo próprio aluno."
+  },
+  "46580075": {
+   "fragment_id": "36828575",
+   "type": 11,
+   "heading": "Artigo 15.º — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Certificação\n\n1 - Os instrumentos de certificação da escolaridade devem adequar-se às necessidades especiais dos alunos que seguem o seu percurso escolar com programa educativo individual.\n\n2 - Para efeitos do número anterior, os instrumentos normalizados de certificação devem identificar as adequações do processo de ensino e de aprendizagem que tenham sido aplicadas.\n\n3 - Sem prejuízo do disposto no número anterior, as normas de emissão e os formulários a utilizar são as mesmas que estejam legalmente fixadas para o sistema de ensino."
+  },
+  "46580175": {
+   "fragment_id": "35501675",
+   "type": 1,
+   "heading": "Capítulo IV — Medidas educativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Medidas educativas"
+  },
+  "46580275": {
+   "fragment_id": "36828675",
+   "type": 11,
+   "heading": "Artigo 16.º — Adequação do processo de ensino e de aprendizagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Adequação do processo de ensino e de aprendizagem\n\n1 - A adequação do processo de ensino e de aprendizagem integra medidas educativas que visam promover a aprendizagem e a participação dos alunos com necessidades educativas especiais de carácter permanente.\n\n2 - Constituem medidas educativas referidas no número anterior:\n\na) Apoio pedagógico personalizado;\n\nb) Adequações curriculares individuais;\n\nc) Adequações no processo de matrícula;\n\nd) Adequações no processo de avaliação;\n\ne) Currículo específico individual;\n\nf) Tecnologias de apoio.\n\n3 - As medidas referidas no número anterior podem ser aplicadas cumulativamente, com excepção das alíneas b) e e), não cumuláveis entre si.\n\n4 - As medidas educativas referidas no n.º 2 pressupõem o planeamento de estratégias e de actividades que visam o apoio personalizado aos alunos com necessidades educativas especiais de carácter permanente que integram obrigatoriamente o plano de actividades da escola de acordo com o projecto educativo de escola.\n\n5 - O projecto educativo da escola deve conter:\n\na) As metas e estratégias que a escola se propõe realizar com vista a apoiar os alunos com necessidades educativas especiais de carácter permanente;\n\nb) A identificação das respostas específicas diferenciadas a disponibilizar para alunos surdos, cegos, com baixa visão, com perturbações do espectro do autismo e com multideficiência."
+  },
+  "46580375": {
+   "fragment_id": "36828775",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoio pedagógico personalizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apoio pedagógico personalizado\n\n1 - Para efeitos do presente decreto-lei entende-se por apoio pedagógico personalizado:\n\na) O reforço das estratégias utilizadas no grupo ou turma aos níveis da organização, do espaço e das actividades;\n\nb) O estímulo e reforço das competências e aptidões envolvidas na aprendizagem;\n\nc) A antecipação e reforço da aprendizagem de conteúdos leccionados no seio do grupo ou da turma;\n\nd) O reforço e desenvolvimento de competências específicas.\n\n2 - O apoio definido nas alíneas a), b) e c) do número anterior é prestado pelo educador de infância, pelo professor de turma ou de disciplina, conforme o nível de educação ou de ensino do aluno.\n\n3 - O apoio definido na alínea d) do n.º 1 é prestado, consoante a gravidade da situação dos alunos e a especificidade das competências a desenvolver, pelo educador de infância, professor da turma ou da disciplina, ou pelo docente de educação especial."
+  },
+  "46580475": {
+   "fragment_id": "36828875",
+   "type": 11,
+   "heading": "Artigo 18.º — Adequações curriculares individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Adequações curriculares individuais\n\n1 - Entende-se por adequações curriculares individuais aquelas que, mediante o parecer do conselho de docentes ou conselho de turma, conforme o nível de educação e ensino, se considere que têm como padrão o currículo comum, no caso da educação pré-escolar as que respeitem as orientações curriculares, no ensino básico as que não põem em causa a aquisição das competências terminais de ciclo e, no ensino secundário, as que não põem em causa as competências essenciais das disciplinas.\n\n2 - As adequações curriculares podem consistir na introdução de áreas curriculares específicas que não façam parte da estrutura curricular comum, nomeadamente leitura e escrita em braille, orientação e mobilidade; treino de visão e a actividade motora adaptada, entre outras.\n\n3 - A adequação do currículo dos alunos surdos com ensino bilingue consiste na introdução de áreas curriculares específicas para a primeira língua (L1), segunda língua (L2) e terceira língua (L3):\n\na) A língua gestual portuguesa (L1), do pré-escolar ao ensino secundário;\n\nb) O português segunda língua (L2) do pré-escolar ao ensino secundário;\n\nc) A introdução de uma língua estrangeira escrita (L3) do 3.º ciclo do ensino básico ao ensino secundário.\n\n4 - As adequações curriculares podem consistir igualmente na introdução de objectivos e conteúdos intermédios em função das competências terminais do ciclo ou de curso, das características de aprendizagem e dificuldades específicas dos alunos.\n\n5 - As adequações curriculares individuais podem traduzir-se na dispensa das actividades que se revelem de difícil execução em função da incapacidade do aluno, só sendo aplicáveis quando se verifique que o recurso a tecnologias de apoio não é suficiente para colmatar as necessidades educativas resultantes da incapacidade."
+  },
+  "46580575": {
+   "fragment_id": "36828975",
+   "type": 11,
+   "heading": "Artigo 19.º — Adequações no processo de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Adequações no processo de matrícula\n\n1 - As crianças e jovens com necessidades educativas especiais de carácter permanente gozam de condições especiais de matrícula, podendo nos termos do presente decreto-lei, frequentar o jardim-de-infância ou a escola, independentemente da sua área de residência.\n\n2 - As crianças com necessidades educativas especiais de carácter permanente podem, em situações excepcionais devidamente fundamentadas, beneficiar do adiamento da matrícula no 1.º ano de escolaridade obrigatória, por um ano, não renovável.\n\n3 - A matrícula por disciplinas pode efectuar-se nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, desde que assegurada a sequencialidade do regime educativo comum.\n\n4 - As crianças e jovens surdos têm direito ao ensino bilingue, devendo ser dada prioridade à sua matrícula nas escolas de referência a que se refere a alínea a) do n.º 2 do artigo 4.º independentemente da sua área de residência.\n\n5 - As crianças e jovens cegos ou com baixa visão podem matricular-se e frequentar escolas da rede de escolas de referência para a educação de alunos cegos e com baixa visão a que se refere a alínea b) do n.º 2 do artigo 4.º, independentemente da sua área de residência.\n\n6 - As crianças e jovens com perturbações do espectro do autismo podem matricular-se e frequentar escolas com unidades de ensino estruturado a que se refere alínea a) do n.º 3 do artigo 4.º independentemente da sua área de residência.\n\n7 - As crianças e jovens com multideficiência e com surdocegueira podem matricular-se e frequentar escolas com unidades especializadas a que se refere a alínea b) do n.º 3 do artigo 4.º, independentemente da sua área de residência."
+  },
+  "46580675": {
+   "fragment_id": "36829075",
+   "type": 11,
+   "heading": "Artigo 20.º — Adequações no processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Adequações no processo de avaliação\n\n1 - As adequações quanto aos termos a seguir para a avaliação dos progressos das aprendizagens podem consistir, nomeadamente, na alteração do tipo de provas, dos instrumentos de avaliação e certificação, bem como das condições de avaliação, no que respeita, entre outros aspectos, às formas e meios de comunicação e à periodicidade, duração e local da mesma.\n\n2 - Os alunos com currículos específicos individuais não estão sujeitos ao regime de transição de ano escolar nem ao processo de avaliação característico do regime educativo comum, ficando sujeitos aos critérios específicos de avaliação definidos no respectivo programa educativo individual."
+  },
+  "46580775": {
+   "fragment_id": "36829175",
+   "type": 11,
+   "heading": "Artigo 21.º — Currículo específico individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Currículo específico individual\n\n1 - Entende-se por currículo específico individual, no âmbito da educação especial, aquele que, mediante o parecer do conselho de docentes ou conselho de turma, substitui as competências definidas para cada nível de educação e ensino.\n\n2 - O currículo específico individual pressupõe alterações significativas no currículo comum, podendo as mesmas traduzir-se na introdução, substituição e ou eliminação de objectivos e conteúdos, em função do nível de funcionalidade da criança ou do jovem.\n\n3 - O currículo específico individual inclui conteúdos conducentes à autonomia pessoal e social do aluno e dá prioridade ao desenvolvimento de actividades de cariz funcional centradas nos contextos de vida, à comunicação e à organização do processo de transição para a vida pós-escolar.\n\n4 - Compete ao conselho executivo e ao respectivo departamento de educação especial orientar e assegurar o desenvolvimento dos referidos currículos."
+  },
+  "46580875": {
+   "fragment_id": "36829275",
+   "type": 11,
+   "heading": "Artigo 22.º — Tecnologias de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Tecnologias de apoio\n\nEntende-se por tecnologias de apoio os dispositivos facilitadores que se destinam a melhorar a funcionalidade e a reduzir a incapacidade do aluno, tendo como impacte permitir o desempenho de actividades e a participação nos domínios da aprendizagem e da vida profissional e social."
+  },
+  "46580975": {
+   "fragment_id": "35501775",
+   "type": 1,
+   "heading": "Capítulo V — Modalidades específicas de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Modalidades específicas de educação"
+  },
+  "46581075": {
+   "fragment_id": "36829375",
+   "type": 11,
+   "heading": "Artigo 23.º — Educação bilingue de alunos surdos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Educação bilingue de alunos surdos\n\n1 - A educação das crianças e jovens surdos deve ser feita em ambientes bilingues que possibilitem o domínio da LGP, o domínio do português escrito e, eventualmente, falado, competindo à escola contribuir para o crescimento linguístico dos alunos surdos, para a adequação do processo de acesso ao currículo e para a inclusão escolar e social.\n\n2 - A concentração dos alunos surdos, inseridos numa comunidade linguística de referência e num grupo de socialização constituído por adultos, crianças e jovens de diversas idades que utilizam a LGP, promove condições adequadas ao desenvolvimento desta língua e possibilita o desenvolvimento do ensino e da aprendizagem em grupos ou turmas de alunos surdos, iniciando-se este processo nas primeiras idades e concluindo-se no ensino secundário.\n\n3 - As escolas de referência para a educação bilingue de alunos surdos a que se refere a alínea a) do n.º 2 do artigo 4.º constituem uma resposta educativa especializada desenvolvida, em agrupamentos de escolas ou escolas secundárias que concentram estes alunos numa escola, em grupos ou turmas de alunos surdos.\n\n4 - As escolas de referência para a educação de ensino bilingue de alunos surdos têm como objectivo principal aplicar metodologias e estratégias de intervenção interdisciplinares, adequadas a alunos surdos.\n\n5 - As escolas de referência para a educação bilingue de alunos surdos integram:\n\na) Docentes com formação especializada em educação especial, na área da surdez, competentes em LGP (docentes surdos e ouvintes dos vários níveis de educação e ensino), com formação e experiência no ensino bilingue de alunos surdos;\n\nb) Docentes surdos de LGP;\n\nc) Intérpretes de LGP;\n\nd) Terapeutas da fala.\n\n6 - Para os alunos surdos, o processo de avaliação, referido no artigo 6.º, deve ser desenvolvido por equipas a constituir no agrupamento de escolas ou nas escolas secundárias para a educação bilingue destes alunos.\n\n7 - As equipas referidas no número anterior devem ser constituídas pelos seguintes elementos:\n\na) Docente que lecciona grupo ou turma de alunos surdos do nível de educação e ensino da criança ou jovem;\n\nb) Docente de educação especial especializado na área da surdez;\n\nc) Docente surdo de LGP;\n\nd) Terapeutas da fala;\n\ne) Outros profissionais ou serviços da escola ou da comunidade.\n\n8 - Deve ser dada prioridade à matrícula de alunos surdos, nas escolas de referência para a educação bilingue de alunos surdos.\n\n9 - A organização da resposta educativa deve ser determinada pelo nível de educação e ensino, ano de escolaridade, idade dos alunos e nível de proficiência linguística.\n\n10 - As respostas educativas devem ser flexíveis, assumindo carácter individual e dinâmico, e pressupõem uma avaliação sistemática do processo de ensino e de aprendizagem do aluno surdo, bem como o envolvimento e a participação da família.\n\n11 - Os agrupamentos de escolas que integram os jardins-de-infância de referência para a educação bilingue de crianças surdas devem articular as respostas educativas com os serviços de intervenção precoce no apoio e informação das escolhas e opções das suas famílias e na disponibilização de recursos técnicos especializados, nomeadamente de docentes surdos de LGP, bem como na frequência precoce de jardim-de-infância no grupo de crianças surdas.\n\n12 - As crianças surdas, entre os 3 e os 6 anos de idade, devem frequentar a educação pré-escolar, sempre em grupos de crianças surdas, de forma a desenvolverem a LGP como primeira língua, sem prejuízo da participação do seu grupo com grupos de crianças ouvintes em actividades desenvolvidas na comunidade escolar.\n\n13 - Os alunos dos ensino básico e secundário realizam o seu percurso escolar em turmas de alunos surdos, de forma a desenvolverem a LGP como primeira língua e aceder ao currículo nesta língua, sem prejuízo da sua participação com as turmas de alunos ouvintes em actividades desenvolvidas na comunidade escolar.\n\n14 - A docência dos grupos ou turmas de alunos surdos é assegurada por docentes surdos ou ouvintes com habilitação profissional para leccionar aqueles níveis de educação e ensino, competentes em LGP e com formação e experiência no ensino bilingue de alunos surdos.\n\n15 - Na educação pré-escolar e no 1.º ciclo do ensino básico deve ser desenvolvido um trabalho de co-responsabilização e parceria entre docentes surdos e ouvintes de forma a garantir aos alunos surdos a aprendizagem e o desenvolvimento da LGP como primeira língua, e da língua portuguesa, como segunda língua.\n\n16 - Sempre que se verifique a inexistência de docente surdo competente em LGP, com habilitação profissional para o exercício da docência no pré-escolar ou no 1.º ciclo do ensino básico, deve ser garantida a colocação de docente surdo responsável pela área curricular de LGP, a tempo inteiro, no grupo ou turma dos alunos surdos.\n\n17 - Não se verificando a existência de docentes competentes em LGP nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, as aulas leccionadas por docentes ouvintes são traduzidas por um intérprete de LGP.\n\n18 - Ao intérprete de LGP compete fazer a tradução da língua portuguesa oral para a língua gestual portuguesa e da língua gestual portuguesa para a língua oral das actividades que na escola envolvam a comunicação entre surdos e ouvintes, bem como a tradução das aulas leccionadas por docentes, reuniões, acções e projectos resultantes da dinâmica da comunidade educativa.\n\n19 - Os docentes surdos de LGP asseguram o desenvolvimento da língua gestual portuguesa como primeira língua dos alunos surdos.\n\n20 - Os docentes ouvintes asseguram o desenvolvimento da língua portuguesa como segunda língua dos alunos surdos.\n\n21 - Aos docentes de educação especial com formação na área da surdez, colocados nas escolas de referência para a educação bilingue de alunos surdos, compete:\n\na) Leccionar turmas de alunos surdos, atendendo à sua habilitação profissional para a docência e à sua competência em LGP;\n\nb) Apoiar os alunos surdos na antecipação e reforço das aprendizagens, no domínio da leitura/escrita;\n\nc) Elaborar e adaptar materiais para os alunos que deles necessitem;\n\nd) Participar na elaboração do programa educativo individual dos alunos surdos.\n\n22 - Aos docentes surdos com habilitação profissional para o ensino da área curricular ou da disciplina de LGP compete:\n\na) Leccionar os programas LGP como primeira língua dos alunos surdos;\n\nb) Desenvolver, acompanhar e avaliar o processo de ensino e de aprendizagem da LGP;\n\nc) Definir, preparar e elaborar meios e suportes didácticos de apoio ao ensino/aprendizagem da LGP;\n\nd) Participar na elaboração do programa educativo individual dos alunos surdos;\n\ne) Desenvolver actividades, no âmbito da comunidade educativa em que se insere, visando a interacção de surdos e ouvintes e promovendo a divulgação da LGP junto da comunidade ouvinte;\n\nf) Ensinar a LGP como segunda língua a alunos ou outros elementos da comunidade educativa em que está inserido, difundir os valores e a cultura da comunidade surda contribuindo para a integração social da pessoa surda.\n\n23 - As escolas de referência para a educação bilingue de alunos surdos devem estar apetrechadas com equipamentos essenciais às necessidades específicas da população surda.\n\n24 - Consideram-se equipamentos essenciais ao nível da escola e da sala de aula os seguintes: computadores com câmaras, programas para tratamento de imagem e filmes, impressora e scanner; televisor e vídeo, câmara e máquinas fotográficas digitais, retroprojector, projector multimédia, quadro interactivo, sinalizadores luminosos de todos os sinais sonoros, telefone com serviço de mensagens curtas (sms), sistema de vídeo-conferência, software educativo, dicionários e livros de apoio ao ensino do português escrito, materiais multimédia de apoio ao ensino e aprendizagem em LGP, ao desenvolvimento da LGP e sobre a cultura da comunidade surda, disponibilizados em diferentes formatos; material e equipamentos específicos para a intervenção em terapêutica da fala.\n\n25 - Constituem objectivos dos agrupamentos de escolas e escolas secundárias:\n\na) Assegurar o desenvolvimento da LGP como primeira língua dos alunos surdos;\n\nb) Assegurar o desenvolvimento da língua portuguesa escrita como segunda língua dos alunos surdos;\n\nc) Assegurar às crianças e jovens surdos, os apoios ao nível da terapia da fala do apoio pedagógico e do reforço das aprendizagens, dos equipamentos e materiais específicos bem como de outros apoios que devam beneficiar;\n\nd) Organizar e apoiar os processos de transição entre os diferentes níveis de educação e de ensino;\n\ne) Organizar e apoiar os processos de transição para a vida pós-escolar;\n\nf) Criar espaços de reflexão e partilha de conhecimentos e experiências numa perspectiva transdisciplinar de desenvolvimento de trabalho cooperativo entre profissionais com diferentes formações que desempenham as suas funções com os alunos surdos;\n\ng) Programar e desenvolver acções de formação em LGP para a comunidade escolar e para os familiares dos alunos surdos;\n\nh) Colaborar e desenvolver com as associações de pais e com as associações de surdos acções de diferentes âmbitos, visando a interacção entre a comunidade surda e a comunidade ouvinte.\n\n26 - Compete ao conselho executivo do agrupamento de escolas ou da escola secundária garantir, organizar, acompanhar e orientar o funcionamento e o desenvolvimento da resposta educativa adequada à inclusão dos alunos surdos."
+  },
+  "46581175": {
+   "fragment_id": "36829475",
+   "type": 11,
+   "heading": "Artigo 24.º — Educação de alunos cegos e com baixa visão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Educação de alunos cegos e com baixa visão\n\n1 - As escolas de referência para a educação de alunos cegos e com baixa visão concentram as crianças e jovens de um ou mais concelhos, em função da sua localização e rede de transportes existentes.\n\n2 - As escolas de referência a que se refere a alínea b) do n.º 2 do artigo 4.º constitui uma resposta educativa especializada desenvolvida em agrupamentos de escolas ou escolas secundárias que concentrem alunos cegos e com baixa visão.\n\n3 - Constituem objectivos das escolas de referência para a educação de alunos cegos e com baixa visão:\n\na) Assegurar a observação e avaliação visual e funcional;\n\nb) Assegurar o ensino e a aprendizagem da leitura e escrita do braille bem como das suas diversas grafias e domínios de aplicação;\n\nc) Assegurar a utilização de meios informáticos específicos, entre outros, leitores de ecrã, software de ampliação de caracteres, linhas braille e impressora braille;\n\nd) Assegurar o ensino e a aprendizagem da orientação e mobilidade;\n\ne) Assegurar o treino visual específico;\n\nf) Orientar os alunos nas disciplinas em que as limitações visuais ocasionem dificuldades particulares, designadamente a educação visual, educação física, técnicas laboratoriais, matemática, química, línguas estrangeiras e tecnologias de comunicação e informação;\n\ng) Assegurar o acompanhamento psicológico e a orientação vocacional;\n\nh) Assegurar o treino de actividades de vida diária e a promoção de competências sociais;\n\ni) Assegurar a formação e aconselhamento aos professores, pais, encarregados de educação e outros membros da comunidade educativa.\n\n4 - As escolas de referência para a educação de alunos cegos e com baixa visão integram docentes com formação especializada em educação especial no domínio da visão e outros profissionais com competências para o ensino de braille e de orientação e mobilidade.\n\n5 - As escolas de referência para a educação de alunos cegos e com baixa visão devem estar apetrechadas com equipamentos informáticos e didácticos adequados às necessidades da população a que se destinam.\n\n6 - Consideram-se materiais didácticos adequados os seguintes: material em caracteres ampliados, em braille; em formato digital, em áudio e materiais em relevo.\n\n7 - Consideram-se equipamentos informáticos adequados, os seguintes: computadores equipados com leitor de ecrã com voz em português e linha braille, impressora braille, impressora laser para preparação de documentos e concepção de relevos; scanner; máquina para produção de relevos, máquinas braille; cubarítmos; calculadoras electrónicas; lupas de mão; lupa TV; software de ampliação de caracteres; software de transcrição de texto em braille; gravadores adequados aos formatos áudio actuais e suportes digitais de acesso à Internet.\n\n8 - Compete ao conselho executivo do agrupamento de escolas e escolas secundárias organizar, acompanhar e orientar o funcionamento e o desenvolvimento da resposta educativa adequada à inclusão dos alunos cegos e com baixa visão."
+  },
+  "46581275": {
+   "fragment_id": "36829575",
+   "type": 11,
+   "heading": "Artigo 25.º — Unidades de ensino estruturado para a educação de alunos com perturbações do espectro do autismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Unidades de ensino estruturado para a educação de alunos com perturbações do espectro do autismo\n\n1 - As unidades de ensino estruturado para a educação de alunos com perturbações do espectro do autismo constituem uma resposta educativa especializada desenvolvida em escolas ou agrupamentos de escolas que concentrem grupos de alunos que manifestem perturbações enquadráveis nesta problemática.\n\n2 - A organização da resposta educativa para alunos com perturbações do espectro do autismo deve ser determinada pelo grau de severidade, nível de desenvolvimento cognitivo, linguístico e social, nível de ensino e pela idade dos alunos.\n\n3 - Constituem objectivos das unidades de ensino estruturado:\n\na) Promover a participação dos alunos com perturbações do espectro do autismo nas actividades curriculares e de enriquecimento curricular junto dos pares da turma a que pertencem;\n\nb) Implementar e desenvolver um modelo de ensino estruturado o qual consiste na aplicação de um conjunto de princípios e estratégias que, com base em informação visual, promovam a organização do espaço, do tempo, dos materiais e das actividades;\n\nc) Aplicar e desenvolver metodologias de intervenção interdisciplinares que, com base no modelo de ensino estruturado, facilitem os processos de aprendizagem, de autonomia e de adaptação ao contexto escolar;\n\nd) Proceder às adequações curriculares necessárias;\n\ne) Organizar o processo de transição para a vida pós-escolar;\n\nf) Adoptar opções educativas flexíveis, de carácter individual e dinâmico, pressupondo uma avaliação constante do processo de ensino e de aprendizagem do aluno e o regular envolvimento e participação da família.\n\n4 - As escolas ou agrupamentos de escolas com unidades de ensino estruturado concentram alunos de um ou mais concelhos, em função da sua localização e rede de transportes existentes.\n\n5 - As escolas ou agrupamentos de escolas com unidades de ensino estruturado integram docentes com formação especializada em educação especial.\n\n6 - Às escolas ou agrupamentos de escolas com unidades de ensino estruturado compete:\n\na) Acompanhar o desenvolvimento do modelo de ensino estruturado;\n\nb) Organizar formação específica sobre as perturbações do espectro do autismo e o modelo de ensino estruturado;\n\nc) Adequar os recursos às necessidades das crianças e jovens;\n\nd) Assegurar os apoios necessários ao nível de terapia da fala, ou outros que se venham a considerar essenciais;\n\ne) Criar espaços de reflexão e de formação sobre estratégias de diferenciação pedagógica numa perspectiva de desenvolvimento de trabalho transdisciplinar e cooperativo entre vários profissionais;\n\nf) Organizar e apoiar os processos de transição entre os diversos níveis de educação e de ensino;\n\ng) Promover e apoiar o processo de transição dos jovens para a vida pós-escolar;\n\nh) Colaborar com as associações de pais e com as associações vocacionadas para a educação e apoio a crianças e jovens com perturbações do espectro do autismo;\n\ni) Planear e participar, em colaboração com as associações relevantes da comunidade, em actividades recreativas e de lazer dirigidas a jovens com perturbações do espectro do autismo, visando a inclusão social dos seus alunos.\n\n7 - As escolas ou agrupamentos de escolas onde funcionem unidades de ensino estruturado devem ser apetrechados com mobiliário e equipamento essenciais às necessidades específicas da população com perturbações do espectro do autismo e introduzir as modificações nos espaços e nos materiais que se considerem necessárias face ao modelo de ensino a implementar.\n\n8 - Compete ao conselho executivo da escola ou agrupamento de escolas organizar, acompanhar e orientar o funcionamento da unidade de ensino estruturado."
+  },
+  "46581375": {
+   "fragment_id": "36829675",
+   "type": 11,
+   "heading": "Artigo 26.º — Unidades de apoio especializado para a educação de alunos com multideficiência e surdocegueira congénita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Unidades de apoio especializado para a educação de alunos com multideficiência e surdocegueira congénita\n\n1 - As unidades de apoio especializado para a educação de alunos com multideficiência e surdocegueira congénita constituem uma resposta educativa especializada desenvolvida em escolas ou agrupamentos de escolas que concentrem grupos de alunos que manifestem essas problemáticas.\n\n2 - A organização da resposta educativa deve ser determinada pelo tipo de dificuldade manifestada, pelo nível de desenvolvimento cognitivo, linguístico e social e pela idade dos alunos.\n\n3 - Constituem objectivos das unidades de apoio especializado:\n\na) Promover a participação dos alunos com multideficiência e surdocegueira nas actividades curriculares e de enriquecimento curricular junto dos pares da turma a que pertencem;\n\nb) Aplicar metodologias e estratégias de intervenção interdisciplinares visando o desenvolvimento e a integração social e escolar dos alunos;\n\nc) Assegurar a criação de ambientes estruturados, securizantes e significativos para os alunos;\n\nd) Proceder às adequações curriculares necessárias;\n\ne) Adoptar opções educativas flexíveis, de carácter individual e dinâmico, pressupondo uma avaliação constante do processo de ensino e de aprendizagem do aluno e o regular envolvimento e participação da família;\n\nf) Assegurar os apoios específicos ao nível das terapias, da psicologia e da orientação e mobilidade aos alunos que deles possam necessitar;\n\ng) Organizar o processo de transição para a vida pós-escolar.\n\n4 - As escolas ou agrupamentos de escolas com unidades especializadas concentram alunos de um ou mais concelhos, em função da sua localização e rede de transportes existentes.\n\n5 - As escolas ou agrupamentos de escolas com unidades especializadas integram docentes com formação especializada em educação especial.\n\n6 - Às escolas ou agrupamentos de escolas com unidades especializadas compete:\n\na) Acompanhar o desenvolvimento das metodologias de apoio;\n\nb) Adequar os recursos às necessidades dos alunos;\n\nc) Promover a participação social dos alunos com multideficiência e surdocegueira congénita;\n\nd) Criar espaços de reflexão e de formação sobre estratégias de diferenciação pedagógica numa perspectiva de desenvolvimento de trabalho transdisciplinar e cooperativo entre os vários profissionais;\n\ne) Organizar e apoiar os processos de transição entre os diversos níveis de educação e de ensino;\n\nf) Promover e apoiar o processo de transição dos jovens para a vida pós-escolar;\n\ng) Planear e participar, em colaboração com as associações da comunidade, em actividades recreativas e de lazer dirigidas a crianças e jovens com multideficiência e surdocegueira congénita, visando a integração social dos seus alunos.\n\n7 - As escolas ou agrupamentos de escolas onde funcionem unidades de apoio especializado devem ser apetrechados com os equipamentos essenciais às necessidades específicas dos alunos com multideficiência ou surdocegueira e introduzir as modificações nos espaços e mobiliário que se mostrem necessárias face às metodologias e técnicas a implementar.\n\n8 - Compete ao conselho executivo da escola ou agrupamento de escolas organizar acompanhar e orientar o desenvolvimento da unidade especializada."
+  },
+  "46581475": {
+   "fragment_id": "36829775",
+   "type": 11,
+   "heading": "Artigo 27.º — Intervenção precoce na infância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Intervenção precoce na infância\n\n1 - No âmbito da intervenção precoce na infância são criados agrupamentos de escolas de referência para a colocação de docentes.\n\n2 - Constituem objectivos dos agrupamentos de escolas de referência:\n\na) Assegurar a articulação com os serviços de saúde e da segurança social;\n\nb) Reforçar as equipas técnicas, que prestam serviços no âmbito da intervenção precoce na infância, financiadas pela segurança social;\n\nc) Assegurar, no âmbito do ME, a prestação de serviços de intervenção precoce na infância."
+  },
+  "46581575": {
+   "fragment_id": "35501875",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "46581675": {
+   "fragment_id": "36829875",
+   "type": 11,
+   "heading": "Artigo 28.º — Serviço docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Serviço docente\n\n1 - Sem prejuízo do disposto no número seguinte, as áreas curriculares específicas definidas no n.º 2 do artigo 18.º, os conteúdos mencionados no n.º 3 do mesmo artigo e os conteúdos curriculares referidos no n.º 3 do artigo 21.º são leccionadas por docentes de educação especial.\n\n2 - Os quadros dos agrupamentos de escolas devem, nos termos aplicáveis ao restante pessoal docente, ser dotados dos necessários lugares.\n\n3 - A docência da área curricular ou da disciplina de LGP pode ser exercida, num período de transição até à formação de docentes surdos com habilitação própria para a docência de LGP, por profissionais com habilitação suficiente: formadores surdos de LGP com curso profissional de formação de formadores de LGP ministrado pela Associação Portuguesa de Surdos ou pela Associação de Surdos do Porto.\n\n4 - A competência em LGP dos docentes surdos e ouvintes deve ser certificada pelas entidades reconhecidas pela comunidade linguística surda com competência para o exercício da certificação e da formação em LGP que são, à data da publicação deste decreto-lei, a Associação Portuguesa de Surdos e a Associação de Surdos do Porto.\n\n5 - O apoio à utilização de materiais didácticos adaptados e tecnologias de apoio é da responsabilidade do docente de educação especial."
+  },
+  "46581775": {
+   "fragment_id": "36829975",
+   "type": 11,
+   "heading": "Artigo 29.º — Serviço não docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Serviço não docente\n\n1 - As actividades de serviço não docente, no âmbito da educação especial, nomeadamente de terapia da fala, terapia ocupacional, avaliação e acompanhamento psicológico, treino da visão e intérpretes de LGP são desempenhadas por técnicos com formação profissional adequada.\n\n2 - Quando o agrupamento não disponha nos seus quadros dos recursos humanos necessários à execução de tarefas incluídas no disposto no número anterior pode o mesmo recorrer à aquisição desses serviços, nos termos legal e regulamentarmente fixados."
+  },
+  "46581875": {
+   "fragment_id": "36830075",
+   "type": 11,
+   "heading": "Artigo 30.º — Cooperação e parceria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Cooperação e parceria\n\nAs escolas ou agrupamentos de escolas devem, isolada ou conjuntamente, desenvolver parcerias com instituições particulares de solidariedade social, centros de recursos especializados, ou outras, visando os seguintes fins:\n\na) A referenciação e avaliação das crianças e jovens com necessidades educativas especiais de carácter permanente;\n\nb) A execução de actividades de enriquecimento curricular, designadamente a realização de programas específicos de actividades físicas e a prática de desporto adaptado;\n\nc) A execução de respostas educativas de educação especial, entre outras, ensino do braille, do treino visual, da orientação e mobilidade e terapias;\n\nd) O desenvolvimento de estratégias de educação que se considerem adequadas para satisfazer necessidades educativas dos alunos;\n\ne) O desenvolvimento de acções de apoio à família;\n\nf) A transição para a vida pós-escolar, nomeadamente o apoio à transição da escola para o emprego;\n\ng) A integração em programas de formação profissional;\n\nh) Preparação para integração em centros de emprego apoiado;\n\ni) Preparação para integração em centros de actividades ocupacionais;\n\nj) Outras acções que se mostrem necessárias para desenvolvimento da educação especial, designadamente as previstas no n.º 1 do artigo 29.º"
+  },
+  "46581975": {
+   "fragment_id": "36830175",
+   "type": 11,
+   "heading": "Artigo 31.º — Não cumprimento do princípio da não discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Não cumprimento do princípio da não discriminação\n\nO incumprimento do disposto no n.º 3 do artigo 2.º implica:\n\na) Nos estabelecimentos de educação da rede pública, o início de procedimento disciplinar;\n\nb) Nas escolas de ensino particular e cooperativo, a retirada do paralelismo pedagógico e a cessação do co-financiamento, qualquer que seja a sua natureza, por parte da administração educativa central e regional e seus organismos e serviços dependentes."
+  },
+  "46582075": {
+   "fragment_id": "36830275",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 319/91, de 23 de Agosto;\n\nb) O artigo 10.º do Decreto-Lei n.º 6/2001, de 18 de Janeiro;\n\nc) A Portaria n.º 611/93, de 29 de Junho;\n\nd) O artigo 6.º da Portaria n.º 1102/97, de 3 de Novembro;\n\ne) O artigo 6.º da Portaria n.º 1103/97, de 3 de Novembro;\n\nf) Os n.os 51 e 52 do Despacho Normativo n.º 30/2001, de 22 de Junho, publicado no Diário da República, 1.ª série-B, n.º 166, de 19 de Julho de 2001;\n\ng) O despacho n.º 173/99, de 23 de Outubro;\n\nh) O despacho n.º 7520/98, de 6 de Maio.\n\n> Nota: [Artigo 4.º, Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230) É repristinado o disposto nas normas referidas nas alíneas d) e e) do artigo 32.º do Decreto-Lei n.º 3/2008, de 7 de janeiro."
+  },
+  "46578275": {
+   "fragment_id": "35106875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Constitui desígnio do XVII Governo Constitucional promover a igualdade de oportunidades, valorizar a educação e promover a melhoria da qualidade do ensino. Um aspecto determinante dessa qualidade é a promoção de uma escola democrática e inclusiva, orientada para o sucesso educativo de todas as crianças e jovens. Nessa medida importa planear um sistema de educação flexível, pautado por uma política global integrada, que permita responder à diversidade de características e necessidades de todos os alunos que implicam a inclusão das crianças e jovens com necessidades educativas especiais no quadro de uma política de qualidade orientada para o sucesso educativo de todos os alunos.\n\nNos últimos anos, principalmente após a Declaração de Salamanca (1994), tem vindo a afirmar-se a noção de escola inclusiva, capaz de acolher e reter, no seu seio, grupos de crianças e jovens tradicionalmente excluídos. Esta noção, dada a sua dimensão eminentemente social, tem merecido o apoio generalizado de profissionais, da comunidade científica e de pais.\n\nA educação inclusiva visa a equidade educativa, sendo que por esta se entende a garantia de igualdade, quer no acesso quer nos resultados.\n\nNo quadro da equidade educativa, o sistema e as práticas educativas devem assegurar a gestão da diversidade da qual decorrem diferentes tipos de estratégias que permitam responder às necessidades educativas dos alunos. Deste modo, a escola inclusiva pressupõe individualização e personalização das estratégias educativas, enquanto método de prossecução do objectivo de promover competências universais que permitam a autonomia e o acesso à condução plena da cidadania por parte de todos.\n\nTodos os alunos têm necessidades educativas, trabalhadas no quadro da gestão da diversidade acima referida. Existem casos, porém, em que as necessidades se revestem de contornos muito específicos, exigindo a activação de apoios especializados.\n\nOs apoios especializados visam responder às necessidades educativas especiais dos alunos com limitações significativas ao nível da actividade e da participação, num ou vários domínios de vida, decorrentes de alterações funcionais e estruturais, de carácter permanente, resultando em dificuldades continuadas ao nível da comunicação, da aprendizagem, da mobilidade, da autonomia, do relacionamento interpessoal e da participação social e dando lugar à mobilização de serviços especializados para promover o potencial de funcionamento biopsicosocial.\n\nOs apoios especializados podem implicar a adaptação de estratégias, recursos, conteúdos, processos, procedimentos e instrumentos, bem como a utilização de tecnologias de apoio. Portanto, não se trata só de medidas para os alunos, mas também de medidas de mudança no contexto escolar.\n\nEntre os alunos com deficiências e incapacidades alguns necessitam de acções positivas que exigem diferentes graus de intensidade e de especialização. À medida que aumenta a necessidade de uma maior especialização do apoio personalizado, decresce o número de crianças e jovens que dele necessitam, do que decorre que apenas uma reduzida percentagem necessita de apoios personalizados altamente especializados.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 46/86, de 14 de Outubro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "72836765": {
+   "fragment_id": "36827175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2008-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei define os apoios especializados a prestar na educação pré-escolar e nos ensinos básico e secundário dos sectores público, particular e cooperativo, visando a criação de condições para a adequação do processo educativo às necessidades educativas especiais dos alunos com limitações significativas ao nível da actividade e da participação num ou vários domínios de vida, decorrentes de alterações funcionais e estruturais, de carácter permanente, resultando em dificuldades continuadas ao nível da comunicação, da aprendizagem, da mobilidade, da autonomia, do relacionamento interpessoal e da participação social.\n\n2 - A educação especial tem por objectivos a inclusão educativa e social, o acesso e o sucesso educativo, a autonomia, a estabilidade emocional, bem como a promoção da igualdade de oportunidades, a preparação para o prosseguimento de estudos ou para uma adequada preparação para a vida pós-escolar ou profissional.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "72836766": {
+   "fragment_id": "36827475",
+   "type": 11,
+   "heading": "Artigo 4.º — Organização",
+   "in_force_from": "2008-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 4.º — Organização\n\n1 - As escolas devem incluir nos seus projectos educativos as adequações relativas ao processo de ensino e de aprendizagem, de carácter organizativo e de funcionamento, necessárias para responder adequadamente às necessidades educativas especiais de carácter permanente das crianças e jovens, com vista a assegurar a sua maior participação nas actividades de cada grupo ou turma e da comunidade escolar em geral.\n\n2 - Para garantir as adequações de carácter organizativo e de funcionamento referidas no número anterior, são criadas por despacho ministerial:\n\na) Escolas de referência para a educação bilingue de alunos surdos;\n\nb) Escolas de referência para a educação de alunos cegos e com baixa visão.\n\n3 - Para apoiar a adequação do processo de ensino e de aprendizagem podem as escolas ou agrupamentos de escolas desenvolver respostas específicas diferenciadas para alunos com perturbações do espectro do autismo e com multideficiência, designadamente através da criação de:\n\na) Unidades de ensino estruturado para a educação de alunos com perturbações do espectro do autismo;\n\nb) Unidades de apoio especializado para a educação de alunos com multideficiência e surdocegueira congénita.\n\n4 - As respostas referidas nas alíneas a) e b) do número anterior são propostas por deliberação do conselho executivo, ouvido o conselho pedagógico, quando numa escola ou grupos de escolas limítrofes, o número de alunos o justificar e quando a natureza das respostas, dos equipamentos específicos e das especializações profissionais, justifiquem a sua concentração.\n\n5 - As unidades referidas no n.º 3 são criadas por despacho do director regional de educação competente.\n\n6 - A educação especial organiza-se segundo modelos diversificados de integração em ambientes de escola inclusiva e integradora, garantindo a utilização de ambientes o menos restritivos possível, desde que dessa integração não resulte qualquer tipo de segregação ou de exclusão da criança ou jovem com necessidades educativas especiais.\n\n7 - Nos casos em que a aplicação das medidas previstas nos artigos anteriores se revele comprovadamente insuficiente em função do tipo e grau de deficiência do aluno, podem os intervenientes no processo de referenciação e de avaliação constantes do presente diploma, propor a frequência de uma instituição de educação especial.\n\n8 - Os pais ou encarregados de educação podem solicitar a mudança de escola onde o aluno se encontra inscrito, nos termos do disposto no n.º 3 do artigo 3.º\n\n9 - As condições de acesso e de frequência dos alunos com necessidades educativas especiais em instituições do ensino particular de educação especial ou cooperativas e associações de ensino especial, sem fins lucrativos, bem como os apoios financeiros a conceder, são definidos por portaria.\n\n10 - As condições de funcionamento e financiamento das instituições de educação especial são definidas por portaria.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "72836762": {
+   "fragment_id": "72871429",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Instituições de educação especial",
+   "in_force_from": "2008-05-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 4.º-A — Instituições de educação especial\n\n1 - As instituições de educação especial têm por missão a escolarização de crianças e jovens com necessidades educativas especiais que requeiram intervenções especializadas e diferenciadas que se traduzam em adequações significativas do seu processo de educação ou de ensino e aprendizagem, comprovadamente não passíveis de concretizar, com a correcta integração, noutro estabelecimento de educação ou de ensino ou para as quais se revele comprovadamente insuficiente esta integração.\n\n2 - As instituições de educação especial devem ter como objectivos, relativamente a cada criança ou jovem, o cumprimento da escolaridade obrigatória e a integração na vida activa, numa perspectiva de promoção do maior desenvolvimento possível, de acordo com as limitações ou incapacidades de cada um deles, das suas aprendizagens, competências, aptidões e capacidades.\n\n3 - As instituições de educação especial podem ser públicas, particulares ou cooperativas, nomeadamente instituições particulares de solidariedade social, em especial as associações de educação especial e as cooperativas de educação especial, e os estabelecimentos de ensino particular de educação especial.\n\n4 - O Estado reconhece o papel de relevo na educação das crianças e jovens com necessidades educativas especiais das instituições referidas no número anterior.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "72836767": {
+   "fragment_id": "36827675",
+   "type": 11,
+   "heading": "Artigo 6.º — Processo de avaliação",
+   "in_force_from": "2008-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 6.º — Processo de avaliação\n\n1 - Referenciada a criança ou jovem, nos termos do artigo anterior, compete ao conselho executivo desencadear os procedimentos seguintes:\n\na) Solicitar ao departamento de educação especial e ao serviço de psicologia um relatório técnico-pedagógico conjunto, com os contributos dos restantes intervenientes no processo, onde sejam identificadas, nos casos em que tal se justifique, as razões que determinam as necessidades educativas especiais do aluno e a sua tipologia, designadamente as condições de saúde, doença ou incapacidade;\n\nb) Solicitar ao departamento de educação especial a determinação dos apoios especializados, das adequações do processo de ensino e de aprendizagem de que o aluno deva beneficiar e das tecnologias de apoio;\n\nc) Assegurar a participação activa dos pais ou encarregados de educação, assim como a sua anuência;\n\nd) Homologar o relatório técnico-pedagógico e determinar as suas implicações;\n\ne) Nos casos em que se considere não se estar perante uma situação de necessidades educativas que justifiquem a intervenção dos serviços da educação especial, solicitar ao departamento de educação especial e aos serviços de psicologia o encaminhamento dos alunos para os apoios disponibilizados pela escola que melhor se adeqúem à sua situação específica.\n\n2 - Para a elaboração do relatório a que se refere a alínea a) do número anterior pode o conselho executivo, quando tal se justifique, recorrer aos centros de saúde, a centros de recursos especializados, às escolas ou unidades referidas nos n.os 2 e 3 do artigo 4.º\n\n3 - Do relatório técnico-pedagógico constam os resultados decorrentes da avaliação, obtidos por diferentes instrumentos de acordo com o contexto da sua aplicação, tendo por referência a Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde, servindo de base à elaboração do programa educativo individual.\n\n4 - O relatório técnico-pedagógico a que se referem os números anteriores é parte integrante do processo individual do aluno.\n\n5 - A avaliação deve ficar concluída 60 dias após a referenciação com a aprovação do programa educativo individual pelo conselho pedagógico da escola ou do agrupamento escolar.\n\n6 - Quando o presidente do conselho executivo decida pela não homologação do programa educativo individual, deve exarar despacho justificativo da decisão, devendo reenviá-lo à entidade que o tenha elaborado, com o fim de obter uma melhor justificação ou enquadramento.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "72836768": {
+   "fragment_id": "36829375",
+   "type": 11,
+   "heading": "Artigo 23.º — Educação bilingue de alunos surdos",
+   "in_force_from": "2008-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 23.º — Educação bilingue de alunos surdos\n\n1 - A educação das crianças e jovens surdos deve ser feita em ambientes bilingues que possibilitem o domínio da LGP, o domínio do português escrito e, eventualmente, falado, competindo à escola contribuir para o crescimento linguístico dos alunos surdos, para a adequação do processo de acesso ao currículo e para a inclusão escolar e social.\n\n2 - A concentração dos alunos surdos, inseridos numa comunidade linguística de referência e num grupo de socialização constituído por adultos, crianças e jovens de diversas idades que utilizam a LGP, promove condições adequadas ao desenvolvimento desta língua e possibilita o desenvolvimento do ensino e da aprendizagem em grupos ou turmas de alunos surdos, iniciando-se este processo nas primeiras idades e concluindo-se no ensino secundário.\n\n3 - As escolas de referência para a educação bilingue de alunos surdos a que se refere a alínea a) do n.º 2 do artigo 4.º constituem uma resposta educativa especializada desenvolvida, em agrupamentos de escolas ou escolas secundárias que concentram estes alunos numa escola, em grupos ou turmas de alunos surdos.\n\n4 - As escolas de referência para a educação de ensino bilingue de alunos surdos têm como objectivo principal aplicar metodologias e estratégias de intervenção interdisciplinares, adequadas a alunos surdos.\n\n5 - As escolas de referência para a educação bilingue de alunos surdos integram:\n\na) Docentes com formação especializada em educação especial, na área da surdez, competentes em LGP (docentes surdos e ouvintes dos vários níveis de educação e ensino), com formação e experiência no ensino bilingue de alunos surdos;\n\nb) Docentes de LGP;\n\nc) Intérpretes de LGP;\n\nd) Terapeutas da fala.\n\n6 - Para os alunos surdos, o processo de avaliação, referido no artigo 6.º, deve ser desenvolvido por equipas a constituir no agrupamento de escolas ou nas escolas secundárias para a educação bilingue destes alunos.\n\n7 - As equipas referidas no número anterior devem ser constituídas pelos seguintes elementos:\n\na) Docente que lecciona grupo ou turma de alunos surdos do nível de educação e ensino da criança ou jovem;\n\nb) Docente de educação especial especializado na área da surdez;\n\nc) Docentes de LGP;\n\nd) Terapeutas da fala;\n\ne) Outros profissionais ou serviços da escola ou da comunidade.\n\n8 - Deve ser dada prioridade à matrícula de alunos surdos, nas escolas de referência para a educação bilingue de alunos surdos.\n\n9 - A organização da resposta educativa deve ser determinada pelo nível de educação e ensino, ano de escolaridade, idade dos alunos e nível de proficiência linguística.\n\n10 - As respostas educativas devem ser flexíveis, assumindo carácter individual e dinâmico, e pressupõem uma avaliação sistemática do processo de ensino e de aprendizagem do aluno surdo, bem como o envolvimento e a participação da família.\n\n11 - Os agrupamentos de escolas que integram os jardins-de-infância de referência para a educação bilingue de crianças surdas devem articular as respostas educativas com os serviços de intervenção precoce no apoio e informação de escolhas e opções das suas famílias e na disponibilização de recursos técnicos especializados, nomeadamente de docentes de LGP, bem como da frequência precoce de jardim-de-infância no grupo de crianças surdas.\n\n12 - As crianças surdas, entre os 3 e os 6 anos de idade, devem frequentar a educação pré-escolar, sempre em grupos de crianças surdas, de forma a desenvolverem a LGP como primeira língua, sem prejuízo da participação do seu grupo com grupos de crianças ouvintes em actividades desenvolvidas na comunidade escolar.\n\n13 - Os alunos dos ensino básico e secundário realizam o seu percurso escolar em turmas de alunos surdos, de forma a desenvolverem a LGP como primeira língua e aceder ao currículo nesta língua, sem prejuízo da sua participação com as turmas de alunos ouvintes em actividades desenvolvidas na comunidade escolar.\n\n14 - A docência dos grupos ou turmas de alunos surdos é assegurada por docentes surdos ou ouvintes com habilitação profissional para leccionar aqueles níveis de educação e ensino, competentes em LGP e com formação e experiência no ensino bilingue de alunos surdos.\n\n15 - Na educação pré-escolar e no 1.º ciclo do ensino básico deve ser desenvolvido um trabalho de co-responsabilização e parceria entre docentes surdos e ouvintes de forma a garantir aos alunos surdos a aprendizagem e o desenvolvimento da LGP como primeira língua, e da língua portuguesa, como segunda língua.\n\n16 - Sempre que se verifique a inexistência de docente competente em LGP, com habilitação profissional para o exercício da docência no pré-escolar ou no 1.º ciclo do ensino básico, deve ser garantida a colocação de docente surdo responsável pela área curricular de LGP, a tempo inteiro, no grupo ou turma dos alunos surdos.\n\n17 - Não se verificando a existência de docentes competentes em LGP nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, as aulas leccionadas por docentes ouvintes são traduzidas por um intérprete de LGP.\n\n18 - Ao intérprete de LGP compete fazer a tradução da língua portuguesa oral para a língua gestual portuguesa e da língua gestual portuguesa para a língua oral das actividades que na escola envolvam a comunicação entre surdos e ouvintes, bem como a tradução das aulas leccionadas por docentes, reuniões, acções e projectos resultantes da dinâmica da comunidade educativa.\n\n19 - Os docentes de LGP asseguram o desenvolvimento da língua gestual portuguesa como primeira língua dos alunos surdos.\n\n20 - Os docentes ouvintes asseguram o desenvolvimento da língua portuguesa como segunda língua dos alunos surdos.\n\n21 - Aos docentes de educação especial com formação na área da surdez, colocados nas escolas de referência para a educação bilingue de alunos surdos, compete:\n\na) Leccionar turmas de alunos surdos, atendendo à sua habilitação profissional para a docência e à sua competência em LGP;\n\nb) Apoiar os alunos surdos na antecipação e reforço das aprendizagens, no domínio da leitura/escrita;\n\nc) Elaborar e adaptar materiais para os alunos que deles necessitem;\n\nd) Participar na elaboração do programa educativo individual dos alunos surdos.\n\n22 - Aos docentes com habilitação profissional para o ensino da área curricular ou da disciplina de LGP compete:\n\na) Leccionar os programas LGP como primeira língua dos alunos surdos;\n\nb) Desenvolver, acompanhar e avaliar o processo de ensino e de aprendizagem da LGP;\n\nc) Definir, preparar e elaborar meios e suportes didácticos de apoio ao ensino/aprendizagem da LGP;\n\nd) Participar na elaboração do programa educativo individual dos alunos surdos;\n\ne) Desenvolver actividades, no âmbito da comunidade educativa em que se insere, visando a interacção de surdos e ouvintes e promovendo a divulgação da LGP junto da comunidade ouvinte;\n\nf) Ensinar a LGP como segunda língua a alunos ou outros elementos da comunidade educativa em que está inserido, difundir os valores e a cultura da comunidade surda contribuindo para a integração social da pessoa surda.\n\n23 - As escolas de referência para a educação bilingue de alunos surdos devem estar apetrechadas com equipamentos essenciais às necessidades específicas da população surda.\n\n24 - Consideram-se equipamentos essenciais ao nível da escola e da sala de aula os seguintes: computadores com câmaras, programas para tratamento de imagem e filmes, impressora e scanner; televisor e vídeo, câmara e máquinas fotográficas digitais, retroprojector, projector multimédia, quadro interactivo, sinalizadores luminosos de todos os sinais sonoros, telefone com serviço de mensagens curtas (sms), sistema de vídeo-conferência, software educativo, dicionários e livros de apoio ao ensino do português escrito, materiais multimédia de apoio ao ensino e aprendizagem em LGP, ao desenvolvimento da LGP e sobre a cultura da comunidade surda, disponibilizados em diferentes formatos; material e equipamentos específicos para a intervenção em terapêutica da fala.\n\n25 - Constituem objectivos dos agrupamentos de escolas e escolas secundárias:\n\na) Assegurar o desenvolvimento da LGP como primeira língua dos alunos surdos;\n\nb) Assegurar o desenvolvimento da língua portuguesa escrita como segunda língua dos alunos surdos;\n\nc) Assegurar às crianças e jovens surdos, os apoios ao nível da terapia da fala do apoio pedagógico e do reforço das aprendizagens, dos equipamentos e materiais específicos bem como de outros apoios que devam beneficiar;\n\nd) Organizar e apoiar os processos de transição entre os diferentes níveis de educação e de ensino;\n\ne) Organizar e apoiar os processos de transição para a vida pós-escolar;\n\nf) Criar espaços de reflexão e partilha de conhecimentos e experiências numa perspectiva transdisciplinar de desenvolvimento de trabalho cooperativo entre profissionais com diferentes formações que desempenham as suas funções com os alunos surdos;\n\ng) Programar e desenvolver acções de formação em LGP para a comunidade escolar e para os familiares dos alunos surdos;\n\nh) Colaborar e desenvolver com as associações de pais e com as associações de surdos acções de diferentes âmbitos, visando a interacção entre a comunidade surda e a comunidade ouvinte.\n\n26 - Compete ao conselho executivo do agrupamento de escolas ou da escola secundária garantir, organizar, acompanhar e orientar o funcionamento e o desenvolvimento da resposta educativa adequada à inclusão dos alunos surdos.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "72836772": {
+   "fragment_id": "35501875",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": "2008-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "72836769": {
+   "fragment_id": "36829875",
+   "type": 11,
+   "heading": "Artigo 28.º — Serviço docente",
+   "in_force_from": "2008-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 28.º — Serviço docente\n\n1 - Sem prejuízo do disposto no número seguinte, as áreas curriculares específicas definidas no n.º 2 do artigo 18.º, os conteúdos mencionados no n.º 3 do mesmo artigo e os conteúdos curriculares referidos no n.º 3 do artigo 21.º são leccionadas por docentes de educação especial.\n\n2 - Os quadros dos agrupamentos de escolas devem, nos termos aplicáveis ao restante pessoal docente, ser dotados dos necessários lugares.\n\n3 - A docência da área curricular ou da disciplina de LGP pode ser exercida, num período de transição até à formação de docentes com habilitação própria para a docência de LGP, por profissionais com habilitação suficiente: formadores surdos de LGP com curso profissional de formação de formadores de LGP ministrado pela Associação Portuguesa de Surdos ou pela Associação de Surdos do Porto.\n\n4 - A competência em LGP dos docentes surdos e ouvintes deve ser certificada pelas entidades reconhecidas pela comunidade linguística surda com competência para o exercício da certificação e da formação em LGP que são, à data da publicação deste decreto-lei, a Associação Portuguesa de Surdos e a Associação de Surdos do Porto.\n\n5 - O apoio à utilização de materiais didácticos adaptados e tecnologias de apoio é da responsabilidade do docente de educação especial.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "72836770": {
+   "fragment_id": "36830075",
+   "type": 11,
+   "heading": "Artigo 30.º — Cooperação e parceria",
+   "in_force_from": "2008-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 30.º — Cooperação e parceria\n\nAs escolas, os agrupamentos de escolas e as instituições de ensino especial devem desenvolver parcerias entre si e com outras instituições, designadamente centros de recursos especializados, visando os seguintes fins:\n\na) A referenciação e avaliação das crianças e jovens com necessidades educativas especiais de carácter permanente;\n\nb) A execução de actividades de enriquecimento curricular, designadamente a realização de programas específicos de actividades físicas e a prática de desporto adaptado;\n\nc) A execução de respostas educativas de educação especial, entre outras, ensino do braille, do treino visual, da orientação e mobilidade e terapias;\n\nd) O desenvolvimento de estratégias de educação que se considerem adequadas para satisfazer necessidades educativas dos alunos;\n\ne) O desenvolvimento de acções de apoio à família;\n\nf) A transição para a vida pós-escolar;\n\ng) A integração em programas de formação profissional;\n\nh) Preparação para integração em centros de emprego apoiado;\n\ni) Preparação para integração em centros de actividades ocupacionais;\n\nj) Outras acções que se mostrem necessárias para desenvolvimento da educação especial, designadamente as previstas no n.º 1 do artigo 29.º\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "72836763": {
+   "fragment_id": "72871430",
+   "type": 11,
+   "heading": "Artigo 31.º-A — Avaliação da utilização da Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde",
+   "in_force_from": "2008-05-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 31.º-A — Avaliação da utilização da Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde\n\n1 - No final de cada ano lectivo deve ser elaborado um relatório individualizado que incida sobre a melhoria dos resultados escolares e do desenvolvimento do potencial biopsicossocial dos alunos que foram avaliados com recurso à Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde.\n\n2 - O relatório referido no número anterior deve avaliar igualmente os progressos dos alunos que, tendo sido avaliados por referência à Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde, não foram encaminhados para as respostas no âmbito da educação especial.\n\n3 - Na sequência dos relatórios produzidos ao abrigo dos n.os 1 e 2, deve ser promovida uma avaliação global sobre a pertinência e utilidade da Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde, no âmbito da avaliação das necessidades educativas especiais de crianças e jovens.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "72836771": {
+   "fragment_id": "36830275",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": "2008-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 10/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-2008-247245), em vigor a partir de 2007-01-12"
+   ],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\na) O Decreto-Lei n.º 319/91, de 23 de Agosto;\n\nb) O artigo 10.º do Decreto-Lei n.º 6/2001, de 18 de Janeiro;\n\nc) A Portaria n.º 611/93, de 29 de Junho;\n\nd) Revogada;\n\ne) Revogada;\n\nf) O despacho n.º 173/99, de 23 de Outubro;\n\ng) O despacho n.º 7250/98, de 6 de Maio..\n\n> Nota: [Artigo 4.º, Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230) É repristinado o disposto nas normas referidas nas alíneas d) e e) do artigo 32.º do Decreto-Lei n.º 3/2008, de 7 de janeiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 10/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-2008-247245), em vigor a partir de 2007-01-12"
+  },
+  "46582175": {
+   "fragment_id": "35501975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Maria de Lurdes Reis Rodrigues.\n\nPromulgado em 7 de Dezembro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de Dezembro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "115654883": {
+   "fragment_id": "35501375",
+   "type": 1,
+   "heading": "Capítulo I — Objectivos, enquadramento e princípios orientadores",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "### Capítulo I — Objectivos, enquadramento e princípios orientadores\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654884": {
+   "fragment_id": "36827175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei define os apoios especializados a prestar na educação pré-escolar e nos ensinos básico e secundário dos sectores público, particular e cooperativo, visando a criação de condições para a adequação do processo educativo às necessidades educativas especiais dos alunos com limitações significativas ao nível da actividade e da participação num ou vários domínios de vida, decorrentes de alterações funcionais e estruturais, de carácter permanente, resultando em dificuldades continuadas ao nível da comunicação, da aprendizagem, da mobilidade, da autonomia, do relacionamento interpessoal e da participação social.\n\n2 - A educação especial tem por objectivos a inclusão educativa e social, o acesso e o sucesso educativo, a autonomia, a estabilidade emocional, bem como a promoção da igualdade de oportunidades, a preparação para o prosseguimento de estudos ou para uma adequada preparação para a vida pós-escolar ou profissional.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "115654885": {
+   "fragment_id": "36827275",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios orientadores",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 2.º — Princípios orientadores\n\n1 - A educação especial prossegue, em permanência, os princípios da justiça e da solidariedade social, da não discriminação e do combate à exclusão social, da igualdade de oportunidades no acesso e sucesso educativo, da participação dos pais e da confidencialidade da informação.\n\n2 - Nos termos do disposto no número anterior, as escolas ou os agrupamentos de escolas, os estabelecimentos de ensino particular com paralelismo pedagógico, as escolas profissionais, directa ou indirectamente financiados pelo Ministério da Educação (ME), não podem rejeitar a matrícula ou a inscrição de qualquer criança ou jovem com base na incapacidade ou nas necessidades educativas especiais que manifestem.\n\n3 - As crianças e jovens com necessidades educativas especiais de carácter permanente gozam de prioridade na matrícula, tendo o direito, nos termos do presente decreto-lei, a frequentar o jardim-de-infância ou a escola nos mesmos termos das restantes crianças.\n\n4 - As crianças e os jovens com necessidades educativas especiais de carácter permanente têm direito ao reconhecimento da sua singularidade e à oferta de respostas educativas adequadas.\n\n5 - Toda a informação resultante da intervenção técnica e educativa está sujeita aos limites constitucionais e legais, em especial os relativos à reserva da intimidade da vida privada e familiar e ao tratamento automatizado, conexão, transmissão, utilização e protecção de dados pessoais, sendo garantida a sua confidencialidade.\n\n6 - Estão vinculados ao dever do sigilo os membros da comunidade educativa que tenham acesso à informação referida no número anterior.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654886": {
+   "fragment_id": "36827375",
+   "type": 11,
+   "heading": "Artigo 3.º — Participação dos pais e encarregados de educação",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 3.º — Participação dos pais e encarregados de educação\n\n1 - Os pais ou encarregados de educação têm o direito e o dever de participar activamente, exercendo o poder paternal nos termos da lei, em tudo o que se relacione com a educação especial a prestar ao seu filho, acedendo, para tal, a toda a informação constante do processo educativo.\n\n2 - Quando, comprovadamente, os pais ou encarregados de educação não exerçam o seu direito de participação, cabe à escola desencadear as respostas educativas adequadas em função das necessidades educativas especiais diagnosticadas.\n\n3 - Quando os pais ou encarregados de educação não concordem com as medidas educativas propostas pela escola, podem recorrer, mediante documento escrito, no qual fundamentam a sua posição, aos serviços competentes do ME.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654887": {
+   "fragment_id": "36827475",
+   "type": 11,
+   "heading": "Artigo 4.º — Organização",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 4.º — Organização\n\n1 - As escolas devem incluir nos seus projectos educativos as adequações relativas ao processo de ensino e de aprendizagem, de carácter organizativo e de funcionamento, necessárias para responder adequadamente às necessidades educativas especiais de carácter permanente das crianças e jovens, com vista a assegurar a sua maior participação nas actividades de cada grupo ou turma e da comunidade escolar em geral.\n\n2 - Para garantir as adequações de carácter organizativo e de funcionamento referidas no número anterior, são criadas por despacho ministerial:\n\na) Escolas de referência para a educação bilingue de alunos surdos;\n\nb) Escolas de referência para a educação de alunos cegos e com baixa visão.\n\n3 - Para apoiar a adequação do processo de ensino e de aprendizagem podem as escolas ou agrupamentos de escolas desenvolver respostas específicas diferenciadas para alunos com perturbações do espectro do autismo e com multideficiência, designadamente através da criação de:\n\na) Unidades de ensino estruturado para a educação de alunos com perturbações do espectro do autismo;\n\nb) Unidades de apoio especializado para a educação de alunos com multideficiência e surdocegueira congénita.\n\n4 - As respostas referidas nas alíneas a) e b) do número anterior são propostas por deliberação do conselho executivo, ouvido o conselho pedagógico, quando numa escola ou grupos de escolas limítrofes, o número de alunos o justificar e quando a natureza das respostas, dos equipamentos específicos e das especializações profissionais, justifiquem a sua concentração.\n\n5 - As unidades referidas no n.º 3 são criadas por despacho do director regional de educação competente.\n\n6 - A educação especial organiza-se segundo modelos diversificados de integração em ambientes de escola inclusiva e integradora, garantindo a utilização de ambientes o menos restritivos possível, desde que dessa integração não resulte qualquer tipo de segregação ou de exclusão da criança ou jovem com necessidades educativas especiais.\n\n7 - Nos casos em que a aplicação das medidas previstas nos artigos anteriores se revele comprovadamente insuficiente em função do tipo e grau de deficiência do aluno, podem os intervenientes no processo de referenciação e de avaliação constantes do presente diploma, propor a frequência de uma instituição de educação especial.\n\n8 - Os pais ou encarregados de educação podem solicitar a mudança de escola onde o aluno se encontra inscrito, nos termos do disposto no n.º 3 do artigo 3.º\n\n9 - As condições de acesso e de frequência dos alunos com necessidades educativas especiais em instituições do ensino particular de educação especial ou cooperativas e associações de ensino especial, sem fins lucrativos, bem como os apoios financeiros a conceder, são definidos por portaria.\n\n10 - As condições de funcionamento e financiamento das instituições de educação especial são definidas por portaria.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "115654888": {
+   "fragment_id": "72871429",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Instituições de educação especial",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 4.º-A — Instituições de educação especial\n\n1 - As instituições de educação especial têm por missão a escolarização de crianças e jovens com necessidades educativas especiais que requeiram intervenções especializadas e diferenciadas que se traduzam em adequações significativas do seu processo de educação ou de ensino e aprendizagem, comprovadamente não passíveis de concretizar, com a correcta integração, noutro estabelecimento de educação ou de ensino ou para as quais se revele comprovadamente insuficiente esta integração.\n\n2 - As instituições de educação especial devem ter como objectivos, relativamente a cada criança ou jovem, o cumprimento da escolaridade obrigatória e a integração na vida activa, numa perspectiva de promoção do maior desenvolvimento possível, de acordo com as limitações ou incapacidades de cada um deles, das suas aprendizagens, competências, aptidões e capacidades.\n\n3 - As instituições de educação especial podem ser públicas, particulares ou cooperativas, nomeadamente instituições particulares de solidariedade social, em especial as associações de educação especial e as cooperativas de educação especial, e os estabelecimentos de ensino particular de educação especial.\n\n4 - O Estado reconhece o papel de relevo na educação das crianças e jovens com necessidades educativas especiais das instituições referidas no número anterior.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "115654889": {
+   "fragment_id": "35501475",
+   "type": 1,
+   "heading": "Capítulo II — Procedimentos de referenciação e avaliação",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "### Capítulo II — Procedimentos de referenciação e avaliação\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654890": {
+   "fragment_id": "36827575",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo de referenciação",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 5.º — Processo de referenciação\n\n1 - A educação especial pressupõe a referenciação das crianças e jovens que eventualmente dela necessitem, a qual deve ocorrer o mais precocemente possível, detectando os factores de risco associados às limitações ou incapacidades.\n\n2 - A referenciação efectua-se por iniciativa dos pais ou encarregados de educação, dos serviços de intervenção precoce, dos docentes ou de outros técnicos ou serviços que intervêm com a criança ou jovem ou que tenham conhecimento da eventual existência de necessidades educativas especiais.\n\n3 - A referenciação é feita aos órgãos de administração e gestão das escolas ou agrupamentos de escolas da área da residência, mediante o preenchimento de um documento onde se explicitam as razões que levaram a referenciar a situação e se anexa toda a documentação considerada relevante para o processo de avaliação.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654891": {
+   "fragment_id": "36827675",
+   "type": 11,
+   "heading": "Artigo 6.º — Processo de avaliação",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 6.º — Processo de avaliação\n\n1 - Referenciada a criança ou jovem, nos termos do artigo anterior, compete ao conselho executivo desencadear os procedimentos seguintes:\n\na) Solicitar ao departamento de educação especial e ao serviço de psicologia um relatório técnico-pedagógico conjunto, com os contributos dos restantes intervenientes no processo, onde sejam identificadas, nos casos em que tal se justifique, as razões que determinam as necessidades educativas especiais do aluno e a sua tipologia, designadamente as condições de saúde, doença ou incapacidade;\n\nb) Solicitar ao departamento de educação especial a determinação dos apoios especializados, das adequações do processo de ensino e de aprendizagem de que o aluno deva beneficiar e das tecnologias de apoio;\n\nc) Assegurar a participação activa dos pais ou encarregados de educação, assim como a sua anuência;\n\nd) Homologar o relatório técnico-pedagógico e determinar as suas implicações;\n\ne) Nos casos em que se considere não se estar perante uma situação de necessidades educativas que justifiquem a intervenção dos serviços da educação especial, solicitar ao departamento de educação especial e aos serviços de psicologia o encaminhamento dos alunos para os apoios disponibilizados pela escola que melhor se adeqúem à sua situação específica.\n\n2 - Para a elaboração do relatório a que se refere a alínea a) do número anterior pode o conselho executivo, quando tal se justifique, recorrer aos centros de saúde, a centros de recursos especializados, às escolas ou unidades referidas nos n.os 2 e 3 do artigo 4.º\n\n3 - Do relatório técnico-pedagógico constam os resultados decorrentes da avaliação, obtidos por diferentes instrumentos de acordo com o contexto da sua aplicação, tendo por referência a Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde, servindo de base à elaboração do programa educativo individual.\n\n4 - O relatório técnico-pedagógico a que se referem os números anteriores é parte integrante do processo individual do aluno.\n\n5 - A avaliação deve ficar concluída 60 dias após a referenciação com a aprovação do programa educativo individual pelo conselho pedagógico da escola ou do agrupamento escolar.\n\n6 - Quando o presidente do conselho executivo decida pela não homologação do programa educativo individual, deve exarar despacho justificativo da decisão, devendo reenviá-lo à entidade que o tenha elaborado, com o fim de obter uma melhor justificação ou enquadramento.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "115654892": {
+   "fragment_id": "36827775",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviço docente nos processos de referenciação e de avaliação",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 7.º — Serviço docente nos processos de referenciação e de avaliação\n\n1 - O serviço docente no âmbito dos processos de referenciação e de avaliação assume carácter prioritário, devendo concluir-se no mais curto período de tempo, dando preferência à sua execução sobre toda a actividade docente e não docente, à excepção da lectiva.\n\n2 - O serviço de referenciação e de avaliação é de aceitação obrigatória e quando realizado por um docente é sempre integrado na componente não lectiva do seu horário de trabalho.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654893": {
+   "fragment_id": "35501575",
+   "type": 1,
+   "heading": "Capítulo III — Programa educativo individual e plano individual de transição",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "### Capítulo III — Programa educativo individual e plano individual de transição\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654894": {
+   "fragment_id": "36827875",
+   "type": 11,
+   "heading": "Artigo 8.º — Programa educativo individual",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 8.º — Programa educativo individual\n\n1 - O programa educativo individual é o documento que fixa e fundamenta as respostas educativas e respectivas formas de avaliação.\n\n2 - O programa educativo individual documenta as necessidades educativas especiais da criança ou jovem, baseadas na observação e avaliação de sala de aula e nas informações complementares disponibilizadas pelos participantes no processo.\n\n3 - O programa educativo individual integra o processo individual do aluno.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654895": {
+   "fragment_id": "36827975",
+   "type": 11,
+   "heading": "Artigo 9.º — Modelo do programa educativo individual",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 9.º — Modelo do programa educativo individual\n\n1 - O modelo do programa educativo individual é aprovado por deliberação do conselho pedagógico e inclui os dados do processo individual do aluno, nomeadamente identificação, história escolar e pessoal relevante, conclusões do relatório de avaliação e as adequações no processo de ensino e de aprendizagem a realizar, com indicação das metas, das estratégias, recursos humanos e materiais e formas de avaliação.\n\n2 - O modelo do programa educativo individual integra os indicadores de funcionalidade, bem como os factores ambientais que funcionam como facilitadores ou como barreiras à actividade e participação do aluno na vida escolar, obtidos por referência à Classificação Internacional da Funcionalidade, Incapacidade e Saúde, em termos que permitam identificar o perfil concreto de funcionalidade.\n\n3 - Do modelo de programa educativo individual devem constar, de entre outros, obrigatoriamente:\n\na) A identificação do aluno;\n\nb) O resumo da história escolar e outros antecedentes relevantes;\n\nc) A caracterização dos indicadores de funcionalidade e do nível de aquisições e dificuldades do aluno;\n\nd) Os factores ambientais que funcionam como facilitadores ou como barreiras à participação e à aprendizagem;\n\ne) Definição das medidas educativas a implementar;\n\nf) Discriminação dos conteúdos, dos objectivos gerais e específicos a atingir e das estratégias e recursos humanos e materiais a utilizar;\n\ng) Nível de participação do aluno nas actividades educativas da escola;\n\nh) Distribuição horária das diferentes actividades previstas;\n\ni) Identificação dos técnicos responsáveis;\n\nj) Definição do processo de avaliação da implementação do programa educativo individual;\n\nl) A data e assinatura dos participantes na sua elaboração e dos responsáveis pelas respostas educativas a aplicar.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654896": {
+   "fragment_id": "36828075",
+   "type": 11,
+   "heading": "Artigo 10.º — Elaboração do programa educativo individual",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 10.º — Elaboração do programa educativo individual\n\n1 - Na educação pré-escolar e no 1.º ciclo do ensino básico, o programa educativo individual é elaborado, conjunta e obrigatoriamente, pelo docente do grupo ou turma, pelo docente de educação especial, pelos encarregados de educação e sempre que se considere necessário, pelos serviços referidos na alínea a) do n.º 1 e no n.º 2 do artigo 6.º, sendo submetido à aprovação do conselho pedagógico e homologado pelo conselho executivo.\n\n2 - Nos 2.º e 3.º ciclos do ensino básico e no ensino secundário e em todas as modalidades não sujeitas a monodocência, o programa educativo individual é elaborado pelo director de turma, pelo docente de educação especial, pelos encarregados de educação e sempre que se considere necessário pelos serviços referidos na alínea a) do n.º 1 e no n.º 2 do artigo 6.º, sendo submetido à aprovação do conselho pedagógico e homologado pelo conselho executivo.\n\n3 - No caso dos alunos surdos com ensino bilingue deve também participar na elaboração do programa educativo individual um docente surdo de LGP.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654897": {
+   "fragment_id": "36828175",
+   "type": 11,
+   "heading": "Artigo 11.º — Coordenação do programa educativo individual",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 11.º — Coordenação do programa educativo individual\n\n1 - O coordenador do programa educativo individual é o educador de infância, o professor do 1.º ciclo ou o director de turma, a quem esteja atribuído o grupo ou a turma que o aluno integra.\n\n2 - A aplicação do programa educativo individual carece de autorização expressa do encarregado de educação, excepto nas situações previstas no n.º 2 do artigo 3.º\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654898": {
+   "fragment_id": "36828275",
+   "type": 11,
+   "heading": "Artigo 12.º — Prazos de aplicação do programa educativo individual",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 12.º — Prazos de aplicação do programa educativo individual\n\n1 - A elaboração do programa educativo individual deve decorrer no prazo máximo de 60 dias após a referenciação dos alunos com necessidades educativas especiais de carácter permanente.\n\n2 - O programa educativo individual constituiu o único documento válido para efeitos de distribuição de serviço docente e não docente e constituição de turmas, não sendo permitida a aplicação de qualquer adequação no processo de ensino e de aprendizagem sem a sua existência.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654899": {
+   "fragment_id": "36828375",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento do programa educativo individual",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 13.º — Acompanhamento do programa educativo individual\n\n1 - O programa educativo individual deve ser revisto a qualquer momento e, obrigatoriamente, no final de cada nível de educação e ensino e no fim de cada ciclo do ensino básico.\n\n2 - A avaliação da implementação das medidas educativas deve assumir carácter de continuidade, sendo obrigatória pelo menos em cada um dos momentos de avaliação sumativa interna da escola.\n\n3 - Dos resultados obtidos por cada aluno com a aplicação das medidas estabelecidas no programa educativo individual, deve ser elaborado um relatório circunstanciado no final do ano lectivo.\n\n4 - O relatório referido no número anterior é elaborado, conjuntamente pelo educador de infância, professor do 1.º ciclo ou director de turma, pelo docente de educação especial, pelo psicólogo e pelos docentes e técnicos que acompanham o desenvolvimento do processo educativo do aluno e aprovado pelo conselho pedagógico e pelo encarregado de educação.\n\n5 - O relatório explicita a existência da necessidade de o aluno continuar a beneficiar de adequações no processo de ensino e de aprendizagem, propõe as alterações necessárias ao programa educativo individual e constitui parte integrante do processo individual do aluno.\n\n6 - O relatório referido nos números anteriores, ao qual é anexo o programa educativo individual, é obrigatoriamente comunicado ao estabelecimento que receba o aluno, para prosseguimento de estudos ou em resultado de processo de transferência.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654900": {
+   "fragment_id": "36828475",
+   "type": 11,
+   "heading": "Artigo 14.º — Plano individual de transição",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 14.º — Plano individual de transição\n\n1 - Sempre que o aluno apresente necessidades educativas especiais de carácter permanente que o impeçam de adquirir as aprendizagens e competências definidas no currículo deve a escola complementar o programa educativo individual com um plano individual de transição destinado a promover a transição para a vida pós-escolar e, sempre que possível, para o exercício de uma actividade profissional com adequada inserção social, familiar ou numa instituição de carácter ocupacional.\n\n2 - A concretização do número anterior, designadamente a implementação do plano individual de transição, inicia-se três anos antes da idade limite de escolaridade obrigatória, sem prejuízo do disposto no artigo anterior.\n\n3 - No sentido de preparar a transição do jovem para a vida pós-escolar, o plano individual de transição deve promover a capacitação e a aquisição de competências sociais necessárias à inserção familiar e comunitária.\n\n4 - O plano individual de transição deve ser datado e assinado por todos os profissionais que participam na sua elaboração, bem como pelos pais ou encarregados de educação e, sempre que possível, pelo próprio aluno.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654901": {
+   "fragment_id": "36828575",
+   "type": 11,
+   "heading": "Artigo 15.º — Certificação",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 15.º — Certificação\n\n1 - Os instrumentos de certificação da escolaridade devem adequar-se às necessidades especiais dos alunos que seguem o seu percurso escolar com programa educativo individual.\n\n2 - Para efeitos do número anterior, os instrumentos normalizados de certificação devem identificar as adequações do processo de ensino e de aprendizagem que tenham sido aplicadas.\n\n3 - Sem prejuízo do disposto no número anterior, as normas de emissão e os formulários a utilizar são as mesmas que estejam legalmente fixadas para o sistema de ensino.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654902": {
+   "fragment_id": "35501675",
+   "type": 1,
+   "heading": "Capítulo IV — Medidas educativas",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "### Capítulo IV — Medidas educativas\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654903": {
+   "fragment_id": "36828675",
+   "type": 11,
+   "heading": "Artigo 16.º — Adequação do processo de ensino e de aprendizagem",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 16.º — Adequação do processo de ensino e de aprendizagem\n\n1 - A adequação do processo de ensino e de aprendizagem integra medidas educativas que visam promover a aprendizagem e a participação dos alunos com necessidades educativas especiais de carácter permanente.\n\n2 - Constituem medidas educativas referidas no número anterior:\n\na) Apoio pedagógico personalizado;\n\nb) Adequações curriculares individuais;\n\nc) Adequações no processo de matrícula;\n\nd) Adequações no processo de avaliação;\n\ne) Currículo específico individual;\n\nf) Tecnologias de apoio.\n\n3 - As medidas referidas no número anterior podem ser aplicadas cumulativamente, com excepção das alíneas b) e e), não cumuláveis entre si.\n\n4 - As medidas educativas referidas no n.º 2 pressupõem o planeamento de estratégias e de actividades que visam o apoio personalizado aos alunos com necessidades educativas especiais de carácter permanente que integram obrigatoriamente o plano de actividades da escola de acordo com o projecto educativo de escola.\n\n5 - O projecto educativo da escola deve conter:\n\na) As metas e estratégias que a escola se propõe realizar com vista a apoiar os alunos com necessidades educativas especiais de carácter permanente;\n\nb) A identificação das respostas específicas diferenciadas a disponibilizar para alunos surdos, cegos, com baixa visão, com perturbações do espectro do autismo e com multideficiência.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654904": {
+   "fragment_id": "36828775",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoio pedagógico personalizado",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 17.º — Apoio pedagógico personalizado\n\n1 - Para efeitos do presente decreto-lei entende-se por apoio pedagógico personalizado:\n\na) O reforço das estratégias utilizadas no grupo ou turma aos níveis da organização, do espaço e das actividades;\n\nb) O estímulo e reforço das competências e aptidões envolvidas na aprendizagem;\n\nc) A antecipação e reforço da aprendizagem de conteúdos leccionados no seio do grupo ou da turma;\n\nd) O reforço e desenvolvimento de competências específicas.\n\n2 - O apoio definido nas alíneas a), b) e c) do número anterior é prestado pelo educador de infância, pelo professor de turma ou de disciplina, conforme o nível de educação ou de ensino do aluno.\n\n3 - O apoio definido na alínea d) do n.º 1 é prestado, consoante a gravidade da situação dos alunos e a especificidade das competências a desenvolver, pelo educador de infância, professor da turma ou da disciplina, ou pelo docente de educação especial.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654905": {
+   "fragment_id": "36828875",
+   "type": 11,
+   "heading": "Artigo 18.º — Adequações curriculares individuais",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 18.º — Adequações curriculares individuais\n\n1 - Entende-se por adequações curriculares individuais aquelas que, mediante o parecer do conselho de docentes ou conselho de turma, conforme o nível de educação e ensino, se considere que têm como padrão o currículo comum, no caso da educação pré-escolar as que respeitem as orientações curriculares, no ensino básico as que não põem em causa a aquisição das competências terminais de ciclo e, no ensino secundário, as que não põem em causa as competências essenciais das disciplinas.\n\n2 - As adequações curriculares podem consistir na introdução de áreas curriculares específicas que não façam parte da estrutura curricular comum, nomeadamente leitura e escrita em braille, orientação e mobilidade; treino de visão e a actividade motora adaptada, entre outras.\n\n3 - A adequação do currículo dos alunos surdos com ensino bilingue consiste na introdução de áreas curriculares específicas para a primeira língua (L1), segunda língua (L2) e terceira língua (L3):\n\na) A língua gestual portuguesa (L1), do pré-escolar ao ensino secundário;\n\nb) O português segunda língua (L2) do pré-escolar ao ensino secundário;\n\nc) A introdução de uma língua estrangeira escrita (L3) do 3.º ciclo do ensino básico ao ensino secundário.\n\n4 - As adequações curriculares podem consistir igualmente na introdução de objectivos e conteúdos intermédios em função das competências terminais do ciclo ou de curso, das características de aprendizagem e dificuldades específicas dos alunos.\n\n5 - As adequações curriculares individuais podem traduzir-se na dispensa das actividades que se revelem de difícil execução em função da incapacidade do aluno, só sendo aplicáveis quando se verifique que o recurso a tecnologias de apoio não é suficiente para colmatar as necessidades educativas resultantes da incapacidade.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654906": {
+   "fragment_id": "36828975",
+   "type": 11,
+   "heading": "Artigo 19.º — Adequações no processo de matrícula",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 19.º — Adequações no processo de matrícula\n\n1 - As crianças e jovens com necessidades educativas especiais de carácter permanente gozam de condições especiais de matrícula, podendo nos termos do presente decreto-lei, frequentar o jardim-de-infância ou a escola, independentemente da sua área de residência.\n\n2 - As crianças com necessidades educativas especiais de carácter permanente podem, em situações excepcionais devidamente fundamentadas, beneficiar do adiamento da matrícula no 1.º ano de escolaridade obrigatória, por um ano, não renovável.\n\n3 - A matrícula por disciplinas pode efectuar-se nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, desde que assegurada a sequencialidade do regime educativo comum.\n\n4 - As crianças e jovens surdos têm direito ao ensino bilingue, devendo ser dada prioridade à sua matrícula nas escolas de referência a que se refere a alínea a) do n.º 2 do artigo 4.º independentemente da sua área de residência.\n\n5 - As crianças e jovens cegos ou com baixa visão podem matricular-se e frequentar escolas da rede de escolas de referência para a educação de alunos cegos e com baixa visão a que se refere a alínea b) do n.º 2 do artigo 4.º, independentemente da sua área de residência.\n\n6 - As crianças e jovens com perturbações do espectro do autismo podem matricular-se e frequentar escolas com unidades de ensino estruturado a que se refere alínea a) do n.º 3 do artigo 4.º independentemente da sua área de residência.\n\n7 - As crianças e jovens com multideficiência e com surdocegueira podem matricular-se e frequentar escolas com unidades especializadas a que se refere a alínea b) do n.º 3 do artigo 4.º, independentemente da sua área de residência.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654907": {
+   "fragment_id": "36829075",
+   "type": 11,
+   "heading": "Artigo 20.º — Adequações no processo de avaliação",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 20.º — Adequações no processo de avaliação\n\n1 - As adequações quanto aos termos a seguir para a avaliação dos progressos das aprendizagens podem consistir, nomeadamente, na alteração do tipo de provas, dos instrumentos de avaliação e certificação, bem como das condições de avaliação, no que respeita, entre outros aspectos, às formas e meios de comunicação e à periodicidade, duração e local da mesma.\n\n2 - Os alunos com currículos específicos individuais não estão sujeitos ao regime de transição de ano escolar nem ao processo de avaliação característico do regime educativo comum, ficando sujeitos aos critérios específicos de avaliação definidos no respectivo programa educativo individual.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654908": {
+   "fragment_id": "36829175",
+   "type": 11,
+   "heading": "Artigo 21.º — Currículo específico individual",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 21.º — Currículo específico individual\n\n1 - Entende-se por currículo específico individual, no âmbito da educação especial, aquele que, mediante o parecer do conselho de docentes ou conselho de turma, substitui as competências definidas para cada nível de educação e ensino.\n\n2 - O currículo específico individual pressupõe alterações significativas no currículo comum, podendo as mesmas traduzir-se na introdução, substituição e ou eliminação de objectivos e conteúdos, em função do nível de funcionalidade da criança ou do jovem.\n\n3 - O currículo específico individual inclui conteúdos conducentes à autonomia pessoal e social do aluno e dá prioridade ao desenvolvimento de actividades de cariz funcional centradas nos contextos de vida, à comunicação e à organização do processo de transição para a vida pós-escolar.\n\n4 - Compete ao conselho executivo e ao respectivo departamento de educação especial orientar e assegurar o desenvolvimento dos referidos currículos.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654909": {
+   "fragment_id": "36829275",
+   "type": 11,
+   "heading": "Artigo 22.º — Tecnologias de apoio",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 22.º — Tecnologias de apoio\n\nEntende-se por tecnologias de apoio os dispositivos facilitadores que se destinam a melhorar a funcionalidade e a reduzir a incapacidade do aluno, tendo como impacte permitir o desempenho de actividades e a participação nos domínios da aprendizagem e da vida profissional e social.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654910": {
+   "fragment_id": "35501775",
+   "type": 1,
+   "heading": "Capítulo V — Modalidades específicas de educação",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "### Capítulo V — Modalidades específicas de educação\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654911": {
+   "fragment_id": "36829375",
+   "type": 11,
+   "heading": "Artigo 23.º — Educação bilingue de alunos surdos",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 23.º — Educação bilingue de alunos surdos\n\n1 - A educação das crianças e jovens surdos deve ser feita em ambientes bilingues que possibilitem o domínio da LGP, o domínio do português escrito e, eventualmente, falado, competindo à escola contribuir para o crescimento linguístico dos alunos surdos, para a adequação do processo de acesso ao currículo e para a inclusão escolar e social.\n\n2 - A concentração dos alunos surdos, inseridos numa comunidade linguística de referência e num grupo de socialização constituído por adultos, crianças e jovens de diversas idades que utilizam a LGP, promove condições adequadas ao desenvolvimento desta língua e possibilita o desenvolvimento do ensino e da aprendizagem em grupos ou turmas de alunos surdos, iniciando-se este processo nas primeiras idades e concluindo-se no ensino secundário.\n\n3 - As escolas de referência para a educação bilingue de alunos surdos a que se refere a alínea a) do n.º 2 do artigo 4.º constituem uma resposta educativa especializada desenvolvida, em agrupamentos de escolas ou escolas secundárias que concentram estes alunos numa escola, em grupos ou turmas de alunos surdos.\n\n4 - As escolas de referência para a educação de ensino bilingue de alunos surdos têm como objectivo principal aplicar metodologias e estratégias de intervenção interdisciplinares, adequadas a alunos surdos.\n\n5 - As escolas de referência para a educação bilingue de alunos surdos integram:\n\na) Docentes com formação especializada em educação especial, na área da surdez, competentes em LGP (docentes surdos e ouvintes dos vários níveis de educação e ensino), com formação e experiência no ensino bilingue de alunos surdos;\n\nb) Docentes de LGP;\n\nc) Intérpretes de LGP;\n\nd) Terapeutas da fala.\n\n6 - Para os alunos surdos, o processo de avaliação, referido no artigo 6.º, deve ser desenvolvido por equipas a constituir no agrupamento de escolas ou nas escolas secundárias para a educação bilingue destes alunos.\n\n7 - As equipas referidas no número anterior devem ser constituídas pelos seguintes elementos:\n\na) Docente que lecciona grupo ou turma de alunos surdos do nível de educação e ensino da criança ou jovem;\n\nb) Docente de educação especial especializado na área da surdez;\n\nc) Docentes de LGP;\n\nd) Terapeutas da fala;\n\ne) Outros profissionais ou serviços da escola ou da comunidade.\n\n8 - Deve ser dada prioridade à matrícula de alunos surdos, nas escolas de referência para a educação bilingue de alunos surdos.\n\n9 - A organização da resposta educativa deve ser determinada pelo nível de educação e ensino, ano de escolaridade, idade dos alunos e nível de proficiência linguística.\n\n10 - As respostas educativas devem ser flexíveis, assumindo carácter individual e dinâmico, e pressupõem uma avaliação sistemática do processo de ensino e de aprendizagem do aluno surdo, bem como o envolvimento e a participação da família.\n\n11 - Os agrupamentos de escolas que integram os jardins-de-infância de referência para a educação bilingue de crianças surdas devem articular as respostas educativas com os serviços de intervenção precoce no apoio e informação de escolhas e opções das suas famílias e na disponibilização de recursos técnicos especializados, nomeadamente de docentes de LGP, bem como da frequência precoce de jardim-de-infância no grupo de crianças surdas.\n\n12 - As crianças surdas, entre os 3 e os 6 anos de idade, devem frequentar a educação pré-escolar, sempre em grupos de crianças surdas, de forma a desenvolverem a LGP como primeira língua, sem prejuízo da participação do seu grupo com grupos de crianças ouvintes em actividades desenvolvidas na comunidade escolar.\n\n13 - Os alunos dos ensino básico e secundário realizam o seu percurso escolar em turmas de alunos surdos, de forma a desenvolverem a LGP como primeira língua e aceder ao currículo nesta língua, sem prejuízo da sua participação com as turmas de alunos ouvintes em actividades desenvolvidas na comunidade escolar.\n\n14 - A docência dos grupos ou turmas de alunos surdos é assegurada por docentes surdos ou ouvintes com habilitação profissional para leccionar aqueles níveis de educação e ensino, competentes em LGP e com formação e experiência no ensino bilingue de alunos surdos.\n\n15 - Na educação pré-escolar e no 1.º ciclo do ensino básico deve ser desenvolvido um trabalho de co-responsabilização e parceria entre docentes surdos e ouvintes de forma a garantir aos alunos surdos a aprendizagem e o desenvolvimento da LGP como primeira língua, e da língua portuguesa, como segunda língua.\n\n16 - Sempre que se verifique a inexistência de docente competente em LGP, com habilitação profissional para o exercício da docência no pré-escolar ou no 1.º ciclo do ensino básico, deve ser garantida a colocação de docente surdo responsável pela área curricular de LGP, a tempo inteiro, no grupo ou turma dos alunos surdos.\n\n17 - Não se verificando a existência de docentes competentes em LGP nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, as aulas leccionadas por docentes ouvintes são traduzidas por um intérprete de LGP.\n\n18 - Ao intérprete de LGP compete fazer a tradução da língua portuguesa oral para a língua gestual portuguesa e da língua gestual portuguesa para a língua oral das actividades que na escola envolvam a comunicação entre surdos e ouvintes, bem como a tradução das aulas leccionadas por docentes, reuniões, acções e projectos resultantes da dinâmica da comunidade educativa.\n\n19 - Os docentes de LGP asseguram o desenvolvimento da língua gestual portuguesa como primeira língua dos alunos surdos.\n\n20 - Os docentes ouvintes asseguram o desenvolvimento da língua portuguesa como segunda língua dos alunos surdos.\n\n21 - Aos docentes de educação especial com formação na área da surdez, colocados nas escolas de referência para a educação bilingue de alunos surdos, compete:\n\na) Leccionar turmas de alunos surdos, atendendo à sua habilitação profissional para a docência e à sua competência em LGP;\n\nb) Apoiar os alunos surdos na antecipação e reforço das aprendizagens, no domínio da leitura/escrita;\n\nc) Elaborar e adaptar materiais para os alunos que deles necessitem;\n\nd) Participar na elaboração do programa educativo individual dos alunos surdos.\n\n22 - Aos docentes com habilitação profissional para o ensino da área curricular ou da disciplina de LGP compete:\n\na) Leccionar os programas LGP como primeira língua dos alunos surdos;\n\nb) Desenvolver, acompanhar e avaliar o processo de ensino e de aprendizagem da LGP;\n\nc) Definir, preparar e elaborar meios e suportes didácticos de apoio ao ensino/aprendizagem da LGP;\n\nd) Participar na elaboração do programa educativo individual dos alunos surdos;\n\ne) Desenvolver actividades, no âmbito da comunidade educativa em que se insere, visando a interacção de surdos e ouvintes e promovendo a divulgação da LGP junto da comunidade ouvinte;\n\nf) Ensinar a LGP como segunda língua a alunos ou outros elementos da comunidade educativa em que está inserido, difundir os valores e a cultura da comunidade surda contribuindo para a integração social da pessoa surda.\n\n23 - As escolas de referência para a educação bilingue de alunos surdos devem estar apetrechadas com equipamentos essenciais às necessidades específicas da população surda.\n\n24 - Consideram-se equipamentos essenciais ao nível da escola e da sala de aula os seguintes: computadores com câmaras, programas para tratamento de imagem e filmes, impressora e scanner; televisor e vídeo, câmara e máquinas fotográficas digitais, retroprojector, projector multimédia, quadro interactivo, sinalizadores luminosos de todos os sinais sonoros, telefone com serviço de mensagens curtas (sms), sistema de vídeo-conferência, software educativo, dicionários e livros de apoio ao ensino do português escrito, materiais multimédia de apoio ao ensino e aprendizagem em LGP, ao desenvolvimento da LGP e sobre a cultura da comunidade surda, disponibilizados em diferentes formatos; material e equipamentos específicos para a intervenção em terapêutica da fala.\n\n25 - Constituem objectivos dos agrupamentos de escolas e escolas secundárias:\n\na) Assegurar o desenvolvimento da LGP como primeira língua dos alunos surdos;\n\nb) Assegurar o desenvolvimento da língua portuguesa escrita como segunda língua dos alunos surdos;\n\nc) Assegurar às crianças e jovens surdos, os apoios ao nível da terapia da fala do apoio pedagógico e do reforço das aprendizagens, dos equipamentos e materiais específicos bem como de outros apoios que devam beneficiar;\n\nd) Organizar e apoiar os processos de transição entre os diferentes níveis de educação e de ensino;\n\ne) Organizar e apoiar os processos de transição para a vida pós-escolar;\n\nf) Criar espaços de reflexão e partilha de conhecimentos e experiências numa perspectiva transdisciplinar de desenvolvimento de trabalho cooperativo entre profissionais com diferentes formações que desempenham as suas funções com os alunos surdos;\n\ng) Programar e desenvolver acções de formação em LGP para a comunidade escolar e para os familiares dos alunos surdos;\n\nh) Colaborar e desenvolver com as associações de pais e com as associações de surdos acções de diferentes âmbitos, visando a interacção entre a comunidade surda e a comunidade ouvinte.\n\n26 - Compete ao conselho executivo do agrupamento de escolas ou da escola secundária garantir, organizar, acompanhar e orientar o funcionamento e o desenvolvimento da resposta educativa adequada à inclusão dos alunos surdos.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "115654912": {
+   "fragment_id": "36829475",
+   "type": 11,
+   "heading": "Artigo 24.º — Educação de alunos cegos e com baixa visão",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 24.º — Educação de alunos cegos e com baixa visão\n\n1 - As escolas de referência para a educação de alunos cegos e com baixa visão concentram as crianças e jovens de um ou mais concelhos, em função da sua localização e rede de transportes existentes.\n\n2 - As escolas de referência a que se refere a alínea b) do n.º 2 do artigo 4.º constitui uma resposta educativa especializada desenvolvida em agrupamentos de escolas ou escolas secundárias que concentrem alunos cegos e com baixa visão.\n\n3 - Constituem objectivos das escolas de referência para a educação de alunos cegos e com baixa visão:\n\na) Assegurar a observação e avaliação visual e funcional;\n\nb) Assegurar o ensino e a aprendizagem da leitura e escrita do braille bem como das suas diversas grafias e domínios de aplicação;\n\nc) Assegurar a utilização de meios informáticos específicos, entre outros, leitores de ecrã, software de ampliação de caracteres, linhas braille e impressora braille;\n\nd) Assegurar o ensino e a aprendizagem da orientação e mobilidade;\n\ne) Assegurar o treino visual específico;\n\nf) Orientar os alunos nas disciplinas em que as limitações visuais ocasionem dificuldades particulares, designadamente a educação visual, educação física, técnicas laboratoriais, matemática, química, línguas estrangeiras e tecnologias de comunicação e informação;\n\ng) Assegurar o acompanhamento psicológico e a orientação vocacional;\n\nh) Assegurar o treino de actividades de vida diária e a promoção de competências sociais;\n\ni) Assegurar a formação e aconselhamento aos professores, pais, encarregados de educação e outros membros da comunidade educativa.\n\n4 - As escolas de referência para a educação de alunos cegos e com baixa visão integram docentes com formação especializada em educação especial no domínio da visão e outros profissionais com competências para o ensino de braille e de orientação e mobilidade.\n\n5 - As escolas de referência para a educação de alunos cegos e com baixa visão devem estar apetrechadas com equipamentos informáticos e didácticos adequados às necessidades da população a que se destinam.\n\n6 - Consideram-se materiais didácticos adequados os seguintes: material em caracteres ampliados, em braille; em formato digital, em áudio e materiais em relevo.\n\n7 - Consideram-se equipamentos informáticos adequados, os seguintes: computadores equipados com leitor de ecrã com voz em português e linha braille, impressora braille, impressora laser para preparação de documentos e concepção de relevos; scanner; máquina para produção de relevos, máquinas braille; cubarítmos; calculadoras electrónicas; lupas de mão; lupa TV; software de ampliação de caracteres; software de transcrição de texto em braille; gravadores adequados aos formatos áudio actuais e suportes digitais de acesso à Internet.\n\n8 - Compete ao conselho executivo do agrupamento de escolas e escolas secundárias organizar, acompanhar e orientar o funcionamento e o desenvolvimento da resposta educativa adequada à inclusão dos alunos cegos e com baixa visão.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654913": {
+   "fragment_id": "36829575",
+   "type": 11,
+   "heading": "Artigo 25.º — Unidades de ensino estruturado para a educação de alunos com perturbações do espectro do autismo",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 25.º — Unidades de ensino estruturado para a educação de alunos com perturbações do espectro do autismo\n\n1 - As unidades de ensino estruturado para a educação de alunos com perturbações do espectro do autismo constituem uma resposta educativa especializada desenvolvida em escolas ou agrupamentos de escolas que concentrem grupos de alunos que manifestem perturbações enquadráveis nesta problemática.\n\n2 - A organização da resposta educativa para alunos com perturbações do espectro do autismo deve ser determinada pelo grau de severidade, nível de desenvolvimento cognitivo, linguístico e social, nível de ensino e pela idade dos alunos.\n\n3 - Constituem objectivos das unidades de ensino estruturado:\n\na) Promover a participação dos alunos com perturbações do espectro do autismo nas actividades curriculares e de enriquecimento curricular junto dos pares da turma a que pertencem;\n\nb) Implementar e desenvolver um modelo de ensino estruturado o qual consiste na aplicação de um conjunto de princípios e estratégias que, com base em informação visual, promovam a organização do espaço, do tempo, dos materiais e das actividades;\n\nc) Aplicar e desenvolver metodologias de intervenção interdisciplinares que, com base no modelo de ensino estruturado, facilitem os processos de aprendizagem, de autonomia e de adaptação ao contexto escolar;\n\nd) Proceder às adequações curriculares necessárias;\n\ne) Organizar o processo de transição para a vida pós-escolar;\n\nf) Adoptar opções educativas flexíveis, de carácter individual e dinâmico, pressupondo uma avaliação constante do processo de ensino e de aprendizagem do aluno e o regular envolvimento e participação da família.\n\n4 - As escolas ou agrupamentos de escolas com unidades de ensino estruturado concentram alunos de um ou mais concelhos, em função da sua localização e rede de transportes existentes.\n\n5 - As escolas ou agrupamentos de escolas com unidades de ensino estruturado integram docentes com formação especializada em educação especial.\n\n6 - Às escolas ou agrupamentos de escolas com unidades de ensino estruturado compete:\n\na) Acompanhar o desenvolvimento do modelo de ensino estruturado;\n\nb) Organizar formação específica sobre as perturbações do espectro do autismo e o modelo de ensino estruturado;\n\nc) Adequar os recursos às necessidades das crianças e jovens;\n\nd) Assegurar os apoios necessários ao nível de terapia da fala, ou outros que se venham a considerar essenciais;\n\ne) Criar espaços de reflexão e de formação sobre estratégias de diferenciação pedagógica numa perspectiva de desenvolvimento de trabalho transdisciplinar e cooperativo entre vários profissionais;\n\nf) Organizar e apoiar os processos de transição entre os diversos níveis de educação e de ensino;\n\ng) Promover e apoiar o processo de transição dos jovens para a vida pós-escolar;\n\nh) Colaborar com as associações de pais e com as associações vocacionadas para a educação e apoio a crianças e jovens com perturbações do espectro do autismo;\n\ni) Planear e participar, em colaboração com as associações relevantes da comunidade, em actividades recreativas e de lazer dirigidas a jovens com perturbações do espectro do autismo, visando a inclusão social dos seus alunos.\n\n7 - As escolas ou agrupamentos de escolas onde funcionem unidades de ensino estruturado devem ser apetrechados com mobiliário e equipamento essenciais às necessidades específicas da população com perturbações do espectro do autismo e introduzir as modificações nos espaços e nos materiais que se considerem necessárias face ao modelo de ensino a implementar.\n\n8 - Compete ao conselho executivo da escola ou agrupamento de escolas organizar, acompanhar e orientar o funcionamento da unidade de ensino estruturado.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654914": {
+   "fragment_id": "36829675",
+   "type": 11,
+   "heading": "Artigo 26.º — Unidades de apoio especializado para a educação de alunos com multideficiência e surdocegueira congénita",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 26.º — Unidades de apoio especializado para a educação de alunos com multideficiência e surdocegueira congénita\n\n1 - As unidades de apoio especializado para a educação de alunos com multideficiência e surdocegueira congénita constituem uma resposta educativa especializada desenvolvida em escolas ou agrupamentos de escolas que concentrem grupos de alunos que manifestem essas problemáticas.\n\n2 - A organização da resposta educativa deve ser determinada pelo tipo de dificuldade manifestada, pelo nível de desenvolvimento cognitivo, linguístico e social e pela idade dos alunos.\n\n3 - Constituem objectivos das unidades de apoio especializado:\n\na) Promover a participação dos alunos com multideficiência e surdocegueira nas actividades curriculares e de enriquecimento curricular junto dos pares da turma a que pertencem;\n\nb) Aplicar metodologias e estratégias de intervenção interdisciplinares visando o desenvolvimento e a integração social e escolar dos alunos;\n\nc) Assegurar a criação de ambientes estruturados, securizantes e significativos para os alunos;\n\nd) Proceder às adequações curriculares necessárias;\n\ne) Adoptar opções educativas flexíveis, de carácter individual e dinâmico, pressupondo uma avaliação constante do processo de ensino e de aprendizagem do aluno e o regular envolvimento e participação da família;\n\nf) Assegurar os apoios específicos ao nível das terapias, da psicologia e da orientação e mobilidade aos alunos que deles possam necessitar;\n\ng) Organizar o processo de transição para a vida pós-escolar.\n\n4 - As escolas ou agrupamentos de escolas com unidades especializadas concentram alunos de um ou mais concelhos, em função da sua localização e rede de transportes existentes.\n\n5 - As escolas ou agrupamentos de escolas com unidades especializadas integram docentes com formação especializada em educação especial.\n\n6 - Às escolas ou agrupamentos de escolas com unidades especializadas compete:\n\na) Acompanhar o desenvolvimento das metodologias de apoio;\n\nb) Adequar os recursos às necessidades dos alunos;\n\nc) Promover a participação social dos alunos com multideficiência e surdocegueira congénita;\n\nd) Criar espaços de reflexão e de formação sobre estratégias de diferenciação pedagógica numa perspectiva de desenvolvimento de trabalho transdisciplinar e cooperativo entre os vários profissionais;\n\ne) Organizar e apoiar os processos de transição entre os diversos níveis de educação e de ensino;\n\nf) Promover e apoiar o processo de transição dos jovens para a vida pós-escolar;\n\ng) Planear e participar, em colaboração com as associações da comunidade, em actividades recreativas e de lazer dirigidas a crianças e jovens com multideficiência e surdocegueira congénita, visando a integração social dos seus alunos.\n\n7 - As escolas ou agrupamentos de escolas onde funcionem unidades de apoio especializado devem ser apetrechados com os equipamentos essenciais às necessidades específicas dos alunos com multideficiência ou surdocegueira e introduzir as modificações nos espaços e mobiliário que se mostrem necessárias face às metodologias e técnicas a implementar.\n\n8 - Compete ao conselho executivo da escola ou agrupamento de escolas organizar acompanhar e orientar o desenvolvimento da unidade especializada.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654915": {
+   "fragment_id": "36829775",
+   "type": 11,
+   "heading": "Artigo 27.º — Intervenção precoce na infância",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 27.º — Intervenção precoce na infância\n\n1 - No âmbito da intervenção precoce na infância são criados agrupamentos de escolas de referência para a colocação de docentes.\n\n2 - Constituem objectivos dos agrupamentos de escolas de referência:\n\na) Assegurar a articulação com os serviços de saúde e da segurança social;\n\nb) Reforçar as equipas técnicas, que prestam serviços no âmbito da intervenção precoce na infância, financiadas pela segurança social;\n\nc) Assegurar, no âmbito do ME, a prestação de serviços de intervenção precoce na infância.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654916": {
+   "fragment_id": "35501875",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "115654917": {
+   "fragment_id": "36829875",
+   "type": 11,
+   "heading": "Artigo 28.º — Serviço docente",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 28.º — Serviço docente\n\n1 - Sem prejuízo do disposto no número seguinte, as áreas curriculares específicas definidas no n.º 2 do artigo 18.º, os conteúdos mencionados no n.º 3 do mesmo artigo e os conteúdos curriculares referidos no n.º 3 do artigo 21.º são leccionadas por docentes de educação especial.\n\n2 - Os quadros dos agrupamentos de escolas devem, nos termos aplicáveis ao restante pessoal docente, ser dotados dos necessários lugares.\n\n3 - A docência da área curricular ou da disciplina de LGP pode ser exercida, num período de transição até à formação de docentes com habilitação própria para a docência de LGP, por profissionais com habilitação suficiente: formadores surdos de LGP com curso profissional de formação de formadores de LGP ministrado pela Associação Portuguesa de Surdos ou pela Associação de Surdos do Porto.\n\n4 - A competência em LGP dos docentes surdos e ouvintes deve ser certificada pelas entidades reconhecidas pela comunidade linguística surda com competência para o exercício da certificação e da formação em LGP que são, à data da publicação deste decreto-lei, a Associação Portuguesa de Surdos e a Associação de Surdos do Porto.\n\n5 - O apoio à utilização de materiais didácticos adaptados e tecnologias de apoio é da responsabilidade do docente de educação especial.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "115654918": {
+   "fragment_id": "36829975",
+   "type": 11,
+   "heading": "Artigo 29.º — Serviço não docente",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 29.º — Serviço não docente\n\n1 - As actividades de serviço não docente, no âmbito da educação especial, nomeadamente de terapia da fala, terapia ocupacional, avaliação e acompanhamento psicológico, treino da visão e intérpretes de LGP são desempenhadas por técnicos com formação profissional adequada.\n\n2 - Quando o agrupamento não disponha nos seus quadros dos recursos humanos necessários à execução de tarefas incluídas no disposto no número anterior pode o mesmo recorrer à aquisição desses serviços, nos termos legal e regulamentarmente fixados.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654919": {
+   "fragment_id": "36830075",
+   "type": 11,
+   "heading": "Artigo 30.º — Cooperação e parceria",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 30.º — Cooperação e parceria\n\nAs escolas, os agrupamentos de escolas e as instituições de ensino especial devem desenvolver parcerias entre si e com outras instituições, designadamente centros de recursos especializados, visando os seguintes fins:\n\na) A referenciação e avaliação das crianças e jovens com necessidades educativas especiais de carácter permanente;\n\nb) A execução de actividades de enriquecimento curricular, designadamente a realização de programas específicos de actividades físicas e a prática de desporto adaptado;\n\nc) A execução de respostas educativas de educação especial, entre outras, ensino do braille, do treino visual, da orientação e mobilidade e terapias;\n\nd) O desenvolvimento de estratégias de educação que se considerem adequadas para satisfazer necessidades educativas dos alunos;\n\ne) O desenvolvimento de acções de apoio à família;\n\nf) A transição para a vida pós-escolar;\n\ng) A integração em programas de formação profissional;\n\nh) Preparação para integração em centros de emprego apoiado;\n\ni) Preparação para integração em centros de actividades ocupacionais;\n\nj) Outras acções que se mostrem necessárias para desenvolvimento da educação especial, designadamente as previstas no n.º 1 do artigo 29.º\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "115654920": {
+   "fragment_id": "36830175",
+   "type": 11,
+   "heading": "Artigo 31.º — Não cumprimento do princípio da não discriminação",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "###### Artigo 31.º — Não cumprimento do princípio da não discriminação\n\nO incumprimento do disposto no n.º 3 do artigo 2.º implica:\n\na) Nos estabelecimentos de educação da rede pública, o início de procedimento disciplinar;\n\nb) Nas escolas de ensino particular e cooperativo, a retirada do paralelismo pedagógico e a cessação do co-financiamento, qualquer que seja a sua natureza, por parte da administração educativa central e regional e seus organismos e serviços dependentes.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  },
+  "115654921": {
+   "fragment_id": "72871430",
+   "type": 11,
+   "heading": "Artigo 31.º-A — Avaliação da utilização da Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11",
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+   ],
+   "markdown": "###### Artigo 31.º-A — Avaliação da utilização da Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde\n\n1 - No final de cada ano lectivo deve ser elaborado um relatório individualizado que incida sobre a melhoria dos resultados escolares e do desenvolvimento do potencial biopsicossocial dos alunos que foram avaliados com recurso à Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde.\n\n2 - O relatório referido no número anterior deve avaliar igualmente os progressos dos alunos que, tendo sido avaliados por referência à Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde, não foram encaminhados para as respostas no âmbito da educação especial.\n\n3 - Na sequência dos relatórios produzidos ao abrigo dos n.os 1 e 2, deve ser promovida uma avaliação global sobre a pertinência e utilidade da Classificação Internacional da Funcionalidade, Incapacidade e Saúde, da Organização Mundial de Saúde, no âmbito da avaliação das necessidades educativas especiais de crianças e jovens.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17"
+  },
+  "115654922": {
+   "fragment_id": "36830275",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 10/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-2008-247245), em vigor a partir de 2007-01-12"
+   ],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\na) O Decreto-Lei n.º 319/91, de 23 de Agosto;\n\nb) O artigo 10.º do Decreto-Lei n.º 6/2001, de 18 de Janeiro;\n\nc) A Portaria n.º 611/93, de 29 de Junho;\n\nd) Revogada;\n\ne) Revogada;\n\nf) O despacho n.º 173/99, de 23 de Outubro;\n\ng) O despacho n.º 7250/98, de 6 de Maio..\n\n> Nota: [Artigo 4.º, Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230) É repristinado o disposto nas normas referidas nas alíneas d) e e) do artigo 32.º do Decreto-Lei n.º 3/2008, de 7 de janeiro.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 21/2008 - Diário da República n.º 91/2008, Série I de 2008-05-12](https://diariodarepublica.pt/dr/detalhe/lei/21-2008-249230), em vigor a partir de 2008-05-17\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 10/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-2008-247245), em vigor a partir de 2007-01-12"
+  },
+  "115654923": {
+   "fragment_id": "35501975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-07-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Maria de Lurdes Reis Rodrigues.\n\nPromulgado em 7 de Dezembro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de Dezembro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 54/2018 - Diário da República n.º 129/2018, Série I de 2018-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2018-115652961), em vigor a partir de 2018-07-11"
+  }
+ }
+}

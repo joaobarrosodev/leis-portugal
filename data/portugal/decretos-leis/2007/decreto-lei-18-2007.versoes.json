@@ -1,0 +1,215 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:522624:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-116947369",
+ "dre_path": "/dr/detalhe/decreto-lei/18-2007-522624",
+ "source_lastmod": "2024-09-26",
+ "versions": [
+  {
+   "date": "2007-01-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116947427",
+    "116947428",
+    "116947429",
+    "116947430",
+    "116947431",
+    "116947432",
+    "116947433",
+    "116947434",
+    "116947435",
+    "116947436",
+    "116947437",
+    "116947438"
+   ]
+  },
+  {
+   "date": "2009-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483411:por",
+     "title": "Decreto-Lei n.º 317/2009",
+     "published": "2009-10-30",
+     "dre_path": "/dr/detalhe/decreto-lei/317-2009-483411"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "116947427",
+    "116947428",
+    "116947429",
+    "116947430",
+    "116947431",
+    "116947432",
+    "116947433",
+    "888962837",
+    "116947435",
+    "116947436",
+    "116947437",
+    "116947438",
+    "116947439"
+   ]
+  },
+  {
+   "date": "2018-11-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116936932:por",
+     "title": "Decreto-Lei n.º 91/2018",
+     "published": "2018-11-12",
+     "dre_path": "/dr/detalhe/decreto-lei/91-2018-116936932"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "116947427",
+    "116947428",
+    "116947429",
+    "116947430",
+    "888962853",
+    "116947432",
+    "116947433",
+    "888962837",
+    "116947435",
+    "116947436",
+    "116947437",
+    "116947438",
+    "116947439"
+   ]
+  }
+ ],
+ "fragments": {
+  "116947427": {
+   "fragment_id": "116947370",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 18/2007\n\nde 22 de Janeiro\n\nO regime jurídico relativo à movimentação de fundos entre contas de depósito, a débito e a crédito, aplicável quer nas transferências internas quer nas transferências transfronteiras encontra-se fixado no Decreto-Lei n.º 41/2000, de 17 de Março. O objectivo deste decreto-lei é assegurar, através de um conjunto de regras em matéria de transparência e de execução, que os particulares e as empresas possam efectuar transferências de forma expedita, fiável e pouco onerosa.\n\nAs transferências internas, como instrumentos de movimentação de fundos entre contas de depósito, a débito e a crédito, constituem actualmente um dos mais usuais tipos de operações bancárias que as instituições facultam aos seus clientes. Pela segurança, facilidade e comodidade que oferecem têm uma utilização crescente a nível mundial, quer pelos particulares no pagamento de bens e serviços quer pelas empresas no pagamento de salários e fornecedores.\n\nA experiência decorrente da aplicação das regras relativas aos prazos aplicados nas transferências internas efectuadas entre contas de depósito à ordem, a débito e a crédito, realizadas entre instituições de crédito diferentes vem demonstrar que, por vezes, são aplicados prazos muito alargados na disponibilização de fundos ao beneficiário.\n\nNa fase actual de desenvolvimento das tecnologias de informação e em face da crescente evolução dos meios electrónicos nas relações interbancárias, que possibilitam um acesso mais célere ao sistema bancário, não há motivo para que sejam praticados prazos tão dilatados na disponibilização de fundos por meio da realização das referidas operações bancárias.\n\nNeste contexto, e tendo em vista uma maior transparência e clareza na execução dos prazos aplicados nos instrumentos de movimentação de fundos entre contas de depósito, a débito e a crédito, o Governo entende ser agora necessário acautelar os interesses dos consumidores, utilizadores do sistema bancário, através da previsão de uma norma que estabelece a data valor de qualquer movimento de depósitos à ordem, determinando qual o seu efeito no prazo para a disponibilização de fundos ao beneficiário. A data valor é a data a partir da qual a transferência ou o depósito se tornam efectivos, passíveis de serem movimentados pelo beneficiário e se inicia a eventual contagem de juros decorrentes dos saldos credores ou devedores das contas de depósito, sendo a data de disponibilização o momento a partir do qual o titular pode livremente proceder à movimentação dos fundos depositados na sua conta de depósitos, sem estar sujeito ao pagamento de juros pela mobilização desses fundos.\n\nAssim, aos depósitos em numerário efectuados ao balcão, aos cheques normalizados e aos cheques visados sacados sobre a própria instituição de crédito no qual são depositados é atribuída a data valor do dia da sua realização, implicando a disponibilização do respectivo saldo credor no próprio dia. Esta regra é igualmente aplicada em relação aos cheques visados, sacados sobre uma instituição de crédito distinta daquela em que são depositados.\n\nRelativamente aos cheques normalizados sacados sobre uma instituição de crédito distinta daquela em que são depositados, é atribuída a data valor do 2.º dia útil seguinte ao da sua apresentação junto daquela instituição, devendo o respectivo saldo credor ficar disponível nesse mesmo dia útil.\n\nAlém de proibir o débito de juros ou de qualquer despesa correspondente pela movimentação a débito dos fundos disponibilizados, o presente decreto-lei altera o disposto no artigo 5.º do Decreto-Lei n.º 41/2000, de 17 de Março, e impõe que nas transferências internas as quantias em dinheiro devem ser creditadas na conta do beneficiário no próprio dia em que ocorre a ordem de transferência se se tratar de transferências entre contas sediadas na mesma instituição de crédito, e o mais tardar no dia útil seguinte no caso de transferências interbancárias.\n\nPor força da nova redacção introduzida no artigo 5.º do citado decreto-lei, a instituição de crédito deve creditar na conta do beneficiário e disponibilizar o respectivo saldo credor no mesmo dia em que a quantia é creditada na conta da instituição.\n\nFoi promovida a audição ao Conselho Nacional do Consumo.\n\nForam ouvidos o Banco de Portugal e a Associação Portuguesa de Bancos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "116947428": {
+   "fragment_id": "116947371",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece a data valor de qualquer movimento de depósitos à ordem e transferências efectuados em euros, determinando qual o seu efeito no prazo para a disponibilização de fundos ao beneficiário."
+  },
+  "116947429": {
+   "fragment_id": "116947372",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Estão abrangidos pelo disposto no presente decreto-lei, nomeadamente:\n\na) Os depósitos de numerário, de cheques e de outros valores;\n\nb) As transferências intrabancárias e interbancárias.\n\n2 - O presente decreto-lei aplica-se apenas aos depósitos à ordem e às transferências efectuados em euros em território português."
+  },
+  "116947430": {
+   "fragment_id": "116947373",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente decreto-lei, entende-se por:\n\na) «Transferência» a operação efectuada por iniciativa de um ordenante, operada através de uma instituição e destinada a colocar quantias em dinheiro à disposição de um beneficiário, podendo a mesma pessoa reunir as qualidades de ordenante e beneficiário;\n\nb) «Transferências intrabancárias» quando as transferências se realizam dentro da mesma instituição de crédito;\n\nc) «Transferências interbancárias» quando as transferências envolvem duas instituições de crédito diferentes;\n\nd) «Data valor» a data a partir da qual a transferência ou o depósito se tornam efectivos, passíveis de serem movimentados pelo beneficiário e se inicia a eventual contagem de juros decorrentes dos saldos credores ou devedores das contas de depósito;\n\ne) «Data de disponibilização» o momento a partir do qual o titular pode livremente proceder à movimentação dos fundos depositados na sua conta de depósitos, sem estar sujeito ao pagamento de juros pela mobilização desses fundos;\n\nf) «Dia útil» o período do dia em que a instituição se encontra aberta ao público em horário normal de funcionamento;\n\ng) «Beneficiário» o destinatário final de uma transferência, cujas quantias em dinheiro são postas à sua disposição;\n\nh) «Cheque normalizado» o instrumento de pagamento que obedece a um conjunto de normas que têm em vista a sua uniformização em termos de apresentação, formato e texto obrigatório de forma a facilitar o seu correcto preenchimento;\n\ni) «Cheque visado» o instrumento de pagamento que certifica a existência de fundos suficientes na altura em que foi sujeito a visto;\n\nj) «Outros valores» os instrumentos de pagamento objecto de depósito em conta bancária, com características distintas, mas uniformizados, em ordem a permitir celeridade no seu processamento, admitidos no sistema de compensação interbancária, nomeadamente vales de correio, títulos, ordens de pagamento realizadas por entidades dos sistemas de protecção social e do sistema tributário e ordens de pagamento da Santa Casa da Misericórdia."
+  },
+  "116947431": {
+   "fragment_id": "116947374",
+   "type": 11,
+   "heading": "Artigo 4.º — Depósitos em numerário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Depósitos em numerário\n\n1 - Os depósitos em numerário efectuados ao balcão implicam a disponibilização imediata do saldo credor, sendo-lhes atribuída a data valor do dia da sua realização.\n\n2 - Os depósitos em numerário efectuados em terminais automáticos implicam a disponibilização do saldo credor no dia útil seguinte, sendo-lhes atribuída a data valor deste mesmo dia útil.\n\n3 - Os depósitos em numerário efectuados em terminais automáticos que disponham da possibilidade de conferência de notas implicam:\n\na) Quando realizados em dias úteis, a disponibilização imediata do saldo credor, sendo-lhes atribuída a data valor do dia da sua realização;\n\nb) Quando realizados aos sábados, domingos e feriados, a disponibilização do saldo credor no dia útil seguinte, sendo-lhes atribuída a data valor deste mesmo dia útil."
+  },
+  "116947432": {
+   "fragment_id": "116947475",
+   "type": 11,
+   "heading": "Artigo 5.º — Cheques",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cheques\n\n1 - Aos depósitos em cheques normalizados e cheques visados efectuados ao balcão e sacados sobre a própria instituição de crédito, na qual são depositados, é atribuída a data valor do próprio dia da sua apresentação junto daquela instituição, ficando o respectivo saldo credor disponível nesse mesmo dia útil.\n\n2 - Aos depósitos em cheques normalizados efectuados ao balcão e sacados sobre instituição de crédito distinta daquela em que são depositados é atribuída a data valor do 2.º dia útil seguinte ao da sua apresentação junto daquela instituição, ficando o respectivo saldo credor disponível nesse mesmo dia útil.\n\n3 - Aos depósitos em cheques visados efectuados ao balcão, sacados sobre instituição de crédito distinta daquela em que são depositados, é atribuída a data valor do próprio dia da sua apresentação junto daquela instituição, ficando o respectivo saldo credor disponível nesse mesmo dia útil.\n\n4 - Aos depósitos em cheques efectuados em terminais automáticos é atribuída a data valor do 2.º dia útil seguinte ao do depósito, ficando o respectivo saldo credor disponível nesse mesmo dia útil.\n\n5 - Aos depósitos de outros valores aplica-se, com as necessárias adaptações, o disposto nos números anteriores."
+  },
+  "116947433": {
+   "fragment_id": "116947476",
+   "type": 11,
+   "heading": "Artigo 6.º — Movimentação de fundos disponibilizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Movimentação de fundos disponibilizados\n\nÉ proibido o débito de juros, ou de qualquer despesa correspondente, pela movimentação a débito dos fundos disponibilizados nos termos dos artigos anteriores."
+  },
+  "116947434": {
+   "fragment_id": "116947477",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração ao Decreto-Lei n.º 41/2000, de 17 de Março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração ao Decreto-Lei n.º 41/2000, de 17 de Março\n\nÉ alterado o artigo 5.º do Decreto-Lei n.º 41/2000, de 17 de Março, que passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\n2 - Nas transferências internas e na ausência de estipulação em contrário pelo cliente, as quantias em dinheiro devem ser creditadas na conta do beneficiário no próprio dia, se a transferência se efectuar entre contas sediadas na mesma instituição, e o mais tardar no dia útil seguinte, se a transferência for interbancária, sendo a data valor e a data de disponibilização a do momento do crédito.\n\n3 - ...\n\n4 - Em ambos os casos, a instituição do beneficiário deve creditar na conta deste e disponibilizar o respectivo saldo credor no mesmo dia em que, nos termos do n.º 2, a quantia é creditada na conta da instituição ou, tratando-se de transferências transfronteiras, no dia útil seguinte, sendo nos dois casos atribuída a data valor do momento do crédito.\n\n5 - É proibido o débito de juros, ou de qualquer despesa correspondente, pela movimentação a débito dos fundos disponibilizados nos termos dos artigos anteriores.»"
+  },
+  "116947435": {
+   "fragment_id": "116947478",
+   "type": 11,
+   "heading": "Artigo 8.º — Garantia do cumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Garantia do cumprimento\n\nA verificação do cumprimento do disposto no presente decreto-lei é da competência do Banco de Portugal, nos termos da respectiva Lei Orgânica."
+  },
+  "116947436": {
+   "fragment_id": "116947479",
+   "type": 11,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\nA violação do disposto no presente decreto-lei é punível nos termos da alínea i) do artigo 210.º e do artigo 212.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro."
+  },
+  "116947437": {
+   "fragment_id": "116947480",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação da execução do diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avaliação da execução do diploma\n\nNo final do primeiro ano a contar da data de entrada em vigor do presente decreto-lei, o Banco de Portugal elabora e divulga um relatório de avaliação do impacto da aplicação do mesmo."
+  },
+  "116947438": {
+   "fragment_id": "116947481",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 15 de Março de 2007."
+  },
+  "888962837": {
+   "fragment_id": "116947477",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração ao Decreto-Lei n.º 41/2000, de 17 de Março",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 7.º — Alteração ao Decreto-Lei n.º 41/2000, de 17 de Março\n\nÉ alterado o artigo 5.º do Decreto-Lei n.º 41/2000, de 17 de Março, que passa a ter a seguinte redacção:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\n2 - Nas transferências internas e na ausência de estipulação em contrário pelo cliente, as quantias em dinheiro devem ser creditadas na conta do beneficiário no próprio dia, se a transferência se efectuar entre contas sediadas na mesma instituição, e o mais tardar no dia útil seguinte, se a transferência for interbancária, sendo a data valor e a data de disponibilização a do momento do crédito.\n\n3 - ...\n\n4 - Em ambos os casos, a instituição do beneficiário deve creditar na conta deste e disponibilizar o respectivo saldo credor no mesmo dia em que, nos termos do n.º 2, a quantia é creditada na conta da instituição ou, tratando-se de transferências transfronteiras, no dia útil seguinte, sendo nos dois casos atribuída a data valor do momento do crédito.\n\n5 - É proibido o débito de juros, ou de qualquer despesa correspondente, pela movimentação a débito dos fundos disponibilizados nos termos dos artigos anteriores.»\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01"
+  },
+  "116947439": {
+   "fragment_id": "116947482",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.\n\nPromulgado em 6 de Janeiro de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 9 de Janeiro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "888962853": {
+   "fragment_id": "116947374",
+   "type": 11,
+   "heading": "Artigo 4.º — Depósitos em numerário",
+   "in_force_from": "2018-11-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2018 - Diário da República n.º 217/2018, Série I de 2018-11-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2018-116936932), em vigor a partir de 2018-11-13"
+   ],
+   "markdown": "###### Artigo 4.º — Depósitos em numerário\n\n1 - Os depósitos em numerário efectuados ao balcão implicam a disponibilização imediata do saldo credor, sendo-lhes atribuída a data valor do dia da sua realização.\n\n2 - Os depósitos em numerário efectuados em terminais automáticos implicam a disponibilização do saldo credor no dia útil seguinte, sendo-lhes atribuída a data valor deste mesmo dia útil.\n\n3 - Os depósitos em numerário efectuados em terminais automáticos que disponham da possibilidade de conferência de notas implicam:\n\na) Quando realizados em dias úteis, a disponibilização imediata do saldo credor, sendo-lhes atribuída a data valor do dia da sua realização;\n\nb) Quando realizados aos sábados, domingos e feriados, a disponibilização do saldo credor no dia útil seguinte, sendo-lhes atribuída a data valor deste mesmo dia útil.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 91/2018 - Diário da República n.º 217/2018, Série I de 2018-11-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2018-116936932), em vigor a partir de 2018-11-13"
+  }
+ }
+}

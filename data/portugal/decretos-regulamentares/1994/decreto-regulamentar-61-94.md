@@ -1,0 +1,1508 @@
+---
+schema_version: '1.0'
+id: pt:dre:619306:por
+title: Decreto Regulamentar n.º 61/94
+short_title: null
+summary: Regulamenta o Decreto-Lei n.º 15/93, de 22 de Janeiro (revê a legislação de combate à droga)
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 61/94
+official_date: null
+publication_date: '1994-10-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 236/1994, Série I-B de 1994-10-12
+  number: '236'
+  series: I
+  supplement: null
+  pages: 6183 - 6198
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/10/236b00/61836198.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-regulamentar-61-94.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1994-10-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-10-27'
+    amending: pt:dre:667750:por
+    amending_title: Decreto Regulamentar n.º 23/99
+    changes:
+    - Altera Artigo 13.º
+  - date: '2004-05-05'
+    amending: pt:dre:302281:por
+    amending_title: Decreto Regulamentar n.º 19/2004
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+  - date: '2009-11-11'
+    amending: pt:dre:491689:por
+    amending_title: Decreto Regulamentar n.º 28/2009
+    changes:
+    - Adita Artigo 30.º-A
+    - Adita Artigo 48.º-A
+    - Adita Artigo 52.º-A
+    - Adita Artigo 52.º-B
+    - Adita Artigo 62.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 21.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Capítulo III
+    - Altera Secção I
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Secção II
+    - Altera Artigo 52.º
+    - Altera Artigo 54.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+  - date: '2019-02-01'
+    amending: pt:dre:117821810:por
+    amending_title: Decreto-Lei n.º 8/2019
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 36.º-A
+    - Altera Artigo 13.º
+    - Altera Artigo 22.º
+    - Altera Artigo 43.º
+  - date: '2020-08-05'
+    amending: pt:dre:139472787:por
+    amending_title: Decreto Regulamentar n.º 2/2020
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 67.º
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 70.º
+    - Altera Artigo 71.º
+    - Altera Artigo 72.º
+    - Altera Artigo 73.º
+    - Altera Artigo 74.º
+    - Altera Artigo 75.º
+    - Altera Artigo 76.º
+    - Altera Artigo 77.º
+    - Altera Artigo 78.º
+    - Altera Artigo 79.º
+    - Altera Artigo 80.º
+    - Altera Artigo 83.º
+    - Altera Artigo 84.º
+    - Altera Artigo 85.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/61/1994/p/cons/20210129/pt/html
+  oj: null
+  dre: '619306'
+  dre_path: /dr/detalhe/decreto-regulamentar/61-1994-619306
+  internal: pt:dre:619306:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1994-619306
+  metadata_url: https://data.dre.pt/eli/decregul/61/1994/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1994-117822535
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1994-117822535
+  retrieved_at: '2026-10-22T12:23:49Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 01fbd336a8620a96a73344688b6500f4d663128d4774685a8ac21c13b063ddf4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:23:49Z'
+  notes: 7 versão(ões); histórico completo em decreto-regulamentar-61-94.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Produto Químico
+- PSP
+- ALTO Comissário para o Projecto VIDA
+- Aproximação das Legislações
+- Região Autónoma
+- Indústria Farmacêutica
+- Publicidade
+- Multa
+- Comissão de Aplicação de Coimas em Matéria Económica
+- Infarmed
+- Direção Geral da Saúde
+- Contra-ordenação
+- Direcção Geral da Indústria
+- Administração Regional de Saúde
+- Direcção Geral das Alfândegas
+- Direcção Geral do Comércio
+- Etiquetagem
+- Fabrico Industrial
+- Fiscalização
+- Inspecção Geral das Actividades Económicas
+- Ministério da Justiça
+- Importação
+- Gabinete de Combate à Droga do Ministério da Justiça
+- Licenciamento
+- Embalagem
+- GNR
+- Gabinete de Planeamento e de Coordenação do Combate à Droga
+- Droga
+- Transporte de Mercadorias
+- Exportação
+- Presidente
+- Produto Farmacêutico
+- Receita Médica
+- Regime Jurídico
+- Regulamento CE
+- Polícia Judiciária
+- Serviço Regional
+- Taxa
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:667750:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1999-667750
+  date: '1999-10-22'
+- type: amended_by
+  target: pt:dre:302281:por
+  label: Altera Artigo 5.º; Altera Artigo 23.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-2004-302281
+  date: '2004-04-30'
+- type: amended_by
+  target: pt:dre:491689:por
+  label: Adita Artigo 30.º-A; Adita Artigo 48.º-A; Adita Artigo 52.º-A; Adita Artigo 52.º-B; Adita Artigo 62.º-A; Altera Artigo
+    1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 16.º; Altera Artigo 21.º; Altera Artigo 27.º; Altera Artigo 28.º;
+    Altera Artigo 30.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689
+  date: '2009-10-12'
+- type: amended_by
+  target: pt:dre:117821810:por
+  label: Adita Artigo 6.º-A; Adita Artigo 36.º-A; Altera Artigo 13.º; Altera Artigo 22.º; Altera Artigo 43.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2019-117821810
+  date: '2019-01-15'
+- type: amended_by
+  target: pt:dre:139472787:por
+  label: Altera Artigo 13.º; Altera Artigo 43.º; Altera Artigo 44.º; Altera Artigo 67.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2020-139472787
+  date: '2020-08-04'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 68.º; Altera Artigo 69.º; Altera Artigo 70.º; Altera Artigo 71.º; Altera Artigo 72.º; Altera Artigo
+    73.º; Altera Artigo 74.º; Altera Artigo 75.º; Altera Artigo 76.º; Altera Artigo 77.º; Altera Artigo 78.º; Altera Artigo
+    79.º; Altera Artigo 80.º; Altera Artigo 83.º; Altera Artigo 84.º; Altera Artigo 85.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: celex:31990R3677
+  label: null
+  source: http://data.europa.eu/eli/reg/1990/3677/oj
+- type: cites
+  target: celex:31992L0109
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/109/oj
+- type: cites
+  target: celex:31992R0900
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/900/oj
+- type: cites
+  target: celex:31992R3769
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/3769/oj
+- type: cites
+  target: celex:31993L0046
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/46/oj
+- type: cites
+  target: celex:32004R0273
+  label: null
+  source: null
+- type: cites
+  target: celex:32005R0111
+  label: null
+  source: null
+- type: cites
+  target: celex:32005R1277
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585178:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/1993/01/22/p/dre
+article_structure:
+  article_count: 97
+  section_count: 28
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:23:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 61/94
+
+Decreto Regulamentar n.º 61/94
+
+de 12 de Outubro
+
+Na sequência da publicação do Decreto-Lei n.º 15/93, de 22 de Janeiro, que reviu a legislação do combate à droga, importa, tal como nesse diploma se prevê, proceder à regulamentação do disposto nos seus artigos 2.º, n.os 4 e 5, 4.º a 20.º e 65.º a 68.º
+
+O controlo dos precursores e outros produtos químicos essenciais ao fabrico de droga - substâncias constantes das tabelas V e VI anexas ao referido decreto-lei - passíveis de desvio para o mercado ilícito mostra-se de alguma complexidade, na medida em que uma boa parte dessas substâncias é de uso corrente na actividade comercial, industrial ou social.
+
+Tal controlo, a pôr em execução por observância não só da Convenção das Nações Unidas contra o Tráfico Ilícito de Estupefacientes e de Substâncias Psicotrópicas de 1988, como por força do direito comunitário a que Portugal se vinculou, só será possível se resultar de uma actuação concertada e eficaz dos vários serviços e organismos com competência na matéria.
+
+De facto, se no tocante aos estupefacientes e às substâncias psicotrópicas - constantes das tabelas I a IV anexas àquele decreto-lei - a legislação em vigor apenas carece de simples adaptações, determinadas essencialmente pela experiência do Decreto Regulamentar n.º 71/84, de 7 de Setembro, e pelo desejo de maior eficácia das medidas de controlo, já quanto aos precursores e outras substâncias utilizáveis no fabrico de droga há que prever novas regras, tendo presente o direito internacional pactício e o direito comunitário.
+
+Aproveita-se, assim, a oportunidade para transpor para o direito interno a Directiva do Conselho n.º <a href="eurlex.asp?ano=1992&id=392L0109" title="Link para Directiva da Comunidade Europeia">92/109/CEE</a>, de 14 de Dezembro, relativa à produção e colocação no mercado de certas substâncias utilizadas na produção ilegal de estupefacientes e psicotrópicos, alterada pela Directiva da Comissão n.º <a href="eurlex.asp?ano=1993&id=393L0046" title="Link para Directiva da Comunidade Europeia">93/46/CEE</a>, de 22 de Junho.
+
+Ao mesmo tempo, entra-se em linha de conta com a regulamentação comunitária relativa ao controlo de tais substâncias no comércio entre a Comunidade e países terceiros, nomeadamente o Regulamento (CEE) n.º <a href="eurlex.asp?ano=1990&id=390R3677" title="Link para Regulamento da Comunidade Europeia">3677/90</a>, do Conselho, de 13 de Dezembro, alterado pelo Regulamento (CEE) n.º <a href="eurlex.asp?ano=1992&id=392R0900" title="Link para Regulamento da Comunidade Europeia">900/92</a>, do Conselho, de 31 de Março, e do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1992&id=392R3769" title="Link para Regulamento da Comunidade Europeia">3769/92</a>, da Comissão, de 21 de Dezembro, de carácter executivo daquele.
+
+Sabido que as exigências internacionais e comunitárias, designadamente neste domínio do controlo do mercado lícito de droga, são cada vez mais importantes e prementes, o presente decreto regulamentar concretiza para cada organismo público a colaboração parcelar que lhe é pedida, consoante a sua especialidade, sem prejuízo da necessária coordenação global.
+
+Também por isso a formulação adoptada define, de forma harmonizada e global, os procedimentos a seguir pelas restantes entidades com intervenção na execução do diploma.
+
+Foram ouvidas a Ordem dos Médicos, a Ordem dos Médicos Veterinários e a Ordem dos Farmacêuticos.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 76.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto e definições
+
+1 - O presente decreto regulamentar estabelece as regras relativas ao controlo do mercado lícito de estupefacientes e substâncias psicotrópicas, compreendidos nas tabelas i a iv anexas ao Decreto-Lei n.º 15/93, de 22 de Janeiro, e aos precursores e outros produtos químicos susceptíveis de utilização no fabrico de droga, adiante designados por substâncias inventariadas, definidas nos Regulamentos (CE) n.os 273/2004, do Parlamento Europeu e do Conselho, de 11 de Fevereiro, e 111/2005, do Conselho, de 22 de Dezembro de 2004.
+
+2 - Para efeitos do disposto no presente decreto regulamentar, e sem prejuízo das definições constantes das convenções relativas a estupefacientes, substâncias psicotrópicas e precursores, ratificadas pelo Estado Português, e dos regulamentos comunitários, entende-se por:
+
+a) Produção: obtenção, por recolha ou extracção, de estupefacientes, substâncias psicotrópicas e precursores de droga, a partir de organismos naturais;
+
+b) Fabrico: operações mediante as quais se podem obter estupefacientes, substâncias psicotrópicas, precursores e outros produtos químicos susceptíveis de desvio para a obtenção de droga, incluindo a purificação e a transformação de uns produtos noutros;
+
+c) 'Manipulação ou transformação' a operação mediante a qual se podem modificar estupefacientes, substâncias psicotrópicas, substâncias inventariadas e outros produtos químicos susceptíveis de desvio para fabrico de droga, através de processos físicos ou químicos;
+
+d) 'Importação' a introdução, no território aduaneiro da Comunidade, de estupefacientes, substâncias psicotrópicas, substâncias inventariadas e outros produtos químicos susceptíveis de desvio para o fabrico de droga, provenientes de países terceiros;
+
+e) 'Exportação' a saída, do território aduaneiro da Comunidade para países terceiros, de estupefacientes, substâncias psicotrópicas, substâncias inventariadas e outros produtos químicos susceptíveis de desvio para o fabrico de droga, equiparando-se à exportação a reexportação;
+
+f) Trânsito: passagem, por território nacional, bem como o transbordo de estupefacientes, substâncias psicotrópicas, precursores e outros produtos químicos susceptíveis de desvio para o fabrico de droga, vindos de país não comunitário e com destino a outro país não comunitário;
+
+g) Introdução: entrada física de estupefacientes, substâncias psicotrópicas, precursores e outros produtos químicos susceptíveis de desvio para o fabrico de droga, no território nacional, provenientes de outro país comunitário;
+
+h) Expedição: saída física de estupefacientes, substâncias psicotrópicas, precursores e outros produtos químicos susceptíveis de desvio para o fabrico de droga, do território nacional com destino a outro país comunitário;
+
+i) Comércio por grosso: compra de estupefacientes, substâncias psicotrópicas, precursores e outros produtos químicos susceptíveis de desvio para o fabrico de droga, no próprio nome e por sua conta, e a respectiva revenda a outros comerciantes, grossistas ou retalhistas, a transformadores, ou utilizadores profissionais ou a grandes utilizadores;
+
+j) 'Instalações do operador' o edifício ou edifícios, bem como o terreno ocupado por um operador num determinado local;
+
+l) 'Colocação no mercado' qualquer fornecimento, na Comunidade a terceiros, a título oneroso ou gratuito, de substâncias inventariadas, bem como a armazenagem, o fabrico, a produção, a transformação, o comércio, a distribuição ou a corretagem dessas substâncias para efeitos de fornecimento na Comunidade;
+
+m) 'Operador' a pessoa singular ou colectiva que se dedica à colocação no mercado de estupefacientes, substâncias psicotrópicas, substâncias inventariadas e outros produtos químicos susceptíveis de desvio para o fabrico de droga.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O cultivo, a produção, o fabrico, o emprego, o comércio, a distribuição, a importação, a exportação, a introdução, a expedição, o trânsito, a detenção a qualquer título e o uso de plantas, substâncias e preparações compreendidas nas tabelas I a IV ficam sujeitos aos condicionamentos, autorizações e fiscalização constantes do Decreto-Lei n.º 15/93, de 22 de Janeiro, e do presente decreto regulamentar.
+
+2 - A colocação no mercado, a importação, a exportação, as actividades intermédias, o trânsito e a detenção, a qualquer título, das substâncias inventariadas ficam sujeitos às disposições do presente decreto regulamentar e da regulamentação comunitária aplicável.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 3.º — Regras e conceitos técnicos
+
+As regras e os conceitos técnicos contidos no presente decreto regulamentar são entendidos de harmonia com as convenções relativas a estupefacientes e substâncias psicotrópicas ratificadas pelo Estado Português e com a regulamentação comunitária aplicável.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 4.º — Dever geral de informação
+
+Todas as entidades autorizadas a praticar as actividades referidas no artigo 2.º são obrigadas a prestar, em prazo que lhes venha a ser fixado, as informações que legitimamente lhes forem solicitadas pelas entidades com poderes de fiscalização.
+
+### Capítulo II — Autorização, condicionamento e controlo
+
+respeitantes às tabelas I a IV
+
+#### Secção I — Autorizações
+
+###### Artigo 5.º — Regras gerais
+
+1 - Compete ao presidente do conselho de administração do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., com faculdade de delegação nos restantes membros do conselho e em todo o pessoal dirigente do instituto, proferir os despachos de autorização, revogação ou suspensão das actividades previstas no n.º 1 do artigo 2.º, no prazo de 60 dias.
+
+2 - As autorizações só são concedidas se fundamentadas nas necessidades do País, dando prevalência aos interesses de ordem médica, médico-veterinária, científica e didáctica, ressalvadas as excepções previstas nas convenções referidas no artigo 3.º
+
+3 - Para efeito do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 15/93, o que se dispõe nos n.os 4 e 5 daquele preceito observa-se quanto aos pedidos apresentados pela primeira vez por entidades ainda não autorizadas para o exercício das actividades previstas neste diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 19/2004 - Diário da República n.º 102/2004, Série I-B de 2004-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-2004-302281), em vigor a partir de 2004-05-05
+
+###### Artigo 6.º — Pedidos de autorização ou de manutenção de autorização
+
+1 - Os pedidos de autorização ou de manutenção de autorização de quaisquer actividades previstas no n.º 1 do artigo 2.º são dirigidos ao presidente do INFARMED, em suporte de papel ou por via electrónica, neles se identificando a entidade singular ou colectiva que os subscreve, através do bilhete de identidade ou cartão de cidadão, do cartão de identificação de pessoa colectiva ou equiparada, para além das menções particulares referidas noutros preceitos.
+
+2 - Nos pedidos formulados nos termos do n.º 3 do artigo 5.º devem ainda ser indicados os responsáveis individuais pela elaboração e conservação actualizada dos registos e pelo cumprimento das demais obrigações que vierem a ser impostas, os quais declararão assumir tal responsabilidade.
+
+3 - Por cada filial ou depósito, é apresentado um pedido autónomo.
+
+4 - O requerimento deve ser acompanhado de pedido do certificado de registo criminal dos requerentes e dos indivíduos referidos no n.º 2 e, no caso de pessoa colectiva, dos indivíduos que a podem obrigar.
+
+5 - Os pedidos de manutenção da autorização devem ser instruídos com os documentos comprovativos da substituição do titular, da mudança da firma ou das suas instalações, ou da certidão de óbito, conforme os casos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 6.º-A — Requisitos
+
+A instrução dos pedidos e procedimentos relativos à concessão de autorizações para o exercício das atividades relacionadas com o cultivo, fabrico, comércio por grosso, trânsito, importação e exportação de medicamentos, preparações e substâncias à base da planta da canábis para fins medicinais, médico-veterinários ou de investigação científica, bem como de autorizações para o exercício da atividade de cultivo da planta da canábis para outros fins, designadamente industriais, bem como as medidas de segurança a adotar, são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças, da administração interna, da justiça, da saúde, da economia e da agricultura.
+
+> Aditado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 8/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2019-117821810), em vigor a partir de 2019-02-01
+
+###### Artigo 7.º — Requisitos subjectivos
+
+1 - A idoneidade dos requerentes afere-se pelo teor do registo criminal, pelo cadastro das coimas, bem como pelos elementos obtidos através do Instituto da Droga e da Toxicodependência, I. P. (IDT, I. P.), cuja recolha é efectuada com respeito pelos direitos, liberdades e garantias dos cidadãos e atendendo exclusivamente aos interesses públicos em matéria de saúde e de combate ao tráfico de estupefacientes e substâncias psicotrópicas.
+
+2 - O requerente goza do direito de acesso aos elementos referidos no número anterior, nos termos gerais, podendo impugná-los, bem como a forma como foram obtidos.
+
+3 - No que respeita aos estabelecimentos hospitalares do Estado, civis ou militares, é dispensada a audição do IDT, I. P., bem como a apresentação dos certificados de registo criminal e de cadastro de coimas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 8.º — Despachos de autorização, manutenção ou indeferimento
+
+1 - As autorizações são intransmissíveis, não podendo ser cedidas ou utilizadas por outrem, a qualquer título.
+
+2 - As autorizações concedidas de forma genérica a pessoas singulares ou colectivas para o exercício das actividades previstas no n.º 1 do artigo 2.º são válidas por um ano e consideram-se renovadas por igual período, se o INFARMED nada disser até 90 dias antes do termo do prazo.
+
+3 - Cada autorização específica só é válida para o período que for fixado no despacho, o qual não excederá um ano.
+
+4 - O despacho de autorização proferido sobre os pedidos a que se reporta o n.º 3 do artigo 5.º é notificado ao requerente, no prazo de 10 dias a contar da data de emissão do mesmo, e nele são fixadas as condições especiais a observar por este, bem como a respectiva data da produção de efeitos.
+
+5 - Dos despachos de indeferimento do presidente do conselho de administração do INFARMED cabe recurso contencioso.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 9.º — Caducidade da autorização
+
+1 - O requerimento para prosseguir uma actividade autorizada, nos casos previstos no n.º 1 do artigo 8.º do Decreto-Lei n.º 15/93, deve ser apresentado nos 60 dias seguintes à mudança de firma, ao falecimento ou substituição do respectivo titular, ou do representante legal da empresa ou entidade autorizada, sendo rejeitado se apresentado fora de prazo.
+
+2 - A publicação de portaria que determine a proibição de cultura de certas plantas ou arbustos, o fabrico, preparação ou comercialização de certas substâncias ou preparações, nos termos dos n.os 4 e 5 do artigo 5.º do Decreto-Lei n.º 15/93, acarreta a caducidade automática das autorizações concedidas para aquelas actividades.
+
+3 - Aplica-se aos casos de caducidade, com as devidas adaptações, o disposto no artigo 10.º do Decreto-Lei n.º 15/93.
+
+###### Artigo 10.º — Revogação e suspensão da autorização
+
+1 - É revogada a autorização logo que deixem de verificar-se os requisitos referidos no n.º 2 do artigo 5.º, no artigo 7.º e no n.º 1 do artigo 8.º, sem prejuízo da aplicação das coimas a que houver lugar.
+
+2 - Os despachos de revogação ou de suspensão são publicados na 2.ª série do Diário da República.
+
+3 - Cabe recurso contencioso dos despachos do presidente do conselho de administração do INFARMED referidos no presente artigo.
+
+###### Artigo 11.º — Efeitos da revogação da autorização
+
+O requerimento a que se refere o artigo 10.º do Decreto-Lei n.º 15/93, em que seja solicitada a devolução das substâncias e preparações existentes a quem as tenha fornecido ou a cedência a outras entidades ou empresas autorizadas ou a farmácias, deve ser acompanhado de declaração de concordância de tais entidades, empresas ou farmácias, para o caso de deferimento, e de lista discriminada daquelas substâncias ou preparações.
+
+###### Artigo 12.º — Comunicação das autorizações
+
+1 - O INFARMED comunica ao IDT, I. P., as autorizações concedidas para a prática de qualquer das actividades mencionadas no n.º 1 do artigo 2.º, bem como a respectiva prorrogação, suspensão ou revogação.
+
+2 - O IDT, I. P., informa a Polícia Judiciária (PJ), a Polícia de Segurança Pública (PSP), a Guarda Nacional Republicana (GNR) e a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) das autorizações concedidas, com indicação de qual ou quais destas autoridades são especialmente responsáveis pelo controlo das operações e em que termos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção II — Cultivo, produção e fabrico
+
+###### Artigo 13.º — Cultivo
+
+1 - Quem pretender autorização para o cultivo de espécies vegetais incluídas nas tabelas I e II, para fins médicos, médico-veterinários ou de investigação científica, deve requerê-la ao INFARMED.
+
+2 - O pedido de autorização indicará, para além dos elementos referidos no artigo 6.º, os seguintes:
+
+a) Completa identificação e endereço do cultivador ou cultivadores, na hipótese de não ser o requerente;
+
+b) Localização e área de terreno a cultivar;
+
+c) Quantidade e designação da espécie vegetal a semear ou a plantar;
+
+d) Quantidade provável do produto a recolher, sua aplicação e destino;
+
+e) Local onde o produto será guardado e respectivas condições de segurança enquanto não for entregue ao organismo oficial incumbido da recolha.
+
+3 - No caso de ser autorizada a cultura de espécies vegetais que implique um regime especial de controlo previsto nas convenções ratificadas por Portugal, é definido o organismo ou organismos que exercerão aquelas funções de controlo, nos termos da lei, observando-se ainda as demais regras previstas nas convenções.
+
+4 - No caso do cultivo de cânhamo para fins industriais, incluindo para uso alimentar ou alimentação animal ou para fabrico de alimentos ou alimentos compostos para animais, das variedades de Cannabis sativa para a produção de fibra e sementes não destinadas a sementeira, as funções de controlo são efetuadas pelo Instituto de Financiamento da Agricultura e Pescas, I. P., conjuntamente com a Polícia Judiciária, a Guarda Nacional Republicana e a Polícia de Segurança Pública em termos a definir por despacho dos membros do Governo responsáveis pelas áreas da administração interna, da justiça e da agricultura.
+
+5 - O titular da autorização para o cultivo deve manter registos atualizados de todas as entradas e saídas das espécies vegetais incluídas nas tabelas i e ii, que garantam a rastreabilidade do produto resultante da atividade e o cumprimento do disposto nos artigos 31.º e seguintes.
+
+6 - A autorização para o cultivo de cânhamo para fins industriais, previsto no n.º 4, deve ser requerida à Direção-Geral de Alimentação e Veterinária.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2020 - Diário da República n.º 150/2020, Série I de 2020-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2020-139472787), em vigor a partir de 2020-08-05
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 8/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2019-117821810), em vigor a partir de 2019-02-01
+
+> Alterado pelo/a [Decreto Regulamentar n.º 23/99 - Diário da República n.º 247/1999, Série I-B de 1999-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1999-667750), em vigor a partir de 1999-10-27
+
+###### Artigo 14.º — Excedentes
+
+1 - Podem ser tolerados excedentes de cultivo não superiores a 10% das quantidades autorizadas, desde que feita a participação ao INFARMED dentro de 15 dias a contar do momento em que tiverem sido apurados.
+
+2 - Os excedentes são imputados nas quantidades a produzir no ano seguinte.
+
+3 - O INFARMED ordena a apreensão dos excedentes não autorizados, aos quais é dado o destino previsto no artigo 62.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, se não forem utilizados para fins lícitos, dando conhecimento dessa apreensão à PJ e solicitando, se necessária, a colaboração das autoridades policiais, directamente ou através do IDT, I. P.
+
+4 - Se a proibição de cultivo a que se referem os n.os 4 e 5 do artigo 5.º do Decreto-Lei n.º 15/93 implicar a destruição das culturas existentes previamente autorizadas, o Estado indemniza, nos termos da lei, pelas despesas realizadas, as entidades que a elas tiverem procedido.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 15.º — Extracção e fabrico
+
+1 - Quem, pela primeira vez, pretender autorização para extrair alcalóides de espécies vegetais incluídas nas tabelas I-A, I-B e I-C ou para os fabricar por síntese, para fins médicos, médico-veterinários ou de investigação científica, deve requerê-la ao INFARMED até 31 de Outubro, com referência ao ano seguinte.
+
+2 - Quem pretender extrair, transformar ou fabricar substâncias ou preparações incluídas nas tabelas I a IV deve proceder de igual modo e no mesmo prazo, sem prejuízo do que se dispõe no número seguinte.
+
+3 - A autorização de fabrico de substâncias compreendidas na tabela II-A só pode ser concedida para fins de investigação científica.
+
+4 - O pedido de autorização deve indicar, para além dos elementos referidos no artigo 6.º, os seguintes:
+
+a) Descrição gráfica dos locais destinados ao fabrico e ao depósito das substâncias fabricadas ou destinadas ao fabrico, das preparações e respectivas condições de segurança;
+
+b) Identificação e qualificação profissional do responsável técnico;
+
+c) Natureza e quantidade de matérias-primas exigidas para o fabrico;
+
+d) Substâncias e preparações que se deseja fabricar, quantidades a produzir, seu destino e processos de extracção.
+
+5 - A autorização para o fabrico é válida também para a aquisição de matérias-primas, sua armazenagem e venda dos produtos obtidos, desde que efectuada a entidades autorizadas.
+
+6 - A utilização de substâncias compreendidas nas tabelas I, II-B e II-C pela indústria para fins diferentes dos fins médicos, médico-veterinários ou científicos só pode ser autorizada se o requerente demonstrar o domínio de técnicas apropriadas de transformação ou que, por qualquer meio, possam impedir o emprego abusivo das substâncias, a produção de efeitos nefastos ou a possibilidade prática da sua recuperação.
+
+7 - No despacho que conceder a autorização são fixadas as condições que permitam ao INFARMED impedir a acumulação de estupefacientes em quantidades superiores às necessidades do mercado e ao normal funcionamento da entidade requerente.
+
+###### Artigo 16.º — Quotas de fabrico de substâncias
+
+1 - No mês de Julho de cada ano, o INFARMED, atendendo aos compromissos internacionais assumidos e de acordo com as regras decorrentes das convenções, estabelece as quantidades das substâncias compreendidas nas tabelas i e ii, com excepção da ii-A, que podem ser fabricadas ou postas à venda pelas entidades autorizadas, no decurso do ano seguinte.
+
+2 - As quantidades estabelecidas podem ser aumentadas no decurso do ano a que respeita a autorização, competindo ao INFARMED, em qualquer momento e quando especiais circunstâncias o exijam, limitar o fabrico de determinadas substâncias e preparações.
+
+3 - A fixação das quotas ao abrigo do disposto no n.º 1 e a sua alteração são publicadas na 2.ª série do Diário da República.
+
+4 - À proibição de fabrico aplica-se o disposto no n.º 4 do artigo 14.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção III — Comércio por grosso
+
+###### Artigo 17.º — Autorização para o comércio por grosso
+
+1 - Quem pretender autorização para o comércio por grosso de substâncias compreendidas nas tabelas I, II, com excepção da II-A, e IV, deve requerê-la ao INFARMED.
+
+2 - O pedido deve indicar, para além dos elementos referidos no artigo 6.º, os seguintes:
+
+a) Localização do estabelecimento, depósito ou armazém em que o comércio será exercido;
+
+b) Locais reservados à recepção, à detenção e à expedição ou entrega dos produtos;
+
+c) Medidas de segurança adoptadas ou a adoptar;
+
+d) Substâncias e preparações que se pretende comercializar.
+
+3 - No despacho que conceder a autorização são fixadas as condições que permitam ao INFARMED impedir a acumulação de estupefacientes e substâncias psicotrópicas em quantidades superiores às necessidades do mercado e ao normal funcionamento da entidade requerente.
+
+###### Artigo 18.º — Venda ou cedência de substâncias e preparações
+
+1 - A venda ou cedência de substâncias e preparações compreendidas nas tabelas I a IV, com excepção da II-A, a estabelecimentos hospitalares do Estado, civis ou militares, a farmácias e a outras entidades legalmente autorizadas é feita sob requisição escrita, devidamente assinada e autenticada, pelo respectivo responsável, a destacar de livro de modelo aprovado pelo INFARMED, ou mediante documento emitido por meios informáticos, de valor equivalente, salvo o disposto no número seguinte.
+
+2 - As formalidades referidas no número anterior não se aplicam à venda ou cedência de preparações incluídas na tabela III, quando feitas por empresas autorizadas a comercializar por grosso, a estabelecimentos hospitalares do Estado, civis ou militares, ou a farmácias.
+
+3 - O envio a médicos e a médicos veterinários, pelos respectivos fabricantes, de amostras de preparações compreendidas nas tabelas III e IV só pode fazer-se mediante requisição nos termos a estabelecer pelo INFARMED.
+
+4 - É proibido o envio de amostras de substâncias e preparações compreendidas nas tabelas I e II.
+
+###### Artigo 19.º — Requisições
+
+1 - O documento a que se refere o n.º 1 do artigo 18.º é elaborado em duplicado, ficando o primeiro exemplar na posse do requisitante e o segundo na do fornecedor.
+
+2 - Cada requisição deve ser utilizada para um só tipo de substância.
+
+###### Artigo 20.º — Procedimento na entrega
+
+1 - A entrega de substâncias e preparações compreendidas nas tabelas I a IV, com excepção da II-A, só pode ser feita por um dos modos seguintes:
+
+a) Pessoalmente, ao titular da autorização, ao farmacêutico ou a representantes de um ou de outro ou ainda aos responsáveis indicados pelas entidades referidas no artigo 18.º, n.º 1, sendo anotado o nome, o número e a data de emissão do bilhete de identidade ou de outro elemento seguro de identificação, à margem da requisição ou requisições;
+
+b) Por meio de agência de transporte ou correio privado.
+
+2 - Sempre que se trate de substâncias compreendidas na tabela I, cujo quantitativo exceda 1 kg, o transporte é realizado com prévia comunicação escrita do fornecedor à autoridade policial mais próxima.
+
+3 - Na comunicação a que se refere o número anterior, indicar-se-á o nome do fornecedor e do destinatário, o meio de transporte, o dia e a hora em que se realiza, a natureza e a quantidade das substâncias a transportar.
+
+4 - A comunicação é feita em triplicado, com a antecedência de três dias, ficando um exemplar na posse da autoridade policial, sendo outro por esta enviado à autoridade que tiver jurisdição sobre a área de destino; o terceiro, visado pela autoridade policial, acompanha a mercadoria e deve ser reenviado pelo destinatário ao fornecedor.
+
+5 - O fornecedor deve conservar a requisição durante três anos e, quando a entrega for feita por agência de transporte ou correio privado, o documento de recepção, devendo o requisitante conservar a cópia da requisição por igual período.
+
+###### Artigo 21.º — Fornecimento para fins específicos
+
+1 - O INFARMED pode autorizar o fornecimento de substâncias e preparações compreendidas nas tabelas I-A, II-B, II-C e IV:
+
+a) A estabelecimentos públicos ou privados, reconhecidamente idóneos, para fins de investigação ou ensino, podendo ainda ser autorizado o fornecimento de substâncias compreendidas nas tabelas restantes;
+
+b) A navios mercantes, aeronaves e outros meios de transporte público internacional, para primeiros socorros, nos termos do artigo 14.º do Decreto-Lei n.º 15/93, devendo o pedido ser subscrito pelo médico de bordo ou, na falta deste, por médico da respectiva empresa e mencionar o nome, número do navio ou aeronave, a repartição e local onde se encontram registados ou outras referências suficientemente identificadoras, observadas as disposições aduaneiras aplicáveis.
+
+2 - No pedido é indicado o responsável pela guarda e conservação das substâncias e preparações, o qual deve declarar assumir tal responsabilidade, devendo ainda ser descritas as condições de segurança.
+
+3 - As substâncias e preparações detidas não podem exceder as quantidades indispensáveis para a prossecução normal dos fins autorizados.
+
+4 - Observadas as condições gerais, pode ser autorizado o fornecimento ao IDT, I. P., de substâncias compreendidas na tabela i-A para tratamento com estupefaciente substituto.
+
+5 - Só pode ser ministrado tratamento com estupefaciente substituto sob autorização e controlo do IDT, I. P.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção IV — Importação, exportação, trânsito, introdução e expedição
+
+###### Artigo 22.º — Importação, exportação e comércio
+
+1 - A importação, a exportação, o trânsito, a introdução e a expedição de substâncias e preparações compreendidas nas tabelas I, II e IV só podem ser efectuados por entidades ou empresas autorizadas a cultivar, a fabricar, a manipular ou a comercializar por grosso essas substâncias ou preparações ou a utilizá-las para fins de ensino, terapêuticos ou de investigação científica.
+
+2 - A autorização é concedida para cada operação e pode ser utilizada relativamente a quantidades inferiores às autorizadas.
+
+3 - O INFARMED, I. P., por razões de saúde pública ou atendendo aos compromissos internacionais assumidos e de acordo com as regras decorrentes das convenções das Nações Unidas, pode fixar limites às quantidades de substâncias e preparações compreendidas nas tabelas i, ii e iv a serem objeto das atividades de cultivo, fabrico, comércio por grosso, importação ou exportação.
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 8/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2019-117821810), em vigor a partir de 2019-02-01
+
+###### Artigo 23.º — Pedidos de importação e exportação
+
+1 - O pedido de autorização para importação, exportação, introdução e expedição de substâncias e preparações compreendidas nas tabelas I, II e IV deve indicar, para além dos elementos referidos no artigo 6.º, os seguintes:
+
+a) Nome da substância ou preparação e denominação comum internacional, quando exista;
+
+b) Quantidade a importar, exportar, introduzir ou expedir;
+
+c) Identificação do exportador ou expedidor, em caso de importação ou introdução, e identificação do destinatário, em caso de exportação ou expedição;
+
+d) Período em que a importação, introdução, exportação ou expedição terá lugar, meio de envio ou transporte utilizado e qual a alfândega por onde se dará a entrada ou saída;
+
+e) Percentagem de alcalóides componentes das substâncias ou preparações, sempre que não sejam alcalóides puros ou se trate de medicamentos compostos.
+
+2 - O pedido de autorização de exportação ou expedição deve ainda ser acompanhado do título de autorização para importação ou introdução emitido pelas autoridades do país de destino das mercadorias.
+
+3 - Os pedidos específicos de importação de sementes de cannabis não destinadas a sementeira são apresentados junto da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC), que emite o respectivo certificado para importação.
+
+4 - Os pedidos referidos no número anterior devem ser acompanhados de:
+
+a) Cópia da autorização genérica de actividade, prevista no n.º 2 do artigo 8.º;
+
+b) Declaração de compromisso de apresentação de documentos demonstrativos de que as sementes de cannabis foram sujeitas, com vista à sua inutilização para sementeira, a uma das seguintes operações:
+
+i) Redução total do seu poder germinativo ou redução a um valor inferior a 10%, por terem sido submetidas a um processo físico ou de outra natureza que inviabilize a sua germinação;
+
+ii) Mistura destinada à alimentação animal com sementes que não as de cânhamo, com uma percentagem máxima de 15% de sementes de cânhamo relativamente ao total;
+
+iii) Reexportação para um país terceiro.
+
+5 - As operações referidas na alínea b) do número anterior devem ser realizadas no prazo máximo de 12 meses a partir da data de emissão do certificado para importação.
+
+6 - Os documentos demonstrativos mencionados na alínea b) do n.º 4 são entregues junto do INFARMED, no prazo de 30 dias a contar da realização de uma das operações de inutilização das sementes para sementeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 19/2004 - Diário da República n.º 102/2004, Série I-B de 2004-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-2004-302281), em vigor a partir de 2004-05-05
+
+###### Artigo 24.º — Comunicações
+
+1 - Autorizada a importação ou exportação de substâncias ou preparações compreendidas nas tabelas I, II e IV, o INFARMED dá conhecimento das mesmas à DGAIEC, sem prejuízo do disposto no artigo 12.º
+
+2 - Em caso de autorização do pedido previsto no n.º 3 do artigo anterior, a DGAIEC dá conhecimento da mesma ao INFARMED, remetendo igualmente cópia da declaração de compromisso prevista na alínea b) do n.º 4 do artigo anterior.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 19/2004 - Diário da República n.º 102/2004, Série I-B de 2004-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-2004-302281), em vigor a partir de 2004-05-05
+
+###### Artigo 25.º — Exportação e expedição proibidas
+
+1 - É proibida a exportação ou expedição de substâncias e preparações compreendidas nas tabelas I, II e IV sob a forma de remessa dirigida a um banco ou caixa postal a favor de um destinatário diferente daquele que é indicado na autorização.
+
+2 - É também proibida, sob a forma de remessa, a exportação dirigida a entreposto aduaneiro, excepto quando o Governo do país importador certificar na autorização para importação que consente o depósito nesse entreposto.
+
+3 - No caso de remessa para entreposto aduaneiro, nos termos do número anterior, a autorização para exportação menciona que o envio é feito com esse destino.
+
+4 - Aquele que exportar ou expedir substâncias e preparações referidas no n.º 1 deve proceder de modo que se torne impossível abrir a embalagem sem quebra do respectivo selo.
+
+###### Artigo 26.º — Pedido de autorização de trânsito
+
+1 - O pedido de autorização de trânsito por território português de substâncias e preparações compreendidas nas tabelas I e II, com excepção da II-A, e IV, deve ser acompanhado, para além das indicações constantes do artigo 6.º, do título de autorização para exportação emitido pelas autoridades do país de origem das mercadorias.
+
+2 - O pedido de mudança de destino das mercadorias para outro país que não o de destino inicial, se for autorizado, fica sujeito ao regime das exportações.
+
+#### Secção V — Receituário, aviamento e controlo
+
+###### Artigo 27.º — Receitas
+
+1 - Só mediante apresentação de receita médica ou médico-veterinária, conforme modelo a aprovar por portaria do membro do Governo responsável pela área da saúde, podem ser fornecidas ao público, para tratamento, as substâncias e preparações compreendidas nas tabelas i e ii.
+
+2 - A aprovação do modelo de receita referido no número anterior é precedida de parecer do INFARMED, no âmbito do qual devem ser ouvidas a Direcção-Geral da Saúde, as administrações regionais de saúde, a Ordem dos Médicos, a Ordem dos Médicos Veterinários, a Ordem dos Farmacêuticos e a Associação Nacional de Farmácias.
+
+3 - As receitas são numeradas e contêm no rosto as referências do n.º 3 do artigo 15.º do Decreto-Lei n.º 15/93, podendo ser adaptadas com vista ao seu tratamento informático.
+
+4 - As receitas são passadas em triplicado, ficando na posse do médico ou do médico veterinário, consoante o caso, o talão correspondente, que o conserva em arquivo, facilmente acessível, pelo prazo de três anos; o original da receita é enviado à ARS correspondente ou à Ordem dos Médicos Veterinários, no caso de receita médico-veterinária, sendo um dos duplicados guardado na farmácia e o outro enviado ao INFARMED.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 28.º — Aviamento de receitas
+
+1 - O farmacêutico que avie uma receita especial respeitante a substâncias estupefacientes ou psicotrópicas verifica a identidade do adquirente e anota à margem do original da receita o nome, número e data do bilhete de identidade ou da carta de condução, ou o nome e número do cartão de cidadão ou, no caso de estrangeiros, do passaporte, indicando a data de entrega e assinando de forma legível.
+
+2 - Para identificação do adquirente pode o farmacêutico aceitar outros documentos, desde que tenham fotografia do titular, devendo, nesse caso, recolher a assinatura deste; se não souber ou não puder assinar, o farmacêutico consigna essa menção.
+
+3 - O farmacêutico recusar-se-á a aviar receitas relativas a medicamentos contendo estupefacientes ou substâncias psicotrópicas quando:
+
+a) Não sejam do modelo aprovado nos termos do artigo anterior;
+
+b) Tiver fundadas dúvidas sobre a sua autenticidade;
+
+c) Tiverem decorrido mais de 10 dias sobre a data de emissão;
+
+d) Já tiverem sido aviadas uma vez.
+
+4 - No caso referido na alínea b), o farmacêutico contacta, se tal for possível, o médico ou o médico veterinário prescritor, a expensas do adquirente.
+
+5 - As farmácias conservam o duplicado das receitas em arquivo pelo período de três anos, ordenadas por data de aviamento.
+
+6 - O farmacêutico que aviar uma receita nos termos do n.º 3 do artigo 19.º do Decreto-Lei n.º 15/93 deve, para além dos restantes elementos, recolher no verso do duplicado da receita que permanece na farmácia a assinatura da pessoa que diz ter o menor a seu cargo ou estar incumbida da sua educação ou vigilância; se esta não souber ou não puder assinar proceder-se-á como se prevê no n.º 2.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 29.º — Serviços de saúde do Estado e privados
+
+1 - Nos serviços de saúde do Estado ou privados, a responsabilidade pelo controlo das substâncias e preparações compreendidas nas tabelas I e II cabe às comissões de farmácia e terapêutica ou, não existindo, às direcções clínicas e aos farmacêuticos directores, que fornecerão ao INFARMED, em termos a acordar e com a periodicidade a prever, os dados e informações considerados indispensáveis.
+
+2 - Sem prejuízo do disposto no número anterior, os serviços de saúde do Estado e privados enviam ao INFARMED, trimestralmente, uma relação dos estupefacientes utilizados em tratamento médico, segundo modelo aprovado por aquele, em suporte manual ou informático.
+
+3 - São elaborados pelos serviços referidos no número anterior os registos referidos na secção VI.
+
+###### Artigo 30.º — Distribuição e controlo de receituário
+
+1 - O modelo do livro de receitas especiais constitui exclusivo da Imprensa Nacional-Casa da Moeda, que o fornece mediante requisição das ARS, da Ordem dos Médicos ou da Ordem dos Médicos Veterinários, conforme as suas áreas de intervenção e competência.
+
+2 - As entidades referidas no número anterior procedem à distribuição dos livros de receitas, de acordo com as estritas necessidades de prescrição, cobrando dos utilizadores o respectivo custo.
+
+3 - As farmácias, os serviços de saúde do Estado e privados enviam ao INFARMED, até ao dia 8 do mês seguinte àquele a que respeite, o duplicado de cada receita aviada relativa a substâncias estupefacientes ou psicotrópicas.
+
+4 - Ao controlo de receituário por meios informáticos referido no artigo 18.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, aplicam-se as regras previstas na Lei da Protecção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de Outubro.
+
+5 - O INFARMED transmite ao serviço de saúde competente ou à Ordem dos Médicos e à Ordem dos Médicos Veterinários, conforme a prescrição tenha sido efectuada no exercício de funções públicas ou privadas, as situações que registe no controlo de receituário, relativamente ao consumo individual anormal de substâncias estupefacientes ou psicotrópicas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 30.º-A — Adaptação à forma electrónica
+
+1 - O modelo de receita médica relativa a substâncias e preparações compreendidas nas tabelas i a ii deve ser adaptado à forma electrónica.
+
+2 - As normas constantes da presente secção devem ser ajustadas para cumprimento do disposto no número anterior, através de portaria do membro do Governo responsável pela área da saúde.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção VI — Registos e segurança
+
+###### Artigo 31.º — Disposições comuns
+
+1 - Os livros de registo previstos neste capítulo são de modelos aprovados pelo INFARMED, numerados e rubricados em todas as páginas pelo mesmo Instituto, com termos de abertura e de encerramento.
+
+2 - Os registos não conterão espaços em branco, entrelinhas, rasuras ou emendas não ressalvadas e são elaborados por ordem cronológica, com numeração sequencial.
+
+3 - As entidades autorizadas a fabricar substâncias e preparações compreendidas nas tabelas I, II e IV devem conservar os registos pelo prazo de cinco anos a contar do último lançamento.
+
+4 - Nos restantes casos, o prazo de conservação dos registos é de três anos a contar do último lançamento.
+
+5 - Os registos são controlados pelo INFARMED.
+
+6 - O INFARMED pode autorizar a substituição dos livros e registos manuais por registos informáticos, em condições que não diminuam a fidedignidade e a segurança dos dados.
+
+###### Artigo 32.º — Registo de entrada e de saída
+
+1 - Devem ficar registadas, de acordo com o previsto no artigo anterior, todas as entradas e saídas de substâncias e preparações compreendidas nas tabelas I, II e IV.
+
+2 - O livro de registos ou o correspondente registo informático deve ser encerrado no dia 31 de Dezembro de cada ano e no fecho devem ser mencionados os totais das substâncias ou preparações armazenadas e as utilizadas durante o ano, bem como qualquer diferença, para mais ou para menos, relativamente aos correspondentes registos anteriores.
+
+###### Artigo 33.º — Registo de entrada e de saída e do ciclo de fabrico
+
+1 - As entidades autorizadas a fabricar substâncias e preparações compreendidas nas tabelas I a IV, com excepção da II-A, mencionam nos livros de registo ou no correspondente registo informático, para além das entradas e saídas, a sua passagem à fase de fabrico.
+
+2 - Nos registos de saída e passagem à fase de fabrico menciona-se também o número de registo da entrada da substância.
+
+3 - A substância obtida na fase de fabrico, ainda que mediante síntese, deve ser registada como entrada, com indicações que permitam a ligação com os dados inscritos no registo de fabrico.
+
+4 - No registo de fabrico devem constar a identificação completa do produto, a proveniência e as quantidades de matérias-primas utilizadas, com indicação da respectiva designação e da data de entrada na secção de fabrico, a quantidade de produtos obtidos e o respectivo número de lote.
+
+5 - As variações quantitativas das existências de qualquer substância devem ser contabilizadas em coluna própria, em ligação com o registo relativo à operação que estiver na sua origem.
+
+###### Artigo 34.º — Registo de receitas nas farmácias
+
+1 - As farmácias escrituram no livro de registo especial, ou inserem no correspondente registo informático, a menção das receitas aviadas relativas a substâncias e preparações compreendidas nas tabelas I e II, com excepção da II-A, do qual conste o número da receita, o médico ou médico veterinário prescritor, a identificação e idade do adquirente e a data da entrega, e que será encerrado no dia 31 de Dezembro de cada ano pelo respectivo responsável.
+
+2 - O fornecimento de substâncias ou preparações nos termos do artigo 17.º do Decreto-Lei n.º 15/93 é objecto de registo autónomo, com discriminação da identidade do doente, da dose do fármaco e da data da entrega.
+
+3 - No prazo de 10 dias, o farmacêutico comunica ao INFARMED os casos de fornecimento efectuado de acordo com o número anterior, identificando-se, bem como ao doente, e indicando os elementos constantes do modelo de receita a que se refere o artigo 27.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 35.º — Participação de subtracções ou extravios
+
+A subtracção, o extravio ou a inutilização de livros de registo, de registo informático e de requisições, bem como de livros de receitas, são participados, por escrito, à autoridade policial local, à PJ e ao INFARMED, imediatamente ou nas vinte e quatro horas subsequentes ao conhecimento do facto, pela entidade responsável pela sua guarda, narrando circunstanciadamente os factos e fornecendo, se possível, os números de série dos documentos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 36.º — Medidas técnicas de protecção
+
+1 - Todas as entidades autorizadas, nos termos do presente capítulo, a deter substâncias ou preparações compreendidas nas tabelas I a IV devem tomar as medidas técnicas de protecção adequadas contra a sua perda ou subtracção.
+
+2 - As entidades referidas no n.º 1 ficam obrigadas a adoptar os condicionamentos técnicos de protecção que lhes forem impostos pelo INFARMED, ouvido o GCDMJ e as respectivas associações.
+
+3 - No caso de não adopção daqueles condicionamentos, pode ser revogada a autorização concedida, sem prejuízo da aplicação da coima a que houver lugar.
+
+###### Artigo 36.º-A — Medidas de segurança
+
+1 - As medidas de segurança a estabelecer na portaria prevista no artigo 6.º-A observam as características técnicas consagradas na Portaria n.º 273/2013, de 20 de agosto, na sua redação atual.
+
+2 - As entidades que pretendam exercer as atividades de cultivo e fabrico previstas no número anterior devem dispor ainda de um responsável pela segurança que cumpra os requisitos da categoria de diretor de segurança previstos no artigo 22.º da Lei n.º 34/2013, de 16 de maio.
+
+> Aditado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 8/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2019-117821810), em vigor a partir de 2019-02-01
+
+#### Secção VII — Publicidade, embalagens e rótulos
+
+###### Artigo 37.º — Proibição de publicidade
+
+É proibida a publicidade respeitante a substâncias e preparações compreendidas nas tabelas I a IV, com excepção de publicações técnicas ou suportes de informação destinados exclusivamente a médicos e outros profissionais de saúde.
+
+###### Artigo 38.º — Embalagens e rótulos
+
+1 - O INFARMED pode fixar as características de segurança de abertura dos recipientes utilizados na embalagem das substâncias e das preparações compreendidas nas tabelas I a IV.
+
+2 - Os rótulos apostos nos recipientes que contenham substâncias ou preparações compreendidas nas referidas tabelas, destinadas a venda, têm obrigatoriamente a indicação da quantidade, em peso ou em proporção, das substâncias contidas e a denominação comum internacional comunicada pela Organização Mundial de Saúde, para além do que se encontra determinado em outras disposições legais, se for caso disso.
+
+3 - O folheto informativo que acompanha o recipiente contém a informação relativa à composição, indicação terapêutica, dose e, obrigatoriamente, todas as contra-indicações do produto, especialmente se produzir dependência.
+
+4 - Sobre a superfície dos recipientes que contêm substâncias ou preparações compreendidas nas tabelas I e II é claramente impresso um duplo traço vermelho; as embalagens exteriores desse recipiente não têm o duplo traço vermelho.
+
+#### Secção VIII — Disposições diversas
+
+###### Artigo 39.º — Inspecções
+
+1 - Pode, a todo o momento, ser realizada inspecção a qualquer empresa, estabelecimento ou local onde se encontrem substâncias ou preparações compreendidas nas tabelas I a IV e ser solicitada a exibição de documentos ou registos relativos às mesmas, a qual não pode ser recusada.
+
+2 - Antes da inspecção, o funcionário do INFARMED identifica-se devidamente, através de cartão próprio, onde se mencione o seu poder de fiscalização, ou mediante credencial.
+
+3 - Se a entidade inspeccionada se recusar a exibir os documentos ou registos, é pedida a colaboração das autoridades policiais para concretizar a diligência, tomando-se, entretanto, as providências que se justificarem para manter a utilidade da mesma, sem prejuízo do disposto no artigo 33.º do Decreto-Lei n.º 15/93.
+
+4 - As infracções detectadas são comunicadas às entidades competentes para a investigação criminal ou para a investigação e instrução contra-ordenacional nas vinte e quatro horas seguintes à sua verificação.
+
+5 - É elaborado um relatório escrito de cada inspecção, o qual é arquivado pela entidade fiscalizadora, se não for incorporado em processo crime ou de contra-ordenação.
+
+###### Artigo 40.º — Pessoas em trânsito
+
+A confirmação, quando exigida, da necessidade médica do uso das substâncias e preparações referidas no artigo 13.º do Decreto-Lei n.º 15/93, quanto a pessoas que atravessem as fronteiras portuguesas, pode ser feita pelo subdelegado de saúde local ou, na sua falta, por qualquer médico inscrito na Ordem.
+
+###### Artigo 41.º — Relatórios e relações de receitas
+
+1 - As entidades autorizadas a produzir, fabricar, comercializar, importar, introduzir, exportar e expedir substâncias e preparações compreendidas nas tabelas I, II e IV devem enviar ao INFARMED, até 31 de Janeiro de cada ano, um relatório contendo os seguintes elementos:
+
+a) Resultados do encerramento do registo de entradas e saídas;
+
+b) Nome genérico e quantidades das matérias-primas utilizadas no fabrico de especialidades farmacêuticas ou de produtos industriais no decurso do ano;
+
+c) Nome e quantidade das especialidades farmacêuticas ou dos produtos industriais vendidos no decurso do ano, com especificação dos estabelecimentos e farmácias;
+
+d) Quantidades importadas, introduzidas, exportadas e expedidas;
+
+e) Nome e quantidade das substâncias e preparações existentes no dia 31 de Dezembro.
+
+2 - As empresas autorizadas a fabricar preparações compreendidas na tabela III enviam ao INFARMED, no mesmo período, a indicação do nome e quantidade das matérias-primas utilizadas, bem como a sua distribuição pelas preparações.
+
+3 - As entidades e empresas autorizadas a fabricar substâncias e preparações compreendidas nas tabelas I, II-B e II-C devem ainda enviar ao INFARMED, nos 15 dias seguintes ao termo de cada trimestre, um relatório sobre a natureza e quantidade das matérias-primas recebidas, das utilizadas no fabrico, das substâncias ou preparações obtidas e das vendidas no decurso do trimestre precedente e respectivo saldo, se o houver.
+
+4 - No relatório a que alude o número anterior, se se tratar de ópio bruto ou folhas de coca, indicar-se-á o título em princípios activos.
+
+5 - As farmácias enviam ao INFARMED, no prazo de 15 dias após o termo de cada trimestre, uma cópia do registo a que se refere o n.º 1 do artigo 34.º.
+
+6 - As farmácias autorizadas a substituir os livros e registos manuais pelo registo informático podem efectuar o envio referido nos n.os 1 e 5 através de transmissão electrónica de dados, de acordo com requisitos a definir pelo INFARMED.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 42.º — Outros condicionamentos
+
+De acordo com as convenções internacionais ratificadas por Portugal, e por diploma próprio, podem ser impostos outros condicionamentos ou restrições relativamente à importação, exportação, introdução, expedição ou trânsito de substâncias e preparações compreendidas nas tabelas I a IV.
+
+#### Secção IX — Taxas
+
+###### Artigo 43.º — Montante das taxas
+
+1 - As taxas respeitantes a pedidos genéricos de autorização de actividades referidas no n.º 1 do artigo 2.º são as seguintes:
+
+a) Para cultivo, referido no n.º 1 do artigo 13.º - (euro) 3000,00;
+
+b) Para fabrico - (euro) 3000,00;
+
+c) Para trânsito - (euro) 1000;
+
+d) Para emissão dos certificados de exportação e de importação - (euro) 33,69;
+
+e) Para importação - (euro) 1200,00;
+
+f) Para exportação - (euro) 1200,00;
+
+g) Para comércio por grosso, incluindo transporte e circulação - (euro) 1000,00;
+
+h) Para alterações e manutenção das autorizações referentes às atividades previstas nas alíneas a) e b) do n.º 1 - (euro) 1000,00;
+
+i) Para cultivo, referido no n.º 4 do artigo 13.º - (euro) 50,00 acrescido do valor do custo das análises laboratoriais de controlo, quando aplicável.
+
+2 - As taxas respeitantes a pedidos específicos de operações concretas são fixadas nos termos do Decreto-Lei n.º 48322, de 6 de Abril de 1968.
+
+3 - Para além das taxas não são cobrados quaisquer emolumentos ou encargos.
+
+4 - Ficam isentas do pagamento de taxa ou de quaisquer encargos as pessoas colectivas públicas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2020 - Diário da República n.º 150/2020, Série I de 2020-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2020-139472787), em vigor a partir de 2020-08-05
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 8/2019 - Diário da República n.º 10/2019, Série I de 2019-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2019-117821810), em vigor a partir de 2019-02-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 44.º — Cobrança das taxas e eventual afectação
+
+1 - As taxas devidas nos termos das alíneas a) a h) do n.º 1 do artigo anterior são cobradas e devidas ao INFARMED, I. P., aquando da submissão dos pedidos.
+
+2 - As taxas devidas nos termos da alínea i) do n.º 1 do artigo anterior são cobradas e devidas à Direção-Geral de Alimentação e Veterinária, sendo que os valores a pagar pelas análises laboratoriais devem ser pagas aos laboratórios.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2020 - Diário da República n.º 150/2020, Série I de 2020-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2020-139472787), em vigor a partir de 2020-08-05
+
+### Capítulo III — Licenciamento, autorização, condicionamento e controlo das substâncias inventariadas
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção I — Produção, fabrico, transformação e armazenagem
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 45.º — Competência da Direcção-Geral das Actividades Económicas
+
+1 - Compete ao director-geral das Actividades Económicas, ou à entidade em quem este delegar:
+
+a) Emitir a licença para o exercício da actividade dos operadores que intervenham na produção, fabrico, transformação ou armazenagem das substâncias inventariadas da categoria 1;
+
+b) Efectuar o registo dos operadores que intervenham na produção, fabrico, transformação e armazenagem das substâncias inventariadas das categorias 2 e 3.
+
+2 - A emissão, revogação ou suspensão da licença é comunicada ao IDT, I. P., à Autoridade de Segurança Alimentar e Económica (ASAE), ao INFARMED, à PJ, à direcção regional de economia (DRE) territorialmente competente e à DGAIEC.
+
+3 - Em caso de delegação de competências, as entidades delegadas comunicam à Direcção-Geral das Actividades Económicas (DGAE) a informação prevista nos n.os 1 e 2.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 46.º — Pedido de licença
+
+1 - A fim de obter a licença referida no artigo anterior, para além dos elementos referidos no artigo 5.º do Regulamento (CE) n.º 1277/2005, da Comissão, de 27 de Junho, o operador deve apresentar um pedido, em papel ou por via electrónica, acompanhado dos seguintes elementos:
+
+a) Fotocópia do cartão de identificação fiscal do requerente, ou do bilhete de identidade, no caso de ser pessoa colectiva, ou indicação dos elementos do cartão de cidadão, ou do bilhete de identidade, no caso de ser pessoa singular;
+
+b) Declaração de nomeação de um responsável que assegura que a actividade para a qual é requerida a licença se realiza em conformidade com as disposições legais aplicáveis e que fica habilitado a representar o operador e a tomar as decisões necessárias para o desempenho dessas funções;
+
+c) Descrição do cargo e funções do responsável referido na alínea anterior;
+
+d) Indicação da capacidade e processo de produção, fabrico ou transformação;
+
+e) Indicação da utilização previsível das substâncias inventariadas resultantes da actividade licenciada;
+
+f) Planta de implantação das instalações do operador para as actividades previstas no n.º 1 do artigo 45.º, incluindo armazéns ou depósitos das substâncias inventariadas.
+
+2 - A decisão sobre o pedido de licença é tomada no prazo de 60 dias a contar da data da sua apresentação.
+
+3 - O pedido de licença é indeferido se as condições estabelecidas no n.º 1 não estiverem satisfeitas ou se existirem motivos razoáveis para suspeitar que as substâncias inventariadas se destinam ao fabrico ilegal de estupefacientes ou de substâncias psicotrópicas.
+
+4 - Sempre que se verifique qualquer alteração às informações fornecidas em conformidade com o número anterior, o titular da licença deve informar a DGAE, no prazo de 10 dias a contar da data dessa alteração.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 47.º — Revogação, suspensão e caducidade da licença
+
+1 - A licença pode ser revogada ou suspensa:
+
+a) No caso de incumprimento dos artigos 10.º e 11.º do Regulamento (CE) n.º 1277/2005, da Comissão, de 27 de Junho;
+
+b) Nas condições previstas no n.º 2 do artigo 9.º e no n.º 6 do artigo 11.º do Decreto-Lei n.º 15/93;
+
+c) (Revogada).
+
+d) No caso de incumprimento dos artigos 5.º e 7.º do Regulamento (CE) n.º 273/2004, do Parlamento Europeu e do Conselho, e 19.º do Regulamento (CE) n.º 1277/2005, da Comissão, de 27 de Junho.
+
+2 - A licença caduca nos casos previstos nos n.os 3 do artigo 8.º e 7 do artigo 11.º do Decreto-Lei n.º 15/93, de 22 de Janeiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 48.º — Informação sobre a actividade
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - Os operadores que intervenham na produção, fabrico, transformação ou armazenagem das substâncias inventariadas devem dispor de um sistema de registo pormenorizado da sua actividade e comunicar anualmente à DGAE, até 31 de Março do ano seguinte àquele a que se reportam, as quantidades produzidas, fabricadas, transformadas ou armazenadas durante este período, com a indicação dos usos a que se destinaram, bem como as previsões das quantidades a produzir, fabricar, transformar ou a armazenar para o ano seguinte, em formulário próprio disponível no sítio na Internet da DGAE, devidamente preenchido e assinado pelo responsável referido na alínea d) do n.º 1 do artigo 46.º, no caso das substâncias inventariadas da categoria 1, ou pelo responsável do registo de operador, no caso das substâncias inventariadas das categorias 2 e 3.
+
+4 - As informações constantes das comunicações a que se refere o número anterior são transmitidas pela DGAE ao IDT, I. P., e à ASAE.
+
+5 - Os registos a que se reporta o n.º 1 devem ser conservados pelo prazo de três anos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 48.º-A — Registo de operador - Substâncias inventariadas das categorias 2 e 3
+
+1 - Qualquer operador que intervenha na produção, fabrico, transformação ou armazenagem das substâncias inventariadas das categorias 2 e 3 deve efectuar um registo de operador na DGAE, ou na entidade em quem esta delegar, mediante o preenchimento de um impresso próprio, disponível no sítio na Internet da DGAE, que deve ser acompanhado da fotocópia do cartão de identificação fiscal do operador, ou de bilhete de identidade, no caso de este ser pessoa colectiva, ou da indicação dos elementos do cartão de cidadão, no caso de ser pessoa singular.
+
+2 - Os operadores que intervenham na produção, fabrico ou transformação das substâncias inventariadas das categorias 2 e 3 devem efectuar o registo referido no n.º 1 antes do início de qualquer das referidas actividades, mantendo actualizada a informação constante do pedido de registo.
+
+3 - Sempre que houver alteração das informações constantes do registo, os operadores referidos no n.º 1 devem efectuar um novo registo no prazo máximo de 10 dias após a verificação da alteração.
+
+4 - O registo de operador é válido por três anos a contar da data da respectiva emissão.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 49.º — Condições de segurança
+
+1 - Os produtores, fabricantes, transformadores ou armazenistas das substâncias inventariadas da categoria 1 devem adoptar medidas de segurança adequadas relativamente às mesmas, em conformidade com o disposto no artigo 6.º do Regulamento (CE) n.º 1277/2005, da Comissão, de 27 de Junho.
+
+2 - Ficam também obrigados a adoptar medidas de segurança adequadas os produtores, fabricantes, transformadores ou armazenistas das substâncias inventariadas das categorias 2 e 3.
+
+3 - Em caso de subtracção, perda ou extravio das substâncias referidas nos n.os 1 e 2, ou dos registos de informação sobre a actividade a que se refere o n.º 1 do artigo 48.º-A, os produtores, fabricantes, transformadores ou armazenistas participam de imediato a ocorrência à autoridade policial local, à PJ e à DGAE, não podendo exceder as vinte e quatro horas subsequentes à constatação do facto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 50.º — Fiscalização
+
+A fiscalização do disposto no presente decreto regulamentar e no Decreto-Lei n.º 15/93, de 22 de Janeiro, no que respeita à produção, fabrico, transformação ou armazenagem das substâncias inventariadas incumbe à ASAE.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 51.º — Taxas
+
+Pela concessão da licença para o exercício das actividades previstas no n.º 1 do artigo 45.º é devida uma taxa de (euro) 100, cuja cobrança é efectuada nos termos do Decreto-Lei n.º 5/84, de 5 de Janeiro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção II — Fiscalização
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+##### Subsecção I — Licenciamento e registo de operadores
+
+###### Artigo 52.º — Competência da DGAIEC
+
+1 - Compete à DGAIEC:
+
+a) Emitir a licença para o exercício da actividade dos operadores que intervenham na importação, exportação, actividades intermédias e colocação no mercado das substâncias inventariadas da categoria 1;
+
+b) Efectuar o registo dos operadores que intervenham na importação, exportação, actividades intermédias e colocação no mercado das substâncias inventariadas das categorias 2 e 3;
+
+c) Emitir as autorizações de importação e exportação para as substâncias inventariadas das categorias 1, 2 e 3, nos termos da legislação comunitária.
+
+2 - A emissão, a revogação e a suspensão da licença é comunicada à ASAE, ao INFARMED, à PJ e ao IDT, I. P.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 52.º-A — Pedido de licença
+
+Ao pedido de licença previsto na presente subsecção aplicam-se as regras estabelecidas no artigo 46.º
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 52.º-B — Condições de segurança
+
+1 - Os operadores que intervenham nas actividades referidas no artigo anterior ficam obrigados a adoptar as medidas de segurança adequadas referidas no artigo 49.º
+
+2 - Em caso de subtracção, perda ou extravio das substâncias inventariadas, os operadores devem participam de imediato a ocorrência à autoridade policial local, à PJ e à DGAIEC, no prazo de vinte e quatro horas a contar da constatação do facto.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 53.º — Pedidos de licença - Tabela V
+
+1 - O pedido de licença para exercício da actividade dos operadores que intervenham na importação, exportação, trânsito e colocação no mercado das substâncias classificadas constantes da tabela V é acompanhado dos seguintes elementos:
+
+a) Identificação do requerente, através do bilhete de identidade ou do cartão de identificação de pessoa colectiva ou equiparada;
+
+b) Indicação dos responsáveis pela elaboração e actualização dos respectivos registos;
+
+c) Certificado do registo criminal dos requerentes e das pessoas referidas na alínea anterior e, no caso de pessoa colectiva, dos indivíduos que a podem obrigar;
+
+d) Designação das substâncias, nos termos constantes da tabela V;
+
+e) Localização dos estabelecimentos comerciais, armazéns ou depósitos dessas substâncias.
+
+2 - Qualquer alteração aos elementos referidos no número anterior deve ser comunicada à DGC no prazo de 30 dias.
+
+###### Artigo 54.º — Revogação, suspensão e caducidade das licenças
+
+1 - A licença pode ser revogada ou suspensa:
+
+a) No caso de incumprimento do artigo 10.º do Regulamento (CE) n.º 1277/2005, da Comissão, de 27 de Junho;
+
+b) Nas condições previstas no n.º 2 do artigo 9.º e no n.º 6 do artigo 11.º do Decreto-Lei n.º 15/93;
+
+c) (Revogada.)
+
+d) No caso de incumprimento dos artigos 5.º e 7.º do Regulamento (CE) n.º 273/2004, do Parlamento Europeu e do Conselho, de 11 de Fevereiro, 3.º, 4.º e 5.º do Regulamento (CE) n.º 111/2005, do Conselho, de 22 de Dezembro de 2004, e 19.º do Regulamento (CE) n.º 1277/2005, da Comissão, de 27 de Junho.
+
+2 - A licença caduca nos casos previstos no n.º 3 do artigo 8.º e no n.º 7 do artigo 11.º do Decreto-Lei n.º 15/93.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 55.º — Registo de operadores - Tabela VI
+
+1 - A DGC é a entidade competente para efectuar o registo, nos termos da legislação comunitária, dos operadores que intervenham na importação, exportação e trânsito das substâncias classificadas constantes da tabela VI.
+
+2 - Os operadores que intervenham na colocação no mercado das substâncias classificadas constantes da tabela VI denominadas «anidrido acético», «ácido antranílico», «ácido fenilacético» e «piperidina» estão obrigados a comunicar à DGC o endereço das instalações a partir das quais fazem o comércio dessas substâncias, mantendo essa informação actualizada.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+##### Subsecção II — Importação e exportação
+
+###### Artigo 56.º — Competência
+
+Compete à DGC emitir a declaração de importação e a autorização de exportação das substâncias classificadas compreendidas nas tabelas V e VI nos termos da legislação nacional e comunitária em vigor.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 57.º — Utilização de autorização geral individual
+
+1 - O exportador, titular de uma autorização geral individual, emitida nos termos do artigo 5.º do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1990&id=390R3677" title="Link para Regulamento da Comunidade Europeia">3677/90</a>, do Conselho, de 13 de Novembro, alterado pelo Regulamento (CEE) n.º <a href="eurlex.asp?ano=1992&id=392R0900" title="Link para Regulamento da Comunidade Europeia">900/92</a>, do Conselho, de 31 de Março, comunica à DGC no final de cada trimestre, os elementos respeitantes ao número de operações efectuadas, país de destino, nome e endereço do importador, quantidade e valor de cada substância e outros elementos pertinentes do despacho aduaneiro.
+
+2 - A não utilização da autorização a que se refere o número anterior deve ainda ser comunicada à DGC com a mesma periodicidade.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+##### Subsecção III — Comércio nacional e intracomunitário
+
+###### Artigo 58.º — Documentação e rotulagem
+
+1 - Quaisquer operações de colocação no mercado de substâncias classificadas incluídas na tabela V, bem como das denominadas «anidrido acético», «ácido antranílico», «ácido fenilacético» e «piperidina», são devidamente documentadas, devendo os documentos comerciais, tais como as facturas, os manifestos de carga, os documentos administrativos, os documentos de transporte e outros documentos de expedição conter as informações necessárias para a correcta identificação:
+
+a) Da designação da substância tal como consta das tabelas;
+
+b) Da quantidade e peso da substância e, quando esta consistir numa mistura, quantidade e peso da ou das substâncias inscritas nas tabelas contidas na mistura;
+
+c) Do nome e endereço do fornecedor, do distribuidor e, quando for conhecido, do destinatário final;
+
+d) Do número de autorização de comercialização referido no n.º 2 do artigo 52.º para as substâncias classificadas incluídas na tabela V.
+
+2 - Os operadores encarregados da colocação no mercado de substâncias classificadas incluídas na tabela V, bem como das denominadas «anidrido acético», «ácido antranílico», «ácido fenilacético» e «piperidina», devem possuir registos pormenorizados dessas actividades, de acordo com os elementos indicados nos n.os 1 e 5.
+
+3 - Os documentos e registos referidos nos números anteriores devem ser conservados durante, pelo menos, três anos a partir do termo do ano civil em que foi efectuada a operação referida no n.º 1.
+
+4 - Os operadores certificam-se da rotulagem das substâncias classificadas incluídas na tabela V, bem como das denominadas «anidrido acético», «ácido antranílico», «ácido fenilacético» e «piperidina», para efeitos da sua colocação no mercado.
+
+5 - Os rótulos devem mencionar a designação das substâncias tal como consta das tabelas, bem como o número de autorização de comercialização referido no n.º 2 do artigo 52.º, para as substâncias incluídas na tabela V.
+
+6 - Os operadores que coloquem no mercado substâncias classificadas constantes da tabela V, bem como as substâncias denominadas «ácido acético», «ácido antranílico», «ácido fenilacético» e «piperidina», transmitem à DGC até ao dia 15 de Janeiro de cada ano, os elementos respeitantes às respectivas transacções, nomeadamente nome e endereço do cliente, quantidade e valor de cada substância e declaração do cliente, indicando a utilização específica das substâncias, relativas ao ano anterior.
+
+7 - O disposto nos números anteriores não é aplicável às transacções das seguintes substâncias classificadas constantes da tabela VI quando as quantidades envolvidas não excedam, por operação: anidrido acético - 20 L; ácido antranílico e seus sais - 1 kg; ácido fenilacético e seus sais - 1 kg; piperidina e seus sais - 0,5 kg.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção III — Fiscalização da IGAE
+
+###### Artigo 59.º — Competência
+
+1 - Compete à ASAE, em colaboração com o INFARMED, sem prejuízo das competências da DGAIEC, fiscalizar as actividades autorizadas de colocação no mercado, de aquisição, de armazenagem, de transporte e de detenção das substâncias inventariadas da categoria 1.
+
+2 - Compete, ainda, à ASAE a fiscalização das actividades referidas no número anterior, relativamente às substâncias inventariadas das categorias 2 e 3, sem prejuízo das competências da DGAIEC.
+
+3 - Compete à DGAIEC controlar e fiscalizar os operadores que exercem as actividades enumeradas no artigo 52.º, nomeadamente através da realização de auditorias prévias, de controlos a posteriori e de inspecções.
+
+4 - A instauração e a instrução dos processos contra-ordenacionais por violação dos preceitos previstos neste decreto regulamentar são da competência da entidade que dela tomar conhecimento, no âmbito das respectivas funções de controlo e fiscalização.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+### Capítulo IV — Coordenação e fiscalização geral
+
+#### Secção I — Instituto da Droga e da Toxicodependência, I. P.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 60.º — Competência
+
+1 - Compete ao IDT, I. P.:
+
+a) Acompanhar a aplicação dos instrumentos de direito internacional e comunitário relativos às plantas, substâncias e preparações compreendidas nas tabelas i a iv e às substâncias inventariadas de forma a garantir a compatibilidade e coerência dos dados a transmitir a entidades externas;
+
+b) Fornecer às instâncias competentes das Nações Unidas os dados, informações e relatórios previstos nas convenções, em colaboração com os outros departamentos nacionais que actuam nesta área, com ressalva da informação relativa a estupefacientes e substâncias psicotrópicas destinada ao Órgão Internacional de Controlo de Estupefacientes fornecida directamente pelo INFARMED;
+
+c) Difundir, no âmbito nacional, as informações e dados recolhidos das instâncias internacionais, bem como outros por si reunidos que se revelem pertinentes.
+
+2 - A Procuradoria-Geral da República é a entidade competente para dar seguimento às solicitações a que se referem o n.º 8 do artigo 7.º e a alínea a) do n.º 10 do artigo 12.º da Convenção das Nações Unidas contra o Tráfico Ilícito de Estupefacientes e de Substâncias Psicotrópicas, de 1988, canalizando-as para os departamentos respectivos e zelando pela sua resposta atempada.
+
+3 - A PJ é a entidade competente para dar seguimento às solicitações a que se refere o n.º 7 do artigo 17.º da Convenção das Nações Unidas contra o Tráfico Ilícito de Estupefacientes e de Substâncias Psicotrópicas, de 1988.
+
+4 - As entidades que forneçam dados de natureza estatística a instâncias da Organização das Nações Unidas, do Conselho da Europa, da Organização Internacional de Polícia Criminal/INTERPOL e do Conselho de Cooperação Aduaneira, em matéria de estupefacientes, substâncias psicotrópicas, substâncias inventariadas e outros produtos químicos essenciais para a obtenção de droga, enviam cópia dos mesmos à PJ e ao IDT, I. P.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção II — Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 61.º — Competência
+
+1 - Compete à DGAIEC zelar pelo cumprimento da legislação comunitária referida no n.º 2 do artigo 2.º e dos procedimentos aduaneiros relativos à importação, exportação e trânsito das plantas, substâncias e preparações constantes das tabelas i a iv e das substâncias inventariadas, podendo designar as estâncias competentes para respectivo desembaraço aduaneiro.
+
+2 - Compete à DGAIEC implementar os mecanismos adequados à completa identificação e controlo das mercadorias referidas no número anterior, de acordo com as especificações constantes da autorização respectiva, podendo, nos termos legais, proceder à recolha de amostras e à realização dos exames necessários.
+
+3 - Compete à DGAIEC tomar as medidas necessárias tendentes a evitar o desvio das substâncias ou preparações para destino diferente do indicado na autorização, solicitando, se necessário, a colaboração de outras autoridades.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 62.º — Cooperação administrativa com a Comissão Europeia e os Estados membros
+
+1 - A DGAIEC e a DGAE são as entidades competentes nos termos e para os efeitos do disposto no n.º 1 do artigo 11.º do Regulamento (CE) n.º 273/2004, do Parlamento Europeu e do Conselho, de 11 de Fevereiro.
+
+2 - A DGAIEC é a entidade competente nos termos e para os efeitos do disposto no n.º 2 do artigo 11.º do Regulamento (CE) n.º 273/2004, do Parlamento Europeu e do Conselho, de 11 de Fevereiro, e do artigo 27.º do Regulamento (CE) n.º 111/2005, do Conselho, de 22 de Dezembro de 2004.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 62.º-A — Cooperação entre as autoridades nacionais
+
+O INFARMED, a DGAE, a DGAIEC, a ASAE, a PJ, o IDT, I. P., ou outras entidades intervenientes devem promover a troca de informações e implementar mecanismos para uma efectiva cooperação administrativa e técnica tendentes à execução das suas competências no âmbito do presente decreto regulamentar.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 63.º — Infracções tributárias
+
+A violação das normas referidas no artigo 61.º constitui contra-ordenação aduaneira e segue as disposições constantes do regime geral das infracções tributárias, aprovado pela Lei n.º 15/2001, de 5 de Junho.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção III — Disposição comum
+
+###### Artigo 64.º — Obrigação específica de colaboração
+
+Os operadores devem, logo que tomem conhecimento de encomendas ou de transacções de substâncias inventariadas suspeitas de serem desviadas para o tráfico ilícito de estupefacientes ou substâncias psicotrópicas, notificar a PJ e, bem assim, as respectivas autoridades licenciadoras, nos termos da regulamentação comunitária.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+### Capítulo V — Contra-ordenações e coimas
+
+#### Secção I — Disposições gerais
+
+###### Artigo 65.º — Regra geral
+
+A violação das obrigações impostas no presente diploma é passível de coima, nos termos dos artigos 65.º a 68.º do Decreto-Lei n.º 15/93, e direito subsidiário aí previsto, com as explicitações constantes dos artigos seguintes.
+
+###### Artigo 66.º — Pessoas colectivas ou equiparadas
+
+As coimas a aplicar às pessoas colectivas ou equiparadas são elevadas, nos seus montantes mínimo e máximo, para o dobro.
+
+###### Artigo 67.º — Competência para aplicação de coimas
+
+1 - A aplicação das coimas e sanções acessórias a que se refere a secção ii do presente capítulo é da competência do presidente do conselho diretivo do INFARMED, I. P., com exceção daquelas que resultem de competências atribuídas à DGAV para cuja aplicação é competente o diretor-geral de Alimentação e Veterinária.
+
+2 - A aplicação das coimas e sanções acessórias, nos termos da secção iii do presente capítulo, é da competência da autoridade administrativa que tomar conhecimento da infracção contra-ordenacional, no âmbito das respectivas funções de controlo e fiscalização.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 2/2020 - Diário da República n.º 150/2020, Série I de 2020-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-2020-139472787), em vigor a partir de 2020-08-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção II — Contra-ordenações e coimas respeitantes ao capítulo II
+
+###### Artigo 68.º — Utilização da autorização para fim diferente
+
+1 - Quem, tendo obtido autorização para a prática de qualquer das atividades previstas no n.º 1 do artigo 2.º, utilizar as substâncias ou preparações compreendidas nas tabelas i a iv ou a autorização para fim diferente do que lhe foi concedido, é punido por contraordenação económica grave, nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
+
+2 - É punida com idêntica coima a violação das condições especiais fixadas no despacho de autorização proferido nos termos do n.º 4 do artigo 8.º
+
+3 - Nos casos previstos nos números anteriores pode ser aplicada a sanção acessória de interdição do exercício da actividade por período de um a três anos.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 69.º — Prosseguimento de actividade sem autorização
+
+O prosseguimento de atividade com violação do disposto no artigo 8.º do Decreto-Lei n.º 15/93, de 22 de janeiro, na sua redação atual, constitui contraordenação económica leve, punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 70.º — Aviamento sem receita médica
+
+1 - O fornecimento de substâncias ou preparações compreendidas nas tabelas i a iv sem receita médica, especial ou normal, constitui contraordenação económica grave, punível nos termos do RJCE.
+
+2 - Pode ser aplicável, a título de sanção acessória, a interdição até dois anos do exercício da actividade como director técnico em qualquer farmácia.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 71.º — Aviamento indevido de receitas
+
+O farmacêutico, ou quem o substituir na sua ausência ou impedimento, que aviar receita com violação do disposto nos n.os 1, 2 e 3 do artigo 28.º, é punido por contraordenação económica leve, nos termos do RJCE.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 72.º — Elementos falsos ou errados
+
+1 - Quem, ao requerer autorização para a prática de atividades previstas no n.º 1 do artigo 2.º ou a manutenção da autorização a que se refere o n.º 1 do artigo 8.º do Decreto-Lei n.º 15/93, de 22 de janeiro, na sua redação atual, mencionar elementos errados, com vista à obtenção ou manutenção daquela autorização, é punido por contraordenação económica grave, nos termos do RJCE.
+
+2 - A negligência é punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 73.º — Excedentes: falta ou declaração errada
+
+A falta de declaração de excedentes nos termos do artigo 14.º, ou a sua declaração errada, constitui contraordenação económica grave, punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 74.º — Falta de requisição
+
+1 - A entrega de substâncias e preparações compreendidas nas tabelas i a iv sem a requisição a que se refere o artigo 18.º ou a pessoas diferentes das mencionadas no artigo 20.º constitui contraordenação económica leve, punível nos termos do RJCE.
+
+2 - O envio, a médicos ou médicos veterinários, de amostras de preparações compreendidas nas tabelas iii e iv sem requisição constitui contraordenação económica leve, punível nos termos do RJCE.
+
+3 - Com coima igual à prevista no número anterior é punível a remessa de amostras de substâncias e preparações compreendidas nas tabelas i e ii.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 75.º — Exportações proibidas
+
+A exportação de substâncias ou preparações compreendidas nas tabelas i, ii e iv com violação do disposto nos n.os 1, 2 e 4 do artigo 25.º constitui contraordenação económica grave, punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 76.º — Livros, documentos e registos - Preenchimento e conservação
+
+1 - A falta de preenchimento dos livros, documentos e registos exigidos no capítulo ii, ou o seu preenchimento errado, constitui contraordenação económica grave, punível nos termos do RJCE.
+
+2 - A não conservação dos livros, documentos, cópias e registos nos termos e pelos prazos exigidos no capítulo ii constitui contraordenação económica grave, punível nos termos do RJCE.
+
+3 - O preenchimento irregular dos livros e documentos referidos no n.º 1 constitui contraordenação económica leve, punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 77.º — Falta de remessa de documentos ou elementos para controlo
+
+A falta de remessa das receitas para controlo ou o não cumprimento do disposto no n.º 3 do artigo 34.º, a não prestação de informações exigidas pelas autoridades com base no artigo 4.º e a falta de remessa dos relatórios e documentos a que se refere o artigo 41.º constituem contraordenação económica leve, punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 78.º — Deveres de segurança e informação
+
+1 - Quem tiver a seu cargo a guarda, ou for responsável pela segurança, das substâncias ou preparações compreendidas nas tabelas i a iv e, por incúria ou falta de adoção das medidas impostas nos termos do n.º 2 do artigo 36.º, der causa à sua subtração ou extravio é punido por contraordenação económica leve, nos termos do RJCE.
+
+2 - A não observância das condições de embalagem, de rotulagem e de informação estabelecidas nos termos do artigo 38.º constitui contraordenação económica leve, punível nos termos do RJCE.
+
+3 - A falta de comunicação ou a comunicação fora de prazo à autoridade policial, nos termos dos n.os 2, 3 e 4 do artigo 20.º, constitui contraordenação económica leve, punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 79.º — Publicidade
+
+A publicidade respeitante a substâncias e preparações compreendidas nas tabelas i a iv fora do que se dispõe no presente decreto regulamentar constitui contraordenação económica grave, punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção III — Contra-ordenações e coimas respeitantes ao capítulo III
+
+###### Artigo 80.º — Incumprimento das obrigações
+
+1 - O exercício de qualquer das atividades previstas no n.º 2 do artigo 2.º sem a devida licença ou registo de operador constitui contraordenação económica muito grave, punível nos termos do RJCE.
+
+2 - A exportação ou importação de substâncias inventariadas sem a autorização a que se referem os artigos 12.º e 20.º do Regulamento (CE) n.º 111/2005, do Conselho, de 22 de dezembro de 2004, constitui contraordenação económica muito grave, punível nos termos do RJCE.
+
+3 - O incumprimento do disposto no artigo 4.º do Regulamento (CE) n.º 273/2004, do Parlamento Europeu e do Conselho, de 11 de fevereiro, constitui contraordenação económica grave, punível nos termos do RJCE.
+
+4 - O incumprimento dos prazos previstos na legislação comunitária e no presente decreto regulamentar para as comunicações à autoridade competente constitui contraordenação económica grave, punível nos termos do RJCE.
+
+5 - O incumprimento do disposto no artigo 6.º do Regulamento (CE) n.º 1277/2005, da Comissão, de 27 de julho, constitui contraordenação económica muito grave, punível nos termos do RJCE.
+
+6 - O incumprimento do disposto no n.º 2 do artigo 10.º do Regulamento (CE) n.º 1277/2005, da Comissão, de 27 de julho, constitui contraordenação económica muito grave, punível nos termos do RJCE.
+
+7 - O incumprimento das regras de rotulagem, a ausência da documentação a que se referem os artigos 5.º e 7.º do Regulamento (CE) n.º 273/2004, do Parlamento Europeu e do Conselho, de 11 de fevereiro, e os artigos 3.º e 5.º do Regulamento (CE) n.º 111/2005, do Conselho, de 22 de dezembro de 2004, o seu preenchimento incorreto, a falta de registos pormenorizados ou a não conservação dos documentos e registos dentro dos prazos legais constituem contraordenação económica muito grave, punível nos termos do RJCE.
+
+8 - O incumprimento do disposto nos n.os 1, 2 e 4 do artigo 48.º-A constitui contraordenação económica grave, punível nos termos do RJCE.
+
+9 - O incumprimento do disposto nos n.os 2 e 3 do artigo 49.º e no n.º 2 do artigo 52.º-B constitui contraordenação económica grave, punível nos termos do RJCE.
+
+10 - Quem obstruir, impedir, ocultar ou, por qualquer forma, dificultar o acesso às instalações, à documentação ou a qualquer informação necessária ao bom desempenho das funções de controlo e fiscalização das autoridades competentes previstas no artigo 10.º do Regulamento (CE) n.º 273/2004, do Parlamento Europeu e do Conselho, de 11 de fevereiro, e no artigo 26.º do Regulamento (CE) n.º 111/2005, do Conselho, de 22 de dezembro de 2004, é punido por contraordenação económica muito grave, nos termos do RJCE.
+
+11 - Pode ser aplicada a sanção acessória de interdição de actividade autorizada, por um período máximo de dois anos contados a partir da data da decisão condenatória definitiva.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 81.º — Obrigações para com a DGI
+
+1 - A falta da comunicação dos elementos a que se referem o n.º 4 do artigo 46.º e os n.os 1, 2, 3 e 4 do artigo 48.º, assim como a não conservação de registos nos termos do n.º 6 deste último preceito, constituem contra-ordenação punível, cada uma, com coima de 50000$00 a 500000$00.
+
+2 - A não observância das medidas de segurança a que se refere o artigo 49.º e a falta de comunicação ou a comunicação fora de prazo aí previstas constituem contra-ordenação punível, cada uma, com a coima de 10000$00 a 250000$00.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 82.º — Obrigações para com a DGC
+
+1 - A falta de comunicação dos elementos a que se referem os artigos 53.º, n.º 2, 55.º, n.º 2, 57.º e 58.º, n.º 5, do presente decreto regulamentar, bem como o artigo 2.º-A, n.º 2, do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1990&id=390R3677" title="Link para Regulamento da Comunidade Europeia">3677/90</a>, do Conselho, de 13 de Dezembro, na redacção que lhe foi dada pelo Regulamento (CEE) n.º <a href="eurlex.asp?ano=1992&id=392R0900" title="Link para Regulamento da Comunidade Europeia">900/92</a>, do Conselho, de 31 de Março, disposição relativa a endereços das instalações em que os operadores comercializam substâncias incluídas na tabela VI, constitui contra-ordenação punível, cada uma, com coima de 50000$00 a 500000$00.
+
+2 - A ausência da documentação das operações a que se refere o n.º 1 do artigo 58.º do presente decreto regulamentar, bem como o n.º 1 do artigo 2.º do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1990&id=390R3677" title="Link para Regulamento da Comunidade Europeia">3677/90</a>, do Conselho, de 13 de Dezembro, na redacção que lhe foi dada pelo Regulamento (CEE) n.º <a href="eurlex.asp?ano=1992&id=392R0900" title="Link para Regulamento da Comunidade Europeia">900/92</a>, do Conselho, de 31 de Março, ou o seu preenchimento incorrecto, a falta de registos pormenorizados a que alude o n.º 2 do mesmo artigo 58.º, assim como o n.º 3 do artigo 2.º daquele Regulamento, ou a não conservação de documentos e registos pelo prazo referido no n.º 3 do artigo 58.º, ou no n.º 4 do artigo 2.º do já referido Regulamento, constitui contra-ordenação punível, cada uma, com a coima de 50000$00 a 500000$00.
+
+3 - O operador que não observar as regras de rotulagem impostas pelo n.º 4 do artigo 58.º, bem como pelo n.º 2 do artigo 2.º, do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1990&id=390R3677" title="Link para Regulamento da Comunidade Europeia">3677/90</a> é punido, por contra-ordenação, com a coima de 50000$00 a 500000$00.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 83.º — Elementos falsos ou errados
+
+1 - Quem, ao requerer a autorização ou licença para a prática de atividades ou operações previstas no n.º 2 do artigo 2.º, mencionar elementos errados, com vista a obter aquela autorização ou licença, é punido por contraordenação económica grave, nos termos do RJCE.
+
+2 - A negligência é punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+###### Artigo 84.º — Violação da obrigação de colaboração
+
+O incumprimento do disposto no artigo 64.º constitui contraordenação económica muito grave, punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+#### Secção IV — Receitas provenientes das coimas
+
+###### Artigo 85.º — Destino
+
+1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto regulamentar é repartido nos termos do RJCE.
+
+2 - A afectação do produto das coimas para actividades de combate à toxicodependência será objecto de despacho conjunto do Ministro da Justiça e do membro do Governo de que dependa o Programa Nacional de Combate à Droga.
+
+> Alterado pelo/a Artigo 180.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 28/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2009-491689), em vigor a partir de 2009-11-11
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 86.º — Medidas especiais
+
+1 - As substâncias denominadas «anfepramona», «benzefetamina», «clobenzorex», «etilanfetamina», «fencanfamina», «fenproporex», «flunitrazepam», «mefenorex», «secbutabarbital», «SPA», «lefetamina», compreendidas na tabela IV, ficam ainda sujeitas a receituário especial, nos termos do artigo 27.º, bem como às medidas de controlo previstas nos artigos 15.º, n.º 6, 16.º, 18.º, 28.º, 29.º, 34.º e 41.º, n.º 3.
+
+2 - Enquanto a substância clobenzorex não estiver incluída nas tabelas anexas às convenções das Nações Unidas, o INFARMED pode dispensar, quanto a essa substância, o título de autorização para importação a que se refere o n.º 2 do artigo 22.º
+
+###### Artigo 87.º — Prazo de execução de novas medidas
+
+1 - A execução das medidas previstas nos artigos 18.º, n.º 1, e 19.º (livro de requisições), 27.º, n.os 2, 3 e 5 (receitas médicas), 31.º, n.º 1 (livro de registos), 36.º, n.º 2 (medidas de segurança impostas), e 38.º (embalagens e rótulos) efectua-se no prazo de um ano a contar da entrada em vigor do presente diploma.
+
+2 - Enquanto não forem tomadas as medidas referidas no número anterior são observadas, naqueles domínios, as regras do Decreto Regulamentar n.º 71/84, de 7 de Setembro, com as devidas adaptações.
+
+3 - É igualmente de um ano o período preparatório da informatização do controlo do receituário.
+
+###### Artigo 88.º — Aplicação às Regiões Autónomas
+
+As competências conferidas pelo presente diploma a organismos da administração central que não tenham competências nas Regiões Autónomas entendem-se atribuídas aos correspondentes serviços das administrações regionais.
+
+###### Artigo 89.º — Gabinete do Combate à Droga do Ministério da Justiça
+
+As referências feitas no presente decreto regulamentar ao GCDMJ entendem-se feitas ao Gabinete de Planeamento e de Coordenação do Combate à Droga, enquanto este não for objecto de reestruturação que consagre aquela denominação.
+
+###### Artigo 90.º — Norma revogatória
+
+Ficam revogados:
+
+a) O Decreto Regulamentar n.º 71/84, de 7 de Setembro;
+
+b) O Decreto Regulamentar n.º 7/90, de 24 de Março;
+
+c) As Portarias n.os 167/87, de 10 de Março, 217/90 e 218/90, ambas de 24 de Março.
+
+Presidência do Conselho de Ministros, 4 de Julho de 1994.
+
+Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Eduardo de Almeida Catroga - José Manuel Cardoso Borges Soeiro - António Duarte Silva - Luís Fernando Mira Amaral - Maria Manuela Dias Ferreira Leite - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira - Luís Manuel Gonçalves Marques Mendes.
+
+Promulgado em 22 de Setembro de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 26 de Setembro de 1994.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

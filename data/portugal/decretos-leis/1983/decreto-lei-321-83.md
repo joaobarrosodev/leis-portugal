@@ -1,0 +1,239 @@
+---
+schema_version: '1.0'
+id: pt:dre:452965:por
+title: Decreto-Lei n.º 321/83
+short_title: null
+summary: Cria a Reserva Ecológica Nacional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Qualidade de Vida
+proposing_entity: null
+official_number: 321/83
+official_date: null
+publication_date: '1983-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/1983, Série I de 1983-07-05
+  number: '152'
+  series: I
+  supplement: null
+  pages: 2425 - 2427
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/07/15200/24252427.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '452965'
+  dre_path: /dr/detalhe/decreto-lei/321-1983-452965
+  internal: pt:dre:452965:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1983-452965
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-1983-452965
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:52:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fd17f26f8d723202db497c884756186451630bc002552d23bb6066128c8acd27
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:52:49Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho da Reserva Ecológica Nacional
+- Criação de Serviços
+- Definição de Competências
+- Ordenamento do Território
+- Política de Solos
+- Proteção do Ambiente
+- Regime Jurídico
+- Reserva Ecológica Nacional
+relationships:
+- type: amended_by
+  target: pt:dre:124256708:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:443075:por
+  label: "Prorrogado, por mais 90 dias, o prazo previsto no art. 9.º do presente diploma, pelo DEC LEI.411/83.23.11.1983.PCM,\
+    \ DR.IS [270] de 23.11.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/411-1983-443075
+  date: '1983-11-23'
+- type: amended_by
+  target: pt:dre:285297:por
+  label: Declarada a inconstitucionalidade, com força obrigatória geral, da norma constante da al. c) do n.º 1 do art. 2.º
+    e da norma insita no n.º1 do art. 3.º, ambas do presente diploma, ressalvando os casos decididos que não tenham sido objecto
+    de recurso judicial pendente, pelo(a) Acórdão n.º 368/92 - Diário da República n.º 4/1993, Série I-A de 1993-01-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/acordao/368-1993-285297
+  date: '1993-01-06'
+- type: repealed_by
+  target: pt:dre:333172:por
+  label: "Revogado pelo DEC LEI.93/90.19.03.1990.MPLAT, DR.IS [[65]] de 19.03.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/93-1990-333172
+  date: '1990-03-19'
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:52:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 321/83
+
+de 5 de Julho
+
+O primeiro passo na concretização de uma política de ordenamento do território à escala nacional foi dado com a institucionalização da Reserva Agrícola Nacional, que consagrou o solo agrícola como um valor patrimonial à permanência da Nação.
+
+O segundo passo será dado com a criação da Reserva Ecológica Nacional, que vem salvaguardar, em determinadas áreas, a estrutura biofísica necessária para que se possa realizar a exploração dos recursos e a utilização do território sem que sejam degradadas determinadas circunstâncias e capacidades de que dependem a estabilidade e fertilidade das regiões, bem como a permanência de muitos dos seus valores económicos, socias e culturais.
+
+A agricultura moderna, aumentando a extensão das folhas de cultura e intensificando a exploração do solo, como contrapartida a um maior artificialismo e simplicidade dos sistemas de produção, exige a existência de uma estrutura de protecção que garanta a permanência do fundo de fertilidade de determinadas ocorrências físicas e de um mínimo de actividade biológica.
+
+Por sua vez, a exploração de inertes, a construção de infra-estruturas e de conjuntos fabris, a expansão de áreas urbanas, afectando gravemente a estabilidade ecológica das regiões, a perenidade dos sistemas de produção agrícola e as restantes actividades de que depende o desenvolvimento da sociedade, se não existir a mesma estrutura de protecção e enquadramento que garanta a permanência de determinadas ocorrências físicas e de um mínimo de actividade biológica.
+
+O território deve constituir o suporte físico e biológico indispensável ao desenvolvimento económico, social e cultural. Para isso é necessário salvaguardar desde já determinadas situações específicas que servirão de apoio à indispensável estrutura de protecção e enquadramento dos espaços produtivos ou urbanos.
+
+A Reserva Ecológica constituirá, portanto, conjuntamente com a Reserva Agrícola Nacional, um instrumento fundamental do ordenamento do território à escala nacional.
+
+Em face da importância do problema, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Reserva Ecológica Nacional)
+
+É instituída a Reserva Ecológica Nacional, que integra todas as áreas indispensáveis à estabilidade ecológica do meio e à utilização racional dos recursos naturais, tendo em vista o correcto ordenamento do território.
+
+###### Artigo 2.º — (Constituição da Reserva Ecológica Nacional)
+
+A Reserva Ecológica Nacional (REN), que adiante se designará por Reserva Ecológica, é constituída por:
+
+1 - Ecossistemas costeiros, designadamente:
+
+a) Praias;
+
+b) Primeira e segunda dunas fronteiras ao mar;
+
+c) Arribas, incluindo uma faixa até 200 m para o interior do território a partir do respectivo rebordo;
+
+d) Quando não existirem dunas nem arribas, uma faixa de 500 m para além da linha máxima de praia-mar de águas vivas;
+
+e) Estuários e rias, englobando uma faixa de 100 m para além da linha máxima de praia-mar de águas vivas;
+
+f) Ilhas, ilhotas e rochedos emersos no mar ao longo do litoral.
+
+2 - Ecossistemas interiores, designadamente:
+
+a) Lagoas, incluindo uma faixa de 100 m para além do limite máximo de alagamento, incluindo as faixas amortecedoras;
+
+b) Albufeiras e uma faixa de 100 m para além do regolfo máximo;
+
+c) Leitos normais dos cursos de água, zonas de galeria e faixas amortecedoras, além das suas margens naturais;
+
+d) Cabeceiras dos cursos de água definidas a partir da linha de cumeada de separação de rios e ribeiros até à rede hidrográfica;
+
+e) Encostas de declive superior a 25%;
+
+f) Escarpas e faixa envolvente de 3 vezes a sua altura para além da base e rebordo da escarpa;
+
+g) Áreas de infiltração máxima definidas pela sua natureza geológica;
+
+h) Áreas abandonadas devido a acentuada erosão superficial ou a anterior exploração de inertes;
+
+i) Uma faixa de 100 m para além das bermas das auto-estradas e vias rápidas e de 50 m para além das bermas das restantes estradas nacionais;
+
+j) Uma faixa de 200 m ao longo de toda a costa marítima natural, no sentido do oceano, definida a partir do limite da linha de baixa-mar de águas vivas.
+
+###### Artigo 3.º — (Regime da Reserva Ecológica)
+
+1 - Nos solos da Reserva Ecológica são Proibidas todas as acções que diminuam ou destruam as suas funções e potencialidades, nomeadamente vias de comunicação e acessos, construção de edifícios, aterros e escavações, destruição do coberto vegetal e vida animal.
+
+2 - Exceptuam-se do disposto no número anterior as utilizações e ocupações, a definir em diploma regulamentar.
+
+###### Artigo 4.º — (Explorações mineiras)
+
+Sem prejuízo das autorizações legalmente estabelecidas, a utilização de terrenos abrangidos na Reserva Ecológica para exploração de minas, pedreiras, barreiras e saibreiras fica dependente de prévia autorização conjunta dos Ministros da Qualidade de Vida e da Indústria, Energia e Exportação.
+
+###### Artigo 5.º — (Identificação da Reserva Ecológica)
+
+Os terrenos integrados na Reserva Ecológica serão obrigatoriamente identificados em todos os instrumentos que definam a ocupação física do território, designadamente planos de ordenamento, planos directores municipais e planos de urbanização.
+
+###### Artigo 6.º — (Órgãos da Reserva Ecológica)
+
+Para efeitos do disposto neste diploma, são criados o Conselho da Reserva Ecológica Nacional e as comissões regionais da Reserva Ecológica, com a composição e o funcionamento a definir em diploma regulamentar.
+
+###### Artigo 7.º — (Atribuições do Conselho)
+
+1 - São atribuições do Conselho da Reserva Ecológica Nacional:
+
+a) Aprovar o âmbito e limite físico da Reserva Ecológica Nacional;
+
+b) Promover a execução de medidas de defesa da Reserva Ecológica;
+
+c) Assegurar o cumprimento das normas estabelecidas neste diploma e a realização das acções com elas relacionadas;
+
+d) Promover acções de sensibilização da opinião pública relativamente à necessidade de defesa da Reserva Ecológica;
+
+e) Emitir parecer que habilite o Ministro da Qualidade de Vida a confirmar a existência das excepções previstas no artigo 3.º;
+
+f) Decidir de recursos interpostos das decisões das comissões regionais;
+
+g) Promover a criação, instalação e funcionamento das comissões regionais.
+
+2 - Compete à Direcção-Geral do Ordenamento apoiar o Conselho da Reserva Ecológica Nacional no exercício das suas atribuições.
+
+###### Artigo 8.º — (Cartografia)
+
+1 - O Ministério da Qualidade de Vida deverá cartografar, à escala de 1:25000, a área da Reserva Ecológica.
+
+2 - A cartografia referida no número anterior terá a delimitação das manchas da Reserva Ecológica e fará caducar a uma vez plenamente eficaz, as delimitações previstas no artigo 2.º
+
+###### Artigo 9.º — (Regulamentação)
+
+O Governo, no prazo de 120 dias, e mediante diploma legal adequado, regulamentará o disposto no presente decreto-lei, designadamente, e entre outras, nas matérias respeitantes à estrutura e ao funcionamento do Conselho e das comissões regionais da Reserva Ecológica, à identificação das áreas previstas no artigo 2.º, aos prazos e forma de execução da cartografia a que se refere o artigo 8.º e à enunciação dos critérios fundamentadores das excepções previstas no artigo 3.º
+
+###### Artigo 10.º — (Âmbito de aplicação)
+
+1 - O presente diploma aplica-se no território continental.
+
+2 - A aplicação do presente diploma nas Regiões Autónomas da Madeira e dos Açores dependerá de decreto regional que adapte as suas disposições às condições particulares dos respectivos territórios.
+
+Visto e aprovado em Conselho de Ministros de 26 de Maio de 1984. - Francisco José Pereira Pinto Balsemão - Gonçalo Pereira Ribeiro Teles.
+
+Promulgado em 8 de Junho de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 8 de Junho de 1983.
+
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

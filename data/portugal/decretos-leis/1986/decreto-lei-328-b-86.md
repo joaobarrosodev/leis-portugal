@@ -1,0 +1,638 @@
+---
+schema_version: '1.0'
+id: pt:dre:148780:por
+title: Decreto-Lei n.º 328-B/86
+short_title: null
+summary: Estabelece o novo regime de crédito à habitação própria
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 328-B/86
+official_date: null
+publication_date: '1986-09-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 225/1986, 3º Suplemento, Série I de 1986-09-30
+  number: '225'
+  series: I
+  supplement: 3º Suplemento
+  pages: 2810-(19) a 2810-(24)
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/09/22503/00190024.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1998-11-12'
+version_history:
+  file: decreto-lei-328-b-86.versoes.json
+  count: 8
+  source_lastmod: '2025-07-01'
+  versions:
+  - date: '1986-09-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-11-29'
+    amending: pt:dre:578315:por
+    amending_title: Declaração
+    changes:
+    - Retifica Artigo 5.º
+  - date: '1989-07-10'
+    amending: pt:dre:619728:por
+    amending_title: Decreto-Lei n.º 224/89
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+  - date: '1990-09-26'
+    amending: pt:dre:557431:por
+    amending_title: Decreto-Lei n.º 292/90
+    changes:
+    - Altera Artigo 13.º
+  - date: '1991-04-27'
+    amending: pt:dre:478049:por
+    amending_title: Decreto-Lei n.º 150-B/91
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+  - date: '1993-07-19'
+    amending: pt:dre:390060:por
+    amending_title: Decreto-Lei n.º 250/93
+    changes:
+    - Altera Artigo 7.º
+  - date: '1998-05-21'
+    amending: pt:dre:521592:por
+    amending_title: Decreto-Lei n.º 137/98
+    changes:
+    - Adita Artigo 26.º-A
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+  - date: '1998-11-12'
+    amending: pt:dre:234318:por
+    amending_title: Decreto-Lei n.º 349/98
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/328-b/1986/p/cons/19981111/pt/html
+  oj: null
+  dre: '148780'
+  dre_path: /dr/detalhe/decreto-lei/328-b-1986-148780
+  internal: pt:dre:148780:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780
+  metadata_url: https://data.dre.pt/eli/dec-lei/328-b/1986/p/cons/19981111/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-923286710
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-923286710
+  retrieved_at: '2026-10-22T13:31:24Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-07-01T00:00:00Z'
+integrity:
+  source_sha256: e77470b9447efd3562bf8a7263ec4c47052e44ad3b94d3aba65a48753971369a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:31:24Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-328-b-86.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crédito Bonificado
+- Crédito à Habitação
+- Habitação
+relationships:
+- type: amended_by
+  target: pt:dre:578315:por
+  label: Retifica Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1986-578315
+  date: '1986-11-29'
+- type: amended_by
+  target: pt:dre:619728:por
+  label: Altera Artigo 3.º; Altera Artigo 7.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1989-619728
+  date: '1989-07-05'
+- type: amended_by
+  target: pt:dre:557431:por
+  label: Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1990-557431
+  date: '1990-09-21'
+- type: amended_by
+  target: pt:dre:478049:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-b-1991-478049
+  date: '1991-04-22'
+- type: amended_by
+  target: pt:dre:390060:por
+  label: Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1993-390060
+  date: '1993-07-14'
+- type: amended_by
+  target: pt:dre:521592:por
+  label: Adita Artigo 26.º-A; Altera Artigo 8.º; Altera Artigo 12.º; Altera Artigo 15.º; Altera Artigo 22.º; Altera Artigo
+    23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1998-521592
+  date: '1998-05-16'
+- type: amended_by
+  target: pt:dre:234318:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318
+  date: '1998-11-11'
+article_structure:
+  article_count: 29
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:31:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 328-B/86
+
+Decreto-Lei n.º 328-B/86
+
+de 30 de Setembro
+
+1. O Decreto-Lei n.º 459/83, de 30 de Dezembro, instituiu o regime de crédito para a aquisição, construção, recuperação, beneficiação ou ampliação de habitação própria permanente, que vigorou até ao presente.
+
+A filosofia subjacente, o consequente modelo financeiro de cálculo e o regime de subsidiação global encontravam-se adaptados à situação macroeconómica recessiva que então se vivia e que se caracterizava, nomeadamente, por altas taxas de inflação e de juro, para além de se considerar um conjunto de parâmetros de aplicação rígidos e desadequados à prossecução da política de habitação.
+
+Com efeito, quer a fixação de valores de habitação, homogéneos para todo o País, susceptíveis de aquisição no âmbito dos regimes instituídos, quer o acesso aos regimes subsidiados, determinado pelos rendimentos anuais brutos dos interessados independentemente da dimensão do seu agregado familiar, condicionavam o desenvolvimento de uma política de habitação coerente que atendesse aos preços de venda das habitações consoante as zonas de mercado onde se inseriam e à evolução normal da dimensão das famílias e respectiva compatibilização da sua estrutura de custos e rendimentos.
+
+Resumidamente, encontrava-se cada vez mais o fluxo das populações para zonas suburbanas, penalizando, simultaneamente, os agregados familiares de maiores dimensões e condicionando, desta forma, as características da procura, com reflexos directos no desenvolvimento do parque habitacional e da própria indústria da construção civil.
+
+Por outro lado, perante a redução gradual das taxas de inflação e de juros e a implementação de uma correcta política de rendimentos, o regime de crédito à habitação instituído pelo Decreto-Lei n.º 459/83, de 30 de Dezembro, levaria as famílias a situações de dificuldade de solvência, uma vez que se encontrariam sujeitas a taxas de crescimento anual de prestações da ordem dos 24% nominais, com actualizações dos rendimentos previsíveis muito abaixo de tal valor.
+
+2. Por consequência, tornava-se indispensável a revisão do regime geral de crédito à habitação, por forma a permitir uma política de habitação adequada, obedecendo aos seguintes princípios fundamentais:
+
+Fomentar, nos regimes não subsidiados pelo Estado, a livre negociação entre os interessados e a banca, estimulando a concorrência e a criatividade nesta última;
+
+Atender, nos regimes subsidiados pelo Estado, à necessidade de os adaptar aos efeitos da política de rendimentos, da evolução da dimensão do agregado familiar e da localização do fogo;
+
+Manter as condições especiais para jovens, no âmbito da política de juventude, sem prejuízo de um enquadramento mais adequado das condições de acesso;
+
+Garantir o ajustamento automático do regime e planos de amortização às mudanças das taxas de juro;
+
+Procurar, de uma forma tão simples quanto possível, uma efectiva fiscalização do sistema e das bonificações concedidas, no sentido de optimizar a aplicação social dos recursos disponíveis do Estado;
+
+Abrir a possibilidade de acesso ao crédito dirigido à habitação secundária ou para arrendamento nos regimes não apoiados pelo Estado e privilegiar, em qualquer deles, a concessão de financiamentos aos interessados que tenham constituído poupança-habitação;
+
+Incentivar a construção de habitação própria permanente, através do financiamento intercalar à aquisição de terrenos para esse efeito.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### Capítulo I — Disposições comuns
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 1.º — (Âmbito)
+
+O presente diploma regula a concessão de crédito à:
+
+a) Aquisição, construção, beneficiação, recuperação ou ampliação de habitação própria permanente, secundária ou para arrendamento;
+
+b) Aquisição de terreno para construção de habitação própria permanente.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 2.º — (Regimes de crédito)
+
+1 - O sistema de crédito à aquisição, construção, beneficiação, recuperação ou ampliação de habitação própria é constituído pelos seguintes regimes:
+
+Regime geral de crédito;
+
+Regime de crédito bonificado;
+
+Regime de crédito jovem bonificado.
+
+2 - O sistema de poupança-habitação, instituído pelo Decreto-Lei n.º 35/86, de 3 de Março, é articulável com qualquer dos regimes anteriores.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 3.º — Prazo dos empréstimos e cálculo dos juros
+
+1 - O prazo dos empréstimos a que se refere o artigo anterior não pode exceder 30 anos.
+
+2 - O mutuário poderá antecipar, total ou parcialmente, a amortização do empréstimo.
+
+3 - As instituições de crédito calcularão os juros pelo método das taxas equivalentes.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 224/89 - Diário da República n.º 152/1989, Série I de 1989-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1989-619728), em vigor a partir de 1989-07-10
+
+###### Artigo 4.º — (Definições)
+
+Para efeitos deste diploma, considera-se:
+
+a) «Interessado», toda a pessoa que pretenda adquirir, construir, beneficiar, recuperar ou ampliar casa, para habitação permanente, secundária ou para arrendamento, ou adquirir terreno para construção de habitação própria permanente;
+
+b) «Agregado familiar», o conjunto de pessoas constituído pelo casal e seus ascendentes e descendentes do 1.º grau, incluindo enteados e adoptados, desde que com ele vivam em regime de comunhão de mesa e habitação;
+
+c) Também como «agregado familiar», o conjunto constituído por pessoa solteira, viúva, divorciada ou separada judicialmente de pessoas e bens, seus ascendentes e descendentes do 1.º grau, incluindo enteados e adoptados, desde que igualmente com ela vivam em regime de comunhão de mesa e habitação;
+
+d) «Fogo», todo o imóvel que, obedecendo aos requisitos legais exigidos, se destina a habitação segundo o condicionalismo expresso neste decreto-lei;
+
+e) «Habitação própria permanente», aquela onde o mutuário ou este e o seu agregado familiar irão manter, estabilizado, o seu centro de vida familiar;
+
+f) «Rendimento anual bruto do agregado familiar», o rendimento auferido, sem dedução de quaisquer encargos, durante o ano civil anterior;
+
+g) «Rendimento anual bruto corrigido do agregado familiar», o valor que resulta da relação que se estabelece entre o rendimento anual bruto e a dimensão de agregado familiar;
+
+h) «Salário mínimo nacional anual», o valor mais elevado da remuneração mínima mensal garantida para a generalidade dos trabalhadores no ano civil em causa e conhecido à data da apresentação do pedido de empréstimo multiplicado por catorze meses;
+
+i) «Taxa de esforço», a relação entre a prestação mensal relativa ao primeiro ano de vida do empréstimo correspondente à amortização do capital e juros em dívida a que fica sujeito o agregado familiar e um duodécimo do seu rendimento anual bruto.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+### Capítulo II — Regime geral de crédito
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 5.º — (Acesso)
+
+Têm acesso ao regime geral de crédito os agregados familiares que afectem o produto dos empréstimos à aquisição, construção, beneficiação, recuperação e ampliação de casa para habitação permanente, secundária, ou para arrendamento.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+> Retificado pelo/a [Declaração - Diário da República n.º 276/1986, 1º Suplemento, Série I de 1986-11-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1986-578315), em vigor a partir de 1986-11-29
+
+###### Artigo 6.º — (Instituições de crédito competentes)
+
+As instituições de crédito têm competência para conceder financiamentos de acordo com o presente regime geral de crédito à habitação e dentro dos limites fixados nos artigos 3.º e 4.º do Decreto-Lei n.º 34/86, de 3 de Março, para os bancos comerciais e de investimento.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 7.º — Condições do empréstimo
+
+1 - A taxa de juro contratual aplicável será livremente negociada entre as partes.
+
+2 - Sem prejuízo de quaisquer outros regimes de amortização dos empréstimos, devem as instituições de crédito competentes apresentar aos interessados o regime definido no número seguinte e o regime de prestações constantes.
+
+3 - O regime de amortização por prestações progressivas com capitalização parcial de juros caracteriza-se da seguinte forma:
+
+a) As prestações de reembolso e pagamento de juros mantêm-se constantes durante cada período de 12 meses, podendo ser mensais, ou ter qualquer outra periodicidade, conforme for acordado entre as partes;
+
+b) As prestações pagas durante um ano serão equivalentes a um montante resultante da soma das seguintes parcelas:
+
+Reembolso do capital, calculado por divisão do saldo em dívida pelo número de anos que faltam para o término do prazo do empréstimo;
+
+Uma parte dos juros devidos, sendo o valor restante adicionado ao capital em dívida.
+
+4 - Nos empréstimos sujeitos a taxa de juro variável, no caso de variação da taxa de juro contratual, as prestações alteram-se a partir do mês seguinte ao da alteração da taxa.
+
+5 - O plano de amortização para o prazo restante do empréstimo será estabelecido com base no saldo em dívida no final do mês em que se verificou a alteração da taxa de juro, mantendo-se, no caso das prestações progressivas, as datas de variação anual do valor das prestações.
+
+6 - Nos empréstimos sujeitos a taxa de juro fixa, para além das alterações anuais decorrentes da progressividade no caso da modalidade de prestações progressivas, as prestações apenas se podem alterar a partir do mês seguinte àquele em que finda o período de vigência da taxa de juro fixa, renovando-se automaticamente no fim desse período, com aplicação da taxa de juro variável que entretanto vigorar, passando a aplicar-se o disposto nos n.os 4 e 5, excepto quando o mutuário, com a antecedência mínima de 30 dias sobre aquela data, declarar expressamente a vontade de manter o regime de taxa fixa.
+
+7 - Para efeitos do disposto no número anterior, só serão possíveis amortizações extraordinárias aos empréstimos desde que coincidentes com o fim de um período de vigência de taxa fixa e haja renovação com taxa fixa ou a partir dessa data, quando o mutuário passar ao regime de taxa variável.
+
+8 - A duração do período de aplicação de taxa fixa será definida por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 250/93 - Diário da República n.º 163/1993, Série I-A de 1993-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1993-390060), em vigor a partir de 1993-07-19
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 150-B/91 - Diário da República n.º 93/1991, 1º Suplemento, Série I-A de 1991-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-b-1991-478049), em vigor a partir de 1991-04-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 224/89 - Diário da República n.º 152/1989, Série I de 1989-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1989-619728), em vigor a partir de 1989-07-10
+
+### Capítulo III — Regime de crédito bonificado
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 8.º — (Acesso)
+
+1 - Podem ter acesso ao regime bonificado os agregados familiares que preencham as seguintes condições:
+
+a) Afectem o produto dos empréstimos à aquisição, construção, recuperação, beneficiação ou ampliação de habitação própria permanente;
+
+b) Não sejam titulares de qualquer outro empréstimo para aquisição, construção, recuperação, beneficiação ou ampliação de habitação, salvo quando as instituições de crédito aceitem celebrar, por razões ponderosas, um contrato complementar de outro já existente, com a mesma finalidade;
+
+c) O produto do empréstimo não se destine à aquisição de fogo da propriedade de ascendentes do interessado.
+
+> Nota: [Artigo 2.º, Decreto-Lei n.º 150-B/91 - Diário da República n.º 93/1991, 1º Suplemento, Série I-A de 1991-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-b-1991-478049) Todas as remissões legais para a portaria a que se refere o n.º 2 do presente artigo, passam a considerar-se como feitas para o n.º 1 do artigo 10.º deste diploma, na sua nova redacção agora estabelecida.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 137/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1998-521592), em vigor a partir de 1998-05-21
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 150-B/91 - Diário da República n.º 93/1991, 1º Suplemento, Série I-A de 1991-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-b-1991-478049), em vigor a partir de 1991-04-27
+
+###### Artigo 9.º — (Instituições de crédito competentes)
+
+1 - São competentes para efectuar operações de crédito ao abrigo do regime bonificado a Caixa Geral de Depósitos, o Crédito Predial Português e o Montepio Geral.
+
+2 - As restantes instituições de crédito referidas no artigo 6.º são também competentes para a concretização de operações de crédito neste regime, desde que os empréstimos concedidos sejam efectuados ao abrigo de sistemas poupança-habitação instituídos pelo Decreto-Lei n.º 35/86, de 3 de Março.
+
+3 - Poderão ser autorizadas outras instituições de crédito, por despacho do Ministro das Finanças, a efectuar operações de crédito ao abrigo deste regime.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 10.º — Condições do empréstimo
+
+1 - O montante do empréstimo não poderá ser superior a 90% do valor da habitação a adquirir, construir, beneficiar, recuperar ou ampliar, conforme avaliação feita pela instituição de crédito mutuante, ou do valor da transacção, se este for menor, nem a um montante do qual resulte uma primeira prestação que corresponda a uma taxa de esforço superior a um valor a fixar por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+2 - A taxa de juro contratual aplicável será livremente negociada entre as partes.
+
+3 - O sistema de amortização é o definido nos n.os 2 a 4 do artigo 7.º do presente diploma, nos termos e condições a definir na portaria a que se refere o artigo 8.º, n.º 2.
+
+4 - Os mutuários beneficiam de uma bonificação de juro em condições a definir na portaria a que se refere o artigo 8.º, n.º 2, e que terá em conta o rendimento anual bruto corrigido do agregado familiar.
+
+5 - A bonificação de juro a que se refere o n.º 4 será feita em requerimento a apresentar na instituição de crédito onde tiver sido apresentado o pedido de empréstimo, devendo ser instruído com os documentos comprovativos da composição e dos rendimentos do agregado familiar auferidos no ano civil anterior ao da apresentação do pedido.
+
+6 - A bonificação de juro será reajustada em condições a fixar na portaria a que se refere o artigo 8.º, n.º 2, em função das variações do rendimento anual bruto e da dimensão do agregado familiar.
+
+7 - Os mutuários podem, em qualquer anuidade, no decurso do período de vida do empréstimo, optar pelo regime de prestações constantes ou progressivas, conforme o caso, competindo às instituições de crédito decidir sobre a sua oportunidade.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 150-B/91 - Diário da República n.º 93/1991, 1º Suplemento, Série I-A de 1991-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-b-1991-478049), em vigor a partir de 1991-04-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 224/89 - Diário da República n.º 152/1989, Série I de 1989-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1989-619728), em vigor a partir de 1989-07-10
+
+###### Artigo 11.º — (Outras condições)
+
+1 - Os mutuários do regime bonificado não poderão, alienar o fogo adquirido, construído, recuperado, beneficiado ou ampliado durante o prazo de cinco anos após a data da concessão do empréstimo.
+
+2 - Em caso de alienação do fogo antes de decorrido o prazo fixado no número anterior, os mutuários deverão reembolsar a instituição de crédito mutuante do montante das bonificações entretanto usufruídas acrescido de 20%.
+
+3 - A instituição de crédito fará reverter para o Estado o reembolso das bonificações a que se refere o número anterior.
+
+4 - Não se aplicará o disposto nos n.os 1 e 2 quando a alienação do fogo seja determinada:
+
+a) Por razões comprovadas de mobilidade profissional ou pela alteração na dimensão do agregado familiar e desde que o produto da sua venda seja efectiva e integralmente afecto à aquisição de nova habitação própria permanente;
+
+b) Por outras razões ponderosas e avaliadas caso a caso pela instituição de crédito mutuante.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 12.º — (Comprovação anual das condições de acesso)
+
+1 - Os mutuários deverão fazer a comprovação do rendimento anual bruto e da composição do agregado familiar junto da instituição de crédito mutuante nos termos a regulamentar na portaria a que se refere o artigo 8.º, n.º 2.
+
+2 - A comprovação a que se refere o número anterior deve ser feita mediante apresentação da última nota demonstrativa de liquidação do imposto sobre o rendimento das pessoas singulares, acompanhada da declaração de rendimentos que lhe diga respeito ou, no caso de o mutuário estar dispensado da sua apresentação, de outros elementos oficiais julgados adequados pela instituição de crédito.
+
+3 - A falta de comprovação a que se refere o n.º 1 determina a perda das bonificações a que os mutuários tenham direito no período anual seguinte do contrato.
+
+4 - A prestação de falsas declarações quanto ao rendimento anual bruto e composição do agregado familiar determina a imediata integração dos mutuários nas condições do regime geral de crédito, para além da obrigatoriedade de reembolso das bonificações nos termos do n.º 2 do artigo 11.º
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 137/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1998-521592) O disposto no n.º 2 do presente artigo aplica-se às operações de crédito já contratadas.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 137/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1998-521592), em vigor a partir de 1998-05-21
+
+### Capítulo IV — Regime de crédito jovem bonificado
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 13.º — Acesso
+
+Ao regime de crédito jovem bonificado têm acesso os agregados familiares que preencham as condições definidas no artigo 8.º quando a soma das idades do casal não exceda 60 anos, desde que nenhum dos seus membros tenha mais de 30 anos de idade, ou, tratando-se de pessoa só, após a maioridade e não mais de 30 anos.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 292/90 - Diário da República n.º 219/1990, Série I de 1990-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1990-557431), em vigor a partir de 1990-09-26
+
+###### Artigo 14.º — (Instituições de crédito competentes)
+
+São competentes para efectuar operações de crédito ao abrigo do presente regime as instituições de crédito mencionadas no artigo 9.º
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 15.º — (Condições de empréstimo)
+
+As condições do empréstimo são as definidas nos artigos 10.º, 11.º e 12.º, com as seguintes alterações:
+
+a) É elevada a percentagem máxima de financiamento estabelecida no n.º 1 do artigo 10.º para 100%;
+
+b) Quando a taxa de esforço relativa à primeira prestação for superior ao valor fixado na portaria a que se refere o artigo 8.º n.º 2, poderão os mutuários, sem prejuízo da garantia hipotecária, oferecer fiança prestada por ascendentes ou, excepcionalmente, por outras pessoas idóneas;
+
+c) No caso previsto na alínea anterior, o montante do empréstimo não poderá exceder o valor do empréstimo que corresponderia ao limite máximo do rendimento anual bruto corrigido do agregado familiar fixado para a classe de bonificação em que o interessado venha a ser enquadrado, tendo em conta o regime de amortização escolhido e os demais parâmetros definidos na portaria a que se refere o n.º 1 do artigo 10.º
+
+d) Os mutuários beneficiarão de uma bonificação de juro em condições a definir na portaria a que se refere o artigo 8.º, n.º 2;
+
+e) A prestação de fiança prevista na alínea b) não prejudica a concessão da bonificação referida na alínea anterior.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 137/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1998-521592), em vigor a partir de 1998-05-21
+
+###### Artigo 16.º — (Empréstimos intercalares)
+
+1 - As instituições de crédito poderão conceder empréstimos intercalares para pagamento do sinal ao vendedor ao abrigo do regime de crédito jovem bonificado até 20% do preço da habitação, por um prazo não superior a um ano.
+
+2 - O pedido para a concessão daquele financiamento deve ser documentado com cópia autêntica do contrato-promessa de compra e venda, celebrado com o formalismo previsto no artigo 410.º do Código Civil.
+
+3 - A fiança prestada por quaisquer das pessoas referidas na alínea b) do artigo 15.º é também aplicável a estes empréstimos.
+
+4 - Os financiamentos concedidos nos termos deste artigo serão amortizados no momento da celebração do contrato de empréstimo definitivo.
+
+5 - Os juros serão calculados à taxa correspondente a operações de prazo idêntico e integrarão o montante do empréstimo definitivo.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 17.º — (Fiança supletiva)
+
+1 - Se a finança prestada nos termos do n.º 3 do artigo 16.º se mostrar insuficiente, poderá o Estado, através do Instituto Nacional de Habitação, nos termos da alínea f) do n.º 2 do artigo 3.º do Decreto-Lei n.º 202-B/86, de 22 de Julho, prestar supletivamente a fiança aos empréstimos intercalares.
+
+2 - As condições de prestação destas fianças serão definidas em despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+### Capítulo V — Aquisição de terreno
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 18.º — (Acesso)
+
+Têm acesso a financiamento intercalar para a aquisição de terreno os agregados familiares que o destinem à construção de habitação própria permanente.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 19.º — (Instituições de crédito competentes)
+
+As instituições de crédito referidas no artigo 6.º têm competência para conceder financiamentos à aquisição de terreno nas condições aí definidas.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 20.º — (Condições do empréstimo)
+
+1 - As instituições de crédito terão em conta, no montante dos empréstimos a conceder, a localização do terreno, a dimensão do agregado familiar e o limite a fixar pela portaria a que se refere o artigo 8.º, n.º 2.
+
+2 - Os juros serão liquidados e pagos mensalmente, sendo a taxa a aplicar a correspondente a operações activas de prazo idêntico.
+
+3 - Os financiamentos para aquisição de terrenos serão amortizados por contrapartida do financiamento a conceder no momento da celebração do contrato de empréstimo à construção.
+
+4 - Salvo prorrogação do prazo de início de construção, concedida pela respectiva câmara municipal, o financiamento deverá ser integralmente amortizado no termo do prazo de um ano, contado a partir da data do contrato-promessa de compra e venda.
+
+5 - Em qualquer caso, o prazo de amortização não pode exceder dois anos, contados da data do contrato-promessa.
+
+6 - Durante o prazo referido no número anterior não é permitida a alienação do prédio ou a constituição de quaisquer ónus ou encargos não relacionados com a garantia do empréstimo.
+
+7 - A fiança a que se refere a alínea b) do artigo 15.º é aplicável a este empréstimo sempre que os mutuários reúnam os requisitos previstos no artigo 13.º
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 21.º — (Instrução dos pedidos)
+
+O pedido para a concessão do financiamento deverá ser acompanhado dos seguintes documentos:
+
+a) Cópia autêntica do contrato-promessa de compra e venda;
+
+b) Planta de localização;
+
+c) Declaração passada pela câmara municipal sobre a viabilidade da construção, com a indicação das características fundamentais do fogo a construir;
+
+d) Cópia autêntica do alvará de loteamento, se existir;
+
+e) Declaração de compromisso de início da construção no prazo máximo de um ano.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+### Capítulo VI — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 22.º — (Apreciação e decisão dos pedidos)
+
+1 - As instituições de crédito, uma vez concluída a instrução dos processos, procederão à apreciação e decisão sobre os mesmos, em conformidade com as regras e condições fixadas no presente diploma.
+
+2 - Os pedidos de empréstimos destinados à aquisição, construção, recuperação, beneficiação ou ampliação de fogos para habitação própria ou de terrenos para a construção de habitação própria permanente serão apreciados pelas instituições de crédito mediante avaliação, salvo se se tratar de fogos construídos ao abrigo de programas habitacionais da administração central ou local, casos em que aquelas instituições a poderão dispensar, aceitando o valor atribuído pelo organismo promotor.
+
+3 - Só é admitida a apresentação em simultâneo com um pedido de empréstimo para aquisição de habitação própria permanente, secundária ou para arrendamento de um pedido de empréstimo para a sua recuperação, beneficiação ou ampliação desde que o início das obras ocorra após a data da avaliação, pela instituição de crédito mutuante, do imóvel a adquirir e das obras a realizar, devendo a respectiva execução ser posteriormente confirmada.
+
+4 - A aprovação dos empréstimos obedecerá ainda às indispensáveis regras de segurança da operação de crédito.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 137/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1998-521592), em vigor a partir de 1998-05-21
+
+###### Artigo 23.º — (Garantia do empréstimo)
+
+1 - Os empréstimos serão garantidos por hipoteca da habitação adquirida, construída ou objecto das obras financiadas, incluindo o terreno.
+
+2 - Em reforço da garantia prevista no número anterior, poderá ser constituído seguro de vida, do mutuário e cônjuge, de valor não inferior ao montante do empréstimo.
+
+3 - A garantia hipotecária a que se refere o n.º 1 poderá ser substituída, parcial ou totalmente, por hipoteca de outro prédio ou por penhor de títulos cotados na bolsa de valores e, em casos excepcionais, por qualquer outra garantia considerada adequada ao risco do empréstimo pela instituição de crédito mutuante.
+
+4 - No caso de penhor de títulos, observar-se-á o seguinte:
+
+a) O valor dos títulos, dado pela sua cotação, não poderá ser inferior, em qualquer momento de vida do empréstimo, a 125% do respectivo saldo;
+
+b) O penhor poderá, no caso de não ser satisfeito o limite definido na alínea precedente, ser reforçado por hipoteca ou por entrega de novos títulos.
+
+5 - Nos casos em que o regime de amortização conduza ao aumento do saldo devedor do empréstimo, a hipoteca a que se alude no n.º 1 poderá ser registada pelo montante máximo que se prevê venha a atingir aquele saldo, sendo o registo gratuito na parte que exceder o capital mutuado.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 137/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1998-521592), em vigor a partir de 1998-05-21
+
+###### Artigo 24.º — (Fixação e publicitação das condições)
+
+1 - As instituições de crédito devem afixar e tornar públicas as condições dos empréstimos a conceder ao abrigo do presente decreto-lei, mencionando, designadamente, os seguintes elementos:
+
+a) Regimes de crédito praticados;
+
+b) Prazo dos empréstimos, regimes optativos de amortização e demais condições;
+
+c) Esforço financeiro de amortização por cada 1000 contos mutuados em cada um dos regimes oferecidos.
+
+2 - As instituições de crédito devem dar conhecimento ao Banco de Portugal, no prazo de vinte dias úteis das condições a que se refere o número anterior e de quaisquer alterações.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 25.º — (Sistema poupança-habitação)
+
+Os pedidos de empréstimo ao abrigo do sistema poupança-habitação previsto no Decreto-Lei n.º 35/86, de 3 de Março, terão prioridade.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 26.º — (Pagamento das bonificações)
+
+1 - Para pagamento das bonificações fica o Ministro das Finanças autorizado a inscrever as correspondentes dotações no Orçamento do Estado.
+
+2 - Nas Regiões Autónomas da Madeira e dos Açores, as bonificações serão suportadas pelos orçamentos regionais respectivos.
+
+3 - Fica o Ministro das Finanças autorizado a inscrever no Orçamento do Estado para 1987, com base em estimativa do Secretário de Estado da Construção e Habitação, as dotações necessárias para acorrer às necessidades resultantes do número anterior, a título de transferências para os orçamentos regionais.
+
+4 - Quando solicitadas, as instituições de crédito deverão fornecer à Direcção-Geral do Tesouro os elementos necessários para que esta, em conjugação com a Direcção-Geral das Contribuições e Impostos, possa, por amostragem, proceder à verificação do cumprimento das disposições do presente sistema de crédito.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 26.º-A — Mudança de instituição de crédito mutuante
+
+1 - Na vigência de um empréstimo à aquisição, construção, recuperação, beneficiação ou ampliação de habitação própria permanente regulado no presente diploma, o respectivo mutuário pode optar por outra instituição de crédito mutuante, desde que observadas as seguintes condições:
+
+a) Se, estando integrado no regime geral de crédito, passar a preencher os requisitos de acesso ao regime de crédito bonificado, o montante do novo empréstimo não for superior ao do valor em dívida à instituição de crédito que é parte mutuante no contrato vigente;
+
+b) Se, estando integrado num regime de crédito bonificado e continuando a preencher os requisitos de acesso:
+
+i) O montante do novo empréstimo não for superior ao do valor em dívida à instituição de crédito que é parte mutuante no contrato vigente;
+
+ii) O prazo do novo empréstimo não for superior ao período de tempo em falta para o termo do contrato vigente.
+
+2 - Por portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, poderão ser fixadas outras condições a que obedecerá a transferência de crédito bonificado entre instituições de crédito mutuantes.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 137/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1998-521592) O disposto no presente artigo aplica-se às operações de crédito já contratadas.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/98 - Diário da República n.º 113/1998, Série I-A de 1998-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-1998-521592), em vigor a partir de 1998-05-21
+
+###### Artigo 27.º — (Situações transitórias)
+
+1 - Os regimes definidos pelos Decretos-Leis n.os 459/83, de 30 de Dezembro, 244/84, de 17 de Julho, e 20-B/86, de 13 de Fevereiro, aplicar-se-ão às operações solicitadas até 30 de Setembro de 1986.
+
+2 - As condições financeiras estabelecidas nos empréstimos celebrados ao abrigo dos Decretos-Leis n.os 435/80, de 2 de Outubro, 459/83, de 30 de Dezembro, 244/84, de 17 de Julho, e 20-B/86, de 13 de Fevereiro, serão adaptadas ao regime instituído pelo presente diploma por portaria dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+###### Artigo 28.º — (Entrada em vigor)
+
+O presente diploma entra em vigor no dia 1 de Outubro de 1986.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12
+
+Visto e aprovado em Conselho de Ministros de 11 de Setembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins - Luís Francisco Valente de Oliveira.
+
+Promulgado em 30 de Setembro de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 30 de Setembro de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 349/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), em vigor a partir de 1998-11-12

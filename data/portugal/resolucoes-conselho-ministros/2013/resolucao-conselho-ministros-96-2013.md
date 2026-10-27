@@ -1,0 +1,178 @@
+---
+schema_version: '1.0'
+id: pt:dre:483877:por
+title: Resolução do Conselho de Ministros n.º 96/2013
+short_title: null
+summary: Estabelece o procedimento de identificação e de disponibilização de prédios do domínio privado do Estado e dos institutos
+  públicos na bolsa de terras a que se refere o n.º 2 do artigo 6.º da Lei n.º 62/2012, de 10 de dezembro
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 96/2013
+official_date: null
+publication_date: '2013-12-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 252/2013, Série I de 2013-12-30
+  number: '252'
+  series: I
+  supplement: null
+  pages: 6997 - 6998
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25200/0699706998.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/96/2013/12/30/p/dre/pt/html
+  oj: null
+  dre: '483877'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/96-2013-483877
+  internal: pt:dre:483877:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/96-2013-483877
+  metadata_url: https://data.dre.pt/eli/resolconsmin/96/2013/12/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/96-2013-483877
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:05:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 1d7dca3053d053876148a662032d00207ad5bdb957b765ec986b6c07e149ea69
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:05:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agricultura
+- Bolsa Nacional de Terras
+- Definição de Competências
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Domínio Privado do Estado
+- Exploração Agrícola
+- Exploração Florestal
+- Exploração Pecuária
+- Instituto da Conservação da Natureza e das Florestas
+- Instituto Público
+- Ministério da Agricultura e do MAR
+- Prédio Rústico
+- Propriedade do Estado
+- Propriedade Privada
+relationships:
+- type: cites
+  target: pt:dre:190577:por
+  label: null
+  source: http://data.dre.pt/eli/lei/62/2012/12/10/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:05:41Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 96/2013
+
+Com os objetivos de facilitar o acesso à terra e de promover e divulgar a sua oferta, a [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro, criou a bolsa nacional de terras, abreviadamente designada «Bolsa de terras», através da qual passaram a poder ser disponibilizados os prédios rústicos e, em determinadas situações, os prédios mistos que tenham aptidão agrícola, florestal e silvopastoril, para entrega em arrendamento, venda ou para outros tipos de cedência.
+
+Os prédios do domínio privado do Estado que sejam identificados como aptos para as referidas finalidades estão abrangidos pelos objetivos gerais da bolsa de terras. Com a sua disponibilização, pretende-se favorecer a exploração das terras que não estejam a ser utilizadas, bem como a das terras cuja utilização direta por entidades públicas deixou de se justificar, com preferência, nomeadamente, pela sua cedência a jovens agricultores ou para o redimensionamento de explorações já instaladas, que sejam confinantes com aquelas terras.
+
+A identificação e a disponibilização dos prédios do domínio privado do Estado obedecem a procedimento próprio a aprovar pelo Governo, o qual deve salvaguardar os fins de interesse público associados à boa administração desse património e, simultaneamente, cumprir os objetivos traçados para a sua cedência através da bolsa de terras. Trata-se de um procedimento necessariamente contínuo, que na sua fase inicial incide prioritariamente sobre os prédios já reconhecidos como livres de utilização por qualquer entidade pública e como aptos para disponibilização e subsequente cedência a terceiros.
+
+Com vista à plena concretização dos objetivos que presidiram à criação da bolsa de terras, todas as entidades públicas afetatárias ou gestoras de prédios do domínio privado do Estado passam a ser responsáveis pela identificação dos prédios a disponibilizar na bolsa de terras, bem como pela condução e conclusão do respetivo procedimento, sem prejuízo da intervenção da Direção-Geral do Tesouro e Finanças, a exercer essencialmente na fase da decisão de disponibilização a que se refere o n.º 3 do artigo 6.º da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro.
+
+Por sua vez, a entidade gestora, no âmbito das suas competências, acompanha aquele procedimento, colaborando com as entidades responsáveis pelo seu desenvolvimento, tendo em vista a sua compatibilização com as exigências do funcionamento da bolsa de terras.
+
+A fixação dos valores de cedência dos prédios a disponibilizar na bolsa de terras é assegurada pelo Instituto da Conservação da Natureza e das Florestas, I.P., através dos seus serviços desconcentrados, e pelas direções regionais de agricultura e pescas.
+
+Por identidade de objetivos, o procedimento de identificação e disponibilização estabelecido pela presente resolução é de aplicação transversal aos prédios do património próprio dos institutos públicos, pertencendo ao respetivo órgão competente a responsabilidade pelo seu desenvolvimento.
+
+Assim:
+
+Nos termos do n.º 2 do artigo 6.º da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Estabelecer, nos termos dos números seguintes, o procedimento de identificação e de disponibilização de prédios do domínio privado do Estado e dos institutos públicos na bolsa de terras.
+
+2 - Determinar que são disponibilizados na bolsa de terras, para cedência a terceiros nos termos definidos no diploma a que se refere o n.º 1 do artigo 12.º da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro, os prédios do domínio privado do Estado e dos institutos públicos identificados como aptos para utilização agrícola, florestal ou silvopastoril.
+
+3 - Determinar que, para o efeito do disposto no número anterior, os prédios dos institutos públicos são disponibilizados na bolsa de terras nos termos do despacho a que se refere o n.º 3 do artigo 6.º da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro, mediante proposta dos órgãos de direção, nos termos da lei e dos respetivos estatutos.
+
+4 - Estabelecer que, para o efeito do disposto nos números anteriores, devem ser identificados e propostos para disponibilização na bolsa de terras os prédios rústicos e mistos não excecionados pelo n.º 3 do artigo 2.º da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro, que reúnam os seguintes requisitos cumulativos:
+
+a) Terem aptidão para utilização agrícola, florestal ou silvopastoril;
+
+b) Serem desnecessários ou inadequados à prossecução das atribuições dos serviços, organismos ou entidades a que estejam afetos, ou em cujo património se integrem, ou de serviços e entidades diversos daqueles;
+
+c) Encontrarem-se livres de exploração ou de outra forma de utilização pelos serviços, organismos ou entidades a que estão afetos, salvo por motivo de interesse público reconhecido no despacho a que se refere o n.º 3 do artigo 6.º da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro.
+
+5 - Determinar que são excluídos do procedimento de identificação para disponibilização na bolsa de terras os prédios do domínio privado do Estado e dos institutos públicos que se encontrem em alguma das seguintes situações:
+
+a) Sejam objeto de ação judicial pendente, qualquer que seja a jurisdição e a forma do processo, incluindo quando o litígio verse sobre direitos reais ou pessoais de gozo relativamente ao prédio;
+
+b) Estejam sujeitos, por lei, regulamento, ato administrativo, contrato ou destinação testamentária, a afetação ou a uso incompatível com a disponibilização na bolsa de terras.
+
+6 - Cometer à Direção-Geral do Tesouro e Finanças (DGTF), aos institutos públicos e às entidades afetatárias a responsabilidade pelo procedimento de identificação e de disponibilização das terras que estejam na sua gestão direta, tenham ou não a qualidade de proprietário, incluindo a promoção da regularização dos prédios na matriz, quando necessária.
+
+7 - Estabelecer que o procedimento referido no número anterior deve assegurar a recolha da informação sobre os prédios a disponibilizar na bolsa de terras, nomeadamente a relativa à área, à localização, à aptidão e às eventuais restrições legais à sua utilização, e cumprir os demais requisitos exigidos para a sua disponibilização no Sistema de Informação da Bolsa de Terras (SiBT), em conformidade com o disposto no Regulamento de Gestão da Bolsa Nacional de Terras, aprovado pela Portaria n.º 197/2013, de 28 de maio.
+
+8 - Determinar que a entidade gestora da bolsa de terras colabora reciprocamente com as entidades referidas no n.º 6 no sentido da compatibilização do procedimento de identificação e disponibilização de terras com as exigências do funcionamento da bolsa de terras.
+
+9 - Determinar que, após o termo da fase instrutória do procedimento de identificação e disponibilização de terras, as entidades referidas no n.º 6 remetem o processo à entidade gestora da bolsa de terras, para os seguintes efeitos:
+
+a) Solicitar e obter proposta de valor base de cedência do prédio junto do Instituto da Conservação da Natureza e das Florestas, I.P. (ICNF, I.P.), ou da direção regional de agricultura e pescas territorialmente competente;
+
+b) Regularizar o processado relativamente a elementos em falta ou desatualizados;
+
+c) Inserir, a título provisório, os prédios identificados no SiBT;
+
+d) Recolher o parecer da DGTF sobre o tipo e o valor base de cedência, que deve ser emitido no prazo de 15 dias, sob pena de se considerar favorável;
+
+e) Submeter ao membro do Governo responsável pelas áreas da agricultura e das florestas a proposta do despacho a que se refere o n.º 3 do artigo 6.º da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro.
+
+10 - Determinar que o valor base de cedência dos prédios a disponibilizar na bolsa de terras é determinado pelo ICNF, I. P., através dos seus serviços desconcentrados, ou pela direção regional de agricultura e pescas territorialmente competente, e confirmado pela DGTF no parecer a que se refere a alínea d) do número anterior.
+
+11 - Estabelecer que o despacho a que se refere o n.º 3 do artigo 6.º da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro, determina a forma de cedência das terras identificadas para disponibilização na bolsa de terras, o procedimento a adotar e, em caso de ajuste direto, a respetiva fundamentação, bem como o valor da cedência e a afetação da receita dela proveniente, observando o disposto no n.º 7 do artigo 12.º da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro.
+
+12 - Determinar, para os efeitos previstos no n.º 3 do artigo 6.º da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro, que os prédios do domínio privado do Estado, dos serviços e dos organismos integrados no Ministério da Agricultura e do Mar, já referenciados como aptos para utilização agrícola, florestal ou silvopastoril por terceiros, são identificados e propostos para disponibilização na bolsa de terras no prazo de 10 dias a contar da data da entrada em vigor da presente resolução.
+
+13 - Determinar, para os efeitos previstos no n.º 3 do artigo 6.º da [Lei n.º 62/2012](https://diariodarepublica.pt/dr/detalhe/lei/62-2012-190577), de 10 de dezembro, que os demais prédios do domínio privado do Estado e dos institutos públicos que se encontrem livres de utilização e que cumpram os demais requisitos necessários são identificados e propostos para disponibilização na bolsa de terras, no prazo de três meses a contar da data da entrada em vigor da presente resolução.
+
+14 - Determinar que, decorrido o prazo previsto no número anterior, o ICNF, I. P., e as direções regionais de agricultura e pescas procedem à referenciação dos prédios rústicos e mistos do domínio privado do Estado e dos institutos públicos, independentemente da entidade afetatária, que não tenham exploração ou outra forma de utilização atual, nomeadamente para fins agrícolas, florestais ou silvopastoris, informando da sua existência o membro do Governo responsável pelas áreas da agricultura e das florestas.
+
+15 - Determinar que, no caso previsto na parte final do número anterior, o membro do Governo responsável pelas áreas da agricultura e das florestas promove, junto do membro do Governo responsável pela área setorial em causa, o aprofundamento da averiguação pelos serviços e entidades responsáveis pela identificação e disponibilização dos prédios na bolsa de terras e o acompanhamento do respetivo procedimento, quando aplicável.
+
+16 - Determinar que a Direção-Geral de Agricultura e Desenvolvimento Rural, na qualidade de entidade gestora da bolsa de terras, deve informar o membro do Governo responsável pelas áreas da agricultura e das florestas, para os fins previstos no número anterior, da existência de terras do Estado e dos institutos públicos aptas para disponibilização na bolsa de terras, de que tenha conhecimento por intermédio das câmaras municipais, das entidades autorizadas para a prática de atos de gestão operacional na bolsa de terras ou de qualquer interessado.
+
+17 - Determinar que o procedimento estabelecido na presente resolução é contínuo, devendo a DGTF, os institutos públicos e as entidades afetatárias proceder à identificação de todas as terras do Estado e dos institutos públicos que, em cada momento, se encontrem em situação de disponibilização na bolsa de terras.
+
+18 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 12 de dezembro de 2013. - O Primeiro-Ministro, Pedro Passos Coelho.

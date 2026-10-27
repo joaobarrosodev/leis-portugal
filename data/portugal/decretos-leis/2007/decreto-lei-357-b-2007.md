@@ -1,0 +1,618 @@
+---
+schema_version: '1.0'
+id: pt:dre:241223:por
+title: Decreto-Lei n.º 357-B/2007
+short_title: null
+summary: No uso da autorização legislativa concedida pela Lei n.º 25/2007, de 18 de Julho, estabelece o regime jurídico aplicável
+  às sociedades que têm por objecto exclusivo a prestação do serviço de consultoria para investimento em instrumentos financeiros
+  e a recepção e transmissão de ordens por conta de outrem relativas àqueles, transpondo parcialmente para a ordem jurídica
+  interna a Directiva n.º 2004/39/CE, do Parlamento Europeu e do Conselho, de 21 de Abril, relativa aos mercados de instrumentos
+  financeiros («DMIF»)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 357-B/2007
+official_date: null
+publication_date: '2007-10-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/2007, 2º Suplemento, Série I de 2007-10-31
+  number: '210'
+  series: I
+  supplement: 2º Suplemento
+  pages: 7964-(178) a 7964-(182)
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/10/21002/0017800182.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-02-01'
+version_history:
+  file: decreto-lei-357-b-2007.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-27'
+    amending: pt:dre:332702:por
+    amending_title: Decreto-Lei n.º 52/2010
+    changes:
+    - Adita Artigo 12.º-A
+    - Adita Artigo 12.º-B
+    - Adita Artigo 12.º-C
+    - Adita Artigo 12.º-D
+    - Adita Artigo 12.º-E
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+  - date: '2014-11-23'
+    amending: pt:dre:58585556:por
+    amending_title: Decreto-Lei n.º 157/2014
+    changes:
+    - Altera Artigo 6.º
+  - date: '2018-08-01'
+    amending: pt:dre:115740680:por
+    amending_title: Lei n.º 35/2018
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 12.º-A
+  - date: '2022-02-01'
+    amending: pt:dre:175744218:por
+    amending_title: Decreto-Lei n.º 109-H/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/357-b/2007/p/cons/20211210/pt/html
+  oj: null
+  dre: '241223'
+  dre_path: /dr/detalhe/decreto-lei/357-b-2007-241223
+  internal: pt:dre:241223:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-b-2007-241223
+  metadata_url: https://data.dre.pt/eli/dec-lei/357-b/2007/p/cons/20211210/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-115749439
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-115749439
+  retrieved_at: '2026-10-22T12:20:30Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8f875febc6660877e4d1aa9d6ab4dc9654bf69387363c31efeb96c4eb4bf345a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:20:30Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-357-b-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Consultoria
+- Investimento
+- IPE
+- Participação Qualificada
+- Regime Jurídico
+- CMVM
+- Sociedade de Consultoria para Investimento
+relationships:
+- type: amended_by
+  target: pt:dre:332702:por
+  label: Adita Artigo 12.º-A; Adita Artigo 12.º-B; Adita Artigo 12.º-C; Adita Artigo 12.º-D; Adita Artigo 12.º-E; Altera Artigo
+    5.º; Altera Artigo 6.º; Altera Artigo 12.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702
+  date: '2010-05-26'
+- type: amended_by
+  target: pt:dre:58585556:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556
+  date: '2014-10-24'
+- type: amended_by
+  target: pt:dre:115740680:por
+  label: Adita Artigo 6.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 10.º;
+    Altera Artigo 12.º; Altera Artigo 12.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680
+  date: '2018-07-20'
+- type: amended_by
+  target: pt:dre:175744218:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218
+  date: '2021-12-10'
+- type: cites
+  target: celex:31985L0611
+  label: null
+  source: http://data.europa.eu/eli/dir/1985/611/oj
+- type: cites
+  target: celex:31993L0006
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/6/oj
+- type: cites
+  target: celex:31993L0022
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/22/oj
+- type: cites
+  target: celex:32000L0012
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/12/oj
+- type: cites
+  target: celex:32004L0039
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/39/oj
+- type: cites
+  target: celex:32017R1943
+  label: null
+  source: null
+- type: cites
+  target: celex:32017R1946
+  label: null
+  source: null
+- type: transposes
+  target: celex:32002L0092
+  label: null
+  source: null
+- type: transposes
+  target: celex:32011L0061
+  label: null
+  source: null
+- type: transposes
+  target: celex:32014L0065
+  label: null
+  source: null
+article_structure:
+  article_count: 24
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:20:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 357-B/2007
+
+Decreto-Lei n.º 357-B/2007
+
+de 31 de Outubro
+
+O presente decreto-lei transpõe parcialmente para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0039" title="Link para Directiva da Comunidade Europeia">2004/39/CE</a>, do Parlamento Europeu e do Conselho, de 21 de Abril, relativa aos mercados de instrumentos financeiros, que altera as Directivas n.os <a href="eurlex.asp?ano=1985&id=385L0611" title="Link para Directiva da Comunidade Europeia">85/611/CEE</a>, do Conselho, de 20 de Dezembro, e <a href="eurlex.asp?ano=1993&id=393L0006" title="Link para Directiva da Comunidade Europeia">93/6/CEE</a>, do Conselho, de 15 de Março, e a Directiva n.º <a href="eurlex.asp?ano=2000&id=300L0012" title="Link para Directiva da Comunidade Europeia">2000/12/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Março, e que revoga a Directiva n.º <a href="eurlex.asp?ano=1993&id=393L0022" title="Link para Directiva da Comunidade Europeia">93/22/CEE</a>, do Conselho, de 10 de Maio, estabelecendo o regime jurídico aplicável às sociedades que têm por objecto exclusivo a prestação do serviço de consultoria para investimento em instrumentos financeiros e a recepção e transmissão de ordens por conta de outrem relativas àqueles.
+
+O regime agora consagrado não prejudica a manutenção de uma figura inteiramente regulada pelo direito interno - os consultores para investimento dedicados à consultoria para investimento em valores mobiliários.
+
+Considerando que, de um lado, a consultoria para investimento em instrumentos financeiros, por força da directiva relativa aos mercados de instrumentos financeiros, passa a ser uma das actividades de intermediação financeira que integram o conjunto dos serviços e actividades principais de investimento e, do outro, que só empresas de investimento ou instituições de crédito devidamente autorizadas podem desenvolver, numa base transfronteiriça, tais serviços e actividades, importa garantir que as entidades que pretendam exercer aquela actividade reúnem os requisitos necessários que lhes permitam qualificar-se como empresas de investimento e beneficiar do designado passaporte comunitário. Permite-se, assim, às empresas de investimento operar em todo o espaço da União Europeia com base na autorização que lhes é concedida pelo Estado membro em que se situa a sua sede.
+
+Neste quadro, institui-se como nova figura a «sociedade de consultoria para investimento», e regula-se, em diploma autónomo, o respectivo regime jurídico.
+
+Estas sociedades podem adoptar a forma de sociedade anónima ou de sociedade por quotas. A circunstância de os interessados poderem optar por um dos referidos tipos de sociedades radica no facto de se procurar que a maior ou menor complexidade da estrutura empresarial se possa reflectir no tipo societário adoptado.
+
+No tocante às empresas que adoptem o tipo de sociedade anónima, salienta-se que o respectivo capital deve ser obrigatoriamente representado por acções nominativas, para que se possa determinar facilmente quem são os seus accionistas, tendo em vista controlar se estes reúnem as condições necessárias para garantir a gestão sã e prudente destas sociedades, em especial, os titulares de participação qualificada.
+
+É também de destacar que, enquanto empresas de investimento, as sociedades de consultoria para investimento ficam sujeitas a um regime de autorização prévia, sem o qual não podem exercer a sua actividade. Tal regime autorizativo consubstancia-se num único acto da Comissão do Mercado de Valores Mobiliários, à qual é, assim, atribuída competência para supervisionar tais sociedades também sob o ponto de vista prudencial. A directiva faculta aos Estados membros que reconheçam às sociedades que pretendam dedicar-se à prestação de consultoria para investimento em instrumentos financeiros a possibilidade de beneficiarem de um regime mais flexível em termos de supervisão prudencial. No uso desta prerrogativa, estabelecem-se requisitos prudenciais mais ligeiros do que os aplicáveis às demais empresas de investimento, mas, ainda assim, aptos a satisfazer as necessidades de prudência, por forma a garantir o bom funcionamento de tais empresas.
+
+Destaca-se, ainda, que, a fim de se garantir que a actividade de consultoria para investimento é desenvolvida respeitando os melhores cânones existentes na matéria, exige-se que os membros dos órgãos de administração e de fiscalização e as demais pessoas que dirigem efectivamente a actividade sejam pessoas idóneas e profissionalmente aptas a desempenhar as respectivas funções.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 25/2007, de 18 de Julho, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei estabelece o regime jurídico aplicável às sociedades que têm por objecto exclusivo a prestação do serviço de consultoria para investimento em instrumentos financeiros e a recepção e transmissão de ordens por conta de outrem relativas àqueles.
+
+2 - As sociedades de consultoria para investimento podem prestar de forma acessória os serviços auxiliares previstos nas alíneas c) e d) do artigo 291.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, bem como prestar serviços de consultoria relativamente a depósitos estruturados.
+
+3 - O presente decreto-lei transpõe parcialmente para a ordem jurídica interna a Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativa aos mercados de instrumentos financeiros, que altera a Diretiva 2002/92/CE e a Diretiva 2011/61/UE.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 2.º — Definição e sede
+
+1 - São sociedades de consultoria para investimento as empresas de investimento exclusivamente autorizadas a exercer as actividades de consultoria para investimento e de recepção e transmissão de ordens por conta de outrem previstas nas alíneas a) e f) do n.º 1 do artigo 290.º do Código dos Valores Mobiliários.
+
+2 - A sede e a administração efectiva da sociedade de consultoria para investimento devem situar-se em Portugal.
+
+3 - A prestação de serviços de consultoria relativamente a depósitos estruturados pelas sociedades de consultoria para investimento está sujeita à supervisão do Banco de Portugal, regendo-se pelo disposto no Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, e pelo disposto em legislação específica.
+
+4 - Em tudo o que não venha previsto no presente decreto-lei e não diga respeito à prestação de serviços de consultoria relativamente a depósitos estruturados aplica-se subsidiariamente o Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 3.º — Tipo societário e administração
+
+1 - As sociedades de consultoria para investimento podem adoptar o tipo de sociedade anónima ou de sociedades por quotas.
+
+2 - O capital social de sociedade de consultoria para investimento que adopte o tipo de sociedade anónima deve ser representado por acções nominativas.
+
+3 - A administração ou a gerência da sociedade de consultoria para investimento é assegurada, no mínimo, por dois elementos, salvo tratando-se de sociedade unipessoal por quotas.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 4.º — Operações vedadas
+
+É vedado às sociedades de consultoria para investimento a realização das seguintes operações:
+
+a) Deter dinheiro ou instrumentos financeiros de clientes;
+
+b) Conceder crédito sob qualquer forma;
+
+c) Prestar garantias pessoais ou reais a favor de terceiros;
+
+d) Adquirir por sua conta quaisquer instrumentos financeiros e bens imóveis, salvo os necessários à instalação das suas próprias actividades.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 5.º — Participações qualificadas
+
+1 - Quem pretenda deter participação qualificada em sociedade de consultoria para investimento deve reunir condições que garantam a gestão sã e prudente daquela sociedade.
+
+2 - Considera-se participação qualificada:
+
+a) A que, directa ou indirectamente, represente percentagem não inferior a 10 % do capital ou dos direitos de voto da sociedade de consultoria para investimento; ou
+
+b) A que, por outro motivo, possibilite uma influência significativa na gestão da sociedade de consultoria para investimento.
+
+3 - Para efeitos do presente decreto-lei, no cômputo dos direitos de voto do participante na sociedade de consultoria para investimento é aplicável o disposto nos artigos 20.º, 20.º-A e 21.º do Código dos Valores Mobiliários, com as devidas adaptações.
+
+4 - No cômputo das participações qualificadas em sociedade de consultoria para investimento não são considerados:
+
+a) Os direitos de voto detidos em resultado da tomada firme ou da colocação com garantia de instrumentos financeiros, desde que os direitos de voto não sejam exercidos ou de outra forma utilizados para intervir na gestão da sociedade e sejam cedidos no prazo de um ano a contar da aquisição;
+
+b) As acções transaccionadas exclusivamente para efeitos de operações de compensação e de liquidação no âmbito do ciclo curto e habitual de liquidação;
+
+c) As participações de intermediário financeiro actuando como criador de mercado que atinjam ou ultrapassem 5 % dos direitos de voto correspondentes ao capital social, desde que aquele não intervenha na gestão da sociedade participada, nem a influencie a adquirir essas acções ou a apoiar o seu preço;
+
+d) As acções detidas por entidades de custódia, actuando nessa qualidade, desde que demonstrem perante a CMVM que apenas podem exercer os direitos de voto associados às acções sob instruções comunicadas por escrito ou por meios electrónicos.
+
+5 - Para efeitos das alíneas b) e c) do número anterior, aplica-se o disposto no artigo 16.º-A e no artigo 18.º do Código dos Valores Mobiliários.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 6.º — Idoneidade e qualificação profissional
+
+1 - Os membros dos órgãos de administração e de fiscalização de sociedade de consultoria para investimento e as pessoas que dirigem efectivamente a sua actividade devem ser idóneos e possuir qualificação profissional e disponibilidade adequadas ao desempenho das respectivas funções, dando garantias de uma gestão sã e prudente.
+
+2 - À apreciação, pela CMVM, dos requisitos de idoneidade, qualificação profissional e disponibilidade são aplicáveis, com as devidas adaptações, os artigos 30.º-D, 31.º e n.os 1, 2 e 11 do artigo 33.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro.
+
+3 - A CMVM, para efeitos da verificação dos requisitos previstos no presente artigo, troca informações com o Banco de Portugal e com o Instituto de Seguros de Portugal.
+
+4 - Para efeitos do presente artigo, considera-se verificada a idoneidade dos membros dos órgãos de administração e fiscalização que se encontrem registados junto do Banco de Portugal ou do Instituto de Seguros de Portugal, quando esse registo esteja sujeito a condições de idoneidade, a menos que factos supervenientes à data do referido registo conduzam a CMVM a pronunciar -se em sentido contrário.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 6.º-A — Governo da sociedade
+
+1 - Os órgãos de administração e de fiscalização das sociedades de consultoria para investimento definem, fiscalizam e são responsáveis, no âmbito das respetivas competências, pela aplicação de sistemas de governo que garantam a gestão eficaz e prudente da mesma, incluindo a separação de funções no seio da organização e a prevenção de conflitos de interesses.
+
+2 - Na definição dos sistemas de governo compete aos órgãos de administração e de fiscalização, no âmbito das respetivas funções:
+
+a) Assumir a responsabilidade pela sociedade, aprovar e fiscalizar a implementação dos objetivos estratégicos, da estratégia de risco e do governo interno da mesma;
+
+b) Assegurar a integridade dos sistemas contabilístico e de informação financeira, incluindo o controlo financeiro e operacional e o cumprimento da legislação e regulamentação aplicáveis à sociedade;
+
+c) Supervisionar o processo de divulgação e os deveres de informação à CMVM;
+
+d) Acompanhar e controlar a atividade da direção de topo.
+
+3 - Os órgãos de administração e de fiscalização acompanham e avaliam periodicamente a eficácia dos sistemas de governo da sociedade e, no âmbito das respetivas competências, tomam e propõem as medidas adequadas para corrigir quaisquer deficiências detetadas nos mesmos.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 19.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 7.º — Requisitos patrimoniais
+
+1 - No momento da autorização de constituição, a sociedade de consultoria para investimento deve satisfazer, pelo menos, um dos seguintes requisitos patrimoniais:
+
+a) Um capital social inicial mínimo de (euro) 50 000, realizado à data da constituição da sociedade;
+
+b) Um seguro de responsabilidade civil que abranja todo o território da União Europeia, ou qualquer outra garantia equivalente, que cubra as responsabilidades resultantes de negligência profissional, que represente, no mínimo, uma cobertura de (euro) 1 000 000 por sinistro e, globalmente, (euro) 1 500 000 para todos os sinistros que ocorram durante um ano;
+
+c) Uma combinação de capital social inicial e de seguro de responsabilidade civil numa forma que resulte num grau de protecção equivalente ao conferido por qualquer uma das alíneas anteriores.
+
+2 - A CMVM pode opor-se à prestação da garantia apresentada nos termos da alínea b) do número anterior, sempre que a mesma não seja de funcionamento automático ou quando o respectivo objecto não revista a extensão ou a natureza que cubra a responsabilidade a que se destina.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 8.º — Informação financeira
+
+As sociedades de consultoria para investimento devem adoptar as normas de contabilidade aplicáveis às empresas de investimento.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 9.º — Autorização de constituição
+
+1 - A constituição de sociedade de consultoria para investimento está sujeita a autorização da CMVM.
+
+2 - O pedido de autorização é instruído com os seguintes elementos:
+
+a) Informações previstas no Regulamento Delegado (UE) 2017/1943 da Comissão, de 14 de julho de 2016, que complementa a Diretiva 2014/65/UE, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, no que diz respeito às normas técnicas de regulamentação sobre a informação e os requisitos para efeitos de autorização das empresas de investimento;
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) Identificação dos membros do órgão de fiscalização;
+
+e) Demonstração do cumprimento dos requisitos patrimoniais;
+
+f) Data previsível para o início de actividade.
+
+g) Indicação sobre se pretende prestar consultoria relativamente a depósitos estruturados, de modo independente ou não.
+
+3 - A concessão de autorização para constituição de sociedade de consultoria para investimento que venha a adotar o tipo de sociedade unipessoal por quotas, depende da verificação das condições previstas no Regulamento Delegado (UE) 2017/1943 da Comissão, de 14 de julho de 2016, que complementa a Diretiva 2014/65/EU, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, no que diz respeito às normas técnicas de regulamentação sobre a informação e os requisitos para efeitos de autorização das empresas de investimento.
+
+4 - Depende de consulta prévia à autoridade de supervisão do Estado membro da União Europeia a concessão de autorização respeitante a sociedade de consultoria para investimento que seja:
+
+a) Sociedade dominada por empresa de investimento autorizada nesse Estado membro, ou sociedade dominada por empresa mãe de empresa de investimento nestas condições, ou dominada pelas mesmas pessoas singulares ou colectivas que dominem uma empresa de investimento autorizada nesse Estado membro;
+
+b) Sociedade dominada por uma instituição de crédito autorizada nesse Estado membro, ou sociedade dominada por empresa mãe de instituição de crédito nestas condições, ou dominada pelas mesmas pessoas singulares ou colectivas que dominem uma instituição de crédito autorizada nesse Estado membro;
+
+c) Sociedade dominada por uma empresa de seguros autorizada nesse Estado membro, ou sociedade dominada por de empresa mãe de empresa de seguros nestas condições, ou dominada pelas mesmas pessoas singulares ou colectivas que dominem uma empresa de seguros autorizada nesse Estado membro.
+
+5 - Para efeitos de apreciação dos requisitos previstos nos artigos 5.º e 6.º, a CMVM troca informações com as autoridades de supervisão referidas no número anterior.
+
+6 - À apreciação, pela CMVM, da adequação dos titulares de participações qualificadas no âmbito do pedido de autorização, aplica-se o disposto no Regulamento Delegado (UE) 2017/1943 da Comissão, de 14 de julho de 2016, que complementa a Diretiva 2014/65/EU, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, no que diz respeito às normas técnicas de regulamentação sobre a informação e os requisitos para efeitos de autorização das empresas de investimento.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 10.º — Concessão e recusa da autorização de constituição
+
+1 - A decisão de concessão da autorização de constituição ou da sua recusa é comunicada ao requerente no prazo de 30 dias contados da data da recepção do pedido ou, se for o caso, da recepção das informações complementares àquele solicitadas.
+
+2 - A autorização é recusada se o requerente não preencher os requisitos previstos no presente decreto-lei ou em regulamento, nomeadamente quando:
+
+a) As insuficiências na instrução do pedido de autorização não forem sanadas no prazo fixado pela CMVM;
+
+b) A instrução do pedido enfermar de inexactidões ou falsidades;
+
+c) A CMVM não considerar demonstrado que se encontram reunidos os requisitos de idoneidade e experiência profissional estabelecidos nos artigos 5.º e 6.º;
+
+d) O requerente não dispuser dos requisitos patrimoniais exigidos;
+
+e) A adequada supervisão da sociedade de consultoria para investimento seja inviabilizada por uma relação de proximidade entre aquela e terceiros;
+
+f) A adequada supervisão da sociedade de consultoria para investimento seja inviabilizada por força de quaisquer disposições legais ou regulamentares de país terceiro a que esteja sujeita qualquer pessoa com a qual a sociedade tenha relação de proximidade ou por dificuldades inerentes à aplicação das mesmas.
+
+g) A adequada supervisão da sociedade de consultoria para investimento seja inviabilizada nos termos do disposto no Regulamento Delegado (UE) 2017/1943 da Comissão, de 14 de julho de 2016, que complementa a Diretiva 2014/65/EU, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, no que diz respeito às normas técnicas de regulamentação sobre a informação e os requisitos para efeitos de autorização das empresas de investimento.
+
+3 - A concessão de autorização implica o registo inicial de actividades referido no artigo 295.º do Código dos Valores Mobiliários.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+###### Artigo 11.º — Revogação e caducidade da autorização de constituição
+
+1 - A CMVM revoga a autorização de constituição com os seguintes fundamentos:
+
+a) Se tiver sido obtida por meio de falsas declarações ou de outros expedientes ilícitos;
+
+b) Se deixar de se verificar algum dos requisitos de que depende a concessão da mesma, e a sociedade não regularizar a situação em prazo que a CMVM determine;
+
+c) Se for exercida pela sociedade actividade não correspondente à registada;
+
+d) Se a sociedade cessar a actividade ou esta se reduzir para um nível insignificante por período superior a 12 meses;
+
+e) Se se verificarem irregularidades graves na administração, organização contabilística ou fiscalização interna da sociedade;
+
+f) Se a sociedade violar as normas que disciplinam a sua actividade.
+
+2 - A revogação da autorização implica a dissolução e a liquidação da sociedade.
+
+3 - A autorização caduca se a sociedade expressamente a ela renunciar ou se não iniciar actividade no prazo de 12 meses após a sua constituição.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 12.º — Avaliação prudencial
+
+1 - Quem, directa ou indirectamente, pretenda adquirir participação qualificada em sociedade de consultoria para investimento comunica previamente à CMVM o seu projecto de aquisição.
+
+2 - O disposto no número anterior é igualmente aplicável aos casos em que se pretenda aumentar a participação qualificada que determinada pessoa já detenha, de tal modo que a percentagem dos seus direitos de voto ou do capital que detenha atinja ou ultrapasse 10 %, 20 %, um terço ou 50 %, ou em que, por outro motivo, se estabeleça uma relação de domínio com a sociedade de consultoria para investimento.
+
+3 - A comunicação prévia de projetos de aquisição ou aumento de participação qualificada deve ser acompanhada, consoante aplicável, das informações previstas no Regulamento Delegado (UE) 2017/1946 da Comissão, de 11 de julho de 2017 que complementa a Diretiva 2014/65/EU, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, no que diz respeito às normas técnicas de regulamentação para uma lista exaustiva das informações a incluir pelos adquirentes potenciais na notificação de uma proposta de aquisição de participação qualificada em empresa de investimento.
+
+4 - No prazo de dois dias úteis a contar da data de recepção da comunicação prevista nos n.os 1 e 2, a CMVM informa, por escrito, ao proposto adquirente a recepção da mesma e a data do termo do prazo de apreciação.
+
+5 - Em alternativa ao disposto no número anterior, se a comunicação prevista nos n.os 1 e 2 não estiver instruída com os elementos e informações que a devem acompanhar, a CMVM informa, por escrito e no prazo de dois dias úteis a contar da sua recepção, o proposto adquirente dos elementos em falta.
+
+6 - Sem prejuízo do disposto no presente decreto-lei, ao processo de apreciação pela CMVM das condições que garantam uma gestão sã e prudente das sociedades de consultoria para investimento é aplicável, com as devidas adaptações, o artigo 103.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.
+
+7 - Os actos mediante os quais seja concretizada a aquisição ou o aumento de participação qualificada sujeitos a comunicação prévia devem ser comunicados à CMVM pelos participantes, no prazo de 15 dias.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 12.º-A — Inibição de direitos de voto
+
+1 - A aquisição ou o reforço de participação qualificada, nos termos previstos no artigo 12.º, determina a inibição do exercício dos direitos de voto inerentes à participação na medida necessária para impedir o adquirente de exercer na sociedade, através do voto, influência superior àquela que detinha antes da aquisição ou do reforço da participação, desde que se verifique alguma das seguintes situações:
+
+a) Não ter o adquirente cumprido a obrigação de comunicação prevista no n.º 1 do artigo 12.º;
+
+b) Ter o adquirente adquirido ou aumentado a sua participação depois de ter cumprido a comunicação prevista no n.º 1 do artigo 12.º, mas antes de a CMVM se ter pronunciado;
+
+c) Ter-se a CMVM oposto ao projecto de aquisição ou de aumento de participação qualificada.
+
+2 - O incumprimento do dever de comunicação previsto no n.º 7 do artigo 12.º determina a inibição dos direitos de voto, até à realização da comunicação em falta.
+
+3 - A CMVM pode determinar a inibição do exercício dos direitos de voto inerentes à participação em causa com fundamento em factos relevantes de que tome conhecimento após a constituição ou aumento de participação qualificada e que criem o receio fundado de que a influência exercida pelo detentor de participação qualificada pode prejudicar a gestão sã e prudente da sociedade participada.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 11.º do/a [Lei n.º 35/2018 - Diário da República n.º 139/2018, Série I de 2018-07-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2018-115740680), em vigor a partir de 2018-08-01
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 12.º-B — Regime especial de invalidade de deliberações
+
+1 - Sempre que a CMVM ou o órgão de administração da sociedade de consultoria para investimento tenham conhecimento de alguma situação de inibição de exercício de direitos de voto, nos termos do disposto no artigo anterior, deve comunicar imediatamente esse facto ao presidente da mesa da assembleia geral da sociedade, devendo este actuar de forma a impedir o exercício dos direitos de voto inibidos.
+
+2 - São anuláveis as deliberações sociais tomadas com base em votos inibidos, salvo se se provar que a deliberação teria sido adoptada sem aqueles votos.
+
+3 - A anulabilidade da deliberação pode ser arguida nos termos gerais ou, ainda, pela CMVM.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 12.º-C — Cooperação
+
+1 - A CMVM solicita o parecer da autoridade competente do Estado membro de origem, caso o proposto adquirente corresponda a um dos seguintes tipos de entidades:
+
+a) Instituição de crédito, empresa de seguros, empresa de resseguros, empresa de investimento ou entidade gestora de organismos de investimento colectivo em valores mobiliários, na acepção do n.º 2 do artigo 1.º-A da Directiva n.º 85/611/CEE, do Conselho, de 20 de Dezembro, autorizada noutro Estado membro;
+
+b) Empresa mãe de uma entidade referida na alínea anterior;
+
+c) Pessoa singular ou colectiva que controla uma entidade referida na alínea a).
+
+2 - A CMVM solicita o parecer do Banco de Portugal ou do Instituto de Seguros de Portugal, caso o proposto adquirente corresponda a um dos tipos de entidades previstas no número anterior, autorizadas em Portugal, respectivamente, pelo Banco de Portugal ou pelo Instituto de Seguros de Portugal.
+
+3 - Perante a recepção de pedido de parecer de outra autoridade competente, a CMVM comunica as informações essenciais à apreciação de projectos de aquisição de participações qualificadas, assim como, caso venham a ser solicitadas, outras informações relevantes.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 12.º-D — Diminuição da participação
+
+1 - A pessoa singular ou colectiva que pretenda deixar de deter participação qualificada numa sociedade de consultoria para investimento, ou diminuí-la de tal modo que a percentagem de direitos de voto ou de capital de que seja titular desça a nível inferior a qualquer dos limiares de 20 %, um terço ou 50 %, ou de tal modo que deixe de se verificar uma relação de domínio com a sociedade de consultoria para investimento, deve informar previamente a CMVM e comunicar-lhe o novo montante previsto da sua participação.
+
+2 - Os actos mediante os quais seja concretizada a alienação ou diminuição de participação qualificada sujeitos a comunicação prévia, devem ser comunicados à CMVM pelos participantes, no prazo de 15 dias.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 12.º-E — Comunicação pela sociedade de consultoria para investimento
+
+A sociedade de consultoria para investimento comunica à CMVM, logo que delas tenha conhecimento, as alterações a que se referem os artigos 12.º e 12.º-D.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 13.º — Comunicação de membros dos órgãos de administração e de fiscalização
+
+1 - A designação de membros dos órgãos de administração e fiscalização deve ser comunicada à CMVM pela sociedade de consultoria para investimento até 15 dias após a sua ocorrência.
+
+2 - A sociedade de consultoria de investimento ou qualquer interessado pode comunicar à CMVM a intenção de designação de membros dos órgãos de administração ou fiscalização daquela.
+
+3 - A CMVM pode deduzir oposição àquela designação ou intenção de designação, com fundamento na falta de idoneidade, qualificação profissional ou disponibilidade, no prazo de 30 dias após ter recebido a comunicação da identificação da pessoa em causa.
+
+4 - Os membros do órgão de administração ou fiscalização não podem iniciar o exercício daquelas funções antes de decorrido o prazo referido no número anterior.
+
+5 - A dedução de oposição com fundamento em falta de idoneidade ou experiência dos membros do órgão de administração ou fiscalização é comunicada aos interessados e à sociedade de consultoria para investimento.
+
+6 - A falta de comunicação à CMVM ou o exercício de funções antes de decorrido o prazo de oposição não determina a invalidade dos actos praticados pela pessoa em causa no exercício das suas funções.
+
+7 - Caso deixe de se verificar, por facto superveniente ou não conhecido pela CMVM à data do acto de não oposição, o requisito de idoneidade, a CMVM deve notificar a sociedade de consultoria para investimento para, de imediato, pôr termo às funções das pessoas em causa e, no prazo que seja fixado, promover a respectiva substituição.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 52/2010 - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2010-332702), em vigor a partir de 2010-05-27
+
+###### Artigo 14.º — Outras comunicações
+
+A sociedade de consultoria para investimento deve comunicar à CMVM, no prazo de 30 dias após a sua ocorrência:
+
+a) As alterações ao objecto social, à sede, ao capital social e ao capital realizado;
+
+b) O lugar e a data de criação de sucursais e agências;
+
+c) Os acordos parassociais de que tenha conhecimento.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 15.º — Actividade transfronteiriça
+
+Às sociedades de consultoria para investimento sedeadas em Portugal que pretendam exercer a sua actividade em outro Estado membro da União Europeia, bem como àquelas que sediadas em Estado membro da União Europeia pretendam exercer a sua actividade em Portugal, aplicam-se, respectivamente, com as necessárias adaptações, as disposições constantes dos artigos 199.º-D e 199.º-E do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, sendo que as notificações, comunicações e demais procedimentos que se mostrem exigíveis para a satisfação da pretensão das requerentes correm os seus termos junto da Comissão do Mercado de Valores Mobiliários.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 16.º — Supervisão prudencial
+
+As sociedades de consultoria para investimento estão sujeitas à supervisão prudencial da CMVM.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 17.º — Regulamentação
+
+A CMVM determina, por regulamento:
+
+a) Os elementos que instruem o pedido de autorização de constituição de sociedade de consultoria para investimento e os respectivos procedimentos;
+
+b) Os elementos exigíveis para a apreciação dos requisitos de idoneidade e de experiência profissional previstos nos artigos 5.º e 6.º;
+
+c) Os requisitos e procedimentos para aferição da qualificação profissional daqueles que efectivamente prestam o serviço de consultoria;
+
+d) O modo de apresentação e de divulgação da informação financeira da sociedade;
+
+e) Os requisitos prudenciais aplicáveis, nomeadamente os relativos à adequação de fundos próprios.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia 1 de Novembro de 2007.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01
+
+Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2007. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
+
+Promulgado em 22 de Outubro de 2007.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 25 de Outubro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 109-H/2021 - Diário da República n.º 238/2021, 2º Suplemento, Série I de 2021-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-h-2021-175744218), em vigor a partir de 2022-02-01

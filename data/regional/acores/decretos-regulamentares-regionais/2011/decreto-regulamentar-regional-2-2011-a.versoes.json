@@ -1,0 +1,690 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:280074:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2011-871074383",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/2-2011-280074",
+ "source_lastmod": "2024-07-05",
+ "versions": [
+  {
+   "date": "2011-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "871044607",
+    "871044608",
+    "871044609",
+    "871044611",
+    "871044612",
+    "871044613",
+    "871044614",
+    "871044615",
+    "871044616",
+    "871044617",
+    "871044618",
+    "871044619",
+    "871044620",
+    "871044621",
+    "871044622",
+    "871044623",
+    "871044624",
+    "871044625",
+    "871044626",
+    "871044627",
+    "871044628",
+    "871044629",
+    "871044630",
+    "871044631",
+    "871044632",
+    "871044633",
+    "871044634",
+    "871044635",
+    "871044636",
+    "871044637",
+    "871044638",
+    "871044639",
+    "871044640",
+    "871044641",
+    "871044642",
+    "871044643",
+    "871044644",
+    "871044645",
+    "871044646",
+    "871044647",
+    "871044648",
+    "871044649",
+    "871044650",
+    "871044651",
+    "871044652",
+    "871044653",
+    "871044654",
+    "871044655",
+    "871044656",
+    "871044657",
+    "871044658",
+    "871044659",
+    "871044660",
+    "871044661",
+    "871044662",
+    "871044663",
+    "871044664",
+    "871044665"
+   ]
+  },
+  {
+   "date": "2024-07-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:871074379:por",
+     "title": "Decreto Regulamentar Regional n.º 10/2024/A",
+     "published": "2024-07-05",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 40.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "871044607",
+    "871044608",
+    "871044609",
+    "871044610",
+    "871044611",
+    "871044612",
+    "871105132",
+    "871044614",
+    "871044615",
+    "871044616",
+    "871044617",
+    "871044618",
+    "871044619",
+    "871044620",
+    "871044621",
+    "871044622",
+    "871044623",
+    "871044624",
+    "871044625",
+    "871044626",
+    "871044627",
+    "871105137",
+    "871105133",
+    "871044630",
+    "871044631",
+    "871044632",
+    "871044633",
+    "871044634",
+    "871044635",
+    "871044636",
+    "871044637",
+    "871044638",
+    "871044639",
+    "871044640",
+    "871044641",
+    "871044642",
+    "871044643",
+    "871044644",
+    "871044645",
+    "871044646",
+    "871044647",
+    "871044648",
+    "871044649",
+    "871044650",
+    "871044651",
+    "871044652",
+    "871044653",
+    "871044654",
+    "871044655",
+    "871044656",
+    "871105134",
+    "871044658",
+    "871044659",
+    "871105135",
+    "871044661",
+    "871105136",
+    "871044663",
+    "871044664",
+    "871044665"
+   ]
+  }
+ ],
+ "fragments": {
+  "871044607": {
+   "fragment_id": "871074384",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 2/2011/A\n\nUnidade de Saúde da Ilha Graciosa\n\nOrgânica e quadro de pessoal\n\nO Programa do X Governo Regional dos Açores prevê a implementação de medidas que prossigam com a racionalização dos recursos, procedendo-se a alterações estratégicas da estrutura do Serviço Regional de Saúde.\n\nO Estatuto do Serviço Regional de Saúde, que foi aprovado pelo Decreto Legislativo Regional n.º 28/99/A, de 31 de Julho, alterado e republicado pelo Decreto Legislativo Regional n.º 1/2010/A, de 4 de Janeiro, prevê a existência de unidades de saúde de ilha e, tendo em conta aquele normativo, foram criadas as unidades de saúde das ilhas do Pico e de São Jorge.\n\nCom o presente diploma, pretende-se consolidar a estrutura organizativa e o funcionamento dos serviços de modo a obter ganhos de eficácia e eficiência na gestão das unidades de saúde de ilha, no caso concreto na Unidade de Saúde da Ilha Graciosa.\n\nNos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, e ao abrigo do disposto no n.º 7 do artigo 6.º do Decreto Legislativo Regional n.º 28/99/A, de 31 de Julho, alterado e republicado pelo Decreto Legislativo Regional n.º 1/2010/A, de 4 de Janeiro, o Governo Regional decreta o seguinte:"
+  },
+  "871044608": {
+   "fragment_id": "871074385",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É aprovada a orgânica da Unidade de Saúde da Ilha Graciosa, que constitui o anexo i do presente diploma, do qual faz parte integrante.\n\n2 - O quadro de pessoal dirigente e de chefia da Unidade de Saúde da Ilha Graciosa constitui o anexo ii do presente diploma, do qual faz parte integrante."
+  },
+  "871044609": {
+   "fragment_id": "871074386",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação."
+  },
+  "871044611": {
+   "fragment_id": "871074388",
+   "type": 14,
+   "heading": "Anexo I — Orgânica da Unidade de Saúde da Ilha Graciosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Orgânica da Unidade de Saúde da Ilha Graciosa"
+  },
+  "871044612": {
+   "fragment_id": "871074389",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e atribuições"
+  },
+  "871044613": {
+   "fragment_id": "871074390",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Unidade de Saúde da Ilha Graciosa, doravante USIGraciosa, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, nos termos da lei.\n\n2 - A USIGraciosa é constituída pelo Centro de Saúde de Santa Cruz da Graciosa.\n\n3 - A USIGraciosa exerce a sua actividade sob a superintendência e tutela do membro do Governo Regional com competência na área da saúde.\n\n4 - A coordenação, orientação e avaliação do funcionamento da USIGraciosa compete à direcção regional competente em matéria de saúde, sem prejuízo das competências legalmente cometidas à SAUDAÇOR - Sociedade Gestora de Recursos e Equipamentos da Saúde dos Açores, S. A., e à Inspecção Regional de Saúde."
+  },
+  "871044614": {
+   "fragment_id": "871074391",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - A USIGraciosa tem como missão a promoção da saúde na sua área geográfica, através de acções de educação para a saúde, prevenção e prestação de cuidados na doença.\n\n2 - Pode ainda a USIGraciosa prestar cuidados de saúde diferenciados e desenvolver actividades de vigilância epidemiológica, de formação profissional, de investigação em cuidados de saúde, de melhoria da qualidade dos cuidados e de avaliação dos resultados da sua actividade."
+  },
+  "871044615": {
+   "fragment_id": "871074392",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito geográfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito geográfico\n\nA USIGraciosa exerce as suas atribuições no âmbito geográfico da ilha Graciosa sem prejuízo da sua participação no planeamento e gestão do Serviço Regional de Saúde e da articulação da sua actividade com os hospitais, com as USI das outras ilhas e com outras instituições do Serviço Regional de Saúde ou que com ele se relacionem."
+  },
+  "871044616": {
+   "fragment_id": "871074393",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito pessoal\n\nA acção da USIGraciosa dirige-se aos indivíduos, famílias, grupos e comunidade residentes na mesma ilha e aos nela deslocados temporariamente."
+  },
+  "871044617": {
+   "fragment_id": "871074394",
+   "type": 11,
+   "heading": "Artigo 5.º — Extensão de âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Extensão de âmbito\n\nO membro do Governo Regional competente na área da saúde pode determinar a extensão do âmbito territorial ou pessoal da USIGraciosa em acções que se mostrem necessárias, nomeadamente por motivo de catástrofe ou de fenómenos migratórios."
+  },
+  "871044618": {
+   "fragment_id": "871074395",
+   "type": 11,
+   "heading": "Artigo 6.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cooperação\n\nA USIGraciosa coopera com as unidades de saúde das outras ilhas, com outras instituições do Serviço Regional de Saúde e com quaisquer entidades que tenham objectivos convergentes com os da saúde, nomeadamente nas áreas da educação e da acção social."
+  },
+  "871044619": {
+   "fragment_id": "871074396",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos, serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos, serviços e suas competências"
+  },
+  "871044620": {
+   "fragment_id": "871074397",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "871044621": {
+   "fragment_id": "871074398",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\nSão órgãos da USIGraciosa, com as competências previstas no presente diploma, os seguintes:\n\na) Conselho de administração;\n\nb) Conselho consultivo;\n\nc) Conselho técnico."
+  },
+  "871044622": {
+   "fragment_id": "871074399",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviços\n\nA USIGraciosa integra os serviços seguintes, que actuam nos termos previstos no presente diploma:\n\na) Serviço de prestação de cuidados de saúde;\n\nb) Serviços administrativos."
+  },
+  "871044623": {
+   "fragment_id": "871074400",
+   "type": 8,
+   "heading": "Secção II — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Órgãos"
+  },
+  "871044624": {
+   "fragment_id": "871074401",
+   "type": 3,
+   "heading": "Subsecção I — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Conselho de administração"
+  },
+  "871044625": {
+   "fragment_id": "871074402",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição\n\nO conselho de administração é integrado por um presidente e dois vogais, todos com funções executivas, nomeados pelo membro do Governo Regional com competência em matéria de saúde de entre profissionais com habilitação adequada nos termos previstos no presente diploma."
+  },
+  "871044626": {
+   "fragment_id": "871074403",
+   "type": 11,
+   "heading": "Artigo 10.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Presidente\n\n1 - O presidente do conselho de administração é nomeado em comissão de serviço, nos termos legais, pelo período de três anos, renovável, de entre trabalhadores com funções públicas ou de entre outros profissionais, com habilitação académica não inferior a licenciatura, preferencialmente com currículo profissional que identifique experiência relacionada com a direcção ou apoio à gestão de organizações com dimensão e complexidade semelhantes.\n\n2 - A remuneração do presidente do conselho de administração é fixada por despacho dos membros do Governo Regional com competência em matéria de finanças e de saúde.\n\n3 - É aplicável à comissão de serviço o regime constante na legislação em vigor."
+  },
+  "871044627": {
+   "fragment_id": "871074404",
+   "type": 11,
+   "heading": "Artigo 11.º — Vogais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vogais\n\n1 - Os vogais com funções executivas são nomeados em comissão de serviço, nos termos legais, pelo período de três anos, renovável, de entre trabalhadores com funções públicas ou de entre outros trabalhadores, preferencialmente, com comprovada experiência relacionada com a direcção ou apoio à gestão de organizações com dimensão e complexidade semelhantes.\n\n2 - Os vogais com funções executivas do conselho de administração exercem as funções correspondentes em acumulação ou não com as respeitantes às respectivas carreiras, quando as tenham, sendo as suas remunerações estabelecidas por despacho dos membros do Governo Regional com competência em matéria de finanças e de saúde.\n\n3 - É aplicável à comissão de serviço o regime constante na legislação em vigor."
+  },
+  "871044628": {
+   "fragment_id": "871074405",
+   "type": 11,
+   "heading": "Artigo 12.º — Acumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acumulação\n\nOs membros do conselho de administração assumem as funções previstas nos artigos 30.º e 31.º, sempre que se trate de profissionais das respectivas carreiras."
+  },
+  "871044629": {
+   "fragment_id": "871074406",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências do conselho de administração\n\n1 - Compete, nomeadamente, ao conselho de administração:\n\na) Dentro das linhas orientadoras definidas para o Serviço Regional de Saúde, gerir os recursos humanos, materiais e financeiros colocados à sua disposição;\n\nb) Assegurar a prestação de cuidados de saúde à população da sua área de intervenção;\n\nc) Aprovar o Regulamento da USIGraciosa;\n\nd) Definir as directrizes orientadoras da gestão e funcionamento da USIGraciosa e assegurar o seu cumprimento;\n\ne) Elaborar o plano anual de actividades e o orçamento;\n\nf) Elaborar o plano plurianual e o respectivo orçamento previsional;\n\ng) Elaborar o relatório anual de actividades e a conta de gerência;\n\nh) Assegurar a articulação entre os diversos serviços da USIGraciosa;\n\ni) Planear e coordenar as actividades de prestação de cuidados de saúde;\n\nj) Celebrar contratos-programa com a SAUDAÇOR, S. A., protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas actividades e visando atingir os seus objectivos;\n\nk) Promover a formação do pessoal;\n\nl) Determinar medidas adequadas sobre as reclamações e queixas dos utentes;\n\nm) Avaliar sistematicamente o desempenho global do funcionamento da USIGraciosa.\n\n2 - O conselho de administração exerce também as seguintes competências, que pode delegar no seu presidente, com possibilidade de subdelegação nos vogais com funções executivas:\n\na) Gerir os recursos humanos, financeiros, materiais e patrimoniais da USIGraciosa;\n\nb) Promover a cobrança e arrecadação das receitas;\n\nc) Autorizar a realização de despesas e o seu pagamento;\n\nd) Promover a organização da contabilidade e o cadastro dos bens;\n\ne) Contratar a prestação de serviços com terceiros.\n\n3 - O conselho de administração pode delegar nos vogais, na direcção clínica e na de enfermagem as competências para orientar e coordenar projectos, programas e sectores de actividade específicos, tendo em conta as respectivas áreas de recrutamento."
+  },
+  "871044630": {
+   "fragment_id": "871074407",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências do presidente\n\nCompete em especial ao presidente do conselho de administração:\n\na) Representar a USIGraciosa em juízo e fora dele;\n\nb) Coordenar a actividade do conselho de administração;\n\nc) Convocar e presidir às reuniões do conselho de administração;\n\nd) Assegurar a correcta execução das deliberações do conselho de administração;\n\ne) Praticar os actos cuja competência lhe seja atribuída por lei, regulamento ou por delegação."
+  },
+  "871044631": {
+   "fragment_id": "871074408",
+   "type": 3,
+   "heading": "Subsecção II — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Conselho consultivo"
+  },
+  "871044632": {
+   "fragment_id": "871074409",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conselho consultivo\n\nO conselho consultivo é um órgão de participação junto do conselho de administração da USIGraciosa."
+  },
+  "871044633": {
+   "fragment_id": "871074410",
+   "type": 11,
+   "heading": "Artigo 16.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição\n\nO conselho consultivo terá a seguinte composição:\n\na) Dois representantes da Assembleia Municipal, por ela designados;\n\nb) O presidente da Câmara Municipal ou quem por ele for designado;\n\nc) Um representante da/de cada uma da(s) misericórdia(s) com sede na ilha, por essa(s) entidade(s) designado;\n\nd) Um representante da(s) instituição(ões) particular(es) de solidariedade social sediada(s) na ilha, por ela(s) designado;\n\ne) O presidente do conselho de administração da USIGraciosa;\n\nf) Os vogais do conselho de administração da USIGraciosa."
+  },
+  "871044634": {
+   "fragment_id": "871074411",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências e funcionamento\n\n1 - Compete ao conselho consultivo, por sua iniciativa ou a solicitação dos órgãos de tutela do Serviço Regional de Saúde, nomeadamente do membro do Governo Regional competente em matéria de saúde ou do director regional competente na mesma matéria:\n\na) Emitir parecer sobre os planos e relatórios de actividades da USIGraciosa;\n\nb) Pronunciar-se sobre o funcionamento dos serviços de saúde na ilha e sobre quaisquer outras matérias relacionadas com os serviços de saúde;\n\nc) Aprovar o regulamento interno de funcionamento do conselho consultivo e submetê-lo a homologação do membro do Governo Regional com competência em matéria de saúde.\n\n2 - O conselho consultivo elege o seu presidente, por voto secreto, de entre os seus membros que não sejam trabalhadores com funções públicas do Serviço Regional de Saúde, dispondo o presidente de voto de qualidade.\n\n3 - O conselho consultivo reunirá anual ou extraordinariamente, por convocatória do seu presidente."
+  },
+  "871044635": {
+   "fragment_id": "871074412",
+   "type": 3,
+   "heading": "Subsecção III — Conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Conselho técnico"
+  },
+  "871044636": {
+   "fragment_id": "871074413",
+   "type": 11,
+   "heading": "Artigo 18.º — Conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conselho técnico\n\nO conselho técnico é um órgão de consulta e de apoio técnico da USIGraciosa."
+  },
+  "871044637": {
+   "fragment_id": "871074414",
+   "type": 11,
+   "heading": "Artigo 19.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Composição\n\nO conselho técnico tem a seguinte composição:\n\na) O presidente do conselho de administração da USIGraciosa;\n\nb) Os vogais do conselho de administração da USIGraciosa;\n\nc) Os directores clínicos e de enfermagem;\n\nd) Um representante dos técnicos superiores de saúde;\n\ne) Um representante dos técnicos de diagnóstico e terapêutica;\n\nf) Um representante dos técnicos superiores de serviço social."
+  },
+  "871044638": {
+   "fragment_id": "871074415",
+   "type": 11,
+   "heading": "Artigo 20.º — Competências e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências e funcionamento\n\n1 - Compete ao conselho técnico, designadamente:\n\na) Cooperar com o conselho de administração da USIGraciosa e com as direcções técnicas das entidades prestadoras de cuidados de saúde;\n\nb) Pronunciar-se, por iniciativa própria ou por solicitação dos órgãos referidos na alínea anterior, sobre as matérias da sua competência, nomeadamente visando fomentar a articulação entre as entidades prestadoras de cuidados de saúde, harmonizar a actividade dos diferentes prestadores de cuidados e estimular a eficiência na utilização dos recursos humanos e financeiros disponíveis numa lógica de optimização, por forma a promover uma actuação técnica dentro de parâmetros de qualidade, no respeito pelos princípios da ética e da deontologia;\n\nc) Aprovar o regulamento interno de funcionamento do conselho técnico e submetê-lo a homologação do membro do Governo Regional com competência em matéria de saúde.\n\n2 - O conselho técnico elege o seu presidente, por voto secreto, de entre os seus membros, dispondo o presidente de voto de qualidade.\n\n3 - O conselho técnico reúne ordinariamente uma vez por mês, devendo as suas reuniões ser convocadas pelo seu presidente, com a antecedência mínima de cinco dias.\n\n4 - O conselho técnico pode também reunir por iniciativa de, pelo menos, metade dos seus membros."
+  },
+  "871044639": {
+   "fragment_id": "871074416",
+   "type": 8,
+   "heading": "Secção III — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Serviços"
+  },
+  "871044640": {
+   "fragment_id": "871074417",
+   "type": 3,
+   "heading": "Subsecção I — Serviço de prestação de cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Serviço de prestação de cuidados de saúde"
+  },
+  "871044641": {
+   "fragment_id": "871074418",
+   "type": 11,
+   "heading": "Artigo 21.º — Atribuições e organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Atribuições e organização\n\nDentro das linhas orientadoras definidas para o Serviço Regional de Saúde, o serviço de prestação de cuidados de saúde da USIGraciosa efectiva a prestação de cuidados de saúde à população da sua área de influência, promovendo, nomeadamente:\n\na) A vigilância e a melhoria da saúde do indivíduo, da família e da comunidade;\n\nb) A informação da população sobre as indispensáveis noções básicas de saúde e de prevenção da doença, motivando e estimulando a participação activa da população;\n\nc) A profilaxia e controlo das doenças transmissíveis, assegurando, nomeadamente, o fornecimento e a administração de vacinas;\n\nd) A vigilância da qualidade do saneamento básico, da higiene do meio e dos alimentos;\n\ne) A supervisão, directa e periódica, do estado de saúde de utentes em especial situação de risco, tais como grávidas, puérperas e mães que amamentam, crianças e idosos, bem como determinados grupos profissionais;\n\nf) A garantia do acompanhamento periódico dos utentes que sofram de doenças crónicas, tais como diabetes, doenças cardiovasculares, tuberculose, alcoolismo e outras que localmente for julgado necessário;\n\ng) A realização do diagnóstico, tão precoce quanto possível, e tratamento das doenças agudas e crónicas que não careçam de cuidados hospitalares, quer em regime ambulatório quer em regime de internamento;\n\nh) O encaminhamento directo para os serviços prestadores de cuidados hospitalares dos casos que excedam a sua capacidade de intervenção, assegurando o seu subsequente acompanhamento;\n\ni) O atendimento ou, quando necessário, o encaminhamento para serviços prestadores de cuidados hospitalares, das situações urgentes de doença ou acidente, assegurando o subsequente acompanhamento;\n\nj) O atendimento personalizado, exercido no âmbito dos cuidados essenciais de saúde;\n\nk) O exercício da actividade de educação para a saúde;\n\nl) A realização de estudos epidemiológicos."
+  },
+  "871044642": {
+   "fragment_id": "871074419",
+   "type": 11,
+   "heading": "Artigo 22.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Funcionamento\n\n1 - Cada profissional afecto ao serviço de prestação de cuidados de saúde pode ser incumbido do exercício programado de acções relativas aos vários sectores por que se organiza o serviço.\n\n2 - Para o eficaz exercício das atribuições do serviço de prestação de cuidados de saúde serão constituídas equipas multidisciplinares compostas por pessoal médico, de enfermagem e outros profissionais de saúde, de acordo com a natureza das actividades a desenvolver e os recursos disponíveis.\n\n3 - O acesso de utentes da USIGraciosa à consulta externa e, sempre que possível, aos serviços de urgência hospitalares depende de triagem prévia e referência a efectuar por aquela unidade de saúde.\n\n4 - Os Hospitais de Angra do Heroísmo, Horta e Ponta Delgada promoverão a deslocação dos respectivos médicos às unidades de saúde, onde, nos termos da regulamentação aplicável, assegurarão, em cooperação com os profissionais da USIGraciosa, o exercício de actividades do domínio da consulta externa hospitalar para observação de doentes previamente referenciados pelos médicos da unidade de saúde.\n\n5 - Quando, na sequência do recurso de um utente aos serviços da USIGraciosa, se verifique a necessidade de assegurar o recurso ao ambulatório ou ao internamento especializado numa das unidades hospitalares da Região, deve a própria unidade de saúde procurar assegurar todas as marcações necessárias e continuar a acompanhar o doente."
+  },
+  "871044643": {
+   "fragment_id": "871074420",
+   "type": 11,
+   "heading": "Artigo 23.º — Educação para a saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Educação para a saúde\n\nA educação para a saúde é uma actividade primordial da unidade de saúde, a relevar por todos os profissionais de saúde na sua relação directa com os utentes, devendo ainda, e nomeadamente, ser promovidas acções tendentes a:\n\na) Divulgar noções destinadas a sensibilizar o indivíduo, a família e a comunidade a promover e alcançar a saúde por meio dos seus próprios actos e esforços, difundindo as noções básicas de um estilo saudável;\n\nb) Promover e difundir as medidas tendentes à melhor utilização dos serviços de saúde pela população;\n\nc) Fomentar a participação da comunidade na prossecução dos objectivos da política de saúde."
+  },
+  "871044644": {
+   "fragment_id": "871074421",
+   "type": 11,
+   "heading": "Artigo 24.º — Unidades funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Unidades funcionais\n\n1 - Para os efeitos previstos no artigo anterior, o serviço de prestação de cuidados de saúde integra as seguintes unidades funcionais:\n\na) Unidade de saúde familiar e comunitária;\n\nb) Unidade de saúde pública;\n\nc) Unidade de diagnóstico e tratamento;\n\nd) Unidade de internamento;\n\ne) Unidade básica de urgência.\n\n2 - As unidades funcionais partilham as instalações, equipamentos e recursos humanos da USIGraciosa, em conformidade com o estabelecido no presente diploma e com as determinações do conselho de administração."
+  },
+  "871044645": {
+   "fragment_id": "871074422",
+   "type": 11,
+   "heading": "Artigo 25.º — Unidade de saúde familiar e comunitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Unidade de saúde familiar e comunitária\n\n1 - A unidade de saúde familiar e comunitária presta cuidados de saúde personalizados, dirigidos à população identificada através de listas de utentes, de modo a garantir facilidade de acesso, continuidade e globalidade dos mesmos.\n\n2 - No âmbito da saúde comunitária, presta cuidados de enfermagem e de apoio psicossocial, incluindo o domicílio dos utentes, com especial incidência no acompanhamento de comunidades e famílias com situações de risco ou vulnerabilidade em saúde, nomeadamente grávidas, recém-nascidos, pessoas com acentuada dependência física e funcional ou com doenças que requeiram acompanhamento mais próximo e regular.\n\n3 - A actividade da unidade de saúde familiar e comunitária é desenvolvida por médicos, enfermeiros, outros técnicos superiores e técnicos e pessoal administrativo."
+  },
+  "871044646": {
+   "fragment_id": "871074423",
+   "type": 11,
+   "heading": "Artigo 26.º — Unidade de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Unidade de saúde pública\n\n1 - A unidade de saúde pública organiza e assegura actividades no âmbito da protecção e promoção da saúde da comunidade, com incidência prioritária no meio ambiente, em geral, em meios específicos como as escolas e os locais de trabalho, bem como a prestação de cuidados de âmbito comunitário, designadamente no que se refere a grupos populacionais particularmente vulneráveis e problemas de saúde de grande impacte social.\n\n2 - Compete também à unidade de saúde pública o planeamento e a vigilância epidemiológica da saúde da população e dos seus determinantes e prestar colaboração em todas as actividades relativas ao planeamento em saúde.\n\n3 - A unidade de saúde pública abrange ainda o exercício dos poderes legalmente atribuídos às autoridades de saúde concelhia, nos termos e com os efeitos na legislação vigente sobre esta matéria.\n\n4 - A actividade da unidade de saúde pública é desenvolvida, nomeadamente, por médicos de saúde pública, enfermeiros, de preferência de saúde comunitária, técnicos de higiene e saúde ambiental e outros com habilitações adequadas, além de pessoal administrativo."
+  },
+  "871044647": {
+   "fragment_id": "871074424",
+   "type": 11,
+   "heading": "Artigo 27.º — Unidade de diagnóstico e tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Unidade de diagnóstico e tratamento\n\nA unidade de diagnóstico e tratamento integra os recursos técnicos disponíveis da USIGraciosa, prestando apoio às restantes unidades funcionais."
+  },
+  "871044648": {
+   "fragment_id": "871074425",
+   "type": 11,
+   "heading": "Artigo 28.º — Unidade de internamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Unidade de internamento\n\n1 - A unidade de internamento presta cuidados de saúde em internamento, tendo como principais destinatários:\n\na) Doentes com doença aguda, necessitando de cuidados e vigilância que não possam ser garantidos no domicílio;\n\nb) Doentes em situação de agudização de doenças crónicas;\n\nc) Doentes em fase de reabilitação, após doença aguda ou agudização de doença crónica;\n\nd) Doentes convalescentes com altas hospitalares precoces;\n\ne) Doentes necessitados de cuidados paliativos, sem condições para serem tratados no próprio domicílio.\n\n2 - A actividade da unidade de internamento é desenvolvida por médicos, enfermeiros, pessoal administrativo e auxiliar e outros técnicos afectos para o efeito."
+  },
+  "871044649": {
+   "fragment_id": "871074426",
+   "type": 11,
+   "heading": "Artigo 29.º — Unidade básica de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Unidade básica de urgência\n\n1 - A unidade básica de urgência presta cuidados de saúde com carácter urgente.\n\n2 - A actividade da unidade básica de urgência é desenvolvida por médicos, enfermeiros, pessoal administrativo e auxiliar e outros técnicos afectados para o efeito, de acordo com as necessidades."
+  },
+  "871044650": {
+   "fragment_id": "871074427",
+   "type": 11,
+   "heading": "Artigo 30.º — Direcções clínica e de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Direcções clínica e de enfermagem\n\nA USIGraciosa dispõe de direcções clínica e de enfermagem."
+  },
+  "871044651": {
+   "fragment_id": "871074428",
+   "type": 11,
+   "heading": "Artigo 31.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Funcionamento\n\n1 - A direcção clínica promove o funcionamento harmonioso das valências clínicas, coordena e orienta a prestação de cuidados médicos para garantir a acessibilidade dos utentes aos serviços de saúde e zela pela qualidade desses actos praticados na instituição.\n\n2 - A direcção de enfermagem orienta e coordena a prestação de cuidados de enfermagem, zelando pela correcção e pela qualidade técnica e humana desses cuidados prestados na instituição.\n\n3 - A direcção clínica e a de enfermagem exercem, nas respectivas áreas, as competências legalmente atribuídas, assim como as que lhes sejam delegadas ou subdelegadas nos termos do presente diploma.\n\n4 - O médico e o enfermeiro responsáveis pela direcção clínica e pela de enfermagem, respectivamente, são nomeados pelo membro do Governo Regional com competência em matéria de saúde, em comissão de serviço, pelo período de três anos, de entre médicos e enfermeiros, preferencialmente com pelo menos cinco anos de exercício.\n\n5 - O médico e o enfermeiro responsáveis pela direcção clínica e pela de enfermagem exercem as funções correspondentes em acumulação ou não com as respeitantes às respectivas carreiras, quando as tenham, sendo as suas remunerações estabelecidas por despacho dos membros do Governo Regional com competência em matéria de finanças e de saúde."
+  },
+  "871044652": {
+   "fragment_id": "871074429",
+   "type": 3,
+   "heading": "Subsecção II — Serviços administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Serviços administrativos"
+  },
+  "871044653": {
+   "fragment_id": "871074430",
+   "type": 11,
+   "heading": "Artigo 32.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Estrutura\n\nAos serviços administrativos cabe o desempenho de funções da área administrativa e auxiliar da USIGraciosa, sendo estruturados do modo seguinte:\n\na) Secção de pessoal, expediente e arquivo;\n\nb) Secção de contabilidade, património e aprovisionamento."
+  },
+  "871044654": {
+   "fragment_id": "871074431",
+   "type": 11,
+   "heading": "Artigo 33.º — Secção de pessoal, expediente e arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Secção de pessoal, expediente e arquivo\n\nCompete à secção de pessoal, expediente e arquivo:\n\na) Executar as operações administrativas relacionadas com o recrutamento, gestão corrente e mobilidade do pessoal;\n\nb) Organizar e manter actualizado o cadastro e o registo biográfico do pessoal;\n\nc) Assegurar a recepção e expedição da correspondência e documentação;\n\nd) Marcar consultas e exames complementares de diagnóstico;\n\ne) Prestar apoio administrativo às unidades funcionais;\n\nf) Organizar e manter o arquivo geral da USIGraciosa;\n\ng) Emitir certidões;\n\nh) Organizar o trabalho dos motoristas e do pessoal auxiliar;\n\ni) Efectuar as operações de controlo da assiduidade e pontualidade do pessoal."
+  },
+  "871044655": {
+   "fragment_id": "871074432",
+   "type": 11,
+   "heading": "Artigo 34.º — Secção de contabilidade, património e aprovisionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Secção de contabilidade, património e aprovisionamento\n\nCompete à secção de contabilidade, património e aprovisionamento:\n\na) Elaborar a proposta de orçamento da USIGraciosa;\n\nb) Organizar o projecto de orçamento, de acordo com as propostas dos serviços;\n\nc) Processar as remunerações devidas ao pessoal;\n\nd) Processar as despesas com aquisição de bens e serviços e encargos diversos;\n\ne) Controlar as contas correntes relativas a fornecedores e quaisquer outras entidades;\n\nf) Pagar reembolsos e comparticipações aos utentes;\n\ng) Assegurar as operações contabilísticas;\n\nh) Propor alterações orçamentais e transferências de verbas, de acordo com a execução efectuada e a evolução verificada nas despesas;\n\ni) Executar as operações administrativas relacionadas com a aquisição de bens e serviços e com a alienação de quaisquer bens;\n\nj) Emitir certidões;\n\nk) Promover, acompanhar e verificar as actividades de segurança, limpeza, manutenção e reparação das instalações e equipamentos;\n\nl) Administrar o parque automóvel;\n\nm) Organizar e manter actualizado o cadastro dos bens móveis e imóveis."
+  },
+  "871044656": {
+   "fragment_id": "871074433",
+   "type": 1,
+   "heading": "Capítulo III — Administração financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Administração financeira e patrimonial"
+  },
+  "871044657": {
+   "fragment_id": "871074434",
+   "type": 11,
+   "heading": "Artigo 35.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Instrumentos de gestão\n\n1 - A USIGraciosa utiliza os seguintes instrumentos de gestão económica e financeira:\n\na) Os documentos de prestação de contas previstos no Plano Oficial de Contas dos Serviços de Saúde, aprovado pela Portaria n.º 898/2000, de 28 de Setembro;\n\nb) Plano anual de actividades;\n\nc) Orçamento económico, orçamento financeiro, bem como o orçamento de tesouraria.\n\n2 - A USIGraciosa elabora anualmente a respectiva conta de gerência, da qual é remetido um exemplar à Secção Regional dos Açores do Tribunal de Contas.\n\n3 - A USIGraciosa utiliza também instrumentos adequados de gestão do pessoal e de aperfeiçoamento permanente do seu funcionamento, nomeadamente:\n\na) Sistema de avaliação do desempenho;\n\nb) Balanço social;\n\nc) Programa de formação do pessoal;\n\nd) Programas específicos de promoção da saúde;\n\ne) Sistemas de qualidade."
+  },
+  "871044658": {
+   "fragment_id": "871074435",
+   "type": 11,
+   "heading": "Artigo 36.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Receitas\n\nConstituem receitas da USIGraciosa:\n\na) As resultantes da sua actividade específica;\n\nb) Os rendimentos de bens próprios, resultantes da sua alienação e da constituição de direitos sobre eles;\n\nc) Doações, legados ou heranças;\n\nd) Outros rendimentos que por lei ou contrato lhe devam pertencer;\n\ne) Comparticipações, dotações, transferências e subsídios provenientes do Orçamento do Estado, do Orçamento da Região, do Orçamento da Segurança Social ou de quaisquer entidades públicas ou privadas, bem como do Orçamento da União Europeia;\n\nf) Outras receitas legalmente previstas."
+  },
+  "871044659": {
+   "fragment_id": "871074436",
+   "type": 11,
+   "heading": "Artigo 37.º — Despesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Despesa\n\nConstituem despesa, e desde que orçamentalmente dotadas, da USIGraciosa:\n\na) Os encargos com o seu funcionamento e com a prossecução das suas atribuições e das competências dos seus órgãos e serviços;\n\nb) Os encargos resultantes da execução de planos e programas plurianuais;\n\nc) Os custos de aquisição, construção e manutenção de bens e equipamentos;\n\nd) Os custos de aquisição de serviços."
+  },
+  "871044660": {
+   "fragment_id": "871074437",
+   "type": 11,
+   "heading": "Artigo 38.º — Plano Oficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Plano Oficial\n\nAs receitas e as despesas da USIGraciosa são classificadas, orçamentadas e contabilizadas segundo o Plano Oficial de Contas dos Serviços de Saúde."
+  },
+  "871044661": {
+   "fragment_id": "871074438",
+   "type": 11,
+   "heading": "Artigo 39.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Património\n\n1 - Os bens, direitos e obrigações patrimoniais transferidos ou adquiridos nos termos deste diploma constituem património da Região Autónoma dos Açores e os respectivos registos são titulados à USI que os receber.\n\n2 - A USIGraciosa só poderá proceder a capitalizações de fundos ou à alienação, oneração ou cedência de bens ou direitos do seu património mediante autorização dos membros do Governo Regional com competências nas áreas das finanças e da saúde."
+  },
+  "871044662": {
+   "fragment_id": "871074439",
+   "type": 11,
+   "heading": "Artigo 40.º — Gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Gestão orçamental\n\n1 - A gestão orçamental da USIGraciosa está sujeita às regras definidas em termos de execução orçamental pelo Plano Oficial de Contas dos Serviços de Saúde e pelos princípios orientadores da SAUDAÇOR, S. A., à qual compete, igualmente, acompanhar a respectiva execução.\n\n2 - Os orçamentos e alterações orçamentais são submetidos a apreciação da SAUDAÇOR, S. A., e aprovados nos termos da legislação em vigor."
+  },
+  "871044663": {
+   "fragment_id": "871074440",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "871044664": {
+   "fragment_id": "871074441",
+   "type": 11,
+   "heading": "Artigo 41.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Transição de pessoal\n\nO pessoal do quadro da ilha Graciosa, afecto ao Centro de Saúde de Santa Cruz da Graciosa, extinto pelo presente diploma, é afecto à USIGraciosa, mediante lista nominativa que será homologada pelo membro do Governo Regional com competência em matéria de saúde e publicada na BEP-Açores."
+  },
+  "871044665": {
+   "fragment_id": "871074442",
+   "type": 14,
+   "heading": "Anexo II — Mapa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Mapa\n\nQuadro de pessoal dirigente e de chefia\n\nUnidade de Saúde da Ilha Graciosa\n\n(ver documento original)"
+  },
+  "871044610": {
+   "fragment_id": "871074387",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 8 de Dezembro de 2010.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 14 de Janeiro de 2011.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita.\n\nANEXO I\n\nOrgânica da Unidade de Saúde da Ilha Graciosa"
+  },
+  "871105132": {
+   "fragment_id": "871074390",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2024-07-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Unidade de Saúde da Ilha Graciosa, doravante USIGraciosa, é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, nos termos da lei.\n\n2 - A USIGraciosa é constituída pelo Centro de Saúde de Santa Cruz da Graciosa.\n\n3 - A USIGraciosa exerce a sua actividade sob a superintendência e tutela do membro do Governo Regional com competência na área da saúde.\n\n4 - A coordenação, orientação e avaliação do funcionamento da USIGraciosa compete à direção regional competente em matéria da saúde e à Inspeção Regional da Saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+  },
+  "871105137": {
+   "fragment_id": "871074405",
+   "type": 11,
+   "heading": "Artigo 12.º — Acumulação",
+   "in_force_from": "2024-07-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+   ],
+   "markdown": "###### Artigo 12.º — Acumulação\n\nOs membros do conselho de administração assumem as funções previstas nos artigos 30.º e 31.º, sempre que se trate de profissionais das respectivas carreiras.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+  },
+  "871105133": {
+   "fragment_id": "871074406",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do conselho de administração",
+   "in_force_from": "2024-07-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+   ],
+   "markdown": "###### Artigo 13.º — Competências do conselho de administração\n\n1 - Compete, nomeadamente, ao conselho de administração:\n\na) Dentro das linhas orientadoras definidas para o Serviço Regional de Saúde, gerir os recursos humanos, materiais e financeiros colocados à sua disposição;\n\nb) Assegurar a prestação de cuidados de saúde à população da sua área de intervenção;\n\nc) Aprovar o Regulamento da USIGraciosa;\n\nd) Definir as directrizes orientadoras da gestão e funcionamento da USIGraciosa e assegurar o seu cumprimento;\n\ne) Elaborar o plano anual de actividades e o orçamento;\n\nf) Elaborar o plano plurianual e o respectivo orçamento previsional;\n\ng) Elaborar o relatório anual de actividades e a conta de gerência;\n\nh) Assegurar a articulação entre os diversos serviços da USIGraciosa;\n\ni) Planear e coordenar as actividades de prestação de cuidados de saúde;\n\nj) Celebrar contratos-programa com a direção regional competente em matéria da saúde, protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades e visando atingir os seus objetivos;\n\nk) Promover a formação do pessoal;\n\nl) Determinar medidas adequadas sobre as reclamações e queixas dos utentes;\n\nm) Avaliar sistematicamente o desempenho global do funcionamento da USIGraciosa.\n\n2 - O conselho de administração exerce também as seguintes competências, que pode delegar no seu presidente, com possibilidade de subdelegação nos vogais com funções executivas:\n\na) Gerir os recursos humanos, financeiros, materiais e patrimoniais da USIGraciosa;\n\nb) Promover a cobrança e arrecadação das receitas;\n\nc) Autorizar a realização de despesas e o seu pagamento;\n\nd) Promover a organização da contabilidade e o cadastro dos bens;\n\ne) Contratar a prestação de serviços com terceiros.\n\n3 - O conselho de administração pode delegar nos vogais, na direcção clínica e na de enfermagem as competências para orientar e coordenar projectos, programas e sectores de actividade específicos, tendo em conta as respectivas áreas de recrutamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+  },
+  "871105134": {
+   "fragment_id": "871074434",
+   "type": 11,
+   "heading": "Artigo 35.º — Instrumentos de gestão",
+   "in_force_from": "2024-07-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+   ],
+   "markdown": "###### Artigo 35.º — Instrumentos de gestão\n\n1 - A USIGraciosa utiliza os seguintes instrumentos de gestão económica e financeira:\n\na) Os documentos de prestação de contas legalmente previstos;\n\nb) Plano anual de actividades;\n\nc) Orçamento económico, orçamento financeiro, bem como o orçamento de tesouraria.\n\n2 - A USIGraciosa elabora anualmente a respectiva conta de gerência, da qual é remetido um exemplar à Secção Regional dos Açores do Tribunal de Contas.\n\n3 - A USIGraciosa utiliza também instrumentos adequados de gestão do pessoal e de aperfeiçoamento permanente do seu funcionamento, nomeadamente:\n\na) Sistema de avaliação do desempenho;\n\nb) Balanço social;\n\nc) Programa de formação do pessoal;\n\nd) Programas específicos de promoção da saúde;\n\ne) Sistemas de qualidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+  },
+  "871105135": {
+   "fragment_id": "871074437",
+   "type": 11,
+   "heading": "Artigo 38.º — Plano Oficial",
+   "in_force_from": "2024-07-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+   ],
+   "markdown": "###### Artigo 38.º — Plano Oficial\n\nAs receitas e as despesas da USIGraciosa são classificadas, orçamentadas e contabilizadas segundo o normativo contabilístico em vigor, o Sistema de Normalização Contabilística para as Administrações Públicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+  },
+  "871105136": {
+   "fragment_id": "871074439",
+   "type": 11,
+   "heading": "Artigo 40.º — Gestão orçamental",
+   "in_force_from": "2024-07-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+   ],
+   "markdown": "###### Artigo 40.º — Gestão orçamental\n\n1 - A gestão orçamental da USI Graciosa está sujeita às regras definidas em termos de execução orçamental pelo Plano Oficial de Contas dos Serviços de Saúde e pelos princípios orientadores da direção regional competente em matéria da saúde, à qual compete, igualmente, acompanhar a respetiva execução.\n\n2 - Os orçamentos e alterações orçamentais são submetidos a apreciação dos membros do Governo Regional com competências em matéria de saúde e de finanças.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 10/2024/A - Diário da República n.º 129/2024, Série I de 2024-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2024-871074379), em vigor a partir de 2024-07-06"
+  }
+ }
+}

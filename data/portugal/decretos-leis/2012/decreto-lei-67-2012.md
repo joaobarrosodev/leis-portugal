@@ -1,0 +1,306 @@
+---
+schema_version: '1.0'
+id: pt:dre:553633:por
+title: Decreto-Lei n.º 67/2012
+short_title: null
+summary: Procede à instituição do tribunal da propriedade intelectual e do tribunal da concorrência, regulação e supervisão,
+  tribunais com competência territorial de âmbito nacional para o tratamento das questões relativas à propriedade intelectual
+  e à concorrência, regulação e supervisão
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 67/2012
+official_date: null
+publication_date: '2012-03-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 57/2012, Série I de 2012-03-20
+  number: '57'
+  series: I
+  supplement: null
+  pages: 1275 - 1277
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/03/05700/0127501277.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/67/2012/03/20/p/dre/pt/html
+  oj: null
+  dre: '553633'
+  dre_path: /dr/detalhe/decreto-lei/67-2012-553633
+  internal: pt:dre:553633:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2012-553633
+  metadata_url: https://data.dre.pt/eli/dec-lei/67/2012/03/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2012-553633
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:19:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b547403590dce097577f1fef88bfd37c08489922348e532e10d270835f04eda8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:19:50Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Competência Jurisdicional
+- Criação de Serviços
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Organização Judiciária
+- Procurador da República
+- Quadro de Pessoal
+- Sistema Judicial
+- Tribunal
+- Tribunal da Concorrência Regulação e Supervisão
+- Tribunal da Propriedade Intelectual
+- Tribunal de Comércio
+- Tribunal de Competência Especializada
+- Tribunal de Primeira Instancia
+- Tribunal Marítimo
+relationships:
+- type: cites
+  target: pt:dre:157599:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/27-b/2000/03/03/p/dre
+- type: cites
+  target: pt:dre:167413:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:196220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272404:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/148/2004/06/21/p/dre
+- type: cites
+  target: pt:dre:300608:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2002/03/26/p/dre
+- type: cites
+  target: pt:dre:339395:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/178/2000/08/09/p/dre
+- type: cites
+  target: pt:dre:346358:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/290/1999/07/30/p/dre
+- type: cites
+  target: pt:dre:371041:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/246-a/2001/09/14/p/dre
+- type: cites
+  target: pt:dre:561977:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/219/2004/10/26/p/dre
+- type: cites
+  target: pt:dre:602770:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602981:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670020:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:670368:por
+  label: null
+  source: http://data.dre.pt/eli/lei/46/2011/06/24/p/dre
+- type: cites
+  target: pt:dre:692253:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/186-a/1999/05/31/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:19:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 67/2012
+
+de 20 de março
+
+O Programa do XIX Governo estabelece como uma das prioridades na área da justiça o aumento da eficiência e a redução de custos e desperdícios. O Governo assumiu como objetivo essencial para combater a morosidade na justiça a gestão do sistema judicial em função de objetivos preferencialmente quantificados, comarca a comarca e sector a sector. Prevê-se, ainda, dotar os tribunais de uma gestão profissional e do necessário apoio técnico.
+
+O Memorando de Entendimento sobre as Condicionalidades de Política Económica celebrado entre Portugal e a União Europeia, o Banco Central Europeu e o Fundo Monetário Internacional prevê, no ponto 7.9., que o Governo torne completamente operacionais os tribunais especializados em matéria de concorrência e de direitos de propriedade intelectual e que foram criados pela [Lei n.º 46/2011](https://diariodarepublica.pt/dr/detalhe/lei/46-2011-670368), de 24 de junho.
+
+Considerando o número de pendências e o tempo médio de duração dos processos, importa adotar soluções que, tendo por base as necessidades de especialização de algumas matérias e o volume e complexidade processual que lhes são inerentes, possibilitem uma credibilização da justiça, mediante a sua aproximação dos cidadãos, e uma distribuição dos processos mais eficiente e que permita, no futuro, uma decisão melhor e mais célere.
+
+Assim, torna-se necessário encontrar formas de obter uma melhor distribuição do volume processual que assegure uma decisão mais célere, mais justa e apropriada à matéria em causa. Tal solução não passa apenas e só por alterações de índole processual, mas também por assegurar uma melhor repartição da competência material dos tribunais de acordo com a especificidade e a complexidade das questões.
+
+Com base nestas prioridades procede-se agora à instituição do tribunal de propriedade intelectual e do tribunal da concorrência, regulação e supervisão, assegurando assim uma melhor redistribuição de processos e o descongestionamento e redução do número de pendências nos Tribunais do Comércio.
+
+Às vantagens inerentes à redução do elevado número de processos que se encontram pendentes nos Tribunais de Comércio, juntam-se a especial complexidade destas matérias, o impacto supranacional dos bens jurídicos em causa e os motivos de celeridade no andamento das decisões, garantindo uma decisão mais célere e mais adequada para estas questões.
+
+A natureza e dimensão dos conflitos não justificam a disseminação por vários tribunais, justificando-se a criação de um tribunal único para cada uma das matérias em causa, com competência de âmbito nacional e que conglobe benefícios económicos, materiais e judiciais e, acima de tudo, uma jurisprudência uniforme visando acautelar as entidades reguladoras em presença.
+
+Neste sentido são instituídos os tribunais de propriedade intelectual e da concorrência, regulação e supervisão e fixados os respetivos quadros de juízes e de magistrados do Ministério Público, alterando-se em conformidade o artigo 37.º e os mapas vi e vii do [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), de 31 de maio, alterado pelos Decretos-Leis n.os [290/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1999-346358), de 30 de julho, [27-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2000-157599), de 3 de março, [178/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2000-339395), de 9 de agosto, [246-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-a-2001-371041), de 14 de setembro, [74/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2002-300608), de 26 de março, [148/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2004-272404), de 21 de junho, [219/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2004-561977), de 26 de outubro, [250/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2007-635828), de 29 de junho, [25/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2009-602770), de 26 de janeiro, [28/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2009-602981), de 28 de janeiro, [74/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2011-670020), de 20 de junho, e [113-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-a-2011-167413), de 29 de novembro.
+
+Foi promovida a audição do Conselho Superior da Magistratura, do Conselho Superior do Ministério Público, do Conselho Superior dos Tribunais Administrativos e Fiscais, da Ordem dos Advogados, da Ordem dos Notários, da Câmara dos Solicitadores, da Associação Portuguesa dos Administradores Judiciais, da Associação Sindical dos Juízes Portugueses, do Sindicato dos Magistrados do Ministério Público, do Conselho dos Oficiais de Justiça, da Associação dos Oficiais de Justiça, do Sindicato dos Funcionários Judiciais e do Sindicato dos Oficiais de Justiça.
+
+Assim:
+
+Ao abrigo do disposto nas alíneas f) e g) do artigo 78.º da [Lei n.º 3/99](https://diariodarepublica.pt/dr/detalhe/lei/3-1999-196220), de 13 de janeiro, com as alterações introduzidas pela [Lei n.º 46/2011](https://diariodarepublica.pt/dr/detalhe/lei/46-2011-670368), de 24 de junho, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma institui o tribunal da propriedade intelectual e o tribunal da concorrência, regulação e supervisão, tribunais com competência territorial de âmbito nacional para o tratamento das questões relativas à propriedade intelectual e à concorrência, regulação e supervisão, alterando o [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), de 31 de maio.
+
+###### Artigo 2.º — Instituição de tribunais de competência especializada
+
+São instituídos os seguintes tribunais de competência especializada:
+
+a) O tribunal da propriedade intelectual;
+
+b) O tribunal da concorrência, regulação e supervisão.
+
+###### Artigo 3.º — Alteração ao [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), de 31 de maio
+
+1 - O artigo 37.º do [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), de 31 de maio, alterado pelos Decretos-Leis n.os [290/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1999-346358), de 30 de julho, [27-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2000-157599), de 3 de março, [178/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2000-339395), de 9 de agosto, [246-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-a-2001-371041), de 14 de setembro, [74/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2002-300608), de 26 de março, [148/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2004-272404), de 21 de junho, [219/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2004-561977), de 26 de outubro, [250/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2007-635828), de 29 de junho, [25/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2009-602770), de 26 de janeiro, [28/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2009-602981), de 28 de janeiro, [74/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2011-670020), de 20 de junho, e [113-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-a-2011-167413), de 29 de novembro, passa a ter a seguinte redação:
+
+«Artigo 37.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+a) ...
+
+b) Juízes dos juízos cíveis, dos juízos de pequena instância cível, do tribunal da propriedade intelectual, do tribunal de comércio e do tribunal marítimo;
+
+c) ...
+
+d) ...
+
+e) ...
+
+4 - ...
+
+5 - ...
+
+6 - ...»
+
+2 - Os mapas vi e vii do [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), de 31 de maio, alterado pelos Decretos-Leis n.os [290/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1999-346358), de 30 de julho, [27-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2000-157599), de 3 de março, [178/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2000-339395), de 9 de agosto, [246-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-a-2001-371041), de 14 de setembro, [74/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2002-300608), de 26 de março, [148/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2004-272404), de 21 de junho, [219/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2004-561977), de 26 de outubro, [250/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2007-635828), de 29 de junho, [25/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2009-602770), de 26 de janeiro, [28/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2009-602981), de 28 de janeiro, [74/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2011-670020), de 20 de junho, e [113-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-a-2011-167413), de 29 de novembro, passam a ter a redação que consta do anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 4.º — Entrada em funcionamento
+
+O tribunal da propriedade intelectual e o tribunal da concorrência, regulação e supervisão, instituídos pelo presente diploma, entram em funcionamento na data em que for determinada a sua instalação, por portaria do membro do Governo responsável pela área da justiça.
+
+###### Artigo 5.º — Norma transitória
+
+O disposto no artigo 37.º do [Decreto-Lei n.º 186-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-a-1999-692253), de 31 de maio, alterado pelos Decretos-Leis n.os [290/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1999-346358), de 30 de julho, [27-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-b-2000-157599), de 3 de março, [178/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2000-339395), de 9 de agosto, [246-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-a-2001-371041), de 14 de setembro, [74/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2002-300608), de 26 de março, [148/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2004-272404), de 21 de junho, [219/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2004-561977), de 26 de outubro, [250/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-2007-635828), de 29 de junho, [25/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2009-602770), de 26 de janeiro, [28/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2009-602981), de 28 de janeiro, [74/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2011-670020), de 20 de junho, e [113-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-a-2011-167413), de 29 de novembro, e pelo presente diploma, só se aplica ao tribunal da propriedade intelectual e ao tribunal da concorrência, regulação e supervisão decorrido um ano a contar da respetiva instalação.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de março de 2012. - Pedro Passos Coelho - Paula Maria von Hafe Teixeira da Cruz.
+
+Promulgado em 13 de março de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 15 de março de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — (a que se refere o artigo 3.º)
+
+MAPA VI
+
+Tribunais judiciais de 1.ª instância
+
+[...]
+
+Tribunais de competência especializada
+
+[...]
+
+Tribunais de comércio
+
+[...]
+
+Tribunal da propriedade intelectual
+
+Sede: Lisboa.
+
+Área de competência: território nacional.
+
+Composição: 2 juízos.
+
+Quadro de juízes: 1 por juízo.
+
+Tribunal da concorrência, regulação e supervisão
+
+Sede: Santarém.
+
+Área de competência: território nacional.
+
+Composição: 2 juízos.
+
+Quadro de juízes: 1 por juízo.
+
+[Tribunais marítimos]
+
+[...]
+
+MAPA VII
+
+Magistrados do Ministério Público
+
+[...]
+
+Procuradores da República
+
+[...]
+
+Santarém - 3.
+
+[...]

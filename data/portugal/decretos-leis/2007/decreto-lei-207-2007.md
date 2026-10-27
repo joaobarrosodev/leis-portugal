@@ -1,0 +1,338 @@
+---
+schema_version: '1.0'
+id: pt:dre:638533:por
+title: Decreto-Lei n.º 207/2007
+short_title: null
+summary: Aprova a orgânica da Direcção-Geral dos Assuntos Europeus
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 207/2007
+official_date: null
+publication_date: '2007-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 103/2007, Série I de 2007-05-29
+  number: '103'
+  series: I
+  supplement: null
+  pages: 3460 - 3462
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10300/34603462.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/207/2007/05/29/p/dre/pt/html
+  oj: null
+  dre: '638533'
+  dre_path: /dr/detalhe/decreto-lei/207-2007-638533
+  internal: pt:dre:638533:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2007-638533
+  metadata_url: https://data.dre.pt/eli/dec-lei/207/2007/05/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2007-638533
+  consolidated_url: null
+  retrieved_at: '2026-10-23T02:57:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: bb2852664e3c48aa770e9377181937c8c42d7923fe0c1364391ac5d85844178e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T02:57:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autonomia Administrativa
+- Centro de Informação Jacques Delors
+- Comissão Interministerial para os Assuntos Europeus
+- Comissão Luso-espanhola para a Cooperação Transfronteiriça
+- Direcção Geral dos Assuntos Comunitários
+- Direcção Geral dos Assuntos Europeus
+- Integração de Serviços
+- Orgânica
+- Pessoal Dirigente
+- Quadro de Pessoal
+- Transferência de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:552535:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:220168:por
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/13/2003/03/01/p/dre
+- type: cites
+  target: pt:dre:301457:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/344/1991/09/17/p/dre
+- type: cites
+  target: pt:dre:301458:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/345/1991/09/17/p/dre
+- type: cites
+  target: pt:dre:515471:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre
+- type: cites
+  target: pt:dre:545648:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/204/2006/10/27/p/dre
+- type: repealed_by
+  target: pt:dre:544169:por
+  label: "Revogado, a partir de 01.02.2012, nos termos do disposto no art. 28º do Dec Lei 121/2011 de 29-Dez, pelo DR.12/2012.19.01.2012.MNE,\
+    \ DR.IS [14] de 19.01.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/12-2012-544169
+  date: '2012-01-19'
+- type: repealed_by
+  target: pt:dre:552535:por
+  label: "Revogado partir de 15.04.2012 o Dec Lei 345/91, de 17-set, na redação do presente diploma, pelo DEC LEI.87/2012.10.04.2012.MNE,\
+    \ DR.IS [71] de 10.04.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/87-2012-552535
+  date: '2012-04-10'
+article_structure:
+  article_count: 17
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T02:57:51Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 207/2007
+
+de 29 de Maio
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 204/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2006-545648), de 27 de Outubro, que aprovou a Lei Orgânica do Ministério dos Negócios Estrangeiros, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+A nova Lei Orgânica do Ministério dos Negócios Estrangeiros, aprovada pelo [Decreto-Lei n.º 204/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2006-545648), de 27 de Outubro, prevê que a Direcção-Geral dos Assuntos Europeus assegure não só as suas anteriores competências como também passe a ocupar-se das relações bilaterais com os Estados membros da União Europeia e com os países candidatos.
+
+A Direcção-Geral dos Assuntos Europeus passa ainda a integrar o Centro de Informação Europeia Jacques Delors, cuja Convenção constitutiva determina o fim da sua vigência a 31 de Dezembro de 2007. Atendendo à importância da acção do Centro, bem como ao seu papel único na informação, divulgação e formação sobre a União Europeia, foi decidido que a sai actividade seja exercida junto desta Direcção-Geral.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Direcção-Geral dos Assuntos Europeus, abreviadamente designada por DGAE, é um serviço central do Ministério dos Negócios Estrangeiros, integrado na administração directa do Estado, dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A DGAE tem por missão orientar a acção portuguesa nas instituições próprias da União Europeia, as relações bilaterais com os respectivos Estados membros e outros admitidos como candidatos, bem como acompanhar e coordenar a definição das posições nacionais sobre as políticas da União, em conjunto com todos os ministérios sectoriais competentes e com os órgãos de governo próprio das Regiões Autónomas.
+
+2 - A DGAE prossegue as seguintes atribuições:
+
+a) Assegurar o apoio ao exercício das funções de coordenação político-diplomática;
+
+b) Estudar, emitir pareceres, decidir ou apresentar propostas de actuação sobre todos os assuntos atinentes às atribuições que prossegue;
+
+c) Recolher informação, analisar e apresentar propostas de actuação sobre assuntos de particular relevância político-diplomática;
+
+d) Assegurar a representação de Portugal em reuniões no estrangeiro em relação às atribuições que prossegue;
+
+e) Coordenar a participação portuguesa nas reuniões do Conselho Europeu, do Conselho de Assuntos Gerais e Relações Externas e nas sessões das diversas formações do Conselho de Ministros da UE;
+
+f) Divulgar informação e documentação sobre questões e temas ligados à União Europeia, bem como prestar formação nesse domínio e dinamizar e apoiar todo o tipo de iniciativas que contribuam para esses objectivos;
+
+g) Assegurar a representação do Estado Português junto do Tribunal de Justiça das Comunidades Europeias e coordenar as acções para a definição da posição portuguesa em todos os casos de pré-contencioso e contencioso comunitário;
+
+h) Preparar e assegurar a representação portuguesa do Comité do artigo 133.º do Tratado que institui a Comunidade Europeia e articular a posição portuguesa no âmbito das relações comunitárias externas da União Europeia;
+
+i) Transmitir instruções que sejam dirigidas às embaixadas, representações permanentes e missões temporárias, e postos consulares de Portugal;
+
+j) Assegurar a coordenação interministerial no acompanhamento e tratamento de questões internacionais, necessária à coerência e unidade da acção externa do Estado;
+
+l) Coordenar a definição da posição nacional nas questões relacionadas com o processo de decisão e o sistema institucional da União Europeia, incluindo os processos de revisão dos Tratados e os processos de alargamento, bem como em matéria de justiça e assuntos internos e no que diz respeito às questões financeiras da União Europeia;
+
+m) Acompanhar as negociações das acções da União Europeia em todas as matérias que enquadram a existência do mercado interno, promovendo a coordenação necessária;
+
+n) Acompanhar o desenvolvimento de todas as políticas da União Europeia;
+
+o) Assegurar o acompanhamento das relações bilaterais com os Estados membros da União Europeia e os países candidatos;
+
+p) Assegurar a coordenação e articulação da delegação nacional da Comissão Luso-Espanhola para a Cooperação Transfronteiriça, incluindo a necessária preparação das reuniões mistas, bem como acompanhar e tratar a totalidade das matérias que se enquadram no âmbito desta Comissão;
+
+q) Prestar apoio técnico em matéria de definição e estruturação das políticas, prioridades e objectivos do MNE;
+
+r) Apoiar a definição das principais opções em matéria orçamental, assegurar a articulação entre os instrumentos de planeamento, de previsão orçamental e de reporte;
+
+s) Acompanhar e avaliar a execução das políticas e programas do MNE.
+
+###### Artigo 3.º — Órgãos
+
+1 - A DGAE é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais.
+
+2 - Junto da DGAE funcionam:
+
+a) A Comissão Interministerial para os Assuntos Europeus;
+
+b) A Comissão Luso-Espanhola para a Cooperação Transfronteiriça.
+
+###### Artigo 4.º — Director-geral
+
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas, compete ao director-geral:
+
+a) Representar a Direcção-Geral nos órgãos do Ministério dos Negócios Estrangeiros, bem como nos órgãos externos para os quais seja nomeado;
+
+b) Convocar e presidir às reuniões da Comissão Interministerial dos Assuntos Europeus;
+
+c) Presidir a delegação nacional da Comissão Luso-Espanhola para a Cooperação Transfronteiriça.
+
+2 - Os subdirectores-gerais exercem as competências que lhe sejam delegadas ou subdelegadas pelo director-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Comissão Interministerial para os Assuntos Europeus
+
+1 - A Comissão Interministerial para os Assuntos Europeus é o órgão com funções de coordenação dos diversos ministérios e órgãos de governo próprio das Regiões Autónomas, com vista ao estabelecimento de orientações concertadas e à definição das posições portuguesas, a nível técnico, junto das diferentes instituições da União Europeia.
+
+2 - A organização e o funcionamento da Comissão Interministerial para os Assuntos Europeus são previstos em diploma próprio.
+
+###### Artigo 6.º — Comissão Luso-Espanhola para a Cooperação Transfronteiriça
+
+A organização e o funcionamento da Comissão Luso-Espanhola para a Cooperação Transfronteiriça, prevista na [Resolução da Assembleia da República n.º 13/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/13-2003-220168), são regulados em diploma próprio.
+
+###### Artigo 7.º — Centro de Informação Europeia Jacques Delors
+
+1 - Integra ainda a DGAE o Centro de Informação Europeia Jacques Delors, dirigido por um director, cargo de direcção superior de 2.º grau.
+
+2 - Sem prejuízo das competências que lhe sejam delegadas ou subdelegadas, o director do CIEJD, exerce as seguintes competência próprias:
+
+a) Definir no âmbito da temática da União Europeia a política de informação e documentação;
+
+b) Promover e organizar cursos, ciclos de estudos, seminários, encontros e estágios sobre temas relacioandos com a União Europeia;
+
+c) Assegurar a gestão, manutenção e actualização do sistema de documentação e biblioteca do CIEJD;
+
+d) Contribuir para os planos anuais e plurianuais de actividades da DGAE, com identificação dos objectivos a atingir pelo CIEJD;
+
+e) Assegurar, controlar e avaliar a execução dos planos de actividades da DGAE, no que se refere à concretização dos objectivos propostos para o CIEJD;
+
+f) Praticar todos os actos necessários ao normal funcionamento do CIEJD no âmbito da gestão financeira e patrimonial em articulação com os serviços competentes do Ministério dos Negócios Estrangeiros;
+
+g) Zelar pela liquidação e cobrança das receitas consignadas ao CIEJD;
+
+h) Autorizar despesas com contrapartida em receitas consignadas ao CIEJD;
+
+i) Proceder à difusão dos objectivos fixados para o CIEJD, acompanhando sistematicamente a actividade do mesmo;
+
+j) Representar o CIEJD, assim como estabelecer relações externas ao seu nível com outros serviços;
+
+l) Adoptar os horários de trabalho mais adequados ao funcionamento do CIEJD;
+
+m) Colaborar na elaboração do projecto de orçamento de funcionamento e investimento da DGAE no que diz respeito ao CIEJD, tendo em conta os planos de actividades e os programas aprovados;
+
+n) Colaborar na elaboração da conta de gerência da DGAE no que se reporta ao CIEJD;
+
+o) Autorizar a realização de despesas públicas com obras e aquisição de bens e serviços relativas ao CIEJD, dentro dos limites estabelecidos por lei para o director-geral;
+
+p) Autorizar a prestação de serviços e a venda de produtos próprios, fixando os respectivos preços;
+
+q) Superintender na utilização racional das instalações e equipamentos afectas ao CIEJD, bem como na sua manutenção e conservação e beneficiação.
+
+###### Artigo 8.º — Tipo de organização interna
+
+A organização interna dos serviços da DGAE obedece ao modelo de estrutura hierarquizada.
+
+###### Artigo 9.º — Regime administrativo e financeiro
+
+1 - O apoio em matéria administrativa e financeira da DGAE cabe ao Departamento Geral de Administração da Secretaria-geral do Ministério dos Negócios Estrangeiros, a cujo Director compete a autorização e pagamento das despesas, sem prejuízo de a DGAE se encontrar sujeita às regras financeiras específicas dos serviços com autonomia administrativa.
+
+2 - A DGAE envia ao Departamento Geral de Administração da Secretaria-geral do Ministério dos Negócios Estrangeiros, toda a informação necessária ao exercício das competências que lhe são atribuídas.
+
+###### Artigo 10.º — Receitas e despesas
+
+1 - A DGAE dispõe como receitas as dotações do orçamento de Estado e tem como despesas as decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+2 - As receitas e despesas da DGAE são centralizadas no Departamento Geral de Administração da Secretaria-Geral do Ministério dos Negócios Estrangeiros.
+
+3 - Ficam consignadas aos fins e atribuições do CIEJD as seguintes receitas:
+
+a) Produto financeiro resultante da venda de publicações, bens e serviços prestados pelo CIEJD;
+
+b) Subsídios provenientes de entidades nacionais e estrangeiras destinados ao CIEJD;
+
+c) Financiamento ao abrigo de projectos nacionais e europeus destinados ao CIEJD.
+
+###### Artigo 11.º — Quadro de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+
+###### Artigo 12.º — Provimento de cargos de direcção
+
+Nos termos do n.º 6 do artigo 23.º do [Decreto-Lei n.º 204/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2006-545648), de 27 de Outubro, podem ser providos nos termos da lei geral os cargos de direcção superior de segundo grau e os cargos de direcção intermédia da DGAE.
+
+###### Artigo 13.º — Afectação de pessoal
+
+A afectação à DGAE do pessoal do quadro do Ministério é feita, por despacho do Secretário-Geral do Ministério dos Negócios Estrangeiros, ouvido o director-geral.
+
+###### Artigo 14.º — Sucessão
+
+1 - A DGAE sucede nas atribuições da Direcção-Geral dos Assuntos Comunitários, bem como nas atribuições, no domínio das relações bilaterais com os Estados membros da UE e países oficialmente admitidos como candidatos, da Direcção-Geral das Relações Bilaterais que se extingue.
+
+2 - A DGAE sucede ainda ao CIEJD, nas suas atribuições e competências, bem como na universalidade dos seus direitos e obrigações legais e contratuais.
+
+###### Artigo 15.º — Integração de quadro
+
+O pessoal que à data da entrada em vigor do presente decreto-lei constar do quadro de pessoal da Direcção-Geral dos Assuntos Comunitários, aprovado pelo [Decreto-Lei n.º 344/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1991-301457), de 17 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 48/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1994-515471), de 24 de Fevereiro, transita com a mesma carreira, categoria e escalão para o quadro de pessoal do Ministério dos Negócios Estrangeiros.
+
+###### Artigo 16.º — Efeitos revogatórios
+
+São revogados:
+
+a) O [Decreto-Lei n.º 344/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1991-301457), de 17 de Setembro;
+
+b) Os n.os 1 e 2 do artigo 2.º do [Decreto-Lei n.º 345/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1991-301458), de 17 de Setembro.
+
+###### Artigo 17.º — Entrada em vigor
+
+1 - O presente decreto-lei entra em vigor a 1 de Abril de 2008.
+
+2 - Exceptua-se do disposto no número anterior a transferência de atribuições no domínio das relações bilaterais com os Estados membros da UE e países oficialmente admitidos como candidatos, da Direcção-Geral das Relações Bilaterais, que tem lugar no primeiro dia do mês seguinte ao da publicação do presente decreto-lei.
+
+3 - A integração do CIEJD na DGAE tem efeitos a partir de 1 de Janeiro de 2008.
+
+4 - A alteração da designação da Direcção-Geral dos Assuntos Comunitários para Direcção-Geral dos Assuntos Europeus tem efeitos a partir de 1 de Janeiro de 2007.
+
+Visto e aprovado em Conselho de Ministros de 14 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos.
+
+Promulgado em 7 de Maio de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 8 de Maio de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## ANEXO — (a que se refere o artigo 11.º)
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2007/05/10300/34603462.pdf)

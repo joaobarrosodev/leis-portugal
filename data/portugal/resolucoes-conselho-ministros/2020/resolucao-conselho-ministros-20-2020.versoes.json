@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:131393114:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2020-134212174",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/20-2020-131393114",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169017283"
+   ]
+  },
+  {
+   "date": "2020-05-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:134022073:por",
+     "title": "Resolução do Conselho de Ministros n.º 39/2020",
+     "published": "2020-05-21",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/39-2020-134022073"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "134191611",
+    "134191609"
+   ]
+  }
+ ],
+ "fragments": {
+  "169017283": {
+   "fragment_id": "134279275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 20/2020\n\nSumário: Autoriza a realização da despesa relativa ao fornecimento de refeições escolares no período compreendido entre 1 de setembro de 2020 e 31 de agosto de 2022.\n\nO regime jurídico aplicável à atribuição e ao funcionamento dos apoios no âmbito da ação social escolar reveste-se da maior relevância para o Governo, atendendo à especial importância que merecem as crianças e jovens que frequentam a educação pré-escolar e os ensinos básico e secundário.\n\nO Estado Português assegura, através do Ministério da Educação, por via dos serviços existentes nas próprias escolas, o fornecimento de refeições equilibradas em refeitórios escolares segundo princípios dietéticos de qualidade e variedade e com observância das normas de higiene e segurança alimentar a que estão sujeitos os géneros alimentícios, conforme estatuído no Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios, e no Regulamento (CE) n.º 852/2004, do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativo à higiene dos géneros alimentícios, contribuindo desta forma para a promoção de hábitos alimentares saudáveis, para o desenvolvimento equilibrado da população escolar e, bem assim, para o respetivo aumento do sucesso escolar.\n\nAssim, atendendo a que se revela necessário assegurar o fornecimento das refeições escolares a partir do dia 1 de setembro de 2020, torna-se imperioso proceder à contratação do fornecimento do serviço de refeições em refeitórios escolares dos estabelecimentos de educação do continente.\n\nA presente resolução autoriza, assim, a realização da despesa relativa ao fornecimento de refeições em refeitórios escolares dos estabelecimentos de educação do continente, durante o período compreendido entre 1 de setembro de 2020 e 31 de agosto de 2022, com recurso ao concurso público com publicidade internacional.\n\nAssim:\n\nNos termos da alínea e) do n.º 1 do artigo 17.º e do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 20.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Autorizar a realização da despesa relativa ao fornecimento de refeições em refeitórios escolares dos estabelecimentos de educação do continente, com exceção das regiões do Centro e do Alentejo, no período compreendido entre 1 de setembro de 2020 e 31 de agosto de 2022, considerando o preço base por refeição de (euro) 1,50, até (euro) 39 644 949,86, a que acresce o IVA à taxa legal em vigor, com recurso ao concurso público com publicação de anúncio no Jornal Oficial da União Europeia.\n\n2 - Determinar que os encargos financeiros resultantes da aquisição de serviços referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce IVA à taxa legal em vigor:\n\na) 2020 - (euro) 6 844 954,36;\n\nb) 2021 - (euro) 19 125 186,37;\n\nc) 2022 - (euro) 13 674 809,13\n\n3 - Determinar que os encargos financeiros resultantes das aquisições de serviços referidas nos números anteriores são satisfeitos pelas verbas adequadas inscritas ou a inscrever no orçamento da Direção-Geral dos Estabelecimentos Escolares.\n\n4 - Estabelecer que o montante fixado no n.º 2 para cada ano económico pode ser acrescido do saldo apurado no ano que o antecede.\n\n5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da educação, a competência para a prática de todos os atos a realizar no âmbito da presente resolução.\n\n6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação."
+  },
+  "134191611": {
+   "fragment_id": "134279275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-05-26",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 39/2020 - Diário da República n.º 99/2020, Série I de 2020-05-21](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2020-134022073), em vigor a partir de 2020-05-26, produz efeitos a partir de 2020-04-02"
+   ],
+   "markdown": "Resolução do Conselho de Ministros n.º 20/2020\n\nSumário: Autoriza a realização da despesa relativa ao fornecimento de refeições escolares no período compreendido entre 1 de setembro de 2020 e 31 de agosto de 2022.\n\nO regime jurídico aplicável à atribuição e ao funcionamento dos apoios no âmbito da ação social escolar reveste-se da maior relevância para o Governo, atendendo à especial importância que merecem as crianças e jovens que frequentam a educação pré-escolar e os ensinos básico e secundário.\n\nO Estado Português assegura, através do Ministério da Educação, por via dos serviços existentes nas próprias escolas, o fornecimento de refeições equilibradas em refeitórios escolares segundo princípios dietéticos de qualidade e variedade e com observância das normas de higiene e segurança alimentar a que estão sujeitos os géneros alimentícios, conforme estatuído no Regulamento (CE) n.º 178/2002, do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios, e no Regulamento (CE) n.º 852/2004, do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativo à higiene dos géneros alimentícios, contribuindo desta forma para a promoção de hábitos alimentares saudáveis, para o desenvolvimento equilibrado da população escolar e, bem assim, para o respetivo aumento do sucesso escolar.\n\nAssim, atendendo a que se revela necessário assegurar o fornecimento das refeições escolares a partir do dia 1 de setembro de 2020, torna-se imperioso proceder à contratação do fornecimento do serviço de refeições em refeitórios escolares dos estabelecimentos de educação do continente.\n\nA presente resolução autoriza, assim, a realização da despesa relativa ao fornecimento de refeições em refeitórios escolares dos estabelecimentos de educação do continente, durante o período compreendido entre 1 de setembro de 2020 e 31 de agosto de 2022, com recurso ao concurso público com publicidade internacional.\n\nAssim:\n\nNos termos da alínea e) do n.º 1 do artigo 17.º e do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 20.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Autorizar a realização da despesa relativa ao fornecimento de refeições em refeitórios escolares dos estabelecimentos de educação do continente, no período compreendido entre 1 de setembro de 2020 e 31 de agosto de 2022, considerando o preço base por refeição de (euro) 1,50 até ao montante global de (euro) 58 450 245,75, ao qual acresce o IVA à taxa legal em vigor, com recurso ao concurso público com publicidade internacional.\n\n2 - Determinar que os encargos financeiros resultantes da aquisição de serviços referida no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce IVA à taxa legal em vigor:\n\na) 2020 - (euro) 11 908 084,50;\n\nb) 2021 - (euro) 27 589 857,75;\n\nc) 2022 - (euro) 18 952 303,50.\n\n3 - Determinar que os encargos financeiros resultantes das aquisições de serviços referidas nos números anteriores são satisfeitos pelas verbas adequadas inscritas ou a inscrever no orçamento da Direção-Geral dos Estabelecimentos Escolares.\n\n4 - Estabelecer que o montante fixado no n.º 2 para cada ano económico pode ser acrescido do saldo apurado no ano que o antecede.\n\n5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da educação, a competência para a prática de todos os atos a realizar no âmbito da presente resolução.\n\n6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 39/2020 - Diário da República n.º 99/2020, Série I de 2020-05-21](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2020-134022073), em vigor a partir de 2020-05-26, produz efeitos a partir de 2020-04-02"
+  },
+  "134191609": {
+   "fragment_id": "134279276",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 2 de abril de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.\n\n113177504"
+  }
+ }
+}

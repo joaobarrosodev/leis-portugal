@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: eu:celex:32000D0442:por
+title: '2000/442/CE: Decisão da Comissão, de 11 de Julho de 2000'
+short_title: null
+summary: '2000/442/CE: Decisão da Comissão, de 11 de Julho de 2000, que altera, pela segunda vez, as Decisões 1999/466/CE
+  e 1999/467/CE que estabelecem, respectivamente, o estatuto de efectivo bovino oficialmente indemne de brucelose e de tuberculose
+  em determinados Estados-Membros e regiões dos Estados-Membros [notificada com o número C(2000) 1943] (Texto relevante para
+  efeitos do EEE)'
+jurisdiction: european_union
+territory: null
+document_type: decision
+document_type_label: Decisão
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2000/442
+official_date: null
+publication_date: '2000-07-15'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 176 de 15.7.2000
+  number: '176'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/e9497f18-58ba-432a-a996-039adf2d251d.0009.02/DOC_1
+entry_into_force_dates:
+- '2000-07-15'
+end_of_validity_date: '2010-12-11'
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32000D0442
+  eli: http://data.europa.eu/eli/dec/2000/442/oj
+  oj: oj:JOL_2000_176_R_0051_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32000D0442:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32000D0442
+  metadata_url: http://publications.europa.eu/resource/cellar/e9497f18-58ba-432a-a996-039adf2d251d.0009
+  content_url: http://publications.europa.eu/resource/cellar/e9497f18-58ba-432a-a996-039adf2d251d.0009.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T13:32:57Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-04-13T13:47:45.293+02:00'
+integrity:
+  source_sha256: b32b2762216720ae0c44d172f811570294694eb75c187d76f14f153cc80108bd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T13:32:57Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- bovino
+- comércio intra-UE
+- doença animal
+- gado
+- inspeção sanitária
+- suíno
+relationships:
+- type: amends
+  target: celex:31999D0466
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b7f37782-f3fe-499a-a9d8-0cd09d5a4587
+  date: '1999-07-21'
+- type: amends
+  target: celex:31999D0467
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b03109bf-5938-4ce3-aa50-e4d8d773b48e
+  date: '1999-07-21'
+- type: based_on
+  target: celex:31964L0432
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b4b312f4-ba77-4cc7-99cd-5fc19c85d2cd
+  date: '1964-07-29'
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T13:32:57Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# 2000/442/CE: Decisão da Comissão, de 11 de Julho de 2000
+
+**2000/442/CE: Decisão da Comissão, de 11 de Julho de 2000, que altera, pela segunda vez, as Decisões 1999/466/CE e 1999/467/CE que estabelecem, respectivamente, o estatuto de efectivo bovino oficialmente indemne de brucelose e de tuberculose em determinados Estados-Membros e regiões dos Estados-Membros [notificada com o número C(2000) 1943] (Texto relevante para efeitos do EEE)** *Jornal Oficial nº L 176 de 15/07/2000 p. 0051 - 0051*
+
+Decisão da Comissão
+
+de 11 de Julho de 2000
+
+que altera, pela segunda vez, as Decisões 1999/466/CE e 1999/467/CE que estabelecem, respectivamente, o estatuto de efectivo bovino oficialmente indemne de brucelose e de tuberculose em determinados Estados-Membros e regiões dos Estados-Membros
+
+[notificada com o número C(2000) 1943]
+
+(Texto relevante para efeitos do EEE)
+
+(2000/442/CE)
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta a Directiva 64/432/CEE do Conselho, de 26 de Junho de 1964, relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína(1), com a última redacção que lhe foi dada pela Directiva 2000/15/CE(2), e, nomeadamente, o ponto 4 da parte I e o ponto 7 da parte II do seu anexo A,
+
+Considerando o seguinte:
+
+(1) A Decisão 1999/466/CE da Comissão, de 15 de Julho de 1999, que estabelece o estatuto de efectivo bovino oficialmente indemne de brucelose em determinados Estados-Membros e regiões dos Estados-Membros e que revoga a Decisão 97/175/CE(3), alterada pela Decisão 2000/69/CE(4), concedeu esse estatuto a certos Estados-Membros e regiões dos Estados-Membros até 30 de Junho de 2000.
+
+(2) A Decisão 1999/467/CE da Comissão, de 15 de Julho de 1999, que estabelece o estatuto de efectivo bovino oficialmente indemne de brucelose em determinados Estados-Membros e regiões dos Estados-Membros e que revoga a Decisão 97/76/CE(5), alterada pela Decisão 2000/69/CE, concedeu esse estatuto a certos Estados-Membros e regiões dos Estados-Membros até 30 de Junho de 2000.
+
+(3) As limitações temporárias do estatuto de oficialmente indemne no que diz respeito à brucelose bovina previsto nas decisões referidas foram introduzidas devido à incoerência nas datas de diferentes textos legislativos relativos ao regime de identificação de animais da espécie bovina.
+
+(4) Na pendência da entrada em vigor de uma alteração do ponto 4, alínea b), da parte I e do ponto 7, alínea b), da parte II do anexo A da Directiva 64/432/CEE, é necessário prolongar a aprovação provisória do estatuto de efectivo bovino das regiões mencionadas nos anexos II das Decisões 1999/466/CE e 1999/467/CE oficialmente indemnes de brucelose e de tuberculose, respectivamente.
+
+(5) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Veterinário Permanente,
+
+ADOPTOU A PRESENTE DECISÃO:
+
+###### Artigo 1.º
+
+1. No título do anexo II da Decisão 1999/466/CE, a expressão "até 30 de Junho de 2000" é substituida por "até 31 de Outubro de 2000".
+
+2. No título do anexo II da Decisão 1999/467/CE, a expressão "até 30 de Junho de 2000" é substituída por "até 31 de Outubro de 2000".
+
+###### Artigo 2.º
+
+Os Estados-Membros são os destinatários da presente decisão.
+
+Feito em Bruxelas, em 11 de Julho de 2000.
+
+Pela Comissão
+
+David Byrne
+
+Membro da Comissão
+
+(1) JO 121 de 29.7.1964, p. 1977/64.
+
+(2) JO L 105 de 3.5.2000, p. 34.
+
+(3) JO L 181 de 16.7.1999, p. 34.
+
+(4) JO L 23 de 28.1.2000, p. 76.
+
+(5) JO L 181 de 16.7.1999, p. 36.

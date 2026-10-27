@@ -1,0 +1,196 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:493011:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-114479973",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/21-2009-493011",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-08-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114481988",
+    "114481989",
+    "114481990",
+    "114481991",
+    "114481992",
+    "114481993",
+    "114481994",
+    "114481995",
+    "114481996",
+    "114481997",
+    "114481998",
+    "114481999",
+    "114482000"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:190181:por",
+     "title": "Decreto Legislativo Regional n.º 39/2012/M",
+     "published": "2012-12-21",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/39-2012-190181"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "114481988",
+    "114481989",
+    "114481990",
+    "114481991",
+    "114482011",
+    "114482012",
+    "114481994",
+    "114481995",
+    "114481996",
+    "114481997",
+    "114481998",
+    "114481999",
+    "114482000",
+    "114482001"
+   ]
+  }
+ ],
+ "fragments": {
+  "114481988": {
+   "fragment_id": "114479974",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 21/2009/M\n\nAdaptação à Região Autónoma da Madeira do novo Código do Trabalho\n\nA Lei n.º 7/2009 de 12 de Fevereiro, aprovou o novo Código do Trabalho, reformulando o Código anterior, quer na sua sistematização, quer na dimensão do seu articulado, agora mais reduzido, alterando alguns aspectos do regime anterior, bem como criando alguns regimes inovadores.\n\nAs alterações introduzidas, em termos de conteúdo inovatório, referem-se a matérias gerais, decorrentes das opções deste modelo de legislação laboral, como a parentalidade, alguns aspectos do regime de duração de trabalho (horários concentrados, banco de horas, adaptabilidade), aos contratos de muito curta duração, ao contrato de trabalho intermitente, em relação ao que, no geral, a possibilidade legal de adaptação é residual, limitada ou inexistente.\n\nNa Região Autónoma da Madeira, com a presente adaptação, identicamente ao verificado em relação ao Código do Trabalho anterior, pretende-se manter no essencial as linhas mestras do que caracteriza o nosso modelo laboral, privilegiando a autonomia negocial, o diálogo social como instrumento prático das políticas activas laborais, a função moderadora, conciliatória e subsidiária da intervenção administrativa e assim sendo, nos limites das competências legislativas que o próprio Código salvaguarda, procede-se às adaptações possíveis.\n\nO Código do Trabalho em adaptação, cuja aplicação sendo de âmbito nacional, salvaguarda contudo, as competências dos órgãos de governo próprio das Regiões Autónomas, em cumprimento dos princípios constitucionais, das normas estatutárias do regime autonómico e do quadro legal das competências transferidas para os correspondentes órgãos e serviços regionais, particularmente, no que importa para o presente processo legislativo, no que se refere às áreas do trabalho, do emprego, da formação profissional e da segurança social.\n\nA Região Autónoma da Madeira, através dos seus órgãos competentes, deu conta da sua posição, face às alterações propostas, apresentando um conjunto de sugestões, na fase de apreciação pública e aquando da solicitação formal de audição, que não foram, na sua generalidade, acolhidas, contributos estes na linha da defesa de soluções equilibradas, em defesa do diálogo social, na procura do desenvolvimento equilibrado e sustentável, gerador de estabilidade, confiança e paz social.\n\nCom o presente diploma, pretende-se aplicar o Código do Trabalho à Região, procedendo a algumas adaptações, nos termos nele estabelecidos, decorrentes das competências próprias e das especificidades regionais, atenta a organização própria dos serviços da administração regional e as opções da sua política sócio-laboral, seja ao nível da atribuição destas aos correspondentes órgãos e serviços regionais, seja na manutenção de competências já consagradas de intervenção administrativa, no modelo sócio-laboral regional, particularmente no processo inerente à contratação colectiva - portarias de extensão e de condições de trabalho, bem como em matérias inerentes à realidade regional, quanto aos feriados regionais e ao regime de validade dos mapas dos horários de trabalho.\n\nPor outro lado, foi dado cumprimento aos princípios constitucionais e legais sobre participação na elaboração da legislação do trabalho, com a publicação da proposta do presente diploma em separata do Diário da Assembleia Legislativa, para efeitos de parecer e audição das organizações de trabalhadores e de empregadores.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea e) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, e do artigo 11.º da Lei n.º 7/2009, de 12 de Fevereiro, que aprovou o Código do Trabalho, o seguinte:"
+  },
+  "114481989": {
+   "fragment_id": "114482475",
+   "type": 11,
+   "heading": "Artigo 1.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aplicação\n\nO presente diploma adapta à Região Autónoma da Madeira o Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de Fevereiro, com as adequações decorrentes das suas especificidades e das competências dos respectivos órgãos e serviços regionais."
+  },
+  "114481990": {
+   "fragment_id": "114482476",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - Em geral, as competências atribuídas no Código do Trabalho aos vários órgãos e serviços nacionais, consideram-se cometidas, no âmbito da Região Autónoma da Madeira, aos correspondentes órgãos e serviços regionais.\n\n2 - Contudo, as competências estabelecidas nos artigos do Código do Trabalho:\n\nN.º 5 do artigo 5.º (trabalhadores estrangeiros/comunicação);\n\nAlínea b) do n.º 3 do artigo 99.º (regulamento interno);\n\nArtigo 119.º (mudança de categoria/autorização);\n\nN.º 2 do artigo 144.º (contratos a termo/comunicação);\n\nN.º 3 do artigo 213.º (redução ou exclusão do intervalo de descanso);\n\nN.º 3 do artigo 216.º (horários de trabalho/envio);\n\nN.º 3 do artigo 218.º (isenção dos horários de trabalho/acordo);\n\nN.º 7 do artigo 231.º (trabalho suplementar/comunicação);\n\natribuídas ao serviço com competência inspectiva, são cometidas, na Região Autónoma da Madeira, à Direcção Regional do Trabalho, por constituírem competências e atribuições orgânicas próprias deste departamento."
+  },
+  "114481991": {
+   "fragment_id": "114482477",
+   "type": 11,
+   "heading": "Artigo 3.º — Publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Publicações\n\nAs publicações reportadas no Código do Trabalho ao Boletim do Trabalho e Emprego são feitas, no âmbito da Região Autónoma da Madeira, na 3.ª série do Jornal Oficial da Região Autónoma da Madeira (JORAM) (relações de trabalho)."
+  },
+  "114481992": {
+   "fragment_id": "114482478",
+   "type": 11,
+   "heading": "Artigo 4.º — Mapas de horários de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Mapas de horários de trabalho\n\nA validade dos mapas de horários de trabalho a que se reporta o artigo 215.º do Código do Trabalho depende da sua conformidade com as disposições legais e convencionais aplicáveis e das formalidades estabelecidas no Decreto Regulamentar Regional n.º 7/2006/M, de 16 de Junho."
+  },
+  "114481993": {
+   "fragment_id": "114482479",
+   "type": 11,
+   "heading": "Artigo 5.º — Feriados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Feriados\n\nNa Região Autónoma da Madeira, para além dos feriados previstos no Código do Trabalho, acrescem, como feriados regionais já consagrados, o dia 1 de Julho, Dia da Região e das Comunidades Madeirenses, e o dia 26 de Dezembro, dia festivo tradicional secular nas celebrações natalícias regionais."
+  },
+  "114481994": {
+   "fragment_id": "114482480",
+   "type": 11,
+   "heading": "Artigo 6.º — Acréscimo à retribuição mínima garantida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acréscimo à retribuição mínima garantida\n\nA Assembleia Legislativa da Região Autónoma da Madeira poderá estabelecer, de acordo com a realidade regional, os acréscimos tidos por adequados ao valor da retribuição mínima mensal garantida, fixada nos termos do artigo 273.º do Código do Trabalho."
+  },
+  "114481995": {
+   "fragment_id": "114482481",
+   "type": 11,
+   "heading": "Artigo 7.º — Apreciação relativa à igualdade e não discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apreciação relativa à igualdade e não discriminação\n\nCompete à Direcção Regional do Trabalho, através do Serviço de Igualdade, a apreciação da legalidade das disposições convencionais em termos de igualdade e não discriminação, nos termos e para os efeitos estabelecidos no artigo 479.º do Código do Trabalho."
+  },
+  "114481996": {
+   "fragment_id": "114482482",
+   "type": 11,
+   "heading": "Artigo 8.º — Admissibilidade de emissão de portaria de extensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Admissibilidade de emissão de portaria de extensão\n\n1 - O secretário regional responsável pela área laboral, através da emissão de portaria, pode determinar a extensão, no todo ou em parte, de convenções colectivas ou decisões arbitrais a empregadores integrados no âmbito do sector de actividade e a trabalhadores da mesma profissão ou profissão análoga, desde que exerçam a sua actividade na área geográfica da Região e no mesmo âmbito sectorial e profissional fixado naquele instrumento.\n\n2 - O secretário regional responsável pela área laboral pode ainda, através da emissão de portaria, determinar a extensão, total ou parcial, de convenções colectivas ou decisões arbitrais a empregadores e a trabalhadores do mesmo âmbito sectorial e profissional, desde que exerçam a sua actividade em área geográfica diversa daquela a que os instrumentos se aplicam - âmbito supra regional - quando não existam associações sindicais ou de empregadores ou fora desses casos, se circunstâncias sociais e económicas o justifiquem e se verifique identidade ou semelhança económica e social.\n\n3 - O procedimento de elaboração destas portarias de extensão respeitará os trâmites e formalidades previstas, nesta matéria, no Código do Trabalho."
+  },
+  "114481997": {
+   "fragment_id": "114482483",
+   "type": 11,
+   "heading": "Artigo 9.º — Admissibilidade de emissão de portarias de condições de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Admissibilidade de emissão de portarias de condições de trabalho\n\n1 - Nos casos em que não seja possível o recurso a portaria de extensão, verificando-se a inexistência de associações sindicais ou de empregadores ou fora destes casos, estando em causa circunstâncias sociais e económicas que o justifiquem, pode o Governo Regional, através dos secretários regionais com a tutela da área laboral e do sector de actividade em causa, determinar a emissão de portaria de condições de trabalho, mantendo-se em vigor a convenção vigente até à publicação daquela.\n\n2 - O procedimento de elaboração da portaria de condições de trabalho respeitará os trâmites e formalidades previstas, nesta matéria, no Código do Trabalho."
+  },
+  "114481998": {
+   "fragment_id": "114482484",
+   "type": 11,
+   "heading": "Artigo 10.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Destino das coimas\n\n1 - Em processos cuja instrução esteja cometida à Inspecção Regional do Trabalho, metade do produto das coimas aplicadas reverte para a Região Autónoma da Madeira, tendo o remanescente o seguinte destino:\n\na) Fundo de Acidentes de Trabalho, no caso de coimas aplicadas em matéria de segurança, higiene e saúde no trabalho;\n\nb) 35 % para o Centro de Segurança Social da Madeira e 15 % para o Orçamento da Região, relativamente às demais coimas.\n\n2 - A Inspecção Regional do Trabalho transfere, trimestralmente, para as entidades referidas no número anterior as importâncias a que têm direito."
+  },
+  "114481999": {
+   "fragment_id": "114482485",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposições finais e transitórias\n\n1 - É revogado o Decreto Legislativo Regional n.º 3/2004/M, de 18 de Março.\n\n2 - O Decreto Legislativo Regional n.º 13/2005/M, de 3 de Agosto manter-se-á em vigor, no que respeita às disposições que não sejam incompatíveis com a legislação ora adaptada, até ser publicado diploma que regule as matérias em causa."
+  },
+  "114482000": {
+   "fragment_id": "114482486",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "114482011": {
+   "fragment_id": "114482478",
+   "type": 11,
+   "heading": "Artigo 4.º — Mapas de horários de trabalho",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Legislativo Regional n.º 39/2012/M - Diário da República n.º 247/2012, Série I de 2012-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2012-190181), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Mapas de horários de trabalho\n\nA validade dos mapas de horários de trabalho a que se reporta o artigo 215.º do Código do Trabalho depende da sua conformidade com as disposições legais e convencionais aplicáveis e das formalidades estabelecidas no Decreto Regulamentar Regional n.º 7/2006/M, de 16 de Junho.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Legislativo Regional n.º 39/2012/M - Diário da República n.º 247/2012, Série I de 2012-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2012-190181), em vigor a partir de 2013-01-01"
+  },
+  "114482012": {
+   "fragment_id": "114482479",
+   "type": 11,
+   "heading": "Artigo 5.º — Feriados",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Legislativo Regional n.º 39/2012/M - Diário da República n.º 247/2012, Série I de 2012-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2012-190181), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Feriados\n\nNa Região Autónoma da Madeira, para além dos feriados previstos no Código do Trabalho, acrescem, como feriados regionais já consagrados, o dia 1 de Julho, Dia da Região e das Comunidades Madeirenses, e o dia 26 de Dezembro, dia festivo tradicional secular nas celebrações natalícias regionais.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Legislativo Regional n.º 39/2012/M - Diário da República n.º 247/2012, Série I de 2012-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2012-190181), em vigor a partir de 2013-01-01"
+  },
+  "114482001": {
+   "fragment_id": "114482487",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 25 de Junho de 2009.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 27 de Julho de 2009.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  }
+ }
+}

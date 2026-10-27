@@ -1,0 +1,446 @@
+---
+schema_version: '1.0'
+id: pt:dre:966071:por
+title: Declaração de Rectificação n.º 669/2010
+short_title: null
+summary: Rectificação da lista de candidatos admitidos e excluídos do procedimento concursal para técnico de diagnóstico e
+  terapêutica - área de radiologia
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Saúde - Centro Hospitalar de Torres Vedras
+proposing_entity: null
+official_number: 669/2010
+official_date: null
+publication_date: '2010-04-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 67/2010, Série II de 2010-04-07
+  number: '67'
+  series: II
+  supplement: null
+  pages: 17713 - 17714
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/04/067000000/1771317714.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '966071'
+  dre_path: /dr/detalhe/declaracao-rectificacao/669-2010-966071
+  internal: pt:dre:966071:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/669-2010-966071
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/669-2010-966071
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:27:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5dca43e05afe205a616f118f2314525de5863da9d330ece5f7d5f5e14878c02c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:27:23Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:661768:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:27:23Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 669/2010
+
+Por ter sido publicado com inexactidão o aviso n.º 6195/2010, publicado no Diário da República, 2.ª série, n.º 59, de 25 de Março de 2010, referente à lista de candidatos admitidos e excluídos do procedimento concursal para três postos de trabalho de técnico de diagnóstico e terapêutica - área de radiologia, do mapa de pessoal do Centro Hospitalar de Torres Vedras, aberto por aviso publicado no Diário da República, 2.ª série, n.º 9, de 14 de Janeiro de 2010, rectificado pelas declarações n.os 120/2010 e 174/2010, de 22 de Janeiro e 29 de Janeiro, respectivamente, republica-se a referida lista devidamente rectificada:
+
+A referida lista encontra-se também afixada no placard do Serviço de Gestão de Recursos Humanos deste Centro Hospitalar e na página electrónica em www.hospitaltorresvedras.com.
+
+Candidatos admitidos:
+
+Ana Helena Rosa de Freitas.
+
+Ana Maria Trindade Couchinho.
+
+Ana Sofia de Jesus Milhano Mendes.
+
+Carla Susana Martins Lourenço.
+
+Carolina Alexandra Gomes de Matos.
+
+Cláudia Alexandra Rodrigues Guerra.
+
+Cristina Corte Real Faria.
+
+Hugo Leonel Pereira Neves.
+
+Jaime Filipe Costa Rodrigues.
+
+Joana Ferrão Henriques Leitão.
+
+Marco André da Costa Rocha.
+
+Paula Cristina Ribeiro Lopes.
+
+Pedro Alexandre Monteiro Pinheiro.
+
+Raquel Rodrigues Duarte Narciso.
+
+Ricardo Alexandre Crispim da Silva.
+
+Susana Margarida Dinis da Graça.
+
+Candidatos excluídos a):
+
+Alexandra Maria Carraquico Nunes.
+
+Ana Catarina da Silva Bernardo Marta.
+
+Ana Filipa Amor de Sousa.
+
+Ana Filipa Martins Neto.
+
+Ana Isabel Guerreiro Tadeu dos Santos.
+
+Ana Isabel Mesquita Carvalho.
+
+Ana Lúcia Santos Silva.
+
+Ana Luísa Moura de Abreu e Oliveira.
+
+Ana Luísa Tavares de Almeida.
+
+Ana Margarida Dias e Costa.
+
+Ana Margarida Pereira da Silva Luz.
+
+Ana Raquel Figueiredo Clemente.
+
+Ana Raquel Simões de Oliveira.
+
+Ana Rita Cerejo Caseiro.
+
+Ana Rita Monteiro Ferreira.
+
+Ana Rita Oliveira Ramalho.
+
+Ana Rita Reis Mateus.
+
+Ana Sofia Campelo de Carvalho.
+
+Ana Sofia Graça da Cruz.
+
+Anabela Cristina Correia Lucas.
+
+Anabela da Costa Rodrigues.
+
+André Vasconcelos Fontes.
+
+Andreia Filipa Jorge Domingues.
+
+Andreia J. Rocha Oliveira.
+
+Andreia Margarida Leitão Dias.
+
+Andreia Veríssimo Mendes.
+
+Ângela Isabel Peixoto Pereira.
+
+Ângelo Miguel Pardal Alexandre.
+
+António Carlos Escalda Ribeiro.
+
+Bruno Filipe ferreira Oliveira.
+
+Bruno José Rocha Rosado.
+
+Bruno Miguel Mateus Órfão
+
+Carina Isabel Silva de Almeida.
+
+Carla Alexandra Gonçalves Batista Telo.
+
+Carla Alexandra Pires Botelho.
+
+Carla Manuela Lopes Balau.
+
+Carla Sofia Almeida Marques.
+
+Carla Sofia Oliveira Gomes.
+
+Carlos Filipe de Castro Coelho.
+
+Carlos Filipe Escalda Quadrado.
+
+Carlos Miguel Marques Gomes.
+
+Catarina Alexandra Martins Delgado.
+
+Catarina de Lurdes Gouveia Martins.
+
+Catarina Sofia Batista Farinha.
+
+Cátia Alexandra Dias Gonçalves.
+
+Cátia Carolina Faísca de Matos Faria.
+
+Cátia Sofia de Almeida Rua.
+
+Cátia Virgínia Marques Leite dos Santos.
+
+Célia Cristina Ferraz de Azevedo Barbosa dos Santos.
+
+Cláudia Maria Ferraz Neves.
+
+Cristopher Joseph Maia Oliveira.
+
+Daniel Augusto Vieira de Sousa.
+
+Daniel Branco Pereira.
+
+Daniela Sofia Almeida de Oliveira.
+
+Daniela Susana Pinto Reis Martins Silva.
+
+Diana da Costa Carvalho.
+
+Diana Duarte Pires Martins.
+
+Diana Isabel Fernandes Roque.
+
+Dorivânia de Jesus Augusto da Rosa.
+
+Eduardo Costa Rovisco.
+
+Eduardo Filipe Gomes Fonseca.
+
+Eluisa de Sousa Fonseca.
+
+Emanuel David Rodrigues de Oliveira.
+
+Fátima Maria Ricardo Gaspar.
+
+Fedra Margarida da Ponte Bentes.
+
+Filipa Alexandra Carvalho Branquinho.
+
+Filipa Daniela Andrade Figueiredo.
+
+Filipe Alexandre da Silva Alves.
+
+Flávio Barbosa Moura.
+
+Francisco Manuel Patola Martins.
+
+Graça Alexandra Santos Costa.
+
+Helena Carina Pereira Soares.
+
+Helena Isabel Ceia de Sousa.
+
+Hugo M. Ribeiro Machado.
+
+Inês Alves dos Santos.
+
+Inês Catarina Mesquita Afonso.
+
+Inês Isabel Rodrigues Louro.
+
+Isabel Maria Abreu Loureiro.
+
+Joana Ferreira da Silva.
+
+Joana Polido Cerqueira Correia.
+
+Joana Salvado Ferreira.
+
+Joana Santos Hilário.
+
+João Nuno Copa Aguiar.
+
+Jorge Manuel Rodrigues Frutuoso.
+
+José Alexandre Antunes Marques.
+
+José Carlos Alves de Pina.
+
+José Filipe Vitória Melão.
+
+Lia Jorge Lopes.
+
+Lígia Paula Pereira da Silva.
+
+Liliana da Silva Tribuna.
+
+Liliana de Jesus Eufémia Ferrão.
+
+Liliana Raquel Viegas dos Santos.
+
+Lino Reis Domingos.
+
+Luís António Rodrigues Gonçalves.
+
+Luís Manuel Mota Campos.
+
+Luís Miguel Pereira Ferrão.
+
+Marco António Queirós Teixeira da Silva.
+
+Margarida Fátima Pelado Figo.
+
+Maria Conceição Pires de Azevedo.
+
+Maria do Carmo Sanches de Oliveira.
+
+Maria do Rosário Filipe Marques.
+
+Maria João leal Albuquerque.
+
+Maria José Garcias Rosa.
+
+Mariana Simões Moura da Silva.
+
+Marta Alexandra Santiago dos Santos.
+
+Marta Guerreiro Tareco Bacala Ferreira.
+
+Marta Sofia Sousa Simão.
+
+Maura Cristina Mendonça Alves.
+
+Mónica Isabel Neves Rodrigues.
+
+Mónica Raquel Cardoso Pereira de Carvalho.
+
+Mónica Sofia Bizarro Figueira.
+
+Nadezda Donesko.
+
+Natália Ramos Sapage.
+
+Nuno Filipe da Silva Ferraz.
+
+Nuno Henriques Reis do Vale.
+
+Patrícia Andreia da Graça Esperança.
+
+Patrícia Carvalho Veludo.
+
+Patrícia Inês de Assunção Grilo.
+
+Patrícia Isabel Henriques Rodrigues.
+
+Paula Cristina Pedro da Silva Figueiredo.
+
+Paula Joana Meneses Couto.
+
+Raquel Bianca Morgado.
+
+Ricardo João de Jesus Mateus.
+
+Ricardo João Gomes Batista Trinca.
+
+Ricardo Manuel Meireles Sá Barros.
+
+Ricardo Miguel Lourenço Grilo.
+
+Ricardo Miguel Matos Dias.
+
+Rita Alexandra Matos Pinheiro.
+
+Rita Isabel Alves de Jesus.
+
+Rita Isabel Oliveira Costa Marques.
+
+Rogério Mira Lopes.
+
+Rui Alexandre Gatilho Trindade.
+
+Rui Miguel Santos Policarpo.
+
+Sandra Margarida Marques Alexandre.
+
+Sandrina Maria Loureiro Pereira.
+
+Sara Gomes de Brito.
+
+Sara Raquel Soares Correia.
+
+Sara Vanessa Buinho Farinha.
+
+Sérgio Ferreira Moura.
+
+Sofia Cristina Gomes Fernandes.
+
+Sónia Pinto dos Santos.
+
+Soraia Daniela Rocha Carlos.
+
+Soraia Morais Cunha.
+
+Susana Isabel Champalimaud Velez Vasconcelos.
+
+Susana Pedro Carreira.
+
+Telma Marisa Melo de Oliveira.
+
+Tiago Filipe Domingues Monteiro.
+
+Tiago Jorge Raposo Brito.
+
+Tiago Leite de Andrade.
+
+Tiago Miguel Santos Pereira.
+
+Vanda Eunice de Gouveia Ramalhinho.
+
+Vanessa Casteleiro Lucas da Silva.
+
+Vânia Soares da Rocha.
+
+Vera Lúcia Dias Coutinho Silva.
+
+Vera Lúcia Ribeiro Gomes Mota.
+
+Vera Rita Ferraz Casimiro.
+
+Os candidatos excluídos dispõem de 10 dias úteis, contados a partir da data da presente republicação no Diário da República, para se pronunciarem nos termos do artigo 52.º do [Decreto-Lei n.º 564/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1999-661768), de 21 de Dezembro.
+
+30 de Março de 2010. - O Presidente do Conselho de Administração, José Moreira Furtado Mateus.
+
+203099841

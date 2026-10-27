@@ -1,0 +1,256 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489770:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-114446914",
+ "dre_path": "/dr/detalhe/decreto-lei/225-2009-489770",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114447018",
+    "114447019",
+    "114447020",
+    "114447021",
+    "114447022",
+    "114447023",
+    "114447024",
+    "114447025",
+    "114447026",
+    "114447027",
+    "114447028",
+    "114447029",
+    "114447030",
+    "114447031",
+    "114447032",
+    "114447033",
+    "114447034",
+    "114447035"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "114447018",
+    "114447019",
+    "114447020",
+    "114447021",
+    "114447022",
+    "114447037",
+    "114447024",
+    "114447025",
+    "114447026",
+    "114447027",
+    "114447028",
+    "114447029",
+    "114449390",
+    "114449389",
+    "114447031",
+    "114447032",
+    "114447033",
+    "114447034",
+    "114447035",
+    "114447036"
+   ]
+  }
+ ],
+ "fragments": {
+  "114447018": {
+   "fragment_id": "114446915",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 225/2009\n\nde 14 de Setembro\n\nA Lei n.º 2/2007, de 15 de Janeiro, que aprova a Lei das Finanças Locais, instituiu um princípio de excepcionalidade inerente à concessão de auxílios financeiros às autarquias locais, ao fixar uma regra geral de proibição de concessão de quaisquer formas de subsídio ou comparticipação financeira aos municípios e freguesias por parte do Estado, dos institutos públicos ou dos fundos autónomos, salvo as devidas excepções, previstas no referido diploma.\n\nNo âmbito das referidas excepções, estabelece a Lei das Finanças Locais a possibilidade de concessão de auxílios financeiros às autarquias locais em situação de calamidade, a qual se encontra actualmente definida pela Lei n.º 27/2006, de 3 de Julho, estabelecendo a necessidade de criação, nesse âmbito, do Fundo de Emergência Municipal.\n\nNesta conformidade, cabe agora ao presente decreto-lei a definição do regime de concessão de auxílios financeiros acima referido, bem como o tratamento associado ao Fundo de Emergência Municipal, designadamente no que respeita à composição do mesmo.\n\nForam ouvidas a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 52.º da Lei n.º 64-A/2008, de 31 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114447019": {
+   "fragment_id": "114446916",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "114447020": {
+   "fragment_id": "114446917",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece o regime de concessão de auxílios financeiros, à administração local, em situação de declaração de calamidade.\n\n2 - É ainda criado, ao abrigo do n.º 4 do artigo 8.º da Lei das Finanças Locais (LFL), aprovada pela Lei n.º 2/2007, de 15 de Janeiro, alterada pelas Leis n.os 22-A/2007, de 29 de Junho, e 67-A/2007, de 31 de Dezembro, o Fundo de Emergência Municipal, abreviadamente designado por Fundo, no âmbito da gestão dos auxílios financeiros a que se refere o número anterior."
+  },
+  "114447021": {
+   "fragment_id": "114446918",
+   "type": 11,
+   "heading": "Artigo 2.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Legislação subsidiária\n\nA tudo o que não esteja especialmente previsto no presente decreto-lei aplica-se subsidiariamente o regime jurídico constante do Decreto-Lei n.º 384/87, de 24 de Dezembro, alterado pelos Decretos-Leis n.os 157/90, de 17 de Maio, e 319/2001, de 10 de Dezembro."
+  },
+  "114447022": {
+   "fragment_id": "114446919",
+   "type": 1,
+   "heading": "Capítulo II — Concessão de auxílios financeiros por calamidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Concessão de auxílios financeiros por calamidade"
+  },
+  "114447023": {
+   "fragment_id": "114446920",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Finalidade\n\n1 - Os instrumentos de auxílio financeiro em situação de calamidade visam a resolução de situações excepcionais de urgência fundamentada e comprovada.\n\n2 - Não obstante o disposto no número anterior, a concessão de auxílios financeiros nos termos do presente decreto-lei assume natureza subsidiária face a qualquer outro sistema de seguro, público ou privado, nacional ou internacional, de que beneficiem ou de que possam beneficiar os equipamentos ou infra-estruturas afectadas."
+  },
+  "114447024": {
+   "fragment_id": "114446921",
+   "type": 11,
+   "heading": "Artigo 4.º — Declaração de calamidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Declaração de calamidade\n\n1 - A concessão de auxílios financeiros regulada no presente decreto-lei depende de declaração de situação de calamidade.\n\n2 - A declaração da situação de calamidade a que se refere o número anterior é da competência do Governo e reveste a forma de resolução do Conselho de Ministros, nos termos previstos na Lei n.º 27/2006, de 3 de Julho."
+  },
+  "114447025": {
+   "fragment_id": "114446922",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem celebrar contratos de concessão de auxílio financeiro, no âmbito de declaração de situação de calamidade, os municípios, as comunidades intermunicipais e as áreas metropolitanas.\n\n2 - O regime de celebração de contratos de auxílio financeiro estabelecido no presente decreto-lei é igualmente aplicável às freguesias e respectivas associações de direito público."
+  },
+  "114447026": {
+   "fragment_id": "114446923",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma e conteúdo dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Forma e conteúdo dos contratos\n\nOs contratos de concessão de auxílio financeiro regulados no presente decreto-lei são celebrados por escrito e devem conter obrigatoriamente os seguintes elementos:\n\na) As partes contratantes;\n\nb) Os direitos e obrigações das partes contratantes;\n\nc) Os montantes a financiar pela administração central e pela administração local;\n\nd) Memória descritiva e justificativa da situação para a qual se requer auxílio financeiro;\n\ne) O objecto, contendo a descrição dos bens e, ou, equipamentos a serem abrangidos pelo contrato de concessão de auxílio financeiro em questão;\n\nf) A estrutura de acompanhamento e controlo da execução do contrato;\n\ng) As penalizações resultantes do incumprimento por qualquer das partes contratantes."
+  },
+  "114447027": {
+   "fragment_id": "114446924",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação das candidaturas\n\n1 - As candidaturas a contratos de auxílio financeiro são apresentadas junto da comissão de coordenação e desenvolvimento regional (CCDR) da área geográfica correspondente à entidade beneficiária.\n\n2 - A candidatura é apresentada em formulário próprio a aprovar através de portaria do membro do Governo responsável pela área das autarquias locais."
+  },
+  "114447028": {
+   "fragment_id": "114446925",
+   "type": 11,
+   "heading": "Artigo 8.º — Apreciação e selecção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apreciação e selecção das candidaturas\n\n1 - Compete à CCDR respectiva apreciar as candidaturas a contratos de auxílio financeiro, emitindo o respectivo parecer no prazo máximo de 15 dias contados da data de apresentação das candidaturas.\n\n2 - Na sequência do disposto no número anterior, a CCDR remete o respectivo parecer para autorização dos membros do Governo responsáveis pelas áreas das finanças e das autarquias locais."
+  },
+  "114447029": {
+   "fragment_id": "114446926",
+   "type": 11,
+   "heading": "Artigo 9.º — Acompanhamento da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acompanhamento da execução\n\nO acompanhamento da execução dos contratos de auxílio financeiro concedidos ao abrigo do presente decreto-lei é efectuado pela CCDR, ficando as partes envolvidas obrigadas a prestar-lhe toda a informação necessária."
+  },
+  "114447030": {
+   "fragment_id": "114446927",
+   "type": 11,
+   "heading": "Artigo 10.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Publicidade\n\n1 - Os contratos celebrados ao abrigo do presente decreto-lei, bem como as suas revisões, são publicados na 2.ª série do Diário da República.\n\n2 - Os responsáveis pela execução dos projectos financiados ficam obrigados a afixar, em local público bem visível, a designação do projecto, o montante do investimento, o prazo de execução, as entidades financiadoras e as respectivas comparticipações financeiras.\n\n3 - O modelo de afixação é aprovado através de portaria do membro do Governo responsável pela área das autarquias locais."
+  },
+  "114447031": {
+   "fragment_id": "114446928",
+   "type": 1,
+   "heading": "Capítulo III — Fundo de Emergência Municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fundo de Emergência Municipal"
+  },
+  "114447032": {
+   "fragment_id": "114446929",
+   "type": 11,
+   "heading": "Artigo 11.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Objecto\n\n1 - É criado, ao abrigo do n.º 4 do artigo 8.º da LFL, o Fundo a que se refere o artigo 1.º\n\n2 - O Fundo tem a natureza de património autónomo sem personalidade jurídica."
+  },
+  "114447033": {
+   "fragment_id": "114446930",
+   "type": 11,
+   "heading": "Artigo 12.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Objectivos\n\nO Fundo visa a concessão de auxílios financeiros às autarquias locais para a recuperação de equipamentos públicos da responsabilidade das mesmas, após declaração de calamidade, nos termos do artigo 3.º"
+  },
+  "114447034": {
+   "fragment_id": "114446931",
+   "type": 11,
+   "heading": "Artigo 13.º — Financiamento do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Financiamento do Fundo\n\n1 - O Orçamento do Estado contém anualmente uma autorização de despesa no montante máximo equivalente a 1 % do Fundo de Equilíbrio Financeiro (FEF) dos municípios do continente, do ano em questão, destinada exclusivamente a auxílios financeiros à administração local, em caso de declaração de calamidade, nos termos do artigo 3.º\n\n2 - A verba a que se refere o número anterior só pode ser utilizada para a finalidade prevista, caducando a autorização de despesa caso não seja utilizada."
+  },
+  "114447035": {
+   "fragment_id": "114446932",
+   "type": 11,
+   "heading": "Artigo 14.º — Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Administração\n\n1 - A gestão do Fundo é da competência da Direcção-Geral das Autarquias Locais (DGAL).\n\n2 - A execução financeira dos contratos a que se refere o artigo 6.º é efectuada pela DGAL, após parecer positivo emitido pela CCDR, sobre o cumprimento das respectivas cláusulas.\n\n3 - A DGAL envia semestralmente à Assembleia da República e à Associação Nacional de Municípios Portugueses um relatório sobre a gestão do Fundo e respectiva aplicação."
+  },
+  "114447037": {
+   "fragment_id": "114446920",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidade",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 311.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Finalidade\n\n1 - Os instrumentos de auxílio financeiro em situação de calamidade visam a resolução de situações excepcionais de urgência fundamentada e comprovada.\n\n2 - Não obstante o disposto no número anterior, a concessão de auxílios financeiros nos termos do presente decreto-lei assume natureza subsidiária face a qualquer outro sistema de seguro, público ou privado, nacional ou internacional, de que beneficiem ou de que possam beneficiar os equipamentos ou infra-estruturas afectadas.\n\n3 - Nas autarquias locais localizadas nas Regiões Autónomas dos Açores e da Madeira, a concessão de auxílios financeiros nos termos do presente decreto-lei assume natureza subsidiária face a regimes jurídicos vigentes entre a administração regional e as autarquias locais da respetiva região autónoma.\n\n4 - O disposto no número anterior não prejudica o acordo entre municípios, Governo Regional e Governo da República com vista à assunção das respetivas responsabilidades.\n\n> Alterado pelo/a Artigo 311.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "114449390": {
+   "fragment_id": "114446927",
+   "type": 11,
+   "heading": "Artigo 10.º — Publicidade",
+   "in_force_from": "2018-01-01",
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Publicidade\n\n1 - Os contratos celebrados ao abrigo do presente decreto-lei, bem como as suas revisões, são publicados no sítio da Internet do portal autárquico.\n\n2 - Os responsáveis pela execução dos projectos financiados ficam obrigados a afixar, em local público bem visível, a designação do projecto, o montante do investimento, o prazo de execução, as entidades financiadoras e as respectivas comparticipações financeiras.\n\n3 - O modelo de afixação é aprovado através de portaria do membro do Governo responsável pela área das autarquias locais."
+  },
+  "114449389": {
+   "fragment_id": "114440356",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Autarquias locais das Regiões Autónomas dos Açores e da Madeira",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 312.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Autarquias locais das Regiões Autónomas dos Açores e da Madeira\n\nNo caso das autarquias locais das regiões autónomas, a Direção-Geral das Autarquias Locais assume as funções atribuídas às CCDR no âmbito dos artigos 7.º a 9.º\n\n> Aditado pelo/a Artigo 312.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "114447036": {
+   "fragment_id": "114446933",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Carlos Pereira - João Manuel Machado Ferrão.\n\nPromulgado em 31 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 1 de Setembro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

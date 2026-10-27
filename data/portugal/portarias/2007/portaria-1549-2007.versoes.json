@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:628566:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-906091288",
+ "dre_path": "/dr/detalhe/portaria/1549-2007-628566",
+ "source_lastmod": "2025-02-04",
+ "versions": [
+  {
+   "date": "2007-12-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "906163313"
+   ]
+  }
+ ],
+ "fragments": {
+  "906163313": {
+   "fragment_id": "906091289",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1549/2007\n\nde 7 de Dezembro\n\nPor requerimento dirigido ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, um grupo de proprietários e produtores florestais, para o efeito constituído em núcleo fundador, veio apresentar um pedido de criação de uma zona de intervenção florestal (ZIF) abrangendo vários prédios rústicos de freguesias do município de Mação.\n\nForam cumpridas todas as formalidades legais previstas nos artigos 6.º a 9.º do Decreto-Lei n.º 127/2005, de 5 de Agosto, que estabelece o regime de criação das ZIF, bem como os princípios reguladores da sua constituição, funcionamento e extinção, e observado o disposto na Portaria n.º 222/2006, de 8 de Março, que estabelece os requisitos das entidades gestoras das ZIF.\n\nA Direcção-Geral dos Recursos Florestais emitiu parecer favorável à criação da ZIF.\n\nAssim, ao abrigo do disposto no n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2005, de 5 de Agosto:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  }
+ }
+}

@@ -1,0 +1,271 @@
+---
+schema_version: '1.0'
+id: pt:dre:423041:por
+title: Portaria n.º 643/99
+short_title: null
+summary: Aprova o Regulamento do Concurso Local para Ingresso no Curso de Cozinha e Produção Alimentar ministrado na Escola
+  Superior de Hotelaria e Turismo do Estoril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Economia e da Educação
+proposing_entity: null
+official_number: 643/99
+official_date: null
+publication_date: '1999-08-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 187/1999, Série I-B de 1999-08-12
+  number: '187'
+  series: I
+  supplement: null
+  pages: 5303 - 5305
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/187b00/53035305.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/643/1999/08/12/p/dre/pt/html
+  oj: null
+  dre: '423041'
+  dre_path: /dr/detalhe/portaria/643-1999-423041
+  internal: pt:dre:423041:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/643-1999-423041
+  metadata_url: https://data.dre.pt/eli/port/643/1999/08/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/643-1999-423041
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:16:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b9321728289ddeeb2a2c0229194f77d1a35007cef2013351a69b5e76eaf1bf47
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:16:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Concurso Local de Acesso
+- Curso de Cozinha e Produção Alimentar
+- Ensino Superior
+- Escola Superior de Hotelaria e Turismo do Estoril
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:320174:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:320174:por
+  label: "Prorrogada aplicação do presente regulamento para o ano lectivo de 2000-2001, pela PORT.408/2000.2000.07.17.MECO\
+    \ DR.IS-B [163]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/408-2000-320174
+  date: '2000-07-17'
+- type: cites
+  target: pt:dre:138571:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: pt:dre:173481:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
+- type: cites
+  target: pt:dre:546840:por
+  label: null
+  source: http://data.dre.pt/eli/port/1079/1995/09/01/p/dre
+- type: cites
+  target: pt:dre:676660:por
+  label: null
+  source: http://data.dre.pt/eli/port/147-a/1999/02/27/p/dre
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:16:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 643/99
+
+de 12 de Agosto
+
+Considerando o disposto no n.º 3 do artigo 27.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março;
+
+Considerando o disposto na [Portaria n.º 147-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-1999-676660), de 27 de Fevereiro;
+
+Ouvida a Comissão Nacional de Acesso ao Ensino Superior (CNAES):
+
+Manda o Governo, pelos Ministros da Economia e da Educação, o seguinte:
+
+1.º É aprovado o Regulamento do Concurso Local para Ingresso no Curso de Cozinha e Produção Alimentar ministrado na Escola Superior de Hotelaria e Turismo do Estoril, a que se refere o n.º 3 do artigo 27.º do citado decreto-lei, cujo texto se publica em anexo a esta portaria.
+
+2.º O texto referido no número anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.
+
+3.º Todas as alterações ao Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.
+
+4.º São revogados os n.os 6.º e 7.º da [Portaria n.º 1079/95](https://diariodarepublica.pt/dr/detalhe/portaria/1079-1995-546840), de 1 de Setembro.
+
+5.º Esta portaria entra em vigor no dia imediato ao da sua publicação.
+
+Em 12 de Julho de 1999.
+
+Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.
+
+REGULAMENTO DO CONCURSO LOCAL PARA INGRESSO NO CURSO DE COZINHA E PRODUÇÃO ALIMENTAR MINISTRADO NA ESCOLA SUPERIOR DE HOTELARIA E TURISMO DO ESTORIL.
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente Regulamento disciplina o concurso local para ingresso no curso de Cozinha e Produção Alimentar ministrado na Escola Superior de Hotelaria e Turismo do Estoril, a que se refere o n.º 3 do artigo 27.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, para a matrícula e inscrição no ano lectivo de 1999-2000.
+
+###### Artigo 2.º — Validade do concurso
+
+O concurso é válido apenas para o ano em que se realiza.
+
+###### Artigo 3.º — Condições para a candidatura
+
+1 - Para a candidatura ao concurso local o estudante deve satisfazer cumulativamente as seguintes condições:
+
+a) Ser titular de um curso do ensino secundário ou de habilitação legalmente equivalente;
+
+b) Fazer prova de capacidade para a frequência do ensino superior.
+
+2 - A avaliação de capacidade para a frequência do ensino superior é feita através de provas de ingresso e pré-requisitos, nos termos do artigo 16.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481).
+
+3 - O pré-requisito destina-se à selecção e seriação dos candidatos e será composto por uma prova de aptidão funcional, com carácter eliminatório. É constituído por uma prova de natureza prática, tendo em vista avaliar os conhecimentos dos candidatos na área da produção e confecção de alimentos.
+
+###### Artigo 4.º — Vagas
+
+As vagas para o concurso local são fixadas anualmente por portaria conjunta dos Ministros da Economia e da Educação, sob proposta da Escola Superior de Hotelaria e Turismo do Estoril, e distribuem-se pelos seguintes contingentes:
+
+1) 30% para estudantes titulares dos cursos de Cozinha/Pastelaria, Governantas de Andar, Recepção/Portaria e Restaurante/Bar ministrados pelas escolas de hotelaria e turismo tuteladas pelo Instituto Nacional de Formação Turística;
+
+2) 70% para os restantes candidatos.
+
+###### Artigo 5.º — Local e prazo de apresentação da candidatura
+
+1 - A candidatura é apresentada na Escola Superior de Hotelaria e Turismo do Estoril, Avenida do Conde de Barcelona, 2765 Estoril.
+
+2 - O prazo para a realização da candidatura é fixado nos termos do artigo 19.º
+
+###### Artigo 6.º — Apresentação da candidatura
+
+Têm legitimidade para efectuar a apresentação da candidatura:
+
+a) O estudante;
+
+b) Um seu procurador bastante;
+
+c) A pessoa que demonstre exercer o poder paternal ou tutelar.
+
+###### Artigo 7.º — Instrução do processo de candidatura
+
+O processo de candidatura deve ser instruído com:
+
+a) Requerimento em conformidade com a norma fornecida pela secretaria da Escola Superior de Hotelaria e Turismo do Estoril;
+
+b) Fotocópia simples do bilhete de identidade;
+
+c) Documento comprovativo da titularidade das habilitações de acesso com que se candidata.
+
+###### Artigo 8.º — Nota de candidatura
+
+Nos termos do artigo 26.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), a seriação dos candidatos é realizada com base numa nota de candidatura.
+
+###### Artigo 9.º — Seriação
+
+A seriação dos candidatos é feita com base na nota de candidatura, calculada de acordo com a fórmula fixada nos termos do artigo 26.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), e divulgada, na Escola Superior de Hotelaria e Turismo do Estoril, antes do início da candidatura.
+
+###### Artigo 10.º — Colocação
+
+A colocação dos candidatos nas vagas fixadas é feita pela ordem decrescente da lista seriada, até ao preenchimento das vagas, calculada nos termos do artigo 9.º
+
+###### Artigo 11.º — Desempate
+
+Sempre que dois ou mais candidatos em situação de empate, resultante da aplicação das regras de seriação a que se refere o artigo 9.º, disputem a última vaga ou o último conjunto de vagas do curso, são abertas tantas vagas adicionais quantas as necessárias para os admitir.
+
+###### Artigo 12.º — Competência
+
+As decisões sobre a candidatura a que se refere o presente Regulamento são da competência do órgão legal e estatutariamente competente da Escola Superior de Hotelaria e Turismo do Estoril.
+
+###### Artigo 13.º — Resultado final
+
+O resultado final exprime-se através de uma das seguintes situações:
+
+a) Colocado;
+
+b) Não colocado;
+
+c) Excluído.
+
+###### Artigo 14.º — Comunicação da decisão
+
+1 - O resultado final é tornado público através de aviso afixado na Escola Superior de Hotelaria e Turismo do Estoril, no prazo previamente fixado nos termos do artigo 19.º
+
+2 - Das listas afixadas constam, relativamente a cada estudante que se tenha apresentado a concurso:
+
+a) Nome;
+
+b) Número e local de emissão do bilhete de identidade;
+
+c) Resultado final, com inclusão da nota de candidatura a que se refere o artigo 8.º
+
+3 - A menção da situação de excluído carece de ser acompanhada da respectiva fundamentação legal.
+
+###### Artigo 15.º — Reclamações
+
+1 - Do resultado final podem os candidatos apresentar reclamação fundamentada, no prazo fixado nos termos do artigo 19.º, mediante exposição dirigida ao órgão legal e estatutariamente competente.
+
+2 - A reclamação é entregue em mão, no local onde o reclamante apresentou a candidatura, ou enviada pelo correio, em carta registada.
+
+3 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos nos termos dos números anteriores.
+
+4 - As decisões sobre as reclamações, que não tenham sido liminarmente rejeitadas nos termos do número anterior, são notificadas aos reclamantes através de carta registada, com aviso de recepção.
+
+###### Artigo 16.º — Matrícula e inscrição
+
+1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição, no prazo fixado nos termos do artigo 19.º
+
+2 - A colocação apenas tem efeito para o ano lectivo a que se refere, pelo que o direito à matrícula e inscrição no curso em que o candidato foi colocado caduca com o seu não exercício dentro do prazo fixado.
+
+###### Artigo 17.º — Exclusão de candidatos
+
+1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que prestem falsas declarações.
+
+2 - A decisão a que se refere o número anterior é proferida pelo órgão legal e estatutariamente competente da Escola.
+
+###### Artigo 18.º — Comunicação à Direcção-Geral do Ensino Superior
+
+Findo o prazo de matrícula e inscrição, a Escola Superior de Hotelaria e Turismo do Estoril enviará à Direcção-Geral do Ensino Superior uma lista donde constem todos os candidatos admitidos, com indicação do nome e número do bilhete de identidade.
+
+###### Artigo 19.º — Prazos
+
+1 - Os prazos em que devem ser praticados os actos previstos no presente Regulamento são fixados pela Escola Superior de Hotelaria e Turismo do Estoril, devendo ser tornados públicos quer através de aviso afixado na Escola, quer por meio da sua inclusão no guia do candidato.
+
+2 - É fixado o prazo de 12 de Julho a partir do qual se poderá dar início ao respectivo processo de candidatura ao concurso local.

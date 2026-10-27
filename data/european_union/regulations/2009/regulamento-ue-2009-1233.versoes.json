@@ -1,0 +1,144 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R1233:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1233-20091217",
+ "dre_path": null,
+ "source_lastmod": "2009-12-17",
+ "versions": [
+  {
+   "date": "2009-12-16",
+   "future": false,
+   "celex": "32009R1233",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "eb5a458e584c6443",
+    "8410702e7d5f5c87",
+    "90ffe0b03db10006",
+    "f70de92894306051",
+    "a4ab4ef0a28d7173",
+    "11c93df16777f355"
+   ]
+  },
+  {
+   "date": "2009-12-17",
+   "future": false,
+   "celex": "02009R1233-20091217",
+   "acts": [
+    {
+     "id": "eu:celex:32010R0119:por",
+     "title": "REGULAMENTO (UE) N. o 119/2010 DA COMISSÃO de 9 de Fevereiro de 2010",
+     "published": null,
+     "celex": "32010R0119"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 4.º",
+    "Altera Notas",
+    "Adita Artigo 3.º-A",
+    "Adita ANEXO ([^3^](http://publications.europa.eu/resource/cellar/7837fa60-323a-4903-8581-cd27766379d9.0018.03/DOC_1#E0003))"
+   ],
+   "fragments": [
+    "1f46e1a9e5a80e52",
+    "8410702e7d5f5c87",
+    "90ffe0b03db10006",
+    "f70de92894306051",
+    "42ff2fbe8dd963ed",
+    "92b46a477d9a7f6f",
+    "385de861640d24a3",
+    "b88d94102fc8986f"
+   ]
+  }
+ ],
+ "fragments": {
+  "eb5a458e584c6443": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Dezembro de 2009\n\nque estabelece uma medida específica de apoio ao mercado do sector do leite e dos produtos lácteos\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») [([^1])](http://publications.europa.eu/resource/cellar/2380f5cf-c80e-491f-8506-5745d268ff6b.0018.02/DOC_1#ntr1-L_2009330PT.01007001-E0001), nomeadamente o artigo 186.º e o artigo 188.º, n.º 2.º, em conjugação com o artigo 4.º,\n\nConsiderando o seguinte:\n\n(1) Na sequência, nomeadamente, da redução da procura decorrente da crise financeira e económica, verificou-se uma queda dos preços dos produtos lácteos no mercado mundial. Os preços de mercado comunitários dos produtos lácteos baixaram também significativamente devido à crise e a alterações no fornecimento.\n\n(2) A descida do preço dos produtos lácteos na União Europeia afectou profundamente os preços no produtor. É necessário tempo para uma retoma sustentável. Por conseguinte, justifica-se a concessão de um envelope financeiro aos Estados-Membros, para apoiar os produtores de leite gravemente afectados pela crise do sector e que enfrentam problemas de liquidez nestas circunstâncias.\n\n(3) O envelope financeiro destinado a cada Estado-Membro é calculado com base na produção leiteira de 2008/2009 no âmbito das quotas nacionais. Os Estados-Membros devem distribuir o montante nacional com base em critérios objectivos e de forma não discriminatória, evitando distorções de mercado e da concorrência.\n\n(4) A aplicação do regulamento deve obedecer às disposições institucionais de cada Estado-Membro.\n\n(5) O apoio aos produtores de leite deve revestir a forma de medida de intervenção destinada a regularizar os mercados agrícolas, na acepção do artigo 3.º, n.º 1, alínea b), do Regulamento (CE) n.º 1290/2005 do Conselho, de 21 de Junho de 2005, relativo ao financiamento da política agrícola comum [([^2])](http://publications.europa.eu/resource/cellar/2380f5cf-c80e-491f-8506-5745d268ff6b.0018.02/DOC_1#ntr2-L_2009330PT.01007001-E0002).\n\n(6) Por motivos orçamentais, a Comunidade financia as despesas de apoio financeiro dos Estados-Membros aos produtores de leite, desde que os pagamentos sejam efectuados dentro de prazos definidos.\n\n(7) Para garantir a transparência, o controlo e a administração adequada dos envelopes nacionais, os Estados-Membros devem informar a Comissão sobre os critérios objectivos que norteiam a definição dos métodos de concessão de apoio e as disposições tomadas para evitar distorções do mercado.\n\n(8) Para que os produtores de leite recebam o apoio com a maior brevidade possível, é necessário que os Estados-Membros possam aplicar o regulamento com igual brevidade. Consequentemente, impõe-se a sua imediata entrada em vigor.\n\n(9) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "8410702e7d5f5c87": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Estados-Membros utilizarão os montantes definidos no anexo para prestar apoio aos produtores de leite gravemente afectados pela crise do sector leiteiro, com base em critérios objectivos e não discriminatórios, desde que os pagamentos não causem distorção da concorrência."
+  },
+  "90ffe0b03db10006": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As medidas previstas no artigo 1.º do presente regulamento devem ser consideradas como intervenções destinadas a regularizar os mercados agrícolas, na acepção do artigo 3.º, n.º 1, alínea b), do Regulamento (CE) n.º 1290/2005 do Conselho.\n\n2. Os Estados-Membros devem proceder aos pagamentos relativos ao apoio objecto do artigo 1.º até 30 de Junho de 2010, o mais tardar."
+  },
+  "f70de92894306051": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNo que respeita ao apoio previsto no artigo 1.º do Regulamento, os Estados-Membros têm de comunicar à Comissão:\n\na) Imediatamente ou o mais tardar até 31 de Março de 2010, uma descrição dos critérios objectivos utilizados para determinar os métodos de concessão de apoio e as disposições adoptadas para evitar distorções do mercado;\n\nb) Até 30 de Agosto de 2010, os montantes totais de ajuda pagos, bem como o número e tipo de beneficiários."
+  },
+  "a4ab4ef0a28d7173": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 15 de Dezembro de 2009.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**José Manuel BARROSO**\n\n---"
+  },
+  "11c93df16777f355": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/2380f5cf-c80e-491f-8506-5745d268ff6b.0018.02/DOC_1#ntc1-L_2009330PT.01007001-E0001) [JO L 299 de 16.11.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_299_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/2380f5cf-c80e-491f-8506-5745d268ff6b.0018.02/DOC_1#ntc2-L_2009330PT.01007001-E0002) [JO L 209 de 11.8.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_209_R_TOC)."
+  },
+  "1f46e1a9e5a80e52": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Dezembro de 2009\n\nque estabelece uma medida específica de apoio ao mercado do sector do leite e dos produtos lácteos\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1234/2007 do Conselho, de 22 de Outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas (Regulamento «OCM única») ([^1^](http://publications.europa.eu/resource/cellar/7837fa60-323a-4903-8581-cd27766379d9.0018.03/DOC_1#E0001)), nomeadamente o artigo 186.º e o artigo 188.º, n.º 2.º, em conjugação com o artigo 4.º,\n\n(1) Na sequência, nomeadamente, da redução da procura decorrente da crise financeira e económica, verificou-se uma queda dos preços dos produtos lácteos no mercado mundial. Os preços de mercado comunitários dos produtos lácteos baixaram também significativamente devido à crise e a alterações no fornecimento.\n\n(2) A descida do preço dos produtos lácteos na União Europeia afectou profundamente os preços no produtor. É necessário tempo para uma retoma sustentável. Por conseguinte, justifica-se a concessão de um envelope financeiro aos Estados-Membros, para apoiar os produtores de leite gravemente afectados pela crise do sector e que enfrentam problemas de liquidez nestas circunstâncias.\n\n(3) O envelope financeiro destinado a cada Estado-Membro é calculado com base na produção leiteira de 2008/2009 no âmbito das quotas nacionais. Os Estados-Membros devem distribuir o montante nacional com base em critérios objectivos e de forma não discriminatória, evitando distorções de mercado e da concorrência.\n\n(4) A aplicação do regulamento deve obedecer às disposições institucionais de cada Estado-Membro.\n\n(5) O apoio aos produtores de leite deve revestir a forma de medida de intervenção destinada a regularizar os mercados agrícolas, na acepção do artigo 3.º, n.º 1, alínea b), do Regulamento (CE) n.º 1290/2005 do Conselho, de 21 de Junho de 2005, relativo ao financiamento da política agrícola comum ([^2^](http://publications.europa.eu/resource/cellar/7837fa60-323a-4903-8581-cd27766379d9.0018.03/DOC_1#E0002)).\n\n(6) Por motivos orçamentais, a Comunidade financia as despesas de apoio financeiro dos Estados-Membros aos produtores de leite, desde que os pagamentos sejam efectuados dentro de prazos definidos.\n\n(7) Para garantir a transparência, o controlo e a administração adequada dos envelopes nacionais, os Estados-Membros devem informar a Comissão sobre os critérios objectivos que norteiam a definição dos métodos de concessão de apoio e as disposições tomadas para evitar distorções do mercado.\n\n(8) Para que os produtores de leite recebam o apoio com a maior brevidade possível, é necessário que os Estados-Membros possam aplicar o regulamento com igual brevidade. Consequentemente, impõe-se a sua imediata entrada em vigor.\n\n(9) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité de Gestão para a Organização Comum dos Mercados Agrícolas,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "42ff2fbe8dd963ed": {
+   "fragment_id": "Artigo 3.º-A",
+   "type": "artigo",
+   "heading": "Artigo 3.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-A\n\nO facto gerador da taxa de câmbio para os montantes enunciados no anexo será a data de 17 de Dezembro de 2009."
+  },
+  "92b46a477d9a7f6f": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "385de861640d24a3": {
+   "fragment_id": "ANEXO ([^3^](http://publications.europa.eu/resource/cellar/7837fa60-323a-4903-8581-cd27766379d9.0018.03/DOC_1#E0003))",
+   "type": "divisao",
+   "heading": "ANEXO ([^3^](http://publications.europa.eu/resource/cellar/7837fa60-323a-4903-8581-cd27766379d9.0018.03/DOC_1#E0003))",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO ([^3^](http://publications.europa.eu/resource/cellar/7837fa60-323a-4903-8581-cd27766379d9.0018.03/DOC_1#E0003))\n\n| Milhões de EUR |  |\n| --- | --- |\n| BE | 7,212824 |\n| BG | 1,842622 |\n| CZ | 5,792943 |\n| DK | 9,859564 |\n| DE | 61,203560 |\n| EE | 1,302069 |\n| IE | 11,502500 |\n| EL | 1,581891 |\n| ES | 12,792178 |\n| FR | 51,127334 |\n| IT | 23,031475 |\n| CY | 0,316812 |\n| LV | 1,445181 |\n| LT | 3,099461 |\n| LU | 0,597066 |\n| HU | 3,565265 |\n| MT | 0,084511 |\n| NL | 24,586045 |\n| AT | 6,052604 |\n| PL | 20,211209 |\n| PT | 4,084693 |\n| RO | 5,010401 |\n| SI | 1,143094 |\n| SK | 2,034727 |\n| FI | 4,831752 |\n| SE | 6,427521 |\n| UK | 29,260698 |\n| EU-27 | 300,000000 |\n\n---"
+  },
+  "b88d94102fc8986f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7837fa60-323a-4903-8581-cd27766379d9.0018.03/DOC_1#src.E0001)) JO L 299 de 16.11.2007, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7837fa60-323a-4903-8581-cd27766379d9.0018.03/DOC_1#src.E0002)) JO L 209 de 11.8.2005, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7837fa60-323a-4903-8581-cd27766379d9.0018.03/DOC_1#src.E0003)) Com base na produção de leite de 2008/2009, no âmbito das quotas nacionais."
+  }
+ }
+}

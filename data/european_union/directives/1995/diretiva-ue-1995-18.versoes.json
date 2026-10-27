@@ -1,0 +1,752 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31995L0018:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01995L0018-20150617",
+ "dre_path": null,
+ "source_lastmod": "2015-06-17",
+ "versions": [
+  {
+   "date": "1995-06-27",
+   "future": false,
+   "celex": "31995L0018",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f7b3329fd804ab56",
+    "79c68377d8c4e309",
+    "7ed21464f797b10e",
+    "331111d944049bb9",
+    "7899aa459a7dcb4b",
+    "0ee6dfb538d96ad6",
+    "566943e2037c1da4",
+    "28d894a4968c0d76",
+    "1ad296fa6b114ccc",
+    "51faaa020084c9b1",
+    "144800ad5ad47b50",
+    "18b6c85317ec1e3f",
+    "a21a23f14ed95fec",
+    "abcab57d591a0770",
+    "6d496c043fdce64a",
+    "0ccd7f4cf1e4b721",
+    "d8febcc31620a578",
+    "3cbf8b46bd6db20e",
+    "ef91f0bd24414077",
+    "44add177f99f34d0",
+    "c629168183a5878d",
+    "6fd3d1e8965e9e71",
+    "3a0fcf1f67b7680c",
+    "36108ab238c1aaf5",
+    "771493c38dc4f49f"
+   ]
+  },
+  {
+   "date": "2001-03-15",
+   "future": false,
+   "celex": "01995L0018-20010315",
+   "acts": [
+    {
+     "id": "eu:celex:32001L0013:por",
+     "title": "DIRECTIVA 2001/13/CE DO PARLAMENTO EUROPEU E DO CONSELHO de 26 Fevereiro de 2001",
+     "published": null,
+     "celex": "32001L0013"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita SECÇÃO I",
+    "Adita Objectivo e âmbito de aplicação",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita SECÇÃO II",
+    "Adita Condições de obtenção de licença",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita SECÇÃO III",
+    "Adita Validade da licença",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita SECÇÃO IV",
+    "Adita Disposição transitória",
+    "Adita Artigo 14.º",
+    "Adita SECÇÃO V",
+    "Adita Disposições finais",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita ANEXO",
+    "Adita I. Informações a que se refere o n.º 2 do artigo 7.º",
+    "Adita II. Informações a que se refere o n.º 2 do artigo 8.º",
+    "Adita Notas",
+    "Suprime SECÇÃO I — Objectivo e âmbito de aplicação",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime SECÇÃO II — Condições de obtenção de licença",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime Artigo 7º",
+    "Suprime Artigo 8º",
+    "Suprime Artigo 9º",
+    "Suprime SECÇÃO III — Validade da licença",
+    "Suprime Artigo 10º",
+    "Suprime Artigo 11º",
+    "Suprime Artigo 12º",
+    "Suprime Artigo 13º",
+    "Suprime SECÇÃO IV — Disposição transitória",
+    "Suprime Artigo 14º",
+    "Suprime SECÇÃO V — Disposições finais",
+    "Suprime Artigo 15º",
+    "Suprime Artigo 16º",
+    "Suprime Artigo 17º",
+    "Suprime Artigo 18º",
+    "Suprime ANEXO — I. Informações a que se refere o nº 2 do artigo 7º"
+   ],
+   "fragments": [
+    "6ceab73c1b347c0a",
+    "19572906891c0646",
+    "a409dce01ae4ed72",
+    "376359fb689b83bf",
+    "5d8729eae0f152b5",
+    "543f80a6bf5cb685",
+    "0b50b9972a75b595",
+    "6a4c59cb4b48e0df",
+    "bfb8fea9d6326e5e",
+    "a462cf645ff2982f",
+    "8b4db9550565dd76",
+    "463b6d5808752016",
+    "e152898dbf5d284c",
+    "7542a40c1e5a38d6",
+    "b4f1bfdbc841cf04",
+    "f6b63d3a9bbb9e46",
+    "3f8f1f873157d999",
+    "8d5e593352cb14e9",
+    "f2b11914830b23ee",
+    "6e7d25b7b721dbed",
+    "b9c1c438fac65788",
+    "804cfe2bc5a8770c",
+    "050acfd518fe3859",
+    "184c1b7a3d24aa39",
+    "bbdde795c58f027f",
+    "23e259d4300bf4dd",
+    "e743fe61ed590a82",
+    "6e6b8bb76d599aac",
+    "75b0bb36a3be7d26",
+    "10220b9774fa9034",
+    "0078ecc122bda546",
+    "5b6b7e60e29c8ee0",
+    "9338748efa80b2e9"
+   ]
+  },
+  {
+   "date": "2004-04-30",
+   "future": false,
+   "celex": "01995L0018-20040430",
+   "acts": [
+    {
+     "id": "eu:celex:32004L0049:por",
+     "title": "DIRECTIVA 2004/49/CE DO PARLAMENTO EUROPEU E DO CONSELHO directiva relativa à segurança ferroviária de 29 de Abril de 2004",
+     "published": null,
+     "celex": "32004L0049"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 8.º",
+    "Altera Notas",
+    "Suprime II. Informações a que se refere o n.º 2 do artigo 8.º"
+   ],
+   "fragments": [
+    "1ee079011fdfc76a",
+    "19572906891c0646",
+    "a409dce01ae4ed72",
+    "376359fb689b83bf",
+    "5d8729eae0f152b5",
+    "543f80a6bf5cb685",
+    "0b50b9972a75b595",
+    "6a4c59cb4b48e0df",
+    "bfb8fea9d6326e5e",
+    "a462cf645ff2982f",
+    "8b4db9550565dd76",
+    "463b6d5808752016",
+    "1bbaaabf42591cdc",
+    "7542a40c1e5a38d6",
+    "b4f1bfdbc841cf04",
+    "f6b63d3a9bbb9e46",
+    "3f8f1f873157d999",
+    "8d5e593352cb14e9",
+    "f2b11914830b23ee",
+    "6e7d25b7b721dbed",
+    "b9c1c438fac65788",
+    "804cfe2bc5a8770c",
+    "050acfd518fe3859",
+    "184c1b7a3d24aa39",
+    "bbdde795c58f027f",
+    "23e259d4300bf4dd",
+    "e743fe61ed590a82",
+    "6e6b8bb76d599aac",
+    "75b0bb36a3be7d26",
+    "10220b9774fa9034",
+    "c8d3ef2bb32f7d05",
+    "e9ba2476b2db33a1"
+   ]
+  },
+  {
+   "date": "2015-06-17",
+   "future": false,
+   "celex": "01995L0018-20150617",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime SECÇÃO I",
+    "Suprime Objectivo e âmbito de aplicação",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime SECÇÃO II",
+    "Suprime Condições de obtenção de licença",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime SECÇÃO III",
+    "Suprime Validade da licença",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime SECÇÃO IV",
+    "Suprime Disposição transitória",
+    "Suprime Artigo 14.º",
+    "Suprime SECÇÃO V",
+    "Suprime Disposições finais",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime ANEXO",
+    "Suprime I. Informações a que se refere o n.º 2 do artigo 7.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "c0b668d192dd44b9"
+   ]
+  }
+ ],
+ "fragments": {
+  "f7b3329fd804ab56": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 95/18/CE do Conselho, de 19 de Junho de 1995, relativa às licenças das empresas de transporte ferroviário** *Jornal Oficial nº L 143 de 27/06/1995 p. 0070 - 0074*\n\nDIRECTIVA 95/18/CE DO CONSELHO de 19 de Junho de 1995 relativa às licenças das empresas de transporte ferroviário\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o seu artigo 75º;\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Comité Económico e Social (2),\n\nDeliberando nos termos do artigo 189º C do Tratado (3),\n\nConsiderando que o mercado único deve constituir um espaço sem fronteiras internas em que seja garantida a livre circulação de mercadorias, pessoas, serviços e capitais;\n\nConsiderando que o princípio da livre prestação de serviços se deve aplicar ao sector ferroviário, tendo em conta as características específicas desse sector;\n\nConsiderando que a Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários (4) prevê que as empresas de transporte ferroviário e os agrupamentos internacionais dessas empresas gozem de determinados direitos de acesso ao tráfico internacional ferroviário nela previstos;\n\nConsiderando que, a fim de garantir uma aplicação uniforme e não discriminatória dos direitos de acesso às infra-estruturas ferroviárias em toda a Comunidade, é necessário criar uma licença a favor das empresas de transporte ferroviário que efectuem os serviços a que se refere o artigo 10º da Directiva 91/440/CEE;\n\nConsiderando que é oportuno manter o âmbito de aplicação da Directiva 91/440/CEE, incluindo as excepções nela previstas para os serviços regionais, urbanos e suburbanos, especificando ao mesmo tempo que as operações de transporte efectuado por serviços de vai-vem através do túnel do Canal da Mancha ficam igualmente excluídas desse âmbito de aplicação;\n\nConsiderando que, nesta óptica, as licenças emitidas aos Estados-membros se devem considerar válidas em toda a Comunidade;\n\nConsiderando que as condições comunitárias de acesso ou de trânsito das infraestruturas ferroviárias serão reguladas por outros diplomas comunitários;\n\nConsiderando que, tendo e conta o princípio de subsidiariedade e a fim de garantir a uniformidade e a transparência exigidas, a Comunidade deve fixar as grande linhas deste sistema de licenças, deixando aos Estados-membros a responsabilidade pela respectiva concessão e administração;\n\nConsiderando que, para garantir serviços fiáveis e adequados, se torna necessário que as empresas de transporte ferroviário preencham permanentemente determinados requisitos em matéria de honorabilidade e de capacidade financeira e profissional;\n\nConsiderando que, para proteger tanto clientes como terceiros, é importante garantir que as empresas de transporte ferroviário estejam devidamente seguradas ou tenham celebrado acordos equivalentes, a fim de cobrir os riscos de responsabilidade civil;\n\nConsiderando a necessidade de, neste mesmo quadro jurídico, regular as questões da suspensão ou do cancelamento da licença e da emissão de licenças temporárias;\n\nConsiderando que as empresas de transporte ferroviário continuam, além disso, obrigadas a respeitar a legislação nacional e comunitária relativa à exploração de serviços ferroviários, imposta sem carácter discriminatório, com o objectivo de garantir o seu direito a exercer, com toda a segurança, a respectiva actividade em percursos específicos;\n\nConsiderando que, para garantir o funcionamento eficaz dos transportes ferroviários internacionais, é necessário que as empresas ferroviários respeitem os acordos em vigor nesta área;\n\nConsiderando, finalmente, que os mecanismos de emissão, manutenção e modificação das licenças das empresas de transporte ferroviário devem obedecer a uma preocupação geral de transparência e de não discriminação,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "79c68377d8c4e309": {
+   "fragment_id": "SECÇÃO I — Objectivo e âmbito de aplicação",
+   "type": "divisao",
+   "heading": "SECÇÃO I — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Objectivo e âmbito de aplicação"
+  },
+  "7ed21464f797b10e": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva diz respeito aos critérios aplicáveis à concessão, prorrogação ou alteração, por um Estado-membro, de licenças destinadas às empresas de transporte ferroviário que se encontrem estabelecidas ou venham a estabelecer-se na Comunidade, quando prestem os serviços referidos no artigo 10º da Directiva 91/440/CEE, nas condições constantes desse artigo.\n\n2. Ficam excluídas do âmbito de aplicação da presente directiva as empresas de transporte ferroviário cuja actividade se limite à exploração de transportes urbanos, suburbanos e regionais.\n\nAs empresas de transporte ferroviário e os agrupamentos internacionais cuja actividade se limite à prestação de serviços de vai-vem para o transporte de veículos rodoviários através do túnel do Canal da Mancha ficam igualmente excluídas do âmbito de aplicação da presente directiva.\n\n3. A validade de qualquer licença é extensiva a todo o território da Comunidade."
+  },
+  "331111d944049bb9": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\nPara efeitos da presente directiva, entende-se por:\n\na) « Empresa de transporte ferroviário », qualquer empresa de estatuto privado ou público, cuja actividade principal consista na prestação de serviços de transporte de mercadorias e/ou de passageiros por caminho-de-ferro, devendo a tracção ser obrigatoriamente assegurada por essa empresa;\n\nb) « Licença », uma autorização concedida por um Estado-membro a uma empresa, pela qual se reconhece a sua capacidade de actuar como empresa de transporte ferroviária. Esta capacidade pode ser limitada à prestação de tipos específicos de serviços de transporte;\n\nc) « Autoridade responsável pela concessão da licença », o organismo encarregado por cada Estado-membro da concessão das licenças ferroviárias;\n\nd) - « serviços urbanos e suburbanos », os serviços de transporte que dêem resposta às necessidades de um centro urbano ou de uma aglomeração, bem como às necessidades de transporte entre esse centro ou essa aglomeração e os respectivos subúrbios,\n\n- « serviços regionais », os serviços de transporte destinados a dar resposta às necessidades de transporte de uma região."
+  },
+  "7899aa459a7dcb4b": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nCada Estado-membro designará o organismo responsável pela concessão de licenças de exploração ferroviárias e pelo cumprimento das obrigações previstas na presente directiva."
+  },
+  "0ee6dfb538d96ad6": {
+   "fragment_id": "SECÇÃO II — Condições de obtenção de licença",
+   "type": "divisao",
+   "heading": "SECÇÃO II — Condições de obtenção de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Condições de obtenção de licença"
+  },
+  "566943e2037c1da4": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Uma empresa de transporte ferroviário tem o direito de solicitar uma licença de exploração no Estado-membro em que está estabelecida.\n\n2. Os Estados-membros não concederão licenças de exploração nem manterão a validade destas em caso de incumprimento das condições constantes da presente directiva.\n\n3. Uma empresa de transporte ferroviário que preencha as condições estabelecidas na presente directiva tem direito a receber uma licença.\n\n4. Uma empresa de transporte ferroviário não poderá prestar serviços de transporte ferroviário abrangidos pela presente directiva se não dispuser de uma licença adequada ao tipo de serviços a prestar.\n\nTodavia, esta licença não confere por si só qualquer direito de acesso à infra-estrutura ferroviária."
+  },
+  "28d894a4968c0d76": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\n1. Qualquer empresa de transporte ferroviário deve poder provar às autoridades responsáveis pela concessão de licenças do Estado-membro em causa, antes do início das suas actividades, que poderá satisfazer, em qualquer momento, as condições relativa à boa reputação, capacidade financeira e competência profissional, bem como à cobertura da sua responsabilidade civil, previstas nos artigos 6º a 9º\n\n2. Para efeitos do nº 1, as empresas que requererem uma licença deverão apresentar toda a informação necessária."
+  },
+  "1ad296fa6b114ccc": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros definirão em que condições se encontra preenchida a exigência de boa reputação para garantir que nem a empresa de transporte ferroviário que requer a licença nem as pessoas responsáveis pela sua gestão\n\n- foram condenadas por infracção penal grave, incluindo infracções de natureza comercial,\n\n- foram objecto de um processo de falência,\n\n- foram condenadas por infracções graves à legislação específica aplicável aos transportes,\n\n- foram condenadas por infracções graves ou reincidentes às obrigações que para elas decorram do direito social ou laboral, incluindo as resultantes de legislação relativa à protecção do trabalho."
+  },
+  "51faaa020084c9b1": {
+   "fragment_id": "Artigo 7º",
+   "type": "artigo",
+   "heading": "Artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º\n\n1. Os requisitos em matéria de capacidade financeira estão preenchidos se a empresa de transporte ferroviário que requer a licença puder provar que está em condições de cumprir as suas obrigações efectivas e potenciais, definidas segundo previsões realistas, por um período de doze meses.\n\n2. Para efeitos do nº 1, os pedidos de licença devem ser acompanhados, pelo menos, das informações constantes do anexo, parte I."
+  },
+  "144800ad5ad47b50": {
+   "fragment_id": "Artigo 8º",
+   "type": "artigo",
+   "heading": "Artigo 8º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º\n\n1. As condições relativas à competência profissional estão preenchidas sempre que:\n\na) A empresa de transporte ferroviário que requer a licença possua ou venha a possuir uma organização de gestão e experiência e/ou conhecimentos necessários para exercer um controlo de exploração e uma supervisão seguros e eficazes no que se refere ao tipo de operações especificado na licença;\n\nb) O pessoal responsável pela segurança, como os maquinistas, esteja plenamente qualificado para o seu campo de actividade;\n\ne\n\nc) O pessoal, o material circulante e a organização sejam de natureza a conferir aos serviços prestados um alto nível de segurança.\n\n2. Para efeitos do nº 1, os pedidos de licença devem ser acompanhados, pelo menos das informações constantes do Anexo, parte II.\n\n3. O cumprimento das condições em matéria de qualificação deverá ser confirmado mediante a apresentação de documentos comprovativos correspondentes."
+  },
+  "18b6c85317ec1e3f": {
+   "fragment_id": "Artigo 9º",
+   "type": "artigo",
+   "heading": "Artigo 9º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º\n\nEm aplicação das legislações nacionais e internacionais, as empresas de transporte ferroviário devem subscrever um seguro, ou um acordo equivalente, com cobertura de responsabilidade civil em caso de acidente, especialmente no que se refere aos passageiros, bagagem, carga, correio e terceiros."
+  },
+  "a21a23f14ed95fec": {
+   "fragment_id": "SECÇÃO III — Validade da licença",
+   "type": "divisao",
+   "heading": "SECÇÃO III — Validade da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Validade da licença"
+  },
+  "abcab57d591a0770": {
+   "fragment_id": "Artigo 10º",
+   "type": "artigo",
+   "heading": "Artigo 10º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º\n\n1. A licença será válida enquanto a empresa de transporte ferroviário preencher as condições estabelecidas na presente directiva. Contudo, a autoridade responsável pode prescrever uma revisão a intervalos regulares de, no máximo, cinco anos.\n\n2. A própria licença pode conter disposições específicas relativas à sua suspensão ou revogação."
+  },
+  "6d496c043fdce64a": {
+   "fragment_id": "Artigo 11º",
+   "type": "artigo",
+   "heading": "Artigo 11º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º\n\n1. A autoridade responsável pela concessão da licença pode, se existirem sérias dúvidas quanto ao cumprimento das condições estabelecidas na presente directiva, e especialmente no seu artigo 5º, por parte de uma empresa de transporte ferroviário detentora de uma licença, verificar, em qualquer altura, se essas condições são ou não respeitadas.\n\nA autoridade responsável pela concessão da licença suspenderá ou revogará a licença se verificar que a empresa de transporte ferroviário deixou de obedecer às condições previstas na presente directiva, especialmente no seu artigo 5º\n\n2. Sempre que a autoridade responsável pela concessão da licença de um Estado-membro verificar que existem sérias dúvidas quanto ao respeito das condições definidas na presente directiva por uma empresa de transporte ferroviário à qual foi concedida uma licença pela autoridade de outro Estado-membro, informará sem demora esta autoridade de tal facto.\n\n3. Não obstante o disposto no nº 1, quando uma licença for suspensa ou revogada por não preenchimento das condições relativas à capacidade financeira, a autoridade responsável pela concessão da licença pode conceder uma licença temporária durante a reorganização da empresa de transporte ferroviário, desde que a segurança não esteja em risco. No entanto, tal licença temporária apenas será válida durante um prazo máximo de seis meses a contar da data da sua concessão.\n\n4. Quando uma empresa de transporte ferroviário tiver cessado as suas actividades há seis meses ou não tiver iniciado as suas actividades seis meses depois da concessão da licença, a autoridade responsável pela concessão da licença decidirá se esta deve ser novamente submetida a aprovação ou suspensa.\n\nEm caso de início da actividade, a empresa de transporte ferroviário pode solicitar que seja fixado um prazo mais longo, tendo em conta a especificidade dos serviços prestados.\n\n5. Em caso de se verificar uma alteração que afecte a situação jurídica de uma empresa de transporte ferroviário, a especialmente em caso de fusão ou aquisição, a autoridade responsável pela concessão da licença pode decidir se esta deve ser novamente submetida a aprovação. A empresa ferroviária em questão poderá prosseguir as suas actividades, a não ser que a autoridade responsável pela concessão da licença considere que isso implica riscos em matéria de segurança; nesse caso, a decisão deve ser fundamentada.\n\n6. Sempre que uma empresa de transporte ferroviário prentender alterar ou ampliar significativamente as suas actividades, a licença deve ser submetida à autoridade responsável pela sua concessão, a fim de ser reexaminada.\n\n7. Uma empresa de transporte ferroviário que tenha pendente contra si um processo de falência ou similar não será autorizada pela autoridade responsável pela concessão da licença a manter a sua licença se a referida autoridade considerar que não existem perspectivas realistas para uma recuperação financeira satisfatória num período de tempo razoável.\n\n8. Sempre que a autoridade responsável pela concessão da licença tiver suspendido, revogado ou alterado uma licença, o Estado-membro em questão informará imediatamente a Comissão. Esta, por sua vez informará sem demora os restantes Estados-membros."
+  },
+  "0ccd7f4cf1e4b721": {
+   "fragment_id": "Artigo 12º",
+   "type": "artigo",
+   "heading": "Artigo 12º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º\n\nPara além das regras estabelecidas na presente directiva, a empresa de transporte ferroviário respeitará também as disposições da legislação nacional compatíveis com o direito comunitário, impostas de maneira não discriminatória, nomedamente no que se refere:\n\n- às condições técnicas e operacionais específicas dos serviços ferroviários,\n\n- às condições de segurança aplicáveis ao pessoal, ao material circulante e à organização interna da empresa,\n\n- às disposições em matéria de saúde, segurança, condições sociais e direitos dos trabalhadores e dos utilizadores."
+  },
+  "d8febcc31620a578": {
+   "fragment_id": "Artigo 13º",
+   "type": "artigo",
+   "heading": "Artigo 13º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º\n\nAs empresas de transporte ferroviário devem respeitar os acordos aplicáveis ao transporte internacional ferroviário em vigor no Estado-membro em que operam."
+  },
+  "3cbf8b46bd6db20e": {
+   "fragment_id": "SECÇÃO IV — Disposição transitória",
+   "type": "divisao",
+   "heading": "SECÇÃO IV — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposição transitória"
+  },
+  "ef91f0bd24414077": {
+   "fragment_id": "Artigo 14º",
+   "type": "artigo",
+   "heading": "Artigo 14º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º\n\nAs empresas de transporte ferroviário que prestam serviços ferroviários na data-limite de transposição prevista no nº 2 do artigo 16º, beneficiarão de um período transitório de doze meses para poderem adaptar-se às disposições da presente directiva. Este período transitório não se aplica às disposições que possam afectar a segurança dos serviços ferroviários."
+  },
+  "44add177f99f34d0": {
+   "fragment_id": "SECÇÃO V — Disposições finais",
+   "type": "divisao",
+   "heading": "SECÇÃO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Disposições finais"
+  },
+  "c629168183a5878d": {
+   "fragment_id": "Artigo 15º",
+   "type": "artigo",
+   "heading": "Artigo 15º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º\n\n1. Os precedimentos de concessão de licenças serão publicados pelo Estado-membro interessado, que desse facto informará a Comissão.\n\n2. A autoridade responsável pela concessão da licença tomará uma decisão sobre o respectivo pedido, tendo em conta todos os elementos de que dispõe, o mais rapidamente possível e o mais tardar três meses após lhe terem sido apresentadas todas as informações necessárias, nomeadamente os dados referidos no anexo. A decisão será comunicada à empresa de transporte ferroviário requerente. Qualquer recusa deve ser fundamentada.\n\n3. Os Estados-membros tomarão as medidas necessárias para garantir que as decisões das autoridades responsáveis pela concessão de licenças possam ser submetidas a controlo jurisdicional."
+  },
+  "6fd3d1e8965e9e71": {
+   "fragment_id": "Artigo 16º",
+   "type": "artigo",
+   "heading": "Artigo 16º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º\n\n1. A Comissão apresentará ao Conselho, dois anos após o início de aplicação da presente directiva, um relatório sobre essa aplicação, acompanhado, se adequado, de propostas relativas à prossecução da acção comunitária em matéria de desenvolvimento dos caminhos-de-ferro, nomeadamente quanto à possibilidade de aplicação do âmbito de aplicação da presente directiva.\n\n2. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva no prazo de dois anos a contar da sua entrada em vigor. Desse facto informarão imediatamente a Comissão.\n\n3. Quando os Estados-membros adoptarem as disposições previstas no nº 2, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-membros."
+  },
+  "3a0fcf1f67b7680c": {
+   "fragment_id": "Artigo 17º",
+   "type": "artigo",
+   "heading": "Artigo 17º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º\n\nO presente regulamento entra em vigor no dia da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "36108ab238c1aaf5": {
+   "fragment_id": "Artigo 18º",
+   "type": "artigo",
+   "heading": "Artigo 18º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito no Luxemburgo, em 19 de Junho de 1995.\n\nPelo Conselho\n\nO Presidente\n\nB. PONS\n\n(1) JO nº C 24 de 28. 1. 1994, p. 2, e JO nº C 225 de 13. 8. 1994, p. 9.\n\n(2) Parecer emitido em 14 de Setembro de 1994 (JO nº C 393 de 31. 12. 1994, p. 56).\n\n(3) Parecer do Parlamento Europeu de 3 de Maio de 1994 (JO nº C 205 de 25. 7. 1994, p. 38), Posição Comum do Conselho de 21 de Novembro de 1994 (JO nº C 354 de 13. 12. 1994, p. 11) e decisão do Parlamento Europeu de 14 de Março de 1995 (JO nº C 89 de 10. 4. 1995, p. 30.)\n\n(4) JO nº L 237 de 24. 8. 1991, p. 25."
+  },
+  "771493c38dc4f49f": {
+   "fragment_id": "ANEXO — I. Informações a que se refere o nº 2 do artigo 7º",
+   "type": "divisao",
+   "heading": "ANEXO — I. Informações a que se refere o nº 2 do artigo 7º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — I. Informações a que se refere o nº 2 do artigo 7º\n\n1. A análise da capacidade financeira efectua-se com base nas contas anuais da empresa e, para as empresas que pedem uma licença e não têm possibilidade de apresentar tais contas, com base no balanço anual. Para essa análise, devem ser prestadas informações pormenorizadas, nomeadamente sobre os seguintes aspectos:\n\na) Recursos financeiros disponíveis, incluindo depósitos bancários, adiantamentos concedidos sobre contas correntes e empréstimos;\n\nb) Fundos e elementos do activo mobilizáveis a título de garantia;\n\nc) Capital de exploração;\n\nd) Custos relevantes, incluindo os custos de aquisição e os sinais pagos por conta da aquisição de veículos, terrenos, edifícios, instalações e material circulante;\n\ne) Encargos sobre o património da empresa.\n\n2. O requerente não apresenta a capacidade financeira requerida nomeadamente quando se encontrem em considerável atraso os pagamentos de impostos ou encargos sociais devidos pela actividade da empresa.\n\n3. A autoridade pode exigir, nomeadamente, a apresentação de um relatório de peritagem e de documentos adequados elaborados por um banco, uma caixa de poupança pública, um revisor oficial de contas ou um perito de contas ajuramentado. Deverão constar de tais documentos as informações relativas aos aspectos mencionados no nº 1.\n\nII. Informações a que se refere o nº 2 do artigo 8º\n\n1. Informações acerca da natureza e manutenção do material circulante no que se refere, nomeadamente, às normas de segurança.\n\n2. Informações sobre as habilitações do pessoal responsável pela segurança e pelas normas de formação do pessoal."
+  },
+  "6ceab73c1b347c0a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Junho de 1995\n\nrelativa às licenças das empresas de transporte ferroviário\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o seu artigo 75.º;\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/4540aef2-4145-4916-b0e6-cbdb277b0398.0010.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/4540aef2-4145-4916-b0e6-cbdb277b0398.0010.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 189.º C do Tratado ([^3^](http://publications.europa.eu/resource/cellar/4540aef2-4145-4916-b0e6-cbdb277b0398.0010.03/DOC_1#E0003)),\n\nConsiderando que o mercado único deve constituir um espaço sem fronteiras internas em que seja garantida a livre circulação de mercadorias, pessoas, serviços e capitais;\n\nConsiderando que o princípio da livre prestação de serviços se deve aplicar ao sector ferroviário, tendo em conta as características específicas desse sector;\n\nConsiderando que a Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários ([^4^](http://publications.europa.eu/resource/cellar/4540aef2-4145-4916-b0e6-cbdb277b0398.0010.03/DOC_1#E0004)) prevê que as empresas de transporte ferroviário e os agrupamentos internacionais dessas empresas gozem de determinados direitos de acesso ao tráfico internacional ferroviário nela previstos;\n\nConsiderando que, a fim de garantir uma aplicação uniforme e não discriminatória dos direitos de acesso às infra-estruturas ferroviárias em toda a Comunidade, é necessário criar uma licença a favor das empresas de transporte ferroviário que efectuem os serviços a que se refere o artigo 10.º da Directiva 91/440/CEE;\n\nConsiderando que é oportuno manter o âmbito de aplicação da Directiva 91/440/CEE, incluindo as excepções nela previstas para os serviços regionais, urbanos e suburbanos, especificando ao mesmo tempo que as operações de transporte efectuado por serviços de vai-vem através du túnel do Canal da Mancha ficam igualmente excluídas desse âmbito de aplicação;\n\nConsiderando que, nesta óptica, as licenças emitidas aos Estados-membros se devem considerar válidas em toda a Comunidade;\n\nConsiderando que as condições comunitárias de acesso ou de trânsito pelas infraestruturas ferroviárias serão reguladas por outros diplomas comunitários;\n\nConsiderando que, tendo e conta o princípio de subsidiariedade e a fim de garantir a uniformidade e a transparência exigidas, a Comunidade deve fixar as grande linhas deste sistema de licenças, deixando aos Estados-membros a responsabilidade pela respectiva concessão e administração;\n\nConsiderando que, para garantir serviços fiáveis e adequados, se torna necessário que as empresas de transporte ferroviário preencham permanentemente determinados requisitos em matéria de honorabilidade e de capacidade financeira e profissional;\n\nConsiderando que, para proteger tanto clientes como terceiros, é importante garantir que as empresas de transporte ferroviário estejam devidamente seguradas ou tenham celebrado acordos equivalentes, a fim de cobrir os riscos de responsabilidade civil;\n\nConsiderando a necessidade de, neste mesmo quadro jurídico, regular as questões da suspensão ou do cancelamento da licença e da emissão de licenças temporárias;\n\nConsiderando que as empresas de transporte ferroviário continuam, além disso, obrigadas a respeitar a legislação nacional e comunitária relativa à exploração de serviços ferroviários, imposta sem carácter discriminatório, com o objectivo de garantir o seu direito a exercer, com toda a segurança, a respectiva actividade em percursos específicos;\n\nConsiderando que, para garantir o funcionamento eficaz dos transportes ferroviários internacionais, é necessário que as empresas ferroviários respeitem os acordos em vigor nesta área;\n\nConsiderando, finalmente, que os mecanismos de emissão, manutenção e modificação das licenças das empresas de transporte ferroviário devem obedecer a uma preocupação geral de transparência e de não discriminação,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "19572906891c0646": {
+   "fragment_id": "SECÇÃO I",
+   "type": "divisao",
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO I"
+  },
+  "a409dce01ae4ed72": {
+   "fragment_id": "Objectivo e âmbito de aplicação",
+   "type": "divisao",
+   "heading": "Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Objectivo e âmbito de aplicação"
+  },
+  "376359fb689b83bf": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva diz respeito aos critérios aplicáveis à concessão, prorrogação ou alteração, por um Estado-Membro, de licenças destinadas às empresas de transporte ferroviário que se encontrem estabelecidas ou venham a estabelecer-se na Comunidade.\n\n2. Os Estados-Membros podem excluir do âmbito de aplicação da presente directiva:\n\na) Empresas de transporte ferroviário que efectuem apenas serviços de transporte de passageiros em infra-estruturas ferroviárias locais e regionais autónomas;\n\nb) Empresas de transporte ferroviário que efectuem apenas serviços ferroviários urbanos e suburbanos de transporte de passageiros;\n\nc) Empresas de transporte ferroviário cuja actividade se limite à prestação de serviços regionais de transporte de mercadorias que não sejam abrangidos pelo âmbito de aplicação da Directiva 91/440/CEE;\n\nd) Empresas de transporte ferroviário que efectuem apenas as suas próprias operações de transporte de mercadorias em infra-estruturas ferroviárias privadas destinadas a ser utilizadas exclusivamente pelo proprietário para as suas próprias operações de transporte de mercadorias.\n\n3. Ficam excluídas do âmbito de aplicação da presente directiva as empresas cuja actividade se limite à prestação de serviços de transporte por vaivém de veículos rodoviários pelo túnel da Mancha."
+  },
+  "5d8729eae0f152b5": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos da presente directiva, entende-se por:\n\na) «Empresa de transporte ferroviário», qualquer empresa de estatuto privado ou público, cuja actividade principal consista na prestação de serviços de transporte de mercadorias e/ou de passageiros por caminho-de-ferro, devendo a tracção ser obrigatoriamente assegurada por essa empresa, incluindo empresas que apenas prestem serviços de tracção;\n\nb) «Licença», uma autorização concedida por um Estado-membro a uma empresa, pela qual se reconhece a sua capacidade de actuar como empresa de transporte ferroviária. Esta capacidade pode ser limitada à prestação de tipos específicos de serviços de transporte;\n\nc) «Autoridade responsável pela concessão da licença», o organismo encarregado por cada Estado-membro da concessão das licenças ferroviárias;\n\n— «serviços urbanos e suburbanos», os serviços de transporte que dêem resposta às necessidades de um centro urbano ou de uma aglomeração, bem como às necessidades de transporte entre esse centro ou essa aglomeração e os respectivos subúrbios,\n\n— «serviços regionais», os serviços de transporte destinados a dar resposta às necessidades de transporte de uma região."
+  },
+  "543f80a6bf5cb685": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCada Estado-Membro designa o organismo responsável pela concessão das licenças e pelo cumprimento das obrigações previstas na presente directiva. A responsabilidade da concessão de licenças está a cargo de um organismo que não preste serviços de transporte ferroviário e seja independente dos organismos ou empresas que os prestam."
+  },
+  "0b50b9972a75b595": {
+   "fragment_id": "SECÇÃO II",
+   "type": "divisao",
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO II"
+  },
+  "6a4c59cb4b48e0df": {
+   "fragment_id": "Condições de obtenção de licença",
+   "type": "divisao",
+   "heading": "Condições de obtenção de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições de obtenção de licença"
+  },
+  "bfb8fea9d6326e5e": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Uma empresa de transporte ferroviário tem o direito de solicitar uma licença de exploração no Estado-membro em que está estabelecida.\n\n2. Os Estados-membros não concederão licenças de exploração nem manterão a validade destas em caso de incumprimento das condições constantes da presente directiva.\n\n3. Uma empresa de transporte ferroviário que preencha as condições estabelecidas na presente directiva tem direito a receber uma licença.\n\n4. Uma empresa de transporte ferroviário não poderá prestar serviços de transporte ferroviário abrangidos pela presente directiva se não dispuser de uma licença adequada ao tipo de serviços a prestar.\n\nTodavia, esta licença não confere por si só qualquer direito de acesso à infra-estrutura ferroviária.\n\n5. As licenças são válidas em todo o território da Comunidade."
+  },
+  "a462cf645ff2982f": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Qualquer empresa de transporte ferroviário deve poder provar às autoridades responsáveis pela concessão de licenças do Estado-membro em causa, antes do início das suas actividades, que poderá satisfazer, em qualquer momento, as condições relativa à boa reputação, capacidade financeira e competência profissional, bem como à cobertura da sua responsabilidade civil, previstas nos artigos 6.º a 9.º\n\n2. Para efeitos do n.º 1, as empresas que requererem uma licença deverão apresentar toda a informação necessária."
+  },
+  "8b4db9550565dd76": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs Estados-membros definirão em que condições se encontra preenchida a exigência de boa reputação para garantir que nem a empresa de transporte ferroviário que requer a licença nem as pessoas responsáveis pela sua gestão\n\n— foram condenadas por infracção penal grave, incluindo infracções de natureza comercial,\n\n— foram objecto de um processo de falência,\n\n— foram condenadas por infracções graves à legislação específica aplicável aos transportes,\n\n— foram condenadas por infracções graves ou reiteradas às obrigações que para elas decorram do direito social ou do trabalho, incluindo as resultantes de legislação relativa à protecção do trabalho e de legislação em matéria aduaneira, no caso de uma empresa que pretenda efectuar transportes transfronteiriços de mercadorias, sujeitos a trâmites aduaneiros."
+  },
+  "463b6d5808752016": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os requisitos em matéria de capacidade financeira estão preenchidas se a empresa de transporte ferroviário que requer a licença puder provar que está em condições de cumprir as suas obrigações efectivas e potenciais, definidas segundo previsões realistas, por um período de doze meses.\n\n2. Para efeitos do n.º 1, os pedidos de licença devem ser acompanhados, pelo menos, das informações constantes do anexo, parte I."
+  },
+  "e152898dbf5d284c": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As condições relativas à competência profissional estão preenchidas sempre que:\n\na) A empresa de transporte ferroviário que requer a licença possua ou venha a possuir uma organização de gestão e experiência e/ou conhecimentos necessários para exercer um controlo de exploração e uma supervisão seguros e eficazes no que se refere ao tipo de operações especificado na licença;\n\nb) O pessoal responsável pela segurança, como os maquinistas, esteja plenamente qualificado para o seu campo de actividade;\n\nc) O pessoal, o material circulante e a organização sejam de natureza a conferir aos serviços prestados um alto nível de segurança.\n\n2. Para efeitos do n.º 1, os pedidos de licença devem ser acompanhados, pelo menos das informações constantes do Anexo, parte II.\n\n3. O cumprimento das condições em matéria de qualificação deverá ser confirmado mediante a apresentação de documentos comprovativos correspondentes."
+  },
+  "7542a40c1e5a38d6": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nEm aplicação das legislações nacionais e internacionais, as empresas de transporte ferroviário devem subscrever um seguro, ou um acordo equivalente, com cobertura de responsabilidade civil em caso de acidente, especialmente no que se refere aos passageiros, bagagem, carga, correio e terceiros."
+  },
+  "b4f1bfdbc841cf04": {
+   "fragment_id": "SECÇÃO III",
+   "type": "divisao",
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO III"
+  },
+  "f6b63d3a9bbb9e46": {
+   "fragment_id": "Validade da licença",
+   "type": "divisao",
+   "heading": "Validade da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Validade da licença"
+  },
+  "3f8f1f873157d999": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. A licença será válida enquanto a empresa de transporte ferroviário preencher as condições estabelecidas na presente directiva. Contudo, a autoridade responsável pode prescrever uma revisão a intervalos regulares de, no máximo, cinco anos.\n\n2. A própria licença pode conter disposições específicas relativas à sua suspensão ou revogação."
+  },
+  "8d5e593352cb14e9": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A autoridade responsável pela concessão da licença pode, se existirem sérias dúvidas quanto ao cumprimento das condições estabelecidas na presente directiva, e especialmente no seu artigo 5.º, por parte de uma empresa de transporte ferroviário detentora de uma licença, verificar, em qualquer altura, se essas condições são ou não respeitadas.\n\nA autoridade responsável pela concessão da licença suspenderá ou revogará a licença se verificar que a empresa de transporte ferroviário deixou de obedecer às condições previstas na presente directiva, especialmente no seu artigo 5.º\n\n2. Sempre que a autoridade responsável pela concessão da licença de um Estado-membro verificar que existem sérias dúvidas quanto ao respeito das condições definidas na presente directiva por uma empresa de transporte ferroviário à qual foi concedida uma licença pela autoridade de outro Estado-membro, informará sem demora esta autoridade de tal facto.\n\n3. Não obstante o disposto no n.º 1, quando uma licença for suspensa ou revogada por não preenchimento das condições relativas à capacidade financeira, a autoridade responsável pela concessão da licença pode conceder uma licença temporária durante a reorganização da empresa de transporte ferroviário, desde que a segurança não esteja em risco. No entanto, tal licença temporária apenas será válida durante um prazo máximo de seis meses a contar da data da sua concessão.\n\n4. Quando uma empresa de transporte ferroviário tiver cessado as suas actividades há seis meses ou não tiver iniciado as suas actividades seis meses depois da concessão da licença, a autoridade responsável pela concessão da licença decidirá se esta deve ser novamente submetida a aprovação ou suspensa.\n\nEm caso de início da actividade, a empresa de transporte ferroviário pode solicitar que seja fixado um prazo mais longo, tendo em conta a especificidade dos serviços prestados.\n\n5. Em caso de se verificar uma alteração que afecte a situação jurídica de uma empresa de transporte ferroviário, a especialmente em caso de fusão ou aquisição, a autoridade responsável pela concessão da licença pode decidir se esta deve ser novamente submetida a aprovação. A empresa ferroviária em questão poderá prosseguir as suas actividades, a não ser que a autoridade responsável pela concessão da licença considere que isso implica riscos em matéria de segurança; nesse caso, a decisão deve ser fundamentada.\n\n6. Sempre que uma empresa de transporte ferroviário prentender alterar ou ampliar significativamente as suas actividades, a licença deve ser submetida à autoridade responsável pela sua concessão, a fim de ser reexaminada.\n\n7. Uma empresa de transporte ferroviário que tenha pendente contra si um processo de falência ou similar não será autorizada pela autoridade responsável pela concessão da licença a manter a sua licença se a referida autoridade considerar que não existem perspectivas realistas para uma recuperação financeira satisfatória num período de tempo razoável.\n\n8. Sempre que a autoridade responsável pela concessão da licença a conceda, suspenda, revogue ou altere, o Estado-Membro em questão informará imediatamente a Comissão desse facto. Esta, por sua vez, informará sem demora os restantes Estados-Membros."
+  },
+  "f2b11914830b23ee": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Para além das regras estabelecidas na presente directiva, a empresa de transporte ferroviário respeitará também a legislação nacional e as disposições regulamentares compatíveis com o direito comunitário e aplicadas de maneira não discriminatória, nomeadamente no que se refere a:\n\na) Condições técnicas e operacionais específicas dos serviços ferroviários;\n\nb) Condições de segurança aplicáveis ao pessoal, ao material circulante e à organização interna da empresa;\n\nc) Disposições em matéria de saúde, segurança, condições sociais e direitos dos trabalhadores e dos utilizadores;\n\nd) Requisitos aplicáveis a todas as empresas do sector ferroviário relevante destinadas a oferecer benefícios ou protecção aos consumidores.\n\n2. As empresas de transporte ferroviário podem, em qualquer momento, apresentar à Comissão a questão da compatibilidade dos requisitos da legislação nacional com a legislação comunitária bem como a questão de saber se esses requisitos são aplicados de maneira não discriminatória. Se a Comissão considerar que as disposições da presente directiva não foram respeitadas, deverá dar parecer sobre a interpretação correcta da directiva, sem prejuízo do artigo 226.º do Tratado."
+  },
+  "6e7d25b7b721dbed": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs empresas de transporte ferroviário devem respeitar os acordos aplicáveis ao transporte internacional ferroviário em vigor no Estado-Membro em que operam e devem igualmente cumprir as disposições aduaneiras e fiscais aplicáveis."
+  },
+  "b9c1c438fac65788": {
+   "fragment_id": "SECÇÃO IV",
+   "type": "divisao",
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO IV"
+  },
+  "804cfe2bc5a8770c": {
+   "fragment_id": "Disposição transitória",
+   "type": "divisao",
+   "heading": "Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposição transitória"
+  },
+  "050acfd518fe3859": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs empresas de transporte ferroviário que prestam serviços ferroviários na data-limite de transposição prevista no n.º 2 do artigo 16.º, beneficiarão de um período transitório de doze meses para poderem adaptar-se às disposições da presente directiva. Este período transitório não se aplica às disposições que possam afectar a segurança dos serviços ferroviários."
+  },
+  "184c1b7a3d24aa39": {
+   "fragment_id": "SECÇÃO V",
+   "type": "divisao",
+   "heading": "SECÇÃO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO V"
+  },
+  "bbdde795c58f027f": {
+   "fragment_id": "Disposições finais",
+   "type": "divisao",
+   "heading": "Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições finais"
+  },
+  "23e259d4300bf4dd": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os precedimentos de concessão de licenças serão publicados pelo Estado-membro interessado, que desse facto informará a Comissão.\n\n2. A autoridade responsável pela concessão da licença tomará uma decisão sobre o respectivo pedido, tendo em conta todos os elementos de que dispõe, o mais rapidamente possível e o mais tardar três meses após lhe terem sido apresentadas todas as informações necessárias, nomeadamente os dados referidos no anexo. A decisão será comunicada à empresa de transporte ferroviário requerente. Qualquer recusa deve ser fundamentada.\n\n3. Os Estados-membros tomarão as medidas necessárias para garantir que as decisões das autoridades responsáveis pela concessão de licenças possam ser submetidas a controlo jurisdicional."
+  },
+  "e743fe61ed590a82": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. A Comissão apresentará ao Conselho, dois anos após o início de aplicação da presente directiva, um relatório sobre essa aplicação, acompanhado, se adequado, de propostas relativas à prossecução da acção comunitária em matéria de desenvolvimento dos caminhos-de-ferro, nomeadamente quanto à possibilidade de aplicação do âmbito de aplicação da presente directiva.\n\n2. Os Estados-membros adoptarão as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva no prazo de dois anos a contar da sua entrada em vigor. Desse facto informarão imediatamente a Comissão.\n\n3. Quando os Estados-membros adoptarem as disposições previstas no n.º 2, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência na publicação oficial. As modalidades dessa referência serão estabelecidas pelos Estados-membros."
+  },
+  "6e6b8bb76d599aac": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "75b0bb36a3be7d26": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs Estados-membros são os destinatários da presente directiva."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "0078ecc122bda546": {
+   "fragment_id": "I. Informações a que se refere o n.º 2 do artigo 7.º",
+   "type": "divisao",
+   "heading": "I. Informações a que se refere o n.º 2 do artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Informações a que se refere o n.º 2 do artigo 7.º\n\n1. A análise da capacidade financeira efectua-se com base nas contas anuais da empresa e, para as empresas que pedem uma licença e não têm possibilidade de apresentar tais contas, com base no balanço anual. Para essa análise, devem ser prestadas informações pormenorizadas, nomeadamente sobre os seguintes aspectos:\n\na) Recursos financeiros disponíveis, incluindo depósitos bancários, adiantamentos concedidos sobre contas correntes e empréstimos;\n\nb) Fundos e elementos do activo mobilizáveis a título de garantia;\n\nc) Capital de exploração;\n\nd) Custos relevantes, incluindo os custos de aquisição e os sinais pagos por conta da aquisição de veículos, terrenos, edifícios, instalações e material circulante;\n\ne) Encargos sobre o património da empresa.\n\n2. O requerente não apresenta a capacidade financeira requerida nomeadamente quando se encontrem em considerável atraso os pagamentos de impostos ou encargos sociais devidos pela actividade da empresa.\n\n3. A autoridade pode exigir, nomeadamente, a apresentação de um relatório de peritagem e de documentos adequados elaborados por um banco, uma caixa de poupança pública, um revisor oficial de contas ou um perito de contas ajuramentado. Deverão constar de tais documentos as informações relativas aos aspectos mencionados no n.º 1."
+  },
+  "5b6b7e60e29c8ee0": {
+   "fragment_id": "II. Informações a que se refere o n.º 2 do artigo 8.º",
+   "type": "divisao",
+   "heading": "II. Informações a que se refere o n.º 2 do artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### II. Informações a que se refere o n.º 2 do artigo 8.º\n\n1. Informações acerca da natureza e manutenção do material circulante no que se refere, nomeadamente, às normas de segurança.\n\n2. Informações sobre as habilitações do pessoal responsável pela segurança e pelas normas de formação do pessoal.\n\n---"
+  },
+  "9338748efa80b2e9": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/4540aef2-4145-4916-b0e6-cbdb277b0398.0010.03/DOC_1#src.E0001)) JO n.º C 24 de 28. 1. 1994, p. 2, e JO n.º C 225 de 13. 8. 1994, p. 9.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/4540aef2-4145-4916-b0e6-cbdb277b0398.0010.03/DOC_1#src.E0002)) Parecer emitido em 14 de Setembro de 1994 (JO n.º C 393 de 31. 12. 1994, p. 56).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/4540aef2-4145-4916-b0e6-cbdb277b0398.0010.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 3 de Maio de 1994 (JO n.º C 205 de 25. 7. 1994, p. 38), Posição Comum do Conselho de 21 de Novembro de 1994 (JO n.º C 354 de 13. 12. 1994, p. 11) e decisão do Parlamento Europeu de 14 de Março de 1995 (JO n.º C 89 de 10. 4. 1995, p. 30.)\n\n> ([^4^](http://publications.europa.eu/resource/cellar/4540aef2-4145-4916-b0e6-cbdb277b0398.0010.03/DOC_1#src.E0004)) JO n.º L 237 de 24. 8. 1991, p. 25."
+  },
+  "1ee079011fdfc76a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Junho de 1995\n\nrelativa às licenças das empresas de transporte ferroviário\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o seu artigo 75.º;\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/5c60944b-3253-489d-b967-fe1afef4c64f.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social ([^2^](http://publications.europa.eu/resource/cellar/5c60944b-3253-489d-b967-fe1afef4c64f.0018.03/DOC_1#E0002)),\n\nDeliberando nos termos do artigo 189.º C do Tratado ([^3^](http://publications.europa.eu/resource/cellar/5c60944b-3253-489d-b967-fe1afef4c64f.0018.03/DOC_1#E0003)),\n\nConsiderando que o mercado único deve constituir um espaço sem fronteiras internas em que seja garantida a livre circulação de mercadorias, pessoas, serviços e capitais;\n\nConsiderando que o princípio da livre prestação de serviços se deve aplicar ao sector ferroviário, tendo em conta as características específicas desse sector;\n\nConsiderando que a Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários ([^4^](http://publications.europa.eu/resource/cellar/5c60944b-3253-489d-b967-fe1afef4c64f.0018.03/DOC_1#E0004)) prevê que as empresas de transporte ferroviário e os agrupamentos internacionais dessas empresas gozem de determinados direitos de acesso ao tráfico internacional ferroviário nela previstos;\n\nConsiderando que, a fim de garantir uma aplicação uniforme e não discriminatória dos direitos de acesso às infra-estruturas ferroviárias em toda a Comunidade, é necessário criar uma licença a favor das empresas de transporte ferroviário que efectuem os serviços a que se refere o artigo 10.º da Directiva 91/440/CEE;\n\nConsiderando que é oportuno manter o âmbito de aplicação da Directiva 91/440/CEE, incluindo as excepções nela previstas para os serviços regionais, urbanos e suburbanos, especificando ao mesmo tempo que as operações de transporte efectuado por serviços de vai-vem através du túnel do Canal da Mancha ficam igualmente excluídas desse âmbito de aplicação;\n\nConsiderando que, nesta óptica, as licenças emitidas aos Estados-membros se devem considerar válidas em toda a Comunidade;\n\nConsiderando que as condições comunitárias de acesso ou de trânsito pelas infraestruturas ferroviárias serão reguladas por outros diplomas comunitários;\n\nConsiderando que, tendo e conta o princípio de subsidiariedade e a fim de garantir a uniformidade e a transparência exigidas, a Comunidade deve fixar as grande linhas deste sistema de licenças, deixando aos Estados-membros a responsabilidade pela respectiva concessão e administração;\n\nConsiderando que, para garantir serviços fiáveis e adequados, se torna necessário que as empresas de transporte ferroviário preencham permanentemente determinados requisitos em matéria de honorabilidade e de capacidade financeira e profissional;\n\nConsiderando que, para proteger tanto clientes como terceiros, é importante garantir que as empresas de transporte ferroviário estejam devidamente seguradas ou tenham celebrado acordos equivalentes, a fim de cobrir os riscos de responsabilidade civil;\n\nConsiderando a necessidade de, neste mesmo quadro jurídico, regular as questões da suspensão ou do cancelamento da licença e da emissão de licenças temporárias;\n\nConsiderando que as empresas de transporte ferroviário continuam, além disso, obrigadas a respeitar a legislação nacional e comunitária relativa à exploração de serviços ferroviários, imposta sem carácter discriminatório, com o objectivo de garantir o seu direito a exercer, com toda a segurança, a respectiva actividade em percursos específicos;\n\nConsiderando que, para garantir o funcionamento eficaz dos transportes ferroviários internacionais, é necessário que as empresas ferroviários respeitem os acordos em vigor nesta área;\n\nConsiderando, finalmente, que os mecanismos de emissão, manutenção e modificação das licenças das empresas de transporte ferroviário devem obedecer a uma preocupação geral de transparência e de não discriminação,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "1bbaaabf42591cdc": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nConsideram-se preenchidas as condições relativas à competência profissional sempre que a empresa de transporte ferroviário que requer a licença disponha ou venha a dispor de uma organização de gestão que possua a experiência e/ou os conhecimentos necessários para exercer um controlo de exploração e uma supervisão seguros e eficazes no que se refere ao tipo de operações especificado na licença."
+  },
+  "c8d3ef2bb32f7d05": {
+   "fragment_id": "I. Informações a que se refere o n.º 2 do artigo 7.º",
+   "type": "divisao",
+   "heading": "I. Informações a que se refere o n.º 2 do artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### I. Informações a que se refere o n.º 2 do artigo 7.º\n\n1. A análise da capacidade financeira efectua-se com base nas contas anuais da empresa e, para as empresas que pedem uma licença e não têm possibilidade de apresentar tais contas, com base no balanço anual. Para essa análise, devem ser prestadas informações pormenorizadas, nomeadamente sobre os seguintes aspectos:\n\na) Recursos financeiros disponíveis, incluindo depósitos bancários, adiantamentos concedidos sobre contas correntes e empréstimos;\n\nb) Fundos e elementos do activo mobilizáveis a título de garantia;\n\nc) Capital de exploração;\n\nd) Custos relevantes, incluindo os custos de aquisição e os sinais pagos por conta da aquisição de veículos, terrenos, edifícios, instalações e material circulante;\n\ne) Encargos sobre o património da empresa.\n\n2. O requerente não apresenta a capacidade financeira requerida nomeadamente quando se encontrem em considerável atraso os pagamentos de impostos ou encargos sociais devidos pela actividade da empresa.\n\n3. A autoridade pode exigir, nomeadamente, a apresentação de um relatório de peritagem e de documentos adequados elaborados por um banco, uma caixa de poupança pública, um revisor oficial de contas ou um perito de contas ajuramentado. Deverão constar de tais documentos as informações relativas aos aspectos mencionados no n.º 1.\n\n---"
+  },
+  "e9ba2476b2db33a1": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5c60944b-3253-489d-b967-fe1afef4c64f.0018.03/DOC_1#src.E0001)) JO n.º C 24 de 28. 1. 1994, p. 2, e JO n.º C 225 de 13. 8. 1994, p. 9.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5c60944b-3253-489d-b967-fe1afef4c64f.0018.03/DOC_1#src.E0002)) Parecer emitido em 14 de Setembro de 1994 (JO n.º C 393 de 31. 12. 1994, p. 56).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5c60944b-3253-489d-b967-fe1afef4c64f.0018.03/DOC_1#src.E0003)) Parecer do Parlamento Europeu de 3 de Maio de 1994 (JO n.º C 205 de 25. 7. 1994, p. 38), Posição Comum do Conselho de 21 de Novembro de 1994 (JO n.º C 354 de 13. 12. 1994, p. 11) e decisão do Parlamento Europeu de 14 de Março de 1995 (JO n.º C 89 de 10. 4. 1995, p. 30.)\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5c60944b-3253-489d-b967-fe1afef4c64f.0018.03/DOC_1#src.E0004)) JO n.º L 237 de 24. 8. 1991, p. 25."
+  },
+  "c0b668d192dd44b9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01995L0018 — PT — 17.06.2015 — 004.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31995L0018) [DIRECTIVA 95/18/CE DO CONSELHO](http://publications.europa.eu/resource/celex/31995L0018) [de 19 de Junho de 1995](http://publications.europa.eu/resource/celex/31995L0018) [relativa às licenças das empresas de transporte ferroviário](http://publications.europa.eu/resource/celex/31995L0018) (JO L 143, 27.6.1995, p.70)\n\n**Revogada por:**\n\n- [Diretiva 2012/34/UE do Parlamento Europeu e do Conselho de 21 de novembro de 2012](http://publications.europa.eu/resource/celex/32012L0034) — L 343 — 32 — 14.12.2012"
+  }
+ }
+}

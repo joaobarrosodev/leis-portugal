@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:220949539:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2023-220948663",
+ "dre_path": "/dr/detalhe/lei/52-2023-220949539",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "220943341",
+    "220943342",
+    "220943343",
+    "220943344",
+    "220943345",
+    "220943346",
+    "220943347"
+   ]
+  }
+ ],
+ "fragments": {
+  "220943341": {
+   "fragment_id": "220948664",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 52/2023\n\nde 28 de agosto\n\nSumário: Completa a transposição da Decisão-Quadro 2002/584/JAI, do Conselho, de 13 de junho de 2002, da Diretiva (UE) 2010/64, do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, da Diretiva (UE) 2012/13, do Parlamento Europeu e do Conselho, de 22 de maio de 2012, e da Diretiva (UE) 2013/48, do Parlamento Europeu e do Conselho, de 22 de outubro de 2013, relativas ao processo penal e ao mandado de detenção europeu, e altera a Lei n.º 65/2003, de 23 de agosto, e o Código de Processo Penal.\n\nCompleta a transposição da Decisão-Quadro 2002/584/JAI, do Conselho, de 13 de junho de 2002, da Diretiva (UE) 2010/64, do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, da Diretiva (UE) 2012/13, do Parlamento Europeu e do Conselho, de 22 de maio de 2012, e da Diretiva (UE) 2013/48, do Parlamento Europeu e do Conselho, de 22 de outubro de 2013, relativas ao processo penal e ao mandado de detenção europeu, e altera a Lei n.º 65/2003, de 23 de agosto, e o Código de Processo Penal.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "220943342": {
+   "fragment_id": "220948665",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei completa a transposição da:\n\na) Decisão-Quadro 2002/584/JAI, do Conselho, de 13 de junho de 2002, relativa ao mandado de detenção europeu e aos processos de entrega entre os Estados-Membros;\n\nb) Diretiva (UE) 2010/64, do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, relativa ao direito à interpretação e tradução em processo penal;\n\nc) Diretiva (UE) 2012/13, do Parlamento Europeu e do Conselho, de 22 de maio de 2012, relativa ao direito à informação em processo penal;\n\nd) Diretiva (UE) 2013/48, do Parlamento Europeu e do Conselho, de 22 de outubro de 2013, relativa ao direito de acesso a um advogado em processo penal e nos processos de execução de mandados de detenção europeus e ao direito de informar um terceiro aquando da privação de liberdade e de comunicar, numa situação de privação de liberdade, com terceiros e com as autoridades consulares.\n\n2 - Para efeitos do número anterior, a presente lei procede à terceira alteração à Lei n.º 65/2003, de 23 de agosto, que aprova o regime jurídico do mandado de detenção europeu, alterada pelas Leis n.os 35/2015, de 4 de maio, e 115/2019, de 12 de setembro, e à alteração ao Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de fevereiro."
+  },
+  "220943343": {
+   "fragment_id": "220948666",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 65/2003, de 23 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 65/2003, de 23 de agosto\n\nOs artigos 17.º, 18.º, 26.º e 30.º da Lei n.º 65/2003, de 23 de agosto, passam a ter a seguinte redação:\n\n«Artigo 17.º\n\n[...]\n\n1 - [...]\n\n2 - O detido tem direito a ser assistido por defensor e a ser informado sobre o direito a constituir advogado no Estado-Membro de emissão, para auxílio do defensor nomeado ou do advogado constituído em território nacional.\n\n3 - [...]\n\n4 - [...]\n\nArtigo 18.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - O juiz relator nomeia previamente defensor ao detido, se não tiver advogado constituído, e informa-o sobre o direito a constituir advogado no Estado-Membro de emissão, para auxílio do defensor nomeado ou do advogado constituído em território nacional.\n\n5 - [...]\n\n6 - [...]\n\n7 - Sempre que, nos termos do n.º 4, o detido declare pretender exercer o direito a constituir advogado no Estado-Membro de emissão, é prontamente informada a autoridade competente daquele Estado.\n\nArtigo 26.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - Quando o mandado de detenção europeu não puder ser executado nos prazos previstos nos n.os 1 ou 2, a autoridade judiciária de emissão é informada do facto e das suas razões, podendo os prazos ser prorrogados por mais 30 dias.\n\n4 - [...]\n\n5 - [...]\n\nArtigo 30.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - A detenção da pessoa procurada cessa ainda quando tiverem decorrido os prazos referidos nos n.os 2, 3 e 5 do artigo anterior.»"
+  },
+  "220943344": {
+   "fragment_id": "220948667",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento à Lei n.º 65/2003, de 23 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento à Lei n.º 65/2003, de 23 de agosto\n\nÉ aditado o artigo 10.º-A à Lei n.º 65/2003, de 23 de agosto, na sua redação atual, com a seguinte redação:\n\n«Artigo 10.º-A\n\nInformação sobre direito a constituir advogado\n\nSempre que seja transmitido pelo Estado-Membro de execução que o detido pretende exercer o direito a constituir advogado no Estado-Membro de emissão, é transmitida ao Estado-Membro de execução, sem demora injustificada, informação que ajude o detido a exercer esse direito.»"
+  },
+  "220943345": {
+   "fragment_id": "220948668",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Código de Processo Penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Código de Processo Penal\n\nOs artigos 57.º, 58.º, 59.º, 61.º, 92.º, 93.º, 166.º e 336.º do Código de Processo Penal, passam a ter a seguinte redação:\n\n«Artigo 57.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - É correspondentemente aplicável o disposto nos n.os 2 a 7 do artigo seguinte.\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\nArtigo 58.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - A constituição de arguido implica a entrega, sempre que possível no próprio ato ou sem demora injustificada, de documento de que constem a identificação do processo e do defensor, se este tiver sido nomeado, e os direitos e deveres processuais referidos no artigo 61.º\n\n6 - Se o arguido não conhecer ou não dominar a língua portuguesa, quando o documento previsto no número anterior não esteja disponível em língua que este compreenda, a informação é transmitida oralmente, se necessário com intervenção de intérprete, sem prejuízo de lhe ser posteriormente entregue, sem demora injustificada, documento escrito em língua que compreenda.\n\n7 - (Anterior n.º 6.)\n\n8 - (Anterior n.º 7.)\n\n9 - (Anterior n.º 8.)\n\nArtigo 59.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - É correspondentemente aplicável o disposto nos n.os 2 a 8 do artigo 58.º\n\nArtigo 61.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) Tradução e interpretação, nos termos dos artigos 92.º e 93.º;\n\nk) [Anterior alínea j).]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\nArtigo 92.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - A entidade responsável pelo ato processual provê ao arguido que não conheça ou não domine a língua portuguesa, num prazo razoável, a tradução escrita dos documentos referidos no n.º 10 do artigo 113.º e de outros que a entidade julgue essenciais para o exercício da defesa.\n\n4 - As passagens dos documentos referidos no número anterior que sejam irrelevantes para o exercício da defesa não têm de ser traduzidas.\n\n5 - Excecionalmente, pode ser feita ao arguido uma tradução ou resumo oral dos documentos referidos no n.º 3, desde que tal não ponha em causa a equidade do processo.\n\n6 - O arguido pode apresentar pedido fundamentado de tradução de documentos do processo que considere essenciais para o exercício do direito de defesa, aplicando-se correspondentemente o disposto nos n.os 3 a 5.\n\n7 - O arguido pode escolher, sem encargo para ele, intérprete diferente do previsto no n.º 2 para traduzir as conversações com o seu defensor.\n\n8 - (Anterior n.º 4.)\n\n9 - Não podem ser utilizadas as provas obtidas mediante violação do disposto nos n.os 7 e 8.\n\n10 - (Anterior n.º 6.)\n\n11 - (Anterior n.º 7.)\n\n12 - (Anterior n.º 8.)\n\nArtigo 93.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - É correspondentemente aplicável o disposto nos n.os 7 a 9 do artigo anterior.\n\nArtigo 166.º\n\n[...]\n\n1 - Se o documento for escrito em língua estrangeira, é ordenada, sempre que necessário, a sua tradução, nos termos do n.º 10 do artigo 92.º\n\n2 - [...]\n\n3 - [...]\n\nArtigo 336.º\n\n[...]\n\n1 - [...]\n\n2 - Logo que se apresente ou for detido, o arguido é sujeito a termo de identidade e residência, sem prejuízo de outras medidas de coação, observando-se o disposto nos n.os 2 e 4 a 6 do artigo 58.º\n\n3 - [...]»"
+  },
+  "220943346": {
+   "fragment_id": "220948669",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nÉ revogada a alínea f) do artigo 11.º da Lei n.º 65/2003, de 23 de agosto."
+  },
+  "220943347": {
+   "fragment_id": "220948670",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

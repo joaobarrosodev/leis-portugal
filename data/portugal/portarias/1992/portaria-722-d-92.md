@@ -1,0 +1,185 @@
+---
+schema_version: '1.0'
+id: pt:dre:617497:por
+title: Portaria n.º 722-D/92
+short_title: null
+summary: Sujeita ao regime cinegético especial vários prédios rústicos sitos na freguesia de Mata de Lobos, município de Figueira
+  de Castelo Rodrigo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 722-D/92
+official_date: null
+publication_date: '1992-07-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/1992, 2º Suplemento, Série I-B de 1992-07-15
+  number: '161'
+  series: I
+  supplement: null
+  pages: 3330-(17) a 3330-(17)
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/07/161b02/00170017.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/722-d/1992/07/15/p/dre/pt/html
+  oj: null
+  dre: '617497'
+  dre_path: /dr/detalhe/portaria/722-d-1992-617497
+  internal: pt:dre:617497:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-d-1992-617497
+  metadata_url: https://data.dre.pt/eli/port/722-d/1992/07/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/722-d-1992-617497
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:27:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 578fa99b34f8cff82c58ae99eb81e5430d260545ab1674e92d09cc23302c0c43
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:27:55Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- Figueira de Castelo Rodrigo
+relationships:
+- type: amended_by
+  target: pt:dre:142128:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:149439:por
+  label: "Alterado o nº 1, aditado um nº 1-A pela PORT.528/97.1997.07.23.MADRP, DR.IS-B [168]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/528-1997-149439
+  date: '1997-07-23'
+- type: amended_by
+  target: pt:dre:437461:por
+  label: "Alterado o nº 1 pela PORT.532/98.1998.08.17.MADRP DR.IS-B [188], posteriormente alterado pelo nº 1 da Port 528/97\
+    \ de 23-Jul\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/532-1998-437461
+  date: '1998-08-17'
+- type: amended_by
+  target: pt:dre:566775:por
+  label: "Suspensa, pelo prazo máximo de 180 dias, a concessão atribuída pelo presente diploma, alterado pelas Ports. 528/97\
+    \ de 23-Jul e 532/98 de 17-Ago, pela PORT.667/98.1998.08.31.MADRP, DR.IS-B [200]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/667-1998-566775
+  date: '1998-08-31'
+- type: amended_by
+  target: pt:dre:145667:por
+  label: "Renovada a concessão atribuída pelo presente diploma, pela PORT.189/99.1999.03.20.MADRP, DR.IS-B [67]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/189-1999-145667
+  date: '1999-03-20'
+- type: amended_by
+  target: pt:dre:173543:por
+  label: "Anexados vários prédios rústicos pela PORT.1128/2002.2002.08.27.MADRP DR.IS-B [197]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1128-2002-173543
+  date: '2002-08-27'
+- type: amended_by
+  target: pt:dre:284115:por
+  label: "Renovada, por 12 anos, a concessão de zona de caça associativa concessionada pelo presente diploma, alterado pela\
+    \ Port 189/99, de 20-Mar e pela Port 1128/2002, de 27-Ago, pela Port.1033-CD/2004.10.08.2004.MADRP, DR.IS-B [187-Supl]\
+    \ de 10.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1033-cd-2004-284115
+  date: '2004-08-10'
+- type: amended_by
+  target: pt:dre:142128:por
+  label: "Anexados vários prédios rústicos à zona de caça concessionada pelo presente diploma, alterada pelas Ports 528/97\
+    \ de 23-Jul e 532/98 de 17-Ago, renovada pela Port 189/99 de 20-Mar, alterada pela Port 1128/2002 de 27-Ago e renovada\
+    \ pela Port 1033-CD/2004 de 10-Ago, pela PORT.770/2005.05.09.2005.MAOTDR, DR.IS-B [170] de 05.09.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/770-2005-142128
+  date: '2005-09-05'
+- type: cites
+  target: pt:dre:219134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354162:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:455890:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:619925:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:620697:por
+  label: null
+  source: http://data.dre.pt/eli/port/219-a/1991/03/18/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:27:55Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 722-D/92
+
+de 15 de Julho
+
+Com fundamento no disposto nos artigos 19.º, 20.º, 21.º e 26.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 79.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto;
+
+Ouvido o Conselho Nacional da Caça e da Conservação da Fauna:
+
+Manda o Governo, pelo Ministro da Agricultura, o seguinte:
+
+1.º Ficam sujeitos ao regime cinegético especial os prédios rústicos englobados pela poligonal constante da planta anexa ao presente diploma, que dele faz parte integrante, sitos na freguesia de Mata de Lobos, município de Figueira de Castelo Rodrigo, com uma área de 2994 ha.
+
+2.º Pelo presente diploma é concessionada, pelo período de seis anos, ao Clube de Caçadores de Mata de Lobos (registo na Direcção-Geral das Florestas n.º 2.856.91), com sede em Mata de Lobos, Figueira de Castelo Rodrigo, a zona de caça associativa de Mata de Lobos (processo n.º 958 da Direcção-Geral das Florestas).
+
+3.º O Clube de Caçadores de Mata de Lobos, como entidade gestora da zona de caça associativa concedida pelo presente diploma, fica obrigado a cumprir e a fazer cumprir o plano de ordenamento e exploração cinegética aprovado e demais disposições legais e regulamentares do exercício da caça que lhe forem aplicáveis, sem prejuízo da responsabilidade pessoal dos infractores.
+
+4.º Nesta zona de caça associativa é facultado o exercício venatório a todos os associados do Clube de Caçadores de Mata de Lobos, com observância das regras legais e das suas normas estatutárias e regulamentares.
+
+5.º - 1 - A zona de caça associativa será obrigatoriamente sinalizada com tabuletas do modelo n.º 3 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, conjuntamente com o sinal do modelo anexo à [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925), de 22 de Julho.
+
+2 - A sinalização obedecerá às condições definidas nos n.os 6.º a 9.º da [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), 3.º e 4.º da [Portaria n.º 569/89](https://diariodarepublica.pt/dr/detalhe/portaria/569-1989-619925) e 6.º e 7.º da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697), de 18 de Março.
+
+6.º Os prédios rústicos que integram esta zona de caça associativa, nos termos do disposto no artigo 76.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), para efeitos de polícia e fiscalização da caça, ficam submetidos ao regime florestal, obrigando-se a concessionária a manter dois guardas florestais auxiliares dotados de meio de transporte, com observância do disposto no n.º 7.º, n.os 2 e 3, da [Portaria n.º 219-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/219-a-1991-620697).
+
+7.º O disposto no presente diploma não é aplicável às áreas consignadas no artigo 14.º, n.os 1 e 2, da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
+
+8.º Esta concessão é renovável nos termos do disposto no artigo 73.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890).
+
+Ministério da Agricultura.
+
+Assinada em 1 de Julho de 1992.
+
+Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/07/161b02/00170017.pdf)

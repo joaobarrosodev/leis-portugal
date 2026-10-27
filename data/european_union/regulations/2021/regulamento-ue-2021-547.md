@@ -1,0 +1,486 @@
+---
+schema_version: '1.0'
+id: eu:celex:32021R0547:por
+title: Regulamento de Execução (UE) 2021/547 da Comissão de 29 de março de 2021
+short_title: null
+summary: Regulamento de Execução (UE) 2021/547 da Comissão de 29 de março de 2021 que altera o Regulamento de Execução (UE)
+  2019/1715 no que se refere aos procedimentos para o estabelecimento e a utilização do ADIS e do EUROPHYT, à emissão de certificados
+  sanitários, certificados oficiais, certificados sanitários/oficiais e documentos comerciais eletrónicos, à utilização de
+  assinaturas eletrónicas e ao funcionamento do TRACES, e que revoga a Decisão 97/152/CE (Texto relevante para efeitos do
+  EEE)
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento de Execução
+issuing_authority:
+- Comissão Europeia
+- SANTE
+proposing_entity: null
+official_number: 2021/547
+official_date: null
+publication_date: '2021-03-30'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 109 de 30.3.2021
+  number: '109'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.03/DOC_1
+entry_into_force_dates:
+- '2021-04-19'
+- '2021-04-21'
+- '2021-12-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32021R0547
+  eli: http://data.europa.eu/eli/reg_impl/2021/547/oj
+  oj: oj:JOL_2021_109_R_0002
+  dre: null
+  dre_path: null
+  internal: eu:celex:32021R0547:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32021R0547
+  metadata_url: http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-26T12:34:33Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-11-05T16:36:19.874+01:00'
+integrity:
+  source_sha256: 54c836ae096e307d36bccfbe907cb012d94867e307452bdb081e04efbed14950
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T12:34:33Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- assinatura eletrónica
+- certificado sanitário
+- documento eletrónico
+- doença animal
+- fiscalização fitossanitária
+- fraude alimentar
+- inspeção de alimentos
+- inspeção veterinária
+- intercâmbio de informação
+- sistema de informação
+relationships:
+- type: amends
+  target: celex:32019R1715
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1493493a-ee72-11e9-a32c-01aa75ed71a1
+  date: '2019-10-14'
+- type: based_on
+  target: celex:32002R0178
+  label: null
+  source: http://publications.europa.eu/resource/cellar/72de3b0c-c182-4754-9a9c-8cc5217c60f8
+  date: '2008-04-29'
+- type: based_on
+  target: celex:32016R0429
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9de141be-f714-11e5-abb1-01aa75ed71a1
+  date: '2016-03-31'
+- type: based_on
+  target: celex:32016R2031
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f16b8c3a-b10c-11e6-871e-01aa75ed71a1
+  date: '2016-11-23'
+- type: based_on
+  target: celex:32017R0625
+  label: null
+  source: http://publications.europa.eu/resource/cellar/27d35592-1b59-11e7-aeb3-01aa75ed71a1
+  date: '2017-04-07'
+- type: cites
+  target: celex:31992D0438
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2aed7820-29eb-4d9c-8a88-c0c5e973c7fc
+- type: cites
+  target: celex:31997R1255
+  label: null
+  source: http://publications.europa.eu/resource/cellar/52a9643b-a5d4-4143-925f-64e7f0725856
+- type: cites
+  target: celex:32004R0852
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fb8c29a0-3cfc-40ad-b787-13f9e0394e33
+- type: cites
+  target: celex:32005R0001
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dcca2396-000e-4c6f-bf0f-79ccb7738362
+- type: cites
+  target: celex:32005R0183
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4c15cbe8-0ebd-4552-8f06-8fc8d114ba13
+- type: cites
+  target: celex:32009R1069
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d3be11dd-81f5-48e8-b4a3-10333063634c
+- type: cites
+  target: celex:32011R0142
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6bc4ac56-89ff-4461-8c01-68069ce763fa
+- type: cites
+  target: celex:32014R0910
+  label: null
+  source: http://publications.europa.eu/resource/cellar/23b61856-2e82-11e4-8c3c-01aa75ed71a1
+- type: cites
+  target: celex:32018R1725
+  label: null
+  source: http://publications.europa.eu/resource/cellar/999029ee-ed62-11e8-b690-01aa75ed71a1
+- type: cites
+  target: celex:32020R2002
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1fa8a4d2-391e-11eb-b27b-01aa75ed71a1
+- type: corrected_by
+  target: celex:32021R0547R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2db8f5e2-9519-11ec-b4e4-01aa75ed71a1
+  date: '2022-02-24'
+- type: repeals
+  target: celex:31997D0152
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8fa695e8-ca39-4327-9e29-a8d3e65c5a7f
+  date: '2010-03-08'
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:34:33Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DE EXECUÇÃO (UE) 2021/547 DA COMISSÃO
+
+de 29 de março de 2021
+
+que altera o Regulamento de Execução (UE) 2019/1715 no que se refere aos procedimentos para o estabelecimento e a utilização do ADIS e do EUROPHYT, à emissão de certificados sanitários, certificados oficiais, certificados sanitários/oficiais e documentos comerciais eletrónicos, à utilização de assinaturas eletrónicas e ao funcionamento do TRACES, e que revoga a Decisão 97/152/CE
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios [([^1])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr1-L_2021109PT.01006001-E0001), nomeadamente o artigo 51.º,
+
+Tendo em conta o Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às doenças animais transmissíveis e que altera e revoga determinados atos no domínio da saúde animal [([^2])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr2-L_2021109PT.01006001-E0002) («Lei da Saúde Animal»), nomeadamente o artigo 23.º, primeiro parágrafo, alíneas b) a f), o artigo 30.º, n.º 1, alínea b), subalínea ii), e o artigo 35.º, primeiro parágrafo, alínea c),
+
+Tendo em conta o Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016, relativo a medidas de proteção contra as pragas dos vegetais, e que altera os Regulamentos (UE) n.º 228/2013, (UE) n.º 652/2014 e (UE) n.º 1143/2014 do Parlamento Europeu e do Conselho e revoga as Diretivas 69/464/CEE, 74/647/CEE, 93/85/CEE, 98/57/CE, 2000/29/CE, 2006/91/CE e 2007/33/CE do Conselho [([^3])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr3-L_2021109PT.01006001-E0003), nomeadamente o artigo 104.º, primeiro parágrafo, alíneas a), b) e c),
+
+Tendo em conta o Regulamento (UE) 2017/625 do Parlamento Europeu e do Conselho, de 15 de março de 2017, relativo aos controlos oficiais e outras atividades oficiais que visam assegurar a aplicação da legislação em matéria de géneros alimentícios e alimentos para animais e das regras sobre saúde e bem-estar animal, fitossanidade e produtos fitofarmacêuticos, que altera os Regulamentos (CE) n.º 999/2001, (CE) n.º 396/2005, (CE) n.º 1069/2009, (CE) n.º 1107/2009, (UE) n.º 1151/2012, (UE) n.º 652/2014, (UE) 2016/429 e (UE) 2016/2031 do Parlamento Europeu e do Conselho, os Regulamentos (CE) n.º 1/2005 e (CE) n.º 1099/2009 do Conselho, e as Diretivas 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE do Conselho, e que revoga os Regulamentos (CE) n.º 854/2004 e (CE) n.º 882/2004 do Parlamento Europeu e do Conselho, as Diretivas 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE do Conselho e a Decisão 92/438/CEE do Conselho (Regulamento sobre os controlos oficiais) [([^4])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr4-L_2021109PT.01006001-E0004), nomeadamente o artigo 58.º, primeiro parágrafo, alínea a), o artigo 90.º, primeiro parágrafo, alínea f), o artigo 102.º, n.º 6, primeiro parágrafo, alíneas a) e b), o artigo 103.º, n.º 6, e o artigo 134.º, primeiro parágrafo, alíneas a) a d) e alínea g),
+
+Considerando o seguinte:
+
+(1) O Regulamento de Execução (UE) 2019/1715 da Comissão [([^5])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr5-L_2021109PT.01006001-E0005) estabelece regras para o funcionamento do sistema de gestão da informação sobre os controlos oficiais (IMSOC) e dos seus componentes de sistema, nomeadamente o sistema que aplica os procedimentos do Sistema de Alerta Rápido para os Géneros Alimentícios e Alimentos para Animais e da Assistência e Cooperação administrativas (iRASFF), o sistema de notificação e comunicação de informações sobre doenças dos animais (ADIS), o sistema de notificação da confirmação oficial da presença de pragas nos vegetais e produtos vegetais no território dos Estados-Membros (EUROPHYT) e o sistema informático veterinário integrado para efeitos do intercâmbio de dados, informações e documentos (TRACES). Estabelece igualmente regras sobre as ligações necessárias entre esses componentes.
+
+(2) Estabelece também regras relativas à criação da rede para o funcionamento do ADIS e a listagem das regiões de notificação e comunicação para efeitos de notificação e comunicação de doenças dos animais a nível da União.
+
+(3) A fim de assegurar a utilização uniforme do ADIS pelos Estados-Membros, o Regulamento de Execução (UE) 2020/2002 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr6-L_2021109PT.01006001-E0006) estabelece regras relativas ao formato e à estrutura dos dados a introduzir nesse sistema para a notificação e a comunicação de doenças à escala da União, ao formato e ao procedimento para a comunicação de informações, bem como aos prazos e à frequência da notificação e da comunicação.
+
+(4) É necessário incluir no Regulamento de Execução (UE) 2019/1715 regras comuns para os pontos de contacto da rede ADIS no que diz respeito à apresentação de notificações e comunicações à escala da União em conformidade com o Regulamento de Execução (UE) 2020/2002. A fim de cumprir as regras da União em matéria de proteção de dados, essas regras devem também incluir disposições sobre o período máximo de armazenamento de dados pessoais no ADIS.
+
+(5) O presente regulamento deve igualmente estabelecer regras, a incluir no Regulamento de Execução (UE) 2019/1715, no que diz respeito às ligações necessárias entre o ADIS e o TRACES, a fim de assegurar que os dados pertinentes relativos às notificações a nível da União são automaticamente intercambiados ou disponibilizados em ambos os sistemas e fornecer informações pertinentes aos membros da rede.
+
+(6) O Regulamento de Execução (UE) 2019/1715 estabelece regras sobre a utilização do TRACES para a apresentação, à rede EUROPHYT para interceções, de notificações da interceção de remessas de vegetais, produtos vegetais e outros objetos provenientes de outros Estados-Membros ou de países terceiros que possam apresentar um perigo iminente de introdução ou propagação de pragas. Esse regulamento determina que as notificações de interceções de remessas comercializadas na União devem ser apresentadas pelo ponto de contacto da rede EUROPHYT para interceções, enquanto as notificações de interceções de remessas que entram na União devem ser apresentadas pelo agente fitossanitário oficial que toma a decisão sobre essas remessas.
+
+(7) Uma vez que as notificações de remessas intercetadas de vegetais, produtos vegetais e outros objetos comercializados na União são abrangidas pelo âmbito de aplicação das notificações de incumprimento relativas a mercadorias abrangidas pelo Regulamento (UE) 2017/625 e devem ser intercambiadas no iRASFF entre pontos de contacto da rede de alerta e de cooperação, as notificações dessas remessas intercetadas devem ser feitas no iRASFF.
+
+(8) A fim de assegurar que o iRASFF também é utilizado para o intercâmbio de notificações de remessas não conformes de vegetais, produtos vegetais e outros objetos comercializados na União que possam constituir um risco para a fitossanidade, é conveniente reformular a definição do termo «notificação de incumprimento» constante do Regulamento de Execução (UE) 2019/1715.
+
+(9) Paralelamente, a fim de evitar confusões quanto ao significado do termo «risco» definido no Regulamento de Execução (UE) 2019/1715, é igualmente necessário suprimir essa definição, adaptar em contrapartida determinadas definições das notificações no iRASFF e clarificar nessas definições as diferentes categorias de risco.
+
+(10) Do mesmo modo, a fim de evitar confusões quanto ao significado dos termos definidos «rede de combate à fraude alimentar» e «notificação de fraude alimentar» no Regulamento de Execução (UE) 2019/1715 e refletir melhor o âmbito de aplicação do Regulamento (UE) 2017/625 nestes termos definidos, é necessário alterar a designação destes termos definidos para, respetivamente, «rede de combate à fraude» e «notificação de fraude», e ajustar em conformidade todas as disposições do Regulamento de Execução (UE) 2019/1715 relacionadas com a fraude alimentar.
+
+(11) O Regulamento de Execução (UE) 2019/1715 estabelece igualmente que as informações sobre as remessas intercetadas que entram na União devem incluir as informações registadas no documento sanitário comum de entrada (DSCE) pelo agente fitossanitário oficial em conformidade com o artigo 55.º, n.º 2, e o artigo 56.º do Regulamento (UE) 2017/625, as informações adicionais sobre as medidas tomadas relativamente às remessas intercetadas e as informações sobre a quarentena imposta.
+
+(12) Uma vez que o DSCE contém entradas para o registo de informações sobre as medidas tomadas relativamente a remessas intercetadas, incluindo casos em que é imposta uma quarentena, não é necessário apresentar também no TRACES uma notificação de interceção que contenha as mesmas informações. Assim, a obrigação de apresentar uma notificação de interceção contendo essas mesmas informações no TRACES deve ser suprimida e substituída pela obrigação de registar os dados de interceção no DSCE.
+
+(13) Além disso, uma vez que qualquer incumprimento das regras referidas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/625 no que diz respeito a remessas que entram na União ou que são comercializadas na União deve ser notificado no TRACES ou no iRASFF, todas as disposições relacionadas com as notificações de interceções EUROPHYT devem ser suprimidas do Regulamento de Execução (UE) 2019/1715.
+
+(14) O Regulamento de Execução (UE) 2019/1715 estabelece regras para a utilização de DSCE eletrónicos e a emissão de certificados eletrónicos para remessas de animais e mercadorias que entram na União. Essas regras incluem níveis de garantia elevados relacionados com a prova de identidade dos certificadores antes da concessão da capacidade de assinatura eletrónica e a aplicação de um selo temporal qualificado na assinatura eletrónica gerada por um terceiro de confiança.
+
+(15) A experiência demonstrou que esses elevados níveis de garantia não são necessários, uma vez que o mecanismo de autenticação antes de se iniciar a sessão no TRACES, no sistema nacional dos Estados-Membros, no sistema de certificação eletrónica dos países terceiros ou no sistema de certificação eletrónica das organizações internacionais proporciona um grau suficiente de garantia da identidade declarada do signatário. Além disso, a aposição de um selo temporal não é necessária. O fluxo seguro de dados dentro dos sistemas e entre eles e a aplicação de um selo eletrónico qualificado concebido para provar de forma fiável a indicação temporal correta, a integridade e a exatidão dos dados oferecem garantias suficientes de que qualquer alteração subsequente dos dados é detetável.
+
+(16) O presente regulamento deve, por conseguinte, introduzir alterações ao Regulamento de Execução (UE) 2019/1715 que permitam que os veterinários oficiais, os agentes fitossanitários oficiais e os certificadores utilizem assinaturas eletrónicas em DSCE e certificados eletrónicos com níveis de garantia de identidade mais baixos e sem registo de selos temporais, em conformidade com o Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr7-L_2021109PT.01006001-E0007).
+
+(17) O presente regulamento deve também incluir alterações às regras do Regulamento de Execução (UE) 2019/1715 no que diz respeito à emissão de certificados ou documentos comerciais eletrónicos que acompanham as remessas de animais e de certas mercadorias que circulam entre Estados-Membros nos termos do artigo 150.º, do artigo 161.º, n.º 5, do artigo 167.º, n.º 4, do artigo 217.º e do artigo 223.º, n.º 5, do Regulamento (UE) 2016/429, as remessas de determinados subprodutos animais e produtos derivados não destinados ao consumo humano e transportados na União nos termos do artigo 17.º do Regulamento (UE) n.º 142/2011 da Comissão [([^8])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr8-L_2021109PT.01006001-E0008) e as remessas de vegetais, produtos vegetais e outros objetos exportados ou reexportados da União nos termos dos artigos 100.º, n.º 5, e 101.°, n.º 6, do Regulamento (UE) 2016/2031. Essas regras devem ser semelhantes às regras aplicáveis à emissão de certificados eletrónicos para as remessas de animais e mercadorias que entram na União.
+
+(18) Dado que o Regulamento (UE) 2016/2031 estabelece que os certificados fitossanitários eletrónicos para a exportação e reexportação a partir do território da União de vegetais, produtos vegetais e outros objetos só devem ser apresentados, ou transmitidos mediante intercâmbio eletrónico, através do IMSOC, o presente regulamento deve prever a incorporação no Regulamento de Execução (UE) 2019/1715 de regras para a emissão desses certificados em conformidade com esse regulamento.
+
+(19) Com o objetivo de reforçar o controlo da aplicação das regras da União, o Regulamento de Execução (UE) 2019/1715 determina que os pontos de contacto da rede TRACES devem manter e atualizar no TRACES listas de determinados dados de referência necessários ao bom funcionamento do TRACES. As listas incluem estabelecimentos de empresas do setor alimentar aprovados em conformidade com o Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho [([^9])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr9-L_2021109PT.01006001-E0009) e estabelecimentos, instalações e operadores que manuseiam subprodutos animais ou produtos derivados, aprovados ou registados em conformidade com o Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho [([^10])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr10-L_2021109PT.01006001-E0010).
+
+(20) Para o mesmo efeito, o presente regulamento deve alargar essas listas de dados de referência de modo a incluir os estabelecimentos e operadores registados e aprovados referidos no Regulamento (UE) 2016/429, bem como certos operadores profissionais registados nos termos do Regulamento (UE) 2016/2031, na medida em que estejam envolvidos em atividades transfronteiriças.
+
+(21) A fim de dar apoio à preparação das análises de risco dos Estados-Membros para as inspeções ou auditorias relativas ao transporte de animais vivos, as listas de dados de referência devem também incluir os postos de controlo aprovados nos termos do Regulamento (CE) n.º 1255/97 do Conselho [([^11])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr11-L_2021109PT.01006001-E0011), bem como os transportadores autorizados, os condutores e tratadores certificados e os meios de transporte aprovados nos termos do Regulamento (CE) n.º 1/2005 do Conselho [([^12])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr12-L_2021109PT.01006001-E0012).
+
+(22) Uma vez que o Regulamento (UE) 2016/429 é aplicável a partir de 21 de abril de 2021, as alterações relativas ao ADIS, às ligações necessárias entre o ADIS e o TRACES e ao alargamento das listas de dados de referência de modo a incluir os estabelecimentos e operadores registados e aprovados nos termos do Regulamento (UE) 2016/429 devem ser igualmente aplicáveis a partir de 21 de abril de 2021.
+
+(23) Tendo em conta a importância dos dados de referência para o bom funcionamento do TRACES, o alargamento das listas de dados de referência dos Regulamentos (CE) n.º 1255/97, (CE) n.º 1/2005 e (UE) 2016/2031 deve igualmente aplicar-se a partir de 21 de abril de 2021.
+
+(24) Visto que é necessário continuar a desenvolver os sistemas iRASFF e TRACES no que diz respeito às notificações de interceções, a data de aplicação das alterações ao capítulo 3, secção 3, do Regulamento de Execução (UE) 2019/1715 deve ser prorrogada até 1 de dezembro de 2021.
+
+(25) O anexo da Decisão 97/152/CE da Comissão [([^13])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr13-L_2021109PT.01006001-E0013) estabelece as informações a introduzir no sistema TRACES relativamente às remessas de animais ou produtos animais provenientes de países terceiros. Essa decisão baseia-se no artigo 12.º da Decisão 92/438/CEE do Conselho [([^14])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr14-L_2021109PT.01006001-E0014), que foi revogada pelo artigo 146.º, n.º 1, do Regulamento (UE) 2017/625 com efeitos a partir de 14 de dezembro de 2019. As informações constantes do anexo da Decisão 97/152/CE estão agora incluídas no DSCE-A e no DSCE-P no anexo II, parte 2, secções A e B, do Regulamento de Execução (UE) 2019/1715. Por razões de clareza e coerência, a Decisão 97/152/CE deve, por conseguinte, ser revogada.
+
+(26) A Autoridade Europeia para a Proteção de Dados foi consultada em conformidade com o disposto no artigo 42.º, n.º 1, do Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho [([^15])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr15-L_2021109PT.01006001-E0015) e emitiu um parecer em 14 de janeiro de 2021.
+
+(27) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Alterações
+
+O Regulamento de Execução (UE) 2019/1715 é alterado do seguinte modo:
+
+1) No capítulo 1, o artigo 2.º é alterado do seguinte modo: a) O ponto 8 é suprimido; b) O ponto 9 passa a ter a seguinte redação: «9) “Rede RASFF”, o sistema de alerta rápido em rede estabelecido pelo artigo 50.º do Regulamento (CE) n.º 178/2002 para as notificações referidas nos pontos 15 a 20 do presente artigo;»; c) O ponto 11 passa a ter a seguinte redação: «11) “Rede de combate à fraude”, a rede constituída pela Comissão, pela Europol e pelos organismos de ligação designados pelos Estados-Membros em conformidade com o artigo 103.º, n.º 1, do Regulamento (UE) 2017/625 com o objetivo específico de facilitar o intercâmbio de informações sobre as notificações de fraude, tal como definidas no ponto 21»; d) O ponto 12 passa a ter a seguinte redação: «12) “Rede de alerta e de cooperação”, uma rede constituída pelas redes RASFF, AAC e de combate à fraude;»; e) O ponto 14 passa a ter a seguinte redação: «14) “Notificação de incumprimento”, uma notificação no iRASFF de um incumprimento das regras referidas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/625 que não apresenta um risco na aceção do artigo 50.º do Regulamento (CE) n.º 178/2002 e do artigo 29.º do Regulamento (CE) n.º 183/2005;»; f) O ponto 20 passa a ter a seguinte redação: «20) “Notificação de rejeição nos postos fronteiriços”, uma notificação no iRASFF de uma rejeição de um lote, contentor ou carga de géneros alimentícios, materiais em contacto com géneros alimentícios ou alimentos para animais devido a um risco, como se refere no artigo 50.º, n.º 3, primeiro parágrafo, alínea c), do Regulamento (CE) n.º 178/2002 e no artigo 29.º do Regulamento (CE) n.º 183/2005;»; g) O ponto 21 passa a ter a seguinte redação: «21) “Notificação de fraude”, uma notificação de incumprimento no iRASFF relativa a uma presumida ação intencional por parte de empresas ou indivíduos com o objetivo de enganar os compradores e obter benefícios indevidos, em violação das regras referidas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/625;»; h) O ponto 22 passa a ter a seguinte redação: «22) “Notificação original”, uma notificação de incumprimento, uma notificação de alerta, uma notificação de informação, uma notificação de notícias, uma notificação de fraude ou uma notificação de rejeição nos postos fronteiriços;»; i) Os pontos 33 e 34 são suprimidos.
+
+a) O ponto 8 é suprimido;
+
+b) O ponto 9 passa a ter a seguinte redação: «9) “Rede RASFF”, o sistema de alerta rápido em rede estabelecido pelo artigo 50.º do Regulamento (CE) n.º 178/2002 para as notificações referidas nos pontos 15 a 20 do presente artigo;»;
+
+«9) “Rede RASFF”, o sistema de alerta rápido em rede estabelecido pelo artigo 50.º do Regulamento (CE) n.º 178/2002 para as notificações referidas nos pontos 15 a 20 do presente artigo;»;
+
+c) O ponto 11 passa a ter a seguinte redação: «11) “Rede de combate à fraude”, a rede constituída pela Comissão, pela Europol e pelos organismos de ligação designados pelos Estados-Membros em conformidade com o artigo 103.º, n.º 1, do Regulamento (UE) 2017/625 com o objetivo específico de facilitar o intercâmbio de informações sobre as notificações de fraude, tal como definidas no ponto 21»;
+
+«11) “Rede de combate à fraude”, a rede constituída pela Comissão, pela Europol e pelos organismos de ligação designados pelos Estados-Membros em conformidade com o artigo 103.º, n.º 1, do Regulamento (UE) 2017/625 com o objetivo específico de facilitar o intercâmbio de informações sobre as notificações de fraude, tal como definidas no ponto 21»;
+
+d) O ponto 12 passa a ter a seguinte redação: «12) “Rede de alerta e de cooperação”, uma rede constituída pelas redes RASFF, AAC e de combate à fraude;»;
+
+«12) “Rede de alerta e de cooperação”, uma rede constituída pelas redes RASFF, AAC e de combate à fraude;»;
+
+e) O ponto 14 passa a ter a seguinte redação: «14) “Notificação de incumprimento”, uma notificação no iRASFF de um incumprimento das regras referidas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/625 que não apresenta um risco na aceção do artigo 50.º do Regulamento (CE) n.º 178/2002 e do artigo 29.º do Regulamento (CE) n.º 183/2005;»;
+
+«14) “Notificação de incumprimento”, uma notificação no iRASFF de um incumprimento das regras referidas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/625 que não apresenta um risco na aceção do artigo 50.º do Regulamento (CE) n.º 178/2002 e do artigo 29.º do Regulamento (CE) n.º 183/2005;»;
+
+f) O ponto 20 passa a ter a seguinte redação: «20) “Notificação de rejeição nos postos fronteiriços”, uma notificação no iRASFF de uma rejeição de um lote, contentor ou carga de géneros alimentícios, materiais em contacto com géneros alimentícios ou alimentos para animais devido a um risco, como se refere no artigo 50.º, n.º 3, primeiro parágrafo, alínea c), do Regulamento (CE) n.º 178/2002 e no artigo 29.º do Regulamento (CE) n.º 183/2005;»;
+
+«20) “Notificação de rejeição nos postos fronteiriços”, uma notificação no iRASFF de uma rejeição de um lote, contentor ou carga de géneros alimentícios, materiais em contacto com géneros alimentícios ou alimentos para animais devido a um risco, como se refere no artigo 50.º, n.º 3, primeiro parágrafo, alínea c), do Regulamento (CE) n.º 178/2002 e no artigo 29.º do Regulamento (CE) n.º 183/2005;»;
+
+g) O ponto 21 passa a ter a seguinte redação: «21) “Notificação de fraude”, uma notificação de incumprimento no iRASFF relativa a uma presumida ação intencional por parte de empresas ou indivíduos com o objetivo de enganar os compradores e obter benefícios indevidos, em violação das regras referidas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/625;»;
+
+«21) “Notificação de fraude”, uma notificação de incumprimento no iRASFF relativa a uma presumida ação intencional por parte de empresas ou indivíduos com o objetivo de enganar os compradores e obter benefícios indevidos, em violação das regras referidas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/625;»;
+
+h) O ponto 22 passa a ter a seguinte redação: «22) “Notificação original”, uma notificação de incumprimento, uma notificação de alerta, uma notificação de informação, uma notificação de notícias, uma notificação de fraude ou uma notificação de rejeição nos postos fronteiriços;»;
+
+«22) “Notificação original”, uma notificação de incumprimento, uma notificação de alerta, uma notificação de informação, uma notificação de notícias, uma notificação de fraude ou uma notificação de rejeição nos postos fronteiriços;»;
+
+i) Os pontos 33 e 34 são suprimidos.
+
+2) No capítulo 2, o artigo 6.º, n.º 2, é alterado do seguinte modo: a) A alínea b) passa a ter a seguinte redação: «b) O EUROPHYT e o TRACES, permitindo o intercâmbio de dados relativos às notificações de surtos EUROPHYT;»; b) A alínea c) passa a ter a seguinte redação: «c) O iRASFF e o TRACES, permitindo o intercâmbio de dados relativos aos antecedentes dos operadores no que diz respeito ao cumprimento das regras referidas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/625;»; c) É aditada a seguinte alínea: «d) O ADIS e o TRACES, permitindo o intercâmbio de dados e informações relativos às notificações a nível da União.».
+
+a) A alínea b) passa a ter a seguinte redação: «b) O EUROPHYT e o TRACES, permitindo o intercâmbio de dados relativos às notificações de surtos EUROPHYT;»;
+
+«b) O EUROPHYT e o TRACES, permitindo o intercâmbio de dados relativos às notificações de surtos EUROPHYT;»;
+
+b) A alínea c) passa a ter a seguinte redação: «c) O iRASFF e o TRACES, permitindo o intercâmbio de dados relativos aos antecedentes dos operadores no que diz respeito ao cumprimento das regras referidas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/625;»;
+
+«c) O iRASFF e o TRACES, permitindo o intercâmbio de dados relativos aos antecedentes dos operadores no que diz respeito ao cumprimento das regras referidas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/625;»;
+
+c) É aditada a seguinte alínea: «d) O ADIS e o TRACES, permitindo o intercâmbio de dados e informações relativos às notificações a nível da União.».
+
+«d) O ADIS e o TRACES, permitindo o intercâmbio de dados e informações relativos às notificações a nível da União.».
+
+3) No capítulo 3, a secção 1 é alterada do seguinte modo: a) O artigo 12.º passa a ter a seguinte redação: «Artigo 12.º Organismos de ligação responsáveis pelo intercâmbio de determinados tipos de informação Os Estados-Membros devem indicar quais os organismos de ligação, designados em conformidade com o artigo 103.º, n.º 1, do Regulamento (UE) 2017/625, que são responsáveis pelo intercâmbio de informações sobre as notificações de fraude.»; b) No artigo 13.º, o n.º 2 passa a ter a seguinte redação: «2. Os Estados-Membros podem incluir o seu ponto de contacto da rede de combate à fraude no seu ponto de contacto único.»; c) O artigo 21.º passa a ter a seguinte redação: «Artigo 21.º Notificações de fraude 1. Os pontos de contacto da rede de combate à fraude devem intercambiar notificações de fraude, incluindo, pelo menos, os seguintes elementos: a) Todas as informações exigidas pelo artigo 16.º, n.º 1; b) Uma descrição da prática fraudulenta suspeitada; c) A identificação, sempre que possível, dos operadores envolvidos; d) Informações sobre se existem investigações policiais ou judiciais em curso relativas à prática fraudulenta suspeitada; e) Informações sobre quaisquer instruções dadas pela polícia ou pelas autoridades judiciais, logo que estejam disponíveis e possam ser divulgadas. 2. Os pontos de contacto da rede de combate à fraude devem comunicar sem demora injustificada quaisquer informações relativas a riscos para a saúde ao seu ponto de contacto da rede RASFF. 3. O ponto de contacto da Comissão deve verificar sem demora injustificada cada notificação de fraude depois do seu intercâmbio.»; d) No artigo 23.º, o n.º 3 passa a ter a seguinte redação: «3. Sem prejuízo do direito de acesso da Comissão nos termos do artigo 8.º, n.º 2, apenas os pontos de contacto da rede de combate à fraude notificantes, notificados e requeridos têm acesso às notificações de fraude.»; e) No artigo 24.º, o n.º 2 passa a ter a seguinte redação: «2. Em derrogação do n.º 1, a verificação das notificações de incumprimento, de fraude e de rejeição nos postos fronteiriços deve abranger as alíneas b), c) e e) do referido número.»; f) No artigo 25.º, n.º 1, a alínea a), passa a ter a seguinte redação: «a) A um ponto de contacto notificante que retire uma notificação de incumprimento, de fraude ou de acompanhamento»; g) No artigo 27.º, o n.º 2 passa a ter a seguinte redação: «2. Quando uma notificação de incumprimento ou de fraude disser respeito a um produto originário de um país terceiro ou distribuído para um país terceiro que não tenha acesso ao iRASFF ou ao TRACES, a Comissão pode informar esse país terceiro.»; h) No artigo 28.º, n.º 1, a alínea c) passa a ter a seguinte redação: «c) Os pontos de contacto da rede de combate à fraude devem intercambiar informações sobre as notificações de fraude por correio eletrónico;».
+
+a) O artigo 12.º passa a ter a seguinte redação: «Artigo 12.º Organismos de ligação responsáveis pelo intercâmbio de determinados tipos de informação Os Estados-Membros devem indicar quais os organismos de ligação, designados em conformidade com o artigo 103.º, n.º 1, do Regulamento (UE) 2017/625, que são responsáveis pelo intercâmbio de informações sobre as notificações de fraude.»;
+
+b) No artigo 13.º, o n.º 2 passa a ter a seguinte redação: «2. Os Estados-Membros podem incluir o seu ponto de contacto da rede de combate à fraude no seu ponto de contacto único.»;
+
+c) O artigo 21.º passa a ter a seguinte redação: «Artigo 21.º Notificações de fraude 1. Os pontos de contacto da rede de combate à fraude devem intercambiar notificações de fraude, incluindo, pelo menos, os seguintes elementos: a) Todas as informações exigidas pelo artigo 16.º, n.º 1; b) Uma descrição da prática fraudulenta suspeitada; c) A identificação, sempre que possível, dos operadores envolvidos; d) Informações sobre se existem investigações policiais ou judiciais em curso relativas à prática fraudulenta suspeitada; e) Informações sobre quaisquer instruções dadas pela polícia ou pelas autoridades judiciais, logo que estejam disponíveis e possam ser divulgadas. 2. Os pontos de contacto da rede de combate à fraude devem comunicar sem demora injustificada quaisquer informações relativas a riscos para a saúde ao seu ponto de contacto da rede RASFF. 3. O ponto de contacto da Comissão deve verificar sem demora injustificada cada notificação de fraude depois do seu intercâmbio.»;
+
+a) Todas as informações exigidas pelo artigo 16.º, n.º 1;
+
+b) Uma descrição da prática fraudulenta suspeitada;
+
+c) A identificação, sempre que possível, dos operadores envolvidos;
+
+d) Informações sobre se existem investigações policiais ou judiciais em curso relativas à prática fraudulenta suspeitada;
+
+e) Informações sobre quaisquer instruções dadas pela polícia ou pelas autoridades judiciais, logo que estejam disponíveis e possam ser divulgadas.
+
+d) No artigo 23.º, o n.º 3 passa a ter a seguinte redação: «3. Sem prejuízo do direito de acesso da Comissão nos termos do artigo 8.º, n.º 2, apenas os pontos de contacto da rede de combate à fraude notificantes, notificados e requeridos têm acesso às notificações de fraude.»;
+
+e) No artigo 24.º, o n.º 2 passa a ter a seguinte redação: «2. Em derrogação do n.º 1, a verificação das notificações de incumprimento, de fraude e de rejeição nos postos fronteiriços deve abranger as alíneas b), c) e e) do referido número.»;
+
+f) No artigo 25.º, n.º 1, a alínea a), passa a ter a seguinte redação: «a) A um ponto de contacto notificante que retire uma notificação de incumprimento, de fraude ou de acompanhamento»;
+
+«a) A um ponto de contacto notificante que retire uma notificação de incumprimento, de fraude ou de acompanhamento»;
+
+g) No artigo 27.º, o n.º 2 passa a ter a seguinte redação: «2. Quando uma notificação de incumprimento ou de fraude disser respeito a um produto originário de um país terceiro ou distribuído para um país terceiro que não tenha acesso ao iRASFF ou ao TRACES, a Comissão pode informar esse país terceiro.»;
+
+h) No artigo 28.º, n.º 1, a alínea c) passa a ter a seguinte redação: «c) Os pontos de contacto da rede de combate à fraude devem intercambiar informações sobre as notificações de fraude por correio eletrónico;».
+
+«c) Os pontos de contacto da rede de combate à fraude devem intercambiar informações sobre as notificações de fraude por correio eletrónico;».
+
+4. No capítulo 3, a secção 2 passa a ter a seguinte redação: «SECÇÃO 2 **ADIS** Artigo 29.º Rede ADIS 1. Cada membro da rede ADIS deve designar, pelo menos, um ponto de contacto responsável pela apresentação no ADIS dos dados e informações relativos à notificação e à comunicação a nível da União em conformidade com os artigos 3.º, 4.º, 6.º, 7.º, 8.º, 11.º e 13.º do Regulamento de Execução (UE) 2020/2002 da Comissão[([^*1])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr*1-L_2021109PT.01006001-E0016). 2. Cada ponto de contacto da rede ADIS dever manter e atualizar no ADIS a lista das regiões de notificação e comunicação estabelecidas pelo seu Estado-Membro e indicadas no anexo IV do Regulamento de Execução (UE) 2020/2002. Artigo 29.º-A Período de armazenamento dos dados pessoais Os dados pessoais provenientes das notificações e comunicações a nível da União referidas no artigo 29.º, n.º 1, devem ser armazenados no ADIS por um período não superior a 10 anos. Artigo 29.º-B Medidas de contingência para o ADIS 1. Se o ADIS não estiver disponível, os pontos de contacto da rede ADIS devem apresentar os dados e informações relativos às notificações e comunicações a nível da União a que se refere o artigo 29.º, n.º 1, por correio eletrónico ou por outros meios especificados no sítio Web da Comissão. 2. Assim que o ADIS voltar a estar disponível, os pontos de contacto da rede ADIS devem inserir no sistema os dados e informações apresentados fora do sistema. [(^*1^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc*1-L_2021109PT.01006001-E0016) Regulamento de Execução (UE) 2020/2002 da Comissão, de 7 de dezembro de 2020, que estabelece regras de aplicação do Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho no que diz respeito à notificação e à comunicação a nível da União de doenças listadas, aos formatos e procedimentos para a apresentação e comunicação dos programas de vigilância da União e dos programas de erradicação e para o pedido de reconhecimento do estatuto de indemnidade de doença, bem como ao sistema informatizado de informações ([JO L 412 de 8.12.2020, p. 1](http://publications.europa.eu/resource/oj/JOL_2020_412_R_TOC)).»."
+
+5. No capítulo 3, a secção 3 é alterada do seguinte modo: a) O artigo 30.º passa a ter a seguinte redação: «Artigo 30.º Rede EUROPHYT para surtos Cada membro da rede EUROPHYT para surtos deve designar um ponto de contacto responsável pela apresentação das notificações de surtos EUROPHYT no EUROPHYT.»; b) São suprimidos os artigos 31.º e 33.°.
+
+a) O artigo 30.º passa a ter a seguinte redação: «Artigo 30.º Rede EUROPHYT para surtos Cada membro da rede EUROPHYT para surtos deve designar um ponto de contacto responsável pela apresentação das notificações de surtos EUROPHYT no EUROPHYT.»;
+
+b) São suprimidos os artigos 31.º e 33.°.
+
+6. No capítulo 3, a secção 4 é alterada do seguinte modo: a) O artigo 35.º passa a ter a seguinte redação: «Artigo 35.º Rede TRACES Sem prejuízo do artigo 4.º, n.º 2, cada membro da rede TRACES deve designar um ou mais pontos de contacto para as funcionalidades previstas no artigo 132.º, alínea d), e no artigo 133.º do Regulamento (UE) 2017/625 e noutra legislação da União referente ao TRACES.»; b) O artigo 39.º passa a ter a seguinte redação: «Artigo 39.º Emissão de certificados eletrónicos para remessas de animais e mercadorias que entram na União e utilização de assinaturas eletrónicas 1. Os certificados sanitários, certificados oficiais e certificados sanitários/oficiais eletrónicos para remessas de animais e mercadorias que entram na União devem cumprir todos os seguintes requisitos: a) Devem ser emitidos num dos seguintes sistemas: i) TRACES, ii) sistema nacional de um Estado-Membro, iii) um sistema de certificação eletrónica de um país terceiro ou de uma organização internacional que seja capaz de intercambiar dados com o TRACES, iv) um sistema de certificação eletrónica de um país terceiro ou de uma organização internacional que seja capaz de intercambiar dados com o sistema nacional de um Estado-Membro; b) Devem ser assinados por um funcionário autorizado com a respetiva assinatura eletrónica; c) Devem ostentar o selo eletrónico avançado ou qualificado da autoridade competente emissora, ou a assinatura eletrónica avançada ou qualificada do seu representante legal. 2. Quando forem emitidos certificados sanitários, certificados oficiais e certificados sanitários/oficiais eletrónicos em conformidade com o n.º 1, alínea a), subalíneas iii) ou iv), a assinatura eletrónica do funcionário autorizado não é exigida. 3. A Comissão deve ser notificada com antecedência da emissão de certificados sanitários, certificados oficiais e certificados sanitários/oficiais eletrónicos em conformidade com o n.º 1, alínea a), subalínea iv). 4. A autoridade competente deve aceitar certificados fitossanitários eletrónicos, tal como exigido para a introdução de vegetais, produtos vegetais e outros objetos no território da União, em conformidade com o capítulo VI, secção 1, do Regulamento (UE) 2016/2031, apenas se forem emitidos em conformidade com o n.º 1, alínea a), subalíneas i) ou iii), do presente artigo.»; c) São inseridos os seguintes artigos após o artigo 39.º: «Artigo 39.º-A Emissão de certificados e documentos comerciais eletrónicos para a circulação de animais e mercadorias entre Estados-Membros e utilização de assinaturas eletrónicas Os certificados sanitários, certificados oficiais e certificados sanitários/oficiais eletrónicos para a circulação de animais, produtos de origem animal e produtos germinais entre Estados-Membros, bem como os documentos comerciais eletrónicos para determinados subprodutos animais e produtos derivados, não destinados ao consumo humano e transportados para outro Estado-Membro, devem cumprir todos os seguintes requisitos: a) Devem ser emitidos no TRACES; b) Devem ser assinados por um veterinário oficial ou por um certificador com a respetiva assinatura eletrónica; c) Devem ostentar o selo eletrónico avançado ou qualificado da autoridade competente emissora. Artigo 39.º-B Emissão de certificados eletrónicos para exportação e reexportação de vegetais, produtos vegetais e outros objetos e utilização de assinaturas eletrónicas Os certificados fitossanitários eletrónicos para a exportação ou reexportação de vegetais, produtos vegetais e outros objetos do território da União para um país terceiro devem ser emitidos num dos seguintes sistemas: a) No TRACES, desde que o certificado preencha todos os seguintes requisitos: i) é assinado por um certificador com a respetiva assinatura eletrónica, ii) ostenta o selo eletrónico avançado ou qualificado da autoridade competente emissora; b) No sistema nacional de um Estado-Membro, desde que o certificado preencha todos os seguintes requisitos: i) é assinado por um certificador com a respetiva assinatura eletrónica, ii) é transmitido ao TRACES o mais tardar no momento da assinatura eletrónica pelo certificador e essa transmissão é selada pelo selo eletrónico avançado ou qualificado da autoridade competente emissora.»; d) O artigo 41.º passa a ter a seguinte redação: «Artigo 41.º Utilização de um DSCE eletrónico A utilização de um DSCE em formato eletrónico por parte de um operador ou de uma autoridade competente deve ser levada a cabo através de um dos seguintes sistemas: a) O TRACES, desde que o DSCE preencha todos os seguintes requisitos: i) é assinado pelo operador responsável pela remessa com a respetiva assinatura eletrónica, ii) é assinado pelo veterinário oficial, pelo agente fitossanitário oficial ou pelo certificador nos postos de controlo fronteiriço ou nos pontos de controlo com a respetiva assinatura eletrónica, iii) ostenta o selo eletrónico avançado ou qualificado da autoridade competente emissora; b) O sistema nacional de um Estado-Membro, desde que o DSCE preencha todos os seguintes requisitos: i) é assinado pelo operador responsável pela remessa com a respetiva assinatura eletrónica, ii) é assinado pelo veterinário oficial, pelo agente fitossanitário oficial ou pelo certificador nos postos de controlo fronteiriço ou nos pontos de controlo com a respetiva assinatura eletrónica, iii) é transmitido ao TRACES o mais tardar no momento em que a decisão sobre a remessa é tomada com base nos controlos oficiais e essa transmissão é selada pelo selo eletrónico avançado ou qualificado da autoridade competente emissora.»; e) No artigo 42.º, é suprimido o n.º 3; f) O artigo 45.º passa a ter a seguinte redação: «Artigo 45.º Listas dos dados de referência 1. Cada ponto de contacto da rede TRACES deve manter e atualizar no TRACES as seguintes listas: a) Estabelecimentos de empresas do setor alimentar que a autoridade competente do seu Estado-Membro tenha aprovado em conformidade com o artigo 6.º, n.º 3, do Regulamento (CE) n.º 852/2004; b) Estabelecimentos, instalações e operadores que manuseiam subprodutos animais ou produtos derivados que a autoridade competente do seu Estado-Membro tenha aprovado ou registado em conformidade com o artigo 47.º do Regulamento (CE) n.º 1069/2009; c) Postos de controlo a que a autoridade competente do seu Estado-Membro tenha concedido uma aprovação em conformidade com o artigo 3.º do Regulamento (CE) n.º 1255/97 do Conselho[([^*2])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr*2-L_2021109PT.01006001-E0017); d) Transportadores que efetuem viagens de longo curso a quem a autoridade competente tenha concedido uma autorização nos termos do artigo 11.º, n.º 1, do Regulamento (CE) n.º 1/2005 do Conselho[([^*3])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr*3-L_2021109PT.01006001-E0018); e) Estabelecimentos incluídos no registo de estabelecimentos aprovados referidos no artigo 101.º, n.º 1, primeiro parágrafo, alínea b), do Regulamento (UE) 2016/429, na medida em que transportem animais terrestres detidos e produtos germinais para outro Estado-Membro ou recebam animais terrestres detidos e produtos germinais de um país terceiro; f) Estabelecimentos incluídos no registo de estabelecimentos de aquicultura aprovados e de estabelecimentos alimentares autorizados a manipular animais aquáticos para o controlo de doenças aprovados referidos no artigo 185.º, n.º 1, alíneas b) e c), respetivamente, do Regulamento (UE) 2016/429, na medida em que transportem animais de aquicultura para outro Estado-Membro ou recebam animais de aquicultura de um país terceiro; g) Estabelecimentos e operadores incluídos no registo de estabelecimentos e operadores registados referidos no artigo 101.º, n.º 1, primeiro parágrafo, alínea a), do Regulamento (UE) 2016/429, na medida em que transportem animais terrestres detidos e produtos germinais para outro Estado-Membro ou recebam animais terrestres detidos e produtos germinais de um país terceiro; h) Estabelecimentos incluídos no registo de estabelecimentos de aquicultura registados referidos no artigo 185.º, n.º 1, alínea a), do Regulamento (UE) 2016/429, na medida em que transportem animais de aquicultura para outro Estado-Membro ou recebam animais de aquicultura de um país terceiro; i) Transportadores a quem a autoridade competente tenha concedido uma autorização nos termos do artigo 10.º, n.º 1, do Regulamento (CE) n.º 1/2005; j) Condutores e tratadores de veículos rodoviários de transporte de equídeos domésticos ou de animais domésticos das espécies bovina, ovina, caprina e suína ou de aves de capoeira a quem a autoridade competente tenha concedido um certificado de aptidão nos termos do artigo 17.º, n.º 2, do Regulamento (CE) n.º 1/2005; k) Meios de transporte rodoviário utilizados em viagens de longo curso e navios de transporte de gado para os quais a autoridade competente tenha concedido um certificado de aprovação nos termos, respetivamente, dos artigos 18.º, n.º 1, e 19.°, n.º 1, do Regulamento (CE) n.º 1/2005; l) Operadores incluídos no registo de operadores profissionais que introduzam na União vegetais, produtos vegetais e outros objetos para os quais seja obrigatório um certificado fitossanitário, tal como referidos no artigo 65.º, n.º 1, primeiro parágrafo, alínea a), do Regulamento (UE) 2016/2031; m) Estações de quarentena e instalações de confinamento designadas em conformidade com o artigo 60.º do Regulamento (UE) 2016/2031 para realizar atividades que envolvam vegetais, produtos vegetais e outros objetos introduzidos no território da União a partir de países terceiros. 2. Os pontos de contacto referidos no n.º 1 devem inserir no TRACES informações respeitantes a cada lista referida nesse número utilizando as especificações técnicas para o formato dessas listas fornecidas pela Comissão. 3. A Comissão auxilia os Estados-Membros na disponibilização ao público das listas referidas no n.º 1, alíneas a) a f), através de publicação no seu sítio Web ou através do TRACES. [(^*2^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc*2-L_2021109PT.01006001-E0017) Regulamento (CE) n.º 1255/97 do Conselho, de 25 de junho de 1997, relativo aos critérios comunitários exigidos nos postos de controlo e que adapta a guia de marcha prevista no anexo da Diretiva 91/628/CEE ([JO L 174 de 2.7.1997, p. 1](http://publications.europa.eu/resource/oj/JOL_1997_174_R_TOC))." [(^*3^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc*3-L_2021109PT.01006001-E0018) Regulamento (CE) n.º 1/2005 do Conselho, de 22 de dezembro de 2004, relativo à proteção dos animais durante o transporte e operações afins e que altera as Diretivas 64/432/CEE e 93/119/CE e o Regulamento (CE) n.º 1255/97 ([JO L 3 de 5.1.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_003_R_TOC)).»."
+
+a) O artigo 35.º passa a ter a seguinte redação: «Artigo 35.º Rede TRACES Sem prejuízo do artigo 4.º, n.º 2, cada membro da rede TRACES deve designar um ou mais pontos de contacto para as funcionalidades previstas no artigo 132.º, alínea d), e no artigo 133.º do Regulamento (UE) 2017/625 e noutra legislação da União referente ao TRACES.»;
+
+b) O artigo 39.º passa a ter a seguinte redação: «Artigo 39.º Emissão de certificados eletrónicos para remessas de animais e mercadorias que entram na União e utilização de assinaturas eletrónicas 1. Os certificados sanitários, certificados oficiais e certificados sanitários/oficiais eletrónicos para remessas de animais e mercadorias que entram na União devem cumprir todos os seguintes requisitos: a) Devem ser emitidos num dos seguintes sistemas: i) TRACES, ii) sistema nacional de um Estado-Membro, iii) um sistema de certificação eletrónica de um país terceiro ou de uma organização internacional que seja capaz de intercambiar dados com o TRACES, iv) um sistema de certificação eletrónica de um país terceiro ou de uma organização internacional que seja capaz de intercambiar dados com o sistema nacional de um Estado-Membro; b) Devem ser assinados por um funcionário autorizado com a respetiva assinatura eletrónica; c) Devem ostentar o selo eletrónico avançado ou qualificado da autoridade competente emissora, ou a assinatura eletrónica avançada ou qualificada do seu representante legal. 2. Quando forem emitidos certificados sanitários, certificados oficiais e certificados sanitários/oficiais eletrónicos em conformidade com o n.º 1, alínea a), subalíneas iii) ou iv), a assinatura eletrónica do funcionário autorizado não é exigida. 3. A Comissão deve ser notificada com antecedência da emissão de certificados sanitários, certificados oficiais e certificados sanitários/oficiais eletrónicos em conformidade com o n.º 1, alínea a), subalínea iv). 4. A autoridade competente deve aceitar certificados fitossanitários eletrónicos, tal como exigido para a introdução de vegetais, produtos vegetais e outros objetos no território da União, em conformidade com o capítulo VI, secção 1, do Regulamento (UE) 2016/2031, apenas se forem emitidos em conformidade com o n.º 1, alínea a), subalíneas i) ou iii), do presente artigo.»;
+
+a) Devem ser emitidos num dos seguintes sistemas: i) TRACES, ii) sistema nacional de um Estado-Membro, iii) um sistema de certificação eletrónica de um país terceiro ou de uma organização internacional que seja capaz de intercambiar dados com o TRACES, iv) um sistema de certificação eletrónica de um país terceiro ou de uma organização internacional que seja capaz de intercambiar dados com o sistema nacional de um Estado-Membro;
+
+i) TRACES,
+
+ii) sistema nacional de um Estado-Membro,
+
+iii) um sistema de certificação eletrónica de um país terceiro ou de uma organização internacional que seja capaz de intercambiar dados com o TRACES,
+
+iv) um sistema de certificação eletrónica de um país terceiro ou de uma organização internacional que seja capaz de intercambiar dados com o sistema nacional de um Estado-Membro;
+
+b) Devem ser assinados por um funcionário autorizado com a respetiva assinatura eletrónica;
+
+c) Devem ostentar o selo eletrónico avançado ou qualificado da autoridade competente emissora, ou a assinatura eletrónica avançada ou qualificada do seu representante legal.
+
+c) São inseridos os seguintes artigos após o artigo 39.º: «Artigo 39.º-A Emissão de certificados e documentos comerciais eletrónicos para a circulação de animais e mercadorias entre Estados-Membros e utilização de assinaturas eletrónicas Os certificados sanitários, certificados oficiais e certificados sanitários/oficiais eletrónicos para a circulação de animais, produtos de origem animal e produtos germinais entre Estados-Membros, bem como os documentos comerciais eletrónicos para determinados subprodutos animais e produtos derivados, não destinados ao consumo humano e transportados para outro Estado-Membro, devem cumprir todos os seguintes requisitos: a) Devem ser emitidos no TRACES; b) Devem ser assinados por um veterinário oficial ou por um certificador com a respetiva assinatura eletrónica; c) Devem ostentar o selo eletrónico avançado ou qualificado da autoridade competente emissora. Artigo 39.º-B Emissão de certificados eletrónicos para exportação e reexportação de vegetais, produtos vegetais e outros objetos e utilização de assinaturas eletrónicas Os certificados fitossanitários eletrónicos para a exportação ou reexportação de vegetais, produtos vegetais e outros objetos do território da União para um país terceiro devem ser emitidos num dos seguintes sistemas: a) No TRACES, desde que o certificado preencha todos os seguintes requisitos: i) é assinado por um certificador com a respetiva assinatura eletrónica, ii) ostenta o selo eletrónico avançado ou qualificado da autoridade competente emissora; b) No sistema nacional de um Estado-Membro, desde que o certificado preencha todos os seguintes requisitos: i) é assinado por um certificador com a respetiva assinatura eletrónica, ii) é transmitido ao TRACES o mais tardar no momento da assinatura eletrónica pelo certificador e essa transmissão é selada pelo selo eletrónico avançado ou qualificado da autoridade competente emissora.»;
+
+a) Devem ser emitidos no TRACES;
+
+b) Devem ser assinados por um veterinário oficial ou por um certificador com a respetiva assinatura eletrónica;
+
+c) Devem ostentar o selo eletrónico avançado ou qualificado da autoridade competente emissora.
+
+a) No TRACES, desde que o certificado preencha todos os seguintes requisitos: i) é assinado por um certificador com a respetiva assinatura eletrónica, ii) ostenta o selo eletrónico avançado ou qualificado da autoridade competente emissora;
+
+i) é assinado por um certificador com a respetiva assinatura eletrónica,
+
+ii) ostenta o selo eletrónico avançado ou qualificado da autoridade competente emissora;
+
+b) No sistema nacional de um Estado-Membro, desde que o certificado preencha todos os seguintes requisitos: i) é assinado por um certificador com a respetiva assinatura eletrónica, ii) é transmitido ao TRACES o mais tardar no momento da assinatura eletrónica pelo certificador e essa transmissão é selada pelo selo eletrónico avançado ou qualificado da autoridade competente emissora.»;
+
+i) é assinado por um certificador com a respetiva assinatura eletrónica,
+
+ii) é transmitido ao TRACES o mais tardar no momento da assinatura eletrónica pelo certificador e essa transmissão é selada pelo selo eletrónico avançado ou qualificado da autoridade competente emissora.»;
+
+d) O artigo 41.º passa a ter a seguinte redação: «Artigo 41.º Utilização de um DSCE eletrónico A utilização de um DSCE em formato eletrónico por parte de um operador ou de uma autoridade competente deve ser levada a cabo através de um dos seguintes sistemas: a) O TRACES, desde que o DSCE preencha todos os seguintes requisitos: i) é assinado pelo operador responsável pela remessa com a respetiva assinatura eletrónica, ii) é assinado pelo veterinário oficial, pelo agente fitossanitário oficial ou pelo certificador nos postos de controlo fronteiriço ou nos pontos de controlo com a respetiva assinatura eletrónica, iii) ostenta o selo eletrónico avançado ou qualificado da autoridade competente emissora; b) O sistema nacional de um Estado-Membro, desde que o DSCE preencha todos os seguintes requisitos: i) é assinado pelo operador responsável pela remessa com a respetiva assinatura eletrónica, ii) é assinado pelo veterinário oficial, pelo agente fitossanitário oficial ou pelo certificador nos postos de controlo fronteiriço ou nos pontos de controlo com a respetiva assinatura eletrónica, iii) é transmitido ao TRACES o mais tardar no momento em que a decisão sobre a remessa é tomada com base nos controlos oficiais e essa transmissão é selada pelo selo eletrónico avançado ou qualificado da autoridade competente emissora.»;
+
+a) O TRACES, desde que o DSCE preencha todos os seguintes requisitos: i) é assinado pelo operador responsável pela remessa com a respetiva assinatura eletrónica, ii) é assinado pelo veterinário oficial, pelo agente fitossanitário oficial ou pelo certificador nos postos de controlo fronteiriço ou nos pontos de controlo com a respetiva assinatura eletrónica, iii) ostenta o selo eletrónico avançado ou qualificado da autoridade competente emissora;
+
+i) é assinado pelo operador responsável pela remessa com a respetiva assinatura eletrónica,
+
+ii) é assinado pelo veterinário oficial, pelo agente fitossanitário oficial ou pelo certificador nos postos de controlo fronteiriço ou nos pontos de controlo com a respetiva assinatura eletrónica,
+
+iii) ostenta o selo eletrónico avançado ou qualificado da autoridade competente emissora;
+
+b) O sistema nacional de um Estado-Membro, desde que o DSCE preencha todos os seguintes requisitos: i) é assinado pelo operador responsável pela remessa com a respetiva assinatura eletrónica, ii) é assinado pelo veterinário oficial, pelo agente fitossanitário oficial ou pelo certificador nos postos de controlo fronteiriço ou nos pontos de controlo com a respetiva assinatura eletrónica, iii) é transmitido ao TRACES o mais tardar no momento em que a decisão sobre a remessa é tomada com base nos controlos oficiais e essa transmissão é selada pelo selo eletrónico avançado ou qualificado da autoridade competente emissora.»;
+
+i) é assinado pelo operador responsável pela remessa com a respetiva assinatura eletrónica,
+
+ii) é assinado pelo veterinário oficial, pelo agente fitossanitário oficial ou pelo certificador nos postos de controlo fronteiriço ou nos pontos de controlo com a respetiva assinatura eletrónica,
+
+iii) é transmitido ao TRACES o mais tardar no momento em que a decisão sobre a remessa é tomada com base nos controlos oficiais e essa transmissão é selada pelo selo eletrónico avançado ou qualificado da autoridade competente emissora.»;
+
+e) No artigo 42.º, é suprimido o n.º 3;
+
+f) O artigo 45.º passa a ter a seguinte redação: «Artigo 45.º Listas dos dados de referência 1. Cada ponto de contacto da rede TRACES deve manter e atualizar no TRACES as seguintes listas: a) Estabelecimentos de empresas do setor alimentar que a autoridade competente do seu Estado-Membro tenha aprovado em conformidade com o artigo 6.º, n.º 3, do Regulamento (CE) n.º 852/2004; b) Estabelecimentos, instalações e operadores que manuseiam subprodutos animais ou produtos derivados que a autoridade competente do seu Estado-Membro tenha aprovado ou registado em conformidade com o artigo 47.º do Regulamento (CE) n.º 1069/2009; c) Postos de controlo a que a autoridade competente do seu Estado-Membro tenha concedido uma aprovação em conformidade com o artigo 3.º do Regulamento (CE) n.º 1255/97 do Conselho[([^*2])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr*2-L_2021109PT.01006001-E0017); d) Transportadores que efetuem viagens de longo curso a quem a autoridade competente tenha concedido uma autorização nos termos do artigo 11.º, n.º 1, do Regulamento (CE) n.º 1/2005 do Conselho[([^*3])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr*3-L_2021109PT.01006001-E0018); e) Estabelecimentos incluídos no registo de estabelecimentos aprovados referidos no artigo 101.º, n.º 1, primeiro parágrafo, alínea b), do Regulamento (UE) 2016/429, na medida em que transportem animais terrestres detidos e produtos germinais para outro Estado-Membro ou recebam animais terrestres detidos e produtos germinais de um país terceiro; f) Estabelecimentos incluídos no registo de estabelecimentos de aquicultura aprovados e de estabelecimentos alimentares autorizados a manipular animais aquáticos para o controlo de doenças aprovados referidos no artigo 185.º, n.º 1, alíneas b) e c), respetivamente, do Regulamento (UE) 2016/429, na medida em que transportem animais de aquicultura para outro Estado-Membro ou recebam animais de aquicultura de um país terceiro; g) Estabelecimentos e operadores incluídos no registo de estabelecimentos e operadores registados referidos no artigo 101.º, n.º 1, primeiro parágrafo, alínea a), do Regulamento (UE) 2016/429, na medida em que transportem animais terrestres detidos e produtos germinais para outro Estado-Membro ou recebam animais terrestres detidos e produtos germinais de um país terceiro; h) Estabelecimentos incluídos no registo de estabelecimentos de aquicultura registados referidos no artigo 185.º, n.º 1, alínea a), do Regulamento (UE) 2016/429, na medida em que transportem animais de aquicultura para outro Estado-Membro ou recebam animais de aquicultura de um país terceiro; i) Transportadores a quem a autoridade competente tenha concedido uma autorização nos termos do artigo 10.º, n.º 1, do Regulamento (CE) n.º 1/2005; j) Condutores e tratadores de veículos rodoviários de transporte de equídeos domésticos ou de animais domésticos das espécies bovina, ovina, caprina e suína ou de aves de capoeira a quem a autoridade competente tenha concedido um certificado de aptidão nos termos do artigo 17.º, n.º 2, do Regulamento (CE) n.º 1/2005; k) Meios de transporte rodoviário utilizados em viagens de longo curso e navios de transporte de gado para os quais a autoridade competente tenha concedido um certificado de aprovação nos termos, respetivamente, dos artigos 18.º, n.º 1, e 19.°, n.º 1, do Regulamento (CE) n.º 1/2005; l) Operadores incluídos no registo de operadores profissionais que introduzam na União vegetais, produtos vegetais e outros objetos para os quais seja obrigatório um certificado fitossanitário, tal como referidos no artigo 65.º, n.º 1, primeiro parágrafo, alínea a), do Regulamento (UE) 2016/2031; m) Estações de quarentena e instalações de confinamento designadas em conformidade com o artigo 60.º do Regulamento (UE) 2016/2031 para realizar atividades que envolvam vegetais, produtos vegetais e outros objetos introduzidos no território da União a partir de países terceiros. 2. Os pontos de contacto referidos no n.º 1 devem inserir no TRACES informações respeitantes a cada lista referida nesse número utilizando as especificações técnicas para o formato dessas listas fornecidas pela Comissão. 3. A Comissão auxilia os Estados-Membros na disponibilização ao público das listas referidas no n.º 1, alíneas a) a f), através de publicação no seu sítio Web ou através do TRACES. [(^*2^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc*2-L_2021109PT.01006001-E0017) Regulamento (CE) n.º 1255/97 do Conselho, de 25 de junho de 1997, relativo aos critérios comunitários exigidos nos postos de controlo e que adapta a guia de marcha prevista no anexo da Diretiva 91/628/CEE ([JO L 174 de 2.7.1997, p. 1](http://publications.europa.eu/resource/oj/JOL_1997_174_R_TOC))." [(^*3^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc*3-L_2021109PT.01006001-E0018) Regulamento (CE) n.º 1/2005 do Conselho, de 22 de dezembro de 2004, relativo à proteção dos animais durante o transporte e operações afins e que altera as Diretivas 64/432/CEE e 93/119/CE e o Regulamento (CE) n.º 1255/97 ([JO L 3 de 5.1.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_003_R_TOC)).»."
+
+a) Estabelecimentos de empresas do setor alimentar que a autoridade competente do seu Estado-Membro tenha aprovado em conformidade com o artigo 6.º, n.º 3, do Regulamento (CE) n.º 852/2004;
+
+b) Estabelecimentos, instalações e operadores que manuseiam subprodutos animais ou produtos derivados que a autoridade competente do seu Estado-Membro tenha aprovado ou registado em conformidade com o artigo 47.º do Regulamento (CE) n.º 1069/2009;
+
+c) Postos de controlo a que a autoridade competente do seu Estado-Membro tenha concedido uma aprovação em conformidade com o artigo 3.º do Regulamento (CE) n.º 1255/97 do Conselho[([^*2])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr*2-L_2021109PT.01006001-E0017);
+
+d) Transportadores que efetuem viagens de longo curso a quem a autoridade competente tenha concedido uma autorização nos termos do artigo 11.º, n.º 1, do Regulamento (CE) n.º 1/2005 do Conselho[([^*3])](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntr*3-L_2021109PT.01006001-E0018);
+
+e) Estabelecimentos incluídos no registo de estabelecimentos aprovados referidos no artigo 101.º, n.º 1, primeiro parágrafo, alínea b), do Regulamento (UE) 2016/429, na medida em que transportem animais terrestres detidos e produtos germinais para outro Estado-Membro ou recebam animais terrestres detidos e produtos germinais de um país terceiro;
+
+f) Estabelecimentos incluídos no registo de estabelecimentos de aquicultura aprovados e de estabelecimentos alimentares autorizados a manipular animais aquáticos para o controlo de doenças aprovados referidos no artigo 185.º, n.º 1, alíneas b) e c), respetivamente, do Regulamento (UE) 2016/429, na medida em que transportem animais de aquicultura para outro Estado-Membro ou recebam animais de aquicultura de um país terceiro;
+
+g) Estabelecimentos e operadores incluídos no registo de estabelecimentos e operadores registados referidos no artigo 101.º, n.º 1, primeiro parágrafo, alínea a), do Regulamento (UE) 2016/429, na medida em que transportem animais terrestres detidos e produtos germinais para outro Estado-Membro ou recebam animais terrestres detidos e produtos germinais de um país terceiro;
+
+h) Estabelecimentos incluídos no registo de estabelecimentos de aquicultura registados referidos no artigo 185.º, n.º 1, alínea a), do Regulamento (UE) 2016/429, na medida em que transportem animais de aquicultura para outro Estado-Membro ou recebam animais de aquicultura de um país terceiro;
+
+i) Transportadores a quem a autoridade competente tenha concedido uma autorização nos termos do artigo 10.º, n.º 1, do Regulamento (CE) n.º 1/2005;
+
+j) Condutores e tratadores de veículos rodoviários de transporte de equídeos domésticos ou de animais domésticos das espécies bovina, ovina, caprina e suína ou de aves de capoeira a quem a autoridade competente tenha concedido um certificado de aptidão nos termos do artigo 17.º, n.º 2, do Regulamento (CE) n.º 1/2005;
+
+k) Meios de transporte rodoviário utilizados em viagens de longo curso e navios de transporte de gado para os quais a autoridade competente tenha concedido um certificado de aprovação nos termos, respetivamente, dos artigos 18.º, n.º 1, e 19.°, n.º 1, do Regulamento (CE) n.º 1/2005;
+
+l) Operadores incluídos no registo de operadores profissionais que introduzam na União vegetais, produtos vegetais e outros objetos para os quais seja obrigatório um certificado fitossanitário, tal como referidos no artigo 65.º, n.º 1, primeiro parágrafo, alínea a), do Regulamento (UE) 2016/2031;
+
+m) Estações de quarentena e instalações de confinamento designadas em conformidade com o artigo 60.º do Regulamento (UE) 2016/2031 para realizar atividades que envolvam vegetais, produtos vegetais e outros objetos introduzidos no território da União a partir de países terceiros.
+
+###### Artigo 2.º — Revogação
+
+A Decisão 97/152/CE é revogada.
+
+###### Artigo 3.º — Entrada em vigor e aplicação
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é aplicável a partir de 21 de abril de 2021, com exceção do artigo 1.º, n.º 5, que é aplicável a partir de 1 de dezembro de 2021.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 29 de março de 2021.
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc1-L_2021109PT.01006001-E0001) [JO L 31 de 1.2.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_031_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc2-L_2021109PT.01006001-E0002) [JO L 84 de 31.3.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_084_R_TOC).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc3-L_2021109PT.01006001-E0003) [JO L 317 de 23.11.2016, p. 4](http://publications.europa.eu/resource/oj/JOL_2016_317_R_TOC).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc4-L_2021109PT.01006001-E0004) [JO L 95 de 7.4.2017, p. 1](http://publications.europa.eu/resource/oj/JOL_2017_095_R_TOC).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc5-L_2021109PT.01006001-E0005) Regulamento de Execução (UE) 2019/1715 da Comissão, de 30 de setembro de 2019, que estabelece regras aplicáveis ao funcionamento do sistema de gestão da informação sobre os controlos oficiais e dos seus componentes de sistema («Regulamento IMSOC») ([JO L 261 de 14.10.2019, p. 37](http://publications.europa.eu/resource/oj/JOL_2019_261_R_TOC)).
+
+> [(^6^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc6-L_2021109PT.01006001-E0006) Regulamento de Execução (UE) 2020/2002 da Comissão, de 7 de dezembro de 2020, que estabelece regras de aplicação do Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho no que diz respeito à notificação e à comunicação a nível da União de doenças listadas, aos formatos e procedimentos para a apresentação e comunicação dos programas de vigilância da União e dos programas de erradicação e para o pedido de reconhecimento do estatuto de indemnidade de doença, bem como ao sistema informatizado de informações ([JO L 412 de 8.12.2020, p. 1](http://publications.europa.eu/resource/oj/JOL_2020_412_R_TOC)).
+
+> [(^7^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc7-L_2021109PT.01006001-E0007) Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014, relativo à identificação eletrónica e aos serviços de confiança para as transações eletrónicas no mercado interno e que revoga a Diretiva 1999/93/CE ([JO L 257 de 28.8.2014, p. 73](http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC)).
+
+> [(^8^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc8-L_2021109PT.01006001-E0008) Regulamento (UE) n.º 142/2011 da Comissão, de 25 de fevereiro de 2011, que aplica o Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho que define regras sanitárias relativas a subprodutos animais e produtos derivados não destinados ao consumo humano e que aplica a Diretiva 97/78/CE do Conselho no que se refere a certas amostras e certos artigos isentos de controlos veterinários nas fronteiras ao abrigo da referida diretiva ([JO L 54 de 26.2.2011, p. 1](http://publications.europa.eu/resource/oj/JOL_2011_054_R_TOC)).
+
+> [(^9^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc9-L_2021109PT.01006001-E0009) Regulamento (CE) n.º 852/2004 do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativo à higiene dos géneros alimentícios ([JO L 139 de 30.4.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_139_R_TOC)).
+
+> [(^10^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc10-L_2021109PT.01006001-E0010) Regulamento (CE) n.º 1069/2009 do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que define regras sanitárias relativas a subprodutos animais e produtos derivados não destinados ao consumo humano e que revoga o Regulamento (CE) n.º 1774/2002 ([JO L 300 de 14.11.2009, p. 1](http://publications.europa.eu/resource/oj/JOL_2009_300_R_TOC)).
+
+> [(^11^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc11-L_2021109PT.01006001-E0011) Regulamento (CE) n.º 1255/97 do Conselho, de 25 de junho de 1997, relativo aos critérios comunitários exigidos nos postos de controlo e que adapta a guia de marcha prevista no anexo da Diretiva 91/628/CEE ([JO L 174 de 2.7.1997, p. 1](http://publications.europa.eu/resource/oj/JOL_1997_174_R_TOC)).
+
+> [(^12^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc12-L_2021109PT.01006001-E0012) Regulamento (CE) n.º 1/2005 do Conselho, de 22 de dezembro de 2004, relativo à proteção dos animais durante o transporte e operações afins e que altera as Diretivas 64/432/CEE e 93/119/CE e o Regulamento (CE) n.º 1255/97 ([JO L 3 de 5.1.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_003_R_TOC)).
+
+> [(^13^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc13-L_2021109PT.01006001-E0013) Decisão 97/152/CE da Comissão, de 10 de fevereiro de 1997, relativa aos dados a introduzir no ficheiro informatizado dos lotes de animais ou de produtos animais provenientes dos países terceiros que tenham sido objeto de uma reexpedição ([JO L 59 de 28.2.1997, p. 50](http://publications.europa.eu/resource/oj/JOL_1997_059_R_TOC)).
+
+> [(^14^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc14-L_2021109PT.01006001-E0014) Decisão 92/438/CEE do Conselho, de 13 de julho de 1992, relativa à informatização dos procedimentos veterinários de importação (projeto Shift) e que altera as Diretivas 90/675/CEE, 91/496/CEE e 91/628/CEE e a Decisão 90/424/CEE e revoga a Decisão 88/192/CEE ([JO L 243 de 25.8.1992, p. 27](http://publications.europa.eu/resource/oj/JOL_1992_243_R_TOC)).
+
+> [(^15^)](http://publications.europa.eu/resource/cellar/8f86d365-90ff-11eb-b85c-01aa75ed71a1.0019.02/DOC_1#ntc15-L_2021109PT.01006001-E0015) Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho, de 23 de outubro de 2018, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos e organismos da União e à livre circulação desses dados, e que revoga o Regulamento (CE) n.º 45/2001 e a Decisão n.º 1247/2002/CE ([JO L 295 de 21.11.2018, p. 39](http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC)).

@@ -1,0 +1,87 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:301650:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-897994622",
+ "dre_path": "/dr/detalhe/portaria/334-1994-301650",
+ "source_lastmod": "2024-11-27",
+ "versions": [
+  {
+   "date": "1994-05-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "897981561"
+   ]
+  },
+  {
+   "date": "2024-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:897994598:por",
+     "title": "Portaria n.º 306/2024/1",
+     "published": "2024-11-27",
+     "dre_path": "/dr/detalhe/portaria/306-2024-897994598"
+    }
+   ],
+   "changes": [
+    "Altera 1.º",
+    "Altera 2.º"
+   ],
+   "fragments": [
+    "897981561",
+    "897981567",
+    "897981566",
+    "897981565",
+    "897981562"
+   ]
+  }
+ ],
+ "fragments": {
+  "897981561": {
+   "fragment_id": "897994623",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 334/94\n\nde 31 de Maio\n\nA Portaria n.º 610/72, de 14 de Outubro, que estabelece as características físico-químicas a que devem obedecer os diferentes produtos vínicos, tem vindo a ser sucessivamente revogada, quer por legislação específica relativa a vários produtos, como é o caso dos vinagres, bebidas espirituosas, espumantes e licorosos, quer ainda pelos estatutos dos diferentes vinhos de qualidade produzidos em regiões determinadas, bem como de vinhos regionais.\n\nPor outro lado, a adesão de Portugal à União Europeia e a sua consequente sujeição à organização comum do mercado do sector vitivinícola, estatuída pelo Regulamento (CEE) n.º 822/87, do Conselho, de 16 de Março, veio obrigar os vinhos portugueses a obedecerem a novos padrões analíticos.\n\nUrge, pois, adaptar a legislação relativa às características analíticas dos vinhos nacionais a estes novos condicionalismos e ainda à modificação verificada nos hábitos de consumo.\n\nAssim, ao abrigo do artigo 22.º do Decreto-Lei n.º 35846, de 2 de Setembro de 1946, com a redacção dada pelo Decreto-Lei n.º 284/75, de 7 de Julho:\n\nManda o Governo, pelo Ministro da Agricultura, o seguinte:"
+  },
+  "897981567": {
+   "fragment_id": "897994625",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2024-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 306/2024/1 - Diário da República n.º 230/2024, Série I de 2024-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/306-2024-897994598), em vigor a partir de 2024-11-28"
+   ],
+   "markdown": "###### 1.º\n\nPara os vinhos de mesa são os seguintes os limites dos parâmetros analíticos a seguir mencionados:\n\na) Extracto não redutor:\n\nPara os vinhos brancos e rosados, igual ou superior a 16 g/l;\n\nPara os vinhos tintos e palhetes, igual ou superior a 18 g/l;\n\nb) [Revogada];\n\nPara os vinhos brancos e rosados, igual ou superior a 1,6 g/l;\n\nPara os vinhos tintos e palhetes, igual ou superior a 1,8 g/l;\n\nc) Cloretos - inferior ou igual a 1 g/l (expresso em cloreto de sódio);\n\nd) Sulfatos - inferior ou igual a 2 g/l (expresso em sulfato de potássio);\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 306/2024/1 - Diário da República n.º 230/2024, Série I de 2024-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/306-2024-897994598), em vigor a partir de 2024-11-28"
+  },
+  "897981566": {
+   "fragment_id": "897994626",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2024-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2024/1 - Diário da República n.º 230/2024, Série I de 2024-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/306-2024-897994598), em vigor a partir de 2024-11-28"
+   ],
+   "markdown": "###### 2.º\n\nAos valores referidos na alínea a) do número anterior é permitida uma tolerância de 10 %.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 306/2024/1 - Diário da República n.º 230/2024, Série I de 2024-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/306-2024-897994598), em vigor a partir de 2024-11-28"
+  },
+  "897981565": {
+   "fragment_id": "897994627",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nÉ revogada a Portaria n.º 610/72, de 14 de Outubro."
+  },
+  "897981562": {
+   "fragment_id": "897994624",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Agricultura.\n\nAssinada em 5 de Maio de 1994.\n\nPelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar."
+  }
+ }
+}

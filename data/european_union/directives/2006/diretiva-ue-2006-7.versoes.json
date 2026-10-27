@@ -1,0 +1,1130 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006L0007:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0007-20140101",
+ "dre_path": null,
+ "source_lastmod": "2014-01-01",
+ "versions": [
+  {
+   "date": "2006-03-04",
+   "future": false,
+   "celex": "32006L0007",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "caeb08ba67786074",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "ddc78454bf97d6de",
+    "f8d607bc45040784",
+    "f0f8c960bfdbce9b",
+    "32d4e33f82c38c62",
+    "5734d97dc746eb06",
+    "cb66dbd84144a073",
+    "c224c665e9017b8e",
+    "4be25960cc395b3b",
+    "d510ebf6036baa02",
+    "22dae57a7574e0e2",
+    "4b8d7f9d27ccadfa",
+    "2aff8c5a092a46b0",
+    "1e7a0903d2eed348",
+    "0f5b68b3eedad23d",
+    "913c02ddf1f6e33e",
+    "cdf08106f519c9c0",
+    "423b8a5fd98cca51",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "5b158a1dc7f1ba7f",
+    "f8e856672e6e3531",
+    "c44df13bd7009d2a",
+    "6cfbec8f466d85e1",
+    "5bf2ae7b4b739cfd",
+    "476deb2ce404435b",
+    "10ae2db91fcd2236",
+    "ad813894b61bb88a"
+   ]
+  },
+  {
+   "date": "2006-03-24",
+   "future": false,
+   "celex": "02006L0007-20060324",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Altera Notas",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Artigo 14.º",
+    "Adita Artigo 15.º",
+    "Adita Artigo 16.º",
+    "Adita Artigo 17.º",
+    "Adita Artigo 18.º",
+    "Adita Artigo 19.º",
+    "Adita Artigo 20.º",
+    "Adita ANEXO I",
+    "Adita Águas interiores",
+    "Adita Águas costeiras e de transição",
+    "Adita ANEXO II",
+    "Adita Avaliação e classificação das águas balneares",
+    "Adita 1. Qualidade medíocre",
+    "Adita 2. Qualidade suficiente",
+    "Adita 3. Boa qualidade",
+    "Adita 4. Excelente qualidade",
+    "Adita ANEXO III",
+    "Adita Perfil das águas balneares",
+    "Adita ANEXO IV",
+    "Adita MONITORIZAÇÃO DAS ÁGUAS BALNEARES",
+    "Adita ANEXO V",
+    "Adita REGRAS APLICÁVEIS AO MANUSEAMENTO DE AMOSTRAS PARA ANÁLISES MICROBIOLÓGICAS",
+    "Adita 1. PONTO DE AMOSTRAGEM",
+    "Adita 2. ESTERILIZAÇÃO DOS FRASCOS DE AMOSTRAS",
+    "Adita 3. RECOLHA DE AMOSTRAS",
+    "Adita 4. CONSERVAÇÃO E TRANSPORTE DAS AMOSTRAS ANTES DA ANÁLISE",
+    "Suprime Artigo 1.º — Objectivo e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Controlo",
+    "Suprime Artigo 4.º — Avaliação da qualidade das águas balneares",
+    "Suprime Artigo 5.º — Classificação da qualidade das águas balneares",
+    "Suprime Artigo 6.º — Perfis das águas balneares",
+    "Suprime Artigo 7.º — Medidas de gestão em circunstâncias excepcionais",
+    "Suprime Artigo 8.º — Riscos provenientes de cianobactérias",
+    "Suprime Artigo 9.º — Outros parâmetros",
+    "Suprime Artigo 10.º — Cooperação em relação às águas transfronteiriças",
+    "Suprime Artigo 11.º — Participação do público",
+    "Suprime Artigo 12.º — Informação do público",
+    "Suprime Artigo 13.º — Relatórios",
+    "Suprime Artigo 14.º — Relatório e revisão",
+    "Suprime Artigo 15.º — Adaptações técnicas e medidas de execução",
+    "Suprime Artigo 16.º — Procedimento de comité",
+    "Suprime Artigo 17.º — Revogação",
+    "Suprime Artigo 18.º — Aplicação",
+    "Suprime Artigo 19.º — Entrada em vigor",
+    "Suprime Artigo 20.º — Destinatários"
+   ],
+   "fragments": [
+    "617e80bbccdf5d6b",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "b712544e25212be2",
+    "3e0c073204ae08f6",
+    "f0f8c960bfdbce9b",
+    "32d4e33f82c38c62",
+    "184ca55a086d0050",
+    "46045faa5cc2de5a",
+    "91afa4fc3c306f99",
+    "74edb4ca64bd8973",
+    "3194314183bc39fc",
+    "9bfdf5bc85a33828",
+    "a3a323fa20d2dfca",
+    "883727c6850dba22",
+    "1e7a0903d2eed348",
+    "0f5b68b3eedad23d",
+    "c589595334240e84",
+    "38cae331557bc4fb",
+    "15851a72afda943b",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "dfb10b522b099793",
+    "06316f1d0bc90bf9",
+    "3f6877742af0676b",
+    "a35e8d1d61b382c8",
+    "d22246e166a37449",
+    "33b4a56e71076c7d",
+    "bb376592a7c59ec8",
+    "d664376e2a8dcecd",
+    "16036093cf10c7ae",
+    "9b0c18160ff55539",
+    "852174729551523b",
+    "2070ee57fff0578b",
+    "d34c3181182be014",
+    "ff509fe733e3d536",
+    "1eecc9fd80ac1564",
+    "cf9a1c0220a2a4fa",
+    "720af75c92791b10",
+    "c7d0bf8f8b49a5f5",
+    "e03a0eb4d5b2eef3",
+    "aaaef4587253b78b",
+    "64610ae29a6cb67c",
+    "a7dd34e745f47621",
+    "d2517fea7306fdef",
+    "1f30189fb0c483a9",
+    "3b7e913c082d16e8",
+    "ba09068354961cda",
+    "88a92d8c849d006f"
+   ]
+  },
+  {
+   "date": "2009-08-07",
+   "future": false,
+   "celex": "02006L0007-20090807",
+   "acts": [
+    {
+     "id": "eu:celex:32009R0596:por",
+     "title": "REGULAMENTO (CE) N. o 596/2009 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de Junho de 2009",
+     "published": null,
+     "celex": "32009R0596"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Águas interiores",
+    "Altera Águas costeiras e de transição",
+    "Altera 1. Qualidade medíocre",
+    "Altera 2. Qualidade suficiente",
+    "Altera 3. Boa qualidade",
+    "Altera Notas",
+    "Adita Artigo 1.º — Objectivo e âmbito de aplicação",
+    "Adita Artigo 2.º — Definições",
+    "Adita Artigo 3.º — Controlo",
+    "Adita Artigo 4.º — Avaliação da qualidade das águas balneares",
+    "Adita Artigo 5.º — Classificação da qualidade das águas balneares",
+    "Adita Artigo 6.º — Perfis das águas balneares",
+    "Adita Artigo 7.º — Medidas de gestão em circunstâncias excepcionais",
+    "Adita Artigo 8.º — Riscos provenientes de cianobactérias",
+    "Adita Artigo 9.º — Outros parâmetros",
+    "Adita Artigo 10.º — Cooperação em relação às águas transfronteiriças",
+    "Adita Artigo 11.º — Participação do público",
+    "Adita Artigo 12.º — Informação do público",
+    "Adita Artigo 13.º — Relatórios",
+    "Adita Artigo 14.º — Relatório e revisão",
+    "Adita Artigo 15.º — Adaptações técnicas e medidas de aplicação",
+    "Adita Artigo 16.º — Procedimento de comité",
+    "Adita Artigo 17.º — Revogação",
+    "Adita Artigo 18.º — Aplicação",
+    "Adita Artigo 19.º — Entrada em vigor",
+    "Adita Artigo 20.º — Destinatários",
+    "Adita ÁNEXO I",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime Artigo 6.º",
+    "Suprime Artigo 7.º",
+    "Suprime Artigo 8.º",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 16.º",
+    "Suprime Artigo 17.º",
+    "Suprime Artigo 18.º",
+    "Suprime Artigo 19.º",
+    "Suprime Artigo 20.º",
+    "Suprime ANEXO I"
+   ],
+   "fragments": [
+    "652c1d93ab6ceda1",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "ddc78454bf97d6de",
+    "226d49bbac41454d",
+    "f0f8c960bfdbce9b",
+    "32d4e33f82c38c62",
+    "5734d97dc746eb06",
+    "cb66dbd84144a073",
+    "60a678509157f98a",
+    "4be25960cc395b3b",
+    "d510ebf6036baa02",
+    "22dae57a7574e0e2",
+    "4b8d7f9d27ccadfa",
+    "2aff8c5a092a46b0",
+    "1e7a0903d2eed348",
+    "0f5b68b3eedad23d",
+    "913c02ddf1f6e33e",
+    "e6db0bf094bfe593",
+    "423b8a5fd98cca51",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "5b158a1dc7f1ba7f",
+    "fbaeac87d0e2667a",
+    "1b41442d9f09f46e",
+    "6cfbec8f466d85e1",
+    "5bf2ae7b4b739cfd",
+    "476deb2ce404435b",
+    "9d1f80f56ec6dfc9",
+    "03a2f0541a8fea7f",
+    "d1128b110d225e97",
+    "5b7c0c731c925c93",
+    "852174729551523b",
+    "2070ee57fff0578b",
+    "e61fcd8e81a697aa",
+    "1d0b82ee2e8f4b8d",
+    "2a11b392c107284a",
+    "cf9a1c0220a2a4fa",
+    "720af75c92791b10",
+    "c7d0bf8f8b49a5f5",
+    "e03a0eb4d5b2eef3",
+    "aaaef4587253b78b",
+    "64610ae29a6cb67c",
+    "a7dd34e745f47621",
+    "d2517fea7306fdef",
+    "1f30189fb0c483a9",
+    "3b7e913c082d16e8",
+    "ba09068354961cda",
+    "bd1c3d5b31dc3d18"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02006L0007-20140101",
+   "acts": [
+    {
+     "id": "eu:celex:32013L0064:por",
+     "title": "DIRETIVA 2013/64/UE DO CONSELHO de 17 de dezembro de 2013",
+     "published": null,
+     "celex": "32013L0064"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 5.º — Classificação da qualidade das águas balneares",
+    "Altera Artigo 6.º — Perfis das águas balneares",
+    "Altera Artigo 13.º — Relatórios",
+    "Altera Águas interiores",
+    "Altera Águas costeiras e de transição",
+    "Altera 1. Qualidade medíocre",
+    "Altera 2. Qualidade suficiente",
+    "Altera 3. Boa qualidade",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "39329e65f77fb402",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "ddc78454bf97d6de",
+    "bca0b1c1f8ec8953",
+    "f0f8c960bfdbce9b",
+    "32d4e33f82c38c62",
+    "5734d97dc746eb06",
+    "cb66dbd84144a073",
+    "6b5f899eb896bffa",
+    "130680610eda67f5",
+    "d510ebf6036baa02",
+    "22dae57a7574e0e2",
+    "4b8d7f9d27ccadfa",
+    "2aff8c5a092a46b0",
+    "1e7a0903d2eed348",
+    "0f5b68b3eedad23d",
+    "913c02ddf1f6e33e",
+    "e6db0bf094bfe593",
+    "5ff13485220319d4",
+    "1ecfc79da3f1ac7f",
+    "dde9cf53e9ae6c9a",
+    "5b158a1dc7f1ba7f",
+    "fbaeac87d0e2667a",
+    "1b41442d9f09f46e",
+    "6cfbec8f466d85e1",
+    "5bf2ae7b4b739cfd",
+    "476deb2ce404435b",
+    "9d1f80f56ec6dfc9",
+    "03a2f0541a8fea7f",
+    "ba73adbb2fc12dc0",
+    "64deff793a47cdee",
+    "852174729551523b",
+    "2070ee57fff0578b",
+    "bd1f00c260a34331",
+    "a8bae1c793e6d61e",
+    "a815c51b8ffbd791",
+    "cf9a1c0220a2a4fa",
+    "720af75c92791b10",
+    "c7d0bf8f8b49a5f5",
+    "e03a0eb4d5b2eef3",
+    "aaaef4587253b78b",
+    "64610ae29a6cb67c",
+    "a7dd34e745f47621",
+    "d2517fea7306fdef",
+    "1f30189fb0c483a9",
+    "3b7e913c082d16e8",
+    "ba09068354961cda",
+    "e1abaf60ad97aa00"
+   ]
+  }
+ ],
+ "fragments": {
+  "caeb08ba67786074": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2006\n\nrelativa à gestão da qualidade das águas balneares e que revoga a Directiva 76/160/CEE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão [([^1])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr1-L_2006064PT.01003701-E0001),\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^2])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr2-L_2006064PT.01003701-E0002),\n\nTendo em conta o parecer do Comité das Regiões [([^3])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr3-L_2006064PT.01003701-E0003),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^4])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr4-L_2006064PT.01003701-E0004), tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 8 de Dezembro de 2005,\n\nConsiderando o seguinte:\n\n(1) Com base na Comunicação da Comissão sobre o desenvolvimento sustentável, o Conselho Europeu seleccionou objectivos destinados a constituir uma orientação geral para o futuro desenvolvimento em domínios prioritários como os recursos naturais e a saúde pública.\n\n(2) A água é um recurso natural escasso cuja qualidade deve ser protegida, defendida, gerida e tratada em conformidade. As águas de superfície, em especial, são fontes renováveis com uma capacidade limitada de recuperação dos impactos adversos decorrentes das actividades humanas.\n\n(3) A política da Comunidade no domínio do ambiente deverá ter como objectivo um elevado nível de protecção e contribuir para a prossecução dos objectivos de preservação, protecção e melhoria da qualidade do ambiente e de protecção da saúde humana.\n\n(4) Em Dezembro de 2000, a Comissão aprovou uma Comunicação ao Parlamento Europeu e ao Conselho sobre o desenvolvimento de uma nova política de águas balneares e iniciou uma consulta em grande escala de todas as partes interessadas e envolvidas. O principal resultado desta consulta foi um apoio geral à elaboração de uma nova directiva baseada nos últimos dados científicos e dando especial importância a uma participação mais vasta do público.\n\n(5) A Decisão n.º 1600/2002/CE do Parlamento Europeu e do Conselho, de 22 de Julho de 2002, que estabelece o sexto programa comunitário de acção em matéria de ambiente [([^5])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr5-L_2006064PT.01003701-E0005), inclui o compromisso de garantir um elevado nível de protecção das águas balneares, inclusivamente através da revisão da Directiva 76/160/CEE, do Conselho, de 8 de Dezembro de 1975, relativa à qualidade das águas balneares [([^6])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr6-L_2006064PT.01003701-E0006).\n\n(6) Nos termos do Tratado, na elaboração da sua política no domínio do ambiente, a Comunidade deverá ter em conta, nomeadamente, os dados científicos e técnicos disponíveis. A presente directiva deverá recorrer a dados científicos para a aplicação dos parâmetros dos indicadores mais fiáveis com vista a permitir a previsão do risco microbiológico para a saúde e a atingir um nível de protecção elevado, devendo ser efectuados com urgência estudos epidemiológicos mais aprofundados no que respeita aos riscos para a saúde associados à prática balnear, particularmente em águas doces.\n\n(7) Tendo em vista melhorar a eficiência e uma utilização adequada dos recursos, a presente directiva deverá ser estreitamente coordenada com outra legislação comunitária em matéria de água, como a Directiva 91/271/CEE do Conselho, de 21 de Maio de 1991, relativa ao tratamento de águas residuais urbanas [([^7])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr7-L_2006064PT.01003701-E0007), a Directiva 91/676/CEE do Conselho, de 12 de Dezembro de 1991, relativa à protecção das águas contra a poluição causada por nitratos de origem agrícola [([^8])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr8-L_2006064PT.01003701-E0008), e a Directiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2000, que estabelece um quadro de acção comunitária no domínio da política da água [([^9])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr9-L_2006064PT.01003701-E0009).\n\n(8) Deverá ser divulgada aos interessados informação adequada sobre as medidas programadas e sobre os progressos verificados na sua execução. O público deverá ser informado apropriada e oportunamente dos resultados da monitorização da qualidade das águas balneares e das medidas de gestão dos riscos, a fim de prevenir riscos para a saúde, especialmente no contexto de episódios previsíveis de poluição de curta duração ou de situações anormais. Deverão ser aplicadas novas tecnologias que permitam a informação do público, de uma forma eficiente e comparável, sobre a qualidade das águas balneares em toda a Comunidade.\n\n(9) Para fins de monitorização, é necessário aplicar métodos e práticas de análise harmonizados. A observação e a avaliação da qualidade durante um período prolongado de tempo são necessárias para permitir uma classificação realista das águas balneares.\n\n(10) A conformidade deverá ser uma questão de medidas de gestão adequadas e de garantia da qualidade e não se resumir apenas a medições e cálculos. Um sistema de perfis das águas balneares é, pois, adequado para fornecer uma melhor compreensão dos riscos de forma a constituir uma base para as medidas de gestão. Em paralelo, deverá ser prestada uma atenção especial à conformidade com as normas de qualidade e à transição coerente a partir da Directiva 76/160/CEE.\n\n(11) Em 17 de Fevereiro de 2005, a Comunidade ratificou a Convenção da UNECE sobre o Acesso à Informação, a Participação do Público no Processo de Tomada de Decisões e o Acesso à Justiça em matéria de Ambiente (Convenção de Aarhus). Assim sendo, justifica‐se que a presente directiva inclua disposições sobre o acesso do público à informação e preveja a participação do público na sua implementação, complementando a Directiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2003, relativa ao acesso do público às informações sobre o ambiente [([^10])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr10-L_2006064PT.01003701-E0010), e a Directiva 2003/35/CE do Parlamento Europeu e do Conselho, de 26 de Maio de 2003, que estabelece a participação do público na elaboração de certos planos e programas relativos ao ambiente [([^11])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr11-L_2006064PT.01003701-E0011).\n\n(12) Atendendo a que os objectivos da presente directiva, a saber, a obtenção pelos Estados‐Membros, com base em normas comuns, de uma boa qualidade das águas balneares e de um elevado nível de protecção em toda a Comunidade, não podem ser suficientemente realizados pelos Estados‐Membros e podem ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(13) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^12])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr12-L_2006064PT.01003701-E0012).\n\n(14) A política comunitária relativa às águas balneares revela‐se de uma importância evidente em cada época balnear, dado proteger o público da poluição que surja de maneira acidental ou crónica, nas zonas balneares na Comunidade ou na sua periferia. A qualidade global das águas balneares melhorou consideravelmente desde a entrada em vigor da Directiva 76/160/CEE. A referida directiva reflecte, no entanto, o estado dos conhecimentos e a experiência existente no início da década de 70. Entretanto, os padrões de utilização das águas balneares mudaram e os conhecimentos científicos e técnicos evoluíram. Aquela directiva deve, pois, ser revogada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "ddc78454bf97d6de": {
+   "fragment_id": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objectivo e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito de aplicação\n\n1. A presente directiva estabelece disposições aplicáveis:\n\na) À monitorização e classificação da qualidade das águas balneares;\n\nb) À gestão da qualidade das águas balneares; e\n\nc) À prestação de informações ao público sobre as águas balneares.\n\n2. O objectivo da presente directiva consiste na preservação, protecção e melhoria da qualidade do ambiente e na protecção da saúde humana, em complemento da Directiva 2000/60/CE.\n\n3. A presente directiva aplica‐se a qualquer elemento das águas de superfície onde a autoridade competente preveja que um grande número de pessoas se irá banhar e onde a prática balnear não tenha sido proibida ou desaconselhada de modo permanente (a seguir designado por «águas balneares»). Não é aplicável:\n\na) Às águas utilizadas em piscinas e às águas termais;\n\nb) Às águas confinadas sujeitas a tratamento ou utilizadas para fins terapêuticos;\n\nc) Às massas de água confinadas criadas artificialmente e separadas das águas de superfície e das águas subterrâneas."
+  },
+  "f8d607bc45040784": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente directiva, são aplicáveis as seguintes definições:\n\n1. Os termos «águas de superfície», «águas subterrâneas», «águas interiores», «águas de transição», «águas costeiras» e «bacia hidrográfica» têm a mesma acepção que na Directiva 2000/60/CE.\n\n2. «Autoridade competente» significa a autoridade ou autoridades designada(s) por um Estado‐Membro para assegurar o cumprimento das obrigações previstas na presente directiva ou qualquer outra autoridade ou organismo em que tal competência seja delegada.\n\n3. «Permanente» significa, quando relativo a uma proibição ou a um desaconselhamento dos banhos, pelo menos uma época balnear completa.\n\n4. «Grande número» significa, relativamente a banhistas, um número que a autoridade competente considere ser grande com base nomeadamente em tendências passadas ou na presença de quaisquer infra‐estruturas ou instalações disponíveis, ou em outras medidas tomadas para promover os banhos.\n\n5. «Poluição» significa a presença de contaminação microbiológica ou outros organismos ou resíduos que afectem a qualidade das águas balneares e constituam um risco para a saúde dos banhistas, tal como referido nos artigos 8.º e 9.º e na coluna A do anexo I.\n\n6. «Época balnear» significa o período em que se prevê uma grande afluência de banhistas.\n\n7. «Medidas de gestão» significa as medidas a seguir indicadas relativamente às águas balneares: a) Estabelecimento e manutenção de um perfil das águas balneares; b) Estabelecimento de um calendário de amostragem; c) Monitorização das águas balneares; d) Avaliação da qualidade das águas balneares; e) Classificação das águas balneares; f) Detecção e avaliação das causas de poluição que possam afectar as águas balneares e prejudicar a saúde dos banhistas; g) Fornecimento de informação ao público; h) Desenvolvimento de acções para prevenir a exposição dos banhistas à poluição; i) Desenvolvimento de acções para reduzir o risco de poluição.\n\na) Estabelecimento e manutenção de um perfil das águas balneares;\n\nb) Estabelecimento de um calendário de amostragem;\n\nc) Monitorização das águas balneares;\n\nd) Avaliação da qualidade das águas balneares;\n\ne) Classificação das águas balneares;\n\nf) Detecção e avaliação das causas de poluição que possam afectar as águas balneares e prejudicar a saúde dos banhistas;\n\ng) Fornecimento de informação ao público;\n\nh) Desenvolvimento de acções para prevenir a exposição dos banhistas à poluição;\n\ni) Desenvolvimento de acções para reduzir o risco de poluição.\n\n8. «Poluição de curta duração» significa a contaminação microbiológica indicada na coluna A do anexo I, com causas claramente identificáveis, que se preveja que, em princípio, não afectará a qualidade das águas balneares por mais de cerca de 72 horas a contar do momento em que a qualidade dessas águas começou a ser afectada e para a qual a autoridade competente tenha estabelecido procedimentos de previsão e minimização dos seus efeitos, tal como previsto no anexo II.\n\n9. «Situação anormal» significa um acontecimento ou uma combinação de acontecimentos com repercussões na qualidade das águas balneares no local em questão, o qual não se prevê que ocorra, em média, mais do que uma vez de quatro em quatro anos.\n\n10. «Conjunto de dados sobre a qualidade das águas balneares» significa os dados obtidos em conformidade com o artigo 3.º\n\n11. «Avaliação da qualidade das águas balneares» significa o processo de avaliação da qualidade das águas balneares, utilizando o método de avaliação definido no anexo II.\n\n12. «Proliferação de cianobactérias» significa um crescimento de cianobactérias sob a forma de florescência, tapete ou espuma.\n\n13. O termo «público interessado» tem a mesma acepção que na Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente [([^13])](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntr13-L_2006064PT.01003701-E0013)."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "32d4e33f82c38c62": {
+   "fragment_id": "QUALIDADE E GESTÃO DAS ÁGUAS BALNEARES",
+   "type": "divisao",
+   "heading": "QUALIDADE E GESTÃO DAS ÁGUAS BALNEARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### QUALIDADE E GESTÃO DAS ÁGUAS BALNEARES"
+  },
+  "5734d97dc746eb06": {
+   "fragment_id": "Artigo 3.º — Controlo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Controlo\n\n1. Os Estados-Membros devem anualmente identificar todas as águas balneares e definir a duração da época balnear. Devem fazê-lo pela primeira vez antes do início da primeira época balnear, após Março de 2008.\n\n2. Os Estados-Membros garantem que os parâmetros definidos na coluna A do anexo I sejam monitorizados em conformidade com o anexo IV.\n\n3. O ponto de amostragem é o local das águas balneares onde:\n\na) Se preveja maior afluência de banhistas; ou\n\nb) Exista maior risco de poluição, de acordo com o perfil das águas balneares.\n\n4. Antes do início de cada época balnear é estabelecido para cada zona balnear um calendário de amostragem, pela primeira vez antes do início da terceira época balnear completa após a entrada em vigor da presente directiva. A monitorização deve ser efectuada no prazo máximo de quatro dias a contar da data indicada no calendário de amostragem.\n\n5. Os Estados-Membros podem iniciar a monitorização dos parâmetros definidos na coluna A do anexo I na primeira época balnear completa após a entrada em vigor da presente directiva. Neste caso, a monitorização deve ser efectuada com a frequência especificada no anexo IV. Os resultados dessa monitorização podem ser utilizados na constituição dos conjuntos de dados sobre a qualidade das águas balneares referidos no artigo 4.º Uma vez iniciada a monitorização ao abrigo da presente directiva, pode cessar a vigilância dos parâmetros estabelecidos no anexo da Directiva 76/160/CEE.\n\n6. As amostras recolhidas durante poluição de curta duração podem não ser consideradas. Essas amostras devem ser substituídas por amostras recolhidas em conformidade com o anexo IV.\n\n7. Em situações anormais, pode ser suspenso o calendário de amostragem referido no n.º 4. O calendário de amostragem deve ser retomado logo que possível após o termo da situação anormal. Nessa altura devem também ser recolhidas novas amostras para substituir as amostras que faltam devido à situação anormal.\n\n8. Os Estados-Membros comunicam à Comissão qualquer suspensão do calendário de amostragem, indicando as razões de tal suspensão. Os Estados-Membros devem apresentar essa informação, o mais tardar, por ocasião do relatório anual seguinte previsto no artigo 13.º\n\n9. Os Estados‐Membros garantem que a análise da qualidade das águas balneares seja efectuada de acordo com os métodos de referência especificados no anexo I e com as regras fixadas no anexo V. No entanto, os Estados-Membros podem permitir a utilização de outros métodos ou regras se puderem demonstrar que os seus resultados são equivalentes aos obtidos utilizando os métodos especificados no anexo I e as regras fixadas no anexo V. Os Estados-Membros que permitam a utilização de tais métodos ou regras equivalentes facultarão à Comissão todas as informações relevantes sobre os métodos ou regras utilizados e a respectiva equivalência."
+  },
+  "cb66dbd84144a073": {
+   "fragment_id": "Artigo 4.º — Avaliação da qualidade das águas balneares",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Avaliação da qualidade das águas balneares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação da qualidade das águas balneares\n\n1. Os Estados-Membros garantem a recolha de conjuntos de dados sobre a qualidade das águas balneares com base nos parâmetros fixados na coluna A do anexo I.\n\n2. As avaliações da qualidade das águas balneares são efectuadas:\n\na) Em relação a todas as águas balneares;\n\nb) Após o fim de cada época balnear;\n\nc) Com base no conjunto de dados sobre a qualidade das águas balneares recolhidos durante essa época balnear e as três épocas balneares anteriores; e\n\nd) Nos termos do anexo II.\n\nNo entanto, um Estado-Membro pode decidir efectuar avaliações da qualidade das águas balneares com base no conjunto de dados sobre a qualidade das águas balneares que apenas digam respeito às três últimas épocas balneares. Se assim o decidir, notificará previamente a Comissão. Notificará também a Comissão se posteriormente decidir voltar a efectuar avaliações com base em quatro épocas balneares. Os Estados-Membros não podem alterar o período de avaliação aplicável mais do que uma vez de cinco em cinco anos.\n\n3. Os conjuntos de dados utilizados nas avaliações da qualidade das águas balneares devem consistir sempre em, pelo menos, 16 amostras ou, nas circunstâncias especiais referidas no ponto 2 do anexo IV, em 12 amostras.\n\n4. No entanto, desde que:\n\n— a obrigação estabelecida no n.º 3 seja respeitada, ou\n\n— o conjunto de dados sobre águas balneares utilizados na avaliação contenha, pelo menos, 8 amostras, no caso de águas balneares com épocas balneares que não ultrapassem as 8 semanas,\n\npode ser efectuada uma avaliação da qualidade das águas balneares com base num conjunto de dados sobre a qualidade das águas balneares relativo a menos de quatro épocas balneares, se:\n\na) As águas balneares tiverem sido identificadas pela primeira vez;\n\nb) Se tiverem registado alterações que possam afectar a classificação das águas balneares em conformidade com o artigo 5.º, caso em que a avaliação deve realizar‐se com base num conjunto de dados sobre a qualidade das águas balneares constituído unicamente pelos resultados obtidos em relação às amostras recolhidas após a ocorrência das alterações; ou\n\nc) As águas balneares tiverem já sido avaliadas em conformidade com a Directiva 76/160/CEE, podendo então utilizar‐se dados equivalentes recolhidos em conformidade com essa directiva; para esse efeito, os parâmetros 2 e 3 do anexo da Directiva 76/160/CEE serão considerados equivalentes aos parâmetros 2 e 1 da coluna A do anexo I da presente directiva.\n\n5. Os Estados-Membros podem dividir ou agrupar as águas balneares existentes à luz das avaliações da qualidade das águas balneares. Só podem agrupar águas balneares existentes desde que:\n\na) Estas sejam contíguas;\n\nb) Tenham sido objecto de avaliações semelhantes durante os quatro anos anteriores em conformidade com os n.º s 2 e 3 e a alínea c) do n.º 4; e\n\nc) Os respectivos perfis indiquem, na sua totalidade, factores de risco comuns ou a ausência de factores de risco."
+  },
+  "c224c665e9017b8e": {
+   "fragment_id": "Artigo 5.º — Classificação da qualidade das águas balneares",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Classificação da qualidade das águas balneares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Classificação da qualidade das águas balneares\n\n1. Em função da avaliação da qualidade das águas balneares efectuada em conformidade com o artigo 4.º, os Estados-Membros procedem, em conformidade com os critérios definidos no anexo II, à classificação das águas balneares como:\n\na) «Medíocres»;\n\nb) «Suficientes/aceitáveis»;\n\nc) «Boas»; ou\n\nd) «Excelentes».\n\n2. A primeira classificação em função dos requisitos estabelecidos na presente directiva deve estar concluída até ao final da época balnear de 2015.\n\n3. Os Estados-Membros garantem que, até ao final da época balnear de 2015, todas as águas balneares sejam, no mínimo, «suficientes». Devem tomar medidas realistas e proporcionadas que considerem adequadas para aumentar o número de águas balneares classificadas como «excelentes» ou «boas».\n\n4. Contudo, não obstante a obrigação geral estabelecida no n.º 3, as águas balneares podem ser classificadas temporariamente como «medíocres» e continuar a ser conformes com a presente directiva. Nesses casos, os Estados-Membros garantem o cumprimento das seguintes condições:\n\na) Relativamente às águas balneares classificadas como «medíocres», devem ser tomadas as seguintes medidas, com efeito a partir da época balnear que se segue à classificação: i) medidas de gestão adequadas, incluindo a proibição da prática balnear ou o seu desaconselhamento, para evitar a exposição dos banhistas à poluição, ii) identificação das causas e razões da impossibilidade de obtenção da classificação de qualidade «suficientes», iii) medidas adequadas para prevenir, reduzir ou eliminar as causas da poluição, e iv) nos termos do artigo 12.º, prevenção do público por meio de um sinal de aviso claro e simples e sua informação das causas da poluição e das medidas tomadas com base no perfil das águas balneares;\n\ni) medidas de gestão adequadas, incluindo a proibição da prática balnear ou o seu desaconselhamento, para evitar a exposição dos banhistas à poluição,\n\nii) identificação das causas e razões da impossibilidade de obtenção da classificação de qualidade «suficientes»,\n\niii) medidas adequadas para prevenir, reduzir ou eliminar as causas da poluição, e\n\niv) nos termos do artigo 12.º, prevenção do público por meio de um sinal de aviso claro e simples e sua informação das causas da poluição e das medidas tomadas com base no perfil das águas balneares;\n\nb) Se determinadas águas balneares forem classificadas como «medíocres» durante cinco anos consecutivos, deve estabelecer‐se uma proibição ou um desaconselhamento permanentes da prática balnear. Todavia, um Estado‐Membro pode introduzir uma proibição ou um desaconselhamento permanentes da prática balnear antes do final do período de cinco anos se considerar que a obtenção de uma qualidade «suficiente» não é viável ou implica despesas desproporcionadas."
+  },
+  "4be25960cc395b3b": {
+   "fragment_id": "Artigo 6.º — Perfis das águas balneares",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Perfis das águas balneares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Perfis das águas balneares\n\n1. Os Estados-Membros garantem o estabelecimento de perfis das águas balneares em conformidade com o anexo III. Cada perfil das águas balneares pode abranger uma ou mais águas balneares contíguas. Os perfis das águas balneares serão estabelecidos pela primeira vez em Março de 2011.\n\n2. Os perfis das águas balneares são revistos e actualizados nos termos do anexo III.\n\n3. Para elaborar, rever e actualizar os perfis das águas balneares serão devidamente utilizados os dados obtidos através da monitorização e das avaliações realizadas por força da Directiva 2000/60/CE relevantes para efeitos da presente directiva."
+  },
+  "d510ebf6036baa02": {
+   "fragment_id": "Artigo 7.º — Medidas de gestão em circunstâncias excepcionais",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Medidas de gestão em circunstâncias excepcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Medidas de gestão em circunstâncias excepcionais\n\nOs Estados-Membros garantem que sejam oportunamente tomadas medidas de gestão adequadas sempre que tenham conhecimento de situações inesperadas que tenham, ou que razoavelmente se preveja que venham a ter, um impacto negativo na qualidade das águas balneares ou na saúde dos banhistas. Tais medidas incluem a informação do público e, se necessário, a proibição temporária da prática balnear."
+  },
+  "22dae57a7574e0e2": {
+   "fragment_id": "Artigo 8.º — Riscos provenientes de cianobactérias",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Riscos provenientes de cianobactérias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Riscos provenientes de cianobactérias\n\n1. Quando o perfil das águas balneares revelar um risco potencial de proliferação de cianobactérias, deve ser realizada uma monitorização apropriada para permitir a identificação atempada de riscos sanitários.\n\n2. Quando se verificar a proliferação de cianobactérias e for identificado ou previsto um risco sanitário, tomar‐se‐ão de imediato as medidas de gestão adequadas para evitar a exposição, incluindo a informação do público."
+  },
+  "4b8d7f9d27ccadfa": {
+   "fragment_id": "Artigo 9.º — Outros parâmetros",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Outros parâmetros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Outros parâmetros\n\n1. Quando o perfil das águas balneares revelar uma tendência para a proliferação de macroalgas e/ou fitoplâncton marinho, será averiguado se a sua presença é aceitável e serão identificados os riscos sanitários que a sua presença representa; tomar-se-ão medidas de gestão adequadas, incluindo a informação do público.\n\n2. As águas balneares serão inspeccionadas visualmente para detectar poluição por resíduos de alcatrão, vidro, plástico, borracha e outros resíduos. Se tal poluição for detectada, tomar‐se‐ão medidas de gestão adequadas, incluindo, se necessário, a informação do público."
+  },
+  "2aff8c5a092a46b0": {
+   "fragment_id": "Artigo 10.º — Cooperação em relação às águas transfronteiriças",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Cooperação em relação às águas transfronteiriças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cooperação em relação às águas transfronteiriças\n\nSempre que uma bacia hidrográfica possa ter impactos transfronteiriços na qualidade das águas balneares, os Estados‐Membros interessados cooperam, conforme adequado, na aplicação da presente directiva, incluindo através do intercâmbio apropriado de informações e de acções conjuntas para controlar esses impactos."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "0f5b68b3eedad23d": {
+   "fragment_id": "INTERCÂMBIO DE INFORMAÇÕES",
+   "type": "divisao",
+   "heading": "INTERCÂMBIO DE INFORMAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INTERCÂMBIO DE INFORMAÇÕES"
+  },
+  "913c02ddf1f6e33e": {
+   "fragment_id": "Artigo 11.º — Participação do público",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Participação do público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Participação do público\n\nOs Estados‐Membros incentivarão a participação do público na aplicação da presente directiva e garantirão ao público interessado a oportunidade de:\n\n— obter informações sobre as modalidades de participação, e\n\n— apresentar sugestões, comentários ou queixas.\n\nEstas oportunidades serão garantidas, nomeadamente em matéria de identificação, revisão e actualização das listas das águas balneares nos termos do n.º 1 do artigo 3.º As autoridades competentes tomarão na devida conta quaisquer informações obtidas deste modo."
+  },
+  "cdf08106f519c9c0": {
+   "fragment_id": "Artigo 12.º — Informação do público",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Informação do público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informação do público\n\n1. Os Estados‐Membros garantem que as seguintes informações sejam activamente divulgadas e prontamente disponibilizadas, durante a época balnear, num local de fácil acesso nas proximidades imediatas de cada zona balnear:\n\na) Classificação actual das águas balneares e qualquer proibição ou desaconselhamento da prática balnear referidos no presente artigo através de um sinal ou símbolo simples e claro;\n\nb) Descrição geral das águas balneares, em linguagem não técnica, baseada no perfil das águas balneares estabelecido em conformidade com o anexo III;\n\nc) No caso de águas balneares sujeitas a poluição de curta duração: — notificação de que as águas balneares estão sujeitas a episódios de poluição de curta duração, — indicação do número de dias em que a prática balnear esteve proibida ou foi desaconselhada durante a época balnear anterior devido a essa poluição, e — um aviso sempre que se prevejam ou se verifiquem episódios dessa poluição;\n\n— notificação de que as águas balneares estão sujeitas a episódios de poluição de curta duração,\n\n— indicação do número de dias em que a prática balnear esteve proibida ou foi desaconselhada durante a época balnear anterior devido a essa poluição, e\n\n— um aviso sempre que se prevejam ou se verifiquem episódios dessa poluição;\n\nd) Informações sobre a natureza e a duração previsível das situações anormais durante a ocorrência desses episódios;\n\ne) Sempre que a prática balnear seja proibida ou desaconselhada, um aviso ao público indicando os respectivos motivos;\n\nf) Sempre que se estabeleça uma proibição ou um desaconselhamento permanentes da prática balnear, o facto de que a zona em questão deixou de ser uma água balnear, apresentando‐se os motivos dessa desclassificação; e\n\ng) Indicação de fontes para uma informação mais completa, em conformidade com o n.º 2.\n\n2. Os Estados‐Membros utilizam tecnologias e meios adequados, incluindo a internet, para divulgar activamente e sem demora as informações relativas às águas balneares referidas no n.º 1 e também as seguintes informações, se necessário em várias línguas:\n\na) Uma lista das águas balneares;\n\nb) A classificação das águas balneares durante os últimos três anos e os respectivos perfis, incluindo os resultados da monitorização realizada em conformidade com a presente directiva desde a última classificação;\n\nc) No caso de águas balneares classificadas como «medíocres», informações sobre as causas de poluição e as medidas tomadas com vista a prevenir a exposição dos banhistas à poluição e a tratar as suas causas, tal como referido no n.º 4 do artigo 5.º; e\n\nd) No caso de águas balneares sujeitas a poluição de curta duração, informações gerais sobre: — as condições que possam provocar episódios de poluição de curta duração, — a probabilidade de tais episódios e respectiva duração provável, — as causas de poluição e as medidas tomadas com vista a prevenir a exposição dos banhistas à poluição e a tratar as suas causas.\n\n— as condições que possam provocar episódios de poluição de curta duração,\n\n— a probabilidade de tais episódios e respectiva duração provável,\n\n— as causas de poluição e as medidas tomadas com vista a prevenir a exposição dos banhistas à poluição e a tratar as suas causas.\n\nA lista referida na alínea a) é facultada anualmente, antes do início da época balnear. Os resultados da monitorização referida na alínea b) são disponibilizados na internet após a conclusão da análise.\n\n3. As informações referidas nos n.ºs 1 e 2 são divulgadas assim que estejam disponíveis e com efeitos a partir do início da quinta época balnear após Março de 2008.\n\n4. Sempre que possível, os Estados‐Membros e a Comissão prestam informações ao público utilizando tecnologia de georreferenciação e apresentam‐nas de forma clara e coerente, nomeadamente através da utilização de sinais e símbolos."
+  },
+  "423b8a5fd98cca51": {
+   "fragment_id": "Artigo 13.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Relatórios\n\n1. Os Estados‐Membros fornecem à Comissão os resultados da monitorização e a avaliação da qualidade de todas as águas balneares, bem como uma descrição das principais medidas de gestão tomadas. Os Estados‐Membros fornecem estas informações todos os anos até 31 de Dezembro, relativamente à época balnear anterior. Devem começar a fornecê‐las logo que tenha sido efectuada a primeira avaliação da qualidade das águas balneares, em conformidade com o artigo 4.º\n\n2. Os Estados‐Membros devem notificar todos os anos a Comissão, antes do início da época balnear, de todas as águas identificadas como águas balneares, indicando a razão de eventuais alterações em relação ao ano anterior. Devem fazê‐lo pela primeira vez antes do início da primeira época balnear após Março de 2008.\n\n3. Uma vez iniciada a monitorização das águas balneares ao abrigo da presente directiva, o relatório anual a enviar à Comissão nos termos do n.º 1 continuará a ser elaborado em conformidade com a Directiva 76/160/CEE até que seja possível efectuar a primeira avaliação ao abrigo da presente directiva. Durante esse período, o parâmetro 1 do anexo da Directiva 76/160/CEE não será tido em consideração no relatório anual e os parâmetros 2 e 3 do anexo da Directiva 76/160/CEE presumem‐se equivalentes aos parâmetros 2 e 1 da coluna A do anexo I da presente directiva.\n\n4. A Comissão publicará um relatório anual de síntese sobre a qualidade das águas balneares na Comunidade, incluindo a classificação das águas balneares, a conformidade com a presente directiva e as principais medidas de gestão tomadas. A Comissão publicará o referido relatório até 30 de Abril de cada ano, inclusive através da internet. Na elaboração do relatório, a Comissão utilizará da melhor forma, sempre que possível, os sistemas de recolha, avaliação e apresentação de dados previstos na legislação comunitária conexa, em especial na Directiva 2000/60/CE."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "5b158a1dc7f1ba7f": {
+   "fragment_id": "Artigo 14.º — Relatório e revisão",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Relatório e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Relatório e revisão\n\n1. A Comissão deve apresentar um relatório ao Parlamento Europeu e ao Conselho até 2008. O relatório deve dar especial atenção aos seguintes elementos:\n\na) Resultados de um estudo epidemiológico adequado ao nível europeu, efectuado pela Comissão em colaboração com os Estados‐Membros;\n\nb) Outros progressos científicos, analíticos e epidemiológicos pertinentes para os parâmetros relativos à qualidade das águas balneares, incluindo no que se refere aos vírus; e\n\nc) Recomendações da Organização Mundial de Saúde.\n\n2. Os Estados‐Membros apresentarão à Comissão, por escrito, até final de 2014, observações sobre o referido relatório e sobre quaisquer investigações ou avaliações suplementares que possam revelar‐se necessárias para assistir a Comissão na revisão da presente directiva prevista no n.º 3.\n\n3. À luz do relatório, das observações escritas dos Estados‐Membros, de uma avaliação de impacto exaustiva e tendo presente a experiência adquirida com a aplicação da presente directiva, a Comissão procederá, até 2020, à sua revisão, prestando particular atenção aos parâmetros relativos à qualidade das águas balneares e à oportunidade de suprimir progressivamente a classificação «suficientes» ou modificar as normas aplicáveis e, se necessário, apresentará as propostas legislativas adequadas ao abrigo do artigo 251.º do Tratado."
+  },
+  "f8e856672e6e3531": {
+   "fragment_id": "Artigo 15.º — Adaptações técnicas e medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Adaptações técnicas e medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Adaptações técnicas e medidas de execução\n\n1. Será decidido, nos termos do n.º 2 do artigo 16.º:\n\na) Especificar a norma EN/ISO sobre a equivalência de métodos microbiológicos para efeitos do n.º 9 do artigo 3.º;\n\nb) Estabelecer regras pormenorizadas para a aplicação do artigo 8.º, n.º 1, e do artigo 12.º, n.ºs 1, alínea a), e 4;\n\nc) Adaptar os métodos de análise dos parâmetros definidos no anexo I ao progresso científico e técnico;\n\nd) Adaptar o anexo V ao progresso científico e técnico;\n\ne) Estabelecer orientações para um método comum de avaliação de amostras únicas.\n\n2. A Comissão apresentará até Março de 2010, um projecto das medidas a tomar, nos termos da alínea b) do n.º 1 do presente artigo, no que diz respeito à alínea a) do n.º 1 do artigo 12.º Para o efeito, consultará previamente representantes dos Estados‐Membros, das autoridades regionais e locais, das organizações turísticas e de consumidores relevantes e de outras partes interessadas. Após a sua aprovação, a Comissão divulgará através da internet a regulamentação aplicável."
+  },
+  "c44df13bd7009d2a": {
+   "fragment_id": "Artigo 16.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimento de comité\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo‐se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "6cfbec8f466d85e1": {
+   "fragment_id": "Artigo 17.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação\n\n1. A Directiva 76/160/CEE é revogada com efeitos a partir de 31 de Dezembro de 2014. Sem prejuízo do disposto no n.º 2, esta revogação em nada prejudica as obrigações dos Estados‐Membros quanto aos prazos de transposição para o direito nacional e de execução fixados na directiva revogada.\n\n2. Logo que os Estados‐Membros tomem as medidas legais, administrativas e de ordem prática necessárias para dar cumprimento à presente directiva, esta passará a ser aplicada, substituindo a Directiva 76/160/CEE.\n\n3. As remissões para a directiva revogada devem entender‐se como remissões para a presente directiva."
+  },
+  "5bf2ae7b4b739cfd": {
+   "fragment_id": "Artigo 18.º — Aplicação",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Aplicação\n\n1. Os Estados‐Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até Março de 2008 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados‐Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados‐Membros.\n\n2. Os Estados‐Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "476deb2ce404435b": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nA presente directiva entra em vigor 20 dias após a sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "10ae2db91fcd2236": {
+   "fragment_id": "Artigo 20.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Destinatários\n\nOs Estados‐Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 15 de Fevereiro de 2006.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**J. BORRELL FONTELLES**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**H. WINKLER**\n\n---"
+  },
+  "ad813894b61bb88a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc1-L_2006064PT.01003701-E0001) [JO C 45 E de 25.2.2003, p. 127](http://publications.europa.eu/resource/oj/JOC_2003_045_E_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc2-L_2006064PT.01003701-E0002) [JO C 220 de 16.9.2003, p. 39](http://publications.europa.eu/resource/oj/JOC_2003_220_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc3-L_2006064PT.01003701-E0003) [JO C 244 de 10.10.2003, p. 31](http://publications.europa.eu/resource/oj/JOC_2003_244_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc4-L_2006064PT.01003701-E0004) Parecer do Parlamento Europeu de 21 de Outubro de 2003 ([JO C 82 E de 1.4.2004, p. 115](http://publications.europa.eu/resource/oj/JOC_2004_082_E_TOC)), Posição Comum do Conselho de 20 de Dezembro de 2004 ([JO C 111 E de 11.5.2005, p. 1](http://publications.europa.eu/resource/oj/JOC_2005_111_E_TOC)) e Posição do Parlamento Europeu de 10 de Maio de 2005 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 18 de Janeiro de 2006 (ainda não publicada no Jornal Oficial) e Decisão do Conselho de 20 de Dezembro de 2005.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc5-L_2006064PT.01003701-E0005) [JO L 242 de 10.9.2002, p. 1](http://publications.europa.eu/resource/oj/JOL_2002_242_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc6-L_2006064PT.01003701-E0006) [JO L 31 de 5.2.1976, p. 1](http://publications.europa.eu/resource/oj/JOL_1976_031_R_TOC). Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 807/2003 ([JO L 122 de 16.5.2003, p. 36](http://publications.europa.eu/resource/oj/JOL_2003_122_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc7-L_2006064PT.01003701-E0007) [JO L 135 de 30.5.1991, p. 40](http://publications.europa.eu/resource/oj/JOL_1991_135_R_TOC). Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc8-L_2006064PT.01003701-E0008) [JO L 375 de 31.12.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_375_R_TOC). Directiva alterada pelo Regulamento (CE) n.º 1882/2003.\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc9-L_2006064PT.01003701-E0009) [JO L 327 de 22.12.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_327_R_TOC). Directiva alterada pela Decisão n.º 2455/2001/CE ([JO L 331 de 15.12.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_331_R_TOC)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc10-L_2006064PT.01003701-E0010) [JO L 41 de 14.2.2003, p. 26](http://publications.europa.eu/resource/oj/JOL_2003_041_R_TOC).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc11-L_2006064PT.01003701-E0011) [JO L 156 de 25.6.2003, p. 17](http://publications.europa.eu/resource/oj/JOL_2003_156_R_TOC).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc12-L_2006064PT.01003701-E0012) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (rectificação no [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/e4fa9f93-6d2f-4ecf-9491-64423fc26fa6.0017.03/DOC_1#ntc13-L_2006064PT.01003701-E0013) [JO L 175 de 5.7.1985, p. 40](http://publications.europa.eu/resource/oj/JOL_1985_175_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2003/35/CE do Parlamento Europeu e do Conselho ([JO L 156 de 25.6.2003, p. 17](http://publications.europa.eu/resource/oj/JOL_2003_156_R_TOC))."
+  },
+  "617e80bbccdf5d6b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2006\n\nrelativa à gestão da qualidade das águas balneares e que revoga a Directiva 76/160/CEE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0004)), tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 8 de Dezembro de 2005,\n\n(1) Com base na Comunicação da Comissão sobre o desenvolvimento sustentável, o Conselho Europeu seleccionou objectivos destinados a constituir uma orientação geral para o futuro desenvolvimento em domínios prioritários como os recursos naturais e a saúde pública.\n\n(2) A água é um recurso natural escasso cuja qualidade deve ser protegida, defendida, gerida e tratada em conformidade. As águas de superfície, em especial, são fontes renováveis com uma capacidade limitada de recuperação dos impactos adversos decorrentes das actividades humanas.\n\n(3) A política da Comunidade no domínio do ambiente deverá ter como objectivo um elevado nível de protecção e contribuir para a prossecução dos objectivos de preservação, protecção e melhoria da qualidade do ambiente e de protecção da saúde humana.\n\n(4) Em Dezembro de 2000, a Comissão aprovou uma Comunicação ao Parlamento Europeu e ao Conselho sobre o desenvolvimento de uma nova política de águas balneares e iniciou uma consulta em grande escala de todas as partes interessadas e envolvidas. O principal resultado desta consulta foi um apoio geral à elaboração de uma nova directiva baseada nos últimos dados científicos e dando especial importância a uma participação mais vasta do público.\n\n(5) A Decisão n.º 1600/2002/CE do Parlamento Europeu e do Conselho, de 22 de Julho de 2002, que estabelece o sexto programa comunitário de acção em matéria de ambiente ([^5^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0005)), inclui o compromisso de garantir um elevado nível de protecção das águas balneares, inclusivamente através da revisão da Directiva 76/160/CEE, do Conselho, de 8 de Dezembro de 1975, relativa à qualidade das águas balneares ([^6^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0006)).\n\n(6) Nos termos do Tratado, na elaboração da sua política no domínio do ambiente, a Comunidade deverá ter em conta, nomeadamente, os dados científicos e técnicos disponíveis. A presente directiva deverá recorrer a dados científicos para a aplicação dos parâmetros dos indicadores mais fiáveis com vista a permitir a previsão do risco microbiológico para a saúde e a atingir um nível de protecção elevado, devendo ser efectuados com urgência estudos epidemiológicos mais aprofundados no que respeita aos riscos para a saúde associados à prática balnear, particularmente em águas doces.\n\n(7) Tendo em vista melhorar a eficiência e uma utilização adequada dos recursos, a presente directiva deverá ser estreitamente coordenada com outra legislação comunitária em matéria de água, como a Directiva 91/271/CEE do Conselho, de 21 de Maio de 1991, relativa ao tratamento de águas residuais urbanas ([^7^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0007)), a Directiva 91/676/CEE do Conselho, de 12 de Dezembro de 1991, relativa à protecção das águas contra a poluição causada por nitratos de origem agrícola ([^8^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0008)), e a Directiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2000, que estabelece um quadro de acção comunitária no domínio da política da água ([^9^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0009)).\n\n(8) Deverá ser divulgada aos interessados informação adequada sobre as medidas programadas e sobre os progressos verificados na sua execução. O público deverá ser informado apropriada e oportunamente dos resultados da monitorização da qualidade das águas balneares e das medidas de gestão dos riscos, a fim de prevenir riscos para a saúde, especialmente no contexto de episódios previsíveis de poluição de curta duração ou de situações anormais. Deverão ser aplicadas novas tecnologias que permitam a informação do público, de uma forma eficiente e comparável, sobre a qualidade das águas balneares em toda a Comunidade.\n\n(9) Para fins de monitorização, é necessário aplicar métodos e práticas de análise harmonizados. A observação e a avaliação da qualidade durante um período prolongado de tempo são necessárias para permitir uma classificação realista das águas balneares.\n\n(10) A conformidade deverá ser uma questão de medidas de gestão adequadas e de garantia da qualidade e não se resumir apenas a medições e cálculos. Um sistema de perfis das águas balneares é, pois, adequado para fornecer uma melhor compreensão dos riscos de forma a constituir uma base para as medidas de gestão. Em paralelo, deverá ser prestada uma atenção especial à conformidade com as normas de qualidade e à transição coerente a partir da Directiva 76/160/CEE.\n\n(11) Em 17 de Fevereiro de 2005, a Comunidade ratificou a Convenção da UNECE sobre o Acesso à Informação, a Participação do Público no Processo de Tomada de Decisões e o Acesso à Justiça em matéria de Ambiente (Convenção de Aarhus). Assim sendo, justifica‐se que a presente directiva inclua disposições sobre o acesso do público à informação e preveja a participação do público na sua implementação, complementando a Directiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2003, relativa ao acesso do público às informações sobre o ambiente ([^10^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0010)), e a Directiva 2003/35/CE do Parlamento Europeu e do Conselho, de 26 de Maio de 2003, que estabelece a participação do público na elaboração de certos planos e programas relativos ao ambiente ([^11^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0011)).\n\n(12) Atendendo a que os objectivos da presente directiva, a saber, a obtenção pelos Estados‐Membros, com base em normas comuns, de uma boa qualidade das águas balneares e de um elevado nível de protecção em toda a Comunidade, não podem ser suficientemente realizados pelos Estados‐Membros e podem ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(13) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^12^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0012)).\n\n(14) A política comunitária relativa às águas balneares revela‐se de uma importância evidente em cada época balnear, dado proteger o público da poluição que surja de maneira acidental ou crónica, nas zonas balneares na Comunidade ou na sua periferia. A qualidade global das águas balneares melhorou consideravelmente desde a entrada em vigor da Directiva 76/160/CEE. A referida directiva reflecte, no entanto, o estado dos conhecimentos e a experiência existente no início da década de 70. Entretanto, os padrões de utilização das águas balneares mudaram e os conhecimentos científicos e técnicos evoluíram. Aquela directiva deve, pois, ser revogada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "b712544e25212be2": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nObjectivo e âmbito de aplicação\n\n1. A presente directiva estabelece disposições aplicáveis:\n\na) À monitorização e classificação da qualidade das águas balneares;\n\nb) À gestão da qualidade das águas balneares; e\n\nc) À prestação de informações ao público sobre as águas balneares.\n\n2. O objectivo da presente directiva consiste na preservação, protecção e melhoria da qualidade do ambiente e na protecção da saúde humana, em complemento da Directiva 2000/60/CE.\n\n3. A presente directiva aplica‐se a qualquer elemento das águas de superfície onde a autoridade competente preveja que um grande número de pessoas se irá banhar e onde a prática balnear não tenha sido proibida ou desaconselhada de modo permanente (a seguir designado por «águas balneares»). Não é aplicável:\n\na) Às águas utilizadas em piscinas e às águas termais;\n\nb) Às águas confinadas sujeitas a tratamento ou utilizadas para fins terapêuticos;\n\nc) Às massas de água confinadas criadas artificialmente e separadas das águas de superfície e das águas subterrâneas."
+  },
+  "3e0c073204ae08f6": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nDefinições\n\nPara os efeitos da presente directiva, são aplicáveis as seguintes definições:\n\n1. Os termos «águas de superfície», «águas subterrâneas», «águas interiores», «águas de transição», «águas costeiras» e «bacia hidrográfica» têm a mesma acepção que na Directiva 2000/60/CE.\n\n2. «Autoridade competente» significa a autoridade ou autoridades designada(s) por um Estado‐Membro para assegurar o cumprimento das obrigações previstas na presente directiva ou qualquer outra autoridade ou organismo em que tal competência seja delegada.\n\n3. «Permanente» significa, quando relativo a uma proibição ou a um desaconselhamento dos banhos, pelo menos uma época balnear completa.\n\n4. «Grande número» significa, relativamente a banhistas, um número que a autoridade competente considere ser grande com base nomeadamente em tendências passadas ou na presença de quaisquer infra‐estruturas ou instalações disponíveis, ou em outras medidas tomadas para promover os banhos.\n\n5. «Poluição» significa a presença de contaminação microbiológica ou outros organismos ou resíduos que afectem a qualidade das águas balneares e constituam um risco para a saúde dos banhistas, tal como referido nos artigos 8.º e 9.º e na coluna A do anexo I.\n\n6. «Época balnear» significa o período em que se prevê uma grande afluência de banhistas.\n\n7. «Medidas de gestão» significa as medidas a seguir indicadas relativamente às águas balneares:\n\na) Estabelecimento e manutenção de um perfil das águas balneares;\n\nb) Estabelecimento de um calendário de amostragem;\n\nc) Monitorização das águas balneares;\n\nd) Avaliação da qualidade das águas balneares;\n\ne) Classificação das águas balneares;\n\nf) Detecção e avaliação das causas de poluição que possam afectar as águas balneares e prejudicar a saúde dos banhistas;\n\ng) Fornecimento de informação ao público;\n\nh) Desenvolvimento de acções para prevenir a exposição dos banhistas à poluição;\n\ni) Desenvolvimento de acções para reduzir o risco de poluição.\n\n8. «Poluição de curta duração» significa a contaminação microbiológica indicada na coluna A do anexo I, com causas claramente identificáveis, que se preveja que, em princípio, não afectará a qualidade das águas balneares por mais de cerca de 72 horas a contar do momento em que a qualidade dessas águas começou a ser afectada e para a qual a autoridade competente tenha estabelecido procedimentos de previsão e minimização dos seus efeitos, tal como previsto no anexo II.\n\n9. «Situação anormal» significa um acontecimento ou uma combinação de acontecimentos com repercussões na qualidade das águas balneares no local em questão, o qual não se prevê que ocorra, em média, mais do que uma vez de quatro em quatro anos.\n\n10. «Conjunto de dados sobre a qualidade das águas balneares» significa os dados obtidos em conformidade com o artigo 3.º\n\n11. «Avaliação da qualidade das águas balneares» significa o processo de avaliação da qualidade das águas balneares, utilizando o método de avaliação definido no anexo II.\n\n12. «Proliferação de cianobactérias» significa um crescimento de cianobactérias sob a forma de florescência, tapete ou espuma.\n\n13. O termo «público interessado» tem a mesma acepção que na Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente ([^13^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0013))."
+  },
+  "184ca55a086d0050": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nControlo\n\n1. Os Estados-Membros devem anualmente identificar todas as águas balneares e definir a duração da época balnear. Devem fazê-lo pela primeira vez antes do início da primeira época balnear, após Março de 2008.\n\n2. Os Estados-Membros garantem que os parâmetros definidos na coluna A do anexo I sejam monitorizados em conformidade com o anexo IV.\n\n3. O ponto de amostragem é o local das águas balneares onde:\n\na) Se preveja maior afluência de banhistas; ou\n\nb) Exista maior risco de poluição, de acordo com o perfil das águas balneares.\n\n4. Antes do início de cada época balnear é estabelecido para cada zona balnear um calendário de amostragem, pela primeira vez antes do início da terceira época balnear completa após a entrada em vigor da presente directiva. A monitorização deve ser efectuada no prazo máximo de quatro dias a contar da data indicada no calendário de amostragem.\n\n5. Os Estados-Membros podem iniciar a monitorização dos parâmetros definidos na coluna A do anexo I na primeira época balnear completa após a entrada em vigor da presente directiva. Neste caso, a monitorização deve ser efectuada com a frequência especificada no anexo IV. Os resultados dessa monitorização podem ser utilizados na constituição dos conjuntos de dados sobre a qualidade das águas balneares referidos no artigo 4.º Uma vez iniciada a monitorização ao abrigo da presente directiva, pode cessar a vigilância dos parâmetros estabelecidos no anexo da Directiva 76/160/CEE.\n\n6. As amostras recolhidas durante poluição de curta duração podem não ser consideradas. Essas amostras devem ser substituídas por amostras recolhidas em conformidade com o anexo IV.\n\n7. Em situações anormais, pode ser suspenso o calendário de amostragem referido no n.º 4. O calendário de amostragem deve ser retomado logo que possível após o termo da situação anormal. Nessa altura devem também ser recolhidas novas amostras para substituir as amostras que faltam devido à situação anormal.\n\n8. Os Estados-Membros comunicam à Comissão qualquer suspensão do calendário de amostragem, indicando as razões de tal suspensão. Os Estados-Membros devem apresentar essa informação, o mais tardar, por ocasião do relatório anual seguinte previsto no artigo 13.º\n\n9. Os Estados‐Membros garantem que a análise da qualidade das águas balneares seja efectuada de acordo com os métodos de referência especificados no anexo I e com as regras fixadas no anexo V. No entanto, os Estados-Membros podem permitir a utilização de outros métodos ou regras se puderem demonstrar que os seus resultados são equivalentes aos obtidos utilizando os métodos especificados no anexo I e as regras fixadas no anexo V. Os Estados-Membros que permitam a utilização de tais métodos ou regras equivalentes facultarão à Comissão todas as informações relevantes sobre os métodos ou regras utilizados e a respectiva equivalência."
+  },
+  "46045faa5cc2de5a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAvaliação da qualidade das águas balneares\n\n1. Os Estados-Membros garantem a recolha de conjuntos de dados sobre a qualidade das águas balneares com base nos parâmetros fixados na coluna A do anexo I.\n\n2. As avaliações da qualidade das águas balneares são efectuadas:\n\na) Em relação a todas as águas balneares;\n\nb) Após o fim de cada época balnear;\n\nc) Com base no conjunto de dados sobre a qualidade das águas balneares recolhidos durante essa época balnear e as três épocas balneares anteriores; e\n\nd) Nos termos do anexo II.\n\nNo entanto, um Estado-Membro pode decidir efectuar avaliações da qualidade das águas balneares com base no conjunto de dados sobre a qualidade das águas balneares que apenas digam respeito às três últimas épocas balneares. Se assim o decidir, notificará previamente a Comissão. Notificará também a Comissão se posteriormente decidir voltar a efectuar avaliações com base em quatro épocas balneares. Os Estados-Membros não podem alterar o período de avaliação aplicável mais do que uma vez de cinco em cinco anos.\n\n3. Os conjuntos de dados utilizados nas avaliações da qualidade das águas balneares devem consistir sempre em, pelo menos, 16 amostras ou, nas circunstâncias especiais referidas no ponto 2 do anexo IV, em 12 amostras.\n\n4. No entanto, desde que:\n\n— a obrigação estabelecida no n.º 3 seja respeitada, ou\n\n— o conjunto de dados sobre águas balneares utilizados na avaliação contenha, pelo menos, 8 amostras, no caso de águas balneares com épocas balneares que não ultrapassem as 8 semanas,\n\npode ser efectuada uma avaliação da qualidade das águas balneares com base num conjunto de dados sobre a qualidade das águas balneares relativo a menos de quatro épocas balneares, se:\n\na) As águas balneares tiverem sido identificadas pela primeira vez;\n\nb) Se tiverem registado alterações que possam afectar a classificação das águas balneares em conformidade com o artigo 5.º, caso em que a avaliação deve realizar‐se com base num conjunto de dados sobre a qualidade das águas balneares constituído unicamente pelos resultados obtidos em relação às amostras recolhidas após a ocorrência das alterações; ou\n\nc) As águas balneares tiverem já sido avaliadas em conformidade com a Directiva 76/160/CEE, podendo então utilizar‐se dados equivalentes recolhidos em conformidade com essa directiva; para esse efeito, os parâmetros 2 e 3 do anexo da Directiva 76/160/CEE serão considerados equivalentes aos parâmetros 2 e 1 da coluna A do anexo I da presente directiva.\n\n5. Os Estados-Membros podem dividir ou agrupar as águas balneares existentes à luz das avaliações da qualidade das águas balneares. Só podem agrupar águas balneares existentes desde que:\n\na) Estas sejam contíguas;\n\nb) Tenham sido objecto de avaliações semelhantes durante os quatro anos anteriores em conformidade com os n.º s 2 e 3 e a alínea c) do n.º 4; e\n\nc) Os respectivos perfis indiquem, na sua totalidade, factores de risco comuns ou a ausência de factores de risco."
+  },
+  "91afa4fc3c306f99": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nClassificação da qualidade das águas balneares\n\n1. Em função da avaliação da qualidade das águas balneares efectuada em conformidade com o artigo 4.º, os Estados-Membros procedem, em conformidade com os critérios definidos no anexo II, à classificação das águas balneares como:\n\na) «Medíocres»;\n\nb) «Suficientes/aceitáveis»;\n\nc) «Boas»; ou\n\nd) «Excelentes».\n\n2. A primeira classificação em função dos requisitos estabelecidos na presente directiva deve estar concluída até ao final da época balnear de 2015.\n\n3. Os Estados-Membros garantem que, até ao final da época balnear de 2015, todas as águas balneares sejam, no mínimo, «suficientes». Devem tomar medidas realistas e proporcionadas que considerem adequadas para aumentar o número de águas balneares classificadas como «excelentes» ou «boas».\n\n4. Contudo, não obstante a obrigação geral estabelecida no n.º 3, as águas balneares podem ser classificadas temporariamente como «medíocres» e continuar a ser conformes com a presente directiva. Nesses casos, os Estados-Membros garantem o cumprimento das seguintes condições:\n\na) Relativamente às águas balneares classificadas como «medíocres», devem ser tomadas as seguintes medidas, com efeito a partir da época balnear que se segue à classificação:\n\ni) medidas de gestão adequadas, incluindo a proibição da prática balnear ou o seu desaconselhamento, para evitar a exposição dos banhistas à poluição,\n\nii) identificação das causas e razões da impossibilidade de obtenção da classificação de qualidade «suficientes»,\n\niii) medidas adequadas para prevenir, reduzir ou eliminar as causas da poluição, e\n\niv) nos termos do artigo 12.º, prevenção do público por meio de um sinal de aviso claro e simples e sua informação das causas da poluição e das medidas tomadas com base no perfil das águas balneares;\n\nb) Se determinadas águas balneares forem classificadas como «medíocres» durante cinco anos consecutivos, deve estabelecer‐se uma proibição ou um desaconselhamento permanentes da prática balnear. Todavia, um Estado‐Membro pode introduzir uma proibição ou um desaconselhamento permanentes da prática balnear antes do final do período de cinco anos se considerar que a obtenção de uma qualidade «suficiente» não é viável ou implica despesas desproporcionadas."
+  },
+  "74edb4ca64bd8973": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nPerfis das águas balneares\n\n1. Os Estados-Membros garantem o estabelecimento de perfis das águas balneares em conformidade com o anexo III. Cada perfil das águas balneares pode abranger uma ou mais águas balneares contíguas. Os perfis das águas balneares serão estabelecidos pela primeira vez em Março de 2011.\n\n2. Os perfis das águas balneares são revistos e actualizados nos termos do anexo III.\n\n3. Para elaborar, rever e actualizar os perfis das águas balneares serão devidamente utilizados os dados obtidos através da monitorização e das avaliações realizadas por força da Directiva 2000/60/CE relevantes para efeitos da presente directiva."
+  },
+  "3194314183bc39fc": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nMedidas de gestão em circunstâncias excepcionais\n\nOs Estados-Membros garantem que sejam oportunamente tomadas medidas de gestão adequadas sempre que tenham conhecimento de situações inesperadas que tenham, ou que razoavelmente se preveja que venham a ter, um impacto negativo na qualidade das águas balneares ou na saúde dos banhistas. Tais medidas incluem a informação do público e, se necessário, a proibição temporária da prática balnear."
+  },
+  "9bfdf5bc85a33828": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nRiscos provenientes de cianobactérias\n\n1. Quando o perfil das águas balneares revelar um risco potencial de proliferação de cianobactérias, deve ser realizada uma monitorização apropriada para permitir a identificação atempada de riscos sanitários.\n\n2. Quando se verificar a proliferação de cianobactérias e for identificado ou previsto um risco sanitário, tomar‐se‐ão de imediato as medidas de gestão adequadas para evitar a exposição, incluindo a informação do público."
+  },
+  "a3a323fa20d2dfca": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOutros parâmetros\n\n1. Quando o perfil das águas balneares revelar uma tendência para a proliferação de macroalgas e/ou fitoplâncton marinho, será averiguado se a sua presença é aceitável e serão identificados os riscos sanitários que a sua presença representa; tomar-se-ão medidas de gestão adequadas, incluindo a informação do público.\n\n2. As águas balneares serão inspeccionadas visualmente para detectar poluição por resíduos de alcatrão, vidro, plástico, borracha e outros resíduos. Se tal poluição for detectada, tomar‐se‐ão medidas de gestão adequadas, incluindo, se necessário, a informação do público."
+  },
+  "883727c6850dba22": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nCooperação em relação às águas transfronteiriças\n\nSempre que uma bacia hidrográfica possa ter impactos transfronteiriços na qualidade das águas balneares, os Estados‐Membros interessados cooperam, conforme adequado, na aplicação da presente directiva, incluindo através do intercâmbio apropriado de informações e de acções conjuntas para controlar esses impactos."
+  },
+  "c589595334240e84": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nParticipação do público\n\nOs Estados‐Membros incentivarão a participação do público na aplicação da presente directiva e garantirão ao público interessado a oportunidade de:\n\n— obter informações sobre as modalidades de participação, e\n\n— apresentar sugestões, comentários ou queixas.\n\nEstas oportunidades serão garantidas, nomeadamente em matéria de identificação, revisão e actualização das listas das águas balneares nos termos do n.º 1 do artigo 3.º As autoridades competentes tomarão na devida conta quaisquer informações obtidas deste modo."
+  },
+  "38cae331557bc4fb": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nInformação do público\n\n1. Os Estados‐Membros garantem que as seguintes informações sejam activamente divulgadas e prontamente disponibilizadas, durante a época balnear, num local de fácil acesso nas proximidades imediatas de cada zona balnear:\n\na) Classificação actual das águas balneares e qualquer proibição ou desaconselhamento da prática balnear referidos no presente artigo através de um sinal ou símbolo simples e claro;\n\nb) Descrição geral das águas balneares, em linguagem não técnica, baseada no perfil das águas balneares estabelecido em conformidade com o anexo III;\n\nc) No caso de águas balneares sujeitas a poluição de curta duração:\n\n— notificação de que as águas balneares estão sujeitas a episódios de poluição de curta duração,\n\n— indicação do número de dias em que a prática balnear esteve proibida ou foi desaconselhada durante a época balnear anterior devido a essa poluição, e\n\n— um aviso sempre que se prevejam ou se verifiquem episódios dessa poluição;\n\nd) Informações sobre a natureza e a duração previsível das situações anormais durante a ocorrência desses episódios;\n\ne) Sempre que a prática balnear seja proibida ou desaconselhada, um aviso ao público indicando os respectivos motivos;\n\nf) Sempre que se estabeleça uma proibição ou um desaconselhamento permanentes da prática balnear, o facto de que a zona em questão deixou de ser uma água balnear, apresentando‐se os motivos dessa desclassificação; e\n\ng) Indicação de fontes para uma informação mais completa, em conformidade com o n.º 2.\n\n2. Os Estados‐Membros utilizam tecnologias e meios adequados, incluindo a internet, para divulgar activamente e sem demora as informações relativas às águas balneares referidas no n.º 1 e também as seguintes informações, se necessário em várias línguas:\n\na) Uma lista das águas balneares;\n\nb) A classificação das águas balneares durante os últimos três anos e os respectivos perfis, incluindo os resultados da monitorização realizada em conformidade com a presente directiva desde a última classificação;\n\nc) No caso de águas balneares classificadas como «medíocres», informações sobre as causas de poluição e as medidas tomadas com vista a prevenir a exposição dos banhistas à poluição e a tratar as suas causas, tal como referido no n.º 4 do artigo 5.º; e\n\nd) No caso de águas balneares sujeitas a poluição de curta duração, informações gerais sobre:\n\n— as condições que possam provocar episódios de poluição de curta duração,\n\n— a probabilidade de tais episódios e respectiva duração provável,\n\n— as causas de poluição e as medidas tomadas com vista a prevenir a exposição dos banhistas à poluição e a tratar as suas causas.\n\nA lista referida na alínea a) é facultada anualmente, antes do início da época balnear. Os resultados da monitorização referida na alínea b) são disponibilizados na internet após a conclusão da análise.\n\n3. As informações referidas nos n.ºs 1 e 2 são divulgadas assim que estejam disponíveis e com efeitos a partir do início da quinta época balnear após Março de 2008.\n\n4. Sempre que possível, os Estados‐Membros e a Comissão prestam informações ao público utilizando tecnologia de georreferenciação e apresentam‐nas de forma clara e coerente, nomeadamente através da utilização de sinais e símbolos."
+  },
+  "15851a72afda943b": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nRelatórios\n\n1. Os Estados‐Membros fornecem à Comissão os resultados da monitorização e a avaliação da qualidade de todas as águas balneares, bem como uma descrição das principais medidas de gestão tomadas. Os Estados‐Membros fornecem estas informações todos os anos até 31 de Dezembro, relativamente à época balnear anterior. Devem começar a fornecê‐las logo que tenha sido efectuada a primeira avaliação da qualidade das águas balneares, em conformidade com o artigo 4.º\n\n2. Os Estados‐Membros devem notificar todos os anos a Comissão, antes do início da época balnear, de todas as águas identificadas como águas balneares, indicando a razão de eventuais alterações em relação ao ano anterior. Devem fazê‐lo pela primeira vez antes do início da primeira época balnear após Março de 2008.\n\n3. Uma vez iniciada a monitorização das águas balneares ao abrigo da presente directiva, o relatório anual a enviar à Comissão nos termos do n.º 1 continuará a ser elaborado em conformidade com a Directiva 76/160/CEE até que seja possível efectuar a primeira avaliação ao abrigo da presente directiva. Durante esse período, o parâmetro 1 do anexo da Directiva 76/160/CEE não será tido em consideração no relatório anual e os parâmetros 2 e 3 do anexo da Directiva 76/160/CEE presumem‐se equivalentes aos parâmetros 2 e 1 da coluna A do anexo I da presente directiva.\n\n4. A Comissão publicará um relatório anual de síntese sobre a qualidade das águas balneares na Comunidade, incluindo a classificação das águas balneares, a conformidade com a presente directiva e as principais medidas de gestão tomadas. A Comissão publicará o referido relatório até 30 de Abril de cada ano, inclusive através da internet. Na elaboração do relatório, a Comissão utilizará da melhor forma, sempre que possível, os sistemas de recolha, avaliação e apresentação de dados previstos na legislação comunitária conexa, em especial na Directiva 2000/60/CE."
+  },
+  "dfb10b522b099793": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nRelatório e revisão\n\n1. A Comissão deve apresentar um relatório ao Parlamento Europeu e ao Conselho até 2008. O relatório deve dar especial atenção aos seguintes elementos:\n\na) Resultados de um estudo epidemiológico adequado ao nível europeu, efectuado pela Comissão em colaboração com os Estados‐Membros;\n\nb) Outros progressos científicos, analíticos e epidemiológicos pertinentes para os parâmetros relativos à qualidade das águas balneares, incluindo no que se refere aos vírus; e\n\nc) Recomendações da Organização Mundial de Saúde.\n\n2. Os Estados‐Membros apresentarão à Comissão, por escrito, até final de 2014, observações sobre o referido relatório e sobre quaisquer investigações ou avaliações suplementares que possam revelar‐se necessárias para assistir a Comissão na revisão da presente directiva prevista no n.º 3.\n\n3. À luz do relatório, das observações escritas dos Estados‐Membros, de uma avaliação de impacto exaustiva e tendo presente a experiência adquirida com a aplicação da presente directiva, a Comissão procederá, até 2020, à sua revisão, prestando particular atenção aos parâmetros relativos à qualidade das águas balneares e à oportunidade de suprimir progressivamente a classificação «suficientes» ou modificar as normas aplicáveis e, se necessário, apresentará as propostas legislativas adequadas ao abrigo do artigo 251.º do Tratado."
+  },
+  "06316f1d0bc90bf9": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAdaptações técnicas e medidas de execução\n\n1. Será decidido, nos termos do n.º 2 do artigo 16.º:\n\na) Especificar a norma EN/ISO sobre a equivalência de métodos microbiológicos para efeitos do n.º 9 do artigo 3.º;\n\nb) Estabelecer regras pormenorizadas para a aplicação do artigo 8.º, n.º 1, e do artigo 12.º, n.ºs 1, alínea a), e 4;\n\nc) Adaptar os métodos de análise dos parâmetros definidos no anexo I ao progresso científico e técnico;\n\nd) Adaptar o anexo V ao progresso científico e técnico;\n\ne) Estabelecer orientações para um método comum de avaliação de amostras únicas.\n\n[**►C1**](http://publications.europa.eu/resource/celex/32006L0007R%2801%29) 2. A Comissão apresentará até 24 de Março de 2010,**◄** um projecto das medidas a tomar, nos termos da alínea b) do n.º 1 do presente artigo, no que diz respeito à alínea a) do n.º 1 do artigo 12.º Para o efeito, consultará previamente representantes dos Estados‐Membros, das autoridades regionais e locais, das organizações turísticas e de consumidores relevantes e de outras partes interessadas. Após a sua aprovação, a Comissão divulgará através da internet a regulamentação aplicável."
+  },
+  "3f6877742af0676b": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nProcedimento de comité\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo‐se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. O Comité aprovará o seu regulamento interno."
+  },
+  "a35e8d1d61b382c8": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nRevogação\n\n1. A Directiva 76/160/CEE é revogada com efeitos a partir de 31 de Dezembro de 2014. Sem prejuízo do disposto no n.º 2, esta revogação em nada prejudica as obrigações dos Estados‐Membros quanto aos prazos de transposição para o direito nacional e de execução fixados na directiva revogada.\n\n2. Logo que os Estados‐Membros tomem as medidas legais, administrativas e de ordem prática necessárias para dar cumprimento à presente directiva, esta passará a ser aplicada, substituindo a Directiva 76/160/CEE.\n\n3. As remissões para a directiva revogada devem entender‐se como remissões para a presente directiva."
+  },
+  "d22246e166a37449": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAplicação\n\n1. Os Estados‐Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até Março de 2008 e informar imediatamente a Comissão desse facto.\n\nQuando os Estados‐Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados‐Membros.\n\n2. Os Estados‐Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "33b4a56e71076c7d": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nEntrada em vigor\n\nA presente directiva entra em vigor 20 dias após a sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "bb376592a7c59ec8": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nDestinatários\n\nOs Estados‐Membros são os destinatários da presente directiva."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "16036093cf10c7ae": {
+   "fragment_id": "Águas interiores",
+   "type": "divisao",
+   "heading": "Águas interiores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Águas interiores\n\n|  | A | B | C | D | E |\n| --- | --- | --- | --- | --- | --- |\n|  | Parâmetro | Qualidade excelente | Qualidade boa | Qualidade suficiente | Métodos de análise de referência |\n| 1 | Enterococos intestinais em ufc/100 ml | 200 [(^1^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0014) | 400 [(^1^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0014) | 330 [(^2^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0015) | ISO 7899‐1 ou ISO 7899‐2 |\n| 2 | *Escherichia coli* em ufc/100 ml | 500 [(^1^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0014) | 1 000 [(^1^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0014) | 900 [(^2^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0015) | ISO 9308‐3 ou ISO 9308‐1 |\n| (^1^)Com base numa avaliação de percentil 95. Ver anexo II. (^2^)Com base numa avaliação de percentil 90. Ver anexo II. |  |  |  |  |  |"
+  },
+  "9b0c18160ff55539": {
+   "fragment_id": "Águas costeiras e de transição",
+   "type": "divisao",
+   "heading": "Águas costeiras e de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Águas costeiras e de transição\n\n|  | A | B | C | D | E |\n| --- | --- | --- | --- | --- | --- |\n|  | Parâmetro | Qualidade excelente | Qualidade boa | Qualidade suficiente | Métodos de análise de referência |\n| 1 | Enterococos intestinais em ufc/100 ml | 100 [(^1^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0016) | 200 [(^1^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0016) | 185 [(^2^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0017) | ISO 7899‐1 ou ISO 7899‐2 |\n| 2 | *Escherichia coli* em ufc/100 ml | 250 [(^1^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0016) | 500 [(^1^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0016) | 500 [(^2^)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0017) | ISO 9308‐3 ou ISO 9308‐1 |\n| (^1^)Com base numa avaliação de percentil 95. Ver anexo II. (^2^)Com base numa avaliação de percentil 90. Ver anexo II. |  |  |  |  |  |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "2070ee57fff0578b": {
+   "fragment_id": "Avaliação e classificação das águas balneares",
+   "type": "divisao",
+   "heading": "Avaliação e classificação das águas balneares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Avaliação e classificação das águas balneares"
+  },
+  "d34c3181182be014": {
+   "fragment_id": "1. Qualidade medíocre",
+   "type": "divisao",
+   "heading": "1. Qualidade medíocre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Qualidade medíocre\n\nAs águas balneares são classificadas como «medíocres» se, no conjunto de dados recolhidos sobre a qualidade das águas balneares para o último período de avaliação ([^14^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0018)), os valores de percentil ([^15^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0019)) para as contagens microbiológicas forem inferiores ([^16^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0020)) ao valor de «qualidade suficiente» indicado na coluna D do anexo I."
+  },
+  "ff509fe733e3d536": {
+   "fragment_id": "2. Qualidade suficiente",
+   "type": "divisao",
+   "heading": "2. Qualidade suficiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Qualidade suficiente\n\nAs águas balneares são classificadas como «suficientes» se:\n\n1) No conjunto dos dados recolhidos sobre a qualidade das águas balneares para o último período de avaliação, os valores de percentil para as contagens microbiológicas forem iguais ou superiores ([^17^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0021)) aos valores de «qualidade suficiente» dos parâmetros indicados na coluna D do anexo I; e\n\n2) A água balnear apresentar uma poluição de curta duração, desde que:\n\ni) estejam a ser tomadas medidas de gestão adequadas, incluindo a vigilância, os sistemas de alerta precoce e a monitorização, para evitar a exposição dos banhistas através de uma advertência e, se necessário, de uma proibição da prática balnear,\n\nii) estejam a ser tomadas medidas de gestão adequadas para prevenir, reduzir ou eliminar as causas da poluição, e\n\niii) o número de amostras não consideradas, de acordo com o n.º 6 do artigo 3.º, devido a poluição de curta duração durante o último período de avaliação não represente mais de 15 % do número total de amostras previstas nos calendários de amostragem fixados para esse período, ou mais do que uma amostra por estação balnear, sendo o nível a considerar o mais elevado."
+  },
+  "1eecc9fd80ac1564": {
+   "fragment_id": "3. Boa qualidade",
+   "type": "divisao",
+   "heading": "3. Boa qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Boa qualidade\n\nAs águas balneares são classificadas como «boas» se:\n\n1) No conjunto dos dados recolhidos sobre a qualidade das águas balneares para o último período de avaliação, os valores de percentil para as contagens microbiológicas forem iguais ou superiores [(17)](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#E0021) aos valores de «boa qualidade» indicados na coluna C do anexo I; e\n\n2) A água balnear apresentar uma poluição de curta duração, desde que:\n\ni) estejam a ser tomadas medidas de gestão adequadas, incluindo a vigilância, os sistemas de alerta precoce e a monitorização, para evitar a exposição dos banhistas através de uma advertência e, se necessário, de uma proibição da prática balnear,\n\nii) Estejam a ser tomadas medidas de gestão adequadas para prevenir, reduzir ou eliminar as causas da poluição, e\n\niii) o número de amostras não consideradas, de acordo com o n.º 6 do artigo 3.º, devido a poluição de curta duração durante o último período de avaliação não represente mais de 15 % do número total de amostras previstas nos calendários de amostragem fixados para esse período, ou mais do que uma amostra por estação balnear, sendo o nível a considerar o mais elevado."
+  },
+  "cf9a1c0220a2a4fa": {
+   "fragment_id": "4. Excelente qualidade",
+   "type": "divisao",
+   "heading": "4. Excelente qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. Excelente qualidade\n\nAs águas balneares são classificadas como «excelentes» se:\n\n1) No conjunto de dados recolhidos sobre a qualidade das águas balneares para o último período de avaliação, os valores de percentil para as contagens microbiológicas forem iguais ou superiores aos valores de «excelente qualidade» indicados na coluna B do anexo I; e\n\n2) A água balnear apresentar uma poluição de curta duração, desde que:\n\ni) estejam a ser tomadas medidas de gestão adequadas, incluindo a vigilância, os sistemas de alerta precoce e a monitorização, para evitar a exposição dos banhistas através de uma advertência e, se necessário, de uma proibição da prática balnear,\n\nii) estejam a ser tomadas medidas de gestão adequadas para prevenir, reduzir ou eliminar as causas da poluição, e\n\niii) o número de amostras não consideradas, de acordo com o n.º 6 do artigo 3.º, devido a poluição de curta duração durante o último período de avaliação não represente mais de 15 % do número total de amostras previstas nos calendários de amostragem fixados para esse período, ou mais do que uma amostra por estação balnear, sendo o nível a considerar o mais elevado.\n\nNOTAS"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "c7d0bf8f8b49a5f5": {
+   "fragment_id": "Perfil das águas balneares",
+   "type": "divisao",
+   "heading": "Perfil das águas balneares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Perfil das águas balneares\n\n1. O perfil das águas balneares referido no artigo 6.º é constituído por:\n\na) Uma descrição das características físicas, geográficas e hidrológicas das águas balneares e de outras águas de superfície na zona de captação da referida água balnear que possam ser causa de poluição, que sejam relevantes para efeitos da presente directiva e que constem da Directiva 2000/60/CE;\n\nb) A identificação e uma avaliação das causas da poluição que possam afectar as águas balneares e prejudicar a saúde dos banhistas;\n\nc) Uma avaliação do potencial de proliferação de cianobactérias;\n\nd) Uma avaliação do potencial de proliferação de macroalgas e/ou de fitoplâncton;\n\ne) Se a avaliação feita nos termos da alínea b) demonstrar que existe um risco de poluição de curta duração, as seguintes informações:\n\n— a natureza, frequência e duração esperadas da poluição de curta duração prevista,\n\n— dados sobre quaisquer causas de poluição remanescentes, incluindo as medidas de gestão tomadas e o calendário para a sua eliminação,\n\n— medidas de gestão tomadas durante os incidentes de poluição de curta duração e a identificação e contactos dos organismos responsáveis pela adopção dessas medidas;\n\nf) A localização do ponto de amostragem.\n\n2. No caso das águas balneares classificadas como sendo «boas», «suficientes» ou «medíocres», o perfil das águas balneares será revisto periodicamente para avaliar se algum dos aspectos enumerados no ponto 1 se modificou. Se necessário, o perfil será actualizado. A frequência e o âmbito das revisões devem ser determinados com base na natureza e na gravidade da poluição. No entanto, devem respeitar, pelo menos, as disposições especificadas no quadro seguinte e realizar‐se, no mínimo, com a frequência nele indicada.\n\n| Classificação das águas balneares | Boa | Suficiente | Medíocre |\n| --- | --- | --- | --- |\n| As revisões devem ser efectuadas pelo menos | de 4 em 4 anos | de 3 em 3 anos | de 2 em 2 anos |\n| Aspectos a verificar (alíneas do ponto 1) | a) a f) | a) a f) | a) a f) |\n\n3. Em caso de trabalhos de construção importantes ou de alterações significativas da infra‐estrutura nas águas balneares ou na sua vizinhança, o perfil das águas balneares deverá ser actualizado antes do início da época balnear seguinte.\n\n4. Sempre que tal seja exequível, os elementos referidos nas alíneas a) e b) do ponto 1 devem ser apresentados sob a forma de mapa pormenorizado.\n\n5. Podem ser apensas ou incluídas outras informações relevantes se a autoridade competente o considerar adequado."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "aaaef4587253b78b": {
+   "fragment_id": "MONITORIZAÇÃO DAS ÁGUAS BALNEARES",
+   "type": "divisao",
+   "heading": "MONITORIZAÇÃO DAS ÁGUAS BALNEARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MONITORIZAÇÃO DAS ÁGUAS BALNEARES\n\n1. Deve ser recolhida uma amostra pouco antes do início de cada época balnear. Tomando em consideração esta amostra suplementar e sob reserva do ponto 2, o número de amostras recolhidas e analisadas em cada época balnear não pode ser inferior a quatro.\n\n2. No entanto, é necessário recolher e analisar apenas três amostras por época balnear no caso de águas balneares:\n\na) Em que a época balnear não ultrapasse as oito semanas; ou\n\nb) Situadas numa região sujeita a condicionantes geográficas especiais.\n\n3. As datas das recolhas de amostras deverão ser distribuídas regularmente ao longo da época balnear, não devendo o intervalo entre elas exceder um mês.\n\n4. Em caso de poluição de curta duração, deve ser recolhida uma amostra suplementar para confirmar o final do episódio. Esta amostra não deve fazer parte do conjunto de dados recolhidos sobre a qualidade das águas balneares. Se tal for necessário para substituir uma amostra não considerada, deve ser recolhida uma amostra adicional sete dias após o termo da poluição de curta duração."
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "a7dd34e745f47621": {
+   "fragment_id": "REGRAS APLICÁVEIS AO MANUSEAMENTO DE AMOSTRAS PARA ANÁLISES MICROBIOLÓGICAS",
+   "type": "divisao",
+   "heading": "REGRAS APLICÁVEIS AO MANUSEAMENTO DE AMOSTRAS PARA ANÁLISES MICROBIOLÓGICAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS APLICÁVEIS AO MANUSEAMENTO DE AMOSTRAS PARA ANÁLISES MICROBIOLÓGICAS"
+  },
+  "d2517fea7306fdef": {
+   "fragment_id": "1. PONTO DE AMOSTRAGEM",
+   "type": "divisao",
+   "heading": "1. PONTO DE AMOSTRAGEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. PONTO DE AMOSTRAGEM\n\nSempre que possível, as amostras deverão ser recolhidas 30 centímetros abaixo da superfície das águas e em águas de 1 metro de profundidade, no mínimo."
+  },
+  "1f30189fb0c483a9": {
+   "fragment_id": "2. ESTERILIZAÇÃO DOS FRASCOS DE AMOSTRAS",
+   "type": "divisao",
+   "heading": "2. ESTERILIZAÇÃO DOS FRASCOS DE AMOSTRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. ESTERILIZAÇÃO DOS FRASCOS DE AMOSTRAS\n\nOs frascos devem:\n\n— ser esterilizados em autoclave no mínimo durante 15 minutos a 121º C, ou\n\n— ser esterilizados a seco entre 160º C e 170º C no mínimo durante uma hora, ou\n\n— ser constituídos por recipientes irradiados recebidos directamente do fabricante."
+  },
+  "3b7e913c082d16e8": {
+   "fragment_id": "3. RECOLHA DE AMOSTRAS",
+   "type": "divisao",
+   "heading": "3. RECOLHA DE AMOSTRAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. RECOLHA DE AMOSTRAS\n\nO volume do frasco/recipiente de amostra depende da quantidade de água necessária para cada um dos parâmetros a analisar. O volume mínimo é geralmente de 250 ml.\n\nOs recipientes de amostras devem ser de material transparente e incolor (vidro, polieteno ou polipropileno).\n\nA fim de evitar a contaminação acidental das amostras, o técnico deve utilizar um método asséptico para manter a esterilidade dos frascos de amostras. Não é necessário outro material estéril (como luvas cirúrgicas estéreis, pinças ou espátulas de amostras) se esta operação for realizada correctamente.\n\nAs amostras devem ser claramente identificadas com tinta indelével na amostra e no formulário relativo à amostra."
+  },
+  "ba09068354961cda": {
+   "fragment_id": "4. CONSERVAÇÃO E TRANSPORTE DAS AMOSTRAS ANTES DA ANÁLISE",
+   "type": "divisao",
+   "heading": "4. CONSERVAÇÃO E TRANSPORTE DAS AMOSTRAS ANTES DA ANÁLISE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. CONSERVAÇÃO E TRANSPORTE DAS AMOSTRAS ANTES DA ANÁLISE\n\nAs amostras de água devem, em todas as fases do transporte, ser protegidas da exposição à luz, em especial à luz directa do sol.\n\nAs amostras devem ser conservadas a uma temperatura de cerca de 4º C, em mala frigorífica ou em frigorífico (dependendo do clima) até à chegada ao laboratório. Se for provável que o transporte para o laboratório demore mais de quatro horas, é obrigatório o transporte em frigorífico.\n\nO período de tempo decorrido entre a recolha da amostra e a realização da análise deve ser o mais curto possível. Recomenda‐se que a análise das amostras seja efectuada no mesmo dia. Se tal não for possível por motivos de ordem prática, as amostras devem ser tratadas no prazo máximo de 24 horas. Entretanto devem ser conservadas ao abrigo da luz e a uma temperatura de 4º ± 3º C.\n\n---"
+  },
+  "88a92d8c849d006f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0001)) JO C 45 E de 25.2.2003, p. 127.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0002)) JO C 220 de 16.9.2003, p. 39.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0003)) JO C 244 de 10.10.2003, p. 31.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 21 de Outubro de 2003 (JO C 82 E de 1.4.2004, p. 115), Posição Comum do Conselho de 20 de Dezembro de 2004 (JO C 111 E de 11.5.2005, p. 1) e Posição do Parlamento Europeu de 10 de Maio de 2005 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 18 de Janeiro de 2006 (ainda não publicada no Jornal Oficial) e Decisão do Conselho de 20 de Dezembro de 2005.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0005)) JO L 242 de 10.9.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0006)) JO L 31 de 5.2.1976, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 807/2003 (JO L 122 de 16.5.2003, p. 36).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0007)) JO L 135 de 30.5.1991, p. 40. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0008)) JO L 375 de 31.12.1991, p. 1. Directiva alterada pelo Regulamento (CE) n.º 1882/2003.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0009)) JO L 327 de 22.12.2000, p. 1. Directiva alterada pela Decisão n.º 2455/2001/CE (JO L 331 de 15.12.2001, p. 1).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0010)) JO L 41 de 14.2.2003, p. 26.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0011)) JO L 156 de 25.6.2003, p. 17.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0012)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0013)) JO L 175 de 5.7.1985, p. 40. Directiva com a última redacção que lhe foi dada pela Directiva 2003/35/CE do Parlamento Europeu e do Conselho (JO L 156 de 25.6.2003, p. 17).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0018)) Por último «período de avaliação», entendem‐se as quatro últimas épocas balneares ou, eventualmente, o período especificado nos n.ºs 2 ou 4 do artigo 4.º\n\n> ([^15^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0019)) Com base na avaliação do percentil na função normal da densidade de probabilidade log10 dos dados microbiológicos obtidos numa determinada zona balnear, o valor do percentil é derivado da seguinte forma:\n\ni) tomar o valor log10 de todas as contagens de bactérias na sequência de dados a avaliar (se se obtiver um valor 0, tomar antes o valor log10 do nível mínimo de detecção do método analítico utilizado),\n\nii) calcular a média aritmética dos valores log10 (μ),\n\niii) Calcular o desvio‐padrão dos valores log10 (σ).\n\n> O ponto superior do percentil 90 da função de densidade da probabilidade dos dados é derivado da seguinte equação: superior a percentil 90 = antilog (μ + 1,282 σ).\n\n> O ponto superior do percentil 95 na função de densidade de probabilidade dos dados é derivado da seguinte equação: superior a percentil 95 = antilog (μ + 1,65 σ).\n\n> ([^16^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0020)) «Inferior» significa com valores de concentração superiores expressos em ufc/100 ml.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/ffa7473d-74a1-46ac-b9cd-5aa4707ddb37.0004.03/DOC_1#src.E0021)) «Superior» significa com valores de concentração inferiores expressos em ufc/100 ml."
+  },
+  "652c1d93ab6ceda1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2006\n\nrelativa à gestão da qualidade das águas balneares e que revoga a Directiva 76/160/CEE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0004)), tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 8 de Dezembro de 2005,\n\n(1) Com base na Comunicação da Comissão sobre o desenvolvimento sustentável, o Conselho Europeu seleccionou objectivos destinados a constituir uma orientação geral para o futuro desenvolvimento em domínios prioritários como os recursos naturais e a saúde pública.\n\n(2) A água é um recurso natural escasso cuja qualidade deve ser protegida, defendida, gerida e tratada em conformidade. As águas de superfície, em especial, são fontes renováveis com uma capacidade limitada de recuperação dos impactos adversos decorrentes das actividades humanas.\n\n(3) A política da Comunidade no domínio do ambiente deverá ter como objectivo um elevado nível de protecção e contribuir para a prossecução dos objectivos de preservação, protecção e melhoria da qualidade do ambiente e de protecção da saúde humana.\n\n(4) Em Dezembro de 2000, a Comissão aprovou uma Comunicação ao Parlamento Europeu e ao Conselho sobre o desenvolvimento de uma nova política de águas balneares e iniciou uma consulta em grande escala de todas as partes interessadas e envolvidas. O principal resultado desta consulta foi um apoio geral à elaboração de uma nova directiva baseada nos últimos dados científicos e dando especial importância a uma participação mais vasta do público.\n\n(5) A Decisão n.º 1600/2002/CE do Parlamento Europeu e do Conselho, de 22 de Julho de 2002, que estabelece o sexto programa comunitário de acção em matéria de ambiente ([^5^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0005)), inclui o compromisso de garantir um elevado nível de protecção das águas balneares, inclusivamente através da revisão da Directiva 76/160/CEE, do Conselho, de 8 de Dezembro de 1975, relativa à qualidade das águas balneares ([^6^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0006)).\n\n(6) Nos termos do Tratado, na elaboração da sua política no domínio do ambiente, a Comunidade deverá ter em conta, nomeadamente, os dados científicos e técnicos disponíveis. A presente directiva deverá recorrer a dados científicos para a aplicação dos parâmetros dos indicadores mais fiáveis com vista a permitir a previsão do risco microbiológico para a saúde e a atingir um nível de protecção elevado, devendo ser efectuados com urgência estudos epidemiológicos mais aprofundados no que respeita aos riscos para a saúde associados à prática balnear, particularmente em águas doces.\n\n(7) Tendo em vista melhorar a eficiência e uma utilização adequada dos recursos, a presente directiva deverá ser estreitamente coordenada com outra legislação comunitária em matéria de água, como a Directiva 91/271/CEE do Conselho, de 21 de Maio de 1991, relativa ao tratamento de águas residuais urbanas ([^7^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0007)), a Directiva 91/676/CEE do Conselho, de 12 de Dezembro de 1991, relativa à protecção das águas contra a poluição causada por nitratos de origem agrícola ([^8^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0008)), e a Directiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2000, que estabelece um quadro de acção comunitária no domínio da política da água ([^9^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0009)).\n\n(8) Deverá ser divulgada aos interessados informação adequada sobre as medidas programadas e sobre os progressos verificados na sua execução. O público deverá ser informado apropriada e oportunamente dos resultados da monitorização da qualidade das águas balneares e das medidas de gestão dos riscos, a fim de prevenir riscos para a saúde, especialmente no contexto de episódios previsíveis de poluição de curta duração ou de situações anormais. Deverão ser aplicadas novas tecnologias que permitam a informação do público, de uma forma eficiente e comparável, sobre a qualidade das águas balneares em toda a Comunidade.\n\n(9) Para fins de monitorização, é necessário aplicar métodos e práticas de análise harmonizados. A observação e a avaliação da qualidade durante um período prolongado de tempo são necessárias para permitir uma classificação realista das águas balneares.\n\n(10) A conformidade deverá ser uma questão de medidas de gestão adequadas e de garantia da qualidade e não se resumir apenas a medições e cálculos. Um sistema de perfis das águas balneares é, pois, adequado para fornecer uma melhor compreensão dos riscos de forma a constituir uma base para as medidas de gestão. Em paralelo, deverá ser prestada uma atenção especial à conformidade com as normas de qualidade e à transição coerente a partir da Directiva 76/160/CEE.\n\n(11) Em 17 de Fevereiro de 2005, a Comunidade ratificou a Convenção da UNECE sobre o Acesso à Informação, a Participação do Público no Processo de Tomada de Decisões e o Acesso à Justiça em matéria de Ambiente (Convenção de Aarhus). Assim sendo, justifica‐se que a presente directiva inclua disposições sobre o acesso do público à informação e preveja a participação do público na sua implementação, complementando a Directiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2003, relativa ao acesso do público às informações sobre o ambiente ([^10^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0010)), e a Directiva 2003/35/CE do Parlamento Europeu e do Conselho, de 26 de Maio de 2003, que estabelece a participação do público na elaboração de certos planos e programas relativos ao ambiente ([^11^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0011)).\n\n(12) Atendendo a que os objectivos da presente directiva, a saber, a obtenção pelos Estados‐Membros, com base em normas comuns, de uma boa qualidade das águas balneares e de um elevado nível de protecção em toda a Comunidade, não podem ser suficientemente realizados pelos Estados‐Membros e podem ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(13) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^12^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0012)).\n\n(14) A política comunitária relativa às águas balneares revela‐se de uma importância evidente em cada época balnear, dado proteger o público da poluição que surja de maneira acidental ou crónica, nas zonas balneares na Comunidade ou na sua periferia. A qualidade global das águas balneares melhorou consideravelmente desde a entrada em vigor da Directiva 76/160/CEE. A referida directiva reflecte, no entanto, o estado dos conhecimentos e a experiência existente no início da década de 70. Entretanto, os padrões de utilização das águas balneares mudaram e os conhecimentos científicos e técnicos evoluíram. Aquela directiva deve, pois, ser revogada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "226d49bbac41454d": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente directiva, são aplicáveis as seguintes definições:\n\n1. Os termos «águas de superfície», «águas subterrâneas», «águas interiores», «águas de transição», «águas costeiras» e «bacia hidrográfica» têm a mesma acepção que na Directiva 2000/60/CE.\n\n2. «Autoridade competente» significa a autoridade ou autoridades designada(s) por um Estado‐Membro para assegurar o cumprimento das obrigações previstas na presente directiva ou qualquer outra autoridade ou organismo em que tal competência seja delegada.\n\n3. «Permanente» significa, quando relativo a uma proibição ou a um desaconselhamento dos banhos, pelo menos uma época balnear completa.\n\n4. «Grande número» significa, relativamente a banhistas, um número que a autoridade competente considere ser grande com base nomeadamente em tendências passadas ou na presença de quaisquer infra‐estruturas ou instalações disponíveis, ou em outras medidas tomadas para promover os banhos.\n\n5. «Poluição» significa a presença de contaminação microbiológica ou outros organismos ou resíduos que afectem a qualidade das águas balneares e constituam um risco para a saúde dos banhistas, tal como referido nos artigos 8.º e 9.º e na coluna A do anexo I.\n\n6. «Época balnear» significa o período em que se prevê uma grande afluência de banhistas.\n\n7. «Medidas de gestão» significa as medidas a seguir indicadas relativamente às águas balneares:\n\na) Estabelecimento e manutenção de um perfil das águas balneares;\n\nb) Estabelecimento de um calendário de amostragem;\n\nc) Monitorização das águas balneares;\n\nd) Avaliação da qualidade das águas balneares;\n\ne) Classificação das águas balneares;\n\nf) Detecção e avaliação das causas de poluição que possam afectar as águas balneares e prejudicar a saúde dos banhistas;\n\ng) Fornecimento de informação ao público;\n\nh) Desenvolvimento de acções para prevenir a exposição dos banhistas à poluição;\n\ni) Desenvolvimento de acções para reduzir o risco de poluição.\n\n8. «Poluição de curta duração» significa a contaminação microbiológica indicada na coluna A do anexo I, com causas claramente identificáveis, que se preveja que, em princípio, não afectará a qualidade das águas balneares por mais de cerca de 72 horas a contar do momento em que a qualidade dessas águas começou a ser afectada e para a qual a autoridade competente tenha estabelecido procedimentos de previsão e minimização dos seus efeitos, tal como previsto no anexo II.\n\n9. «Situação anormal» significa um acontecimento ou uma combinação de acontecimentos com repercussões na qualidade das águas balneares no local em questão, o qual não se prevê que ocorra, em média, mais do que uma vez de quatro em quatro anos.\n\n10. «Conjunto de dados sobre a qualidade das águas balneares» significa os dados obtidos em conformidade com o artigo 3.º\n\n11. «Avaliação da qualidade das águas balneares» significa o processo de avaliação da qualidade das águas balneares, utilizando o método de avaliação definido no anexo II.\n\n12. «Proliferação de cianobactérias» significa um crescimento de cianobactérias sob a forma de florescência, tapete ou espuma.\n\n13. O termo «público interessado» tem a mesma acepção que na Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente ([^13^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0013))."
+  },
+  "60a678509157f98a": {
+   "fragment_id": "Artigo 5.º — Classificação da qualidade das águas balneares",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Classificação da qualidade das águas balneares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Classificação da qualidade das águas balneares\n\n1. Em função da avaliação da qualidade das águas balneares efectuada em conformidade com o artigo 4.º, os Estados-Membros procedem, em conformidade com os critérios definidos no anexo II, à classificação das águas balneares como:\n\na) «Medíocres»;\n\nb) «Suficientes/aceitáveis»;\n\nc) «Boas»; ou\n\nd) «Excelentes».\n\n2. A primeira classificação em função dos requisitos estabelecidos na presente directiva deve estar concluída até ao final da época balnear de 2015.\n\n3. Os Estados-Membros garantem que, até ao final da época balnear de 2015, todas as águas balneares sejam, no mínimo, «suficientes». Devem tomar medidas realistas e proporcionadas que considerem adequadas para aumentar o número de águas balneares classificadas como «excelentes» ou «boas».\n\n4. Contudo, não obstante a obrigação geral estabelecida no n.º 3, as águas balneares podem ser classificadas temporariamente como «medíocres» e continuar a ser conformes com a presente directiva. Nesses casos, os Estados-Membros garantem o cumprimento das seguintes condições:\n\na) Relativamente às águas balneares classificadas como «medíocres», devem ser tomadas as seguintes medidas, com efeito a partir da época balnear que se segue à classificação:\n\ni) medidas de gestão adequadas, incluindo a proibição da prática balnear ou o seu desaconselhamento, para evitar a exposição dos banhistas à poluição,\n\nii) identificação das causas e razões da impossibilidade de obtenção da classificação de qualidade «suficientes»,\n\niii) medidas adequadas para prevenir, reduzir ou eliminar as causas da poluição, e\n\niv) nos termos do artigo 12.º, prevenção do público por meio de um sinal de aviso claro e simples e sua informação das causas da poluição e das medidas tomadas com base no perfil das águas balneares;\n\nb) Se determinadas águas balneares forem classificadas como «medíocres» durante cinco anos consecutivos, deve estabelecer‐se uma proibição ou um desaconselhamento permanentes da prática balnear. Todavia, um Estado‐Membro pode introduzir uma proibição ou um desaconselhamento permanentes da prática balnear antes do final do período de cinco anos se considerar que a obtenção de uma qualidade «suficiente» não é viável ou implica despesas desproporcionadas."
+  },
+  "e6db0bf094bfe593": {
+   "fragment_id": "Artigo 12.º — Informação do público",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Informação do público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Informação do público\n\n1. Os Estados‐Membros garantem que as seguintes informações sejam activamente divulgadas e prontamente disponibilizadas, durante a época balnear, num local de fácil acesso nas proximidades imediatas de cada zona balnear:\n\na) Classificação actual das águas balneares e qualquer proibição ou desaconselhamento da prática balnear referidos no presente artigo através de um sinal ou símbolo simples e claro;\n\nb) Descrição geral das águas balneares, em linguagem não técnica, baseada no perfil das águas balneares estabelecido em conformidade com o anexo III;\n\nc) No caso de águas balneares sujeitas a poluição de curta duração:\n\n— notificação de que as águas balneares estão sujeitas a episódios de poluição de curta duração,\n\n— indicação do número de dias em que a prática balnear esteve proibida ou foi desaconselhada durante a época balnear anterior devido a essa poluição, e\n\n— um aviso sempre que se prevejam ou se verifiquem episódios dessa poluição;\n\nd) Informações sobre a natureza e a duração previsível das situações anormais durante a ocorrência desses episódios;\n\ne) Sempre que a prática balnear seja proibida ou desaconselhada, um aviso ao público indicando os respectivos motivos;\n\nf) Sempre que se estabeleça uma proibição ou um desaconselhamento permanentes da prática balnear, o facto de que a zona em questão deixou de ser uma água balnear, apresentando‐se os motivos dessa desclassificação; e\n\ng) Indicação de fontes para uma informação mais completa, em conformidade com o n.º 2.\n\n2. Os Estados‐Membros utilizam tecnologias e meios adequados, incluindo a internet, para divulgar activamente e sem demora as informações relativas às águas balneares referidas no n.º 1 e também as seguintes informações, se necessário em várias línguas:\n\na) Uma lista das águas balneares;\n\nb) A classificação das águas balneares durante os últimos três anos e os respectivos perfis, incluindo os resultados da monitorização realizada em conformidade com a presente directiva desde a última classificação;\n\nc) No caso de águas balneares classificadas como «medíocres», informações sobre as causas de poluição e as medidas tomadas com vista a prevenir a exposição dos banhistas à poluição e a tratar as suas causas, tal como referido no n.º 4 do artigo 5.º; e\n\nd) No caso de águas balneares sujeitas a poluição de curta duração, informações gerais sobre:\n\n— as condições que possam provocar episódios de poluição de curta duração,\n\n— a probabilidade de tais episódios e respectiva duração provável,\n\n— as causas de poluição e as medidas tomadas com vista a prevenir a exposição dos banhistas à poluição e a tratar as suas causas.\n\nA lista referida na alínea a) é facultada anualmente, antes do início da época balnear. Os resultados da monitorização referida na alínea b) são disponibilizados na internet após a conclusão da análise.\n\n3. As informações referidas nos n.^os^ 1 e 2 são divulgadas assim que estejam disponíveis e a partir do início da quinta época balnear após março de 2008.\n\n4. Sempre que possível, os Estados‐Membros e a Comissão prestam informações ao público utilizando tecnologia de georreferenciação e apresentam‐nas de forma clara e coerente, nomeadamente através da utilização de sinais e símbolos."
+  },
+  "fbaeac87d0e2667a": {
+   "fragment_id": "Artigo 15.º — Adaptações técnicas e medidas de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Adaptações técnicas e medidas de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Adaptações técnicas e medidas de aplicação\n\n1. A Comissão estabelece, pelo procedimento de regulamentação a que se refere o n.º 2 do artigo 16.º, o seguinte:\n\na) Regras pormenorizadas para a aplicação do n.º 1 do artigo 8.º e da alínea a) do n.º 1 e do n.º 4 do artigo 12.º;\n\nb) Orientações para um método comum de avaliação de amostras únicas.\n\n2. A Comissão aprova as seguintes medidas:\n\na) A especificação da norma EN/ISO sobre a equivalência de métodos microbiológicos para efeitos do n.º 9 do artigo 3.º;\n\nb) As alterações necessárias para adaptar os métodos de análise dos parâmetros definidos no anexo I ao progresso científico e técnico;\n\nc) As alterações necessárias para adaptar o anexo V ao progresso científico e técnico.\n\nEstas medidas, que têm por objecto alterar elementos não essenciais da presente directiva, nomeadamente completando-a, são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 16.º.\n\n3. A Comissão apresenta até 24 de Março de 2010 um projecto das medidas a tomar, nos termos da alínea a) do n.º 1 no que diz respeito à alínea a) do n.º 1 do artigo 12.º. Para o efeito, consulta previamente representantes dos Estados-Membros, das autoridades regionais e locais, das organizações turísticas e de consumidores pertinentes e de outras partes interessadas. Após a sua aprovação, a Comissão divulga através da internet a regulamentação aplicável."
+  },
+  "1b41442d9f09f46e": {
+   "fragment_id": "Artigo 16.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimento de comité\n\n1. A Comissão é assistida por um Comité.\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 5.º e 7.º da Decisão 1999/468/CE, tendo‐se em conta o disposto no seu artigo 8.º\n\nO prazo previsto no n.º 6 do artigo 5.º da Decisão 1999/468/CE é de três meses.\n\n3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no artigo 8.º."
+  },
+  "9d1f80f56ec6dfc9": {
+   "fragment_id": "Artigo 20.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Destinatários\n\nOs Estados‐Membros são os destinatários da presente directiva."
+  },
+  "03a2f0541a8fea7f": {
+   "fragment_id": "ÁNEXO I",
+   "type": "divisao",
+   "heading": "ÁNEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ÁNEXO I"
+  },
+  "d1128b110d225e97": {
+   "fragment_id": "Águas interiores",
+   "type": "divisao",
+   "heading": "Águas interiores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Águas interiores\n\n|  | A | B | C | D | E |\n| --- | --- | --- | --- | --- | --- |\n|  | Parâmetro | Qualidade excelente | Qualidade boa | Qualidade suficiente | Métodos de análise de referência |\n| 1 | Enterococos intestinais em ufc/100 ml | 200 [(^1^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0014) | 400 [(^1^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0014) | 330 [(^2^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0015) | ISO 7899‐1 ou ISO 7899‐2 |\n| 2 | *Escherichia coli* em ufc/100 ml | 500 [(^1^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0014) | 1 000 [(^1^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0014) | 900 [(^2^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0015) | ISO 9308‐3 ou ISO 9308‐1 |\n| (^1^)Com base numa avaliação de percentil 95. Ver anexo II. (^2^)Com base numa avaliação de percentil 90. Ver anexo II. |  |  |  |  |  |"
+  },
+  "5b7c0c731c925c93": {
+   "fragment_id": "Águas costeiras e de transição",
+   "type": "divisao",
+   "heading": "Águas costeiras e de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Águas costeiras e de transição\n\n|  | A | B | C | D | E |\n| --- | --- | --- | --- | --- | --- |\n|  | Parâmetro | Qualidade excelente | Qualidade boa | Qualidade suficiente | Métodos de análise de referência |\n| 1 | Enterococos intestinais em ufc/100 ml | 100 [(^1^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0016) | 200 [(^1^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0016) | 185 [(^2^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0017) | ISO 7899‐1 ou ISO 7899‐2 |\n| 2 | *Escherichia coli* em ufc/100 ml | 250 [(^1^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0016) | 500 [(^1^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0016) | 500 [(^2^)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0017) | ISO 9308‐3 ou ISO 9308‐1 |\n| (^1^)Com base numa avaliação de percentil 95. Ver anexo II. (^2^)Com base numa avaliação de percentil 90. Ver anexo II. |  |  |  |  |  |"
+  },
+  "e61fcd8e81a697aa": {
+   "fragment_id": "1. Qualidade medíocre",
+   "type": "divisao",
+   "heading": "1. Qualidade medíocre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Qualidade medíocre\n\nAs águas balneares são classificadas como «medíocres» se, no conjunto de dados recolhidos sobre a qualidade das águas balneares para o último período de avaliação ([^14^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0018)), os valores de percentil ([^15^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0019)) para as contagens microbiológicas forem inferiores ([^16^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0020)) ao valor de «qualidade suficiente» indicado na coluna D do anexo I."
+  },
+  "1d0b82ee2e8f4b8d": {
+   "fragment_id": "2. Qualidade suficiente",
+   "type": "divisao",
+   "heading": "2. Qualidade suficiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Qualidade suficiente\n\nAs águas balneares são classificadas como «suficientes» se:\n\n1) No conjunto dos dados recolhidos sobre a qualidade das águas balneares para o último período de avaliação, os valores de percentil para as contagens microbiológicas forem iguais ou superiores ([^17^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0021)) aos valores de «qualidade suficiente» dos parâmetros indicados na coluna D do anexo I; e\n\n2) A água balnear apresentar uma poluição de curta duração, desde que:\n\ni) estejam a ser tomadas medidas de gestão adequadas, incluindo a vigilância, os sistemas de alerta precoce e a monitorização, para evitar a exposição dos banhistas através de uma advertência e, se necessário, de uma proibição da prática balnear,\n\nii) estejam a ser tomadas medidas de gestão adequadas para prevenir, reduzir ou eliminar as causas da poluição, e\n\niii) o número de amostras não consideradas, de acordo com o n.º 6 do artigo 3.º, devido a poluição de curta duração durante o último período de avaliação não represente mais de 15 % do número total de amostras previstas nos calendários de amostragem fixados para esse período, ou mais do que uma amostra por estação balnear, sendo o nível a considerar o mais elevado."
+  },
+  "2a11b392c107284a": {
+   "fragment_id": "3. Boa qualidade",
+   "type": "divisao",
+   "heading": "3. Boa qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Boa qualidade\n\nAs águas balneares são classificadas como «boas» se:\n\n1) No conjunto dos dados recolhidos sobre a qualidade das águas balneares para o último período de avaliação, os valores de percentil para as contagens microbiológicas forem iguais ou superiores [(17)](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#E0021) aos valores de «boa qualidade» indicados na coluna C do anexo I; e\n\n2) A água balnear apresentar uma poluição de curta duração, desde que:\n\ni) estejam a ser tomadas medidas de gestão adequadas, incluindo a vigilância, os sistemas de alerta precoce e a monitorização, para evitar a exposição dos banhistas através de uma advertência e, se necessário, de uma proibição da prática balnear,\n\nii) Estejam a ser tomadas medidas de gestão adequadas para prevenir, reduzir ou eliminar as causas da poluição, e\n\niii) o número de amostras não consideradas, de acordo com o n.º 6 do artigo 3.º, devido a poluição de curta duração durante o último período de avaliação não represente mais de 15 % do número total de amostras previstas nos calendários de amostragem fixados para esse período, ou mais do que uma amostra por estação balnear, sendo o nível a considerar o mais elevado."
+  },
+  "bd1c3d5b31dc3d18": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0001)) JO C 45 E de 25.2.2003, p. 127.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0002)) JO C 220 de 16.9.2003, p. 39.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0003)) JO C 244 de 10.10.2003, p. 31.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 21 de Outubro de 2003 (JO C 82 E de 1.4.2004, p. 115), Posição Comum do Conselho de 20 de Dezembro de 2004 (JO C 111 E de 11.5.2005, p. 1) e Posição do Parlamento Europeu de 10 de Maio de 2005 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 18 de Janeiro de 2006 (ainda não publicada no Jornal Oficial) e Decisão do Conselho de 20 de Dezembro de 2005.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0005)) JO L 242 de 10.9.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0006)) JO L 31 de 5.2.1976, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 807/2003 (JO L 122 de 16.5.2003, p. 36).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0007)) JO L 135 de 30.5.1991, p. 40. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0008)) JO L 375 de 31.12.1991, p. 1. Directiva alterada pelo Regulamento (CE) n.º 1882/2003.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0009)) JO L 327 de 22.12.2000, p. 1. Directiva alterada pela Decisão n.º 2455/2001/CE (JO L 331 de 15.12.2001, p. 1).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0010)) JO L 41 de 14.2.2003, p. 26.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0011)) JO L 156 de 25.6.2003, p. 17.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0012)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0013)) JO L 175 de 5.7.1985, p. 40. Directiva com a última redacção que lhe foi dada pela Directiva 2003/35/CE do Parlamento Europeu e do Conselho (JO L 156 de 25.6.2003, p. 17).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0018)) Por último «período de avaliação», entendem‐se as quatro últimas épocas balneares ou, eventualmente, o período especificado nos n.ºs 2 ou 4 do artigo 4.º\n\n> ([^15^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0019)) Com base na avaliação do percentil na função normal da densidade de probabilidade log10 dos dados microbiológicos obtidos numa determinada zona balnear, o valor do percentil é derivado da seguinte forma:\n\ni) tomar o valor log10 de todas as contagens de bactérias na sequência de dados a avaliar (se se obtiver um valor 0, tomar antes o valor log10 do nível mínimo de detecção do método analítico utilizado),\n\nii) calcular a média aritmética dos valores log10 (μ),\n\niii) Calcular o desvio‐padrão dos valores log10 (σ).\n\n> O ponto superior do percentil 90 da função de densidade da probabilidade dos dados é derivado da seguinte equação: superior a percentil 90 = antilog (μ + 1,282 σ).\n\n> O ponto superior do percentil 95 na função de densidade de probabilidade dos dados é derivado da seguinte equação: superior a percentil 95 = antilog (μ + 1,65 σ).\n\n> ([^16^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0020)) «Inferior» significa com valores de concentração superiores expressos em ufc/100 ml.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/14d1530f-10f9-4c71-8d69-c845c9826e1f.0019.03/DOC_1#src.E0021)) «Superior» significa com valores de concentração inferiores expressos em ufc/100 ml."
+  },
+  "39329e65f77fb402": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Fevereiro de 2006\n\nrelativa à gestão da qualidade das águas balneares e que revoga a Directiva 76/160/CEE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o n.º 1 do artigo 175.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0001)),\n\nTendo em conta o parecer do Comité Económico e Social Europeu ([^2^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité das Regiões ([^3^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0003)),\n\nDeliberando nos termos do artigo 251.º do Tratado ([^4^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0004)), tendo em conta o projecto comum aprovado pelo Comité de Conciliação em 8 de Dezembro de 2005,\n\n(1) Com base na Comunicação da Comissão sobre o desenvolvimento sustentável, o Conselho Europeu seleccionou objectivos destinados a constituir uma orientação geral para o futuro desenvolvimento em domínios prioritários como os recursos naturais e a saúde pública.\n\n(2) A água é um recurso natural escasso cuja qualidade deve ser protegida, defendida, gerida e tratada em conformidade. As águas de superfície, em especial, são fontes renováveis com uma capacidade limitada de recuperação dos impactos adversos decorrentes das actividades humanas.\n\n(3) A política da Comunidade no domínio do ambiente deverá ter como objectivo um elevado nível de protecção e contribuir para a prossecução dos objectivos de preservação, protecção e melhoria da qualidade do ambiente e de protecção da saúde humana.\n\n(4) Em Dezembro de 2000, a Comissão aprovou uma Comunicação ao Parlamento Europeu e ao Conselho sobre o desenvolvimento de uma nova política de águas balneares e iniciou uma consulta em grande escala de todas as partes interessadas e envolvidas. O principal resultado desta consulta foi um apoio geral à elaboração de uma nova directiva baseada nos últimos dados científicos e dando especial importância a uma participação mais vasta do público.\n\n(5) A Decisão n.º 1600/2002/CE do Parlamento Europeu e do Conselho, de 22 de Julho de 2002, que estabelece o sexto programa comunitário de acção em matéria de ambiente ([^5^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0005)), inclui o compromisso de garantir um elevado nível de protecção das águas balneares, inclusivamente através da revisão da Directiva 76/160/CEE, do Conselho, de 8 de Dezembro de 1975, relativa à qualidade das águas balneares ([^6^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0006)).\n\n(6) Nos termos do Tratado, na elaboração da sua política no domínio do ambiente, a Comunidade deverá ter em conta, nomeadamente, os dados científicos e técnicos disponíveis. A presente directiva deverá recorrer a dados científicos para a aplicação dos parâmetros dos indicadores mais fiáveis com vista a permitir a previsão do risco microbiológico para a saúde e a atingir um nível de protecção elevado, devendo ser efectuados com urgência estudos epidemiológicos mais aprofundados no que respeita aos riscos para a saúde associados à prática balnear, particularmente em águas doces.\n\n(7) Tendo em vista melhorar a eficiência e uma utilização adequada dos recursos, a presente directiva deverá ser estreitamente coordenada com outra legislação comunitária em matéria de água, como a Directiva 91/271/CEE do Conselho, de 21 de Maio de 1991, relativa ao tratamento de águas residuais urbanas ([^7^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0007)), a Directiva 91/676/CEE do Conselho, de 12 de Dezembro de 1991, relativa à protecção das águas contra a poluição causada por nitratos de origem agrícola ([^8^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0008)), e a Directiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2000, que estabelece um quadro de acção comunitária no domínio da política da água ([^9^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0009)).\n\n(8) Deverá ser divulgada aos interessados informação adequada sobre as medidas programadas e sobre os progressos verificados na sua execução. O público deverá ser informado apropriada e oportunamente dos resultados da monitorização da qualidade das águas balneares e das medidas de gestão dos riscos, a fim de prevenir riscos para a saúde, especialmente no contexto de episódios previsíveis de poluição de curta duração ou de situações anormais. Deverão ser aplicadas novas tecnologias que permitam a informação do público, de uma forma eficiente e comparável, sobre a qualidade das águas balneares em toda a Comunidade.\n\n(9) Para fins de monitorização, é necessário aplicar métodos e práticas de análise harmonizados. A observação e a avaliação da qualidade durante um período prolongado de tempo são necessárias para permitir uma classificação realista das águas balneares.\n\n(10) A conformidade deverá ser uma questão de medidas de gestão adequadas e de garantia da qualidade e não se resumir apenas a medições e cálculos. Um sistema de perfis das águas balneares é, pois, adequado para fornecer uma melhor compreensão dos riscos de forma a constituir uma base para as medidas de gestão. Em paralelo, deverá ser prestada uma atenção especial à conformidade com as normas de qualidade e à transição coerente a partir da Directiva 76/160/CEE.\n\n(11) Em 17 de Fevereiro de 2005, a Comunidade ratificou a Convenção da UNECE sobre o Acesso à Informação, a Participação do Público no Processo de Tomada de Decisões e o Acesso à Justiça em matéria de Ambiente (Convenção de Aarhus). Assim sendo, justifica‐se que a presente directiva inclua disposições sobre o acesso do público à informação e preveja a participação do público na sua implementação, complementando a Directiva 2003/4/CE do Parlamento Europeu e do Conselho, de 28 de Janeiro de 2003, relativa ao acesso do público às informações sobre o ambiente ([^10^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0010)), e a Directiva 2003/35/CE do Parlamento Europeu e do Conselho, de 26 de Maio de 2003, que estabelece a participação do público na elaboração de certos planos e programas relativos ao ambiente ([^11^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0011)).\n\n(12) Atendendo a que os objectivos da presente directiva, a saber, a obtenção pelos Estados‐Membros, com base em normas comuns, de uma boa qualidade das águas balneares e de um elevado nível de protecção em toda a Comunidade, não podem ser suficientemente realizados pelos Estados‐Membros e podem ser melhor alcançados ao nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aqueles objectivos.\n\n(13) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^12^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0012)).\n\n(14) A política comunitária relativa às águas balneares revela‐se de uma importância evidente em cada época balnear, dado proteger o público da poluição que surja de maneira acidental ou crónica, nas zonas balneares na Comunidade ou na sua periferia. A qualidade global das águas balneares melhorou consideravelmente desde a entrada em vigor da Directiva 76/160/CEE. A referida directiva reflecte, no entanto, o estado dos conhecimentos e a experiência existente no início da década de 70. Entretanto, os padrões de utilização das águas balneares mudaram e os conhecimentos científicos e técnicos evoluíram. Aquela directiva deve, pois, ser revogada,\n\nADOPTARAM A PRESENTE DIRECTIVA:"
+  },
+  "bca0b1c1f8ec8953": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente directiva, são aplicáveis as seguintes definições:\n\n1. Os termos «águas de superfície», «águas subterrâneas», «águas interiores», «águas de transição», «águas costeiras» e «bacia hidrográfica» têm a mesma acepção que na Directiva 2000/60/CE.\n\n2. «Autoridade competente» significa a autoridade ou autoridades designada(s) por um Estado‐Membro para assegurar o cumprimento das obrigações previstas na presente directiva ou qualquer outra autoridade ou organismo em que tal competência seja delegada.\n\n3. «Permanente» significa, quando relativo a uma proibição ou a um desaconselhamento dos banhos, pelo menos uma época balnear completa.\n\n4. «Grande número» significa, relativamente a banhistas, um número que a autoridade competente considere ser grande com base nomeadamente em tendências passadas ou na presença de quaisquer infra‐estruturas ou instalações disponíveis, ou em outras medidas tomadas para promover os banhos.\n\n5. «Poluição» significa a presença de contaminação microbiológica ou outros organismos ou resíduos que afectem a qualidade das águas balneares e constituam um risco para a saúde dos banhistas, tal como referido nos artigos 8.º e 9.º e na coluna A do anexo I.\n\n6. «Época balnear» significa o período em que se prevê uma grande afluência de banhistas.\n\n7. «Medidas de gestão» significa as medidas a seguir indicadas relativamente às águas balneares:\n\na) Estabelecimento e manutenção de um perfil das águas balneares;\n\nb) Estabelecimento de um calendário de amostragem;\n\nc) Monitorização das águas balneares;\n\nd) Avaliação da qualidade das águas balneares;\n\ne) Classificação das águas balneares;\n\nf) Detecção e avaliação das causas de poluição que possam afectar as águas balneares e prejudicar a saúde dos banhistas;\n\ng) Fornecimento de informação ao público;\n\nh) Desenvolvimento de acções para prevenir a exposição dos banhistas à poluição;\n\ni) Desenvolvimento de acções para reduzir o risco de poluição.\n\n8. «Poluição de curta duração» significa a contaminação microbiológica indicada na coluna A do anexo I, com causas claramente identificáveis, que se preveja que, em princípio, não afectará a qualidade das águas balneares por mais de cerca de 72 horas a contar do momento em que a qualidade dessas águas começou a ser afectada e para a qual a autoridade competente tenha estabelecido procedimentos de previsão e minimização dos seus efeitos, tal como previsto no anexo II.\n\n9. «Situação anormal» significa um acontecimento ou uma combinação de acontecimentos com repercussões na qualidade das águas balneares no local em questão, o qual não se prevê que ocorra, em média, mais do que uma vez de quatro em quatro anos.\n\n10. «Conjunto de dados sobre a qualidade das águas balneares» significa os dados obtidos em conformidade com o artigo 3.º\n\n11. «Avaliação da qualidade das águas balneares» significa o processo de avaliação da qualidade das águas balneares, utilizando o método de avaliação definido no anexo II.\n\n12. «Proliferação de cianobactérias» significa um crescimento de cianobactérias sob a forma de florescência, tapete ou espuma.\n\n13. O termo «público interessado» tem a mesma acepção que na Directiva 85/337/CEE do Conselho, de 27 de Junho de 1985, relativa à avaliação dos efeitos de determinados projectos públicos e privados no ambiente ([^13^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0013))."
+  },
+  "6b5f899eb896bffa": {
+   "fragment_id": "Artigo 5.º — Classificação da qualidade das águas balneares",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Classificação da qualidade das águas balneares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Classificação da qualidade das águas balneares\n\n1. Em função da avaliação da qualidade das águas balneares efectuada em conformidade com o artigo 4.º, os Estados-Membros procedem, em conformidade com os critérios definidos no anexo II, à classificação das águas balneares como:\n\na) «Medíocres»;\n\nb) «Suficientes/aceitáveis»;\n\nc) «Boas»; ou\n\nd) «Excelentes».\n\n2. A primeira classificação em função dos requisitos estabelecidos na presente directiva deve estar concluída até ao final da época balnear de 2015.\n\nNo que respeita a Maiote enquanto região ultraperiférica na aceção do artigo 349.º do Tratado sobre o Funcionamento da União Europeia (a seguir: «Maiote»), o termo do prazo a que se refere o primeiro parágrafo é 31 de dezembro de 2019.\n\n3. Os Estados-Membros garantem que, até ao final da época balnear de 2015, todas as águas balneares sejam, no mínimo, «suficientes». Devem tomar medidas realistas e proporcionadas que considerem adequadas para aumentar o número de águas balneares classificadas como «excelentes» ou «boas».\n\nNo que respeita a Maiote, o termo do prazo a que se refere o primeiro parágrafo é 31 de dezembro de 2031.\n\n4. Contudo, não obstante a obrigação geral estabelecida no n.º 3, as águas balneares podem ser classificadas temporariamente como «medíocres» e continuar a ser conformes com a presente directiva. Nesses casos, os Estados-Membros garantem o cumprimento das seguintes condições:\n\na) Relativamente às águas balneares classificadas como «medíocres», devem ser tomadas as seguintes medidas, com efeito a partir da época balnear que se segue à classificação:\n\ni) medidas de gestão adequadas, incluindo a proibição da prática balnear ou o seu desaconselhamento, para evitar a exposição dos banhistas à poluição,\n\nii) identificação das causas e razões da impossibilidade de obtenção da classificação de qualidade «suficientes»,\n\niii) medidas adequadas para prevenir, reduzir ou eliminar as causas da poluição, e\n\niv) nos termos do artigo 12.º, prevenção do público por meio de um sinal de aviso claro e simples e sua informação das causas da poluição e das medidas tomadas com base no perfil das águas balneares;\n\nb) Se determinadas águas balneares forem classificadas como «medíocres» durante cinco anos consecutivos, deve estabelecer‐se uma proibição ou um desaconselhamento permanentes da prática balnear. Todavia, um Estado‐Membro pode introduzir uma proibição ou um desaconselhamento permanentes da prática balnear antes do final do período de cinco anos se considerar que a obtenção de uma qualidade «suficiente» não é viável ou implica despesas desproporcionadas."
+  },
+  "130680610eda67f5": {
+   "fragment_id": "Artigo 6.º — Perfis das águas balneares",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Perfis das águas balneares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Perfis das águas balneares\n\n1. Os Estados-Membros garantem o estabelecimento de perfis das águas balneares em conformidade com o anexo III. Cada perfil das águas balneares pode abranger uma ou mais águas balneares contíguas. Os perfis das águas balneares serão estabelecidos pela primeira vez em Março de 2011.\n\nNo que respeita a Maiote, o termo do prazo a que se refere o primeiro parágrafo é 30 de junho de 2015.\n\n2. Os perfis das águas balneares são revistos e actualizados nos termos do anexo III.\n\n3. Para elaborar, rever e actualizar os perfis das águas balneares serão devidamente utilizados os dados obtidos através da monitorização e das avaliações realizadas por força da Directiva 2000/60/CE relevantes para efeitos da presente directiva."
+  },
+  "5ff13485220319d4": {
+   "fragment_id": "Artigo 13.º — Relatórios",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Relatórios\n\n1. Os Estados‐Membros fornecem à Comissão os resultados da monitorização e a avaliação da qualidade de todas as águas balneares, bem como uma descrição das principais medidas de gestão tomadas. Os Estados‐Membros fornecem estas informações todos os anos até 31 de Dezembro, relativamente à época balnear anterior. Devem começar a fornecê‐las logo que tenha sido efectuada a primeira avaliação da qualidade das águas balneares, em conformidade com o artigo 4.º\n\n2. Os Estados‐Membros devem notificar todos os anos a Comissão, antes do início da época balnear, de todas as águas identificadas como águas balneares, indicando a razão de eventuais alterações em relação ao ano anterior. Devem fazê‐lo pela primeira vez antes do início da primeira época balnear após Março de 2008.\n\nNo que respeita a Maiote, o termo do prazo a que se refere o primeiro parágrafo é 30 de junho de 2014.\n\n3. Uma vez iniciada a monitorização das águas balneares ao abrigo da presente directiva, o relatório anual a enviar à Comissão nos termos do n.º 1 continuará a ser elaborado em conformidade com a Directiva 76/160/CEE até que seja possível efectuar a primeira avaliação ao abrigo da presente directiva. Durante esse período, o parâmetro 1 do anexo da Directiva 76/160/CEE não será tido em consideração no relatório anual e os parâmetros 2 e 3 do anexo da Directiva 76/160/CEE presumem‐se equivalentes aos parâmetros 2 e 1 da coluna A do anexo I da presente directiva.\n\n4. A Comissão publicará um relatório anual de síntese sobre a qualidade das águas balneares na Comunidade, incluindo a classificação das águas balneares, a conformidade com a presente directiva e as principais medidas de gestão tomadas. A Comissão publicará o referido relatório até 30 de Abril de cada ano, inclusive através da internet. Na elaboração do relatório, a Comissão utilizará da melhor forma, sempre que possível, os sistemas de recolha, avaliação e apresentação de dados previstos na legislação comunitária conexa, em especial na Directiva 2000/60/CE."
+  },
+  "ba73adbb2fc12dc0": {
+   "fragment_id": "Águas interiores",
+   "type": "divisao",
+   "heading": "Águas interiores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Águas interiores\n\n|  | A | B | C | D | E |\n| --- | --- | --- | --- | --- | --- |\n| Parâmetro | Qualidade excelente | Qualidade boa | Qualidade suficiente | Métodos de análise de referência |  |\n| 1 | Enterococos intestinais em ufc/100 ml | 200 [(^1^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0014) | 400 [(^1^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0014) | 330 [(^2^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0015) | ISO 7899‐1 ou ISO 7899‐2 |\n| 2 | *Escherichia coli* em ufc/100 ml | 500 [(^1^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0014) | 1 000 [(^1^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0014) | 900 [(^2^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0015) | ISO 9308‐3 ou ISO 9308‐1 |\n| (^1^)Com base numa avaliação de percentil 95. Ver anexo II. (^2^)Com base numa avaliação de percentil 90. Ver anexo II. |  |  |  |  |  |"
+  },
+  "64deff793a47cdee": {
+   "fragment_id": "Águas costeiras e de transição",
+   "type": "divisao",
+   "heading": "Águas costeiras e de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Águas costeiras e de transição\n\n|  | A | B | C | D | E |\n| --- | --- | --- | --- | --- | --- |\n| Parâmetro | Qualidade excelente | Qualidade boa | Qualidade suficiente | Métodos de análise de referência |  |\n| 1 | Enterococos intestinais em ufc/100 ml | 100 [(^1^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0016) | 200 [(^1^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0016) | 185 [(^2^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0017) | ISO 7899‐1 ou ISO 7899‐2 |\n| 2 | *Escherichia coli* em ufc/100 ml | 250 [(^1^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0016) | 500 [(^1^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0016) | 500 [(^2^)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0017) | ISO 9308‐3 ou ISO 9308‐1 |\n| (^1^)Com base numa avaliação de percentil 95. Ver anexo II. (^2^)Com base numa avaliação de percentil 90. Ver anexo II. |  |  |  |  |  |"
+  },
+  "bd1f00c260a34331": {
+   "fragment_id": "1. Qualidade medíocre",
+   "type": "divisao",
+   "heading": "1. Qualidade medíocre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Qualidade medíocre\n\nAs águas balneares são classificadas como «medíocres» se, no conjunto de dados recolhidos sobre a qualidade das águas balneares para o último período de avaliação ([^14^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0018)), os valores de percentil ([^15^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0019)) para as contagens microbiológicas forem inferiores ([^16^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0020)) ao valor de «qualidade suficiente» indicado na coluna D do anexo I."
+  },
+  "a8bae1c793e6d61e": {
+   "fragment_id": "2. Qualidade suficiente",
+   "type": "divisao",
+   "heading": "2. Qualidade suficiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Qualidade suficiente\n\nAs águas balneares são classificadas como «suficientes» se:\n\n1) No conjunto dos dados recolhidos sobre a qualidade das águas balneares para o último período de avaliação, os valores de percentil para as contagens microbiológicas forem iguais ou superiores ([^17^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0021)) aos valores de «qualidade suficiente» dos parâmetros indicados na coluna D do anexo I; e\n\n2) A água balnear apresentar uma poluição de curta duração, desde que:\n\ni) estejam a ser tomadas medidas de gestão adequadas, incluindo a vigilância, os sistemas de alerta precoce e a monitorização, para evitar a exposição dos banhistas através de uma advertência e, se necessário, de uma proibição da prática balnear,\n\nii) estejam a ser tomadas medidas de gestão adequadas para prevenir, reduzir ou eliminar as causas da poluição, e\n\niii) o número de amostras não consideradas, de acordo com o n.º 6 do artigo 3.º, devido a poluição de curta duração durante o último período de avaliação não represente mais de 15 % do número total de amostras previstas nos calendários de amostragem fixados para esse período, ou mais do que uma amostra por estação balnear, sendo o nível a considerar o mais elevado."
+  },
+  "a815c51b8ffbd791": {
+   "fragment_id": "3. Boa qualidade",
+   "type": "divisao",
+   "heading": "3. Boa qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. Boa qualidade\n\nAs águas balneares são classificadas como «boas» se:\n\n1) No conjunto dos dados recolhidos sobre a qualidade das águas balneares para o último período de avaliação, os valores de percentil para as contagens microbiológicas forem iguais ou superiores [(17)](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#E0021) aos valores de «boa qualidade» indicados na coluna C do anexo I; e\n\n2) A água balnear apresentar uma poluição de curta duração, desde que:\n\ni) estejam a ser tomadas medidas de gestão adequadas, incluindo a vigilância, os sistemas de alerta precoce e a monitorização, para evitar a exposição dos banhistas através de uma advertência e, se necessário, de uma proibição da prática balnear,\n\nii) Estejam a ser tomadas medidas de gestão adequadas para prevenir, reduzir ou eliminar as causas da poluição, e\n\niii) o número de amostras não consideradas, de acordo com o n.º 6 do artigo 3.º, devido a poluição de curta duração durante o último período de avaliação não represente mais de 15 % do número total de amostras previstas nos calendários de amostragem fixados para esse período, ou mais do que uma amostra por estação balnear, sendo o nível a considerar o mais elevado."
+  },
+  "e1abaf60ad97aa00": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0001)) JO C 45 E de 25.2.2003, p. 127.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0002)) JO C 220 de 16.9.2003, p. 39.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0003)) JO C 244 de 10.10.2003, p. 31.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0004)) Parecer do Parlamento Europeu de 21 de Outubro de 2003 (JO C 82 E de 1.4.2004, p. 115), Posição Comum do Conselho de 20 de Dezembro de 2004 (JO C 111 E de 11.5.2005, p. 1) e Posição do Parlamento Europeu de 10 de Maio de 2005 (ainda não publicada no Jornal Oficial). Resolução legislativa do Parlamento Europeu de 18 de Janeiro de 2006 (ainda não publicada no Jornal Oficial) e Decisão do Conselho de 20 de Dezembro de 2005.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0005)) JO L 242 de 10.9.2002, p. 1.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0006)) JO L 31 de 5.2.1976, p. 1. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 807/2003 (JO L 122 de 16.5.2003, p. 36).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0007)) JO L 135 de 30.5.1991, p. 40. Directiva com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 1882/2003 do Parlamento Europeu e do Conselho (JO L 284 de 31.10.2003, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0008)) JO L 375 de 31.12.1991, p. 1. Directiva alterada pelo Regulamento (CE) n.º 1882/2003.\n\n> ([^9^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0009)) JO L 327 de 22.12.2000, p. 1. Directiva alterada pela Decisão n.º 2455/2001/CE (JO L 331 de 15.12.2001, p. 1).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0010)) JO L 41 de 14.2.2003, p. 26.\n\n> ([^11^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0011)) JO L 156 de 25.6.2003, p. 17.\n\n> ([^12^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0012)) JO L 184 de 17.7.1999, p. 23 (rectificação no JO L 269 de 19.10.1999, p. 45).\n\n> ([^13^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0013)) JO L 175 de 5.7.1985, p. 40. Directiva com a última redacção que lhe foi dada pela Directiva 2003/35/CE do Parlamento Europeu e do Conselho (JO L 156 de 25.6.2003, p. 17).\n\n> ([^14^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0018)) Por último «período de avaliação», entendem‐se as quatro últimas épocas balneares ou, eventualmente, o período especificado nos n.ºs 2 ou 4 do artigo 4.º\n\n> ([^15^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0019)) Com base na avaliação do percentil na função normal da densidade de probabilidade log10 dos dados microbiológicos obtidos numa determinada zona balnear, o valor do percentil é derivado da seguinte forma:\n\ni) tomar o valor log10 de todas as contagens de bactérias na sequência de dados a avaliar (se se obtiver um valor 0, tomar antes o valor log10 do nível mínimo de detecção do método analítico utilizado),\n\nii) calcular a média aritmética dos valores log10 (μ),\n\niii) Calcular o desvio‐padrão dos valores log10 (σ).\n\n> O ponto superior do percentil 90 da função de densidade da probabilidade dos dados é derivado da seguinte equação: superior a percentil 90 = antilog (μ + 1,282 σ).\n\n> O ponto superior do percentil 95 na função de densidade de probabilidade dos dados é derivado da seguinte equação: superior a percentil 95 = antilog (μ + 1,65 σ).\n\n> ([^16^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0020)) «Inferior» significa com valores de concentração superiores expressos em ufc/100 ml.\n\n> ([^17^](http://publications.europa.eu/resource/cellar/c137dbd0-21c5-492f-81ad-736a1295fc68.0019.02/DOC_1#src.E0021)) «Superior» significa com valores de concentração inferiores expressos em ufc/100 ml."
+  }
+ }
+}

@@ -1,0 +1,446 @@
+---
+schema_version: '1.0'
+id: pt:dre:416073:por
+title: Decreto-Lei n.º 261-A/91
+short_title: null
+summary: Estabelece o novo regime fiscal aplicável aos produtos petrolíferos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 261-A/91
+official_date: null
+publication_date: '1991-07-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 169/1991, 1º Suplemento, Série I-A de 1991-07-25
+  number: '169'
+  series: I
+  supplement: null
+  pages: 3716-(2) a 3716-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/261-a/1991/07/25/p/dre/pt/html
+  oj: null
+  dre: '416073'
+  dre_path: /dr/detalhe/decreto-lei/261-a-1991-416073
+  internal: pt:dre:416073:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073
+  metadata_url: https://data.dre.pt/eli/dec-lei/261-a/1991/07/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:09:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c6e5a63c7faa7276bc66ab77ad39fc5d1eeb4259ca5d86da8624d678972b6eeb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:09:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Combustível
+- Contribuições e Impostos
+- Direcção Geral da Concorrência e Preços
+- Direcção Geral das Alfândegas
+- Direcção Geral de Energia
+- Fuelóleo
+- Gasolina
+- Imposto sobre Produtos Petrolíferos
+- Infracção Fiscal
+- Preço
+- Preço de Venda
+- Preço Máximo
+- Produto Petrolífero
+- Regime Fiscal
+relationships:
+- type: amended_by
+  target: pt:dre:463592:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:numero:decreto-lei:225/93
+  label: RECTIFICADO PELA DECLARACAO RECTIFICACAO 205/91, PUBLICADA NO DR.IS-A, 225, SUPL, DE 910930. REVOGADO O NUMERO 2
+    DO ARTIGO 14, PELO DECRETO LEI 225/93, PUBLICADO NO DR.IS-A, 143, DE 930621. 621.
+  source: null
+  date: '1991-09-30'
+- type: amended_by
+  target: pt:dre:288233:por
+  label: "Alterados os arts. 7º e 17º pelo DEC LEI.376/91.09.10.1991.MF, DR.IS-A [232] de 09.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/376-1991-288233
+  date: '1991-10-09'
+- type: amended_by
+  target: pt:dre:626237:por
+  label: "Alterados os arts. 4.º, 7.º e 8.º pela LEI.2/92.1992.03.09.AR DR.IS-A [57]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2-1992-626237
+  date: '1992-03-09'
+- type: amended_by
+  target: pt:dre:444447:por
+  label: "Alterada a al. c) do n.º 2 e n.º 12 ambos do art. 17.º, o art. 13.º e os n.ºs. 5 e 6 do art. 18.º, pela LEI.30-C/92.1992.12.28.AR\
+    \ DR.IS-A [298]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/30-c-1992-444447
+  date: '1992-12-28'
+- type: amended_by
+  target: pt:dre:311209:por
+  label: "Alterado o art. 18º, e os nºs. 6 e 9 do art. 7º enquanto não for utilizada a autorização legislativa referida no\
+    \ seu art. 40º, pela LEI.75/93.1993.12.20.AR,DR.IS-A [295]SUPL\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/75-1993-311209
+  date: '1993-12-20'
+- type: cites
+  target: pt:dre:221546:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309905:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:402909:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:417195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469072:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:605547:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:606559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662926:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:262357:por
+  label: "Revogado pelo DEC LEI.124/94.1994.05.18.MF, DR.IS-A [115], salvo no que se refere aos nºs 1 a 3 do art. 7º e art.\
+    \ 8º, que se mantêm em vigor , nas Regiões Autónomas da Madeira e dos Açores, até á data de entrada em vigor das Port\
+    \ referidas no nº 1 do art. 5º do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/124-1994-262357
+  date: '1994-05-18'
+article_structure:
+  article_count: 21
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:09:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 261-A/91
+
+de 25 de Julho
+
+O regime fiscal aplicável aos combustíveis, constante do presente diploma, tem como principal objectivo clarificar e simplificar a tributação dos produtos petrolíferos. Na verdade, são eliminados vários impostos e são significativamente reduzidas as exigências burocráticas motivadas pelo cálculo mensal das taxas.
+
+Simultaneamente, foram tidas em consideração as propostas comunitárias de harmonização do imposto especial sobre produtos petrolíferos, bem como, na medida do possível, a liberalização dos preços de venda ao público e as especificidades da tributação dos combustíveis nas Regiões Autónomas dos Açores e da Madeira.
+
+A presente iniciativa insere-se no processo de liberalização do mercado de combustíveis em causa, conforme deliberado pelo Governo.
+
+Ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira;
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 38.º e pelas alíneas a) e b) do n.º 2 do artigo 43.º da [Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/lei/65-1990-469072), de 28 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito de aplicação territorial
+
+O imposto sobre os produtos petrolíferos, abreviadamente designado por ISP, aplica-se em todo o território nacional.
+
+###### Artigo 2.º — Factos geradores do imposto sobre os produtos petrolíferos
+
+1 - São factos geradores do ISP:
+
+a) A introdução no consumo das mercadorias sujeitas a ISP;
+
+b) A introdução irregular no consumo das mercadorias sujeitas a ISP;
+
+c) A não utilização no fim declarado ou a utilização em fins diferentes das mercadorias introduzidas no consumo com isenção do ISP;
+
+d) O consumo na alimentação automóvel das mercadorias referidas no n.º 4 do artigo 3.º
+
+2 - A data a considerar para determinação do momento em que se verifica o facto gerador do ISP é a data da aceitação da declaração de introdução no consumo das mercadorias, nos termos da legislação aduaneira aplicável.
+
+3 - Nos casos referidos nas alíneas b), c) e d) do n.º 1 do presente artigo, a data a considerar para a determinação do momento em que se verifica o facto gerador do ISP é a data em que se verificarem esses eventos ou, na impossibilidade da sua determinação, a data em que a administração fiscal deles tomar conhecimento.
+
+###### Artigo 3.º — Incidência
+
+1 - O ISP incide sobre as mercadorias classificadas pelos códigos da Nomenclatura Combinada (NC) a seguir designados:
+
+2710 00 31;
+
+2710 00 33;
+
+2710 00 35;
+
+2710 00 55;
+
+2710 00 69;
+
+2710 00 79;
+
+2711 00 00.
+
+2 - No que se refere ao código 2710 00 31 da NC, somente as mercadorias consumidas em voos privados de recreio estão sujeitas ao ISP.
+
+3 - No que se refere aos códigos 2711 00 00 da NC, somente as mercadorias consumidas como carburante na alimentação automóvel e o gás de cidade estão sujeitos ao ISP.
+
+4 - O ISP incide, também, sobre as mercadorias que, embora classificados por código da NC diferentes dos referidos nos números anteriores, sejam efectivamente utilizadas como combustível ou carburante automóvel.
+
+###### Artigo 4.º — Isenções
+
+1 - Estão isentas do ISP as mercadorias que, comprovadamente, se destinem:
+
+a) A embaixadas e missões diplomáticas e consulares, bem como aos seus agentes, em regime de reciprocidade, de acordo com o disposto nas Convenções de Viena de 18 de Abril de 1961 e de 24 de Abril de 1963 e da Convenção de Nova Iorque de 16 de Dezembro de 1969;
+
+b) Ao abastecimento das embarcações de pesca e de navegação costeira, com exclusão das embarcações desportivas ou de recreio;
+
+c) A serem consumidas, quer na produção de electricidade, quer na produção de gás de cidade, por entidades que desenvolvam tal actividade no âmbito da prestação de um serviço público e que o mesmo constitua a sua actividade principal;
+
+d) A serem consumidas pelas forças armadas estrangeiras estacionadas em Portugal, quer no âmbito de relações bilaterais quer no âmbito de organizações internacionais, desde que as respectivas convenções prevejam tal possibilidade;
+
+e) A serem utilizadas em usos técnicos, de acordo com os procedimentos aplicáveis às mercadorias importadas com destinos especiais, excepto como combustível ou carburante automóvel.
+
+2 - O estabelecido na alínea b) do número anterior só é aplicável às mercadorias classificadas pelos códigos 2710 00 69 e 2710 00 79 da NC.
+
+3 - O estabelecido na alínea c) do n.º 1 só é aplicável às mercadorias classificadas pelo código 2710 00 79 da NC, salvo no que se refere aos consumos feitos na Região Autónoma dos Açores e na ilha de Porto Santo, da Região Autónoma da Madeira, em que se aplicará, também, às mercadorias classificadas pelo código 2710 00 69 da mesma Nomenclatura.
+
+4 - As isenções previstas no presente artigo poderão ser concedidas através do mecanismo da devolução do imposto pago.
+
+###### Artigo 5.º — Sujeitos passivos
+
+1 - São sujeitos passivos do ISP as pessoas singulares ou colectivas em nome das quais são declaradas para introdução no consumo as mercadorias referidas nos n.os 1, 2 e 3 do artigo 3.º
+
+2 - Nos casos referidos nas alíneas b) e d) do n.º 1 do artigo 2.º, são sujeitos passivos do ISP as pessoas singulares e colectivas que detenham, utilizem ou que tenham beneficiado com o consumo das mercadorias.
+
+###### Artigo 6.º — Unidade tributável
+
+1 - O litro, convertido para a temperatura de referência, 15º centígrados, é a unidade tributável para as mercadorias classificadas pelos seguintes códigos da NC:
+
+2710 00 31;
+
+2710 00 33;
+
+2710 00 35;
+
+2710 00 55;
+
+2710 00 69.
+
+2 - Para as mercadorias classificadas pelo código 2710 00 79 da NC, a unidade tributável é o quilograma-ar.
+
+3 - Para as mercadorias classificadas pelos códigos 2711 00 00 da NC, com exclusão do gás de cidade, a unidade tributável é o litro.
+
+4 - Para o gás de cidade classificado pelo código 2711 29 00 da NC, a unidade tributável é o metro cúbico.
+
+###### Artigo 7.º — Taxas
+
+1 - A taxa unitária do ISP do continente é, para a gasolina super classificada pelo código 2710 00 35 da NC, para o fuelóleo com teor de enxofre superior a 1%, classificado pelo código 2710 00 79 da NC, e para as mercadorias classificadas pelo código 2710 00 69 da mesma Nomenclatura, em cada mês (m), salvo o disposto no n.º 2 do artigo 18.º, igual à diferença entre o preço máximo de venda ao público fixado pelo Governo (PMVP), com exclusão do IVA, e a soma de PE com FC, sendo calculada de acordo com a seguinte fórmula:
+
+TISP = (PMVP/(1 + t)) - (PE + FC)
+
+2 - Para efeitos do presente decreto-lei entende-se por:
+
+a) TISP - a taxa unitária do ISP;
+
+b) PMVP - o preço máximo de venda ao público fixado pelo Governo;
+
+c) PE - o «preço da Europa sem taxas», resultante da ponderação dos preços publicados periodicamente pela CEE para a República Federal da Alemanha, França, Bélgica, Dinamarca e Espanha, relativos aos 30 dias que antecedem o dia 25 do mês (m - 1), com os consumos anuais mais recentes de cada produto conhecidos para aqueles países antes do mês (m);
+
+d) FC - o factor de correcção para o mercado português assumindo, em 1991, o valor de 2$00 por litro ou por quilograma, consoante a unidade de tributação das mercadorias sujeitas a ISP;
+
+e) t - a taxa do imposto sobre o valor acrescentado (IVA) aplicável a cada mercadoria.
+
+3 - A conversão para escudos dos valores em moeda estrangeira dos preços publicados pela CEE, referidos na definição de PE constante da alínea c) do número anterior, será feita através das cotações de venda do Banco de Portugal, dos respectivos dias ou, no caso de tais cotações não existirem, nas cotações do dia seguinte, constantes da publicação Cotação de Divisas Fixing para Clientes, do referido Banco.
+
+4 - Os valores unitários das taxas do ISP do continente das mercadorias referidas no n.º 1 devem respeitar os limites constantes do quadro seguinte:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf)
+
+com as seguintes ressalvas:
+
+a) Podem exceder os máximos por força de variações do PE;
+
+b) Podem vir abaixo dos mínimos por força de variações do PE, mas, se a descida ultrapassar, num período de três meses, 10% dos mesmos limites, o Governo procederá aos ajustamentos necessários nos preços máximos de venda ao público, para que as taxas do ISP regressem aos limites acima fixados.
+
+5 - A taxa do ISP aplicável às mercadorias classificadas pelo código 2710 00 55 da NC é de 30$00 por litro e a taxa aplicável às mercadorias utilizadas como carburante automóvel classificadas pelo código 2711 00 00 da NC é de 15$00 por litro.
+
+6 - A taxa do ISP aplicável às mercadorias classificadas pelo código 2710 00 33 da NC (gasolinas sem chumbo) é inferior, em 12$00 por litro, à taxa aplicável à gasolina super classificada pelo código 2710 00 35 da mesma Nomenclatura.
+
+7 - A taxa do ISP aplicável à gasolina normal é igual à taxa aplicável à gasolina super.
+
+8 - A taxa do ISP aplicável às mercadorias classificadas pelo código 2710 00 31 da NC, referidas no n.º 2 do artigo 3.º, é igual à taxa aplicável à gasolina super classificada pelo código 2710 00 35 da mesma Nomenclatura.
+
+9 - A taxa do ISP aplicável ao fuelóleo com teor de enxofre inferior ou igual a 1% é inferior em 3$00 por quilograma, sem prejuízo do limite mínimo previsto no n.º 4, à taxa aplicável ao fuelóleo com teor de enxofre superior a 1%.
+
+10 - Nos casos referidos no n.º 4 do artigo 3.º, a taxa do imposto é igual à taxa aplicável à mercadoria substituída.
+
+11 - Para as mercadorias classificadas pelo código 2710 00 69 da NC, para o fuelóleo com teor de enxofre superior a 1% classificado pelo código 2710 00 79 da NC e para a gasolina super classificada pelo código 2710 00 35 da mesma Nomenclatura, as taxas do ISP, calculadas nos termos dos n.os 1 a 4, são, conjuntamente com os respectivos cálculos, comunicados às Direcções-Gerais de Energia e de Concorrência e Preços e, posteriormente, publicadas no Diário da República, mediante despacho do membro do Governo responsável pelos assuntos fiscais, no mês anterior àquele em que se aplicarem.
+
+12 - A taxa do ISP aplicável ao gás de cidade, classificado pelo código NC 2711 29 00, é de 19$00 por metro cúbico.
+
+###### Artigo 8.º — Taxas especiais aplicáveis nas Regiões Autónomas
+
+1 - As taxas do ISP aplicáveis na Região Autónoma da Madeira são inferiores às taxas aplicáveis no continente, a fim de compensar os custos de insularidade, nos seguintes valores:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf)
+
+2 - Com excepção das mercadorias classificadas pelo código 2710 00 55 da NC, cuja taxa aplicável será de 15$00 por litro, as taxas do ISP aplicáveis nas várias ilhas da Região Autónoma dos Açores são inferiores às taxas aplicáveis no continente, a fim de compensar os custos de transporte (CT) motivados pela insularidade e pela dispersão.
+
+3 - O custo de transporte referido no número anterior será determinado, trimestralmente, pelo Governo Regional dos Açores, que o comunicará à Direcção-Geral das Alfândegas até ao dia 26 do mês anterior ao do trimestre em que se aplicar, sendo constituído pela soma dos seguintes elementos:
+
+CT = Tc + A1 + Ta + A2
+
+em que:
+
+a) Tc representa o sobrecusto unitário do transporte entre o continente e os Açores;
+
+b) A1 representa o sobrecusto unitário da armazenagem da mercadoria na ilha em que se deu a descarga;
+
+c) Ta representa o custo unitário do transporte entre a ilha referida na alínea b) e a ilha onde o produto será consumido;
+
+d) A2 representa o custo unitário da armazenagem na ilha onde o produto será consumido.
+
+###### Artigo 9.º — Exigibilidade
+
+Sem prejuízo dos prazos de pagamento fixados no artigo 11.º, o ISP torna-se exigível na data do registo da liquidação do documento aduaneiro referido no n.º 1 do artigo 16.º
+
+###### Artigo 10.º — Liquidação
+
+1 - Os sujeitos passivos autoliquidarão, com base nas declarações de introdução no consumo, até ao dia 5 do mês seguinte àquele em que ocorreram tais introduções, o ISP a pagar, bem como o respectivo IVA, enviando à Direcção-Geral das Alfândegas um exemplar da liquidação, considerando-se automaticamente notificados do montante a pagar, salvo comunicação em contrário da Direcção-Geral das Alfândegas.
+
+2 - Na falta da comunicação referida no número anterior ou no caso de constatação de qualquer engano ou irregularidade, a Direcção-Geral das Alfândegas liquidará o ISP e o respectivo IVA e procederá ao correspondente registo da liquidação, até ao dia 8 do mês seguinte àquele em que ocorreram as introduções no consumo, notificando os sujeitos passivos do montante a pagar, até ao subsequente dia 10.
+
+3 - Nos casos que originem cobranças a posteriori, bem como nos previstos nas alíneas b), c) e d) do n.º 1 do artigo 2.º, a liquidação do ISP e do respectivo IVA será feita pela Direcção-Geral das Alfândegas, que notificará os sujeitos passivos do montante a pagar.
+
+###### Artigo 11.º — Cobrança
+
+1 - Até ao dia 15 de cada mês, os titulares de declarações de introdução no consumo são obrigados a pagar, na tesouraria de qualquer alfândega do continente ou das Regiões Autónomas, o imposto devido, relativamente às introduções no consumo processados no mês anterior, sem direito a qualquer fraccionamento.
+
+2 - Nos casos previstos no n.º 3 do artigo 10.º, as importâncias liquidadas serão pagas no prazo de cinco dias contados a partir da data da notificação.
+
+3 - Não sendo pago o imposto nos prazos previstos nos números anteriores, começarão a correr imediatamente juros de mora.
+
+4 - Verificando-se o facto referido no número anterior, a Direcção-Geral das Alfândegas só poderá permitir a introdução no consumo de mercadorias sujeitas a ISP após a constituição de garantia das importâncias em dívida e dos respectivos juros de mora.
+
+5 - Passados 30 dias sobre o vencimento do imposto sem que tenha sido efectuado o respectivo pagamento, haverá lugar a liquidação da garantia ou a procedimento executivo.
+
+6 - Nos dois primeiros dias úteis posteriores ao dia 15 de cada mês, a alfândega transferirá para as Regiões Autónomas da Madeira e dos Açores o montante cobrado de ISP relativo às introduções no consumo para aquelas Regiões Autónomas processadas no mês anterior.
+
+###### Artigo 12.º — Valor tributável IVA
+
+Na declaração para consumo das mercadorias para as quais são publicados pela CEE preços Europa sem taxas (PE), o valor tributábel previsto no artigo 17.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro, não poderá ser inferior a 70% do valor do PE referido no n.º 2 do artigo 7.º
+
+###### Artigo 13.º — Arredondamentos
+
+1 - Para as mercadorias classificadas pelos códigos da NC 2710 00 31, 2710 00 33, 2710 00 35, 2710 00 69 e 2710 00 79, as taxas do ISP são fixadas com arredondamentos ao nível dos escudos.
+
+2 - Na ponderação referida na definição de PE, constante do n.º 2 do artigo 7.º, os arredondamentos serão feitos ao nível do terceiro algarismo à direita da vírgula.
+
+###### Artigo 14.º — Regime de preços
+
+1 - Deixam de estar sujeitas ao regime de preços máximos de venda ao público, quer no continente, quer nas Regiões Autónomas da Madeira e dos Açores, as mercadorias classificadas pelos códigos da NC 2710 00 33 e 2710 00 55, a gasolina normal classificada pelo código 2710 00 35 e o fuelóleo com teor de enxofre inferior ou igual a 1%, classificado pelo código 2710 00 79 da mesma Nomenclatura.
+
+2 - Para as mercadorias referidas no n.º 1 do artigo 7.º, que se mantêm no regime de preços máximos de venda ao público, a margem de comercialização da revenda, que faz parte integrante do montante constituído pelo PE acrescido do FC, será fixada pelas Direcções-Gerais de Energia e de Concorrência e Preços.
+
+###### Artigo 15.º — Dever de colaboração com a Administração
+
+1 - As pessoas singulares ou colectivas titulares de declarações de introdução no consumo no continente de mercadorias sujeitas a ISP remeterão à Direcção-Geral das Alfândegas e à Direcção-Geral de Energia, até ao último dia do mês seguinte àquele em que se verificaram, mapas com a informação relativa às vendas por distritos, consumos próprios, exportações, reexportações e introduções no consumo isentas.
+
+2 - Os mpas referidos no número anterior serão, no que se refere às Regiões Autónomas, elaborados por ilha, sendo uma cópia dos mesmos enviada à respectiva direcção regional de energia.
+
+###### Artigo 16.º — Impressos
+
+1 - As liquidações referidas no artigo 10.º serão feitas no impresso anexo ao presente diploma, que dele faz parte integrante.
+
+2 - O impresso referido no n.º 1 poderá ser editado por computador e poderá conter, no canto superior esquerdo, o logótipo da empresa petrolífera distribuidora, desde que, no restante, respeite a disposição do modelo aprovado e contemple a totalidade dos elementos exigidos.
+
+3 - As devoluções do imposto referidas no n.º 4 do artigo 4.º poderão ser processadas em impresso editado por computador, desde que o mesmo respeite a disposição do modelo aprovado por despacho do membro do Governo responsável pelos assuntos fiscais e contemple a totalidade dos elementos exigidos.
+
+###### Artigo 17.º — Norma sancionatória
+
+A falta de cumprimento quer do disposto no n.º 1 do artigo 10.º, quer do disposto no artigo 15.º constitui contra-ordenação, prevista e punida nos termos do n.º 2 do artigo 1.º do Regime Jurídico das Infracções Fiscais Aduaneiras, aprovado pelo [Decreto-Lei n.º 376-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-a-1989-302294), de 25 de Outubro.
+
+###### Artigo 18.º — Alteração dos preços máximos de venda ao público (PMVP)
+
+1 - O Governo fixará os PMVP de modo a respeitar os limites dos valores unitários das taxas de ISP fixados no n.º 4 do artigo 7.º
+
+2 - Sempre que um valor semanal constituinte de PE variar numa percentagem igual ou superior a 5% em relação ao valor da semana anterior, as Direcções-Gerais das Alfândegas, de Energia e de Concorrência e Preços informarão o Governo que poderá fixar, de imediato, novo PE e alterar os valores dos PMVP, a fim de repor a situação anterior.
+
+3 - As alterações dos PMVP referidas no n.º 1 entrarão em vigor às 0 horas do 1.º dia do mês seguinte ao da sua aprovação, aplicando-se exclusivamente às mercadorias declaradas para consumo após aquela data.
+
+4 - As alterações dos PMVP referidas no n.º 2 entrarão em vigor às 0 horas do dia imediato ao da sua aprovação, aplicando-se exclusivamente às mercadorias declaradas para consumo após aquela data.
+
+5 - Os PMVP serão fixados em escudos exactos.
+
+###### Artigo 19.º — Disposições finais e transitórias
+
+1 - As empresas distribuidoras de mercadorias sujeitas a ISP que operem na Região Autónoma dos Açores comunicarão à Direcção-Geral das Alfândegas, até ao 30.º dia posterior à data de publicação do presente diploma, as existências, às 0 horas do dia 1 de Janeiro de 1991, de mercadorias já declaradas para consumo mas ainda não vendidas.
+
+2 - As existências referidas no número anterior, discriminadas por ilha, serão tributadas em ISP com as taxas em vigor no mês de Janeiro de 1991.
+
+###### Artigo 20.º — Normas revogadas
+
+1 - São revogados os artigos 1.º, 2.º e 3.º do [Decreto-Lei n.º 127/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1983-309905), de 10 de Março, o artigo 41.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o [Decreto-Lei n.º 292/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1987-417195), de 30 de Julho, o [Decreto-Lei n.º 133/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1982-606559), de 23 de Abril, a [Portaria n.º 99/87](https://diariodarepublica.pt/dr/detalhe/portaria/99-1987-662926), de 12 de Fevereiro, e a [Portaria n.º 573/86](https://diariodarepublica.pt/dr/detalhe/portaria/573-1986-221546), de 4 de Outubro.
+
+2 - A revogação do [Decreto-Lei n.º 133/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1982-606559) reporta os seus efeitos a 1 de Março de 1990, no que se refere aos produtos petrolíferos utilizados como matéria-prima.
+
+###### Artigo 21.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos desde o dia 1 de Janeiro de 1991.
+
+Visto e aprovado em Conselho de Ministros de 28 de Março de 1991. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
+
+Promulgado em 19 de Junho de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 22 de Junho de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1991/07/169a01/00020006.pdf)

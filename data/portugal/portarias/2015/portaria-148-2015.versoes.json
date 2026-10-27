@@ -1,0 +1,168 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67289914:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-123393388",
+ "dre_path": "/dr/detalhe/portaria/148-2015-67289914",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-05-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123357305",
+    "123357306",
+    "123357307",
+    "123357308",
+    "123357309",
+    "123357310",
+    "123357312",
+    "123357313"
+   ]
+  },
+  {
+   "date": "2019-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123368227:por",
+     "title": "Portaria n.º 229/2019",
+     "published": "2019-07-22",
+     "dre_path": "/dr/detalhe/portaria/229-2019-123368227"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "123357305",
+    "123357306",
+    "123357323",
+    "123357324",
+    "123357309",
+    "123357310",
+    "123357311",
+    "123357325",
+    "123357326"
+   ]
+  }
+ ],
+ "fragments": {
+  "123357305": {
+   "fragment_id": "123393389",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 148/2015\n\nde 25 de maio\n\nA Portaria n.º 354/2013, de 9 de dezembro, estabelece o âmbito da intervenção do Ministério da Agricultura e do Mar (MAM) e dos seus serviços e organismos em matéria de formação profissional nas áreas da agricultura, das florestas, do agroalimentar e do desenvolvimento rural, bem como o respetivo modelo de regulação, de certificação, de supervisão e de acompanhamento.\n\nAquela Portaria institui a Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) como serviço central do MAM com atribuições específicas em matéria de formação profissional nas áreas da agricultura, das florestas, do agroalimentar e do desenvolvimento rural, e atribui aos outros serviços centrais e organismos do MAM com atribuições nestas áreas e às Direções Regionais de Agricultura e Pescas (DRAP) um papel coadjuvante da DGADR no âmbito da formação profissional.\n\nOs procedimentos inerentes à certificação de entidades formadoras e à homologação de ações de formação constituem atos essenciais para garantir a qualidade da formação, a comprovação das competências adquiridas e a utilidade económica, profissional, social e pessoal da formação, sendo necessário, porém, assegurar a mobilização dos recursos necessários para a realização daqueles procedimentos.\n\nSimultaneamente, verifica-se que o MAM dispõe de competências na área da formação que lhe permitem prestar serviços nos diversos domínios do ciclo de formação, que estão disponíveis em caso de solicitação e desde que compatíveis com a atividade em curso, constituindo, pois, uma potencial fonte de receitas.\n\nNeste contexto, a Portaria n.º 354/2013, de 9 de dezembro, prevê que a cobrança de taxas pelos serviços prestados, entre outros, com os procedimentos efetuados no âmbito da certificação de entidades formadoras e da homologação de ações de formação, com a bolsa de formadores, assim como com os serviços de formação, seja definida através de portaria. Por conseguinte, importa fixar os valores relativos a estes serviços.\n\nAssim, nos termos do artigo 13.º da Portaria n.º 354/2013, de 9 de dezembro, determino o seguinte:"
+  },
+  "123357306": {
+   "fragment_id": "123393390",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as taxas devidas pela prestação de serviços com os procedimentos decorrentes dos despachos referidos no artigo 5.º da Portaria n.º 354/2013, de 9 de dezembro, e com os serviços de formação prestada pelos serviços e organismos do Ministério da Agricultura e do Mar (MAM)."
+  },
+  "123357307": {
+   "fragment_id": "123393391",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas devidas pelos procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Taxas devidas pelos procedimentos\n\n1 - As taxas a cobrar pelos procedimentos a que se refere o n.º 1 do artigo 13.º da Portaria n.º 354/2013, de 9 de dezembro, são as constantes do anexo I da presente portaria e que dela faz parte integrante.\n\n2 - Os estabelecimentos de ensino superior agrícola que estabeleçam protocolos com organismos dos serviços centrais do MAM e com as Direções Regionais de Agricultura e Pescas (DRAP) que sejam entidades certificadoras setoriais de entidades formadoras, ficam isentos de pagamento de taxas de certificação de entidade formadora e de homologação de ações de formação, nos termos definidos no protocolo.\n\n3 - Os estabelecimentos de ensino agrícola e os centros de formação profissional do Instituto de Emprego e Formação Profissional, I. P., que estabeleçam protocolos com organismos dos serviços centrais do MAM e com as DRAP que sejam entidades certificadoras setoriais de entidades formadoras, ficam isentos de pagamento de taxas de certificação de entidade formadora, aplicando-se as taxas de homologação por curso ministrado pela entidade formadora, nos termos definidos no protocolo."
+  },
+  "123357308": {
+   "fragment_id": "123393392",
+   "type": 11,
+   "heading": "Artigo 3.º — Taxas devidas pela formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Taxas devidas pela formação\n\n1 - As taxas a cobrar pela prestação de serviços de formação profissional a que se refere o n.º 2 do artigo 13.º da Portaria n.º 354/2013, de 9 de dezembro, são as constantes do anexo II da presente portaria e que dela faz parte integrante.\n\n2 - As prestações de serviço com os códigos II.1 a II.8 constantes do anexo II, sempre que a atividade implique deslocação de técnicos ao local, acrescem ao valor indicado para o serviço, os seguintes valores:\n\na) Ajudas de custo e de transporte pelas deslocações em serviço público devidas nos termos legais;\n\nb) Eventual remuneração por trabalho suplementar nos termos legais.\n\n3 - Em relação às prestações de serviço indicadas no anexo II, códigos II.9 a II.16, os valores a cobrar são definidos por despacho do responsável máximo do organismo que presta os serviços de formação profissional."
+  },
+  "123357309": {
+   "fragment_id": "123393393",
+   "type": 11,
+   "heading": "Artigo 4.º — Atualização das taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atualização das taxas\n\nA atualização das taxas e dos valores a cobrar constantes das tabelas dos anexos I e II é efetuada mediante portaria dos membros do Governo responsáveis pelas áreas das finanças e da agricultura, sob proposta da Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR), ouvidas as DRAP."
+  },
+  "123357310": {
+   "fragment_id": "123393394",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no mês seguinte ao da sua publicação."
+  },
+  "123357312": {
+   "fragment_id": "123393396",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nCertificação de entidades formadoras, homologação de ações de cursos regulamentados no âmbito do Ministério da Agricultura e do Mar (MAM), emissão de certificados, de declarações e reconhecimento de competências, reconhecimento de formadores e integração na bolsa\n\n(ver documento original)"
+  },
+  "123357313": {
+   "fragment_id": "123393397",
+   "type": 14,
+   "heading": "Anexo II — Prestação de serviços de formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Prestação de serviços de formação profissional\n\n(ver documento original)"
+  },
+  "123357323": {
+   "fragment_id": "123393391",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas devidas pelos procedimentos",
+   "in_force_from": "2019-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229/2019 - Diário da República n.º 138/2019, Série I de 2019-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/229-2019-123368227), em vigor a partir de 2019-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas devidas pelos procedimentos\n\n1 - As taxas a cobrar pelos procedimentos a que se refere o n.º 1 do artigo 13.º da Portaria n.º 354/2013, de 9 de dezembro, são as constantes do anexo I da presente portaria e que dela faz parte integrante.\n\n2 - Os estabelecimentos públicos de oferta de ensino agrícola, que estabeleçam protocolos com organismos do MAFDR que sejam entidades certificadoras setoriais de entidades formadoras, ficam isentos de pagamento de taxas de certificação de entidade formadora e de homologação de ações de formação, nos termos definidos no protocolo.\n\n3 - Os centros de formação profissional do Instituto de Emprego e Formação Profissional, I. P. que ministrem cursos profissionais de nível secundário de dupla certificação escolar e profissional e estabeleçam protocolos com organismos do MAFDR que sejam entidades certificadoras setoriais de entidades formadoras, ficam isentos de pagamento de taxas de certificação de entidade formadora e de homologação de ações de formação, nos termos definidos no protocolo.\n\n4 - As entidades referidas no número anterior, quando ministrem Unidade(s) de Formação de Curta Duração (UFCD) correspondentes aos cursos relativos à formação profissional regulamentada setorialmente, fora dos cursos profissionais de nível secundário de dupla certificação escolar e profissional, apenas ficam isentos das taxas de certificação de entidade formadora, nos termos definidos no protocolo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229/2019 - Diário da República n.º 138/2019, Série I de 2019-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/229-2019-123368227), em vigor a partir de 2019-08-01"
+  },
+  "123357324": {
+   "fragment_id": "123393392",
+   "type": 11,
+   "heading": "Artigo 3.º — Taxas devidas pela formação",
+   "in_force_from": "2019-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229/2019 - Diário da República n.º 138/2019, Série I de 2019-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/229-2019-123368227), em vigor a partir de 2019-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — Taxas devidas pela formação\n\n1 - As taxas a cobrar pela prestação de serviços de formação profissional a que se refere o n.º 2 do artigo 13.º da Portaria n.º 354/2013, de 9 de dezembro, são as constantes do anexo II da presente portaria e que dela faz parte integrante.\n\n2 - As prestações de serviço com os códigos II.1 a II.8 constantes do anexo II, sempre que a atividade implique deslocação de técnicos ao local, acrescem ao valor indicado para o serviço, os seguintes valores:\n\na) Ajudas de custo e de transporte pelas deslocações em serviço público devidas nos termos legais;\n\nb) Eventual remuneração por trabalho suplementar nos termos legais.\n\n3 - Em relação às prestações de serviço indicadas no anexo II, códigos II.9 a II.16, os valores a cobrar são definidos por despacho do responsável máximo do organismo que presta os serviços de formação profissional.\n\n4 - Quanto aos serviços previstos no anexo i, códigos I.5 a I.8, o valor da taxa é dividido de forma equitativa por cada um dos organismos do MAFDR intervenientes.\n\n5 - Quando a realização de uma ação formação integre no seu conteúdo programático mais do que um curso da mesma área temática ou de áreas temáticas distintas, será cobrada uma única taxa de homologação de ação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 229/2019 - Diário da República n.º 138/2019, Série I de 2019-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/229-2019-123368227), em vigor a partir de 2019-08-01"
+  },
+  "123357311": {
+   "fragment_id": "123393395",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Agricultura e do Mar, Maria de Assunção Oliveira Cristas Machado da Graça, em 12 de maio de 2015."
+  },
+  "123357325": {
+   "fragment_id": "123393396",
+   "type": 14,
+   "heading": "Anexo I — Certificação de entidades formadoras, homologação de ações de cursos regulamentados no âmbito do Ministério da Agricultura, Florestas e Desenvolvimento Rural (MAFDR), emissão de certificados, de declarações e reconhecimento de competências, reconhecimento de formadores e integração na bolsa",
+   "in_force_from": "2019-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 229/2019 - Diário da República n.º 138/2019, Série I de 2019-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/229-2019-123368227), em vigor a partir de 2019-08-01"
+   ],
+   "markdown": "## Anexo I — Certificação de entidades formadoras, homologação de ações de cursos regulamentados no âmbito do Ministério da Agricultura, Florestas e Desenvolvimento Rural (MAFDR), emissão de certificados, de declarações e reconhecimento de competências, reconhecimento de formadores e integração na bolsa\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 229/2019 - Diário da República n.º 138/2019, Série I de 2019-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/229-2019-123368227), em vigor a partir de 2019-08-01"
+  },
+  "123357326": {
+   "fragment_id": "123393397",
+   "type": 14,
+   "heading": "Anexo II — Prestação de serviços de formação profissional",
+   "in_force_from": "2019-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 229/2019 - Diário da República n.º 138/2019, Série I de 2019-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/229-2019-123368227), em vigor a partir de 2019-08-01"
+   ],
+   "markdown": "## Anexo II — Prestação de serviços de formação profissional\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 229/2019 - Diário da República n.º 138/2019, Série I de 2019-07-22](https://diariodarepublica.pt/dr/detalhe/portaria/229-2019-123368227), em vigor a partir de 2019-08-01"
+  }
+ }
+}

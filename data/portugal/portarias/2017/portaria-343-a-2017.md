@@ -1,0 +1,271 @@
+---
+schema_version: '1.0'
+id: pt:dre:114190333:por
+title: Portaria n.º 343-A/2017
+short_title: null
+summary: Estabelece o procedimento para a concessão das garantias do Estado ao abrigo da Lei n.º 69/2017, de 11 de agosto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças
+proposing_entity: null
+official_number: 343-A/2017
+official_date: null
+publication_date: '2017-11-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/2017, 1º Suplemento, Série I de 2017-11-10
+  number: '217'
+  series: I
+  supplement: 1º Suplemento
+  pages: 6014-(2) a 6014-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/11/21701/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-06-19'
+version_history:
+  file: portaria-343-a-2017.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2017-11-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-02-04'
+    amending: pt:dre:114602439:por
+    amending_title: Portaria n.º 38-A/2018
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+  - date: '2019-06-19'
+    amending: pt:dre:122606839:por
+    amending_title: Portaria n.º 186-A/2019
+    changes:
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/343-a/2017/p/cons/20190618/pt/html
+  oj: null
+  dre: '114190333'
+  dre_path: /dr/detalhe/portaria/343-a-2017-114190333
+  internal: pt:dre:114190333:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/343-a-2017-114190333
+  metadata_url: https://data.dre.pt/eli/port/343-a/2017/p/cons/20190618/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-114596489
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-114596489
+  retrieved_at: '2026-10-22T12:16:59Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b8e5e9bb4cdc4dcb82658a9042cfde8ca1c8adeadfe3d5a683dfd37165fc1fd4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:16:59Z'
+  notes: 3 versão(ões); histórico completo em portaria-343-a-2017.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Valores Mobiliários
+- Financiamento
+- Instituição de Crédito
+- Supervisão Financeira
+- Definição de Competências
+- Direção Geral do Tesouro e Finanças
+- Banco de Portugal
+- Garantia Bancária
+- Ministério das Finanças
+- Crédito Bancário
+- Reembolso
+- Remuneração
+- CMVM
+- Instituição Financeira
+- Gestão de Créditos
+relationships:
+- type: amended_by
+  target: pt:dre:114602439:por
+  label: Altera Artigo 4.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/38-a-2018-114602439
+  date: '2018-01-30'
+- type: amended_by
+  target: pt:dre:122606839:por
+  label: Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/186-a-2019-122606839
+  date: '2019-06-18'
+- type: cites
+  target: pt:dre:107995232:por
+  label: null
+  source: http://data.dre.pt/eli/lei/69/2017/08/11/p/dre
+- type: cites
+  target: pt:dre:649166:por
+  label: null
+  source: http://data.dre.pt/eli/lei/112/1997/09/16/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:16:59Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 343-A/2017
+
+Portaria n.º 343-A/2017
+
+de 10 de novembro
+
+Na sequência do Relatório da Comissão Parlamentar de Inquérito à gestão do Banco Espírito Santo (BES) e do Grupo Espírito Santo, foi assinado, em 30 de março de 2016, um «Memorando de Entendimento sobre um Procedimento de Diálogo com os Investidores não Qualificados Titulares do Papel Comercial do Grupo Espírito Santo», entre o Governo, o Banco de Portugal, a Comissão do Mercado de Valores Mobiliários (CMVM), o BES e a AIEPC - Associação de Indignados e Enganados do Papel Comercial (AIEPC). Nos termos desse Memorando, as entidades aceitaram colaborar num procedimento de diálogo com vista a encontrar uma solução que permitisse minorar as perdas incorridas pelos investidores não qualificados em papel comercial, regido pela lei portuguesa, emitido pela Espírito Santo International (ESI) e pela Rio Forte e comercializado pelo BES, pelo BEST e pelo BAC, no âmbito da sua atividade enquanto intermediários financeiros.
+
+O Grupo de Trabalho constituído ao abrigo do Memorando de Entendimento elaborou um modelo de solução que foi publicamente apresentado no dia 19 de dezembro de 2016 e divulgado no site da CMVM e da AIEPC, que pressupõe a criação de um fundo de recuperação de créditos, com o qual os investidores não qualificados celebram um contrato, nos termos do qual os créditos são cedidos ao fundo por um preço correspondente a 75 % do capital investido, com um máximo de (euro) 250 000, para as aplicações até (euro) 500 000, ou 50 % do capital investido para as aplicações superiores a (euro) 500 000.
+
+A Lei n.º 69/2017, de 11 de agosto, veio regular os fundos de recuperação de créditos detidos por investidores não qualificados emergentes ou relacionados com a subscrição de valores mobiliários representativos de dívida.
+
+O reforço da confiança no sistema financeiro e na atividade dos intermediários financeiros justificou que a referida lei tivesse estabelecido a possibilidade de concessão extraordinária de garantias do Estado quando tal se afigure indispensável à obtenção de financiamento pelo fundo ou à satisfação dos créditos pecuniários dos participantes do fundo, em qualquer dos casos, tendo unicamente em vista viabilizar a recuperação de créditos detidos por investidores não qualificados ao abrigo de instrumentos de dívida emitidos por entidades que tenham vindo a revelar-se insolventes ou em difícil situação económica.
+
+Em cumprimento do disposto nos artigos 71.º e 77.º da Lei n.º 69/2017, de 11 de agosto, a presente Portaria estabelece o compromisso do Estado na concessão das garantias, prevendo ainda a tramitação do processo de concessão das garantias, os mecanismos de fixação da respetiva remuneração, a informação e obrigações acessórias a cumprir pelas entidades beneficiárias, o procedimento de acompanhamento das entidades beneficiárias, os termos gerais do acionamento das garantias e outras condições acessórias.
+
+Foram ouvidos o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários.
+
+Assim:
+
+Manda o Governo, pelo Ministro das Finanças, em cumprimento do disposto nos artigos 71.º e 77.º da Lei n.º 69/2017, de 11 de agosto, o seguinte:
+
+###### Artigo 1.º
+
+A presente portaria estabelece o compromisso do Estado na concessão das garantias ao abrigo dos n.os 1 e 2 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto, prevendo ainda a tramitação do processo de concessão das garantias, os mecanismos de fixação da respetiva remuneração, a informação e obrigações acessórias a cumprir pelas entidades beneficiárias, o procedimento de acompanhamento das entidades beneficiárias, os termos gerais do acionamento das garantias e outras condições acessórias.
+
+###### Artigo 2.º
+
+Ao abrigo da Lei n.º 69/2017, de 11 de agosto, o fundo de recuperação de créditos pode solicitar a concessão extraordinária de garantias do Estado no âmbito de obrigações assumidas em contratos de financiamento, incluindo a respetiva renovação, bem como em contratos celebrados com os participantes do fundo, nos termos do disposto na referida lei e na presente portaria.
+
+###### Artigo 3.º
+
+1 - O pedido de concessão da garantia a que se refere o n.º 1 do artigo 73.º da Lei n.º 69/2017, de 11 de agosto, deve ser dirigido pela entidade gestora, em representação do fundo de recuperação de créditos, ao membro do Governo responsável pela área das finanças, acompanhado da minuta do contrato de financiamento, devendo ainda conter os seguintes elementos:
+
+a) Identificação dos elementos essenciais da operação a garantir e fundamentação para a realização da mesma;
+
+b) Identificação das partes intervenientes no contrato de financiamento e calendarização das responsabilidades financeiras anuais a assumir;
+
+c) Demonstração do carácter necessário e imprescindível da concessão da garantia para assegurar a obtenção do financiamento;
+
+d) Toda a documentação relevante subjacente ao contrato de financiamento a garantir pelo Estado, designadamente os termos e condições financeiras da operação, que incluem os planos de utilização e reembolso do financiamento e as taxas de juro aplicáveis.
+
+2 - O pedido de concessão de garantia a que se refere o n.º 2 do artigo 73.º da Lei n.º 69/2017, de 11 de agosto, deve ser dirigido pela entidade gestora, em representação dos participantes do fundo de recuperação de créditos, ao membro do Governo responsável pela área das finanças, acompanhado da minuta do contrato a ser celebrado com os potenciais participantes do fundo de recuperação de créditos, devendo ainda conter os seguintes elementos:
+
+a) Identificação dos elementos essenciais da operação a garantir e fundamentação para a realização da mesma;
+
+b) Identificação das partes intervenientes no contrato, designadamente, os potenciais participantes do fundo de recuperação de créditos, com a identificação e a calendarização das responsabilidades financeiras a assumir anualmente;
+
+c) Demonstração do carácter necessário e imprescindível da concessão da garantia para o cumprimento das obrigações legais e contratuais do fundo de recuperação de créditos perante os participantes;
+
+d) Toda a documentação relevante subjacente aos contratos que visam a satisfação dos créditos pecuniários correspondentes, a garantir pelo Estado, designadamente, os termos e condições financeiras da operação.
+
+3 - Os pedidos constantes nos n.os 1 e 2 do presente artigo devem demonstrar:
+
+a) A verificação dos requisitos legais e estatutários necessários para efeitos do eventual acionamento da garantia;
+
+b) O cumprimento de todos os normativos legais em termos de enquadramento nas regras de auxílios do Estado em matéria concorrencial.
+
+4 - A Direção-Geral do Tesouro e Finanças, por sua iniciativa, ou a pedido do Banco de Portugal ou da CMVM, pode solicitar elementos e informações complementares que se revelem necessários à apreciação do pedido.
+
+###### Artigo 4.º
+
+1 - O Estado compromete-se a conceder garantias ao abrigo dos n.os 1 e 2 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto, no montante global de (euro) 301 013 500, distribuído da seguinte forma:
+
+a) Até (euro) 145 116 000, ao abrigo do n.º 1 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto, correspondente ao montante do contrato de financiamento bancário a celebrar pelo fundo de recuperação de créditos para assegurar o pagamento da primeira prestação do Preço, se aplicável;
+
+b) Até (euro) 155 897 500, ao abrigo do n.º 2 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto, correspondente ao montante das segunda e terceira prestações do Preço.
+
+2 - Os encargos que possam decorrer do acionamento das garantias referidas nos números anteriores são suportados por verbas do Capítulo 60 do orçamento do Ministério das Finanças.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 38-A/2018 - Diário da República n.º 21/2018, 1º Suplemento, Série I de 2018-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/38-a-2018-114602439), em vigor a partir de 2018-02-04, produz efeitos a partir de 2018-01-31
+
+###### Artigo 5.º
+
+1 - A concessão da garantia a que se refere o n.º 1 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto, está sujeita ao pagamento de uma comissão de garantia pelo fundo de recuperação de créditos.
+
+2 - A comissão referida no número anterior é definida por despacho do membro do Governo responsável pela área das finanças, em condições comerciais apropriadas e atendendo ao nível de risco a assumir pelo Estado, mediante parecer prévio do Banco de Portugal.
+
+3 - A comissão é devida nas datas de pagamento dos juros do financiamento garantido e cobrada pela Direção-Geral do Tesouro e Finanças.
+
+4 - O valor da comissão pode ser revisto pelo membro do Governo responsável pela área das finanças, sob proposta do Banco de Portugal, em caso de alteração de circunstâncias.
+
+5 - O disposto no presente artigo não prejudica a possibilidade de prestação de contragarantias, caso em que o valor da comissão pode ser ajustado em conformidade.
+
+###### Artigo 6.º
+
+Compete à Direção-Geral do Tesouro e Finanças reunir todos os elementos necessários à instrução do processo de autorização a submeter ao membro do Governo responsável pela área das finanças, devendo, designadamente, proceder à sua análise e parecer fundamentados e assegurar o pedido de parecer prévio ao Banco de Portugal nos termos definidos no n.º 4 do artigo 73.º da Lei n.º 69/2017, de 11 de agosto.
+
+###### Artigo 7.º
+
+1 - Compete ao membro do Governo responsável pela área das finanças, por despacho, autorizar a concessão das garantias a que se referem os n.os 1 e 2 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto.
+
+2 - A decisão referida no número anterior deve ser tomada no prazo de 10 dias úteis a contar da receção do processo de autorização a que se refere o artigo anterior, devidamente instruído.
+
+3 - A autorização de concessão da garantia, ao abrigo do disposto no artigo 74.º da Lei n.º 69/2017, de 11 de agosto, depende da apresentação de declaração da CMVM ou documento equivalente que comprove a autorização de constituição do fundo de recuperação de créditos, nos termos do disposto nos artigos 17.º a 19.º da Lei n.º 69/2017, de 11 de agosto.
+
+4 - A concessão de garantias, quando autorizada pelo membro do Governo responsável pela área das finanças, compete ao Diretor-Geral do Tesouro e Finanças ou seu substituto.
+
+5 - A garantia a que se refere o n.º 1 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto, reveste a forma de contrato e é concedida imediatamente após a verificação dos requisitos aplicáveis.
+
+6 - A garantia a que se refere o n.º 2 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto, reveste a forma de despacho do membro do Governo responsável pela área das finanças e é concedida até 365 dias após a data do início da oferta de subscrição, até ao montante previsto na alínea b) do n.º 1 do artigo 4.º.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 38-A/2018 - Diário da República n.º 21/2018, 1º Suplemento, Série I de 2018-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/38-a-2018-114602439), em vigor a partir de 2018-02-04, produz efeitos a partir de 2018-01-31
+
+###### Artigo 8.º — São obrigações do fundo de recuperação de créditos:
+
+São obrigações do fundo de recuperação de créditos:
+
+a) Enviar à Direção-Geral do Tesouro e Finanças, no prazo de cinco dias seguidos a contar dos respetivos factos, cópia dos documentos comprovativos das amortizações do capital e do pagamento de juros do financiamento garantido ao abrigo do n.º 1 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto, bem como do pagamento das prestações do Preço devidas nos termos do contrato de adesão celebrado com os participantes, objeto de garantia, a que se refere o n.º 2 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto, indicando, em ambas as situações, os montantes que deixam de constituir objeto de garantia do Estado;
+
+b) Comunicar imediatamente à Direção-Geral do Tesouro e Finanças qualquer modificação das condições que constituíram pressuposto da concessão das garantias.
+
+###### Artigo 9.º
+
+1 - Cabe aos bancos financiadores acionar a garantia a que se refere o n.º 1 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto, caso o fundo de recuperação de créditos incumpra, total ou parcialmente, o pagamento de qualquer obrigação garantida.
+
+2 - Cabe à entidade gestora do fundo, em representação dos beneficiários, acionar a garantia a que se refere o n.º 2 do artigo 71.º da Lei n.º 69/2017, de 11 de agosto, caso se verifique e comprove o incumprimento, pelo fundo de recuperação de créditos, do pagamento do preço estabelecido nos contratos de adesão celebrados com os participantes.
+
+3 - O pagamento, pela Direção-Geral do Tesouro e Finanças, em execução da garantia referida no número anterior, é efetuado após certificação, pela Inspeção-Geral de Finanças, dos montantes em dívida, e confirmada a regularização da situação tributária e contributiva dos participantes.
+
+4 - O procedimento a que se refere o número anterior pode ser efetuado após o pagamento, pela Direção-Geral do Tesouro e Finanças, devendo a entidade gestora do fundo devolver ao Estado as verbas que não venham a ser certificadas e confirmadas pela Inspeção-Geral de Finanças.
+
+5 - No caso de acionamento da garantia em virtude de incumprimento pelo fundo de recuperação de créditos, o Estado fica sub-rogado nos direitos que assistam ao mesmo até ao seu integral ressarcimento.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 186-A/2019 - Diário da República n.º 115/2019, 1º Suplemento, Série I de 2019-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/186-a-2019-122606839), em vigor a partir de 2019-06-19
+
+###### Artigo 10.º
+
+Caso se mostre necessário no âmbito da gestão das garantias, por despacho do membro do Governo responsável pela área das finanças, podem ser definidos procedimentos de operacionalização, bem como os mecanismos de validação e fiscalização a que se refere o artigo 76.º da Lei n.º 69/2017, de 11 de agosto.
+
+###### Artigo 11.º
+
+Em tudo o que não estiver previsto na presente portaria, aplica-se subsidiariamente, com as necessárias adaptações, o regime jurídico da concessão de garantias pessoais pelo Estado ou por outras pessoas coletivas de direito público, estabelecido na Lei n.º 112/97, de 16 de setembro, designadamente no que se refere ao regime de cobrança coerciva.
+
+O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 10 de novembro de 2017.

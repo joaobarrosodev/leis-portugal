@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:644566:por
+title: Portaria n.º 260/71
+short_title: null
+summary: Altera para 35 o número de professoras efectivas do ensino liceal e técnico do Instituto de Odivelas e fixa em 3
+  o número de professoras auxiliares ou agregadas de serviço eventual ou em comissão do mesmo estabelecimento de ensino
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Exército
+proposing_entity: null
+official_number: 260/71
+official_date: null
+publication_date: '1971-05-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 117/1971, Série I de 1971-05-19
+  number: '117'
+  series: I
+  supplement: null
+  pages: 766 - 766
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/05/11700/07660766.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '644566'
+  dre_path: /dr/detalhe/portaria/260-1971-644566
+  internal: pt:dre:644566:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-1971-644566
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-1971-644566
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:28:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 40c68ea61fc22280ce89b18a611db4767856118602b8721d92856f19e6c5bb37
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:28:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Lugares
+- Instituto de Odivelas
+- Pessoal Docente
+- Pessoal Eventual
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:147778:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:214178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681205:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:28:42Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 260/71
+
+de 19 de Maio
+
+Considerando a necessidade de assegurar a eficiência do ensino da disciplina de Matemática no Instituto de Odivelas;
+
+Tendo em atenção que o volume de serviço existente justifica a criação de mais um lugar de professora efectiva do 8.º grupo;
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Exército, nos termos do artigo único do [Decreto-Lei n.º 527/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/527-1970-147778), de 7 de Novembro, o seguinte:
+
+1.º Em alteração ao mapa I anexo ao Decreto-Lei 42134, de 3 de Fevereiro de 1959, alterado pelo artigo 1.º do [Decreto-Lei n.º 45989](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45989-1964-537054), de 23 de Outubro de 1964, pelo artigo 1.º do [Decreto-Lei n.º 48419](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48419-1968-272464), de 4 de Junho de 1968, e pelo artigo 1.º do [Decreto-Lei n.º 49230](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49230-1969-214178), de 10 de Setembro de 1969, o número de professoras efectivas do ensino liceal e técnico, que por aqueles diplomas foi fixado em 34 passa a ser de 35.
+
+2.º É fixado em 3 o número de professores auxiliares ou agregadas de serviço eventual ou em comissão a que se referem o artigo 1.º do [Decreto n.º 39919](https://diariodarepublica.pt/dr/detalhe/decreto/39919-1954-681205), de 22 de Novembro de 1954, o artigo 2.º do [Decreto-Lei n.º 45989](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45989-1964-537054), de 23 de Outubro de 1964, o artigo 2.º do [Decreto-Lei n.º 48419](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48419-1968-272464), de 4 de Junho de 1968, e o artigo 2.º do [Decreto-Lei n.º 49230](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49230-1969-214178), de 10 de Setembro de 1969.
+
+3.º O acréscimo de despesa resultante da publicação da presente portaria é suportado, no ano em curso, pelas disponibilidades das verbas do pessoal dos quadros aprovados por lei, consignados no orçamento do Ministério do Exército ao Instituto de Odivelas.
+
+O Ministro das Finanças, João Augusto Dias Rosas. - O Ministro do Exército, Horácio José de Sá Viana Rebelo.

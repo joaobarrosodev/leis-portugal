@@ -1,0 +1,329 @@
+---
+schema_version: '1.0'
+id: pt:dre:660304:por
+title: Portaria n.º 860/93
+short_title: null
+summary: Ratifica o Plano de Pormenor do Quarteirão a Poente da Mata da Bicha, no município de Ovar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 860/93
+official_date: null
+publication_date: '1993-09-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 216/1993, Série I-B de 1993-09-14
+  number: '216'
+  series: I
+  supplement: null
+  pages: 4929 - 4931
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/09/216b00/49294931.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/860/1993/09/14/p/dre/pt/html
+  oj: null
+  dre: '660304'
+  dre_path: /dr/detalhe/portaria/860-1993-660304
+  internal: pt:dre:660304:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/860-1993-660304
+  metadata_url: https://data.dre.pt/eli/port/860/1993/09/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/860-1993-660304
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:11:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fa02ccccc174adcc0552ad365131d8fc2d57935c34d7faf7d02d6dedb116ab49
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:11:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Normas de Construção
+- Ordenamento do Território
+- Ovar
+- Política de Solos
+- Regulamento
+- Urbanismo
+relationships:
+- type: amended_by
+  target: pt:dre:106542116:por
+  label: Tornada pública a aprovação de correção material incidindo sobre a Planta de Síntese e sobre a Sec. I do III Cap.
+    do Regulamento do Plano de Pormenor, pelo(a) Aviso n.º 2219/2017 - Diário da República n.º 44/2017, Série II de 2017-03-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/aviso/2219-2017-106542116
+  date: '2017-03-02'
+- type: cites
+  target: pt:dre:140291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:407335:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:632251:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:11:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 860/93
+
+de 14 de Setembro
+
+Considerando que a Assembleia Municipal de Ovar aprovou, em 30 de Abril de 1992, o Plano de Pormenor do Quarteirão a Poente da Mata da Bicha, em Ovar;
+
+Considerando que o Plano foi elaborado ao abrigo do [Decreto-Lei n.º 560/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1971-632251), de 17 de Dezembro, e a Câmara Municipal solicitou a ratificação dentro do prazo previsto no n.º 1 do artigo 31.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, aplicando-se-lhe, portanto, o regime transitório aí consagrado;
+
+Considerando os pareceres emitidos pela Comissão de Coordenação da Região do Centro, Junta Autónoma de Estradas, Direcção Regional de Educação do Centro, EDP - Electricidade de Portugal, S. A., Delegação Regional do Ambiente e Recursos Naturais do Centro, Direcção de Serviços Regionais de Hidráulica do Mondego, Delegação Regional da Indústria e Energia do Centro, Serviço Nacional de Parques, Reservas e Conservação da Natureza, Ministério da Defesa Nacional e Direcção-Geral do Ordenamento;
+
+Considerando que se verificou a conformidade formal do Plano de Pormenor com as demais disposições legais e regulamentares em vigor, a sua articulação com os demais planos municipais eficazes e com outros planos, programas e projectos de interesse para outro município ou supramunicipal, nos termos previstos no n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março:
+
+Ao abrigo do n.º 4 do artigo 3.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e da delegação de competências conferida pelo despacho n.º 115/92, de 17 de Dezembro, do Ministro do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, de 12 de Janeiro de 1993:
+
+Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordenamento do Território, que seja ratificado o Plano de Pormenor do Quarteirão a Poente da Mata da Bicha, no município de Ovar, cujos regulamento e planta de síntese se publicam em anexo à presente portaria e que dela fazem parte integrante.
+
+Ministério do Planeamento e da Administração do Território.
+
+Assinada em 9 de Agosto de 1993.
+
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
+
+Regulamento
+
+I - Disposições gerais
+
+Artigo 1.º O presente Plano de Pormenor será regulado pelas constantes disposições e pelas restantes peças escritas e desenhadas que, para todos os efeitos legais, se devem considerar como anexas ao presente Regulamento.
+
+Art. 2.º Todas as obras públicas ou particulares que se pretendam realizar na área serão apreciadas de acordo com o dispositivo no presente Regulamento e demais legislação aplicável.
+
+Art. 3.º Estão sujeitos a licenciamento municipal, sem prejuízo das autorizações ou aprovações previstas em lei especial, os seguintes actos:
+
+a) Todas as obras de construção civil, de reconstrução, ampliação, alteração, reparação ou demolição de edificações;
+
+b) Os trabalhos que impliquem alterações por meio de aterros ou escavações à configuração geral do terreno;
+
+c) Qualquer alteração de uso relativamente ao destino inicial do prédio;
+
+d) A construção de novas vedações ou alterações das existentes, desde que, neste caso, excedem 0,60 m;
+
+e) A colocação de placards na via pública ou em edifício;
+
+f) A utilização de terrenos para depósitos de lixo, de sucata e para outros fins análogos;
+
+g) A exploração de estabelecimentos insalubres, incómodos, perigosos e tóxicos;
+
+h) A abertura de poços e furos de captação de águas subterrâneas;
+
+i) A abertura de novas vias de comunicação ou melhoramento das existentes na área de intervenção do Plano de Pormenor.
+
+Art. 4.º Qualquer construção, reconstrução ou derrube de árvores não aprovado pela Câmara Municipal está sujeito ao estipulado nos Decretos-Leis n.os [275/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1976-502601), [804/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/804-1976-407335) e [90/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1977-140291).
+
+Art. 5.º Este Regulamento entrará em vigor a partir da data da sua aprovação.
+
+Art. 6.º Qualquer situação não prevista neste Regulamento observará o disposto na demais legislação vigente.
+
+II- Construção existente
+
+Artigo 1.º Estão incluídos neste capítulo as construções referidas no desenho 1, «Estado actual».
+
+Art. 2.º Estas construções destinam-se essencialmente a habitação.
+
+Poderá, porém, ser permitida a utilização não habitacional, desde que compatível com a vocação principal.
+
+Art. 3.º As construções existentes cuja implantação desrespeite a ocupação prevista no presente Plano Pormenor não poderão executar quaisquer obras que se não limitem à sua mera conservação ou limpeza.
+
+III - Construção futura
+
+Artigo 1.º Estão incluídas neste capítulo as construções referidas nos desenhos 4 e seguintes, exceptuando-se as consideradas no capítulo II do presente Regulamento, «Construção existente».
+
+Art. 2.º As construções respeitantes a este capítulo só serão admitidas desde que respeitem a implantação, os alinhamentos e as cérceas definidas para as respectivas tipologias.
+
+Art. 3.º A implantação das construções, incluindo anexos, não poderá exceder a superfície indicada no desenho da planta de síntese.
+
+Tipologias
+
+Lotes tipo 1:
+
+Variante A - lote n.º 13;
+
+Variante B - lotes n.os 109 e 110.
+
+1 - Habitação unifamiliar isolada (quatro frentes).
+
+2 - Cércea - dois a três pisos no corpo principal, sendo, no caso de três pisos, um obrigatoriamente em cave.
+
+O avançado lateral previsto nesta tipologia terá uma cércea de um piso.
+
+3 - Área coberta da construção principal:
+
+Variante A - 140 m2;
+
+Variante B - 100 m2.
+
+4 - Afastamento das meações de acordo com a planta respectiva, sendo permitida a construção de anexos, desde que a sua área coberta não ultrapasse 25 m2.
+
+5 - Altura máxima dos muros divisórios - 1,20 m.
+
+6 - Altura máxima dos muros de vedação - 0,80 m, podendo ser encimados por gradeamento, até à altura dos muros divisórios.
+
+7 - Cobertura a telha canelada de cor natural.
+
+8 - Os materiais cerâmicos de revestimento das fachadas, quando utilizados, deverão ser submetidos a aprovação camarária, o mesmo acontecendo com a cor das tintas a aplicar no exterior.
+
+9 - Os proprietários dos lotes, quando da construção dos muros de vedação, deverão proceder à pavimentação dos respectivos passeios com pedrinha de chão (vidraço), que terá de ser submetida a aprovação camarária.
+
+10 - As garagens terão obrigatoriamente de se inserir dentro da área de construção.
+
+Lotes tipo 2:
+
+Variante A - lotes n.os 37 a 56, 65 a 84, 86 a 99 e 106;
+
+Variante B - lotes n.os 25 a 36 e 85.
+
+1 - Habitação unifamiliar geminada.
+
+2 - Cércea:
+
+Variante A - dois pisos;
+
+Variante B - dois a três pisos, sendo, na situação de três pisos, um obrigatoriamente em cave. Nesta variante prevê-se um avançado à construção principal de um piso.
+
+3 - Nos lotes a que diz respeito esta tipologia, as construções terão de obedecer a projecto único.
+
+4 - Área coberta de construção principal:
+
+Variante A - a variar entre os 65 m2, no caso geral, e os 71,5 m2, no caso dos lotes n.os 37 a 56 e 65 a 84;
+
+Variante B - a variar entre os 87,5 m2, no caso geral, os 129,5 m2, no caso do lote n.º 25, e os 131,5 m2, no caso do lote n.º 85.
+
+5 - Afastamento das meações e área coberta de anexos:
+
+Variante A - de acordo com a planta de loteamento, não podendo em caso algum os anexos ter uma área superior a 25 m2;
+
+Variante B - não são admitidos anexos nesta variante.
+
+6 - Altura máxima dos muros divisórios - 1,20 m.
+
+7 - Altura máxima dos muros de vedação - 0,80 m, podendo ser encimados por gradeamento, até à altura dos muros divisórios.
+
+8 - Cobertura a telha canelada de cor natural.
+
+9 - Os materiais cerâmicos de revestimento das fachadas, quando utilizados, deverão ser submetidos a aprovação camarária, o mesmo acontecendo com a cor das tintas a aplicar no exterior.
+
+10 - Os proprietários dos lotes, quando da construção dos muros de vedação, deverão proceder à pavimentação dos respectivos passeios com pedrinha de chão (vidraço), que terá de ser submetida a aprovação camarária.
+
+11 - As garagens terão obrigatoriamente de se inserir dentro da área de construção, no caso da variante B, e na área destinada a anexos, no caso da variante A.
+
+Lotes tipo 3:
+
+Lotes n.os 57 a 64.
+
+1 - Habitação unifamiliar em banda.
+
+2 - Cércea - dois pisos.
+
+3 - Nos lotes a que diz respeito esta tipologia, as construções terão de obedecer a projecto único, ou seja, cada conjunto de habitações terá de ter um mesmo critério na sua forma e acabamento, constituindo unidades num todo.
+
+4 - Área coberta de construção a variar entre os 74 m2, no caso dos lotes n.os 57 e 64, os 76 m2, no caso dos lotes n.os 58 e 63, os 85 m2, no caso dos lotes n.os 59 e 62, e os 93 m2, no caso dos lotes n.os 60 e 61.
+
+5 - Cobertura a chapa de fibrocimento, a funcionar escondida por platibandas.
+
+6 - Os materiais cerâmicos de revestimento das fachadas, quando utilizados, deverão ser submetidos a aprovação camarária, o mesmo acontecendo com a cor das tintas a aplicar no exterior.
+
+7 - O aparcamento será garantido à superfície, em baias de estacionamento reservadas aos moradores.
+
+Lotes tipo 4:
+
+Lotes n.os 14 a 24.
+
+1 - Habitação polifamiliar em banda.
+
+2 - Cércea - dois pisos.
+
+3 - Nos lotes a que diz respeito esta tipologia, as construções terão de obedecer a projecto único, ou seja, cada conjunto de habitações terá de ter um mesmo critério na sua forma e acabamento, constituindo unidades num todo.
+
+4 - Área coberta da construção a variar entre os 198 m2, no caso geral, os 180 m2, no caso do lote n.º 14, os 247,5 m2, no caso dos lotes n.os 20 e 21, e os 204 m2, no caso dos lotes n.os 18 e 23.
+
+5 - Cobertura a chapa de fibrocimento, a funcionar escondida por platibandas.
+
+6 - Os materiais cerâmicos de revestimento das fachadas, quando utilizados, deverão ser submetidos a aprovação camarária, o mesmo acontecendo com a cor das tintas a aplicar no exterior.
+
+7 - Todas as áreas de construção do lote, com excepção da correspondente aos fogos e ao comércio, serão comuns, regulando-se a sua administração por condomínio a estabelecer nos termos da lei.
+
+8 - O aparcamento automóvel será garantido à superfície, em baias de estacionamento reservadas aos moradores, num total de um lugar por fogo.
+
+Normas de uso e ocupação do solo
+
+Omitiram-se propositadamente regras e ou condições de grande minúcia, pois que toda essa série de condicionantes se torna desnecessária quando dirigida a técnicos profissionalmente qualificados, mas que são ineficazes quando interpretadas por profissionais nada preocupados com a qualidade do ambiente urbano.
+
+No entanto, não se deixará de estipular um conjunto de princípios mínimos que, na ocasião do projectar ou na apreciação dos projectos, se deverá ter presente nos casos de edificações contíguas e ou confrontantes:
+
+Inclinação de cobertura - igual em cada conjunto de edifícios contíguos ou confrontantes;
+
+Remate de paredes com cobertura - solução igual em cada conjunto ou conjuntos de edifícios contíguos ou confrontantes;
+
+Balcões ou varandas - reentrantes, ou seja, não salientes, desenvolvidas no interior do perímetro da fachada.
+
+Quanto às regras de constituição dos espaços livres das edificações e incluídos no perímetro dos lotes, ou seja, quanto aos espaços livres particulares e de uso privado, convirá manifestar desde já ser imprescindível a exigência do seu tratamento adequado, designadamente no que respeita à cobertura vegetal - arbórea, arbustiva e relvamento aquando da construção.
+
+Zonas públicas
+
+Artigo 1.º Estão incluídos neste capítulo os arruamentos, passeios, baias de estacionamento e zonas pedonais e os espaços ajardinados exteriores ao perímetro dos lotes.
+
+Art. 2.º As faixas de rodagem serão pavimentadas a semipenetração, os arruamentos condicionados e as baias de estacionamento em cubos de granito, os passeios e demais zonas pedonais a pedrinha de chão (vidraço).
+
+Art. 3.º Os espaços ajardinados serão devidamente tratados, designadamente no que respeita à sua cobertura vegetal - arbórea, arbustiva e relvamento.
+
+Art. 4.º Os perfis transversais e longitudinais dos diversos arruamentos são os que constam do respectivo desenho.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/216b00/49294931.pdf)

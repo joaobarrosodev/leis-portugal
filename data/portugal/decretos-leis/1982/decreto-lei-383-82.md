@@ -1,0 +1,153 @@
+---
+schema_version: '1.0'
+id: pt:dre:375806:por
+title: Decreto-Lei n.º 383/82
+short_title: null
+summary: Dá nova redacção aos artigos 2.º, 4.º e 9.º do Decreto-Lei n.º 447/80, de 6 de Outubro (pagamento de impostos através
+  do sistema bancário)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 383/82
+official_date: null
+publication_date: '1982-09-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 214/1982, Série I de 1982-09-15
+  number: '214'
+  series: I
+  supplement: null
+  pages: 2829 - 2831
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21400/28292831.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '375806'
+  dre_path: /dr/detalhe/decreto-lei/383-1982-375806
+  internal: pt:dre:375806:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1982-375806
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1982-375806
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 411e908d1fd72d6898ad43a068908a3d2f4c861a52a44c1ea957a4bfb4b33abe
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:46:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cobrança de Dívidas
+- Contribuições e Impostos
+- Dívidas ao Estado
+- Instituição de Crédito
+- Sistema Bancário
+relationships:
+- type: amended_by
+  target: pt:dre:401324:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:462196:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:46:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 383/82
+
+de 15 de Setembro
+
+O [Decreto-Lei n.º 447/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1980-462196), de 6 de Outubro, veio permitir o pagamento de impostos através do sistema bancário nos casos de cobrança de impostos retidos na fonte e impostos debitados para cobrança virtual.
+
+O sistema não abrange assim os impostos autoliquidados - designadamente a contribuição industrial, grupo A, e o imposto complementar, secções A e B -, o que impede que muitos contribuintes recorram ao sistema bancário para efectuar o pagamento dos respectivos impostos.
+
+O presente diploma pretende alargar o pagamento através do sistema bancário a todos os casos em que o contribuinte liquida o imposto que tem a pagar e neutralizar, sempre que possível, os inconvenientes que se verificam nos casos de errado encaminhamento, tornando assim o sistema mais funcional e cómodo para o contribuinte.
+
+Nos casos em que a autoliquidação é efectuada em declarações - como sucede relativamente ao imposto profissional dos profissionais livres, contribuição industrial, grupo A, e o imposto complementar, secções A e B - a instituição bancária deverá enviar a declaração e os documentos comprovativos das despesas ou encargos e do pagamento à tesouraria da Fazenda Pública competente, a qual promoverá o expediente necessário à concretização da cobrança.
+
+Com estas medidas, o contribuinte poderá pagar os seus impostos na Tesouraria da Fazenda Pública, lugar tradicional e específico da cobrança, na instituição de crédito onde tiver conta ou ainda servir-se dos correios, através de cheque ou de vale do correio passado à ordem do tesoureiro da Fazenda Pública.
+
+Com estas medidas facilita-se a vida ao contribuinte e descongestionam-se os serviços das tesourarias da Fazenda Pública.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º São alterados os artigos 2.º, 4.º e 9.º do [Decreto-Lei n.º 447/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1980-462196), de 6 de Outubro, que passam a ter a seguinte redacção:
+
+Art. 2.º A intervenção do sistema bancário, nos termos previstos neste diploma, fica limitada à cobrança dos impostos retidos na fonte e autoliquidados, desde que satisfeitos nos prazos legais, e, bem assim, à dos que forem debitados para cobrança virtual, neste caso desde que pagos dentro do prazo de cobrança à boca do cofre, devendo para o efeito os respectivos avisos indicar a natureza virtual da cobrança.
+
+Art. 4.º - 1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Os pagamentos a que se refere o n.º 1 serão acompanhados das guias respeitantes aos impostos retidos na fonte, devidamente processadas, das declarações, no caso de impostos autoliquidados, bem como dos avisos de pagamento, no caso de receita virtual.
+
+5 - Tratando-se de autoliquidação, as declarações e os respectivos documentos, designadamente os comprovativos de despesas ou encargos, serão enviados à tesouraria da Fazenda Pública territorialmente competente, que dará cumprimento ao disposto no n.º 1 do artigo 8.º deste diploma, competindo às repartições de finanças processar os conhecimentos relativos aos pagamentos efectuados, os quais serão entregues ao tesoureiro da Fazenda Pública.
+
+Art. 9.º - 1 - Sempre que os pagamentos de dívidas ao Estado sejam efectuados em instituições de crédito, nos termos do presente diploma, mas fora dos prazos previstos no seu artigo 2.º, ou se verifique deficiência em qualquer documento que impeça a concretização da correspondente cobrança, ou seja arrecadada e remetida quantia inferior à devida, deverá o tesoureiro-gerente da tesouraria da Fazenda Pública territorialmente competente tomar as seguintes medidas:
+
+a) Tratando-se de impostos retidos na fonte ou autoliquidados, excepto a contribuição industrial, grupo A, e o imposto complementar, secção A, quando o pagamento for efectuado fora dos prazos legais, a importância do cheque será aceite e contabilizada, sendo comunicado o facto ao chefe da repartição de finanças, para que este promova o procedimento legal que se mostrar adequado, perdendo-se o benefício que legalmente for concedido;
+
+b) Se a receita for virtual, dar-se-á entrada por conta ao montante do cheque, desde que igual ou superior aos limites mínimos previstos na lei, qualquer que seja o estado da cobrança;
+
+c) Havendo deficiências no preenchimento de qualquer documento relativo ao pagamento de impostos retidos na fonte ou autoliquidados, será comunicado à repartição de finanças competente, para que seja sanada a falta, não havendo lugar a qualquer agravamento ou pagamento de multa, se de tal deficiência não resultar prejuízo para o Estado;
+
+d) Dar conhecimento do facto, por ofício registado, ao contribuinte de que deve regularizar a sua situação tributária junto da tesouraria da Fazenda Pública ou da repartição de finanças, conforme os casos.
+
+2 - Quando a remessa dos cheques e documentos referidos nos artigos anteriores se houver realizado para tesouraria diferente daquela onde o pagamento devesse ser efectuado, o respectivo tesoureiro-gerente diligenciará no sentido de averiguar qual a tesouraria competente para o pagamento e creditará a respectiva conta bancária, no caso de o pagamento ter sido efectuado através da instituição de crédito onde a mesma tiver sido aberta, ou depositará o cheque cruzado que tiver recebido de harmonia com o disposto nos artigos anteriores.
+
+3 - Verificando-se a situação descrita no número anterior, o tesoureiro-gerente emitirá cheque cruzado, sacado sobre a respectiva conta bancária, a favor do tesoureiro da Fazenda Pública territorialmente competente, que lhe será remetido acompanhado da respectiva documentação, para que este efective a cobrança e proceda às devoluções dos correspondentes recibos.
+
+Art. 2.º O disposto no artigo 9.º do [Decreto-Lei n.º 447/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1980-462196), de 6 de Outubro, com a redacção dada pelo artigo anterior, é aplicável aos casos em que as guias, declarações e outros documentos, bem como os cheques e vales do correio, sejam enviados às tesourarias da Fazenda Pública através do correio.
+
+Visto e aprovado em Conselho de Ministros de 29 de Junho de 1982. - Diogo Pinto de Freitas do Amaral.
+
+Promulgado em 1 de Setembro de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

@@ -1,0 +1,181 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R0530:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0530-20260730",
+ "dre_path": null,
+ "source_lastmod": "2026-07-30",
+ "versions": [
+  {
+   "date": "2026-03-11",
+   "future": false,
+   "celex": "32026R0530",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "80529b4b69277a1c",
+    "1eb79982c4387895",
+    "0802b2d03e0ede7b",
+    "54b27d55c750ec53",
+    "c4ca3d459e8f2b36",
+    "2ee405015da407df",
+    "6c37fc575d8ba84f"
+   ]
+  },
+  {
+   "date": "2026-07-30",
+   "future": false,
+   "celex": "02026R0530-20260730",
+   "acts": [
+    {
+     "id": "eu:celex:32026R1803:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2026/1803 DA COMISSÃO de 24 de julho de 2026",
+     "published": null,
+     "celex": "32026R1803"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita Lista da legislação da União referida no artigo 2.º, n.º 1, que enumera as zonas e os períodos regulamentados"
+   ],
+   "fragments": [
+    "0eee41ea21a85ecb",
+    "1eb79982c4387895",
+    "a956204fbf5e1a92",
+    "aae643853c57078a",
+    "836705dd7d84fb79",
+    "bbab1de6cae6ce62",
+    "10220b9774fa9034",
+    "b6400e8409aa52b1",
+    "77b01c2bafe362d0"
+   ]
+  }
+ ],
+ "fragments": {
+  "80529b4b69277a1c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de março de 2026\n\nque institui medidas excecionais de apoio aos setores da carne de ovino e da carne de suíno na Hungria\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202600530PT.000101-E0001), nomeadamente o artigo 220.º, n.º 1, primeiro parágrafo, alínea a),\n\nConsiderando o seguinte:\n\n(1) No período de 6 de março de 2025 a 17 de abril de 2025, a Hungria confirmou e notificou cinco focos de febre aftosa, tendo sido os bovinos a espécie afetada.\n\n(2) A Hungria tomou imediata e eficazmente todas as medidas zoossanitárias e veterinárias necessárias em conformidade com o Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202600530PT.000101-E0002) e o Regulamento Delegado (UE) 2020/687 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr3-L_202600530PT.000101-E0003).\n\n(3) As autoridades húngaras tomaram, em especial, medidas de controlo, monitorização e prevenção, tendo criado zonas de proteção e de vigilância («zonas regulamentadas») nos termos das Decisões de Execução (UE) 2025/496 [([^4])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr4-L_202600530PT.000101-E0004), (UE) 2025/613 [([^5])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr5-L_202600530PT.000101-E0005), (UE) 2025/654 [([^6])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr6-L_202600530PT.000101-E0006), (UE) 2025/672 [([^7])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr7-L_202600530PT.000101-E0007), (UE) 2025/696 [([^8])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr8-L_202600530PT.000101-E0008), (UE) 2025/795 [([^9])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr9-L_202600530PT.000101-E0009), (UE) 2025/827 [([^10])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr10-L_202600530PT.000101-E0010) e (UE) 2025/1097 da Comissão [([^11])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr11-L_202600530PT.000101-E0011).\n\n(4) De acordo com as informações prestadas pelas autoridades húngaras à Comissão, as medidas sanitárias e veterinárias aplicadas para conter a propagação e erradicar a doença afetaram vários operadores, que registaram perdas de rendimento não elegíveis para contribuição financeira da União ao abrigo do Regulamento (UE) 2021/690 do Parlamento Europeu e do Conselho [([^12])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr12-L_202600530PT.000101-E0012).\n\n(5) Em 22 de agosto de 2025, a Comissão recebeu das autoridades húngaras um pedido formal de cofinanciamento de certas medidas excecionais nos termos do artigo 220.º, n.º 3, do Regulamento (UE) n.º 1308/2013 para os focos confirmados no período de 6 de março de 2025 a 17 de abril de 2025.\n\n(6) A aplicação das medidas zoossanitárias e veterinárias referidas nos considerandos 3 e 4 conduziu à perda de valor dos borregos de engorda, que não puderam ser abatidos e vendidos como borregos leves na altura da Páscoa devido a restrições à circulação. Conduziram ainda a perdas económicas causadas por períodos mais longos de criação e engorda dos suínos.\n\n(7) Em conformidade com o artigo 220.º, n.º 5, do Regulamento (UE) n.º 1308/2013, o cofinanciamento da União tem de corresponder a 60 % das despesas suportadas pela Hungria com as medidas excecionais de apoio ao mercado pertinentes. A Comissão fixará as quantidades máximas elegíveis para financiamento em relação a cada medida excecional de apoio ao mercado uma vez analisado o pedido da Hungria relacionado com os focos.\n\n(8) Para evitar qualquer risco de sobrecompensação, os montantes máximos e o montante fixo do cofinanciamento deverão basear-se em estudos técnicos e económicos ou documentos contabilísticos e ser fixados a um nível adequado para cada animal, por categoria.\n\n(9) Para evitar qualquer risco de duplo financiamento, os prejuízos sofridos pelos beneficiários não podem ter sido compensados por auxílios estatais ou seguros, devendo o cofinanciamento concedido pela União ao abrigo do presente regulamento limitar-se aos animais e produtos elegíveis para os quais não tenha sido recebida qualquer contribuição financeira da União ao abrigo do Regulamento (UE) 2021/690.\n\n(10) A amplitude e a duração das medidas excecionais de apoio ao mercado previstas no presente regulamento deverão limitar-se ao estritamente necessário. Concretamente, devem aplicar-se apenas à produção de carne de ovino e de suíno nas explorações localizadas nas zonas regulamentadas, durante o período de vigência das medidas zoossanitárias e veterinárias estabelecidas na legislação húngara e da União relevantes para os focos.\n\n(11) Para assegurar a flexibilidade caso o número de animais elegíveis para compensação seja diferente do número máximo fixado no presente regulamento, o qual se baseia em estimativas, a compensação poderá, dentro de certos limites, ser ajustada, sob reserva de se respeitar o montante máximo de despesas cofinanciadas pela União.\n\n(12) Uma vez que a ajuda da União é fixada em euros, é necessário, para garantir a sua aplicação uniforme e simultânea, estabelecer uma data para a conversão em moeda nacional do montante atribuído aos Estados-Membros que não tenham adotado o euro, como é o caso da Hungria. Dado que o presente regulamento não prevê um prazo para a apresentação dos pedidos de ajuda, é conveniente considerar, para efeitos do artigo 30.º, n.º 3, do Regulamento Delegado (UE) 2022/127 da Comissão [([^13])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr13-L_202600530PT.000101-E0013), a data de entrada em vigor do presente regulamento como o facto gerador da taxa de câmbio no que respeita aos montantes fixados no presente regulamento.\n\n(13) A fim de assegurar a eficácia desta medida excecional, os beneficiários devem receber rapidamente o apoio financeiro de emergência. Deve igualmente assegurar-se um controlo atempado da execução orçamental, bem como um acompanhamento adequado e uma utilização eficiente da reserva agrícola, maximizando assim a sua disponibilidade e reforçando a capacidade de resposta rápida a crises emergentes. Por conseguinte, é conveniente definir uma data de elegibilidade para a Hungria pagar este apoio aos beneficiários. Os pagamentos efetuados após essa data devem ser considerados inelegíveis para financiamento da União.\n\n(14) Assim, as despesas suportadas pela Hungria ao abrigo desta medida excecional só devem ser financiadas pela União se forem efetuadas dentro de determinados prazos. Os apoios concedidos no quadro desta medida excecional devem, por conseguinte, ser pagos até 31 de agosto de 2026.\n\n(15) Atendendo a que os pagamentos efetuados após 31 de agosto de 2026 devem ser considerados, sem exceção, inelegíveis, não será aplicável o artigo 5.º, n.º 2, do Regulamento Delegado (UE) 2022/127, que prevê uma redução proporcional dos pagamentos mensais efetuados após o termo desse prazo.\n\n(16) De modo a garantir a elegibilidade e a correção dos pagamentos, as autoridades húngaras devem proceder a controlos *ex ante*.\n\n(17) A fim de assegurar a aplicação imediata, pela Hungria, das medidas previstas no presente regulamento, este deve entrar em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n(18) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité para a Organização Comum dos Mercados Agrícolas,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "1eb79982c4387895": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO cofinanciamento da União é equivalente a 60 % das despesas suportadas pela Hungria para apoio aos mercados da carne de ovino e da carne de suíno, gravemente afetados pelos focos de febre aftosa detetados e notificado pelas autoridades húngaras no período de 6 de março de 2025 a 17 de abril de 2025."
+  },
+  "0802b2d03e0ede7b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As despesas suportadas pela Hungria apenas são elegíveis para cofinanciamento da União:\n\na) Durante o período de vigência das medidas zoossanitárias e veterinárias referidas na legislação da União que consta do anexo e relacionadas com o período indicado no artigo 1.º; e\n\nb) No caso de explorações de ovinos e de suínos que tenham sido objeto de medidas zoossanitárias e veterinárias e estejam localizadas nas zonas referidas na legislação da União que consta do anexo («zonas regulamentadas»); e\n\nc) Se tiverem sido pagas pela Hungria aos beneficiários até 31 de agosto de 2026; e\n\nd) Se, durante o período relacionado com os focos a que se refere a alínea a), o animal ou produto não tiver beneficiado de qualquer compensação por meio de auxílios estatais ou seguros nem recebido qualquer contribuição financeira da União ao abrigo do Regulamento (UE) 2021/690.\n\n2. As despesas pagas pela Hungria após 31 de agosto de 2026 não são elegíveis para financiamento da União, independentemente da parte que representam."
+  },
+  "54b27d55c750ec53": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O montante máximo do cofinanciamento da União é de 434 970 EUR, repartidos da seguinte forma:\n\na) No que respeita aos prejuízos que decorrem dos períodos mais longos de criação e engorda de suínos devido às restrições à circulação nas zonas regulamentadas, aplica-se o montante fixo de 1,18 EUR por suíno e por dia, até um máximo de 28 441 animais;\n\nb) No que respeita à perda de valor dos animais nas zonas regulamentadas, um montante máximo de 57 553 EUR para os ovinos até um máximo de 1 071 animais.\n\n2. Quando o número de animais elegíveis para compensação excede o número máximo de animais por rubrica definido no n.º 1, as despesas elegíveis para cofinanciamento da União podem ser ajustadas por rubrica e exceder os montantes resultantes da aplicação dos números máximos por rubrica, desde que o total dos ajustamentos continue a ser inferior a 20 % do montante máximo de despesas cofinanciadas pela União a que se refere o n.º 1."
+  },
+  "c4ca3d459e8f2b36": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs autoridades húngaras devem realizar os controlos administrativos e no local previstos nos artigos 59.º e 60.° do Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho [([^14])](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr14-L_202600530PT.000101-E0014).\n\nEm especial, as autoridades húngaras devem verificar:\n\na) A elegibilidade do requerente que apresenta o pedido de apoio;\n\nb) Para cada requerente elegível: a elegibilidade, a quantidade e o valor das quebras efetivas na produção;\n\nc) Que nenhum requerente elegível recebeu financiamento de outras fontes para compensação dos prejuízos a que se refere o artigo 2.º do presente regulamento.\n\nNo respeitante aos requerentes elegíveis em relação aos quais os controlos administrativos foram concluídos, a ajuda pode ser paga sem aguardar a realização de todos os controlos, nomeadamente os relativos aos requerentes selecionados para controlos no local. No entanto, todos os controlos no local devem ser efetuados o mais tardar seis meses após os pagamentos.\n\nNos casos em que a elegibilidade do requerente não tenha sido confirmada, são recuperadas as ajudas e impostas sanções em conformidade com o artigo 59.º, n.º 1, do Regulamento (UE) 2021/2116."
+  },
+  "2ee405015da407df": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 10 de março de 2026.\n\n***Pela Comissão***\n\n***A Presidente***\n\n**Ursula VON DER LEYEN**\n\n---"
+  },
+  "6c37fc575d8ba84f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202600530PT.000101-E0001) [JO L 347 de 20.12.2013, p. 671](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC), ELI: [http://data.europa.eu/eli/reg/2013/1308/oj](http://data.europa.eu/eli/reg/2013/1308/oj).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202600530PT.000101-E0002) Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às doenças animais transmissíveis e que altera e revoga determinados atos no domínio da saúde animal («Lei da Saúde Animal») ([JO L 84 de 31.3.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_084_R_TOC), ELI: [http://data.europa.eu/eli/reg/2016/429/oj](http://data.europa.eu/eli/reg/2016/429/oj)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc3-L_202600530PT.000101-E0003) Regulamento Delegado (UE) 2020/687 da Comissão, de 17 de dezembro de 2019, que complementa o Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho no que se refere às regras de prevenção e controlo de certas doenças listadas ([JO L 174 de 3.6.2020, p. 64](http://publications.europa.eu/resource/oj/JOL_2020_174_R_TOC), ELI: [http://data.europa.eu/eli/reg_del/2020/687/oj](http://data.europa.eu/eli/reg_del/2020/687/oj)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc4-L_202600530PT.000101-E0004) Decisão de Execução (UE) 2025/496 da Comissão, de 11 de março de 2025, relativa a determinadas medidas de emergência provisórias contra a febre aftosa na Hungria ([JO L, 2025/496, 12.3.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/496/oj](https://data.europa.eu/eli/dec_impl/2025/496/oj)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc5-L_202600530PT.000101-E0005) Decisão de Execução (UE) 2025/613 da Comissão, de 24 de março de 2025, relativa a determinadas medidas de emergência contra a febre aftosa na Hungria e que revoga a Decisão de Execução (UE) 2025/496 ([JO L, 2025/613, 25.3.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/613/oj](https://data.europa.eu/eli/dec_impl/2025/613/oj)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc6-L_202600530PT.000101-E0006) Decisão de Execução (UE) 2025/654 da Comissão, de 26 de março de 2025, relativa a determinadas medidas de emergência contra a febre aftosa na Hungria e na Eslováquia e que altera a Decisão de Execução (UE) 2025/613 ([JO L, 2025/654, 31.3.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/654/oj](https://data.europa.eu/eli/dec_impl/2025/654/oj)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc7-L_202600530PT.000101-E0007) Decisão de Execução (UE) 2025/672 da Comissão, de 31 de março de 2025, relativa a determinadas medidas de emergência contra focos de febre aftosa na Hungria e na Eslováquia e que revoga a Decisão de Execução (UE) 2025/613 ([JO L, 2025/672, 2.4.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/672/oj](https://data.europa.eu/eli/dec_impl/2025/672/oj)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc8-L_202600530PT.000101-E0008) Decisão de Execução (UE) 2025/696 da Comissão, de 3 de abril de 2025, que altera o anexo da Decisão de Execução (UE) 2025/672 relativa a determinadas medidas de emergência contra focos de febre aftosa na Hungria e na Eslováquia ([JO L, 2025/696, 4.4.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/696/oj](https://data.europa.eu/eli/dec_impl/2025/696/oj)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc9-L_202600530PT.000101-E0009) Decisão de Execução (UE) 2025/795 da Comissão, de 14 de abril de 2025, que altera o anexo da Decisão de Execução (UE) 2025/672 relativa a determinadas medidas de emergência contra focos de febre aftosa na Hungria e na Eslováquia ([JO L, 2025/795, 15.4.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/795/oj](https://data.europa.eu/eli/dec_impl/2025/795/oj)).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc10-L_202600530PT.000101-E0010) Decisão de Execução (UE) 2025/827 da Comissão, de 25 de abril de 2025, que altera o anexo da Decisão de Execução (UE) 2025/672 relativa a determinadas medidas de emergência contra focos de febre aftosa na Hungria e na Eslováquia ([JO L, 2025/827, 28.4.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/827/oj](https://data.europa.eu/eli/dec_impl/2025/827/oj)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc11-L_202600530PT.000101-E0011) Decisão de Execução (UE) 2025/1097 da Comissão, de 23 de maio de 2025, que altera o anexo da Decisão de Execução (UE) 2025/672 relativa a determinadas medidas de emergência contra focos de febre aftosa na Hungria e na Eslováquia ([JO L, 2025/1097, 27.5.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/1097/oj](https://data.europa.eu/eli/dec_impl/2025/1097/oj)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc12-L_202600530PT.000101-E0012) Regulamento (UE) 2021/690 do Parlamento Europeu e do Conselho, de 28 de abril de 2021, que estabelece um programa a favor do mercado interno, da competitividade das empresas, incluindo as pequenas e médias empresas, do setor dos vegetais, dos animais, dos géneros alimentícios e dos alimentos para animais e das estatísticas europeias (Programa a favor do Mercado Interno) e que revoga os Regulamentos (UE) n.º 99/2013, (UE) n.º 1287/2013, (UE) n.º 254/2014 e (UE) n.º 652/2014 ([JO L 153 de 3.5.2021, p. 1](http://publications.europa.eu/resource/oj/JOL_2021_153_R_TOC), ELI: [http://data.europa.eu/eli/reg/2021/690/oj](http://data.europa.eu/eli/reg/2021/690/oj)).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc13-L_202600530PT.000101-E0013) Regulamento Delegado (UE) 2022/127 da Comissão, de 7 de dezembro de 2021, que completa o Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho com regras relativas aos organismos pagadores e outros, à gestão financeira, ao apuramento das contas, às garantias e à utilização do euro ([JO L 20 de 31.1.2022, p. 95](http://publications.europa.eu/resource/oj/JOL_2022_020_R_TOC), ELI: [http://data.europa.eu/eli/reg_del/2022/127/oj](http://data.europa.eu/eli/reg_del/2022/127/oj)).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc14-L_202600530PT.000101-E0014) Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021, relativo ao financiamento, à gestão e ao acompanhamento da política agrícola comum e que revoga o Regulamento (UE) n.º 1306/2013 ([JO L 435 de 6.12.2021, p. 187](http://publications.europa.eu/resource/oj/JOL_2021_435_R_TOC), ELI: [http://data.europa.eu/eli/reg/2021/2116/oj](http://data.europa.eu/eli/reg/2021/2116/oj))."
+  },
+  "0eee41ea21a85ecb": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de março de 2026\n\nque institui medidas excecionais de apoio aos setores da carne de ovino e da carne de suíno na Hungria"
+  },
+  "a956204fbf5e1a92": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1.\n\nAs despesas suportadas pela Hungria apenas são elegíveis para cofinanciamento da União:\n\na) Durante o período de vigência das medidas zoossanitárias e veterinárias referidas na legislação da União que consta do anexo e relacionadas com o período indicado no artigo 1.º; e\n\nb) No caso de explorações de ovinos e de suínos que tenham sido objeto de medidas zoossanitárias e veterinárias e estejam localizadas nas zonas referidas na legislação da União que consta do anexo («zonas regulamentadas»); e\n\nc) Se tiverem sido pagas pela Hungria aos beneficiários até 30 de setembro de 2026; e\n\nd) Se, durante o período relacionado com os focos a que se refere a alínea a), o animal ou produto não tiver beneficiado de qualquer compensação por meio de auxílios estatais ou seguros nem recebido qualquer contribuição financeira da União ao abrigo do Regulamento (UE) 2021/690.\n\n2. As despesas pagas pela Hungria após 30 de setembro de 2026 não são elegíveis para financiamento da União, independentemente da parte que representam."
+  },
+  "aae643853c57078a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1.\n\nO montante máximo do cofinanciamento da União é de 434 970 EUR, repartidos da seguinte forma:\n\na) No que respeita aos prejuízos que decorrem dos períodos mais longos de criação e engorda de suínos devido às restrições à circulação nas zonas regulamentadas, aplica-se o montante fixo de 0,708 EUR por suíno e por dia, até um máximo de 28 441 animais;\n\nb) No que respeita à perda de valor dos animais nas zonas regulamentadas, um montante máximo de 57 553 EUR para os ovinos até um máximo de 1 071 animais.\n\n2. Quando o número de animais elegíveis para compensação excede o número máximo de animais por rubrica definido no n.º 1, as despesas elegíveis para cofinanciamento da União podem ser ajustadas por rubrica e exceder os montantes resultantes da aplicação dos números máximos por rubrica, desde que o total dos ajustamentos continue a ser inferior a 20 % do montante máximo de despesas cofinanciadas pela União a que se refere o n.º 1."
+  },
+  "836705dd7d84fb79": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs autoridades húngaras devem realizar os controlos administrativos e no local previstos nos artigos 59.º e 60.° do Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/e261130a-a6b5-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0001)).\n\nEm especial, as autoridades húngaras devem verificar:\n\na) A elegibilidade do requerente que apresenta o pedido de apoio;\n\nb) Para cada requerente elegível: a elegibilidade, a quantidade e o valor das quebras efetivas na produção;\n\nc) Que nenhum requerente elegível recebeu financiamento de outras fontes para compensação dos prejuízos a que se refere o artigo 2.º do presente regulamento.\n\nNo respeitante aos requerentes elegíveis em relação aos quais os controlos administrativos foram concluídos, a ajuda pode ser paga sem aguardar a realização de todos os controlos, nomeadamente os relativos aos requerentes selecionados para controlos no local. No entanto, todos os controlos no local devem ser efetuados o mais tardar seis meses após os pagamentos.\n\nNos casos em que a elegibilidade do requerente não tenha sido confirmada, são recuperadas as ajudas e impostas sanções em conformidade com o artigo 59.º, n.º 1, do Regulamento (UE) 2021/2116."
+  },
+  "bbab1de6cae6ce62": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente regulamento entra em vigor no terceiro dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "b6400e8409aa52b1": {
+   "fragment_id": "Lista da legislação da União referida no artigo 2.º, n.º 1, que enumera as zonas e os períodos regulamentados",
+   "type": "divisao",
+   "heading": "Lista da legislação da União referida no artigo 2.º, n.º 1, que enumera as zonas e os períodos regulamentados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista da legislação da União referida no artigo 2.º, n.º 1, que enumera as zonas e os períodos regulamentados\n\nPartes do território húngaro e períodos estabelecidos em conformidade com o Regulamento (UE) 2016/429 e o Regulamento Delegado (UE) 2020/687, e definidos na seguinte regulamentação:\n\n— Decisão de Execução (UE) 2025/496,\n\n— Decisão de Execução (UE) 2025/613,\n\n— Decisão de Execução (UE) 2025/654,\n\n— Decisão de Execução (UE) 2025/672,\n\n— Decisão de Execução (UE) 2025/696,\n\n— Decisão de Execução (UE) 2025/795,\n\n— Decisão de Execução (UE) 2025/827,\n\n— Decisão de Execução (UE) 2025/1097.\n\n---"
+  },
+  "77b01c2bafe362d0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e261130a-a6b5-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021, relativo ao financiamento, à gestão e ao acompanhamento da política agrícola comum e que revoga o Regulamento (UE) n.º 1306/2013 (JO L 435 de 6.12.2021, p. 187, ELI: [http://data.europa.eu/eli/reg/2021/2116/oj](http://data.europa.eu/eli/reg/2021/2116/oj))."
+  }
+ }
+}

@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:552341:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 23/2006/M
+short_title: null
+summary: Resolve considerar ilegal e inconstitucional a proposta de lei n.º 99/X/2, relativa ao Orçamento do Estado para 2007
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 23/2006/M
+official_date: null
+publication_date: '2006-12-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 249/2006, Série I de 2006-12-29
+  number: '249'
+  series: I
+  supplement: null
+  pages: 8625 - 8626
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/12/24900/86258626.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/23/2006/12/29/m/dre/pt/html
+  oj: null
+  dre: '552341'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/23-2006-552341
+  internal: pt:dre:552341:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/23-2006-552341
+  metadata_url: https://data.dre.pt/eli/resolalram/23/2006/12/29/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/23-2006-552341
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:51:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: e4412e52c9d498b42746f1b8bf7c4da45445da6c6c455bf0af2210fdb6c6a713
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:51:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Inconstitucionalidade
+- Madeira.região Autónoma
+- Orçamento Geral do Estado
+- Transferência de Verbas
+relationships:
+- type: cites
+  target: pt:dre:210978:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1998/02/24/p/dre
+- type: cites
+  target: pt:dre:434224:por
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: pt:dre:479597:por
+  label: null
+  source: http://data.dre.pt/eli/lei/48/2004/08/24/p/dre
+- type: cites
+  target: pt:dre:516051:por
+  label: null
+  source: http://data.dre.pt/eli/lei/91/2001/08/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:51:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 23/2006/M
+
+Das inconstitucionalidades da proposta de lei n.º 99/X/2
+
+Orçamento do Estado para 2007, da autoria do Governo do Partido Socialista
+
+A proposta de lei n.º 99/X/2 - Orçamento do Estado para 2007 - afigura-se como um instrumento de política económica e orçamental do Estado com graves incongruências, entre os objectivos a que se propõe e as medidas contraditórias que encerra, além das ilegalidades e inconstitucionalidades que nela se reproduzem.
+
+Mais uma vez, assistimos à arrogância deste governo socialista para com os Portugueses, e especialmente para com aqueles que não são da sua família partidária, lesados nos seus direitos constitucionais e estatutariamente garantidos.
+
+Estamos na presença do orçamento da demagogia socialista, senão vejamos:
+
+As despesas de funcionamento do Estado aumentam 9,4% relativamente a 2006, representando 57,5% do PIB e 94,3% do total do Orçamento;
+
+As despesas correntes sobem 3,1%, continuando a representar 26% do PIB e 43% do total do Orçamento;
+
+O serviço da dívida leva 57,3% do total das despesas e representa 35% do PIB, aumentando 16% em relação a 2006;
+
+Os encargos financeiros da dívida pública aumentam 8,1%;
+
+Os investimentos representam 1,2% do PIB e 1,9% do total da despesa, agravando-se com um crescimento negativo;
+
+As únicas contenções visíveis e realmente pretendidas são ao nível das despesas com pessoal da Administração que, apesar de todas as propaladas reformas, sobem em 0,9% e representam 8,3% do PIB e ao nível da redução das transferências orçamentais para a Região Autónoma da Madeira.
+
+É uma proposta elaborada sem o respeito pelos princípios mais elementares da equidade e de proporcionalidade, assente em critérios pouco claros na partilha dos sacrifícios exigidos, com intuitos partidários, porquanto são exigidos maiores sacrifícios àqueles que menos contribuem para o despesismo continuado deste governo.
+
+Este é um orçamento partidário e discriminatório para com a Região Autónoma da Madeira, baseando-se em leis inexistentes e enfermo de inconstitucionalidades, com o mero objectivo de prejudicar esta Região Autónoma.
+
+Senão vejamos:
+
+«Artigo 117.º
+
+Transferências para as Regiões Autónomas
+
+Nos termos e para os efeitos do artigo 88.º da [Lei n.º 91/2001](https://diariodarepublica.pt/dr/detalhe/lei/91-2001-516051), de 20 de Agosto, alterada e republicada pela [Lei n.º 48/2004](https://diariodarepublica.pt/dr/detalhe/lei/48-2004-479597), de 24 de Agosto, as transferências para as Regiões Autónomas em 2007 são determinadas nos termos seguintes:
+
+a) (euro) 223436000 para a Região Autónoma dos Açores, sendo (euro) 167436000 a título de solidariedade e (euro) 56000000 do Fundo de Coesão;
+
+b) (euro) 170895000 para a Região Autónoma da Madeira, sendo (euro) 139195000 a título de solidariedade e (euro) 31700000 do Fundo de Coesão.»
+
+As transferências do Estado para cada uma das Regiões Autónomas, contrariamente ao sucedido no ano de 2006, que remetia simplesmente o apuramento dos montantes para a fórmula prevista na Lei das Finanças das Regiões Autónomas, passou a fazer uma distinção entre Regiões Autónomas e estabelecendo, desde logo, os montantes a transferir, tendo por base o artigo 88.º da Lei do Enquadramento do Orçamento do Estado, que dispõe que «em circunstâncias excepcionais, ouvidos previamente os órgãos legalmente e constitucionalmente competentes dos subsectores envolvidos e para assegurar o estrito cumprimento dos princípios da estabilidade orçamental e de solidariedade recíproca» (artigo 104.º do Tratado da UE):
+
+Região Autónoma da Madeira - (euro) 170895000 por solidariedade e coesão;
+
+Região Autónoma dos Açores - (euro) 223436000 por solidariedade e coesão.
+
+Neste caso, o valor global que o Estado despenderá nas transferências para as Regiões Autónomas será de (euro) 394331000.
+
+No ano de 2006, o Estado despendeu nas transferências para as Regiões Autónomas o valor global de (euro) 414955312.
+
+Resulta do exposto que proceder-se-á a uma diminuição do valor global dos montantes a transferir, fundamentada no artigo 88.º da LEOE, não tendo contudo sido justificadas as circunstâncias excepcionais invocadas, conforme exigido na supra-identificada norma legal.
+
+O artigo 88.º da LEOE invocado para fundamentar a diminuição dos montantes das transferências para as Regiões Autónomas, não está a ser aplicado devidamente, pois na segunda parte do n.º 2 está estabelecido que essa redução deverá respeitar rigorosamente «os princípios da proporcionalidade, não arbítrio e solidariedade recíproca».
+
+Contudo, no projecto em apreço constata-se que a Região Autónoma dos Açores beneficia de um aumento em relação a 2006 de (euro) 210066776 para (euro) 223436000, enquanto que a Região Autónoma da Madeira sofre uma acentuada redução de (euro) 204888536 para (euro) 170895000 nas verbas a transferir.
+
+O esforço que deveria ser exigido de forma proporcional às duas Regiões Autónomas é exigido apenas à Região Autónoma da Madeira, quando a Região Autónoma dos Açores, pelo contrário, beneficia de um aumento de verbas, pelo que estamos perante uma decisão arbitrária e desproporcional, que está em violação do disposto na norma invocada (cf. n.º 2 do artigo 88.º da LEOE).
+
+Por outro lado, esta mesma norma, invocada para fundamentar a diminuição dos montantes das transferências, encontra um impedimento de ordem legal, pois contraria uma norma de valor reforçado [cf. alínea f) do n.º 6 do artigo 168.º da CRP], nomeadamente o n.º 2 do artigo 118.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado por maioria qualificada de dois terços, que dispõe o seguinte:
+
+«Em caso algum, as verbas a transferir pelo Estado podem ser inferiores ao montante transferido pelo Orçamento do ano anterior multiplicado pela taxa de crescimento da despesa pública corrente no Orçamento do ano respectivo.»
+
+Esta norma é de carácter especial e, enquanto vigorar, é para ser cumprida.
+
+O Estatuto Político-Administrativo da Região Autónoma da Madeira apenas poderá ser alterado após iniciativa da Assembleia Legislativa da Região Autónoma da Madeira [cf. alínea a) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira], poder esse que é exclusivo daquele órgão.
+
+Constata-se pois que o Estado procede a uma alteração, ainda que material, desta norma do Estatuto Político-Administrativo da Região Autónoma da Madeira, através de iniciativas legislativas (cf. artigo 88.º da LEOE e artigo 117.º do projecto da lei do Orçamento do Estado) que não respeitam os trâmites constitucionalmente estabelecidos para que se legisle sobre esta matéria, recorrendo a uma fuga para formas legais menores, e encontram-se, por este motivo, em violação da Constituição da República Portuguesa.
+
+Por sua vez, no que se refere à fixação dos montantes a transferir para as Regiões, esta não respeita a fórmula de cálculo estabelecida no artigo 30.º da Lei das Finanças das Regiões Autónomas (cf. [Lei n.º 13/98](https://diariodarepublica.pt/dr/detalhe/lei/13-1998-210978), de 24 de Fevereiro), em vigor.
+
+Aparentemente recorrem-se de critérios constantes de um projecto de lei que não foi aprovado, promulgado e publicado, sendo como tal inexistente, não produzindo quaisquer efeitos.
+
+Os projectos legislativos deverão ser sempre elaborados em conformidade com a legislação em vigor e não com diplomas que se prevêem ou se desejem aprovados no futuro, pelo que enquanto a actual Lei das Finanças das Regiões Autónomas estiver em vigor é para ser cumprida, constituindo o seu incumprimento uma clara ilegalidade.
+
+«Artigo 118.º
+
+Transferências a título de compensação de IVA
+
+São transferidas para as Regiões Autónomas em 2007, a título de compensação do IVA, após a definição de novas regras quanto à distribuição das receitas de IVA entre o Estado e as Regiões Autónomas, as seguintes importâncias:
+
+a) (euro) 112762000 para a Região Autónoma dos Açores;
+
+b) (euro) 41707000 para a Região Autónoma da Madeira.»
+
+O projecto de lei do Orçamento do Estado remete esta compensação para uma legislação relativa à distribuição de receitas de IVA, entre o Estado e as Regiões Autónomas, a ser eventualmente introduzida no futuro, que, caso não se concretize até à entrada em vigor do Orçamento do Estado, deixa sérias dúvidas quanto à legalidade desta norma, pois fixa valores concretos, com base em critérios inexistentes, num momento em que se encontra em vigor legislação que estabelece essa fórmula de cálculo (cf. artigo 21.º da [Lei n.º 13/98](https://diariodarepublica.pt/dr/detalhe/lei/13-1998-210978), de 24 de Fevereiro).
+
+Esta norma, a ser aprovada com a actual redacção, não aparenta salvaguardar as seguintes situações:
+
+A possibilidade de não ser aprovada a mencionada legislação relativa à distribuição de receitas de IVA entre o Estado e as Regiões Autónomas;
+
+O caso de, da nova fórmula de cálculo a ser aprovada, resultar valores diferentes dos previamente aqui estabelecidos.
+
+Os valores propostos para as transferências foram admissivelmente baseados em critérios fixados de legislação inexistente, o que revela novamente o desrespeito pela lei em vigor sobre esta matéria, violando o estatuído no artigo 21.º da actual lei das finanças regionais.
+
+Reafirma-se que o projecto legislativo em apreço não foi elaborado em conformidade com a legislação em vigor, sobretudo em matéria de relacionamento financeiro entre o Estado e a Região Autónoma da Madeira, contraria e inadmissivelmente baseia-se em diplomas inexistentes, que se prevêem ou se desejam aprovados no futuro.
+
+Assim, enquanto a actual Lei das Finanças das Regiões Autónomas estiver em vigor é para ser cumprida e deverá servir de única base em matéria de relacionamento financeiro entre o Estado e a Região Autónoma da Madeira, pelo que esta proposta de Orçamento do Estado é enferma de graves ilegalidades e inconstitucionalidades.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira, nos termos da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, resolve aprovar a presente resolução, devendo ser dado conhecimento da mesma ao Presidente da República, ao Presidente da Assembleia da República e ao Primeiro-Ministro de Portugal.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 30 de Novembro de 2006.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.

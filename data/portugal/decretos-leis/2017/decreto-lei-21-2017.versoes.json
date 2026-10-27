@@ -1,0 +1,508 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:106499601:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-156691427",
+ "dre_path": "/dr/detalhe/decreto-lei/21-2017-106499601",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-02-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156568142",
+    "156568143",
+    "156568144",
+    "156568145",
+    "156568146",
+    "156568147",
+    "156568148",
+    "156568149",
+    "156568150",
+    "156568151",
+    "156568152",
+    "156568153",
+    "156568154",
+    "156568155",
+    "156568156",
+    "156568157",
+    "156568158",
+    "156568159",
+    "156568160",
+    "156568161",
+    "156568162",
+    "156568163",
+    "156568164",
+    "156568165",
+    "156568166",
+    "156568167",
+    "156568168",
+    "156568169",
+    "156568170",
+    "156568171",
+    "156568172",
+    "156568173",
+    "156568174",
+    "156696075",
+    "156696076",
+    "156696077",
+    "156696078",
+    "156696079",
+    "156696080",
+    "156696082",
+    "156696083",
+    "156696084"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "156568142",
+    "156568143",
+    "156568144",
+    "156568145",
+    "156568146",
+    "156568147",
+    "156568148",
+    "156568149",
+    "156568150",
+    "156568151",
+    "156568152",
+    "156568153",
+    "156568154",
+    "156568155",
+    "156568156",
+    "156568157",
+    "156568158",
+    "156568159",
+    "156568160",
+    "156568161",
+    "156568162",
+    "156568163",
+    "156568164",
+    "156568165",
+    "156568166",
+    "156568167",
+    "156568168",
+    "156568169",
+    "158146710",
+    "156696085",
+    "156568172",
+    "156696086",
+    "156696087",
+    "156696075",
+    "156696076",
+    "156696077",
+    "156696078",
+    "156696079",
+    "156696080",
+    "156696081",
+    "156696082",
+    "156696083",
+    "156696084"
+   ]
+  }
+ ],
+ "fragments": {
+  "156568142": {
+   "fragment_id": "156691428",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 21/2017\n\nde 21 de fevereiro\n\nO presente decreto-lei estabelece as regras aplicáveis à disponibilização no mercado de material elétrico destinado a ser utilizado dentro de certos limites de tensão, procedendo à transposição para a ordem jurídica interna da Diretiva n.º 2014/35/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014.\n\nA referida diretiva revoga a Diretiva n.º 2006/95/CE, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, transposta para o direito português pelo Decreto-Lei n.º 6/2008, de 10 de janeiro. As alterações agora consagradas visam o reforço do alinhamento do quadro legislativo aplicável, constituído pelo Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008, e pela Decisão n.º 768/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008, cuja aplicação efetiva no ordenamento jurídico nacional foi assegurada pelo Decreto-Lei n.º 23/2011, de 11 de fevereiro.\n\nA disciplina normativa ora aprovada visa garantir, por um lado, que o material elétrico destinado a ser utilizado dentro de certos limites de tensão, disponibilizado no mercado, satisfaz os requisitos que asseguram um elevado nível de proteção da saúde e da segurança das pessoas, dos animais domésticos e dos bens, e, por outro lado, que todos os intervenientes conhecem e cumprem os deveres que sobre eles recaem.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nFoi promovida a audição ao Conselho Nacional do Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156568143": {
+   "fragment_id": "156691429",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "156568144": {
+   "fragment_id": "156691430",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece as regras aplicáveis à disponibilização no mercado de material elétrico destinado a ser utilizado dentro de certos limites de tensão, transpondo para a ordem jurídica interna a Diretiva n.º 2014/35/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014."
+  },
+  "156568145": {
+   "fragment_id": "156691431",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Sem prejuízo do disposto no número seguinte, o presente decreto-lei aplica-se ao material elétrico destinado a ser utilizado sob uma tensão nominal compreendida entre:\n\na) 50 V e 1 000 V, em corrente alterna;\n\nb) 75 V e 1 500 V, em corrente contínua.\n\n2 - Ficam excluídos do âmbito de aplicação do presente decreto-lei:\n\na) O equipamento elétrico destinado a ser utilizado em atmosfera explosiva;\n\nb) O equipamento elétrico para radiologia e para medicina;\n\nc) As partes elétricas dos elevadores e monta-cargas;\n\nd) Os contadores de energia elétrica;\n\ne) Às fichas e tomadas para uso doméstico;\n\nf) Os dispositivos de alimentação de vedações eletrificadas;\n\ng) As perturbações radioelétricas;\n\nh) O material elétrico especializado, destinado a ser utilizado em navios, aeronaves ou caminhos-de-ferro, que satisfaça as disposições de segurança estabelecidas pelos organismos internacionais de que os Estados-Membros da União Europeia (UE) façam parte;\n\ni) Os kits de avaliação, fabricados por medida, destinados a profissionais, para uso exclusivo em instalações de investigação e desenvolvimento."
+  },
+  "156568146": {
+   "fragment_id": "156691432",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Avaliação da conformidade», o processo de verificação através do qual se demonstra se estão cumpridos os objetivos de segurança relativos ao material elétrico referidos no artigo seguinte e previstos no anexo I ao presente decreto-lei, do qual faz parte integrante;\n\nb) «Colocação no mercado», a primeira disponibilização de um material elétrico no mercado da UE;\n\nc) «Disponibilização no mercado», a oferta de material elétrico para distribuição, consumo ou utilização no mercado da UE, no âmbito de uma atividade comercial, a título oneroso ou gratuito;\n\nd) «Distribuidor», uma pessoa singular ou coletiva que faz parte da cadeia de distribuição, com exceção do fabricante ou do importador, e que disponibiliza material elétrico no mercado;\n\ne) «Especificação técnica», um documento que define os requisitos técnicos que o material elétrico deve cumprir;\n\nf) «Fabricante», uma pessoa singular ou coletiva que fabrica ou manda conceber ou fabricar material elétrico e que o comercializa com o seu nome ou a sua marca comercial;\n\ng) «Importador», uma pessoa singular ou coletiva estabelecida na UE que coloca material elétrico proveniente de países terceiros no mercado da UE;\n\nh) «Legislação de harmonização da UE», legislação da UE destinada a harmonizar as condições de comercialização dos produtos;\n\ni) «Mandatário», uma pessoa singular ou coletiva, estabelecida na UE, mandatada por escrito pelo fabricante para praticar determinados atos em seu nome;\n\nj) «Marcação CE», a marcação através da qual o fabricante indica que o material elétrico cumpre todos os requisitos aplicáveis estabelecidos na legislação de harmonização da UE que prevê a sua aposição;\n\nk) «Norma harmonizada», uma norma harmonizada na aceção da subalínea c) da alínea 1) do artigo 2.º do Regulamento (UE) n.º 1025/2012, do Parlamento Europeu e do Conselho, de 25 de outubro de 2012;\n\nl) «Operadores económicos», o fabricante, o mandatário, o importador e o distribuidor;\n\nm) «Recolha», uma medida destinada a obter o retorno de material elétrico já disponibilizado ao utilizador final;\n\nn) «Retirada», uma medida destinada a impedir a disponibilização no mercado de material elétrico presente na cadeia de distribuição."
+  },
+  "156568147": {
+   "fragment_id": "156691433",
+   "type": 11,
+   "heading": "Artigo 4.º — Disponibilização no mercado e objetivos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disponibilização no mercado e objetivos de segurança\n\n1 - O material elétrico só pode ser disponibilizado no mercado se, tendo sido construído de acordo com as regras da arte em matéria de segurança em vigor na UE, não colocar em risco, no caso de instalação e manutenção adequadas e de utilização de acordo com a sua finalidade, a saúde e a segurança de pessoas e dos animais domésticos, e os bens.\n\n2 - O material elétrico deve obedecer às exigências, aos requisitos e às condições de segurança constantes do anexo I ao presente decreto-lei, e deve ser submetido ao procedimento de avaliação da conformidade baseado no controlo interno da produção, estabelecido no n.º 1 do anexo II ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "156568148": {
+   "fragment_id": "156691434",
+   "type": 11,
+   "heading": "Artigo 5.º — Livre circulação do material elétrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Livre circulação do material elétrico\n\nNão pode ser impedida, relativamente aos aspetos abrangidos pelo presente decreto-lei, a disponibilização no mercado de material elétrico que respeite as exigências e condições de segurança estabelecidas no presente diploma."
+  },
+  "156568149": {
+   "fragment_id": "156691435",
+   "type": 11,
+   "heading": "Artigo 6.º — Fornecimento de eletricidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fornecimento de eletricidade\n\nA ligação à rede ou o fornecimento de energia aos consumidores não podem ser condicionados, pelos operadores de rede, ao cumprimento de exigências de segurança do material elétrico mais restritivas do que as referidas no anexo I ao presente decreto-lei."
+  },
+  "156568150": {
+   "fragment_id": "156691436",
+   "type": 1,
+   "heading": "Capítulo II — Deveres dos operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Deveres dos operadores económicos"
+  },
+  "156568151": {
+   "fragment_id": "156691437",
+   "type": 11,
+   "heading": "Artigo 7.º — Deveres dos fabricantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Deveres dos fabricantes\n\nOs fabricantes devem:\n\na) Garantir que o material elétrico que colocam no mercado foi concebido e fabricado em conformidade com os objetivos de segurança previstos no artigo 4.º e no anexo I ao presente decreto-lei;\n\nb) Reunir a documentação técnica e efetuar ou mandar efetuar o procedimento de avaliação da conformidade previstos no anexo II ao presente decreto-lei;\n\nc) Elaborar a declaração UE de conformidade e apor a marcação CE, em relação ao material elétrico cuja conformidade tenha sido demonstrada através do procedimento de avaliação previsto no anexo II ao presente decreto-lei;\n\nd) Conservar a documentação técnica prevista no anexo II ao presente decreto-lei e a declaração UE de conformidade, pelo período de 10 anos a contar da data de colocação do material elétrico no mercado;\n\ne) Assegurar a existência de procedimentos para manter a conformidade da produção em série com o presente decreto-lei, devendo ser devidamente consideradas as alterações efetuadas no projeto ou nas caraterísticas do material elétrico e as alterações das normas harmonizadas, das normas internacionais ou nacionais, ou das outras especificações técnicas que constituíram a referência para a comprovação da conformidade do material elétrico;\n\nf) Sempre que apropriado em função do risco que um material elétrico apresenta, realizar, a fim de proteger a saúde e a segurança dos consumidores, ensaios por amostragem do material elétrico disponibilizado no mercado, investigar e, se necessário, conservar um registo das reclamações, do material elétrico não conforme e do material elétrico recolhido, e informar os distribuidores de todas estas ações de controlo;\n\ng) Garantir que no material elétrico que colocaram no mercado figura o tipo, o número do lote ou da série ou outros elementos que permitam a sua identificação ou, caso as dimensões ou a natureza do material elétrico não o permitam, que as informações exigidas constem da sua embalagem ou em documento que o acompanhe;\n\nh) Indicar no material elétrico o seu nome, o nome comercial registado ou a marca registada e um endereço postal de contacto ou, se tal não for possível, na embalagem do material elétrico ou em documento que o acompanhe, sendo que os dados de contacto devem ser facultados em língua facilmente compreensível pelos utilizadores finais e pela autoridade de fiscalização do mercado;\n\ni) Assegurar que o material elétrico é acompanhado de instruções, informações de segurança e rotulagem, em língua portuguesa, redigidas em linguagem clara, compreensível e inteligível;\n\nj) Sempre que considerem ou tenham motivos para crer que determinado material elétrico que colocaram no mercado não é conforme com o presente decreto-lei, tomar imediatamente as medidas corretivas necessárias para o pôr em conformidade, para o retirar ou para o recolher, se adequado, e, se o material elétrico apresentar um risco, informar imediatamente desse facto as autoridades de fiscalização do mercado dos Estados-Membros onde disponibilizaram o material, fornecendo-lhes as informações relevantes, sobretudo, no que se refere à não conformidade e às medidas corretivas aplicadas;\n\nk) Facultar, em língua facilmente compreensível pela autoridade de fiscalização do mercado, mediante pedido fundamentado daquela autoridade, toda a informação e documentação necessárias para demonstrar a conformidade do material elétrico com o presente decreto-lei, em papel ou, preferencialmente, em suporte eletrónico, bem como cooperar com aquela autoridade em todas as ações de eliminação dos riscos decorrentes de material elétrico que tenham colocado no mercado."
+  },
+  "156568152": {
+   "fragment_id": "156691438",
+   "type": 11,
+   "heading": "Artigo 8.º — Mandatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mandatários\n\n1 - Os fabricantes podem designar por escrito um mandatário, competindo a este praticar os atos definidos no mandato.\n\n2 - Os deveres previstos nas alíneas a) e b) do artigo anterior não podem ser objeto de mandato.\n\n3 - O mandato deve permitir, pelo menos, a prática dos seguintes atos pelo mandatário:\n\na) Manter à disposição da autoridade de fiscalização do mercado a declaração UE de conformidade e a documentação técnica, pelo período de 10 anos a contar da data de colocação no mercado do material elétrico;\n\nb) Facultar, em língua facilmente compreensível pela autoridade de fiscalização do mercado, mediante pedido fundamentado daquela autoridade, toda a informação e documentação necessárias para demonstrar a conformidade do material elétrico com o presente decreto-lei, em papel ou, preferencialmente, em suporte eletrónico;\n\nc) Cooperar com a autoridade de fiscalização do mercado em qualquer ação de eliminação dos riscos decorrentes do material elétrico abrangido pelo seu mandato."
+  },
+  "156568153": {
+   "fragment_id": "156691439",
+   "type": 11,
+   "heading": "Artigo 9.º — Deveres dos importadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Deveres dos importadores\n\nOs importadores devem:\n\na) Colocar no mercado apenas material elétrico conforme com as disposições do presente decreto-lei;\n\nb) Assegurar, antes da colocação do material elétrico no mercado, que o fabricante:\n\ni) Aplicou o adequado procedimento de avaliação da conformidade;\n\nii) Elaborou a documentação técnica obrigatória;\n\niii) Procedeu à aposição da marcação CE no material elétrico e que este vem acompanhado da documentação exigida;\n\niv) Respeitou as exigências previstas nas alíneas g) e h) do artigo 7.º;\n\nc) Abster-se de colocar no mercado material elétrico, até ser reposta a conformidade, sempre que considerem ou que tenham motivos para crer que o mesmo não está conforme com os objetivos de segurança previstos no anexo I ao presente decreto-lei e, caso o material elétrico apresente um risco, informar desse facto o fabricante e a autoridade de fiscalização do mercado;\n\nd) Indicar, no material elétrico, o seu nome, o nome comercial registado ou a marca registada e um endereço postal de contacto ou, se tal não for possível, na embalagem do material elétrico ou em documento que o acompanhe, sendo que os dados de contacto devem ser facultados em língua facilmente compreensível pelos utilizadores finais e pela autoridade de fiscalização do mercado;\n\ne) Garantir que o material elétrico é acompanhado de instruções e informações de segurança, em língua portuguesa e em linguagem clara e compreensível;\n\nf) Assegurar que as condições de armazenamento e transporte não prejudicam a conformidade do material elétrico com os objetivos de segurança previstos no anexo I ao presente decreto-lei;\n\ng) Sempre que apropriado em função do risco que o material elétrico apresenta, realizar, a fim de proteger a saúde e a segurança dos consumidores, ensaios por amostragem do material elétrico que colocaram no mercado, investigar e, se necessário, conservar um registo das reclamações, do material elétrico não conforme e do material elétrico recolhido, e informar os distribuidores de todas estas ações de controlo;\n\nh) Sempre que considerem ou tenham motivos para crer que determinado material elétrico que colocaram no mercado não se encontra em conformidade com o presente decreto-lei, tomar as medidas corretivas necessárias para o colocar em conformidade, retirar ou recolher, se adequado, e, caso o material elétrico apresente um risco, informar imediatamente desse facto as autoridades de fiscalização do mercado dos Estados-Membros onde disponibilizaram o material, fornecendo-lhes as informações relevantes, sobretudo no que se refere à não conformidade e às medidas corretivas aplicadas;\n\ni) Conservar a documentação técnica e a declaração UE de conformidade, em papel ou, preferencialmente, em suporte eletrónico, pelo período de 10 anos a contar da data de colocação do material elétrico no mercado, facultando-as à autoridade de fiscalização do mercado sempre que solicitado;\n\nj) Facultar, em língua facilmente compreensível pela autoridade de fiscalização do mercado, mediante pedido fundamentado daquela autoridade, toda a informação e documentação necessárias para demonstrar a conformidade do material elétrico, em papel ou, preferencialmente, em suporte eletrónico, bem como cooperar com aquela autoridade em todas as ações de eliminação dos riscos decorrentes do material que tenham colocado no mercado."
+  },
+  "156568154": {
+   "fragment_id": "156691440",
+   "type": 11,
+   "heading": "Artigo 10.º — Deveres dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Deveres dos distribuidores\n\nOs distribuidores devem:\n\na) Agir com a devida diligência em relação aos requisitos constantes do presente decreto-lei, ao disponibilizarem material elétrico no mercado;\n\nb) Verificar, antes da disponibilização no mercado, se o material elétrico ostenta a marcação CE, e se vem acompanhado da documentação necessária, nomeadamente das instruções e das informações de segurança em língua portuguesa, e ainda se o fabricante e o importador respeitaram as exigências previstas nas alíneas g) e h) do artigo 7.º e na alínea g) do artigo anterior;\n\nc) Abster-se de disponibilizar no mercado material elétrico sempre que considerem ou tenham motivos para crer que o mesmo não está conforme com os objetivos de segurança previstos no anexo I ao presente decreto-lei e, caso o material elétrico apresente um risco, informar desse facto o fabricante ou importador e a autoridade de fiscalização do mercado;\n\nd) Assegurar, enquanto o material elétrico estiver sob a sua responsabilidade, que as condições de armazenamento e transporte não prejudicam a sua conformidade com os objetivos de segurança previstos no artigo 4.º e no anexo I ao presente decreto-lei;\n\ne) Sempre que considerem ou tenham motivos para crer que determinado material elétrico que disponibilizaram no mercado não se encontra em conformidade com o presente decreto-lei, tomar as medidas corretivas necessárias para o colocar em conformidade, retirar ou recolher, se adequado, e, caso o material elétrico apresente um risco, informar imediatamente desse facto as autoridades de fiscalização do mercado dos Estados-Membros onde disponibilizaram o material, fornecendo-lhes as informações relevantes, sobretudo no que se refere à não conformidade e às medidas corretivas aplicadas;\n\nf) Facultar, em língua facilmente compreensível pela autoridade de fiscalização do mercado, mediante pedido fundamentado daquela autoridade, toda a informação e documentação necessárias para demonstrar a conformidade do material elétrico, em papel ou, preferencialmente, em suporte eletrónico, bem como cooperar com aquela autoridade em todas as ações de eliminação dos riscos detetados em material elétrico que tenham disponibilizado no mercado."
+  },
+  "156568155": {
+   "fragment_id": "156691441",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicação dos deveres dos fabricantes aos importadores e distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação dos deveres dos fabricantes aos importadores e distribuidores\n\nPara efeitos do presente decreto-lei, são aplicáveis aos importadores e distribuidores os deveres dos fabricantes estabelecidos no artigo 7.º sempre que coloquem no mercado material elétrico em seu nome ou com uma marca sua, ou alterem de tal modo material elétrico já colocado no mercado que a sua conformidade com o disposto no presente decreto-lei possa ser afetada."
+  },
+  "156568156": {
+   "fragment_id": "156691442",
+   "type": 11,
+   "heading": "Artigo 12.º — Identificação dos operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Identificação dos operadores económicos\n\n1 - A pedido da autoridade de fiscalização do mercado, os operadores económicos devem identificar o operador económico que lhes forneceu e/ou a quem forneceram o material elétrico.\n\n2 - O registo das informações referidas no número anterior deve ser conservado pelo operador económico pelo período de 10 anos contados a partir:\n\na) Da data em que o material elétrico lhe foi fornecido;\n\nb) Da data em que forneceu o material elétrico."
+  },
+  "156568157": {
+   "fragment_id": "156691443",
+   "type": 1,
+   "heading": "Capítulo III — Conformidade do material elétrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Conformidade do material elétrico"
+  },
+  "156568158": {
+   "fragment_id": "156691444",
+   "type": 11,
+   "heading": "Artigo 13.º — Presunção da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Presunção da conformidade\n\n1 - O material elétrico que estiver de acordo com as normas harmonizadas ou partes destas, cujas referências tenham sido publicadas no Jornal Oficial da União Europeia (JOUE), presume-se conforme com os requisitos de segurança previstos no artigo 4.º e no anexo I ao presente decreto-lei.\n\n2 - Caso não tenham sido estabelecidas e publicadas normas harmonizadas, presume-se que o material elétrico que estiver conforme com as especificações de segurança da Comissão Eletrotécnica Internacional publicadas, a título informativo, no JOUE se encontra de acordo com os requisitos de segurança previstos no artigo 4.º e no anexo I ao presente decreto-lei.\n\n3 - Quando não existam as normas harmonizadas ou especificações de segurança referidas nos números anteriores, presume-se igualmente em conformidade com os requisitos de segurança previstos no artigo 4.º e no anexo I ao presente decreto-lei, o material elétrico que esteja de acordo com:\n\na) As normas ou especificações portuguesas relativas ao material elétrico em causa que garantam a segurança exigida pelo artigo 4.º e pelo anexo I do presente decreto-lei e sejam indicadas pelo Instituto Português da Qualidade, I. P. (IPQ, I. P.);\n\nb) As normas ou especificações nacionais de segurança em vigor no Estado-Membro em que o material elétrico foi produzido, desde que cumpra os objetivos de segurança referidos no artigo 4.º e no anexo I ao presente decreto-lei e garanta um nível de segurança equivalente ao exigido por esse Estado-Membro no seu território."
+  },
+  "156568159": {
+   "fragment_id": "156691445",
+   "type": 11,
+   "heading": "Artigo 14.º — Declaração UE de conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Declaração UE de conformidade\n\n1 - A declaração UE de conformidade deve indicar que foi demonstrado o cumprimento das exigências e requisitos estabelecidos no artigo 4.º e no anexo I ao presente decreto-lei.\n\n2 - A declaração UE de conformidade deve respeitar o modelo previsto no anexo III ao presente decreto-lei, do qual faz parte integrante, conter os elementos previstos no módulo A do anexo II ao presente decreto-lei, estar sempre atualizada, e ser redigida em língua portuguesa.\n\n3 - Sempre que o material elétrico esteja sujeito a mais do que um ato da UE que exija uma declaração UE de conformidade, deve ser elaborada uma única declaração UE de conformidade referente a todos esses atos da UE, a qual deve conter a identificação dos referidos atos, incluindo as respetivas referências de publicação.\n\n4 - Ao redigir a declaração UE de conformidade, o fabricante assume a responsabilidade pela conformidade do material elétrico com os requisitos previstos no presente decreto-lei."
+  },
+  "156568160": {
+   "fragment_id": "156691446",
+   "type": 11,
+   "heading": "Artigo 15.º — Princípios gerais da marcação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Princípios gerais da marcação CE\n\nA marcação CE está sujeita aos princípios gerais previstos no artigo 30.º do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008."
+  },
+  "156568161": {
+   "fragment_id": "156691447",
+   "type": 11,
+   "heading": "Artigo 16.º — Regras e condições para a aposição da marcação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regras e condições para a aposição da marcação CE\n\n1 - A marcação CE deve ser aposta no material elétrico antes da sua colocação no mercado.\n\n2 - A marcação CE deve ser aposta no material elétrico ou na sua placa de identificação, de modo visível, legível e indelével, ou, caso isso não seja possível ou não possa ser garantido devido à natureza do material elétrico, na embalagem e nos documentos que o acompanham."
+  },
+  "156568162": {
+   "fragment_id": "156691448",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização do mercado e medidas restritivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização do mercado e medidas restritivas"
+  },
+  "156568163": {
+   "fragment_id": "156691449",
+   "type": 11,
+   "heading": "Artigo 17.º — Procedimento aplicável ao material elétrico que apresenta riscos a nível nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Procedimento aplicável ao material elétrico que apresenta riscos a nível nacional\n\n1 - Sempre que a autoridade de fiscalização do mercado tenha motivos suficientes para crer que o material elétrico apresenta riscos para a saúde ou a para a segurança das pessoas, para os animais domésticos ou para os bens, efetua uma avaliação desse material, abrangendo todos os requisitos aplicáveis previstos no presente decreto-lei, devendo os operadores económicos envolvidos, cooperar com essa autoridade para esse efeito, na medida do necessário.\n\n2 - Sempre que, no decurso da avaliação referida no número anterior, a autoridade de fiscalização do mercado verificar que o material elétrico não cumpre os requisitos do presente decreto-lei, exige que o operador económico em causa adote todas as medidas corretivas adequadas para assegurar a conformidade desse material elétrico com esses requisitos, para o retirar ou para o recolher do mercado, num prazo razoável, por si fixado, proporcional à natureza do risco, aplicando-se as medidas restritivas mencionadas no artigo 21.º do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008.\n\n3 - Caso a autoridade de fiscalização do mercado considere que a não conformidade não se limita ao território nacional, comunica à Comissão Europeia e aos restantes Estados-Membros os resultados da avaliação e as medidas que foram exigidas ao operador económico.\n\n4 - O operador económico deve assegurar que são tomadas todas as medidas corretivas necessárias relativamente a todo o material elétrico que tenha disponibilizado no mercado.\n\n5 - Quando o operador económico não toma as medidas corretivas adequadas no prazo referido no n.º 2, a autoridade de fiscalização do mercado toma todas as medidas provisórias adequadas para proibir ou restringir a disponibilização do material elétrico no mercado nacional, para o retirar do mercado ou para o recolher.\n\n6 - A autoridade de fiscalização do mercado informa a Comissão Europeia e os demais Estados-Membros das medidas tomadas, indicando todos os elementos disponíveis, nomeadamente, os dados necessários para identificar o material elétrico não conforme, a sua origem, a natureza da alegada não conformidade e do risco conexo, a natureza e a duração das medidas nacionais tomadas e os argumentos expostos pelo operador económico em causa.\n\n7 - Para efeitos do disposto no número anterior, a autoridade de fiscalização do mercado deve indicar, nomeadamente, se a não conformidade se deve:\n\na) À não conformidade do material elétrico com os objetivos de segurança previstos no anexo I ao presente decreto-lei, ligados à saúde e à segurança das pessoas, dos animais domésticos ou dos bens; ou\n\nb) A deficiências das normas harmonizadas ou das normas internacionais ou nacionais que conferem a presunção de conformidade nos termos do artigo 13.º"
+  },
+  "156568164": {
+   "fragment_id": "156691450",
+   "type": 11,
+   "heading": "Artigo 18.º — Procedimento de salvaguarda da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Procedimento de salvaguarda da União Europeia\n\n1 - Se, no termo do procedimento previsto nos n.os 3 e 6 do artigo anterior, forem levantadas objeções a uma medida tomada, ou caso a Comissão Europeia considere que essa medida é contrária à legislação da UE, a Comissão Europeia determina se a medida se justifica ou não.\n\n2 - Se a medida for considerada justificada, a autoridade de fiscalização do mercado deve tomar as medidas necessárias para assegurar que o produto não conforme seja retirado do mercado e informar desse facto a Comissão Europeia.\n\n3 - Se a medida for considerada injustificada, a autoridade de fiscalização do mercado deve proceder à sua revogação."
+  },
+  "156568165": {
+   "fragment_id": "156691451",
+   "type": 11,
+   "heading": "Artigo 19.º — Material elétrico conforme que apresenta riscos para a saúde ou a segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Material elétrico conforme que apresenta riscos para a saúde ou a segurança\n\n1 - Quando a autoridade de fiscalização do mercado, após a avaliação prevista no n.º 1 do artigo 17.º, verifique que, embora conforme com o presente decreto-lei, o material elétrico apresenta riscos para a saúde ou a segurança de pessoas, animais domésticos ou para os bens, exige que o operador económico tome todas as medidas corretivas adequadas para garantir que esse material elétrico, uma vez colocado no mercado, já não apresente riscos, para retirá-lo do mercado ou ainda, para que seja recolhido num prazo razoável por si fixado, proporcional em relação à natureza dos riscos.\n\n2 - O operador económico deve assegurar que são tomadas todas as medidas corretivas necessárias relativamente ao material elétrico em causa por si disponibilizado no mercado da UE.\n\n3 - Sempre que for detetado material elétrico conforme com o presente decreto-lei que apresenta riscos para a saúde ou a segurança de pessoas, animais domésticos ou para os bens, a autoridade de fiscalização do mercado informa desse facto a Comissão Europeia e os restantes Estados-Membros, constando dessa informação todos os elementos disponíveis, nomeadamente, os dados necessários à identificação do material elétrico em causa, a origem e o circuito comercial, bem como o tipo de risco conexo e a natureza e duração das medidas nacionais tomadas."
+  },
+  "156568166": {
+   "fragment_id": "156691452",
+   "type": 11,
+   "heading": "Artigo 20.º — Não conformidade formal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Não conformidade formal\n\n1 - Sem prejuízo do disposto no artigo 17.º, a autoridade de fiscalização do mercado exige ao operador económico que ponha termo à não conformidade do material elétrico sempre que verifique:\n\na) A marcação CE aposta em violação do artigo 30.º do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008 ou do artigo 16.º do presente decreto-lei;\n\nb) A não aposição de marcação CE;\n\nc) A inexistência de declaração UE de conformidade;\n\nd) A presença de incorreções na declaração UE de conformidade;\n\ne) A não disponibilização de documentação técnica ou a disponibilização de documentação incompleta;\n\nf) A falta das informações referidas na alínea h) do artigo 7.º e na alínea d) do artigo 9.º, bem como a prestação destas informações falsas ou incompletas;\n\ng) O incumprimento de outros requisitos administrativos previstos no artigo 7.º ou no artigo 9.º\n\n2 - Se a não conformidade referida no número anterior persistir, a autoridade de fiscalização do mercado toma as medidas adequadas para restringir ou proibir a disponibilização do material elétrico no mercado, ou para garantir que o mesmo seja recolhido ou retirado do mercado."
+  },
+  "156568167": {
+   "fragment_id": "156691453",
+   "type": 11,
+   "heading": "Artigo 21.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Fiscalização\n\n1 - À fiscalização do material elétrico colocado no mercado em cumprimento do disposto no presente decreto-lei aplica-se o disposto no n.º 3 do artigo 15.º e nos artigos 16.º a 29.º do Regulamento (CE) n.º 765/2008, do Parlamento Europeu e do Conselho, de 9 de julho de 2008.\n\n2 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente decreto-lei compete à Autoridade de Segurança Alimentar e Económica (ASAE), enquanto autoridade de fiscalização do mercado, cabendo-lhe:\n\na) Adotar as medidas adequadas para assegurar que o material elétrico abrangido pelo presente decreto-lei só é colocado no mercado quando convenientemente armazenado e utilizado para o fim a que se destina, e desde que não comprometa a saúde e a segurança das pessoas, dos animais domésticos e os bens;\n\nb) Realizar inspeções adequadas tendo em vista assegurar que material elétrico suscetível de prejudicar a saúde ou a segurança das pessoas, dos animais domésticos e os bens, ou que por qualquer outro motivo não cumpra com as disposições do presente decreto-lei, seja proibido, restringida a sua disponibilização ou retirado do mercado;\n\nc) Ordenar aos operadores económicos a apresentação de documentação e informação que considerem necessários, podendo proceder à colheita de amostras representativas do material elétrico que se mostrem necessárias."
+  },
+  "156568168": {
+   "fragment_id": "156691454",
+   "type": 11,
+   "heading": "Artigo 22.º — Controlo na fronteira externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Controlo na fronteira externa\n\nCompete à Autoridade Tributária e Aduaneira, nos termos do artigo 5.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro, efetuar o controlo na fronteira externa do material elétrico abrangido pelo presente decreto-lei que provenha de países terceiros, previsto no n.º 1 do artigo 4.º"
+  },
+  "156568169": {
+   "fragment_id": "156691455",
+   "type": 1,
+   "heading": "Capítulo V — Regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime contraordenacional"
+  },
+  "156568170": {
+   "fragment_id": "156691456",
+   "type": 11,
+   "heading": "Artigo 23.º — Contraordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Contraordenações e coimas\n\n1 - A infração ao disposto no artigo 15.º do presente decreto-lei rege-se pelo disposto no artigo 6.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro.\n\n2 - Constitui contraordenação punível com coima de (euro) 1 000,00 a (euro) 3 740,00, quando cometida por pessoas singulares, e de (euro) 2 500,00 a (euro) 44 890,00, quando cometida por pessoas coletivas, a violação das regras e condições de aposição da marcação CE previstas no artigo 16.º\n\n3 - Constituem contraordenações puníveis com coima de (euro) 925,00 a (euro) 1 870,00, quando cometida por pessoas singulares, e de (euro) 2 275,00 a (euro) 22 445,00, quando cometida por pessoas coletivas, as seguintes infrações, identificadas de acordo com os operadores em causa:\n\na) No caso dos fabricantes:\n\ni) A não conservação da documentação técnica prevista no anexo II ao presente decreto-lei e a declaração UE de conformidade, nos termos previstos na alínea d) do artigo 7.º;\n\nii) A inexistência de procedimentos para manter a conformidade da produção em série, de acordo com o previsto na alínea e) do artigo 7.º;\n\niii) O incumprimento do disposto na alínea f) do artigo 7.º;\n\niv) A falta de elementos de identificação do material colocado no mercado, nos termos da alínea g) do artigo 7.º;\n\nv) A não indicação dos seus elementos de identificação e os respetivos dados de contacto previstos na alínea h) do artigo 7.º;\n\nvi) A falta de instruções e informações de segurança nos termos do disposto na alínea i) do artigo 7.º;\n\nvii) Não tomar as medidas corretivas necessárias previstas, nem informar as autoridades de fiscalização dos Estados-Membros onde disponibilizaram o material, caso este apresente um risco, nos termos da alínea j) do artigo 7.º;\n\nviii) O incumprimento do disposto na alínea k) do artigo 7.º;\n\nb) No caso dos mandatários:\n\ni) A não manutenção da documentação técnica e da declaração UE de conformidade, nos termos previstos na alínea a) do n.º 3 do artigo 8.º;\n\nii) O incumprimento do disposto na alínea b) do n.º 3 do artigo 8.º;\n\niii) Não cooperar com a autoridade de fiscalização do mercado, conforme previsto na alínea c) do n.º 3 do artigo 8.º;\n\nc) No caso dos importadores:\n\ni) O incumprimento do disposto na alínea g) do artigo 9.º;\n\nii) Não tomar as medidas corretivas necessárias e de informação, previstas na alínea h) do artigo 9.º;\n\nd) No caso dos distribuidores:\n\ni) O incumprimento do disposto na alínea f) do artigo 10.º;\n\ne) O incumprimento, por qualquer operador, do pedido formulado pela autoridade de fiscalização do mercado, conforme previsto no n.º 1 do artigo 12.º;\n\nf) A falta de conservação, por qualquer operador, do registo das informações nos termos e prazos previstos no n.º 2 do artigo 12.º\n\n4 - Constituem contraordenações puníveis com coima de (euro) 1 000,00 a (euro) 3 740,00, quando cometida por pessoas singulares, e de (euro) 2 500,00 a (euro) 44 890,00 quando cometida por pessoas coletivas, as infrações seguintes:\n\na) A disponibilização no mercado, por qualquer operador, de material que coloque em risco a saúde e a segurança de pessoas e dos animais domésticos, e os bens, nos termos do n.º 1 do artigo 4.º;\n\nb) No caso dos fabricantes:\n\ni) A colocação de material no mercado sem cumprir o disposto na alínea a) do artigo 7.º;\n\nii) O incumprimento do previsto nos termos da alínea b) do artigo 7.º;\n\niii) A falta de declaração UE de conformidade e da aposição da marcação CE, nos termos da alínea c) do artigo 7.º;\n\nc) No caso dos importadores:\n\ni) A colocação no mercado de material não conforme com o presente decreto-lei, nos termos da alínea a) do artigo 9.º;\n\nii) O incumprimento de qualquer das subalíneas da alínea b) do artigo 9.º;\n\niii) A colocação no mercado de material que se encontre nos termos previstos na alínea c) do artigo 9.º;\n\niv) A não indicação dos seus elementos de identificação e dos respetivos dados de contacto no material ou na respetiva embalagem, tal como previstos na alínea d) do artigo 9.º;\n\nv) A falta de instruções e informações de segurança nos termos do disposto na alínea e) do artigo 9.º;\n\nvi) O incumprimento do disposto na alínea f) do artigo 9.º;\n\nvii) A não conservação da documentação técnica e da declaração UE de conformidade, nos termos previstos na alínea i) do artigo 9.º;\n\nviii) O incumprimento do disposto na alínea j) do artigo 9.º;\n\nd) No caso dos distribuidores:\n\ni) A disponibilização de material no mercado em incumprimento do disposto na alínea a) do artigo 10.º;\n\nii) A disponibilização no mercado de material sem verificar se o material contém os requisitos e documentação devidos e se o fabricante e o importador respeitaram as exigências legalmente previstas, conforme disposto na alínea b) do artigo 10.º;\n\niii) A disponibilização no mercado de material que não esteja conforme com os objetivos de segurança e, caso apresente um risco, não informar o fabricante, o importador e a autoridade de fiscalização do mercado, nos termos previstos na alínea c) do artigo 10.º;\n\niv) Não assegurar as devidas condições de armazenamento e transporte, conforme previstas na alínea d) do artigo 10.º;\n\nv) Não tomar as medidas corretivas necessárias previstas, nem informar as autoridades de fiscalização dos Estados-Membros onde disponibilizaram o material, caso este apresente um risco, nos termos da alínea e) do artigo 10.º\n\n5 - A negligência é punível, sendo os montantes das coimas referidos nos números anteriores reduzidos para metade.\n\n6 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada."
+  },
+  "156568171": {
+   "fragment_id": "156691457",
+   "type": 11,
+   "heading": "Artigo 24.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sanções acessórias\n\nSem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias estabelecidas no regime jurídico do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "156568172": {
+   "fragment_id": "156691458",
+   "type": 11,
+   "heading": "Artigo 25.º — Instrução e decisão de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Instrução e decisão de processos\n\n1 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE."
+  },
+  "156568173": {
+   "fragment_id": "156691459",
+   "type": 11,
+   "heading": "Artigo 26.º — Distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas em virtude da violação do presente decreto-lei reverte em:\n\na) 60 % para o Estado;\n\nb) 10 % para a entidade que levanta o auto de notícia;\n\nc) 20 % para a ASAE;\n\nd) 10 % para o IPQ, I. P."
+  },
+  "156568174": {
+   "fragment_id": "156691460",
+   "type": 11,
+   "heading": "Artigo 27.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Direito subsidiário\n\nÀs contraordenações previstas no presente decreto-lei é subsidiariamente aplicável o regime jurídico do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "156696075": {
+   "fragment_id": "156691461",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições complementares, transitórias e finais"
+  },
+  "156696076": {
+   "fragment_id": "156691462",
+   "type": 11,
+   "heading": "Artigo 28.º — Acompanhamento da aplicação global do decreto-lei",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Acompanhamento da aplicação global do decreto-lei\n\nO IPQ, I. P., é a autoridade nacional competente para o acompanhamento da aplicação presente decreto-lei, competindo-lhe, nomeadamente:\n\na) Publicitar as referências das normas harmonizadas, publicadas no JOUE, aplicáveis no âmbito da Diretiva n.º 2014/35/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014;\n\nb) Acompanhar a aplicação do presente decreto-lei, propondo as medidas necessárias à prossecução dos seus objetivos e as que se destinam a assegurar a ligação com a Comissão Europeia e os demais Estados-Membros da UE;\n\nc) Assegurar a representação nacional no Comité do Material Elétrico, previsto no artigo 23.º da Diretiva n.º 2014/35/CE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014."
+  },
+  "156696077": {
+   "fragment_id": "156691463",
+   "type": 11,
+   "heading": "Artigo 29.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regiões Autónomas\n\n1 - Os atos e procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa.\n\n2 - O produto do resultado da aplicação das respetivas coimas pelas Regiões Autónomas constitui receita própria das mesmas."
+  },
+  "156696078": {
+   "fragment_id": "156691464",
+   "type": 11,
+   "heading": "Artigo 30.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Norma transitória\n\nSem prejuízo do disposto no artigo 32.º, o material elétrico colocado no mercado antes de 20 de abril de 2016, pode ser disponibilizado no mercado, desde que esteja conforme com o previsto no Decreto-Lei n.º 6/2008, de 10 de janeiro."
+  },
+  "156696079": {
+   "fragment_id": "156691465",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 6/2008, de 10 de janeiro."
+  },
+  "156696080": {
+   "fragment_id": "156691466",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "156696082": {
+   "fragment_id": "156691468",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n[a que se referem a alínea a) do artigo 3.º, o n.º 2 do artigo 4.º, o artigo 6.º, alínea a) do artigo 7.º, as alíneas c) e f) do artigo 9.º, as alíneas c) e d) do artigo 10.º, o artigo 13.º, o n.º 1 do artigo 14.º e a alínea a) do n.º 1 do artigo 17.º]\n\nPrincipais elementos dos objetivos de segurança para o material elétrico destinado a ser utilizado dentro de certos limites de tensão\n\n1 - Condições gerais:\n\na) As características essenciais do material elétrico cujo conhecimento e cumprimento sejam indispensáveis para uma utilização isenta de riscos e de acordo com o fim a que o material se destina devem ser afixadas no próprio material elétrico, ou, quando isso não seja possível, num documento que o acompanhe;\n\nb) Tanto o material elétrico, como as partes que o constituem, devem ser fabricados de modo a poder ser montados de forma segura e adequada;\n\nc) O material elétrico deve ser projetado e fabricado de forma a que fique garantida a proteção contra os riscos mencionados nos n.os 2 e 3, desde que seja utilizado de acordo com o fim a que se destina e que seja objeto de manutenção adequada.\n\n2 - Proteção contra os riscos resultantes do material elétrico:\n\nDevem ser previstas medidas de ordem técnica de acordo com o número anterior, a fim de que:\n\na) As pessoas e os animais domésticos fiquem protegidos de forma adequada contra os riscos de ferimentos ou de outros acidentes resultantes de contactos diretos ou indiretos;\n\nb) Não se produzam temperaturas, descargas ou radiações que possam provocar perigo;\n\nc) As pessoas, os animais domésticos e os bens sejam protegidos de forma adequada contra os riscos de natureza não elétrica provenientes do material elétrico que a experiência venha a revelar;\n\nd) O isolamento seja adequado aos condicionamentos previstos.\n\n3 - Proteção contra os riscos que possam ser provocados por influências exteriores sobre o material elétrico:\n\nDevem ser previstas medidas de ordem técnica de acordo com o n.º 1, a fim de que o material elétrico:\n\na) Responda às exigências mecânicas previstas, de modo a não pôr em risco as pessoas, os animais domésticos e os bens;\n\nb) Resista às influências não mecânicas nas condições ambientais previstas, de modo a não pôr em risco as pessoas, os animais domésticos e os bens;\n\nc) Não ponha em risco as pessoas, os animais domésticos e os bens nas condições de sobrecarga previstas."
+  },
+  "156696083": {
+   "fragment_id": "156691469",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n[a que se refere o n.º 2 do artigo 4.º, as alíneas b), c) e d) do artigo 7.º, o n.º 2 do artigo 14.º e a subalínea i) da alínea a) do n.º 2 do artigo 23.º]\n\nMódulo A\n\nControlo interno da produção\n\n1 - Controlo interno da produção:\n\nO controlo interno da produção é o procedimento de avaliação da conformidade através do qual o fabricante cumpre os deveres definidos nos n.os 2, 3 e 4 e garante e declara, sob a sua exclusiva responsabilidade que o material elétrico em causa cumpre os requisitos do presente decreto-lei que lhe são aplicáveis.\n\n2 - Documentação técnica:\n\nO fabricante deve reunir a documentação técnica. Essa documentação deve permitir a avaliação da conformidade do material elétrico com os requisitos aplicáveis e incluir uma análise e uma avaliação adequadas dos riscos. A documentação técnica deve especificar os requisitos aplicáveis e abranger, se tal for relevante para a avaliação, o projeto, o fabrico e o funcionamento do material elétrico. A documentação técnica deve conter, se for esse o caso, pelo menos os seguintes elementos:\n\na) Uma descrição geral do material elétrico;\n\nb) Os desenhos de projeto e de fabrico e esquemas de componentes, subconjuntos, circuitos, etc.;\n\nc) As descrições e explicações necessárias para a compreensão dos referidos desenhos e esquemas e do funcionamento do material elétrico;\n\nd) Uma lista das normas harmonizadas aplicadas, total ou parcialmente, cujas referências foram publicadas no Jornal Oficial da União Europeia, ou das normas internacionais ou nacionais referidas no artigo 13.º, e, nos casos em que as normas harmonizadas ou as normas internacionais ou nacionais não tenham sido aplicadas, descrições das soluções adotadas para cumprir os objetivos de segurança do presente decreto-lei, incluindo uma lista de outras especificações técnicas relevantes aplicadas. No caso de terem sido parcialmente aplicadas normas harmonizadas ou as normas internacionais ou nacionais referidas no artigo 13.º, a documentação técnica deve especificar as partes que foram aplicadas;\n\ne) Os resultados dos cálculos de projeto, dos exames efetuados, etc.;\n\nf) Relatórios dos ensaios.\n\n3 - Fabrico:\n\nO fabricante deve tomar todas as medidas necessárias para que o processo de fabrico e o respetivo controlo garantam a conformidade do material elétrico fabricado com a documentação técnica mencionada no n.º 2 e com os requisitos do presente decreto-lei que lhe são aplicáveis.\n\n4 - Marcação CE e declaração UE de conformidade:\n\n4.1 - O fabricante deve apor a marcação CE a cada material elétrico que satisfaça os requisitos aplicáveis do presente decreto-lei.\n\n4.2 - O fabricante deve elaborar uma declaração UE de conformidade escrita para cada modelo de produto e mantê-la em conjunto, com a documentação técnica, à disposição das autoridades nacionais de fiscalização do mercado, por um período de 10 anos a contar da data de colocação no mercado do material elétrico. A declaração UE de conformidade deve especificar o material elétrico para o qual foi estabelecida.\n\nDeve ser fornecida à autoridade de fiscalização do mercado, a seu pedido, uma cópia da declaração UE de conformidade.\n\n5 - Mandatário:\n\nOs deveres do fabricante, enunciados no número anterior, podem ser cumpridos, em seu nome e sob a sua responsabilidade, pelo seu mandatário, desde que se encontrem especificados no mandato.\n\n6 - Arquivo da declaração UE de conformidade e da documentação técnica\n\nA declaração UE de conformidade e a documentação técnica podem ser arquivadas em papel, ou, preferencialmente, em suporte eletrónico."
+  },
+  "156696084": {
+   "fragment_id": "156691470",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 2 do artigo 14.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 2 do artigo 14.º)\n\nDeclaração UE de conformidade (n.º XXXX) (1)\n\n1 - Modelo do produto/produto (número do produto, do tipo do lote ou da série):\n\n2 - Nome e endereço do fabricante ou do respetivo mandatário:\n\n3 - A presente declaração de conformidade é emitida sob a exclusiva responsabilidade do fabricante:\n\n4 - Objeto da declaração (identificação do material elétrico que permita rastreá-lo; se for necessário para a identificação do material elétrico, pode incluir uma imagem a cores suficientemente clara):\n\n5 - O objeto da declaração acima descrito está em conformidade com a legislação de harmonização da UE aplicável:\n\n6 - Referências às normas harmonizadas aplicáveis utilizadas ou a outras especificações técnicas em relação às quais é declarada a conformidade:\n\n7 - Informações complementares:\n\nAssinado por e em nome de:\n\n(local e data de emissão):\n\n(nome, cargo) (assinatura):\n\n(1) É facultativo para o fabricante atribuir um número à declaração de conformidade."
+  },
+  "158146710": {
+   "fragment_id": "156691456",
+   "type": 11,
+   "heading": "Artigo 23.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 23.º — Contraordenações\n\n1 - A infração ao disposto no artigo 15.º do presente decreto-lei rege-se pelo disposto no artigo 6.º do Decreto-Lei n.º 23/2011, de 11 de fevereiro.\n\n2 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação das regras e condições de aposição da marcação CE previstas no artigo 16.º\n\n3 - Constituem contraordenação económica grave, punível nos termos do RJCE, as seguintes infrações, identificadas de acordo com os operadores em causa:\n\na) No caso dos fabricantes:\n\ni) A colocação de material no mercado sem cumprir o disposto na alínea a) do artigo 7.º;\n\nii) O incumprimento do previsto nos termos da alínea b) do artigo 7.º;\n\niii) A falta de declaração UE de conformidade e da aposição da marcação CE, nos termos da alínea c) do artigo 7.º;\n\niv) A não conservação da documentação técnica prevista no anexo II ao presente decreto-lei e a declaração UE de conformidade, nos termos previstos na alínea d) do artigo 7.º;\n\nv) A inexistência de procedimentos para manter a conformidade da produção em série, de acordo com o previsto na alínea e) do artigo 7.º;\n\nvi) O incumprimento do disposto na alínea f) do artigo 7.º;\n\nvii) A falta de elementos de identificação do material colocado no mercado, nos termos da alínea g) do artigo 7.º;\n\nvii) A não indicação dos seus elementos de identificação e os respetivos dados de contacto previstos na alínea h) do artigo 7.º;\n\nix) A falta de instruções e informações de segurança nos termos do disposto na alínea i) do artigo 7.º;\n\nx) Não tomar as medidas corretivas necessárias previstas, nem informar as autoridades de fiscalização dos Estados-Membros onde disponibilizaram o material, caso este apresente um risco, nos termos da alínea j) do artigo 7.º;\n\nxi) O incumprimento do disposto na alínea k) do artigo 7.º;\n\nb) No caso dos mandatários:\n\ni) A não manutenção da documentação técnica e da declaração UE de conformidade, nos termos previstos na alínea a) do n.º 3 do artigo 8.º;\n\nii) O incumprimento do disposto na alínea b) do n.º 3 do artigo 8.º;\n\niii) Não cooperar com a autoridade de fiscalização do mercado, conforme previsto na alínea c) do n.º 3 do artigo 8.º;\n\nc) No caso dos importadores:\n\ni) A colocação no mercado de material não conforme com o presente decreto-lei, nos termos da alínea a) do artigo 9.º;\n\nii) O incumprimento de qualquer das subalíneas da alínea b) do artigo 9.º;\n\niii) A colocação no mercado de material que se encontre nos termos previstos na alínea c) do artigo 9.º;\n\niv) A não indicação dos seus elementos de identificação e dos respetivos dados de contacto no material ou na respetiva embalagem, tal como previstos na alínea d) do artigo 9.º;\n\nv) A falta de instruções e informações de segurança nos termos do disposto na alínea e) do artigo 9.º;\n\nvi) O incumprimento do disposto na alínea f) do artigo 9.º;\n\nvii) O incumprimento do disposto na alínea g) do artigo 9.º;\n\nviii) Não tomar as medidas corretivas necessárias e de informação, previstas na alínea h) do artigo 9.º;\n\nix) A não conservação da documentação técnica e da declaração UE de conformidade, nos termos previstos na alínea i) do artigo 9.º;\n\nx) O incumprimento do disposto na alínea j) do artigo 9.º;\n\nd) No caso dos distribuidores:\n\ni) A disponibilização de material no mercado em incumprimento do disposto na alínea a) do artigo 10.º;\n\nii) A disponibilização no mercado de material sem verificar se o material contém os requisitos e documentação devidos e se o fabricante e o importador respeitaram as exigências legalmente previstas, conforme disposto na alínea b) do artigo 10.º;\n\niii) A disponibilização no mercado de material que não esteja conforme com os objetivos de segurança e, caso apresente um risco, não informar o fabricante, o importador e a autoridade de fiscalização do mercado, nos termos previstos na alínea c) do artigo 10.º;\n\niv) Não assegurar as devidas condições de armazenamento e transporte, conforme previstas na alínea d) do artigo 10.º;\n\nv) Não tomar as medidas corretivas necessárias previstas, nem informar as autoridades de fiscalização dos Estados-Membros onde disponibilizaram o material, caso este apresente um risco, nos termos da alínea e) do artigo 10.º;\n\nvi) O incumprimento do disposto na alínea f) do artigo 10.º;\n\ne) No caso de qualquer operador económico:\n\ni) A disponibilização no mercado de material que coloque em risco a saúde e a segurança de pessoas e dos animais domésticos, e os bens, nos termos do n.º 1 do artigo 4.º;\n\nii) O incumprimento do pedido formulado pela autoridade de fiscalização do mercado, conforme previsto no n.º 1 do artigo 12.º;\n\niii) A falta de conservação do registo das informações nos termos e prazos previstos no n.º 2 do artigo 12.º\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156696085": {
+   "fragment_id": "156691457",
+   "type": 11,
+   "heading": "Artigo 24.º — Sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 24.º — Sanções acessórias\n\nSem prejuízo da responsabilidade civil e criminal a que houver lugar, sempre que a gravidade da contraordenação e a culpa do agente o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias previstas no RJCE.\n\n> Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156696086": {
+   "fragment_id": "156691459",
+   "type": 11,
+   "heading": "Artigo 26.º — Distribuição do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 26.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156696087": {
+   "fragment_id": "156691460",
+   "type": 11,
+   "heading": "Artigo 27.º — Direito subsidiário",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 27.º — Direito subsidiário\n\nÀs contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.\n\n> Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156696081": {
+   "fragment_id": "156691467",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de dezembro de 2016. - Augusto Ernesto Santos Silva - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem - Manuel de Herédia Caldeira Cabral.\n\nPromulgado em 5 de fevereiro de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 14 de fevereiro de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

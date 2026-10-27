@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:973669:por
+title: Portaria n.º 1684/2001 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 1684/2001(2.ªsérie)
+official_date: null
+publication_date: '2001-10-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 236/2001, Série II de 2001-10-11
+  number: '236'
+  series: II
+  supplement: null
+  pages: 16948 - 16948
+  pdf_url: https://files.diariodarepublica.pt/2s/2001/10/236000000/1694816948.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '973669'
+  dre_path: /dr/detalhe/portaria/1684-2001-973669
+  internal: pt:dre:973669:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1684-2001-973669
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1684-2001-973669
+  consolidated_url: null
+  retrieved_at: '2026-10-23T16:18:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 415e6d2b3f8e4b5b2ba805642d8b1d359246a8051f11e500dcffbae6ea389418
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T16:18:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Pública
+- Aquisição de Bens e Serviços
+- Contrato
+- Direcção Geral do Património
+- Equipamento Informático
+relationships:
+- type: cites
+  target: pt:dre:158264:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:322482:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:324160:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T16:18:39Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1684/2001 (2.ª série)
+
+Portaria n.º 1684/2001 (2.ª série). - Considerando que o Estado, através da Direcção-Geral do Património, celebrou com a sociedade anónima Beltrão Coelho o contrato público de aprovisionamento n.º 911 850, para fornecimento de material informático, relativo a microcomputadores da marca CASIO, que veio a ser homologado pela [Portaria n.º 161/99](https://diariodarepublica.pt/dr/detalhe/portaria/161-1999-158264), de 23 de Fevereiro, e cuja validade foi prorrogada pelas Portarias n.os [640/2000](https://diariodarepublica.pt/dr/detalhe/portaria/640-2000-324160), de 7 de Abril, e [596/2001](https://diariodarepublica.pt/dr/detalhe/portaria/596-2001-322482), de 21 de Março;
+
+Considerando que esta sociedade informou a Direcção-Geral do Património, nos termos do n.º 2 do artigo 12.º do caderno de encargos do referido concurso, que, devido à evolução tecnológica por que passaram os computadores de bolso da marca CASIO, nomeadamente ao facto de a introdução de dados ter passado a ser efectuada por caneta e não directamente por teclado, e pelo facto dos novos modelos deste equipamento serem integrados nos acessórios e periféricos da marca Laser com o contrato n.º 911 849, deixou de se justificar a actualização deste contrato, o que leva inexoravelmente à sua rescisão;
+
+Considerando que a mesma sociedade solicitou a devida autorização para rescindir o referido contrato, por impossibilidade de fornecimento desses microcomputadores e de modo a evitar o incumprimento das suas obrigações contratuais, previsto na alínea d) do n.º 1 do artigo 19.º do caderno de encargos do respectivo concurso:
+
+Manda o Governo, pelo Secretário de Estado do Tesouro e Finanças, o seguinte:
+
+1.º Determinar a rescisão do contrato n.º 911 850, celebrado entre o Estado, através da Direcção-Geral do Património, e a sociedade anónima Beltrão Coelho, para fornecimento de microcomputadores da marca CASIO.
+
+2.º A presente portaria produz efeitos a partir da data da sua publicação.
+
+24 de Setembro de 2001. - O Secretário de Estado do Tesouro e Finanças, Rodolfo Vasco Castro Gomes Mascarenhas Lavrador.

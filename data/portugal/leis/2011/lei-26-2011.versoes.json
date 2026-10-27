@@ -1,0 +1,115 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:670006:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2011-75433884",
+ "dre_path": "/dr/detalhe/lei/26-2011-670006",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-06-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75435981",
+    "75435982",
+    "75435983",
+    "75435984",
+    "75435985",
+    "75435986"
+   ]
+  },
+  {
+   "date": "2023-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835674293:por",
+     "title": "Decreto-Lei n.º 128/2023",
+     "published": "2023-12-26",
+     "dre_path": "/dr/detalhe/decreto-lei/128-2023-835674293"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "75435981",
+    "75435982",
+    "835807461",
+    "75435984",
+    "75435985",
+    "75435986",
+    "75435987"
+   ]
+  }
+ ],
+ "fragments": {
+  "75435981": {
+   "fragment_id": "75433885",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 26/2011\n\nde 16 de Junho\n\nTransferência de farmácias (primeira alteração ao Decreto-Lei n.º 307/2007, de 31 de Agosto)\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "75435982": {
+   "fragment_id": "75433886",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração ao artigo 26.º do Decreto-Lei n.º 307/2007, de 31 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração ao artigo 26.º do Decreto-Lei n.º 307/2007, de 31 de Agosto\n\nO artigo 26.º do Decreto-Lei n.º 307/2007, de 31 de Agosto, passa a ter a seguinte redacção:\n\n«1 - Sem prejuízo do disposto nos números seguintes, a proprietária pode, dentro do mesmo município, transferir a localização da farmácia, desde que observe as condições de funcionamento.\n\n2 - Na apreciação do pedido de transferência da localização da farmácia ter-se-á em atenção os seguintes critérios:\n\na) A necessidade de salvaguardar a acessibilidade das populações aos medicamentos, a sua comodidade, bem como a viabilidade económica da farmácia, cuja localização o proprietário pretenda transferir;\n\nb) A melhoria ou aumento dos serviços farmacêuticos de promoção de saúde e do bem-estar dos utentes.\n\n3 - A autorização da transferência de farmácia está sujeita a parecer prévio da câmara municipal competente em razão do território, a emitir no prazo de 60 dias a contar da data da entrada do pedido nos respectivos serviços.\n\n4 - Quando desfavorável, o parecer a que se refere o número anterior é vinculativo.\n\n5 - A não emissão do parecer a que se refere o n.º 3, no prazo fixado para o efeito, entende-se como parecer favorável.\n\n6 - Sem prejuízo da observância do disposto nos números anteriores, o requisito da distância mínima entre farmácias, tal como definido em diploma próprio, não é aplicável no caso de transferência dentro da mesma localidade, desde que:\n\na) Seja previsível a melhoria da qualidade da assistência farmacêutica;\n\nb) Não ocorra alteração da cobertura farmacêutica;\n\nc) Os proprietários das farmácias situadas a distância inferior à definida no diploma a que se refere o presente número declarem por escrito a sua não oposição;\n\nd) A nova localização da farmácia respeite as áreas e divisões legalmente exigíveis para aqueles estabelecimentos.\n\n7 - O disposto na alínea c) do número anterior apenas é aplicável no caso de a transferência resultar numa maior proximidade geográfica entre a farmácia a transferir e as existentes.»"
+  },
+  "75435983": {
+   "fragment_id": "75433887",
+   "type": 11,
+   "heading": "Artigo 2.º — Pressupostos a verificar na transferência nos concelhos limítrofes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pressupostos a verificar na transferência nos concelhos limítrofes\n\nAs farmácias situadas em municípios com uma capitação inferior à exigível, nos termos definidos em diploma próprio do Governo, para a abertura de novas farmácias, podem transferir-se para os concelhos limítrofes com capitação superior, desde que sejam observadas as condições de funcionamento e se verifiquem, cumulativamente, os seguintes pressupostos no município de origem:\n\na) Existam farmácias a menos de 350 m da farmácia que se pretende transferir;\n\nb) A capitação nesse município não se torne superior à legalmente exigível para a abertura de novas farmácias."
+  },
+  "75435984": {
+   "fragment_id": "75433888",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao artigo 48.º do Decreto-Lei n.º 307/2007, de 31 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao artigo 48.º do Decreto-Lei n.º 307/2007, de 31 de Agosto\n\nA alínea j) do artigo 48.º do Decreto-Lei n.º 307/2007, de 31 de Agosto, passa a ter a seguinte redacção:\n\n«j) A abertura da farmácia ao público sem a atribuição do respectivo alvará ou a falta de averbamento em casos de alteração da propriedade ou de transferência da localização, previstas no artigo 25.º, bem como a transferência da localização de farmácia sem a autorização prevista no artigo 26.º;»"
+  },
+  "75435985": {
+   "fragment_id": "75433889",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito de aplicação\n\nA presente lei aplica-se a todos os pedidos de transferência de farmácias dentro do mesmo município posteriores à data da sua entrada em vigor, bem como àqueles que, tendo sido apresentados ao INFARMED, I. P., não tenham sido até essa data alvo de decisão definitiva."
+  },
+  "75435986": {
+   "fragment_id": "75433890",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "835807461": {
+   "fragment_id": "75433887",
+   "type": 11,
+   "heading": "Artigo 2.º — Pressupostos a verificar na transferência nos concelhos limítrofes",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 128/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2023-835674293), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-02"
+   ],
+   "markdown": "###### Artigo 2.º — Pressupostos a verificar na transferência nos concelhos limítrofes\n\nAs farmácias situadas em municípios com uma capitação inferior à exigível, nos termos definidos em diploma próprio do Governo, para a abertura de novas farmácias, podem transferir-se para os concelhos limítrofes com capitação superior, desde que sejam observadas as condições de funcionamento e se verifiquem, cumulativamente, os seguintes pressupostos no município de origem:\n\na) Existam farmácias a menos de 350 m da farmácia que se pretende transferir;\n\nb) A capitação nesse município não se torne superior à legalmente exigível para a abertura de novas farmácias.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 128/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2023-835674293), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-02"
+  },
+  "75435987": {
+   "fragment_id": "75433891",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 6 de Abril de 2011.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 18 de Maio de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 19 de Maio de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

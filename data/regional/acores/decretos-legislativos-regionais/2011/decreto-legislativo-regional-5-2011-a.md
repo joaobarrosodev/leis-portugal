@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:279429:por
+title: Decreto Legislativo Regional n.º 5/2011/A
+short_title: null
+summary: Estabelece o regime de dispensa de medicamentos em unidose pelos serviços farmacêuticos das unidades de saúde do
+  Serviço Regional de Saúde e pelas farmácias de oficina instaladas na Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 5/2011/A
+official_date: null
+publication_date: '2011-03-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 44/2011, Série I de 2011-03-03
+  number: '44'
+  series: I
+  supplement: null
+  pages: 1286 - 1287
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/03/04400/0128601287.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/5/2011/03/03/a/dre/pt/html
+  oj: null
+  dre: '279429'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/5-2011-279429
+  internal: pt:dre:279429:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2011-279429
+  metadata_url: https://data.dre.pt/eli/declegreg/5/2011/03/03/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2011-279429
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:21:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6efab6633c90d7a48ed2f98c921eecda444e0052bdeed0f2b4504bc804665490
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:21:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Assistência Medicamentosa
+- Embalagem
+- Estabelecimento Hospitalar
+- Etiquetagem
+- Farmácia
+- Indústria Farmacêutica
+- Medicamento
+- Serviço Regional de Saúde
+relationships: []
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:21:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 5/2011/A
+
+Regime da dispensa de medicamentos em unidose
+
+Nas sociedades modernas, os medicamentos assumem particular relevância pelos benefícios que proporcionam, mas igualmente pelos custos que acarretam.
+
+Com vista a alcançar melhores resultados em termos de saúde pública e de custo/benefício, que privilegiem uma política mais racional do medicamento, assume especial importância adoptar medidas que assegurem ao utente medicamentos de qualidade a um preço reduzido e que, simultaneamente, permitam a redução das despesas, suportadas pelo sector público com a comparticipação de medicamentos.
+
+É neste âmbito que se enquadra a solução adoptada no presente diploma, cujo objectivo passa pela disponibilização de medicamentos em dose única pelos serviços farmacêuticos das unidades de saúde do Serviço Regional de Saúde e pelas farmácias de oficina instaladas na Região Autónoma dos Açores.
+
+Visa-se, com esta iniciativa, reduzir a despesa suportada pelos utentes, mediante a disponibilização da quantidade de medicamentos ajustada ao tratamento prescrito, atenuar o desperdício, resultante da inadequação das embalagens aos tempos de tratamento, e diminuir as despesas suportadas pelo Serviço Regional de Saúde, pela interacção dos factores relacionados com o aproveitamento inerente às economias de escala, que resultam na redução dos preços dos medicamentos em razão da sua aquisição em grandes quantidades, bem como no menor consumo resultante da disponibilização em dose única.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o regime de dispensa de medicamentos em unidose pelos serviços farmacêuticos das unidades de saúde do Serviço Regional de Saúde e pelas farmácias de oficina instaladas na Região Autónoma dos Açores, nos termos da legislação em vigor.
+
+###### Artigo 2.º — Âmbito
+
+1 - Podem ser dispensados medicamentos em unidose pelos serviços farmacêuticos das unidades de saúde do Serviço Regional de Saúde aos utentes dos hospitais e dos centros de saúde com internamento nas ilhas sem hospital, que tenham sido sujeitos à prestação de cuidados de saúde:
+
+a) No serviço de urgência; ou
+
+b) Após alta médica na sequência de internamento; ou
+
+c) Na consulta externa.
+
+2 - Os utentes referidos no número anterior devem estar munidos de receita médica prescrita em modelo de receituário em vigor no Serviço Regional de Saúde e devidamente validada pelas unidades de saúde referidas no número anterior.
+
+3 - No âmbito do disposto na alínea c) do n.º 1, os serviços farmacêuticos das unidades de saúde do Serviço Regional de Saúde só deverão assegurar a dispensa de medicamentos em unidose na ausência de oferta suficiente no mercado pelas farmácias de oficina.
+
+###### Artigo 3.º — Dispensa de medicamentos
+
+1 - São alvo de dispensa os medicamentos existentes nos serviços farmacêuticos das unidades de saúde referidas no n.º 1 do artigo 2.º, que constem do formulário hospitalar nacional de medicamentos, com as eventuais restrições ou adições propostas pelo conselho de administração do respectivo hospital ou, no caso dos centros de saúde das ilhas sem hospital, pelo conselho de administração do hospital de referência, ouvida a administração da unidade de saúde.
+
+2 - A dispensa de medicamentos em unidose pelas farmácias de oficina instaladas na Região Autónoma dos Açores é objecto de regulamentação.
+
+3 - Para efeitos do presente diploma a dispensa de medicamento em unidose compreende a dispensa em dose individualizada e em dose unitária.
+
+###### Artigo 4.º — Preço e comparticipação
+
+1 - O preço máximo unitário de cada medicamento dispensado em unidose é igual ao menor preço unitário de todas as embalagens maiores comercializadas e comparticipadas da mesma substância activa, com a mesma dosagem e forma farmacêutica.
+
+2 - No preço dos medicamentos dispensados em unidose são consideradas as centésimas.
+
+3 - Os medicamentos dispensados em unidose, e nos termos do artigo 2.º, estão sujeitos às regras de comparticipação aplicáveis ao mesmo medicamento quando dispensado em embalagens industrializadas.
+
+###### Artigo 5.º — Farmacêutico responsável
+
+1 - O Governo Regional dotará de farmacêuticos as unidades de saúde do Serviço Regional de Saúde que deles careçam para assegurar o regular funcionamento dos serviços.
+
+2 - Cada unidade de saúde referida no n.º 1 do artigo 2.º, ou cada unidade de saúde de ilha, deve ter ao seu serviço farmacêuticos responsáveis pela dispensa dos medicamentos em número suficiente para assegurar o serviço em permanência.
+
+###### Artigo 6.º — Norma transitória
+
+1 - O disposto no presente diploma, nomeadamente quanto à dispensa, embalagem e identificação do medicamento em unidose, que garanta a rastreabilidade e a segurança, será objecto de regulamentação por decreto regulamentar regional, no prazo de 180 dias.
+
+2 - A aplicação do regime definido no presente diploma, aos centros de saúde com internamento nas ilhas sem hospital, efectiva-se após um período de 12 meses.
+
+3 - Após o período referido no número anterior os serviços farmacêuticos das unidades de saúde das ilhas sem hospital do Serviço Regional de Saúde só deverão assegurar a dispensa de medicamentos em unidose na ausência de oferta suficiente no mercado local pelas farmácias de oficina.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 27 de Janeiro de 2011.
+
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
+
+Assinado em Angra do Heroísmo em 18 de Fevereiro de 2011.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

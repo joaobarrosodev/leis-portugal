@@ -1,0 +1,114 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:482580:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-208233618",
+ "dre_path": "/dr/detalhe/portaria/1391-2009-482580",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-11-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "208270906",
+    "208270907",
+    "208270908",
+    "208270909",
+    "208270910"
+   ]
+  },
+  {
+   "date": "2023-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:208204020:por",
+     "title": "Portaria n.º 66/2023",
+     "published": "2023-03-06",
+     "dre_path": "/dr/detalhe/portaria/66-2023-208204020"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A"
+   ],
+   "fragments": [
+    "208270906",
+    "208270907",
+    "208270908",
+    "208270909",
+    "208270938",
+    "208270939",
+    "208270940"
+   ]
+  }
+ ],
+ "fragments": {
+  "208270906": {
+   "fragment_id": "208233619",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1391/2009\n\nde 17 de Novembro\n\nPelo Decreto-Lei n.º 252/2007, de 5 de Julho, foi criado um regime de benefícios adicionais de saúde para os beneficiários do complemento solidário para idosos, instituído pelo Decreto-Lei n.º 232/2005, de 29 de Dezembro.\n\nNos termos do disposto no n.º 1 do artigo 7.º do referido Decreto-Lei n.º 252/2007, os benefícios adicionais de saúde são financiados por verbas do Orçamento do Estado, nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas das finanças, do trabalho e da solidariedade social e da saúde.\n\nA fim de dar execução ao disposto no preceito mencionado no parágrafo antecedente, a presente portaria estabelece os termos do financiamento dos benefícios adicionais de saúde.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 7.º do Decreto-Lei n.º 252/2007, de 5 de Julho, manda o Governo, pelos Ministros de Estado e das Finanças, do Trabalho e da Solidariedade Social e da Saúde, o seguinte:"
+  },
+  "208270907": {
+   "fragment_id": "208233620",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs encargos com a atribuição dos benefícios adicionais de saúde previstos no Decreto-Lei n.º 252/2007, de 5 de Julho, são financiados por verbas do Orçamento do Estado, a suportar pelo orçamento da segurança social e pelo orçamento da Administração Central do Sistema de Saúde, I. P., na proporção de 50 % do total da despesa realizada."
+  },
+  "208270908": {
+   "fragment_id": "208233621",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Administração Central do Sistema de Saúde, I. P., transfere mensalmente para o Instituto de Gestão Financeira da Segurança Social, I. P., o montante correspondente a 50 % dos benefícios adicionais pagos pelo orçamento da segurança social."
+  },
+  "208270909": {
+   "fragment_id": "208233622",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara os efeitos previstos no artigo anterior, o Instituto de Gestão Financeira da Segurança Social, I. P., comunica até ao dia 15 do mês seguinte, à Administração Central do Sistema de Saúde, I. P., o valor dos pagamentos efectuados no mês anterior, procedendo esta à respectiva transferência até ao penúltimo dia útil desse mês."
+  },
+  "208270910": {
+   "fragment_id": "208233623",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente portaria produz efeitos a 1 de Dezembro de 2007."
+  },
+  "208270938": {
+   "fragment_id": "208233652",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Aquisição de medicamentos",
+   "in_force_from": "2023-03-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 66/2023 - Diário da República n.º 46/2023, Série I de 2023-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2023-208204020), em vigor a partir de 2023-03-07, produz efeitos a partir de 2023-01-24"
+   ],
+   "markdown": "###### Artigo 3.º-A — Aquisição de medicamentos\n\nNas situações em que o procedimento utilizado obvie ao pagamento inicial, pelos beneficiários do complemento solidário para idosos, do custo de aquisição de medicamentos na parcela do preço não comparticipada pelo Estado, os termos do respetivo financiamento são os seguintes:\n\na) O Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), transfere, até ao penúltimo dia de cada mês, para a Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.), o montante correspondente a 50 % dos benefícios adicionais pagos nesse mesmo mês pelo orçamento da saúde.\n\nb) Para os efeitos previstos na alínea anterior, a ACSS, I. P., comunica até ao dia 15 de cada mês ao IGFSS, I. P., o valor dos pagamentos efetuados no próprio mês.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 66/2023 - Diário da República n.º 46/2023, Série I de 2023-03-06](https://diariodarepublica.pt/dr/detalhe/portaria/66-2023-208204020), em vigor a partir de 2023-03-07, produz efeitos a partir de 2023-01-24"
+  },
+  "208270939": {
+   "fragment_id": "208233623",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente portaria produz efeitos a 1 de Dezembro de 2007."
+  },
+  "208270940": {
+   "fragment_id": "208233624",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 30 de Junho de 2009. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 9 de Julho de 2009. - Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado Adjunto e da Saúde, em 11 de Junho de 2009."
+  }
+ }
+}

@@ -1,0 +1,336 @@
+---
+schema_version: '1.0'
+id: pt:dre:627654:por
+title: Decreto n.º 45047
+short_title: null
+summary: Transfere verbas dentro dos orçamentos dos Ministérios das Finanças, das Obras Públicas e da Economia e abre créditos
+  destinados a reforçar verbas insuficientemente dotadas e a prover à realização de despesas não previstas no Orçamento Geral
+  do Estado em vigor - Introduz alterações em várias rubricas nos orçamentos dos Ministérios da Justiça, das Obras Públicas,
+  da Economia e da Saúde e Assistência
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '45047'
+official_date: null
+publication_date: '1963-05-25'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 124/1963, Série I de 1963-05-25
+  number: '124'
+  series: I
+  supplement: null
+  pages: 641 - 643
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/05/12400/06410643.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '627654'
+  dre_path: /dr/detalhe/decreto/45047-1963-627654
+  internal: pt:dre:627654:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45047-1963-627654
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45047-1963-627654
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:34:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 34348b2d72c4c4cc5bbb3353ee4e746ce8c257aea835ae9c1c45d12edd0f222b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:34:57Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:181448:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:640630:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:34:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45047
+
+Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diariodarepublica.pt/dr/detalhe/decreto/16670-1929-624998), de 27 de Março de 1929, no artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, na alínea a) do artigo 35.º do referido [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), no artigo 2.º e seu § único do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, em execução do [Decreto-Lei n.º 44840](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44840-1963-217706), de 2 de Janeiro de 1963, mediante propostas aprovadas pelo Ministro das Finanças, nos termos do n.º 1.º do artigo 9.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933, e nos do mencionado artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659);
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
+
+Ministério das Finanças
+
+No capítulo 1.º:
+
+Do capítulo 12.º «Encargos de empréstimos a realizar» ... -16500$00
+
+Para o artigo 1.º, n.º 1) «Dívida pública fundada, ...», alínea c) «Amortizável externa - empréstimo de 20 milhões de dólares - Promissórias» ... +16500$00
+
+Ministério das Obras Públicas
+
+No capítulo 5.º:
+
+Do artigo 71.º, n.º 3), alínea a) «Do empréstimo para obras de hidráulica agrícola» ... -600$00
+
+Para o artigo 70.º, n.º 1) «Rendas de casas ...» ... +600$00
+
+Ministério da Economia
+
+No capítulo 16.º:
+
+Do artigo 293.º, n.º 2) «Publicidade ...» ... -5000$00
+
+Para o artigo 294.º, n.º 2) «Missões de estudo ...» ... +5000$00
+
+Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 7224220$00 destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+
+Ministério das Finanças
+
+Capítulo 21.º «Outros investimentos»:
+
+Artigo 300.º-A «Para aquisição de acções e obrigações de bancos e companhias» ... 1500000$00
+
+Ministério da Justiça
+
+Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Corpo de guardas»:
+
+Artigo 173.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+
+(Durante oito meses):
+
+4 guardas de 1.ª classe ... 48000$00
+
+8 guardas de 2.ª classe ... 89600$00
+
+16 guardas de 3.ª classe ... 166400$00
+
+26 guardas auxiliares ... 260000$00
+
+... 564000$00
+
+Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores - Centro de Observação anexo ao Tribunal Central de Menores de Coimbra»:
+
+Artigo 369.º «Remunerações certas ao pessoal em exercício», n.º 2) «Pessoal assalariado»:
+
+1 serventuário auxiliar ... 9490$00
+
+2 serventuários auxiliares ... 15330$00
+
+... 24820$00
+
+... 588820$00
+
+Ministério do Exército
+
+Capítulo 3.º «Serviços de instrução - Academia Militar (Lisboa)»:
+
+Artigo 67.º «Outros encargos», n.º 2) «Actividades recreativas e culturais dos alunos» ... 150000$00
+
+Capítulo 8.º «Encargos gerais do Ministério - Despesas gerais»:
+
+Artigo 334.º «Remunerações certas ao pessoal em exercício», n.º 3) «Pessoal dos quadros aprovados por lei»:
+
+Vencimento do guarda do cemitério português de Richebourg l'Avoué (ver nota e) ... 48000$00
+
+(nota e) [Decreto-Lei n.º 44034](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44034-1961-181448), de 16 de Novembro de 1961 - Despacho conjunto de SS. Exas. os Ministros das Finanças e do Exército de 23 de Janeiro de 1963, publicado no Diário do Governo, 1.ª série, de 28 do mesmo mês.
+
+Artigo 343.º, n.º 3), alínea a) «Subsídios a revistas ...» ... 360000$00
+
+... 558000$00
+
+Ministério das Obras Públicas
+
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+
+Artigo 51.º, n.º 3) «Construções e melhoramentos ...», alínea e) «Edifícios para estabelecimentos da Direcção-Geral dos Serviços Agrícolas» ... 500000$00
+
+Artigo 53.º «Despesas de conservação e aproveitamento do material», n.º 3) «Despesas de conservação, reparação e melhoramentos de que o Estado será total ou parcialmente reembolsado», alínea i) «Edifícios para estabelecimentos da Direcção-Geral dos Serviços Agrícolas» ... 100000$00
+
+Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
+
+Artigo 95.º, n.º 3), alínea b) «Outras despesas não especificadas» ... 2400$00
+
+Artigo 96.º «Outros encargos», n.º 4) «Para pagamento das despesas resultantes da renovação do material a que se refere o [Decreto-Lei n.º 39253](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39253-1953-640630), de 24 de Junho de 1953» ... 900000$00
+
+... 1502400$00
+
+Ministério do Ultramar
+
+Capítulo 18.º «Outros investimentos»:
+
+Artigo 149.º «Protecção a refugiados» ... 1100000$00
+
+Ministério da Educação Nacional
+
+Capítulo 1.º «Gabinete do Ministro»:
+
+Artigo 6.º-A «Encargos administrativos», n.º 1) «Pagamento de serviços e encargos não especificados» ... 500000$00
+
+Artigo 6.º-B «Outros encargos», n.º 1) «Pagamento de serviços resultantes de estudos determinados pelo Ministro» ... 400000$00
+
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes - Instrução universitária - Universidade do Porto - Faculdade de Economia»:
+
+Artigo 427.º-A «Outros encargos», n.º 1) «Subsídios a cofres ou organizações metropolitanas, ultramarinas ou estrangeiras», alínea a) «Excursões e visitas de estudo» ... 75000$00
+
+... 975000$00
+
+Ministério da Saúde e Assistência
+
+Capítulo 4.º «Direcção-Geral da Assistência»:
+
+Artigo 65.º, n.º 1) «Subsídios a cofres ou organizações ...», alínea f) «Assistência à família: ...» ... 1000000$00
+
+... 7224220$00
+
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receitas e de redução em verbas de despesa:
+
+Orçamento das receitas do Estado
+
+Capítulo 7.º, artigo 179.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 600000$00
+
+Capítulo 7.º, artigo 192.º «Reembolso das despesas com os serviços de urbanização» ... 2400$00
+
+Capítulo 7.º, artigo 202.º «Reembolsos diversos» ... 900000$00
+
+Capítulo 8.º, artigo 206.º «Instituto de Assistência à Família» ... 1000000$00
+
+... 2502400$00
+
+Ministério das Finanças
+
+Capítulo 1.º, artigo 12.º ... 1500000$00
+
+Capítulo 7.º, artigo 67.º, n.º 1) ... 775000$00
+
+... 2275000$00
+
+Ministério da Justiça
+
+Capítulo 3.º, artigo 99.º, n.º 1) ... 300000$00
+
+Capítulo 4.º, artigo 170.º, n.º 1) ... 80000$00
+
+Capítulo 4.º, artigo 296.º, n.º 1) ... 39000$00
+
+Capítulo 5.º, artigo 343.º, n.º 1) ... 45000$00
+
+Capítulo 5.º, artigo 369.º, n.º 1) ... 1825$00
+
+Capítulo 5.º, artigo 369.º, n.º 2) ... 22995$00
+
+Capítulo 6.º, artigo 461.º, n.º 1) ... 100000$00
+
+... 588820$00
+
+Ministério do Exército
+
+Capítulo 1.º, artigo 5.º n.º 1) ... 48000$00
+
+Capítulo 3.º, artigo 59.º, n.º 1) ... 150000$00
+
+Capítulo 3.º, artigo 175.º, n.º 1) ... 360000$00
+
+... 558000$00
+
+Ministério do Ultramar
+
+Capítulo 8.º, artigo 81.º, n.º 1), alínea a) ... 1100000$00
+
+Ministério da Educação Nacional
+
+Capitulo 2.º, artigo 16.º, n.º 3), alínea f) ... 200000$00
+
+... 7224220$00
+
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+
+Do Ministério da Justiça
+
+No desenvolvimento do quadro afecto à dotação do capítulo 5.º, artigo 369.º n.º 2), deverá ser eliminada a designação:
+
+3 serventuários auxiliares - 7665$00 - 22995$00.
+
+Do Ministério das Obras Públicas
+
+A observação (c) aposta à dotação do capítulo 13.º, artigo 118.º, n.º 1), é alterada para:
+
+Inclui para «Vencimentos e salários do pessoal»: 538000$00 ... e 555600$00 ...
+
+Do Ministério da Economia
+
+A observação (a) aposta à dotação do capítulo 17.º, artigo 295.º, n.º 1), é alterada para:
+
+... a importância de 521352$00 para «Vencimentos do pessoal».
+
+Do Ministério da Saúde e Assistência
+
+A observação (a) aposta à dotação do capítulo 4.º, artigo 65.º, n.º 1), alínea f), é alterada para:
+
+Sujeita a duplo cabimento a importância de 32000000$00 ...
+
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 25 de Maio de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.

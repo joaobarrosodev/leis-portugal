@@ -1,0 +1,415 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:184876721:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-200223253",
+ "dre_path": "/dr/detalhe/portaria/160-a-2022-184876721",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-06-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "200304775",
+    "200304776",
+    "200304777",
+    "200304778",
+    "200304779",
+    "200304780",
+    "200304781",
+    "200304782",
+    "200304783",
+    "200304784",
+    "200304785",
+    "200304786",
+    "200304787",
+    "200304788",
+    "200304789",
+    "200304790",
+    "200304791"
+   ]
+  },
+  {
+   "date": "2022-08-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:200268066:por",
+     "title": "Portaria n.º 214/2022",
+     "published": "2022-08-25",
+     "dre_path": "/dr/detalhe/portaria/214-2022-200268066"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "200304775",
+    "200304776",
+    "200304777",
+    "200375901",
+    "200375902",
+    "200375903",
+    "200304778",
+    "200304792",
+    "200304793",
+    "200304794",
+    "200304795",
+    "200304796",
+    "200304784",
+    "200304785",
+    "200304797",
+    "200304798",
+    "200304799",
+    "200304789",
+    "200304790",
+    "200375904"
+   ]
+  },
+  {
+   "date": "2022-11-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:202959161:por",
+     "title": "Portaria n.º 268/2022",
+     "published": "2022-11-03",
+     "dre_path": "/dr/detalhe/portaria/268-2022-202959161"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "200304775",
+    "200304776",
+    "200304777",
+    "200375901",
+    "200375902",
+    "200375903",
+    "200304778",
+    "202981313",
+    "202981314",
+    "200304794",
+    "202981315",
+    "200304796",
+    "200304784",
+    "200304785",
+    "200304797",
+    "200304798",
+    "200304799",
+    "200304789",
+    "200304790",
+    "202981316"
+   ]
+  }
+ ],
+ "fragments": {
+  "200304775": {
+   "fragment_id": "200223254",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 160-A/2022\n\nde 17 de junho\n\nSumário: Aprova o Regulamento do Regime de Compensação aos Operadores do Sector das Pescas e da Aquicultura pelos custos adicionais de energia resultantes da agressão militar da Rússia contra a Ucrânia.\n\nA agressão militar da Rússia contra a Ucrânia está a ter impacto nos operadores do sector da pesca e da aquicultura na União. A rutura dos fluxos comerciais de mercadorias-chave para o sector da pesca e da aquicultura da Rússia e da Ucrânia está a agravar o aumento dos preços dos principais fatores de produção, como a energia e as matérias-primas. O impacto combinado desses aumentos de custos e da escassez de matérias-primas é sentido por toda a fileira do pescado, nomeadamente a produção e a transformação de produtos da pesca e da aquicultura, setores de maior intensidade energética. Por conseguinte, existe uma perturbação significativa do mercado causada por importantes aumentos de custos e perturbações comerciais que conduziram à adoção da Decisão de Execução n.º 2022/500, da Comissão, de 25 de março de 2022.\n\nNos termos da alínea a) do n.º 2 e do segundo parágrafo do artigo 26.º do Regulamento (UE) 2021/1139, que cria o Fundo Europeu dos Assuntos Marítimos, das Pescas e da Aquicultura, conjugado com citada Decisão de Execução n.º 2022/500, da Comissão, de 25 de março de 2022, este fundo pode apoiar uma compensação aos operadores do sector da pesca e da aquicultura, por custos adicionais.\n\nAs despesas incorridas como resultado desta perturbação dos mercados são elegíveis a partir de 24 de fevereiro de 2022, data do início da agressão militar da Rússia contra a Ucrânia.\n\nAdemais, a Comissão Europeia já apresentou também uma proposta de alteração do Regulamento (UE) 508/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, que cria o Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP) e que, em Portugal, é operacionalizado através do programa Mar 2020, para que aquela mesma resposta aos efeitos decorrentes da agressão militar da Rússia à Ucrânia possa igualmente ser acomodada no atual período de programação.\n\nAberta que está a possibilidade de compensação, com fundos europeus, dos operadores do setor das pescas e da aquicultura pelos custos adicionais com que estão confrontados e sendo essa resposta urgente, impõe-se criar, desde já, o correspondente regime de apoio e as condições para que possam ser submetidas as correspondentes candidaturas.\n\nO Decreto-Lei n.º 32/2022, de 9 de maio, que aprova o regime de organização e funcionamento do XXIII Governo Constitucional, estabelece no n.º 1 do artigo 29.º que a Ministra da Agricultura e da Alimentação tem por missão formular, conduzir, executar e avaliar as políticas em matéria de pescas e aquicultura, bem como planear e coordenar a aplicação dos correspondentes fundos nacionais e europeus, o que necessariamente inclui a adoção da inerente regulamentação administrativa.\n\nForam ouvidas as associações representativas do sector acerca da medida de apoio acima descrita.\n\nAssim, manda o Governo, pela Secretária de Estado das Pescas, ao abrigo do n.º 1 do artigo 29.º do Decreto-Lei n.º 32/2022, de 9 de maio, e no uso da delegação de competências conferida pelo Despacho n.º 6620/2022, da Ministra da Agricultura e da Alimentação, publicado no Diário da República, 2.ª série, n.º 101, de 25 de maio de 2022, o seguinte:"
+  },
+  "200304776": {
+   "fragment_id": "200223255",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento do Regime de Compensação aos Operadores do Sector das Pescas e da Aquicultura pelos custos adicionais de energia resultantes da agressão militar da Rússia contra a Ucrânia."
+  },
+  "200304777": {
+   "fragment_id": "200223256",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nA Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 17 de junho de 2022."
+  },
+  "200304778": {
+   "fragment_id": "200223257",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente Regulamento, entende-se por «Empresa» qualquer pessoa singular ou coletiva que, independentemente da sua forma jurídica, exerce uma atividade económica classificada com um dos códigos estabelecidos no anexo i ao presente Regulamento."
+  },
+  "200304779": {
+   "fragment_id": "200223258",
+   "type": 11,
+   "heading": "Artigo 4.º — Elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Elegibilidade das operações\n\nPodem beneficiar de apoios, ao abrigo do presente regime, as operações que visem compensar os operadores do sector das pescas e da aquicultura pelos custos adicionais de energia que se fazem sentir em consequência da agressão militar da Rússia contra a Ucrânia, no período compreendido entre 24 de fevereiro e 30 de junho de 2022."
+  },
+  "200304780": {
+   "fragment_id": "200223259",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Elegibilidade dos beneficiários\n\nSão elegíveis as empresas que:\n\na) Sejam detentoras de título que confira o direito de exploração de uma embarcação ou detentoras de licença de atividade válida;\n\nb) Mantenham a licença de atividade ativa durante o período da compensação;\n\nc) Tenham a sua situação tributária e contributiva regularizada perante a administração fiscal e a segurança social;\n\nd) Tenham a situação regularizada perante os fundos europeus;\n\ne) No caso dos operadores da pesca, tenham atividade comprovada entre 24 de fevereiro e 30 de junho de 2022, num mínimo de 20 dias de atividade, seguidos ou interpolados, confirmados pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM);\n\nf) No caso das empresas aquícolas, tenham cumprido as obrigações previstas no n.º 1 do artigo 32.º do Decreto-Lei n.º 40/2017, de 4 de abril, tendo por referência o período de aferição previsto no artigo 4.º do presente Regulamento;\n\ng) No caso das empresas de transformação de produtos da pesca e da aquicultura, sejam PME;\n\nh) Não se encontrem nas situações previstas na regulamentação europeia aplicável determinantes da inadmissibilidade dos apoios, designadamente as previstas no artigo 10.º do Regulamento (UE) 508/2014, de 15 de maio de 2014, que cria o FEAMP, ou no artigo 11.º do Regulamento (UE) 2021/1139, que cria o FEAMPA."
+  },
+  "200304781": {
+   "fragment_id": "200223260",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza e montante do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Natureza e montante do apoio\n\n1 - Os apoios previstos no presente regime revestem a forma de subvenção não reembolsável, na modalidade de montantes fixos, tal como consta no anexo II ao presente Regulamento, ou de um montante apurado com base numa taxa fixa de 30 % dos custos médios mensais de energia de 2019, nos termos previstos no artigo 96.º do Regulamento (UE) 508/2014, de 15 de maio de 2014, do Parlamento Europeu e do Conselho, que cria o FEAMP, e no artigo 39.º do Regulamento (UE) 2021/1139, que cria o FEAMPA.\n\n2 - A taxa máxima de apoio para os projetos apresentados ao abrigo do presente regime é de 100 %, sendo objeto de cofinanciamento por fundo europeu.\n\n3 - A aferição do montante do apoio resulta da aplicação do índice harmonizado de preços no consumidor dos bens industriais energéticos, relativo à zona euro, publicado pelo Banco de Portugal, relativo ao mês de fevereiro de 2022, ao custo médio mensal de energia suportado pelos operadores em 2019.\n\n4 - Caso, no período da compensação, o índice a que se refere o número anterior tenha uma variação significativa, o montante dos apoios previstos no n.º 1 é revisto em conformidade.\n\n5 - O custo de energia médio mensal suportado pelos operadores no período compreendido entre 1 de janeiro e 31 de dezembro de 2019 é apurado com base:\n\na) No Relatório da Frota, para os operadores da pesca;\n\nb) Em declaração emitida por contabilista certificado ou nos inquéritos à produção entregues ao abrigo do disposto no n.º 1 do artigo 32.º do Decreto-Lei n.º 40/2017, de 4 de abril, quando a empresa apenas disponha de contabilidade simplificada, ou caso o valor dos gastos de energia resultante dos inquéritos à produção seja inferior ao inscrito na declaração de rendimentos, para os operadores do setor da aquicultura;\n\nc) Em declaração emitida por contabilista certificado, para os operadores do setor da indústria de transformação e comercialização de produtos da pesca e da aquicultura.\n\n6 - No caso de as operações que reúnem condições de aprovação envolverem pedidos de apoio que, no cômputo geral, ultrapassam as disponibilidades financeiras existentes, previstas no artigo 8.º do presente Regulamento, procede-se ao respetivo rateio, com recurso à modelação do montante do apoio."
+  },
+  "200304782": {
+   "fragment_id": "200223261",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas online, no prazo de 30 dias úteis contados da entrada em vigor do presente diploma, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt.\n\n2 - As candidaturas devem ser instruídas com os elementos exigidos no respetivo formulário online.\n\n3 - Apenas é admitida ao abrigo do presente regime de apoio uma candidatura por beneficiário."
+  },
+  "200304783": {
+   "fragment_id": "200223262",
+   "type": 11,
+   "heading": "Artigo 8.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dotação orçamental\n\n1 - A dotação orçamental global é 10 milhões de euros, cofinanciados por fundos europeus, sendo distribuída para cada um dos setores da seguinte forma:\n\na) Pesca, 5 000 000 euros;\n\nb) Aquicultura, 500 000 euros;\n\nc) Transformação e comercialização dos produtos da pesca e da aquicultura, 4 500 000 euros.\n\n2 - A distribuição para cada um dos setores, prevista no número anterior, é indicativa, não prejudicando qualquer ajustamento que se possa revelar necessário em função da procura de apoios."
+  },
+  "200304784": {
+   "fragment_id": "200223263",
+   "type": 11,
+   "heading": "Artigo 9.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Análise e decisão das candidaturas\n\n1 - O secretariado técnico da Autoridade de Gestão do Mar 2020, analisa e emite parecer sobre as candidaturas, competindo-lhe verificar, nomeadamente se estão reunidos os requisitos da atribuição dos apoios previstos nos artigos 4.º e 5.º\n\n2 - O parecer referido no número anterior é emitido num prazo de 20 dias úteis a contar da data-limite para a apresentação das candidaturas.\n\n3 - O secretariado técnico aprecia as candidaturas com vista a assegurar que as mesmas são selecionadas em conformidade com as regras e critérios aplicáveis e submete-as a decisão do gestor.\n\n4 - Antes de ser emitida a decisão final, os candidatos são ouvidos, para efeitos de audiência de interessados, nos termos do Código de Procedimento Administrativo, quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n5 - As candidaturas são objeto de decisão pelo gestor no prazo de 40 dias úteis contados a partir da data-limite para a respetiva apresentação, sendo a mesma comunicada aos candidatos pela autoridade de gestão, na data da sua emissão.\n\n6 - A decisão de aprovação, total ou parcial, das candidaturas é igualmente comunicada pela Autoridade de Gestão do Mar 2020 ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) na data da sua emissão."
+  },
+  "200304785": {
+   "fragment_id": "200223264",
+   "type": 11,
+   "heading": "Artigo 10.º — Pagamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamento dos apoios\n\nO pagamento da compensação é feito pelo IFAP, I. P., mediante a decisão de aprovação do pedido de apoio pela Autoridade de Gestão, sendo realizado sob a forma de pagamento único."
+  },
+  "200304786": {
+   "fragment_id": "200223265",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\nConstituem obrigações do beneficiário:\n\na) Informar a Autoridade de Gestão de qualquer alteração dos pressupostos em que assentou a decisão de atribuição do apoio;\n\nb) Manter as condições que determinaram a admissibilidade do pedido de apoio, designadamente as previstas no artigo 10.º do Regulamento (UE) 508/2014, de 15 de maio de 2014, do Parlamento Europeu e do Conselho, que cria o FEAMP, por prazo não inferior a cinco anos após o pagamento do apoio bem como as previstas no artigo 11.º do Regulamento (UE) 2021/1139, que cria o FEAMPA, por prazo não inferior a cinco anos após o pagamento do apoio."
+  },
+  "200304787": {
+   "fragment_id": "200223266",
+   "type": 11,
+   "heading": "Artigo 12.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cobertura orçamental\n\nOs encargos com o pagamento dos apoios previstos neste Regulamento são suportados por verbas colocadas na disponibilidade do IFAP, I. P., inscritas no Orçamento do Estado, e associadas ao programa financiador."
+  },
+  "200304788": {
+   "fragment_id": "200223267",
+   "type": 11,
+   "heading": "Artigo 13.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reduções e exclusões\n\n1 - Os apoios objeto do presente Regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e no artigo 103.º do Regulamento (UE) n.º 2021/1060 do Parlamento Europeu e do Conselho, de 24 de junho de 2021, e demais legislação aplicável, designadamente quando ocorra alguma das seguintes situações:\n\na) Incumprimento pelo beneficiário das obrigações decorrentes da decisão de atribuição do apoio, do presente Regulamento ou da legislação nacional e europeia aplicável;\n\nb) Prestação de falsas informações ou informações inexatas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação do projeto ou falsificando documentos fornecidos no âmbito do mesmo.\n\n2 - Se se verificar alguma das situações referidas no artigo 10.º do Regulamento (UE) 508/2014, de 15 de maio de 2014, do Parlamento Europeu e do Conselho, que cria o FEAMP, ou no n.º 1 do artigo 11.º do Regulamento (UE) 2021/1139, que cria o FEAMPA, durante o período que decorre entre a aprovação do pedido de apoio e cinco anos após o pagamento, a integralidade do apoio pago é recuperado pelo IFAP, I. P., junto do beneficiário."
+  },
+  "200304789": {
+   "fragment_id": "200223268",
+   "type": 11,
+   "heading": "Artigo 14.º — Extinção ou modificação da operação por iniciativa do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Extinção ou modificação da operação por iniciativa do beneficiário\n\nO beneficiário pode requerer ao gestor a extinção da operação desde que proceda à restituição das importâncias recebidas."
+  },
+  "200304790": {
+   "fragment_id": "200223269",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 3.º)\n\nCódigos CAE para a elegibilidade das empresas do setor da pesca e aquicultura\n\n031 Pesca.\n\n0311 Pesca marítima, apanha de algas e de outros produtos do mar.\n\n032 Aquicultura.\n\n10 Indústrias alimentares.\n\n1020 Preparação e conservação de peixes, crustáceos e moluscos.\n\n104 Produção de óleos e gorduras animais e vegetais.\n\n10411 Produção de óleos e gorduras animais brutos.\n\n108 Fabricação de outros produtos alimentares.\n\n10850 Fabricação de refeições e pratos pré-cozinhados.\n\n10913 Fabricação de alimentos para aquicultura.\n\n46381 Comércio por grosso de peixe, crustáceos e moluscos."
+  },
+  "200304791": {
+   "fragment_id": "200223270",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 6.º)\n\nCompensação por embarcação\n\n(ver documento original)\n\n115432163"
+  },
+  "200375901": {
+   "fragment_id": "200360532",
+   "type": 14,
+   "heading": "ANEXO — Regulamento do Regime de Compensação aos Operadores do Sector das Pescas e da Aquicultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regulamento do Regime de Compensação aos Operadores do Sector das Pescas e da Aquicultura"
+  },
+  "200375902": {
+   "fragment_id": "200360533",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Regulamento do Regime de Compensação aos Operadores do Sector das Pescas e da Aquicultura pelos custos adicionais de energia resultantes da agressão militar da Rússia contra a Ucrânia."
+  },
+  "200375903": {
+   "fragment_id": "200360534",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos no presente Regulamento têm como finalidade compensar os operadores do sector das pescas e da aquicultura pelos custos adicionais de energia que se fazem sentir em consequência da agressão militar da Rússia contra a Ucrânia."
+  },
+  "200304792": {
+   "fragment_id": "200223258",
+   "type": 11,
+   "heading": "Artigo 4.º — Elegibilidade das operações",
+   "in_force_from": "2022-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "###### Artigo 4.º — Elegibilidade das operações\n\nPodem beneficiar de apoios, ao abrigo do presente regime, as operações que visem compensar os operadores do sector das pescas e da aquicultura pelos custos adicionais de energia que se fazem sentir em consequência da agressão militar da Rússia contra a Ucrânia, com referência a pelo menos um dos seguintes períodos:\n\na) Período compreendido entre 24 de fevereiro e 30 de junho de 2022;\n\nb) Período compreendido entre 1 de julho e 31 de agosto de 2022.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "200304793": {
+   "fragment_id": "200223259",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade dos beneficiários",
+   "in_force_from": "2022-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "###### Artigo 5.º — Elegibilidade dos beneficiários\n\nSão elegíveis as empresas que:\n\na) Sejam detentoras de título que confira o direito de exploração de uma embarcação ou detentoras de licença de atividade válida;\n\nb) Mantenham a licença de atividade ativa durante o período da compensação;\n\nc) Tenham a sua situação tributária e contributiva regularizada perante a administração fiscal e a segurança social;\n\nd) Tenham a situação regularizada perante os fundos europeus;\n\ne) No caso dos operadores da pesca, consoante o período a que se candidatem, tenham atividade comprovada, confirmada pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), num mínimo de:\n\na) 20 dias de atividade, seguidos ou interpolados entre 24 de fevereiro e 30 de junho de 2022;\n\nb) 10 dias de atividade, seguidos ou interpolados entre 1 de julho e 31 de agosto de 2022.\n\nf) No caso das empresas aquícolas, tenham cumprido as obrigações previstas no n.º 1 do artigo 32.º do Decreto-Lei n.º 40/2017, de 4 de abril, tendo por referência o(s) período(s) de aferição previsto(s) no artigo 4.º do presente regulamento;\n\ng) No caso das empresas de transformação de produtos da pesca e da aquicultura, sejam PME;\n\nh) Não se encontrem nas situações previstas na regulamentação europeia aplicável determinantes da inadmissibilidade dos apoios, designadamente as previstas no artigo 10.º do Regulamento (UE) 508/2014, de 15 de maio de 2014, que cria o FEAMP.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "200304794": {
+   "fragment_id": "200223260",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza e montante do apoio",
+   "in_force_from": "2022-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "###### Artigo 6.º — Natureza e montante do apoio\n\n1 - Os apoios previstos no presente regime revestem a forma de subvenção não reembolsável, na modalidade de montantes fixos, tal como consta no anexo ii ao presente Regulamento, ou de um montante apurado com base numa taxa fixa de 30 % dos custos médios mensais de energia de 2019, nos termos previstos no artigo 96.º do Regulamento (UE) 508/2014, de 15 de maio de 2014, do Parlamento Europeu e do Conselho, que cria o FEAMP.\n\n2 - A taxa máxima de apoio para os projetos apresentados ao abrigo do presente regime é de 100 %, sendo objeto de cofinanciamento pelo FEAMP.\n\n3 - A aferição do montante do apoio resulta da aplicação do índice harmonizado de preços no consumidor dos bens industriais energéticos, relativo à zona euro, publicado pelo Banco de Portugal, relativo ao mês de fevereiro de 2022, ao custo médio mensal de energia suportado pelos operadores em 2019.\n\n4 - Caso, no período da compensação, o índice a que se refere o número anterior tenha uma variação significativa, o montante dos apoios previstos no n.º 1 é revisto em conformidade.\n\n5 - O custo de energia médio mensal suportado pelos operadores no período compreendido entre 1 de janeiro e 31 de dezembro de 2019 é apurado com base:\n\na) No Relatório da Frota, para os operadores da pesca;\n\nb) Em declaração emitida por contabilista certificado ou nos inquéritos à produção entregues ao abrigo do disposto no n.º 1 do artigo 32.º do Decreto-Lei n.º 40/2017, de 4 de abril, quando a empresa apenas disponha de contabilidade simplificada, ou caso o valor dos gastos de energia resultante dos inquéritos à produção seja inferior ao inscrito na declaração de rendimentos, para os operadores do setor da aquicultura;\n\nc) Em declaração emitida por contabilista certificado, para os operadores do setor da indústria de transformação e comercialização de produtos da pesca e da aquicultura.\n\n6 - No caso de as operações que reúnem condições de aprovação envolverem pedidos de apoio que, no cômputo geral, ultrapassam as disponibilidades financeiras existentes, procede-se ao respetivo rateio, com recurso à modelação do montante do apoio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "200304795": {
+   "fragment_id": "200223261",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação das candidaturas",
+   "in_force_from": "2022-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "###### Artigo 7.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas online, no prazo de 30 dias úteis contados da entrada em vigor do presente diploma, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt.\n\n2 - Em derrogação do n.º 1, as candidaturas que visem, mesmo que não exclusivamente, a compensação pelos custos adicionais de energia no período previsto na alínea b) do artigo 4.º, são apresentadas no prazo que vier a ser fixado em anúncio de abertura de candidaturas aprovado pelo gestor e divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do Mar 2020, em www.mar2020.pt.\n\n3 - Apenas é admitida uma candidatura por beneficiário em cada uma das fases de submissão previstas nos números anteriores e para cada um dos períodos a que alude o artigo 4.º\n\n4 - A candidatura que vise a compensação pelos custos adicionais de energia no período a que se refere a alínea b) do artigo 4.º pode igualmente incluir o período a que se refere a alínea a) do mesmo artigo, caso o beneficiário não se tenha já candidatado ao abrigo deste regime de apoio para esse período.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "200304796": {
+   "fragment_id": "200223262",
+   "type": 11,
+   "heading": "Artigo 8.º — Dotação orçamental",
+   "in_force_from": "2022-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "###### Artigo 8.º — Dotação orçamental\n\n1 - A dotação orçamental global é 10 milhões de euros, cofinanciados por fundos europeus, sendo distribuída para cada um dos setores da seguinte forma:\n\na) Pesca, 5 000 000 euros;\n\nb) Aquicultura, 500 000 euros;\n\nc) Transformação e comercialização dos produtos da pesca e da aquicultura, 4 500 000 euros.\n\n2 - A distribuição da dotação por cada um dos setores prevista no número anterior é indicativa, não prejudicando qualquer ajustamento, por decisão do gestor, que se possa revelar necessário em função da procura de apoios.\n\n3 - A dotação orçamental prevista no n.º 1 pode ser objeto de reforço, por decisão do gestor, em função da procura de apoios, caso exista disponibilidade financeira no Programa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "200304797": {
+   "fragment_id": "200223265",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": "2022-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\nConstituem obrigações do beneficiário:\n\na) Informar a Autoridade de Gestão de qualquer alteração dos pressupostos em que assentou a decisão de atribuição do apoio;\n\nb) Manter as condições que determinaram a admissibilidade do pedido de apoio, designadamente as previstas no artigo 10.º do Regulamento (UE) 508/2014, de 15 de maio de 2014, do Parlamento Europeu e do Conselho, que cria o FEAMP, por prazo não inferior a cinco anos após o pagamento do apoio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "200304798": {
+   "fragment_id": "200223266",
+   "type": 11,
+   "heading": "Artigo 12.º — Cobertura orçamental",
+   "in_force_from": "2022-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "###### Artigo 12.º — Cobertura orçamental\n\nOs encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "200304799": {
+   "fragment_id": "200223267",
+   "type": 11,
+   "heading": "Artigo 13.º — Reduções e exclusões",
+   "in_force_from": "2022-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "###### Artigo 13.º — Reduções e exclusões\n\n1 - Os apoios objeto do presente Regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, designadamente quando ocorra alguma das seguintes situações:\n\na) Incumprimento pelo beneficiário das obrigações decorrentes da decisão de atribuição do apoio, do presente Regulamento ou da legislação nacional e europeia aplicável;\n\nb) Prestação de falsas informações ou informações inexatas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação do projeto ou falsificando documentos fornecidos no âmbito do mesmo.\n\n2 - Se se verificar alguma das situações referidas no artigo 10.º do Regulamento (UE) 508/2014, de 15 de maio de 2014, do Parlamento Europeu e do Conselho, que cria o FEAMP, durante o período que decorre entre a aprovação do pedido de apoio e cinco anos após o pagamento, a integralidade do apoio pago é recuperado pelo IFAP, I. P., junto do beneficiário.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "200375904": {
+   "fragment_id": "200223270",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 6.º)\n\nCompensação por embarcação no período de 24 de fevereiro a 30 de junho\n\n(ver documento original)\n\nCompensação por embarcação no período de 1 de julho a 31 de agosto\n\n(ver documento original)\n\n115432163\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "202981313": {
+   "fragment_id": "200223258",
+   "type": 11,
+   "heading": "Artigo 4.º — Elegibilidade das operações",
+   "in_force_from": "2022-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268/2022 - Diário da República n.º 212/2022, Série I de 2022-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/268-2022-202959161), em vigor a partir de 2022-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "###### Artigo 4.º — Elegibilidade das operações\n\nPodem beneficiar de apoios, ao abrigo do presente regime, as operações que visem compensar os operadores do sector das pescas e da aquicultura pelos custos adicionais de energia que se fazem sentir em consequência da agressão militar da Rússia contra a Ucrânia, com referência a pelo menos um dos seguintes períodos:\n\na) Período compreendido entre 24 de fevereiro e 30 de junho de 2022;\n\nb) Período compreendido entre 1 de julho e 31 de agosto de 2022.\n\nc) Período(s) de um ou mais meses, entre 1 de setembro e 31 de dezembro de 2022.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268/2022 - Diário da República n.º 212/2022, Série I de 2022-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/268-2022-202959161), em vigor a partir de 2022-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "202981314": {
+   "fragment_id": "200223259",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade dos beneficiários",
+   "in_force_from": "2022-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268/2022 - Diário da República n.º 212/2022, Série I de 2022-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/268-2022-202959161), em vigor a partir de 2022-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "###### Artigo 5.º — Elegibilidade dos beneficiários\n\nSão elegíveis as empresas que:\n\na) Sejam detentoras de título que confira o direito de exploração de uma embarcação ou detentoras de licença de atividade válida;\n\nb) Mantenham a licença de atividade ativa durante o período da compensação;\n\nc) Tenham a sua situação tributária e contributiva regularizada perante a administração fiscal e a segurança social;\n\nd) Tenham a situação regularizada perante os fundos europeus;\n\ne) No caso dos operadores da pesca, consoante o período a que se candidatem, tenham atividade comprovada, confirmada pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), num mínimo de:\n\ni) 20 dias de atividade, seguidos ou interpolados entre 24 de fevereiro e 30 de junho de 2022;\n\nii) 10 dias de atividade, seguidos ou interpolados entre 1 de julho e 31 de agosto de 2022;\n\niii) 5 dias de atividade, seguidos ou interpolados, em cada um dos meses que venham a ser considerados para fins de compensação, no período entre de 1 de setembro e 31 de dezembro de 2022;\n\nf) No caso das empresas aquícolas, tenham cumprido as obrigações previstas no n.º 1 do artigo 32.º do Decreto-Lei n.º 40/2017, de 4 de abril, tendo por referência o(s) período(s) de aferição previsto(s) no artigo 4.º do presente regulamento;\n\ng) No caso das empresas de transformação de produtos da pesca e da aquicultura, sejam PME;\n\nh) Não se encontrem nas situações previstas na regulamentação europeia aplicável determinantes da inadmissibilidade dos apoios, designadamente as previstas no artigo 10.º do Regulamento (UE) 508/2014, de 15 de maio de 2014, que cria o FEAMP.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268/2022 - Diário da República n.º 212/2022, Série I de 2022-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/268-2022-202959161), em vigor a partir de 2022-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "202981315": {
+   "fragment_id": "200223261",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação das candidaturas",
+   "in_force_from": "2022-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268/2022 - Diário da República n.º 212/2022, Série I de 2022-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/268-2022-202959161), em vigor a partir de 2022-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "###### Artigo 7.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas online, no prazo de 30 dias úteis contados da entrada em vigor do presente diploma, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt.\n\n2 - Em derrogação do n.º 1, as candidaturas que visem, mesmo que não exclusivamente, a compensação pelos custos adicionais de energia nos períodos previstos nas alíneas b) e c) do artigo 4.º, são apresentadas no prazo que vier a ser fixado em anúncio de abertura de candidaturas aprovado pelo gestor e divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do Mar 2020, em www.mar2020.pt, abertura essa que fica condicionada à prévia identificação de disponibilidade financeira do programa que possa ser alocada a esta medida de compensação.\n\n3 - Apenas é admitida uma candidatura por beneficiário em cada uma das fases de submissão previstas nos números anteriores e para cada um dos períodos a que alude o artigo 4.º\n\n4 - A candidatura que vise a compensação pelos custos adicionais de energia no período a que se refere a alínea b) do artigo 4.º pode igualmente incluir o período a que se refere a alínea a) do mesmo artigo, caso o beneficiário não se tenha já candidatado ao abrigo deste regime de apoio para esse período.\n\n5 - A atribuição de compensações por período(s) de um ou mais meses ao abrigo da alínea c) do artigo 4.º é primeiramente efetivada por reanálise de operações aprovadas para aumento do apoio público concedido, dispensando-se a apresentação de nova candidatura, e apenas no caso de existir dotação financeira remanescente haverá lugar a novo anúncio de abertura de candidaturas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268/2022 - Diário da República n.º 212/2022, Série I de 2022-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/268-2022-202959161), em vigor a partir de 2022-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  },
+  "202981316": {
+   "fragment_id": "200223270",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 1 do artigo 6.º)",
+   "in_force_from": "2022-11-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268/2022 - Diário da República n.º 212/2022, Série I de 2022-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/268-2022-202959161), em vigor a partir de 2022-11-04",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 1 do artigo 6.º)\n\nCompensação por embarcação no período de 24 de fevereiro a 30 de junho\n\n(ver documento original)\n\nCompensação por embarcação no período de 1 de julho a 31 de agosto\n\n(ver documento original)\n\nCompensação por períodos adicionais entre 1 de setembro e 31 de dezembro\n\n(ver documento original)\n\n115432163\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 268/2022 - Diário da República n.º 212/2022, Série I de 2022-11-03](https://diariodarepublica.pt/dr/detalhe/portaria/268-2022-202959161), em vigor a partir de 2022-11-04\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 214/2022 - Diário da República n.º 164/2022, Série I de 2022-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/214-2022-200268066), em vigor a partir de 2022-08-26"
+  }
+ }
+}

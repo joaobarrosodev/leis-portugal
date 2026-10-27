@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:643913:por
+title: Decreto-Lei n.º 214/71
+short_title: null
+summary: Cria na Repartição do Serviço de Pessoal do Ministério do Exército a Repartição de Mobilizados
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Exército - Repartição do Gabinete do Ministro
+proposing_entity: null
+official_number: 214/71
+official_date: null
+publication_date: '1971-05-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 120/1971, Série I de 1971-05-22
+  number: '120'
+  series: I
+  supplement: null
+  pages: 777 - 777
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/05/12000/07770777.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '643913'
+  dre_path: /dr/detalhe/decreto-lei/214-1971-643913
+  internal: pt:dre:643913:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1971-643913
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1971-643913
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:18:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8b996436c956ef11fd0624f704d9ec43c98ff294a7aaf478ee570599edd58d71
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:18:42Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Serviços
+- Ministério do Exército
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:18:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 214/71
+
+de 22 de Maio
+
+Verificando-se que a Direcção do Serviço de Pessoal do Ministério do Exército, estruturada com base no [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, não dispõe de uma repartição especialmente incumbida dos assuntos de administração do pessoal em serviço no ultramar;
+
+Verificando-se a necessidade de compartimentar as responsabilidades de instrução militar, preparação e organização de unidades destinadas a actuação no ultramar, das de execução de assuntos administrativos relacionados com o pessoal nelas integrado, em virtude de todas elas estarem cometidas a unidades da metrópole;
+
+Considerando a vantagem de centralizar na Direcção do Serviço de Pessoal do Ministério do Exército, em repartição própria, a execução de assuntos de administração do pessoal pertencente a unidades constituídas na metrópole e destinadas a reforçar as guarnições normais das províncias ultramarinas, bem como do pessoal nomeado na metrópole para cumprimento de comissões militares nessas guarnições;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo único. É criada, na Direcção do Serviço de Pessoal do Ministério do Exército, a Repartição de Mobilizados, cuja constituição será fixada em portaria do Ministro do Exército.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo.
+
+Promulgado em 5 de Maio de 1971.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.

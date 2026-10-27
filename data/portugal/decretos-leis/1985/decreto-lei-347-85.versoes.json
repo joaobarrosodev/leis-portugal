@@ -1,0 +1,465 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:181004:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-185897932",
+ "dre_path": "/dr/detalhe/decreto-lei/347-1985-181004",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1985-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "185764167",
+    "185764148"
+   ]
+  },
+  {
+   "date": "1992-03-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:626237:por",
+     "title": "Lei n.º 2/92",
+     "published": "1992-03-09",
+     "dre_path": "/dr/detalhe/lei/2-1992-626237"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "185764147",
+    "185764150",
+    "185764149"
+   ]
+  },
+  {
+   "date": "1994-06-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:302276:por",
+     "title": "Decreto-Lei n.º 166/94",
+     "published": "1994-06-09",
+     "dre_path": "/dr/detalhe/decreto-lei/166-1994-302276"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "185764147",
+    "185764151",
+    "185764149"
+   ]
+  },
+  {
+   "date": "1995-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:233945:por",
+     "title": "Lei n.º 39-B/94",
+     "published": "1994-12-27",
+     "dre_path": "/dr/detalhe/lei/39-b-1994-233945"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "185764147",
+    "185764152",
+    "185764149"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:533809:por",
+     "title": "Lei n.º 16-A/2002",
+     "published": "2002-05-31",
+     "dre_path": "/dr/detalhe/lei/16-a-2002-533809",
+     "date": "2002-04-05"
+    }
+   ]
+  },
+  {
+   "date": "2005-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:233946:por",
+     "title": "Lei n.º 39/2005",
+     "published": "2005-06-24",
+     "dre_path": "/dr/detalhe/lei/39-2005-233946"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "185764147",
+    "185764160",
+    "185764149"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456872:por",
+     "title": "Lei n.º 26-A/2008",
+     "published": "2008-06-27",
+     "dre_path": "/dr/detalhe/lei/26-a-2008-456872"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "185764147",
+    "185764161",
+    "185764149"
+   ]
+  },
+  {
+   "date": "2010-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:292110:por",
+     "title": "Lei n.º 12-A/2010",
+     "published": "2010-06-30",
+     "dre_path": "/dr/detalhe/lei/12-a-2010-292110"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "185764147",
+    "185764162",
+    "185764149"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344942:por",
+     "title": "Lei n.º 55-A/2010",
+     "published": "2010-12-31",
+     "dre_path": "/dr/detalhe/lei/55-a-2010-344942"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "185764147",
+    "185764163",
+    "185764149"
+   ]
+  },
+  {
+   "date": "2012-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:427611:por",
+     "title": "Lei n.º 14-A/2012",
+     "published": "2012-03-30",
+     "dre_path": "/dr/detalhe/lei/14-a-2012-427611"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "185764147",
+    "185764164",
+    "185764149"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164404:por",
+     "title": "Lei n.º 83-C/2013",
+     "published": "2013-12-31",
+     "dre_path": "/dr/detalhe/lei/83-c-2013-164404"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "185764147",
+    "185764165",
+    "185764149"
+   ]
+  },
+  {
+   "date": "2015-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67641518:por",
+     "title": "Lei n.º 63-A/2015",
+     "published": "2015-06-30",
+     "dre_path": "/dr/detalhe/lei/63-a-2015-67641518"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "185764147",
+    "185764166",
+    "185764149"
+   ]
+  },
+  {
+   "date": "2022-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185224662:por",
+     "title": "Lei n.º 12/2022",
+     "published": "2022-06-27",
+     "dre_path": "/dr/detalhe/lei/12-2022-185224662"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "185764167",
+    "185764168",
+    "185764169"
+   ]
+  }
+ ],
+ "fragments": {
+  "185764167": {
+   "fragment_id": "185897933",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-06-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 347/85\n\nde 23 de Agosto\n\nNos n.os 2 e 3 do seu artigo 32.º a Lei n.º 2-B/85, de 28 de Fevereiro, autoriza o Governo a estabelecer, para as operações sujeitas a imposto sobre o valor acrescentado que ocorram nas Regiões Autónomas dos Açores e da Madeira, taxas reduzidas, no limite mínimo de 70% em relação às aplicáveis a idênticas operações efectuadas no continente.\n\nRecaindo sobre o preço de venda de bens e de prestações de serviços ao consumidor final, o imposto sobre o valor acrescentado tornaria mais oneroso o consumo das regiões autónomas, agravado como está com o custo dos transportes, sempre que se tratasse de mercadorias adquiridas no continente. A aplicação de taxas mais reduzidas pretende igualar de certo modo as bases tributáveis do imposto às do continente.\n\nNo uso da autorização legislativa conferida pelos n.os 2 e 3 do artigo 32.º da Lei n.º 2-B/85, de 28 de Fevereiro:\n\nO Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "185764148": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixadas em 6%, 12% e 21%, respectivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nas mesmas Regiões.\n\n2 - Para efeitos do disposto no número anterior, as operações tributáveis considerar-se-ão localizadas no continente ou nas Regiões Autónomas dos Açores e da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n3 - Não obstante o disposto no n.º 2, as prestações de serviços de transporte serão consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efectuadas."
+  },
+  "185764147": {
+   "fragment_id": "185897933",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 347/85\n\nde 23 de Agosto\n\nNos n.os 2 e 3 do seu artigo 32.º a Lei n.º 2-B/85, de 28 de Fevereiro, autoriza o Governo a estabelecer, para as operações sujeitas a imposto sobre o valor acrescentado que ocorram nas Regiões Autónomas dos Açores e da Madeira, taxas reduzidas, no limite mínimo de 70% em relação às aplicáveis a idênticas operações efectuadas no continente.\n\nRecaindo sobre o preço de venda de bens e de prestações de serviços ao consumidor final, o imposto sobre o valor acrescentado tornaria mais oneroso o consumo das regiões autónomas, agravado como está com o custo dos transportes, sempre que se tratasse de mercadorias adquiridas no continente. A aplicação de taxas mais reduzidas pretende igualar de certo modo as bases tributáveis do imposto às do continente.\n\nNo uso da autorização legislativa conferida pelos n.os 2 e 3 do artigo 32.º da Lei n.º 2-B/85, de 28 de Fevereiro:\n\nO Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "185764150": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1992-03-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixadas em 4%, 21% e 12%, respectivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nas mesmas Regiões.\n\n2 - Para efeitos do disposto no número anterior, as operações tributáveis considerar-se-ão localizadas no continente ou nas Regiões Autónomas dos Açores e da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n3 - Não obstante o disposto no n.º 2, as prestações de serviços de transporte serão consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efectuadas.\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+  },
+  "185764149": {
+   "fragment_id": "185897935",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias.\n\nPromulgado em 2 de Agosto de 1985\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 7 de Agosto de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "185764151": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1994-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14",
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixadas em 4%, 21% e 12%, respectivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nas mesmas Regiões.\n\n2 - Para efeitos do disposto no número anterior, as operações tributáveis considerar-se-ão localizadas no continente ou nas Regiões Autónomas dos Açores e da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n3 - Não obstante o disposto no n.º 2, as prestações de serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e vice-versa serão consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efectuadas.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+  },
+  "185764152": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1995-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14",
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixadas em 4% e 13%, respectivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a) e b) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nas mesmas Regiões.\n\n2 - Para efeitos do disposto no número anterior, as operações tributáveis considerar-se-ão localizadas no continente ou nas Regiões Autónomas dos Açores e da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n3 - Não obstante o disposto no n.º 2, as prestações de serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e vice-versa serão consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efectuadas.\n\n> Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+  },
+  "185764160": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2005-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05",
+    "Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14",
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixadas em 4%, 8% e 15%, respectivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nas mesmas Regiões.\n\n2 - Para efeitos do disposto no número anterior, as operações tributáveis considerar-se-ão localizadas no continente ou nas Regiões Autónomas dos Açores e da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n3 - Não obstante o disposto no n.º 2, as prestações de serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e vice-versa serão consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efectuadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05\n\n> Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+  },
+  "185764161": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05",
+    "Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14",
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixadas em 4 %, 8 % e 14 %, respectivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nas mesmas Regiões.\n\n2 - Para efeitos do disposto no número anterior, as operações tributáveis considerar-se-ão localizadas no continente ou nas Regiões Autónomas dos Açores e da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n3 - Não obstante o disposto no n.º 2, as prestações de serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e vice-versa serão consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efectuadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05\n\n> Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+  },
+  "185764162": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05",
+    "Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14",
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixadas em 4 %, 9 % e 15 %, respectivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nas mesmas regiões.\n\n2 - Para efeitos do disposto no número anterior, as operações tributáveis considerar-se-ão localizadas no continente ou nas Regiões Autónomas dos Açores e da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n3 - Não obstante o disposto no n.º 2, as prestações de serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e vice-versa serão consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efectuadas.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05\n\n> Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+  },
+  "185764163": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 106.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05",
+    "Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14",
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixadas em 4 %, 9 % e 16 %, respectivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efectuadas nas Regiões Autónomas dos Açores e da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nas mesmas Regiões.\n\n2 - Para efeitos do disposto no número anterior, as operações tributáveis considerar-se-ão localizadas no continente ou nas Regiões Autónomas dos Açores e da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n3 - Não obstante o disposto no n.º 2, as prestações de serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e vice-versa serão consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efectuadas.\n\n> Alterado pelo/a Artigo 106.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05\n\n> Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+  },
+  "185764164": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 14-A/2012 - Diário da República n.º 65/2012, 2º Suplemento, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 106.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05",
+    "Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14",
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixadas em 4 %, 9 % e 16 %, respetivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efetuadas na Região Autónoma dos Açores e nas importações cujo desembaraço alfandegário tenha lugar nesta região.\n\n2 - São fixadas em 5 %, 12 % e 22 %, respetivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efetuadas na Região Autónoma da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nesta região.\n\n3 - Para efeitos do disposto nos números anteriores, as operações tributáveis consideram-se localizadas no continente, na Região Autónoma dos Açores ou na Região Autónoma da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n4 - Não obstante o disposto no número anterior, as prestações de serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e vice-versa são consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efetuadas.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 14-A/2012 - Diário da República n.º 65/2012, 2º Suplemento, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 106.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05\n\n> Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+  },
+  "185764165": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 183.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 14-A/2012 - Diário da República n.º 65/2012, 2º Suplemento, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 106.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05",
+    "Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14",
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixados em 5 %, 10 % e 18 %, respetivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efetuadas na Região Autónoma dos Açores e nas importações cujo desembaraço alfandegário tenha lugar nesta Região.\n\n2 - São fixadas em 5 %, 12 % e 22 %, respetivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efetuadas na Região Autónoma da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nesta região.\n\n3 - Para efeitos do disposto nos números anteriores, as operações tributáveis consideram-se localizadas no continente, na Região Autónoma dos Açores ou na Região Autónoma da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n4 - Não obstante o disposto no número anterior, as prestações de serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e vice-versa são consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efetuadas.\n\n> Alterado pelo/a Artigo 183.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 14-A/2012 - Diário da República n.º 65/2012, 2º Suplemento, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 106.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05\n\n> Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+  },
+  "185764166": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2015-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 63-A/2015 - Diário da República n.º 125/2015, 2º Suplemento, Série I de 2015-06-30](https://diariodarepublica.pt/dr/detalhe/lei/63-a-2015-67641518), em vigor a partir de 2015-07-01",
+    "Alterado pelo/a Artigo 183.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 14-A/2012 - Diário da República n.º 65/2012, 2º Suplemento, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 106.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05",
+    "Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14",
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixadas em 4 %, 9 % e 18 %, respetivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efetuadas na Região Autónoma dos Açores e nas importações cujo desembaraço alfandegário tenha lugar nesta Região.\n\n2 - São fixadas em 5 %, 12 % e 22 %, respetivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efetuadas na Região Autónoma da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nesta região.\n\n3 - Para efeitos do disposto nos números anteriores, as operações tributáveis consideram-se localizadas no continente, na Região Autónoma dos Açores ou na Região Autónoma da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n4 - Não obstante o disposto no número anterior, as prestações de serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e vice-versa são consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efetuadas.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 63-A/2015 - Diário da República n.º 125/2015, 2º Suplemento, Série I de 2015-06-30](https://diariodarepublica.pt/dr/detalhe/lei/63-a-2015-67641518), em vigor a partir de 2015-07-01\n\n> Alterado pelo/a Artigo 183.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 14-A/2012 - Diário da República n.º 65/2012, 2º Suplemento, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 106.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05\n\n> Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+  },
+  "185764168": {
+   "fragment_id": "185897934",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2022-06-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 329.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 63-A/2015 - Diário da República n.º 125/2015, 2º Suplemento, Série I de 2015-06-30](https://diariodarepublica.pt/dr/detalhe/lei/63-a-2015-67641518), em vigor a partir de 2015-07-01",
+    "Alterado pelo/a Artigo 183.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 14-A/2012 - Diário da República n.º 65/2012, 2º Suplemento, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 106.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05",
+    "Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14",
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São fixadas em 4 %, 9 % e 18 %, respetivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efetuadas na Região Autónoma dos Açores e nas importações cujo desembaraço alfandegário tenha lugar nesta Região.\n\n2 - São fixadas em 5 %, 12 % e 22 %, respetivamente, as taxas do imposto sobre o valor acrescentado a que se referem as alíneas a), b) e c) do n.º 1 do artigo 18.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de dezembro, a aplicar às transmissões de bens e prestações de serviços que se considerem efetuadas na Região Autónoma da Madeira e nas importações cujo desembaraço alfandegário tenha lugar nesta região.\n\n3 - Para efeitos do disposto nos números anteriores, as operações tributáveis consideram-se localizadas no continente, na Região Autónoma dos Açores ou na Região Autónoma da Madeira, de acordo com os critérios estabelecidos pelo artigo 6.º do Código do Imposto sobre o Valor Acrescentado, com as devidas adaptações.\n\n4 - Não obstante o disposto no número anterior, as prestações de serviços de transporte entre o continente e as Regiões Autónomas dos Açores e da Madeira e vice-versa são consideradas, para efeitos do presente diploma, como tributáveis no local do estabelecimento estável a partir do qual são efetuadas.\n\n> Revogado pelo/a Artigo 329.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 63-A/2015 - Diário da República n.º 125/2015, 2º Suplemento, Série I de 2015-06-30](https://diariodarepublica.pt/dr/detalhe/lei/63-a-2015-67641518), em vigor a partir de 2015-07-01\n\n> Alterado pelo/a Artigo 183.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 14-A/2012 - Diário da República n.º 65/2012, 2º Suplemento, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/lei/14-a-2012-427611), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 106.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 12-A/2010 - Diário da República n.º 125/2010, 1º Suplemento, Série I de 2010-06-30](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2010-292110), em vigor a partir de 2010-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 26-A/2008 - Diário da República n.º 123/2008, 1º Suplemento, Série I de 2008-06-27](https://diariodarepublica.pt/dr/detalhe/lei/26-a-2008-456872), em vigor a partir de 2008-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 39/2005 - Diário da República n.º 120/2005, Série I-A de 2005-06-24](https://diariodarepublica.pt/dr/detalhe/lei/39-2005-233946), em vigor a partir de 2005-07-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 16-A/2002 - Diário da República n.º 125/2002, 1º Suplemento, Série I-A de 2002-05-31](https://diariodarepublica.pt/dr/detalhe/lei/16-a-2002-533809), em vigor a partir de 2002-04-05\n\n> Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 2/92 - Diário da República n.º 57/1992, 1º Suplemento, Série I-A de 1992-03-09](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), em vigor a partir de 1992-03-14"
+  },
+  "185764169": {
+   "fragment_id": "185897935",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-06-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 329.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Alípio Barrosa Pereira Dias.\n\nPromulgado em 2 de Agosto de 1985\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 7 de Agosto de 1985.\n\nO Primeiro-Ministro, Mário Soares.\n\n> Revogado pelo/a Artigo 329.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28"
+  }
+ }
+}

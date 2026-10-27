@@ -1,0 +1,261 @@
+---
+schema_version: '1.0'
+id: pt:dre:565189:por
+title: Decreto-Lei n.º 264/81
+short_title: null
+summary: Cria a Reserva Natural da Berlenga
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Qualidade de Vida - Secretaria de Estado do Ordenamento e Ambiente
+proposing_entity: null
+official_number: 264/81
+official_date: null
+publication_date: '1981-09-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/1981, Série I de 1981-09-03
+  number: '202'
+  series: I
+  supplement: null
+  pages: 2345 - 2347
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20200/23452347.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '565189'
+  dre_path: /dr/detalhe/decreto-lei/264-1981-565189
+  internal: pt:dre:565189:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1981-565189
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1981-565189
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:38:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d75a28044593c4605ec8a9062cb2fa37091f092113aa010377d848be1fb85004
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:38:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Berlengas
+- Proteção do Ambiente
+- Reserva Natural da Berlenga
+relationships:
+- type: amended_by
+  target: pt:dre:546991:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:421784:por
+  label: Aditado um artigo 6.º-A pelo DEC LEI.219/87.29.05.1987.MPAT, DR.IS [123] de 29.05.1987
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/219-1987-421784
+  date: '1987-05-29'
+- type: amended_by
+  target: pt:dre:546991:por
+  label: "Alterados os arts. 6º-A, 9º e 10º e aditados os arts. 6º-B, 6º-C e 6º-D ao presente diploma, pelo DEC LEI.293/89.02.09.1989.MPAT,\
+    \ DR.IS [202] de 02.09.1989\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/293-1989-546991
+  date: '1989-09-02'
+- type: cites
+  target: pt:dre:430785:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468837:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:38:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 264/81
+
+de 3 de Setembro
+
+A algumas milhas da costa portuguesa, a noroeste de Peniche e do cabo Carvoeiro, afloram acima da superfície do mar alguns maciços graníticos com grande valor natural, sobretudo localizados na ilha Berlenga, a qual ocupa uma área terrestre de cerca de 78 ha.
+
+O mar que a envolve, de grande riqueza ictiológica e de águas excepcionalmente claras, constitui um património de incalculável valor, não só como local de criação de peixe mas também como campo de actividades subaquáticas, conhecido internacionalmente pelas suas qualidades.
+
+A flora da Berlenga, cujo número de espécies naturais ultrapassa as 80, inclui 4 espécies endémicas além de outras 3 com área de distribuição muito restrita, interessando preservar umas e outras.
+
+O seu interesse no aspecto ornitológico é também notável, pois constitui local de nidificação de muitas aves e ponto de passagem de algumas espécies migradoras.
+
+Do ponto de vista recreativo, como o comprova já o número de visitantes que, anualmente, ali vão no Verão, constitui um potencial que, ordenado e controlado, poderá ainda sofrer consideráveis melhorias, sem que os valores naturais sejam degradados e perdidos.
+
+Assim, constitui a ilha Berlenga um potencial recreativo e um enorme valor natural em constante risco de degradação ou perda que interessa defender e preservar.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º É criada, ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, a Reserva Natural da Berlenga.
+
+Art. 2.º A área da Reserva Natural da Berlenga tem por limite a linha batimétrica dos 30 m à volta da Berlenga e inclui todas as suas ilhas, ilhéus e área marítima, conforme o mapa anexo ao presente diploma e que dele faz parte integrante.
+
+Art. 3.º Na área da Reserva ficam definidas as seguintes zonas com utilização específica, de acordo com o mapa anexo ao presente diploma:
+
+a) Áreas de reserva de recreio: uma, definida pelo carreiro do Mosteiro, sua praia e encosta do bairro dos pescadores, incluindo o local de permissão de acampamento; outra, limitada à zona envolvente da Fortaleza de São João Baptista;
+
+b) Área do farol: constitui uma zona de serviço, que inclui as construções existentes ligadas ao farol, habitação e anexos, bem como o terreno utilizado como logradouro e perfeitamente limitado por gradeamento;
+
+c) Área de reserva natural parcial: constituída por todos os ilhéus, pela chamada «ilha Velha» e pela zona sul do caminho que atravessa a ilha Berlenga e que dá acesso às cisternas e à Fortaleza. Trata-se de uma zona em que se pretende proteger a flora, a fauna e o relevo naturais, embora permitindo acesso disciplinado de visitantes;
+
+d) Área de reserva natural integral: constituída por toda a zona a norte do caminho referido na alínea c) e limitada a este pelo carreiro dos Cações. Trata-se de uma zona onde se pretende proteger de forma integral a flora, a fauna e o relevo naturais, sendo local de nidificação de aves que deve ser defendido de toda a acção humana;
+
+e) Área de reserva marinha: definida pelas águas que envolvem a ilha até à batimétrica dos 30 m. Trata-se de uma área oceânica de grande interesse para a prática do mergulho científico ou recreativo, onde se protege igualmente a fauna e a flora subaquáticas.
+
+Art. 4.º - 1 - Na área de reserva de recreio é proibido:
+
+a) Fazer lume fora dos locais para o efeito estabelecidos;
+
+b) Abandonar detritos ou quaisquer formas de lixo fora dos recipientes destinados a esse fim;
+
+c) Introduzir espécies animais ou vegetais exóticas;
+
+d) Caçar ou capturar por qualquer forma animais e colher plantas ou partes de plantas;
+
+e) Utilizar qualquer tipo de veículo terrestre e de motores, excepto os adstritos à Câmara Municipal de Peniche, instalações de turismo e faróis.
+
+2 - Na área de reserva de recreio é permitido:
+
+a) O livre desembarque e acesso de pessoas, apenas condicionado pela capacidade de carga da área;
+
+b) Acampar no local que para o efeito for designado.
+
+Art. 5.º - 1 - Na área de reserva natural parcial é proibido:
+
+a) Transitar fora dos trilhos e caminhos estabelecidos no plano de ordenamento;
+
+b) Caçar ou capturar qualquer espécie animal fora dos casos especiais que o director, ouvido o conselho geral da Reserva, venha a ressalvar especialmente, por motivos ponderosos;
+
+c) Destruir ou danificar os ninhos e apanhar ovos;
+
+d) Colher plantas ou partes de plantas, salvo nas operações de limpeza de espécies infestantes ordenadas pelo director da Reserva;
+
+e) Fazer lume, lançar detritos ou amontoar materiais, bem como proceder a qualquer alteração do relevo natural;
+
+f) Instalar barracas ou tendas de campismo.
+
+2 - É permitido o acesso por barco a todos os ilhéus, para a actividade da pesca à linha.
+
+Art. 6.º - 1 - Na área de reserva natural integral é proibido o acesso de pessoas, bem como qualquer tipo de actividade.
+
+2 - A proibição de acesso constante no número anterior não abrange:
+
+a) As pessoas com actividades relacionadas com a própria gestão da Reserva;
+
+b) Visitantes com fins científicos ou outros de interesse relevante, devidamente credenciados pelo director da Reserva;
+
+c) Os pescadores, que deverão dirigir-se de e para os pesqueiros caminhando, exclusivamente, pelos trilhos sinalizados para o efeito.
+
+Art. 7.º - 1 - Além das actividades que, nos termos dos artigos anteriores, constituem contravenção, poderão ainda ser consideradas contravenções outras actividades a definir por portaria do Ministro da Qualidade de Vida, depois de ouvido o Estado-Maior da Armada nas matérias que lhe dizem directamente respeito.
+
+2 - Na portaria referida no número anterior serão igualmente definidas as multas correspondentes às contravenções.
+
+Art. 8.º É proibido na área da Reserva Natural da Berlenga construir, reconstruir, ampliar ou alterar construções existentes, bem como efectuar qualquer obra de aterro ou escavação, conforme consta também dos Decretos n.os 41615, de 10 de Maio de 1958 (servidões militares), e 458/71, de 5 de Novembro (domínio público marítimo).
+
+Art. 9.º - 1 - As infracções ao disposto nos artigos anteriores, sem prejuízo de outras sanções aplicáveis, são puníveis com as seguintes multas:
+
+a) 500$00 a 5000$00, no que se refere ao n.º 1 do artigo 4.º;
+
+b) 1000$00 a 10000$00, no que se refere ao artigo 5.º;
+
+c) 5000$00 a 25000$00, no que se refere ao artigo 6.º;
+
+d) 5000$00 a 50000$00, no que se refere ao artigo 8.º
+
+2 - A aplicação da multa prevista na alínea d) do número anterior não prejudica a obrigação de o infractor demolir as obras ou trabalhos efectuados e de repor o estado anterior à infracção, sem que por esse facto tenha direito a qualquer indemnização ou retribuição.
+
+3 - Se o infractor, tendo sido notificado, não demolir as obras ou trabalhos efectuados no prazo que lhe for assinalado por carta registada com aviso de recepção, o director da Reserva mandará proceder à demolição coerciva ou às obras necessárias para a reposição do estado anterior, apresentando ao infractor a relação das despesas para cobrança voluntária ou recorrendo à cobrança coerciva, se necessário.
+
+4 - Se as obras referidas no número anterior se localizarem em área da jurisdição da autoridade marítima, esta será responsável pelo cumprimento das determinações emanadas do director da Reserva.
+
+Art. 10.º - 1 - A fiscalização compete ao Serviço Nacional de Parques, Reservas e Património Paisagístico, devendo as entidades que integram o conselho geral da Reserva Natural da Berlenga colaborar naquela fiscalização.
+
+2 - Na área da jurisdição da autoridade marítima, esta, para além das suas atribuições específicas, deverá exercer a fiscalização referida no número anterior.
+
+Art. 11.º - 1 - A Reserva Natural da Berlenga disporá, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, dos seguintes órgãos e serviços:
+
+a) Director;
+
+b) Conselho geral;
+
+c) Serviços administrativos e auxiliar.
+
+2 - Do conselho geral farão parte, além do director, os representantes indicados pelas seguintes entidades:
+
+Secretaria de Estado das Pescas;
+
+Câmara Municipal de Peniche;
+
+Direcção-Geral de Portos;
+
+Direcção-Geral dos Serviços de Fomento Marítimo;
+
+Direcção-Geral do Turismo;
+
+Federação Portuguesa de Actividades Subaquáticas;
+
+Centro Português de Actividades Subaquáticas;
+
+Associação «Amigos da Berlenga».
+
+3 - Os serviços administrativos da Reserva ficarão a cargo dos serviços centrais do Serviço Nacional de Parques, Reservas e Património Paisagístico.
+
+Art. 12.º Os membros do conselho geral da Reserva Natural da Berlenga têm direito, nos termos da legislação geral, a senhas de presença por cada sessão a que compareçam.
+
+Art. 13.º Na área da Reserva Natural da Berlenga são permitidos trabalhos, actividades ou estudos que interessem à defesa nacional, mediante despacho favorável do respectivo titular e do Ministro da Qualidade de Vida, no qual se estabelecerá, caso exista, a classificação de segurança correspondente.
+
+Art. 14.º - 1 - As despesas resultantes da execução do presente diploma e, bem assim, as que resultem da necessidade de dar cumprimento às finalidades para que a Reserva foi criada serão suportadas pelas verbas adequadas do orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.
+
+2 - Exceptuam-se do disposto no número anterior as despesas com infra-estruturas portuárias e faróis, bem como as relativas a obras nos edifícios de apoio turístico, que são da responsabilidade das entidades competentes.
+
+Art. 15.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro da Qualidade de Vida ou por despacho conjunto do Ministro da Qualidade de Vida e dos titulares de outros departamentos do Estado interessados.
+
+Visto e aprovado em Conselho de Ministros de 7 de Maio de 1981. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 24 de Agosto de 1981.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/20200/23452347.pdf)

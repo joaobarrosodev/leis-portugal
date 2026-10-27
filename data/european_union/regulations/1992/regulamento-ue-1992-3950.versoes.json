@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31992R3950:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01992R3950-20040401",
+ "dre_path": null,
+ "source_lastmod": "2004-04-01",
+ "versions": [
+  {
+   "date": "1992-12-31",
+   "future": false,
+   "celex": "31992R3950",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2004-04-01",
+   "future": false,
+   "celex": "01992R3950-20040401",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "0274eb9d0e502f16"
+   ]
+  }
+ ],
+ "fragments": {
+  "0274eb9d0e502f16": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1992R3950 — PT — 01.04.2004 — 015.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31992R3950) [REGULAMENTO (CEE) N.º 3950/92 DO CONSELHO](http://publications.europa.eu/resource/celex/31992R3950) [de 28 de Dezembro de 1992](http://publications.europa.eu/resource/celex/31992R3950) [que institui uma imposição suplementar no sector do leite e dos produtos lácteos](http://publications.europa.eu/resource/celex/31992R3950) (JO L 405, 31.12.1992, p.1)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1788/2003 do Conselho de 29 de Setembro de 2003](http://publications.europa.eu/resource/celex/32003R1788) — L 270 — 123 — 21.10.2003"
+  }
+ }
+}

@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:400575:por
+title: Portaria n.º 843/84
+short_title: null
+summary: Integra no Centro Regional de Segurança Social de Beja a Casa Pia de Beja
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 843/84
+official_date: null
+publication_date: '1984-11-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 254/1984, Série I de 1984-11-02
+  number: '254'
+  series: I
+  supplement: null
+  pages: 3365 - 3366
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/11/25400/33653366.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '400575'
+  dre_path: /dr/detalhe/portaria/843-1984-400575
+  internal: pt:dre:400575:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/843-1984-400575
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/843-1984-400575
+  consolidated_url: null
+  retrieved_at: '2026-10-23T08:14:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f14030c1bf120a9a962918a613727e6a0bf78d7bdfcfbcb6cad083992b73d2d1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T08:14:31Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Beja
+- Centro Regional de Segurança Social
+relationships:
+- type: cites
+  target: pt:dre:276602:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297012:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T08:14:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 843/84
+
+de 2 de Novembro
+
+Considerando que importa dar força legal ao protocolo de transferência da Casa Pia de Beja do âmbito da Assembleia Distrital de Beja para o do Centro Regional de Segurança Social de Beja, celebrado por estas duas entidades a 30 de Agosto de 1983;
+
+Considerando que tal acordo foi ratificado por parte da Secretaria de Estado da Segurança Social a 26 de Setembro de 1983;
+
+Considerando que a referida transferência decorre da filosofia subjacente ao [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, ratificado pela [Lei n.º 55/78](https://diariodarepublica.pt/dr/detalhe/lei/55-1978-297012), de 27 de Julho, que criou o sistema unificado da segurança social:
+
+Manda o Governo da República Portuguesa, pelas Secretárias de Estado da Administração Autárquica e da Segurança Social, o seguinte:
+
+1.º É integrada no Centro Regional de Segurança Social de Beja a Casa Pia de Beja.
+
+2.º O património mobiliário e imobiliário desta instituição é transferido para aquele Centro Regional.
+
+3.º O presente diploma constitui título bastante para determinar a transferência de propriedade do imóvel onde esteve instalada a Casa Pia de Beja para a esfera jurídica do Centro Regional de Segurança Social de Beja.
+
+4.º A presente portaria produz efeitos desde 5 de Outubro de 1983.
+
+Secretarias de Estado da Administração Autárquica e da Segurança Social.
+
+Assinada em 6 de Agosto de 1984.
+
+A Secretária de Estado da Administração Autárquica, Helena de Melo Torres Marques. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.

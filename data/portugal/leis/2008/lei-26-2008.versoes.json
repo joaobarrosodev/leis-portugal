@@ -1,0 +1,104 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:456254:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2008-34503975",
+ "dre_path": "/dr/detalhe/lei/26-2008-456254",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-06-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "49250975",
+    "49251075",
+    "49251175",
+    "49251275"
+   ]
+  },
+  {
+   "date": "2009-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491930:por",
+     "title": "Lei n.º 30/2009",
+     "published": "2009-06-30",
+     "dre_path": "/dr/detalhe/lei/30-2009-491930"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A"
+   ],
+   "fragments": [
+    "49250975",
+    "49251075",
+    "49251175",
+    "169360932",
+    "169360931",
+    "169360933"
+   ]
+  }
+ ],
+ "fragments": {
+  "49250975": {
+   "fragment_id": "35123775",
+   "type": 15,
+   "heading": "Diploma — Nona alteração à Lei n.º 21/85, de 30 de Julho (Estatuto dos Magistrados Judiciais), e quinta alteração à Lei n.º 13/2002, de 19 de Fevereiro (Estatuto dos Tribunais Administrativos e Fiscais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "49251075": {
+   "fragment_id": "35890175",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração à Lei n.º 21/85, de 30 Julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração à Lei n.º 21/85, de 30 Julho\n\nOs artigos 46.º, 47.º, 48.º, 52.º, 67.º, 148.º e 150.º da Lei n.º 21/85, de 30 de Julho (Estatuto dos Magistrados Judiciais), alterada pelo Decreto-Lei n.º 342/88, de 28 de Setembro, e pelas Leis n.os 2/90, de 20 de Janeiro, 10/94, de 5 de Maio, 44/96, de 3 de Setembro, 81/98, de 3 de Dezembro, 143/99, de 31 de Agosto, 3-B/2000, de 4 de Abril, e 42/2005, de 29 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 46.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - O concurso curricular referido no número anterior é aberto por deliberação do Conselho Superior da Magistratura quando se verifique a existência e necessidade de provimento de vagas de juiz da Relação.\n\nArtigo 47.º\n\nConcurso, avaliação curricular e graduação\n\n1 - O concurso compreende duas fases, uma primeira fase na qual o Conselho Superior da Magistratura define o número de concorrentes que irão ser admitidos a concurso de entre os juízes de direito mais antigos dos classificados com Muito bom ou Bom com distinção e uma segunda fase na qual é realizada a avaliação curricular dos juízes seleccionados na fase anterior e efectuada a graduação final.\n\n2 - Na primeira fase, o Conselho Superior da Magistratura tem em consideração, na definição do número de vagas a concurso, o dobro do número de lugares não providos nos tribunais da Relação e as disposições constantes do artigo 48.º\n\n3 - Os magistrados que concorram indicam por ordem decrescente de preferência os tribunais da Relação a que concorrem, bem como os tribunais a que renunciem.\n\n4 - Os concorrentes seleccionados na fase anterior integram uma segunda fase na qual defendem publicamente os seus currículos perante um júri com a seguinte composição:\n\na) Presidente do júri - o Presidente do Supremo Tribunal de Justiça, que pode delegar num dos vice-presidentes ou em outro membro do Conselho Superior da Magistratura com categoria igual ou superior à de juiz desembargador;\n\nb) Vogais:\n\ni) Um magistrado membro do Conselho Superior da Magistratura com categoria não inferior à de juiz desembargador;\n\nii) Dois membros do Conselho Superior da Magistratura, não pertencentes à magistratura, a eleger por aquele órgão;\n\niii) Um professor universitário de Direito, com categoria não inferior à de professor associado, escolhido, nos termos do n.º 5, pelo Conselho Superior da Magistratura.\n\n5 - O Conselho Superior da Magistratura solicita, a cada uma das universidades, institutos universitários e outras escolas universitárias, públicos e privados, que ministrem o curso de Direito, a indicação, no prazo de 20 dias úteis, do nome de um professor de Direito, com a categoria não inferior à de professor associado, procedendo, subsequentemente, à escolha do vogal a que se refere a subalínea iii) da alínea b) do n.º 4, por votação, por voto secreto, de entre os indicados.\n\n6 - O júri emite parecer sobre a prestação de cada um dos candidatos, a qual é tomada em consideração pelo Conselho Superior da Magistratura na elaboração do acórdão definitivo sobre a graduação final dos candidatos e que fundamenta a decisão sempre que houver discordância em relação ao parecer do júri.\n\n7 - A graduação final dos magistrados faz-se de acordo com o mérito relativo dos concorrentes, tomando-se em consideração, em 40 %, a avaliação curricular, nos termos previstos no número anterior, e, em 60 %, as anteriores classificações de serviço, preferindo em caso de empate o juiz com mais antiguidade.\n\n8 - O Conselho Superior da Magistratura adopta as providências que se mostrem necessárias à boa organização e execução do concurso de acesso ao provimento de vagas de juiz da Relação.\n\nArtigo 48.º\n\n[...]\n\n1 - As vagas para a primeira fase são preenchidas, na proporção de duas para uma, por concorrentes classificados respectivamente com Muito bom ou Bom com distinção.\n\n2 - ...\n\n3 - ...\n\nArtigo 52.º\n\nAvaliação curricular, graduação e preenchimento de vagas\n\n1 - A graduação faz-se segundo o mérito relativo dos concorrentes de cada classe, tomando-se globalmente em conta a avaliação curricular, com prévia observância do disposto no número seguinte e, nomeadamente, tendo em consideração os seguintes factores:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n2 - Os concorrentes defendem publicamente os seus currículos perante um júri com a seguinte composição:\n\na) Presidente do júri - o Presidente do Supremo Tribunal de Justiça, na qualidade de presidente do Conselho Superior da Magistratura;\n\nb) Vogais:\n\ni) O juiz conselheiro mais antigo na categoria que seja membro do Conselho Superior da Magistratura;\n\nii) Um membro do Conselho Superior do Ministério Público, a eleger por aquele órgão;\n\niii) Um membro do Conselho Superior da Magistratura, não pertencente à magistratura, a eleger por aquele órgão;\n\niv) Um professor universitário de Direito, com a categoria de professor catedrático, escolhido, nos termos do n.º 5, pelo Conselho Superior da Magistratura;\n\nv) Um advogado com funções no Conselho Superior da Ordem dos Advogados, cabendo ao Conselho Superior da Magistratura solicitar à Ordem dos Advogados a respectiva indicação.\n\n3 - O júri emite parecer sobre a prestação de cada um dos candidatos, a qual é tomada em consideração pelo Conselho Superior da Magistratura na elaboração do acórdão definitivo sobre a lista de candidatos e que deverá fundamentar a decisão sempre que houver discordância face ao parecer do júri.\n\n4 - As deliberações serão tomadas por maioria simples de votos, tendo o presidente do júri voto de qualidade em caso de empate.\n\n5 - O Conselho Superior da Magistratura solicita, a cada uma das universidades, institutos universitários e outras escolas universitárias, públicos e privados, que ministrem o curso de Direito, a indicação, no prazo de 20 dias úteis, do nome de um professor de Direito, com a categoria de professor catedrático, procedendo, subsequentemente, à escolha do vogal a que se refere a subalínea iv) da alínea b) do n.º 2, por votação, por voto secreto, de entre os indicados.\n\n6 - (Anterior n.º 2.)\n\na) ...\n\nb) ...\n\nc) Uma em cada cinco vagas é necessariamente preenchida por juristas de reconhecido mérito;\n\nd) As vagas não preenchidas nos termos da alínea b) são atribuídas a juízes da Relação;\n\ne) As vagas não preenchidas nos termos da alínea c) não podem ser preenchidas por outros candidatos.\n\n7 - (Anterior n.º 3.)\n\nArtigo 67.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O Conselho Superior da Magistratura pode, a título excepcional e por razões fundamentadas, nomear juízes conselheiros jubilados para o exercício de funções no Supremo Tribunal de Justiça.\n\n4 - A nomeação é feita em comissão de serviço, pelo período de um ano, renovável por iguais períodos, de entre jubilados que para o efeito manifestem disponibilidade junto do Conselho Superior da Magistratura.\n\n5 - Os juízes conselheiros jubilados nomeados nos termos dos números anteriores têm direito, independentemente da área de residência, a ajudas de custo nos termos fixados no n.º 2 do artigo 27.º\n\n6 - (Anterior n.º 3.)\n\nArtigo 148.º\n\n[...]\n\n1 - ...\n\n2 - Os vogais do Conselho Superior da Magistratura desempenham as suas funções em regime de tempo integral, excepto se a tal renunciarem, aplicando-se, neste caso, redução do serviço correspondente ao cargo de origem.\n\n3 - Os vogais do Conselho Superior da Magistratura que exerçam funções em regime de tempo integral auferem vencimento correspondente ao do vogal magistrado de categoria mais elevada.\n\n4 - ...\n\nArtigo 150.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - Compõem o conselho permanente os seguintes membros:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Quatro vogais de entre os designados pela Assembleia da República;\n\ng) ...\n\n4 - A designação dos vogais referidos nas alíneas c) e d) do número anterior faz-se rotativamente, por períodos de 18 meses, e a designação dos vogais referidos na alínea f) faz-se por período igual ao da duração do respectivo mandato.\n\n5 - ...»"
+  },
+  "49251175": {
+   "fragment_id": "35890275",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 13/2002, de 19 de Fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 13/2002, de 19 de Fevereiro\n\nOs artigos 66.º, 67.º e 69.º do Estatuto dos Tribunais Administrativos e Fiscais, aprovado pela Lei n.º 13/2002, de 19 de Fevereiro, alterada pelas Leis n.os 4-A/2003, de 19 de Fevereiro, 107-D/2003, de 31 de Dezembro, e 1/2008 e 2/2008, de 14 de Janeiro, passam a ter a seguinte redacção:\n\n«Artigo 66.º\n\nAvaliação curricular, graduação e preenchimento de vagas\n\n1 - ...\n\n2 - A graduação faz-se segundo o mérito relativo dos concorrentes de cada classe, tomando-se globalmente em conta a avaliação curricular, com prévia observância do disposto no número seguinte e, nomeadamente, tendo em consideração os seguintes factores:\n\na) Anteriores classificações de serviço;\n\nb) Graduação obtida em concursos de habilitação ou cursos de ingresso em cargos judiciais;\n\nc) Currículo universitário e pós-universitário;\n\nd) Trabalhos científicos realizados;\n\ne) Actividade desenvolvida no âmbito forense ou no ensino jurídico;\n\nf) Outros factores que abonem a idoneidade dos requerentes para o cargo a prover.\n\n3 - Os concorrentes defendem publicamente os seus currículos perante um júri com a seguinte composição:\n\na) Presidente do júri - o Presidente do Supremo Tribunal Administrativo, na qualidade de presidente do Conselho Superior dos Tribunais Administrativos e Fiscais;\n\nb) Vogais:\n\ni) O juiz conselheiro mais antigo na categoria que seja membro do Conselho Superior dos Tribunais Administrativos e Fiscais;\n\nii) Um membro do Conselho Superior dos Tribunais Administrativos e Fiscais, não pertencente à magistratura, a eleger por este órgão;\n\niii) Um membro do Conselho Superior do Ministério Público, a eleger por este órgão;\n\niv) Um professor universitário de Direito, com a categoria de professor catedrático, escolhido, nos termos do n.º 6, pelo Conselho Superior dos Tribunais Administrativos e Fiscais;\n\nv) Um advogado com funções no Conselho Superior da Ordem dos Advogados, cabendo ao Conselho Superior dos Tribunais Administrativos e Fiscais solicitar à Ordem dos Advogados a respectiva indicação.\n\n4 - O júri emite parecer sobre a prestação de cada um dos candidatos, a qual deve ser tomada em consideração pelo Conselho Superior dos Tribunais Administrativos e Fiscais na elaboração do acórdão definitivo sobre a lista de candidatos, devendo fundamentar a decisão sempre que houver discordância face ao parecer do júri.\n\n5 - As deliberações são tomadas por maioria simples de votos, tendo o presidente do júri voto de qualidade em caso de empate.\n\n6 - O Conselho Superior dos Tribunais Administrativos e Fiscais solicita, a cada uma das universidades, institutos universitários e outras escolas universitárias, públicos e privados, que ministrem o curso de Direito, a indicação, no prazo de 20 dias úteis, do nome de um professor de Direito, com a categoria de professor catedrático, procedendo, subsequentemente, à escolha do vogal a que se refere a subalínea iv) da alínea b) do n.º 3, por votação, por voto secreto, de entre os indicados.\n\n7 - (Anterior n.º 2.)\n\nArtigo 67.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O disposto no número anterior não é aplicável às vagas não preenchidas nos termos da alínea d) do n.º 1, que não podem ser preenchidas por outros candidatos.\n\n4 - O disposto nos n.os 3 a 5 do artigo 67.º do Estatuto dos Magistrados Judiciais é aplicável ao exercício de funções no Supremo Tribunal Administrativo.\n\nArtigo 69.º\n\n[...]\n\n1 - ...\n\n2 - A graduação faz-se segundo o mérito dos concorrentes de cada classe, tomando-se globalmente a avaliação curricular, com prévia observância do disposto no número seguinte, e, nomeadamente, tendo em consideração os seguintes factores:\n\na) Anteriores classificações de serviço;\n\nb) Graduação obtida em concursos de habilitação ou cursos de ingresso em cargos judiciais;\n\nc) Currículo universitário e pós-universitário;\n\nd) Trabalhos científicos realizados;\n\ne) Actividade desenvolvida no âmbito forense ou no ensino jurídico;\n\nf) Outros factores que abonem a idoneidade dos requerentes para o cargo a prover.\n\n3 - Os concorrentes defendem os seus currículos perante um júri com a seguinte composição:\n\na) Presidente do júri - o Presidente do Supremo Tribunal Administrativo, podendo fazer-se substituir por um dos vice-presidentes ou por outro membro do Conselho Superior dos Tribunais Administrativos e Fiscais com categoria igual ou superior à de juiz desembargador.\n\nb) Vogais:\n\ni) Um magistrado membro do Conselho Superior dos Tribunais Administrativos e Fiscais com categoria não inferior à de juiz desembargador;\n\nii) Dois membros do Conselho Superior dos Tribunais Administrativos e Fiscais, não pertencentes à magistratura, a eleger por aquele órgão;\n\niii) Um professor universitário de Direito, com categoria não inferior à de professor associado, escolhido, nos termos do n.º 5, pelo Conselho Superior dos Tribunais Administrativos e Fiscais.\n\n4 - O júri elabora parecer sobre a prestação de cada um dos candidatos, a qual deve ser tomada em consideração pelo Conselho Superior dos Tribunais Administrativos e Fiscais na elaboração do acórdão definitivo sobre a lista de candidatos, devendo fundamentar a decisão sempre que houver discordância face ao parecer do júri.\n\n5 - O Conselho Superior dos Tribunais Administrativos e Fiscais solicita, a cada uma das universidades, institutos universitários e outras escolas universitárias, públicos e privados, que ministrem o curso de Direito, a indicação, no prazo de 20 dias úteis, do nome de um professor de Direito, com categoria não inferior à de professor associado, procedendo, subsequentemente, à escolha do vogal a que se refere a subalínea iii) da alínea b) do n.º 3, por votação, por voto secreto, de entre os indicados.\n\n6 - (Anterior n.º 2.)»"
+  },
+  "49251275": {
+   "fragment_id": "35890375",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente lei entra em vigor em 1 de Setembro de 2008, com excepção do artigo 1.º, na parte em que altera os artigos 148.º e 150.º da Lei n.º 21/85, de 30 de Julho, que entra em vigor com o fim do mandato dos actuais membros eleitos pela Assembleia da República."
+  },
+  "169360932": {
+   "fragment_id": "35890375",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente lei entra em vigor em 1 de Setembro de 2008, com excepção do artigo 1.º, na parte em que altera os artigos 148.º e 150.º da Lei n.º 21/85, de 30 de Julho, que entra em vigor com o fim do mandato dos actuais membros eleitos pela Assembleia da República."
+  },
+  "169360931": {
+   "fragment_id": "169358466",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Disposição transitória",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 30/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2009-491930), em vigor a partir de 2009-07-01"
+   ],
+   "markdown": "###### Artigo 2.º-A — Disposição transitória\n\n1 - O regime de acesso aos Tribunais da Relação, previsto na presente lei, não se aplica aos juízes de direito já nomeados pelo Conselho Superior da Magistratura como auxiliares para estes tribunais à data da entrada em vigor da presente lei.\n\n2 - Aos juízes de direito que, à data da nomeação como auxiliares dos juízes referidos no n.º 1, os precediam em antiguidade e mérito também não é aplicável o regime de acesso aos Tribunais da Relação, previsto na presente lei, desde que concorram a estes tribunais nos próximos três movimentos judiciais.\n\n3 - Aos juízes de direito referidos nos números anteriores são aplicáveis as regras de concurso constantes dos artigos 46.º a 48.º da Lei n.º 21/85, de 30 de Julho, na redacção anterior à da presente lei.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 30/2009 - Diário da República n.º 124/2009, Série I de 2009-06-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2009-491930), em vigor a partir de 2009-07-01"
+  },
+  "169360933": {
+   "fragment_id": "35890475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 2 de Maio de 2008.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 11 de Junho de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 12 de Junho de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

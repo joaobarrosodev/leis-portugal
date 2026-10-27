@@ -1,0 +1,1536 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:437796:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1998-860447122",
+ "dre_path": "/dr/detalhe/portaria/520-1998-437796",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-08-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "861657699",
+    "860271465",
+    "860271466",
+    "860271467",
+    "860271468",
+    "860271469",
+    "860271470",
+    "860271471",
+    "860271472",
+    "860271473",
+    "860271474",
+    "860448775",
+    "860448776",
+    "860448777",
+    "860448778",
+    "860448779",
+    "860448780",
+    "860448781",
+    "860448782",
+    "860448783",
+    "860448784",
+    "860448785",
+    "860448786",
+    "860448787",
+    "860448788",
+    "860448789",
+    "860448790",
+    "860448791",
+    "860448792",
+    "860448793",
+    "860448794",
+    "860448795",
+    "860448796"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:313576:por",
+     "title": "Portaria n.º 528/2000",
+     "published": "2000-07-28",
+     "dre_path": "/dr/detalhe/portaria/528-2000-313576",
+     "date": "2000-02-28"
+    }
+   ]
+  },
+  {
+   "date": "2000-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178550:por",
+     "title": "Decreto-Lei n.º 138/2012",
+     "published": "2012-07-05",
+     "dre_path": "/dr/detalhe/decreto-lei/138-2012-178550"
+    },
+    {
+     "id": "pt:dre:313576:por",
+     "title": "Portaria n.º 528/2000",
+     "published": "2000-07-28",
+     "dre_path": "/dr/detalhe/portaria/528-2000-313576"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma",
+    "Adita Artigo 42.º-A",
+    "Altera 19.º",
+    "Altera 26.º",
+    "Altera 28.º",
+    "Altera 38.º",
+    "Altera 40.º",
+    "Altera 43.º",
+    "Altera 47.º",
+    "Altera 56.º",
+    "Altera 67.º",
+    "Altera 80.º",
+    "Altera 81.º",
+    "Altera 86.º",
+    "Altera 90.º",
+    "Altera 104.º",
+    "Altera 106.º",
+    "Altera 110.º",
+    "Altera 111.º"
+   ],
+   "fragments": [
+    "860271464",
+    "860271465",
+    "860271466",
+    "860745986",
+    "860745987",
+    "860745988",
+    "860745989",
+    "860745990",
+    "860745991",
+    "860745992",
+    "860745993",
+    "860745994",
+    "860745995",
+    "860745996",
+    "860745997",
+    "860271467",
+    "861656675",
+    "861656676",
+    "861656677",
+    "861656678",
+    "860271468",
+    "861656679",
+    "861656680",
+    "861657682",
+    "861656682",
+    "861656683",
+    "860271469",
+    "860271470",
+    "861656684",
+    "861656685",
+    "860271471",
+    "861656686",
+    "861656687",
+    "861657683",
+    "861656689",
+    "861657697",
+    "861656691",
+    "861656692",
+    "861656693",
+    "861656694",
+    "861656695",
+    "861656696",
+    "861656697",
+    "861656698",
+    "861656699",
+    "861657684",
+    "861656701",
+    "861657685",
+    "861656703",
+    "860271472",
+    "860271473",
+    "861656704",
+    "861657679",
+    "860271474",
+    "861657686",
+    "861656706",
+    "861656707",
+    "861656708",
+    "861657687",
+    "861656710",
+    "861656711",
+    "861656712",
+    "861656713",
+    "861656714",
+    "861656715",
+    "861656716",
+    "861656717",
+    "860448775",
+    "861657698",
+    "861656719",
+    "861656720",
+    "861656721",
+    "861656722",
+    "861656723",
+    "861656724",
+    "860448776",
+    "861656725",
+    "861657680",
+    "861657681",
+    "860448777",
+    "861656726",
+    "860448778",
+    "861656734",
+    "861656733",
+    "861657688",
+    "861656731",
+    "861656730",
+    "861656729",
+    "861656728",
+    "861656727",
+    "860448779",
+    "861656737",
+    "861656736",
+    "861656735",
+    "860448780",
+    "861656756",
+    "861656755",
+    "861656754",
+    "861656753",
+    "861657689",
+    "861657690",
+    "861656750",
+    "861656749",
+    "861656748",
+    "861656747",
+    "861657691",
+    "861656745",
+    "861656744",
+    "861656743",
+    "861657692",
+    "861656741",
+    "861656740",
+    "861656739",
+    "861656738",
+    "860448781",
+    "860448782",
+    "861656760",
+    "861656759",
+    "861656758",
+    "861656757",
+    "860448783",
+    "861656763",
+    "861656762",
+    "861656761",
+    "860448784",
+    "861656769",
+    "861656768",
+    "861657693",
+    "861656766",
+    "861657694",
+    "861656764",
+    "860448785",
+    "861657678",
+    "861657677",
+    "861657695",
+    "861657696",
+    "861656774",
+    "861656773",
+    "861656772",
+    "861656771",
+    "861656770",
+    "860745982",
+    "860448786",
+    "860448787",
+    "860448788",
+    "860745983",
+    "860448789",
+    "860448790",
+    "860448791",
+    "860448792",
+    "860448793",
+    "860448794",
+    "860448795",
+    "860448796"
+   ]
+  }
+ ],
+ "fragments": {
+  "861657699": {
+   "fragment_id": "860447123",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2000-08-28",
+   "changed_by": [],
+   "markdown": "Portaria n.º 520/98\n\nde 14 de Agosto\n\nO n.º 4 do artigo 26.º do Regulamento da Habilitação Legal para Conduzir, aprovado pelo Decreto-Lei n.º 209/98, de 15 de Julho, prevê que sejam fixados, através de portaria, os conteúdos programáticos das provas dos exames de condução, bem como os meios de avaliação, critérios de selecção e duração daquelas provas e ainda as características dos veículos para a realização das provas práticas.\n\nAssim:\n\nNos termos e ao abrigo do n.º 4 do artigo 26.º do Regulamento da Habilitação Legal para Conduzir, aprovado pelo Decreto-Lei n.º 209/98, de 15 de Julho:\n\nManda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "860271465": {
+   "fragment_id": "860447124",
+   "type": 1,
+   "heading": "Capítulo I — Prova teórica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Prova teórica"
+  },
+  "860271466": {
+   "fragment_id": "860447125",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "860271467": {
+   "fragment_id": "860447126",
+   "type": 8,
+   "heading": "Secção II — Provas de candidatos a condutores de motociclos e automóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Provas de candidatos a condutores de motociclos e automóveis"
+  },
+  "860271468": {
+   "fragment_id": "860447127",
+   "type": 8,
+   "heading": "Secção III — Provas de candidatos a condutores de ciclomotores, motociclos até 50 cm3 e veículos agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Provas de candidatos a condutores de ciclomotores, motociclos até 50 cm3 e veículos agrícolas"
+  },
+  "860271469": {
+   "fragment_id": "860447128",
+   "type": 1,
+   "heading": "Capítulo II — Prova prática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Prova prática"
+  },
+  "860271470": {
+   "fragment_id": "860447129",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "860271471": {
+   "fragment_id": "860447130",
+   "type": 8,
+   "heading": "Secção II — Características dos veículos para exame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Características dos veículos para exame"
+  },
+  "860271472": {
+   "fragment_id": "860447131",
+   "type": 8,
+   "heading": "Secção III — Realização da prova prática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Realização da prova prática"
+  },
+  "860271473": {
+   "fragment_id": "860447132",
+   "type": 3,
+   "heading": "Subsecção I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Disposição geral"
+  },
+  "860271474": {
+   "fragment_id": "860447133",
+   "type": 3,
+   "heading": "Subsecção II — Prova prática de automóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Prova prática de automóveis"
+  },
+  "860448775": {
+   "fragment_id": "860447134",
+   "type": 3,
+   "heading": "Subsecção III — Prova prática de motociclos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Prova prática de motociclos"
+  },
+  "860448776": {
+   "fragment_id": "860447135",
+   "type": 3,
+   "heading": "Subsecção IV — Prova prática de ciclomotores e de motociclos de cilindrada não superior a 50 cm3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Prova prática de ciclomotores e de motociclos de cilindrada não superior a 50 cm3"
+  },
+  "860448777": {
+   "fragment_id": "860447136",
+   "type": 3,
+   "heading": "Subsecção V — Prova prática de veículos agrícolas das categorias II e III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção V — Prova prática de veículos agrícolas das categorias II e III"
+  },
+  "860448778": {
+   "fragment_id": "860447137",
+   "type": 1,
+   "heading": "Capítulo III — Prova técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Prova técnica"
+  },
+  "860448779": {
+   "fragment_id": "860447138",
+   "type": 1,
+   "heading": "Capítulo IV — Exames especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Exames especiais"
+  },
+  "860448780": {
+   "fragment_id": "860447139",
+   "type": 1,
+   "heading": "Capítulo V — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Procedimentos"
+  },
+  "860448781": {
+   "fragment_id": "860447140",
+   "type": 1,
+   "heading": "Capítulo VI — Exames para obtenção de licenças especiais de condução de ciclomotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Exames para obtenção de licenças especiais de condução de ciclomotores"
+  },
+  "860448782": {
+   "fragment_id": "860447141",
+   "type": 8,
+   "heading": "Secção I — Concessão de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Concessão de autorização"
+  },
+  "860448783": {
+   "fragment_id": "860447142",
+   "type": 8,
+   "heading": "Secção II — Cursos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Cursos de formação"
+  },
+  "860448784": {
+   "fragment_id": "860447143",
+   "type": 8,
+   "heading": "Secção III — Exames e emissão de licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Exames e emissão de licenças"
+  },
+  "860448785": {
+   "fragment_id": "860447144",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "860448786": {
+   "fragment_id": "860447145",
+   "type": 8,
+   "heading": "Secção I — Motociclos e automóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Motociclos e automóveis\n\nI - Princípios gerais de trânsito e de segurança rodoviária\n\n1 - O sistema de circulação rodoviário:\n\n1.1 - O homem, elemento principal do sistema;\n\n1.2 - O veículo;\n\n1.3 - A via pública;\n\n1.4 - As condições ambientais.\n\n2 - O acidente: falha humana como factor dominante.\n\n3 - Função da condução:\n\n3.1 - A recolha de informação:\n\n3.1.1 - A exploração visual perceptiva; estratégias a adoptar;\n\n3.1.2 - A identificação;\n\n3.2 - A decisão:\n\n3.2.1 - A importância da antecipação e da previsão; estratégias a adoptar;\n\n3.2.2 - A avaliação do risco; o risco menor;\n\n3.3 - A acção:\n\n3.3.1 - Controlo do veículo;\n\n3.3.2 - Capacidades motoras;\n\n3.4 - Importância dos elementos perceptivos na condução.\n\n4 - Tempo de reacção; principais factores que o influenciam:\n\n4.1 - Distâncias:\n\n4.1.1 - Distâncias de reacção, de travagem e de paragem; principais factores que a influenciam;\n\n4.1.2 - Distâncias de segurança;\n\n4.1.3 - Distância lateral, distância em relação ao veículo da frente; factores a ter presente na avaliação; formas de avaliar.\n\n5 - Sinalização:\n\n5.1 - Classificação geral dos sinais de trânsito e sua hierarquia;\n\n5.2 - Sinais dos agentes reguladores do trânsito;\n\n5.3 - Sinalização temporária;\n\n5.4 - Sinais luminosos;\n\n5.5 - Sinais verticais: de perigo, de regulamentação e de indicação; sinalização de mensagem variável e sinalização turístico-cultural;\n\n5.6 - Marcas rodoviárias;\n\n5.7 - Sinais dos condutores: sonoros, luminosos e manuais.\n\n6 - Regras de trânsito e manobras:\n\n6.1 - Condução de veículos;\n\n6.2 - Início e posição de marcha;\n\n6.3 - Pluralidade de vias de trânsito;\n\n6.4 - Trânsito em filas paralelas;\n\n6.5 - Trânsito em rotundas, cruzamentos e entroncamentos;\n\n6.6 - Trânsito em certas vias ou troços; auto-estradas e vias equiparadas;\n\n6.7 - Trânsito de peões;\n\n6.8 - Visibilidade reduzida ou insuficiente;\n\n6.9 - Iluminação;\n\n6.10 - Veículos de transporte colectivo de passageiros;\n\n6.11 - Veículos que efectuem transportes especiais;\n\n6.12 - Veículos em missão urgente de socorro;\n\n6.13 - Proibição de utilização de certos aparelhos;\n\n6.14 - Velocidade:\n\n6.14.1 - Velocidade adequada às condições de trânsito;\n\n6.14.2 - Limites aplicáveis;\n\n6.14.3 - Casos de obrigatoriedade de circular a velocidade moderada;\n\n6.15 - Cedência de passagem;\n\n6.16 - Cruzamento de veículos; precauções:\n\n6.16.1 - Vias estreitas ou obstruídas;\n\n6.16.2 - Veículos de grandes dimensões;\n\n6.16.3 - Influência do deslocamento do ar;\n\n6.17 - Ultrapassagem; deveres dos condutores:\n\n6.17.1 - Influência das características dos veículos em situações de ultrapassagem;\n\n6.17.2 - O espaço livre e necessário para a ultrapassagem;\n\n6.17.3 - A importância dos retrovisores;\n\n6.18 - Execução da ultrapassagem: seus riscos; precauções:\n\n6.18.1 - Sinal de aviso;\n\n6.18.2 - Posição para ultrapassar;\n\n6.18.3 - Avaliação de velocidades e distâncias;\n\n6.19 - Mudança de direcção; cuidados prévios:\n\n6.19.1 - Posicionamento na faixa de rodagem;\n\n6.20 - Inversão do sentido da marcha; precauções;\n\n6.21 - Marcha atrás; meio auxiliar ou de recurso;\n\n6.22 - Paragem e estacionamento:\n\n6.22.1 - A importância de não dificultar a passagem e a visibilidade; proibições;\n\n6.22.2 - Estacionamento abusivo; abandono e remoção de veículos.\n\nII - O condutor e o seu estado físico e psicológico\n\n1 - Visão:\n\n1.1 - Campo visual;\n\n1.2 - Acuidade visual;\n\n1.3 - Visão cromática, estereoscópica e nocturna.\n\n2 - Audição.\n\n3 - Idade.\n\n4 - Estados emocionais.\n\n5 - Fadiga:\n\n5.1 - Principais causas, sintomas e efeitos na condução;\n\n5.2 - Formas de prevenção.\n\n6 - Sonolência:\n\n6.1 - Principais sintomas e efeitos na condução;\n\n6.2 - Formas de prevenção.\n\n7 - Medicamentos: noção de substâncias estupefacientes e psicotrópicas; efeitos na condução.\n\n8 - Álcool:\n\n8.1 - Álcool no organismo; alcoolemia (taxa de álcool no sangue);\n\n8.2 - Factores que interferem na TAS;\n\n8.3 - Principais efeitos do álcool na condução;\n\n8.4 - Processo orgânico de eliminação do álcool;\n\n8.5 - Álcool e medicamentos;\n\n8.6 - Regime legal.\n\n9 - Substâncias estupefacientes e psicotrópicas; tipos; principais efeitos na condução.\n\nIII - O condutor e o veículo\n\n1 - O veículo:\n\n1.1 - Motociclos, automóveis ligeiros e pesados;\n\n1.2 - Velocípedes, ciclomotores, reboques, veículos agrícolas, máquinas industriais, conjuntos de veículo e semi-reboque e de veículo e reboque, veículos de tracção animal, carros eléctricos e comboios turísticos.\n\n2 - Tipos de automóveis: passageiros, mercadorias, mistos e outros.\n\n3 - Constituintes dos veículos:\n\n3.1 - Quadro, carroçaria e caixa;\n\n3.2 - Caracterização de veículos de duas ou três rodas;\n\n3.3 - Habitáculo do veículo: painel de instrumentos, identificação e função dos principais órgãos de comando, regulação, sinalização e ventilação;\n\n3.4 - Motor e sistemas:\n\n3.4.1 - Motor: tipos de combustível ou de energia;\n\n3.4.2 - Sistema de lubrificação, de refrigeração, de direcção e de travagem; precauções de rotina;\n\n3.4.3 - Sistema de suspensão; verificação da pressão e piso dos pneus:\n\n3.4.3.1 - Mudança de rodas em caso de emergência;\n\n3.4.4 - Sistema eléctrico; precauções de rotina; utilização adequada.\n\n4 - Pesos e dimensões: definições de peso bruto, tara e dimensões exteriores.\n\n5 - Inspecções periódicas obrigatórias; seu regime.\n\n6 - Protecção do ambiente:\n\n6.1 - Ruídos e emissão de poluentes atmosféricos;\n\n6.2 - Poluição do solo;\n\n6.3 - Condução económica.\n\n7 - Transporte de passageiros e de carga:\n\n7.1 - Entrada, acomodação e saídas de passageiros;\n\n7.2 - Operações de carga e de descarga; estabilidade do veículo; visibilidade.\n\n8 - O condutor de veículos de duas ou três rodas:\n\n8.1 - Adaptação da condução às características específicas do veículo; sua instabilidade e fragilidade;\n\n8.2 - Posicionamento na via: ver e ser visto;\n\n8.3 - Iluminação.\n\n9 - Equipamentos de segurança:\n\n9.1 - Finalidade, modelos aprovados e utilização:\n\n9.1.1 - Cinto de segurança e encosto de cabeça;\n\n9.1.2 - Sistemas de retenção para crianças; sua instalação e restrições ao seu uso com air-bag;\n\n9.1.3 - Triângulo de pré-sinalização;\n\n9.1.4 - Capacete de protecção;\n\n9.2 - Segurança activa e passiva; diferenciação.\n\n10 - Comportamento em caso de acidente:\n\n10.1 - Precauções; sinalização e alarme;\n\n10.2 - Comportamento em relação aos acidentados;\n\n10.3 - Identificação de intervenientes.\n\nIV - O condutor e os outros utentes da via\n\n1 - O comportamento a adoptar pelo condutor face a:\n\n1.1 - Peões: crianças, idosos, invisuais e deficientes motores;\n\n1.2 - Veículos de duas rodas: imprevisibilidade da trajectória;\n\n1.3 - Veículos pesados:\n\n1.3.1 - Ultrapassagem;\n\n1.3.2 - Ângulos mortos;\n\n1.3.3 - Distância de segurança.\n\n2 - A importância da comunicação entre os utentes; a partilha de um espaço e o respeito pelo outro; ver e ser visto; não surpreender nem se deixar surpreender.\n\n3 - A condução defensiva: uma atitude do condutor; caracterização de técnicas de condução.\n\nV - O condutor, a via e outros factores externos\n\n1 - Classificação das vias; o perfil, o estado de conservação e as características do pavimento:\n\n1.1 - Adaptação da condução às condições da via;\n\n1.2 - Condução urbana e não urbana; atravessamento de localidades;\n\n1.3 - Condução em auto-estrada:\n\n1.3.1 - Monotonia e hipnose da velocidade;\n\n1.3.2 - Adaptação da condução à entrada e saída de auto-estrada ou via equiparada;\n\n1.3.3 - Manobras proibidas;\n\n1.4 - Intensidade do trânsito.\n\n2 - Adaptação da condução às condições ambientais adversas; perda de visibilidade; menor aderência:\n\n2.1 - Principais comportamentos a adoptar:\n\n2.1.1 - Utilização de luzes;\n\n2.1.2 - Moderação da velocidade;\n\n2.1.3 - Aumento das distâncias de segurança;\n\n2.2 - Chuva:\n\n2.2.1 - O comportamento dos peões e dos condutores de veículos de duas rodas;\n\n2.2.2 - Aquaplanagem;\n\n2.3 - Nevoeiro; neve; gelo; vento forte;\n\n2.4 - Condução nocturna:\n\n2.4.1 - Ver e ser visto;\n\n2.4.2 - Aurora e crepúsculo;\n\n2.4.3 - Encandeamento: causas e comportamento a adoptar.\n\nVI - Habilitação legal para conduzir\n\n1 - Títulos de condução:\n\n1.1 - Carta de condução; categorias;\n\n1.2 - Licenças de condução;\n\n1.3 - O regime probatório;\n\n1.4 - Validade dos títulos de condução.\n\n2 - Requisitos para obtenção e revalidação dos títulos:\n\n2.1 - Aptidão física, mental e psicológica;\n\n2.2 - Exames de condução;\n\n2.3 - Novos exames.\n\nVII - Responsabilidade\n\n1 - Ilícito de mera ordenação social:\n\n1.1 - Contra-ordenação;\n\n1.2 - Sanção pecuniária: coima;\n\n1.3 - Sanção acessória: inibição de conduzir.\n\n2 - Responsabilidade criminal; seu regime.\n\n3 - Cassação de título de condução.\n\n4 - Responsabilidade civil; seu regime; o seguro."
+  },
+  "860448787": {
+   "fragment_id": "860447146",
+   "type": 8,
+   "heading": "Secção II — Ciclomotores e motociclos de cilindrada não superior a 50 cm3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Ciclomotores e motociclos de cilindrada não superior a 50 cm3\n\nI - Princípios gerais de trânsito e de segurança rodoviária\n\n1 - O sistema de circulação rodoviária:\n\n1.1 - O homem, elemento principal do sistema;\n\n1.2 - O veículo;\n\n1.3 - A via pública;\n\n1.4 - As condições ambientais.\n\n2 - Função da condução: noções básicas.\n\n3 - Tempo de reacção; principais factores que o influenciam:\n\n3.1 - Distâncias de reacção, de travagem e de paragem; principais factores que a influenciam;\n\n3.2 - Distâncias de segurança: distância lateral; distância em relação ao veículo da frente; factores a ter presente na avaliação; formas de avaliar.\n\n4 - Sinalização:\n\n4.1 - A sinalização do trânsito:\n\n4.1.1 - Classificação geral dos sinais de trânsito e sua hierarquia;\n\n4.1.2 - Sinais dos agentes reguladores do trânsito;\n\n4.1.3 - Sinalização temporária;\n\n4.1.4 - Sinais luminosos,\n\n4.1.5 - Sinais verticais: de perigo, de regulamentação e de indicação; sinalização de mensagem variável e sinalização turístico-cultural;\n\n4.1.6 - Marcas rodoviárias;\n\n4.2 - Sinais dos condutores: sonoros, luminosos e manuais.\n\n5 - Regras de trânsito e manobras:\n\n5.1 - Condução de veículos;\n\n5.2 - Início e posição de marcha;\n\n5.3 - Pluralidade de vias de trânsito;\n\n5.4 - Trânsito em rotundas, cruzamentos e entroncamentos;\n\n5.5 - Trânsito em certas vias ou troços;\n\n5.6 - Trânsito de peões;\n\n5.7 - Visibilidade reduzida ou insuficiente;\n\n5.8 - Iluminação;\n\n5.9 - Veículos em missão urgente de socorro;\n\n5.10 - Proibição de utilização de certos aparelhos;\n\n5.11 - Velocidade:\n\n5.11.1 - Velocidade adequada às condições de trânsito;\n\n5.11.2 - Limites específicos;\n\n5.11.3 - Casos de obrigatoriedade de circular a velocidade moderada;\n\n5.12 - Cedência de passagem;\n\n5.13 - Ultrapassagem, deveres dos condutores:\n\n5.13.1 - Influência das características dos veículos em situações de ultrapassagem;\n\n5.13.2 - O espaço livre e necessário para a ultrapassagem;\n\n5.13.3 - A importância dos retrovisores;\n\n5.14 - Execução da ultrapassagem; seus riscos; precauções:\n\n5.14.1 - Sinal de aviso;\n\n5.14.2 - Posição para ultrapassar;\n\n5.14.3 - Avaliação de velocidades e distâncias;\n\n5.15 - Mudança de direcção; cuidados prévios: posicionamento na faixa de rodagem;\n\n5.16 - Inversão do sentido da marcha; precauções;\n\n5.17 - Paragem e estacionamento.\n\nII - O condutor e o seu estado físico e psicológico\n\n1 - Visão:\n\n1.1 - Campo visual;\n\n1.2 - Acuidade visual;\n\n1.3 - Visão nocturna.\n\n2 - Fadiga:\n\n2.1 - Principais causas, sintomas e efeitos na condução;\n\n2.2 - Formas de prevenção.\n\n3 - Medicamentos e substâncias estupefacientes e psicotrópicas; efeitos na condução.\n\n4 - Álcool:\n\n4.1 - Principais efeitos do álcool na condução;\n\n4.2 - Regime legal.\n\nIII - O condutor e o veículo\n\n1 - O veículo:\n\n1.1 - Motociclos de cilindrada não superior a 50 cm3;\n\n1.2 - Ciclomotores.\n\n2 - Constituintes dos veículos:\n\n2.1 - Quadro, forquilha e coluna de direcção;\n\n2.2 - Caracterização de veículos de duas ou três rodas;\n\n2.3 - Painel de instrumentos, identificação e função dos principais órgãos de comando;\n\n2.4 - Motor e sistemas:\n\n2.4.1 - Tipos de combustível;\n\n2.4.2 - Sistemas de lubrificação e de travagem;\n\n2.4.3 - Sistema de suspensão; verificação da pressão e piso dos pneus;\n\n2.4.4 - Sistema eléctrico; precauções de rotina; utilização adequada.\n\n3 - Protecção do ambiente:\n\n3.1 - Ruídos e emissão de poluentes atmosféricos;\n\n3.2 - Condução económica.\n\n4 - O condutor de veículos de duas ou três rodas:\n\n4.1 - Adaptação da condução às características específicas do veículo; sua instabilidade e fragilidade;\n\n4.2 - Posicionamento na via: ver e ser visto;\n\n4.3 - Iluminação.\n\n5 - Equipamentos de segurança: capacete de protecção.\n\n6 - Comportamento em caso de acidente:\n\n6.1 - Precauções; sinalização e alarme;\n\n6.2 - Comportamento em relação aos acidentados;\n\n6.3 - Identificação de intervenientes.\n\nIV - O condutor e os outros utentes da via\n\n1 - O comportamento a adoptar pelo condutor face a peões, crianças, idosos, invisuais e deficientes motores.\n\n2 - A importância da comunicação entre os utentes; a partilha de um espaço e o respeito pelo outro; ver e ser visto; não surpreender nem se deixar surpreender.\n\n3 - A condução defensiva: uma atitude do condutor.\n\nV - O condutor, a via e outros factores externos\n\n1 - Classificação das vias:\n\n1.1 - Adaptação da condução às condições da via;\n\n1.2 - Condução urbana e não urbana; atravessamento de localidades.\n\n2 - Adaptação da condução às condições ambientais adversas; perda de visibilidade; menor aderência:\n\n2.1 - Principais comportamentos a adoptar:\n\n2.1.1 - Utilização de luzes;\n\n2.1.2 - Moderação da velocidade;\n\n2.1.3 - Aumento das distâncias de segurança;\n\n2.2 - Condução nocturna:\n\n2.2.1 - Ver e ser visto;\n\n2.2.2 - Aurora e crepúsculo;\n\n2.2.3 - Encandeamento: causas e comportamento a adoptar.\n\nVI - Habilitação legal para conduzir\n\n1 - Licença de condução:\n\n1.1 - O regime probatório;\n\n1.2 - Validade das licenças de condução.\n\n2 - Requisitos para obtenção e revalidação das licenças:\n\n2.1 - Aptidão física e mental;\n\n2.2 - Exames de condução;\n\n2.3 - Novos exames.\n\nVII - Responsabilidade\n\n1 - Ilícito de mera ordenação social:\n\n1.1 - Contra-ordenação;\n\n1.2 - Sanção pecuniária: coima;\n\n1.3 - Sanção acessória: inibição de conduzir.\n\n2 - Responsabilidade criminal; seu regime.\n\n3 - Cassação da licença de condução.\n\n4 - Responsabilidade civil; seu regime; o seguro."
+  },
+  "860448788": {
+   "fragment_id": "860447147",
+   "type": 8,
+   "heading": "Secção III — Veículos agrícolas das categorias II e III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Veículos agrícolas das categorias II e III\n\nI - Princípios gerais de trânsito e de segurança rodoviária\n\n1 - O sistema de circulação rodoviário:\n\n1.1 - O homem, elemento principal do sistema;\n\n1.2 - O veículo;\n\n1.3 - A via pública;\n\n1.4 - As condições ambientais.\n\n2 - Função da condução; noções básicas.\n\n3 - Sinalização:\n\n3.1 - A sinalização do trânsito:\n\n3.1.1 - Classificação geral dos sinais de trânsito e sua hierarquia;\n\n3.1.2 - Sinais dos agentes reguladores do trânsito;\n\n3.1.3 - Sinalização temporária;\n\n3.1.4 - Sinais luminosos;\n\n3.1.5 - Sinais verticais: de perigo, de regulamentação e de indicação; sinalização de mensagem variável e sinalização turístico-cultural;\n\n3.1.6 - Marcas rodoviárias;\n\n3.2 - Sinais dos condutores: sonoros, luminosos e manuais.\n\n4 - Regras de trânsito e manobras:\n\n4.1 - Condução de veículos;\n\n4.2 - Início e posição de marcha;\n\n4.3 - Trânsito em rotundas, cruzamentos e entroncamentos;\n\n4.4 - Trânsito em certas vias ou troços;\n\n4.5 - Visibilidade reduzida ou insuficiente;\n\n4.6 - Iluminação;\n\n4.7 - Veículos em missão urgente de socorro;\n\n4.8 - Velocidade; limites específicos;\n\n4.9 - Cedência de passagem;\n\n4.10 - Cruzamento de veículos; precauções; vias estreitas ou obstruídas;\n\n4.11 - Ultrapassagem;\n\n4.12 - Mudança de direcção; cuidados prévios; posicionamento na faixa de rodagem;\n\n4.13 - Marcha atrás;\n\n4.14 - Paragem e estacionamento.\n\nII - O condutor e o seu estado físico e psicológico\n\n1 - Fadiga: principais causas e efeitos na condução.\n\n2 - Medicamentos: efeitos na condução.\n\n3 - Álcool:\n\n3.1 - Principais efeitos do álcool na condução;\n\n3.2 - Regime legal.\n\nIII - O condutor e o veículo\n\n1 - Veículos agrícolas: condições de admissão ao trânsito nas vias públicas.\n\n2 - Constituintes dos veículos:\n\n2.1 - Quadro, carroçaria e caixa;\n\n2.2 - Painel de instrumentos;\n\n2.3 - Motor e sistemas:\n\n2.3.1 - Combustível;\n\n2.3.2 - Sistema de lubrificação, de refrigeração, de direcção e de travagem; precauções de rotina;\n\n2.3.3 - Sistema de suspensão; verificação da pressão e piso dos pneus;\n\n2.3.4 - Sistema eléctrico; precauções de rotina.\n\n3 - Pesos e dimensões: definições de peso bruto, tara e dimensões exteriores.\n\n4 - Condições de acondicionamento da carga.\n\n5 - Circulação com máquina agrícola montada ou rebocada.\n\n6 - Protecção do ambiente:\n\n6.1 - Ruídos e emissão de poluentes atmosféricos;\n\n6.2 - Poluição do solo.\n\n7 - Comportamento em caso de acidente.\n\nIV - O condutor e os outros utentes da via\n\n1 - O comportamento a adoptar pelo condutor face a peões, crianças, idosos, invisuais e deficientes motores.\n\n2 - A condução defensiva: uma atitude do condutor.\n\nV - O condutor, a via e outros factores externos\n\n1 - Trânsito dentro de localidades.\n\n2 - Condução nocturna:\n\n2.1 - Ver e ser visto;\n\n2.2 - Aurora e crepúsculo.\n\nVI - Habilitação legal para conduzir\n\n1 - Licença de condução.\n\n2 - Requisitos para obtenção e revalidação da licença.\n\nVII - Responsabilidade\n\n1 - Ilícito de mera ordenação social:\n\n1.1 - Contra-ordenação;\n\n1.2 - Sanção pecuniária: coima;\n\n1.3 - Sanção acessória: inibição de conduzir.\n\n2 - Responsabilidade criminal.\n\n3 - Responsabilidade civil: o seguro."
+  },
+  "860448789": {
+   "fragment_id": "860447148",
+   "type": 8,
+   "heading": "Secção I — Automóveis ligeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Automóveis ligeiros\n\n1 - Conhecimento do veículo:\n\n1.1 - Reconhecimento dos constituintes fundamentais: quadro; carroçaria; caixa; habitáculo; sistemas e motor;\n\n1.2 - Verificação sumária de dispositivos, sistemas e elementos: travagem; direcção; suspensão; sistema eléctrico; alimentação; transmissão; reflectores;\n\n1.3 - Demonstração de:\n\n1.3.1 - Ajustamentos: banco do condutor, cintos de segurança e dispositivos de retenção de crianças;\n\n1.3.2 - Regulação de espelhos retrovisores;\n\n1.4 - Indicação de dispositivos de manutenção de rotina.\n\n2 - Adaptação ao veículo:\n\n2.1 - Adopção da posição correcta para conduzir;\n\n2.2 - Manobrar a alavanca de mudança de velocidades, a embraiagem e o travão de estacionamento, com o motor desligado;\n\n2.3 - Início de marcha:\n\n2.3.1 - Ligação do motor;\n\n2.3.2 - Ponto morto e embraiagem;\n\n2.3.3 - Selecção das velocidades;\n\n2.3.4 - Olhar para os espelhos retrovisores e para trás;\n\n2.3.5 - Utilizar o indicador de mudança de direcção;\n\n2.3.6 - Utilizar o travão de estacionamento;\n\n2.3.7 - Coordenar os movimentos dos pés e das mãos antes e durante o arranque e com o veículo em marcha;\n\n2.3.8 - Estabilização de velocidade;\n\n2.3.9 - Posicionamento correcto do veículo na via;\n\n2.4 - Exercícios de condução lenta: marcha para a frente; marcha atrás;\n\n2.5 - Exercícios em patamar: aceleração e mudanças de velocidade adequadas;\n\n2.6 - Exercícios em subida e em descida: mudanças de velocidade; arranque e paragem;\n\n2.7 - Travagem para parar com precisão: efeito combinado do motor e do travão de serviço;\n\n2.8 - Execução de condução em curva:\n\n2.8.1 - Marcha em círculo;\n\n2.8.2 - Curvas em ângulo recto.\n\n3 - Domínio do veículo:\n\n3.1 - Exercícios e técnicas de condução urbana e não urbana em situação de:\n\n3.1.1 - Condução em vias de perfil, traçado e pavimento diversos;\n\n3.1.2 - Sinalização;\n\n3.1.3 - Início de marcha;\n\n3.1.4 - Posição de marcha;\n\n3.1.5 - Distâncias de segurança;\n\n3.1.6 - Marcha em linha recta e em curva;\n\n3.1.7 - Condução em pluralidade de vias de trânsito;\n\n3.1.8 - Mudança de fila de trânsito e pré-selecção das vias de trânsito;\n\n3.1.9 - Condução em filas paralelas;\n\n3.1.10 - Condução nas rotundas, cruzamentos e entroncamentos;\n\n3.1.11 - Contornar um obstáculo;\n\n3.1.12 - Cruzamento de veículos;\n\n3.1.13 - Cedência de passagem;\n\n3.1.14 - Passagens de nível: aproximação; paragens; transposição;\n\n3.1.15 - Ultrapassagem em diferentes circunstâncias;\n\n3.1.16 - Mudança de direcção para a direita e para a esquerda;\n\n3.1.17 - Inversão do sentido da marcha;\n\n3.1.18 - Marcha atrás;\n\n3.1.19 - Estacionamento;\n\n3.2 - Condução em auto-estradas e vias equiparadas: entrada e saída;\n\n3.3 - Condução nocturna e em condições ambientais adversas:\n\n3.3.1 - Utilização das luzes;\n\n3.3.2 - Adaptação da velocidade às condições de visibilidade e ao estado de aderência do pavimento."
+  },
+  "860448790": {
+   "fragment_id": "860447149",
+   "type": 8,
+   "heading": "Secção II — Automóveis pesados e conjuntos de veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Automóveis pesados e conjuntos de veículos\n\nAos candidatos a condutores de automóveis pesados, para além das unidades temáticas enunciadas na secção I devem ainda ser avaliadas as seguintes matérias:\n\n1 - Conhecimento do veículo:\n\n1.1 - Reconhecimento dos constituintes específicos fundamentais: tacógrafo e limitador de velocidade;\n\n1.2 - Verificação sumária de dispositivos específicos: travagem e direcção;\n\n1.3 - Demonstração de:\n\n1.3.1 - Colocação adequada da carga, considerando o respectivo centro de gravidade; sinalização da carga (só para pesados de mercadorias e conjuntos);\n\n1.3.2 - Instalação de passageiros e arrumação de bagagens (só para pesados de passageiros e conjuntos);\n\n1.3.3 - Cuidados especiais para a imobilização do veículo;\n\n1.3.4 - Atrelar e desatrelar o reboque ou o semi-reboque ao veículo (só para conjuntos de veículos).\n\n2 - Adaptação ao veículo:\n\n2.1 - Características específicas do veículo:\n\n2.1.1 - Comportamento em função do peso e dimensões;\n\n2.1.2 - Má visibilidade para o condutor e para os outros utentes.\n\n3 - Domínio do veículo:\n\n3.1 - Importância do centro de gravidade e das forças centrífuga e centrípeta;\n\n3.2 - Influência do vento sobre a trajectória do veículo, por efeito da carga;\n\n3.3 - Comportamento em caso de derrapagem e blocagem de rodas;\n\n3.4 - Precauções na condução por efeito da projecção de água e de lama;\n\n3.5 - Outros conhecimentos específicos:\n\n3.5.1 - Leitura de mapas de estradas;\n\n3.5.2 - Regulamentação relativa às horas de descanso e de condução."
+  },
+  "860448791": {
+   "fragment_id": "860447150",
+   "type": 8,
+   "heading": "Secção III — Motociclos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Motociclos\n\n1 - Conhecimento do veículo:\n\n1.1 - Reconhecimento dos constituintes fundamentais: quadro; forquilha; coluna de direcção; painel de instrumentos; órgãos de comando, regulação e sinalização; motor e sistemas;\n\n1.2 - Verificação sumária de dispositivos de sistemas e elementos: travagem; direcção; suspensão; eléctrico; alimentação; transmissão; reflectores;\n\n1.3 - Demonstração de: ajustamento de capacete de protecção e regulação de espelhos retrovisores;\n\n1.4 - Indicação de dispositivos susceptíveis de manutenção de rotina.\n\n2 - Domínio do veículo:\n\n2.1 - Procedimentos prévios: uso do capacete de protecção;\n\n2.2 - Tirar o veículo do descanso e deslocá-lo sem a ajuda do motor, caminhando a seu lado;\n\n2.3 - Manter o equilíbrio a diferentes velocidades, incluindo em marcha lenta e em diferentes situações de condução, com e sem transporte de passageiro;\n\n2.4 - Travagem: utilização simultânea do travão da retaguarda e da frente ou com auxílio da caixa de velocidades;\n\n2.5 - Paragem e estacionamento, colocando o veículo no descanso;\n\n2.6 - Arranque súbito e paragem de emergência, em piso normal e de fraca aderência;\n\n2.7 - Arranque e paragem em vias de forte inclinação;\n\n2.8 - Curvas: lentas e rápidas: formas de execução;\n\n2.9 - Maneabilidade:\n\n2.9.1 - Obstáculos inesperados:\n\n2.9.1.1 - Desvio súbito da trajectória;\n\n2.9.1.2 - Transposição de um obstáculo;\n\n2.9.2 - Feitura de slalom;\n\n2.9.3 - Condução descrevendo um 8;\n\n2.9.4 - Inversão de marcha em U.\n\n3 - Circulação:\n\n3.1 - Regras especiais de condução;\n\n3.2 - Técnicas e exercícios de condução em situações de:\n\n3.2.1 - Trânsito em filas paralelas;\n\n3.2.2 - Cedência de passagem;\n\n3.2.3 - Rotundas, cruzamentos e entroncamentos;\n\n3.2.4 - Mudança de direcção para a direita e para a esquerda;\n\n3.2.5 - Cruzamento de veículos;\n\n3.2.6 - Ultrapassagem;\n\n3.3 - Condução económica."
+  },
+  "860448792": {
+   "fragment_id": "860447151",
+   "type": 8,
+   "heading": "Secção IV — Comum a automóveis e motociclos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Comum a automóveis e motociclos\n\n1 - Avaliação do treino da exploração perceptiva:\n\n1.1 - Ver e ser visto;\n\n1.2 - Olhar o mais longe possível;\n\n1.3 - Explorar sistematicamente o meio incluindo os espelhos retrovisores;\n\n1.4 - Perceber o conjunto da situação;\n\n1.5 - Procurar um ponto de fuga possível em caso de emergência.\n\n2 - Avaliação das estratégias de exploração perceptiva:\n\n2.1 - Utilizar a visão lateral;\n\n2.2 - Movimentar mais os olhos que a cabeça;\n\n2.3 - Utilizar a visão ao longe;\n\n2.4 - Atender ao ângulo morto.\n\n3 - Avaliação da identificação selectiva dos índices formal, informal, crítico e pertinente em função da situação de circulação.\n\n4 - Avaliação da decisão mais ajustada à segurança; o risco menor:\n\n4.1 - Processos subjacentes: informação recolhida; percepção e previsões efectuadas;\n\n4.2 - Elementos necessários:\n\n4.2.1 - Índices;\n\n4.2.2 - Alternativas;\n\n4.2.3 - Fins e prioridades relativas;\n\n4.2.4 - As consequências da escolha;\n\n4.2.5 - Regras de selecção das diferentes respostas;\n\n4.2.6 - Tempo que medeia entre o aparecimento da situação e a acção;\n\n4.3 - Desenvolvimento das capacidades de antecipação e previsão; avaliação dos riscos potenciais ou reais.\n\n5 - Acção; capacidades motoras.\n\n6 - Técnicas de condução defensiva.\n\n7 - Explicação de erros cometidos e sua correcção."
+  },
+  "860448793": {
+   "fragment_id": "860447152",
+   "type": 8,
+   "heading": "Secção V — Ciclomotores e motociclos de cilindrada não superior a 50 cm3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Ciclomotores e motociclos de cilindrada não superior a 50 cm3\n\nÉ aplicável às provas práticas de candidatos a condutores de ciclomotores e de motociclos de cilindrada não superior a 50 cm3 o conteúdo programático enunciado na secção III, com as seguintes alterações nas unidades temáticas que se indicam:\n\n«2.2 - Tirar o veículo do descanso;\n\n[...]\n\n2.4 - Travagem: utilização simultânea do travão da retaguarda e da frente (alteração válida só para ciclomotores).\n\n[...]\n\n2.9.3 - (Não aplicável a ciclomotores.)\n\n2.9.4 - (Não aplicável a motociclos de cilindrada não superior a 50 cm3.)\n\n[...]\n\n3.2.1 - (Não aplicável a ciclomotores nem a motociclos de cilindrada não superior a 50 cm3.)»"
+  },
+  "860448794": {
+   "fragment_id": "860447153",
+   "type": 8,
+   "heading": "Secção VI — Veículos agrícolas das categorias II e III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Veículos agrícolas das categorias II e III\n\n1 - Conhecimento do veículo:\n\n1.1 - Reconhecimento dos constituintes fundamentais: painel de instrumentos, órgãos de comando, sistemas e motor;\n\n1.2 - Verificação sumária de dispositivos, sistemas e elementos: travagem; direcção; suspensão; sistema eléctrico; alimentação; transmissão; reflectores.\n\n2 - Adaptação ao veículo:\n\n2.1 - Adopção da posição correcta para conduzir;\n\n2.2 - Manobrar a alavanca de mudança de velocidades, a embraiagem e o travão de estacionamento, com o motor desligado;\n\n2.3 - Início de marcha:\n\n2.3.1 - Ligação do motor;\n\n2.3.2 - Ponto morto e embraiagem;\n\n2.3.3 - Selecção das velocidades;\n\n2.3.4 - Olhar para os espelhos retrovisores e para trás;\n\n2.3.5 - Utilizar o indicador de mudança de direcção;\n\n2.3.6 - Utilizar o travão de estacionamento;\n\n2.3.7 - Estabilização de velocidade;\n\n2.3.8 - Posicionamento correcto do veículo na via;\n\n2.4 - Exercícios de condução lenta: marcha para a frente; marcha atrás;\n\n2.5 - Exercícios em patamar: aceleração e mudanças de velocidade adequadas;\n\n2.6 - Exercícios em subida e em descida: mudanças de velocidade; arranque e paragem;\n\n2.7 - Travagem para parar com precisão: efeito combinado do motor e do travão de serviço;\n\n2.8 - Execução de condução em curva.\n\n3 - Técnicas de condução:\n\n3.1 - Sinalização;\n\n3.2 - Início de marcha;\n\n3.3 - Posição de marcha;\n\n3.4 - Marcha em linha recta e em curva;\n\n3.5 - Condução nas rotundas, cruzamentos e entroncamentos;\n\n3.6 - Contornar um obstáculo;\n\n3.7 - Cruzamento de veículos;\n\n3.8 - Cedência de passagem;\n\n3.9 - Passagens de nível: aproximação; paragens; transposição;\n\n3.10 - Mudança de direcção para a direita e para a esquerda;\n\n3.11 - Inversão do sentido da marcha;\n\n3.12 - Marcha atrás;\n\n3.13 - Estacionamento;\n\n3.14 - Condução nocturna; utilização das luzes.\n\n4 - Atrelar e desatrelar o reboque ou o semi-reboque ao veículo.\n\n5 - Domínio do veículo:\n\n5.1 - Importância do centro de gravidade e das forças centrífuga e centrípeta;\n\n5.2 - Influência do vento sobre a trajectória do veículo com reboque, por efeito da carga;\n\n5.3 - Domínio do veículo equipado com máquina agrícola montada."
+  },
+  "860448795": {
+   "fragment_id": "860447154",
+   "type": 14,
+   "heading": "Anexo III — Conteúdo programático da prova técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Conteúdo programático da prova técnica\n\n1 - O veículo:\n\n1.1 - Motociclos, automóveis ligeiros e pesados;\n\n1.2 - Velocípedes, ciclomotores, reboques, veículos agrícolas, tractocarros, máquinas industriais, veículos articulados, conjuntos e veículos, carros eléctricos, comboios turísticos e veículos de tracção animal.\n\n2 - Tipos de veículos:\n\n2.1 - Passageiros, mercadorias, mistos e outros;\n\n2.2 - Automóveis pesados de passageiros de categorias I, II e III.\n\n3 - Constituintes do veículo:\n\n3.1 - Quadro, carroçaria e caixa:\n\n3.1.1 - Identificação do quadro: estrutura VIN;\n\n3.1.2 - Principais tipos; esforços a que estão sujeitos;\n\n3.1.3 - Pontos mais susceptíveis de corrosão, fadiga ou deformação - sua influência na segurança;\n\n3.1.4 - Estrutura do quadro como suporte de sistemas, componentes, acessórios, unidades técnicas e caixa;\n\n3.1.5 - Caixa do veículo: dimensionamento por questões de segurança; importância de fixação à estrutura do veículo;\n\n3.1.6 - Carroçaria de automóveis pesados de passageiros - aspectos fundamentais de dimensionamento para o transporte de passageiros;\n\n3.2 - Habitáculo de veículos:\n\n3.2.1 - Painel de instrumentos: reconhecimento e função dos principais órgãos de comando, regulação e sinalização;\n\n3.2.2 - Tacógrafos e limitadores de velocidade: regime de utilização; preenchimento do disco do tacógrafo; regulamentação relativa à introdução do tacógrafo;\n\n3.2.3 - Visibilidade através do habitáculo e sua influência na segurança - espelhos retrovisores;\n\n3.2.4 - Controlo dos dispositivos de iluminação interior, sinalização, ventilação e climatização em automóveis pesados de passageiros;\n\n3.3 - Motor e seus sistemas anexos:\n\n3.3.1 - Motor: tipos de motores, seus constituintes fundamentais e princípio de funcionamento; cilindrada, potência e binário; motor a gasóleo: ciclo de funcionamento; sistemas anexos do motor: alimentação, lubrificação, arrefecimento, eléctrico e escape; turbocompressores;\n\n3.3.2 - Sistema de alimentação: função: circuito de alimentação nos motores a gasóleo; mistura adequada; filtro de gasóleo; bomba injectora; limitador de velocidade;\n\n3.3.3 - Sistema de lubrificação: função: lubrificantes; circuito de lubrificação; filtro de óleo; pressão de óleo do motor;\n\n3.3.4 - Sistema de arrefecimento: função: fluidos de arrefecimento; tipos de sistema de arrefecimento; circuito de arrefecimento;\n\n3.3.5 - Sistema de escape: função: circuito dos gases de escape; efeitos nocivos de gases de escape em termos ambientais;\n\n3.3.6 - Sistema eléctrico: função: fontes de energia eléctrica: bateria, dínamo e alternador; protecções no sistema eléctrico: fusíveis. Principais circuitos do sistema eléctrico: reconhecimento dos seus constituintes;\n\n3.3.7 - Aspectos técnicos específicos em automóveis pesados de passageiros;\n\n3.4 - Sistema de travagem: função.\n\n3.4.1 - Dispositivos de travagem: princípios de funcionamento e formas de utilização:\n\n3.4.1.1 - Travão de serviço, de estacionamento e de emergência;\n\n3.4.1.2 - Travões auxiliares: electromagnético e de escape;\n\n3.4.1.3 - Dispositivo de travagem com efeito antibloqueio (ABS);\n\n3.4.1.4 - Motor como auxiliar de travagem;\n\n3.4.2 - Componentes fundamentais de comando, transmissão, regulação e actuação dos dispositivos de travagem:\n\n3.4.2.1 - Tipos de sistemas de travagem: mecânica, hidráulica, pneumática, eléctrica e mista;\n\n3.4.2.2 - Controlo de pressão em circuitos de transmissão hidráulica ou pneumática de dispositivos de travagem;\n\n3.4.2.3 - Regulação: válvulas de regulação e controlo de travagem; compensação manual do desgaste das cintas dos travões;\n\n3.4.3 - Importância, em termos de segurança rodoviária, da eficiência e equilíbrio na travagem;\n\n3.4.4 - Noção da distribuição da carga nos eixos durante a travagem; aderência das rodas;\n\n3.4.5 - Travão de reboque:\n\n3.4.5.1 - Dispositivos de ligação ao sistema de travagem do veículo tractor: hidráulico e pneumático;\n\n3.4.5.2 - Travão de inércia: mecânico ou hidráulico.\n\n3.4.5.3 - Comportamento do reboque em travagem;\n\n3.5 - Sistema de direcção: função:\n\n3.5.1 - Cadeia de transmissão de movimento desde o volante às rodas;\n\n3.5.2 - Tipos mais importantes de direcção: cremalheira, sem fim, assistida;\n\n3.5.3 - Ângulos mais importantes da direcção: avanço e convergência das rodas;\n\n3.5.4 - Noção de raio e ângulo de viragem na condução;\n\n3.6 - Sistema de iluminação: função: circuito de iluminação e sinalização - faróis, luzes e reflectores; importância, do ponto de vista de segurança rodoviária, do bom funcionamento, alinhamento e eficiência visual dos constituintes que integram os circuitos de iluminação e sinalização;\n\n3.7 - Sistema de suspensão: função:\n\n3.7.1 - Constituição básica e funcionamento: pneumáticos, molas, amortecedores e estabilizadores;\n\n3.7.2 - Importância em termos de segurança rodoviária do bom estado da suspensão;\n\n3.7.3 - Jantes e pneumáticos: medidas; unidades de pressão e profundidade do piso dos pneumáticos; estado dos pneumáticos;\n\n3.8 - Sistema de transmissão: função:\n\n3.8.1 - Cadeia de transmissão do movimento do motor às rodas;\n\n3.8.2 - Princípio de funcionamento: embraiagem, caixa de velocidades (manual, automática e outras) e diferencial;\n\n3.8.3 - Aspectos específicos de transmissão em automóveis de passageiros.\n\n4 - Reboques e semi-reboques:\n\n4.1 - Estrutura do quadro (normal e autoportante) e caixa: identificação do quadro; estrutura VIN;\n\n4.2 - Sistemas de ligação: dispositivos mecânicos de engate em conjuntos e veículos e em veículos articulados; forma de atrelar e desatrelar para cada caso;\n\n4.3 - Dispositivos especiais de apoio de semi-reboques não articulados na via pública: macacos;\n\n4.4 - Importância da compatibilidade técnica da ligação nos conjuntos de veículos e em veículos articulados; pesos e dimensões;\n\n4.5 - Sinalização exterior especial em reboques e semi-reboques.\n\n5 - Autocarro articulado: aspectos técnicos essenciais na condução e circulação.\n\n6 - Descrição dos princípios de manutenção, cuidados especiais e limitação de avarias dos constituintes dos veículos.\n\n7 - Lotação, pesos e dimensões:\n\n7.1 - Definição de peso bruto, tara, carga útil, peso bruto rebocável e poder de elevação;\n\n7.2 - Definição de pesos máximos admissíveis por eixo;\n\n7.3 - Pesos e dimensões máximos em veículos;\n\n7.4 - Influência da dimensão exterior de veículos e suas caixas na visibilidade do seu condutor e de outros utentes da via;\n\n7.5 - Influência da dimensão exterior de veículos em situações de alteração de trajectória; raio de viragem;\n\n7.6 - Lotação em automóveis pesados de passageiros.\n\n8 - Inspecções periódicas obrigatórias:\n\n8.1 - Verificações a que o veículo é sujeito num centro de IPO;\n\n8.2 - Regime legal.\n\n9 - Protecção do ambiente:\n\n9.1 - Medidas dos níveis máximos de ruídos e emissões de poluentes atmosféricos;\n\n9.2 - Limitação e controlo de ruídos e emissões poluentes.\n\n10 - Transporte dos passageiros e mercadorias:\n\n10.1 - Entrada e saída de passageiros em segurança;\n\n10.2 - Factores de segurança relativos à carga de veículos:\n\n10.2.1 - Limitações de peso e dimensões das mercadorias face às características do veículo;\n\n10.2.2 - Centro de gravidade da carga: noções gerais no âmbito da segurança rodoviária; posicionamento, distribuição e fixação ideal da carga na caixa do veículo; estabilidade do veículo em circulação face à posição do centro de gravidade da carga;\n\n10.3 - Cargas líquidas:\n\n10.3.1 - Enchimento e distribuição correctos em cisternas;\n\n10.3.2 - Comportamento de veículos em circulação e em travagem;\n\n10.4 - Cargas em veículos cujo peso ou contorno envolvente exterior ultrapassam os limites regulamentares; cuidados no acondicionamento e amarração; sinalização exterior especial; regime condicionado de circulação.\n\n11 - Equipamentos de segurança:\n\n11.1 - Cintos de segurança e triângulo de pré-sinalização;\n\n11.2 - Ferramentas e sobressalentes necessários à reparação de pequena avarias;\n\n11.3 - Calços, extintores e caixa de primeiros socorros."
+  },
+  "860448796": {
+   "fragment_id": "860447155",
+   "type": 14,
+   "heading": "Anexo IV — Programa de formação e de avaliação de candidatos a condutores de ciclomotores com idade inferior a 16 anos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Programa de formação e de avaliação de candidatos a condutores de ciclomotores com idade inferior a 16 anos\n\nA) Teoria de condução\n\nI - Conhecimentos gerais\n\n1 - Ciclomotor: noção.\n\n2 - Equipamento do veículo.\n\n3 - Documentação do condutor e do veículo.\n\n4 - Responsabilidade:\n\n4.1 - Ilícito de mera ordenação social: contra-ordenação e coima;\n\n4.2 - Responsabilidade civil e criminal.\n\n5 - Sinistralidade rodoviária:\n\n5.1 - Condução defensiva como meio de prevenir a sinistralidade;\n\n5.2 - Tipos de acidentes mais frequentes com os ciclomotores;\n\n5.3 - Acidentes por tipo de veículo;\n\n5.4 - Comparação de acidentes: outras causas de morte (incluindo por grupos etários);\n\n5.5 - Breves noções de primeiros socorros;\n\n5.6 - Comportamento cívico.\n\nII - Manutenção do veículo e equipamentos de segurança\n\n1 - Importância da manutenção.\n\n2 - Composição e funcionamento do veículo:\n\n2.1 - Pneus;\n\n2.2 - Suspensão;\n\n2.3 - Travões;\n\n2.4 - Transmissão;\n\n2.5 - Iluminação.\n\nIII - O condutor\n\n1 - Exercício da condução.\n\n2 - Distância de reacção.\n\n3 - Factores que influenciam a distância de reacção:\n\n3.1 - Fadiga;\n\n3.2 - Estado emocional;\n\n3.3 - Concentração;\n\n3.4 - Medicamentos;\n\n3.5 - Álcool:\n\n3.5.1 - Alcoolemia (taxa de álcool no sangue - TAS);\n\n3.5.2 - Perigos e efeitos;\n\n3.5.3 - Legislação.\n\n4 - Equipamento do condutor:\n\n4.1 - Funções do equipamento;\n\n4.2 - Capacete;\n\n4.3 - Indumentária;\n\n4.4 - Protecção dos olhos.\n\nIV - Circulação\n\n1 - Comportamento dinâmico:\n\n1.1 - Distância de paragem;\n\n1.2 - Distância de travagem; factores que a influenciam:\n\n1.2.1 - Velocidade;\n\n1.2.2 - Aderência;\n\n1.2.3 - Declive;\n\n1.2.4 - Carga;\n\n1.3 - Relevo dos pneus;\n\n1.4 - Transporte de carga e passageiros;\n\n1.5 - Regras de circulação.\n\n2 - Entrada e saída de circulação:\n\n2.1 - Situações de acidentes e factores de risco;\n\n2.2 - Regras de circulação gerais;\n\n2.3 - Regras de circulação específicas e sinalização:\n\n2.3.1 - Cedência de passagem;\n\n2.3.2 - Paragem e estacionamento;\n\n2.4 - Técnicas de condução.\n\n3 - Circulação na ausência de outros veículos:\n\n3.1 - Situações de acidente e factores de risco;\n\n3.2 - Regras de circulação gerais;\n\n3.3 - Regras de circulação específicas:\n\n3.3.1 - Velocidade excessiva;\n\n3.3.2 - Locais onde a velocidade deve ser reduzida;\n\n3.4 - Técnicas de condução.\n\n4 - Circulação com outros veículos:\n\n4.1 - Situações de acidentes e factores de risco;\n\n4.2 - Regras de circulação gerais;\n\n4.3 - Regras de circulação específicas e sinalização:\n\n4.3.1 - Circulação pela direita;\n\n4.3.2 - Distância de segurança;\n\n4.3.3 - Velocidade excessiva;\n\n4.3.4 - Circulação em filas paralelas;\n\n4.3.5 - Mudança de fila;\n\n4.3.6 - Sinais luminosos;\n\n4.3.7 - Sinais verticais;\n\n4.3.8 - Marcas rodoviárias;\n\n4.3.9 - Sinalização temporária;\n\n4.4 - Técnicas de condução.\n\n5 - Circulação urbana:\n\n5.1 - Situações de acidente e factores de risco;\n\n5.2 - Regras de circulação gerais;\n\n5.3 - Regras de circulação específicas; trânsito em filas paralelas;\n\n5.4 - Técnicas de condução.\n\n6 - Como curvar:\n\n6.1 - Situações de acidente e factores de risco;\n\n6.2 - Regras de circulação específicas e sinalização:\n\n6.2.1 - Visibilidade reduzida;\n\n6.2.2 - Distância de segurança;\n\n6.2.3 - Marcas rodoviárias;\n\n6.2.4 - Sinais verticais;\n\n6.3 - Técnicas de condução.\n\n7 - Circulação em cruzamentos:\n\n7.1 - Situações de acidentes e factores de risco;\n\n7.2 - Regras de circulação gerais;\n\n7.3 - Regras de circulação específicas e sinalização:\n\n7.3.1 - Passagem condicionada;\n\n7.3.2 - Cedência de passagem;\n\n7.3.3 - Ultrapassagem pela direita;\n\n7.3.4 - Sinais verticais;\n\n7.3.5 - Sinais luminosos;\n\n7.3.6 - Marcas rodoviárias;\n\n7.3.7 - Sinais dos agentes reguladores de trânsito;\n\n7.4 - Técnicas de condução.\n\n8 - Mudança de direcção para a esquerda e para a direita:\n\n8.1 - Situações de acidente e factores de risco;\n\n8.2 - Regras de circulação gerais;\n\n8.3 - Regras de circulação específicas:\n\n8.3.1 - Regras de posicionamento;\n\n8.3.2 - Prioridade dos peões;\n\n8.3.3 - Sinais luminosos;\n\n8.3.4 - Sinais verticais;\n\n8.3.5 - Marcas rodoviárias;\n\n8.3.6 - Sinais dos condutores;\n\n8.4 - Técnicas de condução.\n\n9 - Ultrapassagem:\n\n9.1 - Situações de acidente e factores de risco;\n\n9.2 - Regras de circulação gerais;\n\n9.3 - Regras de circulação específicas e sinalização:\n\n9.3.1 - Regras de execução;\n\n9.3.2 - Locais onde é proibida a ultrapassagem;\n\n9.3.3 - Regime de filas paralelas;\n\n9.3.4 - Sinais verticais;\n\n9.3.5 - Marcas rodoviárias;\n\n9.3.6 - Sinais luminosos;\n\n9.4 - Técnicas de condução.\n\n10 - Inversão do sentido de marcha:\n\n10.1 - Regras de circulação e sinalização;\n\n10.2 - Técnicas de condução.\n\n11 - Circulação na presença de peões:\n\n11.1 - Alguns dados estatísticos;\n\n11.2 - Situações de acidente e factores de risco;\n\n11.3 - Regras de circulação e sinalização;\n\n11.4 - Técnicas de condução.\n\n12 - Condução nocturna e em condições atmosféricas adversas:\n\n12.1 - Situações de acidente e factores de risco;\n\n12.2 - Regras de circulação;\n\n12.3 - Técnicas de condução:\n\n12.3.1 - Durante a noite;\n\n12.3.2 - Com vento;\n\n12.3.3 - Com chuva;\n\n12.3.4 - Com nevoeiro.\n\nB) Prática de condução\n\nI - Controlo do veículo; elementos a controlar\n\n1 - Travões.\n\n2 - Transmissão secundária.\n\n3 - Luzes e reflectores.\n\n4 - Pneus.\n\n5 - Raios.\n\n6 - Suspensão.\n\n7 - Comandos.\n\nII - Domínio do veículo\n\n1 - Equilíbrio:\n\n1.1 - Arranque;\n\n1.2 - Paragem;\n\n1.3 - Curvas:\n\n1.3.1 - Curvas lentas;\n\n1.3.2 - Curvas rápidas;\n\n1.3.3 - O que não se pode fazer nas curvas.\n\n2 - Travagem:\n\n2.1 - Técnicas de travagem:\n\n2.1.1 - Com o travão dianteiro;\n\n2.1.2 - Com o travão traseiro;\n\n2.1.3 - Com o travão dianteiro e traseiro.\n\n3 - Maneabilidade:\n\n3.1 - Obstáculos inesperados:\n\n3.1.1 - Desvio súbito de trajectória;\n\n3.1.2 - Como passar por cima de um obstáculo;\n\n3.2 - Feitura de slalom;\n\n3.3 - Condução descrevendo um 8.\n\nIII - Circulação\n\n1 - Entrada e saída de veículos:\n\n1.1 - Regras de circulação;\n\n1.2 - Sinalização aplicável;\n\n1.3 - Regras de segurança.\n\n2 - Circulação em cruzamentos:\n\n2.1 - Regras de circulação;\n\n2.2 - Sinalização aplicável;\n\n2.3 - Regras de segurança.\n\n3 - Mudança de direcção à direita:\n\n3.1 - Regras de circulação;\n\n3.2 - Sinalização aplicável;\n\n3.3 - Regras de segurança.\n\n4 - Mudança de direcção à esquerda:\n\n4.1 - Regras de circulação;\n\n4.2 - Sinalização aplicável;\n\n4.3 - Regras de segurança.\n\n5 - Ultrapassagem:\n\n5.1 - Regras de circulação;\n\n5.2 - Sinalização aplicável;\n\n5.3 - Regras de segurança."
+  },
+  "860271464": {
+   "fragment_id": "860447123",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 520/98\n\nde 14 de Agosto\n\nO n.º 4 do artigo 26.º do Regulamento da Habilitação Legal para Conduzir, aprovado pelo Decreto-Lei n.º 209/98, de 15 de Julho, prevê que sejam fixados, através de portaria, os conteúdos programáticos das provas dos exames de condução, bem como os meios de avaliação, critérios de selecção e duração daquelas provas e ainda as características dos veículos para a realização das provas práticas.\n\nAssim:\n\nNos termos e ao abrigo do n.º 4 do artigo 26.º do Regulamento da Habilitação Legal para Conduzir, aprovado pelo Decreto-Lei n.º 209/98, de 15 de Julho:\n\nManda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "860745986": {
+   "fragment_id": "860683904",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nA prova teórica do exame de condução tem como objectivos a avaliação de:\n\na) Aquisição de conhecimentos e ponderação dos riscos para uma circulação rodoviária segura;\n\nb) Conhecimento dos factores internos e externos que podem condicionar o comportamento do condutor;\n\nc) Interiorização de atitudes adequadas à segurança rodoviária;\n\nd) Sensibilização para a preservação do ambiente."
+  },
+  "860745987": {
+   "fragment_id": "860683905",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nO conteúdo programático da prova teórica consta do anexo I à presente portaria e que dela faz parte integrante."
+  },
+  "860745988": {
+   "fragment_id": "860683906",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nA prova teórica consta de teste de geração aleatória, de aplicação interactiva multimédia ou escrito."
+  },
+  "860745989": {
+   "fragment_id": "860683907",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nAs respostas às questões que compõem o teste da prova teórica são de escolha múltipla entre duas e quatro respostas possíveis, devendo cada questão admitir apenas uma resposta certa."
+  },
+  "860745990": {
+   "fragment_id": "860683908",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nAs questões para aplicação nos testes incidem sobre a matéria fixada no programa de avaliação constante do anexo I à presente portaria, obedecendo às unidades temáticas nele contempladas."
+  },
+  "860745991": {
+   "fragment_id": "860683909",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nAs questões que integram o teste da prova teórica são, sempre que possível, apoiadas em figuras ou imagens relativas a situações de trânsito que se apresentem na perspectiva do condutor inserido no ambiente rodoviário."
+  },
+  "860745992": {
+   "fragment_id": "860683910",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\nCompete à Direcção-Geral de Viação a elaboração e permanente actualização das questões para aplicação nos testes das provas teóricas."
+  },
+  "860745993": {
+   "fragment_id": "860683911",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\nPara aplicação do sistema interactivo multimédia deve existir, nas salas de exame dos centros, um monitor, para cada candidato, que transmita simultaneamente as imagens, figuras e respectivas questões."
+  },
+  "860745994": {
+   "fragment_id": "860683912",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nOs candidatos a condutores que exibam bilhete de identidade donde conste que não sabem assinar podem requerer a realização de prova oralizada em sistema interactivo multimédia, com utilização de auscultadores."
+  },
+  "860745995": {
+   "fragment_id": "860683913",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nOs candidatos a condutores que tenham reprovado, pelo menos duas vezes, na prova teórica efectuada através de teste não oralizado podem, decorridos 30 dias sobre a data da última reprovação, requerer a realização da prova prevista no número anterior."
+  },
+  "860745996": {
+   "fragment_id": "860683914",
+   "type": 11,
+   "heading": "11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º\n\nPara aplicação do sistema de geração aleatória de testes escritos deve existir para consulta, em todas as salas de exame dos centros, um caderno por candidato, contendo figuras e situações de trânsito."
+  },
+  "860745997": {
+   "fragment_id": "860683915",
+   "type": 11,
+   "heading": "12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º\n\nAs questões enunciadas para aplicação do sistema previsto no número anterior devem indicar com clareza as folhas correspondentes do caderno para as quais remetem."
+  },
+  "861656675": {
+   "fragment_id": "860944596",
+   "type": 11,
+   "heading": "13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 13.º\n\nO teste da prova teórica destinado a avaliar os conhecimentos dos candidatos a condutores de motociclos e de automóveis consta de 30 questões."
+  },
+  "861656676": {
+   "fragment_id": "860944597",
+   "type": 11,
+   "heading": "14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 14.º\n\nA duração da prova teórica é de trinta e cinco minutos."
+  },
+  "861656677": {
+   "fragment_id": "860944598",
+   "type": 11,
+   "heading": "15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 15.º\n\nA duração da prova oralizada em sistema interactivo multimédia é de cinquenta minutos."
+  },
+  "861656678": {
+   "fragment_id": "860944599",
+   "type": 11,
+   "heading": "16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 16.º\n\nDevem ser aprovados nesta prova os candidatos que respondam acertadamente a, pelo menos, 27 questões."
+  },
+  "861656679": {
+   "fragment_id": "860944600",
+   "type": 11,
+   "heading": "17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 17.º\n\nA prova teórica de candidatos a condutores de ciclomotores e de motociclos de cilindrada não superior a 50 cm3 consta de 20 questões."
+  },
+  "861656680": {
+   "fragment_id": "860944601",
+   "type": 11,
+   "heading": "18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 18.º\n\nA duração da prova teórica referida no número anterior é de vinte e cinco minutos."
+  },
+  "861657682": {
+   "fragment_id": "860944602",
+   "type": 11,
+   "heading": "19.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 19.º\n\nOs candidatos devem ser aprovados quando respondam acertadamente a, pelo menos, 17 questões.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656682": {
+   "fragment_id": "860944603",
+   "type": 11,
+   "heading": "20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 20.º\n\nÀ prova teórica de candidatos a condutores de veículos agrícolas das categorias II e III é aplicável o disposto nos n.os 17.º a 19.º"
+  },
+  "861656683": {
+   "fragment_id": "860944604",
+   "type": 11,
+   "heading": "21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 21.º\n\nA duração da prova teórica oralizada em sistema interactivo multimédia é de quarenta minutos."
+  },
+  "861656684": {
+   "fragment_id": "860944605",
+   "type": 11,
+   "heading": "22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 22.º\n\nA prova prática do exame de condução tem como objectivos a avaliação de:\n\na) Conhecimento do veículo e dos procedimentos de segurança;\n\nb) Adaptação ao veículo e postura do condutor;\n\nc) Domínio do veículo em situações especiais de condução;\n\nd) Desenvolvimento de aptidões e comportamentos com vista à segurança rodoviária;\n\ne) Interacção dos conhecimentos teóricos com a prática de condução."
+  },
+  "861656685": {
+   "fragment_id": "860944606",
+   "type": 11,
+   "heading": "23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 23.º\n\nO conteúdo programático da prova prática consta do anexo II à presente portaria e que dela faz parte integrante."
+  },
+  "861656686": {
+   "fragment_id": "860944607",
+   "type": 11,
+   "heading": "24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 24.º\n\nAs provas práticas só podem realizar-se em veículos licenciados para instrução ou para exames, excepto nos seguintes casos:\n\na) Provas de candidatos que, em resultado de exame médico ou psicológico, só sejam autorizados a conduzir determinados veículos ou veículos adaptados;\n\nb) Provas de candidatos que não estejam obrigados à frequência de lições práticas de condução;\n\nc) Provas de candidatos a condutores de veículos agrícolas realizadas em centros de formação."
+  },
+  "861656687": {
+   "fragment_id": "860944608",
+   "type": 11,
+   "heading": "25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 25.º\n\nOs veículos utilizados na prova prática de condução devem ser da categoria a que o candidato pretende habilitar-se e ter as características fixadas nos números seguintes."
+  },
+  "861657683": {
+   "fragment_id": "860944609",
+   "type": 11,
+   "heading": "26.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 26.º\n\nOs ciclomotores e os motociclos de cilindrada não superior a 50 cm3 devem ser de duas rodas com, pelo menos, duas velocidades ou estarem equipados com variador contínuo de velocidade.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656689": {
+   "fragment_id": "860944610",
+   "type": 11,
+   "heading": "27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 27.º\n\nPode também a prova prática de condução de ciclomotores ou de motociclos de cilindrada não superior a 50 cm3 ser realizada em veículo de três ou de quatro rodas, ficando o candidato, uma vez aprovado, sujeito à restrição de só poder conduzir veículos com as características do veículo de exame."
+  },
+  "861657697": {
+   "fragment_id": "860944611",
+   "type": 11,
+   "heading": "28.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 28.º\n\nOs motociclos devem ser sem carro lateral e obedecer às seguintes características:\n\na) Para a subcategoria A1: cilindrada não inferior a 75 cm3 nem superior a 125 cm3 e potência máxima não superior a 11 kW;\n\nb) (Revogado).\n\nc) Para acesso directo, em provas realizadas por candidatos com a idade mínima de 21 anos: potência não inferior a 35 kW;\n\nd) Ter acoplado um receptor que receba som do veículo onde se transporta o examinador.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656691": {
+   "fragment_id": "860944612",
+   "type": 11,
+   "heading": "29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 29.º\n\nOs automóveis ligeiros de passageiros ou mistos devem ter:\n\na) Travão de estacionamento ao alcance do examinador;\n\nb) Comandos duplos de travão de serviço, embraiagem e acelerador;\n\nc) Dois espelhos retrovisores interiores."
+  },
+  "861656692": {
+   "fragment_id": "860944613",
+   "type": 11,
+   "heading": "30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 30.º\n\nO disposto nas alíneas b) e c) do número anterior não se aplica aos veículos utilizados nas provas a que se referem as alíneas a) a c) do n.º 24.º"
+  },
+  "861656693": {
+   "fragment_id": "860944614",
+   "type": 11,
+   "heading": "31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 31.º\n\nOs veículos utilizados nas provas a que se refere a alínea a) do n.º 24.º podem ter caixa de velocidades automática ou qualquer outra adaptação que tenha sido homologada pela Direcção-Geral de Viação."
+  },
+  "861656694": {
+   "fragment_id": "860944615",
+   "type": 11,
+   "heading": "32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 32.º\n\nOs automóveis ligeiros de passageiros são de caixa fechada, com a lotação de cinco lugares, devem poder atingir, por construção, uma velocidade de, pelo menos, 100 km/h e estar equipados com avisadores de utilização dos duplos comandos, fixados rigidamente a cada um dos pedais duplicados."
+  },
+  "861656695": {
+   "fragment_id": "860944616",
+   "type": 11,
+   "heading": "33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 33.º\n\nSempre que o avisador de utilização de duplos comandos estiver ligado deve permanecer acesa uma luz de cor verde, devendo ainda essa utilização ser assinalada de forma eficaz através de um sinal sonoro ou de uma luz de cor vermelha."
+  },
+  "861656696": {
+   "fragment_id": "860944617",
+   "type": 11,
+   "heading": "34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 34.º\n\nAs luzes referidas no número anterior devem ter uma intensidade suficiente e estar colocadas de forma a serem facilmente visíveis pelo examinador e por quem acompanhar a realização da prova."
+  },
+  "861656697": {
+   "fragment_id": "860944618",
+   "type": 11,
+   "heading": "35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 35.º\n\nOs automóveis pesados de mercadorias devem ter:\n\na) Caixa aberta e cabina fechada;\n\nb) Peso bruto não inferior a 10000 kg;\n\nc) Comprimento mínimo de 7 m;\n\nd) Possibilidade de atingir, por construção, a velocidade de, pelo menos, 80 km/h;\n\ne) Comando duplo de travão de serviço;\n\nf) Dois espelhos retrovisores exteriores de cada lado, sendo um dirigido ao examinando e o outro ao examinador."
+  },
+  "861656698": {
+   "fragment_id": "860944619",
+   "type": 11,
+   "heading": "36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 36.º\n\nOs automóveis pesados de passageiros devem ter:\n\na) Caixa fechada;\n\nb) Comprimento mínimo de 9 m;\n\nc) Possibilidade de atingir, por construção, a velocidade de, pelo menos, 80 km/h;\n\nd) Comando duplo de travão de serviço;\n\ne) Banco destinado ao examinador, situado à direita do lugar do condutor;\n\nf) Dois espelhos retrovisores exteriores de cada lado, sendo um dirigido ao examinando e o outro ao examinador."
+  },
+  "861656699": {
+   "fragment_id": "860944620",
+   "type": 11,
+   "heading": "37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 37.º\n\nOs conjuntos de veículos para obtenção de habilitação na categoria B + E devem obedecer às seguintes características:\n\na) Automóvel ligeiro com travão de estacionamento ao alcance do examinador,\n\nb) Reboque com peso bruto não inferior a 1000 kg carregado, no mínimo, em metade da sua capacidade de carga;\n\nc) Poder atingir a velocidade de, pelo menos, 100 km/h;\n\nd) Não se incluírem na categoria B."
+  },
+  "861657684": {
+   "fragment_id": "860944621",
+   "type": 11,
+   "heading": "38.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 38.º\n\nOs conjuntos de veículos para obtenção de habilitação na categoria C + E devem obedecer às seguintes características:\n\nA) Conjuntos de veículo tractor e semi-reboque:\n\na) Tractor com as características previstas nas alíneas e) e f) do n.º 35.º;\n\nb) Peso bruto do conjunto não inferior a 18000 kg;\n\nc) Comprimento não inferior a 12 m;\n\nd) Poder atingir a velocidade de, pelo menos, 80 km/h;\n\nB) Conjuntos de veículo pesado e reboque:\n\na) Automóvel com as características fixadas nos n.os 29.º e 35.º;\n\nb) Reboque com o comprimento mínimo de 4 m;\n\nc) Peso bruto do reboque não inferior a 4000 kg;\n\nd) Comprimento não inferior a 12 m;\n\ne) Poder atingir a velocidade de, pelo menos, 80 km/h.\n\nf) Peso bruto do conjunto não inferior a 18000 kg.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656701": {
+   "fragment_id": "860944622",
+   "type": 11,
+   "heading": "39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 39.º\n\nOs conjuntos de veículos para obtenção de habilitação na categoria D + E devem obedecer às seguintes características:\n\na) Automóvel com os requisitos fixados no n.º 36.º;\n\nb) Reboque com peso bruto não inferior a 1250 kg;\n\nc) Poder atingir a velocidade de, pelo menos, 80 km/h."
+  },
+  "861657685": {
+   "fragment_id": "860944623",
+   "type": 11,
+   "heading": "40.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 40.º\n\nOs tractores agrícolas ou florestais para habilitação à condução de veículos agrícolas devem estar equipados com reboque, tendo o conjunto um comprimento não inferior a 6 m, podendo atingir em patamar a velocidade de, pelo menos, 25 km/h e possuir, ainda, as seguintes características:\n\na) Para a categoria II, tractor com tara não superior a 2000 kg e reboque com peso bruto não inferior a 3000 kg;\n\nb) Para a categoria III, tractor com tara superior a 2000 kg e reboque com peso bruto não inferior a 4000 kg.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656703": {
+   "fragment_id": "860944624",
+   "type": 11,
+   "heading": "41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 41.º\n\nOs automóveis pesados de mercadorias e os reboques devem estar carregados entre 30% e 50% da sua carga útil."
+  },
+  "861656704": {
+   "fragment_id": "860944625",
+   "type": 11,
+   "heading": "42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 42.º\n\nA prova prática deve ser realizada em duas fases, sendo a primeira em parque de manobras e a segunda em condições normais de trânsito urbano e não urbano."
+  },
+  "861657679": {
+   "fragment_id": "862375612",
+   "type": 11,
+   "heading": "Artigo 42.º-A",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### Artigo 42.º-A\n\nQualquer uma das partes da prova referida no número anterior deve ser dada por finda e o candidato considerado reprovado se o examinador verificar que aquele exerce uma condução perigosa, por incapacidade, imperícia ou imprudência, pondo em causa a segurança de pessoas e ou bens.\n\n> Aditado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861657686": {
+   "fragment_id": "860944626",
+   "type": 11,
+   "heading": "43.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 43.º\n\nA parte de destreza da prova prática de automóveis em parque, com a duração máxima de vinte minutos, deve integrar as seguintes manobras, de acordo com a categoria de veículos a que se destinam:\n\nA) Categoria B:\n\na) Início de marcha;\n\nb) Inversão do sentido de marcha com recurso a marcha atrás;\n\nc) Estacionamento entre dois veículos ou balizas;\n\nd) Arranque em rampa com, pelo menos, 8% de inclinação;\n\ne) Realização de travagem em piso molhado, à velocidade de, aproximadamente, 50 km/h;\n\nf) Estacionamento em espinha;\n\ng) Contorno de obstáculos;\n\nh) Circulação em rotunda;\n\ni) Arranque e paragem de emergência;\n\nj) Redução de velocidade com utilização da caixa de velocidades.\n\nl) Contorno de lancil em marcha atrás.\n\nB) Categoria B + E:\n\na) Arranque em rampa;\n\nb) Contorno de lancil em marcha atrás;\n\nc) Arranque, multiplicação, redução e travagem.\n\nC) Categoria C:\n\na) Estacionamento entre balizas, junto ao passeio;\n\nb) Estacionamento em marcha atrás;\n\nc) Arranque em rampa;\n\nd) Contorno de lancil em marcha atrás;\n\ne) Arranque, multiplicação, redução e travagem.\n\nD) Categoria C + E:\n\na) Arranque em rampa;\n\nb) Estacionamento entre balizas, junto ao passeio;\n\nc) Arranque, multiplicação, redução e travagem.\n\nE) Categoria D:\n\na) Estacionamento entre balizas, junto ao passeio;\n\nb) Simulação de paragem para entrada e saída de passageiros;\n\nc) Estacionamento em marcha atrás;\n\nd) Arranque em rampa;\n\ne) Contorno de lancil em marcha atrás;\n\nf) Arranque, multiplicação, redução e travagem.\n\nF) Categoria D + E:\n\na) Arranque em rampa;\n\nb) Estacionamento entre balizas, junto ao passeio;\n\nc) Arranque, multiplicação, redução e travagem.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656706": {
+   "fragment_id": "860944627",
+   "type": 11,
+   "heading": "44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 44.º\n\nNa fase de circulação urbana e não urbana, a realizar imediatamente após a fase em parque, o candidato deve inserir-se no trânsito normal sem perturbar a sua fluidez, demonstrando o domínio do veículo, efectuando com correcção e oportunidade todas as manobras necessárias e cumprindo as regras e sinais de trânsito."
+  },
+  "861656707": {
+   "fragment_id": "860944628",
+   "type": 11,
+   "heading": "45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 45.º\n\nQuando as condições de circulação e o local o permitirem, a condução em via fora de localidades deve efectuar-se a velocidade superior a 50 km/h."
+  },
+  "861656708": {
+   "fragment_id": "860944629",
+   "type": 11,
+   "heading": "46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 46.º\n\nA fase referida no n.º 44.º tem a duração mínima de vinte e cinco ou quarenta e cinco minutos conforme se trate, respectivamente, de candidatos à condução de automóveis das categorias B e B + E ou das restantes."
+  },
+  "861657687": {
+   "fragment_id": "860944630",
+   "type": 11,
+   "heading": "47.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 47.º\n\nPara os efeitos do disposto no n.º 44.º, é efectuada por sorteio informático distribuição dos examinadores em cada centro de exames, bem como a dos trajectos a percorrer pelos examinandos, sendo aqueles fixados previamente por despacho do director regional de viação competente.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656710": {
+   "fragment_id": "860944631",
+   "type": 11,
+   "heading": "48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 48.º\n\nO examinador deve avaliar se o candidato está preparado para conduzir com segurança na via pública, de acordo com o disposto no n.º 44.º e com o conteúdo programático previsto nas secções I ou II do anexo II, consoante os casos, e registar os resultados no relatório de exame."
+  },
+  "861656711": {
+   "fragment_id": "860944632",
+   "type": 11,
+   "heading": "49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 49.º\n\nConstitui causa de reprovação a verificação, durante a totalidade da prova prática, de qualquer das seguintes circunstâncias:\n\na) Embater em qualquer obstáculo, de forma descontrolada;\n\nb) Deixar o veículo estacionado a mais de 50 cm da berma ou passeio após três tentativas, ou derrubar as balizas;\n\nc) Deixar de arrancar em rampa após três tentativas, sem o uso do travão de mão;\n\nd) Deixar recuar o veículo mais de 1 m ao tentar arrancar em rampa;\n\ne) Deixar, por imperícia, parar o motor mais de três vezes;\n\nf) Sair com qualquer roda da faixa de rodagem;\n\ng) Não executar correctamente e em tempo útil qualquer das manobras de mudança da via de trânsito, ultrapassagem, mudança de direcção e inversão do sentido de marcha;\n\nh) Não executar com destreza as mudanças de velocidade;\n\ni) Não utilizar o travão com segurança e suavidade;\n\nj) Demonstrar deficientes conhecimentos de condução defensiva;\n\nl) Praticar qualquer contra-ordenação grave ou muito grave;\n\nm) Desconhecer a forma de descer sem o auxílio do travão."
+  },
+  "861656712": {
+   "fragment_id": "860944633",
+   "type": 11,
+   "heading": "50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 50.º\n\nA prova prática deve ser dada por finda na fase em parque quando, durante a sua realização, se tenha verificado qualquer dos motivos de reprovação previstos nas alíneas a) a e) do número anterior."
+  },
+  "861656713": {
+   "fragment_id": "860944634",
+   "type": 11,
+   "heading": "51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 51.º\n\nA fase em parque de manobras deve ser efectuada sem qualquer acompanhamento do examinando no interior do veículo."
+  },
+  "861656714": {
+   "fragment_id": "860944635",
+   "type": 11,
+   "heading": "52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 52.º\n\nA prova prática de automóvel ligeiro, na fase de circulação urbana e não urbana, deve ser acompanhada pelo instrutor que ministrar o ensino, salvo se:\n\na) As características do veículo o não permitirem;\n\nb) O instrutor se encontrar proibido de acompanhar provas por, de qualquer forma, ter impedido ou dificultado o serviço de exames;\n\nc) A propositura do candidato a exame tiver sido feita pelo director da escola, contra o parecer do instrutor;\n\nd) O director da escola, em casos devidamente fundamentados, tiver requerido ao serviço competente da Direcção-Geral de Viação, até dois dias úteis antes da realização da prova, que o acompanhamento seja feito por outro instrutor por si indicado;\n\ne) O instrutor se encontrar impedido, por motivo de força maior, surgido posteriormente ao prazo referido na alínea anterior."
+  },
+  "861656715": {
+   "fragment_id": "860944636",
+   "type": 11,
+   "heading": "53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 53.º\n\nNos casos previstos nas alíneas b), c) e e) do número anterior deve o acompanhamento da prova ser feito pelo director da escola."
+  },
+  "861656716": {
+   "fragment_id": "860944637",
+   "type": 11,
+   "heading": "54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 54.º\n\nNo caso previsto na alínea e) do n.º 52.º, deve o impedimento ser comunicado de imediato ao centro de exames e justificado, no prazo de dois dias úteis, no serviço competente da Direcção-Geral de Viação."
+  },
+  "861656717": {
+   "fragment_id": "860944638",
+   "type": 11,
+   "heading": "55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 55.º\n\nDurante a prova prática de automóveis ligeiros o examinador ocupa o banco da frente, reservando-se o banco de trás para o instrutor, para o segundo candidato a condutor e para o elemento de fiscalização da Direcção-Geral de Viação que, eventualmente, acompanhe a prova."
+  },
+  "861657698": {
+   "fragment_id": "860944639",
+   "type": 11,
+   "heading": "56.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 56.º\n\nA fase em parque da prova prática de motociclos, com a duração máxima de vinte minutos, deve integrar as seguintes manobras:\n\na) Tirar o veículo do descanso e deslocá-lo sem a ajuda do motor, caminhando a seu lado;\n\nb) Início de marcha;\n\nc) Inversão do sentido de marcha em espaço reduzido, descrevendo um U;\n\nd) Arranque em rampa com, pelo menos, 8% de inclinação;\n\ne) Realização de travagem em piso molhado, à velocidade de, aproximadamente, 50 km/h;\n\nf) Circulação em rotunda;\n\ng) Arranque e paragem de emergência;\n\nh) Efectuar uma manobra de equilíbrio descrevendo um 8, sem apoio dos pés;\n\ni) Estacionar o veículo, colocando-o no descanso;\n\nj) Equilíbrio em marcha lenta.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656719": {
+   "fragment_id": "860944640",
+   "type": 11,
+   "heading": "57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 57.º\n\nÉ aplicável à fase de circulação urbana e não urbana da prova prática de motociclos o disposto nos n.os 44.º, 45.º, 47.º, 48.º e 50.º"
+  },
+  "861656720": {
+   "fragment_id": "860944641",
+   "type": 11,
+   "heading": "58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 58.º\n\nA fase referida no número anterior tem a duração mínima de vinte e cinco minutos."
+  },
+  "861656721": {
+   "fragment_id": "860944642",
+   "type": 11,
+   "heading": "59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 59.º\n\nConstitui causa de reprovação a verificação, durante a totalidade da prova prática, de qualquer das seguintes circunstâncias:\n\na) Qualquer das previstas nas alíneas a), e), f), h) a m) do n.º 49.º;\n\nb) Não executar correctamente e em tempo útil qualquer das manobras de mudança de via de trânsito, ultrapassagem e mudança de direcção, bem como a prevista na alínea a) do n.º 56.º;\n\nc) Deixar cair o veículo;\n\nd) Não executar correctamente qualquer das manobras referidas nas alíneas c), d) e h) do n.º 56.º, após três tentativas."
+  },
+  "861656722": {
+   "fragment_id": "860944643",
+   "type": 11,
+   "heading": "60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 60.º\n\nDurante a fase de circulação urbana e não urbana, o instrutor conduz o automóvel ligeiro que acompanha, à retaguarda, a prova e no qual o examinador é transportado."
+  },
+  "861656723": {
+   "fragment_id": "860944644",
+   "type": 11,
+   "heading": "61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 61.º\n\nNa prova referida no número anterior as orientações dos percursos e as manobras a realizar são transmitidas ao candidato através de intercomunicador."
+  },
+  "861656724": {
+   "fragment_id": "860944645",
+   "type": 11,
+   "heading": "62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 62.º\n\nA prova prática de condução de motociclos de três ou quatro rodas rege-se pelas disposições constantes dos n.os 43.º a 45.º, 47.º a 50.º, 58.º e 60.º"
+  },
+  "861656725": {
+   "fragment_id": "860944646",
+   "type": 11,
+   "heading": "63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 63.º\n\nÀs provas práticas dos exames de condução de ciclomotores e de motociclos de cilindrada não superior a 50 cm3 é aplicável o disposto na subsecção anterior, com as adaptações decorrentes do conteúdo programático previsto na secção V do anexo II à presente portaria, não se aplicando, no entanto, à prova de ciclomotores o n.º 45.º deste diploma."
+  },
+  "861657680": {
+   "fragment_id": "862375620",
+   "type": 11,
+   "heading": "Artigo 63.º-A",
+   "in_force_from": "2000-02-28",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-02-28"
+   ],
+   "markdown": "###### Artigo 63.º-A\n\nOs candidatos a condutor de ciclomotores autopropostos devem disponibilizar o veículo de exame, automóvel ligeiro de passageiros, para transporte do examinador.\n\n> Aditado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-02-28"
+  },
+  "861657681": {
+   "fragment_id": "862375621",
+   "type": 11,
+   "heading": "Artigo 63.º-B",
+   "in_force_from": "2000-02-28",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-02-28"
+   ],
+   "markdown": "###### Artigo 63.º-B\n\nAntes de dar início à prova prática, deve o examinador identificar o candidato a condutor, nos termos do n.º 78.º, e verificar os documentos dos veículos.\n\n> Aditado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-02-28"
+  },
+  "861656726": {
+   "fragment_id": "860944647",
+   "type": 11,
+   "heading": "64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 64.º\n\nÀs provas práticas dos exames de condução de veículos agrícolas das categorias II e III são aplicáveis, com as necessárias adaptações, as disposições dos n.os 43.º, 44.º, 47.º a 50.º, 58.º, 60.º e 61.º"
+  },
+  "861656734": {
+   "fragment_id": "860944657",
+   "type": 11,
+   "heading": "65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 65.º\n\nA prova técnica do exame de condução tem como objectivos a avaliação de:\n\na) Conhecimento das características técnicas dos veículos e enquadramento da sua utilização com as restrições de ordem técnica e legal;\n\nb) Conhecimento do funcionamento dos sistemas do veículo visando a sua manutenção e limitação de avarias;\n\nc) Noções de aspectos técnicos e de segurança que envolvam a condução de veículos pesados de mercadorias e de passageiros."
+  },
+  "861656733": {
+   "fragment_id": "860944656",
+   "type": 11,
+   "heading": "66.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 66.º\n\nO conteúdo programático da prova técnica consta do anexo III à presente portaria e que dela faz parte integrante."
+  },
+  "861657688": {
+   "fragment_id": "860944655",
+   "type": 11,
+   "heading": "67.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 67.º\n\nA prova técnica consta também obrigatoriamente de teste de aplicação interactiva multimedia, sendo-lhe aplicável o disposto na alínea a) do n.º 3.º e nos n.os 4.º, 7.º e 8.º da presente portaria, com as necessárias adaptações.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656731": {
+   "fragment_id": "860944654",
+   "type": 11,
+   "heading": "68.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 68.º\n\nO teste da prova técnica para as categorias C ou D consta de 20 questões."
+  },
+  "861656730": {
+   "fragment_id": "860944653",
+   "type": 11,
+   "heading": "69.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 69.º\n\nAs questões constantes do teste da prova técnica têm, sempre que possível, um suporte em imagens e figuras ilustrativas do funcionamento e caracterização do automóvel para cuja categoria o candidato se pretende habilitar."
+  },
+  "861656729": {
+   "fragment_id": "860944652",
+   "type": 11,
+   "heading": "70.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 70.º\n\nA duração da prova técnica é de vinte e cinco minutos."
+  },
+  "861656728": {
+   "fragment_id": "860944651",
+   "type": 11,
+   "heading": "71.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 71.º\n\nDevem ser aprovados os candidatos que respondam acertadamente a, pelo menos, 18 questões."
+  },
+  "861656727": {
+   "fragment_id": "860944650",
+   "type": 11,
+   "heading": "72.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 72.º\n\nNão é permitida a realização da prova técnica oralizada."
+  },
+  "861656737": {
+   "fragment_id": "860944660",
+   "type": 11,
+   "heading": "73.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 73.º\n\nO exame especial para candidatos a condutores que tenham sido titulares de carta ou licença de condução cassada nos termos do artigo 148.º do Código da Estrada é sempre efectuado pela Direcção-Geral de Viação."
+  },
+  "861656736": {
+   "fragment_id": "860944659",
+   "type": 11,
+   "heading": "74.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 74.º\n\nAs provas teórica e técnica do exame referido no número anterior devem ser efectuadas nos termos previstos na presente portaria para os exames não qualificados como especiais."
+  },
+  "861656735": {
+   "fragment_id": "860944658",
+   "type": 11,
+   "heading": "75.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 75.º\n\nA prova prática do mesmo exame deve obedecer ao seguinte:\n\na) No caso de a cassação ter sido determinada ao abrigo do disposto na alínea b) do n.º 1 do artigo 148.º do Código da Estrada, é efectuada nos termos previstos na presente portaria para os exames não qualificados como especiais;\n\nb) No caso de a cassação ter sido determinada ao abrigo do disposto na alínea a) do n.º 1 da mesma disposição legal, a prova reveste conteúdo especial, a fixar por despacho do director-geral de Viação, tendo em consideração os comportamentos e atitudes que estiveram na origem daquela cassação."
+  },
+  "861656756": {
+   "fragment_id": "862375586",
+   "type": 11,
+   "heading": "76.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 76.º\n\nAs provas teóricas e técnicas devem ser efectuadas em horário entre as 8 horas e 30 minutos e as 17 horas e 30 minutos, de segunda-feira a sexta-feira."
+  },
+  "861656755": {
+   "fragment_id": "862375585",
+   "type": 11,
+   "heading": "77.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 77.º\n\nO examinando é convocado através da escola de condução, salvo quando não haja lugar a propositura pela mesma, e deve comparecer no local de exame à hora marcada."
+  },
+  "861656754": {
+   "fragment_id": "862375584",
+   "type": 11,
+   "heading": "78.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 78.º\n\nA identificação dos examinandos é feita através da apresentação de bilhete de identidade válido ou documento com igual valor jurídico."
+  },
+  "861656753": {
+   "fragment_id": "862375583",
+   "type": 11,
+   "heading": "79.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 79.º\n\nEm cada sessão de provas teóricas ou técnicas há dois examinadores, a um dos quais compete coordenar a sua realização."
+  },
+  "861657689": {
+   "fragment_id": "862375582",
+   "type": 11,
+   "heading": "80.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 80.º\n\nQuando a sessão se destinar a candidatos a condutores de ciclomotores, devem estar presentes dois funcionários da Direcção-Geral de Viação, sendo, pelo menos, um deles examinador.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861657690": {
+   "fragment_id": "862375581",
+   "type": 11,
+   "heading": "81.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 81.º\n\nada sessão de provas teóricas ou técnicas não pode ser marcada para menos de 5 nem mais de 15 candidatos, à excepção dos examinandos de ciclomotores, cujo número pode ser inferior.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656750": {
+   "fragment_id": "862375580",
+   "type": 11,
+   "heading": "82.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 82.º\n\nA sessão inicia-se logo que todos os examinandos se encontrem nos seus lugares, não podendo entrar qualquer examinando a partir desse momento."
+  },
+  "861656749": {
+   "fragment_id": "862375579",
+   "type": 11,
+   "heading": "83.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 83.º\n\nNa geração aleatória de testes escritos deve ser observado o seguinte:\n\na) É necessária a participação de dois examinadores para acesso ao programa informático através da introdução das palavras-chave do sistema e dos códigos dos utilizadores, devendo cada examinador alterar mensalmente o respectivo código;\n\nb) O número de exemplares do teste gerado é igual ao dos examinandos presentes, acrescido de um por examinador;\n\nc) Por cada examinador presente deve ser gerada uma folha de correcção e outra com indicação das unidades temáticas das questões;\n\nd) Cada exemplar do teste e de folha de resposta deve indicar o número, data e hora da sessão de exame;\n\ne) É distribuído a cada examinando um teste e a respectiva folha de resposta, iniciando-se a realização da prova após o preenchimento do cabeçalho por aquele;\n\nf) O examinando apenas deve assinalar as respostas consideradas correctas, assinando ainda a folha de resposta no final da prova;\n\ng) As respostas são assinaladas com um x na quadrícula respectiva e com caneta ou esferográfica de tinta azul;\n\nh) Em caso de engano, a resposta deve ser anulada com uma circunferência no interior da quadrícula e a resposta certa confirmada com uma rubrica no lado exterior da respectiva quadrícula, não podendo proceder-se a nova rectificação;\n\ni) A inutilização do caderno de apoio, impossibilitando a sua posterior utilização, impede o prosseguimento da prova e determina a anulação da mesma;\n\nj) Terminada a prova, são recolhidas as folhas de teste e de resposta, bem como o caderno de apoio;\n\nl) A correcção da prova é seguida de conferência e validação dos resultados;\n\nm) Após a validação dos resultados, é dado conhecimento aos candidatos e feito o seu registo na licença de aprendizagem e no requerimento de exame."
+  },
+  "861656748": {
+   "fragment_id": "862375578",
+   "type": 11,
+   "heading": "84.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 84.º\n\nNa utilização do sistema interactivo multimédia de exames deve ser observado o seguinte:\n\na) Antes de iniciar a prova o candidato deve assinar uma folha da qual conste a sua identificação através do nome e número de bilhete de identidade, bem como a data e hora da sessão de exame e ainda o número do teste;\n\nb) As respostas devem ser assinaladas através de toque com o dedo no monitor sensível, no qual aparecerá o símbolo X na quadrícula correspondente à resposta considerada certa;\n\nc) Em caso de engano, a resposta pode ser alterada pelo candidato com um segundo toque na alternativa que pretenda validar;\n\nd) Esgotado o tempo destinado à efectivação da prova, deve ser emitida a folha com os resultados e com a data, hora e local daquela prova."
+  },
+  "861656747": {
+   "fragment_id": "862375577",
+   "type": 11,
+   "heading": "85.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 85.º\n\nApós o início da prova os examinadores não podem prestar quaisquer esclarecimentos sobre a sua realização nem deslocar-se para junto dos examinandos."
+  },
+  "861657691": {
+   "fragment_id": "862375576",
+   "type": 11,
+   "heading": "86.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 86.º\n\nEm caso de avaria nos sistemas de geração aleatória de teste escrito ou no de aplicação interactiva multimedia e não sendo possível o recomeço da prova nos quinze minutos seguintes, deve aquela ser repetida através de marcação para sessão posterior.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656745": {
+   "fragment_id": "862375575",
+   "type": 11,
+   "heading": "87.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 87.º\n\nOs resultados das provas são produzidos no sistema central da Direcção-Geral de Viação e podem ser visualizados nos centros de exames."
+  },
+  "861656744": {
+   "fragment_id": "860944674",
+   "type": 11,
+   "heading": "88.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 88.º\n\nNos casos de reprovação é entregue ao candidato e enviada à escola uma folha com as unidades temáticas referentes ao conteúdo programático que aquele deve aperfeiçoar."
+  },
+  "861656743": {
+   "fragment_id": "860944672",
+   "type": 11,
+   "heading": "89.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 89.º\n\nEm caso de reprovação no sistema de teste escrito, o candidato pode solicitar a reapreciação do resultado junto do centro de exames, nos termos seguintes:\n\na) O pedido de reapreciação deve ser devidamente fundamentado no livro de reclamações existente no centro de exames, no prazo máximo de vinte e quatro horas após a realização da prova;\n\nb) Para o efeito previsto no número anterior pode o examinando ter acesso à leitura da sua prova e respectiva folha de resposta, na presença de um examinador;\n\nc) O centro deve proceder de imediato à reapreciação e, se concluir que assiste razão ao reclamante por erro de aplicação da folha de correcção ou de decisão do resultado da prova, corrigir o resultado anterior;\n\nd) Se o centro concluir que não há lugar a correcção nos termos da alínea anterior, deve confirmar o resultado;\n\ne) A decisão do centro, proferida de acordo com as alíneas c) e d), deve ser comunicada, no prazo de cinco dias, à direcção de serviços de viação competente, com envio da documentação respeitante à prova e outros elementos julgados necessários;\n\nf) O director de serviços de viação deve, por sua vez, proferir decisão no prazo de cinco dias, a qual deve ser comunicada ao reclamante e ao centro de exames;\n\ng) No caso de a reclamação incidir sobre o conteúdo da questão, da folha de correcção ou do caderno a que se refere o n.º 11.º, deve o centro dar conhecimento, no prazo de vinte e quatro horas, ao serviço central da Direcção-Geral de Viação, ao qual compete decidir."
+  },
+  "861657692": {
+   "fragment_id": "860944671",
+   "type": 11,
+   "heading": "90.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 90.º\n\nEm caso de reprovação quer no sistema interactivo multimedia quer no de geração aleatória de teste escrito, o candidato pode reclamar do resultado, nos termos seguintes:\n\na) O examinando pode ver a sua prova, na parte referente às questões objecto de reprovação, na presença do examinador e, eventualmente, do director da escola;\n\nb) Se pretender reclamar, deve fazê-lo fundamentadamente no livro de reclamações existente no centro de exames, no prazo máximo de quarenta e oito horas após a realização da prova;\n\nc) O centro deve proceder ao envio, de imediato, da reclamação à Direcção de Serviços de Condutores, para apreciação;\n\nd) O serviço referido na alínea anterior deve apreciar a reclamação e comunicar o resultado, num prazo não superior a 10 dias úteis, ao reclamante e ao centro.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656741": {
+   "fragment_id": "860944670",
+   "type": 11,
+   "heading": "91.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 91.º\n\nOs resultados obtidos em cada sessão devem ser registados para fins estatísticos."
+  },
+  "861656740": {
+   "fragment_id": "860944669",
+   "type": 11,
+   "heading": "92.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 92.º\n\nSão arquivados, por um prazo não inferior a três meses, um exemplar do teste, as folhas de resposta e duas folhas de correcção devidamente preenchidas."
+  },
+  "861656739": {
+   "fragment_id": "860944668",
+   "type": 11,
+   "heading": "93.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 93.º\n\nPara efeitos de recuperação da prova em sistema interactivo multimédia deve a mesma ser conservada em ficheiro central por um período não inferior a um ano."
+  },
+  "861656738": {
+   "fragment_id": "860944667",
+   "type": 11,
+   "heading": "94.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 94.º\n\nSão efectuadas por sorteio, devendo este processar-se informaticamente sempre que possível:\n\na) A distribuição das provas práticas de exames pelos examinadores, em cada centro de exames;\n\nb) A determinação do circuito da prova prática a utilizar por cada examinando, de entre os aprovados nos termos do n.º 47.º"
+  },
+  "861656760": {
+   "fragment_id": "862375592",
+   "type": 11,
+   "heading": "95.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 95.º\n\nA autorização para ministrar a formação nos termos da alínea a) do n.º 1 do artigo 37.º do Regulamento da Habilitação Legal para Conduzir, aprovado pelo Decreto-Lei n.º 209/98, de 15 de Julho, só pode ser concedida a entidades não licenciadas como escolas de condução e que, de acordo com os respectivos estatutos, prossigam acções nas áreas da prevenção e da segurança rodoviárias ou de representação e defesa dos interesses dos condutores de veículos a motor."
+  },
+  "861656759": {
+   "fragment_id": "862375591",
+   "type": 11,
+   "heading": "96.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 96.º\n\nAs entidades candidatas à formação e avaliação devem apresentar, na Direcção-Geral de Viação, requerimento instruído com:\n\na) Cópia dos estatutos vigentes;\n\nb) Programa de formação e avaliação de teoria e de prática da condução de ciclomotores que deve abranger, pelo menos, as matérias constantes do anexo IV à presente portaria;\n\nc) Indicação de, pelo menos, três monitores habilitados com curso de técnicas pedagógicas de formação adequado à segurança e circulação rodoviárias."
+  },
+  "861656758": {
+   "fragment_id": "862375590",
+   "type": 11,
+   "heading": "97.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 97.º\n\nA autorização referida no n.º 95.º é concedida por despacho do director-geral de Viação, mediante ponderação da sua oportunidade de realização, bem como da idoneidade e capacidade pedagógica da requerente, atentos os requisitos referidos nos números anteriores."
+  },
+  "861656757": {
+   "fragment_id": "862375589",
+   "type": 11,
+   "heading": "98.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 98.º\n\nA entidade autorizada deve comunicar à Direcção-Geral de Viação, com a antecedência mínima de 15 dias úteis, o início de cada curso, indicando:\n\na) Datas de início e termo de cada curso e carga horária e seu horário de funcionamento;\n\nb) Localização das instalações para a ministração do curso e realização do exame."
+  },
+  "861656763": {
+   "fragment_id": "862375595",
+   "type": 11,
+   "heading": "99.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 99.º\n\nO curso de formação tem a duração mínima de quinze horas, destinando-se sete horas ao ensino de teoria e oito horas ao de prática de condução e deve ser ministrado por forma a garantir a formação e a avaliação contínuas dos instruendos."
+  },
+  "861656762": {
+   "fragment_id": "862375594",
+   "type": 11,
+   "heading": "100.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 100.º\n\nPara os efeitos do número anterior, as entidades autorizadas devem, sempre que possível, desenvolver as acções de formação em colaboração com escolas do ensino básico ou secundário onde os cursos se realizem, sendo estabelecido o grau de intervenção de cada uma no processo formativo."
+  },
+  "861656761": {
+   "fragment_id": "862375593",
+   "type": 11,
+   "heading": "101.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 101.º\n\nA Direcção-Geral de Viação reserva-se o direito de fiscalizar a formação e a avaliação realizadas pelas entidades autorizadas para o efeito."
+  },
+  "861656769": {
+   "fragment_id": "862375601",
+   "type": 11,
+   "heading": "102.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 102.º\n\nO exame previsto na alínea a) do n.º 1 do artigo 37.º do Regulamento da Habilitação Legal para Conduzir, aprovado pelo Decreto-Lei n.º 209/98, de 15 de Julho, consta de uma prova teórica e de uma prova prática."
+  },
+  "861656768": {
+   "fragment_id": "862375600",
+   "type": 11,
+   "heading": "103.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 103.º\n\nO conteúdo programático das provas teórica e prática é o constante do anexo IV à presente portaria e que dela faz parte integrante."
+  },
+  "861657693": {
+   "fragment_id": "862375599",
+   "type": 11,
+   "heading": "104.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 104.º\n\nA prova teórica consta de teste escrito em geração aleatória, sendo aplicável o disposto nos n.os 4.º, 6.º, 11.º, 12.º e 17.º a 19.º da presente portaria, com as necessárias adaptações.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656766": {
+   "fragment_id": "862375598",
+   "type": 11,
+   "heading": "105.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 105.º\n\nAs questões para elaboração do teste são preparadas pela entidade autorizada a ministrar a formação e efectuar a avaliação."
+  },
+  "861657694": {
+   "fragment_id": "862375597",
+   "type": 11,
+   "heading": "106.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 106.º\n\nA prova prática deve ser realizada em ciclomotor que obedeça às características fixadas no n.º 26.º e ter a duração mínima de vinte e cinco minutos.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656764": {
+   "fragment_id": "862375596",
+   "type": 11,
+   "heading": "107.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 107.º\n\nA emissão da licença especial de condução de ciclomotores prevista no artigo 37.º do Regulamento da Habilitação Legal para Conduzir, aprovado pelo Decreto-Lei n.º 209/98, de 15 de Julho, deve ser requerida no serviço competente da Direcção-Geral de Viação, através da entidade avaliadora, com apresentação de certificado de aptidão no exame referido no n.º 102.º acompanhado dos documentos comprovativos dos requisitos previstos nas alíneas b) a d) do n.º 1 daquele artigo."
+  },
+  "861657678": {
+   "fragment_id": "862375610",
+   "type": 11,
+   "heading": "108.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 108.º\n\nQuando o candidato a condutor for surdo-mudo, pode requerer a realização da prova teórica no sistema interactivo multimédia oralizado, com intervenção de intérprete de linguagem gestual credenciado por entidade reconhecida para o efeito e apresentado por aquele candidato."
+  },
+  "861657677": {
+   "fragment_id": "862375609",
+   "type": 11,
+   "heading": "109.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 109.º\n\nQuando o candidato a condutor for de nacionalidade estrangeira e não tiver suficiente conhecimento da língua portuguesa pode apresentar intérprete credenciado pela embaixada ou consulado do seu país de origem ou de país cuja língua oficial seja a do examinando."
+  },
+  "861657695": {
+   "fragment_id": "862375608",
+   "type": 11,
+   "heading": "110.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 110.º\n\nNo caso previsto no número anterior, o candidato deve realizar a prova teórica em sistema multimedia, tendo o tradutor acesso às questões até quatro horas antes da sua realização, a fim de proceder à tradução para a língua do examinando.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861657696": {
+   "fragment_id": "862375607",
+   "type": 11,
+   "heading": "111.º",
+   "in_force_from": "2000-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+   ],
+   "markdown": "###### 111.º\n\nEnquanto não forem aprovados os parques de manobras a que se refere o n.º 42.º deve observar-se o seguinte:\n\na) Na prova prática de automóveis devem ser realizadas em situação normal de trânsito urbano e não urbano as manobras previstas nas alíneas a) a d), f) e g), estas quando possíveis, e h) a j) do n.º 43.º;\n\nb) Na prova prática de motociclos devem ser realizadas em situação normal de trânsito urbano e não urbano as manobras previstas nas alíneas b), d) e f) do n.º 56.º, esta última quando possível, devendo ainda ser efectuadas em local que não interfira com o trânsito as referidas nas alíneas a), c), h) e i) do mesmo número;\n\nc) Às provas práticas de ciclomotores, de motociclos de cilindrada não superior a 50 cm3 e de veículos agrícolas é aplicável, com as necessárias adaptações, o disposto nas alíneas anteriores.\n\n> Alterado pelo/a [Portaria n.º 528/2000 - Diário da República n.º 173/2000, Série I-B de 2000-07-28](https://diariodarepublica.pt/dr/detalhe/portaria/528-2000-313576), em vigor a partir de 2000-08-28"
+  },
+  "861656774": {
+   "fragment_id": "862375606",
+   "type": 11,
+   "heading": "112.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 112.º\n\nA realização através de teste escrito das provas teórica e técnica do exame de condução previstas nos capítulos I e III da presente portaria tem carácter transitório, podendo ter lugar apenas nos centros de exames que não disponham de equipamento para o sistema de aplicação interactiva multimédia."
+  },
+  "861656773": {
+   "fragment_id": "862375605",
+   "type": 11,
+   "heading": "113.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 113.º\n\nPor despacho do director-geral de Viação são aprovados os modelos:\n\na) Do relatório da prova prática do exame de condução, a preencher pelo examinador;\n\nb) Da folha de respostas do teste escrito e da folha de correcção;\n\nc) Da folha a que se refere a alínea a) do n.º 84.º da presente portaria."
+  },
+  "861656772": {
+   "fragment_id": "862375604",
+   "type": 11,
+   "heading": "114.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 114.º\n\nPara os efeitos previstos na alínea a) do n.º 1 do artigo 12.º do Decreto-Lei n.º 2/98, de 3 de Janeiro, a Direcção-Geral de Viação deve fornecer às câmaras municipais os elementos necessários para a emissão das licenças de condução, incluindo o número sequencial de cada título e a identificação do respectivo titular."
+  },
+  "861656771": {
+   "fragment_id": "862375603",
+   "type": 11,
+   "heading": "115.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 115.º\n\nA presente portaria entra em vigor 10 dias após a sua publicação."
+  },
+  "861656770": {
+   "fragment_id": "862375602",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Administração Interna.\n\nAssinada em 17 de Julho de 1998.\n\nO Secretário de Estado Adjunto do Ministro da Administração Interna, Armando António Martins Vara."
+  },
+  "860745982": {
+   "fragment_id": "860683899",
+   "type": 14,
+   "heading": "Anexo I — Conteúdo programático da prova teórica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Conteúdo programático da prova teórica"
+  },
+  "860745983": {
+   "fragment_id": "860683901",
+   "type": 14,
+   "heading": "Anexo II — Conteúdo programático da prova prática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Conteúdo programático da prova prática"
+  }
+ }
+}

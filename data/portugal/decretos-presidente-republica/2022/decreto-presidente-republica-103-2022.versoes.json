@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:186029187:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2022-186307898",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/103-2022-186029187",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-07-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "186343983"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:186307877:por",
+     "title": "Declaração de Retificação n.º 17/2022",
+     "published": "2022-07-19",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/17-2022-186307877",
+     "date": "2022-07-18"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "186343983": {
+   "fragment_id": "186307899",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-07-18",
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 103/2022\n\nde 13 de julho\n\nSumário: Nomeia o ministro plenipotenciário de 2.ª classe Nuno Vaultier Mathias para o cargo de Embaixador de Portugal não residente no Iémen\n\nO Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:\n\nÉ nomeado, sob proposta do Governo, o ministro plenipotenciário de 2.ª classe Nuno Vaultier Mathias como Embaixador de Portugal não residente no Iémen."
+  }
+ }
+}

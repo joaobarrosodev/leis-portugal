@@ -1,0 +1,238 @@
+---
+schema_version: '1.0'
+id: pt:dre:452001:por
+title: Portaria n.º 684/83
+short_title: null
+summary: Aprova as tarifas de transporte aéreo de passageiros e carga a praticar nos serviços regulares entre o continente
+  e a Região Autónoma da Madeira e entre esta Região e a Região Autónoma dos Açores. Revoga a Portaria n.º 955/82, de 9 de
+  Outubro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes
+proposing_entity: null
+official_number: 684/83
+official_date: null
+publication_date: '1983-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/1983, Série I de 1983-06-18
+  number: '138'
+  series: I
+  supplement: null
+  pages: 2162 - 2164
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '452001'
+  dre_path: /dr/detalhe/portaria/684-1983-452001
+  internal: pt:dre:452001:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-1983-452001
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-1983-452001
+  consolidated_url: null
+  retrieved_at: '2026-10-23T07:46:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 81e7e46769947ad3e8457576bf04f921fc2b5330bfd9bd471bcc7cc6ee625c18
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T07:46:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Madeira.região Autónoma
+- Preço
+- TAP
+- Transporte Aéreo
+- Transporte de Carga
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: pt:dre:376595:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:376596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:393621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:502786:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:560231:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T07:46:18Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 684/83
+
+de 18 de Junho
+
+1. No acordo de saneamento económico financeiro (ASEF) celebrado entre o Estado e a TAP ficou estabelecido que apenas fossem atribuídas indemnizações compensatórias à exploração das rotas dos Açores e da Madeira, na medida em que não se considera aceitável, nas actuais condições de desenvolvimento relativo das duas Regiões Autónomas, a prática de tarifas comerciais de equilíbrio senão para além de níveis de procura que o Estado definirá anualmente. No entanto, encontra-se igualmente previsto no citado acordo que as propostas tarifárias, bem como a fixação das indemnizações compensatórias, visem a gradual redução da parte dos custos coberta por estas indemnizações.
+
+2. Neste contexto, e tendo em conta os aumentos dos custos de exploração das ligações em causa desde a última actualização, para o que tem contribuído, além dos elevados níveis de inflação nacional, o facto de uma percentagem considerável dos custos ser expressa em dólares dos EUA, bem como uma avaliação mais correcta das necessidades do mercado, foi decidido proceder à actualização das tarifas de passageiros e carga e a uma revisão da estrutura actual das tarifas especiais de carga. Para as ligações entre os Açores e a Madeira foi também aplicado o regime de «tarifa comum dos Açores», introduzido pela [Portaria n.º 954/82](https://diariodarepublica.pt/dr/detalhe/portaria/954-1982-376595), de 9 de Outubro, entre o continente e os Açores.
+
+Assim, e após consulta prévia aos órgãos de Governo próprio da Região Autónoma da Madeira:
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes, ao abrigo do disposto no [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, e nos termos do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, na redacção dada pelo [Decreto-Lei n.º 25/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1979-393621), de 15 de Fevereiro, o seguinte:
+
+1.º São aprovadas as tarifas de transporte aéreo de passageiros a praticar nos serviços regulares das linhas a seguir especificadas:
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf)
+
+2.º Não são permitidas paragens voluntárias (stop-overs) no Funchal ou em Porto Santo, excepto para passageiros de tarifa normal.
+
+3.º Estas tarifas são combináveis entre si e com outras tarifas domésticas aprovadas para transporte aéreo regular, desde que os seus termos assim o permitam; de acordo com as regras internacionalmente aceites, são permitidas viagens tipo circular e de ida e volta do tipo open jaw simples.
+
+4.º Não são permitidos quaisquer descontos sobre estas tarifas, excepto as de criança e de bebé, que pagarão respectivamente 50% e 10% da tarifa aplicável nas condições internacionalmente estabelecidas para este tipo de tráfego.
+
+Aos jornalistas profissionais é concedido um desconto de 50% sobre a respectiva tarifa normal aplicável, com direito a reserva, desde que para o efeito apresentem prova actualizada, oficialmente reconhecida, da sua profissão, cuja referência deverá constar do bilhete.
+
+5.º A aplicação das tarifas de excursão só é permitida em viagens de duração compreendida entre 6 dias e 1 mês, excepto no caso de grupos desportivos que se desloquem no exercício da sua actividade, caso em que serão permitidas durações inferiores. Para este efeito, a entidade requerente, de acordo com as normas em vigor, deverá oficializar a condição de grupo ou associação desportiva, a fim de que possa ser ignorada a observância de estada mínima deste tipo de tarifa. O número mínimo de elementos que formam o grupo pode incluir passageiros ligados ao grupo a quem tenha sido aplicada a tarifa de residente (sujeita às suas condições), desde que sejam cumpridas as restantes condições para a formação do grupo.
+
+6.º Para outras condições que não sejam especialmente indicadas são aplicadas as regras internacionais já aprovadas.
+
+7.º A aplicação das tarifas para cidadãos portugueses residentes na Madeira ficará sujeita às condições especificadas no anexo I a esta portaria.
+
+8.º Fica revogada a [Portaria n.º 955/82](https://diariodarepublica.pt/dr/detalhe/portaria/955-1982-376596), de 9 de Outubro.
+
+9.º São aprovadas igualmente as seguintes tarifas para a carga transportada por via aérea nos sectores abaixo especificados (preços expressos por quilograma):
+
+Lisboa-Funchal ou Porto Santo, ou vice-versa:
+
+Mínimo de cobrança ... 330$00
+
+Tarifa normal (menos de 45 kg) ... 52$00
+
+Tarifa de 45 kg ... 39$00
+
+Funchal-Porto Santo, ou vice-versa:
+
+Mínimo de cobrança ... 165$00
+
+Tarifa normal (menos de 45 kg) ... 12$00
+
+Tarifa de 45 kg ... 11$00
+
+Funchal ou Porto Santo-Ponta Delgada, ou vice-versa:
+
+Mínimo de cobrança ... 330$00
+
+Tarifa normal (menos de 45 kg) ... 52$00
+
+Tarifa de 45 kg ... 39$00
+
+10.º O esquema tarifário para a carga transportada entre o continente e a Madeira comporta igualmente tarifas especiais, que se encontram especificadas no anexo II a esta portaria e que dela faz parte integrante.
+
+11.º Nas ligações entre Porto ou Faro e o arquipélago da Madeira deverão ser aplicados os valores tarifários gerais e especiais praticados de ou para Lisboa, com o adicional de 4$00/kg.
+
+12.º Esta portaria entra em vigor 10 dias após a sua publicação no Diário da República.
+
+Ministérios das Finanças e do Plano, da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas e Transportes.
+
+Assinada em 25 de Maio de 1983.
+
+Pelo Ministro de Estado e das Finanças e do Plano, José Cândido Sousa Carrusca Robin de Andrade, Secretário de Estado das Finanças. - Pelo Ministro da Agricultura, Comércio e Pescas, António Escaja Gonçalves, Secretário de Estado do Comércio. - O Ministro da Habitação, Obras Públicas e Transportes, José Carlos Pinto Soromenho Viana Baptista.
+
+## ANEXO I — Condições de aplicação da tarifa para cidadãos portugueses residentes na Madeira
+
+Área de aplicação:
+
+Da Madeira para Lisboa, Porto e Faro, em serviços da TAP.
+
+Aplicação:
+
+Tarifas de ida e volta em classe económica para viagens com origem na Madeira.
+
+Período de aplicação:
+
+Estas tarifas são aplicáveis durante todo o ano.
+
+Validade do bilhete e código de emissão:
+
+Mínimo de estada - não referido.
+
+Máximo de estada - 1 ano.
+
+Código de emissão:
+
+Espaço fare basis - residente.
+
+Espaço not transferable - residente (seguido do número fiscal de contribuinte e do respectivo bilhete de identidade ou cédula pessoal).
+
+Venda e publicidade:
+
+A venda e publicidade destas tarifas é limitada à respectiva área de origem. (V. Elegibilidade.)
+
+Combinações:
+
+Só permitidas como tarifas domésticas da TAP.
+
+Descontos:
+
+Aplicam-se apenas os habituais descontos de criança e de bebé.
+
+Elegibilidade:
+
+São elegíveis para esta tarifa todos os cidadãos de nacionalidade portuguesa residentes há, pelo menos, 6 meses na Madeira, para viagens de ida e volta iniciadas neste arquipélago, que à data da emissão e pagamento do bilhete comprovem esta situação. (V. Documentação.)
+
+Documentação:
+
+Na altura da emissão e pagamento do bilhete, os passageiros devem preencher e entregar o formulário modelo n.º 2075 e exibir o respectivo cartão de contribuinte, ou o impresso relativo ao número provisório, e o bilhete de identidade ou cédula pessoal. Se o passageiro ainda não estiver registado como contribuinte, deverá entregar, na altura da emissão e pagamento do bilhete, atestado da junta de freguesia comprovativo da sua residência permanente há, pelo menos, 6 meses, guardando para si cópia do mesmo, que exibirá quando do embarque, reservando-se o transportador o direito de o verificar em qualquer altura, designadamente para efeitos de recusa de transporte. (O atestado de residência terá, para este efeito, a validade de 6 meses.)
+
+Os passageiros menores poderão, alternativamente, exibir, na altura da emissão do bilhete, o cartão de contribuinte ou o atestado de residência de um dos pais.
+
+Os passageiros com menos de 6 meses de residência que se encontrem vinculados por um contrato de trabalho com duração não inferior a 1 ano, celebrado com entidade patronal domiciliada na região, deverão exibir, na altura da emissão do bilhete, um duplicado ou cópia autenticada do mesmo contrato ou documento passado pela entidade patronal comprovativo daquela situação. Os membros dos Governos Regionais e os indivíduos requisitados por esses Governos para serviço nas regiões autónomas, ainda que não residentes há 6 meses na região, poderão igualmente beneficiar da tarifa de residente, bastando para tal que o documento oficial de requisição da passagem refira essa situação.
+
+Elementos das Forças Armadas, Guarda Fiscal, Guarda Nacional Republicana e Polícia de Segurança Pública, quando deslocados em comissão de serviço na região, são igualmente elegíveis, mediante apresentação de documento devidamente autenticado pela unidade de comando a que pertençam comprovativo de residência há mais de 6 meses.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf)
+
+## ANEXO II — Tarifas especiais de carga entre o continente e a Região Autónoma da Madeira e entre esta e a Região Autónoma dos Açores
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/13800/21622164.pdf)

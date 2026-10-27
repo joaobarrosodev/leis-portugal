@@ -1,0 +1,258 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:140431164:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-164866413",
+ "dre_path": "/dr/detalhe/lei/38-2020-140431164",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-08-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215603915",
+    "164866139",
+    "164866140",
+    "164866141",
+    "164866142",
+    "164866143",
+    "164866144",
+    "164866145"
+   ]
+  },
+  {
+   "date": "2021-06-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164798790:por",
+     "title": "Lei n.º 35/2021",
+     "published": "2021-06-08",
+     "dre_path": "/dr/detalhe/lei/35-2021-164798790"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "164866138",
+    "164866139",
+    "164866140",
+    "164866141",
+    "164866148",
+    "164866147",
+    "164866144",
+    "164866145",
+    "164866146"
+   ]
+  },
+  {
+   "date": "2023-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215097639:por",
+     "title": "Lei n.º 31/2023",
+     "published": "2023-07-04",
+     "dre_path": "/dr/detalhe/lei/31-2023-215097639"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "215603915",
+    "215603916",
+    "215603917",
+    "215603918",
+    "215603919",
+    "215603920",
+    "215603921",
+    "215603922",
+    "215603923"
+   ]
+  }
+ ],
+ "fragments": {
+  "215603915": {
+   "fragment_id": "164866414",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-05",
+   "changed_by": [],
+   "markdown": "Lei n.º 38/2020\n\nde 18 de agosto\n\nSumário: Medidas excecionais e temporárias para salvaguarda dos direitos dos trabalhadores e estudantes do ensino superior público.\n\nMedidas excecionais e temporárias para salvaguarda dos direitos dos trabalhadores e estudantes do ensino superior público\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "164866139": {
+   "fragment_id": "164866415",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova um conjunto de medidas excecionais e temporárias para salvaguarda dos direitos dos trabalhadores e estudantes do ensino superior e no Sistema Científico e Tecnológico Nacional."
+  },
+  "164866140": {
+   "fragment_id": "164866416",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA presente lei aplica-se às instituições do ensino superior público.\n\n> Nota: [Artigo 6.º, Lei n.º 35/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/35-2021-164798790) Compete ao Governo a criação de condições para que o previsto no artigo 2.º produza efeitos em 2021, considerando a disponibilidade orçamental para o ano económico de 2021, incluindo a possibilidade de recurso a financiamento comunitário."
+  },
+  "164866141": {
+   "fragment_id": "164866417",
+   "type": 11,
+   "heading": "Artigo 3.º — Direito ao gozo de férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direito ao gozo de férias\n\nQualquer alteração ao calendário letivo, ou ao fim dos prazos no caso dos projetos de investigação científica, tem devidamente em conta o direito ao gozo férias por parte de todos os trabalhadores docentes e não docentes, investigadores e estudantes."
+  },
+  "164866142": {
+   "fragment_id": "164866418",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nProrrogação do prazo para entrega de teses no âmbito do regime de transitório no ensino superior politécnico\n\n1 - É prorrogado, por um semestre letivo, o prazo para a entrega de teses, ao abrigo do regime transitório previsto no Decreto-Lei n.º 45/2016, de 17 de agosto, alterado pela Lei n.º 65/2017, de 9 de agosto, até à cessação das medidas excecionais e temporárias de resposta à pandemia de SARS-CoV-2.\n\n2 - O adiamento da entrega de teses previsto no número anterior não obriga ao pagamento adicional de propinas, taxas ou emolumentos."
+  },
+  "164866143": {
+   "fragment_id": "164866419",
+   "type": 11,
+   "heading": "Artigo 5.º — Acesso a avaliações e regime de prescrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acesso a avaliações e regime de prescrições\n\n1 - No ano letivo de 2019-2020, todos os estudantes devem ter acesso a todas as épocas de exames, em moldes a definir pelas instituições de ensino superior, designadamente em relação à inscrição para a época especial.\n\n2 - Deve privilegiar-se, sempre que possível, a avaliação presencial, tendo em consideração as especificidades de transporte, nomeadamente no que respeita aos estudantes provenientes das regiões autónomas e aos estudantes internacionais.\n\n3 - O ano letivo de 2019-2020 não é considerado para efeitos de contabilização do prazo de prescrição."
+  },
+  "164866144": {
+   "fragment_id": "164866420",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidaturas a ciclos de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Candidaturas a ciclos de estudos\n\n1 - As candidaturas em ciclo de estudo para a obtenção de mestrado ou doutoramentos podem, excecionalmente, ser realizadas sem a conclusão do ciclo de estudos anteriores e durante o período de tempo necessário para a conclusão do mesmo.\n\n2 - A admissão no ciclo de estudos a que o estudante se candidata é condicional, passando a definitiva no momento da conclusão do ciclo de estudos anterior.\n\n3 - Os estudantes que beneficiem do direito previsto no n.º 1 não podem ser prejudicados nos procedimentos de seriação e candidatura em ciclo de estudo para a obtenção de mestrado ou doutoramento."
+  },
+  "164866145": {
+   "fragment_id": "164866421",
+   "type": 11,
+   "heading": "Artigo 7.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vigência\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e vigora enquanto se mantiverem em vigor as medidas excecionais e temporárias de resposta à pandemia de SARS-CoV-2."
+  },
+  "164866138": {
+   "fragment_id": "164866414",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 38/2020\n\nde 18 de agosto\n\nSumário: Medidas excecionais e temporárias para salvaguarda dos direitos dos trabalhadores e estudantes do ensino superior público.\n\nMedidas excecionais e temporárias para salvaguarda dos direitos dos trabalhadores e estudantes do ensino superior público\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "164866148": {
+   "fragment_id": "164866418",
+   "type": 11,
+   "heading": "Artigo 4.º — Prorrogação do prazo para entrega de teses no âmbito do regime de transitório no ensino superior politécnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prorrogação do prazo para entrega de teses no âmbito do regime de transitório no ensino superior politécnico\n\n1 - É prorrogado, por um semestre letivo, o prazo para a entrega de teses, ao abrigo do regime transitório previsto no Decreto-Lei n.º 45/2016, de 17 de agosto, alterado pela Lei n.º 65/2017, de 9 de agosto, até à cessação das medidas excecionais e temporárias de resposta à pandemia de SARS-CoV-2.\n\n2 - O adiamento da entrega de teses previsto no número anterior não obriga ao pagamento adicional de propinas, taxas ou emolumentos."
+  },
+  "164866147": {
+   "fragment_id": "164866419",
+   "type": 11,
+   "heading": "Artigo 5.º — Acesso a avaliações e regime de prescrições",
+   "in_force_from": "2021-06-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 35/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/35-2021-164798790), em vigor a partir de 2021-06-09"
+   ],
+   "markdown": "###### Artigo 5.º — Acesso a avaliações e regime de prescrições\n\n1 - Nos anos letivos de 2019-2020 e 2020-2021, todos os estudantes devem ter acesso a todas as épocas de exames, em moldes a definir pelas instituições de ensino superior, designadamente em relação à inscrição para a época especial.\n\n2 - Deve privilegiar-se, sempre que possível, a avaliação presencial, tendo em consideração as especificidades de transporte, nomeadamente no que respeita aos estudantes provenientes das regiões autónomas e aos estudantes internacionais.\n\n3 - Os anos letivos de 2019-2020 e 2020-2021 não são considerados para efeitos de contabilização do prazo de prescrição.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 35/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/35-2021-164798790), em vigor a partir de 2021-06-09"
+  },
+  "164866146": {
+   "fragment_id": "164866422",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 10 de julho de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 10 de agosto de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 12 de agosto de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113492116"
+  },
+  "215603916": {
+   "fragment_id": "164866415",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova um conjunto de medidas excecionais e temporárias para salvaguarda dos direitos dos trabalhadores e estudantes do ensino superior e no Sistema Científico e Tecnológico Nacional.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215603917": {
+   "fragment_id": "164866416",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA presente lei aplica-se às instituições do ensino superior público.\n\n> Nota: [Artigo 6.º, Lei n.º 35/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/35-2021-164798790) Compete ao Governo a criação de condições para que o previsto no artigo 2.º produza efeitos em 2021, considerando a disponibilidade orçamental para o ano económico de 2021, incluindo a possibilidade de recurso a financiamento comunitário.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215603918": {
+   "fragment_id": "164866417",
+   "type": 11,
+   "heading": "Artigo 3.º — Direito ao gozo de férias",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Direito ao gozo de férias\n\nQualquer alteração ao calendário letivo, ou ao fim dos prazos no caso dos projetos de investigação científica, tem devidamente em conta o direito ao gozo férias por parte de todos os trabalhadores docentes e não docentes, investigadores e estudantes.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215603919": {
+   "fragment_id": "164866418",
+   "type": 11,
+   "heading": "Artigo 4.º — Prorrogação do prazo para entrega de teses no âmbito do regime de transitório no ensino superior politécnico",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 4.º — Prorrogação do prazo para entrega de teses no âmbito do regime de transitório no ensino superior politécnico\n\n1 - É prorrogado, por um semestre letivo, o prazo para a entrega de teses, ao abrigo do regime transitório previsto no Decreto-Lei n.º 45/2016, de 17 de agosto, alterado pela Lei n.º 65/2017, de 9 de agosto, até à cessação das medidas excecionais e temporárias de resposta à pandemia de SARS-CoV-2.\n\n2 - O adiamento da entrega de teses previsto no número anterior não obriga ao pagamento adicional de propinas, taxas ou emolumentos.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215603920": {
+   "fragment_id": "164866419",
+   "type": 11,
+   "heading": "Artigo 5.º — Acesso a avaliações e regime de prescrições",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 35/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/35-2021-164798790), em vigor a partir de 2021-06-09"
+   ],
+   "markdown": "###### Artigo 5.º — Acesso a avaliações e regime de prescrições\n\n1 - Nos anos letivos de 2019-2020 e 2020-2021, todos os estudantes devem ter acesso a todas as épocas de exames, em moldes a definir pelas instituições de ensino superior, designadamente em relação à inscrição para a época especial.\n\n2 - Deve privilegiar-se, sempre que possível, a avaliação presencial, tendo em consideração as especificidades de transporte, nomeadamente no que respeita aos estudantes provenientes das regiões autónomas e aos estudantes internacionais.\n\n3 - Os anos letivos de 2019-2020 e 2020-2021 não são considerados para efeitos de contabilização do prazo de prescrição.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 35/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/35-2021-164798790), em vigor a partir de 2021-06-09"
+  },
+  "215603921": {
+   "fragment_id": "164866420",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidaturas a ciclos de estudos",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 6.º — Candidaturas a ciclos de estudos\n\n1 - As candidaturas em ciclo de estudo para a obtenção de mestrado ou doutoramentos podem, excecionalmente, ser realizadas sem a conclusão do ciclo de estudos anteriores e durante o período de tempo necessário para a conclusão do mesmo.\n\n2 - A admissão no ciclo de estudos a que o estudante se candidata é condicional, passando a definitiva no momento da conclusão do ciclo de estudos anterior.\n\n3 - Os estudantes que beneficiem do direito previsto no n.º 1 não podem ser prejudicados nos procedimentos de seriação e candidatura em ciclo de estudo para a obtenção de mestrado ou doutoramento.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215603922": {
+   "fragment_id": "164866421",
+   "type": 11,
+   "heading": "Artigo 7.º — Vigência",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 7.º — Vigência\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e vigora enquanto se mantiverem em vigor as medidas excecionais e temporárias de resposta à pandemia de SARS-CoV-2.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215603923": {
+   "fragment_id": "164866422",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "Aprovada em 10 de julho de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 10 de agosto de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 12 de agosto de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113492116\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  }
+ }
+}

@@ -1,0 +1,172 @@
+---
+schema_version: '1.0'
+id: pt:dre:901014300:por
+title: Portaria n.º 929-C/2024/2
+short_title: null
+summary: Autorização à Autoridade Nacional de Segurança Rodoviária para realizar a despesa relativa à aquisição de prestação
+  de serviços de componente jurídica e administrativa para suporte das fases de decisão e pós decisão administrativa, do processo
+  contraordenacional tramitado e decidido na Autoridade Nacional de Segurança Rodoviária.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Administração Interna - Gabinete do Secretário de Estado Adjunto e do Orçamento e Gabinete do Secretário de Estado
+  da Proteção Civil
+proposing_entity: null
+official_number: 929-C/2024/2
+official_date: null
+publication_date: '2024-12-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 247/2024, Suplemento, Série II de 2024-12-20
+  number: '247'
+  series: II
+  supplement: null
+  pages: 2 - 3
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/12/247000003/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '901014300'
+  dre_path: /dr/detalhe/portaria/929-c-2024-901014300
+  internal: pt:dre:901014300:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/929-c-2024-901014300
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/929-c-2024-901014300
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:57:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 684e1cf0dd7df9afbd9a86036b817ab849b6ec87865786852f6b9094706b3341
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:57:10Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio Administrativo
+- Aquisição de Bens e Serviços
+- Autoridade Nacional de Segurança Rodoviária
+- Contrato de Prestação de Serviços
+- Despesas Públicas
+- Serviço Jurídico
+relationships:
+- type: cites
+  target: pt:dre:107014815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:124074988:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:248178:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:553608:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:869421919:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:870819244:por
+  label: null
+  source: null
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:57:10Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 929-C/2024/2
+
+A Autoridade Nacional de Segurança Rodoviária, abreviadamente designada por ANSR, é um serviço central da administração direta do Estado, dotado de autonomia administrativa, nos termos do artigo 1.º do [Decreto Regulamentar n.º 28/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-2012-553608), de 12 de março, tem por missão o planeamento e coordenação a nível nacional de apoio à política do Governo em matéria de segurança rodoviária, bem como a aplicação do direito contraordenacional rodoviário.
+
+Decorrente da estrutura orgânica da ANSR, aprovada pela [Portaria n.º 163/2017](https://diariodarepublica.pt/dr/detalhe/portaria/163-2017-107014815), de 16 de maio, compete à Unidade de Fiscalização de Trânsito e Contraordenações (UFTC), entre outras, assegurar a instrução dos processos de contraordenação e a proposta de decisão.
+
+Através do [Despacho n.º 7348/2019](https://diariodarepublica.pt/dr/detalhe/despacho/7348-2019-124074988), de 20 de agosto, foram definidas as unidades orgânicas flexíveis da ANSR, bem como as suas correspondentes atribuições e competências, e o seu enquadramento na estrutura das unidades orgânicas nucleares desta Autoridade. Nos termos do n.º 20, do Despacho citado no parágrafo anterior, foi criada a Divisão de Fiscalização e Processamento Contraordenacional (DFPC) que possui juristas com delegação de competências para a instrução e decisão, em número manifestamente insuficiente para a boa execução da multiplicidade das competências cometidas em geral à Unidade de Fiscalização de Trânsito e, em especial, à Divisão de Fiscalização e Processamento Contraordenacional.
+
+Com a entrada em funcionamento dos novos radares, o número de processos de contraordenação a tramitar na ANSR sofreu um acréscimo, o que acentua a incapacidade da ANSR tramitar todos os processos em tempo útil. A UFTC depara-se com acentuada carência de juristas/decisores, sendo que os recursos afetos à DFPC são claramente insuficientes para o adequando tratamento dos processos de contraordenação até e após a prolação da decisão administrativa.
+
+A instrução e decisão dos processos de contraordenação tem de ser célere para que se possa atingir níveis mais elevados de eficiência e eficácia do processamento contraordenacional, de aumento do sucesso da cobrança e reforço do efeito das sanções aplicadas pelo aumento da garantia da sua execução coerciva e, sobretudo, contribuir para a alteração de comportamentos de risco.
+
+Tendo em vista a otimização de recursos e diminuição de erros, há que proceder, ao abrigo do regime previsto no Código dos Contratos Públicos, aprovado pelo [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, à aquisição de prestação de serviços de componente jurídica e administrativa para suporte das fases de decisão e pós decisão administrativa, do processo contraordenacional tramitado e decidido na ANSR, cuja despesa corresponde ao montante máximo global de 360 895,00 € (trezentos e sessenta mil oitocentos e noventa e cinco euros), acrescido de IVA à taxa legal em vigor.
+
+Assim:
+
+Considerando que, as despesas que deem lugar a encargos orçamentais em mais do que um ano económico ou em ano que não seja o da sua realização não podem ser efetivadas sem prévia autorização conferida por portaria conjunta da área governativa das finanças e da tutela nos termos do disposto no artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, e no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, manda o Governo, pelo Secretário de Estado Adjunto e do Orçamento, no uso das competências delegadas, nos termos da alínea c) do n.º 3 do [Despacho n.º 6837-B/2024](https://diariodarepublica.pt/dr/detalhe/despacho/6837-b-2024-869421919), de 14 de junho, publicado no Diário da República, 2.ª série, n.º 117, de 19 de junho de 2024, e pelo Secretário de Estado da Proteção Civil, no uso das competências delegadas, nos termos da alínea e) do n.º 4 do ponto I do [Despacho n.º 7270/2024](https://diariodarepublica.pt/dr/detalhe/despacho/7270-2024-870819244), de 21 de junho, publicado no Diário da República, 2.ª série, n.º 128, de 4 de julho de 2024, o seguinte:
+
+###### Artigo 1.º
+
+Fica a ANSR autorizada a realizar a despesa relativa à aquisição de prestação de serviços de componente jurídica e administrativa para suporte das fases de decisão e pós decisão administrativa, do processo contraordenacional tramitado e decidido na ANSR, até ao montante máximo global de 360 895,00 € (trezentos e sessenta mil oitocentos e noventa e cinco euros), acrescido de IVA à taxa legal em vigor.
+
+###### Artigo 2.º
+
+Os encargos financeiros resultantes da aquisição referida no artigo anterior não podem, em cada ano económico, exceder os seguintes montantes, aos quais acresce o valor do IVA nos termos legais aplicáveis:
+
+Ano 2024: 72 179,00 €;
+
+Ano 2025: 288 716,00 €.
+
+###### Artigo 3.º
+
+O montante fixado para cada ano económico poderá ser acrescido do saldo apurado na execução orçamental do ano anterior.
+
+###### Artigo 4.º
+
+Os encargos financeiros decorrentes da presente portaria serão satisfeitos por conta das verbas inscritas e a inscrever no orçamento da ANSR.
+
+###### Artigo 5.º
+
+A presente portaria produz efeitos a partir da data da sua publicação.
+
+20 de dezembro de 2024. - O Secretário de Estado Adjunto e do Orçamento, José Maria Gonçalves Pereira Brandão de Brito. - 3 de dezembro de 2024. - O Secretário de Estado da Proteção Civil, Paulo Jorge Simões Ribeiro.
+
+318500702

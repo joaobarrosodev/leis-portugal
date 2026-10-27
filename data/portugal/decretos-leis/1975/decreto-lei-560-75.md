@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:312242:por
+title: Decreto-Lei n.º 560/75
+short_title: null
+summary: Estabelece normas sobre o regime de requisição de funcionários para instituições de previdência - Revoga o § 1.º
+  do artigo 14.º do Decreto-Lei n.º 26757, de 8 de Julho de 1936
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Administração Interna, para o Planeamento e Coordenação Económica, das Finanças e dos Assuntos Sociais
+proposing_entity: null
+official_number: 560/75
+official_date: null
+publication_date: '1975-10-02'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 228/1975, Série I de 1975-10-02
+  number: '228'
+  series: I
+  supplement: null
+  pages: 1528 - 1529
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/10/22800/15281529.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '312242'
+  dre_path: /dr/detalhe/decreto-lei/560-1975-312242
+  internal: pt:dre:312242:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1975-312242
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1975-312242
+  consolidated_url: null
+  retrieved_at: '2026-10-22T22:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5df99b2eb097087519aaa4d53afbc89112848b709c9482e5e4d76efe46c1c344
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T22:45:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Funcionário Público
+- Instituições de Previdência Social
+- Organismos de Coordenação Económica
+- Requisição de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:360758:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122434535:por
+  label: Revogado, a partir de 03.06.2019, pelo(a) Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/36-2019-122434535
+  date: '2019-05-29'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T22:45:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 560/75
+
+de 2 de Outubro
+
+O [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758), de 8 de Julho de 1936, ao conferir aos funcionários civis do Estado a possibilidade de serem providos nos quadros directivos dos organismos de coordenação económica, criou, para tanto, o regime de requisição.
+
+Posteriormente os Decretos-Leis n.os 37743 e 41890, respectivamente de 23 de Janeiro de 1950 e de 30 de Setembro de 1958, tornaram aquele regime extensivo ao provimento de cargos directivos das instituições de previdência social, as quais passaram, deste modo, a ter os seus cargos de presidente e vice-presidente preenchidos, na maioria, por funcionários públicos para ali destacados por despacho ministerial.
+
+Após o dia 25 de Abril de 1974 tem-se verificado a cessação de funções de membros das direcções de instituições de previdência, que são funcionários públicos providos naqueles lugares em regime de requisição.
+
+Considerando a inexistência de vagas nos quadros donde provieram os funcionários acima referidos e a obrigatoriedade que, nos termos legais, impede sobre o organismo requisitante de continuar, nesta hipótese, a abonar os vencimentos, torna-se necessária a reformulação do mencionado regime de requisição de modo a impedir um acréscimo de encargos financeiros para a Previdência sem a respectiva contrapartida de trabalho produtivo.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+Artigo 1.º - 1. A requisição de funcionários, nos termos do [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758), de 8 de Julho de 1936, dá origem à abertura de vaga nos quadros de que provenham.
+
+2. Os funcionários requisitados podem, a todo o tempo, regressar ao serviço de origem, se assim o requererem, por decisão ministerial ou por virtude da extinção do organismo por quem tenham sido requisitados, ficando a prestar serviço além do quadro se não houver vaga da respectiva categoria.
+
+3. Podem, ainda, os referidos funcionários, no caso previsto na parte final do número anterior, ser destacados, mediante despacho ministerial, para qualquer serviço ou organismo do mesmo Ministério, a quem competirá o encargo dos respectivos vencimentos.
+
+4. Os vencimentos dos funcionários a quem tenha sido interrompida a requisição e que tenham passado à situação de aguardar a aposentação serão suportados pelo serviço para onde tenham sido destacados ou pelo serviço de origem, no caso de não se ter verificado o destacamento previsto no número anterior.
+
+Art. 2.º - 1. A revelar-se inviável qualquer das hipóteses previstas nos n.os 2 e 3 do artigo 1.º, passarão os funcionários à condição de adidos, sendo-lhes aplicável o regime de remuneração e colocação previsto na legislação referente a excedentes de pessoal.
+
+2. Serão satisfeitas pela Direcção-Geral da Função Pública as remunerações do pessoal enquanto na situação de aguardar colocação.
+
+Art. 3.º - 1. O disposto nos artigos anteriores aplica-se a todas as requisições realizadas anteriormente à data da entrada em vigor do presente decreto-lei e aos funcionários que na mesma data se encontrem a aguardar colocação no seu quadro de origem.
+
+2. Os vencimentos em atraso devidos aos funcionários a quem tenha sido interrompida a requisição e que, até à data da entrada em vigor deste decreto-lei, não tenham passado a qualquer das situações previstas nos artigos anteriores serão obrigatoriamente suportados pelos respectivos serviços de origem.
+
+Art. 4.º Fica revogado o § 1.º do artigo 14.º do [Decreto-Lei n.º 26757](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26757-1936-360758), de 8 de Julho de 1936.
+
+Art. 5.º O Ministério das Finanças tomará as providências necessárias à boa execução do presente diploma.
+
+Art. 6.º - 1. Este diploma entra imediatamente em vigor.
+
+2. As dúvidas que possa suscitar a aplicação do presente decreto-lei serão resolvidas por despacho conjunto dos Ministros competentes.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Alfredo António Cândido de Moura - Mário Luís da Silva Murteira - José Joaquim Fragoso - Francisco José Cruz Pereira de Moura.
+
+Promulgado em 19 de Setembro de 1975.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.

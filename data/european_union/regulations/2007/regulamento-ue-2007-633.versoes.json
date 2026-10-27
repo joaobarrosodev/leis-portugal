@@ -1,0 +1,301 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32007R0633:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02007R0633-20231005",
+ "dre_path": null,
+ "source_lastmod": "2023-10-05",
+ "versions": [
+  {
+   "date": "2007-06-08",
+   "future": false,
+   "celex": "32007R0633",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fa7be4bff5c86526",
+    "2861506bfbc5ec1c",
+    "a6dadf6867ea1966",
+    "5084e44433ffe729",
+    "dd41473a8fc49d48",
+    "b33eed39a9e46f1b",
+    "f1909ffb2ced261b",
+    "f7eb2b60ae28214c",
+    "639400403fe2a41b",
+    "be2c9dd1c6d80e11"
+   ]
+  },
+  {
+   "date": "2011-04-12",
+   "future": false,
+   "celex": "02007R0633-20110412",
+   "acts": [
+    {
+     "id": "eu:celex:32011R0283:por",
+     "title": "Regulamento (UE) n. o 283/2011 da Comissão de 22 de Março de 2011",
+     "published": null,
+     "celex": "32011R0283"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 7.º — Disposições transitórias",
+    "Altera Artigo 8.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Requisitos de interoperabilidade referidos no artigo 3.º",
+    "Adita ANEXO II",
+    "Adita Requisitos para apreciação da conformidade dos componentes realizada nos termos do artigo 4.º",
+    "Adita ANEXO III",
+    "Adita Condições previstas no artigo 5.º",
+    "Adita ANEXO IV",
+    "Adita Parte A: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 1 do artigo 5.º",
+    "Adita Parte B: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 2 do artigo 5.º"
+   ],
+   "fragments": [
+    "a995ed92ba501a4d",
+    "2861506bfbc5ec1c",
+    "a6dadf6867ea1966",
+    "5084e44433ffe729",
+    "dd41473a8fc49d48",
+    "b33eed39a9e46f1b",
+    "f1909ffb2ced261b",
+    "d62001f34e26aaf1",
+    "52ec773f3ce90aaf",
+    "d664376e2a8dcecd",
+    "f2a493e3c8ff740c",
+    "852174729551523b",
+    "2d99a76c128012aa",
+    "720af75c92791b10",
+    "9927c72935cbde93",
+    "e03a0eb4d5b2eef3",
+    "868bb88182990f5c",
+    "2c11772fe875dca4",
+    "3bba17214e49f176"
+   ]
+  },
+  {
+   "date": "2023-10-05",
+   "future": false,
+   "celex": "02007R0633-20231005",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objecto e âmbito de aplicação",
+    "Suprime Artigo 2.º — Definições",
+    "Suprime Artigo 3.º — Aplicação do protocolo de transferência de mensagens de voo",
+    "Suprime Artigo 4.º — Declaração de conformidade dos componentes",
+    "Suprime Artigo 5.º — Verificação de sistemas",
+    "Suprime Artigo 6.º — Cumprimento",
+    "Suprime Artigo 7.º — Disposições transitórias",
+    "Suprime Artigo 8.º — Entrada em vigor e aplicação",
+    "Suprime ANEXO I",
+    "Suprime Requisitos de interoperabilidade referidos no artigo 3.º",
+    "Suprime ANEXO II",
+    "Suprime Requisitos para apreciação da conformidade dos componentes realizada nos termos do artigo 4.º",
+    "Suprime ANEXO III",
+    "Suprime Condições previstas no artigo 5.º",
+    "Suprime ANEXO IV",
+    "Suprime Parte A: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 1 do artigo 5.º",
+    "Suprime Parte B: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 2 do artigo 5.º",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "5c52c0f11aa7a53c"
+   ]
+  }
+ ],
+ "fragments": {
+  "fa7be4bff5c86526": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Junho de 2007\n\nque estabelece requisitos para a aplicação de um protocolo de transferência de mensagens de voo utilizado para efeitos de notificação, coordenação e transferência de voos entre órgãos de controlo do tráfego aéreo\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («Regulamento relativo à interoperabilidade») [([^1])](http://publications.europa.eu/resource/cellar/a8fcdb69-7870-4224-9fbd-2bc0492280fd.0018.02/DOC_1#ntr1-L_2007146PT.01000701-E0001), nomeadamente o n.º 1 do artigo 3.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («Regulamento-quadro») [([^2])](http://publications.europa.eu/resource/cellar/a8fcdb69-7870-4224-9fbd-2bc0492280fd.0018.02/DOC_1#ntr2-L_2007146PT.01000701-E0002), nomeadamente o n.º 2 do artigo 8.º,\n\nConsiderando o seguinte:\n\n(1) O intercâmbio de informações entre sistemas de processamento de dados de voo é estabelecido entre órgãos de controlo do tráfego aéreo para efeitos de comunicação, coordenação e transferência de voos e para efeitos de coordenação civil-militar. Este intercâmbio de informações deve assentar em protocolos de comunicação adequados e harmonizados, de modo a garantir a sua interoperabilidade.\n\n(2) A Organização Europeia para a Segurança da Navegação Aérea (Eurocontrol) foi incumbida, nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 549/2004, de estabelecer requisitos para um protocolo de transferência de mensagens de voo para efeitos de notificação, coordenação e transferência de voos. O presente regulamento baseia-se no relatório de 31 de Março de 2005, resultante do referido mandato.\n\n(3) A norma Eurocontrol para o intercâmbio de dados de voo consta do anexo do Regulamento (CE) n.º 2082/2000 da Comissão, de 6 de Setembro de 2000, que adopta as normas Eurocontrol e altera a Directiva 97/15/CE que adopta as normas Eurocontrol e altera a Directiva 93/65/CEE do Conselho [([^3])](http://publications.europa.eu/resource/cellar/a8fcdb69-7870-4224-9fbd-2bc0492280fd.0018.02/DOC_1#ntr3-L_2007146PT.01000701-E0003) que torna a sua utilização obrigatória na Comunidade em caso de aquisição de novos sistemas de processamento de dados de voo. Como o Regulamento (CE) n.º 2082/2000 foi revogado com efeitos a partir de 20 de Outubro de 2005, é necessário actualizar a legislação comunitária de modo a garantir a coerência das disposições regulamentares pertinentes.\n\n(4) Atendendo a que se revela cada vez mais difícil e dispendioso manter equipamento e *software* de comunicações em conformidade com a norma do Eurocontrol relativa ao intercâmbio de dados de voo, é conveniente adoptar uma nova norma adequada ao intercâmbio de dados de voo.\n\n(5) Actualmente, considera-se que o Protocolo de Controlo de Transmissão, em combinação com o Protocolo Internet (TCP/IP), constituem a base mais adequada para cumprir os requisitos em matéria de comunicações aplicáveis ao intercâmbio de dados de voo entre órgãos de controlo do tráfego aéreo.\n\n(6) O presente regulamento deverá incluir a aplicação de um protocolo de transferência de mensagens de voo a utilizar no intercâmbio de informações nos termos do Regulamento (CE) n.º 1032/2006 da Comissão, de 6 de Julho de 2006, que estabelece as regras aplicáveis aos sistemas automáticos de intercâmbio de dados de voo para efeitos de notificação, coordenação e transferência de voos entre órgãos de controlo do tráfego aéreo [([^4])](http://publications.europa.eu/resource/cellar/a8fcdb69-7870-4224-9fbd-2bc0492280fd.0018.02/DOC_1#ntr4-L_2007146PT.01000701-E0004).\n\n(7) O presente regulamento não abrange as operações nem os treinos militares a que se refere o n.º 2 do artigo 1.º do Regulamento (CE) n.º 549/2004.\n\n(8) Numa declaração dos Estados-Membros sobre questões militares relacionadas com o céu único europeu [([^5])](http://publications.europa.eu/resource/cellar/a8fcdb69-7870-4224-9fbd-2bc0492280fd.0018.02/DOC_1#ntr5-L_2007146PT.01000701-E0005), os Estados-Membros comprometeram-se a estabelecer uma cooperação mútua, tendo em conta as exigências militares nacionais, para que o conceito de utilização flexível do espaço aéreo possa ser plenamente aplicado por todos os utilizadores do espaço aéreo, de modo uniforme, em todos os Estados-Membros.\n\n(9) A aplicação do conceito de utilização flexível do espaço aéreo, conforme definido no n.º 22 do artigo 2.º do Regulamento (CE) n.º 549/2004, requer a criação de sistemas de intercâmbio de dados de voo, em tempo oportuno, entre os órgãos do serviço de tráfego aéreo e os órgãos de controlo militar.\n\n(10) Nos termos do n.º 3, alínea d), do artigo 3.º do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade deverão descrever os procedimentos específicos de avaliação da conformidade a utilizar para avaliar a conformidade dos componentes ou a sua adequação para utilização, bem como a verificação dos sistemas.\n\n(11) Conforme previsto no n.º 2 do artigo 10.º do Regulamento (CE) n.º 552/2004, a data de aplicação dos requisitos essenciais e das disposições transitórias poderá ser especificada nas regras de execução pertinentes em matéria de interoperabilidade.\n\n(12) Os fabricantes e os prestadores de serviços de navegação aérea deverão dispor de um prazo para o desenvolvimento de novos componentes e sistemas, em conformidade com as novas exigências técnicas.\n\n(13) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único instituído pelo artigo 5.º do Regulamento (CE) n.º 549/2004,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "2861506bfbc5ec1c": {
+   "fragment_id": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1. O presente regulamento estabelece os requisitos de aplicação de um protocolo de transferência de mensagens de voo utilizado no intercâmbio de informações entre sistemas de processamento de dados de voo para efeitos de notificação, coordenação e transferência de voos entre órgãos de controlo do tráfego aéreo e para efeitos de coordenação civil-militar, nos termos do Regulamento (CE) n.º 1032/2006.\n\n2. O presente regulamento é aplicável relativamente aos sistemas seguintes:\n\na) sistemas de comunicação que servem de suporte aos procedimentos de coordenação entre os órgãos de controlo do tráfego aéreo que utilizam um mecanismo de comunicação ponto-a-ponto e que prestam serviços ao tráfego aéreo geral;\n\nb) sistemas de comunicação que servem de suporte aos procedimentos de coordenação entre os orgãos dos serviços de tráfego aéreo e os órgãos de controlo militar que utilizam um mecanismo de comunicação ponto-a-ponto."
+  },
+  "a6dadf6867ea1966": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento aplicam-se as definições estabelecidas no artigo 2.º do Regulamento (CE) n.º 549/2004.\n\nTambém são aplicáveis as definições seguintes:\n\n1) «Protocolo de transferência de mensagens de voo»: um protocolo para as comunicações electrónicas, que compreende os formatos das mensagens, a sua codificação para efeitos de intercâmbio e as regras de sequenciação usadas para o intercâmbio de informações entre sistemas de processamento de dados de voo.\n\n2) «Sistema de processamento de dados de voo»: parte de um sistema de serviços de tráfego aéreo que recebe, processa e distribui automaticamente pelas posições de trabalho dos órgãos de controlo do tráfego aéreo os dados relativos aos planos de voo e as mensagens que lhes estão associadas.\n\n3) «Órgão de controlo do tráfego aéreo» (a seguir designado por «órgão ATC»): consoante o caso, centro de controlo regional, órgão de controlo de aproximação ou torre de controlo de aeródromo.\n\n4) «Posição de trabalho»: mobiliário e equipamento técnico por intermédio dos quais um membro do pessoal dos serviços de tráfego aéreo executa as tarefas associadas às suas funções.\n\n5) «Centro de controlo regional» (a seguir designado «ACC»): órgão que presta o serviço de controlo do tráfego aéreo a voos controlados, nas regiões de controlo sob a sua responsabilidade.\n\n6) «Coordenação civil-militar»: a coordenação entre as entidades civis e militares competentes para tomar decisões e acordar uma linha de acção.\n\n7) «Órgão dos serviços de tráfego aéreo» (a seguir designado «órgão ATS»): órgão civil ou militar, responsável pela prestação de serviços de tráfego aéreo.\n\n8) «Órgão de controlo militar»: qualquer órgão militar fixo ou móvel encarregado de controlar o tráfego aéreo militar e/ou de outras actividades que, dada a sua natureza específica, possam exigir a reserva ou a restrição do espaço aéreo.\n\n9) «Mecanismo de comunicação ponto-a-ponto»: mecanismo de comunicação estabelecido entre dois órgãos ATC ou entre órgãos ATS e órgãos de controlo militar, em que cada uma das partes dispõe das mesmas capacidades de comunicação para o intercâmbio de informações entre sistemas de processamento de dados de voo e em que qualquer das partes pode iniciar a comunicação."
+  },
+  "5084e44433ffe729": {
+   "fragment_id": "Artigo 3.º — Aplicação do protocolo de transferência de mensagens de voo",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Aplicação do protocolo de transferência de mensagens de voo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação do protocolo de transferência de mensagens de voo\n\n1. Os prestadores de serviços de navegação aérea devem assegurar que os sistemas mencionados no n.º 2, alínea a), do artigo 1.º observam o protocolo de transferência de mensagens de voo em conformidade com os requisitos de interoperabilidade previstos no anexo I.\n\n2. Os Estados-Membros devem assegurar que os sistemas mencionados no n.º 2, alínea b), do artigo 1.º observam o protocolo de transferência de mensagens de voo em conformidade com os requisitos de interoperabilidade previstos no anexo I."
+  },
+  "dd41473a8fc49d48": {
+   "fragment_id": "Artigo 4.º — Declaração de conformidade dos componentes",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Declaração de conformidade dos componentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Declaração de conformidade dos componentes\n\nAntes de emitir a declaração CE de conformidade referida no artigo 5.º do Regulamento (CE) n.º 552/2004, os fabricantes dos componentes dos sistemas mencionados no n.º 2 do artigo 1.º do presente regulamento que apliquem um protocolo de transferência de mensagens de voo devem apreciar da conformidade desses componentes com as regras previstas no anexo II."
+  },
+  "b33eed39a9e46f1b": {
+   "fragment_id": "Artigo 5.º — Verificação de sistemas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Verificação de sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Verificação de sistemas\n\n1. Os prestadores de serviços de navegação aérea que possam demonstrar que satisfazem as condições estabelecidas no anexo III devem proceder a uma verificação dos sistemas a que se refere o n.º 2, alínea a), do artigo 1.º, em conformidade com os requisitos previstos no anexo IV, parte B.\n\n2. Os prestadores de serviços de navegação aérea que não possam demonstrar que satisfazem as condições estabelecidas no anexo III devem subcontratar um organismo notificado para proceder à verificação dos sistemas a que se refere o n.º 2, alínea a), do artigo 1.º\n\nEssa verificação deve ser efectuada em conformidade com os requisitos previstos no anexo IV, parte B.\n\n3. Os Estados-Membros garantirão que a verificação dos sistemas a que se refere o n.º 2, alínea b), do artigo 1.º comprova a conformidade desses sistemas com as regras de interoperabilidade do presente regulamento."
+  },
+  "f1909ffb2ced261b": {
+   "fragment_id": "Artigo 6.º — Cumprimento",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Cumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cumprimento\n\nOs Estados-Membros devem adoptar as medidas necessárias para garantir o cumprimento do presente regulamento."
+  },
+  "f7eb2b60ae28214c": {
+   "fragment_id": "Artigo 7.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições transitórias\n\nOs requisitos essenciais estabelecidos no anexo II do Regulamento (CE) n.º 552/2004 aplicam-se à colocação em serviço dos sistemas da Rede Europeia de Gestão do Tráfego Aéreo (REGTA) referidos no n.º 2 do artigo 1.º do presente regulamento a partir de 1 de Janeiro de 2009.\n\nAs disposições transitórias previstas no n.º 3 do artigo 10.º do Regulamento (CE) n.º 552/2004 aplicam-se, se for caso disso, a partir da mesma data."
+  },
+  "639400403fe2a41b": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2009 a todos os sistemas da REGTA mencionados no n.º 2 do artigo 1.º colocados em serviço após esta data.\n\nÉ aplicável a partir de 20 de Abril de 2011 a todos os sistemas da REGTA mencionados no n.º 2 do artigo 1.º em serviço nessa data.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 7 de Junho de 2007.\n\n***Pela Comissão***\n\n**Jacques BARROT**\n\n***Vice-Presidente***\n\n---"
+  },
+  "be2c9dd1c6d80e11": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/a8fcdb69-7870-4224-9fbd-2bc0492280fd.0018.02/DOC_1#ntc1-L_2007146PT.01000701-E0001) [JO L 96 de 31.3.2004, p. 26](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/a8fcdb69-7870-4224-9fbd-2bc0492280fd.0018.02/DOC_1#ntc2-L_2007146PT.01000701-E0002) [JO L 96 de 31.3.2004, p. 1](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/a8fcdb69-7870-4224-9fbd-2bc0492280fd.0018.02/DOC_1#ntc3-L_2007146PT.01000701-E0003) [JO L 254 de 9.10.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_254_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 980/2002 ([JO L 150 de 8.6.2002, p. 38](http://publications.europa.eu/resource/oj/JOL_2002_150_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/a8fcdb69-7870-4224-9fbd-2bc0492280fd.0018.02/DOC_1#ntc4-L_2007146PT.01000701-E0004) [JO L 186 de 7.7.2006, p. 27](http://publications.europa.eu/resource/oj/JOL_2006_186_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/a8fcdb69-7870-4224-9fbd-2bc0492280fd.0018.02/DOC_1#ntc5-L_2007146PT.01000701-E0005) [JO L 96 de 31.3.2004, p. 9](http://publications.europa.eu/resource/oj/JOL_2004_096_R_TOC)."
+  },
+  "a995ed92ba501a4d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Junho de 2007\n\nque estabelece requisitos para a aplicação de um protocolo de transferência de mensagens de voo utilizado para efeitos de notificação, coordenação e transferência de voos entre órgãos de controlo do tráfego aéreo\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta o Regulamento (CE) n.º 552/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, relativo à interoperabilidade da rede europeia de gestão do tráfego aéreo («Regulamento relativo à interoperabilidade») ([^1^](http://publications.europa.eu/resource/cellar/f4c8909e-e48c-4277-be31-391651687b6f.0019.03/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 3.º,\n\nTendo em conta o Regulamento (CE) n.º 549/2004 do Parlamento Europeu e do Conselho, de 10 de Março de 2004, que estabelece o quadro para a realização do céu único europeu («Regulamento-quadro») ([^2^](http://publications.europa.eu/resource/cellar/f4c8909e-e48c-4277-be31-391651687b6f.0019.03/DOC_1#E0002)), nomeadamente o n.º 2 do artigo 8.º,\n\n(1) O intercâmbio de informações entre sistemas de processamento de dados de voo é estabelecido entre órgãos de controlo do tráfego aéreo para efeitos de comunicação, coordenação e transferência de voos e para efeitos de coordenação civil-militar. Este intercâmbio de informações deve assentar em protocolos de comunicação adequados e harmonizados, de modo a garantir a sua interoperabilidade.\n\n(2) A Organização Europeia para a Segurança da Navegação Aérea (Eurocontrol) foi incumbida, nos termos do n.º 1 do artigo 8.º do Regulamento (CE) n.º 549/2004, de estabelecer requisitos para um protocolo de transferência de mensagens de voo para efeitos de notificação, coordenação e transferência de voos. O presente regulamento baseia-se no relatório de 31 de Março de 2005, resultante do referido mandato.\n\n(3) A norma Eurocontrol para o intercâmbio de dados de voo consta do anexo do Regulamento (CE) n.º 2082/2000 da Comissão, de 6 de Setembro de 2000, que adopta as normas Eurocontrol e altera a Directiva 97/15/CE que adopta as normas Eurocontrol e altera a Directiva 93/65/CEE do Conselho ([^3^](http://publications.europa.eu/resource/cellar/f4c8909e-e48c-4277-be31-391651687b6f.0019.03/DOC_1#E0003)) que torna a sua utilização obrigatória na Comunidade em caso de aquisição de novos sistemas de processamento de dados de voo. Como o Regulamento (CE) n.º 2082/2000 foi revogado com efeitos a partir de 20 de Outubro de 2005, é necessário actualizar a legislação comunitária de modo a garantir a coerência das disposições regulamentares pertinentes.\n\n(4) Atendendo a que se revela cada vez mais difícil e dispendioso manter equipamento e *software* de comunicações em conformidade com a norma do Eurocontrol relativa ao intercâmbio de dados de voo, é conveniente adoptar uma nova norma adequada ao intercâmbio de dados de voo.\n\n(5) Actualmente, considera-se que o Protocolo de Controlo de Transmissão, em combinação com o Protocolo Internet (TCP/IP), constituem a base mais adequada para cumprir os requisitos em matéria de comunicações aplicáveis ao intercâmbio de dados de voo entre órgãos de controlo do tráfego aéreo.\n\n(6) O presente regulamento deverá incluir a aplicação de um protocolo de transferência de mensagens de voo a utilizar no intercâmbio de informações nos termos do Regulamento (CE) n.º 1032/2006 da Comissão, de 6 de Julho de 2006, que estabelece as regras aplicáveis aos sistemas automáticos de intercâmbio de dados de voo para efeitos de notificação, coordenação e transferência de voos entre órgãos de controlo do tráfego aéreo ([^4^](http://publications.europa.eu/resource/cellar/f4c8909e-e48c-4277-be31-391651687b6f.0019.03/DOC_1#E0004)).\n\n(7) O presente regulamento não abrange as operações nem os treinos militares a que se refere o n.º 2 do artigo 1.º do Regulamento (CE) n.º 549/2004.\n\n(8) Numa declaração dos Estados-Membros sobre questões militares relacionadas com o céu único europeu ([^5^](http://publications.europa.eu/resource/cellar/f4c8909e-e48c-4277-be31-391651687b6f.0019.03/DOC_1#E0005)), os Estados-Membros comprometeram-se a estabelecer uma cooperação mútua, tendo em conta as exigências militares nacionais, para que o conceito de utilização flexível do espaço aéreo possa ser plenamente aplicado por todos os utilizadores do espaço aéreo, de modo uniforme, em todos os Estados-Membros.\n\n(9) A aplicação do conceito de utilização flexível do espaço aéreo, conforme definido no n.º 22 do artigo 2.º do Regulamento (CE) n.º 549/2004, requer a criação de sistemas de intercâmbio de dados de voo, em tempo oportuno, entre os órgãos do serviço de tráfego aéreo e os órgãos de controlo militar.\n\n(10) Nos termos do n.º 3, alínea d), do artigo 3.º do Regulamento (CE) n.º 552/2004, as regras de execução em matéria de interoperabilidade deverão descrever os procedimentos específicos de avaliação da conformidade a utilizar para avaliar a conformidade dos componentes ou a sua adequação para utilização, bem como a verificação dos sistemas.\n\n(11) Conforme previsto no n.º 2 do artigo 10.º do Regulamento (CE) n.º 552/2004, a data de aplicação dos requisitos essenciais e das disposições transitórias poderá ser especificada nas regras de execução pertinentes em matéria de interoperabilidade.\n\n(12) Os fabricantes e os prestadores de serviços de navegação aérea deverão dispor de um prazo para o desenvolvimento de novos componentes e sistemas, em conformidade com as novas exigências técnicas.\n\n(13) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Céu Único instituído pelo artigo 5.º do Regulamento (CE) n.º 549/2004,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "d62001f34e26aaf1": {
+   "fragment_id": "Artigo 7.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições transitórias\n\n[**►M1**](http://publications.europa.eu/resource/celex/32011R0283) 1.**◄** Os requisitos essenciais estabelecidos no anexo II do Regulamento (CE) n.º 552/2004 aplicam-se à colocação em serviço dos sistemas da Rede Europeia de Gestão do Tráfego Aéreo (REGTA) referidos no n.º 2 do artigo 1.º do presente regulamento a partir de 1 de Janeiro de 2009.\n\n[**►M1**](http://publications.europa.eu/resource/celex/32011R0283) 2.**◄** As disposições transitórias previstas no n.º 3 do artigo 10.º do Regulamento (CE) n.º 552/2004 aplicam-se, se for caso disso, a partir da mesma data.\n\n3. Caso um Estado-Membro, ou um prestador de serviços de navegação aérea, esteja a criar, em conjunção com a execução do Regulamento (CE) n.º 1032/2006, um protocolo de transferência de mensagens de voo entre os seus sistemas, os sistemas mencionados no artigo 1.º, n.º 2, alíneas a) e b), devem ser compatíveis com os requisitos do anexo I a partir de 31 de Dezembro de 2012.\n\n4. Caso um Estado-Membro, ou um prestador de serviços de navegação aérea, tenha criado um protocolo de transferência de mensagens de voo para os sistemas mencionados no artigo 1.º, n.º 2, alíneas a) e b), ou encomendado a sua criação ou assinado um contrato para o efeito, antes da data de entrada em vigor do presente regulamento, e não possa ser garantida a compatibilidade com os requisitos do anexo I, ponto 6, o prestador de serviços de navegação aérea e o órgão de controlo militar podem utilizar outras versões do Protocolo Internet nas comunicações ponto-a-ponto entre os seus sistemas até 31 de Dezembro de 2014.\n\nO Estado-Membro e o prestador de serviços de navegação aérea devem assegurar que em todas as comunicações ponto-a-ponto dos seus sistemas para os sistemas de outros Estados-Membros ou prestadores de serviços de navegação aérea se observam os requisitos do anexo I, salvo se existir um acordo bilateral, concluído antes de 20 de Abril de 2011, que autorize a utilização de outras versões do Protocolo Internet durante um período de transição, que não poderá prolongar-se além de 31 de Dezembro de 2014.\n\n5. Os Estados-Membros que se encontrem nas condições descritas nos n.^os^ 3 ou 4 devem informar detalhadamente a Comissão, antes de 20 de Abril de 2011, das medidas tomadas pelos prestadores de serviços de navegação aérea e os órgãos de controlo militares com vista a assegurar a interoperabilidade dos sistemas mencionados no artigo 1.º, n.º 2, alíneas a) e b), no âmbito da REGTA."
+  },
+  "52ec773f3ce90aaf": {
+   "fragment_id": "Artigo 8.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 1 de Janeiro de 2009 a todos os sistemas da REGTA mencionados no n.º 2 do artigo 1.º colocados em serviço após esta data.\n\nÉ aplicável a partir de 20 de Abril de 2011 a todos os sistemas da REGTA mencionados no n.º 2 do artigo 1.º em serviço nessa data.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "f2a493e3c8ff740c": {
+   "fragment_id": "Requisitos de interoperabilidade referidos no artigo 3.º",
+   "type": "divisao",
+   "heading": "Requisitos de interoperabilidade referidos no artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos de interoperabilidade referidos no artigo 3.º\n\n1. Cada entidade de transferência de mensagens de voo deve dispor de um identificador.\n\n2. Uma função de identificação deve garantir que apenas podem ser efectuadas comunicações entre as entidades autorizadas a efectuar a transferência de mensagens de voo.\n\n3. Uma função de gestão das ligações deve estabelecer e permitir as ligações entre entidades autorizadas a efectuar a transferência de mensagens de voo, de modo a assegurar que a transferência dos dados de voo se efectua apenas no período de duração da ligação.\n\n4. Uma função de transferência de dados deve enviar e receber as mensagens de dados de voo trocadas entre entidades autorizadas a efectuar a transferência de mensagens de voo quando ligadas entre si.\n\n5. Uma função de monitorização deve verificar a continuidade do serviço de ligação entre entidades autorizadas a efectuar a transferência de mensagens de voo.\n\n6. Todas as funções trocadas entre entidades autorizadas a efectuar a transferência de mensagens de voo devem utilizar o Protocolo de Controlo de Transmissão, em combinação com o Protocolo Internet, IP versão 6."
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "2d99a76c128012aa": {
+   "fragment_id": "Requisitos para apreciação da conformidade dos componentes realizada nos termos do artigo 4.º",
+   "type": "divisao",
+   "heading": "Requisitos para apreciação da conformidade dos componentes realizada nos termos do artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Requisitos para apreciação da conformidade dos componentes realizada nos termos do artigo 4.º\n\n1. As actividades de verificação devem demonstrar a conformidade dos componentes que dão aplicação ao protocolo de transferência de mensagens de voo com os requisitos de interoperabilidade aplicáveis do presente regulamento, quando tais componentes estiverem a funcionar num ambiente de teste.\n\n2. O fabricante deve gerir as actividades de verificação e, em particular, deve:\n\na) determinar o ambiente de teste adequado;\n\nb) verificar que o plano de teste descreve os componentes em ambiente de teste;\n\nc) verificar que o plano de teste cobre a totalidade dos requisitos aplicáveis;\n\nd) assegurar a coerência e a qualidade da documentação técnica e do plano de teste;\n\ne) planear a organização do teste, o pessoal, a instalação e a configuração da plataforma de teste;\n\nf) realizar as inspecções e os testes previstos no plano de teste;\n\ng) redigir o relatório de apresentação dos resultados das inspecções e testes.\n\n3. O fabricante deve assegurar que os componentes que dão aplicação ao protocolo de transferência de mensagens de voo enquanto em ambiente de teste satisfazem os requisitos de interoperabilidade aplicáveis do presente regulamento.\n\n4. Após concluída com sucesso a verificação da conformidade, o fabricante deve, sob a sua responsabilidade, redigir a declaração CE de conformidade especificando, designadamente, os requisitos do presente regulamento cumpridos pelo componente e as condições associadas à sua utilização, em conformidade com o n.º 3 do anexo III do Regulamento (CE) n.º 552/2004."
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "9927c72935cbde93": {
+   "fragment_id": "Condições previstas no artigo 5.º",
+   "type": "divisao",
+   "heading": "Condições previstas no artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições previstas no artigo 5.º\n\n1. O prestador de serviços de navegação aérea deve dispor, na sua organização, de métodos de elaboração de relatórios que assegurem e demonstrem a imparcialidade e independência dos seus juízos sobre as actividades de verificação.\n\n2. O prestador de serviços de navegação aérea deve assegurar que o pessoal envolvido nos processos de verificação efectua os controlos com a máxima integridade profissional e a máxima competência técnica possíveis e está isento de quaisquer pressões e incentivos, designadamente de natureza financeira, que possam afectar os seus juízos ou os resultados dos seus controlos, nomeadamente por parte de pessoas ou grupos de pessoas afectados pelos resultados dos controlos.\n\n3. O prestador de serviços de navegação aérea deve assegurar que o pessoal envolvido nos processos de verificação tem acesso a equipamento que lhe permita efectuar devidamente os controlos necessários.\n\n4. O prestador de serviços de navegação aérea deve assegurar que o pessoal envolvido nos processos de verificação possui uma sólida formação técnica e profissional, conhecimentos satisfatórios das exigências inerentes às verificações que deve efectuar, a experiência adequada de tais operações e a capacidade necessária para redigir as declarações, efectuar os registos e os relatórios que demonstram a realização das verificações.\n\n5. O prestador de serviços de navegação aérea deve assegurar que o pessoal responsável pelos processos de verificação está apto a efectuar os controlos com imparcialidade. A remuneração deste pessoal deve ser independente do número de verificações realizadas ou dos seus resultados."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "868bb88182990f5c": {
+   "fragment_id": "Parte A: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 1 do artigo 5.º",
+   "type": "divisao",
+   "heading": "Parte A: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 1 do artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 1 do artigo 5.º\n\n1. A verificação dos sistemas que dão aplicação ao protocolo de transferência de mensagens de voo deve demonstrar a conformidade destes com os requisitos de interoperabilidade do presente regulamento, num ambiente simulado correspondente ao contexto operacional desses sistemas.\n\n2. A verificação dos sistemas que aplicam o protocolo de transferência de mensagens de voo deve ser efectuada de acordo com práticas de teste adequadas e reconhecidas.\n\n3. As ferramentas de teste utilizadas para a verificação dos sistemas que aplicam o protocolo de transferência de mensagens de voo devem dispor das funcionalidades adequadas que garantam a plena cobertura dos testes.\n\n4. A verificação de sistemas que aplicam o protocolo de transferência de mensagens de voo deve incluir os elementos do processo técnico previstos no n.º 3 do anexo IV do Regulamento (CE) n.º 552/2004, assim como os elementos seguintes:\n\na) descrição da implementação do protocolo de transferência de mensagens de voo;\n\nb) relatório das inspecções e testes realizados antes da entrada em funcionamento do sistema.\n\n5. O prestador de serviços de navegação aérea deve gerir as actividades de verificação e, em particular, deve:\n\na) determinar o ambiente operacional e técnico simulado adequado, correspondente ao ambiente operacional;\n\nb) verificar que o plano de teste descreve a integração do protocolo de transferência de mensagens de voo no sistema testado em ambiente operacional e técnico simulado;\n\nc) verificar que o plano de teste cobre a totalidade dos requisitos de interoperabilidade do presente regulamento;\n\nd) assegurar a coerência e a qualidade da documentação técnica e do plano de teste;\n\ne) planear a organização do teste, o pessoal, a instalação e a configuração da plataforma de teste;\n\nf) realizar as inspecções e os testes especificados no plano de teste;\n\ng) redigir o relatório de apresentação dos resultados das inspecções e testes.\n\n6. O prestador de serviços de navegação aérea deve assegurar que a implementação do protocolo de transferência de mensagens de voo nos sistemas operados num ambiente operacional simulado satisfaz os requisitos de interoperabilidade do presente regulamento.\n\n7. Uma vez concluída com sucesso a verificação da conformidade, os prestadores de serviços de navegação aérea devem redigir a declaração CE de verificação do sistema e apresentá-la à autoridade supervisora nacional acompanhada do processo técnico, conforme estabelecido no artigo 6.º do Regulamento (CE) n.º 552/2004."
+  },
+  "2c11772fe875dca4": {
+   "fragment_id": "Parte B: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 2 do artigo 5.º",
+   "type": "divisao",
+   "heading": "Parte B: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 2 do artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Requisitos para a verificação dos sistemas efectuada nos termos do n.º 2 do artigo 5.º\n\n1. A verificação dos sistemas que aplicam o protocolo de transferência de mensagens de voo deve demonstrar a conformidade destes com os requisitos de interoperabilidade do presente regulamento, num ambiente simulado correspondente ao contexto operacional desses sistemas.\n\n2. A verificação dos sistemas que aplicam o protocolo de transferência de mensagens de voo deve ser efectuada de acordo com práticas de teste adequadas e reconhecidas.\n\n3. As ferramentas de teste utilizadas para a verificação dos sistemas que aplicam o protocolo de transferência de mensagens de voo devem dispor das funcionalidades adequadas que garantam a plena cobertura dos testes.\n\n4. A verificação de sistemas que aplicam o protocolo de transferência de mensagens de voo deve incluir os elementos do processo técnico previstos no n.º 3 do anexo IV do Regulamento (CE) n.º 552/2004, assim como os elementos seguintes:\n\na) descrição da aplicação do protocolo de transferência de mensagens de voo;\n\nb) relatório das inspecções e testes realizados antes da entrada em funcionamento do sistema.\n\n5. O prestador de serviços de navegação aérea deve determinar o ambiente operacional e técnico simulado adequado correspondente ao ambiente operacional e deve assegurar que as actividades de verificação são executadas por um organismo notificado.\n\n6. O organismo notificado deve gerir as actividades de verificação e, em particular, deve:\n\na) verificar que o plano de teste descreve a implementação do protocolo de transferência de mensagens de voo no sistema testado em ambiente operacional e técnico simulado;\n\nb) verificar que o plano de teste cobre a totalidade dos requisitos de interoperabilidade do presente regulamento;\n\nc) assegurar a coerência e a qualidade da documentação técnica e do plano de teste;\n\nd) planear a organização do teste, o pessoal, a instalação e a configuração da plataforma de teste;\n\ne) realizar as inspecções e os testes especificados no plano de teste;\n\nf) redigir o relatório de apresentação dos resultados das inspecções e testes.\n\n7. O organismo notificado deve assegurar que a implementação do protocolo de transferência de mensagens de voo nos sistemas operados num ambiente operacional simulado satisfaz os requisitos de interoperabilidade do presente regulamento.\n\n8. Uma vez concluídas com sucesso as tarefas de verificação, o organismo notificado deve redigir um certificado de conformidade relativo às tarefas que realizou.\n\n9. O prestador de serviços de navegação aérea deve, então, redigir uma declaração CE de verificação do sistema e apresentá-la à autoridade supervisora nacional, acompanhada do processo técnico, de acordo com o estabelecido no artigo 6.º do Regulamento (CE) n.º 552/2004.\n\n---"
+  },
+  "3bba17214e49f176": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f4c8909e-e48c-4277-be31-391651687b6f.0019.03/DOC_1#src.E0001)) JO L 96 de 31.3.2004, p. 26.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f4c8909e-e48c-4277-be31-391651687b6f.0019.03/DOC_1#src.E0002)) JO L 96 de 31.3.2004, p. 1.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f4c8909e-e48c-4277-be31-391651687b6f.0019.03/DOC_1#src.E0003)) JO L 254 de 9.10.2000, p. 1. Regulamento alterado pelo Regulamento (CE) n.º 980/2002 (JO L 150 de 8.6.2002, p. 38).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/f4c8909e-e48c-4277-be31-391651687b6f.0019.03/DOC_1#src.E0004)) JO L 186 de 7.7.2006, p. 27.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/f4c8909e-e48c-4277-be31-391651687b6f.0019.03/DOC_1#src.E0005)) JO L 96 de 31.3.2004, p. 9."
+  },
+  "5c52c0f11aa7a53c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02007R0633 — PT — 05.10.2023 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32007R0633) [REGULAMENTO (CE) N.º 633/2007 DA COMISSÃO](http://publications.europa.eu/resource/celex/32007R0633) [de 7 de Junho de 2007](http://publications.europa.eu/resource/celex/32007R0633) [que estabelece requisitos para a aplicação de um protocolo de transferência de mensagens de voo utilizado para efeitos de notificação, coordenação e transferência de voos entre órgãos de controlo do tráfego aéreo](http://publications.europa.eu/resource/celex/32007R0633) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32007R0633) (JO L 146, 8.6.2007, p.7)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2023/1771 da Comissão de 12 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1771) — L 228 — 49 — 15.9.2023"
+  }
+ }
+}

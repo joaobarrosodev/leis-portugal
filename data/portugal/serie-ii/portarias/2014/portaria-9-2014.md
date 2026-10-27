@@ -1,0 +1,95 @@
+---
+schema_version: '1.0'
+id: pt:dre:2261999:por
+title: Portaria n.º 9/2014
+short_title: null
+summary: Concessão da medalha da defesa nacional, de 1.ª classe, ao coronel ART António Silva Lopes
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 9/2014
+official_date: null
+publication_date: '2014-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/2014, Série II de 2014-01-07
+  number: '4'
+  series: II
+  supplement: null
+  pages: 306 - 306
+  pdf_url: https://files.diariodarepublica.pt/2s/2014/01/004000000/0030600306.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2261999'
+  dre_path: /dr/detalhe/portaria/9-2014-2261999
+  internal: pt:dre:2261999:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-2014-2261999
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/9-2014-2261999
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:43:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 836690c06ede41428052839191fc850fca4b93a08f28500b345009e98653e7a0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:43:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:404743:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:43:59Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 9/2014
+
+Atento o louvor concedido pelo Diretor-Geral de Pessoal e Recrutamento Militar, em 26 de junho de 2013, ao coronel de artilharia, NIM 12348981, António Silva Lopes, considero que o seu desempenho, nas funções de diretor de serviços de Recrutamento e Assuntos de Serviço Militar, satisfaz os requisitos expressos no artigo 25.º do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, porquanto a sua ação contribuiu significativamente para a eficiência, prestígio e cumprimento da missão do Ministério da Defesa Nacional.
+
+Assim, nos termos da competência que me é conferida pelo n.º 1 do artigo 34.º e atento o disposto nos artigos 25.º, 26.º e alínea a) do n.º 1 do artigo 27.º, todos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro, concedo a medalha da defesa nacional, de 1.ª classe, ao coronel de artilharia António Silva Lopes.
+
+19 de dezembro de 2013. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.
+
+207494853

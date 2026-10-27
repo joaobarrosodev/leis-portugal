@@ -1,0 +1,281 @@
+---
+schema_version: '1.0'
+id: pt:dre:911488702:por
+title: Decreto-Lei n.º 25/2025
+short_title: null
+summary: Altera o regime de financiamento e satisfação de encargos com o policiamento de espetáculos desportivos e a forma
+  de distribuição dos resultados líquidos dos jogos sociais afetos à Administração Interna.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Administração Interna
+official_number: 25/2025
+official_date: null
+publication_date: '2025-03-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 55/2025, Série I de 2025-03-19
+  number: '55'
+  series: I
+  supplement: null
+  pages: 53 - 56
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/03/05500/0005300056.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/25/2025/03/19/p/dre/pt/html
+  oj: null
+  dre: '911488702'
+  dre_path: /dr/detalhe/decreto-lei/25-2025-911488702
+  internal: pt:dre:911488702:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2025-911488702
+  metadata_url: https://data.dre.pt/eli/dec-lei/25/2025/03/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2025-911488702
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:51:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b82231709eadee89b5029fd66b4bfcd6fc188daef303ced41c05b514fe0daf1b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:51:59Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atribuição de Verba
+- Autoridade de Supervisão de Seguros e Fundos de Pensões
+- Espetáculos e Divertimentos Públicos
+- GNR
+- Jogos de Fortuna e Azar
+- Lisboa
+- Ministério da Administração Interna
+- PSP
+- Receita Pública
+- Santa Casa da Misericórdia
+- Secretaria Geral
+- Segurança Privada
+- Segurança Pública
+relationships:
+- type: amends
+  target: pt:numero:decreto-lei:56/2006
+  label: Altera, a partir de 20 de março de 2025, o artigo 3.º do Decreto-Lei n.º 56/2006, de 15 de março, Diário da República
+    n.º 53/2006, Série I-A
+  source: null
+  date: '2006-03-15'
+- type: amends
+  target: pt:numero:decreto-lei:216/2012
+  label: Altera, a partir de 20 de março de 2025, o artigo 5.º (a alteração ao n.º 3 deste, produz efeitos no dia 1 de abril
+    de 2025) do Decreto-Lei n.º 216/2012, de 9 de outubro, Diário da República n.º 195/2012, Série I
+  source: null
+  date: '2012-10-09'
+- type: cites
+  target: pt:dre:115017488:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/23/2018/04/10/p/dre
+- type: cites
+  target: pt:dre:146936:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/106/2011/10/21/p/dre
+- type: cites
+  target: pt:dre:175794:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/216/2012/10/09/p/dre
+- type: cites
+  target: pt:dre:218713:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260420:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/52/2013/04/17/p/dre
+- type: cites
+  target: pt:dre:260643:por
+  label: null
+  source: http://data.dre.pt/eli/port/167/2013/04/30/p/dre
+- type: cites
+  target: pt:dre:278879:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/44/2011/03/24/p/dre
+- type: cites
+  target: pt:dre:667323:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
+- type: cites
+  target: pt:dre:67098359:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/66/2015/04/29/p/dre
+- type: cites
+  target: pt:dre:907934905:por
+  label: null
+  source: null
+- type: repeals
+  target: pt:numero:portaria:147/2025
+  label: Revoga, a partir de 20 de março de 2025, nos termos do artigo 5.º do presente diploma, a Portaria n.º 147/2025/2,
+    de 19 de fevereiro, Diário da República n.º 35/2025, Série II
+  source: null
+  date: '2025-02-19'
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:51:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 25/2025
+
+de 19 de março
+
+O modelo de financiamento da comparticipação do Estado nos encargos com o policiamento de espetáculos desportivos assenta atualmente, em exclusivo, nas receitas provindas dos jogos sociais da Santa Casa da Misericórdia de Lisboa (SCML), nos termos previstos na alínea c) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, na redação atual, e no artigo 5.º do [Decreto-Lei n.º 216/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), de 9 de outubro.
+
+Por seu turno, a forma da distribuição dos resultados líquidos dos jogos sociais é regulada pelo [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, na sua redação atual, consignando-os a uma multiplicidade de entidades beneficiárias, afetas a fins de natureza social, permitindo o desenvolvimento de uma rede equilibrada e equitativa de apoios educativos, culturais e eminentemente sociais. Este regime conheceu diversas alterações, algumas das quais, como a concretizada pelo [Decreto-Lei n.º 106/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), de 21 de outubro, expressamente subordinadas a realizar os ajustamentos que permitam o desenvolvimento das competências atribuídas a cada um dos ministérios em matéria de disponibilização e utilização das verbas dos jogos sociais explorados pela SCML. A metodologia legislativa aí prosseguida passou por garantir alguma flexibilidade na repartição das receitas dos jogos sociais dentro de alguns ministérios, com isto assegurando o ajustamento às reais necessidades dos programas e ações a empreender, sem prejuízo de serem afetas a fins de natureza social, cultural e desportiva.
+
+Assim, volvidos cerca de 18 anos de vigência do [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, e mais de 12 anos de vigência do [Decreto-Lei n.º 216/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), de 9 de outubro, urge revisitar a disciplina jurídica que enquadra os critérios de comparticipação do Estado nos encargos com o policiamento de espetáculos desportivos, enquadrada e associada à reponderação da forma de distribuição dos resultados líquidos dos jogos sociais afetos à Administração Interna, também tendo presente a necessidade de aferição da sustentabilidade financeira da disciplina jurídica que enquadra tal comparticipação.
+
+Neste conspecto, o Governo constatou que os últimos exercícios têm revelado um fenómeno de subfinanciamento crónico dos processamentos e pagamentos das verbas devidas aos militares da Guarda Nacional Republicana (GNR) e polícias da Polícia de Segurança Pública (PSP) que constituem responsabilidade do Estado. A verba arrecadada mensalmente da SCML, associada ao policiamento desportivo, não cobre os gastos mensais com os serviços remunerados da GNR e PSP, sendo que o total em dívida com estas entidades tem vindo a aumentar com o decorrer dos anos.
+
+A constatação das realidades verificadas nos exercícios de 2023 e de 2024 permite perspetivar, não só o caráter crónico, como de crescente agravamento do subfinanciamento da comparticipação do Estado nos encargos com o policiamento de espetáculos desportivos assente exclusivamente nas receitas provindas dos jogos sociais da SCML.
+
+Acresce que a solução que anteriormente foi privilegiada para mitigar o referido subfinanciamento - promover a descativação parcial de verbas cativas com origem em receitas próprias para reforço de transferências correntes, financiada por receita com origem no jogo online, encontra vários obstáculos. Em primeiro lugar, a inexistência de respaldo normativo e especificamente vocacionado para o financiamento do policiamento desportivo, cujo regime não prevê qualquer outra fonte de financiamento que não a resultante das verbas provenientes da SCML. Em segundo, a necessidade recorrente de operações de descativações ou alterações orçamentais, consoante o enquadramento casuístico que cada decreto-lei de execução orçamental estabeleça a este respeito. Em terceiro, a dependência de intervenção conjunta dos membros do Governo das áreas das finanças e da administração interna, igualmente na dependência conjuntural da disciplina do concreto decreto-lei de execução orçamental.
+
+Ciente deste contexto, visando oferecer um enquadramento não só mais esclarecido e atual, como também menos entrópico e mais claro e transparente, e tendo igualmente presente o compromisso assumido pelo XXIV Governo no sentido de assegurar a dignificação das carreiras e de valorização remuneratória dos homens e mulheres que servem nas forças de segurança, urge revisitar a disciplina jurídica que enquadra a satisfação dos encargos com o policiamento de espetáculos desportivos em geral.
+
+Sob este propósito, o presente decreto-lei altera e revê a forma de distribuição dos resultados líquidos dos jogos sociais afetos à Administração Interna, garantindo flexibilidade na sua repartição, assegurando o ajustamento às reais necessidades dos programas e ações a empreender, e permitindo, por portaria anual e dentro das receitas afetas ao ministério, a reorientação para áreas mais deficitárias ou estratégicas.
+
+Adicionalmente, é estabelecida a comparticipação do Estado nos encargos com o policiamento de espetáculos desportivos, que passa a ser constituída, além das verbas provenientes da SCML, pela receita transferida para o Ministério da Administração Interna com origem no Regime Jurídico dos Jogos e Apostas Online, aprovado em anexo ao [Decreto-Lei n.º 66/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), de 29 de abril, que refere que 5,24 % do montante líquido do imposto especial de jogo online nas apostas desportivas à cota constitui receita do Ministério da Administração Interna destinada a promover as políticas de segurança interna - alínea e) do n.º 10 do artigo 90.º -, bem como com recurso às transferências da Autoridade de Supervisão de Seguros e Fundos de Pensões - certificados de responsabilidade civil automóvel, nos termos do artigo 5.º da [Portaria n.º 403/86](https://diariodarepublica.pt/dr/detalhe/portaria/403-1986-218713), de 26 de julho, alterada pela [Portaria n.º 167/2013](https://diariodarepublica.pt/dr/detalhe/portaria/167-2013-260643), de 30 de abril.
+
+Prevê, ainda, um regime excecional e transitório de regularização dos montantes devidos às forças de segurança com o policiamento desportivo, reportados a 31 de dezembro de 2024, face à impossibilidade de o promover apenas com recurso às receitas previstas no decreto-lei que regula a distribuição dos resultados líquidos dos jogos sociais explorados pela SCML.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, alterado pelos Decretos-Leis n.os[44/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), de 24 de março, [106/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), de 21 de outubro, e [23/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488), de 10 de abril, que regula a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa.
+
+2 - O presente decreto-lei procede igualmente à segunda alteração ao [Decreto-Lei n.º 216/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), de 9 de outubro, alterado pelo [Decreto-Lei n.º 52/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-2013-260420), de 17 de abril, que aprovou o regime de policiamento de espetáculos desportivos realizados em recinto desportivo e de satisfação dos encargos com o policiamento de espetáculos desportivos em geral.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março
+
+O artigo 3.º do [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, na sua reação atual, passa a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - [...]
+
+2 - São atribuídos ao Ministério da Administração Interna 3,60 % do valor dos resultados líquidos de exploração de jogos sociais, sendo fixadas anualmente, nos termos da portaria emitida ao abrigo do disposto no artigo 6.º, as normas regulamentares necessárias à repartição anual das verbas, as percentagens afetas a cada área e a respetiva distribuição para áreas mais deficitárias ou estratégicas, desde que com observância das seguintes percentagens mínimas:
+
+a) 2,50 % para finalidades de proteção civil, emergência e socorro, nomeadamente apoio a associações de bombeiros voluntários;
+
+b) 0,20 % para ações no domínio da sinistralidade rodoviária e da prevenção da criminalidade, designadamente em espaços turísticos, no interior do País e em zonas de risco, bem como para financiamento de iniciativas no domínio da prevenção dos riscos sociais, da vitimação e do sentimento de insegurança decorrentes da criminalidade;
+
+c) 0,60 % para o policiamento de espetáculos desportivos.
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - [...]
+
+9 - [...]
+
+10 - [...]
+
+11 - [...]
+
+12 - [...]
+
+13 - [...]
+
+14 - [...]»
+
+###### Artigo 3.º — Alteração ao [Decreto-Lei n.º 216/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), de 9 de outubro
+
+O artigo 5.º do [Decreto-Lei n.º 216/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), de 9 de outubro, passa a ter a seguinte redação:
+
+«Artigo 5.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - Em caso de insuficiência das receitas referidas no número anterior, a comparticipação do Estado nos encargos com o policiamento de espetáculos desportivos pode ainda ser constituída, na medida das disponibilidades financeiras da Secretaria-Geral do Ministério da Administração Interna, com recurso:
+
+a) Às verbas transferidas pela receita transferida para o Ministério da Administração Interna com origem no jogo online, nos termos do disposto na alínea e) do n.º 10 do artigo 90.º do Regime Jurídico de Jogos e Apostas Online, aprovado pelo [Decreto-Lei n.º 66/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2015-67098359), de 29 de abril;
+
+b) Às transferências da Autoridade de Supervisão de Seguros e Fundos de Pensões relativas aos certificados de responsabilidade civil automóvel, nos termos do artigo 5.º da [Portaria n.º 403/86](https://diariodarepublica.pt/dr/detalhe/portaria/403-1986-218713), de 26 de julho, alterada pela [Portaria n.º 167/2013](https://diariodarepublica.pt/dr/detalhe/portaria/167-2013-260643), de 30 de abril.
+
+4 - As verbas referidas nos n.os2 e 3 são remetidas à Secretaria-Geral do Ministério da Administração Interna, que as transfere para as forças de segurança.
+
+5 - (Anterior n.º 4.)»
+
+###### Artigo 4.º — Disposições transitórias
+
+1 - Os montantes que ainda sejam devidos às forças de segurança com encargos com o policiamento desportivo reportados a 31 de dezembro de 2024, por insuficiência das receitas resultantes da distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa, são pagos pela Secretaria-Geral do Ministério da Administração até 30 de junho de 2025, com recurso às fontes de financiamento previstas no n.º 3 do artigo 5.º do [Decreto-Lei n.º 216/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), de 9 de outubro, com a redação conferida pelo presente decreto-lei.
+
+2 - No prazo de 180 dias contados da data de publicação do presente decreto-lei, é definido, por portaria dos membros do Governo responsáveis pelas áreas das finanças e da administração interna, um procedimento de controlo da despesa relativa aos pagamentos do Estado referentes ao policiamento de espetáculos desportivos.
+
+###### Artigo 5.º — Norma revogatória
+
+É revogada a [Portaria n.º 147/2025/2](https://diariodarepublica.pt/dr/detalhe/portaria/147-2025-907934905), de 19 de fevereiro.
+
+###### Artigo 6.º — Entrada em vigor e produção de efeitos
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - O disposto no n.º 3 do artigo 5.º do [Decreto-Lei n.º 216/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-2012-175794), de 9 de outubro, com a redação conferida pelo presente decreto-lei, produz efeitos no dia 1 de abril de 2025.
+
+Visto e aprovado em Conselho de Ministros de 10 de março de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - Margarida Blasco.
+
+Promulgado em 12 de março de 2025.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 13 de março de 2025.
+
+O Primeiro-Ministro, Luís Montenegro.
+
+118818694

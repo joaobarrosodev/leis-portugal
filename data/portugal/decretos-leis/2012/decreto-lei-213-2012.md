@@ -1,0 +1,327 @@
+---
+schema_version: '1.0'
+id: pt:dre:175525:por
+title: Decreto-Lei n.º 213/2012
+short_title: null
+summary: Procede à definição do regime de celebração de acordos de regularização voluntária de contribuições e quotizações
+  devidas à segurança social, autoriza o pagamento diferido de montante de contribuições a regularizar em situações não resultantes
+  de incumprimento e prevê uma dispensa excecional do pagamento de contribuições
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Economia e do Emprego e da Solidariedade e da Segurança Social
+proposing_entity: null
+official_number: 213/2012
+official_date: null
+publication_date: '2012-09-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 186/2012, Série I de 2012-09-25
+  number: '186'
+  series: I
+  supplement: null
+  pages: 5427 - 5428
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/09/18600/0542705428.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-04-01'
+version_history:
+  file: decreto-lei-213-2012.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-09-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-07-01'
+    amending: pt:dre:74843539:por
+    amending_title: Decreto-Lei n.º 35-C/2016
+    changes:
+    - Adita Artigo 2.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+  - date: '2019-06-29'
+    amending: pt:dre:122747583:por
+    amending_title: Decreto-Lei n.º 84/2019
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+  - date: '2020-04-01'
+    amending: pt:dre:130893436:por
+    amending_title: Lei n.º 2/2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 2.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/213/2012/p/cons/20200331/pt/html
+  oj: null
+  dre: '175525'
+  dre_path: /dr/detalhe/decreto-lei/213-2012-175525
+  internal: pt:dre:175525:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2012-175525
+  metadata_url: https://data.dre.pt/eli/dec-lei/213/2012/p/cons/20200331/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-62026961
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-62026961
+  retrieved_at: '2026-10-22T11:56:57Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f35f27b08c9cb335317dd6c96e0e54b929d25f6f5874265bf1a4dd6558307ac2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:56:57Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-213-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acordo
+- Instituto da Segurança Social
+- Pescador
+- Contribuições da Segurança Social
+- Definição de Competências
+- Rectificação de Entidade Emitente
+- Pesca
+- Pagamento
+- Instituto de Gestão Financeira da Segurança Social
+- Liquidação de Pagamentos
+- Pagamento a Prestações
+- Pagamento de Contribuições
+- Madeira.região Autónoma
+- Regime Contributivo da Segurança Social
+- Regime Jurídico
+- Segurança Social
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:74843539:por
+  label: Adita Artigo 2.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-c-2016-74843539
+  date: '2016-06-30'
+- type: amended_by
+  target: pt:dre:122747583:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583
+  date: '2019-06-28'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Altera Artigo 2.º; Altera Artigo 2.º-A; Altera Artigo 3.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: cites
+  target: pt:dre:243769:por
+  label: null
+  source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: pt:dre:490249:por
+  label: null
+  source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: pt:dre:543685:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/11/2012/02/03/p/dre
+- type: cites
+  target: pt:dre:552023:por
+  label: null
+  source: http://data.dre.pt/eli/lei/20/2012/05/14/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:56:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 213/2012
+
+Decreto-Lei n.º 213/2012
+
+de 25 de setembro
+
+Pela Lei n.º 20/2012, de 14 de maio, que procedeu à primeira alteração à Lei n.º 64-B/2011, de 30 de dezembro (Orçamento do Estado para 2012), foi aprovada uma modificação ao Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social (CRCSPSS), aprovado pela Lei n.º 110/2009, de 16 de setembro, que prevê a possibilidade de diferimento do cumprimento da obrigação contributiva quando sejam declaradas, por resolução do Conselho de Ministros, situações de catástrofe, de calamidade pública ou de fenómenos de gravidade económica ou social, nomeadamente de aleatoriedades climáticas, cujo regime se regula no presente diploma.
+
+Por seu turno, a prática revela a existência de situações em que, por motivos da responsabilidade dos serviços, se verificam atrasos na comunicação da base de incidência contributiva dos trabalhadores independentes, e que, por tal motivo, se entende não deverem os destinatários ser excessivamente onerados no cumprimento da obrigação em atraso.
+
+Os proprietários de embarcações da pesca local, os pescadores apeados e os apanhadores de espécies marinhas, por força das alterações introduzidas ao CRCSPSS pela Lei n.º 64-B/2011, de 30 de dezembro, passaram a estar abrangidos pelo regime geral dos trabalhadores por conta de outrem, a partir de 1 de janeiro de 2012, o que fundamenta o reconhecimento da irrelevância de exigência do pagamento de contribuições relativas a acertos resultantes da correção da base de incidência contributiva no âmbito do regime dos trabalhadores independentes, pelo qual estiveram abrangidos pelo período de um ano, e que não irá ter consequências na respetiva carreira contributiva.
+
+No presente diploma prevê-se assim a possibilidade de as instituições competentes de segurança social autorizarem o pagamento em prestações de contribuições devidas quando se verifiquem atrasos na comunicação da base de incidência contributiva dos trabalhadores independentes por motivos da responsabilidade dos serviços e quando esteja prevista a possibilidade de diferimento do pagamento de contribuições derivada de situações de catástrofe, calamidade pública ou alterações climáticas.
+
+Contudo, uma importante concretização é ainda edificada através do presente diploma. O novo n.º 7 do artigo 190.º do CRCSPSS prevê que o Instituto da Segurança Social, I. P., pode autorizar o pagamento em prestações de contribuições em dívida não participada para efeitos de cobrança coerciva, quando sejam previstas por resolução do Conselho de Ministros medidas de revitalização económica e recuperação e viabilização empresariais, o que se verifica com a Resolução do Conselho de Ministros n.º 11/2012, de 3 de fevereiro, que criou o Programa Revitalizar. O presente diploma vem dar forma a essa nova competência.
+
+Foram ouvidos os órgãos de governo próprio da Região Autónoma da Madeira e as confederações sindicais e patronais com assento na Comissão Permanente de Concertação Social.
+
+Foi promovida a audição aos órgãos de governo próprio da Região Autónoma dos Açores.
+
+Assim:
+
+Ao abrigo do disposto no artigo 190.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583) O presente decreto-lei produz efeitos à data da entrada em vigor da Lei do Orçamento do Estado, salvo se disposto em contrário nos artigos antecedentes, e até à entrada em vigor do decreto-lei de execução orçamental para 2020
+
+> Nota: [Declaração de Retificação n.º 69/2012 - Diário da República n.º 227/2012, Série I de 2012-11-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/69-2012-191167) No sumário e no título do presente diploma, onde se lê: «Ministérios da Economia e do Emprego e da Solidariedade e da Segurança Social» deve ler-se: «Ministério da Solidariedade e da Segurança Social»
+
+###### Artigo 1.º — Objeto
+
+O presente diploma procede à definição do regime de celebração de acordos de regularização voluntária de contribuições e quotizações devidas à segurança social, autoriza o pagamento diferido de montante de contribuições a regularizar em situações não resultantes de incumprimento e prevê uma dispensa excecional do pagamento de contribuições.
+
+###### Artigo 2.º — Acordos de regularização voluntária de dívida
+
+1 - Quando sejam previstas em resolução do Conselho de Ministros medidas de revitalização económica e recuperação e viabilização empresariais, o Instituto da Segurança Social, I. P. (ISS, I. P.), pode, através da celebração de acordos de regularização voluntária, autorizar o pagamento diferido de contribuições e quotizações em dívida relativas a um período máximo de três meses e que não tenham sido objeto de participação para efeitos de cobrança coerciva.
+
+2 - O ISS, I. P., pode ainda autorizar, através da celebração de acordos, o pagamento diferido de contribuições em dívida dos trabalhadores independentes, quando resultem das seguintes previsões do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social:
+
+a) Do apuramento de contribuições com base em correção à declaração trimestral efetuada em janeiro prevista no n.º 5 do artigo 151.º-A;
+
+b) Da revisão anual da base de incidência contributiva prevista no artigo 164.º-A.
+
+3- Os acordos abrangem a totalidade da dívida constituída, bem como os juros de mora vencidos e vincendos até integral pagamento.
+
+> Alterado pelo/a Artigo 420.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 176.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+###### Artigo 2.º-A — Acordos de regularização voluntária de contribuições
+
+1 - O ISS, I. P., pode, igualmente, através da celebração de acordos de regularização voluntária, autorizar o pagamento diferido das contribuições apuradas às pessoas coletivas e pessoas singulares com atividade empresarial, quando o pagamento em causa resulte de uma das seguintes situações:
+
+a) Do apuramento como entidade contratante;
+
+b) Do apuramento de contribuição adicional por rotatividade excessiva.
+
+2 - Os acordos devem ser requeridos no prazo de três meses a contar da data da notificação do apuramento da entidade contratante.
+
+3 - Os acordos abrangem as contribuições apuradas no processo de qualificação das entidades imediatamente anterior ao da data do requerimento, bem como os respetivos juros de mora vencidos e vincendos até integral pagamento.
+
+> Alterado pelo/a Artigo 420.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35-C/2016 - Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-c-2016-74843539), em vigor a partir de 2016-07-01
+
+###### Artigo 3.º — Condições de acesso
+
+1 - A autorização para a celebração dos acordos previstos no presente decreto-lei depende de a dívida objeto de acordo não estar participada para cobrança coerciva.
+
+2 - A autorização para a celebração dos acordos previstos no n.º 1 do artigo 2.º e no artigo 2.º-A encontra-se ainda sujeita à condição de o contribuinte não ter dívida de contribuições ou quotizações em cobrança coerciva, judicial ou extrajudicial de conciliação.
+
+3 - Os acordos de regularização voluntária previstos no n.º 1 do artigo 2.º só podem ser autorizados pelo ISS, I. P., a cada entidade contribuinte, uma vez em cada período de 12 meses, contados a partir da data em que se tenha verificado o seu termo ou resolução.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 420.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+> Alterado pelo/a Artigo 176.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35-C/2016 - Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-c-2016-74843539), em vigor a partir de 2016-07-01
+
+###### Artigo 4.º — Plano prestacional
+
+1 - Os planos prestacionais previstos nos artigos anteriores devem ser celebrados nos seguintes termos:
+
+a) Contemplar o pagamento integral da dívida constituída, bem como os respetivos juros de mora, vencidos e vincendos;
+
+b) Prever que o número máximo de prestações de igual montante não exceda seis meses.
+
+2 - O número máximo de prestações autorizadas pode ser alargado até 12 meses desde que o valor total da dívida abrangida pelo acordo seja superior a:
+
+a) (euro) 3060 para pessoas singulares;
+
+b) (euro) 15 300 para pessoas coletivas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35-C/2016 - Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-c-2016-74843539), em vigor a partir de 2016-07-01
+
+###### Artigo 5.º — Situação contributiva regularizada
+
+O cumprimento do acordo, bem como o pontual pagamento das contribuições e quotizações mensais, permite a emissão de declaração de situação contributiva regularizada nos termos do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.
+
+> Alterado pelo/a Artigo 176.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35-C/2016 - Diário da República n.º 124/2016, 1º Suplemento, Série I de 2016-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-c-2016-74843539), em vigor a partir de 2016-07-01
+
+###### Artigo 6.º — Incumprimento
+
+1 - Determina a resolução do acordo a falta de:
+
+a) Pagamento tempestivo das prestações autorizadas;
+
+b) Pagamento tempestivo das contribuições e quotizações mensais vencidas no seu decurso;
+
+c) Entrega nos prazos legais da declaração de remunerações relativamente a todos os trabalhadores.
+
+2 - Determina ainda a resolução do acordo relativo a dívida de contribuições do trabalhador independente o incumprimento das obrigações previstas nas alíneas b) e c) do número anterior, quando aquele tenha trabalhadores ao seu serviço.
+
+3 - A resolução do acordo determina a participação imediata do montante em dívida ao Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), acrescido dos respetivos juros de mora, para efeitos de cobrança coerciva.
+
+###### Artigo 7.º — Pagamento diferido
+
+O ISS, I. P., pode autorizar o pagamento diferido do montante de contribuições a regularizar em situações não resultantes de incumprimento, nos seguintes casos:
+
+a) Motivos de complexidade técnica imputáveis aos serviços que determinem que a comunicação relativa à produção de efeitos do enquadramento no início ou reinício de atividade, ou aos elementos da obrigação contributiva dos trabalhadores independentes seja efetuada em momento posterior ao previsto no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social;
+
+b) Situações de catástrofe, de calamidade pública ou de fenómenos de gravidade económica ou social, nomeadamente de aleatoriedades climáticas, em que seja previsto o cumprimento diferido da obrigação contributiva.
+
+> Alterado pelo/a Artigo 176.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29
+
+###### Artigo 8.º — Condições de pagamento
+
+1 - O número de prestações mensais objeto dos acordos celebrados nos termos do artigo anterior não pode exceder os 12 meses.
+
+2 - Não são exigíveis juros de mora na celebração dos acordos de pagamento de contribuições a regularizar ao abrigo do artigo anterior.
+
+3 - Verificando-se a falta de cumprimento de uma prestação do acordo, o valor em dívida é participado ao IGFSS, I. P., para efeitos de cobrança coerciva.
+
+> Alterado pelo/a Artigo 420.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+###### Artigo 9.º — Dispensa
+
+Os proprietários de embarcações de pesca local e costeira que integrem o rol da tripulação, os apanhadores de espécies marinhas e os pescadores apeados, enquadrados a partir de janeiro de 2012 no regime geral dos trabalhadores por conta de outrem, são dispensados do pagamento do diferencial de contribuições para o regime dos trabalhadores independentes que venha a ser apurado relativo aos meses de novembro e dezembro de 2011.
+
+###### Artigo 10.º — Regiões Autónomas
+
+A atribuição de competências ao ISS, I. P., e ao IGFSS, I. P., é feita sem prejuízo das competências próprias das instituições de segurança social das Regiões Autónomas.
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 6 de setembro de 2012. - Pedro Passos Coelho - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.
+
+Promulgado em 20 de setembro de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 21 de setembro de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

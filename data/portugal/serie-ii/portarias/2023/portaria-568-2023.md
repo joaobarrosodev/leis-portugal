@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:223414282:por
+title: Portaria n.º 568/2023
+short_title: null
+summary: Autoriza a Administração Central do Sistema de Saúde, I. P., a assumir um encargo plurianual referente ao Acordo
+  de Cooperação com a Santa Casa da Misericórdia da Mealhada (prestação de cuidados de saúde)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Saúde - Gabinetes da Secretária de Estado do Orçamento e do Secretário de Estado da Saúde
+proposing_entity: null
+official_number: 568/2023
+official_date: null
+publication_date: '2023-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 209/2023, Série II de 2023-10-27
+  number: '209'
+  series: II
+  supplement: null
+  pages: 38 - 38
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/10/209000000/0003800038.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '223414282'
+  dre_path: /dr/detalhe/portaria/568-2023-223414282
+  internal: pt:dre:223414282:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/568-2023-223414282
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/568-2023-223414282
+  consolidated_url: null
+  retrieved_at: '2026-10-23T17:50:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 770d357077b9611bd84db80666369d580df2e1f68fc51b514d345e206dafc01c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T17:50:11Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acordo
+- Administração Central do Sistema de Saúde
+- Cooperação
+- Despesas Públicas
+- Mealhada
+- Santa Casa da Misericórdia
+relationships:
+- type: cites
+  target: pt:dre:178845:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:311259:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:542996:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T17:50:11Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 568/2023
+
+Considerando a celebração do Acordo de Cooperação com a Santa Casa da Misericórdia da Mealhada para um período de 29 meses, distribuídos pelos anos de 2023 a 2026, procede-se à autorização para assunção de compromisso plurianual pela Administração Central do Sistema de Saúde, I. P.
+
+Assim:
+
+Manda o Governo, pela Secretária de Estado do Orçamento e pelo Secretário de Estado da Saúde, ao abrigo do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, nas suas redações atuais, o seguinte:
+
+1 - Fica a Administração Central do Sistema de Saúde, I. P., autorizada a assumir um encargo plurianual até ao montante de 2 543 817,60 EUR (dois milhões, quinhentos e quarenta e três mil, oitocentos e dezassete euros e sessenta cêntimos), isento de IVA, referente ao Acordo de Cooperação com Santa Casa da Misericórdia da Mealhada.
+
+2 - Os encargos resultantes do acordo não excederão, em cada ano económico, as seguintes importâncias:
+
+2023: 350 758,80 EUR, isento de IVA;
+
+2024: 1 096 529,40 EUR, isento de IVA;
+
+2025: 1 096 529,40 EUR, isento de IVA.
+
+3 - A importância fixada para cada ano económico pode ser acrescida do saldo apurado no ano anterior.
+
+4 - Os encargos objeto da presente portaria são satisfeitos por verbas adequadas inscritas no orçamento da Administração Central do Sistema de Saúde, I. P.
+
+5 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+18 de outubro de 2023. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha. - 19 de outubro de 2023. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre.
+
+316976519

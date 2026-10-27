@@ -1,0 +1,308 @@
+---
+schema_version: '1.0'
+id: pt:dre:1039332359:por
+title: Decreto n.º 5/2026
+short_title: null
+summary: Aprova o Acordo entre a República Portuguesa e a República Francesa Que Altera o Acordo Relativo à Proteção de Informações
+  e Matérias Classificadas, feito no Porto, em 28 de fevereiro de 2025.
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Negócios Estrangeiros
+official_number: 5/2026
+official_date: null
+publication_date: '2026-02-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 27/2026, Série I de 2026-02-09
+  number: '27'
+  series: I
+  supplement: null
+  pages: 16 - 21
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/02/02700/0001600021.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/5/2026/02/09/p/dre/pt/html
+  oj: null
+  dre: '1039332359'
+  dre_path: /dr/detalhe/decreto/5-2026-1039332359
+  internal: pt:dre:1039332359:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-2026-1039332359
+  metadata_url: https://data.dre.pt/eli/dec/5/2026/02/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-2026-1039332359
+  consolidated_url: null
+  retrieved_at: '2026-10-22T18:31:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 359015484110e26eb7d3cafa2330e695b46d9ac4321ac1278b6a06a08d9e75a1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T18:31:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Documentação Classificada
+- França
+- Portugal
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T18:31:43Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 5/2026
+
+O Acordo entre a República Portuguesa e a República Francesa Que Altera o Acordo Relativo à Proteção de Informações e Matérias Classificadas foi feito no Porto, a 28 de fevereiro de 2025.
+
+Com o referido Acordo, pretende-se atualizar os procedimentos referentes à proteção de informações e matérias classificadas trocadas entre as Partes, entre uma Parte e um Contratante sob a jurisdição da outra Parte, entre Contratantes sob a jurisdição das respetivas Partes, ou gerada no âmbito de um programa bilateral ao abrigo deste Acordo.
+
+Considerando as excelentes relações entre a República Portuguesa e a República Francesa, a assinatura do Acordo visa facilitar e desenvolver as relações bilaterais existentes entre os dois Estados, atualizando os procedimentos e disposições de segurança para a proteção de informações e matérias classificadas.
+
+Assim:
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o Acordo entre a República Portuguesa e a República Francesa Que Altera o Acordo Relativo à Proteção de Informações e Matérias Classificadas, feito no Porto, a 28 de fevereiro de 2025, cujo texto, nas versões autênticas, nas línguas portuguesa e francesa, se publica em anexo.
+
+Visto e aprovado em Conselho de Ministros de 29 de dezembro de 2025. - Paulo Artur dos Santos de Castro de Campos Rangel - Paulo Artur dos Santos de Castro de Campos Rangel - António Leitão Amaro.
+
+Assinado em 9 de janeiro de 2026.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 14 de janeiro de 2026.
+
+O Primeiro-Ministro, Luís Montenegro.
+
+Acordo Que Altera o Acordo sobre Proteção de Informações e Matérias Classificadas entre a República Portuguesa e a República Francesa
+
+A República Portuguesa e a República Francesa, a seguir denominadas como «Partes»:
+
+Considerando o Acordo sobre Proteção de Informações e Matérias Classificadas entre a República Portuguesa e a República Francesa, assinado em Paris, a 10 de janeiro de 2005, a seguir designado por «Acordo»;
+
+Constatando que a França procedeu a uma reforma da sua regulamentação relativa à proteção do segredo da defesa nacional, que entrou em vigor a 1 de julho de 2021;
+
+Salientando que esta reforma visou otimizar os graus de classificação de segurança, com a passagem de três graus - Confidentiel Défense, Secret Défense e Très Secret Défense - para dois graus: Secret e Très Secret, e reforçar as regras de proteção por grau, assegurando, para cada um deles, medidas de proteção equivalentes às normas internacionais;
+
+Conscientes de que as informações e matérias classificadas emitidas antes de 1 de julho de 2021, que permanecem marcadas com os antigos carimbos de classificação, continuam a ser trocadas de acordo com as equivalências em vigor antes dessa data, e de que os acordos de segurança entre a França e os seus parceiros devem ser complementados com a equivalência de proteção a ser concedida às informações e matérias classificadas francesas ou geradas em conjunto, emitidas a partir de 1 de julho de 2021:
+
+Acordam no seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O preâmbulo do Acordo é substituído pela seguinte redação:
+
+«A República Portuguesa, doravante designada por “Parte portuguesa”,
+
+E
+
+A República Francesa, doravante designada por “Parte francesa”,
+
+Doravante designadas conjuntamente “as Partes”,
+
+Desejando uma e outra garantir a proteção de informações e matérias classificadas trocadas entre as Partes,
+
+Acordam as seguintes disposições:»
+
+2 - O n.º 1 do artigo 4.º do Acordo é substituído pela seguinte redação:
+
+«1 - As ANS responsáveis pela aplicação do presente Acordo são:
+
+Pela República Portuguesa:
+
+Autoridade Nacional de Segurança, Presidência do Conselho de Ministros, Rua da Junqueira, 69, 1300-342 Lisboa;
+
+Pela República Francesa:
+
+Secrétariat général de la défense et de la sécurité nationale (SGDSN), 51, boulevard de La Tour-Maubourg, 75700 Paris 07 SP.»
+
+3 - No artigo 6.º do Acordo:
+
+a) O quadro de equivalências dos graus de classificação de segurança é substituído da seguinte forma:
+
+| « | A Parte portuguesa | A Parte francesa |
+| --- | --- | --- |
+|  | Muito Secreto | Très Secret |
+|  | Secreto | Secret |
+|  | Confidencial | (Nota a.) |
+|  | Reservado | (Nota b.) |
+
+Notas
+
+a. A Parte francesa e os organismos públicos ou privados sob a sua jurisdição tratam e protegem as informações e matérias classificadas e marcadas com “Confidencial”, transmitidas pela Parte portuguesa, segundo as suas leis e regulamentos nacionais e normas em vigor relativas à proteção das informações e matérias classificadas de “Secret”.
+
+b. A Parte portuguesa e os organismos públicos ou privados sob a sua jurisdição tratam e protegem as informações e matérias não classificadas, mas ostentando a menção de proteção “Diffusion Restreinte”, transmitidas pela Parte francesa, segundo as suas leis e regulamentos nacionais e normas em vigor relativas à proteção das informações e matérias classificadas de “Reservado”;
+
+A Parte francesa e os organismos públicos ou privados sob a sua jurisdição tratam e protegem as informações e matérias classificadas marcadas com “Reservado”, transmitidas pela Parte portuguesa, segundo as suas leis e regulamentos nacionais e normas em vigor respeitantes às informações e matérias protegidas, mas não classificadas, com a menção de “Diffusion Restreinte”.»
+
+b) Um novo n.º 2 é aditado com a seguinte redação:
+
+«2 - A Parte portuguesa e os organismos públicos ou privados sob a sua jurisdição tratam e protegem as informações e matérias classificadas de “Très Secret Défense”, “Secret Défense” e “Confidentiel Défense”, produzidas antes de 1 de julho de 2021 e transmitidas pela Parte francesa, segundo as suas leis e regulamentos nacionais e normas em vigor para as informações e matérias classificadas de “Muito Secreto”, “Secreto” e “Confidencial”, respetivamente.»
+
+c) O n.º 2 é substituído por um novo n.º 3 com a seguinte redação:
+
+«3 - A fim de manter normas de segurança comparáveis, cada Parte deve, mediante pedido, fornecer todas as informações relativas às regras de segurança, aos procedimentos e às práticas nacionais aplicáveis para garantir a segurança das informações e matérias classificadas trocadas em virtude do presente Acordo. As Partes facilitam os contactos entre as ANS e as autoridades nacionais competentes.»
+
+d) É aditado um n.º 4 com a seguinte redação:
+
+«4 - A Parte emissora pode, por motivos de segurança, solicitar que o acesso às informações e matérias classificadas trocadas em virtude do presente Acordo seja estritamente limitado a pessoas que tenham exclusivamente a nacionalidade de uma ou de outra das Partes, sendo que o acesso a informações e matérias classificadas por pessoa de um Estado terceiro só é autorizado após consentimento por escrito da ANS da Parte emissora.»
+
+e) É aditado um n.º 5 com a seguinte redação:
+
+«5 - Quando a aplicação das equivalências definidas no presente artigo for suscetível de afetar significativamente a cooperação entre as Partes ou a celebração ou execução de um contrato classificado, podem ser estabelecidas disposições de proteção derrogatórias, respeitando os requisitos de segurança das informações e matérias classificadas trocadas, mediante acordo mútuo prévio, por escrito, das ANS ou das autoridades de segurança competentes especialmente designadas para o efeito pela respetiva ANS. As ANS informam-se mutuamente das autoridades de segurança competentes por elas designadas para a aplicação do presente número.»
+
+4 - No artigo 12.º do Acordo, é aditado um n.º 5 com a seguinte redação:
+
+«5 - As trocas de informações e matérias classificadas no âmbito de instrumentos contratuais e de anexos de segurança celebrados a partir de 1 de julho de 2021, tal como a continuação das trocas de informações e matérias classificadas no âmbito de instrumentos contratuais e de anexos de segurança celebrados antes de 1 de julho de 2021, são efetuadas em conformidade com o artigo 6.º»
+
+###### Artigo 2.º — Disposição final
+
+Nos termos do artigo 20.º do Acordo, o presente acordo de revisão entra em vigor na data da receção da segunda das notificações, por via diplomática, pelas quais as Partes se informam da conclusão dos respetivos procedimentos de direito interno necessários.
+
+Feito no Porto, em 28 de fevereiro de 2025, em dois exemplares originais, nas línguas portuguesa e francesa, fazendo os dois textos igualmente fé.
+
+Pela República Portuguesa:
+
+Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+Pela República Francesa:
+
+Benjamin Haddad, Ministro delegado encarregado da Europa.
+
+Accord Portant Amendement à L’accord Relatif à la Protection des Informations et Matériels Classifiés entre la République Portugaise et la République Française
+
+La République portugaise et la République française ci-après dénommées les «Parties»:
+
+Considérant l’Accord entre la République portugaise et la République française relatif à la protection des informations et matériels classifiés, signé à Paris le 10 janvier 2005, ci-après dénommé «l’Accord» ;
+
+Constatant que la France a procédé à une réforme de sa règlementation relative à la protection du secret de la défense nationale, qui est entrée en vigueur le 1er juillet 2021;
+
+Soulignant que cette réforme visait à optimiser les niveaux de classification de sécurité, avec le passage de trois niveaux - Confidentiel Défense, Secret Défense et Très Secret Défense - à deux niveaux : Secret et Très Secret, et à renforcer les règles de protection par niveau, tout en garantissant, pour chacun d’eux, des mesures de protection équivalentes aux normes internationales;
+
+Conscientes que les informations et matériels classifiés émis avant le 1er juillet 2021, qui restent marqués des anciens timbres de classification, continuent à être échangés selon les équivalences en vigueur avant cette date et que les accords de sécurité entre la France et ses partenaires doivent être complétés pour organiser l’équivalence de protection à accorder aux informations et matériels classifiés français ou générés en commun émis après le 1er juillet 2021;
+
+Sont convenues de ce qui suit:
+
+Article 1er
+
+Objet
+
+1. Le préambule de l’Accord est remplacé par la disposition suivante:
+
+«La République portugaise, ci-après dénommée “la Partie portugaise”,
+
+Et
+
+La République française, ci-après dénommée “la Partie française”,
+
+Ci-après conjointement dénommées “les Parties”,
+
+Désireuses l’une et l’autre de garantir la protection des informations et matériels classifiés échangés entre les Parties,
+
+Sont convenues des dispositions suivantes:»
+
+2. À l’article 4 de l’Accord, le paragraphe 1 est remplacé comme suit:
+
+«1. Les Autorités Nationales de Sécurité responsables de l’application du présent Accord sont:
+
+Pour la République portugaise:
+
+Autoridade Nacional de Segurança, Presidência do Conselho de Ministros, Rua da Junqueira, 69, 1300-342 Lisboa;
+
+Pour la République française:
+
+Secrétariat général de la défense et de la sécurité nationale (SGDSN), 51, boulevard de La TourMaubourg, 75700 Paris 07 SP.»
+
+3. À l’article 6 de l’Accord:
+
+a) Le tableau d’équivalence des niveaux de classification de sécurité est remplacé comme suit:
+
+| « | La Partie portugaise | La Partie française |
+| --- | --- | --- |
+|  | Muito Secreto | Très Secret |
+|  | Secreto | Secret |
+|  | Confidencial | (Nota a.) |
+|  | Reservado | (Nota b.) |
+
+Notes
+
+a. La Partie française et les organismes publics ou privés placés sous sa juridiction traitent et protègent les informations et matériels classifiés portant la mention “Confidencial” transmis par la Partie portugaise selon leurs lois et réglementations nationales et normes en vigueur relatives à la protection des informations et matériels classifiés “Secret”.
+
+b. La Partie portugaise et les organismes publics ou privés placés sous sa juridiction traitent et protègent les informations et matériels non classifiés mais revêtus de la mention de protection “Diffusion Restreinte” transmis par la Partie française, selon leurs lois et réglementations nationales et normes en vigueur relatives à la protection des informations et matériels classifiés “Reservado”.
+
+La Partie française et les organismes publics ou privés placés sous sa juridiction traitent et protègent les informations et matériels classifiés portant la mention “Reservado” transmis par la Partie portugaise selon leurs lois et réglementations nationales et normes en vigueur relatives aux informations et matériels protégés mais non classifiés, portant la mention “Diffusion Restreinte”.»;
+
+b) Un nouveau paragraphe 2 est ajouté, rédigé comme suit:
+
+«2. La Partie portugaise et les organismes publics ou privés placés sous sa juridiction traitent et protègent les informations et matériels classifiés portant les mentions “Très Secret Défense”, “Secret Défense” et “Confidentiel Défense”, produites avant le 1er juillet 2021 et transmises par la Partie française, conformément aux exigences de sécurité prévues respectivement pour les informations classifiées de niveau “Muito Secreto”, “Secreto” et “Confidencial”.»;
+
+c) Le paragraphe 2 est remplacé par un nouveau paragraphe 3, rédigé comme suit:
+
+«3. Afin de maintenir des normes de sécurité comparables, chaque Partie doit, sur demande, fournir toutes les informations concernant les règles de sécurité, les procédures et les pratiques nationales appliquées pour assurer la sécurité des informations et matériels classifiés échangées en vertu du présent Accord. Les Parties facilitent les contacts entre les ANS et les autorités nationales compétentes.» ;
+
+d) Il est ajouté un paragraphe 4, rédigé comme suit:
+
+«4. La Partie émettrice peut, pour des raisons de sécurité, demander que l’accès aux informations échangées en vertu du présent Accord soit strictement limité aux seules personnes ayant exclusivement la nationalité de l’une ou l’autre des Parties, et l’accès aux informations et matériels classifiés par une personne d’un État tiers n’est autorisé qu’après l’accord écrit de l’ANS de la partie émettrice.»;
+
+e) Il est ajouté un paragraphe 5, rédigé comme suit:
+
+«5. Lorsque l’application des équivalences définies au présent article est de nature à affecter significativement la coopération entre les Parties, la conclusion ou l’exécution d’un contrat classifié, des modalités de protection dérogatoires peuvent être mises en place, dans le respect des exigences de sécurité des informations classifiées échangées, sous réserve de l’accord mutuel préalable écrit des ANS ou des Autorités de sécurité compétentes spécialement désignées à cet effet par leur ANS. Les ANS s’informent mutuellement des Autorités de sécurité compétentes désignées par elles pour mettre en œuvre le présent paragraphe.»;
+
+4. À l’article 12 de l’Accord, il est ajouté un paragraphe 5, rédigé comme suit:
+
+«5. Les échanges d’informations et matériels classifiés dans le cadre d’instruments contractuels et des annexes de sécurité conclus à compter du 1er juillet 2021, de même que la poursuite des échanges d’informations et matériels classifiés dans le cadre d’instruments contractuels et des annexes de sécurité conclus avant le 1er juillet 2021, s’effectuent conformément à l’article 6.».
+
+Article 2
+
+Dispositions finales
+
+Le présent accord modificatif, conformément à l’article 20 de l’Accord, entre en vigueur le jour de la réception de la seconde des notifications, par la voie diplomatique, par laquelle les Parties s’informent de l’accomplissement des procédures requises par leur droit interne.
+
+Fait à Porto, le 28 février 2025, en deux exemplaires originaux, chacun en langues portugaise et française, les deux textes faisant également foi.
+
+Pour la République portugaise:
+
+Paulo Artur dos Santos de Castro de Campos Rangel, Ministre d’État et des Affaires Étrangères.
+
+Pour la République française:
+
+Benjamin Haddad, Ministre délégué chargé de l’Europe.
+
+119947588
+
+.Tbl1 { margin-left:auto; margin-right:auto; } .Tbl2 { height:26px; } .Tbl3 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-bottom-width:0px; border-bottom-style:none; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl5 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:middle; } .Tbl6 { text-align:center; } .Tbl7 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:middle; } .Tbl8 { min-height:18px; } .Tbl9 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; vertical-align:top; } .Tbl10 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-left-style:solid; vertical-align:top; } .Tbl11 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:0px; border-right-width:0px; border-top-style:none; border-bottom-width:0px; border-bottom-style:none; border-right-style:none; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl12 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; vertical-align:middle; } .Tbl13 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:0px; border-top-width:1px; border-right-width:1px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:solid; border-right-color:rgb(0,0,0); border-left-style:none; } .Tbl14 { border-bottom-color:rgb(0,0,0); border-top-color:rgb(0,0,0); border-left-width:1px; border-top-width:1px; border-right-width:0px; border-top-style:solid; border-left-color:rgb(0,0,0); border-bottom-width:1px; border-bottom-style:solid; border-right-style:none; border-left-style:solid; }

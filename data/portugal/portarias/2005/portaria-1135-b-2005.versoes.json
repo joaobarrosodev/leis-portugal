@@ -1,0 +1,171 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:143685:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2005-123638586",
+ "dre_path": "/dr/detalhe/portaria/1135-b-2005-143685",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-10-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123540924",
+    "123540925",
+    "123540926",
+    "123540927",
+    "123540928",
+    "123540929",
+    "123540931",
+    "123540932"
+   ]
+  },
+  {
+   "date": "2010-03-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:233152:por",
+     "title": "Portaria n.º 165-A/2010",
+     "published": "2010-03-16",
+     "dre_path": "/dr/detalhe/portaria/165-a-2010-233152"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "123540924",
+    "123540925",
+    "123540926",
+    "123540927",
+    "123540928",
+    "123540929",
+    "123540930",
+    "123540956",
+    "123540932"
+   ]
+  },
+  {
+   "date": "2019-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123610214:por",
+     "title": "Portaria n.º 241-A/2019",
+     "published": "2019-07-31",
+     "dre_path": "/dr/detalhe/portaria/241-a-2019-123610214"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "123540924",
+    "123540925",
+    "123540957",
+    "123540927",
+    "123540928",
+    "123540929",
+    "123540930",
+    "123540956",
+    "123540932"
+   ]
+  }
+ ],
+ "fragments": {
+  "123540924": {
+   "fragment_id": "123638587",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1135-B/2005\n\nde 31 de Outubro\n\nO Decreto-Lei n.º 178-A/2005, de 28 de Outubro, regula a emissão do certificado de matrícula, transpondo a Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0037\" title=\"Link para Directiva da Comunidade Europeia\">1999/37/CE</a>, do Conselho, de 29 de Abril, com a redacção dada pela Directiva n.º <a href=\"eurlex.asp?ano=2003&id=303L0127\" title=\"Link para Directiva da Comunidade Europeia\">2003/127/CE</a>, da Comissão, de 23 de Dezembro, relativa aos documentos de matrícula dos veículos. Nos termos do n.º 2 do artigo 3.º do referido diploma, o modelo do certificado de matrícula dos veículos matriculados em Portugal é aprovado por portaria conjunta dos Ministros de Estado e da Administração Interna e da Justiça. Assim, considerando o anexo do Decreto-Lei n.º 178-A/2005, de 28 de Outubro, estabelece-se quais os elementos que, em concreto, devem constar do modelo do certificado de matrícula, bem como o respectivo formato.\n\nAproveita-se, ainda, para atribuir à Imprensa Nacional-Casa da Moeda, S. A., o exclusivo da emissão do modelo do certificado de matrícula e para clarificar um aspecto da emissão do certificado de matrícula de modo a evitar emissões sucessivas quando são requeridos diversos actos sobre o mesmo veículo e no mesmo momento.\n\nAssim:\n\nManda o Governo, pelos Ministros de Estado e da Administração Interna e da Justiça, ao abrigo do n.º 2 do artigo 3.º do Decreto-Lei n.º 178-A/2005, de 28 de Outubro, o seguinte:"
+  },
+  "123540925": {
+   "fragment_id": "123638588",
+   "type": 11,
+   "heading": "Artigo 1.º — Modelo de certificado de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Modelo de certificado de matrícula\n\nÉ aprovado o modelo de certificado de matrícula em anexo à presente portaria e que dela é parte integrante."
+  },
+  "123540926": {
+   "fragment_id": "123638589",
+   "type": 11,
+   "heading": "Artigo 2.º — Exclusivo da Imprensa Nacional-Casa da Moeda, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Exclusivo da Imprensa Nacional-Casa da Moeda, S. A.\n\nO modelo do certificado de matrícula é exclusivo da Imprensa Nacional-Casa da Moeda, S. A. (INCM)."
+  },
+  "123540927": {
+   "fragment_id": "123638590",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissão de certificado de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Emissão de certificado de matrícula\n\nSempre que seja requerida, no mesmo momento, a prática de diversos actos respeitantes a um veículo, o serviço competente procede à emissão de um único certificado de matrícula que integre as alterações resultantes de todos os actos."
+  },
+  "123540928": {
+   "fragment_id": "123638591",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir do dia 31 de Outubro de 2005."
+  },
+  "123540929": {
+   "fragment_id": "123638592",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 31 de Outubro de 2005."
+  },
+  "123540931": {
+   "fragment_id": "123638594",
+   "type": 14,
+   "heading": "Anexo — Modelo de certificado de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Modelo de certificado de matrícula\n\n1 - O certificado de matrícula é emitido em suporte papel, com as dimensões de 210 mm x 99 mm.\n\n2 - A protecção contra a falsificação do certificado de matrícula é realizada por meio da utilização de:\n\na) Papel de 120 g/m2 com fibras invisíveis reactivas à luz ultravioleta, com tratamento químico anti-rasura física e protegido contra ataques químicos de ácidos ou bases fortes e tratamento laserguard para melhor aderência da impressão através de toner;\n\nb) Impressão em offset húmido, nos pantones 293 (azul), 348 (verde escuro) e 368 (verde claro), com a utilização de guilhoches e microtexto;\n\nc) Impressão em tinta invisível reactiva à luz ultravioleta de símbolo alusivo ao documento único automóvel;\n\nd) Estampagem a quente de elemento opticamente variável (holograma), na frente do documento, com formato circular e um diâmetro até 25 mm.\n\n3 - O certificado de matrícula é composto por seis páginas, dobráveis em três partes, contendo os seguintes elementos:\n\n3.1 - Página 1:\n\nA menção «Comunidade Europeia»;\n\nA menção «República Portuguesa»;\n\nA letra «P», como sinal distintivo de Portugal, rodeada por 12 estrelas;\n\nA menção «Ministério da Administração Interna» e, em caracteres de menor dimensão, a menção «Direcção-Geral de Viação»;\n\nA menção «Ministério da Justiça» e, em caracteres de menor dimensão, a menção «Direcção-Geral dos Registos e do Notariado»;\n\nA menção «Certificado de Matrícula» e, em caracteres de menor dimensão, as menções «Registration Certificate», «Certificat d'immatriculation», «Zulassungsbescheinigung» e «Permiso de circulación»;\n\nO logótipo alusivo ao documento único automóvel;\n\nO número do certificado de matrícula;\n\nA data de emissão do certificado de matrícula;\n\nO holograma;\n\n3.2 - Página 2 - as informações específicas, precedidas dos respectivos códigos comunitários harmonizados:\n\n(A) Número de matrícula;\n\n(B) Data da primeira matrícula do veículo;\n\n(B.1) Matrícula anterior;\n\n(D.1) Marca;\n\n(D.2) Modelo, variante e versão;\n\n(D.3) Denominações comerciais;\n\n(E) Número de quadro;\n\n(F.1) Peso bruto;\n\n(F.2) Peso bruto em circulação nacional;\n\n(F.3) Peso bruto do conjunto em circulação nacional;\n\n(G) Tara/peso em vazio;\n\n(H) Validade da matrícula (caso não seja ilimitada);\n\n(I) Data da matrícula a que se refere o certificado;\n\n(K) Número de homologação do modelo;\n\n(K.1) Homologação nacional;\n\n(P.1) Cilindrada (cm3);\n\n(P.2) Potência útil máxima (em kW);\n\n(P.3) Tipo de combustível ou fonte de energia;\n\n(P.4) Regime nominal (em min-l);\n\n(Q) Relação potência/peso (kW/kg);\n\n(S.1) Número de lugares sentados (incluindo condutor);\n\n(S.2) Número de lugares em pé;\n\n3.3 - Página 3 - as informações específicas, precedidas dos respectivos códigos comunitários harmonizados:\n\n(J) Categoria do veículo;\n\n(J.1) Categoria nacional;\n\n(J.2) Tipo de veículo;\n\n(J.3) Tipo de caixa;\n\n(M) Distância entre eixos (mm);\n\n(N.1) (N.2) (N.3) (N.4) (N.5) Peso máximo admissível por eixo (em kg);\n\n(O.1) Peso bruto rebocável com travão (em kg);\n\n(O.2) Peso bruto rebocável sem travão (em kg);\n\n(R) Cor do veículo;\n\n(U.1) Nível sonoro estacionário [dB(A)];\n\n(U.2) Regime do motor (em min-l);\n\n(V.1) Gases do escape - CO (em g/km ou g/kWh);\n\n(V.5) Partículas - motores diesel (em g/km ou g/kWh);\n\n(V.7) CO(índice 2) (em g/km);\n\n(X.1) Pneumáticos à frente;\n\n(X.2) Pneumáticos à retaguarda;\n\n(Z.1) Comprimento máximo da caixa de carga;\n\n(Z.2) Poder de elevação;\n\n(Z.3) Anotações especiais;\n\n3.4 - Página 4 - as informações específicas, precedidas dos respectivos códigos comunitários harmonizados, consoante o caso:\n\n(C.4.1) Herança de;\n\n(C.4.2) Reserva de propriedade (nome ou denominação e residência ou sede);\n\n(C.4.3) É usufrutuário - duração do usufruto, sendo determinada;\n\n(C.4.4.1) É locatário em regime de locação financeira (início e termo da locação);\n\n(C.4.4.2) É locatário por prazo superior a um ano (início e termo do aluguer);\n\n(C.4.5) Existem outros registos (facto registado, nome ou denominação e residência ou sede);\n\n(C.4.6) Ónus fiscais (prazo e diplomas legais);\n\n(C.4.7) Regime de aluguer sem condutor;\n\n3.5 - Página 5 - as informações específicas, precedidas dos respectivos códigos comunitários harmonizados, consoante o caso:\n\n(C.1.1) Apelido(s) ou denominação comercial (do titular do certificado);\n\n(C.1.2) Outro(s) nome(s) ou inicial(ais) (do titular do certificado);\n\n(C.1.3) Morada (do titular do certificado);\n\n(C.2.1) Apelido(s) ou denominação comercial (proprietário);\n\n(C.2.2) Outro(s) nome(s) ou inicial(ais) (proprietário);\n\n(C.2.3) Morada (proprietário);\n\n(C.2.4) Quota-parte;\n\n(C.2.5) Número total de comproprietários;\n\n(C.3.1) Apelido(s) ou denominação comercial (utilizador não proprietário);\n\n(C.3.2) Outro(s) nome(s) ou iniciais (utilizador não proprietário);\n\n(C.3.3) Morada (utilizador não proprietário);\n\n3.6 - Página 6:\n\nCódigo de barras a duas dimensões (2D), em formato «QR Code», contendo a seguinte estrutura de dados:\n\n(ver documento original)\n\nInformação específica, precedida do respectivo código comunitário harmonizado:\n\n(C.4.8) segunda via, por destruição/extravio do original.\n\n4 - Se o veículo estiver sujeito ao regime da compropriedade, apenas se inscrevem no certificado de matrícula os dados relativos ao comproprietário que tiver a maior quota e, no caso de existirem várias quotas nesta situação, inscrevem-se no certificado de matrícula os dados relativos ao comproprietário cujo nome ou firma surja em primeiro lugar, de acordo com o critério da ordem alfabética."
+  },
+  "123540932": {
+   "fragment_id": "123638595",
+   "type": 14,
+   "heading": "Anexo — Modelo de certificado de matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Modelo de certificado de matrícula\n\n(ver modelo no documento original)"
+  },
+  "123540930": {
+   "fragment_id": "123638593",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro de Estado e da Administração Interna, Ascenso Luís Seixas Simões, Secretário de Estado da Administração Interna. - Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça."
+  },
+  "123540956": {
+   "fragment_id": "123638594",
+   "type": 14,
+   "heading": "Anexo — Modelo de certificado de matrícula",
+   "in_force_from": "2010-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-A/2010 - Diário da República n.º 52/2010, 1º Suplemento, Série I de 2010-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2010-233152), em vigor a partir de 2010-03-17, produz efeitos a partir de 2010-03-15"
+   ],
+   "markdown": "## Anexo — Modelo de certificado de matrícula\n\n1 - O certificado de matrícula é emitido em suporte papel, com as dimensões de 210 mm x 99 mm.\n\n2 - A protecção contra a falsificação do certificado de matrícula é realizada por meio da utilização de:\n\na) Papel sintético especifico com elevada adesividade de impressão através de toner e com elementos (spots) invisíveis e reactivos a luz ultravioleta;\n\nb) Impressão em offset húmido, nos pantones 293 (azul) e 368 (verde claro), com a utilização de guilhoches e microtexto;\n\nc) (Revogado.)\n\nd) Estampagem a quente de elemento opticamente variável (holograma), na frente do documento, com formato circular e um diâmetro até 25 mm.\n\n3 - O certificado de matrícula é composto por seis páginas, dobráveis em três partes, contendo os seguintes elementos:\n\n3.1 - Página 1:\n\nA menção «Comunidade Europeia»;\n\nA menção «República Portuguesa»;\n\nA letra «P», como sinal distintivo de Portugal, rodeada por 12 estrelas;\n\nA menção «Ministério da Justiça» e, em caracteres de menor dimensão, a menção «Instituto dos Registos e Notariado, I. P.»;\n\nA menção «Ministério das Obras Públicas, Transportes e Comunicações» e, em caracteres de menor dimensão, a menção «Instituto da Mobilidade e dos Transportes Terrestres, I. P.»;\n\nA menção «Governo Regional dos Açores» e, em caracteres de menor dimensão, a menção «Direcção Regional dos Equipamentos e Transportes Terrestres»;\n\nA menção «Governo Regional da Madeira» e, em caracteres de menor dimensão, as menções «Direcção Regional dos Transportes Terrestres» e «Direcção Regional da Administração da Justiça»;\n\nA menção «Certificado de Matrícula» e, em caracteres de menor dimensão, as menções «Registration Certificate», «Certificat d'immatriculation», «Zulassungsbescheinigung» e «Permiso de circulación»;\n\nO logótipo alusivo ao documento único automóvel;\n\nO número do certificado de matrícula;\n\nA data de emissão do certificado de matrícula;\n\nO holograma.\n\n3.2 - Página 2 - as informações específicas, precedidas dos respectivos códigos comunitários harmonizados:\n\n(A) Número de matrícula;\n\n(B) Data da primeira matrícula do veículo;\n\n(B.1) Matrícula anterior;\n\n(D.1) Marca;\n\n(D.2) Modelo, variante e versão;\n\n(D.3) Denominações comerciais;\n\n(E) Número de quadro;\n\n(F.1) Peso bruto;\n\n(F.2) Peso bruto em circulação nacional;\n\n(F.3) Peso bruto do conjunto em circulação nacional;\n\n(G) Tara/peso em vazio;\n\n(H) Validade da matrícula (caso não seja ilimitada);\n\n(I) Data da matrícula a que se refere o certificado;\n\n(K) Número de homologação do modelo;\n\n(K.1) Homologação nacional;\n\n(P.1) Cilindrada (cm3);\n\n(P.2) Potência útil máxima (em kW);\n\n(P.3) Tipo de combustível ou fonte de energia;\n\n(P.4) Regime nominal (em min-l);\n\n(Q) Relação potência/peso (kW/kg);\n\n(S.1) Número de lugares sentados (incluindo condutor);\n\n(S.2) Número de lugares em pé;\n\n3.3 - Página 3 - as informações específicas, precedidas dos respectivos códigos comunitários harmonizados:\n\n(J) Categoria do veículo;\n\n(J.1) Categoria nacional;\n\n(J.2) Tipo de veículo;\n\n(J.3) Tipo de caixa;\n\n(M) Distância entre eixos (mm);\n\n(N.1) (N.2) (N.3) (N.4) (N.5) Peso máximo admissível por eixo (em kg);\n\n(O.1) Peso bruto rebocável com travão (em kg);\n\n(O.2) Peso bruto rebocável sem travão (em kg);\n\n(R) Cor do veículo;\n\n(U.1) Nível sonoro estacionário [dB(A)];\n\n(U.2) Regime do motor (em min-l);\n\n(V.1) Gases do escape - CO (em g/km ou g/kWh);\n\n(V.5) Partículas - motores diesel (em g/km ou g/kWh);\n\n(V.7) CO(índice 2) (em g/km);\n\n(X.1) Pneumáticos à frente;\n\n(X.2) Pneumáticos à retaguarda;\n\n(Z.1) Comprimento máximo da caixa de carga;\n\n(Z.2) Poder de elevação;\n\n(Z.3) Anotações especiais;\n\n3.4 - Página 4 - as informações específicas, precedidas dos respectivos códigos comunitários harmonizados, consoante o caso:\n\n(C.4.1) Herança de;\n\n(C.4.2) Reserva de propriedade (nome ou denominação e residência ou sede);\n\n(C.4.3) É usufrutuário (duração do usufruto, sendo determinada);\n\n(C.4.4.1) É locatário em regime de locação financeira (início e termo da locação);\n\n(C.4.4.2) É locatário por prazo superior a um ano (início e termo do aluguer);\n\n(C.4.5) Existem outros registos (facto registado, nome ou denominação e residência ou sede do sujeito activo);\n\n(C.4.6) Ónus fiscais (prazo e diplomas legais);\n\n(C.4.7) Regime de aluguer sem condutor;\n\n3.5 - Página 5 - as informações específicas, precedidas dos respectivos códigos comunitários harmonizados, consoante o caso:\n\n(C.1.1) Apelido(s) ou denominação comercial (do titular do certificado);\n\n(C.1.2) Outro(s) nome(s) ou inicial(ais) (do titular do certificado);\n\n(C.1.3) Morada (do titular do certificado);\n\n(C.2.1) Apelido(s) ou denominação comercial (proprietário);\n\n(C.2.2) Outro(s) nome(s) ou inicial(ais) (proprietário);\n\n(C.2.3) Morada (proprietário);\n\n(C.2.4) Quota-parte;\n\n(C.2.5) Número total de co-proprietários;\n\n(C.3.1) Apelido(s) ou denominação comercial (utilizador não proprietário);\n\n(C.3.2) Outro(s) nome(s) ou iniciais (utilizador não proprietário);\n\n(C.3.3) Morada (utilizador não proprietário);\n\n3.6 - Página 6:\n\nCódigo de barras a duas dimensões (2D), em formato «QR Code», contendo a seguinte estrutura de dados:\n\n(ver documento original)\n\nInformação específica, precedida do respectivo código comunitário harmonizado:\n\n(C.4.8) 2.ª via, por (destruição/extravio do original).\n\n4 - Se o veículo estiver sujeito ao regime da compropriedade, apenas se inscrevem no certificado de matrícula os dados relativos ao comproprietário que tiver a maior quota e, no caso de existirem várias quotas nesta situação, inscrevem-se no certificado de matrícula os dados relativos ao comproprietário cujo nome ou firma surja em primeiro lugar, de acordo com o critério da ordem alfabética.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 165-A/2010 - Diário da República n.º 52/2010, 1º Suplemento, Série I de 2010-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/165-a-2010-233152), em vigor a partir de 2010-03-17, produz efeitos a partir de 2010-03-15"
+  },
+  "123540957": {
+   "fragment_id": "123638589",
+   "type": 11,
+   "heading": "Artigo 2.º — Exclusivo da Imprensa Nacional-Casa da Moeda, S. A.",
+   "in_force_from": "2019-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 241-A/2019 - Diário da República n.º 145/2019, 1º Suplemento, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/portaria/241-a-2019-123610214), em vigor a partir de 2019-08-05, produz efeitos a partir de 2019-07-31"
+   ],
+   "markdown": "###### Artigo 2.º — Exclusivo da Imprensa Nacional-Casa da Moeda, S. A.\n\n1 - O modelo do certificado de matrícula é exclusivo da Imprensa Nacional-Casa da Moeda, S. A. (INCM).\n\n2 - Os termos e as condições de emissão dos certificados de matrícula, incluindo os serviços relacionados de personalização, finalização, e controlo da qualidade, devoluções, tratamento de reclamações, prazos e locais de entrega, bem como os encargos a suportar, são os estabelecidos por protocolo a outorgar entre o Instituto dos Registos e do Notariado, I. P., o Instituto da Mobilidade e dos Transportes, I. P., e a Imprensa Nacional-Casa da Moeda, S. A.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 241-A/2019 - Diário da República n.º 145/2019, 1º Suplemento, Série I de 2019-07-31](https://diariodarepublica.pt/dr/detalhe/portaria/241-a-2019-123610214), em vigor a partir de 2019-08-05, produz efeitos a partir de 2019-07-31"
+  }
+ }
+}

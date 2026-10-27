@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:313050:por
+title: Decreto n.º 47705
+short_title: null
+summary: Substitui pelas disposições do presente diploma o artigo 79.º e seus parágrafos do Estatuto Orgânico das Alfândegas
+  do Ultramar, aprovado pelo Decreto n.º 43199 (edificações dentro da área de jurisdição das alfândegas)
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Serviços Aduaneiros
+proposing_entity: null
+official_number: '47705'
+official_date: null
+publication_date: '1967-05-16'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 115/1967, Série I de 1967-05-16
+  number: '115'
+  series: I
+  supplement: null
+  pages: 1060 - 1061
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/05/11500/10601061.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '313050'
+  dre_path: /dr/detalhe/decreto/47705-1967-313050
+  internal: pt:dre:313050:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/47705-1967-313050
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47705-1967-313050
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:56:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 6a20d166374e8f79d975239a2c5d452764dc3baf5edb2e0e173171bf98ac17e3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:514803:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:56:43Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 47705
+
+Sendo conveniente completar as disposições do Estatuto Orgânico das Alfândegas do Ultramar relativas à autorização para edificações na orla marítima das províncias ultramarinas com outras, semelhantes às vigentes na metrópole, dizendo respeito a idêntica autorização, mas junto das fronteiras terrestres e dentro da área de jurisdição das alfândegas;
+
+Sob proposta do Governo-Geral de Angola;
+
+Ouvido o Conselho Ultramarino;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+Artigo 1.º O artigo 79.º e seus parágrafos do Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960, é substituído pelas disposições deste decreto.
+
+Art. 2.º Dentro da área de jurisdição das alfândegas nenhuma construção poderá ser feita sem prévia autorização do governador da província, obtido o parecer da Direcção ou Repartição Provincial dos Serviços das Alfândegas:
+
+1.º Nos portos, enseadas, ancoradouros, margens dos rios habitualmente fiscalizados e à beira-mar - numa faixa de 20 m, quando se trate de povoações, e de 50 m, nos outros casos, a contar da linha das maiores águas ou marés ou dos cais, muralhas e pontes;
+
+2.º Na fronteira terrestre - numa faixa de 400 m para aquém da linha internacional, salvo quando se trate de povoações, para as quais a faixa será considerada de 50 m.
+
+§ 1.º É igualmente necessária autorização nos termos referidos no corpo deste artigo para a abertura de qualquer estabelecimento comercial ou industrial, armazém ou depósito de mercadorias no espaço compreendido entre a linha internacional da fronteira terrestre e os postos fiscais de primeira linha ou, quando estes se encontrem localizados a menos de 4 km, entre aquela linha e a linha distanciada de 4 km que lhe for paralela.
+
+§ 2.º Fica, todavia, dispensada aquela autorização para as construções em locais pertencentes às administrações dos portos, que delas deverão dar prévio conhecimento à Direcção ou Repartição Provincial das Alfândegas, sem embargo de lhes cumprir ter em conta os interesses da fiscalização aduaneira e de estarem sujeitas à proibição constante do artigo seguinte, na parte aplicável.
+
+§ 3.º O governador decidirá, sempre, das divergências entre as alfândegas e as administrações dos portos, mas a execução das obras será suspensa até ser conhecida aquela decisão.
+
+Art. 3.º A autorização a que se refere o artigo anterior não poderá ser dada para construções que se pretenda fazer a distância inferior a 10 m da linha das maiores águas ou marés ou dos cais, muralhas e pontes ou a distância inferior a 200 m da linha internacional da fronteira terrestre, conforme se trate da hipótese prevista no n.º 1.º ou na primeira parte do n.º 2.º do mesmo artigo.
+
+§ 1.º Do disposto no corpo deste artigo exceptuam-se as construções nas margens dos rios ou à beira-mar que sejam pontes, estacarias, guindastes, consertos nos cais, aterros e desaterros, canalizações, pavimentos, mictórios, bombas para abastecimento de óleos, rampas e casas-abrigos para barcos salva-vidas, estaleiros para construções navais e outras obras que, por sua natureza ou evidente vantagem pública, tenham de ficar a uma distância inferior aos aludidos 10 m quando facultem livre acesso à fiscalização e se instalem de forma que esta se possa exercer de modo eficaz.
+
+§ 2.º Excepcionalmente, poderá também o governador autorizar na zona de 200 m da fronteira terrestre construções de reconhecida necessidade, devendo observar-se a parte final do parágrafo antecedente.
+
+§ 3.º Não poderão ser autorizados nas faixas de 10 m referidos no corpo deste artigo e seu § 1.º depósitos de materiais com carácter de permanência, podendo, todavia, as actividades marítimas autorizar a colocação de barracas de madeira para banhos ou pequenas construções, quando sejam retiradas até ao fim da época balnear, de acordo com os directores das alfândegas com jurisdição na área onde se efectuem tais construções, a fim de não ser prejudicado o serviço da fiscalização.
+
+Art. 4.º As autorizações prescritas nos artigos antecedentes serão dadas a título precário, podendo, designadamente, os estabelecimentos comerciais ou industriais ser encerrados, sem direito a qualquer indemnização sempre que o interesse fiscal o aconselhe.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 16 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas, excepto Macau. - J. da Silva Cunha.

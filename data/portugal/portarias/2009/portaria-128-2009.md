@@ -1,0 +1,635 @@
+---
+schema_version: '1.0'
+id: pt:dre:601747:por
+title: Portaria n.º 128/2009
+short_title: null
+summary: Regula as medidas «Contrato emprego-inserção» e «Contrato emprego-inserção+»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 128/2009
+official_date: null
+publication_date: '2009-01-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 21/2009, Série I de 2009-01-30
+  number: '21'
+  series: I
+  supplement: null
+  pages: 645 - 649
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/01/02100/0064500649.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-04-29'
+version_history:
+  file: portaria-128-2009.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-01-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-04-19'
+    amending: pt:dre:276811:por
+    amending_title: Portaria n.º 164/2011
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+  - date: '2014-01-30'
+    amending: pt:dre:164429:por
+    amending_title: Portaria n.º 378-H/2013
+    changes:
+    - Adita Artigo 5.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+  - date: '2022-04-05'
+    amending: pt:dre:181532140:por
+    amending_title: Portaria n.º 136/2022
+    changes:
+    - Altera Artigo 5.º-A
+    - Altera Artigo 7.º
+  - date: '2025-04-29'
+    amending: pt:dre:911089451:por
+    amending_title: Portaria n.º 118/2025/1
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/128/2009/p/cons/20250317/pt/html
+  oj: null
+  dre: '601747'
+  dre_path: /dr/detalhe/portaria/128-2009-601747
+  internal: pt:dre:601747:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/128-2009-601747
+  metadata_url: https://data.dre.pt/eli/port/128/2009/p/cons/20250317/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-61616703
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-61616703
+  retrieved_at: '2026-10-22T11:56:58Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e384ea641bd8cf2783533a1a55881beca9ecb786d2d1c0d86d46486a111d8bec
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:56:58Z'
+  notes: 5 versão(ões); histórico completo em portaria-128-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Beneficiário
+- Centro de Emprego
+- Instituto do Emprego e Formação Profissional
+- Contrato
+- Desempregado
+- Atividade Ocupacional
+- Inserção Profissional
+- Desemprego
+- Rendimento Social de Inserção
+- Política de Emprego
+- Proteção no Desemprego
+- Subsídio de Desemprego
+- Subsídio Social de Desemprego
+relationships:
+- type: amended_by
+  target: pt:dre:276811:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 11.º;
+    Altera Artigo 13.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/164-2011-276811
+  date: '2011-04-18'
+- type: amended_by
+  target: pt:dre:164429:por
+  label: Adita Artigo 5.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera
+    Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:398490:por
+  label: Adita Artigo 5.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera
+    Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/20-b-2014-398490
+  date: '2014-01-30'
+- type: amended_by
+  target: pt:dre:181532140:por
+  label: Altera Artigo 5.º-A; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/136-2022-181532140
+  date: '2022-04-04'
+- type: amended_by
+  target: pt:dre:911089451:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451
+  date: '2025-03-17'
+- type: cites
+  target: pt:dre:245296:por
+  label: null
+  source: http://data.dre.pt/eli/lei/45/2005/08/29/p/dre
+- type: cites
+  target: pt:dre:444876:por
+  label: null
+  source: http://data.dre.pt/eli/port/192/1996/05/30/p/dre
+- type: cites
+  target: pt:dre:534598:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/132/1999/04/21/p/dre
+- type: cites
+  target: pt:dre:541856:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/2003/05/21/p/dre
+- type: cites
+  target: pt:dre:546202:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/220/2006/11/03/p/dre
+article_structure:
+  article_count: 21
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:56:58Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 128/2009
+
+Portaria n.º 128/2009
+
+de 30 de Janeiro
+
+O Governo tem vindo a proceder à racionalização e sistematização do edifício legislativo que enquadra e regula as medidas de política que visam promover a coesão social através do emprego e da qualificação profissional. No âmbito deste processo, reveste-se de particular valor estratégico a revisão da regulamentação das medidas activas de emprego que, em complementaridade aos instrumentos de protecção social, procuram melhorar os níveis de empregabilidade e estimular a reinserção no mercado de trabalho dos trabalhadores que se encontram em situação de desemprego.
+
+O contrato emprego-inserção e o contrato emprego-inserção+ integram-se no conjunto destas medidas, considerando que, ao permitirem aos desempregados o exercício de actividades socialmente úteis, promovem a melhoria das suas competências sócio-profissionais e o contacto com o mercado de trabalho. A experiência havida ao longo dos anos permite verificar o impacte positivo dos apoios públicos ao desenvolvimento de trabalho socialmente necessário por parte de desempregados, enquanto estes aguardam por uma alternativa de emprego ou de formação profissional. No entanto, foi reconhecida a necessidade de se proceder a ajustamentos ao regime jurídico destes apoios, nomeadamente no sentido de reforçar as disposições que visam um melhor contacto e integração no mercado de trabalho, a dignificação social destas medidas, bem como a precisão do seu âmbito. As alterações introduzidas pela presente portaria procuram igualmente melhorar a complementaridade já existente entre as medidas activas de emprego e o programa de inserção do rendimento social de inserção, através da criação do contrato emprego-inserção+.
+
+Com a revisão do regime dos apoios às actividades ocupacionais, o Governo cumpre, igualmente, um compromisso que assumiu com os parceiros sociais no Acordo Tripartido para um Novo Sistema de Regulação das Relações Laborais, das Políticas de Emprego e da Protecção Social em Portugal, no sentido de promover modalidades de aproximação ao emprego no âmbito da activação das políticas públicas, bem como cria as condições legais necessárias para executar uma das medidas específicas de apoio ao emprego da Iniciativa para o Investimento e o Emprego.
+
+Assim:
+
+Ao abrigo do disposto no artigo 15.º do Decreto-Lei n.º 220/2006, de 3 de Novembro, na alínea c) do n.º 6 do artigo 18.º da Lei n.º 13/2003, de 21 de Maio, na redacção dada pela Lei n.º 45/2005, de 29 de Agosto, e no Decreto-Lei n.º 132/99, de 21 de Abril, manda o Governo, pelo Secretário de Estado do Emprego e da Formação Profissional, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+###### Artigo 1.º — Objecto
+
+A presente portaria regulamenta as medidas 'Contrato emprego-inserção' e 'Contrato emprego-inserção+', através das quais é desenvolvido trabalho socialmente necessário.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+###### Artigo 2.º — Trabalho socialmente necessário
+
+Considera-se trabalho socialmente necessário a realização, por desempregados inscritos no Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), de atividades que satisfaçam necessidades sociais ou coletivas temporárias. .
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+###### Artigo 3.º — Objectivos
+
+São objectivos do trabalho socialmente necessário:
+
+a) Promover a empregabilidade de pessoas em situação de desemprego, preservando e melhorando as suas competências sócio-profissionais, através da manutenção do contacto com o mercado de trabalho;
+
+b) Fomentar o contacto dos desempregados com outros trabalhadores e actividades, evitando o risco do seu isolamento, desmotivação e marginalização;
+
+c) A satisfação de necessidades sociais ou coletivas, em particular ao nível local ou regional.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+### Capítulo II — Candidaturas
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+###### Artigo 4.º — Entidades promotoras
+
+1 - Podem candidatar-se aos apoios previstos na presente portaria as entidades coletivas públicas ou privadas sem fins lucrativos, nomeadamente:
+
+a) Serviços públicos que desenvolvam atividades nos termos dos n.os 1 e 2 do artigo 5.º;
+
+b) Autarquias locais;
+
+c) Entidades de solidariedade social.
+
+2 - Podem ainda candidatar-se aos apoios previstos na presente portaria as entidades coletivas privadas do sector empresarial local que sejam totalmente participadas pelos municípios, pelas associações de municípios, independentemente da respetiva tipologia, e pelas áreas metropolitanas.
+
+3 - As entidades devem satisfazer os seguintes requisitos, desde a data da apresentação da candidatura:
+
+a) Encontrarem-se regularmente constituídas e devidamente registadas;
+
+b) Terem situação contributiva regularizada perante a administração tributária e a segurança social;
+
+c) Terem a sua situação regularizada no que respeita a apoios comunitários ou nacionais, independentemente da sua natureza e objetivos, designadamente os concedidos pelo Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.);
+
+d) Disporem de contabilidade organizada de acordo com o previsto na lei.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 164/2011 - Diário da República n.º 76/2011, Série I de 2011-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/164-2011-276811), em vigor a partir de 2011-04-19
+
+###### Artigo 5.º — Candidaturas
+
+1 - As candidaturas devem ser fundamentadas de forma a comprovar, designadamente, que as actividades a desenvolver no âmbito dos projectos:
+
+a) São relevantes para a satisfação de necessidades sociais ou colectivas;
+
+a) São relevantes para a satisfação de necessidades sociais ou colectivas temporárias a nível local ou regional;
+
+b) Não visam a ocupação de postos de trabalho.
+
+2 - Têm prioridade as candidaturas cujos projectos:
+
+a) Prevejam a existência de formação prévia dos beneficiários, designadamente em contexto de trabalho;
+
+b) Se integrem nos domínios do apoio social e do património natural, cultural e urbanístico.
+
+3 - Os projectos apresentados nas candidaturas não podem ter uma duração superior a 12 meses.
+
+4 - O IEFP, I. P., decide a candidatura no prazo de 15 dias consecutivos, contados a partir da data da sua apresentação.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 164/2011 - Diário da República n.º 76/2011, Série I de 2011-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/164-2011-276811), em vigor a partir de 2011-04-19
+
+### Capítulo III — Beneficiários
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+###### Artigo 5.º-A — Âmbito pessoal
+
+1 - Podem ser integrados na medida contrato emprego-inserção os desempregados beneficiários de subsídio de desemprego ou subsídio social de desemprego, adiante designados desempregados subsidiados.
+
+2 - Podem ser integradas na medida contrato emprego-inserção+ os desempregados beneficiários do rendimento social de inserção.
+
+3 - Podem ainda ser integradas na medida contrato emprego-inserção+ as pessoas que não beneficiem das prestações referidas nos números anteriores, inscritas como desempregadas no IEFP, I. P.:
+
+a) Há pelo menos 12 meses;
+
+b) Que integrem família monoparental;
+
+c) Cujos cônjuges ou pessoas com quem vivam em união de facto se encontrem igualmente desempregados.
+
+d) Vítimas de violência doméstica.
+
+e) Beneficiários de proteção temporária ou refugiados;
+
+f) Abrangidos pela medida Apoio ao Reforço de Emergência de Equipamentos Sociais e de Saúde.
+
+4 - São equiparados a desempregados, para efeitos da aplicação da presente medida, os trabalhadores com contrato de trabalho suspenso com fundamento no não pagamento pontual da retribuição, inscritos no IEFP, I. P..
+
+5 - Considera-se que o tempo de inscrição no IEFP, I. P., não é prejudicado:
+
+a) Pela frequência de estágio profissional, formação profissional ou outra medida ativa de emprego, com exceção das medidas de apoio direto à contratação ou que visem a criação do próprio emprego;
+
+b) Pela existência de registos de remunerações na segurança social por períodos não superiores a 15 dias, desde que no total não excedam 70 dias.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2022 - Diário da República n.º 66/2022, Série I de 2022-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/136-2022-181532140), em vigor a partir de 2022-04-05, produz efeitos a partir de 2022-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 20-B/2014 - Diário da República n.º 21/2014, 1º Suplemento, Série I de 2014-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/20-b-2014-398490), em vigor a partir de 2014-01-31
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+###### Artigo 6.º — Selecção dos beneficiários
+
+1 - O IEFP, I. P., em articulação com as entidades promotoras de projetos de trabalho socialmente necessário, seleciona os beneficiários a abranger, de entre os desempregados nele inscritos, no prazo de cinco dias úteis após a receção pelo IEFP, I. P., do termo de aceitação da decisão.
+
+2 - São considerados prioritários os seguintes beneficiários:
+
+a) Pessoa com deficiências e incapacidades;
+
+b) Desempregado de longa duração;
+
+c) Desempregado com idade igual ou superior a 45 anos de idade;
+
+d) Ex-recluso ou pessoa que cumpra pena em regime aberto voltado para o exterior ou outra medida judicial não privativa de liberdade.
+
+3 - Em cada uma das prioridades previstas nas alíneas a) a d) do número anterior, preferem os desempregados subsidiados com prestações iguais ou inferiores à remuneração mínima mensal garantida (RMMG).
+
+4 - Relativamente aos beneficiários que não se enquadrem em nenhuma das prioridades referidas nas alíneas a) a d) do n.º 2, têm igualmente prioridade, relativamente aos demais, os desempregados subsidiados com prestações iguais ou inferiores à RMMG.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 164/2011 - Diário da República n.º 76/2011, Série I de 2011-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/164-2011-276811), em vigor a partir de 2011-04-19
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 294/2010 - Diário da República n.º 105/2010, Série I de 2010-05-31](https://diariodarepublica.pt/dr/detalhe/portaria/294-2010-332466), produz efeitos a partir de 2010-06-01
+
+###### Artigo 7.º — Restrições e impedimentos
+
+1 - O beneficiário pode recusar a integração num projecto caso as actividades integradas nos projectos de trabalho socialmente necessário não sejam compatíveis com a sua capacidade física e com a qualificação ou experiência profissional.
+
+2 - O beneficiário pode ainda recusar a integração num projecto caso o tempo despendido na deslocação entre a residência habitual e o local de realização das actividades seja superior ao limite a partir do qual o titular de prestações de desemprego pode recusar ofertas de emprego, nos termos da legislação aplicável.
+
+3 - O beneficiário que tenha prestado trabalho a qualquer título, com exceção do trabalho voluntário, à entidade promotora nos doze meses anteriores à apresentação da candidatura não pode ser afeto a projeto de trabalho socialmente necessário organizado por esta.
+
+4 - Excecionam-se do disposto no número anterior os destinatários que tenham estado integrados nos projetos abrangidos pela medida Apoio ao Reforço de Emergência de Equipamentos Sociais e de Saúde, ao abrigo da Portaria n.º 82-C/2020, de 31 de março, na sua atual redação.
+
+5 - O mesmo beneficiário não pode ser afeto a projetos sucessivos promovidos pela mesma entidade no âmbito de novos contratos celebrados na sequência de novas candidaturas.
+
+6 - Consideram-se projetos sucessivos, para efeitos do disposto do número anterior, aqueles em que o novo contrato com o mesmo beneficiário é celebrado no prazo de 90 dias consecutivos contados a partir do termo do contrato anterior.
+
+7 - A possibilidade de celebração de novo contrato entre o mesmo beneficiário e a mesma entidade, nos termos dos n.os 4 e 5, apenas é admitida quando não exista outra alternativa em termos de processo de inserção, na perspetiva da entidade e do beneficiário.
+
+8- A existência de oferta de emprego conveniente ou de formação profissional adequada tem prioridade sobre o exercício de trabalho socialmente necessário.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2022 - Diário da República n.º 66/2022, Série I de 2022-04-04](https://diariodarepublica.pt/dr/detalhe/portaria/136-2022-181532140), em vigor a partir de 2022-04-05, produz efeitos a partir de 2022-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 164/2011 - Diário da República n.º 76/2011, Série I de 2011-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/164-2011-276811), em vigor a partir de 2011-04-19
+
+### Capítulo IV — Contratos
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+###### Artigo 8.º — Modalidades contratuais
+
+1 - As actividades integradas nos projectos de trabalho socialmente necessários são tituladas mediante os seguintes contratos entre a entidade promotora e o beneficiário:
+
+a) No caso de desempregados subsidiados, contrato emprego-inserção;
+
+b) No caso dos desempregados referidos nos n.os 2 e 3 do artigo 5.º-A, contrato emprego-inserção+.
+
+2 - Para efeitos do número anterior, os desempregados referidos no n.º 2 do artigo 5.º-A que sejam simultaneamente titulares de prestações de desemprego consideram-se desempregados subsidiados.
+
+3 - O contrato-emprego inserção e o contrato emprego-inserção+ têm a duração máxima de 12 meses, com ou sem renovação.
+
+4 - Sem prejuízo do disposto no número anterior, um contrato emprego-inserção não pode ser celebrado por um período de duração superior ao termo do período previsto para a concessão da prestação de desemprego.
+
+5 - Os contratos podem renovar-se, mediante autorização do IEFP, I. P., concedida no prazo de cinco dias úteis após o pedido, seguida de comunicação da entidade promotora ao desempregado beneficiário, por escrito e com a antecedência mínima de oito dias úteis em relação ao termo do respectivo prazo.
+
+6 - Considera-se como um único contrato aquele que for objecto de renovação.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 164/2011 - Diário da República n.º 76/2011, Série I de 2011-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/164-2011-276811), em vigor a partir de 2011-04-19
+
+###### Artigo 9.º — Execução do contrato
+
+1 - No exercício das atividades integradas num projeto de trabalho socialmente necessário é aplicável ao beneficiário o regime da duração e horário de trabalho, descansos diário e semanal, feriados, faltas e segurança e saúde no trabalho aplicável à generalidade dos trabalhadores da entidade promotora.
+
+2 - A entidade promotora deve conceder ao beneficiário, até ao limite de horas correspondentes a quatro dias por mês, o tempo necessário para as diligências legalmente previstas para a procura activa de emprego.
+
+3 - O desempregado subsidiado tem direito a um período de dispensa até 30 dias consecutivos, devendo ser deduzidos os dias de dispensa do cumprimento de deveres, já gozados, previstos no regime jurídico de proteção no desemprego.
+
+4 - No caso de suspensão referido no n.º 5 do artigo 11.º, os dias de suspensão são contabilizados como dias de dispensa para efeitos do n.º 3.
+
+5 - O desempregado subsidiado pode renunciar ao direito referido no n.º 3, salvo o disposto no número anterior.
+
+6 - Nas situações de dispensa previstas no n.º 3 aplica-se o disposto nas alíneas do n.º 7 do artigo 11.º.
+
+7 - A entidade promotora não pode exigir ao beneficiário o exercício de actividades não previstas no projecto.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+###### Artigo 10.º — Regime jurídico de protecção no desemprego
+
+Durante o período de exercício das actividades integradas num projecto de trabalho socialmente necessário, o desempregado subsidiado é abrangido pelo regime jurídico de protecção no desemprego.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+###### Artigo 11.º — Cessação ou suspensão do contrato
+
+1 - O contrato cessa no termo do prazo ou da sua renovação, bem como quando o beneficiário:
+
+a) Obtenha emprego ou inicie, através do Instituto do Emprego e Formação Profissional, I. P., ou de qualquer outra entidade, acção de formação profissional;
+
+b) Recuse, injustificadamente, emprego conveniente ou acção de formação profissional;
+
+c) Perca o direito às prestações de desemprego;
+
+d) Perca o direito às prestações de rendimento social de inserção, salvo o disposto no artigo 22.º-A da Lei n.º 13/2003, de 21 de maio, alterada e republicada pelo Decreto-Lei n.º 133/2012, de 27 de junho, nomeadamente nas situações de alteração de rendimentos decorrente da atribuição da bolsa mensal prevista no n.º 3 do artigo 13.º do presente diploma;
+
+e) Passe à situação de reforma.
+
+2 - A entidade pode proceder à resolução do contrato se o beneficiário:
+
+a) Utilizar meios fraudulentos nas suas relações com aquela ou com o Instituto do Emprego e Formação Profissional, I. P.;
+
+b) Faltar injustificadamente durante cinco dias consecutivos ou interpolados;
+
+c) Faltar justificadamente durante 15 dias consecutivos ou interpolados;
+
+d) Desobedecer às instruções sobre o exercício de trabalho socialmente necessário, provocar conflitos repetidos ou não cumprir as regras e instruções de segurança e saúde no trabalho.
+
+3 - A entidade deve ainda proceder à resolução do contrato se o beneficiário não cumprir o regime de faltas das acções de formação nele previstas.
+
+4 - O beneficiário pode suspender o contrato, nomeadamente por doença, maternidade ou paternidade durante um período não superior a seis meses.
+
+5 - A entidade promotora pode suspender o contrato por facto a ela relativo, nomeadamente por encerramento temporário do estabelecimento onde decorre a actividade, por período não superior a um mês.
+
+6 - A suspensão do contrato depende de autorização do IEFP, I. P., concedida no prazo de cinco dias úteis após o pedido do beneficiário ou da entidade, o qual deve ser formalizado por escrito, indicando o fundamento e a duração previsível da suspensão, com a antecedência mínima de oito dias úteis ou, quando tal for manifestamente impossível, até ao dia seguinte ao facto que deu origem ao pedido de suspensão.
+
+7 - Durante a suspensão do contrato:
+
+a) Continua a ser devida ao beneficiário a respetiva prestação de desemprego, desde que previsto no respetivo regime jurídico;
+
+b) Não é devida a bolsa e os outros apoios previstos no contrato, salvo a bolsa de ocupação mensal do desempregado beneficiário do rendimento social de inserção no caso de suspensão por motivo imputável à entidade.
+
+8 - (Revogado.)
+
+9 - A cessação pelos motivos previstos nas alíneas e) e a) do n.º 1, esta última no caso da acção de formação profissional ter início através de outra entidade que não o Instituto do Emprego e Formação Profissional, I. P., deve ser comunicada, por escrito, à entidade promotora e ao Instituto do Emprego e Formação Profissional, I. P., com indicação do fundamento, com a antecedência mínima de oito dias.
+
+10 - A cessação pelos motivos previstos na alínea a) do n.º 1, caso a acção de formação profissional se inicie através do Instituto do Emprego e Formação Profissional, I. P., e nas alíneas b), c) e d) do mesmo número deve ser comunicada, por escrito, à entidade promotora e ao beneficiário, com indicação do fundamento, com a antecedência mínima de oito dias.
+
+11 - A resolução por qualquer dos motivos previstos no n.º 2 deve ser comunicada, por escrito, ao beneficiário e ao Instituto do Emprego e Formação Profissional, I. P., com indicação do fundamento, com a antecedência mínima de oito dias.
+
+12 - Nos casos aplicáveis, o IEFP, I. P., comunica de imediato a cessação do contrato ao centro distrital de segurança social competente.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 164/2011 - Diário da República n.º 76/2011, Série I de 2011-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/164-2011-276811), em vigor a partir de 2011-04-19
+
+###### Artigo 12.º — Substituição do beneficiário
+
+Em caso de cessação do contrato antes do termo do prazo inicial ou da sua renovação, o beneficiário pode ser substituído desde que:
+
+a) Não seja imputável à entidade promotora a causa de cessação;
+
+b) A entidade promotora mantenha as condições que levaram à aprovação da candidatura;
+
+c) O período de tempo para a conclusão do contrato justifique a substituição.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+### Capítulo V — Apoios financeiros
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+###### Artigo 13.º — Bolsa mensal
+
+1 - O desempregado beneficiário de subsídio de desemprego ou de subsídio social de desemprego tem direito a uma bolsa complementar de montante correspondente a 20 % do indexante dos apoios sociais.
+
+2 - (Revogado.)
+
+3 - Os desempregados referidos nos n.os 2 e 3 do artigo 5.º-A têm direito a uma bolsa de ocupação mensal de montante correspondente ao valor do indexante dos apoios sociais (IAS).
+
+4 - A bolsa referida no n.º 1 é paga pela entidade promotora e é comparticipada pelo IEFP, I. P., nos seguintes termos:
+
+a) Em 50%, no caso de entidades privadas sem fins lucrativos;
+
+b) Em 100%, independentemente do tipo de entidade, no caso dos beneficiários com deficiências e incapacidades.
+
+5 - A bolsa referida no n.º 3 é paga pela entidade promotora e comparticipada pelo Instituto do Emprego e Formação Profissional, I. P., nos seguintes termos:
+
+a) 10 % do IAS a cargo da entidade promotora e o restante pelo Instituto do Emprego e Formação Profissional, I. P., no caso de a entidade promotora ser uma entidade privada sem fins lucrativos;
+
+b) 20% do IAS a cargo da entidade promotora e o restante pelo IEFP, I. P., no caso de a entidade promotora ser uma entidade pública ou uma entidade privada prevista no n.º 2 do artigo 4.º.
+
+6 - As percentagens da comparticipação referidas no número anterior são acrescidas de 10 pontos percentuais, no caso dos beneficiários com deficiências e incapacidades.
+
+7 - A comparticipação financeira do IEFP, I. P., prevista nos números anteriores pode ser substituída, mediante despacho do membro do Governo responsável pela área do emprego, por uma forma de comparticipação baseada na modalidade de custos unitários, por mês e por beneficiário.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 20-B/2014 - Diário da República n.º 21/2014, 1º Suplemento, Série I de 2014-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/20-b-2014-398490), em vigor a partir de 2014-01-31
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 164/2011 - Diário da República n.º 76/2011, Série I de 2011-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/164-2011-276811), em vigor a partir de 2011-04-19
+
+###### Artigo 14.º — Transporte, alimentação e seguro
+
+1 - A entidade promotora deve garantir ao desempregado:
+
+a) Despesas de transporte entre a residência habitual e o local da atividade, se não assegurar o transporte até ao local onde a mesma se exerce, sem prejuízo do disposto no n.º 4;
+
+b) Refeição ou subsídio de alimentação, conforme praticado para a generalidade dos trabalhadores da entidade promotora.
+
+2 - Na ausência de atribuição de refeição ou de subsídio de alimentação por parte da entidade promotora aos seus trabalhadores, a entidade deve pagar ao desempregado subsídio de valor idêntico ao fixado para a generalidade dos trabalhadores que exercem funções públicas.
+
+3 - A entidade promotora deve efectuar um seguro que cubra os riscos que possam ocorrer durante e por causa do exercício das actividades integradas num projecto de trabalho socialmente necessário.
+
+4 - No caso dos beneficiários com deficiências e incapacidades, caso a entidade promotora não assegure ao destinatário o transporte entre a residência habitual e o local da atividade, deve pagar as despesas de transporte em montante equivalente ao custo das viagens realizadas em transporte coletivo ou, se não for possível a sua utilização, subsídio de transporte mensal no montante máximo de 12,5% do IAS, salvo situações excecionais e devidamente fundamentadas a apreciar pelo IEFP, I. P..
+
+5 - O IEFP, I.P. comparticipa as despesas ou o subsídio de transporte previstos no número anterior e o subsídio de alimentação previsto na alínea b) do n.º 1 e no n.º 2, no caso dos beneficiários com deficiências e incapacidades.
+
+6 - É aplicável às comparticipações previstas no número anterior o disposto no n.º 7 do artigo 13.º.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 20-B/2014 - Diário da República n.º 21/2014, 1º Suplemento, Série I de 2014-01-30](https://diariodarepublica.pt/dr/detalhe/portaria/20-b-2014-398490), em vigor a partir de 2014-01-31
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+###### Artigo 15.º — Acompanhamento
+
+Durante a execução das presentes medidas, podem ser realizadas acções de acompanhamento, verificação ou auditoria, por parte dos serviços do Instituto do Emprego e Formação Profissional, I. P.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+### Capítulo VI — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+###### Artigo 16.º — Incumprimento
+
+1 - O incumprimento, imputável à entidade promotora, das obrigações relativas aos apoios financeiros concedidos implica a revogação destes e a restituição do montante correspondente aos apoios recebidos.
+
+2 - Se o incumprimento for parcial, há lugar à restituição proporcional dos apoios recebidos.
+
+3 - A restituição deve ser feita no prazo de 60 dias a contar da notificação do promotor, após os quais são devidos juros de mora à taxa legal.
+
+4 - A entidade promotora fica impedida, durante dois anos, de beneficiar de qualquer apoio do Estado com a mesma natureza e finalidade.
+
+5 - Compete ao Instituto do Emprego e Formação Profissional, I. P., apreciar a causa do incumprimento e revogar os apoios concedidos ou autorizar a restituição proporcional em caso de incumprimento parcial do projecto.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+###### Artigo 17.º — Regulamentação específica
+
+1 - O IEFP, I. P., define, através de regulamento específico, os elementos procedimentais adicionais que se mostrem necessários à correcta execução da presente medida.
+
+2 - O regulamento específico previsto no número anterior é publicitado até à entrada em vigor da presente portaria.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 378-H/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/378-h-2013-164429), em vigor a partir de 2014-01-30
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 164/2011 - Diário da República n.º 76/2011, Série I de 2011-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/164-2011-276811), em vigor a partir de 2011-04-19
+
+###### Artigo 18.º — Norma revogatória
+
+Com a entrada em vigor da presente portaria é revogada a Portaria n.º 192/96, de 30 de Maio.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+###### Artigo 19.º — Norma transitória
+
+1 - As candidaturas apresentadas e aprovadas ao abrigo da portaria referida no artigo anterior são por esta regulada até ao final da execução dos respectivos projectos.
+
+2 - As candidaturas apresentadas ao abrigo da legislação referida que ainda não tenham sido aprovadas são reguladas pela presente portaria.
+
+3 - Até Julho de 2009, a candidatura referida no artigo 5.º não está sujeita a períodos de abertura e de fecho, data a partir da qual o Instituto do Emprego e Formação Profissional, I. P., definirá e publicitará períodos limitados para a apresentação de candidaturas.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+###### Artigo 20.º — Produção de efeitos
+
+A presente portaria produz efeitos no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29
+
+O Secretário de Estado do Emprego e da Formação Profissional, Fernando Medina Maciel Almeida Correia, em 28 de Janeiro de 2009.
+
+> Revogado pelo/a Artigo 19.º do/a [Portaria n.º 118/2025/1 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/portaria/118-2025-911089451), em vigor a partir de 2025-04-29

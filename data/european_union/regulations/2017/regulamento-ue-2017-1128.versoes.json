@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32017R1128:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R1128-20170630",
+ "dre_path": null,
+ "source_lastmod": "2017-06-30",
+ "versions": [
+  {
+   "date": "2017-06-30",
+   "future": false,
+   "celex": "02017R1128-20170630",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6c92ac9ef81f47ea",
+    "cec478d026c12803",
+    "3a9c8cb170fc67be",
+    "cd17ad6c52448089",
+    "fc8509b887b5b8d9",
+    "540c1b7b03534286",
+    "5b221b2ab9001fc4",
+    "29389e9aa79311f2",
+    "0848536a0107dc32",
+    "f5d394bf30762046",
+    "d770d8f2cbf83d9a",
+    "3ab33c021237ebb7",
+    "7e6191b77dd61803"
+   ]
+  }
+ ],
+ "fragments": {
+  "6c92ac9ef81f47ea": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de junho de 2017\n\nrelativo à portabilidade transfronteiriça dos serviços de conteúdos em linha no mercado interno\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "cec478d026c12803": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nObjeto e âmbito de aplicação\n\n1. O presente regulamento estabelece uma abordagem comum na União relativamente à portabilidade transfronteiriça dos serviços de conteúdos em linha, ao assegurar que os assinantes de serviços de conteúdos em linha portáteis que são licitamente prestados nos respetivos Estados-Membros de residência possam ter acesso a esses serviços e utilizá-los quando se encontrem temporariamente presentes num Estado-Membro que não seja o seu Estado-Membro de residência.\n\n2. O presente regulamento não se aplica ao domínio da fiscalidade."
+  },
+  "3a9c8cb170fc67be": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nDefinições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Assinante», qualquer consumidor que, com base num contrato de prestação de um serviço de conteúdos em linha assinado com um prestador de serviços, mediante o pagamento de uma prestação pecuniária ou sem esse pagamento, possa ter acesso a esse serviço e utilizá-lo no Estado-Membro de residência;\n\n2) «Consumidor», qualquer pessoa singular que, nos contratos abrangidos pelo presente regulamento, atue com fins alheios à sua atividade comercial, industrial, artesanal ou profissional;\n\n3) «Estado-Membro de residência», o Estado-Membro, determinado com base no artigo 5.º, em que o assinante tem a sua residência efetiva e estável;\n\n4) «Temporariamente presente num Estado-Membro», presença num Estado-Membro que não seja o Estado-Membro de residência por um período limitado;\n\n5) «Serviço de conteúdos em linha», um serviço na aceção dos artigos 56.º e 57.º do TFUE que um prestador presta licitamente a assinantes no seu Estado-Membro de residência de acordo com modalidades acordadas, em linha e em regime de portabilidade, e que seja:\n\ni) um serviço de comunicação social audiovisual, na aceção do artigo 1.º, alínea a), da Diretiva 2010/13/UE, ou\n\nii) um serviço cuja principal característica seja a oferta de acesso a obras e outro material protegido, e a sua utilização, ou transmissões de organismos de radiodifusão, quer em transmissão linear quer a pedido;\n\n6) «Portátil», uma característica de um serviço de conteúdos em linha mediante a qual os assinantes podem efetivamente ter acesso ao serviço de conteúdos em linha e utilizá-lo no seu Estado-Membro de residência sem estarem limitados a um local específico."
+  },
+  "cd17ad6c52448089": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nObrigação de permitir a portabilidade transfronteiriça de serviços de conteúdos em linha\n\n1. O prestador de um serviço de conteúdos em linha prestado mediante pagamento de uma prestação pecuniária permite a um assinante, temporariamente presente num Estado-Membro, o acesso ao serviço de conteúdos em linha e a sua utilização da mesma forma que no Estado-Membro de residência, nomeadamente através da oferta de acesso aos mesmos conteúdos, tipo e número de dispositivos, para o mesmo número de utilizadores e com a mesma gama de funcionalidades.\n\n2. O prestador não pode impor quaisquer encargos adicionais ao assinante para o acesso a serviços de conteúdos em linha e a sua utilização nos termos do n.º 1.\n\n3. A obrigação prevista no n.º 1 não abrange os requisitos de qualidade aplicáveis à prestação do serviço de conteúdos em linha a que o prestador está sujeito quando presta esse serviço no Estado-Membro de residência, salvo acordo em contrário entre o prestador de serviços e o assinante.\n\nO prestador não pode tomar medidas para reduzir a qualidade da prestação do serviço de conteúdos em linha quando prestar o serviço de conteúdos em linha nos termos do n.º 1.\n\n4. O prestador faculta ao assinante, com base nas informações de que dispõe, informações sobre a qualidade da prestação do serviço de conteúdos em linha fornecido nos termos do n.º 1. As informações são facultadas ao assinante antes da prestação do serviço de conteúdos em linha nos termos do n.º 1 e por meios adequados e proporcionados."
+  },
+  "fc8509b887b5b8d9": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nLocalização da prestação dos serviços de conteúdos em linha, o acesso aos mesmos e a sua utilização\n\nA prestação de um serviço de conteúdos em linha nos termos do presente regulamento a um assinante temporariamente presente num Estado-Membro, bem como o acesso a esse serviço e a sua utilização pelo assinante, são considerados como ocorrendo exclusivamente no Estado-Membro de residência do assinante."
+  },
+  "540c1b7b03534286": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nVerificação do Estado-Membro de residência\n\n1. No momento da celebração de um contrato de prestação de serviços de conteúdos em linha prestados mediante pagamento de uma prestação pecuniária, e aquando da sua renovação, o prestador verifica o Estado-Membro de residência do assinante, utilizando não mais de dois dos seguintes meios de verificação e assegurando, ao mesmo tempo, que os meios utilizados são razoáveis, proporcionados e eficazes:\n\na) Um bilhete de identidade, meios de identificação eletrónica, em particular os abrangidos pelos sistemas de identificação eletrónica notificados nos termos do Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/2abca814-30d0-462b-8667-9cb3e215d83b.0016.02/DOC_1#E0001)), ou qualquer outro documento de identidade válido que confirme o Estado-Membro de residência do assinante;\n\nb) Os dados de pagamento, tais como o número da conta bancária ou do cartão de débito ou crédito do assinante;\n\nc) O local da instalação de um descodificador ou dispositivo semelhante utilizado para a prestação de serviços ao assinante;\n\nd) O pagamento pelo assinante de uma taxa por outros serviços prestados no Estado-Membro em causa, tais como serviços públicos de radiodifusão;\n\ne) Um contrato de fornecimento de serviço de Internet ou de telefone ou qualquer outro tipo de contrato semelhante que vincule o assinante ao Estado-Membro;\n\nf) A inscrição no registo eleitoral nacional, se a informação em causa estiver disponível ao público;\n\ng) O pagamento de impostos locais, se a informação em causa estiver disponível ao público;\n\nh) Uma fatura do assinante que o vincule ao Estado-Membro;\n\ni) O endereço de faturação ou o endereço postal do assinante;\n\nj) Uma declaração do assinante, confirmando o endereço do assinante no Estado-Membro;\n\nk) Um controlo do endereço do protocolo Internet (IP), para identificar o Estado-Membro em que o assinante acede ao serviço de conteúdos em linha.\n\nOs meios de verificação ao abrigo das alíneas i) a k) devem ser utilizados apenas em combinação com um dos meios de verificação ao abrigo das alíneas a) a h), a menos que o endereço postal ao abrigo da alínea i) esteja incluído num registo oficial publicamente disponível.\n\n2. Se o prestador de serviços tiver dúvidas razoáveis quanto ao Estado-Membro de residência do assinante ao longo da vigência do contrato de prestação de serviços de conteúdos em linha, o prestador pode repetir a verificação do Estado-Membro de residência do assinante, nos termos do n.º 1. Em tal caso, contudo, o meio de verificação ao abrigo da alínea k) pode ser utilizado como único meio. Os dados resultantes da utilização do meio de verificação ao abrigo da alínea k) são recolhidos apenas em formato binário.\n\n3. O prestador tem o direito de solicitar ao assinante as informações necessárias para determinar o Estado-Membro de residência do assinante, nos termos dos n.^os^ 1 e 2. Se o assinante não fornecer essas informações e, consequentemente, o prestador não esteja em condições de verificar o Estado-Membro de residência do assinante, o prestador não pode, com base no presente regulamento, permitir ao assinante o acesso aos serviços de conteúdos em linha ou a sua utilização quando se encontrar temporariamente presente num Estado-Membro.\n\n4. Ao abrigo do presente regulamento, os titulares de direitos de autor ou direitos conexos ou os titulares de quaisquer direitos relativos ao conteúdo dos serviços de conteúdos em linha podem autorizar a prestação dos seus conteúdos, o acesso aos mesmos e a utilização dos referidos conteúdos sem verificação do Estado-Membro de residência. Em tais casos, o contrato entre o prestador de serviços e o assinante para a prestação de um serviço de conteúdos em linha é suficiente para determinar o Estado-Membro de residência do assinante.\n\nOs titulares de direitos de autor ou direitos conexos ou os titulares de quaisquer direitos relativos ao conteúdo dos serviços de conteúdos em linha têm o direito de revogar a autorização dada nos termos do primeiro parágrafo, desde que seja dado um pré-aviso razoável ao prestador.\n\n5. O contrato entre o prestador de serviços e os titulares de direitos de autor ou direitos conexos ou os titulares de quaisquer outros direitos relativos ao conteúdo dos serviços de conteúdos em linha não pode restringir a possibilidade de esses titulares de direitos revogarem a autorização a que se refere o n.º 4."
+  },
+  "5b221b2ab9001fc4": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nPortabilidade transfronteiriça de serviços de conteúdos em linha prestados sem pagamento de uma prestação pecuniária\n\n1. O prestador de um serviço de conteúdos em linha prestado sem pagamento de uma prestação pecuniária pode decidir permitir aos seus assinantes temporariamente presentes num Estado-Membro o acesso ao serviço de conteúdos em linha e a utilização desse serviço, na condição do prestador verificar o Estado-Membro de residência do assinante, nos termos do presente regulamento.\n\n2. Antes de prestar o seu serviço, o prestador de serviços informa os seus assinantes, os titulares relevantes de direitos de autor e direitos conexos e os titulares relevantes de quaisquer outros direitos sobre o conteúdo do serviço de conteúdos em linha da sua decisão de prestar o serviço de conteúdos em linha nos termos do n.º 1. As informações são facultadas por meios adequados e proporcionados.\n\n3. O presente regulamento é aplicável a prestadores de serviços que prestem um serviço de conteúdos em linha nos termos do n.º 1."
+  },
+  "29389e9aa79311f2": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nDisposições transitórias\n\n1. São inaplicáveis todas as disposições contratuais, inclusive entre os prestadores de serviços de conteúdos em linha e os titulares de direitos de autor ou direitos conexos ou os titulares de quaisquer outros direitos sobre o conteúdo de serviços de conteúdos em linha, bem como entre esses prestadores e os seus assinantes, que sejam contrárias ao presente regulamento, nomeadamente as que proíbam a portabilidade transfronteiriça de serviços de conteúdos em linha ou limitem essa portabilidade a um período específico.\n\n2. O presente regulamento aplica-se independentemente do direito aplicável aos contratos celebrados entre os prestadores de serviços de conteúdos em linha e os titulares de direitos de autor ou direitos conexos ou os titulares de quaisquer outros direitos sobre o conteúdo de serviços de conteúdos em linha, ou aos contratos celebrados entre esses prestadores e os seus assinantes."
+  },
+  "0848536a0107dc32": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nProteção de dados pessoais\n\n1. O tratamento de dados pessoais efetuado no âmbito do presente regulamento, incluindo, em especial, para fins da verificação do Estado-Membro de residência do assinante ao abrigo do artigo 5.º, é realizado no respeito das Diretivas 95/46/CE e 2002/58/CE. Em particular, a utilização dos meios de verificação nos termos do artigo 5.º e qualquer tratamento de dados pessoais ao abrigo do presente regulamento devem ser limitados ao que é necessário e proporcionado para alcançar o seu objetivo.\n\n2. Os dados recolhidos nos termos do artigo 5.º são utilizados exclusivamente para efeitos da verificação do Estado-Membro de residência do assinante. Esses dados não podem ser comunicados, transferidos, partilhados, ser objeto de licenças ou de outra forma transmitidos ou divulgados aos titulares de direitos de autor ou direitos conexos, ou aos titulares de quaisquer outros direitos sobre o conteúdo de serviços de conteúdos em linha ou a outros terceiros.\n\n3. Os dados recolhidos nos termos do artigo 5.º não podem ser conservados pelo prestador de um serviço de conteúdos em linha mais do que o tempo necessário para completar uma verificação do Estado-Membro de residência do assinante nos termos do artigo 5.º, n.º 1 ou n.º 2. Depois de concluída cada verificação, os dados devem ser, imediata e irreversivelmente, destruídos."
+  },
+  "f5d394bf30762046": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAplicação a contratos em vigor e a direitos adquiridos\n\n1. O presente regulamento é igualmente aplicável aos contratos celebrados e aos direitos adquiridos antes da data da sua aplicação desde que estes sejam relevantes para a prestação de um serviço de conteúdos em linha, o acesso ao referido serviço e a sua utilização, nos termos dos artigos 3.º e 6.º, depois daquela data.\n\n2. [**►C1**](http://publications.europa.eu/resource/celex/32017R1128R%2801%29) Até 2 de junho de 2018**◄**, o prestador de um serviço de conteúdos em linha prestado mediante pagamento de uma prestação pecuniária verifica, nos termos do presente regulamento, o Estado-Membro de residência dos assinantes que celebraram contratos de prestação do serviço de conteúdos em linha antes dessa data.\n\nNo prazo de dois meses a contar da data em que o prestador de um serviço de conteúdos em linha prestado sem pagamento de uma prestação pecuniária preste pela primeira vez o serviço nos termos do artigo 6.º, o prestador verifica, nos termos do presente regulamento, o Estado-Membro de residência dos assinantes que celebraram contratos de prestação do serviço de conteúdos em linha antes dessa data."
+  },
+  "d770d8f2cbf83d9a": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nRevisão\n\n[**►C1**](http://publications.europa.eu/resource/celex/32017R1128R%2801%29) Até 2 de abril de 2021**◄** e posteriormente sempre que necessário, a Comissão avalia a aplicação do presente regulamento à luz da evolução jurídica, tecnológica e económica, e apresenta ao Parlamento Europeu e ao Conselho um relatório sobre este tema.\n\nO relatório referido no primeiro parágrafo deve incluir, entre outros, uma avaliação da aplicação dos meios de verificação do Estado-Membro de residência a que se refere o artigo 5.º, tendo em conta novas tecnologias, normas e práticas industriais e, se for caso disso, considerar a necessidade de proceder a uma revisão. O relatório deve prestar especial atenção ao impacto do presente regulamento nas PME e na proteção dos dados pessoais. O relatório da Comissão deve ser acompanhado, se for caso disso, de uma proposta legislativa."
+  },
+  "3ab33c021237ebb7": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nDisposições finais\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. [**►C1**](http://publications.europa.eu/resource/celex/32017R1128R%2801%29) O presente regulamento é aplicável a partir de 1 de abril de 2018.**◄**\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "7e6191b77dd61803": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> () Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014, relativo à identificação eletrónica e aos serviços de confiança para as transações eletrónicas no mercado interno e que revoga a Diretiva 1999/93/CE (JO L 257 de 28.8.2014, p. 73)."
+  }
+ }
+}

@@ -1,0 +1,302 @@
+---
+schema_version: '1.0'
+id: pt:dre:536992:por
+title: Decreto Regulamentar n.º 20/2001
+short_title: null
+summary: Regulamenta as carreiras de inspector do trabalho do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+  (IDICT)
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 20/2001
+official_date: null
+publication_date: '2001-12-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 295/2001, Série I-B de 2001-12-22
+  number: '295'
+  series: I
+  supplement: null
+  pages: 8404 - 8406
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/12/295b00/84048406.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2005-12-31'
+version_history:
+  file: decreto-regulamentar-20-2001.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2001-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-31'
+    amending: pt:dre:472765:por
+    amending_title: Decreto Regulamentar n.º 11/2005
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/20/2001/p/cons/20051230/pt/html
+  oj: null
+  dre: '536992'
+  dre_path: /dr/detalhe/decreto-regulamentar/20-2001-536992
+  internal: pt:dre:536992:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/20-2001-536992
+  metadata_url: https://data.dre.pt/eli/decregul/20/2001/p/cons/20051230/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2001-107689240
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2001-107689240
+  retrieved_at: '2026-10-22T12:12:19Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a1be71ae9e65557d4c8015d72798d9f74702f63f3c439d9399d9f39804a8311f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:12:19Z'
+  notes: 2 versão(ões); histórico completo em decreto-regulamentar-20-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Profissional
+- Instituto de Desenvolvimento e Inspecção das Condições de Trabalho
+- Pessoal de Inspecção
+- Pessoal Técnico de Inspecção
+- Pessoal Técnico Superior de Inspecção
+- Reclassificação de Pessoal
+- Reestruturação de Carreiras
+relationships:
+- type: amended_by
+  target: pt:dre:472765:por
+  label: Altera Artigo 2.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2005-472765
+  date: '2005-12-30'
+- type: cites
+  target: pt:dre:144609:por
+  label: null
+  source: http://data.dre.pt/eli/port/550/1997/07/25/p/dre
+- type: cites
+  target: pt:dre:265699:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/219/1993/06/16/p/dre
+- type: cites
+  target: pt:dre:362312:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/112/2001/04/06/p/dre
+- type: cites
+  target: pt:dre:413793:por
+  label: null
+  source: http://data.dre.pt/eli/port/259/1996/07/18/p/dre
+- type: cites
+  target: pt:dre:423417:por
+  label: null
+  source: http://data.dre.pt/eli/port/596-b/1993/06/21/p/dre
+- type: cites
+  target: pt:dre:426747:por
+  label: null
+  source: http://data.dre.pt/eli/lei/116/1999/08/04/p/dre
+- type: cites
+  target: pt:dre:445096:por
+  label: null
+  source: http://data.dre.pt/eli/port/178/1996/05/29/p/dre
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:515273:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/3/2000/03/21/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:12:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 20/2001
+
+Decreto Regulamentar n.º 20/2001
+
+de 22 de Dezembro
+
+As carreiras de inspecção superior e de inspecção do grupo de pessoal técnico de inspecção do quadro do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho (IDICT) regem-se actualmente pelo Decreto-Lei n.º 219/93, de 16 de Junho, e pelo Decreto Regulamentar n.º 3/2000, de 21 de Março.
+
+Tendo sido definido o enquadramento e definida a estrutura das carreiras de inspecção da Administração Pública, torna-se necessário promover a sua adaptação às carreiras de inspecção acima referidas, ao abrigo do artigo 14.º do Decreto-Lei n.º 112/2001, de 6 de Abril.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+Nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente diploma define e regulamenta a estrutura das carreiras do grupo de pessoal técnico de inspecção do quadro de pessoal do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho (IDICT).
+
+###### Artigo 2.º — Carreiras de inspector do trabalho
+
+1 - O IDICT, para a prossecução das competências cometidas à Inspecção-Geral do Trabalho (IGT), dispõe das seguintes carreiras de inspector do trabalho:
+
+a) A carreira de inspector superior do trabalho;
+
+b) Transitoriamente, e enquanto haja funcionários nelas integrados, as carreiras de inspector técnico do trabalho e de inspector-adjunto do trabalho.
+
+2 - As vagas que forem ocorrendo nas carreiras referidas na alínea b) do número anterior transitam, automaticamente, para a carreira de inspector superior do trabalho, sem prejuízo da manutenção do número de lugares de inspector técnico do trabalho indispensável à aplicação das regras de intercomunicabilidade constantes dos n.os 3 e 4 do artigo 9.º do Decreto-Lei n.º 112/2001, de 6 de Abril.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 11/2005 - Diário da República n.º 250/2005, Série I-B de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2005-472765), em vigor a partir de 2005-12-31, produz efeitos a partir de 2002-01-01
+
+###### Artigo 3.º — Conteúdo funcional
+
+1 - Os inspectores do trabalho concebem e desenvolvem metodologias e acções de informação, aconselhamento e de controlo, no âmbito de poderes de autoridade pública, nas empresas e outras organizações, com vista à promoção da melhoria das condições de trabalho.
+
+2 - Na acção de promoção da melhoria das condições de trabalho, compete aos inspectores do trabalho:
+
+a) Desenvolver as acções necessárias à avaliação da qualidade de trabalho, das condições de trabalho e da gestão e organização da segurança, higiene e saúde do trabalho;
+
+b) Prestar a entidades patronais, trabalhadores e seus representantes, nos locais de trabalho, ou nos serviços da IGT, informações e conselhos técnicos sobre o modo mais adequado de observarem essas disposições;
+
+c) Notificar para que, dentro de um prazo fixado, sejam realizadas nos locais de trabalho as modificações necessárias para assegurar a aplicação das disposições relativas à segurança, higiene e saúde dos trabalhadores;
+
+d) Notificar o empregador para adoptar medidas de prevenção no domínio da avaliação dos riscos profissionais, designadamente promover, através de organismos especializados, medições, testes ou peritagens incidentes sobre os componentes materiais de trabalho;
+
+e) Notificar para que sejam adoptadas medidas imediatamente executórias, incluindo a suspensão de trabalhos em curso, em caso de risco grave ou probabilidade séria de verificação de lesão da vida, da integridade física ou da saúde dos trabalhadores;
+
+f) Controlar a obrigatoriedade da criação, por parte de empresas, dos serviços e órgãos de segurança, higiene e saúde no trabalho e do seu funcionamento;
+
+g) Realizar inquéritos em casos de acidentes de trabalho mortais ou que evidenciem situações particularmente graves, ou de doenças profissionais que provoquem lesões graves, sem prejuízo, neste caso, das competências de outras entidades, com vista ao desenvolvimento de medidas de prevenção adequadas nos locais de trabalho;
+
+h) Dar pareceres no âmbito de processos de licenciamento relativos à instalação, alteração e laboração de estabelecimentos, tendo em vista a prevenção de riscos profissionais;
+
+i) Participar em vistorias conjuntas no âmbito de processos de licenciamento relativos à instalação, alteração e laboração de estabelecimentos, tendo em vista a prevenção de riscos profissionais;
+
+j) Promover processos de contra-ordenação ou contravenção, levantando autos de notícia, elaborando participação ou procedendo a inquérito prévio;
+
+l) Promover a colaboração de outras entidades com competência no âmbito das condições de trabalho;
+
+m) Participar a outras entidades situações relacionadas com as condições de trabalho no âmbito das suas competências;
+
+n) Elaborar os relatórios, informações e outros documentos decorrentes da acção inspectiva;
+
+o) Instruir processos relativos a autorizações administrativas no âmbito das condições e relações de trabalho;
+
+p) Elaborar informações, pareceres e estudos de natureza diversa no âmbito das competências da IGT;
+
+q) Participar em grupos de trabalho, comissões, equipas de projecto e missões específicas, para que seja designado.
+
+3 - Aos inspectores do trabalho integrados na carreira de inspector técnico do trabalho, a que faz referência a alínea b) do n.º 1 do artigo 2.º, para além das funções indicadas no número anterior, compete:
+
+a) Colaborar na programação da actividade inspectiva, de acordo com os planos de actividades anuais, e de acções conjuntas desenvolvidas no âmbito de articulações com outros sistemas inspectivos, de âmbito regional e inter-regional;
+
+b) Coordenar e executar acções inspectivas de âmbito regional, inter-regional e nacional;
+
+c) Instruir processos de contra-ordenação laboral que lhes sejam confiados nos termos do artigo 25.º da Lei n.º 116/99, de 4 de Agosto.
+
+4 - Aos inspectores do trabalho integrados na carreira de inspector superior do trabalho, para além das funções indicadas nos números anteriores, compete:
+
+a) Realizar trabalhos e estudos de apoio às decisões programáticas dos órgãos da direcção da IGT;
+
+b) Assessorar os órgãos da direcção da IGT, quando solicitado;
+
+c) Assegurar a instrução de processos de averiguações, de inquéritos e disciplinares.
+
+###### Artigo 4.º — Estágio
+
+1 - A admissão ao estágio para ingresso na carreira de inspector superior é feita mediante concurso, de entre indivíduos que satisfaçam, cumulativamente, os requisitos gerais de admissão e estejam habilitados com carta de condução de veículos ligeiros.
+
+2 - O regulamento de estágio é aprovado por despacho conjunto dos Ministros do Trabalho e da Solidariedade e da Reforma do Estado e da Administração Pública.
+
+3 - Os estagiários aprovados que excedam o número de vagas fixado poderão ser nomeados dentro do prazo de validade do concurso para admissão ao estágio.
+
+4 - A partir da nomeação a que se refere o número anterior e por causa que lhes seja imputável, os inspectores que não prestem o tempo de serviço correspondente à duração do estágio ficam obrigados a reembolsar o IDICT de todas as despesas efectuadas com a sua formação.
+
+###### Artigo 5.º — Formação profissional
+
+1 - A IGT assegura ao pessoal integrado nas carreiras referidas no artigo 2.º a realização das acções de formação necessárias ao ingresso e acesso nas mesmas, bem como as destinadas à actualização e valorização profissional.
+
+2 - A regulamentação e a definição da formação exigida pelos requisitos de intercomunicabilidade entre carreiras, a que se refere o artigo 9.º do Decreto-Lei n.º 112/2001, de 6 de Abril, é estabelecida por despacho conjunto dos Ministros do Trabalho e da Solidariedade e da Reforma do Estado e da Administração Pública.
+
+###### Artigo 6.º — Transição
+
+1 - A transição dos funcionários integrados no grupo de pessoal técnico de inspecção do quadro do IDICT para as carreiras de inspecção faz-se conforme tabela anexa e obedece às seguintes regras:
+
+a) Os inspectores superiores principais, os inspectores superiores, os inspectores principais e os inspectores são integrados nas categorias com a mesma designação da carreira de inspector superior do trabalho;
+
+b) Os inspectores principais, equiparados a inspectores, referenciados na alínea d) do n.º 1 do artigo 50.º do Decreto-Lei n.º 219/93, de 16 de Junho, são integrados, em lugares a extinguir quando vagarem, na categoria de inspector;
+
+c) Os inspectores técnicos especialistas principais com habilitação mínima de curso superior que não confira o grau de licenciatura são integrados na categoria de inspector principal, desde que habilitados com formação adequada, nos termos do Decreto Regulamentar n.º 3/2000, de 21 de Março;
+
+d) Os inspectores técnicos especialistas principais, os inspectores técnicos especialistas e os inspectores técnicos principais são integrados nas categorias com a mesma designação da carreira de inspector técnico do trabalho;
+
+e) Os inspectores-adjuntos principais com três anos de serviço na categoria, classificados de Bom, são integrados na categoria de inspector técnico principal, desde que estejam habilitados com curso superior que não confira o grau de licenciatura ou com formação adequada, nos termos do Decreto Regulamentar n.º 3/2000, de 21 de Março;
+
+f) Os inspectores-adjuntos principais e os inspectores-adjuntos são integrados, respectivamente, nas categorias de inspector-adjunto especialista principal e de inspector-adjunto especialista, da carreira de inspector-adjunto do trabalho.
+
+2 - A transição de pessoal a que se referem as alíneas c) e e) do número anterior faz-se para escalão a que corresponda índice igual àquele que o funcionário detém na categoria de origem ou índice superior aproximado, se não houver coincidência, e a contagem de tempo na nova categoria só se inicia a partir da data da transição.
+
+###### Artigo 7.º — Alteração do quadro de pessoal
+
+1 - O quadro de pessoal do IDICT, aprovado pela Portaria n.º 596-B/93, de 21 de Junho, com as alterações introduzidas pelas Portarias n.os 178/96, de 29 de Maio, e 550/97, de 25 de Julho, e pelo artigo 11.º do Decreto Regulamentar n.º 3/2000, de 21 de Março, é alterado por portaria conjunta dos Ministros das Finanças, do Trabalho e da Solidariedade e da Reforma do Estado e da Administração Pública, tendo em conta o disposto nos artigos 11.º e 17.º do Decreto-Lei n.º 112/2001, de 6 de Abril, e o disposto no número seguinte.
+
+2 - Os lugares vagos das carreiras de inspector do trabalho referidas na alínea b) do n.º 1 do artigo 2.º transitam para a carreira de inspector superior do trabalho, sem prejuízo da manutenção do número de lugares de inspector técnico do trabalho indispensável à aplicação das regras de intercomunicabilidade constantes dos n.os 3 e 4 do artigo 9.º do Decreto-Lei n.º 112/2001, de 6 de Abril.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 11/2005 - Diário da República n.º 250/2005, Série I-B de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2005-472765), em vigor a partir de 2005-12-31, produz efeitos a partir de 2002-01-01
+
+###### Artigo 8.º — Disposição transitória
+
+Até à aprovação do regulamento a que se refere o n.º 2 do artigo 4.º mantém-se em vigor o regulamento de estágio aprovado pela Portaria n.º 259/96, de 18 de Julho.
+
+###### Artigo 9.º — Entrada em vigor e produção de efeitos
+
+1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação, sem prejuízo do disposto no artigo 19.º do Decreto-Lei n.º 112/2001, de 6 de Abril.
+
+2 - Aos funcionários que tenham mudado de categoria ou de escalão a partir de 1 de Julho de 2000 são aplicáveis as transições constantes da tabela anexa ao presente diploma, com efeitos a partir da data em que as mesmas ocorreram.
+
+Visto e aprovado em Conselho de Ministros de 28 de Outubro de 2001. - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - Paulo José Fernandes Pedroso - Alberto de Sousa Martins.
+
+Promulgado em 5 de Dezembro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 7 de Dezembro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+MAPA DE TRANSIÇÃO
+
+(n.º 1 do artigo 6.º)
+
+(ver mapa no documento original)

@@ -1,0 +1,169 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31994L0002:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01994L0002-20111130",
+ "dre_path": null,
+ "source_lastmod": "2011-11-30",
+ "versions": [
+  {
+   "date": "1994-02-17",
+   "future": false,
+   "celex": "31994L0002",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8619bc771d8673c2",
+    "9ffcd59a534027c0",
+    "c967065afa3f4a1b",
+    "95c33651e1d24ff5",
+    "ff11705b56a4aacc",
+    "8dee5150385ac763",
+    "f16349af6fb40339",
+    "07548365411f06b4",
+    "ecccc9e0b611384a",
+    "91471b4becb3d9ef",
+    "d0ac44adfa7059d7",
+    "d32fd246c234be40",
+    "07f492378e32c15c"
+   ]
+  },
+  {
+   "date": "2011-11-30",
+   "future": false,
+   "celex": "01994L0002-20111130",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1º",
+    "Suprime Artigo 2º",
+    "Suprime Artigo 3º",
+    "Suprime Artigo 4º",
+    "Suprime Artigo 5º",
+    "Suprime Artigo 6º",
+    "Suprime ANEXO I — ETIQUETA",
+    "Suprime ANEXO II — FICHA",
+    "Suprime ANEXO III — VENDAS POR CORREIO E OUTRAS VENDAS À DISTÂNCIA",
+    "Suprime ANEXO IV — CATEGORIAS",
+    "Suprime ANEXO V — CLASSE DE EFICIÊNCIA ENERGÉTICA",
+    "Suprime ANEXO VI — >POSIÇÃO NUMA TABELA>"
+   ],
+   "fragments": [
+    "ac70918983cfa9a0"
+   ]
+  }
+ ],
+ "fragments": {
+  "8619bc771d8673c2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Directiva 94/2/CE da Comissão, de 21 de Janeiro de 1994, que estabelece as normas de execução da Directiva 92/75/CEE do Conselho, no que diz respeito à rotulagem energética** *Jornal Oficial nº L 045 de 17/02/1994 p. 0001 - 0022 Edição especial finlandesa: Capítulo 13 Fascículo 25 p. 0249 Edição especial sueca: Capítulo 13 Fascículo 25 p. 0249*\n\nDIRECTIVA 94/2/CE DA COMISSÃO\n\nde 21 de Janeiro de 1994\n\nque estabelece as normas de execução da Directiva 92/75/CEE do Conselho, no que diz respeito à rotulagem energética\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 92/75/CEE do Conselho, de 22 de Setembro de 1992, relativa à indicação do consumo de energia dos aparelhos domésticos por meio de rotulagem e outras indicações uniformes relativas aos produtos (1), e, nomeadamente, os seus artigos 9º e 12º,\n\nConsiderando que, nos termos da Directiva 92/75/CEE, a Comissão deve adoptar uma directiva de aplicação no que respeita aos aparelhos domésticos, nomeadamente aos frigoríficos, congeladores e respectivas combinações;\n\nConsiderando que o consumo de energia eléctrica dos frigoríficos e congeladores representa uma parte significativa da procura comunitária global de energia eléctrica; que a perspectiva de redução do consumo de energia destes aparelhos é substancial;\n\nConsiderando que a norma EN 153 do Comité Europeu de Normalização (CEN) fornece um método de medição do consumo de energia dos frigoríficos, congeladores e respectivas combinações;\n\nConsiderando que a Comunidade, confirmando o seu interesse num sistema internacional de normalização que proporcione a criação de normas efectivamente utilizadas por todos os parceiros nas trocas comerciais internacionais que respeite as exigências das políticas comunitárias, convida os organismos europeus de normalização a prosseguirem a cooperação com os organismos internacionais de normalização;\n\nConsiderando que o Comité Europeu de Normalização e o Comité Europeu de Normalização Electrotécnica (Cenelec) são reconhecidos como os organismos competentes para adoptar as normas harmonizadas nos termos das orientações gerais para a cooperação entre a Comissão e esses dois organismos, assinadas em 13 de Novembro de 1984; que, na acepção da presente directiva, uma norma harmonizada constitui uma especificação técnica (norma europeia ou documento de harmonização) adoptada pelo CEN sob mandato da Comissão, nos termos da Directiva 83/189/CEE do Conselho, de 28 de Março de 1983, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas (2), com a última redacção que lhe foi dada pelo Decisão 92/400/CEE da Comissão (3), e com base nas orientações gerais anteriormente referidas;\n\nConsiderando que as medidas propostas na presente directiva estão em conformidade com o parcer do comité instituído pelo artigo 10º da Directiva 92/75/CEE,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "9ffcd59a534027c0": {
+   "fragment_id": "Artigo 1º",
+   "type": "artigo",
+   "heading": "Artigo 1º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º\n\n1. A presente directiva aplica-se a frigoríficos, conservadores de produtos congelados e congeladores para usos domésticos e suas combinações, que sejam alimentados pela rede eléctrica. Não são abrangidos aparalhos que possam utilizar outras fontes de energia, como pilhas ou baterias.\n\n2. Os dados requeridos ao abrigo da presente directiva serão medidos em conformidade com a norma EN 153 de Maio 1990, ou com outras normas harmonizadas cujos números de referência sejam publicados no Jornal Oficial das Comunidades Europeias e para os quais os Estados-membros tenham publicado os números de referência das normas nacionais que transpõem as referidas normas harmonizadas. A informação relativa ao ruído, quando aplicável, deve ser medida de acordo com a Directiva 86/594/CEE do Conselho (4).\n\n3. As normas harmonizadas referidas no nº 2 serão redigidas sob mandato da Comissão em conformidade com a Directiva 83/189/CEE.\n\n4. Os termos «distribuidor», «fornecedor», «ficha», e «informações suplementares» são utilizados na acepção do nº 4 do artigo 1º da Directiva 92/75/CEE."
+  },
+  "c967065afa3f4a1b": {
+   "fragment_id": "Artigo 2º",
+   "type": "artigo",
+   "heading": "Artigo 2º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º\n\n1. A documentação técnica referida no nº 3 do artigo 2º da Directiva 92/75/CEE deve incluir:\n\n- o nome e endereço do fornecedor,\n\n- uma descrição genérica do aparelho, que permita identificá-lo,\n\n- dados, incluindo, se relevante, desenhos, relativos às principais características do projecto do modelo em questão, designadamente as que afectem de modo significativo o consumo de energia,\n\n- relatórios sobre os testes de medição efectuados no modelo no âmbito dos procedimentos referidos no nº 2 do artigo 1º da presente directiva,\n\n- se aplicável, instruções de funcionamento.\n\n2. Os aparelhos abrangidos pela presente directiva serão subdivididos em «categorias», as quais constam do anexo 4.\n\n3. O rótulo referido no nº 1 do artigo 2º da Directiva 92/75/CEE deve obedecer às especificações do anexo I da presente directiva. O rótulo deve ser colocado na parte externa do aparelho, à frente ou em cima, por forma a ser claramente visível.\n\n4. O teor e estrutura da ficha referida no nº 1 do artigo 2º da Directiva 92/75/CEE deve obedecer às especificações do anexo II da presente directiva.\n\n5. Nas circunstâncias previstas no artigo 5º da Directiva 92/75/CEE e se a proposta de venda, locação ou locação com opção de venda se efectuar através de uma comunicação em material impresso, como por exemplo, um catálogo de vendas por correspondência, este material impresso deve incluir todos os dados constantes do anexo 3 da presente directiva.\n\n6. A classe de rendimento energético dos aparelhos deve ser expressa tal como especificado no anexo V."
+  },
+  "95c33651e1d24ff5": {
+   "fragment_id": "Artigo 3º",
+   "type": "artigo",
+   "heading": "Artigo 3º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º\n\nOs Estados-membros tomarão as medidas necessárias para assegurar que todos os fornecedores e distribuidores estabelecidos nos respectivos territórios observem o disposto na presente directiva."
+  },
+  "ff11705b56a4aacc": {
+   "fragment_id": "Artigo 4º",
+   "type": "artigo",
+   "heading": "Artigo 4º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º\n\n1. Os Estados-membros adoptarão e publicarão as disposições necessárias para dar cumprimento à presente directiva até 31 de Dezembro de 1994. Do facto informarão imediatamente a Comissão. Os Estados-membros aplicarão estas disposições a partir de 1 de Janeiro de 1995.\n\nAs disposições adoptadas pelos Estados-membros devem conter uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-membros determinarão o modo como tal referência será feita.\n\n2. Os Estados-membros comunicarão à Comissão o texto das disposições de direito interno que adoptem no domínio regido pela presente directiva."
+  },
+  "8dee5150385ac763": {
+   "fragment_id": "Artigo 5º",
+   "type": "artigo",
+   "heading": "Artigo 5º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no Jornal Oficial das Comunidades Europeias."
+  },
+  "f16349af6fb40339": {
+   "fragment_id": "Artigo 6º",
+   "type": "artigo",
+   "heading": "Artigo 6º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º\n\nOs Estados-membros são os destinatários da presente directiva.\n\nFeito em Bruxelas, em 21 de Janeiro de 1994.\n\nPela Comissão\n\nAbel MATUTES\n\nMembro da Comissão\n\n(1) JO nº L 297 de 13. 10. 1992, p. 16.\n\n(2) JO nº L 109 de 26. 4. 1983, p. 8.\n\n(3) JO nº L 221 de 6. 8. 1992, p. 55.\n\n(4) JO nº L 344 de 6. 12. 1986, p. 24."
+  },
+  "07548365411f06b4": {
+   "fragment_id": "ANEXO I — ETIQUETA",
+   "type": "divisao",
+   "heading": "ANEXO I — ETIQUETA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ETIQUETA\n\nEstrutura da etiqueta\n\n1. A etiqueta deve-se encontrar em conformidade com as ilustrações que se seguem:\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UM GRÁFICO>\n\n>REFERÊNCIA A UM GRÁFICO>\n\nNotas relativas à etiqueta\n\n2. As notas que se seguem especificam os dados que devem ser incluídos:\n\nNota:\n\nI) Nome comercial do fornecedor ou marca comercial.\n\nII) Identificador do modelo utilizado pelo fornecedor.\n\nIII) A classe de eficiência energética dos aparelhos deve ser determinada em conformidade com o anexo V e a letra apropriada deve ser colocada ao mesmo nível que a seta relevante.\n\nIV) Sem prejuízo de quaisquer eventuais requisitos decorrentes do sistema comunitário de atribuição da etiqueta ecológica, se, ao abrigo do Regulamento (CEE) nº 880/92 do Conselho (1), tiver sido atribuído a um aparelho a etiqueta ecológica comunitária poder-se-á incluir aqui uma cópia da marcação ecológica (a flor). O «guia de desenho das etiquetas para frigorífico/congelador», referido abaixo, explica como a marca ecológica pode ser incluída na etiqueta.\n\nV) Consumo de energia em conformidade com os procedimentos de ensaio referidos no nº 2 do artigo 1º embora expresso em kWh por ano (por 24 horas × 365).\n\nVI) Soma do volume útil de todos os compartimentos a que não foram atribuídas estrelas (ou seja, com uma temperatura de funcionamento > -6 °C).\n\nVII) Soma do volume útil de todos os compartimentos para armazenamento de alimentos congelados a que foram atribuídas estrelas (ou seja, com uma temperatura de funcionamento &le; -6 °C).\n\nVIII) Número de estrelas do compartimento para o armazenamento de alimentos congelados. Se não forem atribuídas estrelas a este compartimento, esta posição deve estar em branco.\n\nIX) Se aplicável, o nível de ruído deve ser medido em conformidade com a Directiva 86/549/CEE.\n\nNota:\n\nOs termos de outras línguas equivalentes aos acima descritos constam do anexo VI.\n\nImpressão\n\n3. Definem-se a seguir certos aspectos da etiqueta:\n\n>REFERÊNCIA A UM GRÁFICO>\n\nCores utilizadas:\n\nCMAB: ciano, magenta, amarelo, preto.\n\nExemplo 07X0: 0 % ciano, 70 % magenta, 100 % amarelo, 0 % preto.\n\nSetas:\n\n- A: X0X0\n\n- B: 70X0\n\n- C: 30X0\n\n- D: 00X0\n\n- E: 03X0\n\n- F: 07X0\n\n- G: 0XX0\n\nCor da esquadria: X070\n\nTodo o texto é em preto. O fundo é em branco.\n\nTodas as informações necessárias para a impressão estão contidas no «guia de desenho das etiquetas para frigorífico/congelador» que pode ser pedido a:\n\nSecretário do Comité de etiquetagem energética e informação normalizada de aparelhos electrodomésticos\n\nDirecção Geral XVII\n\nComissão das Comunidades Europeias\n\nRue de la Loi, 200\n\nB-1049 Bruxelas.\n\n(1) JO nº L 99 de 11. 4. 1992, p. 1."
+  },
+  "ecccc9e0b611384a": {
+   "fragment_id": "ANEXO II — FICHA",
+   "type": "divisao",
+   "heading": "ANEXO II — FICHA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — FICHA\n\nA ficha deve incluir os dados que se seguem. Os dados podem ser apresentados num quadro relativo a vários aparelhos fornecidos pelo mesmo fornecedor, devendo então obedecer à ordem adiante especificada ou estar junto à descrição do aparelho:\n\n1. Nome comercial do fornecedor ou marca comercial.\n\n2. Identificação do modelo utilizado pelo fornecedor.\n\n3. Tipo de aparelho:\n\n>POSIÇÃO NUMA TABELA>\n\n4. A classe de eficiência energética, tal como definida no anexo V, expressa sob a forma de «Classe de eficiência energética...», numa escala de A (a mais eficiente) a G (a menos eficiente). Se esta informação for dada por uma tabela, pode ser expressa de outro modo desde que fique claro que a escala vai de A (o mais eficiente) a G (o menos eficiente).\n\n5. Se os dados constarem de um quadro e se, ao abrigo do Regulamento (CEE) nº 880/92 tiver sido atribuída a etiqueta ecológica comunitária, esta informação poderá ser aqui incluída. Neste caso, o cabeçalho da linha deve conter a menção «Etiqueta ecológica comunitária» e a entrada deve conter uma cópia da marcação ecológica (a flor). A presente disposição não prejudica eventuais requisitos impostos ao abrigo do sistema de atribuição da etiqueta ecológica comunitária.\n\n6. Consumo de energia em conformidade com os procedimentos de ensaio referidos no nº 2 do artigo 1º, mas expresso em kWh por ano (isto é, por 24 horas × 365), descrito como «Consumo de energia de... kWh por ano, com base nos resultados do teste normalizado durante 24 horas. O consumo real de energia depende do modo como o aparelho é utilizado e da sua localização».\n\n7. Volume útil do compartimento para alimentos frescos (5 °C) omitir no que respeita às categorias 8 e 9.\n\n8. Volume útil do compartimento para alimentos congelados omitir no que respeita às categorias 1, 2 e 3. No que respeita aos aparelhos da categoria 3, indicar o volume útil do «compartimento do gelo».\n\nNo que respeita às categorias 2 e 10, indicar nos pontos 7 e 8 o volume útil de cada compartimento.\n\n9. Número de estrelas do compartimento para alimentos congelados, caso tenham sido atribuídas.\n\n10. Se aplicável, poderá ser aqui incluída a menção «Frio ventilado». Um aparelho será considerado do tipo «Frio ventilado»se estiver de acordo com as definições dadas nas normas referidas no nº 2 do artigo 1º.\n\n11. «Tempo máximo de conservação sem energia eléctrica... h» definida como o «tempo de subida da temperatura» de acordo com os procedimentos de ensaio definidos no nº 2 do artigo 1º.\n\n12. «Poder de congelação», em kg/24 h de acordo com os procedimentos de ensaio definidos no nº 2 do artigo 1º.\n\n13. «Classe climática», em conformidade com os procedimentos de ensaio definidos no nº 2 do artigo 1º. Caso a classe climática do aparelho seja a «Temperada», este ponto poderá ser omitido.\n\n14. «Nível de ruído», o qual, se aplicável, deve ser medido em conformidade com a Directiva 86/594/CEE.\n\nSe um aparelho tiver compartimentos extra para além de um para alimentos frescos e um para alimentos congelados, poderão ser acrescentadas nos pontos 7, 8, 9, 10, 11, 12 e 13, por forma a incluir os dados relativos a estes compartimentos. Neste caso, a denominação e a ordem de apresentação dos compartimentos deve ser coerente. Se a temperatura prevista para um compartimento não estiver em conformidade com o sistema de classificação por estrela, ou com a temperatura normalizada do compartimento para alimentos frescos (5 °C), há que especificar esta temperatura.\n\nOs dados constantes da etiqueta podem ser dados sob a forma de um diagrama, a cores ou a preto e branco, contido na etiqueta. Nesse caso, há que incluir igualmente os dados adicionais contidos apenas na ficha.\n\nNota:\n\nOs termos de outras línguas equivalentes aos acima descritos constam do anexo VI."
+  },
+  "91471b4becb3d9ef": {
+   "fragment_id": "ANEXO III — VENDAS POR CORREIO E OUTRAS VENDAS À DISTÂNCIA",
+   "type": "divisao",
+   "heading": "ANEXO III — VENDAS POR CORREIO E OUTRAS VENDAS À DISTÂNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — VENDAS POR CORREIO E OUTRAS VENDAS À DISTÂNCIA\n\nOs catálogos de vendas por correspondência e o restante material impresso referido no nº 5 do artigo 2º da presente directiva devem conter os dados que se seguem, na ordem por que são indicados:\n\n1. Classe de eficiência energética (anexo II ponto 4)\n\n2. Consumo de energia (anexo II ponto 6)\n\n3. Volume útil do compartimento para alimentos frescos (anexo II ponto 7)\n\n4. Volume útil do compartimento para alimentos congelados (anexo II ponto 8)\n\n5. Número de estrelas (anexo II ponto 9)\n\n6. Nível de ruído (anexo II ponto 14)\n\nCaso sejam apresentados outros dados constantes da ficha de informações sobre o produto, estes dados deverão respeitar a estrutura definida no anexo II e ser incluídos no quadro supra pela ordem definida na ficha. A dimensão e o tipo de caracteres utilizados para a impressão dos dados supracitados deve assegurar a sua legibilidade.\n\nNota:\n\nOs termos de outras línguas equivalentes aos acima descritos constam do anexo VI."
+  },
+  "d0ac44adfa7059d7": {
+   "fragment_id": "ANEXO IV — CATEGORIAS",
+   "type": "divisao",
+   "heading": "ANEXO IV — CATEGORIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV — CATEGORIAS\n\nOs aparelhos abrangidos pela presente directiva serão repartidos pelas seguintes «categorias»:\n\n1. Frigoríficos domésticos, sem compartimentos de baixa temperatura\n\n2. Frigoríficos domésticos, com compartimentos de 5 e 10 °C\n\n3. Frigoríficos domésticos, com compartimentos de baixa temperatura sem estrelas\n\n4. Frigoríficos domésticos, com compartimentos de baixa temperatura * estrela\n\n5. Frigoríficos domésticos, com compartimentos de baixa temperatura ** estrelas\n\n6. Frigoríficos domésticos, com compartimentos de baixa temperatura *** estrelas\n\n7. Frigoríficos domésticos, com compartimentos de baixa temperatura *(***) estrelas\n\n8. Congeladores domésticos (verticais)\n\n9. Congeladores domésticos (horizontais) (arcas)\n\n10. Frigoríficos e congeladores domésticos com mais de duas portas e outros aparelhos não abrangidos pelas categorias supra."
+  },
+  "d32fd246c234be40": {
+   "fragment_id": "ANEXO V — CLASSE DE EFICIÊNCIA ENERGÉTICA",
+   "type": "divisao",
+   "heading": "ANEXO V — CLASSE DE EFICIÊNCIA ENERGÉTICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V — CLASSE DE EFICIÊNCIA ENERGÉTICA\n\nA classe de eficiência energética dos aparelhos deverá ser determinada em conformidade com o quadro 1:\n\n>POSIÇÃO NUMA TABELA>\n\nEm que:\n\n«Índice de eficiência energética» = consumo anual de energia eléctrica do aparelho (1) / consumo de energia anual normalizado do aparelho (expresso em percentagem).\n\n«Consumo anual de energia normalizado do aparelho» = M × Volume corrigido + N (expresso em kWh/ano).\n\n«Volume corrigido» = volume do compartimento para alimentos frescos + ` × volume do compartimento para alimentos congelados (expresso em litros)\n\ne os valores de M, N e ` são os constantes do quadro 2.\n\n>POSIÇÃO NUMA TABELA>\n\n(1) De acordo com a nota V do anexo I."
+  },
+  "07f492378e32c15c": {
+   "fragment_id": "ANEXO VI — >POSIÇÃO NUMA TABELA>",
+   "type": "divisao",
+   "heading": "ANEXO VI — >POSIÇÃO NUMA TABELA>",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI — >POSIÇÃO NUMA TABELA>"
+  },
+  "ac70918983cfa9a0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1994L0002 — PT — 30.11.2011 — 003.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31994L0002) [DIRECTIVA 94/2/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/31994L0002) [de 21 de Janeiro de 1994](http://publications.europa.eu/resource/celex/31994L0002) [que estabelece as normas de execução da Directiva 92/75/CEE do Conselho, no que diz respeito à rotulagem energética](http://publications.europa.eu/resource/celex/31994L0002) (JO L 045, 17.2.1994, p.1)\n\n**revogado por:**\n\n- [Regulamento Delegado (UE) n.o 1060/2010 da Comissão de 28 de Setembro de 2010](http://publications.europa.eu/resource/celex/32010R1060) — L 314 — 17 — 30.11.2010"
+  }
+ }
+}

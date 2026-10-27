@@ -1,0 +1,849 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:608887:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-163561206",
+ "dre_path": "/dr/detalhe/decreto-lei/120-2009-608887",
+ "source_lastmod": "2025-05-29",
+ "versions": [
+  {
+   "date": "2009-05-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "163551182",
+    "163551183",
+    "163551184",
+    "163551185",
+    "163551186",
+    "163551187",
+    "163551188",
+    "163551189",
+    "163551190",
+    "163551191",
+    "163551193",
+    "163551195",
+    "163551196",
+    "163551197",
+    "163551198",
+    "163551200",
+    "163551201",
+    "163551202",
+    "163551205",
+    "163551207",
+    "163551208",
+    "163551209",
+    "163551210",
+    "163551211",
+    "163551214",
+    "163551230",
+    "163551216",
+    "163551217"
+   ]
+  },
+  {
+   "date": "2014-04-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25344019:por",
+     "title": "Decreto-Lei n.º 58/2014",
+     "published": "2014-04-15",
+     "dre_path": "/dr/detalhe/decreto-lei/58-2014-25344019"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Anexo",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "163551182",
+    "163551183",
+    "919970521",
+    "919970552",
+    "919970522",
+    "919970556",
+    "163551188",
+    "919970553",
+    "919970523",
+    "163551191",
+    "163551192",
+    "163551193",
+    "919971692",
+    "919971699",
+    "919971706",
+    "919971713",
+    "919971720",
+    "919971727",
+    "919971734",
+    "919971741",
+    "919971748",
+    "919971755",
+    "919971762",
+    "919971769",
+    "919959876",
+    "919959883",
+    "919959890",
+    "919959897",
+    "919959904",
+    "919959911",
+    "919959916",
+    "919959930",
+    "919959931"
+   ]
+  },
+  {
+   "date": "2021-06-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:163561200:por",
+     "title": "Decreto-Lei n.º 35/2021",
+     "published": "2021-05-18",
+     "dre_path": "/dr/detalhe/decreto-lei/35-2021-163561200"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Revoga Artigo 8.º",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "163551182",
+    "163551183",
+    "919970521",
+    "919970552",
+    "920347386",
+    "920347396",
+    "920347397",
+    "920347398",
+    "920347399",
+    "920347404",
+    "920347424",
+    "920347406",
+    "920347407",
+    "920347408",
+    "919971692",
+    "919971699",
+    "919971706",
+    "919971713",
+    "919971720",
+    "920347414",
+    "920347415",
+    "920347416",
+    "919971748",
+    "920347417",
+    "919971762",
+    "919971769",
+    "919959876",
+    "919959890",
+    "920347425",
+    "920347426",
+    "920347427",
+    "919959904",
+    "919959911"
+   ]
+  }
+ ],
+ "fragments": {
+  "163551182": {
+   "fragment_id": "163561207",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 120/2009\n\nde 19 de Maio\n\nO Estado, através da Autoridade Florestal Nacional, gere um vasto património florestal com um conjunto de características muito variado e diverso como a gestão de áreas de protecção de zonas montanhosas ou linhas costeiras, de áreas de conservação de habitats singulares, de áreas relevantes quer do ponto de vista cultural quer do enquadramento paisagístico ou do recreio e lazer.\n\nA Mata Nacional do Buçaco, para além da singularidade florestal que a caracteriza, possui um conjunto de outras características, de ordem cultural, turística e religiosa, que importa salvaguardar e gerir de forma integrada e que vão além das atribuições da Autoridade Florestal Nacional, ou de qualquer outra instituição pública. É, por isso, imperioso encontrar uma forma de gestão onde as diferentes competências e sensibilidades estejam representadas e possam ser integradas.\n\nNesse sentido, é criada a Fundação Mata do Buçaco, com o objectivo de gerir de forma integrada o património florestal, histórico, cultural e religioso inserto na Mata Nacional do Buçaco.\n\nCom o intuito de gerir da melhor forma este património, e como pressuposto de criação de presente Fundação, prevê-se a participação na gestão da Câmara Municipal da Mealhada, através da sua integração no conselho de administração, tendo esta autarquia manifestado já a sua intenção de contribuir activamente para a eficácia e eficiência da gestão, designadamente através de contribuições financeiras.\n\nCom o presente regime concede-se o direito de usufruto, à Fundação Mata do Buçaco, do conjunto de bens identificados no anexo dos Estatutos, permanecendo a sua propriedade no Estado e possibilitando, assim, uma forma de administração que se compatibiliza com o regime jurídico do património imobiliário público, aprovado pelo Decreto-Lei n.º 280/2007, de 7 de Agosto.\n\nConsiderando que é essencial a valorização de um património único e que importa dar condições para que esta tenha um papel estratégico no desenvolvimento da respectiva região, urge aprovar os Estatutos da Fundação Mata do Buçaco, de forma a que se efective um novo modelo de gestão adequado às suas reais necessidades.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "163551183": {
+   "fragment_id": "163561208",
+   "type": 11,
+   "heading": "Artigo 1.º — Instituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Instituição\n\nÉ instituída pelo Estado Português a Fundação Mata do Buçaco, adiante designada abreviadamente por Fundação, e são aprovados os respectivos Estatutos, publicados em anexo ao presente decreto-lei, dele fazendo parte integrante."
+  },
+  "163551184": {
+   "fragment_id": "163561209",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede, natureza e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede, natureza e duração\n\n1 - A Fundação Mata do Buçaco situa-se no concelho da Mealhada, nas instalações da Mata Nacional do Buçaco.\n\n2 - A Fundação é uma pessoa colectiva de direito privado e utilidade pública, constituída por tempo indeterminado."
+  },
+  "163551185": {
+   "fragment_id": "163561210",
+   "type": 11,
+   "heading": "Artigo 3.º — Fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fins\n\nA Fundação tem como fins a recuperação, requalificação e revitalização, gestão, exploração e conservação de todo o património, natural e edificado, da Mata Nacional do Buçaco."
+  },
+  "163551186": {
+   "fragment_id": "163561211",
+   "type": 11,
+   "heading": "Artigo 4.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Património\n\n1 - O património inicial da Fundação é constituído pelos bens indicados no artigo 5.º dos respectivos Estatutos, publicados em anexo ao presente decreto-lei e que dele fazem parte integrante.\n\n2 - A Fundação fica autorizada a lançar o procedimento concursal tendente ao arrendamento do Palace Hotel e respectivos anexos, propriedade do Estado, sobre o qual a Fundação detém um direito de usufruto que integra o património inicial da Fundação, nos termos do número anterior.\n\n3 - As rendas a pagar pela utilização, por terceiros, do imóvel referido no número anterior, actuais ou futuras, são devidas à Fundação.\n\n4 - A definição do regime e o acompanhamento da gestão e exploração do Hotel e edifícios afectos é da competência do Turismo de Portugal, I. P."
+  },
+  "163551187": {
+   "fragment_id": "163561212",
+   "type": 11,
+   "heading": "Artigo 5.º — Utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Utilidade pública\n\n1 - À Fundação é reconhecida utilidade pública nos termos e para os efeitos do Decreto-Lei n.º 460/77, de 7 de Novembro, alterado pela Lei n.º 40/2007, de 24 de Agosto, e pelo Decreto-Lei n.º 391/2007, de 13 de Dezembro.\n\n2 - Os donativos concedidos à Fundação beneficiam do regime de benefícios fiscais que seja aplicável por disposição legal.\n\n3 - É concedido à Fundação o benefício da isenção do imposto municipal sobre as transmissões onerosas de imóveis (IMT) respeitante à transmissão do direito de usufruto previsto na alínea a) do artigo 5.º dos Estatutos publicados em anexo ao presente decreto-lei e que dele fazem parte integrante, sem dependência do reconhecimento previsto na alínea a) do n.º 7 do artigo 10.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis."
+  },
+  "163551188": {
+   "fragment_id": "163561213",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimentos relativos a pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimentos relativos a pessoal\n\n1 - Os trabalhadores da Autoridade Florestal Nacional com relação jurídica de emprego público por tempo indeterminado que desempenham funções na Mata Nacional do Buçaco podem ser integrados no quadro de pessoal da Fundação Mata do Buçaco em regime de contrato individual de trabalho por tempo indeterminado, sem sujeição a período experimental, mediante outorga de acordo escrito, entre o conselho de administração da Fundação e o trabalhador interessado.\n\n2 - A produção de efeitos do acordo escrito a que se refere o número anterior determina a extinção do vínculo existente.\n\n3 - Os trabalhadores referidos no n.º 1 podem, ainda, exercer funções na Fundação por acordo de cedência de interesse público, nos termos previstos no artigo 58.º da Lei n.º 12-A/2008, de 27 de Fevereiro."
+  },
+  "163551189": {
+   "fragment_id": "163561214",
+   "type": 11,
+   "heading": "Artigo 7.º — Contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contribuição financeira\n\nA partir do ano de 2009, o membro do Governo responsável pela área da agricultura, do desenvolvimento rural e das pescas deve inscrever no Orçamento do Estado uma verba a transferir para a Fundação, destinada a assegurar uma contribuição para as despesas de funcionamento."
+  },
+  "163551190": {
+   "fragment_id": "163561215",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo predial do direito de usufruto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registo predial do direito de usufruto\n\nO presente decreto-lei constitui título suficiente para todos os efeitos legais, incluindo o de registo predial do direito de usufruto referido na alínea a) do artigo 5.º dos Estatutos, publicados em anexo ao presente decreto-lei e que dele fazem parte integrante, o qual tem a duração de 30 anos, sendo esta passível de renovação."
+  },
+  "163551191": {
+   "fragment_id": "163561216",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma transitória\n\nAté à conclusão do procedimento concursal relativo ao arrendamento do Palace Hotel e respectivos anexos, previsto no artigo 4.º, mantém-se em vigor o título jurídico que sustenta a actual gestão e exploração daquela unidade hoteleira."
+  },
+  "163551193": {
+   "fragment_id": "163561218",
+   "type": 14,
+   "heading": "Anexo I — ESTATUTOS DA FUNDAÇÃO MATA DO BUÇACO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — ESTATUTOS DA FUNDAÇÃO MATA DO BUÇACO"
+  },
+  "163551195": {
+   "fragment_id": "163561220",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e denominação\n\nA Fundação Mata do Buçaco, adiante designada abreviadamente por Fundação, é uma pessoa colectiva de direito privado e utilidade pública que se rege pelos presentes Estatutos e, em tudo o que neles for omisso, pela legislação aplicável às pessoas colectivas de utilidade pública."
+  },
+  "163551196": {
+   "fragment_id": "163561221",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\nA sede social da Fundação situa-se no concelho da Mealhada, nas instalações da Mata Nacional do Buçaco."
+  },
+  "163551197": {
+   "fragment_id": "163561222",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nA duração da Fundação é por tempo indeterminado."
+  },
+  "163551198": {
+   "fragment_id": "163561223",
+   "type": 11,
+   "heading": "Artigo 4.º — Fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fins\n\nA Fundação tem como fins a recuperação, requalificação e revitalização, gestão, exploração e conservação de todo o património, natural e edificado, da Mata Nacional do Buçaco."
+  },
+  "163551200": {
+   "fragment_id": "163561225",
+   "type": 11,
+   "heading": "Artigo 5.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Património\n\nO património da Fundação é constituído:\n\na) Pelo direito de usufruto constituído a favor da Fundação, pelo período de 30 anos, renováveis, sobre o património do Estado constante do anexo aos presentes Estatutos;\n\nb) Por todos os contributos, em dinheiro ou em espécie, a título de dotação inicial, ordinários e extraordinários, que qualquer dos instituidores ou fundadores lhe concedam;\n\nc) Pelos bens que a Fundação venha a adquirir por compra, doação, herança, legado ou por qualquer outro título."
+  },
+  "163551201": {
+   "fragment_id": "163561226",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Receitas\n\nConstituem receitas da Fundação as provenientes de:\n\na) As eventuais dotações anuais a atribuir pelo Estado e a inscrever no Orçamento do Estado pelo membro do Governo responsável pela área da agricultura, do desenvolvimento rural e das pescas;\n\nb) Contribuições regulares ou extraordinárias que os fundadores, designadamente a Câmara Municipal da Mealhada, mecenas ou outras entidades lhe concedam;\n\nc) Alienação de bens imóveis do seu património privativo ou de direitos de que seja titular, desde que não afectos à prossecução do seu fim estatutário e após parecer favorável do conselho geral;\n\nd) Actividades florestais, de turismo, culturais e desportivas;\n\ne) Direitos de que seja ou venha a ser detentora, designadamente no âmbito de contratos de gestão, cessão de exploração, arrendamento ou outros;\n\nf) Aplicações financeiras;\n\ng) Subscrições públicas;\n\nh) Venda de obras bibliográficas ou fonográficas, filmes, vídeos, CD-ROM, outros bens de consumo multimédia ou que utilizem tecnologias conhecidas ou ainda desconhecidas, diapositivos, postais, cartazes, gravuras, serigrafias, obras de arte ou reproduções, artigos de merchandising, bem como todo o tipo de produtos de sua produção ou de terceiros cuja venda esteja autorizada;\n\ni) Contrapartidas financeiras no âmbito de protocolos ou qualquer outro tipo de contratos com instituições nacionais ou estrangeiras;\n\nl) Prestação de serviços a terceiros;\n\nm) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou negócio jurídico, lhe devam pertencer."
+  },
+  "163551202": {
+   "fragment_id": "163561227",
+   "type": 11,
+   "heading": "Artigo 7.º — Capacidade de gestão patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Capacidade de gestão patrimonial e financeira\n\n1 - A Fundação goza de autonomia financeira, devendo a sua acção estar subordinada às regras dos presentes Estatutos e da legislação aplicável.\n\n2 - A Fundação pode praticar todos os actos necessários à realização dos seus fins e à gestão do seu património, nos termos definidos nos presentes Estatutos.\n\n3 - O direito de usufruto sobre imóveis do Estado atribuído à Fundação é irrenunciável por parte desta.\n\n4 - A Fundação não pode alienar ou onerar o direito de usufruto a que se refere a alínea a) do artigo 5.º\n\n5 - Os investimentos da Fundação devem respeitar o critério da optimização da gestão do seu património, de acordo com os seus fins estatutários e, nomeadamente, com respeito pelas especificidades florestais existentes.\n\n6 - A Fundação pode fazer investimentos, negociar e contrair empréstimos, conceder garantias, bem como participar no capital de sociedades comerciais ou criar sociedades que sejam instrumento útil para a prossecução do objectivo de optimização da gestão do seu património, desde que necessárias ou úteis à prossecução dos seus fins estatutários, nos termos definidos nos presentes Estatutos."
+  },
+  "163551205": {
+   "fragment_id": "163561230",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgãos sociais\n\nSão órgãos da Fundação:\n\na) O conselho de administração;\n\nb) O conselho geral;\n\nc) O conselho de fundadores;\n\nd) O fiscal único."
+  },
+  "163551207": {
+   "fragment_id": "163561232",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição e remuneração do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição e remuneração do conselho de administração\n\n1 - O conselho de administração da Fundação é composto pelo presidente, designado pela Câmara Municipal da Mealhada, e por quatro vogais, um designado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, um designado pelo Ministério da Economia e da Inovação, um designado pelo Ministério das Finanças e da Administração Pública, e um designado pelo conselho geral da Fundação.\n\n2 - O mandato dos membros do conselho de administração tem a duração de três anos, podendo cessar por decisão de quem procede à sua designação.\n\n3 - Os membros do conselho de administração podem ser remunerados através de senhas de presença ou da remuneração própria que venha a ser fixada para os administradores que exerçam funções a tempo inteiro e em regime de exclusividade nos termos fixados pelo conselho de fundadores, não podendo, neste último caso, a remuneração fixada, exceder a remuneração auferida pelos titulares de cargos de direcção superior de 1.º grau."
+  },
+  "163551208": {
+   "fragment_id": "163561233",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência do conselho de administração\n\n1 - Ao conselho de administração compete a gestão corrente da Fundação, dentro das linhas gerais definidas pelo conselho geral.\n\n2 - Compete designadamente ao conselho de administração:\n\na) Dirigir a actividade da Fundação em ordem à prossecução dos seus fins;\n\nb) Definir a organização interna da Fundação;\n\nc) Preparar e aprovar os regulamentos necessários ao bom funcionamento da Fundação;\n\nd) Preparar e aprovar os planos de actividades e outros documentos que devam ser submetidos ao conselho geral;\n\ne) Preparar e aprovar o orçamento anual da Fundação a submeter ao conselho geral;\n\nf) Administrar o património da Fundação;\n\ng) Contrair empréstimos e conceder garantias;\n\nh) Decidir sobre a atribuição de subsídios e as incorporações do património;\n\ni) Proceder ao inventário anual do património a submeter ao fiscal único;\n\nj) Preparar e aprovar o relatório e contas anuais para serem apreciados pelo fiscal único;\n\nl) Representar a Fundação em juízo;\n\nm) Celebrar protocolos com outras entidades, nos termos da alínea j) do n.º 2 do artigo 16.º dos presentes Estatutos.\n\n3 - As deliberações do conselho de administração relativas à contracção de empréstimos e à concessão de garantias dependem de autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e das florestas."
+  },
+  "163551209": {
+   "fragment_id": "163561234",
+   "type": 11,
+   "heading": "Artigo 11.º — Presidente do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Presidente do conselho de administração\n\nCompete ao presidente do conselho de administração:\n\na) Zelar pelo correcto exercício das funções de serviço público delegadas na Fundação, pela execução das deliberações do conselho de administração, do conselho geral e do fiscal único;\n\nb) Submeter à avaliação dos membros do Governo responsáveis pelas áreas das finanças, das florestas e do turismo os assuntos que careçam da sua apreciação;\n\nc) Convocar reuniões conjuntas do conselho de administração, do conselho geral e do fiscal único sempre que julgar conveniente;\n\nd) Convocar, fixar a ordem de trabalhos e presidir ao conselho geral e exercer voto de qualidade em caso de empate nas votações;\n\ne) Presidir ao conselho de administração, fixar a ordem de trabalhos, convocar e dirigir as reuniões do conselho de administração e exercer o voto de qualidade em caso de empate nas votações;\n\nf) Atribuir a cada membro do conselho de administração o pelouro, ou pelouros, que entenda competir-lhe;\n\ng) Representar a Fundação no plano nacional ou internacional;\n\nh) Desempenhar as demais competências que lhe são cometidas pelos presentes Estatutos."
+  },
+  "163551210": {
+   "fragment_id": "163561235",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento do conselho de administração\n\n1 - O conselho de administração reúne pelo menos uma vez por mês e sempre que o seu presidente o convoque.\n\n2 - O conselho de administração não pode reunir-se ou deliberar sem que se encontre presente a maioria dos seus membros.\n\n3 - As deliberações do conselho de administração são tomadas por maioria dos votos emitidos.\n\n4 - O conselho de administração pode reunir sempre que o entender, em qualquer ponto do País, fora das instalações da Fundação."
+  },
+  "163551211": {
+   "fragment_id": "163561236",
+   "type": 11,
+   "heading": "Artigo 13.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Vinculação\n\nA Fundação vincula-se pela:\n\na) Assinatura conjunta do presidente e de um administrador;\n\nb) Assinatura de dois procuradores, nos termos dos respectivos mandatos;\n\nc) Assinatura de um só procurador, tratando-se de mandato para a prática de acto certo e determinado."
+  },
+  "163551214": {
+   "fragment_id": "163561239",
+   "type": 11,
+   "heading": "Artigo 15.º — Composição do conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Composição do conselho geral\n\n1 - O conselho geral é composto por 12 membros:\n\na) Presidente do conselho de administração, que preside e tem voto de qualidade em caso de empate nas votações;\n\nb) Um membro designado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas;\n\nc) Um membro designado pelo Ministério da Economia e da Inovação;\n\nd) Um membro designado pelo Ministério das Finanças e da Administração Pública;\n\ne) Um membro designado pela Câmara Municipal da Mealhada;\n\nf) Um membro designado pelo Ministério da Cultura;\n\ng) Duas personalidades designadas pelo membro do Governo responsável pela área das florestas;\n\nh) Duas personalidades designadas pelo membro do Governo responsável pela área do turismo;\n\ni) Dois membros designados pelo conselho de fundadores.\n\n2 - No impedimento do presidente, este é substituído pelo membro do conselho geral que aquele tiver previamente designado."
+  },
+  "163551230": {
+   "fragment_id": "163561255",
+   "type": 14,
+   "heading": "Anexo — Património do Estado afecto à Fundação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Património do Estado afecto à Fundação\n\n1 - Património do Estado afecto à Fundação, incluindo todas as construções e edificações nele existentes:\n\nMata Nacional do Buçaco;\n\nPorta das Ameias;\n\nPortas de Coimbra;\n\nPorta das Lapas;\n\nPorta da Rainha;\n\nPorta do Serpa;\n\nPorta de Sula;\n\nErmida de Nossa Senhora da Expectação;\n\nErmida de Santo Elias;\n\nErmida de Nossa Senhora da Conceição;\n\nErmida de São Miguel;\n\nErmida de São José;\n\nErmida de São João Baptista;\n\nErmida do Calvário;\n\nErmida do Santo Sepulcro;\n\nCapela de (Dr.) São João da Cruz;\n\nCapela de São Pedro;\n\nCapela da Samaritana;\n\nCapela de Santa Maria Madalena;\n\nCapela de Santo Antão;\n\nCapela de São Silvestre;\n\nCapela do Passo do Horto;\n\nCapela do Passo da Prisão;\n\nFonte de São Silvestre;\n\nEdifício da casa dos empregados (Pousada Grande);\n\nSede da antiga administração;\n\nChalet de Santa Teresa;\n\nConvento de Santa Cruz;\n\nCapela do Passo de Anãs;\n\nCapela do Passo de Caifás;\n\nCapela do Passo de Herodes;\n\nCapela do Passo do Pretório;\n\nCapela do Passo da Cruz às Costas;\n\nCapela do Passo da 1.ª Queda;\n\nCapela do Passo do Encontro da Virgem;\n\nCapela do Passo do Cireneu;\n\nCapela do Passo da Verónica;\n\nCapela do Passo da 2.ª Queda;\n\nCapela do Passo das Filhas de Jerusalém;\n\nCapela do Passo da 3.ª Queda;\n\nCapela do Passo de Cristo Despojado;\n\nCapela do Passo da Crucificação de Jesus Cristo;\n\nCapela do Passo de Cristo Descido da Cruz;\n\nCapela do Passo do Calvário;\n\nCapela do Passo do Sepulcro;\n\nPalace Hotel;\n\nGaragem (hotel);\n\nCruz Alta;\n\nCruz de Vopeliares;\n\nFonte do Carregal;\n\nFonte Fria;\n\nFonte da Samaritana;\n\nFonte de Santo Elias;\n\nFonte de Santa Teresa;\n\nArmazém de materiais;\n\nArmazém de sementes;\n\nCozinha do pessoal;\n\nCasa da carpintaria;\n\nCasa de guarda florestal da Cruz Alta;\n\nCasa de guarda florestal da Porta de Sula;\n\nCasa de guarda florestal da Porta da Rainha;\n\nCasa de guarda florestal da Porta de Serpa;\n\nCasa de guarda florestal da Feteira;\n\nCasa de guarda florestal da Porta das Ameias;\n\nCasa de guarda florestal do Forno do Tijolo;\n\nCasa de guarda florestal da Porta das Lapas;\n\nCasa de guarda florestal do Torreão;\n\nCasa do Boieiro;\n\nAbegoarias;\n\nDepósito do gás;\n\nArmazém de secagem de madeiras;\n\nArmazém de materiais;\n\nBarracão do Vale dos Fetos;\n\nCavalariças;\n\nEstufas e respectivos anexos;\n\nMonumento à Batalha do Buçaco;\n\nMuseu Histórico e Militar da Guerra Peninsular;\n\nCampos de ténis."
+  },
+  "163551216": {
+   "fragment_id": "163561241",
+   "type": 11,
+   "heading": "Artigo 17.º — Funcionamento do conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funcionamento do conselho geral\n\n1 - O conselho geral reúne ordinariamente uma vez por semestre e, extraordinariamente, quando convocado pelo seu presidente, por iniciativa própria ou quando solicitado por, pelo menos, dois terços dos seus membros.\n\n2 - O conselho geral não pode reunir ou deliberar em primeira convocatória sem que se encontre presente ou representada metade dos seus membros.\n\n3 - A representação mencionada no número anterior só pode ser conferida a outro membro do conselho geral e deve sê-lo por carta dirigida ao presidente, com indicação expressa da reunião a que se destina.\n\n4 - No caso de o conselho geral não poder deliberar por falta do quórum exigido no n.º 2, o presidente convoca uma nova reunião com a mesma ordem de trabalhos e a antecedência mínima de 15 dias, podendo então o conselho deliberar qualquer que seja o número de presenças.\n\n5 - Os membros do conselho de administração da Fundação têm assento no conselho geral, sem direito a voto, à excepção do presidente.\n\n6 - O exercício de funções de membro do conselho geral não é remunerado, sem prejuízo do reembolso das importâncias respeitantes a despesas de deslocação feitas ao serviço da Fundação nos termos de deliberação do conselho de fundadores."
+  },
+  "163551217": {
+   "fragment_id": "163561242",
+   "type": 11,
+   "heading": "Artigo 18.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Deliberações\n\n1 - As decisões do conselho geral são tomadas por maioria absoluta dos votos, não se contando as abstenções.\n\n2 - No caso da alienação ou oneração de bens imóveis do património privativo da Fundação é necessária uma maioria de três quartos dos membros do conselho geral e parecer prévio vinculativo do conselho de fundadores para que a deliberação seja válida e produza efeitos."
+  },
+  "919970521": {
+   "fragment_id": "163561209",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede, natureza e duração",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 2.º — Sede, natureza e duração\n\n1 - A Fundação Mata do Buçaco situa-se no concelho da Mealhada, nas instalações da Mata Nacional do Buçaco.\n\n2 - A FMB, F.P., é uma fundação pública de direito privado, criada por tempo indeterminado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919970552": {
+   "fragment_id": "163561210",
+   "type": 11,
+   "heading": "Artigo 3.º — Fins",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 3.º — Fins\n\nA Fundação tem como fins a recuperação, requalificação e revitalização, gestão, exploração e conservação de todo o património, natural e edificado, da Mata Nacional do Buçaco.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919970522": {
+   "fragment_id": "163561211",
+   "type": 11,
+   "heading": "Artigo 4.º — Património",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 4.º — Património\n\n1 - O património inicial da FMB, F.P., é composto pelos bens previstos no artigo 16.º dos respetivos Estatutos, publicados no anexo I ao presente decreto-lei, do qual faz parte integrante.\n\n2 - A Fundação fica autorizada a lançar o procedimento concursal tendente ao arrendamento do Palace Hotel e respectivos anexos, propriedade do Estado, sobre o qual a Fundação detém um direito de usufruto que integra o património inicial da Fundação, nos termos do número anterior.\n\n3 - As rendas a pagar pela utilização, por terceiros, do imóvel referido no número anterior, actuais ou futuras, são devidas à Fundação.\n\n4 - O direito de usufruto a favor da FMB, F.P., sobre o património do Estado constante da parte A do anexo II ao presente decreto-lei, do qual faz parte integrante, mantém-se até ao ano de 2039.\n\n5 - É constituído o direito de usufruto a favor da FMB, F.P., sobre os imóveis do património do Estado designados por Casa das Portas de Coimbra e Pousada Pequena, constantes da parte B do anexo II, até ao termo do prazo a que se refere o número anterior.\n\n6 - O direito de usufruto sobre os imóveis do Estado atribuído à FMB, F.P., é irrenunciável por parte desta.\n\n7 - A FMB, F.P., não pode alienar ou onerar o direito de usufruto a que se refere o presente artigo.\n\n8 - É revogado o direito de usufruto anteriormente constituído a favor da FMB, F.P., sobre os imóveis designados Monumento à Batalha do Buçaco e Museu Histórico e Militar da Guerra Peninsular, passando estes imóveis a integrar a Rede de Museus Militares.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919970556": {
+   "fragment_id": "163561212",
+   "type": 11,
+   "heading": "Artigo 5.º — Utilidade pública",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 5.º — Utilidade pública\n\n1 - À FMB, F.P., é reconhecida utilidade pública nos termos e para os efeitos do Decreto-Lei n.º 460/77, de 7 de novembro, alterado pela Lei n.º 40/2007, de 24 de agosto, e pelo Decreto-Lei n.º 391/2007, de 13 de dezembro.\n\n2 - Os donativos concedidos à FMB, F.P., beneficiam do regime de benefícios fiscais que seja aplicável por disposição legal.\n\n3 - [Revogado].\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919970553": {
+   "fragment_id": "163561214",
+   "type": 11,
+   "heading": "Artigo 7.º — Contribuição financeira",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 7.º — Contribuição financeira\n\nA partir do ano de 2009, o membro do Governo responsável pela área da agricultura, do desenvolvimento rural e das pescas deve inscrever no Orçamento do Estado uma verba a transferir para a Fundação, destinada a assegurar uma contribuição para as despesas de funcionamento.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919970523": {
+   "fragment_id": "163561215",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo predial do direito de usufruto",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 8.º — Registo predial do direito de usufruto\n\nO presente decreto-lei constitui título suficiente para todos os efeitos legais, incluindo o de registo predial do direito de usufruto referido no artigo 4.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "163551192": {
+   "fragment_id": "163561217",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Bernardo Luís Amador Trindade - Jaime de Jesus Lopes Silva - José António de Melo Pinto Ribeiro.\n\nPromulgado em 5 de Maio de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 7 de Maio de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "919971692": {
+   "fragment_id": "163561220",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Fundação Mata do Buçaco, F.P., adiante designada abreviadamente por FMB, F.P., é uma fundação pública de direito privado, dotada de órgãos e património próprio e de autonomia administrativa e financeira.\n\n2 - A FMB, F.P., rege-se pelos presentes Estatutos, pela Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, e demais legislação aplicável.\n\n3 - A FMB, F.P., encontra-se sujeita à superintendência e tutela do membro do Governo responsável pela área das florestas.\n\n4 - A Câmara Municipal da Mealhada participa na gestão da FMB, F.P., nos termos e com as especificidades constantes dos presentes Estatutos.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919971699": {
+   "fragment_id": "163561221",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 2.º — Sede\n\nA FMB, F.P., tem a sua sede no concelho da Mealhada.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919971706": {
+   "fragment_id": "163561222",
+   "type": 11,
+   "heading": "Artigo 3.º — Objeto e beneficiários",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 3.º — Objeto e beneficiários\n\nA FMB, F.P., prossegue fins de interesse social nas áreas da preservação do património histórico, artístico e cultural e da proteção do património natural, tendo por beneficiários os cidadãos em geral.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919971713": {
+   "fragment_id": "163561223",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\nA FMB, F.P., tem como atribuições as atividades relacionadas com a prossecução dos seus fins, designadamente, a recuperação, requalificação e revitalização, gestão, exploração e conservação de todo o património, natural e edificado, da Mata Nacional do Buçaco.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919971720": {
+   "fragment_id": "163561225",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos da FMB, F.P.:\n\na) O conselho diretivo;\n\nb) O fiscal único;\n\nc) O conselho consultivo.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919971727": {
+   "fragment_id": "163561226",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição e estatuto do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 6.º — Composição e estatuto do conselho diretivo\n\n1 - O conselho diretivo da FMB, F.P., é composto pelo presidente e por um vogal não executivo.\n\n2 - O presidente do conselho diretivo é designado pela Câmara Municipal da Mealhada.\n\n3 - O vogal não executivo é, por inerência, o presidente do conselho diretivo do Instituto da Conservação da Natureza e das Florestas, I.P., ou o membro do conselho diretivo deste instituto em que o presidente delegue.\n\n4 - O mandato do presidente do conselho diretivo tem a duração de cinco anos, sendo renovável uma vez, por igual período.\n\n5 - O presidente do conselho diretivo exerce funções em regime de exclusividade, sendo remunerado de acordo com os montantes fixados para o cargo de direção superior de 1.º grau da Administração Pública.\n\n6 - O vogal não executivo não é remunerado, nem aufere senhas de presença, sem prejuízo do direito ao pagamento de despesas com as deslocações, decorrentes das funções exercidas, nos termos previstos no regime jurídico do abono de ajudas de custo e transporte relativo às deslocações em serviço público da generalidade dos trabalhadores em funções públicas.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919971734": {
+   "fragment_id": "163561227",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 7.º — Competências do conselho diretivo\n\n1 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e da gestão da FMB, F.P.:\n\na) Definir a organização interna da FMB, F.P.;\n\nb) Proceder ao inventário anual do património a submeter ao fiscal único;\n\n2 - A FMB, F.P., é representada, designadamente, em juízo ou na prática de atos jurídicos, pelo presidente do conselho diretivo ou por mandatários especialmente designados.\n\n3 - O conselho diretivo pode delegar competências em qualquer dos seus membros.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919971741": {
+   "fragment_id": "163561230",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019)"
+   ],
+   "markdown": "###### Artigo 8.º — Funcionamento do conselho diretivo\n\n1 - O conselho diretivo reúne uma vez por semana e extraordinariamente sempre que o seu presidente o convoque, por sua iniciativa ou a solicitação do vogal não executivo.\n\n2 - Nas votações não há abstenções, mas podem ser proferidas declarações de voto.\n\n3 - A ata das reuniões deve ser aprovada e assinada por todos os membros presentes, podendo os membros discordantes do teor da mesma nela exarar as respetivas declarações de voto.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019)"
+  },
+  "919971748": {
+   "fragment_id": "163561232",
+   "type": 11,
+   "heading": "Artigo 9.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 9.º — Fiscal único\n\n1 - O fiscal único é designado e tem as competências previstas na Lei-Quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro, aplicável nos termos da Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, competindo-lhe ainda:\n\na) Elaborar o parecer sobre o inventário, realizado e apresentado pelo conselho diretivo;\n\nb) Elaborar o parecer sobre se a aplicação dos rendimentos se realiza em harmonia com os fins estatutários.\n\n2 - O fiscal único é remunerado nos termos definidos para os institutos públicos de regime comum pela Lei-Quadro dos Institutos Públicos, aprovada pela Lei n.º 3/2004, de 15 de janeiro.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919971755": {
+   "fragment_id": "163561233",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 10.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação da FMB, F.P.\n\n2 - O conselho consultivo tem a seguinte composição:\n\na) Presidente do conselho diretivo, que preside e tem voto de qualidade em caso de empate nas votações;\n\nb) Um representante do membro do Governo responsável pela área das finanças;\n\nc) Dois representantes do membro do Governo responsável pela área do turismo;\n\nd) Dois representantes do membro do Governo responsável pela área das florestas;\n\ne) Um representante do membro do Governo responsável pela área da cultura;\n\nf) Um representante da Câmara Municipal da Mealhada;\n\ng) Um representante de cada pessoa singular ou coletiva, pública ou privada, que contribua ativamente para os fins da FMB, F.P.;\n\nh) Uma personalidade designada pela Universidade de Aveiro;\n\ni) Uma personalidade designada pela Universidade de Coimbra.\n\n3 - O presidente é substituído, nas suas faltas e impedimentos, pelo vogal do conselho diretivo.\n\n4 - O vogal do conselho diretivo da FMB, F.P., tem assento no conselho consultivo, sem direito a voto.\n\n5 - O exercício de funções de membro do conselho consultivo não é remunerado, nem confere direito ao pagamento de despesas com as deslocações.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919971762": {
+   "fragment_id": "163561234",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências e funcionamento do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 11.º — Competências e funcionamento do conselho consultivo\n\n1 - Sem prejuízo das competências conferidas por lei, compete ao conselho consultivo:\n\na) Pronunciar-se sobre as políticas gerais de funcionamento da FMB, F.P.;\n\nb) Apreciar os relatórios de atividades que lhe sejam apresentados pelo conselho diretivo;\n\nc) Dar parecer sobre iniciativas específicas cujo projeto lhe seja apresentado para o efeito;\n\nd) Dar parecer sobre as alterações aos Estatutos;\n\ne) Dar parecer sobre a organização interna da FMB, F.P.;\n\nf) Dar parecer sobre a alienação ou oneração de bens imóveis que integrem o património privativo da FMB, F.P.;\n\ng) Dar parecer sobre os atos de gestão do património florestal da FMB, F.P.\n\n2 - No caso das alíneas f) e g) do número anterior, as deliberações são tomadas por uma maioria de dois terços dos membros do conselho consultivo.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919971769": {
+   "fragment_id": "163561235",
+   "type": 11,
+   "heading": "Artigo 12.º — Autonomia financeira",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 12.º — Autonomia financeira\n\n1 - A FMB, F.P., goza de autonomia financeira, devendo a sua ação estar subordinada às regras dos presentes Estatutos, da Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, e da demais legislação aplicável.\n\n2 - A FMB, F.P., pode praticar todos os atos necessários à realização dos seus fins e à gestão do seu património, nos termos definidos nos presentes Estatutos, da Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, e da demais legislação aplicável.\n\n3 - Os investimentos da FMB, F.P., devem respeitar o critério da otimização da gestão do seu património, de acordo com os seus fins estatutários e, nomeadamente, com respeito pelos regimes legais aplicáveis ao seu património edificado e natural.\n\n4 - A FMB, F.P., pode fazer investimentos, bem como participar no capital de sociedades comerciais ou criar sociedades que sejam instrumento útil para a prossecução do objetivo de otimização da gestão do seu património, desde que necessárias ou úteis à prossecução dos seus fins estatutários, com prévia autorização dos membros do Governo responsáveis pelas áreas das finanças e das florestas, anualmente renovada, nos termos definidos nos presentes Estatutos, na Lei-Quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, e na demais legislação aplicável.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919959876": {
+   "fragment_id": "163561236",
+   "type": 11,
+   "heading": "Artigo 13.º — Dotação financeira inicial e financiamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 13.º — Dotação financeira inicial e financiamento\n\n1 - A dotação financeira inicial da FMB, F.P., corresponde ao direito de usufruto constituído sobre o património do Estado constante do anexo ao diploma que instituiu a FMB, F.P.\n\n2 - O financiamento da FMB, F.P., é assegurado pelas receitas previstas nos termos dos presentes Estatutos.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919959883": {
+   "fragment_id": "163561237",
+   "type": 11,
+   "heading": "Artigo 14.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 14.º — Receitas\n\nConstituem receitas da FMB, F.P., as provenientes de:\n\na) Contribuição financeira anual concedida pela Câmara Municipal da Mealhada;\n\nb) Contribuições regulares ou extraordinárias que mecenas ou entidades privadas lhe concedam;\n\nc) Atividades florestais, de turismo, culturais e desportivas;\n\nd) Alienação de bens imóveis que integrem o seu património privativo, desde que não afetos à prossecução dos seus fins estatutários;\n\ne) Direitos de que seja ou venha a ser detentora, designadamente no âmbito de contratos de gestão, cessão de exploração, arrendamento ou outros;\n\nf) Aplicações financeiras;\n\ng) Subscrições públicas;\n\nh) Venda de obras bibliográficas ou fonográficas, filmes, vídeos, CD-ROM, outros bens de consumo multimédia ou que utilizem tecnologias conhecidas ou ainda desconhecidas, diapositivos, postais, cartazes, gravuras, serigrafias, obras de arte ou reproduções, artigos de merchandising, bem como todo o tipo de produtos de sua produção ou de terceiros cuja venda esteja autorizada;\n\ni) Contrapartidas financeiras no âmbito de protocolos ou qualquer outro tipo de contratos com instituições nacionais ou estrangeiras;\n\nj) Prestação de serviços a terceiros;\n\nk) Quaisquer outros rendimentos ou valores que provenham da sua atividade ou que, por lei ou negócio jurídico, lhe devam pertencer.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919959890": {
+   "fragment_id": "163561239",
+   "type": 11,
+   "heading": "Artigo 15.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 15.º — Despesas\n\nConstituem despesas da FMB, F.P., as que resultem de encargos decorrentes da prossecução dos seus fins estatutários.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919959897": {
+   "fragment_id": "163561240",
+   "type": 11,
+   "heading": "Artigo 16.º — Património",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 16.º — Património\n\nO património da FMB, F.P., é constituído:\n\na) Pelo direito de usufruto constituído a favor da FMB, F.P., sobre património do Estado;\n\nb) Por todos os contributos, em dinheiro ou em espécie, a título de dotação inicial, ordinários e extraordinários, que lhe tenham sido concedidos por qualquer das entidades instituidoras;\n\nc) Pelos bens móveis ou imóveis que a FMB, F.P., venha a adquirir a título gratuito ou oneroso.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919959904": {
+   "fragment_id": "163561241",
+   "type": 11,
+   "heading": "Artigo 17.º — Modificação dos Estatutos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 17.º — Modificação dos Estatutos\n\nA alteração dos presentes estatutos é efetuada por decreto-lei.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919959911": {
+   "fragment_id": "163561242",
+   "type": 11,
+   "heading": "Artigo 18.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 18.º — Extinção\n\n1 - A FMB, F.P., é instituída por tempo indeterminado.\n\n2 - A FMB, F.P., pode ser extinta nos termos aplicáveis à extinção de fundações públicas, revertendo o seu património para o Estado.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919959916": {
+   "fragment_id": "163561255",
+   "type": 14,
+   "heading": "Anexo — II",
+   "in_force_from": "2014-04-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "## Anexo — II\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "919959930": {
+   "fragment_id": "919971023",
+   "type": 4,
+   "heading": "Parte A — (a que se refere o n.º 4 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte A — (a que se refere o n.º 4 do artigo 4.º)\n\nPatrimónio do Estado afeto, em usufruto, à Fundação, incluindo todas as construções e edificações nele existentes:\n\nAbegoarias;\n\nArmazém de materiais;\n\nArmazém de materiais;\n\nArmazém de secagem de madeiras;\n\nArmazém de sementes;\n\nBarracão do Vale dos Fetos;\n\nCampos de ténis;\n\nCapela da Samaritana;\n\nCapela de (Dr.) São João da Cruz;\n\nCapela de Santa Maria Madalena;\n\nCapela de Santo Antão;\n\nCapela de São Pedro;\n\nCapela de São Silvestre;\n\nCapela do Passo da 1.ª Queda;\n\nCapela do Passo da 2.ª Queda;\n\nCapela do Passo da 3.ª Queda;\n\nCapela do Passo da Crucificação de Jesus Cristo;\n\nCapela do Passo da Cruz às Costas;\n\nCapela do Passo da Prisão;\n\nCapela do Passo da Verónica;\n\nCapela do Passo das Filhas de Jerusalém;\n\nCapela do Passo de Anás;\n\nCapela do Passo de Caifás;\n\nCapela do Passo de Cristo Descido da Cruz;\n\nCapela do Passo de Cristo Despojado;\n\nCapela do Passo de Herodes;\n\nCapela do Passo do Calvário;\n\nCapela do Passo do Cireneu;\n\nCapela do Passo do Encontro da Virgem;\n\nCapela do Passo do Horto;\n\nCapela do Passo do Pretório;\n\nCapela do Passo do Sepulcro;\n\nCasa da carpintaria;\n\nCasa das Portas de Coimbra;\n\nCasa de guarda-florestal da Cruz Alta;\n\nCasa de guarda-florestal da Feteira;\n\nCasa de guarda-florestal da Porta da Rainha;\n\nCasa de guarda-florestal da Porta das Ameias;\n\nCasa de guarda-florestal da Porta das Lapas;\n\nCasa de guarda-florestal da Porta de Serpa;\n\nCasa de guarda-florestal da Porta de Sula;\n\nCasa de guarda-florestal do Forno do Tijolo;\n\nCasa de guarda-florestal do Torreão;\n\nCasa do Boieiro;\n\nCavalariças;\n\nChalet de Santa Teresa;\n\nConvento de Santa Cruz;\n\nCozinha do pessoal;\n\nCruz Alta;\n\nCruz de Vopeliares;\n\nDepósito do gás;\n\nEdifício da casa dos empregados (Pousada Grande);\n\nErmida de Nossa Senhora da Conceição;\n\nErmida de Nossa Senhora da Expectação;\n\nErmida de Santo Elias;\n\nErmida de São João Baptista;\n\nErmida de São José;\n\nErmida de São Miguel;\n\nErmida do Calvário;\n\nErmida do Santo Sepulcro;\n\nEstufas e respetivos anexos;\n\nFonte da Samaritana;\n\nFonte de Santa Teresa;\n\nFonte de Santo Elias;\n\nFonte de São Silvestre;\n\nFonte do Carregal;\n\nFonte Fria;\n\nGaragem (hotel);\n\nMata Nacional do Buçaco;\n\nPalace Hotel;\n\nPorta da Rainha;\n\nPorta das Ameias;\n\nPorta das Lapas;\n\nPorta de Sula;\n\nPorta do Serpa;\n\nPortas de Coimbra;\n\nPousada Pequena;\n\nSede da antiga administração."
+  },
+  "919959931": {
+   "fragment_id": "919971024",
+   "type": 4,
+   "heading": "Parte B — (a que se refere o n.º 5 do artigo 4.º)",
+   "in_force_from": "2014-04-20",
+   "changed_by": [],
+   "markdown": "## Parte B — (a que se refere o n.º 5 do artigo 4.º)\n\nPatrimónio do Estado afeto, em usufruto, à Fundação nos termos do n.º 5 do artigo 4.º:\n\nCasa das Portas de Coimbra;\n\nPousada Pequena."
+  },
+  "920347386": {
+   "fragment_id": "163561211",
+   "type": 11,
+   "heading": "Artigo 4.º — Património",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17, produz efeitos a partir de 2018-01-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 4.º — Património\n\n1 - O património da FMB, F. P., é composto pelos bens e direitos previstos no artigo 16.º dos respetivos Estatutos, publicados em anexo ao presente decreto-lei.\n\n2 - A FMB, F. P., fica autorizada a lançar procedimento concursal tendente à celebração de contrato de concessão de exploração do Palace Hotel do Buçaco e respetivos anexos, nos termos do artigo seguinte.\n\n3 - A contrapartida financeira devida pelo contrato a que se refere o número anterior deve ser paga à FMB, F. P., na qualidade de concedente, constituindo receita desta.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17, produz efeitos a partir de 2018-01-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "920347396": {
+   "fragment_id": "920347221",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Exploração do Palace Hotel do Buçaco e respetivos anexos",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17"
+   ],
+   "markdown": "###### Artigo 4.º-A — Exploração do Palace Hotel do Buçaco e respetivos anexos\n\n1 - Para efeitos do disposto no n.º 2 do artigo anterior, a exploração do Palace Hotel do Buçaco e respetivos anexos deve ser atribuída, em regime de concessão de exploração de bens públicos, através da realização de um concurso público, com publicidade internacional, nos termos do Decreto-Lei n.º 280/2007, de 7 de agosto, na sua redação atual, e do Código dos Contratos Públicos (CCP), aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual.\n\n2 - O prazo do contrato de concessão referido no número anterior não pode ser superior a 50 anos, sem prejuízo dos casos em que a prorrogação seja imposta por motivos de reequilíbrio económico-financeiro do contrato.\n\n3 - O procedimento pré-contratual referido no n.º 1 deve ser integrado no programa de valorização patrimonial e cultural da Administração Pública, designado por Programa Revive, podendo, nesse âmbito, a FMB, F. P., delegar todos os poderes pertencentes à entidade adjudicante no Instituto do Turismo de Portugal, I. P., com reserva de parecer prévio, vinculativo, quanto às peças pré-contratuais.\n\n4 - A outorga do contrato de concessão e a sequente posição contratual de concedente cabem à FMB, F. P.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17"
+  },
+  "920347397": {
+   "fragment_id": "163561212",
+   "type": 11,
+   "heading": "Artigo 5.º — Utilidade pública",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 5.º — Utilidade pública\n\n1 - À FMB, F.P., é reconhecida utilidade pública nos termos e para os efeitos do Decreto-Lei n.º 460/77, de 7 de novembro, alterado pela Lei n.º 40/2007, de 24 de agosto, e pelo Decreto-Lei n.º 391/2007, de 13 de dezembro.\n\n2 - Os donativos concedidos à FMB, F.P., beneficiam do regime de benefícios fiscais que seja aplicável por disposição legal.\n\n3 - [Revogado].\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "920347398": {
+   "fragment_id": "163561213",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimentos relativos a pessoal",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17"
+   ],
+   "markdown": "###### Artigo 6.º — Procedimentos relativos a pessoal\n\n1 - Os trabalhadores do Instituto da Conservação da Natureza e das Florestas, I. P., com relação jurídica de emprego público por tempo indeterminado que desempenham funções na Mata Nacional do Buçaco podem ser integrados no quadro de pessoal da FMB, F. P., em regime de contrato individual de trabalho por tempo indeterminado, sem sujeição a período experimental, mediante outorga de acordo escrito, entre o conselho de administração da FMB, F. P., e o trabalhador interessado.\n\n2 - A produção de efeitos do acordo escrito a que se refere o número anterior determina a extinção do vínculo existente.\n\n3 - Os trabalhadores referidos no n.º 1 podem, ainda, exercer funções na FMB, F. P., por acordo de cedência de interesse público, nos termos do artigo 241.º e seguintes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17"
+  },
+  "920347399": {
+   "fragment_id": "163561214",
+   "type": 11,
+   "heading": "Artigo 7.º — Contribuição financeira",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 7.º — Contribuição financeira\n\nA partir do ano de 2009, o membro do Governo responsável pela área da agricultura, do desenvolvimento rural e das pescas deve inscrever no Orçamento do Estado uma verba a transferir para a Fundação, destinada a assegurar uma contribuição para as despesas de funcionamento.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "920347404": {
+   "fragment_id": "920347222",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Cooperação técnica e financeira",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17"
+   ],
+   "markdown": "###### Artigo 7.º-A — Cooperação técnica e financeira\n\nA FMB, F. P., pode ser beneficiária de apoio financeiro através da celebração de contratos, acordos e protocolos celebrados com:\n\na) A administração direta ou indireta do Estado, exclusivamente para desenvolvimento de atividades culturais ou turísticas ou proteção do património natural e edificado, de acordo com os estatutos da FMB, F. P., com exceção do Palace Hotel do Buçaco e respetivos anexos;\n\nb) Autarquias locais, outras pessoas coletivas da administração autónoma e demais pessoas coletivas públicas.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17"
+  },
+  "920347424": {
+   "fragment_id": "163561215",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo predial do direito de usufruto",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 8.º — Registo predial do direito de usufruto\n\nO presente decreto-lei constitui título suficiente para todos os efeitos legais, incluindo o de registo predial do direito de usufruto referido no artigo 4.º\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "920347406": {
+   "fragment_id": "163561216",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma transitória",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17, produz efeitos a partir de 2018-01-16"
+   ],
+   "markdown": "###### Artigo 9.º — Norma transitória\n\n1 - Até ao nonagésimo dia posterior à notificação à cessionária da adjudicação da concessão de exploração do Palace Hotel do Buçaco e seus anexos, no âmbito do procedimento concursal previsto no artigo 4.º-A, nos termos do artigo 77.º do CCP, o presente decreto-lei constitui título habilitante para a utilização e exploração dos referidos imóveis pela Sociedade Hotéis Alexandre de Almeida, Lda., nos termos e condições consignados no auto de cessão a título precário, celebrado em 11 de abril de 2006, entre o Estado Português e a referida Sociedade.\n\n2 - Para efeitos do disposto no número anterior, no n.º 2 do auto de cessão a título precário, onde se lê 'arrendamento' deve ler-se 'contrato de concessão de exploração'.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17, produz efeitos a partir de 2018-01-16"
+  },
+  "920347407": {
+   "fragment_id": "163561217",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Bernardo Luís Amador Trindade - Jaime de Jesus Lopes Silva - José António de Melo Pinto Ribeiro.\n\nPromulgado em 5 de Maio de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 7 de Maio de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "920347408": {
+   "fragment_id": "163561218",
+   "type": 14,
+   "heading": "Anexo I — ESTATUTOS DA FUNDAÇÃO MATA DO BUÇACO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — ESTATUTOS DA FUNDAÇÃO MATA DO BUÇACO"
+  },
+  "920347414": {
+   "fragment_id": "163561226",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição do conselho diretivo e estatuto dos seus membros",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 6.º — Composição do conselho diretivo e estatuto dos seus membros\n\n1 - O conselho diretivo da FMB, F. P., é composto pelo presidente e por quatro vogais não executivos.\n\n2 - O presidente do conselho diretivo é designado pelo membro do Governo responsável pela área das florestas.\n\n3 - Os vogais não executivos são, por inerência, o presidente do Instituto do Turismo de Portugal, I. P., o presidente do conselho diretivo do Instituto da Conservação da Natureza e das Florestas, I. P., o diretor-geral do Património Cultural e o presidente da Câmara Municipal da Mealhada, podendo delegar em dirigente dos respetivos serviços ou organismos.\n\n4 - O mandato do presidente do conselho diretivo tem a duração de cinco anos, sendo renovável uma vez, por igual período.\n\n5 - O presidente do conselho diretivo exerce funções em regime de exclusividade, sendo remunerado de acordo com os montantes fixados para o cargo de direção superior de 1.º grau da Administração Pública.\n\n6 - Os vogais não executivos não são remunerados nem auferem senhas de presença, sem prejuízo do direito ao pagamento de despesas com as deslocações decorrentes das funções exercidas, nos termos previstos no regime jurídico do abono de ajudas de custo e transporte relativo às deslocações em serviço público da generalidade dos trabalhadores em funções públicas.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "920347415": {
+   "fragment_id": "163561227",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências do conselho diretivo",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 7.º — Competências do conselho diretivo\n\n1 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e da gestão da FMB, F.P.:\n\na) Elaborar o orçamento e os planos de atividades anuais e plurianuais e assegurar a sua execução;\n\nb) Definir a organização interna da FMB, F.P.;\n\nc) Emitir os regulamentos internos de funcionamento da FMB, F. P., sempre que aplicável;\n\nd) Proceder ao inventário anual do património a submeter ao fiscal único;\n\ne) Elaborar o relatório de atividades, balanço anual e as contas de cada período, a submeter ao fiscal único;\n\nf) Celebrar protocolos de colaboração e parceria com outras entidades;\n\ng) Decidir sobre quaisquer outras matérias que respeitem à atividade da FMB, F. P., e que, pelos presentes estatutos, não constituam competência exclusiva de outros órgãos.\n\n2 - A FMB, F.P., é representada, designadamente, em juízo ou na prática de atos jurídicos, pelo presidente do conselho diretivo ou por mandatários especialmente designados.\n\n3 - O conselho diretivo pode delegar competências em qualquer dos seus membros.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "920347416": {
+   "fragment_id": "163561230",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento do conselho diretivo",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019)"
+   ],
+   "markdown": "###### Artigo 8.º — Funcionamento do conselho diretivo\n\n1 - O conselho diretivo reúne uma vez por semana e, extraordinariamente, sempre que o seu presidente o convoque, por sua iniciativa ou a solicitação da maioria dos seus membros.\n\n2 - Nas votações não há abstenções, mas podem ser proferidas declarações de voto.\n\n3 - A ata das reuniões deve ser aprovada e assinada por todos os membros presentes, podendo os membros discordantes do teor da mesma nela exarar as respetivas declarações de voto.\n\n4 - As reuniões do conselho diretivo são presenciais ou com recurso a meios telemáticos.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019)"
+  },
+  "920347417": {
+   "fragment_id": "163561233",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho consultivo",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "###### Artigo 10.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação da FMB, F.P.\n\n2 - O conselho consultivo tem a seguinte composição:\n\na) Presidente do conselho diretivo, que preside e tem voto de qualidade em caso de empate nas votações;\n\nb) Um representante do membro do Governo responsável pela área das finanças;\n\nc) Dois representantes do membro do Governo responsável pela área do turismo;\n\nd) Dois representantes do membro do Governo responsável pela área das florestas;\n\ne) Um representante do membro do Governo responsável pela área da cultura;\n\nf) Um representante da Câmara Municipal da Mealhada;\n\ng) Um representante de cada pessoa singular ou coletiva, pública ou privada, que contribua ativamente para os fins da FMB, F.P.;\n\nh) Uma personalidade designada pela Universidade de Aveiro;\n\ni) Uma personalidade designada pela Universidade de Coimbra.\n\n3 - O presidente é substituído, nas suas faltas e impedimentos, por um vogal do conselho diretivo, por si designado.\n\n4 - O vogal a que se refere o número anterior tem assento no conselho consultivo, sem direito a voto.\n\n5 - O exercício de funções de membro do conselho consultivo não é remunerado, nem confere direito ao pagamento de despesas com as deslocações.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "920347425": {
+   "fragment_id": "163561255",
+   "type": 14,
+   "heading": "Anexo — II",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+   ],
+   "markdown": "## Anexo — II\n\nPatrimónio do Estado afeto, em usufruto, à Fundação, incluindo todas as construções e edificações nele existentes:\n\nAbegoarias;\n\nArmazém de materiais;\n\nArmazém de materiais;\n\nArmazém de secagem de madeiras;\n\nArmazém de sementes;\n\nBarracão do Vale dos Fetos;\n\nCampos de ténis;\n\nCapela da Samaritana;\n\nCapela de (Dr.) São João da Cruz;\n\nCapela de Santa Maria Madalena;\n\nCapela de Santo Antão;\n\nCapela de São Pedro;\n\nCapela de São Silvestre;\n\nCapela do Passo da 1.ª Queda;\n\nCapela do Passo da 2.ª Queda;\n\nCapela do Passo da 3.ª Queda;\n\nCapela do Passo da Crucificação de Jesus Cristo;\n\nCapela do Passo da Cruz às Costas;\n\nCapela do Passo da Prisão;\n\nCapela do Passo da Verónica;\n\nCapela do Passo das Filhas de Jerusalém;\n\nCapela do Passo de Anás;\n\nCapela do Passo de Caifás;\n\nCapela do Passo de Cristo Descido da Cruz;\n\nCapela do Passo de Cristo Despojado;\n\nCapela do Passo de Herodes;\n\nCapela do Passo do Calvário;\n\nCapela do Passo do Cireneu;\n\nCapela do Passo do Encontro da Virgem;\n\nCapela do Passo do Horto;\n\nCapela do Passo do Pretório;\n\nCapela do Passo do Sepulcro;\n\nCasa da carpintaria;\n\nCasa das Portas de Coimbra;\n\nCasa de guarda-florestal da Cruz Alta;\n\nCasa de guarda-florestal da Feteira;\n\nCasa de guarda-florestal da Porta da Rainha;\n\nCasa de guarda-florestal da Porta das Ameias;\n\nCasa de guarda-florestal da Porta das Lapas;\n\nCasa de guarda-florestal da Porta de Serpa;\n\nCasa de guarda-florestal da Porta de Sula;\n\nCasa de guarda-florestal do Forno do Tijolo;\n\nCasa de guarda-florestal do Torreão;\n\nCasa do Boieiro;\n\nCavalariças;\n\nChalet de Santa Teresa;\n\nConvento de Santa Cruz;\n\nCozinha do pessoal;\n\nCruz Alta;\n\nCruz de Vopeliares;\n\nDepósito do gás;\n\nEdifício da casa dos empregados (Pousada Grande);\n\nErmida de Nossa Senhora da Conceição;\n\nErmida de Nossa Senhora da Expectação;\n\nErmida de Santo Elias;\n\nErmida de São João Baptista;\n\nErmida de São José;\n\nErmida de São Miguel;\n\nErmida do Calvário;\n\nErmida do Santo Sepulcro;\n\nEstufas e respetivos anexos;\n\nFonte da Samaritana;\n\nFonte de Santa Teresa;\n\nFonte de Santo Elias;\n\nFonte de São Silvestre;\n\nFonte do Carregal;\n\nFonte Fria;\n\nGaragem (hotel);\n\nMata Nacional do Buçaco;\n\nPalace Hotel;\n\nPorta da Rainha;\n\nPorta das Ameias;\n\nPorta das Lapas;\n\nPorta de Sula;\n\nPorta do Serpa;\n\nPortas de Coimbra;\n\nPousada Pequena;\n\nSede da antiga administração.\n\nParte B\n\n(a que se refere o n.º 5 do artigo 4.º)\n\nPatrimónio do Estado afeto, em usufruto, à Fundação nos termos do n.º 5 do artigo 4.º:\n\nCasa das Portas de Coimbra;\n\nPousada Pequena.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 58/2014 - Diário da República n.º 74/2014, Série I de 2014-04-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2014-25344019), em vigor a partir de 2014-04-20"
+  },
+  "920347426": {
+   "fragment_id": "919971023",
+   "type": 4,
+   "heading": "Parte A — (a que se refere o n.º 4 do artigo 4.º)",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17"
+   ],
+   "markdown": "## Parte A — (a que se refere o n.º 4 do artigo 4.º)\n\nPatrimónio do Estado afeto, em usufruto, à Fundação, incluindo todas as construções e edificações nele existentes:\n\nAbegoarias;\n\nArmazém de materiais;\n\nArmazém de materiais;\n\nArmazém de secagem de madeiras;\n\nArmazém de sementes;\n\nBarracão do Vale dos Fetos;\n\nCampos de ténis;\n\nCapela da Samaritana;\n\nCapela de (Dr.) São João da Cruz;\n\nCapela de Santa Maria Madalena;\n\nCapela de Santo Antão;\n\nCapela de São Pedro;\n\nCapela de São Silvestre;\n\nCapela do Passo da 1.ª Queda;\n\nCapela do Passo da 2.ª Queda;\n\nCapela do Passo da 3.ª Queda;\n\nCapela do Passo da Crucificação de Jesus Cristo;\n\nCapela do Passo da Cruz às Costas;\n\nCapela do Passo da Prisão;\n\nCapela do Passo da Verónica;\n\nCapela do Passo das Filhas de Jerusalém;\n\nCapela do Passo de Anás;\n\nCapela do Passo de Caifás;\n\nCapela do Passo de Cristo Descido da Cruz;\n\nCapela do Passo de Cristo Despojado;\n\nCapela do Passo de Herodes;\n\nCapela do Passo do Calvário;\n\nCapela do Passo do Cireneu;\n\nCapela do Passo do Encontro da Virgem;\n\nCapela do Passo do Horto;\n\nCapela do Passo do Pretório;\n\nCapela do Passo do Sepulcro;\n\nCasa da carpintaria;\n\nCasa das Portas de Coimbra;\n\nCasa de guarda-florestal da Cruz Alta;\n\nCasa de guarda-florestal da Feteira;\n\nCasa de guarda-florestal da Porta da Rainha;\n\nCasa de guarda-florestal da Porta das Ameias;\n\nCasa de guarda-florestal da Porta das Lapas;\n\nCasa de guarda-florestal da Porta de Serpa;\n\nCasa de guarda-florestal da Porta de Sula;\n\nCasa de guarda-florestal do Forno do Tijolo;\n\nCasa de guarda-florestal do Torreão;\n\nCasa do Boieiro;\n\nCavalariças;\n\nChalet de Santa Teresa;\n\nConvento de Santa Cruz;\n\nCozinha do pessoal;\n\nCruz Alta;\n\nCruz de Vopeliares;\n\nDepósito do gás;\n\nEdifício da casa dos empregados (Pousada Grande);\n\nErmida de Nossa Senhora da Conceição;\n\nErmida de Nossa Senhora da Expectação;\n\nErmida de Santo Elias;\n\nErmida de São João Baptista;\n\nErmida de São José;\n\nErmida de São Miguel;\n\nErmida do Calvário;\n\nErmida do Santo Sepulcro;\n\nEstufas e respetivos anexos;\n\nFonte da Samaritana;\n\nFonte de Santa Teresa;\n\nFonte de Santo Elias;\n\nFonte de São Silvestre;\n\nFonte do Carregal;\n\nFonte Fria;\n\nGaragem (hotel);\n\nMata Nacional do Buçaco;\n\nPalace Hotel;\n\nPorta da Rainha;\n\nPorta das Ameias;\n\nPorta das Lapas;\n\nPorta de Sula;\n\nPorta do Serpa;\n\nPortas de Coimbra;\n\nPousada Pequena;\n\nSede da antiga administração.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17"
+  },
+  "920347427": {
+   "fragment_id": "919971024",
+   "type": 4,
+   "heading": "Parte B — (a que se refere o n.º 5 do artigo 4.º)",
+   "in_force_from": "2021-06-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17"
+   ],
+   "markdown": "## Parte B — (a que se refere o n.º 5 do artigo 4.º)\n\nPatrimónio do Estado afeto, em usufruto, à Fundação nos termos do n.º 5 do artigo 4.º:\n\nCasa das Portas de Coimbra;\n\nPousada Pequena.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 35/2021 - Diário da República n.º 96/2021, Série I de 2021-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2021-163561200), em vigor a partir de 2021-06-17"
+  }
+ }
+}

@@ -1,0 +1,517 @@
+---
+schema_version: '1.0'
+id: pt:dre:162067645:por
+title: Decreto Regulamentar Regional n.º 4/2021/A
+short_title: null
+summary: Regulamenta a atribuição de incentivos financeiros para a introdução no consumo de veículos elétricos novos bem como
+  a atribuição de incentivos financeiros para a aquisição de pontos de carregamento de veículos elétricos e fixar os valores
+  e as condições para a atribuição dos incentivos financeiros
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 4/2021/A
+official_date: null
+publication_date: '2021-04-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 80/2021, Série I de 2021-04-26
+  number: '80'
+  series: I
+  supplement: null
+  pages: 8 - 15
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/04/08000/0000800015.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-02-19'
+version_history:
+  file: decreto-regulamentar-regional-4-2021-a.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2021-04-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-11-28'
+    amending: pt:dre:224797146:por
+    amending_title: Decreto Regulamentar Regional n.º 35/2023/A
+    changes:
+    - Adita Artigo 14.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Revoga Artigo 5.º
+  - date: '2024-07-02'
+    amending: pt:dre:870449286:por
+    amending_title: Decreto Regulamentar Regional n.º 7/2024/A
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
+  - date: '2025-02-19'
+    amending: pt:dre:907763815:por
+    amending_title: Decreto Regulamentar Regional n.º 8/2025/A
+    changes:
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/4/2021/a/cons/20250218/pt/html
+  oj: null
+  dre: '162067645'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/4-2021-162067645
+  internal: pt:dre:162067645:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2021-162067645
+  metadata_url: https://data.dre.pt/eli/decregulreg/4/2021/a/cons/20250218/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2021-162067674
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2021-162067674
+  retrieved_at: '2026-10-22T12:41:06Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 0b61716923881c3803160dc82815d711add5a236fe9802999f745f522adceea2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:41:06Z'
+  notes: 4 versão(ões); histórico completo em decreto-regulamentar-regional-4-2021-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Transporte Terrestre
+- Definição de Competências
+- Política Energética
+- Apoio ao Investimento
+- Mobilidade Elétrica
+- Jornal Oficial
+- Publicitação
+- Veículo Elétrico
+- Política de Transportes
+- Energia
+- Posto de Abastecimento de Combustíveis
+- Açores
+- Eficiência Energética
+- Transporte de Passageiros
+- Transporte Particular
+- Transporte Público
+relationships:
+- type: amended_by
+  target: pt:dre:224797146:por
+  label: Adita Artigo 14.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º;
+    Altera Artigo 17.º; Revoga Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146
+  date: '2023-11-27'
+- type: amended_by
+  target: pt:dre:870449286:por
+  label: Altera Artigo 3.º; Altera Artigo 8.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2024-870449286
+  date: '2024-07-01'
+- type: amended_by
+  target: pt:dre:907763815:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2025-907763815
+  date: '2025-02-18'
+- type: cites
+  target: pt:dre:123815991:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/21/2019/08/08/a/dre
+- type: cites
+  target: pt:dre:128515585:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/2/2020/01/27/a/dre
+- type: cites
+  target: pt:dre:137126900:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/15/2020/07/03/a/dre
+- type: cites
+  target: pt:dre:147674:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/174/1997/07/19/p/dre
+- type: cites
+  target: pt:dre:226809:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/1996/10/23/p/dre
+- type: cites
+  target: pt:dre:491686:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/291/2009/10/12/p/dre
+- type: cites
+  target: pt:dre:655300:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/31/1999/12/17/a/dre
+article_structure:
+  article_count: 23
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:41:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 4/2021/A
+
+Decreto Regulamentar Regional n.º 4/2021/A
+
+Sumário: Regulamenta a atribuição de incentivos financeiros para a introdução no consumo de veículos elétricos novos bem como a atribuição de incentivos financeiros para a aquisição de pontos de carregamento de veículos elétricos e fixar os valores e as condições para a atribuição dos incentivos financeiros.
+
+O sistema de incentivos financeiros para a aquisição de veículos elétricos e de pontos de carregamento, o qual constitui um dos pilares da estratégia para a implementação da mobilidade elétrica nos Açores, aprovada pelo Decreto Legislativo Regional n.º 21/2019/A, de 8 de agosto, ficou consagrado no Decreto Regulamentar Regional n.º 2/2020/A, de 27 de janeiro, alterado pelo Decreto Regulamentar Regional n.º 15/2020/A, de 3 de julho, por forma a incluir medidas destinadas à promoção do projeto «Graciosa - Ilha Modelo».
+
+Embora se mantenham os pressupostos que presidiram à elaboração deste sistema de incentivos, volvido pouco mais de um ano da sua vigência, e fruto da experiência recolhida com a implementação do mesmo, importa proceder à elaboração de um decreto regulamentar regional que suprima lacunas e que clarifique, em obediência aos princípios da legalidade, da transparência, da igualdade e da imparcialidade, os direitos, obrigações e procedimentos a adotar no âmbito das candidaturas submetidas ao presente sistema de incentivos.
+
+Agora, procura-se, sobretudo, uma clarificação e simplificação do texto legal, por forma a permitir aos beneficiários uma mais clara perceção dos requisitos essenciais à elegibilidade das suas candidaturas.
+
+Procederam-se, ainda, a alterações de fundo ao sistema de incentivos, com o intuito de auxiliar a alcançar as metas definidas para a massificação da Mobilidade Elétrica na Região, bem como foram ajustados os montantes de diversas majorações e foi alargada a elegibilidade a veículos automóveis ligeiros elétricos novos introduzidos no consumo, no mercado da Região Autónoma dos Açores, com recurso a contrato de locação financeira, caso em que o contrato terá de ter duração mínima de sessenta meses, não sendo admitidas outras formas de locação.
+
+Note-se, ainda, que os veículos elétricos se revelam especialmente úteis e adequados à utilização por pessoas com deficiência, pelo que se optou por introduzir uma majoração do incentivo para estes beneficiários.
+
+O presente decreto regulamentar regional para a atribuição de incentivos financeiros decorre, assim, da necessidade de revisão do sistema no âmbito de um segmento de mercado em constante evolução, tendo sempre presente o interesse público prosseguido pelos beneficiários desses apoios, nomeadamente o objetivo de concretizar, na Região Autónoma dos Açores, medidas que reduzam as emissões de gases com efeito estufa, apostando na transição energética para uma economia competitiva e de baixo carbono, assente num modelo que potencie o uso eficiente de recursos, contribuindo para mitigar, dessa forma, os efeitos das alterações climáticas.
+
+Nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do n.º 8 do artigo 5.º do Decreto Legislativo Regional n.º 21/2019/A, de 8 de agosto, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente diploma regulamenta a atribuição de incentivos financeiros para a introdução no consumo de veículos elétricos novos, nomeadamente veículos automóveis ligeiros, motociclos de duas rodas ou ciclomotores, triciclos motorizados ou quadriciclos e velocípedes com motor, introduzidos no mercado no território da Região Autónoma dos Açores, quer por meio de aquisição, quer por contrato de locação financeira, por pessoas singulares ou coletivas de direito privado, com domicílio fiscal no território da Região Autónoma dos Açores.
+
+2 - O presente diploma regulamenta, ainda, a atribuição de incentivos financeiros para a aquisição de pontos de carregamento de veículos elétricos, por pessoas singulares ou coletivas de direito privado com domicílio fiscal na Região Autónoma dos Açores.
+
+3 - O presente diploma fixa, também, os valores e as condições para atribuição dos incentivos financeiros referidos nos números anteriores.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma entende-se por:
+
+a) «Veículos automóveis ligeiros», os veículos automóveis ligeiros de passageiros e mercadorias novos, exclusivamente elétricos, das categorias M1 e N1, conforme classificação do departamento do Governo Regional com competência em matéria de transportes e devidamente homologados;
+
+b) «Motociclos de duas rodas ou ciclomotores», os motociclos de duas rodas da categoria L3e, ou ciclomotores da categoria L1e-B, exclusivamente elétricos, que estejam sujeitos a atribuição de matrícula, com exclusão daqueles classificados como enduro, trial ou com sidecar, conforme classificação do departamento do Governo Regional com competência em matéria de transportes e devidamente homologados;
+
+c) «Triciclos motorizados ou quadriciclos», os triciclos de três rodas da categoria L5e, ou quadriciclos, ligeiros ou pesados, de passageiros ou de mercadorias, das categorias L6e-BP, L6e-BU, L7e-CP e L7e-CU, exclusivamente elétricos, que estejam sujeitos a atribuição de matrícula, conforme classificação do departamento do Governo Regional com competência em matéria de transportes e devidamente homologados;
+
+d) 'Velocípedes com motor', as bicicletas com assistência elétrica, acionadas pelo esforço do próprio condutor, por meio de pedais ou dispositivos análogos, excluindo trotinetas;
+
+e) «Pontos de carregamento de veículos elétricos», equipamentos dedicados exclusivamente ao carregamento de baterias de veículos elétricos, os quais podem estar associados a outros serviços relativos à mobilidade elétrica, com exceção das tomadas elétricas convencionais.
+
+f) 'Veículo elétrico novo', aquele que não foi utilizado desde o momento do seu fabrico até à entrega ao comprador, à exceção do estritamente necessário para a sua colocação à disposição do comprador e em que a data da fatura de aquisição não ultrapasse 30 dias úteis relativamente à data da primeira matrícula.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 3.º — Incentivo
+
+1 - O incentivo a que se refere o artigo 1.º corresponde:
+
+a) À atribuição de um apoio financeiro, no valor e condições fixados no presente diploma, para a introdução, no mercado regional, de veículos elétricos novos, cuja aquisição ou o contrato de locação financeira, bem como o primeiro registo, tenham sido feitos em nome do candidato, nos prazos estabelecidos;
+
+b) À atribuição de um apoio financeiro à aquisição e instalação de ponto de carregamento, nos termos previstos no artigo 12.º
+
+2 - (Revogado.)
+
+3 - Aos incentivos concedidos para introdução no consumo de veículos elétricos novos podem ser atribuídas majorações nas seguintes situações:
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) No caso de veículos automóveis ligeiros, beneficiários que apresentem comprovativo de abate de uma viatura a combustão interna própria, emitida pelos centros de abate em funcionamento na Região Autónoma dos Açores, com data não superior a três meses relativamente à data do recibo que comprova a aquisição do veículo automóvel ligeiro, ou da data da celebração do contrato de locação financeira;
+
+d) Beneficiários que apresentem uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %, devidamente certificada nos termos previstos na alínea l) do artigo 7.º
+
+4 - (Revogado.)
+
+5 - Aos incentivos concedidos para a aquisição e instalação de pontos de carregamento podem ser atribuídas majorações aos beneficiários que usufruam de uma tarifa de eletricidade diferenciada no tempo, nos termos do n.º 3 do artigo 12.º
+
+> Nota: [Artigo 3.º, Decreto Regulamentar Regional n.º 7/2024/A - Diário da República n.º 125/2024, Série I de 2024-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2024-870449286) As alterações introduzidas ao presente artigo, não se aplicam aos processos de candidatura que tenham sido apresentados antes de 2 de de julho de 2024.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2024/A - Diário da República n.º 125/2024, Série I de 2024-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2024-870449286), em vigor a partir de 2024-07-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 4.º — Elegibilidade
+
+1 - São elegíveis para a atribuição dos incentivos constantes do presente diploma as pessoas singulares e pessoas coletivas de direito privado, com domicílio fiscal na Região Autónoma dos Açores.
+
+2 - São elegíveis para a atribuição dos incentivos constantes do presente diploma os veículos elétricos novos, introduzidos no mercado regional por meio de aquisição ou por contrato de locação financeira, não sendo admitidas outras formas de locação.
+
+3 - Não são elegíveis para a atribuição dos incentivos previstos no presente diploma as empresas cujo ramo de atividade seja o comércio de equipamentos objeto do incentivo.
+
+4 - Não é permitida a atribuição dos incentivos constantes no presente diploma pela introdução de veículos elétricos que tenham sido sujeitos ao processo de legalização de importação de veículos automóveis.
+
+5 - (Revogado.)
+
+6 - O mesmo beneficiário pode usufruir de incentivos para mais do que uma categoria de veículo elétrico em simultâneo.
+
+> Nota: [Artigo 5.º, Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146) As alterações introduzidas ao presente artigo, aplicam-se aos processos de candidatura que se encontrem a decorrer até 28 de novembro de 2023.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 5.º — Graciosa - Ilha Modelo de soluções inovadoras de mobilidade elétrica
+
+1 - Para efeitos de elegibilidade para a atribuição dos incentivos constantes do presente diploma, nos termos do artigo 4.º, consideram-se, igualmente, elegíveis as candidaturas apresentadas por:
+
+a) Pessoas singulares ou coletivas que exerçam a sua atividade na área dos transportes públicos de aluguer de veículos automóveis ligeiros de passageiros (transportes em táxi), com domicílio fiscal na ilha Graciosa;
+
+b) Pessoas singulares ou coletivas que exerçam a sua atividade na área do aluguer de veículos automóveis de passageiros sem condutor (rent-a-car), com domicílio fiscal na Ilha Graciosa.
+
+2 - As pessoas singulares e coletivas que exerçam as suas atividades nas áreas referidas no número anterior, juntamente com os documentos referidos no artigo 7.º, devem apresentar comprovativo da autorização legal para exercício dessas atividades.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 6.º — Candidaturas
+
+1 - As candidaturas são entregues no departamento do Governo Regional com competência em matéria de energia, doravante designado por organismo gestor, instruídas em formulário eletrónico disponível no Portal do Governo Regional dos Açores.
+
+2 - Cabe ao organismo gestor disponibilizar, no Portal a que se refere o número anterior, o formulário da candidatura, bem como toda a informação necessária à sua correta instrução e submissão.
+
+3 - A candidatura deve ser efetuada através do formulário eletrónico mencionado no número anterior, ao qual devem ser anexadas cópias de todos os documentos necessários à correta instrução e submissão da mesma.
+
+4 - O beneficiário é notificado, por correio eletrónico, da confirmação de submissão do pedido de atribuição de incentivo, contendo a respetiva data e hora.
+
+###### Artigo 7.º — Documentos da candidatura
+
+As candidaturas aos incentivos previstos no presente diploma devem ser instruídas com a seguinte documentação:
+
+a) No caso de o candidato ser uma pessoa singular, cópia dos documentos de identificação (cartão de cidadão ou bilhete de identidade e número de identificação fiscal ou, em alternativa, o documento com os dados do cartão de cidadão - dados de identificação civil e número de identificação fiscal - exportado através da Aplicação do Cartão de Cidadão disponível em https://www.autenticacao.gov.pt/cc-aplicacao);
+
+b) No caso de o candidato ser uma pessoa coletiva de direito privado, cópia da certidão de registo comercial ou código de acesso à certidão permanente, bem como cópia dos documentos de identificação (cartão de cidadão ou bilhete de identidade e número de identificação fiscal, ou em alternativa o documento com os dados do cartão de cidadão - dados de identificação civil e número de identificação fiscal - exportado através da Aplicação do Cartão de Cidadão disponível em https://www.autenticacao.gov.pt/cc-aplicacao) dos representantes da sociedade com poderes para obrigar;
+
+c) Certidão de não dívida do candidato perante a Autoridade Tributária e Aduaneira, válida, ou, preferencialmente, autorização de consentimento de consulta da situação tributária;
+
+d) Certidão de não dívida do candidato perante a segurança social, válida, ou, preferencialmente, autorização de consentimento de consulta da situação contributiva;
+
+e) No caso de veículos automóveis ligeiros, motociclos de duas rodas ou ciclomotores e triciclos motorizados ou quadriciclos, fatura e recibo de aquisição de veículo elétrico novo, em nome do candidato, em que conste o número do chassis, devendo ainda ser feita prova de matrícula a favor do candidato através do Documento Único Automóvel ou outro documento, sem prejuízo do disposto na alínea seguinte;
+
+f) No caso de veículos automóveis ligeiros introduzidos no mercado regional através do recurso a contrato de locação financeira, a candidatura deve ser instruída com a cópia do contrato de locação em nome do candidato, devendo ainda ser feita prova de matrícula através do documento único automóvel, ou de outro documento;
+
+g) No caso de velocípedes com motor, fatura e recibo de aquisição, em nome do candidato, devendo ser apresentada uma declaração do vendedor, na qual conste que o veículo é novo;
+
+h) Comprovativo que demonstre a subscrição de uma tarifa de eletricidade diferenciada no tempo, para efeitos da majoração prevista no n.º 3 do artigo 12.º, quando aplicável;
+
+i) Comprovativo de abate de uma viatura a combustão interna, emitida pelos centros de abate em funcionamento na Região Autónoma dos Açores, para efeitos da majoração prevista na alínea c) do n.º 3 do artigo 3.º, quando aplicável;
+
+j) Indicação do IBAN da conta bancária do candidato para a qual deve ser efetuada a transferência do incentivo, através de documento emitido por entidade bancária;
+
+k) No caso de pontos de carregamento de veículos elétricos, fatura e recibo de aquisição do ponto de carregamento, em nome do candidato;
+
+l) A prova de deficiência e a atribuição do grau de incapacidade é efetuada através de atestado médico de incapacidade multiúso, previsto no Decreto-Lei n.º 202/96, de 23 de outubro, alterado pelos Decretos-Leis n.os 174/97, de 19 de julho, e 291/2009, de 12 de outubro, e aplicado na Região Autónoma dos Açores pelo Decreto Legislativo Regional n.º 31/99/A, de 17 de dezembro, podendo, ainda, ser efetuada pela apresentação de declaração de incapacidade, emitida pelas autoridades de saúde, desde que a certificação da deficiência seja anterior à data da entrada em vigor do modelo de atestado médico de incapacidade multiúso, aprovado pelo Despacho n.º 26432/2009, de 4 de dezembro, para efeitos da majoração prevista na alínea d) do n.º 3 do artigo 3.º, quando aplicável;
+
+m) Declaração, sob compromisso de honra, do conhecimento e cumprimento das obrigações do beneficiário, nomeadamente as constantes do artigo 17.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 8.º — Valor do incentivo a veículos automóveis ligeiros
+
+1 - O valor do incentivo financeiro para a introdução no mercado de um veículo automóvel ligeiro por pessoas singulares, limitado a uma unidade por candidato, é fixado em 10 % do preço de venda ao público, com IVA incluído, até ao limite máximo de (euro) 3000,00 (três mil euros).
+
+2 - O valor do incentivo financeiro para a introdução no mercado de um veículo automóvel ligeiro por pessoas coletivas de direito privado, limitado a três unidades por candidato, é fixado em 10 % do preço de venda ao público até ao limite máximo de (euro) 2000,00 (dois mil euros) por unidade.
+
+3 - Os incentivos previstos nos números anteriores têm as seguintes majorações:
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) 1 000,00 (euro) (mil euros), no caso de candidatos que apresentem comprovativo de abate de uma viatura a combustão interna própria, emitida pelos centros de abate em funcionamento na Região Autónoma dos Açores, com data de emissão correspondente a um período máximo de três meses anteriores à data de aquisição do veículo automóvel ligeiro, ou correspondente a um período máximo de três meses posteriores à data da respetiva aquisição, ou da data da celebração do respetivo contrato de locação financeira;
+
+d) (euro) 300,00 (trezentos euros), no caso de pessoas singulares que comprovem possuir uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %.
+
+4 - Os incentivos a que se referem os números anteriores apenas são aplicáveis a veículos automóveis ligeiros cujo preço de venda ao público, com IVA incluído, seja igual ou inferior a (euro) 62 500,00 (sessenta e dois mil e quinhentos euros).
+
+5 - O limite referido no número anterior pode ser ultrapassado, em casos devidamente justificados, relacionados com a atividade da entidade candidata ao incentivo, mediante despacho do membro do Governo Regional com competência em matéria de energia.
+
+> Nota: [Artigo 3.º, Decreto Regulamentar Regional n.º 7/2024/A - Diário da República n.º 125/2024, Série I de 2024-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2024-870449286) As alterações introduzidas ao presente artigo, aplicam-se aos processos de candidatura que se encontrem a decorrer à data de 2 de de julho de 2024.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2024/A - Diário da República n.º 125/2024, Série I de 2024-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2024-870449286), em vigor a partir de 2024-07-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 9.º — Valor do incentivo a motociclos de duas rodas ou ciclomotores
+
+1 - O valor do incentivo financeiro para a introdução no mercado de motociclos de duas rodas ou ciclomotores, por pessoas singulares ou coletivas de direito privado, limitado a uma unidade por candidato, é fixado em 20 % do preço de venda ao público até ao limite máximo de (euro) 750,00 (setecentos e cinquenta euros).
+
+2 - O incentivo previsto no número anterior é majorado em 200,00 (euro) (duzentos euros), no caso de pessoas singulares que comprovem possuir uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %.
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 10.º — Valor do incentivo a triciclos motorizados ou quadriciclos
+
+1 - O valor do incentivo financeiro para a introdução no mercado de triciclos motorizados ou quadriciclos, por pessoas singulares ou coletivas de direito privado, limitado a uma unidade por candidato, é fixado em 20 % do preço de venda ao público até ao limite máximo de (euro) 750,00 (setecentos e cinquenta euros).
+
+2 - O incentivo previsto no número anterior é majorado em 200,00 (euro) (duzentos euros), no caso de pessoas singulares que comprovem possuir uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %.
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 11.º — Valor do incentivo a velocípedes com motor
+
+1 - O valor do incentivo financeiro para a introdução no mercado de velocípedes com motor, por pessoas singulares ou coletivas de direito privado, limitado a uma unidade por candidato, é fixado em 50 % do preço de venda ao público até ao limite máximo de 300,00 (euro) (trezentos euros).
+
+2 - O incentivo previsto no número anterior é majorado em 100,00 (euro) (cem euros), no caso de pessoas singulares que comprovem possuir uma deficiência da qual resulte um grau de incapacidade igual ou superior a 60 %.
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+3 - Os incentivos a que se referem os números anteriores não são aplicáveis aos velocípedes com motor cujo preço de venda ao público, com imposto sobre o valor acrescentado (IVA) incluído, seja inferior a 500,00 (euro) (quinhentos euros).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 12.º — Valor do incentivo a pontos de carregamento de veículos elétricos
+
+1 - O valor do incentivo financeiro para a aquisição e instalação de pontos de carregamento de veículos elétricos, por pessoas singulares ou coletivas de direito privado, é fixado em 50 % do preço de venda ao público, até ao limite máximo de 700,00 (euro) (setecentos euros).
+
+2 - (Revogado.)
+
+3 - O incentivo previsto no n.º 1 é majorado em 250,00 (euro) (duzentos e cinquenta euros), no caso de candidatos que usufruam de uma tarifa diferenciada no tempo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 13.º — Limites do incentivo
+
+1 - O incentivo, quando atribuído a pessoa coletiva de direito privado, não pode exceder os limites previstos no âmbito dos Regulamentos (UE) n.os 1408/2013 da Comissão, de 18 de dezembro, 717/2014, da Comissão, de 27 de junho, e 2023/2831 da Comissão, de 13 de dezembro, relativos à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis.
+
+2 - Sem prejuízo do constante no n.º 2 do artigo 14.º, estipulam-se os seguintes limites à introdução no mercado de veículos elétricos novos e a aquisição de pontos de carregamento por candidato:
+
+a) No caso de pessoas singulares, o incentivo financeiro para a introdução no mercado de automóvel ligeiro está limitado a 1 (uma) unidade por candidato;
+
+b) No caso de pessoas coletivas de direito privado, o incentivo financeiro para a introdução no mercado de automóvel ligeiro está limitado a 3 (três) unidades por candidato;
+
+c) O incentivo financeiro para a introdução no mercado de veículos elétricos das restantes tipologias está limitado a 1 (uma) unidade por tipologia, por candidato, independentemente de o candidato ser pessoa singular ou pessoa coletiva de direito privado;
+
+d) (Revogada.)
+
+e) No caso de pessoas singulares, o incentivo financeiro para aquisição e instalação de ponto de carregamento está limitado a uma unidade por candidato;
+
+f) No caso de pessoas coletivas, o incentivo financeiro para aquisição e instalação de ponto de carregamento está limitado a três unidades por candidato.
+
+> Nota: [Artigo 3.º, Decreto Regulamentar Regional n.º 7/2024/A - Diário da República n.º 125/2024, Série I de 2024-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2024-870449286) As alterações introduzidas ao presente artigo, não se aplicam aos processos de candidatura que tenham sido apresentados antes de 2 de de julho de 2024.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 7/2024/A - Diário da República n.º 125/2024, Série I de 2024-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2024-870449286), em vigor a partir de 2024-07-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 14.º — Prazo de candidaturas e elegibilidade dos veículos elétricos
+
+1 - (Revogado.)
+
+2 - Para efeitos de submissão de novas candidaturas ao presente sistema de incentivos, devem ser respeitados os limites estabelecidos no n.º 2 do artigo 13.º, só se considerando os anteriores investimentos concluídos assim que tenham decorridos quatro anos a contar da data de publicação, em Jornal Oficial, da listagem nominal onde conste o incentivo atribuído.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 14.º-A — Submissão das candidaturas
+
+O período de submissão das candidaturas aos incentivos previstos no n.º 1 do artigo 3.º decorre até 120 dias após a introdução no mercado do veículo elétrico novo, ou após a aquisição do ponto de carregamento, contados a partir da data do último recibo, em caso de aquisição, ou no caso de contratos de locação financeira, da data de assinatura do respetivo contrato.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 15.º — Atribuição do incentivo
+
+1 - A atribuição do incentivo é efetuada por despacho do membro do Governo Regional com competência em matéria de energia.
+
+2 - O beneficiário é notificado, por correio eletrónico, do reconhecimento da atribuição do incentivo, no prazo máximo de quinze dias após a assinatura do despacho mencionado no número anterior.
+
+###### Artigo 16.º — Acumulação de incentivos
+
+É permitida ao beneficiário a acumulação dos incentivos concedidos pelo presente diploma com outros de natureza similar, previstos em diplomas ou outros atos normativos nacionais ou regionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 8/2025/A - Diário da República n.º 34/2025, Série I de 2025-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2025-907763815), em vigor a partir de 2025-02-19, produz efeitos a partir de 2025-01-23
+
+###### Artigo 17.º — Obrigações do beneficiário
+
+1 - Os veículos elétricos e pontos de carregamento objeto de comparticipação devem manter-se na posse do beneficiário por um período não inferior a quatro anos, devendo, para esse efeito, o beneficiário apresentar ao organismo gestor uma declaração de compromisso de honra do conhecimento e cumprimento das suas obrigações.
+
+2 - Os beneficiários devem ainda comunicar ao organismo gestor qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à atribuição do incentivo.
+
+3 - Aos beneficiários fica vedada a possibilidade de exportarem os veículos que tenham sido objeto de comparticipação, por um período não inferior a quatro anos, em virtude de o principal objetivo do programa ser a introdução no mercado da Região Autónoma dos Açores de veículos ambientalmente mais favoráveis, de forma a contribuir para a melhoria da qualidade do ar, para a redução do ruído e para a descarbonização.
+
+4 - O beneficiário deve manter devidamente organizados, durante quatro anos, todos os originais dos documentos submetidos em sede de candidatura, nos termos do artigo 7.º
+
+5 - No caso do incumprimento de qualquer uma das obrigações constantes dos números anteriores, o organismo gestor pode solicitar a devolução da totalidade do valor do incentivo atribuído.
+
+6 - Os beneficiários devem adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 35/2023/A - Diário da República n.º 229/2023, Série I de 2023-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/35-2023-224797146), em vigor a partir de 2023-11-28
+
+###### Artigo 18.º — Relatório de execução
+
+O organismo gestor deve elaborar, no final de cada ano civil, um relatório de execução onde constem os resultados da aplicação dos incentivos concedidos pelo presente diploma, incluindo os montantes financiados e o número de veículos adquiridos na Região Autónoma dos Açores, o qual deve ser publicado no portal do organismo gestor.
+
+###### Artigo 19.º — Publicidade
+
+É publicada em Jornal Oficial, por despacho do diretor regional com competência em matéria de energia, a listagem nominal dos incentivos atribuídos.
+
+###### Artigo 20.º — Valor orçamental
+
+O valor orçamental afeto à atribuição dos presentes incentivos financeiros é fixado no Orçamento da Região Autónoma dos Açores.
+
+###### Artigo 21.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto Regulamentar Regional n.º 2/2020/A, de 27 de janeiro;
+
+b) A Resolução do Conselho do Governo Regional n.º 49/2020, de 5 de março de 2020.
+
+###### Artigo 22.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 16 de março de 2021.
+
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
+
+Assinado em Angra do Heroísmo em 19 de abril de 2021.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+114166036

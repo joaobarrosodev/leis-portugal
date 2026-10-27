@@ -1,0 +1,1171 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:572446:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-122960410",
+ "dre_path": "/dr/detalhe/decreto-lei/23-2014-572446",
+ "source_lastmod": "2025-06-11",
+ "versions": [
+  {
+   "date": "2014-02-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122975884",
+    "122975885",
+    "122975886",
+    "122975887",
+    "122975888",
+    "122975889",
+    "122975890",
+    "122975891",
+    "122975892",
+    "122975893",
+    "122975894",
+    "122975895",
+    "122975896",
+    "122975897",
+    "122975898",
+    "122975899",
+    "122975914",
+    "122975901",
+    "122975902",
+    "122975903",
+    "122975904",
+    "122975905",
+    "122975907",
+    "122975908",
+    "122975909",
+    "122975910",
+    "122975912",
+    "122975913",
+    "122975926",
+    "122975915",
+    "122975916",
+    "122975917",
+    "122975918",
+    "122975919",
+    "122975920",
+    "122975921",
+    "122975922",
+    "122975923",
+    "122975924",
+    "122975925",
+    "122975927",
+    "122975928",
+    "122975929",
+    "122975930",
+    "122975931",
+    "122975932",
+    "122975933",
+    "122975934",
+    "122975935",
+    "122975936",
+    "122975937",
+    "122975938",
+    "122975939",
+    "122975940",
+    "122975941",
+    "122975942",
+    "122975943",
+    "122975944"
+   ]
+  },
+  {
+   "date": "2019-07-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122960393:por",
+     "title": "Decreto-Lei n.º 90/2019",
+     "published": "2019-07-05",
+     "dre_path": "/dr/detalhe/decreto-lei/90-2019-122960393"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-A",
+    "Adita Artigo 21.º-A",
+    "Adita Artigo 29.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Capítulo III",
+    "Altera Capítulo IV",
+    "Altera Capítulo V",
+    "Altera Artigo 29.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Elimina Secção III",
+    "Elimina Secção I",
+    "Elimina Secção II",
+    "Revoga Artigo 33.º"
+   ],
+   "fragments": [
+    "122975884",
+    "122975885",
+    "921330938",
+    "921330939",
+    "122975888",
+    "122975889",
+    "122975890",
+    "122975891",
+    "122975892",
+    "921330940",
+    "921330941",
+    "122975895",
+    "921330942",
+    "122975897",
+    "122975898",
+    "921330953",
+    "921330957",
+    "921330954",
+    "921330962",
+    "921435876",
+    "921435890",
+    "921435904",
+    "921435918",
+    "921435932",
+    "921435946",
+    "921435960",
+    "921435974",
+    "921435988",
+    "921436002",
+    "921330955",
+    "921436016",
+    "921436019",
+    "921436022",
+    "921436025",
+    "921436028",
+    "921436031",
+    "921436034",
+    "921436037",
+    "921436040",
+    "921436043",
+    "921436046",
+    "921436049",
+    "921436052",
+    "921436057",
+    "122975928",
+    "921330944",
+    "921330945",
+    "122975931",
+    "921330946",
+    "122975933",
+    "122975934",
+    "122975935",
+    "122975936",
+    "122975937",
+    "122975938",
+    "122975939",
+    "122975940",
+    "122975941",
+    "122975942",
+    "921239113",
+    "122975944",
+    "122975945"
+   ]
+  },
+  {
+   "date": "2026-03-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1066993459:por",
+     "title": "Decreto-Lei n.º 65/2026",
+     "published": "2026-03-05",
+     "dre_path": "/dr/detalhe/decreto-lei/65-2026-1066993459"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 8.º-B",
+    "Altera Artigo 8.º",
+    "Altera Artigo 36.º"
+   ],
+   "fragments": [
+    "122975884",
+    "122975885",
+    "921330938",
+    "921330939",
+    "122975888",
+    "122975889",
+    "122975890",
+    "122975891",
+    "122975892",
+    "921330940",
+    "921330941",
+    "122975895",
+    "1068028475",
+    "1068048175",
+    "1068048775",
+    "1068048975",
+    "1068049075",
+    "921330953",
+    "921330957",
+    "921330954",
+    "921330962",
+    "921435876",
+    "921435890",
+    "921435904",
+    "921435918",
+    "921435932",
+    "921435946",
+    "921435960",
+    "921435974",
+    "921435988",
+    "921436002",
+    "921330955",
+    "921436016",
+    "921436019",
+    "921436022",
+    "921436025",
+    "921436028",
+    "921436031",
+    "921436034",
+    "921436037",
+    "921436040",
+    "921436043",
+    "921436046",
+    "921436049",
+    "921436052",
+    "921436057",
+    "122975928",
+    "921330944",
+    "921330945",
+    "122975931",
+    "1068028675",
+    "122975933",
+    "122975934",
+    "122975935",
+    "122975936",
+    "122975937",
+    "122975938",
+    "122975939",
+    "122975940",
+    "122975941",
+    "122975942",
+    "921239113",
+    "122975944",
+    "122975945"
+   ]
+  }
+ ],
+ "fragments": {
+  "122975884": {
+   "fragment_id": "122960411",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 23/2014\n\nde 14 de fevereiro\n\nO regime jurídico dos espetáculos de natureza artística e da instalação e funcionamento dos recintos de espetáculos de natureza artística, aprovado pelo Decreto-Lei n.º 315/95, de 28 de novembro, com quase duas décadas, não compatibiliza as exigências de salvaguarda do interesse público com os princípios da simplificação e agilização administrativas.\n\nÀ data em que foi publicado, o Decreto-Lei n.º 315/95, de 28 de novembro, introduziu alterações significativas no regime dos recintos de espetáculos e de divertimentos públicos. Entre essas alterações, delimitou-se o conceito de recinto destinado a espetáculos de natureza artística, que ficaram sujeitos a licenciamento e fiscalização da administração central, atualmente através da Inspeção-Geral das Atividades Culturais (IGAC), passando os demais recintos de espetáculos de outra natureza e de divertimentos públicos, para a responsabilidade dos municípios.\n\nPosteriormente, o Decreto-Lei n.º 309/2002, de 16 de dezembro, que regula a instalação e o funcionamento dos recintos de espetáculos e divertimentos públicos, da competência dos municípios, procedeu a uma revisão geral do regime aplicável a estes recintos, revogando parcialmente o referido Decreto-Lei n.º 315/95, de 28 de novembro, que permaneceu aplicável apenas aos espetáculos de natureza artística e aos recintos destinados à sua realização.\n\nConsidera-se, assim, necessário atualizar o quadro legal que norteia a realização de espetáculos de natureza artística e introduzir mecanismos mais simplificados, sem contudo descurar a defesa e proteção dos direitos do consumidor, a segurança de pessoas e bens e a salvaguarda do direito de autor e dos direitos conexos, procedendo-se, deste modo, à revisão integral do Decreto-Lei n.º 315/95, de 28 de novembro.\n\nNa concretização desse desiderato, aproveita-se para conformar o novo regime ao disposto na Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Diretiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de dezembro, relativa aos serviços no mercado interno, que estabelece os princípios e os critérios que devem ser observados pelos regimes de acesso e de exercício de atividades de serviços na União Europeia, transposta para a ordem jurídica interna pelo Decreto-Lei n.º 92/2010, de 26 de julho.\n\nO presente decreto-lei torna os referidos regimes jurídicos mais claros e coerentes, através da definição e organização de conceitos numa perspetiva integrada. Atende-se, assim, ao conceito de espetáculos de natureza artística constante da legislação mais recente sobre esta matéria, designadamente, a que se refere aos profissionais dos espetáculos, aprovada pela Lei n.º 4/2008, de 7 de fevereiro, alterada pelas Leis n.os 105/2009, de 14 de setembro, e 28/2011, de 16 de junho, e introduzem-se os conceitos de recintos fixos de espetáculos de natureza artística e o de promotor de espetáculo de natureza artística.\n\nO promotor deixa de estar sujeito a autorização administrativa para o exercício da respetiva atividade e o seu registo, efetuado no seguimento de mera comunicação prévia, passa a ser válido por tempo indeterminado, em lugar da periodicidade de três anos que estava prevista para a sua revalidação. Por outro lado, o promotor pode submeter os elementos exigíveis, por mera comunicação, prévia, até à data de realização do espetáculo, ficando depois submetido ao mecanismo de verificação permanente dos requisitos e às sanções previstas e aplicáveis no presente decreto-lei, nos casos de incumprimento.\n\nNo funcionamento dos espetáculos de natureza artística, elimina-se o procedimento associado à atual licença de representação, adotando-se a mera comunicação prévia como procedimento necessário para a realização desses espetáculos.\n\nNo quadro dos espetáculos de natureza artística, estabelecem-se regras disciplinadoras do seu acesso e realização, como é o caso da delimitação de tempos para publicidade, são estabelecidas exigências acrescidas no registo de venda dos bilhetes e nas condições de restituição, às quais se associa ainda uma maior disciplina das atividades e manifestações artísticas.\n\nNa conceptualização do conceito de recinto de espetáculo de natureza artística fica claro que, independentemente da respetiva designação, o foco de aplicação está nos espaços delimitados cuja função principal seja a realização de espetáculos de natureza artística.\n\nEsta delimitação do conceito torna claro que, designadamente, os espaços de restauração, hotelaria ou de diversão noturna e que constituem um motor fundamental ao desenvolvimento económico, não estão abrangidos pelo quadro procedimental exigido para a autorização de funcionamento dos recintos fixos cuja finalidade primária está na realização de espetáculos de natureza artística.\n\nEm relação à construção e modificação de recintos fixos de espetáculos de natureza artística, consagra-se um reforço dos mecanismos de responsabilização dos promotores de espetáculos de natureza artística, sujeitos a uma verificação permanente dos requisitos.\n\nAcaba igualmente a licença de recinto, sendo esta substituída por um Documento de Identificação do Recinto atribuído de forma automática, a título provisório, sendo convertido em definitivo após a verificação permanente de requisitos. Do mesmo modo, termina também a dispersão de controlos para a realização de espetáculos ou divertimentos a título ocasional naqueles recintos, remetendo-se expressamente para o regime dos recintos de diversão provisória previsto no Decreto-Lei n.º 309/2002, de 16 de dezembro, que passa a ser o regime autorizativo aplicável.\n\nEvidencia-se, neste capítulo, ser sempre possível uma avaliação do grau de risco assente no projeto de construção do recinto, considerando que o mesmo é objeto de parecer por parte da IGAC, sem prejuízo da avaliação efetuada por outras entidades, no âmbito das suas competências.\n\nA deterioração e o desgaste natural dos recintos fixos de espetáculos de natureza artística, associado às respetivas condições técnicas e de segurança, determina a necessidade de uma inspeção periódica a realizar de cinco em cinco anos, em lugar do período de três anos previsto para revalidação da anterior licença.\n\nA proteção do direito de autor e dos direitos conexos encontra no presente decreto-lei fórmulas mais eficazes de salvaguarda, com a adoção de um modelo de fiscalização também mais eficiente, decorrente da mera comunicação prévia do espetáculo por via eletrónica, que pode ser efetuada pelo promotor do espetáculo, onde quer que esteja estabelecido, e da análise integrada dos dados registados na plataforma eletrónica da IGAC.\n\nAproveita-se a oportunidade para incluir neste decreto-lei o regime de classificação de espetáculos de natureza artística e de divertimentos públicos, revogando-se o Decreto-Lei n.º 396/82, de 21 de setembro, alterado pelos Decretos-Leis n.os 116/83, de 24 de fevereiro, e 456/85, de 29 de outubro. Destaca-se, nesta matéria, a redução do prazo para atribuição da classificação dos 90 dias prescritos pelo regime geral do Código de Procedimento Administrativo para apenas 15 dias úteis, e a introdução do escalão etário «para todos os públicos», omisso na legislação em vigor e que, por essa razão, impedia a regular realização de espetáculos particularmente dirigidos ao público infantil com idade inferior a 3 anos, com crescente interesse e procura. Salvaguardam-se, contudo, particulares condições de bem-estar e de segurança, através da redução da lotação do recinto nos espetáculos classificados para «todos os públicos» que sejam especialmente vocacionados para menores de 3 anos.\n\nPor último, sublinha-se que a resposta ao novo enquadramento legislativo assenta na modernização da infraestrutura tecnológica, através da criação de uma plataforma eletrónica ligada ao balcão único eletrónico dos serviços criado no âmbito do Decreto-Lei n.º 92/2010, de 26 de julho, que irá constituir um efetivo exercício prático, nesta área, à capacidade inovadora da administração, incorporando os mecanismos que permitem a desmaterialização dos processos, com significativos ganhos em termos de eficiência e celeridade dos procedimentos, com claros benefícios para os interessados.\n\nForam ouvidas a Associação Nacional de Municípios Portugueses, a APEC - Associação Portuguesa de Empresas Cinematográficas, a SPA - Sociedade Portuguesa de Autores, e a Audiogest - Associação para a Gestão e Distribuição de Direitos.\n\nFoi promovida a audição da FEVIP - Federação de Editores de Videogramas e da GDA - Cooperativa de Gestão dos Direitos dos Artistas, CRL.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122975885": {
+   "fragment_id": "122960412",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "122975886": {
+   "fragment_id": "122960413",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei define o regime de funcionamento dos espetáculos de natureza artística e de instalação e fiscalização dos recintos fixos destinados à sua realização, conformando-o com o Decreto-Lei n.º 92/2010, de 26 de julho, que transpôs a Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Diretiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno.\n\n2 - O presente decreto-lei estabelece, ainda, o regime de classificação de espetáculos de natureza artística e de divertimentos públicos."
+  },
+  "122975887": {
+   "fragment_id": "122960414",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente decreto-lei, consideram-se:\n\na) «Espetáculos de natureza artística», as manifestações e atividades artísticas ligadas à criação, execução, exibição e interpretação de obras no domínio das artes do espetáculo e do audiovisual e outras execuções e exibições de natureza análoga que se realizem perante o público, excluindo a radiodifusão, ou que se destinem à transmissão ou gravação para difusão pública;\n\nb) «Promotor de espetáculo de natureza artística», a pessoa singular ou coletiva que tem por atividade a promoção ou organização de espetáculos de natureza artística;\n\nc) «Recintos fixos de espetáculos de natureza artística», os espaços delimitados, resultantes de construções de caráter permanente, que, independentemente da respetiva designação, tenham como finalidade principal a realização de espetáculos de natureza artística.\n\n2 - Integram o conceito de espetáculos de natureza artística, nomeadamente, as representações ou atuações nas áreas do teatro, da música, da dança, do circo, da tauromaquia e de cruzamento artístico, e quaisquer outras récitas, declamações ou interpretações de natureza análoga, bem como a exibição pública de obras cinematográficas e audiovisuais, por qualquer meio ou forma.\n\n3 - Para efeitos do presente decreto-lei, não se consideram espetáculos de natureza artística os eventos de natureza familiar, sem fins lucrativos, para recreio dos membros da família e convidados, a realizar no lar familiar ou em recinto autorizado para esse fim."
+  },
+  "122975888": {
+   "fragment_id": "122960415",
+   "type": 1,
+   "heading": "Capítulo II — Dos espetáculos de natureza artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos espetáculos de natureza artística"
+  },
+  "122975889": {
+   "fragment_id": "122960416",
+   "type": 8,
+   "heading": "Secção I — Do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do promotor"
+  },
+  "122975890": {
+   "fragment_id": "122960417",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo de promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Registo de promotor\n\n1 - Os promotores de espetáculos de natureza artística estabelecidos em território nacional devem apresentar mera comunicação prévia à Inspeção-Geral das Atividades Culturais (IGAC), para efeitos do seu registo.\n\n2 - A mera comunicação prévia pode ser apresentada conjuntamente com a formalidade aplicável ao controlo do primeiro espetáculo que promova em território nacional, nos termos do artigo 5.º, e deve ser instruída com os seguintes elementos:\n\na) Identificação do promotor;\n\nb) Data do início da atividade ou da respetiva alteração, quando aplicável;\n\nc) Indicação das atividades artísticas a desenvolver.\n\n3 - Pelo registo do promotor de espetáculos é devida taxa, a pagar com a apresentação da mera comunicação prévia.\n\n4 - O promotor deve proceder à atualização dos elementos referidos no n.º 2, por mera comunicação à IGAC no prazo de cinco dias úteis após a ocorrência da alteração relevante.\n\n5 - O registo é válido por tempo indeterminado, caducando se a IGAC verificar a inatividade durante um período consecutivo de dois anos.\n\n6 - Não estão sujeitas a registo as pessoas coletivas sem fins lucrativos, com ou sem personalidade jurídica, que promovam, a título ocasional, espetáculos de natureza artística, entendendo-se como ocasional a promoção de um máximo de três espetáculos por ano.\n\n7 - Para efeitos de registo do promotor de espetáculos onde atuem animais, designadamente espetáculos de circo, a que se refere o artigo 4.º do Decreto-Lei n.º 255/2009, de 24 de setembro, alterado pelo Decreto-Lei n.º 260/2012, de 12 de dezembro, a IGAC terá em consideração a lista de promotores divulgada pela Direção-Geral de Alimentação e Veterinária (DGAV) na sua página oficial."
+  },
+  "122975891": {
+   "fragment_id": "122960418",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigações do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigações do promotor\n\n1 - Compete ao promotor do espetáculo garantir que se encontram reunidas as condições de segurança e ordem pública adequadas à realização de cada espetáculo, de acordo com a legislação aplicável.\n\n2 - O promotor do espetáculo deve estar presente ou fazer-se representar desde a abertura até ao final do espetáculo ou, caso este tenha lugar em recinto de espetáculo de natureza artística, até à saída dos espectadores.\n\n3 - Nos recintos fixos de espetáculos de natureza artística, o promotor de espetáculos de natureza artística deve dispor de livro de reclamações, nos termos e nas condições estabelecidas no Decreto-Lei n.º 156/2005, de 15 de setembro, alterado pelos Decretos-Leis n.os 371/2007, de 6 de novembro, 118/2009, de 19 de maio, 317/2009, de 30 de outubro, e 242/2012, de 7 de novembro.\n\n4 - O original da folha de reclamação deve ser enviado pelo promotor de espetáculos de natureza artística à IGAC."
+  },
+  "122975892": {
+   "fragment_id": "122960419",
+   "type": 8,
+   "heading": "Secção II — Do funcionamento dos espetáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do funcionamento dos espetáculos"
+  },
+  "122975893": {
+   "fragment_id": "122960420",
+   "type": 11,
+   "heading": "Artigo 5.º — Mera comunicação prévia de espetáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Mera comunicação prévia de espetáculos\n\n1 - A realização de espetáculos de natureza artística, com caráter permanente ou ocasional, está sujeita à regular apresentação de mera comunicação prévia do promotor do espetáculo, dirigida à IGAC, ainda que o respetivo promotor não esteja estabelecido em território nacional, sem prejuízo do disposto no n.º 3.\n\n2 - A mera comunicação prévia deve ser acompanhada dos seguintes elementos:\n\na) Identificação do promotor;\n\nb) Programa dos espetáculos e respetiva classificação etária atribuída;\n\nc) Datas ou período de realização dos espetáculos;\n\nd) Identificação dos recintos, com indicação do respetivo Número de Identificação de Recinto (NIR), quando aplicável;\n\ne) Autorização dos detentores de direito de autor e conexos ou dos seus representantes;\n\nf) Cópia de apólice de seguro de responsabilidade civil ou garantia ou instrumento financeiro equivalentes, nos termos dos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho, que cubra eventuais danos decorrentes da realização dos espetáculos, quando não estejam cobertos por seguro, garantia ou instrumento financeiro equivalente referente ao recinto ou ao local de realização do espetáculo.\n\n3 - Está dispensada a mera comunicação prévia referente à realização de espetáculos de natureza artística que consistam na exibição pública de obras cinematográficas, com autorização ou licença de distribuição previamente emitida pela IGAC.\n\n4 - A comunicação deve ser acompanhada do pagamento da taxa devida.\n\n5 - As comunicações efetuadas com uma antecedência mínima de oito dias gozam de redução na taxa aplicável.\n\n6 - A mera comunicação prévia dos espetáculos de circo, nos termos do presente decreto-lei, não dispensa a autorização de deslocação a requerer nos termos do Decreto-Lei n.º 255/2009, de 24 de setembro, alterado pelo Decreto-Lei n.º 260/2012, de 12 de dezembro.\n\n7 - Em função da natureza do espetáculo e do recinto, a IGAC pode exigir a presença de piquete de bombeiros.\n\n8 - O controlo prévio de espetáculos tauromáquicos é regulado em diploma próprio."
+  },
+  "122975894": {
+   "fragment_id": "122960421",
+   "type": 11,
+   "heading": "Artigo 6.º — Venda de bilhetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Venda de bilhetes\n\n1 - Os locais de venda de bilhetes nos recintos de espetáculos, em agências ou postos de venda e as plataformas de venda eletrónica de bilhetes exploradas por empresas estabelecidas em território nacional devem, no caso dos recintos, ter afixada e, nos demais locais disponibilizar ao público a seguinte informação:\n\na) Programa do espetáculo;\n\nb) Identificação do promotor;\n\nc) Preço dos bilhetes;\n\nd) Data e hora do início do espetáculo;\n\ne) Lotação e planta do recinto, com numeração dos lugares e indicação das categorias, sempre que aplicável;\n\nf) Classificação etária.\n\n2 - A venda de bilhetes em agências ou em postos de venda está ainda sujeita ao regime constante dos artigos 35.º a 38.º do Decreto-Lei n.º 310/2002, de 18 de dezembro.\n\n3 - Nos casos de entrada livre, mantém-se a necessidade de observância dos requisitos previstos no n.º 1, salvo o disposto na alínea c)."
+  },
+  "122975895": {
+   "fragment_id": "122960422",
+   "type": 11,
+   "heading": "Artigo 7.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Publicidade\n\n1 - Após a hora prevista para o início de espetáculo de natureza artística, não é permitida publicidade sonora ou audiovisual, salvo nas seguintes situações:\n\na) Espetáculos tauromáquicos e de circo;\n\nb) Nos primeiros 20 minutos após a hora indicada para o início do espetáculo e durante os intervalos, sem ocupar mais de metade destes últimos.\n\n2 - A exibição de filmes anúncio ou trailers de espetáculos integra o conceito de publicidade para os efeitos previstos na alínea b) do número anterior.\n\n3 - A publicidade deve ser adequada à classificação etária atribuída ao espetáculo."
+  },
+  "122975896": {
+   "fragment_id": "122960423",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso aos espetáculos de natureza artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso aos espetáculos de natureza artística\n\n1 - O acesso a espetáculos de natureza artística efetua-se mediante apresentação de um bilhete, quando exigível e independentemente do suporte, do qual deve constar, designadamente:\n\na) Identificação do promotor do espetáculo, incluindo o número de identificação fiscal;\n\nb) Identificação do espetáculo e respetivo preço;\n\nc) Designação do local ou recinto;\n\nd) Dia e hora de início do espetáculo;\n\ne) Numeração sequencial e, quando aplicável, categoria do lugar.\n\n2 - Não podem, em qualquer circunstância, ser disponibilizados lugares em número superior à lotação autorizada do recinto.\n\n3 - A classificação etária dos espetáculos deve ser exibida em lugar visível nos acessos a cada recinto de espetáculo.\n\n4 - A classificação etária pode determinar a redução do número de lugares em função do tipo de espetáculo.\n\n5 - Nas situações em que a totalidade dos bilhetes for comercializada ou disponibilizada, os locais de venda de bilhetes nos recintos de espetáculos, em agências ou postos de venda e as plataformas de venda eletrónica de bilhetes exploradas por empresas estabelecidas em território nacional, devem conter expressamente a informação de «lotação esgotada».\n\n6 - O promotor do espetáculo deve negar a entrada de menores quando existam dúvidas sobre a idade face à classificação etária atribuída, avaliada pelos critérios comuns de aparência, e não se verifique o disposto no número seguinte.\n\n7 - A idade dos menores é atestada pela apresentação de documento comprovativo da idade invocada ou suprida pela responsabilização dos pais ou de um adulto identificado que os acompanhe."
+  },
+  "122975897": {
+   "fragment_id": "122960424",
+   "type": 11,
+   "heading": "Artigo 9.º — Restituição do preço dos bilhetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Restituição do preço dos bilhetes\n\n1 - O promotor do espetáculo constitui-se na obrigação de restituir aos espectadores a importância correspondente ao preço dos bilhetes nas seguintes situações:\n\na) Não realização do espetáculo no local, data e hora marcados;\n\nb) Substituição do programa ou de artistas principais;\n\nc) Interrupção do espetáculo.\n\n2 - No caso previsto na alínea c) do número anterior não há lugar a restituição se a interrupção ocorrer por motivo de força maior verificado após o início do espetáculo.\n\n3 - Para os efeitos do número anterior, consideram-se casos de força maior os que resultem de acontecimentos imprevisíveis cujos efeitos se produzam independentemente da vontade do promotor do espetáculo, nomeadamente, incêndios, inundações, ciclones, tremores de terra e outras causas naturais que diretamente impeçam a realização do espetáculo.\n\n4 - Compete à IGAC a verificação dos pressupostos de que depende a não restituição da importância correspondente ao preço dos bilhetes, mediante reclamação de qualquer interessado.\n\n5 - Caso haja lugar à restituição da importância correspondente ao preço dos bilhetes, esta deve ser efetuada no prazo de 30 dias contados da notificação da decisão da IGAC."
+  },
+  "122975898": {
+   "fragment_id": "122960425",
+   "type": 11,
+   "heading": "Artigo 10.º — Espectadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Espectadores\n\n1 - Durante a representação, exibição ou execução de espetáculos, os espectadores devem manter-se nos seus lugares para não perturbarem os artistas e o público.\n\n2 - Sempre que um espectador perturbar a realização do espetáculo deve ser obrigado a sair do recinto, sem direito a reembolso.\n\n3 - Nos recintos de espetáculos de natureza artística os espectadores não podem entrar com animais ou objetos suscetíveis de perturbar a realização do espetáculo ou o público.\n\n4 - Excetua-se do disposto no número anterior o acompanhamento de cães de assistência, nos termos do Decreto-Lei n.º 74/2007, de 27 de março, ou outras situações similares legalmente previstas.\n\n5 - Durante a representação ou execução de espetáculos de ópera, de dança, de música erudita, teatro e outras declamações ou recitações, só é permitida a entrada para frisas ou camarotes.\n\n6 - O disposto no número anterior é extensivo a qualquer tipo de espetáculo por decisão do respetivo promotor, mediante aviso prévio ao público, nos locais de venda de bilhetes, nos recintos de espetáculos, em agências ou postos de venda e nas plataformas de venda eletrónica de bilhetes exploradas por empresas estabelecidas em território nacional."
+  },
+  "122975899": {
+   "fragment_id": "122960426",
+   "type": 1,
+   "heading": "Capítulo III — Dos recintos fixos de espetáculos de natureza artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos recintos fixos de espetáculos de natureza artística"
+  },
+  "122975914": {
+   "fragment_id": "122960441",
+   "type": 1,
+   "heading": "Capítulo IV — Classificação de espetáculos de natureza artística e de divertimentos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Classificação de espetáculos de natureza artística e de divertimentos públicos"
+  },
+  "122975901": {
+   "fragment_id": "122960428",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime aplicável\n\nÀs operações urbanísticas que tenham por objeto recintos de espetáculos de natureza artística aplica-se o disposto no Regime Jurídico da Urbanização e Edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, com as especificidades dos artigos seguintes."
+  },
+  "122975902": {
+   "fragment_id": "122960429",
+   "type": 11,
+   "heading": "Artigo 12.º — Operações urbanísticas sujeitas a controlo prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Operações urbanísticas sujeitas a controlo prévio\n\n1 - Nos procedimentos de controlo prévio de operações urbanísticas há lugar a consulta prévia à IGAC, nos termos estabelecidos no RJUE, para efeitos de emissão de parecer, com natureza vinculativa, no âmbito das suas atribuições e competências.\n\n2 - O parecer a que se refere o número anterior destina-se a avaliar a conformidade do recinto, de acordo com os projetos e estudos propostos e a adequação ao uso pretendido, de acordo com a legislação aplicável.\n\n3 - Os procedimentos de controlo prévio de edificação ou de modificação dos recintos são instruídos nos termos da legislação referida no n.º 1 e das normas previstas no regulamento das condições técnicas e de segurança dos recintos de espetáculos e divertimentos públicos, e demais legislação aplicável.\n\n4 - No parecer referido no n.º 2 deve ser atribuído um NIR por cada recinto de espetáculo que dele ainda não disponha, sendo a atribuição processada automaticamente pela plataforma informática referida na alínea a) do n.º 2 do artigo 43.º caso o parecer da IGAC não seja emitido no prazo legal.\n\n5 - Quando o parecer a emitir pela IGAC seja desfavorável ou condicionado, deve indicar as alterações ou correções, se for o caso, a introduzir no projeto.\n\n6 - O parecer fixa a lotação máxima de espectadores em função das diversas atividades de espetáculos a que o recinto se destina, discriminada por categoria de lugares.\n\n7 - Concluída a operação urbanística, o interessado requer à câmara municipal a autorização de utilização do imóvel, nos termos previstos no RJUE."
+  },
+  "122975903": {
+   "fragment_id": "122960430",
+   "type": 11,
+   "heading": "Artigo 13.º — Operações urbanísticas isentas de controlo prévio municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Operações urbanísticas isentas de controlo prévio municipal\n\n1 - As operações urbanísticas em recintos de espetáculos de natureza artística promovidas pela Administração Pública, isentas de controlo prévio pelo RJUE, só podem ter início após emissão de parecer pela IGAC, para os efeitos e nos termos dos n.os 2 a 6 do artigo anterior, a proferir no prazo de 20 dias úteis, após o que, na ausência de decisão expressa, se considera tacitamente emitido parecer favorável, sendo o NIR atribuído automaticamente pela plataforma informática referida no n.º 1 do artigo 43.º, caso o recinto dele ainda não disponha.\n\n2 - As operações urbanísticas isentas de controlo prévio, nos termos previstos no RJUE, são objeto de mera comunicação prévia à IGAC, sendo o NIR atribuído automaticamente pela plataforma informática referida no n.º 1 do artigo 43.º, caso o recinto em causa dele ainda não disponha.\n\n3 - O pedido de parecer ou a apresentação da mera comunicação prévia devem ser instruídos com as peças escritas e desenhadas que permitam a correta avaliação das soluções propostas, assinadas por técnico legalmente habilitado, e acompanhadas do respetivo termo de responsabilidade atestando a observância na sua elaboração das normas legais aplicáveis.\n\n4 - A IGAC pode solicitar esclarecimentos ou documen-tos complementares ao pedido de parecer referido no número anterior, os quais devem ser prestados no prazo de 10 dias úteis a contar da receção da notificação para o efeito, suspendendo-se o prazo referido no n.º 1.\n\n5 - A IGAC pode impedir a realização da operação urbanística caso detete a violação de normas legais ou regulamentares, notificando o interessado, ou decretar o embargo imediato da operação urbanística caso a execução da obra não observe os projetos ou estudos apresentados, no seguimento de vistoria ao local, a realizar por uma comissão composta no mínimo por dois elementos, um dos quais com formação na área de engenharia civil ou arquitetura.\n\n6 - A notificação ou auto de embargo devem especificar as normas legais ou regulamentares violadas ou a desconformidade da execução da obra, e o seu levantamento depende da apresentação de novo projeto ou estudos ou de vistoria que ateste a conformação, a requerer pelo interessado, devendo esta ocorrer no prazo de 10 dias úteis a contar do respetivo pedido, acompanhado do pagamento da taxa devida.\n\n7 - A ausência de decisão expressa no prazo de 10 dias úteis após a realização da vistoria referida no número anterior ou da data de apresentação do projeto ou estudos determina a caducidade do embargo, sem prejuízo do disposto no número seguinte.\n\n8 - Sem prejuízo do disposto no n.º 5, a IGAC pode decretar o encerramento do recinto no seguimento da vistoria, aplicando-se nesse caso o disposto no artigo 21.º"
+  },
+  "122975904": {
+   "fragment_id": "122960431",
+   "type": 11,
+   "heading": "Artigo 14.º — Recintos de cinema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Recintos de cinema\n\n1 - À edificação ou alteração da utilização de imóvel, total ou parcialmente destinados à exibição de obras cinematográficas, aplica-se o disposto nos artigos 11.º a 13.º\n\n2 - A demolição de recintos de cinema ou a sua afetação a atividade de natureza diferente depende de autorização do membro do Governo responsável pela área da cultura, a ser obtida diretamente pelo interessado ou pela entidade a quem competir o controlo prévio da operação urbanística."
+  },
+  "122975905": {
+   "fragment_id": "122960432",
+   "type": 11,
+   "heading": "Artigo 15.º — Normas técnicas e de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Normas técnicas e de segurança\n\n1 - Aos recintos de espetáculos de natureza artística são aplicáveis as normas previstas no regime jurídico da segurança contra incêndio em edifícios (SCIE), aprovado pelo Decreto-Lei n.º 220/2008, de 12 de novembro, e no regulamento das condições técnicas e de segurança dos recintos de espetáculos e divertimentos públicos, aprovado pelo Decreto Regulamentar n.º 34/95, de 16 de dezembro, alterado pelos Decretos-Leis n.os 65/97, de 31 de março, 220/2008, de 12 de novembro, e pelo Decreto Regulamentar n.º 6/2010, de 28 de dezembro, e demais legislação aplicável.\n\n2 - Os pedidos previstos no presente capítulo cuja apreciação seja da competência da IGAC, devem ser formulados pelo proprietário do recinto, seu representante legal ou pelo explorador autorizado do espaço, salvo nas situações em que são diretamente submetidos à IGAC pela câmara municipal."
+  },
+  "122975907": {
+   "fragment_id": "122960434",
+   "type": 11,
+   "heading": "Artigo 16.º — Mera comunicação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Mera comunicação prévia\n\n1 - O início de funcionamento dos recintos de espetáculos de natureza artística depende da apresentação de mera comunicação prévia à IGAC, acompanhada do pagamento da taxa devida.\n\n2 - A mera comunicação prévia deve ser instruída com os seguintes elementos:\n\na) O nome que identifica publicamente o recinto e a respetiva localização;\n\nb) O NIR atribuído ao recinto, nos termos dos artigos 12.º e 13.º ou no seguimento de anterior controlo de funcionamento como recinto de espetáculos de natureza artística diferentes dos pretendidos com a comunicação apresentada;\n\nc) A identificação da entidade exploradora do recinto e do respetivo proprietário;\n\nd) A atividade ou atividades artísticas a que o recinto se destina;\n\ne) A lotação do recinto para cada uma das atividades referidas na alínea anterior;\n\nf) Indicação da data prevista de abertura ao público;\n\ng) Termo de responsabilidade assinado por técnico legalmente habilitado, no caso de operação urbanística isenta de controlo prévio, atestando que foi executada de acordo com o projeto apresentado à IGAC, nos termos do n.º 3 ou do n.º 6 do artigo 13.º;\n\nh) Autorização de utilização do imóvel, emitida com base numa decisão expressa ou tácita, nos termos do RJUE;\n\ni) Apólice de seguro de responsabilidade civil e de acidentes pessoais ou garantia ou instrumento financeiro equivalentes, nos termos dos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho, subscrita pelo proprietário ou pelo explorador do recinto, que cubra os danos e lesões provocados aos utilizadores em caso de acidente.\n\n3 - Após a receção da mera comunicação prévia a plataforma informática referida no n.º 1 do artigo 43.º atribui automaticamente, um NIR ao recinto em causa, caso o recinto dele não disponha, e emite o respetivo Documento de Identificação do Recinto (DIR) provisório, convertido em definitivo após a vistoria referida no artigo seguinte ou, caso a ela não haja lugar, após inspeção periódica realizada nos termos do artigo 20.º\n\n4 - Do DIR constam as informações referidas nas alíneas a), b), c), d) e e) do n.º 2 e o NIR atribuído ao recinto.\n\n5 - Na falta de pagamento da taxa devida ou da apresentação de algum dos elementos referidos no n.º 2, a IGAC pode convidar a entidade exploradora a suprir as deficiências detetadas, sendo o DIR provisório imediatamente revogado.\n\n6 - A atribuição de DIR provisório ou definitivo é condição para o legal funcionamento do recinto em causa.\n\n7 - O DIR, provisório ou definitivo, deve estar afixado de forma visível no acesso ao recinto."
+  },
+  "122975908": {
+   "fragment_id": "122960435",
+   "type": 11,
+   "heading": "Artigo 17.º — Vistorias iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Vistorias iniciais\n\n1 - Se a mera comunicação prévia tiver sido regularmente apresentada, a IGAC pode determinar a realização de uma vistoria no prazo de 20 dias úteis a contar da sua receção, a realizar por uma comissão composta, no mínimo, por dois elementos, um dos quais com formação na área de engenharia civil ou arquitetura.\n\n2 - No caso de imposição de alterações decorrentes da vistoria, a atribuição de DIR definitivo depende da verificação de adequada realização das alterações, mediante nova vistoria a requerer pelo interessado, a qual deve ocorrer no prazo de 20 dias úteis a contar do respetivo pedido, acompanhado do pagamento da taxa devida.\n\n3 - A ausência de decisão expressa no prazo de 20 dias úteis após a realização da primeira ou da segunda vistoria ou da data de apresentação do requerimento de nova vistoria converte automaticamente o DIR provisório em definitivo, permitindo que o recinto possa iniciar a sua atividade.\n\n4 - Pode ser decretado o encerramento do recinto no seguimento das vistorias referidas no presente artigo, aplicando-se nesse caso os termos do artigo 21.º"
+  },
+  "122975909": {
+   "fragment_id": "122960436",
+   "type": 11,
+   "heading": "Artigo 18.º — Averbamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Averbamentos\n\n1 - Estão sujeitas a averbamento ao DIR as alterações dos seguintes elementos:\n\na) Identificação do recinto;\n\nb) Identificação da entidade proprietária;\n\nc) Identificação da entidade exploradora.\n\n2 - Para os efeitos previstos no número anterior, a entidade exploradora do recinto deve apresentar mera comunicação à IGAC no prazo de 5 dias úteis após a ocorrência da alteração a averbar.\n\n3 - Perante a inatividade do recinto por período superior a um ano, a IGAC determina a revogação oficiosa do DIR.\n\n4 - Sem prejuízo do disposto no artigo seguinte, a alteração da atividade ou atividades artísticas a que o recinto se destina implica o cumprimento do disposto nos artigos 12.º ou 13.º, caso se realizem obras e conforme ao caso aplicável, e a apresentação de nova comunicação nos termos do artigo 16.º, para atribuição de novo DIR."
+  },
+  "122975910": {
+   "fragment_id": "122960437",
+   "type": 11,
+   "heading": "Artigo 19.º — Outros espetáculos ou divertimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Outros espetáculos ou divertimentos\n\n1 - A realização ocasional de outras atividades de natureza artística ou outros espetáculos ou divertimentos não artísticos em recinto fixo de espetáculos de natureza artística, cujo licenciamento compete à IGAC, carece de autorização desta entidade, nos termos do regime que regula a realização de espetáculos artísticos e de outros espetáculos ou divertimentos não artísticos em recintos vocacionados para fins que não englobem aquelas atividades, espetáculos ou divertimentos.\n\n2 - O cumprimento do disposto no regime referido no número anterior não dispensa a mera comunicação prévia a que se refere o artigo 5.º"
+  },
+  "122975912": {
+   "fragment_id": "122960439",
+   "type": 11,
+   "heading": "Artigo 20.º — Inspeção periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Inspeção periódica\n\n1 - Compete à IGAC verificar o cumprimento permanente das condições técnicas e de segurança dos recintos de espetáculos de natureza artística, nos termos definidos no regulamento das condições técnicas e de segurança dos recintos de espetáculos e divertimentos públicos, aprovado Decreto Regulamentar n.º 34/95, de 16 de dezembro, alterado pelos Decretos-Leis n.os 65/97, de 31 de março, 220/2008, de 12 de novembro, e pelo Decreto Regulamentar n.º 6/2010, de 28 de dezembro, podendo recorrer, na estrita medida das suas necessidades, a apoio prestado por peritos externos.\n\n2 - Sem prejuízo do disposto no número anterior, o recinto é objeto de uma inspeção periódica, de cinco em cinco anos, para verificação das condições técnicas e de segurança, por comissão composta nos termos do n.º 1 do artigo 17.º\n\n3 - A primeira inspeção periódica é realizada cinco anos após a abertura ao público do recinto.\n\n4 - Para efeitos do disposto no número anterior, a entidade exploradora é notificada da data da inspeção com uma antecedência de 60 dias devendo, no prazo de 30 dias, proceder ao pagamento da taxa devida, sob pena de revogação do DIR.\n\n5 - Quando se observar o incumprimento das condições técnicas e de segurança, a entidade responsável pela exploração do recinto é notificada para proceder às alterações necessárias em prazo a fixar pela IGAC.\n\n6 - Até ao termo do prazo a fixar nos termos do número anterior, a entidade responsável pela exploração do recinto remete à IGAC um termo de responsabilidade assinado por técnico legalmente habilitado que comprove a realização das alterações determinadas, caso contrário pode ser determinado o encerramento do recinto nos termos do artigo seguinte.\n\n7 - A IGAC remete, à autoridade competente, o relatório de inspeção, se detetar alguma infração ou desconformidade com os regulamentos técnicos aplicáveis."
+  },
+  "122975913": {
+   "fragment_id": "122960440",
+   "type": 11,
+   "heading": "Artigo 21.º — Encerramento do recinto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Encerramento do recinto\n\n1 - Pode ser determinado o encerramento imediato do recinto nas situações em que se verifique perigo grave para a segurança ou saúde dos espectadores ou dos intervenientes no espetáculo.\n\n2 - O encerramento do recinto é determinado por despacho fundamentado do inspetor-geral das Atividades Culturais, sem prejuízo das competências das autoridades de saúde.\n\n3 - O recinto mantém-se encerrado enquanto não for verificada a supressão das deficiências que determinaram o seu encerramento, por vistoria requerida pelo interessado, acompanhada do pagamento da taxa devida, e expressamente revogada a ordem de encerramento, com atribuição do DIR definitivo, nos casos em que o recinto ainda disponha de DIR provisório.\n\n4 - O encerramento do recinto não prejudica a aplicação do regime contraordenacional previsto no presente decreto-lei."
+  },
+  "122975926": {
+   "fragment_id": "122960453",
+   "type": 1,
+   "heading": "Capítulo V — Delegados municipais da IGAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Delegados municipais da IGAC"
+  },
+  "122975915": {
+   "fragment_id": "122960442",
+   "type": 11,
+   "heading": "Artigo 22.º — Classificação etária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Classificação etária\n\n1 - Estão sujeitos a classificação etária os espetáculos de natureza artística e os divertimentos públicos.\n\n2 - A realização de qualquer espetáculo de natureza artística ou divertimento público, bem como a exibição pública de filmes anúncio ou trailers e a distribuição de obras cinematográficas e de videogramas, sob qualquer forma, meio ou suporte, depende de prévia classificação etária.\n\n3 - A classificação etária consiste em aconselhar a idade a partir da qual se considera que o conteúdo não é suscetível de provocar dano prejudicial ao desenvolvimento psíquico ou de influir negativamente na formação da personalidade dos menores em causa.\n\n4 - Os programas televisivos objeto de autorregulação por força da legislação específica podem ser submetidos à comissão de classificação de acordo com os critérios e procedimentos previstos no presente decreto-lei, por iniciativa dos interessados.\n\n5 - Os cartazes ou quaisquer outros meios de publicidade de espetáculos de natureza artística e divertimentos públicos ou de videogramas devem conter a menção da classificação etária atribuída."
+  },
+  "122975916": {
+   "fragment_id": "122960443",
+   "type": 11,
+   "heading": "Artigo 23.º — Comissão de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Comissão de classificação\n\n1 - A comissão de classificação é o órgão competente para a classificação de espetáculos de natureza artística e de divertimentos públicos.\n\n2 - Compete à comissão de classificação aprovar e publicitar os critérios gerais de classificação.\n\n3 - A comissão de classificação pode adotar, em casos específicos, mediante fundamentação adequada, sistemas de classificação recomendados pelas melhores práticas internacionais, desde que não colidam com os princípios de proteção de menores e de defesa do consumidor."
+  },
+  "122975917": {
+   "fragment_id": "122960444",
+   "type": 11,
+   "heading": "Artigo 24.º — Procedimento de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Procedimento de classificação\n\n1 - A atribuição de classificação depende de requerimento dirigido ao presidente da comissão de classificação e deve ser decidida no prazo de 15 dias úteis, contado da regular apresentação do respetivo pedido.\n\n2 - Das deliberações da comissão de classificação cabe recurso para o membro do Governo responsável pela área da cultura, a interpor no prazo de 10 dias úteis a contar da respetiva notificação.\n\n3 - No silêncio da autoridade competente o requerente pode recorrer aos tribunais administrativos para obter sentença de condenação para a prática de ato devido."
+  },
+  "122975918": {
+   "fragment_id": "122960445",
+   "type": 11,
+   "heading": "Artigo 25.º — Escalões etários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Escalões etários\n\n1 - A classificação etária obedece aos seguintes escalões:\n\na) Para todos os públicos;\n\nb) Para maiores de 3 anos;\n\nc) Para maiores de 6 anos;\n\nd) Para maiores de 12 anos;\n\ne) Para maiores de 14 anos;\n\nf) Para maiores de 16 anos;\n\ng) Para maiores de 18 anos.\n\n2 - O escalão «Para todos os públicos» aplica-se aos espetáculos especialmente vocacionados para crianças, com idade igual ou inferior a 3 anos, nas condições previstas no artigo seguinte.\n\n3 - Os espetáculos e divertimentos públicos são ainda classificados «Para maiores de 18 anos - Pornográfico» sempre que possuam conteúdos considerados pornográficos, de acordo com os critérios fixados pela comissão."
+  },
+  "122975919": {
+   "fragment_id": "122960446",
+   "type": 11,
+   "heading": "Artigo 26.º — Acesso aos espetáculos de natureza artística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Acesso aos espetáculos de natureza artística\n\n1 - Os menores de três anos só podem assistir aos espetáculos classificados «Para todos os públicos» desde que a lotação do recinto seja reduzida em 20 %.\n\n2 - Para efeitos da determinação do número de lugares correspondente à redução da lotação prevista no número anterior, devem ser considerados todos os espectadores independentemente da idade."
+  },
+  "122975920": {
+   "fragment_id": "122960447",
+   "type": 11,
+   "heading": "Artigo 27.º — Classificações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Classificações especiais\n\n1 - Salvo parecer em contrário da comissão de classificação, são classificados:\n\na) Para maiores de 3 anos, os espetáculos de circo;\n\nb) Para maiores de 6 anos, espetáculos de música, de dança, desportivos e similares;\n\nc) Para maiores de 12 anos, os espetáculos tauromáquicos;\n\nd) Para maiores de 16 anos, a frequência de discotecas e similares.\n\n2 - Quando o mesmo espetáculo integre cruzamentos artísticos, a classificação etária do espetáculo é determinada pelo escalão mais elevado atribuído.\n\n3 - O disposto no número anterior é igualmente aplicável quando no mesmo recinto ou local decorram, em simultâneo, espetáculos não classificados para o mesmo grupo etário e não seja possível delimitar a mobilidade dos espectadores nos espaços onde decorrem.\n\n4 - As classificações previstas no presente artigo podem ser alteradas para escalão diverso quando, por iniciativa da comissão de classificação ou por requerimento fundamentado do promotor ou ainda das autoridades policiais ou administrativas locais, se conclua que as características do espetáculo, do recinto ou do local o aconselham."
+  },
+  "122975921": {
+   "fragment_id": "122960448",
+   "type": 11,
+   "heading": "Artigo 28.º — Classificação de obras cinematográficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Classificação de obras cinematográficas\n\n1 - O requerimento para a classificação de obras cinematográficas é apresentado pelos titulares dos direitos de exploração e instruído com os seguintes elementos:\n\na) Título da obra em original e em português;\n\nb) Ficha técnica e artística;\n\nc) Nome do tradutor;\n\nd) Ano de produção e país de origem;\n\ne) Resumo do argumento;\n\nf) Documento comprovativo da titularidade dos direitos de exploração;\n\ng) Suporte apresentado em película ou em qualquer outro formato que permita visualizar o conteúdo a classificar legendado ou dobrado em português.\n\n2 - A legendagem ou a dobragem de obras cinematográficas pode ser dispensada por motivos atendíveis e desde que o público seja informado, devendo para o efeito tal constar nos meios de publicidade e junto das bilheteiras ou das entradas do recinto.\n\n3 - A classificação das obras cinematográficas destinadas a exibição em festivais ou ciclos de cinema, que não tenham sido objeto de classificação, deve ser proposta pela entidade requerente com base nos critérios gerais de classificação.\n\n4 - Assiste à comissão de classificação a faculdade de atribuir classificação diversa em caso de dúvida ou de não concordância com a proposta do requerente nos termos do número anterior.\n\n5 - A classificação prevista nos n.os 3 e 4 destina-se, apenas, ao espetáculo para o qual foi atribuída.\n\n6 - Qualquer alteração ao conteúdo da obra cinematográfica, incluindo montagem, dobragem ou legendagem, determina que a mesma seja submetida a novo procedimento de classificação etária."
+  },
+  "122975922": {
+   "fragment_id": "122960449",
+   "type": 11,
+   "heading": "Artigo 29.º — Classificação de videogramas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Classificação de videogramas\n\n1 - O requerimento para a classificação de videogramas apresentado pelos titulares dos direitos de exploração do videograma destinado a exibição pública ou a distribuição, deve ser acompanhado de um exemplar, e instruído com os seguintes elementos:\n\na) Título da obra na língua original e em português, caso esta não seja a língua original;\n\nb) Ficha técnica e artística;\n\nc) Nome do tradutor, quando aplicável;\n\nd) Resumo do argumento ou do conteúdo;\n\ne) Ano de produção e país de origem;\n\nf) Documento comprovativo da titularidade dos direitos de exploração;\n\ng) Projeto de capa do videograma a distribuir.\n\n2 - Os videogramas correspondentes a videojogos ou a jogos de computador são identificados pelo título, pelo editor e pela consola ou plataforma.\n\n3 - O exemplar do videograma distribuído no mercado não pode ter conteúdo diferente do classificado.\n\n4 - Na falta ou desconformidade de algum dos documen-tos ou elementos previstos no n.º 1, a IGAC convida o requerente a, no prazo de 5 dias úteis contado da data da receção do requerimento, suprir a falta, em prazo não superior a 10 dias úteis.\n\n5 - O processo apenas se considera instruído na data da receção do último dos documentos ou elementos em falta.\n\n6 - A classificação de videogramas, cujo conteúdo tenha sido previamente classificado mantém, oficiosamente, a mesma classificação."
+  },
+  "122975923": {
+   "fragment_id": "122960450",
+   "type": 11,
+   "heading": "Artigo 30.º — Título da obra cinematográfica ou audiovisual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Título da obra cinematográfica ou audiovisual\n\n1 - As obras cinematográficas ou audiovisuais distribuídas em Portugal devem, em regra, ser registadas com o título em português.\n\n2 - O título da obra cinematográfica ou audiovisual deve ser traduzido ou adaptado para língua portuguesa e não pode ser igual a outro já atribuído a obra cinematográfica ou audiovisual.\n\n3 - Excetuam-se do disposto no número anterior, e desde que tal se encontre demonstrado, as seguintes situações:\n\na) Tradução literal do título original;\n\nb) Adaptação de obras literárias estrangeiras editadas com tradução portuguesa que mantêm o título original;\n\nc) Nomes de personagens, locais geográficos, acontecimentos históricos ou expressões idiomáticas;\n\nd) Edição de obras registadas com o mesmo título original;\n\ne) Títulos originais cuja tradução não se afigure possível;\n\nf) Títulos originais cuja tradução o autor não autorize;\n\ng) Utilização de título já existente, com diferente argumento, desde que expressamente autorizado pelo autor ou titular do direito de distribuição.\n\n4 - A reserva de um título em português é válida pelo período máximo de um ano antes da distribuição da obra em território nacional.\n\n5 - Após a classificação da obra, o título em português não pode sofrer alterações.\n\n6 - O disposto neste artigo não se aplica aos videogramas importados e, como tal, distribuídos e comercializados."
+  },
+  "122975924": {
+   "fragment_id": "122960451",
+   "type": 11,
+   "heading": "Artigo 31.º — Classificação de espetáculos teatrais e de ópera",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Classificação de espetáculos teatrais e de ópera\n\n1 - A classificação dos espetáculos teatrais e de ópera deve ser proposta pelo promotor ou encenador do espetáculo com base nos critérios gerais de classificação e atender, em especial, à exploração das formas de expressão verbal e corporal, bem como à encenação e cenografia.\n\n2 - Assiste à comissão de classificação a faculdade de atribuir classificação diferente da proposta, em caso de dúvida sobre os critérios seguidos pelo promotor ou encenador do espetáculo.\n\n3 - O pedido de classificação deve ser acompanhado dos seguintes elementos:\n\na) Texto em português da peça a representar ou resumo do libreto da ópera;\n\nb) Descrição das principais características da encenação e cenografia do espetáculo.\n\n4 - Os espetáculos teatrais sem texto prévio escrito ou os espetáculos de improviso são classificados para maiores de 16 anos, salvo deliberação em contrário da comissão de classificação, mediante proposta fundamentada do promotor do espetáculo.\n\n5 - Sem prejuízo do disposto no número anterior, são classificados para maiores de 16 anos os espetáculos de teatro ou de ópera submetidos em língua estrangeira, salvo proposta fundamentada do promotor para atribuição de escalão etário diferente.\n\n6 - As alterações ou variantes aos elementos de encenação e cenografia do espetáculo classificado devem ser comunicadas à IGAC, sempre que sejam suscetíveis de interferir com os critérios seguidos na primeira classificação.\n\n7 - Assiste à comissão de classificação a faculdade de efetuar o visionamento dos espetáculos teatrais e de ópera sempre que considere justificável e existam dúvidas sobre a classificação a atribuir.\n\n8 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, aos festivais de teatro ou de ópera ou a qualquer conjunto organizado de espetáculos de natureza artística."
+  },
+  "122975925": {
+   "fragment_id": "122960452",
+   "type": 11,
+   "heading": "Artigo 32.º — Outros espetáculos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Outros espetáculos\n\nA classificação de espetáculos não previstos nos artigos anteriores é efetuada nos termos previstos para os espetáculos de teatro e de ópera, com as necessárias adaptações."
+  },
+  "122975927": {
+   "fragment_id": "122960454",
+   "type": 11,
+   "heading": "Artigo 33.º — Delegados municipais da IGAC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Delegados municipais da IGAC\n\n1 - São delegados municipais da IGAC os trabalhadores das câmaras municipais, preferencialmente de entre as especialidades de arquitetura e engenharia civil, designados para o efeito pelo respetivo presidente, em regime de acumu-lação de funções públicas, podendo esta função cessar a todo o tempo, por iniciativa do presidente da câmara municipal ou sob proposta fundamentada do inspetor-geral das Atividades Culturais.\n\n2 - Compete aos delegados municipais da IGAC integrar as comissões de vistorias, sempre que determinado pelo inspetor-geral das Atividades Culturais.\n\n3 - Os delegados municipais estão impedidos de exercer atividades ou funções, a qualquer título, em representação de promotores de espetáculos ou entidades de gestão coletiva do direito de autor ou dos direitos conexos.\n\n4 - A remuneração dos delegados municipais é fixada por despacho dos membros do Governo responsáveis pelas áreas da cultura e das finanças."
+  },
+  "122975928": {
+   "fragment_id": "122960455",
+   "type": 1,
+   "heading": "Capítulo VI — Fiscalização e taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Fiscalização e taxas"
+  },
+  "122975929": {
+   "fragment_id": "122960456",
+   "type": 11,
+   "heading": "Artigo 34.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Fiscalização\n\n1 - A fiscalização do cumprimento do disposto no presente decreto-lei compete à IGAC e a outras autoridades públicas e policiais no âmbito das respetivas atribuições.\n\n2 - As autoridades públicas e policiais que verificarem infrações ao disposto no presente decreto-lei devem participá-las à IGAC.\n\n3 - As entidades sujeitas a fiscalização devem prestar toda a colaboração solicitada por qualquer das entidades fiscalizadoras referidas no n.º 1.\n\n4 - Nos recintos de espetáculos de natureza artística deve ser reservado um mínimo de dois lugares para as entidades que exercem funções de superintendência e fiscalização, que devem ser utilizados exclusivamente quando estas estejam no exercício das respetivas funções.\n\n5 - Os bilhetes correspondentes aos lugares reservados que não forem requisitados pelas entidades a que se destinam até uma hora antes do início do espetáculo podem ser colocados à venda.\n\n6 - Sem prejuízo do disposto no n.º 4, os trabalhadores das entidades a que se refere o n.º 1, quando no exercício da sua atividade de fiscalização ou superintendência, têm acesso aos locais objeto de fiscalização, sem direito a ocupa-ção de lugar ou à permanência nos recintos para além do tempo estritamente indispensável ao exercício das suas funções, podendo permanecer nas coxias."
+  },
+  "122975930": {
+   "fragment_id": "122960457",
+   "type": 11,
+   "heading": "Artigo 35.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Taxas\n\n1 - Os procedimentos administrativos tendentes ao registo de promotor, à apreciação da mera comunicação prévia de espetáculos, à emissão de pareceres obrigatórios, à apreciação da mera comunicação prévia para obtenção de DIR e das comunicações para os respetivos averbamentos, às vistorias e inspeções periódicas e à classificação de espetáculos de natureza artística e de divertimentos públicos, previstos no presente decreto-lei, implicam o pagamento de taxas, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da cultura.\n\n2 - As taxas previstas no número anterior constituem receita da IGAC.\n\n3 - Estão isentos do pagamento das taxas relativas ao registo de promotor e à mera comunicação prévia de espetáculos:\n\na) Os serviços e organismos da administração central do Estado;\n\nb) As autarquias locais;\n\nc) As demais pessoas coletivas públicas, ou privadas de utilidade pública, cujos fins principais incluam a realização de espetáculos de natureza artística;\n\nd) As instituições particulares de solidariedade social;\n\ne) Os espetáculos de natureza artística cuja receita reverta integralmente para fins beneficentes ou humanitários."
+  },
+  "122975931": {
+   "fragment_id": "122960458",
+   "type": 1,
+   "heading": "Capítulo VII — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Regime sancionatório"
+  },
+  "122975932": {
+   "fragment_id": "122960459",
+   "type": 11,
+   "heading": "Artigo 36.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima entre 250,00 EUR e 2.500,00 EUR no caso das pessoas singulares, e de 500,00 EUR a 15.000,00 EUR no caso das pessoas coletivas, a violação do disposto no n.º 4 do artigo 3.º, no n.º 2 do artigo 4.º, no n.º 1 do artigo 6.º, nos n.os 1 e 3 do artigo 7.º, nos n.os 1, 3 e 5 do artigo 8.º, no artigo 9.º, nos n.os 3 e 5 do artigo 10.º, do n.º 7 do artigo 16.º, no n.º 2 do artigo 18.º, no n.º 5 do artigo 22.º, no n.º 2 do artigo 27.º, nos n.os 2 e 6 do artigo 28.º, no n.º 6 do artigo 31.º e no n.º 4 do artigo 34.º\n\n2 - Constitui contraordenação punível com coima entre 600,00 EUR e 3.000,00 EUR no caso das pessoas singulares, e de 1.200,00 EUR a 30.000,00 EUR no caso das pessoas coletivas, a violação do disposto no n.º 1 do artigo 3.º, do n.º 1 artigo 4.º, no n.º 1 do artigo 5.º, nos n.os 2 e 6 do artigo 8.º, no n.º 1 do artigo 12.º, nos n.os 1 e 2 do artigo 13.º, n.os 1 e 2 do artigo 14.º, no n.os 1 e 6 do artigo 16.º, no n.º 3 do artigo 21.º, no n.º 2 do artigo 22.º no n.º 1 do artigo 26.º, no n.º 3 do artigo 29.º e no n.º 5 do artigo 30.º\n\n3 - A negligência e a tentativa são puníveis, sendo os montantes mínimos e máximos das coimas aplicáveis nos termos dos n.os 1 e 2 reduzidos para metade, em caso de negligência, e a sanção especialmente atenuada, em caso de tentativa.\n\n4 - Em função da gravidade da infração e da culpa do infrator, podem ser aplicadas as sanções acessórias previstas nas alíneas b), f) e g) do n.º 1 do artigo 21.º e do regime geral das contraordenações, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, nos termos previstos no referido regime."
+  },
+  "122975933": {
+   "fragment_id": "122960460",
+   "type": 11,
+   "heading": "Artigo 37.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Sanções acessórias\n\n1 - Em função da gravidade da infração e da culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Interdição do exercício da atividade de promotor de espetáculos;\n\nb) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nc) Suspensão da licença de recinto.\n\n2 - As sanções acessórias têm a duração máxima de dois anos."
+  },
+  "122975934": {
+   "fragment_id": "122960461",
+   "type": 11,
+   "heading": "Artigo 38.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Produto das coimas\n\nO produto das coimas resultante dos processos de contraordenação instaurados com base no presente decreto-lei é repartido da seguinte forma:\n\na) 10 % para a entidade que levanta o auto de notícia;\n\nb) 30 % para a IGAC;\n\nc) 60 % para o Estado."
+  },
+  "122975935": {
+   "fragment_id": "122960462",
+   "type": 11,
+   "heading": "Artigo 39.º — Instrução dos processos e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Instrução dos processos e aplicação das coimas\n\nCompete à IGAC assegurar a instrução dos processos de contraordenação, cabendo a decisão sobre a aplicação da coima e das sanções acessórias ao inspetor-geral das Atividades Culturais."
+  },
+  "122975936": {
+   "fragment_id": "122960463",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições transitórias e finais"
+  },
+  "122975937": {
+   "fragment_id": "122960464",
+   "type": 11,
+   "heading": "Artigo 40.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Regulamentação\n\nA portaria prevista no n.º 1 do artigo 35.º deve ser publicada no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei."
+  },
+  "122975938": {
+   "fragment_id": "122960465",
+   "type": 11,
+   "heading": "Artigo 41.º — Alvará de licença de recinto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Alvará de licença de recinto\n\n1 - Os alvarás de licença de recinto emitidos ao abrigo do regime constante do Decreto-Lei n.º 315/95, de 28 de novembro, alterado pelo Decreto-Lei n.º 309/2002, de 16 de dezembro, mantêm-se válidos até à realização da inspeção periódica nos termos do artigo 20.º\n\n2 - Sem prejuízo do disposto no número anterior, a entidade exploradora do recinto deve remeter à IGAC, no prazo de 30 dias a contar da data de entrada em vigor do presente decreto-lei, cópia do seguro previsto na alínea i) do n.º 2 do artigo 16.º\n\n3 - As taxas pagas pelos pedidos de vistoria efetuados ao abrigo do regime previsto no Decreto-Lei n.º 315/95, de 28 de novembro, alterado pelo Decreto-Lei n.º 309/2002, de 16 de dezembro, para efeitos de emissão de alvará de licença de recinto ou sua revalidação, e que ainda não tinham sido realizadas, substituem a taxa devida pela inspeção periódica prevista no n.º 4 do artigo 20.º"
+  },
+  "122975939": {
+   "fragment_id": "122960466",
+   "type": 11,
+   "heading": "Artigo 42.º — Reconhecimento mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Reconhecimento mútuo\n\n1 - Nos termos da alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho, não pode haver duplicação entre as condições exigíveis para o cumprimento dos procedimentos previstos no presente decreto-lei e os requisitos e os controlos equivalentes, ou comparáveis quanto à finalidade, a que o requerente já tenha sido submetido em Portugal ou noutro Estado-membro da União Europeia ou do Espaço Económico Europeu.\n\n2 - O disposto no número anterior não é aplicável ao cumprimento das condições diretamente referentes às instalações físicas localizadas em território nacional, nem aos respetivos controlos por autoridade competente.\n\n3 - O disposto no n.º 1 não é igualmente aplicável aos procedimentos de classificação de espetáculos de natureza artística e de divertimentos públicos."
+  },
+  "122975940": {
+   "fragment_id": "122960467",
+   "type": 11,
+   "heading": "Artigo 43.º — Desmaterialização de procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Desmaterialização de procedimentos\n\n1 - Todos os pedidos, comunicações e notificações, ou, em geral, quaisquer declarações entre os interessados e as autoridades competentes nos procedimentos previstos no presente decreto-lei devem ser efetuados através do balcão único eletrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - Excluem-se do disposto no número anterior:\n\na) Os procedimentos que devam ser tramitados na plataforma prevista no artigo 8.º-A do RJUE;\n\nb) Os materiais para a instrução dos procedimentos que, pela sua natureza, não possam ser enviados por via eletrónica.\n\n3 - Quando, por motivos de indisponibilidade do balcão único eletrónico dos serviços, não for possível o cumprimento do disposto no n.º 1, pode ser utilizado qualquer outro meio legalmente admissível.\n\n4 - Os procedimentos específicos de utilização e funcionamento dos mecanismos previstos no n.º 1 são aprovados por portaria do membro do Governo responsável pela área da cultura."
+  },
+  "122975941": {
+   "fragment_id": "122960468",
+   "type": 11,
+   "heading": "Artigo 44.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Cooperação administrativa\n\nAs autoridades competentes nos termos do presente decreto-lei participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores provenientes de outro Estado-membro, nos termos do capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno (IMI)."
+  },
+  "122975942": {
+   "fragment_id": "122960469",
+   "type": 11,
+   "heading": "Artigo 45.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Norma transitória\n\nAté à aprovação do regime a que se refere o n.º 1 do artigo 19.º, a realização ocasional de atividades de natureza artística e de outros espetáculos ou divertimentos não artísticos em recinto fixo espetáculos de natureza artística diversa, continua a ser regida pelo Decreto-Lei n.º 315/95, de 28 de novembro, alterado pelos Decretos-Leis n.os 309/2002, de 16 de dezembro, e 121/2004, de 21 de maio."
+  },
+  "122975943": {
+   "fragment_id": "122960470",
+   "type": 11,
+   "heading": "Artigo 46.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Norma revogatória\n\n1 - São revogados:\n\na) O Decreto-Lei n.º 396/82, de 21 de setembro, alterado pelos Decretos-Leis n.os 116/83, de 24 de fevereiro, e 456/85, de 29 de outubro;\n\nb) Os n.os 2 e 3 do artigo 3.º, os artigos 4.º e 7.º, e o n.º 1 do artigo 14.º, do Decreto-Lei n.º 39/88, de 6 de fevereiro, alterado pelo Decreto-Lei n.º 121/2004, de 21 de maio;\n\nc) O Decreto-Lei n.º 315/95, de 28 de novembro, alterado pelo Decreto-Lei n.º 309/2002, de 16 de dezembro;\n\nd) O artigo 59.º do Decreto-Lei n.º 227/2006, de 15 de novembro.\n\n2 - Até à entrada em vigor da portaria prevista no n.º 1 do artigo 35.º e à aprovação do despacho a que se refere o n.º 5 do artigo 33.º, mantêm-se em vigor o Decreto Regulamentar n.º 34/95, de 16 de dezembro, a Portaria n.º 238/2011, de 16 de junho, no que se refere às taxas previstas no presente decreto-lei, bem como o Despacho n.º 203/MEC/86, de 8 de novembro, que fixa a remuneração dos delegados municipais."
+  },
+  "122975944": {
+   "fragment_id": "122960471",
+   "type": 11,
+   "heading": "Artigo 47.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no prazo de 60 dias após a respetiva publicação."
+  },
+  "921330938": {
+   "fragment_id": "122960413",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei define o regime de funcionamento dos espetáculos de natureza artística e de instalação e fiscalização dos recintos fixos destinados à sua realização, conformando-o com o Decreto-Lei n.º 92/2010, de 26 de julho, que transpôs a Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Diretiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno.\n\n2 - O presente decreto-lei estabelece, ainda, o regime de classificação de espetáculos de natureza artística e de divertimentos públicos.\n\n3 - O presente decreto-lei regula, igualmente, a autenticação e distribuição de videogramas, bem como a colocação à disposição do público de obras no domínio das artes do espetáculo e do audiovisual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921330939": {
+   "fragment_id": "122960414",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente decreto-lei, consideram-se:\n\na) «Divertimentos públicos» os eventos destinados ao recreio ou distração dos participantes, que não integrem o conceito de espetáculo de natureza artística, ainda que possam englobar componentes artísticas;\n\nb) «Espetáculos de natureza artística», as manifestações e atividades artísticas ligadas à criação, execução, exibição e interpretação de obras no domínio das artes do espetáculo e do audiovisual e outras execuções e exibições de natureza análoga que se realizem perante o público, excluindo a radiodifusão, ou que se destinem à transmissão ou gravação para difusão pública;\n\nc) «Programa de espetáculos de natureza artística» o documento, a apresentar pelo promotor do espetáculo de natureza artística, que enuncia e identifica as obras a executar, recitar, exibir ou apresentar ao público, numa determinada data ou datas, bem como os artistas e intérpretes;\n\nd) «Promotor de espetáculo de natureza artística», a pessoa singular ou coletiva que tem por atividade a promoção ou organização de espetáculos de natureza artística;\n\ne) «Recintos fixos de espetáculos de natureza artística», os espaços delimitados, resultantes de construções de caráter permanente, que, independentemente da respetiva designação, tenham como finalidade principal a realização de espetáculos de natureza artística;\n\nf) «Videograma» o suporte material, analógico ou digital, de imagens, acompanhadas ou não de sons, através do qual é permitida a visualização da obra pelos meios tecnológicos atualmente existentes, bem como qualquer outro meio de fixação, disponibilização ou interatividade que possa vir a ser determinado pela inovação tecnológica, bem como os videojogos ou jogos, disponibilizados através da Internet ou de redes especiais, independentemente do suporte material, forma de fixação ou interatividade.\n\n2 - Integram o conceito de espetáculos de natureza artística, nomeadamente, as representações ou atuações nas áreas do teatro, da música, da dança, do circo, da tauromaquia e de cruzamento artístico, e quaisquer outras récitas, declamações ou interpretações de natureza análoga, bem como a exibição pública de obras cinematográficas e audiovisuais, por qualquer meio ou forma.\n\n3 - Para efeitos do presente decreto-lei, não se consideram espetáculos de natureza artística os eventos de natureza familiar, sem fins lucrativos, para recreio dos membros da família e convidados, a realizar no lar familiar ou em recinto autorizado para esse fim.\n\n4 - Para efeitos do presente decreto-lei, considera-se 'colocação à disposição do público' a promoção e exploração de obras no domínio das artes do espetáculo e do audiovisual, através de oferta digital ou da possibilidade de acesso, no local e tempo selecionado pelo utilizador, por qualquer meio ou forma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921330940": {
+   "fragment_id": "122960420",
+   "type": 11,
+   "heading": "Artigo 5.º — Mera comunicação prévia de espetáculos",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10",
+    "Retificado pelo/a [Declaração de Retificação n.º 26/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/26-2014-25344038), produz efeitos a partir de 2014-04-15"
+   ],
+   "markdown": "###### Artigo 5.º — Mera comunicação prévia de espetáculos\n\n1 - Sem prejuízo do disposto no n.º 3, a realização de espetáculos de natureza artística está sujeita à apresentação de uma mera comunicação prévia, dirigida ao município onde este se realize, pelo promotor do espetáculo, ainda que não esteja estabelecido em território nacional.\n\n2 - A mera comunicação prévia deve ser acompanhada dos seguintes elementos:\n\na) Identificação do promotor;\n\nb) Programa dos espetáculos e respetiva classificação etária atribuída;\n\nc) Datas ou período de realização dos espetáculos;\n\nd) Identificação dos recintos, com indicação do respetivo Número de Identificação de Recinto (NIR), quando aplicável;\n\ne) Autorização dos detentores de direito de autor e conexos ou dos seus representantes;\n\nf) Cópia de apólice de seguro de responsabilidade civil ou garantia ou instrumento financeiro equivalentes, nos termos dos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho, que cubra eventuais danos decorrentes da realização dos espetáculos, quando não estejam cobertos por seguro, garantia ou instrumento financeiro equivalente referente ao recinto ou ao local de realização do espetáculo.\n\n3 - Está dispensada a mera comunicação prévia referente à realização de espetáculos de natureza artística que consistam na exibição pública de obras cinematográficas, por entidades com autorização ou licença de distribuição previamente emitida pela IGAC.\n\n4 - A mera comunicação prévia é submetida, até ao momento de início do espetáculo, através do Portal ePortugal, integrado nos sistemas de informação da IGAC, para validação prévia automática dos requisitos legais, sendo acessível aos municípios onde tenham lugar os espetáculos de natureza artística.\n\n5 - A apresentação da mera comunicação prévia deve ser acompanhada do pagamento da taxa devida em vigor à data da sua entrega.\n\n6 - As comunicações efetuadas com uma antecedência mínima de oito dias gozam de redução na taxa aplicável.\n\n7 - A mera comunicação prévia dos espetáculos de circo, nos termos do presente decreto-lei, não dispensa a autorização de deslocação a requerer nos termos do Decreto-Lei n.º 255/2009, de 24 de setembro, alterado pelo Decreto-Lei n.º 260/2012, de 12 de dezembro.\n\n8 - Em função da natureza do espetáculo e do recinto, a IGAC pode exigir a presença de piquete de bombeiros.\n\n9 - O controlo prévio de espetáculos tauromáquicos é regulado em diploma próprio.\n\n10 - A informação recolhida nos termos do n.º 4 é disponibilizada no Portal da Cultura, que agrega a agenda cultural nacional, bem como no Portal Nacional de Dados Abertos.\n\n11 - A transmissão de dados entre as entidades intervenientes deve ser realizada através da Plataforma de Interoperabilidade da Administração Pública.\n\n12 - Os promotores dos espetáculos são dispensados da apresentação de dados e documentos em posse de qualquer serviço ou organismo da Administração Pública quando derem o seu consentimento para proceder à sua obtenção, nos termos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, na sua redação atual, devendo utilizar-se a Plataforma de Interoperabilidade da Administração Pública e a Bolsa de Documentos para o efeito.\n\n13 - Para submissão das meras comunicações prévias deve, sempre que possível, ser disponibilizada a possibilidade de utilização de mecanismos de autenticação eletrónica através do Cartão de Cidadão e Chave Móvel Digital, bem como do Sistema de Certificação de Atributos Profissionais.\n\n14 - Quando, por motivos de indisponibilidade do Portal ePortugal, não for possível o cumprimento do disposto no n.º 4, as comunicações podem ser realizadas com recurso a outros suportes digitais para o endereço de correio eletrónico da IGAC, que as envia ao município competente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10\n\n> Retificado pelo/a [Declaração de Retificação n.º 26/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/26-2014-25344038), produz efeitos a partir de 2014-04-15"
+  },
+  "921330941": {
+   "fragment_id": "122960421",
+   "type": 11,
+   "heading": "Artigo 6.º — Venda de bilhetes",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 6.º — Venda de bilhetes\n\n1 - Os locais de venda de bilhetes nos recintos de espetáculos, em agências ou postos de venda, e as plataformas de venda eletrónica de bilhetes, exploradas por empresas estabelecidas em território nacional, devem disponibilizar ao público de forma visível a seguinte informação:\n\na) Programa do espetáculo;\n\nb) Identificação do promotor;\n\nc) Preço dos bilhetes;\n\nd) Data e hora do início do espetáculo;\n\ne) Lotação e planta do recinto, com numeração dos lugares e indicação das categorias, sempre que aplicável;\n\nf) Classificação etária.\n\n2 - A venda de bilhetes em agências ou em postos de venda está ainda sujeita ao regime constante dos artigos 35.º a 38.º do Decreto-Lei n.º 310/2002, de 18 de dezembro.\n\n3 - Nos casos de entrada livre, mantém-se a necessidade de observância dos requisitos previstos no n.º 1, salvo o disposto na alínea c).\n\n4 - Nas situações de venda antecipada de bilhetes para espetáculos de natureza artística ou divertimentos públicos sem atribuição de classificação etária, o promotor deve dar prévio conhecimento à IGAC das razões que fundamentam a omissão da classificação e deixar expresso nos títulos de acesso ao espetáculo que o mesmo aguarda classificação etária.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921330942": {
+   "fragment_id": "122960423",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso aos espetáculos de natureza artística",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10",
+    "Retificado pelo/a [Declaração de Retificação n.º 26/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/26-2014-25344038), produz efeitos a partir de 2014-04-15"
+   ],
+   "markdown": "###### Artigo 8.º — Acesso aos espetáculos de natureza artística\n\n1 - O acesso a espetáculos de natureza artística efetua-se mediante apresentação de um bilhete, quando exigível e independentemente do suporte, do qual deve constar, designadamente:\n\na) Identificação do promotor do espetáculo, incluindo o número de identificação fiscal;\n\nb) Identificação do espetáculo e respetivo preço;\n\nc) Designação do local ou recinto;\n\nd) Dia e hora de início do espetáculo;\n\ne) Numeração sequencial e, quando aplicável, categoria do lugar.\n\n2 - Não podem, em qualquer circunstância, ser disponibilizados lugares em número superior à lotação autorizada do recinto.\n\n3 - A classificação etária dos espetáculos de natureza artística ou dos divertimentos públicos deve estar disponível de forma visível no respetivo sítio na Internet, bem como na área de acesso ao recinto.\n\n4 - A classificação etária pode determinar a redução do número de lugares em função do tipo de espetáculo.\n\n5 - O promotor deve assegurar, para efeitos de fiscalização, os elementos previstos no n.º 1, nas situações em que o acesso seja efetuado através de:\n\na) Leitor de bilhetes de código de barras;\n\nb) Leitor de cartões;\n\nc) Leitor de cartões de proximidade;\n\nd) Mecanismo de dispensa de bilhetes de banda magnética;\n\ne) Meio não titulado através de bilhete.\n\n6 - O promotor do espetáculo de natureza artística ou de divertimento público deve negar a entrada de menores quando existam dúvidas sobre a idade face à classificação etária atribuída, avaliada pelos critérios comuns de aparência, salvo quando acompanhados dos pais ou de um adulto, devidamente identificado, que se responsabilize.\n\n7 - Para efeito do número anterior, a idade dos menores é atestada pela apresentação de documento comprovativo da idade invocada.\n\n8 - O promotor do espetáculo ou divertimento público deve assegurar que os portadores de bilhetes com necessidades especiais são, sempre que o solicitem, acompanhados no acesso ao seu lugar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10\n\n> Retificado pelo/a [Declaração de Retificação n.º 26/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/26-2014-25344038), produz efeitos a partir de 2014-04-15"
+  },
+  "921330953": {
+   "fragment_id": "122960426",
+   "type": 1,
+   "heading": "Capítulo III — Exposições artísticas",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "### Capítulo III — Exposições artísticas\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921330957": {
+   "fragment_id": "921435775",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Divulgação de exposições artísticas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 10.º-A — Divulgação de exposições artísticas\n\n1 - A realização de exposições artísticas e de eventos de natureza análoga pode ser divulgada no Portal da Cultura.\n\n2 - Para efeitos do número anterior, os promotores devem submeter os seguintes elementos através do Portal ePortugal:\n\na) Identificação do responsável pelo evento;\n\nb) Datas ou períodos de realização do evento;\n\nc) Local de realização do evento;\n\nd) Memória descritiva do evento;\n\ne) Identificação do alvará de licença de exploração do recinto, se aplicável;\n\nf) Autorização dos detentores de direitos de autor e conexos ou dos seus representantes, se aplicável;\n\ng) Cópia de apólice de seguro de responsabilidade civil, de garantia ou de instrumento financeiro equivalente, nos termos dos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho, na sua redação atual, que cubra eventuais danos decorrentes da realização do evento.\n\n3 - Para efeitos da divulgação prevista no presente artigo, a IGAC pode exigir que as exposições artísticas sejam sujeitas a classificação etária nos termos do artigo 32.º, sempre que tal se justifique em função da respetiva natureza.\n\n4 - A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos do presente decreto-lei, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser indexada no Portal Nacional de Dados Abertos.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921330954": {
+   "fragment_id": "122960441",
+   "type": 1,
+   "heading": "Capítulo IV — Dos recintos fixos de espetáculos de natureza artística",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "### Capítulo IV — Dos recintos fixos de espetáculos de natureza artística\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921330962": {
+   "fragment_id": "122960428",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 11.º — Regime aplicável\n\nÀs operações urbanísticas que tenham por objeto recintos de espetáculos de natureza artística aplica-se o disposto no Regime Jurídico da Urbanização e Edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, com as especificidades dos artigos seguintes.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921435876": {
+   "fragment_id": "122960429",
+   "type": 11,
+   "heading": "Artigo 12.º — Operações urbanísticas sujeitas a controlo prévio",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 12.º — Operações urbanísticas sujeitas a controlo prévio\n\n1 - Nos procedimentos de controlo prévio de operações urbanísticas há lugar a consulta prévia à IGAC, nos termos estabelecidos no RJUE, para efeitos de emissão de parecer, com natureza vinculativa, no âmbito das suas atribuições e competências.\n\n2 - O parecer a que se refere o número anterior destina-se a avaliar a conformidade do recinto, de acordo com os projetos e estudos propostos e a adequação ao uso pretendido, de acordo com a legislação aplicável.\n\n3 - Os procedimentos de controlo prévio de edificação ou de modificação dos recintos são instruídos nos termos da legislação referida no n.º 1 e das normas previstas no regulamento das condições técnicas e de segurança dos recintos de espetáculos e divertimentos públicos, e demais legislação aplicável.\n\n4 - No parecer referido no n.º 2 deve ser atribuído um NIR por cada recinto de espetáculo que dele ainda não disponha, sendo a atribuição processada automaticamente pela plataforma informática referida na alínea a) do n.º 2 do artigo 43.º caso o parecer da IGAC não seja emitido no prazo legal.\n\n5 - Quando o parecer a emitir pela IGAC seja desfavorável ou condicionado, deve indicar as alterações ou correções, se for o caso, a introduzir no projeto.\n\n6 - O parecer fixa a lotação máxima de espectadores em função das diversas atividades de espetáculos a que o recinto se destina, discriminada por categoria de lugares.\n\n7 - Concluída a operação urbanística, o interessado requer à câmara municipal a autorização de utilização do imóvel, nos termos previstos no RJUE.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921435890": {
+   "fragment_id": "122960430",
+   "type": 11,
+   "heading": "Artigo 13.º — Operações urbanísticas isentas de controlo prévio municipal",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 13.º — Operações urbanísticas isentas de controlo prévio municipal\n\n1 - As operações urbanísticas em recintos de espetáculos de natureza artística promovidas pela Administração Pública, isentas de controlo prévio pelo RJUE, só podem ter início após emissão de parecer pela IGAC, para os efeitos e nos termos dos n.os 2 a 6 do artigo anterior, a proferir no prazo de 20 dias úteis, após o que, na ausência de decisão expressa, se considera tacitamente emitido parecer favorável, sendo o NIR atribuído automaticamente pela plataforma informática referida no n.º 1 do artigo 43.º, caso o recinto dele ainda não disponha.\n\n2 - As operações urbanísticas isentas de controlo prévio, nos termos previstos no RJUE, são objeto de mera comunicação prévia à IGAC, sendo o NIR atribuído automaticamente pela plataforma informática referida no n.º 1 do artigo 43.º, caso o recinto em causa dele ainda não disponha.\n\n3 - O pedido de parecer ou a apresentação da mera comunicação prévia devem ser instruídos com as peças escritas e desenhadas que permitam a correta avaliação das soluções propostas, assinadas por técnico legalmente habilitado, e acompanhadas do respetivo termo de responsabilidade atestando a observância na sua elaboração das normas legais aplicáveis.\n\n4 - A IGAC pode solicitar esclarecimentos ou documen-tos complementares ao pedido de parecer referido no número anterior, os quais devem ser prestados no prazo de 10 dias úteis a contar da receção da notificação para o efeito, suspendendo-se o prazo referido no n.º 1.\n\n5 - A IGAC pode impedir a realização da operação urbanística caso detete a violação de normas legais ou regulamentares, notificando o interessado, ou decretar o embargo imediato da operação urbanística caso a execução da obra não observe os projetos ou estudos apresentados, no seguimento de vistoria ao local, a realizar por uma comissão composta no mínimo por dois elementos, um dos quais com formação na área de engenharia civil ou arquitetura.\n\n6 - A notificação ou auto de embargo devem especificar as normas legais ou regulamentares violadas ou a desconformidade da execução da obra, e o seu levantamento depende da apresentação de novo projeto ou estudos ou de vistoria que ateste a conformação, a requerer pelo interessado, devendo esta ocorrer no prazo de 10 dias úteis a contar do respetivo pedido, acompanhado do pagamento da taxa devida.\n\n7 - A ausência de decisão expressa no prazo de 10 dias úteis após a realização da vistoria referida no número anterior ou da data de apresentação do projeto ou estudos determina a caducidade do embargo, sem prejuízo do disposto no número seguinte.\n\n8 - Sem prejuízo do disposto no n.º 5, a IGAC pode decretar o encerramento do recinto no seguimento da vistoria, aplicando-se nesse caso o disposto no artigo 21.º\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921435904": {
+   "fragment_id": "122960431",
+   "type": 11,
+   "heading": "Artigo 14.º — Recintos de cinema",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 14.º — Recintos de cinema\n\n1 - À edificação ou alteração da utilização de imóvel, total ou parcialmente destinados à exibição de obras cinematográficas, aplica-se o disposto nos artigos 11.º a 13.º\n\n2 - A demolição de recintos de cinema ou a sua afetação a atividade de natureza diferente depende de autorização do membro do Governo responsável pela área da cultura, a ser obtida diretamente pelo interessado ou pela entidade a quem competir o controlo prévio da operação urbanística.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921435918": {
+   "fragment_id": "122960432",
+   "type": 11,
+   "heading": "Artigo 15.º — Normas técnicas e de segurança",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 15.º — Normas técnicas e de segurança\n\n1 - Aos recintos de espetáculos de natureza artística são aplicáveis as normas previstas no regime jurídico da segurança contra incêndio em edifícios (SCIE), aprovado pelo Decreto-Lei n.º 220/2008, de 12 de novembro, e no regulamento das condições técnicas e de segurança dos recintos de espetáculos e divertimentos públicos, aprovado pelo Decreto Regulamentar n.º 34/95, de 16 de dezembro, alterado pelos Decretos-Leis n.os 65/97, de 31 de março, 220/2008, de 12 de novembro, e pelo Decreto Regulamentar n.º 6/2010, de 28 de dezembro, e demais legislação aplicável.\n\n2 - Os pedidos previstos no presente capítulo cuja apreciação seja da competência da IGAC, devem ser formulados pelo proprietário do recinto, seu representante legal ou pelo explorador autorizado do espaço, salvo nas situações em que são diretamente submetidos à IGAC pela câmara municipal.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921435932": {
+   "fragment_id": "122960434",
+   "type": 11,
+   "heading": "Artigo 16.º — Mera comunicação prévia",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 16.º — Mera comunicação prévia\n\n1 - O início de funcionamento dos recintos de espetáculos de natureza artística depende da apresentação de mera comunicação prévia à IGAC, acompanhada do pagamento da taxa devida.\n\n2 - A mera comunicação prévia deve ser instruída com os seguintes elementos:\n\na) O nome que identifica publicamente o recinto e a respetiva localização;\n\nb) O NIR atribuído ao recinto, nos termos dos artigos 12.º e 13.º ou no seguimento de anterior controlo de funcionamento como recinto de espetáculos de natureza artística diferentes dos pretendidos com a comunicação apresentada;\n\nc) A identificação da entidade exploradora do recinto e do respetivo proprietário;\n\nd) A atividade ou atividades artísticas a que o recinto se destina;\n\ne) A lotação do recinto para cada uma das atividades referidas na alínea anterior;\n\nf) Indicação da data prevista de abertura ao público;\n\ng) Termo de responsabilidade assinado por técnico legalmente habilitado, no caso de operação urbanística isenta de controlo prévio, atestando que foi executada de acordo com o projeto apresentado à IGAC, nos termos do n.º 3 ou do n.º 6 do artigo 13.º;\n\nh) Autorização de utilização do imóvel, emitida com base numa decisão expressa ou tácita, nos termos do RJUE;\n\ni) Apólice de seguro de responsabilidade civil e de acidentes pessoais ou garantia ou instrumento financeiro equivalentes, nos termos dos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 92/2010, de 26 de julho, subscrita pelo proprietário ou pelo explorador do recinto, que cubra os danos e lesões provocados aos utilizadores em caso de acidente.\n\n3 - Após a receção da mera comunicação prévia a plataforma informática referida no n.º 1 do artigo 43.º atribui automaticamente, um NIR ao recinto em causa, caso o recinto dele não disponha, e emite o respetivo Documento de Identificação do Recinto (DIR) provisório, convertido em definitivo após a vistoria referida no artigo seguinte ou, caso a ela não haja lugar, após inspeção periódica realizada nos termos do artigo 20.º\n\n4 - Do DIR constam as informações referidas nas alíneas a), b), c), d) e e) do n.º 2 e o NIR atribuído ao recinto.\n\n5 - Na falta de pagamento da taxa devida ou da apresentação de algum dos elementos referidos no n.º 2, a IGAC pode convidar a entidade exploradora a suprir as deficiências detetadas, sendo o DIR provisório imediatamente revogado.\n\n6 - A atribuição de DIR provisório ou definitivo é condição para o legal funcionamento do recinto em causa.\n\n7 - O DIR, provisório ou definitivo, deve estar afixado de forma visível no acesso ao recinto.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921435946": {
+   "fragment_id": "122960435",
+   "type": 11,
+   "heading": "Artigo 17.º — Vistorias iniciais",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 17.º — Vistorias iniciais\n\n1 - Se a mera comunicação prévia tiver sido regularmente apresentada, a IGAC pode determinar a realização de uma vistoria no prazo de 20 dias úteis a contar da sua receção, a realizar por uma comissão composta, no mínimo, por dois elementos, um dos quais com formação na área de engenharia civil ou arquitetura.\n\n2 - No caso de imposição de alterações decorrentes da vistoria, a atribuição de DIR definitivo depende da verificação de adequada realização das alterações, mediante nova vistoria a requerer pelo interessado, a qual deve ocorrer no prazo de 20 dias úteis a contar do respetivo pedido, acompanhado do pagamento da taxa devida.\n\n3 - A ausência de decisão expressa no prazo de 20 dias úteis após a realização da primeira ou da segunda vistoria ou da data de apresentação do requerimento de nova vistoria converte automaticamente o DIR provisório em definitivo, permitindo que o recinto possa iniciar a sua atividade.\n\n4 - Pode ser decretado o encerramento do recinto no seguimento das vistorias referidas no presente artigo, aplicando-se nesse caso os termos do artigo 21.º\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921435960": {
+   "fragment_id": "122960436",
+   "type": 11,
+   "heading": "Artigo 18.º — Averbamentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 18.º — Averbamentos\n\n1 - Estão sujeitas a averbamento ao DIR as alterações dos seguintes elementos:\n\na) Identificação do recinto;\n\nb) Identificação da entidade proprietária;\n\nc) Identificação da entidade exploradora.\n\n2 - Para os efeitos previstos no número anterior, a entidade exploradora do recinto deve apresentar mera comunicação à IGAC no prazo de 5 dias úteis após a ocorrência da alteração a averbar.\n\n3 - Perante a inatividade do recinto por período superior a um ano, a IGAC determina a revogação oficiosa do DIR.\n\n4 - Sem prejuízo do disposto no artigo seguinte, a alteração da atividade ou atividades artísticas a que o recinto se destina implica o cumprimento do disposto nos artigos 12.º ou 13.º, caso se realizem obras e conforme ao caso aplicável, e a apresentação de nova comunicação nos termos do artigo 16.º, para atribuição de novo DIR.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921435974": {
+   "fragment_id": "122960437",
+   "type": 11,
+   "heading": "Artigo 19.º — Outros espetáculos ou divertimentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 19.º — Outros espetáculos ou divertimentos\n\n1 - A realização ocasional de outras atividades de natureza artística ou outros espetáculos ou divertimentos não artísticos em recinto fixo de espetáculos de natureza artística, cujo licenciamento compete à IGAC, carece de autorização desta entidade, nos termos do regime que regula a realização de espetáculos artísticos e de outros espetáculos ou divertimentos não artísticos em recintos vocacionados para fins que não englobem aquelas atividades, espetáculos ou divertimentos.\n\n2 - O cumprimento do disposto no regime referido no número anterior não dispensa a mera comunicação prévia a que se refere o artigo 5.º\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921435988": {
+   "fragment_id": "122960439",
+   "type": 11,
+   "heading": "Artigo 20.º — Inspeção periódica",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 20.º — Inspeção periódica\n\n1 - Compete à IGAC verificar o cumprimento permanente das condições técnicas e de segurança dos recintos de espetáculos de natureza artística, nos termos definidos no regulamento das condições técnicas e de segurança dos recintos de espetáculos e divertimentos públicos, aprovado Decreto Regulamentar n.º 34/95, de 16 de dezembro, alterado pelos Decretos-Leis n.os 65/97, de 31 de março, 220/2008, de 12 de novembro, e pelo Decreto Regulamentar n.º 6/2010, de 28 de dezembro, podendo recorrer, na estrita medida das suas necessidades, a apoio prestado por peritos externos.\n\n2 - Sem prejuízo do disposto no número anterior, o recinto é objeto de uma inspeção periódica, de cinco em cinco anos, para verificação das condições técnicas e de segurança, por comissão composta nos termos do n.º 1 do artigo 17.º\n\n3 - A primeira inspeção periódica é realizada cinco anos após a abertura ao público do recinto.\n\n4 - Para efeitos do disposto no número anterior, a entidade exploradora é notificada da data da inspeção com uma antecedência de 60 dias devendo, no prazo de 30 dias, proceder ao pagamento da taxa devida, sob pena de revogação do DIR.\n\n5 - Quando se observar o incumprimento das condições técnicas e de segurança, a entidade responsável pela exploração do recinto é notificada para proceder às alterações necessárias em prazo a fixar pela IGAC.\n\n6 - Até ao termo do prazo a fixar nos termos do número anterior, a entidade responsável pela exploração do recinto remete à IGAC um termo de responsabilidade assinado por técnico legalmente habilitado que comprove a realização das alterações determinadas, caso contrário pode ser determinado o encerramento do recinto nos termos do artigo seguinte.\n\n7 - A IGAC remete, à autoridade competente, o relatório de inspeção, se detetar alguma infração ou desconformidade com os regulamentos técnicos aplicáveis.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921436002": {
+   "fragment_id": "122960440",
+   "type": 11,
+   "heading": "Artigo 21.º — Encerramento do recinto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 21.º — Encerramento do recinto\n\n1 - Pode ser determinado o encerramento imediato do recinto nas situações em que se verifique perigo grave para a segurança ou saúde dos espectadores ou dos intervenientes no espetáculo.\n\n2 - O encerramento do recinto é determinado por despacho fundamentado do inspetor-geral das Atividades Culturais, sem prejuízo das competências das autoridades de saúde.\n\n3 - O recinto mantém-se encerrado enquanto não for verificada a supressão das deficiências que determinaram o seu encerramento, por vistoria requerida pelo interessado, acompanhada do pagamento da taxa devida, e expressamente revogada a ordem de encerramento, com atribuição do DIR definitivo, nos casos em que o recinto ainda disponha de DIR provisório.\n\n4 - O encerramento do recinto não prejudica a aplicação do regime contraordenacional previsto no presente decreto-lei.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921330955": {
+   "fragment_id": "122960453",
+   "type": 1,
+   "heading": "Capítulo V — Distribuição, autorização e classificação etária de espetáculos de natureza artística e de divertimentos",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "### Capítulo V — Distribuição, autorização e classificação etária de espetáculos de natureza artística e de divertimentos\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921436016": {
+   "fragment_id": "921435776",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Distribuição, autorização e disponibilização",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 21.º-A — Distribuição, autorização e disponibilização\n\n1 - O exercício da atividade de edição, reprodução e distribuição, por qualquer meio, bem como a venda, locação ou troca de videogramas estão sujeitos ao controlo prévio e fiscalização da IGAC.\n\n2 - A colocação à disposição do público de obras no domínio das artes do espetáculo e do audiovisual está sujeita ao controlo prévio e fiscalização da IGAC.\n\n3 - Os videogramas distribuídos ao público, independentemente da forma, carecem de autorização da IGAC, nos termos a regular por portaria do membro do Governo responsável pela área da cultura.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921436019": {
+   "fragment_id": "122960442",
+   "type": 11,
+   "heading": "Artigo 22.º — Classificação etária",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 22.º — Classificação etária\n\n1 - Estão sujeitos a classificação etária os espetáculos de natureza artística e os divertimentos públicos.\n\n2 - A realização de qualquer espetáculo de natureza artística ou divertimento público, bem como a exibição pública de filmes anúncio ou trailers e a distribuição de obras cinematográficas e de videogramas, sob qualquer forma, meio ou suporte, depende de prévia classificação etária.\n\n3 - A classificação etária consiste em aconselhar a idade a partir da qual se considera que o conteúdo não é suscetível de provocar dano prejudicial ao desenvolvimento psíquico ou de influir negativamente na formação da personalidade dos menores em causa.\n\n4 - Os programas televisivos objeto de autorregulação por força da legislação específica podem ser submetidos à comissão de classificação de acordo com os critérios e procedimentos previstos no presente decreto-lei, por iniciativa dos interessados.\n\n5 - Os cartazes ou quaisquer outros meios de publicidade de espetáculos de natureza artística e divertimentos públicos ou de videogramas devem conter a menção da classificação etária atribuída.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921436022": {
+   "fragment_id": "122960443",
+   "type": 11,
+   "heading": "Artigo 23.º — Comissão de classificação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 23.º — Comissão de classificação\n\n1 - A comissão de classificação é o órgão competente para a classificação de espetáculos de natureza artística e de divertimentos públicos.\n\n2 - Compete à comissão de classificação aprovar e publicitar os critérios gerais de classificação.\n\n3 - A comissão de classificação pode adotar, em casos específicos, mediante fundamentação adequada, sistemas de classificação recomendados pelas melhores práticas internacionais, desde que não colidam com os princípios de proteção de menores e de defesa do consumidor.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921436025": {
+   "fragment_id": "122960444",
+   "type": 11,
+   "heading": "Artigo 24.º — Procedimento de classificação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 24.º — Procedimento de classificação\n\n1 - A atribuição de classificação depende de requerimento dirigido ao presidente da comissão de classificação e deve ser decidida no prazo de 15 dias úteis, contado da regular apresentação do respetivo pedido.\n\n2 - Das deliberações da comissão de classificação cabe recurso para o membro do Governo responsável pela área da cultura, a interpor no prazo de 10 dias úteis a contar da respetiva notificação.\n\n3 - No silêncio da autoridade competente o requerente pode recorrer aos tribunais administrativos para obter sentença de condenação para a prática de ato devido.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921436028": {
+   "fragment_id": "122960445",
+   "type": 11,
+   "heading": "Artigo 25.º — Escalões etários",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 25.º — Escalões etários\n\n1 - A classificação etária obedece aos seguintes escalões:\n\na) Para todos os públicos;\n\nb) Para maiores de 3 anos;\n\nc) Para maiores de 6 anos;\n\nd) Para maiores de 12 anos;\n\ne) Para maiores de 14 anos;\n\nf) Para maiores de 16 anos;\n\ng) Para maiores de 18 anos.\n\n2 - O escalão «Para todos os públicos» aplica-se aos espetáculos especialmente vocacionados para crianças, com idade igual ou inferior a 3 anos, nas condições previstas no artigo seguinte.\n\n3 - Os espetáculos e divertimentos públicos são ainda classificados «Para maiores de 18 anos - Pornográfico» sempre que possuam conteúdos considerados pornográficos, de acordo com os critérios fixados pela comissão.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921436031": {
+   "fragment_id": "122960446",
+   "type": 11,
+   "heading": "Artigo 26.º — Acesso aos espetáculos de natureza artística",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 26.º — Acesso aos espetáculos de natureza artística\n\n1 - Os menores de três anos só podem assistir aos espetáculos classificados «Para todos os públicos» desde que a lotação do recinto seja reduzida em 20 %.\n\n2 - Para efeitos da determinação do número de lugares correspondente à redução da lotação prevista no número anterior, devem ser considerados todos os espectadores independentemente da idade.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921436034": {
+   "fragment_id": "122960447",
+   "type": 11,
+   "heading": "Artigo 27.º — Classificações especiais",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 27.º — Classificações especiais\n\n1 - Salvo parecer em contrário da comissão de classificação, são classificados:\n\na) Para maiores de 3 anos, os espetáculos de circo;\n\nb) Para maiores de 6 anos, espetáculos de música, de dança, desportivos e similares;\n\nc) Para maiores de 12 anos, os espetáculos tauromáquicos;\n\nd) Para maiores de 16 anos, a frequência de discotecas e similares.\n\n2 - Quando o mesmo espetáculo integre cruzamentos artísticos, a classificação etária do espetáculo é determinada pelo escalão mais elevado atribuído.\n\n3 - O disposto no número anterior é igualmente aplicável quando no mesmo recinto ou local decorram, em simultâneo, espetáculos não classificados para o mesmo grupo etário e não seja possível delimitar a mobilidade dos espectadores nos espaços onde decorrem.\n\n4 - As classificações previstas no presente artigo podem ser alteradas para escalão diverso quando, por iniciativa da comissão de classificação ou por requerimento fundamentado do promotor ou ainda das autoridades policiais ou administrativas locais, se conclua que as características do espetáculo, do recinto ou do local o aconselham.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921436037": {
+   "fragment_id": "122960448",
+   "type": 11,
+   "heading": "Artigo 28.º — Classificação de obras cinematográficas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 28.º — Classificação de obras cinematográficas\n\n1 - O requerimento para a classificação de obras cinematográficas é apresentado pelos titulares dos direitos de exploração e instruído com os seguintes elementos:\n\na) Título da obra em original e em português;\n\nb) Ficha técnica e artística;\n\nc) Nome do tradutor;\n\nd) Ano de produção e país de origem;\n\ne) Resumo do argumento;\n\nf) Documento comprovativo da titularidade dos direitos de exploração;\n\ng) Suporte apresentado em película ou em qualquer outro formato que permita visualizar o conteúdo a classificar legendado ou dobrado em português.\n\n2 - A legendagem ou a dobragem de obras cinematográficas pode ser dispensada por motivos atendíveis e desde que o público seja informado, devendo para o efeito tal constar nos meios de publicidade e junto das bilheteiras ou das entradas do recinto.\n\n3 - A classificação das obras cinematográficas destinadas a exibição em festivais ou ciclos de cinema, que não tenham sido objeto de classificação, deve ser proposta pela entidade requerente com base nos critérios gerais de classificação.\n\n4 - Assiste à comissão de classificação a faculdade de atribuir classificação diversa em caso de dúvida ou de não concordância com a proposta do requerente nos termos do número anterior.\n\n5 - A classificação prevista nos n.os 3 e 4 destina-se, apenas, ao espetáculo para o qual foi atribuída.\n\n6 - Qualquer alteração ao conteúdo da obra cinematográfica, incluindo montagem, dobragem ou legendagem, determina que a mesma seja submetida a novo procedimento de classificação etária.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921436040": {
+   "fragment_id": "122960449",
+   "type": 11,
+   "heading": "Artigo 29.º — Distribuição e classificação de videogramas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 29.º — Distribuição e classificação de videogramas\n\n1 - O requerimento para a classificação de videogramas apresentado pelos titulares dos direitos de exploração do videograma destinado a exibição pública ou a distribuição, deve ser acompanhado de um exemplar, e instruído com os seguintes elementos:\n\na) Título da obra na língua original e em português, caso esta não seja a língua original;\n\nb) Ficha técnica e artística;\n\nc) Nome do tradutor, quando aplicável;\n\nd) Resumo do argumento ou do conteúdo;\n\ne) Ano de produção e país de origem;\n\nf) Documento comprovativo da titularidade dos direitos de exploração;\n\ng) Projeto de capa do videograma a distribuir.\n\n2 - Os videogramas correspondentes a videojogos ou a jogos de computador são identificados pelo título, pelo editor e pela consola ou plataforma.\n\n3 - O exemplar do videograma distribuído no mercado não pode ter conteúdo diferente do classificado.\n\n4 - Na falta ou desconformidade de algum dos documen-tos ou elementos previstos no n.º 1, a IGAC convida o requerente a, no prazo de 5 dias úteis contado da data da receção do requerimento, suprir a falta, em prazo não superior a 10 dias úteis.\n\n5 - O processo apenas se considera instruído na data da receção do último dos documentos ou elementos em falta.\n\n6 - A classificação de videogramas, cujo conteúdo tenha sido previamente classificado mantém, oficiosamente, a mesma classificação.\n\n7 - A capa do videograma deve conter a classificação etária e o título.\n\n8 - Tratando-se de videograma com a classificação «pornográfico», a capa só deve conter a classificação etária, o título e a identificação do distribuidor.\n\n9 - A distribuição de videojogos abrangidos pelo disposto no n.º 3 do artigo 23.º, bem como a autorização para exibição pública de videograma, dependem de autorização prévia da IGAC.\n\n10 - Para efeitos do número anterior, e sem prejuízo do n.º 1, o pedido de autorização prévia para distribuição de videojogos depende da apresentação dos seguintes elementos:\n\na) Período de distribuição;\n\nb) Classificação etária proposta;\n\nc) Número de videojogos a distribuir.\n\n11 - A classificação etária deve constar dos meios publicitários ou destinados à informação de distribuição de videogramas.\n\n12 - O videograma cuja distribuição não esteja autorizada pela IGAC não deve ser disponibilizado ou exibido publicamente, sob qualquer meio ou forma.\n\n13 - Os videogramas, em suporte material, distribuídos ou exibidos publicamente, sem autorização da IGAC, são apreendidos e perdidos a favor do Estado sem direito a indemnização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921436043": {
+   "fragment_id": "921435777",
+   "type": 11,
+   "heading": "Artigo 29.º-A — Colocação à disposição do público",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 29.º-A — Colocação à disposição do público\n\n1 - A colocação à disposição do público de obras no domínio das artes do espetáculo e do audiovisual, através de oferta digital, carece de classificação etária.\n\n2 - Os requerimentos para a classificação de obras no domínio das artes do espetáculo e do audiovisual que sejam colocados à disposição do público, por qualquer meio ou forma, incluindo Internet, redes especiais ou outros apresentados pelos titulares dos direitos de exploração, são instruídos com os seguintes elementos:\n\na) Título da obra na língua original e em português, caso esta não seja a língua original;\n\nb) Ficha técnica e artística;\n\nc) Nome do tradutor, quando aplicável;\n\nd) Resumo do argumento ou do conteúdo;\n\ne) Ano de produção e país de origem;\n\nf) Prova da titularidade dos direitos de exploração.\n\n3 - As obras e os conteúdos culturais colocados à disposição do público não podem ter conteúdo diferente do classificado.\n\n4 - Na falta ou desconformidade de algum dos documentos ou elementos previstos no n.º 2, a IGAC deve, no prazo de 5 dias a contar da receção do requerimento, notificar o requerente para suprir a falta, concedendo-lhe um prazo máximo de 10 dias.\n\n5 - Para efeitos da classificação de obras e conteúdos culturais para colocação à disposição do público, com conteúdo previamente classificado, a IGAC mantém, oficiosamente, a mesma classificação.\n\n6 - No momento da colocação à disposição do público de obras e conteúdos culturais passíveis de classificação, deve disponibilizar-se a classificação etária e o título, de acordo com o modelo previsto na portaria a que se refere o n.º 3 do artigo 21.º-A.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921436046": {
+   "fragment_id": "122960450",
+   "type": 11,
+   "heading": "Artigo 30.º — Título da obra cinematográfica ou audiovisual",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 30.º — Título da obra cinematográfica ou audiovisual\n\n1 - As obras cinematográficas ou audiovisuais distribuídas em Portugal devem, em regra, ser registadas com o título em português.\n\n2 - O título da obra cinematográfica ou audiovisual deve ser traduzido ou adaptado para língua portuguesa e não pode ser igual a outro já atribuído a obra cinematográfica ou audiovisual.\n\n3 - Excetuam-se do disposto no número anterior, e desde que tal se encontre demonstrado, as seguintes situações:\n\na) Tradução literal do título original;\n\nb) Adaptação de obras literárias estrangeiras editadas com tradução portuguesa que mantêm o título original;\n\nc) Nomes de personagens, locais geográficos, acontecimentos históricos ou expressões idiomáticas;\n\nd) Edição de obras registadas com o mesmo título original;\n\ne) Títulos originais cuja tradução não se afigure possível;\n\nf) Títulos originais cuja tradução o autor não autorize;\n\ng) Utilização de título já existente, com diferente argumento, desde que expressamente autorizado pelo autor ou titular do direito de distribuição.\n\n4 - A reserva de um título em português é válida pelo período máximo de um ano antes da distribuição da obra em território nacional.\n\n5 - Após a classificação da obra, o título em português não pode sofrer alterações.\n\n6 - O disposto neste artigo não se aplica aos videogramas importados e, como tal, distribuídos e comercializados.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921436049": {
+   "fragment_id": "122960451",
+   "type": 11,
+   "heading": "Artigo 31.º — Classificação de espetáculos teatrais e de ópera",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 31.º — Classificação de espetáculos teatrais e de ópera\n\n1 - A classificação dos espetáculos teatrais e de ópera deve ser proposta pelo promotor ou encenador do espetáculo com base nos critérios gerais de classificação e atender, em especial, à exploração das formas de expressão verbal e corporal, bem como à encenação e cenografia.\n\n2 - Assiste à comissão de classificação a faculdade de atribuir classificação diferente da proposta, em caso de dúvida sobre os critérios seguidos pelo promotor ou encenador do espetáculo.\n\n3 - O pedido de classificação deve ser acompanhado dos seguintes elementos:\n\na) Texto em português da peça a representar ou resumo do libreto da ópera;\n\nb) Descrição das principais características da encenação e cenografia do espetáculo.\n\n4 - Os espetáculos teatrais sem texto prévio escrito ou os espetáculos de improviso são classificados para maiores de 16 anos, salvo deliberação em contrário da comissão de classificação, mediante proposta fundamentada do promotor do espetáculo.\n\n5 - Sem prejuízo do disposto no número anterior, são classificados para maiores de 16 anos os espetáculos de teatro ou de ópera submetidos em língua estrangeira, salvo proposta fundamentada do promotor para atribuição de escalão etário diferente.\n\n6 - As alterações ou variantes aos elementos de encenação e cenografia do espetáculo classificado devem ser comunicadas à IGAC, sempre que sejam suscetíveis de interferir com os critérios seguidos na primeira classificação.\n\n7 - Assiste à comissão de classificação a faculdade de efetuar o visionamento dos espetáculos teatrais e de ópera sempre que considere justificável e existam dúvidas sobre a classificação a atribuir.\n\n8 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, aos festivais de teatro ou de ópera ou a qualquer conjunto organizado de espetáculos de natureza artística.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921436052": {
+   "fragment_id": "122960452",
+   "type": 11,
+   "heading": "Artigo 32.º — Outros espetáculos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+   ],
+   "markdown": "###### Artigo 32.º — Outros espetáculos\n\nA classificação de espetáculos não previstos nos artigos anteriores é efetuada nos termos previstos para os espetáculos de teatro e de ópera, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393)"
+  },
+  "921436057": {
+   "fragment_id": "122960454",
+   "type": 11,
+   "heading": "Artigo 33.º — Delegados municipais da IGAC",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 33.º — Delegados municipais da IGAC\n\n1 - São delegados municipais da IGAC os trabalhadores das câmaras municipais, preferencialmente de entre as especialidades de arquitetura e engenharia civil, designados para o efeito pelo respetivo presidente, em regime de acumu-lação de funções públicas, podendo esta função cessar a todo o tempo, por iniciativa do presidente da câmara municipal ou sob proposta fundamentada do inspetor-geral das Atividades Culturais.\n\n2 - Compete aos delegados municipais da IGAC integrar as comissões de vistorias, sempre que determinado pelo inspetor-geral das Atividades Culturais.\n\n3 - Os delegados municipais estão impedidos de exercer atividades ou funções, a qualquer título, em representação de promotores de espetáculos ou entidades de gestão coletiva do direito de autor ou dos direitos conexos.\n\n4 - A remuneração dos delegados municipais é fixada por despacho dos membros do Governo responsáveis pelas áreas da cultura e das finanças.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921330944": {
+   "fragment_id": "122960456",
+   "type": 11,
+   "heading": "Artigo 34.º — Fiscalização",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 34.º — Fiscalização\n\n1 - Sem prejuízo do disposto no número seguinte, a fiscalização do cumprimento do previsto no presente decreto-lei, em matéria de espetáculos de natureza artística, compete às câmaras municipais territorialmente competentes, sem prejuízo das competências organicamente atribuídas a outras entidades, nomeadamente à IGAC.\n\n2 - A fiscalização do cumprimento das restantes atividades a que se refere o presente decreto-lei compete à IGAC, bem como a outras autoridades públicas e policiais, no âmbito das respetivas atribuições.\n\n3 - Para efeitos do número anterior, as autoridades públicas e policiais que verifiquem infrações ao disposto no presente decreto-lei devem participá-las à IGAC e, em matéria de espetáculos de natureza artística, também aos municípios competentes.\n\n4 - As entidades fiscalizadas devem prestar toda a colaboração solicitada por qualquer das entidades de fiscalização referidas nos n.os 1 e 2.\n\n5 - Nos recintos de espetáculos de natureza artística deve ser reservado um mínimo de dois lugares para entidades que exerçam funções de fiscalização, devendo ser utilizados pelos seus colaboradores exclusivamente no exercício das respetivas funções.\n\n6 - Os bilhetes correspondentes aos lugares reservados nos termos do número anterior, que não forem requisitados pelas entidades a que se destinam, até uma hora antes do início do espetáculo, podem ser disponibilizados para venda ao público.\n\n7 - Sem prejuízo do disposto no n.º 5, os colaboradores das entidades a que se referem os n.os 1 e 2, quando no exercício da sua atividade de fiscalização, têm direito de acesso aos locais objeto de fiscalização, podendo permanecer nas coxias, não tendo contudo direito a permanecer nos recintos para além do tempo estritamente indispensável ao exercício das suas funções.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921330945": {
+   "fragment_id": "122960457",
+   "type": 11,
+   "heading": "Artigo 35.º — Taxas",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 35.º — Taxas\n\n1 - Os procedimentos administrativos tendentes ao registo de promotor, à emissão de pareceres obrigatórios, à apreciação da mera comunicação prévia para obtenção de DIR e das comunicações para os respetivos averbamentos, às vistorias e inspeções periódicas e à classificação de espetáculos de natureza artística e de divertimentos públicos, previstos no presente decreto-lei, implicam o pagamento de taxas, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da cultura.\n\n2 - Os valores das taxas devidas pelas meras comunicações prévias de espetáculos de natureza artística são fixados pela assembleia municipal, nos termos do n.º 3 do artigo 5.º do Decreto-Lei n.º 22/2019, de 30 de janeiro, e do regime geral das taxas das autarquias locais, aprovado pela Lei n.º 53-E/2006, de 29 de dezembro, na sua redação atual.\n\n3 - As taxas previstas no presente decreto-lei constituem receita da IGAC ou dos municípios, consoante a competência.\n\n4 - Estão isentos do pagamento das taxas devidas à IGAC pelo registo de promotor:\n\na) Os serviços e organismos da administração central do Estado;\n\nb) As autarquias locais, as entidades intermunicipais e as empresas locais;\n\nc) As demais pessoas coletivas públicas ou privadas de utilidade pública, cujos fins principais incluam a realização de espetáculos de natureza artística;\n\nd) As instituições particulares de solidariedade social;\n\ne) Os espetáculos de natureza artística, cuja receita reverta integralmente para fins beneficentes ou humanitários.\n\n5 - Para efeitos do n.º 2, os municípios comunicam à IGAC e à entidade gestora do Portal ePortugal, preferencialmente por via eletrónica, as taxas aprovadas e as suas alterações, que são objeto de divulgação no Portal ePortugal no prazo máximo de 60 dias a contar da data de comunicação pelo município.\n\n6 - O pagamento das taxas previstas no presente decreto-lei é realizado preferencialmente através da Plataforma de Pagamentos da Administração Pública, nos termos do disposto no n.º 4 do artigo 30.º do Decreto-Lei n.º 135/99, na redação dada pelo Decreto-Lei n.º 75/2014, de 13 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921330946": {
+   "fragment_id": "122960459",
+   "type": 11,
+   "heading": "Artigo 36.º — Contraordenações",
+   "in_force_from": "2019-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 36.º — Contraordenações\n\n1 - Constitui contraordenação, punível com coima entre 250 EUR e 2500 EUR, no caso das pessoas singulares, e de 500 EUR a 15 000 EUR, no caso das pessoas coletivas, a violação do disposto no n.º 4 do artigo 3.º, no n.º 2 do artigo 4.º, nos n.os 1 e 5 do artigo 6.º, nos n.os 1 e 3 do artigo 7.º, nos n.os 1, 3 e 5 do artigo 8.º, no artigo 9.º, nos n.os 3 e 5 do artigo 10.º, do n.º 7 do artigo 16.º, no n.º 2 do artigo 18.º, no n.º 5 do artigo 22.º, no n.º 2 do artigo 27.º, nos n.os 2 e 6 do artigo 28.º, no n.º 11 do artigo 29.º, no n.º 6 do artigo 31.º e no n.º 4 do artigo 34.º\n\n2 - Constitui contraordenação, punível com coima entre 600 EUR e 3000 EUR, no caso das pessoas singulares, e de 1200 EUR a 30 000 EUR, no caso das pessoas coletivas, a violação do disposto no n.º 1 do artigo 3.º, no n.º 1 do artigo 4.º, no n.º 1 do artigo 5.º, nos n.os 2, 6 e 8 do artigo 8.º, no n.º 1 do artigo 12.º, nos n.os 1 e 2 do artigo 13.º, nos n.os 1 e 2 do artigo 14.º, nos n.os 1 e 6 do artigo 16.º, no n.º 3 do artigo 21.º, no n.º 3 do artigo 21.º-A, no n.º 2 do artigo 22.º, no n.º 1 do artigo 26.º, nos n.os 3, 7 a 9 e 12 a 14 do artigo 29.º, no n.º 1 do artigo 29.º-A e no n.º 5 do artigo 30.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  },
+  "921239113": {
+   "fragment_id": "122960470",
+   "type": 11,
+   "heading": "Artigo 46.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 26/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/26-2014-25344038), produz efeitos a partir de 2014-04-15"
+   ],
+   "markdown": "###### Artigo 46.º — Norma revogatória\n\n1 - São revogados:\n\na) O Decreto-Lei n.º 396/82, de 21 de setembro, alterado pelos Decretos-Leis n.os 116/83, de 24 de fevereiro, e 456/85, de 29 de outubro;\n\nb) Os n.os 2 e 3 do artigo 3.º, os artigos 4.º e 7.º, e o n.º 1 do artigo 14.º, do Decreto-Lei n.º 39/88, de 6 de fevereiro, alterado pelo Decreto-Lei n.º 121/2004, de 21 de maio;\n\nc) O Decreto-Lei n.º 315/95, de 28 de novembro, alterado pelo Decreto-Lei n.º 309/2002, de 16 de dezembro;\n\nd) O artigo 59.º do Decreto-Lei n.º 227/2006, de 15 de novembro.\n\n2 - Até à entrada em vigor da portaria prevista no n.º 1 do artigo 35.º e à aprovação do despacho a que se refere o n.º 4 do artigo 33.º, mantêm-se em vigor o Decreto Regulamentar n.º 34/95, de 16 de dezembro, a Portaria n.º 238/2011, de 16 de junho, no que se refere às taxas previstas no presente decreto-lei, bem como o Despacho n.º 203/MEC/86, de 8 de novembro, que fixa a remuneração dos delegados municipais.\n\n> Retificado pelo/a [Declaração de Retificação n.º 26/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/26-2014-25344038), produz efeitos a partir de 2014-04-15"
+  },
+  "122975945": {
+   "fragment_id": "122960472",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de dezembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima.\n\nPromulgado em 7 de fevereiro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de fevereiro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "1068028475": {
+   "fragment_id": "122960423",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso aos espetáculos de natureza artística",
+   "in_force_from": "2026-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2026 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2026-1066993459), em vigor a partir de 2026-03-10.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10",
+    "Retificado pelo/a [Declaração de Retificação n.º 26/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/26-2014-25344038), produz efeitos a partir de 2014-04-15"
+   ],
+   "markdown": "###### Artigo 8.º — Acesso aos espetáculos de natureza artística\n\n1 - O acesso a espetáculos de natureza artística efetua-se mediante apresentação de um bilhete, quando exigível e independentemente do suporte, do qual deve constar, designadamente:\n\na) Identificação do promotor do espetáculo, incluindo o número de identificação fiscal;\n\nb) Identificação do espetáculo e respetivo preço;\n\nc) Designação do local ou recinto;\n\nd) Dia e hora de início do espetáculo;\n\ne) Numeração sequencial e, quando aplicável, categoria do lugar.\n\n2 - Não podem, em qualquer circunstância, ser disponibilizados lugares em número superior à lotação autorizada do recinto.\n\n3 - A classificação etária dos espetáculos de natureza artística ou dos divertimentos públicos deve estar disponível de forma visível no respetivo sítio na Internet, bem como na área de acesso ao recinto.\n\n4 - A classificação etária pode determinar a redução do número de lugares em função do tipo de espetáculo.\n\n5 - O promotor deve assegurar, para efeitos de fiscalização, os elementos previstos no n.º 1, nas situações em que o acesso seja efetuado através de:\n\na) Leitor de bilhetes de código de barras;\n\nb) Leitor de cartões;\n\nc) Leitor de cartões de proximidade;\n\nd) Mecanismo de dispensa de bilhetes de banda magnética;\n\ne) Meio não titulado através de bilhete.\n\n6 - O promotor do espetáculo de natureza artística ou de divertimento público deve negar a entrada de menores quando existam dúvidas sobre a idade face à classificação etária atribuída, avaliada pelos critérios comuns de aparência, salvo quando acompanhados dos pais ou de um adulto, devidamente identificado, que se responsabilize.\n\n7 - Para efeito do número anterior, a idade dos menores é atestada pela apresentação de documento comprovativo da idade invocada.\n\n8 - O promotor do espetáculo ou divertimento público deve assegurar que os portadores de bilhetes com necessidades especiais são, sempre que o solicitem, acompanhados no acesso ao seu lugar.\n\n9 - Os promotores de espetáculos de natureza artística que se realizem em território continental nos recintos fixos de espetáculos de natureza artística, geridos pelos serviços e entidades da Administração Pública, com a delimitação do n.º 4 do artigo 2.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, independentemente do modelo de gestão adotado, pelas entidades do setor público empresarial e pelas fundações instituídas pelas entidades anteriormente referidas, devem assegurar, para cada sessão, a disponibilização de um bilhete gratuito a um acompanhante de pessoa com deficiência, desde que devidamente comprovada, nos termos definidos no artigo 8.º-B.\n\n10 - Para efeitos do número anterior, o bilhete de acompanhante é intransmissível e apenas válido quando emitido em simultâneo com o bilhete da pessoa com deficiência, para a mesma sessão, data e horário.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2026 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2026-1066993459), em vigor a partir de 2026-03-10.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10\n\n> Retificado pelo/a [Declaração de Retificação n.º 26/2014 - Diário da República n.º 73/2014, Série I de 2014-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/26-2014-25344038), produz efeitos a partir de 2014-04-15"
+  },
+  "1068048175": {
+   "fragment_id": "1068048075",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Bilhete gratuito para acompanhante de pessoa com deficiência",
+   "in_force_from": "2026-03-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 65/2026 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2026-1066993459), em vigor a partir de 2026-03-10."
+   ],
+   "markdown": "###### Artigo 8.º-A — Bilhete gratuito para acompanhante de pessoa com deficiência\n\n1 - Um acompanhante de pessoa com deficiência tem direito a um bilhete gratuito para o acesso a espetáculos de natureza artística, nos termos do disposto no n.º 9 do artigo anterior.\n\n2 - A emissão, registo e controlo dos bilhetes emitidos ao abrigo do número anterior são efetuados através do sistema informático previsto no Decreto-Lei n.º 125/2003, de 20 de junho.\n\n3 - A Inspeção-Geral das Atividades Culturais (IGAC) garante a fiscalização do regime constante deste artigo, e assegura, em articulação com o Instituto Nacional para a Reabilitação, I. P. (INR, I. P.), a monitorização do cumprimento do mesmo e a elaboração de um relatório anual sobre o grau de aplicação da medida.\n\n4 - Para efeitos do número anterior, os responsáveis pelos espaços culturais referidos no n.º 1 devem transmitir à IGAC e ao INR, I. P., até ao dia 31 de janeiro de cada ano, os dados relativos à emissão dos bilhetes do ano anterior.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 65/2026 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2026-1066993459), em vigor a partir de 2026-03-10."
+  },
+  "1068048775": {
+   "fragment_id": "1068048675",
+   "type": 11,
+   "heading": "Artigo 8.º-B — Critérios de comprovação da deficiência",
+   "in_force_from": "2026-03-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 65/2026 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2026-1066993459), em vigor a partir de 2026-03-10."
+   ],
+   "markdown": "###### Artigo 8.º-B — Critérios de comprovação da deficiência\n\nPara efeitos de atribuição de bilhete gratuito ao acompanhante de pessoa com deficiência, é apresentado:\n\na) No caso de deficiência de cidadãos residentes em Portugal, o Atestado Médico de Incapacidade Multiuso (AMIM), com grau de incapacidade igual ou superior a 60 %;\n\nb) No caso de deficiência de cidadãos estrangeiros é apresentado documento equivalente ao mencionado na alínea anterior ou documento médico que ateste o grau de incapacidade.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 65/2026 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2026-1066993459), em vigor a partir de 2026-03-10."
+  },
+  "1068048975": {
+   "fragment_id": "122960424",
+   "type": 11,
+   "heading": "Artigo 9.º — Restituição do preço dos bilhetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Restituição do preço dos bilhetes\n\n1 - O promotor do espetáculo constitui-se na obrigação de restituir aos espectadores a importância correspondente ao preço dos bilhetes nas seguintes situações:\n\na) Não realização do espetáculo no local, data e hora marcados;\n\nb) Substituição do programa ou de artistas principais;\n\nc) Interrupção do espetáculo.\n\n2 - No caso previsto na alínea c) do número anterior não há lugar a restituição se a interrupção ocorrer por motivo de força maior verificado após o início do espetáculo.\n\n3 - Para os efeitos do número anterior, consideram-se casos de força maior os que resultem de acontecimentos imprevisíveis cujos efeitos se produzam independentemente da vontade do promotor do espetáculo, nomeadamente, incêndios, inundações, ciclones, tremores de terra e outras causas naturais que diretamente impeçam a realização do espetáculo.\n\n4 - Compete à IGAC a verificação dos pressupostos de que depende a não restituição da importância correspondente ao preço dos bilhetes, mediante reclamação de qualquer interessado.\n\n5 - Caso haja lugar à restituição da importância correspondente ao preço dos bilhetes, esta deve ser efetuada no prazo de 30 dias contados da notificação da decisão da IGAC."
+  },
+  "1068049075": {
+   "fragment_id": "122960425",
+   "type": 11,
+   "heading": "Artigo 10.º — Espectadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Espectadores\n\n1 - Durante a representação, exibição ou execução de espetáculos, os espectadores devem manter-se nos seus lugares para não perturbarem os artistas e o público.\n\n2 - Sempre que um espectador perturbar a realização do espetáculo deve ser obrigado a sair do recinto, sem direito a reembolso.\n\n3 - Nos recintos de espetáculos de natureza artística os espectadores não podem entrar com animais ou objetos suscetíveis de perturbar a realização do espetáculo ou o público.\n\n4 - Excetua-se do disposto no número anterior o acompanhamento de cães de assistência, nos termos do Decreto-Lei n.º 74/2007, de 27 de março, ou outras situações similares legalmente previstas.\n\n5 - Durante a representação ou execução de espetáculos de ópera, de dança, de música erudita, teatro e outras declamações ou recitações, só é permitida a entrada para frisas ou camarotes.\n\n6 - O disposto no número anterior é extensivo a qualquer tipo de espetáculo por decisão do respetivo promotor, mediante aviso prévio ao público, nos locais de venda de bilhetes, nos recintos de espetáculos, em agências ou postos de venda e nas plataformas de venda eletrónica de bilhetes exploradas por empresas estabelecidas em território nacional."
+  },
+  "1068028675": {
+   "fragment_id": "122960459",
+   "type": 11,
+   "heading": "Artigo 36.º — Contraordenações",
+   "in_force_from": "2026-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2026 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2026-1066993459), em vigor a partir de 2026-03-10.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+   ],
+   "markdown": "###### Artigo 36.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima entre 250,00 EUR e 2500,00 EUR, no caso das pessoas singulares, e de 500,00 EUR a 15 000,00 EUR, no caso das pessoas coletivas, a violação do disposto no n.º 4 do artigo 3.º, no n.º 2 do artigo 4.º, nos n.ºs 1 e 4 do artigo 6.º, nos n.ºs 1 e 3 do artigo 7.º, nos n.ºs 1, 3 e 5 do artigo 8.º, no artigo 9.º, nos n.ºs 3 e 5 do artigo 10.º, no n.º 7 do artigo 16.º, no n.º 2 do artigo 18.º, no n.º 5 do artigo 22.º, no n.º 2 do artigo 27.º, nos n.ºs 2 e 6 do artigo 28.º, no n.º 11 do artigo 29.º, no n.º 6 do artigo 31.º e no n.º 4 do artigo 34.º\n\n2 - Constitui contraordenação punível com coima entre 600,00 EUR e 3000,00 EUR, no caso das pessoas singulares, e de 1200,00 EUR a 30 000,00 EUR, no caso das pessoas coletivas, a violação do disposto no n.º 1 do artigo 3.º, no n.º 1 do artigo 4.º, no n.º 1 do artigo 5.º, nos n.ºs 2, 6, 8 e 9 do artigo 8.º, no n.º 1 do artigo 8.º-A, no n.º 1 do artigo 12.º, nos n.ºs 1 e 2 do artigo 13.º, nos n.ºs 1 e 2 do artigo 14.º, nos n.ºs 1 e 6 do artigo 16.º, no n.º 3 do artigo 21.º, no n.º 3 do artigo 21.º-A, no n.º 2 do artigo 22.º, no n.º 1 do artigo 26.º, nos n.ºs 3, 7 a 9 e 12 a 14 do artigo 29.º, no n.º 1 do artigo 29.º-A e no n.º 5 do artigo 30.º\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 65/2026 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2026-1066993459), em vigor a partir de 2026-03-10.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2019 - Diário da República n.º 127/2019, Série I de 2019-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2019-122960393), em vigor a partir de 2019-07-10"
+  }
+ }
+}

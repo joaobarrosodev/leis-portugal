@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:684003:por
+title: Decreto n.º 45370
+short_title: null
+summary: Determina que as promoções no 3.º sector do quadro comum dos serviços de agricultura e florestas do ultramar passem
+  a obedecer ao mesmo condicionalismo das regras utilizadas para as promoções nos 1.º e 2.º sectores - Revoga os artigos 71.º
+  do Decreto n.º 41482 e 55.º do Diploma Legislativo Ministerial n.º 88, de 26 de Outubro de 1961, de Angola
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Economia
+proposing_entity: null
+official_number: '45370'
+official_date: null
+publication_date: '1963-11-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 274/1963, Série I de 1963-11-22
+  number: '274'
+  series: I
+  supplement: null
+  pages: 1763 - 1763
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/11/27400/17631763.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '684003'
+  dre_path: /dr/detalhe/decreto/45370-1963-684003
+  internal: pt:dre:684003:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45370-1963-684003
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45370-1963-684003
+  consolidated_url: null
+  retrieved_at: '2026-10-22T19:37:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5097bdad702425eaec337874d81ae3c3010a869b0b36ab5d866b99ad6cd1a70f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:37:38Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:251243:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T19:37:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45370
+
+Verificando-se que o disposto no artigo 71.º do [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, que aprovou a orgânica dos serviços de agricultura e florestas do ultramar, acarreta para os funcionários do 3.º sector, onde se encontram os especialistas, condições injustas, pois têm de aguardar todas as promoções do 1.º sector antes de poderem ser promovidos;
+
+Verificando-se que o mesmo condicionalismo se encontra igualmente no artigo 55.º do Diploma Legislativo Ministerial n.º 88, de 26 de Outubro de 1961;
+
+Considerando que tais disposições não correspondem a nenhuma necessidade funcional e conduzem ao afastamento dos serviços dos poucos especialistas que neles se encontram;
+
+Tendo em atenção a urgência de providenciar nesse sentido, ao abrigo do preceituado no § 1.º do artigo 150.º da Constituição e alínea a) do n.º III da base X da Lei Orgânica do Ultramar Português;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+Artigo único. As promoções no 3.º sector do quadro comum dos serviços de agricultura e florestas do ultramar passam a obedecer às mesmas regras utilizadas para as promoções no 1.º e 2.º sectores, de acordo com o preceituado nos artigos 68.º do [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, e 52.º do Diploma Legislativo Ministerial n.º 88, de 26 de Outubro de 1961.
+
+§ único. Ficam revogados os artigos 71.º do [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, e 55.º do Diploma Legislativo Ministerial n.º 88, publicado no Boletim Oficial da província de Angola de 26 de Outubro de 1961.
+
+Publique-se e cumpra-se como nele se contém.
+
+Paços do Governo da República, 22 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.

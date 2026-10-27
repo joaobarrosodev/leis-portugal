@@ -1,0 +1,764 @@
+---
+schema_version: '1.0'
+id: pt:dre:635841:por
+title: Decreto-Lei n.º 247/2007
+short_title: null
+summary: Define o regime jurídico aplicável à constituição, organização, funcionamento e extinção dos corpos de bombeiros,
+  no território continental
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 247/2007
+official_date: null
+publication_date: '2007-06-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/2007, Série I de 2007-06-27
+  number: '122'
+  series: I
+  supplement: null
+  pages: 4064 - 4069
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/06/12200/40644069.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-12-04'
+version_history:
+  file: decreto-lei-247-2007.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-11-26'
+    amending: pt:dre:190872:por
+    amending_title: Decreto-Lei n.º 248/2012
+    changes:
+    - Adita Artigo 18.º-A
+    - Adita Artigo 19.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+  - date: '2013-02-01'
+    amending: pt:dre:257041:por
+    amending_title: Declaração de Retificação n.º 4/2013; Decreto-Lei n.º 248/2012
+    changes:
+    - Retifica Artigo 5.º
+    - Retifica Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 29.º
+    - Revoga Artigo 22.º
+  - date: '2018-12-04'
+    amending: pt:dre:117142869:por
+    amending_title: Decreto-Lei n.º 103/2018
+    changes:
+    - Altera Artigo 17.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/247/2007/p/cons/20181129/pt/html
+  oj: null
+  dre: '635841'
+  dre_path: /dr/detalhe/decreto-lei/247-2007-635841
+  internal: pt:dre:635841:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2007-635841
+  metadata_url: https://data.dre.pt/eli/dec-lei/247/2007/p/cons/20181129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-75452698
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-75452698
+  retrieved_at: '2026-10-22T12:08:25Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 0f7be6b1864cbaf435caebdfc99199cec273eb16416f4148f301013afc23453f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:08:25Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-247-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Conselho Nacional de Bombeiros
+- Definição de Competências
+- Carreira Profissional
+- Veículo
+- Bombeiro
+- Quadro de Pessoal
+- Recenseamento Nacional dos Bombeiros Portugueses
+- Regime Jurídico
+- Autoridade Nacional de Protecção Civil
+- Equipa de Intervenção Permanente
+relationships:
+- type: amended_by
+  target: pt:dre:190872:por
+  label: Adita Artigo 18.º-A; Adita Artigo 19.º-A; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo
+    9.º; Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872
+  date: '2012-11-21'
+- type: amended_by
+  target: pt:dre:257041:por
+  label: Retifica Artigo 5.º; Retifica Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo
+    15.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 24.º; Altera Artigo 29.º; Revoga Artigo
+    22.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2013-257041
+  date: '2013-01-18'
+- type: amended_by
+  target: pt:dre:117142869:por
+  label: Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2018-117142869
+  date: '2018-11-29'
+- type: cites
+  target: pt:dre:459419:por
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: pt:dre:616186:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/295/2000/11/17/p/dre
+- type: cites
+  target: pt:dre:667281:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/41/1997/10/07/p/dre
+article_structure:
+  article_count: 33
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:08:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 247/2007
+
+Decreto-Lei n.º 247/2007
+
+de 27 de Junho
+
+Os grandes desastres que se têm verificado um pouco por todo o mundo têm vindo a promover uma ampla discussão sobre a existência, em cada um dos países, de estruturas de resposta devidamente preparadas e articuladas.
+
+Em quase todas as situações, seja em grandes acidentes provados pelo terrorismo internacional, decorrentes da acção da natureza ou resultantes da actividade económica e dos movimentos populacionais, conclui-se que os países se encontram insuficientemente dotados.
+
+Uma das constatações mais relevantes e ao mesmo tempo mais preocupante é a escassa articulação entre forças ou serviços de segurança e estruturas ou serviços de protecção e socorro.
+
+Em Portugal, o socorro às populações assenta nos corpos de bombeiros e assim continuará a ser mesmo que, entretanto, se tenham criado brigadas de sapadores ou o grupo de intervenção de protecção e socorro que colaboram no âmbito da primeira intervenção em incêndios florestais, ou se venham a formar mais agentes e constituam outras forças.
+
+Os corpos de bombeiros profissionais, mistos ou voluntários, são, portanto, a base para uma resposta ao nível local e, articuladamente e sob um comando único, ao nível distrital ou nacional.
+
+Com o presente instrumento legislativo pretende concretizar-se uma profunda mudança ao nível da estruturação dos corpos de bombeiros e da sua articulação operacional. Promove-se uma redução do número de quadros e definem-se as bases da actividade operacional.
+
+Os bombeiros voluntários passam a ser inseridos em duas carreiras, a carreira de oficial-bombeiro, que vem suprir uma grave lacuna no âmbito da incorporação de técnicos de nível superior, e a carreira de bombeiro.
+
+A mudança dos critérios de escolha dos comandos e a definição das densidades tendo em conta a realidade de cada corpo é uma das inovações mais significativas que se propõem.
+
+Com este decreto-lei permite-se a criação das equipas permanentes de intervenção, que o Programa do Governo contempla, e abrem-se as portas para a criação de forças conjuntas e de forças especiais de intervenção.
+
+Finalmente, é muito significativa a consagração de um sistema de avaliação e de recenseamento que servirá à atribuição dos direitos e regalias previstos no regime jurídico dos bombeiros portugueses.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias, e, a título facultativo, a Liga dos Bombeiros Portugueses e a Associação Nacional dos Bombeiros Profissionais.
+
+Foram, ainda, cumpridos os procedimentos de negociação e participação dos trabalhadores da Administração Pública, nos termos da Lei n.º 23/98, de 16 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei define o regime jurídico aplicável à constituição, organização, funcionamento e extinção dos corpos de bombeiros, no território continental.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei entende-se por:
+
+a) «Área de actuação» a área geográfica predefinida, na qual um corpo de bombeiros opera regularmente e ou é responsável pela primeira intervenção;
+
+b) «Bombeiro» o indivíduo que, integrado de forma profissional ou voluntária num corpo de bombeiros, tem por actividade cumprir as missões do corpo de bombeiros, nomeadamente a protecção de vidas humanas e bens em perigo, mediante a prevenção e extinção de incêndios, o socorro de feridos, doentes ou náufragos e a prestação de outros serviços previstos nos regulamentos internos e demais legislação aplicável;
+
+c) «Corpo de bombeiros» a unidade operacional, oficialmente homologada e tecnicamente organizada, preparada e equipada para o cabal exercício das missões atribuídas pelo presente decreto-lei e demais legislação aplicável;
+
+d) «Entidade detentora de corpo de bombeiros» a entidade pública ou privada que cria, detém e mantém em actividade um corpo de bombeiros com observância do disposto no presente decreto-lei e demais legislação aplicável;
+
+e) «Unidade de comando» o princípio de organização dos corpos de bombeiros que determina que todos os seus elementos actuam sob um comando hierarquizado único.
+
+###### Artigo 3.º — Missão dos corpos de bombeiros
+
+1 - Constitui missão dos corpos de bombeiros:
+
+a) A prevenção e o combate a incêndios;
+
+b) O socorro às populações, em caso de incêndios, inundações, desabamentos e, de um modo geral, em todos os acidentes;
+
+c) O socorro a náufragos e buscas subaquáticas;
+
+d) O socorro e transporte de acidentados e doentes, incluindo a urgência pré-hospitalar, no âmbito do sistema integrado de emergência médica;
+
+e) A emissão, nos termos da lei, de pareceres técnicos em matéria de prevenção e segurança contra riscos de incêndio e outros sinistros;
+
+f) A participação em outras actividades de protecção civil, no âmbito do exercício das funções específicas que lhes forem cometidas;
+
+g) O exercício de actividades de formação e sensibilização, com especial incidência para a prevenção do risco de incêndio e acidentes junto das populações;
+
+h) A participação em outras acções e o exercício de outras actividades, para as quais estejam tecnicamente preparados e se enquadrem nos seus fins específicos e nos fins das respectivas entidades detentoras;
+
+i) A prestação de outros serviços previstos nos regulamentos internos e demais legislação aplicável.
+
+2 - O exercício da actividade definida nas alíneas a), b), c) e e) do número anterior é exclusivo dos corpos de bombeiros e demais agentes de protecção civil.
+
+### Capítulo II — Criação e extinção, área de actuação e tutela
+
+#### Secção I — Criação e extinção, área de actuação e tutela
+
+###### Artigo 4.º — Criação e extinção de corpos de bombeiros
+
+1 - A criação de corpos de bombeiros pode ser promovida pelas seguintes entidades:
+
+a) Municípios;
+
+b) Associações humanitárias de bombeiros;
+
+c) Outras pessoas colectivas privadas que pretendam criar corpos privativos de bombeiros.
+
+2 - O processo de extinção de corpos de bombeiros deve ser promovido pelas entidades suas detentoras ou pela Autoridade Nacional de Protecção Civil (ANPC), ouvida a entidade detentora.
+
+3 - A criação e extinção dos corpos de bombeiros devem resultar de uma ponderação técnica dos riscos, dos tempos de actuação na área a proteger e das condições humanas, técnicas e operacionais disponíveis nos corpos de bombeiros existentes e sua articulação na correspondente área municipal.
+
+4 - A criação e a extinção de corpos de bombeiros voluntários, mistos e profissionais dependem de homologação da ANPC.
+
+5 - A extinção de um corpo de bombeiros pela ANPC tem em conta os fatores previstos no n.º 3 e pode ter lugar quando esse corpo de bombeiros, de forma continuada e prolongada no tempo, tenha deixado de assegurar o pleno cumprimento das suas missões, careça dos recursos materiais e dos recursos humanos aptos, qualificados e habilitados, necessários ao cumprimento dessas missões ou desenvolva a sua atividade de forma que viole gravemente as normas que lhe são aplicáveis.
+
+6 - A criação e extinção de corpos de bombeiros voluntários ou mistos, da iniciativa de associações humanitárias de bombeiros, são precedidas de parecer das seguintes entidades:
+
+a) Câmara municipal da área de actuação do corpo de bombeiros;
+
+b) Juntas de freguesia da área a proteger;
+
+c) Liga dos Bombeiros Portugueses.
+
+d) Associação Nacional de Bombeiros Profissionais.
+
+7 - O parecer do órgão referido na alínea a) do número anterior relativo à criação dos corpos de bombeiros, quando negativo, é vinculativo.
+
+8 - As condições de criação de corpos privativos de bombeiros são definidas por diploma próprio.
+
+9 - A ANPC pode suspender total ou parcialmente a atividade de um corpo de bombeiros detido por uma associação humanitária de bombeiros, em caso de manifesta carência de recursos materiais ou de recursos humanos qualificados necessários para o cumprimento das suas missões, bem como em caso de grave e reiterado incumprimento dessas missões ou das normas aplicáveis à atividade dos corpos de bombeiros.
+
+10 - Os bombeiros pertencentes a um corpo de bombeiros detido por uma associação humanitária de bombeiros, que seja extinto, podem ser afetos a outros corpos de bombeiros, nos termos a definir por despacho do presidente da ANPC.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2012-11-26
+
+###### Artigo 5.º — Áreas de actuação
+
+1 - Cada corpo de bombeiros tem a sua área de actuação definida pela ANPC, ouvido o Conselho Nacional de Bombeiros, de acordo com os seguintes princípios:
+
+a) A área de actuação de cada corpo de bombeiros é correspondente à do município onde se insere, se for o único existente;
+
+b) Se existirem vários corpos de bombeiros voluntários no mesmo município, as diferentes áreas de atuação correspondem a uma parcela que coincide, em regra, com uma ou mais freguesias contíguas.
+
+2 - No caso previsto na alínea b) do número anterior, quando exista acordo entre os corpos de bombeiros e parecer favorável da câmara municipal e do comandante operacional distrital, pode a ANPC fixar áreas de atuação não coincidentes com os limites da freguesia ou, mesmo na falta de acordo, quando seja considerado necessário para assegurar a rapidez e prontidão do socorro.
+
+3 - Havendo no mesmo município um corpo de bombeiros profissional ou misto detido por município e um ou mais corpos de bombeiros voluntários ou mistos detidos por associações humanitárias, a responsabilidade de atuação prioritária cabe ao corpo de bombeiros profissional ou, quando este não exista, ao corpo de bombeiros misto detido por município, sem prejuízo de eventual primeira intervenção de algum dos outros em benefício da rapidez e prontidão do socorro
+
+4 - Fora dos casos previstos no número anterior, havendo no mesmo município vários corpos de bombeiros voluntários ou mistos detidos pelas associações humanitárias, a responsabilidade de atuação prioritária cabe ao corpo de bombeiros da respetiva área de atuação, ainda que exista intervenção conjunta de outros corpos de bombeiros, sem prejuízo de eventual primeira intervenção de algum dos outros em benefício da rapidez e prontidão do socorro.
+
+> Rectificado pelo/a [Declaração de Retificação n.º 4/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2013-257041), em vigor a partir de 2013-02-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2012-11-26
+
+###### Artigo 6.º — Tutela
+
+1 - Ressalvando a autonomia das entidades detentoras de corpos de bombeiros e sem prejuízo do disposto no presente decreto-lei, a ANPC exerce a tutela sobre os corpos de bombeiros nos seguintes termos:
+
+a) Definição das áreas de actuação;
+
+b) Coordenação, inspeção técnica e comando operacional integrado, no âmbito e de acordo com o sistema integrado de operações de proteção e socorro (SIOPS);
+
+c) Homologação da adequação técnico-operacional de veículos e definição das características técnicas de veículos e equipamentos;
+
+d) Definição dos programas de formação e de instrução.
+
+2 - A tutela da ANPC sobre os corpos de bombeiros mistos ou voluntários criados e detidos pelas associações humanitárias de bombeiros é exercida, ainda, nas seguintes áreas:
+
+a) Aprovação dos regulamentos internos;
+
+b) Homologação dos quadros de pessoal.
+
+3 - As câmaras municipais dão conhecimento à ANPC dos regulamentos internos e dos quadros de pessoal dos respetivos corpos de bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2012-11-26
+
+#### Secção II — Organização dos corpos de bombeiros
+
+###### Artigo 7.º — Espécies de corpos de bombeiros
+
+1 - Nos municípios podem existir os seguintes corpos de bombeiros:
+
+a) Corpos de bombeiros profissionais;
+
+b) Corpos de bombeiros mistos;
+
+c) Corpos de bombeiros voluntários;
+
+d) Corpos privativos de bombeiros.
+
+2 - Os corpos de bombeiros profissionais têm as características seguintes:
+
+a) São criados, detidos e mantidos na dependência directa de uma câmara municipal;
+
+b) São exclusivamente integrados por elementos profissionais;
+
+c) Detêm uma estrutura que pode compreender a existência de regimentos, batalhões, companhias ou secções, ou pelo menos, de uma destas unidades estruturais;
+
+d) Designam-se bombeiros sapadores.
+
+3 - Os corpos de bombeiros mistos têm as características seguintes:
+
+a) São dependentes de uma câmara municipal ou de uma associação humanitária de bombeiros;
+
+b) São constituídos por bombeiros profissionais e por bombeiros voluntários, sujeitos aos respectivos regimes jurídicos;
+
+c) Estão organizados, de acordo com o modelo próprio, definido pela respectiva câmara municipal ou pela associação humanitária de bombeiros, nos termos de regulamento aprovado pela ANPC, ouvido o Conselho Nacional de Bombeiros.
+
+4 - Os corpos de bombeiros voluntários têm as características seguintes:
+
+a) Pertencem a uma associação humanitária de bombeiros;
+
+b) São constituídos por bombeiros em regime de voluntariado;
+
+c) Podem dispor de uma unidade profissional mínima a definir por regulamento da ANPC, ouvido o Conselho Nacional de Bombeiros.
+
+5 - Os corpos privativos de bombeiros têm as características seguintes:
+
+a) Pertencem a uma pessoa colectiva privada que tem necessidade, por razões da sua actividade ou do seu património, de criar e manter um corpo profissional de bombeiros para autoprotecção;
+
+b) São integrados por bombeiros com a formação adequada;
+
+c) Organizam-se segundo um modelo adequado às suas missões e objectivos, nos termos de regulamento aprovado pela ANPC;
+
+d) Têm uma área de actuação definida dentro dos limites da propriedade da entidade ou entidades à qual pertencem, podendo actuar fora dessa área por requisição do presidente de câmara no respectivo município, ou da ANPC, quando fora do município, que suporta os encargos inerentes;
+
+e) A sua criação e manutenção constituem encargo das entidades a que pertencem, não sendo abrangidas por apoios da ANPC.
+
+###### Artigo 8.º — Veículos e equipamentos
+
+Os tipos, características, classificações, normalização técnica e dotações mínimas de veículos e demais equipamentos operacionais que podem ser detidos pelos corpos de bombeiros, dos diversos tipos e espécies, são definidos por regulamento da ANPC, depois de ouvido o Conselho Nacional de Bombeiros, e homologados por despacho do Ministro da Administração Interna.
+
+#### Secção III — Quadros dos corpos de bombeiros
+
+###### Artigo 9.º — Quadros de pessoal
+
+1 - Os quadros dos corpos de bombeiros profissionais e mistos detidos pelos municípios, bem como dos corpos privativos de bombeiros, estruturam-se de acordo com o regime a definir em diploma próprio.
+
+2 - Os bombeiros que compõem os corpos de bombeiros voluntários ou mistos detidos por associações humanitárias de bombeiros, integram os seguintes quadros de pessoal:
+
+a) Quadro de comando;
+
+b) Quadro activo;
+
+c) Quadro de reserva;
+
+d) Quadro de honra.
+
+3 - O quadro de comando é constituído pelos elementos do corpo de bombeiros a quem é conferida a autoridade para organizar, comandar e coordenar as actividades exercidas pelo respectivo corpo, incluindo, a nível operacional, a definição estratégica dos objectivos e das missões a desempenhar.
+
+4 - O quadro ativo é constituído pelos elementos pertencentes às respetivas carreiras e aptos para a execução das missões a que se refere o artigo 3.º, normalmente integrados em equipas, em cumprimento das ordens que lhes são determinadas pela hierarquia, bem como das normas e procedimentos estabelecidos.
+
+5 - O quadro de reserva é constituído pelos elementos que atinjam o limite de idade para permanecer na sua categoria ou que, não podendo permanecer no quadro ativo por motivos profissionais ou pessoais, o requeiram e obtenham aprovação do comandante do corpo de bombeiros, e ainda pelos elementos, que nos últimos 12 meses, não tenham cumprido o serviço operacional previsto no artigo 17.º
+
+6 - O quadro de honra é constituído pelos elementos com 40 ou mais anos de idade que, com zelo, dedicação, disponibilidade e abnegação, exerceram funções ou prestaram serviço efetivo durante 15 ou mais anos, sem qualquer punição disciplinar nos últimos três anos, nos quadros de comando ou ativo de um corpo de bombeiros, e ainda aqueles que, independentemente da idade e do tempo de serviço prestado, adquiriram incapacidade por doença ou acidente ocorrido em serviço ou tenham prestado serviços de caráter relevante à causa dos bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2012-11-26
+
+###### Artigo 10.º — Dotação de pessoal nos quadros
+
+1 - A dotação em recursos humanos dos quadros de comando e activo dos corpos de bombeiros profissionais e mistos detidos e mantidos na dependência de um município é fixada em decreto-lei.
+
+2 - A estrutura do quadro de comando dos corpos de bombeiros voluntários ou mistos detidos pelas associações humanitárias de bombeiros tem a dotação máxima de cinco elementos.
+
+3 - A dotação em recursos humanos dos corpos de bombeiros mistos e voluntários detidos e mantidos na dependência de uma associação humanitária de bombeiros tem a seguinte tipologia:
+
+a) Tipo 4 - até 60 elementos;
+
+b) Tipo 3 - até 90 elementos;
+
+c) Tipo 2 - até 120 elementos;
+
+d) Tipo 1 - superior a 120 elementos.
+
+4 - A dotação de oficiais bombeiros no quadro activo não pode ser superior a 25% da dotação efectiva dos elementos de carreira de bombeiro.
+
+5 - O número de elementos dos corpos de bombeiros não pertencentes aos quadros de comando e activo não releva para efeitos de tipificação.
+
+> Rectificado pelo/a [Declaração de Retificação n.º 4/2013 - Diário da República n.º 13/2013, Série I de 2013-01-18](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2013-257041), em vigor a partir de 2013-02-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2012-11-26
+
+###### Artigo 11.º — Situação no quadro
+
+1 - Os bombeiros voluntários dos quadros de comando e ativo dos corpos de bombeiros voluntários e mistos podem encontrar-se nas situações de atividade ou inatividade.
+
+2 - Encontram-se na situação de actividade no quadro os elementos que estão no desempenho activo das missões confiadas ao corpo de bombeiros, de acordo com as escalas de serviço e ainda:
+
+a) Os que estão no gozo autorizado de férias ou de licença por doença, por acidente em serviço, maternidade ou paternidade, nos termos da lei;
+
+b) Os bombeiros do sexo feminino que se encontram indisponíveis para o desempenho assíduo e activo de funções por motivos de gravidez, parto e pós-parto, num período máximo de um ano;
+
+c) Os que estão ausentes por tempo não superior a um ano em missão considerada, nos termos da lei, de relevante serviço público.
+
+3 - Consideram-se na situação de inactividade:
+
+a) Os que se encontram fora do exercício de funções por tempo não superior a um ano e por motivo diverso dos referidos no número anterior;
+
+b) Aqueles a quem foi aplicada a pena de suspensão.
+
+4 - Aos elementos que integram o quadro de comando não é aplicável o disposto na alínea a) do número anterior;
+
+5 - O tempo decorrido na situação de inactividade não é considerado para efeitos de contagem de tempo de serviço e suspende os direitos previstos no regime jurídico dos bombeiros portugueses.
+
+6 - O comandante do corpo de bombeiros remete anualmente à ANPC e à respectiva câmara municipal, em modelo próprio e por via informática, a relação do pessoal que se encontra na situação de actividade no quadro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2012-11-26
+
+###### Artigo 12.º — Quadro de comando nos corpos de bombeiros voluntários ou mistos
+
+1 - A estrutura do quadro de comando nos corpos mistos e voluntários detidos pelas associações humanitárias de bombeiros é composta por:
+
+a) Comandante;
+
+b) 2.º comandante;
+
+c) Adjuntos de comando.
+
+2 - O comando do corpo de bombeiros tem por atribuições organizar, comandar e coordenar as atividades exercidas pelo respetivo corpo, incluindo, a nível operacional, a definição estratégica dos objetivos e das missões a desempenhar no âmbito da competente área de atuação.
+
+3 - Ao comandante compete o comando, direção, administração e organização da atividade do corpo de bombeiros, sendo o primeiro responsável pelo desempenho do corpo de bombeiros e dos seus elementos, no cumprimento das missões que lhes são cometidas, sem prejuízo dos poderes da entidade detentora do corpo de bombeiros e da ANPC.
+
+4 - Ao 2.º comandante compete coadjuvar o comandante, substituí-lo nas suas ausências e impedimentos e superintender a atividade do Núcleo de Apoio e Estado-Maior.
+
+5 - Aos adjuntos de comando compete apoiar o comandante e o 2.º comandante, bem como superintender a atividade da estrutura operacional, nas áreas atribuídas pelo comandante.
+
+6 - A estrutura do comando dos corpos de bombeiros é composta:
+
+a) Nos corpos de bombeiros voluntários ou mistos de tipo 4 e tipo 3, por um comandante, um 2.º comandante e um adjunto;
+
+b) Nos corpos de bombeiros voluntários ou mistos de tipo 2, por um comandante, um 2.º comandante e dois adjuntos;
+
+c) Nos corpos de bombeiros voluntários ou mistos de tipo 1, por um comandante, um 2.º comandante e três adjuntos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2013-02-01
+
+###### Artigo 13.º — Quadro activo nos corpos de bombeiros voluntários ou mistos
+
+1 - O quadro ativo compreende as seguintes carreiras:
+
+a) Carreira de oficial bombeiro;
+
+b) Carreira de bombeiro.
+
+c) Carreira de bombeiro especialista.
+
+2 - À carreira de oficial bombeiro correspondem funções técnicas superiores de chefia.
+
+3 - À carreira de bombeiro correspondem funções de execução e chefia intermédia.
+
+4 - À carreira de bombeiro especialista correspondem funções especializadas de apoio e socorro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2013-02-01
+
+###### Artigo 14.º — Quadro de reserva nos corpos de bombeiros voluntários ou mistos
+
+1 - Integram o quadro de reserva:
+
+a) Os elementos dos corpos de bombeiros que atinjam o limite de idade para permanência na respectiva carreira e não reúnam os requisitos para ingressar no quadro de honra;
+
+b) Os que estejam impedidos de prestar serviço regular por período superior a um ano;
+
+c) Os que, por razões de saúde, revelem incapacidade ou dificuldade no exercício das suas funções;
+
+d) Os elementos do quadro activo que não tenham cumprido, durante o ano anterior, o serviço operacional previsto no artigo 17.º do presente decreto-lei.
+
+2 - Os elementos do quadro de reserva podem solicitar o seu regresso ao quadro ativo, desde que exista vaga no respetivo quadro e para tal reúnam condições físicas e técnicas, nomeadamente quanto à instrução e formação consideradas necessárias para o desempenho do exercício da função.
+
+3 - No caso previsto na alínea d) do n.º 1, os elementos só podem solicitar o seu regresso ao quadro ativo decorridos 90 dias a contar da data da sua transição para o quadro de reserva e verificados os pressupostos referidos no número anterior.
+
+4 - Compete ao comandante do corpo de bombeiros verificar se os elementos do quadro de reserva que requeiram o regresso ao quadro ativo reúnem ou não as condições necessárias referidas no n.º 2.
+
+5 - O regresso ao quadro ativo não pode ser autorizado mais que cinco vezes a cada bombeiro, no decurso da sua carreira.
+
+6 - Nas situações previstas nas alíneas b) e d) do n.º 1, o limite de tempo de permanência no quadro de reserva é de 10 anos, findo o qual o bombeiro é excluído dos quadros, sem prejuízo de poder requerer a sua passagem para o quadro de honra.
+
+7 - Na situação prevista no número anterior, o bombeiro perde o vínculo ao corpo de bombeiros, salvo se transitar para o quadro de honra.
+
+8 - Os elementos do quadro de reserva devem ser dotados de fardamento e equipamento adequado e incluídos em apólice especial de seguros de acidentes pessoais, desde que lhes sejam atribuídas as funções ou missões referidas no número seguinte.
+
+9 - O comandante do corpo de bombeiros pode acordar com os elementos que integram o quadro de reserva a execução das seguintes funções ou missões:
+
+a) Integrar a representação do corpo de bombeiros em cerimónias, festividades e outros actos similares;
+
+b) Colaborar, partilhando a experiência e os conhecimentos adquiridos, em acções de formação, no seio do corpo de bombeiros;
+
+c) Colaborar nas diversas atividades desenvolvidas pelo corpo de bombeiros, compatíveis com as respetivas capacidades físicas e aptidões técnicas.
+
+10 - Aos elementos que integram o quadro de reserva está vedado o exercício de qualquer atividade operacional.
+
+11 - O tempo decorrido na situação de reserva não é considerado para efeitos de contagem de tempo de serviço.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2013-02-01
+
+###### Artigo 15.º — Quadro de honra nos corpos de bombeiros voluntários ou mistos
+
+1 - Podem ingressar no quadro de honra, no cargo que detinham, os elementos do quadro de comando que:
+
+a) Tenham 40 ou mais anos de idade e exercido funções de comando durante mais de 15 anos;
+
+b) Tenham 40 ou mais anos de idade e prestado serviço efetivo, no corpo de bombeiros, com zelo, dedicação, disponibilidade e abnegação, durante mais de 20 anos, com pelo menos 10 anos de funções no quadro de comando;
+
+c) Independentemente da idade e do tempo de serviço, tenham adquirido incapacidade física em resultado de doença ou acidente ocorridos no exercício das funções de comando;
+
+d) Independentemente da idade e do tempo de serviço, tenham prestado serviços à causa dos bombeiros nas funções de comando, classificados, justificadamente, como de caráter excecional.
+
+2 - Podem ingressar no quadro de honra os elementos do quadro ativo que:
+
+a) Tenham 40 ou mais anos de idade e prestado serviço efetivo, com zelo, dedicação, disponibilidade e abnegação, durante mais de 15 anos;
+
+b) Independentemente da idade e do tempo de serviço, tenham adquirido incapacidade física em resultado de doença ou acidente ocorridos em serviço;
+
+c) Independentemente da idade e do tempo de serviço, tenham prestado serviços à causa dos bombeiros, classificados, justificadamente, como de caráter excecional.
+
+3 - Podem ingressar no quadro de honra os elementos do quadro de reserva que venham a reunir os requisitos previstos no número anterior.
+
+4 - Para efeitos do disposto na alínea d) do n.º 1 e da alínea c) do n.º 2, o elemento deverá ser titular de medalha de mérito de proteção e socorro com o distintivo azul, estabelecida na portaria n.º 980-A/2006 (2.ª série), de 14 de junho, conferida pelo Ministro da Administração Interna ou pelo presidente da ANPC, ou distinção honorífica atribuída pela Liga dos Bombeiros Portugueses, designadamente, a fénix de honra, o crachá de ouro ou a medalha de coragem e abnegação.
+
+5 - O ingresso no quadro de honra é feito a requerimento do interessado, dirigido à ANPC, e depende de parecer favorável da entidade detentora do corpo de bombeiros, caso se trate do comandante, ou do comandante e da entidade detentora do corpo de bombeiros, tratando-se dos restantes elementos.
+
+6 - O ingresso no quadro de honra de elementos do quadro ativo permite a promoção, a título honorífico, à categoria seguinte da que era exercida na respetiva carreira do quadro ativo, desde que requerida pelo interessado, obtido o parecer favorável das entidades referidas no número anterior.
+
+7 - O comandante do corpo de bombeiros pode acordar com os elementos que integram o quadro de honra a execução das seguintes funções ou missão:
+
+a) Integrar a representação do corpo de bombeiros em cerimónias, festividades e outros actos similares;
+
+b) Colaborar, partilhando a experiência e os conhecimentos adquiridos, em acções de formação, no seio do corpo de bombeiros;
+
+c) Colaborar nas diversas actividades desenvolvidas pelo corpo de bombeiros, compatíveis com as respectivas capacidades físicas e intelectuais.
+
+8 - Para os fins do número anterior, os elementos do quadro de honra devem ser dotados de fardamento adequado e, bem assim, incluídos em apólice especial de seguros de acidentes pessoais.
+
+9 - Aos elementos que integram o quadro de honra está vedado o exercício de qualquer atividade operacional.
+
+10 - Os elementos do quadro de honra não podem solicitar o seu regresso ao quadro ativo, podendo, no entanto, ser nomeados para a estrutura de comando.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2013-02-01
+
+#### Secção IV — Actividade operacional
+
+###### Artigo 16.º — Unidade de comando
+
+Os corpos de bombeiros organizam-se de acordo com o princípio da unidade de comando.
+
+###### Artigo 17.º — Serviço operacional
+
+1 - A actividade operacional desenvolvida pelo pessoal dos corpos de bombeiros tem natureza interna ou externa.
+
+2 - A actividade interna é prestada no perímetro interior das instalações do corpo de bombeiros, de acordo com os regulamentos.
+
+3 - A actividade externa é prestada fora das instalações, no cumprimento das missões previstas no artigo 3.º do presente decreto-lei.
+
+4 - Na sua área de actuação, cada corpo de bombeiros assegura a actividade operacional em todos os serviços para os quais for solicitado e seja considerado apto ou, fora dela, em todos aqueles que, nos termos legais, lhe forem requisitados.
+
+5 - Nos municípios em que se justifique, os corpos de bombeiros voluntários ou mistos detidos pelas associações humanitárias de bombeiros podem dispor de equipas de intervenção permanente, cuja composição e funcionamento é definida por portaria do membro do Governo responsável pela área da administração interna.
+
+6 - Os municípios em cuja área territorial atuem as equipas de intervenção permanente podem apoiar o funcionamento das mesmas, designadamente comparticipando nos custos com seguros de acidentes de trabalho dos elementos que integram as equipas de intervenção permanente e nos custos com a aquisição de equipamentos a elas afetos.
+
+7 - O serviço operacional dos bombeiros voluntários, designadamente no que concerne ao número de horas de actividade, tipologia de serviço a prestar e obrigações no âmbito da formação que devem ser cumpridas para obtenção dos direitos, benefícios e regalias previstos no regime jurídico dos bombeiros portugueses, é aprovado por portaria do membro do Governo responsável pela área da administração interna, ouvido o Conselho Nacional de Bombeiros.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 103/2018 - Diário da República n.º 230/2018, Série I de 2018-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2018-117142869), em vigor a partir de 2018-12-04, produz efeitos a partir de 2019-01-01
+
+###### Artigo 18.º — Forças conjuntas
+
+1 - Podem ser criadas forças conjuntas, constituídas por elementos pertencentes a diferentes corpos de bombeiros, cujas áreas de atuação sejam contíguas, com o objetivo de desenvolverem a sua atividade de forma partilhada.
+
+2 - A criação de forças conjuntas depende de autorização da ANPC.
+
+3 - O regime da criação, funcionamento e comando das forças conjuntas é aprovado por portaria do membro do Governo responsável pela área da proteção civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2013-02-01
+
+###### Artigo 18.º-A — Agrupamentos
+
+1 - Podem ser criados agrupamentos de corpos de bombeiros que integrem uma parte ou a totalidade dos elementos pertencentes a diferentes corpos de bombeiros cujas áreas de atuação sejam contíguas.
+
+2 - A constituição de agrupamentos de corpos de bombeiros depende da criação prévia de agrupamentos de associações humanitárias ou de outras entidades detentoras de corpos de bombeiros.
+
+3 - A criação de agrupamentos de corpos de bombeiros depende de autorização da ANPC.
+
+4 - O regime da criação, funcionamento, comando e financiamento dos agrupamentos de corpos de bombeiros é aprovado por portaria do membro do Governo responsável pela área da proteção civil.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2012-11-26
+
+###### Artigo 19.º — Forças especiais
+
+1 - No âmbito do cumprimento das missões previstas no artigo 3.º, a ANPC pode organizar forças especiais com base no recrutamento de oficiais bombeiros e bombeiros do quadro activo dos corpos mistos ou voluntários.
+
+2 - As forças especiais podem cumprir missões de cooperação internacional ou de auxílio a operações nas Regiões Autónomas.
+
+3 - As forças especiais devem ter uma estrutura e comando próprio.
+
+4 - A estrutura de comando é constituída por recrutamento no âmbito dos quadros de comando dos corpos de bombeiros mistos ou voluntários.
+
+###### Artigo 19.º-A — Dispositivo operacional dos corpos de bombeiros
+
+É definido por portaria do membro do Governo responsável pela área da proteção civil o dispositivo operacional dos corpos de bombeiros, para efeitos de coordenação, comando e controlo, em articulação com a ANPC e as câmaras municipais das áreas de atuação envolvidas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2012-11-26
+
+### Capítulo III — Instrução e formação
+
+###### Artigo 20.º — Instrução
+
+1 - A instrução do pessoal dos corpos de bombeiros é ministrada sob a direção e orientação do comandante, de acordo com programa previamente estabelecido e aprovado pela ANPC, ouvidos a Escola Nacional de Bombeiros, enquanto autoridade pedagógica da formação, e o Conselho Nacional de Bombeiros.
+
+2 - A instrução visa o treino e o saber-fazer, através do aperfeiçoamento permanente dos conhecimentos adquiridos pelo pessoal dos corpos de bombeiros nas ações de formação.
+
+3 - O comandante elabora, até ao final de cada ano, um plano de instrução que estabelece as actividades mínimas a desenvolver no ano seguinte, pelo seu corpo de bombeiros, do qual dá conhecimento à entidade detentora e submete a aprovação da ANPC.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2013-02-01
+
+###### Artigo 21.º — Formação
+
+1 - Os elementos do quadro de comando e do quadro ativo, que se encontrem na situação de atividade, têm direito à formação adequada para o exercício da missão de socorro e ainda à frequência de cursos, colóquios, seminários e outras ações destinadas ao aperfeiçoamento técnico.
+
+2 - A formação compreende as seguintes modalidades:
+
+a) Formação inicial, destinada a habilitar os cadetes e estagiários para o ingresso na carreira de bombeiro;
+
+b) Formação inicial, destinada a habilitar os estagiários para o ingresso nas carreiras de oficial bombeiro e de bombeiro especialista;
+
+c) Formação de acesso, destinada a todos os elementos das carreiras de oficial bombeiro e bombeiro, necessária à progressão na carreira;
+
+d) Formação de quadro de comando, destinada a habilitar os elementos nomeados para o exercício dos cargos.
+
+3 - O comandante elabora, até 31 de outubro de cada ano, um plano de necessidades de formação inicial e acesso para o pessoal do seu corpo de bombeiros para o ano seguinte, do qual dá conhecimento à entidade detentora e remete à ANPC para efeitos de planeamento.
+
+4 - Quando se trate de acções formativas cuja realização ou simples frequência esteja prevista no plano de actividades da ANPC, a participação dos bombeiros pode envolver, em condições a definir pela mesma entidade, o pagamento de comparticipações por salários perdidos, despesas de transportes, alojamento e alimentação, ocasionados por ausências ao serviço, autorizadas pelas respectivas entidades empregadoras e por deslocações para fora da área do corpo de bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2013-02-01
+
+###### Artigo 22.º — Formação específica
+
+Compete à ANPC assegurar acções de formação necessárias ao ingresso nas estruturas de comando, ao ingresso e progressão nas carreiras de oficial bombeiro e de bombeiro.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2013-02-01
+
+### Capítulo IV — Registo e recenseamento
+
+###### Artigo 23.º — Processos individuais
+
+1 - Os corpos de bombeiros dispõem de um processo individual de cada bombeiro, independentemente do quadro a que pertença, do qual constam os factos relacionados com o tempo e a qualidade do serviço prestado, incluindo o seu registo disciplinar.
+
+2 - O modelo de processo individual é aprovado pela ANPC, ouvido o Conselho Nacional de Bombeiros.
+
+###### Artigo 24.º — Recenseamento nacional
+
+1 - Compete à ANPC criar e manter o Recenseamento Nacional dos Bombeiros Portugueses.
+
+2 - Os corpos de bombeiros, através da sua entidade detentora, devem manter permanentemente atualizada no Recenseamento Nacional dos Bombeiros Portugueses, por via informática, a informação sobre os seus quadros ativo, de reserva e de honra, com base nos elementos fornecidos pelo comandante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2013-02-01
+
+### Capítulo V — Disposições transitórias e finais
+
+###### Artigo 25.º — Regulamentos internos
+
+Com base em modelo a elaborar pela ANPC, os corpos de bombeiros devem adaptar os seus regulamentos internos ao presente decreto-lei, no prazo máximo de 90 dias contados a partir da sua entrada em vigor.
+
+###### Artigo 26.º — Regulamento de ordem unida, honra e continências
+
+A matéria respeitante à ordem unida, honra e continências consta de regulamento aprovado por portaria do membro do Governo responsável pela administração interna, ouvido o Conselho Nacional de Bombeiros.
+
+###### Artigo 27.º — Transição de quadros
+
+Os bombeiros voluntários do actual quadro de especialistas e auxiliares são integrados nas carreiras de bombeiros previstas no presente decreto-lei, nos termos a fixar por despacho do membro do Governo responsável pela área da administração interna, ouvido o Conselho Nacional de Bombeiros.
+
+###### Artigo 28.º — Regulamentação
+
+A regulamentação prevista no presente decreto-lei deve ser aprovada dentro de 180 dias após a publicação do decreto-lei.
+
+###### Artigo 29.º — Escolas de infantes e cadetes
+
+1 - Os corpos de bombeiros podem criar e deter escolas de infantes e cadetes.
+
+2 - As escolas de infantes e cadetes destinam-se à formação no âmbito do voluntariado e da protecção e socorro.
+
+3 - O universo de recrutamento das escolas de infantes é feito de entre indivíduos com idades entre os seis e os 13 anos.
+
+4 - O universo de recrutamento das escolas de cadetes é feito de entre indivíduos com idades entre os 14 e os 16 anos.
+
+5 - A matéria objeto da formação a que se refere o n.º 2 articula-se com a área de formação cívica ministrada no ensino básico, nos termos a regulamentar por despacho dos membros do Governo responsáveis pelas áreas da proteção civil e da educação.
+
+6 - É vedado aos infantes e cadetes o exercício de actividade operacional.
+
+7 - Os infantes e cadetes integram a apólice de seguros do quadro de reserva do respectivo corpo de bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 248/2012 - Diário da República n.º 225/2012, Série I de 2012-11-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2012-190872), em vigor a partir de 2013-02-01
+
+###### Artigo 30.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 295/2000, de 17 de Novembro;
+
+b) O Decreto Regulamentar n.º 41/97, de 7 de Outubro.
+
+###### Artigo 31.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do 3.º mês após a sua publicação, sem prejuízo do disposto no artigo 28.º
+
+Visto e aprovado em Conselho de Ministros de 15 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - José Manuel Santos de Magalhães - Emanuel Augusto dos Santos - José António Fonseca Vieira da Silva - Maria de Lurdes Reis Rodrigues.
+
+Promulgado em 7 de Junho de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 8 de Junho de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

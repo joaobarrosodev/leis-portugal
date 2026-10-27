@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:680450:por
+title: Portaria n.º 20265
+short_title: null
+summary: Aprova e manda pôr em execução, a partir de 1 de Janeiro de 1964, as tabelas de vencimentos e salários a abonar ao
+  pessoal civil dos estabelecimentos fabris do Exército que substituem as da Portaria n.º 17257
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho e Ministérios das Finanças, do Exército e das Corporações e Previdência Social
+proposing_entity: null
+official_number: '20265'
+official_date: null
+publication_date: '1963-12-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 305/1963, Série I de 1963-12-30
+  number: '305'
+  series: I
+  supplement: null
+  pages: 2171 - 2174
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/12/30500/21712174.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '680450'
+  dre_path: /dr/detalhe/portaria/20265-1963-680450
+  internal: pt:dre:680450:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/20265-1963-680450
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20265-1963-680450
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:38:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0483b940993f1b4e5cd5d1cf5ffd74e051501f70bdba28eea9ddb1d9fbad39fd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:38:15Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estabelecimentos Fabris do Exército
+- Exército
+- Forças Armadas
+- Manutenção Militar
+- Oficinas Gerais de Fardamento e Equipamento
+- Oficinas Gerais de Material de Engenharia
+- Pessoal Civil
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:488570:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:337641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432993:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:38:15Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 20265
+
+Considerando a necessidade de ajustar os vencimentos e salários do pessoal civil dos estabelecimentos fabris do Exército;
+
+Considerando ainda que a evolução da técnica industrial e a intensificação da produtividade exigem a criação de algumas categorias do pessoal técnico, às quais se torna necessário atribuir remunerações;
+
+Tendo presentes as tabelas de vencimentos e salários aprovadas para o pessoal de outros estabelecimentos fabris do Estado e tendo também em atenção os ordenados e salários pagos pela indústria particular:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Defesa Nacional, das Finanças, do Exército e das Corporações e Previdência Social, nos termos do § único do artigo 39.º do [Decreto-Lei n.º 41892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41892-1958-337641), de 3 de Outubro de 1958, aprovar e pôr em execução, a partir de 1 de Janeiro de 1964, as tabelas de vencimentos e salários a abonar ao pessoal civil dos estabelecimentos fabris do Exército, constantes dos anexos à presente portaria, as quais substituem as da [Portaria n.º 17257](https://diariodarepublica.pt/dr/detalhe/portaria/17257-1959-432993), de 6 de Julho de 1959.
+
+Presidência do Conselho e Ministérios das Finanças, do Exército e das Corporações e Previdência Social, 30 de Dezembro de 1963. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro do Exército, Joaquim da Luz Cunha. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.
+
+Anexo n.º 1 à Portaria n.º 20265, de 30 de Dezembro de 1963
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/12/30500/21712174.pdf)
+
+Anexo n.º 2 à Portaria n.º 20265, de 30 de Dezembro de 1963
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/12/30500/21712174.pdf)
+
+Anexo n.º 3 à Portaria n.º 20265, de 30 de Dezembro de 1963
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/12/30500/21712174.pdf)
+
+Presidência do Conselho e Ministérios das Finanças, do Exército e das Corporações e Previdência Social, 30 de Dezembro de 1963. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo. - O Ministro das Finanças, António Manuel Pinto Barbosa. - O Ministro do Exército, Joaquim da Luz Cunha. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença.

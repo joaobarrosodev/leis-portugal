@@ -1,0 +1,545 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:324536:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1978-121875475",
+ "dre_path": "/dr/detalhe/decreto-lei/388-1978-324536",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1978-12-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "180035306",
+    "121748837",
+    "121748838",
+    "121748839",
+    "121748840",
+    "121748841",
+    "121748842",
+    "121748843"
+   ]
+  },
+  {
+   "date": "1979-03-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:383426:por",
+     "title": "Lei n.º 10/79",
+     "published": "1979-03-20",
+     "dre_path": "/dr/detalhe/lei/10-1979-383426"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "121748836",
+    "121875656",
+    "121875657",
+    "121875658",
+    "121875659",
+    "121875660",
+    "121875661",
+    "121875662",
+    "121875648",
+    "121875650",
+    "121875652",
+    "121875654",
+    "121875655"
+   ]
+  },
+  {
+   "date": "1980-07-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:471881:por",
+     "title": "Decreto-Lei n.º 212/80",
+     "published": "1980-07-09",
+     "dre_path": "/dr/detalhe/decreto-lei/212-1980-471881"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "121748836",
+    "121875656",
+    "121875663",
+    "121875658",
+    "121875659",
+    "121875660",
+    "121875661",
+    "121875662",
+    "121875648",
+    "121875650",
+    "121875652",
+    "121875654",
+    "121875655"
+   ]
+  },
+  {
+   "date": "1991-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:468019:por",
+     "title": "Decreto-Lei n.º 97/91",
+     "published": "1991-03-02",
+     "dre_path": "/dr/detalhe/decreto-lei/97-1991-468019"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "121748836",
+    "121875656",
+    "121875663",
+    "121875658",
+    "121875659",
+    "121875664",
+    "121875661",
+    "121875662",
+    "121875648",
+    "121875650",
+    "121875652",
+    "121875654",
+    "121875655"
+   ]
+  },
+  {
+   "date": "2019-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:121748967:por",
+     "title": "Decreto-Lei n.º 45/2019",
+     "published": "2019-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/45-2019-121748967"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "121748836",
+    "121875656",
+    "121875663",
+    "121875658",
+    "121875659",
+    "121875665",
+    "121875661",
+    "121875662",
+    "121875648",
+    "121875650",
+    "121875652",
+    "121875654",
+    "121875655"
+   ]
+  },
+  {
+   "date": "2019-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122434535:por",
+     "title": "Lei n.º 36/2019",
+     "published": "2019-05-29",
+     "dre_path": "/dr/detalhe/lei/36-2019-122434535"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "180035306",
+    "180035307",
+    "180035308",
+    "180035309",
+    "180035310",
+    "180035311",
+    "180035312",
+    "180035313",
+    "180035314",
+    "180035315",
+    "180035316",
+    "180035317",
+    "180035318"
+   ]
+  }
+ ],
+ "fragments": {
+  "180035306": {
+   "fragment_id": "121875476",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-06-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 388/78\n\nde 9 de Dezembro\n\nOs serviços de protecção e extinção de incêndios encontram-se fundamentalmente a cargo de corpos de bombeiros municipais e voluntários, bem como, em Lisboa e Porto, de batalhões de sapadores bombeiros.\n\nNo aspecto organizacional a nível de País, existe ainda no Ministério da Administração Interna, como entidade de tutela, o Conselho Nacional dos Serviços de Incêndios e duas inspecções de zona, estas com sede em cada uma das aludidas cidades.\n\nFace à actual problemática que envolve estes serviços de interesse público nacional e às enormes carências em matéria de recursos humanos, de equipamento e de meios financeiros, de que são exemplo constante as insistentes diligências de quem mais de perto tem vivido toda essa problemática, com destaque para a Liga dos Bombeiros Portugueses e as próprias inspecções de incêndios, torna-se imperiosa a reestruturação dos órgãos acima referidos, de modo a permitir dar melhor satisfação aos interesses em causa.\n\nPara além de outros aspectos inovadores que se introduzem em relação à estrutura criada pelo Decreto-Lei n.º 35746, de 12 de Julho de 1946, realça-se a circunstância de o novo órgão agora criado - Conselho Coordenador do Serviço de Bombeiros - ter designação diferente da actual, alteração que se afigura mais ajustada à realidade que se pretende traduzir, visto não ser exclusivamente de combate a incêndios todo o conjunto de acções a desenvolver pelos corpos de bombeiros.\n\nSalienta-se, finalmente, que as modificações estruturais agora introduzidas, e sobre as quais foi oportunamente ouvida a Liga dos Bombeiros Portugueses, constituem apenas um primeiro passo, de carácter transitório, para a reformulação de toda a estrutura orgânica dos serviços de incêndios, em ordem à execução possível e gradual de soluções preconizadas pela Comissão de Reestruturação do Serviço Nacional de Incêndios, ditado pela extrema urgência que existe em obter maior capacidade de resposta administrativa e orçamental para as necessidades prementes que vêm surgindo, já que tudo indica ser tal reformulação a meta desejada.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "121748837": {
+   "fragment_id": "121875477",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É criado no Gabinete de Apoio às Autarquias Locais o Conselho Coordenador do Serviço de Bombeiros (CCSB), com a seguinte composição:\n\nPresidente - Director-geral do Gabinete de Apoio às Autarquias Locais;\n\nVogais:\n\nInspector de Incêndios da Zona Sul;\n\nInspector de Incêndios da Zona Norte;\n\nUm representante dos corpos de bombeiros voluntários da zona sul;\n\nUm representante dos corpos de bombeiros voluntários da zona norte;\n\nUm representante dos corpos de bombeiros municipais;\n\nUm representante do conselho administrativo e técnico da Liga dos Bombeiros Portugueses;\n\nSecretário - Director dos serviços onde se inserem os serviços de apoio ao CCSB ou seu substituto legal.\n\n2 - Os vogais que adquiram essa qualidade a título de representação serão nomeados pelo Ministro da Administração Interna, sob proposta da Liga dos Bombeiros Portugueses, ouvidos os inspectores de incêndios.\n\n3 - O presidente do CCSB disporá de voto de qualidade para efeitos de desempate nas votações que tenham lugar em reuniões deste órgão. O secretário não terá direito a voto.\n\n4 - Por despacho conjunto dos Ministros da Administração Interna e das Finanças e do Plano poderá ser atribuída gratificação aos membros do CCSB pelo exercício das respectivas funções, de reconhecido interesse público.\n\nOs membros a que não seja atribuída tal gratificação terão direito a senhas de presença nos termos legalmente fixados para a função pública.\n\nOs vogais que não residirem em Lisboa terão ainda direito a abono de transporte e a ajudas de custo, estas calculadas pela categoria mais elevada da respectiva tabela."
+  },
+  "121748838": {
+   "fragment_id": "121875478",
+   "type": 11,
+   "heading": "Artigo 2.º — Compete ao Conselho Coordenador do Serviço de Bombeiros:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Compete ao Conselho Coordenador do Serviço de Bombeiros:\n\na) Apoiar o Governo na definição da política a desenvolver no sector;\n\nb) Promover a realização de estudos sobre o melhor ordenamento territorial dos meios de acção de combate a incêndios, propondo as medidas, designadamente de carácter legislativo, destinadas a corrigir assimetrias no domínio da instituição desses meios, permitindo racionalizar a sua implantação a nível regional e local;\n\nc) Promover a realização de acções globais de planeamento, coordenação e implementação de medidas que visem maior economia e uma utilização racional de esforços e de equipamentos de combate a incêndios e colaborar com as entidades responsáveis por outras formas de prestação de socorros também confiadas aos bombeiros;\n\nd) Colaborar com outros departamentos governamentais em matéria relacionada com a acção dos bombeiros, incluindo participação na elaboração de estudos ou projectos de natureza legislativa que versem questões de segurança ou que impliquem riscos de incêndios;\n\ne) Propor a distribuição da colecta cobrada pela Inspecção de Seguros, nos termos legalmente previstos, bem como de outras dotações próprias a inscrever no orçamento do Ministério da Administração Interna para apoio financeiro dos corpos de bombeiros;\n\nf) Incentivar todas as formas de auxílio possível ao cabal exercício da missão dos corpos de bombeiros;\n\ng) Promover a realização de concursos de fornecimento de material de combate a incêndios e correlativos;\n\nh) Fiscalizar a observância, pelos corpos de bombeiros, das leis e regulamentos e transmitir-lhes as instruções necessárias;\n\ni) Deliberar sobre os recursos que, nos termos da lei, lhe sejam apresentados em matéria disciplinar;\n\nj) Exercer as demais atribuições que lhe forem confiadas pelas leis ou regulamentos."
+  },
+  "121748839": {
+   "fragment_id": "121875479",
+   "type": 11,
+   "heading": "Artigo 3.º — - 1 - Compete ao presidente do Conselho Coordenador do Serviço de Bombeiros:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — - 1 - Compete ao presidente do Conselho Coordenador do Serviço de Bombeiros:\n\na) Convocar e dirigir as reuniões;\n\nb) Representar o Conselho e coordenar toda a sua actividade;\n\nc) Assegurar a execução, através dos serviços do Gabinete de Apoio às Autarquias Locais, das deliberações do Conselho;\n\nd) Assegurar a gestão corrente dos assuntos tratados pelos serviços afectos ao CCSB;\n\ne) Praticar os actos para que tenha recebido delegação do Conselho.\n\n2 - O presidente poderá delegar a prática de actos da sua competência própria ou delegada."
+  },
+  "121748840": {
+   "fragment_id": "121875480",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituem fundos do CCSB, destinados a subsidiar os corpos de bombeiros:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Constituem fundos do CCSB, destinados a subsidiar os corpos de bombeiros:\n\na) O produto da colecta prevista no artigo 708.º do Código Administrativo;\n\nb) Dotações inscritas no orçamento do Ministério da Administração Interna para apoio financeiro dos corpos de bombeiros."
+  },
+  "121748841": {
+   "fragment_id": "121875481",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs serviços de apoio ao CCSB, através dos quais será assegurado o respectivo expediente e a resolução dos assuntos que lhe digam respeito, incluindo apoio técnico-jurídico aos inspectores de zona, ficarão a cargo dos competentes serviços do Gabinete de Apoio às Autarquias Locais."
+  },
+  "121748842": {
+   "fragment_id": "121875482",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - As inspecções de zona terão serviço de apoio próprio a cargo de pessoal a destacar do respectivo batalhão, tratando-se de pessoal que exija qualificação no domínio do equipamento e das técnicas de combate a incêndios, ou do Gabinete de Apoio às Autarquias Locais, quando se trate de outro pessoal técnico ou administrativo.\n\n2 - O pessoal a destacar do Batalhão de Sapadores Bombeiros será designado pelo respectivo comandante e o restante mediante despacho do director-geral do Gabinete de Apoio às Autarquias Locais.\n\n3 - O destacamento do pessoal do Gabinete de Apoio às Autarquias Locais depende de acordo prévio dos interessados, salvo quando o recrutamento destes se tenha verificado expressamente com tal finalidade."
+  },
+  "121748843": {
+   "fragment_id": "121875483",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - O presente diploma expressamente revoga os artigos 1.º e 2.º, com excepção do § 1.º, do Decreto-Lei n.º 35746, de 12 de Julho de 1946.\n\n2 - O Conselho Nacional dos Serviços de Incêndios cessará funções na data da constituição do CCSB, agora criado.\n\nAlfredo Jorge Nobre da Costa - José da Silva Lopes - António Gonçalves Ribeiro."
+  },
+  "121748836": {
+   "fragment_id": "121875476",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 388/78\n\nde 9 de Dezembro\n\nOs serviços de protecção e extinção de incêndios encontram-se fundamentalmente a cargo de corpos de bombeiros municipais e voluntários, bem como, em Lisboa e Porto, de batalhões de sapadores bombeiros.\n\nNo aspecto organizacional a nível de País, existe ainda no Ministério da Administração Interna, como entidade de tutela, o Conselho Nacional dos Serviços de Incêndios e duas inspecções de zona, estas com sede em cada uma das aludidas cidades.\n\nFace à actual problemática que envolve estes serviços de interesse público nacional e às enormes carências em matéria de recursos humanos, de equipamento e de meios financeiros, de que são exemplo constante as insistentes diligências de quem mais de perto tem vivido toda essa problemática, com destaque para a Liga dos Bombeiros Portugueses e as próprias inspecções de incêndios, torna-se imperiosa a reestruturação dos órgãos acima referidos, de modo a permitir dar melhor satisfação aos interesses em causa.\n\nPara além de outros aspectos inovadores que se introduzem em relação à estrutura criada pelo Decreto-Lei n.º 35746, de 12 de Julho de 1946, realça-se a circunstância de o novo órgão agora criado - Conselho Coordenador do Serviço de Bombeiros - ter designação diferente da actual, alteração que se afigura mais ajustada à realidade que se pretende traduzir, visto não ser exclusivamente de combate a incêndios todo o conjunto de acções a desenvolver pelos corpos de bombeiros.\n\nSalienta-se, finalmente, que as modificações estruturais agora introduzidas, e sobre as quais foi oportunamente ouvida a Liga dos Bombeiros Portugueses, constituem apenas um primeiro passo, de carácter transitório, para a reformulação de toda a estrutura orgânica dos serviços de incêndios, em ordem à execução possível e gradual de soluções preconizadas pela Comissão de Reestruturação do Serviço Nacional de Incêndios, ditado pela extrema urgência que existe em obter maior capacidade de resposta administrativa e orçamental para as necessidades prementes que vêm surgindo, já que tudo indica ser tal reformulação a meta desejada.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "121875656": {
+   "fragment_id": "121875477",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1979-03-20",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ criado no Ministério da Administração Interna o Serviço Nacional de Bombeiros (SNB), com atribuições de orientar e coordenar as actividades e serviços de socorro exercidos pelos corpos de bombeiros e assegurar a sua articulação, em caso de emergência, com o Serviço Nacional de Protecção Civil.\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875657": {
+   "fragment_id": "121875478",
+   "type": 11,
+   "heading": "Artigo 2.º — Compete ao Conselho Coordenador do Serviço de Bombeiros:",
+   "in_force_from": "1979-03-20",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 2.º — Compete ao Conselho Coordenador do Serviço de Bombeiros:\n\n1 - O SNB fica a cargo do Conselho Coordenador do Serviço Nacional de Bombeiros (CCSNB), que funciona junto do Gabinete de Apoio às Autarquias Locais e que tem a seguinte composição:\n\nPresidente - director-geral do Gabinete de Apoio às Autarquias Locais;\n\nVogais:\n\nInspector de incêndios de cada zona;\n\nUm representante dos corpos de bombeiros voluntários de cada zona;\n\nUm representante dos corpos de bombeiros municipais;\n\nUm representante do conselho administrativo e técnico da Liga dos Bombeiros Portugueses;\n\nSecretário - director dos serviços onde se inserem os serviços de apoio ao CCSNB ou seu substituto legal.\n\n2 - Os representantes dos corpos de bombeiros voluntários e municipais e o representante do conselho administrativo e técnico da Liga dos Bombeiros Portugueses são nomeados pelo Ministro da Administração Interna, sob proposta da Liga dos Bombeiros Portugueses, ouvidos os inspectores de incêndios.\n\n3 - O presidente do CCSNB tem voto de qualidade e o secretário não tem direito a voto.\n\n4 - Por despacho conjunto dos Ministros da Administração Interna e das Finanças e do Plano pode ser atribuída gratificação aos membros do CCSNB pelo exercício das respectivas funções, de reconhecido interesse público.\n\n5 - Os membros a quem não seja atribuída a gratificação referida no número anterior têm direito a senhas de presença, nos termos legalmente fixados para a função pública.\n\n6 - Os vogais que não residam em Lisboa têm também direito a abono de transporte e a ajudas de custo, estas calculadas pela categoria mais elevada da respectiva tabela.\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875658": {
+   "fragment_id": "121875479",
+   "type": 11,
+   "heading": "Artigo 3.º — - 1 - Compete ao presidente do Conselho Coordenador do Serviço de Bombeiros:",
+   "in_force_from": "1979-03-20",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 3.º — - 1 - Compete ao presidente do Conselho Coordenador do Serviço de Bombeiros:\n\n1 - Compete ao CCSNB:\n\na) Apoiar o Governo na definição da política a desenvolver no sector, nomeadamente no respeitante à estruturação e instalação gradual do SNB e de uma escola nacional de fogo, bem como à regularização do seguro de pessoas e viaturas dos corpos de bombeiros;\n\nb) Promover a realização de estudos sobre o melhor ordenamento territorial dos meios de acção de combate a incêndios e de outras formas de socorrismo confiadas a bombeiros, propondo as medidas, designadamente de carácter legislativo, destinadas a corrigir assimetrias no domínio da instituição desses meios e a permitir a racionalização da sua implantação a nível regional e local;\n\nc) Promover a realização, a nível do sector, de acções globais de planeamento, coordenação e implementação de medidas que visem maior economia e uma utilização racional de esforços e de equipamentos de prevenção e combate a incêndios e de outras formas de socorrismo também confiadas aos corpos de bombeiros;\n\nd) Colaborar com outros departamentos governamentais em matéria relacionada com a acção dos corpos de bombeiros, incluindo participação na elaboração de estudos e planos globais de intervenção coordenada, bem como pronunciar-se sobre projectos de natureza legislativa que versem questões de segurança ou impliquem riscos normalmente englobados na acção dos bombeiros;\n\ne) Propor a distribuição da colecta prevista no artigo 5.º, n.º 1, alínea a), nos termos do artigo 6.º, bem como de outras dotações próprias a inscrever no orçamento do Ministério da Administração Interna para apoio financeiro aos corpos de bombeiros;\n\nf) Homologar, a requerimento dos interessados e ouvidos os inspectores de zona, a criação e constituição de novos corpos de bombeiros;\n\ng) Dar parecer sobre as alterações aos quadros de pessoal dos corpos de bombeiros e respectivas classes e categorias, bem como pronunciar-se sobre as equiparações de categorias para os efeitos do disposto no artigo 11.º do Decreto-Lei n.º 76/77, de 1 de Março;\n\nh) Incentivar todas as formas de auxílio possível ao cabal exercício da missão dos corpos de bombeiros;\n\ni) Promover a realização de concursos de fornecimento de material de socorro ou outro necessário ao funcionamento dos corpos de bombeiros;\n\nj) Coadjuvar o exercício coordenado da acção tutelar do Governo sobre os corpos de bombeiros, nomeadamente zelando por que observem as leis e regulamentos em vigor e transmitindo-lhes as instruções regulamentares;\n\nl) Deliberar sobre os recursos que, nos termos da lei, lhe sejam apresentados em matéria disciplinar;\n\nm) Exercer as demais atribuições e competências que lhe forem conferidas por lei ou regulamento.\n\n2 - O CCSNB é equiparado, em competência e em funcionamento, aos conselhos administrativos dos organismos dotados de autonomia administrativa.\n\n3 - O CCSNB elaborará o seu próprio regulamento interno, que deve ser submetido à aprovação do Ministro da Administração Interna.\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875659": {
+   "fragment_id": "121875480",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituem fundos do CCSB, destinados a subsidiar os corpos de bombeiros:",
+   "in_force_from": "1979-03-20",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 4.º — Constituem fundos do CCSB, destinados a subsidiar os corpos de bombeiros:\n\n1 - Compete ao presidente do CCSNB:\n\na) Convocar e dirigir as reuniões;\n\nb) Representar o Conselho e coordenar toda a sua actividade;\n\nc) Assegurar a execução, através dos serviços do Gabinete de Apoio às Autarquias Locais, das deliberações do Conselho;\n\nd) Assegurar a gestão corrente dos assuntos tratados pelos serviços afectos ao CCSNB;\n\ne) Praticar os actos para que tenha recebido delegação do Conselho.\n\n2 - O presidente pode delegar a prática de actos da sua competência própria ou delegada.\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875660": {
+   "fragment_id": "121875481",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1979-03-20",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Constituem receitas consignadas ao SNB para subsidiar os corpos de bombeiros, além de outras:\n\na) 8% sobre os prémios dos seguros contra fogo e 4% sobre os prémios dos seguros agrícolas e pecuários, que as seguradoras ficam autorizadas a cobrar dos segurados;\n\nb) Dotações inscritas no orçamento do Ministério da Administração Interna para apoio financeiro dos corpos de bombeiros.\n\n2 - As entidades seguradoras devem cobrar as percentagens previstas na alínea a) do número anterior conjuntamente com os prémios dos seguros.\n\n3 - No decurso do segundo mês a seguir àquele em que se efectuar a cobrança, as entidades seguradoras devem depositar, sem qualquer dedução, o quantitativo mensal em conta especial na Caixa Geral de Depósitos, à ordem da Inspecção de Seguros.\n\n4 - Nos dez dias subsequentes ao termo do prazo previsto no número anterior, a Inspecção de Seguros enviará ao CCSNB duplicado das guias de depósito e relação das cobranças efectuadas.\n\n5 - A Inspecção de Seguros fornece ao CCSNB, até 31 de Março e 30 de Setembro de cada ano, em relação aos semestres imediatamente anteriores, findos em 31 de Dezembro e 30 de Junho, nota discriminada das importâncias cobradas relativamente a cada concelho.\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875661": {
+   "fragment_id": "121875482",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1979-03-20",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 6.º\n\nO CCSNB sujeitará à aprovação dos Ministros da Administração Interna e das Finanças e do Plano a proposta de distribuição, pelos corpos de bombeiros, da colecta prevista no artigo anterior, tendo em atenção os encargos com o serviço de prevenção e extinção de incêndios existente em cada concelho.\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875662": {
+   "fragment_id": "121875483",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1979-03-20",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 7.º\n\nO apoio ao CCSNB, através do qual é assegurado o respectivo expediente e a resolução dos assuntos que lhe digam respeito e o apoio técnico-jurídico aos inspectores de zona, fica a cargo dos serviços do Gabinete de Apoio às Autarquias Locais.\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875648": {
+   "fragment_id": "121854591",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1979-03-20",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - As inspecções de zona, que funcionam na dependência do CCSNB, têm serviço de apoio próprio a cargo de pessoal a destacar do respectivo batalhão, quando se lhe exija qualificação no domínio do equipamento e das técnicas de combate a incêndios, ou do Gabinete de Apoio às Autarquias Locais, quando se trate de pessoal técnico ou administrativo.\n\n2 - O pessoal a destacar do Batalhão de Sapadores Bombeiros é designado pelo respectivo comandante e o restante mediante despacho do director-geral do Gabinete de Apoio às Autarquias Locais.\n\n3 - O destacamento do pessoal do Gabinete de Apoio às Autarquias Locais depende de acordo prévio dos interessados, salvo quando o recrutamento destes se tenha verificado expressamente com tal fim.\n\n> Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875650": {
+   "fragment_id": "121854592",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1979-03-20",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 9.º\n\nSão revogados os artigos 1.º e 2.º, com excepção do § 1.º, do Decreto-Lei n.º 35746, de 12 de Julho de 1946, bem como qualquer outra legislação incompatível com as disposições do presente diploma.\n\n> Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875652": {
+   "fragment_id": "121854593",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1979-03-20",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - O Conselho Nacional dos Serviços de Incêndios cessa funções na data da constituição do CCSNB agora criado.\n\n2 - A competência atribuída em leis e regulamentos ao Conselho Nacional dos Serviços de Incêndios transita para o CCSNB.\n\n> Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875654": {
+   "fragment_id": "121854594",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1979-03-20",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 11.º\n\n1 - Os encargos decorrentes do funcionamento e instalação do CCSNB são suportados no corrente ano pelo orçamento do Ministério da Administração Interna, em conta das dotações inscritas para a reestruturação do Conselho Nacional dos Serviços de Incêndios.\n\n2 - Fica o Ministro das Finanças e do Plano autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.\n\n> Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875655": {
+   "fragment_id": "121875484",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Promulgado em 30 de Novembro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "121875663": {
+   "fragment_id": "121875478",
+   "type": 11,
+   "heading": "Artigo 2.º — Compete ao Conselho Coordenador do Serviço de Bombeiros:",
+   "in_force_from": "1980-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 212/80 - Diário da República n.º 156/1980, Série I de 1980-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1980-471881), em vigor a partir de 1980-07-14",
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 2.º — Compete ao Conselho Coordenador do Serviço de Bombeiros:\n\n1 - O SNB fica a cargo do Conselho Coordenador do Serviço Nacional de Bombeiros, que funciona na directa dependência do Ministro da Administração Interna e que tem a seguinte composição:\n\nPresidente - um indivíduo de reconhecida competência a nomear por despacho do Ministro da Administração Interna;\n\nVogais:\n\nInspector de incêndios de cada zona;\n\nUm representante dos corpos de bombeiros voluntários de cada zona;\n\nUm representante dos corpos de bombeiros municipais;\n\nUm representante do conselho administrativo e técnico da Liga dos Bombeiros Portugueses;\n\nSecretário-director dos serviços onde se inserem os serviços de apoio ao CCSNB ou seu substituto legal.\n\n2 - Os representantes dos corpos de bombeiros voluntários e municipais e o representante do conselho administrativo e técnico da Liga dos Bombeiros Portugueses são nomeados pelo Ministro da Administração Interna, sob proposta da Liga dos Bombeiros Portugueses, ouvidos os inspectores de incêndios.\n\n3 - O presidente do CCSNB tem voto de qualidade e o secretário não tem direito a voto.\n\n4 - Por despacho conjunto dos Ministros da Administração Interna e das Finanças e do Plano pode ser atribuída gratificação aos membros do CCSNB pelo exercício das respectivas funções, de reconhecido interesse público.\n\n5 - Os membros a quem não seja atribuída a gratificação referida no número anterior têm direito a senhas de presença, nos termos legalmente fixados para a função pública.\n\n6 - Os vogais que não residam em Lisboa têm também direito a abono de transporte e a ajudas de custo, estas calculadas pela categoria mais elevada da respectiva tabela.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 212/80 - Diário da República n.º 156/1980, Série I de 1980-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1980-471881), em vigor a partir de 1980-07-14\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875664": {
+   "fragment_id": "121875481",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1991-03-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 97/91 - Diário da República n.º 51/1991, Série I-A de 1991-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1991-468019), em vigor a partir de 1991-03-07",
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Constituem receitas consignadas ao SNB para subsidiar os corpos de bombeiros, além de outras fixadas em legislação própria:\n\na) 13% sobre o valor dos prémios dos seguros contra fogo e de transporte de mercadorias perigosas, incluindo o seguro de carga e o seguro das viaturas especificamente destinadas a este tipo de transporte;\n\nb) 6% sobre o valor dos prémios de seguros agrícolas e pecuários.\n\n2 - As entidades seguradoras devem cobrar as percentagens previstas nas alíneas a) e b) do número anterior conjuntamente com os respectivos prémios de seguros.\n\n3 - No decurso do segundo mês a seguir àquele em que se efectuar a cobrança, as entidades seguradoras depositarão, sem qualquer dedução, o quantitativo mensal em conta especial da Caixa Geral de Depósitos à ordem do Instituto de Seguros de Portugal.\n\n4 - Nos 10 dias subsequentes ao termo do prazo previsto no número anterior, o Instituto de Seguros de Portugal transferirá para o SNB as quantias depositadas nos termos do mesmo número e enviará duplicado das guias de depósitos e relação das cobranças efectuadas.\n\n5 - O Instituto de Seguros de Portugal fornecerá ao SNB, até 31 de Março e 30 de Setembro de cada ano, em relação aos semestres imediatamente anteriores, findos em 31 de Dezembro e 30 de Junho, nota discriminada das importâncias cobradas relativamente a cada município.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 97/91 - Diário da República n.º 51/1991, Série I-A de 1991-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1991-468019), em vigor a partir de 1991-03-07\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "121875665": {
+   "fragment_id": "121875481",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2019-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 97/91 - Diário da República n.º 51/1991, Série I-A de 1991-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1991-468019), em vigor a partir de 1991-03-07",
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Constituem receitas consignadas ao SNB para subsidiar os corpos de bombeiros, além de outras fixadas em legislação própria:\n\na) 13% sobre o valor dos prémios dos seguros contra fogo e de transporte de mercadorias perigosas, incluindo o seguro de carga e o seguro das viaturas especificamente destinadas a este tipo de transporte;\n\nb) 6% sobre o valor dos prémios de seguros agrícolas e pecuários.\n\n2 - (revogado);\n\n3 - (revogado)\n\n4 - (revogado)\n\n5 - (revogado)\n\n> Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 97/91 - Diário da República n.º 51/1991, Série I-A de 1991-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1991-468019), em vigor a partir de 1991-03-07\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035307": {
+   "fragment_id": "121875477",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ criado no Ministério da Administração Interna o Serviço Nacional de Bombeiros (SNB), com atribuições de orientar e coordenar as actividades e serviços de socorro exercidos pelos corpos de bombeiros e assegurar a sua articulação, em caso de emergência, com o Serviço Nacional de Protecção Civil.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035308": {
+   "fragment_id": "121875478",
+   "type": 11,
+   "heading": "Artigo 2.º — Compete ao Conselho Coordenador do Serviço de Bombeiros:",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 212/80 - Diário da República n.º 156/1980, Série I de 1980-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1980-471881), em vigor a partir de 1980-07-14",
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 2.º — Compete ao Conselho Coordenador do Serviço de Bombeiros:\n\n1 - O SNB fica a cargo do Conselho Coordenador do Serviço Nacional de Bombeiros, que funciona na directa dependência do Ministro da Administração Interna e que tem a seguinte composição:\n\nPresidente - um indivíduo de reconhecida competência a nomear por despacho do Ministro da Administração Interna;\n\nVogais:\n\nInspector de incêndios de cada zona;\n\nUm representante dos corpos de bombeiros voluntários de cada zona;\n\nUm representante dos corpos de bombeiros municipais;\n\nUm representante do conselho administrativo e técnico da Liga dos Bombeiros Portugueses;\n\nSecretário-director dos serviços onde se inserem os serviços de apoio ao CCSNB ou seu substituto legal.\n\n2 - Os representantes dos corpos de bombeiros voluntários e municipais e o representante do conselho administrativo e técnico da Liga dos Bombeiros Portugueses são nomeados pelo Ministro da Administração Interna, sob proposta da Liga dos Bombeiros Portugueses, ouvidos os inspectores de incêndios.\n\n3 - O presidente do CCSNB tem voto de qualidade e o secretário não tem direito a voto.\n\n4 - Por despacho conjunto dos Ministros da Administração Interna e das Finanças e do Plano pode ser atribuída gratificação aos membros do CCSNB pelo exercício das respectivas funções, de reconhecido interesse público.\n\n5 - Os membros a quem não seja atribuída a gratificação referida no número anterior têm direito a senhas de presença, nos termos legalmente fixados para a função pública.\n\n6 - Os vogais que não residam em Lisboa têm também direito a abono de transporte e a ajudas de custo, estas calculadas pela categoria mais elevada da respectiva tabela.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 212/80 - Diário da República n.º 156/1980, Série I de 1980-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1980-471881), em vigor a partir de 1980-07-14\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035309": {
+   "fragment_id": "121875479",
+   "type": 11,
+   "heading": "Artigo 3.º — - 1 - Compete ao presidente do Conselho Coordenador do Serviço de Bombeiros:",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 3.º — - 1 - Compete ao presidente do Conselho Coordenador do Serviço de Bombeiros:\n\n1 - Compete ao CCSNB:\n\na) Apoiar o Governo na definição da política a desenvolver no sector, nomeadamente no respeitante à estruturação e instalação gradual do SNB e de uma escola nacional de fogo, bem como à regularização do seguro de pessoas e viaturas dos corpos de bombeiros;\n\nb) Promover a realização de estudos sobre o melhor ordenamento territorial dos meios de acção de combate a incêndios e de outras formas de socorrismo confiadas a bombeiros, propondo as medidas, designadamente de carácter legislativo, destinadas a corrigir assimetrias no domínio da instituição desses meios e a permitir a racionalização da sua implantação a nível regional e local;\n\nc) Promover a realização, a nível do sector, de acções globais de planeamento, coordenação e implementação de medidas que visem maior economia e uma utilização racional de esforços e de equipamentos de prevenção e combate a incêndios e de outras formas de socorrismo também confiadas aos corpos de bombeiros;\n\nd) Colaborar com outros departamentos governamentais em matéria relacionada com a acção dos corpos de bombeiros, incluindo participação na elaboração de estudos e planos globais de intervenção coordenada, bem como pronunciar-se sobre projectos de natureza legislativa que versem questões de segurança ou impliquem riscos normalmente englobados na acção dos bombeiros;\n\ne) Propor a distribuição da colecta prevista no artigo 5.º, n.º 1, alínea a), nos termos do artigo 6.º, bem como de outras dotações próprias a inscrever no orçamento do Ministério da Administração Interna para apoio financeiro aos corpos de bombeiros;\n\nf) Homologar, a requerimento dos interessados e ouvidos os inspectores de zona, a criação e constituição de novos corpos de bombeiros;\n\ng) Dar parecer sobre as alterações aos quadros de pessoal dos corpos de bombeiros e respectivas classes e categorias, bem como pronunciar-se sobre as equiparações de categorias para os efeitos do disposto no artigo 11.º do Decreto-Lei n.º 76/77, de 1 de Março;\n\nh) Incentivar todas as formas de auxílio possível ao cabal exercício da missão dos corpos de bombeiros;\n\ni) Promover a realização de concursos de fornecimento de material de socorro ou outro necessário ao funcionamento dos corpos de bombeiros;\n\nj) Coadjuvar o exercício coordenado da acção tutelar do Governo sobre os corpos de bombeiros, nomeadamente zelando por que observem as leis e regulamentos em vigor e transmitindo-lhes as instruções regulamentares;\n\nl) Deliberar sobre os recursos que, nos termos da lei, lhe sejam apresentados em matéria disciplinar;\n\nm) Exercer as demais atribuições e competências que lhe forem conferidas por lei ou regulamento.\n\n2 - O CCSNB é equiparado, em competência e em funcionamento, aos conselhos administrativos dos organismos dotados de autonomia administrativa.\n\n3 - O CCSNB elaborará o seu próprio regulamento interno, que deve ser submetido à aprovação do Ministro da Administração Interna.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035310": {
+   "fragment_id": "121875480",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituem fundos do CCSB, destinados a subsidiar os corpos de bombeiros:",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 4.º — Constituem fundos do CCSB, destinados a subsidiar os corpos de bombeiros:\n\n1 - Compete ao presidente do CCSNB:\n\na) Convocar e dirigir as reuniões;\n\nb) Representar o Conselho e coordenar toda a sua actividade;\n\nc) Assegurar a execução, através dos serviços do Gabinete de Apoio às Autarquias Locais, das deliberações do Conselho;\n\nd) Assegurar a gestão corrente dos assuntos tratados pelos serviços afectos ao CCSNB;\n\ne) Praticar os actos para que tenha recebido delegação do Conselho.\n\n2 - O presidente pode delegar a prática de actos da sua competência própria ou delegada.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035311": {
+   "fragment_id": "121875481",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 97/91 - Diário da República n.º 51/1991, Série I-A de 1991-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1991-468019), em vigor a partir de 1991-03-07",
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Constituem receitas consignadas ao SNB para subsidiar os corpos de bombeiros, além de outras fixadas em legislação própria:\n\na) 13% sobre o valor dos prémios dos seguros contra fogo e de transporte de mercadorias perigosas, incluindo o seguro de carga e o seguro das viaturas especificamente destinadas a este tipo de transporte;\n\nb) 6% sobre o valor dos prémios de seguros agrícolas e pecuários.\n\n2 - (revogado);\n\n3 - (revogado)\n\n4 - (revogado)\n\n5 - (revogado)\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 45/2019 - Diário da República n.º 64/2019, Série I de 2019-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2019-121748967), em vigor a partir de 2019-04-02\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 97/91 - Diário da República n.º 51/1991, Série I-A de 1991-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-1991-468019), em vigor a partir de 1991-03-07\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035312": {
+   "fragment_id": "121875482",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 6.º\n\nO CCSNB sujeitará à aprovação dos Ministros da Administração Interna e das Finanças e do Plano a proposta de distribuição, pelos corpos de bombeiros, da colecta prevista no artigo anterior, tendo em atenção os encargos com o serviço de prevenção e extinção de incêndios existente em cada concelho.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035313": {
+   "fragment_id": "121875483",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 7.º\n\nO apoio ao CCSNB, através do qual é assegurado o respectivo expediente e a resolução dos assuntos que lhe digam respeito e o apoio técnico-jurídico aos inspectores de zona, fica a cargo dos serviços do Gabinete de Apoio às Autarquias Locais.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Alterado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035314": {
+   "fragment_id": "121854591",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - As inspecções de zona, que funcionam na dependência do CCSNB, têm serviço de apoio próprio a cargo de pessoal a destacar do respectivo batalhão, quando se lhe exija qualificação no domínio do equipamento e das técnicas de combate a incêndios, ou do Gabinete de Apoio às Autarquias Locais, quando se trate de pessoal técnico ou administrativo.\n\n2 - O pessoal a destacar do Batalhão de Sapadores Bombeiros é designado pelo respectivo comandante e o restante mediante despacho do director-geral do Gabinete de Apoio às Autarquias Locais.\n\n3 - O destacamento do pessoal do Gabinete de Apoio às Autarquias Locais depende de acordo prévio dos interessados, salvo quando o recrutamento destes se tenha verificado expressamente com tal fim.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035315": {
+   "fragment_id": "121854592",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 9.º\n\nSão revogados os artigos 1.º e 2.º, com excepção do § 1.º, do Decreto-Lei n.º 35746, de 12 de Julho de 1946, bem como qualquer outra legislação incompatível com as disposições do presente diploma.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035316": {
+   "fragment_id": "121854593",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - O Conselho Nacional dos Serviços de Incêndios cessa funções na data da constituição do CCSNB agora criado.\n\n2 - A competência atribuída em leis e regulamentos ao Conselho Nacional dos Serviços de Incêndios transita para o CCSNB.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035317": {
+   "fragment_id": "121854594",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+   ],
+   "markdown": "###### Artigo 11.º\n\n1 - Os encargos decorrentes do funcionamento e instalação do CCSNB são suportados no corrente ano pelo orçamento do Ministério da Administração Interna, em conta das dotações inscritas para a reestruturação do Conselho Nacional dos Serviços de Incêndios.\n\n2 - Fica o Ministro das Finanças e do Plano autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Aditado pelo/a [Lei n.º 10/79 - Diário da República n.º 66/1979, Série I de 1979-03-20](https://diariodarepublica.pt/dr/detalhe/lei/10-1979-383426), em vigor a partir de 1979-03-20"
+  },
+  "180035318": {
+   "fragment_id": "121875484",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "Promulgado em 30 de Novembro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  }
+ }
+}

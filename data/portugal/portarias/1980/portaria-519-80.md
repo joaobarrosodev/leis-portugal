@@ -1,0 +1,204 @@
+---
+schema_version: '1.0'
+id: pt:dre:470824:por
+title: Portaria n.º 519/80
+short_title: null
+summary: Aprova o plano de estudos da licenciatura em Medicina Dentária pela Escola Superior de Medicina Dentária do Porto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 519/80
+official_date: null
+publication_date: '1980-08-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 187/1980, Série I de 1980-08-14
+  number: '187'
+  series: I
+  supplement: null
+  pages: 2192 - 2195
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18700/21922195.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '470824'
+  dre_path: /dr/detalhe/portaria/519-1980-470824
+  internal: pt:dre:470824:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/519-1980-470824
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/519-1980-470824
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:22:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 90557540eca71b6144df9ebd58eef11a8def7259ff123f74e6bb1796f45ec631
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:22:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Curso de Medicina Dentária
+- Ensino Superior
+- Escola Superior de Medicina Dentária
+- Licenciatura
+- Plano de Estudos
+- Porto
+relationships:
+- type: amended_by
+  target: pt:dre:420007:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:459616:por
+  label: "Aditado o n.º 5 ao n.º 3.º pela PORT.1078/80.18.12.1980.MECI, DR.IS [291] de 18.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1078-1980-459616
+  date: '1980-12-18'
+- type: amended_by
+  target: pt:dre:420007:por
+  label: "Alterados os quadros I, II e III do anexo I pela PORT.548/87.1987.07.03.MEC, DR.IS [150]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/548-1987-420007
+  date: '1987-07-03'
+- type: cites
+  target: pt:dre:428012:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:460801:por
+  label: Rectificada pela DECL.DD6886.03.09.1980.PCM, DR.IS [211] de 12.09.1980
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1980-460801
+  date: '1980-09-03'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:22:36Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 519/80
+
+de 14 de Agosto
+
+A Escola Superior de Medicina Dentária do Porto foi criada pelo [Decreto-Lei n.º 368/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1976-428012), de 15 de Maio, tendo iniciado o seu funcionamento no ano lectivo de 1976-1977, ministrando o 4.º ano da licenciatura em Medicina Dentária a estudantes já titulares dos três primeiros anos da licenciatura em Medicina.
+
+Nos anos subsequentes, e além de assegurar na íntegra os 4.º, 5.º e 6.º anos, a Escola foi, em colaboração com a Faculdade de Medicina da Universidade do Porto, adequando o plano de estudos dos três primeiros anos aos objectivos da licenciatura em Medicina Dentária.
+
+O plano de estudos que agora se aprova, com a duração de seis anos, representa certamente um plano intermédio até que o crescimento e a consolidação da Escola Superior de Medicina Dentária do Porto permitam organizar um plano de estudos de raiz em que, sem prejuízo da colaboração de outros estabelecimentos da Universidade do Porto, se ministre uma formação claramente mais orientada desde o início para licenciatura em Medicina Dentária e cuja duração virá provavelmente a ser, aliás, de acordo com padrões internacionais, de apenas cinco anos.
+
+Homologam-se igualmente os planos de estudo transitórios que vigoraram entre 1976-1977 e 1978-1979.
+
+Nestes termos:
+
+Ao abrigo do disposto no artigo 6.º do [Decreto-Lei n.º 368/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1976-428012), de 15 de Maio;
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência:
+
+1.º
+
+Plano de estudos
+
+1 - É aprovado o plano de estudos da licenciatura em Medicina Dentária pela Escola Superior de Medicina Dentária do Porto (ESMDP), que consta do anexo I desta portaria.
+
+2 - O presente plano vigora integralmente desde o ano lectivo de 1979-1980.
+
+2.º
+
+Protocolos
+
+1 - As disciplinas dos 1.º, 2.º e 3.º anos poderão ser leccionadas no âmbito de protocolos a estabelecer com estabelecimentos da Universidade do Porto.
+
+2 - Os protocolos a que se refere o número anterior serão homologados pelo reitor da Universidade do Porto.
+
+3.º
+
+Precedências
+
+1 - Só poderão inscrever-se na disciplina de Anatomia II, do 2.º ano da licenciatura em Medicina Dentária, os alunos que tenham obtido aprovação na disciplina de Anatomia I.
+
+2 - Só poderão inscrever-se nas disciplinas de Farmacologia e Anatomia Patológica, do 3.º ano da licenciatura em Medicina Dentária, os alunos que tenham obtido aprovação, respectivamente, na disciplina de Fisiologia e na disciplina de Histologia e Embriologia.
+
+3 - Só poderão inscrever-se no 4.º ano da licenciatura em Medicina Dentária os alunos que tenham obtido aprovação em todas as disciplinas dos 1.º, 2.º e 3.º anos.
+
+4 - Só poderão inscrever-se nos 5.º e 6.º anos da licenciatura em Medicina Dentária os alunos que tenham aprovação, respectivamente, em todas as disciplinas dos 4.º e 5.º anos.
+
+4.º
+
+Classificação final
+
+A classificação final da licenciatura é a média aritmética simples arredondada (tomando como unidade a fracção não inferior a cinco décimas) das classificações das disciplinas que integram o plano de estudos.
+
+5.º
+
+Homologação dos planos anteriores
+
+1 - São homologados os planos de estudos que vigoraram de 1976-1977 a 1978-1979 e que constam do anexo II a esta portaria.
+
+2 - Os alunos que ingressaram na Escola Superior de Medicina Dentária do Porto desde 1976-1977 cumpriram até 1978-1979 os planos constantes dos quadros do anexo II:
+
+a) Os alunos que se inscreveram na Escola Superior de Medicina Dentária do Porto, no 4.º ano, em 1976-1977, tinham obtido aprovação nas disciplinas que constituíam os 1.º, 2.º e 3.º anos da licenciatura em Medicina, sendo o seguinte o seu plano de estudos:
+
+4.º ano - anexo II, quadro I.
+
+b) Os alunos que se inscreveram na Escola Superior de Medicina Dentária do Porto em 1977-1978 tiveram os seguintes planos:
+
+2.º ano - anexo II, quadro II.
+
+3.º ano - anexo II, quadro III.
+
+4.º ano - anexo II, quadro IV.
+
+5.º ano - anexo II, quadro V.
+
+c) Os alunos que se inscreveram na Escola Superior de Medicina Dentária do Porto no ano lectivo de 1978-1979 cumpriram os seguintes planos de estudos:
+
+1.º ano - anexo II, quadro VI.
+
+2.º ano - anexo II, quadro VII.
+
+3.º ano - anexo II, quadro VIII.
+
+4.º ano - anexo II, quadro IX.
+
+5.º ano - anexo II, quadro X.
+
+6.º ano - anexo II, quadro XI.
+
+Ministério da Educação e Ciência, 21 de Julho de 1980. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.
+
+## ANEXO I — [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18700/21922195.pdf)
+
+## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1980/08/18700/21922195.pdf)

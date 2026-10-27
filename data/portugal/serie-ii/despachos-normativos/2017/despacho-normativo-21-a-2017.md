@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:114337026:por
+title: Despacho Normativo n.º 21-A/2017
+short_title: null
+summary: Fixada a percentagem máxima de aumento nas tarifas praticadas para os títulos relativos aos transportes coletivos
+  rodoviários interurbanos de passageiros, aos transportes coletivos de passageiros nas Áreas Metropolitanas de Lisboa e do
+  Porto, incluindo transportes fluviais, e aos transportes ferroviários urbanos e suburbanos
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Finanças, Planeamento e das Infraestruturas e Ambiente - Gabinetes dos Secretários de Estado do Tesouro, das Infraestruturas
+  e Adjunto e do Ambiente
+proposing_entity: null
+official_number: 21-A/2017
+official_date: null
+publication_date: '2017-12-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 236/2017, 1º Suplemento, Série II de 2017-12-11
+  number: '236'
+  series: II
+  supplement: null
+  pages: 27808-(2) a 27808-(2)
+  pdf_url: https://files.diariodarepublica.pt/2s/2017/12/236000001/0000200002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '114337026'
+  dre_path: /dr/detalhe/despacho-normativo/21-a-2017-114337026
+  internal: pt:dre:114337026:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-a-2017-114337026
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/21-a-2017-114337026
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 779f7f00c4b46fb4c756ae8642e99279ac9bbc1ba5823a3c00aeb6fa5dad889a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ÁREA Metropolitana
+- Autoridade da Mobilidade e dos Transportes
+- Contra-ordenação
+- Definição de Competências
+- Fixação de Preços
+- Instituto da Mobilidade e dos Transportes
+- Lisboa
+- Porto
+- Preço
+- Presidente
+- Titulo de Transporte
+- Transporte
+- Transporte de Passageiros
+- Transporte Ferroviário
+- Transporte Fluvial
+- Transporte Público
+- Transporte Rodoviário
+- Transporte Urbano
+relationships:
+- type: cites
+  target: pt:dre:220558:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25344768:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469604:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:67442930:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:08:20Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 21-A/2017
+
+Considerando que:
+
+a) Nos anos 2015 e 2016 não foram determinadas atualizações tarifárias, dada a ocorrência de um quadro social e económico muito particular e a tendência sustentada de descida dos custos dos combustíveis que se verificou desde 2013;
+
+b) Os indicadores económicos verificados entre 2016 e 2017 e a variação dos fatores de produção, especialmente dos custos energéticos e de pessoal demonstraram como adequada a atualização tarifária aplicada no ano de 2017;
+
+c) As atualizações tarifárias regulares dos títulos de transporte disponibilizados nos serviços públicos de transporte de passageiros são justificadas pela variação dos fatores de produção, devendo contribuir para a manutenção de um serviço de transportes contínuo, geral e eficiente;
+
+d) Importa garantir o equilíbrio económico e social entre a evolução dos custos de acesso aos serviços de transportes coletivos de passageiros e a sustentabilidade financeira do sistema, que permita a disponibilização de um serviço de transporte coletivo público de qualidade bem como a adequada articulação entre operadores e autoridades de transportes competentes.
+
+Assim, nos termos e ao abrigo do disposto na alínea b) do n.º 2 do artigo 10.º do [Decreto-Lei n.º 8/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1993-469604), de 11 de janeiro, do n.º 1 do artigo 3.º da [Portaria n.º 241-A/2013](https://diariodarepublica.pt/dr/detalhe/portaria/241-a-2013-220558), de 31 de julho, e ainda, do disposto nos artigos 14.º, 22.º, 39.º e 41.º do Regime Jurídico do Serviço Público de Transporte de Passageiros (RJSPTP), aprovado pela [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho, determina-se o seguinte:
+
+1 - É fixada em 2,0 % a percentagem máxima de aumento médio de atualização das tarifas atualmente praticadas para os títulos de transporte relativos aos:
+
+a) Transportes coletivos rodoviários interurbanos de passageiros em percursos inferiores a 50 km, subjacentes aos artigos 9.º a 12.º da [Lei n.º 52/2015](https://diariodarepublica.pt/dr/detalhe/lei/52-2015-67442930), de 9 de junho;
+
+b) Transportes coletivos de passageiros nas Áreas Metropolitanas de Lisboa e do Porto, incluindo transportes fluviais;
+
+c) Transportes ferroviários urbanos e suburbanos em percursos inferiores a 50 km.
+
+2 - A atualização a aplicar em cada tarifa de cada título de transporte não pode ser superior a 2,5 % e o aumento médio de atualização referido no n.º 1 do presente despacho é aferido por operador e por grupo de títulos de transporte (próprios, combinados e intermodais), com exceção do efeito exclusivamente resultante da aplicação das operações de arredondamento previstas no n.º 4 do presente despacho.
+
+3 - A percentagem referida no n.º 1 do presente despacho incide sobre a tarifa atual, arredondada às milésimas, antes de efetuado o arredondamento para o preço de venda ao público.
+
+4 - As tarifas de venda ao público resultam do arredondamento para os 5 cêntimos de euro mais próximos através da aplicação de operações de arredondamento. Caso a 3.ª casa decimal seja inferior a 5, proceder-se-á a arredondamento por defeito e se for igual ou superior a 5, proceder-se-á a arredondamento por excesso.
+
+5 - Por despacho do presidente do conselho diretivo do Instituto da Mobilidade e dos Transportes, I. P. (IMT), e ouvidas as associações empresariais, são aprovadas as tabelas das tarifas máximas de referência do quilómetro rodoviário dos transportes coletivos rodoviários interurbanos de passageiros, em percursos inferiores a 50 km, em conformidade com fixado no presente despacho.
+
+6 - É mantido o preço atualmente praticado dos cartões de suporte dos títulos de transporte das Áreas Metropolitanas de Lisboa e do Porto, designados por "Lisboa Viva", "Viva Viagem/7 Colinas" e "Andante".
+
+7 - Os operadores submetem às autoridades de transportes competentes de acordo com a respetiva assunção ou delegação de competências atribuídas ao abrigo dos artigos 6.º, 7.º e 8.º do RJSPTP todas as tarifas que pretendem praticar para cada um dos títulos de transporte que disponibilizam, apresentando as tarifas inicial e final arredondadas às milésimas, o preço de venda ao público em vigor e o novo preço de venda ao público, até ao dia 14 de dezembro de 2017.
+
+8 - As tarifas dos títulos de transporte combinados que conferem direito à utilização de serviços de transportes em dois ou mais operadores devem ser articuladas entre esses operadores, previamente à sua submissão às autoridades de transportes competentes.
+
+9 - No caso dos títulos que conferem direito à utilização de serviços de transportes sob a competência de mais do que uma autoridade de transportes, os operadores informam as autoridades de transporte envolvidas, devendo estas, em caso de dissonância do proposto pelo operador, articular-se entre si, garantindo sempre o cumprimento do prazo de comunicação ao operador previsto no n.º 15.
+
+10 - Nos casos em que as autoridades de transportes referidas nos artigos 6.º e 7.º do RJSPTP não tenham ainda assumido as competências que lhes são atribuídas por este regime, o IMT assegura, para este efeito de atualização tarifária, as funções de autoridade de transporte definidas no presente despacho.
+
+11 - A verificação e aprovação das atualizações das tarifas dos títulos de transporte disponibilizados por operadores cuja autoridade de transportes é o Estado, bem como dos títulos de transportes intermodais previsto na [Portaria n.º 241-A/2013](https://diariodarepublica.pt/dr/detalhe/portaria/241-a-2013-220558), de 31 de julho, nos termos do RJSPTP, é efetuada pelo IMT.
+
+12 - A criação ou extinção de títulos de transporte deve ser precedida de uma análise que evidencie as alternativas de opção tarifária dos clientes, sendo que estas só serão aprovadas, pelas autoridades de transportes competentes, se não implicarem a imposição de atualizações tarifárias superiores às fixadas neste despacho.
+
+13 - As tarifas dos títulos próprios de transportes de serviços de transportes coletivos urbanos explorados diretamente pelos municípios são por estes fixadas, nos termos da lei.
+
+14 - A aplicação do presente despacho deve ter em conta os regimes específicos contratuais aplicáveis a operadores em concreto, devendo tal ser garantido, de forma fundamentada, pela autoridade de transportes competente.
+
+15 - Se as tarifas comunicadas pelos operadores às autoridades de transportes competentes, nos termos do n.º 7, não traduzirem uma correta aplicação do definido no presente despacho, a autoridade de transportes competente notifica o operador, até ao dia 20 de dezembro de 2017, para proceder à correção, sob pena de impedimento de praticar aquele tarifário.
+
+16 - Os operadores de transporte procedem à divulgação dos títulos de transporte a disponibilizar e das tarifas em vigor, incluindo todas as bonificações e descontos a que haja lugar, bem como das respetivas atualizações tarifárias, de forma clara, adequada e acessível, nos locais de venda ao público e nos respetivos sítios na Internet, sem prejuízo de outros meios de divulgação tidos por adequados, até ao dia 22 de dezembro de 2017.
+
+17 - Os operadores de transporte procedem à atualização tarifária no sistema de informação de âmbito nacional, a que se refere o artigo 22.º do RJSPTP, previamente à entrada em vigor dos novos preços.
+
+18 - Caso o operador de transportes não cumpra as regras estabelecidas no presente despacho, a autoridade de transportes competente comunica à Autoridade da Mobilidade e dos Transportes tal facto, para efeitos de instrução ou determinação de correção da inconformidade, a todo o tempo, e de procedimentos contraordenacionais e sancionatórios, nos termos do RJSPTP e do [Decreto-Lei n.º 78/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2014-25344768), de 14 de maio.
+
+19 - As tarifas dos títulos de transporte público de passageiros decorrentes da aplicação do presente despacho são praticadas a partir de 1 de janeiro de 2018.
+
+20 - O presente despacho produz efeitos a partir da data de assinatura.
+
+7 de dezembro de 2017. - O Secretário de Estado do Tesouro, Álvaro António da Costa Novo. - O Secretário de Estado das Infraestruturas, Guilherme Waldemar Goulão dos Reis d'Oliveira Martins. - O Secretário de Estado Adjunto e do Ambiente, José Fernando Gomes Mendes.
+
+310983539

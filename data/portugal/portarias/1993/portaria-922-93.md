@@ -1,0 +1,403 @@
+---
+schema_version: '1.0'
+id: pt:dre:655894:por
+title: Portaria n.º 922/93
+short_title: null
+summary: Ratifica a revisão do Plano de Pormenor do Parque Industrial do Alto do Barro, no município de São Pedro do Sul
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 922/93
+official_date: null
+publication_date: '1993-09-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 223/1993, Série I-B de 1993-09-22
+  number: '223'
+  series: I
+  supplement: null
+  pages: 5208 - 5211
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/09/223b00/52085211.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/922/1993/09/22/p/dre/pt/html
+  oj: null
+  dre: '655894'
+  dre_path: /dr/detalhe/portaria/922-1993-655894
+  internal: pt:dre:655894:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/922-1993-655894
+  metadata_url: https://data.dre.pt/eli/port/922/1993/09/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/922-1993-655894
+  consolidated_url: null
+  retrieved_at: '2026-10-23T12:13:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d0e448d59e36e6af4df730ba433f9f3ff40088b77f6e45528c7be16a847f39b4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T12:13:18Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Parque Industrial
+- Política de Solos
+- Poluição Industrial
+- são Pedro do SUL
+- Zona Industrial
+relationships:
+- type: amended_by
+  target: pt:dre:318970:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:318970:por
+  label: "Ratificada pela RES.16/2001.2001.01.25.PCM, DR.IS-B [40] de 16/FEV/2001 (alterações aos Arts. 1º, 2º, 3º, 5º, 9º\
+    \ 12º, 22º e 23º do Regulamento)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-conselho-ministros/16-2001-318970
+  date: '2001-01-25'
+- type: cites
+  target: pt:dre:170315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:182050:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2147150:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:228186:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:332410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332412:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:332430:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409164:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:419647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:421828:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:497576:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:566071:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:662156:por
+  label: null
+  source: null
+article_structure:
+  article_count: 23
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T12:13:18Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 922/93
+
+de 22 de Setembro
+
+A Assembleia Municipal de São Pedro do Sul aprovou, em 26 de Junho de 1992, alterações ao Plano de Pormenor do Parque Industrial do Alto do Barro, ratificado parcialmente e com condicionantes, por despacho de 8 de Maio de 1991 do Secretário de Estado da Administração Local e do Ordenamento do Território, e publicado no Diário da República, 2.ª série, n.os 170, de 26 de Julho de 1991, e 35, de 11 de Fevereiro de 1992.
+
+Considerando que foi realizado inquérito público, nos termos previstos no artigo 14.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março;
+
+Considerando os pareceres emitidos pela Comissão de Coordenação da Região do Centro, Delegação Regional da Indústria e Energia do Centro, Junta Autónoma de Estradas, Direcção Regional do Ambiente e Recursos Naturais do Centro, Direcção dos Serviços Regionais de Hidráulica do Mondego e Direcção-Geral do Ordenamento do Território;
+
+Considerando que se verificou a conformidade formal do Plano de Pormenor revisto com as demais disposições legais e regulamentares em vigor, a sua articulação com os demais planos municipais eficazes ecom outros planos, programas e projectos de interesse para outro município ou supramunicipal, nos termos previstos no n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março;
+
+Ao abrigo dos artigos 19.º, n.º 4, e 3.º, n.º 4, do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e da delegação de competências conferida pelo [Despacho n.º 115/92](https://diariodarepublica.pt/dr/detalhe/despacho/115-1993-2147150) do Ministro do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 9, de 12 de Janeiro de 1993:
+
+Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordenamento do Território, o seguinte:
+
+1.º É ratificada a revisão do Plano de Pormenor do Parque Industrial do Alto do Barro, no município de São Pedro do Sul, cujos regulamento e planta de síntese actualizados se publicam em anexo à presente portaria e dela fazem parte integrante.
+
+2.º É excluído de ratificação o anexo n.º 1 ao regulamento por não se julgar conforme com o disposto nos artigos 12.º e 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.
+
+3.º As remissões para diplomas já revogados devem ser interpretadas como relativas à legislação em vigor.
+
+Ministério do Planeamento e da Administração do Território.
+
+Assinada em 9 de Agosto de 1993.
+
+O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.
+
+Regulamento do Parque Industrial do Alto do Barro
+
+Descrição
+
+O seguinte Regulamento tem como objectivo orientar e determinar normas de execução no loteamento industrial do Alto do Barro, em São Pedro do Sul, Regulamento este que deverá ser facultado aos industriais, bem como qualquer alteração que venha a ser feita no decorrer da construção do loteamento.
+
+###### Artigo 1.º
+
+A execução das construções na área industrial de São Pedro do Sul subordinar-se-á ao Regulamento Geral das Edificações Urbanas, aprovado pelo [Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486), e legislação subsidiária em vigor.
+
+###### Artigo 2.º
+
+A instalação de todos os estabelecimentos industriais e todo o desenvolvimento do processo de construção e funcionamento devem vincular-se à legislação em vigor, nomeadamente ao [Decreto-Lei n.º 46923](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46923-1966-486317) e ao [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), ambos de 28 de Março de 1966, e à que vier a ser publicada.
+
+###### Artigo 3.º
+
+Os pedidos de licenciamento das construções deverão ser feitos de acordo com o artigo 5.º do [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), sem o que não poderão ser considerados.
+
+1 - Os industriais deverão dar cumprimento ao [Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), quer na construção quer na instalação dos equipamentos, de forma a não ultrapassar os níveis de ruído permitidos quer para o interior, quer para o exterior do estabelecimento.
+
+2 - A instalação (alteração ou ampliação) dos estabelecimentos industriais de 1.ª classe só poderá ser efectuada depois da aprovação do respectivo projecto pelos serviços competentes do Ministério da Indústria e Energia, nos termos da legislação em vigor e da respectiva licença prévia de localização.
+
+A instalação, alteração ou ampliação dos estabelecimetos industriais de 2.ª classe é licenciada na vistoria industrial antes do início da laboração a requerimento do interessado.
+
+A laboração dos estabelecimentos industriais não poderá ser iniciada sem que as respectivas instalações sejam vistoriadas e aprovadas nos termos da legislação em vigor.
+
+Caso venham a existir detentores de resíduos industriais, estes deverão promover a sua recolha, armazenagem, transporte e eliminação ou utilização de acordo com o estipulado nos Decretos-Leis n.os [488/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1985-170315), de 25 de Novembro, e [347/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1987-497576), de 4 de Maio, e legislação complementar.
+
+A Câmara Municipal poderá impor aos utentes da Zona Industrial a instalação e funcionamento de estações de pré-tratamento dos efluentes líquidos de modo a garantir que os parâmetros finais destes sejam passíveis de tratamento pela ETAR prevista e de modo que se dê cumprimento aos parâmetros exigidos pela legislação existente ([Decreto-Lei n.º 74/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1990-332430), de 7 de Março).
+
+A Câmara Municipal poderá indeferir o pedido de instalação no loteamento industrial de estabelecimentos industriais que pela sua natureza ou dimensão sejam grandes consumidores de água, fortemente poluidores do ambiente, quer de efluentes líquidos, gasosos ou ainda de ruídos.
+
+Na instalação dos estabelecimentos industriais deverá ter-se em atenção o [Decreto-Lei n.º 352/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1990-566071), de 9 de Novembro, a fim de salvaguardar-se e preservar o ambiente, numa política de melhoria da qualidade do ar.
+
+Não poderão ser iniciadas as construções sem estarem minimamente cumpridas as infra-estruturas de base do Parque Industrial.
+
+A implantação dos edifícios industriais não deverá exceder os parâmetros previstos e devem as áreas livres envolventes aos edifícios permitirem o acesso das viaturas de bombeiros, bem como a implantação de estações de pré-tratamento de efluentes em caso de necessidade.
+
+###### Artigo 4.º
+
+A percentagem de ocupação do solo não poderá, por cada lote, ser superior a 50% da área do mesmo.
+
+A altura das edificações não poderá ser superior a 10 m ao beiral das coberturas.
+
+Em todos os lotes deve ser previsto espaço para estacionamento de automóveis ligeiros, para funcionários das indústrias e armazéns e dos carros pesados da firma com o mínimo de um lugar de estacionamento por cada 100 m2 de área de construção.
+
+Os acessos aos lotes deverão ser assegurados pelos respectivos proprietários, permitindo fáceis e seguras manobras.
+
+###### Artigo 5.º
+
+Juntamente com os projectos das construções devem ser apresentados à Câmara Municipal os projectos dos muros e o projecto da construção das redes de saneamento, águas pluviais (separados), águas potáveis, instalação eléctrica e electromecânica e sistemas antipoluentes.
+
+Os muros situados nos limites laterais e posteriores deverão ser feitos de alvenaria, com altura máxima de 1,80 m, a partir do solo, sendo 1 m em alvenaria, completando-se com gradeamento a altura restante.
+
+###### Artigo 6.º
+
+A área coberta mínima na 1.ª fase deverá ocupar pelo menos 20% da área coberta máxima.
+
+###### Artigo 7.º
+
+Como ocupação especial deverão ser previstos:
+
+Por unidade industrial, uma habitação para o guarda, de preferência integrada no edifício principal;
+
+Os lotes reservados para a construção complementar de equipamento de assistência aos trabalhadores, bem como áreas verdes, serão definidas na 2.ª fase.
+
+###### Artigo 8.º
+
+A rede de águas pluviais e a rede de saneamento deverão garantir a limpeza periódica dentro do próprio lote de forma a evitar entupimentos e a degradação das redes gerais de saneamento e águas pluviais.
+
+###### Artigo 9.º
+
+Da não observância do estipulado no artigo 8.º podem resultar danos ou entupimentos da rede geral do loteamento, de que poderá ser responsabilizado o proprietário ou proprietários dos lotes que os provocarem.
+
+###### Artigo 10.º
+
+Os pavimentos descobertos deverão ser drenados por forma que as águas pluviais ou de limpeza não ultrapassem o plano vertical divisório de lotes, dotando o próprio lote com sargetas e câmara depuradora.
+
+###### Artigo 11.º
+
+Os afastamentos das construções aos limites dos lotes, bem como a área dos lotes são indicados nos quadros anexos.
+
+###### Artigo 12.º
+
+Não serão permitidas construções de anexos junto aos limites dos lotes, excepto nos limites frontais para o controlo das entradas e da construção de postos de transformação eléctrica que devem ter a altura máxima de 2,60 m acima da cota do arruamento fronteiro.
+
+###### Artigo 13.º
+
+Os muros a construir nos limites dos lotes que faceiam com a via pública, bem como nos limites posteriores, deverão ser feitos segundo indicações da Câmara Municipal.
+
+###### Artigo 14.º
+
+Será obrigatória a colocação do número do lote junto aos portões de entrada com algarismos em metal cujas dimensões correspondem a inscrição num rectângulo de 30 cm x 15 cm.
+
+###### Artigo 15.º
+
+A implantação dos lotes é da responsabilidade da Câmara Municipal e deverá ser feita com marcação a tinta vermelha nos lancis em frente aos lotes e na parte posterior com estacas de cimento pintadas também a vermelho.
+
+###### Artigo 16.º
+
+É interdita a abertura de poços ou a utilização de captações de água sem prévia autorização da Câmara Municipal.
+
+###### Artigo 17.º
+
+1 - Todos os estabelecimentos industriais devem ser providos de sistemas antipoluentes, por forma a evitar que os efluentes, líquidos, tóxicos ou corrosivos, poeiras leves, gases ou fumos tóxicos, ruídos em excesso ou odores demasiado incómodos sejam lançados para a atmosfera, ribeiros, rios ou simples linhas de água, para a rede de saneamento, rede de águas pluviais e rede de águas potáveis do Parque Industrial.
+
+2 - Para satisfação deste artigo, devem apresentar-se em projecto os sistemas antipoluentes, conforme artigo 21.º cuja aprovação é condição necessária para a concessão da licença de construção.
+
+3 - Os sistemas antipoluentes ficam sujeitos a inspecções a realizar sempre que a Câmara Municipal entenda que o deve fazer.
+
+4 - É obrigatória a suspensão da laboração do sector da instalação industrial que possua a instalação antipoluente em deficiente funcionamento.
+
+5 - Os prejuízos causados pela suspensão obrigatória do funcionamento dos sistemas antipoluentes são da inteira responsabilidade da própria empresa proprietária.
+
+6 - A empresa proprietária é responsável pelos danos causados a terceiros pelo funcionamento não eficaz dos sistemas antipoluentes.
+
+###### Artigo 18.º
+
+1 - Antes de terminarem os prazos estipulados e antes do início do funcionamento da instalação industrial, a empresa proprietária deverá requerer à Câmara Municipal vistoria de todos os sistemas antipoluentes de drenagem e escoamento dos esgotos e águas pluviais, bem como o cumprimento do presente Regulamento e normas em vigor aplicáveis e os próprios projectos aprovados para a mesma instalação.
+
+2 - No prazo de 15 dias a contar da recepção do requerimento referido nos n.os 1 e 2, a Câmara Municipal deverá promover a vistoria de funcionamento através de uma comissão técnica constituída por elementos por si convidados.
+
+3 - Caso a Câmara Municipal não promova a vistoria de funcionamento no prazo de 15 dias, poderá a adquirente sem outras formalidades e sem prejuízo do estipulado neste Regulamento e da legislação aplicável iniciar a laboração da instalação industrial ou vender o lote e as instalações nele construídas e que sejam propriedade.
+
+###### Artigo 19.º
+
+Às empresas industriais adquirentes é proibido alterar ou ampliar o tipo de indústria sem prévio licenciamento da Câmara Municipal.
+
+###### Artigo 20.º
+
+Caso as empresas procedam a contravenção com o artigo 19.º, ficam sujeitas às seguintes sanções:
+
+1) Encerramento parcial ou total da instalação industrial pela Câmara Municipal até ao cumprimento integral do estipulado neste Regulamento e legislação aplicável;
+
+2) Pagamento à Câmara Municipal de 50% das taxas em vigor aplicáveis sobre a ampliação das instalações efectuadas;
+
+3) Demolição das instalações levadas a efeito julgadas inconvenientes pela Câmara Municipal a realizar pela sua proprietária ou pela Câmara Municipal a expensas da proprietária.
+
+###### Artigo 21.º — Condicionamentos de poluição
+
+1 - No que respeita a aspectos ligados com o controlo de poluição, os adquirentes terão de informar a Câmara Municipal, aquando da apresentação do processo de licenciamento da construção, dos diferentes tipos de poluição que a sua indústria poderá provocar e, bem assim, dos processos técnicos utilizados para a sua eliminação ou redução, para os níveis fixados pela Câmara Municipal de São Pedro do Sul:
+
+1.1 - Poluição atmosférica:
+
+1.1.1 - Emissões gasosas expectáveis (tipo de poluentes e a sua qualificação).
+
+1.1.2 - Tipo de produtos a queimar.
+
+1.1.3 - No caso de se preverem chaminés, deverá fornecer os parâmetros físicos das mesmas:
+
+Altura;
+
+Diâmetro;
+
+Velocidade de saída de gases;
+
+Temperatura.
+
+1.1.4 - Equipamento que se prevê seja instalado com vista à redução de emissões gasosas.
+
+1.1.5 - Emissões directas.
+
+1.2 - Poluição por efluentes líquidos:
+
+1.2.1 - Águas contaminadas - previsão de pré-tratamento antes da descarga no colector de águas domésticas e industriais, de modo a serem evitadas concentrações elevadas no que concerne aos poluentes específicos de cada indústria. Informação sobre caudal de descarga.
+
+1.2.2 - Águas não contaminadas - informação sobre:
+
+Caudal de descarga;
+
+Existência de bacia de retenção.
+
+1.2.3 - Águas sanitárias - informação sobre:
+
+Eventualidades de trabalhadores da empresa;
+
+Caudal previsto.
+
+1.3 - Poluição por detritos sólidos:
+
+1.3.1 - Indicação do tipo de detritos sólidos produzidos (urbano, comercial e industrial) e respectivas quantidades ao longo do ano.
+
+1.3.2 - Especificações das variedades dentro dos resíduos industriais e respectivas características físico-químicas, se possível.
+
+1.3.3 - Indicação do destino previsto para os resíduos industriais. Indicação dos resíduos que poderão ser rentabilizados ou comercializados como sucata ou sob outra forma.
+
+1.3.4 - Qualquer tipo de poluição deverá submeter-se à legislação em vigor.
+
+###### Artigo 22.º
+
+Para as indústrias a instalar, terá de ser respeitada, em matéria de ambiente, toda a legislação em vigor, designadamente:
+
+A água (Decretos-Leis n.os [74/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1990-332430), de 7 de Março, e [70/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1990-332410), de 2 de Março);
+
+O ar ([Decreto-Lei n.º 352/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1990-566071), de 9 de Novembro, e [Despacho Normativo n.º 29/87](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1987-662156));
+
+O ruído ([Decreto-Lei n.º 251/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1987-419647), de 24 de Junho);
+
+Os óleos usados ([Decreto-Lei n.º 216/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1985-182050), de 28 de Junho);
+
+Registo obrigatório de resíduos ([Decreto-Lei n.º 488/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1985-170315), de 21 de Novembro, e [Portaria n.º 374/87](https://diariodarepublica.pt/dr/detalhe/portaria/374-1987-421225), de 4 de Maio);
+
+Acidentes industriais graves (Decretos-Leis n.os [224/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1987-421828), de 3 de Junho, e [280-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-a-1987-409164), de 17 de Julho).
+
+###### Artigo 23.º
+
+Quaisquer omissões ou dúvidas surgidas na aplicação do presente Regulamento serão resolvidas pela Câmara Municipal de São Pedro do Sul.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/09/223b00/52085211.pdf)

@@ -1,0 +1,365 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32013R0098:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02013R0098-20210201",
+ "dre_path": null,
+ "source_lastmod": "2021-02-01",
+ "versions": [
+  {
+   "date": "2013-02-09",
+   "future": false,
+   "celex": "32013R0098",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cbb8191d2a5c5f8e",
+    "8c40360663306021",
+    "84f343908c74dba6",
+    "191dc81fe4d27888",
+    "b04f7931cf0950f1",
+    "a71e1289f75612ee",
+    "972ea8cc0ec07619",
+    "a06e76f524a66530",
+    "3ac915bf07a89092",
+    "c311f2adbc725e8d",
+    "bdaf5a08e647b88c",
+    "ed981389c52eba91",
+    "1dd9e5e05426f726",
+    "1e5d3833bc10d408",
+    "5909b9e7f41a65c4",
+    "6bbfdd16ba4f3409",
+    "b9b3fa86478d94f8",
+    "d6ccf03dc475d7c5",
+    "da5289a2491f8b94",
+    "d0dc1bc81106fe80",
+    "b78dffdd88d44b13"
+   ]
+  },
+  {
+   "date": "2017-03-01",
+   "future": false,
+   "celex": "02013R0098-20170301",
+   "acts": [
+    {
+     "id": "eu:celex:32017R0214:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2017/214 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32017R0214"
+    },
+    {
+     "id": "eu:celex:32017R0215:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2017/215 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32017R0215"
+    },
+    {
+     "id": "eu:celex:32017R0216:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2017/216 DA COMISSÃO de 30 de novembro de 2016",
+     "published": null,
+     "celex": "32017R0216"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Âmbito de aplicação",
+    "Altera Artigo 19.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita ANEXO II"
+   ],
+   "fragments": [
+    "5aebac6947a63561",
+    "8c40360663306021",
+    "c4cc12d091ded5be",
+    "2cd39ddc11786e0d",
+    "b04f7931cf0950f1",
+    "a71e1289f75612ee",
+    "972ea8cc0ec07619",
+    "a06e76f524a66530",
+    "3ac915bf07a89092",
+    "c311f2adbc725e8d",
+    "bdaf5a08e647b88c",
+    "ed981389c52eba91",
+    "1dd9e5e05426f726",
+    "1e5d3833bc10d408",
+    "5909b9e7f41a65c4",
+    "6bbfdd16ba4f3409",
+    "b9b3fa86478d94f8",
+    "d6ccf03dc475d7c5",
+    "da5289a2491f8b94",
+    "b35cffb01d413c24",
+    "458373508efc3143",
+    "160e6845b7b48d53",
+    "cab0f3ab5a4e3520"
+   ]
+  },
+  {
+   "date": "2021-02-01",
+   "future": false,
+   "celex": "02013R0098-20210201",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º — Objeto",
+    "Suprime Artigo 2.º — Âmbito de aplicação",
+    "Suprime Artigo 3.º — Definições",
+    "Suprime Artigo 4.º — Disponibilização, introdução, posse e utilização",
+    "Suprime Artigo 5.º — Rotulagem",
+    "Suprime Artigo 6.º — Livre circulação",
+    "Suprime Artigo 7.º — Licenças",
+    "Suprime Artigo 8.º — Registo de transações",
+    "Suprime Artigo 9.º — Participação de transações suspeitas, de desaparecimentos e de roubos",
+    "Suprime Artigo 10.º — Proteção de dados",
+    "Suprime Artigo 11.º — Sanções",
+    "Suprime Artigo 12.º — Alteração dos anexos",
+    "Suprime Artigo 13.º — Cláusula de salvaguarda",
+    "Suprime Artigo 14.º — Exercício da delegação",
+    "Suprime Artigo 15.º — Procedimento de urgência",
+    "Suprime Artigo 16.º — Disposição transitória",
+    "Suprime Artigo 17.º — Regimes de registo em vigor",
+    "Suprime Artigo 18.º — Revisão",
+    "Suprime Artigo 19.º — Entrada em vigor",
+    "Suprime ANEXO I",
+    "Suprime ANEXO II",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "70529a0340d0ee20"
+   ]
+  }
+ ],
+ "fragments": {
+  "cbb8191d2a5c5f8e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de janeiro de 2013\n\nsobre a comercialização e utilização de precursores de explosivos\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 114.º,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntr1-L_2013039PT.01000101-E0001),\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntr2-L_2013039PT.01000101-E0002),\n\nConsiderando o seguinte:\n\n(1) Certas substâncias ou misturas são precursores de explosivos e podem ser utilizadas indevidamente para o fabrico ilícito de explosivos. O plano de ação da União Europeia para melhorar a segurança dos explosivos, adotado pelo Conselho em 18 de abril de 2008, exortou a Comissão a estabelecer um Comité Permanente dos Precursores a fim de ponderar as medidas a tomar e de preparar recomendações sobre legislação aplicável aos precursores de explosivos disponíveis no mercado, tendo em conta os seus efeitos em termos de custo-benefício.\n\n(2) O Comité Permanente dos Precursores, criado pela Comissão em 2008, identificou vários precursores de explosivos que podem ser utilizados em atentados terroristas e recomendou que fossem tomadas medidas adequadas a nível da União.\n\n(3) Alguns Estados-Membros já adotaram disposições legislativas, regulamentares ou administrativas sobre a colocação no mercado, a disponibilização ou a posse de certos precursores de explosivos.\n\n(4) Essas disposições legislativas, regulamentares e administrativas, que não são uniformes e podem criar obstáculos ao comércio na União, deverão ser harmonizadas a fim de melhorar a livre circulação de substâncias e misturas químicas no mercado interno e de eliminar, na medida do possível, distorções da concorrência, assegurando simultaneamente um elevado nível de proteção da segurança da população. Foram também estabelecidas outras regras relativas a determinadas substâncias abrangidas pelo presente regulamento, tanto a nível nacional como da União, em matéria de segurança dos trabalhadores e de defesa do ambiente. Essas regras não são afetadas pelo presente regulamento.\n\n(5) A fim de garantir aos operadores económicos o mais elevado grau de uniformidade, o instrumento jurídico mais adequado para regular a comercialização e utilização de precursores de explosivos é um regulamento.\n\n(6) O Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação, rotulagem e embalagem de substâncias e misturas [([^3])](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntr3-L_2013039PT.01000101-E0003), prevê que as substâncias e misturas classificadas como perigosas sejam corretamente rotuladas antes de serem colocadas no mercado. Prevê também que os operadores económicos, nomeadamente os retalhistas, procedam à classificação e rotulagem dessas substâncias ou usem a classificação efetuada por outros agentes a montante da cadeia de abastecimento. Convém, pois, prever no presente regulamento que todos os operadores económicos, nomeadamente os retalhistas, que disponibilizem substâncias sujeitas a restrições pelo presente regulamento a particulares, assegurem que a embalagem contém a indicação de que a aquisição, a posse ou a utilização dessa substância ou mistura por particulares se encontram sujeitas a restrições.\n\n(7) A fim de assegurar proteção a nível nacional contra a utilização ilícita de precursores de explosivos de grau semelhante ou mais elevado que a visada pelo presente regulamento a nível da União, alguns Estados-Membros já têm disposições legislativas, regulamentares ou administrativas em vigor relativamente a certas substâncias suscetíveis de ser utilizadas para fins ilícitos. Algumas dessas substâncias já constam do presente regulamento, enquanto outras poderão vir a ser sujeitas a restrições a nível da União futuramente. Uma vez que seria contrário aos objetivos do presente regulamento que medidas tomadas a nível da União viessem diminuir essa proteção, convém prever um mecanismo que permita que as referidas medidas nacionais se mantenham em vigor (cláusula de salvaguarda).\n\n(8) O fabrico ilícito de explosivos artesanais deverá ser dificultado mediante a fixação de valores-limite de concentração em relação a alguns precursores de explosivos. Abaixo desses valores-limite, a livre circulação desses precursores de explosivos é assegurada, sob reserva de um mecanismo de salvaguarda; acima desses valores-limite, o acesso dos particulares a esses precursores de explosivos deverá ser restringido.\n\n(9) Os particulares não deverão, pois, poder adquirir, introduzir, possuir ou utilizar esses precursores de explosivos em concentrações acima desses valores-limite. No entanto, é conveniente prever que os particulares os possam adquirir, introduzir, possuir ou utilizar para fins legítimos desde que disponham de licença para o fazer.\n\n(10) Além disso, tendo em conta que alguns Estados-Membros já possuem regimes de registo bem estabelecidos, que são utilizados para controlar a colocação no mercado de algumas ou de todas as substâncias sujeitas a restrições pelo presente regulamento e que não devem ser disponibilizadas a particulares, é conveniente prever no presente regulamento um regime de registo aplicável a algumas ou a todas essas substâncias.\n\n(11) O peróxido de hidrogénio, o nitrometano e o ácido nítrico são amplamente utilizados pelos particulares para fins legítimos. Por conseguinte, os Estados-Membros deverão ter a possibilidade de conceder acesso a essas substâncias dentro de certo nível de concentração mediante a aplicação de um regime de registo ao abrigo do presente regulamento, em vez de um regime de licenciamento.\n\n(12) Dado o elevado grau de especificidade do seu objeto, é possível alcançar o objetivo do presente regulamento deixando aos Estados-Membros, de acordo com os princípios da subsidiariedade e da proporcionalidade, a liberdade de optar por conceder um acesso limitado aos particulares nos termos do presente regulamento.\n\n(13) A fim de promover o objetivo legítimo de assegurar a segurança pública, perturbando simultaneamente o menos possível o bom funcionamento do mercado interno, é conveniente prever um regime de licenciamento segundo o qual os particulares que tenham adquirido uma substância sujeita a restrições pelo presente regulamento e que não deve ser disponibilizada a particulares, ou uma mistura ou substância que a contenha numa concentração superior ao valor-limite, possam introduzi-la, a partir de outros Estados-Membros ou de países terceiros, em Estados-Membros que permitam o acesso a essa substância de acordo com um dos regimes previstos no presente regulamento.\n\n(14) A fim de aplicar eficazmente as disposições relativas à introdução de precursores de explosivos, os Estados-Membros são incentivados a assegurar que os viajantes internacionais sejam alertados para as condições aplicáveis à introdução de substâncias sujeitas a restrições pelo presente regulamento e que não devem ser disponibilizadas a particulares. Pelo mesmo motivo, os Estados-Membros são igualmente incentivados a assegurar que o público seja alertado para as restrições aplicáveis às pequenas remessas destinadas a particulares ou às encomendas realizadas à distância pelos consumidores finais.\n\n(15) As informações prestadas pelos Estados-Membros à indústria, em particular às pequenas e médias empresas (PME), poderão constituir um meio precioso de facilitar o cumprimento do presente regulamento, tendo em consideração a importância de minimizar os encargos administrativos impostos às PME.\n\n(16) Dado que seria desproporcionado proibir a utilização de precursores de explosivos em atividades profissionais, as restrições relativas à disponibilização, introdução, posse e utilização de precursores de explosivos deverão aplicar-se apenas aos particulares. Todavia, tendo em conta os objetivos gerais do presente regulamento, é adequado prever um mecanismo de comunicação que se aplique tanto aos utilizadores profissionais em toda a cadeia de abastecimento como aos particulares que participem em transações que, pela sua natureza ou dimensão, devam ser consideradas suspeitas. Para esse efeito, os Estados-Membros deverão criar pontos de contacto nacionais para a participação de transações suspeitas.\n\n(17) Várias transações relativas a precursores de explosivos poderão ser consideradas suspeitas e, portanto, passíveis de participação. É o caso, nomeadamente, quando o potencial cliente (profissional ou particular) tenha dúvidas a respeito da utilização prevista, desconheça a utilização prevista ou não possa apresentar uma explicação plausível para ela, quando pretenda adquirir quantidades, concentrações ou combinações pouco habituais de certas substâncias, ou quando se recuse a apresentar prova de identidade ou de residência ou insista em usar meios pouco habituais de pagamento, como grandes quantias em numerário. Os operadores económicos deverão poder reservar-se o direito de recusar essas transações.\n\n(18) Tendo em consideração o objetivo geral do presente regulamento, as autoridades competentes são incentivadas a informar os pontos de contacto nacionais de todos os pedidos de licenças que tenham indeferido por terem motivos razoáveis para duvidar da licitude da utilização prevista ou das intenções do utilizador. Do mesmo modo, as autoridades competentes pelo licenciamento são incentivadas a informar os pontos de contacto nacionais das licenças que tenham suspendido ou revogado.\n\n(19) A fim de evitar e detetar a eventual utilização ilícita de precursores de explosivos, é desejável que os pontos de contacto nacionais conservem registos das transações suspeitas que lhes tenham sido participadas e que as autoridades competentes tomem as medidas necessárias para investigar as circunstâncias concretas das transações em causa, nomeadamente a autenticidade das atividades económicas relevantes exercidas por utilizadores profissionais implicados em transações suspeitas.\n\n(20) Se possível, deverão ser estabelecidos valores-limite de concentração acima dos quais o acesso a certos precursores de explosivos é restringido, enquanto apenas deverá prever-se a participação de transações suspeitas em relação a certos outros precursores de explosivos. Entre os critérios que permitem determinar as medidas que deverão ser aplicadas aos diversos precursores de explosivos, figuram o nível de perigosidade associado ao precursor de explosivos, o volume de comércio do precursor de explosivos em causa e a possibilidade de fixar um nível de concentração abaixo do qual o precursor de explosivos ainda poderá ser utilizado para os fins lícitos para os quais é disponibilizado. Esses critérios deverão continuar a servir de orientação para outras medidas que poderão vir a ser tomadas relativamente a precursores de explosivos atualmente não abrangidos pelo âmbito de aplicação do presente regulamento.\n\n(21) Não é tecnicamente possível determinar valores-limite de concentração de hexamina em pastilhas combustíveis. Além disso, há muitos usos legítimos de ácido sulfúrico, acetona, nitrato de potássio, nitrato de sódio, nitrato de cálcio e nitrato de amónio cálcico. Qualquer regulamentação a nível da União que impusesse restrições à venda dessas substâncias ao público implicaria custos administrativos e de aplicação desproporcionadamente elevados para os consumidores, para as autoridades públicas e para as empresas. No entanto, tendo em conta os objetivos do presente regulamento, deverão ser adotadas medidas para facilitar a participação de transações suspeitas relativas a pastilhas combustíveis com hexamina e a outros precursores de explosivos para os quais não existam substitutos seguros e adequados.\n\n(22) O roubo de precursores constitui uma forma de obter matéria-prima para o fabrico ilícito de explosivos. Convém, pois, prever a participação de casos importantes de roubo e desaparecimento de substâncias sujeitas a restrições pelo presente regulamento. A fim de facilitar a localização dos autores e de alertar as autoridades competentes de outros Estados-Membros para eventuais perigos, os pontos de contacto nacionais são incentivados a recorrer, se adequado, ao sistema de alerta precoce da Europol.\n\n(23) Os Estados-Membros deverão adotar normas em matéria de sanções aplicáveis ao incumprimento do disposto no presente regulamento. Essas sanções deverão ser eficazes, proporcionadas e dissuasivas.\n\n(24) Em virtude do Anexo XVII do Regulamento (CE) n.º 1907/2006 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2006, relativo ao registo, avaliação, autorização e restrição dos produtos químicos (REACH) [([^4])](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntr4-L_2013039PT.01000101-E0004), é proibido fornecer aos particulares nitrato de amónio que possa ser fácil utilizar indevidamente como precursor de explosivos. Todavia, é autorizado o fornecimento de nitrato de amónio a certos utilizadores profissionais, nomeadamente agricultores. Esse fornecimento deverá, pois, ficar sujeito ao mecanismo de participação de transações suspeitas previsto no presente regulamento, visto que o Regulamento (CE) n.º 1907/2006 não prevê disposição equivalente.\n\n(25) O presente regulamento implica o tratamento de dados pessoais e a sua divulgação a terceiros em caso de transações suspeitas. Esse tratamento e essa divulgação afetam os direitos fundamentais à privacidade e à proteção dos dados pessoais. A Diretiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de outubro de 1995, relativa à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados [([^5])](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntr5-L_2013039PT.01000101-E0005), aplica-se ao tratamento de dados pessoais efetuado ao abrigo do presente regulamento. Por conseguinte, deverá ser assegurado o respeito pelo direito fundamental à proteção dos dados pessoais das pessoas cujos dados pessoais sejam tratados ao abrigo do presente regulamento. Em especial, o tratamento de dados pessoais necessário à concessão de licenças, ao registo de transações e à participação de transações suspeitas deverá ser efetuado nos termos da Diretiva 95/46/CE, incluindo os princípios gerais da proteção de dados, nomeadamente os princípios da minimização dos dados, da limitação da finalidade, da proporcionalidade e da necessidade, e a obrigação de respeitar o direito de aceder, retificar e suprimir os seus dados que assiste às pessoas em questão.\n\n(26) A escolha de substâncias utilizadas pelos terroristas e por outros criminosos para o fabrico ilícito de explosivos pode variar rapidamente. Por conseguinte, deverá ser possível submeter novas substâncias ao regime previsto no presente regulamento, se necessário com caráter de urgência.\n\n(27) A fim de ter em conta a evolução da utilização indevida de substâncias como precursores de explosivos, e na condição de se proceder à devida consulta das partes interessadas para atender aos efeitos potencialmente significativos sobre os operadores económicos, o poder de adotar atos nos termos do artigo 290.º do Tratado sobre o Funcionamento da União Europeia deverá ser delegado na Comissão para alterar os valores-limite acima dos quais certas substâncias sujeitas a restrições pelo presente regulamento não podem ser postas à disposição dos particulares e para acrescentar substâncias à lista daquelas em relação às quais devem ser participadas transações suspeitas. É particularmente importante que a Comissão proceda às consultas adequadas durante os trabalhos preparatórios, inclusive ao nível de peritos. Quando a Comissão preparar e redigir atos delegados, deverá assegurar a transmissão simultânea, atempada e adequada dos documentos relevantes ao Parlamento Europeu e ao Conselho.\n\n(28) A Comissão deverá manter permanentemente atualizada a lista das substâncias que não podem ser disponibilizadas ao público acima de determinados valores-limite de concentração e a lista das substâncias em relação às quais devem ser participadas transações suspeitas. Quando tal se justifique, a Comissão deverá elaborar propostas legislativas, de acordo com o processo legislativo ordinário, destinadas a aditar ou suprimir substâncias da primeira lista, ou a suprimir substâncias da última lista, a fim de ter em conta a evolução da utilização indevida de substâncias como precursores de explosivos.\n\n(29) Deverá ser estabelecida uma cláusula de salvaguarda que preveja um procedimento adequado da União a fim de ter em conta substâncias ainda não sujeitas a restrições pelo presente regulamento, mas a respeito das quais os Estados-Membros tenham boas razões para crer que possam ser utilizadas para o fabrico ilícito de explosivos.\n\n(30) Além disso, tendo em conta os riscos específicos que o presente regulamento pretende acautelar, convém permitir que, em determinadas circunstâncias, os Estados-Membros tomem medidas de salvaguarda, inclusive relativamente a substâncias já sujeitas a restrições pelo presente regulamento.\n\n(31) Considerando os requisitos que o presente regulamento estabelece em matéria de informações a prestar à Comissão e aos Estados-Membros, não seria indicado sujeitar essas novas medidas de salvaguarda ao regime estabelecido na Diretiva 98/34/CE do Parlamento Europeu e do Conselho, de 22 de junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação [([^6])](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntr6-L_2013039PT.01000101-E0006), independentemente de dizerem respeito a substâncias já sujeitas a restrições pelo presente regulamento ou não.\n\n(32) Dado o objetivo do presente regulamento e o seu impacto potencial na segurança dos cidadãos e no mercado interno, a Comissão deverá apresentar ao Parlamento Europeu e ao Conselho um relatório em que, baseando-se nos trabalhos contínuos do Comité Permanente dos Precursores, analise quais os problemas levantados pela aplicação do presente regulamento e em que medida é desejável e exequível alargar o seu âmbito de aplicação, tanto para abranger os utilizadores profissionais como para incluir disposições relativas à participação de transações suspeitas, de desaparecimentos e de roubos de substâncias que, embora não sujeitas a restrições pelo presente regulamento, sejam identificadas como tendo sido utilizadas para o fabrico ilícito de explosivos (precursores de explosivos não classificados). Além disso, tendo em conta a experiência adquirida pelos Estados-Membros neste contexto e os custos e benefícios, a Comissão deverá apresentar um relatório em que analise em que medida é desejável e exequível continuar a reforçar e a harmonizar o sistema, tendo em consideração o perigo para a segurança pública. No quadro dessa análise, a Comissão deverá apresentar ao Parlamento Europeu e ao Conselho um relatório em que analise a possibilidade de transferir as disposições referentes ao nitrato de amónio do Regulamento (CE) n.º 1907/2006 para o presente regulamento.\n\n(33) Atendendo a que o objetivo do presente regulamento, a saber, limitar o acesso do público a substâncias que possam ser utilizadas para o fabrico ilícito de explosivos – sem com isto impedir a livre circulação de mercadorias no mercado interno –, não pode ser suficientemente realizado pelos Estados-Membros e pode, pois, devido à dimensão da limitação, ser mais bem alcançado ao nível da União, a União pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado da União Europeia. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, o presente regulamento não excede o necessário para atingir aquele objetivo.\n\n(34) Nos termos do artigo 28.º, n.º 2, do Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2000, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados [([^7])](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntr7-L_2013039PT.01000101-E0007), a Autoridade Europeia para a Proteção de Dados emitiu parecer [([^8])](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntr8-L_2013039PT.01000101-E0008).\n\n(35) O presente regulamento respeita os direitos fundamentais e observa os princípios reconhecidos na Carta dos Direitos Fundamentais da União Europeia, em especial a proteção dos dados pessoais, a liberdade de empresa, o direito de propriedade e o princípio da não discriminação. O presente regulamento deverá ser aplicado pelos Estados-Membros em conformidade com esses direitos e princípios,\n\nADOTARAM O PRESENTE REGULAMENTO:"
+  },
+  "8c40360663306021": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece normas harmonizadas em matéria de disponibilização, introdução, posse e utilização de substâncias ou misturas que possam ser utilizadas indevidamente para o fabrico ilícito de explosivos, a fim de limitar o acesso do público a tais substâncias e de assegurar a devida participação de transações suspeitas em toda a cadeia de abastecimento.\n\nO presente regulamento não prejudica outras disposições mais rigorosas da legislação da União respeitantes às substâncias constantes dos anexos."
+  },
+  "84f343908c74dba6": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se às substâncias constantes dos anexos e às misturas ou substâncias que as contenham.\n\n2. O presente regulamento não se aplica:\n\na) Aos artigos definidos no artigo 3.º, ponto 3, do Regulamento (CE) n.º 1907/2006;\n\nb) Aos artigos de pirotecnia definidos no artigo 2.º, ponto 1, da Diretiva 2007/23/CE do Parlamento Europeu e do Conselho, de 23 de maio de 2007, relativa à colocação no mercado de artigos de pirotecnia [([^9])](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntr9-L_2013039PT.01000101-E0009), aos artigos de pirotecnia para utilização não comercial, nos termos da legislação nacional, pelas forças armadas, pelas forças policiais ou pelos bombeiros, aos equipamentos marítimos abrangidos pela Diretiva 96/98/CE do Conselho, de 20 de dezembro de 1996, relativa aos equipamentos marítimos [([^10])](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntr10-L_2013039PT.01000101-E0010), aos artigos de pirotecnia para utilização na indústria aeroespacial e às cápsulas fulminantes para brinquedos;\n\nc) Aos medicamentos legitimamente disponibilizados a particulares mediante receita médica, nos termos da legislação nacional aplicável."
+  },
+  "191dc81fe4d27888": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) **«Substância»**: uma substância na aceção do artigo 3.º, ponto 1, do Regulamento (CE) n.º 1907/2006;\n\n2) **«Preparação»**: uma preparação na aceção do artigo 3.º, ponto 2, do Regulamento (CE) n.º 1907/2006;\n\n3) **«Artigo»**: um artigo na aceção do artigo 3.º, ponto 3, do Regulamento (CE) n.º 1907/2006;\n\n4) **«Disponibilização»**: qualquer forma de provisão, a título oneroso ou gratuito;\n\n5) **«Introdução»**: a introdução de uma substância no território de um Estado-Membro a partir de outro Estados-Membro ou de um país terceiro;\n\n6) **«Utilização»**: o processamento, formulação, armazenamento, tratamento ou mistura de uma substância, inclusive na produção de um artigo, ou qualquer outra utilização;\n\n7) **«Particular»**: uma pessoa singular que aja com fins não relacionados com a sua atividade comercial, empresarial ou profissional;\n\n8) **«Transação suspeita»**: uma transação de substâncias constantes dos anexos, ou de misturas ou substâncias que as contenham, incluindo transações que envolvam utilizadores profissionais, caso haja motivos razoáveis para suspeitar que as substâncias ou misturas se destinam ao fabrico ilícito de explosivos;\n\n9) **«Operador económico»**: uma pessoa singular ou coletiva ou uma entidade pública, ou um grupo de tais pessoas e/ou organismos, que forneça produtos ou preste serviços no mercado;\n\n10) **«Precursor de explosivos objeto de restrições»**: uma substância constante do Anexo I com concentração superior ao valor-limite correspondente aí fixado ou qualquer mistura ou substância que a contenha numa concentração superior ao valor-limite correspondente."
+  },
+  "b04f7931cf0950f1": {
+   "fragment_id": "Artigo 4.º — Disponibilização, introdução, posse e utilização",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Disponibilização, introdução, posse e utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disponibilização, introdução, posse e utilização\n\n1. Os precursores de explosivos objeto de restrições não são disponibilizados a particulares nem por eles introduzidos, possuídos ou utilizados.\n\n2. Não obstante o disposto no n.º 1, os Estados-Membros podem manter ou estabelecer um regime de licenciamento segundo o qual os precursores de explosivos objeto de restrições podem ser disponibilizados a particulares ou por eles possuídos e utilizados desde que os particulares obtenham e, se lhes for pedida, apresentem uma licença que lhes permita adquiri-los, possuí-los ou utilizá-los, emitida nos termos do artigo 7.º por uma autoridade competente do Estado-Membro em que os precursores de explosivos se destinam a ser adquiridos, possuídos ou utilizados.\n\n3. Não obstante o disposto nos n.^os^ 1 e 2, os Estados-Membros podem manter ou estabelecer um regime de registo segundo o qual os precursores de explosivos objeto de restrições a seguir indicados podem ser disponibilizados a particulares ou por eles possuídos ou utilizados desde que os operadores económicos que os disponibilizem registem todas as transações nos termos das disposições pormenorizadas previstas no artigo 8.º:\n\na) Peróxido de hidrogénio (CAS RN 7722-84-1) em concentrações superiores ao valor-limite fixado no Anexo I, mas não superiores a 35 % m/m;\n\nb) Nitrometano (CAS RN 75-52-5) em concentrações superiores ao valor-limite fixado no Anexo I, mas não superiores a 40 % m/m;\n\nc) Ácido nítrico (CAS RN 7697-37-2) em concentrações superiores ao valor-limite fixado no Anexo I, mas não superiores a 10 % m/m.\n\n4. Os Estados-Membros notificam a Comissão de todas as medidas que tomarem para instaurar qualquer dos regimes referidos nos n.^os^ 2 e 3. A notificação deve indicar todos os precursores de explosivos relativamente aos quais os Estados-Membros preveem exceções.\n\n5. A Comissão publica uma lista das medidas notificadas pelos Estados-Membros nos termos do n.º 4.\n\n6. Os particulares que pretendam introduzir precursores de explosivos objeto de restrições no território de Estados-Membros que tenham feito uso da derrogação ao n.º 1 aplicando um regime de licenciamento nos termos do n.º 2 e/ou um regime de registo nos termos do n.º 3 ou do artigo 17.º, devem obter e, se lhes for pedida, apresentar à autoridade competente uma licença emitida nos termos do artigo 7.º, válida nesses mesmos Estados-Membros.\n\n7. Os operadores económicos que disponibilizarem precursores de explosivos objeto de restrições a particulares ao abrigo do n.º 2, devem exigir para cada transação a apresentação de uma licença ou, se o fizerem ao abrigo do n.º 3, devem conservar um registo da transação, de acordo com o regime estabelecido pelo Estado-Membro em que os referidos precursores de explosivos forem disponibilizados."
+  },
+  "a71e1289f75612ee": {
+   "fragment_id": "Artigo 5.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Rotulagem\n\nOs operadores económicos que pretendam disponibilizar precursores de explosivos objeto de restrições a particulares asseguram, mediante a aposição ou a verificação de que foi aposto um rótulo adequado na embalagem, que a embalagem indique claramente que a aquisição, a posse ou a utilização desses precursores de explosivos por particulares estão sujeitas às restrições estabelecidas no artigo 4.º, n.^os^ 1, 2 e 3."
+  },
+  "972ea8cc0ec07619": {
+   "fragment_id": "Artigo 6.º — Livre circulação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Livre circulação\n\nSem prejuízo do artigo 1.º, segundo parágrafo, e do artigo 13.º, e salvo disposição em contrário do presente regulamento ou de outro ato normativo da União, os Estados-Membros não proíbem, não impõem restrições nem impedem que, por motivos relacionados com a prevenção do fabrico ilícito de explosivos, sejam disponibilizadas:\n\na) Substâncias constantes do Anexo I em concentrações não superiores aos valores-limite fixados nesse anexo; ou\n\nb) Substâncias constantes do Anexo II."
+  },
+  "a06e76f524a66530": {
+   "fragment_id": "Artigo 7.º — Licenças",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Licenças\n\n1. Os Estados-Membros que emitam licenças a particulares que tenham um interesse legítimo na aquisição, introdução, posse ou utilização de precursores de explosivos objeto de restrições, estabelecem as regras de licenciamento a que se refere o artigo 4.º, n.^os^ 2 e 6. Ao ponderar a concessão da licença, as autoridades competentes dos Estados-Membros têm em conta todas as circunstâncias pertinentes, em particular a licitude da utilização prevista da substância. A licença é recusada se existirem motivos razoáveis para duvidar de que a utilização prevista pelo utilizador é lícita ou de que o utilizador tenciona utilizar a substância para fins legítimos.\n\n2. As autoridades competentes podem optar por limitar a validade da licença a uma única utilização ou a utilizações múltiplas por um prazo não superior a três anos. As autoridades competentes podem exigir que os titulares das licenças comprovem, até ao termo do prazo expresso de validade das licenças, que continuam a respeitar as condições em que estas foram concedidas. As licenças mencionam os precursores de explosivos objeto de restrições para os quais foram emitidas.\n\n3. As autoridades competentes podem cobrar aos requerentes uma taxa pelo pedido de licença. Essa taxa não pode ser superior ao custo do tratamento do pedido.\n\n4. A licença pode ser suspensa ou revogada pelas autoridades competentes caso existam motivos razoáveis para considerar que as condições em que foi concedida deixaram de se verificar.\n\n5. Os recursos das decisões das autoridades competentes e os litígios relativos ao cumprimento das condições de concessão das licenças são tratados por um organismo responsável nos termos da legislação nacional.\n\n6. As licenças emitidas pelas autoridades competentes dos Estados-Membros podem ser reconhecidas noutros Estados-Membros. Até 2 de setembro de 2014, e após ter consultado o Comité Permanente dos Precursores, a Comissão elabora orientações sobre as especificações técnicas das licenças a fim de facilitar o seu reconhecimento mútuo. Essas orientações incluem informações sobre os dados que devem constar das licenças válidas para a introdução de precursores de explosivos objeto de restrições, incluindo um modelo desse tipo de licenças."
+  },
+  "3ac915bf07a89092": {
+   "fragment_id": "Artigo 8.º — Registo de transações",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Registo de transações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registo de transações\n\n1. Para efeitos do registo nos termos do artigo 4.º, n.º 3, os particulares identificam-se por meio de um documento oficial de identificação.\n\n2. Do registo deve constar, pelo menos:\n\na) O nome, o endereço e, se existir, o número de identificação do particular em causa ou o tipo e número do seu documento oficial de identificação;\n\nb) A designação da substância ou mistura e a respetiva concentração;\n\nc) A quantidade da substância ou mistura;\n\nd) A utilização a que se destina a substância ou mistura tal como declarada pelo particular em causa;\n\ne) A data e o local da transação;\n\nf) A assinatura do particular em causa.\n\n3. Os registos são conservados durante um prazo de cinco anos a contar da data da transação. Durante esse período, os registos ficam à disposição das autoridades competentes sempre que estas os solicitem para efeitos de controlo.\n\n4. Os registos são conservados em suporte de papel ou outro suporte duradouro e ficam permanentemente disponíveis para inspeção durante todo o período referido no n.º 3. Os dados armazenados em suporte eletrónico:\n\na) Apresentam o mesmo formato e conteúdo que os documentos correspondentes em suporte de papel; e\n\nb) Ficam permanentemente à disposição para consulta imediata durante todo o período referido no n.º 3."
+  },
+  "c311f2adbc725e8d": {
+   "fragment_id": "Artigo 9.º — Participação de transações suspeitas, de desaparecimentos e de roubos",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Participação de transações suspeitas, de desaparecimentos e de roubos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Participação de transações suspeitas, de desaparecimentos e de roubos\n\n1. As transações suspeitas que envolvam substâncias constantes dos anexos, ou que envolvam misturas ou substâncias que as contenham, são participadas nos termos do presente artigo.\n\n2. Os Estados-Membros designam um ou vários pontos de contacto nacionais com um número de telefone e um endereço eletrónico claramente identificados para a participação de transações suspeitas.\n\n3. Os operadores económicos podem reservar-se o direito de recusar uma transação suspeita e participam sem demoras injustificadas a transação ou a tentativa de transação, se possível indicando a identidade do cliente, ao ponto de contacto do Estado-Membro em que a transação foi concluída ou proposta, caso tenham motivos razoáveis para considerar que uma proposta de transação que envolva uma ou mais substâncias constantes dos anexos, ou que envolva misturas ou substâncias que as contenham, é uma transação suspeita, tendo em conta todas as circunstâncias e, em especial, caso o potencial cliente:\n\na) Tenha dúvidas a respeito da utilização prevista da substância ou mistura;\n\nb) Desconheça a utilização prevista da substância ou não saiba apresentar uma explicação plausível para essa mesma utilização;\n\nc) Pretenda adquirir quantidades, combinações ou concentrações pouco habituais de substâncias para utilização doméstica;\n\nd) Se recuse a apresentar prova de identidade ou de residência; ou\n\ne) Insista em usar meios pouco habituais de pagamento, nomeadamente grandes quantias em numerário.\n\n4. Os operadores económicos participam também os desaparecimentos e roubos importantes de substâncias constantes dos anexos, bem como de misturas ou substâncias que as contenham, ao ponto de contacto do Estado-Membro em que o desaparecimento ou o roubo tenha ocorrido.\n\n5. Para facilitar a cooperação entre as autoridades competentes e os operadores económicos, a Comissão elabora, depois de consultar o Comité Permanente dos Precursores, até 2 de setembro de 2014, orientações destinadas à cadeia de abastecimento dos produtos químicos e, caso tal se justifique, às autoridades competentes. As orientações devem incluir, nomeadamente:\n\na) Informações sobre o modo de reconhecer e participar transações suspeitas, em especial no que respeita a concentrações e/ou quantidades de substâncias constantes do Anexo II abaixo das quais não há normalmente necessidade de tomar medidas;\n\nb) Informações sobre o modo de reconhecer e participar desaparecimentos e roubos importantes;\n\nc) Outras informações consideradas úteis.\n\nA Comissão atualiza periodicamente as orientações.\n\n6. As autoridades competentes asseguram que as orientações previstas no n.º 5 sejam periodicamente divulgadas de forma que considerem apropriada, em conformidade com os objetivos das orientações."
+  },
+  "bdaf5a08e647b88c": {
+   "fragment_id": "Artigo 10.º — Proteção de dados",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Proteção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Proteção de dados\n\nOs Estados-Membros asseguram que o tratamento de dados pessoais efetuado ao abrigo do presente regulamento respeite o disposto na Diretiva 95/46/CE. Asseguram, em especial, que o tratamento de dados pessoais necessário para a concessão de licenças nos termos do artigo 4.º, n.^os^ 2 e 6, e do artigo 7.º do presente regulamento ou para o registo de transações nos termos dos artigos 4.º, n.º 3, e dos artigos 8.º e 17.º do presente regulamento, bem como a participação de transações suspeitas nos termos do artigo 9.º do presente regulamento, respeitem o disposto na Diretiva 95/46/CE."
+  },
+  "ed981389c52eba91": {
+   "fragment_id": "Artigo 11.º — Sanções",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sanções\n\nOs Estados-Membros estabelecem o regime de sanções aplicável em caso de infração às disposições do presente regulamento e tomam todas as medidas necessárias para assegurar a sua aplicação. As sanções previstas devem ser efetivas, proporcionadas e dissuasivas."
+  },
+  "1dd9e5e05426f726": {
+   "fragment_id": "Artigo 12.º — Alteração dos anexos",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Alteração dos anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração dos anexos\n\n1. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 14.º para alterar os valores-limite fixados no Anexo I na medida do necessário a fim de ter em conta a evolução da utilização indevida de substâncias como precursores de explosivos, ou com base em estudos ou ensaios, e para aditar novas substâncias ao Anexo II caso seja necessário a fim de ter em conta a evolução da utilização indevida de substâncias como precursores de explosivos. Na preparação dos atos delegados, a Comissão procura consultar as partes interessadas, em particular a indústria química e o setor retalhista.\n\nSe, em caso de uma alteração súbita da avaliação de riscos no que se refere à utilização indevida de substâncias para o fabrico ilícito de explosivos, imperativos de urgência assim o exigirem, aplica-se aos atos delegados adotados nos termos do presente artigo o procedimento previsto no artigo 15.º.\n\n2. A Comissão adota um ato delegado independente relativamente a cada alteração dos valores-limite fixados no Anexo I e a cada nova substância aditada ao Anexo II. Cada um desses atos delegados tem por base uma análise que demonstre que a alteração não é suscetível de implicar encargos desproporcionados quer para os operadores económicos quer para os consumidores, tendo devidamente em conta os objetivos a atingir."
+  },
+  "1e5d3833bc10d408": {
+   "fragment_id": "Artigo 13.º — Cláusula de salvaguarda",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Cláusula de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cláusula de salvaguarda\n\n1. Se os Estados-Membros tiverem motivos razoáveis para considerar que determinada substância não constante dos anexos pode ser utilizada no fabrico ilícito de explosivos, podem restringir ou proibir a disponibilização, a posse e a utilização dessa substância, ou de qualquer mistura ou substância que a contenha, ou podem determinar que a referida substância fique sujeita ao regime de participação de transações suspeitas previsto no artigo 9.º.\n\n2. Se os Estados-Membros tiverem motivos razoáveis para considerar que determinada substância constante do Anexo I pode ser utilizada no fabrico ilícito de explosivos numa concentração inferior ao valor-limite fixado nesse anexo, podem impor maiores restrições ou proibir a disponibilização, a posse e a utilização dessa substância, fixando para tal um valor-limite inferior de concentração.\n\n3. Se os Estados-Membros tiverem motivos razoáveis que justifiquem a fixação de um valor-limite de concentração acima do qual determinada substância constante do Anexo II deva estar sujeita às restrições aplicáveis aos precursores de explosivos, podem impor restrições ou proibir a disponibilização, a posse e a utilização dessa substância, determinando para tal uma concentração máxima autorizada.\n\n4. Os Estados-Membros que imponham restrições ou proíbam substâncias ao abrigo dos n.^os^ 1, 2 ou 3 informam de imediato a Comissão e os demais Estados-Membros desse facto, indicando os seus motivos.\n\n5. Tendo em conta as informações comunicadas nos termos do n.º 4, a Comissão verifica imediatamente se deve preparar alterações aos anexos ao abrigo do artigo 12.º, n.º 1, ou elaborar uma proposta legislativa para os alterar. Os Estados-Membros em causa alteram ou revogam as suas disposições nacionais, consoante a necessidade, a fim de ter em conta quaisquer alterações aos anexos.\n\n6. Até 2 de junho de 2013, os Estados-Membros notificam a Comissão das medidas nacionais que restringem ou proíbem a disponibilização, a posse e a utilização de qualquer substância, ou de qualquer mistura ou substância que a contenha, pelo facto de poder ser utilizada no fabrico ilícito de explosivos."
+  },
+  "5909b9e7f41a65c4": {
+   "fragment_id": "Artigo 14.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 12.º é conferido à Comissão por um prazo de cinco anos a partir de 1 de março de 2013. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do termo do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por prazos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 12.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 12.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogado por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "6bbfdd16ba4f3409": {
+   "fragment_id": "Artigo 15.º — Procedimento de urgência",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Procedimento de urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento de urgência\n\n1. Os atos delegados adotados por força do presente artigo entram em vigor sem demora e são aplicáveis desde que não tenham sido formuladas objeções ao abrigo do n.º 2. Na notificação de um ato delegado ao Parlamento Europeu e ao Conselho devem expor-se os motivos que justificam o recurso ao procedimento de urgência.\n\n2. O Parlamento Europeu ou o Conselho podem formular objeções a um ato delegado de acordo com o procedimento a que se refere o artigo 14.º, n.º 5. Nesse caso, a Comissão revoga sem demora o ato após a notificação da decisão pela qual o Parlamento Europeu ou o Conselho tiverem formulado objeções."
+  },
+  "b9b3fa86478d94f8": {
+   "fragment_id": "Artigo 16.º — Disposição transitória",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposição transitória\n\nA posse e a utilização de precursores de explosivos objeto de restrições são autorizadas a particulares até 2 de março de 2016."
+  },
+  "d6ccf03dc475d7c5": {
+   "fragment_id": "Artigo 17.º — Regimes de registo em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Regimes de registo em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regimes de registo em vigor\n\nOs Estados-Membros que, em 1 de março de 2013, tenham em vigor regimes pelos quais os operadores económicos sejam obrigados a registar as transações que disponibilizam a particulares precursores de explosivos objeto de restrições podem, em derrogação do artigo 4.º, n.^os^ 1 e 2, aplicar os referidos regimes de registo nos termos do artigo 8.º a algumas ou a todas as substâncias constantes do Anexo I. As regras estabelecidas no artigo 4.º, n.^os^ 4 a 7, aplicam-se com as necessárias adaptações."
+  },
+  "da5289a2491f8b94": {
+   "fragment_id": "Artigo 18.º — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Revisão\n\n1. Até 2 de setembro de 2017, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório em que analisa:\n\na) Os problemas surgidos com a aplicação do presente regulamento;\n\nb) Em que medida é desejável e exequível continuar a reforçar e a harmonizar o sistema dado o perigo para a segurança pública representado pelo terrorismo e por outras atividades criminosas graves, tendo em conta a experiência adquirida pelos Estados-Membros com o presente regulamento, incluindo eventuais falhas de segurança, e os custos e benefícios para os Estados-Membros, para os operadores económicos e para outras partes interessadas;\n\nc) Em que medida é desejável e exequível alargar o âmbito do presente regulamento para abranger os utilizadores profissionais, tendo em conta os encargos impostos aos operadores económicos e o objetivo do presente regulamento;\n\nd) Em que medida é desejável e exequível incluir precursores de explosivos não classificados nas disposições relativas à participação transações suspeitas, de desaparecimentos e de roubos.\n\n2. Até 2 de março de 2015, a Comissão apresenta ao Parlamento Europeu e ao Conselho um relatório em que analisa a possibilidade de transferir as disposições pertinentes relativas ao nitrato de amónio do Regulamento (CE) n.º 1907/2006 para o presente regulamento.\n\n3. Se necessário, tendo em conta os relatórios referidos nos n.^os^ 1 e 2, a Comissão apresenta ao Parlamento Europeu e ao Conselho uma proposta legislativa a fim de alterar o presente regulamento."
+  },
+  "d0dc1bc81106fe80": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 2 de setembro de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Estrasburgo, em 15 de janeiro de 2013.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**M. SCHULZ**\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**L. CREIGHTON**\n\n---"
+  },
+  "b78dffdd88d44b13": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntc1-L_2013039PT.01000101-E0001) [JO C 84 de 17.3.2011, p. 25](http://publications.europa.eu/resource/oj/JOC_2011_084_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntc2-L_2013039PT.01000101-E0002) Posição do Parlamento Europeu de 20 de novembro de 2012 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 11 de dezembro de 2012.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntc3-L_2013039PT.01000101-E0003) [JO L 353 de 31.12.2008, p. 1](http://publications.europa.eu/resource/oj/JOL_2008_353_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntc4-L_2013039PT.01000101-E0004) [JO L 396 de 30.12.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_396_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntc5-L_2013039PT.01000101-E0005) [JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntc6-L_2013039PT.01000101-E0006) [JO L 204 de 21.7.1998, p. 37](http://publications.europa.eu/resource/oj/JOL_1998_204_R_TOC).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntc7-L_2013039PT.01000101-E0007) [JO L 8 de 12.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntc8-L_2013039PT.01000101-E0008) [JO C 101 de 1.4.2011, p. 1](http://publications.europa.eu/resource/oj/JOC_2011_101_R_TOC).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntc9-L_2013039PT.01000101-E0009) [JO L 154 de 14.6.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_154_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/418510ec-712e-11e2-9294-01aa75ed71a1.0019.04/DOC_1#ntc10-L_2013039PT.01000101-E0010) [JO L 46 de 17.2.1997, p. 25](http://publications.europa.eu/resource/oj/JOL_1997_046_R_TOC)."
+  },
+  "5aebac6947a63561": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de janeiro de 2013\n\nsobre a comercialização e utilização de precursores de explosivos\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "c4cc12d091ded5be": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento aplica-se às substâncias constantes dos anexos e às misturas ou substâncias que as contenham.\n\n2. O presente regulamento não se aplica:\n\na) Aos artigos definidos no artigo 3.º, ponto 3, do Regulamento (CE) n.º 1907/2006;\n\nb) Aos artigos de pirotecnia definidos no artigo 2.º, ponto 1, da Diretiva 2007/23/CE do Parlamento Europeu e do Conselho, de 23 de maio de 2007, relativa à colocação no mercado de artigos de pirotecnia ([^1^](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#E0001)), aos artigos de pirotecnia para utilização não comercial, nos termos da legislação nacional, pelas forças armadas, pelas forças policiais ou pelos bombeiros, aos equipamentos marítimos abrangidos pela Diretiva 96/98/CE do Conselho, de 20 de dezembro de 1996, relativa aos equipamentos marítimos ([^2^](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#E0002)), aos artigos de pirotecnia para utilização na indústria aeroespacial e às cápsulas fulminantes para brinquedos;\n\nc) Aos medicamentos legitimamente disponibilizados a particulares mediante receita médica, nos termos da legislação nacional aplicável."
+  },
+  "2cd39ddc11786e0d": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Substância»: uma substância na aceção do artigo 3.º, ponto 1, do Regulamento (CE) n.º 1907/2006;\n\n2) «Preparação»: uma preparação na aceção do artigo 3.º, ponto 2, do Regulamento (CE) n.º 1907/2006;\n\n3) «Artigo»: um artigo na aceção do artigo 3.º, ponto 3, do Regulamento (CE) n.º 1907/2006;\n\n4) «Disponibilização»: qualquer forma de provisão, a título oneroso ou gratuito;\n\n5) «Introdução»: a introdução de uma substância no território de um Estado-Membro a partir de outro Estados-Membro ou de um país terceiro;\n\n6) «Utilização»: o processamento, formulação, armazenamento, tratamento ou mistura de uma substância, inclusive na produção de um artigo, ou qualquer outra utilização;\n\n7) «Particular»: uma pessoa singular que aja com fins não relacionados com a sua atividade comercial, empresarial ou profissional;\n\n8) «Transação suspeita»: uma transação de substâncias constantes dos anexos, ou de misturas ou substâncias que as contenham, incluindo transações que envolvam utilizadores profissionais, caso haja motivos razoáveis para suspeitar que as substâncias ou misturas se destinam ao fabrico ilícito de explosivos;\n\n9) «Operador económico»: uma pessoa singular ou coletiva ou uma entidade pública, ou um grupo de tais pessoas e/ou organismos, que forneça produtos ou preste serviços no mercado;\n\n10) «Precursor de explosivos objeto de restrições»: uma substância constante do Anexo I com concentração superior ao valor-limite correspondente aí fixado ou qualquer mistura ou substância que a contenha numa concentração superior ao valor-limite correspondente."
+  },
+  "b35cffb01d413c24": {
+   "fragment_id": "Artigo 19.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 2 de setembro de 2014.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "458373508efc3143": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\nSubstâncias que não devem ser disponibilizadas a particulares, isoladamente ou em misturas ou substâncias que as contenham, salvo se a concentração for igual ou inferior aos valores-limite a seguir fixados\n\n| Designação da substância e número de registo do Chemical Abstracts Service (n.º CAS) | Valor-limite | Código da Nomenclatura Combinada (NC) para compostos de constituição química definida apresentados isoladamente, abrangidos pela nota 1 dos Capítulos 28 ou 29 da NC [(^1^)](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#E0003) | Código da Nomenclatura Combinada (NC) para misturas sem componentes (por exemplo, mercúrio, metais preciosos ou das terras raras ou substâncias radioativas) que determinariam a classificação noutro código da NC [(^1^)](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#E0003) |\n| --- | --- | --- | --- |\n| Peróxido de hidrogénio (n.º CAS 7722-84-1) | 12 % m/m | 2847 00 00 | 3824 90 97 |\n| Nitrometano (n.º CAS 75-52-5) | 30 % m/m | 2904 20 00 | 3824 90 97 |\n| Ácido nítrico (n.º CAS 7697-37-2) | 3 % m/m | 2808 00 00 | 3824 90 97 |\n| Clorato de potássio (n.º CAS 3811-04-9) | 40 % m/m | 2829 19 00 | 3824 90 97 |\n| Perclorato de potássio (n.º CAS 7778-74-7) | 40 % m/m | 2829 90 10 | 3824 90 97 |\n| Clorato de sódio (n.º CAS 7775-09-9) | 40 % m/m | 2829 11 00 | 3824 90 97 |\n| Perclorato de sódio (n.º CAS 7601-89-0) | 40 % m/m | 2829 90 10 | 3824 90 97 |\n| (^1^)Regulamento (CEE) n.º 2658/87 do Conselho, de 23 de julho de 1987, relativo à nomenclatura pautal e estatística e à pauta aduaneira comum (JO L 256 de 7.9.1987, p. 1). [▼B](http://publications.europa.eu/resource/celex/32013R0098) |  |  |  |"
+  },
+  "160e6845b7b48d53": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nSubstâncias isoladas ou em misturas ou substâncias cujas transações suspeitas devem ser participadas\n\n| Designação da substância e número de registo do Chemical Abstracts Service (n.º CAS) | [**►M1**](http://publications.europa.eu/resource/celex/32017R0214) Código da Nomenclatura Combinada (NC) [(^1^)](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#E0004) **◄** | Código da Nomenclatura Combinada (NC) para misturas sem componentes (por exemplo, mercúrio, metais preciosos ou das terras raras ou substâncias radioativas) que determinariam a classificação noutro código da NC [(^1^)](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#E0004) |\n| --- | --- | --- |\n| Hexamina (n.º CAS 100-97-0) | 2921 29 00 | 3824 90 97 |\n| Ácido sulfúrico (n.º CAS 7664-93-9) | 2807 00 10 | 3824 90 97 |\n| Acetona (n.º CAS 67-64-1) | 2914 11 00 | 3824 90 97 |\n| Nitrato de potássio (n.º CAS 7757-79-1) | 2834 21 00 | 3824 90 97 |\n| Nitrato de sódio (n.º CAS 7631-99-4) | 3102 50 10 (natural) | 3824 90 97 |\n| 3102 50 90 (outro) | 3824 90 97 |  |\n| Nitrato de cálcio (n.º CAS 10124-37-5) | 2834 29 80 | 3824 90 97 |\n| Nitrato de amónio cálcico (n.º CAS 15245-12-2) | 3102 60 00 | 3824 90 97 |\n| Nitrato de amónio (n.º CAS 6484-52-2) [numa concentração de 16 % ou superior, em massa, de azoto proveniente de nitrato de amónio] | 3102 30 10 (em solução aquosa) | 3824 90 97 |\n| 3102 30 90 (outro) |  |  |\n| [▼M3](http://publications.europa.eu/resource/celex/32017R0216) |  |  |\n| *Pó* de magnésio (CAS RN 7439-95-4) [(^2^)](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#E0005) [(^3^)](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#E0006) | ex 8104 30 00 |  |\n| [▼M2](http://publications.europa.eu/resource/celex/32017R0215) |  |  |\n| Nitrato de magnésio hexa-hidratado (CAS RN 13446-18-9) | 2834 29 80 | 3824 90 96 |\n| [▼M1](http://publications.europa.eu/resource/celex/32017R0214) |  |  |\n| *Pós de* alumínio (CAS RN 7429-90-5) [(^2^)](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#E0005) [(^3^)](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#E0006) | ex 7603 10 00 ex 7603 20 00 |  |\n| (^1^)Regulamento (CEE) n.º 2658/87. (^2^)Com granulometria inferior a 200 μm. (^3^)Como substância ou em misturas que contenham, em peso, 70 % ou mais de alumínio e/ou magnésio. |  |  |\n\n---"
+  },
+  "cab0f3ab5a4e3520": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#src.E0001)) JO L 154 de 14.6.2007, p. 1.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/c2572edf-73f4-410a-8b34-fcf671566232.0015.02/DOC_2#src.E0002)) JO L 46 de 17.2.1997, p. 25."
+  },
+  "70529a0340d0ee20": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02013R0098 — PT — 01.02.2021 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32013R0098) [REGULAMENTO (UE) N.º 98/2013 DO PARLAMENTO EUROPEU E DO CONSELHO](http://publications.europa.eu/resource/celex/32013R0098) [de 15 de janeiro de 2013](http://publications.europa.eu/resource/celex/32013R0098) [sobre a comercialização e utilização de precursores de explosivos](http://publications.europa.eu/resource/celex/32013R0098) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32013R0098) (JO L 039, 9.2.2013, p.1)\n\n**Revogado por:**\n\n- [Regulamento (UE) 2019/1148 do Parlamento Europeu e do Conselho de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1148) — L 186 — 1 — 11.7.2019"
+  }
+ }
+}

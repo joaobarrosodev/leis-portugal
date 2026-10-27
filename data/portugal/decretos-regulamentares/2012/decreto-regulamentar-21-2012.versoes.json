@@ -1,0 +1,382 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:543723:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-212118535",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/21-2012-543723",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-02-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1020082956",
+    "212115063",
+    "212115064",
+    "212115065",
+    "212115066",
+    "212115067",
+    "212115068",
+    "212115069",
+    "212115070",
+    "212115071",
+    "212115072",
+    "212115074"
+   ]
+  },
+  {
+   "date": "2014-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58661942:por",
+     "title": "Decreto Regulamentar n.º 5/2014",
+     "published": "2014-10-30",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/5-2014-58661942"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "212115062",
+    "212123787",
+    "212123788",
+    "212123789",
+    "212123790",
+    "212115067",
+    "212115068",
+    "212115069",
+    "212115070",
+    "212115071",
+    "212115072",
+    "212115073",
+    "212123791"
+   ]
+  },
+  {
+   "date": "2026-01-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1017369016:por",
+     "title": "Decreto-Lei n.º 10/2026",
+     "published": "2026-01-21",
+     "dre_path": "/dr/detalhe/decreto-lei/10-2026-1017369016"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1020082956",
+    "1020082957",
+    "1020082958",
+    "1020082959",
+    "1020082960",
+    "1020082961",
+    "1020082962",
+    "1020082963",
+    "1020082964",
+    "1020082965",
+    "1020082966",
+    "1020082967",
+    "1020082968"
+   ]
+  }
+ ],
+ "fragments": {
+  "1020082956": {
+   "fragment_id": "212118536",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-01-22",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 21/2012\n\nde 8 de fevereiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nAssim, no cumprimento destas orientações, procede-se à reorganização da Secretaria-Geral do Ministério da Solidariedade e da Segurança Social, redefinindo a sua estrutura organizacional, orientando-a, seguindo uma lógica de racionalização, promotora de maior eficiência e eficácia, para um prestação de serviços de elevada qualidade.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 43-B/2024 - Diário da República n.º 126/2024, Suplemento, Série I de 2024-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938) O presente decreto regulamentar encontra-se revogado pelo Decreto-Lei n.º 43-B/2024, de 2 de julho. Contudo, a revogação apenas produz efeitos em 1 de junho de 2025, nos termos do faseamento operacional definido no Anexo IV deste."
+  },
+  "212115063": {
+   "fragment_id": "212118537",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria-Geral do Ministério da Solidariedade e da Segurança Social (MSSS), abreviadamente designada por SG, é um serviço central da administração directa do Estado dotado de autonomia administrativa."
+  },
+  "212115064": {
+   "fragment_id": "212118538",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MSSS e aos demais órgãos e serviços nele integrados, nos domínios da gestão de recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação e da comunicação e relações públicas.\n\n2 - A SG prossegue as seguintes atribuições:\n\na) Apoiar administrativa, técnica e juridicamente os gabinetes dos membros do Governo integrados no MSSS, bem como os órgãos, serviços, comissões e grupos de trabalho que não disponham de meios apropriados, bem como assegurar os serviços de apoio jurídico-contencioso do MSSS;\n\nb) Assegurar a elaboração do orçamento de funcionamento do MSSS, bem como acompanhar a respectiva execução, e a do orçamento de investimento;\n\nc) Gerir os contratos de prestação de serviços de suporte não integrados em entidades públicas prestadoras de serviços partilhados, bem como centralizar o processo relativo às aquisições de bens e serviços para o MSSS, no quadro do funcionamento do sistema de compras públicas, assegurando as funções da unidade ministerial de compras;\n\nd) Gerir o edifício sede do MSSS, bem como outras instalações que lhe estejam afectas, e coordenar as acções referentes à organização e preservação do património, designadamente no que se refere às necessidades de restauro e conservação, bem como à promoção da racionalização dos espaços ocupados pelos serviços e organismos do MSSS;\n\ne) Assegurar as actividades do MSSS no âmbito da comunicação, marketing, informação, protocolo e relações públicas;\n\nf) Preservar o arquivo histórico, procedendo à recolha, tratamento, conservação dos arquivos que deixaram de ser de uso corrente por parte dos organismos produtores, nomeadamente os arquivos dos gabinetes governamentais, bem como promover as boas práticas de gestão documental nos serviços e organismos do MSSS;\n\ng) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MSSS na respectiva implementação;\n\nh) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal do MSSS;\n\ni) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afecto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais;\n\nj) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade, no âmbito do MSSS, e assegurar a articulação com os organismos com competências interministeriais nestas áreas;\n\nl) Promover a aplicação das medidas de política de segurança e saúde no trabalho definidas para a Administração Pública;\n\nm) Promover a qualificação dos recursos humanos do MSSS;\n\nn) Assegurar o normal funcionamento do MSSS nas áreas que não sejam da competência específica de outros serviços."
+  },
+  "212115065": {
+   "fragment_id": "212118539",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nA SG é dirigida por um secretário-geral, coadjuvado por dois secretários-gerais-adjuntos, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "212115066": {
+   "fragment_id": "212118540",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Secretário-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao secretário-geral:\n\na) Exercer, de harmonia com a lei e as orientações do ministro, a representação do MSSS;\n\nb) Exercer as funções de oficial público nos actos e contratos em que participem como outorgantes os membros do Governo.\n\n2 - Os secretários-gerais-adjuntos exercem as competências que lhes sejam delegadas ou subdelegadas pelo secretário-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos."
+  },
+  "212115067": {
+   "fragment_id": "212118541",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna da SG obedece ao modelo de estrutura hierarquizada."
+  },
+  "212115068": {
+   "fragment_id": "212118542",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Receitas\n\n1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A SG dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) O produto de venda de publicações e de trabalhos editados pela SG;\n\nc) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;\n\nd) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As quantias cobradas pela SG são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas da segurança social e das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento."
+  },
+  "212115069": {
+   "fragment_id": "212118543",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas\n\nConstituem despesas da SG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "212115070": {
+   "fragment_id": "212118544",
+   "type": 11,
+   "heading": "Artigo 8.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante."
+  },
+  "212115071": {
+   "fragment_id": "212118545",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar n.º 63/2007, de 29 de Maio."
+  },
+  "212115072": {
+   "fragment_id": "212118546",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "212115074": {
+   "fragment_id": "212118548",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 8.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "212115062": {
+   "fragment_id": "212118536",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 21/2012\n\nde 8 de fevereiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nAssim, no cumprimento destas orientações, procede-se à reorganização da Secretaria-Geral do Ministério da Solidariedade e da Segurança Social, redefinindo a sua estrutura organizacional, orientando-a, seguindo uma lógica de racionalização, promotora de maior eficiência e eficácia, para um prestação de serviços de elevada qualidade.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "212123787": {
+   "fragment_id": "212118537",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria-Geral do Ministério da Solidariedade, Emprego e Segurança Social (MSESS), abreviadamente designada por SG, é um serviço central da administração direta do Estado dotado de autonomia administrativa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+  },
+  "212123788": {
+   "fragment_id": "212118538",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MSESS e aos demais órgãos e serviços nele integrados, nos domínios da gestão dos recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação, da inovação e qualidade e da comunicação e relações públicas, bem como a prestação de serviços partilhados nos domínios dos recursos humanos, da formação profissional nas matérias transversais, da negociação e aquisição de bens e serviços, financeiro e patrimonial.\n\n2 - A SG prossegue as seguintes atribuições:\n\na) Apoiar administrativa, técnica e juridicamente os gabinetes dos membros do Governo integrados no MSESS, bem como os órgãos, serviços, comissões e grupos de trabalho que não disponham de meios apropriados, e assegurar os serviços de apoio jurídico-contencioso do MSESS;\n\nb) Assegurar as atividades do MSESS no âmbito da comunicação e relações públicas;\n\nc) Assegurar a elaboração do orçamento de funcionamento do MSESS, bem como acompanhar a respetiva execução, e a do orçamento de investimento;\n\nd) Gerir os contratos de prestação de serviços de suporte, na ótica de serviços partilhados, sem prejuízo das competências e atribuições do Instituto de Informática, I. P.;\n\ne) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MSESS na respetiva implementação, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\nf) Assegurar a prestação de serviços partilhados nos domínios dos recursos humanos, da formação profissional nas matérias transversais, da negociação e aquisição de bens e serviços, financeiro e patrimonial, aos serviços da administração direta e aos organismos da administração indireta, sem autonomia financeira, integrados no MSESS;\n\ng) Assegurar as funções de unidade ministerial de compras;\n\nh) Promover boas práticas de gestão de documentos nos serviços e organismos do MSESS e proceder à recolha, tratamento e conservação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;\n\ni) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade, no âmbito do MSESS, e assegurar a articulação com os organismos com competências interministeriais nestas áreas;\n\nj) [Anterior alínea l)];\n\nl) Assegurar o normal funcionamento do MSESS nos domínios que não sejam da competência específica de outros serviços;\n\nm) [Revogada];\n\nn) [Revogada].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+  },
+  "212123789": {
+   "fragment_id": "212118539",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nA SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral-adjunto, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+  },
+  "212123790": {
+   "fragment_id": "212118540",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretário-geral",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 4.º — Secretário-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao secretário-geral:\n\na) Exercer, de harmonia com a lei e as orientações do ministro, a representação do MSESS;\n\nb) Exercer as funções de oficial público nos actos e contratos em que participem como outorgantes os membros do Governo.\n\n2 - O secretário-geral-adjunto exerce as competências que lhe sejam delegadas ou subdelegadas pelo secretário-geral, competindo-lhe substituí-lo nas suas faltas e impedimentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+  },
+  "212115073": {
+   "fragment_id": "212118547",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 19 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "212123791": {
+   "fragment_id": "212118548",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 8.º)",
+   "in_force_from": "2014-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 8.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+  },
+  "1020082957": {
+   "fragment_id": "212118537",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria-Geral do Ministério da Solidariedade, Emprego e Segurança Social (MSESS), abreviadamente designada por SG, é um serviço central da administração direta do Estado dotado de autonomia administrativa.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+  },
+  "1020082958": {
+   "fragment_id": "212118538",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MSESS e aos demais órgãos e serviços nele integrados, nos domínios da gestão dos recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação, da inovação e qualidade e da comunicação e relações públicas, bem como a prestação de serviços partilhados nos domínios dos recursos humanos, da formação profissional nas matérias transversais, da negociação e aquisição de bens e serviços, financeiro e patrimonial.\n\n2 - A SG prossegue as seguintes atribuições:\n\na) Apoiar administrativa, técnica e juridicamente os gabinetes dos membros do Governo integrados no MSESS, bem como os órgãos, serviços, comissões e grupos de trabalho que não disponham de meios apropriados, e assegurar os serviços de apoio jurídico-contencioso do MSESS;\n\nb) Assegurar as atividades do MSESS no âmbito da comunicação e relações públicas;\n\nc) Assegurar a elaboração do orçamento de funcionamento do MSESS, bem como acompanhar a respetiva execução, e a do orçamento de investimento;\n\nd) Gerir os contratos de prestação de serviços de suporte, na ótica de serviços partilhados, sem prejuízo das competências e atribuições do Instituto de Informática, I. P.;\n\ne) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MSESS na respetiva implementação, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\nf) Assegurar a prestação de serviços partilhados nos domínios dos recursos humanos, da formação profissional nas matérias transversais, da negociação e aquisição de bens e serviços, financeiro e patrimonial, aos serviços da administração direta e aos organismos da administração indireta, sem autonomia financeira, integrados no MSESS;\n\ng) Assegurar as funções de unidade ministerial de compras;\n\nh) Promover boas práticas de gestão de documentos nos serviços e organismos do MSESS e proceder à recolha, tratamento e conservação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;\n\ni) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade, no âmbito do MSESS, e assegurar a articulação com os organismos com competências interministeriais nestas áreas;\n\nj) [Anterior alínea l)];\n\nl) Assegurar o normal funcionamento do MSESS nos domínios que não sejam da competência específica de outros serviços;\n\nm) [Revogada];\n\nn) [Revogada].\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+  },
+  "1020082959": {
+   "fragment_id": "212118539",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nA SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral-adjunto, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+  },
+  "1020082960": {
+   "fragment_id": "212118540",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretário-geral",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "###### Artigo 4.º — Secretário-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao secretário-geral:\n\na) Exercer, de harmonia com a lei e as orientações do ministro, a representação do MSESS;\n\nb) Exercer as funções de oficial público nos actos e contratos em que participem como outorgantes os membros do Governo.\n\n2 - O secretário-geral-adjunto exerce as competências que lhe sejam delegadas ou subdelegadas pelo secretário-geral, competindo-lhe substituí-lo nas suas faltas e impedimentos.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+  },
+  "1020082961": {
+   "fragment_id": "212118541",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna da SG obedece ao modelo de estrutura hierarquizada.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+  },
+  "1020082962": {
+   "fragment_id": "212118542",
+   "type": 11,
+   "heading": "Artigo 6.º — Receitas",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 6.º — Receitas\n\n1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A SG dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) O produto de venda de publicações e de trabalhos editados pela SG;\n\nc) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;\n\nd) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As quantias cobradas pela SG são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas da segurança social e das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+  },
+  "1020082963": {
+   "fragment_id": "212118543",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 7.º — Despesas\n\nConstituem despesas da SG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+  },
+  "1020082964": {
+   "fragment_id": "212118544",
+   "type": 11,
+   "heading": "Artigo 8.º — Mapa de cargos de direcção",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 8.º — Mapa de cargos de direcção\n\nOs lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+  },
+  "1020082965": {
+   "fragment_id": "212118545",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar n.º 63/2007, de 29 de Maio.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+  },
+  "1020082966": {
+   "fragment_id": "212118546",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+  },
+  "1020082967": {
+   "fragment_id": "212118547",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 19 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22"
+  },
+  "1020082968": {
+   "fragment_id": "212118548",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 8.º)",
+   "in_force_from": "2026-01-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 8.º)\n\nMapa de pessoal dirigente\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 10/2026 - Diário da República n.º 14/2026, Série I de 2026-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2026-1017369016), em vigor a partir de 2026-01-22\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 5/2014 - Diário da República n.º 210/2014, Série I de 2014-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2014-58661942), em vigor a partir de 2014-11-01"
+  }
+ }
+}

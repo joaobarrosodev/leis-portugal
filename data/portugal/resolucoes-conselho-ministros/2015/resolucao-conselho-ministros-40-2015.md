@@ -1,0 +1,155 @@
+---
+schema_version: '1.0'
+id: pt:dre:67498684:por
+title: Resolução do Conselho de Ministros n.º 40/2015
+short_title: null
+summary: Procede à primeira alteração à Resolução do Conselho de Ministros n.º 3/2015, de 12 de janeiro, que autoriza a emissão
+  de dívida pública, em execução do Orçamento do Estado para 2015, aprovado pela Lei n.º 82-B/2014, de 31 de dezembro, e do
+  Regime Geral da Emissão e Gestão da Dívida Pública, aprovado pela Lei n.º 7/98, de 3 de fevereiro
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 40/2015
+official_date: null
+publication_date: '2015-06-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/2015, Série I de 2015-06-16
+  number: '115'
+  series: I
+  supplement: null
+  pages: 3815 - 3816
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/06/11500/0381503816.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/40/2015/06/16/p/dre/pt/html
+  oj: null
+  dre: '67498684'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/40-2015-67498684
+  internal: pt:dre:67498684:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/40-2015-67498684
+  metadata_url: https://data.dre.pt/eli/resolconsmin/40/2015/06/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/40-2015-67498684
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:07:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 2018acaaf610d49df07fc4e3a3a5be182d665e7cdf8f0a107bb484f939a86625
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:07:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência de Gestão da Tesouraria e da Dívida Pública
+- Bilhetes do Tesouro
+- Certificado de Aforro
+- Certificado do Tesouro
+- Défice Orçamental
+- Dívida Pública
+- Dívida Pública Externa
+- Dívida Pública Interna
+- Emissão de Títulos
+- Financiamento
+- FMI
+- Obrigações do Tesouro
+- Poupança
+- Valores Mobiliários
+relationships:
+- type: cites
+  target: pt:dre:174556:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/2012/08/27/p/dre
+- type: cites
+  target: pt:dre:223628:por
+  label: null
+  source: http://data.dre.pt/eli/lei/7/1998/02/03/p/dre
+- type: cites
+  target: pt:dre:241413:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/280/1998/09/17/p/dre
+- type: cites
+  target: pt:dre:570520:por
+  label: null
+  source: http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:66145313:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/3/2015/01/12/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:07:52Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 40/2015
+
+A [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, que aprovou o Orçamento do Estado para 2015 estabeleceu o limite máximo até ao qual o Governo é autorizado, nos termos da alínea h) do artigo 161.º da Constituição, a contrair empréstimos amortizáveis e a realizar outras operações de endividamento, nomeadamente operações de reporte com valores mobiliários representativos de dívida pública direta do Estado, destinados ao financiamento do défice orçamental e à assunção de passivos, bem como ao refinanciamento da dívida pública.
+
+A estratégia de gestão da dívida pública direta do Estado tem procurado suavizar o perfil de amortizações, bem como, reduzir o risco de refinanciamento, nomeadamente através da amortização antecipada de empréstimos ou títulos representativos de dívida pública com maturidade original nos anos mais próximos, ou com taxas de juro mais altas, conforme previsto na alínea b) do n.º 1 do artigo 134.º e na alínea c) do n.º 1 do artigo 138.º da [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), 31 de dezembro.
+
+A redução dos custos de financiamento de que se vem beneficiando evidencia que é do interesse público proceder no corrente ano a uma liquidação antecipada parcial do empréstimo contraído junto do Fundo Monetário Internacional. Neste sentido, foi recentemente concretizada a liquidação de um valor equivalente a cerca de EUR 6,6 mil milhões, o que permitiu poupanças significativas no montante de juros a despender pela República Portuguesa.
+
+Mantendo-se o interesse em prosseguir com a realização de operações semelhantes no decurso do corrente ano, e estando salvaguardado o cumprimento do limite de endividamento líquido global direto previsto no artigo 132.º da [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, a presente resolução aprova a alteração dos montantes máximos de emissão bruta de alguns dos títulos representativos de dívida pública, ajustando-os, nomeadamente ao aumento de emissão de obrigações do tesouro que se pretende concretizar, bem como, ao acréscimo de subscrições de certificados de aforro e de certificados do tesouro poupança mais.
+
+Torna-se, assim, necessário alterar os limites para a emissão de empréstimos públicos, previstos nos n.os 2 e 4 da [Resolução do Conselho de Ministros n.º 3/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66145313/details/normal?l=1), de 12 de janeiro.
+
+Assim:
+
+Nos termos dos artigos 132.º, 134.º a 136.º e 138.º da [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, do n.º 1 do artigo 5.º da [Lei n.º 7/98](https://diariodarepublica.pt/dr/detalhe/lei/7-1998-223628), de 3 de fevereiro, alterada pela [Lei n.º 87-B/98](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), de 31 de dezembro, do n.º 1 do artigo 5.º e da alínea a) do n.º 1 do artigo 7.º dos estatutos da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E.P.E., aprovados pelo [Decreto-Lei n.º 200/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2012-174556), de 27 de agosto, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar que os n.os 2 e 4 da [Resolução do Conselho de Ministros n.º 3/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66145313/details/normal?l=1), de 12 de janeiro, passam a ter a seguinte redação:
+
+«2 - Autorizar a emissão de obrigações do Tesouro até ao montante máximo de (euro) 30 000 000 000 de acordo com o disposto no [Decreto-Lei n.º 280/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1998-241413), de 17 de setembro, e no respeito pelas seguintes condições complementares:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...].
+
+4 - Autorizar a emissão de certificados de aforro e certificados do tesouro poupança mais até ao montante máximo de (euro) 4 000 000 000.»
+
+2 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 4 de junho de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.

@@ -1,0 +1,747 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174781:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2012-124524803",
+ "dre_path": "/dr/detalhe/lei/40-2012-174781",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124526442",
+    "124526443",
+    "124526444",
+    "124526445",
+    "124526446",
+    "124526447",
+    "124526448",
+    "124526449",
+    "124526450",
+    "124526451",
+    "124526452",
+    "124526453",
+    "124526454",
+    "124526455",
+    "124526456",
+    "124526457",
+    "124526458",
+    "124526459",
+    "124526460",
+    "124526461",
+    "124526462",
+    "124526463",
+    "124526464",
+    "124526465",
+    "124526466",
+    "124526467",
+    "124526468",
+    "124526469",
+    "124526470",
+    "124526471",
+    "124526472",
+    "124526473",
+    "124526474",
+    "124526675",
+    "124526676",
+    "124526677",
+    "124526678",
+    "124526679"
+   ]
+  },
+  {
+   "date": "2020-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124500720:por",
+     "title": "Lei n.º 106/2019",
+     "published": "2019-09-06",
+     "dre_path": "/dr/detalhe/lei/106-2019-124500720"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Adita Artigo 10.º-A",
+    "Adita Artigo 10.º-B",
+    "Adita Artigo 10.º-C",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "124526442",
+    "124526443",
+    "124526444",
+    "124526756",
+    "124526734",
+    "124526735",
+    "124526757",
+    "124526758",
+    "124526449",
+    "124526759",
+    "124526451",
+    "124526760",
+    "124526761",
+    "124526762",
+    "124526738",
+    "124526744",
+    "124526750",
+    "124526763",
+    "124526764",
+    "124526765",
+    "124526766",
+    "124526755",
+    "124526460",
+    "124526767",
+    "124526462",
+    "124526463",
+    "124526464",
+    "124526768",
+    "124526466",
+    "124526467",
+    "124526468",
+    "124526769",
+    "124526470",
+    "124526471",
+    "124526472",
+    "124526473",
+    "124526474",
+    "124526770",
+    "124526676",
+    "124526677",
+    "124526678",
+    "124526679",
+    "124526680"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "124526442",
+    "124526443",
+    "124526444",
+    "124526756",
+    "124526734",
+    "124526735",
+    "124526757",
+    "124526758",
+    "124526449",
+    "124526759",
+    "124526451",
+    "124526760",
+    "124526761",
+    "124526762",
+    "124526738",
+    "124526744",
+    "124526750",
+    "124526763",
+    "124526764",
+    "124526765",
+    "124526766",
+    "124526755",
+    "124526460",
+    "124526767",
+    "124526462",
+    "124526463",
+    "124526464",
+    "155874255",
+    "124526466",
+    "124526467",
+    "124526468",
+    "155874256",
+    "155874257",
+    "124526471",
+    "124526472",
+    "124526473",
+    "124526474",
+    "124526770",
+    "124526676",
+    "124526677",
+    "124526678",
+    "124526679",
+    "124526680"
+   ]
+  }
+ ],
+ "fragments": {
+  "124526442": {
+   "fragment_id": "124524804",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 40/2012\n\nde 28 de agosto\n\nEstabelece o regime de acesso e exercício da atividade de treinador de desporto\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "124526443": {
+   "fragment_id": "124524805",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "124526444": {
+   "fragment_id": "124524806",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece o regime de acesso e exercício da atividade de treinador de desporto."
+  },
+  "124526445": {
+   "fragment_id": "124524807",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\n1 - São objetivos gerais do regime de acesso e exercício da atividade de treinador de desporto:\n\na) A promoção da ética desportiva e do desenvolvimento do espírito desportivo;\n\nb) A defesa da saúde e da segurança dos praticantes, bem como a sua valorização a nível desportivo e pessoal, quer quando orientados para a competição desportiva quer quando orientados para a participação nas demais atividades desportivas.\n\n2 - São objetivos específicos do regime de acesso e exercício da atividade de treinador de desporto:\n\na) Fomentar e favorecer a aquisição de conhecimentos gerais e específicos que garantam competência técnica e profissional na área da intervenção desportiva;\n\nb) Impulsionar a utilização de instrumentos técnicos e científicos, ao longo da vida, necessários à melhoria qualitativa da intervenção no sistema desportivo;\n\nc) Promover o aperfeiçoamento qualitativo e o desenvolvimento quantitativo da prática desportiva, quer seja de iniciação desportiva, de competição ou de alto rendimento;\n\nd) Dignificar as profissões e ocupações do desporto e fazer observar a respetiva deontologia, reforçando os valores éticos, educativos, culturais e ambientais, inerentes a uma adequada prática desportiva;\n\ne) Contribuir para facilitar o reconhecimento, o recrutamento e a promoção de talentos com vista ao desenvolvimento do desporto;\n\nf) Contribuir para o reconhecimento público da importância social do exercício da atividade e da profissão de treinador de desporto."
+  },
+  "124526446": {
+   "fragment_id": "124524808",
+   "type": 11,
+   "heading": "Artigo 3.º — Atividade de treinador de desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atividade de treinador de desporto\n\nA atividade de treinador de desporto, para efeitos da presente lei, compreende o treino e a orientação competitiva de praticantes desportivos, bem como o enquadramento técnico de uma atividade desportiva, exercida:\n\na) Como profissão exclusiva ou principal, auferindo por via dela uma remuneração;\n\nb) De forma habitual, sazonal ou ocasional, independentemente de auferir uma remuneração."
+  },
+  "124526447": {
+   "fragment_id": "124524809",
+   "type": 11,
+   "heading": "Artigo 4.º — Habilitação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Habilitação profissional\n\nA atividade referida no artigo anterior apenas pode ser exercida por treinadores de desporto, qualificados nos termos da presente lei, designadamente no âmbito:\n\na) De federações desportivas titulares do estatuto de utilidade pública desportiva;\n\nb) De associações promotoras de desporto;\n\nc) De entidades prestadoras de serviços desportivos, como tal referidas no artigo 43.º da Lei n.º 5/2007, de 16 de janeiro."
+  },
+  "124526448": {
+   "fragment_id": "124524810",
+   "type": 11,
+   "heading": "Artigo 5.º — Título profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Título profissional\n\n1 - É obrigatória a obtenção de título profissional válido para o exercício da atividade de treinador de desporto em território nacional.\n\n2 - É nulo o contrato pelo qual alguém se obrigue a exercer a atividade de treinador de desporto sem título profissional válido.\n\n3 - Excetuam-se do disposto nos números anteriores os profissionais cidadãos de Estado membro da União Europeia ou do Espaço Económico Europeu qualificados para as atividades descritas nos artigos 11.º a 14.º fora de Portugal e que aqui prestem serviços em regime de livre prestação, nos termos da Lei n.º 9/2009, de 4 de março.\n\n4 - Os profissionais referidos no número anterior devem apresentar ao Instituto Português do Desporto e da Juventude, I. P. (IPDJ, I. P.), a declaração prévia prevista no artigo 5.º da Lei n.º 9/2009, de 4 de março.\n\n5 - As referências legislativas a treinadores de desporto devem entender-se como abrangendo os profissionais referidos nos n.os 3 e 4, exceto quando o contrário resulte da própria norma em causa."
+  },
+  "124526449": {
+   "fragment_id": "124524811",
+   "type": 1,
+   "heading": "Capítulo II — Regime de acesso ao título profissional de treinador de desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime de acesso ao título profissional de treinador de desporto"
+  },
+  "124526450": {
+   "fragment_id": "124524812",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos de obtenção do título profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos de obtenção do título profissional\n\n1 - Podem ter acesso ao título profissional de treinador de desporto de uma dada modalidade desportiva os candidatos que satisfaçam um dos seguintes requisitos:\n\na) Licenciatura na área do Desporto ou da Educação Física, tal como identificada pela Direção-Geral do Ensino Superior;\n\nb) Qualificação na área do treino desportivo, no âmbito do Sistema Nacional de Qualificações, por via da formação ou através de competências profissionais adquiridas e desenvolvidas ao longo da vida reconhecidas, validadas e certificadas, nos termos do artigo 12.º do Decreto-Lei n.º 396/2007, de 31 de dezembro, e da respetiva regulamentação;\n\nc) Qualificações profissionais reconhecidas nos termos da Lei n.º 9/2009, de 4 de março.\n\n2 - O reconhecimento dos cursos previstos na alínea a) do número anterior, para efeitos de atribuição do título profissional, é da competência do IPDJ, I. P.\n\n3 - A emissão do título profissional compete ao IPDJ, I. P., sendo o respetivo modelo definido por despacho do presidente do IPDJ, I. P., publicado no Diário da República.\n\n4 - Para efeitos da alínea b) do n.º 1, os referenciais de formação na componente tecnológica para a obtenção de uma qualificação e os requisitos para homologação dos cursos conducentes à obtenção da mesma integram o Catálogo Nacional de Qualificações e são definidos por despacho do presidente do IPDJ, I. P., mediante parecer prévio favorável da Agência Nacional para a Qualificação e o Ensino Profissional, I. P., publicado no Diário da República, o qual deve definir os níveis de competências dos formadores e o perfil profissional, incluindo os objetivos das unidades e subunidades curriculares e conteúdos, as atividades, as competências de saída, as condições de acesso, as saídas profissionais, as unidades de formação e as cargas horárias.\n\n5 - Os cursos para obtenção da qualificação referida no número anterior são ministrados por entidades formadoras certificadas no âmbito do Sistema Nacional de Qualificações nos termos do artigo 9.º ou por federações desportivas dotadas do estatuto de utilidade pública desportiva."
+  },
+  "124526451": {
+   "fragment_id": "124524813",
+   "type": 11,
+   "heading": "Artigo 7.º — Emissão dos títulos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Emissão dos títulos profissionais\n\n1 - O candidato que pretenda obter título profissional de treinador de desporto apresenta perante o IPDJ, I. P., a sua candidatura, requerendo a emissão do título, com a sua identificação, instruída com certificado de qualificações ou diploma.\n\n2 - Os títulos profissionais correspondentes às candidaturas regularmente recebidas são emitidos pelo IPDJ, I. P., no prazo de 20 dias após a receção destas, considerando-se, na ausência de decisão expressa, o pedido tacitamente deferido e valendo os certificados de qualificações ou diplomas em causa, acompanhados do comprovativo de pagamento da taxa devida, como títulos profissionais para todos os efeitos legais.\n\n3 - A emissão de títulos profissionais por reconhecimento de qualificações profissionais obtidas noutros Estados membros da União Europeia ou do Espaço Económico Europeu ocorre simultaneamente com a decisão de reconhecimento, no termo do procedimento referido no artigo 47.º da Lei n.º 9/2009, de 4 de março."
+  },
+  "124526452": {
+   "fragment_id": "124524814",
+   "type": 11,
+   "heading": "Artigo 8.º — Revogação e caducidade do título",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revogação e caducidade do título\n\n1 - O IPDJ, I. P., deve promover a revogação do título profissional quando se conclua pela falsidade de qualquer elemento comprovativo dos requisitos para a respetiva emissão, sem prejuízo de eventual condenação por ilícito contraordenacional.\n\n2 - O título profissional caduca sempre que o seu titular não frequente com aproveitamento, no período de cinco anos, ações de formação contínua, tal como definido por portaria do membro do Governo responsável pela área do desporto, ministradas por federação desportiva titular do estatuto de utilidade pública desportiva ou por entidade formadora certificada, nos termos do artigo 9.º, com referência, nomeadamente, à definição das ações de formação e das áreas temáticas, à correspondência das unidades de crédito com as horas de formação, ao número mínimo de unidades de crédito e ao procedimento para o reconhecimento das ações de formação.\n\n3 - A revalidação do título profissional, através de plataforma informática criada para o efeito, é automática logo que se verifique o cumprimento do requisito referido no número anterior, sem prejuízo de eventual condenação por ilícito contraordenacional."
+  },
+  "124526453": {
+   "fragment_id": "124524815",
+   "type": 11,
+   "heading": "Artigo 9.º — Entidades formadoras e ações de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entidades formadoras e ações de formação\n\n1 - A certificação das entidades formadoras que ministrem ações de formação para treinadores de desporto segue os trâmites da Portaria n.º 851/2010, de 6 de setembro, com as seguintes adaptações:\n\na) A entidade competente para a certificação é o IPDJ, I. P.;\n\nb) Outros requisitos específicos, em complemento ou derrogação dos requisitos constantes da Portaria n.º 851/2010, de 6 de setembro, são aprovados por portaria dos membros do Governo responsáveis pelas áreas do desporto, da educação e da formação profissional.\n\n2 - A certificação de entidades formadoras referidas no número anterior é comunicada por meio eletrónico ao serviço central competente do ministério responsável pela área da formação profissional no prazo de 10 dias.\n\n3 - A certificação só produz efeitos após o pagamento das taxas devidas pela entidade formadora certificada aquando da apresentação do pedido de certificação.\n\n4 - As entidades formadoras devem apresentar ao IPDJ, I. P., mera comunicação prévia relativamente a cada ação de formação, acompanhada dos seguintes elementos:\n\na) Identificação da ação a ministrar, com data de início, duração, horário de funcionamento e local;\n\nb) Cópia ou acesso eletrónico pela entidade certificadora, aos conteúdos de formação da ação de formação, ou simples indicação dos mesmos, no caso de já terem sido anteriormente disponibilizados;\n\nc) Identificação dos formadores, acompanhada de curriculum vitae que evidencie a posse de competências adequadas às matérias que vão ministrar, salvo se já tiverem sido anteriormente disponibilizados."
+  },
+  "124526454": {
+   "fragment_id": "124524816",
+   "type": 11,
+   "heading": "Artigo 10.º — Graus do título profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Graus do título profissional\n\n1 - O título profissional confere competências ao seu titular, nos termos dos artigos seguintes, do seguinte modo:\n\na) Grau I;\n\nb) Grau II;\n\nc) Grau III;\n\nd) Grau IV.\n\n2 - A correspondência entre os níveis de qualificação previstos no âmbito do Quadro Nacional de Qualificações e os graus previstos no número anterior é integrada no Catálogo Nacional de Qualificações, sendo definida em articulação entre o IPDJ, I. P., e a Agência Nacional para a Qualificação e o Ensino Profissional, I. P.\n\n3 - A obtenção de título profissional de determinado grau confere ao seu titular as competências previstas nos artigos seguintes para o seu grau e para os graus inferiores."
+  },
+  "124526455": {
+   "fragment_id": "124524817",
+   "type": 11,
+   "heading": "Artigo 11.º — Treinador de desporto de grau I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Treinador de desporto de grau I\n\nO grau i corresponde ao nível mais elementar do exercício da profissão, conferindo ao seu titular, tendo em vista a consolidação de valores e hábitos desportivos para a vida, competências para:\n\na) A condução direta das atividades técnicas elementares associadas às fases iniciais da atividade ou carreira dos praticantes ou a níveis elementares de participação competitiva, sob coordenação de treinadores de desporto de grau superior;\n\nb) A coadjuvação na condução do treino e orientação competitiva de praticantes nas etapas subsequentes de formação desportiva."
+  },
+  "124526456": {
+   "fragment_id": "124524818",
+   "type": 11,
+   "heading": "Artigo 12.º — Treinador de desporto de grau II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Treinador de desporto de grau II\n\nO grau ii confere ao seu titular competências para:\n\na) A condução do treino e orientação competitiva de praticantes nas etapas subsequentes de formação desportiva;\n\nb) A coordenação e supervisão de uma equipa de treinadores de grau i ou ii, sendo responsável pela implementação de planos e ordenamentos estratégicos definidos por profissionais de grau superior;\n\nc) O exercício, de forma autónoma, de tarefas de conceção, planeamento, condução e avaliação do processo de treino e de participação competitiva;\n\nd) A coadjuvação de titulares de grau superior no planeamento, condução e avaliação do treino e participação competitiva."
+  },
+  "124526457": {
+   "fragment_id": "124524819",
+   "type": 11,
+   "heading": "Artigo 13.º — Treinador de desporto de grau III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Treinador de desporto de grau III\n\nO grau iii confere ao seu titular competências para o planeamento do exercício e avaliação do desempenho de um coletivo de treinadores com grau igual ou inferior, coordenando, supervisionando, integrando e harmonizando as diferentes tarefas associadas ao treino e à participação competitiva."
+  },
+  "124526458": {
+   "fragment_id": "124524820",
+   "type": 11,
+   "heading": "Artigo 14.º — Treinador de desporto de grau IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Treinador de desporto de grau IV\n\nO grau iv confere competências no âmbito de funções de coordenação, direção, planeamento e avaliação, cabendo-lhe as funções mais destacadas no domínio da inovação e empreendedorismo, direção de equipas técnicas pluridisciplinares, direções técnicas regionais e nacionais, coordenação técnica de seleções regionais e nacionais e coordenação de ações tutorais."
+  },
+  "124526459": {
+   "fragment_id": "124524821",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\n1 - A cada grau correspondem etapas de desenvolvimento dos praticantes desportivos abrangidos pela atividade do treinador de desporto.\n\n2 - A correspondência referida no número anterior, caso ainda não tenha ocorrido, é proposta, no prazo máximo de 180 dias, pelas federações desportivas titulares do estatuto de utilidade pública desportiva ao IPDJ, I. P.\n\n3 - Validada a correspondência referida no número anterior, deve a mesma ser adotada pelos regulamentos da respetiva federação desportiva, no prazo de 90 dias contados da data da validação.\n\n4 - Na falta da proposta referida no n.º 2, ouvido o Conselho Nacional do Desporto, é estabelecida a correspondência por despacho do presidente do IPDJ, I. P., publicado no Diário da República, para cada modalidade desportiva.\n\n5 - A correspondência relativa a atividades desportivas não compreendidas no objeto de federações desportivas titulares do estatuto de utilidade pública desportiva é estabelecida por despacho do presidente do IPDJ, I. P., publicado no Diário da República."
+  },
+  "124526460": {
+   "fragment_id": "124524822",
+   "type": 1,
+   "heading": "Capítulo III — Fiscalização e taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Fiscalização e taxas"
+  },
+  "124526461": {
+   "fragment_id": "124524823",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\n1 - Sem prejuízo das competências atribuídas por lei a outras autoridades administrativas e policiais, as federações desportivas titulares do estatuto de utilidade pública desportiva devem fiscalizar o cumprimento da presente lei relativamente às respetivas modalidades desportivas.\n\n2 - As federações desportivas titulares do estatuto de utilidade pública desportiva em que se disputem competições desportivas de natureza profissional podem delegar nas ligas profissionais a competência referida no número anterior.\n\n3 - As federações desportivas titulares do estatuto de utilidade pública desportiva devem, no prazo máximo de 180 dias após a entrada em vigor da presente lei, estabelecer nos seus regulamentos mecanismos de fiscalização do cumprimento de normas relativas ao título profissional."
+  },
+  "124526462": {
+   "fragment_id": "124524824",
+   "type": 11,
+   "heading": "Artigo 17.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Taxas\n\n1 - É devido o pagamento de taxas ao IPDJ, I. P., pelos atos relativos ao processo de emissão do título profissional de treinador de desporto, pela receção da declaração referida no n.º 4 do artigo 5.º, pela certificação de entidades formadoras e pela receção das comunicações referentes a cada ação de formação, no momento da apresentação dos respetivos requerimentos, declarações ou comunicações.\n\n2 - As taxas referidas no número anterior são fixadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e do desporto e constituem receita do IPDJ, I. P."
+  },
+  "124526463": {
+   "fragment_id": "124524825",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime sancionatório"
+  },
+  "124526464": {
+   "fragment_id": "124524826",
+   "type": 11,
+   "heading": "Artigo 18.º — Exercício ilegal da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Exercício ilegal da atividade\n\n1 - É ilegal o exercício da atividade de treinador de desporto prevista nos artigos 11.º a 14.º por quem não seja titular do respetivo título profissional válido ou não exerça essa atividade nos termos do disposto nos n.os 3 e 4 do artigo 5.º, podendo o profissional ser interditado de exercer essa atividade em território nacional pelo período máximo de dois anos, a par de condenação pela prática de ilícito contraordenacional.\n\n2 - A entidade formadora que exerça a atividade de formação sem ter sido certificada nos termos do artigo 9.º pode ser interditada de exercer essa atividade em território nacional pelo período máximo de dois anos, com o encerramento coercivo das respetivas ações de formação em curso, a par de condenação pela prática de ilícito contraordenacional."
+  },
+  "124526465": {
+   "fragment_id": "124524827",
+   "type": 11,
+   "heading": "Artigo 19.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contraordenações\n\n1 - Constitui contraordenação, para efeitos do disposto na presente lei:\n\na) O exercício da atividade de treinador de desporto por quem não seja titular do respetivo título profissional ou não opere em território nacional nos termos dos n.os 3 e 4 do artigo 5.º;\n\nb) A autorização para o treino de praticantes desportivos ou para o ensino, animação e enquadramento técnico de uma atividade desportiva, a qualquer título, por parte de federações desportivas titulares do estatuto de utilidade pública desportiva, ligas profissionais, entidades prestadoras de serviços desportivos, associações promotoras de desporto, ou quaisquer entidades, públicas ou privadas, de quem não seja titular do respetivo título profissional ou não opere em território nacional nos termos dos n.os 3 e 4 do artigo 5.º;\n\nc) A contratação para o exercício da atividade de treinador de desporto de quem não seja titular do respetivo título profissional ou não opere em território nacional, nos termos dos n.os 3 e 4 do artigo 5.º, pelos clubes ou sociedades anónimas desportivas que participem em competições desportivas profissionais, sob qualquer forma;\n\nd) O exercício da atividade de formação por entidade formadora não certificada nos termos do artigo 9.º;\n\ne) O exercício da atividade de formação por entidade formadora em violação do disposto no n.º 4 do artigo 9.º\n\n2 - A tentativa e a negligência são puníveis, sendo os limites mínimo e máximo da coima aplicada reduzidos a metade."
+  },
+  "124526466": {
+   "fragment_id": "124524828",
+   "type": 11,
+   "heading": "Artigo 20.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Coimas\n\n1 - As contraordenações previstas nas alíneas c) e d) do n.º 1 do artigo anterior são puníveis com coima entre (euro) 3500 e (euro) 5000, se o infrator for uma pessoa singular, e entre (euro) 5000 e (euro) 10 000, se o infrator for uma pessoa coletiva.\n\n2 - As contraordenações previstas nas alíneas a), b) e e) do n.º 1 do artigo anterior são puníveis com coima entre (euro) 1500 e (euro) 2500, se o infrator for uma pessoa singular, e entre (euro) 2500 e (euro) 3500, se o infrator for uma pessoa coletiva."
+  },
+  "124526467": {
+   "fragment_id": "124524829",
+   "type": 11,
+   "heading": "Artigo 21.º — Determinação da medida da coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Determinação da medida da coima\n\nA determinação da medida da coima faz-se em função da gravidade da contraordenação, da culpa, da situação económica do agente e do benefício económico ou desportivo que este retirou da prática da contraordenação."
+  },
+  "124526468": {
+   "fragment_id": "124524830",
+   "type": 11,
+   "heading": "Artigo 22.º — Instrução do processo e aplicação da coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Instrução do processo e aplicação da coima\n\n1 - A instrução dos processos de contraordenação referidos na presente lei compete ao IPDJ, I. P.\n\n2 - A aplicação das coimas é da competência do presidente do IPDJ, I. P."
+  },
+  "124526469": {
+   "fragment_id": "124524831",
+   "type": 11,
+   "heading": "Artigo 23.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Produto das coimas\n\nO produto das coimas reverte em 60 % para o Estado e em 40 % para o IPDJ, I. P."
+  },
+  "124526470": {
+   "fragment_id": "124524832",
+   "type": 11,
+   "heading": "Artigo 24.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Direito subsidiário\n\nAo processamento das contraordenações e à aplicação das correspondentes sanções previstas na presente lei aplica-se subsidiariamente o regime geral das contraordenações."
+  },
+  "124526471": {
+   "fragment_id": "124524833",
+   "type": 11,
+   "heading": "Artigo 25.º — Ilícitos disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Ilícitos disciplinares\n\n1 - Constitui ilícito disciplinar o disposto na alínea a) do n.º 1 do artigo 19.º, quando o infrator se encontrar inscrito em federação desportiva titular do estatuto de utilidade pública desportiva.\n\n2 - Constitui igualmente ilícito disciplinar o disposto na alínea c) do n.º 1 do artigo 19.º"
+  },
+  "124526472": {
+   "fragment_id": "124524834",
+   "type": 11,
+   "heading": "Artigo 26.º — Aplicação de sanções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Aplicação de sanções disciplinares\n\nA aplicação das sanções disciplinares previstas em regulamento disciplinar decorrentes dos ilícitos disciplinares previstos no artigo anterior está cometida às federações desportivas titulares do estatuto de utilidade pública desportiva ou às ligas profissionais, consoante o caso, a quem cabe igualmente a instrução dos processos disciplinares."
+  },
+  "124526473": {
+   "fragment_id": "124524835",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "124526474": {
+   "fragment_id": "124524836",
+   "type": 11,
+   "heading": "Artigo 27.º — Desmaterialização de procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Desmaterialização de procedimentos\n\n1 - Todas as comunicações e as notificações necessárias à emissão dos títulos profissionais de treinador de desporto, à declaração referida no n.º 4 do artigo 5.º e ao controlo de entidades formadoras e suas ações de formação são realizadas por via eletrónica, através do balcão único eletrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser efetuada por qualquer outro meio legal."
+  },
+  "124526675": {
+   "fragment_id": "124524837",
+   "type": 11,
+   "heading": "Artigo 28.º — Correspondência de títulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Correspondência de títulos\n\n1 - Às cédulas emitidas ao abrigo da legislação anterior correspondem os títulos profissionais com o mesmo grau, sem necessidade de qualquer formalidade.\n\n2 - Os candidatos inseridos em modalidades desportivas em que não tenha sido possível beneficiar do disposto no n.º 4 do artigo 25.º do Decreto-Lei n.º 248-A/2008, de 31 de dezembro, e que não reúnam condições para a obtenção de grau correspondente à atividade desenvolvida como treinador podem, no prazo de um ano, realizar formação complementar específica nos termos a definir na portaria do membro do Governo responsável pela área do desporto."
+  },
+  "124526676": {
+   "fragment_id": "124524838",
+   "type": 11,
+   "heading": "Artigo 29.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cooperação administrativa\n\nPara efeitos da presente lei, as autoridades competentes participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores e profissionais provenientes de outros Estados membros da União Europeia ou do Espaço Económico Europeu, nos termos do disposto no capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, e no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, nomeadamente através do Sistema de Informação do Mercado Interno."
+  },
+  "124526677": {
+   "fragment_id": "124524839",
+   "type": 11,
+   "heading": "Artigo 30.º — Regime supletivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regime supletivo\n\nÀ qualificação, formação e certificação dos treinadores de desporto, no que respeita à realização da formação por entidades formadoras, à base de dados de formadores desportivos e às atividades de risco acrescido, aplica-se, supletivamente, o disposto no Decreto-Lei n.º 407/99, de 15 de outubro."
+  },
+  "124526678": {
+   "fragment_id": "124524840",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 248-A/2008, de 31 de dezembro."
+  },
+  "124526679": {
+   "fragment_id": "124524841",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nA presente lei entra em vigor 90 dias após a sua publicação."
+  },
+  "124526756": {
+   "fragment_id": "124524807",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 2.º — Objetivos\n\n1 - São objetivos gerais do regime de acesso e exercício da atividade de treinador de desporto:\n\na) A promoção da ética desportiva e do desenvolvimento do espírito desportivo;\n\nb) A defesa da saúde e da segurança dos praticantes, bem como a sua valorização a nível desportivo e pessoal, quer quando orientados para a competição desportiva quer quando orientados para a participação nas demais atividades desportivas.\n\n2 - São objetivos específicos do regime de acesso e exercício da atividade de treinador de desporto:\n\na) Fomentar e favorecer a aquisição de conhecimentos gerais e específicos que garantam competência técnica e profissional na área da intervenção desportiva;\n\nb) Impulsionar a utilização de instrumentos técnicos e científicos, ao longo da vida, necessários à melhoria qualitativa da intervenção no sistema desportivo;\n\nc) Promover o aperfeiçoamento qualitativo e o desenvolvimento quantitativo da prática desportiva, quer seja de iniciação desportiva, de competição ou de alto rendimento, em qualquer dimensão desportiva, incluindo o desporto para pessoas com deficiência;\n\nd) Dignificar as profissões e ocupações do desporto e fazer observar a respetiva deontologia, reforçando os valores éticos, educativos, culturais e ambientais, inerentes a uma adequada prática desportiva;\n\ne) Contribuir para facilitar o reconhecimento, o recrutamento e a promoção de talentos com vista ao desenvolvimento do desporto;\n\nf) Contribuir para o reconhecimento público da importância social do exercício da atividade e da profissão de treinador de desporto.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526734": {
+   "fragment_id": "124526994",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Exclusões",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 2.º-A — Exclusões\n\n1 - A presente lei não se aplica às atividades desportivas que:\n\na) Sejam desenvolvidas no âmbito do sistema educativo, curricular e de complemento curricular;\n\nb) Se destinem exclusivamente aos membros das Forças Armadas e das forças de segurança;\n\nc) Sejam desenvolvidas no âmbito do sistema prisional;\n\nd) Sejam desenvolvidas em estabelecimentos termais e unidades de saúde e de reabilitação, utilizados sob supervisão médico-sanitária;\n\ne) Sejam desenvolvidas no âmbito do desporto escolar, por grupos-equipas não filiados em federações desportivas, e que participem em competições organizadas por estas;\n\nf) Sejam abrangidas pela Lei n.º 39/2012, de 28 de agosto;\n\ng) Se desenvolvam num contexto de reabilitação ou terapêutica;\n\nh) Sejam desenvolvidas no âmbito da Fundação INATEL;\n\ni) Pelas suas especiais caraterísticas, não contemplem a atividade de treinador de desporto.\n\n2 - As atividades desportivas previstas na alínea i) do número anterior são definidas por despacho do presidente do conselho diretivo do Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.).\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526735": {
+   "fragment_id": "124524808",
+   "type": 11,
+   "heading": "Artigo 3.º — Atividade de treinador de desporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atividade de treinador de desporto\n\nA atividade de treinador de desporto, para efeitos da presente lei, compreende o treino e a orientação competitiva de praticantes desportivos, bem como o enquadramento técnico de uma atividade desportiva, exercida:\n\na) Como profissão exclusiva ou principal, auferindo por via dela uma remuneração;\n\nb) De forma habitual, sazonal ou ocasional, independentemente de auferir uma remuneração."
+  },
+  "124526757": {
+   "fragment_id": "124524809",
+   "type": 11,
+   "heading": "Artigo 4.º — Habilitação profissional",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 4.º — Habilitação profissional\n\nA atividade referida no artigo anterior apenas pode ser exercida por treinadores de desporto, qualificados nos termos da presente lei, designadamente no âmbito:\n\na) De federações desportivas titulares do estatuto de utilidade pública desportiva, exceto para as modalidades em que ainda não exista;\n\nb) De associações promotoras de desporto;\n\nc) De entidades prestadoras de serviços desportivos, como tal referidas no artigo 43.º da Lei n.º 5/2007, de 16 de janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526758": {
+   "fragment_id": "124524810",
+   "type": 11,
+   "heading": "Artigo 5.º — Título profissional",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 5.º — Título profissional\n\n1 - É obrigatória a obtenção de título profissional válido para o exercício da atividade de treinador de desporto em território nacional.\n\n2 - É nulo o contrato pelo qual alguém se obrigue a exercer a atividade de treinador de desporto sem título profissional válido.\n\n3 - Excetuam-se do disposto nos números anteriores os profissionais cidadãos do Estado-Membro da União Europeia ou do Espaço Económico Europeu qualificados para as atividades descritas nos artigos 11.º a 14.º fora de Portugal e que aqui prestem serviços em regime de livre prestação, nos termos da Lei n.º 9/2009, de 4 de março.\n\n4 - Os profissionais referidos no número anterior devem apresentar ao Instituto Português do Desporto e da Juventude, I. P. (IPDJ, I. P.), a declaração prévia prevista no artigo 5.º da Lei n.º 9/2009, de 4 de março.\n\n5 - As referências legislativas a treinadores de desporto devem entender-se como abrangendo os profissionais referidos nos n.os 3 e 4, exceto quando o contrário resulte da própria norma em causa.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526759": {
+   "fragment_id": "124524812",
+   "type": 11,
+   "heading": "Artigo 6.º — Acesso ao título profissional",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 6.º — Acesso ao título profissional\n\n1 - Podem ter acesso ao título profissional de treinador de desporto de uma dada modalidade desportiva os candidatos que possuam um dos seguintes requisitos:\n\na) Cursos técnicos superiores profissionais, cursos superiores que confiram grau académico ministrados por instituições de ensino superior, na área de formação de educação física ou desporto acreditados e/ou registados nos termos da lei;\n\nb) Formação profissional na área do treino desportivo, designadamente no âmbito do Sistema Nacional de Qualificações;\n\nc) Qualificações profissionais obtidas através do reconhecimento, validação e certificação de competências adquiridas e desenvolvidas ao longo da vida, designadamente no âmbito do Sistema Nacional de Qualificações;\n\nd) Reconhecimento de competências profissionais e académicas;\n\ne) Qualificações profissionais reconhecidas nos termos da Lei n.º 9/2009, de 4 de março.\n\n2 - O reconhecimento da formação prevista na alínea b) do n.º 1, incluindo a identificação dos referenciais de formação e respetivas qualificações, bem como os requisitos para homologação dos cursos, é da competência do IPDJ, I. P., sendo efetuado por despacho do presidente do conselho diretivo do IPDJ, I. P., precedido de parecer fundamentado da federação desportiva que regulamenta a respetiva modalidade, a emitir num prazo de 30 dias.\n\n3 - Os cursos para obtenção da qualificação referida no número anterior são ministrados por entidades formadoras certificadas no âmbito do Sistema Nacional de Qualificações nos termos do artigo 9.º ou por federações desportivas dotadas do estatuto de utilidade pública desportiva.\n\n4 - O reconhecimento dos cursos previstos na alínea a) do n.º 1, para efeitos de atribuição do título profissional, é da competência do IPDJ, I. P., sendo efetuado por despacho do presidente do conselho diretivo do IPDJ, I. P., precedido de parecer fundamentado da federação desportiva que regulamenta a respetiva modalidade, a emitir num prazo de 30 dias.\n\n5 - Para os efeitos da alínea c) do n.º 1, a identificação dos referenciais de reconhecimento, validação e certificação de competências profissionais, nomeadamente os constantes do Catálogo Nacional de Qualificações, para a obtenção de uma qualificação e os requisitos para o reconhecimento da mesma, são fixados por despacho do presidente do conselho diretivo do IPDJ, I. P.\n\n6 - Para os efeitos da alínea d) do n.º 1, as condições para a obtenção do título profissional, com fundamento no reconhecimento de competências profissionais, são fixadas por despacho do presidente do conselho diretivo do IPDJ, I. P.\n\n7 - O reconhecimento das qualificações previstas na alínea e) do n.º 1 é da competência do IPDJ, I. P., nos termos do definido na Lei n.º 9/2009, de 4 de março.\n\n8 - A emissão do título profissional compete ao IPDJ, I. P., sendo o respetivo modelo definido por despacho do presidente do IPDJ, I. P., publicado no Diário da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526760": {
+   "fragment_id": "124524814",
+   "type": 11,
+   "heading": "Artigo 8.º — Revogação e suspensão do título",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 8.º — Revogação e suspensão do título\n\n1 - O IPDJ, I. P., deve promover a revogação do título profissional quando se conclua pela falsidade de qualquer elemento comprovativo dos requisitos para a respetiva emissão, sem prejuízo de eventual condenação por ilícito contraordenacional.\n\n2 - A suspensão do título profissional pela não frequência de ações de formação é definida por portaria do membro do Governo responsável pela área do desporto.\n\n3 - A portaria referida no número anterior deve definir:\n\na) As ações de formação e as áreas temáticas;\n\nb) As entidades formadoras elegíveis para a realização de ações de formação contínua;\n\nc) A correspondência das unidades de crédito com as horas de formação;\n\nd) O número mínimo de unidades de crédito;\n\ne) O procedimento para a creditação das ações de formação contínua.\n\n4 - A revalidação do título profissional, através de plataforma informática criada para o efeito, é automática logo que se verifique o cumprimento do requisito referido no n.º 2, salvo em caso de condenação por ilícito contraordenacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526761": {
+   "fragment_id": "124524815",
+   "type": 11,
+   "heading": "Artigo 9.º — Entidades formadoras e ações de formação",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 9.º — Entidades formadoras e ações de formação\n\n1 - A certificação das entidades formadoras que ministrem ações de formação para treinadores de desporto segue os trâmites da Portaria n.º 851/2010, de 6 de setembro, com as seguintes adaptações:\n\na) A entidade competente para a certificação é o IPDJ, I. P.;\n\nb) Outros requisitos específicos, em complemento ou derrogação dos requisitos constantes da Portaria n.º 851/2010, de 6 de setembro, são aprovados por portaria dos membros do Governo responsáveis pelas áreas do desporto, da educação e da formação profissional.\n\n2 - A certificação de entidades formadoras referidas no número anterior é comunicada por meio eletrónico ao serviço central competente do ministério responsável pela área da formação profissional no prazo de 10 dias.\n\n3 - A certificação só produz efeitos após o pagamento das taxas devidas pela entidade formadora certificada aquando da apresentação do pedido de certificação.\n\n4 - As entidades formadoras devem apresentar ao IPDJ, I. P., mera comunicação prévia relativamente a cada ação de formação, acompanhada dos seguintes elementos:\n\na) Identificação da ação a ministrar, com data de início, duração, horário de funcionamento e local;\n\nb) Cópia ou acesso eletrónico pela entidade certificadora, aos conteúdos de formação da ação de formação, ou simples indicação dos mesmos, no caso de já terem sido anteriormente disponibilizados;\n\nc) Identificação dos formadores, acompanhada de curriculum vitae que evidencie a posse de competências adequadas às matérias que vão ministrar, salvo se já tiverem sido anteriormente disponibilizados.\n\n5 - O presente artigo aplica-se exclusivamente às ações de formação iniciais em cada um dos graus de formação de treinador.\n\n6 - O presente artigo não se aplica às entidades abrangidas pelo disposto no artigo 4.º da Portaria n.º 851/2010, de 6 de setembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526762": {
+   "fragment_id": "124524816",
+   "type": 11,
+   "heading": "Artigo 10.º — Graus do título profissional",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 10.º — Graus do título profissional\n\n1 - O título profissional confere competências ao seu titular, nos termos dos artigos seguintes, do seguinte modo:\n\na) Grau I;\n\nb) Grau II;\n\nc) Grau III;\n\nd) Grau IV.\n\n2 - (Revogado.)\n\n3 - A obtenção de título profissional de determinado grau confere ao seu titular as competências previstas nos artigos seguintes para o seu grau e para os graus inferiores.\n\n4 - O IPDJ, I. P., pode emitir títulos condicionais nas seguintes situações:\n\na) Aos treinadores de novas modalidades desportivas que ainda não estejam integradas no sistema de formação de treinadores e que realizem a formação complementar, tal como estabelecido no artigo 28.º;\n\nb) Após a conclusão da formação curricular, previamente à realização do estágio, quando, comprovadamente, não existam treinadores com título profissional em número suficiente para o exercício da atividade, em determinada região.\n\n5 - O disposto no número anterior é aplicável apenas ao grau i e por um período máximo de três anos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526738": {
+   "fragment_id": "124526995",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Requisitos de acesso aos graus profissionais",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 10.º-A — Requisitos de acesso aos graus profissionais\n\n1 - São requisitos cumulativos para o acesso ao grau i:\n\na) Ter idade mínima de 18 anos;\n\nb) Possuir a escolaridade mínima obrigatória, em função da data de nascimento;\n\nc) Cumprir os pré-requisitos específicos de cada modalidade quando definidos pela federação desportiva respetiva.\n\n2 - São requisitos cumulativos para o acesso ao grau ii:\n\na) Ter idade mínima de 19 anos;\n\nb) Possuir a escolaridade mínima obrigatória, em função da data de nascimento;\n\nc) Ser detentor do título profissional de grau i;\n\nd) Possuir, pelo menos, um ano ou uma época desportiva com duração mínima de seis meses de exercício efetivo da atividade de treinador de desporto de grau i.\n\n3 - São requisitos cumulativos para o acesso ao grau iii:\n\na) Ter idade mínima de 21 anos;\n\nb) Possuir a escolaridade mínima obrigatória, em função da data de nascimento;\n\nc) Ser detentor do título profissional de grau ii;\n\nd) Possuir, pelo menos, um ano ou uma época desportiva com duração mínima de seis meses de exercício efetivo da atividade de treinador de desporto de grau ii.\n\n4 - São requisitos cumulativos para o acesso ao grau iv:\n\na) Ter idade mínima de 24 anos;\n\nb) Possuir a escolaridade mínima obrigatória, em função da data de nascimento;\n\nc) Ser detentor do título profissional de grau iii;\n\nd) Possuir, pelo menos, dois anos ou duas épocas desportivas com duração mínima de seis meses cada uma de exercício efetivo da atividade de treinador de desporto de grau iii.\n\n5 - Excluem-se do cumprimento das alíneas c) do n.º 2, c) e d) do n.º 3 e c) e d) do n.º 4 os candidatos que obtenham o seu título profissional por uma das vias previstas nas alíneas c), d) ou e) do n.º 1 do artigo 6.º\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526744": {
+   "fragment_id": "124526996",
+   "type": 11,
+   "heading": "Artigo 10.º-B — Praticantes de elevado nível",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 10.º-B — Praticantes de elevado nível\n\n1 - Consideram-se praticantes de elevado nível:\n\na) Praticantes que tenham estado inseridos no regime de alto rendimento de acordo com o estipulado no Decreto-Lei n.º 272/2009, de 1 de outubro, e na Portaria n.º 325/2010, de 16 de junho, nos níveis A, B ou C, durante, pelo menos, oito anos seguidos ou interpolados;\n\nb) Praticantes que tenham estado inseridos em ligas profissionais, em Portugal ou no estrangeiro, durante, pelo menos, oito anos seguidos ou interpolados;\n\nc) Praticantes com contrato de trabalho profissional, que tenham estado inseridos em competições que conferem o título nacional, em cada país, da respetiva modalidade, durante, pelo menos, oito anos seguidos ou interpolados;\n\nd) Praticantes que participem em provas internacionais onde a sua ordenação é feita através de ranking, sob proposta fundamentada da federação respetiva e sujeita a aprovação pelo IPDJ, I. P.;\n\ne) Praticantes que tenham representado a seleção nacional, mediante critérios a definir pelo IPDJ, I. P., em função da realidade de cada modalidade desportiva.\n\n2 - Os pontos indicados nas alíneas b) e c) do número anterior devem ser confirmados mediante o registo na federação nacional da modalidade respetiva.\n\n3 - Os praticantes de elevado nível acedem diretamente à formação de treinador de desporto de grau ii, sem necessidade de cumprir o estabelecido na alínea c) do n.º 2 do artigo 10.º-A.\n\n4 - Ficam excluídos os praticantes e ex-praticantes de elevado nível que tenham sido suspensos por comportamento inadequado, como a utilização de forma comprovada de produtos proibidos (doping), ou de práticas dopantes.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526750": {
+   "fragment_id": "124526997",
+   "type": 11,
+   "heading": "Artigo 10.º-C — Apoio às carreiras duais",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 10.º-C — Apoio às carreiras duais\n\n1 - Os praticantes desportivos integrados em competições que, pelo seu grau de exigência, impossibilitem a regular frequência dos cursos de formação de treinadores, podem realizar a formação curricular de treinador de desporto, até ao grau iii, em condições especiais definidas por despacho do presidente do conselho diretivo do IPDJ, I. P.\n\n2 - As competições referidas no número anterior são definidas pelo IPDJ, I. P., a requerimento fundamentado das respetivas federações.\n\n3 - O previsto no número anterior aplica-se a competições realizadas em território nacional ou no estrangeiro.\n\n4 - Para ter acesso ao apoio previsto no n.º 1, os praticantes devem possuir todos os requisitos exigidos aos demais formandos.\n\n5 - O título profissional de treinador de desporto, independentemente do grau, só é emitido após a realização de um estágio com a duração de uma época desportiva.\n\n6 - Após a obtenção do título profissional referido no número anterior, o treinador de desporto é integrado no regime previsto na presente lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526763": {
+   "fragment_id": "124524817",
+   "type": 11,
+   "heading": "Artigo 11.º — Treinador de desporto de grau I",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 11.º — Treinador de desporto de grau I\n\n1 - O grau i corresponde à base hierárquica de qualificação profissional de treinador de desporto, conferindo ao seu titular competências para a iniciação de uma modalidade desportiva.\n\n2 - Ao treinador de desporto grau i compete:\n\na) Orientar praticantes nas etapas iniciais de desenvolvimento desportivo;\n\nb) Coadjuvar treinadores em níveis de prática associados ao grau ii.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526764": {
+   "fragment_id": "124524818",
+   "type": 11,
+   "heading": "Artigo 12.º — Treinador de desporto de grau ii",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 12.º — Treinador de desporto de grau ii\n\n1 - O grau ii corresponde ao nível intermédio na hierarquia de qualificação profissional do treinador de desporto.\n\n2 - Ao treinador de desporto de grau ii compete:\n\na) Orientar praticantes nas etapas iniciais e intermédias de desenvolvimento desportivo, no respeito pelo artigo 15.º;\n\nb) Coordenar equipas técnicas de profissionais em níveis de prática associados aos graus i e ii;\n\nc) Coadjuvar treinadores em níveis de prática associados ao grau iii;\n\nd) A coadjuvação de titulares de grau superior no planeamento, condução e avaliação do treino e participação competitiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526765": {
+   "fragment_id": "124524819",
+   "type": 11,
+   "heading": "Artigo 13.º — Treinador de desporto de grau III",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 13.º — Treinador de desporto de grau III\n\n1 - O grau iii corresponde a um nível elevado na hierarquia de qualificação profissional do treinador de desporto.\n\n2 - Ao treinador de desporto de grau iii compete:\n\na) Orientar praticantes nas etapas avançadas de desenvolvimento desportivo, no respeito pelo artigo 15.º;\n\nb) Coordenar equipas técnicas de profissionais em níveis de prática associados aos graus i, ii e iii;\n\nc) Coadjuvar treinadores em níveis de prática associados ao grau iv.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526766": {
+   "fragment_id": "124524820",
+   "type": 11,
+   "heading": "Artigo 14.º — Treinador de desporto de grau IV",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 14.º — Treinador de desporto de grau IV\n\n1 - O grau iv corresponde ao nível de topo na hierarquia de qualificação profissional do treinador de desporto.\n\n2 - Ao treinador de grau iv compete:\n\na) Orientar praticantes nas etapas mais avançadas de desenvolvimento desportivo;\n\nb) Coordenar equipas técnicas de profissionais em níveis de prática associados aos graus i, ii, iii e iv;\n\nc) Coordenar equipas técnicas pluridisciplinares.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526755": {
+   "fragment_id": "124524821",
+   "type": 11,
+   "heading": "Artigo 15.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regulamentação\n\n1 - A cada grau correspondem etapas de desenvolvimento dos praticantes desportivos abrangidos pela atividade do treinador de desporto.\n\n2 - A correspondência referida no número anterior, caso ainda não tenha ocorrido, é proposta, no prazo máximo de 180 dias, pelas federações desportivas titulares do estatuto de utilidade pública desportiva ao IPDJ, I. P.\n\n3 - Validada a correspondência referida no número anterior, deve a mesma ser adotada pelos regulamentos da respetiva federação desportiva, no prazo de 90 dias contados da data da validação.\n\n4 - Na falta da proposta referida no n.º 2, ouvido o Conselho Nacional do Desporto, é estabelecida a correspondência por despacho do presidente do IPDJ, I. P., publicado no Diário da República, para cada modalidade desportiva.\n\n5 - A correspondência relativa a atividades desportivas não compreendidas no objeto de federações desportivas titulares do estatuto de utilidade pública desportiva é estabelecida por despacho do presidente do IPDJ, I. P., publicado no Diário da República."
+  },
+  "124526767": {
+   "fragment_id": "124524823",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\n1 - Sem prejuízo das competências atribuídas por lei a outras autoridades administrativas e policiais, a fiscalização do cumprimento da presente lei compete à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - Sem prejuízo do previsto no número anterior, as federações desportivas titulares do estatuto de utilidade pública desportiva devem fiscalizar, nas competições organizadas sob a sua égide, o cumprimento do estabelecido no artigo 4.º\n\n3 - As federações desportivas titulares do estatuto de utilidade pública desportiva em que se disputem competições desportivas de natureza profissional podem delegar nas ligas profissionais a competência referida no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526768": {
+   "fragment_id": "124524827",
+   "type": 11,
+   "heading": "Artigo 19.º — Contraordenações",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 19.º — Contraordenações\n\n1 - Constitui contraordenação, para efeitos do disposto na presente lei:\n\na) O exercício da atividade de treinador de desporto por quem não seja titular do respetivo título profissional ou não opere em território nacional nos termos dos n.os 3 e 4 do artigo 5.º;\n\nb) A autorização para o treino de praticantes desportivos ou para o ensino, animação e enquadramento técnico de uma atividade desportiva, sem prejuízo do disposto no artigo 2.º-A, por parte de federações desportivas titulares do estatuto de utilidade pública desportiva, ligas profissionais, entidades prestadoras de serviços desportivos, associações promotoras de desporto, ou quaisquer entidades, públicas ou privadas, de quem não seja titular do respetivo título profissional ou não opere em território nacional nos termos dos n.os 3 e 4 do artigo 5.º;\n\nc) A contratação para o exercício da atividade de treinador de desporto de quem não seja titular do respetivo título profissional ou não opere em território nacional, nos termos dos n.os 3 e 4 do artigo 5.º, pelos clubes ou sociedades anónimas desportivas que participem em competições desportivas profissionais, sob qualquer forma;\n\nd) O exercício da atividade de formação por entidade formadora não certificada nos termos do artigo 9.º;\n\ne) O exercício da atividade de formação por entidade formadora em violação do disposto no n.º 4 do artigo 9.º\n\n2 - A tentativa e a negligência são puníveis, sendo os limites mínimo e máximo da coima aplicada reduzidos a metade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526769": {
+   "fragment_id": "124524831",
+   "type": 11,
+   "heading": "Artigo 23.º — Produto das coimas",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 23.º — Produto das coimas\n\nO produto das coimas reverte em:\n\na) 60 % para o Estado;\n\nb) 20 % para a entidade que levanta o auto;\n\nc) 20 % para o IPDJ, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526770": {
+   "fragment_id": "124524837",
+   "type": 11,
+   "heading": "Artigo 28.º — Correspondência de títulos",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 28.º — Correspondência de títulos\n\n1 - (Revogado.)\n\n2 - Os candidatos inseridos em modalidades desportivas em que não tenha sido possível beneficiar do disposto no n.º 4 do artigo 25.º do Decreto-Lei n.º 248-A/2008, de 31 de dezembro, e que não reúnam condições para a obtenção de grau correspondente à atividade desenvolvida como treinador podem realizar formação complementar nos termos a definir na portaria do membro do Governo responsável pela área do desporto.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "124526680": {
+   "fragment_id": "124524842",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 6 de julho de 2012.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 14 de agosto de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 17 de agosto de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "155874255": {
+   "fragment_id": "124524827",
+   "type": 11,
+   "heading": "Artigo 19.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 19.º — Contraordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) O exercício da atividade de treinador de desporto por quem não seja titular do respetivo título profissional ou não opere em território nacional nos termos dos n.os 3 e 4 do artigo 5.º;\n\nb) A autorização para o treino de praticantes desportivos ou para o ensino, animação e enquadramento técnico de uma atividade desportiva, sem prejuízo do disposto no artigo 2.º-A, por parte de federações desportivas titulares do estatuto de utilidade pública desportiva, ligas profissionais, entidades prestadoras de serviços desportivos, associações promotoras de desporto, ou quaisquer entidades, públicas ou privadas, de quem não seja titular do respetivo título profissional ou não opere em território nacional nos termos dos n.os 3 e 4 do artigo 5.º;\n\nc) O exercício da atividade de formação por entidade formadora em violação do disposto no n.º 4 do artigo 9.º\n\n2 - Constitui contraordenação económica muito grave, punível nos termos do RJCE:\n\na) A contratação para o exercício da atividade de treinador de desporto de quem não seja titular do respetivo título profissional ou não opere em território nacional, nos termos dos n.os 3 e 4 do artigo 5.º, pelos clubes ou sociedades anónimas desportivas que participem em competições desportivas profissionais, sob qualquer forma;\n\nb) O exercício da atividade de formação por entidade formadora não certificada nos termos do artigo 9.º;\n\n3 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "155874256": {
+   "fragment_id": "124524831",
+   "type": 11,
+   "heading": "Artigo 23.º — Produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 23.º — Produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas na presente lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 106/2019 - Diário da República n.º 171/2019, Série I de 2019-09-06](https://diariodarepublica.pt/dr/detalhe/lei/106-2019-124500720), em vigor a partir de 2020-03-04"
+  },
+  "155874257": {
+   "fragment_id": "124524832",
+   "type": 11,
+   "heading": "Artigo 24.º — Direito subsidiário",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 24.º — Direito subsidiário\n\nO processamento das contraordenações económicas e a aplicação das sanções previstas na presente lei estão sujeitas ao regime previsto no RJCE.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:163332291:por
+title: Resolução do Conselho de Ministros n.º 58/2021
+short_title: null
+summary: Seleciona os potenciais investidores a participar na segunda fase do processo de alienação das ações representativas
+  de 71,73 % do capital social da Efacec Power Solutions, SGPS, S. A.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 58/2021
+official_date: null
+publication_date: '2021-05-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 94/2021, Série I de 2021-05-14
+  number: '94'
+  series: I
+  supplement: null
+  pages: 21 - 22
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/05/09400/0002100022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/58/2021/05/14/p/dre/pt/html
+  oj: null
+  dre: '163332291'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/58-2021-163332291
+  internal: pt:dre:163332291:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2021-163332291
+  metadata_url: https://data.dre.pt/eli/resolconsmin/58/2021/05/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/58-2021-163332291
+  consolidated_url: null
+  retrieved_at: '2026-10-23T13:21:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4b84dd38bc5d6fd9bef7107b63c650f9f838216e8d967ff4c45815058f0b9896
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T13:21:51Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de Acções
+- Autorização de Despesas
+- Caderno de Encargos
+- Capital Social
+- Conselho de Ministros
+- Definição de Competências
+- Empresa Nacionalizada
+- Governo XXII
+- Ministro da Economia
+- Ministro de Estado da Economia e da Transição Digital
+- Parpública
+- Privatização
+- Setor Empresarial do Estado
+- Venda Directa
+relationships:
+- type: cites
+  target: pt:dre:137126910:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/33-a/2020/07/02/p/dre
+- type: cites
+  target: pt:dre:151662903:por
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/113/2020/12/21/p/dre
+- type: cites
+  target: pt:dre:332183:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T13:21:51Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 58/2021
+
+O [Decreto-Lei n.º 33-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2020-137126910), de 2 de julho, concretizou a apropriação pública, por via de nacionalização, de 71,73 % do capital social da Efacec Power Solutions, SGPS, S. A. (Efacec), considerando, no essencial, o excecional interesse público, tendo em conta a sua valia industrial, o seu conhecimento técnico, e a sua excelência em áreas estratégicas para a economia nacional, incluindo o perfil fortemente tecnológico, inovador e exportador da empresa, o seu contributo para as exportações nacionais, o seu peso no emprego, em particular no que respeita à mão-de-obra qualificada, e o seu contributo para o quadro da descarbonização da economia.
+
+Também ficou determinada no referido decreto-lei a natureza transitória da intervenção, com a abertura imediata de um processo de reprivatização da posição acionista objeto da apropriação, não devendo esta ser uma nacionalização duradoura, antes uma solução de passagem entre soluções duradouras de mercado.
+
+Por essa razão ficou, desde logo, estabelecido, no artigo 9.º do referido decreto-lei, que se deveria dar início, no mais curto prazo possível, a um processo de reprivatização das ações apropriadas e que o mesmo deveria ser efetuado através de uma venda direta das referidas ações, acompanhado ou não por um aumento de capital, nos termos referidos na alínea b) do n.º 3 do artigo 6.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de abril, na sua redação atual, permitindo encontrar uma solução sustentável, conforme previsto no artigo 5.º do anexo à [Resolução do Conselho de Ministros n.º 113/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/113-2020-151662903), de 21 de dezembro, que aprovou o caderno de encargos da venda direta a realizar no âmbito do processo de reprivatização de ações da Efacec, através de um compromisso no reforço da capacidade económico-financeira e da estrutura de capital da Efacec.
+
+Nos termos do referido caderno de encargos, o processo de reprivatização é realizado na modalidade de venda direta, organizada em duas ou três fases, sendo a primeira fase correspondente à entrega de propostas não vinculativas por parte de interessados, para tal expressamente convidados no seguimento da recolha de intenções junto do mercado relevante.
+
+A avaliação das propostas recebidas deve ser feita nos termos dos artigos 5.º e 10.º do caderno de encargos, sendo que, nos termos do artigo 11.º do caderno de encargos, a seleção dos proponentes que integram a segunda fase é realizada mediante resolução do Conselho de Ministros, ouvida a PARPÚBLICA.
+
+Decorre igualmente do caderno de encargos, e no âmbito das razões que justificam o interesse público da intervenção operada pelo [Decreto-Lei n.º 33-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2020-137126910), de 2 de julho, que o Governo considerou como crítico que as propostas dos investidores devam apresentar um projeto consolidado de qualidade, credibilidade e garantia de execução do projeto estratégico apresentado para a Efacec, com vista ao reforço da sua competitividade e desenvolvimento das suas atividades internacionais, contribuindo assim para o crescimento e desenvolvimento da economia nacional, em especial do setor exportador português, num quadro de sustentabilidade da Efacec nas suas diversas dimensões, designadamente social, ambiental, económico-financeira e de governação. Nesse sentido, esses investidores devem dispor de conhecimento e experiência técnica e de gestão demonstrados, designadamente no que respeita aos mercados relevantes para a Efacec, e apresentar proposta idónea, com ausência ou minimização de condicionantes, de valor de aquisição e de reforço da capacidade financeira da empresa.
+
+Em conformidade, de entre um conjunto de 24 potenciais investidores que o Estado, através da PARPÚBLICA, convidou para procederem à apresentação de propostas não vinculativas de aquisição, foram confirmadas 10 intenções de aquisição de uma parte ou da totalidade do lote de ações objeto da venda direta.
+
+A PARPÚBLICA procedeu à elaboração e apresentação de um relatório com a apreciação das 10 propostas não vinculativas que foram por si recebidas, contendo recomendações, o qual foi tido em consideração.
+
+De entre as propostas não vinculativas recebidas, 5 receberam, no relatório elaborado pela PARPÚBLICA, a classificação de «não cumpre» relativamente a algum dos critérios de seleção previstos nos artigos 5.º e 10.º do referido caderno de encargos. Nesse sentido, considera-se que estas propostas não reúnem os critérios mínimos para que possam ser consideradas como podendo constituir propostas vantajosas para o Estado Português e para a Efacec ou adequadas para a prossecução dos objetivos da reprivatização. As demais propostas não registaram a classificação de «não cumpre», constante do relatório elaborado pela PARPÚBLICA em nenhum daqueles critérios, sendo nesse sentido merecedoras de admissão à fase subsequente.
+
+Considerando a vantagem de poder maximizar a concorrência e dessa forma assegurar a melhor proposta para o interesse público, o Conselho de Ministros, tendo presente a relevância estratégica da Efacec, nos termos estabelecidos no [Decreto-Lei n.º 33-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-a-2020-137126910), de 2 de julho, para a economia nacional, nomeadamente no que concerne aos objetivos de descarbonização da economia constantes do programa do Governo, a capacitação técnica da empresa e dimensão internacional da sua atividade, e a necessidade de, no âmbito das diferentes fases deste procedimento, assegurar de forma consistente a promoção da concorrência, tendo em vista maximizar as condições que permitam garantir transparência, salvaguarda do interesse público e solução empresarial mais vantajosa, determina, pela presente resolução, atenta a desejável abrangência concorrencial a promover no processo, a admissão dos proponentes que procederam à apresentação de propostas não vinculativas de aquisição a participar na subsequente fase do processo de alienação das ações objeto de venda direta no âmbito do processo de reprivatização da Efacec.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 11.º do caderno de encargos, aprovado em anexo à [Resolução do Conselho de Ministros n.º 113/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/113-2020-151662903), de 21 de dezembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar que sejam admitidos a participar na segunda fase do processo de alienação das ações objeto da venda direta do capital social da Efacec Power Solutions, SGPS, S. A. (Efacec), os seguintes potenciais proponentes, uma vez que procederam à apresentação de propostas não vinculativas de aquisição, ao abrigo do disposto no caderno de encargos, aprovado em anexo à [Resolução do Conselho de Ministros n.º 113/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/113-2020-151662903), de 21 de dezembro (caderno de encargos) e foram os únicos que não registaram a classificação de «não cumpre» constante do relatório elaborado pela PARPÚBLICA em qualquer dos critérios de seleção, reunindo os critérios mínimos para serem admitidos a participar na subsequente fase do processo de alienação das ações objeto da venda direta, prevista no artigo 11.º do aludido caderno de encargos:
+
+a) Chint Group Corporation, Ltd;
+
+b) Dst, SGPS, S. A.;
+
+c) Elsewedy Electric Corporation, S. A. E.;
+
+d) Iberdrola, S. A.; e
+
+e) Sing - Investimentos Globais, SGPS, S. A.
+
+2 - Autorizar a PARPÚBLICA a dirigir convites a cada um dos potenciais proponentes identificados no número anterior para procederem à apresentação de propostas vinculativas de aquisição das ações objeto da venda direta, em conformidade com o disposto no referido caderno de encargos, de modo a concretizar a solução mais vantajosa que permita, nomeadamente, promover o valor operacional da Efacec e a sua valia industrial, potenciar o seu conhecimento técnico em áreas estratégicas, definir um quadro sustentável de capitalização da empresa tendo em vista a melhoria do seu quadro financeiro, bem como garantir uma passagem rápida para uma solução duradoura de mercado.
+
+3 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 6 de maio de 2021. - Pelo Primeiro-Ministro, Pedro Gramaxo de Carvalho Siza Vieira, Ministro de Estado, da Economia e da Transição Digital.
+
+114236458

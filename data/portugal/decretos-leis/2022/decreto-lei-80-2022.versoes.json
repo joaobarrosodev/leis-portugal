@@ -1,0 +1,175 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:203898214:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-835767823",
+ "dre_path": "/dr/detalhe/decreto-lei/80-2022-203898214",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-11-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "835804175",
+    "835804176",
+    "835804177",
+    "835804178",
+    "835804179",
+    "835804180",
+    "835804181",
+    "835804182",
+    "835804183",
+    "835804184",
+    "835804185",
+    "835804187"
+   ]
+  },
+  {
+   "date": "2023-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835638817:por",
+     "title": "Decreto-Lei n.º 120-A/2023",
+     "published": "2023-12-22",
+     "dre_path": "/dr/detalhe/decreto-lei/120-a-2023-835638817"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "835804175",
+    "835804176",
+    "835804177",
+    "835804178",
+    "835804179",
+    "835804180",
+    "835804181",
+    "835804182",
+    "835804183",
+    "835804184",
+    "835804185",
+    "835804186",
+    "835804188"
+   ]
+  }
+ ],
+ "fragments": {
+  "835804175": {
+   "fragment_id": "835767824",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 80/2022\n\nde 25 de novembro\n\nSumário: Transfere imóveis do Estado para o IAPMEI - Agência para a Competitividade e Inovação, I. P., com vista à implementação, em Sines, de projetos de interesse estratégico para a economia nacional.\n\nNo âmbito do processo de extinção do Gabinete da Área de Sines (GAS), foi publicado o Decreto-Lei n.º 116/89, de 14 de abril, que transmitiu para o Estado Português um conjunto de prédios pertencentes ao Gabinete, que foram afetados às entidades mais vocacionadas para a sua gestão.\n\nParalelamente, e precavendo necessidades futuras de terrenos para instalação de indústria, habitação, infraestruturas e equipamentos coletivos de utilidade pública em Sines, estabelece-se no artigo 6.º do referido decreto-lei que os terrenos necessários para os referidos fins poderiam ser transferidos do património do Estado para o património de entidades competentes, caducando automaticamente os contratos de concessão, arrendamento ou outros.\n\nPosteriormente, o Decreto-Lei n.º 6/90, de 3 de janeiro, transmitiu para o Estado e deste para o IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), prédios ainda pertencentes ao GAS destinados à instalação de unidades industriais, o que teve reflexo no Plano Diretor Municipal de Sines.\n\nOs novos projetos industriais estratégicos para a economia nacional em curso e em perspetiva na área de Sines, no âmbito da dupla transição energética e digital, excedem a área disponível na zona industrial e logística de Sines (ZILS), carecendo da área sobrante do respetivo plano de urbanização, ainda não afetada à ZILS, e da área circundante disponível, enquanto área de implantação de fornecimentos de eletricidade renovável, em apoio aos projetos industriais e de hidrogénio verde ligados ao consumo no local, à injeção na rede de gás natural e à exportação. Estas necessidades tornam urgente a reafetação de terrenos, visando um melhor planeamento e ajustamento do território às necessidades e perspetivas de investimento privado produtivo a curto e médio prazo.\n\nOs terrenos necessários à construção e instalação de infraestruturas e equipamentos de apoio aos novos projetos industriais estratégicos para a economia nacional são da propriedade do Estado e estavam sob gestão do Instituto da Conservação da Natureza e das Florestas, I. P., sendo agora geridos pela Direção-Geral do Tesouro e Finanças. Estes terrenos devem ficar submetidos a um regime similar ao dos restantes terrenos destinados à instalação de unidades industriais e logísticas previsto no Decreto-Lei n.º 6/90, de 3 de janeiro, uma vez que se trata de um contexto especial face ao regime jurídico do património imobiliário público, constante do Decreto-Lei n.º 280/2007, de 7 de agosto, na sua redação atual.\n\nImporta, por isso, definir as condições da transferência dos bens imóveis do Estado para o património do IAPMEI, I. P., necessários à implementação, na área de Sines, dos novos projetos industriais estratégicos para a economia nacional.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "835804176": {
+   "fragment_id": "835767825",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece as condições de transferência de património imobiliário do Estado para o IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), para efeitos da implementação, na área de Sines, de novos projetos logísticos, energéticos, industriais e de telecomunicações ou outros de relevante interesse estratégico para a economia nacional."
+  },
+  "835804177": {
+   "fragment_id": "835767826",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transferência de património\n\n1 - O direito de propriedade sobre os bens imóveis identificados no anexo ao presente decreto-lei, e do qual faz parte integrante, é transmitido do Estado para o IAPMEI, I. P.\n\n2 - Os bens imóveis transferidos, nos termos do número anterior, para o património do IAPMEI, I. P., destinam-se à implementação de novos projetos logísticos, energéticos, industriais e de telecomunicações ou outros de interesse estratégico para a economia nacional."
+  },
+  "835804178": {
+   "fragment_id": "835767827",
+   "type": 11,
+   "heading": "Artigo 3.º — Contrapartida e afetação de receita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contrapartida e afetação de receita\n\n1 - Como contrapartida pela transferência de património a que se refere o artigo anterior, o IAPMEI, I. P., paga à Direção-Geral do Tesouro e Finanças uma percentagem das receitas que venha a obter com a promoção e gestão da área industrial de Sines.\n\n2 - A percentagem a que se refere o número anterior é a fixada pela Portaria n.º 801/91, de 12 de agosto.\n\n3 - A afetação da receita resultante da contrapartida referida no n.º 1 obedece ao regime da afetação do produto da alienação e oneração de imóveis do Estado previsto na Lei do Orçamento do Estado."
+  },
+  "835804179": {
+   "fragment_id": "835767828",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Registo\n\n1 - O presente decreto-lei constitui título bastante para todos os efeitos legais, incluindo a inscrição no registo, a favor do IAPMEI, I. P., dos bens imóveis a que se refere o n.º 1 do artigo 2.º\n\n2 - O registo é efetuado mediante requerimento do IAPMEI, I. P."
+  },
+  "835804180": {
+   "fragment_id": "835767829",
+   "type": 11,
+   "heading": "Artigo 5.º — Vigência e caducidade de situações e relações jurídicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Vigência e caducidade de situações e relações jurídicas\n\n1 - As situações e relações jurídicas que estejam constituídas sobre os bens imóveis identificados no anexo ao presente decreto-lei à data da entrada em vigor deste, nomeadamente contratos de concessão ou de arrendamento, mantêm-se vigentes, sem prejuízo do disposto nos números seguintes.\n\n2 - Caso os imóveis identificados no anexo ao presente decreto-lei se revelem necessários à implementação de novos projetos logísticos, energéticos, industriais e de telecomunicações ou outros de interesse estratégico para a economia nacional, o IAPMEI, I. P., notifica, nos termos do artigo 112.º do Código do Procedimento Administrativo, os titulares das situações ou relações jurídicas da caducidade das mesmas, que opera no prazo de três meses a contar da data da notificação, determinada nos termos do artigo 113.º do mesmo Código.\n\n3 - Ressalva-se do disposto no número anterior os contratos de arrendamento para fins habitacionais.\n\n4 - Os titulares das situações ou relações jurídicas podem, no prazo de um mês a contar da data da notificação, pronunciar-se por escrito sobre todas as questões com interesse para o caso, bem como requerer diligências e juntar documentos.\n\n5 - O IAPMEI, I. P., após término do prazo previsto no n.º 2, toma posse administrativa dos bens imóveis, com recurso ao disposto no artigo 76.º do Decreto-Lei n.º 280/2007, de 7 de agosto, na sua redação atual.\n\n6 - O disposto no presente artigo não prejudica as indemnizações a que os titulares das situações e relações jurídicas referidas no n.º 1 possam ter direito, em razão da respetiva caducidade, a pagar pelo IAPMEI, I. P."
+  },
+  "835804181": {
+   "fragment_id": "835767830",
+   "type": 11,
+   "heading": "Artigo 6.º — Inventário de imóveis habitados ou habitáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Inventário de imóveis habitados ou habitáveis\n\nNo prazo de 12 meses, o IAPMEI, I. P., inventaria os imóveis que estejam em uso habitacional ou que possam ser afetados a esse uso, nos termos previstos no n.º 2 do artigo 4.º do Decreto-Lei n.º 82/2020, de 2 de outubro, na sua redação atual, devendo o Instituto da Habitação e da Reabilitação Urbana, I. P., identificar e propor aqueles que podem integrar a bolsa de imóveis públicos para habitação."
+  },
+  "835804182": {
+   "fragment_id": "835767831",
+   "type": 11,
+   "heading": "Artigo 7.º — Execução de infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Execução de infraestruturas\n\nO IAPMEI, I. P., acompanha a execução das infraestruturas necessárias à implantação de novos projetos logísticos, energéticos, industriais e de telecomunicações ou outros de relevante interesse estratégico para a economia nacional, podendo intervir nos nós de interligação com outras redes públicas, nomeadamente viárias, ferroviárias, de águas e saneamento, elétricas, de telecomunicações e de gás, visando a adoção das melhores soluções técnicas, ambientais e operacionais, mediante parecer obrigatório vinculativo das entidades que as administram."
+  },
+  "835804183": {
+   "fragment_id": "835767832",
+   "type": 11,
+   "heading": "Artigo 8.º — Servidões e direitos de superfície",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Servidões e direitos de superfície\n\nO IAPMEI, I. P., pode constituir servidões ou direitos de superfície sobre os bens imóveis referidos no n.º 1 do artigo 2.º, com vista ao desenvolvimento e em apoio da zona industrial e logística de Sines, respeitando os instrumentos de gestão territorial em vigor."
+  },
+  "835804184": {
+   "fragment_id": "835767833",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direito subsidiário\n\nEm tudo o que não for contrário ao presente decreto-lei, aplica-se subsidiariamente o disposto no Decreto-Lei n.º 6/90, de 3 de janeiro, não sendo aplicável o disposto no Decreto-Lei n.º 280/2007, de 7 de agosto, na sua redação atual, sem prejuízo do n.º 5 do artigo 5.º"
+  },
+  "835804185": {
+   "fragment_id": "835767834",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "835804187": {
+   "fragment_id": "835767836",
+   "type": 14,
+   "heading": "Anexo — Lista dos prédios e parcelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Lista dos prédios e parcelas\n\n(a que se referem o n.º 1 do artigo 2.º e os n.os 1 e 2 do artigo 5.º)\n\n(ver documento original)\n\n115904167"
+  },
+  "835804186": {
+   "fragment_id": "835767835",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de novembro de 2022. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - José Maria da Cunha Costa - João Saldanha de Azevedo Galamba - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 16 de novembro de 2022.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 18 de novembro de 2022.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "835804188": {
+   "fragment_id": "835767836",
+   "type": 14,
+   "heading": "Anexo — Lista dos prédios e parcelas",
+   "in_force_from": "2023-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120-A/2023 - Diário da República n.º 246/2023, 1º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817), em vigor a partir de 2023-12-23"
+   ],
+   "markdown": "## Anexo — Lista dos prédios e parcelas\n\n(a que se referem o n.º 1 do artigo 2.º e os n.os 1 e 2 do artigo 5.º)\n\n(ver documento original)\n\n115904167\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 120-A/2023 - Diário da República n.º 246/2023, 1º Suplemento, Série I de 2023-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-a-2023-835638817), em vigor a partir de 2023-12-23"
+  }
+ }
+}

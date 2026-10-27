@@ -1,0 +1,240 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:407906:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1973-900361368",
+ "dre_path": "/dr/detalhe/decreto-lei/718-1973-407906",
+ "source_lastmod": "2024-12-17",
+ "versions": [
+  {
+   "date": "1973-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "900168453",
+    "900168454",
+    "900168455",
+    "900168456",
+    "900168457",
+    "900168458",
+    "900168459",
+    "900168460",
+    "900168461",
+    "900168462",
+    "900168463",
+    "900168464"
+   ]
+  },
+  {
+   "date": "1974-01-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406918:por",
+     "title": "Rectificação",
+     "published": "1974-01-24",
+     "dre_path": "/dr/detalhe/rectificacao/1974-406918"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 9.º",
+    "Retifica Artigo 10.º"
+   ],
+   "fragments": [
+    "900168453",
+    "900168468",
+    "900168454",
+    "900168455",
+    "900168469",
+    "900168456",
+    "900168457",
+    "900168470",
+    "900168458",
+    "900168459",
+    "900168471",
+    "900168460",
+    "900168461",
+    "900168472",
+    "900546082",
+    "900168473",
+    "900546083",
+    "900168464",
+    "900168465"
+   ]
+  }
+ ],
+ "fragments": {
+  "900168453": {
+   "fragment_id": "900361369",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 718/73\n\nde 31 de Dezembro\n\nUsando da autorização conferida pela Lei n.º 7/73, de 22 de Dezembro, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "900168454": {
+   "fragment_id": "900361370",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão revogados os artigos 23.º e 24.º do Código do Imposto Profissional e passa a ter a seguinte redacção o artigo 21.º do mesmo Código:\n\nArt. 21.º As taxas do imposto são as seguintes:\n\n(ver documento original)\n\n§ único ...\n\n..."
+  },
+  "900168455": {
+   "fragment_id": "900361371",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs alterações ao Código do Imposto Profissional de que trata o artigo anterior são aplicáveis aos rendimentos recebidos ou postos à disposição dos seus titulares depois de 31 de Dezembro de 1973, mas a relativa ao artigo 24.º aplicar-se-á igualmente aos rendimentos desse ano."
+  },
+  "900168456": {
+   "fragment_id": "900361372",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO artigo 37.º do Código da Contribuição Industrial passa a ter a seguinte redacção:\n\nArt. 37.º ...\n\na) ...\n\nb) As remunerações, incluindo as verbas para representação, viagens ou deslocações de que se não tenham prestado contas até ao termo do exercício, escrituradas a favor dos donos de firmas em nome individual ou atribuídas por qualquer título a sócios administradores ou gerentes, membros do conselho fiscal, mesa da assembleia geral ou demais órgãos das sociedades, ou a sócios que exerçam nelas quaisquer outros cargos que, por disposição estatutária, tenham de pertencer-lhes, na parte em que vão além, no exercício, e por cada interessado, de 180000$00;\n\nc) A contribuição industrial e o imposto complementar;\n\nd) As importâncias de multas e demais encargos pela prática de infracções fiscais, bem como as indemnizações pela verificação de eventos cujo risco seja segurável;\n\ne) Os juros intercalares pagos nos termos do § 2.º do artigo 192.º do Código Comercial."
+  },
+  "900168457": {
+   "fragment_id": "900361373",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA alteração ao artigo 37.º do Código da Contribuição Industrial é aplicável à determinação da matéria colectável do ano de 1974 e seguintes."
+  },
+  "900168458": {
+   "fragment_id": "900361374",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs §§ 1.º e 2.º do artigo 27.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola passam a ter a seguinte redacção:\n\nArt. 27.º ...\n\n§ 1.º Ficam igualmente isentos os contribuintes que, no concelho, só possuam casa onde habitem, cujo rendimento colectável não seja superior a 1000$00.\n\n§ 2.º A isenção a que alude o parágrafo anterior não se aplica aos contribuintes que explorem prédios rústicos em regime de arrendamento quando o rendimento colectável adicionado ao da casa própria perfaça um total superior a 1000$00."
+  },
+  "900168459": {
+   "fragment_id": "900538575",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA alteração de que trata o artigo anterior é aplicável ao rendimento respeitante ao ano de 1973 e seguintes."
+  },
+  "900168460": {
+   "fragment_id": "900538576",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO artigo 33.º do Código do Imposto Complementar passa a ter a seguinte redacção:\n\nArt. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:\n\n(ver documento original)\n\n§ 1.º ...\n\n§ 2.º ..."
+  },
+  "900168461": {
+   "fragment_id": "900538577",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA nova tabela do artigo 33.º do Código do Imposto Complementar é aplicável aos rendimentos respeitantes ao ano de 1973 e seguintes."
+  },
+  "900168462": {
+   "fragment_id": "900538578",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1. O Ministro das Finanças poderá conceder isenção ou redução do imposto de mais-valias nos casos de aumento de capital das sociedades anónimas, em comandita por acções, ou por quotas efectuadas nos anos de 1974 e 1975 por incorporação de reservas não provenientes da reavaliação do activo mobilizado das empresas, quando, atento o sector de actividade e a natureza ou volume das reservas a incorporar, o considerar justificado.\n\n2. O benefício será requerido com apresentação da participação nos termos dos artigos 23.º e 24.º do Código do Imposto de Mais-Valias, devendo o requerimento ser acompanhado de uma relação das reservas a incorporar, discriminadas segundo a sua proveniência, montante e data da constituição ou reforço e de cópias dos balanços e das contas de ganhos e perdas dos anos correspondentes, bem como das actas das assembleias gerais em que foram aprovados.\n\n3. O requerimento será informado pela Direcção-Geral das Contribuições e Impostos, depois de ouvidos, quando necessário, os serviços competentes do Ministério que superintenda na actividade respectiva.\n\n4. As inexactidões e omissões cometidas no requerimento ou nos documentos referidos no n.º 2 serão punidas nos termos do artigo 48.º do Código do Imposto de Mais-Valias."
+  },
+  "900168463": {
+   "fragment_id": "900538579",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nDada nova redacção ao artigo 11.º, n.º 3.º, do Código da Sisa e do Imposto sobre as Sucessões e Doações e aditado ao mesmo Código o artigo 13.º-A, nos termos seguintes:\n\nArt. 11.º ...\n\n...\n\n3.º As aquisições de prédios para revenda, nos termos do artigo 13.º-A, desde que se verifique ter sido apresentada antes da aquisição e declaração prevista no artigo 11.º do Código da Contribuição Industrial, relativa ao exercício da actividade de comprador de prédios para revenda;\n\n...\n\nArt. 13.º-A A isenção prevista no n.º 3.º do artigo 11.º não prejudica a liquidação e pagamento da sisa, nos termos gerais, salvo se se reconhecer que o adquirente exerce normal e habitualmente a actividade de comprador de prédios para revenda.\n\n§ 1.º Para os efeitos do disposto na parte final do corpo deste artigo, considera-se que o contribuinte exerce normal e habitualmente a actividade quando comprove o seu exercício no ano anterior mediante certidão passada pela repartição de finanças competente.\n\n§ 2.º Quando o prédio tenha sido transaccionado no prazo de dois anos, sem ser para revenda, e haja sido paga a sisa, esta será anulada pela repartição de finanças, a requerimento do interessado, acompanhado de documento comprovativo da transacção."
+  },
+  "900168464": {
+   "fragment_id": "900538580",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO artigo anterior aplicar-se-á às aquisições efectuadas a partir de 1 de Janeiro de 1974."
+  },
+  "900168468": {
+   "fragment_id": "900538585",
+   "type": 4,
+   "heading": "Parte — a) Imposto profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — a) Imposto profissional"
+  },
+  "900168469": {
+   "fragment_id": "900538586",
+   "type": 4,
+   "heading": "Parte — b) Contribuição Industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — b) Contribuição Industrial"
+  },
+  "900168470": {
+   "fragment_id": "900538587",
+   "type": 4,
+   "heading": "Parte — c) Contribuição predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — c) Contribuição predial"
+  },
+  "900168471": {
+   "fragment_id": "900538588",
+   "type": 4,
+   "heading": "Parte — d) Imposto complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — d) Imposto complementar"
+  },
+  "900168472": {
+   "fragment_id": "900538589",
+   "type": 4,
+   "heading": "Parte — e) Imposto de mais-valias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — e) Imposto de mais-valias"
+  },
+  "900546082": {
+   "fragment_id": "900538578",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1974-01-24",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 20/1974, Série I de 1974-01-24](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-406918), em vigor a partir de 1974-01-24"
+   ],
+   "markdown": "###### Artigo 9.º\n\n- 1. O Ministro das Finanças poderá conceder isenção ou redução do imposto de mais-valias nos casos de aumentos de capital das sociedades anónimas, em comandita por acções, ou por quotas, efectuados nos anos de 1974 e 1975 por incorporação de reservas não provenientes da reavaliação do activo imobilizado das empresas; quando, atento o sector de actividade e a natureza ou volume das reservas a incorporar, o considerar justificado.\n\n2. O benefício será requerido com apresentação da participação nos termos dos artigos 23.º e 24.º do Código do Imposto de Mais-Valias, devendo o requerimento ser acompanhado de uma relação das reservas a incorporar, discriminadas segundo a sua proveniência, montante e data da constituição ou reforço e de cópias dos balanços e das contas de ganhos e perdas dos anos correspondentes, bem como das actas das assembleias gerais em que foram aprovados.\n\n3. O requerimento será informado pela Direcção-Geral das Contribuições e Impostos, depois de ouvidos, quando necessário, os serviços competentes do Ministério que superintenda na actividade respectiva.\n\n4. As inexactidões e omissões cometidas no requerimento ou nos documentos referidos no n.º 2 serão punidas nos termos do artigo 48.º do Código do Imposto de Mais-Valias.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 20/1974, Série I de 1974-01-24](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-406918), em vigor a partir de 1974-01-24"
+  },
+  "900168473": {
+   "fragment_id": "900538590",
+   "type": 4,
+   "heading": "Parte — f) Sisa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — f) Sisa"
+  },
+  "900546083": {
+   "fragment_id": "900538579",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1974-01-24",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 20/1974, Série I de 1974-01-24](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-406918), em vigor a partir de 1974-01-24"
+   ],
+   "markdown": "###### Artigo 10.º\n\nDada nova redacção ao artigo 11.º, n.º 3.º, do Código da Sisa e do Imposto sobre as Sucessões e Doações e aditado ao mesmo Código o artigo 13.º-A, nos termos seguintes:\n\nArt. 11.º ...\n\n...\n\n3.º As aquisições de prédios para revenda, nos termos do artigo 13.º-A, desde que se verifique ter sido apresentada antes da aquisição a declaração prevista no artigo 111.º do Código da Contribuição Industrial, relativa ao exercício da actividade de comprador de prédios para revenda;\n\n...\n\nArt. 13.º-A A isenção prevista no n.º 3.º do artigo 11.º não prejudica a liquidação e pagamento da sisa, nos termos gerais, salvo se se reconhecer que o adquirente exerce normal e habitualmente a actividade de comprador de prédios para revenda.\n\n§ 1.º Para os efeitos do disposto na parte final do corpo deste artigo, considera-se que o contribuinte exerce normal e habitualmente a actividade quando comprove o seu exercício no ano anterior mediante certidão passada pela repartição de finanças competente.\n\n§ 2.º Quando o prédio tenha sido transaccionado no prazo de dois anos, sem ser para revenda, e haja sido paga a sisa, esta será anulada pela repartição de finanças, a requerimento do interessado, acompanhado de documento comprovativo da transacção.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 20/1974, Série I de 1974-01-24](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-406918), em vigor a partir de 1974-01-24"
+  },
+  "900168465": {
+   "fragment_id": "900538581",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.\n\nPromulgado em 28 de Dezembro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

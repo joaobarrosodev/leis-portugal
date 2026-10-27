@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:239035:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1992-65921484",
+ "dre_path": "/dr/detalhe/portaria/891-1992-239035",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1992-09-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "65926476"
+   ]
+  }
+ ],
+ "fragments": {
+  "65926476": {
+   "fragment_id": "65921485",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 891/92\n\nde 15 de Setembro\n\nConsiderando que o Decreto-Lei n.º 102/84, de 29 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 436/88, de 23 de Novembro, que institui a disciplina jurídica da formação inicial de jovens em regime de aprendizagem, tem como objectivo primordial assegurar a transição dos jovens do sistema de ensino para o mundo do trabalho, através de uma adequada e indispensável qualificação profissional;\n\nAo abrigo do n.º 1 do artigo 22.º do Decreto-Lei n.º 102/84, de 29 de Março, e por proposta da Comissão Nacional de Aprendizagem:\n\nManda o Governo, pelos Ministros da Educação e do Emprego e da Segurança Social, que sejam aprovadas as normas regulamentares de aprendizagem e pré-aprendizagem nas seguintes profissões da área dos serviços e subáreas complementares, anexas à presente portaria e que dela fazem parte integrante:\n\na) Empregado de contabilidade;\n\nb) Técnico de contabilidade e gestão;\n\nc) Empregado de secretariado;\n\nd) Técnico de secretariado;\n\ne) Empregado administrativo;\n\nf) Técnico administrativo;\n\ng) Técnico de gestão administrativa (comercial e industrial);\n\nh) Empregado comercial;\n\ni) Técnico comercial;\n\nj) Técnico de serviços de comércio externo;\n\nk) Auxiliar de cabeleireiro;\n\nl) Oficial de cabeleireiro;\n\nm) Manicura, pedicura e calista.\n\n> Nota: [Portaria n.º 445/2004 - Diário da República n.º 102/2004, Série I-B de 2004-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/445-2004-302278) Revogados, os perfis de empregado comercial, técnico comercial e técnico de serviço de comércio externo.\n\n> Nota: [Portaria n.º 1350/2003 - Diário da República n.º 282/2003, Série I-B de 2003-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/1350-2003-430186) Revogados, os perfis de empregado de contabilidade, técnico de contabilidade e gestão, empregado de secretariado, técnico de secretariado, empregado administrativo, técnico administrativo e técnico de gestão administrativa (comercial/industrial))."
+  }
+ }
+}

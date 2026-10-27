@@ -1,0 +1,246 @@
+---
+schema_version: '1.0'
+id: pt:dre:150522:por
+title: Portaria n.º 470/75
+short_title: null
+summary: Estabelece normas sobre a recolha e comercialização de leite no continente e ilhas adjacentes
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios para o Planeamento e Coordenação Económica, das Finanças e da Agricultura e Pescas
+proposing_entity: null
+official_number: 470/75
+official_date: null
+publication_date: '1975-08-01'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 176/1975, 1º Suplemento, Série I de 1975-08-01
+  number: '176'
+  series: I
+  supplement: null
+  pages: 1076-(2) a 1076-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/08/17601/00020005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '150522'
+  dre_path: /dr/detalhe/portaria/470-1975-150522
+  internal: pt:dre:150522:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/470-1975-150522
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/470-1975-150522
+  consolidated_url: null
+  retrieved_at: '2026-10-23T04:47:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 8fe3794c68eb9ae089aa0ed6e0ee8c2681923955a9745f987fef536e95d2ac8b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T04:47:30Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Leite
+- Madeira.ilha Adjacente
+relationships:
+- type: amended_by
+  target: pt:dre:427605:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:427605:por
+  label: Determinada a manutenção em vigor do presente diploma pelo(a) Portaria n.º 282/76 - Diário da República n.º 104/1976,
+    Série I de 1976-05-04, salvo as disposições que contrariem a mesma portaria
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/282-1976-427605
+  date: '1976-05-04'
+- type: cites
+  target: pt:dre:169462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:169464:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:313181:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T04:47:30Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 470/75
+
+de 1 de Agosto
+
+A [Portaria n.º 306/75](https://diariodarepublica.pt/dr/detalhe/portaria/306-1975-169464), de 12 de Maio, foi publicada com algumas imprecisões que se pretende clarificar, de forma a tornar coincidentes a letra e o espírito do legislador. Publica-se, pois, uma nova portaria, onde, além de se introduzirem as rectificações consideradas necessárias, se definem os subsídios a conceder ao leite no arquipélago dos Açores.
+
+À semelhança do que se passa no continente, e enquanto não for revisto o actual sistema de classificação do leite, torna-se extensiva aos arquipélagos da Madeira e dos Açores a existência de apenas dois tipos de leite (classe A e classe B). Entretanto, proceder-se-á desde já à constituição do grupo de trabalho que reverá o actual sistema de classificação do leite e que, no prazo de noventa dias, apresentará um relatório das conclusões a que chegar.
+
+Atendendo a que o desmantelamento da organização corporativa da lavoura implica a reestruturação dos circuitos de recolha de leite, estabelece-se para o corrente ano um seguro de despromoção até um máximo de 20% da média das despromoções dos três últimos anos calculados sobre o valor do leite na concentração, deduzidos os encargos do 1.º escalão, atribuível às organizações da lavoura que efectuarem a recolha. Este seguro será revisto logo que se verifique o saneamento dos circuitos, cuja inspecção estará a cargo da Junta Nacional dos Produtos Pecuários e da Direcção-Geral dos Serviços Pecuários.
+
+Relativamente aos Açores, novas medidas se poderão vir a estabelecer, dentro de um esquema conjunto relativo a vários produtos cuja economia é importante para o arquipélago. Entretanto, o facto de se ter conseguido um acordo quanto à existência de um único canal de recolha de leite nas ilhas de S. Miguel e da Terceira permitirá que, muito breve, esteja montada a classificação do leite, o que possibilitará aos produtores o acesso a um leite mais valorizado (classe A), ao mesmo tempo que tornará viável um contrôle oficial quanto à qualidade da matéria-prima dos produtos laborados.
+
+Ao abrigo do disposto nos artigos 2.º e 27.º do [Decreto-Lei n.º 47710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47710-1967-313181), de 18 de Maio de 1967:
+
+Manda o Governo da República Portuguesa, pelos Ministros para o Planeamento e Coordenação Económica, das Finanças e da Agricultura e Pescas, o seguinte:
+
+1.º - 1. A classificação do leite no continente será feita no posto de recolha pelas organizações da lavoura que efectuarem esta operação. Esta classificação distinguirá o leite entre «leite para consumo» e «leite para fins industriais».
+
+2. Entende-se por «leite para consumo» o leite da classe A e por «leite para fins industriais» o leite da classe B, em conformidade com as características hígio-sanitárias e de harmonia com as normas de classificação e de análise oficialmente aprovadas, até que seja revisto o actual sistema de classificação do leite.
+
+3. Numa fase transitória, e enquanto não forem reestruturados os sectores de tratamento e distribuição de leite ao consumidor, o leite da classe B poderá continuar a ser vendido ao público como leite comum nas condições expressas pela [Portaria n.º 306-A/75](https://diariodarepublica.pt/dr/detalhe/portaria/306-a-1975-169462).
+
+4. Sempre que o leite entregue pelos produtores nos postos de recolha se apresente com um grau de acidez que impeça a sua utilização industrial ou adicionado de substâncias estranhas e ou aguado, as organizações da lavoura que procedam à recolha e concentração deverão rejeitá-lo.
+
+5. Até que seja revisto o actual sistema de classificação do leite, a Direcção-Geral dos Serviços Pecuários continuará quer a fiscalizar a classificação do leite nos postos de recolha, quer a assumir a responsabilidade pela autenticidade dos mapas enviados pelas organizações da lavoura que efectuem a recolha do leite à Junta Nacional dos Produtos Pecuários para efeito do pagamento de subsídios.
+
+2.º - 1. Os preços máximos de venda, a partir de 1 de Março de 1975, na fase de concentração do leite, nas zonas de recolha organizada do continente, por litro, são os seguintes:
+
+Continente:
+
+Leite para consumo (classe A) ... 7$20
+
+Leite para fins industriais (classe B) ... 6$00
+
+2. As organizações encarregadas da recolha do leite não podem deduzir nos preços indicados no n.º 1 mais do que $80 por litro como encargos de recolha (1.º escalão).
+
+3. Às organizações que efectuarem a recolha e concentração do leite é imputada a responsabilidade pela qualidade do produto até ao centro de tratamento.
+
+3.º Entendem-se por zonas de recolha organizadas as áreas dos concelhos de Almada, Seixal, Cascais, Loures, Mafra, Oeiras, Sintra e Vila Franca de Xira e da freguesia de Samora Correia, do concelho de Benavente; concelhos de Santarém, Sobral de Monte Agraço, Barcelos, Esposende, Ponte de Lima, Viana do Castelo, Caminha e Vila Nova de Cerveira; freguesias de S. Pedro, Freiria, Turcifal e Dois Portos, do concelho de Torres Vedras; concelhos do Porto, Matosinhos, Maia, Vila do Conde, Gondomar, Valongo, Vila Nova de Gaia, Espinho, Feira, S. João da Madeira, Santo Tirso, Paços de Ferreira e Póvoa de Varzim; concelho de Braga; concelho de Arouca; concelhos de Ovar, Oliveira de Azeméis, Oliveira do Bairro, Sever do Vouga, Estarreja, Murtosa, Albergaria-a-Velha, Aveiro, Ílhavo, Vagos, Águeda, Anadia, Mealhada, Mira, Cantanhede, Penacova, Poiares, Arganil, Góis, Lousã, Miranda do Corvo, Coimbra, Condeixa-a-Nova, Montemor-o-Velho, Figueira da Foz, Soure, Penela, Castanheira de Pêra, Pedrógão Grande, Figueiró dos Vinhos, Ansião, Alvaiázere e Pombal; concelhos de Amarante, Amares, Arcos de Valdevez, Baião, Lousada, Marco de Canaveses, Melgaço, Monção, Paredes, Cabeceiras de Basto, Castelo de Paiva, Celorico de Basto, Peredes de Coura, Penafiel, Ponte da Barca, Póvoa de Lanhoso, Resende, Ribeira de Pena, Cinfães, Fafe, Felgueiras, Guimarães, Terras de Bouro, Vale de Cambra, Valença, Vieira do Minho, Vila Nova de Famalicão e Vila Verde; concelhos de Alandroal, Arraiolos, Borba, Estremoz, Évora, Montemor-o-Novo, Mourão, Portel, Redondo, Reguengos de Monsaraz e Vendas Novas; concelhos de Leiria e Marinha Grande, Alcanena, Almeirim, Alpiarça, Cartaxo, Chamusca, Entroncamento, Golegã, Rio Maior e Torres Novas; concelhos de Alcácer do Sal, Aljustrel, Almodôvar, Alvito, Barrancos, Beja, Castro Verde, Cuba, Ferreira do Alentejo, Grândola, Mértola, Moura, Odemira, Ourique, Santiago do Cacém, Serpa, Sines e Vidigueira; concelhos de Alfândega da Fé, Bragança, Carrazeda de Ansiães, Freixo de Espada à Cinta, Macedo de Cavaleiros, Miranda do Douro, Mirandela, Mogadouro, Torre de Moncorvo, Vila Flor, Vimioso e Vinhais; concelhos de Coruche, Salvaterra de Magos e Benavente; concelhos de Viseu, S. Pedro do Sul, Oliveira de Frades, Vouzela e Sátão; concelhos da Nazaré, Alcobaça, Porto de Mós, Batalha, Lourinhã, Bombarral, Cadaval, Torres Vedras, Alenquer, Barreiro, Moita, Montijo, Sesimbra, Setúbal e Palmela; concelhos de Vila Nova de Ourém, Ferreira do Zêzere, Tomar, Constância, Sardoal e Mação, Vila Nova da Barquinha, Abrantes e Azambuja; todos os concelhos do distrito de Portalegre; concelho de Moura; todos os concelhos da província do Algarve; concelhos de Vila Nova de Paiva e Tondela, Caldas da Rainha, Óbidos e Peniche, Vila Viçosa e Viana do Alentejo.
+
+4.º Nas zonas de recolha não organizada o preço a pagar à produção não pode ser inferior a 5$20 por litro.
+
+5.º Entendem-se por zonas de recolha não organizadas as áreas dos concelhos não mencionados no n.º 3.º
+
+6.º - 1. No arquipélago da Madeira, até que seja revisto o actual sistema de classificação do leite, considerar-se-á apenas a existência de dois tipos de leite, classe A e classe B, em conformidade com as características hígio-sanitárias e de harmonia com as normas de classificação e de análise oficialmente aprovadas.
+
+2. Os preços a pagar à produção no arquipélago da Madeira são, a partir de 1 de Março de 1975, por litro, os seguintes:
+
+Classe A ... 6$40
+
+Classe B ... 5$20
+
+3. Sempre que o leite entregue pelos produtores nos postos de recolha se apresente com um grau de acidez que impeça a sua utilização industrial ou adicionado de substâncias estranhas e aguado, as organizações que procedam à recolha e concentração deverão rejeitá-lo.
+
+4. Até que seja revisto o actual sistema de classificação do leite, a Direcção-Geral dos Serviços Pecuários continuará quer a fiscalizar a classificação do leite nos postos de recolha, quer a assumir a responsabilidade pela autenticidade dos mapas enviados pelas organizações da lavoura que efectuarem a recolha do leite à Junta Nacional dos Produtos Pecuários para efeito do pagamento de subsídios.
+
+7.º - 1. Nas ilhas do arquipélago dos Açores onde exista classificação do leite, até que seja revisto o actual sistema, considerar-se-á apenas a existência de dois tipos de leite, classe A e classe B, em conformidade com as características hígio-sanitárias e de harmonia com as normas de classificação e de análise oficialmente aprovadas.
+
+2. Os preços a pagar à produção no arquipélago dos Açores são, a partir de 1 de Março de 1975, por litro, os seguintes:
+
+Classe A:
+
+Abril-Setembro ... 4$40
+
+Outubro-Março ... 4$80
+
+Classe B:
+
+Abril-Setembro ... 3$90
+
+Outubro-Março ... 4$30
+
+3. Sempre que o leite entregue pelos produtores nos postos de recolha se apresente com um grau de acidez que impeça a sua utilização industrial ou adicionado de substâncias estranhas e ou aguado as organizações que procedam à recolha e concentração deverão rejeitá-lo.
+
+4. Até que seja revisto o actual sistema de classificação do leite, a Direcção-Geral dos Serviços Pecuários continuará quer a fiscalizar a classificação do leite nos postos de recolha, quer a assumir a responsabilidade pela autenticidade dos mapas enviados pelas organizações que efectuarem a recolha do leite à Junta Nacional dos Produtos Pecuários para efeito do pagamento de subsídios.
+
+8.º Nas ilhas do arquipélago dos Açores onde o leite não for classificado vigorará um único preço, que corresponderá ao do leite da classe B.
+
+9.º Os preços estabelecidos no continente e nos arquipélagos da Madeira e dos Açores entendem-se para o leite com 3,4% de gordura, sujeitos a valorização ou desvalorização de $04 em cada 0,1% de gordura.
+
+10.º - 1. Os pequenos e médios produtores do continente e dos arquipélagos da Madeira e dos Açores que disponham de equipamentos de ordenha mecânica e ou de refrigeração de leite, devidamente aprovados pela Direcção-Geral dos Serviços Pecuários, receberão, pelo período de dois anos após a publicação desta portaria, por cada litro de leite da classe A, os seguintes subsídios:
+
+a) $60, se procederem simultaneamente à ordenha mecânica e refrigeração;
+
+b) $30, se realizarem apenas a ordenha mecânica;
+
+c) $30, se procederem apenas à refrigeração.
+
+2. A qualidade de pequeno ou médio produtor deverá ser reconhecida pelas comissões liquidatárias dos grémios da lavoura, com aval das ligas de pequenos e médios agricultores, no continente, pela Junta de Planeamento, no arquipélago da Madeira, e pela Juntas Gerais dos Distritos Autónomos do Arquipélagos dos Açores.
+
+3. A atribuição das dotações mencionadas no n.º 1 é da responsabilidade da Junta Nacional dos Produtos Pecuários, cabendo, no entanto, às organizações da lavoura que procedam à recolha e concentração o pagamento das referidas dotações aos produtores.
+
+11.º - 1. Os pequenos e médios produtores que no continente ou nos arquipélagos da Madeira e dos Açores procedam colectivamente à instalação de equipamento de ordenha mecânica e ou de refrigeração de leite beneficiarão de um subsídio de 80% a fundo perdido sobre o custo e montagem do equipamento adquirido, desde que o respectivo projecto seja aprovado pela JNPP, sob parecer do Ministério da Agricultura e Pescas.
+
+2. Os pequenos e médios produtores que no continente ou nos arquipélagos da Madeira e dos Açores pretendam instalar individualmente equipamentos de ordenha mecânica e ou de refrigeração de leite beneficiarão de um subsídio de 80% a fundo perdido sobre o custo e montagem do equipamento adquirido, desde que o respectivo projecto, apreciado caso a caso, seja aprovado pela JNPP, sob parecer do Ministério da Agricultura e Pescas.
+
+3. Os pequenos e médios produtores que no continente ou nos arquipélagos da Madeira e dos Açores instalarem estábulos colectivos beneficiarão de um subsídio de 80% a fundo perdido sobre o custo da construção, desde que o respectivo projecto seja aprovado pela JNPP, sob parecer do Ministério da Agricultura e Pescas.
+
+4. A atribuição destes subsídios é da responsabilidade da Junta Nacional dos Produtos Pecuários.
+
+12.º As dotações mencionadas nos n.os 10.º e 11.º constituem encargo para o Fundo de Abastecimento.
+
+13.º - 1. Constituirá encargo suplementar para o Fundo de Abastecimento o pagamento, a partir de 1 de Março de 1975, no continente e arquipélago da Madeira, de um subsídio de 1$70 por litro para o leite classificado, no posto de recolha, como leite para consumo (classe A).
+
+2. Constituirá encargo para o Fundo de Abastecimento a manutenção, no continente e arquipélago da Madeira, do subsídio de 1$20 por litro para o leite pasteurizado para consumo em natureza.
+
+3. Os subsídios referidos nos n.os 1 e 2 do presente número não se aplicam ao leite destinado à ultrapasteurização e à esterilização nem ao leite designado por leite especial.
+
+14.º - 1. Constituirá encargo suplementar para o Fundo de Abastecimento o pagamento, a partir de 1 de Março de 1975, no continente e arquipélago da Madeira, de um subsídio de 1$40 por litro para o leite classificado, no posto de recolha, como leite para fins industriais (classe B), de acordo com o disposto no n.º 1.º, n.º 2.
+
+2. Constituirá encargo para o Fundo de Abastecimento a manutenção, no continente e arquipélago da Madeira, do subsídio de $50 por litro para o leite da classe B quando este se destinar ao consumo em natureza (leite comum), de acordo com o disposto no n.º 1.º, n.º 2.
+
+15.º - 1. As organizações da lavoura que no continente procedam às operações do 1.º escalão do ciclo económico do leite deverão deduzir $10 por litro no montante do subsídio referido no n.º 1 do n.º 13.º, que se destinam às entidades que efectuarem as operações referentes ao 2.º escalão.
+
+16.º No arquipélago da Madeira o Fundo de Abastecimento suportará um encargo suplementar destinado a colmatar os deficits do 1.º e 2.º escalões, devidamente comprovados pela Junta de Planeamento.
+
+17.º Constituirá encargo suplementar para o Fundo de Abastecimento o pagamento, a partir de 1 de Março de 1975, no continente e arquipélago da Madeira, de um único subsídio de 1$00 por litro para os leites ultrapasteurizado e esterilizado.
+
+18.º As importâncias correspondentes aos subsídios preceituados nos n.os 13.º, 14.º e 17.º serão entregues nas delegações da Junta Nacional dos Produtos Pecuários.
+
+19.º À Secretaria de Estado do Abastecimento e Preços competirá definir os quantitativos máximos de leite destinados, em cada região, à ultrapasteurização e esterilização, garantindo-se prioridade ao abastecimento público com leite pasteurizado.
+
+20.º - 1. Constituirá encargo suplementar para o Fundo de Abastecimento o pagamento, a partir de 1 de Março de 1975, nas ilhas do arquipélago dos Açores, onde haja classificação oficial de leite, de um subsídio de 1$00 por litro para o leite classificado, no posto de recolha, como leite da classe A e de um subsídio de $70 por litro para o leite classificado, no posto de recolha, com leite da classe B.
+
+2. Nas ilhas do arquipélago dos Açores onde não haja classificação oficial do leite o subsídio a conceder, nos termos do n.º 1, será unicamente de $70 por litro, com excepção do leite destinado ao fabrico de dietéticos, o qual beneficiará apenas de um subsídio de $50 por litro.
+
+3. As importâncias correspondentes aos subsídios preceituados neste número serão entregues nas delegações da Junta Nacional dos Produtos Pecuários.
+
+21.º - 1. As organizações da lavoura encarregadas da recolha do leite no continente e nas ilhas adjacentes beneficiarão de um seguro de despromoção até um máximo de 20% da média das despromoções do leite nos três últimos anos calculado sobre o seu valor na concentração, deduzidos os encargos do 1.º escalão, desde que a responsabilidade das mesmas não lhes seja imputável.
+
+2. O pagamento deste seguro é da responsabilidade da Junta Nacional dos Produtos Pecuários.
+
+3. O Fundo de Abastecimento dotará a Junta Nacional dos Produtos Pecuários das verbas necessárias para o cumprimento do disposto no n.º 2 deste número.
+
+22.º É revogada a [Portaria n.º 306/75](https://diariodarepublica.pt/dr/detalhe/portaria/306-1975-169464), de 12 de Maio.
+
+23.º Esta portaria entra imediatamente em vigor.
+
+Ministérios para o Planeamento e Coordenação Económica, das Finanças e da Agricultura e Pescas, 21 de Julho de 1975. - O Ministro para o Planeamento e Coordenação Económica, Mário Luís da Silva Murteira. - O Ministro das Finanças, José Joaquim Fragoso. - O Ministro da Agricultura e Pescas, Fernando Oliveira Baptista.

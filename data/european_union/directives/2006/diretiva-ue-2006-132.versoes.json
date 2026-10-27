@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32006L0132:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02006L0132-20110614",
+ "dre_path": null,
+ "source_lastmod": "2011-06-14",
+ "versions": [
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "02006L0132-20070101",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "933fc0f9ea247aa9",
+    "22aa1bdcba18078f",
+    "52875d6b6cbc58f2",
+    "c42d885cf9836186",
+    "67960ae27808ba9c",
+    "c2768784123201be",
+    "b454ecf5da99dbc2",
+    "113ed3802ab81142"
+   ]
+  },
+  {
+   "date": "2011-06-14",
+   "future": false,
+   "celex": "02006L0132-20110614",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime Artigo 1.º",
+    "Suprime Artigo 2.º",
+    "Suprime Artigo 3.º",
+    "Suprime Artigo 4.º",
+    "Suprime Artigo 5.º",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "d77902756c9b4d42"
+   ]
+  }
+ ],
+ "fragments": {
+  "933fc0f9ea247aa9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Dezembro de 2006\n\nque altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa procimidona\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Europeia,\n\nTendo em conta a Directiva 91/414/CEE do Conselho, de 15 de Julho de 1991, relativa à colocação dos produtos fitofarmacêuticos no mercado ([^1^](http://publications.europa.eu/resource/cellar/1e75bf4e-f219-45ef-b172-28d08022b912.0018.03/DOC_1#E0001)), nomeadamente o n.º 1 do artigo 6.º,\n\n(1) O Regulamento (CEE) n.º 3600/92 da Comissão, de 11 de Dezembro de 1992, que estabelece normas de execução para a primeira fase do programa de trabalho referido no n.º 2 do artigo 8.º da Directiva 91/414/CEE do Conselho relativa à colocação dos produtos fitofarmacêuticos no mercado ([^2^](http://publications.europa.eu/resource/cellar/1e75bf4e-f219-45ef-b172-28d08022b912.0018.03/DOC_1#E0002)), estabelece uma lista de substâncias activas a avaliar, com vista à possível inclusão das mesmas no anexo I da Directiva 91/414/CEE. Esta lista inclui a procimidona.\n\n(2) Os efeitos da procimidona na saúde humana e no ambiente foram avaliados em conformidade com o Regulamento (CEE) n.º 3600/92 no que respeita a uma certa gama de utilizações, proposta pelo notificador. Por força do Regulamento (CE) n.º 933/94 da Comissão, de 27 de Abril de 1994, que estabelece as substâncias activas dos produtos fitofarmacêuticos e designa os Estados-Membros relatores com vista à aplicação do Regulamento (CEE) n.º 3600/92 ([^3^](http://publications.europa.eu/resource/cellar/1e75bf4e-f219-45ef-b172-28d08022b912.0018.03/DOC_1#E0003)), a França foi designada como Estado-Membro relator. A França apresentou o relatório de avaliação e as recomendações pertinentes à Comissão, em 15 de Janeiro de 2001, em conformidade com o n.º 1, alínea c), do artigo 7.º do Regulamento (CEE) n.º 3600/92.\n\n(3) O relatório de avaliação foi revisto pelos Estados-Membros e pela Comissão no âmbito do Comité Permanente da Cadeia Alimentar e da Saúde Animal.\n\n(4) Dos diversos exames efectuados concluiu-se ser possível presumir que os produtos fitofarmacêuticos que contêm procimidona satisfazem os requisitos do n.º 1, alíneas a) e b), do artigo 5.º da Directiva 91/414/CEE, no que diz respeito às utilizações examinadas e detalhadas no relatório de revisão da Comissão, desde que sejam aplicadas medidas adequadas de redução dos riscos. Visto que a procimidona é uma substância perigosa, a sua utilização deve ser sujeita a restrições. Existem, designadamente, receios acerca dos seus efeitos tóxicos intrínsecos, incluindo propriedades potencialmente desreguladoras do sistema endócrino. Neste momento, não existe consenso científico relativamente à exacta extensão do risco. Aplicando o princípio da precaução, e atendendo aos conhecimentos científicos actuais, devem ser impostas medidas de redução dos riscos, a fim de alcançar o elevado nível de protecção da saúde humana e animal e do ambiente almejado pela Comunidade.\n\n(5) O n.º 4 do artigo 5.º e o n.º 1 do artigo 6.º da Directiva 91/414/CEE determinam que a inclusão de substâncias no anexo I pode estar sujeita a restrições e condições. No caso em apreço, são consideradas necessárias as restrições em matéria de período de inclusão e de culturas autorizadas. As medidas inicialmente apresentadas ao Comité Permanente da Cadeia Alimentar e da Saúde Animal propunham a restrição do período de inclusão a sete anos, de modo a que os Estados-Membros dessem prioridade à revisão dos produtos fitofarmacêuticos com procimidona que já se encontrassem no mercado. Para evitar discrepâncias quanto ao elevado nível de protecção almejado, a inclusão no anexo I da Directiva 91/414/CEE devia limitar-se às utilizações de procimidona efectivamente avaliadas pela Comunidade e consideradas conformes com as condições fixadas na referida directiva. Tal implicaria que as outras utilizações, não abrangidas na referida avaliação ou apenas parcialmente abrangidas, deveriam ser submetidas a uma avaliação completa antes de poder ser considerada a sua inclusão no anexo I da Directiva 91/414/CEE. Por último, devido à natureza perigosa da procimidona, considerou-se necessário garantir uma harmonização mínima a nível comunitário de determinadas medidas de redução dos riscos a aplicar pelos Estados-Membros aquando da concessão de autorizações.\n\n(6) Nos termos dos procedimentos estabelecidos pela Directiva 91/414/CEE, a Comissão decide da aprovação das substâncias activas, incluindo a definição de medidas de gestão dos riscos. Os Estados-Membros são os responsáveis pela execução, aplicação e controlo das medidas destinadas a reduzir os riscos gerados pelos produtos fitofarmacêuticos. As preocupações manifestadas por vários Estados-Membros reflectem a sua opinião, segundo a qual são necessárias restrições adicionais para reduzir o risco a um nível que se possa considerar aceitável e consistente com o elevado nível de protecção que a Comunidade deseja alcançar. Actualmente, o estabelecimento do nível de segurança e protecção adequado para a produção, comercialização e utilização continuadas da procimidona é uma questão de gestão dos riscos.\n\n(7) Consequentemente, a Comissão reexaminou a sua posição. A fim de reflectir correctamente o elevado nível de protecção da saúde humana e animal assim como o ambiente sustentável que a Comunidade pretende, a Comissão considerou adequado, para além dos princípios enunciados no quinto considerando, reduzir novamente o período de inclusão para 18 meses, em vez de sete anos. Esta medida contribui para a redução de eventuais riscos, garantindo uma reavaliação prioritária no respeitante a esta substância.\n\n(8) Pode presumir-se que os produtos fitofarmacêuticos que contêm procimidona satisfazem os requisitos do n.º 1, alíneas a) e b), do artigo 5.º da Directiva 91/414/CEE, no que diz respeito às utilizações examinadas e detalhadas no relatório de revisão da Comissão, desde que sejam aplicadas as medidas de redução dos riscos necessárias.\n\n(9) Sem prejuízo da conclusão de que é possível presumir que os produtos fitofarmacêuticos com procimidona satisfazem os requisitos estabelecidos no n.º 1, alíneas a) e b), do artigo 5.º da Directiva 91/414/CEE, é conveniente obter informações adicionais sobre certos pontos específicos. As propriedades potencialmente desreguladoras do sistema endócrino da procimidona foram avaliadas em ensaios que seguem as melhores práticas actualmente disponíveis. A Comissão está ciente de que a Organização de Cooperação e Desenvolvimento Económicos (OCDE) está a preparar orientações para a realização de ensaios no intuito de aperfeiçoar ainda mais a avaliação das propriedades potencialmente desreguladoras do sistema endócrino. Assim, é adequado exigir que a procimidona seja submetida a esses ensaios suplementares, assim que existam as orientações para a realização de ensaios da OCDE, e que o notificador apresente os respectivos resultados. Além disso, os Estados-Membros devem exigir que os titulares de autorizações forneçam informações acerca da utilização de procimidona, incluindo informações acerca da incidência sobre a saúde dos operadores.\n\n(10) Tal como sucede relativamente a todas as substâncias incluídas no anexo I da Directiva 91/414/CEE, o estatuto da procimidona pode ser revisto em conformidade com o n.º 5 do artigo 5.º da referida directiva, à luz de quaisquer novos dados entretanto divulgados. De igual modo, a inclusão desta substância no anexo I pode ser renovada de acordo com os procedimentos estabelecidos na directiva, independentemente do facto de expirar numa data específica.\n\n(11) A experiência adquirida com as anteriores inclusões no anexo I da Directiva 91/414/CEE de substâncias activas avaliadas no âmbito do Regulamento (CEE) n.º 3600/92 mostrou que podem surgir dificuldades com a interpretação das obrigações dos titulares das autorizações existentes no que respeita ao acesso aos dados. Assim, para evitar mais dificuldades, importa clarificar as obrigações dos Estados-Membros, especialmente a de verificar se o titular de uma autorização demonstra ter acesso a um processo que cumpre os requisitos do anexo II daquela directiva. Contudo, esta clarificação não impõe, nem aos Estados-Membros nem aos titulares de autorizações, mais obrigações do que as previstas nas directivas adoptadas até agora que alteram o anexo I.\n\n(12) Deve prever-se um período razoável antes da inclusão das substâncias activas no anexo I para que os Estados-Membros e as partes interessadas possam preparar-se para as novas exigências dela decorrentes.\n\n(13) Sem prejuízo das obrigações definidas pela Directiva 91/414/CEE em consequência da inclusão de uma substância activa no anexo I, os Estados-Membros devem dispor de um período de seis meses após a inclusão para rever as autorizações existentes de produtos fitofarmacêuticos que contenham procimidona, a fim de garantir o respeito das exigências previstas na Directiva 91/414/CEE, nomeadamente no artigo 13.º, e as condições aplicáveis estabelecidas no anexo I. Os Estados-Membros devem alterar, substituir ou retirar, consoante o caso, as autorizações existentes, em conformidade com o disposto na Directiva 91/414/CEE. Em derrogação ao prazo mencionado, deve ser previsto um período mais longo para a apresentação e avaliação do processo completo, previsto no anexo III, de cada produto fitofarmacêutico para cada utilização prevista, em conformidade com os princípios uniformes enunciados na Directiva 91/414/CEE. Devido às propriedades perigosas da procimidona, o período em que os Estados-Membros devem verificar se os produtos fitofarmacêuticos que contêm procimidona, como única substância activa ou combinada com outras substâncias activas autorizadas, cumprem o disposto no anexo VI não deve ser superior a 18 meses.\n\n(14) Por conseguinte, a Directiva 91/414/CEE deve ser alterada em conformidade.\n\n(15) O Comité Permanente da Cadeia Alimentar e da Saúde Animal não emitiu parecer no prazo fixado pelo seu presidente, tendo a Comissão, por conseguinte, apresentado ao Conselho uma proposta relacionada com estas medidas. No termo do prazo estabelecido no n.º 2, segundo parágrafo, do artigo 19.º da Directiva 91/414/CEE, o Conselho não tinha aprovado o acto de execução proposto nem se tinha pronunciado contra a proposta de aplicação de medidas, cabendo, por conseguinte, à Comissão aprovar essas medidas,\n\nADOPTOU A PRESENTE DIRECTIVA:"
+  },
+  "22aa1bdcba18078f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo I da Directiva 91/414/CEE é alterado nos termos do anexo da presente directiva."
+  },
+  "52875d6b6cbc58f2": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Estados-Membros devem adoptar e publicar, até 30 de Junho de 2007, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto das referidas disposições bem como um quadro de correspondência entre essas disposições e a presente directiva.\n\nOs Estados-Membros devem aplicar as referidas disposições a partir de 1 de Julho de 2007.\n\nAs disposições adoptadas pelos Estados-Membros devem fazer referência à presente directiva ou ser acompanhadas da referida referência aquando da sua publicação oficial. As modalidades daquela referência incumbem aos Estados-Membros."
+  },
+  "c42d885cf9836186": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Em conformidade com a Directiva 91/414/CEE, os Estados-Membros devem alterar ou retirar, se necessário, até 30 de Junho de 2007, as autorizações existentes de produtos fitofarmacêuticos que contenham a substância activa procimidona. Até essa data, devem verificar, em especial, se são cumpridas as condições do anexo I dessa directiva relacionadas com a procimidona, com excepção das identificadas na parte B da entrada relativa a essa substância activa, e se o titular da autorização detém ou tem acesso a um processo que cumpre as exigências do anexo II da directiva, em conformidade com as condições do artigo 13.º\n\n2. Em derrogação ao n.º 1, relativamente a cada produto fitofarmacêutico autorizado que contenha procimidona, os Estados-Membros devem reavaliar o produto em conformidade com os princípios uniformes fixados no anexo VI da Directiva 91/414/CEE, com base num processo que cumpra os requisitos do anexo III da referida directiva e tendo em consideração a parte B da entrada do anexo I da mesma directiva referente à procimidona. Com base nessa avaliação, os Estados-Membros devem determinar se o produto satisfaz as condições estabelecidas no n.º 1, alíneas b), c), d) e e), do artigo 4.º da Directiva 91/414/CEE.\n\nNa sequência desta determinação, os Estados-Membros devem, se for o caso, alterar ou retirar as autorizações relativas a produtos que contenham procimidona até 30 de Junho de 2008."
+  },
+  "67960ae27808ba9c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA presente directiva entra em vigor em 1 de Janeiro de 2007."
+  },
+  "c2768784123201be": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs Estados-Membros são os destinatários da presente directiva."
+  },
+  "b454ecf5da99dbc2": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nDevem ser aditadas as seguintes entradas no final do quadro do anexo I da Directiva 91/414/CEE:\n\n| N.º | Denominação comum; números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/1e75bf4e-f219-45ef-b172-28d08022b912.0018.03/DOC_1#E0004) | Entrada em vigor | Termo da inclusão | Disposições específicas |\n| --- | --- | --- | --- | --- | --- | --- |\n| «146 | Promicidona N.º CAS: 32809-16-8 N.º CIPAC: 383 | N-(3,5-diclorofenil)-1,2-dimetilciclopropano-1,2-dicarboximida | 985 g/kg | 1 de Janeiro de 2007 | 30 de Junho de 2008 | PARTE ASó podem ser autorizadas as utilizações como fungicida nas seguintes culturas:— pepino em estufas (sistemas hidropónicos fechados), — ameixas (para transformação);a taxas não superiores:[**►M1**](http://publications.europa.eu/resource/celex/32007D0452) — a 0,75 kg de substância activa por hectare e por aplicação. **◄**Não devem ser autorizadas as seguintes utilizações:— aplicação aérea, — aplicadores de dorso e de mão, manejados tanto por amadores como por profissionais, — hortas familiares.Os Estados-Membros devem certificar se de que todas as medidas adequadas de redução dos riscos são aplicadas. Deve ser dada especial atenção à protecção de:— organismos aquáticos. Sempre que necessário, deve ser mantida uma distância adequada entre as áreas tratadas e as massas de água superficiais. Esta distância pode depender da aplicação de técnicas ou dispositivos de redução da disseminação, — aves e mamíferos. As condições de autorização devem incluir medidas de redução dos riscos, tais como a escolha criteriosa do momento da aplicação e a selecção das formulações que minimizem a exposição das espécies em causa, devido à sua apresentação física ou à presença de agentes que impedem o contacto com a substância, — consumidores, cuja exposição aguda por via alimentar deve ser controlada, — águas subterrâneas, quando a substância activa for aplicada em zonas com condições pedológicas e/ou climáticas vulneráveis. As condições de autorização devem incluir medidas de redução dos riscos, — operadores, que devem envergar vestuário de protecção adequado, em especial luvas, fato-macaco, botas de borracha e protecção facial ou óculos de segurança durante a mistura, o enchimento, a aplicação e a limpeza do equipamento, salvo se a exposição à substância for adequadamente evitada pelo desenho ou o fabrico do próprio equipamento ou pela montagem de componentes de protecção específicos nesse equipamento, — trabalhadores, que devem envergar vestuário de protecção adequado, em especial luvas, caso devam entrar numa área tratada antes do termo do período específico de reentrada.PARTE BNa aplicação dos princípios uniformes enunciados no anexo VI, devem ser tidas em conta as conclusões do relatório de revisão da procimidona, nomeadamente os apêndices I e II do relatório.Os Estados-Membros devem garantir que os titulares de autorizações comuniquem, até 31 de Dezembro de cada ano, as informações acerca da incidência sobre a saúde dos operadores. Os Estados-Membros podem exigir o fornecimento de elementos tais como os dados de vendas e um estudo sobre padrões de utilização, de modo a obter uma visão realista das condições de utilização e do eventual impacto toxicológico da procimidona.Os Estados-Membros devem requerer a apresentação de novos dados e informações de confirmação que provem a aceitabilidade da substância activa quando aplicada em situações em que seja provável uma exposição de longo prazo de mamíferos selvagens, bem como acerca do tratamento das águas residuais em caso de aplicações em estufas,Os Estados-Membros devem exigir a apresentação de estudos suplementares relativos às propriedades potencialmente desreguladoras do sistema endócrino da procimidona, nos dois anos seguintes à adopção das orientações para a realização de ensaios no domínio da desregulação do sistema endócrino por parte da Organização de Cooperação e Desenvolvimento Económicos (OCDE). Os Estados-Membros devem ainda assegurar que o notificador que solicitou a inclusão da procimidona no presente anexo forneçam esses estudos à Comissão no prazo de dois anos a contar da entrada em vigor da adopção das orientações para a realização de ensaios atrás referidas.» |\n| (^1^)O relatório de revisão fornece mais pormenores sobre a identidade e as especificações da substância activa. |  |  |  |  |  |  |\n\n---"
+  },
+  "113ed3802ab81142": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/1e75bf4e-f219-45ef-b172-28d08022b912.0018.03/DOC_1#src.E0001)) JO L 230 de 19.8.1991, p. 1. Directiva com a última redacção que lhe foi dada pela Directiva 2006/85/CE da Comissão (JO L 293 de 24.10.2006, p. 3).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/1e75bf4e-f219-45ef-b172-28d08022b912.0018.03/DOC_1#src.E0002)) JO L 366 de 15.12.1992, p. 10. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2266/2000 (JO L 259 de 13.10.2000, p. 10).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/1e75bf4e-f219-45ef-b172-28d08022b912.0018.03/DOC_1#src.E0003)) JO L 107 de 28.4.1994, p. 8. Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 2230/95 (JO L 225 de 22.9.1995, p. 1)."
+  },
+  "d77902756c9b4d42": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02006L0132 — PT — 14.06.2011 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32006L0132) [DIRECTIVA 2006/132/CE DA COMISSÃO](http://publications.europa.eu/resource/celex/32006L0132) [de 11 de Dezembro de 2006](http://publications.europa.eu/resource/celex/32006L0132) [que altera a Directiva 91/414/CEE do Conselho com o objectivo de incluir a substância activa procimidona](http://publications.europa.eu/resource/celex/32006L0132) [(Texto relevante para efeitos do EEE)](http://publications.europa.eu/resource/celex/32006L0132) (JO L 349, 12.12.2006, p.22)\n\n**revogado por:**\n\n- [Regulamento (CE) n.o 1107/2009 do Parlamento Europeu e do Conselho de 21 de Outubro de 2009](http://publications.europa.eu/resource/celex/32009R1107) — L 309 — 1 — 24.11.2009"
+  }
+ }
+}

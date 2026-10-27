@@ -1,0 +1,619 @@
+---
+schema_version: '1.0'
+id: pt:dre:397908:por
+title: Decreto-Lei n.º 322/82
+short_title: null
+summary: Aprova o Regulamento da Nacionalidade Portuguesa e a tabela de emolumentos dos actos da nacionalidade
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Administração Interna e da Justiça
+proposing_entity: null
+official_number: 322/82
+official_date: null
+publication_date: '1982-08-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 185/1982, Série I de 1982-08-12
+  number: '185'
+  series: I
+  supplement: null
+  pages: 2369 - 2377
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/08/18500/23692377.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '397908'
+  dre_path: /dr/detalhe/decreto-lei/322-1982-397908
+  internal: pt:dre:397908:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1982-397908
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:45:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 99b18f893dae37aaa000b78444f182e213f54610c86363bb36da93cf2252d6b7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:45:00Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cidadão Estrangeiro
+- Conservatória dos Registos Centrais
+- Emolumento
+- Nacionalidade
+- Naturalização
+- Nome Civil
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:216911:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:689619:por
+  label: "Alterados os arts. 15º, 18º e 20º, pelo DEC LEI.117/93.1993.04.13.MAI, DR.IS-A [86]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-1993-689619
+  date: '1993-04-13'
+- type: amended_by
+  target: pt:dre:625996:por
+  label: "Alterados os arts. 6º, 9º, 11º, 15º, 18º (os dois últimos na redação do Dec Lei 117/93, de 13-abr), 22º, 33º, 34º,\
+    \ 47º, 55º, 59º e revogados os nºs 2 e 3 do art.19º e o art. 20º, pelo DEC LEI.253/94.1994.10.20.MAI, DR.IS-A [243]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/253-1994-625996
+  date: '1994-10-20'
+- type: amended_by
+  target: pt:dre:571070:por
+  label: "Alterados os arts. 6º, 7º, 8º, 29º, 32º, 33º, 47º e 56º, pelo DEC LEI.37/97.1997.01.31.MJ DR.IS-A [26], na redacção\
+    \ do Dec-Lei 253/94 de 20-Out\0t\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/37-1997-571070
+  date: '1997-01-31'
+- type: cites
+  target: pt:dre:431607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501222:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:564050:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:375861:por
+  label: Retificado pelo(a) Declaração - Diário da República n.º 219/1982, Série I de 1982-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao/1982-375861
+  date: '1982-09-21'
+- type: repealed_by
+  target: pt:dre:322974:por
+  label: "Revogada a al. a) do art. 59.º do presente diploma, na redacção dada pelo Dec Lei 253/94, de 20-Out, na parte respeitante\
+    \ à comunicação aos serviços de identificação civil, pela LEI.33/99.1999.05.18.AR DR.IS-A [115]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/33-1999-322974
+  date: '1999-05-18'
+- type: repealed_by
+  target: pt:dre:216911:por
+  label: "Revogado o presente diploma a partir de 15.12.2006, com as alterações introduzidas pelos Dec Lei 117/93 de 13-Abr,\
+    \ 253/94 de 20-Out, 37/97 de 31-Jan e pela Lei 33/99 de 18-Mai, pelo DEC LEI.237-A/2006.14.12.2006.MJ, DR.IS [239-Supl]\
+    \ de 14.12.2006\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/237-a-2006-216911
+  date: '2006-12-14'
+article_structure:
+  article_count: 0
+  section_count: 16
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:45:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 322/82
+
+de 12 de Agosto
+
+A nova Lei da Nacionalidade, publicada em 3 de Outubro de 1981, manteve em vigor, até à sua regulamentação, o [Decreto n.º 43090](https://diariodarepublica.pt/dr/detalhe/decreto/43090-1960-501466), de 27 de Julho de 1960.
+
+Atentos os princípios informadores da nova lei, impunha-se, com urgência, proceder à sua regulamentação.
+
+Assim:
+
+O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+REGULAMENTO DA NACIONALIDADE PORTUGUESA
+
+## TÍTULO I — Atribuição, aquisição e perda da nacionalidade
+
+### CAPÍTULO I — Atribuição da nacionalidade
+
+#### SECÇÃO I — Nacionalidade originária por mero efeito da lei
+
+Artigo 1.º Presumem-se portugueses:
+
+a) Os indivíduos nascidos em território português ou sob administração portuguesa em cujo assento de nascimento se mencione a nacionalidade portuguesa de algum dos progenitores ou do qual não conste menção actual da nacionalidade estrangeira dos progenitores ou do seu desconhecimento, ou no qual se não indique outra circunstância que, nos termos da lei, contrarie aquela presunção;
+
+b) Os indivíduos nascidos no estrangeiro de cujo assento de nascimento conste a menção de que o pai ou a mãe se encontrava ao serviço do Estado Português à data do nascimento;
+
+c) Os indivíduos nascidos em território português de cujo assento de nascimento conste a menção especial de que não possuem outra nacionalidade.
+
+Art. 2.º - 1 - Nos assentos de nascimentos ocorridos em território português ou sob administração portuguesa após a entrada em vigor da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de Outubro, de filhos apenas de não portugueses mencionar-se-á, como elemento de identificação do registando, a nacionalidade estrangeira dos progenitores ou o seu desconhecimento.
+
+2 - Sempre que possível, os declarantes devem apresentar documento comprovativo da menção que deve ser feita nos termos do número anterior, em ordem a demonstrar que nenhum dos progenitores é de nacionalidade portuguesa.
+
+3 - Para efeitos de assentos de nascimentos ocorridos em território sob administração portuguesa, os declarantes deverão apresentar documento comprovativo da nacionalidade dos progenitores, excepto nos casos em que objectivamente se não suscitem dúvidas sobre a nacionalidade portuguesa de ambos ou de um destes, e dispensando-se sempre, nos termos do n.º 1, a menção da mesma no respectivo assento se verificada como portuguesa, por um ou por outro modo, a nacionalidade portuguesa de qualquer dos progenitores do registando.
+
+Art. 3.º - 1 - O acto ou processo destinado a estabelecer a filiação, em relação a progenitor português, de estrangeiro nascido em território português ou sob administração portuguesa deve ser instruído como prova da nacionalidade portuguesa desse progenitor.
+
+2 - Da decisão ou acto em que a filiação for estabelecida e da sua comunicação para averbamento ao assento de nascimento constará a menção da nacionalidade do progenitor português.
+
+3 - A menção a que se refere o número anterior constará igualmente, como elemento de identificação do registado, do averbamento de estabelecimento de filiação a exarar à margem do assento de nascimento.
+
+Art. 4.º - 1 - Nos assentos de nascimentos ocorridos em território português de indivíduos que provem não possuir outra nacionalidade será especialmente mencionada esta circunstância, como elemento de identificação do registado, mediante averbamento autorizado nos termos do número seguinte.
+
+2 - Coligida a prova de apátrida, o funcionário do registo civil remetê-la-á, com informação sobre o seu mérito e acompanhada de certidão do assento de nascimento respectivo, ao conservador dos Registos Centrais, que autorizará ou denegará o averbamento, podendo determinar as diligências prévias complementares que julgue necessárias.
+
+Art. 5.º - 1 - Nos assentos de nascimentos ocorridos no estrangeiro de filhos de pai português ou de mãe portuguesa que ao tempo se encontrassem ao serviço do Estado Português far-se-á menção especial desta circunstância como elemento de identificação do registando.
+
+2 - O declarante deve apresentar documento comprovativo dessa circunstância, passado pelo departamento a que o progenitor prestava serviço no estrangeiro.
+
+3 - A apresentação do documento é dispensada se o progenitor for identificado no assento, em menção especial, como agente diplomático ou consular português ou se o respectivo funcionário tiver conhecimento oficial, a mencionar nos mesmos termos, de que o progenitor se encontrava no estrangeiro ao serviço do Estado Português.
+
+#### SECÇÃO II — Nacionalidade originária por efeito da vontade
+
+Art. 6.º - 1 - Os filhos de pai português ou de mãe portuguesa nascidos no estrangeiro que pretendem que lhes seja atribuída a nacionalidade portuguesa devem manifestar a vontade de serem portugueses por uma das seguintes formas:
+
+a) Declarar, na Conservatória dos Registos Centrais, que querem ser portugueses;
+
+b) Inscrever o nascimento nos serviços consulares portugueses da área da sua naturalidade ou na Conservatória dos Registos Centrais, mediante declaração prestada pelos próprios, sendo capazes, ou pelos seus legais representantes, sendo incapazes.
+
+2 - A declaração ou o pedido de inscrição atributiva da nacionalidade deve ser instruído com prova da nacionalidade portuguesa de um dos progenitores.
+
+Art. 7.º A inscrição de nascimento de maiores de 14 anos, nas condições do artigo anterior, só pode ser lavrada mediante processo de autorização para inscrição tardia do nascimento, previsto no Código do Registo Civil.
+
+Art. 8.º - 1 - Ao nome dos indivíduos a quem seja atribuída a nacionalidade portuguesa são aplicáveis as regras legais em vigor acerca da composição do nome, sem prejuízo do disposto no número seguinte.
+
+2 - Se o interessado houver nascido no estrangeiro ou tiver outra nacionalidade, podem ser admitidos nomes próprios estrangeiros na forma originária, desde que admitidos no país da naturalidade ou da nacionalidade.
+
+3 - No caso de atribuição de nacionalidade mediante declaração, o interessado indicará no respectivo auto a composição que pretende adoptar para o nome, a qual deverá ser averbada à margem do registo de nacionalidade e da transcrição do registo estrangeiro do seu nascimento; tratando-se de inscrição de nascimento atributiva da nacionalidade, ser-lhe-á averbada a composição originária do nome, quando demonstrada.
+
+4 - Se da alteração da composição originária do nome resultarem graves inconvenientes para a identificação do interessado, pode o conservador dos Registos Centrais, a requerimento fundamentado do interessado, autorizar que o nome seja mantido com a composição primitiva.
+
+Art. 9.º - 1 - Os indivíduos nascidos em território português, filhos de estrangeiros, que à data do seu nascimento aqui residissem habitualmente há, pelo menos, 6 anos e não estivessem ao serviço do respectivo Estado que pretendem que lhes seja atribuída a nacionalidade portuguesa devem declarar que querem ser portugueses.
+
+2 - A declaração deve ser instruída com certidão do assento de nascimento do interessado e com documento passado pelo Serviço de Estrangeiros, por onde se comprovem as circunstâncias, relativas aos seus progenitores, referidas no número anterior.
+
+3 - O Serviço de Estrangeiros poderá passar o documento comprovativo com base em elementos nele arquivados ou em processo de averiguações organizado para esse efeito.
+
+### CAPÍTULO II — Aquisição da nacionalidade
+
+#### SECÇÃO I — Aquisição da nacionalidade por efeito da vontade
+
+Art. 10.º - 1 - Os filhos incapazes de pai ou de mãe que adquiram a nacionalidade portuguesa, se também a quiserem adquirir, devem declarar que pretendem ser portugueses.
+
+2 - No auto da declaração deve ser identificado o registo da aquisição da nacionalidade do pai ou da mãe.
+
+Art. 11.º - 1 - O estrangeiro casado com nacional português, se quiser adquirir a nacionalidade portuguesa, na constância do matrimónio, deve declará-lo.
+
+2 - A declaração será instruída com certidão do assento de casamento e com prova da nacionalidade do cônjuge português, salvo se os actos respectivos estiverem arquivados na Conservatória dos Registos Centrais, caso em que serão identificados no auto da declaração.
+
+Art. 12.º - 1 - Os que tiverem perdido a nacionalidade portuguesa por efeito de declaração prestada durante a sua incapacidade e quiserem adquiri-la, quando capazes, devem declará-lo.
+
+2 - No auto da declaração deve ser identificado o acto ou registo de perda da nacionalidade portuguesa e ser feita prova da capacidade.
+
+#### SECÇÃO II — Aquisição da nacionalidade por adopção
+
+Art. 13.º Presume-se que adquiriram a nacionalidade portuguesa, por mero efeito da lei, os indivíduos de cujo assento de nascimento conste terem sido adoptados plenamente por nacional português, desde que não haja menção ulterior que, nos termos legais, contrarie essa presunção.
+
+Art. 14.º - 1 - A petição do processo para adopção plena de um estrangeiro por português será instruída com prova da nacionalidade portuguesa do adoptante, devendo a menção desta nacionalidade constar da decisão ou acto em que a filiação adoptiva vier a ser estabelecida, bem como da comunicação desta para averbamento ao assento de nascimento.
+
+2 - A menção a que se refere o número anterior constará igualmente, como elemento de identificação do registado, do averbamento de adopção a exarar à margem do assento de nascimento.
+
+3 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, à conversão da adopção restrita em adopção plena.
+
+#### SECÇÃO III — Aquisição da nacionalidade por naturalização
+
+Art. 15.º - 1 - O estrangeiro que pretenda lhe seja concedida a nacionalidade portuguesa por naturalização deve requerê-la ao Ministro da Administração Interna, apresentando a petição devidamente instruída:
+
+a) Ao representante do Governo na área da sua residência, se residir no continente;
+
+b) Ao Ministro da República, se residir nas Regiões Autónomas dos Açores ou da Madeira;
+
+c) Ao Governador, através dos serviços de administração civil do território, se residir em Macau;
+
+d) Aos serviços consulares portugueses da área da residência, se residir no estrangeiro.
+
+2 - O requerimento, assinado pelo interessado, com reconhecimento da sua assinatura, que será presencial se se tratar de residente em território português ou sob administração portuguesa, deve conter o nome completo, a data de nascimento, o estado civil, a naturalidade, a filiação, a nacionalidade, o lugar da residência actual do requerente e aquele em que tenha residido anteriormente, a actividade que exerça e os motivos por que deseja naturalizar-se.
+
+3 - O requerente instruirá o pedido com os seguintes documentos:
+
+a) Certidão do assento do seu nascimento;
+
+b) Documento comprovativo da sua residência em território português ou sob administração portuguesa pelo período mínimo de 6 anos;
+
+c) Documento comprovativo de que tem conhecimento da língua portuguesa;
+
+d) Certificados do registo criminal, passados pelos serviços competentes portugueses e do país de origem;
+
+e) Documento comprovativo de que possui capacidade para reger a sua pessoa e assegurar a sua subsistência;
+
+f) Documento comprovativo de ter cumprido as leis do recrutamento militar do país de origem, no caso de não ser apátrida.
+
+4 - A prova do conhecimento da língua portuguesa pode ser feita por uma das formas seguintes:
+
+a) Diploma de exame feito em estabelecimento oficial do ensino português;
+
+b) Documento escrito, lido e assinado pelo interessado perante notário português, com a menção destas circunstâncias no respectivo termo de reconhecimento da letra e assinatura;
+
+c) Documento escrito, lido e assinado pelo interessado perante o chefe dos consulares portugueses ou da secretaria da câmara municipal da sua residência, ou, em Lisboa e Porto, perante o director dos serviços centrais e culturais ou funcionário por ele designado, os quais atestarão esses factos no próprio documento, autenticando a sua assinatura com o selo oficial.
+
+5 - A prova da residência em território português ou sob administração portuguesa é feita pelas autoridades que nele têm a seu cargo o Serviço de Estrangeiros, com base em elementos arquivados nos respectivos serviços ou em processo de averiguações para o efeito organizado.
+
+Art. 16.º Em casos especiais, o Ministro da Administração Interna pode dispensar, a requerimento fundamentado do interessado, a apresentação de qualquer dos documentos referidos no n.º 3 do artigo anterior ou as formalidades que se mostrem necessárias à sua legalização, desde que não existam dúvidas acerca da satisfação dos requisitos que esses documentos se destinavam a comprovar.
+
+Art. 17.º - 1 - Se o requerente da naturalização tiver tido a nacionalidade portuguesa, for havido como descendente de português, for membro de comunidade de ascendência portuguesa ou estrangeiro que tenha prestado ou seja chamado a prestar serviços relevantes ao Estado Português, deve alegar essas circunstâncias no requerimento, juntando a prova respectiva, se quiser beneficiar da dispensa de requisitos de naturalização prevista na lei.
+
+2 - A nacionalidade portuguesa anterior prova-se por documento ou certidão do acto dela comprovativos segundo a lei ao tempo em vigor.
+
+3 - A prova de ser havido como descendente de português ou de ser membro de comunidade de ascendência portuguesa é feita por certidões de actos de estado civil e, na sua falta, por documento passado pelos serviços consulares portugueses da área da residência actual ou anterior do interessado, com base em elementos neles arquivados ou em processo de averiguações para o efeito organizado; demonstrada a impossibilidade de apresentar umas e outro, a prova pode ser feita por outros meios que o Ministro da Administração Interna venha a considerar suficientes.
+
+4 - As circunstâncias relacionadas com a prestação de serviços relevantes ao Estado Português devem ser provadas por documento emanado do departamento em cujo âmbito de competência os mesmos foram efectivados.
+
+Art. 18.º - 1 - Autuado o requerimento e demais documentos pela secretaria das entidades competentes para o seu recebimento, será o processo remetido, no prazo de 15 dias, à Secretaria-Geral do Ministério da Administração Interna ou, no caso dos serviços consulares, por intermédio do Ministério dos Negócios Estrangeiros.
+
+2 - Se tiver sido requerida dispensa de algum documento, do cumprimento de alguma das suas formalidades ou de qualquer requisito de naturalização, será a petição imediatamente submetida, através da Secretaria-Geral do Ministério da Administração Interna, a despacho do Ministro da Administração Interna.
+
+3 - Recebido o processo, a Secretaria-Geral do Ministério da Administração Interna averiguará, sumariamente, no prazo de 8 dias, da correcta instrução do processo, e nele lavrará despacho datado, quanto à sua suficiência ou insuficiência.
+
+4 - No caso de insuficiente instrução, a Secretaria-Geral do Ministério da Administração Interna promoverá a notificação do requerente, nos 3 dias úteis subsequentes.
+
+5 - A contar da data da notificação, o requerente disporá, salvo justo impedimento do prazo de 30 dias para juntar os documentos, prestar as informações e praticar qualquer outra diligência solicitada, sob pena de, não o fazendo, o processo ser arquivado.
+
+6 - O prazo fixado no número anterior só se inicia depois de decorridos:
+
+a) 15 dias, se o requerente residir em país estrangeiro, dentro da Europa;
+
+b) 30 dias, se o requerente residir em país estrangeiro, fora da Europa, ou no território de Macau.
+
+7 - Nos 8 dias subsequentes àquele em que a actividade instrutória da iniciativa do requerente tiver sido dada por completa, a Secretaria-Geral solicitará as informações necessárias sobre o pedido de naturalização ao Serviço de Estrangeiros, ao Ministério da Justiça e ao Ministério dos Negócios Estrangeiros.
+
+8 - As informações do Ministério da Justiça e do Serviço de Estrangeiros atenderão, em particular, à idoneidade moral e civil do requerente.
+
+9 - A informação do Ministério dos Negócios Estrangeiros considerará, em especial, os possíveis inconvenientes da naturalização para as relações de Portugal com o Estado de que o requerente é nacional ou com outros Estados.
+
+10 - As informações referidas no n.º 7 devem ser prestadas no prazo de 2 meses, contado da data da recepção do respectivo ofício de requisição.
+
+11 - O prazo previsto no número anterior poderá ser prorrogado por despacho do secretário-geral do Ministério da Administração Interna, mediante pedido fundamentado das entidades consultadas.
+
+Art. 19.º - 1 - A naturalização é concedida por decreto publicado no Diário da República, 2.ª série.
+
+2 - Publicado o decreto, será passada a carta de naturalização, assinada pelo Presidente da República e pelo Ministro da Administração Interna.
+
+3 - A carta de naturalização, de modelo a estabelecer pelo Ministério da Administração Interna, com indicação da obrigatoriedade do seu registo e do prazo respectivo, é composta pela Imprensa Nacional-Casa da Moeda.
+
+Art. 20.º - 1 - Se a carta de naturalização tiver caducado, por ter decorrido o prazo fixado na lei para o seu registo sem que este tenha sido requerido, o interessado pode renovar o pedido de naturalização em requerimento com as mesmas formalidades do anterior, nele indicando os motivos por que não requereu em tempo e oferecendo a prova que julgar conveniente.
+
+2 - Recebido o novo pedido no Ministério da Administração Interna e apensado o processo anterior, será submetido a despacho do Ministro, que poderá dispensar a apresentação de mais documentos ou determinar a sua junção.
+
+3 - Ao novo pedido de naturalização são aplicáveis, com as necessárias adaptações, as disposições desta secção.
+
+### CAPÍTULO III — Perda da nacionalidade
+
+Art. 21.º - 1 - O que, sendo nacional de outro Estado, não quiser ser português deve declará-lo.
+
+2 - Subsiste a nacionalidade portuguesa em relação aos que adquirem outra nacionalidade, salvo se declararem o contrário.
+
+3 - A declaração será instruída com documento comprovativo da nacionalidade estrangeira do interessado.
+
+### CAPÍTULO IV — Oposição à aquisição da nacionalidade por efeito da vontade ou por adopção
+
+Art. 22.º - 1 - Todo aquele que requeira registo de aquisição da nacionalidade portuguesa, por efeito da vontade ou por adopção, deve ser ouvido, em auto, acerca da existência de quaisquer factos susceptíveis de fundamentarem a oposição legal a essa aquisição.
+
+2 - Se o conservador dos Registos Centrais tiver conhecimento dos factos a que se refere o número anterior, deve participá-lo ao Ministério Público junto do Tribunal da Relação de Lisboa, remetendo-lhe todos os elementos de que dispuser.
+
+Art. 23.º Recebida pelo Ministério Público a participação de quaisquer factos integradores dos fundamentos legais de oposição à aquisição da nacionalidade portuguesa, será por ele deduzida oposição no Tribunal da Relação de Lisboa.
+
+Art. 24.º - 1 - Apresentada a petição e os documentos que hajam de instruí-la, é o requerido citado para, dentro de 15 dias, contestar, se não houver motivo para indeferimento liminar e a petição estiver em termos de ser recebida.
+
+2 - O requerente pode responder nos 15 dias seguintes à data em que for notificado da apresentação da contestação.
+
+Art. 25.º - 1 - Findos os articulados, é o processo, sem mais, submetido a julgamento, excepto se o relator determinar a realização de quaisquer diligências que tenha por indispensáveis, caso em que o processo será facultado, para alegações, à parte e ao Ministério Público, por 10 dias a cada um.
+
+2 - O julgamento faz-se segundo as regras próprias dos agravos.
+
+3 - Concluindo-se pela procedência da oposição deduzida, será ordenado, no acórdão, o cancelamento do registo de nacionalidade, se tiver sido lavrado.
+
+Art. 26.º - 1 - Da decisão do Tribunal da Relação que conheça do mérito da causa cabe recurso de apelação para o Supremo Tribunal de Justiça.
+
+2 - O recurso tem efeito suspensivo e é interposto, expedido e julgado como recurso de revista.
+
+Art. 27.º A acção de oposição e quaisquer actos e documentos destinados a instruí-la são isentos de selo, emolumentos e custas.
+
+Art. 28.º Em tudo o que se não achar regulado nos artigos anteriores, a acção de oposição rege-se pelas disposições gerais e comuns do Código de Processo Civil; em tudo quanto não estiver prevenido num e noutros, observar-se-á o que se acha estabelecido para o processo ordinário de declaração.
+
+## TÍTULO II — Registo e contencioso da nacionalidade
+
+### CAPÍTULO I — Registo central da nacionalidade
+
+Art. 29.º Na Conservatória dos Registos Centrais haverá um livro de registo da nacionalidade, anual e desdobrável, conforme as necessidades do serviço, a que são aplicáveis as normas regulamentares dos livros de registo civil.
+
+Art. 30.º - 1 - No livro de registo da nacionalidade são registados, mediante registo próprio, todos os factos que determinem a atribuição, aquisição e perda da nacionalidade portuguesa.
+
+2 - Exceptuam-se do disposto no número anterior a atribuição da nacionalidade, quando feita através de inscrição do nascimento no registo civil português, e a sua aquisição mediante adopção, por mero efeito da lei.
+
+Art. 31.º - 1 - Os registos de nacionalidade são lavrados por transcrição, sem intervenção dos interessados, e assinados somente pelo conservador.
+
+2 - Os registos terão um número de ordem anual, sendo a numeração iniciada em 1 de Janeiro.
+
+Art. 32.º O texto dos registos deve conter:
+
+a) Número de ordem, dia, mês e ano em que são lavrados, bem como a designação da repartição;
+
+b) O nome completo, anterior e posterior à alteração da nacionalidade, quando diversos, e a idade, filiação, naturalidade, residência habitual e nacionalidade anterior do interessado, se conhecida;
+
+c) O número e ano do assento de nascimento do interessado e a indicação da repartição em que se encontra, quando lavrado no registo civil português;
+
+d) O facto registado, o seu fundamento legal e os seus efeitos;
+
+e) A categoria do funcionário que os subscreve e a sua assinatura.
+
+Art. 33.º - 1 - Os registos lavrados com base em declaração devem conter, em especial:
+
+a) O nome completo e residência do declarante, quando não seja o próprio interessado, com menção da qualidade em que o representa;
+
+b) A data da declaração e a qualidade do funcionário perante quem foi prestada.
+
+2 - Os registos de naturalização devem conter, em especial, as datas da carta e do correspondente decreto.
+
+Art. 34.º - 1 - O registo de naturalização faz-se mediante a apresentação do original da respectiva carta e da sua pública-forma ou fotocópia conferida por notário ou pelo conservador dos Registos Centrais.
+
+2 - Do requerimento para registo constarão os elementos que neste devam ser mencionados.
+
+Art. 35.º Os registos de nacionalidade são sempre averbados aos assentos de nascimento dos interessados.
+
+Art. 36.º - 1 - Aos registos de nacionalidade são aplicáveis, com as necessárias adaptações, as disposições legais relativas ao registo civil que não forem contrárias à natureza daqueles e às disposições especiais deste diploma.
+
+2 - São da competência do conservador dos Registos Centrais a declaração da inexistência jurídica do registo de nacionalidade, resultante da falta da assinatura do funcionário que devesse assiná-lo, e o seu cancelamento, bem como a rectificação de quaisquer irregularidades do registo, desde que não fundadas em dúvidas acerca da nacionalidade registada, e sem prejuízo do disposto no número seguinte.
+
+3 - A declaração da inexistência do registo, fora do caso a que se refere o número anterior, e a da sua nulidade são da competência do Tribunal da Relação de Lisboa, que determinará o seu cancelamento.
+
+4 - Cabe, ainda, ao Tribunal da Relação de Lisboa declarar a nulidade e ordenar o cancelamento dos registos de nascimento, sempre que a decisão sobre a nulidade dependa da questão da nacionalidade dos registados.
+
+5 - Os processos de justificação relativos aos registos de nacionalidade são isentos de emolumentos e de selo e custas até à interposição de recurso.
+
+Art. 37.º Sempre que tenha sido requerido ou deva ser lavrado registo de nacionalidade e se verifique estar pendente acção de que dependa a validade do facto que serve de fundamento à nacionalidade que se pretende registar, a feitura daquele registo deve ser sustada, até que seja apresentada certidão da sentença judicial com trânsito em julgado.
+
+### CAPÍTULO II — Contencioso da nacionalidade
+
+Art. 38.º - 1 - Aos recursos de quaisquer actos relativos à atribuição, aquisição ou perda da nacionalidade portuguesa são aplicáveis, com as necessárias adaptações, os preceitos do Código do Registo Civil que regulam os recursos do conservador sem prejuízo do disposto nos números seguintes.
+
+2 - Têm legitimidade para interpor o recurso, sem sujeição a prazo, os interessados directos e o Ministério Público.
+
+3 - A apreciação dos recursos é da competência do Tribunal da Relação de Lisboa.
+
+4 - O relator do processo pode ordenar directamente as diligências complementares que se mostrem necessárias à sua instrução ou requisitá-las à entidade recorrida ou a quaisquer outras que disponham dos meios adequados à sua execução.
+
+5 - Para o fim referido no número anterior, a entidade recorrida pode proceder directamente ou através dos serviços dela dependentes ou intermediários, conforme a área em que deva ser executada a diligência.
+
+6 - É aplicável, como direito subsidiário, o Código de Processo Civil.
+
+Art. 39.º Sempre que o recurso seja decidido em contrário da nacionalidade que resulte de registo de nascimento ou de nacionalidade, ordenar-se-á, no acórdão respectivo, o cancelamento ou a rectificação do registo, conforme os casos.
+
+Art. 40.º - 1 - Quando, para a resolução do problema da nacionalidade, se mostre necessária a decisão preliminar de qualquer gestão sobre o estado das pessoas, serão as partes remetidas para os meios ordinários.
+
+2 - Na hipótese prevista no número antecedente, deve sustar-se o andamento do processo até que se junte certidão da sentença judicial com trânsito em julgado que haja decidido a questão preliminar.
+
+## TÍTULO III — Disposições transitórias e comuns
+
+### CAPÍTULO I — Disposições transitórias
+
+Art. 41.º Mantém-se a presunção de que são portugueses os indivíduos nascidos em território português ou sob administração portuguesa antes da entrada em vigor da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de Outubro, em conformidade com a legislação anterior, desde que o respectivo registo de nascimento não contenha a menção de qualquer circunstância que, nos termos da lei aplicável, contrarie essa presunção.
+
+Art. 42.º - 1 - A mulher que tiver perdido a nacionalidade portuguesa por efeito do casamento, no domínio do direito anterior, e quiser adquiri-la, deve declará-lo.
+
+2 - O auto da declaração, no qual se identificará o registo de perda da nacionalidade, se tiver sido lavrado, deve ser instruído com documento comprovativo da nacionalidade estrangeira e com certidão do assento português de nascimento, com o casamento averbado, salvo se o assento se encontrar lavrado na Conservatória dos Registos Centrais, caso em que será identificado no auto.
+
+Art. 43.º - 1 - O estrangeiro que tiver sido adoptado plenamente por nacional português antes da entrada em vigor da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de Outubro, e quiser ser português, deve declará-lo.
+
+2 - A declaração deve ser instruída com certidão do assento de nascimento do adoptado, documento legalmente comprovativo da adopção e prova da nacionalidade portuguesa do adoptante.
+
+Art. 44.º - 1 - Os que tiverem perdido a nacionalidade portuguesa por aquisição voluntária de outra nacionalidade, nos termos da [Lei n.º 2098](https://diariodarepublica.pt/dr/detalhe/lei/2098-1959-431607), de 29 de Julho de 1959, e legislação precedente e quiserem adquiri-la, devem declará-lo.
+
+2 - Na falta de registo de perda da nacionalidade, que, a existir, deve ser identificado no auto da declaração, será este instruído com certidão do assento português de nascimento do interessado e documento comprovativo da aquisição da nacionalidade estrangeira, com indicação do fundamento e data dessa aquisição.
+
+Art. 45.º - 1 - O português que, no domínio da lei anterior, tiver adquirido outra nacionalidade, mediante naturalização que lhe tenha sido directa ou indirectamente imposta, e quiser manter a nacionalidade portuguesa, deve requerê-la ao Tribunal da Relação de Lisboa, em requerimento instruído com os elementos de prova ao seu alcance e apresentado na Conservatória dos Registos Centrais.
+
+2 - Recebido o requerimento, acompanhado dos documentos que lhe respeitem, o conservador solicitará informação ao Ministério dos Negócios Estrangeiros.
+
+3 - Junta a informação a que se refere o número anterior e efectuadas quaisquer outras diligências complementares que tenha por conveniente, o conservador remeterá o processo, com o seu parecer, à Relação de Lisboa.
+
+4 - Na fase judicial é aplicável ao processo, com as adaptações necessárias, o disposto nos artigos 25.º a 28.º
+
+Art. 46.º - 1 - No caso de ser requerido o registo de alteração de nacionalidade por efeito de casamento ou por aquisição de nacionalidade estrangeira, em conformidade com a lei anterior, devem os requerentes instruir o pedido com os documentos necessários ao registo.
+
+2 - Quando o registo for de perda da nacionalidade e oficioso, será lavrado provisoriamente, devendo a Conservatória dos Registos Centrais requisitar os documentos preparatórios que sejam necessários.
+
+3 - Lavrado o registo provisório, o conservador notificará o interessado pessoalmente ou, não sendo possível, por carta registada com aviso de recepção para, no prazo de 30 dias, se residir no continente, nos arquipélagos dos Açores e da Madeira, ou de 180 dias, se residir em território sob administração portuguesa ou no estrangeiro, deduzir, querendo, oposição. Estando o interessado presente na Conservatória dos Registos Centrais ou em repartição intermediária, pode aí ser notificado pessoalmente.
+
+4 - O notificado pode prescindir do decurso do prazo e dar o seu assentimento à conversão em definitivo do registo provisório em auto lavrado na Conservatória dos Registos Centrais ou na repartição do registo civil ou consular portuguesa da residência.
+
+5 - Não podendo a notificação tornar-se efectiva, o prazo para a oposição contar-se-á a partir da data da última diligência para notificação.
+
+6 - Findo o prazo, e não sendo deduzida qualquer oposição, deve o registo ser convertido em definitivo.
+
+7 - Se, dentro do prazo estabelecido, for deduzida oposição ou se a conversão do registo tiver sido efectuada sem prévia notificação e o interessado vier requerer o cancelamento do registo com base na inexistência do seu fundamento legal ou se, tratando-se de naturalização, vier alegar que esta lhe foi directa ou indirectamente imposta, o conservador, depois de efectuadas as diligências preparatórias necessárias, remeterá cópia autêntica do processo, com a sua informação, ao Tribunal da Relação de Lisboa.
+
+8 - Sempre que se trate de naturalização directa ou indirectamente imposta, o conservador diligenciará pela junção de informação do Ministério dos Negócios Estrangeiros.
+
+9 - É aplicável ao processo, na fase judicial, o disposto nos artigos 25.º a 28.º, com as necessárias adaptações.
+
+### CAPÍTULO II — Disposições comuns
+
+Art. 47.º - 1 - As declarações para fins de atribuição, aquisição e perda da nacionalidade portuguesa podem ser prestadas directamente na Conservatória dos Registos Centrais ou por intermédio dos serviços consulares ou da conservatória do registo civil da área da residência do declarante.
+
+2 - As declarações a que se refere o número anterior devem ser reduzidas a auto pelo funcionário perante quem hajam sido prestadas, salvo tratando-se de atribuição da nacionalidade mediante inscrição do nascimento no registo civil português.
+
+Art. 48.º As declarações a que se refere o artigo anterior são prestadas pelas pessoas a quem respeitam, por si ou por procurador bastante, sendo capazes, ou pelos seus representantes legais, sendo incapazes.
+
+Art. 49.º - 1 - Os autos de declarações de nacionalidade que não sejam para inscrição do nascimento devem conter:
+
+a) A data e o lugar em que são lavrados;
+
+b) O nome completo e a qualidade do funcionário que os subscreve;
+
+c) O nome completo, idade, estado, profissão, naturalidade, filiação, residência habitual e nacionalidade do interessado, se não for a portuguesa;
+
+d) O número e ano do assento de nascimento do interessado e a indicação da repartição em que se encontra, quando lavrado no registo civil português;
+
+e) O nome completo e a residência habitual do procurador, havendo-o, ou do representante legal do interessado, quando este for incapaz;
+
+f) A menção da forma como foi verificada a identidade do declarante;
+
+g) Os factos declarados, o fim da declaração e o pedido do respectivo registo;
+
+h) A assinatura do declarante, se souber e puder assinar, e a do funcionário acima referido.
+
+2 - O auto de declarações para inscrição de nascimento deverá satisfazer apenas os requisitos exigidos no Código de Registo Civil.
+
+Art. 50.º - 1 - A verificação da identidade do declarante pode ser feita:
+
+a) Pelo conhecimento pessoal do funcionário perante quem são prestadas as declarações;
+
+b) Pela exibição do bilhete de identidade do declarante ou, não sendo este português, do seu passaporte ou documento com força legal equivalente;
+
+c) Supletivamente, pela abonação de 2 testemunhas idóneas.
+
+2 - Se a identidade for verificada pela exibição do bilhete de identidade ou do passaporte, mencionar-se-á no auto o seu número, data e entidade emitente.
+
+3 - No caso de abonação testemunhal, as testemunhas oferecidas devem exibir o seu bilhete de identidade, sendo portuguesas, ou o passaporte e ser identificadas no auto, que assinarão depois do declarante e antes do funcionário.
+
+4 - Podem intervir como testemunhas, além das pessoas autorizadas pela lei geral, os parentes ou os afins das partes e do próprio funcionário.
+
+Art. 51.º - 1 - Os autos de declarações para efeitos de nacionalidade devem ser instruídos com os documentos que forem precisos para a prova das circunstâncias de que dependa a atribuição, aquisição ou perda da nacionalidade portuguesa, e bem assim com os demais documentos necessários para a prática dos correspondentes actos de registo civil obrigatório.
+
+2 - As certidões de actos de registo civil português destinadas a instruir as declarações serão de narrativa.
+
+Art. 52.º A apátrida prova-se, para os fins deste diploma, pelos meios estabelecidos em convenção e, na sua falta, por documentos emanados das autoridades dos países com os quais o interessado tenha conexões relevantes, designadamente dos países de origem e da última nacionalidade ou da nacionalidade dos progenitores.
+
+Art. 53.º - 1 - Em casos devidamente justificados de impossibilidade da sua apresentação, qualquer dos documentos destinados a instruir os autos de declarações de nacionalidade que devam ser passados por autoridades estrangeiras pode ser dispensado, se os interessados oferecerem, para suprir a sua falta, outros meios suficientes de prova.
+
+2 - Quando o documento em falta for a certidão de nascimento do interessado, poderá ser passado, pelo conservador dos Registos Centrais, certificado de notoriedade de nascimento, com base na prova documental e testemunhal produzida.
+
+Art. 54.º - 1 - Os nomes dos indivíduos a quem seja atribuída a nacionalidade portuguesa ou que a adquiram, quando escritos em caracteres não latinos, devem ser transliterados de acordo com o alfabeto latino.
+
+2 - Na falta de disposição legal ou convenção sobre a matéria, a transliteração a que se refere o número anterior respeitará as regras geralmente observadas nas relações internacionais, designadamente as recomendações da Organização Internacional de Normalização (ISO).
+
+Art. 55.º - 1 - Aquele que pretenda adquirir a nacionalidade portuguesa pode requerer, no auto de declaração respectivo, e sendo caso disso, o aportuguesamento dos elementos constitutivos do nome próprio ou, cumulativamente, a conformação do nome completo às regras legais portuguesas sobre a sua composição.
+
+2 - O aportuguesamento, por tradução ou adaptação, gráfica e fonética; à língua portuguesa dos nomes próprios de origem estrangeira obedecerá às disposições legais aplicáveis aos nascidos em território português.
+
+3 - Sempre que o nome seja alterado, a nova composição será averbada ao assento de nascimento respectivo, se já lavrado ou a lavrar por transcrição; tratando-se de assento a lavrar por inscrição ou de registo de nacionalidade, mencionar-se-á no texto o novo nome e averbar-se-á a forma originária.
+
+Art. 56.º - 1 - Prestadas as declarações de que dependa a atribuição ou aquisição da nacionalidade, e estando o processo em condições de ser lavrado o correspondente registo, deve o funcionário, previamente, transcrever a certidão do assento estrangeiro de nascimento do interessado ou documento equivalente segundo a lei do país de que é nacional ou originário, salvo se o seu nascimento já constar do registo civil português.
+
+2 - Se aquele que adquirir a nacionalidade não puder obter a certidão ou documento a que se refere o número anterior, pode requerer a inscrição do seu nascimento de harmonia com as disposições aplicáveis do Código do Registo Civil.
+
+Art. 57.º Além do registo de nascimento são obrigatoriamente transcritos no registo civil português todos os actos de estado civil lavrados no estrangeiro e referentes a indivíduos a quem tenha sido atribuída a nacionalidade portuguesa ou que a tenham adquirido.
+
+Art. 58.º - 1 - Os certificados de nacionalidade são passados pela Conservatória dos Registos Centrais a requerimento dos interessados.
+
+2 - Havendo registo de nacionalidade, o certificado deve ser passado com base no respectivo registo.
+
+3 - Se não existir registo especial de nacionalidade, o certificado será passado com base no assento de nascimento do interessado.
+
+4 - No caso previsto no número antecedente, deve o interessado instruir o requerimento com certidão de narrativa do seu assento de nascimento, salvo se o assento se encontrar lavrado na Conservatória dos Registos Centrais.
+
+5 - Nos certificados deve ser feita expressa referência à natureza do registo em face do qual são passados.
+
+Art. 59.º A Conservatória dos Registos Centrais deve comunicar:
+
+a) Ao Serviço de Estrangeiros todas as alterações de nacionalidade que registar, quando referentes a indivíduos residentes em território português ou sob administração portuguesa;
+
+b) Ao Governador de Macau todas as alterações de nacionalidade que registar, quando referentes a indivíduos residentes no território de Macau;
+
+c) Aos serviços consulares estrangeiros o registo de alterações de nacionalidade dos respectivos nacionais, salvo se existir convenção internacional que disponha de outro modo.
+
+Art. 60.º - 1 - Pelos actos praticados nos serviços de registo de nacionalidade são cobrados os emolumentos constantes da tabela anexa.
+
+2 - Se os emolumentos forem cobrados em patacas ou em moeda estrangeira, será aplicável o câmbio do dia em que o emolumento é cobrado.
+
+Art. 61.º Compete aos Ministros da Administração Interna ou da Justiça esclarecer as dúvidas que aos serviços dos respectivos Ministérios se suscitem na execução deste diploma, na parte em que lhes é aplicável.
+
+Art. 62.º São revogados o [Decreto n.º 43090](https://diariodarepublica.pt/dr/detalhe/decreto/43090-1960-501466), de 27 de Julho de 1960, os artigos 1.º, 2.º e 4.º do [Decreto-Lei n.º 43110](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43110-1960-501222), de 6 de Agosto de 1960, e a [Portaria n.º 17930](https://diariodarepublica.pt/dr/detalhe/portaria/17930-1960-514638), de 5 de Setembro de 1960.
+
+Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 21 de Julho de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Tabela de emolumentos dos actos da nacionalidade
+
+###### ARTIGO 1.º
+
+1 - Na Conservatória dos Registos Centrais são cobrados pelos serviços de registo de nacionalidade os seguintes emolumentos:
+
+a) Por cada declaração para aquisição ou perda da nacionalidade ... 500$00
+
+b) Por cada registo de nacionalidade que não tenha por base declaração das referidas na alínea anterior ... 500$00
+
+c) Por cada certificado de nacionalidade ... 150$00
+
+d) Por cada certidão de registo de nacionalidade ou de documento e pela fotocópia da carta de naturalização ... 100$00
+
+2 - Se as declarações de nacionalidade forem prestadas em repartição intermediária, pertencerá a esta o respectivo emolumento.
+
+###### ARTIGO 2.º
+
+É aplicável, subsidiariamente, às certidões e fotocópias extraídas de actos de nacionalidade o disposto no Código do Registo Civil e na tabela a ele anexa.
+
+###### ARTIGO 3.º
+
+São gratuitos:
+
+a) Os registos das declarações a que se refere a alínea a) do artigo 1.º;
+
+b) Os registos das declarações para a atribuição da nacionalidade ou para a sua aquisição, nos termos dos artigos 30.º e 31.º da [Lei n.º 37/81](https://diariodarepublica.pt/dr/detalhe/lei/37-1981-564050), de 3 de Outubro, e os registos oficiosos, bem como os documentos a eles necessários;
+
+c) Os registos e as declarações de nacionalidade, bem como os documentos a eles necessários, respeitantes a indivíduos que provem não auferir rendimentos iguais ou superiores ao salário mínimo nacional.
+
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

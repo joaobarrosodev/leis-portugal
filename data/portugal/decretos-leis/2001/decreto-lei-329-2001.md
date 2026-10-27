@@ -1,0 +1,266 @@
+---
+schema_version: '1.0'
+id: pt:dre:538195:por
+title: Decreto-Lei n.º 329/2001
+short_title: null
+summary: Procede à criação dos julgados de paz de Lisboa, de Oliveira do Bairro, do Seixal e de Vila Nova de Gaia
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 329/2001
+official_date: null
+publication_date: '2001-12-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 293/2001, Série I-A de 2001-12-20
+  number: '293'
+  series: I
+  supplement: null
+  pages: 8366 - 8368
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/12/293a00/83668368.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2003-07-07'
+version_history:
+  file: decreto-lei-329-2001.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2001-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-07-07'
+    amending: pt:dre:667117:por
+    amending_title: Decreto-Lei n.º 140/2003
+    changes:
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/329/2001/p/cons/20030702/pt/html
+  oj: null
+  dre: '538195'
+  dre_path: /dr/detalhe/decreto-lei/329-2001-538195
+  internal: pt:dre:538195:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-2001-538195
+  metadata_url: https://data.dre.pt/eli/dec-lei/329/2001/p/cons/20030702/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-221278539
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-221278539
+  retrieved_at: '2026-10-22T12:59:08Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4932893c37d8688584d0ff95ae2461fea86cdb62d2f42e329f6c3ebe5b32d762
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:59:08Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-329-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Judicial
+- Julgado de Paz
+- Criação de Serviços
+- Lisboa
+- Recrutamento de Pessoal
+- Instalação de Serviços
+- Serviço de Mediação
+- Oliveira do Bairro
+- Remuneração
+- Seixal
+- VILA NOVA de GAIA
+relationships:
+- type: amended_by
+  target: pt:dre:667117:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2003-667117
+  date: '2003-07-02'
+- type: cites
+  target: pt:dre:388220:por
+  label: null
+  source: http://data.dre.pt/eli/lei/78/2001/07/13/p/dre
+article_structure:
+  article_count: 14
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:59:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 329/2001
+
+Decreto-Lei n.º 329/2001
+
+de 20 de Dezembro
+
+A Lei n.º 78/2001, de 13 de Julho, regula a organização, competência e funcionamento dos julgados de paz e, bem assim, a tramitação dos processos da sua competência, determinando que o Governo criará e providenciará a instalação de julgados de paz, como projectos experimentais, nos municípios de Lisboa, de Oliveira do Bairro, do Seixal e de Vila Nova de Gaia.
+
+A criação dos julgados de paz, operada pelo presente decreto-lei, a delimitação da respectiva competência territorial, bem como a regulação das matérias relativas à respectiva organização interna e competências de serviços, em especial do serviço de mediação, responde à mencionada exigência legal.
+
+O presente diploma surge, assim, na sequência da iniciativa da Assembleia da República, mas igualmente e de uma forma muito vincada no contexto global da política do Governo para a justiça, que, a par de um investimento inigualável em recursos financeiros, técnicos e humanos para o sistema tradicional de justiça, busca progredir para a construção de novos modelos em que a administração da justiça haverá de ser caracterizada por mais acessibilidade, proximidade, celeridade e informalidade, a benefício dos cidadãos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Dos julgados de paz
+
+###### Artigo 1.º — Objecto
+
+O presente diploma procede à criação dos julgados de paz previstos no n.º 1 do artigo 64.º da Lei n.º 78/2001, de 13 de Julho, e estabelece o regime do respectivo funcionamento e organização.
+
+###### Artigo 2.º — Criação
+
+São criados os julgados de paz de Lisboa, de Oliveira do Bairro, do Seixal e de Vila Nova de Gaia.
+
+###### Artigo 3.º — Circunscrição territorial
+
+1 - O Julgado de Paz de Lisboa abrange todas as freguesias do concelho de Lisboa, ficando sediado na freguesia do Lumiar.
+
+2 - O alargamento da sua competência territorial a todas as freguesias do concelho realiza-se de forma faseada, nos seguintes termos:
+
+a) Em 1 de Julho de 2003, a jurisdição do Julgado de Paz passa a abranger as freguesias da Ameixoeira, Charneca, Santa Maria dos Olivais, São Domingos de Benfica, Campo Grande, São João de Brito, Marvila, Campolide, Nossa Senhora de Fátima, Alvalade, São João de Deus, Alto do Pina, Beato e São Sebastião da Pedreira;
+
+b) Em 1 de Outubro de 2003, a jurisdição do Julgado de Paz passa a abranger as restantes freguesias do concelho de Lisboa.
+
+3 - Para os efeitos do número anterior e do artigo 15.º da Lei n.º 78/2001, de 13 de Julho, serão criadas por portaria do Ministro da Justiça as secções necessárias ao bom funcionamento do Julgado de Paz de Lisboa.
+
+4 - O Julgado de Paz de Oliveira do Bairro, de âmbito concelhio, é agora constituído na modalidade de julgado de paz de agrupamento de concelhos, passando a designar-se por Julgado de Paz do Agrupamento de Concelhos de Oliveira do Bairro, Águeda, Anadia e Mealhada, mantendo a sua sede no concelho de Oliveira do Bairro, podendo, se tal se revelar necessário ao seu bom funcionamento, ser instalados postos de atendimento em cada um dos respectivos concelhos.
+
+5 - O Julgado de Paz do Seixal abrange todas as freguesias do concelho, ficando sediado na freguesia do Seixal.
+
+6 - O Julgado de Paz de Vila Nova de Gaia abrange todas as freguesias do concelho, ficando sediado na freguesia de Pedroso.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 140/2003 - Diário da República n.º 150/2003, Série I-A de 2003-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2003-667117), em vigor a partir de 2003-07-07
+
+###### Artigo 4.º — Composição dos julgados de paz
+
+1 - Cada julgado de paz é composto por uma ou mais secções, dirigida cada uma delas por um juiz de paz.
+
+2 - O número das secções de cada julgado de paz é estabelecido na portaria que procede à respectiva instalação.
+
+###### Artigo 5.º — Organização interna
+
+Cada julgado de paz dispõe de um serviço de mediação, de um serviço de atendimento e de um serviço de apoio administrativo.
+
+###### Artigo 6.º — Período de funcionamento
+
+1 - Os julgados de paz funcionam todos os dias úteis, podendo ainda funcionar aos sábados, domingos e feriados.
+
+2 - O horário de funcionamento de cada julgado de paz deve assegurar o adequado atendimento na circunscrição territorial por ele abrangida, podendo compreender o período entre as 8 horas e 30 minutos e as 22 horas.
+
+3 - O período de funcionamento de cada julgado de paz é fixado no respectivo regulamento interno, aprovado por portaria do Ministro da Justiça.
+
+###### Artigo 7.º — Coordenação do julgado de paz
+
+1 - A coordenação, representação e gestão do julgado de paz compete ao juiz de paz.
+
+2 - Nos julgados de paz, onde exista mais de um juiz, a coordenação, representação e gestão compete ao juiz de paz designado nos termos definidos no respectivo regulamento interno, aprovado por portaria do Ministro da Justiça.
+
+### Capítulo II — Dos serviços
+
+#### Secção I
+
+###### Artigo 8.º — Serviço de mediação
+
+1 - O serviço de mediação disponibiliza a qualquer interessado a mediação como forma alternativa de resolução de quaisquer litígios, ainda que excluídos da competência do julgado de paz, com excepção dos que tenham por objecto direitos indisponíveis.
+
+2 - Compete-lhe em especial:
+
+a) Realizar a sessão de pré-mediação, explicando às partes a natureza, as características e o objectivo da mediação, bem como as regras a que a mesma obedece;
+
+b) Informar as partes sobre a escolha do mediador e respectiva forma de intervenção e posição de neutralidade e imparcialidade face às partes;
+
+c) Verificar a predisposição das partes para um possível acordo na base de mediação;
+
+d) Submeter, se for o caso, o acordo de mediação assinado pelas partes a imediata homologação pelo juiz de paz, quando o julgado de paz seja competente para a apreciação da causa respectiva;
+
+e) Facultar a qualquer interessado o regulamento interno do serviço de mediação e demais legislação conexa.
+
+3 - O serviço de mediação é assegurado pelos mediadores inscritos na lista do julgado de paz, nos termos do regulamento aprovado por portaria do Ministro da Justiça.
+
+#### Secção II
+
+###### Artigo 9.º — Serviço de atendimento
+
+1 - Compete ao serviço de atendimento, junto do qual funciona a secretaria do julgado de paz, designadamente:
+
+a) Assegurar o atendimento ao público, prestando informação sobre as atribuições e competências do julgado de paz e respectiva tramitação processual, bem como sobre a pré-mediação e a mediação;
+
+b) Receber os requerimentos apresentados pelos interessados, reduzindo a escrito, mediante o preenchimento de formulário, os pedidos formulados verbalmente;
+
+c) Proceder às citações e notificações previstas na lei;
+
+d) Receber a contestação, reduzindo-a a escrito quando apresentada verbalmente;
+
+e) Designar os mediadores, através do coordenador, na falta de escolha consensual pelas partes;
+
+f) Marcar as sessões de pré-mediação e de mediação;
+
+g) Comunicar a data da audiência de julgamento, nos casos previstos na lei, de acordo com a orientação do juiz de paz.
+
+2 - Deverá ser dada prioridade à marcação da mediação solicitada pelas partes em processos judiciais pendentes, mediante a suspensão voluntária da instância.
+
+###### Artigo 10.º — Serviço de apoio administrativo
+
+Ao serviço de apoio administrativo compete a prestação do apoio administrativo necessário ao funcionamento eficaz dos serviços do julgado de paz.
+
+### Capítulo III — Disposições finais
+
+###### Artigo 11.º — Provimento dos juízes de paz
+
+Os juízes de paz exercem as suas funções em regime de comissão de serviço, por um ano, susceptível de renovação por igual período, até três anos, considerando-se o tempo de serviço, para todos os efeitos, como prestado no lugar de origem quando sejam funcionários públicos.
+
+###### Artigo 12.º — Pessoal
+
+O funcionamento dos julgados de paz criados pelo presente diploma é assegurado por funcionários e agentes das autarquias locais, em regime de destacamento, ou por pessoal para o efeito contratado, sem prejuízo da requisição de funcionários e agentes da administração central, nos termos da lei.
+
+###### Artigo 13.º — Despesas de funcionamento
+
+1 - Sem prejuízo do disposto no número seguinte, as despesas decorrentes da instalação e funcionamento dos julgados de paz criados pelo presente diploma, incluindo as relativas ao pessoal a eles afecto, são suportadas nos termos dos protocolos celebrados entre o Ministério da Justiça e as Câmaras Municipais de Lisboa, de Oliveira do Bairro, do Seixal e de Vila Nova de Gaia.
+
+2 - As despesas com a remuneração dos juízes e com o pagamento dos honorários dos mediadores são suportadas pelo Ministério da Justiça, nos termos a definir por portaria do Ministro da Justiça.
+
+###### Artigo 14.º — Instalação
+
+Os julgados de paz criados pelo presente diploma entram em funcionamento na data que, para o efeito, seja determinada na portaria que, nos termos do n.º 3 do artigo 3.º da Lei n.º 78/2001, de 13 de Julho, proceda à respectiva instalação.
+
+Visto e aprovado em Conselho de Ministros de 22 de Novembro de 2001. - Guilherme d'Oliveira Martins - Guilherme d'Oliveira Martins - António Luís Santos Costa - Rui Nobre Gonçalves - Alberto de Sousa Martins.
+
+Promulgado em 7 de Dezembro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 13 de Dezembro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

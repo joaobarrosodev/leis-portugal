@@ -1,0 +1,1044 @@
+---
+schema_version: '1.0'
+id: pt:dre:181067:por
+title: Decreto-Lei n.º 16/99
+short_title: null
+summary: Regula o licenciamento, o funcionamento e a fiscalização do exercício da actividade das unidades privadas que actuem
+  na área da toxicodependência (revoga o Decreto Regulamentar n.º 42/93, de 27 de Novembro)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 16/99
+official_date: null
+publication_date: '1999-01-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/1999, Série I-A de 1999-01-25
+  number: '20'
+  series: I
+  supplement: null
+  pages: 421 - 429
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/01/020a00/04210429.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2016-11-09'
+version_history:
+  file: decreto-lei-16-99.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1999-01-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-11-09'
+    amending: pt:dre:75688298:por
+    amending_title: Decreto-Lei n.º 74/2016
+    changes:
+    - Adita Artigo 57.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 29.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 50.º
+    - Altera Artigo 52.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 57.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo VI
+    - Revoga Artigo 6.º
+    - Revoga Artigo 58.º
+    - Revoga Artigo 59.º
+    - Revoga Artigo 60.º
+    - Revoga Artigo 61.º
+    - Revoga Artigo 62.º
+    - Revoga Artigo 63.º
+    - Revoga Artigo 64.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/16/1999/p/cons/20161108/pt/html
+  oj: null
+  dre: '181067'
+  dre_path: /dr/detalhe/decreto-lei/16-1999-181067
+  internal: pt:dre:181067:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1999-181067
+  metadata_url: https://data.dre.pt/eli/dec-lei/16/1999/p/cons/20161108/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-75688324
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-75688324
+  retrieved_at: '2026-10-22T12:08:57Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4aea0370444c40b437298140f00bbd3d12f7ab4c4655ed4b11f6d6adc34c987d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:08:57Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-16-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assistência Médica
+- Livro de Reclamações
+- Farmácia
+- Apoio Psicológico
+- Medicina Privada
+- Multa
+- Direção Geral da Saúde
+- Serviço de Saúde
+- Contra-ordenação
+- Emolumento
+- Enfermagem
+- Saúde Pública
+- Fiscalização
+- Iniciativa Privada
+- Licenciamento
+- Droga
+- Toxicodependente
+- Preço
+- Qualificação Profissional
+- Cuidados Médicos
+- Reabilitação
+- Recursos Humanos
+- Ministério da Saúde
+- Serviço de Prevenção e Tratamento da Toxicodependência
+- Terapêutica
+- Vistoria
+relationships:
+- type: amended_by
+  target: pt:dre:75688298:por
+  label: Adita Artigo 57.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 10.º;
+    Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 19.º;
+    Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 29.º; Altera Artigo 32.º; Altera Artigo 33.º; Altera Artigo 34.º;
+    Altera Artigo 37.º; Altera Artigo 38.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298
+  date: '2016-11-08'
+- type: cites
+  target: pt:dre:321486:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/445/1991/11/20/p/dre
+- type: cites
+  target: pt:dre:397953:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/123/1997/05/22/p/dre
+- type: cites
+  target: pt:dre:586007:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/13/1993/01/15/p/dre
+- type: cites
+  target: pt:dre:644295:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/239/1997/09/09/p/dre
+- type: cites
+  target: pt:dre:680781:por
+  label: null
+  source: http://data.dre.pt/eli/decregul/42/1993/11/27/p/dre
+article_structure:
+  article_count: 67
+  section_count: 30
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:08:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 16/99
+
+Decreto-Lei n.º 16/99
+
+de 25 de Janeiro
+
+A maturidade que atingiu entre nós o sistema de resposta aos problemas gerados pela toxicodependência, concretamente na área dos cuidados de saúde, permite e reclama o estabelecimento de regras mais exigentes para a instalação e funcionamento das unidades privadas que integram a rede de instituições que fornecem serviços no âmbito da chamada prevenção secundária da toxicodependência, isto é, do tratamento ou recuperação dos toxicodependentes.
+
+Acresce que é tarefa do Estado zelar pela garantia de um nível mínimo de qualidade dos serviços de saúde prestados nesta área, não apenas no que se refere aos requisitos das infra-estruturas e das normas de funcionamento, mas, sobretudo, ao nível dos recursos humanos, por forma a garantir o suficiente acompanhamento técnico especializado e a necessária responsabilização médica na supervisão dos cuidados de tratamento fornecidos.
+
+Assim, se pelo presente diploma se afastam alguns requisitos excessivos em matéria de instalações e equipamentos, estabelece-se, por outro lado, a exigência de direcção técnica adequada e acompanhamento especializado.
+
+Não se trata, nem isso seria tecnicamente possível, de garantir à partida o sucesso dos processos de tratamento, nem sequer de restringir a diversidade dos métodos de tratamento disponíveis no mercado. Trata-se, isso sim, de fixar um conjunto de requisitos básicos de qualidade na falta dos quais as unidades privadas não podem ser admitidas a prestar este tipo de serviços.
+
+Importa, pois, rever o Decreto Regulamentar n.º 42/93, de 27 de Novembro, que, ao abrigo do Decreto-Lei n.º 13/93, de 15 de Janeiro, estabeleceu as regras específicas relativas ao licenciamento e fiscalização das unidades privadas de saúde com actividade no âmbito do tratamento de toxicodependentes, no que seria complementado pelo despacho do Ministro da Saúde n.º 21/95, de 30 de Agosto, que fixou os requisitos a que devem obedecer aquelas unidades.
+
+Para garantia do cumprimento das normas agora fixadas, e que correspondem à regulamentação prevista no n.º 3 do artigo 1.º do Decreto-Lei n.º 13/93, de 15 de Janeiro, organiza-se um sistema de vistorias e fiscalização a cargo das entidades competentes do Ministério da Saúde.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+## Título I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma regula o licenciamento, o funcionamento e a fiscalização do exercício da atividade das unidades privadas que atuem na área do tratamento ou da recuperação de pessoas com comportamentos aditivos e dependências, e define os requisitos a que devem obedecer as suas instalações, organização e funcionamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 2.º — Âmbito
+
+O presente diploma é aplicável a todas as unidades privadas, com ou sem fins lucrativos, independentemente da designação ou forma jurídica adotadas, adiante designadas por unidades, que atuem na área dos comportamentos aditivos e dependências e que se dediquem ao tratamento, reabilitação ou recuperação de pessoas com comportamentos aditivos e dependências.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 3.º — Tipos de unidades
+
+1 - As unidades a que se refere o presente diploma podem ser unidades de internamento ou unidades de ambulatório.
+
+2 - São unidades de internamento:
+
+a) As clínicas de desabituação;
+
+b) As comunidades terapêuticas.
+
+3 - São unidades de ambulatório:
+
+a) Os centros de consulta;
+
+b) Os centros de dia.
+
+4 - Para todos os efeitos legais, apenas as unidades licenciadas ao abrigo do presente diploma poderão reclamar-se de tratamento, de recuperação ou de reabilitação de toxicodependentes.
+
+###### Artigo 4.º — Unidades de internamento
+
+1 - As clínicas de desabituação são unidades assistenciais onde se realiza o tratamento de síndromas de privação em pessoas com comportamentos aditivos e dependências, mediante terapêutica medicamentosa, sob responsabilidade médica, com suporte de enfermagem e apoio de médico psiquiatra.
+
+2 - As comunidades terapêuticas são unidades de internamento para estadas prolongadas, sem recurso a terapêuticas medicamentosas de desabituação, com suporte psicoterapêutico e ou sócio-terapêutico e apoio médico de clínica geral, com supervisão de um médico psiquiatra.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 5.º — Unidades de ambulatório
+
+1 - Os centros de consulta são unidades assistenciais para tratamento ambulatório de doentes, apoio aos familiares ou terapia familiar, dotadas de equipas compostas por médicos, psicólogos e outros técnicos de saúde, sob supervisão de um psiquiatra.
+
+2 - Os centros de dia são unidades com suporte psicológico e sócio-terapêutico, dispondo de diversificadas actividades terapêuticas e ou ocupacionais.
+
+###### Artigo 6.º — Designação
+
+As unidades devem adoptar designações que permitam distingui-las das instituições e serviços prestadores de cuidados de saúde, abrangidos pelo sistema de saúde.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 7.º — Sistema de promoção e garantia de qualidade
+
+1 - As unidades devem dispor de um sistema de promoção e garantia de qualidade que permita a prestação de cuidados de saúde personalizados e de elevado nível qualitativo.
+
+2 - O sistema de promoção e garantia de qualidade deve ter por fundamento padrões e critérios aferíveis com objectividade, em todas as áreas de actividade técnica, assistencial e humana.
+
+3 - Tendo em vista a garantia da qualidade do tratamento, não podem as unidades licenciadas recorrer aos seus utentes para a realização de peditórios ou actividades de publicidade ou propaganda, ainda que autorizadas.
+
+4 - As unidades licenciadas não podem, igualmente, recorrer em qualquer fase do programa terapêutico a acções que impliquem qualquer forma de violência física ou psíquica, bem como de coacção moral.
+
+5 - As unidades a que se refere o presente diploma devem assegurar aos seus utentes a acessibilidade aos cuidados de saúde, sendo-lhes vedada a prática ou a celebração de contratos que impliquem a recusa da medicação indispensável ao tratamento de doenças físicas ou de situações de saúde que tornem imprescindível a administração de medicamentos.
+
+6 - É expressamente vedada às unidades a retenção, a qualquer título, de documentos pessoais dos utentes, bem como mantê-los internados contra sua vontade, ainda que mediante consentimento familiar.
+
+###### Artigo 8.º — Dever de cooperação
+
+1 - As unidades abrangidas pelo presente diploma devem colaborar, nas campanhas e nos programas de saúde pública, com as Administrações Regionais de Saúde (ARS), o Serviço de Intervenção nos Comportamentos Aditivos e nas Dependências (SICAD), a Direção-Geral da Saúde e outras entidades públicas.
+
+2 - As mesmas unidades devem ainda cooperar com as ARS e o SICAD em programas específicos de avaliação do fenómeno dos comportamentos aditivos e dependências e do seu tratamento, devendo fornecer-lhe anualmente os dados que lhes forem solicitados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+## Título II — Unidades de internamento
+
+### Capítulo I — Clínicas de desabituação
+
+#### Secção I — Instalações
+
+##### Subsecção I — Localização
+
+###### Artigo 9.º — Meio físico
+
+As unidades devem situar-se em meios físicos salubres e bem arejados, de fácil acessibilidade e que disponham de infra-estruturas viárias, de abastecimento de água com controlo de qualidade, de sistema de recolha de águas residuais e de resíduos, de energia eléctrica e de telecomunicações.
+
+##### Subsecção II — Edifício
+
+###### Artigo 10.º — Instalações
+
+1 - As unidades devem ser instaladas em edifícios com estrutura de betão, exclusivamente destinados a esse fim.
+
+2 - Excecionalmente, a Entidade Reguladora da Saúde pode autorizar a instalação das unidades em partes de edifícios, desde que:
+
+a) Haja total independência, designadamente das instalações técnicas especiais, em relação aos demais ocupantes do edifício;
+
+b) Os acessos e circulação sejam privativos.
+
+3 - É admitida, excecionalmente, a instalação de unidades em edifícios remodelados, com estrutura de alvenaria, desde que no respetivo licenciamento tenha sido observado o disposto na legislação em vigor.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 11.º — Acessos
+
+1 - As unidades devem, sempre que possível, ter um acesso para utentes e público e outro de serviço.
+
+2 - O acesso de serviço deve garantir a compatibilidade entre os vários tipos de abastecimento às unidades.
+
+###### Artigo 12.º — Normas genéricas de construção
+
+1 - As instalações devem obedecer à legislação em vigor, nomeadamente ao Regulamento Geral das Edificações Urbanas e a todas as normas e regulamentos de segurança, tais como o Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica, o Regulamento das Características do Comportamento Térmico dos Edifícios, o Regulamento de Segurança de Elevadores e o Regulamento de Segurança contra Incêndios.
+
+2 - Os revestimentos de tectos, paredes e pavimentos devem permitir uma fácil limpeza e, quando necessário, a sua desinfecção sem degradação prematura.
+
+3 - As instalações devem, de um modo geral, garantir boas condições de conforto térmico e acústico e completa ausência de cheiros e fumos.
+
+4 - Nos casos previstos no n.º 3 do artigo 10.º deve acautelar-se que os revestimentos aplicados garantam resistência ao impacto equiparável à do betão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 13.º — Circulações
+
+1 - As instalações devem permitir a fácil circulação e deslocação de utentes, garantindo a eliminação de barreiras arquitetónicas, nos termos da legislação em vigor.
+
+2 - Os corredores de acesso aos quartos devem ter a largura mínima de 1,40 m.
+
+3 - Sempre que a unidade se desenvolver por mais de um piso, deve haver uma escada principal e, pelo menos, outra de serviço, se os vários tipos de abastecimentos à unidade o justificarem.
+
+4 - Todas as escadas onde, em situações de emergência, seja forçada a circulação de macas devem ter largura não inferior a 1,40 m e uma inclinação de acordo com a legislação em vigor.
+
+5 - As portas dos quartos devem ter o mínimo de 90 cm de largura útil e ser pivotantes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 14.º — Internamento e apoios
+
+1 - As unidades devem dispor de áreas de internamento com instalações hoteleiras e seus apoios.
+
+2 - As áreas referidas no número anterior são constituídas pelas instalações e equipamentos mínimos descritos no anexo I.
+
+###### Artigo 15.º — Serviço de farmácia
+
+1 - As unidades devem dispor de serviço de farmácia, dotado de instalações próprias.
+
+2 - As instalações previstas no número anterior devem ter acesso controlado, ser convenientemente localizadas e permitir a boa conservação e monitorização dos medicamentos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+##### Subsecção III — Instalações técnicas e equipamentos especiais
+
+###### Artigo 16.º — Generalidades
+
+1 - As unidades devem ser dotadas de instalações técnicas e equipamentos especiais que permitam criar adequadas condições de prestação de serviço e de conforto e ambiente, de acordo com padrões actuais de qualidade e segurança.
+
+2 - Para os efeitos do número anterior, as instalações técnicas e equipamentos especiais mínimos a prever são os seguintes:
+
+a) Instalações eléctricas;
+
+b) Aquecimento e ventilação;
+
+c) Reprocessamento de dispositivos médicos e outros materiais;
+
+d) Destino final dos resíduos hospitalares;
+
+e) Alimentação;
+
+f) Serviços de lavandaria;
+
+g) Equipamentos frigoríficos;
+
+h) Abastecimento de águas e tratamento de efluentes;
+
+i) Segurança contra incêndios e intrusão.
+
+3 - O projecto, concepção e funcionamento das instalações técnicas e equipamentos especiais devem obedecer às normas em vigor, bem como às recomendações específicas que a natureza dos vários serviços venha a justificar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 17.º — Sistema de chamada de enfermeiro
+
+1 - As unidades devem dispor de um sistema que permita a chamada de enfermeiro pelos utentes através de botoneira.
+
+2 - O sistema de chamada de enfermeiro deve possuir um sinalizador luminoso de confirmação de chamada localizado junto à cabeceira da cama ou em local visível pelo utente.
+
+3 - O sinalizador a que se refere o número anterior deve ser instalado de modo que o cancelamento só possa ser efectuado no próprio compartimento onde se efectuou a chamada.
+
+4 - Os demais compartimentos a que o utente tenha acesso, designadamente casas de banho, sanitários, refeitórios e salas de estar, devem ser equipados com sistema de chamada equivalente ao previsto nos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 18.º — Fornecimento de energia eléctrica em situações de emergência
+
+1 - Sem prejuízo dos sistemas de iluminação de emergência legalmente previstos, a unidade deve possuir um gerador de emergência.
+
+2 - O gerador a que se refere o número anterior deve ser colocado em funcionamento sempre que haja uma falha de energia da rede e deve assegurar a alimentação dos sistemas essenciais, designadamente:
+
+a) Iluminação geral;
+
+b) Tomadas de corrente na sala de enfermagem e na de tratamento;
+
+c) No mínimo 20% das tomadas de corrente no resto da unidade;
+
+d) Central telefónica e sistemas de segurança.
+
+###### Artigo 19.º — Aparelhos elevadores
+
+1 - Sempre que o edifício da unidade tenha um desenvolvimento em altura superior a um piso, que não possua rampas de acesso com largura mínima de 1,40 m e uma inclinação máxima de 6%, deve dispor de elevadores, sendo um deles, pelo menos, dimensionado para o transporte de macas, com o mínimo de 2,40 m, 1,40 m e 2,10 m, respectivamente de comprimento, largura e altura.
+
+2 - Os elevadores devem ser dotados de portas automáticas, com célula fotoelétrica, devendo, pelo menos, o monta-macas ser alimentado a partir da rede de emergência, com materiais inquebráveis e arestas boleadas.
+
+3 - Em caso de falha elétrica, os ascensores devem dispor das condições para se movimentarem até ao piso de entrada, devendo ser assegurado que pelo menos um dos ascensores existentes na unidade com capacidade para transporte de camas se mantenha em funcionamento com alimentação de socorro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 20.º — Climatização
+
+1 - As unidades devem ser dotadas de equipamentos de aquecimento e ventilação que garantam adequadas condições de conforto e de higiene.
+
+2 - As instalações para condicionamento de ar, quando previstas, devem obedecer aos requisitos previstos no anexo II.
+
+3 - O comportamento térmico dos edifícios e a sua climatização devem obedecer às normas regulamentares em vigor.
+
+###### Artigo 21.º — Reprocessamento de dispositivos médicos e outros materiais
+
+1 - As unidades devem assegurar, por si ou com recurso a terceiros, o reprocessamento dos dispositivos médicos e de outros materiais e equipamentos utilizados, podendo, em alternativa, recorrer à utilização de dispositivos médicos e outros materiais e equipamentos de uso único.
+
+2 - No caso de o reprocessamento dos dispositivos médicos e outros materiais referidos no número anterior ser assegurado pela própria unidade, as condições mínimas a respeitar são as estipuladas no anexo III.
+
+3 - Em caso de recurso a dispositivos médicos e outros materiais de uso único, estes devem ser armazenados na farmácia e ter inscritos os respetivos prazos de validade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 22.º — Resíduos hospitalares
+
+As unidades devem dispor de sistema de gestão de resíduos nos termos da legislação em vigor.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 23.º — Alimentação
+
+1 - As unidades devem assegurar, por si ou com recurso a terceiros, a alimentação dos utentes.
+
+2 - Sempre que as unidades assegurem a confecção da alimentação, devem possuir áreas adequadas para armazenamento, conservação e preparação dos géneros alimentares, com o equipamento mínimo descrito no n.º 1 do anexo IV.
+
+3 - Nos casos em que as unidades não assegurem a confecção da alimentação, é obrigatória a existência de um compartimento próprio para preparação de pequenos-almoços, lanches e refeições leves com o equipamento mínimo descrito no n.º 2 do anexo IV.
+
+###### Artigo 24.º — Serviço de lavandaria
+
+1 - As unidades devem assegurar, por si ou com recurso a terceiros, a lavagem e tratamento das roupas de uso comum utilizadas, devendo em qualquer dos casos existir condições para desinfecção de roupa infecto-contagiosa.
+
+2 - Sempre que as unidades assegurem a lavagem e tratamento da roupa comum utilizada, devem possuir, em função do respectivo volume, áreas adequadas à sua recepção, lavagem, tratamento e armazenagem, bem como os equipamentos mínimos descritos no n.º 1 do anexo V.
+
+3 - Nos casos em que as unidades não assegurem a lavagem e tratamento da roupa comum utilizada, devem possuir os equipamentos mínimos descritos no n.º 2 do anexo V.
+
+###### Artigo 25.º — Equipamentos frigoríficos
+
+1 - Sempre que as unidades assegurem a confecção da alimentação devem dispor dos equipamentos frigoríficos, com a capacidade adequada, descritos no n.º 1 do anexo VI.
+
+2 - Nos casos em que as unidades não assegurem a confecção da alimentação, devem dispor de equipamentos frigoríficos com capacidade adequada descritos no n.º 2 do anexo VI.
+
+3 - Os equipamentos frigoríficos devem possuir isolamento térmico e encontrar-se em estado de conservação que lhe confira, por corte de energia eléctrica, uma autonomia mínima de doze horas.
+
+###### Artigo 26.º — Depósitos de reserva de água
+
+1 - As unidades apenas podem dispor de depósitos de água para o consumo quando as entidades públicas de distribuição de água não puderem assegurar o abastecimento em boas condições de caudal e de pressão.
+
+2 - Sempre que admitidos, nos termos do número anterior, os depósitos de reserva de água devem ser objecto de controlo sanitário, nos termos da legislação em vigor, por forma a garantir a compatibilidade da qualidade da água com o uso a que se destina, devendo a reserva de água para combate a incêndios obedecer às medidas de segurança a aplicar em edifícios comerciais.
+
+###### Artigo 27.º — Sistema de recolha de águas residuais
+
+1 - As entidades gestoras dos sistemas públicos de drenagem de águas residuais devem definir as condições de descarga das águas residuais das unidades nos seus sistemas, nos termos da legislação em vigor.
+
+2 - A existência de águas residuais infecto-contagiosas implica o seu pré-tratamento de desinfecção antes do respectivo lançamento nos sistemas públicos de drenagem.
+
+3 - As características dos respectivos efluentes, bem como as águas residuais gordurosas e quentes, devem obedecer às normas regulamentares em vigor.
+
+#### Secção II — Organização e funcionamento
+
+###### Artigo 28.º — Direcção técnica
+
+As unidades devem dispor de um director técnico com licenciatura em Medicina.
+
+###### Artigo 29.º — Pessoal
+
+1 - As unidades devem dispor de profissionais devidamente habilitados e com formação adequada.
+
+2 - As unidades devem assegurar, no funcionamento dos seus serviços, a presença física permanente de pessoal de enfermagem, a presença diária de um médico e apoio de médico psiquiatra.
+
+3 - As unidades devem dispor de um registo de presença de todos os profissionais.
+
+4 - Sempre que solicitado pelas entidades competentes, as unidades devem facultar a relação do seu pessoal, incluindo as respectivas categorias profissionais, habilitações, descrição de funções e escalas de serviço.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 30.º — Recurso ao exterior
+
+As unidades só podem recorrer a serviços de terceiros, no âmbito do diagnóstico, do tratamento ou da disponibilização de outros meios indispensáveis ao exercício das suas funções, quando aqueles se encontrem, nos termos da legislação em vigor, acreditados para o efeito.
+
+###### Artigo 31.º — Registos e processos clínicos
+
+1 - É obrigatória a existência, nas unidades, de um registo de todos os utentes atendidos que garanta a confidencialidade dos processos clínicos.
+
+2 - Nos processos clínicos dos utentes são registados, designadamente, os exames, incluindo os exames complementares de diagnóstico prévios à admissão, os tratamentos efectuados, a identificação dos responsáveis pela respectiva prescrição e execução, as datas de tratamento, de internamento e de alta, bem como a situação clínica à data da alta, ou, não tendo havido internamento, à data da observação e outros que se julguem adequados.
+
+###### Artigo 32.º — Seguro de actividade
+
+1 - A actividade das unidades deve ser exercida no respeito pela garantia dos seguintes requisitos:
+
+a) Segurança das instalações;
+
+b) Segurança no funcionamento e manuseamento dos equipamentos;
+
+c) Disponibilidade dos medicamentos e outros produtos e serviços indispensáveis à prestação dos cuidados de saúde;
+
+d) Segurança, higiene e qualidade dos cuidados de saúde, de acordo com o regime de prestação adoptado.
+
+2 - Para os efeitos do número anterior, a entidade responsável pela unidade deve contratar e manter em vigor um seguro de responsabilidade civil e profissional que cubra os riscos inerentes à respetiva atividade e à atividade dos profissionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 33.º — Regulamento interno e tabela de preços
+
+1 - As unidades devem dispor de um regulamento interno e de tabela de preços.
+
+2 - O regulamento interno bem como a tabela de preços devem ser afixados em local bem visível e acessível aos utentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 34.º — Livro de reclamações
+
+1 - As unidades estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+### Capítulo II — Comunidades terapêuticas
+
+#### Secção I — Instalações
+
+##### Subsecção I — Localização
+
+###### Artigo 35.º — Meio físico
+
+Às unidades a que respeita este capítulo aplica-se o disposto no artigo 9.º
+
+##### Subsecção II — Edifício
+
+###### Artigo 36.º — Instalação, acessos e normas genéricas de construção
+
+Às unidades a que respeita este capítulo aplica-se o disposto nos artigos 10.º a 12.º
+
+###### Artigo 37.º — Internamento e apoios
+
+1 - As unidades devem dispor de quartos com uma área mínima de 8 m2 por quarto individual e de 5 m2 por cada cama, no caso de quartos múltiplos.
+
+2 - Devem existir instalações sanitárias para utentes na zona dos quartos, com portas a abrir para o exterior ou de correr, com puxadores redondos e de fácil abertura pelo pessoal, na proporção de uma cabina, lavatório e duche por cada cinco utentes, adaptadas à utilização por pessoas com mobilidade condicionada, com sistema de chamada de emergência por botoneira e espelhos inquebráveis.
+
+3 - Devem ainda existir sala de técnicos e gabinete médico, com áreas mínimas de 10 m2 e largura mínima de 2,60 m, e instalações sanitárias para o pessoal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 38.º — Sala de refeições
+
+1 - As unidades devem dispor de uma sala destinada a refeições.
+
+2 - A sala referida no número anterior deve estar equipada e possuir área, acabamentos e instalações em conformidade com as atividades a desenvolver e respeitando as respetivas normas de higiene e segurança, não podendo a sua área ser inferior a 2 m2 por utente para uma utilização simultânea de, no mínimo, 50 % dos utentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 39.º — Sala polivalente
+
+As unidades devem dispor de uma sala polivalente destinada ao convívio, reuniões, actividades recreativas de grupo, actividades pedagógicas e de formação e encontros vários, não podendo a sua área ser inferior à definida no n.º 2 do artigo anterior.
+
+###### Artigo 40.º — Outros espaços
+
+As unidades devem dispor de um espaço exterior destinado a actividades de ar livre, não podendo a área respectiva ser inferior à definida no n.º 2 do artigo 38.º
+
+##### Subsecção III — Instalações técnicas e equipamentos especiais
+
+###### Artigo 41.º — Generalidades
+
+1 - O projecto, concepção e funcionamento das instalações técnicas e equipamentos especiais devem obedecer às normas em vigor, bem como às recomendações específicas que a natureza dos vários serviços venha a justificar, de modo a criar adequadas condições de prestação de serviços, de conforto e ambiente, de acordo com padrões actuais de qualidade e segurança.
+
+2 - Para os efeitos do número anterior, as instalações técnicas e equipamentos especiais mínimos a prever são os seguintes:
+
+a) Instalações eléctricas;
+
+b) Destino final dos resíduos;
+
+c) Alimentação;
+
+d) Serviços de lavandaria;
+
+e) Equipamentos frigoríficos;
+
+f) Abastecimento de águas e tratamento de efluentes;
+
+g) Segurança contra incêndios e intrusão.
+
+###### Artigo 42.º
+
+Serviço de alimentação, lavandaria, equipamentos frigoríficos, depósitos de reserva de água e tratamento das águas residuais domésticas.
+
+Às unidades a que respeita este capítulo aplica-se o disposto nos artigos 23.º a 27.º
+
+###### Artigo 43.º — Fornecimento de energia eléctrica em situações de emergência
+
+Sem prejuízo do disposto na legislação em vigor, a unidade deve possuir condições próprias que permitam o seu funcionamento em situações de emergência, designadamente no que diz respeito aos sistemas de iluminação de emergência, central telefónica e sistema de segurança.
+
+###### Artigo 44.º — Destino final dos resíduos
+
+Às unidades a que respeita o presente capítulo aplica-se o disposto no artigo 22.º
+
+#### Secção II — Organização e funcionamento
+
+###### Artigo 45.º — Direcção técnica
+
+1 - A direção técnica das unidades é assumida por profissional de saúde com habilitação e formação adequadas ao exercício da função, e supervisão de um médico psiquiatra.
+
+2 - O director técnico tem a responsabilidade da definição e execução do programa terapêutico.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 46.º — Pessoal
+
+1 - As unidades devem dispor de um médico responsável pela vigilância da saúde dos utentes, pela continuidade dos tratamentos prévios à admissão, bem como pelo encaminhamento dos utentes para outras estruturas de saúde, quando necessário.
+
+2 - As unidades devem assegurar, no funcionamento dos seus serviços, a presença física e permanente de profissionais de saúde e pessoal técnico devidamente habilitados e com formação adequada, em número necessário para as atividades a desenvolver.
+
+3 - Sempre que solicitado pelas entidades competentes, as unidades devem facultar a relação do seu pessoal, incluindo as respectivas categorias profissionais, habilitações, descrição de funções e escalas de serviço.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 47.º — Normas de funcionamento
+
+1 - Sem prejuízo do disposto no presente diploma, o funcionamento das unidades a que se refere o presente capítulo carece da existência de apoio de médico psiquiatra.
+
+2 - São requisitos para a admissão de utentes:
+
+a) A sua prévia avaliação médica e psiquiátrica, que deverá constar no registo do seu processo clínico;
+
+b) A sua declaração expressa de opção de internamento, bem como do seu conhecimento do regulamento interno e programa terapêutico da unidade.
+
+###### Artigo 48.º
+
+Registos e processos clínicos, seguro de actividade, regulamento interno e tabela de preços, livro de reclamações
+
+Às unidades a que respeita este capítulo aplica-se o disposto nos artigos 31.º a 34.º
+
+## Título III — Unidades de ambulatório
+
+### Capítulo I — Centros de consultas
+
+#### Secção I — Instalações
+
+###### Artigo 49.º — Meio físico e normas genéricas de construção
+
+Às unidades a que respeita este capítulo aplica-se o disposto nos artigos 9.º e 12.º
+
+###### Artigo 50.º — Salas e apoios
+
+1 - As unidades devem dispor de salas de consulta com área mínima de 10 m2 e a largura mínima de 2,60 m.
+
+2 - As unidades devem, igualmente, dispor de sala de espera, receção e instalações sanitárias para os utentes, com portas a abrir para o exterior ou de correr, com puxadores redondos e de fácil abertura pelo pessoal, adaptadas à utilização por pessoas com mobilidade condicionada, com sistema de chamada de emergência por botoneira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+#### Secção II — Organização e funcionamento
+
+###### Artigo 51.º
+
+Registos e processos clínicos, seguro de actividade, regulamento interno e tabela de preços, livro de reclamações
+
+Às unidades previstas neste capítulo aplica-se, com as necessárias adaptações, o disposto nos artigos 31.º a 34.º
+
+###### Artigo 52.º — Direcção técnica e pessoal
+
+1 - A direção técnica das unidades é assumida por profissional de saúde com habilitação e formação adequadas ao exercício da função.
+
+2-As unidades devem dispor de equipas constituídas por médicos, psicólogos e outros técnicos de saúde, sob a supervisão de um psiquiatra.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+### Capítulo II — Centros de dia
+
+#### Secção I — Instalações
+
+###### Artigo 53.º — Meio físico, instalação e normas genéricas de construção
+
+Às unidades a que respeita este capítulo aplica-se o disposto nos artigos 9.º, 10.º e 12.º
+
+###### Artigo 54.º — Gabinetes, salas e apoios
+
+1 - As unidades devem dispor de gabinetes destinados a locais de trabalho dos técnicos e demais profissionais, bem como à receção e atendimento de utentes e familiares.
+
+2 - A área mínima de cada um dos gabinetes referidos no número anterior deve ser de 10 m2.
+
+3 - As unidades devem possuir uma sala destinada a actividades ocupacionais diversificadas.
+
+4 - Em cada sessão de atividades, a taxa de ocupação da sala referida no número anterior não pode ser inferior a uma área de 2 m2 por utente.
+
+5 - Devem ainda existir instalações sanitárias distintas para utentes e pessoal, adaptadas à utilização por pessoas com mobilidade condicionada e sistema de chamada de emergência.
+
+6 - As instalações sanitárias para utentes devem ser separadas por género, com portas a abrir para o exterior ou de correr, com puxadores redondos e de fácil abertura pelo pessoal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+#### Secção II — Organização e funcionamento
+
+###### Artigo 55.º — Direcção técnica e pessoal
+
+As unidades devem dispor de responsáveis técnicos com habilitação e formação adequada na área da psicologia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 56.º
+
+Registos e processos clínicos, seguro de actividade, regulamento interno e tabela de preços, livro de reclamações
+
+Às unidades previstas neste capítulo aplica-se, com as necessárias adaptações, o disposto nos artigos 31.º a 34.º
+
+## Título IV — Licenciamento, fiscalização e sanções
+
+###### Artigo 57.º — Licenciamento
+
+1 - O funcionamento das unidades a que se refere o presente diploma depende da atribuição de uma licença obtida mediante procedimento simplificado, no caso das unidades de ambulatório previstas no n.º 3 do artigo 3.º, ou mediante procedimento ordinário, nos restantes casos.
+
+2 - A licença referida no número anterior fixa os serviços que o seu titular fica autorizado a prestar, com indicação do tipo e lotação da unidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 57.º-A — Licenciamento, fiscalização e contraordenações
+
+Ao licenciamento, fiscalização e contraordenações é aplicável o regime estabelecido nos artigos 4.º a 21.º e 23.º do Decreto-Lei n.º 127/2014, de 22 de agosto, considerando-se a referência feita à 'portaria do membro do Governo responsável pela área da saúde', no n.º 1 do artigo 2.º do diploma mencionado, como uma remissão para o presente diploma, quando se trate de unidades privadas que atuem na área do tratamento ou da recuperação de comportamentos aditivos e dependências.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 58.º — Remissão
+
+Para efeitos do disposto no presente diploma, aplicam-se, com as necessárias adaptações, os artigos 5.º a 12.º do Decreto-Lei n.º 13/93, de 15 de Janeiro, com excepção do n.º 2 do seu artigo 7.º e do artigo 9.º, entendendo-se as referências nele feitas à DGS como sendo feitas ao SPTT.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 59.º — Vistoria
+
+1 - A atribuição da licença de funcionamento é precedida de uma vistoria a efectuar pelos serviços competentes do SPTT, com a colaboração de técnicos da DGS.
+
+2 - Efectuada a vistoria a que se refere o número anterior, deve o SPTT remeter o pedido devidamente instruído e informado ao Ministro da Saúde.
+
+3 - Sempre que o desejem, podem as unidades solicitar ao SPTT vistorias eventuais para obter os respectivos pareceres técnicos do serviço.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 60.º — Fiscalização
+
+1 - Sem prejuízo das atribuições e competências legalmente atribuídas a outras entidades, compete ao SPTT, com a colaboração da DGS, fiscalizar a observância das disposições constantes do presente diploma.
+
+2 - A fim de exercer as competências a que se refere o número anterior, pode o SPTT recorrer, sempre que necessário, à colaboração da Inspecção-Geral da Saúde ou a peritos especialmente qualificados.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 61.º — Suspensão e revogação da licença e autorização de reabertura
+
+À suspensão e revogação da licença e à autorização de reabertura aplica-se o disposto nos artigos 14.º a 17.º do Decreto-Lei n.º 13/93, de 15 de Janeiro, considerando-se as referências à DGS e ao director-geral da Saúde como sendo feitas, respectivamente, ao SPTT e ao seu conselho de administração.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 62.º — Contra-ordenações
+
+1 - Constituem contra-ordenações puníveis com coima de 1000000$00 a 6000000$00, aplicável às unidades privadas de saúde abrangidas pelo presente diploma, as seguintes infracções:
+
+a) A violação do disposto nos n.os 1 e 2 do artigo 57.º;
+
+b) A falta de meios humanos e materiais exigíveis segundo as leges artis para o funcionamento das unidades;
+
+c) A violação do disposto no n.º 4 do artigo 3.º;
+
+d) A violação do disposto nos n.os 3, 4 e 6 do artigo 7.º
+
+2 - Constituem contra-ordenações puníveis com coima de 500000$00 a 3000000$00, aplicável às unidades privadas de saúde abrangidas pelo presente diploma, as seguintes infracções:
+
+a) O funcionamento das unidades que não disponham do respectivo regulamento interno, tabela de preços e ou livro de reclamações;
+
+b) A falta de notificação ao SPTT, no prazo de 30 dias, sobre a transferência da titularidade ou da cessão de exploração total ou parcial da unidade de saúde, bem como as alterações das suas estruturas.
+
+3 - Sendo o titular da unidade privada de saúde pessoa singular, os montantes máximos das coimas previstas nos números anteriores são reduzidos a 750000$00.
+
+4 - A negligência é punível.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 63.º — Aplicação e destino das coimas
+
+1 - A instrução dos processos de contra-ordenação compete ao SPTT e a aplicação das coimas ao conselho de administração.
+
+2 - O produto das coimas reverte:
+
+a) Em 60% para o Estado;
+
+b) Em 40% para o SPTT.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+###### Artigo 64.º — Emolumentos
+
+Os emolumentos devidos ao SPTT pelos actos relativos ao licenciamento, remodelação e alargamento da capacidade e vistorias das unidades abrangidas pelo presente diploma são fixados por portaria do Ministro da Saúde.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+## Título V — Disposições finais
+
+###### Artigo 65.º — Norma revogatória
+
+São revogados o Decreto Regulamentar n.º 42/93, de 27 de Novembro, e o despacho do Ministro da Saúde n.º 21/95, de 30 de Agosto.
+
+###### Artigo 66.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1998. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa.
+
+Promulgado em 12 de Janeiro de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 15 de Janeiro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo I
+
+Instalações e equipamentos mínimos a considerar nas áreas ou unidades de internamento para desabituação e seus apoios, para os efeitos, designadamente, do n.º 2 do artigo 14.º
+
+1 - Instalações:
+
+1.1 - Por área ou unidade funcional de internamento de utentes, são consideradas as seguintes estruturas:
+
+1.1.1 - Gabinete de enfermagem e ou técnicos com área mínima de 10 m2 e boa visibilidade para o corredor da unidade;
+
+1.1.2 - Sala de observação e de tratamento, na área dos quartos, com área mínima de 12 m2 e largura mínima de 3 m, dispensável quando na unidade só existam quartos individuais;
+
+1.1.3 - Instalações sanitárias para utentes:
+
+a) Separadas por género;
+
+b) Adaptadas à utilização por pessoas com mobilidade condicionada;
+
+c) Com as portas a abrir para o exterior ou de correr;
+
+d) Com puxadores redondos;
+
+e) Cortadas a 30 cm do pavimento;
+
+f) Com fechaduras de fácil abertura pelo pessoal;
+
+g) Sistema de chamada de emergência por botoneira;
+
+h) Espelhos inquebráveis;
+
+i) Zona de duche com ralo no pavimento.
+
+1.1.4 - Instalações sanitárias para o pessoal;
+
+1.1.5 - Sempre que não forem centralizados, devem ser considerados vestiários de pessoal com instalações sanitárias próprias;
+
+1.1.6 - Área de sujos e despejos;
+
+1.1.7 - Copa, com área mínima de 8 m2 por unidade de 25 camas;
+
+1.1.8 - Refeitório, com área mínima de 2 m2 por utente para utilização em simultâneo de, no mínimo, 50 % dos utentes, dispensável quando na mesma só existam quartos individuais;
+
+1.1.9 - Sala de estar para utentes, com área mínima de 2 m2 por utente, para uma utilização em simultâneo de, no mínimo, 50 % dos utentes;
+
+1.2 - Os quartos de internamento de utentes devem obedecer aos seguintes requisitos:
+
+1.2.1 - Quartos com uma ou mais camas, sendo obrigatória a existência de, pelo menos, 15 % de quartos individuais na unidade;
+
+1.2.2 - Nos quartos de uma, duas, três ou quatro camas, as áreas mínimas úteis são, respectivamente, de 12 m2, 18 m2, 24 m2 e 30 m2, com a largura mínima de 3,50 m nos quartos múltiplos;
+
+1.2.3 - Os quartos devem ter arejamento e iluminação naturais e exposição direta ao sol, em condições satisfatórias e, simultaneamente, permitir o seu completo obscurecimento através de comando interno elétrico;
+
+1.2.4 - As portas das divisões que possam ser utilizadas por utentes não podem ser trancadas por dentro;
+
+1.2.5 - As janelas devem ser concebidas de modo a salvaguardar a integridade física dos utentes, nomea-damente através da instalação de vidros inquebráveis e sistemas de ventilação basculantes.
+
+2 - Equipamentos:
+
+2.1 - Equipamento técnico e geral:
+
+2.1.1 - Os quartos devem dispor de sistemas de chamada de enfermeiro por botoneira, um por cama;
+
+2.1.2 - Cada quarto deverá dispor, no mínimo, de uma tomada de corrente de segurança por cama;
+
+2.1.3 - As camas devem dispor de uma fonte de luz à cabeceira;
+
+2.1.4 - Equipamento geral de apoio;
+
+2.1.5 - Todo o equipamento dos quartos deve ser concebido de modo a não apresentar risco para a integridade física dos utentes eventualmente agitados e ou confusos e dos profissionais, nomeadamente através da eliminação de arestas vivas e pontiagudas e objetos corto-perfurantes;
+
+2.2 - Equipamento médico:
+
+2.2.1 - Electrocardiógrafo, afecto às diferentes áreas de internamento;
+
+2.2.2 - Cada área ou unidade de internamento deve ter imediato acesso a um carro de emergência apetrechado com desfibrilhador, bala de oxigénio e equipamento de insuflação manual e demais equipamentos previstos em normas técnicas específicas, tais como estetoscópio e esfigmomanómetro.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+## Anexo II
+
+Requisitos mínimos das unidades de ar condicionado e condições ambientais a considerar, para os efeitos do n.º 2 do artigo 20.º
+
+1 - Temperatura do termómetro seco: 20ºC a 24ºC.
+
+2 - Humidade relativa: 50%.
+
+3 - Nível de ruído: 35 NC.
+
+4 - Nas salas de apoio com eventual produção de ambientes poluídos, devem ser aplicados sistemas de extração forçada de ar.
+
+5 - É obrigatório prever sistemas de extração generalizados.
+
+6 - O sistema de 'sujos' deve ser independente do de 'limpos'.
+
+> Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+## Anexo III — Requisitos mínimos a considerar no reprocessamento de dispositivos médicos e outros materiais, para efeitos do n.º 2 do artigo 21.º
+
+1 - Para a obtenção de artigos esterilizados, devem adotar-se as seguintes modalidades:
+
+1.1 - Utilização exclusiva de artigos descartáveis (não podem ser reprocessados para utilização posterior).
+
+1.2 - Utilização de artigos esterilizados em entidade externa certificada.
+
+1.3 - Utilização de artigos esterilizados em serviço interno de esterilização para uma parte ou a totalidade das necessidades da unidade de saúde. Em caso de esterilização pelo serviço interno de apenas uma parte do material, o restante deve ser obtido com recurso às opções descritas em 1.1 e 1.2.
+
+2 - Requisitos especiais:
+
+2.1 - Todos os dispositivos potencialmente contaminados são manipulados, recolhidos e transportados em condições de segurança, em caixas ou carros fechados, para a área de descontaminação de forma a evitar o risco de contaminação dos circuitos envolventes de doentes e pessoal.
+
+2.2 - O serviço interno de esterilização deve satisfazer os normativos em vigor com vista a assegurar o cumprimento das seguintes fases:
+
+a) Recolha de instrumentos ou dispositivos médicos;
+
+b) Limpeza e descontaminação;
+
+c) Triagem, montagem e embalagem;
+
+d) Esterilização em autoclave validada e mantida de acordo com a legislação nacional, adaptado às necessidades do serviço e ao tipo de técnicas utilizadas.
+
+> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+## Anexo IV — Equipamento mínimo a considerar na confecção da alimentação nas unidades, para os efeitos dos n.os 2 e 3 do artigo 23.º
+
+1 - Equipamento mínimo:
+
+(ver documento original)
+
+2 - Outros requisitos:
+
+2.1 - As unidades com internamento com atendimento de doentes portadores de doenças infetocontagiosas devem possuir máquina de lavar louça com programa de desinfeção.
+
+2.2 - O equipamento descrito, bem como as respetivas bancadas de apoio, tem de ser construído em material que garanta as necessárias condições higiénicas, de acordo com a legislação em vigor.
+
+2.3 - O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina.
+
+> Alterado pelo/a Anexo IV do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+## Anexo V
+
+Equipamentos mínimos a considerar na lavagem e tratamento de roupa, nas unidades, para os efeitos dos n.os 2 e 3 do artigo 24.º
+
+1 - Unidades com lavagem e engomagem da roupa utilizada:
+
+a) Máquina de lavar roupa com programa de desinfecção térmica;
+
+b) Secador;
+
+c) Ferro de engomar, do tipo industrial, com produção de vapor;
+
+d) Tábua de engomar do tipo industrial.
+
+2 - Unidades que não procedam à lavagem e tratamento da roupa utilizada:
+
+a) Máquina de lavar roupa do tipo doméstico;
+
+b) Ferro de engomar com produção de vapor;
+
+c) Tábua de engomar.
+
+## Anexo V — Equipamentos mínimos a considerar na lavagem e tratamento de roupa, nas unidades, para os efeitos dos n.os 2 e 3 do artigo 24.º
+
+1 - Unidades com lavagem e engomagem da roupa utilizada:
+
+a) Máquina de lavar roupa com programa de desinfeção térmica;
+
+b) Secador;
+
+c) Ferro de engomar, do tipo industrial, com produção de vapor;
+
+d) Tábua de engomar do tipo industrial.
+
+2 - Unidades que não procedam à lavagem e tratamento da roupa utilizada:
+
+a) Máquina de lavar roupa do tipo doméstico;
+
+b) Ferro de engomar com produção de vapor;
+
+c) Tábua de engomar.
+
+> Republicado pelo/a Anexo V do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09
+
+## Anexo VI — Equipamentos frigoríficos mínimos a considerar nas unidades, para os efeitos dos n.os 1 e 2 do artigo 25.º
+
+1 - Unidades que assegurem a confecção da alimentação:
+
+1.1 - Câmaras ou arcas frigoríficas independentes para carne, peixe e outros;
+
+1.2 - As capacidades das câmaras ou arcas frigoríficas devem estar em conformidade com a dimensão das unidades;
+
+1.3 - As temperaturas e os graus de humidade das câmaras ou arcas frigoríficas devem estar em conformidade com o normalmente praticado em idênticas situações.
+
+2 - Unidades que não assegurem a confecção de alimentação:
+
+2.1 - Frigorífico do tipo doméstico, com a capacidade mínima de 300 l e congelador independente.
+
+> Alterado pelo/a Anexo VI do/a [Decreto-Lei n.º 74/2016 - Diário da República n.º 214/2016, Série I de 2016-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2016-75688298), em vigor a partir de 2016-11-09

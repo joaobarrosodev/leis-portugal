@@ -1,0 +1,559 @@
+---
+schema_version: '1.0'
+id: pt:dre:75216371:por
+title: Decreto-Lei n.º 57/2016
+short_title: null
+summary: Aprova um regime de contratação de doutorados destinado a estimular o emprego científico e tecnológico em todas as
+  áreas do conhecimento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ciência, Tecnologia e Ensino Superior
+proposing_entity: null
+official_number: 57/2016
+official_date: null
+publication_date: '2016-08-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 165/2016, Série I de 2016-08-29
+  number: '165'
+  series: I
+  supplement: null
+  pages: 3000 - 3006
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/08/16500/0300003006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-07-24'
+version_history:
+  file: decreto-lei-57-2016.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-08-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-07-24'
+    amending: pt:dre:107709503:por
+    amending_title: Lei n.º 57/2017
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 15.º
+    - Altera Artigo 23.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/57/2016/p/cons/20170719/pt/html
+  oj: null
+  dre: '75216371'
+  dre_path: /dr/detalhe/decreto-lei/57-2016-75216371
+  internal: pt:dre:75216371:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-2016-75216371
+  metadata_url: https://data.dre.pt/eli/dec-lei/57/2016/p/cons/20170719/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-107707370
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-107707370
+  retrieved_at: '2026-10-22T12:12:21Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 588cda5ded56013b3f89b1bc660428bba8c5dd037073bc6ed90745e5df844450
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:12:21Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-57-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Investigação Científica e Tecnológica
+- Sistema Científico e Tecnológico Nacional
+- Fundação para a Ciência e a Tecnologia
+- Contratação de Docentes
+- Regime Laboral
+- Doutoramento
+- Recrutamento de Pessoal
+- Contratação de Pessoal
+- Carreira Docente Universitária
+- Pessoal Docente
+- Contrato de Trabalho
+- Regime Jurídico
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:107709503:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 15.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/57-2017-107709503
+  date: '2017-07-19'
+- type: cites
+  target: pt:dre:174557:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2012/08/27/p/dre
+- type: cites
+  target: pt:dre:220171:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/91/2005/06/03/p/dre
+- type: cites
+  target: pt:dre:25676932:por
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: pt:dre:258166:por
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2013/01/29/p/dre
+- type: cites
+  target: pt:dre:480705:por
+  label: null
+  source: http://data.dre.pt/eli/lei/40/2004/08/18/p/dre
+- type: cites
+  target: pt:dre:534998:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/125/1999/04/20/p/dre
+- type: cites
+  target: pt:dre:640339:por
+  label: null
+  source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+- type: cites
+  target: pt:dre:66016527:por
+  label: null
+  source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: pt:dre:69968702:por
+  label: null
+  source: http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+- type: cites
+  target: pt:dre:74738647:por
+  label: null
+  source: http://data.dre.pt/eli/lei/18/2016/06/20/p/dre
+article_structure:
+  article_count: 26
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:12:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 57/2016
+
+Decreto-Lei n.º 57/2016
+
+de 29 de agosto
+
+A aposta no conhecimento constitui um desígnio central do programa do XXI Governo Constitucional e do Programa Nacional de Reformas, refletindo a relevância que o emprego científico assume na sociedade portuguesa.
+
+O investimento no conhecimento, como comprovado nos últimos quarenta anos em Portugal, é um pilar essencial do sucesso do desenvolvimento científico e tecnológico de um país, devendo traduzir-se numa política pública inequivocamente orientada no sentido de estimular a crescente afirmação e reconhecimento da qualificação avançada e do emprego de recursos humanos no plano nacional e internacional, em sintonia com a importância das atividades docente e de investigação.
+
+Neste sentido, há que reconhecer que o investimento em recursos humanos dedicados à atividade científica é fundamental para garantir o aumento da qualificação da população e do emprego científico em Portugal, de modo a retomar um processo de convergência progressiva com a Europa.
+
+A atração e a fixação de recursos humanos qualificados, incluindo o estímulo à abertura de oportunidades de emprego e o desenvolvimento de percursos profissionais de doutorados, juntamente com a promoção do rejuvenescimento dos recursos humanos das entidades que integram o Sistema Científico e Tecnológico Nacional (SCTN), são propósitos fundamentais do compromisso de Portugal com o conhecimento.
+
+Assim, em cumprimento do seu programa e do Programa Nacional de Reformas, o XXI Governo Constitucional mantém a atribuição de bolsas de pós-doutoramento exclusivamente para formação avançada, nos temos do Estatuto do Bolseiro de Investigação Científica, e adota um regime jurídico de estímulo à contratação de investigadores doutorados, que visa reforçar o emprego científico, bem como potenciar o impacto da investigação científica no ensino superior e promover uma estreita articulação entre as atividades de investigação e desenvolvimento e as atividades de ensino, de promoção do conhecimento e de divulgação de ciência.
+
+Tal como consta no programa do Governo, a realização de contratos para investigadores doutorados será feita de forma progressiva ao longo da legislatura, acompanhada de outros estímulos para além daquele que é objeto do presente diploma. Nesse sentido, o reforço do emprego científico será apoiado em diversos instrumentos, entre os quais se destacam os novos critérios de avaliação das unidades de investigação e desenvolvimento (I&D) e a possibilidade de contratação por parte das instituições de ensino superior, não se reduzindo essa política unicamente ao mecanismo agora aprovado.
+
+Estabelece-se, desde já, a obrigatoriedade de abertura de procedimentos concursais para a contratação de doutorados nas instituições públicas, ou dotadas de financiamento público, em que os bolseiros de pós-doutoramento exerçam funções há mais de três anos, seguidos ou interpolados. No entanto, também aqui o impacto do presente diploma não se esgota neste mecanismo transitório. Ao tornar a contratação no regime regra para a constituição destes vínculos, associada à implementação dos estímulos adequados, a médio prazo o novo regime de emprego científico visa abranger todos os investigadores doutorados que já não se encontrem em período de formação.
+
+De forma a potenciar a confiança no SCTN, estabelecem-se processos de avaliação exigentes, privilegiando a avaliação por pares com base na discussão aprofundada dos conteúdos e resultados da atividade científica, com observância de padrões internacionais e respeito por regras claras e transparentes reconhecidas pela comunidade científica.
+
+Assume-se, pois, o preconizado em memorandos e documentos internacionais de relevo - como a Carta Europeia do Investigador e o Código de Conduta para o Recrutamento de Investigadores a que se refere a Recomendação da Comissão Europeia de 11 de março de 2005; a Declaração de São Francisco da American Society for Cell Biology, sobre a avaliação da atividade de investigação e desenvolvimento, de dezembro de 2012; as Recomendações da Comissão sobre Autorregulação Profissional em Ciência da Deutsche Forschungsgemeinschaft, de setembro de 2013; e o Manifesto de Leiden sobre a utilização de métricas na avaliação científica, de abril de 2015 - por forma a consolidar na sociedade portuguesa o entendimento de que o conteúdo das publicações científicas e a sua apropriação académica, científica, social ou económica, é muito mais importante do que as métricas de publicação ou a sua apreciação em função das entidades que as publicaram.
+
+Este regime visa, assim, contribuir para: (i) a afirmação de um contexto organizativo versátil e aberto à inovação, capaz de proporcionar a estabilidade institucional e financeira essencial ao bom funcionamento das instituições; (ii) a renovação contínua da comunidade científica, assegurando um equilíbrio entre transição geracional e a manutenção do capital humano instalado, no quadro dos estatutos das carreiras docente e de investigação científica; (iii) a articulação entre as entidades do SCTN e o tecido económico e produtivo, reforçando o emprego científico, nomeadamente em «Laboratórios Colaborativos» que assumam a forma de colaborações institucionais.
+
+Por outro lado, num contexto de reconhecida exigência e grande contenção orçamental, estimula-se, ainda, a corresponsabilização da comunidade e das instituições científicas e académicas no desenvolvimento do país, designadamente através da criação de consórcios, do incentivo à partilha de recursos materiais de instituições próximas e da captação de receitas pelas instituições académicas e científicas para facilitar a contratação de jovens doutorados, propósito que deve prevalecer sobre a rivalidade académica e a competição, ainda que saudável, entre instituições que atuam na mesma área científica.
+
+Deste modo, no âmbito do apoio à modernização progressiva do sistema de ensino superior e no contexto do reforço, valorização e capacitação do ensino politécnico, pretende-se contribuir para a promoção das atividades de investigação, valorizando, entre outras, a da investigação baseada na prática, por forma a contribuir para que o país recupere a sua atratividade para captar jovens altamente qualificados.
+
+Atenta a indispensabilidade do reforço do investimento em ciência e tecnologia para a qualificação do setor público, visa-se, também, contribuir para dotar os serviços e organismos públicos, incluindo os Laboratórios do Estado, de profissionais mais qualificados, formalizando o emprego científico após o doutoramento e provando que o rejuvenescimento das instituições, o combate à precariedade laboral e a promoção da segurança e justiça no trabalho podem ser compatibilizadas, na esteira das melhores práticas internacionais.
+
+Pretende-se, por último, contribuir para o reforço dos atuais centros de interface e de transferência de conhecimento, incluindo os Centros Tecnológicos e de Engenharia, ou outro tipo de «Laboratórios Colaborativos», criados e desenvolvidos com o intuito de incentivar a cooperação entre as instituições científicas e de ensino superior e o tecido produtivo, promovendo o emprego qualificado gerador de valor social e económico, e mobilizador da capacidade de produção industrial.
+
+Em paralelo com as medidas agora tomadas, serão desenvolvidos, no quadro do Programa Nacional de Reformas, os mecanismos adequados ao estímulo para a inserção de doutorados no tecido produtivo.
+
+Refira-se ainda que, com o presente diploma, reforçam-se as condições de estabilidade e previsibilidade para os investigadores doutorados, já que os contratos de trabalho têm o seu horizonte temporal alargado para seis anos, face aos apenas cinco do programa Investigador FCT.
+
+Para além do estabelecimento de vínculos laborais mais prolongados, este novo mecanismo admite um leque mais vasto de níveis remuneratórios, o que torna os contratos mais acessíveis a um maior conjunto de investigadores. Ao contrário do que sucedia no programa Investigador FCT, em que os níveis remuneratórios limitavam o número de contratos atribuídos e se encontravam indexados ao estabelecido no Estatuto da Carreira de Investigação Científica, criando uma verdadeira carreira paralela, o presente diploma apresenta níveis remuneratórios mais flexíveis, que favorecem a contratação de investigadores mais jovens.
+
+No quadro da criação de estímulos adicionais para a contratação de doutorados, a Fundação para a Ciência e a Tecnologia, I. P., passa a considerar um novo enquadramento, mais rigoroso, do processo de atribuição de bolsas de pós-doutoramento e de gestão de ciência e tecnologia, no âmbito da aprovação dos respetivos regulamentos, bem como a valorizar a contratação como modalidade principal de recrutamento de investigadores doutorados, no âmbito do processo de avaliação das unidades de I&D.
+
+Foram ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos, a Associação Portuguesa do Ensino Superior Privado, o Fórum dos Laboratórios do Estado, o Conselho dos Laboratórios Associados, a Associação Nacional dos Investigadores de Ciência e Tecnologia, a Associação dos Bolseiros de Investigação Científica e a Associação Portuguesa das Mulheres Cientistas.
+
+Foram observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, e alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei aprova um regime de contratação de doutorados destinado a estimular o emprego científico e tecnológico em todas as áreas do conhecimento, a promover o rejuvenescimento das instituições que integram o Sistema Científico e Tecnológico Nacional (SCTN), bem como a valorizar as atividades de investigação científica, de desenvolvimento tecnológico, de gestão e de comunicação de ciência e tecnologia nessas instituições.
+
+###### Artigo 2.º — Âmbito
+
+1 - O regime aprovado pelo presente decreto-lei aplica-se à contratação a termo resolutivo de doutorados para o exercício de atividades de investigação científica, de desenvolvimento tecnológico, de gestão e de comunicação de ciência e tecnologia em instituições do SCTN, tendo em vista o desenvolvimento estratégico das mesmas e o reforço do investimento em ciência e tecnologia.
+
+2 - No caso das instituições privadas, o presente decreto-lei aplica-se apenas aos casos em que a contratação de doutorados é financiada:
+
+a) Pela Fundação para a Ciência e a Tecnologia, I. P. (FCT, I. P.), com base em recursos financeiros nacionais ou europeus;
+
+b) Por outras agências públicas nacionais de financiamento, com base em recursos financeiros nacionais ou europeus;
+
+c) Através de cofinanciamento por recursos financeiros nacionais;
+
+d) Por outros recursos públicos nacionais.
+
+###### Artigo 3.º — Instituições do Sistema Científico e Tecnológico Nacional
+
+Para efeitos de aplicação do presente decreto-lei, consideram-se instituições do SCTN as seguintes:
+
+a) Os Laboratórios do Estado;
+
+b) As outras instituições públicas de investigação a que se refere o artigo 4.º do Decreto-Lei n.º 125/99, de 20 de abril, alterado pelo Decreto-Lei n.º 91/2005, de 3 de junho, quer tenham ou não o estatuto de laboratório associado;
+
+c) As instituições privadas de investigação a que se refere o artigo 5.º do Decreto-Lei n.º 125/99, de 20 de abril, alterado pelo Decreto-Lei n.º 91/2005, de 3 de junho, quer tenham ou não o estatuto de laboratório associado;
+
+d) As instituições de ensino superior públicas, incluindo as de natureza fundacional a que se refere o artigo 129.º da Lei n.º 62/2007, de 10 de setembro, que estabeleceu o regime jurídico das instituições de ensino superior;
+
+e) Os estabelecimentos de ensino superior privados;
+
+f) As empresas públicas e privadas, bem como outras instituições públicas e privadas sem fins lucrativos, que desenvolvam ou participem em atividades de investigação científica, de desenvolvimento tecnológico, ou de comunicação de ciência e tecnologia;
+
+g) A FCT, I. P.;
+
+h) A Direção-Geral do Ensino Superior.
+
+### Capítulo II — Recrutamento e contratação de doutorados
+
+#### Secção I — Disposições comuns
+
+###### Artigo 4.º — Seleção de doutorados
+
+O recrutamento de doutorados ao abrigo do presente decreto-lei é efetuado mediante procedimento concursal.
+
+###### Artigo 5.º — Critérios de seleção
+
+1 - A seleção dos doutorados a contratar ao abrigo do presente decreto-lei realiza-se através da avaliação do seu percurso científico e curricular.
+
+2 - A avaliação do percurso científico e curricular incide sobre a relevância, qualidade e atualidade:
+
+a) Da produção científica, tecnológica, cultural ou artística dos últimos cinco anos considerada mais relevante pelo candidato;
+
+b) Das atividades de investigação aplicada, ou baseada na prática, desenvolvidas nos últimos cinco anos e consideradas de maior impacto pelo candidato;
+
+c) Das atividades de extensão e de disseminação do conhecimento desenvolvidas nos últimos cinco anos, designadamente no contexto da promoção da cultura e das práticas científicas, consideradas de maior relevância pelo candidato;
+
+d) Das atividades de gestão de programas de ciência, tecnologia e inovação, ou da experiência na observação e monitorização do sistema científico e tecnológico ou do ensino superior, em Portugal ou no estrangeiro.
+
+3 - O período de cinco anos a que se refere o número anterior pode ser aumentado pelo júri, a pedido do candidato, quando fundamentado em suspensão da atividade científica por razões socialmente protegidas, nomeadamente, por motivos de licença de parentalidade, doença grave prolongada, e outras situações de indisponibilidade para o trabalho legalmente tuteladas.
+
+4 - Os critérios de avaliação devem respeitar os seguintes princípios, quando aplicáveis:
+
+a) Ser explícitos quanto à forma de proceder à avaliação do percurso científico e curricular dos candidatos;
+
+b) Não adotar procedimentos meramente quantitativos, baseados em indicadores, na contagem de publicações, ou no cálculo dos seus fatores de impacto cumulativo;
+
+c) Assumir que o conteúdo da produção científica é mais relevante que as métricas de publicação ou do que a entidade que a publicou;
+
+d) Considerar a qualidade intrínseca do conteúdo científico da atividade, selecionada pelo candidato, que deve ser alvo de apreciação pelo júri;
+
+e) Considerar a especificidade disciplinar.
+
+5 - O processo de avaliação pode incluir uma entrevista ou uma sessão de apresentação ou demonstração pública pelos candidatos, ou por uma parte dos candidatos a selecionar pelo júri, que se destina exclusivamente à clarificação de aspetos relacionados com os resultados da sua investigação e tem um peso máximo de 10 % do total da avaliação.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2017 - Diário da República n.º 138/2017, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/lei/57-2017-107709503), em vigor a partir de 2017-07-24
+
+###### Artigo 6.º — Modalidades de contratação
+
+1 - A contratação de doutorados ao abrigo do presente decreto-lei realiza-se através de:
+
+a) Contrato de trabalho em funções públicas a termo resolutivo certo, nos termos da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, e alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho, no caso de contratos a celebrar por entidades sujeitas ao regime de direito público;
+
+b) Contrato de trabalho a termo incerto, nos termos do Código do Trabalho, no caso de contratos a celebrar por entidades abrangidas pelo regime de direito privado.
+
+2 - Os contratos referidos na alínea a) do número anterior são celebrados pelo prazo de três anos, automaticamente renováveis por períodos de um ano até à duração máxima de seis anos, salvo se, e sem prejuízo de outras causas de cessação ou extinção legalmente previstas, o órgão científico da instituição contratante propuser a sua cessação com fundamento em avaliação desfavorável do trabalho desenvolvido pelo doutorado, realizada nos termos do regulamento em vigor na instituição contratante, a qual deve ser comunicada ao interessado até 90 dias antes do termo do contrato.
+
+3 - Os contratos a que alude a alínea b) do n.º 1 são celebrados pelo prazo máximo de seis anos, com fundamento na execução de serviço determinado, precisamente definido e não duradouro.
+
+4 - Nos casos em que na entidade contratante não exista órgão científico, o órgão executivo da instituição é competente para emitir a proposta prevista no n.º 2.
+
+5 - A instituição, em função do seu interesse estratégico, procede à abertura de procedimento concursal para categoria da carreira de investigação científica ou da carreira de docente do ensino superior, de acordo com as funções desempenhadas pelo contratado doutorado, até seis meses antes do termo do prazo de seis anos referido no n.º 2.
+
+6 - Independentemente do prazo a que alude o número anterior, as instituições podem, a todo o tempo, proceder à abertura de procedimento concursal nos termos legais.
+
+7 - O tempo de vigência dos contratos de trabalho celebrados ao abrigo do presente diploma é contabilizado para o preenchimento do período experimental exigido para a contratação por tempo indeterminado com vista ao exercício de funções de investigador ou docente, desde que cumprido na mesma área científica e instituição.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2017 - Diário da República n.º 138/2017, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/lei/57-2017-107709503), em vigor a partir de 2017-07-24
+
+###### Artigo 7.º — Regime de exercício de funções
+
+1 - O exercício de funções em instituições públicas pelos doutorados é efetuado, em regra, em regime de dedicação exclusiva, podendo, por opção do doutorado, realizar-se em regime de tempo integral.
+
+2 - Entende-se por regime de tempo integral aquele que corresponde à duração semanal do trabalho para a generalidade dos trabalhadores em regime de contrato de trabalho em funções públicas, de acordo com a LTFP, ou de contrato de trabalho, ao abrigo do Código do Trabalho, consoante o regime laboral aplicável na instituição contratante.
+
+3 - O regime de dedicação exclusiva implica a renúncia ao exercício de qualquer função ou atividade remunerada, pública ou privada, incluindo o exercício de profissão liberal.
+
+4 - Não prejudica o exercício de funções em regime de dedicação exclusiva a perceção de remunerações decorrentes de:
+
+a) Direitos de autor;
+
+b) Edição de publicações científicas;
+
+c) Direitos de propriedade industrial;
+
+d) Realização de seminários, conferências, palestras, cursos de formação profissional de curta duração e outras atividades análogas;
+
+e) Atividades de docência em instituições do ensino superior, com a concordância do próprio, a autorização prévia da instituição contratante e, se aplicável da unidade de investigação de acolhimento, e sem prejuízo do objeto do contrato, desde que não excedam um máximo de quatro horas por semana e um valor médio anual de três horas semanais por semestre, não podendo ainda abranger a responsabilidade exclusiva por cursos ou unidades curriculares;
+
+f) Elaboração de estudos ou emissão de pareceres solicitados pelo Governo ou no âmbito de estruturas criadas ou de comissões ou grupos de trabalho constituídos por aquele, ou solicitados por entidades públicas ou privadas, a nível nacional ou internacional;
+
+g) Participação em júris e comissões de avaliação.
+
+###### Artigo 8.º — Deveres da instituição contratante
+
+Sem prejuízo de outras obrigações, as instituições contratantes devem:
+
+a) Integrar a atividade do doutorado no âmbito da política académica, científica e tecnológica da instituição;
+
+b) Garantir as condições técnicas e logísticas necessárias para que o doutorado possa desenvolver as suas atividades de acordo com o projeto de investigação científica ou o plano de trabalhos em que for integrado;
+
+c) Respeitar a autonomia científica e técnica do doutorado;
+
+d) Comunicar, atempadamente, ao doutorado, as regras de funcionamento da instituição e demais condições de exercício das funções;
+
+e) Adotar, no que se refere à higiene, segurança e saúde no trabalho, as medidas que decorram, para a instituição ou para a atividade, da aplicação das prescrições legais e convencionais vigentes;
+
+f) Definir contratualmente com o doutorado as condições referentes a direitos de propriedade intelectual e industrial, nos termos estabelecidos sobre a matéria no Estatuto da Carreira de Investigação Científica.
+
+g) Efetivar o direito dos doutorados de integrar os órgãos de gestão e científico das instituições;
+
+h) Cumprir os demais deveres decorrentes da legislação e regulamentos aplicáveis, bem como do respetivo contrato.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2017 - Diário da República n.º 138/2017, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/lei/57-2017-107709503), em vigor a partir de 2017-07-24
+
+###### Artigo 9.º — Deveres dos contratados
+
+Os doutorados contratados ao abrigo do presente decreto-lei devem:
+
+a) Cumprir o objeto fixado no respetivo contrato;
+
+b) Cumprir e respeitar as regras de funcionamento interno da instituição contratante;
+
+c) Utilizar e zelar pela conservação dos equipamentos e demais bens que lhes sejam confiados para efeitos do exercício das funções;
+
+d) Responder, atempadamente, às solicitações que lhe sejam dirigidas e facultar os documentos respeitantes à atividade contratada, sem prejuízo, quando aplicável, dos abrangidos pelo sigilo profissional;
+
+e) Manter a confidencialidade de toda a informação e dados a que tiver acesso e que sejam identificados como confidenciais pela instituição;
+
+f) Cumprir os demais deveres decorrentes da legislação e regulamentos aplicáveis, bem como do respetivo contrato.
+
+#### Secção II — Contratação por instituições públicas
+
+###### Artigo 10.º — Recrutamento
+
+O recrutamento de doutorados realizado por instituições públicas ao abrigo do presente diploma é efetuado mediante procedimento concursal de seleção internacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2017 - Diário da República n.º 138/2017, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/lei/57-2017-107709503), em vigor a partir de 2017-07-24
+
+###### Artigo 11.º — Abertura do procedimento concursal
+
+1 - A abertura do procedimento concursal é da responsabilidade:
+
+a) Do órgão legal e estatutariamente competente da instituição contratante;
+
+b) Da FCT, I. P.; ou
+
+c) De qualquer outra entidade financiadora de atividade científica e tecnológica.
+
+2 - A abertura do procedimento concursal é publicitada na 2.ª série do Diário da República, na bolsa de emprego público e nos sítios na Internet da instituição contratante e da FCT, I. P., nas línguas portuguesa e inglesa.
+
+###### Artigo 12.º — Candidatura
+
+1 - Ao procedimento concursal podem candidatar-se os doutorados nacionais, estrangeiros e apátridas que sejam detentores de um currículo científico e profissional que revele um perfil adequado à atividade a desenvolver.
+
+2 - No processo de candidatura, o candidato deve apresentar a informação a que se refere o n.º 2 do artigo 5.º, bem como a que seja adicionalmente fixada por regulamento aplicável e pelo aviso de abertura do procedimento concursal.
+
+###### Artigo 13.º — Júri
+
+1 - A apreciação das candidaturas é realizada por um júri nomeado pelo órgão legal e estatutariamente competente da instituição contratante, sob proposta da unidade de investigação de acolhimento do contratado, ou do investigador responsável pelo projeto que enquadra e financia o contrato.
+
+2 - Quando, nas situações previstas nas alíneas b) e c) do n.º 1 do artigo 11.º, a abertura do concurso não seja realizada pela instituição contratante, a nomeação do júri é realizada pelo órgão legalmente competente da instituição que procede à abertura do procedimento concursal.
+
+3 - O júri deve, obrigatoriamente:
+
+a) Ter o mínimo de três e o máximo de cinco membros;
+
+b) Integrar maioritariamente membros pertencentes à área científica para a qual é aberto o procedimento concursal ou a áreas afins relevantes no caso concreto.
+
+4 - A presidência do júri compete:
+
+a) Nos casos a que se refere a alínea a) do n.º 1 do artigo 11.º:
+
+i) Ao dirigente máximo da instituição contratante;
+
+ii) Ao dirigente da unidade de investigação de acolhimento do contratado ou a um investigador da mesma, por ele nomeado; ou
+
+iii) Ao investigador responsável pelo projeto que enquadra e financia o contrato;
+
+b) Nos casos a que se referem as alíneas b) e c) do n.º 1 do artigo 11.º, a quem seja nomeado pelo órgão legal e estatutariamente competente da instituição que procede à abertura do procedimento concursal.
+
+5 - O júri delibera através de votação nominal fundamentada de acordo com os critérios de seleção adotados e divulgados, não sendo permitidas abstenções.
+
+6 - As reuniões do júri, incluindo as destinadas à decisão final, podem ser realizadas por videoconferência.
+
+7 - Das reuniões do júri são lavradas atas, que contêm um resumo do que nelas houver ocorrido, bem como os votos emitidos por cada um dos membros e respetiva fundamentação.
+
+8 - Após conclusão da aplicação dos critérios de seleção, o júri deve proceder à elaboração de uma lista ordenada dos candidatos aprovados com a respetiva classificação.
+
+9 - O prazo de proferimento das decisões finais do júri não pode ser superior a 90 dias, contados a partir da data limite para a apresentação das candidaturas.
+
+###### Artigo 14.º — Decisão final
+
+1 - A homologação da deliberação final do júri é da competência do dirigente máximo da instituição responsável pela abertura do procedimento concursal.
+
+2 - A decisão final sobre a contratação é da competência do dirigente máximo da instituição contratante.
+
+3 - Todos os atos praticados no âmbito do procedimento concursal estão sujeitos a impugnação, nos termos gerais legalmente aplicáveis.
+
+###### Artigo 15.º — Níveis remuneratórios
+
+1 - Os contratos celebrados ao abrigo do presente diploma, incluindo os previstos no artigo 23.º, têm por referência os níveis remuneratórios das categorias constantes dos artigos 10.º, 11.º e 12.º do Estatuto da Carreira de Investigação Científica, aprovado pelo Decreto-Lei n.º 124/99, de 20 de abril, alterado pela Lei n.º 157/99, de 14 de setembro, e pelo Decreto-Lei n.º 373/99, de 18 de setembro, devendo o Governo proceder à respetiva regulamentação respeitando os seguintes critérios:
+
+a) O nível remuneratório inicial a aplicar tem como referência o nível 33 da Tabela Remuneratória Única;
+
+b) A determinação do nível remuneratório a aplicar não pode implicar perda de rendimento líquido mensal;
+
+c) A progressão do nível remuneratório, tendo em consideração o trabalho desenvolvido no decurso do contrato.
+
+2 - No aviso de abertura do procedimento concursal consta a categoria da carreira de investigação científica.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - Os doutorados que optem pelo regime de tempo integral, nos termos do artigo 7.º, auferem o montante correspondente a dois terços dos valores dos níveis remuneratórios a que se refere o n.º 1.
+
+6 - Caso os doutorados optem, durante a vigência do contrato de investigação, por mudar de regime de exercício de funções, têm obrigatoriamente que respeitar um mínimo de permanência de um ano no regime para o qual transitem.
+
+7 - Os contratos celebrados ao abrigo do presente decreto-lei encontram-se abrangidos pelas disposições que estabelecem as condições relativas às valorizações remuneratórias estabelecidas anualmente na lei que aprova o Orçamento do Estado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2017 - Diário da República n.º 138/2017, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/lei/57-2017-107709503), em vigor a partir de 2017-07-24
+
+###### Artigo 16.º — Pareceres e autorizações
+
+O procedimento concursal e a contratação a que alude a presente secção e cujos encargos onerem, exclusivamente, receitas transferidas da FCT, I. P., receitas próprias provenientes de programas, projetos e prestações de serviço e receitas de programas e projetos financiados ou cofinanciados por fundos europeus, estão dispensados:
+
+a) De autorização dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, designadamente a referida no n.º 3 do artigo 7.º da LTFP;
+
+b) Da obtenção do parecer prévio favorável dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública, referido no n.º 5 do artigo 30.º da LTFP;
+
+c) Do procedimento de recrutamento de trabalhadores em situação de requalificação, referido no artigo 265.º da LTFP.
+
+###### Artigo 17.º — Financiamento
+
+Os encargos resultantes dos contratos celebrados ao abrigo do presente decreto-lei oneram as dotações provenientes dos programas e projetos no âmbito dos quais são realizadas as contratações e, apenas na insuficiência destes, outras receitas próprias das entidades contratantes.
+
+#### Secção III — Contratação por instituições de ensino superior públicas de regime fundacional
+
+###### Artigo 18.º — Regime de contratação por instituições de ensino superior públicas de regime fundacional
+
+1 - O disposto nos artigos 11.º a 17.º é aplicável ao recrutamento e contratação de doutorados a termo resolutivo para o exercício de atividades de investigação científica, de desenvolvimento tecnológico e de comunicação de ciência e de tecnologia em instituições de ensino superior públicas de regime fundacional.
+
+2 - A contratação de doutorados a que se refere o número anterior realiza-se através de contrato de trabalho a termo incerto, nos termos do Código do Trabalho.
+
+3 - O nível remuneratório aplicável pode ser revisto, no sentido de um incremento positivo, após o decurso de três anos de contrato de trabalho a termo incerto, por comum acordo entre as partes, tendo em consideração o trabalho desenvolvido no decurso do contrato e os parâmetros a que se refere o n.º 2 do artigo 15.º
+
+#### Secção IV — Contratação por entidades privadas
+
+###### Artigo 19.º — Regime de contratação por entidades privadas
+
+1 - Com as necessárias adaptações, o disposto nos artigos 11.º a 15.º aplica-se ao recrutamento e contratação de doutorados a termo resolutivo para o exercício de atividades de investigação científica, de desenvolvimento tecnológico, de gestão e de comunicação de ciência e de tecnologia em instituições privadas do SCTN, no âmbito de projetos financiados nos termos previstos no n.º 2 do artigo 2.º
+
+2 - A contratação de doutorados a que se refere o número anterior realiza-se através de contrato de trabalho a termo incerto, nos termos do Código do Trabalho.
+
+3 - O nível remuneratório aplicável pode ser revisto, no sentido de um incremento positivo, após o decurso de três anos de contrato de trabalho a termo incerto, por comum acordo entre as partes, tendo em consideração o trabalho desenvolvido no decurso do contrato e os parâmetros a que se refere o n.º 2 do artigo 15.º
+
+### Capítulo III — Disposições finais e transitórias
+
+###### Artigo 20.º
+
+Programas e projetos financiados pela Fundação para a Ciência e a Tecnologia, I. P., ou por outra entidade financiadora
+
+O recrutamento e a contratação de doutorados para programas e projetos financiados pela FCT, I. P., ou por outra entidade financiadora de atividade científica e tecnológica são realizados nos termos deste decreto-lei e no respeito do que sobre essa matéria tenha sido fixado no contrato-programa que rege a atribuição do financiamento.
+
+###### Artigo 21.º — Legislação subsidiária
+
+A contratação ao abrigo do presente decreto-lei rege-se, em tudo o que nele não estiver expressamente previsto, pela legislação em vigor para os trabalhadores em regime de contrato de trabalho em funções públicas ou em regime de contrato de trabalho, ao abrigo do Código do Trabalho, consoante o regime laboral aplicável na instituição contratante.
+
+###### Artigo 22.º — Cômputo das remunerações totais dos trabalhadores
+
+Os encargos com os contratos celebrados pelas instituições públicas de ensino superior ao abrigo do presente decreto-lei para execução de programas, projetos e prestações de serviço no âmbito das respetivas missões e atribuições não são considerados para efeitos do cômputo do valor total das remunerações dos trabalhadores docentes e não docentes e investigadores e não investigadores das instituições de ensino superior em relação ao valor comparativo anualmente fixado pela lei que aprova o Orçamento do Estado, quando onerem exclusivamente receitas transferidas da FCT, I. P., receitas próprias provenientes de programas, projetos e prestações de serviço, ou receitas de programas e projetos financiados ou cofinanciados por fundos europeus.
+
+###### Artigo 23.º — Norma transitória
+
+1 - As instituições procedem, até 31 de dezembro de 2017 e até 31 de agosto de 2018, à abertura de dois procedimentos concursais para a contratação de doutorados, ao abrigo do presente regime, para o desempenho das funções realizadas por bolseiros doutorados que celebraram contratos de bolsa na sequência de concurso aberto ao abrigo do Estatuto do Bolseiro de Investigação, aprovado pela Lei n.º 40/2004, de 18 de agosto, alterada pelo Decreto-Lei n.º 202/2012, de 27 de agosto, pela Lei n.º 12/2013, de 29 de janeiro, e pelo Decreto-Lei n.º 89/2013, de 9 de julho, e que desempenham funções em instituições públicas há mais de três anos, seguidos ou interpolados, ou estejam a ser financiados por fundos públicos há mais de três anos, igualmente seguidos ou interpolados.
+
+2 - Os procedimentos concursais são realizados pelas instituições em que os bolseiros desempenham funções.
+
+3 - (Revogado.)
+
+4 - Os encargos resultantes das contratações de doutorados previstas no n.º 1, para o desempenho de funções que estivessem a ser exercidas por bolseiros doutorados financiados direta ou indiretamente pela FCT, I. P., há mais de três anos, seguidos ou interpolados, são suportados por esta, na sua totalidade e até ao termo dos contratos e das suas renovações, através de contrato a realizar com a instituição de acolhimento do bolseiro ou investigador, a qual passa a instituição contratante ao abrigo do presente diploma.
+
+5 - Se o contratado ao abrigo do n.º 1 não estiver nas condições referidas no n.º 4, após concurso em que tenha sido opositor um bolseiro doutorado financiado pela FCT, I. P., há mais de três anos, seguidos ou interpolados, esta assume os encargos da contratação durante o período referido no n.º 2 do artigo 6.º, deduzido do período de contrato remanescente do bolseiro preterido no concurso.
+
+6 - As instituições podem substituir a obrigação de abertura de procedimentos concursais para a contratação de doutorados, prevista no n.º 1, pela abertura de procedimentos concursais de ingresso nas carreiras docentes e de investigação, desde que na mesma área científica em que o bolseiro doutorado exerce funções.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 57/2017 - Diário da República n.º 138/2017, Série I de 2017-07-19](https://diariodarepublica.pt/dr/detalhe/lei/57-2017-107709503), em vigor a partir de 2017-07-24
+
+###### Artigo 24.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 28/2013, de 19 de fevereiro.
+
+###### Artigo 25.º — Aplicação no tempo
+
+1 - A revogação referida no artigo anterior é feita sem prejuízo da transitória manutenção daquele regime, aplicável aos contratos vigentes à data de entrada em vigor do presente decreto-lei, bem como às respetivas renovações.
+
+2 - O Decreto-Lei n.º 28/2013, de 19 de fevereiro, mantém-se, ainda, aplicável aos procedimentos de concurso a decorrer à data de entrada em vigor do presente decreto-lei, e à subsequente celebração e renovação dos respetivos contratos.
+
+###### Artigo 26.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 28 de julho de 2016. - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - Manuel Frederico Tojal de Valsassina Heitor.
+
+Promulgado em 11 de agosto de 2016.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 18 de agosto de 2016.
+
+O Primeiro-Ministro, António Luís Santos da Costa.

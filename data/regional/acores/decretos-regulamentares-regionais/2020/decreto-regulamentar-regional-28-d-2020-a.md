@@ -1,0 +1,280 @@
+---
+schema_version: '1.0'
+id: pt:dre:152165521:por
+title: Decreto Regulamentar Regional n.º 28-D/2020/A
+short_title: null
+summary: Regulamenta, na Região Autónoma dos Açores, a aplicação do Decreto do Presidente da República n.º 66-A/2020, de 17
+  de dezembro, que renova o estado de emergência
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 28-D/2020/A
+official_date: null
+publication_date: '2020-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 249/2020, 1º Suplemento, Série I de 2020-12-24
+  number: '249'
+  series: I
+  supplement: null
+  pages: 63-(9) a 63-(12)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/12/24901/0000900012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/28-d/2020/12/24/a/dre/pt/html
+  oj: null
+  dre: '152165521'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/28-d-2020-152165521
+  internal: pt:dre:152165521:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-d-2020-152165521
+  metadata_url: https://data.dre.pt/eli/decregulreg/28-d/2020/12/24/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-d-2020-152165521
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:31:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 33ad3dffdfca6537f33d2186b1085d43e0c9c90985a61942acd99dd9c11a311c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:37Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Bombeiro
+- Condições de Higiene e Segurança no Trabalho
+- Contra-ordenação
+- Contrato de Trabalho a Prazo
+- Controlo Médico
+- Controlo Sanitário
+- Cooperação
+- Direção Geral da Saúde
+- Doença Infecciosa
+- Equipamento de Proteção
+- Equipamento Hospitalar
+- Estabelecimento de Ensino
+- Estabelecimento de Restauração
+- Estabelecimento Hospitalar
+- Estabelecimento Prisional
+- Estado de Emergência
+- Fiscalização
+- Governo Regional
+- Infraestrutura Turística
+- Isolamento Profiláctico
+- Junta de Freguesia
+- Proteção Civil
+- PSP
+- Regulamentação de Atos Legislativos
+- Saúde Pública
+- Segurança Pública
+- Serviço Público
+- Serviços de Segurança
+- Teste Genético
+- Transporte Aéreo
+- Transporte Ferroviário
+- Transporte Marítimo
+- Transporte Rodoviário
+relationships:
+- type: amended_by
+  target: pt:dre:153341292:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:126467884:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/26/2019/11/22/a/dre
+- type: cites
+  target: pt:dre:146435561:por
+  label: null
+  source: http://data.dre.pt/eli/lei/62-a/2020/10/27/p/dre
+- type: cites
+  target: pt:dre:147933283:por
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/51-u/2020/11/06/p/dre
+- type: cites
+  target: pt:dre:148599586:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/23/2020/11/16/a/dre
+- type: cites
+  target: pt:dre:149106929:por
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/59-a/2020/11/20/p/dre
+- type: cites
+  target: pt:dre:150509281:por
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/61-a/2020/12/04/p/dre
+- type: cites
+  target: pt:dre:150509308:por
+  label: null
+  source: http://data.dre.pt/eli/dec/11/2020/12/06/p/dre
+- type: cites
+  target: pt:dre:151557411:por
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/66-a/2020/12/17/p/dre
+- type: cites
+  target: pt:dre:151904698:por
+  label: null
+  source: http://data.dre.pt/eli/dec/11-a/2020/12/21/p/dre
+- type: cites
+  target: pt:dre:221696:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:153341292:por
+  label: Revogado, a partir de 08.01.2021, pelo(a) Decreto Regulamentar Regional n.º 1-A/2021/A - Diário da República n.º
+    4/2021, 1º Suplemento, Série I de 2021-01-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/1-a-2021-153341292
+  date: '2021-01-07'
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:31:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 28-D/2020/A
+
+Regulamenta, na Região Autónoma dos Açores, a aplicação do [Decreto do Presidente da República n.º 66-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-a-2020-151557411), de 17 de dezembro, que renova o estado de emergência
+
+A COVID-19, doença que é provocada pela infeção pelo coronavírus SARS-CoV-2, tem tido no espaço nacional e regional um aumento de casos ativos e em vigilância ativa que justificou que, pelo [Decreto do Presidente da República n.º 51-U/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/51-u-2020-147933283), de 6 de novembro, fosse declarado, por proposta do Governo da República, o estado de emergência, com fundamento na verificação de uma situação de calamidade pública, tendo sido o mesmo sucessivamente renovado pelos Decretos do Presidente da República n.º [59-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/59-a-2020-149106929), de 20 de novembro, e n.º [61-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/61-a-2020-150509281), de 4 de dezembro.
+
+A declaração de estado de emergência fundamentou-se, no essencial, na evolução da pandemia COVID-19, que reclama a assunção de medidas a adotar pelas autoridades competentes, visando a correspondente prevenção e resposta em domínios como os da convocação de recursos humanos para rastreio, do controlo do estado de saúde das pessoas, da liberdade de deslocação e da utilização de meios do setor privado e social ou cooperativo.
+
+A declaração do estado de emergência assumiu, no entanto, um âmbito muito limitado e de efeitos largamente preventivos. A persistência da situação e a evolução da pandemia COVID-19 e a necessidade de tomada de medidas sanitárias indispensáveis para lhe fazerem face mostram que as determinações de restrições ao contacto entre pessoas reduzem o risco de contágio e de propagação do vírus.
+
+Como algumas dessas medidas, pela sua gravidade e potencial lesão de direitos, liberdades e garantias, exigem constitucionalmente a declaração do estado de emergência, este foi novamente renovado pelo [Decreto do Presidente da República n.º 66-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-a-2020-151557411), de 17 de dezembro.
+
+Neste momento, o índice de risco de transmissão efetiva da doença (Rt), na Região Autónoma dos Açores, particularmente nas ilhas de São Miguel e Terceira, revela uma tendência de crescimento, pelo que se justifica a tomada imediata de medidas urgentes de contenção, visando a redução do índice de risco de transmissão efetiva da doença (Rt) e a diminuição do número de infetados.
+
+Para além das medidas genéricas de proteção individual e coletiva, como o uso adequado de máscaras e do distanciamento social adequado, que as autoridades de saúde não deixam de reiterar, mostra-se indispensável impor medidas restritivas que possam produzir efeitos positivos no decréscimo do número de infetados e uma desaceleração do índice de risco de transmissão efetiva da doença (Rt).
+
+No atual momento, os contactos entre pessoas, que constituem veículo de contágio e de propagação do vírus, bem como as suas deslocações, devem limitar-se ao mínimo indispensável, havendo consciência, porém, que essa limitação não pode ser atingida através do encerramento total de estabelecimentos, tendo em conta que há várias atividades económicas essenciais que devem permanecer em funcionamento.
+
+O estado de emergência definido pelo [Decreto do Presidente da República n.º 51-U/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/51-u-2020-147933283), de 6 de novembro, e sucessivamente renovado pelos Decretos do Presidente da República n.º [59-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/59-a-2020-149106929), de 20 de novembro, e n.º [61-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/61-a-2020-150509281), de 4 de dezembro, e agora pelo [Decreto do Presidente da República n.º 66-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-a-2020-151557411), de 17 de dezembro, é aplicável, nos termos do seu artigo 2.º, a todo o território nacional.
+
+Considerando que o [Decreto n.º 11/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-2020-150509308), de 6 de dezembro, alterado e republicado pelo [Decreto n.º 11-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), de 21 de dezembro, não tem aplicação na Região Autónoma dos Açores, nos termos do disposto na alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, na alínea a) do n.º 7 do artigo 81.º e na alínea d) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e no artigo 7.º do [Decreto do Presidente da República n.º 66-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-a-2020-151557411), de 17 de dezembro, conjugado com o n.º 2 do artigo 20.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, o Governo Regional, em articulação com o Representante da República para a Região Autónoma dos Açores, decreta o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito de aplicação territorial
+
+1 - O presente diploma regulamenta, na Região Autónoma dos Açores, a aplicação do [Decreto do Presidente da República n.º 66-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/66-a-2020-151557411), de 17 de dezembro.
+
+2 - As medidas estabelecidas nos artigos 3.º, 4.º, 5.º e 6.º do [Decreto n.º 11/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-2020-150509308), de 6 de dezembro, alterado e republicado pelo [Decreto n.º 11-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), de 21 de dezembro, aplicam-se no território da Região Autónoma dos Açores, nos termos do presente diploma.
+
+###### Artigo 2.º — Confinamento obrigatório
+
+1 - Ficam em confinamento obrigatório, em estabelecimento de saúde, no domicílio ou, não sendo aí possível, noutro local definido pelas autoridades competentes:
+
+a) Os doentes com COVID-19 e os infetados com SARS-CoV-2;
+
+b) Os cidadãos relativamente a quem a autoridade de saúde tenha determinado a vigilância ativa.
+
+2 - Os cidadãos sujeitos a confinamento obrigatório podem ser acompanhados para efeitos de provisão de necessidades sociais e de saúde, devendo as autoridades de saúde e as forças de segurança articularem-se para que as referidas situações se efetivem.
+
+###### Artigo 3.º — Uso de máscaras
+
+1 - É de cumprimento obrigatório o disposto no [Decreto Regulamentar Regional n.º 23/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2020-148599586), de 16 de novembro, que regulamenta, na Região Autónoma dos Açores, a obrigatoriedade do uso de máscara em espaços públicos aprovada pela [Lei n.º 62-A/2020](https://diariodarepublica.pt/dr/detalhe/lei/62-a-2020-146435561), de 27 de outubro.
+
+2 - O uso de máscara é ainda obrigatório para o acesso ou permanência em locais de trabalho sempre que o distanciamento físico recomendado pelas autoridades de saúde se mostre impraticável.
+
+3 - A obrigação prevista no número anterior não é aplicável aos trabalhadores quando estejam a prestar o seu trabalho em gabinete, sala ou equivalente que não tenha outros ocupantes ou quando sejam utilizadas barreiras físicas impermeáveis de separação e proteção entre trabalhadores.
+
+4 - O incumprimento do disposto nos números anteriores determina a aplicação do estatuído nos artigos 3.º a 6.º do [Decreto Regulamentar Regional n.º 23/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2020-148599586), de 16 de novembro.
+
+###### Artigo 4.º — Controlo de temperatura corporal
+
+1 - Podem ser realizadas medições de temperatura corporal por meios não invasivos, no controlo de acesso ao local de trabalho, a serviços ou instituições públicas, a estabelecimentos educativos, de ensino e de formação profissional, a espaços comerciais, culturais ou desportivos, a meios de transporte, a estabelecimentos de saúde, a estabelecimentos prisionais ou a centros educativos, bem como em estruturas residenciais.
+
+2 - O disposto nos números anteriores não prejudica o direito à proteção individual de dados, sendo expressamente proibido o registo da temperatura corporal associado à identidade da pessoa, salvo com expressa autorização da mesma.
+
+3 - As medições de temperatura podem ser realizadas por trabalhador ao serviço da entidade responsável pelo local ou estabelecimento, não sendo admissível qualquer contacto físico com a pessoa visada, sempre através de equipamento adequado a este efeito.
+
+4 - O trabalhador referido no número anterior fica sujeito a sigilo profissional.
+
+5 - Pode ser impedido o acesso dessa pessoa aos locais mencionados no n.º 1 sempre que a mesma:
+
+a) Recuse a medição de temperatura corporal;
+
+b) Apresente um resultado superior à normal temperatura corporal, considerando-se como tal uma temperatura corporal igual ou superior a 38ºC.
+
+###### Artigo 5.º — Obrigatoriedade de testes de diagnóstico de SARS-CoV-2
+
+Sem prejuízo de outras situações previstas em diploma próprio, ficam sujeitos à realização de testes de diagnóstico de SARS-CoV-2 os trabalhadores, utentes e visitantes de estabelecimentos de prestação de cuidados de saúde.
+
+###### Artigo 6.º — Proteção civil
+
+As normas definidas no [Decreto Legislativo Regional n.º 26/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2019-126467884), de 22 de novembro, que aprova o Regime Jurídico do Sistema de Proteção Civil da Região Autónoma dos Açores, podem ser aplicadas cumulativamente com as disposições do presente diploma, sempre que o Governo Regional o determinar.
+
+###### Artigo 7.º — Fiscalização
+
+1 - Compete às forças e serviços de segurança e às polícias municipais fiscalizar o cumprimento do disposto no presente diploma, mediante:
+
+a) A sensibilização da comunidade quanto à interdição das deslocações que não sejam justificadas;
+
+b) A recomendação a todos os cidadãos do cumprimento do dever geral de recolhimento domiciliário;
+
+c) O acompanhamento e seguimento de pessoas em isolamento profilático ou em vigilância ativa;
+
+d) O aconselhamento da não concentração de pessoas na via pública e a dispersão das concentrações superiores a seis pessoas, salvo se pertencerem ao mesmo agregado familiar ou resultarem de exceções previstas no presente decreto regulamentar regional.
+
+2 - Para efeitos do cumprimento do disposto no presente diploma, às forças e serviços de segurança e às polícias municipais é atribuído o poder de proceder à cominação e a participação por crime de desobediência, nos termos e para os efeitos da alínea b) do n.º 1 do artigo 348.º do Código Penal, bem como do artigo 7.º da [Lei n.º 44/86](https://diariodarepublica.pt/dr/detalhe/lei/44-1986-221696), de 30 de setembro, com fundamento na violação das normas aqui estabelecidas.
+
+3 - As juntas de freguesia devem colaborar no cumprimento do disposto no presente diploma, designadamente no aconselhamento da não concentração de pessoas na via pública, na recomendação a todos os cidadãos do cumprimento da interdição das deslocações que não sejam justificadas, sensibilizando para o dever geral de recolhimento domiciliário e na sinalização junto das forças e serviços de segurança, bem como da polícia municipal dos casos de infração ao regime aqui estabelecido.
+
+4 - Nos termos do [Decreto Legislativo Regional n.º 26/2019/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2019-126467884), de 22 de novembro, o Serviço Regional de Proteção Civil e Bombeiros dos Açores fica autorizado a solicitar a colaboração das forças de segurança, bem como a utilização de recursos humanos e materiais da administração regional.
+
+###### Artigo 8.º — Dever geral de cooperação
+
+Durante o período de vigência do estado de emergência, os cidadãos e demais entidades têm o dever de colaboração, nomeadamente no cumprimento de ordens ou instruções dos órgãos e agentes responsáveis pela segurança, proteção civil e saúde pública na pronta satisfação de solicitações que justificadamente lhes sejam feitas pelas entidades competentes para a concretização das medidas do presente decreto regulamentar regional.
+
+###### Artigo 9.º — Salvaguarda de medidas
+
+O disposto no presente decreto regulamentar regional não prejudica outras medidas que já tenham sido adotadas no âmbito do combate à doença COVID-19, prevalecendo sobre as mesmas quando disponham em sentido contrário.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente decreto entra em vigor às 00h00 do dia 24 de dezembro de 2020.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 21 de dezembro de 2020.
+
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
+
+Assinado em Angra do Heroísmo em 23 de dezembro de 2020.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+113843543

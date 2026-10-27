@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:496773:por
+title: Resolução da Assembleia da República n.º 84/2013
+short_title: null
+summary: Estabelece a obrigatoriedade de elaboração e apresentação de um relatório anual sobre emigração
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 84/2013
+official_date: null
+publication_date: '2013-06-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/2013, Série I de 2013-06-20
+  number: '117'
+  series: I
+  supplement: null
+  pages: 3406 - 3406
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/06/11700/0340603406.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/84/2013/06/20/p/dre/pt/html
+  oj: null
+  dre: '496773'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/84-2013-496773
+  internal: pt:dre:496773:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/84-2013-496773
+  metadata_url: https://data.dre.pt/eli/resolassrep/84/2013/06/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/84-2013-496773
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:37:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 0c8bc1f426eeec5e520c64a4522ec92737b3687f2cc7121e81b2e77b29835163
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:07Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Emigração
+- Recomendação
+- Relatório de Actividade
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:37:07Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 84/2013
+
+Estabelece a obrigatoriedade de elaboração e apresentação de um relatório anual sobre emigração
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que elabore e apresente, anualmente, à Assembleia da República um relatório sobre emigração, no qual conste:
+
+1 - O número de cidadãos que saem do país.
+
+2 - Os países de destino dos emigrantes portugueses.
+
+3 - A caracterização socioeconómica, designadamente escolar e académica, e geográfica dos emigrantes portugueses.
+
+4 - A identificação e caracterização das estruturas e respostas consulares de apoio aos emigrantes em cada um dos países de destino.
+
+5 - A identificação e caracterização das estruturas formais e informais de apoio aos emigrantes em cada um dos países de destino.
+
+6 - A situação laboral, social e económica em que se encontram os emigrantes portugueses.
+
+Aprovada em 31 de maio de 2013.
+
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

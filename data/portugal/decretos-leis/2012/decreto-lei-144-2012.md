@@ -1,0 +1,1300 @@
+---
+schema_version: '1.0'
+id: pt:dre:179784:por
+title: Decreto-Lei n.º 144/2012
+short_title: null
+summary: Aprova o regime de inspeções técnicas de veículos a motor e seus reboques, transpondo a Diretiva n.º 2010/48/UE,
+  da Comissão, de 5 de julho, que adapta ao progresso técnico a Diretiva n.º 2009/40/CE, do Parlamento Europeu e do Conselho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 144/2012
+official_date: null
+publication_date: '2012-07-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 133/2012, Série I de 2012-07-11
+  number: '133'
+  series: I
+  supplement: null
+  pages: 3606 - 3625
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13300/0360603625.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-13'
+version_history:
+  file: decreto-lei-144-2012.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-07-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-08-24'
+    amending: pt:dre:498752:por
+    amending_title: Decreto-Lei n.º 100/2013
+    changes:
+    - Altera Anexo I
+  - date: '2018-01-01'
+    amending: pt:dre:114276584:por
+    amending_title: Decreto-Lei n.º 144/2017
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 13.º-A
+    - Adita Artigo 13.º-B
+    - Adita Artigo 13.º-C
+    - Adita Artigo 13.º-D
+    - Adita Anexo V
+    - Adita Anexo VI
+    - Adita Anexo VII
+    - Adita Anexo VIII
+    - Adita Anexo IX
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Revoga Anexo III
+    - Revoga Anexo IV
+  - date: '2023-06-05'
+    amending: pt:dre:212591472:por
+    amending_title: Decreto-Lei n.º 29/2023
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 18.º
+    - Altera Anexo I
+    - Altera Anexo VI
+    - Altera Anexo VII
+  - date: '2023-12-20'
+    amending: pt:dre:224461529:por
+    amending_title: Portaria n.º 380/2023
+    changes:
+    - Altera Anexo II
+    - Altera Anexo V
+    - Altera Anexo VIII
+    - Altera Anexo IX
+  - date: '2023-12-30'
+    amending: pt:dre:835994081:por
+    amending_title: Decreto-Lei n.º 139-E/2023
+    changes:
+    - Altera Artigo 18.º
+  - date: '2025-01-01'
+    amending: pt:dre:901661920:por
+    amending_title: Decreto-Lei n.º 121/2024
+    changes:
+    - Altera Artigo 18.º
+  - date: '2025-03-13'
+    amending: pt:dre:910517154:por
+    amending_title: Lei n.º 25/2025
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 18.º
+    - Altera Anexo I
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/144/2012/p/cons/20250312/pt/html
+  oj: null
+  dre: '179784'
+  dre_path: /dr/detalhe/decreto-lei/144-2012-179784
+  internal: pt:dre:179784:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784
+  metadata_url: https://data.dre.pt/eli/dec-lei/144/2012/p/cons/20250312/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-75437532
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-75437532
+  retrieved_at: '2026-10-22T12:08:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 767f3f2b1ab9d05d82c6543f8cea8238b5a59a118f7d6ef0d9f8ace4bc46a296
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:08:27Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-144-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Aproximação das Legislações
+- Contra-ordenação
+- Definição de Competências
+- Fiscalização
+- Inspecção de Veículos
+- Instituto da Mobilidade e dos Transportes
+- Veículo
+- Documentos do Veículo
+- Autoridade Nacional de Segurança Rodoviária
+- GNR
+- Equipamento de Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:174866:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2012-174866
+  date: '2012-09-07'
+- type: amended_by
+  target: pt:dre:498752:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2013-498752
+  date: '2013-07-25'
+- type: amended_by
+  target: pt:dre:114276584:por
+  label: Adita Artigo 3.º-A; Adita Artigo 13.º-A; Adita Artigo 13.º-B; Adita Artigo 13.º-C; Adita Artigo 13.º-D; Adita Anexo
+    V; Adita Anexo VI; Adita Anexo VII; Adita Anexo VIII; Adita Anexo IX; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo
+    5.º; Altera Anexo I; Altera Anexo II; Revoga Anexo III; Revoga Anexo IV
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584
+  date: '2017-11-29'
+- type: amended_by
+  target: pt:dre:212591472:por
+  label: Altera Artigo 5.º; Altera Artigo 18.º; Altera Anexo I; Altera Anexo VI; Altera Anexo VII
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472
+  date: '2023-05-05'
+- type: amended_by
+  target: pt:dre:224461529:por
+  label: Altera Anexo II; Altera Anexo V; Altera Anexo VIII; Altera Anexo IX
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/380-2023-224461529
+  date: '2023-11-20'
+- type: amended_by
+  target: pt:dre:835994081:por
+  label: Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-e-2023-835994081
+  date: '2023-12-29'
+- type: amended_by
+  target: pt:dre:901661920:por
+  label: Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2024-901661920
+  date: '2024-12-31'
+- type: amended_by
+  target: pt:dre:910517154:por
+  label: Altera Artigo 11.º; Altera Artigo 18.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/lei/25-2025-910517154
+  date: '2025-03-12'
+- type: cites
+  target: celex:31976L0756
+  label: null
+  source: null
+- type: cites
+  target: celex:31996L0096
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/96/oj
+- type: cites
+  target: celex:31999L0052
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/52/oj
+- type: cites
+  target: celex:32004L0022
+  label: null
+  source: null
+- type: cites
+  target: celex:32009L0040
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/40/oj
+- type: cites
+  target: celex:32010L0048
+  label: null
+  source: http://data.europa.eu/eli/dir/2010/48/oj
+- type: transposes
+  target: celex:32014L0045
+  label: null
+  source: null
+article_structure:
+  article_count: 23
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:08:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 144/2012
+
+Decreto-Lei n.º 144/2012
+
+de 11 de julho
+
+O controlo das condições técnicas de circulação de veículos a motor e seus reboques é um imperativo nacional e comunitário, que tem em vista a melhoria das condições de circulação dos veículos através da verificação periódica das suas características e das suas condições de segurança, com particular importância para a salvaguarda da segurança rodoviária.
+
+A experiência adquirida no decurso da vigência do Decreto-Lei n.º 554/99, de 16 de dezembro, alterado pelos Decretos-Leis n.os 107/2002, de 16 de abril, 109/2004, de 12 de maio, 136/2008, de 21 de julho, 112/2009, de 18 de maio, e pela Lei n.º 46/2010, de 7 de setembro, que transpõe para a ordem jurídica interna a Diretiva n.º <a href="eurlex.asp?ano=1996&id=396L0096" title="Link para Directiva da Comunidade Europeia">96/96/CE</a>, do Conselho, de 20 de dezembro de 1996, alterada pela Diretiva n.º <a href="eurlex.asp?ano=1999&id=399L0052" title="Link para Directiva da Comunidade Europeia">1999/52/CE</a>, da Comissão, de 26 de maio de 1999, relativa ao controlo técnico dos veículos e seus reboques e regula as inspeções técnicas periódicas para atribuição de matrículas e inspeções extraordinárias de automóveis ligeiros, pesados e reboques, veio demonstrar a necessidade de introduzir alguns ajustamentos a este regime, no sentido de o tornar mais eficaz e de o conformar com as disposições comunitárias.
+
+Com o presente diploma, pretende-se regular as inspeções técnicas periódicas, as inspeções para atribuição de matrícula e as inspeções extraordinárias de veículos a motor e seus reboques, previstas no artigo 116.º do Código da Estrada, alargando o universo de veículos a sujeitar a inspeção, designadamente a motociclos, triciclos e quadriciclos com cilindrada superior a 250 cm3, bem como reboques e semirreboques com peso superior a 750 kg.
+
+Com este desiderato, procede-se à transposição para a ordem jurídica interna da Diretiva n.º <a href="eurlex.asp?ano=2009&id=309L0040" title="Link para Directiva da Comunidade Europeia">2009/40/CE</a>, do Parlamento Europeu e do Conselho, de 6 de maio de 2009, relativa ao controlo técnico dos veículos a motor e seus reboques, e a Diretiva n.º <a href="eurlex.asp?ano=2010&id=310L0048" title="Link para Directiva da Comunidade Europeia">2010/48/UE</a>, da Comissão, de 5 de julho de 2010, que adapta ao progresso técnico a referida Diretiva n.º <a href="eurlex.asp?ano=2009&id=309L0040" title="Link para Directiva da Comunidade Europeia">2009/40/CE</a>, do Parlamento Europeu e do Conselho, de 6 de maio de 2009.
+
+No âmbito da transposição optou-se por manter as exceções ao regime das inspeções periódicas já consignadas no Decreto-Lei n.º 554/99, de 16 de dezembro, as quais foram então devidamente autorizadas pelas competentes instâncias comunitárias.
+
+Por último e relativamente ao regime contraordenacional, optou-se pela aplicação do regime contraordenacional previsto no Código da Estrada, estabelecendo, no entanto, uma moldura de coima específica para as infrações que incidam sobre motociclos, triciclos e quadriciclos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece os requisitos do regime de inspeção técnica periódica de veículos em circulação na via pública, transpondo para a ordem jurídica interna a Diretiva 2014/45/UE do Parlamento Europeu e do Conselho, de 3 de abril de 2014, bem como os requisitos técnicos para as inspeções para atribuição de matrícula e extraordinárias de veículos a motor e seus reboques, previstas no artigo 116.º do Código da Estrada.
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+###### Artigo 2.º — Âmbito de aplicação
+
+Sem prejuízo do disposto no artigo seguinte, estão sujeitos às inspeções previstas neste diploma os veículos constantes do anexo i ao presente diploma, que dele faz parte integrante.
+
+###### Artigo 3.º — Regime aplicável a determinados veículos
+
+1 - Salvo as inspeções para atribuição de nova matrícula, não ficam sujeitos às inspeções referidas no artigo anterior, os veículos de interesse histórico.
+
+2 - (Revogado.)
+
+3 - Podem ser dispensados da realização das inspeções periódicas os veículos destinados a fins especiais, que raramente utilizam a via pública e cuja circulação esteja dependente da autorização especial prevista no artigo 58.º do Código da Estrada e na respetiva regulamentação, por apresentarem peso ou dimensão superior ao legalmente fixado.
+
+4 - Ficam, contudo, sujeitos a inspeção extraordinária os veículos cujos documentos tenham sido apreendidos em qualquer das situações previstas nas alíneas b), d), f), g) e j) do n.º 1 do artigo 161.º do Código da Estrada.
+
+5 - Ficam ainda sujeitos a inspeção extraordinária os veículos que tenham sido apreendidos em qualquer das situações previstas nas alíneas a), b), c), g) e j) do artigo 162.º do Código da Estrada.
+
+6 - Os veículos cujos documentos tenham sido apreendidos ao abrigo do disposto na alínea j) do n.º 1 do artigo 161.º do Código da Estrada só estão obrigatoriamente sujeitos a inspeção extraordinária, se a apreensão tiver sido motivada pela violação das regras constantes do n.º 1 do artigo 79.º e dos n.os 2 e 3 do artigo 80.º do Código da Estrada.
+
+7 - Os veículos afetos às forças militares ou de segurança com matrícula nacional atribuída pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), estão sujeitos às inspeções previstas no presente diploma.
+
+> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+###### Artigo 3.º-A — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) 'Veículo', um veículo a motor que não circula sobre carris e o seu reboque;
+
+b) 'Veículo a motor', um veículo de rodas, provido de um motor de propulsão, que se move pelos próprios meios e tem uma velocidade máxima de projeto superior a 25 km/h;
+
+c) 'Reboque', um veículo de rodas, sem propulsão própria e projetado e fabricado para ser rebocado por um veículo a motor;
+
+d) 'Semirreboque', um reboque concebido para ser acoplado a um veículo a motor de tal modo que parte dele assenta no veículo a motor e parte substancial da sua massa e a massa da sua carga são suportadas pelo veículo a motor;
+
+e) 'Veículo de duas ou três rodas', a definição que consta do artigo 107.º do Código da Estrada aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, alterado pelos Decretos-Leis n.os 44/2005, de 23 de fevereiro, 113/2008, de 1 de julho, e 113/2009 de 18 de maio, e pelas Leis n.os 78/2009, de 13 de agosto, 46/2010, de 7 de setembro e 47/2017 de 7 de julho;
+
+f) 'Veículo matriculado num Estado-Membro', um veículo matriculado ou posto em circulação num Estado-Membro da União Europeia;
+
+g) 'Veículo de interesse histórico', um veículo considerado de interesse histórico, mediante declaração emitida por entidades de utilidade pública, cujos estatutos prevejam o exercício de atividades atinentes a veículos, reconhecidas pelo IMT, I. P., e que cumpra todas as seguintes condições:
+
+i) Foi fabricado ou matriculado pela primeira vez há pelo menos 30 anos;
+
+ii) O seu modelo específico, tal como definido na legislação aplicável da União ou nacional, já não é fabricado;
+
+iii) É objeto de conservação histórica e mantém-se no seu estado original e as características técnicas dos seus componentes principais não sofreram alterações significativas.
+
+h) 'Titular do certificado de matrícula', a pessoa singular ou coletiva em cujo nome o veículo está matriculado;
+
+i) 'Inspeção técnica', uma inspeção nos termos do anexo II ao presente decreto-lei concebida para assegurar que o veículo é seguro para ser utilizado na via pública e que cumpre as características exigidas e obrigatórias em termos ambientais e de segurança;
+
+j) 'Homologação', um procedimento mediante o qual um Estado-Membro da União Europeia certifica que um veículo cumpre as disposições administrativas e os requisitos técnicos aplicáveis e previstos referidos nos Decretos-Leis n.os 238/2003, de 3 de outubro, 227/2007, de 4 de junho, e 16/2010, de 12 de março;
+
+k) 'Deficiências', as deficiências técnicas e outras anomalias constatadas numa inspeção técnica;
+
+l) 'Certificado de inspeção técnica' ou 'Ficha de inspeção', um relatório de inspeção técnica emitido pela autoridade competente, ou por um centro de inspeção, que contém os resultados da inspeção técnica;
+
+m) 'Inspetor', uma pessoa licenciada pelo IMT, I. P., para efetuar inspeções técnicas num centro de inspeção;
+
+n) 'Autoridade competente', uma autoridade ou um organismo público ao qual é confiada a responsabilidade para administrar o regime de inspeções técnicas, incluindo, se for o caso, a execução das inspeções técnicas a veículos;
+
+o) 'Centro de inspeção', um organismo ou estabelecimento público ou privado, aprovado por um Estado-Membro da União Europeia para efetuar inspeções técnicas a veículos;
+
+p) 'Organismo de supervisão', um ou mais organismos criados por um Estado-Membro da União Europeia, responsáveis pela supervisão dos centros de inspeção, podendo o organismo de supervisão fazer parte da autoridade ou autoridades competentes;
+
+q) 'Via pública', via de comunicação terrestre afeta ao trânsito público;
+
+> Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+###### Artigo 4.º — Finalidade das inspeções
+
+1 - As inspeções periódicas visam confirmar, com regularidade, a manutenção das boas condições de funcionamento e de segurança de todo o equipamento e das condições de segurança dos veículos referidos no artigo 2.º, de acordo com as suas características originais homologadas ou as resultantes de transformação autorizada nos termos do artigo 115.º do Código da Estrada.
+
+2 - As inspeções extraordinárias destinam-se a identificar ou a confirmar ocasionalmente as condições de segurança dos veículos, em consequência da alteração das suas características, por acidente ou outras causas, cujos elementos do quadro e ou direção, da suspensão ou da travagem tenham sido gravemente afetados, não permitindo, por esse motivo, que os veículos possam deslocar-se pelos seus próprios meios em condições de segurança.
+
+3 - Para além do disposto nos números anteriores, os veículos a motor e seus reboques, anteriormente matriculados, são sujeitos a inspeção para atribuição de nova matrícula, tendo em vista identificar os veículos, as respetivas características e confirmar as suas condições de funcionamento e de segurança.
+
+4 - Podem ainda ser realizadas inspeções facultativas, por iniciativa dos proprietários, para verificação das características ou das condições de segurança dos veículos.
+
+###### Artigo 5.º — Procedimentos de inspeção
+
+1 - Nas inspeções periódicas procede-se às observações e às verificações dos elementos de todos os sistemas, componentes, acessórios e unidades técnicas dos veículos, sem desmontagem, e aos sistemas de controlo de emissões poluentes e dos equipamentos suplementares de instalação obrigatória em veículos de transporte público, nos termos do anexo ii ao presente diploma, que dele faz parte integrante.
+
+2 - Nas inspeções extraordinárias, para identificação ou verificação das condições técnicas, procede-se às observações e verificações referidas no número anterior, com especial incidência nos elementos a identificar ou a verificar, sempre que possível sem desmontagem, de acordo com o anexo VIII ao presente decreto-lei.
+
+3 - Nas inspeções a veículos para atribuição de matrícula identificam-se as respetivas características e a sua conformidade com as disposições legais e regulamentares aplicáveis, verificando-se, ainda, as suas condições de segurança, nos termos do anexo IX ao presente decreto-lei.
+
+4 - As inspeções facultativas não interferem com a periodicidade das inspeções periódicas, aplicando-se procedimentos idênticos aos das inspeções periódicas, extraordinárias ou para nova matrícula, conforme a finalidade da inspeção.
+
+5 - A aprovação nas inspeções extraordinárias e nas inspeções para atribuição de matrícula é válida por 90 dias.
+
+6 - Tanto nas inspeções extraordinárias como nas inspeções para atribuição de matrícula deve ser emitida a respetiva ficha de inspeção periódica, sempre que o veículo se encontre dentro da periodicidade estabelecida, sem alteração da mesma.
+
+7 - Por deliberação do conselho diretivo do IMT, I. P., são estabelecidos os casos em que não é necessária a emissão da ficha a que se refere o número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2023 - Diário da República n.º 87/2023, Série I de 2023-05-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472), em vigor a partir de 2023-06-05
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+###### Artigo 6.º — Competência
+
+1 - As inspeções previstas neste diploma são da competência do IMT, I. P., que pode recorrer, para a sua realização, a entidades gestoras de centros de inspeção, nos termos previstos em legislação específica.
+
+2 - Quando efetuadas por entidades gestoras, as inspeções devem ter lugar em centros de inspeção da correspondente categoria, previamente aprovados, e ser realizadas por inspetores licenciados pelo IMT, I. P.
+
+3 - Compete ao IMT, I. P.:
+
+a) Realizar inspeções parciais com vista à verificação e à confirmação de características técnicas específicas dos veículos, designadamente quando surjam fundadas dúvidas sobre as mesmas no decurso de qualquer das inspeções previstas no presente diploma, podendo, para o efeito, recorrer a organismos tecnicamente reconhecidos;
+
+b) Conceder dispensa da inspeção periódica aos veículos especiais, nos termos do n.º 3 do artigo 3.º;
+
+c) Aprovar, por deliberação do conselho diretivo, os modelos e conteúdos do documento de substituição dos documentos apreendidos, da ficha de inspeção e dos certificados, previstos nos artigos 8.º e 9.º;
+
+d) Aprovar os procedimentos e as instruções técnicas a observar pelas entidades gestoras de centros de inspeção e os inspetores, com vista à classificação das deficiências.
+
+###### Artigo 7.º — Periodicidade das inspeções
+
+1 - Sem prejuízo do disposto nos n.os 2 e 3, nas inspeções periódicas, os veículos devem ser apresentados à primeira inspeção e às subsequentes até ao dia e mês correspondentes ao da matrícula inicial, de acordo com a periodicidade constante do anexo i ao presente diploma.
+
+2 - Os veículos sujeitos a inspeções semestrais devem ser apresentados à inspeção até ao dia correspondente ao da matrícula inicial, no sexto mês após a correspondente inspeção anual, de acordo com a periodicidade constante do anexo i ao presente diploma.
+
+3 - As inspeções periódicas podem, ainda, ser realizadas durante os três meses anteriores à data prevista nos números anteriores.
+
+4 - As inspeções extraordinárias para identificação ou verificação das condições técnicas dos veículos não alteram a periodicidade das inspeções periódicas estabelecida no anexo i ao presente diploma, salvo se aquelas forem realizadas durante os três meses anteriores à data limite em que a correspondente inspeção deveria ter lugar.
+
+5 - Sempre que um veículo aprovado em inspeção periódica deva ficar sujeito a periodicidade diferente da anterior, em consequência da alteração das suas características técnicas ou utilização, fica sem efeito a ficha de inspeção anteriormente emitida, devendo o veículo ser submetido à inspeção periódica de acordo com a nova periodicidade prevista no anexo i ao presente diploma.
+
+###### Artigo 8.º — Circulação de veículos sujeitos a inspeção extraordinária
+
+1 - Os veículos sujeitos a inspeção extraordinária para identificação ou verificação das suas condições de segurança não podem ser repostos em circulação antes de serem aprovados na respetiva inspeção, salvo deslocação para o centro de inspeção mais próximo.
+
+2 - Os veículos referidos no número anterior podem ainda circular temporariamente desde que o seu condutor seja portador de documento de substituição dos documentos apreendidos, emitido pela autoridade fiscalizadora competente, nos termos do artigo 161.º do Código da Estrada.
+
+###### Artigo 9.º — Prova de realização da inspeção
+
+1 - Para comprovar a realização das inspeções periódicas é emitida pela entidade gestora do centro uma ficha de inspeção por cada veículo inspecionado.
+
+2 - Em caso de perda ou destruição da ficha de inspeção de um veículo, pode o responsável pela apresentação do veículo à inspeção solicitar ao centro de inspeção a emissão de segunda via da referida ficha.
+
+3 - A emissão do documento previsto no número anterior deve conter todos os dados constantes na ficha de inspeção, acrescidos da indicação de que se trata de uma segunda via, da sua data de emissão e do número da primeira ficha emitida.
+
+4 - O documento que comprova a realização das inspeções periódicas dos veículos matriculados noutro Estado membro da União Europeia, a circular legalmente em Portugal, é reconhecido, para todos os efeitos, pelas autoridades fiscalizadoras competentes.
+
+5 - A aprovação nas inspeções extraordinárias e nas de atribuição de matrícula é comprovada através da emissão do respetivo certificado, sendo ainda emitida a respetiva ficha de inspeção periódica caso o veículo se encontre também sujeito ao regime das inspeções periódicas.
+
+6 - No ato da devolução dos documentos aprendidos por força da ocorrência de qualquer das situações previstas nos n.os 4 e 5 do artigo 3.º é entregue, no IMT, I. P., o certificado referido no número anterior.
+
+7 - Por deliberação do conselho diretivo do IMT, I. P., a comprovação a que se refere o n.º 5, pode ser substituída por certificação eletrónica mediante ligação informática adequada entre os centros de inspeção e os serviços do IMT, I. P.
+
+###### Artigo 10.º — Tipos de deficiência
+
+1 - As deficiências constatadas nas observações e verificações dos pontos de controlo obrigatórios, identificados no anexo ii ao presente diploma, são graduadas em três tipos:
+
+a) Tipo 1 - deficiência que não afeta gravemente as condições de funcionamento do veículo nem diretamente as suas condições de segurança, não implicando, por isso e só por si, nova apresentação do veículo à inspeção para verificação da reparação efetuada;
+
+b) Tipo 2 - deficiência que afeta gravemente as condições de funcionamento do veículo ou diretamente as suas condições de segurança ou desempenho ambiental, ou que põe em dúvida a sua identificação, devendo o mesmo, consoante o caso, ser apresentado:
+
+i) No centro de inspeção, para verificação da reparação efetuada; ou
+
+ii) Nos serviços competentes do IMT, I. P., para o completo esclarecimento das dúvidas respeitantes à respetiva identificação;
+
+c) Tipo 3 - deficiência muito grave que implica a paralisação do veículo ou permite somente a sua deslocação até ao local da reparação, devendo esta ser confirmada em posterior inspeção.
+
+2 - Por deliberação do conselho diretivo do IMT, I. P., são fixados os quadros relativos à classificação das deficiências previstas no número anterior, bem como as condições de não aprovação, de acordo com as observações e as verificações previstas nos anexos iii e iv, ao presente diploma.
+
+3 - Sempre que, nos termos do presente artigo, sejam observadas deficiências no veículo, devem os inspetores delas dar conhecimento ao seu apresentante, anotando-as devidamente na respetiva ficha ou certificado.
+
+4 - Na classificação das deficiências observadas, os inspetores devem atuar de acordo com os procedimentos ou instruções técnicas aprovados nos termos da alínea d) do n.º 3 do artigo 6.º
+
+###### Artigo 11.º — Apresentação à inspeção
+
+1 - Compete ao proprietário, usufrutuário, adquirente com reserva de propriedade, locatário financeiro ou a qualquer outro seu legítimo possuidor a responsabilidade pela apresentação do veículo às inspeções a que esteja sujeito.
+
+2 - Os veículos devem ser apresentados à inspeção em condições normais de circulação e em perfeito estado de limpeza a fim de permitir a realização de todas as observações e verificações exigidas.
+
+3 - Para além do disposto no número anterior, nas inspeções extraordinárias para confirmação das condições de segurança dos veículos em consequência da alteração das suas características por acidente ou por outras causas, devem aqueles ser apresentados à inspeção integralmente reparados.
+
+4 - Nas situações previstas no número anterior, deve o apresentante entregar ao responsável do centro um documento contendo a descrição pormenorizada dos elementos sobre os quais incidiram as alterações ou reparações efetuadas, designadamente cópia da fatura ou do relatório de peritagem.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2025 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/lei/25-2025-910517154), em vigor a partir de 2025-03-13
+
+> Rectificado pelo/a [Declaração de Retificação n.º 44/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2012-174866), em vigor a partir de 2012-08-10
+
+###### Artigo 12.º — Documentos a apresentar
+
+1 - No ato da inspeção periódica deve o apresentante do veículo exibir os documentos previstos no n.º 2 do artigo 85.º do Código da Estrada, sem os quais a inspeção não pode ser efetuada.
+
+2 - Pode ser realizada a inspeção mediante a apresentação de documento de substituição dos documentos de identificação do veículo, nos termos a definir por deliberação do conselho diretivo do IMT, I. P., desde que o centro de inspeções possa confirmar por via eletrónica, na base de dados de veículos do IMT, I. P., a conformidade das características do veículo, com o constante no documento de substituição apresentado.
+
+3 - Nas inspeções extraordinárias devem ser apresentados os documentos referidos no n.º 2 do artigo 85.º do Código da Estrada, salvo se estiverem apreendidos, devendo, neste caso, ser substituídos pelo documento de substituição previsto no número anterior.
+
+4 - Nas inspeções para atribuição de nova matrícula devem ser apresentados os documentos respeitantes ao veículo, nos termos e condições previstos em legislação específica.
+
+5 - Qualquer documento de identificação de um veículo só pode ser aceite por um centro de inspeções desde que contenha a inscrição clara do número do quadro do veículo, sendo nulo qualquer ato inspetivo que tenha por base um documento de identificação de um veículo que não apresente o respetivo número de quadro.
+
+###### Artigo 13.º — Reprovação do veículo
+
+1 - Os veículos são reprovados sempre que:
+
+a) Se verifiquem mais de cinco deficiências do tipo 1;
+
+b) Se verifiquem uma ou mais deficiências dos tipos 2 ou 3;
+
+c) Não seja efetuada a correção da deficiência ou deficiências anteriormente anotadas, salvo as relativas ao documento de identificação do veículo.
+
+2 - Os veículos que apresentem deficiências do tipo 2 nos sistemas de direção, suspensão ou travagem não podem transportar passageiros, nem carga, enquanto não forem aprovados.
+
+3 - Os veículos que apresentem deficiências do tipo 3 podem circular apenas para deslocação até ao local de reparação e posterior regresso ao centro de inspeção para confirmar a correção das anomalias.
+
+4 - Sempre que o veículo tenha sido aprovado com deficiências do tipo 1 ou reprovado em inspeção, pode o mesmo, no prazo de 30 dias, voltar ao centro de inspeção para confirmar a correção das deficiências anotadas na ficha de inspeção.
+
+5 - No caso de veículo reprovado, o prazo referido no número anterior será reduzido para 15 dias sempre que as deficiências constatadas na inspeção ou reinspeção precedente não tenham sido atempadamente corrigidas.
+
+6 - No caso de o veículo não ser aprovado em inspeção extraordinária ou para nova matrícula, pode o mesmo, no prazo de 30 dias, solicitar ao centro que confirme a correção dos motivos da não aprovação.
+
+7 - Sem prejuízo das coimas aplicáveis, o não cumprimento do disposto no n.º 3 implica a apreensão do documento de identificação do veículo, nos termos da alínea f) do n.º 1 do artigo 161.º do Código da Estrada.
+
+###### Artigo 13.º-A — Instalações e equipamentos de inspeção
+
+1 - O IMT, I. P., deve assegurar que as instalações e os equipamentos de inspeção utilizados para a inspeção técnica cumprem os requisitos técnicos mínimos estabelecidos no anexo V ao presente decreto-lei que dele faz parte integrante.
+
+2 - O IMT, I. P., deve garantir que os centros de inspeção, conservam as instalações e o equipamento de inspeção de acordo com as especificações técnicas do respetivo fabricante.
+
+3 - O equipamento utilizado para medições deve ser periodicamente calibrado de acordo com o anexo V ao presente decreto-lei e verificado de acordo com as especificações previstas pelo IMT, I. P., ou pelo fabricante do equipamento.
+
+> Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+###### Artigo 13.º-B — Centros de inspeção
+
+Os centros de inspeção técnica de veículos são aprovados de acordo com o previsto na Lei n.º 11/2011, de 26 de abril, alterada pelo Decreto-Lei n.º 26/2013, de 19 de fevereiro.
+
+> Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+###### Artigo 13.º-C — Inspetores
+
+1 - O IMT, I. P., deve assegurar que as inspeções técnicas são efetuadas por inspetores que satisfaçam os requisitos mínimos de qualificação e formação estabelecidos no anexo VI ao presente decreto-lei que dele faz parte integrante, consagrados no Decreto-Lei n.º 258/2003, de 21 de outubro.
+
+2 - Ao efetuar a inspeção técnica de um veículo, o inspetor deve estar livre de conflitos de interesses de forma a garantir um elevado nível de imparcialidade e de objetividade.
+
+3 - Os resultados de uma inspeção técnica só podem ser alterados, se for caso disso, pelo IMT, I. P., se as conclusões da referida inspeção tiverem sido manifestamente erróneas.
+
+> Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+###### Artigo 13.º-D — Supervisão dos centros de inspeção
+
+Compete ao IMT, I. P., supervisionar os centros de inspeção, de acordo com o anexo VII do presente decreto-lei.
+
+> Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+###### Artigo 14.º — Fiscalização e regime contraordenacional
+
+1 - A fiscalização do cumprimento das disposições do presente diploma é efetuada pelas seguintes entidades, no âmbito da respetiva competência:
+
+a) Guarda Nacional Republicana (GNR);
+
+b) Polícia de Segurança Pública (PSP);
+
+c) IMT, I. P.;
+
+d) Autoridade Nacional de Segurança Rodoviária (ANSR);
+
+e) Outras entidades a quem sejam legalmente atribuídas estas funções.
+
+2 - Constituem contraordenações, as seguintes infrações:
+
+a) A utilização de veículo sem inspeção de acordo com a periodicidade definida no artigo 7.º, ou sem as inspeções a que se referem os n.os 2 e 3 do artigo 4.º quando tal seja obrigatório, a qual é punida com coima de (euro) 250 a (euro) 1250, salvo quando se tratar de motociclo, triciclo ou quadriciclo, em que a coima é de (euro) 120 a (euro) 600;
+
+b) A utilização de veículo em infração ao disposto nos n.os 2 e 3 do artigo anterior, a qual é punida com coima de (euro) 250 a (euro) 1250, salvo quando se tratar de motociclo, triciclo ou quadriciclo, em que a coima é de (euro) 120 a (euro) 600;
+
+c) A falta de inspeção extraordinária, quando determinada nos termos do artigo 116.º do Código da Estrada, a qual é punida com coima de (euro) 250 a (euro) 1250, salvo quando se tratar de motociclo, triciclo ou quadriciclo, em que a coima é de (euro) 120 a (euro) 600;
+
+d) A utilização do veículo sujeito a inspeção nos termos do artigo 7.º, quando o condutor não seja portador da ficha de inspeção referida nos n.os 1, 2 ou 4 do artigo 9.º, a qual é punida com a coima prevista no artigo 85.º do Código da Estrada.
+
+3 - O processamento e a competência para aplicação das coimas pelas contraordenações previstas no presente diploma regem-se pelas disposições do Código da Estrada.
+
+###### Artigo 15.º — Regulamentação
+
+1 - No prazo de 90 dias após a publicação do presente diploma, são aprovadas por diploma próprio as disposições regulamentares necessárias à sua execução.
+
+2 - As disposições regulamentares aprovadas ao abrigo do disposto no Decreto-Lei n.º 554/99, de 16 de dezembro, alterado pelos Decretos-Leis n.os 107/2002, de 16 de abril, 109/2004, de 12 de maio, 136/2008, de 21 de julho, 112/2009, de 18 de maio, e pela Lei n.º 46/2010, de 7 de setembro, mantêm-se em vigor enquanto não forem substituídas pelas novas disposições.
+
+###### Artigo 16.º — Avaliação e revisão
+
+O presente diploma será objeto de avaliação pelo IMT, I. P., decorridos cinco anos após a sua entrada em vigor, com vista a aferir da adequação do regime de inspeções e sua calendarização, competindo àquele organismo propor as modificações necessárias.
+
+###### Artigo 17.º — Norma revogatória
+
+Sem prejuízo do disposto no n.º 2 do artigo 15.º, é revogado o Decreto-Lei n.º 554/99, de 16 de dezembro, alterado pelos Decretos-Leis n.os 107/2002, de 16 de abril, 109/2004, de 12 de maio, 136/2008, de 21 de julho, 112/2009, de 18 de maio, e pela Lei n.º 46/2010, de 7 de setembro.
+
+###### Artigo 18.º — Entrada em vigor e produção de efeitos
+
+1 - Sem prejuízo do disposto no número seguinte, o presente diploma entra em vigor 30 dias após a respetiva publicação.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2025 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/lei/25-2025-910517154), em vigor a partir de 2025-03-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2024 - Diário da República n.º 253/2024, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2024-901661920), em vigor a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 139-E/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-e-2023-835994081), em vigor a partir de 2023-12-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 29/2023 - Diário da República n.º 87/2023, Série I de 2023-05-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472), em vigor a partir de 2023-06-05
+
+> Rectificado pelo/a [Declaração de Retificação n.º 44/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2012-174866), em vigor a partir de 2012-08-10
+
+Visto e aprovado em Conselho de Ministros de 17 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Filipe Neves Brites Pereira - Álvaro Santos Pereira.
+
+Promulgado em 26 de junho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 28 de junho de 2012.
+
+Pelo Primeiro-Ministro, Vítor Louçã Rabaça Gaspar, Ministro de Estado e das Finanças.
+
+## Anexo I — Veículos sujeitos a inspeção periódica
+
+(a que se refere o artigo 2.º)
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2025 - Diário da República n.º 50/2025, Série I de 2025-03-12](https://diariodarepublica.pt/dr/detalhe/lei/25-2025-910517154), em vigor a partir de 2025-03-13
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 29/2023 - Diário da República n.º 87/2023, Série I de 2023-05-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472), em vigor a partir de 2023-06-05
+
+> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 100/2013 - Diário da República n.º 142/2013, Série I de 2013-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2013-498752), em vigor a partir de 2013-08-24
+
+> Rectificado pelo/a [Declaração de Retificação n.º 44/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2012-174866), em vigor a partir de 2012-08-10
+
+## Anexo II — Pontos de controlo obrigatórios
+
+(a que se refere o n.º 1 do artigo 5.º)
+
+1 - Introdução
+
+O presente anexo identifica os sistemas e componentes de veículos a controlar, descrevendo em pormenor, além disso, o método a seguir para efetuar esse controlo e os critérios a aplicar para determinar se o veículo se encontra em condições de poder circular na via pública com segurança.
+
+As observações e verificações devem incidir, pelo menos, nos pontos adiante indicados, desde que digam respeito ao equipamento do veículo e que sejam efetuadas utilizando as técnicas e os equipamentos atualmente disponíveis, sem utilizar ferramentas de desmontagem ou remoção de qualquer peça ou componente do veículo.
+
+Todos os pontos enumerados devem ser tidos como obrigatórios num controlo técnico periódico de veículos, exceto os marcados com a indicação (X), que dizem respeito ao estado do veículo e à sua aptidão para circular na estrada, mas não são considerados essenciais num controlo técnico periódico.
+
+As «Razões da não aprovação» não se aplicam caso digam respeito a requisitos não previstos na legislação aplicável em matéria de homologação de veículos aquando da primeira matrícula e da primeira entrada em circulação, ou a requisitos relativos à retro montagem.
+
+Se o método da inspeção for indicado como visual, isto significa que, além de observar os pontos a controlar, o inspetor deve, se for caso disso, manuseá-los, avaliar o ruído ou utilizar qualquer outro meio de inspeção adequado sem utilizar equipamentos.
+
+2 - Âmbito da inspeção
+
+A inspeção deve incidir, pelo menos, nos pontos abaixo indicados, desde que digam respeito ao equipamento instalado no veículo sujeito a controlo:
+
+0 - Identificação do veículo.
+
+1 - Equipamento de travagem.
+
+2 - Direção.
+
+3 - Visibilidade.
+
+4 - Equipamento de iluminação e componentes do sistema elétrico.
+
+5 - Eixos, rodas, pneumáticos, suspensão.
+
+6 - Quadro e acessórios do quadro.
+
+7 - Equipamentos diversos.
+
+8 - Emissões.
+
+9 - Controlos suplementares para veículos de transporte de passageiros das categorias M2 e M3.
+
+3 - Certificado de controlo técnico
+
+O operador ou condutor do veículo deve ser informado por escrito dos defeitos, do resultado do controlo e das consequências jurídicas decorrentes.
+
+Os certificados de controlo técnico emitidos ao abrigo do controlo técnico periódico obrigatório de veículos devem incidir, pelo menos, nos pontos seguintes:
+
+1 - Número de identificação do veículo (VIN).
+
+2 - Número da chapa de matrícula e símbolo do país do Estado de matrícula.
+
+3 - Local e data do controlo.
+
+4 - Leitura do conta-quilómetros no momento do controlo, se disponível.
+
+5 - Classe do veículo, se disponível.
+
+6 - Defeitos identificados (recomenda-se que seja seguida a ordem numérica do n.º 4 do presente anexo) e respetiva categoria.
+
+7 - Avaliação global do veículo.
+
+8 - Data do controlo técnico periódico seguinte (caso esta informação não seja fornecida por outro meio).
+
+9 - Nome da organização de inspeção e assinatura ou identificação do inspetor responsável pelo controlo.
+
+4 - Requisitos mínimos de inspeção
+
+A inspeção deve incidir, pelo menos, nos pontos e aplicar as normas e métodos mínimos abaixo indicados, sendo as razões da não aprovação exemplos de defeitos passíveis de ser detetados.
+
+(ver documento original)
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 380/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/380-2023-224461529), em vigor a partir de 2023-12-20
+
+> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+> Rectificado pelo/a [Declaração de Retificação n.º 44/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2012-174866), em vigor a partir de 2012-08-10
+
+## Anexo III — Inspeções extraordinárias
+
+(a que se refere o n.º 2 do artigo 5.º)
+
+Os pontos a controlar para:
+
+a) Confirmar a reposição ou manutenção das condições técnicas de circulação e de segurança do veículo após a sua reparação; e
+
+b) Identificar o veículo;
+
+devem contemplar as observações e verificações seguintes:
+
+Veículos 1 a 9 do anexo i:
+
+1 - Todas as observações e verificações correspondentes a uma inspeção periódica - pontos a controlar que constam do anexo ii.
+
+2 - Observação visual detalhada, quando há dúvidas relacionadas com a identificação do veículo:
+
+Verificar os elementos de identificação:
+
+Marca;
+
+Modelo;
+
+Número de quadro;
+
+Distância entre eixos;
+
+Categoria;
+
+Tipo;
+
+Motor: cilindrada, combustível;
+
+Caixa: tipo, comprimento máximo;
+
+Lotação;
+
+Gravações e chapas.
+
+Verificar a respetiva localização no veículo e a conformidade com os elementos originais indicados pelo fabricante ou constantes da homologação.
+
+3 - Observação visual exterior e detalhada:
+
+3.1 - Avaliação do paralelismo e normalidade das folgas entre elementos do veículo, nomeadamente em portas e em tampas de bagageira, do motor e outras.
+
+3.2 - Verificação do funcionamento correto dos sistemas de fecho e abertura das portas, tampas de bagageira, do motor e outras.
+
+3.3 - Observação do alinhamento correto dos diversos elementos do veículo, nomeadamente da carroçaria, da cabina e da caixa.
+
+3.4 - Confirmação da inexistência de arestas, vincos ou rugas resultantes de deformações não reparadas convenientemente ou de montagens incorretas.
+
+3.5 - Confirmação da inexistência de empenos resultantes de deformações não reparadas convenientemente ou de montagens incorretas.
+
+3.6 - Observação da correção das ligações, nomeadamente das soldaduras.
+
+3.7 - Observação da correção dos elementos de ligação da cabina e da carroçaria à estrutura do quadro.
+
+4 - Verificação tridimensional em veículos ligeiros com estrutura monobloco ou autoportante, quando a inspeção não seja feita exclusivamente por razões de identificação:
+
+4.1 - A verificação tridimensional da estrutura principal (quadro) é feita, sem desmontagens, em três zonas do veículo: anterior, central, entre os eixos e posterior.
+
+4.2 - Na verificação da conformidade da estrutura relativamente às cotas originais, as medições incidem sobre os pontos em cada uma das três zonas referidas no n.º 4.1, nos elementos fundamentais do quadro, designadamente os de fixação dos elementos da suspensão.
+
+4.3 - A verificação das cotas deve incidir, pelo menos, sobre os seguintes 10 pontos:
+
+a) Quatro pontos na zona danificada;
+
+b) Dois pontos na fixação superior da suspensão da frente;
+
+c) Quatro pontos nas restantes zonas.
+
+5 - Verificação dos sistemas de suspensão e direção em veículos ligeiros, quando a inspeção não seja feita exclusivamente por razões de identificação:
+
+5.1 - A verificação da geometria do alinhamento e variação angular das rodas tem por base as indicações do fabricante do veículo relativas às condições de carga e altura do veículo no momento do ensaio.
+
+5.2 - Devem ser verificados os valores dos seguintes ângulos:
+
+a) Sopé;
+
+b) Avanço;
+
+c) Convergência;
+
+d) Saída;
+
+e) Impulso;
+
+f) Viragem.
+
+5.3 - Na falta de expressa indicação do fabricante, para avaliação da conformidade dos ângulos referidos no n.º 5.2, considera-se aceitável:
+
+a) A diferença máxima de 30', para veículos ligeiros, entre as medições dos lados direito e esquerdo do veículo e de 1º para veículos pesados;
+
+b) O valor máximo de 30' para o ângulo de impulso;
+
+c) Um diferencial máximo de 30', entre as medições para os lados direito e esquerdo, considerando estes como as diferenças do valor angular entre as duas rodas diretrizes da frente, estando a roda interior virada a 20º
+
+6 - Verificação das características do motor e transmissão em veículos ligeiros de passageiros, nos casos em que haja dúvidas sobre a identificação da marca, modelo ou cilindrada do motor - a verificação da conformidade das características do motor em relação às indicadas pelo fabricante, nomeadamente evolução da potência em função do número de rotações.
+
+Esta verificação é feita em banco de ensaio de potência, sendo também avaliados o bom estado de funcionamento do sistema de transmissão e o cumprimento dos limites poluentes da emissão de gases de escape.
+
+7 - Verificação do sistema de direção em veículos pesados, quando a inspeção não seja feita exclusivamente por razões de identificação - a verificação da geometria do alinhamento e variação angular das rodas deve basear-se tanto quanto possível em indicações do fabricante do veículo. Na falta de expressa indicação do fabricante, deverá recorrer-se, pelo menos, à simetria relativa ao plano longitudinal médio do veículo.
+
+Veículos 10 a 12 do anexo i:
+
+8 - Todas as observações e verificações correspondentes a uma inspeção periódica, com as devidas adaptações.
+
+> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+> Rectificado pelo/a [Declaração de Retificação n.º 44/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2012-174866), em vigor a partir de 2012-08-10
+
+## Anexo IV — Inspeções para atribuição de nova matrícula
+
+(a que se refere o n.º 3 do artigo 5.º)
+
+Os procedimentos para a inspeção de veículos para atribuição de nova matrícula devem incluir as seguintes observações e verificações aplicáveis à classe e tipo de veículo:
+
+Veículos 1 a 9 do anexo i:
+
+1 - Todas as observações e verificações correspondentes a uma inspeção periódica: pontos a controlar que constam do anexo ii.
+
+2 - Observação visual relacionada com a identificação do veículo - verificar e registar a conformidade dos elementos de identificação:
+
+Marca;
+
+Modelo;
+
+Número do quadro;
+
+Distância entre eixos;
+
+Categoria;
+
+Tipo;
+
+Motor: número, cilindrada, combustível;
+
+Caixa: tipo, comprimento máximo;
+
+Lotação;
+
+Peso bruto, peso bruto rebocável e tara;
+
+Pneus;
+
+e a respetiva localização no veículo, gravações e chapas, com os elementos originais indicados pelo fabricante ou constantes da homologação.
+
+3 - Observação visual do veículo, exterior e detalhada:
+
+3.1 - Avaliação do paralelismo e normalidade das folgas entre elementos do veículo, nomeadamente em portas e em tampas de bagageira, do motor e outras.
+
+3.2 - Verificação do funcionamento correto dos sistemas de fecho e abertura das portas, tampas de bagageira, do motor e outras.
+
+3.3 - Observação do alinhamento correto dos diversos elementos do veículo, nomeadamente da carroçaria, da cabina ou da caixa.
+
+3.4 - Confirmação da inexistência de arestas, vincos ou rugas resultantes de deformações não reparadas convenientemente ou de montagens incorretas.
+
+3.5 - Confirmação da inexistência de empenos resultantes de deformações não reparadas convenientemente ou de montagens incorretas.
+
+3.6 - Observação da correção das ligações, nomeadamente das soldaduras.
+
+3.7 - Observação da correção dos elementos de ligação da cabina e da carroçaria à estrutura do quadro.
+
+4 - Verificação tridimensional em veículos ligeiros com estrutura monobloco ou autoportante sempre que, em consequência de observação visual detalhada, seja detetado indício de anomalia que justifique esta verificação:
+
+4.1 - A verificação tridimensional da estrutura principal (quadro) é feita, sem desmontagens, em três zonas do veículo: anterior, central, entre os eixos e posterior.
+
+4.2 - Na verificação da conformidade da estrutura relativamente às cotas originais, as medições incidem sobre os pontos em cada uma das três zonas referidas no n.º 4.1, nos elementos fundamentais do quadro, designadamente os de fixação dos elementos da suspensão.
+
+4.3 - A verificação das cotas deve incidir, pelo menos, sobre os seguintes 10 pontos:
+
+a) Quatro pontos na zona danificada;
+
+b) Dois pontos na fixação superior da suspensão da frente;
+
+c) Quatro pontos nas restantes zonas.
+
+5 - Verificação dos sistemas de suspensão e direção em veículos ligeiros quando é feita a verificação tridimensional:
+
+5.1 - A verificação da geometria do alinhamento e variação angular das rodas tem por base as indicações do fabricante do veículo relativas às condições de carga e altura do veículo no momento do ensaio.
+
+5.2 - Devem ser verificados os valores dos seguintes ângulos:
+
+a) Sopé;
+
+b) Avanço;
+
+c) Convergência;
+
+d) Saída;
+
+e) Impulso;
+
+f) Viragem.
+
+5.3 - Na falta de expressa indicação do fabricante, para avaliação da conformidade dos ângulos referidos no n.º 5.2, considera-se aceitável:
+
+a) A diferença máxima de 30', para veículos ligeiros, entre as medições dos lados direito e esquerdo do veículo e de 1º para veículos pesados;
+
+b) O valor máximo de 30' para o ângulo de impulso;
+
+c) Um diferencial máximo de 30', entre as medições para os lados direito e esquerdo, considerando estes como as diferenças do valor angular entre as duas rodas diretrizes da frente, estando a roda interior virada a 20º
+
+6 - Verificação do sistema de direção em veículos pesados sempre que, em consequência de observação visual detalhada, seja detetado indício de anomalia que justifique esta verificação - a verificação da geometria do alinhamento e variação angular das rodas deve basear-se tanto quanto possível em indicações do fabricante do veículo.
+
+Veículos 10 a 12 do anexo i:
+
+7 - Todas as observações e verificações correspondentes a uma inspeção periódica, com as devidas adaptações.
+
+> Revogado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+> Rectificado pelo/a [Declaração de Retificação n.º 44/2012 - Diário da República n.º 174/2012, Série I de 2012-09-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/44-2012-174866), em vigor a partir de 2012-08-10
+
+## Anexo II — (a que se refere o n.º 3 do artigo 13.º-A)
+
+Requisitos mínimos relativos às instalações e aos equipamentos para realização da inspeção técnica
+
+I. Instalações e equipamento
+
+As inspeções técnicas realizadas de acordo com os métodos recomendados e especificados no anexo ii devem ser efetuadas em instalações e com equipamentos apropriados. Tal poderá incluir, se aplicável, a utilização de unidades de inspeção móveis. O equipamento necessário depende das categorias de veículos inspecionados, conforme descrito no quadro i. As instalações e o equipamento devem satisfazer os seguintes requisitos mínimos:
+
+1) As instalações com espaço adequado para a inspeção de veículos e que satisfaçam os requisitos de saúde e de segurança aplicáveis;
+
+2) Linha(s) de inspeção com dimensões suficientes para cada ensaio, com uma fossa ou um elevador, e para veículos com uma massa máxima superior a 3,5 t, com um mecanismo que permita elevar os veículos num dos eixos, bem como de iluminação adequada e de equipamento de ventilação, se necessário;
+
+3) Para a inspeção de qualquer veículo, frenómetro de rolos com capacidade de medição, visualização e registo das forças de travagem, e a pressão de ar no sistema de travagem (no caso dos sistemas pneumáticos), nos termos do anexo A da norma ISO 21069-1, relativa aos requisitos técnicos dos frenómetros ou de outras normas equivalentes;
+
+4) Para a inspeção de veículos com uma massa máxima não superior a 3,5 t, frenómetro de rolos de acordo com o referido no ponto 3 que poderá não incluir a possibilidade de registo e visualização das forças de travagem, da força exercida no pedal e a pressão de ar no sistema de travagem (no caso dos sistemas pneumáticos);
+
+ou
+
+Frenómetro de placas equivalente ao frenómetro de rolos referido no ponto 3, que poderá não incluir a possibilidade de registar e mostrar as forças de travagem e a força exercida no pedal nem de mostrar a pressão de ar no sistema de travagem (no caso dos sistemas pneumáticos);
+
+5) Desacelerógrafo com registador - enquanto instrumento de medição não contínua deve registar/armazenar pelo menos 10 leituras por segundo;
+
+6) Meios adequados para inspecionar sistemas de travagem pneumáticos como manómetros, conectores e tubagens;
+
+7) Dispositivo de medição do peso por roda/eixo para determinar os pesos por eixo (e, facultativamente, meios para medir o peso em cada uma das duas rodas, como básculas para rodas e básculas para eixos);
+
+8) Dispositivo para ensaiar a suspensão das rodas/eixos (detetor de folgas) sem levantar o eixo, com as seguintes características:
+
+a) Equipado com, pelo menos, duas placas acionadas eletricamente, que podem ser movimentadas em sentidos opostos, nas direções longitudinal e transversal;
+
+b) O operador pode comandar o movimento das placas do local onde realiza a inspeção;
+
+c) Para veículos com uma massa máxima superior a 3,5 t, as placas satisfazem os seguintes requisitos técnicos:
+
+Movimento longitudinal e transversal mínimo: 95 mm;
+
+Velocidade de movimento longitudinal e transversal: entre 5 cm/s e 15 cm/s;
+
+9) Sonómetro de classe ii, se o nível sonoro for medido;
+
+10) Analisador de quatro gases conforme com a Diretiva 2004/22/CE do Parlamento Europeu e do Conselho;
+
+11) Opacímetro com exatidão suficiente;
+
+12) Regloscópio que permita inspecionar a regulação dos faróis de acordo com as disposições relativas à regulação de faróis de veículos a motor (Diretiva 76/756/CEE); a fronteira luz/sombra deve ser facilmente identificável à luz do dia (sem luz solar direta);
+
+13) Dispositivo para medir a profundidade do piso dos pneus;
+
+14) Um dispositivo de ligação ao interface eletrónico do veículo, como um instrumento de diagnóstico OBD;
+
+15) Dispositivo para detetar fugas de GPL/GNC/GNL se esses veículos forem inspecionados.
+
+Os dispositivos acima referidos podem ser combinados num só dispositivo composto, desde que tal não interfira com a exatidão de cada dispositivo.
+
+II. Calibração do equipamento de medição
+
+Período máximo entre duas calibrações sucessivas, salvo especificação em contrário na legislação da União aplicável:
+
+i) Pesagens e medições de pressão ou de nível sonoro: 24 meses;
+
+ii) Medição de forças: 24 meses;
+
+iii) Medição de emissões gasosas: 12 meses.
+
+QUADRO I
+
+Equipamento mínimo necessário para as inspeções técnicas
+
+| Veículos | Categoria | Equipamento necessário dos itens referidos no ponto i |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Massa máxima |  |  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 1. Motociclos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | L3e, L4e | G | x |  |  |  |  |  |  |  | x | x |  | x | x | x |  |
+|  |  | L3e, L4e | D | x |  |  |  |  |  |  |  | x |  | x | x | x | x |  |
+|  |  | L5e | G | x | x |  |  |  |  |  |  | x | x |  | x | x | x |  |
+|  |  | L5e | D | x | x |  |  |  |  |  |  | x |  | x | x | x | x |  |
+|  |  | L6e | G | x | x |  |  |  |  |  |  | x | x |  | x | x | x |  |
+|  |  | L6e | D | x | x |  |  |  |  |  |  | x |  | x | x | x | x |  |
+|  |  | L7e | G | x | x |  |  |  |  |  |  | x | x |  | x | x | x |  |
+|  |  | L7e | D | x | x |  |  |  |  |  |  | x |  | x | x | x | x |  |
+| 2. Veículos de transporte de pessoas |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Até 3500 kg, inclusive | M1, M2 | G | x | x |  | x |  |  |  |  | x | x |  | x | x | x | x |
+|  | Até 3500 kg, inclusive | M1, M2 | D | x | x |  | x |  |  |  |  | x |  | x | x | x | x |  |
+|  | (maior que) 3500 kg | M2, M3 | G | x | x | x |  | x | x | x | x | x | x |  | x | x | x | x |
+|  | (maior que) 3500 kg | M2, M3 | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x |  |
+| 3. Veículos de transporte de mercadorias |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Até 3500 kg, inclusive | N1 | G | x | x |  | x |  |  |  |  | x | x |  | x | x | x | x |
+|  | Até 3500 kg, inclusive | N1 | D | x | x |  | x |  |  |  |  | x |  | x | x | x | x |  |
+|  | (maior que) 3500 kg | N2, N3 | G | x | x | x |  | x | x | x | x | x | x |  | x | x | x | x |
+|  | (maior que) 3500 kg | N2, N3 | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x |  |
+| 4. Veículos especiais derivados de veículos da categoria N, T1b, T2b, T3b, T4.1b, T4.2b e T4.3b |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Até 3500 kg, inclusive | N1 | G | x | x |  | x |  |  |  |  | x | x |  | x | x | x | x |
+|  | Até 3500 kg, inclusive | N1 | D | x | x |  | x |  |  |  |  | x |  | x | x | x | x |  |
+|  | (maior que) 3500 kg | N2, N3, T1b, T2b, T3b, T4.1b,<br>T4.2b e T4.3b | G | x | x | x |  | x | x | x | x | x | x |  | x | x | x | x |
+|  | (maior que) 3500 kg | N2, N3, T1b, T2b, T3b, T4.1b,<br>T4.2b e T4.3b | D | x | x | x |  | x | x | x | x | x |  | x | x | x | x |  |
+| 5. Reboques |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | 750 kg e (igual ou menor que) 3500 kg | O2 |  | x | x |  | x |  |  |  |  |  |  |  |  | x |  |  |
+|  | (maior que) 3500 kg | O3, O4 |  | x | x | x |  |  | x | x | x |  |  |  |  | x |  |  |
+
+(1) G: motor a gasolina (ignição comandada); D: motor diesel (ignição por compressão).
+
+> Alterado pelo/a Anexo II do/a [Portaria n.º 380/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/380-2023-224461529), em vigor a partir de 2023-12-20
+
+> Aditado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+## Anexo VI — (a que se refere o n.º 1 do artigo 13.º-C)
+
+REQUISITOS MÍNIMOS RELATIVOS À COMPETÊNCIA, FORMAÇÃO E CERTIFICAÇÃO
+
+DOS INSPETORES
+
+1 - Competência
+
+Previamente à aprovação de candidatos ao exercício de funções de inspetor para a realização de inspeções técnicas, o Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), deve verificar se os candidatos:
+
+a) Possuem habilitações comprovadas e conhecimentos relevantes sobre veículos rodoviários nos seguintes domínios:
+
+Mecânica;
+
+Dinâmica;
+
+Dinâmica dos veículos;
+
+Motores de combustão;
+
+Materiais e transformação de materiais;
+
+Eletricidade;
+
+Eletrónica e componentes eletrónicos de veículos;
+
+Aplicações de tecnologias da informação;
+
+b) Possuem, pelo menos, três anos de experiência documentada ou equivalente como mentoria ou estudos documentados e formação adequada no domínio dos veículos rodoviários como acima referido.
+
+2 - Formação inicial e de atualização
+
+O IMT, I. P., deve assegurar que os inspetores recebem a formação inicial e de atualização adequada ou são sujeitos a exames adequados, de nível teórico e prático, que lhes permita ser autorizados a efetuar inspeções técnicas.
+
+A formação mínima inicial e de atualização ou os exames adequados devem incluir os seguintes elementos:
+
+a) Formação inicial ou exames adequados
+
+A formação inicial dada pelas entidades formadoras aprovadas pelo IMT, I. P., deve incidir, pelo menos, nos seguintes aspetos:
+
+i) Tecnologia dos veículos:
+
+Sistemas de travagem;
+
+Sistemas de direção;
+
+Campos de visão;
+
+Instalação de luzes, equipamento de iluminação e componentes eletrónicos;
+
+Eixos, rodas e pneus;
+
+Quadro e carroçaria;
+
+Ruído e emissões poluentes;
+
+Requisitos suplementares para veículos especiais.
+
+ii) Métodos de ensaio;
+
+iii) Avaliação de deficiências;
+
+iv) Disposições legais aplicáveis ao veículo para homologação;
+
+v) Disposições legais relacionadas com a inspeção técnica dos veículos;
+
+vi) Disposições administrativas relativas à homologação, matrícula e inspeção técnica dos veículos;
+
+vii) Aplicações de tecnologias da informação, ao nível de ensaios e de gestão;
+
+b) Formação de atualização ou exames adequados
+
+O IMT, I. P., deve garantir que os inspetores recebem regularmente formação de atualização ou são sujeitos a exames adequados pela entidade formadora.
+
+O IMT, I. P., deve assegurar que o teor dessa formação ou exame adequado permite aos inspetores manter e atualizar os conhecimentos e competências necessários nos aspetos referidos nos pontos i) a vii) da alínea a).
+
+3 - Certificado de qualificação
+
+O certificado ou a documentação equivalente emitida aos inspetores autorizados a efetuar inspeções técnicas deve conter, pelo menos, as seguintes informações:
+
+Identificação do inspetor (nome completo);
+
+Categorias de veículos relativamente às quais o inspetor está autorizado a efetuar inspeções técnicas;
+
+Autoridade emissora;
+
+Data de emissão.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 29/2023 - Diário da República n.º 87/2023, Série I de 2023-05-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472), em vigor a partir de 2023-06-05
+
+> Aditado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+## Anexo VII — (a que se refere o artigo 13.º-D)
+
+ORGANISMO DE SUPERVISÃO
+
+Ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), enquanto organismo responsável pela supervisão da atividade de inspeção técnica de veículos compete:
+
+1 - Atribuições e atividades do organismo de supervisão
+
+a) Supervisão dos centros de inspeção:
+
+Verificação de que as instalações e o equipamento para realização das inspeções satisfazem os requisitos mínimos;
+
+Verificação dos requisitos obrigatórios aplicáveis às entidades gestoras;
+
+b) Verificação da formação e exames dos inspetores:
+
+Verificação da formação inicial dos inspetores;
+
+Verificação da formação de atualização periódica dos inspetores;
+
+Formação de atualização periódica dos técnicos do IMT, I. P., com funções de examinadores;
+
+Realização ou supervisão dos exames;
+
+c) Auditorias:
+
+Auditoria aos centros de inspeção antes da aprovação;
+
+Auditorias periódicas aos centros de inspeção;
+
+Auditorias extraordinárias em caso de irregularidades;
+
+Auditorias aos centros de formação/de exames;
+
+d) Monitorização (medidas seguintes):
+
+Contrainspeção a uma amostra estatisticamente válida dos veículos inspecionados;
+
+Controlos tipo «cliente mistério» (os veículos apresentados as inspeções neste âmbito podem ter deficiências, a título facultativo);
+
+Análise dos resultados das inspeções técnicas (métodos estatísticos);
+
+Repetição de inspeções em sede de recurso;
+
+Investigação de reclamações;
+
+e) Validação dos resultados das medições efetuadas nas inspeções técnicas;
+
+f) Proposta de revogação ou suspensão da aprovação dos centros de inspeção e/ou do licenciamento dos inspetores nas seguintes circunstâncias:
+
+Caso o centro de inspeção ou o inspetor em causa não cumpra um requisito importante de aprovação;
+
+Caso sejam detetadas irregularidades graves;
+
+Caso se verifiquem de modo continuado resultados negativos nas auditorias;
+
+Caso se registe perda da boa reputação do centro de inspeção ou do inspetor em causa.
+
+2 - Requisitos aplicáveis ao organismo de supervisão
+
+Os requisitos aplicáveis às pessoas contratadas por um organismo de supervisão devem abranger os seguintes domínios:
+
+Competência técnica;
+
+Imparcialidade;
+
+Padrões de qualificação e de formação.
+
+3 - Teor dos regulamentos e procedimentos
+
+Compete ao IMT, I. P., estabelecer os regulamentos e procedimentos relevantes, os quais devem abranger os seguintes aspetos:
+
+a) Requisitos relativos à aprovação e supervisão de centros de inspeção:
+
+Requerimento para autorização de funcionamento como centro de inspeção;
+
+Responsabilidades do centro de inspeção;
+
+Visita ou visitas prévias, antes da aprovação, para verificar se todos os requisitos estão cumpridos;
+
+Aprovação de centros de inspeção;
+
+Contrainspeções e auditorias periódicas aos centros de inspeção;
+
+Verificação periódica dos centros de inspeção a fim de aferir do seu cumprimento continuado das regras e procedimentos aplicáveis;
+
+Auditorias ou verificações especiais a centros de inspeção, sem aviso prévio, baseadas em elementos de prova concretos;
+
+Análise de dados das inspeções para deteção de eventual não conformidade com as regras e os procedimentos aplicáveis;
+
+Revogação ou suspensão de aprovações concedidas a centros de inspeção;
+
+b) Inspetores de centros de inspeção:
+
+Requisitos para ser inspetor certificado;
+
+Formação inicial e de atualização, exames;
+
+Revogação ou suspensão da certificação de inspetores;
+
+c) Equipamento e instalações:
+
+Requisitos do equipamento de inspeção;
+
+Requisitos das instalações de inspeção;
+
+Requisitos de sinalização;
+
+Requisitos de manutenção e calibração dos equipamentos de inspeção;
+
+Requisitos dos sistemas informáticos;
+
+d) Organismo de supervisão:
+
+Requisitos aplicáveis ao pessoal do IMT, I. P., com funções de controlo da atividade de inspeção ou de realização de exames de inspetores;
+
+Recursos e reclamações.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 29/2023 - Diário da República n.º 87/2023, Série I de 2023-05-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472), em vigor a partir de 2023-06-05
+
+> Aditado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+## Anexo VIII — (a que se refere o n.º 2 do artigo 5.º)
+
+Inspeções extraordinárias
+
+Os pontos a controlar para:
+
+a) Confirmar a reposição ou manutenção das condições técnicas de circulação e de segurança do veículo após a sua reparação; e
+
+b) Identificar o veículo;
+
+devem contemplar as observações e verificações seguintes:
+
+Veículos 1 a 9 do anexo i do Decreto-Lei n.º 144/2012, de 11 de julho, na sua redação atual
+
+|  |  |
+| --- | --- |
+| 1 - Todas as observações e verificações correspondentes a uma inspeção periódica: | Pontos a controlar que constam do anexo i da presente portaria. |
+| 2 - Observação visual detalhada, quando há dúvidas relacionadas com a identificação do veículo: | Verificar os elementos de identificação:<br>Marca;<br>Modelo;<br>Número de quadro; |
+|  | Distância entre eixos; |
+|  | Categoria; |
+|  | Tipo; |
+|  | Motor: cilindrada, combustível; |
+|  | Caixa: tipo, comprimento máximo; |
+|  | Lotação; |
+|  | Gravações e chapas. |
+|  | Verificar a respetiva localização no veículo e a conformidade com os elementos originais indicados pelo fabricante ou constantes da homologação. |
+| 3 - Observação visual exterior e detalhada: | 3.1 - Avaliação do paralelismo e normalidade das folgas entre elementos do veículo, nomeadamente em portas e em tampas de bagageira, do motor e outras.<br>3.2 - Verificação do funcionamento correto dos sistemas de fecho e abertura das portas, tampas de bagageira, do motor e outras.<br>3.3 - Observação do alinhamento correto dos diversos elementos do veículo, nomeadamente da carroçaria, da cabina e da caixa.<br>3.4 - Confirmação da inexistência de arestas, vincos ou rugas resultantes de deformações não reparadas convenientemente ou de montagens incorretas.<br>3.5 - Confirmação da inexistência de empenos resultantes de deformações não reparadas convenientemente ou de montagens incorretas.<br>3.6 - Observação da correção das ligações, nomeadamente das soldaduras.<br>3.7 - Observação da correção dos elementos de ligação da cabina e da carroçaria à estrutura do quadro. |
+| 4 - Verificação tridimensional em veículos com estrutura monobloco, autoportante, ou quadro com longarinas, quando a inspeção não seja feita exclusivamente por razões de identificação: | 4.1 - A verificação tridimensional da estrutura principal (quadro) é feita, sem desmontagens, em três zonas do veículo: anterior, central, entre os eixos e posterior.<br>4.2 - Na verificação da conformidade da estrutura relativamente às cotas originais, as medições incidem sobre os pontos em cada uma das três zonas referidas no n.º 4.1, nos elementos fundamentais do quadro, designadamente os de fixação dos elementos da suspensão. |
+|  | 4.3 - Quando realizada com recurso a equipamento para verificação tridimensional, a verificação das cotas deve incidir, pelo menos, sobre os seguintes 10 pontos:<br>a) Quatro pontos na zona danificada;<br>b) Dois pontos na fixação superior da suspensão da frente;<br>c) Quatro pontos nas restantes zonas. |
+| 5 - Verificação dos sistemas de suspensão e direção em veículos ligeiros, quando a inspeção não seja feita exclusivamente por razões de identificação: | 5.1 - A verificação da geometria do alinhamento e variação angular das rodas tem por base as indicações do fabricante do veículo relativas às condições de carga e altura do veículo no momento do ensaio.<br>5.2 - Devem ser verificados os valores dos seguintes ângulos:<br>a) Sopé;<br>b) Avanço; |
+|  | c) Convergência;<br>d) Saída;<br>e) Impulso;<br>f) Viragem. |
+|  | 5.3 - Na falta de indicação expressa do fabricante, para avaliação da conformidade dos ângulos referidos no n.º 5.2, considera-se aceitável:<br>a) A diferença máxima de 30', para veículos ligeiros, entre as medições dos lados direito e esquerdo do veículo;<br>b) O valor máximo de 30' para o ângulo de impulso; |
+|  | c) Um diferencial máximo de 30' (veículos ligeiros) e de 1º (veículos pesados) entre as medições para os lados direito e esquerdo, considerando estes como as diferenças do valor angular entre as duas rodas diretrizes da frente, estando a roda interior virada a 20°. |
+| 6 - Verificação das características do motor e transmissão em veículos ligeiros de passageiros, nos casos em que haja dúvidas sobre a identificação da marca, modelo ou cilindrada do motor: | A verificação da conformidade das características do motor em relação às indicadas pelo fabricante, nomeadamente evolução da potência em função do número de rotações.<br>Esta verificação é feita em banco de ensaio de potência, sendo também avaliados o bom estado de funcionamento do sistema de transmissão e o cumprimento dos limites poluentes da emissão de gases de escape. |
+| 7 - Verificação do sistema de direção em veículos pesados, quando a inspeção não seja feita exclusivamente por razões de identificação: | A verificação da geometria do alinhamento e variação angular das rodas deve basear-se tanto quanto possível em indicações do fabricante do veículo. Na falta de expressa indicação do fabricante, deverá recorrer-se, pelo menos, à simetria relativa ao plano longitudinal médio do veículo. |
+
+Veículos 10 a 12 do anexo i do Decreto-Lei n.º 144/2012, de 11 de julho, na sua redação atual
+
+8 - Todas as observações e verificações correspondentes a uma inspeção periódica, com as devidas adaptações.
+
+> Alterado pelo/a Anexo III do/a [Portaria n.º 380/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/380-2023-224461529), em vigor a partir de 2023-12-20
+
+> Aditado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01
+
+## Anexo IX — (a que se refere o n.º 3 do artigo 5.º)
+
+Inspeções para atribuição de nova matrícula
+
+Os procedimentos para a inspeção de veículos para atribuição de nova matrícula devem incluir as seguintes observações e verificações aplicáveis à classe e tipo de veículo:
+
+Veículos 1 a 9 do anexo i do Decreto-Lei n.º 144/2012, de 11 de julho, na sua redação atual
+
+|  |  |
+| --- | --- |
+| 1 - Todas as observações e verificações correspondentes a uma inspeção periódica: | Pontos a controlar que constam do anexo i da presente portaria. |
+| 2 - Observação visual relacionada com a identificação do veículo: | Verificar e registar a conformidade dos elementos de identificação: |
+| Marca; |  |
+|  | Modelo; |
+|  | Número do quadro; |
+|  | Distância entre eixos; |
+|  | Categoria; |
+|  | Tipo; |
+|  | Motor: número, cilindrada, combustível; |
+|  | Caixa: tipo, comprimento máximo; |
+|  | Lotação; |
+|  | Peso bruto, peso bruto rebocável e tara; |
+|  | Pneus; |
+|  | e a respetiva localização no veículo, gravações e chapas, com os elementos originais indicados pelo fabricante ou constantes da homologação. |
+| 3 - Observação visual do veículo, exterior e detalhada: | 3.1 - Avaliação do paralelismo e normalidade das folgas entre elementos do veículo, nomeadamente em portas e em tampas de bagageira, do motor e outras.<br>3.2 - Verificação do funcionamento correto dos sistemas de fecho e abertura das portas, tampas de bagageira, do motor e outras.<br>3.3 - Observação do alinhamento correto dos diversos elementos do veículo, nomeadamente da carroçaria, da cabina ou da caixa.<br>3.4 - Confirmação da inexistência de arestas, vincos ou rugas resultantes de deformações não reparadas convenientemente ou de montagens incorretas.<br>3.5 - Confirmação da inexistência de empenos resultantes de deformações não reparadas convenientemente ou de montagens incorretas.<br>3.6 - Observação da correção das ligações, nomeadamente das soldaduras.<br>3.7 - Observação da correção dos elementos de ligação da cabina e da carroçaria à estrutura do quadro. |
+| 4 - Verificação tridimensional em veículos ligeiros com estrutura monobloco, autoportante ou quadro com longarinas, sempre que, em consequência de observação visual detalhada, seja detetado indício de anomalia que justifique esta verificação: | 4.1 - A verificação tridimensional da estrutura principal (quadro) é feita, sem desmontagens, em três zonas do veículo: anterior, central, entre os eixos e posterior.<br>4.2 - Na verificação da conformidade da estrutura relativamente às cotas originais, as medições incidem sobre os pontos em cada uma das três zonas referidas no n.º 4.1, nos elementos fundamentais do quadro, designadamente os de fixação dos elementos da suspensão.<br>4.3 - Quando realizada com recurso a equipamento para verificação tridimensional, a verificação das cotas deve incidir, pelo menos, sobre os seguintes 10 pontos:<br>a) Quatro pontos na zona danificada;<br>b) Dois pontos na fixação superior da suspensão da frente;<br>c) Quatro pontos nas restantes zonas. |
+| 5 - Verificação dos sistemas de suspensão e direção em veículos ligeiros quando é feita a verificação tridimensional: | 5.1 - A verificação da geometria do alinhamento e variação angular das rodas tem por base as indicações do fabricante do veículo relativas às condições de carga e altura do veículo no momento do ensaio. |
+|  | 5.2 - Devem ser verificados os valores dos seguintes ângulos: |
+|  | a) Sopé; |
+|  | b) Avanço; |
+|  | c) Convergência; |
+|  | d) Saída; |
+|  | e) Impulso; |
+|  | f) Viragem. |
+|  | 5.3 - Na falta de indicação expressa do fabricante, para avaliação da conformidade dos ângulos referidos no n.º 5.2, considera-se aceitável: |
+|  | a) A diferença máxima de 30', para veículos ligeiros, entre as medições dos lados direito e esquerdo do veículo; |
+|  | b) O valor máximo de 30' para o ângulo de impulso; |
+|  | c) Um diferencial máximo de 30' (veículos ligeiros) e de 1° (veículos pesados) entre as medições para os lados direito e esquerdo, considerando estes como as diferenças do valor angular entre as duas rodas diretrizes da frente, estando a roda interior virada a 20°. |
+| 6 - Verificação do sistema de direção em veículos pesados sempre que, em consequência de observação visual detalhada, seja detetado indício de anomalia que justifique esta verificação: | A verificação da geometria do alinhamento e variação angular das rodas deve basear-se tanto quanto possível em indicações do fabricante do veículo. |
+
+Veículos 10 a 12 do anexo i do Decreto-Lei n.º 144/2012, de 11 de julho, na sua redação atual
+
+7 - Todas as observações e verificações correspondentes a uma inspeção periódica, com as devidas adaptações.
+
+116964069
+
+> Alterado pelo/a Anexo IV do/a [Portaria n.º 380/2023 - Diário da República n.º 224/2023, Série I de 2023-11-20](https://diariodarepublica.pt/dr/detalhe/portaria/380-2023-224461529), em vigor a partir de 2023-12-20
+
+> Aditado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 144/2017 - Diário da República n.º 230/2017, Série I de 2017-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), em vigor a partir de 2018-01-01

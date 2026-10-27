@@ -1,0 +1,417 @@
+---
+schema_version: '1.0'
+id: pt:dre:159754:por
+title: Decreto n.º 59/75
+short_title: null
+summary: Aprova, para ratificação, o Acordo Comercial entre o Governo da República Tunisina e o Governo da República Portuguesa
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Económicos
+proposing_entity: null
+official_number: 59/75
+official_date: null
+publication_date: '1975-02-15'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 39/1975, Série I de 1975-02-15
+  number: '39'
+  series: I
+  supplement: null
+  pages: 232 - 234
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/02/03900/02320234.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '159754'
+  dre_path: /dr/detalhe/decreto/59-1975-159754
+  internal: pt:dre:159754:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/59-1975-159754
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/59-1975-159754
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:39:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7587555bad03af2d168caa3e4e21c51f68611dd0db45805428933f4594ceca5a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:39:19Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:39:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 59/75
+
+de 15 de Fevereiro
+
+Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta o seguinte:
+
+Artigo único. É aprovado, para ratificação, o Acordo Comercial entre o Governo da República Tunisina e o Governo da República Portuguesa, concluído em Tunes, em 9 de Novembro de 1974, cujos textos em francês e respectiva tradução para português vão anexos ao presente decreto.
+
+Vasco dos Santos Gonçalves - Victor Manuel Rodrigues Alves - Ernesto Augusto de Melo Antunes - Álvaro Cunhal - Joaquim Jorge Magalhães Mota - António de Almeida Santos - Manuel da Costa Brás - Francisco Salgado Zenha - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar - José Augusto Fernandes - Manuel Rodrigues de Carvalho - José Inácio da Costa Martins - Maria de Lourdes Pintasilgo - Joaquim Jorge de Pinho Campinos.
+
+Assinado em 6 de Fevereiro de 1975.
+
+Publique-se.
+
+Presidente da República, FRANCISCO DA COSTA GOMES.
+
+Accord Commercial entre le Gouvernement de la République Tunisienne et le Gouvernement de la République Portugaise.
+
+Le Gouvernement de la République Tunisienne et le Gouvernement de la République Portugaise, désireux de favoriser la coopération économique et de développer les relations commerciales entre les deux pays sur la base des principes de l'égalité et des avantages réciproques, sont convenus de se qui suit:
+
+ARTICLE PREMIER
+
+Les deux Parties Contractantes s'accordent réciproquement le traitement de la nation la plus favorisée, conformément aux dispositions de l'Accord Général sur les Tarifs Douaniers et le Commerce (GATT).
+
+ARTICLE 2
+
+Les dispositions de l'article précédent se rapportant au traitement de la nation la plus favorisée ne s'appliquent pas:
+
+Aux avantages qu'une des Parties Contractantes accorde ou accordera aux pays voisins en vue de faciliter le trafic frontalier;
+
+Aux avantages résultant de l'appartenance actuelle ou future à une union douanière ou une zone de libre échange d'une des Parties Contractantes;
+
+Aux avantages que la République Tunisienne accorde ou accordera à un ou plusieurs pays du Maghreb Arabe;
+
+Aux avantages que la République du Portugal accorde ou accordera aux territoires sous administration portugaise qui n'ont pas encore accédé à l'indépendance aussi bien qu'aux pays indépendants, auparavant placés sous cette administration.
+
+ARTICLE 3
+
+Chaque Partie Contractante assurera autant que possible l'accès au marché de son propre pays pour les marchandises originaires et en provenance du pays le l'autre Partie Contractante.
+
+Les échanges commerciaux entre les deux pays s'effectueront dans les conditions prévues par leurs règlementations internes respectives et celles du GATT.
+
+ARTICLE 4
+
+Les marchandises des deux pays présentant un intérêt particulier pour les Parties Contractantes sont spécifiées dans les listes T et P annexées au présent Accord. Les listes en question ont le caractère indicatif.
+
+La liste T concerne les produits tunisiens à l'exportation.
+
+La liste P concerne les produits portugais à l'exportation.
+
+Ces deux listes font partie intégrante du présent Accord.
+
+ARTICLE 5
+
+Les paiements des marchandises et des services réalisés dans le cadre du présent Accord seront effectués en devises convertibles en accord avec les Banques Centrales des deux pays.
+
+ARTICLE 6
+
+En vue d'encourager le développement des relations commerciales entre les deux pays, chacune des Parties Contractantes accordera à l'autre Partie Contractante les facilités nécessaires pour la participation aux foires et à l'organisation d'expositions commerciales.
+
+ARTICLE 7
+
+Il est constitué une commission mixte composée des représentants des deux Gouvernements, qui sera chargée de veiller au bon fonctionnement du présent Accord.
+
+Cette commission se réunira à la demande de l'une ou de l'autre Partie Contractante et au moins une fois par an.
+
+La date et le lieu de la réunion feront l'objet d'un accord des deux Parties.
+
+La commission pourra modifier les listes des marchandises annexées au présent Accord et soumettra aux deux Gouvernements toutes les mesures tendant à améliorer les relations économiques et commerciales entre les deux pays.
+
+ARTICLE 8
+
+Le présent Accord est conclu pour une durée de deux ans et entrera en vigueur le jour de sa signature. Il sera prorogé d'année en année pour une nouvelle période d'un an par tacite reconduction tant que l'une ou l'autre Partie Contractante ne l'aura pas dénoncé par écrit trois mois avant l'expiration de l'année correspondante.
+
+Fait à Tunis, le 9 novembre 1974, en double original en langue française, les deux textes faisant également foi.
+
+Pour le Gouvernement de la République Tunisienne:
+
+Habib Chatty, Ministre des Affaires Étrangères.
+
+Pour le Gouvernement de la République Portugaise:
+
+Mário Soares, Ministre des Affaires Étrangères.
+
+Liste T
+
+Huile d'olive.
+
+Sel.
+
+Éponges.
+
+Dattes.
+
+Fruits à coque, frais ou secs.
+
+Superphosphates.
+
+Cuirs et peaux tannées.
+
+Meubles en bois et métalliques.
+
+Produits céramiques.
+
+Articles sanitaires.
+
+Produits en plastique.
+
+Produits de l'artisanat.
+
+Produits pharmaceutiques.
+
+Accumulateurs électriques.
+
+Plomb métal.
+
+Zinc concentré.
+
+Spath fluor.
+
+Barythine.
+
+Minérai de fer.
+
+Pneumatiques.
+
+Divers.
+
+Liste P
+
+Fruits à coque, frais ou secs.
+
+Bois dégrossis et panneaux.
+
+Cordes, cordages et ficelles.
+
+Machines à écrire.
+
+Bâteaux et navires (à l'exception des navires de guerre).
+
+Moules pour la fonderie.
+
+Moules pour matières plastiques et coulées sous pression.
+
+Machines électriques génératrices.
+
+Machines et appareils de levage et de chargement.
+
+Appareils électriques pour le branchage et le sectionnement des circuits électriques.
+
+Huiles lubrifiantes.
+
+Produits pharmaceutiques.
+
+Essence de térébenthine.
+
+Acides résiniques.
+
+Parties et pièces détachées de machines de bureaux.
+
+Machines-outils pour le travail des métaux.
+
+Câbles isolés pour l'électricité.
+
+Parties de cycles et motocycles.
+
+Cassettes pour l'enregistrement.
+
+Ammoniac liquifié ou en solution.
+
+Marbres.
+
+Pneumatiques.
+
+Divers.
+
+Acordo Comercial entre o Governo da República Tunisina e o Governo da República Portuguesa
+
+O Governo da República Tunisina e o Governo da República Portuguesa, desejosos de favorecer a cooperação económica e de desenvolver as relações comerciais entre os dois países na base dos princípios de igualdade e de vantagem recíproca, acordaram no seguinte:
+
+###### ARTIGO 1.º
+
+As duas Partes Contratantes concedem-se reciprocamente o tratamento de nação mais favorecida, em conformidade com as disposições do Acordo Geral sobre as Pautas Aduaneiras e o Comércio (GATT).
+
+###### ARTIGO 2.º
+
+As disposições do artigo precedente relativas ao tratamento de nação mais favorecida não se aplicam:
+
+Às vantagens que uma das Partes Contratantes concede ou venha a conceder aos países vizinhos com vista a facilitar o tráfico de fronteiras;
+
+Às vantagens resultantes da participação actual ou futura numa união aduaneira ou numa zona de comércio livre de uma das Partes Contratantes;
+
+Às vantagens que a República Tunisina concede ou venha a conceder a um ou mais países de Maghreb Árabe;
+
+Às vantagens que a República de Portugal concede ou venha a conceder aos territórios sob administração portuguesa que ainda não alcançaram a independência, bem como aos países independentes, anteriormente colocados sob esta administração.
+
+###### ARTIGO 3.º
+
+Cada Parte Contratante assegurará, tanto quanto possível, o acesso ao mercado do seu próprio país para as mercadorias originárias e provenientes do território da outra Parte Contratante.
+
+As trocas comerciais entre os dois países efectuar-se-ão nas condições previstas pelas suas regulamentações internas respectivas e pelas do GATT.
+
+###### ARTIGO 4.º
+
+As mercadorias dos dois países apresentando um interesse particular para as Partes Contratantes estão especificadas nas listas T e P anexas ao presente Acordo. As listas em questão têm carácter indicativo.
+
+A lista T refere-se aos produtos da exportação tunisina.
+
+A lista P refere-se aos produtos da exportação portuguesa.
+
+Estas duas listas fazem parte integrante do presente Acordo.
+
+###### ARTIGO 5.º
+
+Os pagamentos das mercadorias e dos serviços realizados no quadro do presente Acordo serão efectuados em divisas convertíveis de acordo com os Bancos Centrais dos dois países.
+
+###### ARTIGO 6.º
+
+Com vista a encorajar o desenvolvimento das relações comerciais entre os dois países, cada uma das Partes Contratantes concederá à outra Parte Contratante as facilidades necessárias para a participação em feiras e a organização de exposições comerciais.
+
+###### ARTIGO 7.º
+
+É constituída uma comissão mista composta por representantes dos dois Governos, que ficará encarregada de velar pelo bom funcionamento do presente Acordo.
+
+Esta comissão reunir-se-á a pedido de uma ou da outra Parte Contratante e pelo menos uma vez por ano.
+
+A data e o lugar da reunião serão objecto de acordo entre as duas Partes.
+
+A comissão poderá modificar as listas das mercadorias anexas ao presente Acordo e submeterá aos dois Governos todas as medidas tendentes a melhorar as relações económicas e comerciais entre os dois países.
+
+###### ARTIGO 8.º
+
+O presente Acordo é estabelecido por um prazo de dois anos e entrará em vigor no dia da sua assinatura. Será prorrogado por sucessivos períodos de um ano por tácita renovação, enquanto uma das Partes Contratantes não o tiver denunciado, por escrito, três meses antes da expiração do ano correspondente.
+
+Feito em Tunes, 9 de Novembro de 1974, em original duplo em língua francesa, sendo os dois textos igualmente válidos.
+
+Pelo Governo da República Tunisina:
+
+Habib Chatty, Ministro dos Negócios Estrangeiros.
+
+Pelo Governo da República Portuguesa:
+
+Mário Soares, Ministro dos Negócios Estrangeiros.
+
+Lista T
+
+Azeite.
+
+Sal.
+
+Esponjas.
+
+Tâmaras.
+
+Frutos com casca, frescos ou secos.
+
+Superfosfatos.
+
+Couros e peles curtidas.
+
+Móveis em madeira e metálicos.
+
+Produtos cerâmicos.
+
+Artigos sanitários.
+
+Produtos em plástico.
+
+Produtos de artesanato.
+
+Produtos farmacêuticos.
+
+Acumuladores eléctricos.
+
+Chumbo.
+
+Zinco concentrado.
+
+Espato flúor.
+
+Baritina.
+
+Minério de ferro.
+
+Pneumáticos.
+
+Diversos.
+
+Lista P
+
+Frutos com casca, frescos ou secos.
+
+Madeiras desbastadas e painéis.
+
+Cordas, cordames e cordéis.
+
+Máquinas de escrever.
+
+Barcos e navios (com excepção de navios de guerra).
+
+Moldes para fundição.
+
+Moldes para matérias plásticas e fundidas sob pressão.
+
+Máquinas eléctricas geradoras.
+
+Máquinas e aparelhos de elevação e de carga.
+
+Aparelhos eléctricos para a ligação e o seccionamento de circuitos eléctricos.
+
+Óleos lubrificantes.
+
+Produtos farmacêuticos.
+
+Essência de terebintina.
+
+Ácidos resénicos.
+
+Partes e peças separadas de máquinas de escritório.
+
+Máquinas-ferramentas para trabalhar metais.
+
+Cabos isolados para electricidade.
+
+Partes de bicicletas e motocicletas.
+
+Cassettes virgens.
+
+Amoníaco liquefeito ou em solução.
+
+Mármores.
+
+Pneumáticos.
+
+Diversos.

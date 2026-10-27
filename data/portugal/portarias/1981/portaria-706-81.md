@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:576504:por
+title: Portaria n.º 706/81
+short_title: null
+summary: Desanexa e transmite o domínio a favor da Junta de Freguesia de Alcafozes, para ampliação e urbanização da aldeia
+  de Alcafozes, ampliação do cemitério, construção de pavilhão desportivo, etc., das parcelas de terreno dos prédios rústicos
+  denominados «Tapada do Pontãozinho», «Tapada do Vale da Igreja» e «Tapada da Carapinheira e Mil-Reis»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Agricultura e Pescas
+proposing_entity: null
+official_number: 706/81
+official_date: null
+publication_date: '1981-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 188/1981, Série I de 1981-08-18
+  number: '188'
+  series: I
+  supplement: null
+  pages: 2120 - 2121
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/08/18800/21202121.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '576504'
+  dre_path: /dr/detalhe/portaria/706-1981-576504
+  internal: pt:dre:576504:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/706-1981-576504
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/706-1981-576504
+  consolidated_url: null
+  retrieved_at: '2026-10-23T06:52:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: f3eab7eb41321483ee8884df7ada667cbd72a0fcd013cc906b4c88a7120af795
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T06:52:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de BENS
+- Alienação de Imóveis
+- Idanha-a-nova
+- Junta de Freguesia
+- Prédio Rústico
+relationships:
+- type: cites
+  target: pt:dre:278704:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:309767:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T06:52:35Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 706/81
+
+de 15 de Agosto
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Agricultura e Pescas, ao abrigo do disposto no artigo 40.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro, desanexar e transmitir o domínio a favor da Junta de Freguesia de Alcafozes, para fins de utilidade pública (ampliação e urbanização da aldeia de Alcafozes, ampliação do cemitério, construção de pavilhão desportivo, etc.), das seguintes parcelas de terreno, todas da freguesia de Alcafozes, concelho de Idanha-a-Nova, conforme planta anexa:
+
+Parcela A - 0,5000 ha do prédio rústico denominado «Tapada do Pontãozinho» (artigo 41 da secção C);
+
+Parcela B - 4,0000 ha do prédio rústico denominado «Tapada do Vale da Igreja» (artigo 84 da secção C);
+
+Parcela C - 1,9000 ha do prédio rústico denominado «Tapada do Vale da Igreja» (artigo 84 da secção C);
+
+Parcela D - 9,0000 ha do prédio rústico denominado «Tapada da Carapinheira e Mil-Reis» (artigo 140 da secção C);
+
+os quais foram expropriados pela [Portaria n.º 684/75](https://diariodarepublica.pt/dr/detalhe/portaria/684-1975-309767), de 21 de Novembro.
+
+A Junta de Freguesia de Alcafozes entregará oportunamente nos cofres do Tesouro uma importância proporcional à indemnização definitiva a pagar pelo Estado pela expropriação dos prédios referidos, tendo em conta a área expropriada e a parte que por esta portaria lhe é transmitida.
+
+Ministérios das Finanças e do Plano e da Agricultura e Pescas, 2 de Julho de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/08/18800/21202121.pdf)

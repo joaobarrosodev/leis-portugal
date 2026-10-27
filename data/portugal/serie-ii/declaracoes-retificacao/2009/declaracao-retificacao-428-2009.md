@@ -1,0 +1,470 @@
+---
+schema_version: '1.0'
+id: pt:dre:2714459:por
+title: Declaração de Rectificação n.º 428/2009
+short_title: null
+summary: Declaração de rectificação - Norma regulamentar n.º 17/2008-R, de 23 de Dezembro, publicada no Diário da República,
+  2.ª série, n.º 8, de 13 de Janeiro de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Instituto de Seguros de Portugal
+proposing_entity: null
+official_number: 428/2009
+official_date: null
+publication_date: '2009-02-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/2009, Série II de 2009-02-11
+  number: '29'
+  series: II
+  supplement: null
+  pages: 5989 - 5992
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/02/029000000/0598905992.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2714459'
+  dre_path: /dr/detalhe/declaracao-rectificacao/428-2009-2714459
+  internal: pt:dre:2714459:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/428-2009-2714459
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/428-2009-2714459
+  consolidated_url: null
+  retrieved_at: '2026-10-23T14:11:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b50dd1142546994b41c6ea7f8309ee70afd739443c17523512e926d030d18f00
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T14:11:36Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Seguradora
+- Companhia de Seguros
+- Corretor
+- Licenciamento
+- Mediação de Seguros
+- TAXA de Prestação de Serviços
+relationships:
+- type: cites
+  target: pt:dre:539398:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T14:11:36Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de rectificação n.º 428/2009
+
+Por ter sido publicada com diversas inexactidões no Diário da República, 2.ª série, n.º 8, de 13 de Janeiro de 2009, a Norma Regulamentar n.º 17/2008-R, de 23 de Dezembro, que altera a Norma Regulamentar n.º 17/2006-R, de 29 de Dezembro, procede-se à respectiva rectificação nos seguintes termos:
+
+1 - No artigo 1.º, na alteração ao artigo 11.º da Norma Regulamentar n.º 17/2006-R, de 29 de Dezembro, alterada pelas Normas Regulamentares n.º 8/2007-R, de 31 de Maio, n.º 13/2007-R, de 26 de Julho, e n.º 19/2007, de 31 de Dezembro, onde se lê:
+
+«Artigo 11.º
+
+[...]
+
+...
+
+Demonstração da adequação da estrutura da empresa à elaboração atempada dos documentos contabilísticos necessários ao exercício dos poderes de supervisão pelo Instituto de Seguros de Portugal.»
+
+deve ler-se:
+
+«Artigo 11.º
+
+[...]
+
+...
+
+a) ...
+
+b)...
+
+c)...
+
+d)...
+
+i)...
+
+ii)...
+
+iii)...
+
+iv) Demonstração da adequação da estrutura da empresa à elaboração atempada dos documentos contabilísticos necessários ao exercício dos poderes de supervisão pelo Instituto de Seguros de Portugal.
+
+e)...
+
+f)...
+
+g)...»
+
+2 - No artigo 1.º, na alteração ao artigo 13.º da Norma Regulamentar n.º 17/2006-R, de 29 de Dezembro, alterada pelas Normas Regulamentares n.º 8/2007-R, de 31 de Maio, n.º 13/2007-R, de 26 de Julho, e n.º 19/2007, de 31 de Dezembro, onde se lê:
+
+«Artigo 13.º
+
+[...]
+
+1 - ...
+
+Possuir contabilidade organizada e uma estrutura que lhe permita dispor, nos prazos legais, de todos os documentos contabilísticos e de prestação de contas, necessários ao exercício dos poderes de supervisão pelo Instituto de Seguros de Portugal.
+
+2 - ...
+
+3 - ...»
+
+deve ler-se:
+
+«Artigo 13.º
+
+[...]
+
+1 - ...
+
+a) Possuir contabilidade organizada e uma estrutura que lhe permita dispor, nos prazos legais, de todos os documentos contabilísticos e de prestação de contas, necessários ao exercício dos poderes de supervisão pelo Instituto de Seguros de Portugal;
+
+b)...
+
+c)...
+
+d)...
+
+e)...
+
+f)...
+
+g)...
+
+h)...
+
+2 - ...
+
+3 - ...»
+
+3 - No artigo 1.º, na alteração ao artigo 13.º-A da Norma Regulamentar n.º 17/2006-R, de 29 de Dezembro, alterada pelas Normas Regulamentares n.º 8/2007-R, de 31 de Maio, n.º 13/2007-R, de 26 de Julho, e n.º 19/2007, de 31 de Dezembro, onde se lê:
+
+«Artigo 13.º-A
+
+[...]
+
+1 - ...
+
+No ano do início de actividade, a (euro) 16 803;
+
+Nos anos subsequentes ao do início da actividade, a (euro) 16 803 ou, se superior, ao valor correspondente a 4 % sobre a totalidade dos fundos confiados ao corretor de seguros pelos tomadores de seguros para serem entregues às empresas de seguros, e pelas empresas de seguros para serem entregues aos tomadores de seguros, segurados ou beneficiários, durante o exercício económico precedente ao de subscrição ou de renovação da garantia bancária ou do seguro -caução.
+
+2 - Dos fundos referidos na alínea b) do número anterior excluem-se aqueles relativamente aos quais ao corretor de seguros foram outorgados, pela empresa de seguros, poderes para o recebimento em seu nome.
+
+3 - ...»
+
+deve ler-se:
+
+«Artigo 13.º-A
+
+[...]
+
+1 - ...
+
+a) No ano do início de actividade, a (euro) 16 803;
+
+b) Nos anos subsequentes ao do início da actividade, a (euro) 16 803 ou, se superior, ao valor correspondente a 4% sobre a totalidade dos fundos confiados ao corretor de seguros pelos tomadores de seguros para serem entregues às empresas de seguros, e pelas empresas de seguros para serem entregues aos tomadores de seguros, segurados ou beneficiários, durante o exercício económico precedente ao de subscrição ou de renovação da garantia bancária ou do seguro-caução.
+
+2 - Dos fundos referidos na alínea b) do número anterior excluem-se aqueles relativamente aos quais ao corretor de seguros foram outorgados, pela empresa de seguros, poderes para o recebimento em seu nome.
+
+3 - ...»
+
+4 - No artigo 1.º, na alteração ao artigo 17.º da Norma Regulamentar n.º 17/2006-R, de 29 de Dezembro, alterada pelas Normas Regulamentares n.º 8/2007-R, de 31 de Maio, n.º 13/2007-R, de 26 de Julho, e n.º 19/2007, de 31 de Dezembro, onde se lê:
+
+«Artigo 17.º
+
+[...]
+
+1 - Para o reconhecimento dos cursos referidos nos n.os 1, 2, 4 e 5 do artigo anterior, devem as entidades promotoras apresentar, através do portal ISPnet, ao Instituto de Seguros de Portugal o plano de cada tipo de curso que pretendam ver reconhecido, que inclua:
+
+...
+
+2 - ...»
+
+deve ler-se:
+
+«Artigo 17.º
+
+[...]
+
+1 - Para o reconhecimento dos cursos referidos nos n.os 1, 2, 4 e 5 do artigo anterior, devem as entidades promotoras apresentar, através do portal ISPnet, ao Instituto de Seguros de Portugal o plano de cada tipo de curso que pretendam ver reconhecido, que inclua:
+
+a)...
+
+b)...
+
+c)...
+
+d)...
+
+e)...
+
+2 - ...»
+
+5 - No artigo 1.º, na alteração ao artigo 22.º-A da Norma Regulamentar n.º 17/2006-R, de 29 de Dezembro, alterada pelas Normas Regulamentares n.º 8/2007-R, de 31 de Maio, n.º 13/2007-R, de 26 de Julho, e n.º 19/2007, de 31 de Dezembro, onde se lê:
+
+«Artigo 22.º-A
+
+[...]
+
+...
+
+Apresentar anualmente, até 28 de Fevereiro, ao Instituto de Seguros de Portugal, um relatório relativo aos cursos realizados no ano anterior, que inclua, nomeadamente, por cada curso, o número de formandos aprovados, reprovados e desistentes, bem como a indicação dos formadores que neles intervieram e número de horas ministradas por cada um, devendo esta informação, no mesmo prazo, ser comunicada de forma discriminada através do portal ISPnet;
+
+...»
+
+deve ler-se:
+
+«Artigo 22.º-A
+
+[...]
+
+...
+
+a)...
+
+b) Apresentar anualmente, até 28 de Fevereiro, ao Instituto de Seguros de Portugal, um relatório relativo aos cursos realizados no ano anterior, que inclua, nomeadamente, por cada curso, o número de formandos aprovados, reprovados e desistentes, bem como a indicação dos formadores que neles intervieram e número de horas ministradas por cada um, devendo esta informação, no mesmo prazo, ser comunicada de forma discriminada através do portal ISPnet;
+
+c)...»
+
+6 - No artigo 1.º, na alteração ao artigo 30.º da Norma Regulamentar n.º 17/2006-R, de 29 de Dezembro, alterada pelas Normas Regulamentares n.º 8/2007-R, de 31 de Maio, n.º 13/2007-R, de 26 de Julho, e n.º 19/2007, de 31 de Dezembro, onde se lê:
+
+«Artigo 30.º
+
+1 - Para efeitos do disposto na alínea b) do artigo 35.º do [Decreto-Lei n.º 144/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2006-539398), de 31 de Julho, a carteira de seguros do corretor deve cumprir os seguintes requisitos de dispersão:
+
+...
+
+Existência de, no mínimo, seis empresas de seguros cujas remunerações pagas ao corretor de seguros representem, cada uma, pelo menos 5 % do total das remunerações auferidas pela sua carteira, salvo se, no caso concreto, se verificar uma dispersão maior.
+
+2 - Em casos devidamente fundamentados, o Instituto de Seguros de Portugal pode aceitar rácios de concentração superiores aos previstos no número anterior se:
+
+A remuneração do corretor resultar de seguros de modalidades do ramo «Vida» ou de ramos «Não vida» em que o grau de concentração do mercado nessas modalidades ou ramos não permita o respectivo cumprimento;
+
+Resultarem directamente de aquisições ou fusões de empresas de seguros em que estejam colocados contratos de seguros integrantes da carteira de seguros do corretor, desde que a situação seja meramente conjuntural;
+
+Decorrerem de um peso significativo de um tomador de seguro na carteira de clientes do corretor, desde que a situação seja meramente conjuntural.
+
+3 - Os requisitos de dispersão são aferidos anualmente, sendo considerado o conjunto das remunerações dos três exercícios económicos precedentes.»
+
+deve ler-se:
+
+«Artigo 30.º
+
+[...]
+
+1 - Para efeitos do disposto na alínea b) do artigo 35.º do Decreto Lei n.º 144/2006, de 31 de Julho, a carteira de seguros do corretor deve cumprir os seguintes requisitos de dispersão:
+
+a)...
+
+b) Existência de, no mínimo, seis empresas de seguros cujas remunerações pagas ao corretor de seguros representem, cada uma, pelo menos 5% do total das remunerações auferidas pela sua carteira, salvo se, no caso concreto, se verificar uma dispersão maior.
+
+2 - Em casos devidamente fundamentados, o Instituto de Seguros de Portugal pode aceitar rácios de concentração superiores aos previstos no número anterior se:
+
+a) A remuneração do corretor resultar de seguros de modalidades do ramo «Vida» ou de ramos «Não vida» em que o grau de concentração do mercado nessas modalidades ou ramos não permita o respectivo cumprimento;
+
+b) Resultarem directamente de aquisições ou fusões de empresas de seguros em que estejam colocados contratos de seguros integrantes da carteira de seguros do corretor, desde que a situação seja meramente conjuntural;
+
+c) Decorrerem de um peso significativo de um tomador de seguro na carteira de clientes do corretor, desde que a situação seja meramente conjuntural.
+
+3 - Os requisitos de dispersão são aferidos anualmente, sendo considerado o conjunto das remunerações dos três exercícios económicos precedentes.»
+
+7 - No artigo 1.º, na alteração ao artigo 40.º da Norma Regulamentar n.º 17/2006-R, de 29 de Dezembro, alterada pelas Normas Regulamentares n.º 8/2007-R, de 31 de Maio, n.º 13/2007-R, de 26 de Julho, e n.º 19/2007, de 31 de Dezembro, onde se lê:
+
+«Artigo 40.º
+
+[...]
+
+1 - Para efeitos do cumprimento do disposto na alínea j) do artigo 37.º do [Decreto-Lei n.º 144/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2006-539398), de 31 de Julho, a empresa de seguros deve transmitir ao Instituto de Seguros de Portugal, através do portal ISPnet, até 15 dias após a realização da assembleia geral anual para a aprovação de contas, o mais tardar até 15 de Abril, ainda que o relatório e contas não se encontrem aprovados:
+
+Relativamente ao conjunto de mediadores de seguros ligados pessoas singulares que lhe prestem serviços, o total de remunerações colocadas à sua disposição, discriminadas por ramo "Vida", fundos de pensões e conjunto dos ramos "Não vida", e pelas categorias de mediadores mencionadas nas subalíneas i) e ii) da alínea a) do artigo 8.º do [Decreto-Lei n.º 144/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2006-539398), de 31 de Julho;
+
+Relativamente a cada mediador de seguros ligado pessoa colectiva que lhe preste serviços, o total de remunerações colocadas à sua disposição, discriminadas por ramo «Vida», fundos de pensões e conjunto dos ramos «Não vida»;
+
+[Anterior alínea b).]
+
+2 - ...»
+
+deve ler-se:
+
+«Artigo 40.º
+
+[...]
+
+1 - Para efeitos do cumprimento do disposto na alínea j) do artigo 37.º do [Decreto-Lei n.º 144/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2006-539398), de 31 de Julho, a empresa de seguros deve transmitir ao Instituto de Seguros de Portugal, através do portal ISPnet, até 15 dias após a realização da assembleia geral anual para a aprovação de contas, o mais tardar até 15 de Abril, ainda que o relatório e contas não se encontrem aprovados:
+
+a) Relativamente ao conjunto de mediadores de seguros ligados pessoas singulares que lhe prestem serviços, o total de remunerações colocadas à sua disposição, discriminadas por ramo "Vida", fundos de pensões e conjunto dos ramos "Não vida", e pelas categorias de mediadores mencionadas nas subalíneas i) e ii) da alínea a) do artigo 8.º do [Decreto-Lei n.º 144/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2006-539398), de 31 de Julho;
+
+b) Relativamente a cada mediador de seguros ligado pessoa colectiva que lhe preste serviços, o total de remunerações colocadas à sua disposição, discriminadas por ramo «Vida», fundos de pensões e conjunto dos ramos «Não vida»;
+
+c) [Anterior alínea b)].
+
+2 - ...»
+
+8 - No artigo 1.º, na alteração ao anexo VI da Norma Regulamentar n.º 17/2006-R, de 29 de Dezembro, alterada pelas Normas Regulamentares n.º 8/2007-R, de 31 de Maio, n.º 13/2007-R, de 26 de Julho, e n.º 19/2007, de 31 de Dezembro, onde se lê:
+
+«Anexo VI
+
+[...]
+
+1 - Sem prejuízo do disposto nos números seguintes, são devidas anualmente ao Instituto de Seguros de Portugal pelos mediadores de seguros ou de resseguros residentes ou cuja sede social se situe em Portugal, em contrapartida dos serviços de supervisão contínua prestados, as seguintes taxas:
+
+Mediador de seguros, ligado pessoa singular: (euro) 20;
+
+Mediador de seguros, ligado pessoa colectiva: (euro) 80;
+
+Agente de seguros, pessoa singular: (euro) 50;
+
+Agente de seguros, pessoa colectiva: (euro) 200;
+
+Corretor de seguros, pessoa singular: (euro) 200;
+
+Corretor de seguros, pessoa colectiva: (euro) 400;
+
+Mediador de resseguros, pessoa singular: (euro) 200;
+
+Mediador de resseguros, pessoa colectiva: (euro) 400.
+
+2 - Independentemente da categoria em que o mediador de seguros ou de resseguros se inscreva, a taxa prevista no número anterior passa a ser calculada em função do total da remuneração resultante dessa actividade referente ao exercício económico precedente, sendo graduada em função dos seguintes intervalos:
+
+Remuneração igual ou superior a (euro) 1 000 000 e inferior a (euro) 3 000 000: (euro) 1500;
+
+Remuneração igual ou superior a (euro) 3 000 000 e inferior a (euro) 5 000 000: (euro) 2500;
+
+Remuneração igual ou superior a (euro) 5 000 000 e inferior a (euro) 10 000 000: (euro) 3500;
+
+Remuneração igual ou superior a (euro) 10 000 000: (euro) 5000.
+
+3 - O mediador de seguros ou de resseguros está isento do pagamento da taxa devida nos termos dos números anteriores no ano em que é inscrito no registo junto do Instituto de Seguros de Portugal.
+
+4 - O corretor de seguros registado simultaneamente como mediador de resseguros está sujeito ao pagamento de uma taxa de supervisão única correspondente à de maior valor.
+
+5 - (Anterior proémio do anexo VI):
+
+...
+
+(Revogado.)
+
+(Revogado.)
+
+(Revogado.)
+
+Notificação para o exercício da actividade de mediação de seguros em regime de livre prestação de serviços noutro Estado membro: (euro) 100;
+
+Notificação para o exercício da actividade de mediação de seguros em regime de estabelecimento noutro Estado membro: (euro) 100;
+
+Emissão de certificado de registo de mediador de seguros a pedido: (euro) 25.
+
+...
+
+(Revogado.)»
+
+deve ler-se:
+
+«Anexo VI
+
+[...]
+
+1 - Sem prejuízo do disposto nos números seguintes, são devidas anualmente ao Instituto de Seguros de Portugal pelos mediadores de seguros ou de resseguros residentes ou cuja sede social se situe em Portugal, em contrapartida dos serviços de supervisão contínua prestados, as seguintes taxas:
+
+a) Mediador de seguros ligado pessoa singular: (euro) 20;
+
+b) Mediador de seguros ligado pessoa colectiva: (euro) 80;
+
+c) Agente de seguros pessoa singular: (euro) 50;
+
+d) Agente de seguros pessoa colectiva: (euro) 200;
+
+e) Corretor de seguros pessoa singular: (euro) 200;
+
+f) Corretor de seguros pessoa colectiva: (euro) 400;
+
+g) Mediador de resseguros pessoa singular: (euro) 200;
+
+h) Mediador de resseguros pessoa colectiva: (euro) 400.
+
+2 - Independentemente da categoria em que o mediador de seguros ou de resseguros se inscreva, a taxa prevista no número anterior passa a ser calculada em função do total da remuneração resultante dessa actividade referente ao exercício económico precedente, sendo graduada em função dos seguintes intervalos:
+
+a) Remuneração igual ou superior a (euro) 1 000 000 e inferior a (euro) 3 000 000: (euro) 1 500;
+
+b) Remuneração igual ou superior a (euro) 3 000 000 e inferior a (euro) 5 000 000: (euro) 2 500;
+
+c) Remuneração igual ou superior a (euro) 5 000 000 e inferior a (euro) 10 000 000: (euro) 3 500;
+
+d) Remuneração igual ou superior a (euro) 10 000 000: (euro) 5 000.
+
+3 - O mediador de seguros ou de resseguros está isento do pagamento da taxa devida nos termos dos números anteriores no ano em que é inscrito no registo junto do Instituto de Seguros de Portugal.
+
+4 - O corretor de seguros registado simultaneamente como mediador de resseguros está sujeito ao pagamento de uma taxa de supervisão única correspondente à de maior valor.
+
+5 - (Anterior proémio do anexo VI):
+
+a)...
+
+b)...
+
+c)...
+
+d) (Revogado.)
+
+e)...
+
+f)...
+
+g)...
+
+h) (Revogado.)
+
+i) (Revogado.)
+
+j) Notificação para o exercício da actividade de mediação de seguros em regime de livre prestação de serviços noutro Estado membro: (euro) 100;
+
+k) Notificação para o exercício da actividade de mediação de seguros em regime de estabelecimento noutro Estado membro: (euro) 100;
+
+l) Emissão de certificado de registo de mediador de seguros a pedido: (euro) 25.
+
+m)...
+
+n) (Revogado.)»
+
+29 de Janeiro de 2009. - O Conselho Directivo: Fernando Nogueira, presidente - Rodrigo Lucena, vogal.

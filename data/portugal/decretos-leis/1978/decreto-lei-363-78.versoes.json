@@ -1,0 +1,1203 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:326736:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1978-124344890",
+ "dre_path": "/dr/detalhe/decreto-lei/363-1978-326736",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1978-11-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124344808",
+    "124344809",
+    "124344810",
+    "124344811",
+    "124344812",
+    "124344813",
+    "124344814",
+    "124344815",
+    "124344816",
+    "124344817",
+    "124344818",
+    "124344819",
+    "124344820",
+    "124344821",
+    "124344822",
+    "124344823",
+    "124344824",
+    "124344825",
+    "124344826",
+    "124344827",
+    "124344828",
+    "124344829",
+    "124344830",
+    "124344831",
+    "124344832",
+    "124344833",
+    "124344834",
+    "124344835",
+    "124344836",
+    "124344837",
+    "124344838",
+    "124344839",
+    "124344840",
+    "124344841",
+    "124344842",
+    "124344843",
+    "124344844",
+    "124344845",
+    "124344846",
+    "124344847",
+    "124344848",
+    "124344849",
+    "124344850",
+    "124344851",
+    "124344852",
+    "124344853",
+    "124344854",
+    "124344855",
+    "124344856",
+    "124344857",
+    "124344858",
+    "124344859",
+    "124344860"
+   ]
+  },
+  {
+   "date": "1988-01-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:283367:por",
+     "title": "Decreto-Lei n.º 6/88",
+     "published": "1988-01-15",
+     "dre_path": "/dr/detalhe/decreto-lei/6-1988-283367"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "124344808",
+    "124344809",
+    "124344810",
+    "124344811",
+    "124344812",
+    "124344813",
+    "124344814",
+    "124344815",
+    "124344816",
+    "124344817",
+    "124344818",
+    "124346721",
+    "124344820",
+    "124344821",
+    "124344822",
+    "124344823",
+    "124344824",
+    "124344825",
+    "124344826",
+    "124344827",
+    "124344828",
+    "124344829",
+    "124344830",
+    "124344831",
+    "124344832",
+    "124344833",
+    "124344834",
+    "124344835",
+    "124344836",
+    "124344837",
+    "124344838",
+    "124344839",
+    "124344840",
+    "124344841",
+    "124344842",
+    "124344843",
+    "124344844",
+    "124344845",
+    "124344846",
+    "124344847",
+    "124344848",
+    "124344849",
+    "124344850",
+    "124344851",
+    "124344852",
+    "124344853",
+    "124344854",
+    "124344855",
+    "124344856",
+    "124344857",
+    "124344858",
+    "124344859",
+    "124344860",
+    "124344861"
+   ]
+  },
+  {
+   "date": "1993-12-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:533376:por",
+     "title": "Decreto-Lei n.º 408/93",
+     "published": "1993-12-14",
+     "dre_path": "/dr/detalhe/decreto-lei/408-1993-533376"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º"
+   ],
+   "fragments": [
+    "124344808",
+    "124344809",
+    "124346722",
+    "124346723",
+    "124346724",
+    "124346725",
+    "124344814",
+    "124346726",
+    "124346727",
+    "124346728",
+    "124346729",
+    "124346730",
+    "124346731",
+    "124346732",
+    "124346733",
+    "124346734",
+    "124346735",
+    "124346736",
+    "124344826",
+    "124344827",
+    "124344828",
+    "124346737",
+    "124346738",
+    "124346739",
+    "124346740",
+    "124346741",
+    "124346742",
+    "124346743",
+    "124346744",
+    "124346745",
+    "124346746",
+    "124344839",
+    "124346747",
+    "124344841",
+    "124346748",
+    "124344843",
+    "124344844",
+    "124344845",
+    "124344846",
+    "124344847",
+    "124344848",
+    "124344849",
+    "124344850",
+    "124344851",
+    "124346749",
+    "124344853",
+    "124346750",
+    "124346751",
+    "124346752",
+    "124346753",
+    "124346754",
+    "124346755",
+    "124346756",
+    "124344861"
+   ]
+  },
+  {
+   "date": "2005-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:245332:por",
+     "title": "Lei n.º 50/2005",
+     "published": "2005-08-30",
+     "dre_path": "/dr/detalhe/lei/50-2005-245332"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 34.º"
+   ],
+   "fragments": [
+    "124344808",
+    "124344809",
+    "124346722",
+    "124346723",
+    "124346724",
+    "124346725",
+    "124344814",
+    "124346726",
+    "124346727",
+    "124346728",
+    "124346729",
+    "124346730",
+    "124346731",
+    "124346732",
+    "124346733",
+    "124346734",
+    "124346735",
+    "124346736",
+    "124344826",
+    "124344827",
+    "124344828",
+    "124346737",
+    "124346738",
+    "124346739",
+    "124346740",
+    "124346741",
+    "124346742",
+    "124346743",
+    "124346744",
+    "124346745",
+    "124346746",
+    "124344839",
+    "124346747",
+    "124344841",
+    "124346748",
+    "124344843",
+    "124344844",
+    "124344845",
+    "124344846",
+    "124344847",
+    "173593375",
+    "124344849",
+    "124344850",
+    "124344851",
+    "124346749",
+    "124344853",
+    "124346750",
+    "124346751",
+    "124346752",
+    "124346753",
+    "124346754",
+    "124346755",
+    "124346756",
+    "124344861"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124324704:por",
+     "title": "Decreto-Lei n.º 132/2019",
+     "published": "2019-08-30",
+     "dre_path": "/dr/detalhe/decreto-lei/132-2019-124324704"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 32.º"
+   ],
+   "fragments": [
+    "124344808",
+    "124344809",
+    "124346722",
+    "124346723",
+    "124346724",
+    "124346725",
+    "124344814",
+    "124346726",
+    "124346727",
+    "124346728",
+    "124346729",
+    "124346730",
+    "124346731",
+    "124346732",
+    "124346733",
+    "124346734",
+    "124346735",
+    "124346736",
+    "124344826",
+    "124344827",
+    "124344828",
+    "124346737",
+    "124346738",
+    "124346739",
+    "124346740",
+    "124346741",
+    "124346742",
+    "124346743",
+    "124346744",
+    "124346745",
+    "124346746",
+    "124344839",
+    "124346747",
+    "124344841",
+    "124346748",
+    "124344843",
+    "124344844",
+    "173593376",
+    "124344846",
+    "124344847",
+    "173593375",
+    "124344849",
+    "124344850",
+    "124344851",
+    "124346749",
+    "124344853",
+    "124346750",
+    "124346751",
+    "124346752",
+    "124346753",
+    "124346754",
+    "124346755",
+    "124346756",
+    "124344861"
+   ]
+  }
+ ],
+ "fragments": {
+  "124344808": {
+   "fragment_id": "124344891",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 363/78\n\nde 28 de Novembro\n\n1. No âmbito do Ministério das Finanças e do Plano, cabe à Direcção-Geral das Contribuições e Impostos uma função muito específica: a de executar a política fiscal do Estado.\n\nTrata-se de tarefa muito complexa e delicada, pois a administração fiscal não só tem de sustentar os direitos da Fazenda Nacional mas também de proteger os dos contribuintes.\n\nDe facto, compete-lhe desenvolver actividades que visam defender os princípios da legalidade, da igualdade e da justiça tributária.\n\nNum Estado moderno, em que a legalidade tributária constitui um princípio fundamental, torna-se necessário ajustar as estruturas administrativas de modo a dar satisfação àqueles ditames.\n\n2. Mas não são só as concepções hodiernas da fiscalidade que impõem uma modificação das estruturas da administração fiscal.\n\nA futura inserção de Portugal na Europa aconselha novas formas de tributação, quer no domínio dos impostos directos - imposto único sobre o rendimento, tanto das pessoas físicas como das pessoas colectivas -, quer no âmbito dos impostos indirectos, especialmente no que se refere ao imposto sobre o valor acrescentado, o que exige novas estruturas da administração fiscal.\n\n3. A justiça tributária torna indispensável o combate à fraude e à evasão fiscais.\n\nPara evitar fugas, além do recurso a elementos humanos - fiscalização - têm de utilizar-se novas técnicas, nomeadamente as que se apoiam na informática.\n\n4. Dentro da Administração Pública, a Direcção-Geral das Contribuições e Impostos tem uma feição singular.\n\nTrata-se de um serviço especializado e hierarquizado, presente em todos os concelhos do País.\n\nSendo aos serviços locais que cabe a aplicação das leis tributárias, a legalidade, a igualdade e a justiça fiscais exigem que elas sejam aplicadas com uniformidade em todo o espaço nacional, o que é assegurado através de instruções dimanadas da hierarquia para os serviços na sua dependência, competindo aos serviços distritais e centrais fiscalizar a execução e pronunciar-se sobre as dúvidas que durante ela se levantem.\n\n5. Uma repartição de finanças desempenha funções de uma grande amplitude: liquida os impostos, esclarece dúvidas, dá informações, instaura e promove o andamento dos processos que têm por escopo fundamental discutir a legalidade do imposto, fixa multas e instrui os processos de transgressão, procede à cobrança coerciva dos créditos da Fazenda Nacional, exerce funções de fiscalização, trata de assuntos da Previdência, liquida e cobra as quotizações para o Fundo de Desemprego, etc.\n\nPor outro lado, os serviços da Direcção-Geral das Contribuições e Impostos - locais ou concelhios, distritais e centrais - observam e estudam os factos tributários, propõem medidas de alteração das normas fiscais, pronunciam-se sobre os casos duvidosos, apreciam requerimentos e exposições, colaboram na redacção e asseguram o cumprimento das convenções destinadas a eliminar a dupla tributação, intervêm nos trabalhos dos organismos internacionais, etc., o que exige dos seus funcionários um apuro técnico muito desenvolvido, a par de ampla gama de conhecimentos teóricos.\n\nCom efeito, além de terem de conhecer bem a legislação, doutrina e jurisprudência fiscais, exige-se-lhes ainda que saibam direito da família e das sucessões, direitos reais, direito comercial. Têm de ter uma preparação muito cuidada de direito administrativo, de direito processual e também de direito penal. Têm de ter conhecimentos precisos sobre contabilidade das empresas. Precisam de dominar as matérias relativas à contabilidade pública e à tesouraria do Estado.\n\n6. As qualificações que são exigidas aos funcionários da administração fiscal manifestam-se não só no que respeita à sua especialização, mas também no domínio das responsabilidades pelo exercício da sua função.\n\nE para manter um apreciável nível técnico o recrutamento e a promoção só podem obter-se através de provas de selecção, que terão de ser precedidas de cursos e estágios preparatórios.\n\nCom efeito, só uma preparação contínua, coadjuvada com textos e elementos de estudo fornecidos por um serviço adequado, pode contribuir para a actualização dos conhecimentos dos funcionários dos impostos, tornando-os aptos para o cabal desempenho das suas funções.\n\n7. Estes funcionários são os verdadeiros impulsionadores de progresso do direito fiscal, criticando e expondo dúvidas sobre as diversas normas tributárias, colaborando na preparação das leis fiscais e interpretando-as através de circulares e instruções.\n\nTambém são eles que executam os programas tributários do Governo e informam os processos que fundamentam os despachos ministeriais de execução.\n\n8. A situação dos funcionários dos impostos no contexto da Administração impõe que sejam feitos alguns considerandos relativos às suas remunerações.\n\nTradicionalmente - tradição que vem, pelo menos, do Decreto n.º 22 de 16 de Maio de 1832 (títulos VII, artigo 26.º, IX, artigo único, e X, artigos 1.º e 2.º) - é-lhes reconhecido o direito (e também aos tesoureiros da Fazenda Pública e ao pessoal das alfândegas) a perceberem remunerações acessórias.\n\nPara se ter uma compreensão mais clara do fenómeno «remunerações acessórias» é preciso analisar os vários tipos praticados.\n\nOs funcionários dos impostos têm percebido remunerações acessórias de três tipos: custas e emolumentos, multas e prémios de cobrança.\n\nAs custas e emolumentos resultam de um serviço directo prestado pelos funcionários ao público.\n\nA participação nas multas resultantes das infracções às normas tributárias constitui um incentivo para os funcionários combaterem os casos de fraude e evasão fiscais.\n\nO prémio de cobrança traduz-se num incentivo a que o funcionário pugne por maiores entradas de receita nos cofres do Estado.\n\nNa verdade, a Direcção-Geral das Contribuições e Impostos assemelha-se, em muitos aspectos, a uma empresa: o seu fim primordial é liquidar o maior volume de receitas.\n\nNão é um organismo estático. É uma administração dinâmica, que não espera o utente dos seus serviços na sua repartição, antes procura averiguar por todos os meios - fiscalização interna e fiscalização externa - qual é a situação concreta dos diversos contribuintes para verificar se estão a ser tributados em conformidade com a lei.\n\nNão pode confiar só nas declarações do contribuinte, tendo de verificar se elas são correctas, a fim de lhe liquidar o imposto adequado à sua capacidade contributiva.\n\nTrata-se de uma actividade que transcende a normal função dos agentes administrativos.\n\nO prémio de cobrança já estava previsto no título VII, artigo 26.º, do Decreto n.º 22 de 16 de Maio de 1832, e bem assim no artigo 50.º da Carta de Lei de 30 de Junho de 1860, no artigo 7.º da Lei de 11 de Agosto de 1860, no artigo 33.º do Decreto n.º 1860, no artigo 61.º do Regulamento de 4 de Janeiro de 1870, artigo 1.º da Lei de 15 de Maio de 1880, artigo 1.º do Decreto de 20 de Março de 1890, artigo 23.º do Decreto n.º 1 de 1 de Julho de 1895, artigo 125.º do Regulamento de 23 de Dezembro de 1899, artigos 31.º e 32.º do Decreto n.º 1 de 24 de Dezembro de 1901, no artigo 10.º do Decreto-Lei n.º 26116, de 29 de Novembro de 1935, artigo 12.º da Lei n.º 2022, de 22 de Maio de 1947, e no artigo 2.º do Decreto-Lei n.º 449/71, de 26 de Outubro.\n\nEste prémio de cobrança é igualmente praticado em muitos países, de que são exemplo a França, a Espanha, os Estados Unidos da América, a Argentina, o Uruguai, etc.\n\n9. As remunerações acessórias, dada a sua natureza e finalidade, devem ser atribuídas apenas aos funcionários que, directa ou indirectamente, estão afectos à liquidação e cobrança dos impostos.\n\nA actuação do funcionário tem de revelar um trabalho específico ligado ao volume dos impostos.\n\nOs serviços chamados periféricos - repartições de finanças, tribunais e serviço de prevenção e fiscalização tributária - têm uma actuação directa e concreta e, por isso, os seus funcionários devem ser contemplados.\n\nMas outros serviços e, em especial, certo tipo de funcionários - por exemplo os directores de finanças - que, pelo seu labor e a sua competência, são fundamentais dentro da orgânica da administração fiscal não podem também deixar de ser abrangidos.\n\nAssim, a distribuição das custas, emolumentos, multas e prémios de cobrança deve ter em conta a colocação do funcionário no processo da liquidação dos impostos.\n\n10. A estrutura do pessoal da Direcção-Geral das Contribuições e Impostos passa a ser diferente da actual. A colocação dos funcionários, conforme a sua ordenação, pelos diversos serviços tem de ser muito bem ponderada para evitar que surjam distorções e injustiças.\n\nAs normas transitórias elaboradas pretendem conseguir que a passagem do esquema actual para o quadro da reestruturação se faça paulatinamente, evitando casos de ruptura.\n\n11. Uma reforma de um departamento da Administração como é a Direcção-Geral das Contribuições e Impostos tem necessariamente efeitos perante o público contribuinte.\n\nA sua finalidade é torná-la mais operacional, de molde a poder satisfazer com mais eficiência as suas tarefas.\n\nNão basta alterar a estrutura de um organismo. É necessário melhorar a imagem do funcionário dos impostos. Este tem de ser considerado não como um mero cobrador de impostos, antes como um colaborador e um especialista, que está sempre preparado e às ordens do contribuinte para o informar sobre os seus problemas fiscais, explicar-lhe como se preenche uma declaração, como se utiliza um formulário ou quando há direito a uma isenção.\n\n12. Tudo quanto se acaba de expor explica a necessidade de se proceder à reestruturação orgânica da Direcção-Geral das Contribuições e Impostos.\n\nAssim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "124344809": {
+   "fragment_id": "124344892",
+   "type": 1,
+   "heading": "Capítulo I — Objectivos, atribuições e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objectivos, atribuições e competência"
+  },
+  "124344810": {
+   "fragment_id": "124344893",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito da DGCI)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito da DGCI)\n\nA Direcção-Geral das Contribuições e Impostos (DGCI), adiante designada por Direcção-Geral, é o órgão do Ministério das Finanças e do Plano incumbido de proceder à execução da política fiscal e à administração fiscal do Estado."
+  },
+  "124344811": {
+   "fragment_id": "124344894",
+   "type": 11,
+   "heading": "Artigo 2.º — (Objectivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Objectivos)\n\nA actividade da Direcção-Geral deverá ser orientada por forma a satisfazer os seguintes objectivos principais:\n\na) Executar a política fiscal do Estado dentro da orientação estabelecida pelo Ministro das Finanças e do Plano, numa contínua avaliação da sua repercussão na ordem financeira, económica e social;\n\nb) Realizar a administração fiscal do Estado, através do contrôle e acompanhamento da aplicação das leis fiscais, e promover a reintegração ou defesa dos respectivos interesses violados."
+  },
+  "124344812": {
+   "fragment_id": "124344895",
+   "type": 11,
+   "heading": "Artigo 3.º — (Atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Atribuições)\n\nPara a realização dos objectivos definidos no artigo anterior, a Direcção-Geral tem as seguintes atribuições:\n\na) Assegurar a liquidação dos impostos;\n\nb) Pronunciar-se sobre os casos duvidosos de aplicação das leis fiscais;\n\nc) Exercer a acção de fiscalização tributária;\n\nd) Exercer a acção de justiça fiscal;\n\ne) Contribuir para o esclarecimento dos contribuintes e exercer a acção de relações públicas fiscais;\n\nf) Assegurar a execução dos acordos internacionais em matéria fiscal;\n\ng) Contribuir para a investigação no domínio da fiscalidade e para o aperfeiçoamento da técnica fiscal;\n\nh) Estudar e propor medidas fiscais de carácter normativo;\n\ni) Informar sobre os resultados e as circunstâncias ou factos observados na execução das leis."
+  },
+  "124344813": {
+   "fragment_id": "124344896",
+   "type": 11,
+   "heading": "Artigo 4.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Competência)\n\n1 - No domínio da liquidação dos impostos, compete à Direcção-Geral:\n\na) Planear e controlar a actividade da administração fiscal;\n\nb) Tomar conhecimento de todos os factos ou situações previstos na lei como fontes de obrigações fiscais;\n\nc) Organizar os registos ou inscrições de factos tributários, instaurar os processos necessários à liquidação e cobrança dos impostos e dar-lhes seguimento;\n\nd) Organizar um registo central de contribuintes;\n\ne) Decidir, por acto adequado, sobre a aplicação da lei aos factos concretos, tornando certas, líquidas e executórias as obrigações nela previstas;\n\nf) Proceder a avaliações e intervir em actos de arbitramento;\n\ng) Constituir as entidades ou órgãos de tesouraria em obrigação de arrecadar as importâncias liquidadas como objecto de imposições fiscais e verificar a exactidão do seu procedimento.\n\n2 - No domínio da aplicação das leis fiscais em casos duvidosos, compete à Direcção-Geral:\n\na) Apreciar e decidir sobre o conteúdo de requerimentos, exposições ou reclamações relativos à aplicação das leis fiscais;\n\nb) Anular as decisões constitutivas de direitos certos e executórios nos casos autorizados por lei;\n\nc) Actuar por todos os meios admitidos em direito com vista a atingir os objectivos das leis sem ofensa dos direitos dos particulares.\n\n3 - No domínio da fiscalização tributária, compete à Direcção-Geral:\n\na) Observar as realidades tributárias e verificar, quanto a elas, a correcta aplicação das leis fiscais;\n\nb) Prevenir e evitar a inobservância das leis fiscais;\n\nc) Combater as situações de evasão ou de fraude fiscais;\n\nd) Orientar e esclarecer os obrigados fiscais no âmbito da acção fiscalizadora.\n\n4 - Em matéria de justiça fiscal, compete à Direcção-Geral:\n\na) Promover as diligências indispensáveis à integração dos preceitos legais violados;\n\nb) Defender e representar os interesses da Fazenda Nacional junto dos órgãos judiciais e da administração fiscal;\n\nc) Promover a execução coerciva dos direitos em nome da Fazenda Nacional.\n\n5 - No âmbito da acção informativa dos contribuintes, compete à Direcção-Geral:\n\na) Esclarecer os contribuintes acerca do conteúdo e da interpretação das leis tributárias;\n\nb) Informar o contribuinte sobre as suas obrigações fiscais e o modo mais cómodo e seguro de lhes dar cumprimento, bem como sobre as garantias que lhe assistam;\n\nc) Promover pelos meios adequados, e sempre que se mostre conveniente, a divulgação do conteúdo da legislação fiscal, de modo a facilitar aos contribuintes o seu correcto cumprimento;\n\nd) Promover a melhoria das relações fisco-contribuintes;\n\ne) Assegurar as relações públicas em matéria fiscal.\n\n6 - No âmbito da execução dos acordos internacionais em matéria fiscal, compete à Direcção-Geral:\n\na) Assegurar a execução das convenções destinadas a eliminar a dupla tributação internacional, designadamente no que respeita às relações com as entidades competentes dos países signatários;\n\nb) Proceder à recolha dos elementos disponíveis com vista à avaliação das consequências financeiras decorrentes dos acordos;\n\nc) Propor a revisão dos acordos, quando considere conveniente, sugerindo as modificações que julgue adequadas.\n\n7 - No âmbito da investigação no domínio da fiscalidade e do aperfeiçoamento da técnica fiscal, compete à Direcção-Geral:\n\na) Realizar trabalhos de investigação nos domínios respeitantes à fiscalidade e matérias afins e, bem assim, proceder ao estudo sistemático e crítico da aplicação das leis fiscais;\n\nb) Exercer a função preparatória auxiliar da acção normativa;\n\nc) Estudar e promover o aperfeiçoamento e a actualização do sistema fiscal;\n\nd) Pronunciar-se sobre os projectos de diplomas legislativos ou de contratos do Governo em matéria tributária, tendo em vista os princípios e critérios que informam o sistema tributário;\n\ne) Realizar estudos de índole estatística necessários às decisões em matéria de política e administração fiscais;\n\nf) Assegurar a participação nos trabalhos de organismos internacionais especializados no domínio da fiscalidade;\n\ng) Colaborar com as associações ou outros organismos nacionais dedicados ao estudo das matérias fiscais;\n\nh) Organizar e assegurar o funcionamento de um serviço de documentação e consulta dos elementos relativos ao progresso da ciência e técnica fiscais."
+  },
+  "124344814": {
+   "fragment_id": "124344897",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica e funcionamento"
+  },
+  "124344815": {
+   "fragment_id": "124344898",
+   "type": 11,
+   "heading": "Artigo 5.º — (Áreas de actividade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Áreas de actividade)\n\nAs actividades da Direcção-Geral, em ordem à prossecução das respectivas atribuições, distribuem-se pelas seguintes áreas:\n\na) Gestão fiscal;\n\nb) Fiscalização tributária;\n\nc) Justiça fiscal;\n\nd) Informações e relações públicas;\n\ne) Investigação no domínio da fiscalidade."
+  },
+  "124344816": {
+   "fragment_id": "124344899",
+   "type": 11,
+   "heading": "Artigo 6.º — (Níveis e natureza dos serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Níveis e natureza dos serviços)\n\n1 - A Direcção-Geral estrutura-se verticalmente e compreende os seguintes níveis de serviços:\n\na) Serviços centrais;\n\nb) Serviços distritais;\n\nc) Serviços locais ou concelhios.\n\n2 - Os serviços centrais são, fundamentalmente, órgãos de decisão, direcção e apoio, a nível global, de todas as actividades da administração fiscal, cabendo-lhes ainda o desempenho de funções executivas de índole fiscal que, por razões de hierarquia, não caibam nas competências específicas dos serviços distritais ou locais.\n\n3 - Os serviços distritais são, essencialmente, órgãos de direcção e apoio dos serviços locais ou concelhios, cabendo-lhes ainda o desempenho de funções executivas de índole fiscal que, por razões de hierarquia, não caibam nas competências próprias daqueles serviços.\n\n4 - Os serviços locais ou concelhios são, por natureza, os órgãos operativos da administração fiscal responsáveis pela execução das operações e actos necessários ao apuramento da situação tributária dos contribuintes e à definição dos impostos devidos, cabendo-lhes ainda a execução dos serviços complementares da administração fiscal."
+  },
+  "124344817": {
+   "fragment_id": "124344900",
+   "type": 11,
+   "heading": "Artigo 7.º — (Outras funções dos serviços distritais e locais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Outras funções dos serviços distritais e locais)\n\nAos serviços distritais e locais incumbem, além das funções próprias da Direcção-Geral, quaisquer outras que lhes sejam atribuídas por lei."
+  },
+  "124344818": {
+   "fragment_id": "124344901",
+   "type": 11,
+   "heading": "Artigo 8.º — (Serviços operativos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Serviços operativos)\n\n1 - As actividades respeitantes à gestão fiscal e à fiscalização tributária são executadas:\n\na) A nível central, por direcções de serviços ou serviços específicos;\n\nb) A nível distrital, por direcções distritais de finanças;\n\nc) A nível local ou concelhio, pelos bairros fiscais, em Lisboa e no Porto, e por repartições de finanças.\n\n2 - As actividades respeitantes à justiça fiscal são executadas:\n\na) A nível central, pelo tribunal de 2.ª instância, pela Direcção de Serviços de Justiça Fiscal e pelos serviços do Ministério Público das contribuições e impostos;\n\nb) A nível distrital, pelos tribunais de 1.ª instância e pelos serviços distritais do Ministério Público das contribuições e impostos;\n\nc) A nível local ou concelhio, pelas repartições de finanças e pelos serviços locais do Ministério Público das contribuições e impostos.\n\n3 - As actividades respeitantes ao esclarecimento dos contribuintes e às relações públicas fiscais são executadas:\n\na) A nível central, pela Direcção de Serviços de Informações e Relações Públicas, mencionada no artigo 9.º;\n\nb) A nível distrital, pelas direcções distritais de finanças, através de delegações de informações fiscais;\n\nc) A nível local ou concelhio, pelos bairros fiscais, em Lisboa e no Porto, pelas repartições de finanças e por delegações concelhias de informações fiscais, nos casos em que se justifiquem."
+  },
+  "124344819": {
+   "fragment_id": "124344902",
+   "type": 11,
+   "heading": "Artigo 9.º — (Serviços de apoio)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Serviços de apoio)\n\nA nível central existirão ainda os seguintes serviços de apoio, directamente dependentes do director-geral:\n\nA) Serviços de apoio técnico:\n\na) Centro de Estudos Fiscais;\n\nb) Consultadoria Jurídica;\n\nc) Direcção de Serviços de Gestão dos Recursos Humanos e de Organização;\n\nd) Direcção de Serviços de Planeamento e Coordenação;\n\nB) Serviços de apoio instrumental:\n\na) Direcção de Serviços de Administração Geral;\n\nb) Direcção de Serviços de Informações e Relações Públicas;\n\nc) Direcção de Serviços de Instalações;\n\nd) Núcleo de Informática."
+  },
+  "124344820": {
+   "fragment_id": "124344903",
+   "type": 11,
+   "heading": "Artigo 10.º — (Conselho de administração fiscal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Conselho de administração fiscal)\n\n1 - Junto do gabinete do director-geral funcionará um conselho de administração fiscal.\n\n2 - O conselho de administração fiscal é um órgão com funções deliberativas em matéria de definição das políticas de gestão dos serviços e de aprovação dos respectivos programas de actividades, cabendo-lhe ainda, como órgão consultivo, apoiar o director-geral no exercício das respectivas funções."
+  },
+  "124344821": {
+   "fragment_id": "124344904",
+   "type": 11,
+   "heading": "Artigo 11.º — (Direcções de finanças e criação de serviços regionais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Direcções de finanças e criação de serviços regionais)\n\n1 - Em cada distrito existe uma direcção distrital de finanças.\n\n2 - Poderão ser criados serviços regionais que abranjam vários concelhos ou distritos mediante decreto emanado do Ministério das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "124344822": {
+   "fragment_id": "124344905",
+   "type": 11,
+   "heading": "Artigo 12.º — (Repartições de finanças: criação e classes; delegações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Repartições de finanças: criação e classes; delegações)\n\n1 - Nos concelhos o órgão da administração fiscal é a repartição de finanças.\n\n2 - De acordo com o volume de serviço, em cada concelho pode haver mais de uma repartição de finanças, criadas por decreto emanado do Ministério das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n3 - O número de bairros de Lisboa e Porto e sua área podem ser alterados por decreto do Ministério das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública, cabendo às respectivas repartições de finanças as funções das repartições concelhias.\n\n4 - As repartições de finanças são de 1.ª, 2.ª e 3.ª classes, constando a alteração da sua classificação de portaria do Ministério das Finanças e do Plano.\n\n5 - Sempre que haja razões justificativas, podem criar-se delegações das repartições de finanças, cujo âmbito de actuação e funcionamento serão definidos por despacho do Ministro das Finanças e do Plano."
+  },
+  "124344823": {
+   "fragment_id": "124344906",
+   "type": 11,
+   "heading": "Artigo 13.º — (Delegações regionais de informações fiscais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Delegações regionais de informações fiscais)\n\nHaverá serviços de informações fiscais em Lisboa, Porto e Coimbra, podendo criar-se outras delegações noutras cidades por decreto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "124344824": {
+   "fragment_id": "124344907",
+   "type": 11,
+   "heading": "Artigo 14.º — (Concentração e desdobramento de serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Concentração e desdobramento de serviços)\n\nMediante decreto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública, poderá proceder-se à concentração parcial ou total dos serviços ou ao seu desdobramento, sempre que as circunstâncias o justifiquem."
+  },
+  "124344825": {
+   "fragment_id": "124344908",
+   "type": 11,
+   "heading": "Artigo 15.º — (Funcionamento dos serviços da Direcção-Geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Funcionamento dos serviços da Direcção-Geral)\n\n1 - O funcionamento dos serviços da Direcção-Geral subordinar-se-á a critérios de direcção por objectivos, tendo em vista o melhor aproveitamento dos recursos disponíveis e a maximização dos respectivos níveis de eficácia e de eficiência.\n\n2 - Em ordem à desburocratização do funcionamento da Direcção-Geral, proceder-se-á à progressiva descentralização de poderes para os órgãos regionais e locais."
+  },
+  "124344826": {
+   "fragment_id": "124344909",
+   "type": 1,
+   "heading": "Capítulo III — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do pessoal"
+  },
+  "124344827": {
+   "fragment_id": "124344910",
+   "type": 8,
+   "heading": "Secção I — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições genéricas"
+  },
+  "124344828": {
+   "fragment_id": "124344911",
+   "type": 11,
+   "heading": "Artigo 16.º — (Grupos profissionais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Grupos profissionais)\n\n1 - O pessoal da Direcção-Geral integra-se num quadro geral, que será contingentado pelos diferentes serviços, e distribui-se pelos seguintes grupos profissionais:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico e pessoal técnico de administração fiscal;\n\nd) Pessoal técnico profissional e administrativo;\n\ne) Pessoal auxiliar.\n\n2 - As categorias do pessoal pertencente aos grupos indicados nas alíneas b) a d) do número anterior integram-se em carreiras profissionais."
+  },
+  "124344829": {
+   "fragment_id": "124344912",
+   "type": 11,
+   "heading": "Artigo 17.º — (Fixação e alteração dos quadros de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Fixação e alteração dos quadros de pessoal)\n\n1 - O quadro geral do pessoal da Direcção-Geral será fixado no diploma regulamentar previsto no artigo 37.º deste decreto-lei e pode ser alterado por portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n2 - O pessoal do quadro da Direcção-Geral será contingentado por portaria do Ministro das Finanças e do Plano."
+  },
+  "124344830": {
+   "fragment_id": "124344913",
+   "type": 11,
+   "heading": "Artigo 18.º — (Deslocação de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Deslocação de pessoal)\n\n1 - Independentemente do disposto no artigo anterior, pode o director-geral, por conveniência de serviço, deslocar o pessoal do respectivo local de trabalho por período não superior a um ano, com excepção das deslocações para os serviços centrais, que poderão ser por tempo indeterminado, mas, neste caso, sem direito a ajudas de custo, quando ultrapassar aquele período.\n\n2 - A distribuição do pessoal pelos diferentes serviços centrais é da competência do director-geral."
+  },
+  "124344831": {
+   "fragment_id": "124344914",
+   "type": 11,
+   "heading": "Artigo 19.º — (Pessoal além dos quadros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Pessoal além dos quadros)\n\n1 - Para ocorrer a necessidades urgentes que não possam ser executadas pelos funcionários dos quadros permanentes, poderá ser contratado pessoal além do quadro por período não superior a três anos.\n\n2 - Finda a satisfação das necessidades, terminará o contrato.\n\n3 - O pessoal que tiver sido contratado tem, em igualdade de circunstâncias, preferência nas nomeações que se efectuarem para os quadros da Direcção-Geral, desde que se encontre ao serviço à data da abertura dos concursos ou provas de selecção."
+  },
+  "124344832": {
+   "fragment_id": "124344915",
+   "type": 11,
+   "heading": "Artigo 20.º — (Realização de estudos, inquéritos e outros trabalhos especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Realização de estudos, inquéritos e outros trabalhos especiais)\n\n1 - A realização de estudos, inquéritos e outros trabalhos de natureza especial poderá ser confiada, mediante contrato ou em regime de tarefa, a entidades, nacionais ou estrangeiras, de reconhecido mérito, cuja actividade ficará sempre sujeita à orientação técnica do director-geral.\n\n2 - Os contratos referidos no número anterior não conferem a qualidade de agente administrativo."
+  },
+  "124344833": {
+   "fragment_id": "124344916",
+   "type": 11,
+   "heading": "Artigo 21.º — (Requisição de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Requisição de pessoal)\n\n1 - Poderá ser requisitado a quaisquer serviços da Administração o pessoal técnico indispensável ao funcionamento da Direcção-Geral, mediante despacho do Ministro das Finanças e do Plano, acordo do Ministro de que dependem os serviços e anuência dos funcionários a requisitar.\n\n2 - A requisição prevista no número anterior não dará lugar a abertura de vaga no quadro de origem, mas poderá o lugar ser provido interinamente pelo tempo que durar a requisição.\n\n3 - O pessoal requisitado não poderá ser prejudicado nos seus direitos e regalias.\n\n4 - Os encargos com o pessoal requisitado serão suportados por conta das adequadas verbas inscritas no orçamento da Direcção-Geral."
+  },
+  "124344834": {
+   "fragment_id": "124344917",
+   "type": 11,
+   "heading": "Artigo 22.º — (Pessoal da Direcção-Geral em comissão de serviço noutros departamentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Pessoal da Direcção-Geral em comissão de serviço noutros departamentos)\n\n1 - Os lugares dos funcionários da Direcção-Geral que forem nomeados em comissão para quaisquer cargos ou funções públicas noutros departamentos poderão ser providos, para efeitos de contingentação, interinamente, durante o primeiro ano, e definitivamente, decorrido aquele prazo.\n\n2 - O tempo de serviço prestado pelos funcionários referidos no número anterior será contado, para todos os efeitos, como se tivesse sido prestado na Direcção-Geral.\n\n3 - Os funcionários que pretendam regressar aos quadros da Direcção-Geral concorrerão, para efeitos de colocação nos lugares vagos nos mapas de contingentação, em igualdade de circunstâncias com os restantes funcionários.\n\n4 - Quando o pedido de regresso aos quadros da Direcção-Geral se verificar antes dos movimentos de transferência, os funcionários serão colocados no correspondente lugar do quadro geral, ficando a prestar serviço no local a indicar por despacho do director-geral até à realização daqueles."
+  },
+  "124344835": {
+   "fragment_id": "124344918",
+   "type": 11,
+   "heading": "Artigo 23.º — (Horário de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Horário de trabalho)\n\nPor razões de eficiência dos serviços ou melhor atendimento do público, poderá o horário de trabalho dos funcionários da Direcção-Geral ser fixado por despacho do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública, de acordo com o que vier a ser estabelecido em matéria de horários especiais para a função pública."
+  },
+  "124344836": {
+   "fragment_id": "124344919",
+   "type": 11,
+   "heading": "Artigo 24.º — (Recrutamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Recrutamento)\n\n1 - O recrutamento para o preenchimento de lugares de ingresso ou de acesso dos quadros do pessoal da Direcção-Geral far-se-á sempre por métodos e técnicas de selecção objectiva e poderá ser precedido de estágios e de cursos destinados à apreciação das aptidões dos candidatos e à respectiva preparação profissional.\n\n2 - O tempo de serviço prestado durante o período de estágio ou dos cursos será contado para todos os efeitos, desde que não haja interrupção de funções.\n\n3 - Na classificação final dos funcionários que sejam candidatos aos diferentes lugares serão tidos em conta os resultados das provas de selecção e será ponderado o respectivo mérito profissional, avaliado com base na classificação de serviço.\n\n4 - Os funcionários da Direcção-Geral que frequentarem cursos ou estágios terão direito, para além do abono de ajudas de custo e transportes, às remunerações inerentes aos respectivos cargos.\n\n5 - Durante o estágio os candidatos a lugares de ingresso terão direito à remuneração a estabelecer no decreto regulamentar."
+  },
+  "124344837": {
+   "fragment_id": "124344920",
+   "type": 11,
+   "heading": "Artigo 25.º — (Forma de provimento de pessoal dirigente e de chefia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Forma de provimento de pessoal dirigente e de chefia)\n\nA forma de provimento do pessoal dirigente será determinada no decreto regulamentar."
+  },
+  "124344838": {
+   "fragment_id": "124344921",
+   "type": 11,
+   "heading": "Artigo 26.º — (Forma de provimento de pessoal integrado em carreiras profissionais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Forma de provimento de pessoal integrado em carreiras profissionais)\n\n1 - O provimento do pessoal pertencente a categorias integradas em carreiras profissionais será feito por nomeação, salvo quando na lei geral estiverem previstas outras formas.\n\n2 - Se a nomeação recair em indivíduo com a qualidade de funcionário dos serviços do Estado, dos institutos públicos ou da administração local, poderá ser feita em comissão de serviço, nos termos que vierem a ser definidos no diploma a que se refere o artigo 37.º\n\n3 - Os funcionários nomeados nos termos do número anterior conservam todos os direitos e regalias adquiridos nos lugares de origem à data do início da comissão de serviço, podendo, durante o período que durar a comissão, os referidos lugares ser providos interinamente."
+  },
+  "124344839": {
+   "fragment_id": "124344922",
+   "type": 11,
+   "heading": "Artigo 27.º — (Classificação de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Classificação de serviço)\n\nOs funcionários da Direcção-Geral serão objecto de classificação de serviço, nos termos que vierem a ser definidos em portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "124344840": {
+   "fragment_id": "124344923",
+   "type": 11,
+   "heading": "Artigo 28.º — (Participação dos funcionários na organização e gestão dos serviços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Participação dos funcionários na organização e gestão dos serviços)\n\nOs funcionários da Direcção-Geral participarão na organização e gestão dos serviços, nos termos que vierem a ser definidos na lei geral."
+  },
+  "124344841": {
+   "fragment_id": "124344924",
+   "type": 8,
+   "heading": "Secção II — Dos direitos e deveres dos funcionários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos direitos e deveres dos funcionários"
+  },
+  "124344842": {
+   "fragment_id": "124344925",
+   "type": 11,
+   "heading": "Artigo 29.º — (Remunerações e abonos diversos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Remunerações e abonos diversos)\n\n1 - Os funcionários da Direcção-Geral têm direito ao vencimento correspondente às respectivas categorias ou cargos e poderão beneficiar de remunerações acessórias que vierem a ser estabelecidas em decreto regulamentar, observado o disposto na lei geral.\n\n2 - Além das remunerações referidas no número anterior, os funcionários da Direcção-Geral têm direito aos abonos de transportes, alojamento, instalação e habitação, actualmente em vigor, que poderão ser alterados por decreto regulamentar emanado do Ministério das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "124344843": {
+   "fragment_id": "124344926",
+   "type": 11,
+   "heading": "Artigo 30.º — (Dos deveres em geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Dos deveres em geral)\n\n1 - Além dos deveres gerais inerentes a todos os trabalhadores da função pública, devem ainda os funcionários da Direcção-Geral:\n\na) Velar pelo cumprimento das leis fiscais e sua justa aplicação, tomando as providências que estiverem nos limites da sua competência sempre que observem a existência de matéria colectável omitida ou ocultada, outras violações das referidas leis e distorções dos seus objectivos e, de uma maneira geral, infracções ou quaisquer outras circunstâncias que interessem à processação dos fins da administração fiscal;\n\nb) Usar da maior correcção, serenidade, prudência e discrição nas suas relações com os contribuintes e obrigados fiscais;\n\nc) Guardar sigilo profissional, não podendo, nomeadamente, revelar quaisquer elementos sobre a situação profissional e os rendimentos dos contribuintes."
+  },
+  "124344844": {
+   "fragment_id": "124344927",
+   "type": 11,
+   "heading": "Artigo 31.º — (Permanência no exercício de funções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Permanência no exercício de funções)\n\nPara efeitos da obrigação geral de fiscalização e para o cumprimento de deveres e exercício de direitos, os funcionários da Direcção-Geral consideram-se como estando permanentemente no exercício das suas funções."
+  },
+  "124344845": {
+   "fragment_id": "124344928",
+   "type": 11,
+   "heading": "Artigo 32.º — (Incompatibilidades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Incompatibilidades)\n\nÉ vedado aos funcionários da Direcção-Geral das Contribuições e Impostos:\n\na) Exercer advocacia ou qualquer espécie de procuradoria, com excepção dos juristas do Centro de Estudos Fiscais e da Consultadoria Jurídica em causas não fiscais;\n\nb) Exercer qualquer ramo de comércio ou indústria, salvo em casos justificados, autorizados pelo Ministro das Finanças e do Plano;\n\nc) Desempenhar, sem autorização do Ministro das Finanças e do Plano, qualquer actividade pública ou privada susceptível de comprometer a isenção exigida no exercício das funções, designadamente quando essas actividades se relacionarem com aquelas, ainda que desempenhadas por interposta pessoa."
+  },
+  "124344846": {
+   "fragment_id": "124344929",
+   "type": 8,
+   "heading": "Secção III — Condições de desempenho das funções a que estão afectos os funcionários da Direcção-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Condições de desempenho das funções a que estão afectos os funcionários da Direcção-Geral"
+  },
+  "124344847": {
+   "fragment_id": "124344930",
+   "type": 11,
+   "heading": "Artigo 33.º — (Das condições em geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Das condições em geral)\n\n1 - Para o bom desempenho das suas funções, ficam os funcionários da Direcção-Geral:\n\na) Dispensados de licença de uso e porte de arma de defesa, nos termos da legislação em vigor, não sendo responsáveis pelas consequências que resultem do uso legítimo que fizerem delas em protecção dos interesses da Fazenda Nacional ou em defesa própria no exercício das suas funções;\n\nb) Autorizados a prender em flagrante delito os indivíduos que os ofendam no exercício das suas funções, bem como os que devam legalmente ser capturados por factos puníveis pelas leis fiscais, e a requisitar o auxílio das autoridades, quando necessário, entregando-os à que se encontrar mais próxima juntamente com o respectivo auto de notícia;\n\nc) Autorizados a ingressar ou transitar, quando em serviço, em quaisquer recintos públicos, ainda que a admissão nestes esteja sujeita ao pagamento da entrada, designadamente nas gares de caminho de ferro, estações, cais de embarque, docas, aeródromos e aeroportos.\n\n2 - Os funcionários da Direcção-Geral pertencentes ao grupo de pessoal dirigente e os pertencentes aos grupos do pessoal técnico de fiscalização tributária e do pessoal técnico judicial, bem como os que exerçam funções relacionadas com as avaliações ou com a justiça fiscal, têm direito à distribuição de armamento do Estado."
+  },
+  "124344848": {
+   "fragment_id": "124344931",
+   "type": 11,
+   "heading": "Artigo 34.º — (Funcionários afectos aos serviços de fiscalização tributária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Funcionários afectos aos serviços de fiscalização tributária)\n\n1 - Para assegurar a realização das atribuições da Direcção-Geral em matéria de fiscalização tributária, poderão os respectivos funcionários:\n\na) Ter livre acesso a todas as instalações ou locais onde existam elementos relacionados com a actividade dos contribuintes ou obrigados fiscais;\n\nb) Examinar os livros e quaisquer documentos relacionados com a actividade dos contribuintes ou obrigados fiscais, bem como verificar todos os elementos susceptíveis de revelar a sua situação real;\n\nc) Visar, quando conveniente, os livros e demais documentos;\n\nd) Apreender e/ou fotocopiar os elementos de escrituração ou quaisquer outros testemunhos, quando tal se mostre indispensável para garantir a completa averiguação da conduta do contribuinte ou servir como prova das infracções cometidas;\n\ne) Proceder à selagem de quaisquer instalações, sempre que tal se mostre necessário para assegurar a plena eficácia da acção fiscalizadora e o combate à fraude fiscal, de harmonia com as regras a definir;\n\nf) Proceder ao arrombamento de dependências, cofres ou móveis onde se encontrem documentos ou outros elementos necessários ao desenvolvimento da acção fiscalizadora, de harmonia com as regras a definir;\n\ng) Examinar os elementos em poder de quaisquer entidades públicas e privadas para a completa verificação da situação tributária dos contribuintes ou obrigados fiscais ou para a obtenção e recolha de dados que interessem à fiscalização tributária;\n\nh) Pedir a todas as entidades públicas e privadas, para a realização das diligências a seu cargo, as informações que entenderem necessárias à sua boa execução;\n\ni) Promover a punição, como crime de desobediência qualificada, da recusa de quaisquer elementos de escrituração ou de prestação de esclarecimentos necessários à realização das diligências, bem como de manifesta obstrução à acção fiscalizadora;\n\nj) Utilizar as instalações dos contribuintes ou obrigados fiscais, quando as tenham, em condições que possibilitem o cabal desempenho das suas funções, considerando-se a recusa como manifesta obstrução à acção fiscalizadora.\n\n2 - Aqueles que por qualquer forma dificultarem ou se opuserem ao exercício da acção fiscalizadora dos funcionários da Direcção-Geral incorrem no crime de desobediência qualificada previsto no Código Penal.\n\n3 - O exercício das funções previstas no n.º 1 contra a vontade do contribuinte só pode ser realizado quando ordenado pela autoridade judicial competente em pedido fundamentado pelo respectivo funcionário da fiscalização tributária."
+  },
+  "124344849": {
+   "fragment_id": "124344932",
+   "type": 11,
+   "heading": "Artigo 35.º — (Funcionários afectos à actividade de informações fiscais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Funcionários afectos à actividade de informações fiscais)\n\n1 - Os funcionários afectos à actividade de informações fiscais exercerão as suas funções de acordo com os seguintes condicionalismos:\n\na) Só poderão prestar esclarecimentos verbais e telefónicos, sendo-lhes expressamente vedado responder a quaisquer questões suscitadas por escrito ou intervir por qualquer forma em processos administrativos ou graciosos;\n\nb) Os esclarecimentos previstos no número anterior serão prestados gratuitamente e, sempre que os consulentes o desejem, sob o regime de anonimato;\n\nc) Os esclarecimentos não vinculam os órgãos do Estado, administrativos ou judiciais, chamados a decidir questões relativas a informações solicitadas aos funcionários quando no exercício da actividade acima referida;\n\nd) Independentemente de responsabilidade disciplinar, aos funcionários que agirem dolosamente poderá ser exigida indemnização por perdas e danos pelos contribuintes de boa fé que provem terem sido lesados pelas informações prestadas;\n\ne) A responsabilidade a que se refere a parte final da alínea anterior só poderá efectivar-se quando o pedido de informação não tenha sido feito por escrito;\n\nf) É vedado darem conhecimento, por qualquer forma e mesmo aos seus superiores hierárquicos, das situações de facto postas pelos contribuintes ou de quaisquer elementos que sirvam para a liquidação das respectivas contribuições gerais do Estado ou para o levantamento contra aqueles de autos de transgressão.\n\n2 - A proibição referida na alínea f) do número anterior não impede que os funcionários, para esclarecimento de dúvidas, exponham superiormente, sem menção da identidade dos consulentes, as hipóteses sobre que os mesmos pedirem informações, nem dêem as indicações julgadas convenientes para a uniformização do serviço e fins estatísticos deste.\n\n3 - Os superiores que vierem a ter conhecimento, por qualquer meio, das situações de facto a que alude a alínea f) do n.º 1 deste artigo ficam identicamente obrigados ao segredo profissional.\n\n4 - Em caso algum poderão ser considerados para o efeito de liquidação das contribuições gerais do Estado ou de levantamento de autos de transgressão os elementos que eventualmente cheguem ao conhecimento superior por intermédio de funcionários no exercício de funções ligadas à actividade de informações fiscais.\n\n5 - Aos funcionários que, mesmo em relação aos seus superiores hierárquicos, violem o segredo profissional a que pelas disposições anteriores ficam especialmente obrigados, além da imediata suspensão de funções, serão aplicadas, conforme as circunstâncias, as penas do n.os 5 e seguintes do artigo 11.º do Estatuto Disciplinar dos Funcionários Civis do Estado."
+  },
+  "124344850": {
+   "fragment_id": "124344933",
+   "type": 11,
+   "heading": "Artigo 36.º — (Domicílio dos funcionários da DGCI)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Domicílio dos funcionários da DGCI)\n\n1 - Os funcionários da Direcção-Geral têm domicílio legal no lugar onde exercem as suas funções, sem prejuízo do seu domicílio voluntário no local da sua residência habitual.\n\n2 - No caso de os funcionários exercerem funções em mais de um concelho, ser-lhes-á fixado, mediante despacho do director-geral, domicílio legal na sede de um dos concelhos em que forem exercidas as referidas funções.\n\n3 - Na fixação a que se refere o número anterior serão tidos em conta os interesses dos funcionários."
+  },
+  "124344851": {
+   "fragment_id": "124344934",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "124344852": {
+   "fragment_id": "124344935",
+   "type": 11,
+   "heading": "Artigo 37.º — (Matérias a regulamentar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Matérias a regulamentar)\n\n1 - Serão objecto de regulamentação em decreto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública, a publicar no prazo de noventa dias após a entrada em vigor do presente decreto-lei:\n\na) A estrutura e competência dos serviços centrais;\n\nb) A estrutura e a dinâmica das carreiras profissionais do pessoal da Direcção-Geral;\n\nc) As condições de provimento dos lugares do pessoal dirigente;\n\nd) O regime jurídico aplicável aos funcionários da Direcção-Geral;\n\ne) A transição dos actuais funcionários e agentes que prestem serviço na Direcção-Geral para os novos quadros e carreiras profissionais."
+  },
+  "124344853": {
+   "fragment_id": "124344936",
+   "type": 11,
+   "heading": "Artigo 38.º — (Regulamentação das provas de selecção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Regulamentação das provas de selecção)\n\nA regulamentação dos estágios e cursos, bem como das restantes provas de selecção previstas no presente decreto-lei, será aprovada por portaria do Ministério das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "124344854": {
+   "fragment_id": "124344937",
+   "type": 11,
+   "heading": "Artigo 39.º — (Reestruturação dos serviços distritais e locais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Reestruturação dos serviços distritais e locais)\n\nO Ministro das Finanças e do Plano tomará as providências necessárias para que no prazo de cento e oitenta dias a contar da entrada em vigor do presente decreto-lei sejam reestruturados os serviços distritais e locais da administração fiscal."
+  },
+  "124344855": {
+   "fragment_id": "124344938",
+   "type": 11,
+   "heading": "Artigo 40.º — (Tribunais e Ministério Público das contribuições e impostos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Tribunais e Ministério Público das contribuições e impostos)\n\nA organização e o funcionamento dos serviços de justiça fiscal continuam a reger-se pelas normas aplicáveis à data da entrada em vigor do presente decreto-lei, com as necessárias adaptações resultantes da nova estrutura do pessoal da Direcção-Geral."
+  },
+  "124344856": {
+   "fragment_id": "124344939",
+   "type": 11,
+   "heading": "Artigo 41.º — (Serviços distritais e locais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Serviços distritais e locais)\n\nEnquanto não forem reestruturados os serviços a que se refere o artigo 39.º, mantêm-se em vigor, com as adaptações resultantes do disposto no presente diploma, as normas relacionadas com a organização e o funcionamento das direcções distritais e repartições concelhias de finanças contidas na Organização da Direcção-Geral, aprovada pelo Decreto n.º 45095, de 29 de Junho de 1963, e na legislação complementar."
+  },
+  "124344857": {
+   "fragment_id": "124344940",
+   "type": 11,
+   "heading": "Artigo 42.º — (Alterações à organização dos serviços distritais e locais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Alterações à organização dos serviços distritais e locais)\n\nSem prejuízo do disposto no artigo 39.º, serão desde já introduzidas as seguintes alterações nos serviços a que o mesmo se refere:\n\na) As secções das direcções distritais de finanças são transformadas em serviços, passando a haver um especificamento para a fiscalização tributária, os quais serão dirigidos nos termos que vierem a ser definidos no diploma regulamentar;\n\nb) As repartições concelhias de finanças poderão subdividir-se em secções, com a distribuição de serviços a estabelecer em despacho do director-geral, as quais serão dirigidas nos termos que vierem a ser definidos no diploma regulamentar;\n\nc) Os directores distritais de finanças de Lisboa e do Porto serão coadjuvados no exercício das respectivas funções, incluindo as relacionadas com a fiscalização tributária, por directores de finanças, os quais serão nomeados nos termos a definir no diploma regulamentar e exercerão as funções que lhes forem delegadas pelos respectivos directores, bem como as de representantes da Fazenda Nacional nos tribunais das contribuições e impostos;\n\nd) Os directores distritais de finanças não mencionados na alínea anterior serão coadjuvados por funcionários a nomear nos termos que vierem a ser definidos no decreto regulamentar."
+  },
+  "124344858": {
+   "fragment_id": "124344941",
+   "type": 11,
+   "heading": "Artigo 43.º — (Entrada em funcionamento das novas estruturas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Entrada em funcionamento das novas estruturas)\n\nAs novas estruturas orgânicas e do pessoal previstas no presente decreto-lei poderão entrar em funcionamento por fases, de acordo com o que for definido em despacho do Ministro das Finanças e do Plano."
+  },
+  "124344859": {
+   "fragment_id": "124344942",
+   "type": 11,
+   "heading": "Artigo 44.º — (Resolução de dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — (Resolução de dúvidas)\n\nAs dúvidas surgidas na aplicação do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "124344860": {
+   "fragment_id": "124344943",
+   "type": 11,
+   "heading": "Artigo 45.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Entrada em vigor)\n\nO presente diploma produzirá efeitos a partir do dia 1 do mês em que for publicado no Diário da República."
+  },
+  "124346721": {
+   "fragment_id": "124344902",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviços centrais de apoio",
+   "in_force_from": "1988-01-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/88 - Diário da República n.º 12/1988, Série I de 1988-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1988-283367), em vigor a partir de 1988-01-15"
+   ],
+   "markdown": "###### Artigo 9.º — Serviços centrais de apoio\n\nA nível central existirão ainda os seguintes serviços de apoio, directamente dependentes do director-geral:\n\na) Centro de Estudos Fiscais;\n\nb) Consultadoria Jurídica;\n\nc) Direcção de Serviços de Gestão dos Recursos Humanos;\n\nd) Centro de Formação e Aperfeiçoamento Profissional;\n\ne) Direcção de Serviços de Planeamento e Coordenação;\n\nf) Serviço de Sistemas de Informação;\n\ng) Direcção de Serviços de Gestão Financeira e Patrimonial;\n\nh) Direcção de Serviços de Informações e Relações Públicas;\n\ni) Direcção de Serviços de Instalações.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/88 - Diário da República n.º 12/1988, Série I de 1988-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1988-283367), em vigor a partir de 1988-01-15"
+  },
+  "124344861": {
+   "fragment_id": "124344944",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Alfredo Jorge Nobre da Costa - José da Silva Lopes - António Jorge Figueiredo Lopes.\n\nPromulgado em 10 de Novembro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "124346722": {
+   "fragment_id": "124344893",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito da DGCI)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 1.º — (Âmbito da DGCI)\n\nA Direcção-Geral das Contribuições e Impostos (DGCI), adiante designada por Direcção-Geral, é o órgão do Ministério das Finanças e do Plano incumbido de proceder à execução da política fiscal e à administração fiscal do Estado.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346723": {
+   "fragment_id": "124344894",
+   "type": 11,
+   "heading": "Artigo 2.º — (Objectivos)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 2.º — (Objectivos)\n\nA actividade da Direcção-Geral deverá ser orientada por forma a satisfazer os seguintes objectivos principais:\n\na) Executar a política fiscal do Estado dentro da orientação estabelecida pelo Ministro das Finanças e do Plano, numa contínua avaliação da sua repercussão na ordem financeira, económica e social;\n\nb) Realizar a administração fiscal do Estado, através do contrôle e acompanhamento da aplicação das leis fiscais, e promover a reintegração ou defesa dos respectivos interesses violados.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346724": {
+   "fragment_id": "124344895",
+   "type": 11,
+   "heading": "Artigo 3.º — (Atribuições)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 3.º — (Atribuições)\n\nPara a realização dos objectivos definidos no artigo anterior, a Direcção-Geral tem as seguintes atribuições:\n\na) Assegurar a liquidação dos impostos;\n\nb) Pronunciar-se sobre os casos duvidosos de aplicação das leis fiscais;\n\nc) Exercer a acção de fiscalização tributária;\n\nd) Exercer a acção de justiça fiscal;\n\ne) Contribuir para o esclarecimento dos contribuintes e exercer a acção de relações públicas fiscais;\n\nf) Assegurar a execução dos acordos internacionais em matéria fiscal;\n\ng) Contribuir para a investigação no domínio da fiscalidade e para o aperfeiçoamento da técnica fiscal;\n\nh) Estudar e propor medidas fiscais de carácter normativo;\n\ni) Informar sobre os resultados e as circunstâncias ou factos observados na execução das leis.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346725": {
+   "fragment_id": "124344896",
+   "type": 11,
+   "heading": "Artigo 4.º — (Competência)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 4.º — (Competência)\n\n1 - No domínio da liquidação dos impostos, compete à Direcção-Geral:\n\na) Planear e controlar a actividade da administração fiscal;\n\nb) Tomar conhecimento de todos os factos ou situações previstos na lei como fontes de obrigações fiscais;\n\nc) Organizar os registos ou inscrições de factos tributários, instaurar os processos necessários à liquidação e cobrança dos impostos e dar-lhes seguimento;\n\nd) Organizar um registo central de contribuintes;\n\ne) Decidir, por acto adequado, sobre a aplicação da lei aos factos concretos, tornando certas, líquidas e executórias as obrigações nela previstas;\n\nf) Proceder a avaliações e intervir em actos de arbitramento;\n\ng) Constituir as entidades ou órgãos de tesouraria em obrigação de arrecadar as importâncias liquidadas como objecto de imposições fiscais e verificar a exactidão do seu procedimento.\n\n2 - No domínio da aplicação das leis fiscais em casos duvidosos, compete à Direcção-Geral:\n\na) Apreciar e decidir sobre o conteúdo de requerimentos, exposições ou reclamações relativos à aplicação das leis fiscais;\n\nb) Anular as decisões constitutivas de direitos certos e executórios nos casos autorizados por lei;\n\nc) Actuar por todos os meios admitidos em direito com vista a atingir os objectivos das leis sem ofensa dos direitos dos particulares.\n\n3 - No domínio da fiscalização tributária, compete à Direcção-Geral:\n\na) Observar as realidades tributárias e verificar, quanto a elas, a correcta aplicação das leis fiscais;\n\nb) Prevenir e evitar a inobservância das leis fiscais;\n\nc) Combater as situações de evasão ou de fraude fiscais;\n\nd) Orientar e esclarecer os obrigados fiscais no âmbito da acção fiscalizadora.\n\n4 - Em matéria de justiça fiscal, compete à Direcção-Geral:\n\na) Promover as diligências indispensáveis à integração dos preceitos legais violados;\n\nb) Defender e representar os interesses da Fazenda Nacional junto dos órgãos judiciais e da administração fiscal;\n\nc) Promover a execução coerciva dos direitos em nome da Fazenda Nacional.\n\n5 - No âmbito da acção informativa dos contribuintes, compete à Direcção-Geral:\n\na) Esclarecer os contribuintes acerca do conteúdo e da interpretação das leis tributárias;\n\nb) Informar o contribuinte sobre as suas obrigações fiscais e o modo mais cómodo e seguro de lhes dar cumprimento, bem como sobre as garantias que lhe assistam;\n\nc) Promover pelos meios adequados, e sempre que se mostre conveniente, a divulgação do conteúdo da legislação fiscal, de modo a facilitar aos contribuintes o seu correcto cumprimento;\n\nd) Promover a melhoria das relações fisco-contribuintes;\n\ne) Assegurar as relações públicas em matéria fiscal.\n\n6 - No âmbito da execução dos acordos internacionais em matéria fiscal, compete à Direcção-Geral:\n\na) Assegurar a execução das convenções destinadas a eliminar a dupla tributação internacional, designadamente no que respeita às relações com as entidades competentes dos países signatários;\n\nb) Proceder à recolha dos elementos disponíveis com vista à avaliação das consequências financeiras decorrentes dos acordos;\n\nc) Propor a revisão dos acordos, quando considere conveniente, sugerindo as modificações que julgue adequadas.\n\n7 - No âmbito da investigação no domínio da fiscalidade e do aperfeiçoamento da técnica fiscal, compete à Direcção-Geral:\n\na) Realizar trabalhos de investigação nos domínios respeitantes à fiscalidade e matérias afins e, bem assim, proceder ao estudo sistemático e crítico da aplicação das leis fiscais;\n\nb) Exercer a função preparatória auxiliar da acção normativa;\n\nc) Estudar e promover o aperfeiçoamento e a actualização do sistema fiscal;\n\nd) Pronunciar-se sobre os projectos de diplomas legislativos ou de contratos do Governo em matéria tributária, tendo em vista os princípios e critérios que informam o sistema tributário;\n\ne) Realizar estudos de índole estatística necessários às decisões em matéria de política e administração fiscais;\n\nf) Assegurar a participação nos trabalhos de organismos internacionais especializados no domínio da fiscalidade;\n\ng) Colaborar com as associações ou outros organismos nacionais dedicados ao estudo das matérias fiscais;\n\nh) Organizar e assegurar o funcionamento de um serviço de documentação e consulta dos elementos relativos ao progresso da ciência e técnica fiscais.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346726": {
+   "fragment_id": "124344898",
+   "type": 11,
+   "heading": "Artigo 5.º — (Áreas de actividade)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 5.º — (Áreas de actividade)\n\nAs actividades da Direcção-Geral, em ordem à prossecução das respectivas atribuições, distribuem-se pelas seguintes áreas:\n\na) Gestão fiscal;\n\nb) Fiscalização tributária;\n\nc) Justiça fiscal;\n\nd) Informações e relações públicas;\n\ne) Investigação no domínio da fiscalidade.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346727": {
+   "fragment_id": "124344899",
+   "type": 11,
+   "heading": "Artigo 6.º — (Níveis e natureza dos serviços)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 6.º — (Níveis e natureza dos serviços)\n\n1 - A Direcção-Geral estrutura-se verticalmente e compreende os seguintes níveis de serviços:\n\na) Serviços centrais;\n\nb) Serviços distritais;\n\nc) Serviços locais ou concelhios.\n\n2 - Os serviços centrais são, fundamentalmente, órgãos de decisão, direcção e apoio, a nível global, de todas as actividades da administração fiscal, cabendo-lhes ainda o desempenho de funções executivas de índole fiscal que, por razões de hierarquia, não caibam nas competências específicas dos serviços distritais ou locais.\n\n3 - Os serviços distritais são, essencialmente, órgãos de direcção e apoio dos serviços locais ou concelhios, cabendo-lhes ainda o desempenho de funções executivas de índole fiscal que, por razões de hierarquia, não caibam nas competências próprias daqueles serviços.\n\n4 - Os serviços locais ou concelhios são, por natureza, os órgãos operativos da administração fiscal responsáveis pela execução das operações e actos necessários ao apuramento da situação tributária dos contribuintes e à definição dos impostos devidos, cabendo-lhes ainda a execução dos serviços complementares da administração fiscal.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346728": {
+   "fragment_id": "124344900",
+   "type": 11,
+   "heading": "Artigo 7.º — (Outras funções dos serviços distritais e locais)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 7.º — (Outras funções dos serviços distritais e locais)\n\nAos serviços distritais e locais incumbem, além das funções próprias da Direcção-Geral, quaisquer outras que lhes sejam atribuídas por lei.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346729": {
+   "fragment_id": "124344901",
+   "type": 11,
+   "heading": "Artigo 8.º — (Serviços operativos)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 8.º — (Serviços operativos)\n\n1 - As actividades respeitantes à gestão fiscal e à fiscalização tributária são executadas:\n\na) A nível central, por direcções de serviços ou serviços específicos;\n\nb) A nível distrital, por direcções distritais de finanças;\n\nc) A nível local ou concelhio, pelos bairros fiscais, em Lisboa e no Porto, e por repartições de finanças.\n\n2 - As actividades respeitantes à justiça fiscal são executadas:\n\na) A nível central, pelo tribunal de 2.ª instância, pela Direcção de Serviços de Justiça Fiscal e pelos serviços do Ministério Público das contribuições e impostos;\n\nb) A nível distrital, pelos tribunais de 1.ª instância e pelos serviços distritais do Ministério Público das contribuições e impostos;\n\nc) A nível local ou concelhio, pelas repartições de finanças e pelos serviços locais do Ministério Público das contribuições e impostos.\n\n3 - As actividades respeitantes ao esclarecimento dos contribuintes e às relações públicas fiscais são executadas:\n\na) A nível central, pela Direcção de Serviços de Informações e Relações Públicas, mencionada no artigo 9.º;\n\nb) A nível distrital, pelas direcções distritais de finanças, através de delegações de informações fiscais;\n\nc) A nível local ou concelhio, pelos bairros fiscais, em Lisboa e no Porto, pelas repartições de finanças e por delegações concelhias de informações fiscais, nos casos em que se justifiquem.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346730": {
+   "fragment_id": "124344902",
+   "type": 11,
+   "heading": "Artigo 9.º — Serviços centrais de apoio",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/88 - Diário da República n.º 12/1988, Série I de 1988-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1988-283367), em vigor a partir de 1988-01-15"
+   ],
+   "markdown": "###### Artigo 9.º — Serviços centrais de apoio\n\nA nível central existirão ainda os seguintes serviços de apoio, directamente dependentes do director-geral:\n\na) Centro de Estudos Fiscais;\n\nb) Consultadoria Jurídica;\n\nc) Direcção de Serviços de Gestão dos Recursos Humanos;\n\nd) Centro de Formação e Aperfeiçoamento Profissional;\n\ne) Direcção de Serviços de Planeamento e Coordenação;\n\nf) Serviço de Sistemas de Informação;\n\ng) Direcção de Serviços de Gestão Financeira e Patrimonial;\n\nh) Direcção de Serviços de Informações e Relações Públicas;\n\ni) Direcção de Serviços de Instalações.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 6/88 - Diário da República n.º 12/1988, Série I de 1988-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1988-283367), em vigor a partir de 1988-01-15"
+  },
+  "124346731": {
+   "fragment_id": "124344903",
+   "type": 11,
+   "heading": "Artigo 10.º — (Conselho de administração fiscal)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 10.º — (Conselho de administração fiscal)\n\n1 - Junto do gabinete do director-geral funcionará um conselho de administração fiscal.\n\n2 - O conselho de administração fiscal é um órgão com funções deliberativas em matéria de definição das políticas de gestão dos serviços e de aprovação dos respectivos programas de actividades, cabendo-lhe ainda, como órgão consultivo, apoiar o director-geral no exercício das respectivas funções.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346732": {
+   "fragment_id": "124344904",
+   "type": 11,
+   "heading": "Artigo 11.º — (Direcções de finanças e criação de serviços regionais)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 11.º — (Direcções de finanças e criação de serviços regionais)\n\n1 - Em cada distrito existe uma direcção distrital de finanças.\n\n2 - Poderão ser criados serviços regionais que abranjam vários concelhos ou distritos mediante decreto emanado do Ministério das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346733": {
+   "fragment_id": "124344905",
+   "type": 11,
+   "heading": "Artigo 12.º — (Repartições de finanças: criação e classes; delegações)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 12.º — (Repartições de finanças: criação e classes; delegações)\n\n1 - Nos concelhos o órgão da administração fiscal é a repartição de finanças.\n\n2 - De acordo com o volume de serviço, em cada concelho pode haver mais de uma repartição de finanças, criadas por decreto emanado do Ministério das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n3 - O número de bairros de Lisboa e Porto e sua área podem ser alterados por decreto do Ministério das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública, cabendo às respectivas repartições de finanças as funções das repartições concelhias.\n\n4 - As repartições de finanças são de 1.ª, 2.ª e 3.ª classes, constando a alteração da sua classificação de portaria do Ministério das Finanças e do Plano.\n\n5 - Sempre que haja razões justificativas, podem criar-se delegações das repartições de finanças, cujo âmbito de actuação e funcionamento serão definidos por despacho do Ministro das Finanças e do Plano.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346734": {
+   "fragment_id": "124344906",
+   "type": 11,
+   "heading": "Artigo 13.º — (Delegações regionais de informações fiscais)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 13.º — (Delegações regionais de informações fiscais)\n\nHaverá serviços de informações fiscais em Lisboa, Porto e Coimbra, podendo criar-se outras delegações noutras cidades por decreto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346735": {
+   "fragment_id": "124344907",
+   "type": 11,
+   "heading": "Artigo 14.º — (Concentração e desdobramento de serviços)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 14.º — (Concentração e desdobramento de serviços)\n\nMediante decreto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública, poderá proceder-se à concentração parcial ou total dos serviços ou ao seu desdobramento, sempre que as circunstâncias o justifiquem.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346736": {
+   "fragment_id": "124344908",
+   "type": 11,
+   "heading": "Artigo 15.º — (Funcionamento dos serviços da Direcção-Geral)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 15.º — (Funcionamento dos serviços da Direcção-Geral)\n\n1 - O funcionamento dos serviços da Direcção-Geral subordinar-se-á a critérios de direcção por objectivos, tendo em vista o melhor aproveitamento dos recursos disponíveis e a maximização dos respectivos níveis de eficácia e de eficiência.\n\n2 - Em ordem à desburocratização do funcionamento da Direcção-Geral, proceder-se-á à progressiva descentralização de poderes para os órgãos regionais e locais.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346737": {
+   "fragment_id": "124344912",
+   "type": 11,
+   "heading": "Artigo 17.º — (Fixação e alteração dos quadros de pessoal)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 17.º — (Fixação e alteração dos quadros de pessoal)\n\n1 - O quadro geral do pessoal da Direcção-Geral será fixado no diploma regulamentar previsto no artigo 37.º deste decreto-lei e pode ser alterado por portaria conjunta do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n2 - O pessoal do quadro da Direcção-Geral será contingentado por portaria do Ministro das Finanças e do Plano.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346738": {
+   "fragment_id": "124344913",
+   "type": 11,
+   "heading": "Artigo 18.º — (Deslocação de pessoal)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 18.º — (Deslocação de pessoal)\n\n1 - Independentemente do disposto no artigo anterior, pode o director-geral, por conveniência de serviço, deslocar o pessoal do respectivo local de trabalho por período não superior a um ano, com excepção das deslocações para os serviços centrais, que poderão ser por tempo indeterminado, mas, neste caso, sem direito a ajudas de custo, quando ultrapassar aquele período.\n\n2 - A distribuição do pessoal pelos diferentes serviços centrais é da competência do director-geral.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346739": {
+   "fragment_id": "124344914",
+   "type": 11,
+   "heading": "Artigo 19.º — (Pessoal além dos quadros)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 19.º — (Pessoal além dos quadros)\n\n1 - Para ocorrer a necessidades urgentes que não possam ser executadas pelos funcionários dos quadros permanentes, poderá ser contratado pessoal além do quadro por período não superior a três anos.\n\n2 - Finda a satisfação das necessidades, terminará o contrato.\n\n3 - O pessoal que tiver sido contratado tem, em igualdade de circunstâncias, preferência nas nomeações que se efectuarem para os quadros da Direcção-Geral, desde que se encontre ao serviço à data da abertura dos concursos ou provas de selecção.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346740": {
+   "fragment_id": "124344915",
+   "type": 11,
+   "heading": "Artigo 20.º — (Realização de estudos, inquéritos e outros trabalhos especiais)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 20.º — (Realização de estudos, inquéritos e outros trabalhos especiais)\n\n1 - A realização de estudos, inquéritos e outros trabalhos de natureza especial poderá ser confiada, mediante contrato ou em regime de tarefa, a entidades, nacionais ou estrangeiras, de reconhecido mérito, cuja actividade ficará sempre sujeita à orientação técnica do director-geral.\n\n2 - Os contratos referidos no número anterior não conferem a qualidade de agente administrativo.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346741": {
+   "fragment_id": "124344916",
+   "type": 11,
+   "heading": "Artigo 21.º — (Requisição de pessoal)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 21.º — (Requisição de pessoal)\n\n1 - Poderá ser requisitado a quaisquer serviços da Administração o pessoal técnico indispensável ao funcionamento da Direcção-Geral, mediante despacho do Ministro das Finanças e do Plano, acordo do Ministro de que dependem os serviços e anuência dos funcionários a requisitar.\n\n2 - A requisição prevista no número anterior não dará lugar a abertura de vaga no quadro de origem, mas poderá o lugar ser provido interinamente pelo tempo que durar a requisição.\n\n3 - O pessoal requisitado não poderá ser prejudicado nos seus direitos e regalias.\n\n4 - Os encargos com o pessoal requisitado serão suportados por conta das adequadas verbas inscritas no orçamento da Direcção-Geral.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346742": {
+   "fragment_id": "124344917",
+   "type": 11,
+   "heading": "Artigo 22.º — (Pessoal da Direcção-Geral em comissão de serviço noutros departamentos)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 22.º — (Pessoal da Direcção-Geral em comissão de serviço noutros departamentos)\n\n1 - Os lugares dos funcionários da Direcção-Geral que forem nomeados em comissão para quaisquer cargos ou funções públicas noutros departamentos poderão ser providos, para efeitos de contingentação, interinamente, durante o primeiro ano, e definitivamente, decorrido aquele prazo.\n\n2 - O tempo de serviço prestado pelos funcionários referidos no número anterior será contado, para todos os efeitos, como se tivesse sido prestado na Direcção-Geral.\n\n3 - Os funcionários que pretendam regressar aos quadros da Direcção-Geral concorrerão, para efeitos de colocação nos lugares vagos nos mapas de contingentação, em igualdade de circunstâncias com os restantes funcionários.\n\n4 - Quando o pedido de regresso aos quadros da Direcção-Geral se verificar antes dos movimentos de transferência, os funcionários serão colocados no correspondente lugar do quadro geral, ficando a prestar serviço no local a indicar por despacho do director-geral até à realização daqueles.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346743": {
+   "fragment_id": "124344918",
+   "type": 11,
+   "heading": "Artigo 23.º — (Horário de trabalho)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 23.º — (Horário de trabalho)\n\nPor razões de eficiência dos serviços ou melhor atendimento do público, poderá o horário de trabalho dos funcionários da Direcção-Geral ser fixado por despacho do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública, de acordo com o que vier a ser estabelecido em matéria de horários especiais para a função pública.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346744": {
+   "fragment_id": "124344919",
+   "type": 11,
+   "heading": "Artigo 24.º — (Recrutamento)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 24.º — (Recrutamento)\n\n1 - O recrutamento para o preenchimento de lugares de ingresso ou de acesso dos quadros do pessoal da Direcção-Geral far-se-á sempre por métodos e técnicas de selecção objectiva e poderá ser precedido de estágios e de cursos destinados à apreciação das aptidões dos candidatos e à respectiva preparação profissional.\n\n2 - O tempo de serviço prestado durante o período de estágio ou dos cursos será contado para todos os efeitos, desde que não haja interrupção de funções.\n\n3 - Na classificação final dos funcionários que sejam candidatos aos diferentes lugares serão tidos em conta os resultados das provas de selecção e será ponderado o respectivo mérito profissional, avaliado com base na classificação de serviço.\n\n4 - Os funcionários da Direcção-Geral que frequentarem cursos ou estágios terão direito, para além do abono de ajudas de custo e transportes, às remunerações inerentes aos respectivos cargos.\n\n5 - Durante o estágio os candidatos a lugares de ingresso terão direito à remuneração a estabelecer no decreto regulamentar.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346745": {
+   "fragment_id": "124344920",
+   "type": 11,
+   "heading": "Artigo 25.º — (Forma de provimento de pessoal dirigente e de chefia)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 25.º — (Forma de provimento de pessoal dirigente e de chefia)\n\nA forma de provimento do pessoal dirigente será determinada no decreto regulamentar.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346746": {
+   "fragment_id": "124344921",
+   "type": 11,
+   "heading": "Artigo 26.º — (Forma de provimento de pessoal integrado em carreiras profissionais)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 26.º — (Forma de provimento de pessoal integrado em carreiras profissionais)\n\n1 - O provimento do pessoal pertencente a categorias integradas em carreiras profissionais será feito por nomeação, salvo quando na lei geral estiverem previstas outras formas.\n\n2 - Se a nomeação recair em indivíduo com a qualidade de funcionário dos serviços do Estado, dos institutos públicos ou da administração local, poderá ser feita em comissão de serviço, nos termos que vierem a ser definidos no diploma a que se refere o artigo 37.º\n\n3 - Os funcionários nomeados nos termos do número anterior conservam todos os direitos e regalias adquiridos nos lugares de origem à data do início da comissão de serviço, podendo, durante o período que durar a comissão, os referidos lugares ser providos interinamente.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346747": {
+   "fragment_id": "124344923",
+   "type": 11,
+   "heading": "Artigo 28.º — (Participação dos funcionários na organização e gestão dos serviços)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 28.º — (Participação dos funcionários na organização e gestão dos serviços)\n\nOs funcionários da Direcção-Geral participarão na organização e gestão dos serviços, nos termos que vierem a ser definidos na lei geral.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346748": {
+   "fragment_id": "124344925",
+   "type": 11,
+   "heading": "Artigo 29.º — (Remunerações e abonos diversos)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 29.º — (Remunerações e abonos diversos)\n\n1 - Os funcionários da Direcção-Geral têm direito ao vencimento correspondente às respectivas categorias ou cargos e poderão beneficiar de remunerações acessórias que vierem a ser estabelecidas em decreto regulamentar, observado o disposto na lei geral.\n\n2 - Além das remunerações referidas no número anterior, os funcionários da Direcção-Geral têm direito aos abonos de transportes, alojamento, instalação e habitação, actualmente em vigor, que poderão ser alterados por decreto regulamentar emanado do Ministério das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346749": {
+   "fragment_id": "124344935",
+   "type": 11,
+   "heading": "Artigo 37.º — (Matérias a regulamentar)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 37.º — (Matérias a regulamentar)\n\n1 - Serão objecto de regulamentação em decreto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública, a publicar no prazo de noventa dias após a entrada em vigor do presente decreto-lei:\n\na) A estrutura e competência dos serviços centrais;\n\nb) A estrutura e a dinâmica das carreiras profissionais do pessoal da Direcção-Geral;\n\nc) As condições de provimento dos lugares do pessoal dirigente;\n\nd) O regime jurídico aplicável aos funcionários da Direcção-Geral;\n\ne) A transição dos actuais funcionários e agentes que prestem serviço na Direcção-Geral para os novos quadros e carreiras profissionais.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346750": {
+   "fragment_id": "124344937",
+   "type": 11,
+   "heading": "Artigo 39.º — (Reestruturação dos serviços distritais e locais)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 39.º — (Reestruturação dos serviços distritais e locais)\n\nO Ministro das Finanças e do Plano tomará as providências necessárias para que no prazo de cento e oitenta dias a contar da entrada em vigor do presente decreto-lei sejam reestruturados os serviços distritais e locais da administração fiscal.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346751": {
+   "fragment_id": "124344938",
+   "type": 11,
+   "heading": "Artigo 40.º — (Tribunais e Ministério Público das contribuições e impostos)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 40.º — (Tribunais e Ministério Público das contribuições e impostos)\n\nA organização e o funcionamento dos serviços de justiça fiscal continuam a reger-se pelas normas aplicáveis à data da entrada em vigor do presente decreto-lei, com as necessárias adaptações resultantes da nova estrutura do pessoal da Direcção-Geral.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346752": {
+   "fragment_id": "124344939",
+   "type": 11,
+   "heading": "Artigo 41.º — (Serviços distritais e locais)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 41.º — (Serviços distritais e locais)\n\nEnquanto não forem reestruturados os serviços a que se refere o artigo 39.º, mantêm-se em vigor, com as adaptações resultantes do disposto no presente diploma, as normas relacionadas com a organização e o funcionamento das direcções distritais e repartições concelhias de finanças contidas na Organização da Direcção-Geral, aprovada pelo Decreto n.º 45095, de 29 de Junho de 1963, e na legislação complementar.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346753": {
+   "fragment_id": "124344940",
+   "type": 11,
+   "heading": "Artigo 42.º — (Alterações à organização dos serviços distritais e locais)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 42.º — (Alterações à organização dos serviços distritais e locais)\n\nSem prejuízo do disposto no artigo 39.º, serão desde já introduzidas as seguintes alterações nos serviços a que o mesmo se refere:\n\na) As secções das direcções distritais de finanças são transformadas em serviços, passando a haver um especificamento para a fiscalização tributária, os quais serão dirigidos nos termos que vierem a ser definidos no diploma regulamentar;\n\nb) As repartições concelhias de finanças poderão subdividir-se em secções, com a distribuição de serviços a estabelecer em despacho do director-geral, as quais serão dirigidas nos termos que vierem a ser definidos no diploma regulamentar;\n\nc) Os directores distritais de finanças de Lisboa e do Porto serão coadjuvados no exercício das respectivas funções, incluindo as relacionadas com a fiscalização tributária, por directores de finanças, os quais serão nomeados nos termos a definir no diploma regulamentar e exercerão as funções que lhes forem delegadas pelos respectivos directores, bem como as de representantes da Fazenda Nacional nos tribunais das contribuições e impostos;\n\nd) Os directores distritais de finanças não mencionados na alínea anterior serão coadjuvados por funcionários a nomear nos termos que vierem a ser definidos no decreto regulamentar.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346754": {
+   "fragment_id": "124344941",
+   "type": 11,
+   "heading": "Artigo 43.º — (Entrada em funcionamento das novas estruturas)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 43.º — (Entrada em funcionamento das novas estruturas)\n\nAs novas estruturas orgânicas e do pessoal previstas no presente decreto-lei poderão entrar em funcionamento por fases, de acordo com o que for definido em despacho do Ministro das Finanças e do Plano.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346755": {
+   "fragment_id": "124344942",
+   "type": 11,
+   "heading": "Artigo 44.º — (Resolução de dúvidas)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 44.º — (Resolução de dúvidas)\n\nAs dúvidas surgidas na aplicação do presente decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "124346756": {
+   "fragment_id": "124344943",
+   "type": 11,
+   "heading": "Artigo 45.º — (Entrada em vigor)",
+   "in_force_from": "1993-12-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+   ],
+   "markdown": "###### Artigo 45.º — (Entrada em vigor)\n\nO presente diploma produzirá efeitos a partir do dia 1 do mês em que for publicado no Diário da República.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 408/93 - Diário da República n.º 290/1993, Série I-A de 1993-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1993-533376), em vigor a partir de 1993-12-19"
+  },
+  "173593375": {
+   "fragment_id": "124344931",
+   "type": 11,
+   "heading": "Artigo 34.º — (Funcionários afectos aos serviços de fiscalização tributária)",
+   "in_force_from": "2005-09-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 50/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/50-2005-245332), em vigor a partir de 2005-09-04"
+   ],
+   "markdown": "###### Artigo 34.º — (Funcionários afectos aos serviços de fiscalização tributária)\n\n1 - Para assegurar a realização das atribuições da Direcção-Geral em matéria de fiscalização tributária, poderão os respectivos funcionários:\n\na) Ter livre acesso a todas as instalações ou locais onde existam elementos relacionados com a actividade dos contribuintes ou obrigados fiscais;\n\nb) Examinar os livros e quaisquer documentos relacionados com a actividade dos contribuintes ou obrigados fiscais, bem como verificar todos os elementos susceptíveis de revelar a sua situação real;\n\nc) Visar, quando conveniente, os livros e demais documentos;\n\nd) Apreender e/ou fotocopiar os elementos de escrituração ou quaisquer outros testemunhos, quando tal se mostre indispensável para garantir a completa averiguação da conduta do contribuinte ou servir como prova das infracções cometidas;\n\ne) Proceder à selagem de quaisquer instalações, sempre que tal se mostre necessário para assegurar a plena eficácia da acção fiscalizadora e o combate à fraude fiscal, de harmonia com as regras a definir;\n\nf) Proceder ao arrombamento de dependências, cofres ou móveis onde se encontrem documentos ou outros elementos necessários ao desenvolvimento da acção fiscalizadora, de harmonia com as regras a definir;\n\ng) Examinar os elementos em poder de quaisquer entidades públicas e privadas para a completa verificação da situação tributária dos contribuintes ou obrigados fiscais ou para a obtenção e recolha de dados que interessem à fiscalização tributária;\n\nh) Pedir a todas as entidades públicas e privadas, para a realização das diligências a seu cargo, as informações que entenderem necessárias à sua boa execução;\n\ni) Promover a punição, como crime de desobediência qualificada, da recusa de quaisquer elementos de escrituração ou de prestação de esclarecimentos necessários à realização das diligências, bem como de manifesta obstrução à acção fiscalizadora;\n\nj) Utilizar as instalações dos contribuintes ou obrigados fiscais, quando as tenham, em condições que possibilitem o cabal desempenho das suas funções, considerando-se a recusa como manifesta obstrução à acção fiscalizadora.\n\n2 - Aqueles que por qualquer forma dificultarem ou se opuserem ao exercício da acção fiscalizadora dos funcionários da Direcção-Geral incorrem no crime de desobediência qualificada previsto no Código Penal.\n\n3 - O exercício das funções previstas no n.º 1 contra a vontade do contribuinte só pode ser realizado quando ordenado pela autoridade judicial competente em pedido fundamentado pelo respectivo funcionário da fiscalização tributária.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 50/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/50-2005-245332), em vigor a partir de 2005-09-04"
+  },
+  "173593376": {
+   "fragment_id": "124344928",
+   "type": 11,
+   "heading": "Artigo 32.º — (Incompatibilidades)",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — (Incompatibilidades)\n\nÉ vedado aos funcionários da Direcção-Geral das Contribuições e Impostos:\n\na) Exercer advocacia ou qualquer espécie de procuradoria, com excepção dos juristas do Centro de Estudos Fiscais e da Consultadoria Jurídica em causas não fiscais;\n\nb) Exercer qualquer ramo de comércio ou indústria, salvo em casos justificados, autorizados pelo Ministro das Finanças e do Plano;\n\nc) Desempenhar, sem autorização do Ministro das Finanças e do Plano, qualquer actividade pública ou privada susceptível de comprometer a isenção exigida no exercício das funções, designadamente quando essas actividades se relacionarem com aquelas, ainda que desempenhadas por interposta pessoa.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01"
+  }
+ }
+}

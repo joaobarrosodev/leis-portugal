@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:2333168:por
+title: Aviso do Banco de Portugal n.º 8/2011
+short_title: null
+summary: Altera o aviso do Banco de Portugal n.º 3/2011 no sentido de passar a prever a dedução aos fundos próprios relevantes
+  para o cálculo do rácio core tier 1 de um montante referente a depósitos contratados com taxa de juro elevada, calculado
+  em função do respectivo prazo e taxa de remuneração, nos termos a definir por instrução do Banco de Portugal
+jurisdiction: portugal
+territory: null
+document_type: aviso-banco-portugal
+document_type_label: Aviso do Banco de Portugal
+issuing_authority:
+- Banco de Portugal
+proposing_entity: null
+official_number: 8/2011
+official_date: null
+publication_date: '2011-10-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 205/2011, Série II de 2011-10-25
+  number: '205'
+  series: II
+  supplement: null
+  pages: 42284 - 42284
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/10/205000000/4228442284.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2333168'
+  dre_path: /dr/detalhe/aviso-banco-portugal/8-2011-2333168
+  internal: pt:dre:2333168:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/8-2011-2333168
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/8-2011-2333168
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:12:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 9440a9d5f60453fafffef8433276a66c6eb79777b62d2467458071c2e64bd024
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:12:39Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Bancária
+- Banco de Portugal
+- Financiamento
+- Fiscalização
+- Informação Económica e Financeira
+- Instituição de Crédito
+- Instituição Financeira
+- Sistema Bancário
+relationships:
+- type: cites
+  target: pt:dre:2230613:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:2628631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:448953:por
+  label: null
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:12:39Z'
+  warnings: []
+  errors: []
+---
+
+# Aviso do Banco de Portugal n.º 8/2011
+
+O Banco de Portugal, no uso da competência que lhe é conferida pelo artigo 17.º da sua Lei Orgânica e pelo n.º 1 do artigo 99.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras (RGICSF), aprovado pelo [Decreto-Lei n.º 298/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1992-448953), de 31 de Dezembro, determina o seguinte:
+
+###### Artigo 1.º
+
+É alterado o n.º 4 do Artigo Único do [Aviso do Banco de Portugal n.º 3/2011](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/3-2011-2230613) publicado no Diário da República 2.ª série, de 17 de Maio de 2011, que passa a ter a seguinte redacção:
+
+«4 - Para efeitos do cômputo do rácio core tier 1, tendo por referência as regras de Basileia III de aplicação obrigatória em 2013, os fundos próprios integram os elementos previstos nas alíneas a) a i) do n.º 1 do artigo 3.º, deduzidos dos elementos previstos nas alíneas a) a m) e o) do n.º 1 do artigo 5.º, tendo em consideração o disposto no artigo 10.º, todos do [Aviso do Banco de Portugal n.º 6/2010](https://diariodarepublica.pt/dr/detalhe/aviso-banco-portugal/6-2010-2628631).»
+
+###### Artigo 2.º
+
+Este Aviso entra em vigor no dia seguinte ao da sua publicação.
+
+18 de Outubro de 2011. - O Governador, Carlos da Silva Costa.
+
+205258483

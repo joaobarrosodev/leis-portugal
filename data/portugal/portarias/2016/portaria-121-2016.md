@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:74334112:por
+title: Portaria n.º 121/2016
+short_title: null
+summary: Revoga a Portaria n.º 112/2014, de 23 de maio, que regula a prestação de cuidados de saúde primários do trabalho
+  através dos Agrupamentos de Centros de Saúde (ACES)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Saúde
+proposing_entity: null
+official_number: 121/2016
+official_date: null
+publication_date: '2016-05-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 86/2016, Série I de 2016-05-04
+  number: '86'
+  series: I
+  supplement: null
+  pages: 1488 - 1488
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/05/08600/0148801488.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/121/2016/05/04/p/dre/pt/html
+  oj: null
+  dre: '74334112'
+  dre_path: /dr/detalhe/portaria/121-2016-74334112
+  internal: pt:dre:74334112:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-2016-74334112
+  metadata_url: https://data.dre.pt/eli/port/121/2016/05/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/121-2016-74334112
+  consolidated_url: null
+  retrieved_at: '2026-10-27T00:46:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ce9fbec5976d65a1b321cbd6a9fcb03f26c35bf87487880207c04fa8fb57372f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-27T00:46:28Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ACES
+- Artesão
+- Cuidados Médicos
+- Entidade Patronal
+- Higiene do Trabalho
+- Medicina do Trabalho
+- Microempresa
+- Pescador
+- Segurança no Trabalho
+- Serviço Nacional de Saúde
+- Trabalhador do Serviço Doméstico
+- Trabalhador Independente
+- Trabalhador por Conta de Outrem
+- Trabalhador Rural
+relationships:
+- type: cites
+  target: pt:dre:145186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:25345888:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490009:por
+  label: null
+  source: null
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-27T00:46:28Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 121/2016
+
+de 4 de maio
+
+A [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua atual redação, aprova o regime jurídico da promoção da segurança e da saúde no trabalho, prevendo a possibilidade da promoção e a vigilância da saúde a determinados grupos de trabalhadores ser assegurada através das unidades do Serviço Nacional de Saúde, de acordo com legislação específica a aprovar pelo ministério responsável pela área da saúde.
+
+Neste âmbito, a [Portaria n.º 112/2014](https://diariodarepublica.pt/dr/detalhe/portaria/112-2014-25345888), de 23 de maio, veio regular essa possibilidade, determinando que a promoção e vigilância da saúde a grupos de trabalhadores específicos é efetuada através da prestação de cuidados de saúde primários do trabalho, nos Agrupamentos de centros de saúde (ACES), por médicos das unidades funcionais dos respetivos ACES, com especialidade em medicina geral e familiar.
+
+Posteriormente, o Despacho n.º 9184/2014, publicado no Diário da República, 2.ª série, n.º 135, de 16 de julho, veio clarificar os termos de aplicação do disposto na [Portaria n.º 112/2014](https://diariodarepublica.pt/dr/detalhe/portaria/112-2014-25345888), de 23 de maio, determinando que nos ACES os médicos com especialidade de medicina geral e familiar prestam no âmbito estrito da [Portaria n.º 112/2014](https://diariodarepublica.pt/dr/detalhe/portaria/112-2014-25345888), de 23 de maio, cuidados de saúde primários do trabalho, não implicando os mesmos, neste sentido, o exercício da especialidade de medicina do trabalho pelo médico de medicina geral e familiar.
+
+Importa, contudo, verificar que nos termos dos artigos 107.º e 108.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua atual redação, lei habilitante à [Portaria n.º 112/2014](https://diariodarepublica.pt/dr/detalhe/portaria/112-2014-25345888), de 23 de maio, a responsabilidade técnica da vigilância da saúde cabe ao médico do trabalho e as consultas de vigilância da saúde devem ser efetuadas por médico que reúna os requisitos previstos no artigo 103.º da referida lei, considerando-se médico do trabalho para efeitos da presente lei, o licenciado em Medicina com especialidade de medicina do trabalho reconhecida pela Ordem dos Médicos.
+
+Neste contexto, as consultas de vigilância da saúde efetuadas no Serviço Nacional de Saúde, no âmbito do artigo 76.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua redação atual, não podem ser asseguradas por especialistas de Medicina Geral e Familiar, por se tratar de funções específicas da especialidade de Medicina do Trabalho, para as quais estes profissionais não estão devidamente habilitados, assim como, não pode ser emitida por estes especialistas, a respetiva ficha de aptidão.
+
+Neste sentido, importa revogar o disposto na [Portaria n.º 112/2014](https://diariodarepublica.pt/dr/detalhe/portaria/112-2014-25345888), de 23 de maio, garantindo-se a qualidade e segurança dos cuidados de saúde prestados no âmbito da saúde no trabalho aos grupos de trabalhadores específicos referidos no artigo 76.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua redação atual.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado Adjunto e da Saúde, ao abrigo do disposto no artigo 76.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, na sua redação atual e no artigo 1.º e nas alíneas a) e b) do artigo 2.º do [Decreto-Lei n.º 124/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2011-145186), de 29 de dezembro, na sua redação atual, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à revogação da [Portaria n.º 112/2014](https://diariodarepublica.pt/dr/detalhe/portaria/112-2014-25345888), de 23 de maio, que regula a prestação de cuidados de saúde primários do trabalho através dos Agrupamentos de Centros de Saúde visando assegurar a promoção e vigilância da saúde a grupos de trabalhadores específicos, de acordo com o previsto no artigo 76.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, e suas alterações.
+
+###### Artigo 2.º — Norma revogatória
+
+A presente portaria revoga a [Portaria n.º 112/2014](https://diariodarepublica.pt/dr/detalhe/portaria/112-2014-25345888), de 23 de maio.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado Adjunto e da Saúde, Fernando Manuel Ferreira Araújo, em 29 de abril de 2016.

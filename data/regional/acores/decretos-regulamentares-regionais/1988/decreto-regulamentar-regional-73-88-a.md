@@ -1,0 +1,180 @@
+---
+schema_version: '1.0'
+id: pt:dre:357302:por
+title: Decreto Regulamentar Regional n.º 73/88/A
+short_title: null
+summary: Aprova a regulamentação necessária à operacionalidade do Decreto Legislativo Regional n.º 10/88/A, de 30 de Março,
+  relativamente à apresentação de projectos no núcleo urbano e zonas envolventes da vila de Santa Cruz da Graciosa
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Educação Cultural
+proposing_entity: null
+official_number: 73/88/A
+official_date: null
+publication_date: '1988-11-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 273/1988, Série I de 1988-11-25
+  number: '273'
+  series: I
+  supplement: null
+  pages: 4705 - 4706
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/11/27300/47054706.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '357302'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/73-1988-357302
+  internal: pt:dre:357302:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/73-1988-357302
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/73-1988-357302
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:27:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fb7d1f1db68ac1161be23272b2fe0f9e8961f41a82f4f4c3a6fd16623bded8b8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:27:21Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Património Cultural
+- Protecção do Património
+- Santa CRUZ da Graciosa
+- Zona de Proteção
+relationships:
+- type: amended_by
+  target: pt:dre:479598:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:225825:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:286315:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:479598:por
+  label: "Revogado pelo DLR.29/2004/A.16.07.2004.ALR-RAA, DR.IS-A [199] de 24.08.2004\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-legislativo-regional/29-2004-479598
+  date: '2004-07-16'
+article_structure:
+  article_count: 0
+  section_count: 2
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:27:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 73/88/A
+
+O [Decreto Legislativo Regional n.º 10/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-286315), de 30 de Março, que classifica o núcleo urbano e zonas envolventes da vila de Santa Cruz da Graciosa, determina, no seu artigo 8.º, a publicação da respectiva regulamentação, designadamente quanto aos requisitos e formalidades processuais a observar e quanto à concessão de apoios, 90 dias após a sua publicação.
+
+O prazo estabelecido para a regulamentação não é de forma alguma suficiente, atendendo a que ela se deverá fundamentar num plano de salvaguarda, cuja elaboração já se iniciou, mas que só estará concluído dentro de oito meses.
+
+Contudo, torna-se necessário, de imediato, aprovar uma regulamentação que torne operante o [Decreto Legislativo Regional n.º 10/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-286315), de 30 de Março, sem prejuízo da posterior aprovação do regulamento resultante do referido plano de salvaguarda.
+
+Assim:
+
+O Governo Regional decreta, nos termos do artigo 229.º, alínea b), da Constituição o seguinte:
+
+### CAPÍTULO I — Licenciamentos
+
+Artigo 1.º Para efeitos da autorização prevista no artigo 5.º do [Decreto Legislativo Regional n.º 10/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-286315), de 30 de Março, deverá a Câmara Municipal enviar à Direcção Regional dos Assuntos Culturais todos os pedidos de licenciamento acompanhados do respectivo projecto.
+
+Art. 2.º Os projectos deverão ser instruídos com as seguintes peças:
+
+a) Peças escritas - memória descritiva e justificativa, com a indicação das obras necessárias, com referência precisa dos materiais de construção e mapa completo de acabamentos;
+
+b) Peças desenhadas - planta de localização; plantas, alçados e cortes do existente, à escala de 1:100, devidamente cotadas e com indicação clara e precisa das obras a efectuar.
+
+Art. 3.º Os prazos para parecer da Direcção Regional dos Assuntos Culturais e despacho do Secretário Regional da Educação e Cultura serão, conforme os casos, os previstos no n.º 4 do artigo 12.º do [Decreto-Lei n.º 166/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1970-225825), de 15 de Abril, contados a partir da data da recepção, nos serviços competentes, do respectivo projecto ou dos documentos que posteriormente hajam sido juntos.
+
+### CAPÍTULO II — Apoios
+
+Art. 4.º O apoio previsto no artigo 6.º do [Decreto Legislativo Regional n.º 10/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1988-286315), de 30 de Março, será concedido através de subsídio no montante do valor dos materiais de construção, nomeadamente ferro, brita, areia, cimento, pedra de cantaria, telha e cal, segundo as percentagens previstas no artigo seguinte.
+
+Art. 5.º - 1 - Nas obras de consolidação, recuperação de imóveis ou correcções de fachadas ou elementos dissonantes o subsídio será no montante de 75% do valor dos materiais utilizados nas fachadas e coberturas.
+
+2 - Nas obras de simples conservação das fachadas e coberturas o subsídio será no montante de 25% do valor dos materiais utilizados.
+
+3 - Nas obras de recuperação de elementos interiores ou exteriores considerados de excepcional interesse o subsídio será no montante do valor total dos materiais utilizados.
+
+Art. 6.º A concessão do subsídio depende de despacho do Secretário Regional da Educação e Cultura, precedido de parecer favorável da Direcção Regional dos Assuntos Culturais e dos serviços competentes da Secretaria Regional do Equipamento Social, no que respeita ao projecto e orçamento.
+
+Art. 7.º O pedido de subsídio será efectuado pelo proprietário do imóvel em requerimento dirigido ao Secretário Regional da Educação e Cultura, acompanhado de uma cópia do projecto, instruído conforme o disposto no artigo 2.º do presente diploma, e do orçamento, com discriminação da quantidade e valor dos materiais subsidiáveis a utilizar.
+
+Art. 8.º O subsídio só poderá ser revisto, a requerimento do interessado, devidamente fundamentado, desde que surjam aumentos excepcionais e imprevisíveis do custo dos materiais subsidiáveis.
+
+Art. 9.º - 1 - O dono da obra compromete-se automaticamente a respeitar em absoluto o projecto aprovado e o respectivo mapa de acabamentos.
+
+2 - Os encargos com as necessárias correcções, determinadas pela Direcção Regional dos Assuntos Culturais, por motivo de incumprimento do disposto no número anterior, serão da responsabilidade do dono da obra.
+
+3 - O não cumprimento, por parte do dono da obra, das determinações da Direcção Regional dos Assuntos Culturais referidas no n.º 2 implicará a imediata cessação de todos os apoios e o embargo das obras pelo meio judicial próprio.
+
+Art. 10.º O processamento do subsídio será escalonado da seguinte forma:
+
+a) 10% do valor global após o início da obra;
+
+b) 30% do valor global após o dono da obra ter despendido um terço do valor dos materiais a utilizar;
+
+c) 30% do valor global após o dono da obra ter despendido dois terços do valor dos materiais a utilizar;
+
+d) 30% com a conclusão das obras.
+
+Art. 11.º - 1 - Os trabalhos deverão decorrer em bom ritmo e de preferência sem interrupções.
+
+2 - No caso de se verificar uma interrupção, deverá o dono da obra comunicar o facto por escrito à Direcção Regional dos Assuntos Culturais, referindo o respectivo motivo.
+
+Art. 12.º O subsídio caducará caso após um ano da sua atribuição as obras não se tiverem realizado, ficando o dono da obra obrigado a reembolsar a Secretaria Regional da Educação e Cultura do montante já processado, acrescido dos juros legais.
+
+Art. 13.º A fiscalização das obras subsidiadas ao abrigo do presente diploma será da competência do técnico para tal designado pela Direcção Regional dos Assuntos Culturais, que deverá imediatamente comunicar àquela Direcção Regional as eventuais irregularidades que detectar durante a execução dos trabalhos.
+
+Art. 14.º A verba necessária à concessão dos subsídios previstos neste diploma será inscrita em acção do programa n.º 7 - Defesa e valorização do património Cultural, projecto n.º 7.1 - Defesa e melhoramento de imóveis com interesse arquitectónico.
+
+Aprovado em Conselho do Governo Regional, em Santa Cruz das Flores, em 19 de Julho de 1988.
+
+O Presidente do Governo Regional, João Bosco Mota Amaral.
+
+Assinado em Angra do Heroísmo em 6 de Outubro de 1988.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.

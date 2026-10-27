@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:665126:por
+title: Portaria n.º 800/72
+short_title: null
+summary: Reforça verbas da tabela de despesa ordinária dos orçamentos das províncias ultramarinas para o ano económico de
+  1972
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: 800/72
+official_date: null
+publication_date: '1972-12-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 302/1972, Série I de 1972-12-30
+  number: '302'
+  series: I
+  supplement: null
+  pages: 2139 - 2140
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/12/30200/21392140.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '665126'
+  dre_path: /dr/detalhe/portaria/800-1972-665126
+  internal: pt:dre:665126:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/800-1972-665126
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/800-1972-665126
+  consolidated_url: null
+  retrieved_at: '2026-10-23T03:58:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 7347cd21465686c4d9412f17727112ad901106bef588584f9451e8ad44a46e50
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T03:58:05Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:155462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232510:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:326747:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T03:58:05Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 800/72
+
+de 30 de Dezembro
+
+Manda o Governo da Repúb1ica Portuguesa, pelo Ministro do Ultramar, o seguinte:
+
+1) Nos termos do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, reforçar, com a importância de 2176$00, a verba do capitulo 10.º, artigo 314.º, n.º 6 «Encargos gerais - Deslocações de pessoal - Encargos com viagens e subsídios dos presidentes dos júris de fiscalização e outras despesas, a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 26 de Abril de 1954, 39791, de 27 de Agosto de 1954, e 40290, de 19 de Agosto de 1955», da tabela de despesa ordinária do orçamento geral da província de Cabo Verde para o ano económico de 1972, tomando como contrapartida igual importância a sair do capitulo 7.º, artigo 273.º, n.º 2 «Serviços de fomento - Serviços de economia - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal contratado», da mesma, tabela de despesa;
+
+2) Nos termos do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, reforçar, com a importância de 3314$00, a verba do capitulo 10.º, artigo 375.º, n.º 29 «Encargos gerais - Diversas despesas - Encargos com viagens e subsídios dos presidentes dos júris de fiscalização de exames e outras despesas, a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, n.º 39622, de 26 de Janeiro de 1954, n.º 39791, de 27 de Agosto de 1954 e n.º 40290, de 19 de Agosto de 1955», da tabela de despesa ordinária do orçamento geral da província da Guiné para o ano económico de 1972, tomando como contrapartida igual importância a sair do capítulo 10.º, artigo 375.º, n.º 22.º «Encargos gerais - Diversas despesas - Remunerações a abonar, nos termos do [Decreto n.º 44732](https://diariodarepublica.pt/dr/detalhe/decreto/44732-1962-155462), de 26 de Novembro de 1962, a três alunos tirocinantes dos cursos superiores de Agronomia e Medicina Veterinária», da mesma tabela de despesa;
+
+3) Nos termos do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, reforçar, com a importância de 1788$00, a verba do capítulo 4.º, artigo 73.º, n.º 1 «Administração geral e fiscalização - Serviços de educação - Diversos encargos - Encargos administrativos - Encargos com viagens e subsídios dos presidentes dos júris de fiscalização e outras despesas, a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 26 de Abril de 1954, 39791, de 27 de Agosto de 1954, 40290, de 19 de Agosto de 1955, e 45322, de 21 de Outubro de 1963», da tabela de despesa ordinária do orçamento geral da província de S. Tomé e Príncipe para o ano económico de 1972, tomando como contrapartida igual importância a sair do capítulo 4.º, artigo 66.º, n.º 1 «Administração geral e fiscalização - Serviços de educação - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa;
+
+4) Nos termos do § único do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, conjugado com o artigo 13.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, e artigo 3.º do aludido [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234) e sua alínea e), com a nova redacção dada pelo artigo 4.º do [Decreto n.º 40712](https://diariodarepublica.pt/dr/detalhe/decreto/40712-1956-232510), de 1 de Agosto de 1956, abrir um crédito especial da importância de 107034$00, destinado a reforçar a verba do capitulo 4.º, artigo 253.º, n.º 15 «Administração geral e fiscalização - Serviços de educação - Direcção dos serviços - Diversos encargos - Encargos administrativos - Encargos com viagens e subsídios dos presidentes dos júris de fiscalização e outras despesas, a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 26 de Abril de 1954, 39791, de 27 de Agosto de 1954, e 40290, de 10 de Agosto de 1955», da tabela de despesa ordinária do orçamento geral do Estado de Angola para o ano económico de 1972, tomando como contrapartida igual importância a sair do excesso de cobrança sobre a previsão da receita do capítulo 1.º, artigo 3.º, n.º 2 «Impostos directos gerais - Imposto sobre o capital - Sisa sobre a transmissão de imobiliários por título oneroso», do orçamento da receita ordinária;
+
+5) Nos termos do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, reforçar, com a importância de 79808$00, a verba do capítulo 10.º, artigo 2967.º, n.º 1 «Encargos gerais - Outros encargos - Encargos com viagens e subsídios dos presidentes dos júris de fiscalização e outras despesas, a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 26 de Abril de 1954, 39791, de 27 de Agosto de 1954, e 40290, de 19 de Agosto de 1955», da tabela de despesa ordinária do orçamento geral do Estado de Moçambique para o ano económico de 1972, tomando como contrapartida igual importância a sair do capítulo 7.º, artigo 2524.º, n.º 1, alínea a) «Serviços de fomento - Serviços de geologia e minas - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovadas por lei - Vencimentos», da mesma tabela de despesa;
+
+6) Nos termos do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, reforçar, com a importância de 3764$00, a verba do capitulo 10.º, artigo 281.º, n.º 16 «Encargos gerais - Diversas despesas - Encargos com viagens e subsídios dos presidentes dos júris de fiscalização e outras despesas, a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, n.º 39622, de 26 de Abril de 1954, n.º 39791, de 27 de Agosto de 1954, e n.º 40290, de 19 de Agosto de 1955», da tabela de despesa ordinária do orçamento geral da província de Macau para o ano económico de 1972, tomando como contrapartida igual importância a sair do capítulo 7.º, artigo 248.º, n.º 1 «Serviços de fomento - Centro de Informação e Turismo - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei», da mesma tabela de despesa;
+
+7) Nos termos do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, reforçar, com a importância de 2116$00, a verba do capitulo 10.º, artigo 305.º, n.º 39 «Encargos gerais - Diversas despesas - Encargos com viagens e subsídios dos presidentes dos júris de fiscalização e outras despesas, a que se referem os Decretos n.os 39291, de 24 de Julho de 1953, 39622, de 24 de Junho de 1954, 39791, de 27 de Agosto de 1954, e 40290, de 19 de Agosto de 1955», da tabela de despesa ordinária do orçamento geral da província de Timor para o ano económico de 1972, tomando como contrapartida igual importância a sair do capítulo 6.º, artigo 164.º, n.º 1, alínea a) «Serviços de Justiça - Comarca de Timor - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da mesma tabela de despesa.
+
+Ministério do Ultramar, 28 de Dezembro de 1972. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

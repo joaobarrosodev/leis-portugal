@@ -1,0 +1,376 @@
+---
+schema_version: '1.0'
+id: pt:dre:219108:por
+title: Decreto-Lei n.º 247/86
+short_title: null
+summary: Cria, no âmbito do Ministério da Agricultura, Pescas e Alimentação, o Secretariado Agrícola para as Relações Europeias
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 247/86
+official_date: null
+publication_date: '1986-08-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 193/1986, Série I de 1986-08-23
+  number: '193'
+  series: I
+  supplement: null
+  pages: 2139 - 2143
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19300/21392143.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '219108'
+  dre_path: /dr/detalhe/decreto-lei/247-1986-219108
+  internal: pt:dre:219108:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1986-219108
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1986-219108
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:13:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: a18410b2861212ef38040451f023e927aa911bd277eadd8d3d2b00e44ddbac62
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:13:24Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Agricultura Pescas e Alimentação
+- Orgânica
+- Secretariado Agrícola para as Relações Europeias
+relationships:
+- type: amended_by
+  target: pt:dre:334646:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:183426:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384385:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399634:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649312:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:334646:por
+  label: Revogado pelo DEC LEI.56/90.13.02.1990.MAPA, DR.IS [37] de 13.02.1990, com a entrada em vigor da regulamentação prevista
+    no seu art. 3º
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/56-1990-334646
+  date: '1990-02-13'
+article_structure:
+  article_count: 18
+  section_count: 4
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:13:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 247/86
+
+de 23 de Agosto
+
+A estrutura orgânica que assegurou o processo de negociações da adesão de Portugal às Comunidades Europeias relativo ao sector agrícola - o Gabinete de Planeamento do Ministério da Agricultura, Pescas e Alimentação - não se mostra mais compatível, no quadro da adesão, com o aumento de competências e de responsabilidades em matéria de integração europeia que nos são impostas enquanto Estado membro e que têm origem na política agrícola comum.
+
+Com efeito, os objectivos e instrumentos desta política, que se sobrepõem aos dos Estados membros por força da própria especificidade do direito comunitário, exigem que sejam criadas as condições internas indispensáveis à exequibilidade deste novo sistema.
+
+Por isso, é agora criado no Ministério Agricultura, Pescas e Alimentação o Secretariado Agrícola para as Relações Europeias, com uma natureza eminentemente coordenadora dos assuntos da integração europeia e, em particular, da política agrícola comum, do âmbito deste Ministério.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Natureza, objectivos e atribuições
+
+###### Artigo 1.º
+
+1 - É criado, no âmbito do Ministério da Agricultura, Pescas e Alimentação, o Secretariado Agrícola para as Relações Europeias, abreviadamente designado por «Secretariado».
+
+2 - O Secretariado é um serviço central, com atribuições de coordenação e apoio da actividade do Ministério, no que se refere à integração europeia, no âmbito do sector agrícola e das actividades conexas do Ministério.
+
+3 - O Secretariado coordenará, para efeitos do número anterior, todas as estruturas operacionais constituídas ou a constituir para os sectores da agricultura, florestas e alimentação no âmbito do Ministério da Agricultura, Pescas e Alimentação.
+
+###### Artigo 2.º
+
+1 - Sob a orientação directa do Ministro e para o exercício das suas atribuições, compete ao Secretariado:
+
+a) Apoiar, na área da integração europeia, a acção do Ministro e secretários de Estado na formulação da política agrícola e nas relações europeias dela resultantes;
+
+b) Coordenar a actuação dos serviços e organismos do Ministério ou sob a tutela do Ministro no domínio da política de integração europeia;
+
+c) Coordenar a acção do Ministério e dos organismos sob a tutela do Ministro no âmbito do processo de decisão nas diferentes instituições comunitárias;
+
+d) Assegurar a participação do Ministério na Comissão Interministerial para as Comunidades Europeias, nos termos legais, e, em geral, apoiar a Direcção-Geral das Comunidades Europeias no exercício das suas competências;
+
+e) Acompanhar e zelar junto dos serviços e organismos do Ministério ou sob a tutela do Ministro pelo cumprimento das obrigações que decorrem da adesão de Portugal às Comunidades Europeias no domínio da agricultura, florestas e alimentação;
+
+f) Coordenar a actuação dos serviços e organismos do Ministério ou sob a tutela do Ministro nos assuntos de natureza agrícola que relevem das relações externas de Comunidade Económica Europeia;
+
+g) Representar o Ministério em comissões e outros órgãos interministeriais de coordenação nacional relativamente às questões europeias.
+
+2 - Sempre que nas competências referidas no número anterior estejam abrangidas matérias que respeitem a aspectos específicos financeiros, de comércio, de abastecimento, preços e concorrência, estabelecer-se-á a necessária coordenação entre os ministérios que tenham a seu cargo essas áreas, nos termos que vierem a ser regulados por despacho dos ministros competentes em razão da matéria.
+
+###### Artigo 3.º
+
+1 - O Secretariado é dirigido por um director-geral, coadjuvado por dois subdirectores-gerais.
+
+2 - O director-geral é substituído nas suas ausências e impedimentos pelo subdirector-geral por ele designado para o efeito.
+
+### CAPÍTULO II — Serviços e suas competências
+
+###### Artigo 4.º
+
+O Secretariado compreende os seguintes serviços:
+
+a) Departamento dos Assuntos Jurídicos;
+
+b) Departamento dos Mercados Agrícolas;
+
+c) Departamento das Estruturas Agrícolas e dos Assuntos Económicos e Financeiros;
+
+d) Departamento de Política Comercial e Relações Externas;
+
+e) Centro de Organização, Documentação e Informação Pública;
+
+f) Repartição Administrativa.
+
+###### Artigo 5.º
+
+Ao Departamento dos Assuntos Jurídicos compete:
+
+a) Acompanhar as questões jurídicas comunitárias de natureza agrícola;
+
+b) Coordenar as acções legislativas relativas à aplicação interna do direito comunitário nas áreas da agricultura, florestas e alimentação;
+
+c) Apoiar, no domínio jurídico, os órgãos e serviços do Ministério da Agricultura, Pescas e Alimentação na aplicação da política agrícola comum;
+
+d) Zelar pelo cumprimento das obrigações decorrentes do Tratado de Adesão de Portugal às Comunidades Europeias em matéria agrícola, florestal e de alimentação.
+
+###### Artigo 6.º
+
+1 - Ao Departamento dos Mercados Agrícolas compete:
+
+a) Enquadrar e orientar os serviços e organismos do Ministério ou sob a tutela do Ministro nas acções internas decorrentes do funcionamento das organizações comuns do mercado, tal como resulta, quer da regulamentação comunitária, quer do Tratado de Adesão, e exercer as funções necessárias à prossecução dos objectivos fixados nas alíneas b), c), e) e f) do artigo 2.º, no que respeita ao funcionamento dos mercados agrícolas;
+
+b) Assegurar e enquadrar as representações nacionais nos comités de gestão e outros grupos que se relacionem com a política agrícola comum junto à Comissão das Comunidades Europeias e ainda nos comités e grupos dependentes do Comité Especial de Agricultura junto ao Conselho das Comunidades Europeias.
+
+2 - A execução das competências referidas no número anterior fica dividida pelos seguintes grupos especializados:
+
+a) Cereais e arroz;
+
+b) Frutas e legumes frescos e transformados, plantas vivas e produtos de floricultura;
+
+c) Carne de bovino, ovino e caprino;
+
+d) Aves, ovos e carne de porco;
+
+e) Leite e lacticínios;
+
+f) Matérias gordas vegetais;
+
+g) Vinho;
+
+h) Outros produtos.
+
+###### Artigo 7.º
+
+1 - Ao Departamento das Estruturas Agrícolas e dos Assuntos Económicos e Financeiros compete:
+
+a) Enquadrar e orientar os serviços e organismos do Ministério ou sob a tutela do Ministro nos assuntos relativos à evolução do financiamento da política agrícola comum, ao orçamento, às questões agro-monetárias e aos preços e ajudas nacionais de natureza agrícola, bem como nos aspectos da política de estruturas que relevam da elaboração de programas de investimento agrícolas, exercendo as funções necessárias de prossecução dos objectivos fixados nas alíneas b) e c) do artigo 2.º, no que respeita à evolução da política de estruturas agrícolas;
+
+b) Assegurar o acompanhamento e a participação nos trabalhos dos comités permanentes, técnicos e científicos e nos grupos especializados em funcionamento na Comunidade Económica Europeia, directamente ou através dos competentes órgãos e serviços do Ministério da Agricultura, Pescas e Alimentação, ou, relativamente ao financiamento da política agrícola comum, através dos órgãos de centralização dos fluxos financeiros comunitários que relevam de tutela conjunta dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+
+###### Artigo 8.º
+
+Ao Departamento de Política Comercial e Relações Externas compete:
+
+a) Coordenar os assuntos de natureza agrícola que relevem dos acordos e convénios da Comunidade Económica Europeia celebrados com terceiros países e, designadamente, as acções internas necessárias à sua aplicação;
+
+b) Coordenar os assuntos relativos às trocas intra e extracomunitárias, bem como os seus mecanismos complementares;
+
+c) Estudar e informar sobre os assuntos relativos ao comércio internacional de produtos agrícolas;
+
+d) Coordenar as acções e os estudos necessários ao desenvolvimento de convenções bilaterais com os Estados membros.
+
+###### Artigo 9.º
+
+Ao Centro de Organização, Documentação e Informação Pública compete:
+
+a) Assegurar a participação dos funcionários do Ministério da Agricultura, Pescas e Alimentação nas missões e deslocações ao estrangeiro, bem como a organização das missões no território nacional;
+
+b) Obter e organizar a documentação necessária à prossecução dos objectivos do Secretariado;
+
+c) Assegurar o tratamento da documentação técnica referente às instituições comunitárias, bem como a sua divulgação pelos órgãos e serviços do Ministério e junto do público;
+
+d) Coordenar as acções de formação técnico-profissional do pessoal do Secretariado;
+
+e) Assegurar um serviço de traduções;
+
+f) Informar o público sobre as medidas e acções de natureza agrícola relativas à aplicação a Portugal do Acto de Adesão e da política agrícola comum.
+
+###### Artigo 10.º
+
+Os Departamentos e o Centro funcionam por áreas de actuação, a definir por despacho do director-geral.
+
+###### Artigo 11.º
+
+1 - A Repartição Administrativa exerce as suas competências nos domínios da administração financeira, patrimonial, do pessoal, expediente, arquivo e administração geral.
+
+2 - A Repartição Administrativa assegura as ligações com os serviços centrais de coordenação e apoio do Ministério e com os outros organismos, de forma a garantir a efectivação das suas competências.
+
+3 - A Repartição Administrativa compreende as seguintes secções:
+
+a) Secção de Pessoal, Expediente e Arquivo;
+
+b) Secção de Orçamento e Património.
+
+4 - À Secção de Pessoal, Expediente e Arquivo compete:
+
+a) Processar as folhas de vencimento e outros abonos do pessoal;
+
+b) Elaborar e manter actualizados todos os processos individuais do pessoal;
+
+c) Proceder à instrução dos processos de recrutamento e promoção do pessoal;
+
+d) Instruir os processos referentes a prestações sociais de que sejam beneficiários os funcionários e seus familiares, dando-lhes o devido seguimento;
+
+e) Superintender no pessoal auxiliar;
+
+f) Instruir os processos de acidentes em serviço e dar-lhes o devido andamento;
+
+g) Executar as tarefas respeitantes à recepção, classificação, expedição e arquivo de expediente;
+
+h) Elaborar directivas de classificação e arquivo de correspondência e promover a sua aplicação;
+
+i) Assegurar internamente um adequado circuito de documentos, depois do respectivo despacho, pelos diversos serviços.
+
+5 - À Secção de Orçamento e Património compete:
+
+a) Verificar todos os documentos de despesa remetidos pelos serviços, procedendo ao processamento e sua liquidação;
+
+b) Assegurar uma contabilidade analítica que permita um controle orçamental contínuo;
+
+c) Coligir todos os elementos de despesa indispensáveis à organização dos orçamentos;
+
+d) Processar, mensalmente, todos os documentos de despesa de conta das dotações consignadas no OE;
+
+e) Organizar os processos relativos a todas as despesas de execução de projectos;
+
+f) Escriturar os livros de contabilidade;
+
+g) Organizar e manter actualizado o inventário dos serviços, no que respeita à manutenção e conservação do equipamento, mobiliário e outro material;
+
+h) Promover a aquisição de mobiliário e demais equipamentos necessários, procedendo à sua armazenagem, conservação e distribuição pelos vários serviços.
+
+### CAPÍTULO III — Pessoal
+
+###### Artigo 12.º — (Quadro e regime de pessoal)
+
+1 - Nos termos do n.º 2 do artigo 7.º do [Decreto-Lei n.º 84-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-a-1985-649312), de 30 de Março, o Secretariado, para o desempenho das suas atribuições, dispõe do quadro de pessoal constante de mapa I anexo ao presente diploma.
+
+2 - O regime de pessoal é o constante do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio, em conformidade com o disposto no artigo 7.º do [Decreto-Lei n.º 84-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-a-1985-649312) e com observância das alterações resultantes do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+
+3 - Transita para o quadro de pessoal do Secretariado o pessoal do quadro do Gabinete de Planeamento que se encontra afecto às áreas da integração europeia, considerando-se este quadro automaticamente abatido do correspondente número de lugares.
+
+4 - Os restantes lugares do quadro do Secretariado serão preenchidos com recurso aos meios de mobilidade de reafectação de pessoal da função pública.
+
+5 - A distribuição do pessoal pelos diversos serviços do Secretariado será feita por despacho do director-geral, em função das necessidades dos serviços e das qualificações profissionais dos funcionários.
+
+6 - Os concursos para acesso às novas categorias criadas pelo [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, só poderão ser abertos após a entrada em vigor da ou das portarias de execução do referido diploma, elaboradas no âmbito do Ministério.
+
+7 - O conteúdo funcional da carreira de técnicos auxiliares consta do mapa II anexo ao presente diploma.
+
+###### Artigo 13.º
+
+Os Departamentos e o Centro são dirigidos por directores de departamento e director de centro, respectivamente, equiparados, para todos os efeitos legais, a directores de serviço.
+
+###### Artigo 14.º
+
+Ao pessoal dirigente, técnico superior e técnico poderá ser atribuída uma gratificação, em condições e de montante a definir nos termos da lei geral.
+
+### CAPÍTULO IV — Disposições transitórias e finais
+
+###### Artigo 15.º
+
+Os estudos, inquéritos e outros trabalhos de carácter técnico e eventual necessários ao bom funcionamento do Secretariado poderão ser realizados mediante contrato a elaborar nos termos da lei geral entre o Secretariado e entidades nacionais ou estrangeiras estranhas ao serviço.
+
+###### Artigo 16.º
+
+Enquanto não forem efectuadas as competentes alterações orçamentais, os encargos resultantes da execução do presente diploma são suportados, no corrente ano, pelas dotações consignadas ao Gabinete de Planeamento no orçamento do Ministério da Agricultura, Pescas e Alimentação.
+
+###### Artigo 17.º
+
+O Ministro da Agricultura, Pescas e Alimentação poderá delegar no director-geral do Secretariado autorização para deslocações ao estrangeiro no âmbito da Comunidade Económica Europeia.
+
+###### Artigo 18.º
+
+É revogado o [Decreto Regulamentar n.º 75/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/75-1984-399634), de 25 de Setembro, em tudo o que contrarie o presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 12 de Junho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
+
+Promulgado em 9 de Agosto de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 17 de Agosto de 1986.
+
+Pelo Primeiro-Ministro, Eurico Silva Teixeira de Meio.
+
+Mapa I a que se refere o n.º 1 do artigo 12.º do Decreto-Lei n.º 247/86
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/08/19300/21392143.pdf)
+
+Mapa II a que se refere o n.º 7 do artigo 12.º do Decreto-Lei n.º 247/86
+
+Conteúdo funcional da carreira de técnicos auxiliares
+
+Funções de natureza executiva de aplicação técnica, de acordo com directivas bem definidas, estabelecidas por pessoal técnico superior, no âmbito da integração europeia, designadamente:
+
+Colaboração na recolha e compilação de elementos necessários ao estudo, concepção e adaptação das regras comunitárias ao sector agrícola nacional;
+
+Observação e registo de dados relativos às estruturas agrícolas, ao funcionamento dos mercados e às relações comerciais no âmbito da política externa.

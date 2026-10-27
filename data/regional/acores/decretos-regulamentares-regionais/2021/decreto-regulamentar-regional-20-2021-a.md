@@ -1,0 +1,408 @@
+---
+schema_version: '1.0'
+id: pt:dre:169602023:por
+title: Decreto Regulamentar Regional n.º 20/2021/A
+short_title: null
+summary: Primeira alteração ao Decreto Regulamentar Regional n.º 11/2020/A, de 4 de maio
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 20/2021/A
+official_date: null
+publication_date: '2021-08-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 158/2021, Série I de 2021-08-16
+  number: '158'
+  series: I
+  supplement: null
+  pages: 56 - 61
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/08/15800/0005600061.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/20/2021/08/16/a/dre/pt/html
+  oj: null
+  dre: '169602023'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/20-2021-169602023
+  internal: pt:dre:169602023:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2021-169602023
+  metadata_url: https://data.dre.pt/eli/decregulreg/20/2021/08/16/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-2021-169602023
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:31:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 910bfeb9745d492d8104644b2afbcaf22da1228d7ca15bb755fc8298cc214247
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:31:43Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Conselho Diretivo
+- Fundo Regional da Ciência e Tecnologia
+- Gestão de Recursos Humanos
+- Mandato
+- Orgânica
+- Pessoal Dirigente
+- Presidente
+- Quadro de Pessoal
+- Quadro Regional de ILHA
+- Regulamentação de Atos Legislativos
+relationships:
+- type: amended_by
+  target: pt:dre:1138160263:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:129113819:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/6/2020/02/11/a/dre
+- type: cites
+  target: pt:dre:132965080:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/11/2020/05/04/a/dre
+- type: cites
+  target: pt:dre:150757510:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/28/2020/12/10/a/dre
+- type: cites
+  target: pt:dre:166569091:por
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/16/2021/07/07/a/dre
+- type: cites
+  target: pt:dre:287823:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/13/2011/05/11/a/dre
+- type: cites
+  target: pt:dre:353087:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/5/2001/03/21/a/dre
+- type: cites
+  target: pt:dre:534789:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2005/05/09/a/dre
+- type: cites
+  target: pt:dre:603476:por
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: pt:dre:638174:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/13/2007/06/05/a/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:31:43Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 20/2021/A
+
+Primeira alteração ao [Decreto Regulamentar Regional n.º 11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2020-132965080), de 4 de maio
+
+Com a constituição do XIII Governo da Região Autónoma dos Açores, e aprovação da respetiva organização e funcionamento através do [Decreto Regulamentar Regional n.º 28/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2020-150757510), de 10 de dezembro, bem como com a subsequente aprovação da orgânica da Secretaria Regional da Cultura, da Ciência e Transição Digital, através do [Decreto Regulamentar Regional n.º 16/2021/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2021-166569091), de 7 de julho, revelou-se necessária a reestruturação da orgânica do Fundo Regional da Ciência e Tecnologia (FRCT), nos termos da qual são cometidas àquele Fundo atribuições em matéria de coordenação e gestão de recursos financeiros disponibilizados para a investigação científica, bem como em matéria de captação de fundos europeus para a Região.
+
+A atividade do FRCT tem sido objeto de grande crescimento, nomeadamente no que respeita ao envolvimento em programas europeus destinados ao financiamento de diversos domínios da ciência e tecnologia e consequente internacionalização das atividades de inovação e investigação, promovendo a formação e a empregabilidade, bem como o desenvolvimento tecnológico da Região Autónoma dos Açores.
+
+Neste enquadramento, importa, garantir as condições que assegurem a prossecução dos objetivos do FRCT e o alcance pleno da realização das suas competências, com recursos próprios, dotando-o da estrutura organizativa adequada ao exercício das suas competências.
+
+Assim, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa, conjugado com as alíneas a) e b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e com o disposto no artigo 13.º do [Decreto Legislativo Regional n.º 5/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2001-353087), de 21 de março, com as alterações introduzidas pelo [Decreto Legislativo Regional n.º 6/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), de 11 de fevereiro, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao [Decreto Regulamentar Regional n.º 11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2020-132965080), de 4 de maio
+
+Os artigos 4.º, 6.º, 7.º e anexo do [Decreto Regulamentar Regional n.º 11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2020-132965080), de 4 de maio, passam a ter a seguinte redação:
+
+«Artigo 4.º
+
+[...]
+
+1 - O pessoal afeto ao FRCT consta dos quadros regionais de ilha em vigor.
+
+2 - O quadro de pessoal de direção do FRCT consta do quadro anexo ao presente diploma, que dele faz parte integrante.
+
+Artigo 6.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O presidente do Conselho Diretivo é nomeado por despacho conjunto do Presidente do Governo Regional e do membro do Governo Regional com competência em matéria de ciência e tecnologia, sob proposta deste, sendo equiparado, para efeitos remuneratórios, a diretor de serviços, cargo de direção intermédia de 1.º grau.
+
+5 - ...
+
+Artigo 7.º
+
+[...]
+
+1 - O mandato dos membros do Conselho Diretivo têm a duração de três anos, renováveis por iguais períodos.
+
+2 - (Revogado.)
+
+ANEXO
+
+(a que se refere o artigo 4.º)
+
+Quadro de pessoal
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15800/0005600061.pdf)
+
+Artigo 2.º
+
+Republicação
+
+O [Decreto Regulamentar Regional n.º 11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2020-132965080), de 4 de maio, é republicado em anexo ao presente diploma, do qual faz parte integrante, com as alterações ora introduzidas.
+
+Artigo 3.º
+
+Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 7 de julho de 2021.
+
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
+
+Assinado em Angra do Heroísmo em 5 de agosto de 2021.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+ANEXO I
+
+(a que se refere o artigo 2.º)
+
+Republicação do [Decreto Regulamentar Regional n.º 11/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2020-132965080), de 4 de maio
+
+Orgânica do Fundo Regional da Ciência e Tecnologia
+
+CAPÍTULO I
+
+Natureza, missão e atribuições
+
+Artigo 1.º
+
+Natureza e missão
+
+1 - O Fundo Regional da Ciência e Tecnologia, abreviadamente designado por FRCT, é um organismo de coordenação e gestão de recursos financeiros disponibilizados para a investigação científica e desenvolvimento tecnológico da Região Autónoma dos Açores.
+
+2 - O FRCT é dotado de personalidade jurídica e de autonomia administrativa e financeira.
+
+3 - O FRCT funciona na dependência do departamento do Governo Regional com competência em matéria de ciência e tecnologia.
+
+Artigo 2.º
+
+Atribuições
+
+As atribuições do FRCT encontram-se definidas no [Decreto Legislativo Regional n.º 5/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2001-353087), de 21 de março, com as alterações introduzidas pelo [Decreto Legislativo Regional n.º 6/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), de 11 de fevereiro.
+
+CAPÍTULO II
+
+Estrutura orgânica
+
+Artigo 3.º
+
+Estrutura geral
+
+Para a prossecução dos seus objetivos o FRCT dispõe dos seguintes órgãos:
+
+a) Conselho Diretivo;
+
+b) Fiscal Único.
+
+Artigo 4.º
+
+Funcionamento
+
+1 - O pessoal afeto ao FRCT consta dos quadros regionais de ilha em vigor.
+
+2 - O quadro de pessoal de direção do FRCT consta do quadro anexo ao presente diploma, que dele faz parte integrante.
+
+CAPÍTULO III
+
+Órgãos
+
+SECÇÃO I
+
+Conselho Diretivo
+
+Artigo 5.º
+
+Natureza e missão
+
+O Conselho Diretivo é o órgão colegial responsável pela definição da atuação do FRCT, bem como pela direção dos respetivos serviços, em conformidade com a lei e com as orientações governamentais.
+
+Artigo 6.º
+
+Composição e nomeação
+
+1 - O Conselho Diretivo é um órgão colegial composto por um presidente e dois vogais.
+
+2 - Nas suas faltas e impedimentos o presidente é substituído pelo vogal que indicar e, na falta de indicação, pelo vogal mais antigo.
+
+3 - Os vogais são nomeados, de entre pessoal técnico superior com vínculo de emprego público por tempo indeterminado, com experiência na área, por despacho conjunto do Presidente do Governo Regional e do membro do Governo Regional da tutela, sob proposta deste.
+
+4 - O presidente do Conselho Diretivo é nomeado por despacho conjunto do Presidente do Governo Regional e do membro do Governo Regional com competência em matéria de ciência e tecnologia, sob proposta deste, sendo equiparado, para efeitos remuneratórios, a diretor de serviços, cargo de direção intermédia de 1.º grau.
+
+5 - Os vogais do Conselho Diretivo exercem o cargo a tempo inteiro, sendo equiparados a Chefe de Divisão para efeitos remuneratórios.
+
+Artigo 7.º
+
+Duração e cessação dos mandatos
+
+1 - O mandato dos membros do Conselho Diretivo tem a duração de três anos, renováveis por iguais períodos.
+
+2 - (Revogado.)
+
+Artigo 8.º
+
+Competência
+
+Compete ao Conselho Diretivo, no âmbito da gestão do FRCT:
+
+a) Definir a política de gestão do Fundo Regional da Ciência e Tecnologia;
+
+b) Exercer os poderes relativos aos atos necessários à prossecução das atribuições do FRCT;
+
+c) Elaborar e propor à aprovação superior o plano de atividades e assegurar a respetiva execução;
+
+d) Elaborar o relatório anual das atividades;
+
+e) Elaborar o orçamento anual e assegurar a respetiva execução;
+
+f) Autorizar, mediante a assinatura do presidente do Conselho Diretivo e de um vogal, a realização e o pagamento de despesas;
+
+g) Cobrar e gerir receitas;
+
+h) Assegurar e aprovar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;
+
+i) Aprovar a conta de gerência do exercício e promover o seu envio aos membros do Governo Regional com competência em matéria de ciência e tecnologia e de orçamento e tesouro, bem como à Secção Regional dos Açores do Tribunal de Contas;
+
+j) Contrair empréstimos mediante autorização prévia dos membros do Governo Regional com competência em matéria de ciência e tecnologia e de finanças;
+
+k) Gerir o património do FRCT, sem prejuízo da legislação aplicável, com possibilidade de aquisição, alienação ou oneração de bens móveis, imóveis e direitos;
+
+l) Gerir os recursos humanos constantes do quadro de pessoal afeto ao FRCT;
+
+m) Aprovar o regulamento interno e os projetos de regulamentos que sejam necessários ao desempenho das atribuições do FRCT, bem como praticar os demais atos de gestão necessários ao bom funcionamento dos serviços;
+
+n) Deliberar sobre a concessão de apoios financeiros à concretização de ações que pela sua natureza contribuam para o desenvolvimento científico e tecnológico da Região Autónoma dos Açores;
+
+o) Contratar com terceiros o fornecimento de bens ou a prestação de serviços que tenham por objeto matérias que se integrem no âmbito das atribuições do FRCT;
+
+p) Deliberar sobre a atribuição de apoios financeiros à implementação de contratos-programa, envolvendo parceiros públicos ou privados, em matérias que pela sua natureza contribuam para o desenvolvimento científico e tecnológico da Região Autónoma dos Açores;
+
+q) Deliberar sobre quaisquer matérias respeitantes à prossecução das atribuições do FRCT, definidas no [Decreto Legislativo Regional n.º 5/2001/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2001-353087), de 21 de março, com as alterações introduzidas pelo [Decreto Legislativo Regional n.º 6/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2020-129113819), de 11 de fevereiro.
+
+Artigo 9.º
+
+Competência do presidente do Conselho Diretivo
+
+1 - Compete ao presidente do Conselho Diretivo do FRCT:
+
+a) Presidir ao Conselho Diretivo;
+
+b) Representar o FRCT em juízo e fora dele;
+
+c) Convocar as reuniões do Conselho Diretivo, estabelecer a ordem do dia, dirigir os trabalhos e assegurar o cumprimento das respetivas deliberações;
+
+d) Assegurar as relações com os órgãos da tutela e com os demais serviços da administração regional;
+
+e) Submeter a despacho do membro do Governo Regional competente em matéria de ciência e tecnologia os assuntos que, tendo sido tratados pelo Conselho Diretivo, careçam de decisão superior;
+
+f) Solicitar pareceres ao órgão de fiscalização;
+
+g) Assinar e visar toda a correspondência recebida e expedida;
+
+h) Zelar pela observância das leis e dos regulamentos internos;
+
+i) Passar certidões;
+
+j) Exercer as competências que lhe sejam delegadas pelo Conselho Diretivo.
+
+2 - O presidente do Conselho Diretivo pode delegar ou subdelegar competências nos vogais, nos termos previstos no Código do Procedimento Administrativo.
+
+Artigo 10.º
+
+Funcionamento
+
+1 - O Conselho Diretivo reúne ordinariamente, uma vez por semana, e extraordinariamente, sempre que for convocado pelo presidente do Conselho Diretivo ou a requerimento dos vogais.
+
+2 - As deliberações do Conselho Diretivo só podem ser tomadas na presença de, pelo menos, dois dos seus membros, tendo o presidente do Conselho Diretivo voto de qualidade, em caso de empate nas votações.
+
+SECÇÃO II
+
+Fiscal Único
+
+Artigo 11.º
+
+Funções
+
+O Fiscal Único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do FRCT.
+
+Artigo 12.º
+
+Designação e mandato
+
+A nomeação, mandato e remuneração do Fiscal Único obedecem ao disposto no [Decreto Legislativo Regional n.º 13/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2007-638174), de 5 de junho, alterado e republicado pelo [Decreto Legislativo Regional n.º 13/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), de 11 de maio.
+
+CAPÍTULO IV
+
+Disposições finais
+
+Artigo 13.º
+
+Regime aplicável
+
+1 - Os trabalhadores do FRCT regem-se pelo regime aplicável aos trabalhadores que exercem funções públicas.
+
+2 - Em tudo o que não estiver previsto neste diploma, aplica-se aos membros do Conselho Diretivo o disposto no regime jurídico dos Institutos Públicos e Fundações Regionais a que se refere o [Decreto Legislativo Regional n.º 13/2007/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2007-638174), de 5 de junho, alterado e republicado pelo [Decreto Legislativo Regional n.º 13/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2011-287823), de 11 de maio, e, subsidiariamente, o disposto no Estatuto do Pessoal Dirigente dos serviços e organismos da administração central, regional e local, aprovado pela [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, na redação atual, com as adaptações introduzidas pelo [Decreto Legislativo Regional n.º 2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), de 9 de maio, na redação atual.
+
+ANEXO
+
+(a que se refere o artigo 4.º)
+
+Quadro de pessoal
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/2021/08/15800/0005600061.pdf)
+
+114479345

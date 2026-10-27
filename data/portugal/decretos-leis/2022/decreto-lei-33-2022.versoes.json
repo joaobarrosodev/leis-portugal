@@ -1,0 +1,345 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:183432853:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-211175763",
+ "dre_path": "/dr/detalhe/decreto-lei/33-2022-183432853",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-05-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "211107237",
+    "211107238",
+    "211107239",
+    "211107240",
+    "211107241",
+    "211107242",
+    "211107243",
+    "211107244",
+    "211107245",
+    "211107246",
+    "211107247",
+    "211107248",
+    "211107249",
+    "211107250",
+    "211107251",
+    "211107252"
+   ]
+  },
+  {
+   "date": "2023-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211172339:por",
+     "title": "Decreto-Lei n.º 21-B/2023",
+     "published": "2023-03-30",
+     "dre_path": "/dr/detalhe/decreto-lei/21-b-2023-211172339"
+    }
+   ],
+   "changes": [
+    "Adita Anexo",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "211107237",
+    "211234791",
+    "211234792",
+    "211234793",
+    "211234794",
+    "211234795",
+    "211234796",
+    "211234797",
+    "211234798",
+    "211234799",
+    "211234800",
+    "211234801",
+    "211234802",
+    "211234803",
+    "211234804",
+    "211234805",
+    "211234806",
+    "211234807"
+   ]
+  }
+ ],
+ "fragments": {
+  "211107237": {
+   "fragment_id": "211175764",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 33/2022\n\nde 14 de maio\n\nSumário: Estabelece um mecanismo excecional e temporário de ajuste dos custos de produção de energia elétrica no âmbito do Mercado Ibérico de Eletricidade.\n\nA situação do conflito armado na Ucrânia provocou uma forte instabilidade no setor energético mediante, entre outros efeitos, o aumento do preço dos combustíveis com inequívocos impactos nos diversos setores da atividade económica e nos consumos das empresas e das famílias.\n\nNesse sentido, e considerando as particulares características do Mercado Ibérico de Eletricidade (MIBEL), bem como a reduzida interligação elétrica da Península Ibérica à Europa Continental, os Governos de Portugal e de Espanha cooperaram no desenho de um mecanismo para o desacoplamento do preço do gás natural do MIBEL, com vista à mitigação da atual instabilidade sobre os respetivos preços.\n\nNeste âmbito, o presente decreto-lei prevê um regime excecional e temporário para a fixação dos preços no MIBEL, mediante a fixação de um preço de referência para o gás natural consumido na produção de energia elétrica transacionada no MIBEL, com vista à redução dos respetivos preços.\n\nPara o efeito pretendido, importa proceder ao cálculo e à aplicação de um ajuste dos custos de produção de energia elétrica no respetivo mercado grossista, de forma a assegurar a justa compensação dos produtores de energia elétrica a partir do gás natural face à diferença entre o referido preço de referência e o preço de mercado do gás natural.\n\nPor fim, e por força das distintas circunstâncias e necessidades subjacentes às relações contratuais de fornecimento de energia elétrica no âmbito do MIBEL, importa proceder à recolha e processamento da necessária informação para que a liquidação do ajuste dos custos de produção de energia elétrica apenas incida sobre determinados consumidores sem contratos de fornecimento de energia elétrica a preços fixos, uma vez que estes não se encontram protegidos face aos atuais preços de energia elétrica.\n\nFoi promovida a audição da Entidade Reguladora dos Serviços Energéticos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "211107238": {
+   "fragment_id": "211175765",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um mecanismo excecional e temporário de ajuste dos custos de produção de energia elétrica com reflexo na formação do preço de mercado da eletricidade no referencial grossista do Mercado Ibérico de Eletricidade (MIBEL)."
+  },
+  "211107239": {
+   "fragment_id": "211175766",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se:\n\na) Aos centros eletroprodutores termoelétricos correspondentes a centrais de ciclo combinado a gás natural;\n\nb) Às instalações de cogeração em regime de mercado, nos termos do artigo 4.º-B do Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual;\n\nc) Aos comercializadores, agentes de mercado e consumidores de energia elétrica no âmbito do mercado grossista de eletricidade.\n\n2 - No âmbito das alíneas a) e b) do número anterior não se inclui a produção dos referidos centros eletroprodutores termoelétricos ou das instalações de cogeração realizada ao abrigo de contratos bilaterais físicos."
+  },
+  "211107240": {
+   "fragment_id": "211175767",
+   "type": 11,
+   "heading": "Artigo 3.º — Formação do preço e referenciais de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Formação do preço e referenciais de mercado\n\n1 - A formação do preço para a área de preço portuguesa do MIBEL, incluindo o mercado diário e os diferentes referenciais de mercado intradiários, é efetuada de acordo com as regras de funcionamento do mercado diário em vigor a cada momento para aplicação pelo respetivo operador nomeado do mercado da eletricidade.\n\n2 - Para efeitos da formação do preço nos termos do número anterior, as unidades de oferta domiciliadas na área de preço portuguesa do MIBEL que correspondam aos centros eletroprodutores termoelétricos e às instalações de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo anterior fazem as suas ofertas no mercado, internalizando o ajuste calculado nos termos do artigo seguinte.\n\n3 - Para efeitos da formação do preço nos mercados de serviços de sistema operados pelo gestor global do Sistema Elétrico Nacional (SEN), os centros eletroprodutores termoelétricos e as instalações de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo anterior devem assegurar o cumprimento do disposto no Manual de Procedimentos da Gestão Global do SEN (MPGGS)."
+  },
+  "211107241": {
+   "fragment_id": "211175768",
+   "type": 11,
+   "heading": "Artigo 4.º — Cálculo do ajuste",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cálculo do ajuste\n\n1 - O ajuste dos custos de produção de energia elétrica para os centros eletroprodutores termoelétricos e as instalações de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo 2.º é determinado pelo operador nomeado do mercado da eletricidade de acordo com a seguinte expressão:\n\n(ver documento original)\n\nonde:\n\na) «Y(índice i)» é o valor do ajuste diário, expresso em (euro)/MWh e com arredondamento a duas casas decimais, a aplicar ao i-ésimo centro eletroprodutor termoelétrico ou instalação de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo 2.º;\n\nb) «P(índice GN)» é o preço do gás natural em (euro)/MWh, com arredondamento a duas casas decimais, determinado através da média ponderada de todas as transações dos produtos diários (D+1) e fim de semana, quando aplicável, com entrega no dia seguinte no «punto virtual de balance», cotados na plataforma gerida pela MIBGAS, S. A., enquanto operador do mercado ibérico de gás (MIBGÁS);\n\nc) «P(índice RGN)» é o preço de referência do gás natural em (euro)/MWh, com arredondamento a duas casas decimais, com um valor inicial de 40 (euro)/MWh, com evolução crescente ao longo do período de aplicação do mecanismo de ajuste, nos termos do n.º 5.\n\n2 - O valor da variável Y(índice i) é nulo quando o valor da variável P(índice GN) for inferior ao valor da variável P(índice RGN), devendo o operador nomeado do mercado da eletricidade recorrer ao MIBGÁS para a obtenção do valor da variável P(índice GN) a ser aplicado no dia D antes das 9h45, hora legal do Reino de Espanha, do dia D-1.\n\n3 - Para efeitos do disposto nos números anteriores, os valores das variáveis Y(índice i) e P(índice GN) são publicados pelo operador nomeado do mercado da eletricidade no seu sítio na Internet previamente ao horário das 10h00, hora legal do Reino de Espanha, do dia D-1.\n\n4 - A determinação da variável P(índice GN) pode ser alterada por despacho do membro do Governo responsável pela área da energia.\n\n5 - A partir do primeiro dia do sétimo mês da aplicação do mecanismo de ajuste, o valor da variável P(índice RGN) incorpora um aumento nominal de 5 (euro)/MWh, que se repete no primeiro dia dos meses seguintes sobre o mês precedente."
+  },
+  "211107242": {
+   "fragment_id": "211175769",
+   "type": 11,
+   "heading": "Artigo 5.º — Repercussão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Repercussão\n\n1 - O cálculo do valor do ajuste global a repercutir em período de negociação compete ao operador nomeado do mercado da eletricidade no âmbito dos mercados de eletricidade sob a sua gestão.\n\n2 - O custo do valor previsto no artigo anterior é exclusivamente imputável aos consumidores de energia elétrica referidos na alínea c) do n.º 1 do artigo 2.º, sem prejuízo do disposto no artigo 7.º\n\n3 - Para efeitos do disposto nos números anteriores, o operador nomeado do mercado da eletricidade deve considerar a informação remetida pelo gestor global do SEN, nos termos dos números seguintes.\n\n4 - No caso das contrapartes adquirentes de energia elétrica em contratos bilaterais físicos celebrados nos termos da legislação e regulamentação aplicáveis entre agentes de mercado domiciliados na área de preço portuguesa do MIBEL, os respetivos agentes de mercado devem constituir unidades de programação autónoma junto do gestor global do SEN para aqueles contratos cuja execução não cumpra os critérios de isenção referidos no artigo 7.º\n\n5 - Para o apuramento dos custos referidos no n.º 1, o gestor global do SEN deve comunicar a programação de quantidades das unidades referidas no número anterior ao operador nomeado do mercado da eletricidade para a área de preço portuguesa do MIBEL.\n\n6 - Para o efeito do presente artigo, o operador nomeado do mercado da eletricidade comunica ao gestor global do SEN o valor do ajuste a repercutir nos consumidores de energia elétrica nos termos do n.º 2."
+  },
+  "211107243": {
+   "fragment_id": "211175770",
+   "type": 11,
+   "heading": "Artigo 6.º — Liquidação do ajuste",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Liquidação do ajuste\n\n1 - A liquidação dos direitos e obrigações de cada agente de mercado que decorram da participação em mercado diário e nos diferentes referenciais de mercado intradiários é assegurada pelo operador nomeado do mercado da eletricidade para a área de preço portuguesa do MIBEL.\n\n2 - O gestor global do SEN é responsável pela liquidação:\n\na) Dos direitos e obrigações de cada agente de mercado que decorram da sua participação nos mercados de serviços de sistema e demais processos por si geridos, nos termos do disposto no MPGGS;\n\nb) Das obrigações emergentes da contratualização referidas no n.º 4 do artigo anterior, devendo transferir os respetivos valores para o operador nomeado do mercado da eletricidade para a área de preço portuguesa do MIBEL."
+  },
+  "211107244": {
+   "fragment_id": "211175771",
+   "type": 11,
+   "heading": "Artigo 7.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Isenções\n\n1 - O custo da liquidação do valor do ajuste de mercado não se imputa aos seguintes consumos:\n\na) Bombagem dos centros eletroprodutores hídricos;\n\nb) Serviços auxiliares dos restantes centros eletroprodutores;\n\nc) Sistemas de armazenamento, designadamente baterias.\n\n2 - O custo da liquidação do valor do ajuste de mercado não se imputa, ainda, aos consumos realizados ao abrigo de contratos de fornecimento de energia elétrica a preços fixos celebrados antes de 26 de abril de 2022.\n\n3 - No âmbito do número anterior incluem-se os contratos de fornecimento de energia elétrica a preços fixos ao abrigo de instrumentos regulatórios aprovados antes da referida data.\n\n4 - Para efeitos do disposto nos n.os 2 e 3, são considerados os seguintes instrumentos de verificação dos contratos de fornecimento de energia elétrica a preços fixos comunicados pelos agentes de mercado, com exceção do comercializador de último recurso:\n\na) O reporte efetuado junto do gestor global do SEN, para os contratos bilaterais físicos; ou\n\nb) Consoante a natureza da liquidação, o registo de transações prevista no Regulamento (UE) n.º 1227/2011 do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à integridade e à transparência nos mercados grossistas da energia, ou o registo de transações nos termos do Regulamento (UE) n.º 648/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativo aos derivados do mercado de balcão, às contrapartes centrais e aos repositórios de transações, para os contratos decorrentes da participação em mercados organizados ou de contratação em mercados de balcão.\n\n5 - As renovações ou as alterações das condições relativas aos preços de fornecimento de energia elétrica determinam a sujeição dos contratos referidos nos n.os 2 e 3 na base da repercussão dos custos do mecanismo de ajuste.\n\n6 - O operador nomeado do mercado da eletricidade e o gestor global do SEN adaptam os seus sistemas informáticos para a recolha, processamento e incorporação da informação relativa aos contratos referidos nos números anteriores.\n\n7 - O operador nomeado do mercado da eletricidade e o gestor global do SEN enviam a informação a que se refere o número anterior à Entidade Reguladora dos Serviços Energéticos (ERSE).\n\n8 - Os agentes de mercado com instrumentos de contratação abrangidos pelo disposto nos n.os 2 e 3 devem comunicar ao operador nomeado do mercado da eletricidade, ao gestor global do SEN e à ERSE, no prazo de cinco dias úteis contados da data de entrada em vigor do presente decreto-lei e nos meios e formato aprovados para o efeito pela ERSE, a informação relativa à contratação especificando instrumentos, maturidade e respetivos volumes associados.\n\n9 - Para efeitos do disposto no n.º 6:\n\na) O operador nomeado do mercado da eletricidade dispõe de sete dias úteis contados do fim do prazo referido no número anterior para a adaptação dos seus sistemas e procedimentos;\n\nb) O gestor global do SEN dispõe de cinco dias úteis contados do fim do prazo referido no número anterior para propor à ERSE as alterações necessárias ao MPGGS para a implementação do mecanismo de ajuste.\n\n10 - O operador nomeado do mercado da eletricidade e o gestor global do SEN podem identificar inconsistências ou vícios formais na informação referida no n.º 7, devendo comunicá-los à ERSE e ao respetivo agente de mercado.\n\n11 - Nos termos do número anterior, o agente de mercado dispõe de dois dias úteis para proceder à correção da informação referida no n.º 8, sob validação da ERSE.\n\n12 - O agente de mercado deve assegurar o integral cumprimento das disposições legais aplicáveis relativas à certificação do mandato e à representação junto do operador nomeado do mercado da eletricidade, do gestor global do SEN e da ERSE.\n\n13 - Nos dois primeiros meses de aplicação do mecanismo de ajuste os agentes de mercado podem reportar a informação referida no n.º 8 com periodicidade semanal, sob condição de assegurar uma antecedência mínima de cinco dias úteis face ao primeiro dia de entrega do contrato a que se reporte essa informação."
+  },
+  "211107245": {
+   "fragment_id": "211175772",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registo\n\n1 - A liquidação do valor unitário do ajuste calculado nos termos do artigo 4.º vincula os titulares dos centros eletroprodutores termoelétricos e as instalações de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo 2.º a constituírem unidades de oferta na plataforma gerida pelo operador nomeado do mercado da eletricidade para a área de preço portuguesa do MIBEL e de unidade de programação junto do gestor global do SEN, que deve ser específica para cada instalação sem prejuízo do disposto no número seguinte.\n\n2 - No caso das instalações de cogeração referidas na alínea b) do n.º 1 do artigo 2.º, as unidades de oferta e de programação podem ser comuns a várias instalações detidas ou agregadas por um mesmo agente de mercado, desde que a todas se aplique o mecanismo de ajuste estabelecido pelo presente decreto-lei.\n\n3 - Os titulares, ou os agentes de mercado que os representem, dos centros eletroprodutores termoelétricos e das instalações de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo 2.º devem proceder à inscrição ou alteração das unidades de oferta e de programação junto, respetivamente, do operador nomeado do mercado da eletricidade para a área de preço portuguesa do MIBEL e do gestor global do SEN.\n\n4 - O direito à liquidação do valor unitário do ajuste calculado nos termos do artigo 4.º não se aplica à produção de energia elétrica anterior à data do integral cumprimento do disposto nos números anteriores."
+  },
+  "211107246": {
+   "fragment_id": "211175773",
+   "type": 11,
+   "heading": "Artigo 9.º — Comercializadores e agentes de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comercializadores e agentes de mercado\n\n1 - Os comercializadores ou os agentes de mercado informam o operador nomeado do mercado da eletricidade e o gestor global do SEN sobre os contratos de fornecimento referidos nos n.os 2 a 5 do artigo 7.º\n\n2 - O disposto no número anterior é aplicável aos comercializadores de empresas verticalmente integradas.\n\n3 - Os comercializadores ou os agentes de mercado adaptam os seus sistemas informáticos para a recolha, processamento e incorporação da informação relativa aos referidos contratos de fornecimento."
+  },
+  "211107247": {
+   "fragment_id": "211175774",
+   "type": 11,
+   "heading": "Artigo 10.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Garantias\n\n1 - Os comercializadores e os agentes de mercado que atuam junto do operador nomeado do mercado da eletricidade encontram-se vinculados à prestação de garantias para o cumprimento das obrigações decorrentes da liquidação do valor do ajuste de mercado, sob pena da impossibilidade da sua participação.\n\n2 - As garantias são calculadas através da valorização da energia máxima diária de compras das unidades de aquisição dos comercializadores e os agentes de mercado referidos no número anterior, de acordo com a seguinte expressão:\n\n(ver documento original)\n\nonde:\n\na) «GA» é o valor, em euros, das garantias para cobrir o custo correspondente à liquidação do valor do ajuste de mercado;\n\nb) «P(índice max)(ua)» é a potência máxima da unidade de aquisição;\n\nc) «p» é o número de períodos horários da programação diária, sendo igual a 24;\n\nd) «r» é a duração do período horário, sendo igual a 1;\n\ne) «EEXA(z,d)» é a energia diária, em MWh, isenta do pagamento decorrente da liquidação do valor de ajuste de mercado na zona de preço z, no dia de cálculo d nos termos do artigo 7.º;\n\nf) «n» é o número de dias a cobrir, sendo igual a 2;\n\ng) «PRAJ» é o preço do risco do valor de ajuste de mercado.\n\n3 - Compete ao operador nomeado do mercado da eletricidade calcular e publicitar, no seu sítio na Internet, a variável PRAJ.\n\n4 - A variável PRAJ é atualizada periodicamente em conformidade com o valor do ajuste de mercado e com a energia máxima sujeita a reajuste dos centros eletroprodutores e das instalações de cogeração referidas nas alíneas a) e b) do n.º 1 do artigo 2.º\n\n5 - Ao valor das garantias calculado nos termos do n.º 2 acrescem os impostos e taxas aplicáveis.\n\n6 - No mercado de serviços de sistema é exigível a prestação de garantias, nos termos estabelecidos no regime de gestão de riscos e garantias do SEN em vigor para o cumprimento das obrigações decorrentes da liquidação do valor do ajuste de mercado.\n\n7 - O incumprimento da obrigação de liquidação do valor do ajuste de mercado determina a execução, pelo operador nomeado do mercado da eletricidade, da garantia prestada.\n\n8 - Perante a insuficiência da garantia executada nos termos do número anterior, o operador nomeado do mercado da eletricidade rateia o respetivo valor entre os centros eletroprodutores termoelétricos e instalações de cogeração, de forma proporcional ao valor do ajuste de mercado no mesmo horizonte de liquidação.\n\n9 - Ao valor da garantia executada nos termos dos n.os 7 ou 8 acrescem os juros de mora e despesas nos termos estabelecidos pelas regras do mercado diário e intradiário, imputáveis à responsabilidade do comercializador ou do agente de mercado titular.\n\n10 - O incumprimento da obrigação de liquidação do valor do ajuste de mercado e a não prestação ou manutenção da garantia nos termos dos números anteriores determina a suspensão, pelo operador nomeado do mercado da eletricidade, da participação dos comercializadores ou dos agentes de mercado visados nos mercados.\n\n11 - A suspensão prevista no número anterior apenas produz efeitos com a comunicação, pelo operador nomeado do mercado da eletricidade, da respetiva decisão ao gestor global do SEN e ao gestor de garantias do SEN.\n\n12 - A suspensão prevista no número anterior deve, ainda, ser notificada pelo operador nomeado do mercado da eletricidade à Direção-Geral de Energia e Geologia e à ERSE."
+  },
+  "211107248": {
+   "fragment_id": "211234575",
+   "type": 11,
+   "heading": "Artigo 11.º — Supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Supervisão\n\nCompete à ERSE a supervisão e fiscalização do mecanismo de ajuste previsto no presente decreto-lei e nos termos do respetivo quadro de competências no âmbito do Regulamento (UE) n.º 1227/2011 do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à integridade e à transparência nos mercados grossistas da energia."
+  },
+  "211107249": {
+   "fragment_id": "211234576",
+   "type": 11,
+   "heading": "Artigo 12.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contraordenações\n\n1 - O incumprimento do disposto nos n.os 7, 8, 12 e 13 do artigo 7.º integra a prática da contraordenação prevista e punida nos termos da alínea m) do n.º 1 do artigo 28.º do Regime Sancionatório do Setor Energético (RSSE), aprovado pela Lei n.º 9/2013, de 28 de janeiro.\n\n2 - O incumprimento do disposto nos n.os 2 e 3 do artigo 3.º, nos n.os 1, 3, 4 e 6 do artigo 5.º, nos n.os 2, 3 e 6 do artigo 7.º e no artigo 9.º integra a prática da contraordenação prevista e punida nos termos da alínea j) do n.º 3 do artigo 28.º do RSSE.\n\n3 - Às contraordenações previstas nos números anteriores é aplicável o RSSE."
+  },
+  "211107250": {
+   "fragment_id": "211234577",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentação\n\n1 - O disposto nos artigos 5.º a 9.º carece de regulamentação, a aprovar pela ERSE.\n\n2 - No âmbito da regulamentação referida no número anterior inclui-se, ainda, a validação e monitorização da informação referida no n.º 8 do artigo 7.º, assim como a aprovação dos formatos a adotar nas comunicações ao operador nomeado do mercado da eletricidade, ao gestor global do SEN e à ERSE.\n\n3 - Para efeitos do disposto no n.º 3 do artigo 100.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, os regulamentos aprovados nos termos dos números anteriores, por motivos de urgência, não se encontram sujeitos ao processo de consulta pública."
+  },
+  "211107251": {
+   "fragment_id": "211234578",
+   "type": 11,
+   "heading": "Artigo 14.º — Suspensão do mecanismo de ajuste",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Suspensão do mecanismo de ajuste\n\nO Governo Português, ouvida a ERSE e com o acordo prévio do Governo Espanhol, pode determinar a suspensão do mecanismo de ajuste por força de razões de interesse público decorrentes de circunstâncias excecionais."
+  },
+  "211107252": {
+   "fragment_id": "211234579",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de maio de 2023."
+  },
+  "211234791": {
+   "fragment_id": "211175765",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um mecanismo excecional e temporário de ajuste dos custos de produção de energia elétrica com reflexo na formação do preço de mercado da eletricidade no referencial grossista do Mercado Ibérico de Eletricidade (MIBEL)."
+  },
+  "211234792": {
+   "fragment_id": "211175766",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se:\n\na) Aos centros eletroprodutores termoelétricos correspondentes a centrais de ciclo combinado a gás natural;\n\nb) Às instalações de cogeração em regime de mercado, nos termos do artigo 4.º-B do Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual;\n\nc) Aos comercializadores, agentes de mercado e consumidores de energia elétrica no âmbito do mercado grossista de eletricidade.\n\n2 - No âmbito das alíneas a) e b) do número anterior não se inclui a produção dos referidos centros eletroprodutores termoelétricos ou das instalações de cogeração realizada ao abrigo de contratos bilaterais físicos."
+  },
+  "211234793": {
+   "fragment_id": "211175767",
+   "type": 11,
+   "heading": "Artigo 3.º — Formação do preço e referenciais de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Formação do preço e referenciais de mercado\n\n1 - A formação do preço para a área de preço portuguesa do MIBEL, incluindo o mercado diário e os diferentes referenciais de mercado intradiários, é efetuada de acordo com as regras de funcionamento do mercado diário em vigor a cada momento para aplicação pelo respetivo operador nomeado do mercado da eletricidade.\n\n2 - Para efeitos da formação do preço nos termos do número anterior, as unidades de oferta domiciliadas na área de preço portuguesa do MIBEL que correspondam aos centros eletroprodutores termoelétricos e às instalações de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo anterior fazem as suas ofertas no mercado, internalizando o ajuste calculado nos termos do artigo seguinte.\n\n3 - Para efeitos da formação do preço nos mercados de serviços de sistema operados pelo gestor global do Sistema Elétrico Nacional (SEN), os centros eletroprodutores termoelétricos e as instalações de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo anterior devem assegurar o cumprimento do disposto no Manual de Procedimentos da Gestão Global do SEN (MPGGS)."
+  },
+  "211234794": {
+   "fragment_id": "211175768",
+   "type": 11,
+   "heading": "Artigo 4.º — Cálculo do ajuste",
+   "in_force_from": "2023-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21-B/2023 - Diário da República n.º 64/2023, 1º Suplemento, Série I de 2023-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-b-2023-211172339), em vigor a partir de 2023-03-31"
+   ],
+   "markdown": "###### Artigo 4.º — Cálculo do ajuste\n\n1 - O ajuste dos custos de produção de energia elétrica para os centros eletroprodutores termoelétricos e as instalações de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo 2.º é determinado pelo operador nomeado do mercado da eletricidade de acordo com a seguinte expressão:\n\n(ver documento original)\n\nonde:\n\na) «Y(índice i)» é o valor do ajuste diário, expresso em (euro)/MWh e com arredondamento a duas casas decimais, a aplicar ao i-ésimo centro eletroprodutor termoelétrico ou instalação de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo 2.º;\n\nb) «P(índice GN)» é o preço do gás natural em (euro)/MWh, com arredondamento a duas casas decimais, determinado através da média ponderada de todas as transações dos produtos diários (D+1) e fim de semana, quando aplicável, com entrega no dia seguinte no «punto virtual de balance», cotados na plataforma gerida pela MIBGAS, S. A., enquanto operador do mercado ibérico de gás (MIBGÁS);\n\nc) «P(índice RGN)» é o preço de referência do gás natural em (euro)/MWh, com arredondamento a duas casas decimais, com um valor inicial de 40 (euro)/MWh, com evolução crescente ao longo do período de aplicação do mecanismo de ajuste, nos termos do n.º 5.\n\n2 - O valor da variável Y(índice i) é nulo quando o valor da variável P(índice GN) for inferior ao valor da variável P(índice RGN), devendo o operador nomeado do mercado da eletricidade recorrer ao MIBGÁS para a obtenção do valor da variável P(índice GN) a ser aplicado no dia D antes das 9h45, hora legal do Reino de Espanha, do dia D-1.\n\n3 - Para efeitos do disposto nos números anteriores, os valores das variáveis Y(índice i) e P(índice GN) são publicados pelo operador nomeado do mercado da eletricidade no seu sítio na Internet previamente ao horário das 10h00, hora legal do Reino de Espanha, do dia D-1.\n\n4 - A determinação da variável P(índice GN) pode ser alterada por despacho do membro do Governo responsável pela área da energia.\n\n5 - A partir do mês de abril de 2023, o valor da variável P(índice RGN) incorpora os aumentos nominais nos termos da tabela constante do anexo ao presente decreto-lei e do qual faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21-B/2023 - Diário da República n.º 64/2023, 1º Suplemento, Série I de 2023-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-b-2023-211172339), em vigor a partir de 2023-03-31"
+  },
+  "211234795": {
+   "fragment_id": "211175769",
+   "type": 11,
+   "heading": "Artigo 5.º — Repercussão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Repercussão\n\n1 - O cálculo do valor do ajuste global a repercutir em período de negociação compete ao operador nomeado do mercado da eletricidade no âmbito dos mercados de eletricidade sob a sua gestão.\n\n2 - O custo do valor previsto no artigo anterior é exclusivamente imputável aos consumidores de energia elétrica referidos na alínea c) do n.º 1 do artigo 2.º, sem prejuízo do disposto no artigo 7.º\n\n3 - Para efeitos do disposto nos números anteriores, o operador nomeado do mercado da eletricidade deve considerar a informação remetida pelo gestor global do SEN, nos termos dos números seguintes.\n\n4 - No caso das contrapartes adquirentes de energia elétrica em contratos bilaterais físicos celebrados nos termos da legislação e regulamentação aplicáveis entre agentes de mercado domiciliados na área de preço portuguesa do MIBEL, os respetivos agentes de mercado devem constituir unidades de programação autónoma junto do gestor global do SEN para aqueles contratos cuja execução não cumpra os critérios de isenção referidos no artigo 7.º\n\n5 - Para o apuramento dos custos referidos no n.º 1, o gestor global do SEN deve comunicar a programação de quantidades das unidades referidas no número anterior ao operador nomeado do mercado da eletricidade para a área de preço portuguesa do MIBEL.\n\n6 - Para o efeito do presente artigo, o operador nomeado do mercado da eletricidade comunica ao gestor global do SEN o valor do ajuste a repercutir nos consumidores de energia elétrica nos termos do n.º 2."
+  },
+  "211234796": {
+   "fragment_id": "211175770",
+   "type": 11,
+   "heading": "Artigo 6.º — Liquidação do ajuste",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Liquidação do ajuste\n\n1 - A liquidação dos direitos e obrigações de cada agente de mercado que decorram da participação em mercado diário e nos diferentes referenciais de mercado intradiários é assegurada pelo operador nomeado do mercado da eletricidade para a área de preço portuguesa do MIBEL.\n\n2 - O gestor global do SEN é responsável pela liquidação:\n\na) Dos direitos e obrigações de cada agente de mercado que decorram da sua participação nos mercados de serviços de sistema e demais processos por si geridos, nos termos do disposto no MPGGS;\n\nb) Das obrigações emergentes da contratualização referidas no n.º 4 do artigo anterior, devendo transferir os respetivos valores para o operador nomeado do mercado da eletricidade para a área de preço portuguesa do MIBEL."
+  },
+  "211234797": {
+   "fragment_id": "211175771",
+   "type": 11,
+   "heading": "Artigo 7.º — Isenções",
+   "in_force_from": "2023-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21-B/2023 - Diário da República n.º 64/2023, 1º Suplemento, Série I de 2023-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-b-2023-211172339), em vigor a partir de 2023-03-31"
+   ],
+   "markdown": "###### Artigo 7.º — Isenções\n\n1 - O custo da liquidação do valor do ajuste de mercado não se imputa aos seguintes consumos:\n\na) Bombagem dos centros eletroprodutores hídricos;\n\nb) Serviços auxiliares dos restantes centros eletroprodutores;\n\nc) Sistemas de armazenamento, designadamente baterias.\n\n2 - O custo da liquidação do valor do ajuste de mercado não se imputa, ainda, aos consumos realizados:\n\na) Ao abrigo de contratos de fornecimento de energia elétrica a preços fixos celebrados antes de 26 de abril de 2022;\n\nb) Com a contratação de instrumentos de cobertura celebrados depois de 26 de abril de 2022 e antes de 7 de março de 2023 e referentes ao período compreendido entre os meses de maio e dezembro de 2023.\n\n3 - No âmbito da alínea a) do número anterior incluem-se os contratos de fornecimento de energia elétrica a preços fixos ao abrigo de instrumentos regulatórios aprovados antes da referida data.\n\n4 - Para efeitos do disposto nos n.os 2 e 3, são considerados os seguintes instrumentos de verificação dos contratos de fornecimento de energia elétrica a preços fixos comunicados pelos agentes de mercado, com exceção do comercializador de último recurso, e dos instrumentos de cobertura contratados pelos consumidores:\n\na) O reporte efetuado junto do gestor global do SEN, para os contratos bilaterais físicos; ou\n\nb) Consoante a natureza da liquidação, o registo de transações prevista no Regulamento (UE) n.º 1227/2011 do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à integridade e à transparência nos mercados grossistas da energia, ou o registo de transações nos termos do Regulamento (UE) n.º 648/2012 do Parlamento Europeu e do Conselho, de 4 de julho de 2012, relativo aos derivados do mercado de balcão, às contrapartes centrais e aos repositórios de transações, para os contratos decorrentes da participação em mercados organizados ou de contratação em mercados de balcão.\n\nc) Os instrumentos de cobertura celebrados pelos consumidores dos contratos de fornecimento de energia elétrica com preço variável.\n\n5 - As renovações ou as alterações das condições relativas aos preços de fornecimento de energia elétrica determinam a sujeição dos contratos referidos nos n.os 2 e 3 na base da repercussão dos custos do mecanismo de ajuste.\n\n6 - O operador nomeado do mercado da eletricidade e o gestor global do SEN adaptam os seus sistemas informáticos para a recolha, processamento e incorporação da informação relativa aos contratos referidos nos números anteriores.\n\n7 - O operador nomeado do mercado da eletricidade e o gestor global do SEN enviam a informação a que se refere o número anterior à Entidade Reguladora dos Serviços Energéticos (ERSE).\n\n8 - Os agentes de mercado com instrumentos de contratação abrangidos pelo disposto no presente artigo, ou que abasteçam consumidores com coberturas conformes à alínea b) do n.º 2, ainda que celebradas diretamente, devem comunicar ao operador nomeado do mercado da eletricidade, ao gestor global do SEN e à ERSE a informação relativa à contratação, especificando os instrumentos, a maturidade e respetivos volumes associados, nos termos definidos pela ERSE, nos seguintes prazos a contar da data de 31 de março de 2023:\n\na) No caso da alínea a) do n.º 2 e do n.º 3, cinco dias úteis;\n\nb) No caso da alínea b) do n.º 2:\n\ni) Cinco dias úteis, para os instrumentos de cobertura aplicáveis no mês de maio de 2023;\n\nii) 15 dias úteis, para os instrumentos de cobertura aplicáveis nos meses de junho a dezembro de 2023.\n\n9 - Para efeitos do disposto no n.º 6:\n\na) O operador nomeado do mercado da eletricidade dispõe de sete dias úteis contados do fim dos prazos referidos no número anterior para a adaptação dos seus sistemas e procedimentos;\n\nb) O gestor global do SEN dispõe de cinco dias úteis contados do fim dos prazos referidos no número anterior para propor à ERSE as alterações necessárias ao MPGGS para a implementação do mecanismo de ajuste.\n\n10 - O operador nomeado do mercado da eletricidade e o gestor global do SEN podem identificar inconsistências ou vícios formais na informação referida no n.º 7, devendo comunicá-los à ERSE e ao respetivo agente de mercado.\n\n11 - Nos termos do número anterior, o agente de mercado dispõe de dois dias úteis para proceder à correção da informação referida no n.º 8, sob validação da ERSE.\n\n12 - O agente de mercado deve assegurar o integral cumprimento das disposições legais aplicáveis relativas à certificação do mandato e à representação junto do operador nomeado do mercado da eletricidade, do gestor global do SEN e da ERSE.\n\n13 - Nos dois primeiros meses de aplicação do mecanismo de ajuste os agentes de mercado podem reportar a informação referida no n.º 8 com periodicidade semanal, sob condição de assegurar uma antecedência mínima de cinco dias úteis face ao primeiro dia de entrega do contrato a que se reporte essa informação.\n\n14 - Os agentes de mercado que abasteçam consumidores com coberturas celebradas diretamente nos termos do n.º 8, sendo responsáveis pelo respetivo reporte, devem obrigatoriamente repercutir no consumidor respetivo a isenção do custo da liquidação do valor do ajuste de mercado que tenha sido comunicada e aceite.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21-B/2023 - Diário da República n.º 64/2023, 1º Suplemento, Série I de 2023-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-b-2023-211172339), em vigor a partir de 2023-03-31"
+  },
+  "211234798": {
+   "fragment_id": "211175772",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registo\n\n1 - A liquidação do valor unitário do ajuste calculado nos termos do artigo 4.º vincula os titulares dos centros eletroprodutores termoelétricos e as instalações de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo 2.º a constituírem unidades de oferta na plataforma gerida pelo operador nomeado do mercado da eletricidade para a área de preço portuguesa do MIBEL e de unidade de programação junto do gestor global do SEN, que deve ser específica para cada instalação sem prejuízo do disposto no número seguinte.\n\n2 - No caso das instalações de cogeração referidas na alínea b) do n.º 1 do artigo 2.º, as unidades de oferta e de programação podem ser comuns a várias instalações detidas ou agregadas por um mesmo agente de mercado, desde que a todas se aplique o mecanismo de ajuste estabelecido pelo presente decreto-lei.\n\n3 - Os titulares, ou os agentes de mercado que os representem, dos centros eletroprodutores termoelétricos e das instalações de cogeração referidos nas alíneas a) e b) do n.º 1 do artigo 2.º devem proceder à inscrição ou alteração das unidades de oferta e de programação junto, respetivamente, do operador nomeado do mercado da eletricidade para a área de preço portuguesa do MIBEL e do gestor global do SEN.\n\n4 - O direito à liquidação do valor unitário do ajuste calculado nos termos do artigo 4.º não se aplica à produção de energia elétrica anterior à data do integral cumprimento do disposto nos números anteriores."
+  },
+  "211234799": {
+   "fragment_id": "211175773",
+   "type": 11,
+   "heading": "Artigo 9.º — Comercializadores e agentes de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comercializadores e agentes de mercado\n\n1 - Os comercializadores ou os agentes de mercado informam o operador nomeado do mercado da eletricidade e o gestor global do SEN sobre os contratos de fornecimento referidos nos n.os 2 a 5 do artigo 7.º\n\n2 - O disposto no número anterior é aplicável aos comercializadores de empresas verticalmente integradas.\n\n3 - Os comercializadores ou os agentes de mercado adaptam os seus sistemas informáticos para a recolha, processamento e incorporação da informação relativa aos referidos contratos de fornecimento."
+  },
+  "211234800": {
+   "fragment_id": "211175774",
+   "type": 11,
+   "heading": "Artigo 10.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Garantias\n\n1 - Os comercializadores e os agentes de mercado que atuam junto do operador nomeado do mercado da eletricidade encontram-se vinculados à prestação de garantias para o cumprimento das obrigações decorrentes da liquidação do valor do ajuste de mercado, sob pena da impossibilidade da sua participação.\n\n2 - As garantias são calculadas através da valorização da energia máxima diária de compras das unidades de aquisição dos comercializadores e os agentes de mercado referidos no número anterior, de acordo com a seguinte expressão:\n\n(ver documento original)\n\nonde:\n\na) «GA» é o valor, em euros, das garantias para cobrir o custo correspondente à liquidação do valor do ajuste de mercado;\n\nb) «P(índice max)(ua)» é a potência máxima da unidade de aquisição;\n\nc) «p» é o número de períodos horários da programação diária, sendo igual a 24;\n\nd) «r» é a duração do período horário, sendo igual a 1;\n\ne) «EEXA(z,d)» é a energia diária, em MWh, isenta do pagamento decorrente da liquidação do valor de ajuste de mercado na zona de preço z, no dia de cálculo d nos termos do artigo 7.º;\n\nf) «n» é o número de dias a cobrir, sendo igual a 2;\n\ng) «PRAJ» é o preço do risco do valor de ajuste de mercado.\n\n3 - Compete ao operador nomeado do mercado da eletricidade calcular e publicitar, no seu sítio na Internet, a variável PRAJ.\n\n4 - A variável PRAJ é atualizada periodicamente em conformidade com o valor do ajuste de mercado e com a energia máxima sujeita a reajuste dos centros eletroprodutores e das instalações de cogeração referidas nas alíneas a) e b) do n.º 1 do artigo 2.º\n\n5 - Ao valor das garantias calculado nos termos do n.º 2 acrescem os impostos e taxas aplicáveis.\n\n6 - No mercado de serviços de sistema é exigível a prestação de garantias, nos termos estabelecidos no regime de gestão de riscos e garantias do SEN em vigor para o cumprimento das obrigações decorrentes da liquidação do valor do ajuste de mercado.\n\n7 - O incumprimento da obrigação de liquidação do valor do ajuste de mercado determina a execução, pelo operador nomeado do mercado da eletricidade, da garantia prestada.\n\n8 - Perante a insuficiência da garantia executada nos termos do número anterior, o operador nomeado do mercado da eletricidade rateia o respetivo valor entre os centros eletroprodutores termoelétricos e instalações de cogeração, de forma proporcional ao valor do ajuste de mercado no mesmo horizonte de liquidação.\n\n9 - Ao valor da garantia executada nos termos dos n.os 7 ou 8 acrescem os juros de mora e despesas nos termos estabelecidos pelas regras do mercado diário e intradiário, imputáveis à responsabilidade do comercializador ou do agente de mercado titular.\n\n10 - O incumprimento da obrigação de liquidação do valor do ajuste de mercado e a não prestação ou manutenção da garantia nos termos dos números anteriores determina a suspensão, pelo operador nomeado do mercado da eletricidade, da participação dos comercializadores ou dos agentes de mercado visados nos mercados.\n\n11 - A suspensão prevista no número anterior apenas produz efeitos com a comunicação, pelo operador nomeado do mercado da eletricidade, da respetiva decisão ao gestor global do SEN e ao gestor de garantias do SEN.\n\n12 - A suspensão prevista no número anterior deve, ainda, ser notificada pelo operador nomeado do mercado da eletricidade à Direção-Geral de Energia e Geologia e à ERSE."
+  },
+  "211234801": {
+   "fragment_id": "211234575",
+   "type": 11,
+   "heading": "Artigo 11.º — Supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Supervisão\n\nCompete à ERSE a supervisão e fiscalização do mecanismo de ajuste previsto no presente decreto-lei e nos termos do respetivo quadro de competências no âmbito do Regulamento (UE) n.º 1227/2011 do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à integridade e à transparência nos mercados grossistas da energia."
+  },
+  "211234802": {
+   "fragment_id": "211234576",
+   "type": 11,
+   "heading": "Artigo 12.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contraordenações\n\n1 - O incumprimento do disposto nos n.os 7, 8, 12 e 13 do artigo 7.º integra a prática da contraordenação prevista e punida nos termos da alínea m) do n.º 1 do artigo 28.º do Regime Sancionatório do Setor Energético (RSSE), aprovado pela Lei n.º 9/2013, de 28 de janeiro.\n\n2 - O incumprimento do disposto nos n.os 2 e 3 do artigo 3.º, nos n.os 1, 3, 4 e 6 do artigo 5.º, nos n.os 2, 3 e 6 do artigo 7.º e no artigo 9.º integra a prática da contraordenação prevista e punida nos termos da alínea j) do n.º 3 do artigo 28.º do RSSE.\n\n3 - Às contraordenações previstas nos números anteriores é aplicável o RSSE."
+  },
+  "211234803": {
+   "fragment_id": "211234577",
+   "type": 11,
+   "heading": "Artigo 13.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regulamentação\n\n1 - O disposto nos artigos 5.º a 9.º carece de regulamentação, a aprovar pela ERSE.\n\n2 - No âmbito da regulamentação referida no número anterior inclui-se, ainda, a validação e monitorização da informação referida no n.º 8 do artigo 7.º, assim como a aprovação dos formatos a adotar nas comunicações ao operador nomeado do mercado da eletricidade, ao gestor global do SEN e à ERSE.\n\n3 - Para efeitos do disposto no n.º 3 do artigo 100.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, os regulamentos aprovados nos termos dos números anteriores, por motivos de urgência, não se encontram sujeitos ao processo de consulta pública."
+  },
+  "211234804": {
+   "fragment_id": "211234578",
+   "type": 11,
+   "heading": "Artigo 14.º — Suspensão do mecanismo de ajuste",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Suspensão do mecanismo de ajuste\n\nO Governo Português, ouvida a ERSE e com o acordo prévio do Governo Espanhol, pode determinar a suspensão do mecanismo de ajuste por força de razões de interesse público decorrentes de circunstâncias excecionais."
+  },
+  "211234805": {
+   "fragment_id": "211234579",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor e vigência",
+   "in_force_from": "2023-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21-B/2023 - Diário da República n.º 64/2023, 1º Suplemento, Série I de 2023-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-b-2023-211172339), em vigor a partir de 2023-03-31"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2023.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21-B/2023 - Diário da República n.º 64/2023, 1º Suplemento, Série I de 2023-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-b-2023-211172339), em vigor a partir de 2023-03-31"
+  },
+  "211234806": {
+   "fragment_id": "211234580",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de maio de 2022. - António Luís Santos da Costa - João Titterington Gomes Cravinho - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro.\n\nPromulgado em 13 de maio de 2022.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 13 de maio de 2022.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n115328702"
+  },
+  "211234807": {
+   "fragment_id": "211234582",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 5 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21-B/2023 - Diário da República n.º 64/2023, 1º Suplemento, Série I de 2023-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-b-2023-211172339), em vigor a partir de 2023-03-31"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 5 do artigo 4.º)\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21-B/2023 - Diário da República n.º 64/2023, 1º Suplemento, Série I de 2023-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-b-2023-211172339), em vigor a partir de 2023-03-31"
+  }
+ }
+}

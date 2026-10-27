@@ -1,0 +1,901 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629666:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1991-34558775",
+ "dre_path": "/dr/detalhe/lei/13-1991-629666",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-06-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45323275",
+    "45323375",
+    "45323475",
+    "45323575",
+    "45323675",
+    "45323775",
+    "45323875",
+    "45323975",
+    "45324075",
+    "45324175",
+    "45324275",
+    "45324375",
+    "45324475",
+    "45324575",
+    "45324675",
+    "45324775",
+    "45324875",
+    "45324975",
+    "45325075",
+    "45325175",
+    "45325275",
+    "45325375",
+    "45325475",
+    "45325575",
+    "45325675",
+    "45325775",
+    "45325875",
+    "45325975",
+    "45326075",
+    "45326175",
+    "45326275",
+    "45326375",
+    "45326475",
+    "45326575",
+    "45326675",
+    "45326775",
+    "45326875",
+    "45326975",
+    "45327075",
+    "45327175",
+    "45327275",
+    "45327375",
+    "45327475",
+    "45327575",
+    "45327675",
+    "45327775",
+    "45327875",
+    "45327975",
+    "45328075",
+    "45328175",
+    "45328275",
+    "45328375",
+    "45328475",
+    "45328575",
+    "45328675",
+    "45328775",
+    "45328875",
+    "45328975",
+    "45329075",
+    "45329175",
+    "45329275",
+    "45329375",
+    "45329475",
+    "45329575",
+    "45329675",
+    "45329775",
+    "45329875",
+    "45329975",
+    "45330075",
+    "45330175",
+    "45330275",
+    "45330375",
+    "45330475",
+    "45330575",
+    "45330675",
+    "45330775",
+    "45330875",
+    "45330975",
+    "45331075",
+    "45331175",
+    "45331275",
+    "45331375",
+    "45331475",
+    "45331575",
+    "45331675",
+    "45331775",
+    "45331875",
+    "45331975",
+    "45332075",
+    "45332175",
+    "45332275",
+    "45332375",
+    "45332475",
+    "45332575",
+    "45332675",
+    "45332775",
+    "45332875",
+    "45332975"
+   ]
+  }
+ ],
+ "fragments": {
+  "45323275": {
+   "fragment_id": "35178575",
+   "type": 15,
+   "heading": "Diploma — Estatuto Político-Administrativo da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea b) do artigo 164.º, do n.º 3 do artigo 169.º e do artigo 228.º da Constituição, precedendo proposta da Assembleia Regional da Madeira, nos termos do n.º 1 do artigo 228.º e da alínea e) do n.º 1 do artigo 229.º da Constituição, o seguinte:"
+  },
+  "45323375": {
+   "fragment_id": "35388175",
+   "type": 13,
+   "heading": "Título I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Princípios gerais"
+  },
+  "45323475": {
+   "fragment_id": "36708875",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O arquipélago da Madeira, composto pelas ilhas da Madeira, do Porto Santo, Desertas, Selvagens e seus ilhéus, constitui uma região autónoma da República Portuguesa, dotada de personalidade jurídica de direito público.\n\n2 - A Região Autónoma da Madeira abrange ainda o mar circundante e seus fundos, definidos como águas territoriais e zona económica exclusiva, nos termos da lei."
+  },
+  "45323575": {
+   "fragment_id": "36708975",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A autonomia política, administrativa e financeira da Região Autónoma da Madeira não afecta a integridade da soberania do Estado e exerce-se no quadro da Constituição e do seu Estatuto.\n\n2 - A autonomia da Região Autónoma da Madeira visa a participação democrática dos cidadãos, o desenvolvimento económico e social integrado do arquipélago e a promoção e defesa dos valores e interesses do seu povo, bem como o reforço da unidade nacional e dos laços de solidariedade entre todos os portugueses."
+  },
+  "45323675": {
+   "fragment_id": "36709075",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - São órgãos de governo próprio da Região a Assembleia Legislativa Regional e o Governo Regional.\n\n2 - As instituições autonómicas regionais assentam na vontade dos cidadãos, democraticamente expressa, e participam no exercício do poder político nacional."
+  },
+  "45323775": {
+   "fragment_id": "36709175",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A representação da Região cabe aos respectivos órgãos de governo próprio.\n\n2 - No âmbito das competências dos órgãos regionais, a execução dos actos legislativos no território da Região é assegurada pelo Governo Regional."
+  },
+  "45323875": {
+   "fragment_id": "36709275",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - A Região tem bandeira, brasão de armas, selo e hino próprios, aprovados pela Assembleia Legislativa Regional.\n\n2 - Os símbolos regionais são utilizados nas instalações e actividades dependentes dos órgãos de governo próprio da Região ou por estes tutelados.\n\n3 - Os símbolos regionais são utilizados conjuntamente com os correspondentes símbolos nacionais e com salvaguarda da precedência e do destaque que a estes são devidos, nos termos da lei."
+  },
+  "45323975": {
+   "fragment_id": "36709375",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA soberania da República Portuguesa é especialmente representada na Região por um Ministro da República, nos termos definidos na Constituição."
+  },
+  "45324075": {
+   "fragment_id": "36709475",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA organização judiciária nacional tomará em conta as necessidades próprias da Região."
+  },
+  "45324175": {
+   "fragment_id": "36709575",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - A Região exerce poder tributário próprio nos termos da lei e dispõe das receitas fiscais nela cobradas, bem como de outras que lhe sejam atribuídas, nomeadamente as geradas no seu espaço territorial.\n\n2 - Nos termos da Constituição, a Região tem sistema fiscal próprio resultante da adaptação do sistema fiscal nacional às especificidades regionais.\n\n3 - Nos termos da Constituição, o sistema fiscal regional será estruturado por forma a assegurar a correcção das desigualdades derivadas da insularidade, a justa repartição da riqueza e dos rendimentos e a concretização de uma política de desenvolvimento económico e de justiça social."
+  },
+  "45324275": {
+   "fragment_id": "35388275",
+   "type": 13,
+   "heading": "Título II — Órgãos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Órgãos regionais"
+  },
+  "45324375": {
+   "fragment_id": "36709675",
+   "type": 1,
+   "heading": "Capítulo I — Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Assembleia Legislativa Regional"
+  },
+  "45324475": {
+   "fragment_id": "38327075",
+   "type": 8,
+   "heading": "Secção I — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Composição"
+  },
+  "45324575": {
+   "fragment_id": "39862875",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Assembleia Legislativa Regional é composta por deputados eleitos por sufrágio universal, directo e secreto, de harmonia com o princípio da representação proporcional e por círculos eleitorais."
+  },
+  "45324675": {
+   "fragment_id": "39862975",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Cada município constitui um círculo eleitoral, designado pelo respectivo nome.\n\n2 - Cada um dos círculos referidos no número anterior elege um deputado por cada 3500 eleitores recenseados, ou fracção superior a 1750."
+  },
+  "45324775": {
+   "fragment_id": "39863075",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSão eleitores nos círculos referidos no n.º 1 do artigo anterior os cidadãos portugueses inscritos no recenseamento eleitoral da respectiva área."
+  },
+  "45324875": {
+   "fragment_id": "39863175",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSão elegíveis os cidadãos portugueses eleitores, salvas as restrições que a lei estabelecer, desde que tenham residência habitual na Região."
+  },
+  "45324975": {
+   "fragment_id": "39863275",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs incapacidades eleitorais, activas e passivas, são as que constem da lei geral."
+  },
+  "45325075": {
+   "fragment_id": "39863375",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Os deputados são eleitos para um mandato de quatro anos.\n\n2 - Em caso de dissolução da Assembleia Legislativa Regional, as eleições têm lugar no prazo máximo de 90 dias e para uma nova legislatura."
+  },
+  "45325175": {
+   "fragment_id": "39863475",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - Os deputados são eleitos por listas apresentadas pelos partidos políticos, isoladamente ou em coligação, concorrentes em cada círculo eleitoral, e contendo um número de candidatos efectivos igual ao dos mandatos atribuídos ao respectivo círculo, além de suplentes no mesmo número, mas nunca inferior a três.\n\n2 - As listas podem integrar cidadãos não inscritos nos correspondentes partidos.\n\n3 - Ninguém pode ser candidato por mais de um círculo eleitoral ou figurar em mais de uma lista.\n\n4 - No apuramento dos resultados aplica-se, dentro de cada círculo, o sistema da representação proporcional e o método da média mais alta de Hondt.\n\n5 - Os mandatos que couberem a cada lista são conferidos aos respectivos candidatos pela ordem de precedência indicada na declaração de candidatura."
+  },
+  "45325275": {
+   "fragment_id": "39863575",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - O preenchimento das vagas que ocorrerem na Assembleia Legislativa Regional, bem como a substituição temporária de deputados legalmente impedidos do exercício de funções, são assegurados, segundo a ordem de preferência referida no n.º 5 do artigo anterior, pelos candidatos não eleitos da respectiva lista.\n\n2 - Se da lista já não constarem mais candidatos, não há lugar ao preenchimento da vaga ou à substituição."
+  },
+  "45325375": {
+   "fragment_id": "39863675",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - A Assembleia Legislativa Regional reúne por direito próprio no 15.º dia posterior ao apuramento dos resultados eleitorais.\n\n2 - A Assembleia Legislativa Regional verifica os poderes dos seus membros e elege a respectiva Mesa."
+  },
+  "45325475": {
+   "fragment_id": "38327175",
+   "type": 8,
+   "heading": "Secção II — Estatuto dos deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Estatuto dos deputados"
+  },
+  "45325575": {
+   "fragment_id": "39863775",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs deputados representam toda a Região, e não os círculos por que tiverem sido eleitos."
+  },
+  "45325675": {
+   "fragment_id": "39863875",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - Constituem poderes dos deputados:\n\na) Apresentar projectos que respeitem à iniciativa legislativa da Assembleia Legislativa Regional e projectos de decreto legislativo regional;\n\nb) Apresentar propostas de alteração e de resolução, bem como propostas de deliberação;\n\nc) Apresentar propostas de moção;\n\nd) Requerer e obter do Governo Regional ou dos órgãos de qualquer entidade pública regional os elementos, informações e publicações oficiais que considerem úteis para o exercício do seu mandato;\n\ne) Formular perguntas ao Governo Regional sobre quaisquer actos deste ou da administração pública regional;\n\nf) Provocar, por meio de interpelação ao Governo Regional, a abertura de dois debates em cada sessão legislativa sobre assuntos de política regional;\n\ng) Requerer a constituição de comissões parlamentares regionais de inquérito;\n\nh) Requerer a declaração de inconstitucionalidade ou de ilegalidade com força obrigatória geral nos termos da alínea g) do n.º 2 do artigo 281.º da Constituição;\n\ni) Os demais consignados no Regimento.\n\n2 - Os deputados não podem apresentar projectos de decreto legislativo regional ou propostas de alteração que envolvam aumento das despesas ou diminuição das receitas da Região previstas no Orçamento.\n\n3 - Os deputados subscritores de uma proposta de moção de censura ao Governo Regional que não tenha sido aprovada não poderão subscrever outra durante a mesma sessão legislativa.\n\n4 - Os poderes referidos nas alíneas c), f) e g) do n.º 1 só podem ser exercidos pelos grupos parlamentares.\n\n5 - É aplicável à Assembleia Legislativa Regional e respectivos grupos parlamentares, com as necessárias adaptações, o disposto nas seguintes normas da Constituição:\n\na) Alínea c) do artigo 178;\n\nb) N.os 1, 2 e 3 do artigo 181.º;\n\nc) Artigo 182.º, com excepção do disposto nas alíneas e) e f) do n.º 3 e no n.º 4;\n\nd) Artigo 183.º, com excepção do disposto na alínea b) do n.º 2.\n\n6 - As presidências das comissões são, no conjunto, repartidas pelos grupos parlamentares em proporção com o número dos seus deputados através da aplicação do método da média mais alta de Hondt.\n\n7 - Os partidos políticos representados na Assembleia Legislativa Regional e que não façam parte do Governo Regional gozam, designadamente, do direito de ser informados pelo Governo Regional sobre o andamento dos principais assuntos de interesse público, para além dos direitos da oposição consignados na lei."
+  },
+  "45325775": {
+   "fragment_id": "39863975",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - Os deputados não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções.\n\n2 - Nenhum deputados pode ser detido ou preso sem autorização da Assembleia Legislativa Regional, salvo por crime punível com pena superior a três anos e em flagrante delito.\n\n3 - Movido procedimento criminal contra algum deputado, e acusado este definitivamente, salvo no caso de crime punível com a pena referida no número anterior, a Assembleia Legislativa Regional decidirá se o deputado deve ou não ser suspenso para efeito de seguimento do processo."
+  },
+  "45325875": {
+   "fragment_id": "39864075",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - Os deputados não podem ser jurados, peritos ou testemunhas sem autorização da Assembleia Legislativa Regional, durante o período de funcionamento efectivo desta.\n\n2 - A falta de deputados por causa de reuniões ou missões da Assembleia Legislativa Regional a actos ou diligências oficiais a ela estranhos constitui sempre motivo justificado de adiamento destes, sem qualquer encargo."
+  },
+  "45325975": {
+   "fragment_id": "39864175",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs deputados gozam dos seguintes direitos e regalias:\n\na) Adiamento do serviço militar, do serviço cívico ou da mobilização civil;\n\nb) Livre trânsito em local público de acesso condicionado, no exercício das suas funções ou por causa delas;\n\nc) Cartão especial de identificação e passaporte especial;\n\nd) Subsídios e outras regalias que a lei prescreva."
+  },
+  "45326075": {
+   "fragment_id": "39864275",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1 - Os deputados não podem ser prejudicados na sua colocação, no seu emprego permanente ou nos seus benefícios sociais por causa do desempenho do mandato.\n\n2 - O desempenho do mandato conta como tempo de serviço para todos os efeitos.\n\n3 - É facultado aos deputados o regime de afectação permanente durante o exercício do seu mandato.\n\n4 - No caso de exercício temporário de funções por virtude de lei ou contrato, o desempenho do mandato de deputado suspende a contagem do respectivo prazo."
+  },
+  "45326175": {
+   "fragment_id": "39864375",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - Os deputados beneficiam do regime de segurança social aplicável aos funcionários públicos.\n\n2 - No caso de algum deputado optar pelo regime de providência da sua actividade profissional, cabe à Assembleia Legislativa Regional a satisfação dos encargos que corresponderiam à respectiva entidade patronal."
+  },
+  "45326275": {
+   "fragment_id": "39864475",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nConstituem deveres dos deputados:\n\na) Comparecer às reuniões plenárias e às comissões a que pertençam;\n\nb) Desempenhar os cargos da Assembleia Legislativa Regional e as funções para que forem designados, nomeadamente sob proposta dos respectivos grupos ou representações parlamentares;\n\nc) Participar nas votações;\n\nd) Respeitar a dignidade da Assembleia Legislativa Regional e de todos os que nela têm assento;\n\ne) Observar o Regimento."
+  },
+  "45326375": {
+   "fragment_id": "39864575",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1 - Perdem o mandato os deputados que:\n\na) Incorrerem em qualquer das incapacidades ou incompatibilidades previstas na lei;\n\nb) Sem motivo justificado não tomarem assento na Assembleia Legislativa Regional até à quinta reunião, deixarem de comparecer a 5 reuniões consecutivas do Plenário ou das comissões ou derem 10 faltas interpoladas na mesma sessão legislativa;\n\nc) Se inscreverem, se candidatarem ou assumirem funções em partido diverso daquele pelo qual foram apresentados a sufrágio;\n\nd) Forem judicialmente condenados por participação em organização de ideologia fascista.\n\n2 - A perda do mandato será declarada pelo Presidente da Assembleia Legislativa Regional, ouvidos o deputado e a Mesa, sem prejuízo do direito de recurso para o Plenário.\n\n3 - Os deputados podem renunciar ao mandato mediante declaração escrita."
+  },
+  "45326475": {
+   "fragment_id": "39864675",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nSem prejuízo de outras incompatibilidades previstas na lei, os deputados que desempenharem cargos de titulares de órgão de soberania ou de órgão de governo próprio de região autónoma não poderão exercer o seu mandato até à cessação dessas funções."
+  },
+  "45326575": {
+   "fragment_id": "39864775",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nA Assembleia Legislativa Regional adaptará, em função do interesse específico da Região, o estatuto remuneratório dos deputados à Assembleia da República aos deputados àquela Assembleia."
+  },
+  "45326675": {
+   "fragment_id": "38327275",
+   "type": 8,
+   "heading": "Secção III — Poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Poderes"
+  },
+  "45326775": {
+   "fragment_id": "39864875",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1 - Compete à Assembleia Legislativa Regional:\n\na) Elaborar as propostas de alteração do Estatuto Político-Administrativo da Região, bem como emitir parecer sobre a respectiva rejeição ou sobre a introdução de alterações pela Assembleia da República, nos termos do artigo 228.º da Constituição;\n\nb) Exercer iniciativa legislativa, mediante a apresentação de propostas de lei ou de alteração à Assembleia da República, bem como requerer a declaração de urgência do respectivo processamento;\n\nc) Legislar, com respeito da Constituição e das leis gerais da República, em matérias de interesse específico para a Região que não estejam reservadas à competência própria dos órgãos de soberania;\n\nd) Legislar, sob autorização da Assembleia da República e com respeito da Constituição, em matérias de interesse específico para a Região que não estejam reservadas à competência própria dos órgãos de soberania;\n\ne) Desenvolver, em função do interesse específico da Região, as leis de bases em matérias não reservadas à competência da Assembleia da República, bem como as previstas nas alíneas f), g), n), v) e x) do n.º 1 do artigo 168.º da Constituição;\n\nf) Exercer poder tributário próprio nos termos do presente Estatuto e da lei;\n\ng) Definir actos ilícitos de mera ordenação social e respectivas sanções, sem prejuízo do disposto na alínea d) do n.º 1 do artigo 168.º da Constituição;\n\nh) Criar e extinguir autarquias locais, bem como modificar a respectiva área, nos termos da lei;\n\ni) Elevar povoações à categoria de vilas ou cidades;\n\nj) Criar serviços públicos personalizados, institutos e fundos públicos;\n\nl) Fazer regulamentos para adequada execução das leis gerais provindas dos órgãos de soberania, que não reservem para estes o respectivo poder regulamentar;\n\nm) Aprovar o Programa do Governo Regional;\n\nn) Aprovar o Plano regional;\n\no) Aprovar o Orçamento regional;\n\np) Autorizar o Governo Regional a realizar empréstimos internos e outras operações de crédito que não sejam de dívida flutuante, estabelecendo as respectivas condições gerais, com observância dos limites máximos de endividamento regional;\n\nq) Aprovar as contas da Região respeitantes a cada ano económico;\n\nr) Vigiar pelo cumprimento do Estatuto e das leis e apreciar os actos do Governo e da administração pública regional;\n\ns) Votar moções de confiança e de censura ao Governo Regional;\n\nt) Pronunciar-se, por sua iniciativa ou sob consulta dos órgãos de soberania, relativamente às questões da competência destes que respeitarem à Região;\n\nu) Solicitar ao Tribunal Constitucional declaração de inconstitucionalidade de normas emanadas dos órgãos de soberania por violação de direitos da Região;\n\nv) Solicitar ao Tribunal Constitucional a declaração da ilegalidade de qualquer norma de diploma emanado dos órgãos de soberania, com fundamento em violação dos direitos previstos no Estatuto;\n\nx) Elaborar o seu Regimento;\n\nz) Adaptar o sistema fiscal nacional às especificidades regionais, nos termos de lei quadro da Assembleia da República;\n\naa) Eleger personalidades para quaisquer cargos que, por lei, lhe caiba designar;\n\nbb) Desempenhar as demais funções que lhe sejam atribuídas pela Constituição ou pela lei.\n\n2 - As leis gerais da República podem admitir, caso a caso, a sua própria adaptação pela Assembleia Legislativa Regional em função do interesse específico da Região.\n\n3 - As propostas de lei de autorização devem ser acompanhadas do anteprojecto do decreto legislativo regional a autorizar, aplicando-se às correspondentes leis de autorização o disposto nos n.os 2 e 3 do artigo 168.º da Constituição.\n\n4 - As autorizações referidas no número anterior caducam com o termo da legislatura ou com a dissolução quer da Assembleia da República quer da Assembleia Legislativa Regional.\n\n5 - Os decretos legislativos regionais previstos nas alíneas d) e e) do n.º 1 deste artigo devem invocar expressamente as respectivas leis de autorização ou leis de bases, sendo aplicável aos primeiros o disposto no artigo 172.º da Constituição com as necessárias adaptações.\n\n6 - Para efeitos da alínea f) do n.º 1 deste artigo, compete especialmente à Assembleia Legislativa Regional:\n\na) Estabelecer, quando o interesse específico da Região o justificar, condições complementares de incidência, taxas, benefícios fiscais e garantias dos contribuintes, de harmonia com lei quadro da Assembleia da República de adaptação do sistema fiscal nacional à Região;\n\nb) Legislar, para além do disposto na alínea anterior, sobre impostos e taxas vigentes apenas na Região."
+  },
+  "45326875": {
+   "fragment_id": "39864975",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nSem prejuízo das obrigações assumidas por Portugal, enquanto Estado membro das Comunidades Europeias, constituem matérias de interesse específico para a Região, designadamente:\n\na) Política demográfica, estatuto dos residentes e política de emigração;\n\nb) Tutela sobre as autarquias locais e sua demarcação territorial;\n\nc) Orientação, direcção, coordenação e fiscalização dos serviços e institutos públicos e das empresas nacionalizadas ou públicas que exerçam a sua actividade exclusiva ou predominantemente na Região e noutros casos em que o interesse regional o justifique;\n\nd) Transportes terrestres, marítimos e aéreos entre ilhas, incluindo escalas e tarifas;\n\ne) Administração de portos e aeroportos, incluindo impostos e taxas portuárias e aeroportuárias;\n\nf) Pescas;\n\ng) Agricultura, silvicultura e pecuária;\n\nh) Regime jurídico de exploração da terra, incluindo arrendamento rural;\n\ni) Política de solos, ordenamento do território, equilíbrio ecológico e litoral marítimo;\n\nj) Recursos hídricos, minerais e termais;\n\nl) Energia de produção local;\n\nm) Saúde e segurança social;\n\nn) Trabalho, emprego e formação profissional;\n\no) Educação pré-escolar, ensino básico, secundário, superior e especial;\n\np) Classificação, protecção e valorização do património cultural;\n\nq) Museus, bibliotecas e arquivos;\n\nr) Espectáculos e divertimentos públicos;\n\ns) Desportos;\n\nt) Turismo e hotelaria;\n\nu) Artesanato e folclore;\n\nv) Expropriação por utilidade pública de bens situados na Região, bem como requisição civil, nos termos da lei;\n\nx) Obras públicas e equipamento social, nomeadamente estradas;\n\nz) Habitação e urbanismo;\n\naa) Comunicação social;\n\nbb) Comércio interno e externo e abastecimentos;\n\ncc) Investimento directo estrangeiro e transferências de tecnologia;\n\ndd) Mobilização de poupanças formadas na Região com vista ao financiamento dos investimentos nela efectuados;\n\nee) Desenvolvimento industrial;\n\nff) Adaptação do sistema fiscal à realidade económica regional;\n\ngg) Concessão de benefícios fiscais;\n\nhh) Articulação do Serviço Regional de Protecção Civil com as competentes entidades nacionais;\n\nii) Estatística regional;\n\njj) Cooperação e diálogo inter-regional nos termos da alínea t) do n.º 1 do artigo 229.º da Constituição."
+  },
+  "45326975": {
+   "fragment_id": "39865075",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1 - Revestem a forma de decreto legislativo regional os actos previstos nas alíneas c), d), e), f), g), h), i), j), l), o) e z) do n.º 1 do artigo 29.º\n\n2 - Revestem a forma de moção os actos previstos nas alíneas m) e t) do n.º 1 do artigo 29.º\n\n3 - Os restantes actos previstos no artigo 29.º revestem a forma de resolução.\n\n4 - São publicados no Diário da República os actos previstos neste artigo."
+  },
+  "45327075": {
+   "fragment_id": "39865175",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1 - Os decretos da Assembleia Legislativa Regional são enviados ao Ministro da República para serem assinados e mandados publicar.\n\n2 - Se entender que o diploma é inconstitucional, o Ministro da República poderá, no prazo de oito dias a contar da sua recepção, requerer ao Tribunal Constitucional a apreciação preventiva da constitucionalidade de qualquer norma constante de decreto legislativo regional ou de decreto regulamentar de lei geral da República que lhe tenham sido enviados para assinatura, devendo o Tribunal Constitucional pronunciar-se no prazo de 25 dias.\n\n3 - No prazo de 15 dias contados da recepção de qualquer decreto da Assembleia Legislativa Regional que lhe haja sido enviado para assinatura, ou da publicação da decisão do Tribunal Constitucional que não se pronuncie pela inconstitucionalidade de norma dele constante, deve o Ministro da República assiná-lo ou exercer o direito de veto, solicitando nova apreciação do diploma em mensagem fundamentada.\n\n4 - Se a Assembleia Legislativa Regional confirmar o voto por maioria absoluta dos seus membros em efectividade de funções, o Ministro da República deve assinar o diploma no prazo de oito dias a contar da sua recepção."
+  },
+  "45327175": {
+   "fragment_id": "39865275",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nO Tribunal Constitucional, nos termos do artigo 281.º da Constituição, aprecia e declara com força obrigatória geral:\n\na) A inconstitucionalidade de quaisquer normas com fundamento em violação dos direitos da Região;\n\nb) A ilegalidade de quaisquer normas constantes de diploma regional, com fundamento em violação do Estatuto da Região ou de lei geral da República;\n\nc) A ilegalidade de quaisquer normas constantes de diploma emanado de órgãos de soberania com fundamento em violação dos direitos da Região consagrados no Estatuto."
+  },
+  "45327275": {
+   "fragment_id": "38327375",
+   "type": 8,
+   "heading": "Secção IV — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Funcionamento"
+  },
+  "45327375": {
+   "fragment_id": "39865375",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1 - O Plenário da Assembleia Legislativa Regional reúne em sessão ordinária de 2 de Novembro a 31 de Julho do ano seguinte.\n\n2 - O Plenário da Assembleia Legislativa Regional é convocado extraordinariamente por iniciativa do Presidente ou da Comissão Permanente, a solicitação de qualquer grupo parlamentar ou do Governo Regional.\n\n3 - A iniciativa legislativa compete aos deputados e ao Governo Regional."
+  },
+  "45327475": {
+   "fragment_id": "39865475",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1 - A Assembleia Legislativa Regional funciona em plenário e em comissões.\n\n2 - As reuniões plenárias são públicas e as das comissões podem ou não sê-lo.\n\n3 - Pode ser exercida por comissão em que se encontrem representados todos os partidos com assento na Assembleia Legislativa Regional a competência referida na alínea t) do n.º 1 do artigo 29.º\n\n4 - As comissões funcionam validamente com a presença da maioria dos seus membros, podendo solicitar a participação de membros do Governo Regional nos seus trabalhos, ou o depoimento de qualquer cidadão, que pode prestá-lo por escrito se não residir na Região.\n\n5 - É publicado um Diário das Sessões, com o relato integral das reuniões plenárias da Assembleia Legislativa Regional.\n\n6 - Das reuniões das comissões são lavradas actas."
+  },
+  "45327575": {
+   "fragment_id": "39865575",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1 - A Assembleia Legislativa Regional considera-se constituída em reunião plenária achando-se presente a maioria do número legal dos seus membros.\n\n2 - A Assembleia Legislativa Regional pode, por sua iniciativa ou a solicitação do Governo Regional, declarar a urgência de qualquer projecto ou proposta de decreto legislativo regional, bem como de anteproposta de lei, que seguirão a tramitação especialmente definida no Regimento.\n\n3 - Os membros do Governo Regional têm assento nas reuniões da Assembleia Legislativa Regional e o direito ao uso da palavra para efeitos de apresentação de comunicação ou prestação de esclarecimentos, de acordo com o Regimento."
+  },
+  "45327675": {
+   "fragment_id": "36709775",
+   "type": 1,
+   "heading": "Capítulo II — Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Governo Regional"
+  },
+  "45327775": {
+   "fragment_id": "38327475",
+   "type": 8,
+   "heading": "Secção I — Constituição e responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Constituição e responsabilidade"
+  },
+  "45327875": {
+   "fragment_id": "39865675",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nO Governo Regional é o órgão de condução da política regional e o órgão superior da administração pública regional."
+  },
+  "45327975": {
+   "fragment_id": "39865775",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1 - O Governo Regional é formado pelo Presidente e pelos secretários regionais, bem como por vice-presidentes e por subsecretários regionais, caso existam.\n\n2 - O número, a designação e as atribuições dos membros do Governo Regional são fixados no diploma de nomeação.\n\n3 - As bases da orgânica dos departamentos governamentais são estabelecidas por decreto legislativo regional."
+  },
+  "45328075": {
+   "fragment_id": "39865875",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1 - O Presidente do Governo Regional é nomeado pelo Ministro da República, tendo em conta os resultados das eleições para a Assembleia Legislativa Regional e ouvidos os partidos políticos nela representados.\n\n2 - Os restantes membros do Governo Regional são nomeados e exonerados pelo Ministro da República, sob proposta do Presidente do Governo Regional."
+  },
+  "45328175": {
+   "fragment_id": "39865975",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nO Governo Regional é politicamente responsável perante a Assembleia Legislativa Regional."
+  },
+  "45328275": {
+   "fragment_id": "39866075",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1 - O Programa do Governo Regional é apresentado à Assembleia Legislativa Regional, no prazo máximo de 30 dias a contar do acto de posse do Prseidente do Governo Regional, sob a forma de moção de confiança.\n\n2 - Se o Plenário da Assembleia Legislativa Regional não se encontrar em funcionamento, é obrigatoriamente convocado para o efeito pelo Presidente."
+  },
+  "45328375": {
+   "fragment_id": "39866175",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1 - Independentemente do disposto no n.º 1 do artigo anterior, o Governo Regional pode solicitar, por uma ou mais vezes, à Assembleia Legislativa Regional a aprovação de um voto de confiança sobre qualquer assunto de relevante interesse para a Região, sobre a sua actuação ou sobre uma declaração de política geral.\n\n2 - A recusa de aprovação de propostas de decreto legislativo regional apresentadas pelo Governo Regional não envolve, de per si, recusa de confiança."
+  },
+  "45328475": {
+   "fragment_id": "39866275",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1 - Por iniciativa dos grupos parlamentares pode a Assembleia Legislativa Regional votar moções de censura ao Governo Regional sobre a execução do seu programa ou assunto relevante de interesse regional.\n\n2 - As moções de censura não podem ser apreciadas antes de decorridos sete dias após a sua apresentação.\n\n3 - Se uma moção de censura não for aprovada, os seus subscritores não podem apresentar outra durante a mesma sessão legislativa."
+  },
+  "45328575": {
+   "fragment_id": "39866375",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1 - Implicam a demissão do Governo Regional:\n\na) O início de nova legislatura;\n\nb) A apresentação, pelo Presidente do Governo Regional, do pedido de exoneração;\n\nc) A morte ou impossibilidade física duradoura do Presidente do Governo Regional;\n\nd) A aprovação de uma moção de censura por maioria absoluta dos deputados em efectividade de funções.\n\n2 - Em caso de demissão, os membros do Governo Regional cessante permanecem em funções até à posse do novo Governo."
+  },
+  "45328675": {
+   "fragment_id": "39866475",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nAntes da aprovação do seu Programa pela Assembleia Legislativa Regional, ou após a sua demissão, o Governo Regional limitar-se-á à prática dos actos estritamente necessários para assegurar a gestão dos negócios públicos da Região."
+  },
+  "45328775": {
+   "fragment_id": "38327575",
+   "type": 8,
+   "heading": "Secção II — Estatuto dos membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Estatuto dos membros do Governo Regional"
+  },
+  "45328875": {
+   "fragment_id": "39866575",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1 - Os membros do Governo Regional são civil e criminalmente responsáveis pelos actos que praticarem ou legalizarem.\n\n2 - Movido procedimento criminal contra um membro do Governo Regional, e acusado este definitivamente, salvo no caso de crime punível com pena superior a três anos e em flagrante delito, a Assembleia Legislativa Regional decide se este deve ou não ser suspenso para efeito de seguimento do processo.\n\n3 - A falta de qualquer membro do Governo Regional, por causa das suas funções, a actos ou diligências oficiais a elas estranhos constitui sempre motivo de justificado de adiamento destes, sem qualquer encargo."
+  },
+  "45328975": {
+   "fragment_id": "39866675",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1 - Os membros do Governo Regional não podem ser prejudicados na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do desempenho das suas funções.\n\n2 - Os membros do Governo Regional estão dispensados de todas as actividades profissionais, públicas ou privadas, durante o período do exercício do cargo.\n\n3 - O desempenho da função de membro do Governo Regional conta como tempo de serviço para todos os efeitos.\n\n4 - No caso de exercício temporário de funções públicas, por virtude de lei ou contrato, a actividade de membro do Governo Regional suspende a contagem do respectivo prazo.\n\n5 - Os membros do Governo Regional não podem exercer quaisquer outras funções públicas ou privadas."
+  },
+  "45329075": {
+   "fragment_id": "39866775",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n1 - Os membros do Governo Regional gozam dos seguintes direitos e regalias:\n\na) Adiamento do serviço militar, do serviço cívico ou da mobilização civil;\n\nb) Livre trânsito em locais públicos de acesso condicionado, no exercício das suas funções ou por causa delas;\n\nc) Cartão especial de identificação e passaporte especial;\n\nd) Subsídios e outras regalias que a lei prescrever.\n\n2 - A Assembleia Legislativa adaptará, em função do interesse específico da Região, o estatuto remuneratório dos membros do Governo da República aos membros do Governo Regional."
+  },
+  "45329175": {
+   "fragment_id": "38327675",
+   "type": 8,
+   "heading": "Secção III — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Competência"
+  },
+  "45329275": {
+   "fragment_id": "39866875",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nCompete ao Governo Regional:\n\na) Conduzir a política da Região, defendendo a legalidade democrática;\n\nb) Adoptar as medidas necessárias à promoção e desenvolvimento económico e social e à satisfação das necessidades colectivas regionais;\n\nc) Aprovar as competências e a orgânica dos respectivos departamentos e serviços, em desenvolvimento das bases definidas pela Assembleia Legislativa Regional;\n\nd) Elaborar os decretos regulamentares regionais, as portarias e os regulamentos em geral, necessários à execução dos decretos legislativos e ao bom funcionamento da administração da Região;\n\ne) Dirigir os serviços e a actividade da administração regional e exercer o poder de tutela sobre as autarquias locais, nos termos da lei;\n\nf) Praticar todos os actos exigidos pela lei respeitantes aos funcionários e agentes da administração pública regional;\n\ng) Orientar, coordenar, dirigir e fiscalizar os serviços, os institutos públicos e as empresas públicas e nacionalizadas que exerçam a sua actividade exclusiva ou predominantemente na Região;\n\nh) Exercer, em matéria fiscal, os poderes referidos no artigo 68.º;\n\ni) Administrar e dispor do património regional e celebrar os actos e contratos em que a Região tenha interesse;\n\nj) Elaborar o seu Programa e apresentá-lo, para aprovação, à Assembleia Legislativa Regional;\n\nl) Apresentar à Assembleia Legislativa Regional propostas de decreto legislativo regional e antepropostas de lei;\n\nm) Elaborar a proposta de plano regional e submetê-la aprovação da Assembleia Legislativa Regional;\n\nn) Elaborar a proposta de orçamento regional e submetê-la à aprovação da Assembleia Legislativa Regional;\n\no) Apresentar à Assembleia Legislativa Regional as contas da Região;\n\np) Coordenar o Plano e o Orçamento regionais e velar pela sua boa execução;\n\nq) Participar na elaboração dos planos nacionais;\n\nr) Participar na negociação de tratados e acordos internacionais que digam directamente respeito à Região;\n\ns) Participar na definição das políticas respeitantes às águas territoriais, à zona económica exclusiva e aos fundos marinhos contíguos;\n\nt) Proceder à requisição civil, nos termos da lei;\n\nu) Pronunciar-se, por sua iniciativa ou sob consulta dos órgãos de soberania, relativamente às questões da competência destes que respeitarem à Região;\n\nv) Orientar a cooperação inter-regional;\n\nx) Emitir passaportes, nos termos da lei;\n\nz) Exercer as demais funções executivas ou outras previstas no presente Estatuto ou na lei."
+  },
+  "45329375": {
+   "fragment_id": "39866975",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n1 - Revestem a forma de decreto regulamentar regional os actos do Governo Regional previstos na alínea c) do artigo anterior, quando tal seja determinado por decreto legislativo regional ou se trate de regulamentos independentes.\n\n2 - Todos os actos do Governo Regional e dos seus membros devem ser publicados no Jornal Oficial da Região, nos termos definidos por decreto legislativo regional.\n\n3 - Os decretos regulamentares regionais devem ainda ser publicados no Diário da República."
+  },
+  "45329475": {
+   "fragment_id": "39867075",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\n1 - Os decretos regulamentares regionais são enviados ao Ministro da República para serem assinados e mandados publicar.\n\n2 - No prazo de 20 dias contados da recepção de qualquer decreto do Governo Regional que lhe tenha sido enviado para assinatura, deve o Ministro da República assiná-lo ou recusar a assinatura, comunicando por escrito o sentido desta recusa ao Governo Regional, o qual poderá converter o decreto em proposta a apresentar à Assembleia Legislativa Regional."
+  },
+  "45329575": {
+   "fragment_id": "38327775",
+   "type": 8,
+   "heading": "Secção IV — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Funcionamento"
+  },
+  "45329675": {
+   "fragment_id": "39867175",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\n1 - A orientação geral do Governo Regional é definida pelo Conselho do Governo Regional.\n\n2 - Constituem o Conselho do Governo Regional o Presidente, os vice-presidentes, quando existam, e os secretários regionais."
+  },
+  "45329775": {
+   "fragment_id": "39867275",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1 - O Governo Regional reúne sempre que convocado pelo Presidente.\n\n2 - Podem ser convocados para as reuniões do Conselho do Governo Regional os subsecretários, quando a natureza dos assuntos em apreciação o justifique.\n\n3 - Podem realizar-se reuniões restritas do Governo Regional sempre que a natureza da meteria em apreciação o justifique.\n\n4 - De cada reunião é lavrada acta."
+  },
+  "45329875": {
+   "fragment_id": "39867375",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\n1 - O Presidente do Governo Regional representa o Governo Regional, coordena o exercício das funções deste, convoca e dirige as respectivas reuniões.\n\n2 - O Presidente do Governo Regional pode ter a seu cargo qualquer dos departamentos regionais.\n\n3 - Nas suas ausências e impedimentos o Presidente é substituído pelo vice-presidente por si designado.\n\n4 - Não existindo vice-presidente, ou verificando-se igualmente a sua ausência ou impedimento, o Presidente é substituído pelo secretário regional por si designado.\n\n5 - Durante a vacatura do cargo, as funções de Presidente do Governo Regional são asseguradas pelo Presidente da Assembleia Legislativa Regional."
+  },
+  "45329975": {
+   "fragment_id": "39867475",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\n1 - Os departamentos regionais denominam-se secretarias regionais e são dirigidos por um secretário regional, sem prejuízo do disposto no n.º 2 do artigo anterior.\n\n2 - Os subsecretários regionais têm os poderes que lhes sejam delegados pelos respectivos secretários regionais."
+  },
+  "45330075": {
+   "fragment_id": "35388375",
+   "type": 13,
+   "heading": "Título III — Disposições especiais sobre as relações entre os órgãos de soberania e os órgãos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Disposições especiais sobre as relações entre os órgãos de soberania e os órgãos regionais"
+  },
+  "45330175": {
+   "fragment_id": "36709875",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n1 - Tendo em vista o exercício efectivo dos direitos de audição e participação conferidos à Região, o Governo da República e o Governo Regional podem elaborar protocolos de colaboração permanente sobre matéria de interesse comum ao Estado e à Região, designadamente sobre:\n\na) Situação económica e financeira nacional;\n\nb) Definição das políticas fiscal, monetária e financeira;\n\nc) Trabalhos preparatórios, acordos, tratados e textos de direito internacional;\n\nd) Benefícios decorrentes de tratados ou de acordos internacionais que digam directamente respeito à Região;\n\ne) Emissão de empréstimos internos;\n\nf) Prestação de apoios técnicos."
+  },
+  "45330275": {
+   "fragment_id": "36709975",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\nConstituem, designadamente, matérias de direito internacional, geral ou comum, respeitando directamente à Região, para efeitos do artigo anterior:\n\na) Utilização do território regional por entidades estrangeiras, em especial para bases militares;\n\nb) Protocolos celebrados com a NATO e outras organizações internacionais, em especial sobre instalações de natureza militar ou paramilitar;\n\nc) Participação de Portugal nas Comunidades Europeias;\n\nd) Lei do mar;\n\ne) Utilização da zona económica exclusiva;\n\nf) Plataforma continental;\n\ng) Poluição do mar;\n\nh) Conservação e exploração de espécies vivas;\n\ni) Navegação aérea;\n\nj) Exploração do espaço aéreo controlado."
+  },
+  "45330375": {
+   "fragment_id": "36710075",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nA participação nas negociações de tratados e acordos que interessem especificamente à Região realiza-se através de representação efectiva na delegação nacional que negociar o tratado ou o acordo, bem como nas respectivas comissões de execução ou fiscalização."
+  },
+  "45330475": {
+   "fragment_id": "35388475",
+   "type": 13,
+   "heading": "Título IV — Administração pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Administração pública regional"
+  },
+  "45330575": {
+   "fragment_id": "36710175",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\n1 - Os órgãos regionais podem criar os serviços e os institutos públicos que se mostrem necessários à administração da Região.\n\n2 - A organização administrativa regional deve reger-se pelos princípios da descentralização e da desconcentração de serviços."
+  },
+  "45330675": {
+   "fragment_id": "36710275",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\n1 - Haverá quadros regionais de funcionalismo nos diversos departamentos dependentes do Governo Regional e quadros únicos interdepartamentais nos serviços, funções e categorias em que tal seja conveniente.\n\n2 - A capacidade para o exercício de funções públicas nos serviços regionais, o regime de aposentação e o estatuto disciplinar são os definidos na lei geral.\n\n3 - As habilitações literárias, a formação técnica e o regime de quadros e carreiras dos funcionários dos serviços regionais regem-se pelos princípios fundamentais estabelecidos para os funcionaários do Estado.\n\n4 - O número e a dimensão dos quadros regionais devem obedecer a critérios de economia de meios, de qualificação e de eficiência profissional.\n\n5 - A legislação sobre o regime da função pública procurará ter em conta as condicionantes da insularidade."
+  },
+  "45330775": {
+   "fragment_id": "36710375",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nÉ assegurado, em termos a regulamentar, o direito de ingresso dos funcionários e agentes nos quadros regionais dos quadros estaduais e o direito de ingresso dos funcionários e agentes do Estado nos quadros regionais, sem prejuízo dos direitos adquiridos em matéria de antiguidade e categoria profissional."
+  },
+  "45330875": {
+   "fragment_id": "35388575",
+   "type": 13,
+   "heading": "Título V — Regime económico e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Regime económico e financeiro"
+  },
+  "45330975": {
+   "fragment_id": "36710475",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "45331075": {
+   "fragment_id": "38327875",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nOs órgãos de soberania asseguram, em cooperação com os órgãos de governo próprio da Região, o desenvolvimento económico e social do arquipélago da Madeira, visando em especial a correcção das desigualdades derivadas da insularidade."
+  },
+  "45331175": {
+   "fragment_id": "38327975",
+   "type": 11,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nA Assembleia Legislativa Regional e o Governo Regional participam na definição das políticas fiscal, monetária, financeira e cambial, mediante propostas a apresentar aos órgãos de soberania, de modo a assegurarem o controlo regional dos meios de pagamento em circulação e o financiamento dos investimentos necessários ao desenvolvimento económico-social."
+  },
+  "45331275": {
+   "fragment_id": "38328075",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\n1 - A política de desenvolvimento económico da Região tem vectores de orientação específica que assentam nas características intrínsecas do arquipélago.\n\n2 - O desenvolvimento económico e social da Região deve processar-se dentro das linhas definidas pelo Plano regional, que visará o aproveitamento das potencialidades regionais e a promoção do bem-estar, do nível da qualidade de vida de todo o povo madeirense, com vista à realização dos princípios constitucionais."
+  },
+  "45331375": {
+   "fragment_id": "38328175",
+   "type": 11,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\n1 - A solidariedade nacional vincula o Estado a suportar os custos das desigualdades derivadas da insularidade, designadamente no respeitante a comunicações, transportes, educação, cultura, segurança social, saúde e energia, incentivando a progressiva inserção da Região em espaços económicos amplos, de dimensão nacional ou internacional.\n\n2 - O Estado assegura que a Região Autónoma da Madeira beneficie do apoio de todos os fundos da Comunidade Económica Europeia, nos termos do restante território nacional, tendo em conta as especificidades do arquipélago.\n\n3 - A Região beneficia na íntegra, e em plano de igualdade com o restante território nacional, da actividade dos departamentos nacionais encarregados da promoção externa do País, nomeadamente nas áreas do turismo, do comércio externo e da captação de investimentos estrangeiros.\n\n4 - Constitui serviço mínimo indispensável, a ser obrigatoriamente assegurado, em caso de greve, o transporte aéreo de passageiros entre o continente e a Madeira."
+  },
+  "45331475": {
+   "fragment_id": "38328275",
+   "type": 11,
+   "heading": "Artigo 66.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º\n\nA Região dispõe de uma zona franca industrial, de um centro de operações financeiras internacionais e de um centro exterior de registo de navios, nos termos da lei."
+  },
+  "45331575": {
+   "fragment_id": "36710575",
+   "type": 1,
+   "heading": "Capítulo II — Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Finanças"
+  },
+  "45331675": {
+   "fragment_id": "38328375",
+   "type": 8,
+   "heading": "Secção I — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Receitas e despesas"
+  },
+  "45331775": {
+   "fragment_id": "39867575",
+   "type": 11,
+   "heading": "Artigo 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º\n\nConstituem receitas da Região:\n\na) Os rendimentos do seu património;\n\nb) Todos os impostos, taxas, multas, coimas e adicionais cobrados no seu território, incluindo o imposto do selo;\n\nc) Os impostos incidentes sobre mercadorias destinadas à Região e liquidadas fora do seu território, incluindo o IVA;\n\nd) Outros impostos que devam pertencer-lhe, nos termos do presente Estatuto e da lei, nomeadamente em função do lugar da ocorrência do facto gerador da obrigação do imposto;\n\ne) Os benefícios decorrentes de tratados e acordos internacionais directamente respeitantes à Região, tal como definida no artigo 1.º deste Estatuto;\n\nf) O produto de empréstimos;\n\ng) O apoio financeiro do Estado, nomeadamente aquele a que a Região tem direito, de harmonia com o princípio da solidariedade nacional;\n\nh) O produto da emissão de selos e moedas com interesse numismático;\n\ni) Os apoios das Comunidades Europeias;\n\nj) As receitas provenientes das privatizações de acordo com o disposto na lei quadro prevista no n.º 1 do artigo 85.º da Constituição."
+  },
+  "45331875": {
+   "fragment_id": "39867675",
+   "type": 11,
+   "heading": "Artigo 68.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º\n\nAo Governo Regional cabe dispor dos impostos e taxas pertencentes à Região, competindo-lhe, em especial:\n\na) Lançar, liquidar e cobrar os referidos impostos e taxas através de serviços próprios ou recorrendo aos serviços do Estado;\n\nb) Exercer, nos demais aspectos, a posição de sujeito activo dos mesmos impostos e taxas cobradas na Região e arrecadar as receitas de outros impostos, taxas ou receitas equivalentes, nos casos em que tal resulte da lei;\n\nc) Estabelecer formas e prazos de lançamento, liquidação e cobrança dos mesmos impostos e taxas;\n\nd) Decidir, nos termos da lei, sobre a concessão de benefícios fiscais."
+  },
+  "45331975": {
+   "fragment_id": "39867775",
+   "type": 11,
+   "heading": "Artigo 69.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º\n\nO disposto, no artigo anterior não prejudica o regime financeiro das autarquias locais definido na lei a qual procurará aproximar a capitação da Região da média nacional."
+  },
+  "45332075": {
+   "fragment_id": "39867875",
+   "type": 11,
+   "heading": "Artigo 70.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º\n\nDe harmonia com o princípio da solidariedade nacional, o Estado dota a Região dos meios financeiros necessários à realização dos investimentos constantes do plano regional que excederem a sua capacidade de financiamento, de harmonia com um programa de transferência de fundos a acordar entre o Governo da República e o Governo Regional."
+  },
+  "45332175": {
+   "fragment_id": "39867975",
+   "type": 11,
+   "heading": "Artigo 71.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º\n\nAs receitas da Região são afectadas às suas despesas, segundo orçamento anual aprovado pela Assembleia Legislativa Regional, nos termos da alínea o) do n.º 1 do artigo 29.º"
+  },
+  "45332275": {
+   "fragment_id": "39868075",
+   "type": 11,
+   "heading": "Artigo 72.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º\n\n1 - Para fazer face a dificuldades de tesouraria, a Região pode levantar junto do Banco de Portugal, sem quaisquer encargos de juros, até 10% do valor correspondente ao das receitas correntes cobradas no penúltimo ano.\n\n2 - A Região pode também contrair empréstimos internos e externos a médio e longo prazo, exclusivamente destinados a financiar investimentos.\n\n3 - A contracção de empréstimos externos depende de prévia autorização da Assembleia da República."
+  },
+  "45332375": {
+   "fragment_id": "39868175",
+   "type": 11,
+   "heading": "Artigo 73.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º\n\nA apreciação da legalidade das despesas públicas é feita na Região por uma secção regional do Tribunal de Contas, nos termos da lei."
+  },
+  "45332475": {
+   "fragment_id": "39868275",
+   "type": 11,
+   "heading": "Artigo 74.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º\n\nA cobrança coerciva de dívidas à Região é efectuada nos termos da das dívidas ao Estado através do respectivo processo de execução fiscal."
+  },
+  "45332575": {
+   "fragment_id": "36710675",
+   "type": 1,
+   "heading": "Capítulo III — Bens da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Bens da Região"
+  },
+  "45332675": {
+   "fragment_id": "38328475",
+   "type": 11,
+   "heading": "Artigo 75.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º\n\nA Região tem activo e passivo próprios, competindo-lhe administrar e dispor do seu património."
+  },
+  "45332775": {
+   "fragment_id": "38328575",
+   "type": 11,
+   "heading": "Artigo 76.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º\n\n1 - Os bens do domínio público situados no arquipélago, pertencentes ao Estado, bem como ao antigo distrito autónomo, integram o domínio público da Região.\n\n2 - Exceptuam-se do domínio público regional os bens que interessem à defesa nacional e os afectos a serviços públicos não regionalizados, desde que não classificados como património cultural."
+  },
+  "45332875": {
+   "fragment_id": "38328675",
+   "type": 11,
+   "heading": "Artigo 77.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º\n\nIntegram o domínio privado da Região\n\na) Os bens do domínio privado do Estado existentes no território regional, excepto os afectos aos serviços estaduais não regionalizados;\n\nb) Os bens do domínio privado do antigo distrito autónomo;\n\nc) As coisas e os direitos afectos a serviços estaduais transferidos para a Região;\n\nd) Os bens adquiridos pela Região dentro ou fora do seu território ou que por lei lhe pertençam;\n\ne) Os bens abandonados e os que integram heranças declaradas vagas para o Estado, desde que uns e outros se situem dentro dos limites territoriais da Região."
+  },
+  "45332975": {
+   "fragment_id": "38328775",
+   "type": 11,
+   "heading": "Artigo 78.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º\n\n1 - A Região sucede nas posições contratuais emergentes de instrumentos outorgados pela Junta Geral ou pela Junta Regional da Madeira.\n\n2 - As competências, designadamente de carácter tributário, conferidas por lei à Junta Geral ou à Junta Regional da Madeira consideram-se atribuídas aos órgãos de governo próprio da Região."
+  }
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75194222:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2016-105761401",
+ "dre_path": "/dr/detalhe/lei/33-2016-75194222",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "105748874",
+    "105764975",
+    "105764976",
+    "105764977",
+    "105764978",
+    "105764979",
+    "105764980",
+    "105764981"
+   ]
+  },
+  {
+   "date": "2017-01-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105762363:por",
+     "title": "Lei n.º 2/2017",
+     "published": "2017-01-16",
+     "dre_path": "/dr/detalhe/lei/2-2017-105762363"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "105748874",
+    "105764975",
+    "105764976",
+    "105764977",
+    "105764978",
+    "105764988",
+    "105764980",
+    "105764981",
+    "105764982"
+   ]
+  }
+ ],
+ "fragments": {
+  "105748874": {
+   "fragment_id": "105761402",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 33/2016\n\nde 24 de agosto\n\nAlarga a oferta de serviços de programas na televisão digital terrestre (TDT), garantindo as condições técnicas adequadas e o controlo do preço\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "105764975": {
+   "fragment_id": "105761403",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei promove o alargamento da oferta de serviços de programas na televisão digital terrestre (TDT) em condições técnicas adequadas e com a garantia do controlo do preço da prestação do serviço de transporte e difusão do sinal de TDT."
+  },
+  "105764976": {
+   "fragment_id": "105761404",
+   "type": 11,
+   "heading": "Artigo 2.º — Interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Interesse público\n\nA difusão de serviços de comunicação social audiovisual em regime de acesso não condicionado livre através da TDT e serviço complementar, em especial a difusão dos serviços de programas do serviço público de rádio e de televisão legal e contratualmente previstos, na medida em que constitua fator de promoção do pluralismo, da diversidade, da inclusão social e da coesão nacional, assim como da cultura e da educação, assume relevante interesse público para a sociedade."
+  },
+  "105764977": {
+   "fragment_id": "105761405",
+   "type": 11,
+   "heading": "Artigo 3.º — Reserva de capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reserva de capacidade\n\n1 - Os serviços de programas de televisão licenciados e concessionados à data da entrada em vigor da presente lei mantêm o direito à utilização da capacidade de difusão no Multiplexer A (Mux A) da TDT nessa data.\n\n2 - Fica de igual modo salvaguardada, de acordo com a faculdade prevista na Lei n.º 6/97, de 1 de março, na redação da Lei n.º 36/2012, de 27 de agosto, nos termos contratuais definidos com o operador de rede, a difusão, no mesmo Mux A, do sinal de vídeo disponibilizado para o efeito pela Assembleia da República.\n\n3 - O operador de comunicações eletrónicas titular do direito de utilização de frequências (DUF) de âmbito nacional para o serviço de TDT associado à exploração do Mux A reserva capacidade de difusão para os serviços de programas temáticos do serviço público de rádio e de televisão de âmbito nacional disponibilizados em regime de acesso não condicionado por assinatura à data da entrada em vigor da presente lei.\n\n4 - A capacidade remanescente do Mux A que não possa tecnicamente acomodar outros serviços de programas de televisão e serviços complementares pode ser livremente utilizada pelo detentor do respetivo DUF."
+  },
+  "105764978": {
+   "fragment_id": "105761406",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de prestação do serviço de transporte e difusão do sinal de TDT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de prestação do serviço de transporte e difusão do sinal de TDT\n\n1 - A ANACOM - Autoridade Nacional de Comunicações fiscaliza, de modo regular ou a requerimento dos interessados, as condições técnicas de prestação do serviço de transporte e difusão do sinal de TDT, devendo para o efeito ser tida em conta a qualidade do sinal na receção.\n\n2 - A ANACOM torna públicos, logo que possível, os resultados de todas as ações de fiscalização das condições técnicas de prestação do serviço de transporte e difusão do sinal de TDT, adotando e tornando públicas as medidas necessárias para resolver de imediato as deficiências de cobertura detetadas, designadamente impondo ao operador de rede, no quadro das suas competências legais e do planeamento aprovado, a antecipação da instalação dos recursos necessários à normalização da situação.\n\n3 - O preço praticado pelo operador de comunicações eletrónicas titular do direito de utilização de frequências de âmbito nacional para o serviço básico e complementar de TDT associado à exploração do Mux A deve respeitar os princípios da transparência, não discriminação e orientação para os custos, ter como base o espaço efetivamente ocupado por cada serviço de programas de televisão e como limite o preço apresentado na proposta que venceu o respetivo concurso público.\n\n4 - O preço para o transporte e difusão do sinal dos serviços de programas regionais nas regiões autónomas é proporcionalmente reduzido em função da dimensão da rede no espaço geográfico a que respeita e não pode ultrapassar os valores praticados à data da entrada em vigor da presente lei.\n\n5 - Compete à ANACOM, de acordo com os pressupostos referidos no artigo 2.º e nos n.os 3 e 4 do presente artigo e verificados os critérios, exigidos pelo quadro normativo comunitário, para a imposição de medidas regulatórias ex ante, determinar, após audição da Autoridade da Concorrência e da Entidade Reguladora para a Comunicação Social (ERC), o preço máximo a cobrar pelo detentor do DUF associado à exploração do Mux A pela prestação do serviço de multiplexagem, transporte e difusão do sinal de cada serviço de programas.\n\n6 - A ANACOM avalia, oficiosa e anualmente, de forma rigorosa, transparente e pública, tendo em conta o disposto no n.º 3 do presente artigo e tendo por base o plano de investimentos elegíveis, a redução do valor do imobilizado e as amortizações, a necessidade de revisão dos preços praticados pela prestação do serviço de teledifusão aos operadores televisivos."
+  },
+  "105764979": {
+   "fragment_id": "105761407",
+   "type": 11,
+   "heading": "Artigo 5.º — Desenvolvimento da TDT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Desenvolvimento da TDT\n\n1 - A ANACOM e a ERC promovem conjuntamente, e apresentam à Assembleia da República, assumindo os respetivos custos, os estudos financeiros, técnicos e jurídicos que permitam uma análise sobre as diferentes possibilidades de alargamento adicional da oferta de serviços de programas na Plataforma de Televisão Digital Terrestre, devendo obrigatoriamente ter em conta as diferentes experiências europeias, incidindo, entre outros, sobre a adequação do espetro disponível para a TDT, a evolução das normas tecnológicas associadas a esta forma de difusão, a opção por transmissão em alta definição (HD), o regime e procedimento de adjudicação de licenças e a garantia de transmissão dos restantes serviços de programas do serviço público, no prazo de 180 dias a contar da data da entrada em vigor da presente lei.\n\n2 - As entidades externas especializadas que venham a ser contratadas para o efeito do disposto nos números anteriores são selecionadas por concurso público, de acordo com regulamento aprovado, após consulta da ANACOM e da ERC, pela Assembleia da República."
+  },
+  "105764980": {
+   "fragment_id": "105761408",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma transitória\n\n1 - A ANACOM promove, tendo em conta o disposto no artigo 4.º, nos 30 dias posteriores à data da entrada em vigor da presente lei, as necessárias alterações ao título do direito de utilização de frequências detido pelo operador da rede digital terrestre, tendo em vista acomodar as alterações decorrentes da presente lei.\n\n2 - O operador de comunicações eletrónicas titular do direito de utilização de frequências de âmbito nacional associado à exploração do Mux A promove, nos 15 dias posteriores à alteração do DUF, as alterações contratuais necessárias à efetivação do disposto nos artigos 3.º e 4.º\n\n3 - Na falta de acordo para as alterações contratuais previstas no prazo referido no número anterior, cada serviço de programas pagará, em função do espaço por si ocupado, o preço máximo apresentado na proposta que venceu o concurso para atribuição do direito de utilização de frequências associado à exploração do Mux A, até que o preço venha a ser fixado nos termos do n.º 5 do artigo 4.º\n\n4 - A concessionária de serviço público de rádio e televisão garante, na TDT de acesso não condicionado livre, a disponibilização dos serviços de programas temáticos referidos na presente lei, nos 90 dias posteriores à data da entrada em vigor da mesma.\n\n5 - Sem prejuízo da ocupação do Mux A com novos serviços de programas televisivos determinada nos termos da Resolução do Conselho de Ministros n.º 37-C/2016, de 8 de julho, devem ser analisadas as condições técnicas e financeiras necessárias para a integração dos restantes serviços de programas da concessionária de serviço público de rádio e televisão na TDT em acesso não condicionado livre.\n\n6 - Para os efeitos previstos no n.º 4, o Estado acorda com a concessionária, nos 60 dias posteriores à data da entrada em vigor da presente lei, através de documento a anexar ao Contrato de Concessão do Serviço Público de Rádio e de Televisão, os limites concretos de publicidade comercial, nos termos da Resolução do Conselho de Ministros n.º 37-C/2016, de 8 de julho."
+  },
+  "105764981": {
+   "fragment_id": "105761409",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte à data da sua publicação."
+  },
+  "105764988": {
+   "fragment_id": "105761407",
+   "type": 11,
+   "heading": "Artigo 5.º — Desenvolvimento da TDT",
+   "in_force_from": "2017-01-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2017 - Diário da República n.º 11/2017, Série I de 2017-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2017-105762363), em vigor a partir de 2017-01-17"
+   ],
+   "markdown": "###### Artigo 5.º — Desenvolvimento da TDT\n\n1 - A ANACOM e a ERC promovem conjuntamente, e apresentam à Assembleia da República, assumindo os respetivos custos, os estudos financeiros, técnicos e jurídicos que permitam uma análise sobre as diferentes possibilidades de alargamento adicional da oferta de serviços de programas na Plataforma de Televisão Digital Terrestre, devendo obrigatoriamente ter em conta as diferentes experiências europeias, incidindo, entre outros, sobre a adequação do espetro disponível para a TDT, a evolução das normas tecnológicas associadas a esta forma de difusão, a opção por transmissão em alta definição (HD), o regime e procedimento de adjudicação de licenças e a garantia de transmissão dos restantes serviços de programas do serviço público, até 1 de junho de 2017.\n\n2 - Os estudos referidos no número anterior devem, designadamente:\n\na) Caracterizar a TDT enquanto tecnologia para a disponibilização de conteúdos audiovisuais, identificando, numa perspetiva evolutiva, as suas vantagens e desvantagens face a plataformas concorrentes;\n\nb) Refletir, na perspetiva da garantia do acesso universal à cultura e à informação, do reforço dos valores da liberdade de expressão, do pluralismo e da diversidade, da defesa da língua, da promoção da cidadania e da coesão social, o valor social da utilização do espetro radioelétrico, quer através da distribuição de conteúdos audiovisuais, quer da disponibilização de outros serviços da sociedade da informação;\n\nc) Proceder ao estudo comparativo internacional de ofertas de TDT e das plataformas concorrentes, incluindo modelos de negócio, principais segmentos de mercado, propostas de valor, qualidade de serviço e enquadramento regulamentar, identificando, na perspetiva dos ganhos sociais alcançados, os fatores de sucesso e as fragilidades dos modelos adotados;\n\nd) Proceder ao levantamento da atual situação da TDT em Portugal, identificando as causas para o insucesso relativo da operação e apontando as eventuais mais-valias encontradas;\n\ne) Identificar os fatores críticos de sucesso da TDT tendo em conta a atual cadeia de valor do audiovisual;\n\nf) Enunciar e avaliar o potencial de negócio da TDT em Portugal e os modelos de TDT possíveis para Portugal, identificando os seus impactos sociais, económicos e regulatórios, tendo em conta, do ponto de vista social, entre outros aspetos considerados relevantes, o potencial dos modelos no combate à infoexclusão, a sua capacidade para garantir o livre acesso dos cidadãos a conteúdos audiovisuais, a minimização dos custos de transição tecnológica para o espectador, a garantia de oferta de conteúdos diversificada e orientada para as reais necessidades dos públicos, tanto a nível nacional como regional e local, e a promoção da efetiva liberdade de escolha dos consumidores face às práticas da concorrência;\n\ng) Enunciar e avaliar o potencial de negócio da TDT em Portugal, bem como considerar o impacto económico dos modelos possíveis no mercado publicitário português, estimando o potencial impacto de uma oferta de TDT no mercado audiovisual português e nas práticas das plataformas concorrentes;\n\nh) Equacionar a necessidade de, numa perspetiva de salvaguarda dos valores da liberdade de expressão, do pluralismo e da diversidade, da defesa da língua, da promoção da cidadania e da coesão social, proceder a uma alteração do enquadramento regulamentar vigente, considerando, nomeadamente, a necessidade e a possibilidade de ampliação do espaço disponível para a TDT, a revisão do regime de adjudicação de licenças, a necessidade de reforço de competências regulatórias ou de articulação, entre a ERC, a ANACOM e a Autoridade da Concorrência, das matérias relacionadas com a TDT e a necessidade de imposição de novas obrigações.\n\n3 - Para o efeito do disposto nos números anteriores, a entidade ou entidades externas especializadas são contratadas mediante concurso público limitado por prévia qualificação com natureza urgente, aplicando-se na fase da apresentação e análise das propostas e da adjudicação as normas do procedimento de concurso público urgente, previstas no Código dos Contratos Públicos, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 2/2017 - Diário da República n.º 11/2017, Série I de 2017-01-16](https://diariodarepublica.pt/dr/detalhe/lei/2-2017-105762363), em vigor a partir de 2017-01-17"
+  },
+  "105764982": {
+   "fragment_id": "105761410",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de julho de 2016.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 9 de agosto de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 10 de agosto de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

@@ -1,0 +1,344 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31976D0431:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01976D0431-20070101",
+ "dre_path": null,
+ "source_lastmod": "2007-01-01",
+ "versions": [
+  {
+   "date": "1976-05-01",
+   "future": false,
+   "celex": "31976D0431",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ba3f8a7cd0564393",
+    "155e9ef8512c424b",
+    "34f08b483317776d",
+    "58df36396abe2d0a",
+    "a431f6a2d378d6ac",
+    "fc3a820610d4fd5d",
+    "b246c14b5687f832",
+    "aa280b49c791894a",
+    "470732846577abd7",
+    "2e39dc2aa19c624a",
+    "74789f28900a9471",
+    "6eed5d6ee5acb359",
+    "f8621a8f4a872a27",
+    "e2ab81ecd01d0fe4"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01976D0431-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1792:por",
+     "title": "REGULAMENTO (CE) N. o 1792/2006 DA COMISSÃO de 23 de Outubro de 2006",
+     "published": null,
+     "celex": "32006R1792"
+    },
+    {
+     "id": null,
+     "title": "Acto de Adesão da Grécia",
+     "published": null,
+     "celex": "11979H"
+    },
+    {
+     "id": null,
+     "title": "A2",
+     "published": null,
+     "celex": "11985I"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º",
+    "Adita Artigo 8.º",
+    "Adita Artigo 9.º",
+    "Adita Artigo 10.º",
+    "Adita Artigo 11.º",
+    "Adita Artigo 12.º",
+    "Adita Artigo 13.º",
+    "Adita Notas",
+    "Suprime Artigo 1o",
+    "Suprime Artigo 2o",
+    "Suprime Artigo 3o",
+    "Suprime Artigo 4o",
+    "Suprime Artigo 5o",
+    "Suprime Artigo 6o",
+    "Suprime Artigo 7o",
+    "Suprime Artigo 8o",
+    "Suprime Artigo 9o",
+    "Suprime Artigo 10o",
+    "Suprime Artigo 11o",
+    "Suprime Artigo 12o",
+    "Suprime Artigo 13o"
+   ],
+   "fragments": [
+    "426fe9c2585113d5",
+    "0014bfa372cfea78",
+    "7997cdc1ac596a43",
+    "9ca976c0f99dd4b7",
+    "de7f25fd2a860063",
+    "52a0a2a2beb9fe4a",
+    "df523c3625530095",
+    "2b0ccb427d304ae6",
+    "d784427f3dc01fea",
+    "2cdbb5c8a0603811",
+    "6e0d5078941e3d02",
+    "d1ce525db17431dc",
+    "c160d39c54d0bab3",
+    "4cb0b7633798b86b",
+    "b174e4f0a801093b"
+   ]
+  }
+ ],
+ "fragments": {
+  "ba3f8a7cd0564393": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**76/431/CEE: Decisão da Comissão, de 21 de Abril de 1976, relativa à instituição de um Comité em matéria de gestão de detritos** *Jornal Oficial nº L 115 de 01/05/1976 p. 0073 - 0074 Edição especial finlandesa: Capítulo 15 Fascículo 2 p. 0044 Edição especial grega: Capítulo 12 Fascículo 1 p. 0119 Edição especial sueca: Capítulo 15 Fascículo 2 p. 0044 Edição especial espanhola: Capítulo 15 Fascículo 1 p. 0163 Edição especial portuguesa: Capítulo 15 Fascículo 1 p. 0163*\n\nDECISÃO DA COMISSÃO de 21 de Abril de 1976 relativa à instituição de um Comité em matéria de Gestão de Detritos\n\n(76/431/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\ntendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nconsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente (1) salienta a necessidade de uma política comunitária em matéria de detritos industriais e resíduos de consumo;\n\nconsiderando que se deve prestar especial atenção à protecção dos recursos naturais, combatendo com perseverança o desperdício e tomando, em especial, medidas destinadas a facilitar a reciclagem e a reutilização dos detritos;\n\nconsiderando que, na sua Resolução de 3 de Março de 1975 sobre energia e ambiente (2), o Conselho considerou necessário promover a reciclagem e a reutilização dos detritos para a conservação da energia;\n\nconsiderando que a Comissão deve obter os pareceres de pessoas altamente qualificadas em matéria de gestão de detritos,\n\nDECIDE:"
+  },
+  "155e9ef8512c424b": {
+   "fragment_id": "Artigo 1o",
+   "type": "artigo",
+   "heading": "Artigo 1o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1o\n\nÉ instituído junto da Comissão um Comité em matéria de Gestão de Detritos, a seguir denominado o «Comité»."
+  },
+  "34f08b483317776d": {
+   "fragment_id": "Artigo 2o",
+   "type": "artigo",
+   "heading": "Artigo 2o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2o\n\nCabe ao Comité dar pareceres à Comissão, quer a pedido desta quer por sua própria iniciativa, sobre todos os problemas relativos:\n\na) ao desenvolvimento da política de gestão dos detritos, tendo em conta a necessidade de garantir a melhor utilização dos recursos e a eliminação segura e eficaz dos detritos;\n\nb) as diferentes medidas de carácter técnico, económico, administrativo e jurídico susceptíveis de prevenir a formação de detritos ou assegurar a sua reutilização, reciclagem ou eliminação;\n\nc) à aplicação das directivas relativas à gestão dos detritos e à preparação de novas propostas de directivas neste domínio."
+  },
+  "58df36396abe2d0a": {
+   "fragment_id": "Artigo 3o",
+   "type": "artigo",
+   "heading": "Artigo 3o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3o\n\n1. O Comité é composto por vinte membros.\n\n2. Os lugares são atribuídos do modo seguinte:\n\ndois à Comissão;\n\ndois a cada Estado-membro."
+  },
+  "a431f6a2d378d6ac": {
+   "fragment_id": "Artigo 4o",
+   "type": "artigo",
+   "heading": "Artigo 4o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4o\n\nOs membros do Comité são nomeados pela Comissão.\n\nPara preencher cada um dos lugares atribuídos aos Estados-membros, a Comissão escolhe os membros de entre os peritos nacionais de alto nível, competentes nos domínios referidos no artigo 2o; a Comissão nomeia-os após consulta aos Estados-membros interessados."
+  },
+  "fc3a820610d4fd5d": {
+   "fragment_id": "Artigo 5o",
+   "type": "artigo",
+   "heading": "Artigo 5o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5o\n\nOs membros do Comité são nomeados por um período de três anos e podem ser reconduzidos nas suas funções. Após o termo do período de três anos, os membros do Comité permanecerão em funções até serem substituídos ou reconduzidos.\n\nO exercício de funções de um membro cessará antes de decorridos três anos por demissão ou morte.\n\nO membro será substituído pelo remanescente do exercício nos termos do artigo 4o.\n\nAs funções exercidas não são remuneradas."
+  },
+  "b246c14b5687f832": {
+   "fragment_id": "Artigo 6o",
+   "type": "artigo",
+   "heading": "Artigo 6o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6o\n\nA lista dos membros será publicada pela Comissão, para informação, no Jornal Oficial das Comunidades Europeias."
+  },
+  "aa280b49c791894a": {
+   "fragment_id": "Artigo 7o",
+   "type": "artigo",
+   "heading": "Artigo 7o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7o\n\nO Comité é presidido por um representate da Comissão."
+  },
+  "470732846577abd7": {
+   "fragment_id": "Artigo 8o",
+   "type": "artigo",
+   "heading": "Artigo 8o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8o\n\nO presidente pode convidar a participar nos trabalhos do Comité e dos grupos de trabalho referidos no artigo 9o, na qualidade de perito, qualquer pessoa especialmente competente sobre um assunto inscrito na ordem do dia.\n\nOs peritos apenas participam nas deliberações sobre a questão que motivou a sua presença."
+  },
+  "2e39dc2aa19c624a": {
+   "fragment_id": "Artigo 9o",
+   "type": "artigo",
+   "heading": "Artigo 9o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9o\n\nO Comité pode criar grupos de trabalho."
+  },
+  "74789f28900a9471": {
+   "fragment_id": "Artigo 10o",
+   "type": "artigo",
+   "heading": "Artigo 10o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10o\n\n1. O Comité e os grupos de trabalho reúnem-se na sede da Comissão por convocação do presidente do Comité.\n\n2. Os representantes dos serviços interessados da Comissão participam nas reuniões do Comité e dos grupos de trabalho.\n\n3. Os serviços da Comissão asseguram o secretariado do Comité e dos grupos de trabalho."
+  },
+  "6eed5d6ee5acb359": {
+   "fragment_id": "Artigo 11o",
+   "type": "artigo",
+   "heading": "Artigo 11o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11o\n\nAs deliberações do Comité não são seguidas de qualquer votação.\n\nA Comissão, ao solicitar o parecer do Comité, pode fixar o prazo no qual o parecer deve ser emitido."
+  },
+  "f8621a8f4a872a27": {
+   "fragment_id": "Artigo 12o",
+   "type": "artigo",
+   "heading": "Artigo 12o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12o\n\nSem prejuízo do disposto no artigo 214o do Tratado, os membros do Comité são obrigados a não divulgar as informações de que tiverem conhecimento pelos trabalhos do Comité ou dos grupos de trabalho, quando o presidente do Comité os informe de que o parecer solicitado ou a questão posta tem por objecto uma matéria de caráctwer confidencial.\n\nNeste caso, só assistem às sessões os membros do Comité e os representantes dos serviços da Comissão."
+  },
+  "e2ab81ecd01d0fe4": {
+   "fragment_id": "Artigo 13o",
+   "type": "artigo",
+   "heading": "Artigo 13o",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13o\n\nA presente decisão entra em vigor em 1 de Maio de 1976.\n\nFeito em Bruxelas em 21 de Abril de 1976.\n\nPela Comissão\n\nVice-presidente\n\nCarlo SCARASCIA MUGNOZZA\n\n(1) JO n. C 112 de 20. 12. 1973, p. 28.(2) JO n. C 168 de 25. 7. 1975, p. 2."
+  },
+  "426fe9c2585113d5": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Abril de 1976\n\nrelativa à instituição de um Comité em matéria de Gestão de Detritos\n\n(76/431/CEE)\n\nA COMISSÃO DAS COMUNIDADES EUROPEIAS,\n\ntendo em conta o Tratado que institui a Comunidade Económica Europeia,\n\nconsiderando que o programa de acção das Comunidades Europeias em matéria de ambiente ([^1^](http://publications.europa.eu/resource/cellar/ac968d34-8893-4b26-99fb-2a829b99ae49.0017.03/DOC_1#E0001)) salienta a necessidade de uma política comunitária em matéria de detritos industriais e resíduos de consumo;\n\nconsiderando que se deve prestar especial atenção à protecção dos recursos naturais, combatendo com perseverança o desperdício e tomando, em especial, medidas destinadas a facilitar a reciclagem e a reutilização dos detritos;\n\nconsiderando que, na sua Resolução de 3 de Março de 1975 sobre energia e ambiente ([^2^](http://publications.europa.eu/resource/cellar/ac968d34-8893-4b26-99fb-2a829b99ae49.0017.03/DOC_1#E0002)), o Conselho considerou necessário promover a reciclagem e a reutilização dos detritos para a conservação da energia;\n\nconsiderando que a Comissão deve obter os pareceres de pessoas altamente qualificadas em matéria de gestão de detritos,\n\nDECIDE:"
+  },
+  "0014bfa372cfea78": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ instituído junto da Comissão um Comité em matéria de Gestão de Detritos, a seguir denominado o «Comité»."
+  },
+  "7997cdc1ac596a43": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCabe ao Comité dar pareceres à Comissão, quer a pedido desta quer por sua própria iniciativa, sobre todos os problemas relativos:\n\na) ao desenvolvimento da política de gestão dos detritos, tendo em conta a necessidade de garantir a melhor utilização dos recursos e a eliminação segura e eficaz dos detritos;\n\nb) ãs diferentes medidas de carácter técnico, económico, administrativo e jurídico susceptíveis de prevenir a formação de detritos ou assegurar a sua reutilização, reciclagem ou eliminação;\n\nc) à aplicação das directivas relativas à gestão dos detritos e à preparação de novas propostas de directivas neste domínio."
+  },
+  "9ca976c0f99dd4b7": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O Comité é composto por cinquenta e seis membros.\n\n2. Os lugares são atribuídos do modo seguinte:\n\ndois à Comissão;\n\ndois a cada Estado-membro."
+  },
+  "de7f25fd2a860063": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs membros do Comité são nomeados pela Comissão.\n\nPara preencher cada um dos lugares atribuídos aos Estados-membros, a Comissão escolhe os membros de entre os peritos nacionais de alto nível, competentes nos domínios referidos no artigo 2.º; a Comissão nomeia-os após consulta aos Estados-membros interessados."
+  },
+  "52a0a2a2beb9fe4a": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs membros do Comité são nomeados por um período de três anos e podem ser reconduzidos nas suas funções. Após o termo do período de três anos, os membros do Comité permanecerão em funções até serem substituídos ou reconduzidos.\n\nO exercício de funções de um membro cessará antes de decorridos três anos por demissão ou morte.\n\nO membro será substituído pelo remanescente do exercício nos termos do artigo 4.º.\n\nAs funções exercidas não são remuneradas."
+  },
+  "df523c3625530095": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA lista dos membros será publicada pela Comissão, para informação, no *Jornal Oficial das Comunidades Europeias*."
+  },
+  "2b0ccb427d304ae6": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO Comité é presidido por um representante da Comissão."
+  },
+  "d784427f3dc01fea": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presidente pode convidar a participar nos trabalhos do Comité e dos grupos de trabalho referidos no artigo 9.º, na qualidade de perito, qualquer pessoa especialmente competente sobre um assunto inscrito na ordem do dia.\n\nOs peritos apenas participam nas deliberações sobre a questão que motivou a sua presença."
+  },
+  "2cdbb5c8a0603811": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO Comité pode criar grupos de trabalho."
+  },
+  "6e0d5078941e3d02": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. O Comité e os grupos de trabalho reúnem-se na sede da Comissão por convocação do presidente do Comité.\n\n2. Os representantes dos serviços interessados da Comissão participam nas reuniões do Comité e dos grupos de trabalho.\n\n3. Os serviços da Comissão asseguram o secretariado do Comité e dos grupos de trabalho."
+  },
+  "d1ce525db17431dc": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs deliberações do Comité não são seguidas de qualquer votação.\n\nA Comissão, ao solicitar o parecer do Comité, pode fixar o prazo no qual o parecer deve ser emitido."
+  },
+  "c160d39c54d0bab3": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSem prejuízo do disposto no artigo 214.º do Tratado, os membros do Comité são obrigados a não divulgar as informações de que tiverem conhecimento pelos trabalhos do Comité ou dos grupos de trabalho, quando o presidente do Comité os informe de que o parecer solicitado ou a questão posta tem por objecto uma matéria de carácter confidencial.\n\nNeste caso, só assistem às sessões os membros do Comité e os representantes dos serviços da Comissão."
+  },
+  "4cb0b7633798b86b": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA presente decisão entra em vigor em 1 de Maio de 1976.\n\n---"
+  },
+  "b174e4f0a801093b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ac968d34-8893-4b26-99fb-2a829b99ae49.0017.03/DOC_1#src.E0001)) JO n. C 112 de 20. 12. 1973, p. 28.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/ac968d34-8893-4b26-99fb-2a829b99ae49.0017.03/DOC_1#src.E0002)) JO n. C 168 de 25. 7. 1975, p. 2."
+  }
+ }
+}

@@ -1,0 +1,798 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:146061:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-67047307",
+ "dre_path": "/dr/detalhe/decreto-lei/113-2011-146061",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "67044134",
+    "67044135",
+    "67044136",
+    "67044137",
+    "67044138",
+    "67044139",
+    "67044140",
+    "67044141",
+    "67044142",
+    "67044143",
+    "67044144"
+   ]
+  },
+  {
+   "date": "2012-06-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178848:por",
+     "title": "Decreto-Lei n.º 128/2012",
+     "published": "2012-06-21",
+     "dre_path": "/dr/detalhe/decreto-lei/128-2012-178848"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "67044134",
+    "67044135",
+    "67044174",
+    "67057375",
+    "67057376",
+    "67044139",
+    "67044140",
+    "67044168",
+    "67044169",
+    "67044170",
+    "74965854",
+    "67044172",
+    "67044173"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º-A"
+   ],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "67044134",
+    "67044135",
+    "67044174",
+    "67057375",
+    "67057376",
+    "67044139",
+    "67044140",
+    "67057377",
+    "67044169",
+    "67044170",
+    "74965854",
+    "67044172",
+    "67044173"
+   ]
+  },
+  {
+   "date": "2013-07-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498764:por",
+     "title": "Lei n.º 51/2013",
+     "published": "2013-07-24",
+     "dre_path": "/dr/detalhe/lei/51-2013-498764"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º-A"
+   ],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "67044134",
+    "67044135",
+    "67044174",
+    "67057375",
+    "67057376",
+    "67044139",
+    "67044140",
+    "67057397",
+    "67044169",
+    "67044170",
+    "74965854",
+    "67044172",
+    "67044173"
+   ]
+  },
+  {
+   "date": "2014-08-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:55076560:por",
+     "title": "Decreto-Lei n.º 117/2014",
+     "published": "2014-08-05",
+     "dre_path": "/dr/detalhe/decreto-lei/117-2014-55076560"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "67044134",
+    "67044135",
+    "67057418",
+    "67057375",
+    "67057376",
+    "67044139",
+    "67057419",
+    "67057397",
+    "67044169",
+    "67044170",
+    "74965854",
+    "67044172",
+    "67044173"
+   ]
+  },
+  {
+   "date": "2015-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67051306:por",
+     "title": "Decreto-Lei n.º 61/2015",
+     "published": "2015-04-22",
+     "dre_path": "/dr/detalhe/decreto-lei/61-2015-67051306"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "67044134",
+    "67044135",
+    "67057425",
+    "67057375",
+    "67057376",
+    "67044139",
+    "67057419",
+    "67057397",
+    "67044169",
+    "67044170",
+    "74965854",
+    "67044172",
+    "67044173"
+   ]
+  },
+  {
+   "date": "2015-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70196961:por",
+     "title": "Lei n.º 134/2015",
+     "published": "2015-09-07",
+     "dre_path": "/dr/detalhe/lei/134-2015-70196961"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "67044134",
+    "67044135",
+    "70196159",
+    "67057375",
+    "67057376",
+    "67044139",
+    "67057419",
+    "67057397",
+    "67044169",
+    "67044170",
+    "74965854",
+    "67044172",
+    "67044173"
+   ]
+  },
+  {
+   "date": "2016-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73740376:por",
+     "title": "Lei n.º 3/2016",
+     "published": "2016-02-29",
+     "dre_path": "/dr/detalhe/lei/3-2016-73740376"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "67044134",
+    "67044135",
+    "203569674",
+    "67057375",
+    "67057376",
+    "67044139",
+    "67057419",
+    "67057397",
+    "67044169",
+    "67044170",
+    "74965854",
+    "67044172",
+    "67044173"
+   ]
+  },
+  {
+   "date": "2016-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73958532:por",
+     "title": "Lei n.º 7-A/2016",
+     "published": "2016-03-30",
+     "dre_path": "/dr/detalhe/lei/7-a-2016-73958532"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "74965856",
+    "67044135",
+    "74965857",
+    "67057375",
+    "67057376",
+    "67044139",
+    "74965858",
+    "67057397",
+    "67044169",
+    "67044170",
+    "74965854",
+    "67044172",
+    "67044173"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105637672:por",
+     "title": "Lei n.º 42/2016",
+     "published": "2016-12-28",
+     "dre_path": "/dr/detalhe/lei/42-2016-105637672"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 8.º-A"
+   ],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "74965856",
+    "67044135",
+    "74965857",
+    "67057375",
+    "67057376",
+    "67044139",
+    "74965858",
+    "114559175",
+    "67044169",
+    "67044170",
+    "74965854",
+    "67044172",
+    "67044173"
+   ]
+  },
+  {
+   "date": "2017-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108280429:por",
+     "title": "Decreto-Lei n.º 131/2017",
+     "published": "2017-10-10",
+     "dre_path": "/dr/detalhe/decreto-lei/131-2017-108280429"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "74965856",
+    "67044135",
+    "74965857",
+    "67057375",
+    "67057376",
+    "67044139",
+    "114559176",
+    "114559175",
+    "67044169",
+    "67044170",
+    "74965854",
+    "67044172",
+    "67044173"
+   ]
+  },
+  {
+   "date": "2020-11-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:147533138:por",
+     "title": "Decreto-Lei n.º 96/2020",
+     "published": "2020-11-04",
+     "dre_path": "/dr/detalhe/decreto-lei/96-2020-147533138"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "67044132",
+    "67044133",
+    "74965856",
+    "67044135",
+    "74965857",
+    "67057375",
+    "67057376",
+    "67044139",
+    "124413385",
+    "147534327",
+    "124413387",
+    "124413388",
+    "124413389",
+    "124413390",
+    "124413391",
+    "124413392"
+   ]
+  }
+ ],
+ "fragments": {
+  "67044132": {
+   "fragment_id": "67047308",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 113/2011\n\nde 29 de Novembro\n\nA Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de Agosto, alterada pela Lei n.º 27/2002, de 8 de Novembro, prevê na base xxxiv medidas reguladoras do uso de serviços de saúde, designadamente as taxas moderadoras, as quais constituem uma das fontes de receita própria das instituições e serviços do Serviço Nacional de Saúde.\n\nNos termos do Memorando de Entendimento firmado pelo Governo Português com o Fundo Monetário Internacional (FMI), a Comissão Europeia (CE) e o Banco Central Europeu (BCE), o Governo comprometeu-se a tomar medidas para reformar o sistema de saúde com vista a garantir a sustentabilidade do Serviço Nacional de Saúde (SNS), quer no que respeita ao seu regime geral de acesso ou regime especial de benefícios, quer no que respeita aos seus recursos financeiros. Entre essas medidas encontra-se a revisão do regime das taxas moderadoras do SNS. Em conformidade, o presente diploma vem regular as condições especiais de acesso às prestações do SNS, determinando as taxas moderadoras aplicáveis no novo enquadramento supra referido, mantendo o princípio da limitação do valor a um terço dos preços do SNS, instituindo a revisão anual dos valores a par da actualização anual automática do valor das taxas à taxa de inflação e diferenciando positivamente o acesso aos cuidados primários, os quais se pretende incentivar.\n\nProcede-se, ainda, à revisão das categorias de isenção de pagamento das taxas moderadoras, com respeito pelo disposto na base xxxiv da Lei de Bases da Saúde e no n.º 2 do artigo 23.º do Estatuto do SNS, com base em critérios de racionalidade e de discriminação positiva dos mais carenciados e desfavorecidos, ao nível do risco de saúde ponderado e ao nível da insuficiência económica comprovada.\n\nPara além destas alterações, torna-se necessário garantir a efectividade da cobrança das taxas moderadoras, preconizando a adopção de procedimentos céleres e expeditos que assegurem a operacionalização dos meios de pagamento correspondentes.\n\nNeste sentido, a Entidade Reguladora da Saúde já recomendou aos prestadores privados de saúde a opção prioritária pelo pagamento imediato das taxas moderadoras aquando da prestação dos cuidados, ou aquando da alta dos utentes, em detrimento do pagamento diferido. Deste modo e sem prejuízo das dificuldades que se detectam e são inerentes à própria complexidade dos serviços de saúde, podem e devem ser seguidos pelos estabelecimentos do SNS os mesmos princípios orientadores, nomeadamente através da promoção de sistemas automáticos de pagamento.\n\nFinalmente, consagra-se a dispensa de cobrança de taxas moderadoras no âmbito de prestações de cuidados de saúde que são inerentes ao tratamento de determinadas situações clínicas ou decorrem da implementação de programas e medidas de prevenção e promoção de cuidados de saúde.\n\nEm concreto, a revisão do sistema de taxas moderadoras deverá ser perspectivada como uma medida catalisadora da racionalização de recursos e do controlo da despesa, ao invés de uma medida de incremento de receita, atendendo não apenas à sua diminuta contribuição nos proveitos do Serviço Nacional de Saúde mas, acima de tudo, pelo carácter estruturante que as mesmas assumem na gestão, via moderação, dos recursos disponíveis, que são, por definição, escassos.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 48/90, de 24 de Agosto, alterada pela Lei n.º 27/2002, de 8 de Novembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 3.º, Lei n.º 84/2019 - Diário da República n.º 168/2019, Série I de 2019-09-03](https://diariodarepublica.pt/dr/detalhe/lei/84-2019-124392056) A presente lei entra em vigor com o Orçamento do Estado subsequente ao da sua publicação.\n\n> Nota: [Artigo 151.º, Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404) No ano de 2014 não há lugar à aplicação da atualização prevista no n.º 1 do artigo 3.º do Decreto-Lei n.º 113/2011, de 29 de novembro."
+  },
+  "67044133": {
+   "fragment_id": "67047309",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma regula o acesso às prestações do Serviço Nacional de Saúde (SNS) por parte dos utentes no que respeita ao regime das taxas moderadoras e à aplicação de regimes especiais de benefícios, tendo por base a definição das situações determinantes de isenção de pagamento ou de comparticipação, como situações clínicas relevantes de maior risco de saúde ou situações de insuficiência económica."
+  },
+  "67044134": {
+   "fragment_id": "67047310",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Taxas moderadoras\n\nAs prestações de saúde, cujos encargos sejam suportados pelo orçamento do SNS, implicam o pagamento de taxas moderadoras nos seguintes casos:\n\na) Nas consultas nos prestadores de cuidados de saúde primários, no domicílio, nos hospitais e em outros estabelecimentos de saúde públicos ou privados, designadamente em entidades convencionadas;\n\nb) Na realização de exames complementares de diagnóstico e terapêutica em serviços de saúde públicos ou privados, designadamente em entidades convencionadas, com excepção dos efectuados em regime de internamento;\n\nc) Nos serviços de atendimento permanente dos cuidados de saúde primários e serviços de urgência hospitalar;\n\nd) No hospital de dia."
+  },
+  "67044135": {
+   "fragment_id": "67047311",
+   "type": 11,
+   "heading": "Artigo 3.º — Valor das taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valor das taxas moderadoras\n\n1 - Os valores das taxas moderadoras previstas no artigo anterior são aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde, revistos anualmente, sem prejuízo da devida actualização automática à taxa da inflação divulgada pelo Instituto Nacional de Estatística, I. P., relativa ao ano civil anterior.\n\n2 - As taxas moderadoras constantes da portaria prevista no número anterior não podem exceder um terço dos valores constantes da tabela de preços do SNS."
+  },
+  "67044136": {
+   "fragment_id": "67047312",
+   "type": 11,
+   "heading": "Artigo 4.º — Isenção de taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Isenção de taxas moderadoras\n\nEstão isentos do pagamento de taxas moderadoras:\n\na) As grávidas e parturientes;\n\nb) As crianças até aos 12 anos de idade, inclusive;\n\nc) Os utentes com grau de incapacidade igual ou superior a 60%;\n\nd) Os utentes em situação de insuficiência económica, bem como os dependentes do respectivo agregado familiar, nos termos do artigo 6.º;\n\ne) Os dadores benévolos de sangue, nas prestações em cuidados de saúde primários;\n\nf) Os dadores vivos de células, tecidos e órgãos, nas prestações em cuidados de saúde primários;\n\ng) Os bombeiros, nas prestações em cuidados de saúde primários e, quando necessários em razão do exercício da sua actividade, em cuidados de saúde hospitalares;\n\nh) Os doentes transplantados;\n\ni) Os militares e ex-militares das Forças Armadas que, em virtude da prestação do serviço militar, se encontrem incapacitados de forma permanente."
+  },
+  "67044137": {
+   "fragment_id": "67047313",
+   "type": 11,
+   "heading": "Artigo 5.º — Isenção de encargos com transporte não urgente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Isenção de encargos com transporte não urgente\n\nO transporte não urgente de utentes que seja instrumental à realização das prestações de saúde no âmbito do SNS é isento de encargos para o utente quando a situação clínica o justifique, designadamente no caso de necessidade de tratamentos prolongados ou continuados em estabelecimentos ou serviços do SNS, nas condições a aprovar por portaria do membro do Governo responsável pela área da saúde, e desde que seja comprovada a respectiva insuficiência económica."
+  },
+  "67044138": {
+   "fragment_id": "67047314",
+   "type": 11,
+   "heading": "Artigo 6.º — Insuficiência económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Insuficiência económica\n\n1 - Para efeitos do presente diploma, consideram-se em situação de insuficiência económica os utentes que integrem agregado familiar cujo rendimento médio mensal seja igual ou inferior a uma vez e meia o valor do indexante de apoios sociais (IAS).\n\n2 - Para efeitos do reconhecimento dos benefícios referidos nos artigos 4.º e 5.º, a condição de insuficiência económica é comprovada anualmente, sendo considerados os rendimentos do agregado familiar conhecidos no ano civil imediatamente anterior.\n\n3 - Para efeitos dos números anteriores, a determinação dos rendimentos, a composição do agregado familiar e a capitação dos rendimentos do agregado familiar, bem como os meios de comprovação do direito aos benefícios previstos nos artigos 4.º e 5.º, relativamente à verificação da condição de insuficiência económica, são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças, da saúde e da segurança social.\n\n4 - A concessão indevida de benefícios ao abrigo do presente diploma, por facto imputável ao utente, determina a perda da possibilidade de concessão do benefício durante um período de 24 meses após o conhecimento do facto por parte das entidades competentes do Ministério da Saúde."
+  },
+  "67044139": {
+   "fragment_id": "67047315",
+   "type": 11,
+   "heading": "Artigo 7.º — Cobrança de taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cobrança de taxas moderadoras\n\n1 - As taxas moderadoras são cobradas no momento da realização das prestações de saúde, salvo em situações de impossibilidade do utente resultante do seu estado de saúde ou da falta de meios próprios de pagamento, bem como de regras específicas de organização interna da entidade responsável pela cobrança.\n\n2 - As taxas moderadoras são cobradas pela entidade que realize as prestações de saúde, salvo disposição legal ou contratual em contrário.\n\n3 - Nos casos em que as taxas moderadoras não sejam cobradas no momento da realização do acto, o utente é interpelado para efectuar o pagamento no prazo de 10 dias subsequentes a contar da data da notificação.\n\n4 - As taxas moderadoras são receita da entidade integrante do SNS, seja prestadora ou referenciadora, a qual suporta os encargos com as prestações de saúde.\n\n5 - As entidades responsáveis pela cobrança das taxas moderadoras devem adoptar procedimentos internos de operacionalização do sistema de cobrança, céleres e expeditos, dando prioridade, sempre que possível, à utilização de meios electrónicos de cobrança ou notificação, nomeadamente através da instalação de sistemas e terminais de pagamento automático com cartão bancário."
+  },
+  "67044140": {
+   "fragment_id": "67047316",
+   "type": 11,
+   "heading": "Artigo 8.º — Dispensa de cobrança de taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dispensa de cobrança de taxas moderadoras\n\nÉ dispensada a cobrança de taxas moderadoras no âmbito das seguintes prestações de cuidados de saúde:\n\na) Consultas de planeamento familiar e actos complementares prescritos no decurso destas;\n\nb) Consultas, sessões de hospital de dia, bem como actos complementares prescritos no decurso destas, no âmbito de doenças neurológicas degenerativas e desmielinizantes, distrofias musculares, tratamento da dor crónica, quimioterapia de doenças oncológicas, radioterapia, saúde mental, deficiências de factores de coagulação, infecção pelo vírus da imunodeficiência humana/sida e diabetes;\n\nc) Cuidados de saúde respiratórios no domicílio;\n\nd) Cuidados de saúde na área da diálise;\n\ne) Consultas e actos complementares necessários para as dádivas de células, sangue, tecidos e órgãos;\n\nf) Actos complementares de diagnóstico realizados no decurso de rastreios organizados de base populacional e de diagnóstico neonatal, promovidos no âmbito dos programas de prevenção da Direcção-Geral da Saúde;\n\ng) Consultas no domicílio realizadas por iniciativa dos serviços e estabelecimentos do SNS;\n\nh) Atendimentos urgentes e actos complementares decorrentes de atendimentos a vítimas de violência doméstica;\n\ni) Programas de tratamento de alcoólicos crónicos e toxicodependentes;\n\nj) Programas de tomas de observação directa;\n\nl) Vacinação prevista no programa nacional de vacinação e pessoas abrangidas pelo programa de vacinação contra a gripe sazonal;\n\nm) Atendimento em serviço de urgência, no seguimento de:\n\ni) Referenciação pela rede de prestação de cuidados de saúde primários para um serviço de urgência;\n\nii) Admissão a internamento através da urgência."
+  },
+  "67044141": {
+   "fragment_id": "67047317",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração ao Decreto-Lei n.º 70/2010, de 16 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao Decreto-Lei n.º 70/2010, de 16 de Junho\n\nO artigo 1.º do Decreto-Lei n.º 70/2010, de 16 de Junho, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) Comparticipação de medicamentos;\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n3 - ...»"
+  },
+  "67044142": {
+   "fragment_id": "67047318",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 173/2003, de 1 de Agosto, alterado pelos Decretos-Leis n.os 201/2007, de 24 de Maio, 79/2008, de 8 de Maio, e 38/2010, de 20 de Abril;\n\nb) O artigo 3.º da Portaria n.º 1319/2010, de 28 de Dezembro;\n\nc) A Portaria n.º 349/96, de 8 de Agosto."
+  },
+  "67044143": {
+   "fragment_id": "67047319",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma transitória\n\nAs portarias que fixam os valores das taxas moderadoras aprovadas ao abrigo do Decreto-Lei n.º 173/2003, de 1 de Agosto, alterado pelos Decretos-Leis n.os 201/2007, de 24 de Maio, 79/2008, de 8 de Maio, e 38/2010, de 20 de Abril, mantêm-se em vigor até à data da entrada em vigor da portaria prevista no n.º 1 do artigo 3.º"
+  },
+  "67044144": {
+   "fragment_id": "67047320",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 2012."
+  },
+  "67044174": {
+   "fragment_id": "67047312",
+   "type": 11,
+   "heading": "Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:",
+   "in_force_from": "2012-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:\n\nEstão isentos do pagamento de taxas moderadoras:\n\na) As grávidas e parturientes;\n\nb) As crianças até aos 12 anos de idade, inclusive;\n\nc) Os utentes com grau de incapacidade igual ou superior a 60%;\n\nd) Os utentes em situação de insuficiência económica, bem como os dependentes do respectivo agregado familiar, nos termos do artigo 6.º;\n\ne) Os dadores benévolos de sangue, nas prestações em cuidados de saúde primários;\n\nf) Os dadores vivos de células, tecidos e órgãos, nas prestações em cuidados de saúde primários;\n\ng) Os bombeiros, nas prestações em cuidados de saúde primários e, quando necessários em razão do exercício da sua actividade, em cuidados de saúde hospitalares;\n\nh) Os doentes transplantados;\n\ni) Os militares e ex-militares das Forças Armadas que, em virtude da prestação do serviço militar, se encontrem incapacitados de forma permanente.\n\nj) Os desempregados com inscrição válida no centro de emprego auferindo subsídio de desemprego igual ou inferior a 1,5 vezes o indexante de apoios sociais (IAS), que, em virtude de situação transitória ou de duração inferior a um ano, não podem comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º, e o respetivo cônjuge e dependentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "67057375": {
+   "fragment_id": "67047313",
+   "type": 11,
+   "heading": "Artigo 5.º — Transporte não urgente",
+   "in_force_from": "2012-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 5.º — Transporte não urgente\n\n1 - O transporte não urgente de doentes que seja instrumental à realização das prestações de saúde no âmbito do SNS é isento de encargos para o utente quando a situação clínica o justifique, nas condições a aprovar por portaria do membro do Governo responsável pela área da saúde, e desde que seja comprovada a respetiva insuficiência económica.\n\n2 - É ainda assegurado pelo SNS o pagamento de encargos com o transporte não urgente dos doentes que não se encontrem nas situações previstas no número anterior mas necessitem, impreterivelmente, da prestação de cuidados de saúde de forma prolongada e continuada, nos termos e condições a definir na portaria prevista no número anterior.\n\n3 - No caso previsto no número anterior, cabe ao utente uma comparticipação no pagamento do transporte, nos termos a fixar na portaria prevista no n.º 1.\n\n4 - O disposto nos números anteriores não se aplica a beneficiários de subsistemas de saúde, bem como a quaisquer entidades, públicas ou privadas, responsáveis pelos respetivos encargos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "67057376": {
+   "fragment_id": "67047314",
+   "type": 11,
+   "heading": "Artigo 6.º — Insuficiência económica",
+   "in_force_from": "2012-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 6.º — Insuficiência económica\n\n1 - Para efeitos do presente diploma, consideram-se em situação de insuficiência económica os utentes que integrem agregado familiar cujo rendimento médio mensal seja igual ou inferior a 1,5 vezes o valor do IAS.\n\n2 - Para efeitos do reconhecimento dos benefícios referidos nos artigos 4.º e 5.º, a condição de insuficiência económica é comprovada anualmente, sendo considerados os rendimentos do agregado familiar conhecidos no ano civil imediatamente anterior, exceto no caso previsto na alínea j) do artigo 4.º, em que os utentes podem pedir reconhecimento da isenção sempre que acedam às prestações de saúde, exibindo documentação comprovativa a determinar pela Administração Central do Sistema de Saúde, I. P. (ACSS, I. P.).\n\n3 - Para efeitos dos números anteriores, a determinação dos rendimentos, a composição do agregado familiar e a capitação dos rendimentos do agregado familiar, bem como os meios de comprovação do direito aos benefícios previstos nos artigos 4.º e 5.º, relativamente à verificação da condição de insuficiência económica, são estabelecidos em portaria dos membros do Governo responsáveis pelas áreas das finanças, da saúde e da segurança social.\n\n4 - A concessão indevida de benefícios ao abrigo do presente diploma, por facto imputável ao utente, determina a perda da possibilidade de concessão do benefício durante um período de 24 meses após o conhecimento do facto por parte das entidades competentes do Ministério da Saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "67044168": {
+   "fragment_id": "67047345",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Contraordenação pela utilização dos serviços de saúde sem pagamento de taxa moderadora",
+   "in_force_from": "2012-06-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 8.º-A — Contraordenação pela utilização dos serviços de saúde sem pagamento de taxa moderadora\n\n1 - Constitui contraordenação, punível com coima, a utilização dos serviços de saúde pelos utentes sem pagamento de taxa moderadora devida, no prazo de 10 dias seguidos após notificação para o efeito.\n\n2 - A notificação a que se refere o número anterior é efetuada por carta registada para a morada constante no registo nacional de utentes ou, no caso de o utente não ser beneficiário do SNS, para a morada indicada no momento da prestação de cuidados de saúde.\n\n3 - As notificações efetuadas nos termos do número anterior presumem-se feitas no 3.º dia posterior ao registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.\n\n4 - Quando, por qualquer motivo, a carta seja devolvida, procede-se a segunda notificação, nos 15 dias seguintes à devolução, por nova carta registada para a mesma morada, presumindo a notificação nos termos do número anterior.\n\n5 - A contraordenação prevista no n.º 1 é punida com coima de valor mínimo correspondente a cinco vezes o valor da respetiva taxa moderadora, mas nunca inferior a (euro) 30, e de valor máximo correspondente ao quíntuplo do valor mínimo da coima, com respeito pelos limites máximos previstos no artigo 17.º do regime geral do ilícito de mera ordenação social.\n\n6 - A negligência é punível, sendo reduzido em metade o limite máximo da coima aplicável nos termos do presente artigo.\n\n7 - A Autoridade Tributária e Aduaneira (AT), através do serviço de finanças do domicílio fiscal do infrator, é a entidade competente para a instauração e instrução dos processos de contraordenação a que se refere o n.º 1, bem como para aplicação da coima.\n\n8 - Na falta de pagamento da taxa moderadora devida, é lavrado auto de notícia com os seguintes elementos:\n\na) Nome;\n\nb) Residência;\n\nc) Número de identificação fiscal;\n\nd) Data da assistência e valor da taxa moderadora;\n\ne) Data da notificação para cumprir;\n\nf) Data da infração;\n\ng) Indicação das normas infringidas e punitivas;\n\nh) Assinatura e identificação da entidade autuante.\n\n9 - É competente para o levantamento do auto de notícia a ACSS, I. P.\n\n10 - Pela entidade referida no número anterior é extraída a certidão de dívida, composta pela taxa moderadora e custos administrativos associados, que são remetidos à entidade competente para proceder à cobrança coerciva.\n\n11 - A entidade competente procede à emissão, e envio à Autoridade Tributária e Aduaneira, da certidão de dívida a que se refere o número anterior sempre que o montante em dívida seja igual, ou superior, a (euro) 10.\n\n12 - Cabe à AT promover a cobrança coerciva dos créditos compostos pela taxa moderadora, coima e custos administrativos, nos termos do Código de Procedimento e de Processo Tributário.\n\n13 - O produto da coima cobrado na sequência de processo de contraordenação ao abrigo da presente norma reverte:\n\na) 40 % para o Estado;\n\nb) 35 % para a entidade que elabora o auto de notícia;\n\nc) 25 % para a AT.\n\n14 - Em acaso de anulação do processo de contraordenação ou do processo de execução fiscal, os respetivos encargos serão suportados pela entidade que deu causa à respetiva instauração, sendo o acerto efetuado pela AT nas entregas dos quantitativos cobrados referentes ao mesmo período.\n\n15 - Às contraordenações previstas no presente decreto-lei, e em tudo o que nele não se encontre expressamente regulado, é aplicável o Regime Geral das Infrações Tributárias.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "67044169": {
+   "fragment_id": "67047317",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração ao Decreto-Lei n.º 70/2010, de 16 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao Decreto-Lei n.º 70/2010, de 16 de Junho\n\nO artigo 1.º do Decreto-Lei n.º 70/2010, de 16 de Junho, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) Comparticipação de medicamentos;\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n3 - ...»"
+  },
+  "67044170": {
+   "fragment_id": "67047318",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 173/2003, de 1 de Agosto, alterado pelos Decretos-Leis n.os 201/2007, de 24 de Maio, 79/2008, de 8 de Maio, e 38/2010, de 20 de Abril;\n\nb) O artigo 3.º da Portaria n.º 1319/2010, de 28 de Dezembro;\n\nc) A Portaria n.º 349/96, de 8 de Agosto."
+  },
+  "74965854": {
+   "fragment_id": "67047319",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848)"
+   ],
+   "markdown": "###### Artigo 11.º — Norma transitória\n\nAs portarias que fixam os valores das taxas moderadoras aprovadas ao abrigo do Decreto-Lei n.º 173/2003, de 1 de Agosto, alterado pelos Decretos-Leis n.os 201/2007, de 24 de Maio, 79/2008, de 8 de Maio, e 38/2010, de 20 de Abril, mantêm-se em vigor até à data da entrada em vigor da portaria prevista no n.º 1 do artigo 3.º\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848)"
+  },
+  "67044172": {
+   "fragment_id": "67047320",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 2012."
+  },
+  "67044173": {
+   "fragment_id": "67047321",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Setembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 22 de Novembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 24 de Novembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "67057377": {
+   "fragment_id": "67047345",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Contraordenação pela utilização dos serviços de saúde sem pagamento de taxa moderadora",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 154.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 8.º-A — Contraordenação pela utilização dos serviços de saúde sem pagamento de taxa moderadora\n\n1 - Constitui contraordenação, punível com coima, a utilização dos serviços de saúde pelos utentes sem pagamento de taxa moderadora devida, no prazo de 10 dias seguidos após notificação para o efeito.\n\n2 - Para efeitos de aplicação da coima prevista no número anterior é considerado o valor do somatório das taxas moderadoras devidas na utilização diária dos serviços de saúde em cada uma das entidades referidas no artigo 2.º\n\n3 - A notificação a que se refere o número anterior é efetuada por carta registada para a morada constante no registo nacional de utentes ou, no caso de o utente não ser beneficiário do SNS, para a morada indicada no momento da prestação de cuidados de saúde.\n\n4 - As notificações efetuadas nos termos do número anterior presumem-se feitas no 3.º dia posterior ao registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.\n\n5 - Quando, por qualquer motivo, a carta seja devolvida, procede-se a segunda notificação, nos 15 dias seguintes à devolução, por nova carta registada para a mesma morada, presumindo a notificação nos termos do número anterior.\n\n6 - A contraordenação prevista no n.º 1 é punida com coima de valor mínimo correspondente a cinco vezes o valor da respetiva taxa moderadora, mas nunca inferior a (euro) 30, e de valor máximo correspondente ao quíntuplo do valor mínimo da coima, com respeito pelos limites máximos previstos no artigo 17.º do regime geral do ilícito de mera ordenação social.\n\n7 - A negligência é punível, sendo reduzido em metade o limite máximo da coima aplicável nos termos do presente artigo.\n\n8 - A Autoridade Tributária e Aduaneira (AT), através do serviço de finanças do domicílio fiscal do infrator, é a entidade competente para a instauração e instrução dos processos de contraordenação a que se refere o n.º 1, bem como para aplicação da coima.\n\n9 - Na falta de pagamento da taxa moderadora devida, é lavrado auto de notícia com os seguintes elementos:\n\na) Nome;\n\nb) Residência;\n\nc) Número de identificação fiscal;\n\nd) Data da assistência e valor da taxa moderadora;\n\ne) Data da notificação para cumprir;\n\nf) Data da infração;\n\ng) Indicação das normas infringidas e punitivas;\n\nh) Assinatura e identificação da entidade autuante.\n\n10 - É competente para o levantamento do auto de notícia a ACSS, I. P.\n\n11 - Pela entidade referida no número anterior é extraída a certidão de dívida, composta pela taxa moderadora e custos administrativos associados, que são remetidos à entidade competente para proceder à cobrança coerciva.\n\n12 - A entidade competente procede à emissão, e envio à Autoridade Tributária e Aduaneira, da certidão de dívida a que se refere o número anterior sempre que o montante em dívida seja igual, ou superior, a (euro) 10.\n\n13 - Cabe à AT promover a cobrança coerciva dos créditos compostos pela taxa moderadora, coima e custos administrativos, nos termos do Código de Procedimento e de Processo Tributário.\n\n14 - O produto da coima cobrado na sequência de processo de contraordenação ao abrigo da presente norma reverte:\n\na) 40 % para o Estado;\n\nb) 35 % para a entidade que elabora o auto de notícia;\n\nc) 25 % para a AT.\n\n15 - Em acaso de anulação do processo de contraordenação ou do processo de execução fiscal, os respetivos encargos serão suportados pela entidade que deu causa à respetiva instauração, sendo o acerto efetuado pela AT nas entregas dos quantitativos cobrados referentes ao mesmo período.\n\n16 - Às contraordenações previstas no presente decreto-lei, e em tudo o que nele não se encontre expressamente regulado, é aplicável o Regime Geral das Infrações Tributárias.\n\n> Alterado pelo/a Artigo 154.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "67057397": {
+   "fragment_id": "67047345",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Contraordenação pelo não pagamento de taxas moderadoras devidas pela utilização dos serviços de saúde",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25",
+    "Alterado pelo/a Artigo 154.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 8.º-A — Contraordenação pelo não pagamento de taxas moderadoras devidas pela utilização dos serviços de saúde\n\n1 - Constitui contraordenação, punível com coima, o não pagamento pelos utentes, no prazo de 10 dias seguidos após notificação para o efeito, das taxas moderadoras devidas pela utilização dos serviços de saúde num período de 90 dias, em cada uma das entidades referidas no artigo 2.º\n\n2 - (Revogado).\n\n3 - A notificação a que se refere o n.º 1 é efetuada por carta registada para o domicílio fiscal constante da base de dados da Autoridade Tributária e Aduaneira (AT).\n\n4 - As notificações efetuadas nos termos do número anterior presumem-se feitas no 3.º dia posterior ao registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.\n\n5 - Quando, por qualquer motivo, a carta seja devolvida, procede-se a segunda notificação, nos 15 dias seguintes à devolução, por nova carta registada para a mesma morada, presumindo a notificação nos termos do número anterior.\n\n6 - A contraordenação prevista no n.º 1 é punida com coima de valor mínimo correspondente a cinco vezes o valor das taxas moderadoras em dívida, mas nunca inferior a (euro) 30, e de valor máximo correspondente ao quíntuplo do valor mínimo da coima, com respeito pelos limites máximos previstos no artigo 17.º do regime geral do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro.\n\n7 - A negligência é punível, sendo reduzido em metade o limite máximo da coima aplicável nos termos do presente artigo.\n\n8 - A Autoridade Tributária e Aduaneira (AT), através do serviço de finanças do domicílio fiscal do infrator, é a entidade competente para a instauração e instrução dos processos de contraordenação a que se refere o n.º 1, bem como para aplicação da coima.\n\n9 - Na falta de pagamento das taxas moderadoras devidas, é lavrado auto de notícia com os seguintes elementos:\n\na) Nome;\n\nb) Domicílio fiscal;\n\nc) Número de identificação fiscal;\n\nd) Data de início e data de fim das prestações de saúde e valor das taxas moderadoras;\n\ne) Data da notificação para cumprir;\n\nf) Data da infração;\n\ng) Indicação das normas infringidas e punitivas;\n\nh) Assinatura e identificação da entidade autuante.\n\n10 - É competente para o levantamento do auto de notícia a ACSS, I. P.\n\n11 - Pela entidade referida no número anterior é extraída a certidão de dívida, composta pelas taxas moderadoras e custos administrativos associados, que são remetidos à entidade competente para proceder à cobrança coerciva.\n\n12 - A entidade competente procede à emissão, e envio à Autoridade Tributária e Aduaneira, da certidão de dívida a que se refere o número anterior sempre que o montante em dívida seja igual, ou superior, a (euro) 10.\n\n13 - Compete à AT promover a cobrança coerciva dos créditos compostos pelas taxas moderadoras, coima e custos administrativos, nos termos do Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro.\n\n14 - O produto da coima cobrado na sequência de processo de contraordenação ao abrigo da presente norma reverte:\n\na) 40 % para o Estado;\n\nb) 35 % para a entidade que elabora o auto de notícia;\n\nc) 25 % para a AT.\n\n15 - Em acaso de anulação do processo de contraordenação ou do processo de execução fiscal, os respetivos encargos serão suportados pela entidade que deu causa à respetiva instauração, sendo o acerto efetuado pela AT nas entregas dos quantitativos cobrados referentes ao mesmo período.\n\n16 - Às contraordenações previstas no presente decreto-lei, e em tudo o que nele não se encontre expressamente regulado, é aplicável o Regime Geral das Infrações Tributárias.\n\n17 - Para efeitos do disposto no n.º 3 e com observância do disposto na Lei da Proteção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de outubro:\n\na) A ACSS, I. P., comunica à AT, por via eletrónica e automatizada, o número de identificação fiscal dos utentes a notificar;\n\nb) A AT fica autorizada a disponibilizar à ACSS, I. P., também por via eletrónica e automatizada, o domicílio fiscal associado ao número de identificação fiscal do utente a notificar, constante da sua base de dados fiscal.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25\n\n> Alterado pelo/a Artigo 154.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "67057418": {
+   "fragment_id": "67047312",
+   "type": 11,
+   "heading": "Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:",
+   "in_force_from": "2014-08-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:\n\n1 - Estão isentos do pagamento de taxas moderadoras:\n\na) As grávidas e parturientes;\n\nb) As crianças até aos 12 anos de idade, inclusive;\n\nc) Os utentes com grau de incapacidade igual ou superior a 60%;\n\nd) Os utentes em situação de insuficiência económica, bem como os dependentes do respectivo agregado familiar, nos termos do artigo 6.º;\n\ne) Os dadores benévolos de sangue, nas prestações em cuidados de saúde primários;\n\nf) Os dadores vivos de células, tecidos e órgãos, nas prestações em cuidados de saúde primários;\n\ng) Os bombeiros, nas prestações em cuidados de saúde primários e, quando necessários em razão do exercício da sua actividade, em cuidados de saúde hospitalares;\n\nh) Os doentes transplantados;\n\ni) Os militares e ex-militares das Forças Armadas que, em virtude da prestação do serviço militar, se encontrem incapacitados de forma permanente;\n\nj) Os desempregados com inscrição válida no centro de emprego auferindo subsídio de desemprego igual ou inferior a 1,5 vezes o indexante de apoios sociais (IAS), que, em virtude de situação transitória ou de duração inferior a um ano, não podem comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º, e o respetivo cônjuge e dependentes.\n\nk) As crianças e jovens em processo de promoção e proteção a correr termos em comissão de proteção de crianças e jovens ou no tribunal, com medida aplicada no âmbito do artigo 35.º da Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, que não beneficiem da isenção prevista na alínea b) do presente artigo ou que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nl) Os menores que se encontrem em cumprimento de medida tutelar de internamento, medida cautelar de guarda em centro educativo ou medida cautelar de guarda em instituição pública ou privada, em virtude de decisão proferida no âmbito da Lei Tutelar Educativa, aprovada pela Lei n.º 166/99, de 14 de setembro, que não beneficiem da isenção prevista na alínea b) do presente artigo ou que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nm) As crianças e jovens integrados em qualquer das respostas sociais de acolhimento em virtude de decisão judicial proferida em processo tutelar cível, nos termos previstos no Decreto-Lei n.º 314/78, de 27 de outubro, e no Código Civil, e por força da qual a tutela ou o simples exercício das responsabilidades parentais sejam deferidos à instituição onde o menor se encontra integrado, que não beneficiem da isenção prevista na alínea b) do presente artigo ou que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nn) Os requerentes de asilo e refugiados e respetivos cônjuges ou equiparados e descendentes diretos.\n\n2 - A prova dos factos referidos no n.º 1 faz-se por documento emitido pelos serviços oficiais competentes.\n\n3 - Para os efeitos previstos no número anterior, os termos e as condições da apresentação do documento são definidos pelo conselho diretivo da Administração Central do Sistema de Saúde, I.P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "67057419": {
+   "fragment_id": "67047316",
+   "type": 11,
+   "heading": "Artigo 8.º — Dispensa de cobrança de taxas moderadoras",
+   "in_force_from": "2014-08-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06"
+   ],
+   "markdown": "###### Artigo 8.º — Dispensa de cobrança de taxas moderadoras\n\nÉ dispensada a cobrança de taxas moderadoras no âmbito das seguintes prestações de cuidados de saúde:\n\na) Consultas de planeamento familiar e actos complementares prescritos no decurso destas;\n\nb) Consultas, sessões de hospital de dia, bem como atos complementares prescritos no decurso destas, no âmbito de doenças neurológicas degenerativas e desmielinizantes, distrofias musculares, tratamento da dor crónica, saúde mental, deficiências congénitas de fatores de coagulação, infeção pelo vírus da imunodeficiência humana/SIDA e diabetes;\n\nc) Consultas, sessões de hospital de dia, bem como atos complementares prescritos no decurso destas, no âmbito do tratamento e seguimento da doença oncológica;\n\nd) Cuidados de saúde respiratórios no domicílio;\n\ne) Cuidados de saúde na área da diálise;\n\nf) Consultas e actos complementares necessários para as dádivas de células, sangue, tecidos e órgãos;\n\ng) Actos complementares de diagnóstico realizados no decurso de rastreios organizados de base populacional e de diagnóstico neonatal, promovidos no âmbito dos programas de prevenção da Direcção-Geral da Saúde;\n\nh) Consultas no domicílio realizadas por iniciativa dos serviços e estabelecimentos do SNS;\n\ni) Atendimentos urgentes e actos complementares decorrentes de atendimentos a vítimas de violência doméstica;\n\nj) Programas de tratamento de alcoólicos crónicos e toxicodependentes;\n\nk) Programas de tomas de observação directa;\n\nl) Vacinação prevista no programa nacional de vacinação e pessoas abrangidas pelo programa de vacinação contra a gripe sazonal;\n\nm) Atendimento em serviço de urgência, no seguimento de:\n\ni) Referenciação pela rede de prestação de cuidados de saúde primários para um serviço de urgência;\n\nii) Admissão a internamento através da urgência.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06"
+  },
+  "67057425": {
+   "fragment_id": "67047312",
+   "type": 11,
+   "heading": "Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:",
+   "in_force_from": "2015-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2015-67051306), em vigor a partir de 2015-05-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:\n\n1 - Estão isentos do pagamento de taxas moderadoras:\n\na) As grávidas e parturientes;\n\nb) Os menores;\n\nc) Os utentes com grau de incapacidade igual ou superior a 60%;\n\nd) Os utentes em situação de insuficiência económica, bem como os dependentes do respectivo agregado familiar, nos termos do artigo 6.º;\n\ne) Os dadores benévolos de sangue, nas prestações em cuidados de saúde primários;\n\nf) Os dadores vivos de células, tecidos e órgãos, nas prestações em cuidados de saúde primários;\n\ng) Os bombeiros, nas prestações em cuidados de saúde primários e, quando necessários em razão do exercício da sua actividade, em cuidados de saúde hospitalares;\n\nh) Os doentes transplantados;\n\ni) Os militares e ex-militares das Forças Armadas que, em virtude da prestação do serviço militar, se encontrem incapacitados de forma permanente;\n\nj) Os desempregados com inscrição válida no centro de emprego auferindo subsídio de desemprego igual ou inferior a 1,5 vezes o indexante de apoios sociais (IAS), que, em virtude de situação transitória ou de duração inferior a um ano, não podem comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º, e o respetivo cônjuge e dependentes.\n\nk) Os jovens em processo de promoção e proteção a correr termos em comissão de proteção de crianças e jovens ou no tribunal, com medida aplicada no âmbito do artigo 35.º da Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, alterada pela Lei n.º 31/2003, de 22 de agosto, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nl) Os jovens que se encontrem em cumprimento de medida tutelar de internamento, de medida cautelar de guarda em centro educativo ou de medida cautelar de guarda em instituição pública ou privada, por decisão proferida no âmbito da Lei Tutelar Educativa, aprovada pela Lei n.º 166/99, de 14 de setembro, alterada pela Lei n.º 4/2015, de 15 de janeiro, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nm) Os jovens integrados em qualquer das respostas sociais de acolhimento por decisão judicial proferida em processo tutelar cível, e nos termos da qual a tutela ou o simples exercício das responsabilidades parentais sejam deferidos à instituição onde os jovens se encontram integrados, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nn) Os requerentes de asilo e refugiados e respetivos cônjuges ou equiparados e descendentes diretos.\n\n2 - A prova dos factos referidos no n.º 1 faz-se por documento emitido pelos serviços oficiais competentes.\n\n3 - Para os efeitos previstos no número anterior, os termos e as condições da apresentação do documento são definidos pelo conselho diretivo da Administração Central do Sistema de Saúde, I.P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2015-67051306), em vigor a partir de 2015-05-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "70196159": {
+   "fragment_id": "67047312",
+   "type": 11,
+   "heading": "Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:",
+   "in_force_from": "2015-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 134/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/134-2015-70196961), em vigor a partir de 2015-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2015-67051306), em vigor a partir de 2015-05-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:\n\n1 - Estão isentos do pagamento de taxas moderadoras:\n\na) As grávidas e parturientes;\n\nb) Os menores;\n\nc) Os utentes com grau de incapacidade igual ou superior a 60%;\n\nd) Os utentes em situação de insuficiência económica, bem como os dependentes do respectivo agregado familiar, nos termos do artigo 6.º;\n\ne) Os dadores benévolos de sangue, nas prestações em cuidados de saúde primários;\n\nf) Os dadores vivos de células, tecidos e órgãos, nas prestações em cuidados de saúde primários;\n\ng) Os bombeiros, nas prestações em cuidados de saúde primários e, quando necessários em razão do exercício da sua actividade, em cuidados de saúde hospitalares;\n\nh) Os doentes transplantados;\n\ni) Os militares e ex-militares das Forças Armadas que, em virtude da prestação do serviço militar, se encontrem incapacitados de forma permanente;\n\nj) Os desempregados com inscrição válida no centro de emprego auferindo subsídio de desemprego igual ou inferior a 1,5 vezes o indexante de apoios sociais (IAS), que, em virtude de situação transitória ou de duração inferior a um ano, não podem comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º, e o respetivo cônjuge e dependentes.\n\nk) Os jovens em processo de promoção e proteção a correr termos em comissão de proteção de crianças e jovens ou no tribunal, com medida aplicada no âmbito do artigo 35.º da Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, alterada pela Lei n.º 31/2003, de 22 de agosto, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nl) Os jovens que se encontrem em cumprimento de medida tutelar de internamento, de medida cautelar de guarda em centro educativo ou de medida cautelar de guarda em instituição pública ou privada, por decisão proferida no âmbito da Lei Tutelar Educativa, aprovada pela Lei n.º 166/99, de 14 de setembro, alterada pela Lei n.º 4/2015, de 15 de janeiro, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nm) Os jovens integrados em qualquer das respostas sociais de acolhimento por decisão judicial proferida em processo tutelar cível, e nos termos da qual a tutela ou o simples exercício das responsabilidades parentais sejam deferidos à instituição onde os jovens se encontram integrados, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nn) Os requerentes de asilo e refugiados e respetivos cônjuges ou equiparados e descendentes diretos.\n\n2 - A isenção prevista na alínea a) do número anterior não se aplica à concretização da interrupção de gravidez na situação prevista na alínea e) do n.º 1 do artigo 142.º do Código Penal, aprovado pelo Decreto-Lei n.º 400/82, de 23 de setembro, na redação que lhe foi conferida pela Lei n.º 16/2007, de 17 de abril.\n\n3 - A prova dos factos referidos no n.º 1 faz-se por documento emitido pelos serviços oficiais competentes.\n\n4 - Para os efeitos previstos no número anterior, os termos e as condições da apresentação do documento são definidos pelo conselho diretivo da Administração Central do Sistema de Saúde, I.P.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 134/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/134-2015-70196961), em vigor a partir de 2015-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2015-67051306), em vigor a partir de 2015-05-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "203569674": {
+   "fragment_id": "67047312",
+   "type": 11,
+   "heading": "Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:",
+   "in_force_from": "2016-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 3/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/3-2016-73740376), em vigor a partir de 2016-03-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 134/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/134-2015-70196961), em vigor a partir de 2015-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2015-67051306), em vigor a partir de 2015-05-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:\n\n1 - Estão isentos do pagamento de taxas moderadoras:\n\na) As grávidas e parturientes;\n\nb) Os menores;\n\nc) Os utentes com grau de incapacidade igual ou superior a 60%;\n\nd) Os utentes em situação de insuficiência económica, bem como os dependentes do respectivo agregado familiar, nos termos do artigo 6.º;\n\ne) Os dadores benévolos de sangue, nas prestações em cuidados de saúde primários;\n\nf) Os dadores vivos de células, tecidos e órgãos, nas prestações em cuidados de saúde primários;\n\ng) Os bombeiros, nas prestações em cuidados de saúde primários e, quando necessários em razão do exercício da sua actividade, em cuidados de saúde hospitalares;\n\nh) Os doentes transplantados;\n\ni) Os militares e ex-militares das Forças Armadas que, em virtude da prestação do serviço militar, se encontrem incapacitados de forma permanente;\n\nj) Os desempregados com inscrição válida no centro de emprego auferindo subsídio de desemprego igual ou inferior a 1,5 vezes o indexante de apoios sociais (IAS), que, em virtude de situação transitória ou de duração inferior a um ano, não podem comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º, e o respetivo cônjuge e dependentes.\n\nk) Os jovens em processo de promoção e proteção a correr termos em comissão de proteção de crianças e jovens ou no tribunal, com medida aplicada no âmbito do artigo 35.º da Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, alterada pela Lei n.º 31/2003, de 22 de agosto, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nl) Os jovens que se encontrem em cumprimento de medida tutelar de internamento, de medida cautelar de guarda em centro educativo ou de medida cautelar de guarda em instituição pública ou privada, por decisão proferida no âmbito da Lei Tutelar Educativa, aprovada pela Lei n.º 166/99, de 14 de setembro, alterada pela Lei n.º 4/2015, de 15 de janeiro, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nm) Os jovens integrados em qualquer das respostas sociais de acolhimento por decisão judicial proferida em processo tutelar cível, e nos termos da qual a tutela ou o simples exercício das responsabilidades parentais sejam deferidos à instituição onde os jovens se encontram integrados, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nn) Os requerentes de asilo e refugiados e respetivos cônjuges ou equiparados e descendentes diretos.\n\n2 - A prova dos factos referidos no n.º 1 faz-se por documento emitido pelos serviços oficiais competentes.\n\n3 - Para os efeitos previstos no número anterior, os termos e as condições da apresentação do documento são definidos pelo conselho diretivo da Administração Central do Sistema de Saúde, I.P.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 3/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/3-2016-73740376), em vigor a partir de 2016-03-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 134/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/134-2015-70196961), em vigor a partir de 2015-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2015-67051306), em vigor a partir de 2015-05-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "74965856": {
+   "fragment_id": "67047310",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 205.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532)"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas moderadoras\n\nAs prestações de saúde, cujos encargos sejam suportados pelo orçamento do SNS, implicam o pagamento de taxas moderadoras nos seguintes casos:\n\na) Nas consultas nos prestadores de cuidados de saúde primários, no domicílio, nos hospitais e em outros estabelecimentos de saúde públicos ou privados, designadamente em entidades convencionadas;\n\nb) Na realização de exames complementares de diagnóstico e terapêutica em serviços de saúde públicos ou privados, designadamente em entidades convencionadas, com exceção dos efetuados em regime de internamento, no hospital de dia e no serviço de urgência para o qual haja referenciação pela rede de prestação de cuidados de saúde primários, pelo Centro de Atendimento do Serviço Nacional de Saúde ou pelo INEM;\n\nc) Nos serviços de urgência hospitalar;\n\nd) (Revogada).\n\n> Alterado pelo/a Artigo 205.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532)"
+  },
+  "74965857": {
+   "fragment_id": "67047312",
+   "type": 11,
+   "heading": "Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 205.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 3/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/3-2016-73740376), em vigor a partir de 2016-03-01",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 134/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/134-2015-70196961), em vigor a partir de 2015-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2015-67051306), em vigor a partir de 2015-05-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 4.º — Estão isentos do pagamento de taxas moderadoras:\n\n1 - Estão isentos do pagamento de taxas moderadoras:\n\na) As grávidas e parturientes;\n\nb) Os menores;\n\nc) Os utentes com grau de incapacidade igual ou superior a 60%;\n\nd) Os utentes em situação de insuficiência económica, bem como os dependentes do respectivo agregado familiar, nos termos do artigo 6.º;\n\ne) Os dadores benévolos de sangue;\n\nf) Os dadores vivos de células, tecidos e órgãos;\n\ng) Os bombeiros;\n\nh) Os doentes transplantados;\n\ni) Os militares e ex-militares das Forças Armadas que, em virtude da prestação do serviço militar, se encontrem incapacitados de forma permanente;\n\nj) Os desempregados com inscrição válida no centro de emprego auferindo subsídio de desemprego igual ou inferior a 1,5 vezes o indexante de apoios sociais (IAS), que, em virtude de situação transitória ou de duração inferior a um ano, não podem comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º, e o respetivo cônjuge e dependentes.\n\nk) Os jovens em processo de promoção e proteção a correr termos em comissão de proteção de crianças e jovens ou no tribunal, com medida aplicada no âmbito do artigo 35.º da Lei de Proteção de Crianças e Jovens em Perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, alterada pela Lei n.º 31/2003, de 22 de agosto, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nl) Os jovens que se encontrem em cumprimento de medida tutelar de internamento, de medida cautelar de guarda em centro educativo ou de medida cautelar de guarda em instituição pública ou privada, por decisão proferida no âmbito da Lei Tutelar Educativa, aprovada pela Lei n.º 166/99, de 14 de setembro, alterada pela Lei n.º 4/2015, de 15 de janeiro, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nm) Os jovens integrados em qualquer das respostas sociais de acolhimento por decisão judicial proferida em processo tutelar cível, e nos termos da qual a tutela ou o simples exercício das responsabilidades parentais sejam deferidos à instituição onde os jovens se encontram integrados, que não possam, por qualquer forma, comprovar a sua condição de insuficiência económica nos termos previstos no artigo 6.º;\n\nn) Os requerentes de asilo e refugiados e respetivos cônjuges ou equiparados e descendentes diretos.\n\n2 - A prova dos factos referidos no n.º 1 faz-se por documento emitido pelos serviços oficiais competentes.\n\n3 - Para os efeitos previstos no número anterior, os termos e as condições da apresentação do documento são definidos pelo conselho diretivo da Administração Central do Sistema de Saúde, I.P.\n\n> Alterado pelo/a Artigo 205.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 3/2016 - Diário da República n.º 41/2016, Série I de 2016-02-29](https://diariodarepublica.pt/dr/detalhe/lei/3-2016-73740376), em vigor a partir de 2016-03-01\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 134/2015 - Diário da República n.º 174/2015, Série I de 2015-09-07](https://diariodarepublica.pt/dr/detalhe/lei/134-2015-70196961), em vigor a partir de 2015-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 61/2015 - Diário da República n.º 78/2015, Série I de 2015-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2015-67051306), em vigor a partir de 2015-05-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "74965858": {
+   "fragment_id": "67047316",
+   "type": 11,
+   "heading": "Artigo 8.º — Dispensa de cobrança de taxas moderadoras",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 205.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06"
+   ],
+   "markdown": "###### Artigo 8.º — Dispensa de cobrança de taxas moderadoras\n\nÉ dispensada a cobrança de taxas moderadoras no âmbito das seguintes prestações de cuidados de saúde:\n\na) Consultas de planeamento familiar e atos complementares prescritos no decurso destas;\n\nb) Consultas, bem como atos complementares prescritos no decurso destas no âmbito de doenças neurológicas degenerativas e desmielinizantes, distrofias musculares, tratamento da dor crónica, saúde mental, deficiências congénitas de fatores de coagulação, infeção pelo vírus da imunodeficiência humana/SIDA, diabetes, tratamento e seguimento da doença oncológica;\n\nc) Primeira consulta de especialidade hospitalar, com referenciação pela rede de prestação de cuidados de saúde primários;\n\nd) Cuidados de saúde respiratórios no domicílio;\n\ne) Cuidados de saúde na área da diálise;\n\nf) Consultas e atos complementares necessários para as dádivas de células, sangue, tecidos e órgãos;\n\ng) Atos complementares de diagnóstico realizados no decurso de rastreios organizados de base populacional e de diagnóstico neonatal, promovidos no âmbito dos programas de prevenção da Direção-Geral da Saúde;\n\nh) Consultas no domicílio realizadas por iniciativa dos serviços e estabelecimentos do SNS;\n\ni) Atendimentos urgentes e atos complementares decorrentes de atendimentos a vítimas de violência doméstica;\n\nj) Programas de tratamento de alcoólicos crónicos e toxicodependentes;\n\nk) Programas de tomas de observação direta;\n\nl) Vacinação prevista no programa nacional de vacinação e pessoas abrangidas pelo programa de vacinação contra a gripe sazonal;\n\nm) Atendimento em serviço de urgência, no seguimento de:\n\ni) Referenciação pela rede de prestação de cuidados de saúde primários, pelo Centro de Atendimento do Serviço Nacional de Saúde e pelo INEM para um serviço de urgência, incluindo os atos complementares prescritos;\n\nii) Admissão a internamento através da urgência.\n\nn) Atendimento na rede de prestação de cuidados de saúde primários, no seguimento de referenciação pelo Centro de Atendimento do Serviço Nacional de Saúde.\n\n> Alterado pelo/a Artigo 205.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06"
+  },
+  "114559175": {
+   "fragment_id": "67047345",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Contraordenação pelo não pagamento de taxas moderadoras devidas pela utilização dos serviços de saúde",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 135.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25",
+    "Alterado pelo/a Artigo 154.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 8.º-A — Contraordenação pelo não pagamento de taxas moderadoras devidas pela utilização dos serviços de saúde\n\n1 - Constitui contraordenação, punível com coima, o não pagamento pelos utentes, no prazo de 10 dias seguidos após notificação para o efeito, das taxas moderadoras devidas pela utilização dos serviços de saúde num período de 90 dias, em cada uma das entidades referidas no artigo 2.º\n\n2 - (Revogado).\n\n3 - A notificação a que se refere o n.º 1 é efetuada por carta registada para o domicílio fiscal constante da base de dados da Autoridade Tributária e Aduaneira (AT).\n\n4 - As notificações efetuadas nos termos do número anterior presumem-se feitas no 3.º dia posterior ao registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.\n\n5 - Quando, por qualquer motivo, a carta seja devolvida, procede-se a segunda notificação, nos 15 dias seguintes à devolução, por nova carta registada para a mesma morada, presumindo a notificação nos termos do número anterior.\n\n6 - A contraordenação prevista no n.º 1 é punida com coima de valor mínimo correspondente a cinco vezes o valor das taxas moderadoras em dívida, mas nunca inferior a (euro) 30, e de valor máximo correspondente ao quíntuplo do valor mínimo da coima, com respeito pelos limites máximos previstos no artigo 17.º do regime geral do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro.\n\n7 - A negligência é punível, sendo reduzido em metade o limite máximo da coima aplicável nos termos do presente artigo.\n\n8 - A Autoridade Tributária e Aduaneira (AT), através do serviço de finanças do domicílio fiscal do infrator, é a entidade competente para a instauração e instrução dos processos de contraordenação a que se refere o n.º 1, bem como para aplicação da coima.\n\n9 - Na falta de pagamento das taxas moderadoras devidas, é lavrado auto de notícia com os seguintes elementos:\n\na) Nome;\n\nb) Domicílio fiscal;\n\nc) Número de identificação fiscal;\n\nd) Data de início e data de fim das prestações de saúde e valor das taxas moderadoras;\n\ne) Data da notificação para cumprir;\n\nf) Data da infração;\n\ng) Indicação das normas infringidas e punitivas;\n\nh) Assinatura e identificação da entidade autuante.\n\n10 - É competente para o levantamento do auto de notícia a ACSS, I. P.\n\n11 - Pela entidade referida no número anterior é extraída a certidão de dívida, composta pelas taxas moderadoras e custos administrativos associados, que são remetidos à entidade competente para proceder à cobrança coerciva.\n\n12 - A entidade competente procede à emissão, e envio à Autoridade Tributária e Aduaneira, da certidão de dívida a que se refere o número anterior sempre que o montante em dívida seja igual, ou superior, a (euro) 10.\n\n13 - Compete à AT promover a cobrança coerciva dos créditos compostos pelas taxas moderadoras, coima e custos administrativos, nos termos do Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro.\n\n14 - O produto da coima cobrado na sequência de processo de contraordenação ao abrigo da presente norma reverte:\n\na) 40 % para o Estado;\n\nb) 35 % para a entidade que elabora o auto de notícia;\n\nc) 25 % para a AT.\n\n15 - Em acaso de anulação do processo de contraordenação ou do processo de execução fiscal, os respetivos encargos serão suportados pela entidade que deu causa à respetiva instauração, sendo o acerto efetuado pela AT nas entregas dos quantitativos cobrados referentes ao mesmo período.\n\n16 - Às contraordenações previstas no presente decreto-lei, e em tudo o que nele não se encontre expressamente regulado, é aplicável o Regime Geral das Infrações Tributárias.\n\n17 - Para efeitos do disposto no n.º 3 e com observância do disposto na Lei da Proteção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de outubro:\n\na) A ACSS, I. P., comunica à AT, por via eletrónica e automatizada, o número de identificação fiscal dos utentes a notificar;\n\nb) A AT fica autorizada a disponibilizar à ACSS, I. P., também por via eletrónica e automatizada, o domicílio fiscal associado ao número de identificação fiscal do utente a notificar, constante da sua base de dados fiscal.\n\n> Revogado pelo/a Artigo 135.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25\n\n> Alterado pelo/a Artigo 154.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "114559176": {
+   "fragment_id": "67047316",
+   "type": 11,
+   "heading": "Artigo 8.º — Dispensa de cobrança de taxas moderadoras",
+   "in_force_from": "2017-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2017 - Diário da República n.º 195/2017, Série I de 2017-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2017-108280429), em vigor a partir de 2017-11-01",
+    "Alterado pelo/a Artigo 205.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06"
+   ],
+   "markdown": "###### Artigo 8.º — Dispensa de cobrança de taxas moderadoras\n\nÉ dispensada a cobrança de taxas moderadoras no âmbito das seguintes prestações de cuidados de saúde:\n\na) Consultas de planeamento familiar e atos complementares prescritos no decurso destas;\n\nb) Consultas, bem como atos complementares prescritos no decurso destas no âmbito de doenças neurológicas degenerativas e desmielinizantes, distrofias musculares, tratamento da dor crónica, saúde mental, deficiências congénitas de fatores de coagulação, infeção pelo vírus da imunodeficiência humana/SIDA, diabetes, tratamento e seguimento da doença oncológica;\n\nc) Primeira consulta de especialidade hospitalar, com referenciação pela rede de prestação de cuidados de saúde primários;\n\nd) Cuidados de saúde respiratórios no domicílio;\n\ne) Cuidados de saúde na área da diálise;\n\nf) Consultas e atos complementares necessários para as dádivas de células, sangue, tecidos e órgãos;\n\ng) Consultas e atos complementares de diagnóstico e terapêutica realizados no decurso de rastreios de base populacional, rastreios de infeções VIH/SIDA, hepatites, tuberculose pulmonar e doenças sexualmente transmissíveis, de programas de diagnóstico precoce e de diagnóstico neonatal, e no âmbito da profilaxia pré-exposição para o VIH, promovidos no âmbito dos programas de prevenção da Direção-Geral da Saúde;\n\nh) Consultas no domicílio realizadas por iniciativa dos serviços e estabelecimentos do SNS;\n\ni) Atendimentos urgentes e atos complementares decorrentes de atendimentos a vítimas de violência doméstica;\n\nj) Programas de tratamento de alcoólicos crónicos e toxicodependentes;\n\nk) Programas de tomas de observação direta;\n\nl) Vacinação prevista no programa nacional de vacinação e pessoas abrangidas pelo programa de vacinação contra a gripe sazonal;\n\nm) Atendimento em serviço de urgência, no seguimento de:\n\ni) Referenciação pela rede de prestação de cuidados de saúde primários, pelo Centro de Atendimento do Serviço Nacional de Saúde e pelo INEM para um serviço de urgência, incluindo os atos complementares prescritos;\n\nii) Admissão a internamento através da urgência.\n\nn) Atendimento na rede de prestação de cuidados de saúde primários, no seguimento de referenciação pelo Centro de Atendimento do Serviço Nacional de Saúde.\n\no) Consultas, bem como atos complementares prescritos no decurso destas no âmbito da prestação de cuidados pelas equipas específicas de cuidados paliativos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2017 - Diário da República n.º 195/2017, Série I de 2017-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2017-108280429), em vigor a partir de 2017-11-01\n\n> Alterado pelo/a Artigo 205.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06"
+  },
+  "124413385": {
+   "fragment_id": "124392190",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Dispensa de cobrança de taxas moderadoras nos cuidados de saúde primários e sempre que a origem da referenciação for o Serviço Nacional de Saúde",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 84/2019 - Diário da República n.º 168/2019, Série I de 2019-09-03](https://diariodarepublica.pt/dr/detalhe/lei/84-2019-124392056)"
+   ],
+   "markdown": "###### Artigo 7.º-A — Dispensa de cobrança de taxas moderadoras nos cuidados de saúde primários e sempre que a origem da referenciação for o Serviço Nacional de Saúde\n\nCom o objetivo de promover a correta orientação dos utentes, deve ser dispensada a cobrança de taxas moderadoras nos cuidados de saúde primários e, se a origem da referenciação for o SNS, nas demais prestações de saúde, nos termos que vierem a ser definidos nos diplomas de execução orçamental.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 84/2019 - Diário da República n.º 168/2019, Série I de 2019-09-03](https://diariodarepublica.pt/dr/detalhe/lei/84-2019-124392056)"
+  },
+  "147534327": {
+   "fragment_id": "67047316",
+   "type": 11,
+   "heading": "Artigo 8.º — Dispensa de cobrança de taxas moderadoras",
+   "in_force_from": "2020-11-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2020 - Diário da República n.º 215/2020, Série I de 2020-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2020-147533138), em vigor a partir de 2020-11-05, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2017 - Diário da República n.º 195/2017, Série I de 2017-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2017-108280429), em vigor a partir de 2017-11-01",
+    "Alterado pelo/a Artigo 205.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06"
+   ],
+   "markdown": "###### Artigo 8.º — Dispensa de cobrança de taxas moderadoras\n\nÉ dispensada a cobrança de taxas moderadoras no âmbito das seguintes prestações de cuidados de saúde:\n\na) Consultas de planeamento familiar e atos complementares prescritos no decurso destas;\n\nb) Consultas, bem como atos complementares prescritos no decurso destas no âmbito de doenças neurológicas degenerativas e desmielinizantes, distrofias musculares, tratamento da dor crónica, saúde mental, deficiências congénitas de fatores de coagulação, infeção pelo vírus da imunodeficiência humana/SIDA, diabetes, tratamento e seguimento da doença oncológica;\n\nc) Primeira consulta de especialidade hospitalar, com referenciação pela rede de prestação de cuidados de saúde primários;\n\nd) Cuidados de saúde respiratórios no domicílio;\n\ne) Cuidados de saúde na área da diálise;\n\nf) Consultas e atos complementares necessários para as dádivas de células, sangue, tecidos e órgãos;\n\ng) Consultas e atos complementares de diagnóstico e terapêutica realizados no decurso de rastreios de base populacional, rastreios de infeções VIH/SIDA, hepatites, tuberculose pulmonar e doenças sexualmente transmissíveis, de programas de diagnóstico precoce e de diagnóstico neonatal, e no âmbito da profilaxia pré-exposição para o VIH, promovidos no âmbito dos programas de prevenção da Direção-Geral da Saúde;\n\nh) Consultas no domicílio realizadas por iniciativa dos serviços e estabelecimentos do SNS;\n\ni) Atendimentos urgentes e atos complementares decorrentes de atendimentos a vítimas de violência doméstica;\n\nj) Programas de tratamento de alcoólicos crónicos e toxicodependentes;\n\nk) Programas de tomas de observação direta;\n\nl) Vacinação prevista no programa nacional de vacinação e pessoas abrangidas pelo programa de vacinação contra a gripe sazonal;\n\nm) Atendimento em serviço de urgência, no seguimento de:\n\ni) Referenciação pela rede de prestação de cuidados de saúde primários, pelo Centro de Atendimento do Serviço Nacional de Saúde e pelo INEM para um serviço de urgência, incluindo os atos complementares prescritos;\n\nii) Admissão a internamento através da urgência.\n\nn) Consultas e todos os exames complementares de diagnóstico e terapêutica prescritos no âmbito da rede de prestação de cuidados de saúde primários.\n\no) Consultas, bem como atos complementares prescritos no decurso destas no âmbito da prestação de cuidados pelas equipas específicas de cuidados paliativos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2020 - Diário da República n.º 215/2020, Série I de 2020-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2020-147533138), em vigor a partir de 2020-11-05, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 131/2017 - Diário da República n.º 195/2017, Série I de 2017-10-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2017-108280429), em vigor a partir de 2017-11-01\n\n> Alterado pelo/a Artigo 205.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 117/2014 - Diário da República n.º 149/2014, Série I de 2014-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2014-55076560), em vigor a partir de 2014-08-06"
+  },
+  "124413387": {
+   "fragment_id": "67047345",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Contraordenação pelo não pagamento de taxas moderadoras devidas pela utilização dos serviços de saúde",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 135.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25",
+    "Alterado pelo/a Artigo 154.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+   ],
+   "markdown": "###### Artigo 8.º-A — Contraordenação pelo não pagamento de taxas moderadoras devidas pela utilização dos serviços de saúde\n\n1 - Constitui contraordenação, punível com coima, o não pagamento pelos utentes, no prazo de 10 dias seguidos após notificação para o efeito, das taxas moderadoras devidas pela utilização dos serviços de saúde num período de 90 dias, em cada uma das entidades referidas no artigo 2.º\n\n2 - (Revogado).\n\n3 - A notificação a que se refere o n.º 1 é efetuada por carta registada para o domicílio fiscal constante da base de dados da Autoridade Tributária e Aduaneira (AT).\n\n4 - As notificações efetuadas nos termos do número anterior presumem-se feitas no 3.º dia posterior ao registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.\n\n5 - Quando, por qualquer motivo, a carta seja devolvida, procede-se a segunda notificação, nos 15 dias seguintes à devolução, por nova carta registada para a mesma morada, presumindo a notificação nos termos do número anterior.\n\n6 - A contraordenação prevista no n.º 1 é punida com coima de valor mínimo correspondente a cinco vezes o valor das taxas moderadoras em dívida, mas nunca inferior a (euro) 30, e de valor máximo correspondente ao quíntuplo do valor mínimo da coima, com respeito pelos limites máximos previstos no artigo 17.º do regime geral do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro.\n\n7 - A negligência é punível, sendo reduzido em metade o limite máximo da coima aplicável nos termos do presente artigo.\n\n8 - A Autoridade Tributária e Aduaneira (AT), através do serviço de finanças do domicílio fiscal do infrator, é a entidade competente para a instauração e instrução dos processos de contraordenação a que se refere o n.º 1, bem como para aplicação da coima.\n\n9 - Na falta de pagamento das taxas moderadoras devidas, é lavrado auto de notícia com os seguintes elementos:\n\na) Nome;\n\nb) Domicílio fiscal;\n\nc) Número de identificação fiscal;\n\nd) Data de início e data de fim das prestações de saúde e valor das taxas moderadoras;\n\ne) Data da notificação para cumprir;\n\nf) Data da infração;\n\ng) Indicação das normas infringidas e punitivas;\n\nh) Assinatura e identificação da entidade autuante.\n\n10 - É competente para o levantamento do auto de notícia a ACSS, I. P.\n\n11 - Pela entidade referida no número anterior é extraída a certidão de dívida, composta pelas taxas moderadoras e custos administrativos associados, que são remetidos à entidade competente para proceder à cobrança coerciva.\n\n12 - A entidade competente procede à emissão, e envio à Autoridade Tributária e Aduaneira, da certidão de dívida a que se refere o número anterior sempre que o montante em dívida seja igual, ou superior, a (euro) 10.\n\n13 - Compete à AT promover a cobrança coerciva dos créditos compostos pelas taxas moderadoras, coima e custos administrativos, nos termos do Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro.\n\n14 - O produto da coima cobrado na sequência de processo de contraordenação ao abrigo da presente norma reverte:\n\na) 40 % para o Estado;\n\nb) 35 % para a entidade que elabora o auto de notícia;\n\nc) 25 % para a AT.\n\n15 - Em acaso de anulação do processo de contraordenação ou do processo de execução fiscal, os respetivos encargos serão suportados pela entidade que deu causa à respetiva instauração, sendo o acerto efetuado pela AT nas entregas dos quantitativos cobrados referentes ao mesmo período.\n\n16 - Às contraordenações previstas no presente decreto-lei, e em tudo o que nele não se encontre expressamente regulado, é aplicável o Regime Geral das Infrações Tributárias.\n\n17 - Para efeitos do disposto no n.º 3 e com observância do disposto na Lei da Proteção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de outubro:\n\na) A ACSS, I. P., comunica à AT, por via eletrónica e automatizada, o número de identificação fiscal dos utentes a notificar;\n\nb) A AT fica autorizada a disponibilizar à ACSS, I. P., também por via eletrónica e automatizada, o domicílio fiscal associado ao número de identificação fiscal do utente a notificar, constante da sua base de dados fiscal.\n\n> Revogado pelo/a Artigo 135.º do/a [Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672), em vigor a partir de 2017-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 51/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/lei/51-2013-498764), em vigor a partir de 2013-07-25\n\n> Alterado pelo/a Artigo 154.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848), em vigor a partir de 2012-06-22"
+  },
+  "124413388": {
+   "fragment_id": "67047317",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração ao Decreto-Lei n.º 70/2010, de 16 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao Decreto-Lei n.º 70/2010, de 16 de Junho\n\nO artigo 1.º do Decreto-Lei n.º 70/2010, de 16 de Junho, passa a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) Comparticipação de medicamentos;\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\n3 - ...»"
+  },
+  "124413389": {
+   "fragment_id": "67047318",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 173/2003, de 1 de Agosto, alterado pelos Decretos-Leis n.os 201/2007, de 24 de Maio, 79/2008, de 8 de Maio, e 38/2010, de 20 de Abril;\n\nb) O artigo 3.º da Portaria n.º 1319/2010, de 28 de Dezembro;\n\nc) A Portaria n.º 349/96, de 8 de Agosto."
+  },
+  "124413390": {
+   "fragment_id": "67047319",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848)"
+   ],
+   "markdown": "###### Artigo 11.º — Norma transitória\n\nAs portarias que fixam os valores das taxas moderadoras aprovadas ao abrigo do Decreto-Lei n.º 173/2003, de 1 de Agosto, alterado pelos Decretos-Leis n.os 201/2007, de 24 de Maio, 79/2008, de 8 de Maio, e 38/2010, de 20 de Abril, mantêm-se em vigor até à data da entrada em vigor da portaria prevista no n.º 1 do artigo 3.º\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2012 - Diário da República n.º 119/2012, Série I de 2012-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2012-178848)"
+  },
+  "124413391": {
+   "fragment_id": "67047320",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 2012."
+  },
+  "124413392": {
+   "fragment_id": "67047321",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Setembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 22 de Novembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 24 de Novembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

@@ -1,0 +1,668 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:129578003:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/regulamento-cmvm/2020-201400285",
+ "dre_path": "/dr/detalhe/regulamento-cmvm/1-2020-129578003",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-02-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "201353476",
+    "201353477",
+    "201353478",
+    "201353479",
+    "201353480",
+    "201353481",
+    "201353482",
+    "201353483",
+    "201353484",
+    "201353485",
+    "201353486",
+    "201353487",
+    "201353488",
+    "201353489",
+    "201353490",
+    "201353491"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151322794:por",
+     "title": "Regulamento da CMVM n.º 6/2020 - 2.ª Série",
+     "published": "2020-12-16",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/6-2020-151322794"
+    }
+   ],
+   "changes": [
+    "Adita Anexo VII",
+    "Adita Anexo VIII",
+    "Adita Anexo IX",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV",
+    "Altera Anexo V",
+    "Altera Anexo VI"
+   ],
+   "fragments": [
+    "201353476",
+    "201353477",
+    "201353573",
+    "201353479",
+    "201353574",
+    "201353481",
+    "201353482",
+    "201353483",
+    "201353484",
+    "201353485",
+    "201353567",
+    "201353568",
+    "201353569",
+    "201353570",
+    "201353571",
+    "201353572",
+    "201353564",
+    "201353565",
+    "201353566"
+   ]
+  },
+  {
+   "date": "2022-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:200305642:por",
+     "title": "Regulamento da CMVM n.º 7/2022 - 2.ª Série",
+     "published": "2022-08-26",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/7-2022-200305642"
+    }
+   ],
+   "changes": [
+    "Adita Capítulo III-A",
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Adita Artigo 4.º-C",
+    "Adita Artigo 4.º-D",
+    "Adita Artigo 4.º-E",
+    "Adita Anexo X",
+    "Adita Anexo XI",
+    "Adita Anexo XII",
+    "Adita Anexo XIII",
+    "Adita Anexo XIV",
+    "Adita Anexo XV",
+    "Adita Anexo XVI",
+    "Adita Anexo XVII",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "201353476",
+    "201414230",
+    "201414221",
+    "201414231",
+    "201414222",
+    "201414232",
+    "201353482",
+    "201353483",
+    "201414233",
+    "201414235",
+    "201414237",
+    "201414239",
+    "201414241",
+    "201414243",
+    "201414226",
+    "201353485",
+    "201414227",
+    "201414228",
+    "201414229",
+    "201414207",
+    "201414208",
+    "201414209",
+    "201414210",
+    "201414211",
+    "201414212",
+    "201414213",
+    "201414214",
+    "201414215",
+    "201414216",
+    "201414217",
+    "201414218",
+    "201414219",
+    "201414220"
+   ]
+  }
+ ],
+ "fragments": {
+  "201353476": {
+   "fragment_id": "201400286",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regulamento da CMVM n.º 1/2020\n\nSumário: Envio de informação à Comissão do Mercado de Valores Mobiliários para efeitos de supervisão prudencial.\n\nEnvio de informação à CMVM para efeitos de supervisão prudencial\n\nO presente regime de envio de informação para efeitos de supervisão prudencial decorre da transferência, do Banco de Portugal para a Comissão do Mercado de Valores Mobiliários (CMVM), das competências de supervisão prudencial sobre as sociedades gestoras de organismos de investimento coletivo e sociedades gestoras de fundos de titularização de créditos, operada pelo Decreto-Lei n.º 144/2019, que concentrou, na CMVM, a supervisão prudencial e comportamental destas entidades.\n\nA revisão do regime prudencial aplicável às sociedades gestoras de organismos de investimento coletivo e sociedades gestoras de fundos de titularização de créditos foi pautada por princípios de certeza, adequação e proporcionalidade, tendo em consideração o papel destas sociedades gestoras no mercado e o risco que as atividades por si desenvolvidas acarretam. O presente regulamento prevê assim apenas o envio de informação que se considera imprescindível para efeitos de supervisão prudencial destas entidades.\n\nSem prejuízo da delimitação do âmbito de aplicação deste regulamento, que inclui as sociedades gestoras de organismos de investimento coletivo e sociedades gestoras de fundos de titularização de créditos, afigura-se desejável que, num momento posterior, esse âmbito de aplicação possa ser alargado de modo a abranger outras entidades sobre as quais a CMVM já tem competências de supervisão prudencial.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 71.º-P e no artigo 254.º do Regime Geral dos Organismos de Investimento Coletivo, no artigo 369.º do Código dos Valores Mobiliários, na alínea d) do n.º 2 do artigo 1.º, na alínea r) do artigo 12.º e na alínea a) do n.º 3 do artigo 15.º, todos dos Estatutos da CMVM, aprovados pelo Decreto-Lei n.º 5/2015, de 8 de janeiro, e no artigo 41.º da Lei-Quadro das Entidades Reguladoras, aprovada pela Lei n.º 67/2013, de 28 de agosto, o Conselho de Administração da CMVM aprova o seguinte regulamento:"
+  },
+  "201353477": {
+   "fragment_id": "201400287",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "201353478": {
+   "fragment_id": "201400288",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente regulamento define a forma e o conteúdo dos deveres de envio de informação à CMVM, pelas seguintes entidades, adiante designadas por \"Entidades\", para efeitos da respetiva supervisão prudencial:\n\na) Sociedades gestoras de organismos de investimento coletivo;\n\nb) Sociedades gestoras de fundos de titularização de créditos."
+  },
+  "201353479": {
+   "fragment_id": "201400289",
+   "type": 1,
+   "heading": "Capítulo II — Informação relativa ao cumprimento dos requisitos prudenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Informação relativa ao cumprimento dos requisitos prudenciais"
+  },
+  "201353480": {
+   "fragment_id": "201400290",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisitos prudenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requisitos prudenciais\n\n1 - As Entidades enviam trimestralmente à CMVM, até ao último dia do mês seguinte ao termo do trimestre a que respeita, a seguinte informação relativa a requisitos prudenciais:\n\na) A informação prevista no Anexo I, relativa às sociedades gestoras de organismos de investimento coletivo;\n\nb) A informação prevista no Anexo II, relativa às sociedades gestoras de fundos de titularização de créditos.\n\n2 - As Entidades cujos requisitos prudenciais aplicáveis se encontrem abaixo do legalmente previstos:\n\na) Informam imediatamente a CMVM desse facto, através do endereço eletrónico sup_continua@cmvm.pt;\n\nb) Enviam à CMVM, no prazo de um mês a contar da comunicação prevista na alínea anterior, um plano de viabilidade económica e financeira, devidamente calendarizado, com vista à regularização dos requisitos prudenciais aplicáveis, nos termos do Anexo III; e\n\nc) Passam a enviar mensalmente à CMVM a informação prevista no n.º 1, até ao último dia do mês seguinte ao termo do mês a que a informação respeita.\n\n3 - A obrigação prevista na alínea c) do número anterior inicia-se no mês em que ocorra a situação aí referida e termina no mês em que for regularizado o incumprimento, inclusive."
+  },
+  "201353481": {
+   "fragment_id": "201400291",
+   "type": 1,
+   "heading": "Capítulo III — Informação relativa aos dados económico-financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Informação relativa aos dados económico-financeiros"
+  },
+  "201353482": {
+   "fragment_id": "201400292",
+   "type": 11,
+   "heading": "Artigo 3.º — Balanço, demonstração dos resultados e demonstração do outro rendimento integral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Balanço, demonstração dos resultados e demonstração do outro rendimento integral\n\n1 - As Entidades enviam à CMVM informação relativa ao balanço, demonstração dos resultados e demonstração do outro rendimento integral, de acordo com o previsto no Anexo IV:\n\na) Com periodicidade trimestral, até ao último dia do mês seguinte ao termo do trimestre a que respeita; ou\n\nb) Com periodicidade mensal, até ao último dia do mês seguinte ao termo do mês a que respeita, se estiverem na situação referida no n.º 2 do artigo 2.º\n\n2 - A obrigação prevista na alínea b) do número anterior inicia-se no mês em que ocorra a situação referida no n.º 2 do artigo 2.º e termina no mês em que for regularizado o incumprimento, inclusive."
+  },
+  "201353483": {
+   "fragment_id": "201400293",
+   "type": 11,
+   "heading": "Artigo 4.º — Relatório e contas anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Relatório e contas anuais\n\n1 - As Entidades enviam à CMVM, até 30 de junho do ano seguinte a que a informação respeita, nos termos do Anexo V, os seguintes documentos de prestação de contas anuais:\n\na) Relatório de gestão;\n\nb) Balanço, demonstração dos resultados, demonstração dos fluxos de caixa, demonstração das alterações no capital próprio, demonstração do outro rendimento integral e respetivos anexos;\n\nc) Parecer do órgão de fiscalização e certificação legal das contas; e\n\nd) Demais documentos de prestação de contas exigidos por lei ou regulamento.\n\n2 - As Entidades pronunciam-se no relatório de gestão sobre o cumprimento dos requisitos de natureza prudencial que lhes sejam aplicáveis.\n\n3 - Aquando do envio da informação referida no n.º 1 deste artigo, as Entidades enviam à CMVM informação relativa às reservas e ênfases constantes da certificação legal das contas, conforme previsto no Anexo VI."
+  },
+  "201353484": {
+   "fragment_id": "201400294",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "201353485": {
+   "fragment_id": "201400295",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e produção de efeitos\n\n1 - O presente regulamento entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O disposto no presente regulamento aplica-se a informação com referência a uma data posterior a 1 de janeiro de 2020.\n\n13 de fevereiro de 2020. - A Presidente do Conselho de Administração, Gabriela Figueiredo Dias. - O Vogal do Conselho de Administração, Rui Pinto"
+  },
+  "201353486": {
+   "fragment_id": "201400296",
+   "type": 14,
+   "heading": "Anexo I — Informação Sobre Requisitos Prudenciais das Sociedades Gestoras de Organismos de Investimento Coletivo (SGOIC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Informação Sobre Requisitos Prudenciais das Sociedades Gestoras de Organismos de Investimento Coletivo (SGOIC)\n\nEspecificidades relativas ao reporte previsto no ficheiro SGO:\n\nNorma 1: O presente Anexo rege as especificidades relativas ao reporte previsto na alínea a) do n.º 1 do artigo 2.º do presente Regulamento.\n\nNorma 2: A seguinte informação é enviada em ficheiro de dados.\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016. Por cada linha do ficheiro são indicados os campos infra, com o conteúdo aí especificado.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto ao conteúdo do ficheiro de dados:\n\nRubrica 1 = R01 (Campo 1): Informação sobre o valor líquido sob gestão das SGOIC, sendo este campo preenchido com o código \"R01\", seguido dos seguintes campos.\n\nValor líquido global dos organismos de investimento coletivo em valores mobiliários (Campo 2): Campo que identifica o valor líquido global dos organismos de investimento coletivo em valores mobiliários (OICVM), conforme alínea d) do n.º 2 do artigo 71.º - M do Regime Geral dos Organismos de Investimento Coletivo (RGOIC).\n\nValor líquido global dos organismos de investimento em capital de risco (Campo 3): Campo que identifica o valor líquido global dos organismos de investimento em capital de risco (OICR), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos fundos de empreendedorismo social (Campo 4): Campo que identifica o valor líquido global dos fundos de empreendedorismo social (FES), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos organismos de investimento alternativo especializado (Campo 5): Campo que identifica o valor líquido global dos organismos de investimento alternativo especializado (OIAE), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos organismos de investimento alternativo em valores mobiliários (Campo 6): Campo que identifica o valor líquido global dos organismos de investimento alternativo em valores mobiliários (OIAVM), conforme alínea d) do n.º 2 do artigo 71.º - M do RGOIC.\n\nValor líquido global dos organismos de investimento imobiliário (Campo 7): Campo que identifica o valor líquido global dos organismos de investimento imobiliário (OII), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos organismos de investimento em ativos não financeiros (Campo 8): Campo que identifica o valor líquido global dos organismos de investimento em ativos não financeiros (OIAnF), conforme alínea d) do n.º 2 do artigo 71.-M do RGOIC.\n\nValor líquido global dos fundos de titularização de créditos (Campo 9): Campo que identifica o valor líquido global dos fundos de titularização de créditos (FTC), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global de outros organismos de investimento coletivo (Campo 10): Campo que identifica o valor líquido global de outros organismos de investimento coletivo previstos nas alíneas f) e g) do n.º 3 do artigo 71.º-B do RGOIC conforme alínea d) do n.º 2 do artigo 71.º-M do referido diploma.\n\n(ver documento original)\n\nRubrica 2 = R02 (Campo 1): Informação sobre os valores de referência para o cálculo dos fundos próprios, sendo este campo preenchido com o código \"R02\", seguido dos seguintes campos.\n\nDespesas gerais fixas (Campo 2): Campo de preenchimento obrigatório que identifica o montante das despesas gerais fixas, conforme alínea a) do n.º 1 do artigo 71.º-M do RGOIC.\n\nCapital inicial (Campo 3): Campo de preenchimento obrigatório que identifica o montante do capital inicial detido, calculado de acordo com o previsto na alínea b) do n.º 1 do artigo 2.º do RGOIC.\n\nGarantia (Campo 4): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea c) do n.º 2 do artigo 71.º-M do RGOIC.\n\n(ver documento original)\n\nRubrica 3 = R03 (Campo 1): Informação sobre medidas suplementares para cobertura de risco decorrente da atividade de gestão de organismos de investimento alternativo (OIA), sendo este campo preenchido com o código \"R03\", seguido dos seguintes campos.\n\nValor das carteiras dos OIA geridos (Campo 2): Campo que identifica a soma do valor absoluto de todos os ativos de todos os OIA geridos pela SGOIC, incluindo os ativos adquiridos através do recurso ao efeito de alavanca, sendo os instrumentos derivados avaliados pelo seu valor de mercado, de acordo com o previsto na alínea a) do n.º 3 do artigo 71.º-M do RGOIC.\n\nSeguro de responsabilidade civil profissional (Campo 3): Campo que identifica a existência de seguro de responsabilidade civil profissional, de acordo com o previsto na subalínea ii) da alínea a) do n.º 3 do artigo 71.º-M do RGOIC, sendo preenchido com um dos seguintes códigos:\n\n\"S\", caso tenha sido celebrado um seguro de responsabilidade civil profissional;\n\n\"N\", caso não tenha sido celebrado um seguro de responsabilidade civil profissional.\n\n(ver documento original)\n\nRubrica 4 = R04 (Campo 1): Informação sobre os fundos próprios e ativos líquidos da SGOIC, sendo este campo preenchido com o código \"R04\", seguido dos seguintes campos.\n\nFundos próprios da SGOIC (Campo 2): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela SGOIC, calculados de acordo com a alínea v) do n.º 1 do artigo 2.º RGOIC.\n\nAtivos líquidos da SGOIC (Campo 3): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela SGOIC; por ativos líquidos entendem-se os previstos no n.º 1 do artigo 416.º do Regulamento (UE) n.º 575/2013, excluindo a condição prevista na alínea d) do n.º 3 do referido artigo, e as disponibilidades e aplicações em outras instituições de crédito com prazo residual inferior a 30 dias ou mobilizáveis sem penalização num prazo máximo de 30 dias.\n\n(ver documento original)"
+  },
+  "201353487": {
+   "fragment_id": "201400297",
+   "type": 14,
+   "heading": "Anexo II — Informação sobre requisitos prudenciais das Sociedades Gestoras de Fundos de Titularização de Créditos (SGFTC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Informação sobre requisitos prudenciais das Sociedades Gestoras de Fundos de Titularização de Créditos (SGFTC)\n\nEspecificidades relativas ao reporte previsto no ficheiro GTC:\n\nNorma 1: O presente Anexo rege as especificidades relativas ao reporte previsto na alínea b) do n.º 1 do artigo 2.º do presente Regulamento.\n\nNorma 2: A seguinte informação é enviada em ficheiro de dados.\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016. Por cada linha do ficheiro são indicados os campos infra, com o conteúdo aí especificado.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto ao conteúdo do ficheiro de dados:\n\nRubrica 1 = R01 (Campo 1): Informação sobre o valor líquido sob gestão das SGFTC, sendo este campo preenchido com o código \"R01\", seguido dos seguintes campos.\n\nValor líquido global dos fundos (Campo 2): Campo de preenchimento obrigatório que identifica o valor líquido global dos fundos de titularização de créditos (FTC), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC, ex vi artigo 19.º do Regime Jurídico da Titularização de Créditos (RJTC).\n\n(ver documento original)\n\nRubrica 2 = R02 (Campo 1): Informação sobre os valores de referência para o cálculo dos fundos próprios, sendo este campo preenchido com o código \"R02\", seguido dos seguintes campos.\n\nDespesas gerais fixas (Campo 2): Campo de preenchimento obrigatório que identifica o montante das despesas gerais fixas, conforme alínea a) do n.º 1 do artigo 71.º-M do RGOIC, ex vi artigo 19.º do RJTC.\n\nCapital inicial (Campo 3): Campo de preenchimento obrigatório que identifica o montante do capital inicial detido, calculado de acordo com o previsto no n.º 3 do artigo 17.º do RJTC.\n\nGarantia (Campo 4): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea c) do n.º 2 do artigo 71.º-M do RGOIC, ex vi artigo 19.º do RJTC.\n\n(ver documento original)\n\nRubrica 3 = R03 (Campo 1): Informação sobre os valores de fundos próprios e ativos líquidos da SGFTC, sendo este campo preenchido com o código \"R03\", seguido dos seguintes campos.\n\nFundos próprios SGFTC (Campo 2): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela SGFTC, calculados de acordo com o previsto na alínea v), do n.º 1 do artigo 2.º do RGOIC, ex vi artigo 19.º do RJTC.\n\nAtivos líquidos SGFTC (Campo 3): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela SGFTC, conforme n.º 4 do artigo 71.º -M do RGOIC, ex vi artigo 19.º do RJTC.\n\n(ver documento original)"
+  },
+  "201353488": {
+   "fragment_id": "201400298",
+   "type": 14,
+   "heading": "Anexo III — Informação relativa ao plano de viabilidade económico-financeiro para regularização dos requisitos prudenciais aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Informação relativa ao plano de viabilidade económico-financeiro para regularização dos requisitos prudenciais aplicáveis\n\nEspecificidades relativas ao reporte previsto no ficheiro PVE:\n\nNorma 1: O presente Anexo rege as especificidades relativas ao reporte previsto na alínea b) do n.º 2 do artigo 2.º do presente Regulamento.\n\nNorma 2: A seguinte informação é enviada em ficheiro de texto.\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)"
+  },
+  "201353489": {
+   "fragment_id": "201400299",
+   "type": 14,
+   "heading": "Anexo IV — Informação financeira relativa ao balanço, demonstração dos resultados e demonstração do outro rendimento integral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Informação financeira relativa ao balanço, demonstração dos resultados e demonstração do outro rendimento integral\n\nEspecificidades relativas ao reporte previsto no ficheiro RDB:\n\nNorma 1: O presente Anexo rege as especificidades relativas ao reporte previsto no n.º 1 do artigo 3.º do presente Regulamento.\n\nNorma 2: A seguinte informação é enviada em ficheiro de dados.\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016. Por cada linha do ficheiro são indicados os campos infra, com o conteúdo aí especificado.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto ao conteúdo do ficheiro de dados:\n\nRubrica 1 = R01 (Campo 1): Informação sobre as rubricas de balanço, sendo este campo preenchido com o código \"R01\", seguido dos seguintes campos.\n\nCódigo de conta (Campo 2): Campo que identifica o código de conta, sendo preenchido de acordo com o código de conta da tabela 1.\n\nValor de conta (Campo 3): Campo que identifica o saldo da conta no final de cada período de reporte, sendo preenchido com um valor positivo para as rubricas de ativo e passivo, e com um valor positivo ou negativo para as rubricas de capital próprio.\n\n(ver documento original)\n\nTabela 1\n\nCódigos de conta das rubricas de balanço\n\n(ver documento original)\n\nRubrica 2 = R02 (Campo 1): Informação sobre as rubricas da demonstração dos resultados, sendo este campo preenchido com o código \"R02\", seguido dos seguintes campos.\n\nCódigo de conta (Campo 2): Campo que identifica o código de conta, sendo preenchido de acordo com o código de conta da tabela 2.\n\nValor de conta (Campo 3): Campo que identifica o saldo da conta no final de cada período de reporte, sendo preenchido com um valor positivo ou negativo, consoante a rubrica contribua de modo positivo ou negativo para o resultado líquido do período.\n\n(ver documento original)\n\nTabela 2\n\nCódigo de conta das rubricas da demonstração dos resultados\n\n(ver documento original)\n\nRubrica 3 = R03 (Campo 1): Informação sobre as rubricas da demonstração do outro rendimento integral, sendo este campo preenchido com o código \"R03\", seguido dos seguintes campos.\n\nCódigo de conta (Campo 2): Campo que identifica o código de conta, sendo preenchido de acordo com o código de conta da tabela 3.\n\nValor de conta (Campo 3): Campo que identifica o saldo da conta no final de cada período de reporte, sendo preenchido com um valor positivo ou negativo, consoante a rubrica contribua de modo positivo ou negativo para o rendimento integral total.\n\n(ver documento original)\n\nTabela 3\n\nCódigo de conta das rubricas da demonstração do outro rendimento integral\n\n(ver documento original)"
+  },
+  "201353490": {
+   "fragment_id": "201400300",
+   "type": 14,
+   "heading": "Anexo V — Informação relativa aos documentos de prestação de contas anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Informação relativa aos documentos de prestação de contas anuais\n\nEspecificidades relativas ao reporte previsto no ficheiro REC:\n\nNorma 1: O presente Anexo rege as especificidades relativas ao reporte previsto no n.º 1 do artigo 4.º do presente Regulamento.\n\nNorma 2: A seguinte informação é enviada em ficheiro de texto.\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)"
+  },
+  "201353491": {
+   "fragment_id": "201400301",
+   "type": 14,
+   "heading": "Anexo VI — Informação relativa à Certificação legal das Contas (CLC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Informação relativa à Certificação legal das Contas (CLC)\n\nEspecificidades relativas ao reporte previsto no ficheiro CLC:\n\nNorma 1: O presente Anexo rege as especificidades relativas ao reporte previsto no n.º 3 do artigo 4.º do presente Regulamento.\n\nNorma 2: A seguinte informação é enviada em ficheiro de dados.\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016. Por cada linha do ficheiro são indicados os campos infra, com o conteúdo aí especificado.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto ao conteúdo do ficheiro de dados:\n\nRubrica 1 = R01 (Campo 1): Informação sobre o conteúdo da certificação legal das contas (CLC) do relatório e contas anual, sendo este campo preenchido com o código \"R01\", seguido dos seguintes campos.\n\nTipo de opinião (Campo 2): Campo de preenchimento obrigatório que identifica as característica da CLC, sendo preenchido com um dos seguintes códigos:\n\n\"SRE\", para CLC sem reservas e ênfases;\n\n\"CRE\", para CLC com reservas e ênfases;\n\n\"OCR\", para CLC com reservas e sem ênfases;\n\n\"OCE\", para CLC com ênfases e sem reservas;\n\n\"EDO\", para uma escusa de opinião;\n\n\"ADV\", para uma opinião adversa.\n\n(ver documento original)\n\nRubrica 2 = R02 (Campo 1): Informação sobre as reservas na certificação legal das contas, sendo este campo preenchido com o código \"R02\", seguido dos seguintes campos.\n\nIdentificação de reservas (Campo 2): Campo de preenchimento obrigatório quando o tipo de opinião no campo 2 da rubrica 1 (R01) for preenchido com o código \"CRE\" ou \"OCR\", e que identifica um número sequencial de 1 a n, sendo n o número total de reservas.\n\nDescrição da reserva (Campo 3): Campo de preenchimento obrigatório quando o tipo de opinião no campo 2 da rubrica 1 (R01) for preenchido com o código \"CRE\" ou \"OCR\", e que identifica o texto da reserva que consta da CLC.\n\n(ver documento original)\n\nRubrica 3 = R03 (Campo 1): Informação sobre as ênfases na CLC, sendo este campo preenchido com o código \"R03\", seguido dos seguintes campos.\n\nIdentificação de ênfases (Campo 2): Campo de preenchimento obrigatório quando o tipo de opinião no campo 2 da rubrica 1 (R01) for preenchido com o código \"CRE\" ou \"OCE\", e que identifica um número sequencial de 1 a n, sendo n o número total de ênfases.\n\nDescrição da ênfase (Campo 3): Campo de preenchimento obrigatório quando o tipo de opinião no campo 2 da rubrica 1 (R01) for preenchido com o código \"CRE\" ou \"OCE\", e que identifica o texto da ênfase que consta da CLC.\n\n(ver documento original)\n\nRubrica 4 = R04 (Campo 1): Informação sobre o auditor que assina a CLC, sendo este campo preenchido com o código \"R04\", seguido dos seguintes campos.\n\nNúmero de registo do revisor oficial de contas (ROC) (Campo 2): Campo de preenchimento obrigatório que identifica o número de registo na CMVM do ROC que assina a CLC.\n\nNúmero de registo da SROC (Campo 3): Campo que identifica o número de registo na CMVM da SROC a qual pertence o revisor oficial de contas (ROC) que assina a CLC.\n\n(ver documento original)\n\n313027808"
+  },
+  "201353573": {
+   "fragment_id": "201400288",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente regulamento define a forma e o conteúdo dos deveres de envio de informação à CMVM, pelas seguintes entidades, adiante designadas por «Entidades», para efeitos da respetiva supervisão prudencial:\n\na) Sociedades gestoras de organismos de investimento coletivo;\n\nb) Sociedades de investimento coletivo autogeridas;\n\nc) Sociedades gestoras de fundos de titularização de créditos.\n\nd) Sociedades de titularização de créditos;\n\ne) Sociedades gestoras de fundos de capital de risco;\n\nf) Sociedades de capital risco;\n\ng) Sociedades de investimento em capital de risco autogeridas;\n\nh) Sociedades de investimento alternativo especializado autogeridas;\n\ni) Sociedades de empreendedorismo social.\n\n> Alterado pelo/a Artigo 10.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201353574": {
+   "fragment_id": "201400290",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisitos prudenciais",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Requisitos prudenciais\n\n1 - As entidades enviam trimestralmente à CMVM, até ao último dia do mês seguinte ao termo do trimestre a que respeite, a seguinte informação relativa a requisitos prudenciais:\n\na) A informação prevista no Anexo I, relativa às sociedades gestoras de organismos de investimento coletivo e às sociedades de investimento coletivo autogeridas;\n\nb) A informação prevista no Anexo II, relativa às sociedades gestoras de fundos de titularização de créditos.\n\nc) A informação prevista no Anexo VII, relativa às sociedades de titularização de créditos;\n\nd) A informação prevista no Anexo VIII, relativa às sociedades gestoras de fundos de capital de risco, sociedades de investimento em capital de risco e sociedades de investimento alternativo especializado, autogeridas;\n\ne) A informação prevista no Anexo IX, relativa às sociedades de capital de risco e às sociedades de empreendedorismo social.\n\n2 - As Entidades cujos requisitos prudenciais aplicáveis se encontrem abaixo do legalmente previstos:\n\na) Informam imediatamente a CMVM desse facto, através do endereço eletrónico sup_continua@cmvm.pt;\n\nb) Enviam à CMVM, no prazo de um mês a contar da comunicação prevista na alínea anterior, um plano de viabilidade económica e financeira, devidamente calendarizado, com vista à regularização dos requisitos prudenciais aplicáveis, nos termos do Anexo III; e\n\nc) Passam a enviar mensalmente à CMVM a informação prevista no n.º 1, até ao último dia do mês seguinte ao termo do mês a que a informação respeita.\n\n3 - A obrigação prevista na alínea c) do número anterior inicia-se no mês em que ocorra a situação aí referida e termina no mês em que for regularizado o incumprimento, inclusive.\n\n> Alterado pelo/a Artigo 10.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201353567": {
+   "fragment_id": "201400296",
+   "type": 14,
+   "heading": "Anexo I — Informação sobre requisitos prudenciais das sociedades gestoras de organismos de investimento coletivo (SGOIC)",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo I — Informação sobre requisitos prudenciais das sociedades gestoras de organismos de investimento coletivo (SGOIC)\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"SGO\" a enviar à CMVM constam do documento \"2020_reporte_SGO_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o valor líquido sob gestão das SGOIC, com os seguintes campos:\n\nValor líquido global dos organismos de investimento coletivo em valores mobiliários (Campo 1): Campo que identifica o valor líquido global dos organismos de investimento coletivo em valores mobiliários (OICVM), conforme alínea d) do n.º 2 do artigo 71.º-M do Regime Geral dos Organismos de Investimento Coletivo (RGOIC).\n\nValor líquido global dos organismos de investimento em capital de risco (Campo 2): Campo que identifica o valor líquido global dos organismos de investimento em capital de risco (OICR), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos fundos de empreendedorismo social (Campo 3): Campo que identifica o valor líquido global dos fundos de empreendedorismo social (FES), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos organismos de investimento alternativo especializado (Campo 4): Campo que identifica o valor líquido global dos organismos de investimento alternativo especializado (OIAE), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos organismos de investimento alternativo em valores mobiliários (Campo 5): Campo que identifica o valor líquido global dos organismos de investimento alternativo em valores mobiliários (OIAVM), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos organismos de investimento imobiliário (Campo 6): Campo que identifica o valor líquido global dos organismos de investimento imobiliário (OII), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos organismos de investimento em ativos não financeiros (Campo 7): Campo que identifica o valor líquido global dos organismos de investimento em ativos não financeiros (OIAnF), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos fundos de titularização de créditos (Campo 8): Campo que identifica o valor líquido global dos fundos de titularização de créditos (FTC), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global de outros organismos de investimento coletivo (Campo 9): Campo que identifica o valor líquido global de outros organismos de investimento coletivo previstos nas alíneas f) e g) do n.º 3 do artigo 71.º-B do RGOIC conforme alínea d) do n.º 2 do artigo 71.º-M do referido diploma.\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre os valores de referência para o cálculo dos fundos próprios, com os seguintes campos:\n\nDespesas gerais fixas (Campo 1): Campo de preenchimento obrigatório que identifica o montante total das despesas gerais fixas do ano anterior a que a informação respeita, conforme alínea a) do n.º 1 do artigo 71.º-M do RGOIC. Por despesas gerais fixas entendem-se as previstas no n.º 2 do artigo 34.º-B do Regulamento da (UE) n.º 241/2014.\n\nCapital inicial (Campo 2): Campo de preenchimento obrigatório que identifica o montante do capital inicial detido, calculado de acordo com o previsto na alínea b) do n.º 1 do artigo 2.º do RGOIC.\n\nGarantia (Campo 3): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea c) do n.º 2 do artigo 71.º-M do RGOIC.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre medidas suplementares para cobertura de risco decorrente da atividade de gestão de organismos de investimento alternativo (OIA), com os seguintes campos:\n\nValor do ativo dos OIA geridos (Campo 1): Campo de preenchimento obrigatório que identifica a soma do valor absoluto de todos os ativos de todos os OIA geridos pela SGOIC, incluindo os ativos adquiridos através do recurso ao efeito de alavanca, sendo os instrumentos derivados avaliados pelo seu valor de mercado, de acordo com o previsto na alínea a) do n.º 3 do artigo 71.º-M do RGOIC.\n\nSeguro de responsabilidade civil profissional (Campo 2): Campo de preenchimento obrigatório que identifica a existência de seguro de responsabilidade civil profissional, de acordo com o previsto na subalínea ii) da alínea a) do n.º 3 do artigo 71.º-M do RGOIC, sendo preenchido com um dos seguintes códigos:\n\n\"S\", caso tenha sido celebrado um seguro de responsabilidade civil profissional;\n\n\"N\", caso não tenha sido celebrado um seguro de responsabilidade civil profissional.\n\n(ver documento original)\n\nBloco de informação n.º 4: Informação sobre os fundos próprios e ativos líquidos da SGOIC, com os seguintes campos:\n\nFundos próprios (Campo 1): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela SGOIC, calculados de acordo com a alínea v) do n.º 1 do artigo 2.º RGOIC.\n\nAtivos líquidos (Campo 2): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela SGOIC e que preencham as condições previstas no n.º 4 do artigo 71.º-M do RGOIC; por ativos líquidos entendem-se os previstos no n.º 1 do artigo 416.º do Regulamento (UE) n.º 575/2013, excluindo a condição prevista na alínea d) do n.º 3 do referido artigo, e as disponibilidades e aplicações em outras instituições de crédito com prazo residual inferior a 30 dias ou mobilizáveis sem penalização num prazo máximo de 30 dias.\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201353568": {
+   "fragment_id": "201400297",
+   "type": 14,
+   "heading": "Anexo II — Informação sobre requisitos prudenciais das sociedades gestoras de fundos de titularização de créditos (SGFTC)",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo II — Informação sobre requisitos prudenciais das sociedades gestoras de fundos de titularização de créditos (SGFTC)\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"GTC\" a enviar à CMVM constam do documento \"2020_reporte_GTC_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o valor líquido sob gestão das SGFTC, com os seguintes campos:\n\nValor líquido global dos fundos de titularização de créditos (Campo 1): Campo de preenchimento obrigatório que identifica o valor líquido global dos fundos de titularização de créditos (FTC), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC, ex vi artigo 19.º do Regime Jurídico da Titularização de Créditos (RJTC).\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre os valores de referência para o cálculo dos fundos próprios, com os seguintes campos:\n\nDespesas gerais fixas (Campo 1): Campo de preenchimento obrigatório que identifica o montante total das despesas gerais fixas do ano anterior a que a informação respeita, conforme alínea a) do n.º 1 do artigo 71.º-M do RGOIC, ex vi artigo 19.º do RJTC. Por despesas gerais fixas entendem-se as previstas no n.º 2 do artigo 34.º-B do Regulamento da (UE) n.º 241/2014.\n\nCapital inicial (Campo 2): Campo de preenchimento obrigatório que identifica o montante do capital inicial detido, calculado de acordo com o previsto no n.º 3 do artigo 17.º do RJTC.\n\nGarantia (Campo 3): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea c) do n.º 2 do artigo 71.º-M do RGOIC, ex vi artigo 19.º do RJTC.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre os valores de fundos próprios e ativos líquidos da SGFTC, com os seguintes campos:\n\nFundos próprios (Campo 1): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela SGFTC, calculados de acordo com o previsto na alínea v), do n.º 1 do artigo 2.º do RGOIC, ex vi artigo 19.º do RJTC.\n\nAtivos líquidos (Campo 2): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela SGFTC e que preencham as condições previstas no n.º 4 do artigo 71.º-M do RGOIC, ex vi artigo 19.º do RJTC; por ativos líquidos entendem-se os previstos no n.º 1 do artigo 416.º do Regulamento (UE) n.º 575/2013, excluindo a condição prevista na alínea d) do n.º 3 do referido artigo, e as disponibilidades e aplicações em outras instituições de crédito com prazo residual inferior a 30 dias ou mobilizáveis sem penalização num prazo máximo de 30 dias.\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201353569": {
+   "fragment_id": "201400298",
+   "type": 14,
+   "heading": "Anexo III — Informação relativa ao plano de viabilidade económica e financeira para regularização dos requisitos prudenciais aplicáveis",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo III — Informação relativa ao plano de viabilidade económica e financeira para regularização dos requisitos prudenciais aplicáveis\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201353570": {
+   "fragment_id": "201400299",
+   "type": 14,
+   "heading": "Anexo IV — Informação financeira relativa ao balanço, demonstração dos resultados e demonstração do outro rendimento integral",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo IV — Informação financeira relativa ao balanço, demonstração dos resultados e demonstração do outro rendimento integral\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"RDB\" a enviar à CMVM constam do documento \"2020_reporte_RDB_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre as rubricas de balanço, com os seguintes campos:\n\nCódigo de conta (Campo 1): Campo de preenchimento obrigatório que identifica o código de conta, sendo preenchido de acordo com o código de conta da Tabela 1.\n\nValor de conta (Campo 2): Campo de preenchimento obrigatório que identifica o saldo da conta no final de cada período de reporte, sendo preenchido com um valor positivo para as rubricas de ativo e passivo, e com um valor positivo ou negativo para as rubricas de capital próprio.\n\n(ver documento original)\n\nTABELA 1\n\nCódigos de conta das rubricas de balanço\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre as rubricas da demonstração dos resultados, com os seguintes campos:\n\nCódigo de conta (Campo 1): Campo de preenchimento obrigatório que identifica o código de conta, sendo preenchido de acordo com o código de conta da Tabela 2.\n\nValor de conta (Campo 2): Campo de preenchimento obrigatório que identifica o saldo da conta no final de cada período de reporte, sendo preenchido com um valor positivo ou negativo, consoante a rubrica contribua de modo positivo ou negativo para o resultado líquido do exercício.\n\n(ver documento original)\n\nTABELA 2\n\nCódigo de conta das rubricas da demonstração dos resultados\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre as rubricas da demonstração do outro rendimento integral, com os seguintes campos:\n\nCódigo de conta (Campo 1): Campo de preenchimento obrigatório que identifica o código de conta, sendo preenchido de acordo com o código de conta da Tabela 3.\n\nValor de conta (Campo 2): Campo de preenchimento obrigatório que identifica o saldo da conta no final de cada período de reporte, sendo preenchido com um valor positivo ou negativo, consoante a rubrica contribua de modo positivo ou negativo para o rendimento integral total.\n\n(ver documento original)\n\nTABELA 3\n\nCódigo de conta das rubricas da demonstração do outro rendimento integral\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201353571": {
+   "fragment_id": "201400300",
+   "type": 14,
+   "heading": "Anexo V — Informação relativa aos documentos de prestação de contas anuais",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo V — Informação relativa aos documentos de prestação de contas anuais\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201353572": {
+   "fragment_id": "201400301",
+   "type": 14,
+   "heading": "Anexo VI — Informação relativa à Certificação legal das Contas (CLC)",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo VI — Informação relativa à Certificação legal das Contas (CLC)\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"CLC\" a enviar à CMVM constam do documento \"2020_reporte_CLC_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o conteúdo da certificação legal das contas (CLC) do relatório e contas anual, com os seguintes campos:\n\nTipo de opinião (Campo 1): Campo de preenchimento obrigatório que identifica as caraterísticas da CLC, sendo preenchido com um dos seguintes códigos:\n\n\"SRE\", para CLC sem reservas e ênfases;\n\n\"CRE\", para CLC com reservas e ênfases;\n\n\"OCR\", para CLC com reservas e sem ênfases;\n\n\"OCE\", para CLC com ênfases e sem reservas;\n\n\"EDO\", para uma escusa de opinião;\n\n\"ADV\", para uma opinião adversa.\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre as reservas na certificação legal das contas, com os seguintes campos:\n\nIdentificação de reservas (Campo 1): Campo de preenchimento obrigatório quando o tipo de opinião no campo 1 do bloco de informação n.º 1 for preenchido com o código \"CRE\" ou \"OCR\", e que identifica um número sequencial de 1 a n, sendo n o número total de reservas.\n\nDescrição da reserva (Campo 2): Campo de preenchimento obrigatório quando o tipo de opinião no campo 1 do bloco de informação n.º 1 for preenchido com o código \"CRE\" ou \"OCR\", e que identifica o texto da reserva que consta da CLC.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre as ênfases na CLC, com os seguintes campos:\n\nIdentificação de ênfases (Campo 1): Campo de preenchimento obrigatório quando o tipo de opinião no campo 1 do bloco de informação n.º 1 for preenchido com o código \"CRE\" ou \"OCE\", e que identifica um número sequencial de 1 a n, sendo n o número total de ênfases.\n\nDescrição da ênfase (Campo 2): Campo de preenchimento obrigatório quando o tipo de opinião no campo 1 do bloco de informação n.º 1 for preenchido com o código \"CRE\" ou \"OCE\", e que identifica o texto da ênfase que consta da CLC.\n\n(ver documento original)\n\nBloco de informação n.º 4: Informação sobre o auditor que assina a CLC, com os seguintes campos:\n\nNúmero de registo do revisor oficial de contas (ROC) (Campo 1): Campo de preenchimento obrigatório que identifica o número de registo na CMVM do ROC que assina a CLC.\n\nNúmero de registo da SROC (Campo 2): Campo que identifica o número de registo na CMVM da SROC a qual pertence o revisor oficial de contas (ROC) que assina a CLC.\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201353564": {
+   "fragment_id": "201413975",
+   "type": 14,
+   "heading": "Anexo VII — Informação sobre requisitos prudenciais das sociedades de titularização de créditos (STC)",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo VII — Informação sobre requisitos prudenciais das sociedades de titularização de créditos (STC)\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"STC\" a enviar à CMVM constam do documento \"2020_reporte_STC_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o valor das obrigações emitidas e não amortizadas das sociedades de titularização de créditos (STC), com os seguintes campos:\n\nValor das obrigações emitidas e não amortizadas (Campo 1): Campo de preenchimento obrigatório que identifica o valor das obrigações emitidas e não amortizadas da STC, conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC, ex vi artigo 19.º, ex vi n.º 1 do artigo 43.º, ambos do Regime Jurídico da Titularização de Créditos (RJTC).\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre os valores de referência para o cálculo dos fundos próprios da STC, com os seguintes campos:\n\nDespesas gerais fixas (Campo 1): Campo de preenchimento obrigatório que identifica o montante total das despesas gerais fixas do ano anterior a que a informação respeita, conforme alínea a) do n.º 1 do artigo 71.º-M do RGOIC, ex vi artigo 19.º, ex vi n.º 1 do artigo 43.º, ambos do RJTC. Por despesas gerais fixas entendem-se as previstas no n.º 2 do artigo 34.º-B do Regulamento da (EU) n.º 241/2014.\n\nCapital inicial (Campo 2): Campo de preenchimento obrigatório que identifica o montante do capital inicial detido pela STC, calculado de acordo com o previsto no n.º 3 do artigo 17.º, ex vi n.º 2 do artigo 40.º, ambos do RJTC.\n\nGarantia (Campo 3): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea c) do n.º 2 do artigo 71.º-M do RGOIC, ex vi artigo 19.º, ex vi n.º 1 do artigo 43.º, ambos do RJTC.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre os valores de fundos próprios e ativos líquidos da STC, com os seguintes campos:\n\nFundos próprios (Campo 1): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela STC, calculados de acordo com o previsto na alínea v), do n.º 1 do artigo 2.º do RGOIC, ex vi artigo 19.º, ex vi n.º 1 do artigo 43.º, ambos do RJTC.\n\nAtivos líquidos (Campo 2): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela STC e que preencham as condições previstas no n.º 4 do artigo 71.º-M do RGOIC, ex vi artigo 19.º, ex vi n.º 1 do artigo 43.º, ambos do RJTC.\n\nPor ativos líquidos entendem-se os previstos no n.º 1 do artigo 416.º do Regulamento (UE) n.º 575/2013, excluindo a condição prevista na alínea d) do n.º 3 do referido artigo, e as disponibilidades e aplicações em outras instituições de crédito com prazo residual inferior a 30 dias ou mobilizáveis sem penalização num prazo máximo de 30 dias.\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201353565": {
+   "fragment_id": "201413976",
+   "type": 14,
+   "heading": "Anexo VIII — Informação sobre requisitos prudenciais das sociedades gestoras de fundos de capital de risco (SGFCR), sociedades de investimento em capital de risco (SICR) autogeridas, e sociedades de investimento alternativo especializado (SIAE) autogeridas",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo VIII — Informação sobre requisitos prudenciais das sociedades gestoras de fundos de capital de risco (SGFCR), sociedades de investimento em capital de risco (SICR) autogeridas, e sociedades de investimento alternativo especializado (SIAE) autogeridas\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"GCR\" a enviar à CMVM constam do documento \"2020_reporte_GCR_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o valor líquido sob gestão das sociedades gestoras de fundos de capital de risco (SGFCR), sociedades de investimento em capital de risco (SICR) autogeridas, e sociedades de investimento alternativo especializado (SIAE) autogeridas, com os seguintes campos:\n\nValor líquido global dos organismos de investimento em capital de risco (Campo 1): Campo que identifica o valor líquido global dos organismos de investimento em capital de risco (OICR), conforme alínea d) do n.º 2 do artigo 71.º-M do Regime Geral dos Organismos de Investimento Coletivo (RGOIC), ex vi n.º 4 do artigo 46.º do Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado (RJCRESIE).\n\nValor líquido global dos fundos de empreendedorismo social (Campo 2): Campo que identifica o valor líquido global dos fundos de empreendedorismo social (FES), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE.\n\nValor líquido global dos organismos de investimento alternativo especializado (Campo 3): Campo que identifica o valor líquido global dos organismos de investimento alternativo especializado (OIAE), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE.\n\nValor líquido global de outros organismos de investimento coletivo (Campo 4): Campo que identifica o valor líquido global de outros organismos de investimento coletivo, conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE.\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre os valores de referência para o cálculo dos fundos próprios das SGFCR, das SIAE autogeridas ou das SICR autogeridas, com os seguintes campos:\n\nDespesas gerais fixas (Campo 1): Campo de preenchimento obrigatório que identifica o montante total das despesas gerais fixas do ano anterior a que a informação respeita, conforme alínea a) do n.º 1 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE. Por despesas gerais fixas entendem-se as previstas no n.º 2 do artigo 34.º-B do Regulamento da (EU) n.º 241/2014.\n\nCapital inicial (Campo 2): Campo de preenchimento obrigatório que identifica o montante do capital inicial detido pela SGFCR, SIAE autogerida ou SICR autogerida, calculado de acordo com o previsto na alínea b) do n.º 1 do artigo 2.º do RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\nGarantia (Campo 3): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea c) do n.º 2 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre medidas suplementares para cobertura de risco decorrente da atividade de gestão de organismos de investimento alternativo (OIA), com os seguintes campos:\n\nValor do ativo dos OIA geridos (Campo 1): Campo de preenchimento obrigatório que identifica a soma do valor absoluto de todos os ativos de todos os OIA geridos pela SGFCR, SIAE autogerida ou SICR autogerida, incluindo os ativos adquiridos através do recurso ao efeito de alavanca, sendo os instrumentos derivados avaliados pelo seu valor de mercado, de acordo com o previsto na alínea a) do n.º 3 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE.\n\nSeguro de responsabilidade civil profissional (Campo 2): Campo de preenchimento obrigatório que identifica a existência de seguro de responsabilidade civil profissional, de acordo com o previsto na subalínea ii) da alínea a) do n.º 3 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE, sendo preenchido com um dos seguintes códigos:\n\n\"S\", caso tenha sido celebrado um seguro de responsabilidade civil profissional;\n\n\"N\", caso não tenha sido celebrado um seguro de responsabilidade civil profissional.\n\n(ver documento original)\n\nBloco de informação n.º 4: Informação sobre os fundos próprios e ativos líquidos das SGFCR, das SIAE autogeridas e das SICR autogeridas, com os seguintes campos:\n\nFundos próprios (Campo 1): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela SGFCR, SIAE autogerida ou SICR autogerida, calculados de acordo com a alínea v) do n.º 1 do artigo 2.º RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\nAtivos líquidos (Campo 2): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela SGFCR, SIAE autogerida ou SICR autogerida e que preencham as condições previstas no n.º 4 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE; por ativos líquidos entendem-se os previstos no n.º 1 do artigo 416.º do Regulamento (UE) n.º 575/2013, excluindo a condição prevista na alínea d) do n.º 3 do referido artigo, e as disponibilidades e aplicações em outras instituições de crédito com prazo residual inferior a 30 dias ou mobilizáveis sem penalização num prazo máximo de 30 dias.\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201353566": {
+   "fragment_id": "201413977",
+   "type": 14,
+   "heading": "Anexo IX — Informação sobre requisitos prudenciais das sociedades de capital de risco (SCR) e das sociedades de empreendedorismo social (SES)",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo IX — Informação sobre requisitos prudenciais das sociedades de capital de risco (SCR) e das sociedades de empreendedorismo social (SES)\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"SCR\" a enviar à CMVM constam do documento \"2020_reporte_SCR_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o valor líquido sob gestão das sociedades de capital de risco (SCR) e sociedades de empreendedorismo social (SES), com os seguintes campos:\n\nValor líquido global dos fundos de capital de risco (Campo 1): Campo que identifica o valor líquido global dos fundos de capital de risco (FCR), conforme alínea nn) do n.º 1 do artigo 2 do Regime Geral dos Organismos de Investimento Coletivo (RGOIC), ex vi n.º 5 do artigo 2.º do Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado (RJCRESIE).\n\nValor líquido global dos fundos de empreendedorismo social (Campo 2): Campo que identifica o valor líquido global dos fundos de empreendedorismo social (FES), conforme alínea nn) do n.º 1 do artigo 2.º do RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\nValor líquido global dos fundos de investimento alternativo especializado (Campo 2): Campo que identifica o valor líquido global dos fundos de investimento alternativo especializado (FIAE), conforme alínea nn) do n.º 1 do artigo 2.º do RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\nValor líquido global de outros organismos de investimento coletivo (Campo 3): Campo que identifica o valor líquido global de outros organismos de investimento coletivo, conforme alínea nn) do n.º 1 do artigo 2.º do RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre os valores de referência para o cálculo dos fundos próprios das SCR e SES, com os seguintes campos:\n\nCapital social (Campo 1): Campo de preenchimento obrigatório que identifica o montante do capital social realizado.\n\nGarantia (Campo 2): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea n.º 2 do artigo 12.º do RJCRESIE.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre os fundos próprios e ativos líquidos das SCR e SES, com os seguintes campos:\n\nFundos próprios (Campo 1): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela SCR e SES, calculados de acordo com a alínea v) do n.º 1 do artigo 2.º RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\nAtivos líquidos (Campo 2): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela SCR e SES.\n\nPor ativos líquidos entendem-se os previstos no n.º 1 do artigo 416.º do Regulamento (UE) n.º 575/2013, excluindo a condição prevista na alínea d) do n.º 3 do referido artigo, e as disponibilidades e aplicações em outras instituições de crédito com prazo residual inferior a 30 dias ou mobilizáveis sem penalização num prazo máximo de 30 dias.\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414230": {
+   "fragment_id": "201400287",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "201414221": {
+   "fragment_id": "201400288",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27",
+    "Alterado pelo/a Artigo 10.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente regulamento define a forma e o conteúdo dos deveres de envio de informação à CMVM, pelas seguintes entidades, adiante designadas por «Entidades», para efeitos da respetiva supervisão prudencial:\n\na) Sociedades gestoras de organismos de investimento coletivo;\n\nb) Sociedades de investimento coletivo autogeridas;\n\nc) Sociedades gestoras de fundos de titularização de créditos.\n\nd) Sociedades de titularização de créditos;\n\ne) Sociedades gestoras de fundos de capital de risco;\n\nf) Sociedades de capital risco;\n\ng) Sociedades de investimento em capital de risco autogeridas;\n\nh) Sociedades de investimento alternativo especializado autogeridas;\n\ni) Sociedades de empreendedorismo social.\n\n2 - As empresas de investimento prestam informação à CMVM nos termos do Capítulo III-A.\n\n> Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27\n\n> Alterado pelo/a Artigo 10.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414231": {
+   "fragment_id": "201400289",
+   "type": 1,
+   "heading": "Capítulo II — Informação relativa ao cumprimento dos requisitos prudenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Informação relativa ao cumprimento dos requisitos prudenciais"
+  },
+  "201414222": {
+   "fragment_id": "201400290",
+   "type": 11,
+   "heading": "Artigo 2.º — Requisitos prudenciais",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27",
+    "Alterado pelo/a Artigo 10.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Requisitos prudenciais\n\n1 - As entidades enviam trimestralmente à CMVM, até ao último dia do mês seguinte ao termo do trimestre a que respeite, a seguinte informação relativa a requisitos prudenciais:\n\na) A informação prevista no Anexo I, relativa às sociedades gestoras de organismos de investimento coletivo e às sociedades de investimento coletivo autogeridas;\n\nb) A informação prevista no Anexo II, relativa às sociedades gestoras de fundos de titularização de créditos.\n\nc) A informação prevista no Anexo VII, relativa às sociedades de titularização de créditos;\n\nd) A informação prevista no Anexo VIII, relativa às sociedades gestoras de fundos de capital de risco, sociedades de investimento em capital de risco e sociedades de investimento alternativo especializado, autogeridas;\n\ne) A informação prevista no Anexo IX, relativa às sociedades de capital de risco e às sociedades de empreendedorismo social.\n\n2 - As Entidades cujos requisitos prudenciais aplicáveis se encontrem abaixo do legalmente previstos:\n\na) Informam imediatamente a CMVM desse facto, através do endereço eletrónico prudencial@cmvm.pt;\n\nb) Enviam à CMVM, no prazo de um mês a contar da comunicação prevista na alínea anterior, um plano de viabilidade económica e financeira, devidamente calendarizado, com vista à regularização dos requisitos prudenciais aplicáveis, nos termos do Anexo III; e\n\nc) Passam a enviar mensalmente à CMVM a informação prevista no n.º 1, até ao último dia do mês seguinte ao termo do mês a que a informação respeita.\n\n3 - A obrigação prevista na alínea c) do número anterior inicia-se no mês em que ocorra a situação aí referida e termina no mês em que for regularizado o incumprimento, inclusive.\n\n> Alterado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27\n\n> Alterado pelo/a Artigo 10.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414232": {
+   "fragment_id": "201400291",
+   "type": 1,
+   "heading": "Capítulo III — Informação relativa aos dados económico-financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Informação relativa aos dados económico-financeiros"
+  },
+  "201414233": {
+   "fragment_id": "201414012",
+   "type": 1,
+   "heading": "Capítulo III-A — Informação a prestar pelas Empresas de Investimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "### Capítulo III-A — Informação a prestar pelas Empresas de Investimento\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414235": {
+   "fragment_id": "201414007",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Envio de informação à CMVM por empresas de investimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º-A — Envio de informação à CMVM por empresas de investimento\n\n1 - As empresas de investimento que não sejam empresas de investimento de pequena dimensão e não interligadas (\"Classe 2\") e as respetivas empresas-mãe no caso de informação em base consolidada enviam à CMVM a informação prudencial referida no artigo 5.º do Regulamento de Execução (UE) n.º 2021/2284 da Comissão Europeia, de 10 de dezembro de 2021:\n\na) Em base individual: nos termos do Anexo X ao presente regulamento;\n\nb) Em base consolidada: nos termos do Anexo XI ao presente regulamento.\n\n2 - As empresas de investimento de pequena dimensão e não interligadas (\"Classe 3\") e as respetivas empresas-mãe no caso de informação em base consolidada enviam à CMVM a informação prudencial referida no artigo 6.º do Regulamento de Execução (UE) n.º 2021/2284 da Comissão Europeia, de 10 de dezembro de 2021:\n\na) Em base individual: nos termos do Anexo XII ao presente regulamento;\n\nb) Em base consolidada: nos termos do Anexo XIII ao presente regulamento.\n\n3 - As empresas de investimento (\"Classe 2\" e \"Classe 3\") e as respetivas empresas-mãe no caso de informação em base consolidada enviam à CMVM a informação:\n\na) Sobre o critério de capital de grupo, conforme prevista no artigo 7.º do Regulamento de Execução (UE) n.º 2021/2284 da Comissão Europeia, de 10 de dezembro de 2021: nos termos do Anexo XIV ao presente regulamento;\n\nb) Prevista na Parte VI do Regulamento (UE) 2019/2033 do Parlamento Europeu e do Conselho, de 27 de novembro de 2019, relativo aos requisitos prudenciais aplicáveis às empresas de investimento, mas no que se refere às empresas de investimento \"Classe 3\" ou às respetivas empresas-mãe, apenas quando emitam instrumentos de fundos próprios adicionais de nível 1 (\"AT1\"): nos termos do Anexo XV ao presente regulamento;\n\nc) Relativa a documentos de prestação de contas, ao abrigo do disposto na alínea a) do n.º 1 e nas alíneas c) e j) do n.º 2 do artigo 118.º do Regime das Empresas de Investimento: nos termos do Anexo V ao presente regulamento e do n.º 4 seguinte;\n\nd) Relativa à certificação legal de contas (\"CLC\"), sempre que aplicável, ao abrigo do disposto na alínea a) do n.º 1 e nas alíneas c) e j) do n.º 2 do artigo 118.º do Regime das Empresas de Investimento: nos termos do Anexo VI ao presente regulamento;\n\ne) Relativa ao plano de viabilidade económica e financeira para regularização dos requisitos prudenciais aplicáveis às empresas de investimento, ao abrigo do disposto na alínea a) do n.º 1 e nas alíneas c) e j) do n.º 2 do artigo 118.º do Regime das Empresas de Investimento: nos termos do Anexo III ao presente regulamento e do n.º 5 seguinte;\n\nf) Relativa ao balanço, demonstração dos resultados, demonstração do outro rendimento integral e rúbricas extrapatrimoniais das empresas de investimento ao abrigo do disposto na alínea a) do n.º 1 e nas alíneas c) e j) do n.º 2 do artigo 118.º do Regime das Empresas de Investimento:\n\ni) Em base individual: nos termos do Anexo XVI ao presente regulamento;\n\nii) Em base consolidada: nos termos do Anexo XVII ao presente regulamento.\n\n4 - A informação a enviar pelas empresas de investimento à CMVM conforme o Anexo V é acompanhada de cópia da documentação completa de prestação de contas anual e demonstrações financeiras, que no mínimo inclui:\n\na) Relatório de gestão;\n\nb) Balanço, demonstração dos resultados, dos fluxos de caixa, das alterações no capital próprio, do outro rendimento integral e respetivos anexos;\n\nc) Parecer do órgão de fiscalização e CLC, sempre que aplicável;\n\nd) Anexos e demais documentos de prestação de contas exigidos, por lei ou regulamento, à empresa de investimento.\n\n5 - O plano previsto no Anexo III ao presente regulamento deve ser enviado à CMVM no prazo de um mês a contar do incumprimento de requisitos prudenciais e conter, no mínimo, a seguinte informação:\n\na) Modelo de negócio da entidade;\n\nb) Projeções financeiras para os três anos subsequentes à data do incumprimento;\n\nc) Medidas devidamente calendarizadas para a regularização prudencial da entidade.\n\n6 - Em situações de incumprimento de requisitos prudenciais, as comunicações a efetuar à CMVM ao abrigo do artigo 40.º do Regime das Empresas de Investimento devem ser efetuadas para o endereço eletrónico: prudencial@cmvm.pt\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414237": {
+   "fragment_id": "201414008",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Periodicidade e prazos de reporte",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º-B — Periodicidade e prazos de reporte\n\nA informação prevista:\n\na) No n.º 1 e na alínea a) do n.º 3 do artigo 4.º-A, é enviada com a periodicidade e nos prazos estabelecidos na legislação da União Europeia, nomeadamente no artigo 1.º, n.º 1, alínea a) e n.º 2 e no artigo 2.º, n.º 1, alínea a) e n.º 2 a 5 do Regulamento de Execução (UE) n.º 2021/2284 da Comissão Europeia, de 10 de dezembro de 2021;\n\nb) No n.º 2 do artigo 4.º-A, é enviada com a periodicidade e nos prazos estabelecidos na legislação da União Europeia, nomeadamente no artigo 1.º, n.º 1, alínea b) e n.º 2 e no artigo 2.º, n.º 1, alínea b) e n.º 2 a 5 do Regulamento de Execução n.º 2021/2284 da Comissão Europeia, de 10 de dezembro de 2021;\n\nc) Nas alíneas b), c) e d) do n.º 3 do artigo 4.º-A, é enviada anualmente, até ao dia 30 de junho do ano subsequente àquele a que informação respeita;\n\nd) Na alínea f) do n.º 3 do artigo 4.º-A, é enviada trimestralmente ou, quando a empresa de investimento está em incumprimento de requisitos prudencial aplicáveis, mensalmente, até ao último dia do mês subsequente àquele a que a informação respeita.\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414239": {
+   "fragment_id": "201414009",
+   "type": 11,
+   "heading": "Artigo 4.º-C — Formato de ficheiros",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º-C — Formato de ficheiros\n\n1 - A informação prevista no artigo 4.º-A é enviada à CMVM nos seguintes formatos:\n\na) XBRL, relativamente aos Anexos X, XI, XII, XIII e XIV ao presente regulamento, de acordo com as especificações técnicas vigentes estabelecidas pela Autoridade Bancária Europeia;\n\nb) PDF, relativamente ao Anexo XV ao presente regulamento;\n\nc) XML, relativamente aos Anexos XVI e XVII ao presente regulamento.\n\n2 - Os anexos referidos nos números 1 a 3 do artigo 4.º-A são preenchidos e submetidos à CMVM nos termos do Regulamento da CMVM n.º 3/2016, de 2 de agosto, relativo aos deveres de reporte de informação à CMVM.\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414241": {
+   "fragment_id": "201414010",
+   "type": 11,
+   "heading": "Artigo 4.º-D — Informação divulgada no sistema de difusão de informação da CMVM",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º-D — Informação divulgada no sistema de difusão de informação da CMVM\n\nA informação prevista na alínea b) do n.º 3 do artigo 4.º-A é divulgada no sistema de difusão de informação da CMVM.\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414243": {
+   "fragment_id": "201414011",
+   "type": 11,
+   "heading": "Artigo 4.º-E — Normas contabilísticas aplicáveis",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "###### Artigo 4.º-E — Normas contabilísticas aplicáveis\n\nAs empresas de investimento e as empresas-mãe elaboram as respetivas demonstrações financeiras, em base individual ou em base consolidada, e reportam a informação prevista nos artigos anteriores, em conformidade com as normas internacionais de contabilidade e de relato financeiro (IAS/IFRS).\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414226": {
+   "fragment_id": "201400294",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "201414227": {
+   "fragment_id": "201400296",
+   "type": 14,
+   "heading": "Anexo I — Informação sobre requisitos prudenciais das sociedades gestoras de organismos de investimento coletivo (SGOIC)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo I — Informação sobre requisitos prudenciais das sociedades gestoras de organismos de investimento coletivo (SGOIC)\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"SGO\" a enviar à CMVM constam do documento \"2020_reporte_SGO_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o valor líquido sob gestão das SGOIC, com os seguintes campos:\n\nValor líquido global dos organismos de investimento coletivo em valores mobiliários (Campo 1): Campo que identifica o valor líquido global dos organismos de investimento coletivo em valores mobiliários (OICVM), conforme alínea d) do n.º 2 do artigo 71.º-M do Regime Geral dos Organismos de Investimento Coletivo (RGOIC).\n\nValor líquido global dos organismos de investimento em capital de risco (Campo 2): Campo que identifica o valor líquido global dos organismos de investimento em capital de risco (OICR), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos fundos de empreendedorismo social (Campo 3): Campo que identifica o valor líquido global dos fundos de empreendedorismo social (FES), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos organismos de investimento alternativo especializado (Campo 4): Campo que identifica o valor líquido global dos organismos de investimento alternativo especializado (OIAE), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos organismos de investimento alternativo em valores mobiliários (Campo 5): Campo que identifica o valor líquido global dos organismos de investimento alternativo em valores mobiliários (OIAVM), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos organismos de investimento imobiliário (Campo 6): Campo que identifica o valor líquido global dos organismos de investimento imobiliário (OII), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos organismos de investimento em ativos não financeiros (Campo 7): Campo que identifica o valor líquido global dos organismos de investimento em ativos não financeiros (OIAnF), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global dos fundos de titularização de créditos (Campo 8): Campo que identifica o valor líquido global dos fundos de titularização de créditos (FTC), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC.\n\nValor líquido global de outros organismos de investimento coletivo (Campo 9): Campo que identifica o valor líquido global de outros organismos de investimento coletivo previstos nas alíneas f) e g) do n.º 3 do artigo 71.º-B do RGOIC conforme alínea d) do n.º 2 do artigo 71.º-M do referido diploma.\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre os valores de referência para o cálculo dos fundos próprios, com os seguintes campos:\n\nDespesas gerais fixas (Campo 1): Campo de preenchimento obrigatório que identifica o montante total das despesas gerais fixas do ano anterior a que a informação respeita, conforme alínea a) do n.º 1 do artigo 71.º-M do RGOIC. Por despesas gerais fixas entendem-se as previstas no n.º 2 do artigo 34.º-B do Regulamento da (UE) n.º 241/2014.\n\nCapital inicial (Campo 2): Campo de preenchimento obrigatório que identifica o montante do capital inicial detido, calculado de acordo com o previsto na alínea b) do n.º 1 do artigo 2.º do RGOIC.\n\nGarantia (Campo 3): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea c) do n.º 2 do artigo 71.º-M do RGOIC.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre medidas suplementares para cobertura de risco decorrente da atividade de gestão de organismos de investimento alternativo (OIA), com os seguintes campos:\n\nValor do ativo dos OIA geridos (Campo 1): Campo de preenchimento obrigatório que identifica a soma do valor absoluto de todos os ativos de todos os OIA geridos pela SGOIC, incluindo os ativos adquiridos através do recurso ao efeito de alavanca, sendo os instrumentos derivados avaliados pelo seu valor de mercado, de acordo com o previsto na alínea a) do n.º 3 do artigo 71.º-M do RGOIC.\n\nSeguro de responsabilidade civil profissional (Campo 2): Campo de preenchimento obrigatório que identifica a existência de seguro de responsabilidade civil profissional, de acordo com o previsto na subalínea ii) da alínea a) do n.º 3 do artigo 71.º-M do RGOIC, sendo preenchido com um dos seguintes códigos:\n\n\"S\", caso tenha sido celebrado um seguro de responsabilidade civil profissional;\n\n\"N\", caso não tenha sido celebrado um seguro de responsabilidade civil profissional.\n\n(ver documento original)\n\nBloco de informação n.º 4: Informação sobre os fundos próprios e ativos líquidos da SGOIC, com os seguintes campos:\n\nFundos próprios (Campo 1): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela SGOIC, calculados de acordo com a alínea v) do n.º 1 do artigo 2.º RGOIC.\n\nAtivos líquidos (Campo 2): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela SGOIC e que preencham as condições previstas no n.º 4 do artigo 71.º-M do RGOIC; por ativos líquidos entendem-se os previstos no n.º 1 do artigo 416.º do Regulamento (UE) n.º 575/2013, excluindo a condição prevista na alínea d) do n.º 3 do referido artigo, e as disponibilidades e aplicações em outras instituições de crédito com prazo residual inferior a 30 dias ou mobilizáveis sem penalização num prazo máximo de 30 dias.\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414228": {
+   "fragment_id": "201400297",
+   "type": 14,
+   "heading": "Anexo II — Informação sobre requisitos prudenciais das sociedades gestoras de fundos de titularização de créditos (SGFTC)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo II — Informação sobre requisitos prudenciais das sociedades gestoras de fundos de titularização de créditos (SGFTC)\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"GTC\" a enviar à CMVM constam do documento \"2020_reporte_GTC_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o valor líquido sob gestão das SGFTC, com os seguintes campos:\n\nValor líquido global dos fundos de titularização de créditos (Campo 1): Campo de preenchimento obrigatório que identifica o valor líquido global dos fundos de titularização de créditos (FTC), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC, ex vi artigo 19.º do Regime Jurídico da Titularização de Créditos (RJTC).\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre os valores de referência para o cálculo dos fundos próprios, com os seguintes campos:\n\nDespesas gerais fixas (Campo 1): Campo de preenchimento obrigatório que identifica o montante total das despesas gerais fixas do ano anterior a que a informação respeita, conforme alínea a) do n.º 1 do artigo 71.º-M do RGOIC, ex vi artigo 19.º do RJTC. Por despesas gerais fixas entendem-se as previstas no n.º 2 do artigo 34.º-B do Regulamento da (UE) n.º 241/2014.\n\nCapital inicial (Campo 2): Campo de preenchimento obrigatório que identifica o montante do capital inicial detido, calculado de acordo com o previsto no n.º 3 do artigo 17.º do RJTC.\n\nGarantia (Campo 3): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea c) do n.º 2 do artigo 71.º-M do RGOIC, ex vi artigo 19.º do RJTC.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre os valores de fundos próprios e ativos líquidos da SGFTC, com os seguintes campos:\n\nFundos próprios (Campo 1): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela SGFTC, calculados de acordo com o previsto na alínea v), do n.º 1 do artigo 2.º do RGOIC, ex vi artigo 19.º do RJTC.\n\nAtivos líquidos (Campo 2): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela SGFTC e que preencham as condições previstas no n.º 4 do artigo 71.º-M do RGOIC, ex vi artigo 19.º do RJTC; por ativos líquidos entendem-se os previstos no n.º 1 do artigo 416.º do Regulamento (UE) n.º 575/2013, excluindo a condição prevista na alínea d) do n.º 3 do referido artigo, e as disponibilidades e aplicações em outras instituições de crédito com prazo residual inferior a 30 dias ou mobilizáveis sem penalização num prazo máximo de 30 dias.\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414229": {
+   "fragment_id": "201400298",
+   "type": 14,
+   "heading": "Anexo III — Informação relativa ao plano de viabilidade económica e financeira para regularização dos requisitos prudenciais aplicáveis",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo III — Informação relativa ao plano de viabilidade económica e financeira para regularização dos requisitos prudenciais aplicáveis\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414207": {
+   "fragment_id": "201400299",
+   "type": 14,
+   "heading": "Anexo IV — Informação financeira relativa ao balanço, demonstração dos resultados e demonstração do outro rendimento integral",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo IV — Informação financeira relativa ao balanço, demonstração dos resultados e demonstração do outro rendimento integral\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"RDB\" a enviar à CMVM constam do documento \"2020_reporte_RDB_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre as rubricas de balanço, com os seguintes campos:\n\nCódigo de conta (Campo 1): Campo de preenchimento obrigatório que identifica o código de conta, sendo preenchido de acordo com o código de conta da Tabela 1.\n\nValor de conta (Campo 2): Campo de preenchimento obrigatório que identifica o saldo da conta no final de cada período de reporte, sendo preenchido com um valor positivo para as rubricas de ativo e passivo, e com um valor positivo ou negativo para as rubricas de capital próprio.\n\n(ver documento original)\n\nTABELA 1\n\nCódigos de conta das rubricas de balanço\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre as rubricas da demonstração dos resultados, com os seguintes campos:\n\nCódigo de conta (Campo 1): Campo de preenchimento obrigatório que identifica o código de conta, sendo preenchido de acordo com o código de conta da Tabela 2.\n\nValor de conta (Campo 2): Campo de preenchimento obrigatório que identifica o saldo da conta no final de cada período de reporte, sendo preenchido com um valor positivo ou negativo, consoante a rubrica contribua de modo positivo ou negativo para o resultado líquido do exercício.\n\n(ver documento original)\n\nTABELA 2\n\nCódigo de conta das rubricas da demonstração dos resultados\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre as rubricas da demonstração do outro rendimento integral, com os seguintes campos:\n\nCódigo de conta (Campo 1): Campo de preenchimento obrigatório que identifica o código de conta, sendo preenchido de acordo com o código de conta da Tabela 3.\n\nValor de conta (Campo 2): Campo de preenchimento obrigatório que identifica o saldo da conta no final de cada período de reporte, sendo preenchido com um valor positivo ou negativo, consoante a rubrica contribua de modo positivo ou negativo para o rendimento integral total.\n\n(ver documento original)\n\nTABELA 3\n\nCódigo de conta das rubricas da demonstração do outro rendimento integral\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414208": {
+   "fragment_id": "201400300",
+   "type": 14,
+   "heading": "Anexo V — Informação relativa aos documentos de prestação de contas anuais",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo V — Informação relativa aos documentos de prestação de contas anuais\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414209": {
+   "fragment_id": "201400301",
+   "type": 14,
+   "heading": "Anexo VI — Informação relativa à Certificação legal das Contas (CLC)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo VI — Informação relativa à Certificação legal das Contas (CLC)\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"CLC\" a enviar à CMVM constam do documento \"2020_reporte_CLC_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o conteúdo da certificação legal das contas (CLC) do relatório e contas anual, com os seguintes campos:\n\nTipo de opinião (Campo 1): Campo de preenchimento obrigatório que identifica as caraterísticas da CLC, sendo preenchido com um dos seguintes códigos:\n\n\"SRE\", para CLC sem reservas e ênfases;\n\n\"CRE\", para CLC com reservas e ênfases;\n\n\"OCR\", para CLC com reservas e sem ênfases;\n\n\"OCE\", para CLC com ênfases e sem reservas;\n\n\"EDO\", para uma escusa de opinião;\n\n\"ADV\", para uma opinião adversa.\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre as reservas na certificação legal das contas, com os seguintes campos:\n\nIdentificação de reservas (Campo 1): Campo de preenchimento obrigatório quando o tipo de opinião no campo 1 do bloco de informação n.º 1 for preenchido com o código \"CRE\" ou \"OCR\", e que identifica um número sequencial de 1 a n, sendo n o número total de reservas.\n\nDescrição da reserva (Campo 2): Campo de preenchimento obrigatório quando o tipo de opinião no campo 1 do bloco de informação n.º 1 for preenchido com o código \"CRE\" ou \"OCR\", e que identifica o texto da reserva que consta da CLC.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre as ênfases na CLC, com os seguintes campos:\n\nIdentificação de ênfases (Campo 1): Campo de preenchimento obrigatório quando o tipo de opinião no campo 1 do bloco de informação n.º 1 for preenchido com o código \"CRE\" ou \"OCE\", e que identifica um número sequencial de 1 a n, sendo n o número total de ênfases.\n\nDescrição da ênfase (Campo 2): Campo de preenchimento obrigatório quando o tipo de opinião no campo 1 do bloco de informação n.º 1 for preenchido com o código \"CRE\" ou \"OCE\", e que identifica o texto da ênfase que consta da CLC.\n\n(ver documento original)\n\nBloco de informação n.º 4: Informação sobre o auditor que assina a CLC, com os seguintes campos:\n\nNúmero de registo do revisor oficial de contas (ROC) (Campo 1): Campo de preenchimento obrigatório que identifica o número de registo na CMVM do ROC que assina a CLC.\n\nNúmero de registo da SROC (Campo 2): Campo que identifica o número de registo na CMVM da SROC a qual pertence o revisor oficial de contas (ROC) que assina a CLC.\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414210": {
+   "fragment_id": "201413975",
+   "type": 14,
+   "heading": "Anexo VII — Informação sobre requisitos prudenciais das sociedades de titularização de créditos (STC)",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo VII — Informação sobre requisitos prudenciais das sociedades de titularização de créditos (STC)\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"STC\" a enviar à CMVM constam do documento \"2020_reporte_STC_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o valor das obrigações emitidas e não amortizadas das sociedades de titularização de créditos (STC), com os seguintes campos:\n\nValor das obrigações emitidas e não amortizadas (Campo 1): Campo de preenchimento obrigatório que identifica o valor das obrigações emitidas e não amortizadas da STC, conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC, ex vi artigo 19.º, ex vi n.º 1 do artigo 43.º, ambos do Regime Jurídico da Titularização de Créditos (RJTC).\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre os valores de referência para o cálculo dos fundos próprios da STC, com os seguintes campos:\n\nDespesas gerais fixas (Campo 1): Campo de preenchimento obrigatório que identifica o montante total das despesas gerais fixas do ano anterior a que a informação respeita, conforme alínea a) do n.º 1 do artigo 71.º-M do RGOIC, ex vi artigo 19.º, ex vi n.º 1 do artigo 43.º, ambos do RJTC. Por despesas gerais fixas entendem-se as previstas no n.º 2 do artigo 34.º-B do Regulamento da (EU) n.º 241/2014.\n\nCapital inicial (Campo 2): Campo de preenchimento obrigatório que identifica o montante do capital inicial detido pela STC, calculado de acordo com o previsto no n.º 3 do artigo 17.º, ex vi n.º 2 do artigo 40.º, ambos do RJTC.\n\nGarantia (Campo 3): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea c) do n.º 2 do artigo 71.º-M do RGOIC, ex vi artigo 19.º, ex vi n.º 1 do artigo 43.º, ambos do RJTC.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre os valores de fundos próprios e ativos líquidos da STC, com os seguintes campos:\n\nFundos próprios (Campo 1): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela STC, calculados de acordo com o previsto na alínea v), do n.º 1 do artigo 2.º do RGOIC, ex vi artigo 19.º, ex vi n.º 1 do artigo 43.º, ambos do RJTC.\n\nAtivos líquidos (Campo 2): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela STC e que preencham as condições previstas no n.º 4 do artigo 71.º-M do RGOIC, ex vi artigo 19.º, ex vi n.º 1 do artigo 43.º, ambos do RJTC.\n\nPor ativos líquidos entendem-se os previstos no n.º 1 do artigo 416.º do Regulamento (UE) n.º 575/2013, excluindo a condição prevista na alínea d) do n.º 3 do referido artigo, e as disponibilidades e aplicações em outras instituições de crédito com prazo residual inferior a 30 dias ou mobilizáveis sem penalização num prazo máximo de 30 dias.\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414211": {
+   "fragment_id": "201413976",
+   "type": 14,
+   "heading": "Anexo VIII — Informação sobre requisitos prudenciais das sociedades gestoras de fundos de capital de risco (SGFCR), sociedades de investimento em capital de risco (SICR) autogeridas, e sociedades de investimento alternativo especializado (SIAE) autogeridas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo VIII — Informação sobre requisitos prudenciais das sociedades gestoras de fundos de capital de risco (SGFCR), sociedades de investimento em capital de risco (SICR) autogeridas, e sociedades de investimento alternativo especializado (SIAE) autogeridas\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"GCR\" a enviar à CMVM constam do documento \"2020_reporte_GCR_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o valor líquido sob gestão das sociedades gestoras de fundos de capital de risco (SGFCR), sociedades de investimento em capital de risco (SICR) autogeridas, e sociedades de investimento alternativo especializado (SIAE) autogeridas, com os seguintes campos:\n\nValor líquido global dos organismos de investimento em capital de risco (Campo 1): Campo que identifica o valor líquido global dos organismos de investimento em capital de risco (OICR), conforme alínea d) do n.º 2 do artigo 71.º-M do Regime Geral dos Organismos de Investimento Coletivo (RGOIC), ex vi n.º 4 do artigo 46.º do Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado (RJCRESIE).\n\nValor líquido global dos fundos de empreendedorismo social (Campo 2): Campo que identifica o valor líquido global dos fundos de empreendedorismo social (FES), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE.\n\nValor líquido global dos organismos de investimento alternativo especializado (Campo 3): Campo que identifica o valor líquido global dos organismos de investimento alternativo especializado (OIAE), conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE.\n\nValor líquido global de outros organismos de investimento coletivo (Campo 4): Campo que identifica o valor líquido global de outros organismos de investimento coletivo, conforme alínea d) do n.º 2 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE.\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre os valores de referência para o cálculo dos fundos próprios das SGFCR, das SIAE autogeridas ou das SICR autogeridas, com os seguintes campos:\n\nDespesas gerais fixas (Campo 1): Campo de preenchimento obrigatório que identifica o montante total das despesas gerais fixas do ano anterior a que a informação respeita, conforme alínea a) do n.º 1 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE. Por despesas gerais fixas entendem-se as previstas no n.º 2 do artigo 34.º-B do Regulamento da (EU) n.º 241/2014.\n\nCapital inicial (Campo 2): Campo de preenchimento obrigatório que identifica o montante do capital inicial detido pela SGFCR, SIAE autogerida ou SICR autogerida, calculado de acordo com o previsto na alínea b) do n.º 1 do artigo 2.º do RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\nGarantia (Campo 3): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea c) do n.º 2 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre medidas suplementares para cobertura de risco decorrente da atividade de gestão de organismos de investimento alternativo (OIA), com os seguintes campos:\n\nValor do ativo dos OIA geridos (Campo 1): Campo de preenchimento obrigatório que identifica a soma do valor absoluto de todos os ativos de todos os OIA geridos pela SGFCR, SIAE autogerida ou SICR autogerida, incluindo os ativos adquiridos através do recurso ao efeito de alavanca, sendo os instrumentos derivados avaliados pelo seu valor de mercado, de acordo com o previsto na alínea a) do n.º 3 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE.\n\nSeguro de responsabilidade civil profissional (Campo 2): Campo de preenchimento obrigatório que identifica a existência de seguro de responsabilidade civil profissional, de acordo com o previsto na subalínea ii) da alínea a) do n.º 3 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE, sendo preenchido com um dos seguintes códigos:\n\n\"S\", caso tenha sido celebrado um seguro de responsabilidade civil profissional;\n\n\"N\", caso não tenha sido celebrado um seguro de responsabilidade civil profissional.\n\n(ver documento original)\n\nBloco de informação n.º 4: Informação sobre os fundos próprios e ativos líquidos das SGFCR, das SIAE autogeridas e das SICR autogeridas, com os seguintes campos:\n\nFundos próprios (Campo 1): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela SGFCR, SIAE autogerida ou SICR autogerida, calculados de acordo com a alínea v) do n.º 1 do artigo 2.º RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\nAtivos líquidos (Campo 2): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela SGFCR, SIAE autogerida ou SICR autogerida e que preencham as condições previstas no n.º 4 do artigo 71.º-M do RGOIC, ex vi n.º 4 do artigo 46.º do RJCRESIE; por ativos líquidos entendem-se os previstos no n.º 1 do artigo 416.º do Regulamento (UE) n.º 575/2013, excluindo a condição prevista na alínea d) do n.º 3 do referido artigo, e as disponibilidades e aplicações em outras instituições de crédito com prazo residual inferior a 30 dias ou mobilizáveis sem penalização num prazo máximo de 30 dias.\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414212": {
+   "fragment_id": "201413977",
+   "type": 14,
+   "heading": "Anexo IX — Informação sobre requisitos prudenciais das sociedades de capital de risco (SCR) e das sociedades de empreendedorismo social (SES)",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "## Anexo IX — Informação sobre requisitos prudenciais das sociedades de capital de risco (SCR) e das sociedades de empreendedorismo social (SES)\n\nO presente Anexo é preenchido nos termos do Regulamento da CMVM n.º 3/2016.\n\nQuanto ao nome do ficheiro:\n\n(ver documento original)\n\nQuanto à estrutura e conteúdo do ficheiro de dados:\n\nAs especificações técnicas relativas ao ficheiro \"SCR\" a enviar à CMVM constam do documento \"2020_reporte_SCR_schemas.zip\" ou em versões atualizadas do mesmo, disponível no sítio da internet da CMVM.\n\nOpção de reporte com conteúdo\n\nNo conteúdo a reportar o elemento ConteudoReporte do cabeçalho deve conter a indicação \"REPO\" e o elemento identificador de reporte nulo do corpo do ficheiro não deve ser preenchido, sendo preenchidos os restantes elementos do corpo do ficheiro de acordo com as instruções infra.\n\nBloco de informação n.º 1: Informação sobre o valor líquido sob gestão das sociedades de capital de risco (SCR) e sociedades de empreendedorismo social (SES), com os seguintes campos:\n\nValor líquido global dos fundos de capital de risco (Campo 1): Campo que identifica o valor líquido global dos fundos de capital de risco (FCR), conforme alínea nn) do n.º 1 do artigo 2 do Regime Geral dos Organismos de Investimento Coletivo (RGOIC), ex vi n.º 5 do artigo 2.º do Regime Jurídico do Capital de Risco, do Empreendedorismo Social e do Investimento Especializado (RJCRESIE).\n\nValor líquido global dos fundos de empreendedorismo social (Campo 2): Campo que identifica o valor líquido global dos fundos de empreendedorismo social (FES), conforme alínea nn) do n.º 1 do artigo 2.º do RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\nValor líquido global dos fundos de investimento alternativo especializado (Campo 2): Campo que identifica o valor líquido global dos fundos de investimento alternativo especializado (FIAE), conforme alínea nn) do n.º 1 do artigo 2.º do RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\nValor líquido global de outros organismos de investimento coletivo (Campo 3): Campo que identifica o valor líquido global de outros organismos de investimento coletivo, conforme alínea nn) do n.º 1 do artigo 2.º do RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\n(ver documento original)\n\nBloco de informação n.º 2: Informação sobre os valores de referência para o cálculo dos fundos próprios das SCR e SES, com os seguintes campos:\n\nCapital social (Campo 1): Campo de preenchimento obrigatório que identifica o montante do capital social realizado.\n\nGarantia (Campo 2): Campo que identifica o valor da garantia prestada por instituição de crédito ou empresa de seguros com sede na União Europeia, conforme alínea n.º 2 do artigo 12.º do RJCRESIE.\n\n(ver documento original)\n\nBloco de informação n.º 3: Informação sobre os fundos próprios e ativos líquidos das SCR e SES, com os seguintes campos:\n\nFundos próprios (Campo 1): Campo de preenchimento obrigatório que identifica os fundos próprios totais detidos pela SCR e SES, calculados de acordo com a alínea v) do n.º 1 do artigo 2.º RGOIC, ex vi n.º 5 do artigo 2.º do RJCRESIE.\n\nAtivos líquidos (Campo 2): Campo de preenchimento obrigatório que identifica o valor total de ativos líquidos detidos pela SCR e SES.\n\nPor ativos líquidos entendem-se os previstos no n.º 1 do artigo 416.º do Regulamento (UE) n.º 575/2013, excluindo a condição prevista na alínea d) do n.º 3 do referido artigo, e as disponibilidades e aplicações em outras instituições de crédito com prazo residual inferior a 30 dias ou mobilizáveis sem penalização num prazo máximo de 30 dias.\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 11.º do/a [Regulamento da CMVM n.º 6/2020 - Diário da República n.º 243/2020, Série II de 2020-12-16](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2020-151322794), em vigor a partir de 2021-07-01"
+  },
+  "201414213": {
+   "fragment_id": "201413999",
+   "type": 14,
+   "heading": "Anexo X — Informação prudencial relativa a empresas de investimento que não sejam empresas de investimento de pequena dimensão e não interligadas (“Classe 2”) em base individual",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "## Anexo X — Informação prudencial relativa a empresas de investimento que não sejam empresas de investimento de pequena dimensão e não interligadas (“Classe 2”) em base individual\n\n[a que se refere o artigo 5.º ex vi artigo 3.º ambos do Regulamento de Execução (UE) 2021/2284,\n\nde 10 de dezembro de 2021]\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414214": {
+   "fragment_id": "201414000",
+   "type": 14,
+   "heading": "Anexo XI — Informação prudencial relativa a empresas de investimento que não sejam empresas de investimento de pequena dimensão e não interligadas (“Classe 2”) em base consolidada",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "## Anexo XI — Informação prudencial relativa a empresas de investimento que não sejam empresas de investimento de pequena dimensão e não interligadas (“Classe 2”) em base consolidada\n\n[a que se refere o artigo 5.º ex vi artigo 4.º ambos do Regulamento de Execução (UE) 2021/2284,\n\nde 10 de dezembro de 2021]\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414215": {
+   "fragment_id": "201414001",
+   "type": 14,
+   "heading": "Anexo XII — Informação prudencial relativa a empresas de investimento de pequena dimensão e não interligadas (“Classe 3”) em base individual",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "## Anexo XII — Informação prudencial relativa a empresas de investimento de pequena dimensão e não interligadas (“Classe 3”) em base individual\n\n[a que se refere o artigo 6.º ex vi artigo 3.º ambos do Regulamento de Execução (UE) 2021/2284,\n\nde 10 de dezembro de 2021]\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414216": {
+   "fragment_id": "201414002",
+   "type": 14,
+   "heading": "Anexo XIII — Informação prudencial relativa a empresas de investimento de pequena dimensão e não interligadas (“Classe 3”) em base consolidada",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "## Anexo XIII — Informação prudencial relativa a empresas de investimento de pequena dimensão e não interligadas (“Classe 3”) em base consolidada\n\n[a que se refere o artigo 6.º ex vi artigo 4.º ambos do Regulamento de Execução (UE) 2021/2284,\n\nde 10 de dezembro de 2021]\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414217": {
+   "fragment_id": "201414003",
+   "type": 14,
+   "heading": "Anexo XIV — Informação prudencial relativa ao critério de capital de grupo",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "## Anexo XIV — Informação prudencial relativa ao critério de capital de grupo\n\n[a que se refere o artigo 7.º ex vi artigo 3.º ambos do Regulamento de Execução (UE) 2021/2284,\n\nde 10 de dezembro de 2021]\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414218": {
+   "fragment_id": "201414004",
+   "type": 14,
+   "heading": "Anexo XV — Divulgação de informação pelas empresas de investimento que não sejam empresas de investimento de pequena dimensão e não interligadas (“Classe 2”) e pelas empresas de investimento de pequena dimensão e não interligadas (“Classe 3”) que emitam instrumentos de fundos próprios adicionais de nível 1 (“AT1”)",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "## Anexo XV — Divulgação de informação pelas empresas de investimento que não sejam empresas de investimento de pequena dimensão e não interligadas (“Classe 2”) e pelas empresas de investimento de pequena dimensão e não interligadas (“Classe 3”) que emitam instrumentos de fundos próprios adicionais de nível 1 (“AT1”)\n\n[a que se refere a parte VI do Regulamento (UE) 2019/2033 do Parlamento Europeu\n\ne do Conselho de 27 de novembro de 2019]\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414219": {
+   "fragment_id": "201414005",
+   "type": 14,
+   "heading": "Anexo XVI — Informação relativa ao balanço, demonstração dos resultados, demonstração do outro rendimento integral e rubricas extrapatrimoniais das empresas de investimento em base individual",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "## Anexo XVI — Informação relativa ao balanço, demonstração dos resultados, demonstração do outro rendimento integral e rubricas extrapatrimoniais das empresas de investimento em base individual\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  },
+  "201414220": {
+   "fragment_id": "201414006",
+   "type": 14,
+   "heading": "Anexo XVII — Informação relativa ao balanço, demonstração dos resultados, demonstração do outro rendimento integral e rubricas extrapatrimoniais das empresas de investimento em base consolidada",
+   "in_force_from": "2022-08-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+   ],
+   "markdown": "## Anexo XVII — Informação relativa ao balanço, demonstração dos resultados, demonstração do outro rendimento integral e rubricas extrapatrimoniais das empresas de investimento em base consolidada\n\n(ver documento original)\n\n> Aditado pelo/a Artigo 4.º do/a [Regulamento da CMVM n.º 7/2022 - Diário da República n.º 165/2022, Série II de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/7-2022-200305642), em vigor a partir de 2022-08-27"
+  }
+ }
+}

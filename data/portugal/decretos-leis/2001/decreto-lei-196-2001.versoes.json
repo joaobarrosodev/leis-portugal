@@ -1,0 +1,964 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:350105:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-124346959",
+ "dre_path": "/dr/detalhe/decreto-lei/196-2001-350105",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-06-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "220228898",
+    "124347055",
+    "124347056",
+    "124347057",
+    "124347058",
+    "124347059",
+    "124347060",
+    "124347061",
+    "124347062",
+    "124347063",
+    "124347064",
+    "124347065",
+    "124347066",
+    "124347067",
+    "124347068",
+    "124347069",
+    "124347070",
+    "124347071",
+    "124347072",
+    "124347073",
+    "124347074",
+    "124413675",
+    "124413676",
+    "124413677",
+    "124413678",
+    "124413679",
+    "124413680",
+    "124413681",
+    "124413682",
+    "124413683",
+    "124413684",
+    "124413685",
+    "124413686",
+    "124413687",
+    "124413688",
+    "124413689",
+    "124413690",
+    "124413691",
+    "124413692",
+    "124413693",
+    "124413694",
+    "124413695"
+   ]
+  },
+  {
+   "date": "2019-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124392054:por",
+     "title": "Lei Orgânica n.º 3/2019",
+     "published": "2019-09-03",
+     "dre_path": "/dr/detalhe/lei-organica/3-2019-124392054"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "124347054",
+    "124347055",
+    "124347056",
+    "124347057",
+    "124347058",
+    "124347059",
+    "124347060",
+    "124347061",
+    "124347062",
+    "124347063",
+    "124347064",
+    "124347065",
+    "124347066",
+    "124347067",
+    "124413381",
+    "124347069",
+    "124347070",
+    "124347071",
+    "124347072",
+    "124347073",
+    "124347074",
+    "124413675",
+    "124413676",
+    "124413677",
+    "124413678",
+    "124413679",
+    "124413680",
+    "124413681",
+    "124413682",
+    "124413683",
+    "124413684",
+    "124413685",
+    "124413686",
+    "124413687",
+    "124413688",
+    "124413689",
+    "124413690",
+    "124413691",
+    "124413692",
+    "124413693",
+    "124413694",
+    "124413695",
+    "124413696"
+   ]
+  },
+  {
+   "date": "2023-08-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220061174:por",
+     "title": "Lei Orgânica n.º 2/2023",
+     "published": "2023-08-18",
+     "dre_path": "/dr/detalhe/lei-organica/2-2023-220061174"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "220228898",
+    "220228899",
+    "220228900",
+    "220228901",
+    "220228902",
+    "220228903",
+    "220228904",
+    "220228905",
+    "220228906",
+    "220228907",
+    "220228908",
+    "220228909",
+    "220228910",
+    "220228911",
+    "220228912",
+    "220228913",
+    "220228914",
+    "220228915",
+    "220228916",
+    "220228917",
+    "220228918",
+    "220228919",
+    "220228920",
+    "220228921",
+    "220228922",
+    "220228923",
+    "220228924",
+    "220228925",
+    "220228926",
+    "220228927",
+    "220228928",
+    "220228929",
+    "220228930",
+    "220228931",
+    "220228932",
+    "220228933",
+    "220228934",
+    "220228935",
+    "220228936",
+    "220228937",
+    "220228938",
+    "220228939",
+    "220228940"
+   ]
+  }
+ ],
+ "fragments": {
+  "220228898": {
+   "fragment_id": "124346960",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-08-19",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 196/2001\n\nde 29 de Junho\n\nO Decreto-Lei n.º 32/99, de 5 de Fevereiro, com a nova redacção que lhe foi dada pela Lei n.º 131/99, de 28 de Agosto, estabelece o regime da alienação dos imóveis excedentários ou desadequados pertencentes ao domínio privado do Estado afectos ao Ministério da Defesa Nacional, bem como o regime de afectação ou reafectação dos mesmos imóveis a um órgão ou serviço do Estado.\n\nO referido diploma, no n.º 1 do artigo 6.º, remete para decreto-lei a regulação dos critérios gerais de alienação e respectivo processo, o que se faz pelo presente diploma.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei n.º 32/99, de 5 de Fevereiro, com a redacção que lhe foi introduzida pela Lei n.º 131/99, de 28 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "124347055": {
+   "fragment_id": "124346961",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais comuns"
+  },
+  "124347056": {
+   "fragment_id": "124346962",
+   "type": 8,
+   "heading": "Secção I — Âmbito, objecto e prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Âmbito, objecto e prazos"
+  },
+  "124347057": {
+   "fragment_id": "124346963",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nSão aprovados os critérios gerais e o procedimento de alienação dos imóveis integrados no domínio privado do Estado afectos ao Ministério da Defesa Nacional."
+  },
+  "124347058": {
+   "fragment_id": "124346964",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\nO presente diploma tem por objecto, no âmbito previsto no artigo anterior, a definição dos requisitos, prévios à alienação, relativos aos imóveis a alienar, os factores de escolha das modalidades de alienação e os procedimentos pertinentes a cada modalidade de alienação."
+  },
+  "124347059": {
+   "fragment_id": "124346965",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prazos\n\n1 - Os prazos fixados no presente diploma para apresentação das propostas não se suspendem nos sábados, domingos e feriados.\n\n2 - Os restantes prazos contam-se nos termos do artigo 72.º do Código do Procedimento Administrativo."
+  },
+  "124347060": {
+   "fragment_id": "124346966",
+   "type": 8,
+   "heading": "Secção II — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Princípios"
+  },
+  "124347061": {
+   "fragment_id": "124346967",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios aplicáveis\n\nNos procedimentos abrangidos por este diploma serão observados os princípios do rigor, da transparência, da imparcialidade e da simplicidade."
+  },
+  "124347062": {
+   "fragment_id": "124346968",
+   "type": 1,
+   "heading": "Capítulo II — Alienação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Alienação"
+  },
+  "124347063": {
+   "fragment_id": "124346969",
+   "type": 8,
+   "heading": "Secção I — Requisitos, modalidades e títulos de alienação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Requisitos, modalidades e títulos de alienação"
+  },
+  "124347064": {
+   "fragment_id": "124346970",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos prévios à alienação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos prévios à alienação\n\n1 - Os imóveis do domínio privado do Estado afectos ao Ministério da Defesa Nacional devem, antes da efectivação da alienação por negócio jurídico oneroso, conforme previsto no n.º 2 do artigo 6.º do Decreto-Lei n.º 32/99, de 5 de Fevereiro, reunir os seguintes requisitos:\n\na) Estarem devidamente identificados, dispondo, pelo menos, de informação bastante que possibilite efectuar o correspondente registo a favor do adquirente;\n\nb) Terem sido objecto de avaliação oficial.\n\n2 - A avaliação a que se refere a alínea b) do número anterior é solicitada pela Direcção-Geral de Infra-Estruturas, do Ministério da Defesa Nacional, à Direcção-Geral do Património, do Ministério das Finanças, devendo o valor da avaliação ser homologado pelo respectivo director-geral.\n\n3 - Para efeitos do disposto no n.º 3 do artigo 7.º do Decreto-Lei n.º 32/99, de 5 de Fevereiro, os imóveis objecto de cessão a título definitivo a pessoas colectivas de direito público ou a entidades particulares de interesse público podem ser dispensados de avaliação, nos termos do disposto no n.º 1 do artigo 8.º do presente diploma."
+  },
+  "124347065": {
+   "fragment_id": "124346971",
+   "type": 11,
+   "heading": "Artigo 6.º — Modalidades de alienação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Modalidades de alienação\n\n1 - A alienação de imóveis integrados no domínio privado do Estado afectos ao Ministério da Defesa Nacional poderá efectuar-se mediante:\n\na) Cessão a título definitivo a pessoas colectivas de direito público e a entidades particulares de interesse público;\n\nb) Negócio jurídico, precedido de concurso público ou negociação directa.\n\n2 - Para efeitos da alínea a) do número anterior, entidades de interesse público são pessoas colectivas privadas que prosseguem fins de interesse público, designadamente as sociedades de interesse colectivo e as pessoas colectivas de utilidade pública."
+  },
+  "124347066": {
+   "fragment_id": "124346972",
+   "type": 11,
+   "heading": "Artigo 7.º — Títulos de alienação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Títulos de alienação\n\nConstituem título comprovativo da transferência do direito de propriedade ou da constituição ou transferência de direitos reais menores sobre os imóveis integrados no domínio privado do Estado afectos ao Ministério da Defesa Nacional os seguintes documentos:\n\na) O auto de cessão a título definitivo, no caso de cessão a título definitivo;\n\nb) O despacho e correspondente auto de adjudicação, sequente à realização de concurso público;\n\nc) O despacho que decide a alienação a favor de pessoa jurídica determinada e o correspondente auto de entrega do imóvel, no caso de negociação directa."
+  },
+  "124347067": {
+   "fragment_id": "124346973",
+   "type": 8,
+   "heading": "Secção II — Cessão a título definitivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Cessão a título definitivo"
+  },
+  "124347068": {
+   "fragment_id": "124346974",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento de cessão a título definitivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimento de cessão a título definitivo\n\n1 - A cessão a título definitivo é determinada, caso a caso, por despacho conjunto dos Ministros da Defesa Nacional e das Finanças, que, para efeitos do disposto no n.º 3 do artigo 7.º do Decreto-Lei n.º 32/99, de 5 de Fevereiro, poderá dispensar a avaliação do imóvel.\n\n2 - Na cessão a título definitivo podem ser fixadas limitações a futuras alienações do imóvel pelo cessionário.\n\n3 - A cessão a título definitivo é feita sob condição resolutiva a favor do Estado, a qual será invocada sempre que se verifique o incumprimento de qualquer das condições expressamente fixadas para a cessão.\n\n4 - A concretização da cessão faz-se mediante auto de cessão a título definitivo a outorgar pela Direcção-Geral de Infra-Estruturas e pela entidade cessionária.\n\n5 - A minuta do auto de cessão deverá ser previamente remetida à Direcção-Geral do Património, do Ministério das Finanças, no prazo de 10 dias úteis."
+  },
+  "124347069": {
+   "fragment_id": "124413575",
+   "type": 8,
+   "heading": "Secção III — Alienação por negócio jurídico oneroso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Alienação por negócio jurídico oneroso\n\nArtigo 9.º\n\nModalidades de procedimentos\n\nOs imóveis afectos ao Ministério da Defesa Nacional podem ser objecto de alienação por negócio jurídico oneroso, nas modalidades de concurso público e negociação directa.\n\nArtigo 10.º\n\nTipos de procedimento em função do valor da avaliação oficial\n\n1 - São alienados por concurso público, sem prejuízo do disposto no n.º 2 deste artigo, os imóveis cujo valor de avaliação oficial seja superior a quatro vezes o montante que determina a isenção de fiscalização prévia do Tribunal de Contas nas aquisições patrimoniais que impliquem despesa ou, por decisão do Ministro da Defesa Nacional, quando inferior àquele valor.\n\n2 - Podem ser alienados por negociação directa os imóveis cuja avaliação oficial seja inferior ao valor referido na alínea anterior.\n\nArtigo 11.º\n\nEscolha do procedimento independentemente do valor da avaliação\n\nIndependentemente do valor da avaliação, os imóveis podem ser alienados por negociação directa:\n\na) Caso não tenha sido possível a alienação por concurso público por este ter ficado deserto;\n\nb) Quando se verifique reconhecida urgência na alienação, designadamente por ameaça de ruína ou de insalubridade pública, de que possa resultar perigo iminente para pessoas e bens;\n\nc) Tratando-se de imóvel com significativo valor arquitectónico, cultural ou com especial aptidão funcional;\n\nd) Quando o imóvel a alienar se destine à realização de fins de interesse público, à instalação de missões diplomáticas estrangeiras ou de alguns dos seus serviços ou seja necessário ao alinhamento de estremas;\n\ne) Quando o prédio seja objecto de contrato de arrendamento ou de ocupação não titulada que perdure por mais de 10 anos;\n\nf) No caso de haver interessados com direito de preferência;\n\ng) Quando haja direito legal ou convencional de reversão."
+  },
+  "124347070": {
+   "fragment_id": "124413576",
+   "type": 3,
+   "heading": "Subsecção I — Concurso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Concurso público"
+  },
+  "124347071": {
+   "fragment_id": "124413577",
+   "type": 11,
+   "heading": "Artigo 12.º — Concorrentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Concorrentes\n\nÉ concorrente a entidade que apresenta, nos termos definidos neste diploma, proposta ou candidatura de aquisição de imóvel integrado no domínio privado do Estado afecto ao Ministério da Defesa Nacional."
+  },
+  "124347072": {
+   "fragment_id": "124413578",
+   "type": 11,
+   "heading": "Artigo 13.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Impedimentos\n\nSão excluídos dos procedimentos de alienação os concorrentes relativamente aos quais se verifique:\n\na) Não se encontrem em situação regularizada relativamente a dívidas por impostos ao Estado Português;\n\nb) Não se encontrem em situação regularizada relativamente a dívidas por contribuições para a segurança social em Portugal ou no Estado de que sejam nacionais ou onde se encontrem estabelecidos;\n\nc) Se encontrem em estado de falência, de liquidação ou de cessação de actividade, ou tenham o respectivo processo pendente;\n\nd) Tenham sido objecto de aplicação de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social não declarada nos termos das normas que imponham essa obrigação, em Portugal ou no Estado membro da União Europeia de que sejam nacionais ou onde se encontrem estabelecidos, durante o prazo de prescrição da sanção legalmente previsto.\n\n2 - Para comprovação negativa das situações referidas no número anterior, os concorrentes devem apresentar declaração de inexistência de impedimentos."
+  },
+  "124347073": {
+   "fragment_id": "124413579",
+   "type": 11,
+   "heading": "Artigo 14.º — Prova de declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prova de declarações\n\n1 - A qualquer momento poderá ser exigida a apresentação de documentos comprovativos das declarações prestadas pelos concorrentes.\n\n2 - Aquando da notificação da adjudicação, deve ser exigida a entrega de documentos comprovativos de que não se encontra em nenhuma das situações de impedimento.\n\n3 - Para efeitos do disposto nos números anteriores, deve ser fixado um prazo não inferior a 10 dias para os concorrentes, ou o adjudicatário, apresentarem os documentos exigidos.\n\n4 - Para comprovação negativa dos impedimentos devem ser apresentadas certidões emitidas pelas autoridades legalmente competentes para o efeito.\n\n5 - A não apresentação pelo concorrente ou adjudicatário dos documentos solicitados ao abrigo do disposto no presente artigo, por motivo que lhe seja imputável, determina a exclusão do procedimento ou a anulação da adjudicação."
+  },
+  "124347074": {
+   "fragment_id": "124413580",
+   "type": 11,
+   "heading": "Artigo 15.º — Fases do concurso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fases do concurso público\n\nO concurso público compreende as seguintes fases:\n\na) Abertura de concurso mediante anúncio público;\n\nb) Entrega das propostas;\n\nc) Admissão, avaliação e ordenação das propostas;\n\nd) Elaboração do relatório e audiência prévia;\n\ne) Adjudicação."
+  },
+  "124413675": {
+   "fragment_id": "124413581",
+   "type": 11,
+   "heading": "Artigo 16.º — Abertura do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Abertura do concurso\n\n1 - O procedimento do concurso inicia-se com a publicação de anúncio no Diário da República e, pelo menos, num jornal de circulação nacional.\n\n2 - O anúncio a publicar no Diário da República deve conter:\n\na) Designação, endereço, número de telefone e telefax da entidade promotora do concurso;\n\nb) Designação do júri nomeado para o efeito;\n\nc) A identificação do imóvel, com indicação da localização, área e confrontações;\n\nd) Ónus de natureza real que, eventualmente, recaiam sobre o prédio;\n\ne) O valor mínimo de base para as propostas e, se os houver, outros requisitos destas;\n\nf) Prazo para apresentação de propostas e forma de contagem do prazo;\n\ng) Local da entrega das propostas e horário de funcionamento dos serviços de recepção;\n\nh) Critérios de admissibilidade de concorrentes e das propostas;\n\ni) O critério de adjudicação, explicitando-se os factores, designadamente o preço, que nela intervirão por ordem decrescente de importância;\n\nj) Prazo durante o qual os concorrentes são obrigados a manter as propostas apresentadas;\n\nl) Informação sobre o local, data e hora de abertura de propostas.\n\n3 - Podem ainda constar do aviso outros elementos de informação considerados relevantes."
+  },
+  "124413676": {
+   "fragment_id": "124413582",
+   "type": 11,
+   "heading": "Artigo 17.º — Propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Propostas\n\n1 - Na proposta os concorrentes devem indicar:\n\na) O preço global de aquisição, igual ou superior ao valor de base constante do anúncio;\n\nb) A forma e condições de pagamento;\n\nc) Todos os elementos úteis susceptíveis de influenciar a selecção das propostas, nomeadamente projectos e programas de acção previstos para o imóvel a alienar, tendo em vista um aproveitamento integral dos recursos patrimoniais do Estado ao nível da sua adequação funcional e rentabilidade económica e social;\n\nd) O prazo de validade da proposta apresentada, se superior ao indicado no n.º 4 deste artigo.\n\n2 - Podem ainda os proponentes apresentar informação complementar, comprovada documentalmente, que entendam ser relevante para apreciação do mérito do proponente e ou da proposta.\n\n3 - Para apresentação da proposta deve ser fixado um prazo razoável, não inferior a 20 dias contados da data da publicação do anúncio no Diário da República.\n\n4 - Os concorrentes ficam obrigados a manter as suas propostas, pelo menos, pelo prazo de 90 dias contados da data limite da sua entrega, se outro maior não for indicado no anúncio de abertura."
+  },
+  "124413677": {
+   "fragment_id": "124413583",
+   "type": 11,
+   "heading": "Artigo 18.º — Admissão, avaliação e selecção das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Admissão, avaliação e selecção das propostas\n\n1 - Terminado o prazo de apresentação de propostas, o júri do concurso procederá à sua abertura em sessão a que poderão assistir os proponentes ou seus representantes, a fim de proceder à sua admissibilidade ou não admissibilidade, de acordo com os critérios a que se refere a alínea h) do n.º 2 do artigo 16.º\n\n2 - Após admissão das propostas, a entidade promotora do concurso procederá à sua avaliação e ordenação, de acordo com os critérios e factores de adjudicação indicados na alínea i) do n.º 2 do artigo 16.º\n\n3 - Se, como resultado da aplicação dos critérios e factores mencionados no número anterior, se verificar igualdade na primeira posição do ordenamento dos candidatos, proceder-se-á ao subordenamento dos proponentes, ponderando-se, para o efeito, as respectivas propostas, de acordo com a informação complementar a que se refere o n.º 3 do artigo 16.º\n\n4 - Se, apesar do procedimento indicado no número anterior, a posição de igualdade se mantiver, abrir-se-á licitação entre os proponentes equiposicionados, em local, data e hora que lhes serão comunicados, por carta registada, pela entidade proponente."
+  },
+  "124413678": {
+   "fragment_id": "124413584",
+   "type": 11,
+   "heading": "Artigo 19.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Relatório\n\n1 - Concluídos os procedimentos mencionados relativos ao concurso, o júri elabora o relatório com lista ordenada dos concorrentes e a entidade promotora propõe, a final, a adjudicação de imóvel ou imóveis de acordo com a ordenação.\n\n2 - O relatório com proposta é apresentado ao Ministro da Defesa Nacional para efeitos de adjudicação provisória."
+  },
+  "124413679": {
+   "fragment_id": "124413585",
+   "type": 11,
+   "heading": "Artigo 20.º — Audiência prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Audiência prévia\n\n1 - O Ministro da Defesa Nacional, através da Direcção-Geral de Infra-Estruturas, deve, antes de proferir a decisão, proceder à audiência prévia dos concorrentes.\n\n2 - Os concorrentes têm 10 dias após a notificação do projecto de decisão para se pronunciarem por escrito.\n\n3 - Na audiência prévia, para além do disposto no presente diploma, aplicam-se as disposições do Código do Procedimento Administrativo."
+  },
+  "124413680": {
+   "fragment_id": "124413586",
+   "type": 11,
+   "heading": "Artigo 21.º — Adjudicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Adjudicação\n\n1 - Concluída a audiência prévia, o Ministro da Defesa Nacional procede à adjudicação provisória e propõe ao Conselho de Ministros a sua ratificação, nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 32/99, de 5 de Fevereiro.\n\n2 - A adjudicação, tornada definitiva pela ratificação, será notificada ao adjudicatário e aos restantes concorrentes constantes da lista de ordenação.\n\n3 - O auto de adjudicação é celebrado entre a Direcção-Geral de Infra-Estruturas e a entidade adjudicatária no seguimento de notificação para o efeito feita por aquela Direcção-Geral.\n\n4 - A falta ao auto de adjudicação, não justificada até à data deste, por parte da entidade adjudicatária implica a exigibilidade do pagamento do montante correspondente a 10% do valor da proposta que apresentou e determina a deserção do concurso."
+  },
+  "124413681": {
+   "fragment_id": "124413587",
+   "type": 11,
+   "heading": "Artigo 22.º — Anulação da adjudicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Anulação da adjudicação\n\n1 - Para além das causas genéricas de anulação dos actos administrativos, a adjudicação considera-se sem efeito quando, por facto que lhe seja imputável, o adjudicatário:\n\na) Não entregue atempadamente a documentação que lhe seja exigida nos termos do artigo 14.º;\n\nb) Não preste a caução que eventualmente lhe for exigida.\n\n2 - Nos casos previstos no número anterior, a entidade alienante pode decidir pela adjudicação ao concorrente classificado em 2.º lugar."
+  },
+  "124413682": {
+   "fragment_id": "124413588",
+   "type": 11,
+   "heading": "Artigo 23.º — Causas de revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Causas de revogação\n\nPara além das situações previstas no regime geral, a adjudicação poderá ainda ser revogada sempre que se revelar inaceitável por motivos de conhecimento superveniente."
+  },
+  "124413683": {
+   "fragment_id": "124413589",
+   "type": 11,
+   "heading": "Artigo 24.º — Caução, valor e objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Caução, valor e objectivo\n\nPara garantir o exacto e pontual cumprimento das obrigações relacionadas com a alienação, pode ser exigida ao adjudicatário, pela entidade promotora, a prestação de caução no valor máximo de 10% relativo ao valor global da adjudicação."
+  },
+  "124413684": {
+   "fragment_id": "124413590",
+   "type": 11,
+   "heading": "Artigo 25.º — Modos e condições de prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Modos e condições de prestação\n\n1 - A caução pode ser prestada por depósito em dinheiro ou em títulos emitidos ou garantidos pelo Estado, ou mediante garantia bancária ou seguro-caução, conforme escolha do adjudicatário.\n\n2 - Todas as despesas derivadas da prestação da caução são da responsabilidade do adjudicatário."
+  },
+  "124413685": {
+   "fragment_id": "124413591",
+   "type": 11,
+   "heading": "Artigo 26.º — Liberação da caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Liberação da caução\n\nNo prazo de 30 dias contados do cumprimento de todas as obrigações contratuais por parte do adjudicatário, promover-se-á a liberação da caução prestada."
+  },
+  "124413686": {
+   "fragment_id": "124413592",
+   "type": 3,
+   "heading": "Subsecção II — Modalidade de negociação directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Modalidade de negociação directa"
+  },
+  "124413687": {
+   "fragment_id": "124413593",
+   "type": 11,
+   "heading": "Artigo 27.º — Negociação directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Negociação directa\n\n1 - A escolha prévia da alienação de imóveis do domínio privado do Estado afectos à defesa nacional por negociação directa, nos casos admissíveis, é determinada por despacho conjunto dos Ministros da Defesa Nacional e das Finanças.\n\n2 - Os procedimentos negociais têm como princípio o da melhor realização do interesse público e estão a cargo da Direcção-Geral de Infra-Estruturas, que define, em cada caso, os mais adequados à realização desse interesse.\n\n3 - A negociação directa terá como referência o valor resultante da avaliação oficial homologada.\n\n4 - Na negociação directa podem ser fixadas limitações a futuras alienações do imóvel ou conjunto de imóveis pelo adquirente."
+  },
+  "124413688": {
+   "fragment_id": "124413594",
+   "type": 11,
+   "heading": "Artigo 28.º — Adjudicação por negociação directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Adjudicação por negociação directa\n\n1 - Concluídos os procedimentos negociais, a proposta de adjudicação provisória, fundamentada, é apresentada pela Direcção-Geral de Infra-Estruturas ao Ministro da Defesa, que sobre ela decide.\n\n2 - A adjudicação provisória deve ser submetida a ratificação do Conselho de Ministros, nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 32/99, de 5 de Fevereiro.\n\n3 - A adjudicação, tornada definitiva pela ratificação, será notificada ao adjudicatário.\n\n4 - O auto de adjudicação é celebrado entre a Direcção-Geral de Infra-Estruturas e a entidade adjudicatária, no seguimento de notificação para o efeito feita por aquela Direcção-Geral."
+  },
+  "124413689": {
+   "fragment_id": "124413595",
+   "type": 8,
+   "heading": "Secção III — Anulação dos procedimentos de alienação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Anulação dos procedimentos de alienação"
+  },
+  "124413690": {
+   "fragment_id": "124413596",
+   "type": 11,
+   "heading": "Artigo 29.º — Causas de anulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Causas de anulação\n\nA entidade competente para a alienação pode anular o procedimento quando:\n\na) Por circunstância imprevisível, seja necessário alterar os elementos que servem de base ao procedimento;\n\nb) Outras razões supervenientes e de manifesto interesse público o justifiquem."
+  },
+  "124413691": {
+   "fragment_id": "124413597",
+   "type": 1,
+   "heading": "Capítulo III — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Sanções"
+  },
+  "124413692": {
+   "fragment_id": "124413598",
+   "type": 11,
+   "heading": "Artigo 30.º — Sanções por incumprimento dos preceitos aplicáveis aos procedimentos de alienação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Sanções por incumprimento dos preceitos aplicáveis aos procedimentos de alienação\n\nSe o concorrente, adjudicatário ou cessionário, não cumprir as suas obrigações, poderão ser aplicadas, isolada ou cumulativamente, as seguintes sanções:\n\na) Considerar revertida a seu favor a caução prestada;\n\nb) Considerar revertidas a seu favor as prestações entretanto efectuadas no cumprimento da relação contratual;\n\nc) Privá-lo, por prazo não inferior a dois anos, do direito de participar em procedimentos que tenham por objecto a alienação de imóveis integrados no domínio privado do Estado afectos ao Ministério da Defesa Nacional."
+  },
+  "124413693": {
+   "fragment_id": "124413599",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "124413694": {
+   "fragment_id": "124413600",
+   "type": 11,
+   "heading": "Artigo 31.º — Servidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Servidões\n\nNos termos do § 2.º do artigo 7.º da Lei n.º 2078, de 11 de Julho de 1955, a cessação da dominialidade pública militar sobre os imóveis referidos no artigo 4.º do Decreto-Lei n.º 32/99, de 5 de Fevereiro, com a nova redacção que lhe foi introduzida pela Lei n.º 131/99, de 28 de Agosto, faz caducar as respectivas condicionantes de servidão militar."
+  },
+  "124413695": {
+   "fragment_id": "124413601",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "124347054": {
+   "fragment_id": "124346960",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 196/2001\n\nde 29 de Junho\n\nO Decreto-Lei n.º 32/99, de 5 de Fevereiro, com a nova redacção que lhe foi dada pela Lei n.º 131/99, de 28 de Agosto, estabelece o regime da alienação dos imóveis excedentários ou desadequados pertencentes ao domínio privado do Estado afectos ao Ministério da Defesa Nacional, bem como o regime de afectação ou reafectação dos mesmos imóveis a um órgão ou serviço do Estado.\n\nO referido diploma, no n.º 1 do artigo 6.º, remete para decreto-lei a regulação dos critérios gerais de alienação e respectivo processo, o que se faz pelo presente diploma.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei n.º 32/99, de 5 de Fevereiro, com a redacção que lhe foi introduzida pela Lei n.º 131/99, de 28 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "124413381": {
+   "fragment_id": "124346974",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento de cessão a título definitivo",
+   "in_force_from": "2019-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Lei Orgânica n.º 3/2019 - Diário da República n.º 168/2019, Série I de 2019-09-03](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2019-124392054), em vigor a partir de 2019-09-04"
+   ],
+   "markdown": "###### Artigo 8.º — Procedimento de cessão a título definitivo\n\n1 - (Revogado).\n\n2 - Na cessão a título definitivo podem ser fixadas limitações a futuras alienações do imóvel pelo cessionário.\n\n3 - A cessão a título definitivo é feita sob condição resolutiva a favor do Estado, a qual será invocada sempre que se verifique o incumprimento de qualquer das condições expressamente fixadas para a cessão.\n\n4 - A concretização da cessão faz-se mediante auto de cessão a título definitivo a outorgar pela Direcção-Geral de Infra-Estruturas e pela entidade cessionária.\n\n5 - A minuta do auto de cessão deverá ser previamente remetida à Direcção-Geral do Património, do Ministério das Finanças, no prazo de 10 dias úteis.\n\n> Alterado pelo/a Artigo 28.º do/a [Lei Orgânica n.º 3/2019 - Diário da República n.º 168/2019, Série I de 2019-09-03](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2019-124392054), em vigor a partir de 2019-09-04"
+  },
+  "124413696": {
+   "fragment_id": "124413602",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Maio de 2001. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Joaquim Augusto Nunes Pina Moura.\n\nPromulgado em 12 de Junho de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Junho de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "220228899": {
+   "fragment_id": "124346961",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais comuns",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais comuns\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228900": {
+   "fragment_id": "124346962",
+   "type": 8,
+   "heading": "Secção I — Âmbito, objecto e prazos",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "#### Secção I — Âmbito, objecto e prazos\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228901": {
+   "fragment_id": "124346963",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nSão aprovados os critérios gerais e o procedimento de alienação dos imóveis integrados no domínio privado do Estado afectos ao Ministério da Defesa Nacional.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228902": {
+   "fragment_id": "124346964",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\nO presente diploma tem por objecto, no âmbito previsto no artigo anterior, a definição dos requisitos, prévios à alienação, relativos aos imóveis a alienar, os factores de escolha das modalidades de alienação e os procedimentos pertinentes a cada modalidade de alienação.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228903": {
+   "fragment_id": "124346965",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazos",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 3.º — Prazos\n\n1 - Os prazos fixados no presente diploma para apresentação das propostas não se suspendem nos sábados, domingos e feriados.\n\n2 - Os restantes prazos contam-se nos termos do artigo 72.º do Código do Procedimento Administrativo.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228904": {
+   "fragment_id": "124346966",
+   "type": 8,
+   "heading": "Secção II — Princípios",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "#### Secção II — Princípios\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228905": {
+   "fragment_id": "124346967",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios aplicáveis",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 4.º — Princípios aplicáveis\n\nNos procedimentos abrangidos por este diploma serão observados os princípios do rigor, da transparência, da imparcialidade e da simplicidade.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228906": {
+   "fragment_id": "124346968",
+   "type": 1,
+   "heading": "Capítulo II — Alienação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "### Capítulo II — Alienação\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228907": {
+   "fragment_id": "124346969",
+   "type": 8,
+   "heading": "Secção I — Requisitos, modalidades e títulos de alienação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "#### Secção I — Requisitos, modalidades e títulos de alienação\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228908": {
+   "fragment_id": "124346970",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos prévios à alienação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos prévios à alienação\n\n1 - Os imóveis do domínio privado do Estado afectos ao Ministério da Defesa Nacional devem, antes da efectivação da alienação por negócio jurídico oneroso, conforme previsto no n.º 2 do artigo 6.º do Decreto-Lei n.º 32/99, de 5 de Fevereiro, reunir os seguintes requisitos:\n\na) Estarem devidamente identificados, dispondo, pelo menos, de informação bastante que possibilite efectuar o correspondente registo a favor do adquirente;\n\nb) Terem sido objecto de avaliação oficial.\n\n2 - A avaliação a que se refere a alínea b) do número anterior é solicitada pela Direcção-Geral de Infra-Estruturas, do Ministério da Defesa Nacional, à Direcção-Geral do Património, do Ministério das Finanças, devendo o valor da avaliação ser homologado pelo respectivo director-geral.\n\n3 - Para efeitos do disposto no n.º 3 do artigo 7.º do Decreto-Lei n.º 32/99, de 5 de Fevereiro, os imóveis objecto de cessão a título definitivo a pessoas colectivas de direito público ou a entidades particulares de interesse público podem ser dispensados de avaliação, nos termos do disposto no n.º 1 do artigo 8.º do presente diploma.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228909": {
+   "fragment_id": "124346971",
+   "type": 11,
+   "heading": "Artigo 6.º — Modalidades de alienação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 6.º — Modalidades de alienação\n\n1 - A alienação de imóveis integrados no domínio privado do Estado afectos ao Ministério da Defesa Nacional poderá efectuar-se mediante:\n\na) Cessão a título definitivo a pessoas colectivas de direito público e a entidades particulares de interesse público;\n\nb) Negócio jurídico, precedido de concurso público ou negociação directa.\n\n2 - Para efeitos da alínea a) do número anterior, entidades de interesse público são pessoas colectivas privadas que prosseguem fins de interesse público, designadamente as sociedades de interesse colectivo e as pessoas colectivas de utilidade pública.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228910": {
+   "fragment_id": "124346972",
+   "type": 11,
+   "heading": "Artigo 7.º — Títulos de alienação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 7.º — Títulos de alienação\n\nConstituem título comprovativo da transferência do direito de propriedade ou da constituição ou transferência de direitos reais menores sobre os imóveis integrados no domínio privado do Estado afectos ao Ministério da Defesa Nacional os seguintes documentos:\n\na) O auto de cessão a título definitivo, no caso de cessão a título definitivo;\n\nb) O despacho e correspondente auto de adjudicação, sequente à realização de concurso público;\n\nc) O despacho que decide a alienação a favor de pessoa jurídica determinada e o correspondente auto de entrega do imóvel, no caso de negociação directa.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228911": {
+   "fragment_id": "124346973",
+   "type": 8,
+   "heading": "Secção II — Cessão a título definitivo",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "#### Secção II — Cessão a título definitivo\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228912": {
+   "fragment_id": "124346974",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento de cessão a título definitivo",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19",
+    "Alterado pelo/a Artigo 28.º do/a [Lei Orgânica n.º 3/2019 - Diário da República n.º 168/2019, Série I de 2019-09-03](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2019-124392054), em vigor a partir de 2019-09-04"
+   ],
+   "markdown": "###### Artigo 8.º — Procedimento de cessão a título definitivo\n\n1 - (Revogado).\n\n2 - Na cessão a título definitivo podem ser fixadas limitações a futuras alienações do imóvel pelo cessionário.\n\n3 - A cessão a título definitivo é feita sob condição resolutiva a favor do Estado, a qual será invocada sempre que se verifique o incumprimento de qualquer das condições expressamente fixadas para a cessão.\n\n4 - A concretização da cessão faz-se mediante auto de cessão a título definitivo a outorgar pela Direcção-Geral de Infra-Estruturas e pela entidade cessionária.\n\n5 - A minuta do auto de cessão deverá ser previamente remetida à Direcção-Geral do Património, do Ministério das Finanças, no prazo de 10 dias úteis.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19\n\n> Alterado pelo/a Artigo 28.º do/a [Lei Orgânica n.º 3/2019 - Diário da República n.º 168/2019, Série I de 2019-09-03](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2019-124392054), em vigor a partir de 2019-09-04"
+  },
+  "220228913": {
+   "fragment_id": "124413575",
+   "type": 8,
+   "heading": "Secção III — Alienação por negócio jurídico oneroso",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "#### Secção III — Alienação por negócio jurídico oneroso\n\nArtigo 9.º\n\nModalidades de procedimentos\n\nOs imóveis afectos ao Ministério da Defesa Nacional podem ser objecto de alienação por negócio jurídico oneroso, nas modalidades de concurso público e negociação directa.\n\nArtigo 10.º\n\nTipos de procedimento em função do valor da avaliação oficial\n\n1 - São alienados por concurso público, sem prejuízo do disposto no n.º 2 deste artigo, os imóveis cujo valor de avaliação oficial seja superior a quatro vezes o montante que determina a isenção de fiscalização prévia do Tribunal de Contas nas aquisições patrimoniais que impliquem despesa ou, por decisão do Ministro da Defesa Nacional, quando inferior àquele valor.\n\n2 - Podem ser alienados por negociação directa os imóveis cuja avaliação oficial seja inferior ao valor referido na alínea anterior.\n\nArtigo 11.º\n\nEscolha do procedimento independentemente do valor da avaliação\n\nIndependentemente do valor da avaliação, os imóveis podem ser alienados por negociação directa:\n\na) Caso não tenha sido possível a alienação por concurso público por este ter ficado deserto;\n\nb) Quando se verifique reconhecida urgência na alienação, designadamente por ameaça de ruína ou de insalubridade pública, de que possa resultar perigo iminente para pessoas e bens;\n\nc) Tratando-se de imóvel com significativo valor arquitectónico, cultural ou com especial aptidão funcional;\n\nd) Quando o imóvel a alienar se destine à realização de fins de interesse público, à instalação de missões diplomáticas estrangeiras ou de alguns dos seus serviços ou seja necessário ao alinhamento de estremas;\n\ne) Quando o prédio seja objecto de contrato de arrendamento ou de ocupação não titulada que perdure por mais de 10 anos;\n\nf) No caso de haver interessados com direito de preferência;\n\ng) Quando haja direito legal ou convencional de reversão.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228914": {
+   "fragment_id": "124413576",
+   "type": 3,
+   "heading": "Subsecção I — Concurso público",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "##### Subsecção I — Concurso público\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228915": {
+   "fragment_id": "124413577",
+   "type": 11,
+   "heading": "Artigo 12.º — Concorrentes",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 12.º — Concorrentes\n\nÉ concorrente a entidade que apresenta, nos termos definidos neste diploma, proposta ou candidatura de aquisição de imóvel integrado no domínio privado do Estado afecto ao Ministério da Defesa Nacional.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228916": {
+   "fragment_id": "124413578",
+   "type": 11,
+   "heading": "Artigo 13.º — Impedimentos",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 13.º — Impedimentos\n\nSão excluídos dos procedimentos de alienação os concorrentes relativamente aos quais se verifique:\n\na) Não se encontrem em situação regularizada relativamente a dívidas por impostos ao Estado Português;\n\nb) Não se encontrem em situação regularizada relativamente a dívidas por contribuições para a segurança social em Portugal ou no Estado de que sejam nacionais ou onde se encontrem estabelecidos;\n\nc) Se encontrem em estado de falência, de liquidação ou de cessação de actividade, ou tenham o respectivo processo pendente;\n\nd) Tenham sido objecto de aplicação de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social não declarada nos termos das normas que imponham essa obrigação, em Portugal ou no Estado membro da União Europeia de que sejam nacionais ou onde se encontrem estabelecidos, durante o prazo de prescrição da sanção legalmente previsto.\n\n2 - Para comprovação negativa das situações referidas no número anterior, os concorrentes devem apresentar declaração de inexistência de impedimentos.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228917": {
+   "fragment_id": "124413579",
+   "type": 11,
+   "heading": "Artigo 14.º — Prova de declarações",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 14.º — Prova de declarações\n\n1 - A qualquer momento poderá ser exigida a apresentação de documentos comprovativos das declarações prestadas pelos concorrentes.\n\n2 - Aquando da notificação da adjudicação, deve ser exigida a entrega de documentos comprovativos de que não se encontra em nenhuma das situações de impedimento.\n\n3 - Para efeitos do disposto nos números anteriores, deve ser fixado um prazo não inferior a 10 dias para os concorrentes, ou o adjudicatário, apresentarem os documentos exigidos.\n\n4 - Para comprovação negativa dos impedimentos devem ser apresentadas certidões emitidas pelas autoridades legalmente competentes para o efeito.\n\n5 - A não apresentação pelo concorrente ou adjudicatário dos documentos solicitados ao abrigo do disposto no presente artigo, por motivo que lhe seja imputável, determina a exclusão do procedimento ou a anulação da adjudicação.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228918": {
+   "fragment_id": "124413580",
+   "type": 11,
+   "heading": "Artigo 15.º — Fases do concurso público",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 15.º — Fases do concurso público\n\nO concurso público compreende as seguintes fases:\n\na) Abertura de concurso mediante anúncio público;\n\nb) Entrega das propostas;\n\nc) Admissão, avaliação e ordenação das propostas;\n\nd) Elaboração do relatório e audiência prévia;\n\ne) Adjudicação.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228919": {
+   "fragment_id": "124413581",
+   "type": 11,
+   "heading": "Artigo 16.º — Abertura do concurso",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 16.º — Abertura do concurso\n\n1 - O procedimento do concurso inicia-se com a publicação de anúncio no Diário da República e, pelo menos, num jornal de circulação nacional.\n\n2 - O anúncio a publicar no Diário da República deve conter:\n\na) Designação, endereço, número de telefone e telefax da entidade promotora do concurso;\n\nb) Designação do júri nomeado para o efeito;\n\nc) A identificação do imóvel, com indicação da localização, área e confrontações;\n\nd) Ónus de natureza real que, eventualmente, recaiam sobre o prédio;\n\ne) O valor mínimo de base para as propostas e, se os houver, outros requisitos destas;\n\nf) Prazo para apresentação de propostas e forma de contagem do prazo;\n\ng) Local da entrega das propostas e horário de funcionamento dos serviços de recepção;\n\nh) Critérios de admissibilidade de concorrentes e das propostas;\n\ni) O critério de adjudicação, explicitando-se os factores, designadamente o preço, que nela intervirão por ordem decrescente de importância;\n\nj) Prazo durante o qual os concorrentes são obrigados a manter as propostas apresentadas;\n\nl) Informação sobre o local, data e hora de abertura de propostas.\n\n3 - Podem ainda constar do aviso outros elementos de informação considerados relevantes.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228920": {
+   "fragment_id": "124413582",
+   "type": 11,
+   "heading": "Artigo 17.º — Propostas",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 17.º — Propostas\n\n1 - Na proposta os concorrentes devem indicar:\n\na) O preço global de aquisição, igual ou superior ao valor de base constante do anúncio;\n\nb) A forma e condições de pagamento;\n\nc) Todos os elementos úteis susceptíveis de influenciar a selecção das propostas, nomeadamente projectos e programas de acção previstos para o imóvel a alienar, tendo em vista um aproveitamento integral dos recursos patrimoniais do Estado ao nível da sua adequação funcional e rentabilidade económica e social;\n\nd) O prazo de validade da proposta apresentada, se superior ao indicado no n.º 4 deste artigo.\n\n2 - Podem ainda os proponentes apresentar informação complementar, comprovada documentalmente, que entendam ser relevante para apreciação do mérito do proponente e ou da proposta.\n\n3 - Para apresentação da proposta deve ser fixado um prazo razoável, não inferior a 20 dias contados da data da publicação do anúncio no Diário da República.\n\n4 - Os concorrentes ficam obrigados a manter as suas propostas, pelo menos, pelo prazo de 90 dias contados da data limite da sua entrega, se outro maior não for indicado no anúncio de abertura.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228921": {
+   "fragment_id": "124413583",
+   "type": 11,
+   "heading": "Artigo 18.º — Admissão, avaliação e selecção das propostas",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 18.º — Admissão, avaliação e selecção das propostas\n\n1 - Terminado o prazo de apresentação de propostas, o júri do concurso procederá à sua abertura em sessão a que poderão assistir os proponentes ou seus representantes, a fim de proceder à sua admissibilidade ou não admissibilidade, de acordo com os critérios a que se refere a alínea h) do n.º 2 do artigo 16.º\n\n2 - Após admissão das propostas, a entidade promotora do concurso procederá à sua avaliação e ordenação, de acordo com os critérios e factores de adjudicação indicados na alínea i) do n.º 2 do artigo 16.º\n\n3 - Se, como resultado da aplicação dos critérios e factores mencionados no número anterior, se verificar igualdade na primeira posição do ordenamento dos candidatos, proceder-se-á ao subordenamento dos proponentes, ponderando-se, para o efeito, as respectivas propostas, de acordo com a informação complementar a que se refere o n.º 3 do artigo 16.º\n\n4 - Se, apesar do procedimento indicado no número anterior, a posição de igualdade se mantiver, abrir-se-á licitação entre os proponentes equiposicionados, em local, data e hora que lhes serão comunicados, por carta registada, pela entidade proponente.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228922": {
+   "fragment_id": "124413584",
+   "type": 11,
+   "heading": "Artigo 19.º — Relatório",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 19.º — Relatório\n\n1 - Concluídos os procedimentos mencionados relativos ao concurso, o júri elabora o relatório com lista ordenada dos concorrentes e a entidade promotora propõe, a final, a adjudicação de imóvel ou imóveis de acordo com a ordenação.\n\n2 - O relatório com proposta é apresentado ao Ministro da Defesa Nacional para efeitos de adjudicação provisória.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228923": {
+   "fragment_id": "124413585",
+   "type": 11,
+   "heading": "Artigo 20.º — Audiência prévia",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 20.º — Audiência prévia\n\n1 - O Ministro da Defesa Nacional, através da Direcção-Geral de Infra-Estruturas, deve, antes de proferir a decisão, proceder à audiência prévia dos concorrentes.\n\n2 - Os concorrentes têm 10 dias após a notificação do projecto de decisão para se pronunciarem por escrito.\n\n3 - Na audiência prévia, para além do disposto no presente diploma, aplicam-se as disposições do Código do Procedimento Administrativo.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228924": {
+   "fragment_id": "124413586",
+   "type": 11,
+   "heading": "Artigo 21.º — Adjudicação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 21.º — Adjudicação\n\n1 - Concluída a audiência prévia, o Ministro da Defesa Nacional procede à adjudicação provisória e propõe ao Conselho de Ministros a sua ratificação, nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 32/99, de 5 de Fevereiro.\n\n2 - A adjudicação, tornada definitiva pela ratificação, será notificada ao adjudicatário e aos restantes concorrentes constantes da lista de ordenação.\n\n3 - O auto de adjudicação é celebrado entre a Direcção-Geral de Infra-Estruturas e a entidade adjudicatária no seguimento de notificação para o efeito feita por aquela Direcção-Geral.\n\n4 - A falta ao auto de adjudicação, não justificada até à data deste, por parte da entidade adjudicatária implica a exigibilidade do pagamento do montante correspondente a 10% do valor da proposta que apresentou e determina a deserção do concurso.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228925": {
+   "fragment_id": "124413587",
+   "type": 11,
+   "heading": "Artigo 22.º — Anulação da adjudicação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 22.º — Anulação da adjudicação\n\n1 - Para além das causas genéricas de anulação dos actos administrativos, a adjudicação considera-se sem efeito quando, por facto que lhe seja imputável, o adjudicatário:\n\na) Não entregue atempadamente a documentação que lhe seja exigida nos termos do artigo 14.º;\n\nb) Não preste a caução que eventualmente lhe for exigida.\n\n2 - Nos casos previstos no número anterior, a entidade alienante pode decidir pela adjudicação ao concorrente classificado em 2.º lugar.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228926": {
+   "fragment_id": "124413588",
+   "type": 11,
+   "heading": "Artigo 23.º — Causas de revogação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 23.º — Causas de revogação\n\nPara além das situações previstas no regime geral, a adjudicação poderá ainda ser revogada sempre que se revelar inaceitável por motivos de conhecimento superveniente.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228927": {
+   "fragment_id": "124413589",
+   "type": 11,
+   "heading": "Artigo 24.º — Caução, valor e objectivo",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 24.º — Caução, valor e objectivo\n\nPara garantir o exacto e pontual cumprimento das obrigações relacionadas com a alienação, pode ser exigida ao adjudicatário, pela entidade promotora, a prestação de caução no valor máximo de 10% relativo ao valor global da adjudicação.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228928": {
+   "fragment_id": "124413590",
+   "type": 11,
+   "heading": "Artigo 25.º — Modos e condições de prestação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 25.º — Modos e condições de prestação\n\n1 - A caução pode ser prestada por depósito em dinheiro ou em títulos emitidos ou garantidos pelo Estado, ou mediante garantia bancária ou seguro-caução, conforme escolha do adjudicatário.\n\n2 - Todas as despesas derivadas da prestação da caução são da responsabilidade do adjudicatário.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228929": {
+   "fragment_id": "124413591",
+   "type": 11,
+   "heading": "Artigo 26.º — Liberação da caução",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 26.º — Liberação da caução\n\nNo prazo de 30 dias contados do cumprimento de todas as obrigações contratuais por parte do adjudicatário, promover-se-á a liberação da caução prestada.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228930": {
+   "fragment_id": "124413592",
+   "type": 3,
+   "heading": "Subsecção II — Modalidade de negociação directa",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "##### Subsecção II — Modalidade de negociação directa\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228931": {
+   "fragment_id": "124413593",
+   "type": 11,
+   "heading": "Artigo 27.º — Negociação directa",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 27.º — Negociação directa\n\n1 - A escolha prévia da alienação de imóveis do domínio privado do Estado afectos à defesa nacional por negociação directa, nos casos admissíveis, é determinada por despacho conjunto dos Ministros da Defesa Nacional e das Finanças.\n\n2 - Os procedimentos negociais têm como princípio o da melhor realização do interesse público e estão a cargo da Direcção-Geral de Infra-Estruturas, que define, em cada caso, os mais adequados à realização desse interesse.\n\n3 - A negociação directa terá como referência o valor resultante da avaliação oficial homologada.\n\n4 - Na negociação directa podem ser fixadas limitações a futuras alienações do imóvel ou conjunto de imóveis pelo adquirente.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228932": {
+   "fragment_id": "124413594",
+   "type": 11,
+   "heading": "Artigo 28.º — Adjudicação por negociação directa",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 28.º — Adjudicação por negociação directa\n\n1 - Concluídos os procedimentos negociais, a proposta de adjudicação provisória, fundamentada, é apresentada pela Direcção-Geral de Infra-Estruturas ao Ministro da Defesa, que sobre ela decide.\n\n2 - A adjudicação provisória deve ser submetida a ratificação do Conselho de Ministros, nos termos do n.º 3 do artigo 6.º do Decreto-Lei n.º 32/99, de 5 de Fevereiro.\n\n3 - A adjudicação, tornada definitiva pela ratificação, será notificada ao adjudicatário.\n\n4 - O auto de adjudicação é celebrado entre a Direcção-Geral de Infra-Estruturas e a entidade adjudicatária, no seguimento de notificação para o efeito feita por aquela Direcção-Geral.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228933": {
+   "fragment_id": "124413595",
+   "type": 8,
+   "heading": "Secção III — Anulação dos procedimentos de alienação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "#### Secção III — Anulação dos procedimentos de alienação\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228934": {
+   "fragment_id": "124413596",
+   "type": 11,
+   "heading": "Artigo 29.º — Causas de anulação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 29.º — Causas de anulação\n\nA entidade competente para a alienação pode anular o procedimento quando:\n\na) Por circunstância imprevisível, seja necessário alterar os elementos que servem de base ao procedimento;\n\nb) Outras razões supervenientes e de manifesto interesse público o justifiquem.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228935": {
+   "fragment_id": "124413597",
+   "type": 1,
+   "heading": "Capítulo III — Sanções",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "### Capítulo III — Sanções\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228936": {
+   "fragment_id": "124413598",
+   "type": 11,
+   "heading": "Artigo 30.º — Sanções por incumprimento dos preceitos aplicáveis aos procedimentos de alienação",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 30.º — Sanções por incumprimento dos preceitos aplicáveis aos procedimentos de alienação\n\nSe o concorrente, adjudicatário ou cessionário, não cumprir as suas obrigações, poderão ser aplicadas, isolada ou cumulativamente, as seguintes sanções:\n\na) Considerar revertida a seu favor a caução prestada;\n\nb) Considerar revertidas a seu favor as prestações entretanto efectuadas no cumprimento da relação contratual;\n\nc) Privá-lo, por prazo não inferior a dois anos, do direito de participar em procedimentos que tenham por objecto a alienação de imóveis integrados no domínio privado do Estado afectos ao Ministério da Defesa Nacional.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228937": {
+   "fragment_id": "124413599",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228938": {
+   "fragment_id": "124413600",
+   "type": 11,
+   "heading": "Artigo 31.º — Servidões",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 31.º — Servidões\n\nNos termos do § 2.º do artigo 7.º da Lei n.º 2078, de 11 de Julho de 1955, a cessação da dominialidade pública militar sobre os imóveis referidos no artigo 4.º do Decreto-Lei n.º 32/99, de 5 de Fevereiro, com a nova redacção que lhe foi introduzida pela Lei n.º 131/99, de 28 de Agosto, faz caducar as respectivas condicionantes de servidão militar.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228939": {
+   "fragment_id": "124413601",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  },
+  "220228940": {
+   "fragment_id": "124413602",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-08-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Maio de 2001. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Joaquim Augusto Nunes Pina Moura.\n\nPromulgado em 12 de Junho de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Junho de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 34.º do/a [Lei Orgânica n.º 2/2023 - Diário da República n.º 160/2023, Série I de 2023-08-18](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2023-220061174), em vigor a partir de 2023-08-19"
+  }
+ }
+}

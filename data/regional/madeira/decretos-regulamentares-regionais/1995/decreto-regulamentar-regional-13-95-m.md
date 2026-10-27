@@ -1,0 +1,241 @@
+---
+schema_version: '1.0'
+id: pt:dre:510178:por
+title: Decreto Regulamentar Regional n.º 13/95/M
+short_title: null
+summary: Executa o Orçamento da Região Autónoma da Madeira para 1995
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 13/95/M
+official_date: null
+publication_date: '1995-05-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/1995, Série I-B de 1995-05-11
+  number: '109'
+  series: I
+  supplement: null
+  pages: 2731 - 2734
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/05/109b00/27312734.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/13/1995/05/11/m/dre/pt/html
+  oj: null
+  dre: '510178'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/13-1995-510178
+  internal: pt:dre:510178:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1995-510178
+  metadata_url: https://data.dre.pt/eli/decregulreg/13/1995/05/11/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-1995-510178
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:45:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c63b58258a418d44c1a08bc48c127bc3f2caeae3acc79c9628e96ca3de45ae7a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:45:52Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Assembleia Legislativa Regional
+- Direcção Regional do Património
+- Madeira.região Autónoma
+- Orçamento Regional
+- Secretaria Regional das Finanças
+relationships:
+- type: amended_by
+  target: pt:dre:247446:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:392466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:584212:por
+  label: null
+  source: http://data.dre.pt/eli/declegreg/1/1995/02/14/m/dre
+- type: cites
+  target: pt:dre:629666:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: repealed_by
+  target: pt:dre:247446:por
+  label: "Revogado o art. 5º do DRR 5/82/M de 18-Mai, com a redacção dada no presente diploma, pelo DRR.3/2008/M.27.02.2008.PG-RAM,\
+    \ DR.IS [41] de 27.02.2008\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar-regional/3-2008-247446
+  date: '2008-02-27'
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:45:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 13/95/M
+
+Execução do Orçamento da Região Autónoma da Madeira para 1995
+
+O Orçamento da Região Autónoma da Madeira foi aprovado pela Assembleia Legislativa Regional através do [Decreto Legislativo Regional n.º 1/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1995-584212), de 14 de Fevereiro. O presente diploma destina-se a dar execução ao Orçamento na parte respeitante às despesas.
+
+Nestes termos:
+
+O Governo da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea d) do n.º 1 do artigo 229.º da Constituição e na alínea p) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:
+
+###### Artigo 1.º — Execução do Orçamento
+
+A execução do Orçamento da Região Autónoma da Madeira para 1995 processa-se de acordo com o disposto nos artigos seguintes.
+
+###### Artigo 2.º — Controlo das despesas
+
+Compete à Secretaria Regional das Finanças, no âmbito da sua acção de liquidação das despesas orçamentais e autorização do seu pagamento, proceder à análise quantitativa e qualitativa das despesas, visando o controlo e legalidade das mesmas.
+
+###### Artigo 3.º — Utilização das dotações orçamentais
+
+1 - Na execução dos seus orçamentos para 1995, todos os serviços da administração pública regional deverão observar normas de rigorosa economia na administração das dotações orçamentais atribuídas às suas despesas.
+
+2 - O cumprimento do disposto no número anterior será objecto de fiscalização, nos termos da legislação em vigor.
+
+3 - Os dirigentes dos serviços ficarão responsáveis pela assunção de encargos com infracção das normas legais aplicáveis à realização das despesas públicas, nos termos da legislação em vigor.
+
+4 - Os projectos de diploma contendo a reestruturação de serviços só poderão prosseguir desde que existam adequadas contrapartidas no orçamento do respectivo serviço.
+
+###### Artigo 4.º — Regime duodecimal
+
+1 - Salvo o disposto nos números seguintes, todas as dotações orçamentais estão sujeitas às regras do regime duodecimal.
+
+2 - Não estão sujeitas ao regime dos duodécimos as dotações destinadas a despesas com o pessoal, incluindo as despesas com o pessoal da saúde contidas nas transferências existentes para esse efeito na secretaria regional da tutela, os encargos de instalações, comunicações, locação de bens, seguros, os encargos da dívida pública, as dotações constantes dos recursos próprios de terceiros, as dotações de capital incluídas no PIDDAR e as dotações de valor anual não superior a 200 contos;
+
+3 - Não estão também sujeitas ao regime dos duodécimos as importâncias dos reforços e inscrições de verbas, bem como as dotações que suportarem as contrapartidas.
+
+4 - Não estão ainda sujeitas ao regime duodecimal, nem ao disposto no n.º 6 deste artigo, as dotações inscritas no orçamento do Centro Regional de Saúde destinadas ao reembolso das despesas suportadas no âmbito do Sistema Regional de Saúde.
+
+5 - Mediante autorização do Secretário Regional das Finanças, que poderá delegá-la no director regional de Orçamento e Contabilidade, poderão ser antecipados, total ou parcialmente, os duodécimos de outras dotações inscritas no Orçamento.
+
+6 - Nos serviços com orçamentos privativos, a competência referida no número anterior pretence à entidade que deu o acordo ao respectivo orçamento, sem necessidade de intervenção do Secretário Regional das Finanças, salvo se for excedido o montante de 150000 contos por dotação.
+
+###### Artigo 5.º — Requisição de fundos
+
+1 - Os serviços e fundos autónomos e os serviços com autonomia administrativa, na parte em que elaboram orçamentos privativos para aplicação de receitas próprias, deverão fornecer à Direcção Regional de Orçamento e Contabilidade todos os elementos que por esta lhes forem solicitados para o acompanhamento da respectiva execução orçamental.
+
+2 - Os serviços dotados de autonomia administrativa e de autonomia administrativa e financeira apenas poderão requisitar mensalmente as importâncias que, embora dentro dos respectivos duodécimos, forem estritamente indispensáveis à realização das despesas correspondentes às suas necessidades mensais.
+
+3 - As requisições de fundos enviadas à Direcção Regional de Orçamento e Contabilidade - Direcção de Serviços de Contabilidade - para autorização de pagamento serão acompanhadas de projectos de aplicação, onde, por cada rubrica, se pormenorizem os encargos previstos no respectivo mês e o saldo por aplicar das importâncias anteriormente levantadas.
+
+4 - Poderão ser autorizados a liquidação e pagamento das despesas com as transferências para os serviços com autonomia administrativa e autonomia administrativa e financeira cujas requisições estejam em conformidade com os números anteriores deste artigo, independentemente de quaisquer formalidades.
+
+5 - O disposto no número anterior aplica-se com as necessárias adaptações a outros documentos de levantamentos de fundos dos cofres da Região.
+
+###### Artigo 6.º — Serviços e fundos autónomos
+
+1 - Para efeitos do controlo sistemático e sucessivo da gestão orçamental, os serviços e fundos autónomos deverão remeter trimestralmente à Direcção Regional de Orçamento e Contabilidade, nos 15 dias subsequentes ao período a que respeitam, as contas da sua execução orçamental, bem como todos os elementos que forem solicitados para o acompanhamento da mesma.
+
+2 - Tendo em vista o acompanhamento da execução material e financeira do PIDDAR, os serviços e fundos autónomos deverão enviar à Direcção Regional de Planeamento toda a informação material e financeira necessária àquele acompanhamento.
+
+###### Artigo 7.º — Fundos permanentes
+
+1 - Os fundos permanentes a constituir em 1995 ficam dispensados de autorização desde que, em relação a 1994, o responsável pelo fundo ou o seu substituto legal sejam os mesmos e a importância em conta de cada dotação não seja superior à que foi autorizada para 1994, devendo os respectivos saldos existentes no final do ano ser repostos até 14 de Fevereiro do ano seguinte.
+
+2 - Em casos especiais, devidamente justificados, o Secretário Regional das Finanças poderá, por despacho conjunto com o secretário da tutela, autorizar a constituição de fundos permanentes por importâncias superiores a um duodécimo em conta dos orçamentos dos serviços, devendo ser repostos até ao prazo indicado no número anterior os saldos que porventura se verifiquem no final do ano económico.
+
+###### Artigo 8.º — Alteração de prazos para autorização de despesas
+
+1 - Fica proibido contrair em conta do Orçamento da Região Autónoma da Madeira ou de quaisquer orçamentos privativos da administração pública regional encargos com aquisição de bens e serviços que não possam ser processados, liquidados e pagos dentro dos prazos estabelecidos no n.º 3 deste artigo.
+
+2 - Exceptuam-se da disciplina estabelecida no número anterior as despesas certas e permanentes necessárias ao normal funcionamento dos referidos organismos e todos os reforços por créditos especiais, bem como os encargos plurianuais legalmente assumidos.
+
+3 - Os prazos actualmente estabelecidos para as operações referidas na primeira parte do n.º 1 são antecipados na seguinte conformidade:
+
+a) A entrada de folhas e requisições de fundos dos cofres da Região na Direcção de Serviços de Contabilidade, da Direcção Regional de Orçamento e Contabilidade, verificar-se-á, impreterivelmente, até 31 de Dezembro, exceptuando-se apenas as que respeitam a despesas que, pela sua natureza, tenham necessariamente de ser continuadas ou realizadas nesse prazo, as quais poderão dar entrada naquela Direcção até 7 de Janeiro de 1996;
+
+b) Todas as operações a cargo da Direcção de Serviços de Contabilidade terão lugar até 17 de Janeiro de 1996, só podendo efectuar-se a expedição de autorizações de pagamento depois dessa data quando as mesmas respeitem a documentos entrados posteriormente a 31 de Dezembro ou que hajam sido devolvidos para rectificação, não podendo, contudo, ser ultrapassado o dia 21 daquele mês;
+
+c) Em 31 de Janeiro de 1996 será encerrado, com referência a 31 de Dezembro de 1995, o cofre da Região Autónoma da Madeira, caducando todas as autorizações que até essa data não se tenham efectivado.
+
+###### Artigo 9.º — Recursos próprios de terceiros
+
+As importâncias inscritas no capítulo 20 das receitas e consignadas a favor de terceiros serão liquidadas e autorizadas para pagamento pela Direcção de Serviços de Contabilidade, da Direcção Regional de Orçamento e Contabilidade, sem quaisquer formalismos adicionais, devendo as correspondentes despesas ser processadas pelo capítulo 75 da Secretaria Regional das Finanças.
+
+###### Artigo 10.º — Património da Região Autónoma da Madeira
+
+O n.º 1 do artigo 5.º do [Decreto Regulamentar Regional n.º 5/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1982-392466), de 18 de Maio, passa a ter a seguinte redacção:
+
+###### Artigo 5.º — Consulta e parecer
+
+1 - A aquisição de bens independentemente da sua quantidade, estado, localização e finalidade a levar a cabo pelos organismos referidos no artigo 3.º, n.º 1, fica obrigatoriamente sujeita a prévio parecer da Secretaria Regional das Finanças, através da Direcção Regional do Património, sempre que o seu valor exceda o limiar do que é exigido para a celebração de contrato escrito, com a ressalva dos números seguintes.
+
+2 - ...
+
+3 - ...
+
+###### Artigo 11.º — Subsídios
+
+1 - A concessão de subsídios deverá ser objecto de resolução do Conselho do Governo Regional, sob proposta fundamentada do titular do respectivo sector.
+
+2 - Porém, se o subsídio a atribuir se encontrar suficientemente regulamentado em diploma legal, será dispensada a formalidade exigida no parágrafo anterior.
+
+###### Artigo 12.º — Aquisição de veículos com motor
+
+No ano de 1995 a aquisição de veículos com motor destinados ao transporte de pessoas e bens, incluindo ambulâncias, pelos serviços da administração pública regional e pelas pessoas colectivas de utilidade pública administrativa ficam dependentes de prévia autorização do Secretário Regional das Finanças.
+
+###### Artigo 13.º — Aquisição e aluguer de equipamento informático
+
+1 - A compra ou aluguer de equipamento informático depende de prévia autorização do Secretário Regional das Finanças, desde que os respectivos montantes excedam 2400 contos, tratando-se de compra, ou 200 contos mensais, no caso de aluguer.
+
+2 - Sem prejuízo do disposto no número anterior e dentro dos limites nele definidos, a compra ou aluguer de equipamento informático pelos serviços simples depende do parecer prévio da Direcção Regional de Informática, da Secretaria Regional das Finanças.
+
+3 - Os contratos de manutenção de equipamento informático e respectiva renovação dependem de prévia autorização do Secretário Regional das Finanças, sob proposta fundamentada da Direcção Regional de Informática.
+
+###### Artigo 14.º — Execução do diploma
+
+O Secretário Regional das Finanças fornecerá as instruções necessárias à boa execução deste diploma.
+
+###### Artigo 15.º — Vigência
+
+As disposições do presente diploma produzem efeitos desde a data da entrada em vigor do Orçamento da Região Autónoma da Madeira para 1995.
+
+Aprovado em Conselho do Governo Regional em 16 de Março de 1995.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 4 de Abril de 1995.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.

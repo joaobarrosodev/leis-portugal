@@ -1,0 +1,781 @@
+---
+schema_version: '1.0'
+id: pt:dre:617285:por
+title: Portaria n.º 809-A/94
+short_title: null
+summary: Aprova o Regulamento de Aplicação da Medida de Infra-Estruturas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 809-A/94
+official_date: null
+publication_date: '1994-09-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 211/1994, 1º Suplemento, Série I-B de 1994-09-12
+  number: '211'
+  series: I
+  supplement: 1º Suplemento
+  pages: 5388-(2) a 5388-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/09/211b01/00020005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1999-08-29'
+version_history:
+  file: portaria-809-a-94.versoes.json
+  count: 5
+  source_lastmod: '2026-02-03'
+  versions:
+  - date: '1994-09-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-01-12'
+    amending: pt:dre:574171:por
+    amending_title: Portaria n.º 14-A/98
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+  - date: '1998-02-24'
+    amending: pt:dre:209846:por
+    amending_title: Portaria n.º 83/98
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+  - date: '1998-03-28'
+    amending: pt:dre:196951:por
+    amending_title: Portaria n.º 192/98
+    changes:
+    - Adita Artigo 55.º
+    - Altera Artigo 45.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+  - date: '1999-08-29'
+    amending: pt:dre:464599:por
+    amending_title: Portaria n.º 726-A/99
+    changes:
+    - Altera Artigo 55.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/809-a/1994/p/cons/19990824/pt/html
+  oj: null
+  dre: '617285'
+  dre_path: /dr/detalhe/portaria/809-a-1994-617285
+  internal: pt:dre:617285:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-a-1994-617285
+  metadata_url: https://data.dre.pt/eli/port/809-a/1994/p/cons/19990824/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-1028852433
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-1028852433
+  retrieved_at: '2026-10-22T13:40:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-02-03T00:00:00Z'
+integrity:
+  source_sha256: 860111e31bf0b8f814db5efb68a979e2c0cfd8cd3973b76df52b978b6113be09
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:40:46Z'
+  notes: 5 versão(ões); histórico completo em portaria-809-a-94.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Emparcelamento
+- Aproveitamento Hidroagrícola
+- Exploração Agrícola
+- Exploração Florestal
+- Regulamento
+- Programa de Apoio à Modernização Agrícola e Florestal
+- Regulamento de Aplicação da Medida de Infra-estruturas
+relationships:
+- type: amended_by
+  target: pt:dre:574171:por
+  label: Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171
+  date: '1998-01-07'
+- type: amended_by
+  target: pt:dre:209846:por
+  label: Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/83-1998-209846
+  date: '1998-02-19'
+- type: amended_by
+  target: pt:dre:196951:por
+  label: Adita Artigo 55.º; Altera Artigo 45.º; Altera Artigo 47.º; Altera Artigo 48.º; Altera Artigo 49.º; Altera Artigo
+    50.º; Altera Artigo 51.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951
+  date: '1998-03-23'
+- type: amended_by
+  target: pt:dre:464599:por
+  label: Altera Artigo 55.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/726-a-1999-464599
+  date: '1999-08-24'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
+- type: cites
+  target: pt:dre:269400:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/150/1994/05/25/p/dre
+article_structure:
+  article_count: 55
+  section_count: 19
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:40:46Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 809-A/94
+
+Portaria n.º 809-A/94
+
+de 12 de Setembro
+
+O objectivo do reforço da capacidade de competição do sector agrícola passa pela criação de condições que permitam, directa ou indirectamente, uma redução de custos, pela utilização de processos técnicos e tecnologias alternativas e por novas orientações produtivas.
+
+A criação dessas condições passa pela melhoria da estrutura fundiária, nomeadamente através da realização de acções de emparcelamento e da construção da rede viária de acesso às explorações agrícolas, bem como pelo seu abastecimento em energia eléctrica, condição fundamental à introdução de novas tecnologias.
+
+A disponibilidade de água, factor reconhecidamente limitador do desenvolvimento da agricultura portuguesa, desempenha papel essencial no alargamento do quadro de alternativas em matéria de orientações produtivas. Neste sentido, torna-se necessário desenvolver acções que permitam uma mais eficiente utilização deste recurso, através da melhoria dos regadios existentes e da criação de novos regadios, sejam de natureza colectiva ou individual, de grande ou pequena dimensão.
+
+Tendo em conta o disposto no Decreto-Lei n.º 150/94 de 25 de Maio, e na Resolução do Conselho de Ministros n.º 61/94, de 1 de Agosto, que estabelecem as condições gerais de aplicação do Programa de Apoio à Modernização Agrícola e Florestal (PAMAF):
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento de Aplicação da Medida de Infra-Estruturas, em anexo ao presente diploma e do qual faz parte integrante.
+
+Ministério da Agricultura.
+
+Assinada em 9 de Setembro de 1994.
+
+O Ministro da Agricultura, António Duarte Silva.
+
+## Regulamento de Aplicação da Medida de Infra-Estruturas
+
+### Capítulo I — Disposições iniciais
+
+###### Artigo 1.º
+
+O presente Regulamento estabelece o regime de aplicação da Medida de Infra-Estruturas do PAMAF.
+
+###### Artigo 2.º
+
+A Medida de Infra-Estruturas desenvolve-se através das seguintes acções:
+
+a) Regadios:
+
+Grandes e novos regadios colectivos;
+
+Beneficiação de regadios tradicionais e pequenas regadios;
+
+Reabilitação de perímetros de rega em exploração;
+
+b) Drenagem e conservação de solos;
+
+c) Carrinhos agrícolas e rurais;
+
+d) Electrificação;
+
+e) Emparcelamento rural integrado.
+
+### Capítulo II — Regadios e drenagem e conservação de solos
+
+#### Secção I — Disposição comum
+
+###### Artigo 3.º
+
+Ao presente capítulo aplica-se o disposto no Decreto-Lei n.º 269/82, de 10 de Julho, e legislação complementar.
+
+#### Secção II — Grandes regadios e novos regadios colectivos
+
+###### Artigo 4.º
+
+Podem beneficiar das ajudas a que se refere a presente secção os titulares de prédios rústicos organizados em associações de beneficiários, juntas de agricultores ou cooperativas de rega, através dos organismos da administração central de âmbito nacional ou regional.
+
+###### Artigo 5.º
+
+1 - Podem ser concedidos ajudas, no âmbito de projectos, integrados ou não em aproveitamentos hidráulicos de fins múltiplos, que tenham por objecto:
+
+a) Grandes aproveitamentos hidroagrícolas que abranjam áreas superiores a 1000 ha;
+
+b) Novos regadios colectivos que abranjam áreas inferiores a 1000 ha.
+
+2 - As ajudas são atribuídas sob a forma de subvenção financeira a fundo perdido, nos termos do Decreto-Lei n.º 269/82, de 10 de Julho.
+
+###### Artigo 6.º
+
+O valor da ajuda previsto no n.º 2 do artigo anterior pode incidir, nomeadamente, sobre despesas com:
+
+a) Elaboração de estudos e projectos de execução;
+
+b) Construção de barragens, açudes de derivação e outras estruturas complementares;
+
+c) Construção de redes de rega primária, secundária e de aproximação;
+
+d) Construção de redes de enxugo e drenagem e de obras de defesa complementar;
+
+e) Instalação de estações elevatórias, reservatórios e respectivo equipamento;
+
+f) Captação de águas subterrâneas, através de furos e poços;
+
+g) Construção e melhoria da rede viária na área de influência do perímetro de rega;
+
+h) Construção de redes de electrificação;
+
+i) Instalação de centrais mini-hídricas;
+
+j) Acções de emparcelamento;
+
+l) Adaptação de terrenos ao regadio;
+
+m) Construção das sedes das associações de beneficiários, juntas de agricultura e cooperativas de rega e equipamento necessário ao seu funcionamento;
+
+n) Expropriações e respectivas indemnizações necessárias à execução das obras;
+
+o) Acompanhamento e fiscalização das obras;
+
+p) Aperfeiçoamento em técnicas de regadio;
+
+q) Equipamento para instalação da áreas piloto para os sistemas de rega a instalar;
+
+r) Testagem e eventuais alterações julgadas necessárias ao pleno funcionamento das obras e à sua entrega aos beneficiários em boas condições de exploração.
+
+#### Secção III — Beneficiação de regadios tradicionais e pequenos regadios
+
+###### Artigo 7.º
+
+Podem beneficiar da ajuda a que se refere a presente secção os titulares de explorações agrícolas, juntas de agricultores e cooperativas de rega, directamente ou através dos organismos da administração central ou local.
+
+###### Artigo 8.º
+
+- 1 - Podem ser concedidos ajudas à recuperação de regadios tradicionais e à criação e desenvolvimento de pequenas regadios.
+
+2 - As ajudas são concedidos sob a forma de subvenção financeira a fundo perdido no valor de 90% ou 55% das despesas elegíveis,, consoante se trate, respectivamente, de regadios tradicionais ou de pequenos regadios.
+
+3 - No caso de aproveitamento de águas superficiais em pequenos regadios, o valor da ajuda é acrescido de 15 pontos percentuais, desde que a área a beneficiar tenha comprovada aptidão agrícola.
+
+###### Artigo 9.º
+
+Os valores das ajudas previstas no artigo anterior podem incidir, nomeadamente, sobre despesas:
+
+a) Elaboração de estudos e projectos de execução;
+
+b) Construção ou reparação de pequenas barragens;
+
+c) Construção ou reparação de charcas e de açudes de derivação;
+
+d) Construção de pequenas barragens subterrâneas;
+
+e) Construção de tomadas de águas e de reservatórios;
+
+f) Construção de pequenas estações de bombagem;
+
+g) Beneficiação ou recuperação de redes de rega existentes e instalação de novas redes de rega;
+
+h) Aquisição e montagem de contadores de água em redes colectivas de rega sob pressão ou outro equipamento necessário a uma adequada gestão da água;
+
+i) Acompanhamento e fiscalização das obras;
+
+j) Captação de águas subterrâneas;
+
+l) Aquisição de equipamento de bombagem, desde que associado as despesas referidas nas alíneas anteriores.
+
+#### Secção IV — Reabilitação de perímetros de rega em exploração
+
+###### Artigo 10.º
+
+Podem beneficiar da ajuda a que se refere a presente secção os agricultores utilizadores de aproveitamentos hidroagrícolas organizados em associações de beneficiários, ou de regentes e beneficiários, e juntas de agricultores, através dos organismos da administração central de âmbito nacional ou regional.
+
+###### Artigo 11.º
+
+- 1 - Podem ser concedidas ajudas à recuperação e modernização de obras hidroagrícolas classificadas nos grupos II e III.
+
+2 - As ajudas são concedidos sob a forma de subvenção financeira a fundo perdido, nos termos do Decreto-Lei n.º 269/82, de 10 de Julho.
+
+###### Artigo 12.º
+
+O valor da ajuda referido no n.º 2 do artigo anterior pode incidir, nomeadamente, sobre despesas com:
+
+a) Elaboração de estudos e projectos de execução;
+
+b) Construção, modernização ou reparação de:
+
+Barragens;
+
+Redes de rega primária, secundário e de aproximação;
+
+Redes de enxugo e drenagem;
+
+Rede viária, desde que integrada na área de influência do perímetro de rega;
+
+Rede de electrificação;
+
+Estações elevatórias, reservatórios e respectivos equipamentos;
+
+Sistemas de segurança e exploração;
+
+Automatizações;
+
+Instalações de apoio e protecção às redes de rega e drenagem;
+
+Captação de águas subterrâneas através de furos e poços;
+
+c) Recuperação e modernização de centrais hidroeléctricas associadas aos perímetros de rega;
+
+d) Expropriações e respectivas indemnizações necessárias à execução das obras;
+
+e) Acompanhamento e fiscalização das obras;
+
+f) Aperfeiçoamento em técnicas de regadio;
+
+g) Acções de emparcelamento.
+
+#### Secção V — Normas processuais
+
+###### Artigo 13.º
+
+Podem beneficiar das ajudas a que se refere a presente secção as associações de beneficiários, no caso das obras dos grupos I e II, e as juntas de agricultores ou cooperativas de rega, quando se trate de obras do grupo III, através dos organismos da administração central de âmbito nacional ou regional.
+
+###### Artigo 14.º
+
+- 1 - Podem ser concedidos ajudas a acções de drenagem e conservação do solo que respeitem a obras de fomento hidroagrícolas classificadas nos grupos I, II ou III.
+
+2 - As ajudas são concebidas sob a forma de subvenção financeira a fundo perdido, nos temos do Decreto-Lei n.º 269/82, de 10 de Julho.
+
+###### Artigo 15.º
+
+Os valores das ajudas referidos no n.º 2 do artigo anterior podem incidir, nomeadamente, sobre despesas com:
+
+a) Elaboração de estudos e projectos;
+
+b) Execução de projectos, incluindo:
+
+Limpeza e ou regularização de linhas de água naturais, principais e secundários;
+
+Construção de redes de valas e implantação de redes de drenagem superficial e subsuperficial;
+
+Construção de pontões e outras obras de arte, incluindo passagens a vau;
+
+Instalação de estações de bombagem;
+
+Construção de diques de defesa;
+
+Instalação de comportas unidireccionais;
+
+Construção de açudes amovíveis e quedas-d'água;
+
+Construção de caminhos de apoio à rede de drenagem;
+
+Conservação de solos;
+
+c) Expropriações e respectivas indemnizações necessárias à execução das obras;
+
+d) Acompanhamento e fiscalização das obras;
+
+e) Testagem e eventuais alterações julgadas necessárias ao pleno funcionamento das obras e à sua entrega aos beneficiários em boas condições de exploração.
+
+#### Secção VI — Normas processuais
+
+###### Artigo 16.º
+
+1 - O processo de candidaturas às ajudas previstas neste capítulo inicia-se com a apresentação de um formulário de candidatura, de acordo com modelo a distribuir pelos serviços competentes:
+
+a) De Janeiro a Dezembro, junto das direcções regionais de agricultura, quando se trate de obras relativas à beneficiação de regadios tradicionais, e junto do IFADAP, no caso de obras relativas a pequenos regadios;
+
+b) Em Setembro e Outubro, junto das direcções regionais de agricultura, para as restantes, e junto do IEHRA, no caso de obras do grupo II já aprovadas por resolução do Conselho de Ministros.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 83/98 - Diário da República n.º 42/1998, Série I-B de 1998-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-1998-209846), em vigor a partir de 1998-02-24
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12
+
+###### Artigo 17.º
+
+As candidaturas apresentadas, quando se trate das obras a que se refere a secção III, são objecto de análise e deliberação pela unidade de gestão competente até três meses a contar da data da recepção das candidaturas e, nos restantes casos, até 28 de Fevereiro.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 83/98 - Diário da República n.º 42/1998, Série I-B de 1998-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-1998-209846), em vigor a partir de 1998-02-24
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12
+
+###### Artigo 18.º
+
+A deliberação sobre as candidaturas apresentadas faz-se tendo em conta os seguintes critérios prioritários:
+
+a) Localização em áreas de carência hídrica muito acentuada, excepto no caso da drenagem;
+
+b) Localização em zonas prioritárias de desenvolvimento, conforme definidas nos programas regionais de execução do PDR;
+
+c) Interligação com outros investimentos em infra-estruturas;
+
+d) Localização em zonas desfavorecidas;
+
+e) Rentabilidade dos investimentos a realizar.
+
+###### Artigo 19.º
+
+- 1 - A execução das obras é da responsabilidade dos organismos da administração central, de âmbito nacional ou regional, ou, no caso das obras do grupo TV, dos beneficiários..
+
+2 - As obras cuja execução seja da responsabilidade de organismos da administração central são executadas por adjudicação ou administração directa, podendo aqueles, em qualquer dos casos, como dono da obra e por protocolo, cometer a sua execução a outros serviços estatais ou às autarquias locais, às associações de beneficiários e ou regentes, juntas de agricultores e cooperativas de rega.
+
+###### Artigo 20.º
+
+Salvo no caso referido no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), donde conste o prazo para a realização do investimento, no prazo máximo de um mês a contar da decisão de aprovação, para as referidas na secção III, e até 31 de Março, nos restantes casos.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 83/98 - Diário da República n.º 42/1998, Série I-B de 1998-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-1998-209846), em vigor a partir de 1998-02-24
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 14-A/98 - Diário da República n.º 5/1998, 1º Suplemento, Série I-B de 1998-01-07](https://diariodarepublica.pt/dr/detalhe/portaria/14-a-1998-574171), em vigor a partir de 1998-01-12
+
+###### Artigo 21.º
+
+O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais ou das convenções de financiamento, consoante o caso, podendo haver lugar à concessão de adiantamentos.
+
+### Capítulo III — Caminhos agrícolas e rurais
+
+#### Secção I — Caminhos agrícolas e rurais
+
+###### Artigo 22.º
+
+Podem beneficiar da ajuda prevista neste capítulo:
+
+a) Caminhos agrícolas: associações de agricultores e autarquias locais;
+
+b) Caminhos rurais: autarquias locais.
+
+###### Artigo 23.º
+
+- 1 - Podem ser concedidos ajudas à construção e beneficiação de caminhos agrícolas com largura de plataforma de 4 m e caminhos rurais com largura de plataforma de 5 m.
+
+2 - As ajudas são concedidos sob a forma de subvenção financeira a fundo perdido no valor de:
+
+a) Caminhos agrícolas: 100% das despesas elegíveis;
+
+b) Caminhos rurais: 50% das despesas elegíveis.
+
+###### Artigo 24.º
+
+Os valores das ajudas referidos no artigo anterior podem incidir, nomeadamente, sobre despesas com:
+
+a) Estudos e projectos de execução;
+
+b) Construção e beneficiação de:
+
+i) Caminhos agrícolas de acesso às explorações;
+
+ii) Caminhos rurais de ligação entre povoações;
+
+iii) Caminhos rurais de enlace à rede viária municipal ou nacional;
+
+c) Acompanhamento e fiscalização de obras;
+
+d) Controlo de qualidade em ensaios laboratoriais.
+
+#### Secção II — Normas processuais
+
+###### Artigo 25.º
+
+- 1 - O processo de candidaturas às ajudas previstas neste capítulo inicia-se com a apresentação, durante os meses de Abril e Maio, junto do serviço regional de agricultura competente, de uma ficha de inscrição, de acordo com o modelo a distribuir por esses mesmos serviços.
+
+2 - A ficha de inscrição deve ser acompanhada de todos os documentos indicados nas respectivas instruções.
+
+###### Artigo 26.º
+
+As inscrições apresentadas nos termos do artigo anterior são objecto de análise e selecção pela unidade regional de gestão sectorial competente, até 31 de Julho.
+
+###### Artigo 27.º
+
+A selecção das inscrições apresentadas faz-se tendo em conta os seguintes critérios prioritários:
+
+a) Localização em zonas prioritárias de desenvolvimento definidas nos programas regionais de execução do POR;
+
+b) Relação com aproveitamentos hidroagrícolas existentes;
+
+c) Localização em zonas de minifúndios com pluricultura intensiva;
+
+d) Localização em zona desfavorecida;
+
+e) Complementaridade com a rede viária existente.
+
+###### Artigo 28.º
+
+Os beneficiários cujas inscrições tenham sido seleccionados devem proceder à entrega dos respectivos projectos de execução, junto do serviço regional de agricultura competente, até 30 de Novembro.
+
+###### Artigo 29.º
+
+Os projectos apresentados são objecto de análise e deliberação pela unidade regional de gestão sectorial até 28 de Fevereiro.
+
+###### Artigo 30.º
+
+A execução das obras compete aos beneficiários, podendo, no caso dos titulares de prédios rústicos referidos na alínea a) do artigo 22.º, as obras ser executadas pelas direcções regionais de agricultura.
+
+###### Artigo 31.º
+
+- 1 - Salvo no caso referido no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, até 31 de Março.
+
+2 - Quando se trate de projectos cuja execução seja da responsabilidade de organismos da administração central, são celebradas convenções de financiamento entre estes e o IFADAP, com vista ao estabelecimento dos procedimentos a adoptar na atribuição das ajudas.
+
+###### Artigo 32.º
+
+O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais ou das convenções de financiamento consoante o caso, podendo haver lugar à concessão de adiantamentos.
+
+### Capítulo IV — Electrificação
+
+#### Secção I — Electrificação
+
+###### Artigo 33.º
+
+Podem beneficiar da ajuda prevista no presente capítulo os titulares de exporações agrícolas ou pecuárias, em nome individual ou colectivo, directamente ou através dos distribuidores locais de energia eléctrica.
+
+###### Artigo 34.º
+
+- 1 - Podem ser concebidas ajudas aos investimentos que tenham por objectivo o fornecimento de energia eléctrica às explorações agrícolas e pecuárias.
+
+2 - As ajudas são concedidos sob a forma de subvenção financeira a fundo perdido no valor de 100% das despesas elegíveis, excepto quando se trate de instalações eléctricas dentro das explorações, caso em que o valor da ajuda é de 55% ou 45%, consoante se trate, ou não, de zonas desfavorecidas.
+
+###### Artigo 35.º
+
+- 1 - Os valores das ajudas referidos no artigo anterior podem incidir, nomeadamente, sobre despesas com:
+
+a) Elaboração dos estudos e projectos;
+
+b) Execução da obra:
+
+Redes de distribuição de energia eléctrica em média e baixa tensão;
+
+Linhas de alimentação de energia eléctrica em média e baixa tensão;
+
+Postos de transformação;
+
+Instalações eléctricas dentro das explorações;
+
+c) Acompanhamento e fiscalização das obras.
+
+2 - O montante máximo das ajudas previstas no presente capítulo não pode exceder 15000 contos por exploração.
+
+#### Secção II — Normas processuais
+
+###### Artigo 36.º
+
+- 1 - O processo de candidatura às ajudas previstas neste capítulo inicia-se com a apresentação, durante os meses de Fevereiro e Março, junto do serviço regional de agricultura competente, de uma ficha de inscrição, de acordo com modelo a distribuir por esses serviços.
+
+2 - A ficha de inscrição deve ser acompanhada de todos os documentos indicados nas respectivas instruções.
+
+###### Artigo 37.º
+
+As inscrições apresentadas nos termos do artigo anterior são objecto de análise e selecção pela unidade regional de gestão sectorial competente, até 31 de Maio.
+
+###### Artigo 38.º
+
+A selecção das inscrições faz-se tendo em conta os seguintes critérios prioritários:
+
+a) Localização em zona desfavorecida;
+
+b) Interligação com outros investimentos colectivos em infra-estruturas;
+
+c) Interligação com outros investimentos ao nível da exploração;
+
+d) Utilização múltipla da linha de alimentação;
+
+e) Dimensão e viabilidade das explorações, áreas a regar e modernização das instalações pecuárias;
+
+f) Instalações colectivas de interesse público na região.
+
+###### Artigo 39.º
+
+Os beneficiários cujas candidaturas tenham sido sececcionadas devem proceder à entrega dos respectivos projectos de execução, junto do serviço regional de agricultura competente, até 31 de Outubro.
+
+###### Artigo 40.º
+
+A responsabilidade pela elaboração e execução dos projectos compete:
+
+a) No caso da instalação de redes de distribuição e de linhas de alimentação de energia eléctrica às explorações em média e baixa tensão e dos postos de transformação, aos distribuidores locais te energia eléctrica, nos termos do protocolo a celebrar entre o Ministério da Agricultura e a EDP ou outros distribuidores de energia eléctrica;
+
+b) No caso de instalações eléctricas no interior das explorações, aos beneficiários.
+
+###### Artigo 41.º
+
+Os projectos apresentados são objecto de análise e deliberação pela unidade regional de gestão sectorial competente, até 15 de Dezembro.
+
+###### Artigo 42.º
+
+- 1 - A atribuição das ajudas previstas neste capítulo faz-se ao abrigo de contratos celebrados entre o IFADAP e os beneficiários, até 31 de Janeiro.
+
+2 - Sem prejuízo disposto no número anterior, quando se trate de projectos da responsabilidade dos distribuidores locais de energia eléctrica, devem ser celebrados contratos entre estes e o IFADAP com vista ao estabelecimento dos procedimentos a adoptar no pagamento das ajudas.
+
+###### Artigo 43.º
+
+- 1 - Os pagamentos são efectuados pelo IFADAP aos distribuidores locais de energia, no caso das obras da sua responsabilidade, ou aos beneficiários, no caso das instalações eléctricas dentro das explorações.
+
+2 - Os pagamentos são efectuados nos termos das cláusulas contratuais, podendo haver lugar à concessão de adiantamentos.
+
+### Capítulo V — Emparcelamento rural
+
+#### Secção I — Projectos de emparcelamento rural integrado
+
+###### Artigo 44.º
+
+À presente secção aplica-se o disposto nos Decretos-Leis n.os 384/88, de 25 de Outubro, e 103/90, de 22 de Março.
+
+###### Artigo 45.º
+
+Podem beneficiar das ajudas previstas nesta secção:
+
+a) Projectos de ordenamento fundiário: agricultores e titulares de prédios rústicos, através das suas associações, autarquias locais e administração central;
+
+b) Planos de estruturação agrária: autarquias locais ou associações de agricultores, com a concordância expressa da autarquia local.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28
+
+###### Artigo 46.º
+
+- 1 - Podem ser concedidos ajudas a:
+
+a) Projectos de ordenamento fundiário que envolvam, de forma integrada, a reorganização e o aumento das áreas das explorações agrícolas e que incluam a construção das necessárias infra-estruturas viárias e hidráulicas, de protecção ambiental e de equipamentos de natureza colectiva com fins económicos ou sociais;
+
+b) Elaboração de planos de estruturação agrária que permitam avaliar o interesse e prioridades de aplicação de investimentos estruturais através do emparcelamento e que promovam um adequado ordenamento agrário ao nível da freguesia, concelho ou agrupamentos de concelhos.
+
+2 - As ajudas são atribuídas sob a forma de subvenção financeira a fundo perdido no valor de 100% das despesas elegíveis.
+
+###### Artigo 47.º
+
+O valor da ajuda previsto no n.º 2 do artigo anterior pode incidir, nomeadamente, sobre despesas com:
+
+a) Projectos de ordenamento fundiário:
+
+i) Elaboração de estudos prévios e projectos;
+
+ii) Execução de projectos:
+
+Infra-estruturas rurais;
+
+Melhoramentos fundiários;
+
+Equipamentos de natureza colectiva com fins económicos ou sociais;
+
+Reconversão de culturas perenes;
+
+Obras de conservação e protecção da natureza e da paisagem ou de natureza recreativa;
+
+Indemnizações aos agricultores pelos danos causados aquando da elaboração e execução dos projectos;
+
+Equipamentos necessários ao pleno funcionamento e manutenção das obras;
+
+Constituição de associações de beneficiários;
+
+iii) Estudos de impacte ambiental, bem como outros estudos específicos necessários à realização dos projectos de ordenamento fundiário;
+
+iv) Fotografia aérea, ortofotocartografia e cadastro geométrico;
+
+v) Apoio técnico, acompanhamento, fiscalização e avaliação;
+
+b) Planos de estruturação agrária:
+
+i) Estudos de estrutura agrária;
+
+ii) Cartografia;
+
+iii) Tratamento informático da informação;
+
+iv) Apoio técnico, acompanhamento, fiscalização e avaliação.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28
+
+#### Secção II — Normas processuais
+
+###### Artigo 48.º
+
+1 - O processo de candidatura às ajudas previstas neste capítulo inicia-se com a apresentação, de Janeiro a Dezembro, junto do Instituto de Hidráulica, Engenharia Rural e Ambiente (IHERA) ou das direcções regionais de agricultura, de uma ficha de candidatura, de acordo com modelo a distribuir por esses serviços.
+
+2 - A ficha de candidatura deve ser acompanhada de todos os documentos indicados nas respectivas instruções.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28
+
+###### Artigo 49.º
+
+As candidaturas apresentadas são objecto de análise e deliberação pela unidade de gestão, no prazo máximo de 90 dias a contar da data de recepção das candidaturas.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28
+
+###### Artigo 50.º
+
+A deliberação sobre as candidaturas apresentadas faz-se tendo em conta os seguintes critérios prioritários:
+
+a) Projectos de emparcelamento:
+
+i) Grau de deficiência estrutural da região;
+
+ii) Potencial de desenvolvimento sócio-económico;
+
+iii) Condicionantes à elaboração do projecto;
+
+iv) Complementaridade com outras acções;
+
+i) Grau de ruralidade;
+
+iii) Complementaridade com outras acções.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28
+
+###### Artigo 51.º
+
+1 - Salvo nos casos previstos no número seguinte, a atribuição das ajudas previstas neste capítulo é feita ao abrigo de contratos celebrados entre os beneficiários e o IFADAP, no prazo de 30 dias a contar da data da deliberação.
+
+2 - Quando se trate de projectos de iniciativa da administração central cuja execução seja atribuída pelos beneficiários ao IHERA, são celebradas convenções de financiamento entre este e o IFADAP com vista ao estabelecimento dos procedimentos a adoptar na atribuição das ajudas.
+
+> Alterado pelo/a 1.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28
+
+###### Artigo 52.º
+
+O pagamento das ajudas é efectuado pelo IFADAP, nos termos das cláusulas contratuais, ou das convenções de financiamento, consoante o caso, podendo haver lugar à concessão de adiantamentos.
+
+### Capítulo VI — Disposições finais e transitárias
+
+###### Artigo 53.º
+
+- 1 - No corrente ano, há lugar a um período excepcional de candidatura, que decorre até 31 de Outubro.
+
+2 - A análise e deliberação sobre as candidaturas apresentadas nos termos do número anterior têm lugar no prazo de 22 dias úteis a contar do termo do prazo referido nesse número.
+
+3 - A celebração dos contratos referentes às candidaturas que tenham sido objecto de deliberação favorável tem lugar nos 15 dias a seguir ao termo do prazo referido no número anterior.
+
+###### Artigo 54.º
+
+Para efeitos de concessão de ajudas às candidaturas referidas no artigo anterior são elegíveis as despesas efectuadas a partir de 1 de Janeiro de 1994, desde que as mesmas se enquadrem nas condições estabelecidas neste Regulamento.
+
+###### Artigo 55.º
+
+1 - A título excepcional e até 31 de Outubro de 1999, são despesas elegíveis, abrangidas pelos regimes previstos nos artigos 6.º e 9.º, as despesas com a captação e retenção de água com vista ao abeberamento de gado, desde que localizadas em região afectada pela seca, a definir por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+2 - Os investimentos realizados ao abrigo do regime excepcional previsto no número anterior deverão estar à disposição dos agricultores da respectiva área circundante durante o período de sete anos.
+
+> Alterado pelo/a [Portaria n.º 726-A/99 - Diário da República n.º 197/1999, 1º Suplemento, Série I-B de 1999-08-24](https://diariodarepublica.pt/dr/detalhe/portaria/726-a-1999-464599), em vigor a partir de 1999-08-29
+
+> Aditado pelo/a 2.º do/a [Portaria n.º 192/98 - Diário da República n.º 69/1998, Série I-B de 1998-03-23](https://diariodarepublica.pt/dr/detalhe/portaria/192-1998-196951), em vigor a partir de 1998-03-28

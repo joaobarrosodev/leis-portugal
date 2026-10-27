@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:277614:por
+title: Portaria n.º 120/2011
+short_title: null
+summary: Terceira alteração à Portaria n.º 187/2009, de 20 de Fevereiro, que procede à repartição da quota de pescada branca
+  do Sul e revoga a Portaria n.º 612/2007, de 21 de Maio
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 120/2011
+official_date: null
+publication_date: '2011-03-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2011, Série I de 2011-03-29
+  number: '62'
+  series: I
+  supplement: null
+  pages: 1724 - 1725
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/03/06200/0172401725.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/120/2011/03/29/p/dre/pt/html
+  oj: null
+  dre: '277614'
+  dre_path: /dr/detalhe/portaria/120-2011-277614
+  internal: pt:dre:277614:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614
+  metadata_url: https://data.dre.pt/eli/port/120/2011/03/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/120-2011-277614
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:50:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b33dfeafea12f630f6b5e488722d7de2f31550827ac41b507809e8f0424cb959
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:50:48Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embarcação de Pesca
+- Gestão dos Recursos
+- Pesca
+- Quota de Pesca
+- Recursos do Mar
+relationships:
+- type: amended_by
+  target: pt:dre:261123:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:177796:por
+  label: "Alterado o art. 1º da Port 187/2009, de 20-fev, na redação do presente diploma, pela PORT.177/2012.31.05.2012.MAMAOT,\
+    \ DR.IS [106] de 31.05.2012\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/177-2012-177796
+  date: '2012-05-31'
+- type: amended_by
+  target: pt:dre:261123:por
+  label: "Alterados os art.s 1.º e 2.º da Port 187/2009, de 20-fev, na redação do presente diploma, e republicada em anexo,\
+    \ pela PORT.186/2013.21.05.2013.MAMAOT, DR.IS [97] de 21.05.2013\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/186-2013-261123
+  date: '2013-05-21'
+- type: amended_by
+  target: pt:numero:portaria:186/2013
+  label: Alterados os art.s 1.º e 2.º da Port 187/2009, de 20-fev, na redação do presente diploma, pela PORT.186/2013.21.05.2013.MAMAOT,
+    DR.IS [97] de 21.05.2013
+  source: null
+  date: '2013-05-21'
+- type: cites
+  target: pt:dre:217326:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
+- type: cites
+  target: pt:dre:420193:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520783:por
+  label: null
+  source: http://data.dre.pt/eli/port/612/2007/05/21/p/dre
+- type: cites
+  target: pt:dre:602058:por
+  label: null
+  source: http://data.dre.pt/eli/port/187/2009/02/20/p/dre
+- type: cites
+  target: pt:dre:629987:por
+  label: null
+  source: http://data.dre.pt/eli/port/678-a/2009/06/23/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:50:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 120/2011
+
+de 29 de Março
+
+A Portaria n.º 187/2009, de 20 de Fevereiro, na redacção dada pela [Portaria n.º 678-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), de 23 de Junho, e republicada pela Portaria n.º 246/2010, de 3 de Maio, estabeleceu regras para a repartição das quotas de pescada pelas embarcações abrangidas pelas restrições de actividade incluídas no plano de recuperação da pescada branca do Sul e do lagostim e também as normas relativas ao controlo do esforço de pesca.
+
+Os ajustamentos introduzidos na regulamentação da União Europeia aprovada para o ano de 2011, incluindo a actualização do período de referência e a necessidade de simplificar os mecanismos de divulgação da informação relativa à actividade disponível, determinam a revisão de algumas das disposições previstas no acima citado normativo.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 e na alínea g) do n.º 2 do artigo 4.º do [Decreto-Lei n.º 278/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193), de 7 de Julho, na redacção dada pelo [Decreto-Lei n.º 383/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), de 27 de Novembro:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+###### Artigo 1.º — Alteração à Portaria n.º 187/2009, de 20 de Fevereiro
+
+Os artigos 1.º e 2.º da Portaria n.º 187/2009, de 20 de Fevereiro, na redacção dada pela [Portaria n.º 678-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/678-a-2009-629987), de 23 de Junho, e republicada pela Portaria n.º 246/2010, de 3 de Maio, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+Repartição da quota
+
+1 - A quota de pescada branca do Sul atribuída a Portugal pela regulamentação comunitária é distribuída da seguinte forma:
+
+a) 62 % são repartidos, sob a forma de quotas individuais, pelas embarcações que estejam abrangidas por restrições de actividade no âmbito do Plano de Recuperação da Pescada e Lagostim, nos termos da legislação da União Europeia aplicável;
+
+b) 36 % destinam-se a ser capturados pelas restantes embarcações, mantendo os padrões históricos de actividade e limitados a 4,9 t por embarcação, de acordo com a seguinte repartição por zona:
+
+i) 19 % para as embarcações registadas na zona Ocidental Norte, da Capitania de Caminha à Capitania da Figueira da Foz;
+
+ii) 9 % para as embarcações registadas na zona Ocidental Sul, da Capitania da Nazaré à Capitania de Sines;
+
+iii) 8 % para as embarcações registadas na zona Sul, da Capitania de Lagos à Capitania de Vila Real de Santo António;
+
+c) A percentagem remanescente da quota nacional destina-se a acomodar eventuais reduções da mesma por sobre pesca transitada de anos anteriores.
+
+2 - A repartição por embarcação a que se refere a alínea a) do número anterior respeitará a média das capturas de pescada branca do Sul registadas pelas mesmas, tomando por base os dois melhores anos do triénio de 2004 a 2006, ajustada em função do previsto no n.º 5 do presente artigo e no n.º 6 do artigo 2.º, arredondada à centena de quilograma, e constará de lista a aprovar pelo director-geral das Pescas e Aquicultura, a publicitar no sítio www.dgpa.min-agricultura.pt.
+
+3 - ...
+
+4 - ...
+
+5 - As quotas por embarcação a atribuir às embarcações cuja quota em 2010, calculada com base no n.º 2, sejam inferiores a 5 t são ajustadas para este valor e, além disso, as quotas em 2010 cujo valor seja inferior a 20 t são majoradas na percentagem de 4 % da quota a dividir pelo número de embarcações nessa situação.
+
+6 - As embarcações abrangidas por limitações de esforço até ao ano de 2010 e que, para 2011, não estejam abrangidas pela alínea a) do n.º 1, mas que tenham registo de desembarques em 2010 superiores a 5 t, podem continuar a dispor de quota individual, calculada nos termos do n.º 2, devendo solicitá-lo à DGPA no prazo de 10 dias após a publicação da presente portaria, ficando, nesse caso, abrangidas pelo regime de controlo do esforço previstos no artigo 4.º da presente portaria.
+
+7 - Nesse caso, a percentagem prevista nas alíneas a) e b) do presente artigo é ajustada em função do histórico de capturas.
+
+Artigo 2.º
+
+Transferência de quota
+
+1 - Sem prejuízo do disposto nos n.os 3 a 5, é admitida a transferência de quotas ou parte de quotas entre as embarcações a que se refere a alínea a) do n.º 1 do artigo 1.º, constantes da lista aí prevista, e a cedência de quotas a favor das embarcações do n.º 6 do artigo 1.º mas não destas para as primeiras.
+
+2 - A transferência de quotas tem de ser previamente comunicada à Direcção-Geral das Pescas e Aquicultura (DGPA), em documento subscrito pelos proprietários/armadores das embarcações envolvidas ou pelas respectivas associações ou organizações de produtores, devidamente mandatadas para esse efeito, sob pena de ineficácia.
+
+3 - A transferência de quotas referidas no número anterior só pode efectivar-se entre 1 de Maio e 10 de Dezembro de cada ano, sendo ineficaz se efectuada em qualquer outro período.
+
+4 - Em caso de retirada definitiva da frota de pesca de embarcação incluída na lista referida no n.º 2 do artigo 1.º, a respectiva quota é objecto de redistribuição, no ano seguinte, por despacho do director-geral das Pescas e Aquicultura, respeitando a proporcionalidade prevista nas alíneas a) e b) do n.º 1 do artigo 1.º
+
+5 - (Anterior n.º 7.)
+
+6 - (Anterior n.º 8.)»
+
+###### Artigo 2.º — Disposição transitória
+
+1 - Os dias de pesca utilizados desde 1 de Fevereiro de 2011 até à entrada em vigor da presente portaria são contabilizados no período de gestão que se iniciou naquela data.
+
+2 - As quantidades capturadas e desembarcadas desde 1 de Janeiro de 2011 até à entrada em vigor do presente diploma serão contabilizadas na quota relativa a 2011.
+
+3 - Caso, à data de entrada em vigor da presente portaria, alguma embarcação já tenha ultrapassado a quota individual atribuída, fica imediatamente proibida de pescar pescada branca do Sul, aplicando-se-lhe o disposto no n.º 3 do seu artigo 5.º
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 22 de Março de 2011.

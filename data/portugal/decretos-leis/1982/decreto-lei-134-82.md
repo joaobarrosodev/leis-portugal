@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:606552:por
+title: Decreto-Lei n.º 134/82
+short_title: null
+summary: Dá nova redacção ao artigo 11.º do Decreto-Lei n.º 487/80, de 17 de Outubro (delegação de poderes do conselho de
+  gestão do Gabinete da Área de Sines)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Planeamento
+proposing_entity: null
+official_number: 134/82
+official_date: null
+publication_date: '1982-04-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 94/1982, Série I de 1982-04-23
+  number: '94'
+  series: I
+  supplement: null
+  pages: 985 - 985
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09400/09850985.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '606552'
+  dre_path: /dr/detalhe/decreto-lei/134-1982-606552
+  internal: pt:dre:606552:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1982-606552
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1982-606552
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:42:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 95a6df1d95e6705388fd00d4be9d4998731b2bee1a56925d55a2e60cfe0849da
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:42:03Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gabinete da Área de Sines
+- Orgânica
+- Sines
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:462587:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:42:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 134/82
+
+de 23 de Abril
+
+1. Ao abrigo do disposto no n.º 2 do artigo 23.º do [Decreto-Lei n.º 487/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1980-462587), de 17 de Outubro, foram já criados no Gabinete da Área de Sines o Departamento de Projecto Portuário (DPP), o Departamento de Projecto do Centro Urbano (DPCU) e o Departamento de Projecto do Saneamento Básico (DPSB).
+
+2. Os referidos departamentos, concebidos como serviços de missão e para áreas de trabalho temporário, destinam-se à execução de empreendimentos a cargo do Gabinete da Área de Sines e ao acompanhamento e fiscalização de outros que serão executados por forma específica, correspondendo, nessa medida, a unidades funcionais que carecem da competência que o conselho de gestão delibere por conveniente cometer-lhes, com vista a assegurar a normal prossecução das suas atribuições.
+
+3. Nos termos do disposto no n.º 4 do artigo 11.º do [Decreto-Lei n.º 487/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1980-462587), de 17 de Outubro, apenas se prevê a possibilidade de o conselho de gestão do Gabinete da Área de Sines cometer a qualquer funcionário dirigente de categoria igual ou superior a chefe de divisão a prática de quaisquer actos da sua competência, pelo que a criação dos departamentos de projecto veio colocar o problema da delegação de competência, sempre que os referidos departamentos não sejam chefiados por funcionários.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo único. O artigo 11.º do [Decreto-Lei n.º 487/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/487-1980-462587), de 17 de Outubro, passa a ter a seguinte redacção:
+
+###### Artigo 1.º — (Competências)
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - O conselho de gestão poderá ainda delegar nos chefes dos departamentos de projecto, em função das respectivas áreas de trabalho, poderes para a prática de actos da sua competência, podendo a competência delegada, com autorização da entidade delegante, ser subdelegada na entidade imediatamente inferior da escala hierárquico-funcional.
+
+6 - (O anterior n.º 5.)
+
+Visto e aprovado em Conselho de Ministros de 16 de Março de 1982. - Francisco José Pereira Pinto Balsemão.
+
+Promulgado em 13 de Abril de 1982.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.

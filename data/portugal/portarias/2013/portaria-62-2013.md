@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:258724:por
+title: Portaria n.º 62/2013
+short_title: null
+summary: Fixa as taxas de terminal devidas pelos serviços prestados pela NAV Portugal, E.P.E., para o ano de 2013
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 62/2013
+official_date: null
+publication_date: '2013-02-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/2013, Série I de 2013-02-12
+  number: '30'
+  series: I
+  supplement: null
+  pages: 778 - 779
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/02/03000/0077800779.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/62/2013/02/12/p/dre/pt/html
+  oj: null
+  dre: '258724'
+  dre_path: /dr/detalhe/portaria/62-2013-258724
+  internal: pt:dre:258724:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-2013-258724
+  metadata_url: https://data.dre.pt/eli/port/62/2013/02/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/62-2013-258724
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:56:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 5e8b91862c579ab95b2ba59ace98501ee7517a343c7e4a1ef977b99fcd8c9266
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:56:17Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeroporto
+- Faro
+- Horta
+- ILHA das Flores
+- Lisboa
+- Madeira.região Autónoma
+- NAV Portugal
+- Navegação Aérea
+- Ponta Delgada
+- Porto
+- Porto Santo
+- Taxa Aeroportuária
+- Tráfego Aéreo
+- Transporte Aéreo
+relationships:
+- type: cites
+  target: celex:32006R1794
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1794/oj
+- type: cites
+  target: celex:32010R1191
+  label: null
+  source: http://data.europa.eu/eli/reg/2010/1191/oj
+- type: repealed_by
+  target: pt:dre:58728916:por
+  label: Revogada, a partir de 05.11.2014, pelo(a) Portaria n.º 221/2014 - Diário da República n.º 213/2014, Série I de 2014-11-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/221-2014-58728916
+  date: '2014-11-04'
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:56:17Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 62/2013
+
+de 12 de fevereiro
+
+Nos termos do artigo 6.º do Regulamento (CE) n.º [1794/2006](https://data.europa.eu/eli/reg/2006/1794/oj?locale=pt), da Comissão, de 6 de dezembro de 2006, que estabelece o regime comum de tarifação dos serviços de navegação aérea, alterado pelo Regulamento (UE) n.º [1191/2010](https://data.europa.eu/eli/reg/2010/1191/oj?locale=pt), da Comissão, de 16 de dezembro de 2010, cuja aplicação se encontra adiada até 31 de dezembro de 2014, "os custos dos serviços, instalações e atividades elegíveis ao abrigo do artigo 5.º devem ser estabelecidos em consonância com as contas referidas no artigo 12.º do regulamento relativo à prestação de serviços relativas ao período de 1 de janeiro a 31 de dezembro".
+
+Em cumprimento do previsto nos artigos 8.º e 15.º do Regulamento (CE) n.º [1794/2006](https://data.europa.eu/eli/reg/2006/1794/oj?locale=pt), da Comissão, de 6 de dezembro de 2006, foi transmitida à Comissão Europeia e ao EUROCONTROL a informação sobre bases de custos, investimentos programados e tráfego previsto, para efeitos da consulta aos utilizadores que se realizou, sob a égide da Comissão Europeia, no dia 23 de novembro de 2012, em Bruxelas, na sede do EUROCONTROL.
+
+Para além disso, o Decreto-Lei n.º 254/2012, de 28 de novembro, prevê, no n.º 2 do artigo 31.º, que, até à publicação de legislação específica, a determinação e fixação de taxas de terminal devidas pelos serviços prestados pela NAV Portugal, E.P.E., é efetuada por portaria do membro do Governo responsável pela área dos transportes, após parecer do Instituto Nacional de Aviação Civil, I. P. (INAC, I.P.).
+
+Encontrando-se em preparação a legislação relativa às taxas de terminal, a presente portaria dá cumprimento à legislação comunitária e nacional supramencionada, e procede à determinação e fixação das taxas de terminal devidas pelos serviços prestados pela NAV Portugal, E.P.E. para o ano de 2013.
+
+Foram ouvidos o INAC, I.P. e os órgãos de Governo próprio das Regiões Autónomas.
+
+Assim, ao abrigo do disposto no artigo 31.º do Decreto-Lei n.º 254/2012, de 28 de novembro, e no uso da competência delegada através do Despacho n.º 10353/2011, publicado na 2.ª Série do Diário da República, n.º 157, de 17 de agosto, manda o Governo, pelo Secretário de Estado das Obras Públicas, Transportes e Comunicações, o seguinte:
+
+###### Artigo 1.º
+
+Regime de tarifação dos serviços de navegação aérea de terminal, prestados pela Navegação Aérea de Portugal - NAV Portugal, E.P.E.
+
+A tarifação dos serviços de navegação aérea de terminal, prestados pela Navegação Aérea de Portugal - NAV Portugal, E.P.E. (NAV, E.P.E.) nos aeroportos de Lisboa, do Porto, de Faro, da Madeira, do Porto Santo, de Santa Maria, de Ponta Delgada, da Horta e das Flores rege-se pelo disposto no Regulamento (CE) n.º [1794/2006](https://data.europa.eu/eli/reg/2006/1794/oj?locale=pt), da Comissão, de 6 de dezembro de 2006, com as especificidades referidas nos artigos seguintes.
+
+###### Artigo 2.º — Taxa unitária de terminal
+
+1 - O quantitativo de taxa unitária de terminal é fixado em (euro) 174,56.
+
+2 - As taxas de terminal devidas pelos serviços de navegação aérea de terminal, prestados nos aeroportos enumerados no artigo anterior, são calculadas utilizando o quantitativo da taxa de terminal fixado no número anterior.
+
+###### Artigo 3.º — Cobrança de taxas de terminal
+
+A cobrança de taxas de terminal é efetuada de acordo com o disposto no Regulamento (CE) n.º [1794/2006](https://data.europa.eu/eli/reg/2006/1794/oj?locale=pt) da Comissão, de 6 de dezembro de 2006.
+
+###### Artigo 4.º — Norma revogatória
+
+É revogada a Portaria n.º 25/2012, de 26 de janeiro.
+
+###### Artigo 5.º — Produção de efeitos
+
+A presente portaria produz efeitos a partir de 1 de janeiro de 2013.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado das Obras Públicas, Transportes e Comunicações, Sérgio Paulo Lopes da Silva Monteiro, em 1 de fevereiro de 2013.

@@ -1,0 +1,254 @@
+---
+schema_version: '1.0'
+id: pt:dre:217729:por
+title: Portaria n.º 19621
+short_title: null
+summary: Uniformiza a estrutura dos comandos navais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Estado-Maior da Armada
+proposing_entity: null
+official_number: '19621'
+official_date: null
+publication_date: '1963-01-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 4/1963, Série I de 1963-01-05
+  number: '4'
+  series: I
+  supplement: null
+  pages: 7 - 9
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/01/00400/00070009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '217729'
+  dre_path: /dr/detalhe/portaria/19621-1963-217729
+  internal: pt:dre:217729:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19621-1963-217729
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19621-1963-217729
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:24:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 459282a90bfc177637ab4078d320f66db2a71f2cf6ee7d8c3398f81dd27c7ec1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:24:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comando Naval
+- Definição de Competências
+- Marinha
+- Normalização
+- Orgânica
+- Reestruturação de Serviços
+relationships:
+- type: amended_by
+  target: pt:dre:473364:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:472488:por
+  label: Alterados os n.ºs 5.º, 6,º e 15.º e acrescentados os n.ºs 14.º-A e 14.º-B pelo(a) Portaria n.º 20526 - Diário do
+    Governo n.º 96/1964, Série I de 1964-04-22
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/20526-1964-472488
+  date: '1964-04-22'
+- type: amended_by
+  target: pt:dre:238817:por
+  label: Aditado o n.º 15.º-A e alterado o n.º 23.º pelo(a) Portaria n.º 21120 - Diário do Governo n.º 43/1965, Série I de
+    1965-02-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/21120-1965-238817
+  date: '1965-02-20'
+- type: cites
+  target: pt:dre:170534:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:341200:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:473364:por
+  label: Revogada pelo(a) Portaria n.º 22021 - Diário do Governo n.º 127/1966, Série I de 1966-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22021-1966-473364
+  date: '1966-05-31'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:24:14Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19621
+
+Considerando a necessidade de uniformizar a estrutura dos comandos navais e de a adaptar ao maior número de meios que lhes têm sido atribuídos no ultramar;
+
+Tendo em conta a conveniência de aplicar essa estrutura, nos seus princípios gerais, aos comandos de defesas marítimas:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+
+1.º Os comandos navais, para o desempenho das tarefas que lhes competem e que estão definidas no [Decreto-Lei n.º 41987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41987-1958-341200), de 3 de Dezembro de 1958, dispõem dos seguintes elementos principais:
+
+a) Estado-maior:
+
+b) Serviços centrais;
+
+c) Centro de comunicações;
+
+d) Centros de contrôle naval de navegação e centros de relatos da navegação;
+
+e) Estações e postos radionavais;
+
+f) Postos de vigilância;
+
+g) Centros de instrução;
+
+h) Centro de recrutamento e instrução;
+
+i) Comandos subordinados, englobando os comandos de defesas marítimas territoriais e os comandos de defesas marítimas de portos;
+
+j) Forças e unidades que lhes forem atribuídas pelo chefe do Estado-Maior da Armada, compreendendo as forças e unidades navais e as unidades de fuzileiros.
+
+2.º O comandante naval é directamente auxiliado por um comandante adjunto, designado por 2.º comandante, que o substitui nos seus impedimentos e no qual delegará as funções que julgar conveniente.
+
+3.º O estado-maior é dirigido por um oficial superior designado por chefe do estado-maior e compreende as três seguintes divisões:
+
+a) Informações;
+
+b) Operações;
+
+c) Logística.
+
+O chefe do estado-maior poderá ser auxiliado no desempenho das suas funções por um subchefe do estado-maior, no qual delegará as tarefas que julgar conveniente.
+
+4.º Os serviços centrais são chefiados por oficiais superiores e a sua acção exerce-se, no respectivo âmbito, em relação a todos os órgãos, forças e unidades do comando.
+
+5.º Os serviços centrais são os seguintes:
+
+a) Pessoal;
+
+b) Artilharia;
+
+c) Armas submarinas;
+
+d) Electrotecnia;
+
+e) Assistência oficinal;
+
+f) Abastecimento;
+
+g) Gerais.
+
+6.º O serviço do pessoal trata de todos os assuntos que respeitam ao pessoal militar e civil, como recrutamento, instrução, movimento, disciplina, bem-estar, assistência religiosa, saúde e educação física.
+
+7.º Aos serviços referidos nas alíneas b), c) e d) do n.º 5.º compete apoiar, no respectivo âmbito técnico, todos os organismos e unidades do comando naval e desempenhar funções análogas às que pela ordenança do serviço naval pertencem aos serviços de igual designação das forças navais, devendo, no que respeita ao serviço de armas submarinas, ser dada especial relevância aos assuntos relativos a defesa de portos. Aos mesmos serviços pertencerão as instalações em terra que lhes respeitam, como paióis, depósitos de material de guerra, carreiras de tiro e outras.
+
+8.º Ao serviço de assistência oficinal compete o apoio oficinal às unidades e outros organismos do comando naval, para o que deverão ser coordenados todos os meios e oficinas disponíveis, incluindo os das unidades navais. Para esse efeito todas as oficinas, com excepção das de electrotecnia, deverão ser incluídas neste serviço. Como regra geral o chefe do serviço de assistência oficinal não deve dirigir directamente qualquer instalação oficinal.
+
+9.º Ao chefe do serviço de assistência oficinal compete, mais, exercer as funções que pela Ordenança do Serviço Naval pertencem aos chefes dos serviços de máquinas das forças navais.
+
+10.º Nos comandos navais que não disponham de recursos oficinais o serviço de assistência oficinal é designado por serviço de máquinas e as respectivas funções são limitadas às indicadas no número anterior.
+
+11.º O serviço de abastecimento tem por finalidades essenciais:
+
+a) Assegurar o abastecimento das unidades e organismos do comando naval, para o que obtém, armazena e distribui todo o material que lhes seja necessário, com excepção do que seja fornecido directamente pelos organismos centrais do Ministério da Marinha;
+
+b) Orientar e coordenar a actuação dos serviços de abastecimento das unidades e outros organismos dos comandos navais.
+
+Para o desempenho das referidas funções o serviço de abastecimento disporá dos necessários depósitos e outras instalações.
+
+12.º A acção do serviço de abastecimento no que respeita a unidades de maior porte poderá ser limitada à indicada na alínea b) do número anterior, pelo menos nos materiais em que tal procedimento seja recomendável.
+
+13.º O chefe do serviço de abastecimento exerce, mais, as funções que pela Ordenança do Serviço Naval competem aos chefes dos serviços de abastecimento das forças navais.
+
+14.º Aos serviços gerais compete tratar de todos os assuntos relativos a infra-estruturas, transportes, limitação de avarias, mergulhadores e outros.
+
+15.º Sempre que os meios de que o comando dispõe não justifiquem a existência de alguns dos serviços referidos nas alíneas a), b), c), d), e) e f) do número 5.º as respectivas actividades pertencerão aos serviços gerais.
+
+16.º A existência dos serviços centrais dos comandos navais não impede as ligações directas entre as direcções de serviços da superintendência dos serviços da Armada e os serviços das unidades navais atribuídas àqueles comandos, na medida em que essas ligações forem vantajosas, devendo, contudo, delas ser dado cabal conhecimento aos chefes dos serviços dos mesmos comandos.
+
+17.º O centro de comunicações funciona na directa dependência do comando, ou, por delegação, na do chefe do estado-maior. O chefe do centro de comunicações, além das funções que lhe pertencem na chefia deste organismo, desempenha também funções análogas às que pela Ordenança do Serviço Naval pertencem aos chefes dos serviços de comunicações de forças navais.
+
+18.º Os centros de contrôle naval de navegação e os de relatos de navegação funcionam integrados nos comandos de defesas marítimas de portos, mas para fins operacionais dependem directamente do comandante naval com jurisdição na área onde estão localizados.
+
+19.º As estações radionavais e postos radionavais ficam na dependência dos comandos de defesas marítimas dos portos, com as seguintes excepções:
+
+a) No continente, continuam na dependência da Direcção do Serviço de Electricidade e Comunicações, ainda que o Comando Naval do Continente os utilize para fins operacionais;
+
+b) Fora do continente, as estações radionavais que funcionam como estações militares principais dependem directamente dos respectivos comandos navais.
+
+20.º Os postos de vigilância ficam subordinados aos comandos de defesas marítimas de portos e podem dispor de guarnição e instalações militares ou funcionar em instalações e com pessoal estranhos à Armada, por acordo com as entidades que sobre eles têm jurisdição. Em ligação com os mesmos postos ou directamente subordinados aos referidos comandos podem ser estabelecidas estações de sinais ou estações de detecção.
+
+21.º Os centros de instrução funcionam de acordo com o disposto no [Decreto n.º 43711](https://diariodarepublica.pt/dr/detalhe/decreto/43711-1961-170534), de 24 de Maio de 1961, e nos diplomas que os criaram ou que regulamentam a sua actividade.
+
+22.º Os centros de recrutamento e instrução apenas funcionam nas províncias ultramarinas e destinam-se a recrutar e a instruir, para o serviço da Armada, os naturais ou residentes nas mesmas províncias.
+
+23.º Os centros de instrução e os centros de recrutamento e instrução funcionam na dependência directa dos comandos navais ou na dos comandos de defesas marítimas de portos.
+
+24.º Os comandantes navais podem manter na sua directa dependência as forças e unidades navais e as unidades de fuzileiros que lhes foram atribuídas pelo chefe do Estado-Maior da Armada ou atribuí-las, por sua vez, aos comandos de defesas marítimas subordinados - territoriais e de portos -, podendo esta atribuição ser limitada ao comando operacional ou ao contrôle operacional.
+
+25.º Na atribuição pelos comandantes navais de forças e unidades a comandos subordinados com sede em território diferente deverão ser adoptadas as medidas necessárias para que do ponto de vista administrativo essa atribuição seja exequível.
+
+26.º Os comandantes navais podem organizar agrupamentos operacionais com as unidades navais que lhes estão atribuídas.
+
+27.º Nas instalações dos comandos navais deverão ser organizados os serviços:
+
+a) De vigilância e polícia, incluindo o pessoal do serviço de dia e os serviços do destacamento e do quartel-mestre;
+
+b) Portuário e de transportes, abrangendo os meios necessários à manutenção das instalações portuárias e as viaturas e embarcações portuárias.
+
+O serviço referido na alínea b) será designado por serviço de transportes quando não houver que atender a instalações portuárias. A acção dos serviços indicados neste número é limitada às instalações para que foram organizados.
+
+28.º Os comandos navais disporão de conselhos administrativos com as atribuições estabelecidas no Regulamento de Administração da Fazenda Naval e cuja composição será fixada por diploma próprio.
+
+29.º A organização estabelecida por esta portaria, que é representada no organograma anexo, é aplicada nos comandos navais na medida em que as suas necessidades e os meios de que dispõem o justifiquem e as respectivas lotações o permitam.
+
+30.º A organização definida nesta portaria para os comandos navais também é aplicável, nas suas linhas gerais, aos comandos de defesas marítimas - territoriais e de portos -, nas condições indicadas no número anterior.
+
+31.º Os estados-maiores dos comandos de defesas marítimas subdividem-se em secções, designadas de maneira idêntica à indicada no n.º 3.º para as divisões dos estados-maiores dos comandos navais.
+
+32.º Nos comandos de defesas marítimas de portos, quando se justifique, poderá ser criado o serviço de redes e barragens.
+
+33.º Quando nos comandos de defesas marítimas integrados em comandos navais sejam organizados os serviços referidos no n.º 5.º desta portaria, estes deverão ser superiormente orientados pelos chefes dos correspondentes serviços dos comandos navais. Para esse fim e por delegação do comandante naval, os referidos chefes deverão inspeccionar com frequência os serviços dos comandos de defesas marítimas subordinados.
+
+Ministério da Marinha, 5 de Janeiro de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1963/01/00400/00070009.pdf)
+
+Ministério da Marinha, 5 de Janeiro de 1963. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

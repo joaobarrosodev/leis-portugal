@@ -1,0 +1,1038 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:148747521:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-148747987",
+ "dre_path": "/dr/detalhe/lei/73-2020-148747521",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-11-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "148708336",
+    "148708337",
+    "148708338",
+    "148708339",
+    "148708340",
+    "148708342",
+    "148708343",
+    "148708344",
+    "148708345",
+    "148708346",
+    "148708347",
+    "148708348",
+    "148708349",
+    "148708350",
+    "148708351",
+    "148708352",
+    "148708353",
+    "148708354",
+    "148708355",
+    "148708356",
+    "148708357",
+    "148708358",
+    "148708359",
+    "148708360",
+    "148708361",
+    "148708362",
+    "148708363",
+    "148708364",
+    "148708365",
+    "148708366",
+    "148708367",
+    "148708368",
+    "148708369",
+    "148708370",
+    "148708371",
+    "148708372",
+    "148708373",
+    "148708374",
+    "148846775",
+    "148846776",
+    "148846777",
+    "148846778",
+    "148846779",
+    "148846780",
+    "148846781",
+    "148846782",
+    "148846783",
+    "148846784",
+    "148846785",
+    "148846786",
+    "148846787",
+    "148846788",
+    "148846789",
+    "148846790",
+    "148846791",
+    "148846792",
+    "148846793",
+    "148846794",
+    "148846795",
+    "148846796",
+    "148846797",
+    "148846798",
+    "148846799",
+    "148846800",
+    "148846801",
+    "148846802",
+    "148846803",
+    "148846804",
+    "148846805",
+    "148846806",
+    "148846807",
+    "148846808",
+    "148846809",
+    "148846810",
+    "148846811",
+    "148846812",
+    "148846813",
+    "148846814",
+    "148846815",
+    "148846816",
+    "148846817",
+    "148846818",
+    "148846819",
+    "148846820",
+    "148846821",
+    "148846822",
+    "148846823",
+    "148846824",
+    "148846825",
+    "148846826",
+    "148846827",
+    "148846828",
+    "148846829",
+    "148846830",
+    "148846831"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151662902:por",
+     "title": "Declaração de Retificação n.º 50/2020",
+     "published": "2020-12-21",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/50-2020-151662902"
+    }
+   ],
+   "changes": [
+    "Retifica Secção III",
+    "Retifica Secção IV",
+    "Retifica Secção V",
+    "Retifica Secção VI"
+   ],
+   "fragments": [
+    "148708336",
+    "148708337",
+    "148708338",
+    "148708339",
+    "148708340",
+    "148708341",
+    "148708342",
+    "148708343",
+    "148708344",
+    "148708345",
+    "148708346",
+    "148708347",
+    "148708348",
+    "148708349",
+    "148708350",
+    "148708351",
+    "148708352",
+    "148708353",
+    "148708354",
+    "148708355",
+    "148708356",
+    "148708357",
+    "148708358",
+    "148708359",
+    "148708360",
+    "148708361",
+    "148708362",
+    "148708363",
+    "148708364",
+    "151653296",
+    "148708366",
+    "151653297",
+    "148708368",
+    "151653298",
+    "148708370",
+    "151653299",
+    "148708372",
+    "148708373",
+    "148708374",
+    "148846775",
+    "148846776",
+    "148846777",
+    "148846778",
+    "148846779",
+    "148846780",
+    "148846781",
+    "148846782",
+    "148846783",
+    "148846784",
+    "148846785",
+    "148846786",
+    "148846787",
+    "148846788",
+    "148846789",
+    "148846790",
+    "148846791",
+    "148846792",
+    "148846793",
+    "148846794",
+    "148846795",
+    "148846796",
+    "148846797",
+    "148846798",
+    "148846799",
+    "148846800",
+    "148846801",
+    "148846802",
+    "148846803",
+    "148846804",
+    "148846805",
+    "148846806",
+    "148846807",
+    "148846808",
+    "148846809",
+    "148846810",
+    "148846811",
+    "148846812",
+    "148846813",
+    "148846814",
+    "148846815",
+    "148846816",
+    "148846817",
+    "148846818",
+    "148846819",
+    "148846820",
+    "148846821",
+    "148846822",
+    "148846823",
+    "148846824",
+    "148846825",
+    "148846826",
+    "148846827",
+    "148846828",
+    "148846829",
+    "148846830",
+    "148846831"
+   ]
+  }
+ ],
+ "fragments": {
+  "148708336": {
+   "fragment_id": "148747988",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 73/2020\n\nde 17 de novembro\n\nSumário: Modifica as regras de nomeação do governador e dos demais membros do conselho de administração do Banco de Portugal, alterando a Lei Orgânica do Banco de Portugal, aprovada em anexo à Lei n.º 5/98, de 31 de janeiro.\n\nModifica as regras de nomeação do governador e dos demais membros do conselho de administração do Banco de Portugal, alterando a Lei Orgânica do Banco de Portugal, aprovada em anexo à Lei n.º 5/98, de 31 de janeiro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "148708337": {
+   "fragment_id": "148747989",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei modifica as regras de nomeação do governador e os demais membros do conselho de administração do Banco de Portugal, procedendo para o efeito à oitava alteração à Lei Orgânica do Banco de Portugal, aprovada pela Lei n.º 5/98, de 31 de janeiro, e alterada pelos Decretos-Leis n.os 118/2001, de 17 de abril, 50/2004, de 10 de março, 39/2007, de 20 de fevereiro, 31-A/2012, de 10 de fevereiro, 142/2013, de 18 de outubro, e pelas Leis n.º 23-A/2015, de 26 de março, e 39/2015, de 25 de maio."
+  },
+  "148708338": {
+   "fragment_id": "148747990",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei Orgânica do Banco de Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei Orgânica do Banco de Portugal\n\nÉ alterado o artigo 27.º da Lei Orgânica do Banco de Portugal, que passa a ter a seguinte redação:\n\n«Artigo 27.º\n\n1 - O governador e os demais membros do conselho de administração são escolhidos de entre pessoas com reconhecida idoneidade, sentido de interesse público, experiência profissional, capacidade de gestão, conhecimento e competência técnica relevantes e adequados ao exercício das respetivas funções.\n\n2 - O governador e os demais membros do conselho de administração são designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área das finanças, após parecer fundamentado da comissão competente da Assembleia da República.\n\n3 - O parecer referido no número anterior é precedido de audição na comissão parlamentar competente, a pedido do Governo.\n\n4 - Com a resolução que procede à designação do governador e dos demais membros do conselho de administração é publicada uma nota relativa ao currículo académico e profissional dos designados e a conclusão do parecer da Assembleia da República.\n\n5 - A designação ou a proposta de designação não pode ocorrer nos seis meses anteriores ao fim da legislatura em curso ou entre a convocação de eleições para a Assembleia da República ou a demissão do Governo e a investidura parlamentar do Governo recém-designado.\n\n6 - A designação dos membros do conselho de administração deve assegurar a representação mínima de 40 % de cada um dos sexos, arredondada, sempre que necessário, à unidade mais próxima.\n\n7 - (Anterior n.º 5.)\n\n8 - Não podem ser designados como governador ou membro do conselho de administração:\n\na) Pessoas que nos três anos anteriores à designação tenham integrado os órgãos sociais, desempenhado quaisquer atividades ou prestado serviços, remunerados ou não, ou detido participações sociais de valor igual ou superior a 2 % do capital social, em entidades sujeitas à supervisão do Banco de Portugal ou em cuja supervisão o Banco de Portugal participe no âmbito do Mecanismo Único de Supervisão, ou em empresas ou grupos de empresas que controlem ou sejam controlados por tais entidades, no referido período ou no momento da designação;\n\nb) Pessoas que nos três anos anteriores à designação tenham integrado os órgãos sociais, desempenhado quaisquer atividades ou prestado serviços, remunerados ou não, ou detido participações sociais de valor igual ou superior a 2 % do capital social, em empresas de auditoria ou de consultadoria no referido período ou no momento da designação.\n\n9 - Os membros do conselho de administração podem voltar a ser designados para o mesmo órgão desde que, entre as datas de cessação e de designação, tenha decorrido o prazo correspondente ao período do exercício efetivo de funções, sem prejuízo do disposto no número seguinte.\n\n10 - No decurso dos respetivos mandatos, os membros do conselho de administração podem ser designados para as funções de governador ou, no caso dos administradores, para as funções de vice-governador, pelo período remanescente do mandato inicial, não podendo, no caso da designação para as funções de governador, este período ser inferior a cinco anos.»"
+  },
+  "148708339": {
+   "fragment_id": "148747991",
+   "type": 11,
+   "heading": "Artigo 3.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Republicação\n\nÉ republicada em anexo à presente lei, da qual faz parte integrante, a Lei Orgânica do Banco de Portugal, na sua redação atual, com as necessárias correções materiais."
+  },
+  "148708340": {
+   "fragment_id": "148747992",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia 1 de janeiro de 2021."
+  },
+  "148708342": {
+   "fragment_id": "148747994",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 3.º)\n\nRepublicação da Lei Orgânica do Banco de Portugal\n\nLei Orgânica do Banco de Portugal"
+  },
+  "148708343": {
+   "fragment_id": "148747995",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, sede e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, sede e atribuições"
+  },
+  "148708344": {
+   "fragment_id": "148747996",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Banco de Portugal, adiante abreviadamente designado por Banco, é uma pessoa coletiva de direito público, dotada de autonomia administrativa e financeira e de património próprio."
+  },
+  "148708345": {
+   "fragment_id": "148747997",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Banco tem a sua sede em Lisboa, podendo ter filiais, sucursais, delegações ou agências noutras localidades, bem como delegações no estrangeiro."
+  },
+  "148708346": {
+   "fragment_id": "148747998",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O Banco, como banco central da República Portuguesa, faz parte integrante do Sistema Europeu de Bancos Centrais, adiante abreviadamente designado por SEBC.\n\n2 - O Banco prossegue os objetivos e participa no desempenho das atribuições cometidas ao SEBC e está sujeito ao disposto nos Estatutos do Sistema Europeu de Bancos Centrais e do Banco Central Europeu, adiante designados por Estatutos do SEBC/BCE, atuando em conformidade com as orientações e instruções que o Banco Central Europeu, adiante abreviadamente designado por BCE, lhe dirija ao abrigo dos mesmos Estatutos."
+  },
+  "148708347": {
+   "fragment_id": "148747999",
+   "type": 1,
+   "heading": "Capítulo II — Capital, reservas e provisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital, reservas e provisões"
+  },
+  "148708348": {
+   "fragment_id": "148748000",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O Banco dispõe de um capital de (euro) 1000000, que pode ser aumentado, designadamente, por incorporação de reservas, deliberada pelo conselho de administração.\n\n2 - A deliberação do aumento de capital deve ser autorizada pelo Ministro das Finanças."
+  },
+  "148708349": {
+   "fragment_id": "148748001",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O Banco tem uma reserva sem limite máximo, constituída por transferência de 10 % do resultado de cada exercício, apurado nos termos do artigo 53.º\n\n2 - Além da reserva referida no número anterior, pode o conselho de administração criar outras reservas e provisões, designadamente para cobrir riscos de depreciação ou prejuízos a que determinadas espécies de valores ou operações estejam particularmente sujeitas."
+  },
+  "148708350": {
+   "fragment_id": "148748002",
+   "type": 1,
+   "heading": "Capítulo III — Emissão monetária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Emissão monetária"
+  },
+  "148708351": {
+   "fragment_id": "148748003",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Nos termos do artigo 106.º do Tratado que institui a Comunidade Europeia, o Banco emite notas com curso legal e poder liberatório.\n\n2 - O Banco põe em circulação as moedas metálicas, incluindo as comemorativas.\n\n3 - As moedas metálicas são postas em circulação por intermédio e sob requisição do Banco."
+  },
+  "148708352": {
+   "fragment_id": "148748004",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O Banco procederá à apreensão de todas as notas que lhe sejam apresentadas suspeitas de contrafação ou de falsificação ou alteração do valor facial, lavrando auto do qual conste a identificação das notas e do portador, bem como os fundamentos da suspeita.\n\n2 - O auto referido no número anterior será remetido à Polícia Judiciária, para efeito do respetivo procedimento.\n\n3 - O Banco pode recorrer diretamente a qualquer autoridade, ou agente desta, para os fins previstos neste artigo."
+  },
+  "148708353": {
+   "fragment_id": "148748005",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - As notas e moedas metálicas expressas em euros e em moeda estrangeira cuja falsidade seja manifesta ou haja motivo bastante para ser presumida, quando apresentadas a instituições de crédito ou sociedades financeiras no âmbito da respetiva atividade, designadamente para efeitos de câmbio, devem ser retidas e sem demora enviadas às autoridades para tanto designadas em instruções do Banco de Portugal e com observância do mais que por este for determinado.\n\n2 - O disposto no número anterior é aplicável a outras entidades habilitadas a realizar operações de câmbio manual de moeda."
+  },
+  "148708354": {
+   "fragment_id": "148748006",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - A reprodução de notas expressas em euros, total ou parcial, e qualquer que seja o processo técnico utilizado, bem como a distribuição dessas reproduções, ainda que limitada a pessoas determinadas, só podem efetuar-se nos casos, termos e condições expressamente estabelecidos pelo Banco Central Europeu.\n\n2 - Tratando-se de notas expressas em escudos, a reprodução e distribuição a que alude o número anterior só podem efetuar-se nos termos genérica ou casuisticamente permitidos pelo Banco de Portugal.\n\n3 - É proibida a simples feitura ou detenção de chapas, matrizes, programas informáticos ou outros meios técnicos que permitam a reprodução de notas em contravenção ao disposto neste artigo."
+  },
+  "148708355": {
+   "fragment_id": "148748007",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Constituem contraordenações, quando não integrem infração criminal:\n\na) A infração ao disposto no n.º 1 do artigo 8.º, correspondendo-lhe coima de (euro) 1500 a (euro) 3500 ou de (euro) 3000 a (euro) 35000, consoante o agente seja pessoa singular ou pessoa coletiva;\n\nb) A infração ao disposto no n.º 2 do artigo 8.º, correspondendo-lhe coima de (euro) 1000 a (euro) 3000 ou de (euro) 2500 a (euro) 25000, consoante o agente seja pessoa singular ou pessoa coletiva;\n\nc) A inobservância do disposto nos n.os 1 a 3 do artigo 9.º, que é punida com coima de (euro) 2000 a (euro) 3500 ou de (euro) 3000 a (euro) 30000, consoante o agente seja pessoa singular ou pessoa coletiva.\n\n2 - Sendo as contraordenações definidas no presente artigo cometidas por pessoa singular no âmbito de trabalho subordinado, como membro de órgão de uma pessoa coletiva ou como representante legal ou voluntário de outrem, a entidade patronal, a pessoa coletiva ou o representado podem ser cumulativamente responsabilizados como infratores.\n\n3 - A tentativa e a negligência são puníveis.\n\n4 - Compete ao Banco o processamento das contraordenações previstas neste artigo, bem como a aplicação das correspondentes sanções.\n\n5 - É subsidiariamente aplicável o regime geral das contraordenações."
+  },
+  "148708356": {
+   "fragment_id": "148748008",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nComo sanção acessória das contraordenações previstas no artigo anterior, nos termos do regime referido no n.º 5 do mesmo artigo, o Banco de Portugal pode apreender e destruir as reproduções, chapas, matrizes, hologramas, programas informáticos e os demais meios técnicos, instrumentos e objetos mencionados no artigo 9.º"
+  },
+  "148708357": {
+   "fragment_id": "148748009",
+   "type": 1,
+   "heading": "Capítulo IV — Funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Funções"
+  },
+  "148708358": {
+   "fragment_id": "148748010",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "148708359": {
+   "fragment_id": "148748011",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nCompete especialmente ao Banco, sem prejuízo dos condicionalismos decorrentes da sua participação no SEBC:\n\na) Gerir as disponibilidades externas do País ou outras que lhe estejam cometidas;\n\nb) Agir como intermediário nas relações monetárias internacionais do Estado;\n\nc) Velar pela estabilidade do sistema financeiro nacional, assegurando com essa finalidade, designadamente, as funções de refinanciador de última instância e de autoridade macroprudencial nacional;\n\nd) Participar no sistema europeu de prevenção e mitigação de riscos para a estabilidade financeira e em outras instâncias que prossigam a mesma finalidade;\n\ne) Aconselhar o Governo nos domínios económico e financeiro, no âmbito das suas atribuições."
+  },
+  "148708360": {
+   "fragment_id": "148748012",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Compete ao Banco a recolha e elaboração das estatísticas monetárias, financeiras, cambiais e da balança de pagamentos, designadamente no âmbito da sua colaboração com o BCE.\n\n2 - O Banco pode exigir a qualquer entidade, pública ou privada, que lhe sejam fornecidas diretamente as informações necessárias para cumprimento do estabelecido no número anterior ou por motivos relacionados com as suas atribuições."
+  },
+  "148708361": {
+   "fragment_id": "148748013",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nCompete ao Banco regular, fiscalizar e promover o bom funcionamento dos sistemas de pagamentos, designadamente no âmbito da sua participação no SEBC."
+  },
+  "148708362": {
+   "fragment_id": "148748014",
+   "type": 8,
+   "heading": "Secção II — Política monetária e cambial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Política monetária e cambial"
+  },
+  "148708363": {
+   "fragment_id": "148748015",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nNo âmbito da sua participação no SEBC, compete ao Banco a orientação e fiscalização dos mercados monetário e cambial."
+  },
+  "148708364": {
+   "fragment_id": "148748016",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - Para orientar e fiscalizar os mercados monetário e cambial, cabe ao Banco, de acordo com as normas adaptadas pelo BCE:\n\na) Adotar providências genéricas ou intervir, sempre que necessário, para garantir os objetivos da política monetária e cambial, em particular no que se refere ao comportamento das taxas de juro e de câmbio;\n\nb) Receber as reservas de caixa das instituições a elas sujeitas e colaborar na execução de outros métodos operacionais de controlo monetário a que o BCE decida recorrer;\n\nc) Estabelecer os condicionalismos a que devem estar sujeitas as disponibilidades e as responsabilidades sobre o exterior que podem ser detidas ou assumidas pelas instituições autorizadas a exercer o comércio de câmbios.\n\n2 - Sem prejuízo das sanções legalmente previstas, o Banco poderá adotar as medidas que se mostrem necessárias à prevenção ou cessação de atuações contrárias ao que for determinado nos termos do número anterior e, bem assim, à correção dos efeitos produzidos por tais atuações."
+  },
+  "148708365": {
+   "fragment_id": "148748017",
+   "type": 8,
+   "heading": "Secção III — Exercício da supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Exercício da supervisão"
+  },
+  "148708366": {
+   "fragment_id": "148748018",
+   "type": 11,
+   "heading": "Artigo 16.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º-A\n\n1 - Enquanto autoridade macroprudencial nacional, compete ao Banco de Portugal definir e executar a política macroprudencial, designadamente identificar, acompanhar e avaliar riscos sistémicos, bem como propor e adotar medidas de prevenção, mitigação ou redução desses riscos, com vista a reforçar a resiliência do setor financeiro.\n\n2 - O Banco de Portugal pode emitir determinações, alertas e recomendações dirigidas às autoridades e entidades públicas ou privadas tendentes à consecução dos objetivos previstos no número anterior, nos termos da legislação aplicável.\n\n3 - Para efeitos do exercício das atribuições previstas no presente artigo, o Banco de Portugal estabelece mecanismos de cooperação com as demais autoridades públicas e com os outros supervisores financeiros, nos termos da legislação aplicável."
+  },
+  "148708367": {
+   "fragment_id": "148748019",
+   "type": 8,
+   "heading": "Secção IV — Relações entre o Estado e o Banco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Relações entre o Estado e o Banco"
+  },
+  "148708368": {
+   "fragment_id": "148748020",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - Compete ao Banco de Portugal exercer a supervisão das instituições de crédito, sociedades financeiras e outras entidades que lhe estejam legalmente sujeitas, nomeadamente estabelecendo diretivas para a sua atuação e para assegurar os serviços de centralização de riscos de crédito, bem como aplicando-lhes medidas de intervenção preventiva e corretiva, nos termos da legislação que rege a supervisão financeira.\n\n2 - Compete ainda ao Banco de Portugal participar, no quadro do Mecanismo Único de Supervisão, na definição de princípios, normas e procedimentos de supervisão prudencial de instituições de crédito, bem como exercer essa supervisão nos termos e com as especificidades previstas na legislação aplicável."
+  },
+  "148708369": {
+   "fragment_id": "148748021",
+   "type": 8,
+   "heading": "Secção V — Relações monetárias internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Relações monetárias internacionais"
+  },
+  "148708370": {
+   "fragment_id": "148748022",
+   "type": 11,
+   "heading": "Artigo 17.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º-A\n\n1 - Compete ao Banco de Portugal desempenhar as funções de autoridade de resolução nacional, incluindo, entre outros poderes previstos na legislação aplicável, os de elaborar planos de resolução, aplicar medidas de resolução e determinar a eliminação de potenciais obstáculos à aplicação de tais medidas, nos termos e com os limites previstos na legislação aplicável.\n\n2 - O desempenho das funções previstas no número anterior é exercido de forma operacionalmente independente das funções de supervisão e das demais funções desempenhadas pelo Banco de Portugal."
+  },
+  "148708371": {
+   "fragment_id": "148748023",
+   "type": 8,
+   "heading": "Secção VI — Operações do Banco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Operações do Banco"
+  },
+  "148708372": {
+   "fragment_id": "148748024",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - É vedado ao Banco conceder descobertos ou qualquer outra forma de crédito ao Estado e serviços ou organismos dele dependentes, a outras pessoas coletivas de direito público e a empresas públicas ou quaisquer entidades sobre as quais o Estado, as Regiões Autónomas ou as autarquias locais possam exercer, direta ou indiretamente, influência dominante.\n\n2 - Fica igualmente vedado ao Banco garantir quaisquer obrigações do Estado ou de outras entidades referidas no número anterior, bem como a compra direta de títulos de dívida emitidos pelo Estado ou pelas mesmas entidades."
+  },
+  "148708373": {
+   "fragment_id": "148748025",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO disposto no artigo anterior não se aplica:\n\na) A quaisquer instituições de crédito e sociedades financeiras, ainda que de capital público, as quais beneficiarão de tratamento idêntico ao da generalidade das mesmas instituições e sociedades;\n\nb) Ao financiamento das obrigações contraídas pelo Estado perante o Fundo Monetário Internacional;\n\nc) À detenção, por parte do Banco, de moeda metálica emitida pelo Estado e inscrita a crédito deste, na parte em que o seu montante não exceda 10 % da moeda metálica em circulação."
+  },
+  "148708374": {
+   "fragment_id": "148748026",
+   "type": 8,
+   "heading": "Secção VII — Relações monetárias internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Relações monetárias internacionais"
+  },
+  "148846775": {
+   "fragment_id": "148748027",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO Banco de Portugal é a autoridade cambial da República Portuguesa."
+  },
+  "148846776": {
+   "fragment_id": "148748028",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nComo autoridade cambial, compete, em especial, ao Banco:\n\na) Autorizar e fiscalizar os pagamentos externos que, nos termos do Tratado que Institui a Comunidade Europeia, disso careçam;\n\nb) Definir os princípios reguladores das operações sobre ouro e divisas."
+  },
+  "148846777": {
+   "fragment_id": "148748029",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - O Banco pode celebrar, em nome próprio ou em nome do Estado e por conta e ordem deste, com estabelecimentos congéneres, públicos ou privados, domiciliados no estrangeiro, acordos de compensação e pagamentos ou quaisquer contratos que sirvam as mesmas finalidades.\n\n2 - Tendo em vista a gestão das disponibilidades sobre o exterior, o Banco pode redescontar títulos da sua carteira, dar valores em garantia e realizar no exterior outras operações adequadas."
+  },
+  "148846778": {
+   "fragment_id": "148748030",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nCom o acordo do BCE, o Banco pode participar no capital de instituições monetárias internacionais e fazer parte dos respetivos órgãos sociais."
+  },
+  "148846779": {
+   "fragment_id": "148748031",
+   "type": 8,
+   "heading": "Secção VIII — Operações do Banco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Operações do Banco"
+  },
+  "148846780": {
+   "fragment_id": "148748032",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - A fim de alcançar os objetivos e de desempenhar as atribuições do SEBC, o Banco pode efetuar as operações que se justifiquem na sua qualidade de banco central e, nomeadamente, as seguintes:\n\na) Redescontar e descontar letras, livranças, extratos de fatura, warrants e outros títulos de crédito de natureza análoga;\n\nb) Comprar e vender títulos da dívida pública em mercado secundário, sem prejuízo do disposto no n.º 2 do artigo 18.º;\n\nc) Conceder empréstimos ou abrir crédito em conta corrente às instituições de crédito e sociedades financeiras, nas modalidades que considerar aconselháveis e sendo estas operações devidamente caucionadas;\n\nd) Aceitar, do Estado, depósitos à vista;\n\ne) Aceitar depósitos, à vista ou a prazo, das instituições de crédito, sociedades financeiras e outras instituições financeiras;\n\nf) Aceitar depósitos de títulos, do Estado, pertencentes às instituições referidas na alínea anterior;\n\ng) Efetuar todas as operações sobre ouro e divisas;\n\nh) Emitir títulos ou realizar operações de reporte de títulos, com o objetivo de intervir no mercado monetário;\n\ni) Efetuar outras operações bancárias que não sejam expressamente proibidas nesta lei orgânica.\n\n2 - O Banco pode, nas modalidades que considerar aconselháveis, abonar juros por depósitos à vista ou a prazo, nomeadamente nos seguintes casos:\n\na) Operações previstas nas alíneas d) e e) do número anterior;\n\nb) Depósito obrigatório de reservas de caixa das instituições de crédito, sociedades financeiras e outras instituições sujeitas à sua supervisão;\n\nc) Operações com instituições estrangeiras ou internacionais, no âmbito da cooperação internacional de carácter monetário, financeiro e cambial;\n\nd) Reciprocidade prevista em acordos ou contratos bilaterais celebrados pelo Estado ou pelo Banco;\n\ne) Expressa estipulação em acordos multilaterais de compensação e pagamentos."
+  },
+  "148846781": {
+   "fragment_id": "148748033",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nÉ, nomeadamente, vedado ao Banco:\n\na) Redescontar, no País, títulos de crédito da sua carteira comercial, representativos de operações realizadas nos termos da alínea a) do n.º 1 do artigo 24.º;\n\nb) Conceder crédito a descoberto ou com garantias prestadas em termos que contrariem o estabelecido na presente lei orgânica;\n\nc) Promover a criação de instituições de crédito, de sociedades financeiras ou de quaisquer outras sociedades, bem como participar no respetivo capital, salvo quando previsto na presente lei orgânica ou em lei especial ou por motivo de reembolso de créditos, mas nunca como sócio de responsabilidade ilimitada;\n\nd) Ser proprietário de imóveis além dos necessários ao desempenho das suas atribuições ou à prossecução de fins de natureza social, salvo por efeito de cessão de bens, dação em cumprimento, arrematação ou outro meio legal de cumprimento das obrigações ou destinado a assegurar esse cumprimento, devendo proceder, nestes casos, à respetiva alienação logo que possível."
+  },
+  "148846782": {
+   "fragment_id": "148748034",
+   "type": 1,
+   "heading": "Capítulo V — Órgãos do Banco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Órgãos do Banco"
+  },
+  "148846783": {
+   "fragment_id": "148748035",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "148846784": {
+   "fragment_id": "148748036",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nSão órgãos do Banco o governador, o conselho de administração, o conselho de auditoria e o conselho consultivo."
+  },
+  "148846785": {
+   "fragment_id": "148748037",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1 - O governador e os demais membros do conselho de administração são escolhidos de entre pessoas com reconhecida idoneidade, sentido de interesse público, aptidão, experiência profissional, capacidade de gestão, conhecimento e competência técnica relevantes e adequados ao exercício das respetivas funções.\n\n2 - O governador e os demais membros do conselho de administração são designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área das finanças, após parecer fundamentado da comissão competente da Assembleia da República.\n\n3 - O parecer referido no número anterior é precedido de audição na comissão parlamentar competente, a pedido do Governo.\n\n4 - Com a resolução que procede à designação do governador e dos demais membros do conselho de administração é publicada uma nota relativa ao currículo académico e profissional dos designados e a conclusão do parecer da Assembleia da República.\n\n5 - A designação ou a proposta de designação não pode ocorrer nos seis meses anteriores ao fim da legislatura em curso ou entre a convocação de eleições para a Assembleia da República ou a demissão do Governo e a investidura parlamentar do Governo recém-designado.\n\n6 - A designação dos membros do conselho de administração deve assegurar a representação mínima de 40 % de cada um dos sexos, arredondada, sempre que necessário, à unidade mais próxima.\n\n7 - O governador e os demais membros do conselho de administração gozam de independência nos termos dos Estatutos do Sistema Europeu de Bancos Centrais e do Banco Central Europeu (SEBC/BCE), não podendo solicitar ou receber instruções das instituições comunitárias, dos órgãos de soberania ou de quaisquer outras instituições.\n\n8 - Não podem ser designados como governador ou membro do conselho de administração:\n\na) Pessoas que nos três anos anteriores à designação tenham integrado os órgãos sociais, desempenhado quaisquer atividades ou prestado serviços, remunerados ou não, ou detido participações sociais de valor igual ou superior a 2 % do capital social, em entidades sujeitas à supervisão do Banco de Portugal ou em cuja supervisão o Banco de Portugal participe no âmbito do Mecanismo Único de Supervisão, ou em empresas ou grupos de empresas que controlem ou sejam controlados por tais entidades, no referido período ou no momento da designação;\n\nb) Pessoas que nos três anos anteriores à designação tenham integrado os órgãos sociais, desempenhado quaisquer atividades ou prestado serviços, remunerados ou não, ou detido participações sociais de valor igual ou superior a 2 % do capital social, em empresas de auditoria ou de consultadoria no referido período ou no momento da designação.\n\n9 - Os membros do conselho de administração podem voltar a ser designados para o mesmo órgão desde que, entre as datas de cessação e de designação, tenha decorrido o prazo correspondente ao período do exercício efetivo de funções, sem prejuízo do disposto no número seguinte.\n\n10 - No decurso dos respetivos mandatos, os membros do conselho de administração podem ser designados para as funções de governador ou, no caso dos administradores, para as funções de vice-governador, pelo período remanescente do mandato inicial, não podendo, no caso da designação para as funções de governador, este período ser inferior a cinco anos."
+  },
+  "148846786": {
+   "fragment_id": "148748038",
+   "type": 8,
+   "heading": "Secção II — Governador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Governador"
+  },
+  "148846787": {
+   "fragment_id": "148748039",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1 - Compete ao governador:\n\na) Exercer as funções de membro do conselho e do conselho geral do BCE, nos termos do disposto no Tratado que Institui a Comunidade Europeia e nos Estatutos do SEBC/BCE;\n\nb) Representar o Banco;\n\nc) Atuar em nome do Banco junto de instituições estrangeiras ou internacionais;\n\nd) Superintender na coordenação e dinamização da atividade do conselho de administração e convocar as respetivas reuniões;\n\ne) Presidir a quaisquer reuniões de comissões emanadas do conselho de administração;\n\nf) Rubricar os livros gerais, podendo fazê-lo por chancela;\n\ng) Exercer as demais competências que lhe estejam legalmente cometidas.\n\n2 - O governador, em ata do conselho de administração, pode, nos termos do n.º 2 do artigo 34.º, delegar nos vice-governadores ou em administradores parte da sua competência, bem como designar de entre eles quem possa substituí-lo no exercício das funções referidas na alínea a) do número anterior."
+  },
+  "148846788": {
+   "fragment_id": "148748040",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nAos vice-governadores cabe, em geral, coadjuvar o governador e, nomeadamente, exercer as funções que por este lhes forem delegadas, sem prejuízo das demais competências que lhes estejam legalmente cometidas."
+  },
+  "148846789": {
+   "fragment_id": "148748041",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1 - Se estiverem em risco interesses sérios do País ou do Banco e não for possível reunir o conselho de administração, por motivo imperioso de urgência, por falta de quórum ou por qualquer outro motivo justificado, o governador tem competência própria para a prática de todos os atos necessários à prossecução dos fins cometidos ao Banco e que caibam na competência daquele conselho.\n\n2 - Perante terceiros, incluindo notários, conservadores de registos e outros titulares da função pública, a assinatura do governador, com invocação do previsto no número anterior, constitui presunção da impossibilidade de reunião do conselho de administração."
+  },
+  "148846790": {
+   "fragment_id": "148748042",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1 - O governador será substituído, nas suas faltas ou impedimentos, pelo modo e ordem seguintes:\n\na) Pelo vice-governador mais antigo ou, em igualdade de circunstâncias, pelo mais velho;\n\nb) Pelo administrador mais antigo ou, em igualdade de circunstâncias, pelo mais velho.\n\n2 - A regra de substituição estabelecida no número anterior aplica-se aos casos de vacatura do cargo.\n\n3 - Perante terceiros, incluindo notários, conservadores de registos e outros titulares da função pública, a assinatura de um vice-governador ou de administrador, com invocação do previsto nos números anteriores, constitui presunção da pressuposta falta, impedimento ou vacatura."
+  },
+  "148846791": {
+   "fragment_id": "148748043",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1 - O governador tem voto de qualidade nas reuniões a que preside.\n\n2 - Exigem o voto favorável do governador as deliberações do conselho de administração ou de comissões executivas que, no parecer fundamentado do mesmo governador, possam afetar a sua autonomia de decisão enquanto membro do conselho e do conselho geral do BCE ou o cumprimento das obrigações do Banco enquanto parte integrante do SEBC."
+  },
+  "148846792": {
+   "fragment_id": "148748044",
+   "type": 8,
+   "heading": "Secção III — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho de administração"
+  },
+  "148846793": {
+   "fragment_id": "148748045",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1 - O conselho de administração é composto pelo governador, que preside, por um ou dois vice-governadores e por três a cinco administradores.\n\n2 - Os membros do conselho de administração exercem os respetivos cargos por um prazo de cinco anos, renovável por uma vez e por igual período mediante resolução do Conselho de Ministros.\n\n3 - Os membros do conselho de administração são inamovíveis, só podendo ser exonerados dos seus cargos caso se verifique alguma das circunstâncias previstas no n.º 2 do artigo 14.º dos Estatutos do SEBC/BCE.\n\n4 - A exoneração a que se refere o número anterior é realizada por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças.\n\n5 - Contra a resolução do Conselho de Ministros que o exonere, dispõe o governador do direito de recurso previsto no n.º 2 do artigo 14.º dos Estatutos do SEBC/BCE.\n\n6 - O exercício de funções dos membros do conselho de administração cessa ainda por termo do mandato, por incapacidade permanente, por renúncia ou por incompatibilidade."
+  },
+  "148846794": {
+   "fragment_id": "148748046",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1 - Compete ao conselho de administração a prática de todos os atos necessários à prossecução dos fins cometidos ao Banco e que não sejam abrangidos pela competência exclusiva de outros órgãos.\n\n2 - O conselho de administração pode delegar, por ata, poderes em um ou mais dos seus membros ou em trabalhadores do Banco e autorizar que se proceda à subdelegação desses poderes, estabelecendo, em cada caso, os respetivos limites e condições."
+  },
+  "148846795": {
+   "fragment_id": "148748047",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1 - O conselho de administração, sob proposta do governador, atribui aos seus membros pelouros correspondentes a um ou mais serviços do Banco.\n\n2 - A atribuição de um pelouro envolve delegação de poderes, com limites e em condições fixados no ato de atribuição.\n\n3 - A distribuição de pelouros não dispensa o dever, que a todos os membros do conselho de administração incumbe, de acompanhar e tomar conhecimento da generalidade dos assuntos do Banco e de propor providências relativas a qualquer deles."
+  },
+  "148846796": {
+   "fragment_id": "148748048",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1 - O conselho de administração reúne:\n\na) Ordinariamente, pelo menos uma vez por semana, salvo deliberação em contrário proposta pelo governador e aceite por unanimidade dos membros em exercício;\n\nb) Extraordinariamente, sempre que seja convocado pelo governador.\n\n2 - Para o conselho deliberar validamente é indispensável a presença da maioria absoluta dos membros em exercício.\n\n3 - Para efeito do disposto nos números anteriores, não são considerados em exercício os membros do conselho impedidos por motivo de serviço fora da sede ou por motivo de doença.\n\n4 - As deliberações do conselho são tomadas por maioria de votos dos membros presentes, não sendo permitidas abstenções."
+  },
+  "148846797": {
+   "fragment_id": "148748049",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1 - O conselho de administração pode criar as comissões executivas, permanentes ou eventuais, consideradas necessárias para a descentralização e bom andamento dos serviços.\n\n2 - O conselho de administração pode delegar nas comissões executivas parte dos poderes que lhe são conferidos."
+  },
+  "148846798": {
+   "fragment_id": "148748050",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1 - Nas atas do conselho de administração e das comissões executivas mencionam-se, sumariamente mas com clareza, todos os assuntos tratados nas respetivas reuniões.\n\n2 - As atas são assinadas por todos os membros do conselho de administração ou das comissões executivas que participaram na reunião e subscritas por quem a secretariou.\n\n3 - Os participantes na reunião podem ditar para a ata a súmula das suas intervenções, sendo-lhes ainda facultado votar «vencido» quanto às deliberações de que discordem."
+  },
+  "148846799": {
+   "fragment_id": "148748051",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nDos atos praticados pelo governador, vice-governadores, conselho de administração e demais órgãos do Banco, ou por delegação sua, no exercício de funções públicas de autoridade, cabem os meios de recurso ou ação previstos na legislação própria do contencioso administrativo, incluindo os destinados a obter a declaração de ilegalidade de normas regulamentares."
+  },
+  "148846800": {
+   "fragment_id": "148748052",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nOs membros do conselho de administração:\n\na) Têm direito à retribuição que for estabelecida anualmente por uma comissão de vencimentos composta pelo Ministro das Finanças ou um seu representante, que preside, pelo presidente do conselho de auditoria e por um antigo governador, designado para o efeito pelo conselho consultivo, não podendo a retribuição integrar qualquer componente variável;\n\nb) Gozam dos benefícios sociais atribuídos aos trabalhadores do Banco, nos termos que venham a ser concretizados pela comissão de vencimentos, salvo os relativos a benefícios decorrentes de planos complementares de reforma, aposentação, invalidez ou sobrevivência;\n\nc) Beneficiam do regime de proteção social de que gozavam à data da respetiva nomeação ou, na sua ausência, do regime geral da segurança social."
+  },
+  "148846801": {
+   "fragment_id": "148748053",
+   "type": 8,
+   "heading": "Secção IV — Conselho de auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho de auditoria"
+  },
+  "148846802": {
+   "fragment_id": "148748054",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1 - O conselho de auditoria é composto por três membros designados pelo Ministro das Finanças.\n\n2 - Dos membros designados, um será presidente, com voto de qualidade, outro será um revisor oficial de contas e o terceiro será uma personalidade de reconhecida competência em matéria económica."
+  },
+  "148846803": {
+   "fragment_id": "148748055",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1 - Os membros do conselho de auditoria exercem as suas funções por um prazo de três anos, renovável por uma vez e por igual período mediante decisão do Ministro das Finanças, nos termos do n.º 1 do artigo anterior.\n\n2 - As funções de membro do conselho de auditoria são acumuláveis com outras funções profissionais que se não mostrem incompatíveis."
+  },
+  "148846804": {
+   "fragment_id": "148748056",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1 - Compete ao conselho de auditoria:\n\na) Acompanhar o funcionamento do Banco e o cumprimento das leis e regulamentos que lhe são aplicáveis;\n\nb) Examinar as situações periódicas apresentadas pelo conselho de administração durante a sua gerência;\n\nc) Emitir parecer acerca do orçamento, do balanço e das contas anuais de gerência;\n\nd) Examinar a escrituração, as casas-fortes e os cofres do Banco, sempre que o julgar conveniente, com sujeição às inerentes regras de segurança;\n\ne) Chamar a atenção do governador ou do conselho de administração para qualquer assunto que entenda dever ser ponderado e pronunciar-se sobre qualquer matéria que lhe seja submetida por aqueles órgãos.\n\n2 - O conselho de auditoria pode ser apoiado por serviços ou técnicos do Banco de sua escolha."
+  },
+  "148846805": {
+   "fragment_id": "148748057",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1 - O conselho de auditoria reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que seja convocado pelo presidente.\n\n2 - Para o conselho de auditoria deliberar validamente é indispensável a presença da maioria absoluta dos membros em exercício.\n\n3 - As deliberações do conselho de auditoria são tomadas por maioria de votos dos membros presentes, não sendo permitidas abstenções.\n\n4 - Aplica-se às atas do conselho de auditoria o regime do artigo 38.º\n\n5 - Os membros do conselho de auditoria têm direito a remuneração mensal, fixada pelo Ministro das Finanças, a qual não pode integrar qualquer componente variável."
+  },
+  "148846806": {
+   "fragment_id": "148748058",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nOs membros do conselho de auditoria podem participar, sem direito a voto, nas reuniões do conselho de administração, sendo obrigatória, nas reuniões ordinárias, a presença de um deles, por escala."
+  },
+  "148846807": {
+   "fragment_id": "148748059",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nSem prejuízo da competência do conselho de auditoria, as contas do Banco são também fiscalizadas por auditores externos, nos termos do disposto no n.º 1 do artigo 27.º dos Estatutos do SEBC/BCE."
+  },
+  "148846808": {
+   "fragment_id": "148748060",
+   "type": 8,
+   "heading": "Secção V — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Conselho consultivo"
+  },
+  "148846809": {
+   "fragment_id": "148748061",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1 - O conselho consultivo é composto pelo governador do Banco, que preside, e pelos seguintes membros:\n\na) Os vice-governadores;\n\nb) Os antigos governadores;\n\nc) Quatro personalidades de reconhecida competência em matérias económico-financeiras e empresariais;\n\nd) O presidente da Associação Portuguesa de Bancos;\n\ne) O presidente do Instituto de Gestão do Crédito Público;\n\nf) Um representante de cada uma das Regiões Autónomas dos Açores e da Madeira, a designar pelos respetivos órgãos de governo próprio;\n\ng) O presidente do conselho de auditoria do Banco.\n\n2 - Os vogais mencionados na alínea c) são designados por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças, pelo prazo de três anos, renovável por uma vez e por igual período.\n\n3 - O exercício dos cargos dos membros do conselho consultivo não é remunerado, sem prejuízo do pagamento de ajudas de custo e de senhas de presença.\n\n4 - Sempre que o considere conveniente, o presidente do conselho consultivo pode convidar a fazerem-se representar nas respetivas reuniões determinadas entidades ou setores de atividade, bem como sugerir ao Governo a presença de elementos das entidades ou dos serviços públicos com competência nas matérias a apreciar, em qualquer caso sem direito a voto."
+  },
+  "148846810": {
+   "fragment_id": "148748062",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nCompete ao conselho consultivo pronunciar-se, não vinculativamente, sobre:\n\na) O relatório anual da atividade do Banco, antes da sua apresentação;\n\nb) A atuação do Banco decorrente das funções que lhe estão cometidas;\n\nc) Os assuntos que lhe forem submetidos pelo governador ou pelo conselho de administração."
+  },
+  "148846811": {
+   "fragment_id": "148748063",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nO conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, sempre que for convocado pelo governador."
+  },
+  "148846812": {
+   "fragment_id": "148748064",
+   "type": 1,
+   "heading": "Capítulo VI — Organização dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Organização dos serviços"
+  },
+  "148846813": {
+   "fragment_id": "148748065",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nO conselho de administração decide da orgânica e do modo de funcionamento dos serviços e elabora os regulamentos internos necessários."
+  },
+  "148846814": {
+   "fragment_id": "148748066",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nCompete às filiais, sucursais, delegações e agências, sob a direção, fiscalização e superintendência do conselho de administração, o desempenho, nas respetivas áreas, das funções que lhes forem cometidas."
+  },
+  "148846815": {
+   "fragment_id": "148748067",
+   "type": 1,
+   "heading": "Capítulo VII — Orçamento e contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Orçamento e contas"
+  },
+  "148846816": {
+   "fragment_id": "148748068",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\n1 - Será elaborado anualmente um orçamento de exploração.\n\n2 - O orçamento de cada ano será comunicado ao Ministro das Finanças até 30 de novembro do ano anterior."
+  },
+  "148846817": {
+   "fragment_id": "148748069",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1 - O resultado do exercício é apurado deduzindo-se ao total de proveitos e outros lucros imputáveis ao exercício as verbas correspondentes aos custos a seguir indicados:\n\na) Custos operacionais e administrativos anuais;\n\nb) Dotações anuais para constituição ou reforço de provisões destinadas à cobertura de riscos de depreciação de ativos ou à ocorrência de outras eventualidades a que se julgue necessário prover, bem como de uma reserva especial relativa aos ganhos em operações de alienação de ouro, nos termos definidos pelo conselho de administração;\n\nc) Eventuais dotações especiais para o Fundo de Pensões;\n\nd) Perdas e custos extraordinários.\n\n2 - O resultado do exercício, apurado nos termos do número anterior, é distribuído da forma seguinte:\n\na) 10 % para a reserva legal;\n\nb) 10 % para outras reservas que o conselho de administração delibere;\n\nc) O remanescente para o Estado, a título de dividendos, ou para outras reservas, mediante aprovação do Ministro das Finanças, sob proposta do conselho de administração."
+  },
+  "148846818": {
+   "fragment_id": "148748070",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\n1 - Até 31 de março, e com referência ao último dia do ano anterior, o Banco envia ao Ministro das Finanças, para aprovação, o relatório, o balanço e as contas anuais de gerência, depois de discutidos e apreciados pelo conselho de administração e com o parecer do conselho de auditoria.\n\n2 - Na falta de despacho do Ministro das Finanças, o relatório, o balanço e as contas consideram-se aprovados decorridos 30 dias após a data do seu recebimento.\n\n3 - A publicação do relatório, balanço e contas é feita no Diário da República no prazo de 30 dias após a sua aprovação.\n\n4 - Na sequência da apresentação do relatório, balanço e contas anuais de gerência, o governador informará a Assembleia da República, através da Comissão Permanente de Economia, Finanças e Plano, sobre a situação e orientações relativas à política monetária e cambial.\n\n5 - O Banco não está sujeito ao regime financeiro dos serviços e fundos autónomos da Administração Pública.\n\n6 - O Banco não está sujeito à fiscalização prévia do Tribunal de Contas nem à fiscalização sucessiva no que diz respeito às matérias relativas à sua participação no desempenho das atribuições cometidas ao SEBC.\n\n7 - O disposto no número anterior é aplicável aos fundos que funcionam junto do Banco ou em cuja administração ele participe."
+  },
+  "148846819": {
+   "fragment_id": "148748071",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\nO Banco publica mensalmente, e nos termos da alínea b) do n.º 3 do artigo 59.º, uma sinopse resumida do seu ativo e passivo."
+  },
+  "148846820": {
+   "fragment_id": "148748072",
+   "type": 1,
+   "heading": "Capítulo VIII — Trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Trabalhadores"
+  },
+  "148846821": {
+   "fragment_id": "148748073",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n1 - Os trabalhadores do Banco estão sujeitos às normas do regime jurídico do contrato individual de trabalho.\n\n2 - O Banco pode celebrar instrumentos de regulamentação coletiva de trabalho, nos termos da lei geral, sendo para o efeito considerados como seus representantes legítimos os membros do conselho de administração ou os detentores de mandato escrito de que expressamente constem poderes para contratar.\n\n3 - Os trabalhadores do Banco gozam do regime de segurança social e dos outros benefícios sociais que decorrem dos instrumentos de regulamentação coletiva de trabalho do setor bancário."
+  },
+  "148846822": {
+   "fragment_id": "148748074",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\n1 - O conselho de administração, tendo em atenção a natureza específica das funções cometidas ao Banco, definirá a política de pessoal, após audição dos órgãos institucionais de representação dos trabalhadores.\n\n2 - Compete ao conselho organizar os instrumentos adequados à correta execução e divulgação da política de pessoal, definida nos termos do número anterior."
+  },
+  "148846823": {
+   "fragment_id": "148846875",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\n1 - No âmbito das ações de natureza social do Banco, existe um fundo social com consignação de verbas que o conselho de administração delibere atribuir-lhe, de forma a assegurar o preenchimento das respetivas finalidades.\n\n2 - O fundo social é regido por regulamento aprovado pelo conselho de administração e é gerido por uma comissão nomeada pelo mesmo conselho, com poderes delegados para o efeito, e que incluirá representantes da comissão de trabalhadores do Banco."
+  },
+  "148846824": {
+   "fragment_id": "148846876",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições gerais e transitórias"
+  },
+  "148846825": {
+   "fragment_id": "148846877",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\n1 - O Banco obriga-se pela assinatura do governador ou de dois outros membros do conselho de administração e de quem estiver legitimado nos termos do n.º 2 do artigo 28.º, dos n.os 1 e 2 do artigo 31.º ou do n.º 2 do artigo 34.º\n\n2 - Os avisos do Banco de Portugal são assinados pelo governador e publicados na 2.ª série do Diário da República.\n\n3 - Compete ao Banco editar um boletim oficial, onde serão publicados:\n\na) As instruções do Banco;\n\nb) Outros atos que por lei devam ser publicados."
+  },
+  "148846826": {
+   "fragment_id": "148846878",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nOs membros do conselho de administração, do conselho de auditoria, do conselho consultivo e, bem assim, todos os trabalhadores do Banco estão sujeitos, nos termos legais, ao dever de segredo."
+  },
+  "148846827": {
+   "fragment_id": "148846879",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\n1 - Salvo quando em representação do Banco ou dos seus trabalhadores, é vedado aos membros do conselho de administração e aos demais trabalhadores fazer parte dos corpos sociais de outra instituição de crédito, sociedade financeira ou qualquer outra entidade sujeita à supervisão do Banco ou nestas exercer quaisquer funções.\n\n2 - Sem prejuízo de outras incompatibilidades ou impedimentos legalmente previstos, não podem os membros do conselho de administração exercer quaisquer funções remuneradas fora do Banco, salvo o exercício de funções docentes no ensino superior, desde que autorizado pelo Ministro das Finanças e não cause prejuízo ao exercício das suas funções, ou ser membros dos corpos sociais de qualquer sociedade, a menos que o façam em representação de interesses do Banco e devidamente autorizados pelo conselho de administração."
+  },
+  "148846828": {
+   "fragment_id": "148846880",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nSem prejuízo do disposto no artigo 39.º, compete aos tribunais judiciais o julgamento de todos os litígios em que o Banco seja parte, incluindo as ações para efetivação da responsabilidade civil por atos dos seus órgãos, bem como a apreciação da responsabilidade civil dos titulares desses órgãos para com o Banco."
+  },
+  "148846829": {
+   "fragment_id": "148846881",
+   "type": 11,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\n1 - O plano de contas do Banco é aprovado pelo Ministro das Finanças, sob proposta do conselho de administração, ouvido o conselho de auditoria.\n\n2 - O Decreto-Lei n.º 23/93, de 27 de janeiro, mantém-se em vigor até à data da aprovação referida no número anterior."
+  },
+  "148846830": {
+   "fragment_id": "148846882",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\n1 - Em tudo o que não esteja previsto na presente lei e nos regulamentos adotados em sua execução, o Banco, salvo o disposto no número seguinte, rege-se pelas normas da legislação reguladora da atividade das instituições de crédito, quando aplicáveis, e pelas demais normas e princípios de direito de privado, bem como, no que se refere aos membros dos órgãos de administração, pelo Estatuto do Gestor Público.\n\n2 - No exercício de poderes públicos de autoridade, são aplicáveis ao Banco as disposições do Código do Procedimento Administrativo e quaisquer outras normas e princípios de âmbito geral respeitantes aos atos administrativos do Estado.\n\n3 - Aos procedimentos de aquisição e alienação de bens e serviços do Banco é aplicável o regime das entidades públicas empresariais.\n\n4 - O Banco está sujeito a registo comercial nos termos gerais, com as adaptações que se revelem necessárias."
+  },
+  "148846831": {
+   "fragment_id": "148846883",
+   "type": 11,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\nMantêm-se em vigor até 28 de fevereiro de 2002, data a partir da qual se considerarão revogados, os artigos 6.º a 9.º da Lei Orgânica do Banco de Portugal, com a redação do Decreto-Lei n.º 337/90, de 30 de outubro, sem prejuízo da competência exclusiva do BCE para autorizar a emissão.\n\n113728734"
+  },
+  "148708341": {
+   "fragment_id": "148747993",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 2 de outubro de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 10 de novembro de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 11 de novembro de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "151653296": {
+   "fragment_id": "148748017",
+   "type": 8,
+   "heading": "Secção III — Política macroprudencial",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 50/2020 - Diário da República n.º 246/2020, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/50-2020-151662902), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "#### Secção III — Política macroprudencial\n\n> Retificado pelo/a [Declaração de Retificação n.º 50/2020 - Diário da República n.º 246/2020, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/50-2020-151662902), em vigor a partir de 2021-01-01"
+  },
+  "151653297": {
+   "fragment_id": "148748019",
+   "type": 8,
+   "heading": "Secção IV — Supervisão",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 50/2020 - Diário da República n.º 246/2020, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/50-2020-151662902), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "#### Secção IV — Supervisão\n\n> Retificado pelo/a [Declaração de Retificação n.º 50/2020 - Diário da República n.º 246/2020, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/50-2020-151662902), em vigor a partir de 2021-01-01"
+  },
+  "151653298": {
+   "fragment_id": "148748021",
+   "type": 8,
+   "heading": "Secção V — Resolução",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 50/2020 - Diário da República n.º 246/2020, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/50-2020-151662902), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "#### Secção V — Resolução\n\n> Retificado pelo/a [Declaração de Retificação n.º 50/2020 - Diário da República n.º 246/2020, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/50-2020-151662902), em vigor a partir de 2021-01-01"
+  },
+  "151653299": {
+   "fragment_id": "148748023",
+   "type": 8,
+   "heading": "Secção VI — Relações entre o Estado e o Banco",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 50/2020 - Diário da República n.º 246/2020, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/50-2020-151662902), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "#### Secção VI — Relações entre o Estado e o Banco\n\n> Retificado pelo/a [Declaração de Retificação n.º 50/2020 - Diário da República n.º 246/2020, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/50-2020-151662902), em vigor a partir de 2021-01-01"
+  }
+ }
+}

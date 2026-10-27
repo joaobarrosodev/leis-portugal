@@ -1,0 +1,329 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32015R1368:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02015R1368-20230101",
+ "dre_path": null,
+ "source_lastmod": "2023-01-01",
+ "versions": [
+  {
+   "date": "2021-02-18",
+   "future": false,
+   "celex": "02015R1368-20210218",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8d340a48de3df02b",
+    "f6c2eb219fe1b284",
+    "95110ef01b194c22",
+    "6d5b57dd40548499",
+    "31af4f47e3f95dcd",
+    "8a6992ea3c104fd1",
+    "e6f71fd973632fa6",
+    "a7f427db176ac4c2",
+    "7f44384752a7f44e",
+    "ada0c13c5265e107",
+    "3ffd4e0b69d54978",
+    "a3b195c08c38f795",
+    "ae4288433154b032",
+    "1999f71eeb92762b",
+    "6cc3b57c1b453c93",
+    "ff6904c681745704",
+    "bcc3dc043fca3a4f",
+    "005011e15e8bec4b",
+    "ba538fa7b6eb44e8",
+    "5a427aab4b087b83",
+    "07ded634dd2fdd0a",
+    "52fe4274b82ad364",
+    "8bee53e9cd4add66",
+    "c2a98fc7ffa23995",
+    "47858455157b62ca",
+    "0c65172c61da7e3e",
+    "2c6935535aac6cc3",
+    "91f579936ad05696",
+    "9a1aa03e83051379"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "celex": "02015R1368-20230101",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO 1",
+    "Suprime DISPOSIÇÕES INTRODUTÓRIAS",
+    "Suprime Artigo 1.º — Objeto",
+    "Suprime Artigo 2.º — Ano apícola",
+    "Suprime CAPÍTULO 2",
+    "Suprime PROGRAMAS APÍCOLAS",
+    "Suprime Artigo 3.º — Notificação dos programas apícolas",
+    "Suprime Artigo 4.º — Conteúdo dos programas apícolas",
+    "Suprime Artigo 5.º — Aprovação dos programas apícolas",
+    "Suprime Artigo 6.º — Alterações dos programas apícolas",
+    "Suprime CAPÍTULO 3",
+    "Suprime CONTRIBUIÇÃO DA UNIÃO",
+    "Suprime Artigo 7.º — Elegibilidade das despesas e pagamentos",
+    "Suprime CAPÍTULO 4",
+    "Suprime ACOMPANHAMENTO E CONTROLOS",
+    "Suprime Artigo 8.º — Controlos",
+    "Suprime Artigo 9.º — Pagamentos indevidos e sanções",
+    "Suprime CAPÍTULO 5",
+    "Suprime REGRAS RELATIVAS ÀS NOTIFICAÇÕES E PUBLICAÇÃO",
+    "Suprime Artigo 10.º — Relatório anual de execução",
+    "Suprime Artigo 11.º — Data da notificação do número de colmeias",
+    "Suprime Artigo 12.º — Regras aplicáveis às notificações",
+    "Suprime Artigo 13.º — Publicação de dados agregados",
+    "Suprime CAPÍTULO 6",
+    "Suprime DISPOSIÇÃO FINAL",
+    "Suprime Artigo 14.º — Entrada em vigor",
+    "Suprime ANEXO",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "31f1a7c1aae0534c"
+   ]
+  }
+ ],
+ "fragments": {
+  "8d340a48de3df02b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de agosto de 2015\n\nque estabelece as regras de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere às ajudas no setor da apicultura"
+  },
+  "f6c2eb219fe1b284": {
+   "fragment_id": "CAPÍTULO 1",
+   "type": "divisao",
+   "heading": "CAPÍTULO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 1"
+  },
+  "95110ef01b194c22": {
+   "fragment_id": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES INTRODUTÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES INTRODUTÓRIAS"
+  },
+  "6d5b57dd40548499": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece as regras de execução que regem as ajudas da União para os programas nacionais para o setor da apicultura referidos no artigo 55.º do Regulamento (UE) n.º 1308/2013 («programas apícolas»)."
+  },
+  "31af4f47e3f95dcd": {
+   "fragment_id": "Artigo 2.º — Ano apícola",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Ano apícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ano apícola\n\nPara efeitos dos programas apícolas, entende-se por «ano apícola» o período de 12 meses consecutivos, de 1 de agosto a 31 de julho."
+  },
+  "8a6992ea3c104fd1": {
+   "fragment_id": "CAPÍTULO 2",
+   "type": "divisao",
+   "heading": "CAPÍTULO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 2"
+  },
+  "e6f71fd973632fa6": {
+   "fragment_id": "PROGRAMAS APÍCOLAS",
+   "type": "divisao",
+   "heading": "PROGRAMAS APÍCOLAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROGRAMAS APÍCOLAS"
+  },
+  "a7f427db176ac4c2": {
+   "fragment_id": "Artigo 3.º — Notificação dos programas apícolas",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Notificação dos programas apícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Notificação dos programas apícolas\n\nCada Estado-Membro deve notificar à Comissão a sua proposta de programa apícola único para todo o seu território, o mais tardar no dia 15 de março que precede o início do primeiro ano apícola do programa.\n\nAté 15 de março de 2021, os Estados-Membros devem notificar à Comissão a alteração dos seus programas nacionais em conformidade com o artigo 55.º, n.º 1, segundo parágrafo, do Regulamento (UE) n.º 1308/2013. Esta alteração deve ter em conta o aumento da contribuição da União a partir de 2021."
+  },
+  "7f44384752a7f44e": {
+   "fragment_id": "Artigo 4.º — Conteúdo dos programas apícolas",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Conteúdo dos programas apícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conteúdo dos programas apícolas\n\nOs programas apícolas devem incluir os elementos enumerados no anexo."
+  },
+  "ada0c13c5265e107": {
+   "fragment_id": "Artigo 5.º — Aprovação dos programas apícolas",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Aprovação dos programas apícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aprovação dos programas apícolas\n\n1. Os programas apícolas são aprovados pela Comissão em conformidade com o artigo 57.º, primeiro parágrafo, alínea c), do Regulamento (UE) n.º 1308/2013, o mais tardar no dia 15 de junho que precede o início do primeiro ano apícola do programa apícola em questão.\n\nAs alterações dos programas apícolas em conformidade com o artigo 3.º, segundo parágrafo, são aprovadas pela Comissão, nos termos do artigo 57.º, primeiro parágrafo, alínea c), do Regulamento (UE) n.º 1308/2013, até 15 de junho de 2021.\n\n2. Os programas apícolas aprovados devem ser postos à disposição do público pela Comissão no seu sítio Web."
+  },
+  "3ffd4e0b69d54978": {
+   "fragment_id": "Artigo 6.º — Alterações dos programas apícolas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Alterações dos programas apícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alterações dos programas apícolas\n\n1. Sem prejuízo do disposto no n.º 2, os Estados-Membros podem alterar medidas incluídas nos seus programas apícolas durante o ano apícola mediante, por exemplo, a introdução ou retirada de medidas ou tipos de ações, a introdução de alterações na descrição das medidas ou nas condições de elegibilidade ou a transferência de fundos entre medidas do programa, desde que essas medidas continuem a respeitar o disposto no artigo 55.º, n.º 4, do Regulamento (UE) n.º 1308/2013.\n\nOs limites financeiros de cada medida podem ser alterados, desde que o limite total das previsões de despesas anuais não seja excedido e a contribuição da União para os programas apícolas permaneça equivalente a 50 % das despesas suportadas pelos Estados-Membros para esses programas, tal como aprovadas.\n\n2. Os pedidos de alterações dos programas apícolas que impliquem a introdução de uma nova medida ou a retirada de uma medida devem ser notificados à Comissão pelos Estados-Membros e aprovados pela Comissão antes da sua execução.\n\n3.\n\nOs pedidos referidos no n.º 2 são aprovados pela Comissão em conformidade com o seguinte procedimento:\n\na) as organizações representativas que colaboraram com o Estado-Membro na elaboração dos programas apícolas são consultadas;\n\nb) a alteração é considerada aprovada se a Comissão não tiver formulado observações sobre o pedido após um período de 21 dias úteis a contar da receção do mesmo. Se a Comissão tiver formulado observações, a alteração é considerada aprovada assim que o Estado-Membro for informado pela Comissão de que foi dado pleno seguimento às observações."
+  },
+  "a3b195c08c38f795": {
+   "fragment_id": "CAPÍTULO 3",
+   "type": "divisao",
+   "heading": "CAPÍTULO 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 3"
+  },
+  "ae4288433154b032": {
+   "fragment_id": "CONTRIBUIÇÃO DA UNIÃO",
+   "type": "divisao",
+   "heading": "CONTRIBUIÇÃO DA UNIÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTRIBUIÇÃO DA UNIÃO"
+  },
+  "1999f71eeb92762b": {
+   "fragment_id": "Artigo 7.º — Elegibilidade das despesas e pagamentos",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Elegibilidade das despesas e pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade das despesas e pagamentos\n\nSó são elegíveis para uma contribuição da União as despesas efetuadas com a execução das medidas incluídas no programa apícola do Estado-Membro.\n\nOs pagamentos, efetuados pelos Estados-Membros aos beneficiários, relativos às medidas executadas durante cada ano apícola devem ser efetuados durante o período de doze meses com início em 16 de outubro desse ano apícola e termo em 15 de outubro do ano seguinte.\n\nEm derrogação do segundo parágrafo, os pagamentos relativos às medidas executadas de 1 de agosto de 2022 a 31 de dezembro de 2022 devem ser efetuados entre 16 de outubro de 2022 e 15 de outubro de 2023."
+  },
+  "6cc3b57c1b453c93": {
+   "fragment_id": "CAPÍTULO 4",
+   "type": "divisao",
+   "heading": "CAPÍTULO 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 4"
+  },
+  "ff6904c681745704": {
+   "fragment_id": "ACOMPANHAMENTO E CONTROLOS",
+   "type": "divisao",
+   "heading": "ACOMPANHAMENTO E CONTROLOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ACOMPANHAMENTO E CONTROLOS"
+  },
+  "bcc3dc043fca3a4f": {
+   "fragment_id": "Artigo 8.º — Controlos",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Controlos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlos\n\n1. Os Estados-Membros devem realizar controlos para verificar se as condições de concessão do financiamento da União são cumpridas. Esses controlos devem consistir em controlos administrativos e no local e respeitar os princípios gerais estabelecidos no artigo 59.º do Regulamento (UE) n.º 1306/2013.\n\n2.\n\nNo que diz respeito aos controlos no local, os Estados-Membros devem exigir a verificação dos seguintes aspetos:\n\na) a correta aplicação das medidas incluídas nos programas apícolas, especialmente no que se refere às medidas de investimento e serviços;\n\nb) as despesas efetivamente realizadas, que devem ser equivalentes ao apoio financeiro pedido;\n\nc) caso seja relevante, a coerência entre o número de colmeias declarado e o número de colmeias que se constate que o requerente mantém, tendo em conta os dados suplementares fornecidos pelo apicultor sobre a sua atividade durante o ano apícola em causa.\n\n3. Os Estados-Membros devem assegurar que pelo menos 5 % dos requerentes de ajuda no âmbito dos seus programas apícolas são sujeitos a controlos no local.\n\nAs amostras para realização dos controlos devem ser colhidas no conjunto da população de requerentes e devem incluir:\n\na) um conjunto de requerentes selecionados aleatoriamente, a fim de obter uma taxa de erro representativa;\n\nb) um conjunto de requerentes selecionados com base numa análise de risco, de acordo com os seguintes critérios:\n\ni) montante do financiamento concedido aos beneficiários,\n\nii) natureza das ações financiadas ao abrigo das medidas apícolas,\n\niii) conclusões dos controlos no local precedentes,\n\niv) outros critérios a definir pelos Estados-Membros."
+  },
+  "005011e15e8bec4b": {
+   "fragment_id": "Artigo 9.º — Pagamentos indevidos e sanções",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Pagamentos indevidos e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamentos indevidos e sanções\n\n1. Os juros acrescidos ao montante dos pagamentos indevidos recuperados em conformidade com o artigo 54.º, n.º 1, o artigo 58.º, n.º 1, alínea e), ou o artigo 63.º, n.º 3, do Regulamento (UE) n.º 1306/2013 devem ser calculados em conformidade com o artigo 27.º do Regulamento de Execução (UE) n.º 908/2014.\n\n2. Em caso de fraude ou negligência grave pela qual sejam responsáveis, os beneficiários devem, além de reembolsar os pagamentos indevidos recebidos e os respetivos juros em conformidade com o artigo 63.º, n.º 3, do Regulamento (UE) n.º 1306/2013, pagar um montante igual à diferença entre o montante inicialmente pago e o montante a que têm direito."
+  },
+  "ba538fa7b6eb44e8": {
+   "fragment_id": "CAPÍTULO 5",
+   "type": "divisao",
+   "heading": "CAPÍTULO 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 5"
+  },
+  "5a427aab4b087b83": {
+   "fragment_id": "REGRAS RELATIVAS ÀS NOTIFICAÇÕES E PUBLICAÇÃO",
+   "type": "divisao",
+   "heading": "REGRAS RELATIVAS ÀS NOTIFICAÇÕES E PUBLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REGRAS RELATIVAS ÀS NOTIFICAÇÕES E PUBLICAÇÃO"
+  },
+  "07ded634dd2fdd0a": {
+   "fragment_id": "Artigo 10.º — Relatório anual de execução",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Relatório anual de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Relatório anual de execução\n\n1. Até 15 de março de cada ano, com início em 2018, os Estados-Membros participantes devem notificar à Comissão um relatório anual de execução sobre a aplicação do seu programa apícola durante o ano apícola precedente.\n\n2.\n\nO relatório anual de execução deve conter os seguintes elementos:\n\na) uma síntese das despesas efetuadas, em euros, durante o ano apícola, discriminadas por medida;\n\nb) os resultados com base nos indicadores de desempenho selecionados para cada medida executada."
+  },
+  "52fe4274b82ad364": {
+   "fragment_id": "Artigo 11.º — Data da notificação do número de colmeias",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Data da notificação do número de colmeias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Data da notificação do número de colmeias\n\nA notificação referida no artigo 3.º do Regulamento Delegado (UE) 2015/1366 deve ser efetuada até 15 de março de cada ano, com início em 2017."
+  },
+  "8bee53e9cd4add66": {
+   "fragment_id": "Artigo 12.º — Regras aplicáveis às notificações",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Regras aplicáveis às notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regras aplicáveis às notificações\n\nAs notificações referidas nos artigos 3.º, 6.º, 10.º e 11.º do presente regulamento devem ser efetuadas em conformidade com o Regulamento (CE) n.º 792/2009 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/aa1dd5ad-868b-11eb-ac4c-01aa75ed71a1.0019.02/DOC_1#E0001))."
+  },
+  "c2a98fc7ffa23995": {
+   "fragment_id": "Artigo 13.º — Publicação de dados agregados",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Publicação de dados agregados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Publicação de dados agregados\n\nA Comissão coloca à disposição do público, no seu sítio *web*, dados agregados sobre o seguinte:\n\na) o número de colmeias notificado em conformidade com o artigo 11.º;\n\nb) os relatórios anuais de execução notificados em conformidade com o artigo 10.º;\n\nc) O estudo sobre a estrutura de produção e comercialização no setor da apicultura, conforme referido no ponto 3 do anexo, incluído no programa apícola notificado em conformidade com o artigo 3.º."
+  },
+  "47858455157b62ca": {
+   "fragment_id": "CAPÍTULO 6",
+   "type": "divisao",
+   "heading": "CAPÍTULO 6",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO 6"
+  },
+  "0c65172c61da7e3e": {
+   "fragment_id": "DISPOSIÇÃO FINAL",
+   "type": "divisao",
+   "heading": "DISPOSIÇÃO FINAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÃO FINAL"
+  },
+  "2c6935535aac6cc3": {
+   "fragment_id": "Artigo 14.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "91f579936ad05696": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nOs programas apícolas devem incluir pelo menos os seguintes elementos:\n\n1) Uma avaliação dos resultados obtidos até à data durante a execução do programa apícola precedente, caso tal programa estivesse em vigor. A partir dos programas apícolas de 2020-2022, essa avaliação deve basear-se nos dois últimos relatórios anuais de execução do programa anterior, conforme referidos no artigo 10.º.\n\n2) Uma descrição do método utilizado para determinar o número de colmeias em conformidade com o artigo 2.º do Regulamento Delegado (UE) 2015/1366.\n\n3) Um estudo realizado pelo Estado-Membro sobre a estrutura de produção e comercialização no setor da apicultura no seu território. O estudo deve fornecer, pelo menos, as seguintes informações, que abranjam os últimos dois anos civis que precedem a notificação do programa apícola para aprovação:\n\ni) o número de apicultores,\n\nii) o número de apicultores que gerem mais de 150 colmeias,\n\niii) o número total de colmeias geridas por apicultores com mais de 150 colmeias,\n\niv) o número de apicultores organizados em associações de apicultores,\n\nv) a produção nacional anual de mel, em kg, nos últimos dois anos civis que precedem a notificação do programa apícola para aprovação,\n\nvi) a gama de preços para o mel multifloral no local de produção,\n\nvii) a gama de preços para o mel multifloral a granel nos grossistas,\n\nviii) o rendimento médio estimado em kg de mel por colmeia e por ano,\n\nix) o custo de produção médio estimado (fixo e variável) por kg de mel produzido,\n\nx) o número de colmeias determinado nos últimos dois anos civis que precedem a notificação do programa apícola para aprovação, no caso dos Estados-Membros que não dispunham de um programa apícola no período de três anos precedente.\n\n4) Uma avaliação das necessidades do setor da apicultura no Estado-Membro com base, pelo menos, na avaliação dos resultados do programa apícola precedente caso este tenha existido, um estudo sobre a estrutura de produção e comercialização no setor da apicultura, bem como os resultados da cooperação com as organizações representativas no setor da apicultura.\n\n5) Uma descrição dos objetivos do programa apícola e a relação entre esses objetivos e as medidas apícolas selecionadas na lista constante do artigo 55.º, n.º 4, do Regulamento (UE) n.º 1308/2013.\n\n6) Uma descrição pormenorizada das ações que serão efetuadas ao abrigo das medidas apícolas selecionadas na lista constante do artigo 55.º, n.º 4, do Regulamento (UE) n.º 1308/2013, incluindo os custos estimados e um plano de financiamento discriminados por ano e por medida.\n\n7) Os critérios estabelecidos pelos Estados-Membros para assegurar que não haja duplo financiamento dos programas apícolas em conformidade com o artigo 5.º do Regulamento Delegado (UE) 2015/1366.\n\n8) Os indicadores de desempenho utilizados para cada medida apícola selecionada. Os Estados-Membros devem selecionar pelo menos um indicador de desempenho relevante por medida.\n\n9) As disposições de execução do programa apícola, incluindo:\n\ni) a designação pelo Estado-Membro de um ponto de contacto responsável pela gestão dos programas apícolas,\n\nii) uma descrição do procedimento para os controlos de acompanhamento,\n\niii) uma descrição das ações a empreender em caso de pagamentos indevidos aos beneficiários, incluindo as sanções,\n\niv) as disposições para assegurar que o programa aprovado é divulgado no Estado-Membro,\n\nv) as ações empreendidas para cooperar com as organizações representativas no setor da apicultura,\n\nvi) uma descrição do método utilizado para avaliar os resultados das medidas do programa apícola para o setor da apicultura do Estado-Membro em causa.\n\n---"
+  },
+  "9a1aa03e83051379": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/aa1dd5ad-868b-11eb-ac4c-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 792/2009 da Comissão, de 31 de agosto de 2009, que estabelece normas pormenorizadas para a notificação pelos Estados-Membros à Comissão de informações e documentos, em aplicação da organização comum dos mercados, do regime dos pagamentos diretos, da promoção dos produtos agrícolas e dos regimes aplicáveis às regiões ultraperiféricas e às ilhas menores do mar Egeu (JO L 228 de 1.9.2009, p. 3)."
+  },
+  "31f1a7c1aae0534c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 02015R1368 — PT — 01.01.2023 — 002.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/32015R1368) [REGULAMENTO DE EXECUÇÃO (UE) 2015/1368 DA COMISSÃO](http://publications.europa.eu/resource/celex/32015R1368) [de 6 de agosto de 2015](http://publications.europa.eu/resource/celex/32015R1368) [que estabelece as regras de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere às ajudas no setor da apicultura](http://publications.europa.eu/resource/celex/32015R1368) (JO L 211, 8.8.2015, p.9)\n\n**Revogado por:**\n\n- [Regulamento de Execução (UE) 2022/2532 da Comissão de 1 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2532) — L 328 — 80 — 22.12.2022"
+  }
+ }
+}

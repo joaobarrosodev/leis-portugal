@@ -1,0 +1,217 @@
+---
+schema_version: '1.0'
+id: pt:dre:413187:por
+title: Decreto n.º 518/73
+short_title: null
+summary: Regulamenta o exercício da pesca desportiva nas províncias ultramarinas
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Gabinete Militar e de Marinha - Serviços de Marinha
+proposing_entity: null
+official_number: 518/73
+official_date: null
+publication_date: '1973-10-12'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 239/1973, Série I de 1973-10-12
+  number: '239'
+  series: I
+  supplement: null
+  pages: 1818 - 1820
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/10/23900/18181820.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '413187'
+  dre_path: /dr/detalhe/decreto/518-1973-413187
+  internal: pt:dre:413187:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/518-1973-413187
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/518-1973-413187
+  consolidated_url: null
+  retrieved_at: '2026-10-22T20:30:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 4c643123d70105bff82f1679d13b828338c180792079b753b58161b3aecb4824
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:30:13Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: pt:dre:693214:por
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T20:30:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 518/73
+
+de 12 de Outubro
+
+Tornando-se necessário regulamentar no ultramar a prática das actividades da pesca desportiva;
+
+Considerando o disposto no [Decreto n.º 45116](https://diariodarepublica.pt/dr/detalhe/decreto/45116-1963-693214), de 6 de Julho de 1963;
+
+Ouvidos os Governos das províncias ultramarinas;
+
+Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituição;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+
+Regulamento da Pesca Praticada por Amadores
+
+(Pesca Desportiva)
+
+### CAPÍTULO I — Disposições comuns
+
+Artigo 1.º Nas áreas de jurisdição marítima a pesca por amadores só poderá ser praticada nos termos estabelecidos no presente diploma e nas seguintes modalidades:
+
+a) Pesca de superfície;
+
+b) Caça submarina.
+
+Art. 2.º São considerados amadores os indivíduos que praticam qualquer das modalidades sem fins lucrativos, sendo-lhes vedado vender, directa ou indirectamente, o produto da pesca.
+
+Art. 3.º Os amadores não poderão transportar a bordo aparelhos de pesca, armas e engenhos de captura que não sejam autorizados nos termos deste diploma.
+
+Art. 4.º Os amadores, quando pratiquem modalidades diferentes, embarcados ou não, deverão respeitar entre si, salvo comum acordo, a distância de 20 m.
+
+Art. 5.º Os amadores, salvo acordo em contrário, devem guardar, em relação aos profissionais, as distâncias mínimas indicadas nos artigos 11.º e 15.º
+
+Art. 6.º A pesca praticada por amadores poderá ser exercida de dia ou de noite.
+
+Art. 7.º Os amadores poderão contratar como seus auxiliares pescadores profissionais, os quais também não poderão, nesse caso, vender o produto da pesca.
+
+Art. 8.º - 1. No exercício das actividades de pesca os amadores poderão utilizar embarcações de recreio, embarcações registadas no tráfego local e na pesca.
+
+2. Os amadores que utilizarem embarcações à vela ou a remo, nos termos deste artigo, poderão dotá-las com motores fora de borda.
+
+Art. 9.º - 1. Os amadores ficam obrigados à observância de todas as normas aplicáveis à pesca em geral, nomeadamente a respeitante ao tamanho mínimo das espécies, à captura de certas espécies, a zonas interditas e a períodos de defeso.
+
+2. Os tamanhos mínimos, a regulamentação da captura de certas espécies e os períodos de defeso serão definidos em portarias pelos Governadores das províncias.
+
+3. As zonas interditas serão também fixadas pelos Governadores das províncias, mediante propostas feitas pelas autoridades naval ou marítima, conforme o caso.
+
+4. Os elementos constantes dos números anteriores serão também publicados em editais afixados nos locais do costume pelas autoridades marítimas.
+
+### CAPÍTULO II — Pesca de superfície
+
+Art. 10.º Considera-se pesca de superfície:
+
+a) Qualquer modalidade de pesca à linha;
+
+b) Qualquer modalidade de pesca com arpão ou fisga impulsionados à mão.
+
+Art. 11.º Na pesca de superfície os amadores deverão conservar entre si, salvo comum acordo, uma distância mínima de 10 m, quando em terra, e de 80 m entre embarcações, quando no mar.
+
+### CAPÍTULO III — Caça submarina
+
+Art. 12.º - 1. Entende-se por caça submarina a modalidade de pesca exercida por amador munido ou não de arma, quando em flutuação na água ou submerso nesta em apneia.
+
+2. Na prática da caça submarina, salvo o disposto no artigo 23.º, não é permitida a utilização de qualquer aparelho de respiração artificial, à excepção de um tubo de respiração à superfície, vulgarmente conhecido por snorkel.
+
+Art. 13.º - 1. Na prática da caça submarina é permitida a utilização de todas as armas, desde que a força propulsora não seja devida ao poder detonante de substâncias químicas e tenham como projéctil, unicamente, uma haste ou arpão com uma ou mais pontas.
+
+2. É expressamente proibido o porte, fora de água, de armas carregadas ou em condições de disparo imediato, mesmo quando travadas.
+
+Art. 14.º - 1. O exercício da caça submarina depende de licença anual, pessoal e intransmissível, passada pelas capitanias ou delegações marítimas.
+
+2. O pedido de licença para menores de 16 anos deverá ser acompanhado de autorização dos pais ou tutores.
+
+3. Pela licença prevista neste artigo será cobrada a importância de 10$00 consignada a socorros a náufragos, constituindo-se um fundo a administrar pelos Serviços de Marinha enquanto na província não existir instituição de socorros a náufragos a favor da qual reverta.
+
+Art. 15.º - 1. Os caçadores submarinos não poderão exercer a sua actividade a menos de 50 m das praias de banhos e a menos de 20 m dos locais já ocupados por outros caçadores, salvo acordo entre si.
+
+2. Para diminuir o risco de serem colhidos por embarcações que passem no local, os Governadores das províncias estabelecerão, em portaria, a forma de os caçadores submarinos assinalarem a sua presença.
+
+Art. 16.º O número de presas a colher pelo amador na caça submarina é ilimitado, com excepção de lagostas, lavagantes e santolas, dos quais somente é permitida a captura de duas unidades por amador e por dia.
+
+Art. 17.º Aos achados encontrados no exercício da caça submarina serão aplicáveis as disposições legais em vigor.
+
+### CAPÍTULO IV — Penalidades
+
+Art. 18.º - 1. As contravenções às disposições deste diploma serão punidas com as seguintes multas:
+
+a) De 100$00 a 3000$00, consoante a gravidade da falta, as referentes aos artigos 1.º, 2.º, 7.º e 16.º;
+
+b) De 200$00 as referentes ao artigo 3.º, ao n.º 2 do artigo 12.º, ao artigo 13.º e seu n.º 2, ao artigo 15.º e ao n.º 2 do artigo 21.º;
+
+c) De 100$00 as referentes aos artigos 4.º, 5.º, 11.º e 14.º
+
+2. Os valores referidos no número anterior serão elevados ao dobro em caso de reincidência.
+
+Art. 19.º Compete ao capitão do porto da área onde a contravenção for cometida a aplicação das penalidades previstas no artigo anterior.
+
+### CAPÍTULO V — Disposições diversas
+
+Art. 20.º Às autoridades marítimas compete assegurar aos amadores o livre exercício das suas legítimas actividades, garantindo nomeadamente que os profissionais respeitem em relação aos amadores as distâncias prescritas neste regulamento.
+
+Art. 21.º - 1. A caça às aves que sobrevoam o espaço aéreo correspondente à zona de jurisdição das autoridades marítimas só poderá ser exercida em conformidade e nos termos da legislação venatória em vigor.
+
+2. Não é permitida a caça às gaivotas.
+
+Art. 22.º - 1. Os Governadores das províncias, por portaria, nomearão uma comissão permanente que será presidida por um representante dos Serviços de Marinha da província e da qual farão parte, sempre que possível, representantes das Missões ou Brigadas de Estudos Bioceanológicos e de Pescas e do Conselho de Protecção da Natureza.
+
+2. Competirá às comissões permanentes propor aos Governadores todas as medidas relativas à protecção das espécies, assim como ao fomento desportivo e turístico da pesca praticado por amadores, com vista à eventual revisão do presente diploma.
+
+3. As comissões permanentes funcionarão junto dos Serviços de Marinha das províncias, reunindo por convocação destes ou por solicitação de qualquer dos seus membros.
+
+Art. 23.º - 1. A autorização de outras modalidades e técnicas de pesca, de captura ou de caça submarina por amadores ficará dependente de despacho dos Governadores das províncias, sob parecer dos Serviços de Marinha, ouvida a comissão permanente estabelecida no artigo anterior.
+
+2. O estudo de qualquer outra modalidade ou técnica poderá ser solicitado aos Serviços de Marinha das províncias, por meio de petição devidamente documentada, assinada, pelo menos, por um número de amadores a estabelecer, em portaria, pelos Governadores das províncias.
+
+Art. 24.º - 1. As associações provinciais de desporto ou, se estas não existirem, os clubes de pesca das modalidades consideradas no presente diploma deverão enviar, em duplicado, aos Serviços de Marinha da província um breve relatório das actividades, do qual constem, devidamente discriminados, os locais mais frequentados, as espécies capturadas mais notáveis e informações de interesse científico.
+
+2. Um dos exemplares do relatório será depois remetido ao organismo que na província superintende na investigação das pescas.
+
+Art. 25.º Sem prejuízo do disposto no capítulo IV deste Regulamento, os amadores ficam sujeitos, no exercício das suas actividades de pesca, a todas as disposições do Código Penal e Disciplinar da Marinha Mercante, dos Regulamentos dos Serviços de Marinha e Regulamento das Capitanias dos Portos das Províncias Ultramarinas.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+Promulgado em 29 de Setembro de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

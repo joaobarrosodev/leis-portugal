@@ -1,0 +1,369 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:885779498:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-891996611",
+ "dre_path": "/dr/detalhe/portaria/190-a-2024-885779498",
+ "source_lastmod": "2024-10-22",
+ "versions": [
+  {
+   "date": "2024-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "892250475",
+    "892250476",
+    "892250477",
+    "892250478",
+    "892250479",
+    "892250480",
+    "892250481",
+    "892250482",
+    "892250484",
+    "892250485",
+    "892250486",
+    "892250487",
+    "892250488",
+    "892250489",
+    "892250490",
+    "892250491",
+    "892250492",
+    "892250493",
+    "892250494",
+    "892250495",
+    "892250496",
+    "892250497",
+    "892250498",
+    "892250499",
+    "892250500"
+   ]
+  },
+  {
+   "date": "2024-10-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:891867283:por",
+     "title": "Portaria n.º 273/2024/1",
+     "published": "2024-10-21",
+     "dre_path": "/dr/detalhe/portaria/273-2024-891867283"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "892250475",
+    "892250476",
+    "892250477",
+    "892250478",
+    "892250507",
+    "892250480",
+    "892250481",
+    "892250482",
+    "892250483",
+    "892250484",
+    "892250485",
+    "892250486",
+    "892250487",
+    "892250488",
+    "892250489",
+    "892250490",
+    "892250491",
+    "892250492",
+    "892250493",
+    "892250494",
+    "892250495",
+    "892250496",
+    "892250497",
+    "892250498",
+    "892250499",
+    "892250500"
+   ]
+  },
+  {
+   "date": "2024-12-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:899370943:por",
+     "title": "Portaria n.º 319-A/2024/1",
+     "published": "2024-12-06",
+     "dre_path": "/dr/detalhe/portaria/319-a-2024-899370943"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "892250475",
+    "892250476",
+    "892250477",
+    "892250478",
+    "892250507",
+    "892250480",
+    "892250481",
+    "892250482",
+    "892250483",
+    "892250484",
+    "892250485",
+    "892250486",
+    "892250487",
+    "892250488",
+    "892250489",
+    "892250490",
+    "892250491",
+    "899374521",
+    "899374522",
+    "892250494",
+    "892250495",
+    "892250496",
+    "892250497",
+    "892250498",
+    "892250499",
+    "892250500"
+   ]
+  }
+ ],
+ "fragments": {
+  "892250475": {
+   "fragment_id": "891996612",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 190-A/2024/1\n\nde 26 de agosto\n\nA Lei n.º 28/2024, de 28 de fevereiro, restaurou a Casa do Douro enquanto associação pública de inscrição obrigatória, procedeu à aprovação dos seus Estatutos e determinou a entrega a esta entidade do imóvel que é a sua sede e propriedade conjunta de todos os viticultores da Região Demarcada do Douro, sito na Rua dos Camilos, Peso da Régua.\n\nNa sequência da entrada em vigor da referida lei no dia 28 de abril de 2024, e conforme previsto no seu artigo 4.º, a presente portaria aprova o Regulamento Eleitoral da Casa do Douro e a constituição da respetiva comissão eleitoral e fixa as datas relativas ao processo eleitoral.\n\nO Regulamento Eleitoral aprovado pela presente portaria tem como referência o estatuto eleitoral utilizado para as últimas eleições realizadas na Casa do Douro e visa, apenas, regular a primeira eleição dos respetivos órgãos. Após essa primeira eleição, deve ser promovida a aprovação de regulamento eleitoral próprio, conforme determinado no n.º 4 do artigo 2.º dos Estatutos da Casa do Douro, aprovados em anexo à Lei n.º 28/2024, de 28 de fevereiro.\n\nAssim:\n\nAo abrigo do disposto nos n.<sup>os </sup>1 e 2 do artigo 4.º da Lei n.º 28/2024, de 28 de fevereiro, e no n.º 5 do artigo 2.º dos Estatutos da Casa do Douro, aprovados em anexo à referida lei, manda o Governo, pelo Ministro da Agricultura e Pescas, o seguinte:"
+  },
+  "892250476": {
+   "fragment_id": "891996613",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria aprova o Regulamento Eleitoral da Casa do Douro e a constituição da comissão eleitoral e fixa as datas de eleições dos respetivos órgãos."
+  },
+  "892250477": {
+   "fragment_id": "891996614",
+   "type": 11,
+   "heading": "Artigo 2.º — Regulamento Eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regulamento Eleitoral\n\nÉ aprovado o Regulamento Eleitoral da Casa do Douro, constante do anexo à presente portaria e que dela faz parte integrante."
+  },
+  "892250478": {
+   "fragment_id": "891996615",
+   "type": 11,
+   "heading": "Artigo 3.º — Comissão eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comissão eleitoral\n\n1 - A comissão eleitoral é constituída pelo Doutor Gilberto Paulo Peixoto Igrejas, que preside, e por dois vogais, os licenciados José Miguel Pereira Gomes e Francisco Félix Ferreira.\n\n2 - Os membros da comissão eleitoral referidos no número anterior não auferem qualquer tipo de remuneração pelo exercício das funções para as quais foram designados.\n\n3 - Compete à comissão eleitoral liderar e orientar todos os atos preparatórios e executórios do processo eleitoral, incluindo decidir reclamações e conhecer, em última instância, de recursos interpostos de atos praticados pelas mesas de voto.\n\n4 - A comissão eleitoral cessa funções na data da tomada de posse dos titulares do conselho regional de viticultores e da direção da Casa do Douro."
+  },
+  "892250479": {
+   "fragment_id": "891996616",
+   "type": 11,
+   "heading": "Artigo 4.º — Datas do processo eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Datas do processo eleitoral\n\n1 - A primeira eleição para o conselho regional de viticultores e para a direção da Casa do Douro é realizada no dia 19 de dezembro de 2024.\n\n2 - Compete à comissão eleitoral definir e divulgar os prazos para cada uma das fases do processo eleitoral, de acordo com o estipulado no Regulamento Eleitoral."
+  },
+  "892250480": {
+   "fragment_id": "891996617",
+   "type": 11,
+   "heading": "Artigo 5.º — Delegados cooperativos e associativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Delegados cooperativos e associativos\n\n1 - Até ao 5.º dia útil posterior à data referida no n.º 1 do artigo anterior, os associados coletivos da Casa do Douro, a que alude o n.º 4 do artigo 4.º dos Estatutos da Casa do Douro, indicam, por escrito, à comissão eleitoral, o delegado cooperativo ou associativo, consoante o caso, que os representa durante o mandato do conselho regional de viticultores, conforme previsto nas alíneas b) e c) do n.º 1 do artigo 14.º dos Estatutos da Casa do Douro.\n\n2 - Compete à mesa do conselho regional de viticultores, na primeira reunião subsequente à instalação, verificar a conformidade legal dos associados coletivos e seus delegados, para efeitos de determinar a composição do conselho regional de viticultores, nos termos do artigo 14.º dos Estatutos da Casa do Douro."
+  },
+  "892250481": {
+   "fragment_id": "891996618",
+   "type": 11,
+   "heading": "Artigo 6.º — Apoio administrativo e divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apoio administrativo e divulgação\n\n1 - O apoio logístico e administrativo necessário à realização das tarefas da comissão eleitoral é assegurado pelo Instituto dos Vinhos do Douro e Porto, I. P. (IVDP, I. P.)\n\n2 - Cabe ao IVDP, I. P., a manutenção e atualização de um sítio na Internet onde seja divulgada toda a informação relevante para o processo eleitoral, nomeadamente a legislação aplicável, avisos, esclarecimentos e decisões da comissão eleitoral, cadernos eleitorais e listas de candidaturas."
+  },
+  "892250482": {
+   "fragment_id": "891996619",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "892250484": {
+   "fragment_id": "891996621",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO ELEITORAL DA CASA DO DOURO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO ELEITORAL DA CASA DO DOURO\n\n(a que se refere o artigo 2.º da presente portaria)"
+  },
+  "892250485": {
+   "fragment_id": "891996622",
+   "type": 1,
+   "heading": "Capítulo I — NORMAS GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — NORMAS GERAIS"
+  },
+  "892250486": {
+   "fragment_id": "891996623",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente Regulamento Eleitoral aplica-se aos membros do conselho regional de viticultores e à direção da Casa do Douro, conforme o n.º 1 do artigo 4.º da Lei n.º 28/2024, de 28 de fevereiro, e o n.º 5 do artigo 2.º dos Estatutos da Casa do Douro, aprovados em anexo ao diploma referido (daqui em diante abreviadamente designados por Estatutos)."
+  },
+  "892250487": {
+   "fragment_id": "891996624",
+   "type": 11,
+   "heading": "Artigo 2.º — Capacidade eleitoral ativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Capacidade eleitoral ativa\n\n1 - São eleitores para os membros do conselho regional de viticultores e da direção da Casa do Douro referidos no artigo anterior todos os viticultores, pessoas singulares ou coletivas legalmente reconhecidos pelo Estado, através do Instituto dos Vinhos do Douro e Porto, I. P. (IVDP, I. P.), que adquirem a qualidade de associados singulares da Casa do Douro, nos termos do n.º 1 do artigo 4.º dos Estatutos.\n\n2 - Excluem-se do disposto no número anterior os viticultores considerados associados coletivos, nos termos do n.º 4 do artigo 4.º dos Estatutos.\n\n3 - Para efeitos da constituição dos cadernos eleitorais mencionados no artigo 5.º, consideram-se os registos do IVDP, I. P., no dia 1 de janeiro do ano civil da data das eleições.\n\n4 - Para exercício do direito de voto, o eleitor pessoa singular deve fazer-se acompanhar de cartão de cidadão ou bilhete de identidade.\n\n5 - A prova documental da qualidade de representante de pessoa coletiva faz-se por meio idóneo que comprove os poderes de gerência ou administração, cabendo um voto por cada pessoa coletiva."
+  },
+  "892250488": {
+   "fragment_id": "891996625",
+   "type": 11,
+   "heading": "Artigo 3.º — Capacidade eleitoral passiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Capacidade eleitoral passiva\n\n1 - São elegíveis para delegados municipais do conselho regional de viticultores e membros da direção da Casa do Douro todos os associados singulares com capacidade eleitoral ativa, tal como definida no artigo anterior, sem prejuízo do disposto nos números seguintes.\n\n2 - É incompatível o exercício de funções na direção da Casa do Douro por parte de todos os que com ela tenham uma relação de emprego, prestação de serviços ou de fornecimentos com a Casa do Douro.\n\n3 - São inelegíveis para a direção os associados que simultaneamente desenvolvam atividades comerciais no setor dos vinhos e aguardentes da Região Demarcada do Douro, ficando apenas com capacidade eleitoral ativa.\n\n4 - Estão excluídos das inelegibilidades previstas no número anterior os associados que comercializem maioritariamente vinho de produção própria e os associados dirigentes de adegas cooperativas ou cooperativas agrícolas.\n\n5 - A qualidade de membro da direção é incompatível com a de membro do conselho regional de viticultores e com o exercício de cargo diretivo em qualquer das associações previstas no n.º 4 do artigo 4.º dos Estatutos."
+  },
+  "892250489": {
+   "fragment_id": "891996626",
+   "type": 1,
+   "heading": "Capítulo II — ELEIÇÃO DOS ÓRGÃOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — ELEIÇÃO DOS ÓRGÃOS"
+  },
+  "892250490": {
+   "fragment_id": "891996627",
+   "type": 11,
+   "heading": "Artigo 4.º — Cadernos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cadernos eleitorais\n\n1 - Os eleitores são distribuídos por cadernos eleitorais organizados por freguesia, dentro de cada círculo eleitoral, conforme disposto no n.º 3 do artigo 4.º dos Estatutos.\n\n2 - Cada eleitor é inscrito no círculo eleitoral onde se verificar a maior quota da sua produção, conforme o disposto no n.º 4 do artigo 15.º dos Estatutos.\n\n3 - Para efeitos do número anterior, é considerada a produção declarada ao IVDP, I. P., na campanha do ano civil anterior à data das eleições.\n\n4 - No caso de existirem eleitores com produção igual em dois círculos, ou sem produção declarada na campanha, releva o círculo onde possuam maior área de vinha ou, em caso de igualdade neste critério, a localização da sede ou domicílio fiscal.\n\n5 - Na organização dos cadernos eleitorais por freguesia, aplicam-se os critérios previstos nos números anteriores, com as necessárias adaptações, sendo que nenhum eleitor pode ficar inscrito em freguesia fora do círculo eleitoral a que pertence.\n\n6 - Cabe à comissão eleitoral estabelecer critérios supletivos, em caso de necessidade.\n\n7 - Os eleitores são inscritos nos cadernos eleitorais apenas com a menção do número de identificação fiscal e do seu nome completo ou designação social, por ordem alfabética.\n\n8 - Os cadernos eleitorais provisórios, no seu conjunto, são disponibilizados para consulta na sede da Casa do Douro, entre o 47.º e o 42.º dia útil anterior ao da data marcada para as eleições.\n\n9 - Nesse mesmo período, os cadernos eleitorais das freguesias de cada círculo são disponibilizados para consulta na sede do concelho respetivo e, em moldes a definir pela comissão eleitoral, no sítio da Internet disponibilizado para o efeito.\n\n10 - No período previsto no n.º 8 deste artigo, pode a comissão eleitoral receber, apreciar e decidir reclamações acerca de inexatidões ou omissões dos cadernos eleitorais, apresentadas por qualquer interessado.\n\n11 - Até ao 39.º dia anterior ao da data marcada para as eleições, a comissão eleitoral torna definitivos os cadernos eleitorais, disponibilizando-os para consulta nos termos previstos nos n.<sup>os </sup>8 e 9 do presente artigo."
+  },
+  "892250491": {
+   "fragment_id": "891996628",
+   "type": 11,
+   "heading": "Artigo 5.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Candidaturas\n\n1 - As candidaturas para delegado municipal do conselho regional de viticultores ou para a direção são apresentadas por listas completas, a entregar à comissão eleitoral entre o 38.º e o 29.º dia útil anterior ao da data marcada para as eleições, por um dos proponentes, que representa como mandatário todos os outros nas operações eleitorais.\n\n2 - As listas propostas às eleições devem conter a indicação de candidatos efetivos em número igual ao de mandatos a preencher e os candidatos suplentes em número de três.\n\n3 - O candidato representante de pessoa coletiva deve apresentar declaração de representação, assinada por quem tenha poderes de gerência ou administração do representado.\n\n4 - Com a entrega das listas de candidatura deve ser junta uma declaração de propositura assinada, conjunta ou separadamente, por todos os proponentes, identificados com os elementos constantes nos números anteriores.\n\n5 - No mesmo ato, deve ser junta uma declaração de aceitação de candidatura, conjunta ou separadamente, pelos candidatos.\n\n6 - Cada lista de candidatura deve designar um mandatário que a represente em todo o processo eleitoral, podendo ser um dos proponentes ou candidatos, e indicar um endereço de correio eletrónico, que é utilizado como contacto pela comissão eleitoral, incluindo para efeitos de notificação de quaisquer atos."
+  },
+  "892250492": {
+   "fragment_id": "891996629",
+   "type": 11,
+   "heading": "Artigo 6.º — Admissão, impugnação e fixação das listas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Admissão, impugnação e fixação das listas\n\n1 - A comissão eleitoral faz publicar na sede da Casa do Douro, nas suas delegações e no sítio da Internet disponibilizado para o efeito, todas as listas provisoriamente admitidas ao ato eleitoral no 19.º dia útil anterior ao da data marcada para as eleições, identificadas com as letras seguidas do alfabeto, iniciando-se na letra A, segundo a ordem da sua receção.\n\n2 - Até ao 23.º dia útil anterior ao da data marcada para as eleições, qualquer eleitor devidamente identificado pode impugnar por escrito, perante a comissão eleitoral, as listas provisoriamente admitidas, com base em fundamentos suficientemente especificados.\n\n3 - A comissão eleitoral verifica a regularidade das candidaturas apresentadas até ao 18.º dia útil anterior ao da data marcada para as eleições.\n\n4 - Apurando a existência de irregularidades, a comissão eleitoral notifica, no prazo de 24 horas após o termo do prazo referido no número anterior, o mandatário da respetiva lista para que, querendo, venham a suprimi-las no prazo de 72 horas, sob pena de rejeição definitiva das listas.\n\n5 - Até ao 11.º dia útil anterior ao da data marcada para as eleições, a comissão eleitoral, após decisão da admissibilidade definitiva das listas, procede à sua afixação na sede da Casa do Douro, em local de acesso público, no sítio da Internet disponibilizado para o efeito e notifica os respetivos mandatários."
+  },
+  "892250493": {
+   "fragment_id": "891996630",
+   "type": 11,
+   "heading": "Artigo 7.º — Mesas das assembleias de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mesas das assembleias de voto\n\n1 - Cabe à comissão eleitoral definir as assembleias de voto integrantes de cada círculo eleitoral, podendo, para o efeito, agrupar numa assembleia mais de um caderno eleitoral, desde que dentro do mesmo círculo.\n\n2 - Até ao 10.º dia útil anterior ao da data marcada para as eleições, a comissão eleitoral divulga, na sede da Casa do Douro e no sítio da Internet disponibilizado para o efeito, os locais onde funciona cada uma das assembleias de voto, os cadernos eleitorais respetivos e os eleitores aí inscritos.\n\n3 - No prazo referido no número anterior, a comissão eleitoral nomeia, para cada assembleia, a mesa que preside ao ato eleitoral, constituída por um presidente e dois vogais, assumindo um deles as funções de secretário.\n\n4 - Os membros da mesa eleitoral podem ser associados da Casa do Douro ou qualquer pessoa de reconhecido mérito e idoneidade para o efeito.\n\n5 - Os membros da mesa eleitoral não podem ser candidatos por nenhuma lista e residir no círculo eleitoral da respetiva assembleia.\n\n6 - O mandatário de cada lista pode designar um delegado e respetivo substituto, que o representam junto de cada mesa, devendo estes ser indicados à comissão eleitoral até ao 6.º dia útil anterior à data das eleições.\n\n7 - Até ao 5.º dia útil anterior ao da data marcada para as eleições, a comissão eleitoral envia aos presidentes das mesas os cadernos eleitorais respeitantes aos eleitores que votam nas respetivas assembleias, as listas das candidaturas, o nome do delegado e respetivo substituto de cada lista junto da mesa, os boletins de voto e outros elementos necessários para a realização das eleições.\n\n8 - O presidente da mesa afixa as listas, no local onde vai decorrer o ato eleitoral, com antecedência de 48 horas."
+  },
+  "892250494": {
+   "fragment_id": "891996631",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento das assembleias de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento das assembleias de voto\n\n1 - As assembleias de voto têm a sua abertura às 9 horas e o seu encerramento às 17 horas.\n\n2 - Qualquer reclamação relativa ao ato eleitoral deve ser apresentada por escrito na mesa da assembleia de voto respetiva, que, de imediato, sobre ela decide.\n\n3 - Qualquer eleitor pode interpor recurso para a comissão eleitoral de atos praticados pela mesa, que é conhecido e decidido no momento de apuramento geral dos resultados das eleições.\n\n4 - É pela mesa lavrada ata que relate o que ocorrer durante o ato eleitoral e registe os seus resultados e que, juntamente com todos os boletins usados e não usados e demais elementos, a envia, até final do dia útil seguinte, à comissão eleitoral.\n\n5 - Os resultados eleitorais, logo que apurados em cada assembleia de voto, são afixados à porta do local respetivo e enviados por correio eletrónico para a comissão eleitoral, juntamente com cópia da ata."
+  },
+  "892250495": {
+   "fragment_id": "891996632",
+   "type": 11,
+   "heading": "Artigo 9.º — Apuramento geral de resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apuramento geral de resultados\n\n1 - Até ao 5.º dia útil posterior ao dia das eleições, a comissão eleitoral, depois de decidir, em última instância, sobre eventuais recursos apresentados nos termos do n.º 4 do artigo anterior, procede ao apuramento geral dos resultados.\n\n2 - No mesmo dia, a comissão eleitoral promove a divulgação dos resultados na sede da Casa do Douro, em local de acesso público, bem como no sítio da Internet disponibilizado para o efeito, deles dando conhecimento aos mandatários das listas candidatas."
+  },
+  "892250496": {
+   "fragment_id": "891996633",
+   "type": 11,
+   "heading": "Artigo 10.º — Conselho regional de viticultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conselho regional de viticultores\n\n1 - Os delegados municipais a que se refere a alínea a) do n.º 1 do artigo 14.º dos Estatutos são eleitos por círculos, conforme o n.º 2 do artigo 15.º dos Estatutos, segundo o sistema da representação proporcional e o método da média mais alta de Hondt.\n\n2 - O número de delegados municipais a eleger por cada círculo eleitoral é o que consta do mapa anexo a este Regulamento, que dele faz parte integrante.\n\n3 - Caso se verifique a situação prevista no n.º 2 do artigo 14.º dos Estatutos, é eleito um delegado condicional, que consta com a indicação \"+ 1\" no mapa anexo a que alude o número anterior e assim constando das correspondentes listas do círculo eleitoral em causa.\n\n4 - Cada lista de candidatura ao conselho regional de viticultores deve ser subscrita por um mínimo de 25 proponentes de entre os associados singulares inscritos no círculo eleitoral a que se refere a respetiva eleição.\n\n5 - Cada eleitor só pode subscrever ou integrar uma única lista e dentro do círculo eleitoral em que está inscrito como associado singular.\n\n6 - As listas propostas às eleições devem ser compostas por um número de candidatos efetivos igual ao número de mandatos a preencher, sem prejuízo do disposto no antecedente n.º 3, integrando também os candidatos suplentes em número igual ao de candidatos efetivos, num máximo de três.\n\n7 - Os candidatos consideram-se ordenados segundo a sequência constante da respetiva lista de candidatura."
+  },
+  "892250497": {
+   "fragment_id": "891996634",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direção\n\n1 - As candidaturas para a direção são apresentadas por listas completas dos seus membros, especificando os cargos a que concorre cada um dos elementos que as integram, de acordo com o n.º 1 do artigo 19.º dos Estatutos.\n\n2 - As listas devem apresentar, no mínimo, dois candidatos suplentes para preenchimento de qualquer cargo em caso de vacatura.\n\n3 - A direção eleita é formada pela lista mais votada, por maioria absoluta dos votos expressos, no sistema de maioria de votos a duas voltas.\n\n4 - Cada lista de candidatura deve ser subscrita por um mínimo de 200 e um máximo de 300 proponentes de entre os associados singulares inscritos nos cadernos eleitorais.\n\n5 - Cada eleitor só pode subscrever ou integrar uma única lista.\n\n6 - Se nenhuma das listas a sufrágio obtiver maioria absoluta dos votos expressos, realiza-se uma segunda volta entre as duas listas mais votadas, no mesmo dia da segunda semana seguinte, nos mesmos locais e no mesmo horário."
+  },
+  "892250498": {
+   "fragment_id": "891996635",
+   "type": 1,
+   "heading": "Capítulo III — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — DISPOSIÇÕES FINAIS"
+  },
+  "892250499": {
+   "fragment_id": "891996636",
+   "type": 11,
+   "heading": "Artigo 12.º — Instalação e posse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instalação e posse\n\n1 - Cabe à comissão eleitoral definir a data e hora da primeira reunião do conselho regional de viticultores, após divulgação dos resultados referidos no n.º 2 do artigo 9.º deste Regulamento, no prazo de 10 dias úteis.\n\n2 - Na reunião referida no número anterior, o conselho regional de viticultores procede à eleição da sua mesa, em conformidade com o disposto no n.º 1 do artigo 18.º dos Estatutos e os membros da direção tomam posse perante o conselho regional de viticultores."
+  },
+  "892250500": {
+   "fragment_id": "891996637",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 2 do artigo 10.º do presente Regulamento e o n.º 3 do artigo 15.º dos Estatutos da Casa do Douro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 2 do artigo 10.º do presente Regulamento e o n.º 3 do artigo 15.º dos Estatutos da Casa do Douro)\n\n| Círculo eleitoral | Número de delegados<br>municipais |\n| --- | --- |\n| Alijó | 7 |\n| Armamar | 2 |\n| Carrazeda de Ansiães | 2 |\n| Freixo de Espada à Cinta | 1 |\n| Lamego (que para este efeito inclui a freguesia de Barrô, do concelho de Resende) | 5 |\n| Meda | 1 |\n| Mesão Frio | 2 |\n| Moncorvo | 1 |\n| Murça | 3 |\n| Peso da Régua | 5 |\n| São João da Pesqueira | 5 |\n| Sabrosa | 3 |\n| Santa Marta de Penaguião | 5 |\n| Tabuaço | 2 |\n| Vila Flor (que inclui para este efeito as freguesias dos concelhos de Alfândega da Fé e Mirandela) | 1 |\n| Vila Nova de Foz Côa (que inclui para este efeito a freguesia de Escalhão, do concelho de Figueira de Castelo Rodrigo) | 3 |\n| Vila Real | (a) 3 + 1 |\n\n(a) Mandato condicional, caso se verifique a situação referida no n.º 2 do artigo 14.º dos Estatutos.\n118053753"
+  },
+  "892250507": {
+   "fragment_id": "891996616",
+   "type": 11,
+   "heading": "Artigo 4.º — Datas do processo eleitoral",
+   "in_force_from": "2024-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 273/2024/1 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/273-2024-891867283), em vigor a partir de 2024-10-22, produz efeitos a partir de 2024-08-27"
+   ],
+   "markdown": "###### Artigo 4.º — Datas do processo eleitoral\n\n1 - A primeira eleição para o conselho regional de viticultores e para a direção da Casa do Douro é realizada no dia 21 de dezembro de 2024.\n\n2 - Compete à comissão eleitoral definir e divulgar os prazos para cada uma das fases do processo eleitoral, de acordo com o estipulado no Regulamento Eleitoral.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 273/2024/1 - Diário da República n.º 204/2024, Série I de 2024-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/273-2024-891867283), em vigor a partir de 2024-10-22, produz efeitos a partir de 2024-08-27"
+  },
+  "892250483": {
+   "fragment_id": "891996620",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura e Pescas, José Manuel Fernandes, em 26 de agosto de 2024."
+  },
+  "899374521": {
+   "fragment_id": "891996629",
+   "type": 11,
+   "heading": "Artigo 6.º — Admissão, impugnação e fixação das listas",
+   "in_force_from": "2024-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2024/1 - Diário da República n.º 237/2024, Suplemento, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2024-899370943), em vigor a partir de 2024-12-07"
+   ],
+   "markdown": "###### Artigo 6.º — Admissão, impugnação e fixação das listas\n\n1 - A comissão eleitoral faz publicar na sede da Casa do Douro, nas suas delegações e no sítio da Internet disponibilizado para o efeito, todas as listas provisoriamente admitidas ao ato eleitoral no 19.º dia útil anterior ao da data marcada para as eleições, identificadas com as letras seguidas do alfabeto, iniciando-se na letra A, segundo a ordem da sua receção.\n\n2 - Até ao 23.º dia útil anterior ao da data marcada para as eleições, qualquer eleitor devidamente identificado pode impugnar por escrito, perante a comissão eleitoral, as listas provisoriamente admitidas, com base em fundamentos suficientemente especificados.\n\n3 - A comissão eleitoral verifica a regularidade das candidaturas apresentadas até ao 10.º dia útil anterior ao da data marcada para as eleições.\n\n4 - Apurando a existência de irregularidades, a comissão eleitoral notifica, no prazo de 24 horas após o termo do prazo referido no número anterior, o mandatário da respetiva lista para que, querendo, venham a suprimi-las no prazo de 72 horas, sob pena de rejeição definitiva das listas.\n\n5 - Até ao 8.º dia útil anterior ao da data marcada para as eleições, a comissão eleitoral, após decisão da admissibilidade definitiva das listas, procede à sua afixação na sede da Casa do Douro, em local de acesso público, no sítio da Internet disponibilizado para o efeito e notifica os respetivos mandatários.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2024/1 - Diário da República n.º 237/2024, Suplemento, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2024-899370943), em vigor a partir de 2024-12-07"
+  },
+  "899374522": {
+   "fragment_id": "891996630",
+   "type": 11,
+   "heading": "Artigo 7.º — Mesas das assembleias de voto",
+   "in_force_from": "2024-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2024/1 - Diário da República n.º 237/2024, Suplemento, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2024-899370943), em vigor a partir de 2024-12-07"
+   ],
+   "markdown": "###### Artigo 7.º — Mesas das assembleias de voto\n\n1 - Cabe à comissão eleitoral definir as assembleias de voto integrantes de cada círculo eleitoral, podendo, para o efeito, agrupar numa assembleia mais de um caderno eleitoral, desde que dentro do mesmo círculo.\n\n2 - Até ao 7.º dia útil anterior ao da data marcada para as eleições, a comissão eleitoral divulga, na sede da Casa do Douro e no sítio da Internet disponibilizado para o efeito, os locais onde funciona cada uma das assembleias de voto, os cadernos eleitorais respetivos e os eleitores aí inscritos.\n\n3 - No prazo referido no número anterior, a comissão eleitoral nomeia, para cada assembleia, a mesa que preside ao ato eleitoral, constituída por um presidente e dois vogais, assumindo um deles as funções de secretário.\n\n4 - Os membros da mesa eleitoral podem ser associados da Casa do Douro ou qualquer pessoa de reconhecido mérito e idoneidade para o efeito.\n\n5 - Os membros da mesa eleitoral não podem ser candidatos por nenhuma lista e residir no círculo eleitoral da respetiva assembleia.\n\n6 - O mandatário de cada lista pode designar um delegado e respetivo substituto, que o representam junto de cada mesa, devendo estes ser indicados à comissão eleitoral até ao 6.º dia útil anterior à data das eleições.\n\n7 - Até ao 5.º dia útil anterior ao da data marcada para as eleições, a comissão eleitoral envia aos presidentes das mesas os cadernos eleitorais respeitantes aos eleitores que votam nas respetivas assembleias, as listas das candidaturas, o nome do delegado e respetivo substituto de cada lista junto da mesa, os boletins de voto e outros elementos necessários para a realização das eleições.\n\n8 - O presidente da mesa afixa as listas, no local onde vai decorrer o ato eleitoral, com antecedência de 48 horas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 319-A/2024/1 - Diário da República n.º 237/2024, Suplemento, Série I de 2024-12-06](https://diariodarepublica.pt/dr/detalhe/portaria/319-a-2024-899370943), em vigor a partir de 2024-12-07"
+  }
+ }
+}

@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:142961499:por
+title: Despacho Normativo n.º 10-A/2020
+short_title: null
+summary: Prorroga os prazos previstos no n.º 4 do artigo 3.º e no n.º 2 do artigo 5.º do Despacho Normativo n.º 18/2019, de
+  21 de junho
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros, Finanças, Modernização do Estado e da Administração Pública e Trabalho, Solidariedade
+  e Segurança Social - Gabinetes da Ministra do Trabalho, Solidariedade e Segurança Social, da Secretária de Estado para a
+  Cidadania e a Igualdade e dos Secretários de Estado das Finanças, do Tesouro, da Administração Pública e da Descentralização
+  e da Administração Local
+proposing_entity: null
+official_number: 10-A/2020
+official_date: null
+publication_date: '2020-09-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 180/2020, 1º Suplemento, Série II de 2020-09-15
+  number: '180'
+  series: II
+  supplement: null
+  pages: 246-(2) a 246-(3)
+  pdf_url: https://files.diariodarepublica.pt/2s/2020/09/180000001/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: unknown
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '142961499'
+  dre_path: /dr/detalhe/despacho-normativo/10-a-2020-142961499
+  internal: pt:dre:142961499:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-a-2020-142961499
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-a-2020-142961499
+  consolidated_url: null
+  retrieved_at: '2026-10-23T15:08:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: b8e361abbd3bc5ea038965939508cdf29d8868383d9bea7067faf693d8250e49
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T15:08:35Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administrador
+- CMVM
+- Comissão para a Cidadania e a Igualdade de Género
+- Comissão para a Igualdade no Trabalho e no Emprego
+- Comunicações
+- Cotação na Bolsa
+- Direção Geral das Autarquias Locais
+- Direcção Geral da Administração e do Emprego Público
+- Empresa
+- Empresa Pública
+- Igualdade de Oportunidades
+- Igualdade de Tratamento
+- Plataforma de Interoperabilidade da Administração Pública
+- Prorrogação de Prazo
+- Sector Empresarial Local
+- Setor Empresarial do Estado
+relationships:
+- type: cites
+  target: pt:dre:107791612:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:122630001:por
+  label: null
+  source: null
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T15:08:35Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 10-A/2020
+
+A Organização Mundial de Saúde declarou, no dia 11 de março de 2020, a situação de pandemia causada pela doença COVID-19.
+
+Além da grave emergência de saúde pública a que foi necessário dar resposta no plano sanitário, o estado de pandemia tem produzido um impacto significativo sobre a atividade económica, encontrando-se as empresas confrontadas com dificuldades a nível operacional e de continuidade da sua atividade em pleno, a que acresce uma forte contração do mercado.
+
+Neste contexto de excecionalidade, urge tomar medidas excecionais e temporárias que mitiguem estes impactos e evitem situações de incumprimento daí decorrentes, designadamente no que se refere à obrigação de entrega de planos para a igualdade pelas entidades do setor empresarial do Estado, pelas entidades do setor empresarial local e pelas empresas cotadas, nos termos conjugados do artigo 7.º da [Lei n.º 62/2017](https://diariodarepublica.pt/dr/detalhe/lei/62-2017-107791612), de 1 de agosto, e do artigo 3.º do [Despacho Normativo n.º 18/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-2019-122630001), de 21 de junho.
+
+Assim, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, pela Secretária de Estado para a Cidadania e a Igualdade, pelo Secretário de Estado das Finanças, pelo Secretário de Estado do Tesouro, pelo Secretário de Estado da Administração Pública e pelo Secretário de Estado da Descentralização e da Administração Local, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente despacho normativo prorroga os prazos previstos no n.º 4 do artigo 3.º e no n.º 2 do artigo 5.º do [Despacho Normativo n.º 18/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-2019-122630001), de 21 de junho.
+
+###### Artigo 2.º — Prazo para comunicação dos planos para a igualdade anuais
+
+O termo do prazo previsto no n.º 4 do artigo 3.º do [Despacho Normativo n.º 18/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-2019-122630001), de 21 de junho, para comunicação dos planos para a igualdade relativos a 2021, é prorrogado até ao dia 25 de novembro de 2020.
+
+###### Artigo 3.º — Prazo para publicação das recomendações aos planos para a igualdade
+
+O prazo previsto no n.º 2 do artigo 5.º do [Despacho Normativo n.º 18/2019](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-2019-122630001), de 21 de junho, para publicação das recomendações sobre os planos para a igualdade comunicados nos termos do artigo anterior, é prorrogado até ao dia 20 de fevereiro de 2021.
+
+###### Artigo 4.º — Produção de efeitos
+
+O presente despacho normativo produz efeitos a 10 de setembro de 2020.
+
+10 de setembro de 2020. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - 9 de setembro de 2020. - A Secretária de Estado para a Cidadania e a Igualdade, Rosa Filomena Brás Lopes Monteiro. - 14 de setembro de 2020. - O Secretário de Estado das Finanças, João Nuno Marques de Carvalho Mendes. - 10 de setembro de 2020. - O Secretário de Estado do Tesouro, Miguel Jorge de Campos Cruz. - 8 de setembro de 2020. - O Secretário de Estado da Administração Pública, José Correia Fontes Couto. - 8 de setembro de 2020. - O Secretário de Estado da Descentralização e da Administração Local, Jorge Manuel do Nascimento Botelho.
+
+313563997

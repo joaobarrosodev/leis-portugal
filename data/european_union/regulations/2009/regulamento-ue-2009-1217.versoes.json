@@ -1,0 +1,1695 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009R1217:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009R1217-20240101",
+ "dre_path": null,
+ "source_lastmod": "2024-01-01",
+ "versions": [
+  {
+   "date": "2009-12-15",
+   "future": false,
+   "celex": "32009R1217",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "761e87b111b28d28",
+    "226c39ffd0a88dad",
+    "6c835b8a45b4a4d9",
+    "aff768291d9bb334",
+    "a601d2f6da93af90",
+    "9799f5bd00cdcbf3",
+    "f0f8c960bfdbce9b",
+    "d2e85ff42dd62edd",
+    "6d60042c8c7b6d4c",
+    "649859057483e450",
+    "32aef904bb1eb186",
+    "8243e9a3eb606d23",
+    "386a963634b043ab",
+    "e070366809dcdde5",
+    "125842e657e1ed06",
+    "1e7a0903d2eed348",
+    "32633baeec40d479",
+    "f0a8dbc41587b29c",
+    "4dbbc0f50ed769d5",
+    "ccd40ade468e4355",
+    "5cef4f89ab34221b",
+    "0e61261e9befc164",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "b5add2068a777ba1",
+    "5e6275e871bbb8a6",
+    "7db3f3a69a0aca8b",
+    "ea3461035bbb5b22",
+    "e032f5ef2c9aaa84",
+    "b0b178fc7bc832ba",
+    "fa3238a042f4def2"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "celex": "02009R1217-20120101",
+   "acts": [
+    {
+     "id": "eu:celex:32011R0737:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) N. o 737/2011 DA COMISSÃO de 26 de Julho de 2011",
+     "published": null,
+     "celex": "32011R0737"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 7.º",
+    "Altera Artigo 21.º",
+    "Altera Notas",
+    "Adita ANEXO I",
+    "Adita Lista das circunscrições referidas na alínea d) do artigo 2.º",
+    "Adita Bélgica",
+    "Adita Bulgária",
+    "Adita República Checa",
+    "Adita Dinamarca",
+    "Adita Alemanha (RF)",
+    "Adita Estónia",
+    "Adita Irlanda",
+    "Adita Grécia",
+    "Adita Espanha",
+    "Adita França",
+    "Adita Itália",
+    "Adita Chipre",
+    "Adita Letónia",
+    "Adita Lituânia",
+    "Adita Luxemburgo",
+    "Adita Hungria",
+    "Adita Malta",
+    "Adita Países Baixos",
+    "Adita Áustria",
+    "Adita Polónia",
+    "Adita Portugal",
+    "Adita Romania",
+    "Adita Eslovénia",
+    "Adita Eslováquia",
+    "Adita Finlândia",
+    "Adita Suécia",
+    "Adita Reino Unido",
+    "Adita ANEXO II",
+    "Adita ANEXO III"
+   ],
+   "fragments": [
+    "ce0cec4bdfe23c4b",
+    "226c39ffd0a88dad",
+    "6c835b8a45b4a4d9",
+    "aff768291d9bb334",
+    "97eff09fc38d741e",
+    "9799f5bd00cdcbf3",
+    "f0f8c960bfdbce9b",
+    "d2e85ff42dd62edd",
+    "6d60042c8c7b6d4c",
+    "649859057483e450",
+    "32aef904bb1eb186",
+    "080b24ecb226b23e",
+    "386a963634b043ab",
+    "e070366809dcdde5",
+    "125842e657e1ed06",
+    "1e7a0903d2eed348",
+    "32633baeec40d479",
+    "f0a8dbc41587b29c",
+    "4dbbc0f50ed769d5",
+    "ccd40ade468e4355",
+    "5cef4f89ab34221b",
+    "0e61261e9befc164",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "b5add2068a777ba1",
+    "5e6275e871bbb8a6",
+    "7db3f3a69a0aca8b",
+    "ea3461035bbb5b22",
+    "e032f5ef2c9aaa84",
+    "a45307e454352702",
+    "d664376e2a8dcecd",
+    "5bf722829a3bd801",
+    "a0b800e05a42a07a",
+    "3e2599d9b9704226",
+    "23d866b2d2faeda3",
+    "b10d676a6c5609fc",
+    "8df9fd90c80f5ee7",
+    "caf673d7dd1e9e33",
+    "791aaa1cd78afa7c",
+    "1b201d1c9a6d53b1",
+    "99b1cc8a5003ed92",
+    "a8c7edf65f74777d",
+    "d5f7e4911397d930",
+    "4077873997716165",
+    "874d82195daeea73",
+    "56c118a6680f432d",
+    "fa64550322a2c604",
+    "78fe4dfe3108f1b3",
+    "d70b1e3804d0cf7e",
+    "3f981cb7a1d37d90",
+    "ad071b2df36617db",
+    "b478e2c725f5c1aa",
+    "89064ece2b6e2ae7",
+    "c6616f416d25c04d",
+    "a29609a859d76ab7",
+    "285d50c400daa11c",
+    "f19aeb0686ad3df7",
+    "39f8bf6424a028ea",
+    "d412291d58c1b831",
+    "fa15addadf0c0f18",
+    "46075e75beb2569e",
+    "09226d8a9537dd72"
+   ]
+  },
+  {
+   "date": "2013-07-01",
+   "future": false,
+   "celex": "02009R1217-20130701",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0517:por",
+     "title": "REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013R0517"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 6.º",
+    "Altera Notas",
+    "Adita Croácia"
+   ],
+   "fragments": [
+    "6bef6803b01b1d81",
+    "226c39ffd0a88dad",
+    "6c835b8a45b4a4d9",
+    "aff768291d9bb334",
+    "97eff09fc38d741e",
+    "9799f5bd00cdcbf3",
+    "f0f8c960bfdbce9b",
+    "d2e85ff42dd62edd",
+    "6d60042c8c7b6d4c",
+    "649859057483e450",
+    "975a0af72fd212fd",
+    "080b24ecb226b23e",
+    "386a963634b043ab",
+    "e070366809dcdde5",
+    "125842e657e1ed06",
+    "1e7a0903d2eed348",
+    "32633baeec40d479",
+    "f0a8dbc41587b29c",
+    "4dbbc0f50ed769d5",
+    "ccd40ade468e4355",
+    "5cef4f89ab34221b",
+    "0e61261e9befc164",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "b5add2068a777ba1",
+    "5e6275e871bbb8a6",
+    "7db3f3a69a0aca8b",
+    "ea3461035bbb5b22",
+    "e032f5ef2c9aaa84",
+    "a45307e454352702",
+    "d664376e2a8dcecd",
+    "5bf722829a3bd801",
+    "a0b800e05a42a07a",
+    "3e2599d9b9704226",
+    "23d866b2d2faeda3",
+    "b10d676a6c5609fc",
+    "8df9fd90c80f5ee7",
+    "caf673d7dd1e9e33",
+    "791aaa1cd78afa7c",
+    "1b201d1c9a6d53b1",
+    "99b1cc8a5003ed92",
+    "a8c7edf65f74777d",
+    "1b9a4390dd05cbfc",
+    "d5f7e4911397d930",
+    "4077873997716165",
+    "874d82195daeea73",
+    "56c118a6680f432d",
+    "fa64550322a2c604",
+    "78fe4dfe3108f1b3",
+    "d70b1e3804d0cf7e",
+    "3f981cb7a1d37d90",
+    "ad071b2df36617db",
+    "b478e2c725f5c1aa",
+    "89064ece2b6e2ae7",
+    "c6616f416d25c04d",
+    "a29609a859d76ab7",
+    "285d50c400daa11c",
+    "f19aeb0686ad3df7",
+    "39f8bf6424a028ea",
+    "d412291d58c1b831",
+    "fa15addadf0c0f18",
+    "46075e75beb2569e",
+    "a9d8ea62494c671a"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "celex": "02009R1217-20140101",
+   "acts": [
+    {
+     "id": "eu:celex:32013R1318:por",
+     "title": "REGULAMENTO (UE) N. o 1318/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de outubro de 2013",
+     "published": null,
+     "celex": "32013R1318"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 19.º",
+    "Altera Notas",
+    "Adita CRIAÇÃO DE UMA REDE DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA DA UNIÃO",
+    "Adita DADOS PARA A VERIFICAÇÃO DOS RENDIMENTOS E PARA A ANÁLISE DO FUNCIONAMENTO ECONÓMICO DAS EXPLORAÇÕES AGRÍCOLAS",
+    "Adita Artigo 5.º-A",
+    "Adita Artigo 5.º-B",
+    "Adita Artigo 19.º-A",
+    "Adita Artigo 19.º-B",
+    "Adita Lista das circunscrições da RICA referidas no artigo 2.º, alínea d)",
+    "Suprime CRIAÇÃO DE UMA REDE COMUNITÁRIA DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA",
+    "Suprime VERIFICAÇÃO DOS RENDIMENTOS NAS EXPLORAÇÕES AGRÍCOLAS",
+    "Suprime Artigo 9.º",
+    "Suprime Artigo 10.º",
+    "Suprime CAPÍTULO III",
+    "Suprime RECOLHA DOS DADOS CONTABILÍSTICOS COM VISTA A ANALISAR O FUNCIONAMENTO ECONÓMICO DE EXPLORAÇÕES AGRÍCOLAS",
+    "Suprime Artigo 11.º",
+    "Suprime Artigo 12.º",
+    "Suprime Artigo 13.º",
+    "Suprime Artigo 14.º",
+    "Suprime Artigo 15.º",
+    "Suprime Artigo 18.º",
+    "Suprime Lista das circunscrições referidas na alínea d) do artigo 2.º"
+   ],
+   "fragments": [
+    "8e85c16b220f9450",
+    "226c39ffd0a88dad",
+    "4db98d75a5689a5a",
+    "fb0f2d356cb26c7d",
+    "7fad308e159cf109",
+    "1e50912a25b4372a",
+    "f0f8c960bfdbce9b",
+    "32f87175129abe89",
+    "3ec2aadd73799d53",
+    "e9abb46a0acda066",
+    "154d48b2dc8fcff7",
+    "37e35131d494c21a",
+    "f4d4974ef76d5970",
+    "5db5d5df82f85dbe",
+    "4efc7b8c8e6e4187",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "b5add2068a777ba1",
+    "5e6275e871bbb8a6",
+    "b4cadfecebc7ca6b",
+    "20b55af0200e9327",
+    "8044069c55774933",
+    "e032f5ef2c9aaa84",
+    "a45307e454352702",
+    "d664376e2a8dcecd",
+    "8c6cd03e70991dd5",
+    "a0b800e05a42a07a",
+    "3e2599d9b9704226",
+    "23d866b2d2faeda3",
+    "b10d676a6c5609fc",
+    "8df9fd90c80f5ee7",
+    "caf673d7dd1e9e33",
+    "791aaa1cd78afa7c",
+    "1b201d1c9a6d53b1",
+    "99b1cc8a5003ed92",
+    "a8c7edf65f74777d",
+    "1b9a4390dd05cbfc",
+    "d5f7e4911397d930",
+    "4077873997716165",
+    "874d82195daeea73",
+    "56c118a6680f432d",
+    "fa64550322a2c604",
+    "78fe4dfe3108f1b3",
+    "d70b1e3804d0cf7e",
+    "3f981cb7a1d37d90",
+    "ad071b2df36617db",
+    "b478e2c725f5c1aa",
+    "89064ece2b6e2ae7",
+    "c6616f416d25c04d",
+    "a29609a859d76ab7",
+    "285d50c400daa11c",
+    "f19aeb0686ad3df7",
+    "39f8bf6424a028ea",
+    "d412291d58c1b831",
+    "fa15addadf0c0f18",
+    "46075e75beb2569e",
+    "b33e386caff2da17"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "celex": "02009R1217-20180101",
+   "acts": [
+    {
+     "id": "eu:celex:32017R2278:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2017/2278 DA COMISSÃO de 4 de setembro de 2017",
+     "published": null,
+     "celex": "32017R2278"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 19.º-B",
+    "Altera Notas",
+    "Adita Alemanha",
+    "Suprime Alemanha (RF)"
+   ],
+   "fragments": [
+    "7cac1734a2e733b2",
+    "226c39ffd0a88dad",
+    "4db98d75a5689a5a",
+    "fb0f2d356cb26c7d",
+    "7fad308e159cf109",
+    "1e50912a25b4372a",
+    "f0f8c960bfdbce9b",
+    "32f87175129abe89",
+    "3ec2aadd73799d53",
+    "e9abb46a0acda066",
+    "154d48b2dc8fcff7",
+    "37e35131d494c21a",
+    "0ed43eb7182ff7d3",
+    "5db5d5df82f85dbe",
+    "4efc7b8c8e6e4187",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "b5add2068a777ba1",
+    "5e6275e871bbb8a6",
+    "b4cadfecebc7ca6b",
+    "20b55af0200e9327",
+    "5e14cb97edb32c81",
+    "e032f5ef2c9aaa84",
+    "a45307e454352702",
+    "d664376e2a8dcecd",
+    "8c6cd03e70991dd5",
+    "a0b800e05a42a07a",
+    "3e2599d9b9704226",
+    "23d866b2d2faeda3",
+    "b10d676a6c5609fc",
+    "02922a95fc7d66b5",
+    "caf673d7dd1e9e33",
+    "791aaa1cd78afa7c",
+    "1b201d1c9a6d53b1",
+    "99b1cc8a5003ed92",
+    "a8c7edf65f74777d",
+    "1b9a4390dd05cbfc",
+    "d5f7e4911397d930",
+    "4077873997716165",
+    "874d82195daeea73",
+    "56c118a6680f432d",
+    "fa64550322a2c604",
+    "78fe4dfe3108f1b3",
+    "d70b1e3804d0cf7e",
+    "3f981cb7a1d37d90",
+    "ad071b2df36617db",
+    "b478e2c725f5c1aa",
+    "89064ece2b6e2ae7",
+    "c6616f416d25c04d",
+    "a29609a859d76ab7",
+    "285d50c400daa11c",
+    "f19aeb0686ad3df7",
+    "39f8bf6424a028ea",
+    "d412291d58c1b831",
+    "fa15addadf0c0f18",
+    "46075e75beb2569e",
+    "ce9f3a23b7fb1ce8"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "celex": "02009R1217-20230101",
+   "acts": [
+    {
+     "id": "eu:celex:32022R2497:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2022/2497 DA COMISSÃO de 12 de outubro de 2022",
+     "published": null,
+     "celex": "32022R2497"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º-B",
+    "Altera França",
+    "Altera Notas",
+    "Suprime Reino Unido"
+   ],
+   "fragments": [
+    "7cac1734a2e733b2",
+    "226c39ffd0a88dad",
+    "4db98d75a5689a5a",
+    "286314f9cb1feff1",
+    "7fad308e159cf109",
+    "1e50912a25b4372a",
+    "f0f8c960bfdbce9b",
+    "32f87175129abe89",
+    "3ec2aadd73799d53",
+    "b263d7141a1335b0",
+    "154d48b2dc8fcff7",
+    "76a0e0e50b27763d",
+    "0ed43eb7182ff7d3",
+    "0d1951e316472e49",
+    "4e259040b0cfb439",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "b5add2068a777ba1",
+    "5e6275e871bbb8a6",
+    "2f1946a1c7418a8a",
+    "20b55af0200e9327",
+    "28ae4282bb2b1c11",
+    "e032f5ef2c9aaa84",
+    "a45307e454352702",
+    "d664376e2a8dcecd",
+    "8c6cd03e70991dd5",
+    "a0b800e05a42a07a",
+    "3e2599d9b9704226",
+    "23d866b2d2faeda3",
+    "b10d676a6c5609fc",
+    "02922a95fc7d66b5",
+    "caf673d7dd1e9e33",
+    "791aaa1cd78afa7c",
+    "1b201d1c9a6d53b1",
+    "99b1cc8a5003ed92",
+    "a7d4be43b7d3d04f",
+    "1b9a4390dd05cbfc",
+    "d5f7e4911397d930",
+    "4077873997716165",
+    "874d82195daeea73",
+    "56c118a6680f432d",
+    "fa64550322a2c604",
+    "78fe4dfe3108f1b3",
+    "d70b1e3804d0cf7e",
+    "3f981cb7a1d37d90",
+    "ad071b2df36617db",
+    "b478e2c725f5c1aa",
+    "89064ece2b6e2ae7",
+    "c6616f416d25c04d",
+    "a29609a859d76ab7",
+    "285d50c400daa11c",
+    "f19aeb0686ad3df7",
+    "39f8bf6424a028ea",
+    "fa15addadf0c0f18",
+    "46075e75beb2569e",
+    "11898f7ca019059f"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "celex": "02009R1217-20240101",
+   "acts": [
+    {
+     "id": "eu:celex:32023R2514:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2023/2514 DA COMISSÃO de 7 de setembro de 2023",
+     "published": null,
+     "celex": "32023R2514"
+    },
+    {
+     "id": "eu:celex:32023R2674:por",
+     "title": "REGULAMENTO (UE) 2023/2674 DO PARLAMENTO EUROPEU E DO CONSELHO de 22 de novembro de 2023",
+     "published": null,
+     "celex": "32023R2674"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 5.º-A",
+    "Altera Artigo 5.º-B",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 19.º-A",
+    "Altera Artigo 19.º-B",
+    "Altera Finlândia",
+    "Altera Notas",
+    "Adita CRIAÇÃO DE UMA REDE DE INFORMAÇÃO DE SUSTENTABILIDADE AGRÍCOLA",
+    "Adita DADOS PARA O PREENCHIMENTO DE FICHAS DE EXPLORAÇÃO E O ESTABELECIMENTO DE LIGAÇÕES ENTRE OS DADOS",
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 16.º-A",
+    "Adita Artigo 16.º-B",
+    "Adita Artigo 19.º-C",
+    "Adita ANEXO -I",
+    "Adita Lista de temas",
+    "Adita Económicos",
+    "Adita Ambientais",
+    "Adita Sociais",
+    "Suprime CRIAÇÃO DE UMA REDE DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA DA UNIÃO",
+    "Suprime DADOS PARA A VERIFICAÇÃO DOS RENDIMENTOS E PARA A ANÁLISE DO FUNCIONAMENTO ECONÓMICO DAS EXPLORAÇÕES AGRÍCOLAS"
+   ],
+   "fragments": [
+    "3a3cb8766d870dc3",
+    "226c39ffd0a88dad",
+    "1999f9aa4c2f84f8",
+    "a40c042d4ed3eb4f",
+    "787e6f4e1ffe89b5",
+    "f7d472555d172862",
+    "f0f8c960bfdbce9b",
+    "46f25a168564ca87",
+    "1c45eff51bca7b7a",
+    "ae4a4897ad093496",
+    "a671ac2b77c78d25",
+    "e44e15bcf572c5b6",
+    "ff2109c97e196310",
+    "c74707cdc96bd41b",
+    "450e9ff64baf27b4",
+    "4ffb034d7fc6fc0c",
+    "847b2bc8ad7322ba",
+    "1ecfc79da3f1ac7f",
+    "e17a2adcfbbdd4cc",
+    "607f9f39c2412116",
+    "a28721d4212f0c3c",
+    "3872fcd874b7d03b",
+    "5b96619274cf9e26",
+    "76b736c0d24c6d67",
+    "2c754c2c0786f36c",
+    "24f52d75ff468704",
+    "98a9a4b5af786a0a",
+    "e032f5ef2c9aaa84",
+    "a45307e454352702",
+    "9073913c52ad3a63",
+    "0987a1c1f9eef2e1",
+    "562683a3cf36ea30",
+    "0ae150ccad68af51",
+    "12cd2d19e7f2518b",
+    "d664376e2a8dcecd",
+    "8c6cd03e70991dd5",
+    "a0b800e05a42a07a",
+    "3e2599d9b9704226",
+    "23d866b2d2faeda3",
+    "b10d676a6c5609fc",
+    "02922a95fc7d66b5",
+    "caf673d7dd1e9e33",
+    "791aaa1cd78afa7c",
+    "1b201d1c9a6d53b1",
+    "99b1cc8a5003ed92",
+    "a7d4be43b7d3d04f",
+    "1b9a4390dd05cbfc",
+    "d5f7e4911397d930",
+    "4077873997716165",
+    "874d82195daeea73",
+    "56c118a6680f432d",
+    "fa64550322a2c604",
+    "78fe4dfe3108f1b3",
+    "d70b1e3804d0cf7e",
+    "3f981cb7a1d37d90",
+    "ad071b2df36617db",
+    "b478e2c725f5c1aa",
+    "89064ece2b6e2ae7",
+    "c6616f416d25c04d",
+    "a29609a859d76ab7",
+    "285d50c400daa11c",
+    "ac660c5f176c42f1",
+    "39f8bf6424a028ea",
+    "fa15addadf0c0f18",
+    "46075e75beb2569e",
+    "a0f157dcd596cbf3"
+   ]
+  }
+ ],
+ "fragments": {
+  "761e87b111b28d28": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro de 2009\n\nque cria uma rede de informação contabilística agrícola sobre os rendimentos e a economia das explorações agrícolas na Comunidade Europeia\n\n(versão codificada)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, nomeadamente o terceiro parágrafo do n.º 2 do artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu [([^1])](http://publications.europa.eu/resource/cellar/90a4c3e4-d577-4ef1-94b9-570f6cdb93d9.0018.02/DOC_1#ntr1-L_2009328PT.01002701-E0001),\n\nConsiderando o seguinte:\n\n(1) O Regulamento n.º 79/65/CEE do Conselho, de 15 de Junho de 1965, que cria uma rede de informação contabilística agrícola sobre os rendimentos e a economia das explorações agrícolas na Comunidade Económica Europeia [([^2])](http://publications.europa.eu/resource/cellar/90a4c3e4-d577-4ef1-94b9-570f6cdb93d9.0018.02/DOC_1#ntr2-L_2009328PT.01002701-E0002), foi por várias vezes alterado de modo substancial [([^3])](http://publications.europa.eu/resource/cellar/90a4c3e4-d577-4ef1-94b9-570f6cdb93d9.0018.02/DOC_1#ntr3-L_2009328PT.01002701-E0003). Por razões de clareza e racionalidade, deverá proceder-se à codificação do referido regulamento.\n\n(2) Para o desenvolvimento da política agrícola comum, é necessário dispor de informações objectivas e funcionais nomeadamente sobre os rendimentos nas diversas categorias de explorações agrícolas e sobre o funcionamento económico das explorações que pertencem às categorias que requerem uma atenção particular ao nível da Comunidade.\n\n(3) As contabilidades das explorações agrícolas constituem a fonte fundamental dos dados indispensáveis à verificação dos rendimentos nas explorações agrícolas e à análise do seu funcionamento económico.\n\n(4) Os dados a recolher deverão provir de explorações agrícolas especialmente e convenientemente seleccionadas de acordo com as regras comuns e basear-se em factos controláveis. Esses dados deverão inserir-se no contexto técnico, económico e social da exploração agrícola, corresponder a explorações individuais, estar disponíveis o mais rapidamente possível, corresponder a definições idênticas, ser apresentados de acordo com um esquema comum, poder ser utilizados a qualquer momento e em todos os seus pormenores pela Comissão.\n\n(5) Os objectivos pretendidos só podem ser atingidos por uma rede comunitária de informação contabilística agrícola, a seguir designada «rede de informação», que se apoie nos serviços contabilísticos agrícolas em cada Estado-Membro e que, beneficiando da confiança dos interessados, se baseie na sua participação voluntária.\n\n(6) A fim de obter resultados contabilísticos suficientemente homogéneos a nível comunitário, é conveniente, nomeadamente, distribuir as explorações pelas diferentes circunscrições e pelas diferentes classes de exploração, com base numa estratificação do campo de observação determinado pelo tipologia comunitária das explorações agrícolas definida pelo Regulamento (CE) n.º 1242/2008 da Comissão, de 8 de Dezembro de 2008, que estabelece uma tipologia comunitária das explorações agrícolas [([^4])](http://publications.europa.eu/resource/cellar/90a4c3e4-d577-4ef1-94b9-570f6cdb93d9.0018.02/DOC_1#ntr4-L_2009328PT.01002701-E0004).\n\n(7) As circunscrições da rede de informação deverão ser, tanto quanto possível, idênticas às consideradas para a apresentação de outros dados regionais essenciais para a orientação da política agrícola comum.\n\n(8) Por razões de gestão, é conveniente autorizar a Comissão a alterar a lista das circunscrições dos Estados-Membros, a pedido de um Estado-Membro.\n\n(9) O campo de observação da rede de informação deverá abranger todas as explorações agrícolas que tenham uma determinada dimensão económica, independentemente de quaisquer actividades exteriores que os seus titulares possam exercer. Esse campo de observação deverá ser reexaminado periodicamente em função dos novos dados do inquérito sobre as estruturas agrícolas.\n\n(10) As explorações contabilísticas deverão ser seleccionadas de acordo com regras estabelecidas no contexto de um plano de selecção que tenha por objectivo obter uma amostra representativa do campo de observação.\n\n(11) Tendo em conta a experiência adquirida, é desejável que as principais decisões respeitantes à selecção das explorações, nomeadamente o estabelecimento do plano de selecção, sejam adoptadas a nível nacional. Consequentemente, é a este nível que deverá existir um organismo responsável por esta operação. Não obstante, deverá permitir-se aos Estados-Membros com várias circunscrições a manutenção de comités regionais.\n\n(12) O órgão de ligação nacional deverá assumir uma função essencial na gestão da rede de informação.\n\n(13) A selecção das explorações agrícolas, bem como o exame e a apreciação dos dados recolhidos, requerem que nos reportemos a dados provenientes de outras fontes de informação.\n\n(14) Convém garantir aos agricultores que os dados contabilísticos da sua exploração e quaisquer outras informações individuais, obtidas em aplicação do presente regulamento, não serão utilizados com um fim fiscal ou para fins diferentes dos previstos no presente regulamento nem divulgados pelas pessoas que participam ou tenham participado na rede comunitária de informação contabilística agrícola.\n\n(15) Para garantir a objectividade e o carácter funcional das informações recolhidas, a Comissão deverá ter a possibilidade de obter todas as informações necessárias sobre a forma como os órgãos encarregados da selecção das explorações agrícolas e os serviços de contabilidade que participam na rede comunitária de informação contabilística agrícola cumprem a sua tarefa e, se o considerar necessário, enviar ao local peritos com a colaboração das instâncias nacionais competentes.\n\n(16) A rede de informação constitui um instrumento útil, que permite à Comunidade desenvolver a Política Agrícola Comum e que, nesta medida, serve quer os Estados-Membros quer a Comunidade. É conveniente, por conseguinte, que os custos dos sistemas informáticos de que depende a rede, bem como de estudos e actividades de desenvolvimento relativos a outros aspectos da mesma, sejam elegíveis para financiamento comunitário.\n\n(17) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^5])](http://publications.europa.eu/resource/cellar/90a4c3e4-d577-4ef1-94b9-570f6cdb93d9.0018.02/DOC_1#ntr5-L_2009328PT.01002701-E0005),\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "6c835b8a45b4a4d9": {
+   "fragment_id": "CRIAÇÃO DE UMA REDE COMUNITÁRIA DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA",
+   "type": "divisao",
+   "heading": "CRIAÇÃO DE UMA REDE COMUNITÁRIA DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRIAÇÃO DE UMA REDE COMUNITÁRIA DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA"
+  },
+  "aff768291d9bb334": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para as necessidades da política agrícola comum é instituída uma rede comunitária de informação contabilística agrícola, a seguir designada «rede de informação».\n\n2. A rede de informação tem por objectivo recolher os dados contabilísticos necessários nomeadamente para:\n\na) A verificação anual dos rendimentos nas explorações agrícolas incluídas no campo de observação definido no artigo 5.º; e\n\nb) A análise do funcionamento económico de explorações agrícolas.\n\n3. Os elementos obtidos em aplicação do presente regulamento servem nomeadamente de base ao estabelecimento, pela Comissão, de relatórios sobre a situação da agricultura e dos mercados agrícolas, bem como sobre os rendimentos agrícolas na Comunidade. Os relatórios são apresentados anualmente ao Parlamento Europeu e ao Conselho, com vista, nomeadamente, à fixação anual dos preços dos produtos agrícolas."
+  },
+  "a601d2f6da93af90": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara aplicação do presente regulamento entende-se por:\n\na) **«Chefe de exploração»**: a pessoa física que assegura a gestão corrente e quotidiana da exploração agrícola;\n\nb) **«Classe de explorações»**: no conjunto das explorações agrícolas pertencentes às mesmas classes de orientação técnico-económica e de dimensão económica de exploração, tal como definidas na tipologia comunitária das explorações agrícolas, estabelecida pelo Regulamento (CE) n.º 1242/2008;\n\nc) **«Exploração contabilística»**: qualquer exploração agrícola incluída ou a incluir no âmbito da rede de informação;\n\nd) **«Circunscrição»**: território de um Estado-Membro ou parte do território de um Estado-Membro delimitada com vista à escolha das explorações contabilísticas; a lista das circunscrições está estabelecida no anexo I;\n\ne) **«Dados contabilísticos»**: qualquer dado técnico, financeiro ou económico que caracterize uma exploração agrícola, resultante de uma contabilidade que compreenda registos sistemáticos e regulares durante o exercício contabilístico."
+  },
+  "9799f5bd00cdcbf3": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA pedido de um Estado-Membro, a lista das circunscrições é alterada pelo procedimento a que se refere o n.º 2 do artigo 18.º, desde que o pedido diga respeito às circunscrições do Estado-Membro em causa."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "d2e85ff42dd62edd": {
+   "fragment_id": "VERIFICAÇÃO DOS RENDIMENTOS NAS EXPLORAÇÕES AGRÍCOLAS",
+   "type": "divisao",
+   "heading": "VERIFICAÇÃO DOS RENDIMENTOS NAS EXPLORAÇÕES AGRÍCOLAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VERIFICAÇÃO DOS RENDIMENTOS NAS EXPLORAÇÕES AGRÍCOLAS"
+  },
+  "6d60042c8c7b6d4c": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente capítulo é aplicável à recolha dos dados contabilísticos com vista à verificação anual dos rendimentos nas explorações agrícolas."
+  },
+  "649859057483e450": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O campo de observação referido na alínea a) do n.º 2 do artigo 1.º compreende as explorações agrícolas com uma dimensão económica igual ou superior a um limiar expresso em euros correspondente a um dos limites inferiores das classes de dimensão económica definidas na tipologia comunitária.\n\n2. Para se qualificar como exploração contabilística, uma exploração agrícola deve:\n\na) Ter uma dimensão económica igual ou superior a um limiar a determinar de acordo com o n.º 1;\n\nb) Ser explorada por uma pessoa que disponha de ou que queira e possa manter uma contabilidade agrícola e que aceite que os dados contabilísticos da sua exploração sejam postos à disposição da Comissão;\n\nc) Ser representativa, em conjunto com as restantes explorações a nível de cada circunscrição, do campo de observação.\n\n3. O número máximo de explorações contabilísticas na Comunidade é de 105 000.\n\n4. As regras de execução do presente artigo, em especial as relativas ao limiar de dimensão económica das explorações e ao número de explorações contabilísticas por circunscrição, são aprovadas pelo procedimento a que se refere o n.º 2 do artigo 18.º"
+  },
+  "32aef904bb1eb186": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Cada Estado-Membro cria um Comité Nacional da Rede de Informação, a seguir designado «Comité Nacional»\n\n2. O Comité Nacional é responsável pela selecção das explorações contabilísticas. Como tal, cumpre-lhe nomeadamente aprovar:\n\na) O plano de selecção das explorações contabilísticas, incluindo, nomeadamente, a distribuição das explorações por classe de explorações e as modalidades de selecção das referidas explorações;\n\nb) O relatório de execução do plano de selecção das explorações contabilísticas.\n\n3. O Presidente do Comité Nacional é designado pelo Estado-Membro, de entre os membros deste Comité.\n\nO Comité Nacional toma as suas decisões por unanimidade. No caso de a unanimidade não ser conseguida, as decisões são tomadas pela Autoridade designada pelo Estado-Membro.\n\n4. Os Estados-Membros com várias circunscrições podem criar, a nível de cada circunscrição, um Comité Regional da Rede de Informação, a seguir designado «Comité Regional».\n\nO Comité Regional tem por tarefa, nomeadamente, cooperar com o órgão de ligação referido no artigo 7.º na selecção das explorações contabilísticas.\n\n5. As modalidades de aplicação do presente artigo são estabelecidas pelo procedimento a que se refere o n.º 2 do artigo 18.º."
+  },
+  "8243e9a3eb606d23": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Cada Estado-Membro designa um órgão de ligação com as seguintes funções:\n\na) Informar o Comité Nacional, os Comités Regionais e os Serviços de Contabilidade das modalidades de aplicação que lhes dizem respeito e velar pela sua boa execução;\n\nb) Estabelecer, submeter à aprovação do Comité Nacional e transmitir em seguida à Comissão: i) o plano de selecção das explorações contabilísticas, estabelecido com base nos mais recentes dados estatísticos referentes à tipologia comunitária das explorações agrícolas; ii) o relatório de execução do plano de selecção das explorações contabilísticas;\n\ni) o plano de selecção das explorações contabilísticas, estabelecido com base nos mais recentes dados estatísticos referentes à tipologia comunitária das explorações agrícolas;\n\nii) o relatório de execução do plano de selecção das explorações contabilísticas;\n\nc) Estabelecer: i) a lista das explorações contabilísticas; ii) a lista dos serviços de contabilidade dispostos a preencher a ficha de exploração, em conformidade com as cláusulas dos contratos previstos nos artigos 10.º e 15.º, e habilitados a fazê-lo;\n\ni) a lista das explorações contabilísticas;\n\nii) a lista dos serviços de contabilidade dispostos a preencher a ficha de exploração, em conformidade com as cláusulas dos contratos previstos nos artigos 10.º e 15.º, e habilitados a fazê-lo;\n\nd) Reunir as fichas de exploração que lhe são enviadas pelos Serviços de Contabilidade e verificar, com base num programa comum de controlo, o seu correcto preenchimento;\n\ne) Enviar à Comissão as fichas de exploração devidamente preenchidas imediatamente após a sua verificação;\n\nf) Transmitir ao Comité Nacional, aos Comités Regionais e aos Serviços de Contabilidade os pedidos de esclarecimento previstos no artigo 17.º e transmitir à Comissão as respostas correspondentes.\n\n2. As modalidades de aplicação do presente artigo são estabelecidas pelo procedimento a que se refere o n.º 2 do artigo 18.º"
+  },
+  "386a963634b043ab": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Cada exploração contabilística é objecto de uma ficha de exploração individual e anónima.\n\n2. A ficha de exploração de cada exploração contabilística compreende os dados contabilísticos que permitem:\n\n— caracterizar a exploração contabilística pelos elementos essenciais dos seus factores de produção;\n\n— apreciar o rendimento nos seus diferentes aspectos na exploração contabilística;\n\n— proceder a testes de veracidade do seu conteúdo.\n\n3. A natureza dos dados contabilísticos que as fichas de exploração devem comportar, a forma da sua apresentação, bem como as definições e as instruções que a elas se referem são determinadas pelo procedimento a que se refere o n.º 2 do artigo 18.º"
+  },
+  "e070366809dcdde5": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO agricultor cuja exploração é seleccionada como exploração contabilística escolhe, na lista estabelecida para esse fim pelo órgão de ligação, o serviço contabilístico disposto a preencher a ficha da sua exploração em conformidade com as cláusulas do contrato previsto no artigo 10.º"
+  },
+  "125842e657e1ed06": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Celebra-se anualmente um contrato sob a responsabilidade do Estado-Membro entre a instância competente designada por este e cada um dos serviços contabilísticos escolhidos em conformidade com o disposto no artigo 9.º. Nesse contrato, os serviços contabilísticos comprometem-se a preencher as fichas de exploração respeitando o disposto no artigo 8.º, mediante uma retribuição forfetária.\n\n2. Os termos do contrato mencionado no n.º 1, que deve ser uniforme em todos os Estados-Membros, são aprovados pelo procedimento a que se refere o n.º 2 do artigo 18.º\n\n3. No caso de as tarefas de um serviço contabilístico serem assumidas por um serviço administrativo, as mesmas são notificadas por via administrativa."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "32633baeec40d479": {
+   "fragment_id": "RECOLHA DOS DADOS CONTABILÍSTICOS COM VISTA A ANALISAR O FUNCIONAMENTO ECONÓMICO DE EXPLORAÇÕES AGRÍCOLAS",
+   "type": "divisao",
+   "heading": "RECOLHA DOS DADOS CONTABILÍSTICOS COM VISTA A ANALISAR O FUNCIONAMENTO ECONÓMICO DE EXPLORAÇÕES AGRÍCOLAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### RECOLHA DOS DADOS CONTABILÍSTICOS COM VISTA A ANALISAR O FUNCIONAMENTO ECONÓMICO DE EXPLORAÇÕES AGRÍCOLAS"
+  },
+  "f0a8dbc41587b29c": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente artigo é aplicável à recolha dos dados contabilísticos com vista a analisar o funcionamento económico de explorações agrícolas."
+  },
+  "4dbbc0f50ed769d5": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nPelo procedimento a que se refere o n.º 2 artigo 18.º, são determinados:\n\n— o objectivo das análises a que se refere a alínea b) do nº 2 do artigo 1.º;\n\n— as regras de selecção das explorações contabilísticas e o número dessas explorações determinados em função dos objectivos de cada análise."
+  },
+  "ccd40ade468e4355": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Cada exploração contabilística seleccionada em conformidade com as regras adoptadas segundo o disposto no segundo travessão do artigo 12.º é objecto de uma ficha de exploração especial, individual e anónima. Essa ficha de exploração comporta os dados contabilísticos referidos no n.º 2 do artigo 8.º, bem como todos os elementos e pormenores complementares de carácter contabilístico que correspondam às necessidades particulares de cada análise.\n\n2. A natureza dos dados que as fichas de exploração especiais devem comportar, a forma da sua apresentação bem como as definições e as instruções que a elas se referem são determinadas pelo procedimento a que se refere o n.º 2 do artigo 18.º\n\n3. A ficha de exploração especial é preenchida pelo serviço contabilístico escolhido em conformidade com o disposto no artigo 14.º."
+  },
+  "5cef4f89ab34221b": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO agricultor cuja exploração é seleccionada em conformidade com as regras adoptadas segundo o disposto no segundo travessão do artigo 12.º escolhe na lista estabelecida para esse fim pelo órgão de ligação o serviço contabilístico disposto a preencher a ficha especial da sua exploração em conformidade com as cláusulas do contrato previsto no artigo 15.º"
+  },
+  "0e61261e9befc164": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Celebra-se um contrato sob a responsabilidade do Estado-Membro entre a instância competente designada por este e cada serviço contabilístico escolhido nos termos do disposto no artigo 14.º. Nesse contrato os serviços contabilísticos comprometem-se a preencher as fichas de exploração especiais respeitando o disposto no artigo 13.º, mediante uma retribuição forfetária.\n\n2. Os termos do contrato mencionado no n.º 1, que deve ser uniforme em todos os Estados-membros, são aprovados pelo procedimento a que se refere o n.º 2 do artigo 18.º.\n\nAs disposições complementares que podem ser acrescentadas por um Estado-Membro a esse contrato são aprovadas pelo mesmo procedimento.\n\n3. No caso de as tarefas de um serviço contabilístico serem assumidas por um serviço administrativo, as mesmas são-lhe notificadas por via administrativa."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "b5add2068a777ba1": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. É proibido utilizar para efeitos fiscais qualquer dado contabilístico individual, ou qualquer outra informação individual, obtidos em aplicação do presente regulamento, ou divulgar ou utilizar esses dados para fins diferentes dos previstos no artigo 1.º\n\n2. As pessoas que participam ou que tenham participado na rede de informação comprometem-se a não divulgar os dados contabilísticos individuais ou quaisquer outras informações individuais de que tenham tido conhecimento no exercício das suas funções ou aquando do exercício da sua função.\n\n3. Os Estados-Membros tomam todas as medidas adequadas a fim de sancionar as infracções ao disposto no n.º 2."
+  },
+  "5e6275e871bbb8a6": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O Comité Nacional, os Comités Regionais, o órgão de ligação e os Serviços de Contabilidade são chamados, cada um no que lhe diz respeito, a prestar à Comissão todas as informações e esclarecimentos que esta possa pedir relativamente ao cumprimento das suas funções no âmbito do presente regulamento.\n\nEstes pedidos de esclarecimento destinados ao Comité Nacional, aos Comités Regionais ou aos Serviços de Contabilidade, bem como as respostas correspondentes, devem ser endereçados por escrito, por intermédio do órgão de ligação.\n\n2. Se as informações que são fornecidas são insuficientes ou se essas informações não chegarem em tempo útil, a Comissão pode, com a colaboração do órgão de ligação, enviar peritos ao local."
+  },
+  "7db3f3a69a0aca8b": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. A Comissão é assistida pelo Comité Comunitário da Rede de Informação Contabilística Agrícola, a seguir designado «Comité Comunitário».\n\n2. Sempre que se faça referência ao presente número, são aplicáveis os artigos 4.º e 7.º da Decisão 1999/468/CE.\n\nO prazo previsto no n.º 3 do artigo 4.º da Decisão 1999/468/CE é de um mês.\n\n3. O Comité Comunitário é consultado:\n\na) Para a verificação da conformidade dos planos de selecção das explorações contabilísticas com as disposições do artigo 5.º;\n\nb) Para o exame crítico e a apreciação dos resultados anuais ponderados da rede de informação, tendo em conta, nomeadamente, os dados provenientes de outras fontes, tais como estatísticas e dados económicos globais.\n\n4. O Comité Comunitário pode examinar qualquer outra questão levantada pelo seu Presidente, por iniciativa própria ou a pedido do representante de um Estado-Membro.\n\nO Comité Comunitário procede anualmente, em Outubro, a um exame da evolução dos rendimentos agrícolas na Comunidade, nomeadamente, com base nos resultados actualizados da rede de informação.\n\nO Comité Comunitário deve ser regularmente informado da actividade de rede de informação.\n\n5. O presidente convoca as reuniões do Comité Comunitário.\n\nO secretariado do Comité Comunitário é assegurado pela Comissão."
+  },
+  "ea3461035bbb5b22": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. As dotações a incluir no orçamento geral da União Europeia, secção Comissão, cobrem:\n\na) Os custos específicos da rede de informação imputáveis às retribuições pagas aos serviços contabilísticos para execução das obrigações referidas nos artigos 10.º e 15.º;\n\nb) Todas as despesas dos sistemas informáticos utilizados pela Comissão para a recepção, verificação, tratamento e análise dos dados contabilísticos fornecidos pelos Estados-Membros.\n\nOs custos referidos na alínea b) incluem, se for caso disso, os inerentes à divulgação dos resultados dessas operações, bem como a estudos e actividades de desenvolvimento relativos a outros aspectos da rede de informação.\n\n2. As despesas inerentes à constituição e funcionamento do Comité Nacional, dos Comités Regionais e dos órgãos de ligação não estão inscritas no orçamento da Comunidade."
+  },
+  "e032f5ef2c9aaa84": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO Regulamento 79/65/CEE é revogado.\n\nAs remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento, e ler-se nos termos do quadro de correspondência constante do Anexo III."
+  },
+  "b0b178fc7bc832ba": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, 30 de Novembro de 2009.\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**S. O. LITTORIN**\n\n---"
+  },
+  "fa3238a042f4def2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/90a4c3e4-d577-4ef1-94b9-570f6cdb93d9.0018.02/DOC_1#ntc1-L_2009328PT.01002701-E0001) Parecer emitido em 20 de Outubro de 2009 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/90a4c3e4-d577-4ef1-94b9-570f6cdb93d9.0018.02/DOC_1#ntc2-L_2009328PT.01002701-E0002) [JO 109 de 23.6.1965, p. 1859/65](http://publications.europa.eu/resource/oj/JOP_1965_109_R_TOC).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/90a4c3e4-d577-4ef1-94b9-570f6cdb93d9.0018.02/DOC_1#ntc3-L_2009328PT.01002701-E0003) Ver Anexo II.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/90a4c3e4-d577-4ef1-94b9-570f6cdb93d9.0018.02/DOC_1#ntc4-L_2009328PT.01002701-E0004) [JO L 335 de 13.12.2008, p. 3](http://publications.europa.eu/resource/oj/JOL_2008_335_R_TOC).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/90a4c3e4-d577-4ef1-94b9-570f6cdb93d9.0018.02/DOC_1#ntc5-L_2009328PT.01002701-E0005) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC)."
+  },
+  "ce0cec4bdfe23c4b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro de 2009\n\nque cria uma rede de informação contabilística agrícola sobre os rendimentos e a economia das explorações agrícolas na Comunidade Europeia\n\n(versão codificada)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, nomeadamente o terceiro parágrafo do n.º 2 do artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/bf210dc9-89c7-4bcd-9ba2-0a9f62f68fe8.0018.03/DOC_1#E0001)),\n\n(1) O Regulamento n.º 79/65/CEE do Conselho, de 15 de Junho de 1965, que cria uma rede de informação contabilística agrícola sobre os rendimentos e a economia das explorações agrícolas na Comunidade Económica Europeia ([^2^](http://publications.europa.eu/resource/cellar/bf210dc9-89c7-4bcd-9ba2-0a9f62f68fe8.0018.03/DOC_1#E0002)), foi por várias vezes alterado de modo substancial ([^3^](http://publications.europa.eu/resource/cellar/bf210dc9-89c7-4bcd-9ba2-0a9f62f68fe8.0018.03/DOC_1#E0003)). Por razões de clareza e racionalidade, deverá proceder-se à codificação do referido regulamento.\n\n(2) Para o desenvolvimento da política agrícola comum, é necessário dispor de informações objectivas e funcionais nomeadamente sobre os rendimentos nas diversas categorias de explorações agrícolas e sobre o funcionamento económico das explorações que pertencem às categorias que requerem uma atenção particular ao nível da Comunidade.\n\n(3) As contabilidades das explorações agrícolas constituem a fonte fundamental dos dados indispensáveis à verificação dos rendimentos nas explorações agrícolas e à análise do seu funcionamento económico.\n\n(4) Os dados a recolher deverão provir de explorações agrícolas especialmente e convenientemente seleccionadas de acordo com as regras comuns e basear-se em factos controláveis. Esses dados deverão inserir-se no contexto técnico, económico e social da exploração agrícola, corresponder a explorações individuais, estar disponíveis o mais rapidamente possível, corresponder a definições idênticas, ser apresentados de acordo com um esquema comum, poder ser utilizados a qualquer momento e em todos os seus pormenores pela Comissão.\n\n(5) Os objectivos pretendidos só podem ser atingidos por uma rede comunitária de informação contabilística agrícola, a seguir designada «rede de informação», que se apoie nos serviços contabilísticos agrícolas em cada Estado-Membro e que, beneficiando da confiança dos interessados, se baseie na sua participação voluntária.\n\n(6) A fim de obter resultados contabilísticos suficientemente homogéneos a nível comunitário, é conveniente, nomeadamente, distribuir as explorações pelas diferentes circunscrições e pelas diferentes classes de exploração, com base numa estratificação do campo de observação determinado pelo tipologia comunitária das explorações agrícolas definida pelo Regulamento (CE) n.º 1242/2008 da Comissão, de 8 de Dezembro de 2008, que estabelece uma tipologia comunitária das explorações agrícolas ([^4^](http://publications.europa.eu/resource/cellar/bf210dc9-89c7-4bcd-9ba2-0a9f62f68fe8.0018.03/DOC_1#E0004)).\n\n(7) As circunscrições da rede de informação deverão ser, tanto quanto possível, idênticas às consideradas para a apresentação de outros dados regionais essenciais para a orientação da política agrícola comum.\n\n(8) Por razões de gestão, é conveniente autorizar a Comissão a alterar a lista das circunscrições dos Estados-Membros, a pedido de um Estado-Membro.\n\n(9) O campo de observação da rede de informação deverá abranger todas as explorações agrícolas que tenham uma determinada dimensão económica, independentemente de quaisquer actividades exteriores que os seus titulares possam exercer. Esse campo de observação deverá ser reexaminado periodicamente em função dos novos dados do inquérito sobre as estruturas agrícolas.\n\n(10) As explorações contabilísticas deverão ser seleccionadas de acordo com regras estabelecidas no contexto de um plano de selecção que tenha por objectivo obter uma amostra representativa do campo de observação.\n\n(11) Tendo em conta a experiência adquirida, é desejável que as principais decisões respeitantes à selecção das explorações, nomeadamente o estabelecimento do plano de selecção, sejam adoptadas a nível nacional. Consequentemente, é a este nível que deverá existir um organismo responsável por esta operação. Não obstante, deverá permitir-se aos Estados-Membros com várias circunscrições a manutenção de comités regionais.\n\n(12) O órgão de ligação nacional deverá assumir uma função essencial na gestão da rede de informação.\n\n(13) A selecção das explorações agrícolas, bem como o exame e a apreciação dos dados recolhidos, requerem que nos reportemos a dados provenientes de outras fontes de informação.\n\n(14) Convém garantir aos agricultores que os dados contabilísticos da sua exploração e quaisquer outras informações individuais, obtidas em aplicação do presente regulamento, não serão utilizados com um fim fiscal ou para fins diferentes dos previstos no presente regulamento nem divulgados pelas pessoas que participam ou tenham participado na rede comunitária de informação contabilística agrícola.\n\n(15) Para garantir a objectividade e o carácter funcional das informações recolhidas, a Comissão deverá ter a possibilidade de obter todas as informações necessárias sobre a forma como os órgãos encarregados da selecção das explorações agrícolas e os serviços de contabilidade que participam na rede comunitária de informação contabilística agrícola cumprem a sua tarefa e, se o considerar necessário, enviar ao local peritos com a colaboração das instâncias nacionais competentes.\n\n(16) A rede de informação constitui um instrumento útil, que permite à Comunidade desenvolver a Política Agrícola Comum e que, nesta medida, serve quer os Estados-Membros quer a Comunidade. É conveniente, por conseguinte, que os custos dos sistemas informáticos de que depende a rede, bem como de estudos e actividades de desenvolvimento relativos a outros aspectos da mesma, sejam elegíveis para financiamento comunitário.\n\n(17) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^5^](http://publications.europa.eu/resource/cellar/bf210dc9-89c7-4bcd-9ba2-0a9f62f68fe8.0018.03/DOC_1#E0005)),\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "97eff09fc38d741e": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara aplicação do presente regulamento entende-se por:\n\na) «Chefe de exploração»: a pessoa física que assegura a gestão corrente e quotidiana da exploração agrícola;\n\nb) «Classe de explorações»: no conjunto das explorações agrícolas pertencentes às mesmas classes de orientação técnico-económica e de dimensão económica de exploração, tal como definidas na tipologia comunitária das explorações agrícolas, estabelecida pelo Regulamento (CE) n.º 1242/2008;\n\nc) «Exploração contabilística»: qualquer exploração agrícola incluída ou a incluir no âmbito da rede de informação;\n\nd) «Circunscrição»: território de um Estado-Membro ou parte do território de um Estado-Membro delimitada com vista à escolha das explorações contabilísticas; a lista das circunscrições está estabelecida no anexo I;\n\ne) «Dados contabilísticos»: qualquer dado técnico, financeiro ou económico que caracterize uma exploração agrícola, resultante de uma contabilidade que compreenda registos sistemáticos e regulares durante o exercício contabilístico."
+  },
+  "080b24ecb226b23e": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Cada Estado-Membro designa um órgão de ligação com as seguintes funções:\n\na) Informar o Comité Nacional, os Comités Regionais e os Serviços de Contabilidade das modalidades de aplicação que lhes dizem respeito e velar pela sua boa execução;\n\nb) Estabelecer, submeter à aprovação do Comité Nacional e transmitir em seguida à Comissão:\n\ni) o plano de selecção das explorações contabilísticas, estabelecido com base nos mais recentes dados estatísticos referentes à tipologia comunitária das explorações agrícolas;\n\nii) o relatório de execução do plano de selecção das explorações contabilísticas;\n\nc) Estabelecer:\n\ni) a lista das explorações contabilísticas;\n\nii) a lista dos serviços de contabilidade dispostos a preencher a ficha de exploração, em conformidade com as cláusulas dos contratos previstos nos artigos 10.º e 15.º, e habilitados a fazê-lo;\n\nd) Reunir as fichas de exploração que lhe são enviadas pelos Serviços de Contabilidade e verificar, com base num programa comum de controlo, o seu correcto preenchimento;\n\ne) Enviar à Comissão as fichas de exploração devidamente preenchidas imediatamente após a sua verificação;\n\nf) Transmitir ao Comité Nacional, aos Comités Regionais e aos Serviços de Contabilidade os pedidos de esclarecimento previstos no artigo 17.º e transmitir à Comissão as respostas correspondentes.\n\n2. As modalidades de aplicação do presente artigo são estabelecidas pelo procedimento a que se refere o n.º 2 do artigo 18.º"
+  },
+  "a45307e454352702": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "5bf722829a3bd801": {
+   "fragment_id": "Lista das circunscrições referidas na alínea d) do artigo 2.º",
+   "type": "divisao",
+   "heading": "Lista das circunscrições referidas na alínea d) do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista das circunscrições referidas na alínea d) do artigo 2.º"
+  },
+  "a0b800e05a42a07a": {
+   "fragment_id": "Bélgica",
+   "type": "divisao",
+   "heading": "Bélgica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Bélgica\n\n1. Vlaanderen\n\n2. Bruxelles — Brussel\n\n3. Wallonie"
+  },
+  "3e2599d9b9704226": {
+   "fragment_id": "Bulgária",
+   "type": "divisao",
+   "heading": "Bulgária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Bulgária\n\n1. Северозападен (Severozapaden)\n\n2. Северен централен (Severen tsentralen)\n\n3. Североизточен (Severoiztochen)\n\n4. Югозападен (Yugozapaden)\n\n5. Южен централен (Yuzhen tsentralen)\n\n6. Югоизточен (Yugoiztochen)\n\nNo entanto, a Bulgária pode constituir uma única circunscrição até 31 de Dezembro de 2009"
+  },
+  "23d866b2d2faeda3": {
+   "fragment_id": "República Checa",
+   "type": "divisao",
+   "heading": "República Checa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### República Checa\n\nConstitui uma única circunscrição"
+  },
+  "b10d676a6c5609fc": {
+   "fragment_id": "Dinamarca",
+   "type": "divisao",
+   "heading": "Dinamarca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Dinamarca\n\nConstitui uma única circunscrição"
+  },
+  "8df9fd90c80f5ee7": {
+   "fragment_id": "Alemanha (RF)",
+   "type": "divisao",
+   "heading": "Alemanha (RF)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Alemanha (RF)\n\n1. Schleswig-Holstein\n\n2. Hamburg\n\n3. Niedersachsen\n\n4. Bremen\n\n5. Nordrhein-Westfalen\n\n6. Hessen\n\n7. Rheinland-Pfalz\n\n8. Baden-Württemberg\n\n9. Bayern\n\n10. Saarland\n\n11. Berlin\n\n12. Brandenburg\n\n13. Mecklenburg-Vorpommern\n\n14. Sachsen\n\n15. Sachsen-Anhalt\n\n16. Thüringen"
+  },
+  "caf673d7dd1e9e33": {
+   "fragment_id": "Estónia",
+   "type": "divisao",
+   "heading": "Estónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Estónia\n\nConstitui uma única circunscrição"
+  },
+  "791aaa1cd78afa7c": {
+   "fragment_id": "Irlanda",
+   "type": "divisao",
+   "heading": "Irlanda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Irlanda\n\nConstitui uma única circunscrição"
+  },
+  "1b201d1c9a6d53b1": {
+   "fragment_id": "Grécia",
+   "type": "divisao",
+   "heading": "Grécia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Grécia\n\n1. Μακεδονία — Θράκη.\n\n2. Ήπειρος — Πελοπόννησος — Νήσοι Ιονίου.\n\n3. Θεσσαλία.\n\n4. Στερεά Ελλάς — Νήσοι Αιγαίου — Κρήτη."
+  },
+  "99b1cc8a5003ed92": {
+   "fragment_id": "Espanha",
+   "type": "divisao",
+   "heading": "Espanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Espanha\n\n1. Galicia\n\n2. Asturias\n\n3. Cantabria\n\n4. País Vasco\n\n5. Navarra\n\n6. La Rioja\n\n7. Aragón\n\n8. Cataluña\n\n9. Baleares\n\n10. Castilla-León\n\n11. Madrid\n\n12. Castilla-La Mancha\n\n13. Comunidad Valenciana\n\n14. Murcia\n\n15. Extremadura\n\n16. Andalucía\n\n17. Canarias"
+  },
+  "a8c7edf65f74777d": {
+   "fragment_id": "França",
+   "type": "divisao",
+   "heading": "França",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### França\n\n1. Île de France\n\n2. Champagne-Ardenne\n\n3. Picardie\n\n4. Haute-Normandie\n\n5. Centre\n\n6. Basse-Normandie\n\n7. Bourgogne\n\n8. Nord-Pas-de-Calais\n\n9. Lorraine\n\n10. Alsace\n\n11. Franche-Comté\n\n12. Pays de la Loire\n\n13. Bretagne\n\n14. Poitou-Charentes\n\n15. Aquitaine\n\n16. Midi-Pyrénées\n\n17. Limousin\n\n18. Rhône-Alpes\n\n19. Auvergne\n\n20. Languedoc-Roussillon\n\n21. Provence-Alpes-Côte-d'Azur\n\n22. Corse\n\n23. Guadeloupe\n\n24. Martinique\n\n25. La Réunion"
+  },
+  "d5f7e4911397d930": {
+   "fragment_id": "Itália",
+   "type": "divisao",
+   "heading": "Itália",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Itália\n\n1. Piemonte\n\n2. Valle d'Aosta\n\n3. Lombardia\n\n4. Alto Adige\n\n5. Trentino\n\n6. Veneto\n\n7. Friuli-Venezia Giulia\n\n8. Liguria\n\n9. Emilia-Romagna\n\n10. Toscana\n\n11. Umbria\n\n12. Marche\n\n13. Lazio\n\n14. Abruzzi\n\n15. Molise\n\n16. Campania\n\n17. Puglia\n\n18. Basilicata\n\n19. Calabria\n\n20. Sicilia\n\n21. Sardegna"
+  },
+  "4077873997716165": {
+   "fragment_id": "Chipre",
+   "type": "divisao",
+   "heading": "Chipre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Chipre\n\nConstitui uma única circunscrição"
+  },
+  "874d82195daeea73": {
+   "fragment_id": "Letónia",
+   "type": "divisao",
+   "heading": "Letónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Letónia\n\nConstitui uma única circunscrição"
+  },
+  "56c118a6680f432d": {
+   "fragment_id": "Lituânia",
+   "type": "divisao",
+   "heading": "Lituânia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Lituânia\n\nConstitui uma única circunscrição"
+  },
+  "fa64550322a2c604": {
+   "fragment_id": "Luxemburgo",
+   "type": "divisao",
+   "heading": "Luxemburgo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Luxemburgo\n\nConstitui uma única circunscrição"
+  },
+  "78fe4dfe3108f1b3": {
+   "fragment_id": "Hungria",
+   "type": "divisao",
+   "heading": "Hungria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Hungria\n\n1. Észak-Magyarország\n\n2. Dunántúl\n\n3. Alföld"
+  },
+  "d70b1e3804d0cf7e": {
+   "fragment_id": "Malta",
+   "type": "divisao",
+   "heading": "Malta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Malta\n\nConstitui uma única circunscrição"
+  },
+  "3f981cb7a1d37d90": {
+   "fragment_id": "Países Baixos",
+   "type": "divisao",
+   "heading": "Países Baixos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Países Baixos\n\nConstituem uma única circunscrição"
+  },
+  "ad071b2df36617db": {
+   "fragment_id": "Áustria",
+   "type": "divisao",
+   "heading": "Áustria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Áustria\n\nConstitui uma única circunscrição"
+  },
+  "b478e2c725f5c1aa": {
+   "fragment_id": "Polónia",
+   "type": "divisao",
+   "heading": "Polónia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Polónia\n\n1. Pomorze y Mazury\n\n2. Wielkopolska y Śląsk\n\n3. Mazowsze y Podlasie\n\n4. Małopolska y Pogórze"
+  },
+  "89064ece2b6e2ae7": {
+   "fragment_id": "Portugal",
+   "type": "divisao",
+   "heading": "Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Portugal\n\n1. Norte e Centro\n\n2. Ribatejo-Oeste\n\n3. Alentejo e Algarve\n\n4. Açores e Madeira"
+  },
+  "c6616f416d25c04d": {
+   "fragment_id": "Romania",
+   "type": "divisao",
+   "heading": "Romania",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Romania\n\n1. Nord-Est\n\n2. Sud-Est\n\n3. Sud-Muntenia\n\n4. Sud-Vest-Oltenia\n\n5. Vest\n\n6. Nord-Vest\n\n7. Centru\n\n8. București-Ilfov"
+  },
+  "a29609a859d76ab7": {
+   "fragment_id": "Eslovénia",
+   "type": "divisao",
+   "heading": "Eslovénia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Eslovénia\n\nConstitui uma única circunscrição"
+  },
+  "285d50c400daa11c": {
+   "fragment_id": "Eslováquia",
+   "type": "divisao",
+   "heading": "Eslováquia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Eslováquia\n\nConstitui uma única circunscrição"
+  },
+  "f19aeb0686ad3df7": {
+   "fragment_id": "Finlândia",
+   "type": "divisao",
+   "heading": "Finlândia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Finlândia\n\n1. Etelä-Suomi\n\n2. Sisä-Suomi\n\n3. Pohjanmaa\n\n4. Pohjois-Suomi"
+  },
+  "39f8bf6424a028ea": {
+   "fragment_id": "Suécia",
+   "type": "divisao",
+   "heading": "Suécia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Suécia\n\n1. Planícies do Sul e Centro da Suécia\n\n2. Zonas florestais e agro-florestais do Sul e Centro da Suécia\n\n3. Zonas do Norte da Suécia"
+  },
+  "d412291d58c1b831": {
+   "fragment_id": "Reino Unido",
+   "type": "divisao",
+   "heading": "Reino Unido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Reino Unido\n\n1. Inglaterra — Região setentrional\n\n2. Inglaterra — Região oriental\n\n3. Inglaterra — Região ocidental\n\n4. País de Gales\n\n5. Escócia\n\n6. Irlanda do Norte"
+  },
+  "fa15addadf0c0f18": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nRegulamento n.º 79/65/CEE do Conselho (JO 109 de 23.6.1965, p. 1859/65)\n\nActo de Adesão de 1972, Anexo I, Ponto II.A.4 e Anexo II, Ponto II.D.1 (JO L 73 de 27.3.1972, p.59 e p. 125)\n\nRegulamento (CEE) n.º 2835/72 do Conselho (JO L 298 de 31.12.1972, p. 47)\n\nRegulamento (CEE) n.º 2910/73 do Conselho (JO L 299 de 27.10.1973, p. 1)\n\nActo de Adesão de 1979, Anexo I, Ponto II.A. e II.G. (JO L 291 de 19.11.1979, p. 64 e p. 87)\n\nRegulamento (CEE) n.º 2143/81 do Conselho (JO L 210 de 30.7.1981, p. 1)\n\nRegulamento (CEE) n.º 3644/85 do Conselho (JO L 348 de 24.12.1985, p. 4)\n\nActo de Adesão de 1985, Anexo I, Ponto XIV.(i) (JO L 302 de 15.11.1985, p. 235)\n\nRegulamento (CEE) n.º 3768/85 do Conselho (JO L 362 de 31.12.1985, p. 8) Unicamente o ponto 2 do Anexo\n\nRegulamento (CEE) n.º 3577/90 do Conselho (JO L 353 de 17.12.1990, p. 23) Unicamente o Anexo XVI\n\nActo de Adesão de 1994, Anexo I, Ponto V.A.I (JO C 241 de 29.8.1994, p. 117)\n\nRegulamento (CE) n.º 2801/95 do Conselho (JO L 291 de 6.12.1995, p. 3)\n\nRegulamento (CE) n.º 1256/97 do Conselho (JO L 174 de 2.7.1997, p. 7)\n\nRegulamento (CE) n.º 806/2003 do Conselho (JO L 122 de 16.5.2003, p. 1) Unicamente o ponto 1 do Anexo II\n\nActo de Adesão de 2003, Anexo II, Ponto 6.A.I (JO L 236 de 23.9.2003, p. 346)\n\nRegulamento (CE) n.º 2059/2003 do Conselho (JO L 308 de 25.11.2003, p. 1)\n\nRegulamento (CE) n.º 660/2004 da Comissão (JO L 104 de 8.4.2004, p. 97)\n\nRegulamento (CE) n.º 1791/2006 da Comissão (JO L 363 de 20.12.2006, p. 1) Unicamente o ponto 1 da secção A do capítulo 5 do anexo\n\nRegulamento (CE) n.º 1469/2007 da Comissão (JO L 329 de 14.12.2007, p. 5)"
+  },
+  "46075e75beb2569e": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\nRegulamento N.º 79/65/CEE Presente Regulamento\n\nArtigos 1.º e 2.º Artigos 1.º e 2.º\n\nArtigo 2.º-A Artigo 3.º\n\nArtigo 3.º Artigo 4.º\n\nArtigo 4.º Artigo 5.º\n\nArtigo 5.º Artigo 6.º\n\nArtigo 6.º, n.º 1, alínea a) Artigo 7.º, n.º 1, alínea a)\n\nArtigo 6.º, n.º 1, alínea b), primeiro travessão Artigo 7.º, n.º 1, alínea b), subalínea i)\n\nArtigo 6.º, n.º 1, alínea b), segundo travessão Artigo 7.º, n.º 1, alínea b), subalínea ii)\n\nArtigo 6.º, n.º 1, alínea c), primeiro travessão Artigo 7.º, n.º 1, alínea c), subalínea i)\n\nArtigo 6.º, n.º 1, alínea c), segundo travessão Artigo 7.º, n.º 1, alínea c), subalínea ii)\n\nArtigo 6.º, n.º 1, alíneas e), f) e g) Artigo 7.º, n.º 1, alíneas e), f) e g)\n\nArtigo 6.º, n.º 2 Artigo 7.º, n.º 2\n\nArtigo 7.º Artigo 8.º\n\nArtigo 8.º Artigo 9.º\n\nArtigo 9.º Artigo 10.º\n\nArtigo 10.º Artigo 11.º\n\nArtigo 11.º Artigo 12.º\n\nArtigo 12.º Artigo 13.º\n\nArtigo 13.º Artigo 14.º\n\nArtigo 14.º Artigo 15.º\n\nArtigo 15.º Artigo 16.º\n\nArtigo 16.º Artigo 17.º\n\nArtigo 17.º —\n\nArtigo 18.º —\n\nArtigo 19.º Artigo 18.º, n.^os^ 1, 2 e 3\n\nArtigo 20.º, n.^os^ 1 e 2 Artigo 18.º, n.^os^ 4 e 5\n\nArtigo 21.º, primeiro e segundo parágrafos Artigo 18.º, n.º 6\n\nArtigo 21.º, terceiro parágrafo —\n\nArtigo 22.º Artigo 19.º\n\nArtigo 23.º —\n\n— Artigo 20.º\n\n— Artigo 21.º\n\nAnexo Anexo I\n\n— Anexo II\n\n— Anexo III\n\n---"
+  },
+  "09226d8a9537dd72": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/bf210dc9-89c7-4bcd-9ba2-0a9f62f68fe8.0018.03/DOC_1#src.E0001)) Parecer emitido em 20 de Outubro de 2009 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/bf210dc9-89c7-4bcd-9ba2-0a9f62f68fe8.0018.03/DOC_1#src.E0002)) JO 109 de 23.6.1965, p. 1859/65.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/bf210dc9-89c7-4bcd-9ba2-0a9f62f68fe8.0018.03/DOC_1#src.E0003)) Ver Anexo II.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/bf210dc9-89c7-4bcd-9ba2-0a9f62f68fe8.0018.03/DOC_1#src.E0004)) JO L 335 de 13.12.2008, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/bf210dc9-89c7-4bcd-9ba2-0a9f62f68fe8.0018.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "6bef6803b01b1d81": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro de 2009\n\nque cria uma rede de informação contabilística agrícola sobre os rendimentos e a economia das explorações agrícolas na Comunidade Europeia\n\n(versão codificada)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, nomeadamente o terceiro parágrafo do n.º 2 do artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/5465a476-58f5-47e4-9625-910136ab94f0.0018.03/DOC_1#E0001)),\n\n(1) O Regulamento n.º 79/65/CEE do Conselho, de 15 de Junho de 1965, que cria uma rede de informação contabilística agrícola sobre os rendimentos e a economia das explorações agrícolas na Comunidade Económica Europeia ([^2^](http://publications.europa.eu/resource/cellar/5465a476-58f5-47e4-9625-910136ab94f0.0018.03/DOC_1#E0002)), foi por várias vezes alterado de modo substancial ([^3^](http://publications.europa.eu/resource/cellar/5465a476-58f5-47e4-9625-910136ab94f0.0018.03/DOC_1#E0003)). Por razões de clareza e racionalidade, deverá proceder-se à codificação do referido regulamento.\n\n(2) Para o desenvolvimento da política agrícola comum, é necessário dispor de informações objectivas e funcionais nomeadamente sobre os rendimentos nas diversas categorias de explorações agrícolas e sobre o funcionamento económico das explorações que pertencem às categorias que requerem uma atenção particular ao nível da Comunidade.\n\n(3) As contabilidades das explorações agrícolas constituem a fonte fundamental dos dados indispensáveis à verificação dos rendimentos nas explorações agrícolas e à análise do seu funcionamento económico.\n\n(4) Os dados a recolher deverão provir de explorações agrícolas especialmente e convenientemente seleccionadas de acordo com as regras comuns e basear-se em factos controláveis. Esses dados deverão inserir-se no contexto técnico, económico e social da exploração agrícola, corresponder a explorações individuais, estar disponíveis o mais rapidamente possível, corresponder a definições idênticas, ser apresentados de acordo com um esquema comum, poder ser utilizados a qualquer momento e em todos os seus pormenores pela Comissão.\n\n(5) Os objectivos pretendidos só podem ser atingidos por uma rede comunitária de informação contabilística agrícola, a seguir designada «rede de informação», que se apoie nos serviços contabilísticos agrícolas em cada Estado-Membro e que, beneficiando da confiança dos interessados, se baseie na sua participação voluntária.\n\n(6) A fim de obter resultados contabilísticos suficientemente homogéneos a nível comunitário, é conveniente, nomeadamente, distribuir as explorações pelas diferentes circunscrições e pelas diferentes classes de exploração, com base numa estratificação do campo de observação determinado pelo tipologia comunitária das explorações agrícolas definida pelo Regulamento (CE) n.º 1242/2008 da Comissão, de 8 de Dezembro de 2008, que estabelece uma tipologia comunitária das explorações agrícolas ([^4^](http://publications.europa.eu/resource/cellar/5465a476-58f5-47e4-9625-910136ab94f0.0018.03/DOC_1#E0004)).\n\n(7) As circunscrições da rede de informação deverão ser, tanto quanto possível, idênticas às consideradas para a apresentação de outros dados regionais essenciais para a orientação da política agrícola comum.\n\n(8) Por razões de gestão, é conveniente autorizar a Comissão a alterar a lista das circunscrições dos Estados-Membros, a pedido de um Estado-Membro.\n\n(9) O campo de observação da rede de informação deverá abranger todas as explorações agrícolas que tenham uma determinada dimensão económica, independentemente de quaisquer actividades exteriores que os seus titulares possam exercer. Esse campo de observação deverá ser reexaminado periodicamente em função dos novos dados do inquérito sobre as estruturas agrícolas.\n\n(10) As explorações contabilísticas deverão ser seleccionadas de acordo com regras estabelecidas no contexto de um plano de selecção que tenha por objectivo obter uma amostra representativa do campo de observação.\n\n(11) Tendo em conta a experiência adquirida, é desejável que as principais decisões respeitantes à selecção das explorações, nomeadamente o estabelecimento do plano de selecção, sejam adoptadas a nível nacional. Consequentemente, é a este nível que deverá existir um organismo responsável por esta operação. Não obstante, deverá permitir-se aos Estados-Membros com várias circunscrições a manutenção de comités regionais.\n\n(12) O órgão de ligação nacional deverá assumir uma função essencial na gestão da rede de informação.\n\n(13) A selecção das explorações agrícolas, bem como o exame e a apreciação dos dados recolhidos, requerem que nos reportemos a dados provenientes de outras fontes de informação.\n\n(14) Convém garantir aos agricultores que os dados contabilísticos da sua exploração e quaisquer outras informações individuais, obtidas em aplicação do presente regulamento, não serão utilizados com um fim fiscal ou para fins diferentes dos previstos no presente regulamento nem divulgados pelas pessoas que participam ou tenham participado na rede comunitária de informação contabilística agrícola.\n\n(15) Para garantir a objectividade e o carácter funcional das informações recolhidas, a Comissão deverá ter a possibilidade de obter todas as informações necessárias sobre a forma como os órgãos encarregados da selecção das explorações agrícolas e os serviços de contabilidade que participam na rede comunitária de informação contabilística agrícola cumprem a sua tarefa e, se o considerar necessário, enviar ao local peritos com a colaboração das instâncias nacionais competentes.\n\n(16) A rede de informação constitui um instrumento útil, que permite à Comunidade desenvolver a Política Agrícola Comum e que, nesta medida, serve quer os Estados-Membros quer a Comunidade. É conveniente, por conseguinte, que os custos dos sistemas informáticos de que depende a rede, bem como de estudos e actividades de desenvolvimento relativos a outros aspectos da mesma, sejam elegíveis para financiamento comunitário.\n\n(17) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^5^](http://publications.europa.eu/resource/cellar/5465a476-58f5-47e4-9625-910136ab94f0.0018.03/DOC_1#E0005)),\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "975a0af72fd212fd": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Cada Estado-Membro cria um Comité Nacional da Rede de Informação, a seguir designado «Comité Nacional»[**►M2**](http://publications.europa.eu/resource/celex/32013R0517) A Croácia cria um Comité Nacional o mais tardar até ao final do sexto mês subsequente à data da adesão.**◄**\n\n2. O Comité Nacional é responsável pela selecção das explorações contabilísticas. Como tal, cumpre-lhe nomeadamente aprovar:\n\na) O plano de selecção das explorações contabilísticas, incluindo, nomeadamente, a distribuição das explorações por classe de explorações e as modalidades de selecção das referidas explorações;\n\nb) O relatório de execução do plano de selecção das explorações contabilísticas.\n\n3. O Presidente do Comité Nacional é designado pelo Estado-Membro, de entre os membros deste Comité.\n\nO Comité Nacional toma as suas decisões por unanimidade. No caso de a unanimidade não ser conseguida, as decisões são tomadas pela Autoridade designada pelo Estado-Membro.\n\n4. Os Estados-Membros com várias circunscrições podem criar, a nível de cada circunscrição, um Comité Regional da Rede de Informação, a seguir designado «Comité Regional».\n\nO Comité Regional tem por tarefa, nomeadamente, cooperar com o órgão de ligação referido no artigo 7.º na selecção das explorações contabilísticas.\n\n5. As modalidades de aplicação do presente artigo são estabelecidas pelo procedimento a que se refere o n.º 2 do artigo 18.º."
+  },
+  "1b9a4390dd05cbfc": {
+   "fragment_id": "Croácia",
+   "type": "divisao",
+   "heading": "Croácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Croácia\n\n1. Kontinentalna Hrvatska\n\n2. Jadranska Hrvatska\n\nNo entanto, a Croácia pode constituir uma única circunscrição durante os três anos subsequentes à adesão."
+  },
+  "a9d8ea62494c671a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5465a476-58f5-47e4-9625-910136ab94f0.0018.03/DOC_1#src.E0001)) Parecer emitido em 20 de Outubro de 2009 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/5465a476-58f5-47e4-9625-910136ab94f0.0018.03/DOC_1#src.E0002)) JO 109 de 23.6.1965, p. 1859/65.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/5465a476-58f5-47e4-9625-910136ab94f0.0018.03/DOC_1#src.E0003)) Ver Anexo II.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/5465a476-58f5-47e4-9625-910136ab94f0.0018.03/DOC_1#src.E0004)) JO L 335 de 13.12.2008, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/5465a476-58f5-47e4-9625-910136ab94f0.0018.03/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23."
+  },
+  "8e85c16b220f9450": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro de 2009\n\nque cria uma rede de informação contabilística agrícola sobre os rendimentos e a economia das explorações agrícolas na União Europeia\n\n(versão codificada)\n\nO CONSELHO DAS COMUNIDADES EUROPEIAS,\n\nTendo em conta o Tratado que institui a Comunidade Económica Europeia, nomeadamente o terceiro parágrafo do n.º 2 do artigo 37.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Parlamento Europeu ([^1^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#E0001)),\n\n(1) O Regulamento n.º 79/65/CEE do Conselho, de 15 de Junho de 1965, que cria uma rede de informação contabilística agrícola sobre os rendimentos e a economia das explorações agrícolas na Comunidade Económica Europeia ([^2^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#E0002)), foi por várias vezes alterado de modo substancial ([^3^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#E0003)). Por razões de clareza e racionalidade, deverá proceder-se à codificação do referido regulamento.\n\n(2) Para o desenvolvimento da política agrícola comum, é necessário dispor de informações objectivas e funcionais nomeadamente sobre os rendimentos nas diversas categorias de explorações agrícolas e sobre o funcionamento económico das explorações que pertencem às categorias que requerem uma atenção particular ao nível da Comunidade.\n\n(3) As contabilidades das explorações agrícolas constituem a fonte fundamental dos dados indispensáveis à verificação dos rendimentos nas explorações agrícolas e à análise do seu funcionamento económico.\n\n(4) Os dados a recolher deverão provir de explorações agrícolas especialmente e convenientemente seleccionadas de acordo com as regras comuns e basear-se em factos controláveis. Esses dados deverão inserir-se no contexto técnico, económico e social da exploração agrícola, corresponder a explorações individuais, estar disponíveis o mais rapidamente possível, corresponder a definições idênticas, ser apresentados de acordo com um esquema comum, poder ser utilizados a qualquer momento e em todos os seus pormenores pela Comissão.\n\n(5) Os objectivos pretendidos só podem ser atingidos por uma rede comunitária de informação contabilística agrícola, a seguir designada «rede de informação», que se apoie nos serviços contabilísticos agrícolas em cada Estado-Membro e que, beneficiando da confiança dos interessados, se baseie na sua participação voluntária.\n\n(6) A fim de obter resultados contabilísticos suficientemente homogéneos a nível comunitário, é conveniente, nomeadamente, distribuir as explorações pelas diferentes circunscrições e pelas diferentes classes de exploração, com base numa estratificação do campo de observação determinado pelo tipologia comunitária das explorações agrícolas definida pelo Regulamento (CE) n.º 1242/2008 da Comissão, de 8 de Dezembro de 2008, que estabelece uma tipologia comunitária das explorações agrícolas ([^4^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#E0004)).\n\n(7) As circunscrições da rede de informação deverão ser, tanto quanto possível, idênticas às consideradas para a apresentação de outros dados regionais essenciais para a orientação da política agrícola comum.\n\n(8) Por razões de gestão, é conveniente autorizar a Comissão a alterar a lista das circunscrições dos Estados-Membros, a pedido de um Estado-Membro.\n\n(9) O campo de observação da rede de informação deverá abranger todas as explorações agrícolas que tenham uma determinada dimensão económica, independentemente de quaisquer actividades exteriores que os seus titulares possam exercer. Esse campo de observação deverá ser reexaminado periodicamente em função dos novos dados do inquérito sobre as estruturas agrícolas.\n\n(10) As explorações contabilísticas deverão ser seleccionadas de acordo com regras estabelecidas no contexto de um plano de selecção que tenha por objectivo obter uma amostra representativa do campo de observação.\n\n(11) Tendo em conta a experiência adquirida, é desejável que as principais decisões respeitantes à selecção das explorações, nomeadamente o estabelecimento do plano de selecção, sejam adoptadas a nível nacional. Consequentemente, é a este nível que deverá existir um organismo responsável por esta operação. Não obstante, deverá permitir-se aos Estados-Membros com várias circunscrições a manutenção de comités regionais.\n\n(12) O órgão de ligação nacional deverá assumir uma função essencial na gestão da rede de informação.\n\n(13) A selecção das explorações agrícolas, bem como o exame e a apreciação dos dados recolhidos, requerem que nos reportemos a dados provenientes de outras fontes de informação.\n\n(14) Convém garantir aos agricultores que os dados contabilísticos da sua exploração e quaisquer outras informações individuais, obtidas em aplicação do presente regulamento, não serão utilizados com um fim fiscal ou para fins diferentes dos previstos no presente regulamento nem divulgados pelas pessoas que participam ou tenham participado na rede comunitária de informação contabilística agrícola.\n\n(15) Para garantir a objectividade e o carácter funcional das informações recolhidas, a Comissão deverá ter a possibilidade de obter todas as informações necessárias sobre a forma como os órgãos encarregados da selecção das explorações agrícolas e os serviços de contabilidade que participam na rede comunitária de informação contabilística agrícola cumprem a sua tarefa e, se o considerar necessário, enviar ao local peritos com a colaboração das instâncias nacionais competentes.\n\n(16) A rede de informação constitui um instrumento útil, que permite à Comunidade desenvolver a Política Agrícola Comum e que, nesta medida, serve quer os Estados-Membros quer a Comunidade. É conveniente, por conseguinte, que os custos dos sistemas informáticos de que depende a rede, bem como de estudos e actividades de desenvolvimento relativos a outros aspectos da mesma, sejam elegíveis para financiamento comunitário.\n\n(17) As medidas necessárias à execução do presente regulamento deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão ([^5^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#E0005)),\n\nAPROVOU O PRESENTE REGULAMENTO:"
+  },
+  "4db98d75a5689a5a": {
+   "fragment_id": "CRIAÇÃO DE UMA REDE DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA DA UNIÃO",
+   "type": "divisao",
+   "heading": "CRIAÇÃO DE UMA REDE DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA DA UNIÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRIAÇÃO DE UMA REDE DE INFORMAÇÃO CONTABILÍSTICA AGRÍCOLA DA UNIÃO"
+  },
+  "fb0f2d356cb26c7d": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para suprir as necessidades da política agrícola comum, é criada uma rede de informação contabilística agrícola da União («RICA» ou «rede de informação»).\n\n2. A rede de informação tem por objectivo recolher os dados contabilísticos necessários nomeadamente para:\n\na) A verificação anual dos rendimentos nas explorações agrícolas incluídas no campo de observação definido no artigo 5.º; e\n\nb) A análise do funcionamento económico de explorações agrícolas.\n\n3. Os elementos obtidos em aplicação do presente regulamento servem, nomeadamente, de base à elaboração, pela Comissão, de relatórios sobre a situação da agricultura e dos mercados agrícolas, bem como sobre os rendimentos agrícolas na União. Os relatórios devem ser disponibilizados ao público num sítio *web* específico."
+  },
+  "7fad308e159cf109": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara aplicação do presente regulamento entende-se por:\n\na) [**►M3**](http://publications.europa.eu/resource/celex/32013R1318) «agricultor»**◄**: a pessoa física que assegura a gestão corrente e quotidiana da exploração agrícola;\n\n-b) «Exploração»: uma unidade técnico-económica, em conformidade com o uso geral que lhe é dado no âmbito dos inquéritos e recenseamentos agrícolas da União;\n\nb) «Classe de explorações»: um conjunto de explorações agrícolas pertencentes às mesmas classes de orientação técnico-económica e de dimensão económica de exploração, tal como definidas na tipologia da União relativa às explorações agrícolas;\n\nc) «Exploração contabilística»: qualquer exploração agrícola incluída ou a incluir no âmbito da rede de informação;\n\nd) «Circunscrição da Rede de Informação Contabilística Agrícola» ou «circunscrição da RICA»: o território de um Estado-Membro, ou parte do território de um Estado-Membro, delimitado com vista à escolha das explorações contabilísticas (a lista dessas circunscrições consta do Anexo I);\n\ne) «Dados contabilísticos»: qualquer dado técnico, financeiro ou económico que caracterize uma exploração agrícola, resultante de uma contabilidade que compreenda registos sistemáticos e regulares durante o exercício contabilístico;\n\nf) «Valor da produção-padrão»: o valor-padrão da produção bruta."
+  },
+  "1e50912a25b4372a": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA fim de assegurar que a lista das circunscrições da RICA possa ser atualizada a pedido de um Estado-Membro, a Comissão fica habilitada a adotar, nos termos do artigo 19.º-A, atos delegados que alterem o Anexo I no que respeita à lista de circunscrições da RICA por Estado-Membro."
+  },
+  "32f87175129abe89": {
+   "fragment_id": "DADOS PARA A VERIFICAÇÃO DOS RENDIMENTOS E PARA A ANÁLISE DO FUNCIONAMENTO ECONÓMICO DAS EXPLORAÇÕES AGRÍCOLAS",
+   "type": "divisao",
+   "heading": "DADOS PARA A VERIFICAÇÃO DOS RENDIMENTOS E PARA A ANÁLISE DO FUNCIONAMENTO ECONÓMICO DAS EXPLORAÇÕES AGRÍCOLAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DADOS PARA A VERIFICAÇÃO DOS RENDIMENTOS E PARA A ANÁLISE DO FUNCIONAMENTO ECONÓMICO DAS EXPLORAÇÕES AGRÍCOLAS"
+  },
+  "3ec2aadd73799d53": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente capítulo é aplicável à recolha de dados contabilísticos com vista à verificação anual dos rendimentos e à análise do funcionamento económico das explorações agrícolas.\n\nEsses dados são recolhidos por meio de inquéritos regulares e especiais."
+  },
+  "e9abb46a0acda066": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O campo de observação referido no artigo 1.º, n.º 2, compreende as explorações agrícolas com uma dimensão económica igual ou superior a um limiar expresso em euros correspondente a um dos limites inferiores das classes de dimensão económica da tipologia da União relativa às explorações agrícolas definidas no artigo 5.º-B.\n\nA Comissão adota, nos termos do artigo 19.º-A, atos delegados que estabelecem as regras de fixação do limiar referido no primeiro parágrafo do presente número.\n\nCom base nos dados recebidos dos Estados-Membros, a Comissão adota atos de execução que fixam o limiar referido no primeiro parágrafo. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2.\n\n2. Para se qualificar como exploração contabilística, uma exploração agrícola deve:\n\na) Ter uma dimensão económica igual ou superior a um limiar a determinar de acordo com o n.º 1;\n\nb) Ser explorada por uma pessoa que disponha de ou que queira e possa manter uma contabilidade agrícola e que aceite que os dados contabilísticos da sua exploração sejam postos à disposição da Comissão;\n\nc) Ser representativa, em conjunto com as restantes explorações e a nível de cada circunscrição da RICA, do campo de observação."
+  },
+  "154d48b2dc8fcff7": {
+   "fragment_id": "Artigo 5.º-A",
+   "type": "artigo",
+   "heading": "Artigo 5.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A\n\n1. Cada Estado-Membro define um plano para a seleção de explorações contabilísticas que assegure uma amostra representativa do campo de observação.\n\nA Comissão adota, nos termos do artigo 19.º-A, atos delegados que estabelecem as regras segundo as quais os Estados-Membros devem elaborar esses planos. Essas regras asseguram que os planos para a seleção das explorações contabilísticas:\n\n— sejam elaborados com base nos dados estatísticos mais recentes,\n\n— sejam apresentados em conformidade com a tipologia da União para as explorações agrícolas, e\n\n— especifiquem, em particular, a distribuição das explorações contabilísticas por classe de exploração e as respetivas modalidades de seleção.\n\n2. Em conformidade com as regras adotadas nos termos do n.º 1 e com base nos dados recebidos dos Estados-Membros, a Comissão adota atos de execução que fixam o número de explorações contabilísticas por Estado-Membro e por circunscrição da RICA. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2.\n\n3. O número de explorações contabilísticas a selecionar por circunscrição da RICA pode ser, no máximo, 20 % superior ou inferior ao número estabelecido nos atos de execução a adotar nos termos do n.º 2, desde que o número total de explorações contabilísticas do Estado-Membro em causa seja respeitado.\n\n4. A Comissão adota atos de execução que estabelecem e atualizam os modelos e os métodos respeitantes à forma e conteúdo dos dados a comunicar pelos Estados-Membros à Comissão. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "37e35131d494c21a": {
+   "fragment_id": "Artigo 5.º-B",
+   "type": "artigo",
+   "heading": "Artigo 5.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-B\n\n1. As explorações agrícolas são classificadas de modo uniforme, de acordo com a tipologia da União para as explorações agrícolas («tipologia»), dependendo da sua orientação técnico-económica e dimensão económica e da importância de outras atividades lucrativas que com elas estejam diretamente relacionadas.\n\nA tipologia é utilizada especialmente para a apresentação, por classe de orientação técnico-económica e de dimensão económica, dos dados recolhidos no âmbito dos inquéritos sobre a estrutura das explorações agrícolas da União e da RICA.\n\n2. A «orientação técnico-económica» de uma exploração é determinada pela contribuição relativa do valor da produção-padrão das diferentes atividades dessa exploração para o valor da produção-padrão total da exploração.\n\nA Comissão fica habilitada a adotar, nos termos do artigo 19.º-A, atos delegados que fixem o período de referência da produção-padrão.\n\n3. As explorações são classificadas de acordo com um número limitado de orientações técnico-económicas (OTE). São especificadas as classes gerais de OTE. Consoante a quantidade de pormenores exigida, as classes gerais de OTE são divididas em classes principais.\n\nA Comissão fica habilitada a adotar, nos termos do artigo 19.º-A, atos delegados no que respeita à determinação das classes gerais e principais de OTE.\n\nDeve ser especificada a correspondência entre classes gerais e principais de OTE e classes especiais para as explorações especializadas correspondentes às classes principais de OTE.\n\n4. A dimensão económica da exploração é definida com base no valor da produção-padrão total da exploração.\n\n5. A importância das atividades lucrativas diretamente relacionadas com a exploração, distintas das atividades agrícolas da exploração, é determinada com base na sua contribuição para a produção final da exploração.\n\n6. Os valores da produção-padrão e os dados que permitem determiná-la devem ser transmitidos à Comissão (Eurostat) através do órgão de ligação designado por cada Estado-Membro nos termos do artigo 7.º ou do organismo no qual esta função tenha sido delegada.\n\n7. A Comissão adota atos de execução destinados a estabelecer:\n\n— os métodos de cálculo das classes especiais de OTE no que toca às explorações especializadas referidas no n.º 3, bem como de inclusão da exploração numa classe principal,\n\n— o método de cálculo da dimensão económica da exploração,\n\n— as classes de dimensão económica das explorações, referidas no n.º 1,\n\n— os métodos de cálculo da produção da exploração e de estimativa da contribuição de outras atividades lucrativas para essa produção, para efeitos do n.º 5,\n\n— o método de cálculo para determinar os valores da produção-padrão de cada atividade referida no n.º 2, os processos de recolha dos dados correspondentes e os meios e prazos de transmissão dos valores da produção-padrão à Comissão, nos termos do n.º 6.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "f4d4974ef76d5970": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Cada Estado-Membro cria um Comité Nacional da Rede de Informação, a seguir designado «Comité Nacional»[**►M2**](http://publications.europa.eu/resource/celex/32013R0517) A Croácia cria um Comité Nacional o mais tardar até ao final do sexto mês subsequente à data da adesão.**◄**\n\n2. O Comité Nacional é responsável pela seleção das explorações contabilísticas. Como tal, cumpre-lhe, nomeadamente, aprovar o plano de seleção das explorações contabilísticas.\n\n3. O Presidente do Comité Nacional é designado pelo Estado-Membro, de entre os membros deste Comité.\n\nO Comité Nacional toma as suas decisões por unanimidade. No caso de a unanimidade não ser conseguida, as decisões são tomadas pela Autoridade designada pelo Estado-Membro.\n\n4. Os Estados-Membros com várias circunscrições da RICA podem criar, a nível de cada circunscrição da RICA, um Comité Regional da Rede de Informação, a seguir designado «Comité Regional».\n\nO Comité Regional tem por tarefa, nomeadamente, cooperar com o órgão de ligação referido no artigo 7.º na selecção das explorações contabilísticas.\n\n5. A Comissão adota atos de execução que estabelecem as regras de execução do presente artigo. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "5db5d5df82f85dbe": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Cada Estado-Membro designa um órgão de ligação com as seguintes funções:\n\na) Informar o Comité Nacional, os Comités Regionais e os serviços de contabilidade do quadro regulamentar aplicável e assegurar a sua boa execução;\n\nb) Elaborar o plano de seleção das explorações contabilísticas, submetê-lo ao Comité Nacional para aprovação e, ulteriormente, transmiti-lo à Comissão;\n\nc) Estabelecer:\n\ni) a lista das explorações contabilísticas,\n\nii) se for caso disso, a lista dos serviços de contabilidade dispostos e aptos a preencher a ficha de exploração;\n\nd) Reunir as fichas de exploração que lhe são enviadas pelos serviços de contabilidade;\n\ne) Verificar o correto preenchimento das fichas de exploração;\n\nf) Enviar à Comissão as fichas de exploração devidamente preenchidas, no formato exigido e no prazo fixado;\n\ng) Transmitir os pedidos de esclarecimento previstos no artigo 17.º ao Comité Nacional, aos Comités Regionais e aos serviços de contabilidade e enviar as respostas correspondentes à Comissão.\n\n2. A Comissão adota atos de execução que estabelecem as regras de execução do presente artigo. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "4efc7b8c8e6e4187": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Cada exploração contabilística é objecto de uma ficha de exploração individual e anónima.\n\n2. Cada ficha de exploração devidamente preenchida deve compreender dados contabilísticos que permitam:\n\n— caracterizar a exploração contabilística pelos elementos essenciais dos seus fatores de produção,\n\n— apreciar o rendimento da exploração nos seus diferentes aspetos,\n\n— proceder a testes de veracidade do seu conteúdo.\n\n3. Os dados da ficha de exploração dizem respeito a uma única exploração agrícola e a um exercício contabilístico único de 12 meses consecutivos e referem-se exclusivamente à exploração agrícola. Esses dados referem-se às atividades agrícolas da exploração propriamente dita e a outras atividades lucrativas com ela diretamente relacionadas. Os dados relativos a quaisquer atividades «extra-exploração» do agricultor ou da sua família, ou a pensões de sobrevivência, heranças, contas bancárias privadas, bens estranhos à exploração agrícola, impostos pessoais ou seguros privados, não são tomados em linha de conta no preenchimento da ficha de exploração.\n\nA Comissão fica habilitada a adotar, nos termos do artigo 19.º-A, atos delegados relativos à determinação dos principais grupos de dados contabilísticos a recolher e às regras gerais aplicáveis a essa recolha.\n\nA fim de assegurar que os dados contabilísticos recolhidos através das fichas de exploração sejam comparáveis, independentemente das explorações contabilísticas observadas, a Comissão adota atos de execução que determinam o formato e o modelo da ficha de exploração e os métodos e os prazos para que os dados lhe sejam transmitidos.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "b4cadfecebc7ca6b": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. As dotações a incluir no orçamento geral da União Europeia, secção Comissão, cobrem:\n\na) Uma retribuição fixa a pagar aos Estados-Membros pela entrega das fichas de exploração devidamente preenchidas dentro do prazo estabelecido, até ao número máximo de explorações contabilísticas fixado nos termos do artigo 5.º-A, n.º 2. Se o número total de fichas de exploração, devidamente preenchidas e entregues, respeitantes a uma circunscrição da RICA ou a um Estado-Membro for inferior a 80 % do número de explorações contabilísticas previsto para essa circunscrição da RICA ou para esse Estado-Membro, é aplicada uma retribuição igual a 80 % da retribuição fixa a cada ficha de exploração dessa circunscrição da RICA ou desse Estado-Membro;\n\nb) Todas as despesas dos sistemas informáticos utilizados pela Comissão para a recepção, verificação, tratamento e análise dos dados contabilísticos fornecidos pelos Estados-Membros.\n\nOs custos referidos na alínea b) incluem, se for caso disso, os inerentes à divulgação dos resultados dessas operações, bem como a estudos e actividades de desenvolvimento relativos a outros aspectos da rede de informação.\n\n2. As despesas inerentes à constituição e ao funcionamento do Comité Nacional, dos Comités Regionais e dos órgãos de ligação não são inscritas no orçamento geral da União.\n\n3. A Comissão adota atos de execução que estabelecem os procedimentos pormenorizados aplicáveis à retribuição fixa referida no n.º 1, alínea a). Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "20b55af0200e9327": {
+   "fragment_id": "Artigo 19.º-A",
+   "type": "artigo",
+   "heading": "Artigo 19.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º-A\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 3.º, no artigo 5.º, n.º 1, no artigo 5.º-A, n.º 1, no artigo 5.º-B, n.^os^ 2 e 3, e no artigo 8.º, n.º 3, é conferido à Comissão por um prazo de cinco anos a contar de 20 de dezembro de 2013. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por prazos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 3.º, no artigo 5.º, n.º 1, no artigo 5.º-A, n.º 1, no artigo 5.º-B, n.^os^ 2 e 3, e no artigo 8.º, n.º 3, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 3.º, do artigo 5.º, n.º 1, do artigo 5.º-A, n.º 1, do artigo 5.º-B, n.^os^ 2 e 3, e do artigo 8.º, n.º 3, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação desse ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo pode ser prorrogado por dois meses, por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "8044069c55774933": {
+   "fragment_id": "Artigo 19.º-B",
+   "type": "artigo",
+   "heading": "Artigo 19.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º-B\n\n1. A Comissão é assistida por um comité denominado «Comité da Rede de Informação Contabilística Agrícola». Esse comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([^6^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#E0006)).\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "8c6cd03e70991dd5": {
+   "fragment_id": "Lista das circunscrições da RICA referidas no artigo 2.º, alínea d)",
+   "type": "divisao",
+   "heading": "Lista das circunscrições da RICA referidas no artigo 2.º, alínea d)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista das circunscrições da RICA referidas no artigo 2.º, alínea d)"
+  },
+  "b33e386caff2da17": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#src.E0001)) Parecer emitido em 20 de Outubro de 2009 (ainda não publicado no Jornal Oficial).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#src.E0002)) JO 109 de 23.6.1965, p. 1859/65.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#src.E0003)) Ver Anexo II.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#src.E0004)) JO L 335 de 13.12.2008, p. 3.\n\n> ([^5^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#src.E0005)) JO L 184 de 17.7.1999, p. 23.\n\n> ([^6^](http://publications.europa.eu/resource/cellar/6ea5c9bb-466c-4353-a01e-06d8d53d4f7e.0018.02/DOC_1#src.E0006)) JO L 55 de 28.2.2011, p. 13."
+  },
+  "7cac1734a2e733b2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro de 2009\n\nque cria uma rede de informação contabilística agrícola sobre os rendimentos e a economia das explorações agrícolas na União Europeia\n\n(versão codificada)"
+  },
+  "0ed43eb7182ff7d3": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Cada Estado-Membro cria um Comité Nacional da Rede de Informação, a seguir designado «Comité Nacional» [**►M2**](http://publications.europa.eu/resource/celex/32013R0517) A Croácia cria um Comité Nacional o mais tardar até ao final do sexto mês subsequente à data da adesão.**◄**\n\n2. O Comité Nacional é responsável pela seleção das explorações contabilísticas. Como tal, cumpre-lhe, nomeadamente, aprovar o plano de seleção das explorações contabilísticas.\n\n3. O Presidente do Comité Nacional é designado pelo Estado-Membro, de entre os membros deste Comité.\n\nO Comité Nacional toma as suas decisões por unanimidade. No caso de a unanimidade não ser conseguida, as decisões são tomadas pela Autoridade designada pelo Estado-Membro.\n\n4. Os Estados-Membros com várias circunscrições da RICA podem criar, a nível de cada circunscrição da RICA, um Comité Regional da Rede de Informação, a seguir designado «Comité Regional».\n\nO Comité Regional tem por tarefa, nomeadamente, cooperar com o órgão de ligação referido no artigo 7.º na selecção das explorações contabilísticas.\n\n5. A Comissão adota atos de execução que estabelecem as regras de execução do presente artigo. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "5e14cb97edb32c81": {
+   "fragment_id": "Artigo 19.º-B",
+   "type": "artigo",
+   "heading": "Artigo 19.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º-B\n\n1. A Comissão é assistida por um comité denominado «Comité da Rede de Informação Contabilística Agrícola». Esse comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([^1^](http://publications.europa.eu/resource/cellar/d6ce48dc-b1b8-43eb-b28e-77967cc86dad.0015.02/DOC_1#E0001)).\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "02922a95fc7d66b5": {
+   "fragment_id": "Alemanha",
+   "type": "divisao",
+   "heading": "Alemanha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Alemanha\n\n1. Schleswig-Holstein/Hamburgo\n\n2. Baixa Saxónia\n\n3. Brema\n\n4. Renânia do Norte-Vestefália\n\n5. Hesse\n\n6. Renânia-Palatinado\n\n7. Bade-Vurtemberga\n\n8. Baviera\n\n9. Sarre\n\n10. Berlim\n\n11. Brandeburgo\n\n12. Meclemburgo-Pomerânia Ocidental\n\n13. Saxónia\n\n14. Saxónia-Anhalt\n\n15. Turíngia"
+  },
+  "ce9f3a23b7fb1ce8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/d6ce48dc-b1b8-43eb-b28e-77967cc86dad.0015.02/DOC_1#src.E0001)) JO L 55 de 28.2.2011, p. 13."
+  },
+  "286314f9cb1feff1": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para suprir as necessidades da política agrícola comum, é criada uma rede de informação contabilística agrícola da União («RICA» ou «rede de informação»).\n\n2.\n\nA rede de informação tem por objectivo recolher os dados contabilísticos necessários nomeadamente para:\n\na) A verificação anual dos rendimentos nas explorações agrícolas incluídas no campo de observação definido no artigo 5.º; e\n\nb) A análise do funcionamento económico de explorações agrícolas.\n\n3. Os elementos obtidos em aplicação do presente regulamento servem, nomeadamente, de base à elaboração, pela Comissão, de relatórios sobre a situação da agricultura e dos mercados agrícolas, bem como sobre os rendimentos agrícolas na União. Os relatórios devem ser disponibilizados ao público num sítio *web* específico."
+  },
+  "b263d7141a1335b0": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O campo de observação referido no artigo 1.º, n.º 2, compreende as explorações agrícolas com uma dimensão económica igual ou superior a um limiar expresso em euros correspondente a um dos limites inferiores das classes de dimensão económica da tipologia da União relativa às explorações agrícolas definidas no artigo 5.º-B.\n\nA Comissão adota, nos termos do artigo 19.º-A, atos delegados que estabelecem as regras de fixação do limiar referido no primeiro parágrafo do presente número.\n\nCom base nos dados recebidos dos Estados-Membros, a Comissão adota atos de execução que fixam o limiar referido no primeiro parágrafo. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2.\n\n2.\n\nPara se qualificar como exploração contabilística, uma exploração agrícola deve:\n\na) Ter uma dimensão económica igual ou superior a um limiar a determinar de acordo com o n.º 1;\n\nb) Ser explorada por uma pessoa que disponha de ou que queira e possa manter uma contabilidade agrícola e que aceite que os dados contabilísticos da sua exploração sejam postos à disposição da Comissão;\n\nc) Ser representativa, em conjunto com as restantes explorações e a nível de cada circunscrição da RICA, do campo de observação."
+  },
+  "76a0e0e50b27763d": {
+   "fragment_id": "Artigo 5.º-B",
+   "type": "artigo",
+   "heading": "Artigo 5.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-B\n\n1. As explorações agrícolas são classificadas de modo uniforme, de acordo com a tipologia da União para as explorações agrícolas («tipologia»), dependendo da sua orientação técnico-económica e dimensão económica e da importância de outras atividades lucrativas que com elas estejam diretamente relacionadas.\n\nA tipologia é utilizada especialmente para a apresentação, por classe de orientação técnico-económica e de dimensão económica, dos dados recolhidos no âmbito dos inquéritos sobre a estrutura das explorações agrícolas da União e da RICA.\n\n2. A «orientação técnico-económica» de uma exploração é determinada pela contribuição relativa do valor da produção-padrão das diferentes atividades dessa exploração para o valor da produção-padrão total da exploração.\n\nA Comissão fica habilitada a adotar, nos termos do artigo 19.º-A, atos delegados que fixem o período de referência da produção-padrão.\n\n3. As explorações são classificadas de acordo com um número limitado de orientações técnico-económicas (OTE). São especificadas as classes gerais de OTE. Consoante a quantidade de pormenores exigida, as classes gerais de OTE são divididas em classes principais.\n\nA Comissão fica habilitada a adotar, nos termos do artigo 19.º-A, atos delegados no que respeita à determinação das classes gerais e principais de OTE.\n\nDeve ser especificada a correspondência entre classes gerais e principais de OTE e classes especiais para as explorações especializadas correspondentes às classes principais de OTE.\n\n4. A dimensão económica da exploração é definida com base no valor da produção-padrão total da exploração.\n\n5. A importância das atividades lucrativas diretamente relacionadas com a exploração, distintas das atividades agrícolas da exploração, é determinada com base na sua contribuição para a produção final da exploração.\n\n6. Os valores da produção-padrão e os dados que permitem determiná-la devem ser transmitidos à Comissão (Eurostat) através do órgão de ligação designado por cada Estado-Membro nos termos do artigo 7.º ou do organismo no qual esta função tenha sido delegada.\n\n7.\n\nA Comissão adota atos de execução destinados a estabelecer:\n\n— os métodos de cálculo das classes especiais de OTE no que toca às explorações especializadas referidas no n.º 3, bem como de inclusão da exploração numa classe principal,\n\n— o método de cálculo da dimensão económica da exploração,\n\n— as classes de dimensão económica das explorações, referidas no n.º 1,\n\n— os métodos de cálculo da produção da exploração e de estimativa da contribuição de outras atividades lucrativas para essa produção, para efeitos do n.º 5,\n\n— o método de cálculo para determinar os valores da produção-padrão de cada atividade referida no n.º 2, os processos de recolha dos dados correspondentes e os meios e prazos de transmissão dos valores da produção-padrão à Comissão, nos termos do n.º 6.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "0d1951e316472e49": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1.\n\nCada Estado-Membro designa um órgão de ligação com as seguintes funções:\n\na) Informar o Comité Nacional, os Comités Regionais e os serviços de contabilidade do quadro regulamentar aplicável e assegurar a sua boa execução;\n\nb) Elaborar o plano de seleção das explorações contabilísticas, submetê-lo ao Comité Nacional para aprovação e, ulteriormente, transmiti-lo à Comissão;\n\nc) Estabelecer:\n\ni) a lista das explorações contabilísticas,\n\nii) se for caso disso, a lista dos serviços de contabilidade dispostos e aptos a preencher a ficha de exploração;\n\nd) Reunir as fichas de exploração que lhe são enviadas pelos serviços de contabilidade;\n\ne) Verificar o correto preenchimento das fichas de exploração;\n\nf) Enviar à Comissão as fichas de exploração devidamente preenchidas, no formato exigido e no prazo fixado;\n\ng) Transmitir os pedidos de esclarecimento previstos no artigo 17.º ao Comité Nacional, aos Comités Regionais e aos serviços de contabilidade e enviar as respostas correspondentes à Comissão.\n\n2. A Comissão adota atos de execução que estabelecem as regras de execução do presente artigo. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "4e259040b0cfb439": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Cada exploração contabilística é objecto de uma ficha de exploração individual e anónima.\n\n2.\n\nCada ficha de exploração devidamente preenchida deve compreender dados contabilísticos que permitam:\n\n— caracterizar a exploração contabilística pelos elementos essenciais dos seus fatores de produção,\n\n— apreciar o rendimento da exploração nos seus diferentes aspetos,\n\n— proceder a testes de veracidade do seu conteúdo.\n\n3. Os dados da ficha de exploração dizem respeito a uma única exploração agrícola e a um exercício contabilístico único de 12 meses consecutivos e referem-se exclusivamente à exploração agrícola. Esses dados referem-se às atividades agrícolas da exploração propriamente dita e a outras atividades lucrativas com ela diretamente relacionadas. Os dados relativos a quaisquer atividades «extra-exploração» do agricultor ou da sua família, ou a pensões de sobrevivência, heranças, contas bancárias privadas, bens estranhos à exploração agrícola, impostos pessoais ou seguros privados, não são tomados em linha de conta no preenchimento da ficha de exploração.\n\nA Comissão fica habilitada a adotar, nos termos do artigo 19.º-A, atos delegados relativos à determinação dos principais grupos de dados contabilísticos a recolher e às regras gerais aplicáveis a essa recolha.\n\nA fim de assegurar que os dados contabilísticos recolhidos através das fichas de exploração sejam comparáveis, independentemente das explorações contabilísticas observadas, a Comissão adota atos de execução que determinam o formato e o modelo da ficha de exploração e os métodos e os prazos para que os dados lhe sejam transmitidos.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "2f1946a1c7418a8a": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1.\n\nAs dotações a incluir no orçamento geral da União Europeia, secção Comissão, cobrem:\n\na) Uma retribuição fixa a pagar aos Estados-Membros pela entrega das fichas de exploração devidamente preenchidas dentro do prazo estabelecido, até ao número máximo de explorações contabilísticas fixado nos termos do artigo 5.º-A, n.º 2. Se o número total de fichas de exploração, devidamente preenchidas e entregues, respeitantes a uma circunscrição da RICA ou a um Estado-Membro for inferior a 80 % do número de explorações contabilísticas previsto para essa circunscrição da RICA ou para esse Estado-Membro, é aplicada uma retribuição igual a 80 % da retribuição fixa a cada ficha de exploração dessa circunscrição da RICA ou desse Estado-Membro;\n\nb) Todas as despesas dos sistemas informáticos utilizados pela Comissão para a recepção, verificação, tratamento e análise dos dados contabilísticos fornecidos pelos Estados-Membros.\n\nOs custos referidos na alínea b) incluem, se for caso disso, os inerentes à divulgação dos resultados dessas operações, bem como a estudos e actividades de desenvolvimento relativos a outros aspectos da rede de informação.\n\n2. As despesas inerentes à constituição e ao funcionamento do Comité Nacional, dos Comités Regionais e dos órgãos de ligação não são inscritas no orçamento geral da União.\n\n3. A Comissão adota atos de execução que estabelecem os procedimentos pormenorizados aplicáveis à retribuição fixa referida no n.º 1, alínea a). Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "28ae4282bb2b1c11": {
+   "fragment_id": "Artigo 19.º-B",
+   "type": "artigo",
+   "heading": "Artigo 19.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º-B\n\n1. A Comissão é assistida por um comité denominado «Comité da Rede de Informação Contabilística Agrícola». Esse comité deve ser entendido como comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([^1^](http://publications.europa.eu/resource/cellar/ed168587-910a-11ed-b508-01aa75ed71a1.0019.02/DOC_1#E0001)).\n\n2. Caso se faça referência ao presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "a7d4be43b7d3d04f": {
+   "fragment_id": "França",
+   "type": "divisao",
+   "heading": "França",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### França\n\n1. Île de France\n\n2. Champagne-Ardenne\n\n3. Picardie\n\n4. Haute-Normandie\n\n5. Centre\n\n6. Basse-Normandie\n\n7. Bourgogne\n\n8. Nord-Pas de Calais\n\n9. Lorraine\n\n10. Alsace\n\n11. Franche-Comté\n\n12. Pays de la Loire\n\n13. Bretagne\n\n14. Poitou-Charentes\n\n15. Aquitaine\n\n16. Midi-Pyrénées\n\n17. Limousin\n\n18. Rhône-Alpes\n\n19. Auvergne\n\n20. Languedoc-Roussillon\n\n21. Provence-Alpes-Côte d’Azur\n\n22. Corse\n\n23. Antilles françaises\n\n24. La Réunion"
+  },
+  "11898f7ca019059f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/ed168587-910a-11ed-b508-01aa75ed71a1.0019.02/DOC_1#src.E0001)) JO L 55 de 28.2.2011, p. 13."
+  },
+  "3a3cb8766d870dc3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de novembro de 2009\n\nque cria a Rede de Informação de Sustentabilidade Agrícola\n\n(versão codificada)"
+  },
+  "1999f9aa4c2f84f8": {
+   "fragment_id": "CRIAÇÃO DE UMA REDE DE INFORMAÇÃO DE SUSTENTABILIDADE AGRÍCOLA",
+   "type": "divisao",
+   "heading": "CRIAÇÃO DE UMA REDE DE INFORMAÇÃO DE SUSTENTABILIDADE AGRÍCOLA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CRIAÇÃO DE UMA REDE DE INFORMAÇÃO DE SUSTENTABILIDADE AGRÍCOLA"
+  },
+  "a40c042d4ed3eb4f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Para suprir as necessidades da política agrícola comum (PAC), incluindo a avaliação do seu impacto no setor agrícola, é criada uma Rede de Informação de Sustentabilidade Agrícola (RISA) para a recolha e análise de dados sobre a sustentabilidade a nível das explorações agrícolas que abrangem as dimensões económica, ambiental e social (dados da RISA). Os dados da RISA podem ser utilizados para contribuir para a avaliação de outros aspetos relacionados com a sustentabilidade da agricultura da União e para dar resposta aos desafios enfrentados pela agricultura da União.\n\n2.\n\nOs dados da RISA abrangem os temas definidos no anexo -I. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 19.º-A, que alterem o anexo -I no intuito de modificar esses temas ou aditar outros. Ao exercer o seu poder de adoção dos referidos atos delegados, a Comissão:\n\na) Assegura que os atos delegados sejam devidamente justificados e não criem encargos adicionais significativos para os Estados-Membros nem para as explorações participantes;\n\nb) Realiza análises sobre a pertinência, a viabilidade e a proporcionalidade das alterações, designadamente a disponibilidade de fontes de dados adequadas e a sua qualidade, em especial de fontes administrativas pertinentes, e tem devidamente em conta os resultados dessas análises;\n\nc) Garante que os novos temas aditados estejam relacionados com os objetivos da PAC;\n\nd) Não adita temas novos até 20 de dezembro de 2026;\n\ne) Adota esses atos delegados, sempre que são aditados novos temas, pelo menos um ano antes da data de aplicação do ato de execução conexo a que se refere o artigo 8.º, n.º 4.\n\n3. Os dados da RISA e os dados de outros conjuntos de dados estabelecidos no artigo 4.º-A devem ser utilizados para realizar análises sobre o estado de sustentabilidade da agricultura da União, nomeadamente num formato que permita a realização de uma avaliação comparativa. A Comissão disponibiliza ao público os resultados dessas análises sob a forma de dados da RISA agregados e anonimizados. Esses dados podem ser utilizados para facultar informações comparativas ou aconselhamento aos agricultores, com o objetivo de facilitar a gestão das explorações e melhorar a sua sustentabilidade. A publicação dos resultados e a utilização de dados para fins de avaliação comparativa ou aconselhamento devem cumprir o disposto no artigo 16.º.\n\n4. Os Estados-Membros podem decidir utilizar os dados da RISA como uma fonte de dados conforme referido no artigo 8.º, n.º 1, alínea c), do Regulamento (UE) 2022/2379 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0001)), ou no artigo 4.º, n.º 1, alínea c), do Regulamento (UE) 2018/1091 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0002)), ou no anexo I do Regulamento (CE) n.º 138/2004 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0003)), ou noutros atos adotados com base no artigo 338.º, n.º 1, do TFUE."
+  },
+  "787e6f4e1ffe89b5": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) “Agricultor”, uma pessoa física ou coletiva cuja exploração se situa na União;\n\n2) “Exploração agrícola” ou “exploração”, uma unidade técnico-económica única com uma gestão única e que leva a cabo atividades económicas na agricultura, em conformidade com o uso geral desses termos no âmbito dos inquéritos e recenseamentos agrícolas da União;\n\n3) “Classe de explorações”, um conjunto de explorações pertencentes às mesmas classes de orientação técnico-económica e de dimensão económica, tal como definidas na tipologia da União relativa às explorações referida no artigo 5.º-B;\n\n4) “Exploração participante”, qualquer exploração para a qual se preencha uma ficha de exploração para efeitos da RISA;\n\n5) “Ficha de exploração”, o formulário, por preencher ou já preenchido, que contém dados sobre a exploração participante, com exceção das ligações e dos dados a que se refere o artigo 4.º-A, n.º 1;\n\n6) “Circunscrição da Rede de Informação de Sustentabilidade Agrícola” ou “circunscrição da RISA”, o território de um Estado-Membro ou parte do território de um Estado-Membro delimitada para efeitos de seleção das explorações participantes; o anexo I apresenta uma lista destas circunscrições;\n\n7) “Responsável pela recolha de dados”, um órgão de ligação ou uma entidade encarregada pelo órgão de ligação de recolher dados da RISA;\n\n8) “Valor da produção-padrão”, o valor-padrão da produção bruta;\n\n9) “Dados pessoais”, os dados pessoais na aceção do artigo 4.º, ponto 1, do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0004)) e do artigo 3.º, ponto 1, do Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0005));\n\n10) “Dados individuais”, os dados associados a uma exploração participante que permitem identificar, direta ou indiretamente, a exploração ou o agricultor e que podem ser dados pessoais ou dados relativos a pessoas coletivas;\n\n11) “Dados anonimizados”, os dados apresentados sob uma forma que não permite, nem direta nem indiretamente, a identificação de pessoas singulares ou coletivas;\n\n12) “Dados pseudonimizados”, os dados individuais que já não podem ser atribuídos a uma pessoa singular ou coletiva específica sem recorrer a informações suplementares, desde que essas informações suplementares sejam mantidas separadamente e sejam sujeitas a medidas técnicas e organizativas destinadas a assegurar que os dados individuais não sejam atribuídos a uma pessoa singular ou coletiva identificada ou identificável;\n\n13) “Dados agregados”, os resultados de combinações ou cálculos com base em dados relacionados com várias explorações participantes."
+  },
+  "f7d472555d172862": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA fim de assegurar que a lista das circunscrições da RISA possa ser atualizada a pedido de um Estado-Membro, a Comissão fica habilitada a adotar, nos termos do artigo 19.º-A, atos delegados que alterem o anexo I no que respeita à lista de circunscrições da RISA por Estado-Membro."
+  },
+  "46f25a168564ca87": {
+   "fragment_id": "DADOS PARA O PREENCHIMENTO DE FICHAS DE EXPLORAÇÃO E O ESTABELECIMENTO DE LIGAÇÕES ENTRE OS DADOS",
+   "type": "divisao",
+   "heading": "DADOS PARA O PREENCHIMENTO DE FICHAS DE EXPLORAÇÃO E O ESTABELECIMENTO DE LIGAÇÕES ENTRE OS DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DADOS PARA O PREENCHIMENTO DE FICHAS DE EXPLORAÇÃO E O ESTABELECIMENTO DE LIGAÇÕES ENTRE OS DADOS"
+  },
+  "1c45eff51bca7b7a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. As fichas de exploração são preenchidas através de inquéritos para os quais os Estados-Membros podem utilizar, se for caso disso, dados provenientes das fontes de dados a que se refere o n.º 2 e de outras fontes de dados pertinentes, assim como métodos de compilação de dados ou abordagens inovadoras para a partilha e compilação de dados.\n\n2.\n\nOs órgãos de ligação têm o direito de aceder às fontes de dados seguintes e de as utilizar a título gratuito:\n\na) O sistema integrado de gestão e de controlo estabelecido pelo Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho ([^6^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0006));\n\nb) O sistema de identificação e registo de animais terrestres detidos estabelecido pelo Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho ([^7^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0007));\n\nc) O cadastro vitícola implementado em conformidade com o artigo 145.º do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho ([^8^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0008));\n\nd) Os registos da agricultura biológica previstos no Regulamento (UE) 2018/848 do Parlamento Europeu e do Conselho ([^9^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0009));\n\ne) Os dados dos Estados-Membros para a realização do acompanhamento e da avaliação dos planos estratégicos da PAC (dados de acompanhamento e avaliação) obtidos em conformidade com o ato de execução adotado com base no artigo 133.º do Regulamento (UE) 2021/2115 do Parlamento Europeu e do Conselho ([^10^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0010));\n\nf) Se for caso disso, registos das explorações agrícolas recolhidos para a criação de programas de ação pelos Estados-Membros em conformidade com o artigo 5.º da Diretiva 91/676/CEE do Conselho ([^11^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0011));\n\ng) Qualquer outra fonte de dados relevante acessível às autoridades dos Estados-Membros.\n\n3. Os Estados-Membros garantem que os órgãos de ligação tenham o direito de aceder às fontes de dados a que se refere o n.º 2 e de as utilizar. Para esse efeito, os Estados-Membros podem estabelecer os mecanismos de cooperação necessários que facilitem o acesso efetivo a essas fontes de dados e a sua utilização. O direito de acesso e de utilização é igualmente concedido quando o órgão de ligação delegar tarefas a pessoas singulares ou coletivas a realizar em seu nome.\n\n4. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 19.º-A, que alterem o n.º 2 do presente artigo e aditem novas fontes de dados apropriadas estabelecidas pelo direito da União."
+  },
+  "ae4a4897ad093496": {
+   "fragment_id": "Artigo 4.º-A",
+   "type": "artigo",
+   "heading": "Artigo 4.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-A\n\n1.\n\nAlém da ficha de exploração, os Estados-Membros determinam as ligações entre a exploração participante e os identificadores relativos a essa exploração nos seguintes conjuntos de dados:\n\na) Dados de acompanhamento e avaliação;\n\nb) Sistema integrado de gestão e de controlo.\n\n2.\n\nA Comissão fica habilitada a adotar atos delegados, nos termos do artigo 19.º-A, que alterem a lista de conjuntos de dados referidos no n.º 1 do presente artigo e aditem novos conjuntos de dados apropriados e pertinentes. Ao exercer o seu poder de adoção dos referidos atos delegados, a Comissão:\n\na) Assegura que os atos delegados sejam devidamente justificados e não criem encargos adicionais significativos para os Estados-Membros nem para as explorações participantes;\n\nb) Realiza análises sobre a pertinência, a viabilidade, a proporcionalidade e a qualidade desses conjuntos de dados e tem devidamente em conta os resultados dessas análises.\n\n3. A Comissão adota atos de execução que indiquem os dados a extrair dos conjuntos de dados a que se refere o n.º 1 do presente artigo e que estabeleçam regras pormenorizadas sobre as especificações técnicas e os prazos para a transmissão desses dados entre os Estados-Membros e a Comissão. Esses dados devem estar relacionados com o objetivo do presente regulamento, tal como previsto no artigo 1.º, e com um ou mais dos temas enumerados no anexo -I. Ao adotar esses atos de execução, a Comissão tem em conta a relevância desses dados e a viabilidade da extração dos dados a que se refere o n.º 1 do presente artigo. Esses referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2.\n\n4. A Comissão elabora e disponibiliza aos Estados-Membros orientações técnicas sobre a metodologia de extração dos dados pertinentes."
+  },
+  "a671ac2b77c78d25": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O campo de observação compreende as explorações com uma dimensão económica igual ou superior a um limiar correspondente a um dos limites inferiores das classes de dimensão económica da tipologia da União relativa às explorações a que se refere o artigo 5.º-B.\n\nA Comissão fica habilitada a adotar atos delegados, nos termos do artigo 19.º-A, que completem o presente regulamento com as regras de fixação do limiar previsto no primeiro parágrafo do presente número. Essas regras garantem que as explorações de menor dimensão económica estejam adequadamente representadas nos planos de seleção das explorações participantes estabelecidos pelos Estados-Membros em conformidade com o artigo 5.º-A.\n\nCom base nos dados e contribuições recebidos dos Estados-Membros, a Comissão adota atos de execução que fixam o limiar previsto no primeiro parágrafo do presente número. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2.\n\n2.\n\nPara se qualificar como exploração participante, uma exploração deve:\n\na) Estar abrangida pelo campo de observação a que se refere o n.º 1;\n\nb) Ser representativa, em conjunto com as restantes explorações a nível de cada circunscrição da RISA, do campo de observação.\n\n3. Os Estados-Membros podem adotar regras nacionais para incentivar a participação nos inquéritos.\n\nEm casos excecionais, os Estados-Membros podem também adotar regras para gerir possíveis casos em que seja provável que o número de explorações participantes definido no plano de seleção das explorações participantes não seja atingido. Contudo, essas regras não podem prever sanções para os agricultores."
+  },
+  "e44e15bcf572c5b6": {
+   "fragment_id": "Artigo 5.º-A",
+   "type": "artigo",
+   "heading": "Artigo 5.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A\n\n1. [**►M7**](http://publications.europa.eu/resource/celex/32023R2674) Cada Estado-Membro define um plano para a seleção de explorações participantes que assegure uma amostra representativa do campo de observação.**◄**\n\nA Comissão adota, nos termos do artigo 19.º-A, atos delegados que estabelecem as regras segundo as quais os Estados-Membros devem elaborar esses planos. Essas regras asseguram que os planos para a seleção das explorações contabilísticas:\n\n— sejam elaborados com base nos dados estatísticos mais recentes,\n\n— sejam apresentados em conformidade com a tipologia da União para as explorações, e\n\n— especifiquem, em particular, a distribuição das explorações contabilísticas por classe de exploração e as respetivas modalidades de seleção.\n\n2. Em conformidade com as regras adotadas nos termos do n.º 1 e com base nos dados recebidos dos Estados-Membros, a Comissão adota atos de execução que fixam o número de explorações participantes por Estado-Membro e por circunscrição da RISA. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2.\n\n3. O número de explorações participantes a selecionar por circunscrição da RISA pode ser, no máximo, 20 % superior ou inferior ao número estabelecido nos atos de execução a adotar nos termos do n.º 2, desde que o número total de explorações participantes do Estado-Membro em causa seja respeitado.\n\n4. A Comissão adota atos de execução que estabelecem e atualizam os modelos e os métodos respeitantes à forma e conteúdo dos dados a comunicar pelos Estados-Membros à Comissão. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "ff2109c97e196310": {
+   "fragment_id": "Artigo 5.º-B",
+   "type": "artigo",
+   "heading": "Artigo 5.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-B\n\n1. As explorações são classificadas de modo uniforme, de acordo com a tipologia da União para as explorações.\n\nA tipologia das explorações é utilizada especialmente para a apresentação, por classe de orientação técnico-económica e de dimensão económica, dos dados recolhidos no âmbito dos inquéritos sobre a estrutura das explorações agrícolas da União e da RISA.\n\n2. A «orientação técnico-económica» de uma exploração é determinada pela contribuição relativa do valor da produção-padrão das diferentes atividades dessa exploração para o valor da produção-padrão total da exploração.\n\nA Comissão fica habilitada a adotar, nos termos do artigo 19.º-A, atos delegados que fixem o período de referência da produção-padrão.\n\n3. As explorações são classificadas de acordo com um número limitado de orientações técnico-económicas (OTE). São especificadas as classes gerais de OTE. Consoante a quantidade de pormenores exigida, as classes gerais de OTE são divididas em classes principais.\n\nA Comissão fica habilitada a adotar, nos termos do artigo 19.º-A, atos delegados no que respeita à determinação das classes gerais e principais de OTE.\n\nDeve ser especificada a correspondência entre classes gerais e principais de OTE e classes especiais para as explorações especializadas correspondentes às classes principais de OTE.\n\n4. A dimensão económica da exploração é definida com base no valor da produção-padrão total da exploração.\n\n5. A importância das atividades lucrativas diretamente relacionadas com a exploração, distintas das atividades agrícolas da exploração, é determinada com base na sua contribuição para a produção final da exploração.\n\n6. Os valores da produção-padrão e os dados que permitem determiná-la devem ser transmitidos à Comissão (Eurostat) através do órgão de ligação designado por cada Estado-Membro nos termos do artigo 7.º ou do organismo no qual esta função tenha sido delegada.\n\n7.\n\nA Comissão adota atos de execução destinados a estabelecer:\n\n— os métodos de cálculo das classes especiais de OTE no que toca às explorações especializadas referidas no n.º 3, bem como de inclusão da exploração numa classe principal,\n\n— o método de cálculo da dimensão económica da exploração,\n\n— as classes de dimensão económica das explorações, referidas no n.º 1,\n\n— os métodos de cálculo da produção da exploração e de estimativa da contribuição de outras atividades lucrativas para essa produção, para efeitos do n.º 5,\n\n— o método de cálculo para determinar os valores da produção-padrão de cada atividade referida no n.º 2, os processos de recolha dos dados correspondentes e os meios e prazos de transmissão dos valores da produção-padrão à Comissão, nos termos do n.º 6.\n\nEsses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "c74707cdc96bd41b": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Cada Estado-Membro cria um comité nacional da RISA («Comité Nacional»).\n\n2. O Comité Nacional é responsável pela seleção das explorações contabilísticas. Como tal, cumpre-lhe, nomeadamente, aprovar o plano de seleção das explorações contabilísticas.\n\n3. O Presidente do Comité Nacional é designado pelo Estado-Membro, de entre os membros deste Comité.\n\nO Comité Nacional toma as suas decisões por unanimidade. No caso de a unanimidade não ser conseguida, as decisões são tomadas pela Autoridade designada pelo Estado-Membro.\n\n4. Os Estados-Membros com várias circunscrições da RISA podem criar, a nível de cada circunscrição da RISA sob a sua jurisdição, um comité regional para a RISA (Comité Regional).\n\nO Comité Regional tem por tarefa, nomeadamente, cooperar com o órgão de ligação referido no artigo 7.º na selecção das explorações contabilísticas.\n\n5. A Comissão adota atos de execução que estabelecem as regras de execução do presente artigo. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "450e9ff64baf27b4": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1.\n\nCada Estado-Membro designa um órgão de ligação com as seguintes funções:\n\na) Informar o Comité Nacional, os Comités Regionais e os responsáveis pela recolha de dados do quadro regulamentar aplicável e assegurar a sua boa execução;\n\nb) Elaborar o plano de seleção das explorações participantes, submetê-lo ao Comité Nacional para aprovação e, ulteriormente, transmiti-lo à Comissão;\n\nc) Estabelecer:\n\ni) a lista das explorações participantes,\n\nii) se aplicável, a lista dos responsáveis pela recolha de dados aptos a preencher fichas de exploração;\n\nd) Elaborar as fichas de exploração;\n\ne) Verificar o correto preenchimento das fichas de exploração e, se necessário, assegurar a correção de eventuais imprecisões ou erros detetados;\n\nf) Enviar à Comissão as fichas de exploração devidamente preenchidas, no formato exigido e no prazo fixado;\n\ng) Enviar as ligações ou os dados a que se refere o artigo 4.º-A, n.º 1;\n\nh) Transmitir os pedidos de esclarecimento previstos no artigo 17.º ao Comité Nacional, aos Comités Regionais e aos responsáveis pela recolha de dados e enviar as respostas correspondentes à Comissão;\n\ni) Oferecer a qualquer exploração participante a possibilidade de obter os seus resultados junto do órgão de ligação ou de uma organização por ele designada, o mais rapidamente possível e, em todo o caso, o mais tardar quatro meses após a Comissão ter confirmado que a ficha de exploração está devidamente preenchida; sempre que possível, os referidos resultados devem incluir informações de referência, em que se comparem esses resultados com médias regionais, nacionais, da União ou setoriais;\n\nj) Estabelecer um plano para incentivar a participação dos agricultores na RISA e apresentá-lo à Comissão juntamente com o plano de seleção das explorações participantes;\n\nk) Disponibilizar, por meios próprios ou através de uma organização que nomeie, os resultados obtidos sob a forma de dados agregados e anonimizados, notadamente à escala regional, nacional, da União ou setorial.\n\n2. A Comissão adota atos de execução que estabelecem as regras de execução do presente artigo. Esses atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "4ffb034d7fc6fc0c": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Cada exploração participante é objeto de uma ficha de exploração individual e é identificada na RISA com um número nacional único da RISA.\n\n2.\n\nCada ficha de exploração devidamente preenchida deve compreender dados que permitam:\n\na) Descrever a exploração participante pelos elementos essenciais dos seus fatores de produção;\n\nb) Descrever o rendimento da exploração nos seus diferentes aspetos;\n\nc) Descrever a situação económica, ambiental e social da exploração;\n\nd) Verificar a informação prestada através de meios apropriados, como verificações no local e à distância.\n\n3. Os dados da ficha de exploração dizem respeito a uma única exploração e a um só ano de referência de 12 meses consecutivos. Esses dados referem-se às atividades agrícolas da exploração propriamente dita e a outras atividades lucrativas com ela diretamente relacionadas. Os dados relativos a heranças, contas bancárias privadas, bens estranhos à exploração, impostos pessoais ou seguros privados não podem ser tomados em linha de conta na conceção da ficha de exploração.\n\n4.\n\nA fim de assegurar que os dados recolhidos através de fichas de exploração sejam comparáveis, independentemente das explorações participantes observadas, a Comissão adota atos de execução que estabelecem regras sobre o seguinte:\n\na) As variáveis e as definições de variáveis ligadas a um ou mais dos temas enunciados no anexo -I;\n\nb) O início e o fim do ano de referência;\n\nc) O formato e o modelo da ficha de exploração;\n\nd) Os métodos e prazos para a transmissão de dados à Comissão, incluindo eventuais prorrogações de prazos e isenções no caso de variáveis específicas que possam ser concedidas a um Estado-Membro mediante pedido justificado;\n\ne) A frequência da transmissão de dados, que deve ser anual ou menos frequente em função da natureza das variáveis."
+  },
+  "847b2bc8ad7322ba": {
+   "fragment_id": "Artigo 8.º-A",
+   "type": "artigo",
+   "heading": "Artigo 8.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º-A\n\n1. As fichas de exploração, assim como as ligações ou os dados referidos no artigo 4.º-A, são apresentadas à Comissão pelo órgão de ligação através de um sistema informatizado de dados criado pela Comissão. Os dados são apresentados por via eletrónica através de formulários disponibilizados ao órgão de ligação através desse sistema.\n\n2. A Comissão adota atos de execução para estabelecer regras pormenorizadas sobre o armazenamento, o tratamento, a reutilização e a partilha, na Comissão, dos dados a que se refere o n.º 1 do presente artigo. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "607f9f39c2412116": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os dados individuais obtidos no âmbito da aplicação do presente regulamento só podem ser utilizados para a execução de tarefas para efeitos do artigo 1.º do presente regulamento. Em qualquer caso, os Estados-Membros ou a Comissão não podem utilizar esses dados individuais para quaisquer outros fins, nomeadamente para controlos nos termos do Regulamento (UE) 2021/2116 ou para fins fiscais.\n\n2. Os dados da RISA e, para efeitos do presente regulamento, os dados de outros conjuntos de dados previstos no artigo 4.º-A podem ser tornados públicos desde que sejam agregados e anonimizados.\n\n3. A Comissão pode conceder acesso a dados pseudonimizados para fins de investigação. A Comissão fica habilitada a adotar atos delegados, nos termos do artigo 19.º-A, para completar o presente regulamento com as regras e condições relativas ao acesso a esses dados ao nível da União. Ao adotar esses atos delegados, a Comissão tem em conta a necessidade de proteção dos dados individuais e, em especial, as regras aplicáveis às transferências de dados para destinatários localizados fora do território da União, estabelecidas no capítulo V do Regulamento (UE) 2016/679 e no capítulo V do Regulamento (UE) 2018/1725. A Comissão solicita o parecer da Autoridade Europeia para a Proteção de Dados antes de adotar esses atos delegados."
+  },
+  "a28721d4212f0c3c": {
+   "fragment_id": "Artigo 16.º-A",
+   "type": "artigo",
+   "heading": "Artigo 16.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º-A\n\n1. Os Estados-Membros e a Comissão adotam e aplicam as medidas técnicas e organizativas adequadas, incluindo em relação ao sistema informatizado de dados a que se refere o artigo 8.º-A, para assegurar e demonstrar que a recolha, o tratamento, a compilação e a transmissão de dados individuais se limitam aos fins do presente regulamento.\n\n2. Os dados individuais são conservados enquanto forem necessários para a realização de análises de séries cronológicas.\n\n3. Os dados individuais não são disponibilizados a outras pessoas além daquelas cujas funções exigem que tenham acesso a esses dados para efeitos do presente regulamento.\n\n4. É proibido às pessoas que participam ou que tenham participado na RISA divulgar dados individuais ou quaisquer outras informações individuais de que tenham tido conhecimento no exercício das suas funções ou em resultado do exercício destas. Os Estados-Membros e a Comissão tomam todas as devidas medidas para combater as infrações a essa proibição."
+  },
+  "3872fcd874b7d03b": {
+   "fragment_id": "Artigo 16.º-B",
+   "type": "artigo",
+   "heading": "Artigo 16.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º-B\n\n1. O tratamento, a gestão e a utilização de dados pessoais recolhidos ao abrigo do presente regulamento devem cumprir o disposto nos Regulamentos (UE) 2016/679 e (UE) 2018/1725.\n\n2. A Comissão é responsável pelo tratamento dos dados pessoais incluídos nas fichas de exploração a partir do momento em que esses dados são recebidos pela Comissão. Os Estados-Membros determinam o responsável, e, se for caso disso, o subcontratante, para o tratamento dos dados pessoais incluídos nas fichas de exploração relativas a explorações situadas nos seus territórios."
+  },
+  "5b96619274cf9e26": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O Comité Nacional, os Comités Regionais, o órgão de ligação e os responsáveis pela recolha de dados são chamados, nas respetivas áreas de responsabilidade, a prestar à Comissão todas as informações e esclarecimentos pertinentes que a Comissão possa pedir relativamente ao cumprimento das suas funções no âmbito do presente regulamento.\n\nEstes pedidos de esclarecimento destinados ao Comité Nacional, aos Comités Regionais ou aos responsáveis pela recolha de dados, bem como as respostas correspondentes, devem ser transmitidos por escrito, por intermédio do órgão de ligação.\n\n2. Se as informações que são fornecidas são insuficientes ou se essas informações não chegarem em tempo útil, a Comissão pode, com a colaboração do órgão de ligação, enviar peritos ao local."
+  },
+  "76b736c0d24c6d67": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1.\n\nO Fundo Europeu Agrícola de Garantia (FEAGA) financia as seguintes despesas:\n\na) Um montante a pagar aos Estados-Membros pela entrega das fichas de exploração devidamente preenchidas dentro do prazo estabelecido, até ao número máximo de explorações participantes fixado nos termos do artigo 5.º-A, n.º 2; se o número total de fichas de exploração devidamente preenchidas e entregues respeitantes a uma circunscrição da RISA ou a um Estado-Membro for inferior a 80 % do número de explorações participantes previsto de acordo com o artigo 5.º-A, n.^os^ 2 e 3, para essa circunscrição da RISA ou para o Estado-Membro em questão, o montante aplicado para cada ficha de exploração respeitante a essa circunscrição da RISA ou ao Estado-Membro em questão é reduzido em 20 %; se essa redução já tiver sido aplicada nos dois anos consecutivos anteriores relativamente a uma circunscrição da RISA ou a um Estado-Membro, a redução é de 25 %;\n\nb) Todas as despesas dos sistemas informatizados de dados utilizados pela Comissão para gerir e desenvolver a RISA e para a receção, verificação, tratamento, interoperabilidade e análise dos dados fornecidos pelos Estados-Membros; essas despesas incluem, se aplicável, as inerentes à divulgação dos resultados dessas operações, bem como a estudos e atividades de desenvolvimento relativos a outros aspetos da RISA.\n\n2. O FEAGA concede igualmente contribuições financeiras aos Estados-Membros, a fim de contribuir para os custos de execução dos Estados-Membros nos casos em que a criação do sistema de recolha das variáveis ambientais e sociais nos termos do presente regulamento, incluindo para a formação e a interoperabilidade entre sistemas de recolha de dados, exija adaptações significativas no sistema de recolha de dados da RICA de um Estado-Membro. Essas contribuições devem ser facultadas aos Estados-Membros até 31 de dezembro de 2027.\n\n3. O montante a que se refere o n.º 1, alínea a), pode ser parcial ou totalmente pago aos agricultores pela sua participação nos inquéritos da RISA, de acordo com critérios de atribuição estabelecidos pelos Estados-Membros.\n\n4. A Comissão adota atos de execução que estabelecem os procedimentos pormenorizados aplicáveis ao montante a que se refere o n.º 1, alínea a), e às contribuições a que se refere o n.º 2. Nos atos de execução relativos às contribuições, a Comissão deve indicar claramente os critérios com base nos quais essas contribuições são atribuídas. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 19.º-B, n.º 2."
+  },
+  "2c754c2c0786f36c": {
+   "fragment_id": "Artigo 19.º-A",
+   "type": "artigo",
+   "heading": "Artigo 19.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º-A\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 1.º, n.º 2, no artigo 3.º, no artigo 4.º, n.º 4, no artigo 4.º-A, n.º 2, no artigo 5.º, n.º 1, no artigo 5.º-A, n.º 1, no artigo 5.º-B, n.^os^ 2 e 3, e no artigo 16.º, n.º 3, é conferido à Comissão por um prazo de cinco anos a contar de 19 de dezembro de 2023. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes prevista no artigo 1.º, n.º 2, no artigo 3.º, no artigo 4.º, n.º 4, no artigo 4.º-A, n.º 2, no artigo 5.º, n.º 1, no artigo 5.º-A, n.º 1, no artigo 5.º-B, n.^os^ 2 e 3, e no artigo 16.º, n.º 3, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n5. Os atos delegados adotados nos termos do artigo 1.º, n.º 2, do artigo 3.º, do artigo 4.º, n.º 4, do artigo 4.º-A, n.º 2, do artigo 5.º, n.º 1, do artigo 5.º-A, n.º 1, do artigo 5.º-B, n.^os^ 2 e 3, e do artigo 16.º, n.º 3, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "24f52d75ff468704": {
+   "fragment_id": "Artigo 19.º-B",
+   "type": "artigo",
+   "heading": "Artigo 19.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º-B\n\n1. A Comissão é assistida por um comité denominado “Comité da Rede de Informação de Sustentabilidade Agrícola”. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho ([^12^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#E0012)).\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011.\n\nNo caso dos atos de execução a que se referem o artigo 4.º-A, n.º 3, e o artigo 8.º, n.º 4, alínea a), do presente regulamento, na falta de parecer do Comité, a Comissão não adota o projeto de ato de execução, aplicando-se o artigo 5.º, n.º 4, terceiro parágrafo, do Regulamento (UE) n.º 182/2011."
+  },
+  "98a9a4b5af786a0a": {
+   "fragment_id": "Artigo 19.º-C",
+   "type": "artigo",
+   "heading": "Artigo 19.º-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º-C\n\nA Comissão apresenta ao Parlamento Europeu e ao Conselho até 20 de dezembro de 2028 um relatório de avaliação sobre a aplicação do artigo 4.º-A e do artigo 7.º, n.º 1, alínea g), acompanhado, se for caso disso, de uma proposta de ato legislativo que altera o artigo 19.º, n.º 1, alínea a)."
+  },
+  "9073913c52ad3a63": {
+   "fragment_id": "ANEXO -I",
+   "type": "divisao",
+   "heading": "ANEXO -I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO -I"
+  },
+  "0987a1c1f9eef2e1": {
+   "fragment_id": "Lista de temas",
+   "type": "divisao",
+   "heading": "Lista de temas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de temas"
+  },
+  "562683a3cf36ea30": {
+   "fragment_id": "Económicos",
+   "type": "divisao",
+   "heading": "Económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Económicos\n\nInformações de caráter geral sobre a exploração\n\nTipo de ocupação\n\nAtivos e investimentos\n\nQuotas e outros direitos\n\nDívidas e créditos\n\nImposto sobre o valor acrescentado\n\nFatores de produção\n\nUtilização dos solos e culturas\n\nProdução animal\n\nProdutos e serviços relacionados com os animais\n\nIntegração do mercado\n\nProdutos de qualidade – indicações geográficas\n\nPertença a organizações de produtores\n\nGestão de riscos\n\nInovação e transição digital\n\nOutras atividades lucrativas relacionadas com a exploração\n\nSubsídios\n\nParte indicativa do rendimento externo à exploração"
+  },
+  "0ae150ccad68af51": {
+   "fragment_id": "Ambientais",
+   "type": "divisao",
+   "heading": "Ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Ambientais\n\nPráticas agrárias\n\nGestão dos solos\n\nUtilização e gestão de nutrientes\n\nAgricultura de baixo carbono\n\nEmissões de gases com efeito de estufa e sua remoção\n\nPoluição atmosférica\n\nUtilização e gestão da água\n\nUtilização de proteção fitossanitária\n\nUtilização de agentes antimicrobianos\n\nBem-estar dos animais\n\nBiodiversidade\n\nAgricultura biológica\n\nSistemas de certificação\n\nConsumo e produção de energia\n\nPerdas alimentares ao nível da produção primária\n\nGestão de resíduos"
+  },
+  "12cd2d19e7f2518b": {
+   "fragment_id": "Sociais",
+   "type": "divisao",
+   "heading": "Sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Sociais\n\nMão de obra\n\nEducação\n\nEquilíbrio de género\n\nCondições de trabalho\n\nInclusão social\n\nSegurança social\n\nInfraestruturas e serviços essenciais\n\nRenovação geracional"
+  },
+  "ac660c5f176c42f1": {
+   "fragment_id": "Finlândia",
+   "type": "divisao",
+   "heading": "Finlândia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Finlândia\n\n1. Finlândia do Sul\n\n2. Ostrobótnia, Finlândia Interior e Finlândia do Norte"
+  },
+  "a0f157dcd596cbf3": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0001)) Regulamento (UE) 2022/2379 do Parlamento Europeu e do Conselho, de 23 de novembro de 2022, relativo às estatísticas dos fatores de produção e produtos agrícolas, que altera o Regulamento (CE) n.º 617/2008 da Comissão e que revoga os Regulamentos (CE) n.º 1165/2008, (CE) n.º 543/2009 e (CE) n.º 1185/2009 do Parlamento Europeu e do Conselho e a Diretiva 96/16/CE do Conselho (JO L 315 de 7.12.2022, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0002)) Regulamento (UE) 2018/1091 do Parlamento Europeu e do Conselho, de 18 de julho de 2018, relativo às estatísticas integradas sobre explorações agrícolas e que revoga os Regulamentos (CE) n.º 1166/2008 e (UE) n.º 1337/2011 (JO L 200 de 7.8.2018, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0003)) Regulamento (CE) n.º 138/2004 do Parlamento Europeu e do Conselho, de 5 de dezembro de 2003, sobre as contas económicas da agricultura na Comunidade (JO L 33 de 5.2.2004, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0004)) Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados) (JO L 119 de 4.5.2016, p. 1).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0005)) Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho, de 23 de outubro de 2018, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos e organismos da União e à livre circulação desses dados, e que revoga o Regulamento (CE) n.º 45/2001 e a Decisão n.º 1247/2002/CE (JO L 295 de 21.11.2018, p. 39).\n\n> ([^6^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0006)) Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021, relativo ao financiamento, à gestão e ao acompanhamento da política agrícola comum e que revoga o Regulamento (UE) n.º 1306/2013 (JO L 435 de 6.12.2021, p. 187).\n\n> ([^7^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0007)) Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às doenças animais transmissíveis e que altera e revoga determinados atos no domínio da saúde animal (“Lei da Saúde Animal”) (JO L 84 de 31.3.2016, p. 1).\n\n> ([^8^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0008)) Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho (JO L 347 de 20.12.2013, p. 671).\n\n> ([^9^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0009)) Regulamento (UE) 2018/848 do Parlamento Europeu e do Conselho, de 30 de maio de 2018, relativo à produção biológica e à rotulagem dos produtos biológicos e que revoga o Regulamento (CE) n.º 834/2007 do Conselho (JO L 150 de 14.6.2018, p. 1).\n\n> ([^10^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0010)) Regulamento (UE) 2021/2115 do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021, que estabelece regras para apoiar os planos estratégicos a elaborar pelos Estados-Membros no âmbito da política agrícola comum (planos estratégicos da PAC) e financiados pelo Fundo Europeu Agrícola de Garantia (FEAGA) e pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), e que revoga os Regulamentos (UE) n.º 1305/2013 e (UE) n.º 1307/2013 (JO L 435 de 6.12.2021, p. 1).\n\n> ([^11^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0011)) Diretiva 91/676/CEE do Conselho, de 12 de dezembro de 1991, relativa à proteção das águas contra a poluição causada por nitratos de origem agrícola (JO L 375 de 31.12.1991, p. 1).\n\n> ([^12^](http://publications.europa.eu/resource/cellar/46e636de-b480-11ee-b164-01aa75ed71a1.0019.02/DOC_2#src.E0012)) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão (JO L 55 de 28.2.2011, p. 13)."
+  }
+ }
+}

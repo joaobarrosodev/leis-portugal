@@ -1,0 +1,187 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:383996:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-889911883",
+ "dre_path": "/dr/detalhe/decreto-lei/168-1984-383996",
+ "source_lastmod": "2024-10-03",
+ "versions": [
+  {
+   "date": "1984-05-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889911536",
+    "889911537",
+    "889911538",
+    "889911539",
+    "889911540",
+    "889911541",
+    "889911542",
+    "889911543",
+    "889911544",
+    "889911545",
+    "889911546"
+   ]
+  },
+  {
+   "date": "2008-07-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:454502:por",
+     "title": "Decreto-Lei n.º 142/2008",
+     "published": "2008-07-24",
+     "dre_path": "/dr/detalhe/decreto-lei/142-2008-454502"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "889911536",
+    "889911537",
+    "889911538",
+    "889911539",
+    "889911540",
+    "889911541",
+    "889911542",
+    "889911548",
+    "889911549",
+    "889911550",
+    "889911546",
+    "889911547"
+   ]
+  }
+ ],
+ "fragments": {
+  "889911536": {
+   "fragment_id": "889911884",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 168/84\n\nde 22 de Maio\n\nPossui o nosso país aspectos geológicos e geomorfológicos de grande interesse, não só do ponto de vista estritamente científico, como também pela sua beleza paisagística, que importa preservar.\n\nEstá neste caso a arriba fóssil da Costa da Caparica, que, sobranceira às chamadas «Terras da Costa», se estende até quase à lagoa de Albufeira. Erguendo-se abruptamente em desnível da ordem dos 70 m, talhada inicialmente pelas águas do mar quaternário e depois, após emersões do continente, caprichosamente erodida pelas intempéries, constitui espectacular pano de fundo a toda a vizinha linha de praias.\n\nAs belas formas de erosão que apresenta, as suas características geológicas e a extensão tornam a arriba fóssil da Costa da Caparica exemplo ímpar no nosso país, impondo-se, por isso, a sua eficaz protecção.\n\nNas áreas circundantes à arriba distribuem-se outros valores naturais, cuja salvaguarda se torna indispensável, já que uma excessiva e desregrada utilização pela população os sujeita a progressiva deterioração.\n\nAssim:\n\nO Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "889911537": {
+   "fragment_id": "889911885",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada a Paisagem Protegida da Arriba Fóssil da Costa da Caparica."
+  },
+  "889911538": {
+   "fragment_id": "889911886",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A área da Paisagem Protegida é definida pelos limites cartografados no mapa anexo ao presente diploma.\n\n2 - O original do mapa à escala de 1:10000 fica arquivado no Serviço Nacional de Parques, Reservas e Conservação da Natureza (SNPRCN)."
+  },
+  "889911539": {
+   "fragment_id": "889911887",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Paisagem Protegida tem como objectivos preservar as características geomorfológicas e as comunidades naturais existentes, promovendo o seu equilíbrio biológico e paisagístico."
+  },
+  "889911540": {
+   "fragment_id": "889911888",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A gestão da Paisagem Protegida far-se-á de acordo com o plano de ordenamento a elaborar pelo Serviço Nacional de Parques, Reservas e Conservação da Natureza, ouvida a comissão instaladora e tendo em atenção o disposto nos artigos 3.º e 8.º\n\n2 - A aprovação do plano referido no número anterior competirá ao membro do Governo que superintenda no ambiente."
+  },
+  "889911541": {
+   "fragment_id": "889911889",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - A administração dos interesses específicos que se prosseguem na Paisagem Protegida, até à aprovação do regulamento que instituirá os órgãos definitivos sob superintendência do Serviço Nacional de Parques, Reservas e Conservação da Natureza, caberá a uma comissão instaladora nomeada por despacho do membro do Governo que superintenda no ambiente.\n\n2 - A comissão instaladora referida no número anterior é composta por representantes da Direcção-Geral das Florestas, da Direcção-Geral do Turismo, da Direcção-Geral do Planeamento Urbanístico, da Direcção-Geral do Ordenamento, da Direcção-Geral dos Serviços de Fomento Marítimo, das Câmara Municipais de Almada e de Sesimbra e do Serviço Nacional de Parques, Reservas e Conservação da Natureza, que presidirá."
+  },
+  "889911542": {
+   "fragment_id": "889911890",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA gestão florestal cabe à Direcção-Geral das Florestas, que deverá proceder à aquisição dos terrenos abrangidos na área protegida, quando não sejam do domínio público e quando interessem a essa gestão."
+  },
+  "889911543": {
+   "fragment_id": "889911891",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Dentro dos limites da Paisagem Protegida da Arriba Fóssil da Costa da Caparica, fica sujeita, para além dos licenciamentos camarários ou outros previstos na lei, à autorização do presidente da comissão instaladora ou do director da Paisagem Protegida a prática dos actos ou actividades seguintes:\n\na) Construção, reconstrução, ampliação ou demolição de edifícios e outras construções de qualquer natureza;\n\nb) Aterros, escavações ou quaisquer alterações à configuração do relevo natural;\n\nc) Derrube de árvores, isoladamente ou em maciço;\n\nd) Abertura de novas vias de comunicação e passagem de linhas telefónicas e eléctricas, condutas de água ou esgotos;\n\ne) Abertura de fossas, depósitos de lixo ou materiais;\n\nf) Instalação de locais de campismo ou acampamento.\n\n2 - A autorização referida no número anterior não dispensa outras autorizações, licenças ou pareceres que forem devidos.\n\n3 - São nulas e de nenhum efeito as licenças ou autorizações municipais, ou outras, concedidas sem a autorização referida no n.º 1 deste artigo."
+  },
+  "889911544": {
+   "fragment_id": "889911892",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Não poderão ser autorizadas construções ou ampliações de quaisquer edifícios, excepto aquelas que se considerem indispensáveis para o aproveitamento agrícola do solo, numa faixa de 70 m de largura para este da crista da arriba.\n\n2 - As autorizações referidas no número anterior não poderão ser concedidas quando as construções ou ampliações ultrapassarem em altura a recta que liga a linha da costa com a crista da arriba.\n\n3 - Na parte a oeste da arriba não poderão ser autorizadas quaisquer construções ou ampliações que a obstruam visualmente, nos termos do plano de ordenamento a aprovar."
+  },
+  "889911545": {
+   "fragment_id": "889911893",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - A prática de actos ou actividades referidos no n.º 1 do artigo 7.º sem a autorização nele mencionada constitui contra-ordenação punida com as seguintes coimas:\n\na) De 50000$00 a 3000000$00 - as referidas nas alíneas a) e b) do n.º 1 do mesmo artigo;\n\nb) De 20000$00 a 1500000$00 - as referidas nas alíneas c) e d) do n.º 1 do mesmo artigo;\n\nc) De 10000$00 a 250000$00 - as referidas na alínea e) do n.º 1 do mesmo artigo;\n\nd) De 5000$00 a 50000$00 - as referidas na alínea f) do n.º 1 do mesmo artigo.\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - Acessoriamente podem ser apreendidos os objectos utilizados ou produzidos aquando da infracção.\n\n4 - A competência para o processamento das contra-ordenações e para a aplicação das coimas e sanções acessórias caberá ao presidente da comissão instaladora e, de futuro, ao director da Paisagem Protegida.\n\n5 - O produto das coimas constitui receita a distribuir na seguinte proporção:\n\na) 50% para o Estado;\n\nb) 20% para o SNPRCN;\n\nc) 30% para o município da área onde se verifique a infracção ou 15% para cada um dos municípios da área respectiva, no caso de tal infracção se verificar na área de ambos os municípios.\n\n6 - O policiamento e fiscalização competem, nomeadamente, aos funcionários das entidades representadas na comissão instaladora, à PSP e à GNR.\n\n7 - Os autos, participações e denúncias são enviados à comissão instaladora e, de futuro, ao director da Paisagem Protegida."
+  },
+  "889911546": {
+   "fragment_id": "889911894",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Os infractores, incluindo pessoas colectivas, são obrigados, solidariamente, a todo o tempo, a repor a situação anterior à infracção.\n\n2 - Se os infractores não cumprirem a obrigação referida no número anterior, no prazo que lhes for indicado, o presidente da comissão instaladora ou o director da Paisagem Protegida, quando nomeado, mandarão proceder às demolições, obras e trabalhos necessários à reposição da situação anterior, apresentando nota das despesas efectuadas, para cobrança, aos infractores.\n\n3 - Se os infractores não pagarem no prazo que lhes for indicado, a cobrança será efectuada pelo processo das execuções fiscais, constituindo a nota de despesas título executivo.\n\n4 - Em caso de não ser possível a reposição da situação anterior à infracção, os infractores indemnizarão o Estado pelos prejuízos sofridos pela Paisagem Protegida."
+  },
+  "889911548": {
+   "fragment_id": "889911891",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2008-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008 - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), em vigor a partir de 2008-07-29"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - Dentro dos limites da Paisagem Protegida da Arriba Fóssil da Costa da Caparica, fica sujeita, para além dos licenciamentos camarários ou outros previstos na lei, à autorização do presidente da comissão instaladora ou do director da Paisagem Protegida a prática dos actos ou actividades seguintes:\n\na) Construção, reconstrução, ampliação ou demolição de edifícios e outras construções de qualquer natureza;\n\nb) Aterros, escavações ou quaisquer alterações à configuração do relevo natural;\n\nc) Derrube de árvores, isoladamente ou em maciço;\n\nd) Abertura de novas vias de comunicação e passagem de linhas telefónicas e eléctricas, condutas de água ou esgotos;\n\ne) Abertura de fossas, depósitos de lixo ou materiais;\n\nf) Instalação de locais de campismo ou acampamento.\n\n2 - A autorização referida no número anterior não dispensa outras autorizações, licenças ou pareceres que forem devidos.\n\n3 - São nulas e de nenhum efeito as licenças ou autorizações municipais, ou outras, concedidas sem a autorização referida no n.º 1 deste artigo.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008 - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), em vigor a partir de 2008-07-29"
+  },
+  "889911549": {
+   "fragment_id": "889911892",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2008-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008 - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), em vigor a partir de 2008-07-29"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Não poderão ser autorizadas construções ou ampliações de quaisquer edifícios, excepto aquelas que se considerem indispensáveis para o aproveitamento agrícola do solo, numa faixa de 70 m de largura para este da crista da arriba.\n\n2 - As autorizações referidas no número anterior não poderão ser concedidas quando as construções ou ampliações ultrapassarem em altura a recta que liga a linha da costa com a crista da arriba.\n\n3 - Na parte a oeste da arriba não poderão ser autorizadas quaisquer construções ou ampliações que a obstruam visualmente, nos termos do plano de ordenamento a aprovar.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008 - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), em vigor a partir de 2008-07-29"
+  },
+  "889911550": {
+   "fragment_id": "889911893",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2008-07-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008 - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), em vigor a partir de 2008-07-29"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - A prática de actos ou actividades referidos no n.º 1 do artigo 7.º sem a autorização nele mencionada constitui contra-ordenação punida com as seguintes coimas:\n\na) De 50000$00 a 3000000$00 - as referidas nas alíneas a) e b) do n.º 1 do mesmo artigo;\n\nb) De 20000$00 a 1500000$00 - as referidas nas alíneas c) e d) do n.º 1 do mesmo artigo;\n\nc) De 10000$00 a 250000$00 - as referidas na alínea e) do n.º 1 do mesmo artigo;\n\nd) De 5000$00 a 50000$00 - as referidas na alínea f) do n.º 1 do mesmo artigo.\n\n2 - A tentativa e a negligência são puníveis.\n\n3 - Acessoriamente podem ser apreendidos os objectos utilizados ou produzidos aquando da infracção.\n\n4 - A competência para o processamento das contra-ordenações e para a aplicação das coimas e sanções acessórias caberá ao presidente da comissão instaladora e, de futuro, ao director da Paisagem Protegida.\n\n5 - O produto das coimas constitui receita a distribuir na seguinte proporção:\n\na) 50% para o Estado;\n\nb) 20% para o SNPRCN;\n\nc) 30% para o município da área onde se verifique a infracção ou 15% para cada um dos municípios da área respectiva, no caso de tal infracção se verificar na área de ambos os municípios.\n\n6 - O policiamento e fiscalização competem, nomeadamente, aos funcionários das entidades representadas na comissão instaladora, à PSP e à GNR.\n\n7 - Os autos, participações e denúncias são enviados à comissão instaladora e, de futuro, ao director da Paisagem Protegida.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 142/2008 - Diário da República n.º 142/2008, Série I de 2008-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), em vigor a partir de 2008-07-29"
+  },
+  "889911547": {
+   "fragment_id": "889911895",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Abril de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Rui Manuel Parente Chancerelle de Machete - Manuel José Dias Soares Costa - Álvaro Roque de Pinho Bissaia Barreto - António d'Orey Capucho - Carlos Montez Melancia - Alípio Barrosa Pereira Dias - Fernando Manuel dos Santos Gomes.\n\nPromulgado em 7 de Maio de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 8 de Maio de 1984.\n\nO Primeiro-Ministro, Mário Soares.\n\n(ver documento original)"
+  }
+ }
+}

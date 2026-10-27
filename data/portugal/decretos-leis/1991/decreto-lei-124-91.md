@@ -1,0 +1,287 @@
+---
+schema_version: '1.0'
+id: pt:dre:471162:por
+title: Decreto-Lei n.º 124/91
+short_title: null
+summary: Altera a Lei Orgânica da Inspecção-Geral de Obras Públicas, Transportes e Comunicações (segunda alteração do Decreto-Lei
+  n.º 409/87, de 31 de Dezembro)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 124/91
+official_date: null
+publication_date: '1991-03-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 67/1991, Série I-A de 1991-03-21
+  number: '67'
+  series: I
+  supplement: null
+  pages: 1484 - 1486
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/03/067a00/14841486.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/124/1991/03/21/p/dre/pt/html
+  oj: null
+  dre: '471162'
+  dre_path: /dr/detalhe/decreto-lei/124-1991-471162
+  internal: pt:dre:471162:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1991-471162
+  metadata_url: https://data.dre.pt/eli/dec-lei/124/1991/03/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1991-471162
+  consolidated_url: null
+  retrieved_at: '2026-10-23T01:06:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: fd194e076f99ccc41533ce315c39a5f47f2cb851cc699471c67eebcbddcf02d4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T01:06:41Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Inspecção Geral de Obras Públicas Transportes e Comunicações
+- Orgânica
+- Pessoal de Inspecção
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:347166:por
+  label: "Alterado, de acordo com o disposto na al. a) do n.º 1 e no n.º 2 do art. 29.º do Dec Lei 404-A/98, de 18-Dez, o\
+    \ quadro de pessoal técnico superior de inspecção da Inspecção-Geral das Obras Públicas, Transportes e Comunicações do\
+    \ presente diploma, pelo DR.13/2001.2001.06.30.MES DR.IS-B [150] (Art 3.º)\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/13-2001-347166
+  date: '2001-06-30'
+- type: amended_by
+  target: pt:dre:589697:por
+  label: "Atribuída nova denominação à Inspecção-Geral de Obras Públicas, Transportes e Comunicações, cuja criação e orgânica\
+    \ constam do Dec Lei 409/87, de 31-Dez, posteriormente alterado no presente diploma, passando a designar-se Inspecção-Geral\
+    \ das Obras Públicas, pelo DEC LEI.58/2005.04.03.2005.MOPTC, DR.IS-A [45] de 04.03.2005\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/58-2005-589697
+  date: '2005-03-04'
+- type: cites
+  target: pt:dre:291808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:367855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:378358:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:406130:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:550586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:612422:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T01:06:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 124/91
+
+de 21 de Março
+
+O preâmbulo da Lei Orgânica da Inspecção-Geral de Obras Públicas, Transportes e Comunicações, aprovada pelo [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), de 31 de Dezembro, e alterada pelo [Decreto-Lei n.º 60/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1989-612422), de 23 de Fevereiro, previa uma reestruturação a curto prazo, à luz da experiência inspectiva entretanto recolhida.
+
+Volvidos dois anos e meio de actividade, ficou demonstrado que o número de efectivos, em termos de pessoal de inspecção, é manifestamente desajustado dos objectivos que a Inspecção-Geral se propõe alcançar.
+
+Neste contexto, as soluções preconizadas neste diploma visam, fundamentalmente, um reforço da carreira de inspector, bem como a previsão de algumas prerrogativas determinantes da actuação inspectiva que possam contribuir para a eficiência e eficácia dos serviços.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+Artigo 1.º Os artigos 10.º, 12.º, 14.º, 16.º, 17.º, 19.º e 20.º do [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), de 31 de Dezembro, passam a ter a seguinte redacção:
+
+###### Artigo 10.º — Regras de provimento
+
+O provimento do pessoal do quadro a que se refere o artigo anterior é feito nos termos da lei geral.
+
+###### Artigo 12.º — Carreira de inspector
+
+1 - A carreira de inspector desenvolve-se pelas categorias de inspector superior principal, inspector superior, inspector principal e inspector, a que correspondem as remunerações constantes do anexo n.º 7 ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+
+2 - O recrutamento para as categorias da carreira de inspector obedece às seguintes regras:
+
+a) Inspector superior principal - de entre inspectores superiores com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados, no mínimo, de Bom;
+
+b) Inspector superior - de entre inspectores principais com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados, no mínimo, de Bom, mediante concurso de provas públicas, que consistirá na apreciação e discussão do currículo profissional do candidato;
+
+c) Inspector principal - de entre inspectores com, pelo menos, três anos de serviço na categoria, classificados, no mínimo, de Bom;
+
+d) Inspector - de entre licenciados em Direito, Engenharia, Economia, Finanças ou Organização e Gestão de Empresas, aprovados em estágio com classificação não inferior a Bom (14 valores).
+
+3 - Ao estágio para ingresso na carreira de inspector é aplicável o disposto no [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, bem como o regime de estágios definido no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, com as seguintes especialidades:
+
+a) Durante o período de um ano os estagiários serão remunerados pelo escalão constante do anexo n.º 7 ao [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e têm direito à gratificação a que se refere o artigo 18.º do [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), de 31 de Dezembro, com as alterações decorrentes do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro;
+
+b) O relatório final de estágio poderá ser substituído pelos relatórios dos trabalhos efectuados por cada estagiário ao longo do ano.
+
+4 - Compete, genericamente, ao pessoal da carreira de inspecção realizar inspecções efectuar inquéritos, sindicâncias, peritagens e, bem assim, instruir processos disciplinares ou executar outras tarefas que lhe sejam determinadas no âmbito das atribuições da Inspecção-Geral, designadamente estudos, informações e pareceres técnicos nas áreas das respectivas especialidades.
+
+###### Artigo 14.º — Chefe de repartição
+
+O recrutamento do chefe de repartição far-se-á nos termos do disposto no artigo 6.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
+
+###### Artigo 16.º — Afectação de pessoal
+
+Por despacho do inspector-geral podem os inspectores ser afectados ao SAT e os técnicos superiores ao SI, sempre que tal se mostre conveniente e pelo tempo julgado necessário, gozando os últimos dos mesmos benefícios e regalias do pessoal da carreira de inspecção, durante o período em que se verifique a afectação.
+
+###### Artigo 17.º — Requisição, destacamento e comissão de serviço
+
+1 - Para a execução de tarefas inspectivas especiais ou quando, por falta de pessoal, tal se mostre necessário, pode requisitar-se ou destacar-se pessoal para a Inspecção-Geral, de harmonia com o disposto no artigo 27.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, e no artigo 37.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+
+2 - ...
+
+3 - ...
+
+###### Artigo 19.º — Direitos e prerrogativas
+
+Os inspectores gozam dos seguintes direitos e prerrogativas:
+
+a) Utilizar, nos locais de trabalho, por cedência das entidades inspeccionadas, instalações próprias, bem como os meios de que careçam;
+
+b) Utilizar um cartão de identificação com a menção «Livre trânsito», do modelo aprovado para uso no Ministério;
+
+c) Ter acesso e livre trânsito, quando em exercício de funções, em instalações dos órgãos, serviços, organismos autónomos e empresas dependentes ou sob tutela do Ministério das Obras Públicas, Transportes e Comunicações;
+
+d) Corresponder-se, quando em serviço fora da Inspecção-Geral, com todas as autoridades, bem como com quaisquer pessoas singulares ou colectivas, sobre assuntos de serviço da sua competência;
+
+e) Examinar livros, documentos e arquivos dos serviços inspeccionados;
+
+f) Requisitar às autoridades policiais a colaboração que se mostre necessária ao exercício das suas funções, designadamente nos casos de resistência a esse exercício por parte dos destinatários;
+
+g) Proceder à selagem de quaisquer instalações, dependências, cofres ou móveis e à apreensão, requisição ou reprodução de documentos quando isso se mostre indispensável à prova de infracções detectadas, para o que será levantado o respectivo auto, dispensável no caso de simples reprodução de documentos;
+
+h) Participar ao Ministério Público a recusa de quaisquer informações ou elementos solicitados nas condições das alíneas d) e e), bem como a falta injustificada na colaboração solicitada ao abrigo das alíneas a) e c).
+
+###### Artigo 20.º — Sigilo profissional, incompatibilidade e deveres especiais
+
+1 - ...
+
+2 - É vedado ao pessoal da Inspecção-Geral:
+
+a) Exercer qualquer actividade, pública ou privada, susceptível de comprometer a isenção exigida no exercício das suas funções, salvo casos especiais devidamente justificados e autorizados pelo Ministro, precedidos de parecer favorável do inspector-geral;
+
+b) Intervir em processos de inspecção, inquérito, sindicância ou processos disciplinares em que sejam visados parentes ou afins de qualquer grau da linha recta ou até ao 3.º grau da linha lateral.
+
+3 - Os funcionários da Inspecção-Geral devem desempenhar com o maior escrúpulo, correcção e diligência os serviços de que estiverem incumbidos.
+
+Art. 2.º São aditados ao [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), de 31 de Dezembro, os artigos 12.º-A, 16.º-A, 18.º-A, 19.º-A, 20.º-A, 22.º-A e 22.º-B, com a seguinte redacção:
+
+###### Artigo 12.º-A — Classificação anual de serviço
+
+1 - Aos funcionários da carreira de inspector da Inspecção-Geral será aplicado o sistema de classificação de serviço consagrado no Decreto Regulamentar n.º 44-B/83, de 1 de Junho, com as necessárias adaptações, aprovadas por portaria do Ministro das Obras Públicas, Transportes e Comunicações e do membro do Governo que tiver a seu cargo a função pública.
+
+2 - Enquanto não for aplicada a portaria referida no número anterior a classificação de serviço será atribuída de harmonia com o disposto no Decreto Regulamentar n.º 44-B/83, de 1 de Junho.
+
+###### Artigo 16.º-A — Contratos de tarefa e avença
+
+Para a realização de trabalhos que se considerem indispensáveis à prossecução das actividades da Inspecção-Geral, esta poderá celebrar contratos de tarefa e avença nos termos da lei geral.
+
+###### Artigo 18.º-A — Abonos e ajudas de custo
+
+O pessoal de inspecção ou a ele afecto, sempre que, por motivos de serviço, se desloque da sua residência oficial, tem direito a ajudas de custo e à utilização de transportes públicos em 1.ª classe, podendo ainda fazer uso de automóvel da sua propriedade, tudo nas condições estabelecidas na lei geral aplicável.
+
+###### Artigo 19.º-A — Domicílio legal
+
+1 - Os inspectores têm, em regra, domicílio legal em Lisboa.
+
+2 - Em casos devidamente justificados, a residência poderá ser fixada nas sedes dos distritos, mediante despacho do inspector-geral.
+
+3 - O uso da faculdade constante do número anterior depende da concordância dos funcionários abrangidos.
+
+4 - Os funcionários deslocados nos termos dos números anteriores têm a sua sede funcional em instalações dos serviços que integram o Ministério das Obras Públicas, Transportes e Comunicações ou dos organismos autónomos tutelados pelo Ministério.
+
+###### Artigo 20.º-A — Autoridade pública
+
+O inspector-geral, o subinspector-geral, os inspectores e os técnicos superiores, quando afectos ao serviço de inspecção, são considerados como autoridade pública.
+
+###### Artigo 22.º-A — Prestação de declarações
+
+1 - A Inspecção-Geral poderá requisitar a comparência, para prestação de declarações ou depoimentos em quaisquer processos administrativos, de funcionários ou agentes do Estado, bem como de trabalhadores de organismos autónomos e de empresas total ou parcialmente tuteladas pelo Ministério.
+
+2 - A notificação para comparência de quaisquer outras pessoas, para os efeitos referidos no número anterior e observadas as disposições aplicáveis no Código de Processo Penal, poderá ser requisitada às autoridades policiais.
+
+3 - As declarações e depoimentos referidos no número anterior devem ser colhidos em locais onde existam serviços do Ministério ou, na sua inexistência, na residência dos respectivos autores, ou ainda na localidade de trabalho ou actividade profissional do declarante ou depoente.
+
+4 - Toda a pessoa notificada ou avisada que não compareça no dia, hora e local designados, nem justifique a falta, será punida nos termos da lei.
+
+###### Artigo 22.º-B — Fiscalização do resultado das acções da Inspecção-Geral
+
+A Inspecção-Geral controlará a execução pelas entidades ou serviços competentes das medidas preconizadas nos seus relatórios, processos ou outros documentos para correcção ou reparação das irregularidades, deficiências ou outras anomalias detectadas.
+
+Art. 3.º O quadro de pessoal a que se refere o artigo 9.º do [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), de 31 de Dezembro, e o artigo 1.º do [Decreto-Lei n.º 60/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-1989-612422), de 23 de Fevereiro, é substituído pelo quadro anexo ao presente diploma, que dele faz parte integrante.
+
+Art. 4.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Joaquim Martins Ferreira do Amaral.
+
+Promulgado em 12 de Março de 1991.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 13 de Março de 1991.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Quadro a que se refere o artigo 9.º do [Decreto-Lei n.º 409/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1987-406130), com a alteração introduzida pelo artigo 3.º
+
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1991/03/067a00/14841486.pdf)

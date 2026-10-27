@@ -1,0 +1,542 @@
+---
+schema_version: '1.0'
+id: pt:dre:424313:por
+title: Decreto-Lei n.º 325/2003
+short_title: null
+summary: Define a sede, a organização e a área de jurisdição dos tribunais administrativos e fiscais, concretizando o respectivo
+  estatuto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 325/2003
+official_date: null
+publication_date: '2003-12-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 299/2003, Série I-A de 2003-12-29
+  number: '299'
+  series: I
+  supplement: null
+  pages: 8740 - 8745
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/12/299a00/87408745.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-08-14'
+version_history:
+  file: decreto-lei-325-2003.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2003-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-05-10'
+    amending: pt:dre:520850:por
+    amending_title: Decreto-Lei n.º 182/2007
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Anexo
+  - date: '2009-08-22'
+    amending: pt:dre:493694:por
+    amending_title: Decreto-Lei n.º 190/2009
+    changes:
+    - Altera Artigo 4.º
+  - date: '2019-11-16'
+    amending: pt:dre:124750731:por
+    amending_title: Lei n.º 118/2019
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Anexo
+  - date: '2020-08-14'
+    amending: pt:dre:140210521:por
+    amending_title: Decreto-Lei n.º 58/2020
+    changes:
+    - Altera Anexo
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/325/2003/p/cons/20200813/pt/html
+  oj: null
+  dre: '424313'
+  dre_path: /dr/detalhe/decreto-lei/325-2003-424313
+  internal: pt:dre:424313:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/325-2003-424313
+  metadata_url: https://data.dre.pt/eli/dec-lei/325/2003/p/cons/20200813/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-124750745
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-124750745
+  retrieved_at: '2026-10-22T12:29:04Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 289fe72733e02e20000a0d38dbf124578def5a96f7920737c3fd9229750d254f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:29:04Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-325-2003.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estatuto
+- Extinção de Serviços
+- Pessoal de Justiça
+- Recrutamento de Pessoal
+- Juiz
+- ÁREA de Jurisdição
+- Magistrado do Ministério Público
+- Orgânica
+- Regime Jurídico
+- Supremo Tribunal Administrativo
+- Tribunal Administrativo
+- Tribunal Administrativo de Círculo
+- Tribunal Administrativo e Fiscal
+- Tribunal Central Administrativo Norte
+- Tribunal Central Administrativo SUL
+- Tribunal Central Administrativo
+- Tribunal Fiscal
+- Tribunal Tributário
+relationships:
+- type: amended_by
+  target: pt:dre:520850:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2007-520850
+  date: '2007-05-09'
+- type: amended_by
+  target: pt:dre:493694:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2009-493694
+  date: '2009-08-17'
+- type: amended_by
+  target: pt:dre:124750731:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731
+  date: '2019-09-17'
+- type: amended_by
+  target: pt:dre:140210521:por
+  label: Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2020-140210521
+  date: '2020-08-13'
+- type: cites
+  target: pt:dre:278029:por
+  label: null
+  source: http://data.dre.pt/eli/lei/13/2002/02/19/p/dre
+- type: cites
+  target: pt:dre:322110:por
+  label: null
+  source: http://data.dre.pt/eli/lei/15/2001/06/05/p/dre
+- type: cites
+  target: pt:dre:476347:por
+  label: null
+  source: http://data.dre.pt/eli/lei/4-a/2003/02/19/p/dre
+- type: cites
+  target: pt:dre:634930:por
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/497/1999/11/19/p/dre
+article_structure:
+  article_count: 18
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:29:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 325/2003
+
+Decreto-Lei n.º 325/2003
+
+de 29 de Dezembro
+
+A Lei n.º 15/2001, de 5 de Junho, determinou a transferência para o Ministério da Justiça das competências do Estado no domínio da organização administrativa dos tribunais tributários de 1.ª instância, incumbindo o Governo de regular, por decreto-lei, os termos em que se processaria a transferência. Seguidamente, o novo Estatuto dos Tribunais Administrativos e Fiscais, aprovado pela Lei n.º 13/2002, de 19 de Fevereiro, e cujos artigos 39.º, 45.º e 86.º se encontram em vigor, por força do artigo 7.º da Lei n.º 4-A/2003, de 19 de Fevereiro, veio dar um novo enquadramento à justiça administrativa e tributária, estabelecendo os fundamentos da sua nova organização.
+
+O presente diploma surge na sequência das opções consagradas nas referidas leis, concretizando-as no plano da definição da sede e área de jurisdição dos novos tribunais administrativos e tributários, tanto ao nível da 1.ª como da 2.ª instância, bem como no plano da definição do regime de organização interna dos novos tribunais administrativos de círculo e dos novos tribunais tributários.
+
+Por outro lado, trata-se de dar resposta às questões colocadas pela instalação dos tribunais administrativos de círculo e dos tribunais tributários recentemente criados, designadamente no que se refere à situação dos magistrados e funcionários que exerciam funções nos tribunais administrativos de círculo e nos tribunais tributários de 1.ª instância, bem como no que respeita ao novo sistema informático dos tribunais da jurisdição administrativa e fiscal, que permitirá assegurar uma tramitação essencialmente informática dos processos.
+
+Procede-se, ainda, em conformidade com o disposto no n.º 4 do artigo 9.º do novo Estatuto dos Tribunais Administrativos e Fiscais, ao desdobramento do Tribunal Central Administrativo no Tribunal Central Administrativo Norte e no Tribunal Central Administrativo Sul.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 58/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2020-140210521) O presente decreto-lei produz efeitos a 1 de setembro de 2020, aplicando-se aos processos entrados em juízo a partir desta data.
+
+### Capítulo I — Sede e área de jurisdição dos tribunais da jurisdição administrativa e fiscal
+
+###### Artigo 1.º — Supremo Tribunal Administrativo
+
+1 - O Supremo Tribunal Administrativo tem sede em Lisboa e jurisdição em todo o território nacional.
+
+2 - A organização e o funcionamento do Supremo Tribunal Administrativo são objecto de regulação em diploma próprio.
+
+###### Artigo 2.º — Tribunais centrais administrativos
+
+1 - A área de jurisdição do Tribunal Central Administrativo Norte abrange o conjunto das áreas de jurisdição atribuídas no mapa anexo aos Tribunais Administrativos de Círculo e Tributários de Aveiro, Braga, Coimbra, Mirandela, Penafiel, Porto e Viseu.
+
+2 - A área de jurisdição do Tribunal Central Administrativo Sul abrange o conjunto das áreas de jurisdição atribuídas no mapa anexo aos Tribunais Administrativos de Círculo e Tributários de Almada, Beja, Castelo Branco, Funchal, Leiria, Lisboa, Loulé, Ponta Delgada e Sintra.
+
+3 - A organização e o funcionamento do Tribunal Central Administrativo Norte e do Tribunal Central Administrativo Sul são objecto de regulação em diploma próprio.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 182/2007 - Diário da República n.º 89/2007, Série I de 2007-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2007-520850), em vigor a partir de 2007-05-10
+
+###### Artigo 3.º — Tribunais administrativos de círculo e tribunais tributários
+
+1 - Os Tribunais Administrativos de Círculo e os Tribunais Tributários têm sede em Almada, Aveiro, Beja, Braga, Castelo Branco, Coimbra, Funchal, Leiria, Lisboa, Loulé, Mirandela, Penafiel, Ponta Delgada, Porto, Sintra e Viseu.
+
+2 - A área de jurisdição dos tribunais administrativos de círculo e dos tribunais tributários consta do mapa anexo ao presente diploma e que dele faz parte integrante.
+
+3 - Quando funcionem agregados, os tribunais administrativos de círculo e os tribunais tributários assumem a designação unitária de tribunais administrativos e fiscais.
+
+4 - Nos tribunais administrativos e fiscais agregados cujo quadro de juízes seja em número superior a dois, os lugares do quadro são identificados por referência à matéria especializada, administrativa ou tributária, em que cada juiz irá exercer funções.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 182/2007 - Diário da República n.º 89/2007, Série I de 2007-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2007-520850), em vigor a partir de 2007-05-10
+
+### Capítulo II — Organização e funcionamento dos tribunais da jurisdição administrativa e fiscal
+
+###### Artigo 4.º — Tramitação processual
+
+1 - A tramitação dos processos nos tribunais da jurisdição administrativa e fiscal é efectuada electronicamente em termos a definir por portaria do membro do Governo responsável pela área da justiça, devendo as disposições processuais relativas a actos dos magistrados e das secretarias judiciais ser objecto das adaptações práticas que se revelem necessárias, designadamente quanto:
+
+a) À apresentação de peças processuais e documentos;
+
+b) À distribuição de processos;
+
+c) À prática, necessariamente por meios electrónicos, dos actos processuais dos magistrados e dos funcionários;
+
+d) Aos actos, peças, autos e termos dos processos que não podem constar do processo em suporte físico;
+
+e) À remessa ao tribunal, necessariamente por meios electrónicos, do processo administrativo;
+
+f) Ao acesso e consulta dos processos em suporte informático.
+
+2 - O disposto no número anterior é aplicável às citações e notificações das partes e dos mandatários judiciais, que são efectuadas electronicamente nos termos da lei de processo e da portaria do membro do Governo responsável pela área da justiça.
+
+3 - Para efeitos do disposto no n.º 1, as peças processuais e os documentos apresentados pelas partes em suporte de papel são digitalizados pela secretaria judicial, nos casos e nos termos a regulamentar por portaria do Ministro da Justiça, e devolvidos ao apresentante.
+
+4 - Os documentos que possam ser digitalizados podem ser apresentados por transmissão electrónica de dados, podendo as partes ser dispensadas de remeter ao tribunal o respectivo suporte de papel e as cópias dos mesmos, nos termos a definir por portaria do Ministro da Justiça, e devolvidos ao apresentante.
+
+5 - O disposto nos números anteriores não prejudica o dever de exibição dos originais das peças processuais e dos documentos juntos pelas partes por transmissão electrónica de dados, sempre que o juiz o determine, nos termos da lei de processo.
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 190/2009 - Diário da República n.º 158/2009, Série I de 2009-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2009-493694), em vigor a partir de 2009-08-22
+
+###### Artigo 5.º — Secretarias
+
+1 - As secretarias dos tribunais administrativos de círculo e dos tribunais tributários compreendem uma secção central, que pode ser comum aos serviços judiciais e do Ministério Público, e uma secção de processos, constituída por uma ou mais unidades orgânicas coordenadas por um escrivão de direito.
+
+2 - Os quadros das secretarias dos tribunais administrativos de círculo e dos tribunais tributários são integrados por funcionários de justiça, subordinados ao respectivo regime jurídico e ao disposto no presente diploma.
+
+3 - Em cada unidade orgânica, o escrivão de direito é pessoalmente responsável pelo andamento dos processos que lhe estão atribuídos e dirige a actividade dos respectivos oficiais de justiça, distribuindo por eles as tarefas que, em cada momento, sejam necessárias ao bom andamento dos processos, em função do volume de trabalho a cargo de cada um e das suas aptidões específicas.
+
+4 - A distribuição dos processos pelas diferentes unidades orgânicas é realizada por meios informáticos e a respectiva numeração obedece a um critério unitário, que não atende à existência de diferentes unidades orgânicas.
+
+5 - (Revogado.)
+
+6 - Nos tribunais que funcionem de modo agregado a secretaria é comum.
+
+7 - A secção de processos pode integrar unidades orgânicas especializadas em função da matéria ou do ato a realizar, devendo a distribuição dos processos pelas unidades orgânicas ser efetuada em conformidade.
+
+8 - A secção central é organizada de modo a assegurar uma estrutura de atendimento público.
+
+9 - Compete à secção de processos assegurar a tramitação dos processos pendentes, na dependência funcional dos respetivos magistrados.
+
+10 - Compete à secção central executar o expediente que não seja da competência da secção de processos, nomeadamente:
+
+a) Assegurar o atendimento aos utentes;
+
+b) Praticar os atos relativos à receção das peças processuais e documentos, procedendo, quando necessário, à sua digitalização;
+
+c) Registar os pedidos de certidões;
+
+d) Assegurar a receção e registo de pagamentos relativos a atos avulsos;
+
+e) Elaborar a conta de custas;
+
+f) Assegurar o cumprimento do serviço externo e de todo o expediente com ele relacionado;
+
+g) Assegurar a prática dos atos de serviço externo atribuídos ao oficial de justiça enquanto agente de execução;
+
+h) Acompanhar as diligências de audição com recurso a equipamento tecnológico que permita a comunicação, por meio visual e sonoro, em tempo real;
+
+i) Desempenhar quaisquer outras funções conferidas por lei ou superiormente determinadas.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+###### Artigo 6.º — Secretários de justiça
+
+1 - Os secretários de justiça exercem as competências previstas no respetivo Estatuto, cabendo-lhes ainda coadjuvar o presidente e o administrador judiciário dos tribunais da respetiva zona geográfica.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+### Capítulo III — Disposições finais e transitórias
+
+###### Artigo 7.º — Entrada em funcionamento e definição dos quadros
+
+1 - Os tribunais da jurisdição administrativa e fiscal previstos na presente lei entram em funcionamento na data em que for determinada a respectiva instalação, por portaria do Ministro da Justiça.
+
+2 - Até à data do início de funcionamento de cada um dos tribunais administrativos de círculo e dos tribunais tributários previstos no presente diploma, são competentes, na respectiva área de jurisdição, os tribunais que vêm detendo tal competência.
+
+3 - Os quadros dos tribunais da jurisdição administrativa e fiscal são fixados por portaria do Ministro das Finanças e do Ministro da Justiça.
+
+###### Artigo 8.º — Desdobramento do Tribunal Central Administrativo
+
+1 - O Tribunal Central Administrativo é desdobrado no Tribunal Central Administrativo Norte, com sede no Porto, e no Tribunal Central Administrativo Sul, com sede em Lisboa.
+
+2 - Os processos pendentes no Tribunal Central Administrativo à data de instalação do Tribunal Central Administrativo Norte e do Tribunal Central Administrativo Sul prosseguem os seus trâmites no Tribunal Central Administrativo Sul.
+
+3 - Para efeitos do disposto no número anterior, é criado no Tribunal Central Administrativo Sul um juízo destinado, exclusivamente, à afectação dos processos pendentes no Tribunal Central Administrativo, a extinguir, por portaria do Ministro da Justiça, quando deixar de se justificar a sua existência.
+
+4 - Os magistrados e funcionários de justiça que exerçam funções no Tribunal Central Administrativo à data da entrada em funcionamento dos novos Tribunais Centrais Administrativos Norte e Sul transitam automaticamente para o quadro do Tribunal Central Administrativo Sul, ficando prioritariamente afectos ao exercício de funções no juízo referido no número anterior, enquanto a evolução do movimento processual o justifique.
+
+5 - Durante os dois primeiros anos de funcionamento, os lugares de juiz no Tribunal Central Administrativo Norte são preenchidos por transferência de juízes do Tribunal Central Administrativo Sul, cabendo ao Conselho Superior dos Tribunais Administrativos e Fiscais determinar o gradual preenchimento desses lugares em função da evolução do volume processual.
+
+6 - Os juízos previstos no n.º 3 do presente artigo entram em funcionamento na data em que for determinada a respectiva instalação, por portaria do Ministro da Justiça.
+
+###### Artigo 9.º — Regime transitório dos Tribunais Administrativos de Círculo de Lisboa, Porto e Coimbra
+
+1 - Os actuais Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra são extintos e convertidos no 1.º Juízo dos Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra, respectivamente, ao qual são afectos os processos pendentes nos tribunais extintos, não lhe sendo distribuídos novos processos.
+
+2 - Os Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra são constituídos, durante a primeira fase de funcionamento, por dois juízos, que funcionam em instalações separadas, dotadas de secções centrais e de secções de processos próprios.
+
+3 - Sem prejuízo do disposto nos artigos 12.º e 14.º, os magistrados e funcionários de justiça que exerçam funções nos actuais Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra à data da entrada em funcionamento dos novos Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra transitam automaticamente para o quadro destes Tribunais, ficando afectos ao 1.º Juízo de cada um destes Tribunais.
+
+4 - O 1.º Juízo dos Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra funcionará por um período que pode ir, no máximo, até dois anos, o qual, mediante portaria do Ministro da Justiça, ouvido o Conselho Superior dos Tribunais Administrativos e Fiscais, pode ser prorrogado por mais um ano.
+
+5 - Uma vez expirado o período de tempo referido no número anterior ou a partir do momento em que, por portaria do Ministro da Justiça, mediante proposta do Conselho Superior dos Tribunais Administrativos e Fiscais, seja determinada a extinção do 1.º Juízo, por já não se justificar a sua existência:
+
+a) Os Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra deixam de ser constituídos por juízos;
+
+b) O equipamento, livros, objectos, papéis e processos pendentes no 1.º Juízo são transferidos para as instalações onde funciona o 2.º Juízo;
+
+c) Os juízes que ainda se encontrem afectos ao 1.º Juízo passam a exercer funções nas instalações onde funciona o 2.º Juízo e a ser incluídos na distribuição dos processos novos, sem que haja lugar à redistribuição dos processos que lhes estejam atribuídos.
+
+6 - Os juízos previstos no presente artigo entram em funcionamento na data em que for determinada a respectiva instalação, por portaria do Ministro da Justiça.
+
+###### Artigo 10.º — Extinção dos tribunais tributários de 1.ª instância e processos pendentes
+
+1 - A entrada em funcionamento dos novos tribunais tributários implica a extinção automática dos tribunais tributários de 1.ª instância existentes na respectiva área de jurisdição.
+
+2 - Os livros, processos e papéis findos, assim como os que se encontrem pendentes em cada tribunal tributário de 1.ª instância à data da respectiva extinção, transitam para o novo tribunal tributário da correspondente área de jurisdição.
+
+3 - Os processos pendentes nos juízos tributários de Lisboa e Porto são redistribuídos pelos Tribunais Tributários de Lisboa, de Loures e de Sintra, e do Porto e de Penafiel, respectivamente, de acordo com as novas regras de competência territorial.
+
+###### Artigo 11.º — Juízes dos tribunais administrativos de círculo e dos tribunais tributários de 1.ª instância
+
+1 - Os juízes que exerçam funções nos tribunais administrativos de círculo e nos tribunais tributários de 1.ª instância existentes à data da entrada em funcionamento dos novos tribunais podem concorrer aos lugares do quadro destes tribunais, sendo a graduação determinada de acordo com a respectiva classificação de serviço e, dentro desta, segundo o critério da antiguidade.
+
+2 - Têm preferência no primeiro provimento nos novos tribunais, para os efeitos previstos no número anterior, os juízes que exerçam funções nos tribunais administrativos de círculo e tributários de 1.ª instância existentes na correspondente área de jurisdição à data da entrada em funcionamento daqueles tribunais.
+
+3 - Os juízes em funções nos actuais tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra que forem providos em novos tribunais, ao abrigo do disposto nos números anteriores, mantêm-se em exercício de funções no 1.º Juízo dos Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra, em regime de destacamento, até que o Conselho Superior dos Tribunais Administrativos e Fiscais, tendo em conta o movimento processual, determine a cessação desse regime.
+
+###### Artigo 12.º — Magistrados do Ministério Público
+
+1 - Os magistrados do Ministério Público em funções nos tribunais administrativos de círculo e nos tribunais tributários de 1.ª instância existentes à data da entrada em funcionamento dos novos tribunais podem concorrer aos lugares de quadro destes tribunais, nos termos dos n.os 1 e 2 do artigo anterior.
+
+2 - Os magistrados do Ministério Público em funções nos actuais Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra que forem providos em novos tribunais, ao abrigo do disposto no número anterior, mantêm-se em exercício de funções no 1.º Juízo dos Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra, em regime de destacamento, até que o Conselho Superior do Ministério Público, tendo em conta o movimento processual, determine a cessação desse regime.
+
+3 - Os magistrados do Ministério Público que não sejam providos nos novos tribunais podem ser nomeados para o exercício de outras funções pelo Conselho Superior do Ministério Público.
+
+###### Artigo 13.º — Funcionários dos tribunais administrativos de círculo
+
+1 - Os funcionários que exerçam funções nos tribunais administrativos de círculo à data da entrada em funcionamento dos novos tribunais podem concorrer a lugares do quadro destes tribunais, sendo a preferência no respectivo provimento determinada de acordo com a respectiva classificação de serviço e, dentro desta, segundo o critério da antiguidade na categoria.
+
+2 - Têm preferência no primeiro provimento, para efeitos do disposto no número anterior, os funcionários que exerçam funções nos tribunais administrativos de círculo existentes na correspondente área de jurisdição à data da entrada em funcionamento dos novos tribunais.
+
+3 - Os funcionários em serviço nos Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra que forem providos nos novos tribunais ao abrigo do disposto nos números anteriores só podem assumir os novos lugares, que para o efeito ficam cativados, no momento em que, em função do movimento processual e segundo as regras de prioridade, venham a ser desafectados de funções no 1.º Juízo dos Tribunais Administrativos de Círculo de Lisboa, do Porto e de Coimbra, para o qual transitaram, nos termos do artigo 9.º
+
+###### Artigo 14.º — Transição de funcionários dos tribunais tributários de 1.ª instância
+
+1 - Até ao 90.º dia subsequente à entrada em vigor do presente diploma, os funcionários que exerçam funções nos tribunais tributários de 1.ª instância há pelo menos um ano podem optar, mediante a apresentação de requerimento dirigido ao Ministro da Justiça, pela transição para os quadros de pessoal dos funcionários da justiça, nos termos do Decreto-Lei n.º 497/99, de 19 de Novembro.
+
+2 - Os funcionários da Direcção-Geral dos Impostos que exerçam funções nos tribunais tributários de 1.ª instância extintos pelo presente diploma e que não optem pela transição referida no número anterior podem ser afectos ao quadro dos novos tribunais, mediante destacamento, nos termos do Decreto-Lei n.º 427/89, de 7 de Dezembro, mantendo todos os direitos e regalias, designadamente remuneratórias, inerentes ao lugar de origem.
+
+###### Artigo 15.º — Critérios de preenchimento dos quadros de juízes
+
+1 - O preenchimento dos lugares de juiz processa-se de forma gradual, a determinar por portaria do Ministro da Justiça, mediante proposta do Conselho Superior dos Tribunais Administrativos e Fiscais, de acordo com as necessidades de funcionamento dos novos tribunais.
+
+2 - Os juízes recrutados para os tribunais da jurisdição administrativa e fiscal no âmbito do concurso especial realizado para o efeito que não tenham vaga nesses tribunais no momento da respectiva colocação em lugar de primeira nomeação são nomeados juízes auxiliares pelo Conselho Superior dos Tribunais Administrativos e Fiscais nos tribunais cujo movimento o justifique.
+
+3 - Para efeitos do disposto no número anterior, são realizados concursos em que, para efeitos da determinação do local de colocação, se atende às preferências manifestadas, segundo a ordem pela qual os novos juízes figurem na lista de graduação homologada pelo Conselho Superior dos Tribunais Administrativos e Fiscais no termo da primeira fase de formação teórica do respectivo concurso de recrutamento.
+
+4 - Na medida em que isso se revele necessário para dar resposta a situações de desequilíbrio no volume de trabalho existente nos diferentes tribunais administrativos de círculo e dos tribunais tributários, o Conselho Superior dos Tribunais Administrativos e Fiscais pode determinar a redistribuição de processos pendentes nos tribunais de Lisboa e Porto a juízes providos nos novos Tribunais Administrativos de Círculo e Tributários de Sintra, de Loures e de Almada, e de Penafiel e de Braga, respectivamente.
+
+###### Artigo 16.º — Magistrados do Ministério Público
+
+O preenchimento dos lugares de magistrado do Ministério Público processa-se de forma gradual, a determinar por portaria do Ministro da Justiça, mediante proposta do Conselho Superior do Ministério Público, de acordo com as necessidades de funcionamento dos novos tribunais.
+
+###### Artigo 17.º — Critérios de preenchimento dos quadros de funcionários de justiça
+
+1 - O quadro inicial dos funcionários de justiça, a fixar pela portaria mencionada no n.º 1 do artigo 15.º, é revisto em função do preenchimento gradual dos lugares de juiz a que se refere o mesmo artigo.
+
+2 - A partir da publicação da portaria mencionada no n.º 1, pode proceder-se à nomeação gradual de funcionários para o quadro dos tribunais da jurisdição administrativa e fiscal, a qual, sendo efectuada antes de 1 de Janeiro de 2004, apenas produz efeitos na data de instalação dos tribunais.
+
+3 - Durante o período de dois anos a contar do início de funcionamento de cada um dos novos tribunais da jurisdição administrativa e fiscal, apenas é preenchida metade dos lugares do quadro da respectiva secretaria e serviços de apoio, sendo os restantes providos em regime de destacamento ou requisição por funcionários de justiça ou por funcionários com experiência em tribunais da jurisdição administrativa e fiscal.
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de Novembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona.
+
+Promulgado em 15 de Dezembro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 16 de Dezembro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+## Anexo — MAPA ANEXO
+
+Áreas de jurisdição dos Tribunais Administrativos de Círculo e Tributários
+
+Almada:
+
+Sede: Almada.
+
+Municípios de Alcochete, Almada, Barreiro, Moita, Montijo, Palmela, Seixal, Sesimbra e Setúbal.
+
+Aveiro (ver nota 1):
+
+Sede: Aveiro.
+
+Municípios de Águeda, Albergaria-a-Velha, Anadia, Arouca, Aveiro, Espinho, Estarreja, Ílhavo, Mealhada, Murtosa, Oliveira de Azeméis, Oliveira do Bairro, Ovar, Santa Maria da Feira, São João da Madeira, Sever do Vouga, Vagos, Vale de Cambra.
+
+Beja:
+
+Sede: Beja.
+
+Municípios de Alandroal, Alcácer do Sal, Aljustrel, Almodôvar, Alvito, Arraiolos, Barrancos, Beja, Borba, Castro Verde, Cuba, Estremoz, Évora, Ferreira do Alentejo, Grândola, Mértola, Montemor-o-Novo, Mora, Moura, Mourão, Odemira, Ourique, Portel, Redondo, Reguengos de Monsaraz, Santiago do Cacém, Serpa, Sines, Vendas Novas, Viana do Alentejo, Vidigueira e Vila Viçosa.
+
+Braga:
+
+Sede: Braga.
+
+Municípios de Amares, Arcos de Valdevez, Barcelos, Braga, Cabeceiras de Basto, Caminha, Celorico de Basto, Esposende, Fafe, Guimarães, Melgaço, Monção, Paredes de Coura, Ponte da Barca, Ponte de Lima, Póvoa de Lanhoso, Terras de Bouro, Valença, Viana do Castelo, Vieira do Minho, Vila Nova de Cerveira, Vila Nova de Famalicão, Vila Verde e Vizela.
+
+Castelo Branco:
+
+Sede: Castelo Branco.
+
+Municípios de Alter do Chão, Arronches, Avis, Belmonte, Campo Maior, Castelo Branco, Castelo de Vide, Covilhã, Crato, Elvas, Fronteira, Fundão, Gavião, Idanha-a-Nova, Manteigas, Marvão, Monforte, Nisa, Oleiros, Penamacor, Ponte de Sor, Portalegre, Proença-a-Nova, Sabugal, Sertã, Sousel, Vila de Rei e Vila Velha de Ródão.
+
+Coimbra:
+
+Sede: Coimbra.
+
+Municípios de Arganil, Cantanhede, Coimbra, Condeixa-a-Nova, Figueira da Foz, Góis, Lousã, Mira, Miranda do Corvo, Montemor-o-Velho, Oliveira do Hospital, Pampilhosa da Serra, Penacova, Penela, Soure, Tábua e Vila Nova de Poiares.
+
+Funchal:
+
+Sede: Funchal.
+
+Municípios de Calheta, Câmara de Lobos, Funchal, Machico, Ponta do Sol, Porto Moniz, Porto Santo, Ribeira Brava, Santa Cruz, Santana e São Vicente.
+
+Leiria:
+
+Sede: Leiria.
+
+Municípios de Abrantes, Alcanena, Alcobaça, Almeirim, Alpiarça, Alvaiázere, Ansião, Batalha, Benavente, Bombarral, Caldas da Rainha, Cartaxo, Castanheira de Pêra, Chamusca, Constância, Coruche, Entroncamento, Ferreira do Zêzere, Figueiró dos Vinhos, Golegã, Leiria, Mação, Marinha Grande, Nazaré, Óbidos, Ourém, Pedrógão Grande, Peniche, Pombal, Porto de Mós, Rio Maior, Salvaterra de Magos, Santarém, Sardoal, Tomar, Torres Novas e Vila Nova da Barquinha.
+
+Lisboa:
+
+Sede: Lisboa.
+
+Municípios de Alenquer, Arruda dos Vinhos, Azambuja, Cadaval, Lisboa, Loures, Lourinhã, Mafra, Odivelas, Sobral de Monte Agraço, Torres Vedras e Vila Franca de Xira.
+
+Loulé:
+
+Sede: Loulé.
+
+Municípios de Albufeira, Alcoutim, Aljezur, Castro Marim, Faro, Lagoa, Lagos, Loulé, Monchique, Olhão, Portimão, São Brás de Alportel, Silves, Tavira, Vila do Bispo e Vila Real de Santo António.
+
+Loures:
+
+Sede: Loures.
+
+Municípios de Alenquer, Arruda dos Vinhos, Azambuja, Cadaval, Loures, Lourinhã, Mafra, Odivelas, Sobral de Monte Agraço, Torres Vedras e Vila Franca de Xira.
+
+Mirandela:
+
+Sede: Mirandela.
+
+Municípios de Alfândega da Fé, Alijó, Boticas, Chaves, Bragança, Carrazeda de Ansiães, Freixo de Espada à Cinta, Macedo de Cavaleiros, Mesão Frio, Miranda do Douro, Mirandela, Mogadouro, Mondim de Basto, Montalegre, Murça, Peso da Régua, Ribeira de Pena, Sabrosa, Santa Marta de Penaguião, Torre de Moncorvo, Valpaços, Vila Flor, Vila Pouca de Aguiar, Vila Real, Vimioso e Vinhais.
+
+Penafiel:
+
+Sede: Penafiel.
+
+Municípios de Amarante, Baião, Castelo de Paiva, Felgueiras, Lousada, Marco de Canaveses, Paços de Ferreira, Paredes, Penafiel, Santo Tirso, Trofa e Valongo.
+
+Ponta Delgada:
+
+Sede: Ponta Delgada.
+
+Municípios de Angra do Heroísmo, Calheta, Corvo, Horta, Lajes das Flores, Lagoa, Lajes do Pico, Madalena, Nordeste, Ponta Delgada, Povoação, Praia da Vitória, Ribeira Grande, Santa Cruz das Flores, Santa Cruz da Graciosa, São Roque do Pico, Velas, Vila Franca do Campo e Vila do Porto.
+
+Porto:
+
+Sede: Porto.
+
+Municípios de Gondomar, Maia, Matosinhos, Porto, Póvoa de Varzim, Vila do Conde e Vila Nova de Gaia.
+
+Sintra:
+
+Sede: Sintra.
+
+Municípios de Sintra, Amadora, Cascais e Oeiras.
+
+Viseu (ver nota 2):
+
+Sede: Viseu.
+
+Municípios de Aguiar da Beira, Almeida, Armamar, Carregal do Sal, Castro Daire, Celorico da Beira, Cinfães, Figueira de Castelo Rodrigo, Fornos de Algodres, Gouveia, Guarda, Lamego, Mangualde, Meda, Moimenta da Beira, Mortágua, Nelas, Oliveira de Frades, Penalva do Castelo, Penedono, Pinhel, Resende, Santa Comba Dão, São João da Pesqueira, São Pedro do Sul, Sátão, Seia, Sernancelhe, Tabuaço, Tarouca, Tondela, Trancoso, Vila Nova de Foz Côa, Vila Nova de Paiva, Viseu e Vouzela.
+
+(nota 1) Após instalação do Tribunal Administrativo e Fiscal de Aveiro.
+
+(nota 2) Até à portaria de instalação do Tribunal Administrativo e Fiscal de Aveiro acumula as competências de jurisdição do Tribunal Administrativo e Fiscal de Viseu com as do Tribunal Administrativo e Fiscal de Aveiro.
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 58/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2020-140210521), em vigor a partir de 2020-08-14
+
+> Alterado pelo/a Anexo I do/a [Lei n.º 118/2019 - Diário da República n.º 178/2019, Série I de 2019-09-17](https://diariodarepublica.pt/dr/detalhe/lei/118-2019-124750731), em vigor a partir de 2019-11-16
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 182/2007 - Diário da República n.º 89/2007, Série I de 2007-05-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2007-520850), em vigor a partir de 2007-05-10

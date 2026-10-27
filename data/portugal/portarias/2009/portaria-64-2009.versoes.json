@@ -1,0 +1,460 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:602717:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-115475725",
+ "dre_path": "/dr/detalhe/portaria/64-2009-602717",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-01-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115466211",
+    "115466212",
+    "115466213",
+    "115466214",
+    "115466215",
+    "115466216",
+    "115466217",
+    "115466218",
+    "115466219",
+    "115466220",
+    "115466221",
+    "115466222",
+    "115466223",
+    "115466224",
+    "115466225",
+    "115466226"
+   ]
+  },
+  {
+   "date": "2011-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:278065:por",
+     "title": "Portaria n.º 136/2011",
+     "published": "2011-04-05",
+     "dre_path": "/dr/detalhe/portaria/136-2011-278065"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "115466211",
+    "115466212",
+    "115466213",
+    "115466232",
+    "115466233",
+    "115466234",
+    "115466217",
+    "115466218",
+    "115466219",
+    "115466220",
+    "115466221",
+    "115466222",
+    "115466223",
+    "115466224",
+    "115466225",
+    "115466226",
+    "115466227"
+   ]
+  },
+  {
+   "date": "2020-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129793720:por",
+     "title": "Portaria n.º 54/2020",
+     "published": "2020-03-03",
+     "dre_path": "/dr/detalhe/portaria/54-2020-129793720"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "115466211",
+    "115466212",
+    "115466213",
+    "115466232",
+    "115466233",
+    "115466234",
+    "129575096",
+    "115466218",
+    "115466219",
+    "115466220",
+    "115466221",
+    "115466222",
+    "115466223",
+    "115466224",
+    "115466225",
+    "115466226",
+    "115466227"
+   ]
+  },
+  {
+   "date": "2020-07-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:136168879:por",
+     "title": "Portaria n.º 148/2020",
+     "published": "2020-06-19",
+     "dre_path": "/dr/detalhe/portaria/148-2020-136168879"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "115466211",
+    "136236079",
+    "136236080",
+    "136236081",
+    "136236082",
+    "136236091",
+    "129575096",
+    "136236083",
+    "136236084",
+    "136236085",
+    "136236086",
+    "136236087",
+    "115466223",
+    "136236088",
+    "136236089",
+    "136236090",
+    "115466227"
+   ]
+  }
+ ],
+ "fragments": {
+  "115466211": {
+   "fragment_id": "115475726",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 64/2009\n\nde 22 de Janeiro\n\nNo âmbito da previsão e gestão de riscos, é atribuição da Autoridade Nacional de Protecção Civil, entre outras, proceder à regulamentação, licenciamento e fiscalização no âmbito da segurança contra incêndios, nos termos do disposto na alínea d) do n.º 2 do Decreto-Lei n.º 75/2007, de 29 de Março.\n\nCompete ainda à Autoridade Nacional de Protecção Civil promover, nos termos do disposto no artigo 6.º do Decreto-Lei n.º 75/2007, de 29 de Março, a aplicação e fiscalização do cumprimento das leis, regulamentos, normas e requisitos técnicos aplicáveis no âmbito das suas atribuições, sendo competente para, directamente ou através de pessoas ou entidades qualificadas, por si credenciadas, proceder aos necessários exames e verificações.\n\nO novo regime jurídico da segurança contra incêndio em edifícios, aprovado pelo Decreto-Lei n.º 220/2008, de 12 de Novembro, estabelece, no seu artigo 5.º, que a Autoridade Nacional de Protecção Civil é a entidade competente para assegurar o cumprimento do regime de segurança contra incêndio em edifícios (SCIE), incumbindo-lhe a credenciação de entidades para a realização de vistorias e de inspecções das condições de SCIE.\n\nEm execução do disposto neste diploma, impõe-se definir o regime de credenciação de entidades para a emissão de pareceres, realização de vistorias e de inspecções das condições de SCIE.\n\nAssim:\n\nNos termos e ao abrigo do disposto no n.º 1 do artigo 30.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, manda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "115466212": {
+   "fragment_id": "115475727",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece o regime de credenciação de entidades para a emissão de pareceres, realização de vistorias e de inspecções das condições de segurança contra incêndio em edifícios (SCIE)."
+  },
+  "115466213": {
+   "fragment_id": "115475728",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente portaria entende-se por:\n\na) «Parecer» a apreciação da conformidade e adequação das condições e requisitos:\n\n1) Das medidas de autoprotecção e de segurança, nos termos previstos nos n.os 5 e 6 do artigo 3.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;\n\n2) Das soluções de SCIE, previstas no artigo 14.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;\n\n3) Dos projectos de especialidade de SCIE submetidos a consulta da Autoridade Nacional de Protecção Civil, previstos no artigo 17.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;\n\n4) Das medidas de autoprotecção, no âmbito das consultas prévias previstas no n.º 3 do artigo 22.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;\n\nb) «Vistoria» a verificação do cumprimento das condições de SCIE e dos respectivos projectos e fichas de segurança, com vista à emissão de autorização de utilização ou funcionamento, nos termos previstos nos n.os 2 e 3 do artigo 18.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;\n\nc) «Inspecção» a fiscalização da manutenção do cumprimento das condições de SCIE aprovadas e da execução das medidas de autoprotecção e segurança, nos termos previstos no artigo 19.º do Decreto-Lei n.º 220/2008, de 12 de Novembro;\n\nd) «Entidades credenciadas» as referidas nos n.os 1 a 3 do artigo seguinte."
+  },
+  "115466214": {
+   "fragment_id": "115475729",
+   "type": 11,
+   "heading": "Artigo 3.º — Credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Credenciação\n\n1 - A Autoridade Nacional de Protecção Civil (ANPC) pode credenciar, para a emissão de pareceres e realização de vistorias e inspecções, as seguintes entidades:\n\na) Pessoas singulares, com qualificação técnica reconhecida pela ANPC;\n\nb) Pessoas singulares, com qualificação técnica reconhecida pela Ordem dos Arquitectos (OA), pela Ordem dos Engenheiros (OE) ou pela Associação Nacional de Engenheiros Técnicos (ANET).\n\n2 - A ANPC, mediante protocolos de cooperação celebrados com os municípios que possuam corpos de bombeiros profissionais ou mistos, pode credenciar técnicos municipais afectos aos gabinetes técnicos daqueles corpos de bombeiros, para emissão de pareceres e realização de vistorias e inspecções na área do respectivo município.\n\n3 - A ANPC, mediante protocolos de cooperação celebrados com Associações Humanitárias de Bombeiros, pode, ainda, credenciar elementos dos corpos de bombeiros voluntários ou mistos, para a realização, na respectiva área geográfica de intervenção, das seguintes acções de fiscalização:\n\na) Inspecções regulares, a realizar de três em três anos nos edifícios e recintos afectos à utilização tipo iv, «Escolares», e à utilização tipo v, «Hospitalares e lares de idosos», classificados na 1.ª categoria de risco;\n\nb) Inspecções regulares, a realizar de dois em dois anos nos edifícios e recintos classificados na 2.ª categoria de risco.\n\n4 - As credenciações atribuídas ao abrigo do disposto no n.º 1 do presente artigo devem indicar a área geográfica autorizada para o exercício da actividade de SCIE pela entidade credenciada, a qual deverá corresponder, no mínimo, a um distrito e, no máximo, a uma nomenclatura de unidade territorial para fim estatístico de nível ii (NUT II), nos termos da delimitação prevista no anexo i do Decreto-Lei n.º 244/2002, de 5 de Novembro.\n\n5 - O número máximo de entidades a credenciar, bem como a sua distribuição geográfica, é fixado por despacho do presidente da ANPC, atento o quantitativo e complexidade de pareceres, vistorias e inspecções previstos."
+  },
+  "115466215": {
+   "fragment_id": "115475730",
+   "type": 11,
+   "heading": "Artigo 4.º — Pré-requisitos para credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pré-requisitos para credenciação\n\n1 - Os técnicos a credenciar nos termos da alínea a) do n.º 1 do artigo anterior devem cumprir os seguintes pré-requisitos:\n\na) Ter exercido funções na área SCIE, em regime de contrato de tarefa ou avença com a ANPC, no mínimo durante dois anos, contados até à data de apresentação do requerimento para credenciação;\n\nb) Possuir seguro de responsabilidade civil que cubra danos decorrentes da actividade profissional no montante mínimo de (euro) 250 000.\n\n2 - Os técnicos a credenciar nos termos da alínea b) do n.º 1 do artigo anterior devem cumprir os seguintes pré-requisitos:\n\na) Estar habilitado com o curso de arquitecto, reconhecido pela OA, de engenheiro, reconhecido pela OE ou com o curso de engenheiro técnico, reconhecido pela ANET;\n\nb) Possuir formação específica em SCIE com uma carga horária mínima de setenta horas, com conteúdo programático e formadores aprovados pela ANPC;\n\nc) Possuir experiência profissional na área de SCIE, por um período superior a cinco anos;\n\nd) Possuir seguro de responsabilidade civil que cubra danos decorrentes da actividade profissional no montante mínimo de (euro) 250 000.\n\n3 - Os técnicos municipais a credenciar nos termos do n.º 2 do artigo anterior devem cumprir os seguintes pré-requisitos:\n\na) Estar habilitado com o curso de arquitecto, reconhecido pela OA, de engenheiro, reconhecido pela OE ou com o curso de engenheiro técnico, reconhecido pela ANET;\n\nb) Possuir formação específica em SCIE com uma carga horária mínima de setenta horas, com conteúdo programático e formadores aprovados pela ANPC;\n\nc) Possuir experiência profissional na área de SCIE, por um período superior a três anos.\n\n4 - Os elementos dos corpos dos bombeiros a credenciar nos termos do n.º 3 do artigo anterior devem cumprir os seguintes pré-requisitos:\n\na) Possuir formação específica em SCIE com uma carga horária mínima de setenta horas, com conteúdo programático e formadores aprovados pela ANPC;\n\nb) Possuir, no mínimo:\n\n1) Na carreira de oficial bombeiro, a categoria de oficial bombeiro de 2.ª;\n\n2) Na carreira de bombeiro, a categoria de bombeiro de 1.ª;\n\nc) Ter no mínimo o 12.º ano de escolaridade."
+  },
+  "115466216": {
+   "fragment_id": "115475731",
+   "type": 11,
+   "heading": "Artigo 5.º — Documentos que instruem o processo de credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Documentos que instruem o processo de credenciação\n\nO processo de credenciação deve incluir, no mínimo, os seguintes documentos:\n\na) Para candidatos, ao abrigo da alínea a) do n.º 1 do artigo 3.º da presente portaria:\n\n1) Requerimento dirigido à ANPC, elaborado de acordo com o modelo aprovado por despacho do presidente da ANPC;\n\n2) Curriculum vitae detalhado explicitando, em particular, as actividades desenvolvidas no âmbito da prática profissional e ou académica na área SCIE;\n\n3) Cópia da apólice de seguro de responsabilidade civil;\n\n4) Declaração, sob compromisso de honra, elaborada de acordo com o modelo aprovado por despacho do presidente da ANPC, de que não se encontra em nenhuma situação de incompatibilidade prevista na presente portaria;\n\n5) Declaração, sob compromisso de honra, de que se compromete a guardar segredo profissional, elaborada de acordo com o modelo aprovado por despacho do presidente da ANPC;\n\nb) Para candidatos ao abrigo da alínea b) do n.º 1 do artigo 3.º da presente portaria:\n\n1) Requerimento dirigido à ANPC, elaborado de acordo com o modelo aprovado por despacho do presidente da ANPC;\n\n2) Documento comprovativo das habilitações literárias;\n\n3) Documento comprovativo do reconhecimento pelas respectivas ordens ou associações profissionais;\n\n4) Documento comprovativo da formação específica em SCIE;\n\n5) Curriculum vitae detalhado explicitando, em particular, as actividades desenvolvidas no âmbito da prática profissional e ou académica na área SCIE;\n\n6) Cópia da apólice de seguro de responsabilidade civil;\n\n7) Declaração, sob compromisso de honra, elaborada de acordo com o modelo aprovado por despacho do presidente da ANPC, de que não se encontra em nenhuma situação de incompatibilidade constante dos estatutos das respectivas ordens e associações profissionais, bem como das previstas na presente portaria;\n\n8) Declaração, sob compromisso de honra, de que se compromete a guardar segredo profissional, elaborada de acordo com o modelo aprovado por despacho do presidente da ANPC;\n\nc) Para os técnicos municipais, ao abrigo do previsto no n.º 2 do artigo 3.º da presente portaria:\n\n1) Proposta de credenciação, subscrita pelo comandante do corpo de bombeiros e aprovada pelo presidente da câmara municipal, dirigida ao presidente da ANPC, demonstrando o cabal cumprimento dos pré-requisitos estabelecidos no n.º 3 do artigo 4.º da presente portaria;\n\n2) Documento comprovativo do reconhecimento pelas respectivas ordens ou associações profissionais;\n\n3) Curriculum vitae detalhado explicitando, em particular, as actividades desenvolvidas no âmbito da prática profissional e ou académica na área SCIE.\n\nd) Para os elementos dos corpos de bombeiros, ao abrigo do previsto no n.º 3 do artigo 3.º da presente portaria:\n\n1) Proposta de credenciação, subscrita pelo comandante do corpo de bombeiros e aprovada pelo órgão de administração da Associação Humanitária de Bombeiros, dirigida ao presidente da ANPC, demonstrando o cabal cumprimento dos pré-requisitos estabelecidos no n.º 4 do artigo 4.º da presente portaria;\n\n2) Curriculum vitae detalhado explicitando, em particular, as actividades desenvolvidas no âmbito da prática profissional e ou académica na área SCIE."
+  },
+  "115466217": {
+   "fragment_id": "115475732",
+   "type": 11,
+   "heading": "Artigo 6.º — Prova e validade da credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prova e validade da credenciação\n\n1 - A prova de credenciação das entidades credenciadas é efectuada através de cartão emitido pela ANPC, de acordo com modelo aprovado por despacho do presidente da ANPC.\n\n2 - A prova de credenciação emitida nos termos do número anterior é válida por três anos, estando a sua revalidação, por igual período, sujeita a solicitação nesse sentido, com apresentação dos documentos de prova da manutenção dos pré-requisitos de credenciação estabelecidos na presente portaria."
+  },
+  "115466218": {
+   "fragment_id": "115475733",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prazos\n\nAs entidades credenciadas estão obrigadas a:\n\na) Emitir pareceres e elaborar relatórios de vistoria, bem como efectuar os respectivos registos no sistema informático da ANPC, no prazo de 20 dias após a respectiva apreciação ou verificação;\n\nb) Elaborar relatórios de inspecção, bem como efectuar os respectivos registos no sistema informático da ANPC, no prazo de cinco dias após a realização da fiscalização;\n\nc) A enviar os documentos mencionados nas alíneas anteriores à ANPC, para efeitos de homologação, no prazo de cinco dias após a sua conclusão."
+  },
+  "115466219": {
+   "fragment_id": "115475734",
+   "type": 11,
+   "heading": "Artigo 8.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Poderes de autoridade\n\nAs entidades credenciadas são detentoras dos decorrentes poderes de autoridade e, no exercício dessas funções, gozam das prorrogativas constantes das alíneas a), b) e e) do n.º 1 do artigo 7.º do Decreto-Lei n.º 75/2007, de 29 de Março, e do n.º 2 do artigo 24.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, designadamente:\n\na) Aceder e inspeccionar, sem necessidade de aviso prévio, as instalações, equipamentos e serviços das entidades sujeitas a inspecção no âmbito do SCIE;\n\nb) Requisitar para análise equipamentos e documentos;\n\nc) Solicitar a colaboração das autoridades administrativas e policiais para impor o cumprimento de normas e determinações de SCIE que por razões de segurança devam ter execução imediata."
+  },
+  "115466220": {
+   "fragment_id": "115475735",
+   "type": 11,
+   "heading": "Artigo 9.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Deveres\n\nAs entidades credenciadas, para além das regras deontológicas especialmente reguladas pelas respectivas ordens ou associações profissionais, estão obrigadas a:\n\na) Exercer a sua actividade de acordo com princípios de interesse público, de isenção e de competência;\n\nb) Prestar os seus serviços com diligência e pontualidade;\n\nc) Acatar as recomendações e instruções da ANPC;\n\nd) Adoptar os regulamentos de pareceres, vistorias e inspecções aprovados pela ANPC;\n\ne) Possuir um arquivo organizado e actualizado dos actos realizados em representação da ANPC, o qual deverá ser enviado a esta com uma periodicidade bimensal;\n\nf) Na realização de actos para os quais estão credenciados, fazer-se acompanhar do cartão de credenciação previsto no artigo 6.º da presente portaria."
+  },
+  "115466221": {
+   "fragment_id": "115475736",
+   "type": 11,
+   "heading": "Artigo 10.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Incompatibilidades\n\nSem prejuízo das incompatibilidades previstas no artigo 31.º do Decreto-Lei n.º 220/2008, de 12 de Novembro, e nos estatutos das ordens e associações profissionais respectivas, a actividade de SCIE das entidades credenciadas é incompatível com:\n\na) O exercício de actividade remunerada por conta de outrem, com excepção das entidades credenciadas ao abrigo do disposto nos n.os 2 e 3 do artigo 3.º da presente portaria;\n\nb) Ser sócio, gerente ou administrador de qualquer sociedade que tenha como objecto a prestação de quaisquer serviços de SCIE."
+  },
+  "115466222": {
+   "fragment_id": "115475737",
+   "type": 11,
+   "heading": "Artigo 11.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Impedimentos\n\n1 - As entidades credenciadas estão impedidas de:\n\na) Realizar vistorias de SCIE a edificações, cujo projecto ou medidas tenham merecido parecer seu;\n\nb) Realizar inspecções de SCIE a edificações, por si vistoriadas.\n\n2 - São ainda casos de impedimento emitir pareceres ou realizar vistorias e inspecções sobre determinado processo, quando:\n\na) Nele tenha interesse, por si, como representante ou como gestor de negócios;\n\nb) Por si ou como representante de outra pessoa, nele tenha interesse o seu cônjuge, algum parente ou afim em linha recta ou até ao 2.º grau da linha colateral, bem como qualquer outra pessoa que com ele viva em economia comum ou união de facto."
+  },
+  "115466223": {
+   "fragment_id": "115475738",
+   "type": 11,
+   "heading": "Artigo 12.º — Segredo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Segredo profissional\n\nAs entidades credenciadas estão sujeitas a segredo profissional, no âmbito do exercício da actividade de SCIE, nomeadamente:\n\na) No que respeita a todos os factos e documentos cujo conhecimento lhe advenha, em matéria de emissão de pareceres e realização de vistorias e inspecções;\n\nb) Relativamente a documentos com classificação de segurança, reservado ou superior."
+  },
+  "115466224": {
+   "fragment_id": "115475739",
+   "type": 11,
+   "heading": "Artigo 13.º — Suspensão de credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Suspensão de credenciação\n\nSempre que se verifique que as entidades credenciadas deixam de reunir os requisitos exigidos para a credenciação, e ou não cumprem as normas decorrentes daquela, pode, a qualquer momento, o presidente da ANPC suspender ou determinar a cassação das respectivas credenciações, até que se verifique a resolução das causas que a motivaram."
+  },
+  "115466225": {
+   "fragment_id": "115475740",
+   "type": 11,
+   "heading": "Artigo 14.º — Pagamento de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pagamento de serviços\n\nOs serviços prestados, pelas entidades credenciadas nos termos da presente portaria, com a emissão de pareceres e a realização de vistorias e inspecções, bem como com os correspondentes registos no sistema informático da ANPC, constituem encargo da ANPC, no montante de 60 % do valor das correspondentes taxas, a liquidar nos seguintes termos:\n\na) Às entidades credenciadas, nas situações previstas no n.º 1 do artigo 3.º da presente portaria;\n\nb) À Câmara Municipal respectiva, na situação prevista no n.º 2 do artigo 3.º da presente portaria;\n\nc) À associação humanitária de bombeiros respectiva, na situação prevista no n.º 3 do artigo 3.º da presente portaria."
+  },
+  "115466226": {
+   "fragment_id": "115475741",
+   "type": 11,
+   "heading": "Artigo 15.º — Inspecções às entidades credenciadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Inspecções às entidades credenciadas\n\nA ANPC realiza, no âmbito das suas competências, de forma aleatória e sistemática, inspecções às entidades credenciadas, com o fim de verificar do cumprimento dos requisitos e normas decorrentes da credenciação."
+  },
+  "115466232": {
+   "fragment_id": "115475729",
+   "type": 11,
+   "heading": "Artigo 3.º — Credenciação",
+   "in_force_from": "2011-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+   ],
+   "markdown": "###### Artigo 3.º — Credenciação\n\n1 - A Autoridade Nacional de Protecção Civil (ANPC) pode credenciar, para a emissão de pareceres e realização de vistorias e inspecções, as seguintes entidades:\n\na) Pessoas singulares, com qualificação técnica reconhecida pela ANPC;\n\nb) Pessoas singulares, com qualificação técnica reconhecida pela Ordem dos Arquitectos (OA), pela Ordem dos Engenheiros (OE) ou pela Associação Nacional de Engenheiros Técnicos (ANET).\n\n2 - A ANPC, mediante protocolos de cooperação celebrados com os municípios que possuam corpos de bombeiros profissionais ou mistos, pode credenciar:\n\na) Técnicos municipais afectos aos gabinetes técnicos daqueles corpos de bombeiros para a emissão de pareceres, realização de vistorias e inspecções na área do respectivo município;\n\nb) Elementos daqueles corpos de bombeiros para a realização, na respectiva área geográfica de intervenção, das seguintes acções de fiscalização:\n\ni) Inspecções regulares, a realizar de três em três anos nos edifícios e recintos afectos à utilização tipo iv, «Escolares», e à utilização tipo v, «Hospitalares e lares de idosos», classificados na 1.ª categoria de risco;\n\nii) Inspecções regulares, a realizar de dois em dois anos nos edifícios e recintos classificados na 2.ª categoria de risco.\n\n3 - A ANPC, mediante protocolos de cooperação celebrados com Associações Humanitárias de Bombeiros, pode, ainda, credenciar elementos dos corpos de bombeiros voluntários ou mistos, para a realização, na respectiva área geográfica de intervenção, das seguintes acções de fiscalização:\n\na) Inspecções regulares, a realizar de três em três anos nos edifícios e recintos afectos à utilização tipo iv, «Escolares», e à utilização tipo v, «Hospitalares e lares de idosos», classificados na 1.ª categoria de risco;\n\nb) Inspecções regulares, a realizar de dois em dois anos nos edifícios e recintos classificados na 2.ª categoria de risco.\n\n4 - As credenciações atribuídas ao abrigo do disposto no n.º 1 do presente artigo devem indicar a área geográfica autorizada para o exercício da actividade de SCIE pela entidade credenciada, a qual deverá corresponder, no mínimo, a um distrito e, no máximo, a uma nomenclatura de unidade territorial para fim estatístico de nível ii (NUT II), nos termos da delimitação prevista no anexo i do Decreto-Lei n.º 244/2002, de 5 de Novembro.\n\n5 - O número máximo de entidades a credenciar, bem como a sua distribuição geográfica, é fixado por despacho do presidente da ANPC, atento o quantitativo e complexidade de pareceres, vistorias e inspecções previstos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+  },
+  "115466233": {
+   "fragment_id": "115475730",
+   "type": 11,
+   "heading": "Artigo 4.º — Pré-requisitos para credenciação",
+   "in_force_from": "2011-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+   ],
+   "markdown": "###### Artigo 4.º — Pré-requisitos para credenciação\n\n1 - Os técnicos a credenciar nos termos da alínea a) do n.º 1 do artigo anterior devem cumprir os seguintes pré-requisitos:\n\na) Ter exercido funções na área SCIE, em regime de contrato de tarefa ou avença com a ANPC, no mínimo durante dois anos, contados até à data de apresentação do requerimento para credenciação;\n\nb) Possuir seguro de responsabilidade civil que cubra danos decorrentes da actividade profissional no montante mínimo de (euro) 250 000.\n\n2 - Os técnicos a credenciar nos termos da alínea b) do n.º 1 do artigo anterior devem cumprir os seguintes pré-requisitos:\n\na) Estar habilitado com o curso de arquitecto, reconhecido pela OA, de engenheiro, reconhecido pela OE ou com o curso de engenheiro técnico, reconhecido pela ANET;\n\nb) Possuir formação específica em SCIE com uma carga horária mínima de setenta horas, com conteúdo programático e formadores aprovados pela ANPC;\n\nc) Possuir experiência profissional na área de SCIE, por um período superior a cinco anos;\n\nd) Possuir seguro de responsabilidade civil que cubra danos decorrentes da actividade profissional no montante mínimo de (euro) 250 000.\n\n3 - Os técnicos municipais a credenciar nos termos da alínea a) do n.º 2 do artigo anterior devem cumprir os seguintes pré-requisitos:\n\na) Estar habilitado com o curso de arquitecto, reconhecido pela OA, de engenheiro, reconhecido pela OE ou com o curso de engenheiro técnico, reconhecido pela ANET;\n\nb) Possuir formação específica em SCIE com uma carga horária mínima de setenta horas, com conteúdo programático e formadores aprovados pela ANPC;\n\nc) Possuir experiência profissional na área de SCIE, por um período superior a três anos.\n\n4 - Os elementos dos corpos de bombeiros a credenciar nos termos da alínea b) do n.º 2 e do n.º 3 do artigo anterior devem cumprir os seguintes pré-requisitos:\n\na) Possuir formação específica em SCIE com uma carga horária mínima de setenta horas, com conteúdo programático e formadores aprovados pela ANPC;\n\nb) Possuir, no mínimo:\n\ni) Elementos dos corpos de bombeiros profissionais ou mistos:\n\n1) No quadro de comando dos bombeiros municipais e profissionais, o cargo de adjunto técnico;\n\n2) Na carreira de bombeiro municipal, a categoria de bombeiro de 1.ª classe e na carreira de bombeiro sapador a categoria de subchefe de 1.ª classe.\n\nii) Elementos dos corpos de voluntários:\n\n1) No quadro de comando, o cargo de adjunto de comando, e ter concluído toda a formação exigida para o ingresso neste quadro;\n\n2) Na carreira de oficial bombeiro, a categoria de oficial bombeiro de 2.ª;\n\n3) Na carreira de bombeiro, a categoria de bombeiro de 1.ª;\n\nc) Ter no mínimo o 12.º ano de escolaridade.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+  },
+  "115466234": {
+   "fragment_id": "115475731",
+   "type": 11,
+   "heading": "Artigo 5.º — Documentos que instruem o processo de credenciação",
+   "in_force_from": "2011-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+   ],
+   "markdown": "###### Artigo 5.º — Documentos que instruem o processo de credenciação\n\nO processo de credenciação deve incluir, no mínimo, os seguintes documentos:\n\na) Para candidatos, ao abrigo da alínea a) do n.º 1 do artigo 3.º da presente portaria:\n\n1) Requerimento dirigido à ANPC, elaborado de acordo com o modelo aprovado por despacho do presidente da ANPC;\n\n2) Curriculum vitae detalhado explicitando, em particular, as actividades desenvolvidas no âmbito da prática profissional e ou académica na área SCIE;\n\n3) Cópia da apólice de seguro de responsabilidade civil;\n\n4) Declaração, sob compromisso de honra, elaborada de acordo com o modelo aprovado por despacho do presidente da ANPC, de que não se encontra em nenhuma situação de incompatibilidade prevista na presente portaria;\n\n5) Declaração, sob compromisso de honra, de que se compromete a guardar segredo profissional, elaborada de acordo com o modelo aprovado por despacho do presidente da ANPC;\n\nb) Para candidatos ao abrigo da alínea b) do n.º 1 do artigo 3.º da presente portaria:\n\n1) Requerimento dirigido à ANPC, elaborado de acordo com o modelo aprovado por despacho do presidente da ANPC;\n\n2) Documento comprovativo das habilitações literárias;\n\n3) Documento comprovativo do reconhecimento pelas respectivas ordens ou associações profissionais;\n\n4) Documento comprovativo da formação específica em SCIE;\n\n5) Curriculum vitae detalhado explicitando, em particular, as actividades desenvolvidas no âmbito da prática profissional e ou académica na área SCIE;\n\n6) Cópia da apólice de seguro de responsabilidade civil;\n\n7) Declaração, sob compromisso de honra, elaborada de acordo com o modelo aprovado por despacho do presidente da ANPC, de que não se encontra em nenhuma situação de incompatibilidade constante dos estatutos das respectivas ordens e associações profissionais, bem como das previstas na presente portaria;\n\n8) Declaração, sob compromisso de honra, de que se compromete a guardar segredo profissional, elaborada de acordo com o modelo aprovado por despacho do presidente da ANPC;\n\nc) Para os técnicos municipais, ao abrigo do previsto na alínea a) do n.º 2 do artigo 3.º da presente portaria:\n\n1) Proposta de credenciação, subscrita pelo comandante do corpo de bombeiros e aprovada pelo presidente da câmara municipal, dirigida ao presidente da ANPC, demonstrando o cabal cumprimento dos pré-requisitos estabelecidos no n.º 3 do artigo 4.º da presente portaria;\n\n2) Documento comprovativo do reconhecimento pelas respectivas ordens ou associações profissionais;\n\n3) Curriculum vitae detalhado explicitando, em particular, as actividades desenvolvidas no âmbito da prática profissional e ou académica na área SCIE.\n\nd) Para os elementos dos corpos de bombeiros, ao abrigo do previsto na alínea b) do n.º 2 do artigo 3.º da presente portaria:\n\n1) Proposta de credenciação, subscrita pelo comandante do corpo de bombeiros e aprovada pelo presidente da câmara municipal, dirigida ao presidente da ANPC, demonstrando o cabal cumprimento dos pré-requisitos estabelecidos na alínea a) e na subalínea i) da alínea b) do n.º 4 do artigo 4.º da presente portaria;\n\n2) Curriculum vitae detalhado explicitando, em particular, as actividades desenvolvidas no âmbito da prática profissional e ou académica na área de SCIE;\n\ne) Para os elementos dos corpos de bombeiros, ao abrigo do previsto no n.º 3 do artigo 3.º da presente portaria:\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+  },
+  "115466227": {
+   "fragment_id": "115475742",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Administração Interna, Rui Carlos Pereira, em 12 de Janeiro de 2009."
+  },
+  "129575096": {
+   "fragment_id": "115475732",
+   "type": 11,
+   "heading": "Artigo 6.º — Prova e validade da credenciação",
+   "in_force_from": "2020-03-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 54/2020 - Diário da República n.º 44/2020, Série I de 2020-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/54-2020-129793720), em vigor a partir de 2020-03-04"
+   ],
+   "markdown": "###### Artigo 6.º — Prova e validade da credenciação\n\n1 - A prova de credenciação das entidades credenciadas é efectuada através de cartão emitido pela ANPC, de acordo com modelo aprovado por despacho do presidente da ANPC.\n\n2 - A prova de credenciação emitida nos termos do número anterior é válida por três anos, estando a sua revalidação, por igual período, sujeita a solicitação nesse sentido, com apresentação dos documentos de prova da manutenção dos pré-requisitos de credenciação estabelecidos na presente portaria.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 54/2020 - Diário da República n.º 44/2020, Série I de 2020-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/54-2020-129793720), em vigor a partir de 2020-03-04"
+  },
+  "136236079": {
+   "fragment_id": "115475727",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece o regime de credenciação de entidades para a emissão de pareceres e para a realização de vistorias e de inspeções das condições de segurança contra incêndio em edifícios (SCIE).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+  },
+  "136236080": {
+   "fragment_id": "115475728",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente portaria entende-se por:\n\na) 'Parecer', a apreciação da conformidade e adequação das condições e requisitos:\n\n1) Das medidas de autoproteção, previstas no artigo 21.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual;\n\n2) [Revogada.]\n\n3) Dos projetos de especialidade de SCIE, previstos nos artigos 14.º, 14.º-A e 17.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual;\n\n4) [Revogada.]\n\nb) 'Vistoria', a verificação do cumprimento das condições de SCIE e dos respetivos projetos e fichas de segurança, com vista à emissão de autorização de utilização ou funcionamento, nos termos previstos nos n.os 2 e 3 do artigo 18.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual;\n\nc) 'Inspeção', o ato de verificação da manutenção das condições de SCIE aprovadas ou licenciadas e da implementação das medidas de autoproteção, nos termos previstos no n.º 4 do artigo 19.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual.\n\nd) [Revogada.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+  },
+  "136236081": {
+   "fragment_id": "115475729",
+   "type": 11,
+   "heading": "Artigo 3.º — Credenciação",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+   ],
+   "markdown": "###### Artigo 3.º — Credenciação\n\n1 - [Revogado.]\n\n2 - A Autoridade Nacional de Emergência e Proteção Civil (ANEPC), mediante protocolos de cooperação celebrados com os municípios, pode credenciar:\n\na) Técnicos municipais, para a emissão de pareceres e para a realização de vistorias e inspeções na área do respetivo município, para os edifícios e recintos classificados nas 2.ª, 3.ª e 4.ª categorias de risco;\n\nb) Elementos dos corpos de bombeiros profissionais ou mistos detidos pelos municípios, para a realização, na respetiva área geográfica de intervenção, de inspeções regulares, a realizar em edifícios e recintos classificados na 2.ª categoria de risco.\n\n3 - A ANEPC, mediante protocolos de cooperação celebrados com associações humanitárias de bombeiros, pode credenciar elementos dos corpos de bombeiros voluntários ou mistos, para a realização, na respetiva área geográfica de intervenção, de inspeções regulares, a realizar em edifícios e recintos classificados na 2.ª categoria de risco.\n\n4 - [Revogado.]\n\n5 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+  },
+  "136236082": {
+   "fragment_id": "115475730",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos para a credenciação",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos para a credenciação\n\n1 - [Revogado.]\n\n2 - [Revogado.]\n\n3 - Os técnicos municipais, a credenciar nos termos da alínea a) do n.º 2 do artigo anterior, devem cumprir os seguintes requisitos:\n\na) Ser titular de formação habilitante nos domínios da arquitetura, engenharia ou engenharia técnica, reconhecida em Portugal, e estar inscrito na respetiva ordem profissional;\n\nb) Possuir formação específica em SCIE, de acordo com os requisitos a estabelecer pela ANEPC.\n\nc) [Revogada.]\n\n4 - Os elementos dos corpos de bombeiros, a credenciar nos termos da alínea b) do n.º 2 e do n.º 3 do artigo anterior, devem cumprir os seguintes requisitos:\n\na) Possuir formação específica em SCIE, de acordo com os requisitos a estabelecer pela ANEPC;\n\nb) Possuir, no mínimo:\n\ni) Elementos dos corpos de bombeiros profissionais ou mistos detidos por municípios:\n\n1) No quadro de comando dos corpos de bombeiros profissionais e municipais, o cargo de adjunto técnico;\n\n2) Nas carreiras de bombeiro municipal e de bombeiro sapador, a categoria de subchefe de 1.ª classe;\n\nii) Elementos de corpos de bombeiros voluntários ou mistos detidos por associações humanitárias de bombeiros:\n\n1) No quadro de comando, o cargo de adjunto de comando, e ter concluído toda a formação exigida para o ingresso neste quadro;\n\n2) Na carreira de oficial bombeiro, a categoria de oficial bombeiro de 2.ª;\n\n3) Na carreira de bombeiro, a categoria de bombeiro de 1.ª;\n\nc) Ter no mínimo o 12.º ano de escolaridade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+  },
+  "136236091": {
+   "fragment_id": "115475731",
+   "type": 11,
+   "heading": "Artigo 5.º — Documentos que instruem o processo de credenciação",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+   ],
+   "markdown": "###### Artigo 5.º — Documentos que instruem o processo de credenciação\n\nO processo de credenciação deve incluir, no mínimo, os seguintes documentos:\n\na) [Revogada.]\n\nb) [Revogada.]\n\nc) Para os técnicos municipais, a credenciar nos termos da alínea a) do n.º 2 do artigo 3.º:\n\n1) Proposta de credenciação, subscrita pelo presidente da câmara municipal, dirigida ao presidente da ANEPC, demonstrando o cumprimento dos requisitos estabelecidos no n.º 3 do artigo anterior;\n\n2) Documento comprovativo de inscrição na respetiva ordem profissional;\n\n3) Documento comprovativo da formação específica em SCIE;\n\n4) Nota curricular detalhada, explicitando, caso existam, as atividades desenvolvidas no âmbito da prática profissional ou académica na área de SCIE;\n\nd) Para os elementos dos corpos de bombeiros, a credenciar nos termos da alínea b) do n.º 2 do artigo 3.º:\n\n1) Proposta de credenciação, subscrita pelo comandante do corpo de bombeiros e aprovada pelo presidente da câmara municipal, dirigida ao presidente da ANEPC, demonstrando o cumprimento dos requisitos estabelecidos na alínea a), na subalínea i) da alínea b) e na alínea c) do n.º 4 do artigo anterior;\n\n2) Certificado de habilitações;\n\n3) Documento comprovativo da formação específica em SCIE;\n\n4) Nota curricular detalhada, explicitando, caso existam, as atividades desenvolvidas no âmbito da prática profissional ou académica na área de SCIE;\n\ne) Para os elementos dos corpos de bombeiros, a credenciar nos termos do n.º 3 do artigo 3.º:\n\n1) Proposta de credenciação, subscrita pelo comandante do corpo de bombeiros e aprovada pelo órgão de administração da associação humanitária de bombeiros, dirigida ao presidente da ANEPC, demonstrando o cumprimento dos requisitos estabelecidos na alínea a), na subalínea ii) da alínea b) e na alínea c) do n.º 4 do artigo anterior;\n\n2) Certificado de habilitações;\n\n3) Documento comprovativo da formação específica em SCIE;\n\n4) Nota curricular detalhada, explicitando, caso existam, as atividades desenvolvidas no âmbito da prática profissional ou académica na área de SCIE.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 136/2011 - Diário da República n.º 67/2011, Série I de 2011-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/136-2011-278065), em vigor a partir de 2011-04-06"
+  },
+  "136236083": {
+   "fragment_id": "115475733",
+   "type": 11,
+   "heading": "Artigo 7.º — Procedimentos",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+   ],
+   "markdown": "###### Artigo 7.º — Procedimentos\n\nAs entidades credenciadas devem emitir os pareceres e elaborar os relatórios de vistoria e de inspeção regular, bem como efetuar os respetivos registos no sistema informático da ANEPC, para homologação, de acordo com o estabelecido nas orientações da ANEPC constantes no manual de procedimentos relativos aos serviços de SCIE publicitado no sítio da ANEPC na Internet.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+  },
+  "136236084": {
+   "fragment_id": "115475734",
+   "type": 11,
+   "heading": "Artigo 8.º — Poderes de autoridade",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+   ],
+   "markdown": "###### Artigo 8.º — Poderes de autoridade\n\nAs entidades credenciadas são detentoras dos decorrentes poderes de autoridade e, no exercício dessas funções, gozam das prerrogativas constantes das alíneas a), b) e e) do n.º 1 do artigo 9.º do Decreto-Lei n.º 45/2019, de 1 de abril, e do n.º 2 do artigo 24.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual, designadamente:\n\na) Aceder e inspeccionar, sem necessidade de aviso prévio, as instalações, equipamentos e serviços das entidades sujeitas a inspecção no âmbito do SCIE;\n\nb) Requisitar para análise equipamentos e documentos;\n\nc) Solicitar a colaboração das autoridades administrativas e policiais para impor o cumprimento de normas e determinações de SCIE que por razões de segurança devam ter execução imediata.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+  },
+  "136236085": {
+   "fragment_id": "115475735",
+   "type": 11,
+   "heading": "Artigo 9.º — Deveres",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+   ],
+   "markdown": "###### Artigo 9.º — Deveres\n\nAs entidades credenciadas, para além das regras deontológicas especialmente reguladas pelas respetivas ordens profissionais, estão obrigadas a:\n\na) Exercer a sua actividade de acordo com princípios de interesse público, de isenção e de competência;\n\nb) Prestar os seus serviços com diligência e pontualidade;\n\nc) Acatar as recomendações e as instruções da ANEPC;\n\nd) Cumprir o manual de procedimentos relativos aos serviços de SCIE da ANEPC;\n\ne) [Revogada.]\n\nf) Na realização de atos para os quais estão credenciados, fazer-se acompanhar do cartão de identificação profissional e de livre-trânsito, de modelo previsto na Portaria n.º 54/2020, de 3 de março.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+  },
+  "136236086": {
+   "fragment_id": "115475736",
+   "type": 11,
+   "heading": "Artigo 10.º — Incompatibilidades",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+   ],
+   "markdown": "###### Artigo 10.º — Incompatibilidades\n\nSem prejuízo das incompatibilidades previstas no artigo 31.º do Decreto-Lei n.º 220/2008, de 12 de novembro, na sua redação atual, e nos estatutos das respetivas ordens profissionais, a atividade de SCIE das entidades credenciadas é incompatível com:\n\na) [Revogada.]\n\nb) Ser sócio, gerente ou administrador de qualquer sociedade que tenha como objecto a prestação de quaisquer serviços de SCIE.\n\nc) O exercício da função de técnico responsável, ao abrigo do artigo 6.º da Portaria n.º 773/2009, de 21 de julho, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+  },
+  "136236087": {
+   "fragment_id": "115475737",
+   "type": 11,
+   "heading": "Artigo 11.º — Impedimentos",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+   ],
+   "markdown": "###### Artigo 11.º — Impedimentos\n\n1 - As entidades credenciadas estão impedidas de realizar:\n\na) Vistorias de SCIE a edificações cujo projeto ou medidas tenham sido objeto de parecer seu;\n\nb) A primeira inspeção regular de SCIE a edifícios ou recintos por si vistoriadas ou que não tenham sido objeto de vistoria no âmbito da SCIE mas cujo projeto ou medidas de autoproteção tenham sido objeto de parecer seu;\n\nc) Duas inspeções regulares consecutivas ao mesmo edifício ou recinto.\n\n2 - As entidades credenciadas estão, ainda, impedidas de emitir pareceres ou realizar vistorias e inspeções relativas a determinado processo quando:\n\na) Nele tenha interesse, por si, como representante ou como gestor de negócios;\n\nb) Por si ou como representante de outra pessoa, nele tenha interesse o seu cônjuge, algum parente ou afim em linha recta ou até ao 2.º grau da linha colateral, bem como qualquer outra pessoa que com ele viva em economia comum ou união de facto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+  },
+  "136236088": {
+   "fragment_id": "115475739",
+   "type": 11,
+   "heading": "Artigo 13.º — Suspensão de credenciação",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+   ],
+   "markdown": "###### Artigo 13.º — Suspensão de credenciação\n\nO presidente da ANEPC suspende a credenciação e determina a sua cassação quando verifique que as entidades credenciadas deixam de reunir os requisitos exigidos para a credenciação ou não cumprem as normas decorrentes daquela, até que se verifique a resolução das causas que a motivaram.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+  },
+  "136236089": {
+   "fragment_id": "115475740",
+   "type": 11,
+   "heading": "Artigo 14.º — Pagamento de serviços",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+   ],
+   "markdown": "###### Artigo 14.º — Pagamento de serviços\n\nOs serviços prestados, nos termos da presente portaria, pelas entidades credenciadas são remunerados no montante correspondente a 60 % do valor das respetivas taxas, sendo pagos pela ANEPC:\n\na) [Revogada.]\n\nb) À câmara municipal respetiva, quando prestados por entidades credenciadas nos termos do n.º 2 do artigo 3.º;\n\nc) À associação humanitária de bombeiros respetiva, quando prestados por entidades credenciadas nos termos do n.º 3 do artigo 3.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+  },
+  "136236090": {
+   "fragment_id": "115475741",
+   "type": 11,
+   "heading": "Artigo 15.º — Auditorias às entidades credenciadas",
+   "in_force_from": "2020-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+   ],
+   "markdown": "###### Artigo 15.º — Auditorias às entidades credenciadas\n\nA ANEPC realiza, no âmbito das suas competências, de forma aleatória e sistemática, auditorias às entidades credenciadas, com o fim de verificar o cumprimento dos requisitos e normas decorrentes da credenciação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 148/2020 - Diário da República n.º 118/2020, Série I de 2020-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/148-2020-136168879), em vigor a partir de 2020-07-19"
+  }
+ }
+}

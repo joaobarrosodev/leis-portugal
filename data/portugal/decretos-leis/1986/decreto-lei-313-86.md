@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:221554:por
+title: Decreto-Lei n.º 313/86
+short_title: null
+summary: Extingue a Casa do Douro, criada pelo Decreto-Lei n.º 486/82, de 28 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 313/86
+official_date: null
+publication_date: '1986-09-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 220/1986, Série I de 1986-09-24
+  number: '220'
+  series: I
+  supplement: null
+  pages: 2701 - 2702
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/09/22000/27012702.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '221554'
+  dre_path: /dr/detalhe/decreto-lei/313-1986-221554
+  internal: pt:dre:221554:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1986-221554
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1986-221554
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:14:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: c9d661dacb426d873038abd2bd060ff49c9b617a35ce9b97f121323f7aec3fb9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:14:27Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Casa do Douro
+- Extinção de Serviços
+- Instituto do Vinho do Porto
+- Integração de Trabalhadores
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: amended_by
+  target: pt:dre:662683:por
+  label: "Recusada a ratificação pela RES.6/87.1987.02.21.AR DR.IS [44]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/resolucao-assembleia-republica/6-1987-662683
+  date: '1987-02-21'
+- type: cites
+  target: pt:dre:380741:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473734:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:159993990:por
+  label: Revogado a partir de 28.03.2021 pelo(a) Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:14:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 313/86
+
+de 24 de Setembro
+
+A extinção dos organismos corporativos, tornada efectiva pelo [Decreto-Lei n.º 443/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1974-473734), de 12 de Setembro, determinou uma situação jurídica confusa para a então Federação dos Vinicultores da Região do Douro (Casa do Douro). No sentido de terminar com a referida indefinição, veio o [Decreto-Lei n.º 486/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1982-380741), de 28 de Dezembro, estipular um regime jurídico novo para a mencionada pessoa colectiva, que foi extinta, dando lugar ao aparecimento de um organismo de natureza jurídica pública sui generis, com um estatuto intermédio entre o instituto público e a associação de direito privado, e que pôde receber na sua esfera jurídica o conjunto dos direitos e obrigações da pessoa colectiva extinta e continuar a usar a denominação tradicional de Casa do Douro.
+
+A transformação operada, que sujeitou a Casa do Douro à passagem de um regime jurídico privado a um outro de natureza pública, não se efectivou sem que o próprio legislador, certamente pela delicadeza da opção tomada, não deixasse de contemplar a pretensão de se proceder à revisão do regime jurídico, o que previu no preâmbulo do citado diploma legal.
+
+Importa desde já, independentemente da reformulação do Instituto de Vinho do Porto, que pouco verá alterado nessa reformulação em relação à sua fisionomia actual, proceder a uma alteração do modelo e natureza jurídica adoptados para a Casa do Douro, baseada nos seguintes pressupostos e parâmetros:
+
+1) Reconhecimento da natureza associativa, de índole privatística, representativa dos interesses da lavoura directamente ligados ao vinho da Região e a que a Casa do Douro se encontra indissolúvel e historicamente ligada;
+
+2) Definição de um regime jurídico para uma situação que, indubitavelmente, corresponde aos mais profundos interesses e valores regionais vividos e enunciados pelos sujeitos mais directamente intervenientes;
+
+3) Escolha de um modelo organizativo, económico e relacional mais lógico e congruente não só com os propósitos e Programa do Governo, mas igualmente com a tradição portuguesa na matéria e a experiência, princípios e normas vigentes no ordenamento jurídico das Comunidades Europeias;
+
+4) A nova associação a criar beneficiará da transferência de exercício de direitos e obrigações, atribuições e competências anteriormente cometidos à Casa do Douro, com excepção dos prosseguidos e legalmente previstos para o Instituto do Vinho do Porto (IVP).
+
+A definição e implementação do novo figurino jurídico-organizativo para a designação tradicional de Casa do Douro, incluindo os valores patrimoniais, implicou, pelas circunstâncias criadas pelo [Decreto-Lei n.º 443/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/443-1974-473734), de 12 de Setembro, a escolha de uma metodologia e de um enquadramento que, constituindo porventura solução aqui e ali algo não usual na prática da Administração Pública, ainda assim se não podem configurar como escolha desconhecida do nosso ordenamento jurídico, sem bem que não devidamente sedimentada.
+
+Nestes termos, e num esforço de compatibilização entre os propósitos enunciados e as dificuldades levantadas pela realidade complexa da situação vivida, procurou-se a eficácia na opção que se espera mais adequada, capaz de exprimir e respeitar os diversos e, por vezes, algo contraditórios interesses em presença, assentes amiúde em situações juridicamente definidas e vinculantes.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º - 1 - É extinta a Casa do Douro, criada pelo [Decreto-Lei n.º 486/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1982-380741), de 28 de Dezembro.
+
+2 - A extinção somente produzirá efeitos após a criação da associação que representará os produtos de vinho da Região do Douro.
+
+3 - A criação da entidade referida no número anterior, em fase de execução, subordinar-se-á a um estatuto jurídico de natureza privada e poderá utilizar a designação tradicional da Casa de Douro, verificado o requisito de representatividade, directa ou indirecta, dos agentes económicos, aferida por critérios de volume de produção, número de associados, distribuição geográfica destes por concelhos e comprovada competência técnica dos seus dirigentes na gestão de organismos de natureza associativa, reconhecida mediante despacho do Ministro da Agricultura, Pescas e Alimentação, sem prejuízo do que se estipula no n.º 4 do artigo 4.º
+
+4 - A associação referida nos números anteriores poderá ser declarada pessoa colectiva privada de utilidade pública, observados os requisitos legais.
+
+Art. 2.º Os direitos e obrigações, incluídos os emergentes de contratos de arrendamento, bem como as atribuições e competências, activos e passivos da extinta Casa do Douro, serão transferidos para a nova associação, com excepção das atribuições e competências próprias do Instituto do Vinho do Porto.
+
+Art. 3.º - 1 - O pessoal afecto à Casa do Douro mediante vínculo definitivo transita para os quadros de pessoal do Instituto do Vinho do Porto, que, para esse estrito efeito, procederá ao alargamento do seu quadro de pessoal, sem encargos adicionais e no respeito pelas categorias e carreiras e demais direitos adquiridos, mediante a publicação de portaria contendo os novos lugares do quadro.
+
+2 - A integração do pessoal nos termos referidos no número anterior terá lugar com dispensa de quaisquer formalidades, excepto a anotação pelo Tribunal de Contas.
+
+3 - Ao pessoal da extinta Casa do Douro é aplicável, no que se refere ao seu estatuto, o regime do pessoal dos organismos de coordenação económica.
+
+Art. 4.º - 1 - O Instituto do Vinho do Porto e a associação mencionada no artigo 1.º celebrarão um acordo com duração indeterminada, respeitante à prestação de serviço do pessoal da extinta Casa do Douro, que manterá as funções que vinha exercendo, agora junto da nova entidade a criar.
+
+2 - O exercício da acção disciplinar sobre o pessoal mencionado no número anterior será assegurado pelos dirigentes do Instituto do Vinho do Porto.
+
+3 - Os encargos resultantes da aplicação do disposto nos números anteriores serão suportados pela nova associação.
+
+4 - A aceitação do disposto nos números anteriores constitui condição indispensável da autorização de uso da denominação referida no n.º 3 do artigo 1.º
+
+Visto e aprovado em Conselho de Ministros de 10 de Julho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
+
+Promulgado em 5 de Setembro de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 9 de Setembro de 1986.
+
+Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

@@ -1,0 +1,270 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:244951:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-172625694",
+ "dre_path": "/dr/detalhe/decreto-lei/298-1998-244951",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-09-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "172633382",
+    "172633383",
+    "172633384",
+    "172633385",
+    "172633386",
+    "172633387",
+    "172633388",
+    "172633389",
+    "172633390"
+   ]
+  },
+  {
+   "date": "1999-04-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:544614:por",
+     "title": "Decreto-Lei n.º 115/99",
+     "published": "1999-04-14",
+     "dre_path": "/dr/detalhe/decreto-lei/115-1999-544614"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "172633382",
+    "172633383",
+    "172633384",
+    "172633385",
+    "172633386",
+    "172633387",
+    "172633388",
+    "172633389",
+    "172633394",
+    "172633391"
+   ]
+  },
+  {
+   "date": "2008-06-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:449400:por",
+     "title": "Decreto-Lei n.º 94/2008",
+     "published": "2008-06-04",
+     "dre_path": "/dr/detalhe/decreto-lei/94-2008-449400"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "172633382",
+    "172633383",
+    "172633384",
+    "172633400",
+    "172633386",
+    "172633387",
+    "172633388",
+    "172633389",
+    "172633394",
+    "172633391"
+   ]
+  },
+  {
+   "date": "2021-11-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172604610:por",
+     "title": "Decreto-Lei n.º 81/2021",
+     "published": "2021-10-11",
+     "dre_path": "/dr/detalhe/decreto-lei/81-2021-172604610"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A"
+   ],
+   "fragments": [
+    "172633382",
+    "172633383",
+    "172633384",
+    "172633400",
+    "172633401",
+    "172633402",
+    "172633403",
+    "172633404",
+    "172633405",
+    "172633406",
+    "172633407"
+   ]
+  }
+ ],
+ "fragments": {
+  "172633382": {
+   "fragment_id": "172625695",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 298/98\n\nde 28 de Setembro\n\nO Decreto-Lei n.º 145/94, de 24 de Maio, na redacção dada pelo Decreto-Lei n.º 69/95, de 11 de Abril, criou duas linhas de crédito de curto prazo, com bonificação de juros, destinada às pessoas singulares ou colectivas que se dediquem, no continente, à agricultura, silvicultura e pecuária e à comercialização de produtos agro-alimentares.\n\nPretendeu-se através daqueles mecanismos aproximar a taxa de juro aplicada nos empréstimos aos operadores do sector agrícola e agro-industrial à vigente para os restantes sectores económicos.\n\nApesar da evolução entretanto verificada no mercado financeiro, com a acentuada descida das taxas de juro praticadas no mercado e da taxa de referência de cálculo das bonificações previstas naqueles diplomas, a agricultura constitui uma actividade económica que, devido à estrutura das explorações agrícolas, o carácter sazonal da produção, as características dos seus ciclos produtivos e a natureza dos seus produtos, se encontra em situação de desvantagem relativamente a outros sectores da economia, nomeadamente no que se refere ao acesso e condições de apoio financeiro para fazer face às suas necessidades de crédito, a curto prazo.\n\nNessa medida, justifica-se que, no quadro da orientação que vem sendo prosseguida de reforço de competitividade empresarial e como medida tendente à redução dos custos de produção, sejam concedidas às empresas destes sectores condições particulares de crédito de curto prazo, ajustadas às características das actividades que desenvolvem, de modo a colocar os operadores do sector agrícola em igualdade de circunstâncias com os dos restantes sectores económicos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "172633383": {
+   "fragment_id": "172625696",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada uma linha de crédito de curto prazo, com bonificação de juros, destinada às pessoas singulares ou colectivas que se dediquem, no continente, à agricultura, silvicultura e pecuária.\n\n2 - O crédito é concedido pelas instituições de crédito que celebrem protocolo com o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP)."
+  },
+  "172633384": {
+   "fragment_id": "172625697",
+   "type": 11,
+   "heading": "Artigo 2.º — Montante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Montante\n\nO crédito a conceder aos beneficiários desta linha de crédito não pode exceder, por ano, 60 milhões de contos."
+  },
+  "172633385": {
+   "fragment_id": "172625698",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições\n\n1 - O prazo de vencimento das operações de crédito não pode exceder um ano a contar da data da primeira ou única utilização.\n\n2 - O nível da bonificação é de 20% da taxa de referência para cálculo de bonificações, criada pelo Decreto-Lei n.º 359/89, de 18 de Outubro, em vigor à data de concessão do crédito, excepto se esta for superior à taxa activa praticada pela instituição de crédito, caso em que aquela percentagem será aplicada sobre a taxa activa.\n\n3 - O nível de bonificação definido no número anterior poderá ser revisto, em função do comportamento evolutivo das taxas de juro activas praticadas pelas instituições de crédito, bem como da taxa de referência."
+  },
+  "172633386": {
+   "fragment_id": "172625699",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\nCompete ao IFADAP:\n\na) Definir e emitir as instruções técnicas e financeiras necessárias à execução do disposto neste diploma;\n\nb) Processar e pagar as bonificações de juros;\n\nc) Acompanhar e fiscalizar a aplicação pelos beneficiários dos empréstimos objecto das bonificações."
+  },
+  "172633387": {
+   "fragment_id": "172625700",
+   "type": 11,
+   "heading": "Artigo 5.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Incumprimento\n\n1 - O incumprimento pelo beneficiário de qualquer das suas obrigações determina a imediata cessação do pagamento das bonificações, a restituição das quantias correspondentes às bonificações, eventualmente já processadas e a suspensão do direito de acesso a linhas de crédito bonificadas por um período de um ano, a contar da data do vencimento do crédito.\n\n2 - As instituições de crédito mutuantes devem comunicar prontamente ao IFADAP as informações por este solicitadas relativamente aos empréstimos objecto de bonificação, nomeadamente no que se refere ao incumprimento pelos beneficiários das suas obrigações."
+  },
+  "172633388": {
+   "fragment_id": "172625701",
+   "type": 11,
+   "heading": "Artigo 6.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Financiamento\n\nOs encargos financeiros referentes às bonificações da taxa de juros, previstas neste diploma, são suportados pelo Orçamento do Estado e inscritos no PIDDAC do Ministério da Agricultura do Desenvolvimento Rural e das Pescas, mediante proposta do IFADAP."
+  },
+  "172633389": {
+   "fragment_id": "172625702",
+   "type": 11,
+   "heading": "Artigo 7.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Remuneração\n\nPelos serviços prestados no âmbito do presente diploma, o IFADAP recebe uma remuneração a definir por portaria conjunta dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "172633390": {
+   "fragment_id": "172625703",
+   "type": 11,
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revogação\n\nSão revogados os Decretos-Leis n.os 145/94, de 24 de Maio, e 69/95, de 11 de Abril, sem prejuízo da sua aplicação às operações de crédito à comercialização de produtos agro-alimentares já aprovadas ao abrigo dos mesmos."
+  },
+  "172633394": {
+   "fragment_id": "172625703",
+   "type": 11,
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": "1999-04-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 115/99 - Diário da República n.º 87/1999, Série I-A de 1999-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1999-544614), em vigor a partir de 1999-04-19"
+   ],
+   "markdown": "###### Artigo 8.º — Revogação\n\nSão revogados os Decretos-Leis n.os 145/94, de 24 de Maio, e 69/95, de 11 de Abril.\n\n> Alterado pelo/a [Decreto-Lei n.º 115/99 - Diário da República n.º 87/1999, Série I-A de 1999-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1999-544614), em vigor a partir de 1999-04-19"
+  },
+  "172633391": {
+   "fragment_id": "172625704",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Julho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Manuel Maria Cardoso Leal.\n\nPromulgado em 11 de Setembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 15 de Setembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "172633400": {
+   "fragment_id": "172625698",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições",
+   "in_force_from": "2008-06-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 94/2008 - Diário da República n.º 107/2008, Série I de 2008-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2008-449400), em vigor a partir de 2008-06-09, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Condições\n\n1 - O prazo de vencimento das operações de crédito não pode exceder um ano a contar da data da primeira ou única utilização.\n\n2 - O nível da bonificação é de 20% da taxa de referência para cálculo de bonificações, criada pelo Decreto-Lei n.º 359/89, de 18 de Outubro, em vigor à data de concessão do crédito, excepto se esta for superior à taxa activa praticada pela instituição de crédito, caso em que aquela percentagem será aplicada sobre a taxa activa.\n\n3 - O nível de bonificação definido no número anterior poderá ser revisto, em função do comportamento evolutivo das taxas de juro activas praticadas pelas instituições de crédito, bem como da taxa de referência.\n\n4 - O montante do auxílio a conceder no âmbito do presente decreto-lei durante o período de três exercícios fiscais é cumulável com outros apoios enquadrados no Regulamento (CE) n.º 1535/2007, da Comissão, de 20 de Dezembro.\n\n5 - O montante do auxílio referido no número anterior não pode exceder, em qualquer caso, os limiares estabelecidos nos n.os 2 e 3 do artigo 3.º daquele Regulamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 94/2008 - Diário da República n.º 107/2008, Série I de 2008-06-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2008-449400), em vigor a partir de 2008-06-09, produz efeitos a partir de 2008-01-01"
+  },
+  "172633401": {
+   "fragment_id": "172625714",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Entidades com estatuto de agricultura familiar",
+   "in_force_from": "2021-11-10",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2021 - Diário da República n.º 197/2021, Série I de 2021-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2021-172604610), em vigor a partir de 2021-11-10"
+   ],
+   "markdown": "###### Artigo 3.º-A — Entidades com estatuto de agricultura familiar\n\nNas situações em que o crédito é contratado por entidades que comprovadamente detenham título de reconhecimento do estatuto da agricultura familiar, consagrado no Decreto-Lei n.º 64/2018, de 7 de agosto, e em que o valor do financiamento não ultrapasse o limite anual de (euro) 5000, o nível da bonificação referida no n.º 2 do artigo 3.º é majorado para 50 %.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2021 - Diário da República n.º 197/2021, Série I de 2021-10-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2021-172604610), em vigor a partir de 2021-11-10"
+  },
+  "172633402": {
+   "fragment_id": "172625699",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\nCompete ao IFADAP:\n\na) Definir e emitir as instruções técnicas e financeiras necessárias à execução do disposto neste diploma;\n\nb) Processar e pagar as bonificações de juros;\n\nc) Acompanhar e fiscalizar a aplicação pelos beneficiários dos empréstimos objecto das bonificações."
+  },
+  "172633403": {
+   "fragment_id": "172625700",
+   "type": 11,
+   "heading": "Artigo 5.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Incumprimento\n\n1 - O incumprimento pelo beneficiário de qualquer das suas obrigações determina a imediata cessação do pagamento das bonificações, a restituição das quantias correspondentes às bonificações, eventualmente já processadas e a suspensão do direito de acesso a linhas de crédito bonificadas por um período de um ano, a contar da data do vencimento do crédito.\n\n2 - As instituições de crédito mutuantes devem comunicar prontamente ao IFADAP as informações por este solicitadas relativamente aos empréstimos objecto de bonificação, nomeadamente no que se refere ao incumprimento pelos beneficiários das suas obrigações."
+  },
+  "172633404": {
+   "fragment_id": "172625701",
+   "type": 11,
+   "heading": "Artigo 6.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Financiamento\n\nOs encargos financeiros referentes às bonificações da taxa de juros, previstas neste diploma, são suportados pelo Orçamento do Estado e inscritos no PIDDAC do Ministério da Agricultura do Desenvolvimento Rural e das Pescas, mediante proposta do IFADAP."
+  },
+  "172633405": {
+   "fragment_id": "172625702",
+   "type": 11,
+   "heading": "Artigo 7.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Remuneração\n\nPelos serviços prestados no âmbito do presente diploma, o IFADAP recebe uma remuneração a definir por portaria conjunta dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "172633406": {
+   "fragment_id": "172625703",
+   "type": 11,
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 115/99 - Diário da República n.º 87/1999, Série I-A de 1999-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1999-544614), em vigor a partir de 1999-04-19"
+   ],
+   "markdown": "###### Artigo 8.º — Revogação\n\nSão revogados os Decretos-Leis n.os 145/94, de 24 de Maio, e 69/95, de 11 de Abril.\n\n> Alterado pelo/a [Decreto-Lei n.º 115/99 - Diário da República n.º 87/1999, Série I-A de 1999-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1999-544614), em vigor a partir de 1999-04-19"
+  },
+  "172633407": {
+   "fragment_id": "172625704",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 30 de Julho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Manuel Maria Cardoso Leal.\n\nPromulgado em 11 de Setembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 15 de Setembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

@@ -1,0 +1,246 @@
+---
+schema_version: '1.0'
+id: pt:dre:454292:por
+title: Decreto-Lei n.º 349/83
+short_title: null
+summary: Altera diversas disposições do Decreto-Lei n.º 264/82, de 8 de Julho, que estabelece o regime de financiamento à
+  construção do sector cooperativo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Habitação, Obras Públicas e Transportes
+proposing_entity: null
+official_number: 349/83
+official_date: null
+publication_date: '1983-07-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 174/1983, Série I de 1983-07-30
+  number: '174'
+  series: I
+  supplement: null
+  pages: 2827 - 2829
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/07/17400/28272829.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '454292'
+  dre_path: /dr/detalhe/decreto-lei/349-1983-454292
+  internal: pt:dre:454292:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:53:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 17ff403e42dd7929dcafe6187bce262eef4575e57cc754aabddaa18483bb414a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:53:14Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Benefícios Fiscais
+- Construção Civil
+- Cooperativa de Habitação
+- Crédito à Habitação
+- Habitação
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:391836:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394503:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394514:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:394518:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567419:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:621756:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:numero:decreto-lei:299/95
+  label: REVOGADA A PARTE FINAL DO NUM 1 DO ART 4 DO DEC LEI 264/82 DE 08-JUL, NA REDACÇÃO CONFERIDA PELO PRESENTE DIPLOMA,
+    PELO DEC LEI 299/95 DE 18-NOV DR.IS-A [267] .IS-A [267]
+  source: null
+  date: '1995-11-18'
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:53:14Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 349/83
+
+de 30 de Julho
+
+A publicação dos Decretos-Leis n.os [264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), [265/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1982-394518) e [266/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1982-394503), todos de 8 de Julho, constituiu um passo importante para, no domínio legislativo, dotar o País de instrumentos adequados ao apoio às iniciativas do movimento cooperativo no domínio da habitação.
+
+Porém, os objectivos então visados não foram susceptíveis de se repercutirem na prática, tendo especialmente por causa a necessidade de o ajustar ao sistema de poupança-habitação, na versão reformulada do [Decreto-Lei n.º 340/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1981-567419), de 11 de Dezembro, e a recente criação do Fundo de Apoio ao Investimento para a Habitação.
+
+O presente decreto-lei vem, por isso, introduzir algumas modificações ao conjunto de diplomas publicados em 8 de Julho de 1982, sem pôr em causa a sua essência. A sua aprovação foi feita na imediata sequência da conclusão do processo de reformulação, do sistema de poupança-habitação e concretizará as expectativas legítimas criadas pela legislação acima citada.
+
+Ficará, assim, o País a dispor de um quadro legal de apoio do Estado à promoção habitacional cooperativa, quer a nível da construção de fogos, quer no que respeita à sua aquisição, susceptível de estimular as iniciativas particulares no movimento cooperativo.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os artigos 1.º a 8.º e 10.º do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, passam a ter a seguinte redacção:
+
+Artigo 1.º - 1 - O Fundo de Apoio ao Investimento para a Habitação, a Caixa Geral de Depósitos, o Crédito Predial Português e a Caixa Económica de Lisboa - Montepio Geral ficam autorizados a conceder empréstimos ao abrigo do disposto no presente diploma, no âmbito do financiamento integrado para a promoção habitacional do sector cooperativo.
+
+2 - O Fundo de Apoio ao Investimento para a Habitação deverá articular com as restantes instituições indicadas no número anterior a concessão dos empréstimos.
+
+3 - Podem beneficiar dos financiamentos as cooperativas de habitação de qualquer grau que inscrevam entre os seus fins a promoção habitacional e satisfaçam os requisitos impostos pelo presente diploma.
+
+Art. 2.º - 1 - Os empréstimos destinam-se à construção de casas de habitação para residência permanente dos cooperadores.
+
+2 - Constituem condições de acesso ao financiamento:
+
+a) A informação de que a cooperativa exerce a sua actividade de acordo com os princípios cooperativos e de que tem a contabilidade regularmente organizada;
+
+b) A informação de que os reembolsos dos eventuais empréstimos anteriormente concedidos estão a ser regularmente amortizados pela entidade mutuária;
+
+c) A abertura de contas de depósitos de poupança-habitação, nos termos do Decreto-Lei n.º 349/83, de 30 de Julho, em nome de cada cooperador, quando as casas de habitação se destinem a propriedade individual;
+
+d) A apresentação de acta da assembleia geral, nos termos do artigo 6.º do [Decreto-Lei n.º 218/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1982-391836), de 2 de Junho.
+
+3 - Porém, as contas de depósitos de poupança-habitação, referidas na alínea c) do número anterior:
+
+a) Não estão sujeitas aos prazos previstos para o respectivo plano de poupança;
+
+b) Têm de atingir, no momento da apresentação do pedido de empréstimo para aquisição, um montante não inferior ao que resultar da aplicação de uma percentagem do rendimento anual bruto do agregado familiar, a fixar por portaria conjunta dos Ministros das Finanças e do Plano, da Habitação, Obras Públicas e Transportes e do membro do Governo que exercer tutela sobre o INSCOOP;
+
+c) Podem ser movimentadas a débito, por ordem dos seus titulares, até ao limite do saldo existente, sem perda dos respectivos benefícios, desde que a aplicação das importâncias assim mobilizadas se destine ao pagamento de projectos, terrenos, infra-estruturas e equipamentos complementares, quando incluídos no empreendimento a financiar;
+
+d) Continuam, porém, relativamente ao saldo apurado dia a dia, a usufruir dos benefícios previstos no Decreto-Lei n.º 349/83, de 30 de Julho.
+
+4 - As importâncias movimentadas ao abrigo da alínea c) do número anterior e cuja correcta aplicação seja demonstrada pela cooperativa serão consideradas para efeitos do montante a que se refere a alínea b) do n.º 3.
+
+5 - São igualmente consideradas, para efeitos do montante a que se refere a alínea b) do n.º 3, as importâncias que até à data da publicação do presente diploma tenham sido entregues pelos cooperadores à cooperativa e por esta comprovadamente utilizadas no pagamento de projectos, terrenos, infra-estruturas e equipamentos complementares, quando incluídos no empreendimento a financiar.
+
+Art. 3.º As condições dos empréstimos, designadamente o seu montante máximo, a fixar em função do valor final, a que alude o artigo 5.º, e os prazos máximos de amortização serão definidos pela portaria conjunta referida no artigo anterior.
+
+Art. 4.º - 1 - A taxa de juro contratual será a máxima legal aplicável no momento da concessão do empréstimo ou, em caso de alteração, na data do vencimento de cada prestação.
+
+2 - A taxa de juro contratual poderá beneficiar de uma bonificação que constituirá encargo do Estado, nas condições a definir por portaria conjunta dos Ministérios das Finanças e do Plano, da Habitação, Obras Públicas e Transportes e do membro do Governo que exercer tutela sobre o INSCOOP.
+
+Art. 5.º - 1 - O valor final das habitações total ou parcialmente financiadas nos termos do presente diploma, mesmo quando localizadas em terrenos com infra-estruturas construídas, resultará da adição ao valor inicial do valor de revisão de preços respectivos, dos encargos financeiros vencidos após a conclusão e ainda de outros custos resultantes de alterações, de acordo com a expressão seguinte:
+
+V(índice fn) = (Vi + Rp + Vj + Ca) x (1 + (n x j)/200) + Rc
+
+em que
+
+V(índice fn) = valor final;
+
+Vi = valor inicial, compreendendo o valor inicial do custo da construção e da edificação, o valor inicial de cedência ou aquisição de terreno, acrescido do valor inicial do custo das obras de urbanização proporcional ao número de casas de habitação da operação nele localizada, e o valor correspondente a outros encargos indirectos;
+
+Rp = valor das revisões de preços;
+
+Vj = variação de custos por eventual alteração da taxa de juro;
+
+Ca = custos resultantes de alterações aprovadas pelas entidades competentes, designadamente as resultantes de erros ou omissões dos projectos ou impostas pelas mesmas entidades ou pelo comportamento dos terrenos;
+
+n = número de ordem do semestre, contado a partir da data de conclusão das habitações até àquele em que se verifique a transmissão da propriedade da habitação em causa;
+
+j = valor da taxa do financiamento à data da conclusão das habitações;
+
+Rc = reserva para construção até 10% do total dos demais valores da expressão.
+
+2 - O valor inicial para cada empreendimento compreender-se-á dentro dos valores máximos de custos fixados pela portaria a que se refere o artigo 4.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro.
+
+3 - Para efeito de revisão de preços das empreitadas, aplicar-se-á o regime vigente para as obras públicas, e na falta de índices de preços oficiais, estes serão estimados a partir da média dos valores dos acréscimos verificados nos 6 últimos índices publicados.
+
+4 - O valor final será calculado e fixado pelas instituições financiadoras no início do trimestre anterior ao ano da conclusão das habitações prevista no plano de trabalhos.
+
+5 - O valor final será calculado para cada semestre, num máximo de 3, após a conclusão das habitações, considerando-se para o efeito a taxa de juro em vigor para o financiamento no início de cada semestre, sem prejuízo de, no caso de excedido o período de 3 semestres, lhes serem acrescidos os juros vencidos, calculados dia a dia.
+
+Art. 6.º Os empréstimos concedidos ao abrigo deste diploma serão garantidos preferencialmente por hipoteca constituída sobre os terrenos e as edificações, sem prejuízo de outras garantias que as instituições de crédito, por força das suas regras de gestão e segurança, entendam exigir.
+
+Art. 7.º - 1 - As instituições de crédito abrirão uma conta de empréstimo para cada operação de financiamento contratada.
+
+2 - O distrate de hipoteca dependerá também do pagamento dos juros vencidos correspondentes a cada uma das fracções a distratar.
+
+3 - A parte das importâncias mutuadas destinada à execução de obras só poderá ser movimentada pela entidade financiadora mediante transferência para conta de depósito em nome dos construtores ou fornecedores, previamente identificados.
+
+Art. 8.º - 1 - A instituição de crédito que conceder empréstimos nos termos do n.º 1 do artigo 1.º deste diploma financiará, desde que se encontrem satisfeitas as regras de segurança por ela estabelecidas, a aquisição das habitações pelos cooperadores, com base nos valores a que se refere o n.º 1 do artigo 5.º
+
+2 - Os empréstimos para aquisição das habitações pelos cooperadores estão sujeitos ao regime do Decreto-Lei n.º 349/83, de 30 de Julho, sem prejuízo do previsto no artigo 2.º
+
+3 - As importâncias respeitantes aos financiamentos à aquisição das habitações serão creditadas na conta de empréstimo da cooperativa pela parte correspondente, ao valor de distrate fixado pela instituição financiadora relativamente à habitação a que se refere o empréstimo.
+
+Art. 10.º - 1 - O empreendimento só poderá ser financiado se os terrenos forem propriedade da cooperativa ou ela tiver sobre os mesmos um direito de superfície.
+
+2 - O pagamento desses terrenos poderá ser efectuado à medida que os cooperadores forem adquirindo as respectivas habitações, se tal tiver sido convencionado.
+
+Art. 2.º É revogado o artigo 11.º do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho.
+
+Art. 3.º É revogado o [Decreto-Lei n.º 266/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-1982-394503), de 8 de Julho.
+
+Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - José Carlos Pinto Soromenho Viana Baptista.
+
+Promulgado em 7 de Junho de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 8 de Junho de 1983.
+
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

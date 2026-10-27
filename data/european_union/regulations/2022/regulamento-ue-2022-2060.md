@@ -1,0 +1,398 @@
+---
+schema_version: '1.0'
+id: eu:celex:32022R2060:por
+title: Regulamento Delegado (UE) 2022/2060 da Comissão de 14 de junho de 2022
+short_title: null
+summary: Regulamento Delegado (UE) 2022/2060 da Comissão de 14 de junho de 2022 que complementa o Regulamento (UE) n.o 575/2013
+  do Parlamento Europeu e do Conselho no que diz respeito às normas técnicas de regulamentação que especificam, de acordo
+  com o seu artigo 325.o-BE, n.o 3, os critérios de avaliação do caráter modelizável dos fatores de risco no âmbito do método
+  dos modelos internos, assim como a frequência dessa avaliação (Texto relevante para efeitos do EEE)
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento Delegado
+issuing_authority:
+- Comissão Europeia
+- FISMA
+proposing_entity: null
+official_number: 2022/2060
+official_date: null
+publication_date: '2022-10-26'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 276 de 26.10.2022
+  number: '276'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/45f961e8-54d2-11ed-92ed-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2022-11-15'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2025-05-28'
+identifiers:
+  celex: 32022R2060
+  eli: http://data.europa.eu/eli/reg_del/2022/2060/oj
+  oj: oj:JOL_2022_276_R_0005
+  dre: null
+  dre_path: null
+  internal: eu:celex:32022R2060:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32022R2060
+  metadata_url: http://publications.europa.eu/resource/cellar/45f961e8-54d2-11ed-92ed-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/61e0ed07-4b9b-11f0-85ba-01aa75ed71a1.0020.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R2060-20250528
+  retrieved_at: '2026-10-26T12:39:32Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2024-10-16T21:10:22.027+02:00'
+integrity:
+  source_sha256: e86a79f19d9e27fe349a1d53639422b713552db12799b8bbaa42f2b8a5d4b96f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-26T12:39:32Z'
+  notes: Texto consolidado 02022R2060-20250528.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- controlo financeiro
+- disponibilidade monetária
+- fiscalização do mercado
+- instituição de crédito
+- norma técnica
+- política bancária
+- regulamentação financeira
+- risco financeiro
+- sociedade de investimento
+relationships:
+- type: amended_by
+  target: celex:32025R0878
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e564935c-2ba4-11f0-8a44-01aa75ed71a1
+  date: '2025-05-08'
+- type: based_on
+  target: celex:32013R0575
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ccd31733-df06-11e2-9165-01aa75ed71a1
+  date: '2013-06-27'
+- type: cites
+  target: celex:32010R1093
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c2eecef2-5a33-4525-931e-53cf6e6f96c7
+- type: cites
+  target: celex:32014L0065
+  label: null
+  source: http://publications.europa.eu/resource/cellar/056587cf-f1f8-11e3-8cd4-01aa75ed71a1
+- type: cites
+  target: celex:32014R0600
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3b729ddf-f1f7-11e3-8cd4-01aa75ed71a1
+- type: cites
+  target: celex:32021R0451
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b006a26b-8883-11eb-ac4c-01aa75ed71a1
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-26T12:39:32Z'
+  warnings: []
+  errors: []
+---
+
+# Regulamento Delegado (UE) 2022/2060 da Comissão de 14 de junho de 2022
+
+> 02022R2060 — PT — 28.05.2025 — 001.001
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterado por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32025R0878) — [REGULAMENTO DELEGADO (UE) 2025/878 DA COMISSÃO de 3 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0878) — L 878 — 1 — 8.5.2025
+
+## REGULAMENTO DELEGADO (UE) 2022/2060 DA COMISSÃO
+
+de 14 de junho de 2022
+
+que complementa o Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho no que diz respeito às normas técnicas de regulamentação que especificam, de acordo com o seu artigo 325.º-BE, n.º 3, os critérios de avaliação do caráter modelizável dos fatores de risco no âmbito do método dos modelos internos, assim como a frequência dessa avaliação
+
+(Texto relevante para efeitos do EEE)
+
+###### Artigo 1.º — Critérios para a avaliação do caráter modelizável dos fatores de risco não pertencentes a uma curva, uma superfície ou um cubo
+
+1.
+
+Os fatores de risco das posições referidas no artigo 325.º-BE, n.º 1, do Regulamento (UE) n.º 575/2013 não pertencentes a uma curva, uma superfície ou um cubo devem ser considerados como modelizáveis se estiver preenchido um dos seguintes critérios:
+
+a) durante um período de observação de 12 meses que termina na anterior data de referência do relato a que se refere o artigo 2.º, n.º 1, alínea b), do Regulamento de Execução (UE) 2021/451 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/61e0ed07-4b9b-11f0-85ba-01aa75ed71a1.0020.02/DOC_1#E0001)), estão preenchidas ambas as seguintes condições:
+
+i) a instituição identificou para esse fator de risco a existência de, pelo menos, 24 preços verificáveis nos termos do artigo 2.º do presente regulamento, que têm datas de observação distintas e que são considerados representativos desse fator de risco nos termos do artigo 3.º do presente regulamento,
+
+ii) não houve um período de 90 ou mais dias em que se tenham verificado menos de quatro dos preços verificáveis referidos na subalínea i);
+
+b) durante o período de observação de 12 meses a que se refere a alínea a), a instituição identificou para esse fator de risco a existência de, pelo menos, 100 preços verificáveis nos termos do artigo 2.º do presente regulamento, que têm datas de observação distintas e que são considerados representativos desse fator de risco nos termos do artigo 3.º do presente regulamento.
+
+2.
+
+Uma instituição pode substituir o período de 12 meses a que se refere o n.º 1 por um período de 12 meses que termine após um mês antes da anterior data de referência do relato a que se refere o artigo 2.º, n.º 1, alínea b), do Regulamento de Execução (UE) 2021/451 («período transferido»), se estiverem cumulativamente reunidas as seguintes condições:
+
+a) A instituição aplica esse período transferido coerentemente a nível de todos os fatores de risco do mesmo tipo que o fator de risco em causa;
+
+b) A instituição aplica esse período transferido coerentemente ao longo do tempo;
+
+c) a instituição fornece à autoridade competente uma descrição pormenorizada da aplicação desse período transferido.
+
+###### Artigo 2.º — Preços verificáveis
+
+1.
+
+Considera-se que um preço é verificável se estiver preenchida uma das seguintes condições:
+
+a) o preço é obtido a partir de uma transação em que a instituição era uma das partes e que foi realizada em condições de plena concorrência;
+
+b) o preço é obtido a partir de uma transação realizada por terceiros em condições de plena concorrência e que preenche todas as condições estabelecidas no n.º 5;
+
+c) o preço é obtido a partir de ofertas de preços de compra e venda efetivamente concorrenciais de boa-fé apresentadas pela própria instituição ou por terceiros em condições de plena concorrência, os valores aos quais a instituição ou os terceiros se comprometeram a executar uma transação em conformidade com as práticas comerciais e que satisfazem todas as condições estabelecidas no n.º 5.
+
+2.
+
+Sem prejuízo do disposto no n.º 1, considera-se que um preço não é verificável se estiver preenchida uma das seguintes condições:
+
+a) o preço é obtido a partir de uma transação ou de ofertas de preços de compra e venda entre duas entidades do mesmo grupo;
+
+b) o preço é obtido a partir de uma transação ou de ofertas de preços de compra e venda de um volume insignificante em comparação com o volume habitual de transações ou ofertas de preços que reflete as condições atuais do mercado;
+
+c) o preço é obtido a partir de ofertas com um diferencial entre compra e venda que se afasta substancialmente dos diferenciais que refletem as condições atuais de mercado;
+
+d) o preço é obtido a partir de uma transação realizada com o único objetivo de identificar um número suficiente de preços verificáveis que cumprem os critérios estabelecidos no artigo 1.º do presente regulamento;
+
+e) o preço é obtido a partir de ofertas efetivamente apresentadas com o único objetivo de identificar um número suficiente de preços verificáveis que cumpram os critérios estabelecidos no artigo 1.º do presente regulamento.
+
+3. A data de observação de um preço verificável deve ser idêntica à data em que a transação foi executada ou à data em que as ofertas de preços de compra e venda foram efetivamente apresentadas. As datas de observação dos preços verificáveis devem ser registadas com base num fuso horário único coerente em todas as fontes de dados.
+
+5.
+
+Uma transação ou uma oferta de preços de compra e venda só pode ser utilizada para efeitos do n.º 1, alíneas b) e c), se estiverem preenchidas todas as seguintes condições:
+
+a) a transação ou oferta de preços foi processada ou recolhida por um terceiro vendedor;
+
+b) o terceiro vendedor ou a instituição concordou em fornecer à autoridade competente da instituição, se tal lhe for solicitado, provas da transação ou das ofertas de preços e provas da verificabilidade do preço obtido a partir dessa transação ou ofertas de preços;
+
+c) o terceiro vendedor comunicou à instituição a data em que a transação ou as ofertas de preços foram observadas, bem como um conjunto mínimo de informações sobre a transação ou as ofertas de preços, a fim de permitir à instituição atribuir o preço verificável aos fatores de risco para os quais o preço obtido a partir dessa transação ou dessas ofertas de preços é representativo nos termos do artigo 3.º do presente regulamento;
+
+d) a instituição verificou que o terceiro vendedor está sujeito, pelo menos anualmente, a uma auditoria independente por parte de uma empresa terceira, na aceção do artigo 325.º-BI, n.º 1, segundo parágrafo, do Regulamento (UE) n.º 575/2013, no que diz respeito à validade das informações, da governação e dos processos em matéria de preços, e tem acesso aos resultados e relatórios de auditoria, a fim de poder comunicar à sua autoridade competente, se tal for solicitado, esses resultados e relatórios.
+
+6.
+
+Para efeitos do n.º 5, alínea d), a auditoria independente deve avaliar todos os seguintes aspetos:
+
+a) se o terceiro vendedor dispõe das informações necessárias para controlar se o preço é verificável e para atribuir o preço verificável aos fatores de risco para os quais esse preço é representativo, em conformidade com o artigo 3.º do presente regulamento;
+
+b) se o terceiro vendedor consegue demonstrar a integridade das informações a que se refere a alínea a);
+
+c) se o terceiro vendedor dispõe de processos internos e de pessoal em número suficiente, com um nível de competências adequado para a gestão das informações referidas na alínea a);
+
+d) se, quando um terceiro vendedor não fornece à instituição as informações necessárias para controlar a verificabilidade do preço, o terceiro vendedor é contratualmente obrigado a ter controlado a verificabilidade do preço.
+
+7. Caso um terceiro vendedor não forneça à instituição as informações necessárias para controlar a verificabilidade do preço, a instituição deve poder demonstrar à sua autoridade competente que o terceiro vendedor é contratualmente obrigado a ter controlado a verificabilidade do preço.
+
+###### Artigo 3.º — Representatividade dos preços verificáveis relativamente aos fatores de risco
+
+1.
+
+Um preço verificável é considerado representativo de um fator de risco a partir da sua data de observação se estiverem preenchidas todas as seguintes condições:
+
+a) existe uma relação estreita entre o fator de risco e o preço verificável;
+
+b) a instituição especificou uma metodologia conceptualmente sólida para calcular o valor do fator de risco a partir do valor do preço verificável.
+
+Para efeitos da alínea b), quaisquer dados de cálculo ou fatores de risco utilizados na metodologia, que não o preço verificável, devem basear-se em dados objetivos.
+
+2. Qualquer preço verificável pode ser contado como observação para efeitos do artigo 1.º relativamente a todos os fatores de risco para os quais é representativo de acordo com o n.º 1.
+
+3. Caso uma instituição utilize um fator de risco sistemático de crédito ou de capital próprio para ter em conta os movimentos a nível do mercado de determinados atributos de um conjunto de emitentes, incluindo o país, a região ou o setor desses emitentes, os preços verificáveis dos índices ou dos instrumentos de mercado de emitentes individuais só são considerados representativos desse fator de risco sistemático se tiverem os mesmos atributos que esse fator de risco sistemático.
+
+###### Artigo 4.º — Critérios para a avaliação do caráter modelizável dos fatores de risco pertencentes a uma curva, uma superfície ou um cubo
+
+1.
+
+O caráter modelizável dos fatores de risco das posições referidas no artigo 325.º-BE, n.º 1, do Regulamento (UE) n.º 575/2013 pertencentes a uma curva, uma superfície ou um cubo deve ser avaliado aplicando as seguintes etapas pela ordem indicada:
+
+a) relativamente a cada curva, superfície ou cubo, a instituição determina os escalões relevantes de fatores de risco nos termos do artigo 5.º do presente regulamento;
+
+b) a instituição determina o caráter modelizável dos escalões relevantes a que se refere a alínea a) nos termos do n.º 2;
+
+c) a instituição considera modelizável qualquer fator de risco que pertença a um escalão que foi considerado modelizável de acordo com o n.º 2.
+
+2.
+
+Os critérios para avaliar se um escalão é modelizável devem ser os seguintes:
+
+a) durante um período de observação de 12 meses que termina na anterior data de referência do relato a que se refere o artigo 2.º, n.º 1, alínea b), do Regulamento de Execução (UE) 2021/451:
+
+i) a instituição identificou para esse escalão a existência de, pelo menos, 24 preços verificáveis de acordo com o artigo 2.º do presente regulamento, que têm datas de observação distintas e que são afetados a esse escalão, e
+
+ii) não houve um período de 90 ou mais dias em que se tenham verificado menos de quatro dos preços verificáveis referidos na subalínea i);
+
+b) durante o período de observação de 12 meses a que se refere a alínea a), a instituição identificou para esse escalão a existência de, pelo menos, 100 preços verificáveis de acordo com o artigo 2.º do presente regulamento, que têm datas de observação distintas e que são afetados a esse escalão.
+
+3.
+
+Uma instituição pode substituir o período de 12 meses a que se refere o n.º 2 por um período de 12 meses que termine após um mês antes da anterior data de referência do relato a que se refere o artigo 2.º, n.º 1, alínea b), do Regulamento de Execução (UE) 2021/451 («período transferido»), se estiverem cumulativamente reunidas as seguintes condições:
+
+a) a instituição aplica esse período transferido coerentemente a todos os escalões de uma curva, superfície ou cubo;
+
+b) a instituição aplica esse período transferido coerentemente ao longo do tempo;
+
+c) a instituição fornece à autoridade competente uma descrição pormenorizada da aplicação desse período transferido.
+
+4. Um preço verificável é atribuído a um escalão se for representativo, nos termos do artigo 3.º do presente regulamento, de um fator de risco pertencente a esse escalão.
+
+5. Para efeitos do n.º 4, uma instituição pode considerar como fator de risco qualquer ponto da curva, superfície ou cubo pertencente ao escalão, independentemente de esse ponto ser um fator de risco incluído no seu modelo de avaliação de riscos.
+
+###### Artigo 5.º — Métodos de escalonamento de fatores de risco pertencentes a curvas, superfícies ou cubos
+
+1. Para cada curva, superfície ou cubo a que pertença um fator de risco, as instituições devem determinar os escalões dessa curva, superfície ou cubo utilizando os escalões predefinidos normalizados a que se refere o n.º 2 ou, em alternativa, os escalões definidos pelas próprias instituições, desde que essas instituições cumpram os requisitos do n.º 3.
+
+2.
+
+Para efeitos do n.º 1, os escalões predefinidos normalizados são os seguintes:
+
+a) os nove escalões referidos na linha i do quadro 1 do n.º 3 para os fatores de risco com uma dimensão de prazo de vencimento *«t»*, expresso em anos, que foram atribuídos às seguintes categorias gerais de fatores de risco:
+
+i) «taxa de juro», exceto os fatores de risco atribuídos à subcategoria geral de fatores de risco «volatilidade»,
+
+ii) «cambial», exceto os fatores de risco atribuídos à subcategoria geral de fatores de risco «volatilidade»,
+
+iii) «mercadoria», exceto os fatores de risco atribuídos às subcategorias gerais de fatores de risco «volatilidade da energia e volatilidade das emissões de carbono», «volatilidade dos metais preciosos e volatilidade dos metais não ferrosos» e «volatilidades de outras mercadorias»;
+
+b) os seis escalões referidos na linha ii do quadro 1 do n.º 3 para cada dimensão de prazo de vencimento *«t»* dos fatores de risco com mais do que uma dimensão, expressa em anos, que foram atribuídos às seguintes categorias gerais de fatores de risco:
+
+i) «taxa de juro», exceto os fatores de risco atribuídos à subcategoria geral de fatores de risco «volatilidade»,
+
+ii) «cambial», exceto os fatores de risco atribuídos à subcategoria geral de fatores de risco «volatilidade»,
+
+iii) «mercadoria», exceto os fatores de risco atribuídos às subcategorias gerais de fatores de risco «volatilidade da energia e volatilidade das emissões de carbono», «volatilidade dos metais preciosos e volatilidade dos metais não ferrosos» e «volatilidades de outras mercadorias»;
+
+c) os cinco escalões referidos na linha iii do quadro 1 do n.º 3 para cada dimensão de prazo de vencimento *«t»* dos fatores de risco com uma ou mais dimensões, expressas em anos, que foram atribuídos às seguintes categorias gerais de fatores de risco:
+
+i) «*spread* de crédito», exceto os fatores de risco atribuídos à subcategoria geral de fatores de risco «volatilidade»,
+
+ii) «capital próprio», exceto os fatores de risco atribuídos às subcategorias gerais de fatores de risco «volatilidade (grande capitalização bolsista)» e «volatilidade (pequena capitalização bolsista)»;
+
+d) os cinco escalões referidos a linha iv do quadro 1 do n.º 3 para quaisquer fatores de risco com uma ou mais dimensões monetárias, expressos utilizando o delta das opções (‘δ*’*);
+
+e) os cinco escalões referidos na linha iii do quadro 1 do n.º 3 e os cinco escalões referidos na linha iv do quadro 1 do n.º 3 para os fatores de risco atribuídos às seguintes categorias gerais de fatores de risco:
+
+i) «cambial», para os fatores de risco atribuídos à subcategoria geral de fatores de risco «volatilidade»,
+
+ii) «*spread* de crédito», para os fatores de risco atribuídos à subcategoria geral de fatores de risco «volatilidade»,
+
+iii) «capital próprio», para os fatores de risco atribuídos às subcategorias gerais de fatores de risco «volatilidade (grande capitalização bolsista)» e «volatilidade (pequena capitalização bolsista)»,
+
+iv) «mercadoria», para os fatores de risco atribuídos às subcategorias gerais de fatores de risco «volatilidade da energia e volatilidade das emissões de carbono», «volatilidade dos metais preciosos e volatilidade dos metais não ferrosos» e «volatilidades de outras mercadorias»;
+
+f) os seis escalões referidos na linha ii do quadro 1 do n.º 3, os cinco escalões referidos na linha iii do quadro 1 do n.º 3 e os cinco escalões referidos na linha iv do quadro 1 do n.º 3 para os fatores de risco atribuídos à categoria geral de fatores de risco «taxa de juro» e à subcategoria geral de fatores de risco «volatilidade» com uma dimensão monetária e de prazo de vencimento.
+
+Para efeitos da alínea d), para os mercados de opções que utilizem outras convenções que não o delta da opção para a definição da dimensão monetária, as instituições devem converter os escalões referidos na linha iv do quadro 1 do n.º 3 nas convenções prevalecentes nesses mercados de opções utilizando técnicas quantitativas derivadas dos modelos de determinação de preços da própria instituição, desde que esses modelos de determinação de preços tenham sido bem documentados e tenham sido revistos de forma independente.
+
+3.
+
+Para efeitos do n.º 2, um escalão normalizado pode ser subdividido em escalões mais pequenos.
+
+| Escalão n.º | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| i. | 0 ≤ *t* < 0,75 | 0,75 ≤ *t* <1,5 | 1,5 ≤ *t* <4 | 4 ≤ *t* < 7 | 7 ≤ *t* < 12 | 12 ≤ *t* < 18 | 18 ≤ *t* < 25 | 25 ≤ *t* < 35 | 35 ≤ *t* |
+| ii. | 0 ≤ *t* <0,75 | 0,75 ≤ *t* < 4 | 4 ≤ *t* < 10 | 10 ≤ *t* < 18 | 18 ≤ *t* < 30 | 30 ≤ *t* |  |  |  |
+| iii. | 0 ≤ *t* < 1,5 | 1,5 ≤ *t* < 3,5 | 3,5 ≤ *t* < 7,5 | 7,5 ≤ *t* < 15 | 15 ≤ *t* |  |  |  |  |
+| iv. | 0 ≤ *δ* < 0,05 | 0,05 ≤ *δ* < 0,3 | 0,3 ≤ *δ* < 0.7 | 0,7 ≤ *δ* < 0,95 | 0,95 ≤ *δ* ≤ 1 |  |  |  |  |
+
+4.
+
+Para efeitos do n.º 1, as instituições podem estabelecer eles próprios escalões para uma determinada curva, superfície ou cubo, se estiverem cumulativamente reunidas as seguintes condições:
+
+a) os escalões cobrem toda a curva, superfície ou cubo;
+
+b) os escalões não se sobrepõem;
+
+c) cada escalão contém exatamente um fator de risco que faz parte do cálculo das variações teóricas do valor da carteira de uma das mesas de negociação da instituição para avaliar a conformidade com os requisitos de atribuição de lucros e perdas estabelecidos no artigo 325.º-BG do Regulamento (UE) n.º 575/2013.
+
+5.
+
+Para a avaliação do caráter modelizável dos fatores de risco da categoria geral de fatores de risco « *spread* de crédito» pertencente a um determinado escalão de prazos de vencimento, uma instituição só pode reatribuir os preços verificáveis de um escalão ao escalão adjacente relacionado com prazos de vencimento mais curtos se estiverem preenchidas todas as seguintes condições:
+
+a) a instituição não tem exposição a nenhum fator de risco pertencente ao escalão correspondente aos prazos de vencimento mais longos e, por conseguinte, não utiliza nenhum destes fatores de risco no âmbito do seu modelo de gestão de riscos;
+
+b) qualquer preço verificável só é contabilizado num único escalão de prazos de vencimento;
+
+c) qualquer preço verificável só é reatribuído uma vez.
+
+###### Artigo 6.º — Critérios para a avaliação do caráter modelizável dos fatores de risco que representam parâmetros funcionais de uma curva, superfície ou cubo paramétricos
+
+1.
+
+As instituições que utilizam uma ou mais funções paramétricas para representar uma curva, uma superfície ou um cubo e que incorporam os parâmetros funcionais como fatores de risco nos seus modelos internos de avaliação dos riscos devem avaliar o caráter modelizável desses parâmetros funcionais aplicando, para cada função paramétrica, as seguintes etapas pela ordem indicada:
+
+a) essas instituições identificam o conjunto de pontos da curva, superfície ou cubo que foram utilizados para calibrar a função paramétrica;
+
+b) essas instituições aplicam o método de escalonamento estabelecido no artigo 5.º, n.º 2, como se os fatores de risco no seu modelo de avaliação de riscos fossem os pontos identificados nos termos da alínea a);
+
+c) essas instituições avaliam, nos termos do artigo 4.º, n.^os^ 2 e 3, o caráter modelizável dos escalões resultantes da aplicação do método de escalonamento estabelecido no artigo 5.º, n.º 2, como se os fatores de risco do seu modelo de avaliação de riscos fossem os pontos identificados nos termos da alínea a).
+
+2. O caráter modelizável de um parâmetro da função paramétrica a que se refere o n.º 1 deve ser avaliado identificando o conjunto de pontos da curva, superfície ou cubo que foram utilizados para calibrar esse parâmetro funcionais. Se os pontos identificados pertencerem apenas a escalões considerados como modelizáveis nos termos do n.º 1, alínea c), o parâmetro funcional deve ser considerado como modelizável.
+
+###### Artigo 7.º — Documentação
+
+1.
+
+As instituições devem documentar nas suas políticas internas todos os seguintes elementos:
+
+a) o conjunto e a descrição dos fatores de risco do seu modelo interno de avaliação dos riscos sujeito à avaliação do caráter modelizável;
+
+b) as fontes das informações sobre os preços verificáveis utilizadas para avaliar o caráter modelizável dos fatores de risco;
+
+c) os critérios para que um preço seja considerado verificável nos termos do artigo 2.º, incluindo uma descrição da forma como a instituição avalia se o volume de uma transação ou de uma oferta de preços efetivamente apresentada não é insignificante, como referido no artigo 2.º, n.º 2, alínea b), e se o diferencial entre compra e venda de uma oferta é razoável, como referido no artigo 2.º, n.º 2, alínea c);
+
+d) o processo de mapeamento e os critérios utilizados para determinar a representatividade dos preços verificáveis relativamente aos fatores de risco a que se refere o artigo 3.º, incluindo uma descrição da metodologia especificada para o cálculo do valor do fator de risco a partir dos preços verificáveis e quaisquer dados adicionais eventualmente necessários para aplicar a metodologia;
+
+e) a avaliação do caráter modelizável das curvas, superfícies ou cubos paramétricos a que se refere o artigo 6.º;
+
+f) a utilização do método de escalonamento a que se refere o artigo 5.º, especificando igualmente se e de que forma a instituição aplica o artigo 5.º, n.º 5;
+
+g) a utilização do período transferido de 12 meses nos termos do artigo 1.º, n.º 2, ou do artigo 4.º, n.º 3.
+
+Caso as fontes das informações sobre os preços verificáveis de uma instituição a que se refere a alínea b), primeiro parágrafo, incluam entidades terceiras, a instituição deve documentar adicionalmente, para cada entidade terceira, o número de fatores de risco que foram classificados como modelizáveis com base nos preços verificáveis fornecidos por essa entidade terceira, bem como uma avaliação da materialidade desses fatores de risco.
+
+2. Para cada fator de risco, as instituições devem manter o registo de, pelo menos, um ano de resultados da sua avaliação do caráter modelizável, incluindo a documentação a que se refere o n.º 1. Para os fatores de risco relativamente aos quais ainda não esteja disponível um ano de registo dos resultados, as instituições devem manter o registo máximo disponível dos resultados.
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/61e0ed07-4b9b-11f0-85ba-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento de Execução (UE) 2021/451 da Comissão, de 17 de dezembro de 2020, que estabelece normas técnicas de execução para a aplicação do Regulamento (UE) n.º 575/2013 do Parlamento Europeu e do Conselho no que respeita ao relato para fins de supervisão das instituições e revoga o Regulamento de Execução (UE) n.º 680/2014 (JO L 97 de 19.3.2021, p. 1).

@@ -1,0 +1,1315 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31999R0659:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01999R0659-20151014",
+ "dre_path": null,
+ "source_lastmod": "2015-10-14",
+ "versions": [
+  {
+   "date": "1999-03-27",
+   "future": false,
+   "celex": "31999R0659",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "29c382b937f135a2",
+    "1e6d6e0e375c13b5",
+    "2753ae04892d5e27",
+    "7f27e4a6e48a5ca3",
+    "b611444186a241c7",
+    "dd757dee113ce30f",
+    "382c81d3b60b0201",
+    "e4c184b43d990380",
+    "b7395439d0c70d52",
+    "1dbb6837be3d3130",
+    "ab93d9d32deac186",
+    "e5298ea62498a93c",
+    "8c026c87f7c79fe5",
+    "617a2505efa27deb",
+    "df07adc50c5db0aa",
+    "afc1299e3e791d51",
+    "73c883af33fe3de2",
+    "8af98f55e5df9afa",
+    "97b2722d645f34cb",
+    "f74a03c909d457bb",
+    "4c245ea1d27b61a6",
+    "99d23258c3df0c37",
+    "e83254565434845f",
+    "6bdfe8826f560766",
+    "415333ff86f753ec",
+    "b1a5408fb6aa21fd",
+    "52049907e00ab726",
+    "c54436a68886d69b",
+    "829ea85bcaf4cf56",
+    "64b9b649e2da87f8",
+    "04ed889934b0ca9d",
+    "52326994afe2a983",
+    "2ad5dd814ad0e2b0",
+    "6ee46a769ad3974c",
+    "dbcdfa1d13906a03",
+    "f97be3eed9d97e53",
+    "a4c49495a5dad3f7",
+    "878ab86ebdbb434f",
+    "d967c6dfb05a9f09"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "celex": "01999R0659-20070101",
+   "acts": [
+    {
+     "id": "eu:celex:32006R1791:por",
+     "title": "REGULAMENTO (CE) N.O 1791/2006 DO CONSELHO de 20 de Novembro de 2006",
+     "published": null,
+     "celex": "32006R1791"
+    },
+    {
+     "id": null,
+     "title": "Acto relativo às condições de adesão da República Checa, da República da Estónia, da República de Chipre, da República da Letónia, da República da Lituânia, da República da Hungria, da República de Malta, da República da Polónia, da República da Eslovénia e da República Eslovaca e às adaptações dos Tratados em que se funda a União Europeia",
+     "published": null,
+     "celex": "12003T"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Adita CAPÍTULO I",
+    "Adita DISPOSIÇÕES GERAIS",
+    "Adita Artigo 1.º — Definições",
+    "Adita CAPÍTULO II",
+    "Adita PROCESSO APLICÁVEL AOS AUXÍLIOS NOTIFICADOS",
+    "Adita Artigo 2.º — Notificação de novo auxílio",
+    "Adita Artigo 3.º — Cláusula suspensiva",
+    "Adita Artigo 4.º — Análise preliminar da notificação e decisões da Comissão",
+    "Adita Artigo 5.º — Pedido de informações",
+    "Adita Artigo 6.º — Procedimento formal de investigação",
+    "Adita Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação",
+    "Adita Artigo 8.º — Retirada da notificação",
+    "Adita Artigo 9.º — Revogação de uma decisão",
+    "Adita CAPÍTULO III",
+    "Adita PROCESSO APLICÁVEL AOS AUXÍLIOS ILEGAIS",
+    "Adita Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações",
+    "Adita Artigo 11.º — Injunção de suspensão ou de recuperação provisória do auxílio",
+    "Adita Artigo 12.º — Incumprimento da injunção",
+    "Adita Artigo 13.º — Decisões da Comissão",
+    "Adita Artigo 14.º — Recuperação do auxílio",
+    "Adita Artigo 15.º — Prazo de prescrição",
+    "Adita CAPÍTULO IV",
+    "Adita PROCESSO APLICÁVEL AOS AUXÍLIOS UTILIZADOS DE FORMA ABUSIVA",
+    "Adita Artigo 16.º — Utilização abusiva de um auxílio",
+    "Adita CAPÍTULO V",
+    "Adita PROCESSO APLICÁVEL AOS REGIMES DE AUXÍLIOS EXISTENTES",
+    "Adita Artigo 17.º — Cooperação nos termos do n.º 1 do artigo 93.º do Tratado",
+    "Adita Artigo 18.º — Proposta de medidas adequadas",
+    "Adita Artigo 19.º — Consequências jurídicas de uma proposta de medidas adequadas",
+    "Adita CAPÍTULO VI",
+    "Adita PARTES INTERESSADAS",
+    "Adita Artigo 20.º — Direitos das partes interessadas",
+    "Adita CAPÍTULO VII",
+    "Adita CONTROLO",
+    "Adita Artigo 21.º — Relatórios anuais",
+    "Adita Artigo 22.º — Controlo in loco",
+    "Adita Artigo 23.º — Incumprimento de decisões e acórdãos",
+    "Adita CAPÍTULO VIII",
+    "Adita DISPOSIÇÕES COMUNS",
+    "Adita Artigo 24.º — Sigilo profissional",
+    "Adita Artigo 25.º — Destinatários das decisões",
+    "Adita Artigo 26.º — Publicação das decisões",
+    "Adita Artigo 27.º — Medidas de execução",
+    "Adita Artigo 28.º — Comité Consultivo",
+    "Adita Artigo 29.º — Consulta ao comité",
+    "Adita Artigo 30. — Entrada em vigor",
+    "Adita Notas",
+    "Suprime CAPÍTULO I — DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.° — Definições",
+    "Suprime CAPÍTULO II — PROCESSO APLICÁVEL AOS AUXÍLIOS NOTIFICADOS",
+    "Suprime Artigo 2.° — Notificação de novo auxílio",
+    "Suprime Artigo 3.° — Cláusula suspensiva",
+    "Suprime Artigo 4.° — Análise preliminar da notificação e decisões da Comissão",
+    "Suprime Artigo 5.° — Pedido de informações",
+    "Suprime Artigo 6.° — Procedimento formal de investigação",
+    "Suprime Artigo 7.° — Decisão da Comissão de encerramento do procedimento formal de investigação",
+    "Suprime Artigo 8.° — Retirada da notificação",
+    "Suprime Artigo 9.° — Revogação de uma decisão",
+    "Suprime CAPÍTULO III — PROCESSO APLICÁVEL AOS AUXÍLIOS ILEGAIS",
+    "Suprime Artigo 10.° — Exame, pedido de informações e injunção para prestação de informações",
+    "Suprime Artigo 11.° — Injunção de suspensão ou de recuperação provisória do auxílio",
+    "Suprime Artigo 12.° — Incumprimento da injunção",
+    "Suprime Artigo 13.° — Decisões da Comissão",
+    "Suprime Artigo 14.° — Recuperação do auxílio",
+    "Suprime Artigo 15.° — Prazo de prescrição",
+    "Suprime CAPÍTULO IV — PROCESSO APLICÁVEL AOS AUXÍLIOS UTILIZADOS DE FORMA ABUSIVA",
+    "Suprime Artigo 16.° — Utilização abusiva de um auxílio",
+    "Suprime CAPÍTULO V — PROCESSO APLICÁVEL AOS REGIMES DE AUXÍLIOS EXISTENTES",
+    "Suprime Artigo 17.° — Cooperação nos termos do n.° 1 do artigo 93.° do Tratado",
+    "Suprime Artigo 18.° — Proposta de medidas adequadas",
+    "Suprime Artigo 19.° — Consequências jurídicas de uma proposta de medidas adequadas",
+    "Suprime CAPÍTULO VI — PARTES INTERESSADAS",
+    "Suprime Artigo 20.° — Direitos das partes interessadas",
+    "Suprime CAPÍTULO VII — CONTROLO",
+    "Suprime Artigo 21.° — Relatórios anuais",
+    "Suprime Artigo 22.° — Controlo in loco",
+    "Suprime Artigo 23.° — Incumprimento de decisões e acórdãos",
+    "Suprime CAPÍTULO VIII — DISPOSIÇÕES COMUNS",
+    "Suprime Artigo 24.° — Sigilo profissional",
+    "Suprime Artigo 25.° — Destinatários das decisões",
+    "Suprime Artigo 26.° — Publicação das decisões",
+    "Suprime Artigo 27.° — Medidas de execução",
+    "Suprime Artigo 28.° — Comité Consultivo",
+    "Suprime Artigo 29.° — Consulta ao comité",
+    "Suprime Artigo 30.° — Entrada em vigor"
+   ],
+   "fragments": [
+    "6fced044e86639f1",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "12438dfea246c9cc",
+    "f0f8c960bfdbce9b",
+    "f87871e1e65f9977",
+    "23163b25071a2842",
+    "7eeebd2d2b33f0fd",
+    "3917fa377149e394",
+    "57c560f1252eb2c5",
+    "b6698c2d86e89a6d",
+    "5b30023e77df5389",
+    "b6c06212a8213025",
+    "4b083d2f25e7b403",
+    "1e7a0903d2eed348",
+    "ae42f59d0920ac1c",
+    "b09e1ab676f40753",
+    "2cd80fead3fd735a",
+    "6fbfd568c8d44fe7",
+    "09988a7504a20203",
+    "cd321b5a85e471e6",
+    "ba1d70be4ee6066c",
+    "1ecfc79da3f1ac7f",
+    "b82eed1fdf77acb1",
+    "4f208f88b5269a68",
+    "40ed6b62e188ac6f",
+    "08966d084c05fa6e",
+    "5ed316f0806c4912",
+    "9819396444c5077a",
+    "9786b5dc8eceb304",
+    "b76d202a844f758e",
+    "7706809cba4e1105",
+    "2e2779266b6df06a",
+    "7fd045ac4f655f13",
+    "cc346d6a6d769850",
+    "352259b837301463",
+    "aecffa25fca6af44",
+    "7b47217a699fd9ca",
+    "99973826fcc02605",
+    "3a2293c837b31c16",
+    "1373bc34a7463ff9",
+    "e0fd41b793b66f5b",
+    "92fca2d5bd6bbf35",
+    "6a4db76d264486d5",
+    "6b6380f7378f86b1",
+    "a4587de86a0b665c",
+    "f3d03f8b5c024f19",
+    "3111d2213ea2c7e2"
+   ]
+  },
+  {
+   "date": "2013-08-20",
+   "future": false,
+   "celex": "01999R0659-20130820",
+   "acts": [
+    {
+     "id": "eu:celex:32013R0517:por",
+     "title": "REGULAMENTO (UE) N. o 517/2013 DO CONSELHO de 13 de maio de 2013",
+     "published": null,
+     "celex": "32013R0517"
+    },
+    {
+     "id": "eu:celex:32013R0734:por",
+     "title": "REGULAMENTO (UE) N. o 734/2013 DO CONSELHO de 22 de julho de 2013",
+     "published": null,
+     "celex": "32013R0734"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º — Definições",
+    "Altera Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação",
+    "Altera Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações",
+    "Altera Artigo 16.º — Utilização abusiva de um auxílio",
+    "Altera Artigo 20.º — Direitos das partes interessadas",
+    "Altera Artigo 26.º — Publicação das decisões",
+    "Altera Artigo 27.º — Medidas de execução",
+    "Altera Notas",
+    "Adita Artigo 5.º",
+    "Adita Pedido de informações apresentado ao Estado-Membro notificante",
+    "Adita Artigo 6.º-A — Pedido de informações apresentado a outras fontes",
+    "Adita Artigo 6.º-B — [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) Coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+    "Adita CAPÍTULO III-A",
+    "Adita PRAZOS DE PRESCRIÇÃO",
+    "Adita Artigo 15.º",
+    "Adita Prazo de prescrição para a recuperação dos auxílios",
+    "Adita Artigo 15.º-A — Prazo de prescrição para a imposição de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+    "Adita Artigo 15.º-B — Prazos de prescrição em matéria de execução de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+    "Adita CAPÍTULO VI-A",
+    "Adita INVESTIGAÇÕES POR SETORES ECONÓMICOS E POR INSTRUMENTOS DE AUXÍLIO",
+    "Adita Artigo 20.º-A — Investigações por setores económicos e por instrumentos de auxílio",
+    "Adita CAPÍTULO VII-A",
+    "Adita COOPERAÇÃO COM OS TRIBUNAIS NACIONAIS",
+    "Adita Artigo 23.º-A — Cooperação com os tribunais nacionais",
+    "Adita Artigo 25.º — Destinatário das decisões",
+    "Suprime Artigo 5.º — Pedido de informações",
+    "Suprime Artigo 15.º — Prazo de prescrição",
+    "Suprime Artigo 25.º — Destinatários das decisões"
+   ],
+   "fragments": [
+    "853f07b5f5d7e776",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "6da61d4bdd7e308a",
+    "f0f8c960bfdbce9b",
+    "f87871e1e65f9977",
+    "23163b25071a2842",
+    "7eeebd2d2b33f0fd",
+    "3917fa377149e394",
+    "67f1f45d47461b43",
+    "d0d7254fb9bdb447",
+    "b6698c2d86e89a6d",
+    "a5fae679f1d8c4c0",
+    "10672a9fdc927e2e",
+    "9b38359233288546",
+    "b6c06212a8213025",
+    "4b083d2f25e7b403",
+    "1e7a0903d2eed348",
+    "ae42f59d0920ac1c",
+    "8a8280001e0df1df",
+    "2cd80fead3fd735a",
+    "6fbfd568c8d44fe7",
+    "09988a7504a20203",
+    "cd321b5a85e471e6",
+    "b0342bc1df002810",
+    "1ddbd409c983cf32",
+    "b4ce144ac70cc8bb",
+    "62fadb04030b4f86",
+    "842c55b29a1de44a",
+    "4fe57ff30c79765c",
+    "1ecfc79da3f1ac7f",
+    "b82eed1fdf77acb1",
+    "ba506cccdc8c6b57",
+    "40ed6b62e188ac6f",
+    "08966d084c05fa6e",
+    "5ed316f0806c4912",
+    "9819396444c5077a",
+    "9786b5dc8eceb304",
+    "b76d202a844f758e",
+    "7706809cba4e1105",
+    "c3539646285fd0de",
+    "56bdb8ea2474f2a6",
+    "fb8a451a8c75c070",
+    "1fa12254a21a7cd1",
+    "7fd045ac4f655f13",
+    "cc346d6a6d769850",
+    "352259b837301463",
+    "aecffa25fca6af44",
+    "7b47217a699fd9ca",
+    "c2c26ecbc7b10859",
+    "9749b9068c616893",
+    "088a5c0245f3c3d6",
+    "99973826fcc02605",
+    "3a2293c837b31c16",
+    "1373bc34a7463ff9",
+    "6ec3c4bca770aa47",
+    "c44fedb3e204dc7f",
+    "ff762023aa7c19c4",
+    "6b6380f7378f86b1",
+    "a4587de86a0b665c",
+    "f3d03f8b5c024f19",
+    "b0abaaef252cf9ba"
+   ]
+  },
+  {
+   "date": "2015-10-14",
+   "future": false,
+   "celex": "01999R0659-20151014",
+   "acts": [],
+   "changes": [
+    "Altera preambulo",
+    "Suprime CAPÍTULO I",
+    "Suprime DISPOSIÇÕES GERAIS",
+    "Suprime Artigo 1.º — Definições",
+    "Suprime CAPÍTULO II",
+    "Suprime PROCESSO APLICÁVEL AOS AUXÍLIOS NOTIFICADOS",
+    "Suprime Artigo 2.º — Notificação de novo auxílio",
+    "Suprime Artigo 3.º — Cláusula suspensiva",
+    "Suprime Artigo 4.º — Análise preliminar da notificação e decisões da Comissão",
+    "Suprime Artigo 5.º",
+    "Suprime Pedido de informações apresentado ao Estado-Membro notificante",
+    "Suprime Artigo 6.º — Procedimento formal de investigação",
+    "Suprime Artigo 6.º-A — Pedido de informações apresentado a outras fontes",
+    "Suprime Artigo 6.º-B — [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) Coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+    "Suprime Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação",
+    "Suprime Artigo 8.º — Retirada da notificação",
+    "Suprime Artigo 9.º — Revogação de uma decisão",
+    "Suprime CAPÍTULO III",
+    "Suprime PROCESSO APLICÁVEL AOS AUXÍLIOS ILEGAIS",
+    "Suprime Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações",
+    "Suprime Artigo 11.º — Injunção de suspensão ou de recuperação provisória do auxílio",
+    "Suprime Artigo 12.º — Incumprimento da injunção",
+    "Suprime Artigo 13.º — Decisões da Comissão",
+    "Suprime Artigo 14.º — Recuperação do auxílio",
+    "Suprime CAPÍTULO III-A",
+    "Suprime PRAZOS DE PRESCRIÇÃO",
+    "Suprime Artigo 15.º",
+    "Suprime Prazo de prescrição para a recuperação dos auxílios",
+    "Suprime Artigo 15.º-A — Prazo de prescrição para a imposição de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+    "Suprime Artigo 15.º-B — Prazos de prescrição em matéria de execução de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+    "Suprime CAPÍTULO IV",
+    "Suprime PROCESSO APLICÁVEL AOS AUXÍLIOS UTILIZADOS DE FORMA ABUSIVA",
+    "Suprime Artigo 16.º — Utilização abusiva de um auxílio",
+    "Suprime CAPÍTULO V",
+    "Suprime PROCESSO APLICÁVEL AOS REGIMES DE AUXÍLIOS EXISTENTES",
+    "Suprime Artigo 17.º — Cooperação nos termos do n.º 1 do artigo 93.º do Tratado",
+    "Suprime Artigo 18.º — Proposta de medidas adequadas",
+    "Suprime Artigo 19.º — Consequências jurídicas de uma proposta de medidas adequadas",
+    "Suprime CAPÍTULO VI",
+    "Suprime PARTES INTERESSADAS",
+    "Suprime Artigo 20.º — Direitos das partes interessadas",
+    "Suprime CAPÍTULO VI-A",
+    "Suprime INVESTIGAÇÕES POR SETORES ECONÓMICOS E POR INSTRUMENTOS DE AUXÍLIO",
+    "Suprime Artigo 20.º-A — Investigações por setores económicos e por instrumentos de auxílio",
+    "Suprime CAPÍTULO VII",
+    "Suprime CONTROLO",
+    "Suprime Artigo 21.º — Relatórios anuais",
+    "Suprime Artigo 22.º — Controlo in loco",
+    "Suprime Artigo 23.º — Incumprimento de decisões e acórdãos",
+    "Suprime CAPÍTULO VII-A",
+    "Suprime COOPERAÇÃO COM OS TRIBUNAIS NACIONAIS",
+    "Suprime Artigo 23.º-A — Cooperação com os tribunais nacionais",
+    "Suprime CAPÍTULO VIII",
+    "Suprime DISPOSIÇÕES COMUNS",
+    "Suprime Artigo 24.º — Sigilo profissional",
+    "Suprime Artigo 25.º — Destinatário das decisões",
+    "Suprime Artigo 26.º — Publicação das decisões",
+    "Suprime Artigo 27.º — Medidas de execução",
+    "Suprime Artigo 28.º — Comité Consultivo",
+    "Suprime Artigo 29.º — Consulta ao comité",
+    "Suprime Artigo 30. — Entrada em vigor",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "8c31eddf8cfae373"
+   ]
+  }
+ ],
+ "fragments": {
+  "29c382b937f135a2": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "**Regulamento (CE) n° 659/1999 do Conselho de 22 de Março de 1999 que estabelece as regras de execução do artigo 93° do Tratado CE** *Jornal Oficial nº L 083 de 27/03/1999 p. 0001 - 0009*\n\nREGULAMENTO (CE) N.° 659/1999 DO CONSELHO de 22 de Março de 1999 que estabelece as regras de execução do artigo 93.° do Tratado CE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 94.°,\n\nTendo em conta a proposta da Comissão (1),\n\nTendo em conta o parecer do Parlamento Europeu (2),\n\nTendo em conta o parecer do Comité Económico e Social (3),\n\n(1) Considerando que, sem prejuízo de normas processuais específicas previstas em regulamentos para determinados sectores, o presente regulamento deverá ser aplicável aos auxílios em todos os sectores; que, para efeitos de aplicação dos artigos 77.° e 92.° do Tratado, a Comissão, por força do artigo 93.° do mesmo, tem competência específica para decidir da compatibilidade dos auxílios estatais com o mercado comum, quando procede ao exame dos auxílios existentes, quando toma decisões sobre auxílios novos ou alterados e quando adopta medidas relativas ao não cumprimento das suas decisões ou da obrigação de notificação;\n\n(2) Considerando que a Comissão, de acordo com a jurisprudência do Tribunal de Justiça das Comunidades Europeias, desenvolveu e estabeleceu uma prática constante relativamente à aplicação do artigo 93.° do Tratado e adoptou certas regras e princípios processuais em diversas comunicações; que é conveniente, para assegurar a tramitação adequada e a eficácia dos processos nos termos do artigo 93.° do Tratado, codificar e reforçar esta prática por meio de um regulamento;\n\n(3) Considerando que um regulamento processual de execução do artigo 93.° do Tratado contribuirá para aumentar a transparência e a segurança jurídica;\n\n(4) Considerando que, para garantir a segurança jurídica, é conveniente definir as circunstâncias em que se deve considerar a existência de auxílio; que a realização e o reforço do mercado interno é um processo gradual, que se reflecte na evolução permanente da política de auxílios estatais; que, na sequência desta evolução, determinadas medidas, que no momento da sua execução não constituíam auxílio, podem ter entretanto passado a constituí-lo;\n\n(5) Considerando que, nos termos do n.° 3 do artigo 93.° do Tratado, a Comissão deve ser notificada de todos os projectos relativos à instituição de novos auxílios, que não devem ser executados antes de a Comissão os ter autorizado;\n\n(6) Considerando que, nos termos do artigo 5.° do Tratado, os Estados-membros têm obrigação de cooperar com a Comissão e de prestar todas as informações necessárias para lhe permitir cumprir as obrigações que para ela decorrem do presente regulamento;\n\n(7) Considerando que o prazo em que a Comissão deve concluir a análise preliminar de um auxílio notificado deve ser fixado em dois meses a contar da data de recepção de uma notificação completa ou de uma declaração devidamente fundamentada do Estado-membro em causa, nos termos da qual este considera completa a notificação pelo facto de as informações adicionais solicitadas pela Comissão não estarem disponíveis ou já terem sido prestadas; que, por razões de segurança jurídica, este exame deve ser encerrado mediante decisão;\n\n(8) Considerando que, quando na sequência do exame prévio, a Comissão não puder considerar o auxílio compatível com o mercado comum, deve ser dado início a um processo formal de investigação que lhe permita recolher todas as informações necessárias para apreciar a compatibilidade do auxílio e que permita às partes interessadas apresentarem as suas observações; que os direitos das partes interessadas podem ser mais bem acautelados no quadro do processo formal de investigação previsto no n.° 2 do artigo 93.° do Tratado;\n\n(9) Considerando que, após ter ponderado as observações apresentadas pelas partes interessadas, a Comissão deve concluir o seu exame mediante uma decisão final, quando tiver dissipado as suas dúvidas; que se esse exame não se concluir no termo de um prazo de 18 meses a contar da abertura do processo é conveniente, que o Estado-membro interessado tenha a possibilidade de solicitar à Comissão uma decisão, que esta deverá tomar num prazo de dois meses;\n\n(10) Considerando que, para assegurar uma aplicação correcta e eficaz das regras relativas aos auxílios estatais, a Comissão deve ter a possibilidade de revogar uma decisão baseada em informações incorrectas;\n\n(11) Considerando que, a fim de assegurar a observância do artigo 93.° do Tratado e, em especial, a obrigação de notificação e a cláusula suspensiva estabelecidas no n.° 3 do artigo 93.°, a Comissão deve examinar todos os casos de auxílios ilegais; que, para garantir uma maior transparência e segurança jurídica deve ser estabelecido o procedimento a seguir nestes casos; que, no caso de um Estado-membro não respeitar a obrigação de notificação ou a cláusula suspensiva, a Comissão não deve estar vinculada por prazos;\n\n(12) Considerando que, nos casos de auxílios ilegais, a Comissão deve ter o direito de obter todas as informações necessárias que lhe permitam tomar uma decisão e, se necessário, restaurar imediatamente uma concorrência efectiva; que é, portanto, conveniente permitir à Comissão que adopte medidas provisórias dirigidas ao Estado-membro em causa; que essas medidas provisórias podem assumir a forma de injunções para prestação de informações, injunções de suspensão ou injunções de recuperação; que, em caso de incumprimento de uma injunção para prestação de informações, a Comissão deve poder decidir com base nas informações de que dispõe e, em caso de incumprimento de injunções de suspensão ou de recuperação, deve poder recorrer directamente ao Tribunal de Justiça nos termos do n.° 2, segundo parágrafo, do artigo 93.° do Tratado;\n\n(13) Considerando que, nos casos de auxílios ilegais incompatíveis com o mercado comum, deve ser restabelecida uma concorrência efectiva; que, para este efeito, é necessário que o auxílio, acrescido de juros, seja recuperado o mais rapidamente possível; que é conveniente que esta recuperação seja efectuada de acordo com o direito processual nacional; que a aplicação deste direito processual não deve, ao impedir uma execução imediata e efectiva da decisão da Comissão, obstar ao restabelecimento de uma concorrência efectiva; que, para obter esse resultado, os Estados-membros devem tomar todas as medidas necessárias para garantir a eficácia da decisão da Comissão;\n\n(14) Considerando que, por uma questão de segurança jurídica, é conveniente fixar um prazo de prescrição de dez anos para os auxílios ilegais, no termo do qual não possa ser ordenada qualquer recuperação;\n\n(15) Considerando que a utilização abusiva de um auxílio pode ter efeitos no funcionamento do mercado interno equivalentes aos de um auxílio ilegal e que lhe deve portanto ser aplicado o mesmo regime; que, ao contrário de um auxílio ilegal, um auxílio utilizado eventualmente de forma abusiva é um auxílio que foi previamente aprovado pela Comissão; que, consequentemente, a Comissão não deve poder recorrer a uma injunção de recuperação relativamente a um auxílio utilizado abusivamente;\n\n(16) Considerando que é conveniente definir todas as possibilidades a que os terceiros podem recorrer na defesa dos seus interesses nos procedimentos relativos a auxílios estatais;\n\n(17) Considerando que, nos termos do n.° 1 do artigo 93.° do Tratado, a Comissão tem obrigação de, em cooperação com os Estados-membros, manter os regimes de auxílios existentes em exame permanente; que, no interesse da transparência e da segurança jurídica, é conveniente especificar o grau da cooperação prevista naquele artigo;\n\n(18) Considerando que, a fim de assegurar a compatibilidade dos regimes de auxílios existentes com o mercado comum e nos termos do n.° 1 do artigo 93.° do Tratado, a Comissão deve propor medidas adequadas no caso de um regime de auxílio existente não ser ou ter deixado de ser compatível com o mercado comum e deve dar início ao procedimento previsto no n.° 2 do artigo 93.° do Tratado se o Estado-membro em causa não der execução às medidas propostas;\n\n(19) Considerando que, a fim de permitir à Comissão acompanhar de forma eficaz a observância das suas decisões e de facilitar a cooperação entre a Comissão e os Estados-membros, para efeitos do exame permanente dos regimes de auxílios existentes nos Estados-membros nos termos do n.° 1 do artigo 93.° do Tratado, é necessário introduzir uma obrigação geral de apresentação de relatórios relativamente a todos os regimes de auxílios existentes;\n\n(20) Considerando que, em caso de sérias dúvidas quanto à observância das suas decisões, a Comissão deve poder dispor de instrumentos adicionais que lhe permitam obter as informações necessárias para verificar se aqueles estão de facto a ser cumpridas; que, para este efeito, as visitas de controlo no local são um instrumento adequado e útil, especialmente em caso de utilização abusiva de auxílios; que a Comissão deve, por conseguinte, dispor de poderes para efectuar visitas de controlo ao local e poder contar com a colaboração das autoridades competentes dos Estados-membros quando uma empresa se oponha à visita;\n\n(21) Considerando que, em nome da transparência e da segurança jurídica, se devem tornar públicas as decisões da Comissão, mantendo simultaneamente o princípio de que os destinatários das decisões em matéria de auxílios estatais são os Estados-membros em causa; que é, por conseguinte, adequado publicar integral ou resumidamente todas as decisões susceptíveis de afectar os interesses das partes interessadas e facultar-lhes cópias, quando aquelas não tenham sido publicadas ou não o tenham sido integralmente; que, ao tornar públicas as suas decisões, a Comissão, deve respeitar as regras relativas ao sigilo profissional, nos termos do artigo 214.° do Tratado;\n\n(22) Considerando que a Comissão, em estreita ligação com os Estados-membros, deve poder adoptar medidas de execução que especifiquem determinados aspectos, nomeadamente de carácter processual, do presente regulamento; que, a fim de contribuir para a cooperação entre a Comissão e as autoridades competentes dos Estados-membros, é conveniente criar um Comité Consultivo em Matéria de Auxílios Estatais, que será consultado antes da adopção das medidas de execução pela Comissão ao abrigo do presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "1e6d6e0e375c13b5": {
+   "fragment_id": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — DISPOSIÇÕES GERAIS"
+  },
+  "2753ae04892d5e27": {
+   "fragment_id": "Artigo 1.° — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.° — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.° — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Auxílio», qualquer medida que satisfaça os critérios fixados no n.° 1 do artigo 92.° do Tratado;\n\nb) «Auxílios existentes»:\n\ni) Sem prejuízo do disposto nos artigos 144.° e 172.° do Acto de Adesão da Áustria, da Finlândia e da Suécia, qualquer auxílio que já existisse antes da entrada em vigor do Tratado no respectivo Estado-membro, isto é, os regimes de auxílio e os auxílios individuais em execução antes da data de entrada em vigor do Tratado e que continuem a ser aplicáveis depois dessa data,\n\nii) O auxílio autorizado, isto é, os regimes de auxílio e os auxílios individuais que tenham sido autorizados pela Comissão ou pelo Conselho,\n\niii) Os auxílios que se considere terem sido autorizados nos termos do n.° 6 do artigo 4.° do presente regulamento ou anteriormente a este regulamento mas segundo esse procedimento,\n\niv) Os auxílios considerados existentes nos termos do artigo 15.°,\n\nv) Os auxílios considerados existentes por se poder comprovar que não constituíam auxílios no momento da sua execução, tendo-se subsequentemente transformado em auxílios devido à evolução do mercado comum e sem terem sido alterados pelo Estado-membro. Quando determinadas medidas se transformem em auxílios na sequência da liberalização de uma actividade provocada pela legislação comunitária, essas medidas não serão consideradas auxílios existentes depois da data fixada para a liberalização.\n\nc) «Novo auxílio», quaisquer auxílios, isto é, regimes de auxílio e auxílios individuais, que não sejam considerados auxílios existentes, incluindo as alterações a um auxílio existente;\n\nd) «Regime de auxílios», qualquer acto com base no qual, sem que sejam necessárias outras medidas de execução, podem ser concedidos auxílios individuais a empresas nele definidas de forma geral e abstracta e qualquer diploma com base no qual pode ser concedido a uma ou mais empresas um auxílio não ligado a um projecto específico, por um período de tempo indefinido e/ou com um montante indefinido;\n\ne) «Auxílio individual», um auxílio que não seja concedido com base num regime de auxílios ou que seja concedido com base num regime de auxílios, mas que deva ser notificado;\n\nf) «Auxílio ilegal», um novo auxílio que executado em violação do n.° 3 do artigo 93.° do Tratado;\n\ng) «Auxílio utilizado de forma abusiva», um auxílio utilizado pelo beneficiário em violação de uma decisão adoptada nos termos do n.° 3 do artigo 4.° ou dos n.os 3 ou 4 do artigo 7.° do presente regulamento;\n\nh) «Parte interessada», qualquer Estado-membro ou qualquer pessoa, empresa ou associação de empresas cujos interesses possam ser afectados pela concessão de um auxílio, em especial o beneficiário do auxílio, as empresas concorrentes e as associações sectoriais."
+  },
+  "7f27e4a6e48a5ca3": {
+   "fragment_id": "CAPÍTULO II — PROCESSO APLICÁVEL AOS AUXÍLIOS NOTIFICADOS",
+   "type": "divisao",
+   "heading": "CAPÍTULO II — PROCESSO APLICÁVEL AOS AUXÍLIOS NOTIFICADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — PROCESSO APLICÁVEL AOS AUXÍLIOS NOTIFICADOS"
+  },
+  "b611444186a241c7": {
+   "fragment_id": "Artigo 2.° — Notificação de novo auxílio",
+   "type": "artigo",
+   "heading": "Artigo 2.° — Notificação de novo auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.° — Notificação de novo auxílio\n\n1. Salvo disposição em contrário dos regulamentos adoptados nos termos do artigo 94.° ou de outras disposições pertinentes do Tratado, a Comissão deve ser notificada a tempo pelo Estado-membro em causa de todos os projectos de concessão de novos auxílios. A Comissão informará imediatamente o Estado-membro da recepção da notificação.\n\n2. Na notificação, o Estado-membro em causa deve fornecer todas as informações necessárias para que a Comissão possa tomar uma decisão nos termos dos artigos 4.° e 7.°, adiante designada «notificação completa»."
+  },
+  "dd757dee113ce30f": {
+   "fragment_id": "Artigo 3.° — Cláusula suspensiva",
+   "type": "artigo",
+   "heading": "Artigo 3.° — Cláusula suspensiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.° — Cláusula suspensiva\n\nOs auxílios a notificar nos termos do n.° 1 do artigo 2.° não serão executados antes de a Comissão ter tomado, ou de se poder considerar que tomou, uma decisão que os autorize."
+  },
+  "382c81d3b60b0201": {
+   "fragment_id": "Artigo 4.° — Análise preliminar da notificação e decisões da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 4.° — Análise preliminar da notificação e decisões da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.° — Análise preliminar da notificação e decisões da Comissão\n\n1. A Comissão procederá à análise da notificação imediatamente após a sua recepção. Sem prejuízo do disposto no artigo 8.°, a Comissão tomará uma decisão nos termos dos n.os 2, 3 ou 4 do presente artigo.\n\n2. Quando, após análise preliminar, a Comissão considerar que a medida notificada não constitui um auxílio, fará constar esse facto por via de decisão.\n\n3. Quando, após a análise preliminar, a Comissão considerar que não há dúvidas quanto à compatibilidade da medida notificada com o mercado comum, na medida em que está abrangida pelo n.° 1 do artigo 92.° do Tratado, decidirá que essa medida é compatível com o mercado comum, adiante designada «decisão de não levantar objecções». A decisão referirá expressamente a derrogação do Tratado que foi aplicada.\n\n4. Quando, após a análise preliminar, a Comissão considerar que a medida notificada suscita dúvidas quanto à sua compatibilidade com o mercado comum, decidirá dar início ao procedimento formal de investigação nos termos do n.° 2 do artigo 93.° do Tratado, adiante designada «decisão de início de um procedimento formal de investigação».\n\n5. As decisões previstas nos n.os 2, 3 e 4 devem ser tomadas no prazo de dois meses. Esse prazo começa a correr no dia seguinte ao da recepção de uma notificação completa. A notificação considerar-se-á completa se, no prazo de dois meses a contar da sua recepção ou da recepção da qualquer informação adicional, a Comissão não solicitar mais nenhuma informação. O prazo pode ser alargado com o acordo da Comissão e do Estado-membro em causa. Se for caso disso, a Comissão poderá fixar prazos mais curtos.\n\n6. Quando a Comissão não tomar uma decisão nos termos dos n.os 2, 3 ou 4 no prazo fixado no n.° 5, considerar-se-á que o auxílio foi autorizado pela Comissão. O Estado-membro em causa pode então executar as medidas em questão após informação prévia à Comissão, excepto se esta tomar uma decisão nos termos do presente artigo no prazo de 15 dias úteis a contar da recepção da informação."
+  },
+  "e4c184b43d990380": {
+   "fragment_id": "Artigo 5.° — Pedido de informações",
+   "type": "artigo",
+   "heading": "Artigo 5.° — Pedido de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.° — Pedido de informações\n\n1. Quando a Comissão considerar que as informações fornecidas pelo Estado-membro em causa relativamente a uma medida notificada nos termos do artigo 2.° são incompletas, solicitará as informações adicionais necessárias. Quando um Estado-membro responder a este pedido, a Comissão informará esse Estado-membro da recepção da resposta.\n\n2. Quando o Estado-membro em causa não prestar as informações solicitadas no prazo fixado pela Comissão ou as prestar de forma incompleta, a Comissão enviará uma carta de insistência, concedendo um prazo adicional adequado para a prestação das informações.\n\n3. Se as informações solicitadas não forem fornecidas no prazo fixado, considerar-se-á que a notificação foi retirada, salvo se esse prazo tiver sido alargado antes do seu termo por acordo entre a Comissão e o Estado-membro em causa ou se este informar a Comissão, antes do termo do prazo fixado e por uma declaração devidamente fundamentada, que considera a notificação completa pelo facto de as informações solicitadas não existirem ou já terem sido fornecidas. Neste caso, o prazo referido no n.° 5 do artigo 4.° começará a correr no dia seguinte à data de recepção da declaração. Se se considerar que a notificação foi retirada, a Comissão informará o Estado-membro desse facto."
+  },
+  "b7395439d0c70d52": {
+   "fragment_id": "Artigo 6.° — Procedimento formal de investigação",
+   "type": "artigo",
+   "heading": "Artigo 6.° — Procedimento formal de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.° — Procedimento formal de investigação\n\n1. A decisão de dar início a um procedimento formal de investigação resumirá os elementos pertinentes em matéria de facto e de direito, incluirá uma apreciação preliminar da Comissão quanto à natureza de auxílio da medida proposta e indicará os elementos que suscitam dúvidas quanto à sua compatibilidade com o mercado comum. A decisão incluirá um convite ao Estado-membro em causa e a outras partes interessadas para apresentarem as suas observações num prazo fixado, normalmente não superior a um mês. A Comissão pode prorrogar esse prazo em casos devidamente justificados.\n\n2. As observações recebidas serão transmitidas ao Estado-membro em causa. Se uma parte interessada o solicitar com fundamento em eventuais prejuízos, a sua identidade não será revelada ao Estado-membro em causa. O Estado-membro em causa pode responder às observações apresentadas num prazo estabelecido, normalmente não superior a um mês. A Comissão pode prorrogar esse prazo em casos devidamente justificados."
+  },
+  "1dbb6837be3d3130": {
+   "fragment_id": "Artigo 7.° — Decisão da Comissão de encerramento do procedimento formal de investigação",
+   "type": "artigo",
+   "heading": "Artigo 7.° — Decisão da Comissão de encerramento do procedimento formal de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.° — Decisão da Comissão de encerramento do procedimento formal de investigação\n\n1. Sem prejuízo do disposto no artigo 8.°, o procedimento formal de investigação será encerrado por via de decisão, nos termos dos n.os 2 a 5 do presente artigo.\n\n2. Quando a Comissão verificar que, eventualmente após alterações pelo Estado-membro em causa, uma medida notificada não constitui um auxílio, fará constar esse facto por via de decisão.\n\n3. Quando a Comissão considerar que, eventualmente após alterações pelo Estado-membro em causa, deixaram de existir dúvidas quanto à compatibilidade de uma medida notificada com o mercado comum, decidirá que o auxílio é compatível com o mercado comum, adiante designada «decisão positiva». A decisão referirá expressamente a derrogação do Tratado que foi aplicada.\n\n4. A Comissão pode acompanhar a sua decisão positiva de condições que lhe permitam considerar o auxílio compatível com o mercado comum e de obrigações que lhe permitam controlar o cumprimento da decisão, adiante designada «decisão condicional».\n\n5. Quando a Comissão considerar que o auxílio notificado é incompatível com o mercado comum, decidirá que o mesmo não pode ser executado, adiante designada «decisão negativa».\n\n6. As decisões nos termos dos n.os 2, 3, 4 e 5 devem ser tomadas quando tenham sido dissipadas as dúvidas referidas no n.° 4 do artigo 4.° Na medida do possível, a Comissão esforçar-se-á por adoptar uma decisão no prazo de 18 meses a contar da data de início do procedimento. Este prazo pode ser prorrogado por comum acordo entre a Comissão e o Estado-membro em causa.\n\n6. Decorrido o prazo previsto no n.° 6, e desde que o Estado-membro em causa o solicite, a Comissão tomará uma decisão no prazo de dois meses com base nas informações disponíveis. Se necessário e se as informações prestadas não forem suficientes para estabelecer a compatibilidade, a Comissão tomará uma decisão negativa."
+  },
+  "ab93d9d32deac186": {
+   "fragment_id": "Artigo 8.° — Retirada da notificação",
+   "type": "artigo",
+   "heading": "Artigo 8.° — Retirada da notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.° — Retirada da notificação\n\n1. O Estado-membro em causa pode retirar uma notificação na acepção do artigo 2.°, em tempo útil antes de a Comissão ter tomado uma decisão nos termos do artigo 4.° ou 7.°\n\n2. Nos casos em que tenha dado início ao procedimento formal de investigação, a Comissão encerrará o processo."
+  },
+  "e5298ea62498a93c": {
+   "fragment_id": "Artigo 9.° — Revogação de uma decisão",
+   "type": "artigo",
+   "heading": "Artigo 9.° — Revogação de uma decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.° — Revogação de uma decisão\n\nA Comissão pode revogar uma decisão tomada nos termos dos n.os 2 ou 3 do artigo 4.° ou dos n.os 2, 3 e 4 do artigo 7.°, depois de ter dado ao Estado-membro em questão a possibilidade de apresentar as suas observações, se para tomar essa decisão tiver utilizado, como factor determinante, informações incorrectas prestadas durante o procedimento. Antes de revogar uma decisão e de tomar uma nova decisão, a Comissão dará início ao procedimento formal de investigação nos termos do n.° 4 do artigo 4.° Os artigos 6.°, 7.° e 10.°, o n.° 1 do artigo 11.° e os artigos 13.°, 14.° e 15.° são aplicáveis mutatis mutandis."
+  },
+  "8c026c87f7c79fe5": {
+   "fragment_id": "CAPÍTULO III — PROCESSO APLICÁVEL AOS AUXÍLIOS ILEGAIS",
+   "type": "divisao",
+   "heading": "CAPÍTULO III — PROCESSO APLICÁVEL AOS AUXÍLIOS ILEGAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — PROCESSO APLICÁVEL AOS AUXÍLIOS ILEGAIS"
+  },
+  "617a2505efa27deb": {
+   "fragment_id": "Artigo 10.° — Exame, pedido de informações e injunção para prestação de informações",
+   "type": "artigo",
+   "heading": "Artigo 10.° — Exame, pedido de informações e injunção para prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.° — Exame, pedido de informações e injunção para prestação de informações\n\n1. Quando a Comissão dispuser de informações relativas a um auxílio alegadamente ilegal, qualquer que seja a fonte, examiná-las-á imediatamente.\n\n2. Se necessário, a Comissão pedirá informações ao Estado-membro em causa. Será aplicável, mutatis mutandis, o disposto no n.° 2 do artigo 2.° e nos n.os 1 e 2 do artigo 5.°\n\n3. Quando, não obstante uma carta de insistência enviada nos termos do n.° 2 do artigo 5.°, o Estado-membro em causa não fornecer as informações pedidas no prazo fixado pela Comissão ou fornecer informações incompletas, a Comissão ordenará, por via de decisão, que lhe sejam fornecidas aquelas informações, adiante designada «injunção para prestação de informações». A decisão deve especificar quais as informações requeridas e fixar um prazo adequado para a prestação das mesmas."
+  },
+  "df07adc50c5db0aa": {
+   "fragment_id": "Artigo 11.° — Injunção de suspensão ou de recuperação provisória do auxílio",
+   "type": "artigo",
+   "heading": "Artigo 11.° — Injunção de suspensão ou de recuperação provisória do auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.° — Injunção de suspensão ou de recuperação provisória do auxílio\n\n1. Depois de ter dado ao Estado-membro em causa a possibilidade de apresentar as suas observações, a Comissão pode tomar uma decisão em que ordena ao Estado-membro a suspensão de qualquer auxílio ilegal até que a Comissão tome uma decisão quanto à sua compatibilidade com o mercado comum, adiante designada «injunção de suspensão».\n\n2. Depois de ter dado ao Estado-membro em causa a possibilidade de apresentar as suas observações, a Comissão pode tomar uma decisão em que ordena ao Estado-membro que recupere provisoriamente qualquer auxílio ilegal até que a Comissão tome uma decisão quanto à sua compatibilidade com o mercado comum, adiante designada «injunção de recuperação», desde que se encontrem preenchidos os seguintes critérios:\n\n- de acordo com uma prática estabelecida, não haver dúvidas sobre o carácter de auxílio da medida em causa,\n\n- haver urgência na acção,\n\n- haver sério risco de prejuízos substanciais e irreparáveis a um concorrente.\n\nA recuperação deve efectuar-se nos termos dos n.os 2 e 3 do artigo 14.° Após a recuperação efectiva do auxílio, a Comissão tomará uma decisão dentro dos prazos aplicáveis ao auxílio notificado.\n\nA Comissão pode autorizar o Estado-membro a acompanhar o reembolso do auxílio de um pagamento de auxílio de emergência à empresa em questão.\n\nO disposto no presente número é aplicável apenas aos auxílios ilegais executados após a entrada em vigor do presente regulamento."
+  },
+  "afc1299e3e791d51": {
+   "fragment_id": "Artigo 12.° — Incumprimento da injunção",
+   "type": "artigo",
+   "heading": "Artigo 12.° — Incumprimento da injunção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.° — Incumprimento da injunção\n\nSe um Estado-membro não der cumprimento a uma injunção de suspensão ou de recuperação, a Comissão pode, ao mesmo tempo que procede ao exame de fundo do caso com base nas informações disponíveis, recorrer directamente ao Tribunal de Justiça das Comunidades Europeias para que este declare que esse incumprimento constitui uma violação do Tratado."
+  },
+  "73c883af33fe3de2": {
+   "fragment_id": "Artigo 13.° — Decisões da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 13.° — Decisões da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.° — Decisões da Comissão\n\n1. O exame de um auxílio eventualmente ilegal conduz a uma decisão nos termos dos n.os 2, 3 ou 4 do artigo 4.° Em caso de decisão de início de um procedimento formal de investigação, este é encerrado por uma decisão, nos termos do artigo 7.° Em caso de incumprimento de uma injunção para prestação de informações, a decisão será tomada com base nas informações disponíveis.\n\n2. Em caso de um auxílio eventualmente ilegal e sem prejuízo do disposto no n.° 2 do artigo 11.°, a Comissão não está vinculada pelo prazo estabelecido no n.° 5 do artigo 4.° e nos n.os 6 e 7 do artigo 7.°\n\n3. O artigo 9.° é aplicável mutatis mutandis."
+  },
+  "8af98f55e5df9afa": {
+   "fragment_id": "Artigo 14.° — Recuperação do auxílio",
+   "type": "artigo",
+   "heading": "Artigo 14.° — Recuperação do auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.° — Recuperação do auxílio\n\n1. Nas decisões negativas relativas a auxílios ilegais, a Comissão decidirá que o Estado-membro em causa deve tomar todas as medidas necessárias para recuperar o auxílio do beneficiário, adiante designada «decisão de recuperação». A Comissão não deve exigir a recuperação do auxílio se tal for contrário a um princípio geral de direito comunitário.\n\n2. O auxílio a recuperar mediante uma decisão de recuperação incluirá juros a uma taxa adequada fixada pela Comissão. Os juros são devidos a partir da data em que o auxílio ilegal foi colocado à disposição do beneficiário e até ao momento da sua recuperação.\n\n3. Sem prejuízo de uma decisão do Tribunal de Justiça nos termos do artigo 185.° do Tratado, a recuperação será efectuada imediatamente e segundo as formalidades do direito nacional do Estado-membro em causa, desde que estas permitam uma execução imediata e efectiva da decisão da Comissão. Para o efeito e na eventualidade de um processo nos tribunais nacionais, os Estados-membros interessados tomarão as medidas necessárias previstas no seu sistema jurídico, incluindo medidas provisórias, sem prejuízo da legislação comunitária."
+  },
+  "97b2722d645f34cb": {
+   "fragment_id": "Artigo 15.° — Prazo de prescrição",
+   "type": "artigo",
+   "heading": "Artigo 15.° — Prazo de prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.° — Prazo de prescrição\n\n1. Os poderes da Comissão para recuperar o auxílio ficam sujeitos a um prazo de prescrição de dez anos.\n\n2. O prazo de prescrição começa a contar na data em que o auxílio ilegal tenha sido concedido ao beneficiário, quer como auxílio individual, quer como auxílio ao abrigo de um regime de auxílio. O prazo de prescrição é interrompido por quaisquer actos relativos ao auxílio ilegal praticados pela Comissão ou por um Estado-membro a pedido desta. Cada interrupção inicia uma nova contagem de prazo. O prazo de prescrição será suspenso enquanto a decisão da Comissão for objecto de um processo no Tribunal de Justiça das Comunidades Europeias.\n\n3. Qualquer auxílio cujo prazo de prescrição tenha caducado será considerado um auxílio existente."
+  },
+  "f74a03c909d457bb": {
+   "fragment_id": "CAPÍTULO IV — PROCESSO APLICÁVEL AOS AUXÍLIOS UTILIZADOS DE FORMA ABUSIVA",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV — PROCESSO APLICÁVEL AOS AUXÍLIOS UTILIZADOS DE FORMA ABUSIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — PROCESSO APLICÁVEL AOS AUXÍLIOS UTILIZADOS DE FORMA ABUSIVA"
+  },
+  "4c245ea1d27b61a6": {
+   "fragment_id": "Artigo 16.° — Utilização abusiva de um auxílio",
+   "type": "artigo",
+   "heading": "Artigo 16.° — Utilização abusiva de um auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.° — Utilização abusiva de um auxílio\n\nSem prejuízo do disposto no artigo 23.°, a Comissão pode, em caso de utilização abusiva de um auxílio, dar início a um procedimento formal de investigação nos termos do n.° 4 do artigo 4.° Os artigos 6.°, 7.°, 9.° e 10.°, o n.° 1 do artigo 11.° e os artigos 12.°, 13.°, 14.° e 15.° são aplicáveis mutatis mutandis."
+  },
+  "99d23258c3df0c37": {
+   "fragment_id": "CAPÍTULO V — PROCESSO APLICÁVEL AOS REGIMES DE AUXÍLIOS EXISTENTES",
+   "type": "divisao",
+   "heading": "CAPÍTULO V — PROCESSO APLICÁVEL AOS REGIMES DE AUXÍLIOS EXISTENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — PROCESSO APLICÁVEL AOS REGIMES DE AUXÍLIOS EXISTENTES"
+  },
+  "e83254565434845f": {
+   "fragment_id": "Artigo 17.° — Cooperação nos termos do n.° 1 do artigo 93.° do Tratado",
+   "type": "artigo",
+   "heading": "Artigo 17.° — Cooperação nos termos do n.° 1 do artigo 93.° do Tratado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.° — Cooperação nos termos do n.° 1 do artigo 93.° do Tratado\n\n1. A Comissão obterá do Estado-membro em causa todas as informações necessárias para, em cooperação com o Estado-membro, proceder ao exame dos regimes de auxílio existentes, nos termos do n.° 1 do artigo 93.° do Tratado.\n\n2. Quando a Comissão considerar que um regime de auxílio existente não é ou deixou de ser compatível com o mercado comum, informará o Estado-membro em causa da sua conclusão preliminar e dar-lhe-á a possibilidade de apresentar as suas observações no prazo de um mês. A Comissão pode prorrogar este prazo em casos devidamente justificados."
+  },
+  "6bdfe8826f560766": {
+   "fragment_id": "Artigo 18.° — Proposta de medidas adequadas",
+   "type": "artigo",
+   "heading": "Artigo 18.° — Proposta de medidas adequadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.° — Proposta de medidas adequadas\n\nQuando, perante as informações prestadas pelo Estado-membro nos termos do artigo 17.°, a Comissão concluir que um regime de auxílios existente não é ou deixou de ser compatível com o mercado comum, formulará uma recomendação propondo medidas adequadas ao Estado-membro em causa. Esta recomendação pode consistir especialmente na:\n\na) Alteração do conteúdo de regime de auxílios; ou\n\nb) Introdução de requisitos processuais; ou\n\nc) Supressão do regime de auxílios."
+  },
+  "415333ff86f753ec": {
+   "fragment_id": "Artigo 19.° — Consequências jurídicas de uma proposta de medidas adequadas",
+   "type": "artigo",
+   "heading": "Artigo 19.° — Consequências jurídicas de uma proposta de medidas adequadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.° — Consequências jurídicas de uma proposta de medidas adequadas\n\n1. Quando o Estado-membro em causa aceitar as medidas propostas e disso informar a Comissão, esta registará esse facto e informará o Estado-membro. Por força dessa aceitação, o Estado-membro fica obrigado a aplicar as medidas adequadas.\n\n2. Quando o Estado-membro em causa não aceitar as medidas propostas e a Comissão, tendo em conta os argumentos do Estado-membro, continuar a considerar que essas medidas são necessárias, dará início a um procedimento nos termos do n.° 4 do artigo 4.°. Os artigos 6.°, 7.° e 9.° são aplicáveis, mutatis mutandis."
+  },
+  "b1a5408fb6aa21fd": {
+   "fragment_id": "CAPÍTULO VI — PARTES INTERESSADAS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI — PARTES INTERESSADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — PARTES INTERESSADAS"
+  },
+  "52049907e00ab726": {
+   "fragment_id": "Artigo 20.° — Direitos das partes interessadas",
+   "type": "artigo",
+   "heading": "Artigo 20.° — Direitos das partes interessadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.° — Direitos das partes interessadas\n\n1. Qualquer parte interessada pode apresentar observações nos termos do artigo 6.° na sequência da decisão da Comissão de iniciar o procedimento formal de investigação. Todas as partes interessadas que tenham apresentado observações e todos os beneficiários de um auxílio individual receberão cópia da decisão da Comissão nos termos do artigo 7.°\n\n2. Qualquer parte interessada pode informar a Comissão sobre qualquer alegado auxílio ilegal e qualquer utilização abusiva de um auxílio. Quando a Comissão considerar que, com base nas informações de que dispõe, não há motivos suficientes para analisar o caso, informará a parte interessada desse facto. Quando a Comissão tomar uma decisão sobre um caso que diga respeito às informações fornecidas, enviará cópia dessa decisão à parte interessada.\n\n3. A seu pedido, qualquer parte interessada obterá cópia de qualquer decisão nos termos dos artigos 4.° e 7.°, do n.° 3 do artigo 10.° e do artigo 11.°"
+  },
+  "c54436a68886d69b": {
+   "fragment_id": "CAPÍTULO VII — CONTROLO",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII — CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — CONTROLO"
+  },
+  "829ea85bcaf4cf56": {
+   "fragment_id": "Artigo 21.° — Relatórios anuais",
+   "type": "artigo",
+   "heading": "Artigo 21.° — Relatórios anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.° — Relatórios anuais\n\n1. Os Estados-membros apresentarão à Comissão relatórios anuais sobre todos os regimes de auxílio existentes em relação aos quais não foram impostas obrigações específicas em matéria de apresentação de relatórios através de uma decisão condicional nos termos do n.° 4 do artigo 7.°\n\n2. Se, após uma carta de insistência, o Estado-membro não apresentar um relatório anual, a Comissão pode actuar nos termos do artigo 18.° relativamente ao regime de auxílios em causa."
+  },
+  "64b9b649e2da87f8": {
+   "fragment_id": "Artigo 22.° — Controlo in loco",
+   "type": "artigo",
+   "heading": "Artigo 22.° — Controlo in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.° — Controlo in loco\n\n1. Quando a Comissão tiver sérias dúvidas quanto ao cumprimento de decisões de não levantar objecções, de decisões positivas ou de decisões condicionais relativas a auxílios individuais, o Estado-membro em causa, depois de ter podido apresentar as suas observações, permitirá que a Comissão efectue visitas de controlo in loco.\n\n2. Os funcionários incumbidos pela Comissão de verificarem o cumprimento da decisão em causa serão mandatados para:\n\na) Ter acesso às instalações e terrenos da empresa em causa;\n\nb) Pedir in loco explicações orais;\n\nc) Examinar a escrita e outra documentação e tirar ou pedir cópias.\n\nSe necessário, a Comissão pode ser assistida por peritos independentes.\n\n3. A Comissão informará o Estado-membro em causa em tempo útil e por escrito da visita de controlo in loco e da identidade dos funcionários e peritos mandatados. Se o Estado-membro em causa tiver objecções devidamente justificadas relativamente à escolha dos peritos pela Comissão, estes devem ser nomeados com o acordo do Estado-membro. Os funcionários da Comissão e os peritos mandatados para efectuarem o controlo in loco apresentarão um mandado escrito que indicará o objecto e a finalidade da diligência.\n\n4. Podem assistir à visita de controlo in loco agentes mandatados pelo Estado-membro em cujo território se efectua esta diligência.\n\n5. A Comissão fornecerá ao Estado-membro uma cópia de todos os relatórios elaborados na sequência de uma visita de controlo.\n\n6. Quando uma empresa se opuser a um controlo in loco ordenada por decisão da Comissão nos termos do presente artigo, o Estado-membro em causa prestará aos agentes e peritos mandatados pela Comissão a assistência necessária para lhes permitir executar a visita de verificação. Para o efeito, os Estados-membros, após consulta à Comissão, tomarão as medidas necessárias no prazo de 18 meses a contar da data de entrada em vigor do presente regulamento."
+  },
+  "04ed889934b0ca9d": {
+   "fragment_id": "Artigo 23.° — Incumprimento de decisões e acórdãos",
+   "type": "artigo",
+   "heading": "Artigo 23.° — Incumprimento de decisões e acórdãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.° — Incumprimento de decisões e acórdãos\n\n1. Quando o Estado-membro em causa não der cumprimento às decisões condicionais ou negativas, em especial nos casos previstos no artigo 14.°, a Comissão pode recorrer directamente ao Tribunal de Justiça das Comunidades Europeias nos termos do n.° 2 do artigo 93.° do Tratado.\n\n2. Se a Comissão considerar que o Estado-membro em causa não deu cumprimento a um acórdão do Tribunal de Justiça das Comunidades Europeias, pode actuar nos termos do artigo 171.° do Tratado."
+  },
+  "52326994afe2a983": {
+   "fragment_id": "CAPÍTULO VIII — DISPOSIÇÕES COMUNS",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII — DISPOSIÇÕES COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — DISPOSIÇÕES COMUNS"
+  },
+  "2ad5dd814ad0e2b0": {
+   "fragment_id": "Artigo 24.° — Sigilo profissional",
+   "type": "artigo",
+   "heading": "Artigo 24.° — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.° — Sigilo profissional\n\nA Comissão e os Estados-membros, bem como os seus funcionários e outros agentes, incluindo os peritos independentes nomeados pela Comissão, não podem divulgar as informações abrangidas pelo sigilo profissional obtidas em aplicação do presente regulamento."
+  },
+  "6ee46a769ad3974c": {
+   "fragment_id": "Artigo 25.° — Destinatários das decisões",
+   "type": "artigo",
+   "heading": "Artigo 25.° — Destinatários das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.° — Destinatários das decisões\n\nAs decisões tomadas nos termos dos capítulos II, III, IV, V e VII são dirigidas ao Estado-membro interessado. A Comissão notificará imediatamente destas decisões o Estado-membro em causa e dar-lhe-á oportunidade de indicar quais as informações que considera abrangidas pelo sigilo profissional."
+  },
+  "dbcdfa1d13906a03": {
+   "fragment_id": "Artigo 26.° — Publicação das decisões",
+   "type": "artigo",
+   "heading": "Artigo 26.° — Publicação das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.° — Publicação das decisões\n\n1. A Comissão publicará no Jornal Oficial das Comunidades Europeias um resumo das decisões que tomar nos termos dos n.os 2 e 3 do artigo 4.° e do artigo 18.°, conjugado com o n.° 1 do artigo 19.°. Essa comunicação mencionará a possibilidade de se obter um exemplar da decisão na versão ou versões linguísticas que fazem fé.\n\n2. A Comissão publicará no Jornal Oficial das Comunidades Europeias as decisões que tomar nos termos do n.° 4 do artigo 4.° na versão linguística que faz fé. Nos Jornais Oficiais publicados nas línguas que não sejam a da versão linguística que faz fé, a versão linguística que faz fé será acompanhada de um resumo completo na língua desse Jornal Oficial.\n\n3. A Comissão publicará no Jornal Oficial das Comunidades Europeias as decisões que tomar nos termos do artigo 7.°\n\n4. Se for aplicável o disposto no n.° 6 do artigo 4.° ou no n.° 2 do artigo 8.°, será publicada uma comunicação sucinta no Jornal Oficial das Comunidades Europeias.\n\n5. O Conselho, deliberando por unanimidade, pode decidir publicar no Jornal Oficial das Comunidades Europeias as decisões tomadas nos termos do n.° 2, terceiro parágrafo, do artigo 93.° do Tratado."
+  },
+  "f97be3eed9d97e53": {
+   "fragment_id": "Artigo 27.° — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 27.° — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.° — Medidas de execução\n\nA Comissão pode, nos termos do artigo 29.°, adoptar medidas de execução respeitantes à forma, conteúdo e outros aspectos das notificações e dos relatórios anuais, pormenores e cálculo dos prazos e à taxa de juro referida no n.° 2 do artigo 14.°"
+  },
+  "a4c49495a5dad3f7": {
+   "fragment_id": "Artigo 28.° — Comité Consultivo",
+   "type": "artigo",
+   "heading": "Artigo 28.° — Comité Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.° — Comité Consultivo\n\nSerá criado um Comité Consultivo em Matéria de Auxílios Estatais, adiante designado comité, composto por representantes dos Estados-membros e presidido pelo representante da Comissão."
+  },
+  "878ab86ebdbb434f": {
+   "fragment_id": "Artigo 29.° — Consulta ao comité",
+   "type": "artigo",
+   "heading": "Artigo 29.° — Consulta ao comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.° — Consulta ao comité\n\n1. A Comissão consultará o comité antes de adoptar qualquer medida de execução nos termos do artigo 27.°\n\n2. A consulta ao Comité far-se-á em reunião convocada pela Comissão. Os projectos e documentos a analisar serão anexos à convocatória. A reunião realizar-se-á num prazo não inferior a dois meses a contar da data de envio da convocatória. Este prazo poderá ser reduzido em caso de urgência.\n\n3. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O Comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão, se necessário procedendo a votação.\n\n4. O parecer deve ser exarado em acta; além disso, cada Estado-membro tem o direito de solicitar que a sua posição conste da acta. O comité pode recomendar a publicação do seu parecer no Jornal Oficial.\n\n5. A Comissão tomará na melhor conta o parecer emitido pelo comité. O comité será por ela informado do modo como esse parecer foi tomado em consideração."
+  },
+  "d967c6dfb05a9f09": {
+   "fragment_id": "Artigo 30.° — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 30.° — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.° — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte à sua publicação no Jornal Oficial das Comunidades Europeias.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-membros.\n\nFeito em Bruxelas, em 22 de Março de 1999.\n\nPelo Conselho\n\nO Presidente\n\nG. VERHEUGEN\n\n(1) JO C 116 de 16. 4. 1998, p. 13.\n\n(2) Parecer emitido em 14 de Janeiro de 1999 (ainda não publicado no Jornal Oficial).\n\n(3) JO C 284 de 14. 9. 1998, p. 10."
+  },
+  "6fced044e86639f1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Março de 1999\n\nque estabelece as regras de execução do artigo 93.º do Tratado CE\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 94.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/2b9c3b6f-b405-4b65-82c0-6555f4b09191.0018.03/DOC_1#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/2b9c3b6f-b405-4b65-82c0-6555f4b09191.0018.03/DOC_1#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/2b9c3b6f-b405-4b65-82c0-6555f4b09191.0018.03/DOC_1#E0003)),\n\n(1) Considerando que, sem prejuízo de normas processuais específicas previstas em regulamentos para determinados sectores, o presente regulamento deverá ser aplicável aos auxílios em todos os sectores; que, para efeitos de aplicação dos artigos 77.º e 92.º do Tratado, a Comissão, por força do artigo 93.º do mesmo, tem competência específica para decidir da compatibilidade dos auxílios estatais com o mercado comum, quando procede ao exame dos auxílios existentes, quando toma decisões sobre auxílios novos ou alterados e quando adopta medidas relativas ao não cumprimento das suas decisões ou da obrigação de notificação;\n\n(2) Considerando que a Comissão, de acordo com a jurisprudência do Tribunal de Justiça das Comunidades Europeias, desenvolveu e estabeleceu uma prática constante relativamente à aplicação do artigo 93.º do Tratado e adoptou certas regras e princípios processuais em diversas comunicações; que é conveniente, para assegurar a tramitação adequada e a eficácia dos processos nos termos do artigo 93.º do Tratado, codificar e reforçar esta prática por meio de um regulamento;\n\n(3) Considerando que um regulamento processual de execução do artigo 93.º do Tratado contribuirá para aumentar a transparência e a segurança jurídica;\n\n(4) Considerando que, para garantir a segurança jurídica, é conveniente definir as circunstâncias em que se deve considerar a existência de auxílio; que a realização e o reforço do mercado interno é um processo gradual, que se reflecte na evolução permanente da política de auxílios estatais; que, na sequência desta evolução, determinadas medidas, que no momento da sua execução não constituíam auxílio, podem ter entretanto passado a constituí-lo;\n\n(5) Considerando que, nos termos do n.º 3 do artigo 93.º do Tratado, a Comissão deve ser notificada de todos os projectos relativos à instituição de novos auxílios, que não devem ser executados antes de a Comissão os ter autorizado;\n\n(6) Considerando que, nos termos do artigo 5.º do Tratado, os Estados-membros têm obrigação de cooperar com a Comissão e de prestar todas as informações necessárias para lhe permitir cumprir as obrigações que para ela decorrem do presente regulamento;\n\n(7) Considerando que o prazo em que a Comissão deve concluir a análise preliminar de um auxílio notificado deve ser fixado em dois meses a contar da data de recepção de uma notificação completa ou de uma declaração devidamente fundamentada do Estado-membro em causa, nos termos da qual este considera completa a notificação pelo facto de as informações adicionais solicitadas pela Comissão não estarem disponíveis ou já terem sido prestadas; que, por razões de segurança jurídica, este exame deve ser encerrado mediante decisão;\n\n(8) Considerando que, quando na sequência do exame prévio, a Comissão não puder considerar o auxílio compatível com o mercado comum, deve ser dado início a um processo formal de investigação que lhe permita recolher todas as informações necessárias para apreciar a compatibilidade do auxílio e que permita às partes interessadas apresentarem as suas observações; que os direitos das partes interessadas podem ser mais bem acautelados no quadro do processo formal de investigação previsto no n.º 2 do artigo 93.º do Tratado;\n\n(9) Considerando que, após ter ponderado as observações apresentadas pelas partes interessadas, a Comissão deve concluir o seu exame mediante uma decisão final, quando tiver dissipado as suas dúvidas; que se esse exame não se concluir no termo de um prazo de 18 meses a contar da abertura do processo é conveniente, que o Estado-membro interessado tenha a possibilidade de solicitar à Comissão uma decisão, que esta deverá tomar num prazo de dois meses;\n\n(10) Considerando que, para assegurar uma aplicação correcta e eficaz das regras relativas aos auxílios estatais, a Comissão deve ter a possibilidade de revogar uma decisão baseada em informações incorrectas;\n\n(11) Considerando que, a fim de assegurar a observância do artigo 93.º do Tratado e, em especial, a obrigação de notificação e a cláusula suspensiva estabelecidas no n.º 3 do artigo 93.º, a Comissão deve examinar todos os casos de auxílios ilegais; que, para garantir uma maior transparência e segurança jurídica deve ser estabelecido o procedimento a seguir nestes casos; que, no caso de um Estado-membro não respeitar a obrigação de notificação ou a cláusula suspensiva, a Comissão não deve estar vinculada por prazos;\n\n(12) Considerando que, nos casos de auxílios ilegais, a Comissão deve ter o direito de obter todas as informações necessárias que lhe permitam tomar uma decisão e, se necessário, restaurar imediatamente uma concorrência efectiva; que é, portanto, conveniente permitir à Comissão que adopte medidas provisórias dirigidas ao Estado-membro em causa; que essas medidas provisórias podem assumir a forma de injunções para prestação de informações, injunções de suspensão ou injunções de recuperação; que, em caso de incumprimento de uma injunção para prestação de informações, a Comissão deve poder decidir com base nas informações de que dispõe e, em caso de incumprimento de injunções de suspensão ou de recuperação, deve poder recorrer directamente ao Tribunal de Justiça nos termos do n.º 2, segundo parágrafo, do artigo 93.º do Tratado;\n\n(13) Considerando que, nos casos de auxílios ilegais incompatíveis com o mercado comum, deve ser restabelecida uma concorrência efectiva; que, para este efeito, é necessário que o auxílio, acrescido de juros, seja recuperado o mais rapidamente possível; que é conveniente que esta recuperação seja efectuada de acordo com o direito processual nacional; que a aplicação deste direito processual não deve, ao impedir uma execução imediata e efectiva da decisão da Comissão, obstar ao restabelecimento de uma concorrência efectiva; que, para obter esse resultado, os Estados-membros devem tomar todas as medidas necessárias para garantir a eficácia da decisão da Comissão;\n\n(14) Considerando que, por uma questão de segurança jurídica, é conveniente fixar um prazo de prescrição de dez anos para os auxílios ilegais, no termo do qual não possa ser ordenada qualquer recuperação;\n\n(15) Considerando que a utilização abusiva de um auxílio pode ter efeitos no funcionamento do mercado interno equivalentes aos de um auxílio ilegal e que lhe deve portanto ser aplicado o mesmo regime; que, ao contrário de um auxílio ilegal, um auxílio utilizado eventualmente de forma abusiva é um auxílio que foi previamente aprovado pela Comissão; que, consequentemente, a Comissão não deve poder recorrer a uma injunção de recuperação relativamente a um auxílio utilizado abusivamente;\n\n(16) Considerando que é conveniente definir todas as possibilidades a que os terceiros podem recorrer na defesa dos seus interesses nos procedimentos relativos a auxílios estatais;\n\n(17) Considerando que, nos termos do n.º 1 do artigo 93.º do Tratado, a Comissão tem obrigação de, em cooperação com os Estados-membros, manter os regimes de auxílios existentes em exame permanente; que, no interesse da transparência e da segurança jurídica, é conveniente especificar o grau da cooperação prevista naquele artigo;\n\n(18) Considerando que, a fim de assegurar a compatibilidade dos regimes de auxílios existentes com o mercado comum e nos termos do n.º 1 do artigo 93.º do Tratado, a Comissão deve propor medidas adequadas no caso de um regime de auxílio existente não ser ou ter deixado de ser compatível com o mercado comum e deve dar início ao procedimento previsto no n.º 2 do artigo 93.º do Tratado se o Estado-membro em causa não der execução às medidas propostas;\n\n(19) Considerando que, a fim de permitir à Comissão acompanhar de forma eficaz a observância das suas decisões e de facilitar a cooperação entre a Comissão e os Estados-membros, para efeitos do exame permanente dos regimes de auxílios existentes nos Estados-membros nos termos do n.º 1 do artigo 93.º do Tratado, é necessário introduzir uma obrigação geral de apresentação de relatórios relativamente a todos os regimes de auxílios existentes;\n\n(20) Considerando que, em caso de sérias dúvidas quanto à observância das suas decisões, a Comissão deve poder dispor de instrumentos adicionais que lhe permitam obter as informações necessárias para verificar se aqueles estão de facto a ser cumpridas; que, para este efeito, as visitas de controlo no local são um instrumento adequado e útil, especialmente em caso de utilização abusiva de auxílios; que a Comissão deve, por conseguinte, dispor de poderes para efectuar visitas de controlo ao local e poder contar com a colaboração das autoridades competentes dos Estados-membros quando uma empresa se oponha à visita;\n\n(21) Considerando que, em nome da transparência e da segurança jurídica, se devem tornar públicas as decisões da Comissão, mantendo simultaneamente o princípio de que os destinatários das decisões em matéria de auxílios estatais são os Estados-membros em causa; que é, por conseguinte, adequado publicar integral ou resumidamente todas as decisões susceptíveis de afectar os interesses das partes interessadas e facultar-lhes cópias, quando aquelas não tenham sido publicadas ou não o tenham sido integralmente; que, ao tornar públicas as suas decisões, a Comissão, deve respeitar as regras relativas ao sigilo profissional, nos termos do artigo 214.º do Tratado;\n\n(22) Considerando que a Comissão, em estreita ligação com os Estados-membros, deve poder adoptar medidas de execução que especifiquem determinados aspectos, nomeadamente de carácter processual, do presente regulamento; que, a fim de contribuir para a cooperação entre a Comissão e as autoridades competentes dos Estados-membros, é conveniente criar um Comité Consultivo em Matéria de Auxílios Estatais, que será consultado antes da adopção das medidas de execução pela Comissão ao abrigo do presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "12438dfea246c9cc": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Auxílio», qualquer medida que satisfaça os critérios fixados no n.º 1 do artigo 92.º do Tratado;\n\nb) «Auxílios existentes»:\n\ni) Sem prejuízo dos artigos 144.º e 172.º do Acto de Adesão da Áustria, da Finlândia e da Suécia, do ponto 3 do Anexo IV e do Apêndice a esse Anexo do Acto de Adesão da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia e dos pontos pontos 2 e 3 b) do Anexo V e do Apêndice a esse Anexo do Acto de Adesão da Bulgária e da Roménia, qualquer auxílio que já existisse antes da entrada em vigor do Tratado no respectivo Estado-Membro, isto é, os regimes de auxílio e os auxílios individuais em execução antes da data de entrada em vigor do Tratado e que continuem a ser aplicáveis depois dessa data,\n\nii) O auxílio autorizado, isto é, os regimes de auxílio e os auxílios individuais que tenham sido autorizados pela Comissão ou pelo Conselho,\n\niii) Os auxílios que se considere terem sido autorizados nos termos do n.º 6 do artigo 4.º do presente regulamento ou anteriormente a este regulamento mas segundo esse procedimento,\n\niv) Os auxílios considerados existentes nos termos do artigo 15.º,\n\nv) Os auxílios considerados existentes por se poder comprovar que não constituíam auxílios no momento da sua execução, tendo-se subsequentemente transformado em auxílios devido à evolução do mercado comum e sem terem sido alterados pelo Estado-membro. Quando determinadas medidas se transformem em auxílios na sequência da liberalização de uma actividade provocada pela legislação comunitária, essas medidas não serão consideradas auxílios existentes depois da data fixada para a liberalização.\n\nc) «Novo auxílio», quaisquer auxílios, isto é, regimes de auxílio e auxílios individuais, que não sejam considerados auxílios existentes, incluindo as alterações a um auxílio existente;\n\nd) «Regime de auxílios», qualquer acto com base no qual, sem que sejam necessárias outras medidas de execução, podem ser concedidos auxílios individuais a empresas nele definidas de forma geral e abstracta e qualquer diploma com base no qual pode ser concedido a uma ou mais empresas um auxílio não ligado a um projecto específico, por um período de tempo indefinido e/ou com um montante indefinido;\n\ne) «Auxílio individual», um auxílio que não seja concedido com base num regime de auxílios ou que seja concedido com base num regime de auxílios, mas que deva ser notificado;\n\nf) «Auxílio ilegal», um novo auxílio que executado em violação do n.º 3 do artigo 93.º do Tratado;\n\ng) «Auxílio utilizado de forma abusiva», um auxílio utilizado pelo beneficiário em violação de uma decisão adoptada nos termos do n.º 3 do artigo 4.º ou dos n.º 3 ou 4 do artigo 7.º do presente regulamento;\n\nh) «Parte interessada», qualquer Estado-membro ou qualquer pessoa, empresa ou associação de empresas cujos interesses possam ser afectados pela concessão de um auxílio, em especial o beneficiário do auxílio, as empresas concorrentes e as associacões sectoriais."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "f87871e1e65f9977": {
+   "fragment_id": "PROCESSO APLICÁVEL AOS AUXÍLIOS NOTIFICADOS",
+   "type": "divisao",
+   "heading": "PROCESSO APLICÁVEL AOS AUXÍLIOS NOTIFICADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCESSO APLICÁVEL AOS AUXÍLIOS NOTIFICADOS"
+  },
+  "23163b25071a2842": {
+   "fragment_id": "Artigo 2.º — Notificação de novo auxílio",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Notificação de novo auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Notificação de novo auxílio\n\n1. Salvo disposição em contrário dos regulamentos adoptados nos termos do artigo 94.º ou de outras disposições pertinentes do Tratado, a Comissão deve ser notificada a tempo pelo Estado-membro em causa de todos os projectos de concessão de novos auxílios. A Comissão informará imediatamente o Estado-membro da recepção da notificação.\n\n2. Na notificação, o Estado-membro em causa deve fornecer todas as informações necessárias para que a Comissão possa tomar uma decisão nos termos dos artigos 4.º e 7.º, adiante designada «notificação completa»."
+  },
+  "7eeebd2d2b33f0fd": {
+   "fragment_id": "Artigo 3.º — Cláusula suspensiva",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Cláusula suspensiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cláusula suspensiva\n\nOs auxílios a notificar nos termos do n.º 1 do artigo 2.º não serão executados antes de a Comissão ter tomado, ou de se poder considerar que tomou, uma decisão que os autorize."
+  },
+  "3917fa377149e394": {
+   "fragment_id": "Artigo 4.º — Análise preliminar da notificação e decisões da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Análise preliminar da notificação e decisões da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Análise preliminar da notificação e decisões da Comissão\n\n1. A Comissão procederá à análise da notificação imediatamente após a sua recepção. Sem prejuízo do disposto no artigo 8.º, a Comissão tomará uma decisão nos termos dos n.^os^ 2, 3 ou 4 do presente artigo.\n\n2. Quando, após análise preliminar, a Comissão considerar que a medida notificada não constitui um auxílio, fará constar esse facto por via de decisão.\n\n3. Quando, após a análise preliminar, a Comissão considerar que não há dúvidas quanto à compatibilidade da medida notificada com o mercado comum, na medida em que está abrangida pelo n.º 1 do artigo 92.º do Tratado, decidirá que essa medida é compatível com o mercado comum, adiante designada «decisão de não levantar objecções». A decisão referirá expressamente a derrogação do Tratado que foi aplicada.\n\n4. Quando, após a análise preliminar, a Comissão considerar que a medida notificada suscita dúvidas quanto à sua compatibilidade com o mercado comum, decidirá dar início ao procedimento formal de investigação nos termos do n.º 2 do artigo 93.º do Tratado, adiante designada «decisão de início de um procedimento formal de investigação».\n\n5. As decisões previstas nos n.^os^ 2, 3 e 4 devem ser tomadas no prazo de dois meses. Esse prazo começa a correr no dia seguinte ao da recepção de uma notificação completa. A notificação considerar-se-á completa se, no prazo de dois meses a contar da sua recepção ou da recepção da qualquer informação adicional, a Comissão não solicitar mais nenhuma informação. O prazo pode ser alargado com o acordo da Comissão e do Estado-membro em causa. Se for caso disso, a Comissão poderá fixar prazos mais curtos.\n\n6. Quando a Comissão não tomar uma decisão nos termos dos n.^os^ 2, 3 ou 4 no prazo fixado no n.º 5, considerar-se-á que o auxílio foi autorizado pela Comissão. O Estado-membro em causa pode então executar as medidas em questão após informação prévia à Comissão, excepto se esta tomar uma decisão nos termos do presente artigo no prazo de 15 dias úteis a contar da recepção da informação."
+  },
+  "57c560f1252eb2c5": {
+   "fragment_id": "Artigo 5.º — Pedido de informações",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Pedido de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido de informações\n\n1. Quando a Comissão considerar que as informações fornecidas pelo Estado-membro em causa relativamente a uma medida notificada nos termos do artigo 2.º são incompletas, solicitará as informações adicionais necessárias. Quando um Estado-membro responder a este pedido, a Comissão informará esse Estado-membro da recepção da resposta.\n\n2. Quando o Estado-membro em causa não prestar as informações solicitadas no prazo fixado pela Comissão ou as prestar de forma incompleta, a Comissão enviará uma carta de insistência, concedendo um prazo adicional adequado para a prestação das informações.\n\n3. Se as informações solicitadas não forem fornecidas no prazo fixado, considerar-se-á que a notificação foi retirada, salvo se esse prazo tiver sido alargado antes do seu termo por acordo entre a Comissão e o Estado-membro em causa ou se este informar a Comissão, antes do termo do prazo fixado e por uma declaração devidamente fundamentada, que considera a notificação completa pelo facto de as informações solicitadas não existirem ou já terem sido fornecidas. Neste caso, o prazo referido no n.º 5 do artigo 4.º começará a correr no dia seguinte à data de recepção da declaração. Se se considerar que a notificação foi retirada, a Comissão informará o Estado-membro desse facto."
+  },
+  "b6698c2d86e89a6d": {
+   "fragment_id": "Artigo 6.º — Procedimento formal de investigação",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Procedimento formal de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento formal de investigação\n\n1. A decisão de dar início a um procedimento formal de investigação resumirá os elementos pertinentes em matéria de facto e de direito, incluirá uma apreciação preliminar da Comissão quanto à natureza de auxílio da medida proposta e indicará os elementos que suscitam dúvidas quanto à sua compatibilidade com o mercado comum. A decisão incluirá um convite ao Estado-membro em causa e a outras partes interessadas para apresentarem as suas observações num prazo fixado, normalmente não superior a um mês. A Comissão pode prorrogar esse prazo em casos devidamente justificados.\n\n2. As observações recebidas serão transmitidas ao Estado-membro em causa. Se uma parte interessada o solicitar com fundamento em eventuais prejuízos, a sua identidade não será revelada ao Estado-membro em causa. O Estado-membro em causa pode responder às observações apresentadas num prazo estabelecido, normalmente não superior a um mês. A Comissão pode prorrogar esse prazo em casos devidamente justificados."
+  },
+  "5b30023e77df5389": {
+   "fragment_id": "Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação\n\n1. Sem prejuízo do disposto no artigo 8.º, o procedimento formal de investigação será encerrado por via de decisão, nos termos dos n.^os^ 2 a 5 do presente artigo.\n\n2. Quando a Comissão verificar que, eventualmente após alterações pelo Estado-membro em causa, uma medida notificada não constitui um auxílio, fará constar esse facto por via de decisão.\n\n3. Quando a Comissão considerar que, eventualmente após alterações pelo Estado-membro em causa, deixaram de existir dúvidas quanto à compatibilidade de uma medida notificada com o mercado comum, decidirá que o auxílio é compatível com o mercado comum, adiante designada «decisão positiva». A decisão referirá expressamente a derrogação do Tratado que foi aplicada.\n\n4. A Comissão pode acompanhar a sua decisão positiva de condições que lhe permitam considerar o auxílio compatível com o mercado comum e de obrigações que lhe permitam controlar o cumprimento da decisão, adiante designada «decisão condicional».\n\n5. Quando a Comissão considerar que o auxílio notificado é incompatível com o mercado comum, decidirá que o mesmo não pode ser executado, adiante designada «decisão negativa».\n\n6. As decisões nos termos dos n.^os^ 2, 3, 4 e 5 devem ser tomadas quando tenham sido dissipadas as dúvidas referidas no n.º 4 do artigo 4.º Na medida do possível, a Comissão esforçar-se-á por adoptar uma decisão no prazo de 18 meses a contar da data de início do procedimento. Este prazo pode ser prorrogado por comum acordo entre a Comissão e o Estado-membro em causa.\n\n6. Decorrido o prazo previsto no n.º 6, e desde que o Estado-membro em causa o solicite, a Comissão tomará uma decisão no prazo de dois meses com base nas informações disponíveis. Se necessário e se as informações prestadas não forem suficientes para estabelecer a compatibilidade, a Comissão tomará uma decisão negativa."
+  },
+  "b6c06212a8213025": {
+   "fragment_id": "Artigo 8.º — Retirada da notificação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Retirada da notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Retirada da notificação\n\n1. O Estado-membro em causa pode retirar uma notificação na acepção do artigo 2.º, em tempo útil antes de a Comissão ter tomado uma decisão nos termos do artigo 4.º ou 7.º\n\n2. Nos casos em que tenha dado início ao procedimento formal de investigação, a Comissão encerrará o processo."
+  },
+  "4b083d2f25e7b403": {
+   "fragment_id": "Artigo 9.º — Revogação de uma decisão",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Revogação de uma decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revogação de uma decisão\n\nA Comissão pode revogar uma decisão tomada nos termos dos n.^os^ 2 ou 3 do artigo 4.º ou dos n.^os^ 2, 3 e 4 do artigo 7.º, depois de ter dado ao Estado-membro em questão a possibilidade de apresentar as suas observações, se para tomar essa decisão tiver utilizado, como factor determinante, informações incorrectas prestadas durante o procedimento. Antes de revogar uma decisão e de tomar uma nova decisão, a Comissão dará início ao procedimento formal de investigação nos termos do n.º 4 do artigo 4.º Os artigos 6.º, 7.º e 10.º, o n.º 1 do artigo 11.º e os artigos 13.º, 14.º e 15.º são aplicáveis *mutatis mutandis*."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "ae42f59d0920ac1c": {
+   "fragment_id": "PROCESSO APLICÁVEL AOS AUXÍLIOS ILEGAIS",
+   "type": "divisao",
+   "heading": "PROCESSO APLICÁVEL AOS AUXÍLIOS ILEGAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCESSO APLICÁVEL AOS AUXÍLIOS ILEGAIS"
+  },
+  "b09e1ab676f40753": {
+   "fragment_id": "Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações\n\n1. Quando a Comissão dispuser de informações relativas a um auxílio alegadamente ilegal, qualquer que seja a fonte, examiná-las-á imediatamente.\n\n2. Se necessário, a Comissão pedirá informações ao Estado-membro em causa. Será aplicável, *mutatis mutandis*, o disposto no n.º 2 do artigo 2.º e nos n.^os^ 1 e 2 do artigo 5.º\n\n3. Quando, não obstante uma carta de insistência enviada nos termos do n.º 2 do artigo 5.º, o Estado-membro em causa não fornecer as informações pedidas no prazo fixado pela Comissão ou fornecer informações incompletas, a Comissão ordenará, por via de decisão, que lhe sejam fornecidas aquelas informações, adiante designada «injunção para prestação de informações». A decisão deve especificar quais as informações requeridas e fixar um prazo adequado para a prestação das mesmas."
+  },
+  "2cd80fead3fd735a": {
+   "fragment_id": "Artigo 11.º — Injunção de suspensão ou de recuperação provisória do auxílio",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Injunção de suspensão ou de recuperação provisória do auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Injunção de suspensão ou de recuperação provisória do auxílio\n\n1. Depois de ter dado ao Estado-membro em causa a possibilidade de apresentar as suas observações, a Comissão pode tomar uma decisão em que ordena ao Estado-membro a suspensão de qualquer auxílio ilegal até que a Comissão tome uma decisão quanto à sua compatibilidade com o mercado comum, adiante designada «injunção de suspensão».\n\n2. Depois de ter dado ao Estado-membro em causa a possibilidade de apresentar as suas observações, a Comissão pode tomar uma decisão em que ordena ao Estado-membro que recupere provisoriamente qualquer auxílio ilegal até que a Comissão tome uma decisão quanto à sua compatibilidade com o mercado comum, adiante designada «injunção de recuperação», desde que se encontrem preenchidos os seguintes critérios:\n\n— de acordo com uma prática estabelecida, não haver dúvidas sobre o carácter de auxílio da medida em causa,\n\n— haver urgência na acção,\n\n— haver sério risco de prejuízos substanciais e irreparáveis a um concorrente.\n\nA recuperação deve efectuar-se nos termos dos n.^os^ 2 e 3 do artigo 14.º Após a recuperação efectiva do auxílio, a Comissão tomará uma decisão dentro dos prazos aplicáveis ao auxílio notificado.\n\nA Comissão pode autorizar o Estado-membro a acompanhar o reembolso do auxílio de um pagamento de auxílio de emergência à empresa em questão.\n\nO disposto no presente número é aplicável apenas aos auxílios ilegais executados após a entrada em vigor do presente regulamento."
+  },
+  "6fbfd568c8d44fe7": {
+   "fragment_id": "Artigo 12.º — Incumprimento da injunção",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Incumprimento da injunção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Incumprimento da injunção\n\nSe um Estado-membro não der cumprimento a uma injunção de suspensão ou de recuperação, a Comissão pode, ao mesmo tempo que procede ao exame de fundo do caso com base nas informações disponíveis, recorrer directamente ao Tribunal de Justiça das Comunidades Europeias para que este declare que esse incumprimento constitui uma violação do Tratado."
+  },
+  "09988a7504a20203": {
+   "fragment_id": "Artigo 13.º — Decisões da Comissão",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Decisões da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Decisões da Comissão\n\n1. O exame de um auxílio eventualmente ilegal conduz a uma decisão nos termos dos n.^os^ 2, 3 ou 4 do artigo 4.º Em caso de decisão de início de um procedimento formal de investigação, este é encerrado por uma decisão, nos termos do artigo 7.º Em caso de incumprimento de uma injunção para prestação de informações, a decisão será tomada com base nas informações disponíveis.\n\n2. Em caso de um auxílio eventualmente ilegal e sem prejuízo do disposto no n.º 2 do artigo 11.º, a Comissão não está vinculada pelo prazo estabelecido no n.º 5 do artigo 4.º e nos n.^os^ 6 e 7 do artigo 7.º\n\n3. O artigo 9.º é aplicável *mutatis mutandis*."
+  },
+  "cd321b5a85e471e6": {
+   "fragment_id": "Artigo 14.º — Recuperação do auxílio",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Recuperação do auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Recuperação do auxílio\n\n1. Nas decisões negativas relativas a auxílios ilegais, a Comissão decidirá que o Estado-membro em causa deve tomar todas as medidas necessárias para recuperar o auxílio do beneficiário, adiante designada «decisão de recuperação». A Comissão não deve exigir a recuperação do auxílio se tal for contrário a um princípio geral de direito comunitário.\n\n2. O auxílio a recuperar mediante uma decisão de recuperação incluirá juros a uma taxa adequada fixada pela Comissão. Os juros são devidos a partir da data em que o auxílio ilegal foi colocado à disposição do beneficiário e até ao momento da sua recuperação.\n\n3. Sem prejuízo de uma decisão do Tribunal de Justiça nos termos do artigo 185.º do Tratado, a recuperação será efectuada imediatamente e segundo as formalidades do direito nacional do Estado-membro em causa, desde que estas permitam uma execução imediata e efectiva da decisão da Comissão. Para o efeito e na eventualidade de um processo nos tribunais nacionais, os Estados-membros interessados tomarão as medidas necessárias previstas no seu sistema jurídico, incluindo medidas provisórias, sem prejuízo da legislação comunitária."
+  },
+  "ba1d70be4ee6066c": {
+   "fragment_id": "Artigo 15.º — Prazo de prescrição",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Prazo de prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Prazo de prescrição\n\n1. Os poderes da Comissão para recuperar o auxílio ficam sujeitos a um prazo de prescrição de dez anos.\n\n2. O prazo de prescrição começa a contar na data em que o auxílio ilegal tenha sido concedido ao beneficiário, quer como auxílio individual, quer como auxílio ao abrigo de um regime de auxílio. O prazo de prescrição é interrompido por quaisquer actos relativos ao auxílio ilegal praticados pela Comissão ou por um Estado-membro a pedido desta. Cada interrupção inicia uma nova contagem de prazo. O prazo de prescrição será suspenso enquanto a decisão da Comissão for objecto de um processo no Tribunal de Justiça das Comunidades Europeias.\n\n3. Qualquer auxílio cujo prazo de prescrição tenha caducado será considerado um auxílio existente."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "b82eed1fdf77acb1": {
+   "fragment_id": "PROCESSO APLICÁVEL AOS AUXÍLIOS UTILIZADOS DE FORMA ABUSIVA",
+   "type": "divisao",
+   "heading": "PROCESSO APLICÁVEL AOS AUXÍLIOS UTILIZADOS DE FORMA ABUSIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCESSO APLICÁVEL AOS AUXÍLIOS UTILIZADOS DE FORMA ABUSIVA"
+  },
+  "4f208f88b5269a68": {
+   "fragment_id": "Artigo 16.º — Utilização abusiva de um auxílio",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Utilização abusiva de um auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Utilização abusiva de um auxílio\n\nSem prejuízo do disposto no artigo 23.º, a Comissão pode, em caso de utilização abusiva de um auxílio, dar início a um procedimento formal de investigação nos termos do n.º 4 do artigo 4.º Os artigos 6.º, 7.º, 9.º e 10.º, o n.º 1 do artigo 11.º e os artigos 12.º, 13, 14.º e 15.º são aplicáveis *mutatis mutandis*."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "08966d084c05fa6e": {
+   "fragment_id": "PROCESSO APLICÁVEL AOS REGIMES DE AUXÍLIOS EXISTENTES",
+   "type": "divisao",
+   "heading": "PROCESSO APLICÁVEL AOS REGIMES DE AUXÍLIOS EXISTENTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PROCESSO APLICÁVEL AOS REGIMES DE AUXÍLIOS EXISTENTES"
+  },
+  "5ed316f0806c4912": {
+   "fragment_id": "Artigo 17.º — Cooperação nos termos do n.º 1 do artigo 93.º do Tratado",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Cooperação nos termos do n.º 1 do artigo 93.º do Tratado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cooperação nos termos do n.º 1 do artigo 93.º do Tratado\n\n1. A Comissão obterá do Estado-membro em causa todas as informacões necessárias para, em cooperação com o Estado-membro, proceder ao exame dos regimes de auxílio existentes, nos termos do n.º 1 do artigo 93.º do Tratado.\n\n2. Quando a Comissão considerar que um regime de auxílio existente não é ou deixou de ser compatível com o mercado comum, informará o Estado-membro em causa da sua conclusão preliminar e dar-lhe-á a possibilidade de apresentar as suas observações no prazo de um mês. A Comissão pode prorrogar este prazo em casos devidamente justificados."
+  },
+  "9819396444c5077a": {
+   "fragment_id": "Artigo 18.º — Proposta de medidas adequadas",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Proposta de medidas adequadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Proposta de medidas adequadas\n\nQuando, perante as informações prestadas pelo Estado-membro nos termos do artigo 17.º, a Comissão concluir que um regime de auxílios existente não é ou deixou de ser compatível com o mercado comum, formulará uma recomendação propondo medidas adequadas ao Estado-membro em causa. Esta recomendação pode consistir especialmente na:\n\na) Alteração do conteúdo de regime de auxílios; ou\n\nb) Introdução de requisitos processuais; ou\n\nc) Supressão do regime de auxílios."
+  },
+  "9786b5dc8eceb304": {
+   "fragment_id": "Artigo 19.º — Consequências jurídicas de uma proposta de medidas adequadas",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Consequências jurídicas de uma proposta de medidas adequadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Consequências jurídicas de uma proposta de medidas adequadas\n\n1. Quando o Estado-membro em causa aceitar as medidas propostas e disso informar a Comissão, esta registará esse facto e informará o Estado-membro. Por força dessa aceitação, o Estado-membro fica obrigado a aplicar as medidas adequadas.\n\n2. Quando o Estado-membro em causa não aceitar as medidas propostas e a Comissão, tendo em conta os argumentos do Estado-membro, continuar a considerar que essas medidas são necessárias, dará início a um procedimento nos termos do n.º 4 do artigo 4.º Os artigos 6.º, 7.º e 9.º são aplicáveis, *mutatis mutandis*."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "7706809cba4e1105": {
+   "fragment_id": "PARTES INTERESSADAS",
+   "type": "divisao",
+   "heading": "PARTES INTERESSADAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTES INTERESSADAS"
+  },
+  "2e2779266b6df06a": {
+   "fragment_id": "Artigo 20.º — Direitos das partes interessadas",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Direitos das partes interessadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direitos das partes interessadas\n\n1. Qualquer parte interessada pode apresentar observações nos termos do artigo 6.º na sequência da decisão da Comissão de iniciar o procedimento formal de investigação. Todas as partes interessadas que tenham apresentado observações e todos os beneficiários de um auxílio individual receberão cópia da decisão da Comissão nos termos do artigo 7.º\n\n2. Qualquer parte interessada pode informar a Comissão sobre qualquer alegado auxílio ilegal e qualquer utilização abusiva de um auxílio. Quando a Comissão considerar que, com base nas informações de que dispõe, não há motivos suficientes para analisar o caso, informará a parte interessada desse facto. Quando a Comissão tomar uma decisão sobre um caso que diga respeito às informações fornecidas, enviará cópia dessa decisão à parte interessada.\n\n3. A seu pedido, qualquer parte interessada obterá cópia de qualquer decisão nos termos dos artigos 4.º e 7.º, do n.º 3 do artigo 10.º e do artigo 11.º"
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "cc346d6a6d769850": {
+   "fragment_id": "CONTROLO",
+   "type": "divisao",
+   "heading": "CONTROLO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLO"
+  },
+  "352259b837301463": {
+   "fragment_id": "Artigo 21.º — Relatórios anuais",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Relatórios anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Relatórios anuais\n\n1. Os Estados-membros apresentarão à Comissão relatórios anuais sobre todos os regimes de auxílio existentes em relação aos quais não foram impostas obrigações específicas em matéria de apresentação de relatórios através de uma decisão condicional nos termos do n.º 4 do artigo 7.º\n\n2. Se, após uma carta de insistência, o Estado-membro não apresentar um relatório anual, a Comissão pode actuar nos termos do artigo 18.º relativamente ao regime de auxílios em causa."
+  },
+  "aecffa25fca6af44": {
+   "fragment_id": "Artigo 22.º — Controlo in loco",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Controlo in loco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Controlo in loco\n\n1. Quando a Comissão tiver sérias dúvidas quanto ao cumprimento de decisões de não levantar objecções, de decisões positivas ou de decisões condicionais relativas a auxílios individuais, o Estado-membro em causa, depois de ter podido apresentar as suas observações, permitirá que a Comissão efectue visitas de controlo *in loco*.\n\n2. Os funcionários incumbidos pela Comissão de verificarem o cumprimento da decisão em causa serão mandatados para:\n\na) Ter acesso às instalações e terrenos da empresa em causa;\n\nb) Pedir *in loco* explicações orais;\n\nc) Examinar a escrita e outra documentação e tirar ou pedir cópias.\n\nSe necessário, a Comissão pode ser assistida por peritos independentes.\n\n3. A Comissão informará o Estado-membro em causa em tempo útil e por escrito da visita de controlo *in loco* e da identidade dos funcionários e peritos mandatados. Se o Estado-membro em causa tiver objecções devidamente justificadas relativamente à escolha dos peritos pela Comissão, estes devem ser nomeados com o acordo do Estado-membro. Os funcionários da Comissão e os peritos mandatados para efectuarem o controlo in loco apresentarão um mandado escrito que indicará o objecto e a finalidade da diligência.\n\n4. Podem assistir à visita de controlo *in loco* agentes mandatados pelo Estado-membro em cujo território se efectua esta diligência.\n\n5. A Comissão fornecerá ao Estado-membro uma cópia de todos os relatórios elaborados na sequência de uma visita de controlo.\n\n6. Quando uma empresa se opuser a um controlo *in loco* ordenada por decisão da Comissão nos termos do presente artigo, o Estado-membro em causa prestará aos agentes e peritos mandatados pela Comissão a assistência necessária para lhes permitir executar a visita de verificação. Para o efeito, os Estados-membros, após consulta à Comissão, tomarão as medidas necessárias no prazo de 18 meses a contar da data de entrada em vigor do presente regulamento."
+  },
+  "7b47217a699fd9ca": {
+   "fragment_id": "Artigo 23.º — Incumprimento de decisões e acórdãos",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Incumprimento de decisões e acórdãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Incumprimento de decisões e acórdãos\n\n1. Quando o Estado-membro em causa não der cumprimento às decisões condicionais ou negativas, em especial nos casos previstos no artigo 14.º, a Comissão pode recorrer directamente ao Tribunal de Justiça das Comunidades Europeias nos termos do n.º 2 do artigo 93.º do Tratado.\n\n2. Se a Comissão considerar que o Estado-membro em causa não deu cumprimento a um acórdão do Tribunal de Justiça das Comunidades Europeias, pode actuar nos termos do artigo 171.º do Tratado."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "3a2293c837b31c16": {
+   "fragment_id": "DISPOSIÇÕES COMUNS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES COMUNS"
+  },
+  "1373bc34a7463ff9": {
+   "fragment_id": "Artigo 24.º — Sigilo profissional",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sigilo profissional\n\nA Comissão e os Estados-membros, bem como os seus funcionários e outros agentes, incluindo os peritos independentes nomeados pela Comissão, não podem divulgar as informações abrangidas pelo sigilo profissional obtidas em aplicação do presente regulamento."
+  },
+  "e0fd41b793b66f5b": {
+   "fragment_id": "Artigo 25.º — Destinatários das decisões",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Destinatários das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Destinatários das decisões\n\nAs decisões tomadas nos termos dos capítulos II, III, IV, V e VII são dirigidas ao Estado-membro interessado. A Comissão notificará imediatamente destas decisões o Estado-membro em causa e dar-lhe-á oportunidade de indicar quais as informações que considera abrangidas pelo sigilo profissional."
+  },
+  "92fca2d5bd6bbf35": {
+   "fragment_id": "Artigo 26.º — Publicação das decisões",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Publicação das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Publicação das decisões\n\n1. A Comissão publicará no *Jornal Oficial das Comunidades Europeias* um resumo das decisões que tomar nos termos dos n.^os^ 2 e 3 do artigo 4.º e do artigo 18.º, conjugado com o n.º 1 do artigo 19.º Essa comunicação mencionará a possibilidade de se obter um exemplar da decisão na versão ou versões linguísticas que fazem fé.\n\n2. A Comissão publicará no *Jornal Oficial das Comunidades Europeias* as decisões que tomar nos termos do n.º 4 do artigo 4.º na versão linguística que faz fé. Nos Jornais Oficiais publicados nas línguas que não sejam a da versão linguística que faz fé, a versão linguística que faz fé será acompanhada de um resumo completo na língua desse Jornal Oficial.\n\n3. A Comissão publicará no *Jornal Oficial das Comunidades Europeias* as decisões que tomar nos termos do artigo 7.º\n\n4. Se for aplicável o disposto no n.º 6 do artigo 4.º ou no n.º 2 do artigo 8.º, será publicada uma comunicação sucinta no *Jornal Oficial das Comunidades Europeias*.\n\n5. O Conselho, deliberando por unanimidade, pode decidir publicar no *Jornal Oficial das Comunidades Europeias* as decisões tomadas nos termos do n.º 2, terceiro parágrafo, do artigo 93.º do Tratado."
+  },
+  "6a4db76d264486d5": {
+   "fragment_id": "Artigo 27.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Medidas de execução\n\nA Comissão pode, nos termos do artigo 29.º, adoptar medidas de execução respeitantes à forma, conteúdo e outros aspectos das notificações e dos relatórios anuais, pormenores e cálculo dos prazos e à taxa de juro referida no n.º 2 do artigo 14.º"
+  },
+  "6b6380f7378f86b1": {
+   "fragment_id": "Artigo 28.º — Comité Consultivo",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Comité Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Comité Consultivo\n\nSerá criado um Comité Consultivo em Matéria de Auxílios Estatais, adiante designado comité, composto por representantes dos Estados-membros e presidido pelo representante da Comissão."
+  },
+  "a4587de86a0b665c": {
+   "fragment_id": "Artigo 29.º — Consulta ao comité",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Consulta ao comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Consulta ao comité\n\n1. A Comissão consultará o comité antes de adoptar qualquer medida de execução nos termos do artigo 27.º\n\n2. A consulta ao Comité far-se-á em reunião convocada pela Comissão. Os projectos e documentos a analisar serão anexos à convocatória. A reunião realizar-se-á num prazo não inferior a dois meses a contar da data de envio da convocatória. Este prazo poderá ser reduzido em caso de urgência.\n\n3. O representante da Comissão submeterá à apreciação do comité um projecto das medidas a tomar. O Comité emitirá o seu parecer sobre esse projecto num prazo que o presidente pode fixar em função da urgência da questão, se necessário procedendo a votação.\n\n4. O parecer deve ser exarado em acta; além disso, cada Estado-membro tem o direito de solicitar que a sua posição conste da acta. O comité pode recomendar a publicação do seu parecer no Jornal Oficial.\n\n5. A Comissão tomará na melhor conta o parecer emitido pelo comité. O comité será por ela informado do modo como esse parecer foi tomado em consideração."
+  },
+  "f3d03f8b5c024f19": {
+   "fragment_id": "Artigo 30. — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 30. — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30. — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte à sua publicação no *Jornal Oficial das Comunidades Europeias*.\n\nO presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "3111d2213ea2c7e2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/2b9c3b6f-b405-4b65-82c0-6555f4b09191.0018.03/DOC_1#src.E0001)) JO C 116 de 16. 4. 1998, p. 13.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/2b9c3b6f-b405-4b65-82c0-6555f4b09191.0018.03/DOC_1#src.E0002)) Parecer emitido em 14 de Janeiro de 1999 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/2b9c3b6f-b405-4b65-82c0-6555f4b09191.0018.03/DOC_1#src.E0003)) JO C 284 de 14. 9. 1998, p. 10."
+  },
+  "853f07b5f5d7e776": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de março de 1999,\n\nque estabelece as regras de execução do artigo 108.º do tratado sobre o funcionamento da união Europeia\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o seu artigo 94.º,\n\nTendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/bf3b8f2e-c846-4276-8846-425001e5b6e0.0018.03/DOC_2#E0001)),\n\nTendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/bf3b8f2e-c846-4276-8846-425001e5b6e0.0018.03/DOC_2#E0002)),\n\nTendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/bf3b8f2e-c846-4276-8846-425001e5b6e0.0018.03/DOC_2#E0003)),\n\n(1) Considerando que, sem prejuízo de normas processuais específicas previstas em regulamentos para determinados sectores, o presente regulamento deverá ser aplicável aos auxílios em todos os sectores; que, para efeitos de aplicação dos artigos 77.º e 92.º do Tratado, a Comissão, por força do artigo 93.º do mesmo, tem competência específica para decidir da compatibilidade dos auxílios estatais com o mercado comum, quando procede ao exame dos auxílios existentes, quando toma decisões sobre auxílios novos ou alterados e quando adopta medidas relativas ao não cumprimento das suas decisões ou da obrigação de notificação;\n\n(2) Considerando que a Comissão, de acordo com a jurisprudência do Tribunal de Justiça das Comunidades Europeias, desenvolveu e estabeleceu uma prática constante relativamente à aplicação do artigo 93.º do Tratado e adoptou certas regras e princípios processuais em diversas comunicações; que é conveniente, para assegurar a tramitação adequada e a eficácia dos processos nos termos do artigo 93.º do Tratado, codificar e reforçar esta prática por meio de um regulamento;\n\n(3) Considerando que um regulamento processual de execução do artigo 93.º do Tratado contribuirá para aumentar a transparência e a segurança jurídica;\n\n(4) Considerando que, para garantir a segurança jurídica, é conveniente definir as circunstâncias em que se deve considerar a existência de auxílio; que a realização e o reforço do mercado interno é um processo gradual, que se reflecte na evolução permanente da política de auxílios estatais; que, na sequência desta evolução, determinadas medidas, que no momento da sua execução não constituíam auxílio, podem ter entretanto passado a constituí-lo;\n\n(5) Considerando que, nos termos do n.º 3 do artigo 93.º do Tratado, a Comissão deve ser notificada de todos os projectos relativos à instituição de novos auxílios, que não devem ser executados antes de a Comissão os ter autorizado;\n\n(6) Considerando que, nos termos do artigo 5.º do Tratado, os Estados-membros têm obrigação de cooperar com a Comissão e de prestar todas as informações necessárias para lhe permitir cumprir as obrigações que para ela decorrem do presente regulamento;\n\n(7) Considerando que o prazo em que a Comissão deve concluir a análise preliminar de um auxílio notificado deve ser fixado em dois meses a contar da data de recepção de uma notificação completa ou de uma declaração devidamente fundamentada do Estado-membro em causa, nos termos da qual este considera completa a notificação pelo facto de as informações adicionais solicitadas pela Comissão não estarem disponíveis ou já terem sido prestadas; que, por razões de segurança jurídica, este exame deve ser encerrado mediante decisão;\n\n(8) Considerando que, quando na sequência do exame prévio, a Comissão não puder considerar o auxílio compatível com o mercado comum, deve ser dado início a um processo formal de investigação que lhe permita recolher todas as informações necessárias para apreciar a compatibilidade do auxílio e que permita às partes interessadas apresentarem as suas observações; que os direitos das partes interessadas podem ser mais bem acautelados no quadro do processo formal de investigação previsto no n.º 2 do artigo 93.º do Tratado;\n\n(9) Considerando que, após ter ponderado as observações apresentadas pelas partes interessadas, a Comissão deve concluir o seu exame mediante uma decisão final, quando tiver dissipado as suas dúvidas; que se esse exame não se concluir no termo de um prazo de 18 meses a contar da abertura do processo é conveniente, que o Estado-membro interessado tenha a possibilidade de solicitar à Comissão uma decisão, que esta deverá tomar num prazo de dois meses;\n\n(10) Considerando que, para assegurar uma aplicação correcta e eficaz das regras relativas aos auxílios estatais, a Comissão deve ter a possibilidade de revogar uma decisão baseada em informações incorrectas;\n\n(11) Considerando que, a fim de assegurar a observância do artigo 93.º do Tratado e, em especial, a obrigação de notificação e a cláusula suspensiva estabelecidas no n.º 3 do artigo 93.º, a Comissão deve examinar todos os casos de auxílios ilegais; que, para garantir uma maior transparência e segurança jurídica deve ser estabelecido o procedimento a seguir nestes casos; que, no caso de um Estado-membro não respeitar a obrigação de notificação ou a cláusula suspensiva, a Comissão não deve estar vinculada por prazos;\n\n(12) Considerando que, nos casos de auxílios ilegais, a Comissão deve ter o direito de obter todas as informações necessárias que lhe permitam tomar uma decisão e, se necessário, restaurar imediatamente uma concorrência efectiva; que é, portanto, conveniente permitir à Comissão que adopte medidas provisórias dirigidas ao Estado-membro em causa; que essas medidas provisórias podem assumir a forma de injunções para prestação de informações, injunções de suspensão ou injunções de recuperação; que, em caso de incumprimento de uma injunção para prestação de informações, a Comissão deve poder decidir com base nas informações de que dispõe e, em caso de incumprimento de injunções de suspensão ou de recuperação, deve poder recorrer directamente ao Tribunal de Justiça nos termos do n.º 2, segundo parágrafo, do artigo 93.º do Tratado;\n\n(13) Considerando que, nos casos de auxílios ilegais incompatíveis com o mercado comum, deve ser restabelecida uma concorrência efectiva; que, para este efeito, é necessário que o auxílio, acrescido de juros, seja recuperado o mais rapidamente possível; que é conveniente que esta recuperação seja efectuada de acordo com o direito processual nacional; que a aplicação deste direito processual não deve, ao impedir uma execução imediata e efectiva da decisão da Comissão, obstar ao restabelecimento de uma concorrência efectiva; que, para obter esse resultado, os Estados-membros devem tomar todas as medidas necessárias para garantir a eficácia da decisão da Comissão;\n\n(14) Considerando que, por uma questão de segurança jurídica, é conveniente fixar um prazo de prescrição de dez anos para os auxílios ilegais, no termo do qual não possa ser ordenada qualquer recuperação;\n\n(15) Considerando que a utilização abusiva de um auxílio pode ter efeitos no funcionamento do mercado interno equivalentes aos de um auxílio ilegal e que lhe deve portanto ser aplicado o mesmo regime; que, ao contrário de um auxílio ilegal, um auxílio utilizado eventualmente de forma abusiva é um auxílio que foi previamente aprovado pela Comissão; que, consequentemente, a Comissão não deve poder recorrer a uma injunção de recuperação relativamente a um auxílio utilizado abusivamente;\n\n(16) Considerando que é conveniente definir todas as possibilidades a que os terceiros podem recorrer na defesa dos seus interesses nos procedimentos relativos a auxílios estatais;\n\n(17) Considerando que, nos termos do n.º 1 do artigo 93.º do Tratado, a Comissão tem obrigação de, em cooperação com os Estados-membros, manter os regimes de auxílios existentes em exame permanente; que, no interesse da transparência e da segurança jurídica, é conveniente especificar o grau da cooperação prevista naquele artigo;\n\n(18) Considerando que, a fim de assegurar a compatibilidade dos regimes de auxílios existentes com o mercado comum e nos termos do n.º 1 do artigo 93.º do Tratado, a Comissão deve propor medidas adequadas no caso de um regime de auxílio existente não ser ou ter deixado de ser compatível com o mercado comum e deve dar início ao procedimento previsto no n.º 2 do artigo 93.º do Tratado se o Estado-membro em causa não der execução às medidas propostas;\n\n(19) Considerando que, a fim de permitir à Comissão acompanhar de forma eficaz a observância das suas decisões e de facilitar a cooperação entre a Comissão e os Estados-membros, para efeitos do exame permanente dos regimes de auxílios existentes nos Estados-membros nos termos do n.º 1 do artigo 93.º do Tratado, é necessário introduzir uma obrigação geral de apresentação de relatórios relativamente a todos os regimes de auxílios existentes;\n\n(20) Considerando que, em caso de sérias dúvidas quanto à observância das suas decisões, a Comissão deve poder dispor de instrumentos adicionais que lhe permitam obter as informações necessárias para verificar se aqueles estão de facto a ser cumpridas; que, para este efeito, as visitas de controlo no local são um instrumento adequado e útil, especialmente em caso de utilização abusiva de auxílios; que a Comissão deve, por conseguinte, dispor de poderes para efectuar visitas de controlo ao local e poder contar com a colaboração das autoridades competentes dos Estados-membros quando uma empresa se oponha à visita;\n\n(21) Considerando que, em nome da transparência e da segurança jurídica, se devem tornar públicas as decisões da Comissão, mantendo simultaneamente o princípio de que os destinatários das decisões em matéria de auxílios estatais são os Estados-membros em causa; que é, por conseguinte, adequado publicar integral ou resumidamente todas as decisões susceptíveis de afectar os interesses das partes interessadas e facultar-lhes cópias, quando aquelas não tenham sido publicadas ou não o tenham sido integralmente; que, ao tornar públicas as suas decisões, a Comissão, deve respeitar as regras relativas ao sigilo profissional, nos termos do artigo 214.º do Tratado;\n\n(22) Considerando que a Comissão, em estreita ligação com os Estados-membros, deve poder adoptar medidas de execução que especifiquem determinados aspectos, nomeadamente de carácter processual, do presente regulamento; que, a fim de contribuir para a cooperação entre a Comissão e as autoridades competentes dos Estados-membros, é conveniente criar um Comité Consultivo em Matéria de Auxílios Estatais, que será consultado antes da adopção das medidas de execução pela Comissão ao abrigo do presente regulamento,\n\nADOPTOU O PRESENTE REGULAMENTO:"
+  },
+  "6da61d4bdd7e308a": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Auxílio», qualquer medida que satisfaça os critérios fixados no n.º 1 do artigo 92.º do Tratado;\n\nb) «Auxílios existentes»:\n\ni) Sem prejuízo dos artigos 144.º e 172.º do Ato de Adesão da Áustria, da Finlândia e da Suécia, do anexo IV, ponto 3, e do apêndice a esse anexo do Ato de Adesão da República Checa, da Estónia, de Chipre, da Letónia, da Lituânia, da Hungria, de Malta, da Polónia, da Eslovénia e da Eslováquia, do anexo V, ponto 2 e ponto 3, alínea b), e do apêndice a esse anexo do Ato de Adesão da Bulgária e da Roménia e do anexo IV, ponto 2 e ponto 3, alínea b), e do apêndice a esse anexo do Ato de Adesão da Croácia, qualquer auxílio que já existisse antes da entrada em vigor do Tratado no respetivo Estado-Membro, isto é, os regimes de auxílio e os auxílios individuais em execução antes da data de entrada em vigor do Tratado e que continuem a ser aplicáveis depois dessa data,\n\nii) O auxílio autorizado, isto é, os regimes de auxílio e os auxílios individuais que tenham sido autorizados pela Comissão ou pelo Conselho,\n\niii) Os auxílios que se considere terem sido autorizados nos termos do n.º 6 do artigo 4.º do presente regulamento ou anteriormente a este regulamento mas segundo esse procedimento,\n\niv) Os auxílios considerados existentes nos termos do artigo 15.º,\n\nv) Os auxílios considerados existentes por se poder comprovar que não constituíam auxílios no momento da sua execução, tendo-se subsequentemente transformado em auxílios devido à evolução do mercado comum e sem terem sido alterados pelo Estado-membro. Quando determinadas medidas se transformem em auxílios na sequência da liberalização de uma actividade provocada pela legislação comunitária, essas medidas não serão consideradas auxílios existentes depois da data fixada para a liberalização.\n\nc) «Novo auxílio», quaisquer auxílios, isto é, regimes de auxílio e auxílios individuais, que não sejam considerados auxílios existentes, incluindo as alterações a um auxílio existente;\n\nd) «Regime de auxílios», qualquer acto com base no qual, sem que sejam necessárias outras medidas de execução, podem ser concedidos auxílios individuais a empresas nele definidas de forma geral e abstracta e qualquer diploma com base no qual pode ser concedido a uma ou mais empresas um auxílio não ligado a um projecto específico, por um período de tempo indefinido e/ou com um montante indefinido;\n\ne) «Auxílio individual», um auxílio que não seja concedido com base num regime de auxílios ou que seja concedido com base num regime de auxílios, mas que deva ser notificado;\n\nf) «Auxílio ilegal», um novo auxílio que executado em violação do n.º 3 do artigo 93.º do Tratado;\n\ng) «Auxílio utilizado de forma abusiva», um auxílio utilizado pelo beneficiário em violação de uma decisão adoptada nos termos do n.º 3 do artigo 4.º ou dos n.º 3 ou 4 do artigo 7.º do presente regulamento;\n\nh) «Parte interessada», qualquer Estado-membro ou qualquer pessoa, empresa ou associação de empresas cujos interesses possam ser afectados pela concessão de um auxílio, em especial o beneficiário do auxílio, as empresas concorrentes e as associacões sectoriais."
+  },
+  "67f1f45d47461b43": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º"
+  },
+  "d0d7254fb9bdb447": {
+   "fragment_id": "Pedido de informações apresentado ao Estado-Membro notificante",
+   "type": "divisao",
+   "heading": "Pedido de informações apresentado ao Estado-Membro notificante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Pedido de informações apresentado ao Estado-Membro notificante\n\n1. Quando a Comissão considerar que as informações fornecidas pelo Estado-membro em causa relativamente a uma medida notificada nos termos do artigo 2.º são incompletas, solicitará as informações adicionais necessárias. Quando um Estado-membro responder a este pedido, a Comissão informará esse Estado-membro da recepção da resposta.\n\n2. Quando o Estado-membro em causa não prestar as informações solicitadas no prazo fixado pela Comissão ou as prestar de forma incompleta, a Comissão enviará uma carta de insistência, concedendo um prazo adicional adequado para a prestação das informações.\n\n3. Se as informações solicitadas não forem fornecidas no prazo fixado, considerar-se-á que a notificação foi retirada, salvo se esse prazo tiver sido alargado antes do seu termo por acordo entre a Comissão e o Estado-membro em causa ou se este informar a Comissão, antes do termo do prazo fixado e por uma declaração devidamente fundamentada, que considera a notificação completa pelo facto de as informações solicitadas não existirem ou já terem sido fornecidas. Neste caso, o prazo referido no n.º 5 do artigo 4.º começará a correr no dia seguinte à data de recepção da declaração. Se se considerar que a notificação foi retirada, a Comissão informará o Estado-membro desse facto."
+  },
+  "a5fae679f1d8c4c0": {
+   "fragment_id": "Artigo 6.º-A — Pedido de informações apresentado a outras fontes",
+   "type": "artigo",
+   "heading": "Artigo 6.º-A — Pedido de informações apresentado a outras fontes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-A — Pedido de informações apresentado a outras fontes\n\n1. Após o início do procedimento formal de investigação previsto no artigo 6.º, em especial no que se refere a casos tecnicamente complexos sujeitos a avaliação substantiva, a Comissão pode solicitar a uma empresa, a uma associação de empresas ou a outro Estado-Membro que prestem todas as informações necessárias para lhe permitir completar a apreciação da medida em apreço, se as informações prestadas pelo Estado-Membro interessado durante a investigação preliminar não forem suficientes, tendo em conta o princípio da proporcionalidade, em especial para as pequenas e médias empresas.\n\n2. A Comissão só pode pedir informações:\n\na) Se estiver limitada a procedimentos formais de investigação que à data tenham sido considerados ineficazes pela Comissão; e\n\nb) No que se refere aos beneficiários, se o Estado-Membro em causa der o seu acordo ao pedido.\n\n3. As empresas ou associações de empresas que prestam informações relativas ao mercado na sequência de um pedido da Comissão com base nos n.^os^ 6 e 7 devem apresentar a sua resposta simultaneamente à Comissão e ao Estado-Membro causa, desde que o documento fornecido não inclua informações confidenciais relativamente a esse Estado-Membro.\n\nA Comissão conduz e controla a transmissão das informações entre Estados-Membros, empresas e associações de empresas em causa, e verifica a alegada confidencialidade das informações transmitidas.\n\n4. A Comissão apenas pode pedir informações que estejam à disposição de um Estado-Membro uma empresa ou de uma associação de empresas implicados no pedido.\n\n5. Os Estados-Membros prestam as informações com base num simples pedido e dentro de um prazo que normalmente não deve ser superior a um mês. Caso o Estado-Membro em causa não preste as informações solicitadas no prazo fixado pela Comissão ou caso elas sejam incompletas, a Comissão enviará uma carta de insistência.\n\n6. A Comissão pode, mediante simples pedido, exigir que uma empresa ou uma associação de empresas prestem informações. Caso a Comissão envie um pedido de informações a uma empresa ou associação de empresas deve indicar a base jurídica e a finalidade do pedido, especificar as informações solicitadas e fixar um prazo proporcionado durante o qual as informações devem ser prestadas. A Comissão deve mencionar igualmente as [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas**◄** previstas no artigo 6.º-B, n.º 1, por informações incorretas ou enganosas.\n\n7. A Comissão pode, mediante decisão, exigir que uma empresa ou uma associação de empresas prestem informações. Sempre que a Comissão exigir, mediante decisão, a uma empresa ou associação de empresas, que prestem informações, deve indicar a base jurídica e a finalidade do pedido, especificar as informações solicitadas e fixar um prazo proporcionado durante o qual as informações devem ser prestadas. A Comissão deve indicar igualmente as [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas**◄** previstas no artigo 6.º-B, n.º 1, e, conforme adequado, indicar ou aplicar as [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias**◄** previstas no artigo 6.º-B, n.º 2. Em complemento, deve informar a empresa ou associação de empresas do direito de impugnarem a decisão perante o Tribunal de Justiça da União Europeia.\n\n8. A Comissão fornece ao Estado-Membro em causa uma cópia do pedido de informações enviado ao abrigo dos n.^os^ 1 e 6, e da decisão a que se refere o n.º 7, simultaneamente com o envio ao destinatário do pedido. A Comissão indicará igualmente os critérios aplicados para a escolha dos destinatários de um pedido de informações ou de uma decisão.\n\n9. Os proprietários das empresas ou seus representantes e, no caso de pessoas coletivas, de sociedades ou de associações sem personalidade jurídica, as pessoas encarregadas de as representar nos termos da lei ou dos estatutos são obrigados a fornecer as informações pedidas. As pessoas devidamente mandatadas podem fornecer as informações solicitadas em nome dos seus mandantes. Estes mantêm-se plenamente responsáveis caso as informações prestadas sejam incompletas, incorretas ou enganosas."
+  },
+  "10672a9fdc927e2e": {
+   "fragment_id": "Artigo 6.º-B — [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) Coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+   "type": "artigo",
+   "heading": "Artigo 6.º-B — [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) Coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º-B — [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) Coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄\n\n1. A Comissão pode, se tal for considerado necessário e proporcionado, aplicar mediante decisão às empresas ou associações de empresas [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas**◄** até 1 % do respetivo volume total de negócios realizado durante o exercício precedente, sempre que, deliberadamente ou por negligência grave:\n\na) Prestem informações incorretas ou enganosas em resposta a um pedido feito nos termos do artigo 6.º-A, n.º 6;\n\nb) Prestem informações incorretas, incompletas ou enganosas em resposta a um pedido que lhes tenha sido dirigido por decisão adotada nos termos do artigo 6.º-A, n.º 7, ou não prestem as informações no prazo fixado.\n\n2. A Comissão pode, mediante decisão, aplicar [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias**◄** às empresas ou associações de empresas que não prestem informações completas e corretas, solicitadas pela Comissão por decisão adotada ao abrigo do artigo 6.º-A, n.º 7.\n\nAs [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias**◄** não devem exceder 5 % do volume de negócios diário médio da empresa ou da associação em causa realizado durante o exercício precedente, por cada dia útil de atraso, a contar da data fixada na decisão, até às empresas ou associações em causa prestarem as informações completas e corretas solicitadas ou requeridas pela Comissão.\n\n3. Na determinação do montante da [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coima**◄** ou [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanção pecuniária compulsória**◄**, deve atender-se à natureza, à gravidade e à duração da infração, tendo em conta os princípios da proporcionalidade e da adequação, em especial para as pequenas e médias empresas.\n\n4. Quando as empresas ou associações de empresas tiverem cumprido a obrigação para cuja execução fora aplicada a [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanção pecuniária compulsória**◄**, a Comissão pode reduzir o montante definitivo da mesma num montante inferior ao que resultaria da decisão inicial que se impunha às [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias**◄**. A Comissão pode igualmente decidir não aplicar qualquer [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanção pecuniária compulsória**◄**.\n\n5. Antes de adotar qualquer decisão nos termos dos n.^os^ 1 ou 2, a Comissão fixa um prazo final de duas semanas para receber as informações em falta por parte das empresas ou associações de empresas em causa e deve dar-lhes a oportunidade de apresentarem as suas observações.\n\n6. O Tribunal de Justiça da União Europeia tem plena jurisdição na aceção do artigo 261.º do TFUE para apreciar as [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas**◄** ou [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias**◄** aplicadas pela Comissão. O Tribunal de Justiça da União Europeia pode suprimir, reduzir ou aumentar a [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coima**◄** ou a [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanção pecuniária compulsória**◄** aplicada."
+  },
+  "9b38359233288546": {
+   "fragment_id": "Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Decisão da Comissão de encerramento do procedimento formal de investigação\n\n1. Sem prejuízo do disposto no artigo 8.º, o procedimento formal de investigação será encerrado por via de decisão, nos termos dos n.^os^ 2 a 5 do presente artigo.\n\n2. Quando a Comissão verificar que, eventualmente após alterações pelo Estado-membro em causa, uma medida notificada não constitui um auxílio, fará constar esse facto por via de decisão.\n\n3. Quando a Comissão considerar que, eventualmente após alterações pelo Estado-membro em causa, deixaram de existir dúvidas quanto à compatibilidade de uma medida notificada com o mercado comum, decidirá que o auxílio é compatível com o mercado comum, adiante designada «decisão positiva». A decisão referirá expressamente a derrogação do Tratado que foi aplicada.\n\n4. A Comissão pode acompanhar a sua decisão positiva de condições que lhe permitam considerar o auxílio compatível com o mercado comum e de obrigações que lhe permitam controlar o cumprimento da decisão, adiante designada «decisão condicional».\n\n5. Quando a Comissão considerar que o auxílio notificado é incompatível com o mercado comum, decidirá que o mesmo não pode ser executado, adiante designada «decisão negativa».\n\n6. As decisões nos termos dos n.^os^ 2, 3, 4 e 5 devem ser tomadas quando tenham sido dissipadas as dúvidas referidas no n.º 4 do artigo 4.º Na medida do possível, a Comissão esforçar-se-á por adoptar uma decisão no prazo de 18 meses a contar da data de início do procedimento. Este prazo pode ser prorrogado por comum acordo entre a Comissão e o Estado-membro em causa.\n\n7. Decorrido o prazo previsto no n.º 6, e desde que o Estado-membro em causa o solicite, a Comissão tomará uma decisão no prazo de dois meses com base nas informações disponíveis. Se necessário e se as informações prestadas não forem suficientes para estabelecer a compatibilidade, a Comissão tomará uma decisão negativa.\n\n8. Antes de adotar qualquer decisão ao abrigo dos n.^os^ 2 a 5, a Comissão dá ao Estado-Membro em causa a oportunidade de apresentar observações, num prazo que em princípio não deverá exceder um mês, sobre as informações recebidas pela Comissão e facultadas ao Estado-Membro em causa nos termos do artigo 6.º-A, n.º 3.\n\n9. A Comissão não pode utilizar informações confidenciais prestadas por inquiridos, que não podem ser agregadas nem tornadas anónimas, em qualquer decisão adotada ao abrigo dos n.^os^ 2 a 5, a menos que tenha obtido o respetivo acordo para comunicar tais informações ao Estado-Membro em causa. A Comissão pode tomar uma decisão fundamentada, que será notificada à empresa ou associação de empresas em causa, estipulando que as informações prestadas por um inquirido e assinaladas como confidenciais não são informações protegidas e fixando um prazo no termo do qual as informações serão divulgadas. O referido prazo não pode ser inferior a um mês.\n\n10. A Comissão terá em devida conta o interesse legítimo das empresas na proteção dos seus segredos comerciais e de outras informações confidenciais. Uma empresa ou uma associação de empresas, que não sejam beneficiárias do auxílio estatal em causa, e que prestem informações nos termos do artigo 6.º-A, podem solicitar, em razão de eventuais prejuízos, que a sua identidade não seja revelada ao Estado-Membro em causa."
+  },
+  "8a8280001e0df1df": {
+   "fragment_id": "Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Exame, pedido de informações e injunção para prestação de informações\n\n1. Sem prejuízo do disposto no artigo 20.º, a Comissão pode, por sua própria iniciativa, examinar informações de qualquer fonte sobre um auxílio alegadamente ilegal.\n\nA Comissão examinará sem demora injustificada as [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) queixas**◄** apresentadas por outras partes interessadas em conformidade com o artigo 20.º, n.º 2, e assegurar que o Estado-Membro em causa seja mantido plena e periodicamente informado do andamento e do resultado do exame.\n\n2. Se necessário, a Comissão pedirá informações ao Estado-Membro em causa. Será aplicável, *mutatis mutandis*, o disposto no artigo 2.º, n.º 2, e no artigo 5.º, n.^os^ 1 e 2.\n\nApós o início do procedimento formal de investigação, a Comissão pode solicitar igualmente informações de um Estado-Membro, de uma empresa ou de uma associação de empresas em conformidade com os artigos 6.º-A e 6.º-B, que serão aplicáveis *mutatis mutandis*.\n\n3. Quando, não obstante uma carta de insistência enviada nos termos do n.º 2 do artigo 5.º, o Estado-membro em causa não fornecer as informações pedidas no prazo fixado pela Comissão ou fornecer informações incompletas, a Comissão ordenará, por via de decisão, que lhe sejam fornecidas aquelas informações, adiante designada «injunção para prestação de informações». A decisão deve especificar quais as informações requeridas e fixar um prazo adequado para a prestação das mesmas."
+  },
+  "b0342bc1df002810": {
+   "fragment_id": "CAPÍTULO III-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO III-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III-A"
+  },
+  "1ddbd409c983cf32": {
+   "fragment_id": "PRAZOS DE PRESCRIÇÃO",
+   "type": "divisao",
+   "heading": "PRAZOS DE PRESCRIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRAZOS DE PRESCRIÇÃO"
+  },
+  "b4ce144ac70cc8bb": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º"
+  },
+  "62fadb04030b4f86": {
+   "fragment_id": "Prazo de prescrição para a recuperação dos auxílios",
+   "type": "divisao",
+   "heading": "Prazo de prescrição para a recuperação dos auxílios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Prazo de prescrição para a recuperação dos auxílios\n\n1. Os poderes da Comissão para recuperar o auxílio ficam sujeitos a um prazo de prescrição de dez anos.\n\n2. O prazo de prescrição começa a contar na data em que o auxílio ilegal tenha sido concedido ao beneficiário, quer como auxílio individual, quer como auxílio ao abrigo de um regime de auxílio. O prazo de prescrição é interrompido por quaisquer actos relativos ao auxílio ilegal praticados pela Comissão ou por um Estado-membro a pedido desta. Cada interrupção inicia uma nova contagem de prazo. O prazo de prescrição será suspenso enquanto a decisão da Comissão for objecto de um processo no Tribunal de Justiça das Comunidades Europeias.\n\n3. Qualquer auxílio cujo prazo de prescrição tenha caducado será considerado um auxílio existente."
+  },
+  "842c55b29a1de44a": {
+   "fragment_id": "Artigo 15.º-A — Prazo de prescrição para a imposição de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+   "type": "artigo",
+   "heading": "Artigo 15.º-A — Prazo de prescrição para a imposição de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-A — Prazo de prescrição para a imposição de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄\n\n1. Os poderes conferidos à Comissão pelo artigo 6.º-B ficam sujeitos a um prazo de prescrição de três anos.\n\n2. O prazo previsto no n.º 1 começa a contar no dia em que é cometida a infração referida no Artigo 6.º-B. Todavia, no que se refere às infrações continuadas ou repetidas, o prazo de prescrição só começa a contar na data em que tiverem cessado essas infrações.\n\n3. Os atos praticados pela Comissão relativos à investigação ou à instauração de um processo sobre uma das infrações a que se refere o artigo 6.º-B interrompem o prazo de aplicação de coimas ou de sanções pecuniárias compulsórias.**◄** A interrupção da prescrição produz efeitos a partir do dia em que o ato é notificado à empresa ou associação de empresas em causa.\n\n4. Cada interrupção dá início a uma nova contagem do prazo. Todavia, a prescrição produz efeitos o mais tardar no dia em que expira o prazo de seis anos sem que a Comissão tenha aplicado [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas**◄** ou uma [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanção pecuniária compulsória**◄**. Este prazo é prorrogado pelo período durante o qual a prescrição tiver sido interrompida nos termos do n.º 5.\n\n5. O prazo de prescrição em matéria de aplicação de [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias**◄** interrompe-se pelo período em que a decisão da Comissão for objeto de recurso pendente no Tribunal de Justiça da União Europeia."
+  },
+  "4fe57ff30c79765c": {
+   "fragment_id": "Artigo 15.º-B — Prazos de prescrição em matéria de execução de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+   "type": "artigo",
+   "heading": "Artigo 15.º-B — Prazos de prescrição em matéria de execução de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-B — Prazos de prescrição em matéria de execução de [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coimas◄ e [►C1](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanções pecuniárias compulsórias◄\n\n1. Os poderes da Comissão para a execução das decisões adotadas ao abrigo do artigo 6.º-B estão sujeitos a um prazo de prescrição de cinco anos.\n\n2. O prazo previsto no n.º 1 começa a contar no dia em que a decisão tomada ao abrigo do Artigo 6.º-B se tornou definitiva.\n\n3. O prazo de prescrição previsto no n.º 1 interrompe-se:\n\na) Pela notificação de uma decisão que altere o montante inicial da [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coima**◄** ou da [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanção pecuniária compulsória**◄** ou que indefira um pedido no sentido de obter tal alteração;\n\nb) Por qualquer ato de um Estado-Membro, agindo a pedido da Comissão, ou da Comissão, destinado à execução da [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) coima**◄** ou da [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) sanção pecuniária compulsória**◄**.\n\n4. Cada interrupção dá início a uma nova contagem do prazo.\n\n5. O prazo de prescrição previsto no n.º 1 interrompe-se durante o período em que:\n\na) For concedido um prazo de pagamento;\n\nb) For suspensa a execução de pagamento por força de uma decisão do Tribunal de Justiça da União Europeia."
+  },
+  "ba506cccdc8c6b57": {
+   "fragment_id": "Artigo 16.º — Utilização abusiva de um auxílio",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Utilização abusiva de um auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Utilização abusiva de um auxílio\n\nSem prejuízo do disposto no artigo 23.º, a Comissão pode, em caso de utilização abusiva de um auxílio, dar início a um procedimento formal de investigação nos termos do artigo 4.º, n.º 4. Os artigos 6.º, 6.º-A, 6.º-B, 7.º, 9.º e 10.º, artigo 11.º, n.º 1, e os artigos 12.º a 15.º são aplicáveis *mutatis mutandis*."
+  },
+  "c3539646285fd0de": {
+   "fragment_id": "Artigo 20.º — Direitos das partes interessadas",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Direitos das partes interessadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direitos das partes interessadas\n\n1. Qualquer parte interessada pode apresentar observações nos termos do artigo 6.º na sequência da decisão da Comissão de iniciar o procedimento formal de investigação. Todas as partes interessadas que tenham apresentado observações e todos os beneficiários de um auxílio individual receberão cópia da decisão da Comissão nos termos do artigo 7.º\n\n2. Qualquer parte interessada pode apresentar uma [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) queixa**◄** para informar a Comissão sobre qualquer alegado auxílio ilegal ou qualquer utilização abusiva de um auxílio. Para o efeito, a parte interessada deve preencher devidamente um formulário previamente estabelecido numa medida de execução a que se refere o artigo 27.º e deve prestar as informações obrigatórias nele solicitadas.\n\nSe a Comissão considerar que a parte interessada não cumpre com os requisitos obrigatórios do formulário ou que os elementos de facto e de direito apresentados pela parte interessada não fornecem fundamentos suficientes para demonstrar, com base numa primeira análise *prima facie*, a existência de um auxílio ilegal ou de uma utilização abusiva de um auxílio, informa a parte interessada desse facto, convidando-a a apresentar as suas observações num prazo que, em princípio, não deverá ser superior a um mês. Se a parte interessada não apresentar as suas observações no prazo fixado, deve considerar-se que a [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) queixa**◄** foi retirada. A Comissão informa o Estado-Membro em causa quando se considerar que uma [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) queixa**◄** foi retirada.\n\nA Comissão enviará ao queixoso uma cópia da decisão tomada num processo relativo ao assunto da sua [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) queixa**◄**.\n\n3. A seu pedido, qualquer parte interessada obterá cópia de qualquer decisão nos termos dos artigos 4.º e 7.º, do n.º 3 do artigo 10.º e do artigo 11.º"
+  },
+  "56bdb8ea2474f2a6": {
+   "fragment_id": "CAPÍTULO VI-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI-A"
+  },
+  "fb8a451a8c75c070": {
+   "fragment_id": "INVESTIGAÇÕES POR SETORES ECONÓMICOS E POR INSTRUMENTOS DE AUXÍLIO",
+   "type": "divisao",
+   "heading": "INVESTIGAÇÕES POR SETORES ECONÓMICOS E POR INSTRUMENTOS DE AUXÍLIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### INVESTIGAÇÕES POR SETORES ECONÓMICOS E POR INSTRUMENTOS DE AUXÍLIO"
+  },
+  "1fa12254a21a7cd1": {
+   "fragment_id": "Artigo 20.º-A — Investigações por setores económicos e por instrumentos de auxílio",
+   "type": "artigo",
+   "heading": "Artigo 20.º-A — Investigações por setores económicos e por instrumentos de auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º-A — Investigações por setores económicos e por instrumentos de auxílio\n\n1. Quando as informações disponíveis fundamentem uma suspeita razoável de que as medidas de auxílio estatal num determinado setor ou com base num determinado instrumento de auxílio são suscetíveis de restringir ou distorcer efetivamente a concorrência no mercado interno em vários Estados-Membros ou que as medidas de auxílio existentes num determinado setor em vários Estados-Membros não são, ou deixaram de ser, compatíveis com o mercado interno, a Comissão pode realizar um inquérito em vários Estados-Membros sobre o setor da economia ou sobre a utilização do instrumento de auxílio em causa. No âmbito desse inquérito, a Comissão pode solicitar aos Estados-Membros, e/ou às empresas ou associações de empresas em causa, as informações necessárias para efeitos da aplicação dos artigos 107.º e 108.º do TFUE, tendo em devida conta o princípio da proporcionalidade.\n\nA Comissão deve fundamentar a realização do inquérito e a escolha dos destinatários em todos os pedidos de informação enviados ao abrigo do presente artigo.\n\nA Comissão publicará um relatório sobre os resultados do seu inquérito sobre setores específicos da economia ou determinados instrumentos de auxílio em vários Estados-Membros e convidará os Estados-Membros, empresas ou associações de empresas em causa a apresentar as suas observações.\n\n2. As informações obtidas a partir de inquéritos setoriais podem ser utilizadas no quadro de procedimentos ao abrigo do presente regulamento.\n\n3. Os artigos 5.º, 6.º-A e 6.º-B são aplicáveis *mutatis mutandis*."
+  },
+  "c2c26ecbc7b10859": {
+   "fragment_id": "CAPÍTULO VII-A",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII-A"
+  },
+  "9749b9068c616893": {
+   "fragment_id": "COOPERAÇÃO COM OS TRIBUNAIS NACIONAIS",
+   "type": "divisao",
+   "heading": "COOPERAÇÃO COM OS TRIBUNAIS NACIONAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COOPERAÇÃO COM OS TRIBUNAIS NACIONAIS"
+  },
+  "088a5c0245f3c3d6": {
+   "fragment_id": "Artigo 23.º-A — Cooperação com os tribunais nacionais",
+   "type": "artigo",
+   "heading": "Artigo 23.º-A — Cooperação com os tribunais nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º-A — Cooperação com os tribunais nacionais\n\n1. Para efeitos de aplicação do artigo 107.º, n.º 1, e do artigo 108.º do TFUE, os tribunais dos Estados-Membros podem solicitar à Comissão que lhes sejam enviadas informações na sua posse ou que dê parecer sobre questões relativas à aplicação das regras sobre os auxílios estatais.\n\n2. A Comissão pode, por sua própria iniciativa, apresentar observações escritas aos tribunais dos Estados-Membros chamados a aplicar estas disposições relativas aos auxílios estatais nos casos em que a aplicação coerente do artigo 107.º, n.º 1, ou do artigo 108.º do TFUE assim o exija. Pode também, com o consentimento do tribunal em causa, apresentar observações orais.\n\nA Comissão informa os Estados-Membros em causa das suas intenções de submeter as observações antes de as apresentar formalmente.\n\nCom o objetivo exclusivo de elaborar as suas observações, a Comissão pode solicitar ao tribunal competente do Estado-Membro que envie os documentos à disposição do tribunal necessários à apreciação do processo pela Comissão."
+  },
+  "6ec3c4bca770aa47": {
+   "fragment_id": "Artigo 25.º — Destinatário das decisões",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Destinatário das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Destinatário das decisões\n\n1. As decisões tomadas nos termos do artigo 6.º-A, n.º 7, do artigo 6.º-B, n.^os^ 1 e 2, e do artigo 7.º, n.º 9, têm como destinatários a empresa ou associação de empresas em causa. A Comissão notificará imediatamente destas decisões os destinatários e dar-lhes-á a oportunidade de indicarem à Comissão quais as informações que consideram abrangidas pelo sigilo profissional.\n\n2. Todas as outras decisões da Comissão tomadas nos termos dos capítulos II, III, IV, V e VII têm como destinatários os Estados-Membros em causa. A Comissão notificará imediatamente destas decisões os Estados-Membros em causa e dar-lhes-á a oportunidade de indicarem à Comissão quais as informações que consideram abrangidas pelo sigilo profissional."
+  },
+  "c44fedb3e204dc7f": {
+   "fragment_id": "Artigo 26.º — Publicação das decisões",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Publicação das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Publicação das decisões\n\n1. A Comissão publicará no *Jornal Oficial das Comunidades Europeias* um resumo das decisões que tomar nos termos dos n.^os^ 2 e 3 do artigo 4.º e do artigo 18.º, conjugado com o n.º 1 do artigo 19.º Essa comunicação mencionará a possibilidade de se obter um exemplar da decisão na versão ou versões linguísticas que fazem fé.\n\n2. A Comissão publicará no *Jornal Oficial das Comunidades Europeias* as decisões que tomar nos termos do n.º 4 do artigo 4.º na versão linguística que faz fé. Nos Jornais Oficiais publicados nas línguas que não sejam a da versão linguística que faz fé, a versão linguística que faz fé será acompanhada de um resumo completo na língua desse Jornal Oficial.\n\n2-A. A Comissão publica no *Jornal Oficial da União Europeia* as decisões que tomar nos termos do artigo 6.º-B, n.^os^ 1 e 2.\n\n3. A Comissão publicará no *Jornal Oficial das Comunidades Europeias* as decisões que tomar nos termos do artigo 7.º\n\n4. Se for aplicável o disposto no n.º 6 do artigo 4.º ou no n.º 2 do artigo 8.º, será publicada uma comunicação sucinta no *Jornal Oficial das Comunidades Europeias*.\n\n5. O Conselho, deliberando por unanimidade, pode decidir publicar no *Jornal Oficial das Comunidades Europeias* as decisões tomadas nos termos do n.º 2, terceiro parágrafo, do artigo 93.º do Tratado."
+  },
+  "ff762023aa7c19c4": {
+   "fragment_id": "Artigo 27.º — Medidas de execução",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Medidas de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Medidas de execução\n\nA Comissão, deliberando em conformidade com o procedimento previsto no artigo 29.º, é autorizada a adotar medidas de execução relativas:\n\na) À forma, ao conteúdo e a outros aspetos relativos às notificações;\n\nb) À forma, ao conteúdo e a outros aspetos relativos aos relatórios anuais;\n\nc) À forma, ao conteúdo e a outros aspetos relativos às [**►C1**](http://publications.europa.eu/resource/celex/32013R0734R%2801%29) queixas**◄** apresentadas nos termos do artigo 10.º, n.º 1, e do artigo 20.º, n.º 2;\n\nd) Aos prazos e ao seu cálculo; e\n\ne) À taxa de juro a que se refere o artigo 14.º, n.º 2."
+  },
+  "b0abaaef252cf9ba": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/bf3b8f2e-c846-4276-8846-425001e5b6e0.0018.03/DOC_2#src.E0001)) JO C 116 de 16. 4. 1998, p. 13.\n\n> ([^2^](http://publications.europa.eu/resource/cellar/bf3b8f2e-c846-4276-8846-425001e5b6e0.0018.03/DOC_2#src.E0002)) Parecer emitido em 14 de Janeiro de 1999 (ainda não publicado no Jornal Oficial).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/bf3b8f2e-c846-4276-8846-425001e5b6e0.0018.03/DOC_2#src.E0003)) JO C 284 de 14. 9. 1998, p. 10."
+  },
+  "8c31eddf8cfae373": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 1999R0659 — PT — 14.10.2015 — 004.001\n\n> Este documento constitui um instrumento de documentação e não vincula as instituições\n\n[►B](http://publications.europa.eu/resource/celex/31999R0659) [REGULAMENTO (CE) N.º 659/1999 DO CONSELHO,](http://publications.europa.eu/resource/celex/31999R0659) [de 22 de março de 1999,](http://publications.europa.eu/resource/celex/31999R0659) [que estabelece as regras de execução do artigo 108.º do tratado sobre o funcionamento da união Europeia](http://publications.europa.eu/resource/celex/31999R0659) (JO L 083, 27.3.1999, p.1)\n\n**revogado por:**\n\n- [Regulamento (UE) 2015/1589 do Conselho de 13 de julho de 2015](http://publications.europa.eu/resource/celex/32015R1589) — L 248 — 9 — 24.9.2015"
+  }
+ }
+}

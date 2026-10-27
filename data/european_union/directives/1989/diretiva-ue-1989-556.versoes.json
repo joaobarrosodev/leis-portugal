@@ -1,0 +1,39 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:31989L0556:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01989L0556-20210421",
+ "dre_path": null,
+ "source_lastmod": "2021-04-21",
+ "versions": [
+  {
+   "date": "1989-10-19",
+   "future": false,
+   "celex": "31989L0556",
+   "acts": [],
+   "changes": [],
+   "fragments": []
+  },
+  {
+   "date": "2021-04-21",
+   "future": false,
+   "celex": "01989L0556-20210421",
+   "acts": [],
+   "changes": [
+    "Adita preambulo"
+   ],
+   "fragments": [
+    "4770f1090388af4b"
+   ]
+  }
+ ],
+ "fragments": {
+  "4770f1090388af4b": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "> 01989L0556 — PT — 21.04.2021 — 007.001\n\n> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento\n\n[►B](http://publications.europa.eu/resource/celex/31989L0556) [DIRECTIVA DO CONSELHO](http://publications.europa.eu/resource/celex/31989L0556) [de 25 de Setembro de 1989](http://publications.europa.eu/resource/celex/31989L0556) [que estabelece as condições de polícia sanitária aplicáveis às trocas comerciais intracomunitárias e às importações provenientes de países terceiros de embriões de animais da espécie bovina](http://publications.europa.eu/resource/celex/31989L0556) [(89/556/CEE)](http://publications.europa.eu/resource/celex/31989L0556) (JO L 302, 19.10.1989, p.1)\n\n**Revogada por:**\n\n- [Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho de 9 de março de 2016](http://publications.europa.eu/resource/celex/32016R0429) — L 84 — 1 — 31.3.2016"
+  }
+ }
+}

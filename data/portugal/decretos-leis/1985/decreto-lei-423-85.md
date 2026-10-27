@@ -1,0 +1,328 @@
+---
+schema_version: '1.0'
+id: pt:dre:178110:por
+title: Decreto-Lei n.º 423/85
+short_title: null
+summary: Aprova a estrutura orgânica do Instituto Superior de Artes Plásticas da Madeira
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 423/85
+official_date: null
+publication_date: '1985-10-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 243/1985, Série I de 1985-10-22
+  number: '243'
+  series: I
+  supplement: null
+  pages: 3482 - 3485
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24300/34823485.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '178110'
+  dre_path: /dr/detalhe/decreto-lei/423-1985-178110
+  internal: pt:dre:178110:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1985-178110
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1985-178110
+  consolidated_url: null
+  retrieved_at: '2026-10-23T00:07:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: 64b3f118773ae9c09a18e59be96668f13f96659cf75415cd2e45d2d6701318a3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T00:07:58Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto Superior de Artes Plásticas da Madeira
+- Madeira.região Autónoma
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:244884:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253058:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:277291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:453225:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:661544:por
+  label: null
+  source: null
+article_structure:
+  article_count: 21
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T00:07:58Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 423/85
+
+de 22 de Outubro
+
+O [Decreto-Lei n.º 55/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1984-661544), de 16 de Fevereiro, fixou o quadro de pessoal do Instituto Superior de Artes Plásticas da Madeira, criado pelo [Decreto-Lei n.º 450/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1977-277291), de 27 de Outubro.
+
+De acordo com o disposto no n.º 2 do artigo 7.º daquele diploma, torna-se necessário estabelecer a estrutura orgânica do Instituto, elaborada com base na estrutura que vigora para as escolas análogas de ensino superior, com as adaptações resultantes dos condicionalismos próprios daquele Instituto e da região em que o mesmo se insere.
+
+Assim:
+
+Considerando o disposto na alínea a) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 332/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1983-453225), de 13 de Julho, ouvido o Governo Regional da Madeira:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Regime geral)
+
+1 - A estrutura, organização e funcionamento do Instituto Superior de Artes Plásticas da Madeira, adiante designado por Instituto, regem-se pelo disposto no presente diploma.
+
+2 - Aplicam-se ao Instituto, em tudo o que não contrarie o disposto no presente diploma, as normas estabelecidas pelo [Decreto n.º 41363](https://diariodarepublica.pt/dr/detalhe/decreto/41363-1957-253058), de 14 de Novembro de 1957, e demais legislação complementar para as Secções de Pintura e Escultura das Escolas Superiores de Belas-Artes de Lisboa e do Porto.
+
+Órgãos e serviços
+
+###### Artigo 2.º — (Órgãos)
+
+1 - São órgãos do Instituto:
+
+a) A assembleia de representantes;
+
+b) O conselho directivo;
+
+c) O conselho científico;
+
+d) O conselho pedagógico;
+
+e) O conselho administrativo.
+
+2 - A composição e o funcionamento da assembleia dos representantes e dos conselhos directivo, científico e pedagógico são os previstos no [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro, com as adaptações constantes do presente diploma.
+
+###### Artigo 3.º — (Assembleia de representantes)
+
+A assembleia de representantes é composta por 10 delegados dos docentes, 10 do discentes e 5 do pessoal técnico, administrativo, operário e auxiliar.
+
+###### Artigo 4.º — (Conselho directivo)
+
+1 - O conselho directivo é constituído por:
+
+a) Dois docentes, um dos quais será obrigatoriamente professor ou primeiro-assistente ou equiparado;
+
+b) Dois estudantes;
+
+c) Um elemento do pessoal técnico, administrativo, operário e auxiliar.
+
+2 - Os membros do conselho são eleitos por escrutínio secreto pelos respectivos corpos da assembleia de representantes.
+
+###### Artigo 5.º — (Competência)
+
+Compete ao conselho directivo:
+
+a) Administrar e gerir o Instituto em todos os assuntos que não sejam de expressa competência de outros órgãos, assegurando o seu regular funcionamento;
+
+b) Dar execução a todos os actos emanados dos restantes órgãos do Instituto, no exercício da sua competência;
+
+c) Elaborar os planos de actividade do Instituto e os relatórios da sua execução, a apresentar às autoridades competentes no prazo estabelecido.
+
+###### Artigo 6.º — (Presidente do conselho directivo)
+
+1 - O conselho directivo será presidido pelo docente ou por um dos docentes do conselho com a categoria de professor ou primeiro-assistente ou equiparado, a eleger, neste caso, em escrutínio secreto pelos membros do próprio conselho.
+
+2 - O presidente do conselho directivo será substituído, nas suas faltas ou impedimentos, pelo outro docente do conselho.
+
+3 - Compete ao presidente do conselho directivo:
+
+a) Cumprir e fazer cumprir as disposições regulamentares aplicáveis;
+
+b) Convocar as reuniões dos conselhos directivo e administrativo e zelar pela execução das suas deliberações;
+
+c) Proceder à colocação e distribuição do pessoal pelos órgãos e serviços do Instituto;
+
+d) Representar o Instituto em juízo e fora dele;
+
+e) Orientar e coordenar a acção dos serviços;
+
+f)Exercer sobre o pessoal do Instituto a competência disciplinar prevista na lei;
+
+g) Emitir as directivas que se mostrem necessárias à execução da legislação aplicável ao Instituto e estabelecer as regras internas do seu funcionamento.
+
+###### Artigo 7.º — (Conselho científico)
+
+1 - O conselho científico é constituído por todos os professores e primeiros-assistentes ou equiparados em exercício efectivo de funções no Instituto.
+
+2 - Os membros do conselho elegerão entre si um presidente, a quem incumbe a direcção das reuniões e a representação oficial do conselho.
+
+###### Artigo 8.º — (Conselho pedagógico)
+
+O conselho pedagógico é composto paritariamente por professores, primeiros-assistentes, assistentes e estudantes, em número máximo de 12, a eleger em escrutínio secreto pelos membros de cada uma daquelas categorias.
+
+###### Artigo 9.º — (Competência)
+
+As competências da assembleia de representantes e dos conselhos científico e pedagógico são as previstas nos artigos 8.º, 21.º, e 25.º do [Decreto-Lei n.º 781-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/781-a-1976-244884), de 28 de Outubro.
+
+###### Artigo 10.º — (Conselho administrativo)
+
+O conselho administrativo é composto pelo presidente do conselho directivo, que presidirá, pelo vogal docente do conselho, que substituirá o presidente nas suas faltas ou impedimentos, pelo secretário e pelo chefe de secção ou seus substitutos legais.
+
+###### Artigo 11.º — (Competência)
+
+1 - Compete ao conselho administrativo superintender na administração financeira e patrimonial do Instituto, assegurando a cobrança de receitas e o pagamento das despesas indispensáveis ao seu funcionamento.
+
+2 - Os membros do conselho administrativo são solidários na responsabilidade dos levantamentos de fundos e dos pagamentos, desde que tenham estado presentes à reunião em que esses actos foram aprovados e não tenham feito declaração expressa de discordância com a decisão.
+
+###### Artigo 12.º — (Funcionamento)
+
+Sem prejuízo do disposto no n.º 2 do artigo 2.º, o funcionamento de cada um dos órgãos do Instituto reger-se-á ainda por regulamentos internos, a aprovar por maioria absoluta dos seus membros.
+
+###### Artigo 13.º — (Serviços)
+
+O Instituto compreende os seguintes serviços:
+
+a) A secretaria;
+
+b) A biblioteca.
+
+###### Artigo 14.º — (Secretaria)
+
+1 - A secretaria é dirigida por um secretário e compreende a secção de pessoal e contabilidade e os serviços académicos.
+
+2 - O secretário é equiparado a chefe de divisão, para todos os efeitos legais, e compete-lhe, nomeadamente:
+
+a) Orientar e coordenar a actividade dos serviços e superintender no seu funcionamento;
+
+b) Assistir tecnicamente aos órgãos de gestão do Instituto;
+
+c) Elaborar estudos, pareceres e informações de natureza jurídica relativos à gestão do Instituto;
+
+d) Recolher, sistematizar e divulgar a legislação com interesse para os serviços;
+
+e) Assistir e secretariar, sem direito a voto, as reuniões e demais actos presididos pelo presidente do conselho directivo;
+
+f) Distribuir o pessoal não docente nem investigador pelos serviços, estando-lhe esse pessoal subordinado hierárquica e disciplinarmente, podendo os funcionários recorrer das suas decisões para o presidente do conselho directivo;
+
+g) Corresponder-se com serviços e entidades públicas ou privadas, no âmbito da sua competência;
+
+h) Informar e submeter a despacho do presidente do conselho directivo todos os assuntos relativos a problemas de natureza técnica;
+
+i) Promover a execução das deliberações dos órgãos do Instituto.
+
+###### Artigo 15.º — (Secção de pessoal e contabilidade)
+
+1 - A secção de pessoal e contabilidade é dirigida por um chefe de secção e desenvolve as suas actividades nos domínios do expediente e arquivo, do orçamento e contabilidade e do património.
+
+2 - Compete à secção:
+
+a) Organizar e movimentar os processos relativos ao recrutamento, selecção e provimento, bem como à promoção, recondução, prorrogação, transferência, exoneração, rescisão de contratos, demissão, aposentação e demais situações relativas ao pessoal do Instituto;
+
+b) Realizar acções sistemáticas de formação e aperfeiçoamento do pessoal não docente do Instituto;
+
+c) Assegurar o apetrechamento dos serviços, centralizando os processos de aquisição de material, nos termos das disposições legais vigentes;
+
+d) Zelar pela conservação e aproveitamento do material e das instalações;
+
+e) Organizar e manter actualizado o cadastro dos bens móveis e imóveis do Instituto;
+
+f)Processar as requisições de fundos do Instituto;
+
+g) Elaborar o projecto dos orçamentos ordinários e suplementares e dos orçamentos em conta de receitas próprias;
+
+h) Processar folhas de vencimento, salários, gratificações e outros abonos do pessoal;
+
+i) Organizar a conta de gerência, a submeter a julgamento do Tribunal de Contas.
+
+###### Artigo 16.º — (Serviços académicos)
+
+Os serviços académicos são coordenados por um dos funcionários de maior categoria neles colocado e exercem as suas atribuições nos domínios dos assuntos académicos e da vida escolar dos alunos, bem como nos do fomento e apoio das actividades circum-escolares.
+
+###### Artigo 17.º — (Biblioteca)
+
+A biblioteca é coordenada por um técnico superior de biblioteca, arquivo e documentação e desenvolve as suas actividades nos domínios da recolha, tratamento e difusão da documentação e informação com interesse para o Instituto.
+
+Gestão financeira e patrimonial
+
+###### Artigo 18.º — (Orçamentos e gestão)
+
+1 - A organização dos orçamentos e a gestão financeira e patrimonial do Instituto obedecerão às regras gerais da contabilidade pública aplicáveis aos serviços dotados de autonomia administrativa e às normas especiais constantes do presente diploma.
+
+2 - A gestão financeira e patrimonial do Instituto será orientada por planos de actividades anuais e plurianuais e pelo orçamento privativo e suas actualizações.
+
+###### Artigo 19.º — (Receitas e despesas)
+
+1 - O Instituto arrecadará e administrará as suas receitas de modo a satisfazer, por meio delas, os encargos resultantes do seu funcionamento.
+
+2 - Constituem receitas do Instituto:
+
+a) As dotações inscritas no orçamento da Região a favor do Instituto;
+
+b) Os rendimentos dos bens próprios ou daqueles de que tenha a fruição a qualquer título;
+
+c) Os subsídios, comparticipações, doações e legados concedidos por quaisquer entidades;
+
+d) As quantias cobradas por serviços prestados a entidades públicas ou privadas, nacionais ou estrangeiras e internacionais.
+
+3 - As receitas a que se referem as alíneas b) a d) do número anterior serão entregues nos cofres do Estado e escrituradas em contas de ordem, mediante guias a expedir pelo Instituto, devendo ser prioritariamente aplicadas, segundo orçamento privativo, na cobertura dos encargos dos serviços que as originaram.
+
+Disposições gerais e transitórias
+
+###### Artigo 20.º — (Comissão instaladora)
+
+As atribuições e as competências dos órgãos previstos neste decreto-lei continuarão a ser exercidas pela comissão instaladora, até à sua constituição e entrada em funcionamento, que devem estar concluídas no prazo de 60 dias a contar da data da entrada em vigor do presente diploma.
+
+###### Artigo 21.º — (Entrada em vigor)
+
+O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1985. - Mário Soares - Lino Dias Miguel - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro.
+
+Promulgado em 10 de Outubro de 1985.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 14 de Outubro de 1985.
+
+O Primeiro-Ministro, Mário Soares.

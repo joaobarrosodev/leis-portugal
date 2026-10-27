@@ -1,0 +1,183 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:253861:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-177088012",
+ "dre_path": "/dr/detalhe/decreto-lei/93-1994-253861",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-04-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177145798",
+    "177145799",
+    "177145800",
+    "177145801"
+   ]
+  },
+  {
+   "date": "2022-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177088813:por",
+     "title": "Decreto-Lei n.º 2/2022",
+     "published": "2022-01-04",
+     "dre_path": "/dr/detalhe/decreto-lei/2-2022-177088813"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-A",
+    "Adita Artigo 1.º-B",
+    "Adita Artigo 1.º-C",
+    "Adita Artigo 1.º-D",
+    "Adita Artigo 1.º-E",
+    "Adita Artigo 1.º-F",
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "177145798",
+    "177145803",
+    "177145804",
+    "177145808",
+    "177145812",
+    "177145816",
+    "177145820",
+    "177145824",
+    "177145825",
+    "177145826",
+    "177145827"
+   ]
+  }
+ ],
+ "fragments": {
+  "177145798": {
+   "fragment_id": "177088013",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 93/94\n\nde 7 de Abril\n\nA legislação existente relativa ao fabrico e comercialização da cerveja encontra-se manifestamente ultrapassada, remontando ao princípio do século, pelo que se torna necessário proceder à sua revisão de modo a adaptá-la à actual situação.\n\nPor outro lado, o aumento da produção, importação e consumo da cerveja registado em Portugal nos últimos anos, bem como o aparecimento de novos tipos de produtos, impõem a definição de um novo quadro legal, no sentido de salvaguardar uma maior transparência e capacidade concorrencial da indústria face ao mercado único europeu, permitindo ao consumidor uma maior e melhor informação.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "177145799": {
+   "fragment_id": "177088014",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs normas técnicas relativas a definições, classificação, composição e características das cervejas, regras de acondicionamento e rotulagem, bem como os respectivos métodos de análise e amostragem, são fixadas por portaria conjunta dos Ministros da Agricultura, da Indústria e Energia e do Comércio e Turismo."
+  },
+  "177145800": {
+   "fragment_id": "177088015",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão revogados o Decreto de 17 de Dezembro de 1903, publicado em 22 desse mês, e o Decreto n.º 17258, de 23 de Agosto de 1929."
+  },
+  "177145801": {
+   "fragment_id": "177088016",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO disposto no artigo anterior produz efeitos na data da entrada em vigor da portaria prevista no artigo 1.º"
+  },
+  "177145803": {
+   "fragment_id": "177088014",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2022-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+   ],
+   "markdown": "###### Artigo 1.º\n\nAs normas técnicas relativas a definições, classificação, composição e características das cervejas, regras de acondicionamento e rotulagem, bem como os respetivos métodos de análise e amostragem, são fixadas por portaria dos membros do Governo responsáveis pelas áreas da economia e da agricultura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+  },
+  "177145804": {
+   "fragment_id": "177088018",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Fiscalização",
+   "in_force_from": "2022-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+   ],
+   "markdown": "###### Artigo 1.º-A — Fiscalização\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE), no âmbito das suas competências, a fiscalização do cumprimento das normas aprovadas ao abrigo do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.\n\n2 - A ASAE pode solicitar o auxílio de quaisquer entidades sempre que julgue necessário para o exercício das suas funções.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+  },
+  "177145808": {
+   "fragment_id": "177088019",
+   "type": 11,
+   "heading": "Artigo 1.º-B — Contraordenações",
+   "in_force_from": "2022-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+   ],
+   "markdown": "###### Artigo 1.º-B — Contraordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas, previsto no Decreto-Lei n.º 9/2021, de 29 de janeiro (RJCE):\n\na) O fabrico ou a comercialização de produtos que não cumpram as normas técnicas relativas à definição, ingredientes e características das cervejas aprovadas ao abrigo do presente decreto-lei;\n\nb) A comercialização de produtos cuja rotulagem não cumpra as normas técnicas relativas à rotulagem das cervejas aprovadas ao abrigo do presente decreto-lei.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+  },
+  "177145812": {
+   "fragment_id": "177088020",
+   "type": 11,
+   "heading": "Artigo 1.º-C — Instrução e decisão",
+   "in_force_from": "2022-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+   ],
+   "markdown": "###### Artigo 1.º-C — Instrução e decisão\n\n1 - A instrução dos respetivos processos de contraordenação compete à ASAE, à qual devem ser remetidos os autos de notícia levantados por outras entidades.\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+  },
+  "177145816": {
+   "fragment_id": "177088021",
+   "type": 11,
+   "heading": "Artigo 1.º-D — Sanções acessórias",
+   "in_force_from": "2022-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+   ],
+   "markdown": "###### Artigo 1.º-D — Sanções acessórias\n\nConsoante a gravidade da contraordenação e a culpa do agente podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objetos pertencentes ao agente;\n\nb) Suspensão da comercialização do produto.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+  },
+  "177145820": {
+   "fragment_id": "177088022",
+   "type": 11,
+   "heading": "Artigo 1.º-E — Afetação do produto das coimas",
+   "in_force_from": "2022-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+   ],
+   "markdown": "###### Artigo 1.º-E — Afetação do produto das coimas\n\n1 - O produto das coimas resultante da aplicação do disposto no presente decreto-lei é distribuído nos termos do RJCE.\n\n2 - A afetação do produto das coimas quando aplicadas nas regiões autónomas constitui receita própria das mesmas.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+  },
+  "177145824": {
+   "fragment_id": "177088023",
+   "type": 11,
+   "heading": "Artigo 1.º-F — Regiões Autónomas",
+   "in_force_from": "2022-01-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+   ],
+   "markdown": "###### Artigo 1.º-F — Regiões Autónomas\n\nNas Regiões Autónomas dos Açores e Madeira, a fiscalização, instrução e decisão dos processos de contraordenação compete, respetivamente, à Inspeção Regional das Atividades Económicas e à Autoridade Regional das Atividades Económicas.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 2/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2022-177088813), em vigor a partir de 2022-01-05"
+  },
+  "177145825": {
+   "fragment_id": "177088015",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão revogados o Decreto de 17 de Dezembro de 1903, publicado em 22 desse mês, e o Decreto n.º 17258, de 23 de Agosto de 1929."
+  },
+  "177145826": {
+   "fragment_id": "177088016",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO disposto no artigo anterior produz efeitos na data da entrada em vigor da portaria prevista no artigo 1.º"
+  },
+  "177145827": {
+   "fragment_id": "177088017",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Fevereiro de 1994. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.\n\nPromulgado em 16 de Março de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Março de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

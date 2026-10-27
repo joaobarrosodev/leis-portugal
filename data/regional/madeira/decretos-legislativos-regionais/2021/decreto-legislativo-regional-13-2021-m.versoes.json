@@ -1,0 +1,610 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:164870239:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-164922519",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/13-2021-164870239",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-06-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164920449",
+    "164920450",
+    "164920451",
+    "164920452",
+    "164920453",
+    "164920454",
+    "164920455",
+    "164920456",
+    "164920457",
+    "164920458",
+    "164920459",
+    "164920460",
+    "164920461",
+    "164920462",
+    "164920463",
+    "164920464",
+    "164920465",
+    "164920466",
+    "164920467",
+    "164920468",
+    "164920469",
+    "164920470",
+    "164920471",
+    "164920472",
+    "164920473",
+    "164920474",
+    "164922575",
+    "164922576",
+    "164922577",
+    "164922578",
+    "164922579",
+    "164922580",
+    "164922581",
+    "164922582",
+    "164922583",
+    "164922584",
+    "164922585",
+    "164922586",
+    "164922587",
+    "164922588",
+    "164922589",
+    "164922590",
+    "164922591",
+    "164922592",
+    "164922593",
+    "164922594",
+    "164922595",
+    "164922596",
+    "164922597",
+    "164922598",
+    "164922600",
+    "164922601"
+   ]
+  },
+  {
+   "date": "2023-07-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216188326:por",
+     "title": "Decreto Legislativo Regional n.º 29/2023/M",
+     "published": "2023-07-26",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/29-2023-216188326"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 13.º-B",
+    "Altera Artigo 11.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "164920449",
+    "164920450",
+    "164920451",
+    "164920452",
+    "164920453",
+    "164920454",
+    "164920455",
+    "164920456",
+    "164920457",
+    "164920458",
+    "164920459",
+    "164920460",
+    "164920461",
+    "164920462",
+    "164920463",
+    "216249520",
+    "164920465",
+    "164920466",
+    "216249522",
+    "216249523",
+    "164920467",
+    "164920468",
+    "164920469",
+    "164920470",
+    "164920471",
+    "164920472",
+    "164920473",
+    "164920474",
+    "164922575",
+    "164922576",
+    "164922577",
+    "164922578",
+    "164922579",
+    "164922580",
+    "164922581",
+    "164922582",
+    "164922583",
+    "164922584",
+    "164922585",
+    "164922586",
+    "164922587",
+    "164922588",
+    "164922589",
+    "164922590",
+    "164922591",
+    "164922592",
+    "164922593",
+    "164922594",
+    "164922595",
+    "164922596",
+    "164922597",
+    "164922598",
+    "164922599",
+    "164922600",
+    "216249521"
+   ]
+  }
+ ],
+ "fragments": {
+  "164920449": {
+   "fragment_id": "164922520",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 13/2021/M\n\nSumário: Estabelece o regime jurídico do pessoal não docente das organizações escolares da rede pública da Região Autónoma da Madeira.\n\nEstabelece o regime jurídico do pessoal não docente das organizações escolares da rede pública da Região Autónoma da Madeira\n\nPelo Decreto Legislativo Regional n.º 29/2006/M, de 19 de julho, consignou-se o regime jurídico do pessoal não docente das unidades incluídas ou não em estabelecimentos de ensino básico onde se realiza a educação pré-escolar e dos estabelecimentos dos ensinos básico e secundário da rede pública da Região Autónoma da Madeira (RAM).\n\nDe igual modo, pelo Decreto Legislativo Regional n.º 14/2007/M, de 24 de abril, foi aprovado o regime jurídico do pessoal não docente dos estabelecimentos de educação, designadamente creches, jardins-de-infância e infantários da rede pública da RAM.\n\nFace às novas realidades emergentes, à reformulação das carreiras do pessoal não docente das escolas a nível nacional, corporizada, à data, pela Lei n.º 12-A/2008, de 27 de fevereiro, bem como à definição e regulação do vínculo de trabalho em funções públicas, decorrente da atual Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual, adaptada à RAM pelo Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto, importa adequar aqueles regimes aos trabalhadores em exercício de funções nas organizações escolares da rede pública da Região Autónoma da Madeira, em prol da qualidade do serviço público de educação.\n\nImporta, ainda, na senda da valorização contínua dos trabalhadores não docentes e da uniformização relativamente às carreiras de Ajudante de Ação Socioeducativa já transitadas e da carreira subsistente de Ajudante de Ação Socioeducativa de Educação Pré-Escolar, proceder à criação da carreira especial de Técnico de Apoio à Infância que agregue os trabalhadores não docentes daquela área de atividade.\n\nCom efeito, a natureza das funções desenvolvidas por aqueles trabalhadores não docentes reveste características específicas, que não se coadunam com os conteúdos funcionais previstos para as carreiras gerais, não podendo, assim, serem absorvidas por estas.\n\nImporta ainda destacar a exigência das funções dos trabalhadores desta área de atividade, as quais envolvem o trabalho direto com as crianças desde os 0 anos até o ingresso no 1.º ciclo do Ensino Básico, coadjuvando o educador de infância. Refira-se ainda que, face a tão exigente função, o ingresso na respetiva carreira especial ora prevista no presente diploma dependerá de formação prévia específica de duração não inferior a seis meses, observando-se, assim, cumulativamente, todos os requisitos enunciados no n.º 4 do artigo 84.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual, adaptada à RAM pelo Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto.\n\nImpõe-se, também, enfatizar que a experiência tem demonstrado que o recurso ao mecanismo do outsourcing em determinadas áreas, como a segurança, limpeza, jardinagem ou fornecimento de refeições, na linha, de resto, do que já se previa nos anteriores diplomas reguladores do regime jurídico do pessoal não docente, designadamente os Decretos Legislativos Regionais n.os 25/2000/M, de 15 de setembro e 29/2006/M, de 19 de julho, se tem revelado acertada, com evidentes ganhos em termos de uma gestão racional dos recursos humanos e financeiros disponíveis.\n\nForam observados os procedimentos decorrentes da mencionada Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual, adaptada à RAM pelo Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º, das alíneas o), nn) e qq) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "164920450": {
+   "fragment_id": "164922521",
+   "type": 1,
+   "heading": "Capítulo I — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto e âmbito"
+  },
+  "164920451": {
+   "fragment_id": "164922522",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma estabelece o regime jurídico dos trabalhadores não docentes das organizações escolares da Região Autónoma da Madeira (RAM)."
+  },
+  "164920452": {
+   "fragment_id": "164922523",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nAs normas constantes deste diploma aplicam-se a todos os trabalhadores não docentes que prestem serviço, a qualquer título, nas organizações escolares referidas no artigo anterior, qualquer que seja o seu estatuto de origem, com exceção dos trabalhadores colocados ao abrigo dos programas ocupacionais de emprego promovidos pelo Instituto de Emprego da Madeira, IP-RAM."
+  },
+  "164920453": {
+   "fragment_id": "164922524",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\n1 - Por «trabalhadores não docentes» entende-se o conjunto de todos os trabalhadores que, no âmbito das respetivas funções, contribuem para apoiar a organização escolar, bem como a sua atividade socioeducativa, incluindo os serviços de apoio especializado.\n\n2 - Por «órgão de gestão da escola» considera-se, consoante os casos, o conselho executivo ou diretor das escolas básicas e secundárias, bem como o diretor das escolas básicas do 1.º ciclo, com ou sem unidades de pré-escolar ou valência creche."
+  },
+  "164920454": {
+   "fragment_id": "164922525",
+   "type": 1,
+   "heading": "Capítulo II — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Direitos e deveres"
+  },
+  "164920455": {
+   "fragment_id": "164922526",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direitos\n\nO trabalhador não docente goza dos direitos previstos na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual, adiante designada por LTFP, adaptada à RAM pelo Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto, e tem o direito específico de participação no processo educativo, o qual se exerce na área do apoio à educação e ao ensino, na vida da escola e na sua relação com o meio e compreende:\n\na) A participação em discussões públicas relativas ao sistema educativo regional, com liberdade de iniciativa;\n\nb) A participação em eleições, elegendo e sendo eleito, para órgãos colegiais nas organizações escolares quando legalmente previsto."
+  },
+  "164920456": {
+   "fragment_id": "164922527",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres\n\nPara além dos deveres previstos na LTFP, são deveres específicos do trabalhador não docente:\n\na) Contribuir para a plena formação, realização, bem-estar e segurança das crianças e alunos;\n\nb) Contribuir para a organização dos organismos escolares, assegurar a realização e o desenvolvimento regular das atividades neles prosseguidos;\n\nc) Colaborar ativamente com todos os intervenientes no processo educativo;\n\nd) Zelar pela preservação das instalações e equipamentos escolares, cooperando ativamente com o órgão de gestão da escola na prossecução desse objetivo;\n\ne) Participar em ações de formação e empenhar-se no sucesso das mesmas;\n\nf) Cooperar com os restantes intervenientes no processo educativo na deteção de situações que exijam correção ou intervenção urgente, identificadas no âmbito do exercício das respetivas funções;\n\ng) Respeitar, no âmbito do dever de sigilo profissional, a natureza confidencial da informação relativa às crianças, alunos e respetivos familiares e encarregados de educação;\n\nh) Respeitar as diferenças de todos os membros da comunidade escolar, numa perspetiva inclusiva;\n\ni) Respeitar e observar as orientações superiores em matéria de gestão, organização e distribuição de serviço e horários de trabalho, em conformidade com as disposições legais atualmente em vigor."
+  },
+  "164920457": {
+   "fragment_id": "164922528",
+   "type": 1,
+   "heading": "Capítulo III — Mapas de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Mapas de pessoal"
+  },
+  "164920458": {
+   "fragment_id": "164922529",
+   "type": 11,
+   "heading": "Artigo 6.º — Mapas de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Mapas de pessoal\n\n1 - Os postos de trabalho correspondentes às carreiras dos trabalhadores não docentes são os constantes dos respetivos mapas de pessoal, os quais são publicitados em página eletrónica.\n\n2 - O número de postos de trabalho de cada mapa de pessoal poderá ser revisto nos termos previstos na LTFP."
+  },
+  "164920459": {
+   "fragment_id": "164922530",
+   "type": 11,
+   "heading": "Artigo 7.º — Densidades de dotações de pessoal não docente por estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Densidades de dotações de pessoal não docente por estabelecimento\n\n1 - As densidades são rácios de gestão que permitem determinar a dimensão adequada das dotações de pessoal não docente por estabelecimento, designadamente de acordo com os critérios seguintes:\n\na) A tipologia de cada edifício escolar;\n\nb) O número de crianças e ou alunos, tendo em conta as necessidades educativas especiais verificadas, a oferta educativa, o regime e o horário de funcionamento do estabelecimento;\n\nc) O número de trabalhadores pertencentes ao mapa de pessoal do estabelecimento que possuam restrições na sua capacidade de trabalho, devidamente comprovadas mediante junta médica.\n\n2 - As densidades resultantes da aplicação dos critérios estabelecidos no número anterior são fixadas por despacho conjunto dos membros do Governo Regional responsáveis pelas áreas das finanças e da educação.\n\n3 - As dotações integram as carreiras previstas no presente diploma, de acordo com as necessidades dos diferentes níveis e ciclos de ensino ou de educação, sendo fixadas em função das densidades a que se refere o n.º 1."
+  },
+  "164920460": {
+   "fragment_id": "164922531",
+   "type": 11,
+   "heading": "Artigo 8.º — Recrutamento e seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recrutamento e seleção\n\nCompete à direção regional responsável pela área da administração e gestão das organizações escolares, mediante a participação do órgão de gestão do estabelecimento ou do delegado escolar, a realização dos procedimentos de recrutamento e seleção com vista ao preenchimento dos postos de trabalho dos mapas de pessoal, tendo em conta as necessidades dos estabelecimentos."
+  },
+  "164920461": {
+   "fragment_id": "164922532",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gestão do pessoal\n\n1 - A gestão dos trabalhadores não docentes das organizações escolares é da competência do órgão de gestão da escola, sem prejuízo das atribuições e competências da direção regional responsável pela área da administração e gestão das organizações escolares.\n\n2 - A gestão prevista no número anterior compreende designadamente:\n\na) A fixação do horário normal de trabalho;\n\nb) A alteração das modalidades de horários;\n\nc) A distribuição de tarefas, em harmonia com os conteúdos funcionais definidos para as carreiras em que se integram os trabalhadores não docentes;\n\nd) O controlo da assiduidade;\n\ne) A salvaguarda do cumprimento do sistema de avaliação de desempenho.\n\n3 - Nas escolas de 1.º ciclo do ensino básico com unidades de educação pré-escolar, com ou sem valência de creche, o recurso às modalidades de horários em jornada contínua, horário específico do trabalhador-estudante, meia jornada, isenção de horário e horário a tempo parcial, estão sujeitas à autorização do diretor regional responsável pela administração e gestão das organizações escolares.\n\n4 - As necessidades de trabalhadores não docentes são diagnosticadas pelo órgão de gestão da escola e pelas delegações escolares, nos casos das escolas do 1.º ciclo do ensino básico com unidades de educação pré-escolar e comunicadas à referida direção regional."
+  },
+  "164920462": {
+   "fragment_id": "164922533",
+   "type": 11,
+   "heading": "Artigo 10.º — Mudança de área de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mudança de área de atividade\n\nPor razões de conveniência de serviço, devidamente fundamentadas, poderá excecionalmente ocorrer a mudança de um trabalhador, dentro da mesma carreira e sem prejuízo do seu conteúdo funcional geral, desde que as competências pessoais e técnicas o permitam, para uma outra área de atividade inerente a essa carreira, prevista no mapa de pessoal do estabelecimento."
+  },
+  "164920463": {
+   "fragment_id": "164922534",
+   "type": 1,
+   "heading": "Capítulo IV — Carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Carreiras"
+  },
+  "164920464": {
+   "fragment_id": "164922535",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime das carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime das carreiras\n\n1 - As carreiras dos trabalhadores não docentes que integram os postos de trabalho constantes dos mapas de pessoal das áreas escolares e das escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário e das escolas básicas integradas com ou sem valência creche são as carreiras gerais previstas na LTFP, sem prejuízo do disposto no artigo 12.º e seguintes do presente diploma.\n\n2 - Para além das carreiras referidas no n.º 1, integram ainda o mapa de pessoal as carreiras e categorias não revistas, as consideradas subsistentes nos termos previstos no Decreto-Lei n.º 121/2008, de 11 de julho, e ainda a carreira especial de Técnico de Apoio à Infância.\n\n3 - As alterações de posicionamento remuneratório das carreiras e categorias consideradas subsistentes referidas no n.º 2 processam-se nos termos da lei geral, por referência à tabela remuneratória única, observando a estrutura remuneratória prevista no anexo i ao presente diploma."
+  },
+  "164920465": {
+   "fragment_id": "164922536",
+   "type": 11,
+   "heading": "Artigo 12.º — Carreira de Técnico de Apoio à Infância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Carreira de Técnico de Apoio à Infância\n\n1 - É criada nos mapas de pessoal das organizações escolares que disponham da valência creche e unidades de educação pré-escolar, a carreira de Técnico de Apoio à Infância.\n\n2 - A carreira de Técnico de Apoio à Infância é uma carreira unicategorial, compreendendo uma única categoria com a mesma designação.\n\n3 - A carreira de Técnico de Apoio à Infância classifica-se com o grau 2 de complexidade funcional, sendo o ingresso feito de entre indivíduos habilitados com o 12.º ano de escolaridade, possuidores de um dos cursos específicos na área de apoio à infância a definir por despacho do membro do governo responsável pela área da educação.\n\n4 - O período experimental da carreira de Técnico de Apoio à Infância é de 180 dias.\n\n5 - À categoria da carreira unicategorial de Técnico de Apoio à Infância correspondem oito posições remuneratórias, conforme estrutura remuneratória prevista no anexo ii do presente diploma."
+  },
+  "164920466": {
+   "fragment_id": "164922537",
+   "type": 11,
+   "heading": "Artigo 13.º — Conteúdo funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conteúdo funcional\n\n1 - Ao Técnico de Apoio à Infância compete trabalhar diretamente com crianças, tendo em vista o seu desenvolvimento sociopedagógico, coadjuvando o educador de infância na programação e realização de atividades educativas e no relacionamento com os encarregados de educação.\n\n2 - Sob a orientação do educador de infância, cabe ao Técnico de Apoio à Infância executar as seguintes tarefas:\n\na) Fazer a receção das crianças e o contacto com os pais, na ausência do educador;\n\nb) Promover o bem-estar das crianças, minimizando eventuais efeitos da separação diária do ambiente familiar;\n\nc) Participar na execução dos programas educativos consoante os níveis etários, colaborando com as crianças nas suas primeiras atividades quotidianas;\n\nd) Apoiar o educador no desenvolvimento diário das atividades, através de conversas educativas, histórias e cantigas, danças, jogos livres e didáticos;\n\ne) Orientar as iniciativas livres das crianças e supervisionar os seus movimentos nos recreios;\n\nf) Acompanhar as crianças nas visitas de estudo, nomeadamente museus, exposições e outras atividades, tais como circo, colónias de férias e praias;\n\ng) Proceder à receção, distribuição e arrumação do material destinado às atividades das crianças;\n\nh) Manter o material a seu cargo em bom estado de conservação e higienização;\n\ni) Apoiar as crianças nas horas das refeições, contribuir para superar as dificuldades de adaptação desenvolvendo ações de estímulo, visando a progressiva autonomia;\n\nj) Administrar medicamentos nas horas indicadas segundo instruções recebidas;\n\nk) Acompanhar o repouso das crianças e apoiar as respetivas atividades de higiene pessoal;\n\nl) Assegurar a manutenção das condições de higiene das salas onde decorrem as atividades desenvolvidas pelas crianças;\n\nm) Preparar o regresso das crianças a casa;\n\nn) Exercer outras tarefas que pontualmente se mostrem necessárias, enquadradas no âmbito do respetivo conteúdo funcional.\n\n3 - Em situações excecionais que impliquem a ausência pontual do educador, as atividades poderão ser asseguradas pelo Técnico de Apoio à Infância, de acordo com o planeamento estabelecido."
+  },
+  "164920467": {
+   "fragment_id": "164922538",
+   "type": 1,
+   "heading": "Capítulo V — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Mobilidade"
+  },
+  "164920468": {
+   "fragment_id": "164922539",
+   "type": 11,
+   "heading": "Artigo 14.º — Formas de mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Formas de mobilidade\n\n1 - Aos trabalhadores não docentes das organizações escolares aplicam-se os regimes de mobilidade constantes da LTFP.\n\n2 - A mobilidade dos trabalhadores não docentes entre escolas do 1.º ciclo do ensino básico com unidades de educação pré-escolar, com ou sem valência creche, que integram o mapa de pessoal de cada área escolar concelhia, opera-se por afetação."
+  },
+  "164920469": {
+   "fragment_id": "164922540",
+   "type": 11,
+   "heading": "Artigo 15.º — Afetação dos trabalhadores não docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Afetação dos trabalhadores não docentes\n\n1 - A mobilidade dentro da área escolar concelhia é efetuada mediante afetação e verifica-se anualmente entre os meses de junho e julho.\n\n2 - A afetação consiste na colocação dos trabalhadores nas escolas, sendo realizada no exclusivo interesse da administração, sem prejuízo de poderem ser consideradas as solicitações dos interessados.\n\n3 - A afetação opera-se independentemente de quaisquer formalidades e efetua-se de modo a que os trabalhadores iniciem o exercício de funções, no novo estabelecimento, em regra, no início do ano escolar.\n\n4 - A afetação inicia-se com a publicitação de um aviso de abertura do qual constam obrigatoriamente os seguintes elementos:\n\na) A composição do júri;\n\nb) A forma e o prazo para entrega das candidaturas;\n\nc) A indicação do modelo tipo de requerimento;\n\nd) Critérios de desempate.\n\n5 - A afetação dos trabalhadores nos termos dos números anteriores faz-se por despacho do diretor regional responsável pela área da administração e gestão das organizações escolares, mediante processo de seleção, de acordo com a seguinte ordem de prioridades:\n\na) Última avaliação atribuída ao abrigo do sistema integrado de avaliação de desempenho (SIADAP);\n\nb) O trabalhador que possua mais tempo de serviço na carreira;\n\nc) O trabalhador que resida mais próximo do estabelecimento;\n\nd) O trabalhador com maior idade.\n\n6 - Findo o prazo para a apresentação das candidaturas, o júri elabora, nos 30 dias úteis subsequentes, a lista final dos candidatos colocados e não colocados ao concurso de afetação, a qual é publicitada na página eletrónica da Direção Regional responsável pelas organizações escolares.\n\n7 - Das reuniões dos júris são lavradas atas contendo os fundamentos das decisões tomadas.\n\n8 - Em casos devidamente fundamentados, mediante requerimento do trabalhador ou proposta do Delegado Escolar, pode ocorrer, fora do período referido no n.º 1, a afetação com caráter extraordinário, sujeita a autorização do Diretor Regional."
+  },
+  "164920470": {
+   "fragment_id": "164922541",
+   "type": 1,
+   "heading": "Capítulo VI — Áreas funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Áreas funcionais"
+  },
+  "164920471": {
+   "fragment_id": "164922542",
+   "type": 11,
+   "heading": "Artigo 16.º — Áreas de atividade e conteúdos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Áreas de atividade e conteúdos funcionais\n\nA identificação das áreas de atividade e a descrição dos conteúdos funcionais das carreiras dos trabalhadores não docentes, cuja especificidade assim o imponha, destina-se a caracterizar as respetivas funções e constam dos respetivos mapas de pessoal."
+  },
+  "164920472": {
+   "fragment_id": "164922543",
+   "type": 1,
+   "heading": "Capítulo VII — Avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Avaliação do desempenho"
+  },
+  "164920473": {
+   "fragment_id": "164922544",
+   "type": 11,
+   "heading": "Artigo 17.º — Sistema de avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Sistema de avaliação do desempenho\n\nA avaliação do desempenho obedece aos princípios, objetivos e regras em vigor para a Administração Pública, sem prejuízo de uma adaptação do SIADAP-RAM às especificidades das organizações escolares, a efetuar através de portaria."
+  },
+  "164920474": {
+   "fragment_id": "164922545",
+   "type": 1,
+   "heading": "Capítulo VIII — Remunerações e condições de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Remunerações e condições de trabalho"
+  },
+  "164922575": {
+   "fragment_id": "164922546",
+   "type": 11,
+   "heading": "Artigo 18.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Remunerações\n\nA estrutura remuneratória das carreiras referidas no artigo 11.º encontra-se prevista na lei geral, com exceção das carreiras subsistentes, a qual consta do anexo I ao presente diploma."
+  },
+  "164922576": {
+   "fragment_id": "164922547",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nSuplência e vacatura do posto de trabalho de chefe de serviços de administração escolar ou coordenador técnico\n\n1 - Prevendo-se a ausência ou impedimento do chefe de serviço de administração escolar ou coordenador técnico por período superior a 30 dias, as respetivas funções são exercidas por trabalhador designado pelo órgão de gestão da escola de entre os trabalhadores pertencentes à carreira de assistente técnico, em regime de mobilidade nos termos previstos na LTFP.\n\n2 - Nas situações de vacatura do posto de trabalho, as respetivas funções deverão ser exercidas por trabalhador designado pelo órgão de gestão da escola, em regime de mobilidade nos termos previstos na LTFP, até ao provimento do lugar."
+  },
+  "164922577": {
+   "fragment_id": "164922548",
+   "type": 11,
+   "heading": "Artigo 20.º — Férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Férias\n\n1 - Ao pessoal abrangido pelo presente diploma aplica-se o regime jurídico próprio dos trabalhadores com vínculo de emprego público.\n\n2 - As férias dos trabalhadores não docentes em exercício de funções nos estabelecimentos são aprovadas pelo respetivo órgão de gestão e no caso dos estabelecimentos do 1.º ciclo do ensino básico com unidades de educação pré-escolar com ou sem valência creche, pelo Delegado Escolar mediante parecer do órgão de gestão, de modo a assegurar o seu normal funcionamento."
+  },
+  "164922578": {
+   "fragment_id": "164922549",
+   "type": 1,
+   "heading": "Capítulo IX — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Formação"
+  },
+  "164922579": {
+   "fragment_id": "164922550",
+   "type": 11,
+   "heading": "Artigo 21.º — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regras gerais\n\n1 - A formação dos trabalhadores não docentes compreende a formação inicial e a formação contínua, nos termos da lei geral, e ainda aquela que vier ser assegurada pelos serviços da Secretaria Regional de Educação e por entidades devidamente acreditadas.\n\n2 - A formação dos trabalhadores não docentes prossegue os objetivos estabelecidos na lei, bem como:\n\na) A melhoria da qualidade dos serviços prestados à comunidade educativa;\n\nb) A aquisição de capacidades e competências que favoreçam o desempenho profissional nas escolas em consonância com os respetivos projetos educativos;\n\nc) A valorização na carreira dos trabalhadores, tendo em vista a sua realização profissional e pessoal, o seu desempenho profissional e os reflexos deste na sua avaliação."
+  },
+  "164922580": {
+   "fragment_id": "164922551",
+   "type": 1,
+   "heading": "Capítulo X — Estatuto Disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Estatuto Disciplinar"
+  },
+  "164922581": {
+   "fragment_id": "164922552",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime disciplinar\n\nAos trabalhadores não docentes são aplicáveis as regras sobre o exercício do poder disciplinar constantes da LFTP."
+  },
+  "164922582": {
+   "fragment_id": "164922553",
+   "type": 11,
+   "heading": "Artigo 23.º — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Responsabilidade disciplinar\n\nOs trabalhadores não docentes são disciplinarmente responsáveis perante o órgão de gestão do estabelecimento."
+  },
+  "164922583": {
+   "fragment_id": "164922554",
+   "type": 11,
+   "heading": "Artigo 24.º — Competência disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Competência disciplinar\n\n1 - A instauração do processo disciplinar compete:\n\na) Ao diretor regional responsável pela área da administração e gestão das organizações escolares, no caso das escolas do 1.º ciclo do ensino básico, com unidades de educação pré-escolar com ou sem valência creche;\n\nb) Ao presidente do conselho executivo ou diretor dos estabelecimentos não incluídos na alínea anterior.\n\n2 - A competência disciplinar do membro do Governo Regional da área da educação abrange a referida no número anterior e ainda quando a instauração do processo disciplinar resulte de ações inspetivas da Inspeção Regional de Educação.\n\n3 - A instauração do processo disciplinar, prevista na alínea b) do n.º 1, é comunicada imediatamente à direção regional responsável pela área da administração e gestão das organizações escolares e à Inspeção Regional de Educação.\n\n4 - Nas situações a que se refere o n.º 1, poderá ser solicitado à Inspeção Regional de Educação o apoio técnico considerado necessário."
+  },
+  "164922584": {
+   "fragment_id": "164922555",
+   "type": 11,
+   "heading": "Artigo 25.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Instrução\n\n1 - A nomeação do instrutor faz-se de acordo com as regras sobre o exercício do poder disciplinar constantes da LTFP.\n\n2 - Sem prejuízo do referido no número anterior, nos estabelecimentos dos 2.º e 3.º ciclos do ensino básico e ensino secundário e nas escolas básicas integradas, a nomeação do instrutor pode, por opção do órgão de gestão, ser solicitada à Inspeção Regional de Educação.\n\n3 - No caso dos estabelecimentos do 1.º ciclo do ensino básico, com unidades de educação pré-escolar com ou sem valência creche e delegações escolares, a nomeação do instrutor cabe ao diretor da Inspeção Regional de Educação."
+  },
+  "164922585": {
+   "fragment_id": "164922556",
+   "type": 11,
+   "heading": "Artigo 26.º — Suspensão preventiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Suspensão preventiva\n\nA suspensão preventiva é proposta pelo órgão competente para instaurar o processo disciplinar nos termos do artigo 24.º ou pelo instrutor e autorizado mediante despacho do membro do Governo Regional responsável pela área da educação."
+  },
+  "164922586": {
+   "fragment_id": "164922557",
+   "type": 11,
+   "heading": "Artigo 27.º — Competência para aplicação das sanções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competência para aplicação das sanções disciplinares\n\n1 - A aplicação de sanção disciplinar de repreensão escrita compete ao órgão competente para instaurar o processo disciplinar, nos termos do artigo 24.º\n\n2 - A aplicação das sanções disciplinares de multa e suspensão é da competência do diretor regional responsável pela área da administração e gestão das organizações escolares.\n\n3 - A aplicação das sanções disciplinares de despedimento ou demissão é da competência do membro do Governo Regional responsável pela área da educação."
+  },
+  "164922587": {
+   "fragment_id": "164922558",
+   "type": 11,
+   "heading": "Artigo 28.º — Aplicação de sanções disciplinares aos contratados a termo resolutivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Aplicação de sanções disciplinares aos contratados a termo resolutivo\n\n1 - A aplicação de sanção disciplinar de que resulte a suspensão do exercício das funções dos trabalhadores não docentes contratados a termo resolutivo determina a não renovação do contrato.\n\n2 - A aplicação de sanção disciplinar de despedimento ou demissão a trabalhadores não docentes contratados a termo resolutivo determina a incompatibilidade para o exercício de funções nos estabelecimentos de ensino, por um período de 10 anos."
+  },
+  "164922588": {
+   "fragment_id": "164922559",
+   "type": 1,
+   "heading": "Capítulo XI — Hierarquia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Hierarquia"
+  },
+  "164922589": {
+   "fragment_id": "164922560",
+   "type": 11,
+   "heading": "Artigo 29.º — Dependências hierárquicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Dependências hierárquicas\n\n1 - Dependem hierarquicamente do responsável pelo órgão de gestão do estabelecimento todos os trabalhadores não docentes, com a exceção dos abrangidos pelas dependências hierárquicas referidas nos números seguintes.\n\n2 - A competência referida no número anterior é delegável, sem faculdade de subdelegação.\n\n3 - Dependem hierarquicamente dos responsáveis pelos serviços administrativos os trabalhadores que exerçam funções sob a sua direção, independentemente da sua carreira ou categoria.\n\n4 - Nas escolas onde existam encarregados gerais operacionais, encarregados operacionais ou encarregados de pessoal auxiliar, ficam na sua dependência hierárquica todos os assistentes técnicos e assistentes operacionais da área de atividade de apoio geral."
+  },
+  "164922590": {
+   "fragment_id": "164922561",
+   "type": 1,
+   "heading": "Capítulo XII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Disposições finais e transitórias"
+  },
+  "164922591": {
+   "fragment_id": "164922562",
+   "type": 11,
+   "heading": "Artigo 30.º — Transição de carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Transição de carreira\n\n1 - Os atuais trabalhadores não docentes que integram a carreira de ajudante de ação socioeducativa da educação pré-escolar e de assistente operacional na área de atividade do apoio educativo, previstos nos respetivos mapas de pessoal, transitam para a carreira especial de Técnico de Apoio à Infância, nos termos da LTFP.\n\n2 - A transição opera-se para posição remuneratória a que corresponde o nível remuneratório em que se encontram posicionados, sendo que, em caso de falta de identidade, os trabalhadores são reposicionados em posição remuneratória automaticamente criada, de nível remuneratório não inferior ao da primeira posição da categoria para a qual transitam, cujo montante pecuniário seja idêntico ao montante pecuniário correspondente à remuneração base a que atualmente têm direito.\n\n3 - Para os trabalhadores que se encontrem posicionados em posição remuneratória intermédia, automaticamente criada, é fixado em 49 Euros o mínimo do primeiro acréscimo remuneratório resultante de alteração de posição remuneratória que deva ter lugar após a transição para a carreira especial de Técnico de Apoio à Infância.\n\n4 - O tempo de serviço prestado na carreira de origem é contabilizado, nos termos legais, na carreira para a qual o trabalhador transita.\n\n5 - Se da transição prevista no presente artigo não resultar qualquer acréscimo remuneratório, os pontos acumulados pelo trabalhador na posição remuneratória da anterior carreira relevam para efeitos de futura alteração de posicionamento remuneratório."
+  },
+  "164922592": {
+   "fragment_id": "164922563",
+   "type": 11,
+   "heading": "Artigo 31.º — Extinção de carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Extinção de carreira\n\nCom a publicação do presente diploma é extinta a carreira de Ajudante de Ação Socioeducativa de Educação Pré-Escolar."
+  },
+  "164922593": {
+   "fragment_id": "164922564",
+   "type": 11,
+   "heading": "Artigo 32.º — Regime transitório de recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regime transitório de recrutamento\n\nSem prejuízo do previsto no n.º 3 do artigo 12.º, poderão candidatar-se à carreira de Técnico de Apoio à Infância, durante o período de 5 anos a contar da data de entrada em vigor do presente diploma, os candidatos com a escolaridade obrigatória, desde que detentores de um dos cursos específicos constantes do despacho do membro do governo responsável pela área da educação referido naquele artigo."
+  },
+  "164922594": {
+   "fragment_id": "164922565",
+   "type": 11,
+   "heading": "Artigo 33.º — Procedimentos concursais pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Procedimentos concursais pendentes\n\nOs procedimentos concursais pendentes à data de entrada em vigor do presente diploma para provimento de postos de trabalho na categoria de Assistente Operacional na área de atividade do apoio educativo decorrem até ao seu termo, devendo os candidatos aprovados nas respetivas vagas transitar nos termos do artigo 30.º"
+  },
+  "164922595": {
+   "fragment_id": "164922566",
+   "type": 11,
+   "heading": "Artigo 34.º — Celebração de contratos de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Celebração de contratos de prestação de serviços\n\n1 - As organizações escolares, em articulação com os serviços da Secretaria Regional de Educação, Ciência e Tecnologia podem contratar, em regime de prestação de serviços, trabalhos de natureza técnica especializada, trabalhos de manutenção interior e exterior dos edifícios escolares e das áreas envolventes, bem como o fornecimento de bens e serviços, em estrita obediência ao regime da contratação pública.\n\n2 - O disposto no número anterior deve obrigatoriamente ter em consideração a necessária racionalização dos recursos, bem como os períodos de encerramento da atividade letiva."
+  },
+  "164922596": {
+   "fragment_id": "164922567",
+   "type": 11,
+   "heading": "Artigo 35.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Legislação subsidiária\n\nEm tudo o que não esteja especialmente previsto neste diploma aplica-se o regime jurídico próprio dos trabalhadores com vínculo de emprego público."
+  },
+  "164922597": {
+   "fragment_id": "164922568",
+   "type": 11,
+   "heading": "Artigo 36.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Norma revogatória\n\nSão revogados os Decretos Legislativos Regionais n.os 29/2006/M, de 19 de julho e 14/2007/M, de 24 de abril."
+  },
+  "164922598": {
+   "fragment_id": "164922569",
+   "type": 11,
+   "heading": "Artigo 37.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "164922600": {
+   "fragment_id": "164922571",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 3 do artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 3 do artigo 11.º)\n\nCarreiras subsistentes\n\n(ver documento original)"
+  },
+  "164922601": {
+   "fragment_id": "164922572",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 5 do artigo 12.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 5 do artigo 12.º)\n\nCarreira de Técnico de Apoio à Infância\n\n(ver documento original)\n\n114276772"
+  },
+  "216249520": {
+   "fragment_id": "164922535",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime das carreiras",
+   "in_force_from": "2023-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2023/M - Diário da República n.º 144/2023, Série I de 2023-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2023-216188326), em vigor a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 11.º — Regime das carreiras\n\n1 - As carreiras dos trabalhadores não docentes que integram os postos de trabalho constantes dos mapas de pessoal das áreas escolares e das escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário e das escolas básicas integradas com ou sem valência creche são as carreiras gerais previstas na LTFP, sem prejuízo do disposto no artigo 12.º e seguintes do presente diploma.\n\n2 - Para além das carreiras referidas no n.º 1, integram o mapa de pessoal as carreiras e categorias não revistas, as consideradas subsistentes nos termos previstos no Decreto-Lei n.º 121/2008, de 11 de julho, a carreira especial de técnico de apoio à infância e, ainda, o cargo de coordenador dos serviços administrativos escolares.\n\n3 - As alterações de posicionamento remuneratório das carreiras e categorias consideradas subsistentes referidas no n.º 2 processam-se nos termos da lei geral, por referência à tabela remuneratória única, observando a estrutura remuneratória prevista no anexo i ao presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2023/M - Diário da República n.º 144/2023, Série I de 2023-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2023-216188326), em vigor a partir de 2023-07-27"
+  },
+  "216249522": {
+   "fragment_id": "216249607",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Coordenador dos serviços administrativos escolares",
+   "in_force_from": "2023-07-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 29/2023/M - Diário da República n.º 144/2023, Série I de 2023-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2023-216188326), em vigor a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 13.º-A — Coordenador dos serviços administrativos escolares\n\n1 - Os serviços administrativos das organizações escolares, com exceção das escolas do 1.º ciclo, com ou sem unidades de pré-escolar e ou valência creche, são coordenados por um coordenador dos serviços administrativos escolares, cargo de nomeação em comissão de serviço, pelo presidente do conselho executivo ou diretor, pelo período de um ano escolar, renovável por iguais períodos, de entre os trabalhadores das carreiras de assistente técnico e técnico superior, cessando por decisão fundamentada do presidente do conselho executivo ou diretor, mediante comunicação com a antecedência mínima de 60 dias, ou a requerimento do interessado em igual prazo.\n\n2 - O coordenador dos serviços administrativos escolares tem direito a um suplemento remuneratório num montante pecuniário fixado em 45 % do valor da base remuneratória da Administração Pública, sendo devido e pago 12 meses por ano.\n\n3 - A dotação máxima é de um coordenador dos serviços administrativos escolares por organização escolar.\n\n4 - Nas suas faltas ou impedimentos, o coordenador dos serviços administrativos escolares é substituído por um trabalhador designado pelo presidente do conselho executivo ou diretor, o qual passa a auferir o suplemento remuneratório previsto no número anterior.\n\n5 - Nos termos do n.º 2 do artigo 11.º, mantêm-se em funções os trabalhadores das carreiras de chefe de departamento ou chefe de serviços de administração escolar, até que tais lugares fiquem vagos.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 29/2023/M - Diário da República n.º 144/2023, Série I de 2023-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2023-216188326), em vigor a partir de 2023-07-27"
+  },
+  "216249523": {
+   "fragment_id": "216249608",
+   "type": 11,
+   "heading": "Artigo 13.º-B — Competências do coordenador dos serviços administrativos escolares",
+   "in_force_from": "2023-07-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 29/2023/M - Diário da República n.º 144/2023, Série I de 2023-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2023-216188326), em vigor a partir de 2023-07-27"
+   ],
+   "markdown": "###### Artigo 13.º-B — Competências do coordenador dos serviços administrativos escolares\n\n1 - Ao coordenador dos serviços administrativos escolares compete participar no conselho administrativo e, na dependência do conselho executivo da escola, coordenar toda a atividade administrativa nas áreas da gestão de recursos humanos, de gestão financeira, patrimonial e de aquisições e da gestão do expediente e arquivo.\n\n2 - Ao coordenador dos serviços administrativos escolares compete ainda:\n\na) Dirigir e orientar o pessoal afeto ao serviço administrativo no exercício diário das suas tarefas;\n\nb) Propor as medidas tendentes à modernização e eficiência e eficácia dos serviços de apoio administrativo;\n\nc) Preparar e submeter a despacho do presidente do conselho executivo ou diretor todos os assuntos respeitantes ao funcionamento da escola;\n\nd) Assegurar a elaboração do projeto de orçamento de acordo com as linhas traçadas pelo conselho executivo ou diretor;\n\ne) Coordenar, de acordo com as orientações do conselho administrativo, a elaboração do relatório de conta de gerência;\n\nf) Outras competências cometidas pelo regulamento interno da escola ou por outros diplomas legais.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 29/2023/M - Diário da República n.º 144/2023, Série I de 2023-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2023-216188326), em vigor a partir de 2023-07-27"
+  },
+  "164922599": {
+   "fragment_id": "164922570",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de abril de 2021.\n\nO Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.\n\nAssinado em 24 de maio de 2021.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "216249521": {
+   "fragment_id": "164922572",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 5 do artigo 12.º)",
+   "in_force_from": "2023-07-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 29/2023/M - Diário da República n.º 144/2023, Série I de 2023-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2023-216188326), em vigor a partir de 2023-07-27"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 5 do artigo 12.º)\n\nCarreira de técnico de apoio à infância\n\n(ver documento original)\n\n114276772\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 29/2023/M - Diário da República n.º 144/2023, Série I de 2023-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2023-216188326), em vigor a partir de 2023-07-27"
+  }
+ }
+}

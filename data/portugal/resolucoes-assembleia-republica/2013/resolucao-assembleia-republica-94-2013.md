@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:497592:por
+title: Resolução da Assembleia da República n.º 94/2013
+short_title: null
+summary: Promova o desporto escolar e a prática desportiva pelos jovens
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 94/2013
+official_date: null
+publication_date: '2013-07-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 129/2013, Série I de 2013-07-08
+  number: '129'
+  series: I
+  supplement: null
+  pages: 3932 - 3932
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/07/12900/0393203932.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/94/2013/07/08/p/dre/pt/html
+  oj: null
+  dre: '497592'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/94-2013-497592
+  internal: pt:dre:497592:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/94-2013-497592
+  metadata_url: https://data.dre.pt/eli/resolassrep/94/2013/07/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/94-2013-497592
+  consolidated_url: null
+  retrieved_at: '2026-10-23T11:37:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: d416c474032b6b727a1df39d6c45dcfe5862ff73a04011214eeb92951b064439
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-23T11:37:20Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autarquia Local
+- Carta Desportiva Nacional
+- Desporto
+- Desporto Escolar
+- Estabelecimento de Ensino
+- Jovem
+- Recomendação
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-23T11:37:20Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 94/2013
+
+Promova o desporto escolar e a prática desportiva pelos jovens
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Reformule o projeto do Desporto Escolar, atualizando a sua missão, visão estratégia de operacionalização nacional, nomeadamente na sua articulação com outras entidades e agentes, em particular escolas, autarquias locais e o movimento associativo desportivo.
+
+2 - Garanta que a Carta Desportiva Nacional, que está a ser preparada pela tutela do Desporto e Juventude, inclua todas as infraestruturas desportivas públicas, privadas e associativas, possibilitando a rentabilização das mesmas.
+
+3 - Incentive a celebração de protocolos entre as escolas, autarquias, associações, Instituto Português do Desporto e Juventude, e Instituto do Emprego e Formação Profissional, para a utilização e rentabilização dos equipamentos desportivos escolares durante os períodos não-letivos, permitindo assim uma maior abertura da escola à comunidade.
+
+4 - Dê um novo impulso ao desporto universitário através da dinamização de parcerias entre autarquias, movimento associativo desportivo e instituições do ensino superior.
+
+5 - Reforce a articulação entre o Desporto Escolar e federado e o Desporto Universitário, nomeadamente, garantindo que, aquando da candidatura ao ensino superior, seja possível a introdução nos respetivos formulários de campos relativos à prática desportiva dos jovens, de forma a facilitar a sua integração no desporto universitário.
+
+6 - Crie uma comissão interministerial para o acompanhamento do projeto e do seu programa, que seja responsável por estudar, avaliar e atualizar a evolução do mesmo, devendo esta estrutura ser constituída por entidades representantes do Governo, administração pública, universidades, escolas e movimento associativo desportivo.
+
+Aprovada em 14 de junho de 2013.
+
+A Presidente da Assembleia da República, Maria da Assunção A. Esteves.

@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:451426:por
+title: Decreto-Lei n.º 208/83
+short_title: null
+summary: Altera o quantitativo das taxas de exportação que incidem sobre o vinho do Porto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Comércio e Pescas
+proposing_entity: null
+official_number: 208/83
+official_date: null
+publication_date: '1983-05-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/1983, Série I de 1983-05-21
+  number: '117'
+  series: I
+  supplement: null
+  pages: 1875 - 1876
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/05/11700/18751876.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: not_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '451426'
+  dre_path: /dr/detalhe/decreto-lei/208-1983-451426
+  internal: pt:dre:451426:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1983-451426
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1983-451426
+  consolidated_url: null
+  retrieved_at: '2026-10-22T23:50:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
+integrity:
+  source_sha256: ea216ec5cfebd8451439bfb5ca72db400dd30c46e942adc625dc5ad3daa622c7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T23:50:56Z'
+  notes: null
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Exportação
+- Vinho do Porto
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada na importação inicial
+  source: null
+- type: cites
+  target: pt:dre:178291:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:358346:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507051:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:122091532:por
+  label: Revogado a partir de 20.04.2019 pelo(a) Decreto-Lei n.º 49/2019 - Diário da República n.º 74/2019, Série I de 2019-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-2019-122091532
+  date: '2019-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T23:50:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 208/83
+
+de 21 de Maio
+
+As taxas que incidem sobre o vinho do Porto eram, na sua origem, cobradas por organismos diversos e destinadas a fins diferentes. Com as transformações entretanto verificadas quanto à organização deste sector, tais taxas passaram a constituir actualmente, na sua maior parte, receita do Instituto do Vinho do Porto, tendo-se procedido à alteração dos respectivos quantitativos, mediante portaria, nos termos do disposto no § 2.º do artigo 22.º do [Decreto-Lei n.º 26914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26914-1936-358346), de 22 de Agosto de 1936.
+
+É, todavia, de assinalar que a última actualização se refere ao ano de 1976, com valores manifestamente desajustados.
+
+Por tal motivo e sem prejuízo de uma revisão de fundo de toda esta matéria, no sentido da unificação das taxas e simplificação da sua cobrança, entendeu-se indispensável estabelecer quantitativos mais ajustados à nova conjuntura, o que se faz por decreto-lei, por exigências constitucionais.
+
+Assim:
+
+No uso da autorização legislativa conferida pelo artigo 48.º da [Lei n.º 2/83](https://diariodarepublica.pt/dr/detalhe/lei/2-1983-178291), de 18 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+Artigo 1.º Os quantitativos das taxas de exportação que incidem sobre o vinho do Porto passam a ser os seguintes:
+
+a) 2$70 por litro de vinho a granel;
+
+b) 1$50 por litro de vinho exportado engarrafado.
+
+Art. 2.º É revogada a [Portaria n.º 56/76](https://diariodarepublica.pt/dr/detalhe/portaria/56-1976-507051), de 31 de Janeiro.
+
+Visto e aprovado em Conselho de Ministros de 14 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro.
+
+Promulgado em 6 de Maio de 1983.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 10 de Maio de 1983.
+
+O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.
